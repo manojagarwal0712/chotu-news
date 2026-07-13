@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- J&K court sends publishers arrested for books ‘glorifying’ separatists to 10 days’ police custody
+- In Prashant Kishor’s election affidavit, Rs 96 crore in own assets, wife’s assets worth Rs 101 crore
   
-  🔗 https://indianexpress.com/article/india/jk-court-police-arrested-books-separatists-police-custody-10784487/
+  🔗 https://indianexpress.com/article/india/prashant-kishor-bankipur-bypoll-nomination-assets-criminal-cases-affidavit-bihar-politics-10785006/
 
-- 19 IPS officers, 12,000 cops: Puri Rath Yatra and the lessons from last year
+- In emotional speech after supporters’ protest, Narottam Mishra backs BJP’s Datia candidate
   
-  🔗 https://indianexpress.com/article/india/19-ips-officers-12000-cops-puri-rath-yatra-and-the-lessons-from-last-year-10784689/
+  🔗 https://indianexpress.com/article/india/datia-bypoll-narottam-mishra-mohan-yadav-ashutosh-tiwari-nomination-rally-bjp-10784976/
 
-- IED blast near Assam Rifles vehicle in Nagaland’s Sukhovi kills 1, injures 4
+- Curbs across Old Srinagar for Martyr’s Day, even Omar minister stopped
   
-  🔗 https://indianexpress.com/article/india/sukhovi-assam-rifles-vehicles-suspected-ied-blast-security-operation-10784618/
+  🔗 https://indianexpress.com/article/india/martyrs-day-old-srinagar-omar-abdullah-jammu-and-kashmir-10784916/
 
-- Days after going on ‘murder spree’, POCSO accused found dead in Telangana village
+- Amrit Bharat Station Scheme: Railways upgrades 10 stations at Rs 424 crore
   
-  🔗 https://indianexpress.com/article/india/hyderabad-pocso-accused-kills-six-found-dead-poison-bottle-10784505/
+  🔗 https://indianexpress.com/article/india/amrit-bharat-station-scheme-railways-upgrades-10-stations-at-rs-424-crore-cost-10784609/
 
-- Money, gold and silver coins pocketed from Badrinath temple donation, 1 arrested
+- Give proof or apologise: BJP’s Rs 100-cr defamation threat to Omar over MLA poaching claim
   
-  🔗 https://indianexpress.com/article/india/badrinath-temple-committee-pramod-nautiyal-arrested-donation-theft-10784328/
+  🔗 https://indianexpress.com/article/india/bjp-legal-notice-kashmir-omar-abdullah-poach-statehood-protest-delhi-10784877/
 
 - EU chief weighs age restrictions for children using social media
   
@@ -40,25 +40,33 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-satya-nadella-reverse-information-paradox-enterprise-ai-adoption-10784010/
 
-- Mylan launches block deal to sell minority stake in Biocon for up to $363 million
-  The Viatris arm looks to offload 92 million equity shares, marking a
-  🔗 https://www.livemint.com/companies/news/mylan-block-deal-biocon-share-price-11783950513360.html
+- Claude AI subscriptions now available in rupees: Check how much Pro, Max and Team plans cost in India
+  Indian users can now subscribe to Claude AI with local pricing in rupees. This change makes payments easier and inclusive of
+  🔗 https://www.livemint.com/companies/news/claude-ai-subscriptions-now-available-in-rupees-check-how-much-pro-max-and-team-plans-cost-in-india-11783959487803.html
 
-- SC asks Baba Kalyani and Sugandha Hiremath to settle disputes via mediation
-  The Supreme Court appointed former Supreme Court judge Justice L Nageswara Rao as the mediator in the case. Rao urged the two parties
-  🔗 https://www.livemint.com/companies/news/baba-kalyani-sugandha-hiremath-disputes-via-mediation-bharat-forge-11783940743762.html
+- ‘Why did you send a girl to Africa?’: Vasundhara Oswal on surviving Uganda kidnapping, boardroom sexism
+  Vasundhara Oswal opens up to LiveMint about her traumatic illegal detention in Uganda
+  🔗 https://www.livemint.com/companies/people/why-did-you-send-a-girl-to-africa-vasundhara-oswal-on-surviving-uganda-kidnapping-boardroom-sexism-11783961132464.html
 
-- Delhi HC orders Meta to take down ‘pirated’ Zee content from Facebook
-  Social media giant must remove specific infringing links following allegations of illegal monetization. The court declined to block the
-  🔗 https://www.livemint.com/companies/news/delhi-high-court-orders-meta-to-remove-pirated-zee-content-from-facebook-11783931155329.html
+- Jio Platforms replaces CEO Kiran Thomas with Pankaj Pawar ahead of IPO
+  Jio Platforms has replaced Kiran Thomas as chief executive officer with Pankaj Pawar ahead of its
+  🔗 https://www.livemint.com/companies/news/jio-platforms-replaces-ceo-kiran-thomas-with-pankaj-pawar-ahead-of-ipo-11783962166938.html
 
-- Chipmaker TSMC sees 36% growth in sales, 68% surge in June revenues amid sustained global demand for AI hardware
-  Taiwan Semiconductor Manufacturing Company (TSMC) today reported 36% rise in quarterly sales and 68%
-  🔗 https://www.livemint.com/companies/news/chipmaker-tsmc-sees-36-growth-in-sales-68-surge-in-june-revenues-amid-sustained-global-demand-for-ai-hardware-11783933977062.html
+- Elon Musk's net worth drops below $900 billion as SpaceX stock continues to tumble after IPO
+  Elon Musk's fortune dropped below $900 billion as SpaceX shares fell 4.45
+  🔗 https://www.livemint.com/companies/people/elon-musks-net-worth-drops-below-900-billion-as-spacex-stock-continues-to-tumble-after-ipo-11783960421305.html
 
-- SpiceJet vs Maran: Airline to deposit  ₹144.5 crore in tranches
-  SpiceJet had earlier argued that it lacked the liquidity to make an immediate cash deposit. The airline had sought permission to furnish a commercial property in Gurugram as security.
-  🔗 https://www.livemint.com/companies/news/spicejet-vs-maran-aviation-india-airlines-budget-carrier-ajay-singh-11783929647302.html
+- Paramount Skydance faces lawsuit as 12 state attorneys general seek to block Warner Bros. Discovery acquisition
+   Paramount Skydance's proposed acquisition of Warner Bros. Discovery faces a lawsuit from 12 state
+  🔗 https://www.livemint.com/companies/news/paramount-skydance-warner-bros-discovery-acquisition-challenged-in-lawsuit-by-12-state-attorneys-general-11783959412381.html
+
+- SpaceX extends losses, hovers near IPO price after 39% plunge from peak
+  SpaceX shares have dropped 5.3% to $137.68, just above its IPO price. Despite strong fundamentals, the stock's recent decline is attributed to profit-taking
+  🔗 https://www.livemint.com/market/stock-market-news/spacex-extends-losses-hovers-near-ipo-price-after-39-plunge-from-peak-11783959405363.html
+
+- Gold, silver prices today: Comex gold, silver extend losses as Middle East tensions lift Fed rate hike fears
+  Gold futures dropped to $4,009 and silver to $57.82. Crude oil prices surged over 4%, raising inflation fears and impacting markets.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-silver-extend-losses-as-middle-east-tensions-lift-fed-rate-hike-fears-11783952274681.html
 
 - Small-cap stock under  ₹50 hits upper circuit after this AI update
   Blue Cloud Softech Solutions shares closed 5% higher at  ₹
@@ -71,14 +79,6 @@
 - HCL Tech Q1 Results: Board declares interim dividend of  ₹12 per share. Details here
   The record date for shareholders is July 17, with the payout scheduled for July 27. HCL Technologies announced an interim dividend of  �
   🔗 https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-board-declares-interim-dividend-of-rs-12-per-share-details-here-11783945313994.html
-
-- HCL Tech Q1 results: Profit jumps 20% YoY to  ₹4,626 crore; dividend declared; key takeaways from June quarter earnings
-  HCL Tech Q1 results: Profit jumped 20% YoY to  ₹4,626 crore. The company did not make
-  🔗 https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-profit-jumps-20-yoy-to-4-626-crore-dividend-declared-key-takeaways-from-june-quarter-earnings-11783929752654.html
-
-- SK Hynix shares plunge 15% to one-month low after blockbuster Nasdaq debut
-  SK Hynix shares fell 15% on 13 July, marking a record decline. The drop, driven by profit-taking after Nasdaq debut, weighed on South Korea's Kospi
-  🔗 https://www.livemint.com/market/stock-market-news/sk-hynix-shares-plunge-15-to-one-month-low-after-blockbuster-nasdaq-debut-11783941755706.html
 
 - Meta submits reply on Instagram CSAM ads, government reviewing response: IT secretary
   MeitY is reviewing Meta's response to its notice regarding CSAM
@@ -100,45 +100,49 @@
   OpenAI is hiring a product manager to develop AI experiences
   🔗 https://www.livemint.com/technology/tech-news/openai-is-hiring-to-build-chatgpt-for-families-heres-what-we-know-11783825718218.html
 
-- Gold drops more than 1% as rising Middle East tensions add to rate-hike fears
-  Gold prices saw a notable decline amidst rising tensions in the Middle East. Concerns over inflation linked to escalating oil prices. The prospect of an interest rate hike from the Federal Reserve in September.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-more-than-1-as-rising-middle-east-tensions-add-to-rate-hike-fears/articleshow/132368603.cms
+- Strategy bitcoin sales shine light on faltering crypto hoarding companies
+  Crypto treasury firms face mounting pressure as falling bitcoin prices erode valuations and investor confidence. Strategy’s fresh sales plan has revived scrutiny of the digital asset treasury model.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/strategy-bitcoin-sales-shine-light-on-faltering-crypto-hoarding-companies/articleshow/132373599.cms
 
-- US stocks today: S&amp;P 500 and Nasdaq open lower as Iran tensions jolt sentiment, chip stocks slide
-  Nasdaq and S&amp;P 500 declined amid pressure on chip stocks. Dow managed marginal gains, reflecting cautious trading at the start of the week.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-open-lower-as-iran-tensions-jolt-sentiment-chip-stocks-slide/articleshow/132368301.cms
+- Fed's Waller says higher rates possibly needed in 'near term'
+  Federal Reserve Governor Christopher Waller signalled that interest rates may need to rise in the near term if inflation remains elevated. He warned that broadening price pressures and a potential surge in energy costs could delay progress toward the 2
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-waller-says-higher-rates-possibly-needed-in-near-term/articleshow/132372366.cms
 
-- Mylan to sell up to $363 million stake in India's Biocon, term sheet shows
-  Mylan plans to sell 92 million shares in Indian drugmaker Biocon. The deal would be worth $363 million.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mylan-to-sell-up-to-363-million-stake-in-indias-biocon-term-sheet-shows/articleshow/132368259.cms
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  The stock market witnessed a strong intraday recovery from the day’s lows, said Vinod Nair, Head of Research of Geojit Investments.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132370688.cms
 
-- Quote of the day by Irving Fisher: "The chief evils of speculation flow from the participation of the general public, who lack the special knowledge, and enter the market in a purely gambling spirit"
-  Retail investors often treat markets like casinos, driven by emotion and trends. Easy access to trading platforms democratizes investing but increases speculative risks. Informed decisions consistently reward market participants more than impulsive speculation.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-irving-fisher-the-chief-evils-of-speculation-flow-from-the-participation-of-the-general-public-who-lack-the-special-knowledge-and-enter-the-market-in-a-purely-gambling-spirit/articleshow/132356751.cms
+- SK Hynix US-listed shares slip nearly 8% as Nasdaq debut euphoria cools
+  SK Hynix’s US-listed shares fell nearly 8% after a strong Nasdaq debut. The decline triggered broader weakness across global semiconductor stocks.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-us-listed-shares-slip-nearly-8-as-nasdaq-debut-euphoria-cools/articleshow/132369738.cms
 
-- JSW Infrastructure among 7 stocks that hit 52-week highs and rallied up to 30% in a month
-  Seven BSE 200 stocks, including Paytm, Nykaa, Oracle Financial Services and JSW Infrastructure, hit fresh 52-week highs. The milestone reflects
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-among-7-stocks-that-hit-52-week-highs-and-rallied-up-to-30-in-a-month/slideshow/132366807.cms
+- Ahead of IPO, Millworks Tech raises nearly Rs 44 cr from anchor investors
+  Millworks Technologies has successfully garnered Rs 44 crore from its anchor investors. This large-scale IPO, amounting to Rs 160.33 crore, will close on July sixteenth. Renowned for its precision components across multiple sectors.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ahead-of-ipo-millworks-tech-raises-nearly-rs-44-cr-from-anchor-investors/articleshow/132369715.cms
 
 - 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
   'Goes Against India's sovereignty':
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
 
+- ET Graphics | India’s sports interest breaks new ground - The Economic Times
+  The Economic Times reports that India's sports interest
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmg1anNsXzM1S0FvZ20xbUpnMDlrY2lIM2dmYU8zc2N3VUxFRzV3NW81eDhDV09EU1cybXk3alpjODBkcEJIVnVvcG9SNHNmN2ljUER3TmZoeGxsLU5JQWZtUFlxTGw0cHhWcnNGMVRoQndpMS1CUHBfcjZEZGhRb0NVQWdSWllQcVJjQ3dhVFdKUTNPQldwSTZWak45Rmwta2RuUUVaczZHZXV1cVZvbjdNc0lrTGFvSXgwaDVIN29FelRJcGxtdHNHUFdDSUZQVXhnWW5DNNIB0AFBVV95cUxNVjlhbFBQS0FXeUFkVTRSemlIUC1kNXRCdHhIVjZweC1pdE5BemNsWmdUT2dnMFl0MC1kTkNkMHgtcEJfRmd1d2hraERJYk0zS1Q5Zk5nalA3REtGaG9vc09rRGI4enBGYUhSVDJYaGlMQV9QR2otWU5qWW4xT0REd2xRMlAzejBlRWdvYThrY0xORDNoRjJDU08tLW03QVlLc01uRE4yTkFLcEtCRkw0cTI3cEs5dTF6N1FFZXlkRGpvT24weV9OaVZ2eTZPd1pQ?oc=5
+
 - India declares one-day national mourning to honour Qatar’s Father Amir - News On AIR
   India declares one-day national mourning to honour Qatar
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5ajNTLTR6R1gyUmx3RHlzejBDNlRjY2N2c3FaYXN5bFZBenlodDU1YzVQdkh5UlJTbF9WUWZ2di1pZ1pjSDVOZm84dVd3WUsyMUk2S0pUNVFwSmxLa1pDcU5tdmQ1TFE3WVNNX2xjdHdjQkY0VHo1NE5mZjF0MDJrTzI1V2V4YWZiMlBmeUVIMk1mOEJPYUk3RVhvQ1FXdnNFZE9DNTdxQW5vY1NBakNJcUtrdTN4dkxV?oc=5
 
-- India Declares 1-Day Mourning For Ex-Qatar Emir Sheikh Hamad Al Thani - NDTV
-  India Declares 1-Day Mourning For
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVpBeXBhWVVqa0YyZVNXMzNfUzk3THRmUFBmMmNmTWRoSWJ5a1JPZldaT0YxSHdSZWlqMnZoQUtKQmNTekZEdW5xWGl4UE5md0M2ampjOVFjcnY2WGlzdDZmbHh6SjJEWHhUeEcxMGZkaVk1LVhZcUNpM21DX1I4UmZGUlZpM0FIcVhtWDA4bTY0R29TZG9NejVpeWJxeUJ5aWpQMjFkMmJza1N6OVFQVkY1eE9Dd0hwVWZ6UTdhc9IBxwFBVV95cUxQakhGXzZRdWhTMktEamo3eE9lc2dBVlVVd0MtZFc4YjZDV1pxLWwzNzNkWERHN1U1ZWk3NnlXYVV3aDl1TjJkUGwyY2l5bjVPYnRDTEdDN0w2Qk93TmxzX2JoWGN3TXNYNkJobUFDU2Z4M0dGMmNwSUVCMGwxeTYxOWVfVGVNNnlieUowWm1YcWkxNmlVMVlubmkzOTE4WDhodlJoQzd4V1VUc2wyZWU1d0kxM3RQXzZFSnBzdXE5VC12ekpRNVVV?oc=5
-
-- India observes one-day national mourning to honour Qatar's Father Amir Sheikh Hamad bin Khalifa Al-Thani | India News - Hindustan Times
-  India observes one-day national mourning to honour Qatar's Father Amir Sheikh Hamad bin
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQdWh4SG5LNmR1eU1JMnZ4SW5VdmVhQmVfNlJlOUFKdmktWDlwckVqSEdXVm1rVlE3dVlyQ0NjdFkxWFdUWHo0amFPaWtZazhvdC05dGZMcUxoejljSWlQR1lWSXFPRnRlcVZmOEZPLWVYQWh6WXhQaG5jWkJfOW4xQm5pWXBZN2owLWxxeFNSQ0l3VkJHOEk4MUplaGxuNVRNRDgtdDB1ci1MUG5aODhQMjVtOE1qUk1Fcl9zcXdQbmg5T3hZZ20wRWhwYXJ3bkpZOXk3MzNkLTRaZjZ5bXpHM2JCa0d0WmJKbXppWXFqNjNnYS1kQjZvaUNHX0hxNTRScWfSAYcCQVVfeXFMUGdDMGJkMjZtVkFndmRwakJrVVhDODcwTEliRjR3UDlqQkNlUm45OVFxUTlmM0NCZ1dJTEZLZkF6VE1CWE5VSTAwOTlGZ3Bzc0dxejB6WWdKLXBsWW1PUDNOaWhpcFNJbXhCYXhZMjVhUVBMZlFKV1A0amJQSjlHUzZONXc5amNPbzFEZ3l2RWgyVGVEY3pFZ0xzdXllWlBjUzVTc1RXcWVRdTA1ZVNXTVlfZXkzYXFJVjlrVDM1TjlZTW1GT0dQQmJKNk1nWDhITVVzUlJjMWJpejdWWlZaXzRqZ19JZG9pR0lXTnRpRjJ0dHFRRTVzd3FQZlR5QjhxMC14R2VRdVk?oc=5
+- Bodies of 15 Indians killed in Vietnam boat tragedy arrive in Mumbai - The Times of India
+  The Times of India reported that 15 Indians were killed in the boat
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjktS2lDVlRRdERyT1NuUTJyWnJpWFJTOTgydUk3OFlycFN6SlBpUm40N05DdU5xRHNlcnd0MW54NEZFdkJ6eFlVOXl2bjhHZXJOSDdHNjVRT3RJQW9kTlpJYUVnQmZhc3lLQ29DYWlSYTRFZEVKYm1tUElidVJjak1WcVVkcVFkeHhtSU9ZWUxiVncyR05GejJOS1N2cDNYV0VOX0s4QTZCeml0bjFLMk40THlpMlZ5TGRvVmNpM3dzQWtIbVBaeUEtcFcyM1NXN0HSAdcBQVVfeXFMUDBQalhlaDdaUGtmQWh0Tld1UmVHUWV3ZEFLQ1FkamdiWkxQdlVMeWc4Y21XSHhXMVhteTh2OS1mT0VWNHlYd3NMb2diWDJFQ0RZdW1waGstR1dvWktRN1BtUG10cGJ2cXJRdTZmaklydm5qMnc0UnN3YndXN3h5RGpOMTdIM29XdG9BZmppQ2tFbWhtMHFvaUYtS3JidU5BWXZzb3d1UWNieTVqTnJ6bHBURWRSd1NtOUdVbzE1LWx4YzNCVlA0OXVBRXdDNEdZTXYxZk1KRW8?oc=5
 
 - Vietnam Phu Quoc boat tragedy: Bodies of 15 Indian tourists flown home - The Hindu
   The Hindu: Bodies of 15 Indian tourists flown home
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2pvNERTTDZHdHJkcWR2X3VlUEtmZVBsek81TU9qNy1QdVZkVUVPdHBWUHQ3Z21tLVBLNkg1ek5xNS12R0FlSThHa05WbFd0VWgta190ZUE0WmdyOGVkV0tTVmNyUGJ5dEt3a3dsVXFtRnpyU2IzazgzMm9xZ2FLd1huYWIya3JLX0lENFhhLXdWOFRmRG42SGZ6c0pCQ3hqZ2NCX3NhR19WXzk3QWlORVhTUEhiMzlEQVBtbE8wLUJfcWJRSlhtNmlESC1Da28z0gHXAUFVX3lxTE50WEFYSnd5N0JMUktpV2llVFpZUXRsS1Z4OUNUZFZvTjNDNjZZaUE3bUZTa1ZMVU1kMFd1Y2Y4SFExYk1VRG9MZ3Bjb1VRbGZnUG01ZU5lajlpSFlORDJ3YWFwaDZPV3o1cUsxWTJWdVIxQkxTb3d4cW4tV1JQMWpRUmVTVjFoOFAtUDhUMEpWZnJ2TDhyaXE5VTEyR2ZvVl9URFlKVEczZ05YWjBiX2g0RUVTLUhHQzBYYUpiMHlHSFB6S0Z6QVZ2NEU2YjEtOU1TQmQ2enJJ?oc=5
+
+- Early Backer Augusta TBO Sells 2.04% Stake In TBO Tek
+  Early backer Augusta TBO (Singapore) Pte Ltd. today offloaded 2.04% stake in listed B2B travel tech platform TBO Tek.
+  🔗 https://inc42.com/buzz/early-backer-augusta-tbo-sells-2-04-stake-in-tbo-tek/
 
 - Exclusive: BUILT Bags $2 Mn To Bring ‘Natural Movement’ Footwear To India
   D2C footwear startup BUILT has raised $2 Mn (about ₹17 Cr) in a pre-seed funding round.
@@ -156,25 +160,21 @@
   A department under the IT ministry (MeitY) has reportedly asked central ministries to hold off on deploying AI models developed.
   🔗 https://inc42.com/buzz/meity-asks-ministries-to-hold-off-on-openai-anthropic-models-for-cybersecurity-report/
 
-- FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
-  The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
-  🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
-
 - 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
   'Goes Against India's sovereignty':
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
+
+- ET Graphics | India’s sports interest breaks new ground - The Economic Times
+  The Economic Times reports that India's sports interest
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmg1anNsXzM1S0FvZ20xbUpnMDlrY2lIM2dmYU8zc2N3VUxFRzV3NW81eDhDV09EU1cybXk3alpjODBkcEJIVnVvcG9SNHNmN2ljUER3TmZoeGxsLU5JQWZtUFlxTGw0cHhWcnNGMVRoQndpMS1CUHBfcjZEZGhRb0NVQWdSWllQcVJjQ3dhVFdKUTNPQldwSTZWak45Rmwta2RuUUVaczZHZXV1cVZvbjdNc0lrTGFvSXgwaDVIN29FelRJcGxtdHNHUFdDSUZQVXhnWW5DNNIB0AFBVV95cUxNVjlhbFBQS0FXeUFkVTRSemlIUC1kNXRCdHhIVjZweC1pdE5BemNsWmdUT2dnMFl0MC1kTkNkMHgtcEJfRmd1d2hraERJYk0zS1Q5Zk5nalA3REtGaG9vc09rRGI4enBGYUhSVDJYaGlMQV9QR2otWU5qWW4xT0REd2xRMlAzejBlRWdvYThrY0xORDNoRjJDU08tLW03QVlLc01uRE4yTkFLcEtCRkw0cTI3cEs5dTF6N1FFZXlkRGpvT24weV9OaVZ2eTZPd1pQ?oc=5
 
 - India declares one-day national mourning to honour Qatar’s Father Amir - News On AIR
   India declares one-day national mourning to honour Qatar
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5ajNTLTR6R1gyUmx3RHlzejBDNlRjY2N2c3FaYXN5bFZBenlodDU1YzVQdkh5UlJTbF9WUWZ2di1pZ1pjSDVOZm84dVd3WUsyMUk2S0pUNVFwSmxLa1pDcU5tdmQ1TFE3WVNNX2xjdHdjQkY0VHo1NE5mZjF0MDJrTzI1V2V4YWZiMlBmeUVIMk1mOEJPYUk3RVhvQ1FXdnNFZE9DNTdxQW5vY1NBakNJcUtrdTN4dkxV?oc=5
 
-- India Declares 1-Day Mourning For Ex-Qatar Emir Sheikh Hamad Al Thani - NDTV
-  India Declares 1-Day Mourning For
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVpBeXBhWVVqa0YyZVNXMzNfUzk3THRmUFBmMmNmTWRoSWJ5a1JPZldaT0YxSHdSZWlqMnZoQUtKQmNTekZEdW5xWGl4UE5md0M2ampjOVFjcnY2WGlzdDZmbHh6SjJEWHhUeEcxMGZkaVk1LVhZcUNpM21DX1I4UmZGUlZpM0FIcVhtWDA4bTY0R29TZG9NejVpeWJxeUJ5aWpQMjFkMmJza1N6OVFQVkY1eE9Dd0hwVWZ6UTdhc9IBxwFBVV95cUxQakhGXzZRdWhTMktEamo3eE9lc2dBVlVVd0MtZFc4YjZDV1pxLWwzNzNkWERHN1U1ZWk3NnlXYVV3aDl1TjJkUGwyY2l5bjVPYnRDTEdDN0w2Qk93TmxzX2JoWGN3TXNYNkJobUFDU2Z4M0dGMmNwSUVCMGwxeTYxOWVfVGVNNnlieUowWm1YcWkxNmlVMVlubmkzOTE4WDhodlJoQzd4V1VUc2wyZWU1d0kxM3RQXzZFSnBzdXE5VC12ekpRNVVV?oc=5
-
-- India observes one-day national mourning to honour Qatar's Father Amir Sheikh Hamad bin Khalifa Al-Thani | India News - Hindustan Times
-  India observes one-day national mourning to honour Qatar's Father Amir Sheikh Hamad bin
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQdWh4SG5LNmR1eU1JMnZ4SW5VdmVhQmVfNlJlOUFKdmktWDlwckVqSEdXVm1rVlE3dVlyQ0NjdFkxWFdUWHo0amFPaWtZazhvdC05dGZMcUxoejljSWlQR1lWSXFPRnRlcVZmOEZPLWVYQWh6WXhQaG5jWkJfOW4xQm5pWXBZN2owLWxxeFNSQ0l3VkJHOEk4MUplaGxuNVRNRDgtdDB1ci1MUG5aODhQMjVtOE1qUk1Fcl9zcXdQbmg5T3hZZ20wRWhwYXJ3bkpZOXk3MzNkLTRaZjZ5bXpHM2JCa0d0WmJKbXppWXFqNjNnYS1kQjZvaUNHX0hxNTRScWfSAYcCQVVfeXFMUGdDMGJkMjZtVkFndmRwakJrVVhDODcwTEliRjR3UDlqQkNlUm45OVFxUTlmM0NCZ1dJTEZLZkF6VE1CWE5VSTAwOTlGZ3Bzc0dxejB6WWdKLXBsWW1PUDNOaWhpcFNJbXhCYXhZMjVhUVBMZlFKV1A0amJQSjlHUzZONXc5amNPbzFEZ3l2RWgyVGVEY3pFZ0xzdXllWlBjUzVTc1RXcWVRdTA1ZVNXTVlfZXkzYXFJVjlrVDM1TjlZTW1GT0dQQmJKNk1nWDhITVVzUlJjMWJpejdWWlZaXzRqZ19JZG9pR0lXTnRpRjJ0dHFRRTVzd3FQZlR5QjhxMC14R2VRdVk?oc=5
+- Bodies of 15 Indians killed in Vietnam boat tragedy arrive in Mumbai - The Times of India
+  The Times of India reported that 15 Indians were killed in the boat
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjktS2lDVlRRdERyT1NuUTJyWnJpWFJTOTgydUk3OFlycFN6SlBpUm40N05DdU5xRHNlcnd0MW54NEZFdkJ6eFlVOXl2bjhHZXJOSDdHNjVRT3RJQW9kTlpJYUVnQmZhc3lLQ29DYWlSYTRFZEVKYm1tUElidVJjak1WcVVkcVFkeHhtSU9ZWUxiVncyR05GejJOS1N2cDNYV0VOX0s4QTZCeml0bjFLMk40THlpMlZ5TGRvVmNpM3dzQWtIbVBaeUEtcFcyM1NXN0HSAdcBQVVfeXFMUDBQalhlaDdaUGtmQWh0Tld1UmVHUWV3ZEFLQ1FkamdiWkxQdlVMeWc4Y21XSHhXMVhteTh2OS1mT0VWNHlYd3NMb2diWDJFQ0RZdW1waGstR1dvWktRN1BtUG10cGJ2cXJRdTZmaklydm5qMnc0UnN3YndXN3h5RGpOMTdIM29XdG9BZmppQ2tFbWhtMHFvaUYtS3JidU5BWXZzb3d1UWNieTVqTnJ6bHBURWRSd1NtOUdVbzE1LWx4YzNCVlA0OXVBRXdDNEdZTXYxZk1KRW8?oc=5
 
 - Vietnam Phu Quoc boat tragedy: Bodies of 15 Indian tourists flown home - The Hindu
   The Hindu: Bodies of 15 Indian tourists flown home
@@ -184,17 +184,17 @@
   'Goes Against India's sovereignty':
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
 
+- ET Graphics | India’s sports interest breaks new ground - The Economic Times
+  The Economic Times reports that India's sports interest
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmg1anNsXzM1S0FvZ20xbUpnMDlrY2lIM2dmYU8zc2N3VUxFRzV3NW81eDhDV09EU1cybXk3alpjODBkcEJIVnVvcG9SNHNmN2ljUER3TmZoeGxsLU5JQWZtUFlxTGw0cHhWcnNGMVRoQndpMS1CUHBfcjZEZGhRb0NVQWdSWllQcVJjQ3dhVFdKUTNPQldwSTZWak45Rmwta2RuUUVaczZHZXV1cVZvbjdNc0lrTGFvSXgwaDVIN29FelRJcGxtdHNHUFdDSUZQVXhnWW5DNNIB0AFBVV95cUxNVjlhbFBQS0FXeUFkVTRSemlIUC1kNXRCdHhIVjZweC1pdE5BemNsWmdUT2dnMFl0MC1kTkNkMHgtcEJfRmd1d2hraERJYk0zS1Q5Zk5nalA3REtGaG9vc09rRGI4enBGYUhSVDJYaGlMQV9QR2otWU5qWW4xT0REd2xRMlAzejBlRWdvYThrY0xORDNoRjJDU08tLW03QVlLc01uRE4yTkFLcEtCRkw0cTI3cEs5dTF6N1FFZXlkRGpvT24weV9OaVZ2eTZPd1pQ?oc=5
+
 - India declares one-day national mourning to honour Qatar’s Father Amir - News On AIR
   India declares one-day national mourning to honour Qatar
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5ajNTLTR6R1gyUmx3RHlzejBDNlRjY2N2c3FaYXN5bFZBenlodDU1YzVQdkh5UlJTbF9WUWZ2di1pZ1pjSDVOZm84dVd3WUsyMUk2S0pUNVFwSmxLa1pDcU5tdmQ1TFE3WVNNX2xjdHdjQkY0VHo1NE5mZjF0MDJrTzI1V2V4YWZiMlBmeUVIMk1mOEJPYUk3RVhvQ1FXdnNFZE9DNTdxQW5vY1NBakNJcUtrdTN4dkxV?oc=5
 
-- India Declares 1-Day Mourning For Ex-Qatar Emir Sheikh Hamad Al Thani - NDTV
-  India Declares 1-Day Mourning For
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVpBeXBhWVVqa0YyZVNXMzNfUzk3THRmUFBmMmNmTWRoSWJ5a1JPZldaT0YxSHdSZWlqMnZoQUtKQmNTekZEdW5xWGl4UE5md0M2ampjOVFjcnY2WGlzdDZmbHh6SjJEWHhUeEcxMGZkaVk1LVhZcUNpM21DX1I4UmZGUlZpM0FIcVhtWDA4bTY0R29TZG9NejVpeWJxeUJ5aWpQMjFkMmJza1N6OVFQVkY1eE9Dd0hwVWZ6UTdhc9IBxwFBVV95cUxQakhGXzZRdWhTMktEamo3eE9lc2dBVlVVd0MtZFc4YjZDV1pxLWwzNzNkWERHN1U1ZWk3NnlXYVV3aDl1TjJkUGwyY2l5bjVPYnRDTEdDN0w2Qk93TmxzX2JoWGN3TXNYNkJobUFDU2Z4M0dGMmNwSUVCMGwxeTYxOWVfVGVNNnlieUowWm1YcWkxNmlVMVlubmkzOTE4WDhodlJoQzd4V1VUc2wyZWU1d0kxM3RQXzZFSnBzdXE5VC12ekpRNVVV?oc=5
-
-- India observes one-day national mourning to honour Qatar's Father Amir Sheikh Hamad bin Khalifa Al-Thani | India News - Hindustan Times
-  India observes one-day national mourning to honour Qatar's Father Amir Sheikh Hamad bin
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQdWh4SG5LNmR1eU1JMnZ4SW5VdmVhQmVfNlJlOUFKdmktWDlwckVqSEdXVm1rVlE3dVlyQ0NjdFkxWFdUWHo0amFPaWtZazhvdC05dGZMcUxoejljSWlQR1lWSXFPRnRlcVZmOEZPLWVYQWh6WXhQaG5jWkJfOW4xQm5pWXBZN2owLWxxeFNSQ0l3VkJHOEk4MUplaGxuNVRNRDgtdDB1ci1MUG5aODhQMjVtOE1qUk1Fcl9zcXdQbmg5T3hZZ20wRWhwYXJ3bkpZOXk3MzNkLTRaZjZ5bXpHM2JCa0d0WmJKbXppWXFqNjNnYS1kQjZvaUNHX0hxNTRScWfSAYcCQVVfeXFMUGdDMGJkMjZtVkFndmRwakJrVVhDODcwTEliRjR3UDlqQkNlUm45OVFxUTlmM0NCZ1dJTEZLZkF6VE1CWE5VSTAwOTlGZ3Bzc0dxejB6WWdKLXBsWW1PUDNOaWhpcFNJbXhCYXhZMjVhUVBMZlFKV1A0amJQSjlHUzZONXc5amNPbzFEZ3l2RWgyVGVEY3pFZ0xzdXllWlBjUzVTc1RXcWVRdTA1ZVNXTVlfZXkzYXFJVjlrVDM1TjlZTW1GT0dQQmJKNk1nWDhITVVzUlJjMWJpejdWWlZaXzRqZ19JZG9pR0lXTnRpRjJ0dHFRRTVzd3FQZlR5QjhxMC14R2VRdVk?oc=5
+- Bodies of 15 Indians killed in Vietnam boat tragedy arrive in Mumbai - The Times of India
+  The Times of India reported that 15 Indians were killed in the boat
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjktS2lDVlRRdERyT1NuUTJyWnJpWFJTOTgydUk3OFlycFN6SlBpUm40N05DdU5xRHNlcnd0MW54NEZFdkJ6eFlVOXl2bjhHZXJOSDdHNjVRT3RJQW9kTlpJYUVnQmZhc3lLQ29DYWlSYTRFZEVKYm1tUElidVJjak1WcVVkcVFkeHhtSU9ZWUxiVncyR05GejJOS1N2cDNYV0VOX0s4QTZCeml0bjFLMk40THlpMlZ5TGRvVmNpM3dzQWtIbVBaeUEtcFcyM1NXN0HSAdcBQVVfeXFMUDBQalhlaDdaUGtmQWh0Tld1UmVHUWV3ZEFLQ1FkamdiWkxQdlVMeWc4Y21XSHhXMVhteTh2OS1mT0VWNHlYd3NMb2diWDJFQ0RZdW1waGstR1dvWktRN1BtUG10cGJ2cXJRdTZmaklydm5qMnc0UnN3YndXN3h5RGpOMTdIM29XdG9BZmppQ2tFbWhtMHFvaUYtS3JidU5BWXZzb3d1UWNieTVqTnJ6bHBURWRSd1NtOUdVbzE1LWx4YzNCVlA0OXVBRXdDNEdZTXYxZk1KRW8?oc=5
 
 - Vietnam Phu Quoc boat tragedy: Bodies of 15 Indian tourists flown home - The Hindu
   The Hindu: Bodies of 15 Indian tourists flown home
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-13 14:23:49 UTC_
+_Last updated: 2026-07-13 19:21:37 UTC_
