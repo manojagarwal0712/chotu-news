@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Iltija Mufti says under house detention with mother Mehbooba ahead of Martyr’s Day in Kashmir
+- Goa’s iconic motorcycle ‘pilots’ are struggling. They say govt’s new app may not be the solution
   
-  🔗 https://indianexpress.com/article/india/iltija-mehbooba-mufti-house-detention-kashmir-martyrs-day-10783436/
+  🔗 https://indianexpress.com/article/india/goas-iconic-motorcycle-pilots-are-struggling-they-say-govts-new-app-may-not-be-the-solution-10783509/
 
-- Assam activist protesting Kaziranga luxury hotels project detained, Opposition slams ‘bid to silence’
+- How old dispute over bananas led to murder of Armyman, his 52-year-old father in Bihar
   
-  🔗 https://indianexpress.com/article/india/assam-activist-protesting-kaziranga-luxury-hotels-project-detained-opposition-slams-bid-to-silence-10783421/
+  🔗 https://indianexpress.com/article/india/how-old-dispute-over-bananas-led-to-murder-of-armyman-his-52-year-old-father-in-bihar-10783498/
 
-- India to hold 1-day mourning as Qatar’s former Emir Sheikh Hamad dies
+- Indian seafarer missing as ship hit in Strait of Hormuz, MEA condemns attack
   
-  🔗 https://indianexpress.com/article/india/india-national-mourning-july-13-qatar-former-emir-sheikh-hamad-bin-khalifa-al-thani-death-10783350/
+  🔗 https://indianexpress.com/article/india/indian-seafarer-missing-as-ship-hit-in-strait-of-hormuz-mea-condemns-attack-10783534/
 
-- Driving road roller over seized narcotics, Himanta Biswa Sarma kicks off massive anti-drug campaign
+- Central Vista should be called Kartavya Bhawan area: Union Minister Manohar Lal
   
-  🔗 https://indianexpress.com/article/india/himanta-biswa-sarma-anti-drug-campaign-seized-narcotics-road-roller-10783359/
+  🔗 https://indianexpress.com/article/india/union-minister-manohar-lal-says-central-vista-should-be-called-kartavya-bhawan-area-10783567/
 
-- Day after Vietnam boat tragedy, families seek ‘clear information’, await return of remains
+- Week-long rain break in most parts of country
   
-  🔗 https://indianexpress.com/article/india/vietnam-boat-tragedy-families-clear-information-return-bodies-10783343/
+  🔗 https://indianexpress.com/article/india/imd-monsoon-rain-break-bay-of-bengal-alert-10783565/
 
 - Asus Chromebook CM32 Detachable review: This slick new 2-in-1 device is perfect for school
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-27-apple-mail-gets-ai-search-smart-replies-and-siri-features-10782109/
 
+- Jindal Steel’s leadership churn continues as CEO quits within a year
+  Rajiv Kumar, the CEO of Vedanta Aluminium Metal, is slated to succeed outgoing CEO Gautam Malhot
+  🔗 https://www.livemint.com/companies/people/jindal-steel-s-leadership-churn-continues-as-ceo-quits-within-a-year-11783863486993.html
+
 - TCS reshuffles top ranks, reorganizes business units amid growth push
   The company's restructuring includes new business segments and aims to adapt to evolving market demands. Tata Consultancy Services Ltd has initiated a major leadership overhaul.
   🔗 https://www.livemint.com/companies/tcs-reshuffles-top-ranks-reorganizes-business-units-amid-growth-push-11783833390817.html
@@ -56,29 +60,25 @@
   The new venture plans to bring international apparel brands to India through an asset-light model.
   🔗 https://www.livemint.com/companies/news/former-hm-india-executives-launch-confluxe-premium-fashion-brands-india-11783838454409.html
 
-- Volkswagen CEO says ‘smarter solutions’ possible beyond closing plants
-  Oliver Blume feels there are ‘smarter solutions’ to save money than shutting factories. In remarks that could help defuse tensions with
-  🔗 https://www.livemint.com/companies/news/volkswagen-vw-ceo-oliver-blume-says-smarter-solutions-possible-beyond-closing-plants-save-money-shut-factories-cut-costs-11783855186872.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 13 July
+  Gift Nifty was trading around 24,034 level, a discount of nearly 207 points from the Nifty futures’ previous close. The trends on Gift Nifty also
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-13-july-11783906916087.html
 
-- Week Ahead: Wall Street braces for inflation data, big bank earnings and Middle East developments
-  Investors will closely track the latest consumer and wholesale inflation figures as they assess the future direction
-  🔗 https://www.livemint.com/market/stock-market-news/week-ahead-wall-street-braces-for-inflation-data-big-bank-earnings-and-middle-east-developments-11783868386079.html
+- Crude oil prices jump 3% amid renewed US-Iran war tensions; Brent crude above $78 per barrel
+  Brent crude climbs 3% above $78 a barrel after gaining 5.4% last week
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-jump-3-amid-renewed-us-iran-war-tensions-brent-crude-above-78-per-barrel-11783906393450.html
 
-- Mcap of 4 of top-10 most valued firms jumps  ₹92,995 cr; HDFC Bank, Airtel top gainers
-  The gainers from the top-10 pack were RIL, HDFC Bank, Bharti Airtel and LIC. ICICI Bank
-  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-4-of-top-10-most-valued-firms-jumps-rs-92-995-cr-hdfc-bank-airtel-top-gainers-11783850935458.html
+- Gift Nifty, US-Iran war, bond yields to crude oil prices: 10 things that changed for Indian stock market over weekend
+  Gift Nifty was trading around 24,056 level, a discount of nearly 186 points from the Nifty futures
+  🔗 https://www.livemint.com/market/stock-market-news/gift-nifty-us-iran-war-bond-yields-to-crude-oil-prices-10-things-that-changed-for-indian-stock-market-over-weekend-11783906045374.html
 
-- Upcoming IPOs: SBI Funds Management IPO, Alpine Texworld IPO among new issues to open this week; full list here
-  Two mainboard IPOs - Alpine Texworld and SBI Funds
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-sbi-funds-management-ipo-alpine-texworld-ipo-among-new-issues-to-open-this-week-full-list-here-11783844079224.html
+- Asian stocks today: Kospi, Nikkei decline following renewed US-Iran war tensions, rising crude oil prices
+  Japan's Nikkei 225 fell 0.2%, while the broader Topix index declined 0.094
+  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-decline-following-renewed-us-iran-war-tensions-rising-crude-oil-prices-11783905005567.html
 
-- Expert view: Strong opening to Q1 with recovery in banks, says Vinod Nair
-  As per RBI data ended mid-June 2026, system credit growth accelerated to 17.7% YoY.
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-strong-opening-to-q1-with-recovery-in-banks-says-vinod-nair-11783847885493.html
-
-- Inflows to multi-asset allocation funds jumps 22% MoM amid increased stock market volatility
-  Multi-asset allocation funds attracted inflows of  ₹4,810.76 crore in June. This is up from 
-  🔗 https://www.livemint.com/market/stock-market-news/inflows-to-multi-asset-allocation-funds-jumps-22-mom-amid-increased-stock-market-volatility-11783844452301.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 13 July 2026
+  The Indian stock market ended Friday's session on a higher note. Sumeet Bagadia
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-13-july-2026-11783903616863.html
 
 - ‘Elon is obsessed with me again’: Sam Altman hits back as Musk invokes Apple lawsuit against OpenAI
   OpenAI CEO Sam Altman and SpaceX's Elon Musk engage in a social media dispute following the launch
@@ -100,25 +100,49 @@
    Meta is developing AI-powered smart glasses that
   🔗 https://www.livemint.com/technology/tech-news/metas-new-ai-glasses-may-continuously-record-what-users-see-and-hear-report-11783571961575.html
 
-- Market trading guide: CDSL among 2 stock recommendations for Monday
-  Analysts recommend CDSL and Sumitomo Chemical India as technical buy ideas. They cite bullish breakouts, strong volumes and improving momentum indicators
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-cdsl-among-2-stock-recommendations-for-monday/articleshow/132344315.cms
+- Gold slides over 1% as oil surges on Strait of Hormuz closure fears
+  Gold prices declined over one percent in early Asian trade Monday. Oil prices jumped sharply, increasing inflation concerns and interest rate expectations. Federal Reserve chair testimony and economic data will offer policy clues.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-over-1-as-oil-surges-on-strait-of-hormuz-closure-fears/articleshow/132354518.cms
 
-- Vijay Kedia buys 3.58 lakh shares in this IT company that nearly doubled investor money
-  Vijay Kedia-backed Kedia Securities has picked up a 3.56% stake in SME IT firm Exato Technologies. The stock has surged over 90% in a year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-3-58-lakh-shares-in-this-it-company-that-nearly-doubled-investor-money/articleshow/132343261.cms
+- Dollar jumps on renewed Middle East attacks, Hormuz closure
+  The dollar strengthened against most currencies due to renewed Middle East conflict. This conflict fueled inflation fears and increased rate hike prospects from central banks. Traders now anticipate two Federal Reserve rate hikes by year-end.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-on-renewed-middle-east-attacks-hormuz-closure/articleshow/132354510.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Sensex and Nifty surged over 1% on Friday, supported by TCS earnings. Investors will now track Q1 earnings, technical levels and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/132342643.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-dmart-hcl-tech-share-price-13-july-2026/liveblog/132354438.cms
 
-- NSE listing to "complete the trioka" and unlock value, drive governance upgrade: Report
-  A potential NSE listing is positioned as the final step to "complete the trioka" of India's market infrastructure. Forward-looking benefits expected in transparency,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-listing-to-complete-the-trioka-and-unlock-value-drive-governance-upgrade-report/articleshow/132342510.cms
+- Global Market Today: Asian shares slip as oil jumps on Gulf attacks
+  Asian markets declined as intensified Gulf fighting and oil price surges rekindled inflation risks. Investors increased expectations for a Federal Reserve interest rate hike soon. South Korean chip stocks faced pressure, impacting the broader semiconductor sector globally.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slip-as-oil-jumps-on-gulf-attacks/articleshow/132354226.cms
 
-- Mcap of 4 of top-10 most valued firms jumps Rs 92,995 cr; HDFC Bank, Airtel top gainers
-  Last week, four major firms experienced a significant market valuation increase of over Rs 92,000 crore, with HDFC Bank and Bharti Airtel leading the charge.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-4-of-top-10-most-valued-firms-jumps-rs-92995-cr-hdfc-bank-airtel-top-gainers/articleshow/132342488.cms
+- D-St set for a negative opening as GIFT Nifty signals weak start
+  Indian equity markets expected to sustain their gradual upmove. Supportive domestic fundamentals and improving global cues are driving this positive outlook. The market will likely react to reports of Hormuz closure by Iran.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132348944.cms
+
+- India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region | Akashvani News - News On AIR
+  India condemns attack on commercial vessel GFS Galaxy off coast of Oman. 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks.
+  🔗 https://news.google.com/rss/articles/CBMixgJBVV95cUxQLXA3bnU3bURkel8xX1dxUktLOGVDdkxOVlBYMGRxWDFuVkxuX0o2LWZJSEhsRU5vY3RObEU0OXZrSFZkTDB0dTQxaXE3YmJKanFYLVdzYlhxWTZoTVVJeEhNMUZ3TFVERTRsTUhodVVyUmZqVmtmdnVROURrT2hFU1Jnai1WMlBnV3BzaWk4eEprNTREZGUwVFRuNXlvZTB1UExJNkk1RG52SjFsVnpRSklFTGZFMTlfeHZVNGtzSTdJVGZCUkdfSFNPVnppNnBhRm1idm0yQU9HUFJHcjROajhVcF9sajBTaHZ2dkFZY3NnT2lJU0NjNEtrcmRmVndXZEdpSTFFUFpkN1o2SGVSTU9ZS0RVSmN0UUdWR1pPVUZNUkJ0S3JWbk5qSGZlOWU3ZUZ1eDVCWUZfZ3Q1YmdFVV9tclpsZw?oc=5
+
+- Indian Missing, 10 Rescued After Iran Attacks Ship In Strait Of Hormuz - NDTV
+  Indian Missing, 10 Rescued After Iran Attacks
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXJoNFpQZVhPYnQ2WC0xcFNNc2FmY0I5QXBGSmk4cEpSb25kZ0VqSk9WOEI4YzI5aVUxVXFQa0RDMTFENFhvZkt6QnpQSzJ1eFp2Mnd6MW1yTlNtYXVScTlFaGZtLWVVZ1MwczA1dVl4YmxMUnFUNk9saHZLam9MRXY0OXlZcG44ZWZkck1xejhUTHotM25hQjJpdjJoV2tFSUhmU3MzUTE5YlJrNjlNLXR6bFpZOFRUVTY0UlRNaHpXMHM0NjNUVWFRMXdkZ25JNXV3Z20wN1DSAeABQVVfeXFMT3hqa1pPVUx4eE1TalBtVW92alFFZzZTcXZMZk10Um15ZlpLZmJIbjA1RTN0R2tULVJqUFNOUFM2VWI0RXJmUE14UXdFV0dacF8xTHROQWFBNW1FVlVDWlBWbDk2SG9PaGFFTGlhR0VpNllZREdfbWtmb2ZnREt3d3dXOXVrcGw1eHJoeVI0eHdybW1OTmpNQkNQUzE3TU1kZUsyZ2x1V3RxZVo4VXpWNjRhbm8tT2xjM0tJdEFfZDZSUjN5a3FTaFFtN0NmdTNFTFNvbFBQSUlPelprSHZ6UVY?oc=5
+
+- '10 rescused, 1 missing': India condemns attack on vessel carrying Indian crew off Oman coast - The Times of India
+  '10 rescused, 1 missing': India condemns attack on vessel carrying Indian crew
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlpmbEhXeTlPcVNpSUhoakh5NlJYUVJtYjZqTlFtQXpfblNIcjZuVmF1ZkFqNzVSU0tsbmlCSkJYaGpMeHR1NlNxVlFWVGdJNUNIaEc4ZnpTN3BKWG5qU3N5Z0xHaFVzTTRYdHRpMHY0bjhzMi1ndC1SVE9oMlMyYzkxRDdxUzF3X1dZcFRydU5TeFJidm5uY0N0eTJpSTdoakNqYTR3YmJOYlN1MGk2bTlKSjBMa0s4LXhFX1g3WHJDck9hNmItQUxBbURPcDNLUWtrNUZUOTRVVTRh0gHiAUFVX3lxTE9lbmtJYkFuclZTcW1RMUI1T3ZBLWNoaFV1NXZhTnhtZFZDTEdDUGtnbWVWZjF6UkVVOXBrMy1NM1I2MVlJRmNPYXlQSXYwaXE0R0tBWFhCbXR4QVpWaDVFdG15THl4YWlodktQM3FDWVJlcWRwM3Y0aW1HaXc4ajdMaUtyMGw2dU5ndzlKU2dnUS1waXRyUWt3RHNDVzJva0FaTmFsNWl0MS1sejgxNFZxb3ZVaW1jOUg2SFl0b0g2M0tobVN0d3lVZU9RVDJnQjJPNFg3cGdwQVRlYVFpNG95QVE?oc=5
+
+- India declares one-day national mourning for former Qatar emir Sheikh Hamad bin Khalifa Al-Thani - The Times of India
+  India declares one-day national mourning for former Qatar emir Sheikh Hamad
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMW1udjlRX19JN2pDV05Xa01jczJqbHRVM0NqUkJ4bUFkWkRYZGJva1lzRHJlRDBnRmdwSGRFNVBVMGQyZndGUmg1RFNKV2dLWC0wNUVOYk41SVd4RVJKU1Q5aV9TcGZ0R1dMaWo5QmU0RXROUWJfM0dhWXY3SnFtZVd6MnhJaFV0eXZrcnZNV2tkRTBHZUVTRnJ3SmlKOG1MSHpRX0V3bUN6cUkyV29QeW9kV1llWkh4M0ZBRDBIOTNHX0RDTHNYbUVuTWl3MVJTTFh4Vl9rb2ZwLWIwbzlFT25UREhYWFAwQ002WUg2c0tncmxjM2NF0gH8AUFVX3lxTFBQeEhzNkdra2w3cWx6RUxlS1ZvUHVZM1BNSFhfR1Bpdkxuc25lSTNSZHNsLWY3aUYzeWdrR2tpSDd3ZmlEYmpYWWVQazJKU281d285eDBWWEUtOHpnSlZkaWEwTWlvdnFjS0xUSDFKdmlaNENRU1dBTWZPNEUtcDFmSDhxYzlIeFR4Z0JDcExPVFM4MjVYLW1FN09WNHNNZ0FQQkJmdU43TXRLNlU5NDFPRlMyNFcydEc0MFVDVHBjYmM5REh2eV9idUwzOGpIUUt1c0w5M2xfQk94MFVNazVzenNnZVZNT2taVHpXdXltLVltUG9tOW90SURtcA?oc=5
+
+- India Declares 1-Day Mourning For Ex-Qatar Emir Sheikh Hamad Al Thani - NDTV
+  India Declares 1-Day Mourning For
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVpBeXBhWVVqa0YyZVNXMzNfUzk3THRmUFBmMmNmTWRoSWJ5a1JPZldaT0YxSHdSZWlqMnZoQUtKQmNTekZEdW5xWGl4UE5md0M2ampjOVFjcnY2WGlzdDZmbHh6SjJEWHhUeEcxMGZkaVk1LVhZcUNpM21DX1I4UmZGUlZpM0FIcVhtWDA4bTY0R29TZG9NejVpeWJxeUJ5aWpQMjFkMmJza1N6OVFQVkY1eE9Dd0hwVWZ6UTdhc9IBxwFBVV95cUxQakhGXzZRdWhTMktEamo3eE9lc2dBVlVVd0MtZFc4YjZDV1pxLWwzNzNkWERHN1U1ZWk3NnlXYVV3aDl1TjJkUGwyY2l5bjVPYnRDTEdDN0w2Qk93TmxzX2JoWGN3TXNYNkJobUFDU2Z4M0dGMmNwSUVCMGwxeTYxOWVfVGVNNnlieUowWm1YcWkxNmlVMVlubmkzOTE4WDhodlJoQzd4V1VUc2wyZWU1d0kxM3RQXzZFSnBzdXE5VC12ekpRNVVV?oc=5
+
+- Inside The Numbers Lifting IPO-Bound Cult.fit
+  After years of prioritising expansion over profitability, Cult.fit's pre-IPO papers and draft red herring prospectus (DRHP) suggest that the fitness
+  🔗 https://inc42.com/features/inside-the-numbers-lifting-ipo-bound-cult-fit/
 
 - Unicorn Founders Go AI Native
   “Not using AI is like being left behind,” Apple CEO Tim Cook’s remark captures the urgency around artificial intelligence.
@@ -136,9 +160,45 @@
   India&#8217;s equity markets saw mixed investor sentiment this week, which trickled down to the performance of listed new-age tech stocks. MapmyIndia, PhysicsWallah
   🔗 https://inc42.com/buzz/new-age-tech-stocks-mapmyindia-physicswallah-zoom-ola-electric-pine-labs-slip/
 
-- Exclusive: GoKwik Lays Off Around 120 Employees Amid AI Push
-  Ecommerce enabler GoKwik has fired 100-120 employees as part of a restructuring exercise carried out over the past few weeks.
-  🔗 https://inc42.com/buzz/exclusive-gokwik-lays-off-around-120-employees-amid-ai-push/
+- India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region | Akashvani News - News On AIR
+  India condemns attack on commercial vessel GFS Galaxy off coast of Oman. 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks.
+  🔗 https://news.google.com/rss/articles/CBMixgJBVV95cUxQLXA3bnU3bURkel8xX1dxUktLOGVDdkxOVlBYMGRxWDFuVkxuX0o2LWZJSEhsRU5vY3RObEU0OXZrSFZkTDB0dTQxaXE3YmJKanFYLVdzYlhxWTZoTVVJeEhNMUZ3TFVERTRsTUhodVVyUmZqVmtmdnVROURrT2hFU1Jnai1WMlBnV3BzaWk4eEprNTREZGUwVFRuNXlvZTB1UExJNkk1RG52SjFsVnpRSklFTGZFMTlfeHZVNGtzSTdJVGZCUkdfSFNPVnppNnBhRm1idm0yQU9HUFJHcjROajhVcF9sajBTaHZ2dkFZY3NnT2lJU0NjNEtrcmRmVndXZEdpSTFFUFpkN1o2SGVSTU9ZS0RVSmN0UUdWR1pPVUZNUkJ0S3JWbk5qSGZlOWU3ZUZ1eDVCWUZfZ3Q1YmdFVV9tclpsZw?oc=5
+
+- Indian Missing, 10 Rescued After Iran Attacks Ship In Strait Of Hormuz - NDTV
+  Indian Missing, 10 Rescued After Iran Attacks
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXJoNFpQZVhPYnQ2WC0xcFNNc2FmY0I5QXBGSmk4cEpSb25kZ0VqSk9WOEI4YzI5aVUxVXFQa0RDMTFENFhvZkt6QnpQSzJ1eFp2Mnd6MW1yTlNtYXVScTlFaGZtLWVVZ1MwczA1dVl4YmxMUnFUNk9saHZLam9MRXY0OXlZcG44ZWZkck1xejhUTHotM25hQjJpdjJoV2tFSUhmU3MzUTE5YlJrNjlNLXR6bFpZOFRUVTY0UlRNaHpXMHM0NjNUVWFRMXdkZ25JNXV3Z20wN1DSAeABQVVfeXFMT3hqa1pPVUx4eE1TalBtVW92alFFZzZTcXZMZk10Um15ZlpLZmJIbjA1RTN0R2tULVJqUFNOUFM2VWI0RXJmUE14UXdFV0dacF8xTHROQWFBNW1FVlVDWlBWbDk2SG9PaGFFTGlhR0VpNllZREdfbWtmb2ZnREt3d3dXOXVrcGw1eHJoeVI0eHdybW1OTmpNQkNQUzE3TU1kZUsyZ2x1V3RxZVo4VXpWNjRhbm8tT2xjM0tJdEFfZDZSUjN5a3FTaFFtN0NmdTNFTFNvbFBQSUlPelprSHZ6UVY?oc=5
+
+- '10 rescused, 1 missing': India condemns attack on vessel carrying Indian crew off Oman coast - The Times of India
+  '10 rescused, 1 missing': India condemns attack on vessel carrying Indian crew
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlpmbEhXeTlPcVNpSUhoakh5NlJYUVJtYjZqTlFtQXpfblNIcjZuVmF1ZkFqNzVSU0tsbmlCSkJYaGpMeHR1NlNxVlFWVGdJNUNIaEc4ZnpTN3BKWG5qU3N5Z0xHaFVzTTRYdHRpMHY0bjhzMi1ndC1SVE9oMlMyYzkxRDdxUzF3X1dZcFRydU5TeFJidm5uY0N0eTJpSTdoakNqYTR3YmJOYlN1MGk2bTlKSjBMa0s4LXhFX1g3WHJDck9hNmItQUxBbURPcDNLUWtrNUZUOTRVVTRh0gHiAUFVX3lxTE9lbmtJYkFuclZTcW1RMUI1T3ZBLWNoaFV1NXZhTnhtZFZDTEdDUGtnbWVWZjF6UkVVOXBrMy1NM1I2MVlJRmNPYXlQSXYwaXE0R0tBWFhCbXR4QVpWaDVFdG15THl4YWlodktQM3FDWVJlcWRwM3Y0aW1HaXc4ajdMaUtyMGw2dU5ndzlKU2dnUS1waXRyUWt3RHNDVzJva0FaTmFsNWl0MS1sejgxNFZxb3ZVaW1jOUg2SFl0b0g2M0tobVN0d3lVZU9RVDJnQjJPNFg3cGdwQVRlYVFpNG95QVE?oc=5
+
+- India declares one-day national mourning for former Qatar emir Sheikh Hamad bin Khalifa Al-Thani - The Times of India
+  India declares one-day national mourning for former Qatar emir Sheikh Hamad
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMW1udjlRX19JN2pDV05Xa01jczJqbHRVM0NqUkJ4bUFkWkRYZGJva1lzRHJlRDBnRmdwSGRFNVBVMGQyZndGUmg1RFNKV2dLWC0wNUVOYk41SVd4RVJKU1Q5aV9TcGZ0R1dMaWo5QmU0RXROUWJfM0dhWXY3SnFtZVd6MnhJaFV0eXZrcnZNV2tkRTBHZUVTRnJ3SmlKOG1MSHpRX0V3bUN6cUkyV29QeW9kV1llWkh4M0ZBRDBIOTNHX0RDTHNYbUVuTWl3MVJTTFh4Vl9rb2ZwLWIwbzlFT25UREhYWFAwQ002WUg2c0tncmxjM2NF0gH8AUFVX3lxTFBQeEhzNkdra2w3cWx6RUxlS1ZvUHVZM1BNSFhfR1Bpdkxuc25lSTNSZHNsLWY3aUYzeWdrR2tpSDd3ZmlEYmpYWWVQazJKU281d285eDBWWEUtOHpnSlZkaWEwTWlvdnFjS0xUSDFKdmlaNENRU1dBTWZPNEUtcDFmSDhxYzlIeFR4Z0JDcExPVFM4MjVYLW1FN09WNHNNZ0FQQkJmdU43TXRLNlU5NDFPRlMyNFcydEc0MFVDVHBjYmM5REh2eV9idUwzOGpIUUt1c0w5M2xfQk94MFVNazVzenNnZVZNT2taVHpXdXltLVltUG9tOW90SURtcA?oc=5
+
+- India Declares 1-Day Mourning For Ex-Qatar Emir Sheikh Hamad Al Thani - NDTV
+  India Declares 1-Day Mourning For
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVpBeXBhWVVqa0YyZVNXMzNfUzk3THRmUFBmMmNmTWRoSWJ5a1JPZldaT0YxSHdSZWlqMnZoQUtKQmNTekZEdW5xWGl4UE5md0M2ampjOVFjcnY2WGlzdDZmbHh6SjJEWHhUeEcxMGZkaVk1LVhZcUNpM21DX1I4UmZGUlZpM0FIcVhtWDA4bTY0R29TZG9NejVpeWJxeUJ5aWpQMjFkMmJza1N6OVFQVkY1eE9Dd0hwVWZ6UTdhc9IBxwFBVV95cUxQakhGXzZRdWhTMktEamo3eE9lc2dBVlVVd0MtZFc4YjZDV1pxLWwzNzNkWERHN1U1ZWk3NnlXYVV3aDl1TjJkUGwyY2l5bjVPYnRDTEdDN0w2Qk93TmxzX2JoWGN3TXNYNkJobUFDU2Z4M0dGMmNwSUVCMGwxeTYxOWVfVGVNNnlieUowWm1YcWkxNmlVMVlubmkzOTE4WDhodlJoQzd4V1VUc2wyZWU1d0kxM3RQXzZFSnBzdXE5VC12ekpRNVVV?oc=5
+
+- India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region | Akashvani News - News On AIR
+  India condemns attack on commercial vessel GFS Galaxy off coast of Oman. 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks.
+  🔗 https://news.google.com/rss/articles/CBMixgJBVV95cUxQLXA3bnU3bURkel8xX1dxUktLOGVDdkxOVlBYMGRxWDFuVkxuX0o2LWZJSEhsRU5vY3RObEU0OXZrSFZkTDB0dTQxaXE3YmJKanFYLVdzYlhxWTZoTVVJeEhNMUZ3TFVERTRsTUhodVVyUmZqVmtmdnVROURrT2hFU1Jnai1WMlBnV3BzaWk4eEprNTREZGUwVFRuNXlvZTB1UExJNkk1RG52SjFsVnpRSklFTGZFMTlfeHZVNGtzSTdJVGZCUkdfSFNPVnppNnBhRm1idm0yQU9HUFJHcjROajhVcF9sajBTaHZ2dkFZY3NnT2lJU0NjNEtrcmRmVndXZEdpSTFFUFpkN1o2SGVSTU9ZS0RVSmN0UUdWR1pPVUZNUkJ0S3JWbk5qSGZlOWU3ZUZ1eDVCWUZfZ3Q1YmdFVV9tclpsZw?oc=5
+
+- Indian Missing, 10 Rescued After Iran Attacks Ship In Strait Of Hormuz - NDTV
+  Indian Missing, 10 Rescued After Iran Attacks
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXJoNFpQZVhPYnQ2WC0xcFNNc2FmY0I5QXBGSmk4cEpSb25kZ0VqSk9WOEI4YzI5aVUxVXFQa0RDMTFENFhvZkt6QnpQSzJ1eFp2Mnd6MW1yTlNtYXVScTlFaGZtLWVVZ1MwczA1dVl4YmxMUnFUNk9saHZLam9MRXY0OXlZcG44ZWZkck1xejhUTHotM25hQjJpdjJoV2tFSUhmU3MzUTE5YlJrNjlNLXR6bFpZOFRUVTY0UlRNaHpXMHM0NjNUVWFRMXdkZ25JNXV3Z20wN1DSAeABQVVfeXFMT3hqa1pPVUx4eE1TalBtVW92alFFZzZTcXZMZk10Um15ZlpLZmJIbjA1RTN0R2tULVJqUFNOUFM2VWI0RXJmUE14UXdFV0dacF8xTHROQWFBNW1FVlVDWlBWbDk2SG9PaGFFTGlhR0VpNllZREdfbWtmb2ZnREt3d3dXOXVrcGw1eHJoeVI0eHdybW1OTmpNQkNQUzE3TU1kZUsyZ2x1V3RxZVo4VXpWNjRhbm8tT2xjM0tJdEFfZDZSUjN5a3FTaFFtN0NmdTNFTFNvbFBQSUlPelprSHZ6UVY?oc=5
+
+- '10 rescused, 1 missing': India condemns attack on vessel carrying Indian crew off Oman coast - The Times of India
+  '10 rescused, 1 missing': India condemns attack on vessel carrying Indian crew
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlpmbEhXeTlPcVNpSUhoakh5NlJYUVJtYjZqTlFtQXpfblNIcjZuVmF1ZkFqNzVSU0tsbmlCSkJYaGpMeHR1NlNxVlFWVGdJNUNIaEc4ZnpTN3BKWG5qU3N5Z0xHaFVzTTRYdHRpMHY0bjhzMi1ndC1SVE9oMlMyYzkxRDdxUzF3X1dZcFRydU5TeFJidm5uY0N0eTJpSTdoakNqYTR3YmJOYlN1MGk2bTlKSjBMa0s4LXhFX1g3WHJDck9hNmItQUxBbURPcDNLUWtrNUZUOTRVVTRh0gHiAUFVX3lxTE9lbmtJYkFuclZTcW1RMUI1T3ZBLWNoaFV1NXZhTnhtZFZDTEdDUGtnbWVWZjF6UkVVOXBrMy1NM1I2MVlJRmNPYXlQSXYwaXE0R0tBWFhCbXR4QVpWaDVFdG15THl4YWlodktQM3FDWVJlcWRwM3Y0aW1HaXc4ajdMaUtyMGw2dU5ndzlKU2dnUS1waXRyUWt3RHNDVzJva0FaTmFsNWl0MS1sejgxNFZxb3ZVaW1jOUg2SFl0b0g2M0tobVN0d3lVZU9RVDJnQjJPNFg3cGdwQVRlYVFpNG95QVE?oc=5
+
+- India declares one-day national mourning for former Qatar emir Sheikh Hamad bin Khalifa Al-Thani - The Times of India
+  India declares one-day national mourning for former Qatar emir Sheikh Hamad
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMW1udjlRX19JN2pDV05Xa01jczJqbHRVM0NqUkJ4bUFkWkRYZGJva1lzRHJlRDBnRmdwSGRFNVBVMGQyZndGUmg1RFNKV2dLWC0wNUVOYk41SVd4RVJKU1Q5aV9TcGZ0R1dMaWo5QmU0RXROUWJfM0dhWXY3SnFtZVd6MnhJaFV0eXZrcnZNV2tkRTBHZUVTRnJ3SmlKOG1MSHpRX0V3bUN6cUkyV29QeW9kV1llWkh4M0ZBRDBIOTNHX0RDTHNYbUVuTWl3MVJTTFh4Vl9rb2ZwLWIwbzlFT25UREhYWFAwQ002WUg2c0tncmxjM2NF0gH8AUFVX3lxTFBQeEhzNkdra2w3cWx6RUxlS1ZvUHVZM1BNSFhfR1Bpdkxuc25lSTNSZHNsLWY3aUYzeWdrR2tpSDd3ZmlEYmpYWWVQazJKU281d285eDBWWEUtOHpnSlZkaWEwTWlvdnFjS0xUSDFKdmlaNENRU1dBTWZPNEUtcDFmSDhxYzlIeFR4Z0JDcExPVFM4MjVYLW1FN09WNHNNZ0FQQkJmdU43TXRLNlU5NDFPRlMyNFcydEc0MFVDVHBjYmM5REh2eV9idUwzOGpIUUt1c0w5M2xfQk94MFVNazVzenNnZVZNT2taVHpXdXltLVltUG9tOW90SURtcA?oc=5
+
+- India Declares 1-Day Mourning For Ex-Qatar Emir Sheikh Hamad Al Thani - NDTV
+  India Declares 1-Day Mourning For
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVpBeXBhWVVqa0YyZVNXMzNfUzk3THRmUFBmMmNmTWRoSWJ5a1JPZldaT0YxSHdSZWlqMnZoQUtKQmNTekZEdW5xWGl4UE5md0M2ampjOVFjcnY2WGlzdDZmbHh6SjJEWHhUeEcxMGZkaVk1LVhZcUNpM21DX1I4UmZGUlZpM0FIcVhtWDA4bTY0R29TZG9NejVpeWJxeUJ5aWpQMjFkMmJza1N6OVFQVkY1eE9Dd0hwVWZ6UTdhc9IBxwFBVV95cUxQakhGXzZRdWhTMktEamo3eE9lc2dBVlVVd0MtZFc4YjZDV1pxLWwzNzNkWERHN1U1ZWk3NnlXYVV3aDl1TjJkUGwyY2l5bjVPYnRDTEdDN0w2Qk93TmxzX2JoWGN3TXNYNkJobUFDU2Z4M0dGMmNwSUVCMGwxeTYxOWVfVGVNNnlieUowWm1YcWkxNmlVMVlubmkzOTE4WDhodlJoQzd4V1VUc2wyZWU1d0kxM3RQXzZFSnBzdXE5VC12ekpRNVVV?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-12 19:01:17 UTC_
+_Last updated: 2026-07-13 02:15:22 UTC_
