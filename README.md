@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- In Prashant Kishor’s election affidavit, Rs 96 crore in own assets, wife’s assets worth Rs 101 crore
+- ‘Gun licence doesn’t mean…’: Why Bihar police opposed Khan Sir’s plea to quash FIR
   
-  🔗 https://indianexpress.com/article/india/prashant-kishor-bankipur-bypoll-nomination-assets-criminal-cases-affidavit-bihar-politics-10785006/
+  🔗 https://indianexpress.com/article/india/khan-sir-fir-patna-high-court-bihar-police-arms-act-10785090/
 
-- In emotional speech after supporters’ protest, Narottam Mishra backs BJP’s Datia candidate
+- Day after Bihar double murder, accused injured in police encounter
   
-  🔗 https://indianexpress.com/article/india/datia-bypoll-narottam-mishra-mohan-yadav-ashutosh-tiwari-nomination-rally-bjp-10784976/
+  🔗 https://indianexpress.com/article/india/bihar-vaishali-army-jawan-murder-encounter-10785153/
 
-- Curbs across Old Srinagar for Martyr’s Day, even Omar minister stopped
+- Ladakh to set up autonomous hill development councils for all 7 districts
   
-  🔗 https://indianexpress.com/article/india/martyrs-day-old-srinagar-omar-abdullah-jammu-and-kashmir-10784916/
+  🔗 https://indianexpress.com/article/india/ladakh-autonomous-hill-development-councils-for-seven-districts-10785086/
 
-- Amrit Bharat Station Scheme: Railways upgrades 10 stations at Rs 424 crore
+- Five gold medals in Physics Olympiad ‘shows Yuva Shakti’s limitless potential’: PM Narendra Modi
   
-  🔗 https://indianexpress.com/article/india/amrit-bharat-station-scheme-railways-upgrades-10-stations-at-rs-424-crore-cost-10784609/
+  🔗 https://indianexpress.com/article/india/india-5-gold-medals-physics-olympiad-2026-pm-narendra-modi-message-10785156/
 
-- Give proof or apologise: BJP’s Rs 100-cr defamation threat to Omar over MLA poaching claim
+- Chhattisgarh: Four ‘juveniles’ murder watchman, escape from observation home
   
-  🔗 https://indianexpress.com/article/india/bjp-legal-notice-kashmir-omar-abdullah-poach-statehood-protest-delhi-10784877/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-bilaspur-juvenile-home-watchman-murder-10785137/
 
 - EU chief weighs age restrictions for children using social media
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-satya-nadella-reverse-information-paradox-enterprise-ai-adoption-10784010/
 
-- Claude AI subscriptions now available in rupees: Check how much Pro, Max and Team plans cost in India
-  Indian users can now subscribe to Claude AI with local pricing in rupees. This change makes payments easier and inclusive of
-  🔗 https://www.livemint.com/companies/news/claude-ai-subscriptions-now-available-in-rupees-check-how-much-pro-max-and-team-plans-cost-in-india-11783959487803.html
+- Avendus’ PE fund buys stake worth  ₹140 crore in Parag Parikh Financial Advisory Services
+   wealth management will possibly be one of the largest beneficiaries of this shift, says Ritesh Chandra, managing director, Avendus Future Leaders Fund.
+  🔗 https://www.livemint.com/companies/avendus-pe-fund-buys-140-crore-stake-in-parag-parikh-financial-advisory-services-11783928261740.html
 
-- ‘Why did you send a girl to Africa?’: Vasundhara Oswal on surviving Uganda kidnapping, boardroom sexism
-  Vasundhara Oswal opens up to LiveMint about her traumatic illegal detention in Uganda
-  🔗 https://www.livemint.com/companies/people/why-did-you-send-a-girl-to-africa-vasundhara-oswal-on-surviving-uganda-kidnapping-boardroom-sexism-11783961132464.html
+- Elevation Capital launches $500 million fund to back AI startups
+  Elevation Capital joins a growing list of VC firms that have raised, or are in the process
+  🔗 https://www.livemint.com/companies/start-ups/elevation-capital-500-million-fund-ai-startups-india-venture-capital-11783947031304.html
 
-- Jio Platforms replaces CEO Kiran Thomas with Pankaj Pawar ahead of IPO
-  Jio Platforms has replaced Kiran Thomas as chief executive officer with Pankaj Pawar ahead of its
-  🔗 https://www.livemint.com/companies/news/jio-platforms-replaces-ceo-kiran-thomas-with-pankaj-pawar-ahead-of-ipo-11783962166938.html
+- Oxane Partners' founders eye majority sale at up to $250 mn valuation
+  UK-based private credit software firm, built without external funding, has hired Avendus and Jefferies to explore
+  🔗 https://www.livemint.com/companies/news/oxane-partners-founders-seek-majority-stake-sale-250-million-avendus-jefferies-11783915254682.html
 
-- Elon Musk's net worth drops below $900 billion as SpaceX stock continues to tumble after IPO
-  Elon Musk's fortune dropped below $900 billion as SpaceX shares fell 4.45
-  🔗 https://www.livemint.com/companies/people/elon-musks-net-worth-drops-below-900-billion-as-spacex-stock-continues-to-tumble-after-ipo-11783960421305.html
+- HCLTech reverses course, bets $365 million on data centre business
+  HCL Technologies announces a  ₹3,500 crore investment in data centres. The company reported minor revenue growth in Q1, facing challenges.
+  🔗 https://www.livemint.com/companies/hcltech-reverses-course-bets-365-million-on-data-centre-business-11783954628118.html
 
-- Paramount Skydance faces lawsuit as 12 state attorneys general seek to block Warner Bros. Discovery acquisition
-   Paramount Skydance's proposed acquisition of Warner Bros. Discovery faces a lawsuit from 12 state
-  🔗 https://www.livemint.com/companies/news/paramount-skydance-warner-bros-discovery-acquisition-challenged-in-lawsuit-by-12-state-attorneys-general-11783959412381.html
+- Chinese lessor moves DGCA to deregister, repossess four SpiceJet aircraft
+  SpiceJet is facing action from lessors seeking to deregister four grounded Boeing 737 MAX aircraft. Legal experts caution that deregistration could impact the airline's fleet and
+  🔗 https://www.livemint.com/companies/chinese-company-moves-dgca-to-deregister-repossess-four-spicejet-aircraft-11783963282906.html
 
-- SpaceX extends losses, hovers near IPO price after 39% plunge from peak
-  SpaceX shares have dropped 5.3% to $137.68, just above its IPO price. Despite strong fundamentals, the stock's recent decline is attributed to profit-taking
-  🔗 https://www.livemint.com/market/stock-market-news/spacex-extends-losses-hovers-near-ipo-price-after-39-plunge-from-peak-11783959405363.html
+- Asian stocks today: Kospi, Nikkei fall over 2% amid ongoing US-Iran war, rising crude oil prices
+  Japan's Nikkei 225 declined 1.17%, while the broader Topix index slipped 0.51
+  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-fall-over-2-amid-ongoing-us-iran-war-rising-crude-oil-prices-11783992564961.html
 
-- Gold, silver prices today: Comex gold, silver extend losses as Middle East tensions lift Fed rate hike fears
-  Gold futures dropped to $4,009 and silver to $57.82. Crude oil prices surged over 4%, raising inflation fears and impacting markets.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-silver-extend-losses-as-middle-east-tensions-lift-fed-rate-hike-fears-11783952274681.html
+- Gift Nifty, US-Iran war, crude oil prices to India inflation: 10 things that changed for Indian stock market overnight
+  Gift Nifty was trading around 24,049 level, a discount of nearly 193 points from the Nifty futures
+  🔗 https://www.livemint.com/market/stock-market-news/gift-nifty-us-iran-war-crude-oil-prices-to-india-inflation-10-things-that-changed-for-indian-stock-market-overnight-11783992713706.html
 
-- Small-cap stock under  ₹50 hits upper circuit after this AI update
-  Blue Cloud Softech Solutions shares closed 5% higher at  ₹
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-hits-upper-circuit-after-this-ai-update-11783943557326.html
+- Crude oil prices jump to one-month high after 10% rally as US-Iran war escalates; Brent oil near $85 a barrel
+  Brent crude futures gained $1.68, or 2%, to $84.98 per barrel. US West
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-jump-to-one-month-high-after-10-rally-as-us-iran-war-escalates-brent-oil-near-85-a-barrel-11783991149960.html
 
-- Laser Power &amp; Infra IPO: Issue booked 41 times on Day 03; NII, QIB portions see strong demand
-  Laser Power &amp;amp; Infra Ltd.'s IPO was oversubscribed 41 times, with institutional investors leading. The issue raised  ₹742 crore, priced at
-  🔗 https://www.livemint.com/market/stock-market-news/laser-power-infra-ipo-issue-booked-41-times-on-day-03-nii-qib-portions-see-strong-demand-11783950960114.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 14 July 2026
+  The Indian stock market ended Monday's session on a flat note. Sumeet Bagadia
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-14-july-2026-11783989846774.html
 
-- HCL Tech Q1 Results: Board declares interim dividend of  ₹12 per share. Details here
-  The record date for shareholders is July 17, with the payout scheduled for July 27. HCL Technologies announced an interim dividend of  �
-  🔗 https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-board-declares-interim-dividend-of-rs-12-per-share-details-here-11783945313994.html
+- Stock recommendations for 14 July from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 14 July. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-14-july-marketsmith-india-11783955836745.html
 
 - Meta submits reply on Instagram CSAM ads, government reviewing response: IT secretary
   MeitY is reviewing Meta's response to its notice regarding CSAM
@@ -100,45 +100,69 @@
   OpenAI is hiring a product manager to develop AI experiences
   🔗 https://www.livemint.com/technology/tech-news/openai-is-hiring-to-build-chatgpt-for-families-heres-what-we-know-11783825718218.html
 
-- Strategy bitcoin sales shine light on faltering crypto hoarding companies
-  Crypto treasury firms face mounting pressure as falling bitcoin prices erode valuations and investor confidence. Strategy’s fresh sales plan has revived scrutiny of the digital asset treasury model.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/strategy-bitcoin-sales-shine-light-on-faltering-crypto-hoarding-companies/articleshow/132373599.cms
+- Stock Market News, July 13, 2026: Oil Jumps, While AI Jitters Weigh on Nasdaq - WSJ
+  Stock futures are little changed as Middle East tensions escalate; traders await earnings and inflation data. Oil prices Soar as Trump Says US Reinstating Strait of Hormuz Blockade.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWw0ZmM3UmZvZmtHRFhxX3NZdjVNTWtoV281cEZ5YU11aFd6b25HTWRQcVNhT2RSQXVEQnpHQzRBX1NDM24xcWJtazFwTkxmQ3dDZnd0bVc2NWJIeHpNNlFETjJJNVViZkpMU1kwZjVUSlR6NTc1ZFZQZmlsUVdTOElMNWlKZkE?oc=5
 
-- Fed's Waller says higher rates possibly needed in 'near term'
-  Federal Reserve Governor Christopher Waller signalled that interest rates may need to rise in the near term if inflation remains elevated. He warned that broadening price pressures and a potential surge in energy costs could delay progress toward the 2
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-waller-says-higher-rates-possibly-needed-in-near-term/articleshow/132372366.cms
+- Oil Holds Gains as Iran Stokes Inflation Worries: Markets Wrap - Bloomberg.com
+  Oil Holds Gains as Iran St
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQT3VCR05PbEhQWUFKT1FYaGtQdTA5d3VvZEg4N0xhaEFNV3ZlYjYzNUVGcWZvN2FEU2k1YTJlV1gyQUVQOExPb2FWV2ZQWFRxRjNwUUU1em5zYlhXcHB6Q0J1TV94TmcwTXk4Q2ZuSWpqOGcydTBfRzR4YjhXWTdWeEFKRnFCUk5idUd1RTNwZUdVMmpMU3YwWUNnY29PWHk5cEttOXk2VG9sOFlTOXBLVHNn?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  The stock market witnessed a strong intraday recovery from the day’s lows, said Vinod Nair, Head of Research of Geojit Investments.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132370688.cms
+- Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping - The Guardian
+  Oil prices leap and stocks fall as Trump reinstates Hormuz
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXlyeWtGOUl1T05Wa1IzY0ZtNlZzbVJuUjlQaU41V3NHYUJSb0ZoNTAyaWFBMEpuYlk5M0FDWENtSGZTZUk5OUJhMXdYUDVhUm1YZVMwcTdWa01FaVlsTEZmdVhEblUweHlaWEJzdndOY2xRN3dMRDJraWRtRkdEdjdrRjFael8zclZfQVA5LUZ5bFcxTU9UaGdmTzNaaUdueXVMUm1qRGhSdi1GVk42QnQzaDVjZzdXSmZLS3JR?oc=5
 
-- SK Hynix US-listed shares slip nearly 8% as Nasdaq debut euphoria cools
-  SK Hynix’s US-listed shares fell nearly 8% after a strong Nasdaq debut. The decline triggered broader weakness across global semiconductor stocks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-us-listed-shares-slip-nearly-8-as-nasdaq-debut-euphoria-cools/articleshow/132369738.cms
+- Energy & Utilities Roundup: Market Talk - WSJ
+  Energy & Utilities Roundup
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE8zLXJ4MmZoZDdlRFl3TVhQMkozMjkxSDJMekVOQ1lUdmVqSmYyMWZsdW01RXBfcUxHVmpDUHBGTC1WTW5wcEhrbURZUHJqZUYtRkdqZ0o1VzRjQnNyREZsajZvWUhwUWJBOWJrR3otYm1mSUpmMjVobjNmZ24wV00?oc=5
 
-- Ahead of IPO, Millworks Tech raises nearly Rs 44 cr from anchor investors
-  Millworks Technologies has successfully garnered Rs 44 crore from its anchor investors. This large-scale IPO, amounting to Rs 160.33 crore, will close on July sixteenth. Renowned for its precision components across multiple sectors.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ahead-of-ipo-millworks-tech-raises-nearly-rs-44-cr-from-anchor-investors/articleshow/132369715.cms
+- First Tick: Top global cues to watch in today's trade - Moneycontrol.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmtQamF1MThGYW1WX3JJQWRQMkNrSEtkUmhWVUE4eDJVbWpFc181VHFZb29qNmduTjJHU1R2V3BHdjJUZzBTQ1hIZTFNRzB6dzZ1dkx5VXc2enJIeXNXWGRsWUFKNFg2bTdOUFRneXNBM1NNZUJCMWlZMGs3MWluZUVHMnlGWWlRYUFTWGhqeTNDV0VwZHB3dE5OV3BIV0xINkxPeTBLMmYtS2p3WHUyeDI4RjhsYkt3ZFRpMjRn0gHDAUFVX3lxTE95Q1dla2pCQnlsSmdLOWF3NlFJNWZWQlJKU0xpbEJwcnVJUm9NZ09RTjRTLXpGVk1EU0pCS0p6YTlnT0ExY0RrSnZvTmpCYTZTdTNDQzVMTnVVemJTclBGQ2FZcC00dEFQZktzWnU2bnh6dFVoal9pNWtaNl9nNFJvbDJ4WmFPUWdSNmRuZmZieDNfd3lRTHpKOHdKSVdiNWctdExNZS0xcjUwZU96YnpzNWZMWm1WcXE5dHdkeWYwUGhkYw?oc=5
+
+- India’s beaten-down largecaps set to rebound on foreign flows
+  Large-cap Indian stocks are expected to narrow their underperformance to smaller peers soon. Foreign investors are returning to Indian equities, boosting large-cap prospects.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-beaten-down-largecaps-set-to-rebound-on-foreign-flows/articleshow/132378841.cms
+
+- Oil climbs to one-month high as US, Iran step up attacks in Strait of Hormuz
+  The United States reinstated its naval blockade of Iran. Two United Arab Emirates tankers were struck by Iranian missiles. Houthi rebels fired missiles at Saudi Arabia.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-to-one-month-high-as-us-iran-step-up-attacks-in-strait-of-hormuz/articleshow/132378820.cms
+
+- Bandhan Bank may extend gains as banking sector momentum strengthens: Religare Broking
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/bandhan-bank-may-extend-gains-as-banking-sector-momentum-strengthens-religare-broking/videoshow/132359286.cms
+
+- Pre-market action: Here's the trade setup for today's session
+  Indian markets showed resilience on Monday despite global challenges. Q1FY27 earnings season will likely be a key catalyst for market action. Foreign portfolio investors were net sellers, while domestic institutional investors bought shares.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132378746.cms
+
+- Stocks in news: Tata Elxsi, HCL Tech, ICICI Pru AMC, Biocon, SpiceJet
+  Indian markets closed nearly unchanged after a volatile trading session on Monday. Tata Elxsi and L&amp;T Tech shares are in focus as they announce first quarter results. HCL Tech reported a twenty percent year-on-year
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-elxsi-hcl-tech-icici-pru-amc-biocon-spicejet/articleshow/132378731.cms
 
 - 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
   'Goes Against India's sovereignty':
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
 
-- ET Graphics | India’s sports interest breaks new ground - The Economic Times
-  The Economic Times reports that India's sports interest
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmg1anNsXzM1S0FvZ20xbUpnMDlrY2lIM2dmYU8zc2N3VUxFRzV3NW81eDhDV09EU1cybXk3alpjODBkcEJIVnVvcG9SNHNmN2ljUER3TmZoeGxsLU5JQWZtUFlxTGw0cHhWcnNGMVRoQndpMS1CUHBfcjZEZGhRb0NVQWdSWllQcVJjQ3dhVFdKUTNPQldwSTZWak45Rmwta2RuUUVaczZHZXV1cVZvbjdNc0lrTGFvSXgwaDVIN29FelRJcGxtdHNHUFdDSUZQVXhnWW5DNNIB0AFBVV95cUxNVjlhbFBQS0FXeUFkVTRSemlIUC1kNXRCdHhIVjZweC1pdE5BemNsWmdUT2dnMFl0MC1kTkNkMHgtcEJfRmd1d2hraERJYk0zS1Q5Zk5nalA3REtGaG9vc09rRGI4enBGYUhSVDJYaGlMQV9QR2otWU5qWW4xT0REd2xRMlAzejBlRWdvYThrY0xORDNoRjJDU08tLW03QVlLc01uRE4yTkFLcEtCRkw0cTI3cEs5dTF6N1FFZXlkRGpvT24weV9OaVZ2eTZPd1pQ?oc=5
+- India news: Repatriation underway after Vietnam boat sinking - dw.com
+  India news: Repatriation
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTBUT1poQklkVkFXZjdwX25JdXJ1N2RILUFHcTNyamZPcE80eWNENEJwNjRUZ2pJSkZFTHpzZHdnaFMwUUZJVjVzd2Y1OEdkd1JKQU1BcVBvaEpCQkZMbzRWMXRSbTRqaVpONzlNbkVJclJRYVRYWVdOUl9ucE16V0ZGcnQ4UHZ3bldWcHRXSFQ?oc=5
 
-- India declares one-day national mourning to honour Qatar’s Father Amir - News On AIR
-  India declares one-day national mourning to honour Qatar
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5ajNTLTR6R1gyUmx3RHlzejBDNlRjY2N2c3FaYXN5bFZBenlodDU1YzVQdkh5UlJTbF9WUWZ2di1pZ1pjSDVOZm84dVd3WUsyMUk2S0pUNVFwSmxLa1pDcU5tdmQ1TFE3WVNNX2xjdHdjQkY0VHo1NE5mZjF0MDJrTzI1V2V4YWZiMlBmeUVIMk1mOEJPYUk3RVhvQ1FXdnNFZE9DNTdxQW5vY1NBakNJcUtrdTN4dkxV?oc=5
+- Mortal remains of 15 Indian tourists brought back from Vietnam - News On AIR
+  Mortal remains of 15 Indian tourists brought back from
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0NTRlQyeUhSZmNwb2lQTFdiWkhuRnFEVi02NTB3R2pxM3ZBcWpGTVRwQXJ4bDNiZlM4NzNEOVBOWEpKMzVYVXNtU1RPMExTR3pkdHhkS0tyb2V5WmRZeEU0ZUtfN1l1T29kUU5fclJoTFUxb2tBU0twSEZ4U2NwTjFnaGlzcnJ5dDBIV2hxeWtkQQ?oc=5
 
 - Bodies of 15 Indians killed in Vietnam boat tragedy arrive in Mumbai - The Times of India
   The Times of India reported that 15 Indians were killed in the boat
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjktS2lDVlRRdERyT1NuUTJyWnJpWFJTOTgydUk3OFlycFN6SlBpUm40N05DdU5xRHNlcnd0MW54NEZFdkJ6eFlVOXl2bjhHZXJOSDdHNjVRT3RJQW9kTlpJYUVnQmZhc3lLQ29DYWlSYTRFZEVKYm1tUElidVJjak1WcVVkcVFkeHhtSU9ZWUxiVncyR05GejJOS1N2cDNYV0VOX0s4QTZCeml0bjFLMk40THlpMlZ5TGRvVmNpM3dzQWtIbVBaeUEtcFcyM1NXN0HSAdcBQVVfeXFMUDBQalhlaDdaUGtmQWh0Tld1UmVHUWV3ZEFLQ1FkamdiWkxQdlVMeWc4Y21XSHhXMVhteTh2OS1mT0VWNHlYd3NMb2diWDJFQ0RZdW1waGstR1dvWktRN1BtUG10cGJ2cXJRdTZmaklydm5qMnc0UnN3YndXN3h5RGpOMTdIM29XdG9BZmppQ2tFbWhtMHFvaUYtS3JidU5BWXZzb3d1UWNieTVqTnJ6bHBURWRSd1NtOUdVbzE1LWx4YzNCVlA0OXVBRXdDNEdZTXYxZk1KRW8?oc=5
 
-- Vietnam Phu Quoc boat tragedy: Bodies of 15 Indian tourists flown home - The Hindu
-  The Hindu: Bodies of 15 Indian tourists flown home
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2pvNERTTDZHdHJkcWR2X3VlUEtmZVBsek81TU9qNy1QdVZkVUVPdHBWUHQ3Z21tLVBLNkg1ek5xNS12R0FlSThHa05WbFd0VWgta190ZUE0WmdyOGVkV0tTVmNyUGJ5dEt3a3dsVXFtRnpyU2IzazgzMm9xZ2FLd1huYWIya3JLX0lENFhhLXdWOFRmRG42SGZ6c0pCQ3hqZ2NCX3NhR19WXzk3QWlORVhTUEhiMzlEQVBtbE8wLUJfcWJRSlhtNmlESC1Da28z0gHXAUFVX3lxTE50WEFYSnd5N0JMUktpV2llVFpZUXRsS1Z4OUNUZFZvTjNDNjZZaUE3bUZTa1ZMVU1kMFd1Y2Y4SFExYk1VRG9MZ3Bjb1VRbGZnUG01ZU5lajlpSFlORDJ3YWFwaDZPV3o1cUsxWTJWdVIxQkxTb3d4cW4tV1JQMWpRUmVTVjFoOFAtUDhUMEpWZnJ2TDhyaXE5VTEyR2ZvVl9URFlKVEczZ05YWjBiX2g0RUVTLUhHQzBYYUpiMHlHSFB6S0Z6QVZ2NEU2YjEtOU1TQmQ2enJJ?oc=5
+- Indian Killed, 6 Injured In Iranian Cruise Strikes On UAE Tankers In Hormuz - NDTV
+  Indian killed, 6 Injured In Iranian Cruise Strikes On
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNenRkaFF4Z0N6ZU10c2swY1k3QUt3WWxkbUhDWFlBb3RwZnJINVBOMVQzWS1LZGtvVlRNejNLRk10dHFZdVVMektKeVh2NF9qWW9jdWtMQnlSNmdhQkpqb3pBTXVRWmFLcEVkNGlsV1poU2VJWThNYTZrdDRpZmZYRndDekl4amJnbFAwWHljLS1EdjJMajBzbHJfVk9uWGMteXZ2a0RLQmxnZ1RiRFBqaFVNZWNFZ9IBvgFBVV95cUxQbTdwZUlQUGJrY1J5QTlhazFjN2d0Nm1kaHIyNGl4TFJOa1V2NEtpb1FWVjNxSDJVSy1GOXd2N3lMWUFsNDJuSlBLUTJkTHdwWmNpMUVJN0FzR0RhcXpyR2NIMmtoa1o5V0NqRm04WUg1VzR2TzRpN2ljMDRReGFKSU9tTzhhT2lKaVFfUVZPVlgyZU5uVmJoRVh6RUJGY0U0MktRbk14SVdFbURTRU9QVUozekxzWlFSblJaTE9R?oc=5
+
+- How Yotta Is Building Its AI Infra Playbook To Serve Global Enterprises
+  For Yotta Data Services, it&#8217;s a race against time to build one of India’s largest pools of
+  🔗 https://inc42.com/features/how-yotta-is-building-its-ai-infra-playbook-to-serve-global-enterprises/
 
 - Early Backer Augusta TBO Sells 2.04% Stake In TBO Tek
   Early backer Augusta TBO (Singapore) Pte Ltd. today offloaded 2.04% stake in listed B2B travel tech platform TBO Tek.
@@ -156,77 +180,85 @@
   The Delhi High Court (HC) has reportedly passed a John Doe order directing Meta to take down multiple Facebook URLs.
   🔗 https://inc42.com/buzz/delhi-hc-orders-meta-to-remove-zees-pirated-content-from-facebook/
 
-- MeitY Asks Ministries To Hold Off On OpenAI, Anthropic Models For Cybersecurity: Report
-  A department under the IT ministry (MeitY) has reportedly asked central ministries to hold off on deploying AI models developed.
-  🔗 https://inc42.com/buzz/meity-asks-ministries-to-hold-off-on-openai-anthropic-models-for-cybersecurity-report/
-
 - 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
   'Goes Against India's sovereignty':
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
 
-- ET Graphics | India’s sports interest breaks new ground - The Economic Times
-  The Economic Times reports that India's sports interest
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmg1anNsXzM1S0FvZ20xbUpnMDlrY2lIM2dmYU8zc2N3VUxFRzV3NW81eDhDV09EU1cybXk3alpjODBkcEJIVnVvcG9SNHNmN2ljUER3TmZoeGxsLU5JQWZtUFlxTGw0cHhWcnNGMVRoQndpMS1CUHBfcjZEZGhRb0NVQWdSWllQcVJjQ3dhVFdKUTNPQldwSTZWak45Rmwta2RuUUVaczZHZXV1cVZvbjdNc0lrTGFvSXgwaDVIN29FelRJcGxtdHNHUFdDSUZQVXhnWW5DNNIB0AFBVV95cUxNVjlhbFBQS0FXeUFkVTRSemlIUC1kNXRCdHhIVjZweC1pdE5BemNsWmdUT2dnMFl0MC1kTkNkMHgtcEJfRmd1d2hraERJYk0zS1Q5Zk5nalA3REtGaG9vc09rRGI4enBGYUhSVDJYaGlMQV9QR2otWU5qWW4xT0REd2xRMlAzejBlRWdvYThrY0xORDNoRjJDU08tLW03QVlLc01uRE4yTkFLcEtCRkw0cTI3cEs5dTF6N1FFZXlkRGpvT24weV9OaVZ2eTZPd1pQ?oc=5
+- India news: Repatriation underway after Vietnam boat sinking - dw.com
+  India news: Repatriation
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTBUT1poQklkVkFXZjdwX25JdXJ1N2RILUFHcTNyamZPcE80eWNENEJwNjRUZ2pJSkZFTHpzZHdnaFMwUUZJVjVzd2Y1OEdkd1JKQU1BcVBvaEpCQkZMbzRWMXRSbTRqaVpONzlNbkVJclJRYVRYWVdOUl9ucE16V0ZGcnQ4UHZ3bldWcHRXSFQ?oc=5
 
-- India declares one-day national mourning to honour Qatar’s Father Amir - News On AIR
-  India declares one-day national mourning to honour Qatar
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5ajNTLTR6R1gyUmx3RHlzejBDNlRjY2N2c3FaYXN5bFZBenlodDU1YzVQdkh5UlJTbF9WUWZ2di1pZ1pjSDVOZm84dVd3WUsyMUk2S0pUNVFwSmxLa1pDcU5tdmQ1TFE3WVNNX2xjdHdjQkY0VHo1NE5mZjF0MDJrTzI1V2V4YWZiMlBmeUVIMk1mOEJPYUk3RVhvQ1FXdnNFZE9DNTdxQW5vY1NBakNJcUtrdTN4dkxV?oc=5
+- Mortal remains of 15 Indian tourists brought back from Vietnam - News On AIR
+  Mortal remains of 15 Indian tourists brought back from
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0NTRlQyeUhSZmNwb2lQTFdiWkhuRnFEVi02NTB3R2pxM3ZBcWpGTVRwQXJ4bDNiZlM4NzNEOVBOWEpKMzVYVXNtU1RPMExTR3pkdHhkS0tyb2V5WmRZeEU0ZUtfN1l1T29kUU5fclJoTFUxb2tBU0twSEZ4U2NwTjFnaGlzcnJ5dDBIV2hxeWtkQQ?oc=5
 
 - Bodies of 15 Indians killed in Vietnam boat tragedy arrive in Mumbai - The Times of India
   The Times of India reported that 15 Indians were killed in the boat
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjktS2lDVlRRdERyT1NuUTJyWnJpWFJTOTgydUk3OFlycFN6SlBpUm40N05DdU5xRHNlcnd0MW54NEZFdkJ6eFlVOXl2bjhHZXJOSDdHNjVRT3RJQW9kTlpJYUVnQmZhc3lLQ29DYWlSYTRFZEVKYm1tUElidVJjak1WcVVkcVFkeHhtSU9ZWUxiVncyR05GejJOS1N2cDNYV0VOX0s4QTZCeml0bjFLMk40THlpMlZ5TGRvVmNpM3dzQWtIbVBaeUEtcFcyM1NXN0HSAdcBQVVfeXFMUDBQalhlaDdaUGtmQWh0Tld1UmVHUWV3ZEFLQ1FkamdiWkxQdlVMeWc4Y21XSHhXMVhteTh2OS1mT0VWNHlYd3NMb2diWDJFQ0RZdW1waGstR1dvWktRN1BtUG10cGJ2cXJRdTZmaklydm5qMnc0UnN3YndXN3h5RGpOMTdIM29XdG9BZmppQ2tFbWhtMHFvaUYtS3JidU5BWXZzb3d1UWNieTVqTnJ6bHBURWRSd1NtOUdVbzE1LWx4YzNCVlA0OXVBRXdDNEdZTXYxZk1KRW8?oc=5
 
-- Vietnam Phu Quoc boat tragedy: Bodies of 15 Indian tourists flown home - The Hindu
-  The Hindu: Bodies of 15 Indian tourists flown home
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2pvNERTTDZHdHJkcWR2X3VlUEtmZVBsek81TU9qNy1QdVZkVUVPdHBWUHQ3Z21tLVBLNkg1ek5xNS12R0FlSThHa05WbFd0VWgta190ZUE0WmdyOGVkV0tTVmNyUGJ5dEt3a3dsVXFtRnpyU2IzazgzMm9xZ2FLd1huYWIya3JLX0lENFhhLXdWOFRmRG42SGZ6c0pCQ3hqZ2NCX3NhR19WXzk3QWlORVhTUEhiMzlEQVBtbE8wLUJfcWJRSlhtNmlESC1Da28z0gHXAUFVX3lxTE50WEFYSnd5N0JMUktpV2llVFpZUXRsS1Z4OUNUZFZvTjNDNjZZaUE3bUZTa1ZMVU1kMFd1Y2Y4SFExYk1VRG9MZ3Bjb1VRbGZnUG01ZU5lajlpSFlORDJ3YWFwaDZPV3o1cUsxWTJWdVIxQkxTb3d4cW4tV1JQMWpRUmVTVjFoOFAtUDhUMEpWZnJ2TDhyaXE5VTEyR2ZvVl9URFlKVEczZ05YWjBiX2g0RUVTLUhHQzBYYUpiMHlHSFB6S0Z6QVZ2NEU2YjEtOU1TQmQ2enJJ?oc=5
+- Indian Killed, 6 Injured In Iranian Cruise Strikes On UAE Tankers In Hormuz - NDTV
+  Indian killed, 6 Injured In Iranian Cruise Strikes On
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNenRkaFF4Z0N6ZU10c2swY1k3QUt3WWxkbUhDWFlBb3RwZnJINVBOMVQzWS1LZGtvVlRNejNLRk10dHFZdVVMektKeVh2NF9qWW9jdWtMQnlSNmdhQkpqb3pBTXVRWmFLcEVkNGlsV1poU2VJWThNYTZrdDRpZmZYRndDekl4amJnbFAwWHljLS1EdjJMajBzbHJfVk9uWGMteXZ2a0RLQmxnZ1RiRFBqaFVNZWNFZ9IBvgFBVV95cUxQbTdwZUlQUGJrY1J5QTlhazFjN2d0Nm1kaHIyNGl4TFJOa1V2NEtpb1FWVjNxSDJVSy1GOXd2N3lMWUFsNDJuSlBLUTJkTHdwWmNpMUVJN0FzR0RhcXpyR2NIMmtoa1o5V0NqRm04WUg1VzR2TzRpN2ljMDRReGFKSU9tTzhhT2lKaVFfUVZPVlgyZU5uVmJoRVh6RUJGY0U0MktRbk14SVdFbURTRU9QVUozekxzWlFSblJaTE9R?oc=5
 
 - 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
   'Goes Against India's sovereignty':
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
 
-- ET Graphics | India’s sports interest breaks new ground - The Economic Times
-  The Economic Times reports that India's sports interest
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmg1anNsXzM1S0FvZ20xbUpnMDlrY2lIM2dmYU8zc2N3VUxFRzV3NW81eDhDV09EU1cybXk3alpjODBkcEJIVnVvcG9SNHNmN2ljUER3TmZoeGxsLU5JQWZtUFlxTGw0cHhWcnNGMVRoQndpMS1CUHBfcjZEZGhRb0NVQWdSWllQcVJjQ3dhVFdKUTNPQldwSTZWak45Rmwta2RuUUVaczZHZXV1cVZvbjdNc0lrTGFvSXgwaDVIN29FelRJcGxtdHNHUFdDSUZQVXhnWW5DNNIB0AFBVV95cUxNVjlhbFBQS0FXeUFkVTRSemlIUC1kNXRCdHhIVjZweC1pdE5BemNsWmdUT2dnMFl0MC1kTkNkMHgtcEJfRmd1d2hraERJYk0zS1Q5Zk5nalA3REtGaG9vc09rRGI4enBGYUhSVDJYaGlMQV9QR2otWU5qWW4xT0REd2xRMlAzejBlRWdvYThrY0xORDNoRjJDU08tLW03QVlLc01uRE4yTkFLcEtCRkw0cTI3cEs5dTF6N1FFZXlkRGpvT24weV9OaVZ2eTZPd1pQ?oc=5
+- India news: Repatriation underway after Vietnam boat sinking - dw.com
+  India news: Repatriation
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTBUT1poQklkVkFXZjdwX25JdXJ1N2RILUFHcTNyamZPcE80eWNENEJwNjRUZ2pJSkZFTHpzZHdnaFMwUUZJVjVzd2Y1OEdkd1JKQU1BcVBvaEpCQkZMbzRWMXRSbTRqaVpONzlNbkVJclJRYVRYWVdOUl9ucE16V0ZGcnQ4UHZ3bldWcHRXSFQ?oc=5
 
-- India declares one-day national mourning to honour Qatar’s Father Amir - News On AIR
-  India declares one-day national mourning to honour Qatar
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5ajNTLTR6R1gyUmx3RHlzejBDNlRjY2N2c3FaYXN5bFZBenlodDU1YzVQdkh5UlJTbF9WUWZ2di1pZ1pjSDVOZm84dVd3WUsyMUk2S0pUNVFwSmxLa1pDcU5tdmQ1TFE3WVNNX2xjdHdjQkY0VHo1NE5mZjF0MDJrTzI1V2V4YWZiMlBmeUVIMk1mOEJPYUk3RVhvQ1FXdnNFZE9DNTdxQW5vY1NBakNJcUtrdTN4dkxV?oc=5
+- Mortal remains of 15 Indian tourists brought back from Vietnam - News On AIR
+  Mortal remains of 15 Indian tourists brought back from
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0NTRlQyeUhSZmNwb2lQTFdiWkhuRnFEVi02NTB3R2pxM3ZBcWpGTVRwQXJ4bDNiZlM4NzNEOVBOWEpKMzVYVXNtU1RPMExTR3pkdHhkS0tyb2V5WmRZeEU0ZUtfN1l1T29kUU5fclJoTFUxb2tBU0twSEZ4U2NwTjFnaGlzcnJ5dDBIV2hxeWtkQQ?oc=5
 
 - Bodies of 15 Indians killed in Vietnam boat tragedy arrive in Mumbai - The Times of India
   The Times of India reported that 15 Indians were killed in the boat
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjktS2lDVlRRdERyT1NuUTJyWnJpWFJTOTgydUk3OFlycFN6SlBpUm40N05DdU5xRHNlcnd0MW54NEZFdkJ6eFlVOXl2bjhHZXJOSDdHNjVRT3RJQW9kTlpJYUVnQmZhc3lLQ29DYWlSYTRFZEVKYm1tUElidVJjak1WcVVkcVFkeHhtSU9ZWUxiVncyR05GejJOS1N2cDNYV0VOX0s4QTZCeml0bjFLMk40THlpMlZ5TGRvVmNpM3dzQWtIbVBaeUEtcFcyM1NXN0HSAdcBQVVfeXFMUDBQalhlaDdaUGtmQWh0Tld1UmVHUWV3ZEFLQ1FkamdiWkxQdlVMeWc4Y21XSHhXMVhteTh2OS1mT0VWNHlYd3NMb2diWDJFQ0RZdW1waGstR1dvWktRN1BtUG10cGJ2cXJRdTZmaklydm5qMnc0UnN3YndXN3h5RGpOMTdIM29XdG9BZmppQ2tFbWhtMHFvaUYtS3JidU5BWXZzb3d1UWNieTVqTnJ6bHBURWRSd1NtOUdVbzE1LWx4YzNCVlA0OXVBRXdDNEdZTXYxZk1KRW8?oc=5
 
-- Vietnam Phu Quoc boat tragedy: Bodies of 15 Indian tourists flown home - The Hindu
-  The Hindu: Bodies of 15 Indian tourists flown home
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2pvNERTTDZHdHJkcWR2X3VlUEtmZVBsek81TU9qNy1QdVZkVUVPdHBWUHQ3Z21tLVBLNkg1ek5xNS12R0FlSThHa05WbFd0VWgta190ZUE0WmdyOGVkV0tTVmNyUGJ5dEt3a3dsVXFtRnpyU2IzazgzMm9xZ2FLd1huYWIya3JLX0lENFhhLXdWOFRmRG42SGZ6c0pCQ3hqZ2NCX3NhR19WXzk3QWlORVhTUEhiMzlEQVBtbE8wLUJfcWJRSlhtNmlESC1Da28z0gHXAUFVX3lxTE50WEFYSnd5N0JMUktpV2llVFpZUXRsS1Z4OUNUZFZvTjNDNjZZaUE3bUZTa1ZMVU1kMFd1Y2Y4SFExYk1VRG9MZ3Bjb1VRbGZnUG01ZU5lajlpSFlORDJ3YWFwaDZPV3o1cUsxWTJWdVIxQkxTb3d4cW4tV1JQMWpRUmVTVjFoOFAtUDhUMEpWZnJ2TDhyaXE5VTEyR2ZvVl9URFlKVEczZ05YWjBiX2g0RUVTLUhHQzBYYUpiMHlHSFB6S0Z6QVZ2NEU2YjEtOU1TQmQ2enJJ?oc=5
+- Indian Killed, 6 Injured In Iranian Cruise Strikes On UAE Tankers In Hormuz - NDTV
+  Indian killed, 6 Injured In Iranian Cruise Strikes On
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNenRkaFF4Z0N6ZU10c2swY1k3QUt3WWxkbUhDWFlBb3RwZnJINVBOMVQzWS1LZGtvVlRNejNLRk10dHFZdVVMektKeVh2NF9qWW9jdWtMQnlSNmdhQkpqb3pBTXVRWmFLcEVkNGlsV1poU2VJWThNYTZrdDRpZmZYRndDekl4amJnbFAwWHljLS1EdjJMajBzbHJfVk9uWGMteXZ2a0RLQmxnZ1RiRFBqaFVNZWNFZ9IBvgFBVV95cUxQbTdwZUlQUGJrY1J5QTlhazFjN2d0Nm1kaHIyNGl4TFJOa1V2NEtpb1FWVjNxSDJVSy1GOXd2N3lMWUFsNDJuSlBLUTJkTHdwWmNpMUVJN0FzR0RhcXpyR2NIMmtoa1o5V0NqRm04WUg1VzR2TzRpN2ljMDRReGFKSU9tTzhhT2lKaVFfUVZPVlgyZU5uVmJoRVh6RUJGY0U0MktRbk14SVdFbURTRU9QVUozekxzWlFSblJaTE9R?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
+  'Goes Against India's sovereignty':
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- India news: Repatriation underway after Vietnam boat sinking - dw.com
+  India news: Repatriation
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTBUT1poQklkVkFXZjdwX25JdXJ1N2RILUFHcTNyamZPcE80eWNENEJwNjRUZ2pJSkZFTHpzZHdnaFMwUUZJVjVzd2Y1OEdkd1JKQU1BcVBvaEpCQkZMbzRWMXRSbTRqaVpONzlNbkVJclJRYVRYWVdOUl9ucE16V0ZGcnQ4UHZ3bldWcHRXSFQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Mortal remains of 15 Indian tourists brought back from Vietnam - News On AIR
+  Mortal remains of 15 Indian tourists brought back from
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0NTRlQyeUhSZmNwb2lQTFdiWkhuRnFEVi02NTB3R2pxM3ZBcWpGTVRwQXJ4bDNiZlM4NzNEOVBOWEpKMzVYVXNtU1RPMExTR3pkdHhkS0tyb2V5WmRZeEU0ZUtfN1l1T29kUU5fclJoTFUxb2tBU0twSEZ4U2NwTjFnaGlzcnJ5dDBIV2hxeWtkQQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Bodies of 15 Indians killed in Vietnam boat tragedy arrive in Mumbai - The Times of India
+  The Times of India reported that 15 Indians were killed in the boat
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjktS2lDVlRRdERyT1NuUTJyWnJpWFJTOTgydUk3OFlycFN6SlBpUm40N05DdU5xRHNlcnd0MW54NEZFdkJ6eFlVOXl2bjhHZXJOSDdHNjVRT3RJQW9kTlpJYUVnQmZhc3lLQ29DYWlSYTRFZEVKYm1tUElidVJjak1WcVVkcVFkeHhtSU9ZWUxiVncyR05GejJOS1N2cDNYV0VOX0s4QTZCeml0bjFLMk40THlpMlZ5TGRvVmNpM3dzQWtIbVBaeUEtcFcyM1NXN0HSAdcBQVVfeXFMUDBQalhlaDdaUGtmQWh0Tld1UmVHUWV3ZEFLQ1FkamdiWkxQdlVMeWc4Y21XSHhXMVhteTh2OS1mT0VWNHlYd3NMb2diWDJFQ0RZdW1waGstR1dvWktRN1BtUG10cGJ2cXJRdTZmaklydm5qMnc0UnN3YndXN3h5RGpOMTdIM29XdG9BZmppQ2tFbWhtMHFvaUYtS3JidU5BWXZzb3d1UWNieTVqTnJ6bHBURWRSd1NtOUdVbzE1LWx4YzNCVlA0OXVBRXdDNEdZTXYxZk1KRW8?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Indian Killed, 6 Injured In Iranian Cruise Strikes On UAE Tankers In Hormuz - NDTV
+  Indian killed, 6 Injured In Iranian Cruise Strikes On
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNenRkaFF4Z0N6ZU10c2swY1k3QUt3WWxkbUhDWFlBb3RwZnJINVBOMVQzWS1LZGtvVlRNejNLRk10dHFZdVVMektKeVh2NF9qWW9jdWtMQnlSNmdhQkpqb3pBTXVRWmFLcEVkNGlsV1poU2VJWThNYTZrdDRpZmZYRndDekl4amJnbFAwWHljLS1EdjJMajBzbHJfVk9uWGMteXZ2a0RLQmxnZ1RiRFBqaFVNZWNFZ9IBvgFBVV95cUxQbTdwZUlQUGJrY1J5QTlhazFjN2d0Nm1kaHIyNGl4TFJOa1V2NEtpb1FWVjNxSDJVSy1GOXd2N3lMWUFsNDJuSlBLUTJkTHdwWmNpMUVJN0FzR0RhcXpyR2NIMmtoa1o5V0NqRm04WUg1VzR2TzRpN2ljMDRReGFKSU9tTzhhT2lKaVFfUVZPVlgyZU5uVmJoRVh6RUJGY0U0MktRbk14SVdFbURTRU9QVUozekxzWlFSblJaTE9R?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Bengaluru to prioritise technology-driven solutions to tackle traffic issues, says Home Minister Priyank Kharge - The Hindu
+  Bengaluru to prioritise technology-driven solutions to tackle
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSmI5MnZud0laYXliZWZSV0l6Q2VGOFBac2Q3YnI4dU5TY28xZnhoeTVVVFBFMVZHd3lqSVlhbVFwbUJzaEtLWXFIZ01fajV6ejlJekJtWVpVaC1VcUpZOVhqZmp4TWNpeUttb2xPQzVEMG13Ny12dkpNMHN4ZWluWk9LS0VEdEJBbXR5WkJxcklLenBJc0xNaTViS0tDc05yVmVFVnBSbnp3ME9ISmNpMk1lbmJPZy01UEJjenkycDgtb0VIMUs0T290VVh6R21HU3l4UlFjdG4wdFJmaG5ucnZYUVlrN3Y4REVCNTFvTWQyamIyV01ZeUhfUTVBcFhQX3BYLXhOLTlkZDDSAZICQVVfeXFMTWdJdHNIN19vNC1QR25maThERXBnejdWcThjM0dZa19LVTdBdXpTdWxUMjB2Y293N3BHeU1PYlBsQjJrVXY0NmlsNmdvMEFWTXVCZ0JsQXpFZUxjdzJsbTRaaHZPWXVyN2NBTGZxWml1R29CZVBmM1Y1dmVzRG1lbmkySEhQZ19qWGM3ak5NV1VPaEY4V3Q5QVZpX2IwSHI2OXVRX2NKQWRZZEYtWU5iZ1g1RV9WYmxQVnZRanNTOGR6RUNIYzYtY2RmVW1DWXE5cUVOWmdEOGZPZXlHMXhqMXZoS05oZEdYY3hzYy16YWl1aFZlMGYxdi1WVEZtOHdoSWxaNTB0SERJb1cxeEk2cWg0dw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Job cuts across US cross 443,600 in 2026, how many jobs technology companies have cut from January to Jun - The Times of India
+  The Times of India reported that technology companies have cut jobs across the globe.
+  🔗 https://news.google.com/rss/articles/CBMi3AJBVV95cUxOeDl5aGxUYlZ3MzFHVkZGNE9KTjdDX0JDWVh5TDJqd3o1ZUUwdFowS0NNcWgyQWNBN202dXcwVWQyODdGbmdhbUU2NlF2dDRTZ243Y0pSdVNkanRGeWdnNlNFVm1YQ1dlWG9xRGFScWJlOVdGQVM1Mm5WSlQ3YWYxQ214enozR1dqX25BNVJlVEFfM1ZfZVBOMDhNZjFvWm05OWdwZDRzeElnclhra0RTcjA5ajl2T01jY1BYQ3dzMGhvcXczek8tTDBZMVh5SDlURnNRbW8zaDF4Wk5kRjJPd0pxX19McjJPNVNCTUFsaGc0dy10QWZkRDhMdF9HQm5FNnZ4UTd2MDNyclV1NFdHNG45ekFDVm1INUlHRmM4cWl2WHNhakZyWFpRUUh1S3ZGMnZReTVTR3JISnBIX2lqRm9PMTBHTDFKcVljUGRJeTB0dzBYVXh6Nk5oNnbSAeICQVVfeXFMUEVtdHg2c0hwTmNwUUpmWlVfalY1UG5GeTFwS3YtcUMzTEhsaVhyTklnUEF0ZXJSclFtNU1fYUltYl82SWVia3BER1Y0NHc5OXJ1Sm1UTnE1UFlpY0pNTEpFUVJWdmZoNTNrSXB0SkxwYy1RM0Fab3E2dWRvSnpfLXpIOXc1X082S3htYVBtRzhKa3c2SGd0em5Sb3BUTXZEUFdxaUw2b24wLVM4OVlSWTV1VzVMUHZWUmpveXpucmNNRW5MS3J6QnJKYUJpSG1BRGRqZjA4bWljTG1ZRTdYNDV2X3dwZjJ4aWJZZENycWVrVEo2NnVnb0NmMHo4ZE9KOEJCY3dDT2ZRNHROU01PWE1UbDRkVW05dG5sWHNFZjVycldyQUx2M2JDd2RWUDhHSnZDTW1ZcDlLZkhpYzVUaHlYcmNSb1FsbEVpQWdIVEZMWEtZU21WOEp6SURqdFhwZTZR?oc=5
+
+- India, Poland discuss cooperation in trade, defence, technology - News On AIR
+  India, Poland discuss cooperation in trade,
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUZyUWRaWjNMYjlzcnZVNWRwTzhWM1ZTLWdkN0J5YkFRQmppelEwaExrSUR2M0Z4WTJ6QWtZcVdrWnB5blJjdFhBbk1FdUk4MWlDSjVaQXVJVl8xWUpvUENhYnhEVlhVZ19URzAyWnB1MmVYMk1XSlgtSzRZMGh6cW85NDhySHRVQS1iYW9Ocw?oc=5
+
+- Iranian-born engineer convicted in US of exporting technology to Iran - ThePrint
+  Iranian-born engineer convicted in US
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNUlQ3dWNKTzZMVW9BZHlwanZJTGZHNFlhQmI2YnF4TTdDcXpHWTkxNWt2TFprakRUSkJENnRiWXNyMDFfX1hUN1VDeUhxa0x4NDZLd3RDVEhJaDZIZVNvX3RRUVFDeHF2ZWN0bXNHMFlwZm5rckNaSmgzTnVFWEMzbVQ3VENNbVJlbEdEOFVEMXMzUVVWVUFUWmZpRm5TakJidDdMUDRqVdIBrAFBVV95cUxNc3BUcmVUU25YQnAzUEFSeUJya3FPdWdqMFd6LXRlZWVpQ2NzeXFld2c0RWFtazB1dHo0RG5KbEE3bmdMZ2pvWm9BbUZvRXh4RENRQi15SjAtZmN0MnkxUGpmTFZYQmtKMlBFd2szWDZmTlNPMTNBTHFkN1hNRU41MFB4NGlOcEphOWV2eW1RX3ZLWi1jb2JaWklBa1BnWUVjM1JEd1llRGJUTmE0?oc=5
+
+- OpenAI has not been great at managing partnerships, says Big Technology's Kantrowitz - CNBC
+  OpenAI has not been great at managing partnerships,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHJTTmFCbWtjM2pmWm1vbW04ekMwSkRtQUhWN0VDTlh0VUg4Rjc1c2Z4ZVdORmtHOVB5UjVxSk1qUHV1OFUwNncwLWlGS3hnOHJVWDZRRnJWWE9mVmR2SWRfQ1RWMXVxOHRQN2RIQTE1MkJncXF4WURJTEdYdXZyckh1M0twdDdpaGVBWERGdGd3bl9SenVvRE9aLV9FUUVUcVVsOF9sZ1Zzbmp3VlRJQ0JrQVA5OVVObXNscQ?oc=5
 
 
-_Last updated: 2026-07-13 19:21:37 UTC_
+_Last updated: 2026-07-14 02:00:46 UTC_
