@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Cabinet okays new urea policy. What changes?
+  
+  🔗 https://indianexpress.com/article/india/union-cabinet-approves-national-investment-policy-urea-2026-nipu-domestic-production-imports-10787684/
+
+- Tamil Nadu: Engagement called off, man attacks former fiancée, mother hacked to death trying to protect her
+  
+  🔗 https://indianexpress.com/article/india/tamil-nadu-engagement-called-off-man-attack-former-fiacee-mother-killed-10787833/
+
+- After performance review, Madhya Pradesh minister loses portfolio, CM takes over
+  
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-cm-mohan-yadav-cabinet-reshuffle-lakhan-patel-portfolio-change-10787713/
+
 - ‘Economic links to get deeper’: PM Modi as India-UK FTA comes into effect
   
   🔗 https://indianexpress.com/article/india/economic-links-to-get-deeper-pm-modi-as-india-uk-fta-comes-into-effect-10787327/
@@ -8,77 +20,65 @@
   
   🔗 https://indianexpress.com/article/india/metro-man-sreedharans-solar-rail-idea-runs-into-kerala-govt-roadblock-10787189/
 
-- At least 13 Indians killed in Gulf region since US-Iran war began
+- Artemis landings may contaminate Moon’s ancient ice, study finds
   
-  🔗 https://indianexpress.com/article/india/indian-killed-oman-coast-attack-iran-hormuz-10787181/
+  🔗 https://indianexpress.com/article/technology/science/artemis-landings-may-contaminate-moons-ancient-ice-study-finds-10788022/
 
-- Tamil Nadu remand prisoner’s post-mortem reveals injuries; 3 officials held
+- Spotify rolls out AI voice and text assistant for music, podcasts and audiobooks
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-nagercoil-custodial-death-prison-officials-arrested-10787080/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-rolls-out-ai-voice-and-text-assistant-for-music-podcasts-and-audiobooks-10787971/
 
-- Stones thrown, vehicles set on fire: Mob targets Assam Rifles camp in Manipur
+- OpenAI’s GPT-5.6 Sol users report missing files, deleted databases: Here’s what we know
   
-  🔗 https://indianexpress.com/article/india/manipur-senapati-assam-rifles-camp-mob-attack-nscn-im-ceasefire-clash-10787068/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-sol-ai-users-missing-files-10787913/
 
-- Zoho launches Classes 2.0, betting on AI to fix India’s education gaps
+- OpenAI’s first AI hardware device may be a smart speaker with cameras and ChatGPT
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/zoho-launches-classes-2-0-betting-on-ai-to-fix-indias-education-gaps-10787242/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openais-first-ai-hardware-device-may-be-a-smart-speaker-with-cameras-and-chatgpt-10787632/
 
-- Space junk cloud discovered in key satellite orbit raises collision concerns
+- Should parents use digital screens to calm their children? New study finds no simple answer
   
-  🔗 https://indianexpress.com/article/technology/science/space-junk-cloud-discovered-in-key-satellite-orbit-raise-collision-concerns-10787053/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/parents-screens-calm-children-new-study-findings-10787606/
 
-- Fujifilm Instax Mini Evo Cinema review: A weird, fun retro camera
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/fujifilm-instax-mini-evo-cinema-review-10786982/
+- RBI greenlights three-year term for Rajiv Kumar as HDFC Bank chair
+  Rajiv Kumar will be part-time chairman of HDFC Bank for
+  🔗 https://www.livemint.com/companies/rbi-greenlights-three-year-term-for-rajiv-kumar-as-hdfc-bank-chair-11784117480223.html
 
-- Demis Hassabis says AGI could arrive within years, wants US body to review frontier AI models
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/demis-hassabis-agi-proposes-frontier-ai-standards-body-10786981/
+- Emergent raises $130 mn from Creagis, Sentinel Global, Ranjan Pai's Claypond Capital
+  Back-to-back rounds for Emergent come at a
+  🔗 https://www.livemint.com/companies/start-ups/emergent-creagis-ranjan-pai-claypond-capital-sentinel-global-vibe-coding-india-ai-11784019954800.html
 
-- Google unveils ‘ATL Saathi’ app for Indian teachers, expands local AI cloud and security offerings
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-io-connect-india-2026-atl-saathi-app-teachers-10786358/
+- Apple Intelligence cleared for use on iPhones in China after regulatory approval
+  China's cyberspace regulator announced that Apple Intelligence, a generative AI service, has been registered for iPhones. It will integrate B
+  🔗 https://www.livemint.com/companies/news/apple-intelligence-cleared-for-use-on-iphones-in-china-after-regulatory-approval-11784109578530.html
+
+- Deepinder Goyal's next big bets: $1,000 forehead wearable, $20 mn aviation investment after Zomato
+  Deepinder Goyal, co-founder of Zomato, is launching a wearable device called Temple to track metabolic rates in real time.
+  🔗 https://www.livemint.com/companies/people/deepinder-goyals-next-big-bets-1-000-forehead-wearable-20-mn-aviation-investment-after-zomato-11784104959938.html
 
 - HealthKois eyes biotech bets as new drug pipelines expand
    PE/VC investment into pharma rose 2.1x in five years to $731 million in FY26. Number of biotech startups grew from roughly 1,500 to 2,
   🔗 https://www.livemint.com/companies/healthkois-300-million-fund-india-biotech-startups-11784095883452.html
 
-- Zoho deepens vertical SaaS push with AI-powered education platform
-  Zoho Classes will be free for central and state government educational institutions as well as individual teachers handling up to 100 students. Private
-  🔗 https://www.livemint.com/companies/news/zoho-classes-ai-learning-platform-india-education-llm-11784090541981.html
+- HDFC Life Insurance Company Q1 results: Profit rises 12% YoY to  ₹611 crore; VNB up 9%
+  HDFC Life Insurance Company reported a 12% YoY rise in its standalone profit to  ₹611.42 crore for Q
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-life-insurance-company-q1-results-profit-rises-12-yoy-to-611-crore-vnb-up-9-11784114501728.html
 
-- Kenro Capital eyes $120-150 million fund to back startup secondaries
-  Kenro Capital is nearing the final close of a $120-150 million fund to back late-stage secondary deals.
-  🔗 https://www.livemint.com/companies/start-ups/kenro-capital-secondary-fund-india-private-markets-startups-11784085285026.html
+- Expert view: Nifty may touch 27,000 by the year end or early next year, says Rohit Srivastava of Indiacharts
+  Market strategist Rohit Srivastava predicts the Nifty 50 index could reach 27,000 by the end of this year or early next year. He advises investors to buy
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-nifty-may-touch-27-000-by-the-year-end-or-early-next-year-says-rohit-srivastava-of-indiacharts-11784113512404.html
 
-- Shrinking fleet, rising delays: SpiceJet lags far behind rivals as cash crunch bites
-  SpiceJet's market share fell to 3% in May. The carrier is trying to restore passenger confidence.
-  🔗 https://www.livemint.com/companies/spicejet-flight-delays-dgca-indian-airline-delays-on-time-performance-flight-disruptions-domestic-aviation-11784040432614.html
+- Small-cap FMCG stock Spice Lounge Food Works hits upper circuit after this business update
+  Spice Lounge Food Works hit its upper circuit on the BSE on Wednesday, 15 July. The company announced it had opened its first Wing Zone
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-fmcg-stock-spice-lounge-food-works-hits-upper-circuit-after-this-business-update-11784110584032.html
 
-- Hero MotoCorp's EV investing strategy meets its first setback
-  The two-wheeler maker has marked down the value of its Zero Motorcycles investment by 92% even as its technology partnership continues
-  🔗 https://www.livemint.com/companies/news/hero-motocorp-zero-motorcycles-investment-setback-ev-strategy-11784027538442.html
+- Nifty 50 above 27,000? PL Capital raises target, sees more upside in Indian stock markets but flags key risks
+  PL Capital has raised its one-year Nifty 50 target to 27,019. It cited improved macroeconomic conditions, resilient demand, and easing oil prices.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-prediction-pl-capital-ups-nifty-target-to-27-000-sees-more-upside-in-indian-stock-markets-but-flags-key-risks-11784107475075.html
 
-- Fineotex Chemicals to SG Finserve: Ashish Kacholia trims stakes in 4 stocks in Q1FY27. Do you own any of them?
-  Ashish Kacholia reduced his stakes in Yasho Industries, Fineotex Chemicals, Tanfac Industries, and SG Finserve in Q1FY27
-  🔗 https://www.livemint.com/market/stock-market-news/fineotex-chemicals-to-sg-finserve-ashish-kacholia-trims-stakes-in-4-stocks-in-q1fy27-do-you-own-any-of-them-11784098833854.html
-
-- Patanjali Foods share price crashes 20%, extends losses for third straight session; What should investors do?
-  Patanjali Foods share price has fallen 21% in one month and has declined 28% in three months. The FMCG stock has dropped 38
-  🔗 https://www.livemint.com/market/stock-market-news/patanjali-foods-share-price-crashes-20-extends-its-losses-for-third-session-what-should-investors-do-11784098857317.html
-
-- Union Bank of India Q1 results: Profit jumps 30% YoY to  ₹5,332 crore; operating profit rises 16% YoY
-  Union Bank of India Q1 results: Profit jumped 30% YoY to  ₹5,
-  🔗 https://www.livemint.com/market/stock-market-news/union-bank-of-india-q1-results-profit-jumps-30-yoy-to-5-332-30-crore-11784093248965.html
-
-- Laser Power IPO listing tomorrow: Here’s what GMP hints ahead of debut
-  Laser Power &amp;amp; Infra IPO will list on the Indian stock market on July 16. The IPO priced between  ₹203 and  ⁹214
-  🔗 https://www.livemint.com/market/ipo/laser-power-ipo-listing-tomorrow-here-s-what-gmp-hints-ahead-of-debut-11784095723375.html
-
-- Groww Q1 results: Net profit jumps 94% to  ₹735 crore, revenue grows 66% YoY
-  The company posted a consolidated net profit of  ₹735 crore for the first
-  🔗 https://www.livemint.com/market/stock-market-news/groww-q1-results-net-profit-jumps-94-to-rs-735-crore-revenue-grows-66-yoy-11784097477198.html
+- HDFC AMC Q1 Results: Net profit jumps 12% YoY to  ₹837 crore; revenue surges 14%
+  HDFC AMC reported a 12% YoY increase in Q1 net profit to  ₹837 crore and a 13.6% rise in revenue to    � 1,100 crore.
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-amc-q1-results-net-profit-jumps-12-yoy-to-rs-837-crore-revenue-surges-14-11784109086231.html
 
 - Motorola Edge 70 Max launched in India with Snapdragon 8 Gen 5, 7,100mAh battery: Check price, specs and launch offers
    Motorola Edge 70 Max has launched in India with the Snapdragon 8 Gen 5 chipset, a 7,100mAh battery, 2K AMOLED display,
@@ -100,105 +100,125 @@
   Apple is expected to unveil the iPHone 18 Pro and Ultra at a launch event in September.
   🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-max-launch-just-months-away-leaked-price-battery-display-and-key-upgrades-11784011269506.html
 
-- HDFC Bank, SBI, other stocks jump up to 2%; Nifty Bank gains 560 points. What lies ahead?
-  Banking stocks rallied up to 2% on Wednesday, lifting the Nifty Bank index. Brokerages remain constructive on the sector, citing improving fundamentals.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-sbi-other-stocks-jump-up-to-2-nifty-bank-gains-560-points-what-lies-ahead/articleshow/132409899.cms
+- Stock futures rise on chip stocks bounce, encouraging inflation signs: Live updates - CNBC
+  Stock futures rise on chip stocks bounce, encouraging inflation
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9KUXk0YXdXVmpaWlRlaU5KQTlHdDJkdXhUN2dTak5melBwaTdsMVpoY2M2dDZOTUZ3RV9laUYzX29ZX2tSbEhtcUpKSHhJa2ZEZ211cUdQdktfVXFoWXp0NWctdXAzNlhxS19aSjdCNXdVMk5Kb0FB0gF8QVVfeXFMTjFoMHhvM0wtUXo2NnJzVTNJNVpUM3dqS2dSV1cydFdoaVl1WGdfVnZzZkQ4RGQ0LW52c0l2NkliTVZSVHlfTUJ4VFBIX0NoR29xU0JqSGxDQjcwdVlkYjFfZFhCN3phM3VOT0dLT1lzcVpBR1c4WDRwTThOaA?oc=5
 
-- 10-year bond yield may trade in 6.60-6.90% range over the next month: PGIM India MF's Puneet Pal
-  PGIM India's Puneet Pal expects the 10-year bond yield to trade between 6.60-6.90%. Pal favours the short end of the curve due to improving banking
-  🔗 https://economictimes.indiatimes.com/markets/bonds/10-year-bond-yield-may-trade-in-6-60-6-90-range-over-the-next-month-pgim-india-mfs-puneet-pal/articleshow/132409495.cms
+- Stock Market Today: Nasdaq Looks to Build on Tuesday Rally - WSJ
+  The Nasdaq looks to build on Tuesday
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxObTV1TGRvc3pzSmUyU21VSU9SYUdKQk96WWp3WkgyeDVzejZwWXFOOGpGSjVJWVdia01sYjBYUmVOX0laZHc0SWM5MlFXanhVMXB2V3dxdTZRQ19jVFBwNjhLM3d5QWVFSFFvMGtlTlVsMU5CeGlzNDBzQ3NtOXdUZGdaQkhkYnpBLUlCcU5DSlRpbmc?oc=5
 
-- Japan PM Takaichi says draft economic blueprint not cause of bond market rout
-  The draft economic blueprint emphasized appropriate monetary policy guidance for economic strength. Prime Minister Sanae Takaichi stated no connection exists between the economic blueprint and market volatility.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/japan-pm-takaichi-says-draft-economic-blueprint-not-cause-of-bond-market-rout/articleshow/132409488.cms
+- Stock Market Today: Futures Point Higher, Led by Tech Stocks; ASML Sees Strong Demand for AI Chipmaking Equipment; PayPal Jumps on Reported $53B Bid - Investopedia
+  Stock Market Today: Futures Point Higher, Led by Tech Stocks. ASML Sees Strong Demand for
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPODRWTkhxdnVLV2hvVE5fbE1TbGNpTWVEbm8xVDFvSlBIenRmcWZQa3Vyay05UTQ3MFIwR3A2QjZxV1otZkIzOFR5X0k1X3B3S2VoWHp2S0hDSzVOMVNmV0xJMWgxaFY5OFJ3YjhpcE9DTkhCMmFGaHBmWlVKbGR6aHBSbm1iRnluX1owamZXT0E?oc=5
 
-- Q1 results today: HDFC Life Insurance, HDB Financial, Jana SFB, ICICI Prudential among 43 companies to report earnings
-  43 companies, including HDFC Life Insurance, HDB Financial Services, Jana Small Finance Bank and ICICI Prudential Life Insurance are set to report results today. Around 143 companies will announce earnings this week.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-hdfc-life-insurance-hdb-financial-jana-sfb-icici-prudential-among-43-companies-to-report-earnings/articleshow/132409435.cms
+- Country committed to preparing its workforce for global labour markets, says Union Skill Development Minister - News On AIR
+  Country committed to preparing its workforce for global labour markets, says Union Skill Development
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE9vVkQ3SXNkMjNPOHRTTXhLam1fYmI3bEhoN3UxS3BSdXVlQkQ0WElHdmxRV2pJbkVzaklJc3p2RFRPVTN6eEtGY3Z4a3A2UDdOS3k2QmQ2TzlKREdSREdQb0ZKcGRvVHZSSHZiSk9Jd3VwV24tX0xRTUtB?oc=5
+
+- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 130 pts higher, Nifty above 24,050; Eterna... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxQUWpnY3BsU0hUZXJoWFh6dWVjSUl1Q3NmZWpBdFJuUWh4amxfaFBzX0NYOUh4TUIyY0cyY2IwZUhGQk5GdlFNSmRUSEtDQ1Y4RVZBV2Y0MTdvVmhoLWxkSnlyQ0Z1NDJiZF
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQUWpnY3BsU0hUZXJoWFh6dWVjSUl1Q3NmZWpBdFJuUWh4amxfaFBzX0NYOUh4TUIyY0cyY2IwZUhGQk5GdlFNSmRUSEtDQ1Y4RVZBV2Y0MTdvVmhoLWxkSnlyQ0Z1NDJiZFl6elVJWHFLR2FZWWZlNE40R0pZNUpXeXdTWU9NX0pWd0FKZFBmWF83eEF6SDBDUWU1b0NfSnBKNWRxRGhDOTBMSXYzM2tCUnE3dTF4STcxWDVUM0xmSWtZLXRiSjZTY1RrRkxRUnFQZFctVXF1OTNnMHhDeFdiMkU3QWhlM0x4RjNJcFRTdHFLRHlld3B2NmN4T2FsaldES2gzOFl1LXZHQdIBjwJBVV95cUxNV2pRQ3FvMEN0RWptMHE0QnhNWHpMNmEtNV9DS2tKODdHNmRqbkpCWWVMRW14QTFzNEdldXUzZUdGRW1OVmotVm9BSTlaTVFldzZNNk9mbl9zZTFXYXVzb2t1SllJVkc1QWZhdll1ZEtmeWNQeTloci1lVjFKNUpvTms5WV84VkpTS0czemJjZVFzUUNmNTJzdW8yTFMxUGR4OVZ0QkwzVnZZR0xSZThzZUlzdlRfVmV5MXBxY0ExUERLNGlySnBFUGhscXFGN3JUNG42Vy1CaXVYM1VmUkFJUXkxTkhpUFMzOVNOS2NsNk5SQ0JmNUg4ZmpyVk9CZEFBLVp5YnJsaXdnN0F4TExN?oc=5
 
 - Euro zone bond yields tick higher along with oil prices after big swings
-  Money markets are pricing in further ECB tightening this year. Germany's 2-year bond yield rose, sensitive to central bank rate expectations.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-higher-along-with-oil-prices-after-big-swings/articleshow/132409354.cms
+  Bond yields in the Euro zone experienced a slight uptick on Wednesday, driven by rising oil prices linked to the U.S.-Iran tensions. Germany's 2-year bond yield reacted accordingly, highlighting concerns over future central bank rate increases
+  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-higher-along-with-oil-prices-after-big-swings/articleshow/132417193.cms
 
-- U.S. Senators unveil bill for 100% tariffs on India, four others for buying Russian oil - The Hindu
-  U.S. Senators unveil bill for 100% tariffs on India,
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbE54aDJFaUdnVG9nWHV4NWhyUXFfMWo3TE5nU3ZVTDFkY25DWENyX1YxQjIyREw4YVhvc3hDVFQwMlJtRFlfdTVUR0VXblNvZlNNNE9uSUEtZ2c5eHA0RVJ4SVk1bkpLU240TFJpbGx6d01sSmtlTVlzZERhQkFBN0d6OC03ckVtN2M1eWhySkI2X3ZObU5CdHFHcmhiVDJTcUFCWXNLSUp5WWxLdEtHTXo5ZUI1Nkp4MnRfUmZWN1BiLUhzOHhTajlnVjhNV25oU3dzNnlhUmd3RThPUjRkcNIB5wFBVV95cUxNa3VFNmVkOXU3MTBiOFFZT0R6bmlnZDVyb2lUdXpwRnViNHRhN2h0cnE0ZVlRak00VXlmcjY0ZFh5M3gzVnA2bU9OVVF6M3ZSOUhRZlBpZEVZc01EQ2w4ZlBCNTNtaVJweUdYUmxFaTdrYktaQ0cxZ3J3a0pjbm1aWUdLNFZ4NWZEX0Q0YjdSdlMxWGFXbXpUWnB3Y2pLdHk0UkZpZ2o2SFhtM3c5WFZmMDhSS2dnNXZzMndOUXJDckpvak9UOVE3cEg4Nm1EaDJyeEhyVTRfMzd3cVVKM2VYZm5CcE9TbTg?oc=5
+- Union Bank Q1 Results: Profit rises over 27% to Rs 5,641 crore
+  Union Bank of India achieved a remarkable 27.5% surge in its net profit for the June quarter. The bank experienced a subtle rise in net interest income, alongside a slight enhancement in margins.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q1-results-profit-rises-over-27-to-rs-5641-crore/articleshow/132417165.cms
 
-- Trump Backs Russia Sanctions Bill Posing 500% Tariff Threat To India: Report - NDTV
-  The White House is considering imposing new sanctions on Russia
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmtyUXpXWS1Ua1p0Z01sdkgxRTVWbVR1aFZjUUN1NlNQVWdpU2R0MnBKWWpZQVRzQ2tKeWdUOU5qeUF4MzlGOGRQZXNRRTZ0bG9sZWJEZUwtU2NWcGFmSnhiTFNKTUZOd1JSQ1ZPSkdrTG5NRlFBWVVCNDV6QUM2Qy1BNklvOXFoQVQweEt4ODZDUTllUFNocTlwTDdoLWNhWXZxNmN2dVlkQlk2cmsyX29Ed3FUWHJSTlIwVkU2SdIBxwFBVV95cUxQdXhpN2UyVjRMRlJMcEpUNS1FbVZBWWlkNmRYSlRnaGVzd01YelRtQUFwNEg4dHRfRGRiR0QtaVk2X2ctbkZJeUNWOTNGMXVWN29Lb3JvR29hUUd5R05EYU9ZbHdpNTAtRzExZFhqQ0EtNzhUS01GbU9pTTcyNFJVY2I2RTJUQ3IxbDBjMFpmOE5tNUw2MkhDQ1JmRHl1WWdxa2ZSSXh2eVFCMjg4VGNRYTJDY3Q4Tjd2aXpHTC01UlhLUDRJUG44?oc=5
+- Japan PM Takaichi says draft economic blueprint not cause of bond market rout
+  Sanae Takaichi believes there's no connection between her administration's economic plan and the ongoing fluctuations in the market. She pointed out that interest rates and exchange rates are shaped by multiple global dynamics.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/japan-pm-takaichi-says-draft-economic-blueprint-not-cause-of-bond-market-rout/articleshow/132417126.cms
 
-- India, China face up to 100% US tariffs over Russian oil purchase under new bill proposal | India News - Hindustan Times
-  India, China face up to 100% US tariffs over Russian oil purchase under new bill proposal
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPc0cxMW9oVnZ2TVBfd1JIdi1ZVHoyUkh3eEFaOW1LSkotODZXRFdwNnpmRl9NY3hFODI2d2s2VFNQRlF5RW9tN2tQem5kU3NScnpPaWZzSHVXMEhkODl1Z1BXNVBJeDh3aVFwVFpySjVneHpEZHVQUEV4aE9ocXRwZkIxTWdweXg5azlVZ1JISlJKQm40VWVlMFZIMVlBSWc0VjVfaG1CN2ZRVzYwVFY4WjFJejRNWFJGckVPbXB0SllsQ3MxR3lKUXVSQklvX1BPWFVXcjFKdDlteEdRZnBBNHJMbTVkS0M3aHRPSDJaSkIyYWM2WjMyV3dJQThYUXE0STk3SnFjV3AyZGZq0gGSAkFVX3lxTE0yMzdxMFRqeGIwSHlkOUZQd1VLVmpLTzAwMkZCU0FQV1BCMFlJSjdpektsQ29xSURKWHRmVGRCQy0wWlJjUUZiRFRuWEJ0Z3VGY1pwaXJ2d284RjBRQjVtYTd4VFpoc3hWX25odENUcnVpcXp4UHZNb2R1NEl0UjNwTUpFajFZNk1ORTRjQlRuM2NGVnV6TjVYUW14aGFIbl9oT2ItZkVENmduMlI3b2JacHE4N3l4UDZkYXVONWNCckJLQkc2MnVObEZlYnRlblVNVG4xMzlWUnBQQ2lvVXRQWGVjRkFGenJzUmNCcjB4ZHZ5eWo2WURtLXNwZjNsREZ0ZEd1VWZkZlRqUW9hcHlLOVE?oc=5
+- PFC raises USD 300 mn via bonds carrying floating interest rates
+  Power Finance Corporation has successfully secured USD 300 million via floating rate notes set to mature in July 2029. These instruments adhere to the Reserve Bank of India's guidelines for external borrowing.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/pfc-raises-usd-300-mn-via-bonds-carrying-floating-interest-rates/articleshow/132417102.cms
 
-- India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
-  India-UK Trade Deal Kicks In: What
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
+- BlackRock assets hit record $15 trillion on boost from buoyant markets, ETF inflows
+  BlackRock announced impressive second-quarter profits that outpaced Wall Street's forecasts. Client assets surged to an unprecedented $15.34 trillion.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/blackrock-assets-hit-record-15-trillion-on-boost-from-buoyant-markets-etf-inflows/articleshow/132416832.cms
 
-- From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers - BBC
-  From Wimbledon towels to Scotch: What India-UK
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUG9Qdmx4OFN2eHQ2ZW1sU2N2RWNtOWlIVWcxVC10UTdRT1RWajVXdVRPWS1mOEM0dUU2ZkRacThDdTNueUVGQjRpaTBGTTgtZGZBbzBDRlBXUQ?oc=5
+- Why Punjab could define India’s new national security leadership | India News - Hindustan Times
+  Why Punjab could define India’s new national security
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
-- Groww Q1: Profit Surges 94% YoY To ₹735 Cr
-  Investment tech platform Groww’s consolidated net profit zoomed 94.3% to ₹735 Cr in the first quarter of FY27.
-  🔗 https://inc42.com/buzz/groww-q1-profit-surges-94-yoy-to-%e2%82%b9735-cr/
+- Farmers hold bike rally against India-US trade deal in Punjab’s Hoshiarpur - The Indian Express
+  Farmers hold bike rally against India-US trade deal
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGJ5TUNIVnVtZ2NOYWZLQUhLQk91SGNjMnhRODFhb094Y04yODNqaEdTWTg1b2Y0aTdrVkp1SHRoNWtDMWVNbEFBanBGNVJZOG5XSElERzBYVE03NTduUWxaVDdoOFlEbmNBWjV5WFlpOWlQQlJQWG9kUHpVTEpGOC1WaTYxb1Y5ZC1RM3l2dzZUdkF1clRYY1gtQV9BdVhDdTY4TmtaVk5VMVgwalJqQngzSVdlclY0eWfSAcABQVVfeXFMTXloZmlMM3hxdkJCUG9OSExFYmR4bVRBYUQwdHJjZFZRT1BweWNjV2l3UU5ZdE1WU25uMmYzZE9LRkw2OVZJbUlZeXNlVEw3UDVvcXFQaGswcUdYdk9WaFI1SllEU3hNMFdLcE5VLTV3dDJWVHozOFJkLXlRelZLVnhIR2JtR0NCckFRTE9aSmtIUU1xTTRpcEV4TlNiTlR3SWkxMWpCQl9aMnM4VXFKMzdYd2hSUEpBRFpnNVJld05L?oc=5
 
-- Ather Energy Hits 52-Week High After Hero MotoCorp Announces ₹1,000 Cr Investment
-  Shares of Ather Energy jumped more than 9% to touch an all-time high at ₹1,313.65 on the B
-  🔗 https://inc42.com/buzz/ather-energy-hits-52-week-high-after-hero-motocorp-announces-%e2%82%b91000-cr-investment/
-
-- The Unit Economics Of India’s Voice AI Boom
-  India&#8217;s voice AI revolution has revolved around a few key pillars, such as speech recognition accuracy, multilingual capabilities
-  🔗 https://inc42.com/features/the-unit-economics-of-indias-voice-ai-boom/
-
-- Exclusive: D2C Grocery Startup Anmasa Bags ₹30 Cr To Expand Into New Markets
-  D2C grocery startup Anmasa has raised ₹30 Cr ($3.1 Mn) in its seed funding round. The round was led
-  🔗 https://inc42.com/buzz/exclusive-d2c-grocery-startup-anmasa-bags-%e2%82%b930-cr-to-expand-into-new-markets/
-
-- Anthropic’s India Push, InsuranceDekho’s IPO & More
-  Anthropic Banks On INR Anthropic is pulling all stops to boost adoption in India. The AI giant has now launched.
-  🔗 https://inc42.com/buzz/anthropics-india-push-insurancedekhos-ipo-more/
-
-- U.S. Senators unveil bill for 100% tariffs on India, four others for buying Russian oil - The Hindu
-  U.S. Senators unveil bill for 100% tariffs on India,
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbE54aDJFaUdnVG9nWHV4NWhyUXFfMWo3TE5nU3ZVTDFkY25DWENyX1YxQjIyREw4YVhvc3hDVFQwMlJtRFlfdTVUR0VXblNvZlNNNE9uSUEtZ2c5eHA0RVJ4SVk1bkpLU240TFJpbGx6d01sSmtlTVlzZERhQkFBN0d6OC03ckVtN2M1eWhySkI2X3ZObU5CdHFHcmhiVDJTcUFCWXNLSUp5WWxLdEtHTXo5ZUI1Nkp4MnRfUmZWN1BiLUhzOHhTajlnVjhNV25oU3dzNnlhUmd3RThPUjRkcNIB5wFBVV95cUxNa3VFNmVkOXU3MTBiOFFZT0R6bmlnZDVyb2lUdXpwRnViNHRhN2h0cnE0ZVlRak00VXlmcjY0ZFh5M3gzVnA2bU9OVVF6M3ZSOUhRZlBpZEVZc01EQ2w4ZlBCNTNtaVJweUdYUmxFaTdrYktaQ0cxZ3J3a0pjbm1aWUdLNFZ4NWZEX0Q0YjdSdlMxWGFXbXpUWnB3Y2pLdHk0UkZpZ2o2SFhtM3c5WFZmMDhSS2dnNXZzMndOUXJDckpvak9UOVE3cEg4Nm1EaDJyeEhyVTRfMzd3cVVKM2VYZm5CcE9TbTg?oc=5
-
-- Trump Backs Russia Sanctions Bill Posing 500% Tariff Threat To India: Report - NDTV
-  The White House is considering imposing new sanctions on Russia
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmtyUXpXWS1Ua1p0Z01sdkgxRTVWbVR1aFZjUUN1NlNQVWdpU2R0MnBKWWpZQVRzQ2tKeWdUOU5qeUF4MzlGOGRQZXNRRTZ0bG9sZWJEZUwtU2NWcGFmSnhiTFNKTUZOd1JSQ1ZPSkdrTG5NRlFBWVVCNDV6QUM2Qy1BNklvOXFoQVQweEt4ODZDUTllUFNocTlwTDdoLWNhWXZxNmN2dVlkQlk2cmsyX29Ed3FUWHJSTlIwVkU2SdIBxwFBVV95cUxQdXhpN2UyVjRMRlJMcEpUNS1FbVZBWWlkNmRYSlRnaGVzd01YelRtQUFwNEg4dHRfRGRiR0QtaVk2X2ctbkZJeUNWOTNGMXVWN29Lb3JvR29hUUd5R05EYU9ZbHdpNTAtRzExZFhqQ0EtNzhUS01GbU9pTTcyNFJVY2I2RTJUQ3IxbDBjMFpmOE5tNUw2MkhDQ1JmRHl1WWdxa2ZSSXh2eVFCMjg4VGNRYTJDY3Q4Tjd2aXpHTC01UlhLUDRJUG44?oc=5
-
-- India, China face up to 100% US tariffs over Russian oil purchase under new bill proposal | India News - Hindustan Times
-  India, China face up to 100% US tariffs over Russian oil purchase under new bill proposal
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPc0cxMW9oVnZ2TVBfd1JIdi1ZVHoyUkh3eEFaOW1LSkotODZXRFdwNnpmRl9NY3hFODI2d2s2VFNQRlF5RW9tN2tQem5kU3NScnpPaWZzSHVXMEhkODl1Z1BXNVBJeDh3aVFwVFpySjVneHpEZHVQUEV4aE9ocXRwZkIxTWdweXg5azlVZ1JISlJKQm40VWVlMFZIMVlBSWc0VjVfaG1CN2ZRVzYwVFY4WjFJejRNWFJGckVPbXB0SllsQ3MxR3lKUXVSQklvX1BPWFVXcjFKdDlteEdRZnBBNHJMbTVkS0M3aHRPSDJaSkIyYWM2WjMyV3dJQThYUXE0STk3SnFjV3AyZGZq0gGSAkFVX3lxTE0yMzdxMFRqeGIwSHlkOUZQd1VLVmpLTzAwMkZCU0FQV1BCMFlJSjdpektsQ29xSURKWHRmVGRCQy0wWlJjUUZiRFRuWEJ0Z3VGY1pwaXJ2d284RjBRQjVtYTd4VFpoc3hWX25odENUcnVpcXp4UHZNb2R1NEl0UjNwTUpFajFZNk1ORTRjQlRuM2NGVnV6TjVYUW14aGFIbl9oT2ItZkVENmduMlI3b2JacHE4N3l4UDZkYXVONWNCckJLQkc2MnVObEZlYnRlblVNVG4xMzlWUnBQQ2lvVXRQWGVjRkFGenJzUmNCcjB4ZHZ5eWo2WURtLXNwZjNsREZ0ZEd1VWZkZlRqUW9hcHlLOVE?oc=5
+- EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters
+  Files relating to India’s largest nuclear power plant K
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5
 
 - India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
   India-UK Trade Deal Kicks In: What
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
 
-- From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers - BBC
-  From Wimbledon towels to Scotch: What India-UK
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUG9Qdmx4OFN2eHQ2ZW1sU2N2RWNtOWlIVWcxVC10UTdRT1RWajVXdVRPWS1mOEM0dUU2ZkRacThDdTNueUVGQjRpaTBGTTgtZGZBbzBDRlBXUQ?oc=5
+- India-UK trade deal comes into effect: What’s cheaper in each country now? - Al Jazeera
+  India-UK trade deal comes into effect: What�
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVZCQkxJTm43bmdvM3RaUVdoV293YzRMRU1RaVF0N1RKaVgyamRiN1NWeFpyTXFGcUtFc0JrNndqV09ESU83aWdVUnZ2M3REbTI5ZE1CbjNTWXgwdjhtSEljVHRWaDVjWUVJN1BWMjRKcFRfaVNjTU9ra2gwRHVmd01qR1h2SGV4X25neGhuQnFxSWRsUDZVNzFmY2ZRc1lZaTkzNkV1NTJOOWFZUEREV1NR0gG3AUFVX3lxTE1NSi13S3lkTDdyUzVJODRBQ3hpNFo0b0wwYzhqejl3TDhPTGlXMm9hWU5sTDAxX2l0VGhGWGR4ZHNkRERJYl9KNWMwWnhDMjI1NnhCZjQ0dFRNRHNqUW1zc2MwWVFkVklYVS10YWJzMlBSQll5R2FndFBNOVVJV2JFYWE2QzZfenY4T0VxN3FQU3ZiZ3M1dXp1OTk1WktNU1VFWnZMMXlqU3hXN2wwMFBCbHlPamwxOA?oc=5
 
-- U.S. Senators unveil bill for 100% tariffs on India, four others for buying Russian oil - The Hindu
-  U.S. Senators unveil bill for 100% tariffs on India,
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbE54aDJFaUdnVG9nWHV4NWhyUXFfMWo3TE5nU3ZVTDFkY25DWENyX1YxQjIyREw4YVhvc3hDVFQwMlJtRFlfdTVUR0VXblNvZlNNNE9uSUEtZ2c5eHA0RVJ4SVk1bkpLU240TFJpbGx6d01sSmtlTVlzZERhQkFBN0d6OC03ckVtN2M1eWhySkI2X3ZObU5CdHFHcmhiVDJTcUFCWXNLSUp5WWxLdEtHTXo5ZUI1Nkp4MnRfUmZWN1BiLUhzOHhTajlnVjhNV25oU3dzNnlhUmd3RThPUjRkcNIB5wFBVV95cUxNa3VFNmVkOXU3MTBiOFFZT0R6bmlnZDVyb2lUdXpwRnViNHRhN2h0cnE0ZVlRak00VXlmcjY0ZFh5M3gzVnA2bU9OVVF6M3ZSOUhRZlBpZEVZc01EQ2w4ZlBCNTNtaVJweUdYUmxFaTdrYktaQ0cxZ3J3a0pjbm1aWUdLNFZ4NWZEX0Q0YjdSdlMxWGFXbXpUWnB3Y2pLdHk0UkZpZ2o2SFhtM3c5WFZmMDhSS2dnNXZzMndOUXJDckpvak9UOVE3cEg4Nm1EaDJyeEhyVTRfMzd3cVVKM2VYZm5CcE9TbTg?oc=5
+- Emergent Joins Unicorn Club After Raising $130 Mn At $1.5 Bn Valuation
+  It’s raining unicorns this year. Less than a month after proptech startup Square Yards became the country&#8217
+  🔗 https://inc42.com/buzz/emergent-joins-unicorn-club-after-raising-130-mn-at-1-5-bn-valuation/
 
-- Trump Backs Russia Sanctions Bill Posing 500% Tariff Threat To India: Report - NDTV
-  The White House is considering imposing new sanctions on Russia
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmtyUXpXWS1Ua1p0Z01sdkgxRTVWbVR1aFZjUUN1NlNQVWdpU2R0MnBKWWpZQVRzQ2tKeWdUOU5qeUF4MzlGOGRQZXNRRTZ0bG9sZWJEZUwtU2NWcGFmSnhiTFNKTUZOd1JSQ1ZPSkdrTG5NRlFBWVVCNDV6QUM2Qy1BNklvOXFoQVQweEt4ODZDUTllUFNocTlwTDdoLWNhWXZxNmN2dVlkQlk2cmsyX29Ed3FUWHJSTlIwVkU2SdIBxwFBVV95cUxQdXhpN2UyVjRMRlJMcEpUNS1FbVZBWWlkNmRYSlRnaGVzd01YelRtQUFwNEg4dHRfRGRiR0QtaVk2X2ctbkZJeUNWOTNGMXVWN29Lb3JvR29hUUd5R05EYU9ZbHdpNTAtRzExZFhqQ0EtNzhUS01GbU9pTTcyNFJVY2I2RTJUQ3IxbDBjMFpmOE5tNUw2MkhDQ1JmRHl1WWdxa2ZSSXh2eVFCMjg4VGNRYTJDY3Q4Tjd2aXpHTC01UlhLUDRJUG44?oc=5
+- Promom Bags ₹30 Cr From Fireside Ventures To Expand Mom & Baby Care Portfolio
+  Maternal and baby care startup Promom has raised $3.1 million in a funding round.
+  🔗 https://inc42.com/buzz/promom-bags-%e2%82%b930-cr-from-fireside-ventures-to-expand-mom-baby-care-portfolio/
 
-- India, China face up to 100% US tariffs over Russian oil purchase under new bill proposal | India News - Hindustan Times
-  India, China face up to 100% US tariffs over Russian oil purchase under new bill proposal
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPc0cxMW9oVnZ2TVBfd1JIdi1ZVHoyUkh3eEFaOW1LSkotODZXRFdwNnpmRl9NY3hFODI2d2s2VFNQRlF5RW9tN2tQem5kU3NScnpPaWZzSHVXMEhkODl1Z1BXNVBJeDh3aVFwVFpySjVneHpEZHVQUEV4aE9ocXRwZkIxTWdweXg5azlVZ1JISlJKQm40VWVlMFZIMVlBSWc0VjVfaG1CN2ZRVzYwVFY4WjFJejRNWFJGckVPbXB0SllsQ3MxR3lKUXVSQklvX1BPWFVXcjFKdDlteEdRZnBBNHJMbTVkS0M3aHRPSDJaSkIyYWM2WjMyV3dJQThYUXE0STk3SnFjV3AyZGZq0gGSAkFVX3lxTE0yMzdxMFRqeGIwSHlkOUZQd1VLVmpLTzAwMkZCU0FQV1BCMFlJSjdpektsQ29xSURKWHRmVGRCQy0wWlJjUUZiRFRuWEJ0Z3VGY1pwaXJ2d284RjBRQjVtYTd4VFpoc3hWX25odENUcnVpcXp4UHZNb2R1NEl0UjNwTUpFajFZNk1ORTRjQlRuM2NGVnV6TjVYUW14aGFIbl9oT2ItZkVENmduMlI3b2JacHE4N3l4UDZkYXVONWNCckJLQkc2MnVObEZlYnRlblVNVG4xMzlWUnBQQ2lvVXRQWGVjRkFGenJzUmNCcjB4ZHZ5eWo2WURtLXNwZjNsREZ0ZEd1VWZkZlRqUW9hcHlLOVE?oc=5
+- Centre Doubles Down On Mobile Manufacturing With ₹62,500 Cr Scheme
+  In a bid to boost mobile phone manufacturing in the country. Union Cabinet approved a Mobile Phone Manufacturing Scheme.
+  🔗 https://inc42.com/buzz/centre-doubles-down-on-mobile-manufacturing-with-%e2%82%b962500-cr-scheme/
+
+- Cabinet Approves ₹1.28 Lakh Cr Semicon 2.0 To Boost India’s Chip Ecosystem
+  The Union Cabinet today approved the second phase of the Indian Semiconductor Mission, Semicon 2.0, with an outlay of ₹1.28&#8230;
+  🔗 https://inc42.com/buzz/cabinet-approves-%e2%82%b91-28-lakh-cr-semicon-2-0-to-boost-indias-chip-ecosystem/
+
+- Ather Energy To Raise ₹1,200 Cr To Fuel Next Phase Of Growth
+  Electric two-wheeler maker Ather Energy’s board has approved a fundraise of up to ₹1,200 Cr via a preferential issue.
+  🔗 https://inc42.com/buzz/ather-energy-to-raise-%e2%82%b91200-cr-to-fuel-next-phase-of-growth/
+
+- Why Punjab could define India’s new national security leadership | India News - Hindustan Times
+  Why Punjab could define India’s new national security
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
+
+- Farmers hold bike rally against India-US trade deal in Punjab’s Hoshiarpur - The Indian Express
+  Farmers hold bike rally against India-US trade deal
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGJ5TUNIVnVtZ2NOYWZLQUhLQk91SGNjMnhRODFhb094Y04yODNqaEdTWTg1b2Y0aTdrVkp1SHRoNWtDMWVNbEFBanBGNVJZOG5XSElERzBYVE03NTduUWxaVDdoOFlEbmNBWjV5WFlpOWlQQlJQWG9kUHpVTEpGOC1WaTYxb1Y5ZC1RM3l2dzZUdkF1clRYY1gtQV9BdVhDdTY4TmtaVk5VMVgwalJqQngzSVdlclY0eWfSAcABQVVfeXFMTXloZmlMM3hxdkJCUG9OSExFYmR4bVRBYUQwdHJjZFZRT1BweWNjV2l3UU5ZdE1WU25uMmYzZE9LRkw2OVZJbUlZeXNlVEw3UDVvcXFQaGswcUdYdk9WaFI1SllEU3hNMFdLcE5VLTV3dDJWVHozOFJkLXlRelZLVnhIR2JtR0NCckFRTE9aSmtIUU1xTTRpcEV4TlNiTlR3SWkxMWpCQl9aMnM4VXFKMzdYd2hSUEpBRFpnNVJld05L?oc=5
+
+- EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters
+  Files relating to India’s largest nuclear power plant K
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5
 
 - India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
   India-UK Trade Deal Kicks In: What
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
 
-- From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers - BBC
-  From Wimbledon towels to Scotch: What India-UK
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUG9Qdmx4OFN2eHQ2ZW1sU2N2RWNtOWlIVWcxVC10UTdRT1RWajVXdVRPWS1mOEM0dUU2ZkRacThDdTNueUVGQjRpaTBGTTgtZGZBbzBDRlBXUQ?oc=5
+- India-UK trade deal comes into effect: What’s cheaper in each country now? - Al Jazeera
+  India-UK trade deal comes into effect: What�
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVZCQkxJTm43bmdvM3RaUVdoV293YzRMRU1RaVF0N1RKaVgyamRiN1NWeFpyTXFGcUtFc0JrNndqV09ESU83aWdVUnZ2M3REbTI5ZE1CbjNTWXgwdjhtSEljVHRWaDVjWUVJN1BWMjRKcFRfaVNjTU9ra2gwRHVmd01qR1h2SGV4X25neGhuQnFxSWRsUDZVNzFmY2ZRc1lZaTkzNkV1NTJOOWFZUEREV1NR0gG3AUFVX3lxTE1NSi13S3lkTDdyUzVJODRBQ3hpNFo0b0wwYzhqejl3TDhPTGlXMm9hWU5sTDAxX2l0VGhGWGR4ZHNkRERJYl9KNWMwWnhDMjI1NnhCZjQ0dFRNRHNqUW1zc2MwWVFkVklYVS10YWJzMlBSQll5R2FndFBNOVVJV2JFYWE2QzZfenY4T0VxN3FQU3ZiZ3M1dXp1OTk1WktNU1VFWnZMMXlqU3hXN2wwMFBCbHlPamwxOA?oc=5
+
+- Why Punjab could define India’s new national security leadership | India News - Hindustan Times
+  Why Punjab could define India’s new national security
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
+
+- Farmers hold bike rally against India-US trade deal in Punjab’s Hoshiarpur - The Indian Express
+  Farmers hold bike rally against India-US trade deal
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGJ5TUNIVnVtZ2NOYWZLQUhLQk91SGNjMnhRODFhb094Y04yODNqaEdTWTg1b2Y0aTdrVkp1SHRoNWtDMWVNbEFBanBGNVJZOG5XSElERzBYVE03NTduUWxaVDdoOFlEbmNBWjV5WFlpOWlQQlJQWG9kUHpVTEpGOC1WaTYxb1Y5ZC1RM3l2dzZUdkF1clRYY1gtQV9BdVhDdTY4TmtaVk5VMVgwalJqQngzSVdlclY0eWfSAcABQVVfeXFMTXloZmlMM3hxdkJCUG9OSExFYmR4bVRBYUQwdHJjZFZRT1BweWNjV2l3UU5ZdE1WU25uMmYzZE9LRkw2OVZJbUlZeXNlVEw3UDVvcXFQaGswcUdYdk9WaFI1SllEU3hNMFdLcE5VLTV3dDJWVHozOFJkLXlRelZLVnhIR2JtR0NCckFRTE9aSmtIUU1xTTRpcEV4TlNiTlR3SWkxMWpCQl9aMnM4VXFKMzdYd2hSUEpBRFpnNVJld05L?oc=5
+
+- EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters
+  Files relating to India’s largest nuclear power plant K
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5
+
+- India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
+  India-UK Trade Deal Kicks In: What
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
+
+- India-UK trade deal comes into effect: What’s cheaper in each country now? - Al Jazeera
+  India-UK trade deal comes into effect: What�
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVZCQkxJTm43bmdvM3RaUVdoV293YzRMRU1RaVF0N1RKaVgyamRiN1NWeFpyTXFGcUtFc0JrNndqV09ESU83aWdVUnZ2M3REbTI5ZE1CbjNTWXgwdjhtSEljVHRWaDVjWUVJN1BWMjRKcFRfaVNjTU9ra2gwRHVmd01qR1h2SGV4X25neGhuQnFxSWRsUDZVNzFmY2ZRc1lZaTkzNkV1NTJOOWFZUEREV1NR0gG3AUFVX3lxTE1NSi13S3lkTDdyUzVJODRBQ3hpNFo0b0wwYzhqejl3TDhPTGlXMm9hWU5sTDAxX2l0VGhGWGR4ZHNkRERJYl9KNWMwWnhDMjI1NnhCZjQ0dFRNRHNqUW1zc2MwWVFkVklYVS10YWJzMlBSQll5R2FndFBNOVVJV2JFYWE2QzZfenY4T0VxN3FQU3ZiZ3M1dXp1OTk1WktNU1VFWnZMMXlqU3hXN2wwMFBCbHlPamwxOA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-15 08:01:20 UTC_
+_Last updated: 2026-07-15 13:28:13 UTC_
