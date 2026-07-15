@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Cabinet okays new urea policy. What changes?
+- Prashant Kishor poll debut runs into rough weather, his party loses leaders to BJP
   
-  🔗 https://indianexpress.com/article/india/union-cabinet-approves-national-investment-policy-urea-2026-nipu-domestic-production-imports-10787684/
+  🔗 https://indianexpress.com/article/india/prashant-kishors-electoral-debut-jan-suraaj-bihar-bjp-10788395/
 
-- Tamil Nadu: Engagement called off, man attacks former fiancée, mother hacked to death trying to protect her
+- New IRCTC website launched: How to book train tickets in 5 simple steps
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-engagement-called-off-man-attack-former-fiacee-mother-killed-10787833/
+  🔗 https://indianexpress.com/article/india/indian-railways-new-irctc-website-beta-book-train-tickets-5-simple-steps-10788270/
 
-- After performance review, Madhya Pradesh minister loses portfolio, CM takes over
+- The Daily Catch-Up: Sharad Pawar speculation, Sonam Wangchuk, India vs England
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-cm-mohan-yadav-cabinet-reshuffle-lakhan-patel-portfolio-change-10787713/
+  🔗 https://indianexpress.com/article/india/daily-catch-up-us-sanctions-oil-maharashtra-politics-mumbai-tunnel-fire-10788162/
 
-- ‘Economic links to get deeper’: PM Modi as India-UK FTA comes into effect
+- Give us a kidney or give us death: 5 new mothers from Kota write to President
   
-  🔗 https://indianexpress.com/article/india/economic-links-to-get-deeper-pm-modi-as-india-uk-fta-comes-into-effect-10787327/
+  🔗 https://indianexpress.com/article/india/kota-hospital-medical-negligence-c-section-kidney-damage-euthanasia-plea-president-murmu-rajasthan-10788202/
 
-- Metro man E Sreedharan’s solar rail idea runs into Kerala roadblock
+- Now Jammu University orders audit of all books on its premises
   
-  🔗 https://indianexpress.com/article/india/metro-man-sreedharans-solar-rail-idea-runs-into-kerala-govt-roadblock-10787189/
+  🔗 https://indianexpress.com/article/india/jammu-university-order-audit-books-10788178/
 
 - Artemis landings may contaminate Moon’s ancient ice, study finds
   
@@ -40,25 +40,33 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/parents-screens-calm-children-new-study-findings-10787606/
 
+- OnePlus is planning to exit all non-Chinese markets, including India, by 2027: Report
+  OnePlus will begin exiting the US and Europe this week. India departure to follow by 2027, as parent
+  🔗 https://www.livemint.com/companies/news/oneplus-is-planning-to-exit-all-non-chinese-markets-including-india-by-2027-realme-oppo-11784136496644.html
+
+- Morgan Stanley tops Q2 estimates as dealmaking, trading revenue hit record highs
+  Morgan Stanley surpasses $10 trillion in wealth management
+  🔗 https://www.livemint.com/companies/company-results/morgan-stanley-tops-q2-estimates-as-dealmaking-trading-revenue-hit-record-highs-11784134875079.html
+
+- DeepSeek’s Liang Wenfeng becomes world’s richest AI founder, overtakes OpenAI and Anthropic rivals
+  Bloomberg estimates Liang's net worth has climbed to around $36 billion from approximately $16.7 billion.
+  🔗 https://www.livemint.com/companies/people/deepseeks-liang-wenfeng-becomes-world-s-richest-ai-founder-overtakes-openai-and-anthropic-rivals-11784133264996.html
+
+- L&amp;T bets big on AI with Copilot rollout for over 80% of employees
+  L&amp;amp;T would be the first large Indian
+  🔗 https://www.livemint.com/companies/news/lt-ai-copilot-rollout-microsoft-ai-tools-employees-it-tcs-infosys-wipro-ltm-ltts-11784117244067.html
+
 - RBI greenlights three-year term for Rajiv Kumar as HDFC Bank chair
   Rajiv Kumar will be part-time chairman of HDFC Bank for
   🔗 https://www.livemint.com/companies/rbi-greenlights-three-year-term-for-rajiv-kumar-as-hdfc-bank-chair-11784117480223.html
 
-- Emergent raises $130 mn from Creagis, Sentinel Global, Ranjan Pai's Claypond Capital
-  Back-to-back rounds for Emergent come at a
-  🔗 https://www.livemint.com/companies/start-ups/emergent-creagis-ranjan-pai-claypond-capital-sentinel-global-vibe-coding-india-ai-11784019954800.html
+- SpaceX extends losing streak to four days, drops below $135 IPO price | Buy, sell or hold?
+  SpaceX shares experienced a decline for the fourth consecutive session on Wednesday. Shares fell below the $135 price
+  🔗 https://www.livemint.com/market/stock-market-news/spacex-extends-losing-streak-to-four-days-drops-below-135-ipo-price-11784132250478.html
 
-- Apple Intelligence cleared for use on iPhones in China after regulatory approval
-  China's cyberspace regulator announced that Apple Intelligence, a generative AI service, has been registered for iPhones. It will integrate B
-  🔗 https://www.livemint.com/companies/news/apple-intelligence-cleared-for-use-on-iphones-in-china-after-regulatory-approval-11784109578530.html
-
-- Deepinder Goyal's next big bets: $1,000 forehead wearable, $20 mn aviation investment after Zomato
-  Deepinder Goyal, co-founder of Zomato, is launching a wearable device called Temple to track metabolic rates in real time.
-  🔗 https://www.livemint.com/companies/people/deepinder-goyals-next-big-bets-1-000-forehead-wearable-20-mn-aviation-investment-after-zomato-11784104959938.html
-
-- HealthKois eyes biotech bets as new drug pipelines expand
-   PE/VC investment into pharma rose 2.1x in five years to $731 million in FY26. Number of biotech startups grew from roughly 1,500 to 2,
-  🔗 https://www.livemint.com/companies/healthkois-300-million-fund-india-biotech-startups-11784095883452.html
+- Wall Street surges on soft producer inflation, robust earnings; PayPal climbs 13.58%, BlackRock soars 7.6%
+  The Dow Jones Industrial Average rose 0.18%, the S
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-surges-on-softer-than-expected-producer-inflation-paypal-climbs-1358-11784122704074.html
 
 - HDFC Life Insurance Company Q1 results: Profit rises 12% YoY to  ₹611 crore; VNB up 9%
   HDFC Life Insurance Company reported a 12% YoY rise in its standalone profit to  ₹611.42 crore for Q
@@ -72,13 +80,9 @@
   Spice Lounge Food Works hit its upper circuit on the BSE on Wednesday, 15 July. The company announced it had opened its first Wing Zone
   🔗 https://www.livemint.com/market/stock-market-news/smallcap-fmcg-stock-spice-lounge-food-works-hits-upper-circuit-after-this-business-update-11784110584032.html
 
-- Nifty 50 above 27,000? PL Capital raises target, sees more upside in Indian stock markets but flags key risks
-  PL Capital has raised its one-year Nifty 50 target to 27,019. It cited improved macroeconomic conditions, resilient demand, and easing oil prices.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-prediction-pl-capital-ups-nifty-target-to-27-000-sees-more-upside-in-indian-stock-markets-but-flags-key-risks-11784107475075.html
-
-- HDFC AMC Q1 Results: Net profit jumps 12% YoY to  ₹837 crore; revenue surges 14%
-  HDFC AMC reported a 12% YoY increase in Q1 net profit to  ₹837 crore and a 13.6% rise in revenue to    � 1,100 crore.
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-amc-q1-results-net-profit-jumps-12-yoy-to-rs-837-crore-revenue-surges-14-11784109086231.html
+- Cabinet approves  ₹1.9 tn push for chips, mobiles to deepen local manufacturing
+  At the centre of the package is Semicon 2.0, a  ₹1.27 trillion programme aimed at helping Indian firms design chips, generate patents. The cabinet
+  🔗 https://www.livemint.com/technology/cabinet-approves-1-9-tn-push-for-chips-mobiles-to-deepen-local-manufacturing-11784126818196.html
 
 - Motorola Edge 70 Max launched in India with Snapdragon 8 Gen 5, 7,100mAh battery: Check price, specs and launch offers
    Motorola Edge 70 Max has launched in India with the Snapdragon 8 Gen 5 chipset, a 7,100mAh battery, 2K AMOLED display,
@@ -96,129 +100,125 @@
   OpenAI CEO Sam Altman criticized Anthropic's new
   🔗 https://www.livemint.com/technology/tech-news/sam-altman-tears-into-anthropics-latest-ai-safety-ad-thought-this-was-satire-11784015108664.html
 
-- iPhone 18 Pro Max launch just months away: Leaked price, battery, display and key upgrades
-  Apple is expected to unveil the iPHone 18 Pro and Ultra at a launch event in September.
-  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-max-launch-just-months-away-leaked-price-battery-display-and-key-upgrades-11784011269506.html
-
-- Stock futures rise on chip stocks bounce, encouraging inflation signs: Live updates - CNBC
-  Stock futures rise on chip stocks bounce, encouraging inflation
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9KUXk0YXdXVmpaWlRlaU5KQTlHdDJkdXhUN2dTak5melBwaTdsMVpoY2M2dDZOTUZ3RV9laUYzX29ZX2tSbEhtcUpKSHhJa2ZEZ211cUdQdktfVXFoWXp0NWctdXAzNlhxS19aSjdCNXdVMk5Kb0FB0gF8QVVfeXFMTjFoMHhvM0wtUXo2NnJzVTNJNVpUM3dqS2dSV1cydFdoaVl1WGdfVnZzZkQ4RGQ0LW52c0l2NkliTVZSVHlfTUJ4VFBIX0NoR29xU0JqSGxDQjcwdVlkYjFfZFhCN3phM3VOT0dLT1lzcVpBR1c4WDRwTThOaA?oc=5
-
-- Stock Market Today: Nasdaq Looks to Build on Tuesday Rally - WSJ
-  The Nasdaq looks to build on Tuesday
+- Stock Market Today: Megacap Tech Names Push Indexes Higher - WSJ
+  &nbsp;&n
   🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxObTV1TGRvc3pzSmUyU21VSU9SYUdKQk96WWp3WkgyeDVzejZwWXFOOGpGSjVJWVdia01sYjBYUmVOX0laZHc0SWM5MlFXanhVMXB2V3dxdTZRQ19jVFBwNjhLM3d5QWVFSFFvMGtlTlVsMU5CeGlzNDBzQ3NtOXdUZGdaQkhkYnpBLUlCcU5DSlRpbmc?oc=5
 
-- Stock Market Today: Futures Point Higher, Led by Tech Stocks; ASML Sees Strong Demand for AI Chipmaking Equipment; PayPal Jumps on Reported $53B Bid - Investopedia
-  Stock Market Today: Futures Point Higher, Led by Tech Stocks. ASML Sees Strong Demand for
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPODRWTkhxdnVLV2hvVE5fbE1TbGNpTWVEbm8xVDFvSlBIenRmcWZQa3Vyay05UTQ3MFIwR3A2QjZxV1otZkIzOFR5X0k1X3B3S2VoWHp2S0hDSzVOMVNmV0xJMWgxaFY5OFJ3YjhpcE9DTkhCMmFGaHBmWlVKbGR6aHBSbm1iRnluX1owamZXT0E?oc=5
+- Stock market today: Dow, S&P 500, Nasdaq slip as semiconductor stocks plummet - Yahoo Finance
+  The Dow, S&amp;P 500, Nas
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0xnc1REcmstM1BHRE1sdnY5MGwxNV94OGNSWU5qZUVxUGV1WUxsZTVEQndQcDZZSWs3ek84bk9VTXNKWjlTY2hQeTVoa0tJeUtSRXdFMXRaRHdwczZLZ29ONDNYdWJ6YVBkd29UejVpdTIwU2FGTWtPZDRzVEdXbzhIUmJkQUs5aWZGYURuNm1WRFJHVUpmaWRDSUxDeG5kajBfMEpxOA?oc=5
 
-- Country committed to preparing its workforce for global labour markets, says Union Skill Development Minister - News On AIR
-  Country committed to preparing its workforce for global labour markets, says Union Skill Development
-  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE9vVkQ3SXNkMjNPOHRTTXhLam1fYmI3bEhoN3UxS3BSdXVlQkQ0WElHdmxRV2pJbkVzaklJc3p2RFRPVTN6eEtGY3Z4a3A2UDdOS3k2QmQ2TzlKREdSREdQb0ZKcGRvVHZSSHZiSk9Jd3VwV24tX0xRTUtB?oc=5
+- Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: US stocks edge lower as declines hit major in... - The Economic Times
+  US stocks edge lower as declines hit major in economic downturn. Dow Jones, S&P, Nasdaq,
+  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxOci1ub1NDZllEbzRrSThJUmNkdzQ2Q0xUcFZuZU0yNExMZ0M2UGVNQW9YV2VMcFgwcHVhOGJDbjlSNXhPcC1SYXFhU2E1aXJaZjlGU2xIemFidFdEWVVZOHRKWk1sdjlHbDhIQ3hBOHUyM3ZoMmdNck1aR1FNZnh3TXNPOWkwd1NHVWhkOVR2aHJHUkRoTUVPejJ5em8zR3BMS1lRdGhudFhTX0FqWGVnZmQ1WWtYNGRKUW13RnJwLWZOLTJzcW12VVNoVGJRX21NcFRtdFBiblFYQ0VPQ3ppQ09QSmFyZ2dwbzZTM29oZG5yUFpBUHZjNXA5akw1RzkzLWRMcnFUd2YwQnpWYi00ZWlTOHVXZmFuS2haUzdLQUl0ZS1HX0ZUaHlQR0REdDBNX1RfOXpQaVdwWkUzOExKZWtEUlBKeUpxbDRvcFdiQ3pzY1Vwc0M3REdlRXo5S2E5S0lQZ0Z2cFI5RmZ1NmlGM9IB9gJBVV95cUxPTUo4a3ZacWQ5QWRzc1ZjMjBpMFBMYjRCQTlZVjNQcmQ3NW5GSHU5TUR6YnlQckx1UGlmZ20xRFd5Y0paaWRycW9RMm13NjRXTU9vLXJZVGtRaWNrM3ZfX2wyUnN3UUpYSWVvZF9vYUx0WGpSNWhlZDRQSVUyX1lrZ2xWVlUzRzdwaC1aLUJ3SGRLVkZicXhBNlVqa1FwaFBsdjI0NEpDZWNITkZtU2d3MnN6THNPRy1xYXN4aGRWTnpjV3otUUk2bjhHcl90WVhXNTItbGFuUHRrNzhLT1Ribi1lSFhGNWtnSmxTTmxZdmpKeGNWLVhfRmU1M0FJWDdCMER3dm12dHgwSEYyc0FadkM2TUpSM1cyU0xlaEM1T3oxcVREWXpBcHJRaDR3TGQtSGpTWGYwOTJwLUg3Nmg4V2pmR0s4Nk9XQldYb2YxMmxVdEo4di1BdWZjTEQzQlNpU09DR2lSSDhocFA5SjVPd1BVdk1aQQ?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 130 pts higher, Nifty above 24,050; Eterna... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxQUWpnY3BsU0hUZXJoWFh6dWVjSUl1Q3NmZWpBdFJuUWh4amxfaFBzX0NYOUh4TUIyY0cyY2IwZUhGQk5GdlFNSmRUSEtDQ1Y4RVZBV2Y0MTdvVmhoLWxkSnlyQ0Z1NDJiZF
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQUWpnY3BsU0hUZXJoWFh6dWVjSUl1Q3NmZWpBdFJuUWh4amxfaFBzX0NYOUh4TUIyY0cyY2IwZUhGQk5GdlFNSmRUSEtDQ1Y4RVZBV2Y0MTdvVmhoLWxkSnlyQ0Z1NDJiZFl6elVJWHFLR2FZWWZlNE40R0pZNUpXeXdTWU9NX0pWd0FKZFBmWF83eEF6SDBDUWU1b0NfSnBKNWRxRGhDOTBMSXYzM2tCUnE3dTF4STcxWDVUM0xmSWtZLXRiSjZTY1RrRkxRUnFQZFctVXF1OTNnMHhDeFdiMkU3QWhlM0x4RjNJcFRTdHFLRHlld3B2NmN4T2FsaldES2gzOFl1LXZHQdIBjwJBVV95cUxNV2pRQ3FvMEN0RWptMHE0QnhNWHpMNmEtNV9DS2tKODdHNmRqbkpCWWVMRW14QTFzNEdldXUzZUdGRW1OVmotVm9BSTlaTVFldzZNNk9mbl9zZTFXYXVzb2t1SllJVkc1QWZhdll1ZEtmeWNQeTloci1lVjFKNUpvTms5WV84VkpTS0czemJjZVFzUUNmNTJzdW8yTFMxUGR4OVZ0QkwzVnZZR0xSZThzZUlzdlRfVmV5MXBxY0ExUERLNGlySnBFUGhscXFGN3JUNG42Vy1CaXVYM1VmUkFJUXkxTkhpUFMzOVNOS2NsNk5SQ0JmNUg4ZmpyVk9CZEFBLVp5YnJsaXdnN0F4TExN?oc=5
+- Markets end higher led by bank stocks; escalating U.S.-Iran hostilities weigh on investor sentiment - The Hindu
+  Markets end higher led by bank stocks; escalating U.S
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVFV2cGNNa1pRak44MzBUY01YNVdBM3pkbUlrX3dXN20tclRUaVpDQlpyWXk3aTJWMGV1aVc5aDRNeFNyNWdZa0czRHRRTEFBcDFmS21mMmdJMnZVT3pQaF85RzNRME5WVDdtNGNjZ19GdzFFMUktRmMyMXlIXzRYSWhyQXNvYTdfZ3EwMFB5Y2ViSzFOUHFGdkE5SF9MLUhEWm1nVUhfVHV0Z2VQUGQ2RzZpMVUyNnRZRVBqQ1Bkc0kyRDJ5TGZTNUlacnFOVFJVV3hVZ0ZVYUVPTXYtV0NkdnV2bmZLeVVJZmp3X0xGQdIB9gFBVV95cUxNX184d3lRbFdraGxqSHQyNzJuUXpYbld2dnFPS1l4ODVJend3UDlrYmhSdUtkRzJlMFRTcXVUbEgtaFVLSFJObTBGa2hBaVdKQk5taXRsMjF4d3VPVWMxbXZKNmNRRzNrX3RvbXVNcXpSVHdhbzdfMF9tb1p1Z25aRWRsd3BFTzNmZnJwdmtIUzJGdEt4VjM3aTNWWHpvREllRkFQMWpUR1VkZ25OZ0c3WDZVTkRRQ0JFdkZ4c1RsTFpWSTBMdENYdU4yaHhKbUh0UUhQb0JCOV82SWhUOUlPeWRCbXpoR1RUcm5tYVdVMHU4XzZTSWc?oc=5
 
-- Euro zone bond yields tick higher along with oil prices after big swings
-  Bond yields in the Euro zone experienced a slight uptick on Wednesday, driven by rising oil prices linked to the U.S.-Iran tensions. Germany's 2-year bond yield reacted accordingly, highlighting concerns over future central bank rate increases
-  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-higher-along-with-oil-prices-after-big-swings/articleshow/132417193.cms
+- Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times
+  Ahead of Market: 10 things that will decide stock market action
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNTkwbVh4YklIQWZ4TUtoQkpJTDVva1JTRzdKd05wbGt4UVBQSGdPUUx3MDMyWmwtaFlpWUU0ckV6cENfVDBBRVVCQ1VCeTRJaEs4TDR5UDRxbzJKYlYwRFhHMFoySnNEYXM5eUNvcnVkMkhwSDdNUVNjN0ZtSDBhV1E0SHpRQVFReTlNM0ZPZkhZaEZJU2QtcC04VmVSQW1kMWVybHpFNFB1SWtqdFYtN3JXNlgyc2drNXQ0dlJiWjMzMmdhVFNXdVpWbExrYldfaVdnSHZsLUF1cWU2QWhBQWFn0gHnAUFVX3lxTE96YzBsbFpBQThGZUFxU21sTVBUeS1VNFhFT1hTdjNtOXhCOGNpTDVJQzZ1Q09jTEE2alVYTTFhcnJIcnhQYTBJSjlsTTBCVkNIUnhuaXF5SUhhSXJieWFBc2F1UnVJb3lqT3U3c0Nic01RNWdrcVdVSllsdHZIMnllNGozNlhNMENQVm5QcUdLUXlmU1FrQ1c1dm02Rm5WRzlvcDRPNXRVMktGOTVWanlpS2lfV0otSlBhX1QxVGJZOFVuaC1XaTFXOXp3S29JZjFmUGlIV185Q0R3eF80STYwYTdKTDkyTQ?oc=5
 
-- Union Bank Q1 Results: Profit rises over 27% to Rs 5,641 crore
-  Union Bank of India achieved a remarkable 27.5% surge in its net profit for the June quarter. The bank experienced a subtle rise in net interest income, alongside a slight enhancement in margins.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q1-results-profit-rises-over-27-to-rs-5641-crore/articleshow/132417165.cms
+- Pentair shares dip 17% on dour forecast amid weak pool sales
+  Pentair shares dropped sharply after the company cut its annual forecast. High interest rates and inflation have pressured spending on outdoor projects.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/pentair-shares-dip-17-on-dour-forecast-amid-weak-pool-sales/articleshow/132422544.cms
 
-- Japan PM Takaichi says draft economic blueprint not cause of bond market rout
-  Sanae Takaichi believes there's no connection between her administration's economic plan and the ongoing fluctuations in the market. She pointed out that interest rates and exchange rates are shaped by multiple global dynamics.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/japan-pm-takaichi-says-draft-economic-blueprint-not-cause-of-bond-market-rout/articleshow/132417126.cms
+- Fed's Cook says she is prepared to act soon if inflation does not begin to slow
+  Federal Reserve Governor Lisa Cook signalled readiness to act if inflation fails to ease, while allowing more time to assess trends. She flagged rising risks from AI investment, tariffs and geopolitical tensions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-is-prepared-to-act-soon-if-inflation-does-not-begin-to-slow/articleshow/132422413.cms
 
-- PFC raises USD 300 mn via bonds carrying floating interest rates
-  Power Finance Corporation has successfully secured USD 300 million via floating rate notes set to mature in July 2029. These instruments adhere to the Reserve Bank of India's guidelines for external borrowing.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/pfc-raises-usd-300-mn-via-bonds-carrying-floating-interest-rates/articleshow/132417102.cms
+- SpaceX shares fall below IPO price for first time as post-listing excitement fades
+  SpaceX shares slipped below their IPO price for the first time. The decline highlights valuation concerns, broader market pressure and risks tied to high-growth stocks.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-fall-below-ipo-price-for-first-time-as-post-listing-excitement-fades/articleshow/132420340.cms
 
-- BlackRock assets hit record $15 trillion on boost from buoyant markets, ETF inflows
-  BlackRock announced impressive second-quarter profits that outpaced Wall Street's forecasts. Client assets surged to an unprecedented $15.34 trillion.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/blackrock-assets-hit-record-15-trillion-on-boost-from-buoyant-markets-etf-inflows/articleshow/132416832.cms
+- Angel One Q1 Results: Net profit doubles to Rs 231 crore
+  Angel One reported impressive financial growth, with consolidated profit after tax soaring to Rs 231.4 crore. The company experienced a robust 25.4 percent increase in total income, reflecting its expanding influence in the market.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/angel-one-q1-results-net-profit-doubles-to-rs-231-crore/articleshow/132419853.cms
 
-- Why Punjab could define India’s new national security leadership | India News - Hindustan Times
-  Why Punjab could define India’s new national security
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
-
-- Farmers hold bike rally against India-US trade deal in Punjab’s Hoshiarpur - The Indian Express
-  Farmers hold bike rally against India-US trade deal
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGJ5TUNIVnVtZ2NOYWZLQUhLQk91SGNjMnhRODFhb094Y04yODNqaEdTWTg1b2Y0aTdrVkp1SHRoNWtDMWVNbEFBanBGNVJZOG5XSElERzBYVE03NTduUWxaVDdoOFlEbmNBWjV5WFlpOWlQQlJQWG9kUHpVTEpGOC1WaTYxb1Y5ZC1RM3l2dzZUdkF1clRYY1gtQV9BdVhDdTY4TmtaVk5VMVgwalJqQngzSVdlclY0eWfSAcABQVVfeXFMTXloZmlMM3hxdkJCUG9OSExFYmR4bVRBYUQwdHJjZFZRT1BweWNjV2l3UU5ZdE1WU25uMmYzZE9LRkw2OVZJbUlZeXNlVEw3UDVvcXFQaGswcUdYdk9WaFI1SllEU3hNMFdLcE5VLTV3dDJWVHozOFJkLXlRelZLVnhIR2JtR0NCckFRTE9aSmtIUU1xTTRpcEV4TlNiTlR3SWkxMWpCQl9aMnM4VXFKMzdYd2hSUEpBRFpnNVJld05L?oc=5
-
-- EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters
-  Files relating to India’s largest nuclear power plant K
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5
-
-- India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
-  India-UK Trade Deal Kicks In: What
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
-
-- India-UK trade deal comes into effect: What’s cheaper in each country now? - Al Jazeera
-  India-UK trade deal comes into effect: What�
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVZCQkxJTm43bmdvM3RaUVdoV293YzRMRU1RaVF0N1RKaVgyamRiN1NWeFpyTXFGcUtFc0JrNndqV09ESU83aWdVUnZ2M3REbTI5ZE1CbjNTWXgwdjhtSEljVHRWaDVjWUVJN1BWMjRKcFRfaVNjTU9ra2gwRHVmd01qR1h2SGV4X25neGhuQnFxSWRsUDZVNzFmY2ZRc1lZaTkzNkV1NTJOOWFZUEREV1NR0gG3AUFVX3lxTE1NSi13S3lkTDdyUzVJODRBQ3hpNFo0b0wwYzhqejl3TDhPTGlXMm9hWU5sTDAxX2l0VGhGWGR4ZHNkRERJYl9KNWMwWnhDMjI1NnhCZjQ0dFRNRHNqUW1zc2MwWVFkVklYVS10YWJzMlBSQll5R2FndFBNOVVJV2JFYWE2QzZfenY4T0VxN3FQU3ZiZ3M1dXp1OTk1WktNU1VFWnZMMXlqU3hXN2wwMFBCbHlPamwxOA?oc=5
-
-- Emergent Joins Unicorn Club After Raising $130 Mn At $1.5 Bn Valuation
-  It’s raining unicorns this year. Less than a month after proptech startup Square Yards became the country&#8217
-  🔗 https://inc42.com/buzz/emergent-joins-unicorn-club-after-raising-130-mn-at-1-5-bn-valuation/
-
-- Promom Bags ₹30 Cr From Fireside Ventures To Expand Mom & Baby Care Portfolio
-  Maternal and baby care startup Promom has raised $3.1 million in a funding round.
-  🔗 https://inc42.com/buzz/promom-bags-%e2%82%b930-cr-from-fireside-ventures-to-expand-mom-baby-care-portfolio/
-
-- Centre Doubles Down On Mobile Manufacturing With ₹62,500 Cr Scheme
-  In a bid to boost mobile phone manufacturing in the country. Union Cabinet approved a Mobile Phone Manufacturing Scheme.
-  🔗 https://inc42.com/buzz/centre-doubles-down-on-mobile-manufacturing-with-%e2%82%b962500-cr-scheme/
-
-- Cabinet Approves ₹1.28 Lakh Cr Semicon 2.0 To Boost India’s Chip Ecosystem
-  The Union Cabinet today approved the second phase of the Indian Semiconductor Mission, Semicon 2.0, with an outlay of ₹1.28&#8230;
-  🔗 https://inc42.com/buzz/cabinet-approves-%e2%82%b91-28-lakh-cr-semicon-2-0-to-boost-indias-chip-ecosystem/
-
-- Ather Energy To Raise ₹1,200 Cr To Fuel Next Phase Of Growth
-  Electric two-wheeler maker Ather Energy’s board has approved a fundraise of up to ₹1,200 Cr via a preferential issue.
-  🔗 https://inc42.com/buzz/ather-energy-to-raise-%e2%82%b91200-cr-to-fuel-next-phase-of-growth/
+- Tata Capital raises $400 million in global bond sale
+  Tata Capital successfully raised $400 million by selling dollar bonds abroad. Asian and European asset managers dominated demand for these instruments.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/tata-capital-raises-usd-400-million-from-a-bond-issue-in-the-us/articleshow/132419835.cms
 
 - Why Punjab could define India’s new national security leadership | India News - Hindustan Times
   Why Punjab could define India’s new national security
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
-- Farmers hold bike rally against India-US trade deal in Punjab’s Hoshiarpur - The Indian Express
-  Farmers hold bike rally against India-US trade deal
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGJ5TUNIVnVtZ2NOYWZLQUhLQk91SGNjMnhRODFhb094Y04yODNqaEdTWTg1b2Y0aTdrVkp1SHRoNWtDMWVNbEFBanBGNVJZOG5XSElERzBYVE03NTduUWxaVDdoOFlEbmNBWjV5WFlpOWlQQlJQWG9kUHpVTEpGOC1WaTYxb1Y5ZC1RM3l2dzZUdkF1clRYY1gtQV9BdVhDdTY4TmtaVk5VMVgwalJqQngzSVdlclY0eWfSAcABQVVfeXFMTXloZmlMM3hxdkJCUG9OSExFYmR4bVRBYUQwdHJjZFZRT1BweWNjV2l3UU5ZdE1WU25uMmYzZE9LRkw2OVZJbUlZeXNlVEw3UDVvcXFQaGswcUdYdk9WaFI1SllEU3hNMFdLcE5VLTV3dDJWVHozOFJkLXlRelZLVnhIR2JtR0NCckFRTE9aSmtIUU1xTTRpcEV4TlNiTlR3SWkxMWpCQl9aMnM4VXFKMzdYd2hSUEpBRFpnNVJld05L?oc=5
-
-- EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters
-  Files relating to India’s largest nuclear power plant K
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5
-
 - India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
   India-UK Trade Deal Kicks In: What
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
 
-- India-UK trade deal comes into effect: What’s cheaper in each country now? - Al Jazeera
-  India-UK trade deal comes into effect: What�
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVZCQkxJTm43bmdvM3RaUVdoV293YzRMRU1RaVF0N1RKaVgyamRiN1NWeFpyTXFGcUtFc0JrNndqV09ESU83aWdVUnZ2M3REbTI5ZE1CbjNTWXgwdjhtSEljVHRWaDVjWUVJN1BWMjRKcFRfaVNjTU9ra2gwRHVmd01qR1h2SGV4X25neGhuQnFxSWRsUDZVNzFmY2ZRc1lZaTkzNkV1NTJOOWFZUEREV1NR0gG3AUFVX3lxTE1NSi13S3lkTDdyUzVJODRBQ3hpNFo0b0wwYzhqejl3TDhPTGlXMm9hWU5sTDAxX2l0VGhGWGR4ZHNkRERJYl9KNWMwWnhDMjI1NnhCZjQ0dFRNRHNqUW1zc2MwWVFkVklYVS10YWJzMlBSQll5R2FndFBNOVVJV2JFYWE2QzZfenY4T0VxN3FQU3ZiZ3M1dXp1OTk1WktNU1VFWnZMMXlqU3hXN2wwMFBCbHlPamwxOA?oc=5
+- India-UK Comprehensive Economic and Trade Agreement Comes into Force today - News On AIR
+  India-UK Comprehensive Economic and Trade Agreement Comes into
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2FoM29SMDU0S3VnYWNWb19XTGlhTUlwQXVkQjVfRzhWa1h4ZjV3TkRma2hweDRXa1BDME9Tek5TN1BqNlg4NlpicWNaaFFOX1VId0kxRmg3NnJPRi0tdXZSRlgyclowS0hfNEd1cHkxR3ZMZm1KWkI4d2ZOclN0SDBZbVZVUjd3OXRFeEpJMlhvemhpemFnY2M1M2dNUk9SdWc?oc=5
+
+- "Fair, Equitable, Balanced": Piyush Goyal Lauds India-EU Trade Deal - NDTV
+  "Fair, Equitable, Balanced
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNRzJQeHF5R3V2dElGUkdNQXo4WDBQNThkZ2FvVllRZGhoV2ZSekRUS0RrZkhtZVBfU3RjZEloY0pZWXRVeXFyZGxOZnYydU5EU1A4LWRlY1ppVmFhcWwybWhTUW1fWFBLTDdVNldLOHkzVDdyUzFJcWdtQWU1LUJZeUhNNDk1N2NJeHI0cGJqNVMyS09Gck1fcUd2N0RLeEo1RDFBWkxB0gGuAUFVX3lxTE5jbGhYYXFVc004RE5jLU9zNXd0aEFGRDJBV05fTGpGUHZqdlg0S0o2VUc5eTdOcU00S3IwWi0teXh5amd2RmJCVW1UdWg0MkU4dlduRzh2bzhZdnN0dWRjc296cWJZOXllR0xJeW9qYjZ2SVN3WW9OUHpGaVptTktZZnNuYmIwcmhqQlY3T3ZUWG12cVE2aWhnRGhLSTVXdGRpdjV3X0haTDhpMHhtUQ?oc=5
+
+- Cabinet approves Rs 25,000 cr Ganga, Varuna corridors for Varanasi - The Times of India
+  Cabinet approves Rs 25,000 cr Ganga
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPYW5UNXRfWHl4N3UwWC1PSjA0QVRud1ZVck1IYTMtcHVTTUUyMjl1ODhuaTl3M3VCYzRRX0lCZ0dfQV8yd05EeVdUeDVZYzB5SHlzOFMteWJ3VlI3dWVhZTZMUW9wN0lTaE0xRTlLRHJuTzJqUzVNRmZzaFU1RGJ5SkZISXZxLVZ5YkNXb0R3YW9uQXZXRkVxNW1qTkdnNUMzdmNELXpIU0dyRGFTcFBGVmYtQ0NZT1FHTHJXUHRTYTZ0Uk9Ic2ZsVmFTQm7SAdIBQVVfeXFMUDNMdmJzQllnM3NpM1picW1nYldBcHdKbk02cG9SZDllVnBIb25UV2E0VlVweEFyN1Y3bVpRRFU1QmZBcWFsNmRMVTRvc2NxdmpFY3VpeVptSzlvdWJfa0ZnNkhQZ3BxTFNDRVZJUjQ3bG1qcXo0b0NhU291ampVOXh1eHA3NU82ODBLeVpDeHlTUm9GVU5FWHBiYWQ5WTR3emI0c2tPcWtMSkptWFdZaWZBSlp4SFA3SU1fOURpODVTMDV3ZzZJdjBkaVluMFJQZGRn?oc=5
+
+- Ather Opens QIP, Sets Floor Price Of ₹1,169.70 Per Share
+  Ather Energy has now opened a qualified institutional placement (QIP) to&#8230.
+  🔗 https://inc42.com/buzz/ather-opens-qip-sets-floor-price-of-%e2%82%b91169-70-per-share/
+
+- Peak XV-Backed Finova Capital’s FY26 PAT Dips 11% To ₹165 Cr
+  Finova Capital recorded an 11% year-on-year (YoY) decline in its net profit for the fiscal.
+  🔗 https://inc42.com/buzz/peak-xv-backed-finova-capitals-fy26-pat-dips-11-to-%e2%82%b9165-cr/
+
+- Indian Unicorn Tracker: Funding, Investors, Revenue And More
+  The year 2026 has begun on a strong note for India’s startup ecosystem. Juspay became the first unicorn of the year
+  🔗 https://inc42.com/features/indian-unicorn-tracker-funding-investors-revenue-and-more/
+
+- Files Related To India’s Largest Nuclear Plant Surface On Dark Web
+  Thousands of files linked to the Kudankulam Nuclear Power Plant, India&#8217;s largest nuclear power facility, have
+  🔗 https://inc42.com/buzz/files-related-to-indias-largest-nuclear-plant-surface-on-dark-web/
+
+- TVS’ Home Credit Acquires Varthana Finance To Expand Lending Footprint
+  TVS VENU Group-led NBFC Home Credit India has approved the complete acquisition of education-focused NBFC Varthana Finance.
+  🔗 https://inc42.com/buzz/tvs-home-credit-acquires-varthana-finance-to-expand-lending-footprint/
 
 - Why Punjab could define India’s new national security leadership | India News - Hindustan Times
   Why Punjab could define India’s new national security
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
-- Farmers hold bike rally against India-US trade deal in Punjab’s Hoshiarpur - The Indian Express
-  Farmers hold bike rally against India-US trade deal
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGJ5TUNIVnVtZ2NOYWZLQUhLQk91SGNjMnhRODFhb094Y04yODNqaEdTWTg1b2Y0aTdrVkp1SHRoNWtDMWVNbEFBanBGNVJZOG5XSElERzBYVE03NTduUWxaVDdoOFlEbmNBWjV5WFlpOWlQQlJQWG9kUHpVTEpGOC1WaTYxb1Y5ZC1RM3l2dzZUdkF1clRYY1gtQV9BdVhDdTY4TmtaVk5VMVgwalJqQngzSVdlclY0eWfSAcABQVVfeXFMTXloZmlMM3hxdkJCUG9OSExFYmR4bVRBYUQwdHJjZFZRT1BweWNjV2l3UU5ZdE1WU25uMmYzZE9LRkw2OVZJbUlZeXNlVEw3UDVvcXFQaGswcUdYdk9WaFI1SllEU3hNMFdLcE5VLTV3dDJWVHozOFJkLXlRelZLVnhIR2JtR0NCckFRTE9aSmtIUU1xTTRpcEV4TlNiTlR3SWkxMWpCQl9aMnM4VXFKMzdYd2hSUEpBRFpnNVJld05L?oc=5
+- India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
+  India-UK Trade Deal Kicks In: What
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
 
-- EXCLUSIVE: Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach - Reuters
-  Files relating to India’s largest nuclear power plant K
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxORkMzazNjc1U0Uk5pTUJ2bTBxaVl5UTR6VzZXSGpTY29VVXNSTzZvSG5KVEhJSGctWGZGelh0R0ZiV1YyUVRXSHZ1al9jNG5mNkhZa1dQVjY4Nm1MTW9HZjRkRDg1anU3YS05VG4wbmhvVnB1b29wU1BoVEtrWHhSaU1lTHBZVWJER3RnOUFLdGwxbUo5dXdGcGRBMVVnU1daaU1nNDhsQ200c1JHcjJfeWVSNDU5a1JVaG9KOHE3NXFlVko1N1NR?oc=5
+- India-UK Comprehensive Economic and Trade Agreement Comes into Force today - News On AIR
+  India-UK Comprehensive Economic and Trade Agreement Comes into
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2FoM29SMDU0S3VnYWNWb19XTGlhTUlwQXVkQjVfRzhWa1h4ZjV3TkRma2hweDRXa1BDME9Tek5TN1BqNlg4NlpicWNaaFFOX1VId0kxRmg3NnJPRi0tdXZSRlgyclowS0hfNEd1cHkxR3ZMZm1KWkI4d2ZOclN0SDBZbVZVUjd3OXRFeEpJMlhvemhpemFnY2M1M2dNUk9SdWc?oc=5
+
+- "Fair, Equitable, Balanced": Piyush Goyal Lauds India-EU Trade Deal - NDTV
+  "Fair, Equitable, Balanced
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNRzJQeHF5R3V2dElGUkdNQXo4WDBQNThkZ2FvVllRZGhoV2ZSekRUS0RrZkhtZVBfU3RjZEloY0pZWXRVeXFyZGxOZnYydU5EU1A4LWRlY1ppVmFhcWwybWhTUW1fWFBLTDdVNldLOHkzVDdyUzFJcWdtQWU1LUJZeUhNNDk1N2NJeHI0cGJqNVMyS09Gck1fcUd2N0RLeEo1RDFBWkxB0gGuAUFVX3lxTE5jbGhYYXFVc004RE5jLU9zNXd0aEFGRDJBV05fTGpGUHZqdlg0S0o2VUc5eTdOcU00S3IwWi0teXh5amd2RmJCVW1UdWg0MkU4dlduRzh2bzhZdnN0dWRjc296cWJZOXllR0xJeW9qYjZ2SVN3WW9OUHpGaVptTktZZnNuYmIwcmhqQlY3T3ZUWG12cVE2aWhnRGhLSTVXdGRpdjV3X0haTDhpMHhtUQ?oc=5
+
+- Cabinet approves Rs 25,000 cr Ganga, Varuna corridors for Varanasi - The Times of India
+  Cabinet approves Rs 25,000 cr Ganga
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPYW5UNXRfWHl4N3UwWC1PSjA0QVRud1ZVck1IYTMtcHVTTUUyMjl1ODhuaTl3M3VCYzRRX0lCZ0dfQV8yd05EeVdUeDVZYzB5SHlzOFMteWJ3VlI3dWVhZTZMUW9wN0lTaE0xRTlLRHJuTzJqUzVNRmZzaFU1RGJ5SkZISXZxLVZ5YkNXb0R3YW9uQXZXRkVxNW1qTkdnNUMzdmNELXpIU0dyRGFTcFBGVmYtQ0NZT1FHTHJXUHRTYTZ0Uk9Ic2ZsVmFTQm7SAdIBQVVfeXFMUDNMdmJzQllnM3NpM1picW1nYldBcHdKbk02cG9SZDllVnBIb25UV2E0VlVweEFyN1Y3bVpRRFU1QmZBcWFsNmRMVTRvc2NxdmpFY3VpeVptSzlvdWJfa0ZnNkhQZ3BxTFNDRVZJUjQ3bG1qcXo0b0NhU291ampVOXh1eHA3NU82ODBLeVpDeHlTUm9GVU5FWHBiYWQ5WTR3emI0c2tPcWtMSkptWFdZaWZBSlp4SFA3SU1fOURpODVTMDV3ZzZJdjBkaVluMFJQZGRn?oc=5
+
+- Why Punjab could define India’s new national security leadership | India News - Hindustan Times
+  Why Punjab could define India’s new national security
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
 - India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
   India-UK Trade Deal Kicks In: What
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
 
-- India-UK trade deal comes into effect: What’s cheaper in each country now? - Al Jazeera
-  India-UK trade deal comes into effect: What�
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVZCQkxJTm43bmdvM3RaUVdoV293YzRMRU1RaVF0N1RKaVgyamRiN1NWeFpyTXFGcUtFc0JrNndqV09ESU83aWdVUnZ2M3REbTI5ZE1CbjNTWXgwdjhtSEljVHRWaDVjWUVJN1BWMjRKcFRfaVNjTU9ra2gwRHVmd01qR1h2SGV4X25neGhuQnFxSWRsUDZVNzFmY2ZRc1lZaTkzNkV1NTJOOWFZUEREV1NR0gG3AUFVX3lxTE1NSi13S3lkTDdyUzVJODRBQ3hpNFo0b0wwYzhqejl3TDhPTGlXMm9hWU5sTDAxX2l0VGhGWGR4ZHNkRERJYl9KNWMwWnhDMjI1NnhCZjQ0dFRNRHNqUW1zc2MwWVFkVklYVS10YWJzMlBSQll5R2FndFBNOVVJV2JFYWE2QzZfenY4T0VxN3FQU3ZiZ3M1dXp1OTk1WktNU1VFWnZMMXlqU3hXN2wwMFBCbHlPamwxOA?oc=5
+- India-UK Comprehensive Economic and Trade Agreement Comes into Force today - News On AIR
+  India-UK Comprehensive Economic and Trade Agreement Comes into
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2FoM29SMDU0S3VnYWNWb19XTGlhTUlwQXVkQjVfRzhWa1h4ZjV3TkRma2hweDRXa1BDME9Tek5TN1BqNlg4NlpicWNaaFFOX1VId0kxRmg3NnJPRi0tdXZSRlgyclowS0hfNEd1cHkxR3ZMZm1KWkI4d2ZOclN0SDBZbVZVUjd3OXRFeEpJMlhvemhpemFnY2M1M2dNUk9SdWc?oc=5
+
+- "Fair, Equitable, Balanced": Piyush Goyal Lauds India-EU Trade Deal - NDTV
+  "Fair, Equitable, Balanced
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNRzJQeHF5R3V2dElGUkdNQXo4WDBQNThkZ2FvVllRZGhoV2ZSekRUS0RrZkhtZVBfU3RjZEloY0pZWXRVeXFyZGxOZnYydU5EU1A4LWRlY1ppVmFhcWwybWhTUW1fWFBLTDdVNldLOHkzVDdyUzFJcWdtQWU1LUJZeUhNNDk1N2NJeHI0cGJqNVMyS09Gck1fcUd2N0RLeEo1RDFBWkxB0gGuAUFVX3lxTE5jbGhYYXFVc004RE5jLU9zNXd0aEFGRDJBV05fTGpGUHZqdlg0S0o2VUc5eTdOcU00S3IwWi0teXh5amd2RmJCVW1UdWg0MkU4dlduRzh2bzhZdnN0dWRjc296cWJZOXllR0xJeW9qYjZ2SVN3WW9OUHpGaVptTktZZnNuYmIwcmhqQlY3T3ZUWG12cVE2aWhnRGhLSTVXdGRpdjV3X0haTDhpMHhtUQ?oc=5
+
+- Cabinet approves Rs 25,000 cr Ganga, Varuna corridors for Varanasi - The Times of India
+  Cabinet approves Rs 25,000 cr Ganga
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPYW5UNXRfWHl4N3UwWC1PSjA0QVRud1ZVck1IYTMtcHVTTUUyMjl1ODhuaTl3M3VCYzRRX0lCZ0dfQV8yd05EeVdUeDVZYzB5SHlzOFMteWJ3VlI3dWVhZTZMUW9wN0lTaE0xRTlLRHJuTzJqUzVNRmZzaFU1RGJ5SkZISXZxLVZ5YkNXb0R3YW9uQXZXRkVxNW1qTkdnNUMzdmNELXpIU0dyRGFTcFBGVmYtQ0NZT1FHTHJXUHRTYTZ0Uk9Ic2ZsVmFTQm7SAdIBQVVfeXFMUDNMdmJzQllnM3NpM1picW1nYldBcHdKbk02cG9SZDllVnBIb25UV2E0VlVweEFyN1Y3bVpRRFU1QmZBcWFsNmRMVTRvc2NxdmpFY3VpeVptSzlvdWJfa0ZnNkhQZ3BxTFNDRVZJUjQ3bG1qcXo0b0NhU291ampVOXh1eHA3NU82ODBLeVpDeHlTUm9GVU5FWHBiYWQ5WTR3emI0c2tPcWtMSkptWFdZaWZBSlp4SFA3SU1fOURpODVTMDV3ZzZJdjBkaVluMFJQZGRn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-15 13:28:13 UTC_
+_Last updated: 2026-07-15 19:06:39 UTC_
