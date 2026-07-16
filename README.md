@@ -1,212 +1,204 @@
 # 📰 Daily News Summaries
 
-- CAG finds Chhattisgarh’s mining welfare fund strayed from its core purpose
+- After Senapati tensions, CRPF deploys 100 bulletproof vehicles, revises Manipur strategy
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-mining-welfare-fund-cag-audit-10788546/
+  🔗 https://indianexpress.com/article/india/manipur-senapati-tensions-crpf-bulletproof-vehicles-strategy-10789654/
 
-- Shashi Tharoor appeals to Sonam Wangchuk to break fast, urges government to engage in talks
+- ‘We share the anguish and outrage’: Congress urges Sonam Wangchuk to end hunger strike
   
-  🔗 https://indianexpress.com/article/india/shashi-tharoor-letter-sonam-wangchuk-jantar-cjp-mantar-hunger-strike-10788577/
+  🔗 https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-congress-dharmendra-pradhan-10789669/
 
-- Mahadev app case: Bhupesh Baghel claims arrested Ebix chief was ‘getting protection from BJP’
+- Devotee dies, over 30 in hospital after Puri Rath Yatra crowd rush
   
-  🔗 https://indianexpress.com/article/india/mahadev-app-case-bhupesh-baghel-claims-arrested-ebix-chief-was-getting-protection-from-bjp-10788548/
+  🔗 https://indianexpress.com/article/india/puri-rath-yatra-crowd-crush-devotee-death-suffocation-lord-jagannath-chariot-festival-stampede-10789600/
 
-- Under proposed Bihar law, UG colleges will no longer report to Governor
+- Congress to oppose delimitation Bill, says BJP won’t get two-thirds majority
   
-  🔗 https://indianexpress.com/article/india/bihar-education-bill-monsoon-session-samrat-chaudhary-10788549/
+  🔗 https://indianexpress.com/article/india/parliament-monsoon-session-congress-delimitation-neet-ram-temple-issues-10789388/
 
-- India-UK trade deal kicks in: PM Narendra Modi says boost for farmers & MSMEs
+- Skyroot to launch Vikram-1, India’s first privately developed orbital rocket, on July 18
   
-  🔗 https://indianexpress.com/article/india/india-uk-trade-deal-kicks-in-pm-narendra-modi-says-boost-for-farmers-msmes-10788518/
+  🔗 https://indianexpress.com/article/india/skyroot-vikram-1-india-first-private-orbital-launch-10789367/
 
-- Artemis landings may contaminate Moon’s ancient ice, study finds
+- 40% long posts on LinkedIn are AI-generated, highest among social platforms: Study
   
-  🔗 https://indianexpress.com/article/technology/science/artemis-landings-may-contaminate-moons-ancient-ice-study-finds-10788022/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/linkedin-ai-saturated-long-posts-study-pangram-10789765/
 
-- Spotify rolls out AI voice and text assistant for music, podcasts and audiobooks
+- What is Thinking Machines’ first AI model ‘Inkling’, and how is it different from ChatGPT, Claude?
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-rolls-out-ai-voice-and-text-assistant-for-music-podcasts-and-audiobooks-10787971/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-thinking-machines-first-ai-model-inkling-10789620/
 
-- OpenAI’s GPT-5.6 Sol users report missing files, deleted databases: Here’s what we know
+- Apple Maps ads to ban home services, crypto ATMs as ad rollout nears
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-sol-ai-users-missing-files-10787913/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-maps-ads-to-ban-home-services-crypto-atms-as-ad-rollout-nears-10789532/
 
-- OpenAI’s first AI hardware device may be a smart speaker with cameras and ChatGPT
+- Nvidia unveils Jetson Thor T3000, T2000 modules to accelerate robotics
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openais-first-ai-hardware-device-may-be-a-smart-speaker-with-cameras-and-chatgpt-10787632/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-jetson-thor-t3000-t2000-modules-robotics-10789193/
 
-- Should parents use digital screens to calm their children? New study finds no simple answer
+- Sophos launches unified, AI-native defense system to counter next wave of cyber attacks
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/parents-screens-calm-children-new-study-findings-10787606/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sophos-fusion-ai-native-defense-system-cyber-attacks-10789186/
 
-- Bodhi Tree in advanced talks to buy stake in Adyar Ananda Bhavan at  ₹3,000-3,500 crore valuation
-  The development comes amid rising investor interest in India's restaurant and QSR space.
-  🔗 https://www.livemint.com/companies/news/adyar-ananda-bhavan-revive-stake-plan-at-up-to-rs-3-500-cr-valuation-11784113624627.html
+- Uber in $15 billion deal for Delivery Hero to create global takeout giant
+  The acquisition advances the U.S. ride-hailing firm's efforts to build a global food-delivery business.
+  🔗 https://www.livemint.com/companies/news/uber-in-15-billion-deal-for-delivery-hero-to-create-global-takeout-giant-11784205612960.html
 
-- Kunal Shah steps down as promoter, board member of Cred on joining WhatsApp
-  It is not clear whether Shah stepped down because of a
-  🔗 https://www.livemint.com/companies/people/kunal-shah-promoter-board-member-cred-whatsapp-meta-platforms-shareholding-11784023818673.html
+- RMZ to sell ‘office condos’ for  ₹6,500 crore to family offices
+  Office leasing and investment volumes in commercial real estate have been rising in India. The growth in investment volume comes on the back of sustained interest from domestic institutions,
+  🔗 https://www.livemint.com/companies/news/rmz-office-condos-family-offices-india-real-estate-office-leasing-reits-11784005881472.html
 
-- Packaging is the new preservative as food companies drive healthier snacking
-  In the absence of preservatives, companies are turning to new types of packaging to keep their products fresh and intact.
-  🔗 https://www.livemint.com/companies/news/packaging-preservatives-food-healthier-snacking-laminated-packs-fmcg-itc-fabelle-dairy-beverages-11784099435658.html
+- From handcart in 1960 to 1,300 flavours: How an Ahmedabad family built an Ice cream brand
+  Shankar Ice Cream Library began as a hand-churned ice cream cart on the streets of Ahmedabad in 1960. The brand now has more than 1,300 proprietary flavours.
+  🔗 https://www.livemint.com/companies/people/from-handcart-in-1960-to-1-300-flavours-how-an-ahmedabad-family-built-an-ice-cream-brand-11784200091088.html
 
-- OnePlus is planning to exit all non-Chinese markets, including India, by 2027: Report
-  OnePlus will begin exiting the US and Europe this week. India departure to follow by 2027, as parent
-  🔗 https://www.livemint.com/companies/news/oneplus-is-planning-to-exit-all-non-chinese-markets-including-india-by-2027-realme-oppo-11784136496644.html
+- Blackstone appoints Ami Momaya to lead India infrastructure investments
+  Momaya joins as managing director and head of infrastructure for India. Private equity firm builds its first dedicated
+  🔗 https://www.livemint.com/companies/people/blackstone-appoints-ami-momaya-to-lead-india-infrastructure-investments-11784198343318.html
 
-- Morgan Stanley tops Q2 estimates as dealmaking, trading revenue hit record highs
-  Morgan Stanley surpasses $10 trillion in wealth management
-  🔗 https://www.livemint.com/companies/company-results/morgan-stanley-tops-q2-estimates-as-dealmaking-trading-revenue-hit-record-highs-11784134875079.html
+- AI-driven cyberthreats spark revenue, funding surge for cybersecurity startups
+  Investor interest in cybersecurity has strengthened with funding that almost doubled to $89 million in H1 2026 from $
+  🔗 https://www.livemint.com/companies/start-ups/ai-cyberattacks-drive-growth-for-indian-cybersecurity-startups-11784187704292.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 16 July
-  Gift Nifty was trading around 24,080 level, a premium of nearly 12 points from the Nifty futures’ previous close. The trends on Gift Nifty also
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-16-july-11784166528880.html
+- Jio Financial Services Q1 results: Net profit jumps 156% YoY to  ₹830 crore, revenue tops  ₹2,000 crore
+  Jio Financial Services reported a Q1 FY27 net profit of  ₹830 crore, up 156% YoY and 205% sequentially. Despite rising expenses, strong core income drove
+  🔗 https://www.livemint.com/market/jio-financial-services-q1-results-net-profit-jumps-156-yoy-to-rs-830-crore-revenue-tops-rs-2-000-crore-11784206444730.html
 
-- Asian stocks today: Kospi, Nikkei extend losses, plunge up to 6% amid sell-off in chip stocks
-  South Korea's Kospi dropped more than 6%. Meanwhile,
-  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-extend-losses-plunge-up-to-6-amid-sell-off-in-chip-stocks-11784165210140.html
+- US stock market today: Wall Street futures edge lower as chip stocks retreat; crude oil extends gains
+  US stock futures fluctuated as investors remained cautious over Middle East tensions. While S&amp;amp;P 500 and Nasdaq futures fell, Dow futures gained.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-edge-lower-as-chip-stocks-retreat-crude-oil-extends-gains-11784202841025.html
 
-- From Gift Nifty, US-Iran war, oil prices to Kospi’s crash: 8 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 24,106 level, a premium of nearly 39 points from the Nifty futures’
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-war-oil-prices-to-kospi-s-crash-8-key-things-that-changed-for-indian-stock-market-overnight-11784165293901.html
+- Tech Mahindra Q1 Results 2026: Consolidated net profit rises over 28% to  ₹1,465 crore, revenue up 15% - Key takeaways
+  Tech Mahindra reported a consolidated net profit of  ₹1465.1 crore for Q1 2026. Revenue from operations rose 15
+  🔗 https://www.livemint.com/market/stock-market-news/tech-mahindra-q1-results-2026-consolidated-net-profit-rises-over-28-to-rs-1-465-crore-revenue-up-15-11784190278654.html
 
-- Crude oil prices rise for 4th session amid escalating US-Iran war; Brent likely to hit $110/bbl, says Goldman Sachs
-  Brent crude futures rose 33 cents, or 0.4%, to $85.28
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-rise-for-4th-session-amid-escalating-us-iran-war-brent-likely-to-hit-110-bbl-says-goldman-sachs-11784163944139.html
+- Wipro Q1 results: Profit remains flat YoY at  ₹3,352 crore; declares interim dividend of  ₹2
+  Wipro Q1 results: Wipro reported a 0.65% year-on-year rise in its
+  🔗 https://www.livemint.com/market/stock-market-news/wipro-q1-results-profit-remains-flat-at-3352-crore-dividend-declared-11784188416404.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 16 July 2026
-  The Indian stock market ended Wednesday's session on a higher note. Sumeet Bagadia
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-16-july-2026-11784134080670.html
+- Reliance Q1 Results Preview: O2C, Jio to drive earnings - Key things to watch out for
+  Reliance Industries is set to announce Q1 FY27 results on July 17. The O2C segment is likely to recover, while retail performance remains mixed. Analysts predict revenue growth
+  🔗 https://www.livemint.com/market/stock-market-news/ril-q1-preview-reliance-q1-results-preview-o2c-reliance-jio-to-drive-earnings-key-things-to-watch-out-for-11784187766702.html
 
-- Cabinet approves  ₹1.9 tn push for chips, mobiles to deepen local manufacturing
-  At the centre of the package is Semicon 2.0, a  ₹1.27 trillion programme aimed at helping Indian firms design chips, generate patents. The cabinet
-  🔗 https://www.livemint.com/technology/cabinet-approves-1-9-tn-push-for-chips-mobiles-to-deepen-local-manufacturing-11784126818196.html
+- BGMI 4.5 update: Naruto themed maps, Spider-Man mode, Ferrari cars and everything new
+  Naruto-themed gameplay mode. Spider-Man crossover, licensed Ferrari vehicles, and anniversary rewards.
+  🔗 https://www.livemint.com/technology/tech-news/bgmi-4-5-update-naruto-themed-maps-spider-man-mode-ferrari-cars-and-everything-new-11784190497814.html
 
-- Motorola Edge 70 Max launched in India with Snapdragon 8 Gen 5, 7,100mAh battery: Check price, specs and launch offers
-   Motorola Edge 70 Max has launched in India with the Snapdragon 8 Gen 5 chipset, a 7,100mAh battery, 2K AMOLED display,
-  🔗 https://www.livemint.com/technology/gadgets/motorola-edge-70-max-launched-in-india-with-snapdragon-8-gen-5-7-100mah-battery-price-specificationscheck-price-spec-11784097616505.html
+- Vivo T5 Lite 44W 5G in India with 120Hz display, 6,500mAh battery:  Check price and specs
+  The Vivo T5 Lite 44W features a 6.74-
+  🔗 https://www.livemint.com/technology/gadgets/vivo-t5-lite-44w-5g-in-india-with-120hz-display-6-500mah-battery-check-price-and-specs-11784185070429.html
 
-- OpenAI's first AI device may know your emails, control your home and talk like a human
-  OpenAI is developing a portable AI-powered smart speaker as its first consumer hardware product. The
-  🔗 https://www.livemint.com/technology/tech-news/openais-first-ai-device-may-know-your-emails-control-your-home-and-talk-like-a-human-11784086487376.html
+- Apple reveals businesses that won't be allowed to advertise on Apple Maps
+  Apple plans to introduce ads on Apple Maps
+  🔗 https://www.livemint.com/technology/tech-news/apple-reveals-businesses-that-wont-be-allowed-to-advertise-on-apple-maps-11784182863312.html
 
-- Spotify down? Over 4,500 users report music streaming platform outage in US
-  "Is Spotify
-  🔗 https://www.livemint.com/technology/spotify-down-over-4-500-users-report-music-streaming-platform-outage-in-us-11784034607996.html
+- Microsoft trains sales team to talk down OpenAI, Anthropic AI models, pitches itself as 'full AI platform': Report
+  Microsoft is training sales teams to compete against Anthropic and OpenAI
+  🔗 https://www.livemint.com/technology/tech-news/microsoft-trains-sales-team-to-talk-down-openai-anthropic-ai-models-pitches-itself-as-full-ai-platform-report-11784179281506.html
 
-- Sam Altman tears into Anthropic's latest AI safety ad: ‘Thought this was satire’
-  OpenAI CEO Sam Altman criticized Anthropic's new
-  🔗 https://www.livemint.com/technology/tech-news/sam-altman-tears-into-anthropics-latest-ai-safety-ad-thought-this-was-satire-11784015108664.html
+- Google to allow third-party app stores inside Play Store from next week after Epic lawsuit
+  Google will permit third-party app stores on its Play Store in the US starting next week
+  🔗 https://www.livemint.com/technology/tech-news/google-to-allow-third-party-app-stores-inside-play-store-from-next-week-after-epic-lawsuit-11784172668758.html
 
-- Breakout above key resistance makes Chalet Hotels a buy: Shitij Gandhi
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/breakout-above-key-resistance-makes-chalet-hotels-a-buy-shitij-gandhi/videoshow/132408851.cms
+- Jio Financial Q1 Results: Profit skyrockets 155% YoY to Rs 830 crore
+  Jio Financial reported 155% year-on-year (YoY) growth in its consolidated net profit at Rs 830 crore in the first quarter
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q1-results-profit-skyrockets-156-yoy-to-rs-830-crore/articleshow/132440198.cms
 
-- Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict
-  Brent crude futures rose to $85.28 a barrel and WTI futures reached $80.02. U.S. crude inventories fell by 1.7 million barrels last week.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-for-4th-day-as-us-strikes-on-iran-raise-fears-of-wider-conflict/articleshow/132427457.cms
+- US Data Watch: 13 Nasdaq 100 stocks deliver multibaggers return in CY26
+  Thirteen Nasdaq 100 stocks have turned multibaggers in CY26, led by AI, semiconductors
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-data-watch-13-nasdaq-100-stocks-deliver-multibaggers-return-in-cy26/slideshow/132440115.cms
 
-- D-St set for a positive opening as GIFT Nifty signals firm start
-  A weaker rupee and firm crude oil prices contributed to cautious investor sentiment. India VIX, a fear gauge, saw a notable decrease during the session.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132427427.cms
+- BHEL among 6 midcap stocks that hit 52-week highs and rallied up to 20% in a month
+  Despite a flat Sensex close, six BSE 150 MidCap stocks hit fresh 52-week highs. This signals strong buying interest, improving investor
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bhel-among-6-midcap-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/132439796.cms
 
-- Stocks in news: Wipro, Jio Financial, HDB Financial, HDFC AMC, SBI
-  Wipro and Jio Financial announced their first quarter results today. Angel One reported a strong quarter with significant year-on-year profit growth. HDB Financial and HDFC AMC also posted increased profits for the June quarter.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-wipro-jio-financial-hdb-financial-hdfc-amc-sbi/articleshow/132427409.cms
+- Polycab Q1 Results: Profit surges 33% YoY to Rs 797 crore, revenue jumps 39%
+  Polycab India delivered its strongest-ever first quarter, with revenue rising 39% and net profit increasing 33%. Management expects infrastructure spending, capacity expansion and distribution growth to sustain
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/polycab-q1-results-profit-surges-33-yoy-to-rs-797-crore-revenue-jumps-39/articleshow/132439305.cms
 
-- Global Market Today: Asian equities drop led by Kospi, oil extends gain
-  Government bonds in Australia and New Zealand opened higher after US inflation data. Traders reduced expectations for Federal Reserve interest rate increases this year. Asian stocks declined as semiconductor shares faced renewed selling pressure.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-equities-drop-led-by-kospi-oil-extends-gain/articleshow/132427394.cms
+- Market wrap: ICICI Lombard, IndiGo among top gainers &amp; losers on Nifty and Sensex today
+  Analysts expect Q1 earnings to drive stock-specific action. Nifty remains in a consolidation phase with key support near 24,000 and resistance around 24,300.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-icici-lombard-indigo-among-top-gainers-losers-on-nifty-and-sensex-today/articleshow/132439120.cms
+
+- Inside Cosmos Diamonds’ Bootstrapped Push Into India’s Lab-Grown Jewellery Market
+   Cosmos Diamonds’ Bootstrapped Push Into India’s Lab-Grown Jewellery Market.
+  🔗 https://inc42.com/startups/inside-cosmos-diamonds-bootstrapped-push-into-indias-lab-grown-jewellery-market/
+
+- Aina Raises $5.5 Mn From Info Edge, Others To Build AI Hardware Interface
+  AI hardware interface startup Aina has emerged from stealth with a $5.5 Mn (about ₹53 Cr) seed funding round.
+  🔗 https://inc42.com/buzz/aina-raises-5-5-mn-from-info-edge-ventures-360-one-asset-to-build-ai-native-interfaces/
+
+- Aurum PropTech To Acquire Housing.com For ₹458 Cr
+  Listed real estate tech company Aurum PropTech has approved the acquisition of 100% of Locon Solutions.
+  🔗 https://inc42.com/buzz/aurum-proptech-to-acquire-housing-com-for-%e2%82%b9458-cr/
+
+- Former Rippling Cofounder Prasanna Sankar Raises $15 Mn For Vorflux After 0xPPL Shutdown
+  Former Rippling cofounder Prasanna Sankar has launched enterprise AI software engineering startup Vorflux.
+  🔗 https://inc42.com/buzz/former-rippling-cofounder-prasanna-sankar-raises-15-mn-for-vorflux-after-0xppl-shutdown/
+
+- Beauty Products Manufacturer Naturis Cosmetics Nets ₹100 Cr To Expand Capacity
+  Beauty and personal care (BPC) manufacturer Naturis Cosmetics has raised around $11.8 Mn.
+  🔗 https://inc42.com/buzz/beauty-products-manufacturer-naturis-cosmetics-nets-%e2%82%b9100-cr-to-expand-capacity/
+
+- El Nino May Make History This Year: What It Means For India - NDTV
+  El Nino may make history this year: What
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXVubXZQY0pvQ2t0QnFleGZQNXNab1pqYV8zTmxCeE9yTFJwc0FkVnNOa3pHbXp1YkhkclVrSmR2RzdQdkxCajNmWk5DSHFKVTNyV2E5Tm53VHVOUUVzQzBRTkVFUGx3Q0YyaE1VQTZFTjN4d203WkFtdE00Nk9BcjhZbTl1Y1RqZEpJWDktQU94YnF1aEZ2T3RMQXBhTnhG0gGoAUFVX3lxTE15ZWhUS2s2ZnNLMF9IS0pSRndVNWhQc3JISXFZLWo5eTNzY1ozSGlMSU1zTzlHWXNDWGVyUzFTeDNETWpOM19tSnpnd2g1bktfWUFERnF6X3JsSENrWE9ZYXVGTDNXVFJsUjhmS2hwUVBVRlU1Vl91Q05rcm03UHFjb2lRd3FoYmRMQmhFbENYVEt2Q3FmNnBtcmROcnRmd1c0SUUwMWpNSA?oc=5
 
 - Why Punjab could define India’s new national security leadership | India News - Hindustan Times
   Why Punjab could define India’s new national security
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
-- BJP turns PM Modi visits to states into 'swachh' drives - The Times of India
-  The Times of India published a front-page story on
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWhDWUhiSk83RTF5SlpvU3ZucndlMlloMlo3OU9sZk15ZFJneHZwNDE4SDdldXdBN1VCVC1DWmlneHZCX1dWcjRENlpDMS1UN28wQXVmcjhIS3J3ZTl2LUhsaWltbXpLQWxUSi1MMGJ3Yzl3WGZ4STBlbE1EbG03Mm1uVUx1YzRsbGc0Y0UwVHVaaFJiNmJ1WUhVbkNidXFVYkFnLW1sSDNjREUtRldjOTh3bUhlb3BmQy1weWNB0gHDAUFVX3lxTE1KaDdOVF9yS1F4OTNuTFNVbWFsV0NxY2xxdXYtR29YRWNYLUdoQTZzQXhIMnJWMDZLR3NpTndPVVlWbk1KOHpwdHdkMF9iOUFlTFpHVjBlQkplZXU0akVJZXZxME9ZVHc0U2JUajRGMlF0UHdJeW43MFZZSjZSX09JQ1B1Rjh4ZWhoeXYtS2tLWWdJREh1eWhJWXJKemhlQV9VVWdHUXpDRkxlNlV3TFE3bS11UFljSWVfWG1zQlN6M2pCZw?oc=5
+- India Achieves Historic Foodgrain Output of 376 Million Tonnes: Union Agriculture Minister - News On AIR
+  India Achieves Historic Foodgrain Output of 376 Million Ton
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdURuYy1SMUxsTGNyXy11Zi1RRmlULS1mam9wbWxqRnN6X2k2WC1iWUdPbDVqUERsM0xVc2hVRG43ZDlBMk5Ub3oxR2Z0TnBSZEFiZDBSZHJUYWszdkh2WnVldXhka0dHaER5dUdGQnI5SUQ4aDN3RWZEZkFGVlpMWEY1NlBKWUlpejRWc3VIak1NbE5BT0hyMjJZVGNYTjQ3SlNZcmx5UDFhQi02VUZBOG55Rksydw?oc=5
 
-- EAM Dr S Jaishankar says India-EU partnership gaining strong momentum - News On AIR
-  EAM Dr S Jaishankar says India
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlItR2hTOGtQNzZsNEFSTFJycEZOR3diTDNSVF8tWkVwMHNoQi1USHNVanpvcE5idUJFa1RqcG0tUm9VT1EzR0NLZExyU1RoUE1qYlpwcXhScnVuTUtMRGUwdHBsOEF4NWVWLUxMUmRqY0dYZkhPYURTcG1kbWpWTVNGcWJxeTRVT0IxRV9vdXBuLW9ZQXNlWmhyQQ?oc=5
+- Sonam Wangchuk: Indian activist urged to end hunger strike as he loses 9.1kg in 19 days - BBC
+  Sonam Wangchuk has been on a hunger strike for 19 days.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IZG1KaUY3ZGpRZVRDTElrM21HZHExU3BIQXNGMFZ5RWdVdW1JbUxRTTJhV3JpR0ROUXdLNDdDbGVlRTE0RnRoMkJWTExuTlRmbzljeHZTUng4Zw?oc=5
 
-- NPCIL denies ‘sensitive data breach’ at Kudankulam nuclear plant project - The Hindu
-  NPCIL denies ‘sensitive data breach
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDcxMjFMLXBud2ZlZmx1R0RZWExqQXVSLUYxbWpodm5tUWtiU3pPZlNta01ja3hZVjZUMFdiaC03OE1Ya1htcWZWZFpMNFNtaGMxWUNEakhpdkp2Qlh6QmYtWmJtak83LVNfSUpyenRMUWNyYUU4QlFoTHdHbVc3SkZWTDdRUnpyaTV4dWJYRXZlVERibE9IbVdueEsxd19semloRlBXQnlGZEVjUU12U0VLM3REbk8yUnNWcmpkM2dMUy1ZcHJZUDNaSVpEVndZWjVVNGtNVTI1OTFqdGZyZnE3NWZJMkpESzVCbtIB8wFBVV95cUxPUmhiLVZZc2xLSWxtM3VleXBEVEkzT0NTOWdKQUZ3UUc2bjh1c1lNMGluT1NFendoekVPeE9ZQUo3RjNzUXdpelRydDFNTFVWSmhRbHR0RDJnVGJ3TUZack9zM0ZQUEZFbUQ0M1NYaF92MzJfbVZyQVdRVVdpUlhwZXhsN3BnY2h6YW5DUi13bng1Z3BDRldQSjVaNHZpS05MLW05dVR3ejFnU0M0RVpVT2pYOVRtbEVkMm1IWFV6a2RsVlpFa1FrZ3hReG56UktfdFRXOWFwSzkyYTV1cFo2MkxDV192WGZhbGstU2k5R1c0LW8?oc=5
+- "Do Whatever It Takes To Save Sonam Wangchuk's Life": High Court To Centre - NDTV
+  "Do Whatever It Takes To Save Sonam Wangchuk
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFp1UUt0U3FEcXhrZGRNU2VsaUhDWk0wRGg1cHVfNE90T01SaGlxUVMwLXlKOTI4UldwUkRWaVUycTc1XzBsR0NJS0NTMmZjX0l4MWZGZzVwMV9QMkdSQkdQTFVxTXphbExsX1huS2s5RXc2Yk5fS2pzV1ZIMkhrZTdQU0tZbHhCemlYZmJSb0tOeXQybGNjU2JQTWtZMzdTdlI4d3lBa1BVZlVpQmVRZlhPbHJSeENWSzhKWjRpWjMxVFY0YWs5REl5RdIB0wFBVV95cUxOVVZrV25RVlVnN2pXRUlBZ1o3SThSN1pWdDlrOVN1QW90TllGUU9rUHpIUUZ1clhEcnU2LWN1Y1AxX3Fwc0I3NFk5UzJocVc1WmJTU1A5VU9SMDIwUUkwSnB0SFNyZkZEWEZ2MkZrTVpFTjhuMWs1M1Bfc2FNak9xNk8yV05PcHRPdEtSTEFjX3VvMHRLMHBSdThINm54WnhKVUlxeERuczdRNkhJS0ZVYTJ2Mmt1Q0czWjNrNXlUSjNRcm01UXNxQ2VUOTBsaUU2WTh3?oc=5
 
-- Ghaziabad Man Begged For Help For 40 Minutes, Bled To Death Outside Police Booth - NDTV
-  Ghaziabad Man Begged For Help For 40 Minutes,
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tUU3ctLXl0VjlYOWNuX1pOWmJXakl4M3ZaYXR6dFpJRUtlM25XSVZLT0Z0WDdoam9iaTdSVFdMRXo0SXJXU1lTWS1ucUtyaHRfUC0tSzRQcDN4czV4ZjROQ18xZWlHXzJDbFMtX29YamYtZDAzWUhrMmQ5dTQzR1VESkR6TWZxUnZFOU1QZmhtdnhYSHNyd294OTFkN1JwcWFBMC0yb9IBrwFBVV95cUxPN1ZrQ19LWGg2WU0xUWR1YnZXdG1ENHhfLUkwQjRIMU40Y2FCUFhKaXdCV2xvb3ZaZ2F4NUFyMUs0a3ZLcjVZZGJOdm5iUUJZODVCN1JJUG5SQ2hNcHEzVlpNNjVnTHJ6ZTEyVF9yTzdmSHg3bVM2T0VKa2tIVEZreVIwV19oZVVqYWt5WkxaREo0eFVUd1kwY2o1b3NselhpSTRnbU1tSjloNmZlRXdN?oc=5
-
-- Ather Opens QIP, Sets Floor Price Of ₹1,169.70 Per Share
-  Ather Energy has now opened a qualified institutional placement (QIP) to&#8230.
-  🔗 https://inc42.com/buzz/ather-opens-qip-sets-floor-price-of-%e2%82%b91169-70-per-share/
-
-- Peak XV-Backed Finova Capital’s FY26 PAT Dips 11% To ₹165 Cr
-  Finova Capital recorded an 11% year-on-year (YoY) decline in its net profit for the fiscal.
-  🔗 https://inc42.com/buzz/peak-xv-backed-finova-capitals-fy26-pat-dips-11-to-%e2%82%b9165-cr/
-
-- Indian Unicorn Tracker: Funding, Investors, Revenue And More
-  The year 2026 has begun on a strong note for India’s startup ecosystem. Juspay became the first unicorn of the year
-  🔗 https://inc42.com/features/indian-unicorn-tracker-funding-investors-revenue-and-more/
-
-- Files Related To India’s Largest Nuclear Plant Surface On Dark Web
-  Thousands of files linked to the Kudankulam Nuclear Power Plant, India&#8217;s largest nuclear power facility, have
-  🔗 https://inc42.com/buzz/files-related-to-indias-largest-nuclear-plant-surface-on-dark-web/
-
-- TVS’ Home Credit Acquires Varthana Finance To Expand Lending Footprint
-  TVS VENU Group-led NBFC Home Credit India has approved the complete acquisition of education-focused NBFC Varthana Finance.
-  🔗 https://inc42.com/buzz/tvs-home-credit-acquires-varthana-finance-to-expand-lending-footprint/
+- El Nino May Make History This Year: What It Means For India - NDTV
+  El Nino may make history this year: What
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXVubXZQY0pvQ2t0QnFleGZQNXNab1pqYV8zTmxCeE9yTFJwc0FkVnNOa3pHbXp1YkhkclVrSmR2RzdQdkxCajNmWk5DSHFKVTNyV2E5Tm53VHVOUUVzQzBRTkVFUGx3Q0YyaE1VQTZFTjN4d203WkFtdE00Nk9BcjhZbTl1Y1RqZEpJWDktQU94YnF1aEZ2T3RMQXBhTnhG0gGoAUFVX3lxTE15ZWhUS2s2ZnNLMF9IS0pSRndVNWhQc3JISXFZLWo5eTNzY1ozSGlMSU1zTzlHWXNDWGVyUzFTeDNETWpOM19tSnpnd2g1bktfWUFERnF6X3JsSENrWE9ZYXVGTDNXVFJsUjhmS2hwUVBVRlU1Vl91Q05rcm03UHFjb2lRd3FoYmRMQmhFbENYVEt2Q3FmNnBtcmROcnRmd1c0SUUwMWpNSA?oc=5
 
 - Why Punjab could define India’s new national security leadership | India News - Hindustan Times
   Why Punjab could define India’s new national security
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
-- BJP turns PM Modi visits to states into 'swachh' drives - The Times of India
-  The Times of India published a front-page story on
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWhDWUhiSk83RTF5SlpvU3ZucndlMlloMlo3OU9sZk15ZFJneHZwNDE4SDdldXdBN1VCVC1DWmlneHZCX1dWcjRENlpDMS1UN28wQXVmcjhIS3J3ZTl2LUhsaWltbXpLQWxUSi1MMGJ3Yzl3WGZ4STBlbE1EbG03Mm1uVUx1YzRsbGc0Y0UwVHVaaFJiNmJ1WUhVbkNidXFVYkFnLW1sSDNjREUtRldjOTh3bUhlb3BmQy1weWNB0gHDAUFVX3lxTE1KaDdOVF9yS1F4OTNuTFNVbWFsV0NxY2xxdXYtR29YRWNYLUdoQTZzQXhIMnJWMDZLR3NpTndPVVlWbk1KOHpwdHdkMF9iOUFlTFpHVjBlQkplZXU0akVJZXZxME9ZVHc0U2JUajRGMlF0UHdJeW43MFZZSjZSX09JQ1B1Rjh4ZWhoeXYtS2tLWWdJREh1eWhJWXJKemhlQV9VVWdHUXpDRkxlNlV3TFE3bS11UFljSWVfWG1zQlN6M2pCZw?oc=5
+- India Achieves Historic Foodgrain Output of 376 Million Tonnes: Union Agriculture Minister - News On AIR
+  India Achieves Historic Foodgrain Output of 376 Million Ton
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdURuYy1SMUxsTGNyXy11Zi1RRmlULS1mam9wbWxqRnN6X2k2WC1iWUdPbDVqUERsM0xVc2hVRG43ZDlBMk5Ub3oxR2Z0TnBSZEFiZDBSZHJUYWszdkh2WnVldXhka0dHaER5dUdGQnI5SUQ4aDN3RWZEZkFGVlpMWEY1NlBKWUlpejRWc3VIak1NbE5BT0hyMjJZVGNYTjQ3SlNZcmx5UDFhQi02VUZBOG55Rksydw?oc=5
 
-- EAM Dr S Jaishankar says India-EU partnership gaining strong momentum - News On AIR
-  EAM Dr S Jaishankar says India
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlItR2hTOGtQNzZsNEFSTFJycEZOR3diTDNSVF8tWkVwMHNoQi1USHNVanpvcE5idUJFa1RqcG0tUm9VT1EzR0NLZExyU1RoUE1qYlpwcXhScnVuTUtMRGUwdHBsOEF4NWVWLUxMUmRqY0dYZkhPYURTcG1kbWpWTVNGcWJxeTRVT0IxRV9vdXBuLW9ZQXNlWmhyQQ?oc=5
+- Sonam Wangchuk: Indian activist urged to end hunger strike as he loses 9.1kg in 19 days - BBC
+  Sonam Wangchuk has been on a hunger strike for 19 days.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IZG1KaUY3ZGpRZVRDTElrM21HZHExU3BIQXNGMFZ5RWdVdW1JbUxRTTJhV3JpR0ROUXdLNDdDbGVlRTE0RnRoMkJWTExuTlRmbzljeHZTUng4Zw?oc=5
 
-- NPCIL denies ‘sensitive data breach’ at Kudankulam nuclear plant project - The Hindu
-  NPCIL denies ‘sensitive data breach
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDcxMjFMLXBud2ZlZmx1R0RZWExqQXVSLUYxbWpodm5tUWtiU3pPZlNta01ja3hZVjZUMFdiaC03OE1Ya1htcWZWZFpMNFNtaGMxWUNEakhpdkp2Qlh6QmYtWmJtak83LVNfSUpyenRMUWNyYUU4QlFoTHdHbVc3SkZWTDdRUnpyaTV4dWJYRXZlVERibE9IbVdueEsxd19semloRlBXQnlGZEVjUU12U0VLM3REbk8yUnNWcmpkM2dMUy1ZcHJZUDNaSVpEVndZWjVVNGtNVTI1OTFqdGZyZnE3NWZJMkpESzVCbtIB8wFBVV95cUxPUmhiLVZZc2xLSWxtM3VleXBEVEkzT0NTOWdKQUZ3UUc2bjh1c1lNMGluT1NFendoekVPeE9ZQUo3RjNzUXdpelRydDFNTFVWSmhRbHR0RDJnVGJ3TUZack9zM0ZQUEZFbUQ0M1NYaF92MzJfbVZyQVdRVVdpUlhwZXhsN3BnY2h6YW5DUi13bng1Z3BDRldQSjVaNHZpS05MLW05dVR3ejFnU0M0RVpVT2pYOVRtbEVkMm1IWFV6a2RsVlpFa1FrZ3hReG56UktfdFRXOWFwSzkyYTV1cFo2MkxDV192WGZhbGstU2k5R1c0LW8?oc=5
+- "Do Whatever It Takes To Save Sonam Wangchuk's Life": High Court To Centre - NDTV
+  "Do Whatever It Takes To Save Sonam Wangchuk
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFp1UUt0U3FEcXhrZGRNU2VsaUhDWk0wRGg1cHVfNE90T01SaGlxUVMwLXlKOTI4UldwUkRWaVUycTc1XzBsR0NJS0NTMmZjX0l4MWZGZzVwMV9QMkdSQkdQTFVxTXphbExsX1huS2s5RXc2Yk5fS2pzV1ZIMkhrZTdQU0tZbHhCemlYZmJSb0tOeXQybGNjU2JQTWtZMzdTdlI4d3lBa1BVZlVpQmVRZlhPbHJSeENWSzhKWjRpWjMxVFY0YWs5REl5RdIB0wFBVV95cUxOVVZrV25RVlVnN2pXRUlBZ1o3SThSN1pWdDlrOVN1QW90TllGUU9rUHpIUUZ1clhEcnU2LWN1Y1AxX3Fwc0I3NFk5UzJocVc1WmJTU1A5VU9SMDIwUUkwSnB0SFNyZkZEWEZ2MkZrTVpFTjhuMWs1M1Bfc2FNak9xNk8yV05PcHRPdEtSTEFjX3VvMHRLMHBSdThINm54WnhKVUlxeERuczdRNkhJS0ZVYTJ2Mmt1Q0czWjNrNXlUSjNRcm01UXNxQ2VUOTBsaUU2WTh3?oc=5
 
-- Ghaziabad Man Begged For Help For 40 Minutes, Bled To Death Outside Police Booth - NDTV
-  Ghaziabad Man Begged For Help For 40 Minutes,
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tUU3ctLXl0VjlYOWNuX1pOWmJXakl4M3ZaYXR6dFpJRUtlM25XSVZLT0Z0WDdoam9iaTdSVFdMRXo0SXJXU1lTWS1ucUtyaHRfUC0tSzRQcDN4czV4ZjROQ18xZWlHXzJDbFMtX29YamYtZDAzWUhrMmQ5dTQzR1VESkR6TWZxUnZFOU1QZmhtdnhYSHNyd294OTFkN1JwcWFBMC0yb9IBrwFBVV95cUxPN1ZrQ19LWGg2WU0xUWR1YnZXdG1ENHhfLUkwQjRIMU40Y2FCUFhKaXdCV2xvb3ZaZ2F4NUFyMUs0a3ZLcjVZZGJOdm5iUUJZODVCN1JJUG5SQ2hNcHEzVlpNNjVnTHJ6ZTEyVF9yTzdmSHg3bVM2T0VKa2tIVEZreVIwV19oZVVqYWt5WkxaREo0eFVUd1kwY2o1b3NselhpSTRnbU1tSjloNmZlRXdN?oc=5
+- The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard) - The New York Times
+  The Quest for ‘Technological Sovereignty’ in Europe
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE01aThfM3F5OXZRWEViT3k3ODFXdzdLOWZ5dDg1NjhQSlRHRUwwVWZueGxSclppNG5HSlEzSDNpVEdhOGdTdXZyaTl4Nk5NclJyRDc1RGE0OTBxWU0yUVBwd1BzUTE3UnNLdHkxOVBMdU1Gc0lXUW8xeVF2NGc?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Your Biggest AI Cost Isn't the Technology — It's the Hidden Debt Quietly Draining Your Budget - entrepreneur.com
+  Your Biggest AI Cost Isn't the Technology — It's the Hidden
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQcGxDQWY1QWViUkZUVDdZcGJ5WEVaYzNJNHdZelAwZEItNXVCVVU2dFV0dHpVT1dLQkJHTE54VFV2dElhNkZIaEwtN1h2NTRrU1RqZFZ0MkpNejlIQnh5ekpGbl9RNERYT0ZKdDZGQkc0N0tkVGN2ZkJKdFVTU20yNEdoc3VXM0FyM0tTa3hlRklXMFlrMVN6eUpwUm45MFJvbEJUMUNn?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- New technology helps EPFO clear claims faster - The Times of India
+  New technology helps EPFO clear claims faster
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkg4TGNFWmF2eGxWVTRfODRFdHZOY2I3WU1Xcmw2Y0dvb1BWLVJiVElyczJTamxOYnFsSV9uNllhWUpBTV9oSUtHZWxDMU9kZWdJTGI5aTBJbDUzUld4SFBSSzhxUk1jNWh4SWplekwtYXpGd29NbVFQajU2cGk4andSb0hPXzQ3NzhFQzZCMmFCTEtIdGpWM0pkZGFDU2pUZXBwYVdCblFTb0xMZkJVZjg1TlMtUE00MU55eUxtVjFqd2w3SGxXaUhPY9IB0AFBVV95cUxPMUphYTNXZ2NNSWR0NmxHVlZ5UloyMC1kU2hjSmRaLXJQTFVrbVVoWDhVY1VhSlEwZjVfbHVLTWZ1cWcyeDFhQTVHbDkyWmJiN1lueWpWMDd0TDRQSUdQeVVPMnFXYXl1OGZoVlRQRllIMnA0Z0VVZ201eU1CUExhSzlRRkZGMDJIMGU2SHhKQ0RkQk9rUUhaRDZjQ2QzQmNCUlBTbW1EakNobDQ0MUpncU9OV2ZtN2xlTDNkZzA1ZUhxcTg3RzBILXA0Wm9jclM0?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- AI Is The Only Technology That Will Matter, Says Zoho's Sridhar Vembu - NDTV
+  AI Is The Only Technology That Will Matter, Says
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa09rUUhkSWZZT0FXSTZjYmh3SDVGSUQ2VUgtM0hINF9ncjVhUWM4VmNOWmRGNVFlNkFmRVByd2VGSmViWkFkenZjdWlCOExZUHdJRlpKbGYzMmN3eW5WMC1raWZqOHFPb2Q4VXh6bWtQN1E1U2laMTFxYXFBaDFoRldkT0g3MjJhMXBvQjNNazJlTWVEaHZUWXQzTWlZTlJpOGlOQ0w2WFLSAbABQVVfeXFMTU5VdG03ckstM2p6TWM4QkJpNXZxS3JEQWR5aVhrNlF1V2xyVkxUcWd6Q0dRWkhUWHp6c3Z3YlRpZGpYbVVjQTJ5dkp1QU01SXNIU3hhdHJNbllXVGJMUXdEQ3JseVRqOXptNDRRLW56bXN1QWt3OFR5NjNuR2dCbGJ5ZWZrbDFXREM1UlNVSlJMQnVkaE1GNFVMai1lYWQ3bGdLN2NTb1FKNExMckUwNUg?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Samsung Introduces Flex Titanium Technology To Advance Foldable Displays - Samsung Global Newsroom
+  Samsung introduces Flex Titanium Technology To Advance Foldable
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVEtYk9UcFhGTnpwb2EwOVRlM29ueVMxUmx3ZmRyaTVHcW5fTzBYUVZkYTl3ejFzU2pBa2Q1S0ZxRjM2VUZMaEQ5TGVzLWRKdWk5NXdxNFhEV19Hb1phSFRTQkNIZmJVZ1JUNFVCZUoweWhrV2VzT3dtMjlfVEYwYzkxQWhlS1VsQi1uUGt5VEllOHF6MG1aR0lhZUpHbEc5V1E?oc=5
 
 
-_Last updated: 2026-07-16 02:07:35 UTC_
+_Last updated: 2026-07-16 13:33:56 UTC_
