@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
+- Kandhamal riots probe among two reports ‘missing’, ex-CMO officials summoned in Odisha
+  
+  🔗 https://indianexpress.com/article/india/kandhamal-riots-probe-among-two-reports-missing-ex-cmo-officials-summoned-in-odisha-10789969/
+
+- Amarnath Yatra bus fire: Tragedy averted as alert CRPF men evacuate pilgrims
+  
+  🔗 https://indianexpress.com/article/india/amarnath-pilgrims-bus-fire-ramban-jammu-srinagar-highway-rescue-evacuated-10789919/
+
+- Amid Rs 500-crore donation row, Vaishno Devi Shrine Board reviews offerings system
+  
+  🔗 https://indianexpress.com/article/india/vaishno-devi-shrine-board-donation-review-fake-silver-jammu-court-10789867/
+
+- The Daily Catch-Up: Parliament showdown, Sonam Wangchuk and Messi’s Argentina
+  
+  🔗 https://indianexpress.com/article/india/daily-catch-up-sonam-wangchuk-indus-water-treaty-e20-fuel-messi-argentina-10789819/
+
 - After Senapati tensions, CRPF deploys 100 bulletproof vehicles, revises Manipur strategy
   
   🔗 https://indianexpress.com/article/india/manipur-senapati-tensions-crpf-bulletproof-vehicles-strategy-10789654/
 
-- ‘We share the anguish and outrage’: Congress urges Sonam Wangchuk to end hunger strike
+- Apple’s Back to School 2026 offer: Free AirPods with Mac, Apple Pencil with iPad
   
-  🔗 https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-congress-dharmendra-pradhan-10789669/
-
-- Devotee dies, over 30 in hospital after Puri Rath Yatra crowd rush
-  
-  🔗 https://indianexpress.com/article/india/puri-rath-yatra-crowd-crush-devotee-death-suffocation-lord-jagannath-chariot-festival-stampede-10789600/
-
-- Congress to oppose delimitation Bill, says BJP won’t get two-thirds majority
-  
-  🔗 https://indianexpress.com/article/india/parliament-monsoon-session-congress-delimitation-neet-ram-temple-issues-10789388/
-
-- Skyroot to launch Vikram-1, India’s first privately developed orbital rocket, on July 18
-  
-  🔗 https://indianexpress.com/article/india/skyroot-vikram-1-india-first-private-orbital-launch-10789367/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apples-back-to-school-2026-offer-free-airpods-with-mac-apple-pencil-with-ipad-10789724/
 
 - 40% long posts on LinkedIn are AI-generated, highest among social platforms: Study
   
@@ -36,9 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-jetson-thor-t3000-t2000-modules-robotics-10789193/
 
-- Sophos launches unified, AI-native defense system to counter next wave of cyber attacks
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sophos-fusion-ai-native-defense-system-cyber-attacks-10789186/
+- Tech Mahindra revs up while Wipro slows down in a tale of two IT firms
+  TCS CEO K. Krithivasan said the demand environment remained unchanged. HCLTech’s C. Vijayakumar said the unchanged geopolitical environment was translating
+  🔗 https://www.livemint.com/companies/tech-mahindra-q1-results-wipro-earnings-tcs-infosys-revenue-net-profit-11784208645193.html
+
+- De Beers' Forevermark bets on India retail push as lab-grown diamonds surge
+  The opportunity in India stands in contrast to the crisis facing De Beers’ core mining business. The company has made one of its biggest rough-diamond price cuts in years.
+  🔗 https://www.livemint.com/companies/news/de-beers-pins-hopes-on-forevermark-retail-stores-to-sustain-natural-diamond-demand-in-india-11784205870361.html
 
 - Uber in $15 billion deal for Delivery Hero to create global takeout giant
   The acquisition advances the U.S. ride-hailing firm's efforts to build a global food-delivery business.
@@ -52,33 +60,25 @@
   Shankar Ice Cream Library began as a hand-churned ice cream cart on the streets of Ahmedabad in 1960. The brand now has more than 1,300 proprietary flavours.
   🔗 https://www.livemint.com/companies/people/from-handcart-in-1960-to-1-300-flavours-how-an-ahmedabad-family-built-an-ice-cream-brand-11784200091088.html
 
-- Blackstone appoints Ami Momaya to lead India infrastructure investments
-  Momaya joins as managing director and head of infrastructure for India. Private equity firm builds its first dedicated
-  🔗 https://www.livemint.com/companies/people/blackstone-appoints-ami-momaya-to-lead-india-infrastructure-investments-11784198343318.html
+- Netflix earnings in focus as shares gain slightly amid growth concerns
+  Wall Street expects Netflix to report second-quarter revenue of about $13 billion, representing a 14% year-over-
+  🔗 https://www.livemint.com/market/stock-market-news/netflix-earnings-in-focus-as-shares-gain-slightly-amid-growth-concerns-11784221999540.html
 
-- AI-driven cyberthreats spark revenue, funding surge for cybersecurity startups
-  Investor interest in cybersecurity has strengthened with funding that almost doubled to $89 million in H1 2026 from $
-  🔗 https://www.livemint.com/companies/start-ups/ai-cyberattacks-drive-growth-for-indian-cybersecurity-startups-11784187704292.html
+- Gold, silver prices today: Comex gold and silver extend losses as Middle East tensions fuel rate hike fears
+  Gold dropped to an intraday low of $3,977 while silver hit $55.65. Renewed military actions between the US and Iran increased selling pressure.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-extend-losses-as-middle-east-tensions-lift-rate-hike-fears-11784218381820.html
 
-- Jio Financial Services Q1 results: Net profit jumps 156% YoY to  ₹830 crore, revenue tops  ₹2,000 crore
-  Jio Financial Services reported a Q1 FY27 net profit of  ₹830 crore, up 156% YoY and 205% sequentially. Despite rising expenses, strong core income drove
-  🔗 https://www.livemint.com/market/jio-financial-services-q1-results-net-profit-jumps-156-yoy-to-rs-830-crore-revenue-tops-rs-2-000-crore-11784206444730.html
+- Caliber Mining IPO raises  ₹135 crore from anchor investors ahead of issue opening
+  Caliber Mining and Logistics Limited raised  ₹134.99 crore from anchor investors ahead of its IPO. The firm allocated 31,83,961 shares at
+  🔗 https://www.livemint.com/market/stock-market-news/caliber-mining-ipo-raises-rs-135-crore-from-anchor-investors-ahead-of-issue-opening-11784216540031.html
 
-- US stock market today: Wall Street futures edge lower as chip stocks retreat; crude oil extends gains
-  US stock futures fluctuated as investors remained cautious over Middle East tensions. While S&amp;amp;P 500 and Nasdaq futures fell, Dow futures gained.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-edge-lower-as-chip-stocks-retreat-crude-oil-extends-gains-11784202841025.html
+- SBI Funds Management IPO closes with 42x subscription, led by strong QIB demand; GMP signals healthy listing
+  SBI Funds Management's IPO received strong demand, oversubscribed over 41 times with bids for 519 crore shares. The price band is set at  �
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-closes-with-42x-subscription-led-by-strong-qib-demand-gmp-signals-healthy-listing-11784212315273.html
 
-- Tech Mahindra Q1 Results 2026: Consolidated net profit rises over 28% to  ₹1,465 crore, revenue up 15% - Key takeaways
-  Tech Mahindra reported a consolidated net profit of  ₹1465.1 crore for Q1 2026. Revenue from operations rose 15
-  🔗 https://www.livemint.com/market/stock-market-news/tech-mahindra-q1-results-2026-consolidated-net-profit-rises-over-28-to-rs-1-465-crore-revenue-up-15-11784190278654.html
-
-- Wipro Q1 results: Profit remains flat YoY at  ₹3,352 crore; declares interim dividend of  ₹2
-  Wipro Q1 results: Wipro reported a 0.65% year-on-year rise in its
-  🔗 https://www.livemint.com/market/stock-market-news/wipro-q1-results-profit-remains-flat-at-3352-crore-dividend-declared-11784188416404.html
-
-- Reliance Q1 Results Preview: O2C, Jio to drive earnings - Key things to watch out for
-  Reliance Industries is set to announce Q1 FY27 results on July 17. The O2C segment is likely to recover, while retail performance remains mixed. Analysts predict revenue growth
-  🔗 https://www.livemint.com/market/stock-market-news/ril-q1-preview-reliance-q1-results-preview-o2c-reliance-jio-to-drive-earnings-key-things-to-watch-out-for-11784187766702.html
+- Alpine Texworld IPO sails through on Day 3: Check subscription status, GMP and other key details
+  Alpine Texworld's IPO was fully subscribed on the final day, achieving 1.40 times overall subscription. Allotments are scheduled for July 17, with listing on BSE and NSE expected on July 21.
+  🔗 https://www.livemint.com/market/stock-market-news/alpine-texworld-ipo-sails-through-on-day-3-check-subscription-status-gmp-and-other-key-details-11784210606224.html
 
 - BGMI 4.5 update: Naruto themed maps, Spider-Man mode, Ferrari cars and everything new
   Naruto-themed gameplay mode. Spider-Man crossover, licensed Ferrari vehicles, and anniversary rewards.
@@ -100,45 +100,13 @@
   Google will permit third-party app stores on its Play Store in the US starting next week
   🔗 https://www.livemint.com/technology/tech-news/google-to-allow-third-party-app-stores-inside-play-store-from-next-week-after-epic-lawsuit-11784172668758.html
 
-- Jio Financial Q1 Results: Profit skyrockets 155% YoY to Rs 830 crore
-  Jio Financial reported 155% year-on-year (YoY) growth in its consolidated net profit at Rs 830 crore in the first quarter
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-q1-results-profit-skyrockets-156-yoy-to-rs-830-crore/articleshow/132440198.cms
+- Fed's Logan calls for 'modestly higher' interest rates
+  Dallas Fed President Lorie Logan signaled support for higher interest rates, warning inflation remains above target. Logan flagged risks from strong demand, AI investment and Middle East tensions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-logan-calls-for-modestly-higher-interest-rates/articleshow/132444805.cms
 
-- US Data Watch: 13 Nasdaq 100 stocks deliver multibaggers return in CY26
-  Thirteen Nasdaq 100 stocks have turned multibaggers in CY26, led by AI, semiconductors
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-data-watch-13-nasdaq-100-stocks-deliver-multibaggers-return-in-cy26/slideshow/132440115.cms
-
-- BHEL among 6 midcap stocks that hit 52-week highs and rallied up to 20% in a month
-  Despite a flat Sensex close, six BSE 150 MidCap stocks hit fresh 52-week highs. This signals strong buying interest, improving investor
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bhel-among-6-midcap-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/132439796.cms
-
-- Polycab Q1 Results: Profit surges 33% YoY to Rs 797 crore, revenue jumps 39%
-  Polycab India delivered its strongest-ever first quarter, with revenue rising 39% and net profit increasing 33%. Management expects infrastructure spending, capacity expansion and distribution growth to sustain
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/polycab-q1-results-profit-surges-33-yoy-to-rs-797-crore-revenue-jumps-39/articleshow/132439305.cms
-
-- Market wrap: ICICI Lombard, IndiGo among top gainers &amp; losers on Nifty and Sensex today
-  Analysts expect Q1 earnings to drive stock-specific action. Nifty remains in a consolidation phase with key support near 24,000 and resistance around 24,300.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-icici-lombard-indigo-among-top-gainers-losers-on-nifty-and-sensex-today/articleshow/132439120.cms
-
-- Inside Cosmos Diamonds’ Bootstrapped Push Into India’s Lab-Grown Jewellery Market
-   Cosmos Diamonds’ Bootstrapped Push Into India’s Lab-Grown Jewellery Market.
-  🔗 https://inc42.com/startups/inside-cosmos-diamonds-bootstrapped-push-into-indias-lab-grown-jewellery-market/
-
-- Aina Raises $5.5 Mn From Info Edge, Others To Build AI Hardware Interface
-  AI hardware interface startup Aina has emerged from stealth with a $5.5 Mn (about ₹53 Cr) seed funding round.
-  🔗 https://inc42.com/buzz/aina-raises-5-5-mn-from-info-edge-ventures-360-one-asset-to-build-ai-native-interfaces/
-
-- Aurum PropTech To Acquire Housing.com For ₹458 Cr
-  Listed real estate tech company Aurum PropTech has approved the acquisition of 100% of Locon Solutions.
-  🔗 https://inc42.com/buzz/aurum-proptech-to-acquire-housing-com-for-%e2%82%b9458-cr/
-
-- Former Rippling Cofounder Prasanna Sankar Raises $15 Mn For Vorflux After 0xPPL Shutdown
-  Former Rippling cofounder Prasanna Sankar has launched enterprise AI software engineering startup Vorflux.
-  🔗 https://inc42.com/buzz/former-rippling-cofounder-prasanna-sankar-raises-15-mn-for-vorflux-after-0xppl-shutdown/
-
-- Beauty Products Manufacturer Naturis Cosmetics Nets ₹100 Cr To Expand Capacity
-  Beauty and personal care (BPC) manufacturer Naturis Cosmetics has raised around $11.8 Mn.
-  🔗 https://inc42.com/buzz/beauty-products-manufacturer-naturis-cosmetics-nets-%e2%82%b9100-cr-to-expand-capacity/
+- Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today | Live: US stocks slip as concerns over AI valuations weigh
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-unitedhealth-tsmc-western-digital-seagate-stock-price-news-16-july-2026/liveblog/132439119.cms
 
 - El Nino May Make History This Year: What It Means For India - NDTV
   El Nino may make history this year: What
@@ -148,10 +116,6 @@
   Why Punjab could define India’s new national security
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
-- India Achieves Historic Foodgrain Output of 376 Million Tonnes: Union Agriculture Minister - News On AIR
-  India Achieves Historic Foodgrain Output of 376 Million Ton
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdURuYy1SMUxsTGNyXy11Zi1RRmlULS1mam9wbWxqRnN6X2k2WC1iWUdPbDVqUERsM0xVc2hVRG43ZDlBMk5Ub3oxR2Z0TnBSZEFiZDBSZHJUYWszdkh2WnVldXhka0dHaER5dUdGQnI5SUQ4aDN3RWZEZkFGVlpMWEY1NlBKWUlpejRWc3VIak1NbE5BT0hyMjJZVGNYTjQ3SlNZcmx5UDFhQi02VUZBOG55Rksydw?oc=5
-
 - Sonam Wangchuk: Indian activist urged to end hunger strike as he loses 9.1kg in 19 days - BBC
   Sonam Wangchuk has been on a hunger strike for 19 days.
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IZG1KaUY3ZGpRZVRDTElrM21HZHExU3BIQXNGMFZ5RWdVdW1JbUxRTTJhV3JpR0ROUXdLNDdDbGVlRTE0RnRoMkJWTExuTlRmbzljeHZTUng4Zw?oc=5
@@ -159,6 +123,30 @@
 - "Do Whatever It Takes To Save Sonam Wangchuk's Life": High Court To Centre - NDTV
   "Do Whatever It Takes To Save Sonam Wangchuk
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFp1UUt0U3FEcXhrZGRNU2VsaUhDWk0wRGg1cHVfNE90T01SaGlxUVMwLXlKOTI4UldwUkRWaVUycTc1XzBsR0NJS0NTMmZjX0l4MWZGZzVwMV9QMkdSQkdQTFVxTXphbExsX1huS2s5RXc2Yk5fS2pzV1ZIMkhrZTdQU0tZbHhCemlYZmJSb0tOeXQybGNjU2JQTWtZMzdTdlI4d3lBa1BVZlVpQmVRZlhPbHJSeENWSzhKWjRpWjMxVFY0YWs5REl5RdIB0wFBVV95cUxOVVZrV25RVlVnN2pXRUlBZ1o3SThSN1pWdDlrOVN1QW90TllGUU9rUHpIUUZ1clhEcnU2LWN1Y1AxX3Fwc0I3NFk5UzJocVc1WmJTU1A5VU9SMDIwUUkwSnB0SFNyZkZEWEZ2MkZrTVpFTjhuMWs1M1Bfc2FNak9xNk8yV05PcHRPdEtSTEFjX3VvMHRLMHBSdThINm54WnhKVUlxeERuczdRNkhJS0ZVYTJ2Mmt1Q0czWjNrNXlUSjNRcm01UXNxQ2VUOTBsaUU2WTh3?oc=5
+
+- Omar Abdullah asks Centre to take humanitarian view on Wangchuk - The Times of India
+  Omar Abdullah asks Centre to take humanitarian view on Wang
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNSU1RbGx0bU9yTkFSSW53UnJlV1JFOVpNTDZ4UHYxTHZWSVQtTU8xR2F5NGR3NDlGN25ESG84T0QxMW9KYkJsRlN2azVqaHZXcUlEcTNoX0dIbzVCUndDdlY1bDFjV2xBM2g2Z081LWh4Q21OOE81M3BjOHU0SnNHYXZNcWF3SHBaTHV4NVVGaWpmZkl4aEF5R3hKbHV5aHJLSndkSF9sZ3VHcG9iWEJmdkRzZUI3SmVsZklEclNoWFUyS01JZ1FORzEwUdIB0AFBVV95cUxQa29LMElfVHNETXA1MHBzVWdNdlh0UWNQYXpQdExCbXJZekhrM0g1V1NqTmo2MmtLbWhhYUxFaHRENEpIT08wZm80eTdLbFZGU21oV3dUSmREdFl0bC1iWHlLRkV6Z0FRTFdScjZpNUFPVkwySHFIUzZ1QWFsbHBOaC1wNGpiRGdPbXhxT1V4eW9wVEFpWnpwQ2YxbDZoRTA3clJibDZha2RsaTRxaUtCWXNEV2YtZ1hDRXMyYWV3aWdsNEtkLVMwQkx6OHdNcG5R?oc=5
+
+- PhysicsWallah Acquires Majority Stake In Sarrthi IAS For ₹72 Cr
+  Listed edtech major PhysicsWallah (PW) has acquired an additional 11% stake in UPSC coaching institute Sarrthi IAS.
+  🔗 https://inc42.com/buzz/physicswallah-acquires-majority-stake-in-sarrthi-ias-for-%e2%82%b972-cr/
+
+- Neo Group Nets ₹350 Cr From Peak XV Partners To Strengthen Wealthtech Play
+  Neo Group has raised about ₹350 Cr ($36.3 Mn) in a funding round.
+  🔗 https://inc42.com/buzz/neo-group-nets-%e2%82%b9350-cr-from-peak-xv-partners-to-strengthen-wealthtech-play/
+
+- WeWork Back In The Red In Q1 FY27, Reports ₹4 Cr Loss
+  WeWork India recorded a consolidated net loss of ₹4.1 Cr in Q1 FY27, slipping back into losses after three
+  🔗 https://inc42.com/buzz/wework-back-in-the-red-in-q1-fy27-reports-%e2%82%b94-cr-loss/
+
+- Ahead Of Mission II, Spacetech Soonicorn Agnikul Ropes In Ex-ISRO Chairman Somanath As Board Observer
+  Spacetech startup Agnikul Cosmos has onboarded former Indian Space Research Organisation (ISRO) chairman Dr Somanath S as an observer to
+  🔗 https://inc42.com/buzz/ahead-of-mission-ii-spacetech-soonicorn-agnikul-ropes-in-ex-isro-chairman-somanath-as-board-observer/
+
+- B2B Garment Manufacturing Platform Groyyo Raises ₹90 Cr To Expand Supplier Network
+  B2B manufacturing and supply chain startup Groyyo has secured ₹90 Cr (about $9.3 Mn)
+  🔗 https://inc42.com/buzz/b2b-garment-manufacturing-platform-groyyo-raises-%e2%82%b990-cr-to-expand-supplier-network/
 
 - El Nino May Make History This Year: What It Means For India - NDTV
   El Nino may make history this year: What
@@ -168,9 +156,25 @@
   Why Punjab could define India’s new national security
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
-- India Achieves Historic Foodgrain Output of 376 Million Tonnes: Union Agriculture Minister - News On AIR
-  India Achieves Historic Foodgrain Output of 376 Million Ton
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdURuYy1SMUxsTGNyXy11Zi1RRmlULS1mam9wbWxqRnN6X2k2WC1iWUdPbDVqUERsM0xVc2hVRG43ZDlBMk5Ub3oxR2Z0TnBSZEFiZDBSZHJUYWszdkh2WnVldXhka0dHaER5dUdGQnI5SUQ4aDN3RWZEZkFGVlpMWEY1NlBKWUlpejRWc3VIak1NbE5BT0hyMjJZVGNYTjQ3SlNZcmx5UDFhQi02VUZBOG55Rksydw?oc=5
+- Sonam Wangchuk: Indian activist urged to end hunger strike as he loses 9.1kg in 19 days - BBC
+  Sonam Wangchuk has been on a hunger strike for 19 days.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IZG1KaUY3ZGpRZVRDTElrM21HZHExU3BIQXNGMFZ5RWdVdW1JbUxRTTJhV3JpR0ROUXdLNDdDbGVlRTE0RnRoMkJWTExuTlRmbzljeHZTUng4Zw?oc=5
+
+- "Do Whatever It Takes To Save Sonam Wangchuk's Life": High Court To Centre - NDTV
+  "Do Whatever It Takes To Save Sonam Wangchuk
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFp1UUt0U3FEcXhrZGRNU2VsaUhDWk0wRGg1cHVfNE90T01SaGlxUVMwLXlKOTI4UldwUkRWaVUycTc1XzBsR0NJS0NTMmZjX0l4MWZGZzVwMV9QMkdSQkdQTFVxTXphbExsX1huS2s5RXc2Yk5fS2pzV1ZIMkhrZTdQU0tZbHhCemlYZmJSb0tOeXQybGNjU2JQTWtZMzdTdlI4d3lBa1BVZlVpQmVRZlhPbHJSeENWSzhKWjRpWjMxVFY0YWs5REl5RdIB0wFBVV95cUxOVVZrV25RVlVnN2pXRUlBZ1o3SThSN1pWdDlrOVN1QW90TllGUU9rUHpIUUZ1clhEcnU2LWN1Y1AxX3Fwc0I3NFk5UzJocVc1WmJTU1A5VU9SMDIwUUkwSnB0SFNyZkZEWEZ2MkZrTVpFTjhuMWs1M1Bfc2FNak9xNk8yV05PcHRPdEtSTEFjX3VvMHRLMHBSdThINm54WnhKVUlxeERuczdRNkhJS0ZVYTJ2Mmt1Q0czWjNrNXlUSjNRcm01UXNxQ2VUOTBsaUU2WTh3?oc=5
+
+- Omar Abdullah asks Centre to take humanitarian view on Wangchuk - The Times of India
+  Omar Abdullah asks Centre to take humanitarian view on Wang
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNSU1RbGx0bU9yTkFSSW53UnJlV1JFOVpNTDZ4UHYxTHZWSVQtTU8xR2F5NGR3NDlGN25ESG84T0QxMW9KYkJsRlN2azVqaHZXcUlEcTNoX0dIbzVCUndDdlY1bDFjV2xBM2g2Z081LWh4Q21OOE81M3BjOHU0SnNHYXZNcWF3SHBaTHV4NVVGaWpmZkl4aEF5R3hKbHV5aHJLSndkSF9sZ3VHcG9iWEJmdkRzZUI3SmVsZklEclNoWFUyS01JZ1FORzEwUdIB0AFBVV95cUxQa29LMElfVHNETXA1MHBzVWdNdlh0UWNQYXpQdExCbXJZekhrM0g1V1NqTmo2MmtLbWhhYUxFaHRENEpIT08wZm80eTdLbFZGU21oV3dUSmREdFl0bC1iWHlLRkV6Z0FRTFdScjZpNUFPVkwySHFIUzZ1QWFsbHBOaC1wNGpiRGdPbXhxT1V4eW9wVEFpWnpwQ2YxbDZoRTA3clJibDZha2RsaTRxaUtCWXNEV2YtZ1hDRXMyYWV3aWdsNEtkLVMwQkx6OHdNcG5R?oc=5
+
+- El Nino May Make History This Year: What It Means For India - NDTV
+  El Nino may make history this year: What
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXVubXZQY0pvQ2t0QnFleGZQNXNab1pqYV8zTmxCeE9yTFJwc0FkVnNOa3pHbXp1YkhkclVrSmR2RzdQdkxCajNmWk5DSHFKVTNyV2E5Tm53VHVOUUVzQzBRTkVFUGx3Q0YyaE1VQTZFTjN4d203WkFtdE00Nk9BcjhZbTl1Y1RqZEpJWDktQU94YnF1aEZ2T3RMQXBhTnhG0gGoAUFVX3lxTE15ZWhUS2s2ZnNLMF9IS0pSRndVNWhQc3JISXFZLWo5eTNzY1ozSGlMSU1zTzlHWXNDWGVyUzFTeDNETWpOM19tSnpnd2g1bktfWUFERnF6X3JsSENrWE9ZYXVGTDNXVFJsUjhmS2hwUVBVRlU1Vl91Q05rcm03UHFjb2lRd3FoYmRMQmhFbENYVEt2Q3FmNnBtcmROcnRmd1c0SUUwMWpNSA?oc=5
+
+- Why Punjab could define India’s new national security leadership | India News - Hindustan Times
+  Why Punjab could define India’s new national security
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
 - Sonam Wangchuk: Indian activist urged to end hunger strike as he loses 9.1kg in 19 days - BBC
   Sonam Wangchuk has been on a hunger strike for 19 days.
@@ -180,25 +184,37 @@
   "Do Whatever It Takes To Save Sonam Wangchuk
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFp1UUt0U3FEcXhrZGRNU2VsaUhDWk0wRGg1cHVfNE90T01SaGlxUVMwLXlKOTI4UldwUkRWaVUycTc1XzBsR0NJS0NTMmZjX0l4MWZGZzVwMV9QMkdSQkdQTFVxTXphbExsX1huS2s5RXc2Yk5fS2pzV1ZIMkhrZTdQU0tZbHhCemlYZmJSb0tOeXQybGNjU2JQTWtZMzdTdlI4d3lBa1BVZlVpQmVRZlhPbHJSeENWSzhKWjRpWjMxVFY0YWs5REl5RdIB0wFBVV95cUxOVVZrV25RVlVnN2pXRUlBZ1o3SThSN1pWdDlrOVN1QW90TllGUU9rUHpIUUZ1clhEcnU2LWN1Y1AxX3Fwc0I3NFk5UzJocVc1WmJTU1A5VU9SMDIwUUkwSnB0SFNyZkZEWEZ2MkZrTVpFTjhuMWs1M1Bfc2FNak9xNk8yV05PcHRPdEtSTEFjX3VvMHRLMHBSdThINm54WnhKVUlxeERuczdRNkhJS0ZVYTJ2Mmt1Q0czWjNrNXlUSjNRcm01UXNxQ2VUOTBsaUU2WTh3?oc=5
 
-- The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard) - The New York Times
-  The Quest for ‘Technological Sovereignty’ in Europe
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE01aThfM3F5OXZRWEViT3k3ODFXdzdLOWZ5dDg1NjhQSlRHRUwwVWZueGxSclppNG5HSlEzSDNpVEdhOGdTdXZyaTl4Nk5NclJyRDc1RGE0OTBxWU0yUVBwd1BzUTE3UnNLdHkxOVBMdU1Gc0lXUW8xeVF2NGc?oc=5
+- Omar Abdullah asks Centre to take humanitarian view on Wangchuk - The Times of India
+  Omar Abdullah asks Centre to take humanitarian view on Wang
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNSU1RbGx0bU9yTkFSSW53UnJlV1JFOVpNTDZ4UHYxTHZWSVQtTU8xR2F5NGR3NDlGN25ESG84T0QxMW9KYkJsRlN2azVqaHZXcUlEcTNoX0dIbzVCUndDdlY1bDFjV2xBM2g2Z081LWh4Q21OOE81M3BjOHU0SnNHYXZNcWF3SHBaTHV4NVVGaWpmZkl4aEF5R3hKbHV5aHJLSndkSF9sZ3VHcG9iWEJmdkRzZUI3SmVsZklEclNoWFUyS01JZ1FORzEwUdIB0AFBVV95cUxQa29LMElfVHNETXA1MHBzVWdNdlh0UWNQYXpQdExCbXJZekhrM0g1V1NqTmo2MmtLbWhhYUxFaHRENEpIT08wZm80eTdLbFZGU21oV3dUSmREdFl0bC1iWHlLRkV6Z0FRTFdScjZpNUFPVkwySHFIUzZ1QWFsbHBOaC1wNGpiRGdPbXhxT1V4eW9wVEFpWnpwQ2YxbDZoRTA3clJibDZha2RsaTRxaUtCWXNEV2YtZ1hDRXMyYWV3aWdsNEtkLVMwQkx6OHdNcG5R?oc=5
 
-- Your Biggest AI Cost Isn't the Technology — It's the Hidden Debt Quietly Draining Your Budget - entrepreneur.com
-  Your Biggest AI Cost Isn't the Technology — It's the Hidden
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQcGxDQWY1QWViUkZUVDdZcGJ5WEVaYzNJNHdZelAwZEItNXVCVVU2dFV0dHpVT1dLQkJHTE54VFV2dElhNkZIaEwtN1h2NTRrU1RqZFZ0MkpNejlIQnh5ekpGbl9RNERYT0ZKdDZGQkc0N0tkVGN2ZkJKdFVTU20yNEdoc3VXM0FyM0tTa3hlRklXMFlrMVN6eUpwUm45MFJvbEJUMUNn?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- New technology helps EPFO clear claims faster - The Times of India
-  New technology helps EPFO clear claims faster
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkg4TGNFWmF2eGxWVTRfODRFdHZOY2I3WU1Xcmw2Y0dvb1BWLVJiVElyczJTamxOYnFsSV9uNllhWUpBTV9oSUtHZWxDMU9kZWdJTGI5aTBJbDUzUld4SFBSSzhxUk1jNWh4SWplekwtYXpGd29NbVFQajU2cGk4andSb0hPXzQ3NzhFQzZCMmFCTEtIdGpWM0pkZGFDU2pUZXBwYVdCblFTb0xMZkJVZjg1TlMtUE00MU55eUxtVjFqd2w3SGxXaUhPY9IB0AFBVV95cUxPMUphYTNXZ2NNSWR0NmxHVlZ5UloyMC1kU2hjSmRaLXJQTFVrbVVoWDhVY1VhSlEwZjVfbHVLTWZ1cWcyeDFhQTVHbDkyWmJiN1lueWpWMDd0TDRQSUdQeVVPMnFXYXl1OGZoVlRQRllIMnA0Z0VVZ201eU1CUExhSzlRRkZGMDJIMGU2SHhKQ0RkQk9rUUhaRDZjQ2QzQmNCUlBTbW1EakNobDQ0MUpncU9OV2ZtN2xlTDNkZzA1ZUhxcTg3RzBILXA0Wm9jclM0?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- AI Is The Only Technology That Will Matter, Says Zoho's Sridhar Vembu - NDTV
-  AI Is The Only Technology That Will Matter, Says
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa09rUUhkSWZZT0FXSTZjYmh3SDVGSUQ2VUgtM0hINF9ncjVhUWM4VmNOWmRGNVFlNkFmRVByd2VGSmViWkFkenZjdWlCOExZUHdJRlpKbGYzMmN3eW5WMC1raWZqOHFPb2Q4VXh6bWtQN1E1U2laMTFxYXFBaDFoRldkT0g3MjJhMXBvQjNNazJlTWVEaHZUWXQzTWlZTlJpOGlOQ0w2WFLSAbABQVVfeXFMTU5VdG03ckstM2p6TWM4QkJpNXZxS3JEQWR5aVhrNlF1V2xyVkxUcWd6Q0dRWkhUWHp6c3Z3YlRpZGpYbVVjQTJ5dkp1QU01SXNIU3hhdHJNbllXVGJMUXdEQ3JseVRqOXptNDRRLW56bXN1QWt3OFR5NjNuR2dCbGJ5ZWZrbDFXREM1UlNVSlJMQnVkaE1GNFVMai1lYWQ3bGdLN2NTb1FKNExMckUwNUg?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Samsung Introduces Flex Titanium Technology To Advance Foldable Displays - Samsung Global Newsroom
-  Samsung introduces Flex Titanium Technology To Advance Foldable
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVEtYk9UcFhGTnpwb2EwOVRlM29ueVMxUmx3ZmRyaTVHcW5fTzBYUVZkYTl3ejFzU2pBa2Q1S0ZxRjM2VUZMaEQ5TGVzLWRKdWk5NXdxNFhEV19Hb1phSFRTQkNIZmJVZ1JUNFVCZUoweWhrV2VzT3dtMjlfVEYwYzkxQWhlS1VsQi1uUGt5VEllOHF6MG1aR0lhZUpHbEc5V1E?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-16 13:33:56 UTC_
+_Last updated: 2026-07-16 19:05:52 UTC_
