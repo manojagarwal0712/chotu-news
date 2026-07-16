@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Prashant Kishor poll debut runs into rough weather, his party loses leaders to BJP
+- CAG finds Chhattisgarh’s mining welfare fund strayed from its core purpose
   
-  🔗 https://indianexpress.com/article/india/prashant-kishors-electoral-debut-jan-suraaj-bihar-bjp-10788395/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-mining-welfare-fund-cag-audit-10788546/
 
-- New IRCTC website launched: How to book train tickets in 5 simple steps
+- Shashi Tharoor appeals to Sonam Wangchuk to break fast, urges government to engage in talks
   
-  🔗 https://indianexpress.com/article/india/indian-railways-new-irctc-website-beta-book-train-tickets-5-simple-steps-10788270/
+  🔗 https://indianexpress.com/article/india/shashi-tharoor-letter-sonam-wangchuk-jantar-cjp-mantar-hunger-strike-10788577/
 
-- The Daily Catch-Up: Sharad Pawar speculation, Sonam Wangchuk, India vs England
+- Mahadev app case: Bhupesh Baghel claims arrested Ebix chief was ‘getting protection from BJP’
   
-  🔗 https://indianexpress.com/article/india/daily-catch-up-us-sanctions-oil-maharashtra-politics-mumbai-tunnel-fire-10788162/
+  🔗 https://indianexpress.com/article/india/mahadev-app-case-bhupesh-baghel-claims-arrested-ebix-chief-was-getting-protection-from-bjp-10788548/
 
-- Give us a kidney or give us death: 5 new mothers from Kota write to President
+- Under proposed Bihar law, UG colleges will no longer report to Governor
   
-  🔗 https://indianexpress.com/article/india/kota-hospital-medical-negligence-c-section-kidney-damage-euthanasia-plea-president-murmu-rajasthan-10788202/
+  🔗 https://indianexpress.com/article/india/bihar-education-bill-monsoon-session-samrat-chaudhary-10788549/
 
-- Now Jammu University orders audit of all books on its premises
+- India-UK trade deal kicks in: PM Narendra Modi says boost for farmers & MSMEs
   
-  🔗 https://indianexpress.com/article/india/jammu-university-order-audit-books-10788178/
+  🔗 https://indianexpress.com/article/india/india-uk-trade-deal-kicks-in-pm-narendra-modi-says-boost-for-farmers-msmes-10788518/
 
 - Artemis landings may contaminate Moon’s ancient ice, study finds
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/parents-screens-calm-children-new-study-findings-10787606/
 
+- Bodhi Tree in advanced talks to buy stake in Adyar Ananda Bhavan at  ₹3,000-3,500 crore valuation
+  The development comes amid rising investor interest in India's restaurant and QSR space.
+  🔗 https://www.livemint.com/companies/news/adyar-ananda-bhavan-revive-stake-plan-at-up-to-rs-3-500-cr-valuation-11784113624627.html
+
+- Kunal Shah steps down as promoter, board member of Cred on joining WhatsApp
+  It is not clear whether Shah stepped down because of a
+  🔗 https://www.livemint.com/companies/people/kunal-shah-promoter-board-member-cred-whatsapp-meta-platforms-shareholding-11784023818673.html
+
+- Packaging is the new preservative as food companies drive healthier snacking
+  In the absence of preservatives, companies are turning to new types of packaging to keep their products fresh and intact.
+  🔗 https://www.livemint.com/companies/news/packaging-preservatives-food-healthier-snacking-laminated-packs-fmcg-itc-fabelle-dairy-beverages-11784099435658.html
+
 - OnePlus is planning to exit all non-Chinese markets, including India, by 2027: Report
   OnePlus will begin exiting the US and Europe this week. India departure to follow by 2027, as parent
   🔗 https://www.livemint.com/companies/news/oneplus-is-planning-to-exit-all-non-chinese-markets-including-india-by-2027-realme-oppo-11784136496644.html
@@ -48,37 +60,25 @@
   Morgan Stanley surpasses $10 trillion in wealth management
   🔗 https://www.livemint.com/companies/company-results/morgan-stanley-tops-q2-estimates-as-dealmaking-trading-revenue-hit-record-highs-11784134875079.html
 
-- DeepSeek’s Liang Wenfeng becomes world’s richest AI founder, overtakes OpenAI and Anthropic rivals
-  Bloomberg estimates Liang's net worth has climbed to around $36 billion from approximately $16.7 billion.
-  🔗 https://www.livemint.com/companies/people/deepseeks-liang-wenfeng-becomes-world-s-richest-ai-founder-overtakes-openai-and-anthropic-rivals-11784133264996.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 16 July
+  Gift Nifty was trading around 24,080 level, a premium of nearly 12 points from the Nifty futures’ previous close. The trends on Gift Nifty also
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-16-july-11784166528880.html
 
-- L&amp;T bets big on AI with Copilot rollout for over 80% of employees
-  L&amp;amp;T would be the first large Indian
-  🔗 https://www.livemint.com/companies/news/lt-ai-copilot-rollout-microsoft-ai-tools-employees-it-tcs-infosys-wipro-ltm-ltts-11784117244067.html
+- Asian stocks today: Kospi, Nikkei extend losses, plunge up to 6% amid sell-off in chip stocks
+  South Korea's Kospi dropped more than 6%. Meanwhile,
+  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-extend-losses-plunge-up-to-6-amid-sell-off-in-chip-stocks-11784165210140.html
 
-- RBI greenlights three-year term for Rajiv Kumar as HDFC Bank chair
-  Rajiv Kumar will be part-time chairman of HDFC Bank for
-  🔗 https://www.livemint.com/companies/rbi-greenlights-three-year-term-for-rajiv-kumar-as-hdfc-bank-chair-11784117480223.html
+- From Gift Nifty, US-Iran war, oil prices to Kospi’s crash: 8 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 24,106 level, a premium of nearly 39 points from the Nifty futures’
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-war-oil-prices-to-kospi-s-crash-8-key-things-that-changed-for-indian-stock-market-overnight-11784165293901.html
 
-- SpaceX extends losing streak to four days, drops below $135 IPO price | Buy, sell or hold?
-  SpaceX shares experienced a decline for the fourth consecutive session on Wednesday. Shares fell below the $135 price
-  🔗 https://www.livemint.com/market/stock-market-news/spacex-extends-losing-streak-to-four-days-drops-below-135-ipo-price-11784132250478.html
+- Crude oil prices rise for 4th session amid escalating US-Iran war; Brent likely to hit $110/bbl, says Goldman Sachs
+  Brent crude futures rose 33 cents, or 0.4%, to $85.28
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-rise-for-4th-session-amid-escalating-us-iran-war-brent-likely-to-hit-110-bbl-says-goldman-sachs-11784163944139.html
 
-- Wall Street surges on soft producer inflation, robust earnings; PayPal climbs 13.58%, BlackRock soars 7.6%
-  The Dow Jones Industrial Average rose 0.18%, the S
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-surges-on-softer-than-expected-producer-inflation-paypal-climbs-1358-11784122704074.html
-
-- HDFC Life Insurance Company Q1 results: Profit rises 12% YoY to  ₹611 crore; VNB up 9%
-  HDFC Life Insurance Company reported a 12% YoY rise in its standalone profit to  ₹611.42 crore for Q
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-life-insurance-company-q1-results-profit-rises-12-yoy-to-611-crore-vnb-up-9-11784114501728.html
-
-- Expert view: Nifty may touch 27,000 by the year end or early next year, says Rohit Srivastava of Indiacharts
-  Market strategist Rohit Srivastava predicts the Nifty 50 index could reach 27,000 by the end of this year or early next year. He advises investors to buy
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-nifty-may-touch-27-000-by-the-year-end-or-early-next-year-says-rohit-srivastava-of-indiacharts-11784113512404.html
-
-- Small-cap FMCG stock Spice Lounge Food Works hits upper circuit after this business update
-  Spice Lounge Food Works hit its upper circuit on the BSE on Wednesday, 15 July. The company announced it had opened its first Wing Zone
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-fmcg-stock-spice-lounge-food-works-hits-upper-circuit-after-this-business-update-11784110584032.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 16 July 2026
+  The Indian stock market ended Wednesday's session on a higher note. Sumeet Bagadia
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-16-july-2026-11784134080670.html
 
 - Cabinet approves  ₹1.9 tn push for chips, mobiles to deepen local manufacturing
   At the centre of the package is Semicon 2.0, a  ₹1.27 trillion programme aimed at helping Indian firms design chips, generate patents. The cabinet
@@ -100,65 +100,45 @@
   OpenAI CEO Sam Altman criticized Anthropic's new
   🔗 https://www.livemint.com/technology/tech-news/sam-altman-tears-into-anthropics-latest-ai-safety-ad-thought-this-was-satire-11784015108664.html
 
-- Stock Market Today: Megacap Tech Names Push Indexes Higher - WSJ
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxObTV1TGRvc3pzSmUyU21VSU9SYUdKQk96WWp3WkgyeDVzejZwWXFOOGpGSjVJWVdia01sYjBYUmVOX0laZHc0SWM5MlFXanhVMXB2V3dxdTZRQ19jVFBwNjhLM3d5QWVFSFFvMGtlTlVsMU5CeGlzNDBzQ3NtOXdUZGdaQkhkYnpBLUlCcU5DSlRpbmc?oc=5
+- Breakout above key resistance makes Chalet Hotels a buy: Shitij Gandhi
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/breakout-above-key-resistance-makes-chalet-hotels-a-buy-shitij-gandhi/videoshow/132408851.cms
 
-- Stock market today: Dow, S&P 500, Nasdaq slip as semiconductor stocks plummet - Yahoo Finance
-  The Dow, S&amp;P 500, Nas
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0xnc1REcmstM1BHRE1sdnY5MGwxNV94OGNSWU5qZUVxUGV1WUxsZTVEQndQcDZZSWs3ek84bk9VTXNKWjlTY2hQeTVoa0tJeUtSRXdFMXRaRHdwczZLZ29ONDNYdWJ6YVBkd29UejVpdTIwU2FGTWtPZDRzVEdXbzhIUmJkQUs5aWZGYURuNm1WRFJHVUpmaWRDSUxDeG5kajBfMEpxOA?oc=5
+- Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict
+  Brent crude futures rose to $85.28 a barrel and WTI futures reached $80.02. U.S. crude inventories fell by 1.7 million barrels last week.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-for-4th-day-as-us-strikes-on-iran-raise-fears-of-wider-conflict/articleshow/132427457.cms
 
-- Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: US stocks edge lower as declines hit major in... - The Economic Times
-  US stocks edge lower as declines hit major in economic downturn. Dow Jones, S&P, Nasdaq,
-  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxOci1ub1NDZllEbzRrSThJUmNkdzQ2Q0xUcFZuZU0yNExMZ0M2UGVNQW9YV2VMcFgwcHVhOGJDbjlSNXhPcC1SYXFhU2E1aXJaZjlGU2xIemFidFdEWVVZOHRKWk1sdjlHbDhIQ3hBOHUyM3ZoMmdNck1aR1FNZnh3TXNPOWkwd1NHVWhkOVR2aHJHUkRoTUVPejJ5em8zR3BMS1lRdGhudFhTX0FqWGVnZmQ1WWtYNGRKUW13RnJwLWZOLTJzcW12VVNoVGJRX21NcFRtdFBiblFYQ0VPQ3ppQ09QSmFyZ2dwbzZTM29oZG5yUFpBUHZjNXA5akw1RzkzLWRMcnFUd2YwQnpWYi00ZWlTOHVXZmFuS2haUzdLQUl0ZS1HX0ZUaHlQR0REdDBNX1RfOXpQaVdwWkUzOExKZWtEUlBKeUpxbDRvcFdiQ3pzY1Vwc0M3REdlRXo5S2E5S0lQZ0Z2cFI5RmZ1NmlGM9IB9gJBVV95cUxPTUo4a3ZacWQ5QWRzc1ZjMjBpMFBMYjRCQTlZVjNQcmQ3NW5GSHU5TUR6YnlQckx1UGlmZ20xRFd5Y0paaWRycW9RMm13NjRXTU9vLXJZVGtRaWNrM3ZfX2wyUnN3UUpYSWVvZF9vYUx0WGpSNWhlZDRQSVUyX1lrZ2xWVlUzRzdwaC1aLUJ3SGRLVkZicXhBNlVqa1FwaFBsdjI0NEpDZWNITkZtU2d3MnN6THNPRy1xYXN4aGRWTnpjV3otUUk2bjhHcl90WVhXNTItbGFuUHRrNzhLT1Ribi1lSFhGNWtnSmxTTmxZdmpKeGNWLVhfRmU1M0FJWDdCMER3dm12dHgwSEYyc0FadkM2TUpSM1cyU0xlaEM1T3oxcVREWXpBcHJRaDR3TGQtSGpTWGYwOTJwLUg3Nmg4V2pmR0s4Nk9XQldYb2YxMmxVdEo4di1BdWZjTEQzQlNpU09DR2lSSDhocFA5SjVPd1BVdk1aQQ?oc=5
+- D-St set for a positive opening as GIFT Nifty signals firm start
+  A weaker rupee and firm crude oil prices contributed to cautious investor sentiment. India VIX, a fear gauge, saw a notable decrease during the session.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132427427.cms
 
-- Markets end higher led by bank stocks; escalating U.S.-Iran hostilities weigh on investor sentiment - The Hindu
-  Markets end higher led by bank stocks; escalating U.S
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVFV2cGNNa1pRak44MzBUY01YNVdBM3pkbUlrX3dXN20tclRUaVpDQlpyWXk3aTJWMGV1aVc5aDRNeFNyNWdZa0czRHRRTEFBcDFmS21mMmdJMnZVT3pQaF85RzNRME5WVDdtNGNjZ19GdzFFMUktRmMyMXlIXzRYSWhyQXNvYTdfZ3EwMFB5Y2ViSzFOUHFGdkE5SF9MLUhEWm1nVUhfVHV0Z2VQUGQ2RzZpMVUyNnRZRVBqQ1Bkc0kyRDJ5TGZTNUlacnFOVFJVV3hVZ0ZVYUVPTXYtV0NkdnV2bmZLeVVJZmp3X0xGQdIB9gFBVV95cUxNX184d3lRbFdraGxqSHQyNzJuUXpYbld2dnFPS1l4ODVJend3UDlrYmhSdUtkRzJlMFRTcXVUbEgtaFVLSFJObTBGa2hBaVdKQk5taXRsMjF4d3VPVWMxbXZKNmNRRzNrX3RvbXVNcXpSVHdhbzdfMF9tb1p1Z25aRWRsd3BFTzNmZnJwdmtIUzJGdEt4VjM3aTNWWHpvREllRkFQMWpUR1VkZ25OZ0c3WDZVTkRRQ0JFdkZ4c1RsTFpWSTBMdENYdU4yaHhKbUh0UUhQb0JCOV82SWhUOUlPeWRCbXpoR1RUcm5tYVdVMHU4XzZTSWc?oc=5
+- Stocks in news: Wipro, Jio Financial, HDB Financial, HDFC AMC, SBI
+  Wipro and Jio Financial announced their first quarter results today. Angel One reported a strong quarter with significant year-on-year profit growth. HDB Financial and HDFC AMC also posted increased profits for the June quarter.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-wipro-jio-financial-hdb-financial-hdfc-amc-sbi/articleshow/132427409.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times
-  Ahead of Market: 10 things that will decide stock market action
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNTkwbVh4YklIQWZ4TUtoQkpJTDVva1JTRzdKd05wbGt4UVBQSGdPUUx3MDMyWmwtaFlpWUU0ckV6cENfVDBBRVVCQ1VCeTRJaEs4TDR5UDRxbzJKYlYwRFhHMFoySnNEYXM5eUNvcnVkMkhwSDdNUVNjN0ZtSDBhV1E0SHpRQVFReTlNM0ZPZkhZaEZJU2QtcC04VmVSQW1kMWVybHpFNFB1SWtqdFYtN3JXNlgyc2drNXQ0dlJiWjMzMmdhVFNXdVpWbExrYldfaVdnSHZsLUF1cWU2QWhBQWFn0gHnAUFVX3lxTE96YzBsbFpBQThGZUFxU21sTVBUeS1VNFhFT1hTdjNtOXhCOGNpTDVJQzZ1Q09jTEE2alVYTTFhcnJIcnhQYTBJSjlsTTBCVkNIUnhuaXF5SUhhSXJieWFBc2F1UnVJb3lqT3U3c0Nic01RNWdrcVdVSllsdHZIMnllNGozNlhNMENQVm5QcUdLUXlmU1FrQ1c1dm02Rm5WRzlvcDRPNXRVMktGOTVWanlpS2lfV0otSlBhX1QxVGJZOFVuaC1XaTFXOXp3S29JZjFmUGlIV185Q0R3eF80STYwYTdKTDkyTQ?oc=5
-
-- Pentair shares dip 17% on dour forecast amid weak pool sales
-  Pentair shares dropped sharply after the company cut its annual forecast. High interest rates and inflation have pressured spending on outdoor projects.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/pentair-shares-dip-17-on-dour-forecast-amid-weak-pool-sales/articleshow/132422544.cms
-
-- Fed's Cook says she is prepared to act soon if inflation does not begin to slow
-  Federal Reserve Governor Lisa Cook signalled readiness to act if inflation fails to ease, while allowing more time to assess trends. She flagged rising risks from AI investment, tariffs and geopolitical tensions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-is-prepared-to-act-soon-if-inflation-does-not-begin-to-slow/articleshow/132422413.cms
-
-- SpaceX shares fall below IPO price for first time as post-listing excitement fades
-  SpaceX shares slipped below their IPO price for the first time. The decline highlights valuation concerns, broader market pressure and risks tied to high-growth stocks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-fall-below-ipo-price-for-first-time-as-post-listing-excitement-fades/articleshow/132420340.cms
-
-- Angel One Q1 Results: Net profit doubles to Rs 231 crore
-  Angel One reported impressive financial growth, with consolidated profit after tax soaring to Rs 231.4 crore. The company experienced a robust 25.4 percent increase in total income, reflecting its expanding influence in the market.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/angel-one-q1-results-net-profit-doubles-to-rs-231-crore/articleshow/132419853.cms
-
-- Tata Capital raises $400 million in global bond sale
-  Tata Capital successfully raised $400 million by selling dollar bonds abroad. Asian and European asset managers dominated demand for these instruments.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/tata-capital-raises-usd-400-million-from-a-bond-issue-in-the-us/articleshow/132419835.cms
+- Global Market Today: Asian equities drop led by Kospi, oil extends gain
+  Government bonds in Australia and New Zealand opened higher after US inflation data. Traders reduced expectations for Federal Reserve interest rate increases this year. Asian stocks declined as semiconductor shares faced renewed selling pressure.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-equities-drop-led-by-kospi-oil-extends-gain/articleshow/132427394.cms
 
 - Why Punjab could define India’s new national security leadership | India News - Hindustan Times
   Why Punjab could define India’s new national security
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
-- India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
-  India-UK Trade Deal Kicks In: What
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
+- BJP turns PM Modi visits to states into 'swachh' drives - The Times of India
+  The Times of India published a front-page story on
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWhDWUhiSk83RTF5SlpvU3ZucndlMlloMlo3OU9sZk15ZFJneHZwNDE4SDdldXdBN1VCVC1DWmlneHZCX1dWcjRENlpDMS1UN28wQXVmcjhIS3J3ZTl2LUhsaWltbXpLQWxUSi1MMGJ3Yzl3WGZ4STBlbE1EbG03Mm1uVUx1YzRsbGc0Y0UwVHVaaFJiNmJ1WUhVbkNidXFVYkFnLW1sSDNjREUtRldjOTh3bUhlb3BmQy1weWNB0gHDAUFVX3lxTE1KaDdOVF9yS1F4OTNuTFNVbWFsV0NxY2xxdXYtR29YRWNYLUdoQTZzQXhIMnJWMDZLR3NpTndPVVlWbk1KOHpwdHdkMF9iOUFlTFpHVjBlQkplZXU0akVJZXZxME9ZVHc0U2JUajRGMlF0UHdJeW43MFZZSjZSX09JQ1B1Rjh4ZWhoeXYtS2tLWWdJREh1eWhJWXJKemhlQV9VVWdHUXpDRkxlNlV3TFE3bS11UFljSWVfWG1zQlN6M2pCZw?oc=5
 
-- India-UK Comprehensive Economic and Trade Agreement Comes into Force today - News On AIR
-  India-UK Comprehensive Economic and Trade Agreement Comes into
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2FoM29SMDU0S3VnYWNWb19XTGlhTUlwQXVkQjVfRzhWa1h4ZjV3TkRma2hweDRXa1BDME9Tek5TN1BqNlg4NlpicWNaaFFOX1VId0kxRmg3NnJPRi0tdXZSRlgyclowS0hfNEd1cHkxR3ZMZm1KWkI4d2ZOclN0SDBZbVZVUjd3OXRFeEpJMlhvemhpemFnY2M1M2dNUk9SdWc?oc=5
+- EAM Dr S Jaishankar says India-EU partnership gaining strong momentum - News On AIR
+  EAM Dr S Jaishankar says India
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlItR2hTOGtQNzZsNEFSTFJycEZOR3diTDNSVF8tWkVwMHNoQi1USHNVanpvcE5idUJFa1RqcG0tUm9VT1EzR0NLZExyU1RoUE1qYlpwcXhScnVuTUtMRGUwdHBsOEF4NWVWLUxMUmRqY0dYZkhPYURTcG1kbWpWTVNGcWJxeTRVT0IxRV9vdXBuLW9ZQXNlWmhyQQ?oc=5
 
-- "Fair, Equitable, Balanced": Piyush Goyal Lauds India-EU Trade Deal - NDTV
-  "Fair, Equitable, Balanced
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNRzJQeHF5R3V2dElGUkdNQXo4WDBQNThkZ2FvVllRZGhoV2ZSekRUS0RrZkhtZVBfU3RjZEloY0pZWXRVeXFyZGxOZnYydU5EU1A4LWRlY1ppVmFhcWwybWhTUW1fWFBLTDdVNldLOHkzVDdyUzFJcWdtQWU1LUJZeUhNNDk1N2NJeHI0cGJqNVMyS09Gck1fcUd2N0RLeEo1RDFBWkxB0gGuAUFVX3lxTE5jbGhYYXFVc004RE5jLU9zNXd0aEFGRDJBV05fTGpGUHZqdlg0S0o2VUc5eTdOcU00S3IwWi0teXh5amd2RmJCVW1UdWg0MkU4dlduRzh2bzhZdnN0dWRjc296cWJZOXllR0xJeW9qYjZ2SVN3WW9OUHpGaVptTktZZnNuYmIwcmhqQlY3T3ZUWG12cVE2aWhnRGhLSTVXdGRpdjV3X0haTDhpMHhtUQ?oc=5
+- NPCIL denies ‘sensitive data breach’ at Kudankulam nuclear plant project - The Hindu
+  NPCIL denies ‘sensitive data breach
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDcxMjFMLXBud2ZlZmx1R0RZWExqQXVSLUYxbWpodm5tUWtiU3pPZlNta01ja3hZVjZUMFdiaC03OE1Ya1htcWZWZFpMNFNtaGMxWUNEakhpdkp2Qlh6QmYtWmJtak83LVNfSUpyenRMUWNyYUU4QlFoTHdHbVc3SkZWTDdRUnpyaTV4dWJYRXZlVERibE9IbVdueEsxd19semloRlBXQnlGZEVjUU12U0VLM3REbk8yUnNWcmpkM2dMUy1ZcHJZUDNaSVpEVndZWjVVNGtNVTI1OTFqdGZyZnE3NWZJMkpESzVCbtIB8wFBVV95cUxPUmhiLVZZc2xLSWxtM3VleXBEVEkzT0NTOWdKQUZ3UUc2bjh1c1lNMGluT1NFendoekVPeE9ZQUo3RjNzUXdpelRydDFNTFVWSmhRbHR0RDJnVGJ3TUZack9zM0ZQUEZFbUQ0M1NYaF92MzJfbVZyQVdRVVdpUlhwZXhsN3BnY2h6YW5DUi13bng1Z3BDRldQSjVaNHZpS05MLW05dVR3ejFnU0M0RVpVT2pYOVRtbEVkMm1IWFV6a2RsVlpFa1FrZ3hReG56UktfdFRXOWFwSzkyYTV1cFo2MkxDV192WGZhbGstU2k5R1c0LW8?oc=5
 
-- Cabinet approves Rs 25,000 cr Ganga, Varuna corridors for Varanasi - The Times of India
-  Cabinet approves Rs 25,000 cr Ganga
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPYW5UNXRfWHl4N3UwWC1PSjA0QVRud1ZVck1IYTMtcHVTTUUyMjl1ODhuaTl3M3VCYzRRX0lCZ0dfQV8yd05EeVdUeDVZYzB5SHlzOFMteWJ3VlI3dWVhZTZMUW9wN0lTaE0xRTlLRHJuTzJqUzVNRmZzaFU1RGJ5SkZISXZxLVZ5YkNXb0R3YW9uQXZXRkVxNW1qTkdnNUMzdmNELXpIU0dyRGFTcFBGVmYtQ0NZT1FHTHJXUHRTYTZ0Uk9Ic2ZsVmFTQm7SAdIBQVVfeXFMUDNMdmJzQllnM3NpM1picW1nYldBcHdKbk02cG9SZDllVnBIb25UV2E0VlVweEFyN1Y3bVpRRFU1QmZBcWFsNmRMVTRvc2NxdmpFY3VpeVptSzlvdWJfa0ZnNkhQZ3BxTFNDRVZJUjQ3bG1qcXo0b0NhU291ampVOXh1eHA3NU82ODBLeVpDeHlTUm9GVU5FWHBiYWQ5WTR3emI0c2tPcWtMSkptWFdZaWZBSlp4SFA3SU1fOURpODVTMDV3ZzZJdjBkaVluMFJQZGRn?oc=5
+- Ghaziabad Man Begged For Help For 40 Minutes, Bled To Death Outside Police Booth - NDTV
+  Ghaziabad Man Begged For Help For 40 Minutes,
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tUU3ctLXl0VjlYOWNuX1pOWmJXakl4M3ZaYXR6dFpJRUtlM25XSVZLT0Z0WDdoam9iaTdSVFdMRXo0SXJXU1lTWS1ucUtyaHRfUC0tSzRQcDN4czV4ZjROQ18xZWlHXzJDbFMtX29YamYtZDAzWUhrMmQ5dTQzR1VESkR6TWZxUnZFOU1QZmhtdnhYSHNyd294OTFkN1JwcWFBMC0yb9IBrwFBVV95cUxPN1ZrQ19LWGg2WU0xUWR1YnZXdG1ENHhfLUkwQjRIMU40Y2FCUFhKaXdCV2xvb3ZaZ2F4NUFyMUs0a3ZLcjVZZGJOdm5iUUJZODVCN1JJUG5SQ2hNcHEzVlpNNjVnTHJ6ZTEyVF9yTzdmSHg3bVM2T0VKa2tIVEZreVIwV19oZVVqYWt5WkxaREo0eFVUd1kwY2o1b3NselhpSTRnbU1tSjloNmZlRXdN?oc=5
 
 - Ather Opens QIP, Sets Floor Price Of ₹1,169.70 Per Share
   Ather Energy has now opened a qualified institutional placement (QIP) to&#8230.
@@ -184,41 +164,21 @@
   Why Punjab could define India’s new national security
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
 
-- India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
-  India-UK Trade Deal Kicks In: What
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
+- BJP turns PM Modi visits to states into 'swachh' drives - The Times of India
+  The Times of India published a front-page story on
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWhDWUhiSk83RTF5SlpvU3ZucndlMlloMlo3OU9sZk15ZFJneHZwNDE4SDdldXdBN1VCVC1DWmlneHZCX1dWcjRENlpDMS1UN28wQXVmcjhIS3J3ZTl2LUhsaWltbXpLQWxUSi1MMGJ3Yzl3WGZ4STBlbE1EbG03Mm1uVUx1YzRsbGc0Y0UwVHVaaFJiNmJ1WUhVbkNidXFVYkFnLW1sSDNjREUtRldjOTh3bUhlb3BmQy1weWNB0gHDAUFVX3lxTE1KaDdOVF9yS1F4OTNuTFNVbWFsV0NxY2xxdXYtR29YRWNYLUdoQTZzQXhIMnJWMDZLR3NpTndPVVlWbk1KOHpwdHdkMF9iOUFlTFpHVjBlQkplZXU0akVJZXZxME9ZVHc0U2JUajRGMlF0UHdJeW43MFZZSjZSX09JQ1B1Rjh4ZWhoeXYtS2tLWWdJREh1eWhJWXJKemhlQV9VVWdHUXpDRkxlNlV3TFE3bS11UFljSWVfWG1zQlN6M2pCZw?oc=5
 
-- India-UK Comprehensive Economic and Trade Agreement Comes into Force today - News On AIR
-  India-UK Comprehensive Economic and Trade Agreement Comes into
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2FoM29SMDU0S3VnYWNWb19XTGlhTUlwQXVkQjVfRzhWa1h4ZjV3TkRma2hweDRXa1BDME9Tek5TN1BqNlg4NlpicWNaaFFOX1VId0kxRmg3NnJPRi0tdXZSRlgyclowS0hfNEd1cHkxR3ZMZm1KWkI4d2ZOclN0SDBZbVZVUjd3OXRFeEpJMlhvemhpemFnY2M1M2dNUk9SdWc?oc=5
+- EAM Dr S Jaishankar says India-EU partnership gaining strong momentum - News On AIR
+  EAM Dr S Jaishankar says India
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlItR2hTOGtQNzZsNEFSTFJycEZOR3diTDNSVF8tWkVwMHNoQi1USHNVanpvcE5idUJFa1RqcG0tUm9VT1EzR0NLZExyU1RoUE1qYlpwcXhScnVuTUtMRGUwdHBsOEF4NWVWLUxMUmRqY0dYZkhPYURTcG1kbWpWTVNGcWJxeTRVT0IxRV9vdXBuLW9ZQXNlWmhyQQ?oc=5
 
-- "Fair, Equitable, Balanced": Piyush Goyal Lauds India-EU Trade Deal - NDTV
-  "Fair, Equitable, Balanced
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNRzJQeHF5R3V2dElGUkdNQXo4WDBQNThkZ2FvVllRZGhoV2ZSekRUS0RrZkhtZVBfU3RjZEloY0pZWXRVeXFyZGxOZnYydU5EU1A4LWRlY1ppVmFhcWwybWhTUW1fWFBLTDdVNldLOHkzVDdyUzFJcWdtQWU1LUJZeUhNNDk1N2NJeHI0cGJqNVMyS09Gck1fcUd2N0RLeEo1RDFBWkxB0gGuAUFVX3lxTE5jbGhYYXFVc004RE5jLU9zNXd0aEFGRDJBV05fTGpGUHZqdlg0S0o2VUc5eTdOcU00S3IwWi0teXh5amd2RmJCVW1UdWg0MkU4dlduRzh2bzhZdnN0dWRjc296cWJZOXllR0xJeW9qYjZ2SVN3WW9OUHpGaVptTktZZnNuYmIwcmhqQlY3T3ZUWG12cVE2aWhnRGhLSTVXdGRpdjV3X0haTDhpMHhtUQ?oc=5
+- NPCIL denies ‘sensitive data breach’ at Kudankulam nuclear plant project - The Hindu
+  NPCIL denies ‘sensitive data breach
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDcxMjFMLXBud2ZlZmx1R0RZWExqQXVSLUYxbWpodm5tUWtiU3pPZlNta01ja3hZVjZUMFdiaC03OE1Ya1htcWZWZFpMNFNtaGMxWUNEakhpdkp2Qlh6QmYtWmJtak83LVNfSUpyenRMUWNyYUU4QlFoTHdHbVc3SkZWTDdRUnpyaTV4dWJYRXZlVERibE9IbVdueEsxd19semloRlBXQnlGZEVjUU12U0VLM3REbk8yUnNWcmpkM2dMUy1ZcHJZUDNaSVpEVndZWjVVNGtNVTI1OTFqdGZyZnE3NWZJMkpESzVCbtIB8wFBVV95cUxPUmhiLVZZc2xLSWxtM3VleXBEVEkzT0NTOWdKQUZ3UUc2bjh1c1lNMGluT1NFendoekVPeE9ZQUo3RjNzUXdpelRydDFNTFVWSmhRbHR0RDJnVGJ3TUZack9zM0ZQUEZFbUQ0M1NYaF92MzJfbVZyQVdRVVdpUlhwZXhsN3BnY2h6YW5DUi13bng1Z3BDRldQSjVaNHZpS05MLW05dVR3ejFnU0M0RVpVT2pYOVRtbEVkMm1IWFV6a2RsVlpFa1FrZ3hReG56UktfdFRXOWFwSzkyYTV1cFo2MkxDV192WGZhbGstU2k5R1c0LW8?oc=5
 
-- Cabinet approves Rs 25,000 cr Ganga, Varuna corridors for Varanasi - The Times of India
-  Cabinet approves Rs 25,000 cr Ganga
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPYW5UNXRfWHl4N3UwWC1PSjA0QVRud1ZVck1IYTMtcHVTTUUyMjl1ODhuaTl3M3VCYzRRX0lCZ0dfQV8yd05EeVdUeDVZYzB5SHlzOFMteWJ3VlI3dWVhZTZMUW9wN0lTaE0xRTlLRHJuTzJqUzVNRmZzaFU1RGJ5SkZISXZxLVZ5YkNXb0R3YW9uQXZXRkVxNW1qTkdnNUMzdmNELXpIU0dyRGFTcFBGVmYtQ0NZT1FHTHJXUHRTYTZ0Uk9Ic2ZsVmFTQm7SAdIBQVVfeXFMUDNMdmJzQllnM3NpM1picW1nYldBcHdKbk02cG9SZDllVnBIb25UV2E0VlVweEFyN1Y3bVpRRFU1QmZBcWFsNmRMVTRvc2NxdmpFY3VpeVptSzlvdWJfa0ZnNkhQZ3BxTFNDRVZJUjQ3bG1qcXo0b0NhU291ampVOXh1eHA3NU82ODBLeVpDeHlTUm9GVU5FWHBiYWQ5WTR3emI0c2tPcWtMSkptWFdZaWZBSlp4SFA3SU1fOURpODVTMDV3ZzZJdjBkaVluMFJQZGRn?oc=5
-
-- Why Punjab could define India’s new national security leadership | India News - Hindustan Times
-  Why Punjab could define India’s new national security
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
-
-- India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most - NDTV
-  India-UK Trade Deal Kicks In: What
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxONW51WTRHdWI0TzRxVkRKVVVtcEFSX2NmY2l5QmpGTXFLM3hEVzh1SDVkMEZSMTIzRW5MRWtpUVIxWjdPSmhSSUlTMndlMEZYZGNNLXpEdmlBVUFQS0pzM0tsTk9xVmxqRHU0QmlBTGNXb1dnd3pwejhLYkFZaVoxLWoxa3ItcG1MSlBvdGxmNmVHelhldmJhSmdWUV9ySFRlaHpIU3h4Nm1SRDM5dDdPLXFZeHhJZ2_SAb8BQVVfeXFMT3QtdmtqVV9fOTR0b3Y2Z1MxQnNWYmxKam01MHZKQm55UTFZNmN0WXpVTHVGUHhzWVNWTENyYXE2SVVFRGNRWGVhaTdqbmVjZkctY0pua1czYU5zb2RIV0I2OW80Q1JJdVRDMk1XY2czS2RiYkRENHVCV1ZFSllPUXM3WXVYaWRvOXQ4SmJaUmRNcEZGZm9Ea25BbHVzUkR2RkIxVC1YaVVEUlhfSXRWNjJtMjIzVndaeGtoVVNjM0k?oc=5
-
-- India-UK Comprehensive Economic and Trade Agreement Comes into Force today - News On AIR
-  India-UK Comprehensive Economic and Trade Agreement Comes into
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2FoM29SMDU0S3VnYWNWb19XTGlhTUlwQXVkQjVfRzhWa1h4ZjV3TkRma2hweDRXa1BDME9Tek5TN1BqNlg4NlpicWNaaFFOX1VId0kxRmg3NnJPRi0tdXZSRlgyclowS0hfNEd1cHkxR3ZMZm1KWkI4d2ZOclN0SDBZbVZVUjd3OXRFeEpJMlhvemhpemFnY2M1M2dNUk9SdWc?oc=5
-
-- "Fair, Equitable, Balanced": Piyush Goyal Lauds India-EU Trade Deal - NDTV
-  "Fair, Equitable, Balanced
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNRzJQeHF5R3V2dElGUkdNQXo4WDBQNThkZ2FvVllRZGhoV2ZSekRUS0RrZkhtZVBfU3RjZEloY0pZWXRVeXFyZGxOZnYydU5EU1A4LWRlY1ppVmFhcWwybWhTUW1fWFBLTDdVNldLOHkzVDdyUzFJcWdtQWU1LUJZeUhNNDk1N2NJeHI0cGJqNVMyS09Gck1fcUd2N0RLeEo1RDFBWkxB0gGuAUFVX3lxTE5jbGhYYXFVc004RE5jLU9zNXd0aEFGRDJBV05fTGpGUHZqdlg0S0o2VUc5eTdOcU00S3IwWi0teXh5amd2RmJCVW1UdWg0MkU4dlduRzh2bzhZdnN0dWRjc296cWJZOXllR0xJeW9qYjZ2SVN3WW9OUHpGaVptTktZZnNuYmIwcmhqQlY3T3ZUWG12cVE2aWhnRGhLSTVXdGRpdjV3X0haTDhpMHhtUQ?oc=5
-
-- Cabinet approves Rs 25,000 cr Ganga, Varuna corridors for Varanasi - The Times of India
-  Cabinet approves Rs 25,000 cr Ganga
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPYW5UNXRfWHl4N3UwWC1PSjA0QVRud1ZVck1IYTMtcHVTTUUyMjl1ODhuaTl3M3VCYzRRX0lCZ0dfQV8yd05EeVdUeDVZYzB5SHlzOFMteWJ3VlI3dWVhZTZMUW9wN0lTaE0xRTlLRHJuTzJqUzVNRmZzaFU1RGJ5SkZISXZxLVZ5YkNXb0R3YW9uQXZXRkVxNW1qTkdnNUMzdmNELXpIU0dyRGFTcFBGVmYtQ0NZT1FHTHJXUHRTYTZ0Uk9Ic2ZsVmFTQm7SAdIBQVVfeXFMUDNMdmJzQllnM3NpM1picW1nYldBcHdKbk02cG9SZDllVnBIb25UV2E0VlVweEFyN1Y3bVpRRFU1QmZBcWFsNmRMVTRvc2NxdmpFY3VpeVptSzlvdWJfa0ZnNkhQZ3BxTFNDRVZJUjQ3bG1qcXo0b0NhU291ampVOXh1eHA3NU82ODBLeVpDeHlTUm9GVU5FWHBiYWQ5WTR3emI0c2tPcWtMSkptWFdZaWZBSlp4SFA3SU1fOURpODVTMDV3ZzZJdjBkaVluMFJQZGRn?oc=5
+- Ghaziabad Man Begged For Help For 40 Minutes, Bled To Death Outside Police Booth - NDTV
+  Ghaziabad Man Begged For Help For 40 Minutes,
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPM0tUU3ctLXl0VjlYOWNuX1pOWmJXakl4M3ZaYXR6dFpJRUtlM25XSVZLT0Z0WDdoam9iaTdSVFdMRXo0SXJXU1lTWS1ucUtyaHRfUC0tSzRQcDN4czV4ZjROQ18xZWlHXzJDbFMtX29YamYtZDAzWUhrMmQ5dTQzR1VESkR6TWZxUnZFOU1QZmhtdnhYSHNyd294OTFkN1JwcWFBMC0yb9IBrwFBVV95cUxPN1ZrQ19LWGg2WU0xUWR1YnZXdG1ENHhfLUkwQjRIMU40Y2FCUFhKaXdCV2xvb3ZaZ2F4NUFyMUs0a3ZLcjVZZGJOdm5iUUJZODVCN1JJUG5SQ2hNcHEzVlpNNjVnTHJ6ZTEyVF9yTzdmSHg3bVM2T0VKa2tIVEZreVIwV19oZVVqYWt5WkxaREo0eFVUd1kwY2o1b3NselhpSTRnbU1tSjloNmZlRXdN?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-15 19:06:39 UTC_
+_Last updated: 2026-07-16 02:07:35 UTC_
