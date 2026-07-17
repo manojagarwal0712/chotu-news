@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- T Srinivasa Kumar appointed Earth Sciences Secretary
+- Congress MP Pawan Khera visits Sonam Wangchuk, slams ‘insensitive’ Centre
   
-  🔗 https://indianexpress.com/article/india/t-srinivasa-kumar-appointed-earth-sciences-secretary-10790249/
+  🔗 https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-congress-pawan-khera-pradhan-resignation-10790629/
 
-- After ‘new kidney or euthanasia’ demand, what Kota administration promised 5 new mothers
+- PM Modi flags off India’s first hydrogen train on Jind-Sonipat route
   
-  🔗 https://indianexpress.com/article/india/kota-hospital-medical-negligence-kidney-damage-euthanasia-plea-president-murmu-10790108/
+  🔗 https://indianexpress.com/article/india/pm-modi-flags-off-indias-first-hydrogen-train-launch-jind-sonipat-10787899/
 
-- US latest on immigration: Shrink visa duration for students, media
+- India news Live Updates, 17 July 2026: PM Modi says Strait of Hormuz has become a battlefield
   
-  🔗 https://indianexpress.com/article/india/trump-administration-us-student-journalists-visa-rules-fixed-term-10790151/
+  🔗 https://indianexpress.com/article/india/today-india-breaking-news-live-updates-17-july-2026-murshidabad-school-van-train-rohit-sharma-trump-china-voters-10790549/
 
-- ED questions TV host Shefali Bagga in Mahadev online betting app case
+- Murshidabad Train Accident Live Updates: West Bengal CM Suvendu Adhikari expresses grief, says railway gateman arrested after Murshidabad school van-train accident
   
-  🔗 https://indianexpress.com/article/india/enforcement-directorate-questions-shefali-bagga-mahadev-case-10790100/
+  🔗 https://indianexpress.com/article/india/murshidabad-train-accident-school-van-collision-karnasubarna-crossing-10790526/
 
-- Kerala BJP reacts after ‘fake’ GST bill row leads to police complaint
+- Man killed, 3 soldiers injured in firing in Jammu and Kashmir’s Doda
   
-  🔗 https://indianexpress.com/article/india/kerala-bjp-reacts-after-fake-gst-bill-row-leads-to-police-complaint-10790121/
+  🔗 https://indianexpress.com/article/india/doda-firing-man-killed-three-sog-personnel-injured-jammu-kashmir-10790358/
+
+- India smartphone market falls 10% in Q2 2026 as rising prices hit demand
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-smartphone-market-falls-10-in-q2-2026-as-rising-prices-hit-demand-10790761/
+
+- Satya Nadella says Anthropic’s Claude Fable restrictions ‘don’t make sense’
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/satya-nadella-anthropic-claude-fable-restrictions-10790404/
 
 - Apple’s Back to School 2026 offer: Free AirPods with Mac, Apple Pencil with iPad
   
@@ -32,13 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-thinking-machines-first-ai-model-inkling-10789620/
 
-- Apple Maps ads to ban home services, crypto ATMs as ad rollout nears
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-maps-ads-to-ban-home-services-crypto-atms-as-ad-rollout-nears-10789532/
+- JPMorgan in Talks With 100 Multinationals for India Finance Hub
+  More than 100 companies have approached JPMorgan Chase &amp; Co. to explore banking and payment solutions for corporate treasury operations in India's GIFT City.
+  🔗 https://www.livemint.com/companies/jpmorgan-in-talks-with-100-multinationals-for-india-finance-hub-11784271077084.html
 
-- Nvidia unveils Jetson Thor T3000, T2000 modules to accelerate robotics
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-jetson-thor-t3000-t2000-modules-robotics-10789193/
+- Jio likely to begin IPO marketing from next week for India's largest offer
+  Jio Platforms is set to begin informal meetings with large investors next week after its quarterly earnings. It could become India
+  🔗 https://www.livemint.com/companies/jio-platforms-reliance-industries-ipo-drhp-sebi-roadshows-soft-marketing-11784260405025.html
 
 - Trump Media to launch paid Truth Social feed for Wall Street, banks and trading firms
   Trump Media &amp;amp; Technology Group will launch a paid data feed, 'Truth API', offering banks and trading firms swift access to posts from influential
@@ -52,33 +60,29 @@
   India’s first, indigenous AI inference chip will be made and presented as early as 2029 or 2030. Cabinet approved a  ₹1.27 trillion Semicon 2.0
   🔗 https://www.livemint.com/companies/news/cdac-anchors-india-s-bid-for-nvidia-like-artificial-intelligence-chip-11784206912955.html
 
-- Tech Mahindra revs up while Wipro slows down in a tale of two IT firms
-  TCS CEO K. Krithivasan said the demand environment remained unchanged. HCLTech’s C. Vijayakumar said the unchanged geopolitical environment was translating
-  🔗 https://www.livemint.com/companies/tech-mahindra-q1-results-wipro-earnings-tcs-infosys-revenue-net-profit-11784208645193.html
+- Jio Financial Services share price jumps 6% after Q1 profit soars 155%; should you buy the stock?
+  Jio Financial Services reported a 155% YoY increase in consolidated net profit. The company’s growth was driven by significant revenue increases in its investing and lending sectors
+  🔗 https://www.livemint.com/market/stock-market-news/jio-financial-services-share-price-jumps-6-after-q1-profit-soars-155-in-q1-results-2026-should-you-buy-or-sell-stock-11784269234338.html
 
-- De Beers' Forevermark bets on India retail push as lab-grown diamonds surge
-  The opportunity in India stands in contrast to the crisis facing De Beers’ core mining business. The company has made one of its biggest rough-diamond price cuts in years.
-  🔗 https://www.livemint.com/companies/news/de-beers-pins-hopes-on-forevermark-retail-stores-to-sustain-natural-diamond-demand-in-india-11784205870361.html
+- Polycab India’s Q1 growth is solid. Now volumes need a recharge
+  Polycab’s Q1FY27 highlights how sensitive the business remains to commodity prices. Sharp declines in copper and aluminium prices
+  🔗 https://www.livemint.com/market/mark-to-market/polycab-q1-earnings-cables-wires-industry-india-polycab-share-price-11784269470143.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 17 July
-  Gift Nifty was trading around 24,098 level, a premium of nearly 2 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-17-july-11784253147210.html
+- Infosys, TCS, HCL Technologies to Tech Mahindra: Why are IT stocks rising today?
+  Infosys, Tech Mahindra and HCL Technologies led the sectoral rally. They were followed by Tata
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-tcs-hcl-technologies-to-tech-mahindra-why-are-it-stocks-rising-today-11784271768196.html
 
-- From Gift Nifty, US chip stocks selloff to oil prices: 10 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 24,113 level, a premium of nearly 17 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-chip-stocks-selloff-to-oil-prices-10-key-things-that-changed-for-indian-stock-market-overnight-11784252345427.html
+- Maharatna PSU stock Indian Oil Corporation sets board meeting date to declare Q1 results 2026
+  Indian Oil Corporation Ltd's board will meet on July 31, 2026, to review and approve Q
+  🔗 https://www.livemint.com/market/maharatna-psu-stock-indian-oil-corporation-sets-board-meeting-date-to-declare-q1-results-2026-11784270410513.html
 
-- Stocks to watch: Reliance Industries, Wipro, CEAT among shares in focus today; check list here
-  Nifty 50 and Sensex ended the session almost flat, while the broader market indices
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-reliance-industries-wipro-ceat-among-shares-in-focus-today-check-list-here-11784221922148.html
+- Sensex jumps 850 points: Reliance, HDFC Bank, ICICI Bank power Indian stock market ahead of Q1 results 2026
+  Sensex jumped over 850 points, or more than 1%, to an intraday high of 78,045. Nifty 50
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-jumps-800-points-reliance-hdfc-bank-icici-bank-power-indian-stock-market-ahead-of-q1-results-2026-11784268199353.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 17 July 2026
-  Sumeet Bagadia recommends five breakout stocks to buy today. Tanla Platforms, India Nippon Electricals, Ap
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-17-july-2026-11784220303452.html
-
-- Raja Venkatraman recommends three stocks for 17 July
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-17-july-11784248851294.html
+- Still leaving your home unwatched? These 5 indoor security cameras help you keep an eye on everything
+  These cameras also offer support for night vision technology. All of these security cameras offer 360
+  🔗 https://www.livemint.com/technology/still-leaving-your-home-unwatched-these-5-indoor-security-cameras-help-you-keep-an-eye-on-everything-11784215175858.html
 
 - Semicon 2.0: Govt to match VC funding in chip design, pick equity
   The scheme aims to reduce funding gaps in one of the country's most capital-intensive technology sectors. The government will match private investments in
@@ -96,129 +100,105 @@
   Apple plans to introduce ads on Apple Maps
   🔗 https://www.livemint.com/technology/tech-news/apple-reveals-businesses-that-wont-be-allowed-to-advertise-on-apple-maps-11784182863312.html
 
-- Microsoft trains sales team to talk down OpenAI, Anthropic AI models, pitches itself as 'full AI platform': Report
-  Microsoft is training sales teams to compete against Anthropic and OpenAI
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-trains-sales-team-to-talk-down-openai-anthropic-ai-models-pitches-itself-as-full-ai-platform-report-11784179281506.html
-
 - Markets News, July 16, 2026: Nasdaq Drops, Indexes Retreat as AI Spending Concerns Weigh on Chip Stocks - Investopedia
   The Nasdaq dropped on July 16, 2026 due to concerns over AI
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxORjBDSWV0RW5ROFl4NHNQcHAwWl95TE51NUk3UTRGVXdyaTE1MlZtc0k3dWJzeTEyMnhsYWxCbkw2ZUVjTHNvSnVQNkZhR1BIV1VQbTZzQkdfa3VkX0lhVFlYX0dUQnIxSk1rcnRZa2tVaFJuMXJORWdWMTI0OGwyU1hObUVkdXpLWi1QWWZoTWw?oc=5
 
-- Stock futures slip as major averages head for losing week; Netflix tumbles after earnings: Live updates - CNBC
-  Stock futures slip as major averages head for losing week. Netflix tumbles
+- Dow drops 100 points; S&P 500 closes lower as Alphabet and chip shares sell off: Live updates - CNBC
+  Dow drops 100 points; S&amp;P 500 closes lower as
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5NalVMTnpXMGRSaURFcm95Yk9GdUt4TjZUQ3JEZkNueUllUjVTUTdwanFrTTJuNXBncW82SVpoT1VjYnF2el92dzRKa2ZNbEY5LWRGNUxQdEpJSlBmdU9QR05hc2dKOW9FMGJtX1RPYVFfX1J4UEg00gF8QVVfeXFMTUdLTUtoNlVTTjBNeXRyZHJrNkxTWXJFOVAyTGVueGRJd3lDUnhJU3ZtM2Uwbmo5czVwMTl5NXZ6VEhPdlZDSmZFNkpzMzhjQ2N2NUp5OW12RDB5T0JnX0lGUjJ5bEM5Nk93b1JXOEtJc0FxaDNOR3MtRHRVWg?oc=5
+
+- Stock futures slide as Asia sell-off poised to spread; Tech selling resumes: Live updates - CNBC
+  Stock futures slide as Asia sell-off poised to spread.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9OcFRYM3dPUXBUbzdHcG0tOHVLN1pXM1dVQzRnRlZWZ1NtWVBUaFlvU0Jmd2VJdlRaekxORUJrYUZvYkt6RlZXUVoxSkFMMHc3emctMjhHQ2RCTHpsUmVKc2ZrX2d3cU40cHZ0UFNtNEVaNW1DbWs40gF8QVVfeXFMTVhCWnMzaVFEWWlYOVpPNTZUZWctUEY2Q0taN0ZMQ0ZFQTEwX2tNbE5faXlrb2pidkVQWTdsLWZ5eUhVVUlhN3kzSUR3ZUZZOFM0c3RrdUo0eDFuLTNTdC1xZkFvdFlkc2VQVjRSWTdBTDRPZlozS2NYYU9NWg?oc=5
 
-- Nasdaq Falls Sharply as Chip-Stock Slump Overshadows TSMC Record - WSJ
-  Nasdaq Falls Sharply as
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2pLYXRoUHNOZS0tVkNMV0lhQXExbDA2UjJMQTdGdkk3WVB0SEVLZlhyNTdEZ1hJVlAzTUVRdnh2b01TbzZGQ3NTc2R6SkJBdnpuZlRJcWJIcG5HcFhrZzhDdkFrUlhBT3RwdnJMQ2lYOEp2cG5UWkdKYVRHVGJTVjRrNWtJNWZYazJQeURRMVFpbXVmTWVuVHV6UTZQZHltTkk1LUZIX0FGeENt?oc=5
+- Asian Stocks Drop After Chip Selloff, Oil Gains: Markets Wrap - Bloomberg.com
+  Asian Stocks Drop After Chip Selloff
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1hEY0xabmQwOE5fek9mUk12anNLVlJ4Q2JVcUstZEtaYzVNRk5zTWlqTkVfeEsxME5sa1BQTDBMeU9ScldYZTlWaTRDQzFuMGlLWVpYeVQtRkR0OXNsTV9Ib3gydHQ4SWtWazQ2SG1FNUF6dE5icjc0cGFZTGJyaE5uYW5SR1pkV09SaHp2dVFqWTdD?oc=5
 
-- First Tick: Top global cues to watch in today's trade - Moneycontrol.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNZEYwNWg4VjMwUGZwTTAwb1VHM0pkWUo5SzJPb2FtS19kc1BmM1E1VXE5U1F6dlVSTWc1MlZUSFhMWFBOZjZJdUoyRlJlSHlBT1dPVERqQXM3Mm5CenAyUXhSY1hMcjRGQ18xemI5SW5faFFZVHdaanJmZXcxeGJkbkdxMFhWbUsyTGkzVUJDd21Fc1dfb0FYa0J3OGJzQTdtTDFTUUJBSWxMNDlLZWdOWmh6Y3dvLXZZQmU5dEpR0gHDAUFVX3lxTFBRNW9LVmk0LVJqYWd5MzhtZEVXcWZKLTRsRS1xbnhiOFlrU1h2dnVYdl9idzMzVVpIUXo1OUVhZ0dWRFhrZzhVLXhwRlhqR1AzeTBEOGNjcXFDbnMwUl9SSld6UmlIc3djZmU5VUc0MklJcUNMSThzU19ScHgwNWh3b0hZNEMta2lhN3NJRGRUWmRGamVTaUttVDd5ZmpUOV9GQUJCa0FMYmczYTRJT0s4dU0xU0psejVZSFkxX21oa2xMWQ?oc=5
+- Equity index futures fell as chip stocks dragged down markets. - CME Group
+  Equity index futures fell as chip stocks dragged
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaW9yZ0w4aXY4OWg3LThpMXN6X1FULW80WE1ackw0VWRYR0w0RlpONUlpYVVJdkozQURENVM5b2kwX2RIU3g1MTZBZmlvQ09SZDE0MWlIejFyT0FaZHJYa0sxVmJVWUNVWnZaNkhzWEs3dmh6bG9nSy1KTzhiVUxxMXAwZTRyWWZRLVYyZ2FaS3hqcWlPZlA3b2pvM0Q0YlZQWnZUd1lwd2FJZXpyOTZ1YQ?oc=5
 
-- 5 Things to Know Before the Stock Market Opens on Thursday - Investopedia
-  5 Things to Know Before the Stock Market Op
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPU0xtcWY2Y0w1N0Z6R2NYOGJFUndCZnB0S3J2U3VSVmNMbldPbk01Z3lJVDJfaC1hVlVSZjBDRWRKZmVGNE15Wklla1FCT3NGTVplcGhoRGY0dmlQeVVsbWItZWczQzIzd1FEVWlxMU1uOFlKdHhEbWdsTGxzLVk2SnF4Mk95QzJ3QVNOT3FrQ0ZNWUN5QlFCSldqTGg1YzZoLU5iX2lycEhJd3dTQ2c?oc=5
+- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
+  Hundreds vs Zero: Stealth Divide That Could Def
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
 
-- D-St set for a positive opening as GIFT Nifty signals firm start
-  Indian benchmark indices opened positively but traded within a narrow range. Foreign portfolio investors net sold shares while domestic institutional investors were net buyers. The rupee depreciated for the fourth straight day against the US dollar.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132450414.cms
+- 60 US Senators back new bill proposing 100% tariffs on India for buying Russian oil | India News - Hindustan Times
+  60 US Senators back new bill proposing 100% tariffs on India for buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWHlaenpjdnJLeVp1STlUNmxRMG5iOWJwb0lwQW9hYjRTYjBCOTJMaWRSS1RIQUdWV05jSVJXTkNlcHRJcmEyeEpxT3ZmbmpFdzZEdTg3Nl9jbW1FM0pkaWJtUWpoSzhfWC1pVnFfTkhnTXlGaTZGVUp6dmFVU0tXYkw0aHh2X1VJb3d3MEFxQlQyaldQXzVJUEVBLUNvdEZNeERTYV9PbmpaenVLQnoyS0JIbXJELWJydGhxQ01EUlJGdTd4MjBSUXQwMllDTkh0Mm1WYXlmRTc2WlZkWFHSAeMBQVVfeXFMUDQ3M1JyZ0thaGZham9VWUt1ZVRhWDdHdTliQ1U4M3FhR0x1R3VmenI2RGFyM3pianZEZms4V2MzcURlanN3SE1SOVhGOXhlMS00WVBDZFAyMlRhbGVfNjQ5eXl6eHhPcThiS1ptSHZrUHI5NHZ4WXNVVnpNRjlCYTM0N19INUFMaDA0SF9wU0ViRTdhVVlMWjdZbnU2SEhSVUNtM3ZpcW1QNHhVbjJIN29nVUpTRmRRdVNoX3FBSU95WWk5M0NpNG5SNi1xSW5HYjhyN0RIMkswTVZvanJsbVBPbk0?oc=5
 
-- Stocks in news: Reliance Industries, Tata Tech, Wipro, Jio Financial, ITC, Maruti Suzuki
-  Shares of Reliance Industries, Tata Tech, Wipro, Jio Financial, ITC, Maruti Suzuki among others
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-tata-tech-wipro-jio-financial-itc-maruti-suzuki/articleshow/132450386.cms
+- U.S. Senate Bill seeks 100% tariffs on India, 4 other nations for buying Russian oil - The Hindu
+  U.S. Senate Bill seeks 100% tariffs on India, 4
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMGREc0h5ZE9jZmt6R08tWlNzYkFuQW5wT2NmVlQwb0NrOHNzb3MwREVSMTJrMFFQbHJVR2M4QVVOMC1RTWxJcTF3S3RfdVZ5SjFzTEFPNU9WTHJFSVJFX28xSzlaMXo4MGFUVFFCSlczNXBtbUpFTThqTlkweHBBaW1OYjhqTzhBbXFGLUtVVUJhRTMzTkxiSEd0LXlOVndOc19TZEdOeTlQalVEeVYzbWR0UDdpOWs0WGVIa1pfNlJZV216ZFhRMnluYzJjUjlHZktDY0ZoU1pGZmZC0gHjAUFVX3lxTFBhZWZGSDA3Rk5YanZkOWUyMElLQXQwcVV6SHJTLXpDSV94YXJtQlJtanl2X1hlejAtTnNJRklaSTVqcmw5Q0l4SHMtMGU5Z2xwcTJ1RDJFc0dVS2JuYXdKNHJITHpKREczX0M1a2VzRmduVjFFODV1TGZNN0RsenVEWGFqSDVFNjA2OEFsMEpwTWplaXpic2Vib3AtWTRrZlMtMl9DNzRZMTRRMW1yYmhmcC1qRl9qc3U0OGVzV2FfdVRocEI5M3RiQXpnTDZpRUpXVTYwRXFkNXppMkJpZUc0MDlj?oc=5
 
-- Global Market Today: Asian stocks drop after chip selloff, oil gains
-  Asian stocks declined as chipmakers pulled down Wall Street. Investors are questioning the sustainability of massive artificial intelligence investments and tech valuations.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-after-chip-selloff-oil-gains/articleshow/132450371.cms
+- US imposes 25 per cent tariffs on Brazil, cites their concession to India, Mexico as reason - theweek.in
+  US imposes 25 per cent tariffs on Brazil, cites their concession to India
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTFdQd1NIMndfdTh1NTZ5QzdpaExJcnFvSXV2RFliLWpDeHBNSmFkNkk4T1VNRVFSa0lHREV5bFJlVWRZelN3YVByejlNMkVfMFJLeUpQQktiaVJ0TGN3WnJwWWhDSXM3eXdnVkd4dkthTkJ1cHhwVy1SNWlLUmtLX2NZT015Q3ZMT29VOTE2SUljV0hZd016a3NmMEx4VFZUMzNBWm90dGtmbUE3ZHBpYksyZGxzUG9IZVl1d3Bpc2k2OFJtR0lnVmdSd05KX20zSFdNc1ZR0gHbAUFVX3lxTE9uRlM5UUQzZmdybGQxVjY0SGtBNjdGVnJiT3d6X0E5Zk9QLW9jNWRTZVZPTTRncUJfeEc1a0xDQUNlbEViaklyVWMzd0VmNTYwRHBRcWh3T2ZIRUF0RVloT3VKUkNrT1FiUlJfcVY5RXFzaTZ0WDE3LV80a182QUdfaVlzQWZjSHI1QXhvMnJVNFJSeVJ6NjFVX2RSTkxTS3VIY3JoZDB3X1RIdVNwZ1JtVHN6RmdHclRoQzJRc2xsNXlBOTM2UmpDNWpyYmRTakFiT0RxX2VoVmpWaw?oc=5
 
-- Wipro's strong deal wins offset by weak revenue and margin decline
-  Wipro reported strong order bookings but saw revenue decline and margins contract. Future revenue guidance remains cautious, expecting a slight drop or marginal improvement. Stock valuation reflects investor sentiment, awaiting revenue and profitability improvements.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/wipros-strong-deal-wins-offset-by-weak-revenue-and-margin-decline/articleshow/132450336.cms
+- India: Modi silent as Sonam Wangchuk hunger strike continues - DW.com
+  Sonam Wangchuk's hunger strike
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclBKRDZCeGtjYXlIUjlLWUlCZzBJYkg1c1RibTd0QV9zWElOcEI3Y2VLYndqOEFLRExMbHFaNFNGcmthbnlKYmpQaGZLWWR2Z1hCZDJHOXpKOEJDbXEtemRhelE3SU1JWTFldjJKZ1phQllVSGxhY2FzV2otRXpJeEtsVTNuS2VNN1V5TV81VVRhcUxPeDZPZ0hLSDJqVGpRNWpCLW95TEhLQQ?oc=5
 
-- Logistics firms set for strong Q1 revenue growth despite margin pressure
-  Logistics sector revenue is poised for healthy growth in the June quarter. This expansion is driven by e-commerce demand and increased supply-chain outsourcing. However, elevated fuel costs and pricing pressures may impact profitability across companies.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/logistics-firms-set-for-strong-q1-revenue-growth-despite-margin-pressure/articleshow/132450304.cms
+- DPDP Is Coming Fast But Indian Startups Are Moving At Different Speeds
+  India&#8217;s data protection law is no longer a can that companies can kick down the road. With the Digital Personal Data Protection Act (DPDP), companies can no longer
+  🔗 https://inc42.com/features/dpdp-is-coming-fast-but-indian-startups-are-are-moving-at-different-speeds/
 
-- El Nino May Make History This Year: What It Means For India - NDTV
-  El Nino may make history this year: What
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXVubXZQY0pvQ2t0QnFleGZQNXNab1pqYV8zTmxCeE9yTFJwc0FkVnNOa3pHbXp1YkhkclVrSmR2RzdQdkxCajNmWk5DSHFKVTNyV2E5Tm53VHVOUUVzQzBRTkVFUGx3Q0YyaE1VQTZFTjN4d203WkFtdE00Nk9BcjhZbTl1Y1RqZEpJWDktQU94YnF1aEZ2T3RMQXBhTnhG0gGoAUFVX3lxTE15ZWhUS2s2ZnNLMF9IS0pSRndVNWhQc3JISXFZLWo5eTNzY1ozSGlMSU1zTzlHWXNDWGVyUzFTeDNETWpOM19tSnpnd2g1bktfWUFERnF6X3JsSENrWE9ZYXVGTDNXVFJsUjhmS2hwUVBVRlU1Vl91Q05rcm03UHFjb2lRd3FoYmRMQmhFbENYVEt2Q3FmNnBtcmROcnRmd1c0SUUwMWpNSA?oc=5
+- WeWork India Sinks 10% As Q1 Net Loss Weighs On Investor Sentiment
+  Shares of WeWork India fell as much as 9.6% to hit an intraday low of ₹657.85 on the BSE.
+  🔗 https://inc42.com/buzz/wework-india-sinks-10-as-q1-net-loss-weighs-on-investor-sentiment/
 
-- India news: Murders following romantic rejections increase - DW.com
-  India news: Murders
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3NES2hqLUM1YzBtMVQxVmpQaXBkVHl4amZyc2NGWHktNC1LT0FhM0RPY0N2WElPVWt2U1ZyVXphdTJpUzRXYmR3SGxUUnNrMFhHX0t0UEo2RkFzbGZNN01ZczA1MXJKQzA1cWJVRGplN2ZPWnlOSkJiSUlJSDlGY3YtQTlKSElwU2xHWG51c2tuREFTWGlTXw?oc=5
+- BYJU’S Inches Closer To Resolving Aakash Dispute After Creditors’ Nod
+  Creditors of Think &#38; Learn, the parent company of troubled edtech giant BYJU&#8217;S, have approved a proposal to settle.
+  🔗 https://inc42.com/buzz/byjus-inches-closer-to-resolving-aakash-dispute-after-creditors-nod/
 
-- Rohit Sharma no more automatic selection after Lord's ODI - The Times of India
-  Rohit Sharma no more automatic selection after Lord
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZXIyT1R1dFdTNm9sVDUwX19ITUpVbnFoc2dXcjhrT3BFUHgyRkZ3cVBRMjhJUFVjd2NEZHgzYW1acU96V2FGM2duSV9xNHdUV3ZXMmlkYzhHRFdKZGV2ZFprQmFQYnBpc0k5NnM1aVdpdkJ5RU9OR2pEczB0eFFYcERtRU83RDRpdG9Xb1M2b3oyaDRDN0N4TVpzUlpBMEFuWUdTWHBxTVdwZ3pmb1JPQTdodFNlNl8zWTdNVnJZYVdFbm4wUktxV3VQTDlmQkJjODRBV01UZ29vWVdubzlqSUdKTTVoUmp5dWVV0gHwAUFVX3lxTE9WT2VJSl9Za0J0dlZjSEdDSTVjM3FxckZNNnI3VC1Td2M2dGhmbXNQcUtyeXhwLTFfcExuc1lCd0k1NXQ3RTlJRUtIYlE3OXNZN0Z0UkFSQndweHdzTWZmOU1SX0MxR1RXZnRwSzVQS1EwT2dtN1RWM3g4YksxVmE1REx2dDNMeVByRENjcU0wbS1jaVJIUkFOMzJiTkNYV1doZ3ZJRlZNeVNpQ1FRV0lEYWhjUU1lUnd0MF83amctTUdEcW4tVGtiTDdJNFFjRXhpMlA0c0puUmFYZHQ1dlJsUmRPQ3RyWEpsZ3RzUDEyMQ?oc=5
+- Kissht Receives Certification For Mutual Fund Distribution
+  Recently listed OnEMI, the parent company of lending tech player Kissht, has received authorisation from the Association of Mutual Funds.
+  🔗 https://inc42.com/buzz/kissht-receives-certification-for-mutual-fund-distribution/
 
-- Bad news for star player from Shubman Gill's Team India in middle of England ODI series, ICC have taken BIG action to... - India.Com
-   ICC have taken BIG action to remove Shubman Gill from England ODI team.
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxQSUVhWTcwc1pzRU1yY045VmM4RW4tbjdwMi1oeEQ1NUxqTU5FXzA5UnZzOHJBRW96NDZlQUZxVXNkb3VNbUJUU3YzdWtWQUxhOVpFd2tmR2pZVVQ0eGhNOFpJX3NSRXhDNmJQQ3o5QnBGMURQMGZUNmJwLU1yUUxtUWhNalpFNnVNMUdpV2cxNmNIUVZzRlRNTzRuU09vT1hVSkgzS0kzYWhrc0tYUTE1anlNQXlzMWFId2diWWNYdEZnTUVQWHl0Q2x5djRWU3hzOWpnc1BXTXdxZFJlR1plQVAwRTJiTTVZZ1hwX0NudHpxckxmdlJRc0tiQ21FQ2k4M29WbklpZWM5aTltNTlTSHZjZk52Y1JPRVFpcWw2LWY0cHQ1?oc=5
+- JFS’ Profitability Flex, Reo.Dev Bags $11 Mn & More
+  Jio Financial Services had a profitable Q1. Reo.Dev Bags $11 Mn.
+  🔗 https://inc42.com/buzz/jfs-profitability-flex-reo-dev-bags-11-mn-more/
 
-- Jasprit Bumrah scripts never-seen-before England record with first-ball stunner - The Times of India
-  Jasprit Bumrah scripts never-seen
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQdmwzZUdKS2ZiYmU2ZWdfTmxLZkgwNFJ2S19PSWU5NG5hM1RweTNFbnhvOGxnaU1rNkJMMTJnVTNYaTEyYWx6QUM0UFZrLWZUNk51UGFlWEVtcG9BSzMwUDdfNzJvUmFEV2JyQkw1XzhSeC1EZnVEaG45NnQ5MlpFNFJ6TFQ1YnBtUG55VzdMN29ualRKSWo1ZTBfVHUyZE0ydWFaN1dYQkdGNUt4TmNEM0VSSXVZNkE3OEVLYjVDb2U4MGczZHpZZk1WblFYNVdmWjJvbW40VW13NTZKUHJHMlhSMkd3cjVZdlRuYTV0eTRtNXFERXdUUVJ6QkdRSm5UM09Ucnc1M1Znd9IBjwJBVV95cUxNTWh4ZWEtNWdaaVN0Vlh4RERrQ2d1X0lYQmhrTFFsdkJjYzduczdVTVVvUl9wdzN5TThXOXBvamdHZnVvTVdNU1RMT2VzSjZacnFTNDM1WVhOaldQWXZSekhGMWtOWVhMS2JrTVFNSUNQMFlUcHV6Y2RxcWFCV2syeUpyR2o3ZklBR1VsZmZnMTFPYTlpN2dkREdHSkpFLTk2RDRHS2t0VC01UXhiUTU2VFJKeFlwb3laLXZQaXl6RFNER0UwaHhmUkkyeWhrdkswVjUxTWRSYXNJR2NFaVowX181NmpXVzFQVXRLeU9yUGtGaVpod0hpbmx6MjNFZFpiS0sxMEsyOUhyQUFqSG9F?oc=5
+- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
+  Hundreds vs Zero: Stealth Divide That Could Def
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
 
-- PhysicsWallah Acquires Majority Stake In Sarrthi IAS For ₹72 Cr
-  Listed edtech major PhysicsWallah (PW) has acquired an additional 11% stake in UPSC coaching institute Sarrthi IAS.
-  🔗 https://inc42.com/buzz/physicswallah-acquires-majority-stake-in-sarrthi-ias-for-%e2%82%b972-cr/
+- 60 US Senators back new bill proposing 100% tariffs on India for buying Russian oil | India News - Hindustan Times
+  60 US Senators back new bill proposing 100% tariffs on India for buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWHlaenpjdnJLeVp1STlUNmxRMG5iOWJwb0lwQW9hYjRTYjBCOTJMaWRSS1RIQUdWV05jSVJXTkNlcHRJcmEyeEpxT3ZmbmpFdzZEdTg3Nl9jbW1FM0pkaWJtUWpoSzhfWC1pVnFfTkhnTXlGaTZGVUp6dmFVU0tXYkw0aHh2X1VJb3d3MEFxQlQyaldQXzVJUEVBLUNvdEZNeERTYV9PbmpaenVLQnoyS0JIbXJELWJydGhxQ01EUlJGdTd4MjBSUXQwMllDTkh0Mm1WYXlmRTc2WlZkWFHSAeMBQVVfeXFMUDQ3M1JyZ0thaGZham9VWUt1ZVRhWDdHdTliQ1U4M3FhR0x1R3VmenI2RGFyM3pianZEZms4V2MzcURlanN3SE1SOVhGOXhlMS00WVBDZFAyMlRhbGVfNjQ5eXl6eHhPcThiS1ptSHZrUHI5NHZ4WXNVVnpNRjlCYTM0N19INUFMaDA0SF9wU0ViRTdhVVlMWjdZbnU2SEhSVUNtM3ZpcW1QNHhVbjJIN29nVUpTRmRRdVNoX3FBSU95WWk5M0NpNG5SNi1xSW5HYjhyN0RIMkswTVZvanJsbVBPbk0?oc=5
 
-- Neo Group Nets ₹350 Cr From Peak XV Partners To Strengthen Wealthtech Play
-  Neo Group has raised about ₹350 Cr ($36.3 Mn) in a funding round.
-  🔗 https://inc42.com/buzz/neo-group-nets-%e2%82%b9350-cr-from-peak-xv-partners-to-strengthen-wealthtech-play/
+- U.S. Senate Bill seeks 100% tariffs on India, 4 other nations for buying Russian oil - The Hindu
+  U.S. Senate Bill seeks 100% tariffs on India, 4
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMGREc0h5ZE9jZmt6R08tWlNzYkFuQW5wT2NmVlQwb0NrOHNzb3MwREVSMTJrMFFQbHJVR2M4QVVOMC1RTWxJcTF3S3RfdVZ5SjFzTEFPNU9WTHJFSVJFX28xSzlaMXo4MGFUVFFCSlczNXBtbUpFTThqTlkweHBBaW1OYjhqTzhBbXFGLUtVVUJhRTMzTkxiSEd0LXlOVndOc19TZEdOeTlQalVEeVYzbWR0UDdpOWs0WGVIa1pfNlJZV216ZFhRMnluYzJjUjlHZktDY0ZoU1pGZmZC0gHjAUFVX3lxTFBhZWZGSDA3Rk5YanZkOWUyMElLQXQwcVV6SHJTLXpDSV94YXJtQlJtanl2X1hlejAtTnNJRklaSTVqcmw5Q0l4SHMtMGU5Z2xwcTJ1RDJFc0dVS2JuYXdKNHJITHpKREczX0M1a2VzRmduVjFFODV1TGZNN0RsenVEWGFqSDVFNjA2OEFsMEpwTWplaXpic2Vib3AtWTRrZlMtMl9DNzRZMTRRMW1yYmhmcC1qRl9qc3U0OGVzV2FfdVRocEI5M3RiQXpnTDZpRUpXVTYwRXFkNXppMkJpZUc0MDlj?oc=5
 
-- WeWork Back In The Red In Q1 FY27, Reports ₹4 Cr Loss
-  Coworking giant WeWork India slipped into the red in the first quarter (Q1) of fiscal year 2026-27 (FY
-  🔗 https://inc42.com/buzz/wework-back-in-the-red-in-q1-fy27-reports-%e2%82%b94-cr-loss/
+- US imposes 25 per cent tariffs on Brazil, cites their concession to India, Mexico as reason - theweek.in
+  US imposes 25 per cent tariffs on Brazil, cites their concession to India
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTFdQd1NIMndfdTh1NTZ5QzdpaExJcnFvSXV2RFliLWpDeHBNSmFkNkk4T1VNRVFSa0lHREV5bFJlVWRZelN3YVByejlNMkVfMFJLeUpQQktiaVJ0TGN3WnJwWWhDSXM3eXdnVkd4dkthTkJ1cHhwVy1SNWlLUmtLX2NZT015Q3ZMT29VOTE2SUljV0hZd016a3NmMEx4VFZUMzNBWm90dGtmbUE3ZHBpYksyZGxzUG9IZVl1d3Bpc2k2OFJtR0lnVmdSd05KX20zSFdNc1ZR0gHbAUFVX3lxTE9uRlM5UUQzZmdybGQxVjY0SGtBNjdGVnJiT3d6X0E5Zk9QLW9jNWRTZVZPTTRncUJfeEc1a0xDQUNlbEViaklyVWMzd0VmNTYwRHBRcWh3T2ZIRUF0RVloT3VKUkNrT1FiUlJfcVY5RXFzaTZ0WDE3LV80a182QUdfaVlzQWZjSHI1QXhvMnJVNFJSeVJ6NjFVX2RSTkxTS3VIY3JoZDB3X1RIdVNwZ1JtVHN6RmdHclRoQzJRc2xsNXlBOTM2UmpDNWpyYmRTakFiT0RxX2VoVmpWaw?oc=5
 
-- Ahead Of Mission II, Spacetech Soonicorn Agnikul Ropes In Ex-ISRO Chairman Somanath As Board Observer
-  Spacetech startup Agnikul Cosmos has onboarded former Indian Space Research Organisation (ISRO) chairman Dr Somanath S as an observer to
-  🔗 https://inc42.com/buzz/ahead-of-mission-ii-spacetech-soonicorn-agnikul-ropes-in-ex-isro-chairman-somanath-as-board-observer/
+- India: Modi silent as Sonam Wangchuk hunger strike continues - DW.com
+  Sonam Wangchuk's hunger strike
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclBKRDZCeGtjYXlIUjlLWUlCZzBJYkg1c1RibTd0QV9zWElOcEI3Y2VLYndqOEFLRExMbHFaNFNGcmthbnlKYmpQaGZLWWR2Z1hCZDJHOXpKOEJDbXEtemRhelE3SU1JWTFldjJKZ1phQllVSGxhY2FzV2otRXpJeEtsVTNuS2VNN1V5TV81VVRhcUxPeDZPZ0hLSDJqVGpRNWpCLW95TEhLQQ?oc=5
 
-- B2B Garment Manufacturing Platform Groyyo Raises ₹90 Cr To Expand Supplier Network
-  B2B manufacturing and supply chain startup Groyyo has secured ₹90 Cr (about $9.3 Mn)
-  🔗 https://inc42.com/buzz/b2b-garment-manufacturing-platform-groyyo-raises-%e2%82%b990-cr-to-expand-supplier-network/
+- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
+  Hundreds vs Zero: Stealth Divide That Could Def
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
 
-- El Nino May Make History This Year: What It Means For India - NDTV
-  El Nino may make history this year: What
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXVubXZQY0pvQ2t0QnFleGZQNXNab1pqYV8zTmxCeE9yTFJwc0FkVnNOa3pHbXp1YkhkclVrSmR2RzdQdkxCajNmWk5DSHFKVTNyV2E5Tm53VHVOUUVzQzBRTkVFUGx3Q0YyaE1VQTZFTjN4d203WkFtdE00Nk9BcjhZbTl1Y1RqZEpJWDktQU94YnF1aEZ2T3RMQXBhTnhG0gGoAUFVX3lxTE15ZWhUS2s2ZnNLMF9IS0pSRndVNWhQc3JISXFZLWo5eTNzY1ozSGlMSU1zTzlHWXNDWGVyUzFTeDNETWpOM19tSnpnd2g1bktfWUFERnF6X3JsSENrWE9ZYXVGTDNXVFJsUjhmS2hwUVBVRlU1Vl91Q05rcm03UHFjb2lRd3FoYmRMQmhFbENYVEt2Q3FmNnBtcmROcnRmd1c0SUUwMWpNSA?oc=5
+- 60 US Senators back new bill proposing 100% tariffs on India for buying Russian oil | India News - Hindustan Times
+  60 US Senators back new bill proposing 100% tariffs on India for buying Russian oil.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWHlaenpjdnJLeVp1STlUNmxRMG5iOWJwb0lwQW9hYjRTYjBCOTJMaWRSS1RIQUdWV05jSVJXTkNlcHRJcmEyeEpxT3ZmbmpFdzZEdTg3Nl9jbW1FM0pkaWJtUWpoSzhfWC1pVnFfTkhnTXlGaTZGVUp6dmFVU0tXYkw0aHh2X1VJb3d3MEFxQlQyaldQXzVJUEVBLUNvdEZNeERTYV9PbmpaenVLQnoyS0JIbXJELWJydGhxQ01EUlJGdTd4MjBSUXQwMllDTkh0Mm1WYXlmRTc2WlZkWFHSAeMBQVVfeXFMUDQ3M1JyZ0thaGZham9VWUt1ZVRhWDdHdTliQ1U4M3FhR0x1R3VmenI2RGFyM3pianZEZms4V2MzcURlanN3SE1SOVhGOXhlMS00WVBDZFAyMlRhbGVfNjQ5eXl6eHhPcThiS1ptSHZrUHI5NHZ4WXNVVnpNRjlCYTM0N19INUFMaDA0SF9wU0ViRTdhVVlMWjdZbnU2SEhSVUNtM3ZpcW1QNHhVbjJIN29nVUpTRmRRdVNoX3FBSU95WWk5M0NpNG5SNi1xSW5HYjhyN0RIMkswTVZvanJsbVBPbk0?oc=5
 
-- India news: Murders following romantic rejections increase - DW.com
-  India news: Murders
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3NES2hqLUM1YzBtMVQxVmpQaXBkVHl4amZyc2NGWHktNC1LT0FhM0RPY0N2WElPVWt2U1ZyVXphdTJpUzRXYmR3SGxUUnNrMFhHX0t0UEo2RkFzbGZNN01ZczA1MXJKQzA1cWJVRGplN2ZPWnlOSkJiSUlJSDlGY3YtQTlKSElwU2xHWG51c2tuREFTWGlTXw?oc=5
+- U.S. Senate Bill seeks 100% tariffs on India, 4 other nations for buying Russian oil - The Hindu
+  U.S. Senate Bill seeks 100% tariffs on India, 4
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMGREc0h5ZE9jZmt6R08tWlNzYkFuQW5wT2NmVlQwb0NrOHNzb3MwREVSMTJrMFFQbHJVR2M4QVVOMC1RTWxJcTF3S3RfdVZ5SjFzTEFPNU9WTHJFSVJFX28xSzlaMXo4MGFUVFFCSlczNXBtbUpFTThqTlkweHBBaW1OYjhqTzhBbXFGLUtVVUJhRTMzTkxiSEd0LXlOVndOc19TZEdOeTlQalVEeVYzbWR0UDdpOWs0WGVIa1pfNlJZV216ZFhRMnluYzJjUjlHZktDY0ZoU1pGZmZC0gHjAUFVX3lxTFBhZWZGSDA3Rk5YanZkOWUyMElLQXQwcVV6SHJTLXpDSV94YXJtQlJtanl2X1hlejAtTnNJRklaSTVqcmw5Q0l4SHMtMGU5Z2xwcTJ1RDJFc0dVS2JuYXdKNHJITHpKREczX0M1a2VzRmduVjFFODV1TGZNN0RsenVEWGFqSDVFNjA2OEFsMEpwTWplaXpic2Vib3AtWTRrZlMtMl9DNzRZMTRRMW1yYmhmcC1qRl9qc3U0OGVzV2FfdVRocEI5M3RiQXpnTDZpRUpXVTYwRXFkNXppMkJpZUc0MDlj?oc=5
 
-- Rohit Sharma no more automatic selection after Lord's ODI - The Times of India
-  Rohit Sharma no more automatic selection after Lord
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZXIyT1R1dFdTNm9sVDUwX19ITUpVbnFoc2dXcjhrT3BFUHgyRkZ3cVBRMjhJUFVjd2NEZHgzYW1acU96V2FGM2duSV9xNHdUV3ZXMmlkYzhHRFdKZGV2ZFprQmFQYnBpc0k5NnM1aVdpdkJ5RU9OR2pEczB0eFFYcERtRU83RDRpdG9Xb1M2b3oyaDRDN0N4TVpzUlpBMEFuWUdTWHBxTVdwZ3pmb1JPQTdodFNlNl8zWTdNVnJZYVdFbm4wUktxV3VQTDlmQkJjODRBV01UZ29vWVdubzlqSUdKTTVoUmp5dWVV0gHwAUFVX3lxTE9WT2VJSl9Za0J0dlZjSEdDSTVjM3FxckZNNnI3VC1Td2M2dGhmbXNQcUtyeXhwLTFfcExuc1lCd0k1NXQ3RTlJRUtIYlE3OXNZN0Z0UkFSQndweHdzTWZmOU1SX0MxR1RXZnRwSzVQS1EwT2dtN1RWM3g4YksxVmE1REx2dDNMeVByRENjcU0wbS1jaVJIUkFOMzJiTkNYV1doZ3ZJRlZNeVNpQ1FRV0lEYWhjUU1lUnd0MF83amctTUdEcW4tVGtiTDdJNFFjRXhpMlA0c0puUmFYZHQ1dlJsUmRPQ3RyWEpsZ3RzUDEyMQ?oc=5
+- US imposes 25 per cent tariffs on Brazil, cites their concession to India, Mexico as reason - theweek.in
+  US imposes 25 per cent tariffs on Brazil, cites their concession to India
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTFdQd1NIMndfdTh1NTZ5QzdpaExJcnFvSXV2RFliLWpDeHBNSmFkNkk4T1VNRVFSa0lHREV5bFJlVWRZelN3YVByejlNMkVfMFJLeUpQQktiaVJ0TGN3WnJwWWhDSXM3eXdnVkd4dkthTkJ1cHhwVy1SNWlLUmtLX2NZT015Q3ZMT29VOTE2SUljV0hZd016a3NmMEx4VFZUMzNBWm90dGtmbUE3ZHBpYksyZGxzUG9IZVl1d3Bpc2k2OFJtR0lnVmdSd05KX20zSFdNc1ZR0gHbAUFVX3lxTE9uRlM5UUQzZmdybGQxVjY0SGtBNjdGVnJiT3d6X0E5Zk9QLW9jNWRTZVZPTTRncUJfeEc1a0xDQUNlbEViaklyVWMzd0VmNTYwRHBRcWh3T2ZIRUF0RVloT3VKUkNrT1FiUlJfcVY5RXFzaTZ0WDE3LV80a182QUdfaVlzQWZjSHI1QXhvMnJVNFJSeVJ6NjFVX2RSTkxTS3VIY3JoZDB3X1RIdVNwZ1JtVHN6RmdHclRoQzJRc2xsNXlBOTM2UmpDNWpyYmRTakFiT0RxX2VoVmpWaw?oc=5
 
-- Bad news for star player from Shubman Gill's Team India in middle of England ODI series, ICC have taken BIG action to... - India.Com
-   ICC have taken BIG action to remove Shubman Gill from England ODI team.
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxQSUVhWTcwc1pzRU1yY045VmM4RW4tbjdwMi1oeEQ1NUxqTU5FXzA5UnZzOHJBRW96NDZlQUZxVXNkb3VNbUJUU3YzdWtWQUxhOVpFd2tmR2pZVVQ0eGhNOFpJX3NSRXhDNmJQQ3o5QnBGMURQMGZUNmJwLU1yUUxtUWhNalpFNnVNMUdpV2cxNmNIUVZzRlRNTzRuU09vT1hVSkgzS0kzYWhrc0tYUTE1anlNQXlzMWFId2diWWNYdEZnTUVQWHl0Q2x5djRWU3hzOWpnc1BXTXdxZFJlR1plQVAwRTJiTTVZZ1hwX0NudHpxckxmdlJRc0tiQ21FQ2k4M29WbklpZWM5aTltNTlTSHZjZk52Y1JPRVFpcWw2LWY0cHQ1?oc=5
-
-- Jasprit Bumrah scripts never-seen-before England record with first-ball stunner - The Times of India
-  Jasprit Bumrah scripts never-seen
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQdmwzZUdKS2ZiYmU2ZWdfTmxLZkgwNFJ2S19PSWU5NG5hM1RweTNFbnhvOGxnaU1rNkJMMTJnVTNYaTEyYWx6QUM0UFZrLWZUNk51UGFlWEVtcG9BSzMwUDdfNzJvUmFEV2JyQkw1XzhSeC1EZnVEaG45NnQ5MlpFNFJ6TFQ1YnBtUG55VzdMN29ualRKSWo1ZTBfVHUyZE0ydWFaN1dYQkdGNUt4TmNEM0VSSXVZNkE3OEVLYjVDb2U4MGczZHpZZk1WblFYNVdmWjJvbW40VW13NTZKUHJHMlhSMkd3cjVZdlRuYTV0eTRtNXFERXdUUVJ6QkdRSm5UM09Ucnc1M1Znd9IBjwJBVV95cUxNTWh4ZWEtNWdaaVN0Vlh4RERrQ2d1X0lYQmhrTFFsdkJjYzduczdVTVVvUl9wdzN5TThXOXBvamdHZnVvTVdNU1RMT2VzSjZacnFTNDM1WVhOaldQWXZSekhGMWtOWVhMS2JrTVFNSUNQMFlUcHV6Y2RxcWFCV2syeUpyR2o3ZklBR1VsZmZnMTFPYTlpN2dkREdHSkpFLTk2RDRHS2t0VC01UXhiUTU2VFJKeFlwb3laLXZQaXl6RFNER0UwaHhmUkkyeWhrdkswVjUxTWRSYXNJR2NFaVowX181NmpXVzFQVXRLeU9yUGtGaVpod0hpbmx6MjNFZFpiS0sxMEsyOUhyQUFqSG9F?oc=5
-
-- El Nino May Make History This Year: What It Means For India - NDTV
-  El Nino may make history this year: What
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXVubXZQY0pvQ2t0QnFleGZQNXNab1pqYV8zTmxCeE9yTFJwc0FkVnNOa3pHbXp1YkhkclVrSmR2RzdQdkxCajNmWk5DSHFKVTNyV2E5Tm53VHVOUUVzQzBRTkVFUGx3Q0YyaE1VQTZFTjN4d203WkFtdE00Nk9BcjhZbTl1Y1RqZEpJWDktQU94YnF1aEZ2T3RMQXBhTnhG0gGoAUFVX3lxTE15ZWhUS2s2ZnNLMF9IS0pSRndVNWhQc3JISXFZLWo5eTNzY1ozSGlMSU1zTzlHWXNDWGVyUzFTeDNETWpOM19tSnpnd2g1bktfWUFERnF6X3JsSENrWE9ZYXVGTDNXVFJsUjhmS2hwUVBVRlU1Vl91Q05rcm03UHFjb2lRd3FoYmRMQmhFbENYVEt2Q3FmNnBtcmROcnRmd1c0SUUwMWpNSA?oc=5
-
-- India news: Murders following romantic rejections increase - DW.com
-  India news: Murders
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3NES2hqLUM1YzBtMVQxVmpQaXBkVHl4amZyc2NGWHktNC1LT0FhM0RPY0N2WElPVWt2U1ZyVXphdTJpUzRXYmR3SGxUUnNrMFhHX0t0UEo2RkFzbGZNN01ZczA1MXJKQzA1cWJVRGplN2ZPWnlOSkJiSUlJSDlGY3YtQTlKSElwU2xHWG51c2tuREFTWGlTXw?oc=5
-
-- Rohit Sharma no more automatic selection after Lord's ODI - The Times of India
-  Rohit Sharma no more automatic selection after Lord
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZXIyT1R1dFdTNm9sVDUwX19ITUpVbnFoc2dXcjhrT3BFUHgyRkZ3cVBRMjhJUFVjd2NEZHgzYW1acU96V2FGM2duSV9xNHdUV3ZXMmlkYzhHRFdKZGV2ZFprQmFQYnBpc0k5NnM1aVdpdkJ5RU9OR2pEczB0eFFYcERtRU83RDRpdG9Xb1M2b3oyaDRDN0N4TVpzUlpBMEFuWUdTWHBxTVdwZ3pmb1JPQTdodFNlNl8zWTdNVnJZYVdFbm4wUktxV3VQTDlmQkJjODRBV01UZ29vWVdubzlqSUdKTTVoUmp5dWVV0gHwAUFVX3lxTE9WT2VJSl9Za0J0dlZjSEdDSTVjM3FxckZNNnI3VC1Td2M2dGhmbXNQcUtyeXhwLTFfcExuc1lCd0k1NXQ3RTlJRUtIYlE3OXNZN0Z0UkFSQndweHdzTWZmOU1SX0MxR1RXZnRwSzVQS1EwT2dtN1RWM3g4YksxVmE1REx2dDNMeVByRENjcU0wbS1jaVJIUkFOMzJiTkNYV1doZ3ZJRlZNeVNpQ1FRV0lEYWhjUU1lUnd0MF83amctTUdEcW4tVGtiTDdJNFFjRXhpMlA0c0puUmFYZHQ1dlJsUmRPQ3RyWEpsZ3RzUDEyMQ?oc=5
-
-- Bad news for star player from Shubman Gill's Team India in middle of England ODI series, ICC have taken BIG action to... - India.Com
-   ICC have taken BIG action to remove Shubman Gill from England ODI team.
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxQSUVhWTcwc1pzRU1yY045VmM4RW4tbjdwMi1oeEQ1NUxqTU5FXzA5UnZzOHJBRW96NDZlQUZxVXNkb3VNbUJUU3YzdWtWQUxhOVpFd2tmR2pZVVQ0eGhNOFpJX3NSRXhDNmJQQ3o5QnBGMURQMGZUNmJwLU1yUUxtUWhNalpFNnVNMUdpV2cxNmNIUVZzRlRNTzRuU09vT1hVSkgzS0kzYWhrc0tYUTE1anlNQXlzMWFId2diWWNYdEZnTUVQWHl0Q2x5djRWU3hzOWpnc1BXTXdxZFJlR1plQVAwRTJiTTVZZ1hwX0NudHpxckxmdlJRc0tiQ21FQ2k4M29WbklpZWM5aTltNTlTSHZjZk52Y1JPRVFpcWw2LWY0cHQ1?oc=5
-
-- Jasprit Bumrah scripts never-seen-before England record with first-ball stunner - The Times of India
-  Jasprit Bumrah scripts never-seen
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQdmwzZUdKS2ZiYmU2ZWdfTmxLZkgwNFJ2S19PSWU5NG5hM1RweTNFbnhvOGxnaU1rNkJMMTJnVTNYaTEyYWx6QUM0UFZrLWZUNk51UGFlWEVtcG9BSzMwUDdfNzJvUmFEV2JyQkw1XzhSeC1EZnVEaG45NnQ5MlpFNFJ6TFQ1YnBtUG55VzdMN29ualRKSWo1ZTBfVHUyZE0ydWFaN1dYQkdGNUt4TmNEM0VSSXVZNkE3OEVLYjVDb2U4MGczZHpZZk1WblFYNVdmWjJvbW40VW13NTZKUHJHMlhSMkd3cjVZdlRuYTV0eTRtNXFERXdUUVJ6QkdRSm5UM09Ucnc1M1Znd9IBjwJBVV95cUxNTWh4ZWEtNWdaaVN0Vlh4RERrQ2d1X0lYQmhrTFFsdkJjYzduczdVTVVvUl9wdzN5TThXOXBvamdHZnVvTVdNU1RMT2VzSjZacnFTNDM1WVhOaldQWXZSekhGMWtOWVhMS2JrTVFNSUNQMFlUcHV6Y2RxcWFCV2syeUpyR2o3ZklBR1VsZmZnMTFPYTlpN2dkREdHSkpFLTk2RDRHS2t0VC01UXhiUTU2VFJKeFlwb3laLXZQaXl6RFNER0UwaHhmUkkyeWhrdkswVjUxTWRSYXNJR2NFaVowX181NmpXVzFQVXRLeU9yUGtGaVpod0hpbmx6MjNFZFpiS0sxMEsyOUhyQUFqSG9F?oc=5
+- India: Modi silent as Sonam Wangchuk hunger strike continues - DW.com
+  Sonam Wangchuk's hunger strike
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclBKRDZCeGtjYXlIUjlLWUlCZzBJYkg1c1RibTd0QV9zWElOcEI3Y2VLYndqOEFLRExMbHFaNFNGcmthbnlKYmpQaGZLWWR2Z1hCZDJHOXpKOEJDbXEtemRhelE3SU1JWTFldjJKZ1phQllVSGxhY2FzV2otRXpJeEtsVTNuS2VNN1V5TV81VVRhcUxPeDZPZ0hLSDJqVGpRNWpCLW95TEhLQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-17 02:12:04 UTC_
+_Last updated: 2026-07-17 08:04:02 UTC_
