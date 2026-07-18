@@ -1,164 +1,172 @@
 # 📰 Daily News Summaries
 
-- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
-  Hundreds vs Zero: Stealth Divide That Could Def
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
+- Vikram-1 lifts off: Skyroot launches India’s first private orbital-class rocket
+  
+  🔗 https://indianexpress.com/article/india/skyroots-vikram-1-lift-off-maiden-orbital-mission-why-the-launch-matters-what-the-rocket-can-do-10791976/
 
-- India news: Murders following romantic rejections increase - DW.com
-  India news: Murders
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3NES2hqLUM1YzBtMVQxVmpQaXBkVHl4amZyc2NGWHktNC1LT0FhM0RPY0N2WElPVWt2U1ZyVXphdTJpUzRXYmR3SGxUUnNrMFhHX0t0UEo2RkFzbGZNN01ZczA1MXJKQzA1cWJVRGplN2ZPWnlOSkJiSUlJSDlGY3YtQTlKSElwU2xHWG51c2tuREFTWGlTXw?oc=5
+- Aamir Khan receives alleged threat in Lawrence Bishnoi gang’s name; police launch probe
+  
+  🔗 https://indianexpress.com/article/india/lawrence-bishnoi-gang-threat-aamir-khan-love-jihad-allegations-10792113/
 
-- Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC
-  Vikram-1: India's first private
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5
+- ‘Security drill’, phone jammer and a white curtain: How Sonam Wangchuk was removed
+  
+  🔗 https://indianexpress.com/article/india/sonam-wangchuk-removal-jantar-mantar-delhi-policesonam-wangchuk-removal-jantar-mantar-delhi-police-10792040/
 
-- MEA says discussions between India, Japan on Mumbai-Ahmedabad High-Speed Rail project progressing well - News On AIR
-  MEA says discussions between India, Japan on Mumbai-Ahmed
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnFiMDJ1UWJhZktFcmpORVVNSWdLTTFlYlBmcW9CSFJjeW1hNnBsZ0M4VWZMZ0o2TkM0OGFpMkRqOUVXWHc3R2tMVXZQdTFRN1VfOE1DdnlUaUtydWljVHkySlByYUVYQ3ItQ21Bb25FekpFNVdsa2FjYkdCQ0duZXR2SjUzclBNZmxFTUh2MzZWdzl2djJfdV9heDU2eTd3NVZIQ2VPZS15V2tseUdFeVM1RjVDamRVRVk5Qi01MEJkM2hBZ0E?oc=5
+- Delhi Police take Sonam Wangchuk to hospital on Day 21 of hunger strike
+  
+  🔗 https://indianexpress.com/article/india/police-move-sonam-wangchuk-to-hospital-from-jantar-mantar-after-20-day-fast-10791928/
 
-- 10 Big Firsts Of Vikram-1 And Mission Aagaman By Skyroot - NDTV
-  10 Big Firsts Of Vikram-
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPU2hadFQxYVVGY0VSVW8xaVpVbmkyeVMxSWJWU3ZMWEhZbVJBVGpaLVQ3bUNTSG5OTmFGWTJNcUVOUk9CUmEyLUlVOVI1ZUpFVkFmYjhyUjhwVnhlbTY5NjRGb3FTSDV1NDVOLXRDNjZxR3Z2V19OUjdpTHBFaG5DbjBiVTVOb3hCQnc1YUlWSTJ3V2MybWl4U3p2MWtoUQ?oc=5
+- Mohan Yadav’s UCC pitch: Only those who marry once have ‘legal right’ to reside in Madhya Pradesh
+  
+  🔗 https://indianexpress.com/article/india/mohan-yadavs-ucc-pitch-only-those-who-marry-once-have-legal-right-to-reside-in-madhya-pradesh-10791785/
 
-- China’s Xi Jinping launches new AI alliance: What is it? - Al Jazeera
-  China’s Xi Jinping launches new AI
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5
+- Control robots with your thoughts: Chinese startup unveils world’s 1st ‘brain-to-robot’ platform
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/chinese-startup-unveils-worlds-1st-brain-to-robot-platform-10792247/
 
-- South Korea-US team unveils robotic technology that dresses the wearer - Reuters
-  South Korea-US team unveils robotic
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnJRZHlsdFA4MG9zV3UxMG5jczR6end0dWktOFgtRUh4NC1Zc1libmlTR0IwOWNzbWpwanRDeEhlNlJmLThsT2RNU0dGYlg2LWVLUGhBbjNiYzVvM3RIbDJlLUU0S0ViUG1kTGNfeEcyOXNJaTZkWVFZWVZ5Ujd6X3FfT2NPWXBkZm9QNDBLem1wYXlUTWRqdFVUd2g2Mk5IWTdOX3JEMndJRmNXV2hBc3V0d2xnU0lDT3J5eEhB?oc=5
+- Meta, Anthropic in talks for potential $10 billion compute lease deal: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-anthropic-in-talks-for-potential-10-billion-compute-lease-deal-report-10792147/
 
-- Private hospital in Chennai launches laser angioplasty technology - The Hindu
-  Private hospital in Chennai launches laser ang
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmg1bmNxclM3NWRJc2VLRzktbzFyeThvNmpiRkNXYmxZR3kxeHF2MXp1Q2dFZnF5bnY3RkU4OGgwYnpiRDc0Q2J1NHk0c3pfVVBsOGFtT2VqemhtMWxId080TDV5aW1BM3NnQzRrWFIzZWtfclAwMkpnOFk1TE9TNVpjcGI3Y3IxSUZ0SVRHMmtfZmxySERadU5Femxyc0VScnRfZ3diWGl0MWh5VzFySk5qc213NVJzRDVTZHVRQWZ4Y2RmelNUT21n0gHQAUFVX3lxTE5xY1dLZGVOSndCdEVSdFJSdXpHNmdEVVBpWU0wTDE2REFtMkxMbnplanFmSFpuNTlaMmZ3dDlmOFpLOEROSGpWc0h4R29wSnY0X08tN2xLTG0tdTZyVDQySm1sOXJOcWV0dGNiNXozaUcxSEc2TThsbEdmeDQtVmZfT2VHNmM4elE0cEtZRzh0T1lNMjNmdFVZcUx0Sl9zM1ZZMHAyNTBEY2tLZTAwVkV6TDBPUm11WG5NT0pNaTdZS0VJbkwtY0FqNE8yaUtNWTk?oc=5
+- The more oppositional the tech, the harder it is to gain govt approval: mySociety CEO Louise Crow
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/oppositional-tech-gain-govt-approval-mysociety-ceo-louise-crow-10791353/
 
-- Union Minister Pralhad Joshi Inaugurates 'White Rabbit Technology' Based Network Demonstration in Jakkur, Bengaluru - PIB
-  Union Minister Pralhad Joshi Inaugurates '
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTFBwbVRIWEFsaVI3Nm92WFdiUlotekF6S1hYNXJ1NEZSTzdwbTdzTWYtenN6RHVJT3BiN3BHRjExMGdFSEYwOTh2RU5RbFpzbGNjRGwzd0Q1MkdUamN3MUl6VERDNlgyRGtzcmJWaGgxZm9HNmEzbUtTWXpOWQ?oc=5
+- Scientists confirm atmosphere on potentially habitable planet 49 light-years from Earth
+  
+  🔗 https://indianexpress.com/article/technology/science/scientists-confirm-atmosphere-on-potentially-habitable-planet-49-light-years-from-earth-10791597/
 
-- With first hydrogen-powered train, India enters global league in green rail technology - ThePrint
-  With first hydrogen-powered train, India enters global
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkNRVi1oY01wZ3RLU2N6NHM5VFlhbWYzYjRMMWQyOG1MaUFZTkIyQ095WWlpSk44cEZLWk40cnlTUXpKSU1ZSVh2enFZUC1fLUU1NGhmWGg4cWM0V0hPalRfRGIySFIxOU5PX1o3dnNBQkhaZ19PZFNpMVF4bHNVd1NmQjc2UUl1WDRrdWNkVGU5dHA3S0pBM20xb25aTUU2RzJSbGxKRnljRjY5dEFnQU1mWm54anIxcFpobtIBwgFBVV95cUxNSURsNk1iMV9GUzlqU1ZQVWZQMF9yb0g0QWdRekFoZkZhVkl5SlVnR3Y5eTBLbjNIaWh5V1hlMHUzR1V1aEZWOUgwYWhwSXhfeWlMNVB6N0NEYmpqeEd5U0FSa2lXbWV5TmROTWNCRU96N2lZYjctNmp4dTJlNWRJaVdOeXFSX1laLWlLMThzQnR5SVdYNDFZUXZ2Qmx6RFAwc2N1S2dIejJkRXZtQXp5N1R5M2twSDRZbTdiTVRKeGxuZw?oc=5
+- Google renames NotebookLM as Gemini Notebook, expands AI research features
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-renames-notebooklm-as-gemini-notebook-expands-ai-research-features-10791393/
 
-- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
-  Hundreds vs Zero: Stealth Divide That Could Def
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
+- Reliance Retail bets on JioMart scale to drive margins, growth
+  Reliance Retail plans disciplined expansion of JioMart’s dark-store network, betting on higher
+  🔗 https://www.livemint.com/companies/reliance-retail-bets-on-jiomart-scale-to-drive-margins-growth-11784303337087.html
 
-- India news: Murders following romantic rejections increase - DW.com
-  India news: Murders
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3NES2hqLUM1YzBtMVQxVmpQaXBkVHl4amZyc2NGWHktNC1LT0FhM0RPY0N2WElPVWt2U1ZyVXphdTJpUzRXYmR3SGxUUnNrMFhHX0t0UEo2RkFzbGZNN01ZczA1MXJKQzA1cWJVRGplN2ZPWnlOSkJiSUlJSDlGY3YtQTlKSElwU2xHWG51c2tuREFTWGlTXw?oc=5
+- Reliance tops estimates as petrochemicals business stands firm in a turbulent first quarter
+  Reliance Industries' earnings beat came despite expectations that geopolitical tensions and volatile energy markets would weigh on Reliance’s flagship oil-
+  🔗 https://www.livemint.com/companies/reliance-tops-estimates-as-petrochemicals-business-stands-firm-in-a-turbulent-first-quarter-11784300680729.html
 
-- Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC
-  Vikram-1: India's first private
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5
+- JSW Steel Q1 profit, revenue beat estimates on higher prices, strong demand
+  The Sajjan Jindal-led company reported a consolidated net profit of  ₹4,651 crore for the first quarter of FY27. The profit exceeded the  ⁹3,
+  🔗 https://www.livemint.com/companies/jsw-steel-starts-fy27-on-a-high-due-to-higher-steel-prices-and-demand-11784295713865.html
 
-- MEA says discussions between India, Japan on Mumbai-Ahmedabad High-Speed Rail project progressing well - News On AIR
-  MEA says discussions between India, Japan on Mumbai-Ahmed
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnFiMDJ1UWJhZktFcmpORVVNSWdLTTFlYlBmcW9CSFJjeW1hNnBsZ0M4VWZMZ0o2TkM0OGFpMkRqOUVXWHc3R2tMVXZQdTFRN1VfOE1DdnlUaUtydWljVHkySlByYUVYQ3ItQ21Bb25FekpFNVdsa2FjYkdCQ0duZXR2SjUzclBNZmxFTUh2MzZWdzl2djJfdV9heDU2eTd3NVZIQ2VPZS15V2tseUdFeVM1RjVDamRVRVk5Qi01MEJkM2hBZ0E?oc=5
+- Reliance Retail Q1 net profit down 14%; FMCG revenue doubles
+  Reliance Retail said it will focus on Jiomart as a key
+  🔗 https://www.livemint.com/companies/company-results/reliance-retail-q1-net-profit-down-14-1-to-2-805-crore-doubles-fmcg-revenue-11784301716330.html
 
-- 10 Big Firsts Of Vikram-1 And Mission Aagaman By Skyroot - NDTV
-  10 Big Firsts Of Vikram-
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPU2hadFQxYVVGY0VSVW8xaVpVbmkyeVMxSWJWU3ZMWEhZbVJBVGpaLVQ3bUNTSG5OTmFGWTJNcUVOUk9CUmEyLUlVOVI1ZUpFVkFmYjhyUjhwVnhlbTY5NjRGb3FTSDV1NDVOLXRDNjZxR3Z2V19OUjdpTHBFaG5DbjBiVTVOb3hCQnc1YUlWSTJ3V2MybWl4U3p2MWtoUQ?oc=5
+- Jio Platforms profit rises 9.2% to  ₹7,764 crore in Q1FY27, earnings grow 15% YoY — Check key takeaways here
+  RIL's telecom arm saw profit rise 9.2% to  ₹7,764 crore in Q1FY27. Earnings
+  🔗 https://www.livemint.com/companies/company-results/jio-platforms-key-takeaways-q1fy27-profit-rises-9-2-pc-rs-7764-crore-earnings-grow-15-pc-yoy-public-listing-dhrp-ambani-11784300317014.html
 
-- Beaten down IT majors catch fancy of prop traders
-  Selling cash shares borrowed from HNI clients yields high single-digit
-  🔗 https://www.livemint.com/market/beaten-down-it-majors-catch-fancy-of-prop-traders-11784286097317.html
+- Kotak Mahindra Bank Q1 Results 2026: Net profit rises over 22% to  ₹5,480 crore
+  Kotak Mahindra Bank reported a 22.5% year-on-year increase in consolidated net profit. Total income for the quarter
+  🔗 https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-q1-results-2026-net-profit-rises-over-22-to-rs-5-480-crore-check-nii-asset-quality-11784359648709.html
 
-- Netflix shares tumble 13% after weak sales forecast, hit 22-month low
-  Netflix shares fell 12.6% to a 22-month low. The company's revenue growth is moderating, and it narrowed its 2026 guidance.
-  🔗 https://www.livemint.com/market/netflix-shares-tumble-13-after-weak-sales-forecast-hit-22-month-low-11784295044711.html
+- Axis Bank Q1 Results 2026: Net profit jumps 23% YoY to  ₹7,114 crore; NII rises 8%
+   Axis Bank reported strong Q1 FY27 earnings, with standalone net profit rising 22.5% to  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/axis-bank-q1-results-2026-net-profit-jumps-23-yoy-to-rs-7-114-crore-nii-rises-8-11784357377152.html
 
-- Sebi clears automatic SWP, STP mandates for demat mutual fund holdings
-  Until now, automatic instructions were available only for mutual fund units held in statement of account (SOA)
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-clears-automatic-swp-stp-mandates-for-demat-mutual-fund-holdings-11784294947014.html
+- MakeMyTrip IPO soon! Online travel giant files confidential DRHP with SEBI, 15 years after Nasdaq listing
+  The offering involves an equity share sale by MakeMyTrip Limited and its subsidiary, ibibo Group. Details like the issue size remain undisclosed.
+  🔗 https://www.livemint.com/market/ipo/makemytrip-ipo-soon-online-travel-giant-files-confidential-drhp-with-sebi-15-years-after-nasdaq-listing-11784349545911.html
 
-- Pulse of the Street: Earnings sentiment rescues volatile week; real test ahead
-  The 30-share Sensex rose 0.75% for the week, while the broader Nifty 50 gained 0.53%. The Nifty jumped 1.1% to close at 24,334.30,
-  🔗 https://www.livemint.com/market/earnings-sentiment-rescues-volatile-stock-market-week-real-test-ahead-11784291623956.html
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 20 July 2026
+  From a technical perspective, the index is now approaching the crucial resistance zone near 200-Day EMA. A decisive breakout could trigger further
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-20-july-2026-tcs-eicher-motors-hul-11784315107565.html
 
-- Apple overtakes Nvidia as world's most valuable company amid chip selloff
-  Nvidia shares fell 3.7%, while Apple's rose 0.4%, raising its market cap to $4.9 trillion.
-  🔗 https://www.livemint.com/market/stock-market-news/nvidia-drops-below-apple-as-top-valued-company-on-chip-selloff-11784297104631.html
+- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
+  Mehul Kothari from Anand Rathi suggests a cautious approach for traders. He recommends a decisive close above 24,400 for a bullish outlook. For stocks
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-suzlon-idbi-bank-zee-11784344285100.html
 
-- China’s Xi Jinping launches new AI alliance: What is it? - Al Jazeera
-  China’s Xi Jinping launches new AI
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5
+- Still leaving your home unwatched? These 5 indoor security cameras help you keep an eye on everything
+  These cameras also offer support for night vision technology. All of these security cameras offer 360
+  🔗 https://www.livemint.com/technology/still-leaving-your-home-unwatched-these-5-indoor-security-cameras-help-you-keep-an-eye-on-everything-11784215175858.html
 
-- South Korea-US team unveils robotic technology that dresses the wearer - Reuters
-  South Korea-US team unveils robotic
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnJRZHlsdFA4MG9zV3UxMG5jczR6end0dWktOFgtRUh4NC1Zc1libmlTR0IwOWNzbWpwanRDeEhlNlJmLThsT2RNU0dGYlg2LWVLUGhBbjNiYzVvM3RIbDJlLUU0S0ViUG1kTGNfeEcyOXNJaTZkWVFZWVZ5Ujd6X3FfT2NPWXBkZm9QNDBLem1wYXlUTWRqdFVUd2g2Mk5IWTdOX3JEMndJRmNXV2hBc3V0d2xnU0lDT3J5eEhB?oc=5
+- Semicon 2.0: Govt to match VC funding in chip design, pick equity
+  The scheme aims to reduce funding gaps in one of the country's most capital-intensive technology sectors. The government will match private investments in
+  🔗 https://www.livemint.com/technology/semicon-2-0-vc-funding-chip-design-equity-semiconductor-government-11784207658957.html
 
-- Private hospital in Chennai launches laser angioplasty technology - The Hindu
-  Private hospital in Chennai launches laser ang
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmg1bmNxclM3NWRJc2VLRzktbzFyeThvNmpiRkNXYmxZR3kxeHF2MXp1Q2dFZnF5bnY3RkU4OGgwYnpiRDc0Q2J1NHk0c3pfVVBsOGFtT2VqemhtMWxId080TDV5aW1BM3NnQzRrWFIzZWtfclAwMkpnOFk1TE9TNVpjcGI3Y3IxSUZ0SVRHMmtfZmxySERadU5Femxyc0VScnRfZ3diWGl0MWh5VzFySk5qc213NVJzRDVTZHVRQWZ4Y2RmelNUT21n0gHQAUFVX3lxTE5xY1dLZGVOSndCdEVSdFJSdXpHNmdEVVBpWU0wTDE2REFtMkxMbnplanFmSFpuNTlaMmZ3dDlmOFpLOEROSGpWc0h4R29wSnY0X08tN2xLTG0tdTZyVDQySm1sOXJOcWV0dGNiNXozaUcxSEc2TThsbEdmeDQtVmZfT2VHNmM4elE0cEtZRzh0T1lNMjNmdFVZcUx0Sl9zM1ZZMHAyNTBEY2tLZTAwVkV6TDBPUm11WG5NT0pNaTdZS0VJbkwtY0FqNE8yaUtNWTk?oc=5
+- BGMI 4.5 update: Naruto themed maps, Spider-Man mode, Ferrari cars and everything new
+  Naruto-themed gameplay mode. Spider-Man crossover, licensed Ferrari vehicles, and anniversary rewards.
+  🔗 https://www.livemint.com/technology/tech-news/bgmi-4-5-update-naruto-themed-maps-spider-man-mode-ferrari-cars-and-everything-new-11784190497814.html
 
-- Union Minister Pralhad Joshi Inaugurates 'White Rabbit Technology' Based Network Demonstration in Jakkur, Bengaluru - PIB
-  Union Minister Pralhad Joshi Inaugurates '
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTFBwbVRIWEFsaVI3Nm92WFdiUlotekF6S1hYNXJ1NEZSTzdwbTdzTWYtenN6RHVJT3BiN3BHRjExMGdFSEYwOTh2RU5RbFpzbGNjRGwzd0Q1MkdUamN3MUl6VERDNlgyRGtzcmJWaGgxZm9HNmEzbUtTWXpOWQ?oc=5
+- Vivo T5 Lite 44W 5G in India with 120Hz display, 6,500mAh battery:  Check price and specs
+  The Vivo T5 Lite 44W features a 6.74-
+  🔗 https://www.livemint.com/technology/gadgets/vivo-t5-lite-44w-5g-in-india-with-120hz-display-6-500mah-battery-check-price-and-specs-11784185070429.html
 
-- With first hydrogen-powered train, India enters global league in green rail technology - ThePrint
-  With first hydrogen-powered train, India enters global
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkNRVi1oY01wZ3RLU2N6NHM5VFlhbWYzYjRMMWQyOG1MaUFZTkIyQ095WWlpSk44cEZLWk40cnlTUXpKSU1ZSVh2enFZUC1fLUU1NGhmWGg4cWM0V0hPalRfRGIySFIxOU5PX1o3dnNBQkhaZ19PZFNpMVF4bHNVd1NmQjc2UUl1WDRrdWNkVGU5dHA3S0pBM20xb25aTUU2RzJSbGxKRnljRjY5dEFnQU1mWm54anIxcFpobtIBwgFBVV95cUxNSURsNk1iMV9GUzlqU1ZQVWZQMF9yb0g0QWdRekFoZkZhVkl5SlVnR3Y5eTBLbjNIaWh5V1hlMHUzR1V1aEZWOUgwYWhwSXhfeWlMNVB6N0NEYmpqeEd5U0FSa2lXbWV5TmROTWNCRU96N2lZYjctNmp4dTJlNWRJaVdOeXFSX1laLWlLMThzQnR5SVdYNDFZUXZ2Qmx6RFAwc2N1S2dIejJkRXZtQXp5N1R5M2twSDRZbTdiTVRKeGxuZw?oc=5
+- Apple reveals businesses that won't be allowed to advertise on Apple Maps
+  Apple plans to introduce ads on Apple Maps
+  🔗 https://www.livemint.com/technology/tech-news/apple-reveals-businesses-that-wont-be-allowed-to-advertise-on-apple-maps-11784182863312.html
 
-- Markets News, July 17, 2026: Major Stock Indexes Close Lower, Post Weekly Losses; Oil Prices Surge as Middle East Fighting Escalates - Investopedia
+- Stock Market News, July 17, 2026: Nasdaq Drops as Chip Selloff Deepens - WSJ
   The Nasdaq drops 1% after China’s latest AI breakthrough rattles tech stocks. Oil Prices Surge as Middle East Fighting Escalates.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmpQeV9uR05hVDF6eUVXVDVpWlJudlViYkdQUE85bzZoTTNWSEFFMEtON0VkT2poRm9EU3R1eDBZdmc0QWs3ZFpoU0xaQ2hsZ21OaTFka0NBSGphZmk2VVJFMUQ4SmZMQWRHNmpmQWlDRlItdVZid2JsNlVOVkFncXg1QjRWNExYWlBNRGNvRXU?oc=5
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5
 
-- Parandur airport uncertainty slows western Chennai land market - The Hindu
-  Parandur airport uncertainty slows western
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd04zT2RHbWo2bGljY3Y3bmk1Nnp0bUJQNVc3am45N0xmNjIydXA5SFRya1hYZU9ReEVxVUdHY0tOX3FjV3lfN3ZKYXdPbDRGZ1ByVWhOeWRsUWhPNk1iX1JiVGVISGc2bGt4QW14dFI3SmNQRV9WM1p1dHBWblVoQTdzY0dmU1JHUW5DeWVrTlpqRUx1M3ZXaWJBN1UxYlJwRnVVQ0RVVWIxQXNpMUljSVdEaVVDbW52OFYw?oc=5
+- Stock markets surge on buying in blue-chips; Sensex jumps 965 points - The Hindu
+  Stock markets surge on buying in blue-chips
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV2x5aWZJcTJPeXR2c20xSW9SbmwxSThDakxDYnVnakFKV1JRX1FjQzRSek9RVVpYUFhxRjk2QVBxTHZ5a2lKQWp6MUJqYzNPNmVGQ1c4a3lOMmxzV1MwX283bklnRVNmQVN0cFRScXB5MHlTVFp2N1JVTVhJRFFSZnd2bHV2QkxodkVBTHNCTkJKTjNBaUxNZGk1bnBHNi1QWTVHd29nUTRiRTk2TXNIdE14UENEN2pweVpxYXNhYVRZNk11dVdETdIBzwFBVV95cUxOZGJDTVZvajQxaTdtX3JWYzVhcFdVRGJzclFyOHlBcy12dGc3bndwNXByR01Hd2RtYUROblZTdk9SOXhEVGlJQm5qUEhnYXl5WTAxT0VtVkp5RnFhVVo2REpYaHhmRy1wV2dVX1BxU21Mcm5zZk43WGluTUpEOS1lc0x6YVA5dkdJaWJMZ2Nsam5pS3BXQTdxc3czVDE2QXBlOThaV2dCSThZVXA3Qm1xZ2E4R3BuMFQ2MUhsc211STFWMXUtOHZDQ2gxWTBtZTQ?oc=5
 
-- World’s largest olive oil company says market has 'definitively' entered new phase - CNBC
-  World’s largest olive oil company says market
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE94TGswZURfTkU2S3FlM1U0UUc3bS16c1BxRzZSS1p6TzJIX0NBUGZFOEYwdGJNaWRUVTVNUEl3SFU2OHZQeFA4NEd3NWdCSENFNGdoUkhtOTc1OTBrV3NBbUlUdGJCVlJScXM2ekNXQjc3c2YySHhXZ0V2T3bSAYIBQVVfeXFMTnNoYlB1TzNYTDFfU1BCaHlvNmZERnc1clJCWVJnbldQT29kSllWeV9lUmxkSFAwMkVXNnViSTJDWFZsemdzQW1jalNXTmxJWVdCQVVSSEMxU0gzZVA5ak5GNmp1RkZkREpudi1ybTlOdDMtdUhoNEF6N0FfVTRKSjlQQQ?oc=5
+- D-Street bucks Asian markets' meltdown - The Economic Times
+  D-Street bucks Asian
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEhnWnNhUGtoS1BUVGNXaHJsejFHVkR4SjNYVmljOTRsTVFFNlF6TnB3WXRObGFLeEszNHFhNGppVnNFVEhta1NtUTlibHZOYi1xMmp4R3RkcXNueUNBeVh5dlBGZ2ROc1FRdF8taDdMSTRCWlVPRnVXS3pwVFZjVTRjSTlyYlFNMGNiaG5MNVI1MlZVN1JEVjVoNUZXS3NDeGgySGJ2VnhDNUtzNnNqVtIBtgFBVV95cUxOZEMzbTBvSDhyUUJXWnRFWDRVZVcySjJSZ3hfTWU0cC12WHdueW5MOEJXT2lIT3dkdVY0c05uQ2lLb01DeWh2d2RHYW0ybFJOdmM2WUhkQWtheWdtUmd2bHFXdmZVNGM4TVlNR0M5LUltWEE1VXVVUEhoRm92b0diQ1Nqa1U2Y29DUDdRYlNJNmZCT1VhWEljRndmMVRRNkx4eVZZazFiWlQwYTJDVnNPNmxWck0xdw?oc=5
 
-- How long can oil markets absorb the Hormuz shock? - Financial Times
-  How long can oil markets absorb the H
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTFB1cjhNMk84dFZPN1daeFFERDlpRkk4akFTN2lnMnFLTGdEZFhmQWZ1V2VhWHRYaGI0bXVMMGRyRV90aWJodUNHVmZyUkxuakpBaVZCa3RodVQ1UEF2WjJQNEl5Tktrc0tIVm1Dc0V1XzE?oc=5
+- Nifty Midcap 100, Smallcap 100 indices down nearly 1% in firm market - Business Standard
+  Nifty Midcap 100, Smallcap 100 indices down
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXhsdW9vdk83UE1kRW5zNzNsM3hQczAxbjhscjdpN08yYmlxeDdOV2hEQmY4YW5ZZHFqTEpRTFFPV3BudGM2WkpnVU45aUR6VGlJSUxXaHhmMUZNbEpZM2oyWWNEczVwRnF2UkpzSkpHb0NmRVA1c3E3RGdNcUxkVU45dkRPMlRVT1NJcHBtWks1SFlaWGlkZ3hqa2FJM1BKc3N4OEl4bU8tZzhyODYwMDl0TUpzVC1rdjl5aDk3QjYyRWExMmQ1Z2dvS1NPbWxLWTI3SGw5eEtJdXdqaWdn0gHkAUFVX3lxTE1ma0xOLVMybUFmaE4zdlJfRUlYc3RqUUM3ZnR4RGt2X3VKeVRhb0d0a2dEQkk2ZXFFa1Rpek5Rb3V3MWtEMm9mc29hazF5ZXBfRUZiYlRGWmhmU1VjS203WW9DQ0UydWw4OEVhaWZiUVVJaGxTYXF5a2tKQ3EwNXFCUWVlQzUtekR6YUdzWlFrbzFyQmwtN1c0ZW5LTFZaUW44R2MzTThhS0pSWVFLbnVRMWNueU55NmdVbDVneFczaFhuWXlISlJvQkVfZWFWd1FNOTdscTFTQ1FweXo0MnplOC0wag?oc=5
 
-- What Is China’s Moonshot AI and Why Is It Roiling Markets? - Bloomberg.com
-  What Is China’s Moonshot AI
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNZTk0WW9oNVlXOXA5MWVLb2J0TzhjNHJ5cXdHNVpVTEJYWnZ6djlJX2oxVkF2OFBNaWFWVF9pcnNyakE0TWdrUkFJRVozVEJ5Z2ZxSVJ1ak9qYWp0eGRnZGFfZE1JWm9Xb0Q5VVA0ODVZTzd2alBoMUZoQnBoUEF1anUwMzQ3LXZiek16aEFLdXAzT0hpMHlhMjloU0xlU0tuTkhaQVdUQzFsRF9xQ3JJdA?oc=5
+- Markets may have just experienced their second DeepSeek shock, this time thanks to a Chinese AI lab named after a Pink Floyd album - Fortune
+  A Chinese AI lab named after a Pink Floyd album has created a new type of AI. Called Fortune,
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9UV0dRVi1ER1ZhME1RMDQ5SkxlckFEZE83RXFBRkRWZnpaVXMtY2htN01SVlcxOHU1blh6UDloTnp2b3JhbXZMc0hnTnlRZzlFUTQyLTRTMU5DZVFjSHBUS3F4d21yY0lCR09lNEtrcTM0NGtodzJHdHd5UQ?oc=5
 
-- US stocks today: Nasdaq, S&amp;P fall over 1%, end lower for week as chip selloff broadens
-  Wall Street declined as AI-driven chip stocks extended losses. Semiconductor shares saw sharp weekly declines. Energy stocks gained on rising oil prices amid Middle East tensions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-for-the-day-and-week-as-chip-selloff-broadens/articleshow/132469580.cms
+- Kotak Mahindra Bank Q1 Results: Net profit climbs 26% YoY to Rs 4,123 crore; NII rises 9%
+  Kotak Mahindra Bank Q1 Results:  Net interest income (NII) rose 9% YoY to Rs 7,928 crore in Q1 FY27. The bank
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q1-results-net-profit-climbs-26-yoy-to-rs-4123-crore-nii-rises-9/articleshow/132475694.cms
 
-- Reliance Retail Q1 revenue rises, but profit falls as e-commerce weighs
-  Reliance Retail's Q1 revenue rose 8.2% despite the FMCG demerger. Reliance Consumer more than doubled revenue, driven by Campa and Independence
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q1-revenue-rises-but-profit-falls-as-e-commerce-weighs/articleshow/132465804.cms
+- Axis Bank Q1 Results: Net profit jumps 23% YoY to Rs 7,114 crore; NII up 8%
+   Axis Bank reported a 22.5% YoY rise in Q1 FY27 standalone net profit to Rs 7,114 crore. Net interest income increased over 8% to Rs 14,646 crore, beating estimates.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q1-results-net-profit-rises-23-yoy-to-rs-7114-crore-nii-up-8/articleshow/132474844.cms
 
-- JSW Steel’s profit doubles on revenue growth, beats estimates
-  JSW Steel's profit more than doubled year-on-year to Rs 4,696 crore in the June quarter. Robust revenue growth and lower finance costs aided the company's strong financial performance.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steels-profit-doubles-on-revenue-growth-beats-estimates/articleshow/132465171.cms
+- The New Oil? Why the World Is Chasing Copper
+  Copper has emerged as a strategic commodity powering the global shift towards clean energy, electric vehicles and digital infrastructure. The metal is increasingly viewed as a critical resource for the global economy's long-term transition.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/the-new-oil-why-the-world-is-chasing-copper/articleshow/132474599.cms
 
-- Netflix shares tumble over 10% as slowing growth, less viewership data spook investors
-  Netflix recently saw a significant drop in its share prices following a forecast that indicated slower revenue growth. The streaming service announced it would cut back on reporting viewership statistics.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/netflix-shares-tumble-over-10-as-slowing-growth-less-viewership-data-spook-investors/articleshow/132465122.cms
+- Concurrent Gainers: 13 smallcap stocks that gain for 5 days in a row
+  Thirteen BSE SmallCap stocks rallied 10-15% after posting gains in each of
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-13-smallcap-stocks-that-gain-for-5-days-in-a-row/slideshow/132474793.cms
 
-- US Fed official warns of 'broad-based' inflation as firms urge action
-  "Persistently high inflation is the bigger concern," a top Fed official says. She says firms are urging the US central bank to act against rising prices.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-official-warns-of-broad-based-inflation-as-firms-urge-action/articleshow/132465098.cms
+- Agentic AI, alternative data and SIFs take centre stage at Indian Institutional Quant Conference 2026
+  The Indian Institutional Quant Conference 2026 explored the evolving role of quantitative investing, AI-driven strategies and regulatory developments. Agentic AI, alternative data and Specialised Investment Funds (
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/agentic-ai-alternative-data-and-sifs-take-centre-stage-at-indian-institutional-quant-conference-2026/articleshow/132474311.cms
 
-- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
-  Hundreds vs Zero: Stealth Divide That Could Def
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
+- India Gets Its 1st Hydrogen-Powered Train, Will Run On 89 Km Route In Haryana - NDTV
+  India Gets Its 1st Hydrogen-Powered Train,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMkRWSFlwOXJTcWRCUlF1X2tDM2xXUEszMlZlbjhjODMzLTdoWXFDVFRjeC1PVENvcTJBX0V6a2dWTktKWWxtTy1mRU1iX1NIZUNwMno3ZmJuTEZmT0otWjhhdmVNR2gtX3ZiQlRMRkxmaVo0R05PZXFSR0U5eFV5NGZIV1dPSjJkVXM0R0ZSN0trcF9ZRVlRZHhCVDJ2SlV2MW5XQUYzV1FEMHM3eFlhQ0pYYXduZmxmV3A1bVphZ1Q0UdIBygFBVV95cUxNeEtKS05mMGNCSEF2Z2E5VXY2QkR6VksyYjdmNVZ4dTFlTjJheTd1TGZWZ2Z4aTZnZzItY2pJaEhqbTFrM2hfTlM4SzczalQ3dDBKS1l0V0tDT0w1Z1gxU3Q3WFFEdU55eFdyMGRzZUhTZWJOSnNwTU9fblVLb25od2VvVnFUVnFpRDF0eTMtQlgtUU56bGkwRERJVXA2UV91Q2FFbHA2VjJidFpBOUNGLVM4eExhSzluQUxvSnFoZENnVEJPNXpnbzRn?oc=5
 
-- India news: Murders following romantic rejections increase - DW.com
-  India news: Murders
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3NES2hqLUM1YzBtMVQxVmpQaXBkVHl4amZyc2NGWHktNC1LT0FhM0RPY0N2WElPVWt2U1ZyVXphdTJpUzRXYmR3SGxUUnNrMFhHX0t0UEo2RkFzbGZNN01ZczA1MXJKQzA1cWJVRGplN2ZPWnlOSkJiSUlJSDlGY3YtQTlKSElwU2xHWG51c2tuREFTWGlTXw?oc=5
+- Today News Headlines for School Assembly, July 17, 2026: India’s gets its first hydrogen train, NEET Re-exam result out - The Indian Express
+  The Indian Express reports that India's first hydrogen train will be built in 2026.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQWHNxdmZ2WkR5YmUydVJBZ1pTTmxHV2M4aXRrUzZVdGFJeHZMTzVYdmkzY2YwZFpWQ0J3YXFkOXN2ZHBFWHVGZmZTOVoyR2ZRb1h5cXZrcExiVEp0ckc3RDViWmdHbkJqLXpMbXFQd1RBWXZYR3V0VEUyRmNDRjVacGZLTjRNcDgteXpVYVduZDVyQmRwY21XMzdmdjZYY2ZtUEpvTTQ1anVFdEI1QVJyb0UyQTlZR253X1p5dGduYkxnNm82YWU2azFncnhKMFhGZkp1cVJhbklGZFQ5aU9xQnhSbnhhNFdjYm1HUGVHN0hkU3pUa2NBQVhhZ0RtX19uT0dDbXNkX1ZNZ2VocWhV0gGWAkFVX3lxTE9jOVItOHQ3bG4wd1Y1VS1fVVh1TlRtWUtremFiSndrXzdwczhwNFZIakt2bmc5WmloaTJJNTcxR3RDQVBaZ0pqdDRrMFhlcFQ0OW0taUNoZTZpSmczalJzRHNvVFhkWTlUU3ItX0Z0NUJWVkFFMC1VeUhhWlF1dTlLcV90cXdmWWJNamcyVE5rV3VqTXB2VXdvb0UzajJqTm40QzNINUtLTnRhN3pYZ09sZkl2LUJ2clNuZVV4YzZUWW5WY1VtN2RYQWtEQ19CZlpkS1hra1htbnVTd09ZNkc4QnUzTnp3ekxqanYxMFBZZ0tmenJlamtuTjBrNTZTSVhCTGZqVWtwWHcyZHJCdmpza193R0xB?oc=5
 
-- Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC
-  Vikram-1: India's first private
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5
+- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
+  Sonam Wangchuk has been on hunger strike for 20 days
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
 
-- MEA says discussions between India, Japan on Mumbai-Ahmedabad High-Speed Rail project progressing well - News On AIR
-  MEA says discussions between India, Japan on Mumbai-Ahmed
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnFiMDJ1UWJhZktFcmpORVVNSWdLTTFlYlBmcW9CSFJjeW1hNnBsZ0M4VWZMZ0o2TkM0OGFpMkRqOUVXWHc3R2tMVXZQdTFRN1VfOE1DdnlUaUtydWljVHkySlByYUVYQ3ItQ21Bb25FekpFNVdsa2FjYkdCQ0duZXR2SjUzclBNZmxFTUh2MzZWdzl2djJfdV9heDU2eTd3NVZIQ2VPZS15V2tseUdFeVM1RjVDamRVRVk5Qi01MEJkM2hBZ0E?oc=5
+- Indian activist linked to Cockroach party moved to hospital after 20-day hunger strike - The Guardian
+  Indian activist linked to Cockroach party moved to hospital after 20
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHpBdmpsektJdmZsMEdjN0t0ODNQaWFLWkRQWTQ4YmxtbHdma1BfcUVQZlp3MVJ4OVNVOFQzSzR3S2pSTzFmMWpsV0kxSU5GdkpXMnVJNWlJdVVKaVN6MHV6Ymd5MXRtbWtlTG9fZ1FSWVQ1QkxHbkFRZXZHeDFBQXk4SU90RW9EYXhNMUFRLVIyYThTYktTUmpWRVBFNE9oUlk0RDVTZ0thM0FKOTlVX1Bnc3NDWGRWX3hBRkhhUnhWLURFVzRYUDg0Nnc?oc=5
 
-- 10 Big Firsts Of Vikram-1 And Mission Aagaman By Skyroot - NDTV
-  10 Big Firsts Of Vikram-
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPU2hadFQxYVVGY0VSVW8xaVpVbmkyeVMxSWJWU3ZMWEhZbVJBVGpaLVQ3bUNTSG5OTmFGWTJNcUVOUk9CUmEyLUlVOVI1ZUpFVkFmYjhyUjhwVnhlbTY5NjRGb3FTSDV1NDVOLXRDNjZxR3Z2V19OUjdpTHBFaG5DbjBiVTVOb3hCQnc1YUlWSTJ3V2MybWl4U3p2MWtoUQ?oc=5
+- 'Why are you not letting me take my phone?' Sonam Wangchuk's wife questions doctors at Safdarjung Hospita - The Times of India
+  'Why are you not letting me take my phone?' Sonam Wangchuk's wife questions
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPb1BhZF9ZYmgxWjBIS2ozcDZvbVVCc3RXWFNxWFhRbWZZYTRwa0c0S2JsMm8yZ0hvREJkUk9pcEVVb3JOTlNEbTBJRmRTR2lGQmhtNURCVW01ZWFIbnFuMy04dE9UUzVBVDd6RkxJYXZkOHJ1OVVqNndhSGJBUzBuVXRyMlJJN29MNXVxb2lNTGFNckpuZjU3cGQ0MWlzNDMyM1lwTEhrNTZhUmJKS0wxSHRIczNsSmp4ZFh2dDhUbDA4c3dUNVYwZjA2Y0stNzBfU0hzaTZMMUk4bEt5WFBITlJCOGwySVp3RTdTOXIxZ2tiQlVHdmFUaFdfMk9IWDZ1S1NiSDB2R2FvaS1zVEM5RUUtZ0JEOExCeGE5VGNOV3HSAaYCQVVfeXFMTUZicUphelhUMFFNQllrcGdxM1FFRThaNV9uUVQ3OUtHOG9OdjVHU01nVTZDZk8wX0MzM1pzTTdGSzdSU192NXhheEdqNl9rRm9ENEpnRFJNbWRBQk05VUcyTmhlMTBFS1pVZzJwMGJ6ME15TVZSY2VoeDJKM3ZiZ3NGSG95OThTZnVwNjBDTjlReFBVcUpNaVZKZmV1RjUxOG5NLTAxQmN6NEZUN3hqTnpXTER0VklBdEdYNVlfZGNMLVYtaUIzV29jUzlvc0F1NGlDbDV3bWQtSVU4MGdUbGROQTBPRWxNRjN2LXhRMGlDa1ZwZ0lKNF85RTZlb0VEMEJiWWo0UHdkWlZmYUQwUW45VDB3VVEwUFNhbXZodmRjM3U0YmN3?oc=5
+
+- History Beckons: Skyroot Lifts Off With India’s First Private Orbital Mission
+  Spacetech unicorn Skyroot successfully lifted off with Vikram-1, India&#8217;s first private orbital rocket mission.
+  🔗 https://inc42.com/buzz/history-beckons-skyroot-lifts-off-with-indias-first-private-orbital-mission/
+
+- From Emergent To Neo Group  — Indian Startups Raised $281 Mn This Week
+  Indian startup funding rebounded sharply in the third week of July. Between July 11 and July 17, Indian startups cumulatively&#82
+  🔗 https://inc42.com/buzz/from-emergent-to-neo-group-indian-startups-raised-281-mn-this-week/
 
 - Reliance Retail’s EBITDA Erodes In Q1 Amid Q-Comm Expansion
   Reliance Retail’s EBITDA Erodes In Q1 Amid Q-Comm Expansion.
@@ -172,53 +180,45 @@
   IPO-bound Jio Platforms reported a consolidated profit after tax (PAT) of ₹7,764 Cr in the first
   🔗 https://inc42.com/buzz/ipo-bound-jio-platforms-q1-profit-jumps-9-yoy-to-%e2%82%b97764-cr/
 
-- Profitability, Geopolitical Concerns Weigh On Zepto’s IPO Valuation
-  Zepto could make its stock market debut at a valuation significantly below its peak private valuation of&#8230.
-  🔗 https://inc42.com/buzz/profitability-geopolitical-concerns-weigh-on-zeptos-ipo-valuation/
+- India Gets Its 1st Hydrogen-Powered Train, Will Run On 89 Km Route In Haryana - NDTV
+  India Gets Its 1st Hydrogen-Powered Train,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMkRWSFlwOXJTcWRCUlF1X2tDM2xXUEszMlZlbjhjODMzLTdoWXFDVFRjeC1PVENvcTJBX0V6a2dWTktKWWxtTy1mRU1iX1NIZUNwMno3ZmJuTEZmT0otWjhhdmVNR2gtX3ZiQlRMRkxmaVo0R05PZXFSR0U5eFV5NGZIV1dPSjJkVXM0R0ZSN0trcF9ZRVlRZHhCVDJ2SlV2MW5XQUYzV1FEMHM3eFlhQ0pYYXduZmxmV3A1bVphZ1Q0UdIBygFBVV95cUxNeEtKS05mMGNCSEF2Z2E5VXY2QkR6VksyYjdmNVZ4dTFlTjJheTd1TGZWZ2Z4aTZnZzItY2pJaEhqbTFrM2hfTlM4SzczalQ3dDBKS1l0V0tDT0w1Z1gxU3Q3WFFEdU55eFdyMGRzZUhTZWJOSnNwTU9fblVLb25od2VvVnFUVnFpRDF0eTMtQlgtUU56bGkwRERJVXA2UV91Q2FFbHA2VjJidFpBOUNGLVM4eExhSzluQUxvSnFoZENnVEJPNXpnbzRn?oc=5
 
-- Turtlemint Turns Profitable In Q4, Posts PAT Of ₹3 Cr
-  Recently listed insurtech company Turtlemint turned profitable in the March quarter of FY26 (Q4 FY26), reporting a consolidated net profit&#8230;.
-  🔗 https://inc42.com/buzz/turtlemint-turns-profitable-in-q4-posts-pat-of-%e2%82%b93-cr/
+- Today News Headlines for School Assembly, July 17, 2026: India’s gets its first hydrogen train, NEET Re-exam result out - The Indian Express
+  The Indian Express reports that India's first hydrogen train will be built in 2026.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQWHNxdmZ2WkR5YmUydVJBZ1pTTmxHV2M4aXRrUzZVdGFJeHZMTzVYdmkzY2YwZFpWQ0J3YXFkOXN2ZHBFWHVGZmZTOVoyR2ZRb1h5cXZrcExiVEp0ckc3RDViWmdHbkJqLXpMbXFQd1RBWXZYR3V0VEUyRmNDRjVacGZLTjRNcDgteXpVYVduZDVyQmRwY21XMzdmdjZYY2ZtUEpvTTQ1anVFdEI1QVJyb0UyQTlZR253X1p5dGduYkxnNm82YWU2azFncnhKMFhGZkp1cVJhbklGZFQ5aU9xQnhSbnhhNFdjYm1HUGVHN0hkU3pUa2NBQVhhZ0RtX19uT0dDbXNkX1ZNZ2VocWhV0gGWAkFVX3lxTE9jOVItOHQ3bG4wd1Y1VS1fVVh1TlRtWUtremFiSndrXzdwczhwNFZIakt2bmc5WmloaTJJNTcxR3RDQVBaZ0pqdDRrMFhlcFQ0OW0taUNoZTZpSmczalJzRHNvVFhkWTlUU3ItX0Z0NUJWVkFFMC1VeUhhWlF1dTlLcV90cXdmWWJNamcyVE5rV3VqTXB2VXdvb0UzajJqTm40QzNINUtLTnRhN3pYZ09sZkl2LUJ2clNuZVV4YzZUWW5WY1VtN2RYQWtEQ19CZlpkS1hra1htbnVTd09ZNkc4QnUzTnp3ekxqanYxMFBZZ0tmenJlamtuTjBrNTZTSVhCTGZqVWtwWHcyZHJCdmpza193R0xB?oc=5
 
-- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
-  Hundreds vs Zero: Stealth Divide That Could Def
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
+- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
+  Sonam Wangchuk has been on hunger strike for 20 days
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
 
-- India news: Murders following romantic rejections increase - DW.com
-  India news: Murders
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3NES2hqLUM1YzBtMVQxVmpQaXBkVHl4amZyc2NGWHktNC1LT0FhM0RPY0N2WElPVWt2U1ZyVXphdTJpUzRXYmR3SGxUUnNrMFhHX0t0UEo2RkFzbGZNN01ZczA1MXJKQzA1cWJVRGplN2ZPWnlOSkJiSUlJSDlGY3YtQTlKSElwU2xHWG51c2tuREFTWGlTXw?oc=5
+- Indian activist linked to Cockroach party moved to hospital after 20-day hunger strike - The Guardian
+  Indian activist linked to Cockroach party moved to hospital after 20
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHpBdmpsektJdmZsMEdjN0t0ODNQaWFLWkRQWTQ4YmxtbHdma1BfcUVQZlp3MVJ4OVNVOFQzSzR3S2pSTzFmMWpsV0kxSU5GdkpXMnVJNWlJdVVKaVN6MHV6Ymd5MXRtbWtlTG9fZ1FSWVQ1QkxHbkFRZXZHeDFBQXk4SU90RW9EYXhNMUFRLVIyYThTYktTUmpWRVBFNE9oUlk0RDVTZ0thM0FKOTlVX1Bnc3NDWGRWX3hBRkhhUnhWLURFVzRYUDg0Nnc?oc=5
 
-- Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC
-  Vikram-1: India's first private
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5
+- 'Why are you not letting me take my phone?' Sonam Wangchuk's wife questions doctors at Safdarjung Hospita - The Times of India
+  'Why are you not letting me take my phone?' Sonam Wangchuk's wife questions
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPb1BhZF9ZYmgxWjBIS2ozcDZvbVVCc3RXWFNxWFhRbWZZYTRwa0c0S2JsMm8yZ0hvREJkUk9pcEVVb3JOTlNEbTBJRmRTR2lGQmhtNURCVW01ZWFIbnFuMy04dE9UUzVBVDd6RkxJYXZkOHJ1OVVqNndhSGJBUzBuVXRyMlJJN29MNXVxb2lNTGFNckpuZjU3cGQ0MWlzNDMyM1lwTEhrNTZhUmJKS0wxSHRIczNsSmp4ZFh2dDhUbDA4c3dUNVYwZjA2Y0stNzBfU0hzaTZMMUk4bEt5WFBITlJCOGwySVp3RTdTOXIxZ2tiQlVHdmFUaFdfMk9IWDZ1S1NiSDB2R2FvaS1zVEM5RUUtZ0JEOExCeGE5VGNOV3HSAaYCQVVfeXFMTUZicUphelhUMFFNQllrcGdxM1FFRThaNV9uUVQ3OUtHOG9OdjVHU01nVTZDZk8wX0MzM1pzTTdGSzdSU192NXhheEdqNl9rRm9ENEpnRFJNbWRBQk05VUcyTmhlMTBFS1pVZzJwMGJ6ME15TVZSY2VoeDJKM3ZiZ3NGSG95OThTZnVwNjBDTjlReFBVcUpNaVZKZmV1RjUxOG5NLTAxQmN6NEZUN3hqTnpXTER0VklBdEdYNVlfZGNMLVYtaUIzV29jUzlvc0F1NGlDbDV3bWQtSVU4MGdUbGROQTBPRWxNRjN2LXhRMGlDa1ZwZ0lKNF85RTZlb0VEMEJiWWo0UHdkWlZmYUQwUW45VDB3VVEwUFNhbXZodmRjM3U0YmN3?oc=5
 
-- MEA says discussions between India, Japan on Mumbai-Ahmedabad High-Speed Rail project progressing well - News On AIR
-  MEA says discussions between India, Japan on Mumbai-Ahmed
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnFiMDJ1UWJhZktFcmpORVVNSWdLTTFlYlBmcW9CSFJjeW1hNnBsZ0M4VWZMZ0o2TkM0OGFpMkRqOUVXWHc3R2tMVXZQdTFRN1VfOE1DdnlUaUtydWljVHkySlByYUVYQ3ItQ21Bb25FekpFNVdsa2FjYkdCQ0duZXR2SjUzclBNZmxFTUh2MzZWdzl2djJfdV9heDU2eTd3NVZIQ2VPZS15V2tseUdFeVM1RjVDamRVRVk5Qi01MEJkM2hBZ0E?oc=5
+- India Gets Its 1st Hydrogen-Powered Train, Will Run On 89 Km Route In Haryana - NDTV
+  India Gets Its 1st Hydrogen-Powered Train,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMkRWSFlwOXJTcWRCUlF1X2tDM2xXUEszMlZlbjhjODMzLTdoWXFDVFRjeC1PVENvcTJBX0V6a2dWTktKWWxtTy1mRU1iX1NIZUNwMno3ZmJuTEZmT0otWjhhdmVNR2gtX3ZiQlRMRkxmaVo0R05PZXFSR0U5eFV5NGZIV1dPSjJkVXM0R0ZSN0trcF9ZRVlRZHhCVDJ2SlV2MW5XQUYzV1FEMHM3eFlhQ0pYYXduZmxmV3A1bVphZ1Q0UdIBygFBVV95cUxNeEtKS05mMGNCSEF2Z2E5VXY2QkR6VksyYjdmNVZ4dTFlTjJheTd1TGZWZ2Z4aTZnZzItY2pJaEhqbTFrM2hfTlM4SzczalQ3dDBKS1l0V0tDT0w1Z1gxU3Q3WFFEdU55eFdyMGRzZUhTZWJOSnNwTU9fblVLb25od2VvVnFUVnFpRDF0eTMtQlgtUU56bGkwRERJVXA2UV91Q2FFbHA2VjJidFpBOUNGLVM4eExhSzluQUxvSnFoZENnVEJPNXpnbzRn?oc=5
 
-- 10 Big Firsts Of Vikram-1 And Mission Aagaman By Skyroot - NDTV
-  10 Big Firsts Of Vikram-
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPU2hadFQxYVVGY0VSVW8xaVpVbmkyeVMxSWJWU3ZMWEhZbVJBVGpaLVQ3bUNTSG5OTmFGWTJNcUVOUk9CUmEyLUlVOVI1ZUpFVkFmYjhyUjhwVnhlbTY5NjRGb3FTSDV1NDVOLXRDNjZxR3Z2V19OUjdpTHBFaG5DbjBiVTVOb3hCQnc1YUlWSTJ3V2MybWl4U3p2MWtoUQ?oc=5
+- Today News Headlines for School Assembly, July 17, 2026: India’s gets its first hydrogen train, NEET Re-exam result out - The Indian Express
+  The Indian Express reports that India's first hydrogen train will be built in 2026.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQWHNxdmZ2WkR5YmUydVJBZ1pTTmxHV2M4aXRrUzZVdGFJeHZMTzVYdmkzY2YwZFpWQ0J3YXFkOXN2ZHBFWHVGZmZTOVoyR2ZRb1h5cXZrcExiVEp0ckc3RDViWmdHbkJqLXpMbXFQd1RBWXZYR3V0VEUyRmNDRjVacGZLTjRNcDgteXpVYVduZDVyQmRwY21XMzdmdjZYY2ZtUEpvTTQ1anVFdEI1QVJyb0UyQTlZR253X1p5dGduYkxnNm82YWU2azFncnhKMFhGZkp1cVJhbklGZFQ5aU9xQnhSbnhhNFdjYm1HUGVHN0hkU3pUa2NBQVhhZ0RtX19uT0dDbXNkX1ZNZ2VocWhV0gGWAkFVX3lxTE9jOVItOHQ3bG4wd1Y1VS1fVVh1TlRtWUtremFiSndrXzdwczhwNFZIakt2bmc5WmloaTJJNTcxR3RDQVBaZ0pqdDRrMFhlcFQ0OW0taUNoZTZpSmczalJzRHNvVFhkWTlUU3ItX0Z0NUJWVkFFMC1VeUhhWlF1dTlLcV90cXdmWWJNamcyVE5rV3VqTXB2VXdvb0UzajJqTm40QzNINUtLTnRhN3pYZ09sZkl2LUJ2clNuZVV4YzZUWW5WY1VtN2RYQWtEQ19CZlpkS1hra1htbnVTd09ZNkc4QnUzTnp3ekxqanYxMFBZZ0tmenJlamtuTjBrNTZTSVhCTGZqVWtwWHcyZHJCdmpza193R0xB?oc=5
 
-- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
-  Hundreds vs Zero: Stealth Divide That Could Def
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
+- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
+  Sonam Wangchuk has been on hunger strike for 20 days
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
 
-- India news: Murders following romantic rejections increase - DW.com
-  India news: Murders
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3NES2hqLUM1YzBtMVQxVmpQaXBkVHl4amZyc2NGWHktNC1LT0FhM0RPY0N2WElPVWt2U1ZyVXphdTJpUzRXYmR3SGxUUnNrMFhHX0t0UEo2RkFzbGZNN01ZczA1MXJKQzA1cWJVRGplN2ZPWnlOSkJiSUlJSDlGY3YtQTlKSElwU2xHWG51c2tuREFTWGlTXw?oc=5
+- Indian activist linked to Cockroach party moved to hospital after 20-day hunger strike - The Guardian
+  Indian activist linked to Cockroach party moved to hospital after 20
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHpBdmpsektJdmZsMEdjN0t0ODNQaWFLWkRQWTQ4YmxtbHdma1BfcUVQZlp3MVJ4OVNVOFQzSzR3S2pSTzFmMWpsV0kxSU5GdkpXMnVJNWlJdVVKaVN6MHV6Ymd5MXRtbWtlTG9fZ1FSWVQ1QkxHbkFRZXZHeDFBQXk4SU90RW9EYXhNMUFRLVIyYThTYktTUmpWRVBFNE9oUlk0RDVTZ0thM0FKOTlVX1Bnc3NDWGRWX3hBRkhhUnhWLURFVzRYUDg0Nnc?oc=5
 
-- Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC
-  Vikram-1: India's first private
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5
-
-- MEA says discussions between India, Japan on Mumbai-Ahmedabad High-Speed Rail project progressing well - News On AIR
-  MEA says discussions between India, Japan on Mumbai-Ahmed
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnFiMDJ1UWJhZktFcmpORVVNSWdLTTFlYlBmcW9CSFJjeW1hNnBsZ0M4VWZMZ0o2TkM0OGFpMkRqOUVXWHc3R2tMVXZQdTFRN1VfOE1DdnlUaUtydWljVHkySlByYUVYQ3ItQ21Bb25FekpFNVdsa2FjYkdCQ0duZXR2SjUzclBNZmxFTUh2MzZWdzl2djJfdV9heDU2eTd3NVZIQ2VPZS15V2tseUdFeVM1RjVDamRVRVk5Qi01MEJkM2hBZ0E?oc=5
-
-- 10 Big Firsts Of Vikram-1 And Mission Aagaman By Skyroot - NDTV
-  10 Big Firsts Of Vikram-
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPU2hadFQxYVVGY0VSVW8xaVpVbmkyeVMxSWJWU3ZMWEhZbVJBVGpaLVQ3bUNTSG5OTmFGWTJNcUVOUk9CUmEyLUlVOVI1ZUpFVkFmYjhyUjhwVnhlbTY5NjRGb3FTSDV1NDVOLXRDNjZxR3Z2V19OUjdpTHBFaG5DbjBiVTVOb3hCQnc1YUlWSTJ3V2MybWl4U3p2MWtoUQ?oc=5
+- 'Why are you not letting me take my phone?' Sonam Wangchuk's wife questions doctors at Safdarjung Hospita - The Times of India
+  'Why are you not letting me take my phone?' Sonam Wangchuk's wife questions
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPb1BhZF9ZYmgxWjBIS2ozcDZvbVVCc3RXWFNxWFhRbWZZYTRwa0c0S2JsMm8yZ0hvREJkUk9pcEVVb3JOTlNEbTBJRmRTR2lGQmhtNURCVW01ZWFIbnFuMy04dE9UUzVBVDd6RkxJYXZkOHJ1OVVqNndhSGJBUzBuVXRyMlJJN29MNXVxb2lNTGFNckpuZjU3cGQ0MWlzNDMyM1lwTEhrNTZhUmJKS0wxSHRIczNsSmp4ZFh2dDhUbDA4c3dUNVYwZjA2Y0stNzBfU0hzaTZMMUk4bEt5WFBITlJCOGwySVp3RTdTOXIxZ2tiQlVHdmFUaFdfMk9IWDZ1S1NiSDB2R2FvaS1zVEM5RUUtZ0JEOExCeGE5VGNOV3HSAaYCQVVfeXFMTUZicUphelhUMFFNQllrcGdxM1FFRThaNV9uUVQ3OUtHOG9OdjVHU01nVTZDZk8wX0MzM1pzTTdGSzdSU192NXhheEdqNl9rRm9ENEpnRFJNbWRBQk05VUcyTmhlMTBFS1pVZzJwMGJ6ME15TVZSY2VoeDJKM3ZiZ3NGSG95OThTZnVwNjBDTjlReFBVcUpNaVZKZmV1RjUxOG5NLTAxQmN6NEZUN3hqTnpXTER0VklBdEdYNVlfZGNMLVYtaUIzV29jUzlvc0F1NGlDbDV3bWQtSVU4MGdUbGROQTBPRWxNRjN2LXhRMGlDa1ZwZ0lKNF85RTZlb0VEMEJiWWo0UHdkWlZmYUQwUW45VDB3VVEwUFNhbXZodmRjM3U0YmN3?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- China’s Xi Jinping launches new AI alliance: What is it? - Al Jazeera
-  China’s Xi Jinping launches new AI
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- South Korea-US team unveils robotic technology that dresses the wearer - Reuters
-  South Korea-US team unveils robotic
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnJRZHlsdFA4MG9zV3UxMG5jczR6end0dWktOFgtRUh4NC1Zc1libmlTR0IwOWNzbWpwanRDeEhlNlJmLThsT2RNU0dGYlg2LWVLUGhBbjNiYzVvM3RIbDJlLUU0S0ViUG1kTGNfeEcyOXNJaTZkWVFZWVZ5Ujd6X3FfT2NPWXBkZm9QNDBLem1wYXlUTWRqdFVUd2g2Mk5IWTdOX3JEMndJRmNXV2hBc3V0d2xnU0lDT3J5eEhB?oc=5
-
-- Private hospital in Chennai launches laser angioplasty technology - The Hindu
-  Private hospital in Chennai launches laser ang
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmg1bmNxclM3NWRJc2VLRzktbzFyeThvNmpiRkNXYmxZR3kxeHF2MXp1Q2dFZnF5bnY3RkU4OGgwYnpiRDc0Q2J1NHk0c3pfVVBsOGFtT2VqemhtMWxId080TDV5aW1BM3NnQzRrWFIzZWtfclAwMkpnOFk1TE9TNVpjcGI3Y3IxSUZ0SVRHMmtfZmxySERadU5Femxyc0VScnRfZ3diWGl0MWh5VzFySk5qc213NVJzRDVTZHVRQWZ4Y2RmelNUT21n0gHQAUFVX3lxTE5xY1dLZGVOSndCdEVSdFJSdXpHNmdEVVBpWU0wTDE2REFtMkxMbnplanFmSFpuNTlaMmZ3dDlmOFpLOEROSGpWc0h4R29wSnY0X08tN2xLTG0tdTZyVDQySm1sOXJOcWV0dGNiNXozaUcxSEc2TThsbEdmeDQtVmZfT2VHNmM4elE0cEtZRzh0T1lNMjNmdFVZcUx0Sl9zM1ZZMHAyNTBEY2tLZTAwVkV6TDBPUm11WG5NT0pNaTdZS0VJbkwtY0FqNE8yaUtNWTk?oc=5
-
-- Union Minister Pralhad Joshi Inaugurates 'White Rabbit Technology' Based Network Demonstration in Jakkur, Bengaluru - PIB
-  Union Minister Pralhad Joshi Inaugurates '
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTFBwbVRIWEFsaVI3Nm92WFdiUlotekF6S1hYNXJ1NEZSTzdwbTdzTWYtenN6RHVJT3BiN3BHRjExMGdFSEYwOTh2RU5RbFpzbGNjRGwzd0Q1MkdUamN3MUl6VERDNlgyRGtzcmJWaGgxZm9HNmEzbUtTWXpOWQ?oc=5
-
-- With first hydrogen-powered train, India enters global league in green rail technology - ThePrint
-  With first hydrogen-powered train, India enters global
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkNRVi1oY01wZ3RLU2N6NHM5VFlhbWYzYjRMMWQyOG1MaUFZTkIyQ095WWlpSk44cEZLWk40cnlTUXpKSU1ZSVh2enFZUC1fLUU1NGhmWGg4cWM0V0hPalRfRGIySFIxOU5PX1o3dnNBQkhaZ19PZFNpMVF4bHNVd1NmQjc2UUl1WDRrdWNkVGU5dHA3S0pBM20xb25aTUU2RzJSbGxKRnljRjY5dEFnQU1mWm54anIxcFpobtIBwgFBVV95cUxNSURsNk1iMV9GUzlqU1ZQVWZQMF9yb0g0QWdRekFoZkZhVkl5SlVnR3Y5eTBLbjNIaWh5V1hlMHUzR1V1aEZWOUgwYWhwSXhfeWlMNVB6N0NEYmpqeEd5U0FSa2lXbWV5TmROTWNCRU96N2lZYjctNmp4dTJlNWRJaVdOeXFSX1laLWlLMThzQnR5SVdYNDFZUXZ2Qmx6RFAwc2N1S2dIejJkRXZtQXp5N1R5M2twSDRZbTdiTVRKeGxuZw?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-18 02:00:50 UTC_
+_Last updated: 2026-07-18 07:44:08 UTC_
