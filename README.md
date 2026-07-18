@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Bihar government faces first pushback from within: BJP and JDU leaders say don’t change education structure
+  
+  🔗 https://indianexpress.com/article/india/bihar-higher-education-bill-nda-legislators-oppose-undergraduate-college-bjp-jdu-10792929/
+
+- J&K Police order SIT probe into Doda youth’s death amid protests, shutdown
+  
+  🔗 https://indianexpress.com/article/india/jammu-kashmir-doda-police-firing-arif-hussain-death-sit-bhaderwah-internet-suspended-10792873/
+
+- ‘If Modi doesn’t sack Dharmendra Pradhan, he is responsible too’: CJP founder Abhijeet Dipke
+  
+  🔗 https://indianexpress.com/article/india/cockroach-janta-party-abhijeet-dipke-pm-modi-resignation-sonam-wangchuk-jantar-mantar-10792826/
+
 - Mumbai-Ahmedabad bullet train project: Second TBM begins excavating India’s first undersea tunnel
   
   🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-second-tbm-undersea-tunnel-excavation-thane-creek-maharashtra-10792696/
@@ -8,17 +20,9 @@
   
   🔗 https://indianexpress.com/article/india/jharkhand-dalit-student-assaulted-government-school-hostel-fir-registered-10792684/
 
-- Railways to develop Rishikesh as feeder station to reduce pressure on Haridwar, boost train capacity
+- Researchers build AI camera that reconstructs particle paths using handful of photons
   
-  🔗 https://indianexpress.com/article/india/indian-railways-rishikesh-feeder-station-haridwar-congestion-train-capacity-10792580/
-
-- ‘Violence a core tenet of Modi govt’: Rahul Gandhi condemns Sonam Wangchuk’s removal from Jantar Mantar
-  
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-delhi-police-sonam-wangchuk-jantar-mantar-neet-protest-10792584/
-
-- Donation theft at Badrinath Dham: CCTV reveals how accused operated, even saffron wasn’t spared
-  
-  🔗 https://indianexpress.com/article/india/badrinath-dham-donation-theft-cctv-accused-operation-10792441/
+  🔗 https://indianexpress.com/article/technology/science/researchers-build-ai-camera-that-reconstructs-particle-paths-using-handful-of-photons-10792899/
 
 - 77% of Indian professionals use AI at work; AI-skilled workers earn more: Naukri report
   
@@ -36,69 +40,65 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/one-tech-tip-how-to-soothe-thumb-pain-when-texting-and-scrolling-10792471/
 
-- Samsung Galaxy Z Fold 8, Fold 8 Ultra, Flip 8 specs leak ahead of July 22 launch
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-z-fold-8-fold-8-ultra-flip-8-specs-leak-ahead-of-july-22-launch-10792409/
+- If OpenAI becomes ‘Lehman Brothers of AI bubble’ – What happens to Microsoft, Nvidia, Oracle and Amazon?
+  Ed Zitron claims that the AI boom is primarily driven by OpenAI, cautioning that its collapse could trigger an industry downturn. Despite heavy investments, concerns exist
+  🔗 https://www.livemint.com/companies/news/if-openai-becomes-lehman-brothers-of-ai-bubble-what-happens-to-microsoft-nvidia-oracle-and-amazon-11784293301559.html
 
-- Stock Market News, July 17, 2026: Nasdaq Drops as Chip Selloff Deepens - WSJ
-  The WSJ reports that the Nasdaq dropped
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5
+- SpaceX short sellers pocket $5 billion in paper profits as stock wipes out $1 trillion in value
+  Short sellers have reaped $5 billion in paper profits amid a stock decline. The short interest surged from $4.5 billion to $25 billion.
+  🔗 https://www.livemint.com/companies/news/spacex-short-sellers-pocket-5-billion-in-paper-profits-as-stock-wipes-out-1-trillion-in-value-11784390468737.html
 
-- China’s Kimi K3 Hits US Stock Markets. Is the American AI Boom Over? - Yahoo Finance
-  China’s Kimi K3 Hits US Stock Markets
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQYkM3aXlMaGFHM1dNT3RQTFBzX1cwQ0Qtc0RWb1hIRVM3enhEOWRLb1pDX3JFWDV1TTM1LW9MYU1PSUwtbTRSZDJ1b2l0dlc1T3BpWEFqS21Tc1g5Z2RxMTZhSnBtakJsV1ZQY1JKQTJHZ0tUaTFObjhxTFhvanpqU3ZOTG5oQVRETWdYN3pn?oc=5
+- Meta's 'AI overbuild' finds a buyer as Anthropic eyes $10 billion computing power deal
+   Meta is negotiating a deal to lease AI computing power to Anthropic, potentially worth $10 billion.
+  🔗 https://www.livemint.com/companies/news/metas-ai-overbuild-finds-a-buyer-as-anthropic-eyes-10-billion-computing-power-deal-11784377532775.html
 
-- The next crash: why this time might not be different - Financial Times
-  The next crash: why this time might not
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFRESm5sUHJwajRUelcwcV81MXpjZTBJZ1NGeEZFRGkzSjVzcTBKR2lHclhRNldRYWlRMXlCRGdKSkJUVjlyZmI3SkxtdkVuRXdaZ2ZFT3RMaWxOT0I0aDBSNGJzNUMyX1lFZGZvX1owelo3S2hMWmt5OTYtdExkU19mcVA?oc=5
+- How his roommate's missed interview helped Raj Subramaniam begin his journey to becoming FedEx CEO
+  In 1991, while completing his MBA in marketing and finance at the University of Texas at Austin, the
+  🔗 https://www.livemint.com/companies/news/how-a-missed-roommate-interview-helped-raj-subramaniam-begin-his-journey-to-becoming-fedex-ceo-11784372625766.html
 
-- Parandur airport uncertainty slows western Chennai land market - The Hindu
-  Parandur airport uncertainty slows western
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd04zT2RHbWo2bGljY3Y3bmk1Nnp0bUJQNVc3am45N0xmNjIydXA5SFRya1hYZU9ReEVxVUdHY0tOX3FjV3lfN3ZKYXdPbDRGZ1ByVWhOeWRsUWhPNk1iX1JiVGVISGc2bGt4QW14dFI3SmNQRV9WM1p1dHBWblVoQTdzY0dmU1JHUW5DeWVrTlpqRUx1M3ZXaWJBN1UxYlJwRnVVQ0RVVWIxQXNpMUljSVdEaVVDbW52OFYw0gHCAUFVX3lxTE8zeHpMNVlFS2NLT2NrQzFTeE5CTEgwMUM2YmZ6Y0JkcWxldFN5ckg2M0QzSnpZc1Z6OWxPQkhYeVJRekh3bUl5YlE1Y0lCSEd2cHRZWGI0UXVLdTRwUDU4MzR3QUt0eVRnaTA0TGc4RGUzOFpoOTBmaV84d2Z4OU1ueTZtVXNjNHU3NGRDSlgxZUY2bS1Ydkc3dE40UFVXdW1WNmVERkVWZUxmZ2VSMXVvcmFwYTRKUnRucUNRQk9YaDVB?oc=5
+- Yes Bank sees strong FCNR demand; corporate lending surges in Q1
+  Yes Bank expects margins to improve through lower funding costs. The bank remains open to a
+  🔗 https://www.livemint.com/companies/company-results/yes-bank-q1-earnings-fcnr-deposits-corporate-lending-indian-banking-sector-11784371522518.html
 
-- Nasdaq Futures Tumble 1.5% as Chip Rout Deepens: Markets Wrap - Bloomberg.com
-  Nasdaq Futures Tumble 1
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1hEY0xabmQwOE5fek9mUk12anNLVlJ4Q2JVcUstZEtaYzVNRk5zTWlqTkVfeEsxME5sa1BQTDBMeU9ScldYZTlWaTRDQzFuMGlLWVpYeVQtRkR0OXNsTV9Ib3gydHQ4SWtWazQ2SG1FNUF6dE5icjc0cGFZTGJyaE5uYW5SR1pkV09SaHp2dVFqWTdD?oc=5
+- IPO GMP Check: SBI Funds Management IPO vs Alpine Texworld IPO - What grey market signals ahead of listings?
+  SBI Funds Management and Alpine Texworld IPOs closed their bidding on July 16. SBI commanding a GMP of  ₹91 and being subscribed 41.66 times. Alpine Tex
+  🔗 https://www.livemint.com/market/ipo/ipo-gmp-check-sbi-funds-management-ipo-vs-alpine-texworld-ipo-what-grey-market-signals-ahead-of-ipo-listings-11784364672970.html
 
-- Press Note Details: Press Information Bureau - PIB
-  &nbsp;
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE84cDhHUGE2d205Nk0zQ0V3TjVfTjlQR2FCRkpRclV3QV9YaUVvbnJFeW16SHR2SUJaR2RKRmJxX1VCSmZyQ2k5QUliUTlsdEpXejZNRFMzS0g1WUFZRFVZSjNHUmE3ejNjbGMtSTFRUnNaRUwySVVpdQ?oc=5
+- ICICI Bank Q1 Results 2026: Net profit rises 16% to  ₹14,804.50 crore
+  ICICI Bank reported a net profit of  ₹14,804.50 crore for Q1 2026. The
+  🔗 https://www.livemint.com/market/stock-market-news/icici-bank-q1-results-2026-net-profit-rises-16-to-rs-14-804-50-crore-check-nii-asset-quality-11784365257879.html
 
-- China’s Xi Jinping launches new AI alliance: What is it? - Al Jazeera
-  China’s Xi Jinping launches new AI
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5
+- Yes Bank Q1 results 2026: Net profit jumps 33.7% YoY, operating profit up 25.5%
+  During the April to June 2026 period, Yes Bank reported net profit of  ₹1,
+  🔗 https://www.livemint.com/market/stock-market-news/yes-bank-q1-results-2026-net-profit-jumps-33-7-yoy-operating-profit-up-255-11784360724934.html
 
-- Could this machine change football training? - BBC
-  Could this machine change
-  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DUjhJNFpWdzVFSUk1RkpVcFYydWNsODg4cGI4Wk5KS2pBRDhRMkdEb2wxY0pLR3JWdXgzOGVWWGs3ei1fWElmWmZ4cU5GazROcXZLVGoxdFA?oc=5
+- Kotak Mahindra Bank Q1 Results 2026: Net profit rises 22.5% to  ₹5,480 crore
+  Kotak Mahindra Bank reported a 22.5% year-on-year increase in consolidated net profit. Total income for the quarter
+  🔗 https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-q1-results-2026-net-profit-rises-over-22-to-rs-5-480-crore-check-nii-asset-quality-11784359648709.html
 
-- HCLTech opens technology centre in GIFT City; employs 500 engineers - The Hindu
-  HCLTech opens technology centre in GIFT
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNZk1aZjBIdTdJOFhWM05DaGczamp5QWdwZ1ZuQzdiUXROb3FnYWc1OVF2Z1JWd1E4RHVBMTF0SldiRGdjT0VTc2U1QkttTE1SaFY4aEF1YnNVbE85a1dXajBkQUVzTk1Ma3FaLXc1TlRYMWFuNGd3UElQWVBIRmJOM2hwTUM5U0ZGSDRRRkFXSTF0S1BiQ3dWRTJ4SE9ZZXlHRHRnQ1FOMnhMdDZtOTJqTF9ZZjFnZHlXcXZrUtIBwwFBVV95cUxNdjM4TFM2Tk5uQnhSV01hZDhkRUVOYldkS1lyRUZVcENzS0syQlhKQmM3dHFmVFMzclA1eEIwck16cHpPZGN3WGtmNXVudk04bm9wVWluMUxpWjlnZ3lRSURBN1FnRUt0d1FidWZRRXl3dkUzbTMxT1hONUhfMUxXUGZyOENxRzNuR0N3NUFfQzFTVk5Taks5aTVyUzJWYkN2VDBYQmdOU3RSRkZ6bl9VQVplU0ZxZDc2Vzh2RHVKYU14Y3c?oc=5
+- Axis Bank Q1 Results 2026: Net profit jumps 23% YoY to  ₹7,114 crore; NII rises 8%
+   Axis Bank reported strong Q1 FY27 earnings, with standalone net profit rising 22.5% to  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/axis-bank-q1-results-2026-net-profit-jumps-23-yoy-to-rs-7-114-crore-nii-rises-8-11784357377152.html
 
-- Chennai startup claims breakthrough in battery technology - The New Indian Express
-  Chennai startup claims breakthrough in battery
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2c4bmswM2tHeWF3SDhBWEhOZmZBZ3JvOWtkeEJDSkJmVHB4eDg1Nm1uYnJkb29Hb1ByU2Vhbm1Nc3FkNnRoRkFTb2t0XzFCbUNPc2hhX2dpQ3MyV0JOR2RLckh3VE9Qd19ZUUgtc0RLWlFjd1J4LUpycnAwM08zSV9zdFpmX3JmbDdYM3R5SFdNaFVBZW1SdWJSaV9vQm1Qc2l0SUVUYVBOLXVEejI2cmxPMUNDdURV0gHGAUFVX3lxTE9EOUpLanhhMFRmMi1FTXZLc3dIQXFUbVhxV1FlR0M4SGxTUnBvUW0tTmtQOThFbVg5dFpDejgtSGNfRHBuUVl1OWs2VU16UTVFazdGbXlLYjRjQ0RaWDZNTnNQaUU5dlVYcGRjTnV3c25JY2twc0wxWk1SWmJOWm1Bdm5YYUNHM0VjeURPT1BldXFTZzZDUFZwbGlzUkFJclRjeGcyaDN5RnYyaHo3OGlzbExnUVlQcU1ZX3VFTzBfcHlDWEFNZw?oc=5
+- Still leaving your home unwatched? These 5 indoor security cameras help you keep an eye on everything
+  These cameras also offer support for night vision technology. All of these security cameras offer 360
+  🔗 https://www.livemint.com/technology/still-leaving-your-home-unwatched-these-5-indoor-security-cameras-help-you-keep-an-eye-on-everything-11784215175858.html
 
-- Stock Market News, July 17, 2026: Nasdaq Drops as Chip Selloff Deepens - WSJ
-  The WSJ reports that the Nasdaq dropped
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5
+- Semicon 2.0: Govt to match VC funding in chip design, pick equity
+  The scheme aims to reduce funding gaps in one of the country's most capital-intensive technology sectors. The government will match private investments in
+  🔗 https://www.livemint.com/technology/semicon-2-0-vc-funding-chip-design-equity-semiconductor-government-11784207658957.html
 
-- China’s Kimi K3 Hits US Stock Markets. Is the American AI Boom Over? - Yahoo Finance
-  China’s Kimi K3 Hits US Stock Markets
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQYkM3aXlMaGFHM1dNT3RQTFBzX1cwQ0Qtc0RWb1hIRVM3enhEOWRLb1pDX3JFWDV1TTM1LW9MYU1PSUwtbTRSZDJ1b2l0dlc1T3BpWEFqS21Tc1g5Z2RxMTZhSnBtakJsV1ZQY1JKQTJHZ0tUaTFObjhxTFhvanpqU3ZOTG5oQVRETWdYN3pn?oc=5
+- BGMI 4.5 update: Naruto themed maps, Spider-Man mode, Ferrari cars and everything new
+  Naruto-themed gameplay mode. Spider-Man crossover, licensed Ferrari vehicles, and anniversary rewards.
+  🔗 https://www.livemint.com/technology/tech-news/bgmi-4-5-update-naruto-themed-maps-spider-man-mode-ferrari-cars-and-everything-new-11784190497814.html
 
-- The next crash: why this time might not be different - Financial Times
-  The next crash: why this time might not
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFRESm5sUHJwajRUelcwcV81MXpjZTBJZ1NGeEZFRGkzSjVzcTBKR2lHclhRNldRYWlRMXlCRGdKSkJUVjlyZmI3SkxtdkVuRXdaZ2ZFT3RMaWxOT0I0aDBSNGJzNUMyX1lFZGZvX1owelo3S2hMWmt5OTYtdExkU19mcVA?oc=5
+- Vivo T5 Lite 44W 5G in India with 120Hz display, 6,500mAh battery:  Check price and specs
+  The Vivo T5 Lite 44W features a 6.74-
+  🔗 https://www.livemint.com/technology/gadgets/vivo-t5-lite-44w-5g-in-india-with-120hz-display-6-500mah-battery-check-price-and-specs-11784185070429.html
 
-- Parandur airport uncertainty slows western Chennai land market - The Hindu
-  Parandur airport uncertainty slows western
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd04zT2RHbWo2bGljY3Y3bmk1Nnp0bUJQNVc3am45N0xmNjIydXA5SFRya1hYZU9ReEVxVUdHY0tOX3FjV3lfN3ZKYXdPbDRGZ1ByVWhOeWRsUWhPNk1iX1JiVGVISGc2bGt4QW14dFI3SmNQRV9WM1p1dHBWblVoQTdzY0dmU1JHUW5DeWVrTlpqRUx1M3ZXaWJBN1UxYlJwRnVVQ0RVVWIxQXNpMUljSVdEaVVDbW52OFYw0gHCAUFVX3lxTE8zeHpMNVlFS2NLT2NrQzFTeE5CTEgwMUM2YmZ6Y0JkcWxldFN5ckg2M0QzSnpZc1Z6OWxPQkhYeVJRekh3bUl5YlE1Y0lCSEd2cHRZWGI0UXVLdTRwUDU4MzR3QUt0eVRnaTA0TGc4RGUzOFpoOTBmaV84d2Z4OU1ueTZtVXNjNHU3NGRDSlgxZUY2bS1Ydkc3dE40UFVXdW1WNmVERkVWZUxmZ2VSMXVvcmFwYTRKUnRucUNRQk9YaDVB?oc=5
-
-- Nasdaq Futures Tumble 1.5% as Chip Rout Deepens: Markets Wrap - Bloomberg.com
-  Nasdaq Futures Tumble 1
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1hEY0xabmQwOE5fek9mUk12anNLVlJ4Q2JVcUstZEtaYzVNRk5zTWlqTkVfeEsxME5sa1BQTDBMeU9ScldYZTlWaTRDQzFuMGlLWVpYeVQtRkR0OXNsTV9Ib3gydHQ4SWtWazQ2SG1FNUF6dE5icjc0cGFZTGJyaE5uYW5SR1pkV09SaHp2dVFqWTdD?oc=5
+- Apple reveals businesses that won't be allowed to advertise on Apple Maps
+  Apple plans to introduce ads on Apple Maps
+  🔗 https://www.livemint.com/technology/tech-news/apple-reveals-businesses-that-wont-be-allowed-to-advertise-on-apple-maps-11784182863312.html
 
 - Lohia Corp IPO opens on July 23: Here’s all you need to know
   Lohia Corp will launch its IPO on July 23, with the issue comprising a pure offer for sale of over 2.59 crore shares. The technical textile machinery maker reported a 64% YoY jump in FY
@@ -120,26 +120,6 @@
   Legendary investor Fred C. Kelly argued that investment success depends more on mastering psychology than predicting markets. In his classic work, he explains why following the crowd often leads to losses.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fred-kellys-timeless-investing-lessons-why-the-crowd-is-usually-wrong/articleshow/132477889.cms
 
-- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
-  Hundreds vs Zero: Stealth Divide That Could Def
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
-
-- Why Punjab could define India’s new national security leadership | India News - Hindustan Times
-  Why Punjab could define India’s new national security
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
-
-- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
-
-- U.S. lawmaker urges Congress to review arms sales to India - The Hindu
-  The Hindu reported that the U.S.
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGQzWkMyQ2dYQXJxRFI0WWlPSm5laEtlY0FCR1BvMWNtbnFiOFl2NTMxSmd5cjdRbmdvN2VGYnV0REFWUkRDR2ZDb21PSC1CbnVwZzltckJHc09uaWZzS3l0bHdRNXRFQmZQQ3dMZWU2cmdYbU93ZGloSFFYU1E2aFgyTk9vTkEtYi1TMzQyd2xxbzNlekFxbkxoSGJmUGNYWjRoc0p5Xy0wNEp2dVNHSDdsMldBVjJybWNHNNIBwwFBVV95cUxOTnZ1WUUxYllOdUZDYUFHN2dQOHpIck9ZVjhRZE5xY0xLMFI3aUMtSVFKdlNDRWQtQ2Vxd1lVcW9aRzdOdER4cmFEX0QxX09YaTE5ZVJEUF9XWG9NcWhoNlZLTUhSc1dndUw2ZVJBZ0w4Qld2VVI3ei0zb1QtZGR4NjFTWl9jdWpRWHFlaGt3cTQzOFZHQlA1dHAwYXZHNGZPSmdPZ0lseFRQNGdoemc0a3h3WnBEV1QyNjAtei1pUUhxZ0k?oc=5
-
-- Hello Space, Vikram-1 Has Arrived: Skyroot Scripts India's Historic Rocket Mission - NDTV
-  "Hello Space, Vikram-1 Has
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNFBNSWNpQkp6VE0wRk9sNzJFRmNrZW1PZlpIR3RwVzZxTXYxSnpDeG9jakNHN0lubzNUNzJmRTFjckJUYWhiVzJaNmF6bUNFSHhfYmRMNGZRUjVmU084bzlWZEgwZDJRaUxnRWVva29KSllTaGJybm5WZ2NLTDJ4SkVJVDZwNzJjZ3oxVk1qZ3pON3BtOThMY0F5UXBrc2lCXzBydC1yOHRwc3JHa2I5ajAyRTBEYTNySTRmX0pCUjc1d2JwVldsaEZWOVViUDZ4TXU5d2o4MW12eUMwRWdZadIB6AFBVV95cUxPdmd2NmFmMXRTZDhDTUE2QjczY0xsNkdCcmhUaVByOU03R25SbXlRMmZXRnZ0VF94S1BoUll4cnBrMk1QUldYNDU4WXRkdW9taFJPRld6SEVoazZoNVoza1pMeUhwckNDcmpYSEVnNUhCOXFGRGRoQjdzQTBqbFR5SnktczZDLUNOTklMZUNVTnh1YlJtNDBaSjZKMURWMTlvNHNXV0VVV3FQaHFGWHBMWm9VZ0huV3FBZGRXaUg0NVdyNnYtZ3BQYWRNazNoY3BWZ2hHT1pDUVF6bnc4cW5ORGVldjhlZmpW?oc=5
-
 - Meet The 50 D2C Brands From D2CX By Inc42’s 8th Cohort
   Saturation doesn&#8217;t seem to be a concern that plagues India’s D2C boom. What began as a handful of digital-first brands is now
   🔗 https://inc42.com/startups/meet-the-50-d2c-brands-from-d2cx-by-inc42s-8th-cohort/
@@ -160,53 +140,45 @@
   Spacetech unicorn Skyroot created history by becoming the first private Indian company to place a rocket into orbit.
   🔗 https://inc42.com/buzz/history-beckons-skyroot-lifts-off-with-indias-first-private-orbital-mission/
 
+- Hello Space, Vikram-1 Has Arrived: Skyroot Scripts India's Historic Rocket Mission - NDTV
+  "Hello Space, Vikram-1 Has
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNFBNSWNpQkp6VE0wRk9sNzJFRmNrZW1PZlpIR3RwVzZxTXYxSnpDeG9jakNHN0lubzNUNzJmRTFjckJUYWhiVzJaNmF6bUNFSHhfYmRMNGZRUjVmU084bzlWZEgwZDJRaUxnRWVva29KSllTaGJybm5WZ2NLTDJ4SkVJVDZwNzJjZ3oxVk1qZ3pON3BtOThMY0F5UXBrc2lCXzBydC1yOHRwc3JHa2I5ajAyRTBEYTNySTRmX0pCUjc1d2JwVldsaEZWOVViUDZ4TXU5d2o4MW12eUMwRWdZadIB6AFBVV95cUxPdmd2NmFmMXRTZDhDTUE2QjczY0xsNkdCcmhUaVByOU03R25SbXlRMmZXRnZ0VF94S1BoUll4cnBrMk1QUldYNDU4WXRkdW9taFJPRld6SEVoazZoNVoza1pMeUhwckNDcmpYSEVnNUhCOXFGRGRoQjdzQTBqbFR5SnktczZDLUNOTklMZUNVTnh1YlJtNDBaSjZKMURWMTlvNHNXV0VVV3FQaHFGWHBMWm9VZ0huV3FBZGRXaUg0NVdyNnYtZ3BQYWRNazNoY3BWZ2hHT1pDUVF6bnc4cW5ORGVldjhlZmpW?oc=5
+
+- Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC
+  Vikram-1: India's first private
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5
+
+- Vikram-1 Reaches Orbit, Making India A Global Leader In Private Space Launch Capability | Watch - The Times of India
+  Vikram-1 Reaches Orbit, Making India A Global Leader In Private
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb0dFdkhuc2kyc05vX0EyN1ZnYUo5SEVGb2FBaE12N2tlYnlBSlJocDBBcnlrTU8tMzJlZWhQd0dDcEU1WmFXWkR0bk4tOFllekszcGZ6Y1U2VDVWYlhyUzJHdnZ5SGFRaWloQjVJOFFlVFVJVXZoTW1TLXhRcnA0ekxRNGthT3AzMGw2bXVrckF1TEJ6bWdqWFpXRXlFdG9JZWVZbEdWcG52RGtNVDBhaUFwRmNYbUZabWU5SE90Q1dtTmZVbW8tNHNhSUc3UlRJTHJtY3VrWmpZN1NxME5nOVJ1dWd2cnpXQjEySEg5dzdXNVZjd2Vz0gH8AUFVX3lxTFA1ck10Z3F3Qm9CRXdhc0J6QmI1R1hrYl82S09KUWYyckl5SlZfb2ZHdlpQYUFZTjlsTjBVWW5hTTRVdGNWSUNBVmF3emR1RndWZ0dIUHRsbDhGUk4yZDlZYzc2amdLaWVNU2gzZGdqT3dKQjdxN0E2cGFnQzRweXZjLWFJQVpNYVBNRFNEU21YQmRRZU5PUWJBTWFiWEg5cFkteW03ZFExcnppRTF1SW5IUU5UR2RnYm40a0VZUTNxM3BjRVdyVHdLU0w4NlRrVzRyVm1aa3ZHbkpYTm9obnZJRHQ3VU5WMDVTdFE1UnJON1lWbnN4ZnNrTWR5QQ?oc=5
+
 - Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
   Hundreds vs Zero: Stealth Divide That Could Def
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
 
-- Why Punjab could define India’s new national security leadership | India News - Hindustan Times
-  Why Punjab could define India’s new national security
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0FPdFhmR1BWT3ZCTGlnRHJpS2RIX09EVlVwd1I4LWtwc3JKTkpXUGJaQTlXRWdFWnVOUk1sZVR2Y05lOVRNSklCUXk3LXFoT0lUaHVEVjRjdlBlMUl5OVBiQ2FodVpiRktKTDhNUFZjT1RaQkZ6bkJtQmZNS2FBTGdaWlNwOC12SmNEZ3BZS1dwMS1ucUQ2VzQtMm1ZTE4yTFk4OEdCbG5qQU95ejFuZTFQWEVUX3o4M0dpbGxMNnRkWThkR2fSAcsBQVVfeXFMTnAwbEJjM2JYdWlhMjdQUVNHV09sVUhZczRSWklIWmdGeGloS3MtMmJ2OGdGM2JwRWNGUHZtZmxtczBGa0h4T1paaUpxNzU3MHhWWlhKU2E1U3plVU9HS1FxREFFT003ZjVWb3pfT0dFMXpRdzBGS1VPaHVfMkExa1B2Qi1MamtTY3U5SXB1YW5wYWQ3Y05hY3N1ajdHR1l1ZGpSTHlVdFBPSUxjdVBfY25TVVk4Q1VBSlpjeFFTdFFUMjZkS1B0T3l6Tkk?oc=5
-
-- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
-
-- U.S. lawmaker urges Congress to review arms sales to India - The Hindu
-  The Hindu reported that the U.S.
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGQzWkMyQ2dYQXJxRFI0WWlPSm5laEtlY0FCR1BvMWNtbnFiOFl2NTMxSmd5cjdRbmdvN2VGYnV0REFWUkRDR2ZDb21PSC1CbnVwZzltckJHc09uaWZzS3l0bHdRNXRFQmZQQ3dMZWU2cmdYbU93ZGloSFFYU1E2aFgyTk9vTkEtYi1TMzQyd2xxbzNlekFxbkxoSGJmUGNYWjRoc0p5Xy0wNEp2dVNHSDdsMldBVjJybWNHNNIBwwFBVV95cUxOTnZ1WUUxYllOdUZDYUFHN2dQOHpIck9ZVjhRZE5xY0xLMFI3aUMtSVFKdlNDRWQtQ2Vxd1lVcW9aRzdOdER4cmFEX0QxX09YaTE5ZVJEUF9XWG9NcWhoNlZLTUhSc1dndUw2ZVJBZ0w4Qld2VVI3ei0zb1QtZGR4NjFTWl9jdWpRWHFlaGt3cTQzOFZHQlA1dHAwYXZHNGZPSmdPZ0lseFRQNGdoemc0a3h3WnBEV1QyNjAtei1pUUhxZ0k?oc=5
+- Weather Office Predicts Very Heavy Rainfall Across UP Over Next 24 Hours - NDTV
+  Weather Office Predicts Very Heavy Rainfall Across UP
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTHhycTd3WjlTWU44ZnkyRW5XeGgwUUZ3T2VyZmxRYUxTQXhoNENubmt6NzYwbXZ5ZExVWHc4T1dGRWVkZU02cGgtSU5GUU9pT0VMek83TG53dEMxUWF5cTNsV3p5d1FzOTR5ZnVWR1hFUkszZEd4aVg4WnBBVU55eS1ZQm4tYUQ1MXE0d0dHR0dRS1RaTEd6dlZhVTU3cDdsemNwTUNsSEFONlVfM2xxRFBpZ0p0RkRVSk1tN19xUGRLeVdHeTdRVTg1ZlVNamk1VTdqX0UxRQ?oc=5
 
 - Hello Space, Vikram-1 Has Arrived: Skyroot Scripts India's Historic Rocket Mission - NDTV
   "Hello Space, Vikram-1 Has
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNFBNSWNpQkp6VE0wRk9sNzJFRmNrZW1PZlpIR3RwVzZxTXYxSnpDeG9jakNHN0lubzNUNzJmRTFjckJUYWhiVzJaNmF6bUNFSHhfYmRMNGZRUjVmU084bzlWZEgwZDJRaUxnRWVva29KSllTaGJybm5WZ2NLTDJ4SkVJVDZwNzJjZ3oxVk1qZ3pON3BtOThMY0F5UXBrc2lCXzBydC1yOHRwc3JHa2I5ajAyRTBEYTNySTRmX0pCUjc1d2JwVldsaEZWOVViUDZ4TXU5d2o4MW12eUMwRWdZadIB6AFBVV95cUxPdmd2NmFmMXRTZDhDTUE2QjczY0xsNkdCcmhUaVByOU03R25SbXlRMmZXRnZ0VF94S1BoUll4cnBrMk1QUldYNDU4WXRkdW9taFJPRld6SEVoazZoNVoza1pMeUhwckNDcmpYSEVnNUhCOXFGRGRoQjdzQTBqbFR5SnktczZDLUNOTklMZUNVTnh1YlJtNDBaSjZKMURWMTlvNHNXV0VVV3FQaHFGWHBMWm9VZ0huV3FBZGRXaUg0NVdyNnYtZ3BQYWRNazNoY3BWZ2hHT1pDUVF6bnc4cW5ORGVldjhlZmpW?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC
+  Vikram-1: India's first private
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Vikram-1 Reaches Orbit, Making India A Global Leader In Private Space Launch Capability | Watch - The Times of India
+  Vikram-1 Reaches Orbit, Making India A Global Leader In Private
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb0dFdkhuc2kyc05vX0EyN1ZnYUo5SEVGb2FBaE12N2tlYnlBSlJocDBBcnlrTU8tMzJlZWhQd0dDcEU1WmFXWkR0bk4tOFllekszcGZ6Y1U2VDVWYlhyUzJHdnZ5SGFRaWloQjVJOFFlVFVJVXZoTW1TLXhRcnA0ekxRNGthT3AzMGw2bXVrckF1TEJ6bWdqWFpXRXlFdG9JZWVZbEdWcG52RGtNVDBhaUFwRmNYbUZabWU5SE90Q1dtTmZVbW8tNHNhSUc3UlRJTHJtY3VrWmpZN1NxME5nOVJ1dWd2cnpXQjEySEg5dzdXNVZjd2Vz0gH8AUFVX3lxTFA1ck10Z3F3Qm9CRXdhc0J6QmI1R1hrYl82S09KUWYyckl5SlZfb2ZHdlpQYUFZTjlsTjBVWW5hTTRVdGNWSUNBVmF3emR1RndWZ0dIUHRsbDhGUk4yZDlZYzc2amdLaWVNU2gzZGdqT3dKQjdxN0E2cGFnQzRweXZjLWFJQVpNYVBNRFNEU21YQmRRZU5PUWJBTWFiWEg5cFkteW03ZFExcnppRTF1SW5IUU5UR2RnYm40a0VZUTNxM3BjRVdyVHdLU0w4NlRrVzRyVm1aa3ZHbkpYTm9obnZJRHQ3VU5WMDVTdFE1UnJON1lWbnN4ZnNrTWR5QQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
+  Hundreds vs Zero: Stealth Divide That Could Def
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Weather Office Predicts Very Heavy Rainfall Across UP Over Next 24 Hours - NDTV
+  Weather Office Predicts Very Heavy Rainfall Across UP
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTHhycTd3WjlTWU44ZnkyRW5XeGgwUUZ3T2VyZmxRYUxTQXhoNENubmt6NzYwbXZ5ZExVWHc4T1dGRWVkZU02cGgtSU5GUU9pT0VMek83TG53dEMxUWF5cTNsV3p5d1FzOTR5ZnVWR1hFUkszZEd4aVg4WnBBVU55eS1ZQm4tYUQ1MXE0d0dHR0dRS1RaTEd6dlZhVTU3cDdsemNwTUNsSEFONlVfM2xxRFBpZ0p0RkRVSk1tN19xUGRLeVdHeTdRVTg1ZlVNamk1VTdqX0UxRQ?oc=5
 
 
-_Last updated: 2026-07-18 13:06:08 UTC_
+_Last updated: 2026-07-18 18:59:08 UTC_
