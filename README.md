@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Indian Railways clarifies after video of hydrogen train pulled by diesel engine goes viral
+- ‘Right to raise voice peacefully’: Shabana Azmi joins CJP’s Jantar Mantar protest
   
-  🔗 https://indianexpress.com/article/india/indian-railways-clarification-hydrogen-train-diesel-engine-viral-video-10793848/
+  🔗 https://indianexpress.com/article/india/shabana-azmi-prakash-raj-cjp-jantar-mantar-protest-sonam-wangchuk-parliament-march-10794057/
 
-- Rain havoc in J&K: 10 killed, several missing; Omar Abdullah leaves Delhi ahead of statehood protest
+- Sonam Wangchuk to end hunger strike tomorrow on 2 conditions, says wife
   
-  🔗 https://indianexpress.com/article/india/rain-havoc-jammu-kashmir-cm-omar-abdullah-delhi-statehood-protest-deaths-damage-10793505/
+  🔗 https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-end-condition-safdarjung-hospital-cjp-parliament-march-neet-10794022/
 
-- Plan to cut 4,000 trees for Bhaniyawala-Rishikesh road on hold, took ‘serious note of concerns’: CM Dhami
+- Not declaring live-in relationship could land couples in jail under Madhya Pradesh’s UCC
   
-  🔗 https://indianexpress.com/article/india/cut-trees-bhaniyawala-rishikesh-road-hold-serious-note-concerns-cm-dhami-10793460/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-cabinet-approves-draft-ucc-bill-live-in-relationship-registration-polygamy-ban-10794014/
 
-- ‘Silence unacceptable’: Rahul, Kharge press Modi for ‘independent’ Ram temple probe
+- Death toll rises to 18 as flash floods, landslides wreak havoc in J&K
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-kharge-pm-modi-ram-temple-donation-theft-probe-10793449/
+  🔗 https://indianexpress.com/article/india/jammu-and-kashmir-flash-floods-poonch-rajouri-landslides-death-toll-chenab-river-alert-10793940/
 
-- ‘Parking place for 20 rebel Trinamool MPs’: Opposition walks out of all-party meet
+- Vande Mataram’s insult may soon be punishable offence, Amit Shah set to table Bill
   
-  🔗 https://indianexpress.com/article/india/opposition-stages-walkout-from-all-party-meeting-over-centres-invite-to-tmc-rebels-10793424/
+  🔗 https://indianexpress.com/article/india/amit-shah-vande-mataram-prevention-of-insults-national-honour-amendment-bill-rajya-sabha-10793934/
 
 - Why Samsung’s passport-style foldable phone matters for the smartphone industry
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-cuts-us-jobs-offers-relocations-ahead-of-hq-move-10793326/
 
+- Who's really making money from the AI boom? Follow the cash behind OpenAI, Nvidia &amp; Big Tech
+  The AI boom has triggered massive spending, with companies investing heavily in infrastructure, startups, and data centers. However, uncertainties persist regarding the flow of investments and the industry
+  🔗 https://www.livemint.com/companies/news/whos-really-making-money-from-the-ai-boom-follow-the-cash-behind-openai-nvidia-and-big-tech-11784435410944.html
+
+- Reliance Retail plans to expand online business and dark stores in FY27, CFO Dinesh Taluja lays out three-year roadmap
+  Reliance Retail plans to ‘rapidly’ scale its online business, expand dark stores and strengthen omni-channel capabilities.
+  🔗 https://www.livemint.com/companies/news/reliance-retail-plans-to-expand-online-business-and-dark-stores-in-fy27-cfo-dinesh-taluja-lays-out-three-year-roadmap-11784466003212.html
+
+- Piramal Finance bets on in-house AI to cut costs, boost efficiency
+  Piramal Finance is trying to use AI to
+  🔗 https://www.livemint.com/companies/news/piramal-finance-bets-on-in-house-ai-to-cut-costs-boost-efficiency-11784274519003.html
+
 - iD Fresh banks on overseas markets, higher margins to become IPO-ready by Oct 2027
   iD Fresh is targeting best-in-class profitability, expanding into snacks and scaling new product launches. i
   🔗 https://www.livemint.com/companies/id-fresh-banks-on-overseas-markets-higher-margins-to-become-ipo-ready-by-oct-2027-ready-to-cook-foods-11784442803786.html
@@ -48,17 +60,9 @@
   739 positions at Samsung Electronics America in Englewood Cliffs, New Jersey, were impacted as part of the company's
   🔗 https://www.livemint.com/companies/news/samsung-layoffs-800-plus-us-workers-affected-by-texas-headquarters-move-11784453784334.html
 
-- Accenture reworks salary hikes to include more employees: Splits base pay and one-time lumpsum — Here's what changes
-  Accenture has reworked its salary hike composition to include more employees in the June cycle. The new approach aims to reward more staff while managing payroll.
-  🔗 https://www.livemint.com/companies/news/accenture-rework-salary-hike-50-pc-split-basic-payment-one-time-lumpsum-bonus-cash-include-compensation-more-employees-11784452932577.html
-
-- Meta layoffs: US judge rejects bid to halt AI discrimination job cuts
-   Meta can proceed with layoffs impacting 8,000 employees, despite disputes over AI usage in selecting
-  🔗 https://www.livemint.com/companies/news/meta-layoffs-us-judge-rejects-bid-to-halt-ai-discrimination-job-cuts-11784445113506.html
-
-- Late-night Argentina-Spain Fifa final fuels business for bars, hotels and delivery apps
-  Fifa World Cup final turning into late-night revenue opportunity for India's hospitality industry. Extended bar timings, packed
-  🔗 https://www.livemint.com/companies/news/latenight-argentina-spain-fifa-final-fuels-business-for-bars-hotels-food-delivery-apps-hospitality-11784385028826.html
+- Wall Street Week Ahead: Alphabet, Intel, Tesla earnings take center stage
+  Several key reports could still influence market sentiment. Economic
+  🔗 https://www.livemint.com/market/wall-street-week-ahead-alphabet-intel-tesla-earnings-take-center-stage-11784473993152.html
 
 - Expert view: Selective bets &amp; strong fundamentals amid global chaos, says Vinod Nair
   Early Q1 results have also helped reinforce expectations that Indian equities may outperform global peers over the medium term.
@@ -75,10 +79,6 @@
 - HDFC Bank vs ICICI Bank vs Yes Bank: Which stock to buy after Q1 results 2026?
   For long-term investors, the private lender is the defensive compounder.
   🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-icici-bank-vs-yes-bank-which-stock-to-buy-after-q1-results-2026-11784446257168.html
-
-- Should you buy Reliance shares after strong Q1 results 2026?
-  Reliance Industries share price gained 2.50
-  🔗 https://www.livemint.com/market/stock-market-news/should-you-buy-reliance-shares-after-strong-q1-results-2026-11784444729654.html
 
 - Is Zepto down? Users hit by mass outage, face disruptions on app and website
   Zepo appears to suffer some outages on Sunday. Users report issues with its app
@@ -104,21 +104,21 @@
   S&amp;P 500 closes lower, Nasdaq falls more
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9OcFRYM3dPUXBUbzdHcG0tOHVLN1pXM1dVQzRnRlZWZ1NtWVBUaFlvU0Jmd2VJdlRaekxORUJrYUZvYkt6RlZXUVoxSkFMMHc3emctMjhHQ2RCTHpsUmVKc2ZrX2d3cU40cHZ0UFNtNEVaNW1DbWs40gF8QVVfeXFMTVhCWnMzaVFEWWlYOVpPNTZUZWctUEY2Q0taN0ZMQ0ZFQTEwX2tNbE5faXlrb2pidkVQWTdsLWZ5eUhVVUlhN3kzSUR3ZUZZOFM0c3RrdUo0eDFuLTNTdC1xZkFvdFlkc2VQVjRSWTdBTDRPZlozS2NYYU9NWg?oc=5
 
-- Stock Market News, July 17, 2026: Nasdaq Drops as Chip Selloff Deepens - WSJ
-  The WSJ reports that the Nasdaq dropped
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5
+- How long until there is a US markets reckoning over Trump’s damage? - Financial Times
+  How long until there is a US markets reckoning over Trump
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxObE9LV1FTWTFsbjZBNk0tUDNub2JlUXBWZWxMMl8yOUF5WlpYUnRTTDMyNnU3aktIN29IdXBQZkdsRHN1S01TN1JYaTFRS1pQLXZxRk5ILTVZZFVwODR5M2Z0MG5jd0F3cGtTb0hfOE02M3RSM2hlOEphUlh3eW5HbWtRMWs?oc=5
 
-- Big defence to keep more than 80% of weapons market through 2033 despite drone surge: Report - The Times of India
-  India to keep more than 80% of weapons market through 2033 despite drone surge.
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNYmpjQjlRYWUwRUpqQ1VEV01PZmUwTktnTjhreDJ2TEcza05uSV9tQnJpWF95WmwyTVFlSFhHdzFoX21KdmVPdUlVdHNyMWVDT0J3RFJublpUNjJscFF0Q2JHSW1zTkhDOTI3UGx6UjdvV0MtVk85N2Y4Z1lZSUNCMzd1OGwzMU1hSEZBWTFwZ3NKNlhqQTRrbGU4NHdVcmVwSWNxcktqeVFsbFBGZkx1ZTVoOXR3cGpFZnBnSk5TeDZUbWhKUVV4cE8wRmlrQkJlVk10QVViVm9xRjVsTTk2RGhrbV9NSEdackVNci1RUzdNS3MtM1BzTmZnYVlTZ0VNSWh0RtIBigJBVV95cUxQTEtzMkRNQWRxdnFSU05qbm1zOFNuR09MVFRsNDRpYmJQdGVTWUVDTXJjM3ptR0hDcDU4Ny1JMllfbEh0UGVoWEo0VkVGVTRYZmRKbU9mT0ZZc0Q3aVh6ZHU1eUtWLTBONDRTTTRiTW84U2hIbFEySmJHSXJvYzA5QVlzM0V3MEE1QW9DczIyRmhoeUtveTJjejJyV2pSaHJ1OXV1T0ZSSlR2NEpvc0dMLUNoSG02eHFuV045M0pBZU1fSTlDYlVLWnRTVXdnTWNVc3RBeWx0V3N6SGFsMlM2d0d0Z1pnQTJoZk8tTlVSWnhSQTZMRHJ3SndUZl9teVRKUi00LUcxT3czQQ?oc=5
+- Chemists demand fair competition in pharma market amid online sales concerns - The Hindu
+  The Hindu reports that doctors are worried about online sales
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM2R3OG8tZ2xFQ2FTUWRzekFObEhTbmJDS19vUmEtejNtcVBiUG53blZLenJDOERZMm05MzhOcVBRMHJGSTkxS0xIeFMzLTJ2OThBbDd3ZlhNUjhjNW9iWUhYenptanFsVkNmQ0U5dDlqZGNfa1hUcEZhclJvcGJYdGJEOEc4c19WYWNyaFB6cGlSYUxEdWYxUndnek13ZzlWQTFMaWpWQXkxdWp3WHFxMjdLVlQxXy1sSk1wX1VYRlAwMHFqelJIWldUd1hDR192ZFd1SmhsVE1WcnZEV2dpMExBZ3DSAesBQVVfeXFMTkhmZjRyX1JabXRTSXpFM01iZmNaY3pfemhRN1hIM1l4RVJ1bHNCdnFPcnlaa1RYZ2o5UDBzTkUxbWpMS1FTZFNZQW1CM18zMzh6Z1QzWnZyR3hzRVZDLXphYjd4clBSbDJaOURUY2pTdkRNV2haTFZXZ2hVSjA3a0NNdWEtZFlaMFdOMEEteW9lLVRFRkNXam5yUXdWY1k3MmtFU3ozQ1ZnWDl2Q3lSQXItOUZyZi0zWGw3M1JlSWZnQy0yb2NnVlVsaFZWTUZvcWhvR3ZSSGdqMEw3RHByV0Q2dTNLSEdibEEyQQ?oc=5
 
-- Sugar Market Needs Better Supply Management, Not Panic Measures - ChiniMandi
-  Sugar Market Needs Better Supply Management
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaEFkb0lGcXU2VXgxdENTNWlwbi1SX2tqcnhwTS1SOFd3WnRXN1MzX2hNUDRWNzR1VjU3VkxRTm9IeTVKbE5UUjA3a29odFdrX3A1NHZndXB5RmhMZEk4Y1Q2YUpoVDJSLUhKMmNGLW1kRWlMMUZmcUtOZGhkUGZHRFJ1VEZEdU1IUEM1V05DaVlqOG1C?oc=5
+- iPhone 18 Pro Pricing Can Dominate Market And Start A New Super Cycle - Forbes
+  iPhone 18 Pro Pricing Can Dominate Market And Start A
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0kwdDRHbUFJMERHVEh2aWZSa1JjdW1EVkRkTmpLdGJ2cjZ5SVlzWEFSRDByc0dqWWxfU0ZlRXA0bVdKRnVoWEtTWWQ4YmtSelRHZHZGY3dad2xpZlpxSWlmclJvSmlvUW9tUUJJNXhuV2p3cWZFMWlSWWNZQWhybkU1TmF5b2o0R3NBWkZ5bV9IRFNmdXBGYjlkczNVUjVy?oc=5
 
-- Week ahead: Q1 earnings, US-Iran war, FIIs activity and IPO listings among key market triggers to watch - Upstox
-  Week ahead: Q1 earnings, US-Iran war, FIIs activity
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORkcwOU1UMGh6NVo5ZnAtcjB0UWZRNzZCUk91T0lDMkl3NC1xb1FiTDVYZUEzaGRUMmtNM2o5UW5nLUhlenRubHNGWDE3ZUQtTGhUd0ZQVzlFQjFKVG0yWHN6dnU1dGtQSFA5eUhNMWVuRFJXQkZzVnJIWGt2UzEwX1pxQVE5UVllUEpJQzFIZmR1ZVhYay1nSldzM2NZSmFXOFh5cXVuaEVTbnd5SkY3Wm5sbno2M1k5OGJwa3IwSTU5djV2WmR6eUc5aGNybnh1Rm00YlR6M21jc0FzZXI3eHVfcDNxUWRmaUNBUzVCQTZjXzhB?oc=5
+- Big Tech earnings test tech's big rotation: What to watch this week - Yahoo Finance
+  Yahoo Finance is expected to report its first-quarter
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3ZISzktMVBmM1NIUms1NFZmZmZZb1JhZVBHSENFTGNRTTloVkUxZ2trQU5YcDc1VE1XUzVLVHpPZl9GN0JoUWM2QTNsQkVBdV9KQkc3cl9CNlVRWXR1ZklIZUxIcDV5QjFXZG9uNnNZbFJ0Q2F3U2Q1OGRXajExUHBhOXgyMFctVm1mNDFsSFdjdW9OQ2dmTWo2UVRZZHNhZU9uZy1WTWZBdzFhamRmZ3FqOHlaY2hnZjBvQ2EyRQ?oc=5
 
 - Ahead of Market: 10 things that will decide D-Street action on Monday
   The Sensex surged over 960 points and the Nifty climbed more than 1% on Friday. Analysts said domestic institutional investors are rotating into attractively valued large-cap stocks. Consumer durables also remain in focus on improving demand expectations
@@ -140,25 +140,25 @@
   Investors must hold shares in their demat accounts on the respective record dates to be eligible.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-and-stock-splits-bharti-airtel-hero-motocorp-among-88-stocks-turning-ex-date-this-week-do-you-own-any/articleshow/132491671.cms
 
-- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
-  India achieves milestone with launch of first private-
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
+- India news: 'Cockroach' party warns of protest infiltrators - dw.com
+  'Cockroach' party
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQaFp2THhDaUE1dmpMX1FrNVd3OWl4T3R1Y0tacUNCX2hMendlTnl4aUV1ZUppSlpmQkNXRnNhUGl0Y3pzZTBkeTZpYmoxb3NYWFduaEhBMUk1SGdGNTBXTFU1ZHo5YjdzeUxoYmNmRWJCN1BBcU42dUFCZGt5c19TSktsTE12WDVHMGt3SXQycHliVkc1Q2hZ?oc=5
 
-- 16 Killed In Rain-Related Incidents Amid Monsoon Fury In North, East India - NDTV
-  16 killed in Rain-related Incidents Amid Mon
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTVCUFpKRmwxRFdWeUpNcndsQTNuNTNObGVPYmxBaWpNcU1UWUN5a3lETDBJeGNMR2JDOFcxRDMzVFd3b1FoSzV0TnB3Tk9PWnRIX1RKTEdMbjZyM2ZBZWlVYlEtQXRVUkVoUDJVenF0V05hTXhLYW1sdVNfZkRRcUo5LUFtSG5vWENqT2tZX050NzlRS3RUZHdxd0lOQU9qMWdtRUh6MDJfdl9QUndBTE5hYzXSAbwBQVVfeXFMTTRpX19TNl8ySFZZOU1wNmhaTS1HRk5aRnI3czZQcnRRVXdLekNDWERIRGdsVTJQZDNJQXdabXZCVk5JbzF5RkhuREFWTERSSnNSWmNkQnQtZnBfbENGZng3TDFZZVQzMEJsa09Mb3JiMVhrZGE5TUNqeHBFNm1fajM0ZXFVNGpiQ1RLTWhvZ3hhWWQyQS1iZDFHeU15dVFvSEdxMUVlWG5MZVkyRV9oMmIxNEJxZ0QxZWxyeTg?oc=5
+- Why have India’s Gen Z protesters called for a march to parliament? - Al Jazeera
+  Why have India’s Gen Z protesters called for
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3N4eW5GWjhFRVItWkh4RDRNX21Ua0gzdXdkbXZDbkgxOVBWRVVDa3dqVnBqWmYtcHNBa1BCc2VtdUJSQ1RJVG1UenVSZG5wbmRUcl9iN3VnYTV3UjYwQ2RDeGliYUhOaGRRNFB6NjdGSnhFNlBldzZYRzhBU2hMaHdkVS1GRkJGY2RfQW81czRuLWtramNNS0ZLMmZqQ0lhWDBfUUxwYl9xRkZ4MExJ0gG0AUFVX3lxTFBWSE44dC13SlNDU1VBOF91UGxxSFNtdWVIZlBNV01Bdk4xUTJOWGpjX0dGREZNclpqZ1BsR3Z3bm5SbE5IQ3U1TVctTTh6NWhwWEVTLUlvVDJjSDZfaW55TkY4cUJYU3EtcmlGZ19hWWNCNGtiNTJZMlpwZHE0RzJzYTNTRVYxc2dVMlRRQ1AxSHBHdVJKYkE4T2xBRTdtSHRyOHV2M3VUVzkxaE1YNG1UN2JYYw?oc=5
 
-- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
+- 'Stay here for the night': CJP's Abhijeet Dipke calls for night-long vigil ahead of 'Chalo Sansad' march - The Times of India
+  'Stay here for the night': CJP's Abhijeet Dipke calls
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNzlmUnlET1NfRXE1RlNqMVhxdzNKTUpDd2pmSzNtY0ZReFRKYjFQcFBlT3lNbm1KNWhhSHd1Sm04WUlfcjhOUXBEUEtuV1V1WEFhb0s4aHJCRXYzdXJxYUVGVFhzejBMWk1EeHdKSGRiTGNncnJjYVE3M05DVnpzdkF3UWxYa1R3d3J0WmFsblpmSmhiUDZDTnNXcWlYNGNXOW1hNVZBMlVoZ2NOUTgybWRydzRKMEJQYm41TTdleVJ4el9id01heWdsUkUyWTUyY0F0SmlnNjhiTUVDVk5QZnNqYU1UYzk5TUVxQzVrODNmY3VuUjV5T2JB0gH_AUFVX3lxTFBQV0F6TW4xczNJR1BVVnQzM2VvNWowU2thUEJjUkE4TUFtZ0Y2RjRMMU1xTXV6d01PN2ZhRXBQMjFFUUU3YWk0VjdVMTZtUkE5OEt4WWV0SF9oT1ZSSnQ5bUdaVl9qNGJSUHN0ZFp4Q0tNMTJFYmlGMU5VeS1YUG5sYWJmTm9yM0FheXZQZTJPeUxXV1ozaWYzaEVKbTc3TDZTdGcwQ2xuX3IxMS1MRUhackZHMlhqUVNZcV81SVZmMnFWSTFzSWd5SDZ4RHR5TENBS013ak9vdWRNSWVKZmROYXpuSVNxN2l5bFlCR0E4dW0zbHE3YlM0ZkVyMU13OA?oc=5
+
+- India and Japan opt for indigenous bullet trains - The Economic Times
+  India and Japan opt for indigenous bullet trains
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxOVExHaENjVmFBeUw5a09RWGJ6SlE1Z3p6MU1Xb0w4TU5zZ2VQYjB0WjNJOWhLN1RvR2ZNUU9iOXc0dVc4eEdPa2l5b0tJZ3hYb1p6QW15T0lYWTl1cHdwRk1xbVROUXZNbmdjMXdTMS1CN25LYTMwY3NnUXdjNUxoa0VmTjhLOXI4MFBiOUx3alNnaF9tMnNuUW5xNTNtRGo3anhzVmtuYTZrRXY0dy1EUDR6OHgtRTExeDB2Z3BrcjM3blhfVzdlaUV4cDVxeWdjb2xQUzkzdzVQNEd4T0QxdUpOOHZmV2FibDhLOTAzTUdGMXJZTkN4LU5qVUxyNWFxVDgtWGdWV2NIZU4taDUtNTVNNURHaDk4a0ZzZQ?oc=5
 
 - Maharashtra: India's Ganesh idol makers count cost of devastating floods - BBC
   Maharashtra: India's Ganesh
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5
-
-- Opposition walks out of all-party meeting over Kiren Rijiju's invite to rebel TMC MPs - The Times of India
-  Opposition walks out of all-party meeting over Kiren Rijij
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDBrNU04REJFVzJGM3M3ejhkUTVuMHpydGc2Q1l6VXU0MmYxRWNuZzJtcWtYSkVaa0xBdkxQUHVOMzhOOW5QcTVOOGNVeGxENTh3RGxiQ3FRLXEtQnIyczl2b2k1bHg4d0l2XzgwTlZZdVpCVFF3M2E2eUk5bXZVVXdhd2Fra1lPYTBnbHZIOU80QkhlSzM1VEM5N1R3NWR0QTNpVTA0RVFnemxUSWJjcFdsN3p6WmNuaDdyMHl6MzJ5dmRDQUUtYTdXNi1jMktyQkgybEFxSGhlNWdjclRXbNIB5gFBVV95cUxOTTB2Wjd4LTN3bzNqeTdjNnUyMTBXQU1vNFA0bGdzTnhFVVQ1YlBRN1JHRXNsV1JrOGZxR1lMV1E3bW1PMUo2M1VZRmpvZWdFZkY2em9INXgzd1pYWlJfSkhiSzJrWDYtR3RNc3YwbzQ1VGdfUHVXVG1QQ3NxaGtrTWFmNDc2SURjUmRSbXlaNUhzajZYd3l6ajhEWWZjTXJoNWJwMGtrM2RPamZzQmlaRVJ1bS1FNjJUTERyZ1F3aVRoWVVmd3ozMkNfSUxoNDZmVFZFbEFKUmliVFk1VVhJY0lXOHZ0dw?oc=5
 
 - BigBasket’s Retreat
   I was in denial of the idea of quick commerce. Back then, if you had asked 100 people whether they wanted to do it,
@@ -180,45 +180,45 @@
   The Supreme Court has sought responses from Snapdeal and its directors on Karnataka government's plea challenging a Karnataka High Court ruling.
   🔗 https://inc42.com/buzz/supreme-court-seeks-snapdeals-reply-in-prescription-drug-sale-case/
 
-- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
-  India achieves milestone with launch of first private-
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
+- India news: 'Cockroach' party warns of protest infiltrators - dw.com
+  'Cockroach' party
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQaFp2THhDaUE1dmpMX1FrNVd3OWl4T3R1Y0tacUNCX2hMendlTnl4aUV1ZUppSlpmQkNXRnNhUGl0Y3pzZTBkeTZpYmoxb3NYWFduaEhBMUk1SGdGNTBXTFU1ZHo5YjdzeUxoYmNmRWJCN1BBcU42dUFCZGt5c19TSktsTE12WDVHMGt3SXQycHliVkc1Q2hZ?oc=5
 
-- 16 Killed In Rain-Related Incidents Amid Monsoon Fury In North, East India - NDTV
-  16 killed in Rain-related Incidents Amid Mon
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTVCUFpKRmwxRFdWeUpNcndsQTNuNTNObGVPYmxBaWpNcU1UWUN5a3lETDBJeGNMR2JDOFcxRDMzVFd3b1FoSzV0TnB3Tk9PWnRIX1RKTEdMbjZyM2ZBZWlVYlEtQXRVUkVoUDJVenF0V05hTXhLYW1sdVNfZkRRcUo5LUFtSG5vWENqT2tZX050NzlRS3RUZHdxd0lOQU9qMWdtRUh6MDJfdl9QUndBTE5hYzXSAbwBQVVfeXFMTTRpX19TNl8ySFZZOU1wNmhaTS1HRk5aRnI3czZQcnRRVXdLekNDWERIRGdsVTJQZDNJQXdabXZCVk5JbzF5RkhuREFWTERSSnNSWmNkQnQtZnBfbENGZng3TDFZZVQzMEJsa09Mb3JiMVhrZGE5TUNqeHBFNm1fajM0ZXFVNGpiQ1RLTWhvZ3hhWWQyQS1iZDFHeU15dVFvSEdxMUVlWG5MZVkyRV9oMmIxNEJxZ0QxZWxyeTg?oc=5
+- Why have India’s Gen Z protesters called for a march to parliament? - Al Jazeera
+  Why have India’s Gen Z protesters called for
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3N4eW5GWjhFRVItWkh4RDRNX21Ua0gzdXdkbXZDbkgxOVBWRVVDa3dqVnBqWmYtcHNBa1BCc2VtdUJSQ1RJVG1UenVSZG5wbmRUcl9iN3VnYTV3UjYwQ2RDeGliYUhOaGRRNFB6NjdGSnhFNlBldzZYRzhBU2hMaHdkVS1GRkJGY2RfQW81czRuLWtramNNS0ZLMmZqQ0lhWDBfUUxwYl9xRkZ4MExJ0gG0AUFVX3lxTFBWSE44dC13SlNDU1VBOF91UGxxSFNtdWVIZlBNV01Bdk4xUTJOWGpjX0dGREZNclpqZ1BsR3Z3bm5SbE5IQ3U1TVctTTh6NWhwWEVTLUlvVDJjSDZfaW55TkY4cUJYU3EtcmlGZ19hWWNCNGtiNTJZMlpwZHE0RzJzYTNTRVYxc2dVMlRRQ1AxSHBHdVJKYkE4T2xBRTdtSHRyOHV2M3VUVzkxaE1YNG1UN2JYYw?oc=5
 
-- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
+- 'Stay here for the night': CJP's Abhijeet Dipke calls for night-long vigil ahead of 'Chalo Sansad' march - The Times of India
+  'Stay here for the night': CJP's Abhijeet Dipke calls
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNzlmUnlET1NfRXE1RlNqMVhxdzNKTUpDd2pmSzNtY0ZReFRKYjFQcFBlT3lNbm1KNWhhSHd1Sm04WUlfcjhOUXBEUEtuV1V1WEFhb0s4aHJCRXYzdXJxYUVGVFhzejBMWk1EeHdKSGRiTGNncnJjYVE3M05DVnpzdkF3UWxYa1R3d3J0WmFsblpmSmhiUDZDTnNXcWlYNGNXOW1hNVZBMlVoZ2NOUTgybWRydzRKMEJQYm41TTdleVJ4el9id01heWdsUkUyWTUyY0F0SmlnNjhiTUVDVk5QZnNqYU1UYzk5TUVxQzVrODNmY3VuUjV5T2JB0gH_AUFVX3lxTFBQV0F6TW4xczNJR1BVVnQzM2VvNWowU2thUEJjUkE4TUFtZ0Y2RjRMMU1xTXV6d01PN2ZhRXBQMjFFUUU3YWk0VjdVMTZtUkE5OEt4WWV0SF9oT1ZSSnQ5bUdaVl9qNGJSUHN0ZFp4Q0tNMTJFYmlGMU5VeS1YUG5sYWJmTm9yM0FheXZQZTJPeUxXV1ozaWYzaEVKbTc3TDZTdGcwQ2xuX3IxMS1MRUhackZHMlhqUVNZcV81SVZmMnFWSTFzSWd5SDZ4RHR5TENBS013ak9vdWRNSWVKZmROYXpuSVNxN2l5bFlCR0E4dW0zbHE3YlM0ZkVyMU13OA?oc=5
 
-- Maharashtra: India's Ganesh idol makers count cost of devastating floods - BBC
-  Maharashtra: India's Ganesh
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5
-
-- Opposition walks out of all-party meeting over Kiren Rijiju's invite to rebel TMC MPs - The Times of India
-  Opposition walks out of all-party meeting over Kiren Rijij
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDBrNU04REJFVzJGM3M3ejhkUTVuMHpydGc2Q1l6VXU0MmYxRWNuZzJtcWtYSkVaa0xBdkxQUHVOMzhOOW5QcTVOOGNVeGxENTh3RGxiQ3FRLXEtQnIyczl2b2k1bHg4d0l2XzgwTlZZdVpCVFF3M2E2eUk5bXZVVXdhd2Fra1lPYTBnbHZIOU80QkhlSzM1VEM5N1R3NWR0QTNpVTA0RVFnemxUSWJjcFdsN3p6WmNuaDdyMHl6MzJ5dmRDQUUtYTdXNi1jMktyQkgybEFxSGhlNWdjclRXbNIB5gFBVV95cUxOTTB2Wjd4LTN3bzNqeTdjNnUyMTBXQU1vNFA0bGdzTnhFVVQ1YlBRN1JHRXNsV1JrOGZxR1lMV1E3bW1PMUo2M1VZRmpvZWdFZkY2em9INXgzd1pYWlJfSkhiSzJrWDYtR3RNc3YwbzQ1VGdfUHVXVG1QQ3NxaGtrTWFmNDc2SURjUmRSbXlaNUhzajZYd3l6ajhEWWZjTXJoNWJwMGtrM2RPamZzQmlaRVJ1bS1FNjJUTERyZ1F3aVRoWVVmd3ozMkNfSUxoNDZmVFZFbEFKUmliVFk1VVhJY0lXOHZ0dw?oc=5
-
-- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
-  India achieves milestone with launch of first private-
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
-
-- 16 Killed In Rain-Related Incidents Amid Monsoon Fury In North, East India - NDTV
-  16 killed in Rain-related Incidents Amid Mon
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTVCUFpKRmwxRFdWeUpNcndsQTNuNTNObGVPYmxBaWpNcU1UWUN5a3lETDBJeGNMR2JDOFcxRDMzVFd3b1FoSzV0TnB3Tk9PWnRIX1RKTEdMbjZyM2ZBZWlVYlEtQXRVUkVoUDJVenF0V05hTXhLYW1sdVNfZkRRcUo5LUFtSG5vWENqT2tZX050NzlRS3RUZHdxd0lOQU9qMWdtRUh6MDJfdl9QUndBTE5hYzXSAbwBQVVfeXFMTTRpX19TNl8ySFZZOU1wNmhaTS1HRk5aRnI3czZQcnRRVXdLekNDWERIRGdsVTJQZDNJQXdabXZCVk5JbzF5RkhuREFWTERSSnNSWmNkQnQtZnBfbENGZng3TDFZZVQzMEJsa09Mb3JiMVhrZGE5TUNqeHBFNm1fajM0ZXFVNGpiQ1RLTWhvZ3hhWWQyQS1iZDFHeU15dVFvSEdxMUVlWG5MZVkyRV9oMmIxNEJxZ0QxZWxyeTg?oc=5
-
-- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
+- India and Japan opt for indigenous bullet trains - The Economic Times
+  India and Japan opt for indigenous bullet trains
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxOVExHaENjVmFBeUw5a09RWGJ6SlE1Z3p6MU1Xb0w4TU5zZ2VQYjB0WjNJOWhLN1RvR2ZNUU9iOXc0dVc4eEdPa2l5b0tJZ3hYb1p6QW15T0lYWTl1cHdwRk1xbVROUXZNbmdjMXdTMS1CN25LYTMwY3NnUXdjNUxoa0VmTjhLOXI4MFBiOUx3alNnaF9tMnNuUW5xNTNtRGo3anhzVmtuYTZrRXY0dy1EUDR6OHgtRTExeDB2Z3BrcjM3blhfVzdlaUV4cDVxeWdjb2xQUzkzdzVQNEd4T0QxdUpOOHZmV2FibDhLOTAzTUdGMXJZTkN4LU5qVUxyNWFxVDgtWGdWV2NIZU4taDUtNTVNNURHaDk4a0ZzZQ?oc=5
 
 - Maharashtra: India's Ganesh idol makers count cost of devastating floods - BBC
   Maharashtra: India's Ganesh
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5
 
-- Opposition walks out of all-party meeting over Kiren Rijiju's invite to rebel TMC MPs - The Times of India
-  Opposition walks out of all-party meeting over Kiren Rijij
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDBrNU04REJFVzJGM3M3ejhkUTVuMHpydGc2Q1l6VXU0MmYxRWNuZzJtcWtYSkVaa0xBdkxQUHVOMzhOOW5QcTVOOGNVeGxENTh3RGxiQ3FRLXEtQnIyczl2b2k1bHg4d0l2XzgwTlZZdVpCVFF3M2E2eUk5bXZVVXdhd2Fra1lPYTBnbHZIOU80QkhlSzM1VEM5N1R3NWR0QTNpVTA0RVFnemxUSWJjcFdsN3p6WmNuaDdyMHl6MzJ5dmRDQUUtYTdXNi1jMktyQkgybEFxSGhlNWdjclRXbNIB5gFBVV95cUxOTTB2Wjd4LTN3bzNqeTdjNnUyMTBXQU1vNFA0bGdzTnhFVVQ1YlBRN1JHRXNsV1JrOGZxR1lMV1E3bW1PMUo2M1VZRmpvZWdFZkY2em9INXgzd1pYWlJfSkhiSzJrWDYtR3RNc3YwbzQ1VGdfUHVXVG1QQ3NxaGtrTWFmNDc2SURjUmRSbXlaNUhzajZYd3l6ajhEWWZjTXJoNWJwMGtrM2RPamZzQmlaRVJ1bS1FNjJUTERyZ1F3aVRoWVVmd3ozMkNfSUxoNDZmVFZFbEFKUmliVFk1VVhJY0lXOHZ0dw?oc=5
+- India news: 'Cockroach' party warns of protest infiltrators - dw.com
+  'Cockroach' party
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQaFp2THhDaUE1dmpMX1FrNVd3OWl4T3R1Y0tacUNCX2hMendlTnl4aUV1ZUppSlpmQkNXRnNhUGl0Y3pzZTBkeTZpYmoxb3NYWFduaEhBMUk1SGdGNTBXTFU1ZHo5YjdzeUxoYmNmRWJCN1BBcU42dUFCZGt5c19TSktsTE12WDVHMGt3SXQycHliVkc1Q2hZ?oc=5
+
+- Why have India’s Gen Z protesters called for a march to parliament? - Al Jazeera
+  Why have India’s Gen Z protesters called for
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3N4eW5GWjhFRVItWkh4RDRNX21Ua0gzdXdkbXZDbkgxOVBWRVVDa3dqVnBqWmYtcHNBa1BCc2VtdUJSQ1RJVG1UenVSZG5wbmRUcl9iN3VnYTV3UjYwQ2RDeGliYUhOaGRRNFB6NjdGSnhFNlBldzZYRzhBU2hMaHdkVS1GRkJGY2RfQW81czRuLWtramNNS0ZLMmZqQ0lhWDBfUUxwYl9xRkZ4MExJ0gG0AUFVX3lxTFBWSE44dC13SlNDU1VBOF91UGxxSFNtdWVIZlBNV01Bdk4xUTJOWGpjX0dGREZNclpqZ1BsR3Z3bm5SbE5IQ3U1TVctTTh6NWhwWEVTLUlvVDJjSDZfaW55TkY4cUJYU3EtcmlGZ19hWWNCNGtiNTJZMlpwZHE0RzJzYTNTRVYxc2dVMlRRQ1AxSHBHdVJKYkE4T2xBRTdtSHRyOHV2M3VUVzkxaE1YNG1UN2JYYw?oc=5
+
+- 'Stay here for the night': CJP's Abhijeet Dipke calls for night-long vigil ahead of 'Chalo Sansad' march - The Times of India
+  'Stay here for the night': CJP's Abhijeet Dipke calls
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNzlmUnlET1NfRXE1RlNqMVhxdzNKTUpDd2pmSzNtY0ZReFRKYjFQcFBlT3lNbm1KNWhhSHd1Sm04WUlfcjhOUXBEUEtuV1V1WEFhb0s4aHJCRXYzdXJxYUVGVFhzejBMWk1EeHdKSGRiTGNncnJjYVE3M05DVnpzdkF3UWxYa1R3d3J0WmFsblpmSmhiUDZDTnNXcWlYNGNXOW1hNVZBMlVoZ2NOUTgybWRydzRKMEJQYm41TTdleVJ4el9id01heWdsUkUyWTUyY0F0SmlnNjhiTUVDVk5QZnNqYU1UYzk5TUVxQzVrODNmY3VuUjV5T2JB0gH_AUFVX3lxTFBQV0F6TW4xczNJR1BVVnQzM2VvNWowU2thUEJjUkE4TUFtZ0Y2RjRMMU1xTXV6d01PN2ZhRXBQMjFFUUU3YWk0VjdVMTZtUkE5OEt4WWV0SF9oT1ZSSnQ5bUdaVl9qNGJSUHN0ZFp4Q0tNMTJFYmlGMU5VeS1YUG5sYWJmTm9yM0FheXZQZTJPeUxXV1ozaWYzaEVKbTc3TDZTdGcwQ2xuX3IxMS1MRUhackZHMlhqUVNZcV81SVZmMnFWSTFzSWd5SDZ4RHR5TENBS013ak9vdWRNSWVKZmROYXpuSVNxN2l5bFlCR0E4dW0zbHE3YlM0ZkVyMU13OA?oc=5
+
+- India and Japan opt for indigenous bullet trains - The Economic Times
+  India and Japan opt for indigenous bullet trains
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxOVExHaENjVmFBeUw5a09RWGJ6SlE1Z3p6MU1Xb0w4TU5zZ2VQYjB0WjNJOWhLN1RvR2ZNUU9iOXc0dVc4eEdPa2l5b0tJZ3hYb1p6QW15T0lYWTl1cHdwRk1xbVROUXZNbmdjMXdTMS1CN25LYTMwY3NnUXdjNUxoa0VmTjhLOXI4MFBiOUx3alNnaF9tMnNuUW5xNTNtRGo3anhzVmtuYTZrRXY0dy1EUDR6OHgtRTExeDB2Z3BrcjM3blhfVzdlaUV4cDVxeWdjb2xQUzkzdzVQNEd4T0QxdUpOOHZmV2FibDhLOTAzTUdGMXJZTkN4LU5qVUxyNWFxVDgtWGdWV2NIZU4taDUtNTVNNURHaDk4a0ZzZQ?oc=5
+
+- Maharashtra: India's Ganesh idol makers count cost of devastating floods - BBC
+  Maharashtra: India's Ganesh
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-19 13:08:04 UTC_
+_Last updated: 2026-07-19 19:02:19 UTC_
