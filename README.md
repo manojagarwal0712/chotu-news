@@ -1,5 +1,9 @@
 # 📰 Daily News Summaries
 
+- Indian Railways clarifies after video of hydrogen train pulled by diesel engine goes viral
+  
+  🔗 https://indianexpress.com/article/india/indian-railways-clarification-hydrogen-train-diesel-engine-viral-video-10793848/
+
 - Rain havoc in J&K: 10 killed, several missing; Omar Abdullah leaves Delhi ahead of statehood protest
   
   🔗 https://indianexpress.com/article/india/rain-havoc-jammu-kashmir-cm-omar-abdullah-delhi-statehood-protest-deaths-damage-10793505/
@@ -12,13 +16,17 @@
   
   🔗 https://indianexpress.com/article/india/rahul-gandhi-kharge-pm-modi-ram-temple-donation-theft-probe-10793449/
 
-- ‘Parking place for 20 rebel MPs’: Opposition walks out of all-party meet over NCPI invite
+- ‘Parking place for 20 rebel Trinamool MPs’: Opposition walks out of all-party meet
   
   🔗 https://indianexpress.com/article/india/opposition-stages-walkout-from-all-party-meeting-over-centres-invite-to-tmc-rebels-10793424/
 
-- Delhi Traffic advisory: Avoid these roads near Parliament tomorrow
+- Why Samsung’s passport-style foldable phone matters for the smartphone industry
   
-  🔗 https://indianexpress.com/article/india/delhi-traffic-advisory-parliament-roads-to-avoid-10793351/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-samsung-passport-style-foldable-phone-matters-10793726/
+
+- What is context bombing, a new AI defence technique turning hackers’ tricks against them?
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-context-bombing-ai-technique-hackers-10793703/
 
 - JBL Live 780 NC review: 80 hours of battery life, zero compromise on sound
   
@@ -32,53 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-cuts-us-jobs-offers-relocations-ahead-of-hq-move-10793326/
 
-- Researchers build AI camera that reconstructs particle paths using handful of photons
-  
-  🔗 https://indianexpress.com/article/technology/science/researchers-build-ai-camera-that-reconstructs-particle-paths-using-handful-of-photons-10792899/
+- iD Fresh banks on overseas markets, higher margins to become IPO-ready by Oct 2027
+  iD Fresh is targeting best-in-class profitability, expanding into snacks and scaling new product launches. i
+  🔗 https://www.livemint.com/companies/id-fresh-banks-on-overseas-markets-higher-margins-to-become-ipo-ready-by-oct-2027-ready-to-cook-foods-11784442803786.html
 
-- 77% of Indian professionals use AI at work; AI-skilled workers earn more: Naukri report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-skilled-workers-earn-more-naukri-ai-report-10792686/
+- Samsung layoffs: Over 800 US workers affected by Texas headquarters move
+  739 positions at Samsung Electronics America in Englewood Cliffs, New Jersey, were impacted as part of the company's
+  🔗 https://www.livemint.com/companies/news/samsung-layoffs-800-plus-us-workers-affected-by-texas-headquarters-move-11784453784334.html
 
-- JSW Steel sees West Asia reconstruction opportunity, warns of steel import diversion
-  JSW Steel expects post-war reconstruction in West Asia to create fresh demand. surplus steel from China, Japan
-  🔗 https://www.livemint.com/companies/jsw-steel-sees-west-asia-reconstruction-opportunity-warns-of-steel-import-diversion-exports-11784386573437.html
+- Accenture reworks salary hikes to include more employees: Splits base pay and one-time lumpsum — Here's what changes
+  Accenture has reworked its salary hike composition to include more employees in the June cycle. The new approach aims to reward more staff while managing payroll.
+  🔗 https://www.livemint.com/companies/news/accenture-rework-salary-hike-50-pc-split-basic-payment-one-time-lumpsum-bonus-cash-include-compensation-more-employees-11784452932577.html
 
-- After a decade of falling behind, UTI AMC begins its turnaround under a new chief
-  Subramaniam took charge in February ahead of the annual planning cycle. He has progressed from team captain as head of equities to manager as chief investment officer.
-  🔗 https://www.livemint.com/companies/uti-amc-turnaround-strategy-vetri-subramaniam-growth-plan-mfs-funds-11784186187143.html
+- Meta layoffs: US judge rejects bid to halt AI discrimination job cuts
+   Meta can proceed with layoffs impacting 8,000 employees, despite disputes over AI usage in selecting
+  🔗 https://www.livemint.com/companies/news/meta-layoffs-us-judge-rejects-bid-to-halt-ai-discrimination-job-cuts-11784445113506.html
 
-- If OpenAI becomes ‘Lehman Brothers of AI bubble’ – What happens to Microsoft, Nvidia, Oracle and Amazon?
-  Ed Zitron claims that the AI boom is primarily driven by OpenAI, cautioning that its collapse could trigger an industry downturn. Despite heavy investments, concerns exist
-  🔗 https://www.livemint.com/companies/news/if-openai-becomes-lehman-brothers-of-ai-bubble-what-happens-to-microsoft-nvidia-oracle-and-amazon-11784293301559.html
+- Late-night Argentina-Spain Fifa final fuels business for bars, hotels and delivery apps
+  Fifa World Cup final turning into late-night revenue opportunity for India's hospitality industry. Extended bar timings, packed
+  🔗 https://www.livemint.com/companies/news/latenight-argentina-spain-fifa-final-fuels-business-for-bars-hotels-food-delivery-apps-hospitality-11784385028826.html
 
-- SpaceX short sellers pocket $5 billion in paper profits as stock wipes out $1 trillion in value
-  Short sellers have reaped $5 billion in paper profits amid a stock decline. The short interest surged from $4.5 billion to $25 billion.
-  🔗 https://www.livemint.com/companies/news/spacex-short-sellers-pocket-5-billion-in-paper-profits-as-stock-wipes-out-1-trillion-in-value-11784390468737.html
+- Expert view: Selective bets &amp; strong fundamentals amid global chaos, says Vinod Nair
+  Early Q1 results have also helped reinforce expectations that Indian equities may outperform global peers over the medium term.
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-selective-bets-strong-fundamentals-amid-global-chaos-says-vinod-nair-11784452456648.html
 
-- Meta's 'AI overbuild' finds a buyer as Anthropic eyes $10 billion computing power deal
-   Meta is negotiating a deal to lease AI computing power to Anthropic, potentially worth $10 billion.
-  🔗 https://www.livemint.com/companies/news/metas-ai-overbuild-finds-a-buyer-as-anthropic-eyes-10-billion-computing-power-deal-11784377532775.html
+- Mcap of five of top-10 most valued firms jumps  ₹1.54 lakh cr; TCS biggest winner
+  The market valuation of five top firms increased by  ₹1.54 lakh crore last week. The Sensex and Nifty also rose, supported by strong
+  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-five-of-top-10-most-valued-firms-jumps-rs-1-54-lakh-cr-tcs-biggest-winner-11784452341307.html
+
+- Upcoming IPOs: Cube Highways IPO, Xtranet Tech IPO among new issues to open next week; check full list here
+   Cube Highways Trust IPO, Xtranet Technologies IPO, Lohia Corp IPO, and Indo
+  🔗 https://www.livemint.com/market/upcoming-ipos-cube-highways-ipo-xtranet-tech-ipo-among-new-issues-to-open-next-week-check-full-list-here-11784449725282.html
+
+- HDFC Bank vs ICICI Bank vs Yes Bank: Which stock to buy after Q1 results 2026?
+  For long-term investors, the private lender is the defensive compounder.
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-icici-bank-vs-yes-bank-which-stock-to-buy-after-q1-results-2026-11784446257168.html
 
 - Should you buy Reliance shares after strong Q1 results 2026?
   Reliance Industries share price gained 2.50
   🔗 https://www.livemint.com/market/stock-market-news/should-you-buy-reliance-shares-after-strong-q1-results-2026-11784444729654.html
 
-- Q1 results 2026: Infosys to Eternal among companies to declare Q1 results next week; check full list here
-  Infosys, Eternal, One 97 Communications Paytm, Bajaj Auto, Adani Energy Solutions, Indian Hotels Company, Bharat Petroleum Corporation, Interglobe
-  🔗 https://www.livemint.com/market/stock-market-news/q1-results-2026-infosys-to-eternal-among-companies-to-declare-q1-results-next-week-check-full-list-here-11784439990844.html
+- Is Zepto down? Users hit by mass outage, face disruptions on app and website
+  Zepo appears to suffer some outages on Sunday. Users report issues with its app
+  🔗 https://www.livemint.com/technology/is-zepto-down-users-hit-by-mass-outage-face-disruptions-on-app-and-website-11784453113106.html
 
-- Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid global tech sell-off?
-  The benchmark indices ended the week on a strong note. The Nifty 50 rose about 0.53% to close at 24,334.30
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-global-tech-selloff-11784437788577.html
-
-- Stocks under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 20 July 2026
-  The Indian stock ended the week on a positive note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-under-rs-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-20-july-2026-11784432397307.html
-
-- Buy or sell: Ganesh Dongre of Anand Rathi recommends 3 stocks to buy on Monday - 20 July 2026
-  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-3-stocks-to-buy-on-monday-20-july-2026-11784430255201.html
+- Instagram, Facebook down? Thousands of users report mass outage; netizens say ‘no posts coming up on feed after refresh’
+  Reports of issues with Instagram and Facebook occurred in New Delhi, Ahmedabad, Mumbai, Pune, Kolkata and other cities in India. Many users encountered error messages
+  🔗 https://www.livemint.com/technology/instagram-facebook-down-thousands-of-users-report-mass-outage-netizens-say-no-posts-coming-up-on-feed-after-refresh-11784452743098.html
 
 - Google Pixel 11a key specs leaked ahead of Made by Google event: Tensor G6, 120Hz display and 8GB RAM tipped
   A new leak about the Pixle 11a has showcased the phone's
@@ -92,53 +100,65 @@
   These cameras also offer support for night vision technology. All of these security cameras offer 360
   🔗 https://www.livemint.com/technology/still-leaving-your-home-unwatched-these-5-indoor-security-cameras-help-you-keep-an-eye-on-everything-11784215175858.html
 
-- Semicon 2.0: Govt to match VC funding in chip design, pick equity
-  The scheme aims to reduce funding gaps in one of the country's most capital-intensive technology sectors. The government will match private investments in
-  🔗 https://www.livemint.com/technology/semicon-2-0-vc-funding-chip-design-equity-semiconductor-government-11784207658957.html
+- S&P 500 closes lower, Nasdaq falls more than 1% as chip stocks suffer: Live updates - CNBC
+  S&amp;P 500 closes lower, Nasdaq falls more
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9OcFRYM3dPUXBUbzdHcG0tOHVLN1pXM1dVQzRnRlZWZ1NtWVBUaFlvU0Jmd2VJdlRaekxORUJrYUZvYkt6RlZXUVoxSkFMMHc3emctMjhHQ2RCTHpsUmVKc2ZrX2d3cU40cHZ0UFNtNEVaNW1DbWs40gF8QVVfeXFMTVhCWnMzaVFEWWlYOVpPNTZUZWctUEY2Q0taN0ZMQ0ZFQTEwX2tNbE5faXlrb2pidkVQWTdsLWZ5eUhVVUlhN3kzSUR3ZUZZOFM0c3RrdUo0eDFuLTNTdC1xZkFvdFlkc2VQVjRSWTdBTDRPZlozS2NYYU9NWg?oc=5
 
-- BGMI 4.5 update: Naruto themed maps, Spider-Man mode, Ferrari cars and everything new
-  Naruto-themed gameplay mode. Spider-Man crossover, licensed Ferrari vehicles, and anniversary rewards.
-  🔗 https://www.livemint.com/technology/tech-news/bgmi-4-5-update-naruto-themed-maps-spider-man-mode-ferrari-cars-and-everything-new-11784190497814.html
+- Stock Market News, July 17, 2026: Nasdaq Drops as Chip Selloff Deepens - WSJ
+  The WSJ reports that the Nasdaq dropped
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5
 
-- 8 Sensex stocks with up to 30% upside potential. Are these in your portfolio?
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/8-sensex-stocks-with-up-to-30-upside-potential-are-these-in-your-portfolio/slideshow/132491327.cms
+- Big defence to keep more than 80% of weapons market through 2033 despite drone surge: Report - The Times of India
+  India to keep more than 80% of weapons market through 2033 despite drone surge.
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNYmpjQjlRYWUwRUpqQ1VEV01PZmUwTktnTjhreDJ2TEcza05uSV9tQnJpWF95WmwyTVFlSFhHdzFoX21KdmVPdUlVdHNyMWVDT0J3RFJublpUNjJscFF0Q2JHSW1zTkhDOTI3UGx6UjdvV0MtVk85N2Y4Z1lZSUNCMzd1OGwzMU1hSEZBWTFwZ3NKNlhqQTRrbGU4NHdVcmVwSWNxcktqeVFsbFBGZkx1ZTVoOXR3cGpFZnBnSk5TeDZUbWhKUVV4cE8wRmlrQkJlVk10QVViVm9xRjVsTTk2RGhrbV9NSEdackVNci1RUzdNS3MtM1BzTmZnYVlTZ0VNSWh0RtIBigJBVV95cUxQTEtzMkRNQWRxdnFSU05qbm1zOFNuR09MVFRsNDRpYmJQdGVTWUVDTXJjM3ptR0hDcDU4Ny1JMllfbEh0UGVoWEo0VkVGVTRYZmRKbU9mT0ZZc0Q3aVh6ZHU1eUtWLTBONDRTTTRiTW84U2hIbFEySmJHSXJvYzA5QVlzM0V3MEE1QW9DczIyRmhoeUtveTJjejJyV2pSaHJ1OXV1T0ZSSlR2NEpvc0dMLUNoSG02eHFuV045M0pBZU1fSTlDYlVLWnRTVXdnTWNVc3RBeWx0V3N6SGFsMlM2d0d0Z1pnQTJoZk8tTlVSWnhSQTZMRHJ3SndUZl9teVRKUi00LUcxT3czQQ?oc=5
 
-- M-cap of five of top 10 most valued firms jumps Rs 1.54 lakh cr; TCS biggest winner
-  Last week marked a significant uplift in the market valuation of five of the top 10 firms. Tata Consultancy Services claimed the spotlight, boosting its valuation by Rs 72,072.3 crore. ICICI Bank and Reliance
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/m-cap-of-five-of-top-10-most-valued-firms-jumps-rs-1-54-lakh-cr-tcs-biggest-winner/articleshow/132490890.cms
+- Sugar Market Needs Better Supply Management, Not Panic Measures - ChiniMandi
+  Sugar Market Needs Better Supply Management
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaEFkb0lGcXU2VXgxdENTNWlwbi1SX2tqcnhwTS1SOFd3WnRXN1MzX2hNUDRWNzR1VjU3VkxRTm9IeTVKbE5UUjA3a29odFdrX3A1NHZndXB5RmhMZEk4Y1Q2YUpoVDJSLUhKMmNGLW1kRWlMMUZmcUtOZGhkUGZHRFJ1VEZEdU1IUEM1V05DaVlqOG1C?oc=5
 
-- Axis Bank standalone profit soars 23% in Q1
-   Axis Bank reported a 23% year-on-year increase in standalone quarterly net profit, aided by lower provisions
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-standalone-profit-soars-23-in-q1/articleshow/132490494.cms
+- Week ahead: Q1 earnings, US-Iran war, FIIs activity and IPO listings among key market triggers to watch - Upstox
+  Week ahead: Q1 earnings, US-Iran war, FIIs activity
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORkcwOU1UMGh6NVo5ZnAtcjB0UWZRNzZCUk91T0lDMkl3NC1xb1FiTDVYZUEzaGRUMmtNM2o5UW5nLUhlenRubHNGWDE3ZUQtTGhUd0ZQVzlFQjFKVG0yWHN6dnU1dGtQSFA5eUhNMWVuRFJXQkZzVnJIWGt2UzEwX1pxQVE5UVllUEpJQzFIZmR1ZVhYay1nSldzM2NZSmFXOFh5cXVuaEVTbnd5SkY3Wm5sbno2M1k5OGJwa3IwSTU5djV2WmR6eUc5aGNybnh1Rm00YlR6M21jc0FzZXI3eHVfcDNxUWRmaUNBUzVCQTZjXzhB?oc=5
 
-- Kotak Bank Q1 net rises 26% on loan growth
-  Kotak Mahindra Bank experienced a remarkable net profit surge of twenty-six percent in the June quarter. This impressive growth can be attributed to a significant decline in provisions that bolstered the bank's financial results.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-bank-q1-net-rises-26-on-loan-growth/articleshow/132490450.cms
+- Ahead of Market: 10 things that will decide D-Street action on Monday
+  The Sensex surged over 960 points and the Nifty climbed more than 1% on Friday. Analysts said domestic institutional investors are rotating into attractively valued large-cap stocks. Consumer durables also remain in focus on improving demand expectations
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/132492765.cms
 
-- Yes Bank Q1 profit surges 34% on strong loan growth
-  The bank's loan portfolio expanded by eighteen percent, especially within corporate advances. The management is optimistic that this trend of positive loan growth will persist in the upcoming months.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q1-profit-surges-34-on-strong-loan-growth/articleshow/132490443.cms
+- Nifty breakout isn’t convincing yet; a move above 24,600 could unlock record high: Anand James
+  Nifty’s Friday rebound has broken its recent range, but a sustained uptrend is yet to be confirmed. Geojit’S An
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-breakout-isnt-convincing-yet-a-move-above-24600-could-unlock-record-high-anand-james/articleshow/132492717.cms
+
+- Nifty weekly outlook: 24,500 holds the key to next leg of gains; focus on stock-specific bets
+  The Nifty ended the week with modest gains as the index defended the crucial 23,800–24,000 support zone. Analysts expect the next move to hinge on the 24,500 resistance level.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-weekly-outlook-24500-holds-the-key-to-next-leg-of-gains-focus-on-stock-specific-bets/articleshow/132492041.cms
+
+- Buy &amp; hold? Think again: James ‘RevShark’ DePorre says invest like a shark, not a spectator
+  Veteran strategist James 'RevShark' DePorre challenges the passive "buy and hold" mantra. Capital preservation and disciplined risk management form the backbone of his five
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/buy-hold-think-again-james-revshark-deporre-says-invest-like-a-shark-not-a-spectator/articleshow/132492024.cms
+
+- Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week. Do you own any?
+  Investors must hold shares in their demat accounts on the respective record dates to be eligible.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-and-stock-splits-bharti-airtel-hero-motocorp-among-88-stocks-turning-ex-date-this-week-do-you-own-any/articleshow/132491671.cms
 
 - India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
   India achieves milestone with launch of first private-
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
 
-- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
-  Hundreds vs Zero: Stealth Divide That Could Def
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
+- 16 Killed In Rain-Related Incidents Amid Monsoon Fury In North, East India - NDTV
+  16 killed in Rain-related Incidents Amid Mon
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTVCUFpKRmwxRFdWeUpNcndsQTNuNTNObGVPYmxBaWpNcU1UWUN5a3lETDBJeGNMR2JDOFcxRDMzVFd3b1FoSzV0TnB3Tk9PWnRIX1RKTEdMbjZyM2ZBZWlVYlEtQXRVUkVoUDJVenF0V05hTXhLYW1sdVNfZkRRcUo5LUFtSG5vWENqT2tZX050NzlRS3RUZHdxd0lOQU9qMWdtRUh6MDJfdl9QUndBTE5hYzXSAbwBQVVfeXFMTTRpX19TNl8ySFZZOU1wNmhaTS1HRk5aRnI3czZQcnRRVXdLekNDWERIRGdsVTJQZDNJQXdabXZCVk5JbzF5RkhuREFWTERSSnNSWmNkQnQtZnBfbENGZng3TDFZZVQzMEJsa09Mb3JiMVhrZGE5TUNqeHBFNm1fajM0ZXFVNGpiQ1RLTWhvZ3hhWWQyQS1iZDFHeU15dVFvSEdxMUVlWG5MZVkyRV9oMmIxNEJxZ0QxZWxyeTg?oc=5
+
+- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
+
+- Maharashtra: India's Ganesh idol makers count cost of devastating floods - BBC
+  Maharashtra: India's Ganesh
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5
 
 - Opposition walks out of all-party meeting over Kiren Rijiju's invite to rebel TMC MPs - The Times of India
   Opposition walks out of all-party meeting over Kiren Rijij
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDBrNU04REJFVzJGM3M3ejhkUTVuMHpydGc2Q1l6VXU0MmYxRWNuZzJtcWtYSkVaa0xBdkxQUHVOMzhOOW5QcTVOOGNVeGxENTh3RGxiQ3FRLXEtQnIyczl2b2k1bHg4d0l2XzgwTlZZdVpCVFF3M2E2eUk5bXZVVXdhd2Fra1lPYTBnbHZIOU80QkhlSzM1VEM5N1R3NWR0QTNpVTA0RVFnemxUSWJjcFdsN3p6WmNuaDdyMHl6MzJ5dmRDQUUtYTdXNi1jMktyQkgybEFxSGhlNWdjclRXbNIB5gFBVV95cUxOTTB2Wjd4LTN3bzNqeTdjNnUyMTBXQU1vNFA0bGdzTnhFVVQ1YlBRN1JHRXNsV1JrOGZxR1lMV1E3bW1PMUo2M1VZRmpvZWdFZkY2em9INXgzd1pYWlJfSkhiSzJrWDYtR3RNc3YwbzQ1VGdfUHVXVG1QQ3NxaGtrTWFmNDc2SURjUmRSbXlaNUhzajZYd3l6ajhEWWZjTXJoNWJwMGtrM2RPamZzQmlaRVJ1bS1FNjJUTERyZ1F3aVRoWVVmd3ozMkNfSUxoNDZmVFZFbEFKUmliVFk1VVhJY0lXOHZ0dw?oc=5
-
-- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
-  Sonam Wangchuk has been on hunger strike for 20 days. He was forcibly taken to hospital.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
-
-- India's 99th GM! Sleepless nights, depressing times, and then a chess Grandmaster: The making of Rathanve - The Times of India
-  The Times of India reports that Rathanve is India's 99th Grandmaster.
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZEVoc2JsQ2tBSHBKTC1ibHc0dmQ1ckt4U3FJRXFjOE1ZNmtsam13UVRzSW9nSEs4UjJ5UVFRZUxGWVBLamtQOUFZcUZDOUxieWZOQlB4TjdaVFhkeElTYzJMNTI2SEZ4U283QjNfTmkzenlnWjJJNmpiUnE1cTJlaWRXckRZdURmcnA1NDZQbnFESUhlak85NVFMclpVRU9TZ2pKOHFFMFl3QV9mOWx3alRhNHVuRGdnUFVHUTZXeC1QZUxaQzdKS2REX20tNUpWTm9IZE4zRUVCaERnRDZuRWoyMnBQanRadG82N25hdTVONUpaUjJCS0lrX1QxSDdUOFdYUFhTdjF2TkHSAZACQVVfeXFMUHRxazYxNEw4YVhwcTQ2cU5KMGRsZmtIaUNEd25seU9YVTJGc3BPaTBCSWRETWFvM2F1MmNKalM5RU81STRXekF0dHpJRWdxY1ZEZlJTMnM2djBzdGVCREwwSm16WTFyaFZnM2Jtc29NRFVmT2FRZ2hTRm9UWFdiMGRmVm5iNGc2Zk1HUHFSc3hXOU84cTc4d0tFSEdLNUg2bXFrd1dKd0tjaDFaRkw4NDVYNEZDMWtfWE1tR05hY3hNUlhTaG1sb0d0Z1A3SkVZTkVyYmZzZTMtLWlqVlp2WGhNZVJxQWNaaTdlSEROakI3NGxrWDJjMDl3U29tN1R2clFvTWZfbmhhY1U0QVc4YkE?oc=5
 
 - BigBasket’s Retreat
   I was in denial of the idea of quick commerce. Back then, if you had asked 100 people whether they wanted to do it,
@@ -159,6 +179,46 @@
 - Supreme Court Seeks Snapdeal’s Reply In Prescription Drug Sale Case
   The Supreme Court has sought responses from Snapdeal and its directors on Karnataka government's plea challenging a Karnataka High Court ruling.
   🔗 https://inc42.com/buzz/supreme-court-seeks-snapdeals-reply-in-prescription-drug-sale-case/
+
+- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
+  India achieves milestone with launch of first private-
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
+
+- 16 Killed In Rain-Related Incidents Amid Monsoon Fury In North, East India - NDTV
+  16 killed in Rain-related Incidents Amid Mon
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTVCUFpKRmwxRFdWeUpNcndsQTNuNTNObGVPYmxBaWpNcU1UWUN5a3lETDBJeGNMR2JDOFcxRDMzVFd3b1FoSzV0TnB3Tk9PWnRIX1RKTEdMbjZyM2ZBZWlVYlEtQXRVUkVoUDJVenF0V05hTXhLYW1sdVNfZkRRcUo5LUFtSG5vWENqT2tZX050NzlRS3RUZHdxd0lOQU9qMWdtRUh6MDJfdl9QUndBTE5hYzXSAbwBQVVfeXFMTTRpX19TNl8ySFZZOU1wNmhaTS1HRk5aRnI3czZQcnRRVXdLekNDWERIRGdsVTJQZDNJQXdabXZCVk5JbzF5RkhuREFWTERSSnNSWmNkQnQtZnBfbENGZng3TDFZZVQzMEJsa09Mb3JiMVhrZGE5TUNqeHBFNm1fajM0ZXFVNGpiQ1RLTWhvZ3hhWWQyQS1iZDFHeU15dVFvSEdxMUVlWG5MZVkyRV9oMmIxNEJxZ0QxZWxyeTg?oc=5
+
+- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
+
+- Maharashtra: India's Ganesh idol makers count cost of devastating floods - BBC
+  Maharashtra: India's Ganesh
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5
+
+- Opposition walks out of all-party meeting over Kiren Rijiju's invite to rebel TMC MPs - The Times of India
+  Opposition walks out of all-party meeting over Kiren Rijij
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDBrNU04REJFVzJGM3M3ejhkUTVuMHpydGc2Q1l6VXU0MmYxRWNuZzJtcWtYSkVaa0xBdkxQUHVOMzhOOW5QcTVOOGNVeGxENTh3RGxiQ3FRLXEtQnIyczl2b2k1bHg4d0l2XzgwTlZZdVpCVFF3M2E2eUk5bXZVVXdhd2Fra1lPYTBnbHZIOU80QkhlSzM1VEM5N1R3NWR0QTNpVTA0RVFnemxUSWJjcFdsN3p6WmNuaDdyMHl6MzJ5dmRDQUUtYTdXNi1jMktyQkgybEFxSGhlNWdjclRXbNIB5gFBVV95cUxOTTB2Wjd4LTN3bzNqeTdjNnUyMTBXQU1vNFA0bGdzTnhFVVQ1YlBRN1JHRXNsV1JrOGZxR1lMV1E3bW1PMUo2M1VZRmpvZWdFZkY2em9INXgzd1pYWlJfSkhiSzJrWDYtR3RNc3YwbzQ1VGdfUHVXVG1QQ3NxaGtrTWFmNDc2SURjUmRSbXlaNUhzajZYd3l6ajhEWWZjTXJoNWJwMGtrM2RPamZzQmlaRVJ1bS1FNjJUTERyZ1F3aVRoWVVmd3ozMkNfSUxoNDZmVFZFbEFKUmliVFk1VVhJY0lXOHZ0dw?oc=5
+
+- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
+  India achieves milestone with launch of first private-
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
+
+- 16 Killed In Rain-Related Incidents Amid Monsoon Fury In North, East India - NDTV
+  16 killed in Rain-related Incidents Amid Mon
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTVCUFpKRmwxRFdWeUpNcndsQTNuNTNObGVPYmxBaWpNcU1UWUN5a3lETDBJeGNMR2JDOFcxRDMzVFd3b1FoSzV0TnB3Tk9PWnRIX1RKTEdMbjZyM2ZBZWlVYlEtQXRVUkVoUDJVenF0V05hTXhLYW1sdVNfZkRRcUo5LUFtSG5vWENqT2tZX050NzlRS3RUZHdxd0lOQU9qMWdtRUh6MDJfdl9QUndBTE5hYzXSAbwBQVVfeXFMTTRpX19TNl8ySFZZOU1wNmhaTS1HRk5aRnI3czZQcnRRVXdLekNDWERIRGdsVTJQZDNJQXdabXZCVk5JbzF5RkhuREFWTERSSnNSWmNkQnQtZnBfbENGZng3TDFZZVQzMEJsa09Mb3JiMVhrZGE5TUNqeHBFNm1fajM0ZXFVNGpiQ1RLTWhvZ3hhWWQyQS1iZDFHeU15dVFvSEdxMUVlWG5MZVkyRV9oMmIxNEJxZ0QxZWxyeTg?oc=5
+
+- Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcEFGNk5tWTQxMlZpczFBX09uNm5sUjF5cS1pYmJwcEVCelZNT0h1ZzNyWW1Jc1Q2SGxpWUl6M1FBZVZBcTVqaXo1WEc4dDVqUHRRVVZHbHJPZw?oc=5
+
+- Maharashtra: India's Ganesh idol makers count cost of devastating floods - BBC
+  Maharashtra: India's Ganesh
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5
+
+- Opposition walks out of all-party meeting over Kiren Rijiju's invite to rebel TMC MPs - The Times of India
+  Opposition walks out of all-party meeting over Kiren Rijij
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDBrNU04REJFVzJGM3M3ejhkUTVuMHpydGc2Q1l6VXU0MmYxRWNuZzJtcWtYSkVaa0xBdkxQUHVOMzhOOW5QcTVOOGNVeGxENTh3RGxiQ3FRLXEtQnIyczl2b2k1bHg4d0l2XzgwTlZZdVpCVFF3M2E2eUk5bXZVVXdhd2Fra1lPYTBnbHZIOU80QkhlSzM1VEM5N1R3NWR0QTNpVTA0RVFnemxUSWJjcFdsN3p6WmNuaDdyMHl6MzJ5dmRDQUUtYTdXNi1jMktyQkgybEFxSGhlNWdjclRXbNIB5gFBVV95cUxOTTB2Wjd4LTN3bzNqeTdjNnUyMTBXQU1vNFA0bGdzTnhFVVQ1YlBRN1JHRXNsV1JrOGZxR1lMV1E3bW1PMUo2M1VZRmpvZWdFZkY2em9INXgzd1pYWlJfSkhiSzJrWDYtR3RNc3YwbzQ1VGdfUHVXVG1QQ3NxaGtrTWFmNDc2SURjUmRSbXlaNUhzajZYd3l6ajhEWWZjTXJoNWJwMGtrM2RPamZzQmlaRVJ1bS1FNjJUTERyZ1F3aVRoWVVmd3ozMkNfSUxoNDZmVFZFbEFKUmliVFk1VVhJY0lXOHZ0dw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-19 08:10:53 UTC_
+_Last updated: 2026-07-19 13:08:04 UTC_
