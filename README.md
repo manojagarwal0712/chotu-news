@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Bihar government faces first pushback from within: BJP and JDU leaders say don’t change education structure
+- SIR Phase-3: Over 84,000 deleted for ‘other’ reasons in two states, one UT
   
-  🔗 https://indianexpress.com/article/india/bihar-higher-education-bill-nda-legislators-oppose-undergraduate-college-bjp-jdu-10792929/
+  🔗 https://indianexpress.com/article/india/sir-phase-3-over-84000-deleted-for-other-reasons-in-two-states-one-ut-10793119/
 
-- J&K Police order SIT probe into Doda youth’s death amid protests, shutdown
+- After High Court rap over river pollution, how Chhattisgarh is course-correcting
   
-  🔗 https://indianexpress.com/article/india/jammu-kashmir-doda-police-firing-arif-hussain-death-sit-bhaderwah-internet-suspended-10792873/
+  🔗 https://indianexpress.com/article/india/after-high-court-rap-over-river-pollution-how-chhattisgarh-is-course-correcting-10793001/
 
-- ‘If Modi doesn’t sack Dharmendra Pradhan, he is responsible too’: CJP founder Abhijeet Dipke
+- Man dies by suicide after killing wife and 3 children in Raipur
   
-  🔗 https://indianexpress.com/article/india/cockroach-janta-party-abhijeet-dipke-pm-modi-resignation-sonam-wangchuk-jantar-mantar-10792826/
+  🔗 https://indianexpress.com/article/india/man-dies-by-suicide-after-killing-wife-and-3-children-in-raipur-10793105/
 
-- Mumbai-Ahmedabad bullet train project: Second TBM begins excavating India’s first undersea tunnel
+- Weather puts a pause on Amarnath Yatra
   
-  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-second-tbm-undersea-tunnel-excavation-thane-creek-maharashtra-10792696/
+  🔗 https://indianexpress.com/article/india/weather-puts-a-pause-on-amarnath-yatra-10792981/
 
-- ‘Stripped and beaten for 4 hours’ inside school hostel, Dalit student recalls ordeal
+- Terror case: Court grants bail to activist Khurram Parvez
   
-  🔗 https://indianexpress.com/article/india/jharkhand-dalit-student-assaulted-government-school-hostel-fir-registered-10792684/
+  🔗 https://indianexpress.com/article/india/terror-case-court-grants-bail-to-activist-khurram-parvez-10793101/
 
 - Researchers build AI camera that reconstructs particle paths using handful of photons
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/one-tech-tip-how-to-soothe-thumb-pain-when-texting-and-scrolling-10792471/
 
+- After a decade of falling behind, UTI AMC begins its turnaround under a new chief
+  Subramaniam took charge in February ahead of the annual planning cycle. He has progressed from team captain as head of equities to manager as chief investment officer.
+  🔗 https://www.livemint.com/companies/uti-amc-turnaround-strategy-vetri-subramaniam-growth-plan-mfs-funds-11784186187143.html
+
 - If OpenAI becomes ‘Lehman Brothers of AI bubble’ – What happens to Microsoft, Nvidia, Oracle and Amazon?
   Ed Zitron claims that the AI boom is primarily driven by OpenAI, cautioning that its collapse could trigger an industry downturn. Despite heavy investments, concerns exist
   🔗 https://www.livemint.com/companies/news/if-openai-becomes-lehman-brothers-of-ai-bubble-what-happens-to-microsoft-nvidia-oracle-and-amazon-11784293301559.html
@@ -55,10 +59,6 @@
 - How his roommate's missed interview helped Raj Subramaniam begin his journey to becoming FedEx CEO
   In 1991, while completing his MBA in marketing and finance at the University of Texas at Austin, the
   🔗 https://www.livemint.com/companies/news/how-a-missed-roommate-interview-helped-raj-subramaniam-begin-his-journey-to-becoming-fedex-ceo-11784372625766.html
-
-- Yes Bank sees strong FCNR demand; corporate lending surges in Q1
-  Yes Bank expects margins to improve through lower funding costs. The bank remains open to a
-  🔗 https://www.livemint.com/companies/company-results/yes-bank-q1-earnings-fcnr-deposits-corporate-lending-indian-banking-sector-11784371522518.html
 
 - IPO GMP Check: SBI Funds Management IPO vs Alpine Texworld IPO - What grey market signals ahead of listings?
   SBI Funds Management and Alpine Texworld IPOs closed their bidding on July 16. SBI commanding a GMP of  ₹91 and being subscribed 41.66 times. Alpine Tex
@@ -100,6 +100,26 @@
   Apple plans to introduce ads on Apple Maps
   🔗 https://www.livemint.com/technology/tech-news/apple-reveals-businesses-that-wont-be-allowed-to-advertise-on-apple-maps-11784182863312.html
 
+- How long until there is a US markets reckoning over Trump’s damage? - Financial Times
+  How long until there is a US markets reckoning over Trump
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxObE9LV1FTWTFsbjZBNk0tUDNub2JlUXBWZWxMMl8yOUF5WlpYUnRTTDMyNnU3aktIN29IdXBQZkdsRHN1S01TN1JYaTFRS1pQLXZxRk5ILTVZZFVwODR5M2Z0MG5jd0F3cGtTb0hfOE02M3RSM2hlOEphUlh3eW5HbWtRMWs?oc=5
+
+- Stock Market News, July 17, 2026: Nasdaq Drops as Chip Selloff Deepens - WSJ
+  The WSJ reports that the Nasdaq dropped
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5
+
+- Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks - Bloomberg.com
+  Korea’s AI-Heavy
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFZVdkhTYW9YNjBGWUxxR0ZSem5VbnpyU3p3UG9vTkZpSXF6MUFLNW1jRWdvc2E2ckRyWGZuTERYbTJXbGhLT3dadkZ5OUJuc1oxWVRRUlVFeTM4eDRQTVNDdW4zVHFfWWxnZ1A3UVZ3cVZhTndpRkx4cUdZUjN6T0JieVcwajJyajZ3NjRYRXR0RzJhOUFpNGlUV3pDc0xrOGg3akExc1BTYllDQXBn?oc=5
+
+- I Know That a Bear Market Is Coming Eventually. This Is Warren Buffett's Single Best Piece of Advice for Investors. - Yahoo Finance
+  I Know That a Bear Market Is Coming Eventually. This Is Warren Buffett's Single Best Piece of
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0tYaTFzUzRiS3kxVEdHUWpUWEVfUnBja0gzQ0JSRHlQdUdrR18wTnVxWTlEODVuM2o5YURBeUNxcWFvWHZWWUFlTHdmZjRubVlkaWliclJQVUdXcWpvT3F4YjM1SWJqUE54QVdGUVpCdDdoT1RTUS1ycFpWc1NrWUpZTmpBZFhEZmhMWlZuTmVMNjZFUlRMNzNGckRTSHpa?oc=5
+
+- MP’s sarees, spices and handicrafts get ecommerce gateway to global markets - The Times of India
+  MP’s sarees, spices and handicrafts
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaFBfSHhNdTAwTDEzR3NUcEtGUWZlTmtvSVdoblJJNXZVUDVVX2U3M2E5MmFhRkpsLWlqc2F0NENaNzB6dUFjN2g3T3BwaEVhVFg4YkFFRzJZdG5BZTMyYzI1UkluRkxMaHJkM0VreXF3b3FqVW56a2tqUjlHVTZkQXI3R1lZakNMQUVSLXk1N3N3VDQ4WEFJYUZ1TGU5WHVvYTBmbnpfcmQxbjMyVE8zZ1BQUGpmREhZVzQzczVWNGZhbmV5U1NNeHl0NHNnUHJOdHdXeWFpWXduamVScjc2YtIB5gFBVV95cUxONE5iR3lTVkNhX2N0dVF1LVM5Mnh2OU1DTm1lZzd2YmFueDV1cnVOX0xpbWhUeTJCVFhVRHBXQXZwWGtBNWFONnpHZ094ekhxN0trNkZMSlNhbk9MS2ExWmdmSHZpTFVLdG1RTlJwYTkwbWVQQ2cxRHB5cDBFTV9TajdJeVBWUmJvNTg4WmhwWFl0eG5FNjhaT0R1MkZrSGVMNldfYWdsVVl6TkJ0T2hMMlRjYjF6d1d5NDhMaHRCbkd4emxQdWNsXzBnQUxsSTdESWk3aE5vZVg2YW5VeWlUbmEwVHhGdw?oc=5
+
 - Lohia Corp IPO opens on July 23: Here’s all you need to know
   Lohia Corp will launch its IPO on July 23, with the issue comprising a pure offer for sale of over 2.59 crore shares. The technical textile machinery maker reported a 64% YoY jump in FY
   🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/lohia-corp-ipo-opens-on-july-23-heres-all-you-need-to-know/articleshow/132479515.cms
@@ -119,6 +139,26 @@
 - Fred Kelly’s timeless investing lessons: Why the crowd is usually wrong
   Legendary investor Fred C. Kelly argued that investment success depends more on mastering psychology than predicting markets. In his classic work, he explains why following the crowd often leads to losses.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fred-kellys-timeless-investing-lessons-why-the-crowd-is-usually-wrong/articleshow/132477889.cms
+
+- Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC
+  Vikram-1: India's first private
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5
+
+- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
+  India achieves milestone with launch of first private-
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
+
+- "Proved My Faith In India's Youth Right": PM Modi Dials Skyroot Team After Historic Launch - NDTV
+  "Proved My Faith In India's Youth Right": PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWHVWeXd0WTk3dE5IcHFRaE0zbXpMU0ZLZGhDNVA2N3hNNF91QlZJclZqVG9IbUZyYWw3d1lNY3F5WHhRM3FfNjFPbmQ5WWVHOWdSOUEzOFFna3lYYjI5bmRMTGJ5ZHMxTThUeUF1cFZZeWs5cWxrdzBUWkpuNzdfeHUzb1pXN0Q4TTlXNXBjSUNtM2dNZGRHYnZUR3c5LXFaNV9NMEZRYWtRYWpoQ0FJVDZleE5ORHVjWjQxTWZRZGtRTGtSMXcxRml1QklNZGdmTVE1T3phMNIB3wFBVV95cUxQRndyRDZOOGkwVmNrU1RaZ1Q5MlREZjU0YVYzRlpTS09EVC16UlN5SVE1WFZJcHhZNVcwN3Q0RGNiOFVScHJ0Rno3d094MjVGTTBySmNadmd6MXE5M2lPUVdsaEp2bm5TVTM3UWc0OTNGTWFidEhkWkVQZjU3V1FCYmNZYUhCVGR1cTFKSFJhZ0FWNG9jTFlQNEs1VlNqVjRoTUVjU3FPSGtkZlR3dXVuV2J6dzZfTFdfVmEyLXFIUXJoeEZTd1hkLVBOdWNzdU1MckdfLWNuOHY4RElfd3RF?oc=5
+
+- Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
+  Hundreds vs Zero: Stealth Divide That Could Def
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
+
+- Maharashtra: India's Ganesh idol makers count cost of devastating floods - BBC
+  Maharashtra: India's Ganesh
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5
 
 - Meet The 50 D2C Brands From D2CX By Inc42’s 8th Cohort
   Saturation doesn&#8217;t seem to be a concern that plagues India’s D2C boom. What began as a handful of digital-first brands is now
@@ -140,45 +180,73 @@
   Spacetech unicorn Skyroot created history by becoming the first private Indian company to place a rocket into orbit.
   🔗 https://inc42.com/buzz/history-beckons-skyroot-lifts-off-with-indias-first-private-orbital-mission/
 
-- Hello Space, Vikram-1 Has Arrived: Skyroot Scripts India's Historic Rocket Mission - NDTV
-  "Hello Space, Vikram-1 Has
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNFBNSWNpQkp6VE0wRk9sNzJFRmNrZW1PZlpIR3RwVzZxTXYxSnpDeG9jakNHN0lubzNUNzJmRTFjckJUYWhiVzJaNmF6bUNFSHhfYmRMNGZRUjVmU084bzlWZEgwZDJRaUxnRWVva29KSllTaGJybm5WZ2NLTDJ4SkVJVDZwNzJjZ3oxVk1qZ3pON3BtOThMY0F5UXBrc2lCXzBydC1yOHRwc3JHa2I5ajAyRTBEYTNySTRmX0pCUjc1d2JwVldsaEZWOVViUDZ4TXU5d2o4MW12eUMwRWdZadIB6AFBVV95cUxPdmd2NmFmMXRTZDhDTUE2QjczY0xsNkdCcmhUaVByOU03R25SbXlRMmZXRnZ0VF94S1BoUll4cnBrMk1QUldYNDU4WXRkdW9taFJPRld6SEVoazZoNVoza1pMeUhwckNDcmpYSEVnNUhCOXFGRGRoQjdzQTBqbFR5SnktczZDLUNOTklMZUNVTnh1YlJtNDBaSjZKMURWMTlvNHNXV0VVV3FQaHFGWHBMWm9VZ0huV3FBZGRXaUg0NVdyNnYtZ3BQYWRNazNoY3BWZ2hHT1pDUVF6bnc4cW5ORGVldjhlZmpW?oc=5
-
 - Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC
   Vikram-1: India's first private
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5
 
-- Vikram-1 Reaches Orbit, Making India A Global Leader In Private Space Launch Capability | Watch - The Times of India
-  Vikram-1 Reaches Orbit, Making India A Global Leader In Private
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb0dFdkhuc2kyc05vX0EyN1ZnYUo5SEVGb2FBaE12N2tlYnlBSlJocDBBcnlrTU8tMzJlZWhQd0dDcEU1WmFXWkR0bk4tOFllekszcGZ6Y1U2VDVWYlhyUzJHdnZ5SGFRaWloQjVJOFFlVFVJVXZoTW1TLXhRcnA0ekxRNGthT3AzMGw2bXVrckF1TEJ6bWdqWFpXRXlFdG9JZWVZbEdWcG52RGtNVDBhaUFwRmNYbUZabWU5SE90Q1dtTmZVbW8tNHNhSUc3UlRJTHJtY3VrWmpZN1NxME5nOVJ1dWd2cnpXQjEySEg5dzdXNVZjd2Vz0gH8AUFVX3lxTFA1ck10Z3F3Qm9CRXdhc0J6QmI1R1hrYl82S09KUWYyckl5SlZfb2ZHdlpQYUFZTjlsTjBVWW5hTTRVdGNWSUNBVmF3emR1RndWZ0dIUHRsbDhGUk4yZDlZYzc2amdLaWVNU2gzZGdqT3dKQjdxN0E2cGFnQzRweXZjLWFJQVpNYVBNRFNEU21YQmRRZU5PUWJBTWFiWEg5cFkteW03ZFExcnppRTF1SW5IUU5UR2RnYm40a0VZUTNxM3BjRVdyVHdLU0w4NlRrVzRyVm1aa3ZHbkpYTm9obnZJRHQ3VU5WMDVTdFE1UnJON1lWbnN4ZnNrTWR5QQ?oc=5
+- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
+  India achieves milestone with launch of first private-
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
+
+- "Proved My Faith In India's Youth Right": PM Modi Dials Skyroot Team After Historic Launch - NDTV
+  "Proved My Faith In India's Youth Right": PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWHVWeXd0WTk3dE5IcHFRaE0zbXpMU0ZLZGhDNVA2N3hNNF91QlZJclZqVG9IbUZyYWw3d1lNY3F5WHhRM3FfNjFPbmQ5WWVHOWdSOUEzOFFna3lYYjI5bmRMTGJ5ZHMxTThUeUF1cFZZeWs5cWxrdzBUWkpuNzdfeHUzb1pXN0Q4TTlXNXBjSUNtM2dNZGRHYnZUR3c5LXFaNV9NMEZRYWtRYWpoQ0FJVDZleE5ORHVjWjQxTWZRZGtRTGtSMXcxRml1QklNZGdmTVE1T3phMNIB3wFBVV95cUxQRndyRDZOOGkwVmNrU1RaZ1Q5MlREZjU0YVYzRlpTS09EVC16UlN5SVE1WFZJcHhZNVcwN3Q0RGNiOFVScHJ0Rno3d094MjVGTTBySmNadmd6MXE5M2lPUVdsaEp2bm5TVTM3UWc0OTNGTWFidEhkWkVQZjU3V1FCYmNZYUhCVGR1cTFKSFJhZ0FWNG9jTFlQNEs1VlNqVjRoTUVjU3FPSGtkZlR3dXVuV2J6dzZfTFdfVmEyLXFIUXJoeEZTd1hkLVBOdWNzdU1MckdfLWNuOHY4RElfd3RF?oc=5
 
 - Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
   Hundreds vs Zero: Stealth Divide That Could Def
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
 
-- Weather Office Predicts Very Heavy Rainfall Across UP Over Next 24 Hours - NDTV
-  Weather Office Predicts Very Heavy Rainfall Across UP
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTHhycTd3WjlTWU44ZnkyRW5XeGgwUUZ3T2VyZmxRYUxTQXhoNENubmt6NzYwbXZ5ZExVWHc4T1dGRWVkZU02cGgtSU5GUU9pT0VMek83TG53dEMxUWF5cTNsV3p5d1FzOTR5ZnVWR1hFUkszZEd4aVg4WnBBVU55eS1ZQm4tYUQ1MXE0d0dHR0dRS1RaTEd6dlZhVTU3cDdsemNwTUNsSEFONlVfM2xxRFBpZ0p0RkRVSk1tN19xUGRLeVdHeTdRVTg1ZlVNamk1VTdqX0UxRQ?oc=5
-
-- Hello Space, Vikram-1 Has Arrived: Skyroot Scripts India's Historic Rocket Mission - NDTV
-  "Hello Space, Vikram-1 Has
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNFBNSWNpQkp6VE0wRk9sNzJFRmNrZW1PZlpIR3RwVzZxTXYxSnpDeG9jakNHN0lubzNUNzJmRTFjckJUYWhiVzJaNmF6bUNFSHhfYmRMNGZRUjVmU084bzlWZEgwZDJRaUxnRWVva29KSllTaGJybm5WZ2NLTDJ4SkVJVDZwNzJjZ3oxVk1qZ3pON3BtOThMY0F5UXBrc2lCXzBydC1yOHRwc3JHa2I5ajAyRTBEYTNySTRmX0pCUjc1d2JwVldsaEZWOVViUDZ4TXU5d2o4MW12eUMwRWdZadIB6AFBVV95cUxPdmd2NmFmMXRTZDhDTUE2QjczY0xsNkdCcmhUaVByOU03R25SbXlRMmZXRnZ0VF94S1BoUll4cnBrMk1QUldYNDU4WXRkdW9taFJPRld6SEVoazZoNVoza1pMeUhwckNDcmpYSEVnNUhCOXFGRGRoQjdzQTBqbFR5SnktczZDLUNOTklMZUNVTnh1YlJtNDBaSjZKMURWMTlvNHNXV0VVV3FQaHFGWHBMWm9VZ0huV3FBZGRXaUg0NVdyNnYtZ3BQYWRNazNoY3BWZ2hHT1pDUVF6bnc4cW5ORGVldjhlZmpW?oc=5
+- Maharashtra: India's Ganesh idol makers count cost of devastating floods - BBC
+  Maharashtra: India's Ganesh
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5
 
 - Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC
   Vikram-1: India's first private
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5
 
-- Vikram-1 Reaches Orbit, Making India A Global Leader In Private Space Launch Capability | Watch - The Times of India
-  Vikram-1 Reaches Orbit, Making India A Global Leader In Private
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb0dFdkhuc2kyc05vX0EyN1ZnYUo5SEVGb2FBaE12N2tlYnlBSlJocDBBcnlrTU8tMzJlZWhQd0dDcEU1WmFXWkR0bk4tOFllekszcGZ6Y1U2VDVWYlhyUzJHdnZ5SGFRaWloQjVJOFFlVFVJVXZoTW1TLXhRcnA0ekxRNGthT3AzMGw2bXVrckF1TEJ6bWdqWFpXRXlFdG9JZWVZbEdWcG52RGtNVDBhaUFwRmNYbUZabWU5SE90Q1dtTmZVbW8tNHNhSUc3UlRJTHJtY3VrWmpZN1NxME5nOVJ1dWd2cnpXQjEySEg5dzdXNVZjd2Vz0gH8AUFVX3lxTFA1ck10Z3F3Qm9CRXdhc0J6QmI1R1hrYl82S09KUWYyckl5SlZfb2ZHdlpQYUFZTjlsTjBVWW5hTTRVdGNWSUNBVmF3emR1RndWZ0dIUHRsbDhGUk4yZDlZYzc2amdLaWVNU2gzZGdqT3dKQjdxN0E2cGFnQzRweXZjLWFJQVpNYVBNRFNEU21YQmRRZU5PUWJBTWFiWEg5cFkteW03ZFExcnppRTF1SW5IUU5UR2RnYm40a0VZUTNxM3BjRVdyVHdLU0w4NlRrVzRyVm1aa3ZHbkpYTm9obnZJRHQ3VU5WMDVTdFE1UnJON1lWbnN4ZnNrTWR5QQ?oc=5
+- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
+  India achieves milestone with launch of first private-
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
+
+- "Proved My Faith In India's Youth Right": PM Modi Dials Skyroot Team After Historic Launch - NDTV
+  "Proved My Faith In India's Youth Right": PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWHVWeXd0WTk3dE5IcHFRaE0zbXpMU0ZLZGhDNVA2N3hNNF91QlZJclZqVG9IbUZyYWw3d1lNY3F5WHhRM3FfNjFPbmQ5WWVHOWdSOUEzOFFna3lYYjI5bmRMTGJ5ZHMxTThUeUF1cFZZeWs5cWxrdzBUWkpuNzdfeHUzb1pXN0Q4TTlXNXBjSUNtM2dNZGRHYnZUR3c5LXFaNV9NMEZRYWtRYWpoQ0FJVDZleE5ORHVjWjQxTWZRZGtRTGtSMXcxRml1QklNZGdmTVE1T3phMNIB3wFBVV95cUxQRndyRDZOOGkwVmNrU1RaZ1Q5MlREZjU0YVYzRlpTS09EVC16UlN5SVE1WFZJcHhZNVcwN3Q0RGNiOFVScHJ0Rno3d094MjVGTTBySmNadmd6MXE5M2lPUVdsaEp2bm5TVTM3UWc0OTNGTWFidEhkWkVQZjU3V1FCYmNZYUhCVGR1cTFKSFJhZ0FWNG9jTFlQNEs1VlNqVjRoTUVjU3FPSGtkZlR3dXVuV2J6dzZfTFdfVmEyLXFIUXJoeEZTd1hkLVBOdWNzdU1MckdfLWNuOHY4RElfd3RF?oc=5
 
 - Hundreds vs Zero: Stealth Divide That Could Define Next India-China Conflict - NDTV
   Hundreds vs Zero: Stealth Divide That Could Def
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOF9zUDZFWFRFWDd2SVU2LTRRbDZIREk2dkxIaUMwanoySlBPTWt3ZG1ycFpxZ2ZXZXlHanp3SGhiQnVkSUtkVFMzX25OY0hVVW9VMWNwbENvRlVkS2ZNMHhEOWF1a2NtVkVCMkxocEszVDZhLW5IWW9xMmc4Q3BBRzNvSlcxSG5aRlJQRlc5MnJodWZGemlNYkdNNDJ3bVAxQjgtQmRZN1pndUphLXN0dzJUWUQ5Z9IBvgFBVV95cUxOdVZzeXh6bXdmc2YzMTl5VEJRdkt6aW9WOFhuNGp6Q1N3MjRCYVhZU1d2bXZmSnpERVY3aFpfY3R4WEMtYmhjSkJnNVRIQ25veHd3NnhHb21rNnhieDU0cXBxYllEdnNZcm9qRGhFaVhNYTZ5X0dTNVhRaUttUmFIbkttRV92TE84QVFPUThVbWU2alQ4b1Y1NkVsMHJ4b3BPa2Y0RWRkTGxkekw3eHpOY25CWEJxZGpsZ1pJSVFn?oc=5
 
-- Weather Office Predicts Very Heavy Rainfall Across UP Over Next 24 Hours - NDTV
-  Weather Office Predicts Very Heavy Rainfall Across UP
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTHhycTd3WjlTWU44ZnkyRW5XeGgwUUZ3T2VyZmxRYUxTQXhoNENubmt6NzYwbXZ5ZExVWHc4T1dGRWVkZU02cGgtSU5GUU9pT0VMek83TG53dEMxUWF5cTNsV3p5d1FzOTR5ZnVWR1hFUkszZEd4aVg4WnBBVU55eS1ZQm4tYUQ1MXE0d0dHR0dRS1RaTEd6dlZhVTU3cDdsemNwTUNsSEFONlVfM2xxRFBpZ0p0RkRVSk1tN19xUGRLeVdHeTdRVTg1ZlVNamk1VTdqX0UxRQ?oc=5
+- Maharashtra: India's Ganesh idol makers count cost of devastating floods - BBC
+  Maharashtra: India's Ganesh
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXEydTRtQ3Z5VWZUTlk2dEhTN0tnVXBGSGtjWjdjT1oyV0xycWZ6b29FOHRjbVl2TTNPYnBYUmp4ZnVBTzlHcm1Za0VGRENDLVV2eWdteWZjdw?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-18 18:59:08 UTC_
+_Last updated: 2026-07-19 02:11:36 UTC_
