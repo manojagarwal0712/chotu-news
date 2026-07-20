@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Disagreement in NDA? Bihar’s Model Schools to be painted saffron, JD(U) raises concerns
+- Tripura police chief found dead at headquarters in Agartala
   
-  🔗 https://indianexpress.com/article/india/disagreement-in-nda-bihars-model-schools-to-be-painted-saffron-jdu-raises-concerns-10794137/
+  🔗 https://indianexpress.com/article/india/tripura-police-chief-found-dead-at-headquarters-in-agartala-10794928/
 
-- Ram Temple donation ‘theft’: SIT’s final report ready, gives reform pointers
+- Harappan town in Gujarat, Hormuz tensions, RBI’s growth optimism: Today’s Premium reads
   
-  🔗 https://indianexpress.com/article/india/ram-temple-donation-theft-probe-sit-report-10794207/
+  🔗 https://indianexpress.com/article/india/best-of-express-exclusive-stories-this-week-10794894/
 
-- Proposal to bring Bihar colleges under government dept: Delhi University teachers warn against weakening structure
+- Sonam Wangchuk’s letter, teargas, talks with Centre: CJP march as it happened
   
-  🔗 https://indianexpress.com/article/india/bihar-government-samrat-choudhary-university-bill-duta-opposition-10794185/
+  🔗 https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-cjp-centre-sansad-chalo-march-today-updates-10794799/
 
-- ‘Suicide’ of techie who left high-paying job: Police investigate as CCTV tracks her last moments
+- ‘Not speaking of a 56-year-old young man’: PM Modi’s veiled dig at Rahul Gandhi
   
-  🔗 https://indianexpress.com/article/india/hyderabad-software-engineer-lake-death-10794181/
+  🔗 https://indianexpress.com/article/india/pm-modi-rahul-gandhi-age-remark-skyroot-monsoon-session-10794753/
 
-- Coming soon in Gujarat: A life-size Harappan town with markets, dockyards
+- Tamil Nadu police arrest DMK legislator for speech ‘threatening’ CM Vijay
   
-  🔗 https://indianexpress.com/article/india/lothal-gujarat-harappan-town-maritime-museum-indus-valley-civilisation-10794212/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-police-arrest-dmk-legislator-for-speech-threatening-cm-vijay-10794737/
+
+- China’s Moonshot AI pauses new signups for Kimi K3 as demand overwhelms GPUs
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/china-moonshot-ai-pauses-new-signups-kimi-k3-10794789/
+
+- Users of Meta’s Facebook, Instagram report suffering some outages
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/users-of-metas-facebook-instagram-report-suffering-some-outages-10794559/
 
 - Why Samsung’s passport-style foldable phone matters for the smartphone industry
   
@@ -32,53 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/jbl-live-780-nc-review-battery-life-sound-quality-10793396/
 
-- Anthropic’s Claude Fable 5 access plans change from July 20: Here’s what’s new
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-fable-5-plans-change-july-20-whats-new-10793390/
+- Mint Explainer | Why Swiggy users must save cards separately for Instamart
+  Instamart now requires a separate saved card from Swiggy�
+  🔗 https://www.livemint.com/companies/news/swiggy-instamart-saved-card-tokenization-quick-commerce-india-eternal-online-grocery-food-delivery-11784528302680.html
 
-- Samsung cuts US jobs, offers relocations ahead of HQ move
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-cuts-us-jobs-offers-relocations-ahead-of-hq-move-10793326/
+- Why Sterling Holidays is moving beyond holiday memberships before its standalone listing
+  Sterling Holiday Resorts Ltd, part of Thomas Cook India, has halted new vacation memberships. The firm plans to grow its portfolio to over 95 resorts,
+  🔗 https://www.livemint.com/companies/news/sterling-holidays-moving-beyond-holiday-memberships-before-its-standalone-listing-hotels-thomas-cook-resorts-retreats-11784516303961.html
 
-- Cleartrip aims for profitability by FY27 end as it cuts back on discounts
-  Flipkart-owned OTA is diversifying into hotels, trains and buses. It is leaning
-  🔗 https://www.livemint.com/companies/news/cleartrip-aims-for-profitability-by-fy27-end-as-it-cuts-back-on-discounts-11784446717450.html
+- Wealth-tech firm Veriqus Group raises  ₹387 crore in funding round led by Norwest Venture
+  Viqus intends to build a strong presence across Tier II and other high-growth cities.
+  🔗 https://www.livemint.com/companies/news/wealthtech-firm-veriqus-group-funding-round-norwest-venture-managing-wealth-wealth-creators-ai-enabled-platform-11784528639700.html
 
-- Suven's big neuroscience bet enters final stretch
-  Suven has one of the deepest innovation pipelines in the country.
-  🔗 https://www.livemint.com/companies/suven-life-sciences-cns-drug-pipeline-masupirdine-alzheimers-phase-3-research-treatment-innovation-11784436991445.html
+- Nuvoco looks beyond East with Gujarat expansion
+  The country's fifth-largest cement maker sells about 1.5 million tonnes of cement annually in Gujarat. It expects to take
+  🔗 https://www.livemint.com/companies/news/nuvoco-vistas-gujarat-expansion-vadraj-cement-south-india-plans-sales-prices-diversification-11784520803192.html
 
-- Higher auto spending, aviation bet will push us to $1 billion: Tata Tech’s Harris
-  Tata Technologies CEO Warren Harris says the firm's $1 billion revenue target by FY28 remains firmly on track, even though it needs a 27% C
-  🔗 https://www.livemint.com/companies/news/higher-auto-spending-aviation-bet-will-push-us-to-1-billion-tata-tech-s-harris-11784452209195.html
+- CX Partners plans exit from Thalappakatti Hotels after seven years
+  CX Partners is seeking an
+  🔗 https://www.livemint.com/companies/cx-partners-thalappakatti-hotels-stake-sale-private-equity-exit-hospitality-investment-11784515720531.html
 
-- Turtlemint expects FY27 profit after tax despite seasonality-led quarterly volatility
-  Turtlemint expects to end FY27 profitable despite seasonal quarterly swings
-  🔗 https://www.livemint.com/companies/news/turtlemint-expects-fy27-profit-after-tax-despite-seasonality-led-quarterly-volatility-11784456174750.html
+- IDBI Bank Q1 results 2026: Net profit rises 5% YoY to  ₹2,115 crore, NII up 10%
+  IDBI Bank reported 5% year-on-year (Yo
+  🔗 https://www.livemint.com/market/stock-market-news/idbi-bank-q1-results-2026-net-profit-rises-5-yoy-to-2-115-crore-nii-up-10-11784535525818.html
 
-- 'We were fixated on not failing': Skyroot's long road to orbit
-  India's sole space unicorn chose patience over speed by delaying its maiden commercial rocket launch by about two years. ‘The unknown unknowns are where we learn,’ says Skyroot Aerospace cofounder and
-  🔗 https://www.livemint.com/companies/start-ups/we-were-fixated-on-not-failing-skyroots-long-road-to-orbit-11784467626774.html
+- Vijay Kedia family raises stake in multibagger stock that has surged over 1700% in five years
+  Vijay Kedia had earlier acquired 14,98,107 shares of SPML Infra in January 2026 through his firm Kedia Securities Ltd. Ace investor Vikay K
+  🔗 https://www.livemint.com/market/stock-market-news/vijay-kedia-family-raises-stake-in-multibagger-stock-spml-infra-that-has-surged-over-1700-in-five-years-11784534139514.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 20 July
-  Gift Nifty was trading around 24,305 level, a discount of nearly 16 points from the Nifty futures’ previous close. The trends on Gift Nifty also
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-20-july-11784513626534.html
+- West Asia conflict fuels defence stocks. Now comes the harder test
+  Investors weigh promise of new orders against the harder test of execution. Fresh geopolitical tensions have revived optimism around
+  🔗 https://www.livemint.com/market/stock-market-news/india-defence-stocks-rally-west-asia-conflict-next-leg-orders-or-execution-indigenization-procurement-11784518899336.html
 
-- Stocks to watch: Paytm, Reliance Industries, HDFC Bank among shares in focus today; check list here
-  The Nifty was trading near the 24,293 mark, down over 29 points from
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-paytm-reliance-industries-hdfc-bank-among-shares-in-focus-today-check-list-here-11784512441080.html
+- Gulf Lloyds IPO day 1: GMP signals nearly 30% listing gains; 10 key points of BSE SME IPO
+  Gulf Lloyds IPO opened for subscription on Monday, 20 July and will close on Wednesday, 22 July. The price
+  🔗 https://www.livemint.com/market/ipo/gulf-lloyds-ipo-day-1-gmp-signals-nearly-30-listing-gains-10-key-points-of-bse-sme-ipo-11784527882154.html
 
-- Stock market today: Gift Nifty hints a weak start; eight day trading stocks to buy on Monday, 20 July
-  Indian stock market is expected to open lower on Monday amid US-Iran tensions and rising oil prices. Sensex previously surged, but geopolitical uncertainties continue to impact sentiment.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-weak-start-eight-day-trading-stocks-to-buy-on-monday-20-july-11784511569988.html
-
-- Asian stocks today: South Korea's Kospi declines amid rising crude oil prices, escalating US-Iran war tensions
-  South Korea's Kospi fell 0.74% at the opening
-  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-south-koreas-kospi-declines-amid-rising-crude-oil-prices-escalating-us-iran-war-tensions-11784510716285.html
-
-- Gift Nifty, US-Iran war, oil prices to Q1 results: 8 key things that changed for Indian stock market over weekend
-  Gift Nifty was trading around 24,293 level, a discount of nearly 29 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-war-to-crude-oil-prices-8-key-things-that-changed-for-indian-stock-market-over-weekend-11784511305508.html
+- Cipla, Ajanta Pharma to Alkem Laboratories: Pharma stocks rise amid weak trends on Dalal Street
+  Torrent Pharmaceuticals and Mankind Pharma were the top gainers on the Nifty Pharma index with more than 3% rally each. Cipla, Divi
+  🔗 https://www.livemint.com/market/stock-market-news/cipla-ajanta-pharma-to-alkem-laboratories-pharma-stocks-rise-amid-weak-trends-on-dalal-street-11784531087488.html
 
 - Is Zepto down? Users hit by mass outage, face disruptions on app and website
   Zepo appears to suffer some outages on Sunday. Users report issues with its app
@@ -100,125 +100,125 @@
   These cameras also offer support for night vision technology. All of these security cameras offer 360
   🔗 https://www.livemint.com/technology/still-leaving-your-home-unwatched-these-5-indoor-security-cameras-help-you-keep-an-eye-on-everything-11784215175858.html
 
-- S&P 500 closes lower, Nasdaq falls more than 1% as chip stocks suffer: Live updates - CNBC
-  S&amp;P 500 closes lower, Nasdaq falls more
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9OcFRYM3dPUXBUbzdHcG0tOHVLN1pXM1dVQzRnRlZWZ1NtWVBUaFlvU0Jmd2VJdlRaekxORUJrYUZvYkt6RlZXUVoxSkFMMHc3emctMjhHQ2RCTHpsUmVKc2ZrX2d3cU40cHZ0UFNtNEVaNW1DbWs40gF8QVVfeXFMTVhCWnMzaVFEWWlYOVpPNTZUZWctUEY2Q0taN0ZMQ0ZFQTEwX2tNbE5faXlrb2pidkVQWTdsLWZ5eUhVVUlhN3kzSUR3ZUZZOFM0c3RrdUo0eDFuLTNTdC1xZkFvdFlkc2VQVjRSWTdBTDRPZlozS2NYYU9NWg?oc=5
+- Stock futures are mixed after Wall Street suffers losing week: Live updates - CNBC
+  Stock futures are mixed after Wall Street suffers losing week
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBYeExLS3Y0Ql9SOVd0OU9NTzhXT2FFQlZBLWJ4a0lHMGppV2JhSXJLRkRISThLUnR3Qk02YkJ4MGhSUExRVTlDQ2o2SnpnekYxY2JQYkVKeXQwUlBUendpMmljY2xqellZV29iU2w4OHI4Q0ZCeTZZ0gF8QVVfeXFMT2ZYeFo3cXFTRUJ5Nnh2WGVKMVBhWlFPRXdMR1ZRempPbXZJcllFYnVIbGcxZ2FKOFhTT1RFdWQ0XzFDMEJNaUxFR2RvTm82NkFoYUh4WElmWWxiTnhJM0E0M3RsY01jclFFWHduRGZuMDBvQUlINHhHZFhkMA?oc=5
 
 - Oil Climbs as Middle East Conflict Escalates: Markets Wrap - Bloomberg.com
   Oil Climbs as Middle East Conflict
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHRldVZqOTd4dFJCdE5XTThuU2ZkVmdpQlQ0YkdXS05Cd1ZiMHdCb2VyUWJqRnU4Y1l1bGIwRTRFUVFnSVdETklJUHNOdDJUQ09RZ3B4UlNHakJZVDlEWnF0LVpHRmh1bEtxUGFycHVFNE90WThiRFYtMU5Hdk9CbzQ1b1phVWUzU1Iyc052U0Y4RUdPQ0V3U2JqX0ZrU3h5TWdCOWU1NmlDRzVW?oc=5
 
-- Stock Market Live: GIFT Nifty indicates a negative start; US markets fall, Asia trades mixed - Moneycontrol.com
-  Stock Market Live: GIFT Nifty indicates a negative start;
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxNcEdrV0dWdW1SZWVBMGV5aWhsZG1fenJNSklOUUhmc05NR0pNQjRneGc3MmNSSm1XVXJuUThxbG0xd082czNhY2NTWm1IVmRlSE1pMTRFcWhwVUVMN1A0dEs0T28tSmZmbGozSVM1VUFKOVdtVUNtM3VXSGR0WkJzdGFoaGRhSVpDVEtiYkdidzF2aHZ3VEpuOEV4MlRjRlNTeTQwS3ZKbWJMbnpwbWdOaVF3U2RpT094OWtpbVVxdVgtUlRXMFJJSUdFSlJlM1l2MzFaajBvTHM1Y2RERHBHaUd5SE1ZSzk0dlRXTlM2Tk40ZkZCMHlyNjgyTkpzU2tZcU1zdG95UV94Szg5dWR2S2wwc3hMcVVEbk4w0gGgAkFVX3lxTE5jQmhqMHl2WmVEcy0tUWVWQjUySnc4ak84RWlSOXVkWXlCYXJ6UFpQcGZ6SWdMQlEyOWN5RnQ3Z1VzeEd2WEd5MGRNb1AzdEU1ZDNWdTBfTEVhdkc1Q3VaRTdYVXRGRU1hQ0lDZWtrVGN6cUwwc1JoRDBZR29OUXhHR1ZrOUVGeTJJS0hteGxVYktuS2hnZGtsSFJqWjhELUpKTUtKRmR4OVI1cDhXcDlkYllIaWJVX1djVW9wbnVuWlVuMjZlS0RHbnpaTTFUa0VKSDRPb1Y0WmxmZFh1RlJDYWdQUDFGUzZiVnQyTzVoVS1ZcHIzQ29wRV91dTlncGVfbks1TFJ1MnJzMVdMcVdldmlobnVNaG01T3pON1Z3eA?oc=5
+- Shares unsettled as oil climbs, earnings loom for AI - Reuters
+  Shares unsettled as oil climbs,
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXNOVkRxS1o3Q3pZUnR2TzZIVmRBbUs5MGZRYV9xRXJmVl8wUklWb0RfRjNETm5HR3Q3OEd1R3NZS0Nrc3Q0OGdQMDlVX041OGMybkpoZ0VWTFZ0Mlp4bGJmeXFUMzQ2NEpTdEFXbWh6eUNUQ1BXbkRRcHFUWnhLa3Fhdw?oc=5
 
-- Stock Market Today Live, July 20: Gift Nifty at 24,300 indicates flat opening for Indian stocks - BusinessLine
-  Gift Nifty at 24,300 indicates flat opening for Indian stocks
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNSXdkVzJsTWFpXzhoSmp5OTlqYjZjOF82MnNlMzRKdHZmY0dDcTRRQjE5N09pcFZwN2YxWElQWnFxck4xTWZvcnhPSVRyV0x0SGE5RjRSbl9hTzczR1dUVGxzWVNJWDhoOHZhYTMyMXBaMUJJeWJQVzNKZThWa2RPMXJ5NE9OOTE3MkcxYnlWVktQV0N3ZThHYzQzd1lnX2lNTVRmVmpjWUFqaHB1d3ZZSXF5eERXd2NXTWhYSjg4aWw1S0Rw0gHLAUFVX3lxTFBZLU9DeERKbzRtdk5rN0xiSV9RTWNxdThlMDg1X1hoSjdrRnRxeTJGa1Q3M0VXc0RaRDYxTHhBbzRGVmF6X1JhYlJQd09wc1RqQlQzN1JrT1ZZMWRRTGg5b0djM0hLMFV4ekQ5alNHZEZzMHZzdnNySEVwU3hObGYxM19JZk0taEFzR1lDVE5NWmxIclVtV3Y5aGVBWVRFVEh0U0l4QXRlbVV5blV2UWdheFA1dVBCajJNazJYWmUyNUc0Rnc0ZnYyLXJR?oc=5
+- Oil above USD 90 weighs on global markets, rupee opens weaker at 96.41 - The Indian Express
+  Oil above USD 90 weighs on global markets, rupee opens weaker
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOb2NwaUk3dm4zVGVvdzdXbXc4TnRfdDlfdkJXeEFSbWpFc0Z0cGZPRlk2V2ZBSFlsUVZValpnZWhZX3lTcW5pX0hkRlNYb0ZoU0R6eWpxWGEtN3Z0OHN6bDhMSHN5a3FVUmlMWnZ0aEIzY25rQmdCNGNFM2lXT040TXMyWWtLcWh3UERUN2pCZnliTDRpaDRyTW5DOFl2d1VfUnAtNk1mZWpEbUdnRzFPOE5PbVNWVnBWTnhydVE2TdIBxgFBVV95cUxQSFlqRGRsVURsUGM0OHVUTVMyMGlMTGs5b3pWNTZmem5MQVdvMEl5MXdPVlhmZnhlTlZhV1psOWE2V2dodkcydTVSWVMxNVUtcHpkUzM2UE1OQ2pqcjFuS0Fra3Z1Q3c4a2dzbklJdThQcm9FamNyQWJMUlVEV0lvWjZQUjZMUXFtX0NhdjJGMjdhTENCUkRUU19IQnhoeHBXXy00WWhwYUVTbnRvdGQ0SlRHaHhDSThIOG9Tb1RZYWVmMHJLLUE?oc=5
 
-- Week ahead: Q1 earnings, US-Iran war, FIIs activity and IPO listings among key market triggers to watch - Upstox
-  Week ahead: Q1 earnings, US-Iran war, FIIs activity
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxORkcwOU1UMGh6NVo5ZnAtcjB0UWZRNzZCUk91T0lDMkl3NC1xb1FiTDVYZUEzaGRUMmtNM2o5UW5nLUhlenRubHNGWDE3ZUQtTGhUd0ZQVzlFQjFKVG0yWHN6dnU1dGtQSFA5eUhNMWVuRFJXQkZzVnJIWGt2UzEwX1pxQVE5UVllUEpJQzFIZmR1ZVhYay1nSldzM2NZSmFXOFh5cXVuaEVTbnd5SkY3Wm5sbno2M1k5OGJwa3IwSTU5djV2WmR6eUc5aGNybnh1Rm00YlR6M21jc0FzZXI3eHVfcDNxUWRmaUNBUzVCQTZjXzhB?oc=5
+- The new Fed boss is tight-lipped. That might upset the markets - Financial Times
+  The new Fed boss is tight-lipped.
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHBjZGNTSkh3eUU5eHlSZ1hKZnRPSzJ3cU9YZnItZHNkUGwybU5Vc2taNVBYY0JkTUxUcHZRMldybXZWc3U1VXlXWTB6d1hHOUhtUmp3RXpJYWM5cU5tdEI4amQ1SFVjS1JOUGVaTlJOdHB0RjMxRHhqZl9oemZBNmFkY3g?oc=5
 
-- Oil Price Today (July 20): Crude oil jumps 3%, crosses $90 as US and Iran exchange attacks. $100 in sight?
-  Brent crude futures rose $2.69, or 3.05%, to $90.79 a barrel. The benchmark extended last week's
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-20-crude-oil-jumps-3-crosses-90-as-us-and-iran-exchange-attacks-100-in-sight/articleshow/132504278.cms
+- FIIs and Mutual Funds increase stakes in Groww. Should You Buy, Sell, or Hold?
+  Groww's parent, Billionbrains Garage Ventures, saw FIIs and mutual funds raise stakes in Q1FY27. Net profit surged 94% YoY, prompting Jeff
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-and-mutual-funds-increase-stakes-in-groww-should-you-buy-sell-or-hold/articleshow/132509754.cms
 
-- Stock split alert! Last day to buy this smallcap stock that rallied 580% in 3 years. Do you own?
-  Investors must buy a company's shares at least one trading day before the record date to ensure the shares are credited to their demat accounts.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-last-day-to-buy-this-smallcap-stock-that-rallied-580-in-3-years-do-you-own/articleshow/132504191.cms
+- Global Market: German bond yields hit two-year high as oil surge fuels ECB rate hike bets
+  German bond yields rose as oil prices increased amid U.S.-Iran tensions. This surge strengthened expectations for the European Central Bank to tighten monetary policy. Money markets now anticipate higher deposit rates by early 2027.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-german-bond-yields-hit-two-year-high-as-oil-surge-fuels-ecb-rate-hike-bets/articleshow/132509565.cms
 
-- Positive Breakout: These 9 stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-9-stocks-cross-above-their-200-dmas/slideshow/132504158.cms
+- HDFC Bank shares crash 5%, wipe off Rs 70,000 cr from investor wealth. Why Jefferies, Nomura, others see up to 28% upside?
+  HDFC Bank shares fell sharply on Monday after its Q1FY27 earnings failed to impress investors. Despite margin pressure and a muted market reaction, brokerages including Jefferies, Nomura, Motilal Oswal and Anand Rath
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-crash-5-wipe-off-rs-70000-cr-from-investor-wealth-why-jefferies-nomura-others-see-up-to-28-upside/articleshow/132509483.cms
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade mixed
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-icici-bnk-ril-share-price-20-july-2026/liveblog/132504119.cms
+- Global Market: European shares dip as oil surge fuels inflation fears ahead of ECB meeting
+  European shares dipped as oil prices climbed due to escalating US-Iran tensions. Energy stocks performed well, while travel and leisure shares faced pressure from higher fuel costs. Technology stocks saw gains as investors anticipated major US company earnings reports.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-dip-as-oil-surge-fuels-inflation-fears-ahead-of-ecb-meeting/articleshow/132509438.cms
 
-- Gold slips as oil prices advance, Fed rate-hike voices grow
-  Brent crude oil surpassed ninety dollars a barrel, increasing inflation worries. Several U.S. Federal Reserve officials indicated potential interest rate hikes are necessary. Asian share markets showed hesitation ahead of major technology company earnings reports.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-oil-prices-advance-fed-rate-hike-voices-grow/articleshow/132504087.cms
+- India 10-year bond slumps to lowest in nearly a month as Middle East oil risks heat up
+  Indian government bonds experienced a significant decline early Monday. Escalating U.S.-Iran tensions pushed oil prices higher, impacting the rupee. Foreign investor demand for Indian debt is expected to moderate.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-slumps-to-lowest-in-nearly-a-month-as-middle-east-oil-risks-heat-up/articleshow/132509213.cms
 
-- Sonam Wangchuk: Cockroach Janta Party to hold protest march to parliament - BBC
-  Sonam Wangchuk: Cockroach Janta
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TQ3p0MWVpVFhraFJUdXhVY1k0eERGc3dfTVZDOTBvOXNLaVFNcVVLSUN5eGxZUkN4bmdhcEEyMmJINFFDallrQ1RRQy1mbWZieFEzNHViVXdkQQ?oc=5
+- Jantar Mantar, CJP, parliament: Thousands of youth-led 'cockroach' protesters march in Delhi - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSMEI4WDlWUFhjeV9XZ29HUTZPeFFqQ1E0RDdITlNSc0RIX2N6MjRyRXEzRnhsSWFHaWpHLU5WdTJ5OHVldXpaVXh0U2RvdGVVTFNYRg?oc=5" target="_blank">Janta
+  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSMEI4WDlWUFhjeV9XZ29HUTZPeFFqQ1E0RDdITlNSc0RIX2N6MjRyRXEzRnhsSWFHaWpHLU5WdTJ5OHVldXpaVXh0U2RvdGVVTFNYRg?oc=5
 
-- India’s Cockroach party protesters to defy police and march to parliament - The Guardian
-  India’s Cockroach party protesters to defy
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTgwaXY5Mzl4enBPNHFkU09zSXJiNkU3eHpqODM2YlZ0cUNZNkdXbWV0MzNjMjFYLXF0TzVRMXUzVENPMGlfWXIzMDl6UlNVc0RBbnA1OHJDS1QwUkE1UXdybTlfa2ZCX01FTjdoYzA5b05xZTJ0eS1LWDdSQW14cmFVcXdQZFg4YW1BckRPMThkdHVsYXBlOUEwTGVDLXhGUGhsa2ozd3ZLNFFVS25pMEJyYw?oc=5
+- Tourist Falls 40 Feet After Zipline Safety Lock Allegedly Fails At Karnataka Resort - NDTV
+  Tourist Falls 40 Feet After Zipline Safety Lock
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2pNVEJuVU02N0pCaFRSb3dua24xRmptU2JTbHVGZ2dBc25UbFo5eGZBVkRJX2JMZ0VuOGduY3V2WHJBRENsYmJrRGNyQXNmaDVjQ1FNOGlMU0VJdnZtaG9fNVZjaE4tTVlWMFpYZDExUWZmeC1QM3BocUJaaHEzVDJpbjdldG5EeUkzLXlFcFBaTFFiUk1BQW5vSUNSS1d2eDBFY1BPaGU2T05kamp0cllFRXRsZTZHeHBkQXB0Sm5CUElhMmNWREVn0gHSAUFVX3lxTE5CSWlNTlhSUE94RUtmSmF6UHRmUHB4S25fUTgxOGNyT3JXcm1kS1JXVDNsam1tZmxyODJyaFBhZlYxRGZRbzZVcVVRRHRxVjQzTnpSTDN6d2tGRTB3WjNLTHlpQ2ZnUGs2U3BJNnlRV20xOEh2X3ZhWE4yc0pROWpLWE9aekEyZkZvNzdRTXM4V2JwYVRzV3pSRkIxYmJGalY3blcyTHdhekZqS3VVNFF2STZoYXJKcGFmR0dEaVowZVdIU0sxRkpaWjlSUXpQNUo2QQ?oc=5
 
-- Why have India’s Gen Z protesters called for a march to parliament? - Al Jazeera
-  Why have India’s Gen Z protesters called for
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3N4eW5GWjhFRVItWkh4RDRNX21Ua0gzdXdkbXZDbkgxOVBWRVVDa3dqVnBqWmYtcHNBa1BCc2VtdUJSQ1RJVG1UenVSZG5wbmRUcl9iN3VnYTV3UjYwQ2RDeGliYUhOaGRRNFB6NjdGSnhFNlBldzZYRzhBU2hMaHdkVS1GRkJGY2RfQW81czRuLWtramNNS0ZLMmZqQ0lhWDBfUUxwYl9xRkZ4MExJ0gG0AUFVX3lxTFBWSE44dC13SlNDU1VBOF91UGxxSFNtdWVIZlBNV01Bdk4xUTJOWGpjX0dGREZNclpqZ1BsR3Z3bm5SbE5IQ3U1TVctTTh6NWhwWEVTLUlvVDJjSDZfaW55TkY4cUJYU3EtcmlGZ19hWWNCNGtiNTJZMlpwZHE0RzJzYTNTRVYxc2dVMlRRQ1AxSHBHdVJKYkE4T2xBRTdtSHRyOHV2M3VUVzkxaE1YNG1UN2JYYw?oc=5
+- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
+  India achieves milestone with launch of first private-
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
 
-- Sonam Wangchuk's Wife Says He Will End Fast. But There Are 2 Conditions - NDTV
-  Sonam Wangchuk's wife says he will end fast
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjVJeExkZXc2V3NhZ0ptU0padl9idzZsZldYdUtfc3U0NEFTWU1uMDVkS29UOExBcVZmakFVYmloejNmVV93b1gxcDFnMVgxZXlJR2luTTNMRE94aDU5aHFGVVJvZURySTJ3WndvVktvLWp4a2ExdzZNS2tmNHV3czFQYlI1ZGlmU2FpVkgwdWpTU19ham5VSnNXM3c1cnE2bGZFTzFzQmxoUW1JOFpz0gG3AUFVX3lxTE5hYWtlZ1o2X0NOMzY2dlRXcG9FbWcwbWpocl90RkhFb3gybHhCNFBDRVJlS2lMYjF6MV9KQVRySVM1aDNBdno3dXA5b0w1TzQwQkRlQmZzd3VxdkRkcDhCLWtHU3M4bDhjaTVLcmVwUjRpY2ZJbXRUaDlMVVl6NV9wdkFrdVBVUklDVjZYNXZrcmtBMTB6WUNkN3pFdy1TbHpGTUUwUE5PUFQ2a1ZlX3prY240RlBtdw?oc=5
+- Live: Protests By Opposition On Day 1 Of Monsoon Session, Lok Sabha Adjourned Till Noon - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxOTVc4NU5XYUVBSk5JdEdVeU9fNUg0VmN6SjVPdFJfM2NXX28tUEJNT2Y1VjhZV3FwS2VzNGtPbEZQVGNyQXNEdjZudWxYTXF3UnRkMFo3dXVreVhRQzhMaTdfVWVTMGdad0
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTVc4NU5XYUVBSk5JdEdVeU9fNUg0VmN6SjVPdFJfM2NXX28tUEJNT2Y1VjhZV3FwS2VzNGtPbEZQVGNyQXNEdjZudWxYTXF3UnRkMFo3dXVreVhRQzhMaTdfVWVTMGdad0dSTGlkbG9PZnA1YXY2VWpWcW83eHBySTBLak9ITUxQTEVOX243WHkxTjBxNUdTdVY2bzVIbmFteGlnXzVqVVpSSllmcWpkNnpBWk5WRkNrbk5ESjlSbXpoekpKRFVOTlZBLU9Qa2RyX18zaHMtVzlWNF83ZHVnYi1zQjFFVjhKOFdaSlF6M29ORHd2bmpTSDNHWWpIQW16NXFJY3pnb3FzVHFPOTJYSVZ4RDVVOFlJRVlJ0gGjAkFVX3lxTE1OQ1hiR1RnaW9rWWNHSWNSdFZWNkRHMTJfd0NDQlFPZlZyVHQ4UDNwQXNzWVpzTE5xTlBRTXRNYllybG5EMVQ4VXNGSDU2WDdPakFmUEItUXp0aEpDSGxTR1BKQllTbXdVZ1pzRjBZQy1kdS00azVsUW5SV0pWYWhaUjRMRE9wbVk0M3JJbXloWHBWdnhBWXM1NnVQaGVPVmMzcGFDbTlIMFdmQzZ2YlZJdGw5SFZBcHo3bVdfSTROeDJjLWZVSFpCajE4UlpWWVBCdUs1eVBsZTNubVEzYkg4T01pY0JjUlpxbzhnazZkcjlwSjVxM3VSd0dTNXlReUYxcGRRVEc0T3JpckNDbDNxUThjWHpjLXh0OXhWOEdPTlc1OA?oc=5
 
-- PM Modi congratulates Indian Teams on outstanding performance at International Olympiads - News On AIR
-  PM Modi congratulates Indian Teams on outstanding performance at International
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQbEs1dTZ5Ri01VFhrWDJ2QVV3Q055QnNsa3RQYUZ3dFkySzBxbjR0SVNBNHVkN0JDcTBjS3loOE9STVhqSW1xc2d6enQ1ZGlMd2tTYTlFenlra3JlRVVMN2wtUmJxMlhPOUZXa1BBUUdBUUc4c2hTbG8xWVNMc3oxNlQzbGpOaVRnMXRKQXgyY3ZBTmNsY3dKdzNTaXo3UEJGbll4TVZyNGE2WWlaTGh6dFhRdFo?oc=5
+- Trouble for Pakistan on four fronts. Is a new nation on the horizon? - India Today
+  India Today: Is a new nation on the horizon
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxONi0xMlhFV0FKSmhMS2pTZ1ZBdExIYndlQ2VKaXZ5LXRJOFlCMjhZZ3YybldaaTh4ejFwR3YxUVpyQlpwNU9KQWkzVjlvS2dna2VnQkxJbFRabzdVYjhYUm9sV3NEdS1NUDdoc2YyeDBDWWJSTjJPcW5KelVWN0ZWYThvQ1lyYkRnVlZuYlgtQzczdkk0ZGlRVE9SZVVydTkwUEd6RW9YMUxFcUc4S3VWM0oxTU52eFdIZkcyaHFqc3FxNEpZQzdpMzhENVJSV3hldDdyeW9B0gHbAUFVX3lxTE8xclg1RGoxZHZvT1UxbGkxbVFqT1I3c05GQU5zdlJvd0t4TDdYNF82eW9mQ2hNRFA4M3A4QU9QZFlmWTRnSkc4X3VXazJsdC1tWlBuSnVUTTlRTmZwZDg1bUxZY0dZOVhkVGNOSUMwVGdPSDFFSjE5TGlIcnRHWXdGY2tCQTRGOHF0VHM3N3Z6UFR2ak54TzZaZU92NnZoaHdxaXppaFhxYXFJVmczYlhFRDBRQncxVjBuV0k0SlN6REN3RGtFbGFGN1k5eWExR05uRy13WTcxU1licw?oc=5
+
+- Cosmoserve Says Soft Robotic Capture Demo Gathered Key Data Despite Glitch
+  Spacetech startup Cosmoserve reported a partial success for its maiden Mission Embrace. Cosmoserve says its soft robotic capture system generated valuable data.
+  🔗 https://inc42.com/buzz/cosmoserve-says-soft-robotic-capture-demo-gathered-key-data-despite-glitch/
+
+- Plazza Bags $15 Mn To Expand Quick Medicine Delivery Business
+  Quick medicine delivery startup Plazza has raised $15 Mn (about ₹145 Cr) in a Series A funding round.
+  🔗 https://inc42.com/buzz/plazza-bags-15-mn-to-expand-quick-medicine-delivery-business/
+
+- NVIDIA Wants To Solve India’s GPU Compute Problem, But At What Cost?
+  Chip giant NVIDIA is all set to change the GPU game across its major markets, and India is no exception.
+  🔗 https://inc42.com/features/nvidia-wants-to-solve-indias-gpu-compute-problem-but-at-what-cost/
+
+- Skyroot Scripts History, Weekly Funding Rundown & More
+  Skyroot Aerospace has become the first Indian private company to place a rocket into orbit.
+  🔗 https://inc42.com/buzz/skyroot-scripts-history-weekly-funding-rundown-more/
 
 - Why Groww Wants To Be Everything At Once
-  As India&#8217;s largest stockbroker expands into wealth management, AI, global investing, lending and asset management, the
+  India&#8217;s largest stockbroker expands into wealth management, AI, global investing, lending and asset management.
   🔗 https://inc42.com/features/why-groww-wants-to-be-everything-at-once/
 
-- BigBasket’s Retreat
-  I was in denial of the idea of quick commerce. Back then, if you had asked 100 people whether they wanted to do it,
-  🔗 https://inc42.com/features/bigbaskets-retreat/
+- Jantar Mantar, CJP, parliament: Thousands of youth-led 'cockroach' protesters march in Delhi - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSMEI4WDlWUFhjeV9XZ29HUTZPeFFqQ1E0RDdITlNSc0RIX2N6MjRyRXEzRnhsSWFHaWpHLU5WdTJ5OHVldXpaVXh0U2RvdGVVTFNYRg?oc=5" target="_blank">Janta
+  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSMEI4WDlWUFhjeV9XZ29HUTZPeFFqQ1E0RDdITlNSc0RIX2N6MjRyRXEzRnhsSWFHaWpHLU5WdTJ5OHVldXpaVXh0U2RvdGVVTFNYRg?oc=5
 
-- Meet The 50 D2C Brands From D2CX By Inc42’s 8th Cohort
-  Saturation doesn&#8217;t seem to be a concern that plagues India’s D2C boom. What began as a handful of digital-first brands is now
-  🔗 https://inc42.com/startups/meet-the-50-d2c-brands-from-d2cx-by-inc42s-8th-cohort/
+- Tourist Falls 40 Feet After Zipline Safety Lock Allegedly Fails At Karnataka Resort - NDTV
+  Tourist Falls 40 Feet After Zipline Safety Lock
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2pNVEJuVU02N0pCaFRSb3dua24xRmptU2JTbHVGZ2dBc25UbFo5eGZBVkRJX2JMZ0VuOGduY3V2WHJBRENsYmJrRGNyQXNmaDVjQ1FNOGlMU0VJdnZtaG9fNVZjaE4tTVlWMFpYZDExUWZmeC1QM3BocUJaaHEzVDJpbjdldG5EeUkzLXlFcFBaTFFiUk1BQW5vSUNSS1d2eDBFY1BPaGU2T05kamp0cllFRXRsZTZHeHBkQXB0Sm5CUElhMmNWREVn0gHSAUFVX3lxTE5CSWlNTlhSUE94RUtmSmF6UHRmUHB4S25fUTgxOGNyT3JXcm1kS1JXVDNsam1tZmxyODJyaFBhZlYxRGZRbzZVcVVRRHRxVjQzTnpSTDN6d2tGRTB3WjNLTHlpQ2ZnUGs2U3BJNnlRV20xOEh2X3ZhWE4yc0pROWpLWE9aekEyZkZvNzdRTXM4V2JwYVRzV3pSRkIxYmJGalY3blcyTHdhekZqS3VVNFF2STZoYXJKcGFmR0dEaVowZVdIU0sxRkpaWjlSUXpQNUo2QQ?oc=5
 
-- New-Age Tech Stocks: Fino Payments Bank Surges 29%, Go Digit Leads Weekly Losers
-  Fino Payments Bank Surges 29%, Go Digit Leads Weekly Losers. Investors remained largely cautious on listed new-age tech stocks this week.
-  🔗 https://inc42.com/buzz/new-age-tech-stocks-fino-payments-bank-surges-29-go-digit-leads-weekly-losers/
+- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
+  India achieves milestone with launch of first private-
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
 
-- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
-  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
-  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
+- Live: Protests By Opposition On Day 1 Of Monsoon Session, Lok Sabha Adjourned Till Noon - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxOTVc4NU5XYUVBSk5JdEdVeU9fNUg0VmN6SjVPdFJfM2NXX28tUEJNT2Y1VjhZV3FwS2VzNGtPbEZQVGNyQXNEdjZudWxYTXF3UnRkMFo3dXVreVhRQzhMaTdfVWVTMGdad0
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTVc4NU5XYUVBSk5JdEdVeU9fNUg0VmN6SjVPdFJfM2NXX28tUEJNT2Y1VjhZV3FwS2VzNGtPbEZQVGNyQXNEdjZudWxYTXF3UnRkMFo3dXVreVhRQzhMaTdfVWVTMGdad0dSTGlkbG9PZnA1YXY2VWpWcW83eHBySTBLak9ITUxQTEVOX243WHkxTjBxNUdTdVY2bzVIbmFteGlnXzVqVVpSSllmcWpkNnpBWk5WRkNrbk5ESjlSbXpoekpKRFVOTlZBLU9Qa2RyX18zaHMtVzlWNF83ZHVnYi1zQjFFVjhKOFdaSlF6M29ORHd2bmpTSDNHWWpIQW16NXFJY3pnb3FzVHFPOTJYSVZ4RDVVOFlJRVlJ0gGjAkFVX3lxTE1OQ1hiR1RnaW9rWWNHSWNSdFZWNkRHMTJfd0NDQlFPZlZyVHQ4UDNwQXNzWVpzTE5xTlBRTXRNYllybG5EMVQ4VXNGSDU2WDdPakFmUEItUXp0aEpDSGxTR1BKQllTbXdVZ1pzRjBZQy1kdS00azVsUW5SV0pWYWhaUjRMRE9wbVk0M3JJbXloWHBWdnhBWXM1NnVQaGVPVmMzcGFDbTlIMFdmQzZ2YlZJdGw5SFZBcHo3bVdfSTROeDJjLWZVSFpCajE4UlpWWVBCdUs1eVBsZTNubVEzYkg4T01pY0JjUlpxbzhnazZkcjlwSjVxM3VSd0dTNXlReUYxcGRRVEc0T3JpckNDbDNxUThjWHpjLXh0OXhWOEdPTlc1OA?oc=5
 
-- Sonam Wangchuk: Cockroach Janta Party to hold protest march to parliament - BBC
-  Sonam Wangchuk: Cockroach Janta
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TQ3p0MWVpVFhraFJUdXhVY1k0eERGc3dfTVZDOTBvOXNLaVFNcVVLSUN5eGxZUkN4bmdhcEEyMmJINFFDallrQ1RRQy1mbWZieFEzNHViVXdkQQ?oc=5
+- Trouble for Pakistan on four fronts. Is a new nation on the horizon? - India Today
+  India Today: Is a new nation on the horizon
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxONi0xMlhFV0FKSmhMS2pTZ1ZBdExIYndlQ2VKaXZ5LXRJOFlCMjhZZ3YybldaaTh4ejFwR3YxUVpyQlpwNU9KQWkzVjlvS2dna2VnQkxJbFRabzdVYjhYUm9sV3NEdS1NUDdoc2YyeDBDWWJSTjJPcW5KelVWN0ZWYThvQ1lyYkRnVlZuYlgtQzczdkk0ZGlRVE9SZVVydTkwUEd6RW9YMUxFcUc4S3VWM0oxTU52eFdIZkcyaHFqc3FxNEpZQzdpMzhENVJSV3hldDdyeW9B0gHbAUFVX3lxTE8xclg1RGoxZHZvT1UxbGkxbVFqT1I3c05GQU5zdlJvd0t4TDdYNF82eW9mQ2hNRFA4M3A4QU9QZFlmWTRnSkc4X3VXazJsdC1tWlBuSnVUTTlRTmZwZDg1bUxZY0dZOVhkVGNOSUMwVGdPSDFFSjE5TGlIcnRHWXdGY2tCQTRGOHF0VHM3N3Z6UFR2ak54TzZaZU92NnZoaHdxaXppaFhxYXFJVmczYlhFRDBRQncxVjBuV0k0SlN6REN3RGtFbGFGN1k5eWExR05uRy13WTcxU1licw?oc=5
 
-- India’s Cockroach party protesters to defy police and march to parliament - The Guardian
-  India’s Cockroach party protesters to defy
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTgwaXY5Mzl4enBPNHFkU09zSXJiNkU3eHpqODM2YlZ0cUNZNkdXbWV0MzNjMjFYLXF0TzVRMXUzVENPMGlfWXIzMDl6UlNVc0RBbnA1OHJDS1QwUkE1UXdybTlfa2ZCX01FTjdoYzA5b05xZTJ0eS1LWDdSQW14cmFVcXdQZFg4YW1BckRPMThkdHVsYXBlOUEwTGVDLXhGUGhsa2ozd3ZLNFFVS25pMEJyYw?oc=5
+- Jantar Mantar, CJP, parliament: Thousands of youth-led 'cockroach' protesters march in Delhi - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSMEI4WDlWUFhjeV9XZ29HUTZPeFFqQ1E0RDdITlNSc0RIX2N6MjRyRXEzRnhsSWFHaWpHLU5WdTJ5OHVldXpaVXh0U2RvdGVVTFNYRg?oc=5" target="_blank">Janta
+  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSMEI4WDlWUFhjeV9XZ29HUTZPeFFqQ1E0RDdITlNSc0RIX2N6MjRyRXEzRnhsSWFHaWpHLU5WdTJ5OHVldXpaVXh0U2RvdGVVTFNYRg?oc=5
 
-- Why have India’s Gen Z protesters called for a march to parliament? - Al Jazeera
-  Why have India’s Gen Z protesters called for
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3N4eW5GWjhFRVItWkh4RDRNX21Ua0gzdXdkbXZDbkgxOVBWRVVDa3dqVnBqWmYtcHNBa1BCc2VtdUJSQ1RJVG1UenVSZG5wbmRUcl9iN3VnYTV3UjYwQ2RDeGliYUhOaGRRNFB6NjdGSnhFNlBldzZYRzhBU2hMaHdkVS1GRkJGY2RfQW81czRuLWtramNNS0ZLMmZqQ0lhWDBfUUxwYl9xRkZ4MExJ0gG0AUFVX3lxTFBWSE44dC13SlNDU1VBOF91UGxxSFNtdWVIZlBNV01Bdk4xUTJOWGpjX0dGREZNclpqZ1BsR3Z3bm5SbE5IQ3U1TVctTTh6NWhwWEVTLUlvVDJjSDZfaW55TkY4cUJYU3EtcmlGZ19hWWNCNGtiNTJZMlpwZHE0RzJzYTNTRVYxc2dVMlRRQ1AxSHBHdVJKYkE4T2xBRTdtSHRyOHV2M3VUVzkxaE1YNG1UN2JYYw?oc=5
+- Tourist Falls 40 Feet After Zipline Safety Lock Allegedly Fails At Karnataka Resort - NDTV
+  Tourist Falls 40 Feet After Zipline Safety Lock
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQU2pNVEJuVU02N0pCaFRSb3dua24xRmptU2JTbHVGZ2dBc25UbFo5eGZBVkRJX2JMZ0VuOGduY3V2WHJBRENsYmJrRGNyQXNmaDVjQ1FNOGlMU0VJdnZtaG9fNVZjaE4tTVlWMFpYZDExUWZmeC1QM3BocUJaaHEzVDJpbjdldG5EeUkzLXlFcFBaTFFiUk1BQW5vSUNSS1d2eDBFY1BPaGU2T05kamp0cllFRXRsZTZHeHBkQXB0Sm5CUElhMmNWREVn0gHSAUFVX3lxTE5CSWlNTlhSUE94RUtmSmF6UHRmUHB4S25fUTgxOGNyT3JXcm1kS1JXVDNsam1tZmxyODJyaFBhZlYxRGZRbzZVcVVRRHRxVjQzTnpSTDN6d2tGRTB3WjNLTHlpQ2ZnUGs2U3BJNnlRV20xOEh2X3ZhWE4yc0pROWpLWE9aekEyZkZvNzdRTXM4V2JwYVRzV3pSRkIxYmJGalY3blcyTHdhekZqS3VVNFF2STZoYXJKcGFmR0dEaVowZVdIU0sxRkpaWjlSUXpQNUo2QQ?oc=5
 
-- Sonam Wangchuk's Wife Says He Will End Fast. But There Are 2 Conditions - NDTV
-  Sonam Wangchuk's wife says he will end fast
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjVJeExkZXc2V3NhZ0ptU0padl9idzZsZldYdUtfc3U0NEFTWU1uMDVkS29UOExBcVZmakFVYmloejNmVV93b1gxcDFnMVgxZXlJR2luTTNMRE94aDU5aHFGVVJvZURySTJ3WndvVktvLWp4a2ExdzZNS2tmNHV3czFQYlI1ZGlmU2FpVkgwdWpTU19ham5VSnNXM3c1cnE2bGZFTzFzQmxoUW1JOFpz0gG3AUFVX3lxTE5hYWtlZ1o2X0NOMzY2dlRXcG9FbWcwbWpocl90RkhFb3gybHhCNFBDRVJlS2lMYjF6MV9KQVRySVM1aDNBdno3dXA5b0w1TzQwQkRlQmZzd3VxdkRkcDhCLWtHU3M4bDhjaTVLcmVwUjRpY2ZJbXRUaDlMVVl6NV9wdkFrdVBVUklDVjZYNXZrcmtBMTB6WUNkN3pFdy1TbHpGTUUwUE5PUFQ2a1ZlX3prY240RlBtdw?oc=5
+- India achieves milestone with launch of first private-sector orbital rocket - Al Jazeera
+  India achieves milestone with launch of first private-
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeVFXT1pFVGRJVWU4WEZ6NU9tMXJyemdndWhPUTJiQjBLeUZxYnNFeDl2dUd5aXZXbmV5ci1XUVhBUDZiNUNTUE9BXzJrTUZIdkg4YmdaRlhUVFkyUUMzX0lYZnNGSHBueE8yMDdJaG5nM2J2cWZYY2VDSEJlZV9NMUVJQlQ0RmF6aFdnRU1sUU5DMzRwS3lSckw3dS1idjkydmY5cEdUNTF5dGdLTjBjMkVzOEthcW_SAbwBQVVfeXFMTm1aRGJsWG1kNXZWUGVjMkI2RmFueG1veDRmNEhPdFR3dURBNmtfcmNIc2NOSmpGQU01MXhBLW41Mi1SZWZkYWZ1VFZfR1ZoUm84Y3NjYUVPUkljV25IanZCanY5NlZhekdXenlZS3BIMUMzTmtGUkRteTNJejhUU05LQlBDMHBWOEdkenVld1NnOXltb1YtaVpoV2FCTnRxeHczU090VmlWWTE1ZXhGZnVyQWxuME15UzJEQW0?oc=5
 
-- PM Modi congratulates Indian Teams on outstanding performance at International Olympiads - News On AIR
-  PM Modi congratulates Indian Teams on outstanding performance at International
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQbEs1dTZ5Ri01VFhrWDJ2QVV3Q055QnNsa3RQYUZ3dFkySzBxbjR0SVNBNHVkN0JDcTBjS3loOE9STVhqSW1xc2d6enQ1ZGlMd2tTYTlFenlra3JlRVVMN2wtUmJxMlhPOUZXa1BBUUdBUUc4c2hTbG8xWVNMc3oxNlQzbGpOaVRnMXRKQXgyY3ZBTmNsY3dKdzNTaXo3UEJGbll4TVZyNGE2WWlaTGh6dFhRdFo?oc=5
+- Live: Protests By Opposition On Day 1 Of Monsoon Session, Lok Sabha Adjourned Till Noon - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxOTVc4NU5XYUVBSk5JdEdVeU9fNUg0VmN6SjVPdFJfM2NXX28tUEJNT2Y1VjhZV3FwS2VzNGtPbEZQVGNyQXNEdjZudWxYTXF3UnRkMFo3dXVreVhRQzhMaTdfVWVTMGdad0
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTVc4NU5XYUVBSk5JdEdVeU9fNUg0VmN6SjVPdFJfM2NXX28tUEJNT2Y1VjhZV3FwS2VzNGtPbEZQVGNyQXNEdjZudWxYTXF3UnRkMFo3dXVreVhRQzhMaTdfVWVTMGdad0dSTGlkbG9PZnA1YXY2VWpWcW83eHBySTBLak9ITUxQTEVOX243WHkxTjBxNUdTdVY2bzVIbmFteGlnXzVqVVpSSllmcWpkNnpBWk5WRkNrbk5ESjlSbXpoekpKRFVOTlZBLU9Qa2RyX18zaHMtVzlWNF83ZHVnYi1zQjFFVjhKOFdaSlF6M29ORHd2bmpTSDNHWWpIQW16NXFJY3pnb3FzVHFPOTJYSVZ4RDVVOFlJRVlJ0gGjAkFVX3lxTE1OQ1hiR1RnaW9rWWNHSWNSdFZWNkRHMTJfd0NDQlFPZlZyVHQ4UDNwQXNzWVpzTE5xTlBRTXRNYllybG5EMVQ4VXNGSDU2WDdPakFmUEItUXp0aEpDSGxTR1BKQllTbXdVZ1pzRjBZQy1kdS00azVsUW5SV0pWYWhaUjRMRE9wbVk0M3JJbXloWHBWdnhBWXM1NnVQaGVPVmMzcGFDbTlIMFdmQzZ2YlZJdGw5SFZBcHo3bVdfSTROeDJjLWZVSFpCajE4UlpWWVBCdUs1eVBsZTNubVEzYkg4T01pY0JjUlpxbzhnazZkcjlwSjVxM3VSd0dTNXlReUYxcGRRVEc0T3JpckNDbDNxUThjWHpjLXh0OXhWOEdPTlc1OA?oc=5
 
-- Sonam Wangchuk: Cockroach Janta Party to hold protest march to parliament - BBC
-  Sonam Wangchuk: Cockroach Janta
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TQ3p0MWVpVFhraFJUdXhVY1k0eERGc3dfTVZDOTBvOXNLaVFNcVVLSUN5eGxZUkN4bmdhcEEyMmJINFFDallrQ1RRQy1mbWZieFEzNHViVXdkQQ?oc=5
-
-- India’s Cockroach party protesters to defy police and march to parliament - The Guardian
-  India’s Cockroach party protesters to defy
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTgwaXY5Mzl4enBPNHFkU09zSXJiNkU3eHpqODM2YlZ0cUNZNkdXbWV0MzNjMjFYLXF0TzVRMXUzVENPMGlfWXIzMDl6UlNVc0RBbnA1OHJDS1QwUkE1UXdybTlfa2ZCX01FTjdoYzA5b05xZTJ0eS1LWDdSQW14cmFVcXdQZFg4YW1BckRPMThkdHVsYXBlOUEwTGVDLXhGUGhsa2ozd3ZLNFFVS25pMEJyYw?oc=5
-
-- Why have India’s Gen Z protesters called for a march to parliament? - Al Jazeera
-  Why have India’s Gen Z protesters called for
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3N4eW5GWjhFRVItWkh4RDRNX21Ua0gzdXdkbXZDbkgxOVBWRVVDa3dqVnBqWmYtcHNBa1BCc2VtdUJSQ1RJVG1UenVSZG5wbmRUcl9iN3VnYTV3UjYwQ2RDeGliYUhOaGRRNFB6NjdGSnhFNlBldzZYRzhBU2hMaHdkVS1GRkJGY2RfQW81czRuLWtramNNS0ZLMmZqQ0lhWDBfUUxwYl9xRkZ4MExJ0gG0AUFVX3lxTFBWSE44dC13SlNDU1VBOF91UGxxSFNtdWVIZlBNV01Bdk4xUTJOWGpjX0dGREZNclpqZ1BsR3Z3bm5SbE5IQ3U1TVctTTh6NWhwWEVTLUlvVDJjSDZfaW55TkY4cUJYU3EtcmlGZ19hWWNCNGtiNTJZMlpwZHE0RzJzYTNTRVYxc2dVMlRRQ1AxSHBHdVJKYkE4T2xBRTdtSHRyOHV2M3VUVzkxaE1YNG1UN2JYYw?oc=5
-
-- Sonam Wangchuk's Wife Says He Will End Fast. But There Are 2 Conditions - NDTV
-  Sonam Wangchuk's wife says he will end fast
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjVJeExkZXc2V3NhZ0ptU0padl9idzZsZldYdUtfc3U0NEFTWU1uMDVkS29UOExBcVZmakFVYmloejNmVV93b1gxcDFnMVgxZXlJR2luTTNMRE94aDU5aHFGVVJvZURySTJ3WndvVktvLWp4a2ExdzZNS2tmNHV3czFQYlI1ZGlmU2FpVkgwdWpTU19ham5VSnNXM3c1cnE2bGZFTzFzQmxoUW1JOFpz0gG3AUFVX3lxTE5hYWtlZ1o2X0NOMzY2dlRXcG9FbWcwbWpocl90RkhFb3gybHhCNFBDRVJlS2lMYjF6MV9KQVRySVM1aDNBdno3dXA5b0w1TzQwQkRlQmZzd3VxdkRkcDhCLWtHU3M4bDhjaTVLcmVwUjRpY2ZJbXRUaDlMVVl6NV9wdkFrdVBVUklDVjZYNXZrcmtBMTB6WUNkN3pFdy1TbHpGTUUwUE5PUFQ2a1ZlX3prY240RlBtdw?oc=5
-
-- PM Modi congratulates Indian Teams on outstanding performance at International Olympiads - News On AIR
-  PM Modi congratulates Indian Teams on outstanding performance at International
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQbEs1dTZ5Ri01VFhrWDJ2QVV3Q055QnNsa3RQYUZ3dFkySzBxbjR0SVNBNHVkN0JDcTBjS3loOE9STVhqSW1xc2d6enQ1ZGlMd2tTYTlFenlra3JlRVVMN2wtUmJxMlhPOUZXa1BBUUdBUUc4c2hTbG8xWVNMc3oxNlQzbGpOaVRnMXRKQXgyY3ZBTmNsY3dKdzNTaXo3UEJGbll4TVZyNGE2WWlaTGh6dFhRdFo?oc=5
+- Trouble for Pakistan on four fronts. Is a new nation on the horizon? - India Today
+  India Today: Is a new nation on the horizon
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxONi0xMlhFV0FKSmhMS2pTZ1ZBdExIYndlQ2VKaXZ5LXRJOFlCMjhZZ3YybldaaTh4ejFwR3YxUVpyQlpwNU9KQWkzVjlvS2dna2VnQkxJbFRabzdVYjhYUm9sV3NEdS1NUDdoc2YyeDBDWWJSTjJPcW5KelVWN0ZWYThvQ1lyYkRnVlZuYlgtQzczdkk0ZGlRVE9SZVVydTkwUEd6RW9YMUxFcUc4S3VWM0oxTU52eFdIZkcyaHFqc3FxNEpZQzdpMzhENVJSV3hldDdyeW9B0gHbAUFVX3lxTE8xclg1RGoxZHZvT1UxbGkxbVFqT1I3c05GQU5zdlJvd0t4TDdYNF82eW9mQ2hNRFA4M3A4QU9QZFlmWTRnSkc4X3VXazJsdC1tWlBuSnVUTTlRTmZwZDg1bUxZY0dZOVhkVGNOSUMwVGdPSDFFSjE5TGlIcnRHWXdGY2tCQTRGOHF0VHM3N3Z6UFR2ak54TzZaZU92NnZoaHdxaXppaFhxYXFJVmczYlhFRDBRQncxVjBuV0k0SlN6REN3RGtFbGFGN1k5eWExR05uRy13WTcxU1licw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-20 02:31:48 UTC_
+_Last updated: 2026-07-20 08:52:05 UTC_
