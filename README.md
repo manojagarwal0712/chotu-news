@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Rahul Gandhi protests outside PM’s home, minister says he ‘changed demand’
+- Madhya Pradesh Assembly passes UCC Bill, Congress slams ‘RSS agenda’
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-priyanka-gandhi-vadra-sit-in-pm-modi-residence-crackdown-student-delhi-10796664/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-assembly-passes-ucc-bill-congress-slams-rss-agenda-10797329/
 
-- IIT-Roorkee tells students not to ‘show affinity to political movements like the one currently’
+- Delhi police offered Ramlila Maidan, we rejected it: Omar on statehood protest
   
-  🔗 https://indianexpress.com/article/india/iit-roorkee-bans-students-staff-cjp-protest-mahua-moitra-reacts-10796637/
+  🔗 https://indianexpress.com/article/india/why-allies-couldnt-keep-their-delhi-date-with-omar-abdullah-10797288/
 
-- He couldn’t find anyone to fund his movie. Now this Adivasi filmmaker has won a National Film Award
+- Jantar Mantar echo in Tamil Nadu: Rapper Arivu detained during protest, later invited by Vijay
   
-  🔗 https://indianexpress.com/article/india/angen-national-film-award-ravi-raj-murmu-first-santhali-film-winner-10796628/
+  🔗 https://indianexpress.com/article/india/jantar-mantar-tamil-nadu-rapper-arivu-protest-vijay-10797236/
 
-- Water levels ‘unseen in half a century’: Flooding sends thousands to relief camps in Assam
+- Rain fury continues in J&K, government extends school holidays, suspends all pilgrimages
   
-  🔗 https://indianexpress.com/article/india/assam-floods-upper-assam-water-levels-himanta-biswa-sarma-evacuations-simalguri-trains-10796438/
+  🔗 https://indianexpress.com/article/india/jammu-rains-school-holidays-july-26-floods-amarnath-yatra-suspended-10797277/
 
-- Have your say on Aravallis: Supreme Court panel opens 21-day window for feedback
+- The Daily Catch-Up: Parliament showdown, Delhi protests and more
   
-  🔗 https://indianexpress.com/article/india/supreme-court-aravalli-hills-committee-public-suggestions-10796350/
+  🔗 https://indianexpress.com/article/india/delhi-protests-neet-controversy-sonam-wangchuk-daily-catchup-10797218/
+
+- OpenAI briefly hit pause on a powerful AI model before release: Here’s why
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-hit-pause-powerful-ai-model-before-release-10797149/
+
+- Viking 1 at 50: Why scientists still debate whether Nasa Mars lander found signs of life
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/viking-1-at-50-why-scientists-still-debate-whether-nasa-mars-lander-found-signs-of-life-10797097/
+
+- Roblox launches AI-powered Build tool, expands Hindi support across platform
+  
+  🔗 https://indianexpress.com/article/technology/gaming/roblox-launches-ai-powered-build-tool-expands-hindi-support-across-platform-10796900/
 
 - Samsung launches first Galaxy credit card with up to 5% cash rewards
   
@@ -28,57 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-is-building-an-ai-fence-around-the-internet-it-once-championed-10796607/
 
-- Apple Music in iOS 27: 5 new features coming to your iPhone
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-music-in-ios-27-5-new-features-coming-to-your-iphone-10796549/
+- Jamie Dimon says AI spending will pay off—but 'definitely not' on the timeline you expect
+  JPMorgan CEO Jamie Dimon expresses cautious optimism about AI investments. But he warns against complacency due to geopolitical and fiscal risks.
+  🔗 https://www.livemint.com/companies/people/jamie-dimon-says-ai-spending-will-pay-off-but-definitely-not-on-the-timeline-you-expect-11784646685784.html
 
-- US judge approves Anthropic’s $1.5 billion settlement of copyright lawsuit
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/us-judge-approves-anthropics-1-5-billion-settlement-of-copyright-lawsuit-10796581/
+- Mahindra Finance Q1 profit jumps 75% to  ₹927 crore on higher interest margin, lower provisions
+  Mahindra and Mahindra Financial Services reported a 75% jump in its consolidated net profit at  ₹927 crore in
+  🔗 https://www.livemint.com/companies/company-results/mahindra-finance-service-q1-fy27-profit-jumps-75-pc-rs-927-crore-higher-interest-margin-lower-provisions-raul-rebell-11784648850440.html
 
-- Hugging Face confirms data breach by AI agent: Why it has sparked a debate on cyber guardrails
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/hugging-face-data-breach-ai-agent-debate-cyber-guardrails-10796513/
+- TVS, Bajaj report record quarterly revenue, see demand momentum continuing
+  Both companies attributed their strong performance to sustained domestic demand following GST cuts and robust export growth. Higher fuel prices and logistics disruptions caused by the
+  🔗 https://www.livemint.com/companies/company-results/tvs-bajaj-report-record-quarterly-revenue-see-demand-momentum-continuing-11784642376564.html
 
-- Punjab &amp; Sind Bank targets $100 mn foreign funding,  ₹4-trillion business by FY29, says CEO
-  The public-sector lender will leverage an upcoming GIFT City branch and cross 10,000 national customer touchpoints to scale up
-  🔗 https://www.livemint.com/companies/news/punjab-sind-bank-targets-100-mn-foreign-funding-4-trillion-business-by-fy29-says-ceo-11784630898398.html
+- Proxy advisory firm flags Meesho’s GST model, seeks Sebi scrutiny
+  InGovern Research Services says Meesho’s logistics arm derives a material benefit from its GST treatment. The company rejects the claims
+  🔗 https://www.livemint.com/companies/proxy-advisory-firm-flags-meesho-s-gst-model-seeks-sebi-scrutiny-11784636953344.html
 
-- BlueStone stays resilient despite a turbulent quarter for India’s jewellery sector
-  BlueStone Jewellery reported a  ₹6-crore profit in Q1 FY27. Revenue rose 49.
-  🔗 https://www.livemint.com/companies/bluestone-stays-resilient-despite-a-turbulent-quarter-for-india-s-jewellery-sector-11784619816727.html
+- ESPN layoffs: Second round of job cuts to come soon? Sports network fires NFL analyst Ryan Clark — Here's what we know
+  Second round of job cuts to be announced on Tuesday, according to reports.
+  🔗 https://www.livemint.com/companies/news/espn-layoffs-second-round-job-cuts-come-soon-sports-network-fires-nfl-analyst-ryan-clark-off-and-on-air-personnel-disney-11784639050492.html
 
-- Novo Nordisk takes Eli Lilly to court over 'misleading' weight-loss drug ad | Here's what it said
-  Novo Nordisk is suing Eli Lilly in U.S. federal court for false advertising. Novo alleges misleading claims about its weight-loss drugs.
-  🔗 https://www.livemint.com/companies/news/novo-nordisk-sues-eli-lilly-over-alleged-false-advertising-what-we-know-so-far-11784634899640.html
+- Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade
+  Dollar advances as oil prices rise
+  🔗 https://www.livemint.com/market/dollar-advances-as-oil-prices-rise-after-latest-us-iran-strikes-houthi-blockade-11784659517915.html
 
-- Maruti Suzuki hikes vehicle prices across models; your new car may cost up to  ₹30,000 more from August
-  Maruti Suzuki, India's largest auto manufacturer, today announced that it will increase vehicle prices by up to  ₹30,000 from
-  🔗 https://www.livemint.com/companies/news/maruti-suzuki-hikes-vehicles-prices-across-models-purchase-your-new-car-may-cost-up-to-rs-30000-more-from-august-2026-11784633709412.html
+- Gold, silver prices today: Comex gold jumps $73, silver gains $2.55 as traders assess US-Iran peace efforts
+  Gold and silver prices rose as US-Iran ceasefire talks boosted market sentiment. Despite rising tensions, gold futures reached $4,088 and silver $59.55.
+  🔗 https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex-gold-jumps-73-silver-gains-2-55-as-traders-assess-us-iran-peace-efforts-11784651015556.html
 
-- Wipro Consumer Care revenue up 9.3%, acquires hair care giant in Philippines
-  Strong rural demand and GST rate cuts helped push the annual gross turnover to  ₹11,635 crore. High palm oil costs
-  🔗 https://www.livemint.com/companies/wipro-consumer-care-revenue-up-9-3-acquires-hair-care-giant-in-philippines-el-nino-rural-demand-personal-care-11784620672944.html
+- Servotech Renewable Power System Q1 Results: PAT jumps 75% YoY; revenue up 58%
+  Servotech Renewable Power System reported a 57.7% YoY revenue increase to  ₹216.29 crore for Q1 FY27
+  🔗 https://www.livemint.com/market/stock-market-news/servotech-renewable-power-system-q1-results-pat-jumps-75-yoy-revenue-up-58-11784649689272.html
 
-- Caliber Mining and Logistics IPO: Issue booked 154 times on Day 03; NII, QIB portions see strong demand
-  Caliber Mining and Logistics' IPO saw strong demand, with oversubscriptions of 281 times for non-institutional investors and 253 times for qualified institutional buyers. The issue received bids
-  🔗 https://www.livemint.com/market/stock-market-news/caliber-mining-and-logistics-ipo-issue-booked-154-times-on-day-03-nii-qib-portions-see-strong-demand-11784637533373.html
+- IBM shares extend losing streak, plunge 26% in five sessions after sales miss
+  IBM shares have plummeted 26.5%, reaching a multi-quarter low after a cautious sales outlook. The stock saw its biggest drop in over 50 years, attributed to shifting
+  🔗 https://www.livemint.com/market/stock-market-news/ibm-shares-extend-losing-streak-plunge-26-in-five-sessions-after-sales-miss-11784643339262.html
 
-- Biotech IPO Gains Crush AI Listings With Standout 55% Return
-  Biotechnology sector is stealing the US IPO market thunder from artificial intelligence-related listings.
-  🔗 https://www.livemint.com/market/ipo/biotech-ipo-gains-crush-ai-listings-with-standout-55-return-11784638458328.html
+- Treasury Yields Hit Two-Month High as Oil Sparks Inflation Risk
+  The US Treasury market fell, pushing 10- and 30-year yields to the highest levels in about two months. The surge in crude oil prices stoked concern that inflationary
+  🔗 https://www.livemint.com/market/treasury-yields-hit-two-month-high-as-oil-sparks-inflation-risk-11784645430148.html
 
-- Saudi Crude Flow From Red Sea Hit Record Before Houthi Warning
-  Saudi Arabia exported record volumes of crude oil from terminals on the Red Sea. The Houthis said they would block the nation
-  🔗 https://www.livemint.com/market/saudi-crude-flow-from-red-sea-hit-record-before-houthi-warning-11784638214346.html
-
-- US stock market today: S&amp;P 500, Nasdaq futures rise up to 1.4% as chip stocks rebound after last week's rout
-  US stock futures rose sharply, driven by a recovery in chip stocks after a sell-off. Tensions in West Asia escalated as the US conducted strikes against Iran.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-rise-up-to-1-4-as-chip-stocks-rebound-after-last-weeks-rout-11784631923493.html
-
-- SBI has no plans for further stake sale in SBI Funds after IPO: chairman Setty
-  SBI Funds Management on Tuesday listed at  ₹613.30 on the National Stock Exchange.
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-stake-sale-sbi-funds-ipo-chairman-setty-mutual-funds-india-11784624846728.html
+- Meta to alert parents if teens show signs of distress while chatting with its AI
+   Meta said it is developing capabilities to contact emergency services if any user, teen or adult, shows imminent risk of suicide in
+  🔗 https://www.livemint.com/technology/tech-news/meta-to-alert-parents-if-teens-show-signs-of-distress-while-chatting-with-its-ai-11784637682899.html
 
 - Indian startup unveils AI-powered virtual clothes try-on app, set to debut next month
   My Wardrobe generates a digital twin from selfies for photorealistic clothing previews
@@ -96,69 +100,49 @@
   International criminal groups use technology to expand in and
   🔗 https://www.livemint.com/technology/international-criminal-groups-use-technology-to-expand-in-and-beyond-asia-un-report-says-11784630505650.html
 
-- Triple murder: Police seek AI Chat logs after probe reveals accused used Chatbot to plan killings
-  Police seek AI Chat logs after probe reveals accused used Chat
-  🔗 https://www.livemint.com/technology/triple-murder-police-seek-ai-chat-logs-after-probe-reveals-accused-used-chatbot-to-plan-killings-11784622165393.html
+- Cube Highways Trust collects Rs 1,687 crore from anchor investors ahead of IPO
+  Cube Highways Trust secured Rs 1,687.5 crore from anchor investors before its public offering. Prazim Trading and Investment Co emerged as the largest anchor investor, committing Rs 300 crore.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/cube-highways-trust-collects-rs-1687-crore-from-anchor-investors-ahead-of-ipo/articleshow/132543954.cms
 
-- Stock Market Today: Chip Stocks Lead Futures Higher — Live Updates - WSJ
-  The Nasdaq leads Dow, S&amp;P 500 futures higher as chip stocks revive.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQLU9uMU51VFFmNFk1emNfOGZYdkhOcXVSWExZOE9JYVBFczA3OXhtdGhrQ2JtNEpqSVVzRG5tbnFYNVh5OXRUVFF3SE5pQl9SWmx1TUJWQ1luanBOb0JULWtOMGk5WS02eUg1X2FmVTBPQmktaTd2c1JnbXRaNnNIRlhFVFBBUTQ?oc=5
+- Sunteck Realty Q1 profit jumps 26% on strong sales, margin growth
+  Sunteck Realty reported a twenty-six percent profit increase for the first quarter. Customer collections also saw a seventeen percent year-on-year increase.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/sunteck-realty-q1-profit-jumps-26-on-strong-sales-margin-growth/articleshow/132542367.cms
 
-- Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices - CNBC
-  Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNVkZ1cVZGZjkwUi14MWc3Q1JKckRkU19qSWs4WjdhZ1BMTEl1MXFRMEtCSFNvRjVRV1doODI2WE1Nd0FJT0FRd0R6QzJRRTNPZjlWTE5VZVU5VFdwS0Z6c2ZoaGxRV3Vkb0cxbnd0dEZ3X09nTkxlX0ZlcV8wdHRKY0RBN0x1Z9IBiwFBVV95cUxNX21adE1LSlcwaWg1Smk2SlNkM1FkSXh0WHE5RDlBQVRWRXNnRzhvVmkzSHQ4QVRrQkVobkM4Ui1YUHJCMzhVWFY5clp6Y2c1a0JwdThzRkZYWGl5ZUtZOUpRcE1nZFNYdklOMUdYams1WHFHR2szSkdSbV9fSVo5VFpwcWx6d1RvUmh3?oc=5
+- Mahindra Finance Q1 Results: Profit jumps 75% to Rs 927 crore on higher interest margin, lower provisions
+  Mahindra and Mahindra Financial Services has experienced a remarkable seventy-five percent surge in net profit. The chief executive highlighted the positive impact of a recent rights issuance on the cost of funding. Disbursements soared by twenty-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q1-results-profit-jumps-75-to-rs-927-crore-on-higher-interest-margin-lower-provisions/articleshow/132540799.cms
 
-- London’s 24-Hour Trading Is Unlikely to Revive Market, GAM Says - Bloomberg.com
-  London’s 24-Hour Trading
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQLU5EVG11YVZGcEFnTmFJZWdXUm15Z3NyTTZVQ2lDZWhPN3MxUi1tTm5sRG9TS1FrQ3hDeWhXTG5TTDVCaFYtQzZPemxLYWowc0xtN0lVS0ZteXg1V3VMc2RnLWVZZUEyTDhNaTZjTndFRUF6WGZZazBtTXU5c2lwOGRyczg5OWRCM1kxQTNsZWp1WmQwRTJvRjQxRWZOb0hCSHhOV0E3THI3SXdleVJFY1p0QQ?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Nifty seen consolidating between 23,800 and 24,350. Analysts expect earnings, geopolitical developments and crude prices to guide sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132540640.cms
 
-- Stocks Climb as Chip Rout Stalls and Oil Slips: Markets Wrap - Bloomberg.com
-  Stocks Climb as Chip Rout Stalls
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHRldVZqOTd4dFJCdE5XTThuU2ZkVmdpQlQ0YkdXS05Cd1ZiMHdCb2VyUWJqRnU4Y1l1bGIwRTRFUVFnSVdETklJUHNOdDJUQ09RZ3B4UlNHakJZVDlEWnF0LVpHRmh1bEtxUGFycHVFNE90WThiRFYtMU5Hdk9CbzQ1b1phVWUzU1Iyc052U0Y4RUdPQ0V3U2JqX0ZrU3h5TWdCOWU1NmlDRzVW?oc=5
-
-- IEA Executive Director statement on oil markets - IEA – International Energy Agency
-  IEA Executive Director statement on oil markets.
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5oUVRpdDFNd0lxRWFpZTczbjQ4Qy1VY2RORnR6Y2ZjSXlLbHhuMjM0dFRSWXhGd0dFVE1QN3RqbV9NMFh3MlBrVmE3WFdmUWlWenYzbkMyaGFuRWJfODVDc3ZzSjZVNEV4MU1CVlZiS2l5VnNyTDl3bUNvQWc?oc=5
-
-- General Motors lifts 2026 outlook despite hit from electric retreat
-  The big US automaker reported $1.3 billion in profits, down 31 percent from the year-ago period. General Motors raised its full-year profit forecast on Tuesday.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/general-motors-lifts-2026-outlook-despite-hit-from-electric-retreat/articleshow/132537291.cms
-
-- Shorter-dated US Treasury yields ease in line with lower oil price
-  Treasury yields decreased as optimism about diplomacy led to a decline in oil prices, reducing inflation expectations. Investors sense diminished pressure on the Federal Reserve to increase rates.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/shorter-dated-us-treasury-yields-ease-in-line-with-lower-oil-price/articleshow/132537161.cms
-
-- Bajaj Finance to issue near 3-year bonds, bankers say
-  Bajaj Finance is set to raise twenty billion rupees via bond sales. The bonds will carry a coupon rate of seven point nine three percent. Commitment bids will be accepted starting Wednesday.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/bajaj-finance-to-issue-near-3-year-bonds-bankers-say/articleshow/132537080.cms
-
-- HDB Financial to reissue 3-year bonds, bankers say
-  HDB Financial Services is gearing up to secure ten billion rupees via a bond reissue. Bids for this alluring opportunity will be collected on Wednesday. The offering pertains to a bond issued in July two thousand twenty-nine
-  🔗 https://economictimes.indiatimes.com/markets/bonds/hdb-financial-to-reissue-3-year-bonds-bankers-say/articleshow/132537022.cms
-
-- UK gilts steady, sterling dips as markets assess new British finance minister
-  The British pound experienced a minor dip against both the euro and the dollar today. Market participants gauge the fiscal policy strategies of freshly appointed finance minister John Healey.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/uk-gilts-steady-sterling-dips-as-markets-assess-new-british-finance-minister/articleshow/132536941.cms
+- Market Trading Guide: JK Cement among 2 stock recommendations for Wednesday
+   Markets traded in a volatile range amid Middle East tensions, elevated crude prices and weak financial stocks. Analysts expect earnings, oil prices, FII flows and geopolitics to drive sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jk-cement-among-2-stock-recommendations-for-wednesday/articleshow/132540043.cms
 
 - CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown - BBC
-  India’s ‘cockroach’ protest movement halts marches after police violence.
+  CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues.
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSlhTal84WnZOQjQtS0g4bjFldE1xTFhNc2ZmREctZi1Bd0p5Q1IzSk5WZ3llNno1ZFFLS2M2WFRIMkEzSHhaV0lXcktrd3lIMzQ5dzZFb1lFQQ?oc=5
 
-- India's Rahul, Priyanka Gandhi protest outside Modi's house - Reuters
-  India's Rahul, Priy
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxObUYyUXdtbVJGb3ZSaGs0UEViWUtVYXlEU1JTcnluOVppYVl6RjRRSFJCN29EeGk5ZVZlWEtLMTFINV8ybTM2UWJ1b2JyZlB0NTV3c1cwX1I4NjgtaGxQeHRRT01pTkhTUXlDeURxQ1lRcUNGMWZ4NklGc2swTXBhN3dvT0Z0NlVZWEJJY2VMRTNtMDhwbmhzRTJ4cVh2ZF9oUXRGeUpSaw?oc=5
+- Police detain Indian opposition leader Gandhi as protests continue to grow - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzYzMTlLVVVmMDlNOXh2VjBUZU9QamI0REFKdjBnWElhYTRPX0w4T3B5b3RRa01RbDUtd3hfYTYycWFwb1JUU3phWi1jZWJ6TE85Y1lEbkV1eUhMYUJHaHdKejdjRnFUM2
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzYzMTlLVVVmMDlNOXh2VjBUZU9QamI0REFKdjBnWElhYTRPX0w4T3B5b3RRa01RbDUtd3hfYTYycWFwb1JUU3phWi1jZWJ6TE85Y1lEbkV1eUhMYUJHaHdKejdjRnFUM2tReGJXZWJUUktWd3ppZlZIYjVhRGdiajNoMVZsTzEwT0lEQU5lbFY1cXVNZUYtczJDTlNPTTBZblB0ODhqalNlTVgwQnpGNFlsek5UQdIBuwFBVV95cUxOenFyeDZ4Ym5ORkJnR1g5cURXZTlQYUEwYzVKdWlwLW01RmZuS1dSQUFROUlSU0ZaSzlKTnJRNVV0cFBndGszN1g4eHp5Zm9WRDBWOHUyUEk0eHBYdkdsS0ctYlZVVVVlSndmUkJsUF81VUZ5SEdiTjJkclJxR0M0MDJ6RlNxSEVlNzRqZ3pWMjZNR3h6b1NPck1lSGJXenRycG81cWdtUDM5TGhZdjRXMnBmVElYUkZVaHZ3?oc=5
 
-- Students' stir: Rahul, Priyanka lead Congress protest outside PM Modi's residence; demand resignations - The Times of India
-  Students' stir: Rahul, Priyanka lead Congress protest outside PM
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPemxTRnltYksyY21adXdIN3NHN0Y1V1BzLWtTNUY4emhtMS1URWdNWEJVQThnYUNoYjFzRHplM0JMR24tM2o4bENYTFR5Wk90THlObE5ZbC1fVW51RWJlODRtcUhFbEpvVGo3VUo5UFdEeWFFRlp3SjlseENVWTV4NXpPZ2QwYm5xX1NvOWQ4TmxNT0VhVG1TTloza3ZwSGRKTUdyV2FiSURWdnJ5aUwtRGM4Vmx2cVlhcnZQNFpPQUdOMEtEVjYxVzZtc09vaEgwM0x0VUp6Qk12aTFETk9aSzVfM1lmNzNqQ3fSAe8BQVVfeXFMUDRhaVdJcHFwUGVGRUJUTFNIRHQzeEdOdUdjbE5iWHl2NVU1Tnk0cFZhSlpVd2RsbmJDaGhWUjFjQmJhTkQyNjFNTUdXRk5JLXVzQVdlMVVrVE5ia3dSUHF1SFVxT21fWnRrQ2d4bk1HbWtNeVFvR19yblpCSXJqOUNCRUM3Vzk0N1JyMnZNVGMxRnlubU5oOHdQalN1MzhveENjVVNGNkotLVJ2cWZBeWhRY0pNS2xwWXgwVjJGTk8wdHlfcEJMbkZoclhqUVZrWW4tUFhZQXdrQ0EyNjQtZ0ZkSWxXNzZ0b3dQdG41VVU?oc=5
+- "India Is Now A Solar Superpower Backed By Skilled Workforce": UN Climate Chief - NDTV
+  "India Is Now A Solar Superpower Backed By
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUw2TzVuTy10ZDAtWTY0N3lyWXBUT01US0E1ekVPODJTc2Y2bGlPMVEtbnk1Rm9PU3hZZU9iWjhZbXAzUjFudmJKMmM5Q09fdTRkajFnb3BscFBmRkRxQ2o4WktFNS1uMEItU0tBeGd5dmRNM0phYkhHTFI0NExLS284bmhydjN1eWJKbUlsNUN1bmR0YjFYNGR1U3hnZEhaanNEZVhvS3dmc2JZWmhRdHRCUWFDMGZJMW56bEVhR3k3S3lwaFRzMXhTaVlscWVy0gHYAUFVX3lxTFBqaXA2Z0twMXFSX3phTWpKRWtaakdNU1k3NFFnRklLTVdFdHkwU2lJaHN1cUJEbjZ6Yk9yczVQMHdwRWRVblo0U0tZczdJSTB6d1hFY0tpaU40dHFSZGdRamJjZVVCOWtMOXZzN3QxZndJaFdNUlhvVzhXaXA2MUtVc0dYVEUzSkNMeGROSl84Zm90ekxPWE84XzlUZk5DSXluNjItSjRWeHo0QmZtWDRKclZWelFvUUZXZy1zY2ZfWXpheEhDVVZqb3lMYVdUVXg1YXdxdnk1bQ?oc=5
 
-- "Why Is PM Silent?" Rahul Gandhi Meets Students Injured During CJP March - NDTV
-  "Why Is PM Silent?" Rahul Gandhi Meets
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM2xRZk1FSG50X2NpRlZWUnNOZXBqTUtaMTlDb3ZRd3NEdkVlMDFGVFFrNGNwSGtDcHdSVkdoalp1T0N6Z2xsTk4tb0R2VjkxbGs3Q2pNR2ZCVnhVbzlkYlpzMFZTdnMzLVE3dkFvdXpHQjMyZTVpMjZMUFFpcEZqc1dVVFlRM3NuOUxZU3pUUHVrRm1VaUY3eFJDZ2x3bkQ3bk1GeWFwdWdla2w0Y2tFbk1xVWZDanVNQjFtMnVvNzjSAcgBQVVfeXFMTmtCR3JTM1N5RWh4TU5LMHpoenJQRFZSN21USGVHU25lazhDYWlfWkRpX0QtdkpaTWxKVTljRUw2aFV3QlROeWN0TmVNc3hPWUhjMG5TUmRDSG5OcC1zT1ZEQ1NhNHF5bU9OazlYcU5EbFI0TDZ6VDUtM3gybU5uS1dtc2dVQnYxcG9HZHlabE5ZSHY3dXljMXlweG0talJidkhGSndib21Ib0o2ZDNONjhuMEZHNGlnYVVJNkJZS1pzYXB0Qk1hM3Q?oc=5
+- Martyrs' Day rally: Bury differences and unite against BJP, Mamata tells INDIA bloc parties - The Hindu
+  The Hindu reports that Mamata Mamata will attend the rally.
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkxlc0JnX20ySmpGXzVmQnF5dGE2MVZEMmRrSDBGRFFxOVExZEpMQldtR2YwWXUzWUhyYzZMdWdMZDYxVW1nMG5QQkE5TE9aVDBYajQxZkkyRElaUVRKV0tBbGhqaUZuNm1XN0VUdjBXTlRnZWNDdm1vLWhoS01UMXBVTENYZlBSTEpUVWUtYkxYMHB3TWlkTnFMQl9DUVJ5ZFZkTnNFbDdFLW81YW1ZeGdKMWt5OFEwd2fSAcABQVVfeXFMTTlPQ3Z4Zlc4SHluYklFbk12VENHUjN5TFZaQkkyQkFMVm1LSHlhOFQ0QWxTQ0FGT3hjb2FFakc2NDVhNGhkcUJnNVdFUEQ0V09La0pENlphZ1NBNHFxWFI4ajF2d09RMTI3YzBvQWllNU1oT29IOG9UZXNQV01vTDVsMGFHb3pGSmZCMVhHUjRvVVFpVDdrdmlkRjE4emhlNVRZaXFqQncxcUNka3laYmxMMms0b1E5Ykt0aFExM0VC?oc=5
 
-- Army Rescues 571 People From Flood-Hit Areas In Assam - NDTV
-  Army Rescues 571 People
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1J3MW5CV1c0R0duSU9PY3c1U0ZoeWNWY0lFUUhONksxTVpGRXcxY21DY28wWkZRVkEtVUhJb2Z4eVFaZ2Z0dkUtejNXdlJUeElkZU1lMklEeE8tM2NXa28xQkYtYmJTT19sV05rQU4xYW5HMm5PMUJ0VVJWdGlVbjN2R3pSVzVIY2YxQ2ZCR1dPSGloOUJMT2RXNnhWRWx6QkHSAaoBQVVfeXFMTV9lb2pEWDZYUWhxMzk2bXhoNWFndnV1ckFPeWZfcUpEMUtNXzhUZjgxdUNCMmdEVzZUYURwWHV3dF92LV9kVWE2bHNlTlowcGNSbGNEaVJZQ0FtUTJGN3JCTHEyTVFtaC1xd2w2U2EwMGF3Yzg5cm1lN0tKQjlBcWxxUGJHYmkzUkQxRG5McEFpb2M2VXBGXzl0S1gwdWswOXo2QnByOG45enc?oc=5
+- "Unacceptable": India Protests Deaths Of 4 Indian Sailors In Russian Attack Near Ukraine - NDTV
+  "Unacceptable": India Protests Deaths Of 4 Indian
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkJhWWFnUUF1c2VvSy1ZTTJxb29SdTh1d21FTUZmeHlrUHdYMjFZWmZEQU5NZDRZLUhVQXFTUVBjWnRKeDVpQkk1aGlxQXdpdXJCR3FXUUxmNE45VnRtNTJZQjlmVWdMem4xZnRxTF9lZEJtcmUtcnFfeXp2allEWjlPejdtWHg0OFV0dW1FMzUwWHJJdkdseXlFb2ZSbXJQN2dxWDV1X1NPOGQ2dVdKbF82embSAbwBQVVfeXFMTWRVYmZFWUxmang0bTdSeklXMWNsa3FzMDFac0p4RFZMMHNCUmxZVTBUOVQ5SFRnTHlwYkZoMDRCSS03bEhSUncwbXRsc0FuSXZUMklwLWJINUpaQlpjZzF3aDBFRk9tWU9CdzBWZ3N6RHNDRjJFXzZWSm1ubkZVbFVTMjB4SWd6Rnk5T2hOWjdjZ05pRlVPLWVYWEVBQkVNUl9COHpMUDh4RVN3dkNjTk5rMHl3Q3RQM3VYcDY?oc=5
+
+- Paytm Eyes New Horizons With Enterprise AI & Wallet Revival
+  Nearly two years after shifting its focus from chasing scale to building a profitable fintech business, Paytm is now laying&#8230;.
+  🔗 https://inc42.com/buzz/paytm-eyes-new-horizons-with-enterprise-ai-wallet-revival/
 
 - IndiaMART Q1: Profit Rises 12% YoY To ₹172 Cr, Plans Lending Foray
   B2B ecommerce company IndiaMART InterMESH reported a 12% increase in its consolidated net profit to ₹172.2 Cr.
@@ -172,53 +156,49 @@
   Fintech SaaS company Zaggle Prepaid Ocean Services plans to invest up to ₹7.97 Cr in Un
   🔗 https://inc42.com/buzz/zaggle-to-acquire-20-stake-in-unobanc-to-bolster-cross-border-payments/
 
-- BlueStone Zooms 20% After Reporting Third Consecutive Profitable Quarter
-  Shares of omnichannel jewellery major BlueStone rallied as much as 20% to touch an intraday high of ₹729.
+- BlueStone Rallies 20% After Reporting Third Consecutive Profitable Quarter
+  Shares of omnichannel jewellery major BlueStone rallied as much as 20% to touch an intraday high of ₹730.10.
   🔗 https://inc42.com/buzz/bluestone-touches-upper-circuit-after-reporting-third-consecutive-profitable-quarter/
 
-- E2E Networks Reports ₹44 Cr Profit In Q1, Revenue Zooms 3.3X YoY
-  AI cloud provider E2E Networks posted a net profit of ₹43.9 Cr in the first quarter of FY27. Revenue Zooms 3.3X YoY.
-  🔗 https://inc42.com/buzz/e2e-networks-reports-%e2%82%b944-cr-profit-in-q1-revenue-zooms-3-3x-yoy/
-
 - CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown - BBC
-  India’s ‘cockroach’ protest movement halts marches after police violence.
+  CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues.
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSlhTal84WnZOQjQtS0g4bjFldE1xTFhNc2ZmREctZi1Bd0p5Q1IzSk5WZ3llNno1ZFFLS2M2WFRIMkEzSHhaV0lXcktrd3lIMzQ5dzZFb1lFQQ?oc=5
 
-- India's Rahul, Priyanka Gandhi protest outside Modi's house - Reuters
-  India's Rahul, Priy
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxObUYyUXdtbVJGb3ZSaGs0UEViWUtVYXlEU1JTcnluOVppYVl6RjRRSFJCN29EeGk5ZVZlWEtLMTFINV8ybTM2UWJ1b2JyZlB0NTV3c1cwX1I4NjgtaGxQeHRRT01pTkhTUXlDeURxQ1lRcUNGMWZ4NklGc2swTXBhN3dvT0Z0NlVZWEJJY2VMRTNtMDhwbmhzRTJ4cVh2ZF9oUXRGeUpSaw?oc=5
+- Police detain Indian opposition leader Gandhi as protests continue to grow - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzYzMTlLVVVmMDlNOXh2VjBUZU9QamI0REFKdjBnWElhYTRPX0w4T3B5b3RRa01RbDUtd3hfYTYycWFwb1JUU3phWi1jZWJ6TE85Y1lEbkV1eUhMYUJHaHdKejdjRnFUM2
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzYzMTlLVVVmMDlNOXh2VjBUZU9QamI0REFKdjBnWElhYTRPX0w4T3B5b3RRa01RbDUtd3hfYTYycWFwb1JUU3phWi1jZWJ6TE85Y1lEbkV1eUhMYUJHaHdKejdjRnFUM2tReGJXZWJUUktWd3ppZlZIYjVhRGdiajNoMVZsTzEwT0lEQU5lbFY1cXVNZUYtczJDTlNPTTBZblB0ODhqalNlTVgwQnpGNFlsek5UQdIBuwFBVV95cUxOenFyeDZ4Ym5ORkJnR1g5cURXZTlQYUEwYzVKdWlwLW01RmZuS1dSQUFROUlSU0ZaSzlKTnJRNVV0cFBndGszN1g4eHp5Zm9WRDBWOHUyUEk0eHBYdkdsS0ctYlZVVVVlSndmUkJsUF81VUZ5SEdiTjJkclJxR0M0MDJ6RlNxSEVlNzRqZ3pWMjZNR3h6b1NPck1lSGJXenRycG81cWdtUDM5TGhZdjRXMnBmVElYUkZVaHZ3?oc=5
 
-- Students' stir: Rahul, Priyanka lead Congress protest outside PM Modi's residence; demand resignations - The Times of India
-  Students' stir: Rahul, Priyanka lead Congress protest outside PM
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPemxTRnltYksyY21adXdIN3NHN0Y1V1BzLWtTNUY4emhtMS1URWdNWEJVQThnYUNoYjFzRHplM0JMR24tM2o4bENYTFR5Wk90THlObE5ZbC1fVW51RWJlODRtcUhFbEpvVGo3VUo5UFdEeWFFRlp3SjlseENVWTV4NXpPZ2QwYm5xX1NvOWQ4TmxNT0VhVG1TTloza3ZwSGRKTUdyV2FiSURWdnJ5aUwtRGM4Vmx2cVlhcnZQNFpPQUdOMEtEVjYxVzZtc09vaEgwM0x0VUp6Qk12aTFETk9aSzVfM1lmNzNqQ3fSAe8BQVVfeXFMUDRhaVdJcHFwUGVGRUJUTFNIRHQzeEdOdUdjbE5iWHl2NVU1Tnk0cFZhSlpVd2RsbmJDaGhWUjFjQmJhTkQyNjFNTUdXRk5JLXVzQVdlMVVrVE5ia3dSUHF1SFVxT21fWnRrQ2d4bk1HbWtNeVFvR19yblpCSXJqOUNCRUM3Vzk0N1JyMnZNVGMxRnlubU5oOHdQalN1MzhveENjVVNGNkotLVJ2cWZBeWhRY0pNS2xwWXgwVjJGTk8wdHlfcEJMbkZoclhqUVZrWW4tUFhZQXdrQ0EyNjQtZ0ZkSWxXNzZ0b3dQdG41VVU?oc=5
+- "India Is Now A Solar Superpower Backed By Skilled Workforce": UN Climate Chief - NDTV
+  "India Is Now A Solar Superpower Backed By
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUw2TzVuTy10ZDAtWTY0N3lyWXBUT01US0E1ekVPODJTc2Y2bGlPMVEtbnk1Rm9PU3hZZU9iWjhZbXAzUjFudmJKMmM5Q09fdTRkajFnb3BscFBmRkRxQ2o4WktFNS1uMEItU0tBeGd5dmRNM0phYkhHTFI0NExLS284bmhydjN1eWJKbUlsNUN1bmR0YjFYNGR1U3hnZEhaanNEZVhvS3dmc2JZWmhRdHRCUWFDMGZJMW56bEVhR3k3S3lwaFRzMXhTaVlscWVy0gHYAUFVX3lxTFBqaXA2Z0twMXFSX3phTWpKRWtaakdNU1k3NFFnRklLTVdFdHkwU2lJaHN1cUJEbjZ6Yk9yczVQMHdwRWRVblo0U0tZczdJSTB6d1hFY0tpaU40dHFSZGdRamJjZVVCOWtMOXZzN3QxZndJaFdNUlhvVzhXaXA2MUtVc0dYVEUzSkNMeGROSl84Zm90ekxPWE84XzlUZk5DSXluNjItSjRWeHo0QmZtWDRKclZWelFvUUZXZy1zY2ZfWXpheEhDVVZqb3lMYVdUVXg1YXdxdnk1bQ?oc=5
 
-- "Why Is PM Silent?" Rahul Gandhi Meets Students Injured During CJP March - NDTV
-  "Why Is PM Silent?" Rahul Gandhi Meets
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM2xRZk1FSG50X2NpRlZWUnNOZXBqTUtaMTlDb3ZRd3NEdkVlMDFGVFFrNGNwSGtDcHdSVkdoalp1T0N6Z2xsTk4tb0R2VjkxbGs3Q2pNR2ZCVnhVbzlkYlpzMFZTdnMzLVE3dkFvdXpHQjMyZTVpMjZMUFFpcEZqc1dVVFlRM3NuOUxZU3pUUHVrRm1VaUY3eFJDZ2x3bkQ3bk1GeWFwdWdla2w0Y2tFbk1xVWZDanVNQjFtMnVvNzjSAcgBQVVfeXFMTmtCR3JTM1N5RWh4TU5LMHpoenJQRFZSN21USGVHU25lazhDYWlfWkRpX0QtdkpaTWxKVTljRUw2aFV3QlROeWN0TmVNc3hPWUhjMG5TUmRDSG5OcC1zT1ZEQ1NhNHF5bU9OazlYcU5EbFI0TDZ6VDUtM3gybU5uS1dtc2dVQnYxcG9HZHlabE5ZSHY3dXljMXlweG0talJidkhGSndib21Ib0o2ZDNONjhuMEZHNGlnYVVJNkJZS1pzYXB0Qk1hM3Q?oc=5
+- Martyrs' Day rally: Bury differences and unite against BJP, Mamata tells INDIA bloc parties - The Hindu
+  The Hindu reports that Mamata Mamata will attend the rally.
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkxlc0JnX20ySmpGXzVmQnF5dGE2MVZEMmRrSDBGRFFxOVExZEpMQldtR2YwWXUzWUhyYzZMdWdMZDYxVW1nMG5QQkE5TE9aVDBYajQxZkkyRElaUVRKV0tBbGhqaUZuNm1XN0VUdjBXTlRnZWNDdm1vLWhoS01UMXBVTENYZlBSTEpUVWUtYkxYMHB3TWlkTnFMQl9DUVJ5ZFZkTnNFbDdFLW81YW1ZeGdKMWt5OFEwd2fSAcABQVVfeXFMTTlPQ3Z4Zlc4SHluYklFbk12VENHUjN5TFZaQkkyQkFMVm1LSHlhOFQ0QWxTQ0FGT3hjb2FFakc2NDVhNGhkcUJnNVdFUEQ0V09La0pENlphZ1NBNHFxWFI4ajF2d09RMTI3YzBvQWllNU1oT29IOG9UZXNQV01vTDVsMGFHb3pGSmZCMVhHUjRvVVFpVDdrdmlkRjE4emhlNVRZaXFqQncxcUNka3laYmxMMms0b1E5Ykt0aFExM0VC?oc=5
 
-- Army Rescues 571 People From Flood-Hit Areas In Assam - NDTV
-  Army Rescues 571 People
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1J3MW5CV1c0R0duSU9PY3c1U0ZoeWNWY0lFUUhONksxTVpGRXcxY21DY28wWkZRVkEtVUhJb2Z4eVFaZ2Z0dkUtejNXdlJUeElkZU1lMklEeE8tM2NXa28xQkYtYmJTT19sV05rQU4xYW5HMm5PMUJ0VVJWdGlVbjN2R3pSVzVIY2YxQ2ZCR1dPSGloOUJMT2RXNnhWRWx6QkHSAaoBQVVfeXFMTV9lb2pEWDZYUWhxMzk2bXhoNWFndnV1ckFPeWZfcUpEMUtNXzhUZjgxdUNCMmdEVzZUYURwWHV3dF92LV9kVWE2bHNlTlowcGNSbGNEaVJZQ0FtUTJGN3JCTHEyTVFtaC1xd2w2U2EwMGF3Yzg5cm1lN0tKQjlBcWxxUGJHYmkzUkQxRG5McEFpb2M2VXBGXzl0S1gwdWswOXo2QnByOG45enc?oc=5
+- "Unacceptable": India Protests Deaths Of 4 Indian Sailors In Russian Attack Near Ukraine - NDTV
+  "Unacceptable": India Protests Deaths Of 4 Indian
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkJhWWFnUUF1c2VvSy1ZTTJxb29SdTh1d21FTUZmeHlrUHdYMjFZWmZEQU5NZDRZLUhVQXFTUVBjWnRKeDVpQkk1aGlxQXdpdXJCR3FXUUxmNE45VnRtNTJZQjlmVWdMem4xZnRxTF9lZEJtcmUtcnFfeXp2allEWjlPejdtWHg0OFV0dW1FMzUwWHJJdkdseXlFb2ZSbXJQN2dxWDV1X1NPOGQ2dVdKbF82embSAbwBQVVfeXFMTWRVYmZFWUxmang0bTdSeklXMWNsa3FzMDFac0p4RFZMMHNCUmxZVTBUOVQ5SFRnTHlwYkZoMDRCSS03bEhSUncwbXRsc0FuSXZUMklwLWJINUpaQlpjZzF3aDBFRk9tWU9CdzBWZ3N6RHNDRjJFXzZWSm1ubkZVbFVTMjB4SWd6Rnk5T2hOWjdjZ05pRlVPLWVYWEVBQkVNUl9COHpMUDh4RVN3dkNjTk5rMHl3Q3RQM3VYcDY?oc=5
 
 - CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown - BBC
-  India’s ‘cockroach’ protest movement halts marches after police violence.
+  CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues.
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSlhTal84WnZOQjQtS0g4bjFldE1xTFhNc2ZmREctZi1Bd0p5Q1IzSk5WZ3llNno1ZFFLS2M2WFRIMkEzSHhaV0lXcktrd3lIMzQ5dzZFb1lFQQ?oc=5
 
-- India's Rahul, Priyanka Gandhi protest outside Modi's house - Reuters
-  India's Rahul, Priy
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxObUYyUXdtbVJGb3ZSaGs0UEViWUtVYXlEU1JTcnluOVppYVl6RjRRSFJCN29EeGk5ZVZlWEtLMTFINV8ybTM2UWJ1b2JyZlB0NTV3c1cwX1I4NjgtaGxQeHRRT01pTkhTUXlDeURxQ1lRcUNGMWZ4NklGc2swTXBhN3dvT0Z0NlVZWEJJY2VMRTNtMDhwbmhzRTJ4cVh2ZF9oUXRGeUpSaw?oc=5
+- Police detain Indian opposition leader Gandhi as protests continue to grow - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzYzMTlLVVVmMDlNOXh2VjBUZU9QamI0REFKdjBnWElhYTRPX0w4T3B5b3RRa01RbDUtd3hfYTYycWFwb1JUU3phWi1jZWJ6TE85Y1lEbkV1eUhMYUJHaHdKejdjRnFUM2
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzYzMTlLVVVmMDlNOXh2VjBUZU9QamI0REFKdjBnWElhYTRPX0w4T3B5b3RRa01RbDUtd3hfYTYycWFwb1JUU3phWi1jZWJ6TE85Y1lEbkV1eUhMYUJHaHdKejdjRnFUM2tReGJXZWJUUktWd3ppZlZIYjVhRGdiajNoMVZsTzEwT0lEQU5lbFY1cXVNZUYtczJDTlNPTTBZblB0ODhqalNlTVgwQnpGNFlsek5UQdIBuwFBVV95cUxOenFyeDZ4Ym5ORkJnR1g5cURXZTlQYUEwYzVKdWlwLW01RmZuS1dSQUFROUlSU0ZaSzlKTnJRNVV0cFBndGszN1g4eHp5Zm9WRDBWOHUyUEk0eHBYdkdsS0ctYlZVVVVlSndmUkJsUF81VUZ5SEdiTjJkclJxR0M0MDJ6RlNxSEVlNzRqZ3pWMjZNR3h6b1NPck1lSGJXenRycG81cWdtUDM5TGhZdjRXMnBmVElYUkZVaHZ3?oc=5
 
-- Students' stir: Rahul, Priyanka lead Congress protest outside PM Modi's residence; demand resignations - The Times of India
-  Students' stir: Rahul, Priyanka lead Congress protest outside PM
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPemxTRnltYksyY21adXdIN3NHN0Y1V1BzLWtTNUY4emhtMS1URWdNWEJVQThnYUNoYjFzRHplM0JMR24tM2o4bENYTFR5Wk90THlObE5ZbC1fVW51RWJlODRtcUhFbEpvVGo3VUo5UFdEeWFFRlp3SjlseENVWTV4NXpPZ2QwYm5xX1NvOWQ4TmxNT0VhVG1TTloza3ZwSGRKTUdyV2FiSURWdnJ5aUwtRGM4Vmx2cVlhcnZQNFpPQUdOMEtEVjYxVzZtc09vaEgwM0x0VUp6Qk12aTFETk9aSzVfM1lmNzNqQ3fSAe8BQVVfeXFMUDRhaVdJcHFwUGVGRUJUTFNIRHQzeEdOdUdjbE5iWHl2NVU1Tnk0cFZhSlpVd2RsbmJDaGhWUjFjQmJhTkQyNjFNTUdXRk5JLXVzQVdlMVVrVE5ia3dSUHF1SFVxT21fWnRrQ2d4bk1HbWtNeVFvR19yblpCSXJqOUNCRUM3Vzk0N1JyMnZNVGMxRnlubU5oOHdQalN1MzhveENjVVNGNkotLVJ2cWZBeWhRY0pNS2xwWXgwVjJGTk8wdHlfcEJMbkZoclhqUVZrWW4tUFhZQXdrQ0EyNjQtZ0ZkSWxXNzZ0b3dQdG41VVU?oc=5
+- "India Is Now A Solar Superpower Backed By Skilled Workforce": UN Climate Chief - NDTV
+  "India Is Now A Solar Superpower Backed By
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUw2TzVuTy10ZDAtWTY0N3lyWXBUT01US0E1ekVPODJTc2Y2bGlPMVEtbnk1Rm9PU3hZZU9iWjhZbXAzUjFudmJKMmM5Q09fdTRkajFnb3BscFBmRkRxQ2o4WktFNS1uMEItU0tBeGd5dmRNM0phYkhHTFI0NExLS284bmhydjN1eWJKbUlsNUN1bmR0YjFYNGR1U3hnZEhaanNEZVhvS3dmc2JZWmhRdHRCUWFDMGZJMW56bEVhR3k3S3lwaFRzMXhTaVlscWVy0gHYAUFVX3lxTFBqaXA2Z0twMXFSX3phTWpKRWtaakdNU1k3NFFnRklLTVdFdHkwU2lJaHN1cUJEbjZ6Yk9yczVQMHdwRWRVblo0U0tZczdJSTB6d1hFY0tpaU40dHFSZGdRamJjZVVCOWtMOXZzN3QxZndJaFdNUlhvVzhXaXA2MUtVc0dYVEUzSkNMeGROSl84Zm90ekxPWE84XzlUZk5DSXluNjItSjRWeHo0QmZtWDRKclZWelFvUUZXZy1zY2ZfWXpheEhDVVZqb3lMYVdUVXg1YXdxdnk1bQ?oc=5
 
-- "Why Is PM Silent?" Rahul Gandhi Meets Students Injured During CJP March - NDTV
-  "Why Is PM Silent?" Rahul Gandhi Meets
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM2xRZk1FSG50X2NpRlZWUnNOZXBqTUtaMTlDb3ZRd3NEdkVlMDFGVFFrNGNwSGtDcHdSVkdoalp1T0N6Z2xsTk4tb0R2VjkxbGs3Q2pNR2ZCVnhVbzlkYlpzMFZTdnMzLVE3dkFvdXpHQjMyZTVpMjZMUFFpcEZqc1dVVFlRM3NuOUxZU3pUUHVrRm1VaUY3eFJDZ2x3bkQ3bk1GeWFwdWdla2w0Y2tFbk1xVWZDanVNQjFtMnVvNzjSAcgBQVVfeXFMTmtCR3JTM1N5RWh4TU5LMHpoenJQRFZSN21USGVHU25lazhDYWlfWkRpX0QtdkpaTWxKVTljRUw2aFV3QlROeWN0TmVNc3hPWUhjMG5TUmRDSG5OcC1zT1ZEQ1NhNHF5bU9OazlYcU5EbFI0TDZ6VDUtM3gybU5uS1dtc2dVQnYxcG9HZHlabE5ZSHY3dXljMXlweG0talJidkhGSndib21Ib0o2ZDNONjhuMEZHNGlnYVVJNkJZS1pzYXB0Qk1hM3Q?oc=5
+- Martyrs' Day rally: Bury differences and unite against BJP, Mamata tells INDIA bloc parties - The Hindu
+  The Hindu reports that Mamata Mamata will attend the rally.
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkxlc0JnX20ySmpGXzVmQnF5dGE2MVZEMmRrSDBGRFFxOVExZEpMQldtR2YwWXUzWUhyYzZMdWdMZDYxVW1nMG5QQkE5TE9aVDBYajQxZkkyRElaUVRKV0tBbGhqaUZuNm1XN0VUdjBXTlRnZWNDdm1vLWhoS01UMXBVTENYZlBSTEpUVWUtYkxYMHB3TWlkTnFMQl9DUVJ5ZFZkTnNFbDdFLW81YW1ZeGdKMWt5OFEwd2fSAcABQVVfeXFMTTlPQ3Z4Zlc4SHluYklFbk12VENHUjN5TFZaQkkyQkFMVm1LSHlhOFQ0QWxTQ0FGT3hjb2FFakc2NDVhNGhkcUJnNVdFUEQ0V09La0pENlphZ1NBNHFxWFI4ajF2d09RMTI3YzBvQWllNU1oT29IOG9UZXNQV01vTDVsMGFHb3pGSmZCMVhHUjRvVVFpVDdrdmlkRjE4emhlNVRZaXFqQncxcUNka3laYmxMMms0b1E5Ykt0aFExM0VC?oc=5
 
-- Army Rescues 571 People From Flood-Hit Areas In Assam - NDTV
-  Army Rescues 571 People
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1J3MW5CV1c0R0duSU9PY3c1U0ZoeWNWY0lFUUhONksxTVpGRXcxY21DY28wWkZRVkEtVUhJb2Z4eVFaZ2Z0dkUtejNXdlJUeElkZU1lMklEeE8tM2NXa28xQkYtYmJTT19sV05rQU4xYW5HMm5PMUJ0VVJWdGlVbjN2R3pSVzVIY2YxQ2ZCR1dPSGloOUJMT2RXNnhWRWx6QkHSAaoBQVVfeXFMTV9lb2pEWDZYUWhxMzk2bXhoNWFndnV1ckFPeWZfcUpEMUtNXzhUZjgxdUNCMmdEVzZUYURwWHV3dF92LV9kVWE2bHNlTlowcGNSbGNEaVJZQ0FtUTJGN3JCTHEyTVFtaC1xd2w2U2EwMGF3Yzg5cm1lN0tKQjlBcWxxUGJHYmkzUkQxRG5McEFpb2M2VXBGXzl0S1gwdWswOXo2QnByOG45enc?oc=5
+- "Unacceptable": India Protests Deaths Of 4 Indian Sailors In Russian Attack Near Ukraine - NDTV
+  "Unacceptable": India Protests Deaths Of 4 Indian
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkJhWWFnUUF1c2VvSy1ZTTJxb29SdTh1d21FTUZmeHlrUHdYMjFZWmZEQU5NZDRZLUhVQXFTUVBjWnRKeDVpQkk1aGlxQXdpdXJCR3FXUUxmNE45VnRtNTJZQjlmVWdMem4xZnRxTF9lZEJtcmUtcnFfeXp2allEWjlPejdtWHg0OFV0dW1FMzUwWHJJdkdseXlFb2ZSbXJQN2dxWDV1X1NPOGQ2dVdKbF82embSAbwBQVVfeXFMTWRVYmZFWUxmang0bTdSeklXMWNsa3FzMDFac0p4RFZMMHNCUmxZVTBUOVQ5SFRnTHlwYkZoMDRCSS03bEhSUncwbXRsc0FuSXZUMklwLWJINUpaQlpjZzF3aDBFRk9tWU9CdzBWZ3N6RHNDRjJFXzZWSm1ubkZVbFVTMjB4SWd6Rnk5T2hOWjdjZ05pRlVPLWVYWEVBQkVNUl9COHpMUDh4RVN3dkNjTk5rMHl3Q3RQM3VYcDY?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-21 13:29:10 UTC_
+_Last updated: 2026-07-21 19:15:19 UTC_
