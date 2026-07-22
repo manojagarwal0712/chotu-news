@@ -1,224 +1,164 @@
 # 📰 Daily News Summaries
 
-- Jaishankar to meet Quad counterparts in Manila on sidelines of ASEAN meet
+- Terrorists target cops in South Kashmir, 1 policeman dead
   
-  🔗 https://indianexpress.com/article/india/jaishankar-to-meet-quad-counterparts-in-manila-on-sidelines-of-asean-meet-10797453/
+  🔗 https://indianexpress.com/article/india/terrorists-target-cops-in-south-kashmir-1-policeman-dead-10798096/
 
-- Washout in both Houses amid Opposition uproar over paper leaks, police action
+- Indian pharma sees little immediate threat in Trump’s 200% tariff plan
   
-  🔗 https://indianexpress.com/article/india/washout-in-both-houses-amid-opposition-uproar-over-paper-leaks-police-action-10797456/
+  🔗 https://indianexpress.com/article/india/indian-pharma-immediate-threat-trump-200-tariff-plan-10798054/
 
-- Future of youth beyond politics, says PM Modi, calls for ‘foolproof’ exams
+- Centre says ready to discuss NEET leak, Opposition insists on minister’s exit
   
-  🔗 https://indianexpress.com/article/india/future-of-youth-beyond-politics-says-pm-modi-calls-for-foolproof-exams-10797435/
+  🔗 https://indianexpress.com/article/india/centre-ready-neet-paper-leak-opposition-dharmendra-pradhan-exit-10798043/
 
-- Government rescinds incorrect Rajya Sabha election results notification
+- Amid Delhi protests, Vijay’s TVK demands scrapping NEET, bringing education under State List
   
-  🔗 https://indianexpress.com/article/india/government-rescinds-incorrect-rajya-sabha-election-results-notification-10797423/
+  🔗 https://indianexpress.com/article/india/vijay-tvk-scrapping-neet-state-list-delhi-protest-cjp-10798018/
 
-- Madhya Pradesh Assembly passes UCC Bill, Congress slams ‘RSS agenda’
+- 21 dead in 24 hours as floods worsen sharply in Upper Assam
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-assembly-passes-ucc-bill-congress-slams-rss-agenda-10797329/
+  🔗 https://indianexpress.com/article/india/assam-floods-death-toll-river-dikhow-10797793/
+
+- Samsung Galaxy Unpacked 2026: How to watch live event and what to expect
+  
+  🔗 https://indianexpress.com/article/technology/samsung-galaxy-unpacked-2026-date-time-livestream-fold-8-10798030/
+
+- Meta tests AI app that lets parents create personalised children’s tales
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-tests-ai-app-that-lets-parents-create-personalised-childrens-tales-10797850/
+
+- What is Buzz, Jack Dorsey’s new app to take on Slack in the AI workplace era?
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-is-buzz-jack-dorsey-block-new-app-ai-agents-10797636/
+
+- OpenAI says GPT-5.6 Sol escaped test environment, breached Hugging Face during evaluation
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-sol-hugging-face-security-incident-10797575/
 
 - OpenAI briefly hit pause on a powerful AI model before release: Here’s why
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-hit-pause-powerful-ai-model-before-release-10797149/
 
-- Viking 1 at 50: Why scientists still debate whether Nasa Mars lander found signs of life
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/viking-1-at-50-why-scientists-still-debate-whether-nasa-mars-lander-found-signs-of-life-10797097/
-
-- Roblox launches AI-powered Build tool, expands Hindi support across platform
-  
-  🔗 https://indianexpress.com/article/technology/gaming/roblox-launches-ai-powered-build-tool-expands-hindi-support-across-platform-10796900/
-
-- Samsung launches first Galaxy credit card with up to 5% cash rewards
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-launches-first-galaxy-credit-card-with-up-to-5-cash-rewards-10796965/
-
-- Google is building an AI fence around the internet it once championed
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-is-building-an-ai-fence-around-the-internet-it-once-championed-10796607/
-
-- Months after  ₹6k crore IPO, Raajmarg Infra mulls another share sale
-  The trust, which is backed by the government, is considering a qualified institutional placement or a follow-on public offer.
-  🔗 https://www.livemint.com/companies/months-after-6k-crore-ipo-raajmarg-infra-mulls-another-share-sale-11784619272739.html
-
-- Indian conglomerates' new pitch to foreign investors: Build with us from day one
-  India's largest business groups are increasingly bringing in foreign equity partners at the outset to share risk and reduce capital outlay.
-  🔗 https://www.livemint.com/companies/news/indian-conglomerates-new-pitch-to-foreign-investors-build-with-us-from-day-one-tcs-jsw-steel-adani-11784017795414.html
-
-- Man Tied to $100 Million NJ Deli Scam Gets 21 Months in Prison
-  A twice-convicted felon helped orchestrate a scheme to inflate the value of a small New Jersey delicatessen to more
-  🔗 https://www.livemint.com/companies/man-tied-to-100-million-nj-deli-scam-gets-21-months-in-prison-11784661468975.html
-
-- Jamie Dimon says AI spending will pay off—but 'definitely not' on the timeline you expect
-  JPMorgan CEO Jamie Dimon expresses cautious optimism about AI investments. But he warns against complacency due to geopolitical and fiscal risks.
-  🔗 https://www.livemint.com/companies/people/jamie-dimon-says-ai-spending-will-pay-off-but-definitely-not-on-the-timeline-you-expect-11784646685784.html
-
-- Mahindra Finance Q1 profit jumps 75% to  ₹927 crore on higher interest margin, lower provisions
-  Mahindra and Mahindra Financial Services reported a 75% jump in its consolidated net profit at  ₹927 crore in
-  🔗 https://www.livemint.com/companies/company-results/mahindra-finance-service-q1-fy27-profit-jumps-75-pc-rs-927-crore-higher-interest-margin-lower-provisions-raul-rebell-11784648850440.html
-
-- Oil Extends Gain as Trump Cools Prospects for Talks With Iran
-  Risks to global supply spread beyond the Middle East to the Black Sea. President Donald Trump played down the prospect of near-term talks with Iran
-  🔗 https://www.livemint.com/market/oil-extends-gain-as-trump-cools-prospects-for-talks-with-iran-11784685737069.html
-
-- High Yielders Pace Emerging-Market Currency Gains, Stocks Jump
-  Emerging-market currencies were mixed on Tuesday. High-yielding names outperforming as investors looked past the
-  🔗 https://www.livemint.com/market/highyielderspace-emerging-market-currency-gains-stocks-jump-11784685558105.html
-
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 22 July
-  Gift Nifty was trading around 24,109 level, a discount of nearly 72 points from the Nifty futures’ previous close. The trends on Gift Nifty also
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-22-july-11784684752271.html
-
-- Asian stocks today: Kospi, Nikkei jump up to 6% led by rally in semiconductor stocks
-  South Korea led regional gains, with the Kospi surging around 6
-  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-jump-up-to-6-led-by-rally-in-semiconductor-stocks-11784683996469.html
-
-- Korean Stocks Jump as Brokers Say Margin Unwind Nearing End
-  South Korean stocks jumped, as the unwinding of leveraged bets that helped drive the benchmark nearly 30%
-  🔗 https://www.livemint.com/market/korean-stocks-jump-as-brokers-say-margin-unwind-nearing-end-11784684817875.html
-
-- OpenAI says its AI technology acted on its own in an unprecedented hack of another company
-  OpenAI says its AI technology acted on its own in
-  🔗 https://www.livemint.com/technology/openai-says-its-ai-technology-acted-on-its-own-in-an-unprecedented-hack-of-another-company-11784677523922.html
-
-- Private mission launches to extend life of out-of-gas communication satellites
-  Private mission launches to extend
-  🔗 https://www.livemint.com/technology/private-mission-launches-to-extend-life-of-out-of-gas-communication-satellites-11784672121299.html
-
-- French lawmakers approve a sweeping social media ban for children under 15
-  French lawmakers approve a sweeping social media
-  🔗 https://www.livemint.com/technology/french-lawmakers-approve-a-sweeping-social-media-ban-for-children-under-15-11784662138691.html
-
-- Meta to alert parents if teens show signs of distress while chatting with its AI
-   Meta said it is developing capabilities to contact emergency services if any user, teen or adult, shows imminent risk of suicide in
-  🔗 https://www.livemint.com/technology/tech-news/meta-to-alert-parents-if-teens-show-signs-of-distress-while-chatting-with-its-ai-11784637682899.html
-
-- Indian startup unveils AI-powered virtual clothes try-on app, set to debut next month
-  My Wardrobe generates a digital twin from selfies for photorealistic clothing previews
-  🔗 https://www.livemint.com/technology/tech-news/indian-startup-unveils-ai-powered-virtual-clothes-try-on-app-set-to-debut-next-month-11784637424238.html
-
-- Stock Market Today: Nasdaq Rises on Chip Stock Gains, Oil Climbs — Live Updates - WSJ
-  Stock Market Today: Nasdaq Rises on Chip Stock G
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQLU9uMU51VFFmNFk1emNfOGZYdkhOcXVSWExZOE9JYVBFczA3OXhtdGhrQ2JtNEpqSVVzRG5tbnFYNVh5OXRUVFF3SE5pQl9SWmx1TUJWQ1luanBOb0JULWtOMGk5WS02eUg1X2FmVTBPQmktaTd2c1JnbXRaNnNIRlhFVFBBUTQ?oc=5
-
-- Dow gains nearly 400 points; S&P 500 snaps 3-day losing run as chip stocks rise - CNBC
-  Dow gains nearly 400 points; S&amp;P 500
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1XLTNzMWtVbDdoSXZNQllWbm5QbU5Eb0ZISWlMb3E3SHdJWWxkcUk2bWVBR2F2UWczSzg1LW43Wk4wZDBHRWNDRXh1REFhMEtvZWdyQ1lpV0ZlYi1jb0l6cVVlaFdSTktfWGh1RlRpd0hxbnFzdFZF0gF8QVVfeXFMTWlHUmFxaUZ4Q3BUeEtZcy1ZUjgzZzNHRGY3bXhHTmdTb2Q3Um9YZ19hbWN2cWl6ellJekdKSmFOdlV1R1JCRC1MeHJhQzJIOVlhbEtQajBJeTNvaXFiQWs5bDhENWNHSUV5OXEybVY0enFWcHV2M1BmRXRBLQ?oc=5
-
-- Stock futures are little changed as investors gear up for more earnings: Live updates - CNBC
-  Stock futures are little changed as investors gear up for more earnings
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBnWVpRdDA3N19hRFZ5YXlwMFpUSV9YSFoySmxBZ0hpd3hwSjA5RVBxYzRLeHpnaVRIMG5kRXRQQy1vRzVobFNNOWZEVkw5Q0ZMNUlzek1tLXdIeEtXdUI3dmtUMjhOaUo3dzB4UWdMNi1ubE9YUXQ40gF8QVVfeXFMTm5PVndmalk3d08zMTFyTGxydGJRM0pnUmVhcGxFNkZoYWNEaDVqQ2lxRjlXLXJGSndsUjFKWlV2N09sQWVpRmR2cmIyODB3YjdVY2JBUHpHWGJ5ejRMM2stZ0RyT3NYWkNleF9MMXRmOXNtaDM3TkdXMWJVcw?oc=5
-
-- Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices - CNBC
-  Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNVkZ1cVZGZjkwUi14MWc3Q1JKckRkU19qSWs4WjdhZ1BMTEl1MXFRMEtCSFNvRjVRV1doODI2WE1Nd0FJT0FRd0R6QzJRRTNPZjlWTE5VZVU5VFdwS0Z6c2ZoaGxRV3Vkb0cxbnd0dEZ3X09nTkxlX0ZlcV8wdHRKY0RBN0x1Z9IBiwFBVV95cUxNX21adE1LSlcwaWg1Smk2SlNkM1FkSXh0WHE5RDlBQVRWRXNnRzhvVmkzSHQ4QVRrQkVobkM4Ui1YUHJCMzhVWFY5clp6Y2c1a0JwdThzRkZYWGl5ZUtZOUpRcE1nZFNYdklOMUdYams1WHFHR2szSkdSbV9fSVo5VFpwcWx6d1RvUmh3?oc=5
-
-- Stock Market Highlights, Sensex Today: Sensex Closes 440 Points Lower As Oil Tops $90 Amid US-Iran War - NDTV
-  Sensex Closes 440 Points Lower As Oil Tops $90 Amid US
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxORnFZYlB1TWlMTlh1cDRuYlpjTWxlejFSQzl4S1JVNHdYanhadks5LUptYUdKcWdFbmNKdnJ0OC15cmNRNGdTUGFvYldkU1hOVzNNU3VUVEhmN0R5QVdubUdiVjNLUzlDZ0hfcEdjZFpMYkY3VlZ6eWV3c09Nd0hJNlFEa2hfYmJrM21TNmlZV25SWGNJZTFnSTJlYlFOOVU0dzJnZ3hOdjBwX3VjZU9JY2lGaUZFdjBUd1Vyb0NtRzJRSElfaW9zVjJRYm7SAdQBQVVfeXFMTldidVprZ0YwSnZkSDZWNnFRcXBjMXdja2tpNVdxMzNfakhlQUpBUkdyLTNEMVh4RnJjdDlLLUU0b1RGejB0TnhPRURjZTZMV1Eyb2JPTWloR2trRzdWRFViRVg0ZTJmaHo0SmtreThqX0h2ZG92dzdfek5IYkl3X2lsd3BJZmg4cFdUVm1kRkdSMzE1NlBwcnJHNlNyRGJyOVJ4OVpYVG12V2FtdTNkYWE4SU5tZXAwRU1aZnpEUHVyMVlrM3BQMVRkX3pBV3RGQ2JkNzM?oc=5
-
-- Yen slides past 163, raising intervention alert
-  The yen is near a four-decade low as the dollar strengthens broadly. Rising oil prices and U.S. Treasury yields are supporting the dollar's safe-haven status. The euro and Australian dollar are holding their ground against the
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-slides-past-163-raising-intervention-alert/articleshow/132549452.cms
-
-- Oil prices rise slightly after US announces new round of strikes on Iran
-  U.S. forces continued striking Iranian military targets for the eleventh night. Kuwait reported intercepting Iranian drones, intensifying concerns over energy supplies. Fears of further disruptions to global energy markets.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran/articleshow/132549431.cms
-
-- Sebi directs depositories to freeze promoter holdings during buyback period, new rules explained
-  Sebi has directed depositories to freeze promoter holdings during company buyback periods. Promoters can still participate in buybacks through the tender offer route. Depositories must implement these operational systems by August 1.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-directs-depositories-to-freeze-promoter-holdings-during-buyback-period-new-rules-explained/articleshow/132549187.cms
-
-- London Stock Exchange to start nonstop trading next year
-  The London Stock Exchange will introduce LSE 24, a new venue for extended trading hours. This initiative aims to offer near-continuous trading, competing with cryptocurrency platforms.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/lse-to-start-nonstop-trading-next-year/articleshow/132549150.cms
-
-- Global Market Today: Asian stocks advance on tech rally, yen weakens
-  Asian stocks climbed for a second day, led by chipmakers. The Kospi Index saw a significant jump, reflecting AI investment optimism. Investors now await earnings from Alphabet and Tesla for further market direction.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-advance-on-tech-rally-yen-weakens/articleshow/132549156.cms
-
-- India’s Cockroach protests: Rahul Gandhi detained after calling for PM Modi to resign - The Guardian
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNF
+- India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi - The Guardian
+  India’s Rahul Gandhi briefly detained as
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
 
-- India condemns attack on vessel MV GOLDEN LEO - News On AIR
-  India condemns attack on vessel MV GOLDEN
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE0zMkFXQk4yQXp0N1BqN2dNY2FJWm96MklTeTdEekc2cmU5cVNYUXotTWVfX3h2SmVPN2pFcS1UY0RBNWl0VGlPUnBBOTNpcnR5STd6eVVZNkpYMnVUSUN3QnUxeTBuSU1GcWU0Y25MeXlsMS1iQXhuaU9Gaw?oc=5
+- Police detain Indian opposition leader Gandhi as protests continue to grow - Al Jazeera
+  The protests in India continue to grow. Police detain
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzYzMTlLVVVmMDlNOXh2VjBUZU9QamI0REFKdjBnWElhYTRPX0w4T3B5b3RRa01RbDUtd3hfYTYycWFwb1JUU3phWi1jZWJ6TE85Y1lEbkV1eUhMYUJHaHdKejdjRnFUM2tReGJXZWJUUktWd3ppZlZIYjVhRGdiajNoMVZsTzEwT0lEQU5lbFY1cXVNZUYtczJDTlNPTTBZblB0ODhqalNlTVgwQnpGNFlsek5UQdIBuwFBVV95cUxOenFyeDZ4Ym5ORkJnR1g5cURXZTlQYUEwYzVKdWlwLW01RmZuS1dSQUFROUlSU0ZaSzlKTnJRNVV0cFBndGszN1g4eHp5Zm9WRDBWOHUyUEk0eHBYdkdsS0ctYlZVVVVlSndmUkJsUF81VUZ5SEdiTjJkclJxR0M0MDJ6RlNxSEVlNzRqZ3pWMjZNR3h6b1NPck1lSGJXenRycG81cWdtUDM5TGhZdjRXMnBmVElYUkZVaHZ3?oc=5
 
-- "Unacceptable": India Protests Deaths Of 4 Indian Sailors In Russian Attack Near Ukraine - NDTV
-  "Unacceptable": India Protests Deaths Of 4 Indian
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkJhWWFnUUF1c2VvSy1ZTTJxb29SdTh1d21FTUZmeHlrUHdYMjFZWmZEQU5NZDRZLUhVQXFTUVBjWnRKeDVpQkk1aGlxQXdpdXJCR3FXUUxmNE45VnRtNTJZQjlmVWdMem4xZnRxTF9lZEJtcmUtcnFfeXp2allEWjlPejdtWHg0OFV0dW1FMzUwWHJJdkdseXlFb2ZSbXJQN2dxWDV1X1NPOGQ2dVdKbF82embSAbwBQVVfeXFMTWRVYmZFWUxmang0bTdSeklXMWNsa3FzMDFac0p4RFZMMHNCUmxZVTBUOVQ5SFRnTHlwYkZoMDRCSS03bEhSUncwbXRsc0FuSXZUMklwLWJINUpaQlpjZzF3aDBFRk9tWU9CdzBWZ3N6RHNDRjJFXzZWSm1ubkZVbFVTMjB4SWd6Rnk5T2hOWjdjZ05pRlVPLWVYWEVBQkVNUl9COHpMUDh4RVN3dkNjTk5rMHl3Q3RQM3VYcDY?oc=5
+- India opposition leader Gandhi freed after detention at student-led protest - Al Jazeera
+  India opposition leader Gandhi freed after detention at student
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2tIbGdNam5oT2syclg2NkRkRmJ4RVZSdTdaWWZlWFVKRmdzYzlFZ0VaTlVnZjZIRVoxTVJaTy1peEJNT3pnU1VXOWtsc2NLRFc4aGZmTnpLN2VnOGQtdE1UZHdDTEhScHQ0cF9tSzVOUlRJOUdDVDV6NTAxY3JFRHQxSVRVLThVbk1XZG1admFhQ19TbmJIMnhjMl9hcEpFaXJRTlRYUFhScXkzTzVhZFY1ZVJ6eXPSAbwBQVVfeXFMUEQ4UXZrS1JnRVgzdllwMDdFZWhZcnFaUmJyVTFuZE1IQkotdzloY1pRSzZJQlo5Y1VreHVpdkw2QS0taGhORnAwMFBNdHlSa0syaENoeGlLcUFHVElfel9pMldqMUE1WXNaSS1aX2xhb2h2MTJDX3dYeGFTQ3lLM0RPSHk5MWl6MjM1SGlUV244VUFKakVpcXBjUEh1NUlBMEdSZ3FTaC1pXzF1SWFfX1ZDbXd3bVlGV3RNazc?oc=5
 
-- 'In touch with Indian partners': Kremlin's response after Indian seafarers killed in Russian strike | India News - Hindustan Times
-  'In touch with Indian partners': Kremlin's response after Indian seafarers killed in
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnVRYkU2bTJnMkFIMUpvcUlXOTloUFVBNXFCMUNqSV9EMW5LaFh6U093eVQ3TFRaLUVVWEJiMnJyZUliR2lrZzdpQ2dXbU5rNGtHbTJOMHZKS2ExbEd2a3piU1lZS2Q2QUhiOUowOExMWjlSams0eVdZQzBvdVMwVWd2Qnc3MW9uanpZOWQ3cWluVHRpNTRMT05vekJlWEd3Y1pqMFN6MDhJZjFPSUdxODMzVF9iZWRERDVpSmpOb2twcjVIaDZPWnkxMExpaDNGYnhybHFHdkxpV1FHc05RTDYyaDRwRkZtZmxIZ1EtTXB5eTJLRlU1Q011Q0FIUdIBgwJBVV95cUxOaHJFZU9aOXhlb0RocGRFcm9VdHBMc2ZmeW5PX2JJTnF2b0hPWF9DUXoxUnFvSlI3c0czNmd2ZGZKclAySWNWNENLTXcwWF84MzF2TEMzY2ZvUktabnR6b2IxTEtIZGdkSzhGZVNqdnRuNHVjMWI2YklfeFNKVEN3ZHRLWXEtOHlRWV9Xa1hnaU1oZHhCYnhGR29XUk4zQWhtS2IxQi1kZzRzWmFjTXJxMUdtWnhNVjdUMmFNZ0E1UHZrRGkwNzRGLWZ6aE84aDNocTRWNkNWcjd0b25QZlFnTDB4S3ZXWWN5SU1MYnFmZllaYVVOQlhuQXVMekczMVl4T05n?oc=5
+- Policeman Shot Dead In Terror Attack In Jammu And Kashmir's Anantnag - NDTV
+  Policeman shot dead in terror attack in
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc05BR2ZUQy10ZERMaVBHMFJ4aDZ2ZkZjei1RUGtJbnJKMmtraVZzM1VuMGgySXZ1RlBiT3pFRWdkT0dfcjlBRlExbXM4Z2FYV2ZlcG5kTTlNalJmWG4tZEMxY1k4NFViaGVYdjV6ZUxVaTlqVkVVek03YmhYZjdyZFZpMElEdzFiWE5uWW5qYkI4eTZmajJPcnlsUjBrQWItY0Y0TE9lbEd1Z9IBsgFBVV95cUxPdTREQ2FXbjBrc09NaXAySGtxZnA3Mk9SdUtodHdkOHNhdkZuLTJQcVpUY1ExQ2hFaFFROG5zZEg4WnB5YlVNVXBCTVhxZzcyN25JWE9pOHU0Zk42TlFUTi1lQzdrRkNJVlBrSUxrRnZJZnRxUnAwT3hJSEota3ljVlhFaEppVVNQNFU4Ry1kREVpN2UxRlZPUjZUVl9KdWJRTjNYaTNTbDFvVTVLSTV3Mzln?oc=5
 
-- 0%, 100%, 200%: Trump's New Generic Drug Tariff Plan May Impact India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWozNlBZdVliVGJheUFkSFdPQUJIZmpseWFxYkhMd3ZxMWEteDd3cFVxdU1ETHIxNmJQZGFfVERfSUtUSVF1UFZUTWt6RHVYY3F4bVJSa29xZVdmWWNmSHFOTFFfSW9ONWhlSUtRaUZDSERMM1VpU2FLTDlyUEZFVWJNTDBUUzBIYnY1Z3dyQjQya0p1NHV2RHZBWXVNX1Jyb3VlYUFxQ0FfVVlENTByNWJFM1g5cWhLcDBGOXJydmlqZUhlOW5DTmZ30gHSAUFVX3lxTE1nN1VqMlFVYlkzbnczcW1McURycVFQLUpKQWR1cnlIdS02bGs4elVwZkFMUHVzbndTUzhPN25OQU80T1V2anlOTHBmaE85azNsMlYxbW1iTlFlSnVTSUNrS3c2bTVjeHd6NmtldXA0ekRWa29vZnNEc3d3NDZEc2YxeUkzYTZtZEJfTmxNMi1ucGJYWWI4dHdjcG9JTlZuMlhRWm4wUVlweEpFN1BvSDdURXZkNU4tWXB4Q3RyYVptQTBHNnFBc0hGVlgzajY3QU5sUQ?oc=5
+- CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown - BBC
+  &nbsp;&ngt;& nbsp;<font color="#6f6f 6f" target="_blank">BBC.com/rss/articles/CBMiW
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSlhTal84WnZOQjQtS0g4bjFldE1xTFhNc2ZmREctZi1Bd0p5Q1IzSk5WZ3llNno1ZFFLS2M2WFRIMkEzSHhaV0lXcktrd3lIMzQ5dzZFb1lFQQ?oc=5
 
-- InMobi Ropes In Four Bankers To Helm Its $1 Bn IPO
-  InMobi’s initial public offering (IPO) is back on track. The adtech unicorn has now reportedly appointed four merchant bankers.
-  🔗 https://inc42.com/buzz/inmobi-ropes-in-four-bankers-to-helm-its-1-bn-ipo/
+- Gold, Silver Outlook: Investors cautious on gold, silver in no trade zone - Key levels to watch
+  The outlook for gold and silver remains cautious as geopolitical tensions and rising inflation from oil prices weigh on prices. Future movements will hinge on the U.S.-Iran conflict and signals from US Fed upcoming meeting
+  🔗 https://www.livemint.com/market/commodities/gold-silver-outlook-investors-cautious-on-gold-price-silver-price-in-no-trade-zone-key-levels-to-watch-11784702238161.html
 
-- Paytm Eyes New Horizons With Enterprise AI & Wallet Revival
-  Nearly two years after shifting its focus from chasing scale to building a profitable fintech business, Paytm is now laying&#8230;.
-  🔗 https://inc42.com/buzz/paytm-eyes-new-horizons-with-enterprise-ai-wallet-revival/
+- Bharat Coking Coal share price crashes 7% after Q1FY27 results
+   PSU stock Bharat Coking Coal opened at  ₹36.07 apiece today. The stock touched an intraday
+  🔗 https://www.livemint.com/market/stock-market-news/bharat-coking-coal-share-price-crashes-7-after-q1fy27-results-11784704043721.html
 
-- IndiaMART Q1: Profit Rises 12% YoY To ₹172 Cr, Plans Lending Foray
-  B2B ecommerce company IndiaMART InterMESH reported a 12% increase in its consolidated net profit to ₹172.2 Cr.
-  🔗 https://inc42.com/buzz/indiamart-q1-profit-rises-12-yoy-to-%e2%82%b9172-cr-plans-lending-foray/
+- Strong Q1 aside, Paytm needs AI revenue to unlock further upside
+  Paytm posted strong June-quarter results with robust payments growth, higher margins and tighter costs. But sustained stock re-rating will
+  🔗 https://www.livemint.com/market/mark-to-market/paytm-one-97-communications-q1fy27-ai-tools-monetization-mdr-upi-payments-gmv-ebitda-paytm-money-groww-zerodha-11784701697143.html
 
-- Can Cent’s One-Scan Protocol Outdo India’s Legacy Preventive Healthcare Players?
-  Can Cent&#039;s One-Scan Protocol Outdo India's Legacy Preventive Healthcare Players?
-  🔗 https://inc42.com/startups/can-cents-one-scan-protocol-outdo-indias-legacy-preventive-healthcare-players/
+- CJP protest in Delhi Jantar Mantar: Why India can't afford this crisis to last long amid US-Iran war? Explained
+  Experts believe that prolonged protests could jeopardise foreign investment. They highlight the importance of political stability
+  🔗 https://www.livemint.com/market/stock-market-news/cjp-protest-in-delhi-jantar-mantar-why-india-cant-afford-this-crisis-to-last-long-amid-us-iran-war-explained-11784701735525.html
 
-- Zaggle To Acquire 20% Stake In Unobanc To Bolster Cross-Border Payments
-  Fintech SaaS company Zaggle Prepaid Ocean Services plans to invest up to ₹7.97 Cr in Un
-  🔗 https://inc42.com/buzz/zaggle-to-acquire-20-stake-in-unobanc-to-bolster-cross-border-payments/
+- Cube Highways Trust InvIT IPO opens today; check latest GMP, subscription status, review, key details
+   Cube Highways Trust InvIT IPO opens on July 22 and closes on July 24. It raised  ₹1,687.5 crore from anchor investors, including
+  🔗 https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-opens-today-cube-highways-trust-invit-ipo-gmp-subscription-status-review-key-details-11784701460610.html
 
-- India’s Cockroach protests: Rahul Gandhi detained after calling for PM Modi to resign - The Guardian
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNF
+- Vikas Khemani’s Carnelian Asset Management receives SEBI approval for mutual fund business
+  Carnelian Asset Management &amp; Advisors, founded by market veteran Vikas Khemani, received SEBI approval to launch its mutual fund business. The move will allow the firm to offer active and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vikas-khemanis-carnelian-asset-management-receives-sebi-approval-for-mutual-fund-business/articleshow/132553969.cms
+
+- HFCL's X-factor is defence &amp; aerospace? Deven Choksey sees another 66% upside potential, here's why
+  HFCL shares have surged over 250% in six months. Deven Choksey Research believes the rally is far from over. The brokerage initiated coverage with a Buy rating.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hfcls-x-factor-is-defence-aerospace-deven-choksey-sees-another-66-upside-potential-heres-why/articleshow/132553438.cms
+
+- Canara Robeco Asset Management shares rally 13% after Q1FY27 profit jumps 24% YoY
+  Canara Robeco Asset Management shares jumped after the company reported a strong Q1FY27. Revenue from operations rose 20% YoY to ₹116.2 crore, boosting investor confidence.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/canara-robeco-asset-management-shares-rally-13-after-q1fy27-profit-jumps-24-yoy/articleshow/132553298.cms
+
+- Cube Highways Trust InvIT raises Rs 1,687 crore from Premji Invest, other anchor investors ahead of its IPO
+   Cube Highways Trust InvIT raised Rs 1,687.5 crore from anchor investors ahead of its Rs 5,000-crore public issue opening on July 22. Backed by marquee institutional investors, the issue is
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-invit-raises-rs-1687-crore-from-premji-invest-other-anchor-investors-ahead-of-its-ipo/articleshow/132553162.cms
+
+- Anant Raj demerger: Data centre arm to spin out as separate listed company, what lies ahead for 4 lakh shareholders
+  Anant Raj will demerge its data centre and cloud businesses into a separately listed entity. Eligible shareholders will receive two Ashok Cloud shares for every Anant Raj share held.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/anant-raj-demerger-data-centre-arm-to-spin-out-as-separate-listed-company-what-lies-ahead-for-4-lakh-shareholders/articleshow/132553061.cms
+
+- India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi - The Guardian
+  India’s Rahul Gandhi briefly detained as
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
 
-- India condemns attack on vessel MV GOLDEN LEO - News On AIR
-  India condemns attack on vessel MV GOLDEN
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE0zMkFXQk4yQXp0N1BqN2dNY2FJWm96MklTeTdEekc2cmU5cVNYUXotTWVfX3h2SmVPN2pFcS1UY0RBNWl0VGlPUnBBOTNpcnR5STd6eVVZNkpYMnVUSUN3QnUxeTBuSU1GcWU0Y25MeXlsMS1iQXhuaU9Gaw?oc=5
+- Police detain Indian opposition leader Gandhi as protests continue to grow - Al Jazeera
+  The protests in India continue to grow. Police detain
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzYzMTlLVVVmMDlNOXh2VjBUZU9QamI0REFKdjBnWElhYTRPX0w4T3B5b3RRa01RbDUtd3hfYTYycWFwb1JUU3phWi1jZWJ6TE85Y1lEbkV1eUhMYUJHaHdKejdjRnFUM2tReGJXZWJUUktWd3ppZlZIYjVhRGdiajNoMVZsTzEwT0lEQU5lbFY1cXVNZUYtczJDTlNPTTBZblB0ODhqalNlTVgwQnpGNFlsek5UQdIBuwFBVV95cUxOenFyeDZ4Ym5ORkJnR1g5cURXZTlQYUEwYzVKdWlwLW01RmZuS1dSQUFROUlSU0ZaSzlKTnJRNVV0cFBndGszN1g4eHp5Zm9WRDBWOHUyUEk0eHBYdkdsS0ctYlZVVVVlSndmUkJsUF81VUZ5SEdiTjJkclJxR0M0MDJ6RlNxSEVlNzRqZ3pWMjZNR3h6b1NPck1lSGJXenRycG81cWdtUDM5TGhZdjRXMnBmVElYUkZVaHZ3?oc=5
 
-- "Unacceptable": India Protests Deaths Of 4 Indian Sailors In Russian Attack Near Ukraine - NDTV
-  "Unacceptable": India Protests Deaths Of 4 Indian
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkJhWWFnUUF1c2VvSy1ZTTJxb29SdTh1d21FTUZmeHlrUHdYMjFZWmZEQU5NZDRZLUhVQXFTUVBjWnRKeDVpQkk1aGlxQXdpdXJCR3FXUUxmNE45VnRtNTJZQjlmVWdMem4xZnRxTF9lZEJtcmUtcnFfeXp2allEWjlPejdtWHg0OFV0dW1FMzUwWHJJdkdseXlFb2ZSbXJQN2dxWDV1X1NPOGQ2dVdKbF82embSAbwBQVVfeXFMTWRVYmZFWUxmang0bTdSeklXMWNsa3FzMDFac0p4RFZMMHNCUmxZVTBUOVQ5SFRnTHlwYkZoMDRCSS03bEhSUncwbXRsc0FuSXZUMklwLWJINUpaQlpjZzF3aDBFRk9tWU9CdzBWZ3N6RHNDRjJFXzZWSm1ubkZVbFVTMjB4SWd6Rnk5T2hOWjdjZ05pRlVPLWVYWEVBQkVNUl9COHpMUDh4RVN3dkNjTk5rMHl3Q3RQM3VYcDY?oc=5
+- India opposition leader Gandhi freed after detention at student-led protest - Al Jazeera
+  India opposition leader Gandhi freed after detention at student
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2tIbGdNam5oT2syclg2NkRkRmJ4RVZSdTdaWWZlWFVKRmdzYzlFZ0VaTlVnZjZIRVoxTVJaTy1peEJNT3pnU1VXOWtsc2NLRFc4aGZmTnpLN2VnOGQtdE1UZHdDTEhScHQ0cF9tSzVOUlRJOUdDVDV6NTAxY3JFRHQxSVRVLThVbk1XZG1admFhQ19TbmJIMnhjMl9hcEpFaXJRTlRYUFhScXkzTzVhZFY1ZVJ6eXPSAbwBQVVfeXFMUEQ4UXZrS1JnRVgzdllwMDdFZWhZcnFaUmJyVTFuZE1IQkotdzloY1pRSzZJQlo5Y1VreHVpdkw2QS0taGhORnAwMFBNdHlSa0syaENoeGlLcUFHVElfel9pMldqMUE1WXNaSS1aX2xhb2h2MTJDX3dYeGFTQ3lLM0RPSHk5MWl6MjM1SGlUV244VUFKakVpcXBjUEh1NUlBMEdSZ3FTaC1pXzF1SWFfX1ZDbXd3bVlGV3RNazc?oc=5
 
-- 'In touch with Indian partners': Kremlin's response after Indian seafarers killed in Russian strike | India News - Hindustan Times
-  'In touch with Indian partners': Kremlin's response after Indian seafarers killed in
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnVRYkU2bTJnMkFIMUpvcUlXOTloUFVBNXFCMUNqSV9EMW5LaFh6U093eVQ3TFRaLUVVWEJiMnJyZUliR2lrZzdpQ2dXbU5rNGtHbTJOMHZKS2ExbEd2a3piU1lZS2Q2QUhiOUowOExMWjlSams0eVdZQzBvdVMwVWd2Qnc3MW9uanpZOWQ3cWluVHRpNTRMT05vekJlWEd3Y1pqMFN6MDhJZjFPSUdxODMzVF9iZWRERDVpSmpOb2twcjVIaDZPWnkxMExpaDNGYnhybHFHdkxpV1FHc05RTDYyaDRwRkZtZmxIZ1EtTXB5eTJLRlU1Q011Q0FIUdIBgwJBVV95cUxOaHJFZU9aOXhlb0RocGRFcm9VdHBMc2ZmeW5PX2JJTnF2b0hPWF9DUXoxUnFvSlI3c0czNmd2ZGZKclAySWNWNENLTXcwWF84MzF2TEMzY2ZvUktabnR6b2IxTEtIZGdkSzhGZVNqdnRuNHVjMWI2YklfeFNKVEN3ZHRLWXEtOHlRWV9Xa1hnaU1oZHhCYnhGR29XUk4zQWhtS2IxQi1kZzRzWmFjTXJxMUdtWnhNVjdUMmFNZ0E1UHZrRGkwNzRGLWZ6aE84aDNocTRWNkNWcjd0b25QZlFnTDB4S3ZXWWN5SU1MYnFmZllaYVVOQlhuQXVMekczMVl4T05n?oc=5
+- Policeman Shot Dead In Terror Attack In Jammu And Kashmir's Anantnag - NDTV
+  Policeman shot dead in terror attack in
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc05BR2ZUQy10ZERMaVBHMFJ4aDZ2ZkZjei1RUGtJbnJKMmtraVZzM1VuMGgySXZ1RlBiT3pFRWdkT0dfcjlBRlExbXM4Z2FYV2ZlcG5kTTlNalJmWG4tZEMxY1k4NFViaGVYdjV6ZUxVaTlqVkVVek03YmhYZjdyZFZpMElEdzFiWE5uWW5qYkI4eTZmajJPcnlsUjBrQWItY0Y0TE9lbEd1Z9IBsgFBVV95cUxPdTREQ2FXbjBrc09NaXAySGtxZnA3Mk9SdUtodHdkOHNhdkZuLTJQcVpUY1ExQ2hFaFFROG5zZEg4WnB5YlVNVXBCTVhxZzcyN25JWE9pOHU0Zk42TlFUTi1lQzdrRkNJVlBrSUxrRnZJZnRxUnAwT3hJSEota3ljVlhFaEppVVNQNFU4Ry1kREVpN2UxRlZPUjZUVl9KdWJRTjNYaTNTbDFvVTVLSTV3Mzln?oc=5
 
-- 0%, 100%, 200%: Trump's New Generic Drug Tariff Plan May Impact India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWozNlBZdVliVGJheUFkSFdPQUJIZmpseWFxYkhMd3ZxMWEteDd3cFVxdU1ETHIxNmJQZGFfVERfSUtUSVF1UFZUTWt6RHVYY3F4bVJSa29xZVdmWWNmSHFOTFFfSW9ONWhlSUtRaUZDSERMM1VpU2FLTDlyUEZFVWJNTDBUUzBIYnY1Z3dyQjQya0p1NHV2RHZBWXVNX1Jyb3VlYUFxQ0FfVVlENTByNWJFM1g5cWhLcDBGOXJydmlqZUhlOW5DTmZ30gHSAUFVX3lxTE1nN1VqMlFVYlkzbnczcW1McURycVFQLUpKQWR1cnlIdS02bGs4elVwZkFMUHVzbndTUzhPN25OQU80T1V2anlOTHBmaE85azNsMlYxbW1iTlFlSnVTSUNrS3c2bTVjeHd6NmtldXA0ekRWa29vZnNEc3d3NDZEc2YxeUkzYTZtZEJfTmxNMi1ucGJYWWI4dHdjcG9JTlZuMlhRWm4wUVlweEpFN1BvSDdURXZkNU4tWXB4Q3RyYVptQTBHNnFBc0hGVlgzajY3QU5sUQ?oc=5
+- CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown - BBC
+  &nbsp;&ngt;& nbsp;<font color="#6f6f 6f" target="_blank">BBC.com/rss/articles/CBMiW
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSlhTal84WnZOQjQtS0g4bjFldE1xTFhNc2ZmREctZi1Bd0p5Q1IzSk5WZ3llNno1ZFFLS2M2WFRIMkEzSHhaV0lXcktrd3lIMzQ5dzZFb1lFQQ?oc=5
 
-- India’s Cockroach protests: Rahul Gandhi detained after calling for PM Modi to resign - The Guardian
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNF
+- Smartworks Posts ₹13 Cr Profit In Q1, Revenue Zooms 44% YoY To ₹546 Cr
+  Coworking space provider Smartworks posted a consolidated net profit of ₹13.1 Cr in the first quarter of FY27 as against&#8230;.
+  🔗 https://inc42.com/buzz/smartworks-posts-%e2%82%b913-cr-profit-in-q1-revenue-zooms-44-yoy-to-%e2%82%b9546-cr/
+
+- Orbit Achieved, Scale Pending: Why India’s Space Startups Need State-Backed Capital
+  Vikram-1 reached orbit on its very first attempt, having raised roughly $150 Mn across its entire life.
+  🔗 https://inc42.com/resources/orbit-achieved-scale-pending-why-indias-space-startups-need-state-backed-capital/
+
+- Bira 91 Founder Ankur Jain Steps Down, Gives Up 17.8% Stake In Settlement
+  Ankur Jain, the founder of Bira 91 parent B9 Beverages, has stepped down from the board and relinquished executive
+  🔗 https://inc42.com/buzz/bira-91-founder-ankur-jain-steps-down-gives-up-17-8-stake-in-settlement/
+
+- The AI Blueprint For Fashion Ecommerce
+  Fashion ecommerce is entering a new era. The first was about adding intelligence to the customer journey.
+  🔗 https://inc42.com/features/the-ai-blueprint-for-fashion-ecommerce/
+
+- Beyond Broking: How Zerodha Is Restacking Its Revenue Pyramid
+  Zerodha made a name for itself by letting investors easily invest in the stock market and mutual funds.
+  🔗 https://inc42.com/features/beyond-broking-how-zerodha-is-restacking-its-revenue-pyramid/
+
+- India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi - The Guardian
+  India’s Rahul Gandhi briefly detained as
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
 
-- India condemns attack on vessel MV GOLDEN LEO - News On AIR
-  India condemns attack on vessel MV GOLDEN
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE0zMkFXQk4yQXp0N1BqN2dNY2FJWm96MklTeTdEekc2cmU5cVNYUXotTWVfX3h2SmVPN2pFcS1UY0RBNWl0VGlPUnBBOTNpcnR5STd6eVVZNkpYMnVUSUN3QnUxeTBuSU1GcWU0Y25MeXlsMS1iQXhuaU9Gaw?oc=5
+- Police detain Indian opposition leader Gandhi as protests continue to grow - Al Jazeera
+  The protests in India continue to grow. Police detain
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzYzMTlLVVVmMDlNOXh2VjBUZU9QamI0REFKdjBnWElhYTRPX0w4T3B5b3RRa01RbDUtd3hfYTYycWFwb1JUU3phWi1jZWJ6TE85Y1lEbkV1eUhMYUJHaHdKejdjRnFUM2tReGJXZWJUUktWd3ppZlZIYjVhRGdiajNoMVZsTzEwT0lEQU5lbFY1cXVNZUYtczJDTlNPTTBZblB0ODhqalNlTVgwQnpGNFlsek5UQdIBuwFBVV95cUxOenFyeDZ4Ym5ORkJnR1g5cURXZTlQYUEwYzVKdWlwLW01RmZuS1dSQUFROUlSU0ZaSzlKTnJRNVV0cFBndGszN1g4eHp5Zm9WRDBWOHUyUEk0eHBYdkdsS0ctYlZVVVVlSndmUkJsUF81VUZ5SEdiTjJkclJxR0M0MDJ6RlNxSEVlNzRqZ3pWMjZNR3h6b1NPck1lSGJXenRycG81cWdtUDM5TGhZdjRXMnBmVElYUkZVaHZ3?oc=5
 
-- "Unacceptable": India Protests Deaths Of 4 Indian Sailors In Russian Attack Near Ukraine - NDTV
-  "Unacceptable": India Protests Deaths Of 4 Indian
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkJhWWFnUUF1c2VvSy1ZTTJxb29SdTh1d21FTUZmeHlrUHdYMjFZWmZEQU5NZDRZLUhVQXFTUVBjWnRKeDVpQkk1aGlxQXdpdXJCR3FXUUxmNE45VnRtNTJZQjlmVWdMem4xZnRxTF9lZEJtcmUtcnFfeXp2allEWjlPejdtWHg0OFV0dW1FMzUwWHJJdkdseXlFb2ZSbXJQN2dxWDV1X1NPOGQ2dVdKbF82embSAbwBQVVfeXFMTWRVYmZFWUxmang0bTdSeklXMWNsa3FzMDFac0p4RFZMMHNCUmxZVTBUOVQ5SFRnTHlwYkZoMDRCSS03bEhSUncwbXRsc0FuSXZUMklwLWJINUpaQlpjZzF3aDBFRk9tWU9CdzBWZ3N6RHNDRjJFXzZWSm1ubkZVbFVTMjB4SWd6Rnk5T2hOWjdjZ05pRlVPLWVYWEVBQkVNUl9COHpMUDh4RVN3dkNjTk5rMHl3Q3RQM3VYcDY?oc=5
+- India opposition leader Gandhi freed after detention at student-led protest - Al Jazeera
+  India opposition leader Gandhi freed after detention at student
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2tIbGdNam5oT2syclg2NkRkRmJ4RVZSdTdaWWZlWFVKRmdzYzlFZ0VaTlVnZjZIRVoxTVJaTy1peEJNT3pnU1VXOWtsc2NLRFc4aGZmTnpLN2VnOGQtdE1UZHdDTEhScHQ0cF9tSzVOUlRJOUdDVDV6NTAxY3JFRHQxSVRVLThVbk1XZG1admFhQ19TbmJIMnhjMl9hcEpFaXJRTlRYUFhScXkzTzVhZFY1ZVJ6eXPSAbwBQVVfeXFMUEQ4UXZrS1JnRVgzdllwMDdFZWhZcnFaUmJyVTFuZE1IQkotdzloY1pRSzZJQlo5Y1VreHVpdkw2QS0taGhORnAwMFBNdHlSa0syaENoeGlLcUFHVElfel9pMldqMUE1WXNaSS1aX2xhb2h2MTJDX3dYeGFTQ3lLM0RPSHk5MWl6MjM1SGlUV244VUFKakVpcXBjUEh1NUlBMEdSZ3FTaC1pXzF1SWFfX1ZDbXd3bVlGV3RNazc?oc=5
 
-- 'In touch with Indian partners': Kremlin's response after Indian seafarers killed in Russian strike | India News - Hindustan Times
-  'In touch with Indian partners': Kremlin's response after Indian seafarers killed in
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnVRYkU2bTJnMkFIMUpvcUlXOTloUFVBNXFCMUNqSV9EMW5LaFh6U093eVQ3TFRaLUVVWEJiMnJyZUliR2lrZzdpQ2dXbU5rNGtHbTJOMHZKS2ExbEd2a3piU1lZS2Q2QUhiOUowOExMWjlSams0eVdZQzBvdVMwVWd2Qnc3MW9uanpZOWQ3cWluVHRpNTRMT05vekJlWEd3Y1pqMFN6MDhJZjFPSUdxODMzVF9iZWRERDVpSmpOb2twcjVIaDZPWnkxMExpaDNGYnhybHFHdkxpV1FHc05RTDYyaDRwRkZtZmxIZ1EtTXB5eTJLRlU1Q011Q0FIUdIBgwJBVV95cUxOaHJFZU9aOXhlb0RocGRFcm9VdHBMc2ZmeW5PX2JJTnF2b0hPWF9DUXoxUnFvSlI3c0czNmd2ZGZKclAySWNWNENLTXcwWF84MzF2TEMzY2ZvUktabnR6b2IxTEtIZGdkSzhGZVNqdnRuNHVjMWI2YklfeFNKVEN3ZHRLWXEtOHlRWV9Xa1hnaU1oZHhCYnhGR29XUk4zQWhtS2IxQi1kZzRzWmFjTXJxMUdtWnhNVjdUMmFNZ0E1UHZrRGkwNzRGLWZ6aE84aDNocTRWNkNWcjd0b25QZlFnTDB4S3ZXWWN5SU1MYnFmZllaYVVOQlhuQXVMekczMVl4T05n?oc=5
+- Policeman Shot Dead In Terror Attack In Jammu And Kashmir's Anantnag - NDTV
+  Policeman shot dead in terror attack in
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc05BR2ZUQy10ZERMaVBHMFJ4aDZ2ZkZjei1RUGtJbnJKMmtraVZzM1VuMGgySXZ1RlBiT3pFRWdkT0dfcjlBRlExbXM4Z2FYV2ZlcG5kTTlNalJmWG4tZEMxY1k4NFViaGVYdjV6ZUxVaTlqVkVVek03YmhYZjdyZFZpMElEdzFiWE5uWW5qYkI4eTZmajJPcnlsUjBrQWItY0Y0TE9lbEd1Z9IBsgFBVV95cUxPdTREQ2FXbjBrc09NaXAySGtxZnA3Mk9SdUtodHdkOHNhdkZuLTJQcVpUY1ExQ2hFaFFROG5zZEg4WnB5YlVNVXBCTVhxZzcyN25JWE9pOHU0Zk42TlFUTi1lQzdrRkNJVlBrSUxrRnZJZnRxUnAwT3hJSEota3ljVlhFaEppVVNQNFU4Ry1kREVpN2UxRlZPUjZUVl9KdWJRTjNYaTNTbDFvVTVLSTV3Mzln?oc=5
 
-- 0%, 100%, 200%: Trump's New Generic Drug Tariff Plan May Impact India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWozNlBZdVliVGJheUFkSFdPQUJIZmpseWFxYkhMd3ZxMWEteDd3cFVxdU1ETHIxNmJQZGFfVERfSUtUSVF1UFZUTWt6RHVYY3F4bVJSa29xZVdmWWNmSHFOTFFfSW9ONWhlSUtRaUZDSERMM1VpU2FLTDlyUEZFVWJNTDBUUzBIYnY1Z3dyQjQya0p1NHV2RHZBWXVNX1Jyb3VlYUFxQ0FfVVlENTByNWJFM1g5cWhLcDBGOXJydmlqZUhlOW5DTmZ30gHSAUFVX3lxTE1nN1VqMlFVYlkzbnczcW1McURycVFQLUpKQWR1cnlIdS02bGs4elVwZkFMUHVzbndTUzhPN25OQU80T1V2anlOTHBmaE85azNsMlYxbW1iTlFlSnVTSUNrS3c2bTVjeHd6NmtldXA0ekRWa29vZnNEc3d3NDZEc2YxeUkzYTZtZEJfTmxNMi1ucGJYWWI4dHdjcG9JTlZuMlhRWm4wUVlweEpFN1BvSDdURXZkNU4tWXB4Q3RyYVptQTBHNnFBc0hGVlgzajY3QU5sUQ?oc=5
+- CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown - BBC
+  &nbsp;&ngt;& nbsp;<font color="#6f6f 6f" target="_blank">BBC.com/rss/articles/CBMiW
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSlhTal84WnZOQjQtS0g4bjFldE1xTFhNc2ZmREctZi1Bd0p5Q1IzSk5WZ3llNno1ZFFLS2M2WFRIMkEzSHhaV0lXcktrd3lIMzQ5dzZFb1lFQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,25 +180,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- India favours local high-speed technology for Mumbai - Ahmedabad project - International Railway Journal
-  India favours local high-speed technology for Mumbai
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlJobGxuVWpQWk50Yk9QU2hSZU5Dd1hLeUN2QlBoTmR2SUF2NHExbVRHamwxRGVqZ2NISDVpTTQtRTFQalNoUzB5TW5FNS1Penhhdkg0eFFBdmdOVFhiejBybWN5c3o4ekNOQ2F5RlVsRFlGckU2NHVWZ040SmhFNGtDbm5FX2M4YmtLaFBKeC1yeG1YbnNaVHlUSkczM1FfTVNYT0h5TDNjM3dEdGJlM1hqd0hUUzg2dmY4Vw?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Japan’s AI gamble: Can technology offset the cost of an ageing society? - Al Jazeera
-  Aims to use artificial intelligence in Japan to
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNcy1QZlNPT25mbzZOU2h5NG1VWTRYV0xUSVJyMG5Ibmp4dHRCVjZpSzl6YnQzbmJjTk9wZ3h4dnI3eWV5TXNmVUg3SVpJa1BPZUFDNEUwQzFZUkNYMTFacEd1SUVtTk5BcXBaRzVnR1o1R1lPc0Q1R2pIeXlUQlU1Zl9XQ2JMNzZybHZfSkJvTTFqVDBMR1ZRTFZJUHQ4bXJ5NUNmU09Tb2w4bHh6c0NFTzZ30gG3AUFVX3lxTE9kY0VPVEo4MEhQdjZkSzkxZ09vT1dhbXBRWGVtSDFrMFp0c2piU3N1UDNJUjdIXzRxZlI4cW85b3hiX0NJWWlVcVNndnlPOWV3QzlOUXBNRFlSd1pjSXBWV0hiNHg2bElnd2tqNU9hakdncEpCX0FUY1VvTUVuNGRKT182UmRuZjExcnVZazZTS0hJNDV3MEh0ZGdxdHpnVnRwNDZJNElqRWt3dUx5UjNfUGJzNWUxdw?oc=5
-
-- While tech layoffs cross 1 lakh in US, Europe's biggest technology company is offering employees $20,000- - The Times of India
-  While tech layoffs cross 1 lakh in US, Europe's biggest technology company is offering employees
-  🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxQYzk2UFFQRnRpWEdOclF3d2lCNUltUlZjbDNtMXQ1TzlkMWtaTkZCbG5BOVhwT0xqb0Vva2N5SnJKRUZDeUhkZF9RMkhiaUxJcWpKblA0YjF3S1dPZ2pQN202WTBlOTZ0U1NGaFNxVktIN2Jkd3lRLTcxWDlFUXVGcjN4VFBObV80M0ZTU1VVRnhCX3ZmTWE4ODF1cWtFYkd2TE1CdlJHVlNjazBSWGlwQ0FHYW84Q0VGZmlXdG9TbzV5UkJpYTlWaTh5WDFycFhaeDJSTnUzYUx2Z3pPMF8wTVdUQm9OWFFUdzQ4Mm1wdS05UFFLNTBpdjl6T2lvVnkyMDc3bTZ1UTMxOVVndUd5azk2Um1sQUZTcThCQWF5WHRWTWN1ejZqVjBOeFJBY1AzLVRyS3NyVllWbnNUbkRB0gHEAkFVX3lxTFBCR0pKY0oxdzJvQ1pTZ0xwd1lIWk9PdEhlLW9tMDNHZGtZX1YzN0tPOEFxR1JRQmE5THZZMUx4bFBMS1dZQTFZTl9KVDY2a2haRFBSbnFOSUVhaGE3cW43a2NLLUZNc0djaElka0IyZEx2MmhKbExwWnR2MTJtdnFINzhESzdkbjBYdHpHdWxzUXJjR1dqbnptNjZwcVpRYlZRVWVXLVFwZGhNV1daT0NDVzAwc0hPTWp3WHY0c052NHpjT3VyTTVWeno4SGZxS2swXzNZQy14TzVzTGxpV2ZGN1pQX2ZLX0tXVlp6RUdmVVpHZ0pOYzNZLXdPSHdWVGF5d3J5aEFCNjd3aEFJdWEtWTBIUE9PMFB0VE00XzdqenQzRG9GMFpfRnBubGw0UlRtZXVwNWlfNjlHRlJnY1ZKMFVWMg?oc=5
-
-- The 20-somethings betting big on tech stocks - BBC
-  The 20-somet
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXbmtlSVg3SzJhdnYwM3VTN0k5VkU3MFRNeDBnajBnbi1hLUlGRE5ZSWtnOEtIbVBjRGxvQWdkXzhobTBzWThWeVl3NWtmMy1nb3pacDZZRnpCZw?oc=5
-
-- White Rabbit Technology-based Indian Standard Time (IST) Dissemination Demonstration Network - Vajiram & Ravi
-  White Rabbit Technology-based Indian Standard Time (IST
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTms5QkNVTnJ6OXhzUWVoc1ZnX2lEZVU4UWV5cm1NOUVNNnZsTWxqSVY1RFRuc0ltV2ktSTVVZ2NhYVpwQy1OcGpjTUhtRHN0VkppQ2p2WFhVMjNCbjRlYWw1YnBPZWdhdkdHRDd4Ri0zRUgwbGRfd3Y0QWRva1VnakhiaHpUYUNFUHFzR3R6RVJDRVg3VkM0cHZPRGF2SU96X2kyQnNqWTQ1bVZCamJqUUo3bUZkeURrZW1tX2lORENRZ19KS1NCU3Nha1Q4OXc?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-22 02:09:13 UTC_
+_Last updated: 2026-07-22 08:20:02 UTC_
