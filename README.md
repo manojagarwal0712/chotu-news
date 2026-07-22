@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- ‘152 exam paper leaks, 0 convictions, PM should apologise’: Key takeaways from Rahul Gandhi’s presser
+- Students not terrorists, we fully support their demands: Rahul Gandhi on students protesting against paper leaks
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-neet-dharmendra-pradhan-resignation-key-takeaways-10798572/
+  🔗 https://indianexpress.com/article/india/students-not-terrorists-we-fully-support-their-demands-rahul-gandhi-on-students-protesting-against-paper-leaks-10799124/
 
-- Ministers meet CJP leaders near Jantar Mantar in fresh round of talks
+- Sonam Wangchuk opens a window as Centre steps up efforts to resolve crisis
   
-  🔗 https://indianexpress.com/article/india/ministers-meet-cjp-leaders-near-jantar-mantar-in-fresh-round-of-talks-10798709/
+  🔗 https://indianexpress.com/article/india/sonam-wangchuk-medanta-fast-neet-protest-cjp-dharmendra-pradhan-10799051/
 
-- ‘Ready to fight it alone’: Chandrashekhar’s sit-in outside parliament is viral
+- Congress accuses MP minister Kailash Vijayvargiya of calling student protesters ‘insects’, ‘traitors’; he denies
   
-  🔗 https://indianexpress.com/article/india/chandrashekhar-azad-parliament-protest-ambedkar-statue-student-march-10798474/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-assembly-congress-walkout-kailash-vijayvargiya-10799031/
 
-- ‘Tech delayed is tech denied’: IAF Chief says Air Force can learn from Navy’s approach to self-reliance
+- Ladakh delegation says blocked from meeting Sonam Wangchuk
   
-  🔗 https://indianexpress.com/article/india/iaf-chief-air-force-navy-self-reliance-10798587/
+  🔗 https://indianexpress.com/article/india/protests-ladakh-delegation-blocked-meeting-sonam-wangchuk-10799002/
 
-- North Central Railway to deploy body camera-equipped ticket checkers on Prayagraj-New Delhi trains
+- Leopard killed in wire trap: Forest probe cracks suspected poaching network
   
-  🔗 https://indianexpress.com/article/india/indian-railways-body-camera-ticket-checkers-prayagraj-new-delhi-trains-10798577/
+  🔗 https://indianexpress.com/article/india/kota-mukundara-hills-leopard-poaching-potash-snare-arrest-10799007/
+
+- AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/amd-to-invest-up-to-5-billion-in-anthropic-ai-startup-to-buy-up-to-2-gw-of-chips-10798824/
+
+- Meta employees’ lawsuit shows that if AI fires you, proving it is the hard part
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-employees-lawsuit-shows-that-if-ai-fires-you-proving-it-is-the-hard-part-10798813/
 
 - Everything Samsung announced at its big London event: Wider Fold 8, New Watch Ultra 2, and more
   
@@ -32,53 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-z-fold-8-hands-on-2026-10797983/
 
-- Samsung just took a huge gamble on a passport-shaped foldable ahead of Apple’s entry
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-just-took-a-huge-gamble-on-a-passport-shaped-foldable-ahead-of-apples-entry-10797880/
+- Batista Brothers Clinch Venezuela Oil Stake as Deals Gain Steam
+  Brazil’s billionaire Batista brothers have acquired a stake in an oil production project in Venezuela.
+  🔗 https://www.livemint.com/companies/batista-brothers-clinch-venezuela-oil-stake-as-deals-gain-steam-11784745285291.html
 
-- With 3 spacecraft, multiple launches, Artemis III to be Nasa’s most complex mission
-  
-  🔗 https://indianexpress.com/article/technology/science/with-3-spacecraft-multiple-launches-artemis-iii-to-be-nasas-most-complex-mission-10798603/
+- IndusInd Bank aims for 1% RoA by FY27-end; focus on growing retail book
+  The private-sector lender posted a consolidated net profit of  ₹1,037 crore for the June quarter, up 72%
+  🔗 https://www.livemint.com/companies/company-results/indusind-bank-aims-for-1-roa-by-fy27-end-focus-on-growing-retail-book-11784736556394.html
 
-- Temasek widens India bets as portfolio swells to $42 billion
-  Singapore sovereign wealth fund is expanding beyond consumer, healthcare and financial services into industrials, infrastructure and space-tech.
-  🔗 https://www.livemint.com/companies/news/temasek-widens-india-bets-beyond-consumer-as-portfolio-swells-to-42-billion-11784720221572.html
+- Dr Reddy’s reports muted Q1FY27 results, net profit drops 69%
+  Dr Reddy's missed estimates, with revenue down 5.
+  🔗 https://www.livemint.com/companies/company-results/dr-reddys-q1-results-semaglutide-sales-dr-reddys-share-price-11784732365516.html
 
-- Reliance Retail launches AJIO Beauty: Online omnichannel platform, quick delivery options — Here's all we know
-  Reliance Retail launches AJIO Beauty, a comprehensive platform for beauty and personal care with over 1,500 brands and quick online delivery
-  🔗 https://www.livemint.com/companies/news/reliance-retail-launch-ajio-beauty-tira-combine-online-fashion-brand-customer-omnichannel-platform-quick-delivery-option-11784718067005.html
+- Samsung launches its priciest smartphone lineup ever amid chip cost crunch
+  Soaring raw material prices have made the Galaxy Z Fold 8 series Samsung's most expensive range yet. The company works to buffer consumers from
+  🔗 https://www.livemint.com/companies/news/samsung-z-fold-8-galaxy-z-flip-8-z-fold-8-ultra-11784726844825.html
 
-- Blinkit powers Eternal's Q1 growth as taxes, investments weigh on profit
-  Blinkit posted its fifth straight quarter of margin improvement. But a higher tax outgo and continued investments in newer businesses kept net profit growth
-  🔗 https://www.livemint.com/companies/company-results/blinkit-powers-eternals-q1-growth-as-taxes-investments-weigh-on-profit-quick-commerce-food-delivery-11784715400798.html
+- Intel layoffs: Chipmaker to begin fresh round of job cuts in data centre division
+  The company added that the organisational changes are expected to help it operate with
+  🔗 https://www.livemint.com/companies/news/intel-layoffs-chipmaker-begins-fresh-round-of-job-cuts-in-data-centre-division-11784730012525.html
 
-- Glenfiddich-maker eyes wider India portfolio as UK FTA cuts Scotch prices
-  The India-UK FTA is expected to reduce Scotch whisky prices by 7-10%. William Grant &
-  🔗 https://www.livemint.com/companies/news/william-grant-sons-india-uk-fta-scotch-whisky-prices-glenfiddich-india-expansion-alcohol-spirits-market-11784701964029.html
+- Gold firms to two-week peak on softer dollar, Fed outlook in focus
+  Gold firms to two-week peak on
+  🔗 https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed-outlook-in-focus-11784746068707.html
 
-- KKR appoints former Manulife CEO Roy Gori as senior advisor
-  The veteran financial services executive will advise on insurance, wealth management and banking opportunities across Asia Pacific and global markets
-  🔗 https://www.livemint.com/companies/news/kkr-appoints-former-manulife-ceo-roy-gori-as-senior-advisor-11784705767732.html
+- Lohia Corp raises  ₹492 crore from anchor investors ahead of IPO opening on Thursday
+  Lohia Corp Limited has raised  ₹492.1 crore from anchor investors. IPO opens on July 23, 2026. The price band is set at 
+  🔗 https://www.livemint.com/market/stock-market-news/lohia-corp-raises-rs-492-crore-from-anchor-investors-ahead-of-ipo-opening-on-thursday-11784740649066.html
 
-- US stock market today: Wall Street edges lower ahead of Alphabet earnings; Brent climbs above $95
-  S&amp;amp;P 500 futures slipped 0.3%, while futures tied to the Dow Jones Industrial Average fell 31 points.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-edges-lower-ahead-of-alphabet-earnings-brent-climbs-above-95-11784721735142.html
+- Gold, silver prices today: Comex gold tops $4,170; silver extends winning streak as safe-haven demand rises
+  Gold climbed $95 to $4,171, while silver rose to $61.70, marking significant weekly gains.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-tops-4-170-silver-extends-winning-streak-as-safe-haven-demand-rises-11784734687457.html
 
-- PSU stock Coal India sets board meeting date to declare final dividend for FY26, record date. Details here
-  Coal India Ltd. will hold its 52nd AGM on 31 August 2026 via VC to approve a final dividend of  ₹5.25 per share for FY26. The record date
-  🔗 https://www.livemint.com/market/stock-market-news/psu-stock-coal-india-sets-board-meeting-date-to-declare-final-dividend-for-fy26-record-date-details-here-11784718121166.html
+- Super Micro Computer shares jump 25% after securing over $60 billion in Q4 orders
+  Super Micro Computer shares jumped 25% to $32 after announcing over $60 billion in new orders. The company forecasts gross margins of 15%-17
+  🔗 https://www.livemint.com/market/super-micro-computer-shares-jump-25-after-securing-over-60-billion-in-q4-orders-11784732141929.html
 
-- Expert view: Market recovery may be closer than most people think, says Monarch Networth Capital CEO
-  Gaurav Bhandari, CEO of Monarch Networth Capital, offers a refreshing perspective on the Indian
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-market-recovery-may-be-closer-than-most-people-think-says-monarch-networth-capital-ceo-11784718071930.html
+- Multibagger defence stock Apollo Micro Systems to be in focus tomorrow; here's why
+  Apollo Micro Systems has received a Make-II PSO from the Indian Navy for the SAVIOR-ASW project. This marks a pivotal step into autonomous maritime
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-to-be-in-focus-tomorrow-heres-why-11784728706086.html
 
-- IndusInd Bank Q1 Results 2026: Net profit surges 72% at  ₹1,037 crore, NII up just 1%
-  IndusInd Bank reported a 72% rise in Q1 FY27 consolidated net profit to  ₹1,037 crore. Net Interest Income grew
-  🔗 https://www.livemint.com/market/stock-market-news/indusind-bank-q1-results-2026-net-profit-surges-72-at-rs-1-037-crore-nii-up-just-1-11784717260308.html
-
-- 'Global economy is crashing': Rich Dad Poor Dad author Robert Kiyosaki repeats stock market crash prediction
-  Kiyosaki cautions about a looming economic crash, predicting historical implications. He advocates for holding assets like gold and Bitcoin.
-  🔗 https://www.livemint.com/market/stock-market-news/global-economy-is-crashing-rich-dad-poor-dad-author-robert-kiyosaki-repeats-stock-market-crash-prediction-11784713956376.html
+- India’s smartphone market just had its worst June quarter in six years. Here’s what’s behind it
+  Counterpoint Research reports a 10% decline in India's smartphone shipments for the June quarter.
+  🔗 https://www.livemint.com/technology/tech-news/indias-smartphone-market-just-had-its-worst-june-quarter-in-six-years-here-s-what-s-behind-it-11784731944131.html
 
 - Samsung Galaxy Z Fold 8 Ultra, Fold 8 and Flip 8 launched: Check specs here
   Samsung has unveiled its foldable devices at Unpacked 2026. The Galaxy Z Fold8 Ultra,
@@ -96,89 +100,65 @@
   OpenAI says AI models went rogue during
   🔗 https://www.livemint.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-at-startup-11784696425653.html
 
-- France bans social media for children under 15: Here's what the new law says
-  French lawmakers have banned children under 15 from accessing social media. It is the first
-  🔗 https://www.livemint.com/technology/tech-news/france-bans-social-media-for-children-under-15-heres-what-the-new-law-says-11784689747711.html
+- UltraTech Cement comes up with a record June quarter, profit surges 17%
+  UltraTech Cement achieved its highest-ever June quarter volume and profit. Demand pipeline helps as revenues rise 16%; Ebitda strong despite war-led price hikes.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cements-comes-up-with-a-record-june-quarter-profit-surges-17/articleshow/132563390.cms
 
-- Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today | Live: US stock futures edge lower as caution builds ahead of Big Tech earnings
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-alphabet-tesla-super-micro-computer-stock-price-news-22-july-2026/liveblog/132559144.cms
+- CSB Bank Q1 profit jumps 27% YoY to Rs 150 crore as provisions decline
+  CSB Bank reported a twenty-seven percent year-on-year net profit increase for the June quarter. Lower provisions and improved net interest income aided the bank's financial performance. Sequential profit declined due to typical seasonal business trends in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q1-profit-jumps-27-yoy-to-rs-150-crore-as-provisions-decline/articleshow/132562546.cms
 
-- Oil rally weighs on Indian bonds, value buyers limit fall
-  Indian government bonds experienced a fourth consecutive session of decline on Wednesday. Benchmark bond yields rose to their highest level since late June. Rising oil prices and supply fears intensified concerns about India's economic outlook.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/oil-rally-weighs-on-indian-bonds-value-buyers-limit-fall/articleshow/132558831.cms
+- PRISM's premium hotel push emerges as next leg of India growth ahead of IPO
+  PRISM is increasingly focusing on company-serviced and premium hospitality in India. The company now emphasizes quality and productivity over mere network expansion. These hotels contributed nearly half of India's Gross Booking Value.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/prisms-premium-hotel-push-emerges-as-next-leg-of-india-growth-ahead-of-ipo/articleshow/132562158.cms
 
-- IndusInd Bank Q1 Results: Profit soars 72% YoY to Rs 1,037 crore; NII flat
-  IndusInd Bank reported a 72% year-on-year jump in consolidated Q1 net profit to Rs 1,037 crore. Asset quality improved, deposits grew, and capital adequacy strengthened.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q1-results-profit-soars-72-yoy-to-rs-1037-crore-nii-flat/articleshow/132557800.cms
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Escalating global tensions and inflation concerns spooked investors, leading to broad market weakness. Rate-sensitive sectors like realty and banking saw considerable losses. FMCG and auto stocks showed relative resilience due to strong earnings.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132561965.cms
 
-- Why Warren Buffett and Charlie Munger don't like EBITDA as an earnings metric
-  Warren Buffett and Charlie Munger's criticism of EBITDA is back in the spotlight. Buffett called it a tool to mislead investors, while Munger dubbed it "bullshit earnings"
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/why-warren-buffett-and-charlie-munger-dont-like-ebitda-as-an-earnings-metric/articleshow/132557098.cms
+- Market Trading Guide: Bajaj Auto among 7 stock recommendations for Thursday
+  Indian markets ended lower amid geopolitical tensions and inflation concerns, but analysts remain bullish on select stocks. Seven recommendations, including Bajaj Auto, Bosch and Asian Paints, highlight strong technical setups
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-bajaj-auto-among-7-stock-recommendations-for-thursday/slideshow/132562171.cms
 
-- Will Blinkit growth sustain amid competition? 5 things to know from Eternal's shareholder letter
-  Eternal's Q1 shareholder letter highlights Blinkit's rapid expansion. Food delivery remains the group's profit engine. Management also addressed mounting quick commerce competition.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-blinkit-growth-sustain-amid-competition-5-things-to-know-from-eternals-shareholder-letter/articleshow/132556814.cms
+- Quick Commerce Discounting Wars Nearing End: Eternal CEO
+  Eternal CEO Albinder Dhindsa believes that the quick commerce industry&#8217;s discounting war may finally be approaching its end.
+  🔗 https://inc42.com/buzz/quick-commerce-discounting-wars-nearing-end-eternal-ceo/
 
-- Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
-  Opposition parties shut down Indian parliament in solidarity with
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
+- InCred Finance’s FY26 Profit Increases 17% YoY To ₹438 Cr, Revenue Up 36%
+  InCred holdings’ lending tech arm InCred Financial Services reported a 17.1% increase in its consolidated revenue.
+  🔗 https://inc42.com/buzz/incred-finances-fy26-profit-increases-17-yoy-to-%e2%82%b9438-cr-revenue-up-36/
 
-- India opposition leader Gandhi freed after detention at student-led protest - Al Jazeera
-  India opposition leader Gandhi freed after detention at student
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2tIbGdNam5oT2syclg2NkRkRmJ4RVZSdTdaWWZlWFVKRmdzYzlFZ0VaTlVnZjZIRVoxTVJaTy1peEJNT3pnU1VXOWtsc2NLRFc4aGZmTnpLN2VnOGQtdE1UZHdDTEhScHQ0cF9tSzVOUlRJOUdDVDV6NTAxY3JFRHQxSVRVLThVbk1XZG1admFhQ19TbmJIMnhjMl9hcEpFaXJRTlRYUFhScXkzTzVhZFY1ZVJ6eXPSAbwBQVVfeXFMUEQ4UXZrS1JnRVgzdllwMDdFZWhZcnFaUmJyVTFuZE1IQkotdzloY1pRSzZJQlo5Y1VreHVpdkw2QS0taGhORnAwMFBNdHlSa0syaENoeGlLcUFHVElfel9pMldqMUE1WXNaSS1aX2xhb2h2MTJDX3dYeGFTQ3lLM0RPSHk5MWl6MjM1SGlUV244VUFKakVpcXBjUEh1NUlBMEdSZ3FTaC1pXzF1SWFfX1ZDbXd3bVlGV3RNazc?oc=5
+- Manufacturing Startups To Watch: 5 Startups That Caught Our Eye In July
+  For years, India&#8217;s manufacturing story has centred around achieving scale and a perennial push to set up more factories.
+  🔗 https://inc42.com/startups/manufacturing-startups-to-watch-5-startups-that-caught-our-eye-in-july/
 
-- "152 Paper Leaks In 10 Years, Zero Convictions": Rahul Gandhi Targets Government - NDTV
-  "152 Paper Leaks In 10 Years, Zero
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOUtxQ2lzLTVabkkxTzVwRXR5a2xKckl2MEdYMlozU2ZhMUZtTVFfZUtZTTkyTEtOWWhnb0VHVHR6VGVwb3BvWWFHa05pRHYwVXZ4Z2pIZzVsa1FtYURqUGlfZjVVUWI3UUlLaUtOa1Z4em1BbDhEeEJ2MkEyQWJ1dWIzeW1OYTNvWlVva2w1TnBQQ2xyS0RBVGp5VzZGTnZvbDdaMk5vcnBnYVkxZWYxeV9UZ292RWdnUlo4TUdGNm9GTGl5UmZnOG55VlUyd1RMOVRMRFJ5SmR2T2RvNUhITEJxLUdCYVZ3SG5HajU1YzRvaFFXcXFHM01nbWlEZ3RjZ3RuanFDUmHSAZACQVVfeXFMUFJhQ3VHTTNzaTNieTR6VFFvSUMxMlhoY1BKdGU0T1RWRm1QNjhwemNQNHB3cVdGMGt1YnhDSW5Tb0VDX3VoelMySWdZYTFBWGJJWUtxc1kzb09nWkMwUko5cW4xTFhOVHZRUVNVcVZuVkFmZmllTWhtZTMyeDJhVWpTU0dtXzVDU0RSTEpUeEx1ZTB6cUgzTUszV1NuYUNyVzZRVmJrVnRWU2tFcjFpc1ViTFhmZl9qODFiQWpPZTY5cEIyb1F0d0xHaHdJU1FHNEhzZUxlbGROa2NMdjV1TFp2Q29qbFBrTGJWRnRzcTNFVHp3WHJiSnc2Rks2NnRoOEVQV3FLdVdMS3BOTU0yaUI?oc=5
-
-- CJP, Jantar Mantar: Pressure grows on Indian PM Modi's government as 'cockroach' protests intensify - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TFc1OFVzQVhOSWJiZkExUjlabWZFaWJZLXltcEdtSU1zSk1KSGJOMGl4Mi1YaHlSLWVvQTFheHNlVFI3X0JyeGlCTS1RbG9KaDFDV1pmeFRJQQ?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TFc1OFVzQVhOSWJiZkExUjlabWZFaWJZLXltcEdtSU1zSk1KSGJOMGl4Mi1YaHlSLWVvQTFheHNlVFI3X0JyeGlCTS1RbG9KaDFDV1pmeFRJQQ?oc=5
-
-- From Potti Sriramulu to Sonam Wangchuk: Hunger strikes that changed India’s politics - The Hindu
-  The Hindu: Hunger strikes that changed India's
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNbFNpV1hiZzhuZHZjQzQ3SjV1cjRzU2sxX2NXMXRad0w3UnJFNmN0UTB1bkNLMktVQ0xpWENwREVMb0dvdVZQQXROakxUaEFXZ25VdHg1dWdwUXlpY1BEaTU1RWtPLWRqcFJjNDI4MW15OG9VN1BYeFJfbGF1c3JycGVxWTVfMzRrNWxEQXV5d2lzT1huZnBzZWJwWk1aM01Wek1haGxtRHZoTkJOMkw4V1JSZ2M3cWlEQm9pRTFhbV9Cbjh6V3ZDVlBCQkNBT0hKdi1zT1hMdUhmRGFDVHBvSEFNdkxwMmEtU2VRcFJuczk2MEZmZmQxcEJKazJVNU41TWEwekRxd3Q5SG92OFpsUG9R0gGYAkFVX3lxTFBsdmtHWE9PYk9lV2NJWXA3ckpQR3JxRGlJRjBlb05taE8zRjY0Y1JlaGxPaUFhUmtLYnZ3ak8wcTFQV0VBMVR1MGp5UDJ0eGFuZFFzdEFKUmc5ZjFJanlzMGJiRENvYXYzS3NzV1VPZjIwUWxvbjM2Tmo4UnpFMUhDQW91U0ppYW1tMzR1LW96d01PYWd5enlhdGxfWFBPYWtsRXFFVlBpbDN5WGhDa3gwSlpIVThOZTlpRFJsZklFcUJCbWRMek1iRXg1eUFmN20wQmFHeXgxTGVCSTVnRmFDV19Ic1pGOWtrTVZFcDVScGhEWmJPaE5SOG9JTjFIOUllZHpDWjF4SU96Q2l1YWlYRllCZTBrLWM?oc=5
+- Ayr Energy Files Counter Claim Against IPO-Bound Zetwerk
+  Zetwerk accused Ayr Energy and its founder of using stolen confidential information to build a rival business.
+  🔗 https://inc42.com/buzz/ayr-energy-files-counter-claim-against-ipo-bound-zetwerk/
 
 - IndiaMART Shares Sink 7.5% To 52-Week Low As Paid Supplier Concerns Mount
   Shares of B2B ecommerce major IndiaMART fell as much as 7.5% during the intraday trading today to hit
   🔗 https://inc42.com/buzz/indiamart-shares-sink-7-5-to-52-week-low-as-paid-supplier-concerns-mount/
 
-- InGovern Asks SEBI To Examine Meesho’s GST Disclosures
-   proxy advisory firm InGovern Research Services has approached SEBI, seeking an examination of the GST position adopted by Meesho.
-  🔗 https://inc42.com/buzz/ingovern-asks-sebi-to-examine-meeshos-gst-disclosures/
-
-- Soket AI Wants To Turn The Language Gap In AI Into India’s Edge
-  Will AI models ever be as good for Indian languages as they are for English? Soket AI is attempting to change that.
-  🔗 https://inc42.com/startups/soket-ai-wants-to-turn-the-language-gap-in-ai-into-indias-edge/
-
-- Blinkit’s Q1 Adjusted EBITDA Rises To ₹102 Cr; ‘Others’ Losses Rise On Nugget R&D
-  Eternal's quick commerce arm Blinkit’s adjusted EBITDA rose to ₹102 Cr in Q1 FY27.
-  🔗 https://inc42.com/buzz/blinkits-q1-adjusted-ebitda-rises-to-%e2%82%b9102-cr-others-losses-rise-on-nugget-rd/
-
-- Eternal Q1: Profit Rises 3X YoY To ₹92 Cr But Declines 47% Sequentially
-  Eternal, the parent of Blinkit and Zomato, reported a consolidated net profit of ₹92 Cr in the first quarter of 2014.
-  🔗 https://inc42.com/buzz/eternal-q1-profit-rises-3x-yoy-to-%e2%82%b992-cr-but-declines-47-sequentially/
+- India protest: How Modi’s refusal to sack education minister fits a pattern - Al Jazeera
+  India protest: How Modi’s refusal to sack
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVl4UF82b19sQzFLR0dWZXZxeE1wUXB5VHBfdzFuWXhUUVAtZHhrWU5Fbnh1MURmVmZxbmdGRXVPLXpZWVRCVUd6M3RqYThudkQzWk1nWnVkVldjVEpSb3YyVFRPcFlna1Y1TjN0eU5tckFadWVZUzdEMmRRZzZtU1E4dDNSc1NpMWRqSVNKTlNKMnllQnhfbVVXRDVoLTVoMWJxLXBaeW5zVlB4TUgyZWZIWGHSAboBQVVfeXFMTzhDM0VqVktPeHJ6Ql9KV2FSR2FobFZzY0RmV2xpVlhtTGVKSGh2NlF2cENnR3FLTzhHTGowTnNnU0did3dWQ1FWa18yOXJQUGtxNmFheGZEd0ZSUjg5aEpLWVBCM0NyNFROdS1nU3VhSHZvMDZjckFLV25CZmVhamVidllWRklvYTBHNE1COWY2M0VTRFFYS3JDNTZ4ZXM0bnphODk0MFJUU1FPclZpRDNPR0pFYjlLX0V3?oc=5
 
 - Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
   Opposition parties shut down Indian parliament in solidarity with
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
 
-- India opposition leader Gandhi freed after detention at student-led protest - Al Jazeera
-  India opposition leader Gandhi freed after detention at student
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2tIbGdNam5oT2syclg2NkRkRmJ4RVZSdTdaWWZlWFVKRmdzYzlFZ0VaTlVnZjZIRVoxTVJaTy1peEJNT3pnU1VXOWtsc2NLRFc4aGZmTnpLN2VnOGQtdE1UZHdDTEhScHQ0cF9tSzVOUlRJOUdDVDV6NTAxY3JFRHQxSVRVLThVbk1XZG1admFhQ19TbmJIMnhjMl9hcEpFaXJRTlRYUFhScXkzTzVhZFY1ZVJ6eXPSAbwBQVVfeXFMUEQ4UXZrS1JnRVgzdllwMDdFZWhZcnFaUmJyVTFuZE1IQkotdzloY1pRSzZJQlo5Y1VreHVpdkw2QS0taGhORnAwMFBNdHlSa0syaENoeGlLcUFHVElfel9pMldqMUE1WXNaSS1aX2xhb2h2MTJDX3dYeGFTQ3lLM0RPSHk5MWl6MjM1SGlUV244VUFKakVpcXBjUEh1NUlBMEdSZ3FTaC1pXzF1SWFfX1ZDbXd3bVlGV3RNazc?oc=5
+- Soldier slips to death in J&K’s Rajouri - The Times of India
+  Soldier slips to death in J&
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREZaWHFubWlyb1hKb0J4R2Z3SlEzeVZnRzlydEZwdGZ4UldySF9FYjFYUUdpTXI2MHBNbFVHVDZpeC1BMjdFYkgxalVwVlRMNks3akN6UEh1UW9MZDlwSDY0NU41WUJjUHZ1LWo5M295Skkxd21feWFUMHF2MDNXbXNScGtqMVdlSEhidGVPRUREdVlSZ1hRUjEyRF9Cd3RON3FwRzhqS2fSAa4BQVVfeXFMUHJBTUJjS3NSSUhFYVFDTTAtOVJlZ1JaV0dzaGZGMTdYNkNhLVRlWnpaMFlUOExHc3c2ZEdvZ3BORUhLTjNsMERNeDVaR094NHdOdDk3QThneFFUV1hvM1Q3bERVYl81ZThTWV9mZFVpNzVfQmp3N3dVQWNZTHdjRlhQbEJnNFJzYWhOZDlOeUxiQXhEeGpCSUZiN3J3NVdMUXFGZ2FUMkJvOGhGVFlR?oc=5
 
-- "152 Paper Leaks In 10 Years, Zero Convictions": Rahul Gandhi Targets Government - NDTV
-  "152 Paper Leaks In 10 Years, Zero
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOUtxQ2lzLTVabkkxTzVwRXR5a2xKckl2MEdYMlozU2ZhMUZtTVFfZUtZTTkyTEtOWWhnb0VHVHR6VGVwb3BvWWFHa05pRHYwVXZ4Z2pIZzVsa1FtYURqUGlfZjVVUWI3UUlLaUtOa1Z4em1BbDhEeEJ2MkEyQWJ1dWIzeW1OYTNvWlVva2w1TnBQQ2xyS0RBVGp5VzZGTnZvbDdaMk5vcnBnYVkxZWYxeV9UZ292RWdnUlo4TUdGNm9GTGl5UmZnOG55VlUyd1RMOVRMRFJ5SmR2T2RvNUhITEJxLUdCYVZ3SG5HajU1YzRvaFFXcXFHM01nbWlEZ3RjZ3RuanFDUmHSAZACQVVfeXFMUFJhQ3VHTTNzaTNieTR6VFFvSUMxMlhoY1BKdGU0T1RWRm1QNjhwemNQNHB3cVdGMGt1YnhDSW5Tb0VDX3VoelMySWdZYTFBWGJJWUtxc1kzb09nWkMwUko5cW4xTFhOVHZRUVNVcVZuVkFmZmllTWhtZTMyeDJhVWpTU0dtXzVDU0RSTEpUeEx1ZTB6cUgzTUszV1NuYUNyVzZRVmJrVnRWU2tFcjFpc1ViTFhmZl9qODFiQWpPZTY5cEIyb1F0d0xHaHdJU1FHNEhzZUxlbGROa2NMdjV1TFp2Q29qbFBrTGJWRnRzcTNFVHp3WHJiSnc2Rks2NnRoOEVQV3FLdVdMS3BOTU0yaUI?oc=5
+- India flags safety of seafarers in Black Sea with Russia - The Economic Times
+  India flags safety of seafarers in Black Sea with
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxQZHY4SFFuM0JHNVJfbDRJSktiUjRScmU2bFMtU0F0Q28wRFpGdWhVWF9Ld1hobWtORDRTS1M3M242MjZHQmZtU2RXWmtBTGxCSnpOLXBjZ1N1NDhXTWZmc3I3SVpQcm5tOVhDaWU3LUpSVGUwenU1clNzSDlnY01LTEZIWGVKN1J1TGI4Y3gtcHgtSjlxZG52eGo1RERzTm9GY2tOWkg1a0Y1M3RCZF9CZGVudXhmdVJnMmlaZXFhZFM5alZEMkM2M3NRNTl5SDF4RV9zTWNnTkduTERqZkEzWER0dzNQZUd4bFVhNlE1QmllVV9uVUJYWi1Tb3d2YmRwUnBIeWJodlNpZWgtc1d1WFVOTTJHNzVFRDVWLWQzZW41SjJyNGdN0gHDAUFVX3lxTE9tZjhHbjBOUXJaTk5oaEdQVWtSZVBtOHk1MXRuTnMwUkxySjRiZ3RKb0dXbDZlR3BwV2VZeWZwUElkaG5fQktka0ZKZHdJcUF1NlJwMnVGVWlHRWxDWDJOT1NBVTBUemJyZjFmazBZcGxYd3ZCV2RwTi11U09iRy1CejlrSmtheHVYQTRpOGdZY2RmV1BneGNhNHVlX1JocWxDVEp6TUg0U1I1STFzZ2lhN29pOGZLd0hjMHVRMjRGWWFnNA?oc=5
 
-- CJP, Jantar Mantar: Pressure grows on Indian PM Modi's government as 'cockroach' protests intensify - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TFc1OFVzQVhOSWJiZkExUjlabWZFaWJZLXltcEdtSU1zSk1KSGJOMGl4Mi1YaHlSLWVvQTFheHNlVFI3X0JyeGlCTS1RbG9KaDFDV1pmeFRJQQ?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TFc1OFVzQVhOSWJiZkExUjlabWZFaWJZLXltcEdtSU1zSk1KSGJOMGl4Mi1YaHlSLWVvQTFheHNlVFI3X0JyeGlCTS1RbG9KaDFDV1pmeFRJQQ?oc=5
-
-- From Potti Sriramulu to Sonam Wangchuk: Hunger strikes that changed India’s politics - The Hindu
-  The Hindu: Hunger strikes that changed India's
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNbFNpV1hiZzhuZHZjQzQ3SjV1cjRzU2sxX2NXMXRad0w3UnJFNmN0UTB1bkNLMktVQ0xpWENwREVMb0dvdVZQQXROakxUaEFXZ25VdHg1dWdwUXlpY1BEaTU1RWtPLWRqcFJjNDI4MW15OG9VN1BYeFJfbGF1c3JycGVxWTVfMzRrNWxEQXV5d2lzT1huZnBzZWJwWk1aM01Wek1haGxtRHZoTkJOMkw4V1JSZ2M3cWlEQm9pRTFhbV9Cbjh6V3ZDVlBCQkNBT0hKdi1zT1hMdUhmRGFDVHBvSEFNdkxwMmEtU2VRcFJuczk2MEZmZmQxcEJKazJVNU41TWEwekRxd3Q5SG92OFpsUG9R0gGYAkFVX3lxTFBsdmtHWE9PYk9lV2NJWXA3ckpQR3JxRGlJRjBlb05taE8zRjY0Y1JlaGxPaUFhUmtLYnZ3ak8wcTFQV0VBMVR1MGp5UDJ0eGFuZFFzdEFKUmc5ZjFJanlzMGJiRENvYXYzS3NzV1VPZjIwUWxvbjM2Tmo4UnpFMUhDQW91U0ppYW1tMzR1LW96d01PYWd5enlhdGxfWFBPYWtsRXFFVlBpbDN5WGhDa3gwSlpIVThOZTlpRFJsZklFcUJCbWRMek1iRXg1eUFmN20wQmFHeXgxTGVCSTVnRmFDV19Ic1pGOWtrTVZFcDVScGhEWmJPaE5SOG9JTjFIOUllZHpDWjF4SU96Q2l1YWlYRllCZTBrLWM?oc=5
+- Death toll from blast at Indian hydroelectric project rises to 20 people - Al Jazeera
+  Death toll from blast at Indian hydroelectric project rises to
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWRBTXI3a2p1YjV3ODRzazhhWkpTMU1TMVA1MWFISmMwUjc0Y2Z1c0tIdk9wVEV4YnotTnRMYkhiNkRxT3NucXhEQ0lWcEtmX1BLakh4ejBEa2prc3UzaEwtSUpDWGw1V2RnWDNtRzU0ZDVNRkkwZmVmN3k3RnR4eFZUVlFWbl82QUxub0JtNWFLR2xVbkllTjVQUFBQUV9FNmVPWmVUQ0lwY3BtR01rNmFHWdIBuAFBVV95cUxOZHFDNUlXNGR5U3BNU25pY1FadWFZUlpIU216ZmVCSXdoZmNHeFhOZVJtaXRxV25tMzhqWmxHdzEzQjU1d0VPcnFiZWQ1WXlWNnE2Y0xXR0Q0c0hEWnZTWXUwQUE0R3F0RFdDMmkyU0o3ekdsQXB3LWpSeTRmY2FpdExVRG9CQmtkNzhWSG5abktiWWxscFJOaHVwSjQ0Q21FeXlmOEdUaDJ5WFlERTQ1WUVNZ3hUVmNk?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -204,21 +184,21 @@
   While tech layoffs cross 1 lakh in US, Europe's biggest technology company is offering employees
   🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxQYzk2UFFQRnRpWEdOclF3d2lCNUltUlZjbDNtMXQ1TzlkMWtaTkZCbG5BOVhwT0xqb0Vva2N5SnJKRUZDeUhkZF9RMkhiaUxJcWpKblA0YjF3S1dPZ2pQN202WTBlOTZ0U1NGaFNxVktIN2Jkd3lRLTcxWDlFUXVGcjN4VFBObV80M0ZTU1VVRnhCX3ZmTWE4ODF1cWtFYkd2TE1CdlJHVlNjazBSWGlwQ0FHYW84Q0VGZmlXdG9TbzV5UkJpYTlWaTh5WDFycFhaeDJSTnUzYUx2Z3pPMF8wTVdUQm9OWFFUdzQ4Mm1wdS05UFFLNTBpdjl6T2lvVnkyMDc3bTZ1UTMxOVVndUd5azk2Um1sQUZTcThCQWF5WHRWTWN1ejZqVjBOeFJBY1AzLVRyS3NyVllWbnNUbkRB0gHEAkFVX3lxTFBCR0pKY0oxdzJvQ1pTZ0xwd1lIWk9PdEhlLW9tMDNHZGtZX1YzN0tPOEFxR1JRQmE5THZZMUx4bFBMS1dZQTFZTl9KVDY2a2haRFBSbnFOSUVhaGE3cW43a2NLLUZNc0djaElka0IyZEx2MmhKbExwWnR2MTJtdnFINzhESzdkbjBYdHpHdWxzUXJjR1dqbnptNjZwcVpRYlZRVWVXLVFwZGhNV1daT0NDVzAwc0hPTWp3WHY0c052NHpjT3VyTTVWeno4SGZxS2swXzNZQy14TzVzTGxpV2ZGN1pQX2ZLX0tXVlp6RUdmVVpHZ0pOYzNZLXdPSHdWVGF5d3J5aEFCNjd3aEFJdWEtWTBIUE9PMFB0VE00XzdqenQzRG9GMFpfRnBubGw0UlRtZXVwNWlfNjlHRlJnY1ZKMFVWMg?oc=5
 
-- OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC
-  OpenAI says its AI went rogue and
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5
+- OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company - Tech Xplore
+  OpenAI says its AI technology acted on its own in an 'unpre
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxONlY3ejNCck96d1U5Z3hFbG9yM3Z6TEJKODFxZ1o0ZGVyQ0huVHNsR3BlemduUWw1UVk1eG1FWGIwcnRfZkNGbktZT2tYa1JyOGxZa0tTaWZsSUVUSkoxN3lrNUdRcDV1cWI1bUxyYThlSmFoZDhZU2J3SjE2Q0FIYVp2aXduU2c?oc=5
 
 - India favours local high-speed technology for Mumbai - Ahmedabad project - International Railway Journal
   India favours local high-speed technology for Mumbai
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlJobGxuVWpQWk50Yk9QU2hSZU5Dd1hLeUN2QlBoTmR2SUF2NHExbVRHamwxRGVqZ2NISDVpTTQtRTFQalNoUzB5TW5FNS1Penhhdkg0eFFBdmdOVFhiejBybWN5c3o4ekNOQ2F5RlVsRFlGckU2NHVWZ040SmhFNGtDbm5FX2M4YmtLaFBKeC1yeG1YbnNaVHlUSkczM1FfTVNYT0h5TDNjM3dEdGJlM1hqd0hUUzg2dmY4Vw?oc=5
 
-- Japan’s AI gamble: Can technology offset the cost of an ageing society? - Al Jazeera
-  Aims to use artificial intelligence in Japan to
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNcy1QZlNPT25mbzZOU2h5NG1VWTRYV0xUSVJyMG5Ibmp4dHRCVjZpSzl6YnQzbmJjTk9wZ3h4dnI3eWV5TXNmVUg3SVpJa1BPZUFDNEUwQzFZUkNYMTFacEd1SUVtTk5BcXBaRzVnR1o1R1lPc0Q1R2pIeXlUQlU1Zl9XQ2JMNzZybHZfSkJvTTFqVDBMR1ZRTFZJUHQ4bXJ5NUNmU09Tb2w4bHh6c0NFTzZ30gG3AUFVX3lxTE9kY0VPVEo4MEhQdjZkSzkxZ09vT1dhbXBRWGVtSDFrMFp0c2piU3N1UDNJUjdIXzRxZlI4cW85b3hiX0NJWWlVcVNndnlPOWV3QzlOUXBNRFlSd1pjSXBWV0hiNHg2bElnd2tqNU9hakdncEpCX0FUY1VvTUVuNGRKT182UmRuZjExcnVZazZTS0hJNDV3MEh0ZGdxdHpnVnRwNDZJNElqRWt3dUx5UjNfUGJzNWUxdw?oc=5
+- OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC
+  OpenAI says its AI went rogue and
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5
 
-- White Rabbit Technology-based Indian Standard Time (IST) Dissemination Demonstration Network - Vajiram & Ravi
-  White Rabbit Technology-based Indian Standard Time (IST
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTms5QkNVTnJ6OXhzUWVoc1ZnX2lEZVU4UWV5cm1NOUVNNnZsTWxqSVY1RFRuc0ltV2ktSTVVZ2NhYVpwQy1OcGpjTUhtRHN0VkppQ2p2WFhVMjNCbjRlYWw1YnBPZWdhdkdHRDd4Ri0zRUgwbGRfd3Y0QWRva1VnakhiaHpUYUNFUHFzR3R6RVJDRVg3VkM0cHZPRGF2SU96X2kyQnNqWTQ1bVZCamJqUUo3bUZkeURrZW1tX2lORENRZ19KS1NCU3Nha1Q4OXc?oc=5
+- Kadapa Collector urges banana farmers to adopt modern technology, form FPOs - The Hindu
+  Kadapa Collector urges banana farmers to adopt modern
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSjBwVmxDY3JZdUIzQlFXQ2ZINFVFc09KUm1NaTNhanNZUGo2cGlzX1k4eWo3YWVOWUFkQnhhRG5JLWJJUThkcnFQdTVqdzZfUi0yNXZubzM1T3FnRHFFMVFCaWxnMXoyWFJmRlVYNk41Tnd1YW9FZUVuWEFxSnJaZEpXX0RaUDNJa01UejVmZmxzRkROSTFFY0MzU2hZQ0hQUFdCd3JjY09XUE91U2FraHdKem5TTmtyTEhXRzA0TXMwZVZGdm9UV096Ul9KOU45NDhKX3FQSGtCWExVY25BZmx30gHoAUFVX3lxTE9RSlZXYkU5WnBKZWVDUlpna0FXa0hCcWgtZzB4SVdTRzNvQUxrYWxGQ2dxSlgxMG5EOTdTMEpEZHZyUXJnN1UtSkl5TFVpSER0MXBiakJyNVRQY2E1b1RrWnZVZ0d3ZGNKV2dPRGN0bl8yVEZCYVR0Yzk0T211dUN1TDN6TXBnZ3JaOVhoSmJBU1FOYkNsbjcwQkdPRk5rNEREV2ZhUTdwOEJoVmdBTXJxNWo3N1lsaGxLbUdHWGVzNWpDNmdQMDdmVHRnMkdmdkR2SVlsNGIzalhJZEJ2LWdhY2FSeUlxVlc?oc=5
 
 
-_Last updated: 2026-07-22 13:33:28 UTC_
+_Last updated: 2026-07-22 19:08:47 UTC_
