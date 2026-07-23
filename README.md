@@ -1,64 +1,88 @@
 # 📰 Daily News Summaries
 
-- India’s Modi promises fast-track courts for exam fraud fuelling protests - Al Jazeera
-  India’s Modi promises fast-track
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGtBemltRGhBS1Rkc2xmbmE1bHRuY2FmcVY0OFYtSkNXMDZKelI4SFpwNlhrdjV1UWpCQnNyd2VGeUMwY3k1Yl9PVjNMbFJMS29YMm1yejNMTGYyMEhGNlpEaHJJQ0gwd2V3dktZeWdPT2lNTDc5WUo5REVrdmJtUnE2cFIybkZYVlFjaTVXc1QxdksxU281TmVucUx4ZXJoUGlGZHVaRmF5aXY0Qm4tRjR30gG3AUFVX3lxTE9TaGpSR2ZYSXE1N2R2X2FaTmJLY2hPd2FuZkpwd2hIaE5ZWlo1am1FWkFlbnNFRi04QnpvTzVHZ2NWSFV2Ym1wNmVCR3lqUzFQMDFQMEZ2SWN5Uk1vdTFOdC1haHZwVHdidEVUNU5yWWNpNWNhWTU1LS1MTkVERXIzNU9ETGdlLTJ3OTdSMk1jOHhRRmtxNlN4SGR5RHRuMFM0NW80RmV5VXFUSGU2QmFUaExpUjFySQ?oc=5
+- In midnight video message, PM promises more steps to stop exam paper leaks
+  
+  🔗 https://indianexpress.com/article/india/pm-narendra-modi-promises-more-steps-to-address-exam-paper-leaks-after-cabinet-meeting-today-in-new-video-message-10800720/
 
-- Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
-  Balen Shah Breaks His Self Imposed Diplom
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
+- Higher Education Secretary replaced amid nationwide anger over exam paper leaks
+  
+  🔗 https://indianexpress.com/article/india/higher-education-secretary-replaced-neet-row-cjp-protest-jantar-mantar-10800707/
 
-- India: Liquor store employee narrowly escapes leopard attack - BBC
-  Liquor store employee narrowly
-  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbWVjaTBiYVFLUlRXdXU1VzlOUjhfeFBYNUVWMDBkRXdCWVlJcHNYRGY3TmN5SmF5MmxHSzlyLVNfaHItamlSMmwwV3EtTHY2T1kyUjRWVQ?oc=5
+- He stepped out to save his car. He returned to find his family buried beneath their ‘Taj Mahal’
+  
+  🔗 https://indianexpress.com/article/india/jammu-and-kashmir-poonch-landslide-saudi-nri-family-tragedy-10800671/
 
-- India relaxes e-commerce investment rules for exports in win for Amazon - Reuters
-  India relaxes e-commerce investment rules for
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk8xcnpNeU9mY0RLYi1CM3lKdk5xS1ZjcDhhWkJYclJVZmJyUnl4RlBZd0x3ZHlseU5va096WFBLNlhndWtLMFlKZXdfTktqbk1nR09jbWlRSkR3WWRVdUlBaUI0UDJHSURXUnBVdkpRemtNTW1XeUJrbV9HdTdKMlJGTDlIRDhZRVJFMXVhLURnMW5YN1FPNUgzT3RiUGJzOEtWaWl1bU1ENGI0?oc=5
+- There must be zero tolerance for terrorism: Jaishankar
+  
+  🔗 https://indianexpress.com/article/india/jaishankar-asean-summit-manila-anantnag-attack-zero-tolerance-terrorism-10800634/
 
-- INDIA Bloc MPs, Led By Rahul Gandhi, Head To Gandhi Smriti To Support Students - NDTV
-  India Bloc MPs, Led By Rahul Gandhi, Head To
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21oSTRFZE5mOE1DRjhCTGVlUUI1WFhNUWEwSHIwaU13S1Q0S3VrbDhGc1BleTRtdWlzMEFsUDctLW5fb2FhTjNzU0NxdmFFVWIwRzU3TVpjYUNWWlhjQm5Lak4wSzN0SlkxaXp6dXZFdC1tdU85SGFaUEpCWTRqcEpucGVTSVB6ZE8wZ0VIRjg3dm9xYTJ2NlIteDVVM1BGSVRTVjQ5c2txMmF4X2RhUzJjWWYxNWMx0gHAAUFVX3lxTE1GUTAwUkdHMG5BTFFFX2tzRW5TaFowanlvb3VSZU9fWDRtNC1feXZrcUtOV2lvTTRrUVNmQjhleTFCQ1R3TTVJQl90TGRFcTVkbWR5dVh2MGpKZjhzWlVXc08wekVJYnJoOGJCTklNS29FbE45LXF6clVvcUFNVVM5eWpVNGRmQ0VmZFBFYTduSEZwNTZXX3dBN3JJb2stTzFnbHRUM3BueEZzSUV6TGRuNENOU1F4Unk1cTc0QWVmdA?oc=5
+- Kerala suspends ADGP after SIT finds ‘meddling’ in Youth Congress attack probe
+  
+  🔗 https://indianexpress.com/article/india/kerala-adgp-m-r-ajith-kumar-suspended-youth-congress-attack-probe-10800611/
 
-- Hindalco chairman Kumar Mangalam Birla unfazed by new rivals in aluminium
-  Hindalco chairman Kumar Mangalam Birla dismissed competitive threats from Adani Group's new $11.5 billion aluminium venture.
-  🔗 https://www.livemint.com/companies/hindalco-chairman-kumar-mangalam-birla-unfazed-by-new-rivals-in-aluminium-11784807198726.html
+- Godfather of AI calls OpenAI-linked AI agent data breach ‘deeply concerning’
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/godfather-of-ai-calls-openai-linked-ai-agent-data-breach-deeply-concerning-10800394/
 
-- Google hit with $1 billion EU fine over search, play store breaches — here's why
-  Alphabet Inc.’s Google was fined a total of €890 million ($1 billion) by the European Union for violating the bloc’
-  🔗 https://www.livemint.com/companies/google-hit-with-1-billion-eu-fine-over-search-play-store-breaches-heres-why-11784810224081.html
+- Google hit with $1 billion EU fine, in ‘constructive’ talks to avoid more penalties
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-hit-with-1-billion-eu-fine-in-constructive-talks-to-avoid-more-penalties-10800402/
 
-- Meesho beats Q1 revenue estimates as marketplace growth narrows loss
-  Mesho reported consolidated revenue from operations
-  🔗 https://www.livemint.com/companies/company-results/companies-company-results-meesho-q1fy27-results-revenue-beats-estimates-marketplace-growth-narrows-loss-ai-logistics-11784808003464.html
+- Samsung Galaxy Z Fold 8 vs Fold 7: Price, Specs, Camera Compared
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-z-fold-8-vs-fold-7-price-specs-camera-compared-10800317/
 
-- Wipro Consumer acquires TTK's Good Home, Eva brands for  ₹256 crore in second deal in three days
-  The FMCG company is accelerating its acquisition strategy as it strengthens its home care
-  🔗 https://www.livemint.com/companies/wipro-consumer-acquires-ttks-good-home-eva-brands-for-256-crore-in-second-deal-in-three-days-fmcg-acquisitions-11784804513570.html
+- Samsung Galaxy Z Fold8 Ultra, Fold8, Flip8 now available in India: Check price and offers
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-z-fold8-ultra-fold8-flip8-now-available-in-india-check-price-and-offers-10800180/
 
-- ITC to rearchitect cigarette portfolio, take calibrated pricing actions to tackle effects of tax hike: chairman Puri
-  The company’s shares have declined over 22%
-  🔗 https://www.livemint.com/companies/news/itc-rearchitect-cigarette-portfolio-calibrated-pricing-actions-tax-hike-chairman-sanjiv-puri-fmcg-agm-11784797202692.html
+- OpenAI’s AI agent went ‘rogue’ and hacked another company: What it says about safety
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-hugging-face-security-incident-explained-10800131/
 
-- Sebi proposes faster online dispute resolution, bigger role for exchanges and depositories
-  The market regulator is seeking to speed up investor grievance redressal with tighter timelines.
-  🔗 https://www.livemint.com/market/sebi-proposes-faster-online-dispute-resolution-bigger-role-for-exchanges-and-depositories-11784810023118.html
+- Blackstone profits jump, boosted by exits and bets on AI
+  Blackstone Inc. reported a 26% jump in distributable earnings for the second quarter.
+  🔗 https://www.livemint.com/companies/news/blackstone-profits-jump-boosted-by-exits-and-bets-on-ai-11784822872923.html
 
-- AMC profits rise on stronger core business and treasury gains
-  Profit after tax rose 12-27% year-on-year in Q
-  🔗 https://www.livemint.com/market/stock-market-news/market-stock-market-news-amc-q1fy27-results-hdfc-amc-icici-prudential-amc-nippon-life-amc-profit-other-income-sip-flows-11784799577706.html
+- Air India, Saudia sign MoU to expand codeshare, strengthen India-Saudi air connectivity
+  The agreement aims to boost connectivity, explore terminal co-location
+  🔗 https://www.livemint.com/companies/air-india-saudia-sign-mou-to-expand-codeshare-strengthen-india-saudi-air-connectivity-11784826138847.html
 
-- Sebi proposes MF-only portfolio management service, wider investment universe
-  Portfolio managers would be allowed to exclusively manage client money in direct plans of mutual fund schemes, including exchange-traded funds.
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-pms-rules-mutual-fund-only-pms-25-lakh-minimum-investment-11784807708558.html
+- Infosys clocks weakest Q1 in six years, picks Dash for CEO
+  Bengaluru-based Infosys marked a slow start to the fiscal year. The company clocked $5.08 billion in revenue in the June quarter, up 0.83%
+  🔗 https://www.livemint.com/companies/infosys-announces-ashiss-kumar-dash-as-ceodesignate-11784813368396.html
 
-- SBI Mutual Fund trims stake in Ather Energy to 5% after partial profit booking. Details here
-  SBI Mutual Fund has trimmed its stake to 5% in Ather Energy through partial profit booking. The fund house has sold 6,16
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-mutual-fund-trims-stake-in-ather-energy-to-5-after-partial-profit-booking-details-here-11784803608347.html
+- Byju's founders get relief, NCLT stays insolvency bidding process till August 31 — Here's all we know
+  The NCLT's Bengaluru Bench has stayed the insolvency bidding process of Byju's parent
+  🔗 https://www.livemint.com/companies/news/byjus-founders-get-relief-nclt-stays-insolvency-bidding-process-till-august-31-heres-all-we-know-11784819665515.html
 
-- Lohia Corp IPO: Issue receives modest response on Day 1, subscribed 0.40 times; GMP signals muted listing
-  Lohia Corp's IPO saw modest demand on Day 1, with bids for 56.8 lakh shares. The IPO continues until July 27, with a price band of 
-  🔗 https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-issue-receives-modest-response-on-day-1-subscribed-0-40-times-gmp-signals-muted-listing-11784810014964.html
+- Anthropic may require all employees to follow preset stock sale plans after IPO: Report
+  Claude code creator and rival OpenAI are racing to go public as investor appetite for artificial intelligence fuels soaring valuations.
+  🔗 https://www.livemint.com/companies/news/anthropic-may-require-all-employees-to-follow-preset-stock-sale-plans-after-ipo-report-11784820547899.html
+
+- Gold falls 2% as Middle East tensions fuel inflation fears, rate-hike bets
+  Gold falls 2% as Middle East
+  🔗 https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html
+
+- Tesla falls 15%, Alphabet drops 8% as AI spending concerns mount
+  Tesla shares fell to around $319 following disappointing quarterly earnings. Alphabet also declined despite higher revenue, with concerns about rising AI investment overshadowing positive results. Both companies contributed to a 1.
+  🔗 https://www.livemint.com/market/stock-market-news/tesla-falls-15-alphabet-drops-8-as-ai-spending-concerns-mount-11784819582476.html
+
+- Indo-MIM IPO: Issue receives solid response on Day 1, subscribed 1.4 times; NII portion booked 3 times
+   Indo-MIM's IPO opened on July 23 with strong demand. The non-institutional investors' interest was highest at 3.04 times. The company aims to raise 
+  🔗 https://www.livemint.com/market/stock-market-news/indomim-ipo-issue-receives-solid-response-on-day-1-subscribed-1-4-times-nii-portion-booked-3-times-11784817692816.html
+
+- US stocks tumble on renewed concerns over massive AI spending, rising crude prices
+  The S&amp;amp;P 500 dropped 1%, the Dow Jones Industrial Average was down 1%,
+  🔗 https://www.livemint.com/market/stock-market-news/us-stocks-tumble-on-renewed-concerns-over-massive-ai-spending-rising-crude-prices-11784814492137.html
+
+- IEX Q1 results: Net profit grows 12% YoY to  ₹135 crore; electricity volumes rise 16%
+  Indian Energy Exchange reported a robust June quarter with standalone PAT increasing 12.1% YoY to  ₹126.7 crore and consolidated PAT up 11.7%. Electricity trading volume rose
+  🔗 https://www.livemint.com/market/iex-q1-results-net-profit-grows-12-yoy-to-rs-135-crore-electricity-volumes-rise-16-11784813721089.html
+
+- Nvidia CEO Huang says ‘Taiwan saved the American semiconductor industry’, and without it, Japan could have taken over
+  Taiwanese companies' choices stemmed from strategic business judgment and long-
+  🔗 https://www.livemint.com/technology/tech-news/nvidia-ceo-huang-says-taiwan-saved-the-american-semiconductor-industry-and-without-it-japan-could-have-taken-over-11784813620870.html
 
 - iPhone 18 Pro launching soon: Expected price, camera, display, processor and more
   Apple is set to launch the iPhone 18 Pro lineup soon with new color options, a smaller Dynamic
@@ -76,69 +100,77 @@
   The US Department of Energy (DOE) has announced the first projects selected under the Genesis Mission Request for Applications
   🔗 https://www.livemint.com/technology/us-dept-of-energy-announces-first-projects-under-genesis-mission-rfa-to-accelerate-ai-driven-scientific-breakthroughs-11784775381271.html
 
-- US accuses Chinas Moonshot of stealing from Anthropics Fable for latest AI model
-  US accuses China's Moonshot of stealing
-  🔗 https://www.livemint.com/technology/us-accuses-chinas-moonshot-of-stealing-from-anthropics-fable-for-latest-ai-model-11784750462319.html
+- Stock market today: Dow, S&P 500, Nasdaq sell off as rising oil prices, bond yields, and AI capex weigh - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq sell off as rising oil prices
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0ZuSlg2UWFSbFZWRG9zLXc4cWVCdTVQeVhHd2FpUm8zSnY3WVAyN0duMHluQ0x2R29zQnFhWDROVjd2QjZlb0hncGdGUnZaaWRPeHlQNlBaYWpVNk5lYnFXT081WEdwVHFrV3hQM281R0VHdU5vRjQ0Mk9ZZkY1QVhiYlN3XzJFZmdrMTM3Qy1IbmRyUHNpQ1BqNkphQzMtSi01QWMyN3hNaGZNVHpqcHpUbVlQOHN6UWN4OUFhZDVoV3hn?oc=5
 
-- The world is crazy. Why are stocks up? - Axios
-  The world is crazy. Why
-  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE4tMjM2Tld5NXA5MWlGOWhmOGw5aGFHQnEtc25sNG93Wi0xNGphaDVWRXZsMEV4c3hKTTVOSlpGbWxLNHRKZGliYjlFbi00T0VNd2FpVkNBdWpQTjhHQWZ6T2dRSUJEQ3dkbFVsOW80akFWWmM?oc=5
+- Dow tumbles 600 points as Brent crude tops $100, Alphabet and Tesla drop: Live updates - CNBC
+  Dow tumbles 600 points as Brent crude tops $100,
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1vblI0ZnhoVnRkR2FISkRsT3hDd0UzZVhPd1JmaGFldHpEY1BaTl96dmtCcXFvU0ZJdHJ0U3kxS0t6eTY3LUUzTXo5TExReU5IdWJsbVc5Z1pKekJuWVpxZTBkdjc2Tm52b3MxYVRFU0lFTEN3WW9B0gF8QVVfeXFMUHJIVU9pa2lVQ1YxcGVuVXBIbFN4M1JJS1BCQ0dvTklEbmhlYjRrelFmVXNSbXVZLVhBZHVNZjcxZlU1OEtyNU1UaGo1Vjdua1p3MFUxa0dPYlo4ay1HN0k0eXBNcXlfU0ZRX1gtb3dPOXVhbC1IR3RWWlZNZg?oc=5
 
-- Stock Market Today: Futures Sink After Alphabet, Tesla Earnings; Oil Heads Toward $100 a Barrel as Trump Threatens Iran Over Houthi Attacks - Investopedia
-  Stock Market Today: Futures Sink After Alphabet, Tesla Earnings. Oil Heads Toward $
+- Stock Market Today: Major Indexes Dive as Alphabet, Tesla Shares Drop, Oil Surpasses $100 a Barrel - Investopedia
+  Stock Market Today: Major Indexes Dive as Alphabet, Tesla Shares Drop
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGZYYWZRdU1TVjMzNjRZTXctU3QtN0l2VGU4bjJCVFMzVXBucmFtM3hhZ1pNRE90MGtpdFdpRXFVVUdiS3pHb0haQWIxNTA1eGlCVk1pLUtRc0NNVnExbFprQ1FfLVNaUnA5dEd5UkQ3djZWZnRqU2M1Y1RsYlR0c3gwU3JhSlkwWFZvWDFINW0?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq futures slip as markets weigh AI capex, widening Mideast attacks - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq futures slip as markets
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSFJSYlNkdmkteEZHVnV5VFh1QXdtSXJPSTRld1M3V1UtUXFDeTJvQW96VnI5aXVhc2xrZ1J3cGI5NDVJX0pBSkxfVFB0dFdURnZGc1MtMUdLNjR4aldFTzRkVy1nWlJzY2F2YWhEQnUwRmM2bEpEUVI1MnJ5M2owcnhPMzNjaUdTQXNud3l5Sm9fTHhfZDVFTFlfWENIaGQwSUlpMVZDTkttUkFzUGExTTdKdEh2YlhSWlJ5cE44b25LT3ZveEJkTFNsRm9uUWRjYmY3WEdESnZiNy1xekxGa25za0JOblB1bGc?oc=5
+- The world’s most important market is flashing red about the Iran war - CNN
+  The world’s most important market is flashing
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE01M0tDOWxlS2Y5ZkRyWTBBblZqMjR1S1JMQS16TWZfTTBlaXhXdWM4NnlSbFNIaEZrNnhFLW5wWG5iOXhYcEdFOXVZZTBhRjlScXZTMGp2aXJCYnBqVHhreUloYU1CUmY5aTFRMlNOUXpOSU0?oc=5
 
-- Dow futures tumble 600 points as Brent crude tops $100, Alphabet and Tesla drop: Live updates - CNBC
-  Dow futures tumble 600 points as Brent crude tops $100, Alphabet
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1vblI0ZnhoVnRkR2FISkRsT3hDd0UzZVhPd1JmaGFldHpEY1BaTl96dmtCcXFvU0ZJdHJ0U3kxS0t6eTY3LUUzTXo5TExReU5IdWJsbVc5Z1pKekJuWVpxZTBkdjc2Tm52b3MxYVRFU0lFTEN3WW9B?oc=5
+- Billionaire Adani weighs airline launch in Indian duopoly market, sources say - Reuters
+  Billionaire Adani weighs airline launch in
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVlPclZMLThTakdFMFo3cTcwcnRxcHB1MFBhYndvTjEwTWQyTVZJa3BnRFRQUk1FdDFZeXpqNWVVLTBBWWRlT0FLdnoyeHMzdno5MDhiUHctSUNHSVlYMjlIaGxjdm5tRlhKYm0yVlBYSlNMX1FvcXJ4cFBCODAwRFVVSzJsNkhmQ0Ywd212TjQ2amduVEdxZ3lwQ3l2WVkyVzlLbVRJSVdYVlFleFJF?oc=5
 
-- BlackRock Says Focus on Credit Income in a Volatile Market - Bloomberg.com
-  BlackRock says Focus on Credit Income in
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTFENVRyZ0M3RTU0OTZoem9uOE5mNDEyNFRLQXZNSjNTcDl3SXFUT2p2ZXN2NVlLTEhvSEpxQkt3OU1qdmFrUFdnck5TWmtGa2lGNXN6ejhkWHRyVnhGWWVjVnNGRWpWeTRXZlBKS3dhbFA5VlpUcUp4cG9QXzZRX0Nsc0Jjd3kxZU9Ja2VaNHhCcWJ0UVQtOEpMTVZ6RHI0RWRCZ1JXTU9Ua1lwUVE?oc=5
+- Suryoday SFB Q1 profit more than doubles on strong loan growth
+  Suryoday Small Finance Bank reported a more than twofold rise in first-quarter net profit to Rs 75 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/suryoday-sfb-q1-profit-more-than-doubles-on-strong-loan-growth/articleshow/132586902.cms
 
-- AI-led boom in IPOs raises concerns about a bust
-  This has been a banner year for stock listings, thanks largely to AI firms. The massive size of the operations raises questions about whether the markets can continue to absorb them.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-led-boom-in-ipos-raises-concerns-about-a-bust/articleshow/132582690.cms
+- Dow forecasts quarterly core profit slightly above estimates, warns of Middle East uncertainty
+  Dow Inc predicts that its third-quarter core profit will surpass Wall Street's forecasts, bolstered by effective cost-cutting strategies. Shares of the chemicals manufacturer experienced an uptick during morning trading.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-forecasts-quarterly-core-profit-slightly-above-estimates-warns-of-middle-east-uncertainty/articleshow/132586824.cms
 
-- Sebi proposes allowing portfolio managers to invest overseas, in to-be-listed securities
-  India's markets regulator is looking to simplify compliance requirements for portfolio managers. The initiative also seeks to enhance the application of derivatives strategies for clients.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-allowing-portfolio-managers-to-invest-overseas-in-to-be-listed-securities/articleshow/132582640.cms
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Sensex and Nifty declined for a fourth straight session as surging crude oil prices and escalating US-Iran tensions dampened investor sentiment. Analysts flagged rising inflation risks, bearish technical indicators
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/132586769.cms
 
-- Gulshan Group to invest Rs 1,000 cr on new housing project in Ghaziabad
-  Gulshan Empire will comprise five hundred upscale homes, set to be completed in four years. The land acquisition cost was around one hundred seventy-five crore rupees.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/gulshan-group-to-invest-rs-1000-cr-on-new-housing-project-in-ghaziabad/articleshow/132581500.cms
+- Nasdaq tops profit estimates on high-profile listings, robust data revenue
+  Nasdaq outshined analyst profits, driven by robust revenue growth in its capital access platforms. The CFO reassured stakeholders, minimizing fears about rivalry from perpetual futures contracts.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-tops-profit-estimates-on-high-profile-listings-robust-data-revenue/articleshow/132585994.cms
 
-- Mahindra Lifespace Developers Q1 profit rises 67% YoY to Rs 86 crore
-  Mahindra Lifespace Developers has achieved a remarkable 67 percent increase in net profit for the June quarter. Total income skyrocketing to Rs 977.54 crore from just Rs 40.61 crore last year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-lifespace-developers-q1-profit-rises-67-yoy-to-rs-86-crore/articleshow/132581412.cms
+- Tesla shares crash 14%, Alphabet falls 6% as AI spending worries hit Wall Street
+  Tesla and Alphabet shares fell after quarterly results. The selloff highlighted Wall Street’s growing demand for profitable AI investments.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/tesla-shares-crash-14-alphabet-falls-6-as-ai-spending-worries-hit-wall-street/articleshow/132585791.cms
 
-- Kuwait raises $6 billion in three-tranche bond sale, finance ministry says
-  Kuwait has secured six billion dollars through its latest sovereign bond issuance. This effort attracted an overwhelming response from investors, who placed orders surpassing eighteen billion dollars.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/kuwait-raises-6-billion-in-three-tranche-bond-sale-finance-ministry-says/articleshow/132581123.cms
+- PM Assures Students In First Message On Paper Leaks, Rahul Gandhi, CJP Hit Back - NDTV
+  PM Assures Students In First Message On Paper Leaks,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQcU5LRFp1NVFJNTNraEZ1S2xvaDNMdWVQN2J3RkJ1d0lHbVJmd04yOVhsT0UwLTQzeklPWWotYlVlWjM1LXdTSEQ3cmJJV2prRXVneDc3Y0cyQ21laGwyeUIzV2t0U0Nicm1fRk9jTThhNjlBazRGQXRuSVd6QUt6eWxHa2F1c29JUXpEMXdZdVo5a3d6WVZyaHY5cE9kdkZheTdHeWhlWUlOSnVEcXF1RmpwcnJXZUdLQzRIUtIBxAFBVV95cUxQU3lLZnVVRHdmZkl2ZkNKQUU1V3dTZzNvS0lXQkk5RVNHRkhNQkpMY1drVzlNbk5MbXQ5c2pQWEdFbVJNVjIzNnNDUU9fNTA1VjZxMWpoZDYyQ3B6QmI4WEtzVkphZ29RZ0lEZjhQc3dWSF9xc19naFZkSFZBcnRCaGhTVVZxLWtla05LTWRIT3pnZFhYcDZhN09uT2Y1dl94cE1oeHYzbDdPRFlEd1NUb2NZeFlQdVg3MDJmWmg3WkdjOEU1?oc=5
 
-- India’s Modi promises fast-track courts for exam fraud fuelling protests - Al Jazeera
-  India’s Modi promises fast-track
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGtBemltRGhBS1Rkc2xmbmE1bHRuY2FmcVY0OFYtSkNXMDZKelI4SFpwNlhrdjV1UWpCQnNyd2VGeUMwY3k1Yl9PVjNMbFJMS29YMm1yejNMTGYyMEhGNlpEaHJJQ0gwd2V3dktZeWdPT2lNTDc5WUo5REVrdmJtUnE2cFIybkZYVlFjaTVXc1QxdksxU281TmVucUx4ZXJoUGlGZHVaRmF5aXY0Qm4tRjR30gG3AUFVX3lxTE9TaGpSR2ZYSXE1N2R2X2FaTmJLY2hPd2FuZkpwd2hIaE5ZWlo1am1FWkFlbnNFRi04QnpvTzVHZ2NWSFV2Ym1wNmVCR3lqUzFQMDFQMEZ2SWN5Uk1vdTFOdC1haHZwVHdidEVUNU5yWWNpNWNhWTU1LS1MTkVERXIzNU9ETGdlLTJ3OTdSMk1jOHhRRmtxNlN4SGR5RHRuMFM0NW80RmV5VXFUSGU2QmFUaExpUjFySQ?oc=5
+- India protest: How Modi’s refusal to sack education minister fits a pattern - Al Jazeera
+  India protest: How Modi’s refusal to sack
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVl4UF82b19sQzFLR0dWZXZxeE1wUXB5VHBfdzFuWXhUUVAtZHhrWU5Fbnh1MURmVmZxbmdGRXVPLXpZWVRCVUd6M3RqYThudkQzWk1nWnVkVldjVEpSb3YyVFRPcFlna1Y1TjN0eU5tckFadWVZUzdEMmRRZzZtU1E4dDNSc1NpMWRqSVNKTlNKMnllQnhfbVVXRDVoLTVoMWJxLXBaeW5zVlB4TUgyZWZIWGHSAboBQVVfeXFMTzhDM0VqVktPeHJ6Ql9KV2FSR2FobFZzY0RmV2xpVlhtTGVKSGh2NlF2cENnR3FLTzhHTGowTnNnU0did3dWQ1FWa18yOXJQUGtxNmFheGZEd0ZSUjg5aEpLWVBCM0NyNFROdS1nU3VhSHZvMDZjckFLV25CZmVhamVidllWRklvYTBHNE1COWY2M0VTRFFYS3JDNTZ4ZXM0bnphODk0MFJUU1FPclZpRDNPR0pFYjlLX0V3?oc=5
+
+- PM Promises "More Strict Actions" Against Leaks Today As Protests Continue - NDTV
+  PM Promises "More Strict Actions"
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbkd3RW5CcV9VdHRYX1FsRlhWMlNUTG1Ea0N5T2pCVEdXalVsbjQ2WWVtNTRSNlFOUHNyTFhmdWxJUHRucGxfeXVNZlBYbElWOW9aWHNwVDBDeHQ1R0kwVW5HNzdfdDNsOHRLWlg5a2N3VDhSTnIwOXNsdWpQSnhnZlFCR3BpTlZTUjhTVnEwZ0dkLVYwVXF2UG9QQTBrQWVURkJXN2kzQTBrZ3NZWE9lQVlmUjlPMm950gHAAUFVX3lxTE4wa1NCeUZmZjRXaHNmcVNXNUxGNUZNOUNSdkJUblBqbUN3all0U2dUVDJLeDVKWVVFWnpBVkktRnJYQ01oZk14cEplUHUzR0IzSGVpM0cyQ0E5ZU5JNUNjekcySmN1Mk1HRHZydnZxZVJ4Sk1uX0tWNmxGSzNlRzgyaE5FTWluTkEyQ1VvZ2twVUZ6U2pQZ1RTNDZBYVB4dFVEcFN1a19UUGsxOUFtQkVBX0dmcGJ5YzU4aE4zYlpJQQ?oc=5
 
 - Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
   Balen Shah Breaks His Self Imposed Diplom
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
 
-- India: Liquor store employee narrowly escapes leopard attack - BBC
-  Liquor store employee narrowly
-  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbWVjaTBiYVFLUlRXdXU1VzlOUjhfeFBYNUVWMDBkRXdCWVlJcHNYRGY3TmN5SmF5MmxHSzlyLVNfaHItamlSMmwwV3EtTHY2T1kyUjRWVQ?oc=5
+- Monsoon havoc cripples south Gujarat - The Times of India
+  The Times of India reported that
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmhRSnZvcG4waDB6WHlfMG9ZZXR3T05hMU1DZURsVWYwVWxoMUtERlpnYjhRYUZrWmhLdi1ZT2NaQWJFc2RpRldJNjFWVGswYldkSW9uREpGMUVhOTVxTFFXS3pvb1RuVk1hM2JQVjhjUkNsTmIzTHF4UDJQcG11UklIRGh3S0Qxd2dBY1NwY0kxOVY5VUdVeTVvWDd2TjRaRzl1NWs1QmNITG1WYml3TGFUWdIBuAFBVV95cUxONkFuNVpOeV85cmpuMVRLM25ydjJtSEhpRkl3bWlhY1g0a0NXc25uMUR3MFBsSGJPREFRWnhxVktCZFN2MFNwZmRxbVZPMXpLcEZhQnBaOThIRWdDNHdyODliUzNpT0o1ckhobENTNHdYZjd6akhQVkhjTTdjNF9iTjBSVWRTbXhDVUg1eEZ0NHNZai0yTXluWXljb0YzWVZBc1ZIVnoyWklGaGhRRGFqeUxBWW9BTVND?oc=5
 
-- India relaxes e-commerce investment rules for exports in win for Amazon - Reuters
-  India relaxes e-commerce investment rules for
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk8xcnpNeU9mY0RLYi1CM3lKdk5xS1ZjcDhhWkJYclJVZmJyUnl4RlBZd0x3ZHlseU5va096WFBLNlhndWtLMFlKZXdfTktqbk1nR09jbWlRSkR3WWRVdUlBaUI0UDJHSURXUnBVdkpRemtNTW1XeUJrbV9HdTdKMlJGTDlIRDhZRVJFMXVhLURnMW5YN1FPNUgzT3RiUGJzOEtWaWl1bU1ENGI0?oc=5
+- Fractal Q1: Profit Zooms 92% YoY to ₹72 Cr, Revenue At ₹913 Cr
+  AI and advanced analytics company Fractal saw a nearly 92% jump in profit after tax to ₹72.3 Cr in the first quarter.
+  🔗 https://inc42.com/buzz/fractal-q1-profit-zooms-92-yoy-to-%e2%82%b972-cr-revenue-at-%e2%82%b9913-cr/
 
-- INDIA Bloc MPs, Led By Rahul Gandhi, Head To Gandhi Smriti To Support Students - NDTV
-  India Bloc MPs, Led By Rahul Gandhi, Head To
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21oSTRFZE5mOE1DRjhCTGVlUUI1WFhNUWEwSHIwaU13S1Q0S3VrbDhGc1BleTRtdWlzMEFsUDctLW5fb2FhTjNzU0NxdmFFVWIwRzU3TVpjYUNWWlhjQm5Lak4wSzN0SlkxaXp6dXZFdC1tdU85SGFaUEpCWTRqcEpucGVTSVB6ZE8wZ0VIRjg3dm9xYTJ2NlIteDVVM1BGSVRTVjQ5c2txMmF4X2RhUzJjWWYxNWMx0gHAAUFVX3lxTE1GUTAwUkdHMG5BTFFFX2tzRW5TaFowanlvb3VSZU9fWDRtNC1feXZrcUtOV2lvTTRrUVNmQjhleTFCQ1R3TTVJQl90TGRFcTVkbWR5dVh2MGpKZjhzWlVXc08wekVJYnJoOGJCTklNS29FbE45LXF6clVvcUFNVVM5eWpVNGRmQ0VmZFBFYTduSEZwNTZXX3dBN3JJb2stTzFnbHRUM3BueEZzSUV6TGRuNENOU1F4Unk1cTc0QWVmdA?oc=5
+- NCLT Stays BYJU’S Insolvency Bidding Process Till August 31
+  The National Company Law Tribunal (NCLT) has stayed the insolvency bidding process of embattled edtech startup BYJU&#8217;
+  🔗 https://inc42.com/buzz/nclt-stays-byjus-insolvency-bidding-process-till-august-31/
+
+- After ZeroPe, Ashneer Grover Launches Employee-Focused Lending Platform Fund My Staff
+  BharatPe cofounder Ashneer Grover has launched a new fintech venture. Fund My Staff is a platform that enables employers to act
+  🔗 https://inc42.com/buzz/after-zerope-ashneer-grover-launches-employee-focused-lending-platform-fund-my-staff/
 
 - Go Digit Q1: Profit Declines 37% YoY To  ₹86.4 Cr
   Insuretech platform Go Digit’s profit slumped 37.5% to ₹86.4 Cr in the quarter ended June
@@ -148,77 +180,85 @@
   Swiggy’s board has approved a proposal to become an Indian owned and controlled company (IOCC)
   🔗 https://inc42.com/buzz/swiggy-caps-foreign-ownership-at-49-5-to-become-indian-owned-controlled-company/
 
-- Vikram-1 Test Launch: Skyroot Enters Its Commercial Launch Era, Can It Take On SpaceX?
-  Last week, Skyroot Aerospace&#8217;s Vikram-1 rocket lifted off from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh.
-  🔗 https://inc42.com/features/vikram-1-test-launch-skyroot-enters-its-commercial-launch-era-can-it-take-on-spacex/
+- PM Assures Students In First Message On Paper Leaks, Rahul Gandhi, CJP Hit Back - NDTV
+  PM Assures Students In First Message On Paper Leaks,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQcU5LRFp1NVFJNTNraEZ1S2xvaDNMdWVQN2J3RkJ1d0lHbVJmd04yOVhsT0UwLTQzeklPWWotYlVlWjM1LXdTSEQ3cmJJV2prRXVneDc3Y0cyQ21laGwyeUIzV2t0U0Nicm1fRk9jTThhNjlBazRGQXRuSVd6QUt6eWxHa2F1c29JUXpEMXdZdVo5a3d6WVZyaHY5cE9kdkZheTdHeWhlWUlOSnVEcXF1RmpwcnJXZUdLQzRIUtIBxAFBVV95cUxQU3lLZnVVRHdmZkl2ZkNKQUU1V3dTZzNvS0lXQkk5RVNHRkhNQkpMY1drVzlNbk5MbXQ5c2pQWEdFbVJNVjIzNnNDUU9fNTA1VjZxMWpoZDYyQ3B6QmI4WEtzVkphZ29RZ0lEZjhQc3dWSF9xc19naFZkSFZBcnRCaGhTVVZxLWtla05LTWRIT3pnZFhYcDZhN09uT2Y1dl94cE1oeHYzbDdPRFlEd1NUb2NZeFlQdVg3MDJmWmg3WkdjOEU1?oc=5
 
-- Meesho Trims Q1 Loss 54% YoY To ₹133 Cr, Revenue Up 48%
-  Meesho managed to trim its net loss for the June quarter (Q1 FY27) by 54% to ₹132.8 Cr.
-  🔗 https://inc42.com/buzz/meesho-trims-q1-loss-54-yoy-to-%e2%82%b9133-cr-revenue-up-48/
+- India protest: How Modi’s refusal to sack education minister fits a pattern - Al Jazeera
+  India protest: How Modi’s refusal to sack
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVl4UF82b19sQzFLR0dWZXZxeE1wUXB5VHBfdzFuWXhUUVAtZHhrWU5Fbnh1MURmVmZxbmdGRXVPLXpZWVRCVUd6M3RqYThudkQzWk1nWnVkVldjVEpSb3YyVFRPcFlna1Y1TjN0eU5tckFadWVZUzdEMmRRZzZtU1E4dDNSc1NpMWRqSVNKTlNKMnllQnhfbVVXRDVoLTVoMWJxLXBaeW5zVlB4TUgyZWZIWGHSAboBQVVfeXFMTzhDM0VqVktPeHJ6Ql9KV2FSR2FobFZzY0RmV2xpVlhtTGVKSGh2NlF2cENnR3FLTzhHTGowTnNnU0did3dWQ1FWa18yOXJQUGtxNmFheGZEd0ZSUjg5aEpLWVBCM0NyNFROdS1nU3VhSHZvMDZjckFLV25CZmVhamVidllWRklvYTBHNE1COWY2M0VTRFFYS3JDNTZ4ZXM0bnphODk0MFJUU1FPclZpRDNPR0pFYjlLX0V3?oc=5
 
-- PharmEasy-Owned Thyrocare’s Q1 Profit Soars 34% To ₹51 Cr
-  PharmEasy-owned Thyrocare’s consolidated net profit for the quarter ended June 30, 2026 (Q1 FY27)
-  🔗 https://inc42.com/buzz/pharmeasy-owned-thyrocares-q1-profit-soars-34-to-%e2%82%b951-cr/
-
-- India’s Modi promises fast-track courts for exam fraud fuelling protests - Al Jazeera
-  India’s Modi promises fast-track
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGtBemltRGhBS1Rkc2xmbmE1bHRuY2FmcVY0OFYtSkNXMDZKelI4SFpwNlhrdjV1UWpCQnNyd2VGeUMwY3k1Yl9PVjNMbFJMS29YMm1yejNMTGYyMEhGNlpEaHJJQ0gwd2V3dktZeWdPT2lNTDc5WUo5REVrdmJtUnE2cFIybkZYVlFjaTVXc1QxdksxU281TmVucUx4ZXJoUGlGZHVaRmF5aXY0Qm4tRjR30gG3AUFVX3lxTE9TaGpSR2ZYSXE1N2R2X2FaTmJLY2hPd2FuZkpwd2hIaE5ZWlo1am1FWkFlbnNFRi04QnpvTzVHZ2NWSFV2Ym1wNmVCR3lqUzFQMDFQMEZ2SWN5Uk1vdTFOdC1haHZwVHdidEVUNU5yWWNpNWNhWTU1LS1MTkVERXIzNU9ETGdlLTJ3OTdSMk1jOHhRRmtxNlN4SGR5RHRuMFM0NW80RmV5VXFUSGU2QmFUaExpUjFySQ?oc=5
+- PM Promises "More Strict Actions" Against Leaks Today As Protests Continue - NDTV
+  PM Promises "More Strict Actions"
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbkd3RW5CcV9VdHRYX1FsRlhWMlNUTG1Ea0N5T2pCVEdXalVsbjQ2WWVtNTRSNlFOUHNyTFhmdWxJUHRucGxfeXVNZlBYbElWOW9aWHNwVDBDeHQ1R0kwVW5HNzdfdDNsOHRLWlg5a2N3VDhSTnIwOXNsdWpQSnhnZlFCR3BpTlZTUjhTVnEwZ0dkLVYwVXF2UG9QQTBrQWVURkJXN2kzQTBrZ3NZWE9lQVlmUjlPMm950gHAAUFVX3lxTE4wa1NCeUZmZjRXaHNmcVNXNUxGNUZNOUNSdkJUblBqbUN3all0U2dUVDJLeDVKWVVFWnpBVkktRnJYQ01oZk14cEplUHUzR0IzSGVpM0cyQ0E5ZU5JNUNjekcySmN1Mk1HRHZydnZxZVJ4Sk1uX0tWNmxGSzNlRzgyaE5FTWluTkEyQ1VvZ2twVUZ6U2pQZ1RTNDZBYVB4dFVEcFN1a19UUGsxOUFtQkVBX0dmcGJ5YzU4aE4zYlpJQQ?oc=5
 
 - Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
   Balen Shah Breaks His Self Imposed Diplom
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
 
-- India: Liquor store employee narrowly escapes leopard attack - BBC
-  Liquor store employee narrowly
-  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbWVjaTBiYVFLUlRXdXU1VzlOUjhfeFBYNUVWMDBkRXdCWVlJcHNYRGY3TmN5SmF5MmxHSzlyLVNfaHItamlSMmwwV3EtTHY2T1kyUjRWVQ?oc=5
+- Monsoon havoc cripples south Gujarat - The Times of India
+  The Times of India reported that
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmhRSnZvcG4waDB6WHlfMG9ZZXR3T05hMU1DZURsVWYwVWxoMUtERlpnYjhRYUZrWmhLdi1ZT2NaQWJFc2RpRldJNjFWVGswYldkSW9uREpGMUVhOTVxTFFXS3pvb1RuVk1hM2JQVjhjUkNsTmIzTHF4UDJQcG11UklIRGh3S0Qxd2dBY1NwY0kxOVY5VUdVeTVvWDd2TjRaRzl1NWs1QmNITG1WYml3TGFUWdIBuAFBVV95cUxONkFuNVpOeV85cmpuMVRLM25ydjJtSEhpRkl3bWlhY1g0a0NXc25uMUR3MFBsSGJPREFRWnhxVktCZFN2MFNwZmRxbVZPMXpLcEZhQnBaOThIRWdDNHdyODliUzNpT0o1ckhobENTNHdYZjd6akhQVkhjTTdjNF9iTjBSVWRTbXhDVUg1eEZ0NHNZai0yTXluWXljb0YzWVZBc1ZIVnoyWklGaGhRRGFqeUxBWW9BTVND?oc=5
 
-- India relaxes e-commerce investment rules for exports in win for Amazon - Reuters
-  India relaxes e-commerce investment rules for
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk8xcnpNeU9mY0RLYi1CM3lKdk5xS1ZjcDhhWkJYclJVZmJyUnl4RlBZd0x3ZHlseU5va096WFBLNlhndWtLMFlKZXdfTktqbk1nR09jbWlRSkR3WWRVdUlBaUI0UDJHSURXUnBVdkpRemtNTW1XeUJrbV9HdTdKMlJGTDlIRDhZRVJFMXVhLURnMW5YN1FPNUgzT3RiUGJzOEtWaWl1bU1ENGI0?oc=5
+- PM Assures Students In First Message On Paper Leaks, Rahul Gandhi, CJP Hit Back - NDTV
+  PM Assures Students In First Message On Paper Leaks,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQcU5LRFp1NVFJNTNraEZ1S2xvaDNMdWVQN2J3RkJ1d0lHbVJmd04yOVhsT0UwLTQzeklPWWotYlVlWjM1LXdTSEQ3cmJJV2prRXVneDc3Y0cyQ21laGwyeUIzV2t0U0Nicm1fRk9jTThhNjlBazRGQXRuSVd6QUt6eWxHa2F1c29JUXpEMXdZdVo5a3d6WVZyaHY5cE9kdkZheTdHeWhlWUlOSnVEcXF1RmpwcnJXZUdLQzRIUtIBxAFBVV95cUxQU3lLZnVVRHdmZkl2ZkNKQUU1V3dTZzNvS0lXQkk5RVNHRkhNQkpMY1drVzlNbk5MbXQ5c2pQWEdFbVJNVjIzNnNDUU9fNTA1VjZxMWpoZDYyQ3B6QmI4WEtzVkphZ29RZ0lEZjhQc3dWSF9xc19naFZkSFZBcnRCaGhTVVZxLWtla05LTWRIT3pnZFhYcDZhN09uT2Y1dl94cE1oeHYzbDdPRFlEd1NUb2NZeFlQdVg3MDJmWmg3WkdjOEU1?oc=5
 
-- INDIA Bloc MPs, Led By Rahul Gandhi, Head To Gandhi Smriti To Support Students - NDTV
-  India Bloc MPs, Led By Rahul Gandhi, Head To
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21oSTRFZE5mOE1DRjhCTGVlUUI1WFhNUWEwSHIwaU13S1Q0S3VrbDhGc1BleTRtdWlzMEFsUDctLW5fb2FhTjNzU0NxdmFFVWIwRzU3TVpjYUNWWlhjQm5Lak4wSzN0SlkxaXp6dXZFdC1tdU85SGFaUEpCWTRqcEpucGVTSVB6ZE8wZ0VIRjg3dm9xYTJ2NlIteDVVM1BGSVRTVjQ5c2txMmF4X2RhUzJjWWYxNWMx0gHAAUFVX3lxTE1GUTAwUkdHMG5BTFFFX2tzRW5TaFowanlvb3VSZU9fWDRtNC1feXZrcUtOV2lvTTRrUVNmQjhleTFCQ1R3TTVJQl90TGRFcTVkbWR5dVh2MGpKZjhzWlVXc08wekVJYnJoOGJCTklNS29FbE45LXF6clVvcUFNVVM5eWpVNGRmQ0VmZFBFYTduSEZwNTZXX3dBN3JJb2stTzFnbHRUM3BueEZzSUV6TGRuNENOU1F4Unk1cTc0QWVmdA?oc=5
+- India protest: How Modi’s refusal to sack education minister fits a pattern - Al Jazeera
+  India protest: How Modi’s refusal to sack
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVl4UF82b19sQzFLR0dWZXZxeE1wUXB5VHBfdzFuWXhUUVAtZHhrWU5Fbnh1MURmVmZxbmdGRXVPLXpZWVRCVUd6M3RqYThudkQzWk1nWnVkVldjVEpSb3YyVFRPcFlna1Y1TjN0eU5tckFadWVZUzdEMmRRZzZtU1E4dDNSc1NpMWRqSVNKTlNKMnllQnhfbVVXRDVoLTVoMWJxLXBaeW5zVlB4TUgyZWZIWGHSAboBQVVfeXFMTzhDM0VqVktPeHJ6Ql9KV2FSR2FobFZzY0RmV2xpVlhtTGVKSGh2NlF2cENnR3FLTzhHTGowTnNnU0did3dWQ1FWa18yOXJQUGtxNmFheGZEd0ZSUjg5aEpLWVBCM0NyNFROdS1nU3VhSHZvMDZjckFLV25CZmVhamVidllWRklvYTBHNE1COWY2M0VTRFFYS3JDNTZ4ZXM0bnphODk0MFJUU1FPclZpRDNPR0pFYjlLX0V3?oc=5
 
-- India’s Modi promises fast-track courts for exam fraud fuelling protests - Al Jazeera
-  India’s Modi promises fast-track
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGtBemltRGhBS1Rkc2xmbmE1bHRuY2FmcVY0OFYtSkNXMDZKelI4SFpwNlhrdjV1UWpCQnNyd2VGeUMwY3k1Yl9PVjNMbFJMS29YMm1yejNMTGYyMEhGNlpEaHJJQ0gwd2V3dktZeWdPT2lNTDc5WUo5REVrdmJtUnE2cFIybkZYVlFjaTVXc1QxdksxU281TmVucUx4ZXJoUGlGZHVaRmF5aXY0Qm4tRjR30gG3AUFVX3lxTE9TaGpSR2ZYSXE1N2R2X2FaTmJLY2hPd2FuZkpwd2hIaE5ZWlo1am1FWkFlbnNFRi04QnpvTzVHZ2NWSFV2Ym1wNmVCR3lqUzFQMDFQMEZ2SWN5Uk1vdTFOdC1haHZwVHdidEVUNU5yWWNpNWNhWTU1LS1MTkVERXIzNU9ETGdlLTJ3OTdSMk1jOHhRRmtxNlN4SGR5RHRuMFM0NW80RmV5VXFUSGU2QmFUaExpUjFySQ?oc=5
-
-- Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
-  Balen Shah Breaks His Self Imposed Diplom
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
-
-- India: Liquor store employee narrowly escapes leopard attack - BBC
-  Liquor store employee narrowly
-  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbWVjaTBiYVFLUlRXdXU1VzlOUjhfeFBYNUVWMDBkRXdCWVlJcHNYRGY3TmN5SmF5MmxHSzlyLVNfaHItamlSMmwwV3EtTHY2T1kyUjRWVQ?oc=5
-
-- India relaxes e-commerce investment rules for exports in win for Amazon - Reuters
-  India relaxes e-commerce investment rules for
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk8xcnpNeU9mY0RLYi1CM3lKdk5xS1ZjcDhhWkJYclJVZmJyUnl4RlBZd0x3ZHlseU5va096WFBLNlhndWtLMFlKZXdfTktqbk1nR09jbWlRSkR3WWRVdUlBaUI0UDJHSURXUnBVdkpRemtNTW1XeUJrbV9HdTdKMlJGTDlIRDhZRVJFMXVhLURnMW5YN1FPNUgzT3RiUGJzOEtWaWl1bU1ENGI0?oc=5
-
-- INDIA Bloc MPs, Led By Rahul Gandhi, Head To Gandhi Smriti To Support Students - NDTV
-  India Bloc MPs, Led By Rahul Gandhi, Head To
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21oSTRFZE5mOE1DRjhCTGVlUUI1WFhNUWEwSHIwaU13S1Q0S3VrbDhGc1BleTRtdWlzMEFsUDctLW5fb2FhTjNzU0NxdmFFVWIwRzU3TVpjYUNWWlhjQm5Lak4wSzN0SlkxaXp6dXZFdC1tdU85SGFaUEpCWTRqcEpucGVTSVB6ZE8wZ0VIRjg3dm9xYTJ2NlIteDVVM1BGSVRTVjQ5c2txMmF4X2RhUzJjWWYxNWMx0gHAAUFVX3lxTE1GUTAwUkdHMG5BTFFFX2tzRW5TaFowanlvb3VSZU9fWDRtNC1feXZrcUtOV2lvTTRrUVNmQjhleTFCQ1R3TTVJQl90TGRFcTVkbWR5dVh2MGpKZjhzWlVXc08wekVJYnJoOGJCTklNS29FbE45LXF6clVvcUFNVVM5eWpVNGRmQ0VmZFBFYTduSEZwNTZXX3dBN3JJb2stTzFnbHRUM3BueEZzSUV6TGRuNENOU1F4Unk1cTc0QWVmdA?oc=5
-
-- India’s Modi promises fast-track courts for exam fraud fuelling protests - Al Jazeera
-  India’s Modi promises fast-track
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGtBemltRGhBS1Rkc2xmbmE1bHRuY2FmcVY0OFYtSkNXMDZKelI4SFpwNlhrdjV1UWpCQnNyd2VGeUMwY3k1Yl9PVjNMbFJMS29YMm1yejNMTGYyMEhGNlpEaHJJQ0gwd2V3dktZeWdPT2lNTDc5WUo5REVrdmJtUnE2cFIybkZYVlFjaTVXc1QxdksxU281TmVucUx4ZXJoUGlGZHVaRmF5aXY0Qm4tRjR30gG3AUFVX3lxTE9TaGpSR2ZYSXE1N2R2X2FaTmJLY2hPd2FuZkpwd2hIaE5ZWlo1am1FWkFlbnNFRi04QnpvTzVHZ2NWSFV2Ym1wNmVCR3lqUzFQMDFQMEZ2SWN5Uk1vdTFOdC1haHZwVHdidEVUNU5yWWNpNWNhWTU1LS1MTkVERXIzNU9ETGdlLTJ3OTdSMk1jOHhRRmtxNlN4SGR5RHRuMFM0NW80RmV5VXFUSGU2QmFUaExpUjFySQ?oc=5
+- PM Promises "More Strict Actions" Against Leaks Today As Protests Continue - NDTV
+  PM Promises "More Strict Actions"
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbkd3RW5CcV9VdHRYX1FsRlhWMlNUTG1Ea0N5T2pCVEdXalVsbjQ2WWVtNTRSNlFOUHNyTFhmdWxJUHRucGxfeXVNZlBYbElWOW9aWHNwVDBDeHQ1R0kwVW5HNzdfdDNsOHRLWlg5a2N3VDhSTnIwOXNsdWpQSnhnZlFCR3BpTlZTUjhTVnEwZ0dkLVYwVXF2UG9QQTBrQWVURkJXN2kzQTBrZ3NZWE9lQVlmUjlPMm950gHAAUFVX3lxTE4wa1NCeUZmZjRXaHNmcVNXNUxGNUZNOUNSdkJUblBqbUN3all0U2dUVDJLeDVKWVVFWnpBVkktRnJYQ01oZk14cEplUHUzR0IzSGVpM0cyQ0E5ZU5JNUNjekcySmN1Mk1HRHZydnZxZVJ4Sk1uX0tWNmxGSzNlRzgyaE5FTWluTkEyQ1VvZ2twVUZ6U2pQZ1RTNDZBYVB4dFVEcFN1a19UUGsxOUFtQkVBX0dmcGJ5YzU4aE4zYlpJQQ?oc=5
 
 - Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
   Balen Shah Breaks His Self Imposed Diplom
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
 
-- India: Liquor store employee narrowly escapes leopard attack - BBC
-  Liquor store employee narrowly
-  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbWVjaTBiYVFLUlRXdXU1VzlOUjhfeFBYNUVWMDBkRXdCWVlJcHNYRGY3TmN5SmF5MmxHSzlyLVNfaHItamlSMmwwV3EtTHY2T1kyUjRWVQ?oc=5
+- Monsoon havoc cripples south Gujarat - The Times of India
+  The Times of India reported that
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmhRSnZvcG4waDB6WHlfMG9ZZXR3T05hMU1DZURsVWYwVWxoMUtERlpnYjhRYUZrWmhLdi1ZT2NaQWJFc2RpRldJNjFWVGswYldkSW9uREpGMUVhOTVxTFFXS3pvb1RuVk1hM2JQVjhjUkNsTmIzTHF4UDJQcG11UklIRGh3S0Qxd2dBY1NwY0kxOVY5VUdVeTVvWDd2TjRaRzl1NWs1QmNITG1WYml3TGFUWdIBuAFBVV95cUxONkFuNVpOeV85cmpuMVRLM25ydjJtSEhpRkl3bWlhY1g0a0NXc25uMUR3MFBsSGJPREFRWnhxVktCZFN2MFNwZmRxbVZPMXpLcEZhQnBaOThIRWdDNHdyODliUzNpT0o1ckhobENTNHdYZjd6akhQVkhjTTdjNF9iTjBSVWRTbXhDVUg1eEZ0NHNZai0yTXluWXljb0YzWVZBc1ZIVnoyWklGaGhRRGFqeUxBWW9BTVND?oc=5
 
-- India relaxes e-commerce investment rules for exports in win for Amazon - Reuters
-  India relaxes e-commerce investment rules for
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk8xcnpNeU9mY0RLYi1CM3lKdk5xS1ZjcDhhWkJYclJVZmJyUnl4RlBZd0x3ZHlseU5va096WFBLNlhndWtLMFlKZXdfTktqbk1nR09jbWlRSkR3WWRVdUlBaUI0UDJHSURXUnBVdkpRemtNTW1XeUJrbV9HdTdKMlJGTDlIRDhZRVJFMXVhLURnMW5YN1FPNUgzT3RiUGJzOEtWaWl1bU1ENGI0?oc=5
+- PM Assures Students In First Message On Paper Leaks, Rahul Gandhi, CJP Hit Back - NDTV
+  PM Assures Students In First Message On Paper Leaks,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQcU5LRFp1NVFJNTNraEZ1S2xvaDNMdWVQN2J3RkJ1d0lHbVJmd04yOVhsT0UwLTQzeklPWWotYlVlWjM1LXdTSEQ3cmJJV2prRXVneDc3Y0cyQ21laGwyeUIzV2t0U0Nicm1fRk9jTThhNjlBazRGQXRuSVd6QUt6eWxHa2F1c29JUXpEMXdZdVo5a3d6WVZyaHY5cE9kdkZheTdHeWhlWUlOSnVEcXF1RmpwcnJXZUdLQzRIUtIBxAFBVV95cUxQU3lLZnVVRHdmZkl2ZkNKQUU1V3dTZzNvS0lXQkk5RVNHRkhNQkpMY1drVzlNbk5MbXQ5c2pQWEdFbVJNVjIzNnNDUU9fNTA1VjZxMWpoZDYyQ3B6QmI4WEtzVkphZ29RZ0lEZjhQc3dWSF9xc19naFZkSFZBcnRCaGhTVVZxLWtla05LTWRIT3pnZFhYcDZhN09uT2Y1dl94cE1oeHYzbDdPRFlEd1NUb2NZeFlQdVg3MDJmWmg3WkdjOEU1?oc=5
 
-- INDIA Bloc MPs, Led By Rahul Gandhi, Head To Gandhi Smriti To Support Students - NDTV
-  India Bloc MPs, Led By Rahul Gandhi, Head To
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21oSTRFZE5mOE1DRjhCTGVlUUI1WFhNUWEwSHIwaU13S1Q0S3VrbDhGc1BleTRtdWlzMEFsUDctLW5fb2FhTjNzU0NxdmFFVWIwRzU3TVpjYUNWWlhjQm5Lak4wSzN0SlkxaXp6dXZFdC1tdU85SGFaUEpCWTRqcEpucGVTSVB6ZE8wZ0VIRjg3dm9xYTJ2NlIteDVVM1BGSVRTVjQ5c2txMmF4X2RhUzJjWWYxNWMx0gHAAUFVX3lxTE1GUTAwUkdHMG5BTFFFX2tzRW5TaFowanlvb3VSZU9fWDRtNC1feXZrcUtOV2lvTTRrUVNmQjhleTFCQ1R3TTVJQl90TGRFcTVkbWR5dVh2MGpKZjhzWlVXc08wekVJYnJoOGJCTklNS29FbE45LXF6clVvcUFNVVM5eWpVNGRmQ0VmZFBFYTduSEZwNTZXX3dBN3JJb2stTzFnbHRUM3BueEZzSUV6TGRuNENOU1F4Unk1cTc0QWVmdA?oc=5
+- India protest: How Modi’s refusal to sack education minister fits a pattern - Al Jazeera
+  India protest: How Modi’s refusal to sack
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVl4UF82b19sQzFLR0dWZXZxeE1wUXB5VHBfdzFuWXhUUVAtZHhrWU5Fbnh1MURmVmZxbmdGRXVPLXpZWVRCVUd6M3RqYThudkQzWk1nWnVkVldjVEpSb3YyVFRPcFlna1Y1TjN0eU5tckFadWVZUzdEMmRRZzZtU1E4dDNSc1NpMWRqSVNKTlNKMnllQnhfbVVXRDVoLTVoMWJxLXBaeW5zVlB4TUgyZWZIWGHSAboBQVVfeXFMTzhDM0VqVktPeHJ6Ql9KV2FSR2FobFZzY0RmV2xpVlhtTGVKSGh2NlF2cENnR3FLTzhHTGowTnNnU0did3dWQ1FWa18yOXJQUGtxNmFheGZEd0ZSUjg5aEpLWVBCM0NyNFROdS1nU3VhSHZvMDZjckFLV25CZmVhamVidllWRklvYTBHNE1COWY2M0VTRFFYS3JDNTZ4ZXM0bnphODk0MFJUU1FPclZpRDNPR0pFYjlLX0V3?oc=5
+
+- PM Promises "More Strict Actions" Against Leaks Today As Protests Continue - NDTV
+  PM Promises "More Strict Actions"
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbkd3RW5CcV9VdHRYX1FsRlhWMlNUTG1Ea0N5T2pCVEdXalVsbjQ2WWVtNTRSNlFOUHNyTFhmdWxJUHRucGxfeXVNZlBYbElWOW9aWHNwVDBDeHQ1R0kwVW5HNzdfdDNsOHRLWlg5a2N3VDhSTnIwOXNsdWpQSnhnZlFCR3BpTlZTUjhTVnEwZ0dkLVYwVXF2UG9QQTBrQWVURkJXN2kzQTBrZ3NZWE9lQVlmUjlPMm950gHAAUFVX3lxTE4wa1NCeUZmZjRXaHNmcVNXNUxGNUZNOUNSdkJUblBqbUN3all0U2dUVDJLeDVKWVVFWnpBVkktRnJYQ01oZk14cEplUHUzR0IzSGVpM0cyQ0E5ZU5JNUNjekcySmN1Mk1HRHZydnZxZVJ4Sk1uX0tWNmxGSzNlRzgyaE5FTWluTkEyQ1VvZ2twVUZ6U2pQZ1RTNDZBYVB4dFVEcFN1a19UUGsxOUFtQkVBX0dmcGJ5YzU4aE4zYlpJQQ?oc=5
+
+- Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
+  Balen Shah Breaks His Self Imposed Diplom
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
+
+- Monsoon havoc cripples south Gujarat - The Times of India
+  The Times of India reported that
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmhRSnZvcG4waDB6WHlfMG9ZZXR3T05hMU1DZURsVWYwVWxoMUtERlpnYjhRYUZrWmhLdi1ZT2NaQWJFc2RpRldJNjFWVGswYldkSW9uREpGMUVhOTVxTFFXS3pvb1RuVk1hM2JQVjhjUkNsTmIzTHF4UDJQcG11UklIRGh3S0Qxd2dBY1NwY0kxOVY5VUdVeTVvWDd2TjRaRzl1NWs1QmNITG1WYml3TGFUWdIBuAFBVV95cUxONkFuNVpOeV85cmpuMVRLM25ydjJtSEhpRkl3bWlhY1g0a0NXc25uMUR3MFBsSGJPREFRWnhxVktCZFN2MFNwZmRxbVZPMXpLcEZhQnBaOThIRWdDNHdyODliUzNpT0o1ckhobENTNHdYZjd6akhQVkhjTTdjNF9iTjBSVWRTbXhDVUg1eEZ0NHNZai0yTXluWXljb0YzWVZBc1ZIVnoyWklGaGhRRGFqeUxBWW9BTVND?oc=5
+
+- OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company - Tech Xplore
+  OpenAI says its AI technology acted on its own in an 'unpre
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxONlY3ejNCck96d1U5Z3hFbG9yM3Z6TEJKODFxZ1o0ZGVyQ0huVHNsR3BlemduUWw1UVk1eG1FWGIwcnRfZkNGbktZT2tYa1JyOGxZa0tTaWZsSUVUSkoxN3lrNUdRcDV1cWI1bUxyYThlSmFoZDhZU2J3SjE2Q0FIYVp2aXduU2c?oc=5
+
+- In 1960, IMAX technology changed cinema; now Christopher Nolan's The Odyssey can be seen in true 70mm for - The Times of India
+  In 1960, IMAX technology changed cinema; now Christopher Nolan's The Odyssey can be seen in
+  🔗 https://news.google.com/rss/articles/CBMi-gJBVV95cUxQd0tPZmIwcWxCbThtZ1RZSVZvUFFXcGo5VnBpTDBYTkp5aHVKV3dUdTcyUW9JWHpWcFhnTmNhZnp4Y19reGhFQ2NlT09vY0g1V0ktUGFMSndadG02RGx0YzliZXhLLWl6TmgzWWJfb1VBM19zVzdfckxpNGgwQmtjNjNvc25YR1Z5RlJFejh4WVR0V2pOWEtTTWpoUmlCYjVyS2Z1bGJ5ajNPOS01czUyNVJVcDgxVTFqY1R3YWhndjNMNnBNZUtFRFNKRlZMMUlibC02VGdqSDhTWnBjRWRIenA0T1pGLVFva3g4QTFLT0ZfM1U0aGtvc3NKemZBQ016ZHQ5S0xzdmpnUll3QnZvdzFjUGhxcW5Yc0IyUmtCRjEyUGhxOUcxcU9ydXBRVlFzVXpaWE5Vb011dnVQREE4aU1QcmhZb0lsSjkwT1VhNE9MRDlRbUg4OEJMTERaSVdOOGRmSzduNWx6MG1SY2d6aElrTnNXcjNZWXfSAf8CQVVfeXFMTUxKbXR0LW5oSW9QMkxfbWl4VlpNRXprMHZ2NkhWXzNId2lRakJpQnRGRnhsZDBBcUxiRFd4VDlReU10cFhsQXp3MTEyMVVtOEtyaGM0WGdUYlpXcEMyb1BYc1VtNnpjNUFDckVDOG5Rc29zOXNhR0Z3ZE9UUVY3aVdhcEt0N0hNVjFKNTVyeWNFX05rTk9USUcyQTlZcmJ2ZXplY3IxTzNLVlJrcWtTRlVMdGpiSnJiZ0ppNl9lZXBZOS1OZG9tZzhwbldJbU05MlVNSUd6UlFVX2c0a2JmeW1lV3hvbE81bGNhak4yS1pLc1k5UVJlNzBCQ01GZzVBaF9FSmtPRm94QjBDUWU0bXlvdUJxMXRrQTVqakI0amtFLXJEd3RHSjM0aUR3ZHFhMU0wX2FvaDBzYVJtU0JZZGZXWi1YdUFadk1pV3d5VEY1SkYxVjIzdy1XN29MRU9OdWZjS0ZiUzRKYVF6RlBOcl9YczZldjhSNXMwa285MDA?oc=5
+
+- ‘Technology is playing a major role in construction sector’ - The Hindu
+  Technology is playing a major role in construction
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ04yM0lFYVlINkhsTlJabjJrbktzNzhPTTNRUDE1WW4wZmJtN0Vyb3J1SUYwajQ5UjR2dURrTjdxUTlUQUpzSW44T21EdnpHaVZ0RmJ4TjJGRUJhVXpFSDl1YjNwOGltM2g5S3BpM0E5QXJPV3JMUTI3VlUzVGF3NmFQcWQ5cW43OEE4SWRqbGdVaWV5MnVqNkNlRmxxVjlSbGt4bmVIYTl0SUZxV05xcm9pWlM2TF9sYVVSbnVvWGtKUXPSAcoBQVVfeXFMTlE4TF9qWHlKMkljcmM1ZXoyRUJqOFNHcU41RTF4RE0xeFJ2cVViUHJ1N1VEU1h6SmtMaVprejlYcnVuOXN0WmJZRHdUUF9vTHJLdmxmcVFRX1dEbzdSVVZOblQtMjR5S195dGVLdnVhREM1aGdnM09RRUVCYS04X0s3SlduVlc4d3JnNDVWbV9idlpaQTQ3Tko5b1BTTkkyRHV6VExtUTI3UTRDSVY1dy02Y2tTWWx3ZWFOYUdZU3VYYjhWWmtTdXVMZw?oc=5
+
+- NSTL holds workshop on future naval stealth technologies - The Hindu
+  NSTL holds workshop on future
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkc2X3RrbFh4TThHRHlpWXRGQTFNMXh6NHRhZXJwb0ZpNUNOQ2pwMnktR1BqRTJkQVp3d3RBV2xsTlFMd0pJcl9RTDYzU2tucE1NN1FaaGpwZ0p5V0lMSm94OTdZN1RRS20wc1hDNXFpUkZUbGROTm1JVlB2ZHVOcDJmY0xoRmF5b2UyeHpZbmNpRHotWFdTZVZYYXh1aUE1c0RjVlFYU1JZeHFXZk9uQlh6eWpSRWExOVRnSEVCX0RSVUpWdEHSAcwBQVVfeXFMTXBoTWE4dkgyTW9rc3VUZ3JGMkFpN041X2dRLVdodUZocW5VNzNLV29WVld1NGNwUWJxaTVRWF9JZmRiWDZHdWQ1S1NLQmM0bm9qZzZVREZUUnBvRmtfRE50NXNKWHpjNlhCZmNMemZPUnFRMGt4NEFUUXVNc3d1ZXY3TnB1NU9nMFQxcTZva3k4Tncxdk81VHpKVF9LNmg2d0FLYVRGY2dSVkRxQmFNY29wX1UxcmIyUFAtY3dyZ3lrY25fNDEyUlRjTEVu?oc=5
+
+- India favours local high-speed technology for Mumbai - Ahmedabad project - International Railway Journal
+  India favours local high-speed technology for Mumbai
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlJobGxuVWpQWk50Yk9QU2hSZU5Dd1hLeUN2QlBoTmR2SUF2NHExbVRHamwxRGVqZ2NISDVpTTQtRTFQalNoUzB5TW5FNS1Penhhdkg0eFFBdmdOVFhiejBybWN5c3o4ekNOQ2F5RlVsRFlGckU2NHVWZ040SmhFNGtDbm5FX2M4YmtLaFBKeC1yeG1YbnNaVHlUSkczM1FfTVNYT0h5TDNjM3dEdGJlM1hqd0hUUzg2dmY4Vw?oc=5
 
 
-_Last updated: 2026-07-23 13:46:50 UTC_
+_Last updated: 2026-07-23 19:10:40 UTC_
