@@ -1,84 +1,68 @@
 # 📰 Daily News Summaries
 
-- Students not terrorists, we fully support their demands: Rahul Gandhi on students protesting against paper leaks
-  
-  🔗 https://indianexpress.com/article/india/students-not-terrorists-we-fully-support-their-demands-rahul-gandhi-on-students-protesting-against-paper-leaks-10799124/
+- Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
+  Opposition parties shut down Indian parliament in solidarity with
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
 
-- Sonam Wangchuk opens a window as Centre steps up efforts to resolve crisis
-  
-  🔗 https://indianexpress.com/article/india/sonam-wangchuk-medanta-fast-neet-protest-cjp-dharmendra-pradhan-10799051/
+- India protest: How Modi’s refusal to sack education minister fits a pattern - Al Jazeera
+  India protest: How Modi’s refusal to sack
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVl4UF82b19sQzFLR0dWZXZxeE1wUXB5VHBfdzFuWXhUUVAtZHhrWU5Fbnh1MURmVmZxbmdGRXVPLXpZWVRCVUd6M3RqYThudkQzWk1nWnVkVldjVEpSb3YyVFRPcFlna1Y1TjN0eU5tckFadWVZUzdEMmRRZzZtU1E4dDNSc1NpMWRqSVNKTlNKMnllQnhfbVVXRDVoLTVoMWJxLXBaeW5zVlB4TUgyZWZIWGHSAboBQVVfeXFMTzhDM0VqVktPeHJ6Ql9KV2FSR2FobFZzY0RmV2xpVlhtTGVKSGh2NlF2cENnR3FLTzhHTGowTnNnU0did3dWQ1FWa18yOXJQUGtxNmFheGZEd0ZSUjg5aEpLWVBCM0NyNFROdS1nU3VhSHZvMDZjckFLV25CZmVhamVidllWRklvYTBHNE1COWY2M0VTRFFYS3JDNTZ4ZXM0bnphODk0MFJUU1FPclZpRDNPR0pFYjlLX0V3?oc=5
 
-- Congress accuses MP minister Kailash Vijayvargiya of calling student protesters ‘insects’, ‘traitors’; he denies
-  
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-assembly-congress-walkout-kailash-vijayvargiya-10799031/
+- How A Paper Leak Protest In 1997 Made Dharmendra Pradhan A Student Leader - NDTV
+  How A Paper Leak Protest In 1997 Made Dharm
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZF9GTFZ0VmNTTVhqTWNJamJsNmlxRER4cTNzQWlnNWdzU0lKaUs1aEphbVNsb1kxaGNpeTRQdmwybGdrd0ktZjBOZGt4QlJRblZZdmZ6TXRCbzNDUUZNOVFCMlNOeFJoMlFzTmJnZnFCTHFHVTR5bDJNVngyaXN3MUloc214eTlaa0tXTGJ3WjUxOENjWERKczdjUmZPS0xobVFmVVdzREF0NU1hbE9YTGFubjl1YkRLMGNvaklHYlFUaHNSenNINkZheGJLbmRkZTNoRUlLRFRSaGwzMGfSAeYBQVVfeXFMTW0tSHd6c1lZckNGY29STUtqVEhwa0tJTjcxZGV4U00teE00RG1ZNG1PeGZRaEVqUGxBazdRNkVLUWlYbzV4YTZucXV1bnNKemd4TTAxdjFMU2Q0UkdHVHl0cWh1cmNaQkNLSnB1cGcwMjJLMWUxeXNSOFBiR1BPQUJYMUgyRE9XdUtDbFJUQ29vczdDR0ZCM0t2S1NSU3dtYXVwcmxXWWc2OURmX3VrQkp0LXpCS1RVbTVJeG9tRHAtSkpldnV2eU1FUVMweHBYSERQN2NxU2JnSGU5UGo1T0VGX01GVmc?oc=5
 
-- Ladakh delegation says blocked from meeting Sonam Wangchuk
-  
-  🔗 https://indianexpress.com/article/india/protests-ladakh-delegation-blocked-meeting-sonam-wangchuk-10799002/
+- Centre unlikely to sack Pradhan over NEET row, open to compensate victims' kin: Report - The Times of India
+  Centre unlikely to sack Pradhan over NEET row, open to
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM1pSRnJZUjA4aUY1Z25fLVluRjdWZGtrTDcwYUF3WHZfQko0SXZ2ZWZpbzZSY3V4V2Z1aFU2X1RxMFNWLWVCUXBORV9GYkxma05tRDJheFJWLWlKa2VUaE5nWjlVWlNGdFNtWV9rRThlSmV6QThsWWpWY0VJRkt3VlJxMVUySnhGY0d6LVd4WFpfa3liem1xTUJ6Z2JXbWhrVXlXN3NCUGJGRGp4N1VCRzBPUDBoMkE4YnRwMUhTT0ZDd1JESzFjakdId2E5c1dwYUNWSVRRbm5NSHlnUEYwQ2FrWDRqQdIB6wFBVV95cUxOR3dhRnhqY2xBZV9VZzNMR0NrQ2dybFdWbkYyTGN5TmV3MktqZzdoVi1NRTJjTmFhREtIVFpFRmhMZmJzcXA2aVBtdExXclJvZDR0VjZMZHFWeWQ2Z3pGeldEWXEybGItVnJKTXkxMG52eG5fclZfdjg0dXRQVVVXMzVhaGJEQ1BVNXRVSnE2M3BNOGc3alVOYllXVWJyTXEtOEdNWGRZcDV0cS1CeFB4ZHFDbW9CNjV4T2d5d1lsSmd4dWVnRmxzY1MzQ09ibXZ4c09hWXhWUUhfdjN0UFhmRWQxSjFyVHhxb3Vr?oc=5
 
-- Leopard killed in wire trap: Forest probe cracks suspected poaching network
-  
-  🔗 https://indianexpress.com/article/india/kota-mukundara-hills-leopard-poaching-potash-snare-arrest-10799007/
+- Over 37,000 Killed On India's 6,358 Highway "Black Corridors" In 3 Years - NDTV
+  Over 37,000 Killed On India's 6,
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkxjVkdOVHRtM1o1OFFwaWZwWFdyQnVEQkFCWG1uS3ZLMGtXbzRfeDdTbmpwOGladzg0NS1KYU1FeG1KYks1d3gtU2E3d09LZVNUUHhvLTVpQ3dtVlBXdDR5c3VvLUZ2bHU0T1V3R1g0cWxkYk5acFBJZW5LcFNma25ha2JURjRyMTNhdEY2X0lNaEVKMXh6aUxPSVFzbkN4ZkJsTGUzTEMwdVVCMnZJ0gG3AUFVX3lxTE02c3BZaEU4VEx0T3VzcmUtWGJ3R3lNclA2eUZPS2s0RURUNV9CZTBIY0RyQmJwYkZVMGNxaWVBWjRhNVZhTDhSYTllLUYtZVlCcXN2ejZiUEU3YWY3bk0xVWlpeFlNa090UDhfRmplNkZJWUl6SXIza2poN2dLMFVESF9XaV9JQ25pZE92eWpkU1hrQTloTmZrdnNXc2RiQ2psRGtwbFRoT3IyWE41ZDV5WVR3bVdLYw?oc=5
 
-- AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/amd-to-invest-up-to-5-billion-in-anthropic-ai-startup-to-buy-up-to-2-gw-of-chips-10798824/
+- West Asia war pushes ONGC to plan India's first strategic gas reserve
+  A strategic natural gas reserve can cushion the impact of crises such as the West Asia war,
+  🔗 https://www.livemint.com/companies/news/ongc-strategic-natural-gas-reserve-india-west-asia-war-lng-energy-security-11784718865508.html
 
-- Meta employees’ lawsuit shows that if AI fires you, proving it is the hard part
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-employees-lawsuit-shows-that-if-ai-fires-you-proving-it-is-the-hard-part-10798813/
+- BusinessNext raises $40 million from ServiceNow for SEA and Australia expansion
+  BusinessNext has raised $40 million from ServiceNow Ventures. The deal gives ServiceNow a 5% stake and opens BusinessNext's access to Southeast Asia, New Zealand and Australia
+  🔗 https://www.livemint.com/companies/businessnext-raises-40-million-servicenow-sea-australia-expansion-11784718947770.html
 
-- Everything Samsung announced at its big London event: Wider Fold 8, New Watch Ultra 2, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/everything-samsung-announced-at-its-big-london-event-wider-fold-8-new-watch-ultra-2-10797876/
+- Probe stalls transfer of Ratan Tata’s Tata Sons shares to his foundations
+  The executors of Tata’s will are unable to proceed with the transfer until the charity commissioner provides a verdict on the allegations.
+  🔗 https://www.livemint.com/companies/probe-stalls-transfer-of-ratan-tata-s-tata-sons-shares-to-his-foundations-11784725209306.html
 
-- Adobe integration with WhatsApp lets you edit PDFs without leaving messaging platform
-  
-  🔗 https://indianexpress.com/article/technology/adobe-acrobat-whatsapp-pdf-viewer-editing-10798712/
+- When pay ceiling catches up with IT firms' stock-rich CEOs
+  Investors are increasingly scrutinizing executive compensation and disclosures. Stock awards accumulated over years are set to lift CEOs' reported pay above the statutory remuneration ceiling at some IT services firms.
+  🔗 https://www.livemint.com/companies/when-pay-ceiling-catches-up-with-it-firms-stock-rich-ceos-11784720203623.html
 
-- Samsung Galaxy Z Fold 8 hands-on: Wide phones are back, and how
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-z-fold-8-hands-on-2026-10797983/
+- European Union gives its greenlight to Paramount and Warners mega merger with some conditions
+  European Union gives its greenlight to Paramount and
+  🔗 https://www.livemint.com/companies/european-union-gives-its-greenlight-to-paramount-and-warners-mega-merger-with-some-conditions-11784754384871.html
 
-- Batista Brothers Clinch Venezuela Oil Stake as Deals Gain Steam
-  Brazil’s billionaire Batista brothers have acquired a stake in an oil production project in Venezuela.
-  🔗 https://www.livemint.com/companies/batista-brothers-clinch-venezuela-oil-stake-as-deals-gain-steam-11784745285291.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 23 July
+  Gift Nifty was trading around 23,882 level, a discount of nearly 106 points from the Nifty futures’ previous close. The trends on Gift Nifty also
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-23-july-11784771523861.html
 
-- IndusInd Bank aims for 1% RoA by FY27-end; focus on growing retail book
-  The private-sector lender posted a consolidated net profit of  ₹1,037 crore for the June quarter, up 72%
-  🔗 https://www.livemint.com/companies/company-results/indusind-bank-aims-for-1-roa-by-fy27-end-focus-on-growing-retail-book-11784736556394.html
+- Asian stocks today: Kospi, Nikkei surge up to 4% as semiconductor stocks rally; SK Hynix, Samsung lead
+  Japan’s Nikkei 225 advanced more than 1.
+  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-surge-up-to-4-as-semiconductor-stocks-rally-sk-hynix-samsung-lead-11784770474517.html
 
-- Dr Reddy’s reports muted Q1FY27 results, net profit drops 69%
-  Dr Reddy's missed estimates, with revenue down 5.
-  🔗 https://www.livemint.com/companies/company-results/dr-reddys-q1-results-semaglutide-sales-dr-reddys-share-price-11784732365516.html
+- From Gift Nifty, Tesla Q2 earnings to crude oil prices: 8 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 23,887 level, a discount of nearly 101 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-tesla-q2-earnings-to-crude-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11784770431821.html
 
-- Samsung launches its priciest smartphone lineup ever amid chip cost crunch
-  Soaring raw material prices have made the Galaxy Z Fold 8 series Samsung's most expensive range yet. The company works to buffer consumers from
-  🔗 https://www.livemint.com/companies/news/samsung-z-fold-8-galaxy-z-flip-8-z-fold-8-ultra-11784726844825.html
+- Crude oil prices climb to six-week high with Brent above $95 amid escalating US-Iran war. What's the near-term outlook?
+  Brent crude futures advanced $1.93, or 2%, to $
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-climb-to-six-week-high-with-brent-above-95-amid-escalating-us-iran-war-whats-the-near-term-outlook-11784769223502.html
 
-- Intel layoffs: Chipmaker to begin fresh round of job cuts in data centre division
-  The company added that the organisational changes are expected to help it operate with
-  🔗 https://www.livemint.com/companies/news/intel-layoffs-chipmaker-begins-fresh-round-of-job-cuts-in-data-centre-division-11784730012525.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 23 July 2026
+  Sumeet Bagadia recommends five breakout stocks to buy today. Chennai Petroleum Corporation, Gandhar Oil Refinery India, Polyplex
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-23-july-2026-11784768039093.html
 
-- Gold firms to two-week peak on softer dollar, Fed outlook in focus
-  Gold firms to two-week peak on
-  🔗 https://www.livemint.com/market/gold-firms-to-two-week-peak-on-softer-dollar-fed-outlook-in-focus-11784746068707.html
-
-- Lohia Corp raises  ₹492 crore from anchor investors ahead of IPO opening on Thursday
-  Lohia Corp Limited has raised  ₹492.1 crore from anchor investors. IPO opens on July 23, 2026. The price band is set at 
-  🔗 https://www.livemint.com/market/stock-market-news/lohia-corp-raises-rs-492-crore-from-anchor-investors-ahead-of-ipo-opening-on-thursday-11784740649066.html
-
-- Gold, silver prices today: Comex gold tops $4,170; silver extends winning streak as safe-haven demand rises
-  Gold climbed $95 to $4,171, while silver rose to $61.70, marking significant weekly gains.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-tops-4-170-silver-extends-winning-streak-as-safe-haven-demand-rises-11784734687457.html
-
-- Super Micro Computer shares jump 25% after securing over $60 billion in Q4 orders
-  Super Micro Computer shares jumped 25% to $32 after announcing over $60 billion in new orders. The company forecasts gross margins of 15%-17
-  🔗 https://www.livemint.com/market/super-micro-computer-shares-jump-25-after-securing-over-60-billion-in-q4-orders-11784732141929.html
-
-- Multibagger defence stock Apollo Micro Systems to be in focus tomorrow; here's why
-  Apollo Micro Systems has received a Make-II PSO from the Indian Navy for the SAVIOR-ASW project. This marks a pivotal step into autonomous maritime
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-to-be-in-focus-tomorrow-heres-why-11784728706086.html
+- US accuses Chinas Moonshot of stealing from Anthropics Fable for latest AI model
+  US accuses China's Moonshot of stealing
+  🔗 https://www.livemint.com/technology/us-accuses-chinas-moonshot-of-stealing-from-anthropics-fable-for-latest-ai-model-11784750462319.html
 
 - India’s smartphone market just had its worst June quarter in six years. Here’s what’s behind it
   Counterpoint Research reports a 10% decline in India's smartphone shipments for the June quarter.
@@ -96,29 +80,45 @@
   AI investment boom puts Big
   🔗 https://www.livemint.com/technology/analysisai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-11784696610132.html
 
-- OpenAI says AI models went rogue during testing, triggering unprecedented breach at startup
-  OpenAI says AI models went rogue during
-  🔗 https://www.livemint.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-at-startup-11784696425653.html
+- Dividend alert! Last day to buy Bharti Airtel, Hero MotoCorp, among 43 stocks for dividend payout worth Rs 1,127
+  As per Sebi's T+1 settlement cycle, investors must buy a company's shares at least one trading day before the record date.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-bharti-airtel-hero-motocorp-among-43-stocks-for-dividend-payout-worth-rs-1127/articleshow/132570497.cms
 
-- UltraTech Cement comes up with a record June quarter, profit surges 17%
-  UltraTech Cement achieved its highest-ever June quarter volume and profit. Demand pipeline helps as revenues rise 16%; Ebitda strong despite war-led price hikes.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cements-comes-up-with-a-record-june-quarter-profit-surges-17/articleshow/132563390.cms
+- Negative Breakout: These 15 stocks cross below their 200 DMAs
+  The 200 DMA is a key indicator traders use to determine the overall trend in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-15-stocks-cross-below-their-200-dmas/slideshow/132570536.cms
 
-- CSB Bank Q1 profit jumps 27% YoY to Rs 150 crore as provisions decline
-  CSB Bank reported a twenty-seven percent year-on-year net profit increase for the June quarter. Lower provisions and improved net interest income aided the bank's financial performance. Sequential profit declined due to typical seasonal business trends in
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q1-profit-jumps-27-yoy-to-rs-150-crore-as-provisions-decline/articleshow/132562546.cms
+- Oil prices rise to six-week high as US-Iran tensions escalate
+  Oil prices climbed to a six-week high on Thursday. This surge followed new United States strikes on Iran and Houthi attacks.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-to-six-week-high-as-us-iran-tensions-escalate/articleshow/132570469.cms
 
-- PRISM's premium hotel push emerges as next leg of India growth ahead of IPO
-  PRISM is increasingly focusing on company-serviced and premium hospitality in India. The company now emphasizes quality and productivity over mere network expansion. These hotels contributed nearly half of India's Gross Booking Value.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/prisms-premium-hotel-push-emerges-as-next-leg-of-india-growth-ahead-of-ipo/articleshow/132562158.cms
+- US-Iran tensions underpin dollar as yen nears 40-year low
+  The dollar stabilized on Thursday as U.S.-Iran tensions increased investor caution. Rising oil prices fueled inflation fears and supported the safe-haven dollar. Japanese yen languished near a forty-year low with little recovery in sight.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/us-iran-tensions-underpin-dollar-as-yen-nears-40-year-low/articleshow/132570439.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Escalating global tensions and inflation concerns spooked investors, leading to broad market weakness. Rate-sensitive sectors like realty and banking saw considerable losses. FMCG and auto stocks showed relative resilience due to strong earnings.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132561965.cms
+- Gold off two-week peak as oil advances, Fed meeting eyed
+  Gold prices softened on Thursday after reaching recent highs. Escalating Middle East tensions boosted oil prices and the dollar's safe-haven appeal. Traders now await the Federal Reserve meeting for interest rate clues.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-off-two-week-peak-as-oil-advances-fed-meeting-eyed/articleshow/132570419.cms
 
-- Market Trading Guide: Bajaj Auto among 7 stock recommendations for Thursday
-  Indian markets ended lower amid geopolitical tensions and inflation concerns, but analysts remain bullish on select stocks. Seven recommendations, including Bajaj Auto, Bosch and Asian Paints, highlight strong technical setups
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-bajaj-auto-among-7-stock-recommendations-for-thursday/slideshow/132562171.cms
+- Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
+  Opposition parties shut down Indian parliament in solidarity with
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
+
+- India protest: How Modi’s refusal to sack education minister fits a pattern - Al Jazeera
+  India protest: How Modi’s refusal to sack
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVl4UF82b19sQzFLR0dWZXZxeE1wUXB5VHBfdzFuWXhUUVAtZHhrWU5Fbnh1MURmVmZxbmdGRXVPLXpZWVRCVUd6M3RqYThudkQzWk1nWnVkVldjVEpSb3YyVFRPcFlna1Y1TjN0eU5tckFadWVZUzdEMmRRZzZtU1E4dDNSc1NpMWRqSVNKTlNKMnllQnhfbVVXRDVoLTVoMWJxLXBaeW5zVlB4TUgyZWZIWGHSAboBQVVfeXFMTzhDM0VqVktPeHJ6Ql9KV2FSR2FobFZzY0RmV2xpVlhtTGVKSGh2NlF2cENnR3FLTzhHTGowTnNnU0did3dWQ1FWa18yOXJQUGtxNmFheGZEd0ZSUjg5aEpLWVBCM0NyNFROdS1nU3VhSHZvMDZjckFLV25CZmVhamVidllWRklvYTBHNE1COWY2M0VTRFFYS3JDNTZ4ZXM0bnphODk0MFJUU1FPclZpRDNPR0pFYjlLX0V3?oc=5
+
+- How A Paper Leak Protest In 1997 Made Dharmendra Pradhan A Student Leader - NDTV
+  How A Paper Leak Protest In 1997 Made Dharm
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZF9GTFZ0VmNTTVhqTWNJamJsNmlxRER4cTNzQWlnNWdzU0lKaUs1aEphbVNsb1kxaGNpeTRQdmwybGdrd0ktZjBOZGt4QlJRblZZdmZ6TXRCbzNDUUZNOVFCMlNOeFJoMlFzTmJnZnFCTHFHVTR5bDJNVngyaXN3MUloc214eTlaa0tXTGJ3WjUxOENjWERKczdjUmZPS0xobVFmVVdzREF0NU1hbE9YTGFubjl1YkRLMGNvaklHYlFUaHNSenNINkZheGJLbmRkZTNoRUlLRFRSaGwzMGfSAeYBQVVfeXFMTW0tSHd6c1lZckNGY29STUtqVEhwa0tJTjcxZGV4U00teE00RG1ZNG1PeGZRaEVqUGxBazdRNkVLUWlYbzV4YTZucXV1bnNKemd4TTAxdjFMU2Q0UkdHVHl0cWh1cmNaQkNLSnB1cGcwMjJLMWUxeXNSOFBiR1BPQUJYMUgyRE9XdUtDbFJUQ29vczdDR0ZCM0t2S1NSU3dtYXVwcmxXWWc2OURmX3VrQkp0LXpCS1RVbTVJeG9tRHAtSkpldnV2eU1FUVMweHBYSERQN2NxU2JnSGU5UGo1T0VGX01GVmc?oc=5
+
+- Centre unlikely to sack Pradhan over NEET row, open to compensate victims' kin: Report - The Times of India
+  Centre unlikely to sack Pradhan over NEET row, open to
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM1pSRnJZUjA4aUY1Z25fLVluRjdWZGtrTDcwYUF3WHZfQko0SXZ2ZWZpbzZSY3V4V2Z1aFU2X1RxMFNWLWVCUXBORV9GYkxma05tRDJheFJWLWlKa2VUaE5nWjlVWlNGdFNtWV9rRThlSmV6QThsWWpWY0VJRkt3VlJxMVUySnhGY0d6LVd4WFpfa3liem1xTUJ6Z2JXbWhrVXlXN3NCUGJGRGp4N1VCRzBPUDBoMkE4YnRwMUhTT0ZDd1JESzFjakdId2E5c1dwYUNWSVRRbm5NSHlnUEYwQ2FrWDRqQdIB6wFBVV95cUxOR3dhRnhqY2xBZV9VZzNMR0NrQ2dybFdWbkYyTGN5TmV3MktqZzdoVi1NRTJjTmFhREtIVFpFRmhMZmJzcXA2aVBtdExXclJvZDR0VjZMZHFWeWQ2Z3pGeldEWXEybGItVnJKTXkxMG52eG5fclZfdjg0dXRQVVVXMzVhaGJEQ1BVNXRVSnE2M3BNOGc3alVOYllXVWJyTXEtOEdNWGRZcDV0cS1CeFB4ZHFDbW9CNjV4T2d5d1lsSmd4dWVnRmxzY1MzQ09ibXZ4c09hWXhWUUhfdjN0UFhmRWQxSjFyVHhxb3Vr?oc=5
+
+- Over 37,000 Killed On India's 6,358 Highway "Black Corridors" In 3 Years - NDTV
+  Over 37,000 Killed On India's 6,
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkxjVkdOVHRtM1o1OFFwaWZwWFdyQnVEQkFCWG1uS3ZLMGtXbzRfeDdTbmpwOGladzg0NS1KYU1FeG1KYks1d3gtU2E3d09LZVNUUHhvLTVpQ3dtVlBXdDR5c3VvLUZ2bHU0T1V3R1g0cWxkYk5acFBJZW5LcFNma25ha2JURjRyMTNhdEY2X0lNaEVKMXh6aUxPSVFzbkN4ZkJsTGUzTEMwdVVCMnZJ0gG3AUFVX3lxTE02c3BZaEU4VEx0T3VzcmUtWGJ3R3lNclA2eUZPS2s0RURUNV9CZTBIY0RyQmJwYkZVMGNxaWVBWjRhNVZhTDhSYTllLUYtZVlCcXN2ejZiUEU3YWY3bk0xVWlpeFlNa090UDhfRmplNkZJWUl6SXIza2poN2dLMFVESF9XaV9JQ25pZE92eWpkU1hrQTloTmZrdnNXc2RiQ2psRGtwbFRoT3IyWE41ZDV5WVR3bVdLYw?oc=5
 
 - Quick Commerce Discounting Wars Nearing End: Eternal CEO
   Eternal CEO Albinder Dhindsa believes that the quick commerce industry&#8217;s discounting war may finally be approaching its end.
@@ -140,65 +140,65 @@
   Shares of B2B ecommerce major IndiaMART fell as much as 7.5% during the intraday trading today to hit
   🔗 https://inc42.com/buzz/indiamart-shares-sink-7-5-to-52-week-low-as-paid-supplier-concerns-mount/
 
+- Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
+  Opposition parties shut down Indian parliament in solidarity with
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
+
 - India protest: How Modi’s refusal to sack education minister fits a pattern - Al Jazeera
   India protest: How Modi’s refusal to sack
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVl4UF82b19sQzFLR0dWZXZxeE1wUXB5VHBfdzFuWXhUUVAtZHhrWU5Fbnh1MURmVmZxbmdGRXVPLXpZWVRCVUd6M3RqYThudkQzWk1nWnVkVldjVEpSb3YyVFRPcFlna1Y1TjN0eU5tckFadWVZUzdEMmRRZzZtU1E4dDNSc1NpMWRqSVNKTlNKMnllQnhfbVVXRDVoLTVoMWJxLXBaeW5zVlB4TUgyZWZIWGHSAboBQVVfeXFMTzhDM0VqVktPeHJ6Ql9KV2FSR2FobFZzY0RmV2xpVlhtTGVKSGh2NlF2cENnR3FLTzhHTGowTnNnU0did3dWQ1FWa18yOXJQUGtxNmFheGZEd0ZSUjg5aEpLWVBCM0NyNFROdS1nU3VhSHZvMDZjckFLV25CZmVhamVidllWRklvYTBHNE1COWY2M0VTRFFYS3JDNTZ4ZXM0bnphODk0MFJUU1FPclZpRDNPR0pFYjlLX0V3?oc=5
+
+- How A Paper Leak Protest In 1997 Made Dharmendra Pradhan A Student Leader - NDTV
+  How A Paper Leak Protest In 1997 Made Dharm
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZF9GTFZ0VmNTTVhqTWNJamJsNmlxRER4cTNzQWlnNWdzU0lKaUs1aEphbVNsb1kxaGNpeTRQdmwybGdrd0ktZjBOZGt4QlJRblZZdmZ6TXRCbzNDUUZNOVFCMlNOeFJoMlFzTmJnZnFCTHFHVTR5bDJNVngyaXN3MUloc214eTlaa0tXTGJ3WjUxOENjWERKczdjUmZPS0xobVFmVVdzREF0NU1hbE9YTGFubjl1YkRLMGNvaklHYlFUaHNSenNINkZheGJLbmRkZTNoRUlLRFRSaGwzMGfSAeYBQVVfeXFMTW0tSHd6c1lZckNGY29STUtqVEhwa0tJTjcxZGV4U00teE00RG1ZNG1PeGZRaEVqUGxBazdRNkVLUWlYbzV4YTZucXV1bnNKemd4TTAxdjFMU2Q0UkdHVHl0cWh1cmNaQkNLSnB1cGcwMjJLMWUxeXNSOFBiR1BPQUJYMUgyRE9XdUtDbFJUQ29vczdDR0ZCM0t2S1NSU3dtYXVwcmxXWWc2OURmX3VrQkp0LXpCS1RVbTVJeG9tRHAtSkpldnV2eU1FUVMweHBYSERQN2NxU2JnSGU5UGo1T0VGX01GVmc?oc=5
+
+- Centre unlikely to sack Pradhan over NEET row, open to compensate victims' kin: Report - The Times of India
+  Centre unlikely to sack Pradhan over NEET row, open to
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM1pSRnJZUjA4aUY1Z25fLVluRjdWZGtrTDcwYUF3WHZfQko0SXZ2ZWZpbzZSY3V4V2Z1aFU2X1RxMFNWLWVCUXBORV9GYkxma05tRDJheFJWLWlKa2VUaE5nWjlVWlNGdFNtWV9rRThlSmV6QThsWWpWY0VJRkt3VlJxMVUySnhGY0d6LVd4WFpfa3liem1xTUJ6Z2JXbWhrVXlXN3NCUGJGRGp4N1VCRzBPUDBoMkE4YnRwMUhTT0ZDd1JESzFjakdId2E5c1dwYUNWSVRRbm5NSHlnUEYwQ2FrWDRqQdIB6wFBVV95cUxOR3dhRnhqY2xBZV9VZzNMR0NrQ2dybFdWbkYyTGN5TmV3MktqZzdoVi1NRTJjTmFhREtIVFpFRmhMZmJzcXA2aVBtdExXclJvZDR0VjZMZHFWeWQ2Z3pGeldEWXEybGItVnJKTXkxMG52eG5fclZfdjg0dXRQVVVXMzVhaGJEQ1BVNXRVSnE2M3BNOGc3alVOYllXVWJyTXEtOEdNWGRZcDV0cS1CeFB4ZHFDbW9CNjV4T2d5d1lsSmd4dWVnRmxzY1MzQ09ibXZ4c09hWXhWUUhfdjN0UFhmRWQxSjFyVHhxb3Vr?oc=5
+
+- Over 37,000 Killed On India's 6,358 Highway "Black Corridors" In 3 Years - NDTV
+  Over 37,000 Killed On India's 6,
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkxjVkdOVHRtM1o1OFFwaWZwWFdyQnVEQkFCWG1uS3ZLMGtXbzRfeDdTbmpwOGladzg0NS1KYU1FeG1KYks1d3gtU2E3d09LZVNUUHhvLTVpQ3dtVlBXdDR5c3VvLUZ2bHU0T1V3R1g0cWxkYk5acFBJZW5LcFNma25ha2JURjRyMTNhdEY2X0lNaEVKMXh6aUxPSVFzbkN4ZkJsTGUzTEMwdVVCMnZJ0gG3AUFVX3lxTE02c3BZaEU4VEx0T3VzcmUtWGJ3R3lNclA2eUZPS2s0RURUNV9CZTBIY0RyQmJwYkZVMGNxaWVBWjRhNVZhTDhSYTllLUYtZVlCcXN2ejZiUEU3YWY3bk0xVWlpeFlNa090UDhfRmplNkZJWUl6SXIza2poN2dLMFVESF9XaV9JQ25pZE92eWpkU1hrQTloTmZrdnNXc2RiQ2psRGtwbFRoT3IyWE41ZDV5WVR3bVdLYw?oc=5
 
 - Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
   Opposition parties shut down Indian parliament in solidarity with
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
 
-- Soldier slips to death in J&K’s Rajouri - The Times of India
-  Soldier slips to death in J&
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREZaWHFubWlyb1hKb0J4R2Z3SlEzeVZnRzlydEZwdGZ4UldySF9FYjFYUUdpTXI2MHBNbFVHVDZpeC1BMjdFYkgxalVwVlRMNks3akN6UEh1UW9MZDlwSDY0NU41WUJjUHZ1LWo5M295Skkxd21feWFUMHF2MDNXbXNScGtqMVdlSEhidGVPRUREdVlSZ1hRUjEyRF9Cd3RON3FwRzhqS2fSAa4BQVVfeXFMUHJBTUJjS3NSSUhFYVFDTTAtOVJlZ1JaV0dzaGZGMTdYNkNhLVRlWnpaMFlUOExHc3c2ZEdvZ3BORUhLTjNsMERNeDVaR094NHdOdDk3QThneFFUV1hvM1Q3bERVYl81ZThTWV9mZFVpNzVfQmp3N3dVQWNZTHdjRlhQbEJnNFJzYWhOZDlOeUxiQXhEeGpCSUZiN3J3NVdMUXFGZ2FUMkJvOGhGVFlR?oc=5
+- India protest: How Modi’s refusal to sack education minister fits a pattern - Al Jazeera
+  India protest: How Modi’s refusal to sack
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVl4UF82b19sQzFLR0dWZXZxeE1wUXB5VHBfdzFuWXhUUVAtZHhrWU5Fbnh1MURmVmZxbmdGRXVPLXpZWVRCVUd6M3RqYThudkQzWk1nWnVkVldjVEpSb3YyVFRPcFlna1Y1TjN0eU5tckFadWVZUzdEMmRRZzZtU1E4dDNSc1NpMWRqSVNKTlNKMnllQnhfbVVXRDVoLTVoMWJxLXBaeW5zVlB4TUgyZWZIWGHSAboBQVVfeXFMTzhDM0VqVktPeHJ6Ql9KV2FSR2FobFZzY0RmV2xpVlhtTGVKSGh2NlF2cENnR3FLTzhHTGowTnNnU0did3dWQ1FWa18yOXJQUGtxNmFheGZEd0ZSUjg5aEpLWVBCM0NyNFROdS1nU3VhSHZvMDZjckFLV25CZmVhamVidllWRklvYTBHNE1COWY2M0VTRFFYS3JDNTZ4ZXM0bnphODk0MFJUU1FPclZpRDNPR0pFYjlLX0V3?oc=5
 
-- India flags safety of seafarers in Black Sea with Russia - The Economic Times
-  India flags safety of seafarers in Black Sea with
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxQZHY4SFFuM0JHNVJfbDRJSktiUjRScmU2bFMtU0F0Q28wRFpGdWhVWF9Ld1hobWtORDRTS1M3M242MjZHQmZtU2RXWmtBTGxCSnpOLXBjZ1N1NDhXTWZmc3I3SVpQcm5tOVhDaWU3LUpSVGUwenU1clNzSDlnY01LTEZIWGVKN1J1TGI4Y3gtcHgtSjlxZG52eGo1RERzTm9GY2tOWkg1a0Y1M3RCZF9CZGVudXhmdVJnMmlaZXFhZFM5alZEMkM2M3NRNTl5SDF4RV9zTWNnTkduTERqZkEzWER0dzNQZUd4bFVhNlE1QmllVV9uVUJYWi1Tb3d2YmRwUnBIeWJodlNpZWgtc1d1WFVOTTJHNzVFRDVWLWQzZW41SjJyNGdN0gHDAUFVX3lxTE9tZjhHbjBOUXJaTk5oaEdQVWtSZVBtOHk1MXRuTnMwUkxySjRiZ3RKb0dXbDZlR3BwV2VZeWZwUElkaG5fQktka0ZKZHdJcUF1NlJwMnVGVWlHRWxDWDJOT1NBVTBUemJyZjFmazBZcGxYd3ZCV2RwTi11U09iRy1CejlrSmtheHVYQTRpOGdZY2RmV1BneGNhNHVlX1JocWxDVEp6TUg0U1I1STFzZ2lhN29pOGZLd0hjMHVRMjRGWWFnNA?oc=5
+- How A Paper Leak Protest In 1997 Made Dharmendra Pradhan A Student Leader - NDTV
+  How A Paper Leak Protest In 1997 Made Dharm
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZF9GTFZ0VmNTTVhqTWNJamJsNmlxRER4cTNzQWlnNWdzU0lKaUs1aEphbVNsb1kxaGNpeTRQdmwybGdrd0ktZjBOZGt4QlJRblZZdmZ6TXRCbzNDUUZNOVFCMlNOeFJoMlFzTmJnZnFCTHFHVTR5bDJNVngyaXN3MUloc214eTlaa0tXTGJ3WjUxOENjWERKczdjUmZPS0xobVFmVVdzREF0NU1hbE9YTGFubjl1YkRLMGNvaklHYlFUaHNSenNINkZheGJLbmRkZTNoRUlLRFRSaGwzMGfSAeYBQVVfeXFMTW0tSHd6c1lZckNGY29STUtqVEhwa0tJTjcxZGV4U00teE00RG1ZNG1PeGZRaEVqUGxBazdRNkVLUWlYbzV4YTZucXV1bnNKemd4TTAxdjFMU2Q0UkdHVHl0cWh1cmNaQkNLSnB1cGcwMjJLMWUxeXNSOFBiR1BPQUJYMUgyRE9XdUtDbFJUQ29vczdDR0ZCM0t2S1NSU3dtYXVwcmxXWWc2OURmX3VrQkp0LXpCS1RVbTVJeG9tRHAtSkpldnV2eU1FUVMweHBYSERQN2NxU2JnSGU5UGo1T0VGX01GVmc?oc=5
 
-- Death toll from blast at Indian hydroelectric project rises to 20 people - Al Jazeera
-  Death toll from blast at Indian hydroelectric project rises to
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWRBTXI3a2p1YjV3ODRzazhhWkpTMU1TMVA1MWFISmMwUjc0Y2Z1c0tIdk9wVEV4YnotTnRMYkhiNkRxT3NucXhEQ0lWcEtmX1BLakh4ejBEa2prc3UzaEwtSUpDWGw1V2RnWDNtRzU0ZDVNRkkwZmVmN3k3RnR4eFZUVlFWbl82QUxub0JtNWFLR2xVbkllTjVQUFBQUV9FNmVPWmVUQ0lwY3BtR01rNmFHWdIBuAFBVV95cUxOZHFDNUlXNGR5U3BNU25pY1FadWFZUlpIU216ZmVCSXdoZmNHeFhOZVJtaXRxV25tMzhqWmxHdzEzQjU1d0VPcnFiZWQ1WXlWNnE2Y0xXR0Q0c0hEWnZTWXUwQUE0R3F0RFdDMmkyU0o3ekdsQXB3LWpSeTRmY2FpdExVRG9CQmtkNzhWSG5abktiWWxscFJOaHVwSjQ0Q21FeXlmOEdUaDJ5WFlERTQ1WUVNZ3hUVmNk?oc=5
+- Centre unlikely to sack Pradhan over NEET row, open to compensate victims' kin: Report - The Times of India
+  Centre unlikely to sack Pradhan over NEET row, open to
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM1pSRnJZUjA4aUY1Z25fLVluRjdWZGtrTDcwYUF3WHZfQko0SXZ2ZWZpbzZSY3V4V2Z1aFU2X1RxMFNWLWVCUXBORV9GYkxma05tRDJheFJWLWlKa2VUaE5nWjlVWlNGdFNtWV9rRThlSmV6QThsWWpWY0VJRkt3VlJxMVUySnhGY0d6LVd4WFpfa3liem1xTUJ6Z2JXbWhrVXlXN3NCUGJGRGp4N1VCRzBPUDBoMkE4YnRwMUhTT0ZDd1JESzFjakdId2E5c1dwYUNWSVRRbm5NSHlnUEYwQ2FrWDRqQdIB6wFBVV95cUxOR3dhRnhqY2xBZV9VZzNMR0NrQ2dybFdWbkYyTGN5TmV3MktqZzdoVi1NRTJjTmFhREtIVFpFRmhMZmJzcXA2aVBtdExXclJvZDR0VjZMZHFWeWQ2Z3pGeldEWXEybGItVnJKTXkxMG52eG5fclZfdjg0dXRQVVVXMzVhaGJEQ1BVNXRVSnE2M3BNOGc3alVOYllXVWJyTXEtOEdNWGRZcDV0cS1CeFB4ZHFDbW9CNjV4T2d5d1lsSmd4dWVnRmxzY1MzQ09ibXZ4c09hWXhWUUhfdjN0UFhmRWQxSjFyVHhxb3Vr?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Over 37,000 Killed On India's 6,358 Highway "Black Corridors" In 3 Years - NDTV
+  Over 37,000 Killed On India's 6,
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkxjVkdOVHRtM1o1OFFwaWZwWFdyQnVEQkFCWG1uS3ZLMGtXbzRfeDdTbmpwOGladzg0NS1KYU1FeG1KYks1d3gtU2E3d09LZVNUUHhvLTVpQ3dtVlBXdDR5c3VvLUZ2bHU0T1V3R1g0cWxkYk5acFBJZW5LcFNma25ha2JURjRyMTNhdEY2X0lNaEVKMXh6aUxPSVFzbkN4ZkJsTGUzTEMwdVVCMnZJ0gG3AUFVX3lxTE02c3BZaEU4VEx0T3VzcmUtWGJ3R3lNclA2eUZPS2s0RURUNV9CZTBIY0RyQmJwYkZVMGNxaWVBWjRhNVZhTDhSYTllLUYtZVlCcXN2ejZiUEU3YWY3bk0xVWlpeFlNa090UDhfRmplNkZJWUl6SXIza2poN2dLMFVESF9XaV9JQ25pZE92eWpkU1hrQTloTmZrdnNXc2RiQ2psRGtwbFRoT3IyWE41ZDV5WVR3bVdLYw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
+  Opposition parties shut down Indian parliament in solidarity with
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- India protest: How Modi’s refusal to sack education minister fits a pattern - Al Jazeera
+  India protest: How Modi’s refusal to sack
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVl4UF82b19sQzFLR0dWZXZxeE1wUXB5VHBfdzFuWXhUUVAtZHhrWU5Fbnh1MURmVmZxbmdGRXVPLXpZWVRCVUd6M3RqYThudkQzWk1nWnVkVldjVEpSb3YyVFRPcFlna1Y1TjN0eU5tckFadWVZUzdEMmRRZzZtU1E4dDNSc1NpMWRqSVNKTlNKMnllQnhfbVVXRDVoLTVoMWJxLXBaeW5zVlB4TUgyZWZIWGHSAboBQVVfeXFMTzhDM0VqVktPeHJ6Ql9KV2FSR2FobFZzY0RmV2xpVlhtTGVKSGh2NlF2cENnR3FLTzhHTGowTnNnU0did3dWQ1FWa18yOXJQUGtxNmFheGZEd0ZSUjg5aEpLWVBCM0NyNFROdS1nU3VhSHZvMDZjckFLV25CZmVhamVidllWRklvYTBHNE1COWY2M0VTRFFYS3JDNTZ4ZXM0bnphODk0MFJUU1FPclZpRDNPR0pFYjlLX0V3?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- How A Paper Leak Protest In 1997 Made Dharmendra Pradhan A Student Leader - NDTV
+  How A Paper Leak Protest In 1997 Made Dharm
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZF9GTFZ0VmNTTVhqTWNJamJsNmlxRER4cTNzQWlnNWdzU0lKaUs1aEphbVNsb1kxaGNpeTRQdmwybGdrd0ktZjBOZGt4QlJRblZZdmZ6TXRCbzNDUUZNOVFCMlNOeFJoMlFzTmJnZnFCTHFHVTR5bDJNVngyaXN3MUloc214eTlaa0tXTGJ3WjUxOENjWERKczdjUmZPS0xobVFmVVdzREF0NU1hbE9YTGFubjl1YkRLMGNvaklHYlFUaHNSenNINkZheGJLbmRkZTNoRUlLRFRSaGwzMGfSAeYBQVVfeXFMTW0tSHd6c1lZckNGY29STUtqVEhwa0tJTjcxZGV4U00teE00RG1ZNG1PeGZRaEVqUGxBazdRNkVLUWlYbzV4YTZucXV1bnNKemd4TTAxdjFMU2Q0UkdHVHl0cWh1cmNaQkNLSnB1cGcwMjJLMWUxeXNSOFBiR1BPQUJYMUgyRE9XdUtDbFJUQ29vczdDR0ZCM0t2S1NSU3dtYXVwcmxXWWc2OURmX3VrQkp0LXpCS1RVbTVJeG9tRHAtSkpldnV2eU1FUVMweHBYSERQN2NxU2JnSGU5UGo1T0VGX01GVmc?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Centre unlikely to sack Pradhan over NEET row, open to compensate victims' kin: Report - The Times of India
+  Centre unlikely to sack Pradhan over NEET row, open to
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM1pSRnJZUjA4aUY1Z25fLVluRjdWZGtrTDcwYUF3WHZfQko0SXZ2ZWZpbzZSY3V4V2Z1aFU2X1RxMFNWLWVCUXBORV9GYkxma05tRDJheFJWLWlKa2VUaE5nWjlVWlNGdFNtWV9rRThlSmV6QThsWWpWY0VJRkt3VlJxMVUySnhGY0d6LVd4WFpfa3liem1xTUJ6Z2JXbWhrVXlXN3NCUGJGRGp4N1VCRzBPUDBoMkE4YnRwMUhTT0ZDd1JESzFjakdId2E5c1dwYUNWSVRRbm5NSHlnUEYwQ2FrWDRqQdIB6wFBVV95cUxOR3dhRnhqY2xBZV9VZzNMR0NrQ2dybFdWbkYyTGN5TmV3MktqZzdoVi1NRTJjTmFhREtIVFpFRmhMZmJzcXA2aVBtdExXclJvZDR0VjZMZHFWeWQ2Z3pGeldEWXEybGItVnJKTXkxMG52eG5fclZfdjg0dXRQVVVXMzVhaGJEQ1BVNXRVSnE2M3BNOGc3alVOYllXVWJyTXEtOEdNWGRZcDV0cS1CeFB4ZHFDbW9CNjV4T2d5d1lsSmd4dWVnRmxzY1MzQ09ibXZ4c09hWXhWUUhfdjN0UFhmRWQxSjFyVHhxb3Vr?oc=5
 
-- While tech layoffs cross 1 lakh in US, Europe's biggest technology company is offering employees $20,000- - The Times of India
-  While tech layoffs cross 1 lakh in US, Europe's biggest technology company is offering employees
-  🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxQYzk2UFFQRnRpWEdOclF3d2lCNUltUlZjbDNtMXQ1TzlkMWtaTkZCbG5BOVhwT0xqb0Vva2N5SnJKRUZDeUhkZF9RMkhiaUxJcWpKblA0YjF3S1dPZ2pQN202WTBlOTZ0U1NGaFNxVktIN2Jkd3lRLTcxWDlFUXVGcjN4VFBObV80M0ZTU1VVRnhCX3ZmTWE4ODF1cWtFYkd2TE1CdlJHVlNjazBSWGlwQ0FHYW84Q0VGZmlXdG9TbzV5UkJpYTlWaTh5WDFycFhaeDJSTnUzYUx2Z3pPMF8wTVdUQm9OWFFUdzQ4Mm1wdS05UFFLNTBpdjl6T2lvVnkyMDc3bTZ1UTMxOVVndUd5azk2Um1sQUZTcThCQWF5WHRWTWN1ejZqVjBOeFJBY1AzLVRyS3NyVllWbnNUbkRB0gHEAkFVX3lxTFBCR0pKY0oxdzJvQ1pTZ0xwd1lIWk9PdEhlLW9tMDNHZGtZX1YzN0tPOEFxR1JRQmE5THZZMUx4bFBMS1dZQTFZTl9KVDY2a2haRFBSbnFOSUVhaGE3cW43a2NLLUZNc0djaElka0IyZEx2MmhKbExwWnR2MTJtdnFINzhESzdkbjBYdHpHdWxzUXJjR1dqbnptNjZwcVpRYlZRVWVXLVFwZGhNV1daT0NDVzAwc0hPTWp3WHY0c052NHpjT3VyTTVWeno4SGZxS2swXzNZQy14TzVzTGxpV2ZGN1pQX2ZLX0tXVlp6RUdmVVpHZ0pOYzNZLXdPSHdWVGF5d3J5aEFCNjd3aEFJdWEtWTBIUE9PMFB0VE00XzdqenQzRG9GMFpfRnBubGw0UlRtZXVwNWlfNjlHRlJnY1ZKMFVWMg?oc=5
-
-- OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company - Tech Xplore
-  OpenAI says its AI technology acted on its own in an 'unpre
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxONlY3ejNCck96d1U5Z3hFbG9yM3Z6TEJKODFxZ1o0ZGVyQ0huVHNsR3BlemduUWw1UVk1eG1FWGIwcnRfZkNGbktZT2tYa1JyOGxZa0tTaWZsSUVUSkoxN3lrNUdRcDV1cWI1bUxyYThlSmFoZDhZU2J3SjE2Q0FIYVp2aXduU2c?oc=5
-
-- India favours local high-speed technology for Mumbai - Ahmedabad project - International Railway Journal
-  India favours local high-speed technology for Mumbai
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlJobGxuVWpQWk50Yk9QU2hSZU5Dd1hLeUN2QlBoTmR2SUF2NHExbVRHamwxRGVqZ2NISDVpTTQtRTFQalNoUzB5TW5FNS1Penhhdkg0eFFBdmdOVFhiejBybWN5c3o4ekNOQ2F5RlVsRFlGckU2NHVWZ040SmhFNGtDbm5FX2M4YmtLaFBKeC1yeG1YbnNaVHlUSkczM1FfTVNYT0h5TDNjM3dEdGJlM1hqd0hUUzg2dmY4Vw?oc=5
-
-- OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC
-  OpenAI says its AI went rogue and
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5
-
-- Kadapa Collector urges banana farmers to adopt modern technology, form FPOs - The Hindu
-  Kadapa Collector urges banana farmers to adopt modern
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSjBwVmxDY3JZdUIzQlFXQ2ZINFVFc09KUm1NaTNhanNZUGo2cGlzX1k4eWo3YWVOWUFkQnhhRG5JLWJJUThkcnFQdTVqdzZfUi0yNXZubzM1T3FnRHFFMVFCaWxnMXoyWFJmRlVYNk41Tnd1YW9FZUVuWEFxSnJaZEpXX0RaUDNJa01UejVmZmxzRkROSTFFY0MzU2hZQ0hQUFdCd3JjY09XUE91U2FraHdKem5TTmtyTEhXRzA0TXMwZVZGdm9UV096Ul9KOU45NDhKX3FQSGtCWExVY25BZmx30gHoAUFVX3lxTE9RSlZXYkU5WnBKZWVDUlpna0FXa0hCcWgtZzB4SVdTRzNvQUxrYWxGQ2dxSlgxMG5EOTdTMEpEZHZyUXJnN1UtSkl5TFVpSER0MXBiakJyNVRQY2E1b1RrWnZVZ0d3ZGNKV2dPRGN0bl8yVEZCYVR0Yzk0T211dUN1TDN6TXBnZ3JaOVhoSmJBU1FOYkNsbjcwQkdPRk5rNEREV2ZhUTdwOEJoVmdBTXJxNWo3N1lsaGxLbUdHWGVzNWpDNmdQMDdmVHRnMkdmdkR2SVlsNGIzalhJZEJ2LWdhY2FSeUlxVlc?oc=5
+- Over 37,000 Killed On India's 6,358 Highway "Black Corridors" In 3 Years - NDTV
+  Over 37,000 Killed On India's 6,
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkxjVkdOVHRtM1o1OFFwaWZwWFdyQnVEQkFCWG1uS3ZLMGtXbzRfeDdTbmpwOGladzg0NS1KYU1FeG1KYks1d3gtU2E3d09LZVNUUHhvLTVpQ3dtVlBXdDR5c3VvLUZ2bHU0T1V3R1g0cWxkYk5acFBJZW5LcFNma25ha2JURjRyMTNhdEY2X0lNaEVKMXh6aUxPSVFzbkN4ZkJsTGUzTEMwdVVCMnZJ0gG3AUFVX3lxTE02c3BZaEU4VEx0T3VzcmUtWGJ3R3lNclA2eUZPS2s0RURUNV9CZTBIY0RyQmJwYkZVMGNxaWVBWjRhNVZhTDhSYTllLUYtZVlCcXN2ejZiUEU3YWY3bk0xVWlpeFlNa090UDhfRmplNkZJWUl6SXIza2poN2dLMFVESF9XaV9JQ25pZE92eWpkU1hrQTloTmZrdnNXc2RiQ2psRGtwbFRoT3IyWE41ZDV5WVR3bVdLYw?oc=5
 
 
-_Last updated: 2026-07-22 19:08:47 UTC_
+_Last updated: 2026-07-23 02:15:42 UTC_
