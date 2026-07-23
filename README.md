@@ -1,264 +1,224 @@
 # 📰 Daily News Summaries
 
-- Indian Railways approves Rs 440 crore third line project in West Bengal to ease train congestion
-  
-  🔗 https://indianexpress.com/article/india/west-bengal-third-line-project-rs-440-crore-indian-railways-train-congestion-10799822/
-
-- BJP rallies behind PM Modi on paper leak fast-track courts; dares Opposition to debate
-  
-  🔗 https://indianexpress.com/article/india/pm-narendra-modi-paper-leak-fast-track-courts-bjp-support-10799776/
-
-- Beyond apples: Why blueberries could be Kashmir’s next success story
-  
-  🔗 https://indianexpress.com/article/india/beyond-apples-why-blueberries-could-be-kashmirs-next-success-story-10799642/
-
-- ‘No debate till Dharmendra Pradhan resigns’: Opposition unites over CJP protests
-  
-  🔗 https://indianexpress.com/article/india/no-discussion-without-dharmendra-pradhan-resignation-opposition-cjp-protests-10799667/
-
-- CJP protest over NEET paper leak enters Day 26: What happened, key demands, Centre’s response
-  
-  🔗 https://indianexpress.com/article/india/cjp-protest-over-neet-paper-leak-enters-day-26-what-happened-key-demands-centres-response-10799370/
-
-- SpaceX launches satellite servicing mission with 10-foot robotic arms
-  
-  🔗 https://indianexpress.com/article/technology/science/spacex-launches-satellite-servicing-mission-with-10-foot-robotic-arms-10799693/
-
-- Microsoft brings Xbox backward compatibility to PC with 4 classic games
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-brings-xbox-backward-compatibility-to-pc-with-4-classic-games-10799692/
-
-- Amazon reduces AGI workforce as it doubles down on core AI projects
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/amazon-reduces-agi-workforce-as-it-doubles-down-on-core-ai-projects-10799391/
-
-- AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/amd-to-invest-up-to-5-billion-in-anthropic-ai-startup-to-buy-up-to-2-gw-of-chips-10798824/
-
-- Meta employees’ lawsuit shows that if AI fires you, proving it is the hard part
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-employees-lawsuit-shows-that-if-ai-fires-you-proving-it-is-the-hard-part-10798813/
-
-- Jantar Mantar CJP protests in Delhi: The meme language of India's Gen Z - BBC
-  Jantar Mantar CJP protests in Delhi:
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMlBYY0twamo0dXczWXJkSVk0YlhkUTFKWDZrRFVYMHVONzJqRHNrN1loWkIwX3d1TXVIOGVHa0xKMk4zV0I3dUNOVUx4YlZPMkFBbzdCdHpkUQ?oc=5
-
-- Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
-  Opposition parties shut down Indian parliament in solidarity with
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
-
-- Protests Shut Metro Station, Chief Justice Says "Will Intervene Soon If..." - NDTV
-  " target="_blank">Protests
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVcwM0hYaU5iQk9HX2RaQjBOM1hPTzRqWV8zeVRFMmZrekkyU01Pck9TZm5NenpQRndoQ0QzOV8xX1lLekI3WEtHR0xnLWlZM1YzcHhDVXFhQS1wY1VPLXk0aGswdzc3Y052ME9vdm5mSWNMQjhqZUNsblZvcXFfaTlxZHlLcnEzaHFVRUdqdHlPTUVHREFmVVZ6dkszSWNHZDhTcTZxR1U4aUxweFF0YS1vOTg4cHFaX3R1QXN1VnFpRlcwRHd5SmdNZWVhaEVWMTRjVlZST3FFbXFrTmwwREFPWTZpcVHSAe8BQVVfeXFMTkdRdC1qVEhNclYyMm5XdHA0OFBOQThwOVNMWXhRQzltQWtZWVB5WWV3ck1uYUhOS1NVdnFVS2ZxMUJEWTc2emd4Tm5OUlZBcExPbk83VGpKQmZUX1J5a2Nlcm44ZzRaMFpwUVpCWHF4NnBzYTZnZFFuMjl2TFZJOGtDNHVUQl9MM3FGaXRwdTZ5a2xFVTktN2lodEN5RW5JcUw0QjBvalB2RllyMzl1Ujc4VGlwMElPTXA0VVFBVHgyRnc0cEhjemtUMWZjeGpCcHVnZFFqN0Rqa2pUY1A1ZXl5YmxWR095TXZJcXhBRmc?oc=5
-
-- India’s parking crisis is turning into a major civic headache - The Times of India
-  India’s parking crisis is turning into a major
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1RzMS1VeENzWW1NdTEwLWloLU5Mbm5tcGdMWjdwcV9YRnBDdzZrLURKS0VMWDROa2lLOVRiWXlIVHJSaHpVd3RMbFdnV0hoWGVTekczczdyYWFRa1lWcThEa2NYTWEzekV5RDhQWFgxWnB1WmJwWG9wc2FBdGtKUGIyZVpWLVFVZnUxdGZiUUV0OUxQdFN5NGtTVEpWZW41TzlqMkNPTXZvcWRGRncxM21fZlphU0x4dUdOcHE2alJoU05OcXFHd0J4MGxMdw?oc=5
-
-- Trump’s 200% generic tariff threat would imperil Americans: Indian pharma - The Hindu
-  Trump’s 200% generic tariff threat
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOQlBmWGZBTUhTRmhhQm81X3AzOEVuNFRiQmdRYTFQWEhaWC1zbDVxRC1sem5uZWtyNDhueXlLcktyWEI4MWFDMGxRY19lcWFqNEFadXl4ZGFNdmxzNWNYY0R3TEZTQVBxOVdRRTFUZTJSNi1tVFBoR0xhT1RQdnhrQzFYM0g1bDhoR2hRS1g2bkk0ZGVzcDBhVFZvREk0TUtUTkVPQVNxNEhKZ3Fia3J4bjQ5SEl5a1RKLUZfWkhNbjZkRWxNRGJCVkZrWm7SAdMBQVVfeXFMUFVnUWJfR0UweE1EZWVIOW1xc3doVGpsWUxfQzVtUDVHcGd0NFB2SmdTY0hXdEVOd1lGRmZVNDgtVjR6RzhScnh2SnZsb2ZYRS1RM19Zcm5xNkpYQjhzSWFGRkswZ3JuTlhNTTRrQWdEMXdJak42WGlsbzJTNEhleXZBRTl3em1iUHI5dDFVVEZQSUl3M3ZEaC00Z0IybUJ4TFNNM2stMGNmS2JGWUhDUDRsaGM0d0xUT1ZSQU5TRk4yYjZ6Y0RkVlV1a1UxWjlhQnhDVQ?oc=5
-
-- Expert view: Prolonged US-Iran conflict risks earnings estimate cuts, says Dhiraj Relli of HDFC Securities
-  Dhiraj Relli of HDFC Securities outlines how prolonged US-Iran conflict could impact Indian earnings estimates. However, he
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-prolonged-us-iran-conflict-risks-earnings-estimate-cuts-says-dhiraj-relli-of-hdfc-securities-11784791105668.html
-
-- CJP protest in Delhi: Is it wise to pause fresh capital allocation to the Indian equities? Explained
-  PM Modi's social media post indicates the government will not dismiss Union Minister Dharmendra Prad
-  🔗 https://www.livemint.com/market/stock-market-news/cjp-protest-in-delhi-live-is-it-wise-to-pause-fresh-capital-allocation-to-the-indian-equities-and-buy-gold-explained-11784789201124.html
-
-- Adani Green share price falls 5% despite strong Q1 results - Should you buy the Adani Group stock?
-  Despite a strong quarterly performance, shares of Adani Green fell 5%. The company reported a 19% net profit increase in Q1 FY27 to  ₹845
-  🔗 https://www.livemint.com/market/stock-market-news/adani-green-share-price-falls-5-despite-strong-q1-results-should-you-buy-the-adani-group-stock-11784787924015.html
-
-- Stocks to buy: Nagaraj Shetti recommends Bajaj Auto, Epigral shares to buy in the short-term
-  Indian benchmark indices continued to decline, impacted by rising crude oil prices due to geopolitical tensions. The Nifty 50 fell 0.27%, and the Sensex dropped 0.24%, marking a
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-bajaj-auto-epigral-shares-to-buy-in-the-shortterm-11784788202398.html
-
-- Nifty 50 slips below 24,000: Key support and resistance levels to watch amid market volatility
-  The Nifty 50 has slipped below the psychologically important 24,000 level. Analysts expect the consolidation phase to continue in the absence of fresh
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-slips-below-24-000-key-support-and-resistance-levels-to-watch-amid-market-volatility-11784788921121.html
-
-- OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company - Tech Xplore
-  OpenAI says its AI technology acted on its own in an 'unpre
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxONlY3ejNCck96d1U5Z3hFbG9yM3Z6TEJKODFxZ1o0ZGVyQ0huVHNsR3BlemduUWw1UVk1eG1FWGIwcnRfZkNGbktZT2tYa1JyOGxZa0tTaWZsSUVUSkoxN3lrNUdRcDV1cWI1bUxyYThlSmFoZDhZU2J3SjE2Q0FIYVp2aXduU2c?oc=5
-
-- BTS ropes in European partners to create global growth opportunities for start-ups - The Hindu
-  BTS ropes in European partners to create global growth opportunities
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZmp6RkIxdUJQOXE5NmduVDN6ZDZrWVJjdkVxTVpST1VtQjlkSmN2UGpGdVd6a0szeEJMS3l5bnloZmUzQ281ckM2bjVjajdXVmV3ek8wZHB5UGdWWkIyOFNST2tHWTllVlN0Y3VOTnp6ZnJ5Yzd6ZG1YamVrcWpJTVRaVlo2QnVWVVh4Wlc3cWZIbTlXdFZKdTUzZGNyek9uZm1jQW1vcThnVTVQaE5fSDk0cGo5bkVCNDFzRWtUUERrSnppR1lXWTY0TVZGVlVSMVRhN1VwZ1h5djM3dFFaeDRzbVA0Q0o0RlZQUXJ1M1dxYUp1cFBQUGhhNFfSAYMCQVVfeXFMTUZsV21sVHRjWWJSc2RjRDYyU0VwODQyQVdYaHhuQ1VhNjBjTmVabDlPc19CWXU0NXlfdEhfRFZvY1FoeFltbjFiQ3o5c09YSEZwX0N3R1dyOVNPZzhmWVBqd21GcXFwZ2FrQ3FmM0Y5NkZ2M3FiTktnMVd1eWtRNzNNN2ZDVHZYRkM3ZHNFZUFWVHItbGpIak1qX2Ixblh2VG42VWhFYmZEb25fNkowRnY0NFAxekhESmZHeHBhZVJIenJVclFHWG51aGdOeUhZZ2tlb3EwWmdJT0ZDZ01aUTNlX25sZm1JUDA4US1hOHMtYkZxMkhaRUdFem9fQkRMcVZaOA?oc=5
-
-- Offence Under Section 66 Information Technology Act Is Bailable : Supreme Court Overrules HC View - Live Law
-  The Supreme Court has ruled that it is illegal to use the internet to
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOczM2UVo2bEp6WW5McncyN1Z4M3hEX2luSVZ2dGE5V2hwc2NDcTdYWmNsYzJQaXVuOFhsRWJLWVhCV3VHbUZ5YW1kOUNNNVdWNy1kc1NuaHF5aEJPX0pPNUJrN040V3YwaUtWQzZOTGd1bkY2MVROeklTdkVFTU1KSnNBclhHM3BrX2lvd3d0RkcwYnJTQXN6dV81N25qWmI1LVdBZndZTWdrMXZheWlkeV9Dd0J3RWlJV2p4NEpuS1lIc0RBUVVCN0xDVk9qeGt3RDNmZFln0gHbAUFVX3lxTE5vdWFSSFRlQmJMeHNiMmNkbGh1T1hlUURzQzJXTi1QTXVZSDNyU3FEN1ZUOFlvZ2dBeTRmdnluZDVadl9NRUZHWFNyQ090b0R2Z0diWGlNQVlwOUg3VlVPNUZ1SUNwZE51WGRrc1hsVXFWVHJISjNnMXd2S2VjRWNaX2NyQXdhQlVXeHB0WnRMd29GZVBBUjFfTWFqM2hodWZ1LXpid0J0WmdrREVlOUtBcGZzT1hwZjAxSWN6c2RQNjFLc25FYnJUSnpaTTA1bzltWmJRYTZQdk1ldw?oc=5
-
-- India favours local high-speed technology for Mumbai - Ahmedabad project - International Railway Journal
-  India favours local high-speed technology for Mumbai
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlJobGxuVWpQWk50Yk9QU2hSZU5Dd1hLeUN2QlBoTmR2SUF2NHExbVRHamwxRGVqZ2NISDVpTTQtRTFQalNoUzB5TW5FNS1Penhhdkg0eFFBdmdOVFhiejBybWN5c3o4ekNOQ2F5RlVsRFlGckU2NHVWZ040SmhFNGtDbm5FX2M4YmtLaFBKeC1yeG1YbnNaVHlUSkczM1FfTVNYT0h5TDNjM3dEdGJlM1hqd0hUUzg2dmY4Vw?oc=5
-
-- OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC
-  OpenAI says its AI went rogue and
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5
-
-- Markets News, July 22, 2026: Major Indexes End Lower Ahead of Big Tech Earnings; Oil Prices, Treasury Yields Gain - Investopedia
-  The Dow Jones Industrial Average closed at a record high on Tuesday. The S&P
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0hzYlYwYkpQb0pqWExBR2RKSUpfeHJXSkIwei1BdS1TbTFIcGFwazF1UERxZ0VVTVBmX292aFV3R0NzQ2VVVGV2X19ON1JFRnpySXZ0NkJEWW5QWmNZUGtWYWw1NXlUM21SVWd2dkFYcDFDcTlCdXRtMkJfQjI5eXJTMFpIcXBwa0FnMWVMOUQ?oc=5
-
-- Stock Market News, July 22, 2026: New Climb in Oil Prices Sends Bond Yields Near 2026 Highs - WSJ
-  The WSJ published a story on July 22, 2026. The story
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1NUeGN5WWJtTDR2OWMzS1FUTE5XM0xjNlA2NTQwUDI0cW1sbnBSQmVFRUNKVWxqZTZVeGtQbnhydld5NXQ5anpKSWlOeUpPVlhYN2NfZU1pRklUVUF0QUdMQ2NMZktpTkxnd0F2VVJSYll4c0pFZXlqeTNKeExwZjN4YTRCSzQ?oc=5
-
-- Stock futures slip as investors eye more earnings; Alphabet falls on higher capex outlook: Live updates - CNBC
-  Stock futures slip as investors eye more earnings; Alphabet falls on higher ca
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1vblI0ZnhoVnRkR2FISkRsT3hDd0UzZVhPd1JmaGFldHpEY1BaTl96dmtCcXFvU0ZJdHJ0U3kxS0t6eTY3LUUzTXo5TExReU5IdWJsbVc5Z1pKekJuWVpxZTBkdjc2Tm52b3MxYVRFU0lFTEN3WW9B0gF8QVVfeXFMUHJIVU9pa2lVQ1YxcGVuVXBIbFN4M1JJS1BCQ0dvTklEbmhlYjRrelFmVXNSbXVZLVhBZHVNZjcxZlU1OEtyNU1UaGo1Vjdua1p3MFUxa0dPYlo4ay1HN0k0eXBNcXlfU0ZRX1gtb3dPOXVhbC1IR3RWWlZNZg?oc=5
-
-- Plan in works to reduce upfront margins for cash market trades; SEBI considering aligning margins with... - Moneycontrol.com
-  Plan in works to reduce upfront margins for cash market trades. SEBI
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOS1I1djkyT0pRT3Vfalc2TUJhVmRheDBtNnNpY3I3bHhOVnVzdVVWVk1mZ2JYelBxZGVxbzdhUmg4THREZ3c2N0c1ZTZXUm5vNUNNckN0bGI1UUxVdTJrd0IxV003OXZIU2RtVXdNamJBN2c0YVRqTk1NZ1BvV1E1S2puMGtMc0JQVmJuWUtXM2VMbDBuQ2JKSTRWMEc2YUw5WVdqaE1qOTNTZU41b1BTWEpxNXItbHRIWDdIcFpMTUlCajYxUDVNSDdpQkc4TFlOb01JSTFjRGNoRUx4M3hTUS1HOEh2anVWaVhMLTNLVURvQl9zV0NoTllYMWhndFRoMmg5S3B5bGpzVGFfcVN1NlctcWXSAZoCQVVfeXFMTWhWMF91djNIX2t4cm5KWVRPR1dUUjVhMUcxR0t6NEx6Y1VrQkdkMG9YUE1nYU5BN3M2QmxIRVpkOHo0c0p3dHdsSDFNRkxxRW9KaDRlMVJfbVI5TGNLeE5SUV96c1REMlRUUVVGV3hBVVRCM2FWdU5JUHlhV1FOWDRXRGFyel9pblFCeTl4d1RZRzFXTHA5X0xRYy00NG1PdTdyeDFQWFZ5OGdQc1hqTzBXRjBKWWdnWWFGQVNTdlhKWjRvTWtnek9uODFicm02TFFxOVpnSTRxekx5WVg3MmZvanhkS1cwNVVfVlhJYnJ1d3pnZ3R4aGg3VEx4M2dSb2xmMXl1YnRQQVNBR2VONWV2bS1Gb3pJdF9n?oc=5
-
-- SEBI's Portfolio Management Services rule review revives push to ease NRI investing - Moneycontrol.com
-  Moneycontrol.com is a provider of
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWkFXTjlJcEFDVWE0Q1BkYnVKVEkyT094a2o3ekZxM18yM1RpWEczeFVLTUVrVW5hSGFJWGhadDkwQ21LUXlzWDRWZTIzTWp3VnhubzBsUDhlYTA2cERNYS01R0ZMYnUyaHdiZURSWHNkeUswenpCU2lBTV9sY0FrVHlxRC0xSFlTanQ4Vk5rSmpBV2ROR0N0MkpOR3BtSXJkcDJBTVdaLTluMWxhUUg5V2tXMXVKZExsZXc5ME5kdm9zS1ZTb2tWMUtJaGd6RXFZTk9QZnEyWmNzQVotQXNoZnNR0gHnAUFVX3lxTE9uMUZMU2Z2ZWFuYnBTbUlhbENMd0k3cm1OQkIwcFhMSVR1VDBjcWdVbzNyT2FHQmtRM3JyMEMzNjk2S2tYaUFxYzlvallBc1R5WG1LelQ3QVlzSTFOaDRST053a3RNdnBuR2FrOF91QnBtQlNoZEJJWWFTejY1Zmdva2prRFJHNjJEb3E2Yk1Gc21ZQWVJeE5ld29PMUdBcmxTX3FmeU9sU1hyVHZ6bVhFNXJzcXRBQkRhZnhmZWxyVkR3UzJFbXVVRUdZbzMxekVBN21vY09MTHg0TkRVeFdaZWlDRktLbw?oc=5
-
-- Global Market: European shares slip as tech stocks drag; ECB policy decision in focus
-  European shares slipped as weak semiconductor earnings and renewed concerns over AI spending weighed on technology stocks. Energy shares gained as Middle East tensions lifted oil prices
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-tech-stocks-drag-ecb-policy-decision-in-focus/articleshow/132575316.cms
-
-- Bitcoin trades near $65,700 as AI-led inflation concerns cap gains despite strong ETF demand
-  Bitcoin traded near $65,700 on Thursday as inflation concerns capped gains. Strong ETF demand persisted, adding $203 million on Tuesday. Geopolitical risks intensified after Iran's exports were blocked.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-65700-as-ai-led-inflation-concerns-cap-gains-despite-strong-etf-demand/articleshow/132574693.cms
-
-- Domino effect: Gandhar Oil’s 20% upper circuit spurs rally in Savita Oil and Panama Petro. Here’s why
-  Gandhar Oil Refinery hit the 20% upper circuit after reporting a 689% year-on-year jump in Q1 net profit. Strong demand across PHPO, PIO and lubric
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/domino-effect-gandhar-oils-20-upper-circuit-spurs-rally-in-savita-oil-and-panama-petro-heres-why/articleshow/132574516.cms
-
-- Global Market: BNP Paribas Q2 profit jumps 33% on strong trading, retail rebound; beats estimates
-  BNP Paribas reported a better-than-expected 33% rise in second-quarter net profit to €4.35 billion.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bnp-paribas-q2-profit-jumps-33-on-strong-trading-retail-rebound-beats-estimates/articleshow/132574000.cms
-
-- Indonesia's Danantara plans dollar bond sale worth at least $500 mln, sources say
-  Danantara, Indonesia's sovereign wealth fund, plans to issue dollar bonds worth $500 million. These long-dated bonds will extend the fund's offshore funding into longer maturities.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indonesias-danantara-plans-dollar-bond-sale-worth-at-least-500-mln-sources-say/articleshow/132573818.cms
-
-- Jantar Mantar CJP protests in Delhi: The meme language of India's Gen Z - BBC
-  Jantar Mantar CJP protests in Delhi:
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMlBYY0twamo0dXczWXJkSVk0YlhkUTFKWDZrRFVYMHVONzJqRHNrN1loWkIwX3d1TXVIOGVHa0xKMk4zV0I3dUNOVUx4YlZPMkFBbzdCdHpkUQ?oc=5
-
-- Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
-  Opposition parties shut down Indian parliament in solidarity with
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
-
-- Protests Shut Metro Station, Chief Justice Says "Will Intervene Soon If..." - NDTV
-  " target="_blank">Protests
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVcwM0hYaU5iQk9HX2RaQjBOM1hPTzRqWV8zeVRFMmZrekkyU01Pck9TZm5NenpQRndoQ0QzOV8xX1lLekI3WEtHR0xnLWlZM1YzcHhDVXFhQS1wY1VPLXk0aGswdzc3Y052ME9vdm5mSWNMQjhqZUNsblZvcXFfaTlxZHlLcnEzaHFVRUdqdHlPTUVHREFmVVZ6dkszSWNHZDhTcTZxR1U4aUxweFF0YS1vOTg4cHFaX3R1QXN1VnFpRlcwRHd5SmdNZWVhaEVWMTRjVlZST3FFbXFrTmwwREFPWTZpcVHSAe8BQVVfeXFMTkdRdC1qVEhNclYyMm5XdHA0OFBOQThwOVNMWXhRQzltQWtZWVB5WWV3ck1uYUhOS1NVdnFVS2ZxMUJEWTc2emd4Tm5OUlZBcExPbk83VGpKQmZUX1J5a2Nlcm44ZzRaMFpwUVpCWHF4NnBzYTZnZFFuMjl2TFZJOGtDNHVUQl9MM3FGaXRwdTZ5a2xFVTktN2lodEN5RW5JcUw0QjBvalB2RllyMzl1Ujc4VGlwMElPTXA0VVFBVHgyRnc0cEhjemtUMWZjeGpCcHVnZFFqN0Rqa2pUY1A1ZXl5YmxWR095TXZJcXhBRmc?oc=5
-
-- India’s parking crisis is turning into a major civic headache - The Times of India
-  India’s parking crisis is turning into a major
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1RzMS1VeENzWW1NdTEwLWloLU5Mbm5tcGdMWjdwcV9YRnBDdzZrLURKS0VMWDROa2lLOVRiWXlIVHJSaHpVd3RMbFdnV0hoWGVTekczczdyYWFRa1lWcThEa2NYTWEzekV5RDhQWFgxWnB1WmJwWG9wc2FBdGtKUGIyZVpWLVFVZnUxdGZiUUV0OUxQdFN5NGtTVEpWZW41TzlqMkNPTXZvcWRGRncxM21fZlphU0x4dUdOcHE2alJoU05OcXFHd0J4MGxMdw?oc=5
-
-- Trump’s 200% generic tariff threat would imperil Americans: Indian pharma - The Hindu
-  Trump’s 200% generic tariff threat
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOQlBmWGZBTUhTRmhhQm81X3AzOEVuNFRiQmdRYTFQWEhaWC1zbDVxRC1sem5uZWtyNDhueXlLcktyWEI4MWFDMGxRY19lcWFqNEFadXl4ZGFNdmxzNWNYY0R3TEZTQVBxOVdRRTFUZTJSNi1tVFBoR0xhT1RQdnhrQzFYM0g1bDhoR2hRS1g2bkk0ZGVzcDBhVFZvREk0TUtUTkVPQVNxNEhKZ3Fia3J4bjQ5SEl5a1RKLUZfWkhNbjZkRWxNRGJCVkZrWm7SAdMBQVVfeXFMUFVnUWJfR0UweE1EZWVIOW1xc3doVGpsWUxfQzVtUDVHcGd0NFB2SmdTY0hXdEVOd1lGRmZVNDgtVjR6RzhScnh2SnZsb2ZYRS1RM19Zcm5xNkpYQjhzSWFGRkswZ3JuTlhNTTRrQWdEMXdJak42WGlsbzJTNEhleXZBRTl3em1iUHI5dDFVVEZQSUl3M3ZEaC00Z0IybUJ4TFNNM2stMGNmS2JGWUhDUDRsaGM0d0xUT1ZSQU5TRk4yYjZ6Y0RkVlV1a1UxWjlhQnhDVQ?oc=5
-
-- Eternal Jumps 4.5% As Brokerages Cheer Q1 Growth, Blinkit Margin Outlook
-  Shares of Eternal jumped as much as 4.5% on the BSE today to hit an intraday high of ₹296.15.
-  🔗 https://inc42.com/buzz/eternal-jump-4-5-as-brokerages-cheer-q1-growth-blinkit-margin-outlook/
+- India’s Modi promises fast-track courts for exam fraud fuelling protests - Al Jazeera
+  India’s Modi promises fast-track
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGtBemltRGhBS1Rkc2xmbmE1bHRuY2FmcVY0OFYtSkNXMDZKelI4SFpwNlhrdjV1UWpCQnNyd2VGeUMwY3k1Yl9PVjNMbFJMS29YMm1yejNMTGYyMEhGNlpEaHJJQ0gwd2V3dktZeWdPT2lNTDc5WUo5REVrdmJtUnE2cFIybkZYVlFjaTVXc1QxdksxU281TmVucUx4ZXJoUGlGZHVaRmF5aXY0Qm4tRjR30gG3AUFVX3lxTE9TaGpSR2ZYSXE1N2R2X2FaTmJLY2hPd2FuZkpwd2hIaE5ZWlo1am1FWkFlbnNFRi04QnpvTzVHZ2NWSFV2Ym1wNmVCR3lqUzFQMDFQMEZ2SWN5Uk1vdTFOdC1haHZwVHdidEVUNU5yWWNpNWNhWTU1LS1MTkVERXIzNU9ETGdlLTJ3OTdSMk1jOHhRRmtxNlN4SGR5RHRuMFM0NW80RmV5VXFUSGU2QmFUaExpUjFySQ?oc=5
+
+- Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
+  Balen Shah Breaks His Self Imposed Diplom
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
+
+- India: Liquor store employee narrowly escapes leopard attack - BBC
+  Liquor store employee narrowly
+  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbWVjaTBiYVFLUlRXdXU1VzlOUjhfeFBYNUVWMDBkRXdCWVlJcHNYRGY3TmN5SmF5MmxHSzlyLVNfaHItamlSMmwwV3EtTHY2T1kyUjRWVQ?oc=5
+
+- India relaxes e-commerce investment rules for exports in win for Amazon - Reuters
+  India relaxes e-commerce investment rules for
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk8xcnpNeU9mY0RLYi1CM3lKdk5xS1ZjcDhhWkJYclJVZmJyUnl4RlBZd0x3ZHlseU5va096WFBLNlhndWtLMFlKZXdfTktqbk1nR09jbWlRSkR3WWRVdUlBaUI0UDJHSURXUnBVdkpRemtNTW1XeUJrbV9HdTdKMlJGTDlIRDhZRVJFMXVhLURnMW5YN1FPNUgzT3RiUGJzOEtWaWl1bU1ENGI0?oc=5
+
+- INDIA Bloc MPs, Led By Rahul Gandhi, Head To Gandhi Smriti To Support Students - NDTV
+  India Bloc MPs, Led By Rahul Gandhi, Head To
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21oSTRFZE5mOE1DRjhCTGVlUUI1WFhNUWEwSHIwaU13S1Q0S3VrbDhGc1BleTRtdWlzMEFsUDctLW5fb2FhTjNzU0NxdmFFVWIwRzU3TVpjYUNWWlhjQm5Lak4wSzN0SlkxaXp6dXZFdC1tdU85SGFaUEpCWTRqcEpucGVTSVB6ZE8wZ0VIRjg3dm9xYTJ2NlIteDVVM1BGSVRTVjQ5c2txMmF4X2RhUzJjWWYxNWMx0gHAAUFVX3lxTE1GUTAwUkdHMG5BTFFFX2tzRW5TaFowanlvb3VSZU9fWDRtNC1feXZrcUtOV2lvTTRrUVNmQjhleTFCQ1R3TTVJQl90TGRFcTVkbWR5dVh2MGpKZjhzWlVXc08wekVJYnJoOGJCTklNS29FbE45LXF6clVvcUFNVVM5eWpVNGRmQ0VmZFBFYTduSEZwNTZXX3dBN3JJb2stTzFnbHRUM3BueEZzSUV6TGRuNENOU1F4Unk1cTc0QWVmdA?oc=5
+
+- Hindalco chairman Kumar Mangalam Birla unfazed by new rivals in aluminium
+  Hindalco chairman Kumar Mangalam Birla dismissed competitive threats from Adani Group's new $11.5 billion aluminium venture.
+  🔗 https://www.livemint.com/companies/hindalco-chairman-kumar-mangalam-birla-unfazed-by-new-rivals-in-aluminium-11784807198726.html
+
+- Google hit with $1 billion EU fine over search, play store breaches — here's why
+  Alphabet Inc.’s Google was fined a total of €890 million ($1 billion) by the European Union for violating the bloc’
+  🔗 https://www.livemint.com/companies/google-hit-with-1-billion-eu-fine-over-search-play-store-breaches-heres-why-11784810224081.html
+
+- Meesho beats Q1 revenue estimates as marketplace growth narrows loss
+  Mesho reported consolidated revenue from operations
+  🔗 https://www.livemint.com/companies/company-results/companies-company-results-meesho-q1fy27-results-revenue-beats-estimates-marketplace-growth-narrows-loss-ai-logistics-11784808003464.html
+
+- Wipro Consumer acquires TTK's Good Home, Eva brands for  ₹256 crore in second deal in three days
+  The FMCG company is accelerating its acquisition strategy as it strengthens its home care
+  🔗 https://www.livemint.com/companies/wipro-consumer-acquires-ttks-good-home-eva-brands-for-256-crore-in-second-deal-in-three-days-fmcg-acquisitions-11784804513570.html
+
+- ITC to rearchitect cigarette portfolio, take calibrated pricing actions to tackle effects of tax hike: chairman Puri
+  The company’s shares have declined over 22%
+  🔗 https://www.livemint.com/companies/news/itc-rearchitect-cigarette-portfolio-calibrated-pricing-actions-tax-hike-chairman-sanjiv-puri-fmcg-agm-11784797202692.html
+
+- Sebi proposes faster online dispute resolution, bigger role for exchanges and depositories
+  The market regulator is seeking to speed up investor grievance redressal with tighter timelines.
+  🔗 https://www.livemint.com/market/sebi-proposes-faster-online-dispute-resolution-bigger-role-for-exchanges-and-depositories-11784810023118.html
+
+- AMC profits rise on stronger core business and treasury gains
+  Profit after tax rose 12-27% year-on-year in Q
+  🔗 https://www.livemint.com/market/stock-market-news/market-stock-market-news-amc-q1fy27-results-hdfc-amc-icici-prudential-amc-nippon-life-amc-profit-other-income-sip-flows-11784799577706.html
+
+- Sebi proposes MF-only portfolio management service, wider investment universe
+  Portfolio managers would be allowed to exclusively manage client money in direct plans of mutual fund schemes, including exchange-traded funds.
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-pms-rules-mutual-fund-only-pms-25-lakh-minimum-investment-11784807708558.html
+
+- SBI Mutual Fund trims stake in Ather Energy to 5% after partial profit booking. Details here
+  SBI Mutual Fund has trimmed its stake to 5% in Ather Energy through partial profit booking. The fund house has sold 6,16
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-mutual-fund-trims-stake-in-ather-energy-to-5-after-partial-profit-booking-details-here-11784803608347.html
+
+- Lohia Corp IPO: Issue receives modest response on Day 1, subscribed 0.40 times; GMP signals muted listing
+  Lohia Corp's IPO saw modest demand on Day 1, with bids for 56.8 lakh shares. The IPO continues until July 27, with a price band of 
+  🔗 https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-issue-receives-modest-response-on-day-1-subscribed-0-40-times-gmp-signals-muted-listing-11784810014964.html
+
+- iPhone 18 Pro launching soon: Expected price, camera, display, processor and more
+  Apple is set to launch the iPhone 18 Pro lineup soon with new color options, a smaller Dynamic
+  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-launching-soon-expected-price-camera-display-processor-and-more-11784776990236.html
+
+- Google makes switching from iPhone to Android easier with Android 17: Here's how
+  Google is making it easier to switch from iOS to Android.
+  🔗 https://www.livemint.com/technology/tech-news/google-makes-switching-from-iphone-to-android-easier-with-android-17-heres-how-11784791793719.html
+
+- Google Pixel 11 series all colous leaked ahead of launch: Check expected specifications and priceGoogle Pixel 11 series
+  Google will unveil the Pixel 11 lineup at its Made by Google event on August 12. Leaks show four models in various colors, featuring a triple rear camera setup
+  🔗 https://www.livemint.com/technology/gadgets/google-pixel-11-series-all-colous-leaked-ahead-of-launch-check-expected-specifications-and-price-11784775291213.html
+
+- US Dept of Energy announces first projects under Genesis Mission RFA  to accelerate AI-driven scientific breakthroughs
+  The US Department of Energy (DOE) has announced the first projects selected under the Genesis Mission Request for Applications
+  🔗 https://www.livemint.com/technology/us-dept-of-energy-announces-first-projects-under-genesis-mission-rfa-to-accelerate-ai-driven-scientific-breakthroughs-11784775381271.html
+
+- US accuses Chinas Moonshot of stealing from Anthropics Fable for latest AI model
+  US accuses China's Moonshot of stealing
+  🔗 https://www.livemint.com/technology/us-accuses-chinas-moonshot-of-stealing-from-anthropics-fable-for-latest-ai-model-11784750462319.html
+
+- The world is crazy. Why are stocks up? - Axios
+  The world is crazy. Why
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE4tMjM2Tld5NXA5MWlGOWhmOGw5aGFHQnEtc25sNG93Wi0xNGphaDVWRXZsMEV4c3hKTTVOSlpGbWxLNHRKZGliYjlFbi00T0VNd2FpVkNBdWpQTjhHQWZ6T2dRSUJEQ3dkbFVsOW80akFWWmM?oc=5
+
+- Stock Market Today: Futures Sink After Alphabet, Tesla Earnings; Oil Heads Toward $100 a Barrel as Trump Threatens Iran Over Houthi Attacks - Investopedia
+  Stock Market Today: Futures Sink After Alphabet, Tesla Earnings. Oil Heads Toward $
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGZYYWZRdU1TVjMzNjRZTXctU3QtN0l2VGU4bjJCVFMzVXBucmFtM3hhZ1pNRE90MGtpdFdpRXFVVUdiS3pHb0haQWIxNTA1eGlCVk1pLUtRc0NNVnExbFprQ1FfLVNaUnA5dEd5UkQ3djZWZnRqU2M1Y1RsYlR0c3gwU3JhSlkwWFZvWDFINW0?oc=5
+
+- Stock market today: Dow, S&P 500, Nasdaq futures slip as markets weigh AI capex, widening Mideast attacks - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq futures slip as markets
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSFJSYlNkdmkteEZHVnV5VFh1QXdtSXJPSTRld1M3V1UtUXFDeTJvQW96VnI5aXVhc2xrZ1J3cGI5NDVJX0pBSkxfVFB0dFdURnZGc1MtMUdLNjR4aldFTzRkVy1nWlJzY2F2YWhEQnUwRmM2bEpEUVI1MnJ5M2owcnhPMzNjaUdTQXNud3l5Sm9fTHhfZDVFTFlfWENIaGQwSUlpMVZDTkttUkFzUGExTTdKdEh2YlhSWlJ5cE44b25LT3ZveEJkTFNsRm9uUWRjYmY3WEdESnZiNy1xekxGa25za0JOblB1bGc?oc=5
+
+- Dow futures tumble 600 points as Brent crude tops $100, Alphabet and Tesla drop: Live updates - CNBC
+  Dow futures tumble 600 points as Brent crude tops $100, Alphabet
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1vblI0ZnhoVnRkR2FISkRsT3hDd0UzZVhPd1JmaGFldHpEY1BaTl96dmtCcXFvU0ZJdHJ0U3kxS0t6eTY3LUUzTXo5TExReU5IdWJsbVc5Z1pKekJuWVpxZTBkdjc2Tm52b3MxYVRFU0lFTEN3WW9B?oc=5
+
+- BlackRock Says Focus on Credit Income in a Volatile Market - Bloomberg.com
+  BlackRock says Focus on Credit Income in
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTFENVRyZ0M3RTU0OTZoem9uOE5mNDEyNFRLQXZNSjNTcDl3SXFUT2p2ZXN2NVlLTEhvSEpxQkt3OU1qdmFrUFdnck5TWmtGa2lGNXN6ejhkWHRyVnhGWWVjVnNGRWpWeTRXZlBKS3dhbFA5VlpUcUp4cG9QXzZRX0Nsc0Jjd3kxZU9Ja2VaNHhCcWJ0UVQtOEpMTVZ6RHI0RWRCZ1JXTU9Ua1lwUVE?oc=5
+
+- AI-led boom in IPOs raises concerns about a bust
+  This has been a banner year for stock listings, thanks largely to AI firms. The massive size of the operations raises questions about whether the markets can continue to absorb them.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-led-boom-in-ipos-raises-concerns-about-a-bust/articleshow/132582690.cms
+
+- Sebi proposes allowing portfolio managers to invest overseas, in to-be-listed securities
+  India's markets regulator is looking to simplify compliance requirements for portfolio managers. The initiative also seeks to enhance the application of derivatives strategies for clients.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-allowing-portfolio-managers-to-invest-overseas-in-to-be-listed-securities/articleshow/132582640.cms
+
+- Gulshan Group to invest Rs 1,000 cr on new housing project in Ghaziabad
+  Gulshan Empire will comprise five hundred upscale homes, set to be completed in four years. The land acquisition cost was around one hundred seventy-five crore rupees.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/gulshan-group-to-invest-rs-1000-cr-on-new-housing-project-in-ghaziabad/articleshow/132581500.cms
+
+- Mahindra Lifespace Developers Q1 profit rises 67% YoY to Rs 86 crore
+  Mahindra Lifespace Developers has achieved a remarkable 67 percent increase in net profit for the June quarter. Total income skyrocketing to Rs 977.54 crore from just Rs 40.61 crore last year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-lifespace-developers-q1-profit-rises-67-yoy-to-rs-86-crore/articleshow/132581412.cms
+
+- Kuwait raises $6 billion in three-tranche bond sale, finance ministry says
+  Kuwait has secured six billion dollars through its latest sovereign bond issuance. This effort attracted an overwhelming response from investors, who placed orders surpassing eighteen billion dollars.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/kuwait-raises-6-billion-in-three-tranche-bond-sale-finance-ministry-says/articleshow/132581123.cms
+
+- India’s Modi promises fast-track courts for exam fraud fuelling protests - Al Jazeera
+  India’s Modi promises fast-track
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGtBemltRGhBS1Rkc2xmbmE1bHRuY2FmcVY0OFYtSkNXMDZKelI4SFpwNlhrdjV1UWpCQnNyd2VGeUMwY3k1Yl9PVjNMbFJMS29YMm1yejNMTGYyMEhGNlpEaHJJQ0gwd2V3dktZeWdPT2lNTDc5WUo5REVrdmJtUnE2cFIybkZYVlFjaTVXc1QxdksxU281TmVucUx4ZXJoUGlGZHVaRmF5aXY0Qm4tRjR30gG3AUFVX3lxTE9TaGpSR2ZYSXE1N2R2X2FaTmJLY2hPd2FuZkpwd2hIaE5ZWlo1am1FWkFlbnNFRi04QnpvTzVHZ2NWSFV2Ym1wNmVCR3lqUzFQMDFQMEZ2SWN5Uk1vdTFOdC1haHZwVHdidEVUNU5yWWNpNWNhWTU1LS1MTkVERXIzNU9ETGdlLTJ3OTdSMk1jOHhRRmtxNlN4SGR5RHRuMFM0NW80RmV5VXFUSGU2QmFUaExpUjFySQ?oc=5
 
-- Inside VAHDAM’s ₹1,000 Cr Bet To Become India’s Next Wellness Giant
-  Most Indian consumer-facing startups follow a familiar playbook: build a brand at home, find product-market fit, scale across India and so on.
-  🔗 https://inc42.com/startups/inside-vahdams-%e2%82%b91000-cr-bet-to-become-indias-next-wellness-giant/
+- Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
+  Balen Shah Breaks His Self Imposed Diplom
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
 
-- Eternal Rolls In Q1 Profits, Zetwerk Vs Ayr Energy & More
-  Eternal’s Q1 Profitable Show It was business as usual for Eternal in Q1. Zetwerk Vs Ayr Energy &amp; More.
-  🔗 https://inc42.com/buzz/eternal-rolls-in-q1-profits-zetwerk-vs-ayr-energy-more/
+- India: Liquor store employee narrowly escapes leopard attack - BBC
+  Liquor store employee narrowly
+  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbWVjaTBiYVFLUlRXdXU1VzlOUjhfeFBYNUVWMDBkRXdCWVlJcHNYRGY3TmN5SmF5MmxHSzlyLVNfaHItamlSMmwwV3EtTHY2T1kyUjRWVQ?oc=5
 
-- Quick Commerce Discounting Wars Nearing End: Eternal CEO
-  Eternal CEO Albinder Dhindsa believes that the quick commerce industry&#8217;s discounting war may finally be approaching its end.
-  🔗 https://inc42.com/buzz/quick-commerce-discounting-wars-nearing-end-eternal-ceo/
+- India relaxes e-commerce investment rules for exports in win for Amazon - Reuters
+  India relaxes e-commerce investment rules for
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk8xcnpNeU9mY0RLYi1CM3lKdk5xS1ZjcDhhWkJYclJVZmJyUnl4RlBZd0x3ZHlseU5va096WFBLNlhndWtLMFlKZXdfTktqbk1nR09jbWlRSkR3WWRVdUlBaUI0UDJHSURXUnBVdkpRemtNTW1XeUJrbV9HdTdKMlJGTDlIRDhZRVJFMXVhLURnMW5YN1FPNUgzT3RiUGJzOEtWaWl1bU1ENGI0?oc=5
 
-- InCred Finance’s FY26 Profit Increases 17% YoY To ₹438 Cr, Revenue Up 36%
-  InCred holdings’ lending tech arm InCred Financial Services reported a 17.1% increase in its consolidated revenue.
-  🔗 https://inc42.com/buzz/incred-finances-fy26-profit-increases-17-yoy-to-%e2%82%b9438-cr-revenue-up-36/
+- INDIA Bloc MPs, Led By Rahul Gandhi, Head To Gandhi Smriti To Support Students - NDTV
+  India Bloc MPs, Led By Rahul Gandhi, Head To
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21oSTRFZE5mOE1DRjhCTGVlUUI1WFhNUWEwSHIwaU13S1Q0S3VrbDhGc1BleTRtdWlzMEFsUDctLW5fb2FhTjNzU0NxdmFFVWIwRzU3TVpjYUNWWlhjQm5Lak4wSzN0SlkxaXp6dXZFdC1tdU85SGFaUEpCWTRqcEpucGVTSVB6ZE8wZ0VIRjg3dm9xYTJ2NlIteDVVM1BGSVRTVjQ5c2txMmF4X2RhUzJjWWYxNWMx0gHAAUFVX3lxTE1GUTAwUkdHMG5BTFFFX2tzRW5TaFowanlvb3VSZU9fWDRtNC1feXZrcUtOV2lvTTRrUVNmQjhleTFCQ1R3TTVJQl90TGRFcTVkbWR5dVh2MGpKZjhzWlVXc08wekVJYnJoOGJCTklNS29FbE45LXF6clVvcUFNVVM5eWpVNGRmQ0VmZFBFYTduSEZwNTZXX3dBN3JJb2stTzFnbHRUM3BueEZzSUV6TGRuNENOU1F4Unk1cTc0QWVmdA?oc=5
 
-- Jantar Mantar CJP protests in Delhi: The meme language of India's Gen Z - BBC
-  Jantar Mantar CJP protests in Delhi:
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMlBYY0twamo0dXczWXJkSVk0YlhkUTFKWDZrRFVYMHVONzJqRHNrN1loWkIwX3d1TXVIOGVHa0xKMk4zV0I3dUNOVUx4YlZPMkFBbzdCdHpkUQ?oc=5
+- Go Digit Q1: Profit Declines 37% YoY To  ₹86.4 Cr
+  Insuretech platform Go Digit’s profit slumped 37.5% to ₹86.4 Cr in the quarter ended June
+  🔗 https://inc42.com/buzz/go-digit-q1-profit-declines-37-yoy-to-%e2%82%b986-4-cr/
 
-- Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
-  Opposition parties shut down Indian parliament in solidarity with
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
+- Swiggy Caps Foreign Ownership At 49.5% To Become Indian-Owned, Controlled Company
+  Swiggy’s board has approved a proposal to become an Indian owned and controlled company (IOCC)
+  🔗 https://inc42.com/buzz/swiggy-caps-foreign-ownership-at-49-5-to-become-indian-owned-controlled-company/
 
-- Protests Shut Metro Station, Chief Justice Says "Will Intervene Soon If..." - NDTV
-  " target="_blank">Protests
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVcwM0hYaU5iQk9HX2RaQjBOM1hPTzRqWV8zeVRFMmZrekkyU01Pck9TZm5NenpQRndoQ0QzOV8xX1lLekI3WEtHR0xnLWlZM1YzcHhDVXFhQS1wY1VPLXk0aGswdzc3Y052ME9vdm5mSWNMQjhqZUNsblZvcXFfaTlxZHlLcnEzaHFVRUdqdHlPTUVHREFmVVZ6dkszSWNHZDhTcTZxR1U4aUxweFF0YS1vOTg4cHFaX3R1QXN1VnFpRlcwRHd5SmdNZWVhaEVWMTRjVlZST3FFbXFrTmwwREFPWTZpcVHSAe8BQVVfeXFMTkdRdC1qVEhNclYyMm5XdHA0OFBOQThwOVNMWXhRQzltQWtZWVB5WWV3ck1uYUhOS1NVdnFVS2ZxMUJEWTc2emd4Tm5OUlZBcExPbk83VGpKQmZUX1J5a2Nlcm44ZzRaMFpwUVpCWHF4NnBzYTZnZFFuMjl2TFZJOGtDNHVUQl9MM3FGaXRwdTZ5a2xFVTktN2lodEN5RW5JcUw0QjBvalB2RllyMzl1Ujc4VGlwMElPTXA0VVFBVHgyRnc0cEhjemtUMWZjeGpCcHVnZFFqN0Rqa2pUY1A1ZXl5YmxWR095TXZJcXhBRmc?oc=5
+- Vikram-1 Test Launch: Skyroot Enters Its Commercial Launch Era, Can It Take On SpaceX?
+  Last week, Skyroot Aerospace&#8217;s Vikram-1 rocket lifted off from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh.
+  🔗 https://inc42.com/features/vikram-1-test-launch-skyroot-enters-its-commercial-launch-era-can-it-take-on-spacex/
 
-- India’s parking crisis is turning into a major civic headache - The Times of India
-  India’s parking crisis is turning into a major
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1RzMS1VeENzWW1NdTEwLWloLU5Mbm5tcGdMWjdwcV9YRnBDdzZrLURKS0VMWDROa2lLOVRiWXlIVHJSaHpVd3RMbFdnV0hoWGVTekczczdyYWFRa1lWcThEa2NYTWEzekV5RDhQWFgxWnB1WmJwWG9wc2FBdGtKUGIyZVpWLVFVZnUxdGZiUUV0OUxQdFN5NGtTVEpWZW41TzlqMkNPTXZvcWRGRncxM21fZlphU0x4dUdOcHE2alJoU05OcXFHd0J4MGxMdw?oc=5
+- Meesho Trims Q1 Loss 54% YoY To ₹133 Cr, Revenue Up 48%
+  Meesho managed to trim its net loss for the June quarter (Q1 FY27) by 54% to ₹132.8 Cr.
+  🔗 https://inc42.com/buzz/meesho-trims-q1-loss-54-yoy-to-%e2%82%b9133-cr-revenue-up-48/
 
-- Trump’s 200% generic tariff threat would imperil Americans: Indian pharma - The Hindu
-  Trump’s 200% generic tariff threat
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOQlBmWGZBTUhTRmhhQm81X3AzOEVuNFRiQmdRYTFQWEhaWC1zbDVxRC1sem5uZWtyNDhueXlLcktyWEI4MWFDMGxRY19lcWFqNEFadXl4ZGFNdmxzNWNYY0R3TEZTQVBxOVdRRTFUZTJSNi1tVFBoR0xhT1RQdnhrQzFYM0g1bDhoR2hRS1g2bkk0ZGVzcDBhVFZvREk0TUtUTkVPQVNxNEhKZ3Fia3J4bjQ5SEl5a1RKLUZfWkhNbjZkRWxNRGJCVkZrWm7SAdMBQVVfeXFMUFVnUWJfR0UweE1EZWVIOW1xc3doVGpsWUxfQzVtUDVHcGd0NFB2SmdTY0hXdEVOd1lGRmZVNDgtVjR6RzhScnh2SnZsb2ZYRS1RM19Zcm5xNkpYQjhzSWFGRkswZ3JuTlhNTTRrQWdEMXdJak42WGlsbzJTNEhleXZBRTl3em1iUHI5dDFVVEZQSUl3M3ZEaC00Z0IybUJ4TFNNM2stMGNmS2JGWUhDUDRsaGM0d0xUT1ZSQU5TRk4yYjZ6Y0RkVlV1a1UxWjlhQnhDVQ?oc=5
+- PharmEasy-Owned Thyrocare’s Q1 Profit Soars 34% To ₹51 Cr
+  PharmEasy-owned Thyrocare’s consolidated net profit for the quarter ended June 30, 2026 (Q1 FY27)
+  🔗 https://inc42.com/buzz/pharmeasy-owned-thyrocares-q1-profit-soars-34-to-%e2%82%b951-cr/
 
-- Jantar Mantar CJP protests in Delhi: The meme language of India's Gen Z - BBC
-  Jantar Mantar CJP protests in Delhi:
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMlBYY0twamo0dXczWXJkSVk0YlhkUTFKWDZrRFVYMHVONzJqRHNrN1loWkIwX3d1TXVIOGVHa0xKMk4zV0I3dUNOVUx4YlZPMkFBbzdCdHpkUQ?oc=5
+- India’s Modi promises fast-track courts for exam fraud fuelling protests - Al Jazeera
+  India’s Modi promises fast-track
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGtBemltRGhBS1Rkc2xmbmE1bHRuY2FmcVY0OFYtSkNXMDZKelI4SFpwNlhrdjV1UWpCQnNyd2VGeUMwY3k1Yl9PVjNMbFJMS29YMm1yejNMTGYyMEhGNlpEaHJJQ0gwd2V3dktZeWdPT2lNTDc5WUo5REVrdmJtUnE2cFIybkZYVlFjaTVXc1QxdksxU281TmVucUx4ZXJoUGlGZHVaRmF5aXY0Qm4tRjR30gG3AUFVX3lxTE9TaGpSR2ZYSXE1N2R2X2FaTmJLY2hPd2FuZkpwd2hIaE5ZWlo1am1FWkFlbnNFRi04QnpvTzVHZ2NWSFV2Ym1wNmVCR3lqUzFQMDFQMEZ2SWN5Uk1vdTFOdC1haHZwVHdidEVUNU5yWWNpNWNhWTU1LS1MTkVERXIzNU9ETGdlLTJ3OTdSMk1jOHhRRmtxNlN4SGR5RHRuMFM0NW80RmV5VXFUSGU2QmFUaExpUjFySQ?oc=5
 
-- Opposition parties shut down Indian parliament in solidarity with ‘cockroach’ protests - The Guardian
-  Opposition parties shut down Indian parliament in solidarity with
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnVBWjYwQ3F3bDAyQUFVSlhCSEsxVHBJaFVGbTFCSVNHdVc0ajd3czNUT1p6TmRrSXdwaWdvaHI5VkFXb29PaXdjdUotdTR0czNaTFU3cXgtdEkyUjFQWkVBZDM3d3FJNFdpaUhCM1czLS1nQzlRdnJHV3BoYmxCMlNKa0Jwc2RQQTJvZ25WX2Y5NzJLdmh6TXFwSk1tWjBtOWViYmZTTVl3WkdI?oc=5
+- Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
+  Balen Shah Breaks His Self Imposed Diplom
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
 
-- Protests Shut Metro Station, Chief Justice Says "Will Intervene Soon If..." - NDTV
-  " target="_blank">Protests
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVcwM0hYaU5iQk9HX2RaQjBOM1hPTzRqWV8zeVRFMmZrekkyU01Pck9TZm5NenpQRndoQ0QzOV8xX1lLekI3WEtHR0xnLWlZM1YzcHhDVXFhQS1wY1VPLXk0aGswdzc3Y052ME9vdm5mSWNMQjhqZUNsblZvcXFfaTlxZHlLcnEzaHFVRUdqdHlPTUVHREFmVVZ6dkszSWNHZDhTcTZxR1U4aUxweFF0YS1vOTg4cHFaX3R1QXN1VnFpRlcwRHd5SmdNZWVhaEVWMTRjVlZST3FFbXFrTmwwREFPWTZpcVHSAe8BQVVfeXFMTkdRdC1qVEhNclYyMm5XdHA0OFBOQThwOVNMWXhRQzltQWtZWVB5WWV3ck1uYUhOS1NVdnFVS2ZxMUJEWTc2emd4Tm5OUlZBcExPbk83VGpKQmZUX1J5a2Nlcm44ZzRaMFpwUVpCWHF4NnBzYTZnZFFuMjl2TFZJOGtDNHVUQl9MM3FGaXRwdTZ5a2xFVTktN2lodEN5RW5JcUw0QjBvalB2RllyMzl1Ujc4VGlwMElPTXA0VVFBVHgyRnc0cEhjemtUMWZjeGpCcHVnZFFqN0Rqa2pUY1A1ZXl5YmxWR095TXZJcXhBRmc?oc=5
+- India: Liquor store employee narrowly escapes leopard attack - BBC
+  Liquor store employee narrowly
+  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbWVjaTBiYVFLUlRXdXU1VzlOUjhfeFBYNUVWMDBkRXdCWVlJcHNYRGY3TmN5SmF5MmxHSzlyLVNfaHItamlSMmwwV3EtTHY2T1kyUjRWVQ?oc=5
 
-- India’s parking crisis is turning into a major civic headache - The Times of India
-  India’s parking crisis is turning into a major
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1RzMS1VeENzWW1NdTEwLWloLU5Mbm5tcGdMWjdwcV9YRnBDdzZrLURKS0VMWDROa2lLOVRiWXlIVHJSaHpVd3RMbFdnV0hoWGVTekczczdyYWFRa1lWcThEa2NYTWEzekV5RDhQWFgxWnB1WmJwWG9wc2FBdGtKUGIyZVpWLVFVZnUxdGZiUUV0OUxQdFN5NGtTVEpWZW41TzlqMkNPTXZvcWRGRncxM21fZlphU0x4dUdOcHE2alJoU05OcXFHd0J4MGxMdw?oc=5
+- India relaxes e-commerce investment rules for exports in win for Amazon - Reuters
+  India relaxes e-commerce investment rules for
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk8xcnpNeU9mY0RLYi1CM3lKdk5xS1ZjcDhhWkJYclJVZmJyUnl4RlBZd0x3ZHlseU5va096WFBLNlhndWtLMFlKZXdfTktqbk1nR09jbWlRSkR3WWRVdUlBaUI0UDJHSURXUnBVdkpRemtNTW1XeUJrbV9HdTdKMlJGTDlIRDhZRVJFMXVhLURnMW5YN1FPNUgzT3RiUGJzOEtWaWl1bU1ENGI0?oc=5
 
-- Trump’s 200% generic tariff threat would imperil Americans: Indian pharma - The Hindu
-  Trump’s 200% generic tariff threat
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOQlBmWGZBTUhTRmhhQm81X3AzOEVuNFRiQmdRYTFQWEhaWC1zbDVxRC1sem5uZWtyNDhueXlLcktyWEI4MWFDMGxRY19lcWFqNEFadXl4ZGFNdmxzNWNYY0R3TEZTQVBxOVdRRTFUZTJSNi1tVFBoR0xhT1RQdnhrQzFYM0g1bDhoR2hRS1g2bkk0ZGVzcDBhVFZvREk0TUtUTkVPQVNxNEhKZ3Fia3J4bjQ5SEl5a1RKLUZfWkhNbjZkRWxNRGJCVkZrWm7SAdMBQVVfeXFMUFVnUWJfR0UweE1EZWVIOW1xc3doVGpsWUxfQzVtUDVHcGd0NFB2SmdTY0hXdEVOd1lGRmZVNDgtVjR6RzhScnh2SnZsb2ZYRS1RM19Zcm5xNkpYQjhzSWFGRkswZ3JuTlhNTTRrQWdEMXdJak42WGlsbzJTNEhleXZBRTl3em1iUHI5dDFVVEZQSUl3M3ZEaC00Z0IybUJ4TFNNM2stMGNmS2JGWUhDUDRsaGM0d0xUT1ZSQU5TRk4yYjZ6Y0RkVlV1a1UxWjlhQnhDVQ?oc=5
+- INDIA Bloc MPs, Led By Rahul Gandhi, Head To Gandhi Smriti To Support Students - NDTV
+  India Bloc MPs, Led By Rahul Gandhi, Head To
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21oSTRFZE5mOE1DRjhCTGVlUUI1WFhNUWEwSHIwaU13S1Q0S3VrbDhGc1BleTRtdWlzMEFsUDctLW5fb2FhTjNzU0NxdmFFVWIwRzU3TVpjYUNWWlhjQm5Lak4wSzN0SlkxaXp6dXZFdC1tdU85SGFaUEpCWTRqcEpucGVTSVB6ZE8wZ0VIRjg3dm9xYTJ2NlIteDVVM1BGSVRTVjQ5c2txMmF4X2RhUzJjWWYxNWMx0gHAAUFVX3lxTE1GUTAwUkdHMG5BTFFFX2tzRW5TaFowanlvb3VSZU9fWDRtNC1feXZrcUtOV2lvTTRrUVNmQjhleTFCQ1R3TTVJQl90TGRFcTVkbWR5dVh2MGpKZjhzWlVXc08wekVJYnJoOGJCTklNS29FbE45LXF6clVvcUFNVVM5eWpVNGRmQ0VmZFBFYTduSEZwNTZXX3dBN3JJb2stTzFnbHRUM3BueEZzSUV6TGRuNENOU1F4Unk1cTc0QWVmdA?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India’s Modi promises fast-track courts for exam fraud fuelling protests - Al Jazeera
+  India’s Modi promises fast-track
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGtBemltRGhBS1Rkc2xmbmE1bHRuY2FmcVY0OFYtSkNXMDZKelI4SFpwNlhrdjV1UWpCQnNyd2VGeUMwY3k1Yl9PVjNMbFJMS29YMm1yejNMTGYyMEhGNlpEaHJJQ0gwd2V3dktZeWdPT2lNTDc5WUo5REVrdmJtUnE2cFIybkZYVlFjaTVXc1QxdksxU281TmVucUx4ZXJoUGlGZHVaRmF5aXY0Qm4tRjR30gG3AUFVX3lxTE9TaGpSR2ZYSXE1N2R2X2FaTmJLY2hPd2FuZkpwd2hIaE5ZWlo1am1FWkFlbnNFRi04QnpvTzVHZ2NWSFV2Ym1wNmVCR3lqUzFQMDFQMEZ2SWN5Uk1vdTFOdC1haHZwVHdidEVUNU5yWWNpNWNhWTU1LS1MTkVERXIzNU9ETGdlLTJ3OTdSMk1jOHhRRmtxNlN4SGR5RHRuMFM0NW80RmV5VXFUSGU2QmFUaExpUjFySQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
+  Balen Shah Breaks His Self Imposed Diplom
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- India: Liquor store employee narrowly escapes leopard attack - BBC
+  Liquor store employee narrowly
+  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbWVjaTBiYVFLUlRXdXU1VzlOUjhfeFBYNUVWMDBkRXdCWVlJcHNYRGY3TmN5SmF5MmxHSzlyLVNfaHItamlSMmwwV3EtTHY2T1kyUjRWVQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India relaxes e-commerce investment rules for exports in win for Amazon - Reuters
+  India relaxes e-commerce investment rules for
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk8xcnpNeU9mY0RLYi1CM3lKdk5xS1ZjcDhhWkJYclJVZmJyUnl4RlBZd0x3ZHlseU5va096WFBLNlhndWtLMFlKZXdfTktqbk1nR09jbWlRSkR3WWRVdUlBaUI0UDJHSURXUnBVdkpRemtNTW1XeUJrbV9HdTdKMlJGTDlIRDhZRVJFMXVhLURnMW5YN1FPNUgzT3RiUGJzOEtWaWl1bU1ENGI0?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- INDIA Bloc MPs, Led By Rahul Gandhi, Head To Gandhi Smriti To Support Students - NDTV
+  India Bloc MPs, Led By Rahul Gandhi, Head To
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21oSTRFZE5mOE1DRjhCTGVlUUI1WFhNUWEwSHIwaU13S1Q0S3VrbDhGc1BleTRtdWlzMEFsUDctLW5fb2FhTjNzU0NxdmFFVWIwRzU3TVpjYUNWWlhjQm5Lak4wSzN0SlkxaXp6dXZFdC1tdU85SGFaUEpCWTRqcEpucGVTSVB6ZE8wZ0VIRjg3dm9xYTJ2NlIteDVVM1BGSVRTVjQ5c2txMmF4X2RhUzJjWWYxNWMx0gHAAUFVX3lxTE1GUTAwUkdHMG5BTFFFX2tzRW5TaFowanlvb3VSZU9fWDRtNC1feXZrcUtOV2lvTTRrUVNmQjhleTFCQ1R3TTVJQl90TGRFcTVkbWR5dVh2MGpKZjhzWlVXc08wekVJYnJoOGJCTklNS29FbE45LXF6clVvcUFNVVM5eWpVNGRmQ0VmZFBFYTduSEZwNTZXX3dBN3JJb2stTzFnbHRUM3BueEZzSUV6TGRuNENOU1F4Unk1cTc0QWVmdA?oc=5
 
-- OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company - Tech Xplore
-  OpenAI says its AI technology acted on its own in an 'unpre
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxONlY3ejNCck96d1U5Z3hFbG9yM3Z6TEJKODFxZ1o0ZGVyQ0huVHNsR3BlemduUWw1UVk1eG1FWGIwcnRfZkNGbktZT2tYa1JyOGxZa0tTaWZsSUVUSkoxN3lrNUdRcDV1cWI1bUxyYThlSmFoZDhZU2J3SjE2Q0FIYVp2aXduU2c?oc=5
+- India’s Modi promises fast-track courts for exam fraud fuelling protests - Al Jazeera
+  India’s Modi promises fast-track
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGtBemltRGhBS1Rkc2xmbmE1bHRuY2FmcVY0OFYtSkNXMDZKelI4SFpwNlhrdjV1UWpCQnNyd2VGeUMwY3k1Yl9PVjNMbFJMS29YMm1yejNMTGYyMEhGNlpEaHJJQ0gwd2V3dktZeWdPT2lNTDc5WUo5REVrdmJtUnE2cFIybkZYVlFjaTVXc1QxdksxU281TmVucUx4ZXJoUGlGZHVaRmF5aXY0Qm4tRjR30gG3AUFVX3lxTE9TaGpSR2ZYSXE1N2R2X2FaTmJLY2hPd2FuZkpwd2hIaE5ZWlo1am1FWkFlbnNFRi04QnpvTzVHZ2NWSFV2Ym1wNmVCR3lqUzFQMDFQMEZ2SWN5Uk1vdTFOdC1haHZwVHdidEVUNU5yWWNpNWNhWTU1LS1MTkVERXIzNU9ETGdlLTJ3OTdSMk1jOHhRRmtxNlN4SGR5RHRuMFM0NW80RmV5VXFUSGU2QmFUaExpUjFySQ?oc=5
 
-- BTS ropes in European partners to create global growth opportunities for start-ups - The Hindu
-  BTS ropes in European partners to create global growth opportunities
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZmp6RkIxdUJQOXE5NmduVDN6ZDZrWVJjdkVxTVpST1VtQjlkSmN2UGpGdVd6a0szeEJMS3l5bnloZmUzQ281ckM2bjVjajdXVmV3ek8wZHB5UGdWWkIyOFNST2tHWTllVlN0Y3VOTnp6ZnJ5Yzd6ZG1YamVrcWpJTVRaVlo2QnVWVVh4Wlc3cWZIbTlXdFZKdTUzZGNyek9uZm1jQW1vcThnVTVQaE5fSDk0cGo5bkVCNDFzRWtUUERrSnppR1lXWTY0TVZGVlVSMVRhN1VwZ1h5djM3dFFaeDRzbVA0Q0o0RlZQUXJ1M1dxYUp1cFBQUGhhNFfSAYMCQVVfeXFMTUZsV21sVHRjWWJSc2RjRDYyU0VwODQyQVdYaHhuQ1VhNjBjTmVabDlPc19CWXU0NXlfdEhfRFZvY1FoeFltbjFiQ3o5c09YSEZwX0N3R1dyOVNPZzhmWVBqd21GcXFwZ2FrQ3FmM0Y5NkZ2M3FiTktnMVd1eWtRNzNNN2ZDVHZYRkM3ZHNFZUFWVHItbGpIak1qX2Ixblh2VG42VWhFYmZEb25fNkowRnY0NFAxekhESmZHeHBhZVJIenJVclFHWG51aGdOeUhZZ2tlb3EwWmdJT0ZDZ01aUTNlX25sZm1JUDA4US1hOHMtYkZxMkhaRUdFem9fQkRMcVZaOA?oc=5
+- Balen Shah Breaks His Self Imposed Diplomatic Rule For India, China: Sources - NDTV
+  Balen Shah Breaks His Self Imposed Diplom
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJYcTdnOTQ0eU1sNnljWVExNVU2ZzNIOGpRWHhHZ0RLVm1jS3pxTVpMdExIZHZsaE1PWjBVa3FjVDJQd3VhZ2VvX0hWSWVvbnpoeFhNTklsMzJiRzRGUHZvZGhzcm5Jbm82MXdGX1ZzSWNZdmNtTjZmTWFvLS1yS25HdnIzVFdhQWFLUXV6QnBicG9mWWc5MW5JeW1hR0lKV09RM1Q5MUFQUmIzN1hNLWlkek9VUdIBvgFBVV95cUxNSV8yRmtnTkZmakVSTDJYN1NEekh2a1JsZTZvejFfMVltQjNmZjlBdHNjOW9WMS1OMm1GeERBemlPMHNKS29iSElqOWh5S2tkTkpYMjQzdW9ER3FYb0xYRjd0ZXpZRmNDS05mQ3MtMmpFb1d4VDRreDVyVzZ1LVZubG5qNXhWc1lVTnYxUVA0TUJJWmc1ajJBLUZxTVpwT3VCTVZSVDhvODYtdWViNGt0Z25yb2RvS1lPUklJX1Fn?oc=5
 
-- Offence Under Section 66 Information Technology Act Is Bailable : Supreme Court Overrules HC View - Live Law
-  The Supreme Court has ruled that it is illegal to use the internet to
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOczM2UVo2bEp6WW5McncyN1Z4M3hEX2luSVZ2dGE5V2hwc2NDcTdYWmNsYzJQaXVuOFhsRWJLWVhCV3VHbUZ5YW1kOUNNNVdWNy1kc1NuaHF5aEJPX0pPNUJrN040V3YwaUtWQzZOTGd1bkY2MVROeklTdkVFTU1KSnNBclhHM3BrX2lvd3d0RkcwYnJTQXN6dV81N25qWmI1LVdBZndZTWdrMXZheWlkeV9Dd0J3RWlJV2p4NEpuS1lIc0RBUVVCN0xDVk9qeGt3RDNmZFln0gHbAUFVX3lxTE5vdWFSSFRlQmJMeHNiMmNkbGh1T1hlUURzQzJXTi1QTXVZSDNyU3FEN1ZUOFlvZ2dBeTRmdnluZDVadl9NRUZHWFNyQ090b0R2Z0diWGlNQVlwOUg3VlVPNUZ1SUNwZE51WGRrc1hsVXFWVHJISjNnMXd2S2VjRWNaX2NyQXdhQlVXeHB0WnRMd29GZVBBUjFfTWFqM2hodWZ1LXpid0J0WmdrREVlOUtBcGZzT1hwZjAxSWN6c2RQNjFLc25FYnJUSnpaTTA1bzltWmJRYTZQdk1ldw?oc=5
+- India: Liquor store employee narrowly escapes leopard attack - BBC
+  Liquor store employee narrowly
+  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LbWVjaTBiYVFLUlRXdXU1VzlOUjhfeFBYNUVWMDBkRXdCWVlJcHNYRGY3TmN5SmF5MmxHSzlyLVNfaHItamlSMmwwV3EtTHY2T1kyUjRWVQ?oc=5
 
-- India favours local high-speed technology for Mumbai - Ahmedabad project - International Railway Journal
-  India favours local high-speed technology for Mumbai
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlJobGxuVWpQWk50Yk9QU2hSZU5Dd1hLeUN2QlBoTmR2SUF2NHExbVRHamwxRGVqZ2NISDVpTTQtRTFQalNoUzB5TW5FNS1Penhhdkg0eFFBdmdOVFhiejBybWN5c3o4ekNOQ2F5RlVsRFlGckU2NHVWZ040SmhFNGtDbm5FX2M4YmtLaFBKeC1yeG1YbnNaVHlUSkczM1FfTVNYT0h5TDNjM3dEdGJlM1hqd0hUUzg2dmY4Vw?oc=5
+- India relaxes e-commerce investment rules for exports in win for Amazon - Reuters
+  India relaxes e-commerce investment rules for
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUk8xcnpNeU9mY0RLYi1CM3lKdk5xS1ZjcDhhWkJYclJVZmJyUnl4RlBZd0x3ZHlseU5va096WFBLNlhndWtLMFlKZXdfTktqbk1nR09jbWlRSkR3WWRVdUlBaUI0UDJHSURXUnBVdkpRemtNTW1XeUJrbV9HdTdKMlJGTDlIRDhZRVJFMXVhLURnMW5YN1FPNUgzT3RiUGJzOEtWaWl1bU1ENGI0?oc=5
 
-- OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC
-  OpenAI says its AI went rogue and
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5
+- INDIA Bloc MPs, Led By Rahul Gandhi, Head To Gandhi Smriti To Support Students - NDTV
+  India Bloc MPs, Led By Rahul Gandhi, Head To
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21oSTRFZE5mOE1DRjhCTGVlUUI1WFhNUWEwSHIwaU13S1Q0S3VrbDhGc1BleTRtdWlzMEFsUDctLW5fb2FhTjNzU0NxdmFFVWIwRzU3TVpjYUNWWlhjQm5Lak4wSzN0SlkxaXp6dXZFdC1tdU85SGFaUEpCWTRqcEpucGVTSVB6ZE8wZ0VIRjg3dm9xYTJ2NlIteDVVM1BGSVRTVjQ5c2txMmF4X2RhUzJjWWYxNWMx0gHAAUFVX3lxTE1GUTAwUkdHMG5BTFFFX2tzRW5TaFowanlvb3VSZU9fWDRtNC1feXZrcUtOV2lvTTRrUVNmQjhleTFCQ1R3TTVJQl90TGRFcTVkbWR5dVh2MGpKZjhzWlVXc08wekVJYnJoOGJCTklNS29FbE45LXF6clVvcUFNVVM5eWpVNGRmQ0VmZFBFYTduSEZwNTZXX3dBN3JJb2stTzFnbHRUM3BueEZzSUV6TGRuNENOU1F4Unk1cTc0QWVmdA?oc=5
 
 
-_Last updated: 2026-07-23 08:25:32 UTC_
+_Last updated: 2026-07-23 13:46:50 UTC_
