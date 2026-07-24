@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- The Daily Catch-Up: A fast ends, the movement continues
+- In new late-night video, Modi thanks students for ‘constructive’ responses
   
-  🔗 https://indianexpress.com/article/india/daily-catch-up-sonam-wangchuk-fast-neet-sc-reforms-chandipura-virus-kanishka-narayan-10802060/
+  🔗 https://indianexpress.com/article/india/narendra-modi-new-video-thanks-students-protest-neet-cjp-10802371/
 
-- Handing Dipke his badge, constable ‘resigns’ from Jantar Mantar stage, Uttarakhand police say already under suspension
+- 28 Indian crew members safe after LPG tanker attacked in Iranian waters, Embassy confirms
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-constable-resigns-jantar-mantar-police-suspension-10802049/
+  🔗 https://indianexpress.com/article/india/indian-crew-safe-iran-tanker-attack-lpg-tanker-disha-embassy-10802358/
 
-- Indian Railways uses nearly 3 billion units of electricity every month for smooth train operations
+- Cargo ship hit in Russian strikes in Black Sea was carrying grain: India
   
-  🔗 https://indianexpress.com/article/india/indian-railways-electricity-consumption-2957-million-units-99-6-percent-electrified-network-10801686/
+  🔗 https://indianexpress.com/article/india/indian-seafarers-killed-odesa-russia-missile-attack-mv-golden-leo-10802340/
 
-- ED searches 9 locations in Punjab, J-K in narco-terror funding probe
+- Amit Shah dials family of cop killed in Anantnag terror attack, L-G says ‘courage etched in memory’
   
-  🔗 https://indianexpress.com/article/india/ed-searches-9-locations-in-punjab-j-k-in-narco-terror-funding-probe-10801835/
+  🔗 https://indianexpress.com/article/india/amit-shah-anantnag-terror-attack-ashiq-hussain-qureshi-family-10802268/
 
-- Cabinet approves two new railway lines connecting Karnataka and Andhra Pradesh
+- MEA pushes back on Wang Yi’s ‘India respects China sovereignty’ remark attributed to Jaishankar
   
-  🔗 https://indianexpress.com/article/india/cabinet-approves-two-new-railway-lines-connecting-karnataka-and-andhra-pradesh-10801741/
+  🔗 https://indianexpress.com/article/india/delhi-counters-china-jaishankar-wang-yi-sovereignty-claims-manila-meeting-10802229/
 
 - Patreon announces 20% layoffs, CEO says AI isn’t the reason
   
@@ -40,45 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/amd-unveils-helios-ai-rack-scale-system-to-challenge-nvidias-dominance-10801446/
 
+- Ex-VW Engineers Charged With Insider Trading on Rivian Venture
+  Two former Volkswagen engineers were arrested for insider trading. They placed bets ahead of the German carmaker’s announcement of a $5
+  🔗 https://www.livemint.com/companies/exvw-engineers-charged-with-insider-trading-on-rivian-venture-11784918722725.html
+
+- Manipal Hospitals'  ₹9,275 crore IPO to strengthen balance sheet for growth
+  Manipal Health Enterprises will use most of its IPO proceeds to cut debt. The Temasek-backed company opens its IPO on 29 July with a price band of  ₹560-590 per share.
+  🔗 https://www.livemint.com/companies/manipal-hospitals-9-275-crore-ipo-to-strengthen-balance-sheet-for-growth-11784899782428.html
+
+- Jindal Steel brings back former MD Sharma after CEO churn, revamps top leadership
+  Jindal Steel announced appointments to the offices of chief financial officer, chief operating officer, and head of human resources.
+  🔗 https://www.livemint.com/companies/news/jindal-steel-brings-back-former-md-sharma-after-ceo-churn-revamps-top-leadership-11784901207286.html
+
+- Strong metal prices help Hindustan Zinc kick off FY27 on a high note
+  Hindustan Zinc also reported its lowest quarterly zinc cost of production, excluding
+  🔗 https://www.livemint.com/companies/company-results/strong-metal-prices-help-hindustan-zinc-kick-off-fy27-on-a-high-note-11784899232233.html
+
 - Amber Enterprises-owned IL JIN Electronics picks bankers for  ₹3,500 crore IPO
   IL JIN Electronics is expected to file its draft papers soon and is targeting a
   🔗 https://www.livemint.com/companies/news/il-jin-electronics-ipo-amber-enterprises-electronics-manufacturing-11784890765781.html
 
-- Tata Consumer net profit up 29% amid higher volumes
-  Tata Consumer reported consolidated revenue of  ₹5,349 crore
-  🔗 https://www.livemint.com/companies/company-results/tata-consumer-q1-earnings-net-profit-india-volumes-fmcg-india-11784890415714.html
+- Yields ease, but Iran war keeps rate-hike bets alive
+  U.S. Treas
+  🔗 https://www.livemint.com/market/yields-ease-but-iran-war-keeps-rate-hike-bets-alive-11784919575477.html
 
-- Swiggy says Instamart can double volumes without major network expansion
-  The company is betting on higher asset utilisation, bigger baskets and a wider product mix after years of rapid expansion.
-  🔗 https://www.livemint.com/companies/swiggy-says-instamart-can-double-volumes-without-major-network-expansion-11784879316949.html
+- Yen records biggest weekly drop in over two months, dollar climbs for the week
+  Yen records biggest weekly drop in over two months, dollar
+  🔗 https://www.livemint.com/market/yen-records-biggest-weekly-drop-in-over-two-months-dollar-climbs-for-the-week-11784919025317.html
 
-- The premium grocery business has burned retailers. This ex-Metro chief knows why.
-  Arvind Mediratta, who previously served as CEO of the India arm of Metro A.G, launched Fresh Terra, betting on premium grocery retail
-  🔗 https://www.livemint.com/companies/news/premium-grocery-retail-india-arvind-mediratta-supermarket-chain-fresh-terra-11784875629185.html
+- Stocks edge back up as oil prices pause climb but yields hover near highs
+  Stocks edge back up as oil prices climb
+  🔗 https://www.livemint.com/market/stocks-edge-back-up-as-oil-prices-pause-climb-but-yields-hover-near-highs-11784917992500.html
 
-- Delhi HC dismisses allegations of copyright infringement against ChatGPT
-  The dispute began in November 2024 when ANI sued OpenAI, alleging that the company used its
-  🔗 https://www.livemint.com/companies/delhi-hc-openai-chatgpt-copyright-ruling-ani-music-industry-india-11784878079195.html
+- American Express shares tumble despite robust earnings, higher revenue outlook as rising costs weigh on sentiment
+  Total card spending, or billed business, climbed 9% year over year to $455.8 billion. Quarterly revenue also rose 10
+  🔗 https://www.livemint.com/market/stock-market-news/american-express-shares-tumble-despite-robust-earnings-higher-revenue-outlook-as-rising-costs-weigh-on-sentiment-11784911236359.html
 
-- US stock market today: S&amp;P 500, Nasdaq futures edge higher as oil retreats, Intel jumps 4%
-  US stock futures show modest gains as crude oil prices fall. Dow futures rose 222 points, while concerns lingered from the Middle East conflict and tech investments. Investors are cautious
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-edge-higher-as-oil-retreats-intel-jumps-4-11784894223255.html
+- Small-cap Orient Technologies shares to be in focus on Monday after  ₹76 crore NPCI order
+  Orient Technologies is set to gain attention after receiving a  ₹76.2 crore order from NPCI for server supply. This contract strengthens its capabilities in enterprise infrastructure.
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-orient-technologies-shares-to-be-in-focus-on-monday-after-rs-76-crore-npci-order-11784912944950.html
 
-- Sebi fines former Axis MF chief dealer, aides in  ₹30.56 crore front-running case
-  The final order follows an investigation into trades between September 2021 and March 2022. Sebi's surveillance system flagged suspicious trading patterns
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-axis-mf-chief-dealer-viresh-joshi-front-running-case-markets-india-11784894325483.html
+- Anthropic launches Opus 5 AI model at half-price of Fable 5 — What we know about the efficiency upgrade
+  Anthropic launched Opus 5, an AI model priced lower than Fable 5, aimed at daily tasks, as part of its efficiency upgrade.
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-launches-opus-5-ai-model-at-half-price-of-fable-5-what-we-know-about-the-efficiency-upgrade-11784913229375.html
 
-- Kalind shares jump 5% on ex-bonus, ex-split day; investors see 86% price adjustment
-  Kalind's shares rose 5% to  ₹11.29 on July 24, but showed an 86% decline in demat accounts. Shareholders' overall investment value
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-kalind-shares-jump-5-on-ex-bonus-ex-split-day-investors-see-86-price-adjustment-11784890700139.html
-
-- Bank of Baroda Q1 results: Profit comes at  ₹1,278 crore; NII rises, NIM shrinks YoY
-  Net interest income saw a modest 9.5% YoY increase to  ₹12,524 crore. Net interest margin declined
-  🔗 https://www.livemint.com/market/stock-market-news/bank-of-baroda-q1-results-2026-profit-comes-at-1278-crore-11784873378884.html
-
-- NSE to launch India's first domestic benchmark-based natural gas futures on July 27
-  The cash-settled contract is aimed at enabling transparent,
-  🔗 https://www.livemint.com/market/stock-market-news/nse-to-launch-indias-first-domestic-benchmark-based-natural-gas-futures-on-july-27-11784889955865.html
+- OpenAI couldn't stop its own rogue AI. A Chinese model did | Here's how
+  A Chinese-developed AI model played a key role in helping AI platform Hugging Face contain what OpenAI described as an '
+  🔗 https://www.livemint.com/technology/tech-news/openai-couldnt-stop-its-own-rogue-ai-a-chinese-model-did-heres-how-11784905940360.html
 
 - Karnataka looks to deepen AI ecosystem with industry partnership, focus on youth and rural education
   Karnataka Chief Minister DK Shivakumar said the government aims to take artificial intelligence (AI) education to rural students and build long-term industry partnerships.
@@ -92,133 +100,65 @@
   Taiwanese companies' choices stemmed from strategic business judgment and long-
   🔗 https://www.livemint.com/technology/tech-news/nvidia-ceo-huang-says-taiwan-saved-the-american-semiconductor-industry-and-without-it-japan-could-have-taken-over-11784813620870.html
 
-- iPhone 18 Pro launching soon: Expected price, camera, display, processor and more
-  Apple is set to launch the iPhone 18 Pro lineup soon with new color options, a smaller Dynamic
-  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-launching-soon-expected-price-camera-display-processor-and-more-11784776990236.html
+- Stock Market Today: Dow Opens Higher, What to Watch — Live Updates - WSJ
+  The Dow opened higher on Friday. The S&amp;P 500 turned red late into Friday's session on Iran angst.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFhZYlFqX1F2Y2F3U0ZEeWV1aXFLRlpxa2ViQ1lNRVE5eXJjeE5lZjh2ZERxNEowVUZDdUdoOWN4eUZxWlVMM2hCQ0xpVUV5OXhwazhnVFFxWjlKaGdJOUtBSXM3OHQ1QVpRa2FYWUVnNHY4aGhuc01nOWVfdmRlMVV6OUF2SFU?oc=5
 
-- Google makes switching from iPhone to Android easier with Android 17: Here's how
-  Google is making it easier to switch from iOS to Android.
-  🔗 https://www.livemint.com/technology/tech-news/google-makes-switching-from-iphone-to-android-easier-with-android-17-heres-how-11784791793719.html
+- Megacap earnings and Fed meeting could test a market on edge next week. Here’s what’s ahead - CNBC
+  Megacap earnings and Fed meeting could test a market on edge next
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXlwQWhvbTBvQm9yWGd6cEJ1dWpnSEt2X1JxS0Jka1FsYU4tU1NFNS15UTh6R25od2taMzhEMjRfMzk2TkVkVElBSC11dU5TUDA4Q0swWXlHNGZwZnBYenNQVHNRV0VEd0J5VXBxeUxCTkZHb0MyaW5hNXRQdXdGVDFVa3BaUzdYNlUyQVRkQks?oc=5
 
-- Dow futures rebound by 150 points as oil surge eases, Intel gains after earnings: Live updates - CNBC
-  Dow futures rebound by 150 points as oil surge eases, Intel gains after earnings: Live updates.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5faUg1R2E2UzRLZjdYMk0wSDJ5UVNTd3FJOGp0RjU0clNleGxKeEhjMUxZV0IyTEpUVHRGZk9iSGIzakRVTU84ZzhGYkxUSExnYVBad2FEbmZQSW5EM1J4LUVrMnZGT1U5Zzhnd2NxYXE2R25yVHNj0gF8QVVfeXFMTWl2WWhNNEUwLTBIc0J0YXFiM2k3N1QtQ0Q2WmRDbEJmTzJIX1dSd2VzTnV3eVNPb1M0ejU2bVI3YUtCT2VGa0t0MVFFUzgwMTdDRndFYUI5QmNVcjNaTkxHNUtaR20wWmpyZkRSVFVBeGFmaUtteUZoVXRncg?oc=5
-
-- Closing Bell | Sensex sheds 331 pts, Nifty ends below 23,800; IT, media stocks shine, auto drags - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxOcjBQQ2tYMG9ZTVZQNWJoc09xX0trS2E4RnVjZkxEUVJNT2F0ZlMtZ043dmZ2d1M4YlVhMHk5NVVidGRvWDFKZ1QyTWpJOEZWNTF5ZC12QWpfcU9RcGpsckRfdEE2ZXJHdU
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOcjBQQ2tYMG9ZTVZQNWJoc09xX0trS2E4RnVjZkxEUVJNT2F0ZlMtZ043dmZ2d1M4YlVhMHk5NVVidGRvWDFKZ1QyTWpJOEZWNTF5ZC12QWpfcU9RcGpsckRfdEE2ZXJHdUhTblVsMTVzQkRDWEJWa1J1cW5mZXhFOWlrYUhaelktSzVUZUhMcUthRWdXVUFtZVZLOG9rMi1lTF9lU0hoMnBPUDl4eW02cEFoeVBmTjVWMjgtXzJmRDB0THJsNzMtN2NRXzUwNVNFMGV1UGo2VXR2aVRTQ1VpckJPRThNX2NIOER3SmVJZHZRY0dDRjBieUFxNGIwYWxFeHg2ZFM2cF8yWEllWFV2bFQwT3FNcHRYOFk40gGgAkFVX3lxTFB3OTE5ZTdwUlZIUnVrZG1ZcmRJSmtzT1BCSk9La3JYRXpmRGhpaXNpcU1aMUxLekJNU2JIem5ieDIxc2FSUGpXZkpwOVFaYkZLc18xRXMxTXFoMnduejVWZm5lWE9Nc0hzWjB4NmFpQjJwUVdJSTlaemNWb0ozTmdPNU91NHJFQzhnMDhZV2tRdzdJQm1meHRJZjBSa1k5dENWNm55UDRIb1pGa0NNM1ZxWDhfRWZraGtOSFNYdEZuMHpkd2tpdXFIUFRLUXdxSkxUTERqZnlWRUg1TEVhNlhEOVFralNraUp0WWpManRNYVpRNWU1VDBfVjlCUEJhZVcyQ0Z0b3JHV3lBOUJDZWZ6YmRhdW1oZGtyNWM2WVNWag?oc=5
-
-- Oil spurs a sell-off, Trump's new tariffs, Intel earnings and more in Morning Squawk - CNBC
-  Oil spurs a sell-off, Trump's new tariffs
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0pKcGhZNXRKcllmLWd4c05PVXIyVE9ZR01xVTFwNE90cnpxdjZ6LUViOGxQNGxWcG1pZkJfdFdXZVlyUWF3RHQ5UVdpRkpfSXU0ZnFTcE1JbDUzN0JCUHVpam5rbEVRWWFmWFRoWkVzamMtS2pOYnpXZlREcUlVcmtqRk5iQXVOdTZz0gGQAUFVX3lxTE16X0U3S1V1MUJMdzhVX1NQV3JjX1R0NDZyUDh4UmxEVHp4X05USjhQWHZhdDNuTGhPT3BwYWxoT3lwZlhCWi14eDdHUkNMdlZ2UVJ2WnVaYVh4cUlpamozQkQxSEFIX0w1RE5GdWJkc19WRFFqNGI1aXprZEN1NzZkTVNfTkdGZndsWnF6cG5JWQ?oc=5
+- Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil' - CNBC
+  &nbsp;&ngt;& nbsp;
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1ptS092RkJxU29IclRfcjFBSXRvVG9FUTkzczY1b2FMX3RsUXU3UDBDQkRfbDlpYlJFMkw0WWptTlVROTkyb2hFdmhISUt3NkNMWVo0akp2S3M3N09rdmxtT2g0UVJDZjZ6TGZzS2Uyd3R3UXUxb05vMmh4cVlFa2pNaWdGQVh6aFExUHFlRU1nZjgyZnB4X3lOZi1JUHV3bjFUdmZPSUfSAa4BQVVfeXFMTkJKZWktbHlRSXpmN1NqUkc5RzFtM0lFeXlsRVBuRlJGR3N1T2VmblFvdDRDNnN4a0xSdE83NlRjTUlicmtpX1JUMzVkejctVTJ1TjdTQ09Eb0xJMjNsclBad2JuX1pMcGs1UEE1ekR0YUNMMGt2UXBTcmxWQmNoRVhleTREMHFOU2ttMHdKVDJxclNYcXZnWkhEeGxtd3RvYkgtTGlBVG9tUWNDd3J3?oc=5
 
 - A dangerous new phase of war is breaking all the oil market’s constraints - CNN
   A dangerous new phase of war is breaking all the oil
   🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQMHJkZHlOcFRGMlNfWFJNbDFPbWpiU3Z2VU55NHVmblozN2NIUEktUUtGYlQ1U1ctTzlXWGphU056ZVVNb3ZaM0NvWlR6R1E0SWdwV3NGZW5Hd1MxamRFdldIVF9hLWg0RW9rSWJ2R1lWQ1ZvQXBvb3V4cG05bWdyUA?oc=5
 
-- Google and Tesla shares plunge as AI spending rattles markets - BBC
-  Google and Tesla shares plunge as AI spending
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVzVZQlgwd2o3MkNkSlZlVkVmVmFJU21GTTJOR1g4V3Bwb19TVEZiRUNGc3d5T0g4WkljemsybW5ma3dndEVULTJFZHp4VXFEZUdVdmo4b29VQQ?oc=5
+- Stocks rise on Wall Street while crude oil prices fall for the first time in a week - AP News
+  Stocks rise on Wall Street while crude oil prices fall for the first time in
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmlYckVuYk1wbnBDMUZSaV9xY3Jha2ktXzUyYzV2VjA4UWJ3ZEdpSHFoNXU0QVdmMUFZR0xSaGc5ZjZJc1JQVzBkNU03SkJ0YXJhTFl4YTZZcVd5N1luLVZRNTlUXzkyLVQ1SzhmcGdvQWd3MzBNY014bS1JdHBVWTJlX25PendGZ3pPY0IyYTJQeVA1WTNqdUlkOA?oc=5
 
-- Yen heads for biggest weekly drop since May despite Tokyo's support pledges
-  The Japanese yen is experiencing a dramatic drop, marking its most significant weekly decline since May. The currency has hit 40-year lows against the US dollar.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-heads-for-biggest-weekly-drop-since-may-despite-tokyos-support-pledges/articleshow/132606629.cms
+- American Express Q2 profit rises driven by higher spending and fewer delinquencies
+  American Express has indicated an impressive eight percent growth in profit during the second quarter. The surge in sign-ups for the company's premium offerings showcases their effective customer acquisition strategies.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/american-express-q2-profit-rises-driven-by-higher-spending-and-fewer-delinquencies/articleshow/132608566.cms
 
-- Welspun Corp Q1 Results: Profit nearly triples to Rs 1,048 crore
-  It had reported a net profit of Rs 349.16 crore in the same period a year ago
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/welspun-corp-q1-results-profit-nearly-triples-to-rs-1048-crore/articleshow/132605955.cms
+- ACC Q1 Results: Profit plunges 60% to Rs 147 crore on lower sales
+  ACC Ltd, part of the Adani Group, reported a staggering 60.8% decline in net profit for the June quarter. This drop in profitability can be attributed to a decline in sales volume, resulting in a 7.75%
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/acc-q1-results-profit-plunges-60-to-rs-147-crore-on-lower-sales/articleshow/132608115.cms
 
-- Sebi bars former Axis MF dealer Viresh Joshi from securities markets for 7 years front-running case
-  Sebi has banned Viresh Joshi and Prijesh Kurani from the securities market for seven years. This action stems from a front-running case involving Axis Mutual Fund trades. Joshi allegedly shared non-public fund
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-former-axis-mf-dealer-viresh-joshi-for-7-years-front-running-case/articleshow/132606474.cms
+- REC Q1 Results: Net profit dips over 6% to Rs 4,193 crore
+  Recreation Ltd reported a year-on-year profit decline of six percent for the June quarter. The company announced an interim dividend of Rs 4.25 per share and declared a final dividend of £1.55 per share for
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/rec-q1-results-net-profit-dips-over-6-to-rs-4193-crore/articleshow/132608016.cms
 
-- Quote of the day by John Rogers: "All of us, all of the time, have to be on guard against groupthink"
-  Groupthink occurs when individuals conform to group views instead of independent evaluation. Encouraging diverse perspectives and challenging assumptions improves decision-making in various settings.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-john-rogers-all-of-us-all-of-the-time-have-to-be-on-guard-against-groupthink/articleshow/132601999.cms
+- Lodha Developers Q1 Results: Profit jumps 2-fold to Rs 1,373 crore
+  Lodha Developers reported a remarkable 100% increase in net profit for the first quarter. Total income has significantly outperformed the same quarter last year, marking the highest quarterly profit in the company's history.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-q1-results-profit-jumps-2-fold-to-rs-1373-crore/articleshow/132607903.cms
 
-- Digital Realty raises annual FFO forecast on robust data center demand
-  Digital Realty Trust has raised its forecast for funds from operations for the entire year, driven by a surge in leasing activity from cloud computing and AI users. The company upped its annual revenue projections to between $6.85 billion and
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/digital-realty-raises-annual-ffo-forecast-on-robust-data-center-demand/articleshow/132605679.cms
+- V-Mart Retail Q1 Results: Profit surges 40% to Rs 47 crore
+  V-Mart Retail has reported an impressive 40.5% increase in net profit for the June quarter. Revenue from operations surged by 23% to Rs 1,088.81 crore, while total expenses grew by 22%. The company has
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/v-mart-retail-q1-results-profit-surges-40-to-rs-47-crore/articleshow/132607877.cms
 
-- In India, fear has switched sides - Al Jazeera
-  In India, fear has
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzdPc1Uwbzh2bHQ3Q2dJX3dWQ1ViUHY4NENkcXBPT2RuQkI5aWF2TWoyQk1Jem9rM2Q2ai1CWkNQZkdQbjJ2UWdHQW5mdXNBU3RsZjhRa3VyOWhlLXNnc09SYWRSa1VCQlR1VEdXdHBNOGZjV2tzcHl1VzhpSGpvTVA0TdIBiAFBVV95cUxOYUNqNklVRHU4TzAxUXVydGxRZ2hRVjBXSC1GVDBnN3NPZnpVUTZzMzRGcFVIMGJLcTdSYURma0lfZElmN3lwVDRQMG9DbjZKMmhNOVZCaWVMMUpGUEkyckFPNU4zbmktRnpCYmZ5YzNfQ01FU2VvX3hNN2RfXy1MTFdaUVp6YVho?oc=5
+- UPI In June: Navi, super.money Gain Ground As PhonePe, Google Pay Slip Slightly
+  The Unified Payments Interface (UPI) race got more intense in the month of June. Navi, supermoney Gain Ground As PhonePe, Google Pay Slip Slightly.
+  🔗 https://inc42.com/buzz/upi-in-june-navi-super-money-gain-ground-as-phonepe-google-pay-slip-slightly/
 
-- Young India is Angry, and Much of its Rage is Directed Towards the Mainstream Media - TheWire.in
-  Young India is Angry, and Much of its Rage is Directed
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2xGMHBHbWN5TUtFd3NFNnhMVWJueE9UQnQzWmZ0YW9wLVFjOGlLTE5jOW00Vm9oNnhSOHlzXy1TRUtIM1JBcG1NZFlfbEkxRV9uRE5sUVg5dkhTM1V3b2o3ZjZya3RmeHptMElkcXhvR3kzMTlBTExITXRBQ1YyVDBYQWk4LUNaam03OE05ajVCdW_SAZgBQVVfeXFMTVZ0ODZ2TUhCc3lNTzQ3RDliV2x2YlhoMTk1WUR5Z1VtdXgtTFhmcTIyOGxVUmFaQmRoXzJUYWIzUndESEU2eHNoMjBzRDRXZ0gwM3hnTmF4Qk8wUGZQS1pUbnItZ0t6SUt6OWUtUVJRZ2Z4dmNWd2pQNGFGRU5aUTYwb215NmFRVTZ0U1F6VHFQWUJpUzQ3MjI?oc=5
+- Flipkart, Eight Roads Offload Shadowfax Shares Worth ₹1,654 Cr In Bulk Deal
+  Walmart-owned Flipkart has sold shares worth nearly ₹690 Cr in listed logistics company Shadowfax.
+  🔗 https://inc42.com/buzz/flipkart-eight-roads-offload-shadowfax-shares-worth-%e2%82%b91654-cr-in-bulk-deal/
 
-- Evening news wrap: Cabinet clears tougher anti-paper leak Bill; 13 feared dead in Himachal landslide - The Times of India
-  Evening news wrap: Cabinet clears tougher anti-paper leak Bill; 13 feared
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNX0VOMW5LY1l4cTBmaUFXRmJuNHJENHpoeUsyamdHNHMzb01xc3IyVHlPb1AyaVZpMl9oTXFvOXhTd1BBd0Q5TU1mOGd6VlRvcm0xanNfS1liNEQ2aUR2ZHFyamd0TmxZdkxzQXNFd1g0OUpTZXhhMWdCZDd0LWwzS052WGJVTGpBYmhVck5EbGlLemphOWNrWVZuSUczUVFWWkFlbDg1UTlkYlQzT0x1UXBCcGI1SDZpcFNkOF8yUzFXOW1TQURhbk1uckRUNXpkRWNWNW9NMXhOMV9HeFFpNFhUSVY0VnFCeFpkbmxQbmllTnVBOC1lMHh3?oc=5
+- Delhi Police Advises App-Based Aggregators To Restrict Services In Central Delhi
+  Delhi Police has requested app-based aggregators to regulate operations around the central city.
+  🔗 https://inc42.com/buzz/delhi-police-advises-app-based-aggregators-to-restrict-services-in-central-delhi/
 
-- CJP protests at Jantar Mantar: The youth movement India's Modi didn't see coming - BBC
-  CJP protests at Jantar Mantar: The
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiLWpWRFRvUW44Y2hFYWhBQXgtWmI2RTV1RFkyT0NfMXFJVGlDQ0ZHTGM5WGtUaFZZaWQ1ZFBTSk5hRDFDX19ZeEZRc1RMcXpjZElmZGJ4VW9Ldw?oc=5
+- Over 35% Of Swiggy Users Try Multiple Services, But Order Frequency Slips
+  More than 35% of Swiggy’s transacting users used multiple offerings on its platform during the financial year 2025-26.
+  🔗 https://inc42.com/buzz/over-35-of-swiggy-users-try-multiple-services-but-order-frequency-slips/
 
-- 'Dharmendra Pradhan's Resignation Not On Cards, Easiest Decision To Make': Sources - NDTV
-  'Dharmendra Pradhan's Res
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU2pOYVNSaVBGRzJ5SEFISEVCLUVYUkRPX3QxQjQtVC1yLXdYeEp3RWNLODNNT0dSYlpReWlpZ01GTlNCRjh0b3JPYkdlU2t2b2UyU3Z3dUxiUFV3ZzNFLTZqZjBBTzhVUnNiTkVZNVB0SUhpZDU5bUg4WWx1NExBVnVXNGNpR3VBYnFzUVFiaURHRTF4d1l5bDhuTVJGSUh2cFJQRFdpSjEwcng1MFdNaXBZeENUcDdYTEtVMmYyTFZiTGtUa0hKQmlJLXFXbG1XR2FhS0NOLWItNWpRdmJ3V2FVMEJULS1ZYnN2bXcwSnZrQnFvT3M0VWx5MnNMejUxeENtZGdycWg?oc=5
-
-- Inside Zomato’s Monetisation Stack: Where The Margins Come From In Food Delivery
-  Before 10-minute deliveries, dark stores and quick commerce wars, there were red-shirted Zomato riders racing across cities.
-  🔗 https://inc42.com/features/zomato-business-model-commissions-platform-fees-and-ad-revenue/
-
-- Why The OpenAI-Hugging Face Incident Is A Wake-Up Call For Enterprises
-  A tequila bottle accidentally holds down the delete key, destroying a fictional startup’s servers.
-  🔗 https://inc42.com/features/why-the-openai-hugging-face-incident-is-a-wake-up-call-for-enterprises/
-
-- Delhi HC Rejects ANI’s Plea For Interim Injunction Against OpenAI In Copyright Suit
-  The Delhi High Court has dismissed ANI&#8217;s plea seeking an interim injunction against OpenAI.
-  🔗 https://inc42.com/buzz/delhi-hc-rejects-anis-plea-for-interim-injunction-against-openai-in-copyright-suit/
-
-- Jack Dorsey Says Indian Govt Ordered bitchat Takedown Amid Student Protests
-  Former Twitter CEO Jack Dorsey has claimed that the Indian government ordered GitHub to remove multiple repositories linked to bitchat.
-  🔗 https://inc42.com/buzz/jack-dorsey-says-indian-govt-ordered-bitchat-takedown-amid-student-protests/
-
-- Fractal, Meesho Slide Over 6% Each After Q1 Results
-  Fractal, Meesho Slide Over 6% Each After Q1 Results. Shares of new-age technology companies Fractal and&#8230;
-  🔗 https://inc42.com/buzz/fractal-meesho-slide-over-6-each-after-q1-results/
-
-- In India, fear has switched sides - Al Jazeera
-  In India, fear has
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzdPc1Uwbzh2bHQ3Q2dJX3dWQ1ViUHY4NENkcXBPT2RuQkI5aWF2TWoyQk1Jem9rM2Q2ai1CWkNQZkdQbjJ2UWdHQW5mdXNBU3RsZjhRa3VyOWhlLXNnc09SYWRSa1VCQlR1VEdXdHBNOGZjV2tzcHl1VzhpSGpvTVA0TdIBiAFBVV95cUxOYUNqNklVRHU4TzAxUXVydGxRZ2hRVjBXSC1GVDBnN3NPZnpVUTZzMzRGcFVIMGJLcTdSYURma0lfZElmN3lwVDRQMG9DbjZKMmhNOVZCaWVMMUpGUEkyckFPNU4zbmktRnpCYmZ5YzNfQ01FU2VvX3hNN2RfXy1MTFdaUVp6YVho?oc=5
-
-- Young India is Angry, and Much of its Rage is Directed Towards the Mainstream Media - TheWire.in
-  Young India is Angry, and Much of its Rage is Directed
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2xGMHBHbWN5TUtFd3NFNnhMVWJueE9UQnQzWmZ0YW9wLVFjOGlLTE5jOW00Vm9oNnhSOHlzXy1TRUtIM1JBcG1NZFlfbEkxRV9uRE5sUVg5dkhTM1V3b2o3ZjZya3RmeHptMElkcXhvR3kzMTlBTExITXRBQ1YyVDBYQWk4LUNaam03OE05ajVCdW_SAZgBQVVfeXFMTVZ0ODZ2TUhCc3lNTzQ3RDliV2x2YlhoMTk1WUR5Z1VtdXgtTFhmcTIyOGxVUmFaQmRoXzJUYWIzUndESEU2eHNoMjBzRDRXZ0gwM3hnTmF4Qk8wUGZQS1pUbnItZ0t6SUt6OWUtUVJRZ2Z4dmNWd2pQNGFGRU5aUTYwb215NmFRVTZ0U1F6VHFQWUJpUzQ3MjI?oc=5
-
-- Evening news wrap: Cabinet clears tougher anti-paper leak Bill; 13 feared dead in Himachal landslide - The Times of India
-  Evening news wrap: Cabinet clears tougher anti-paper leak Bill; 13 feared
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNX0VOMW5LY1l4cTBmaUFXRmJuNHJENHpoeUsyamdHNHMzb01xc3IyVHlPb1AyaVZpMl9oTXFvOXhTd1BBd0Q5TU1mOGd6VlRvcm0xanNfS1liNEQ2aUR2ZHFyamd0TmxZdkxzQXNFd1g0OUpTZXhhMWdCZDd0LWwzS052WGJVTGpBYmhVck5EbGlLemphOWNrWVZuSUczUVFWWkFlbDg1UTlkYlQzT0x1UXBCcGI1SDZpcFNkOF8yUzFXOW1TQURhbk1uckRUNXpkRWNWNW9NMXhOMV9HeFFpNFhUSVY0VnFCeFpkbmxQbmllTnVBOC1lMHh3?oc=5
-
-- CJP protests at Jantar Mantar: The youth movement India's Modi didn't see coming - BBC
-  CJP protests at Jantar Mantar: The
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiLWpWRFRvUW44Y2hFYWhBQXgtWmI2RTV1RFkyT0NfMXFJVGlDQ0ZHTGM5WGtUaFZZaWQ1ZFBTSk5hRDFDX19ZeEZRc1RMcXpjZElmZGJ4VW9Ldw?oc=5
-
-- 'Dharmendra Pradhan's Resignation Not On Cards, Easiest Decision To Make': Sources - NDTV
-  'Dharmendra Pradhan's Res
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU2pOYVNSaVBGRzJ5SEFISEVCLUVYUkRPX3QxQjQtVC1yLXdYeEp3RWNLODNNT0dSYlpReWlpZ01GTlNCRjh0b3JPYkdlU2t2b2UyU3Z3dUxiUFV3ZzNFLTZqZjBBTzhVUnNiTkVZNVB0SUhpZDU5bUg4WWx1NExBVnVXNGNpR3VBYnFzUVFiaURHRTF4d1l5bDhuTVJGSUh2cFJQRFdpSjEwcng1MFdNaXBZeENUcDdYTEtVMmYyTFZiTGtUa0hKQmlJLXFXbG1XR2FhS0NOLWItNWpRdmJ3V2FVMEJULS1ZYnN2bXcwSnZrQnFvT3M0VWx5MnNMejUxeENtZGdycWg?oc=5
-
-- In India, fear has switched sides - Al Jazeera
-  In India, fear has
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzdPc1Uwbzh2bHQ3Q2dJX3dWQ1ViUHY4NENkcXBPT2RuQkI5aWF2TWoyQk1Jem9rM2Q2ai1CWkNQZkdQbjJ2UWdHQW5mdXNBU3RsZjhRa3VyOWhlLXNnc09SYWRSa1VCQlR1VEdXdHBNOGZjV2tzcHl1VzhpSGpvTVA0TdIBiAFBVV95cUxOYUNqNklVRHU4TzAxUXVydGxRZ2hRVjBXSC1GVDBnN3NPZnpVUTZzMzRGcFVIMGJLcTdSYURma0lfZElmN3lwVDRQMG9DbjZKMmhNOVZCaWVMMUpGUEkyckFPNU4zbmktRnpCYmZ5YzNfQ01FU2VvX3hNN2RfXy1MTFdaUVp6YVho?oc=5
-
-- Young India is Angry, and Much of its Rage is Directed Towards the Mainstream Media - TheWire.in
-  Young India is Angry, and Much of its Rage is Directed
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2xGMHBHbWN5TUtFd3NFNnhMVWJueE9UQnQzWmZ0YW9wLVFjOGlLTE5jOW00Vm9oNnhSOHlzXy1TRUtIM1JBcG1NZFlfbEkxRV9uRE5sUVg5dkhTM1V3b2o3ZjZya3RmeHptMElkcXhvR3kzMTlBTExITXRBQ1YyVDBYQWk4LUNaam03OE05ajVCdW_SAZgBQVVfeXFMTVZ0ODZ2TUhCc3lNTzQ3RDliV2x2YlhoMTk1WUR5Z1VtdXgtTFhmcTIyOGxVUmFaQmRoXzJUYWIzUndESEU2eHNoMjBzRDRXZ0gwM3hnTmF4Qk8wUGZQS1pUbnItZ0t6SUt6OWUtUVJRZ2Z4dmNWd2pQNGFGRU5aUTYwb215NmFRVTZ0U1F6VHFQWUJpUzQ3MjI?oc=5
-
-- Evening news wrap: Cabinet clears tougher anti-paper leak Bill; 13 feared dead in Himachal landslide - The Times of India
-  Evening news wrap: Cabinet clears tougher anti-paper leak Bill; 13 feared
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNX0VOMW5LY1l4cTBmaUFXRmJuNHJENHpoeUsyamdHNHMzb01xc3IyVHlPb1AyaVZpMl9oTXFvOXhTd1BBd0Q5TU1mOGd6VlRvcm0xanNfS1liNEQ2aUR2ZHFyamd0TmxZdkxzQXNFd1g0OUpTZXhhMWdCZDd0LWwzS052WGJVTGpBYmhVck5EbGlLemphOWNrWVZuSUczUVFWWkFlbDg1UTlkYlQzT0x1UXBCcGI1SDZpcFNkOF8yUzFXOW1TQURhbk1uckRUNXpkRWNWNW9NMXhOMV9HeFFpNFhUSVY0VnFCeFpkbmxQbmllTnVBOC1lMHh3?oc=5
-
-- CJP protests at Jantar Mantar: The youth movement India's Modi didn't see coming - BBC
-  CJP protests at Jantar Mantar: The
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiLWpWRFRvUW44Y2hFYWhBQXgtWmI2RTV1RFkyT0NfMXFJVGlDQ0ZHTGM5WGtUaFZZaWQ1ZFBTSk5hRDFDX19ZeEZRc1RMcXpjZElmZGJ4VW9Ldw?oc=5
-
-- 'Dharmendra Pradhan's Resignation Not On Cards, Easiest Decision To Make': Sources - NDTV
-  'Dharmendra Pradhan's Res
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPU2pOYVNSaVBGRzJ5SEFISEVCLUVYUkRPX3QxQjQtVC1yLXdYeEp3RWNLODNNT0dSYlpReWlpZ01GTlNCRjh0b3JPYkdlU2t2b2UyU3Z3dUxiUFV3ZzNFLTZqZjBBTzhVUnNiTkVZNVB0SUhpZDU5bUg4WWx1NExBVnVXNGNpR3VBYnFzUVFiaURHRTF4d1l5bDhuTVJGSUh2cFJQRFdpSjEwcng1MFdNaXBZeENUcDdYTEtVMmYyTFZiTGtUa0hKQmlJLXFXbG1XR2FhS0NOLWItNWpRdmJ3V2FVMEJULS1ZYnN2bXcwSnZrQnFvT3M0VWx5MnNMejUxeENtZGdycWg?oc=5
+- D2CX Converge Indore Decodes The New Playbook For Building Enduring Consumer Brands
+  India&#8217;s consumer brand ecosystem is entering a new phase, where scale is no longer measured by online reach alone.
+  🔗 https://inc42.com/buzz/d2cx-converge-indore-decodes-the-new-playbook-for-building-enduring-consumer-brands/
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +180,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Japan’s AI gamble: Can technology offset the cost of an ageing society? - Al Jazeera
+  Aims to use artificial intelligence in Japan to
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNcy1QZlNPT25mbzZOU2h5NG1VWTRYV0xUSVJyMG5Ibmp4dHRCVjZpSzl6YnQzbmJjTk9wZ3h4dnI3eWV5TXNmVUg3SVpJa1BPZUFDNEUwQzFZUkNYMTFacEd1SUVtTk5BcXBaRzVnR1o1R1lPc0Q1R2pIeXlUQlU1Zl9XQ2JMNzZybHZfSkJvTTFqVDBMR1ZRTFZJUHQ4bXJ5NUNmU09Tb2w4bHh6c0NFTzZ30gG3AUFVX3lxTE9kY0VPVEo4MEhQdjZkSzkxZ09vT1dhbXBRWGVtSDFrMFp0c2piU3N1UDNJUjdIXzRxZlI4cW85b3hiX0NJWWlVcVNndnlPOWV3QzlOUXBNRFlSd1pjSXBWV0hiNHg2bElnd2tqNU9hakdncEpCX0FUY1VvTUVuNGRKT182UmRuZjExcnVZazZTS0hJNDV3MEh0ZGdxdHpnVnRwNDZJNElqRWt3dUx5UjNfUGJzNWUxdw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Open Weights and American AI Leadership - Microsoft
+  Microsoft is
+  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxQczZlRzdBN2sxLXp1U2Z6NnZ2elpFak1wSTUxOW5wbkNWdE5hWGp5WHJaSWJxR29rYnBXZ2hSWUNfMExHMi1Xc00zRXZJM0k3OTdhOGdDREhjYmdRR25SUUNTcGN3bXJBOVdadWtyXzRpdE9zWHlES3VNakFpbWpGb2x3?oc=5
+
+- Understanding the AI economy - blog.google
+  
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOZkpKT0hTY0xtSDZVSjQ5TUNZQ1E1OHd0UWhIMERIemFsY3ljOGxmNDQ4ZDRhVWpzR3B0UFRENEZtZFVReU9HT0pXbDlfQ1AySWpOaVE3bjRRLVJrcnlwZXRVTllGV2x6LVZoVkFERFJsUVNVVDVpbW5MMkc2cnVBWkdYX1pLNEFKZlpZdzVENG4?oc=5
+
+- Technology-driven policing key to tackling cyber crime, says Telangana DGP C.V. Anand - The Hindu
+  Technology-driven policing key to tackling cyber crime, says
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMW1FelM1UWpVRTBIXzV0NnN0X1A2Sm01aUhUYkhSQ2tjZTltVVEwWm9hbU9iNjdnOEg2M1pjT1pnNHlqWERQMEVMSTNfeE1kaVVBQnlEX1g1NHlsVWNySlZKZVJ3SDBuOVluM0RkakVBNmMtR0w4a0xodW0tMXJXRFRIOEo0VGZmemZ3bnZXNklXSVEtbzMyVkM3dW8zODZhNGhITFJ4MXFja29ac2lXM2lQOHpxUC1SZW9sVllmbmpZYkZ4UXV0MXVvUDRsd1lvU1NkNEp5TzJvbkx1VEJOWWN3TTk3UdIB7AFBVV95cUxOVEt3cnljQ0pOUC0tYU43cnJqU3NOTDVQbVltVklNZmVXbDJlMFNudWgyQXB3RFNxLVZIc2tpSlhLVUNDci04d2lsWDZqQWRfTi1VWHBoaDRXcUdadjcwTXE4eVFHVUgyMVZRa0ZCQU5MMF9yc1BWVkszNU03Xy1MTU9uQlVZanFSdFlzdHpqMzZRR0VpTHhVSTJWVHdWLV9kejhNWHFKT2FVSEtKQ0Rwd2h3a0xOZDhlZDF4UjBLT25qMU5hWmZ2a2RjVG5qVmNZamdYY3VoUGd6LS1aUHN5bGJEaWdmanJCOHppag?oc=5
+
+- Offence Under Section 66 Information Technology Act Is Bailable : Supreme Court Overrules HC View - Live Law
+  The Supreme Court has ruled that it is illegal to use the internet to
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOczM2UVo2bEp6WW5McncyN1Z4M3hEX2luSVZ2dGE5V2hwc2NDcTdYWmNsYzJQaXVuOFhsRWJLWVhCV3VHbUZ5YW1kOUNNNVdWNy1kc1NuaHF5aEJPX0pPNUJrN040V3YwaUtWQzZOTGd1bkY2MVROeklTdkVFTU1KSnNBclhHM3BrX2lvd3d0RkcwYnJTQXN6dV81N25qWmI1LVdBZndZTWdrMXZheWlkeV9Dd0J3RWlJV2p4NEpuS1lIc0RBUVVCN0xDVk9qeGt3RDNmZFln0gHbAUFVX3lxTE5vdWFSSFRlQmJMeHNiMmNkbGh1T1hlUURzQzJXTi1QTXVZSDNyU3FEN1ZUOFlvZ2dBeTRmdnluZDVadl9NRUZHWFNyQ090b0R2Z0diWGlNQVlwOUg3VlVPNUZ1SUNwZE51WGRrc1hsVXFWVHJISjNnMXd2S2VjRWNaX2NyQXdhQlVXeHB0WnRMd29GZVBBUjFfTWFqM2hodWZ1LXpid0J0WmdrREVlOUtBcGZzT1hwZjAxSWN6c2RQNjFLc25FYnJUSnpaTTA1bzltWmJRYTZQdk1ldw?oc=5
 
 
-_Last updated: 2026-07-24 13:28:48 UTC_
+_Last updated: 2026-07-24 19:20:30 UTC_
