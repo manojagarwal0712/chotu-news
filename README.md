@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- ‘No reshuffle, sack Pradhan’: Rahul Gandhi backs protesting students
+- CBI arrests 3 railway officials in bribery cases across Mumbai, Varanasi and Howrah
   
-  🔗 https://indianexpress.com/article/india/no-reshuffle-sack-pradhan-rahul-gandhi-backs-protesting-students-10802991/
+  🔗 https://indianexpress.com/article/india/cbi-arrests-railway-officials-irctc-staff-bribery-cases-72-hours-10803403/
 
-- Nicobar project to safeguard Indo-Pacific interests, Rajnath tells Congress
+- Indian Railways to start train services from new platform 24 at Howrah station on July 27
   
-  🔗 https://indianexpress.com/article/india/great-nicobar-project-rajnath-singh-jairam-ramesh-strategic-security-10802955/
+  🔗 https://indianexpress.com/article/india/indian-railways-howrah-station-platform-24-train-services-july-27-10803132/
 
-- Kerala’s Vizhinjam set to become latest gateway for India’s exports, imports
+- Our fight will go on, PM Modi must apologise, says Rahul Gandhi
   
-  🔗 https://indianexpress.com/article/india/vizhinjam-seaport-customs-port-notification-exim-operations-august-18-10802959/
+  🔗 https://indianexpress.com/article/india/opposition-reacts-dharmendra-pradhan-resigns-kejriwal-kharge-congress-cjp-protest-modi-10803177/
 
-- Gold Rate Today, July 25: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Full text of Dharmendra Pradhan’s resignation letter to PM Modi: ‘Took responsibility, never turned my back’
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-july-25-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10802807/
+  🔗 https://indianexpress.com/article/india/dharmendra-pradhan-resignation-to-pm-modi-letter-full-text-10803197/
 
-- ‘That night will stay with me till death’: Village where Staines was killed lives with regret, fears Dara Singh’s return
+- ‘Cockroaches won, democracy won’: CJP on Dharmendra Pradhan’s resignation
   
-  🔗 https://indianexpress.com/article/india/that-night-will-stay-with-me-till-death-village-where-staines-was-killed-lives-with-regret-fears-dara-singhs-return-10802473/
+  🔗 https://indianexpress.com/article/india/dharmendra-pradhan-resignation-cockroach-janta-party-abhijeet-dipke-reacts-cjp-10803174/
+
+- Why Nvidia, Microsoft and Meta want the US to support open-weight AI
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-microsoft-meta-push-for-open-weight-ai-10803122/
 
 - OpenAI eyeing ChatGPT integrations for smart glasses, wearables: Greg Brockman
   
@@ -36,9 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-ai-muse-spark-1-1-new-features-10802642/
 
-- Meet the IFS officer using AI to tell farmers what trees to plant and where
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/himachal-ifs-officer-telegram-chatbot-ai-forest-governance-10802145/
+- Qualcomm plans to hike smartphone processor prices by double digits — Who will be impacted?
+  Qualcomm plans to raise smartphone processor prices by double digits to address rising supplier costs
+  🔗 https://www.livemint.com/companies/news/qualcomm-plans-to-hike-smartphone-processor-prices-by-double-digits-who-will-be-impacted-11784984193938.html
+
+- Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push
+  Samsung says it struck a pact with US chip designer Broadcom to widen cooperation across memory chips, contract chip making and advanced packaging.
+  🔗 https://www.livemint.com/companies/news/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-11784984023960.html
+
+- Nvidia, SK Group announce $500 billion AI initiative, Huang says, ‘powering next wave of growth’
+  SK Telecom will launch a 2-gigawatt AI data center by 2027, positioning South Korea as a global AI leader. NVIDIA and SK Group announced a $500
+  🔗 https://www.livemint.com/companies/news/nvidia-sk-group-announce-500-billion-ai-initiative-huang-says-powering-next-wave-of-growth-11784970047880.html
 
 - Paramount agrees to delay closing Warner buyout for months while judge considers states challenge
    Paramount agrees to delay closing Warner buyout for
@@ -48,37 +60,25 @@
   Two former Volkswagen engineers were arrested for insider trading. They placed bets ahead of the German carmaker’s announcement of a $5
   🔗 https://www.livemint.com/companies/exvw-engineers-charged-with-insider-trading-on-rivian-venture-11784918722725.html
 
-- Manipal Hospitals'  ₹9,275 crore IPO to strengthen balance sheet for growth
-  Manipal Health Enterprises will use most of its IPO proceeds to cut debt. The Temasek-backed company opens its IPO on 29 July with a price band of  ₹560-590 per share.
-  🔗 https://www.livemint.com/companies/manipal-hospitals-9-275-crore-ipo-to-strengthen-balance-sheet-for-growth-11784899782428.html
+- Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly
+  Big Tech’s insatiable appetite for AI investment is unleashing a relentless wave of bond sales. It is having a
+  🔗 https://www.livemint.com/market/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly-11784978281312.html
 
-- Jindal Steel brings back former MD Sharma after CEO churn, revamps top leadership
-  Jindal Steel announced appointments to the offices of chief financial officer, chief operating officer, and head of human resources.
-  🔗 https://www.livemint.com/companies/news/jindal-steel-brings-back-former-md-sharma-after-ceo-churn-revamps-top-leadership-11784901207286.html
+- IDFC First Bank Q1 Results 2026: Net profit surges 132% to  ₹1,075 crore; NII rises 21%
+  IDFC First Bank reported a net profit of  ₹1,075 crore for Q1 FY27, up 132.2% YoY. Customer business rose 18
+  🔗 https://www.livemint.com/market/stock-market-news/idfc-first-bank-q1-results-2026-net-profit-surges-132-to-rs-1-075-crore-nii-rises-21-11784977081353.html
 
-- Strong metal prices help Hindustan Zinc kick off FY27 on a high note
-  Hindustan Zinc also reported its lowest quarterly zinc cost of production, excluding
-  🔗 https://www.livemint.com/companies/company-results/strong-metal-prices-help-hindustan-zinc-kick-off-fy27-on-a-high-note-11784899232233.html
+- AU Small Finance Bank Q1 results 2026: Net profit grows 37% to  ₹796 crore, NII up 32%
+  AU Small Finance Bank's Q1FY27 results revealed a 37% YoY rise in net profit. Despite a slight increase in non-performing assets, the bank demonstrated strong operational performance
+  🔗 https://www.livemint.com/market/stock-market-news/au-small-finance-bank-q1-results-2026-net-profit-grows-37-to-rs-796-crore-nii-up-32-11784970458420.html
+
+- Ashish Kacholia raises stake in this multibagger stock after 200% rally. Do you own?
+   Indo SMC manufactures electrical enclosures and components, reporting a 136% YoY revenue increase to  ₹88.12 crore in Q1 FY27. Ashish
+  🔗 https://www.livemint.com/market/stock-market-news/ashish-kacholia-q1-portfolio-ashish-kacholia-raises-stake-in-multibagger-stock-indo-smc-share-price-after-200-rally-11784966114949.html
 
 - Bharti Airtel Q1 Results 2026 Date: Telecom major to announce June quarter earnings on THIS date | Check details
   Bharti Airtel will announce its Q1 results for June 2026 on August 4. The company's securities trading window closes on July 1,
   🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-q1-results-2026-date-telecom-major-to-announce-june-quarter-earnings-on-this-date-check-details-11784956639019.html
-
-- Stocks to buy under  ₹200: Amid escalation in US-Iran war, Mehul Kothari of Anand Rathi recommends three shares to buy
-  Both Nifty 50 and Sensex fell over 2.5%, marking the worst weekly performance in four months. Analysts suggest a 'Buy on Dips' strategy amidst ongoing volatility.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-amid-escalation-in-us-iran-war-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-11784952030260.html
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 27 July 2026
-  LTM, AU Small Finance Bank, and ITC are stocks to buy on Monday
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-27-july-2026-itc-ltm-au-small-finance-bank-11784951113645.html
-
-- Q1 results 2026: AU Small Finance Bank, IDFC First Bank, Zen Technologies, among companies to announce earnings today
-  25 companies, including AU Small Finance Bank and IDFC First Bank, will report Q1 FY27 earnings. Investors key in on outlook commentary as Indian stocks face pressure.
-  🔗 https://www.livemint.com/market/stock-market-news/q1-results-2026-au-small-finance-bank-idfc-first-bank-zen-technologies-among-companies-to-announce-earnings-today-11784948438496.html
-
-- Mint Explainer | Will Sebi's proposed changes lift the portfolio management industry?
-  Sebi's proposed changes are expected to attract fresh allocations by existing investors and a new class of
-  🔗 https://www.livemint.com/market/explainer-sebi-pms-industry-asset-allocation-india-markets-11784879180387.html
 
 - Enterprise AI focus shifts from coding productivity to business execution: Report
    Enterprises are increasingly shifting their focus from improving developer productivity to accelerating overall business execution, according to a report.
@@ -104,61 +104,73 @@
   The WSJ published a story on July 24, 2026,
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFhZYlFqX1F2Y2F3U0ZEeWV1aXFLRlpxa2ViQ1lNRVE5eXJjeE5lZjh2ZERxNEowVUZDdUdoOWN4eUZxWlVMM2hCQ0xpVUV5OXhwazhnVFFxWjlKaGdJOUtBSXM3OHQ1QVpRa2FYWUVnNHY4aGhuc01nOWVfdmRlMVV6OUF2SFU?oc=5
 
-- Dow drops 500 points as Brent crude surges above $100; Alphabet and Tesla tank: Live updates - CNBC
-  Dow drops 500 points as Brent crude surges above $100; Alphabet
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1vblI0ZnhoVnRkR2FISkRsT3hDd0UzZVhPd1JmaGFldHpEY1BaTl96dmtCcXFvU0ZJdHJ0U3kxS0t6eTY3LUUzTXo5TExReU5IdWJsbVc5Z1pKekJuWVpxZTBkdjc2Tm52b3MxYVRFU0lFTEN3WW9B0gF8QVVfeXFMUHJIVU9pa2lVQ1YxcGVuVXBIbFN4M1JJS1BCQ0dvTklEbmhlYjRrelFmVXNSbXVZLVhBZHVNZjcxZlU1OEtyNU1UaGo1Vjdua1p3MFUxa0dPYlo4ay1HN0k0eXBNcXlfU0ZRX1gtb3dPOXVhbC1IR3RWWlZNZg?oc=5
+- Stock market today: Dow, S&P 500, Nasdaq futures steady from tech rout as new tariffs take effect - Yahoo Finance
+  Stock market today: Dow, S&amp;P 500, Nasdaq futures
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUFYaE1xaFRzalhQdWRXZ1d5dEpsQWlsVzBfS1V6RU52aG5reW8wRnZYdFk0LV93RVdxOFIzYnhteDM5RnBkOURtYWhpWXhJNjVmUkoxczRHVVFnbU1KQzFlaTQ4bVJ2MldmbGhhcU1kY2hIVndoaEY3ZXF1T2xocGM5TkNxM2FsY2hpcXltckJHQ0xSb0Rybm5BamN1Nmpfay1ObzF1d1I?oc=5
 
-- Markets News, July 24, 2026: Major Indexes Close Lower for the Week After Mixed Session on Friday as Chip Stocks Drop - Investopedia
-  Major Indexes Close Lower for the Week After Mixed Session on Friday as Chip Stocks Drop.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2xyYVpYMEsxdHlpNGM5bzRaX2M0dmpQWnpqYnJtaFNHQ29EMW1GVTNfMG5iSjZzSFBBdEdKTFlnTjRMOW13QnhqQXRuM2ZQMEdMbTlxTW53SFJIWmpyam9nYmU2dXg2SFJXWHk1Q05NemM3MkJMTzBsR3VreklFaldXM09HdllYUTVJQmZ6OVk?oc=5
+- S&P 500 closes little changed Friday as Iran fears and chip sell-off weigh down market: Live updates - CNBC
+  S&amp;P 500 closes little changed Friday as Iran fears and chip
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5faUg1R2E2UzRLZjdYMk0wSDJ5UVNTd3FJOGp0RjU0clNleGxKeEhjMUxZV0IyTEpUVHRGZk9iSGIzakRVTU84ZzhGYkxUSExnYVBad2FEbmZQSW5EM1J4LUVrMnZGT1U5Zzhnd2NxYXE2R25yVHNj0gF8QVVfeXFMTWl2WWhNNEUwLTBIc0J0YXFiM2k3N1QtQ0Q2WmRDbEJmTzJIX1dSd2VzTnV3eVNPb1M0ejU2bVI3YUtCT2VGa0t0MVFFUzgwMTdDRndFYUI5QmNVcjNaTkxHNUtaR20wWmpyZkRSVFVBeGFmaUtteUZoVXRncg?oc=5
+
+- A dangerous new phase of war is breaking all the oil market’s constraints - CNN
+  A dangerous new phase of war is breaking all the oil
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQMHJkZHlOcFRGMlNfWFJNbDFPbWpiU3Z2VU55NHVmblozN2NIUEktUUtGYlQ1U1ctTzlXWGphU056ZVVNb3ZaM0NvWlR6R1E0SWdwV3NGZW5Hd1MxamRFdldIVF9hLWg0RW9rSWJ2R1lWQ1ZvQXBvb3V4cG05bWdyUA?oc=5
 
 - Google and Tesla shares plunge as AI spending rattles markets - BBC
   Google and Tesla shares plunge as AI spending
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVzVZQlgwd2o3MkNkSlZlVkVmVmFJU21GTTJOR1g4V3Bwb19TVEZiRUNGc3d5T0g4WkljemsybW5ma3dndEVULTJFZHp4VXFEZUdVdmo4b29VQQ?oc=5
 
-- After OnePlus, Nothing might exit multiple global markets - GSMArena.com news - GSMArena.com
-  After OnePlus, Nothing might exit multiple global markets
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQamJtLW5oWXQzYVV1TGlOVmJrY2tCc0l1NllWWTJOeTUwY0cwVi1EWTNrR0l5LXM4dmRDSGdIQkVfbDhxY2k4MGtEQlBhWXJyeXg4SXdfd0p0WDgwdm5lRWdJWkJUSENnRXYxS29RdjVtMDF3aUcyUUN2Z2dRTEo5NjlacVQ0RnVxcFNYUTROSUdDV1c1czNaOHZzdjbSAZgBQVVfeXFMT3RzeXRiS25vOXA2TmdtWkRFQWN0R3c4SkxrbkhiSG9wTTh1OW5KYkJnU095OTlnN1pjS0F3a3E0dVc1Q3RGUVRyeGd2SkU4Ykx2NnhrRy1SWmp4TUd2LV9ELUNnOVFlMjlGLXJSMXI2ejFDa0RfTkR6bjR0cmc5bmRsSG9Ka1BRRS1JdkdnWkk5QkZPOXlmZ0c?oc=5
+- Violent crypto attacks rise as criminals hunt bigger payouts
+  physical attacks targeting cryptocurrency holders surged 33% globally in the first half of 2026. France emerged as the epicentre as criminals increasingly combined cyber intelligence, social engineering and
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/violent-crypto-attacks-rise-as-criminals-hunt-bigger-payouts/articleshow/132625026.cms
 
-- F&amp;O Talk: Nifty looks weak on chart, says Sudeep Shah; outlines HDFC Bank, Bluestone Strategy after Q1
-  Nifty ended a fifth straight losing session with SBI Securities warning that a break below 23,600 could deepen the correction. Bank Nifty faces key support at 55,800, while
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-looks-weak-on-chart-says-sudeep-shah-outlines-hdfc-bank-bluestone-strategy-after-q1/articleshow/132621304.cms
+- IDFC First Bank Q1 Results: Profit shoots up 132% YoY to record Rs 1,075 crore; NII jumps 21%
+  IDFC First Bank reported its highest-ever quarterly profit after tax (PAT) of Rs 1,075 crore for the quarter ended June 30, 2026. This is a 132.4
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q1-results-profit-shoots-up-132-yoy-to-record-rs-1075-crore-nii-jumps-21/articleshow/132624296.cms
 
-- Buy L&amp;T, Emmvee and RR Kabel once market selloff eases: LKP’s Rupak De
-  Nifty’s fall below its 50-day EMA signals rising bearishness, with 23,600 emerging as crucial support. Rupak De warns a breakdown could trigger sharper selling
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/buy-lt-emmvee-and-rr-kabel-once-market-selloff-eases-lkps-rupak-de/articleshow/132620671.cms
+- Govt of Singapore’s India portfolio: 7 stocks rally up to 135% in CY26
+  The Government of Singapore’s Indian stock portfolio dropped 25% to Rs 1,51,353 crore in June 2026. While top gainer Aditya Inf
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-of-singapores-india-portfolio-7-stocks-rally-up-to-135-in-cy26/slideshow/132623540.cms
 
-- Rajesh Exports, Inox Wind among 10 worst Nifty smallcap 250 performers YTD. Do you own any?
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-inox-wind-among-10-worst-nifty-smallcap-250-performers-ytd-do-you-own-any/slideshow/132620496.cms
+- AU Small Finance Bank Q1 net profit jumps 37% to Rs 796 crore
+  AU Small Finance Bank recorded a 37% surge in Q1 net profit to Rs 796 crore. Gross NPA dropped to 2.1%, while net interest income grew 32
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q1-net-profit-jumps-37-to-rs-796-crore/articleshow/132623086.cms
 
-- Hitachi Energy, Solar Industries among top 10 best midcaps in 2026. Check full list
-  Ten midcap stocks have emerged as 2026's standout performers, delivering gains of 33% to nearly 70%
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-solar-industries-among-top-10-best-midcaps-in-2026-check-full-list/slideshow/132620242.cms
+- NTPC board approves raising up to Rs 12,000 cr via NCD issue
+  NTPC's board approved raising Rs 12,000 crore via non-convertible debentures. The company's group installed capacity grew to 90,904 MW by June 2026.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/ntpc-board-approves-raising-up-to-rs-12000-cr-via-ncd-issue/articleshow/132621832.cms
 
-- 360 ONE's Mayur Patel bets on smallcaps, says midcaps look somewhat expensive
-  360 ONE Asset's Mayur Patel believes smallcaps offer better risk-reward than expensive midcaps. The fund has increased smallcap exposure while selectively trimming largecaps
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/360-ones-mayur-patel-bets-on-smallcaps-says-midcaps-look-somewhat-expensive/articleshow/132620081.cms
-
-- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
-  Indian student protests: What’s next after
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
-
-- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
-  PM Modi Thanks Youngsters For "Insight
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
-
-- ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
-  ‘I will die for this cause’: how India’s cockroach
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPXzZNb3RxSmszZEhza1AyamtTejZ6bDFIN1ZEa3Btc3Vrd29sdGJZVlM2Y1JJdFlLTlFpS1h4UDZXZFRjR1g1bERLWkg0VGdYbjhsbHFTWmNjbDdfdTk4SGU2ZUpuTGc3UEJycHhKa0cybWVzWlo0VEJtSWEtMWY4c1ZkQlctVVlIZ0FwQlk0OXZqbmpyM245VzJJMXhyNGFJU0ctTk5FSHU4eWc4b2NVbFBySkphVDR1NHhfZE1YU19IRnZ1dm5rUk9DSVpzbmZNckxhVkJiSHUwM3J6bEtoNjY0TGt6ZzM5OEl4RFdXQmdkQUZmeWhN?oc=5
+- India’s youth protesters are fighting Modi with irreverent humour and memes - Al Jazeera
+  India’s youth protesters are fighting Modi with
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1VzZ2psdzdxQXBaeTlEcmUtaUJ4Y2hOSFFLRGxaYjIwVTNkbXNVbnUxNm5xZGJaVU94Z1NyblFHOFlzVTR2QTlzWWdjUHFjZVpIUEFtNERoSlYyXzZDbnRwVVZkMmNlakwxODlYT0wwQlpWUWpvWTMwYXNfM21Zc0ZiYnBLVDBiQ180RmZXYV96dWNvbXo5ZWxXRk9oY2pjWmYxNnhkaTdMS1J2RVVvY3k1MnpfZ9IBuwFBVV95cUxQdmltWGxkTzBtX01fWFpwNmV0dUYxZGM4Y0MxYnI4MUpxLWRkZjNoQ0VFZFZjS3Q3enFKTDZGV2NuYlMyT0JzRmRSZF96cVFjRG5kNFNOaExLR2E2YmhHY19hcWduQ19RbEFadnQ2Q1o2VWJGa3JCTGg1UnFjU0pfU2kxOWM3c1dZUDNLSy1NRlo4dzdRRXJOajZ4UjU2eTBaT09vdlhuUU85OFlvdnNmWk5oaE9lSkw5Tldv?oc=5
 
 - Government objects to China illegally occupying Indian territory - The Times of India
   Government objects to China illegally occupying Indian territory.
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
 
-- In Pics: Bengaluru, Chennai, Mumbai, Student Protests Move Beyond Delhi - NDTV
-  Student Protests Move Beyond Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFRqZDZOZWJoVHJMYnBfOXJiYmhJOE1xXzA5Q18wZmN1aG5JOVVNYUZMOUdMVWl6b3Z1SmFMeHVfdGJkMUJ1UWgwLWE0NXBfaEd0aXNsUFpHMVVZVnBScUJtZm44UElFRWZPSU1uLW0tclgzdGltaWRxd3JvcVpSbWJyZ1Q0SGl0cEJ5WlZrZ2lnUUVvNHlXSDRUSUNxWllKa3U5SFA2dzhPTVZhMnkxRVFnRGlJMmFlbENheWxVNDlITkJ4bXkyZ2Y2d012YTdqeS1zZzVlWDBUQdIB4gFBVV95cUxPanJmdWRhcEJqbmFobHpqb3NHR09rdTI2VkRSOFJqdWU2azZmWkJTa3MzWGNQa1ZiX0V2YkZEWFdrc3hkVWlBUmZ0X3ZrcklDMFRoN2RjMDZZeEFnZnVtUmVKN0RhaXczWlFENlZzWWZnT2hPMWVFNHI2TTNJelJSTHhWQUhTbWFrVWhPdkllYTlFaWxuc0E3VFZ5Q29CTjBSZ1k1c2QxMEZEQ2NYR0dTa1NaNXM2czVqQ182V3ZYR1ZaZEVjVmFmcXhQamNLc2VNR2FsMElyckQwckQ4bnhNWUN3?oc=5
+- Indian celebrities fiercely criticised for silence on Cockroach protests - The Guardian
+  Indian celebrities fiercely criticised for silence on Cock
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjNCVE1xb1g4a1BWbmhoNGJER3h5Z3liYm1pcTNHWWcxVTV1SmlGdDhXcUNtNzE5VTh2VnFvTGtIelA3ZzVsVExpelRpVmJTRVJYcExkMmF2S2pTWkc3Z2J1YTNwU0R5UVllQmhMOUx4U21GMXJaX2RlWWswaTVOLU9GWFBVeUJhYjM5VTNJNTF6Q1B5ZjR3ZXgtTko0eGJiVGo4SGhKRmVCd3E4Yjd1bUZSS3o?oc=5
+
+- Dharmendra Pradhan: India's 'cockroach' protesters call off strike as education minister resigns - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5" target="_blank">Dharm
+  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5
+
+- Commonwealth Games: India’s Jhandu Kumar clinches bronze in men’s heavyweight para powerlifting - News On AIR
+  India’s Jhandu Kumar clinches bronze in
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3NnX0FMZnBLSzhaUDhhZHZDTG1lZl9JakFLenRhbWdwenNPMi1pbG1JajZwZlFvdzlYR3p5T1o1T3duT0NvOU81YnVBSUlFV1BQQ1NSanVycjFDeGppSmZZRGlOQm9lT1VUQTA5MndCWmZLNGZuRG1PX2JHU08zUkIyTTJYVUhXbDVrTDRRWGZONUlPaF9tZnktR0xuOWVPUkdEdU9UbXFlY2Rqb1RwbnJXd0lfNzMxM2c?oc=5
+
+- Can Parliamentary Panel’s Latest Recommendations Break Crypto Policy Deadlock?
+  India’s approach towards cryptocurrencies has largely revolved around taxation, anti-money laundering (AML) compliance and transaction reporting.
+  🔗 https://inc42.com/features/can-parliamentary-panels-latest-recommendations-break-crypto-policy-deadlock/
+
+- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
+  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
+  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
+
+- FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
+  The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
+  🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
 
 - From Zetwerk To Veriqus — Indian Startups Raised $209 Mn This Week
   Indian startup funding slowed in the fourth week of July. Between July 18 and July 24, Indian startups cumulatively raised&#8230
@@ -168,57 +180,45 @@
   BSE SME-listed Veefin Solutions has received board approval to raise up to ₹35 Cr via issuance of non-convertible debentures (NC
   🔗 https://inc42.com/buzz/veefin-gets-board-nod-to-raise-%e2%82%b935-cr-debt/
 
-- UPI In June: Navi, super.money Gain Ground As PhonePe, Google Pay Slip Slightly
-  The Unified Payments Interface (UPI) race got more intense in the month of June. Navi, supermoney Gain Ground As PhonePe, Google Pay Slip Slightly.
-  🔗 https://inc42.com/buzz/upi-in-june-navi-super-money-gain-ground-as-phonepe-google-pay-slip-slightly/
-
-- Flipkart, Eight Roads Offload Shadowfax Shares Worth ₹1,654 Cr In Bulk Deal
-  Walmart-owned Flipkart has sold shares worth nearly ₹690 Cr in listed logistics company Shadowfax.
-  🔗 https://inc42.com/buzz/flipkart-eight-roads-offload-shadowfax-shares-worth-%e2%82%b91654-cr-in-bulk-deal/
-
-- Delhi Police Advises App-Based Aggregators To Restrict Services In Central Delhi
-  Delhi Police has requested app-based aggregators to regulate operations around the central city.
-  🔗 https://inc42.com/buzz/delhi-police-advises-app-based-aggregators-to-restrict-services-in-central-delhi/
-
-- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
-  Indian student protests: What’s next after
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
-
-- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
-  PM Modi Thanks Youngsters For "Insight
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
-
-- ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
-  ‘I will die for this cause’: how India’s cockroach
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPXzZNb3RxSmszZEhza1AyamtTejZ6bDFIN1ZEa3Btc3Vrd29sdGJZVlM2Y1JJdFlLTlFpS1h4UDZXZFRjR1g1bERLWkg0VGdYbjhsbHFTWmNjbDdfdTk4SGU2ZUpuTGc3UEJycHhKa0cybWVzWlo0VEJtSWEtMWY4c1ZkQlctVVlIZ0FwQlk0OXZqbmpyM245VzJJMXhyNGFJU0ctTk5FSHU4eWc4b2NVbFBySkphVDR1NHhfZE1YU19IRnZ1dm5rUk9DSVpzbmZNckxhVkJiSHUwM3J6bEtoNjY0TGt6ZzM5OEl4RFdXQmdkQUZmeWhN?oc=5
+- India’s youth protesters are fighting Modi with irreverent humour and memes - Al Jazeera
+  India’s youth protesters are fighting Modi with
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1VzZ2psdzdxQXBaeTlEcmUtaUJ4Y2hOSFFLRGxaYjIwVTNkbXNVbnUxNm5xZGJaVU94Z1NyblFHOFlzVTR2QTlzWWdjUHFjZVpIUEFtNERoSlYyXzZDbnRwVVZkMmNlakwxODlYT0wwQlpWUWpvWTMwYXNfM21Zc0ZiYnBLVDBiQ180RmZXYV96dWNvbXo5ZWxXRk9oY2pjWmYxNnhkaTdMS1J2RVVvY3k1MnpfZ9IBuwFBVV95cUxQdmltWGxkTzBtX01fWFpwNmV0dUYxZGM4Y0MxYnI4MUpxLWRkZjNoQ0VFZFZjS3Q3enFKTDZGV2NuYlMyT0JzRmRSZF96cVFjRG5kNFNOaExLR2E2YmhHY19hcWduQ19RbEFadnQ2Q1o2VWJGa3JCTGg1UnFjU0pfU2kxOWM3c1dZUDNLSy1NRlo4dzdRRXJOajZ4UjU2eTBaT09vdlhuUU85OFlvdnNmWk5oaE9lSkw5Tldv?oc=5
 
 - Government objects to China illegally occupying Indian territory - The Times of India
   Government objects to China illegally occupying Indian territory.
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
 
-- In Pics: Bengaluru, Chennai, Mumbai, Student Protests Move Beyond Delhi - NDTV
-  Student Protests Move Beyond Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFRqZDZOZWJoVHJMYnBfOXJiYmhJOE1xXzA5Q18wZmN1aG5JOVVNYUZMOUdMVWl6b3Z1SmFMeHVfdGJkMUJ1UWgwLWE0NXBfaEd0aXNsUFpHMVVZVnBScUJtZm44UElFRWZPSU1uLW0tclgzdGltaWRxd3JvcVpSbWJyZ1Q0SGl0cEJ5WlZrZ2lnUUVvNHlXSDRUSUNxWllKa3U5SFA2dzhPTVZhMnkxRVFnRGlJMmFlbENheWxVNDlITkJ4bXkyZ2Y2d012YTdqeS1zZzVlWDBUQdIB4gFBVV95cUxPanJmdWRhcEJqbmFobHpqb3NHR09rdTI2VkRSOFJqdWU2azZmWkJTa3MzWGNQa1ZiX0V2YkZEWFdrc3hkVWlBUmZ0X3ZrcklDMFRoN2RjMDZZeEFnZnVtUmVKN0RhaXczWlFENlZzWWZnT2hPMWVFNHI2TTNJelJSTHhWQUhTbWFrVWhPdkllYTlFaWxuc0E3VFZ5Q29CTjBSZ1k1c2QxMEZEQ2NYR0dTa1NaNXM2czVqQ182V3ZYR1ZaZEVjVmFmcXhQamNLc2VNR2FsMElyckQwckQ4bnhNWUN3?oc=5
+- Indian celebrities fiercely criticised for silence on Cockroach protests - The Guardian
+  Indian celebrities fiercely criticised for silence on Cock
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjNCVE1xb1g4a1BWbmhoNGJER3h5Z3liYm1pcTNHWWcxVTV1SmlGdDhXcUNtNzE5VTh2VnFvTGtIelA3ZzVsVExpelRpVmJTRVJYcExkMmF2S2pTWkc3Z2J1YTNwU0R5UVllQmhMOUx4U21GMXJaX2RlWWswaTVOLU9GWFBVeUJhYjM5VTNJNTF6Q1B5ZjR3ZXgtTko0eGJiVGo4SGhKRmVCd3E4Yjd1bUZSS3o?oc=5
 
-- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
-  Indian student protests: What’s next after
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
+- Dharmendra Pradhan: India's 'cockroach' protesters call off strike as education minister resigns - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5" target="_blank">Dharm
+  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5
 
-- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
-  PM Modi Thanks Youngsters For "Insight
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
+- Commonwealth Games: India’s Jhandu Kumar clinches bronze in men’s heavyweight para powerlifting - News On AIR
+  India’s Jhandu Kumar clinches bronze in
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3NnX0FMZnBLSzhaUDhhZHZDTG1lZl9JakFLenRhbWdwenNPMi1pbG1JajZwZlFvdzlYR3p5T1o1T3duT0NvOU81YnVBSUlFV1BQQ1NSanVycjFDeGppSmZZRGlOQm9lT1VUQTA5MndCWmZLNGZuRG1PX2JHU08zUkIyTTJYVUhXbDVrTDRRWGZONUlPaF9tZnktR0xuOWVPUkdEdU9UbXFlY2Rqb1RwbnJXd0lfNzMxM2c?oc=5
 
-- ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
-  ‘I will die for this cause’: how India’s cockroach
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPXzZNb3RxSmszZEhza1AyamtTejZ6bDFIN1ZEa3Btc3Vrd29sdGJZVlM2Y1JJdFlLTlFpS1h4UDZXZFRjR1g1bERLWkg0VGdYbjhsbHFTWmNjbDdfdTk4SGU2ZUpuTGc3UEJycHhKa0cybWVzWlo0VEJtSWEtMWY4c1ZkQlctVVlIZ0FwQlk0OXZqbmpyM245VzJJMXhyNGFJU0ctTk5FSHU4eWc4b2NVbFBySkphVDR1NHhfZE1YU19IRnZ1dm5rUk9DSVpzbmZNckxhVkJiSHUwM3J6bEtoNjY0TGt6ZzM5OEl4RFdXQmdkQUZmeWhN?oc=5
+- India’s youth protesters are fighting Modi with irreverent humour and memes - Al Jazeera
+  India’s youth protesters are fighting Modi with
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1VzZ2psdzdxQXBaeTlEcmUtaUJ4Y2hOSFFLRGxaYjIwVTNkbXNVbnUxNm5xZGJaVU94Z1NyblFHOFlzVTR2QTlzWWdjUHFjZVpIUEFtNERoSlYyXzZDbnRwVVZkMmNlakwxODlYT0wwQlpWUWpvWTMwYXNfM21Zc0ZiYnBLVDBiQ180RmZXYV96dWNvbXo5ZWxXRk9oY2pjWmYxNnhkaTdMS1J2RVVvY3k1MnpfZ9IBuwFBVV95cUxQdmltWGxkTzBtX01fWFpwNmV0dUYxZGM4Y0MxYnI4MUpxLWRkZjNoQ0VFZFZjS3Q3enFKTDZGV2NuYlMyT0JzRmRSZF96cVFjRG5kNFNOaExLR2E2YmhHY19hcWduQ19RbEFadnQ2Q1o2VWJGa3JCTGg1UnFjU0pfU2kxOWM3c1dZUDNLSy1NRlo4dzdRRXJOajZ4UjU2eTBaT09vdlhuUU85OFlvdnNmWk5oaE9lSkw5Tldv?oc=5
 
 - Government objects to China illegally occupying Indian territory - The Times of India
   Government objects to China illegally occupying Indian territory.
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
 
-- In Pics: Bengaluru, Chennai, Mumbai, Student Protests Move Beyond Delhi - NDTV
-  Student Protests Move Beyond Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFRqZDZOZWJoVHJMYnBfOXJiYmhJOE1xXzA5Q18wZmN1aG5JOVVNYUZMOUdMVWl6b3Z1SmFMeHVfdGJkMUJ1UWgwLWE0NXBfaEd0aXNsUFpHMVVZVnBScUJtZm44UElFRWZPSU1uLW0tclgzdGltaWRxd3JvcVpSbWJyZ1Q0SGl0cEJ5WlZrZ2lnUUVvNHlXSDRUSUNxWllKa3U5SFA2dzhPTVZhMnkxRVFnRGlJMmFlbENheWxVNDlITkJ4bXkyZ2Y2d012YTdqeS1zZzVlWDBUQdIB4gFBVV95cUxPanJmdWRhcEJqbmFobHpqb3NHR09rdTI2VkRSOFJqdWU2azZmWkJTa3MzWGNQa1ZiX0V2YkZEWFdrc3hkVWlBUmZ0X3ZrcklDMFRoN2RjMDZZeEFnZnVtUmVKN0RhaXczWlFENlZzWWZnT2hPMWVFNHI2TTNJelJSTHhWQUhTbWFrVWhPdkllYTlFaWxuc0E3VFZ5Q29CTjBSZ1k1c2QxMEZEQ2NYR0dTa1NaNXM2czVqQ182V3ZYR1ZaZEVjVmFmcXhQamNLc2VNR2FsMElyckQwckQ4bnhNWUN3?oc=5
+- Indian celebrities fiercely criticised for silence on Cockroach protests - The Guardian
+  Indian celebrities fiercely criticised for silence on Cock
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjNCVE1xb1g4a1BWbmhoNGJER3h5Z3liYm1pcTNHWWcxVTV1SmlGdDhXcUNtNzE5VTh2VnFvTGtIelA3ZzVsVExpelRpVmJTRVJYcExkMmF2S2pTWkc3Z2J1YTNwU0R5UVllQmhMOUx4U21GMXJaX2RlWWswaTVOLU9GWFBVeUJhYjM5VTNJNTF6Q1B5ZjR3ZXgtTko0eGJiVGo4SGhKRmVCd3E4Yjd1bUZSS3o?oc=5
+
+- Dharmendra Pradhan: India's 'cockroach' protesters call off strike as education minister resigns - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5" target="_blank">Dharm
+  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5
+
+- Commonwealth Games: India’s Jhandu Kumar clinches bronze in men’s heavyweight para powerlifting - News On AIR
+  India’s Jhandu Kumar clinches bronze in
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3NnX0FMZnBLSzhaUDhhZHZDTG1lZl9JakFLenRhbWdwenNPMi1pbG1JajZwZlFvdzlYR3p5T1o1T3duT0NvOU81YnVBSUlFV1BQQ1NSanVycjFDeGppSmZZRGlOQm9lT1VUQTA5MndCWmZLNGZuRG1PX2JHU08zUkIyTTJYVUhXbDVrTDRRWGZONUlPaF9tZnktR0xuOWVPUkdEdU9UbXFlY2Rqb1RwbnJXd0lfNzMxM2c?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-25 08:01:46 UTC_
+_Last updated: 2026-07-25 13:15:05 UTC_
