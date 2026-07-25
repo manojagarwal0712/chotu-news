@@ -1,44 +1,28 @@
 # 📰 Daily News Summaries
 
-- In new late-night video, Modi thanks students for ‘constructive’ responses
+- Mohan Bhagwat: Knowledge on Hindu gods should be part of school textbooks
   
-  🔗 https://indianexpress.com/article/india/narendra-modi-new-video-thanks-students-protest-neet-cjp-10802371/
+  🔗 https://indianexpress.com/article/india/mohan-bhagwat-knowledge-on-hindu-gods-should-be-part-of-school-textbooks-10802530/
 
-- 28 Indian crew members safe after LPG tanker attacked in Iranian waters, Embassy confirms
+- Commercial vessel attacked in Black Sea, Indian killed
   
-  🔗 https://indianexpress.com/article/india/indian-crew-safe-iran-tanker-attack-lpg-tanker-disha-embassy-10802358/
+  🔗 https://indianexpress.com/article/india/commercial-vessel-attacked-in-black-sea-indian-killed-10802474/
 
-- Cargo ship hit in Russian strikes in Black Sea was carrying grain: India
+- India, Romania looking to build comprehensive partnership: MEA on President Murmu’s state visit
   
-  🔗 https://indianexpress.com/article/india/indian-seafarers-killed-odesa-russia-missile-attack-mv-golden-leo-10802340/
+  🔗 https://indianexpress.com/article/india/india-romania-looking-to-build-comprehensive-partnership-mea-on-president-murmus-state-visit-10802481/
 
-- Amit Shah dials family of cop killed in Anantnag terror attack, L-G says ‘courage etched in memory’
+- Bill criminalising insult to Vande Mataram introduced in House
   
-  🔗 https://indianexpress.com/article/india/amit-shah-anantnag-terror-attack-ashiq-hussain-qureshi-family-10802268/
+  🔗 https://indianexpress.com/article/india/bill-criminalising-insult-to-vande-mataram-introduced-in-house-10802490/
 
-- MEA pushes back on Wang Yi’s ‘India respects China sovereignty’ remark attributed to Jaishankar
+- India dismisses Pakistan flood claims, says Chenab water rise due to heavy rain
   
-  🔗 https://indianexpress.com/article/india/delhi-counters-china-jaishankar-wang-yi-sovereignty-claims-manila-meeting-10802229/
+  🔗 https://indianexpress.com/article/india/india-dismisses-pakistan-flood-claims-says-chenab-water-rise-due-to-heavy-rain-10802485/
 
-- Patreon announces 20% layoffs, CEO says AI isn’t the reason
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/patreon-announces-20-layoffs-ceo-says-ai-isnt-the-reason-10802046/
-
-- Anthropic expands Claude voice mode with Opus and Sonnet support, deeper app integration
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropic-expands-claude-voice-mode-with-opus-and-sonnet-support-deeper-app-integration-10802038/
-
-- Google introduces selfie video as a new way to sign in to accounts
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-introduces-selfie-video-as-a-new-way-to-sign-in-to-accounts-10802036/
-
-- Samsung Galaxy Watch Ultra2, Watch9 launched in India: Price, features, offers
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-watch-ultra2-watch9-launched-in-india-price-features-offers-10801791/
-
-- AMD unveils Helios AI rack-scale system to challenge Nvidia’s dominance
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amd-unveils-helios-ai-rack-scale-system-to-challenge-nvidias-dominance-10801446/
+- Paramount agrees to delay closing Warner buyout for months while judge considers states challenge
+   Paramount agrees to delay closing Warner buyout for
+  🔗 https://www.livemint.com/companies/paramount-agrees-to-delay-closing-warner-buyout-for-months-while-judge-considers-states-challenge-11784926052342.html
 
 - Ex-VW Engineers Charged With Insider Trading on Rivian Venture
   Two former Volkswagen engineers were arrested for insider trading. They placed bets ahead of the German carmaker’s announcement of a $5
@@ -56,9 +40,9 @@
   Hindustan Zinc also reported its lowest quarterly zinc cost of production, excluding
   🔗 https://www.livemint.com/companies/company-results/strong-metal-prices-help-hindustan-zinc-kick-off-fy27-on-a-high-note-11784899232233.html
 
-- Amber Enterprises-owned IL JIN Electronics picks bankers for  ₹3,500 crore IPO
-  IL JIN Electronics is expected to file its draft papers soon and is targeting a
-  🔗 https://www.livemint.com/companies/news/il-jin-electronics-ipo-amber-enterprises-electronics-manufacturing-11784890765781.html
+- Mint Explainer | Will Sebi's proposed changes lift the portfolio management industry?
+  Sebi's proposed changes are expected to attract fresh allocations by existing investors and a new class of
+  🔗 https://www.livemint.com/market/explainer-sebi-pms-industry-asset-allocation-india-markets-11784879180387.html
 
 - Yields ease, but Iran war keeps rate-hike bets alive
   U.S. Treas
@@ -76,9 +60,9 @@
   Total card spending, or billed business, climbed 9% year over year to $455.8 billion. Quarterly revenue also rose 10
   🔗 https://www.livemint.com/market/stock-market-news/american-express-shares-tumble-despite-robust-earnings-higher-revenue-outlook-as-rising-costs-weigh-on-sentiment-11784911236359.html
 
-- Small-cap Orient Technologies shares to be in focus on Monday after  ₹76 crore NPCI order
-  Orient Technologies is set to gain attention after receiving a  ₹76.2 crore order from NPCI for server supply. This contract strengthens its capabilities in enterprise infrastructure.
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-orient-technologies-shares-to-be-in-focus-on-monday-after-rs-76-crore-npci-order-11784912944950.html
+- Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week
+  OpenAI's AI agent spent days hacking a company, but sources
+  🔗 https://www.livemint.com/technology/its-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week-11784931233058.html
 
 - Anthropic launches Opus 5 AI model at half-price of Fable 5 — What we know about the efficiency upgrade
   Anthropic launched Opus 5, an AI model priced lower than Fable 5, aimed at daily tasks, as part of its efficiency upgrade.
@@ -96,29 +80,9 @@
   Investors focus on rising credit risks linked to massive spending by major US technology companies. Jefferies report said hyperscalers are increasingly relying on debt to finance AI investments.
   🔗 https://www.livemint.com/technology/ai-investment-boom-faces-growing-credit-risks-as-hyperscalers-ramp-up-debt-jefferies-11784873184404.html
 
-- Nvidia CEO Huang says ‘Taiwan saved the American semiconductor industry’, and without it, Japan could have taken over
-  Taiwanese companies' choices stemmed from strategic business judgment and long-
-  🔗 https://www.livemint.com/technology/tech-news/nvidia-ceo-huang-says-taiwan-saved-the-american-semiconductor-industry-and-without-it-japan-could-have-taken-over-11784813620870.html
-
-- Stock Market Today: Dow Opens Higher, What to Watch — Live Updates - WSJ
-  The Dow opened higher on Friday. The S&amp;P 500 turned red late into Friday's session on Iran angst.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFhZYlFqX1F2Y2F3U0ZEeWV1aXFLRlpxa2ViQ1lNRVE5eXJjeE5lZjh2ZERxNEowVUZDdUdoOWN4eUZxWlVMM2hCQ0xpVUV5OXhwazhnVFFxWjlKaGdJOUtBSXM3OHQ1QVpRa2FYWUVnNHY4aGhuc01nOWVfdmRlMVV6OUF2SFU?oc=5
-
-- Megacap earnings and Fed meeting could test a market on edge next week. Here’s what’s ahead - CNBC
-  Megacap earnings and Fed meeting could test a market on edge next
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXlwQWhvbTBvQm9yWGd6cEJ1dWpnSEt2X1JxS0Jka1FsYU4tU1NFNS15UTh6R25od2taMzhEMjRfMzk2TkVkVElBSC11dU5TUDA4Q0swWXlHNGZwZnBYenNQVHNRV0VEd0J5VXBxeUxCTkZHb0MyaW5hNXRQdXdGVDFVa3BaUzdYNlUyQVRkQks?oc=5
-
-- Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil' - CNBC
-  &nbsp;&ngt;& nbsp;
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1ptS092RkJxU29IclRfcjFBSXRvVG9FUTkzczY1b2FMX3RsUXU3UDBDQkRfbDlpYlJFMkw0WWptTlVROTkyb2hFdmhISUt3NkNMWVo0akp2S3M3N09rdmxtT2g0UVJDZjZ6TGZzS2Uyd3R3UXUxb05vMmh4cVlFa2pNaWdGQVh6aFExUHFlRU1nZjgyZnB4X3lOZi1JUHV3bjFUdmZPSUfSAa4BQVVfeXFMTkJKZWktbHlRSXpmN1NqUkc5RzFtM0lFeXlsRVBuRlJGR3N1T2VmblFvdDRDNnN4a0xSdE83NlRjTUlicmtpX1JUMzVkejctVTJ1TjdTQ09Eb0xJMjNsclBad2JuX1pMcGs1UEE1ekR0YUNMMGt2UXBTcmxWQmNoRVhleTREMHFOU2ttMHdKVDJxclNYcXZnWkhEeGxtd3RvYkgtTGlBVG9tUWNDd3J3?oc=5
-
-- A dangerous new phase of war is breaking all the oil market’s constraints - CNN
-  A dangerous new phase of war is breaking all the oil
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQMHJkZHlOcFRGMlNfWFJNbDFPbWpiU3Z2VU55NHVmblozN2NIUEktUUtGYlQ1U1ctTzlXWGphU056ZVVNb3ZaM0NvWlR6R1E0SWdwV3NGZW5Hd1MxamRFdldIVF9hLWg0RW9rSWJ2R1lWQ1ZvQXBvb3V4cG05bWdyUA?oc=5
-
-- Stocks rise on Wall Street while crude oil prices fall for the first time in a week - AP News
-  Stocks rise on Wall Street while crude oil prices fall for the first time in
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmlYckVuYk1wbnBDMUZSaV9xY3Jha2ktXzUyYzV2VjA4UWJ3ZEdpSHFoNXU0QVdmMUFZR0xSaGc5ZjZJc1JQVzBkNU03SkJ0YXJhTFl4YTZZcVd5N1luLVZRNTlUXzkyLVQ1SzhmcGdvQWd3MzBNY014bS1JdHBVWTJlX25PendGZ3pPY0IyYTJQeVA1WTNqdUlkOA?oc=5
+- US stocks today: Nasdaq lags on angst over AI spending ahead of earnings reports
+  The Nasdaq declined on chip stock weakness driven by concerns over heavy AI spending. Falling oil prices offered support, though geopolitical tensions and tariff developments kept investor sentiment cautious ahead of major tech earnings.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-lags-on-angst-over-ai-spending-ahead-of-earnings-reports/articleshow/132614541.cms
 
 - American Express Q2 profit rises driven by higher spending and fewer delinquencies
   American Express has indicated an impressive eight percent growth in profit during the second quarter. The surge in sign-ups for the company's premium offerings showcases their effective customer acquisition strategies.
@@ -136,9 +100,29 @@
   Lodha Developers reported a remarkable 100% increase in net profit for the first quarter. Total income has significantly outperformed the same quarter last year, marking the highest quarterly profit in the company's history.
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-q1-results-profit-jumps-2-fold-to-rs-1373-crore/articleshow/132607903.cms
 
-- V-Mart Retail Q1 Results: Profit surges 40% to Rs 47 crore
-  V-Mart Retail has reported an impressive 40.5% increase in net profit for the June quarter. Revenue from operations surged by 23% to Rs 1,088.81 crore, while total expenses grew by 22%. The company has
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/v-mart-retail-q1-results-profit-surges-40-to-rs-47-crore/articleshow/132607877.cms
+- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
+  Indian student protests: What’s next after
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
+
+- Young India is Angry, and Much of its Rage is Directed Towards the Mainstream Media - TheWire.in
+  Young India is Angry, and Much of its Rage is Directed
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2xGMHBHbWN5TUtFd3NFNnhMVWJueE9UQnQzWmZ0YW9wLVFjOGlLTE5jOW00Vm9oNnhSOHlzXy1TRUtIM1JBcG1NZFlfbEkxRV9uRE5sUVg5dkhTM1V3b2o3ZjZya3RmeHptMElkcXhvR3kzMTlBTExITXRBQ1YyVDBYQWk4LUNaam03OE05ajVCdW_SAZgBQVVfeXFMTVZ0ODZ2TUhCc3lNTzQ3RDliV2x2YlhoMTk1WUR5Z1VtdXgtTFhmcTIyOGxVUmFaQmRoXzJUYWIzUndESEU2eHNoMjBzRDRXZ0gwM3hnTmF4Qk8wUGZQS1pUbnItZ0t6SUt6OWUtUVJRZ2Z4dmNWd2pQNGFGRU5aUTYwb215NmFRVTZ0U1F6VHFQWUJpUzQ3MjI?oc=5
+
+- Commonwealth Games: India’s Jhandu Kumar clinches bronze in men’s heavyweight para powerlifting - News On AIR
+  India’s Jhandu Kumar clinches bronze in
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3NnX0FMZnBLSzhaUDhhZHZDTG1lZl9JakFLenRhbWdwenNPMi1pbG1JajZwZlFvdzlYR3p5T1o1T3duT0NvOU81YnVBSUlFV1BQQ1NSanVycjFDeGppSmZZRGlOQm9lT1VUQTA5MndCWmZLNGZuRG1PX2JHU08zUkIyTTJYVUhXbDVrTDRRWGZONUlPaF9tZnktR0xuOWVPUkdEdU9UbXFlY2Rqb1RwbnJXd0lfNzMxM2c?oc=5
+
+- Government objects to China illegally occupying Indian territory - The Times of India
+  Government objects to China illegally occupying Indian territory.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
+
+- India lands at 10% under US forced-labour tariff, escapes steeper 12.5% | India News - Hindustan Times
+  India lands at 10% under US forced-labour tariff,
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWxMRG1Uc3lmbHRjYjRZMXhLNThlS0wycHpOSEQxc1JuVEtERmg3d1dsM1dPYTc1TVdOTTBSVlZUdGR1RlFHa3g5T01QNHRBVWxVaV9IOExjeG9jU2U4VE45ZXFwN3A5UzE4YThNdy1SSkdlM3c3cVJjOVF5S3NBclFXbXNxRnJ3QWdUaUNXdXhTMVRpRkZ6QnVDcmJ6SU0zSUZyR1dDTDVONFFuZGFXSkhXcVZnaE1oQW5tOXBhU2xsSjRZZXRSbjZB0gHPAUFVX3lxTE5fZDY4V2RMUmVJTGVoQ055UnJKbG1zQ09WZEQzc1Zxemg4SFVHRjEzbHBFQjlpejVxTFFUTVJQZlBNNHVaLVRNODF0WGVrRndMYTUxcFNITDU4S00tT1VWLW5DXzJoa19OeWJoU1pLXzdrYVdJbTJ6UUFQelVZWHdrRjQ5OTRXSHRmQk9fRmx5dWNkWFRQcUVndnlpY21tYlFnZUpiWkRKNWpNdjhUWVFldV9lelVydWE4ZUMyTmlWSGtSY1ZXQ2RwRVNoZzhBcw?oc=5
+
+- Veefin Gets Board Nod To Raise ₹35 Cr Debt
+  BSE SME-listed Veefin Solutions has received board approval to raise up to ₹35 Cr via issuance of non-convertible debentures (NC
+  🔗 https://inc42.com/buzz/veefin-gets-board-nod-to-raise-%e2%82%b935-cr-debt/
 
 - UPI In June: Navi, super.money Gain Ground As PhonePe, Google Pay Slip Slightly
   The Unified Payments Interface (UPI) race got more intense in the month of June. Navi, supermoney Gain Ground As PhonePe, Google Pay Slip Slightly.
@@ -156,49 +140,65 @@
   More than 35% of Swiggy’s transacting users used multiple offerings on its platform during the financial year 2025-26.
   🔗 https://inc42.com/buzz/over-35-of-swiggy-users-try-multiple-services-but-order-frequency-slips/
 
-- D2CX Converge Indore Decodes The New Playbook For Building Enduring Consumer Brands
-  India&#8217;s consumer brand ecosystem is entering a new phase, where scale is no longer measured by online reach alone.
-  🔗 https://inc42.com/buzz/d2cx-converge-indore-decodes-the-new-playbook-for-building-enduring-consumer-brands/
+- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
+  Indian student protests: What’s next after
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Young India is Angry, and Much of its Rage is Directed Towards the Mainstream Media - TheWire.in
+  Young India is Angry, and Much of its Rage is Directed
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2xGMHBHbWN5TUtFd3NFNnhMVWJueE9UQnQzWmZ0YW9wLVFjOGlLTE5jOW00Vm9oNnhSOHlzXy1TRUtIM1JBcG1NZFlfbEkxRV9uRE5sUVg5dkhTM1V3b2o3ZjZya3RmeHptMElkcXhvR3kzMTlBTExITXRBQ1YyVDBYQWk4LUNaam03OE05ajVCdW_SAZgBQVVfeXFMTVZ0ODZ2TUhCc3lNTzQ3RDliV2x2YlhoMTk1WUR5Z1VtdXgtTFhmcTIyOGxVUmFaQmRoXzJUYWIzUndESEU2eHNoMjBzRDRXZ0gwM3hnTmF4Qk8wUGZQS1pUbnItZ0t6SUt6OWUtUVJRZ2Z4dmNWd2pQNGFGRU5aUTYwb215NmFRVTZ0U1F6VHFQWUJpUzQ3MjI?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Commonwealth Games: India’s Jhandu Kumar clinches bronze in men’s heavyweight para powerlifting - News On AIR
+  India’s Jhandu Kumar clinches bronze in
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3NnX0FMZnBLSzhaUDhhZHZDTG1lZl9JakFLenRhbWdwenNPMi1pbG1JajZwZlFvdzlYR3p5T1o1T3duT0NvOU81YnVBSUlFV1BQQ1NSanVycjFDeGppSmZZRGlOQm9lT1VUQTA5MndCWmZLNGZuRG1PX2JHU08zUkIyTTJYVUhXbDVrTDRRWGZONUlPaF9tZnktR0xuOWVPUkdEdU9UbXFlY2Rqb1RwbnJXd0lfNzMxM2c?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Government objects to China illegally occupying Indian territory - The Times of India
+  Government objects to China illegally occupying Indian territory.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India lands at 10% under US forced-labour tariff, escapes steeper 12.5% | India News - Hindustan Times
+  India lands at 10% under US forced-labour tariff,
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWxMRG1Uc3lmbHRjYjRZMXhLNThlS0wycHpOSEQxc1JuVEtERmg3d1dsM1dPYTc1TVdOTTBSVlZUdGR1RlFHa3g5T01QNHRBVWxVaV9IOExjeG9jU2U4VE45ZXFwN3A5UzE4YThNdy1SSkdlM3c3cVJjOVF5S3NBclFXbXNxRnJ3QWdUaUNXdXhTMVRpRkZ6QnVDcmJ6SU0zSUZyR1dDTDVONFFuZGFXSkhXcVZnaE1oQW5tOXBhU2xsSjRZZXRSbjZB0gHPAUFVX3lxTE5fZDY4V2RMUmVJTGVoQ055UnJKbG1zQ09WZEQzc1Zxemg4SFVHRjEzbHBFQjlpejVxTFFUTVJQZlBNNHVaLVRNODF0WGVrRndMYTUxcFNITDU4S00tT1VWLW5DXzJoa19OeWJoU1pLXzdrYVdJbTJ6UUFQelVZWHdrRjQ5OTRXSHRmQk9fRmx5dWNkWFRQcUVndnlpY21tYlFnZUpiWkRKNWpNdjhUWVFldV9lelVydWE4ZUMyTmlWSGtSY1ZXQ2RwRVNoZzhBcw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
+  Indian student protests: What’s next after
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
 
-- Japan’s AI gamble: Can technology offset the cost of an ageing society? - Al Jazeera
-  Aims to use artificial intelligence in Japan to
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNcy1QZlNPT25mbzZOU2h5NG1VWTRYV0xUSVJyMG5Ibmp4dHRCVjZpSzl6YnQzbmJjTk9wZ3h4dnI3eWV5TXNmVUg3SVpJa1BPZUFDNEUwQzFZUkNYMTFacEd1SUVtTk5BcXBaRzVnR1o1R1lPc0Q1R2pIeXlUQlU1Zl9XQ2JMNzZybHZfSkJvTTFqVDBMR1ZRTFZJUHQ4bXJ5NUNmU09Tb2w4bHh6c0NFTzZ30gG3AUFVX3lxTE9kY0VPVEo4MEhQdjZkSzkxZ09vT1dhbXBRWGVtSDFrMFp0c2piU3N1UDNJUjdIXzRxZlI4cW85b3hiX0NJWWlVcVNndnlPOWV3QzlOUXBNRFlSd1pjSXBWV0hiNHg2bElnd2tqNU9hakdncEpCX0FUY1VvTUVuNGRKT182UmRuZjExcnVZazZTS0hJNDV3MEh0ZGdxdHpnVnRwNDZJNElqRWt3dUx5UjNfUGJzNWUxdw?oc=5
+- Young India is Angry, and Much of its Rage is Directed Towards the Mainstream Media - TheWire.in
+  Young India is Angry, and Much of its Rage is Directed
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2xGMHBHbWN5TUtFd3NFNnhMVWJueE9UQnQzWmZ0YW9wLVFjOGlLTE5jOW00Vm9oNnhSOHlzXy1TRUtIM1JBcG1NZFlfbEkxRV9uRE5sUVg5dkhTM1V3b2o3ZjZya3RmeHptMElkcXhvR3kzMTlBTExITXRBQ1YyVDBYQWk4LUNaam03OE05ajVCdW_SAZgBQVVfeXFMTVZ0ODZ2TUhCc3lNTzQ3RDliV2x2YlhoMTk1WUR5Z1VtdXgtTFhmcTIyOGxVUmFaQmRoXzJUYWIzUndESEU2eHNoMjBzRDRXZ0gwM3hnTmF4Qk8wUGZQS1pUbnItZ0t6SUt6OWUtUVJRZ2Z4dmNWd2pQNGFGRU5aUTYwb215NmFRVTZ0U1F6VHFQWUJpUzQ3MjI?oc=5
 
-- Open Weights and American AI Leadership - Microsoft
-  Microsoft is
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxQczZlRzdBN2sxLXp1U2Z6NnZ2elpFak1wSTUxOW5wbkNWdE5hWGp5WHJaSWJxR29rYnBXZ2hSWUNfMExHMi1Xc00zRXZJM0k3OTdhOGdDREhjYmdRR25SUUNTcGN3bXJBOVdadWtyXzRpdE9zWHlES3VNakFpbWpGb2x3?oc=5
+- Commonwealth Games: India’s Jhandu Kumar clinches bronze in men’s heavyweight para powerlifting - News On AIR
+  India’s Jhandu Kumar clinches bronze in
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3NnX0FMZnBLSzhaUDhhZHZDTG1lZl9JakFLenRhbWdwenNPMi1pbG1JajZwZlFvdzlYR3p5T1o1T3duT0NvOU81YnVBSUlFV1BQQ1NSanVycjFDeGppSmZZRGlOQm9lT1VUQTA5MndCWmZLNGZuRG1PX2JHU08zUkIyTTJYVUhXbDVrTDRRWGZONUlPaF9tZnktR0xuOWVPUkdEdU9UbXFlY2Rqb1RwbnJXd0lfNzMxM2c?oc=5
 
-- Understanding the AI economy - blog.google
-  
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOZkpKT0hTY0xtSDZVSjQ5TUNZQ1E1OHd0UWhIMERIemFsY3ljOGxmNDQ4ZDRhVWpzR3B0UFRENEZtZFVReU9HT0pXbDlfQ1AySWpOaVE3bjRRLVJrcnlwZXRVTllGV2x6LVZoVkFERFJsUVNVVDVpbW5MMkc2cnVBWkdYX1pLNEFKZlpZdzVENG4?oc=5
+- Government objects to China illegally occupying Indian territory - The Times of India
+  Government objects to China illegally occupying Indian territory.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
 
-- Technology-driven policing key to tackling cyber crime, says Telangana DGP C.V. Anand - The Hindu
-  Technology-driven policing key to tackling cyber crime, says
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMW1FelM1UWpVRTBIXzV0NnN0X1A2Sm01aUhUYkhSQ2tjZTltVVEwWm9hbU9iNjdnOEg2M1pjT1pnNHlqWERQMEVMSTNfeE1kaVVBQnlEX1g1NHlsVWNySlZKZVJ3SDBuOVluM0RkakVBNmMtR0w4a0xodW0tMXJXRFRIOEo0VGZmemZ3bnZXNklXSVEtbzMyVkM3dW8zODZhNGhITFJ4MXFja29ac2lXM2lQOHpxUC1SZW9sVllmbmpZYkZ4UXV0MXVvUDRsd1lvU1NkNEp5TzJvbkx1VEJOWWN3TTk3UdIB7AFBVV95cUxOVEt3cnljQ0pOUC0tYU43cnJqU3NOTDVQbVltVklNZmVXbDJlMFNudWgyQXB3RFNxLVZIc2tpSlhLVUNDci04d2lsWDZqQWRfTi1VWHBoaDRXcUdadjcwTXE4eVFHVUgyMVZRa0ZCQU5MMF9yc1BWVkszNU03Xy1MTU9uQlVZanFSdFlzdHpqMzZRR0VpTHhVSTJWVHdWLV9kejhNWHFKT2FVSEtKQ0Rwd2h3a0xOZDhlZDF4UjBLT25qMU5hWmZ2a2RjVG5qVmNZamdYY3VoUGd6LS1aUHN5bGJEaWdmanJCOHppag?oc=5
+- India lands at 10% under US forced-labour tariff, escapes steeper 12.5% | India News - Hindustan Times
+  India lands at 10% under US forced-labour tariff,
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWxMRG1Uc3lmbHRjYjRZMXhLNThlS0wycHpOSEQxc1JuVEtERmg3d1dsM1dPYTc1TVdOTTBSVlZUdGR1RlFHa3g5T01QNHRBVWxVaV9IOExjeG9jU2U4VE45ZXFwN3A5UzE4YThNdy1SSkdlM3c3cVJjOVF5S3NBclFXbXNxRnJ3QWdUaUNXdXhTMVRpRkZ6QnVDcmJ6SU0zSUZyR1dDTDVONFFuZGFXSkhXcVZnaE1oQW5tOXBhU2xsSjRZZXRSbjZB0gHPAUFVX3lxTE5fZDY4V2RMUmVJTGVoQ055UnJKbG1zQ09WZEQzc1Zxemg4SFVHRjEzbHBFQjlpejVxTFFUTVJQZlBNNHVaLVRNODF0WGVrRndMYTUxcFNITDU4S00tT1VWLW5DXzJoa19OeWJoU1pLXzdrYVdJbTJ6UUFQelVZWHdrRjQ5OTRXSHRmQk9fRmx5dWNkWFRQcUVndnlpY21tYlFnZUpiWkRKNWpNdjhUWVFldV9lelVydWE4ZUMyTmlWSGtSY1ZXQ2RwRVNoZzhBcw?oc=5
 
-- Offence Under Section 66 Information Technology Act Is Bailable : Supreme Court Overrules HC View - Live Law
-  The Supreme Court has ruled that it is illegal to use the internet to
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOczM2UVo2bEp6WW5McncyN1Z4M3hEX2luSVZ2dGE5V2hwc2NDcTdYWmNsYzJQaXVuOFhsRWJLWVhCV3VHbUZ5YW1kOUNNNVdWNy1kc1NuaHF5aEJPX0pPNUJrN040V3YwaUtWQzZOTGd1bkY2MVROeklTdkVFTU1KSnNBclhHM3BrX2lvd3d0RkcwYnJTQXN6dV81N25qWmI1LVdBZndZTWdrMXZheWlkeV9Dd0J3RWlJV2p4NEpuS1lIc0RBUVVCN0xDVk9qeGt3RDNmZFln0gHbAUFVX3lxTE5vdWFSSFRlQmJMeHNiMmNkbGh1T1hlUURzQzJXTi1QTXVZSDNyU3FEN1ZUOFlvZ2dBeTRmdnluZDVadl9NRUZHWFNyQ090b0R2Z0diWGlNQVlwOUg3VlVPNUZ1SUNwZE51WGRrc1hsVXFWVHJISjNnMXd2S2VjRWNaX2NyQXdhQlVXeHB0WnRMd29GZVBBUjFfTWFqM2hodWZ1LXpid0J0WmdrREVlOUtBcGZzT1hwZjAxSWN6c2RQNjFLc25FYnJUSnpaTTA1bzltWmJRYTZQdk1ldw?oc=5
+- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
+  Indian student protests: What’s next after
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
+
+- Young India is Angry, and Much of its Rage is Directed Towards the Mainstream Media - TheWire.in
+  Young India is Angry, and Much of its Rage is Directed
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2xGMHBHbWN5TUtFd3NFNnhMVWJueE9UQnQzWmZ0YW9wLVFjOGlLTE5jOW00Vm9oNnhSOHlzXy1TRUtIM1JBcG1NZFlfbEkxRV9uRE5sUVg5dkhTM1V3b2o3ZjZya3RmeHptMElkcXhvR3kzMTlBTExITXRBQ1YyVDBYQWk4LUNaam03OE05ajVCdW_SAZgBQVVfeXFMTVZ0ODZ2TUhCc3lNTzQ3RDliV2x2YlhoMTk1WUR5Z1VtdXgtTFhmcTIyOGxVUmFaQmRoXzJUYWIzUndESEU2eHNoMjBzRDRXZ0gwM3hnTmF4Qk8wUGZQS1pUbnItZ0t6SUt6OWUtUVJRZ2Z4dmNWd2pQNGFGRU5aUTYwb215NmFRVTZ0U1F6VHFQWUJpUzQ3MjI?oc=5
+
+- Commonwealth Games: India’s Jhandu Kumar clinches bronze in men’s heavyweight para powerlifting - News On AIR
+  India’s Jhandu Kumar clinches bronze in
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3NnX0FMZnBLSzhaUDhhZHZDTG1lZl9JakFLenRhbWdwenNPMi1pbG1JajZwZlFvdzlYR3p5T1o1T3duT0NvOU81YnVBSUlFV1BQQ1NSanVycjFDeGppSmZZRGlOQm9lT1VUQTA5MndCWmZLNGZuRG1PX2JHU08zUkIyTTJYVUhXbDVrTDRRWGZONUlPaF9tZnktR0xuOWVPUkdEdU9UbXFlY2Rqb1RwbnJXd0lfNzMxM2c?oc=5
+
+- Government objects to China illegally occupying Indian territory - The Times of India
+  Government objects to China illegally occupying Indian territory.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
+
+- India lands at 10% under US forced-labour tariff, escapes steeper 12.5% | India News - Hindustan Times
+  India lands at 10% under US forced-labour tariff,
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWxMRG1Uc3lmbHRjYjRZMXhLNThlS0wycHpOSEQxc1JuVEtERmg3d1dsM1dPYTc1TVdOTTBSVlZUdGR1RlFHa3g5T01QNHRBVWxVaV9IOExjeG9jU2U4VE45ZXFwN3A5UzE4YThNdy1SSkdlM3c3cVJjOVF5S3NBclFXbXNxRnJ3QWdUaUNXdXhTMVRpRkZ6QnVDcmJ6SU0zSUZyR1dDTDVONFFuZGFXSkhXcVZnaE1oQW5tOXBhU2xsSjRZZXRSbjZB0gHPAUFVX3lxTE5fZDY4V2RMUmVJTGVoQ055UnJKbG1zQ09WZEQzc1Zxemg4SFVHRjEzbHBFQjlpejVxTFFUTVJQZlBNNHVaLVRNODF0WGVrRndMYTUxcFNITDU4S00tT1VWLW5DXzJoa19OeWJoU1pLXzdrYVdJbTJ6UUFQelVZWHdrRjQ5OTRXSHRmQk9fRmx5dWNkWFRQcUVndnlpY21tYlFnZUpiWkRKNWpNdjhUWVFldV9lelVydWE4ZUMyTmlWSGtSY1ZXQ2RwRVNoZzhBcw?oc=5
 
 
-_Last updated: 2026-07-24 19:20:30 UTC_
+_Last updated: 2026-07-25 02:10:27 UTC_
