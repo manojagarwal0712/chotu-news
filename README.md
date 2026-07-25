@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- CBI arrests 3 railway officials in bribery cases across Mumbai, Varanasi and Howrah
+- Assam Police arrest six over Guwahati protest backing Delhi demonstration; over two dozen detained
   
-  🔗 https://indianexpress.com/article/india/cbi-arrests-railway-officials-irctc-staff-bribery-cases-72-hours-10803403/
+  🔗 https://indianexpress.com/article/india/guwahati-protest-sfi-jantar-mantar-dispur-police-arrests-bns-charges-10803645/
 
-- Indian Railways to start train services from new platform 24 at Howrah station on July 27
+- 5 key moments from the CJP protest that shook the nation & forced a minister’s resignation
   
-  🔗 https://indianexpress.com/article/india/indian-railways-howrah-station-platform-24-train-services-july-27-10803132/
+  🔗 https://indianexpress.com/article/india/cjp-protest-timeline-five-key-moments-dharmendra-pradhan-resignation-10803274/
 
-- Our fight will go on, PM Modi must apologise, says Rahul Gandhi
+- Pralhad Joshi to take charge as education minister after Dharmendra Pradhan resigns
   
-  🔗 https://indianexpress.com/article/india/opposition-reacts-dharmendra-pradhan-resigns-kejriwal-kharge-congress-cjp-protest-modi-10803177/
+  🔗 https://indianexpress.com/article/india/pralhad-joshi-new-education-minister-dharmendra-pradhan-resignation-accepted-cjp-10803556/
 
-- Full text of Dharmendra Pradhan’s resignation letter to PM Modi: ‘Took responsibility, never turned my back’
+- NEET leak protest: Vandalism and arson reported in Bihar; Tejashwi alleges police fired AK-47s at students
   
-  🔗 https://indianexpress.com/article/india/dharmendra-pradhan-resignation-to-pm-modi-letter-full-text-10803197/
+  🔗 https://indianexpress.com/article/india/bihar-bandh-neet-paper-leak-protests-clashes-dharmendra-pradhan-resignation-10803512/
 
-- ‘Cockroaches won, democracy won’: CJP on Dharmendra Pradhan’s resignation
+- Delhi Police action against Jantar Mantar protesters was less: Rajasthan education minister’s latest
   
-  🔗 https://indianexpress.com/article/india/dharmendra-pradhan-resignation-cockroach-janta-party-abhijeet-dipke-reacts-cjp-10803174/
+  🔗 https://indianexpress.com/article/india/rajasthan-minister-madan-dilawar-defends-delhi-police-cjp-protest-neet-paper-leak-10803459/
 
 - Why Nvidia, Microsoft and Meta want the US to support open-weight AI
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-ai-muse-spark-1-1-new-features-10802642/
 
+- Apple’s China chip gamble: Is it ready to bet on Pentagon-blacklisted CXMT and YMTC to win the AI race?
+  The AI revolution has driven a surge in demand for memory chips. Apple is seeking to secure supply from Chinese firms CXMT and YM
+  🔗 https://www.livemint.com/companies/news/apples-china-chip-gamble-is-it-ready-to-bet-on-pentagon-blacklisted-cxmt-and-ymtc-to-win-the-ai-race-11784993303522.html
+
 - Qualcomm plans to hike smartphone processor prices by double digits — Who will be impacted?
   Qualcomm plans to raise smartphone processor prices by double digits to address rising supplier costs
   🔗 https://www.livemint.com/companies/news/qualcomm-plans-to-hike-smartphone-processor-prices-by-double-digits-who-will-be-impacted-11784984193938.html
@@ -56,9 +60,13 @@
    Paramount agrees to delay closing Warner buyout for
   🔗 https://www.livemint.com/companies/paramount-agrees-to-delay-closing-warner-buyout-for-months-while-judge-considers-states-challenge-11784926052342.html
 
-- Ex-VW Engineers Charged With Insider Trading on Rivian Venture
-  Two former Volkswagen engineers were arrested for insider trading. They placed bets ahead of the German carmaker’s announcement of a $5
-  🔗 https://www.livemint.com/companies/exvw-engineers-charged-with-insider-trading-on-rivian-venture-11784918722725.html
+- Gold Edges Up as Traders Weigh Mideast Conflict, Fed Rate Path
+  Gold holds firmly above the key resistance point of $4,000 an ounce. The widening conflict in the Middle East fuels
+  🔗 https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-fed-rate-path-11785004100660.html
+
+- Metals Fluctuate as Middle East Escalation Keeps Bulls in Check
+  Base metals fluctuated at the end of the week as the threat of an escalating conflict in the Middle East — and more turbulence for the global economy
+  🔗 https://www.livemint.com/market/metals-fluctuate-as-middle-east-escalation-keeps-bulls-in-check-11784986837407.html
 
 - Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly
   Big Tech’s insatiable appetite for AI investment is unleashing a relentless wave of bond sales. It is having a
@@ -72,13 +80,9 @@
   AU Small Finance Bank's Q1FY27 results revealed a 37% YoY rise in net profit. Despite a slight increase in non-performing assets, the bank demonstrated strong operational performance
   🔗 https://www.livemint.com/market/stock-market-news/au-small-finance-bank-q1-results-2026-net-profit-grows-37-to-rs-796-crore-nii-up-32-11784970458420.html
 
-- Ashish Kacholia raises stake in this multibagger stock after 200% rally. Do you own?
-   Indo SMC manufactures electrical enclosures and components, reporting a 136% YoY revenue increase to  ₹88.12 crore in Q1 FY27. Ashish
-  🔗 https://www.livemint.com/market/stock-market-news/ashish-kacholia-q1-portfolio-ashish-kacholia-raises-stake-in-multibagger-stock-indo-smc-share-price-after-200-rally-11784966114949.html
-
-- Bharti Airtel Q1 Results 2026 Date: Telecom major to announce June quarter earnings on THIS date | Check details
-  Bharti Airtel will announce its Q1 results for June 2026 on August 4. The company's securities trading window closes on July 1,
-  🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-q1-results-2026-date-telecom-major-to-announce-june-quarter-earnings-on-this-date-check-details-11784956639019.html
+- How the lighthearted social media trend of teen takeovers took a serious turn
+  'Teen takeovers' have taken a
+  🔗 https://www.livemint.com/technology/how-the-lighthearted-social-media-trend-of-teen-takeovers-took-a-serious-turn-11784985068609.html
 
 - Enterprise AI focus shifts from coding productivity to business execution: Report
    Enterprises are increasingly shifting their focus from improving developer productivity to accelerating overall business execution, according to a report.
@@ -95,30 +99,6 @@
 - OpenAI couldn't stop its own rogue AI. A Chinese model did | Here's how
   A Chinese-developed AI model played a key role in helping AI platform Hugging Face contain what OpenAI described as an '
   🔗 https://www.livemint.com/technology/tech-news/openai-couldnt-stop-its-own-rogue-ai-a-chinese-model-did-heres-how-11784905940360.html
-
-- Karnataka looks to deepen AI ecosystem with industry partnership, focus on youth and rural education
-  Karnataka Chief Minister DK Shivakumar said the government aims to take artificial intelligence (AI) education to rural students and build long-term industry partnerships.
-  🔗 https://www.livemint.com/technology/karnataka-looks-to-deepen-ai-ecosystem-with-industry-partnership-focus-on-youth-and-rural-education-11784882206692.html
-
-- Stock Market News, July 24, 2026: Crude Oil Slips on New Hopes for Peace Talks - WSJ
-  The WSJ published a story on July 24, 2026,
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFhZYlFqX1F2Y2F3U0ZEeWV1aXFLRlpxa2ViQ1lNRVE5eXJjeE5lZjh2ZERxNEowVUZDdUdoOWN4eUZxWlVMM2hCQ0xpVUV5OXhwazhnVFFxWjlKaGdJOUtBSXM3OHQ1QVpRa2FYWUVnNHY4aGhuc01nOWVfdmRlMVV6OUF2SFU?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq futures steady from tech rout as new tariffs take effect - Yahoo Finance
-  Stock market today: Dow, S&amp;P 500, Nasdaq futures
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUFYaE1xaFRzalhQdWRXZ1d5dEpsQWlsVzBfS1V6RU52aG5reW8wRnZYdFk0LV93RVdxOFIzYnhteDM5RnBkOURtYWhpWXhJNjVmUkoxczRHVVFnbU1KQzFlaTQ4bVJ2MldmbGhhcU1kY2hIVndoaEY3ZXF1T2xocGM5TkNxM2FsY2hpcXltckJHQ0xSb0Rybm5BamN1Nmpfay1ObzF1d1I?oc=5
-
-- S&P 500 closes little changed Friday as Iran fears and chip sell-off weigh down market: Live updates - CNBC
-  S&amp;P 500 closes little changed Friday as Iran fears and chip
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5faUg1R2E2UzRLZjdYMk0wSDJ5UVNTd3FJOGp0RjU0clNleGxKeEhjMUxZV0IyTEpUVHRGZk9iSGIzakRVTU84ZzhGYkxUSExnYVBad2FEbmZQSW5EM1J4LUVrMnZGT1U5Zzhnd2NxYXE2R25yVHNj0gF8QVVfeXFMTWl2WWhNNEUwLTBIc0J0YXFiM2k3N1QtQ0Q2WmRDbEJmTzJIX1dSd2VzTnV3eVNPb1M0ejU2bVI3YUtCT2VGa0t0MVFFUzgwMTdDRndFYUI5QmNVcjNaTkxHNUtaR20wWmpyZkRSVFVBeGFmaUtteUZoVXRncg?oc=5
-
-- A dangerous new phase of war is breaking all the oil market’s constraints - CNN
-  A dangerous new phase of war is breaking all the oil
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQMHJkZHlOcFRGMlNfWFJNbDFPbWpiU3Z2VU55NHVmblozN2NIUEktUUtGYlQ1U1ctTzlXWGphU056ZVVNb3ZaM0NvWlR6R1E0SWdwV3NGZW5Hd1MxamRFdldIVF9hLWg0RW9rSWJ2R1lWQ1ZvQXBvb3V4cG05bWdyUA?oc=5
-
-- Google and Tesla shares plunge as AI spending rattles markets - BBC
-  Google and Tesla shares plunge as AI spending
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVzVZQlgwd2o3MkNkSlZlVkVmVmFJU21GTTJOR1g4V3Bwb19TVEZiRUNGc3d5T0g4WkljemsybW5ma3dndEVULTJFZHp4VXFEZUdVdmo4b29VQQ?oc=5
 
 - Violent crypto attacks rise as criminals hunt bigger payouts
   physical attacks targeting cryptocurrency holders surged 33% globally in the first half of 2026. France emerged as the epicentre as criminals increasingly combined cyber intelligence, social engineering and
@@ -140,25 +120,29 @@
   NTPC's board approved raising Rs 12,000 crore via non-convertible debentures. The company's group installed capacity grew to 90,904 MW by June 2026.
   🔗 https://economictimes.indiatimes.com/markets/bonds/ntpc-board-approves-raising-up-to-rs-12000-cr-via-ncd-issue/articleshow/132621832.cms
 
-- India’s youth protesters are fighting Modi with irreverent humour and memes - Al Jazeera
-  India’s youth protesters are fighting Modi with
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1VzZ2psdzdxQXBaeTlEcmUtaUJ4Y2hOSFFLRGxaYjIwVTNkbXNVbnUxNm5xZGJaVU94Z1NyblFHOFlzVTR2QTlzWWdjUHFjZVpIUEFtNERoSlYyXzZDbnRwVVZkMmNlakwxODlYT0wwQlpWUWpvWTMwYXNfM21Zc0ZiYnBLVDBiQ180RmZXYV96dWNvbXo5ZWxXRk9oY2pjWmYxNnhkaTdMS1J2RVVvY3k1MnpfZ9IBuwFBVV95cUxQdmltWGxkTzBtX01fWFpwNmV0dUYxZGM4Y0MxYnI4MUpxLWRkZjNoQ0VFZFZjS3Q3enFKTDZGV2NuYlMyT0JzRmRSZF96cVFjRG5kNFNOaExLR2E2YmhHY19hcWduQ19RbEFadnQ2Q1o2VWJGa3JCTGg1UnFjU0pfU2kxOWM3c1dZUDNLSy1NRlo4dzdRRXJOajZ4UjU2eTBaT09vdlhuUU85OFlvdnNmWk5oaE9lSkw5Tldv?oc=5
+- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
+  Indian student protests: What’s next after
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
+
+- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
+  PM Modi Thanks Youngsters For "Insight
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
+
+- ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
+  ‘I will die for this cause’: how India’s cockroach
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPXzZNb3RxSmszZEhza1AyamtTejZ6bDFIN1ZEa3Btc3Vrd29sdGJZVlM2Y1JJdFlLTlFpS1h4UDZXZFRjR1g1bERLWkg0VGdYbjhsbHFTWmNjbDdfdTk4SGU2ZUpuTGc3UEJycHhKa0cybWVzWlo0VEJtSWEtMWY4c1ZkQlctVVlIZ0FwQlk0OXZqbmpyM245VzJJMXhyNGFJU0ctTk5FSHU4eWc4b2NVbFBySkphVDR1NHhfZE1YU19IRnZ1dm5rUk9DSVpzbmZNckxhVkJiSHUwM3J6bEtoNjY0TGt6ZzM5OEl4RFdXQmdkQUZmeWhN?oc=5
 
 - Government objects to China illegally occupying Indian territory - The Times of India
   Government objects to China illegally occupying Indian territory.
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
 
-- Indian celebrities fiercely criticised for silence on Cockroach protests - The Guardian
-  Indian celebrities fiercely criticised for silence on Cock
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjNCVE1xb1g4a1BWbmhoNGJER3h5Z3liYm1pcTNHWWcxVTV1SmlGdDhXcUNtNzE5VTh2VnFvTGtIelA3ZzVsVExpelRpVmJTRVJYcExkMmF2S2pTWkc3Z2J1YTNwU0R5UVllQmhMOUx4U21GMXJaX2RlWWswaTVOLU9GWFBVeUJhYjM5VTNJNTF6Q1B5ZjR3ZXgtTko0eGJiVGo4SGhKRmVCd3E4Yjd1bUZSS3o?oc=5
+- Sarnath Added To UNESCO World Heritage List, 45th Site From India - NDTV
+  Sarnath Added To UNESCO World Heritage List
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9tZnVRcmFxUGtTZlZTbERyU2JWMGJXa194QlFNd1ROeElOYUsyWlp6U08zNFktRkFJZy1OcVBfODVBSW1XRmFaRkRuWkU3MExXMTVxbjVydTN1bUR1UUwzQ0ZBRVBSRlZnc3lscXVxZ1A1Z1ZnbnFodG1oakp0cE1LUHUxc2ZnQnZlRTlFN2k1U3h3VUN2R0MxeldncTREZ0V1NDMwSWTSAbABQVVfeXFMT2t5b0pwUGdBYzlrd1lIX3BvUlhVelIwellhbkpLT3hES1JvV19LM3NSNUJ6cVBaQjBtdE9JOVQ2QVdwbDJCTlBOMDhWM3lIRVJfU1dVOUppenhsbzdSOWIySTNzc3gxMWk2SWdpaVpEQkJpajJrcHZHeUk2elpaanVhVTdlVldZTmtJS1gxa1lFZ2N0cVZOUV9NTnJQMXo1ZzNCUlpuVFpPTzdtSUFhWUw?oc=5
 
-- Dharmendra Pradhan: India's 'cockroach' protesters call off strike as education minister resigns - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5" target="_blank">Dharm
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5
-
-- Commonwealth Games: India’s Jhandu Kumar clinches bronze in men’s heavyweight para powerlifting - News On AIR
-  India’s Jhandu Kumar clinches bronze in
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3NnX0FMZnBLSzhaUDhhZHZDTG1lZl9JakFLenRhbWdwenNPMi1pbG1JajZwZlFvdzlYR3p5T1o1T3duT0NvOU81YnVBSUlFV1BQQ1NSanVycjFDeGppSmZZRGlOQm9lT1VUQTA5MndCWmZLNGZuRG1PX2JHU08zUkIyTTJYVUhXbDVrTDRRWGZONUlPaF9tZnktR0xuOWVPUkdEdU9UbXFlY2Rqb1RwbnJXd0lfNzMxM2c?oc=5
+- Swiggy Plummets, BlueStone Soars Amid Bearish Week For New-Age Tech Stocks
+  It was a bearish week for India&#8217;s new-age tech stocks as renewed geopolitical tensions and a broad-based
+  🔗 https://inc42.com/buzz/swiggy-plummets-bluestone-soars-amid-bearish-week-for-new-age-tech-stocks/
 
 - Can Parliamentary Panel’s Latest Recommendations Break Crypto Policy Deadlock?
   India’s approach towards cryptocurrencies has largely revolved around taxation, anti-money laundering (AML) compliance and transaction reporting.
@@ -176,77 +160,85 @@
   Indian startup funding slowed in the fourth week of July. Between July 18 and July 24, Indian startups cumulatively raised&#8230
   🔗 https://inc42.com/buzz/from-zetwerk-to-veriqus-indian-startups-raised-209-mn-this-week/
 
-- Veefin Gets Board Nod To Raise ₹35 Cr Debt
-  BSE SME-listed Veefin Solutions has received board approval to raise up to ₹35 Cr via issuance of non-convertible debentures (NC
-  🔗 https://inc42.com/buzz/veefin-gets-board-nod-to-raise-%e2%82%b935-cr-debt/
+- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
+  Indian student protests: What’s next after
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
 
-- India’s youth protesters are fighting Modi with irreverent humour and memes - Al Jazeera
-  India’s youth protesters are fighting Modi with
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1VzZ2psdzdxQXBaeTlEcmUtaUJ4Y2hOSFFLRGxaYjIwVTNkbXNVbnUxNm5xZGJaVU94Z1NyblFHOFlzVTR2QTlzWWdjUHFjZVpIUEFtNERoSlYyXzZDbnRwVVZkMmNlakwxODlYT0wwQlpWUWpvWTMwYXNfM21Zc0ZiYnBLVDBiQ180RmZXYV96dWNvbXo5ZWxXRk9oY2pjWmYxNnhkaTdMS1J2RVVvY3k1MnpfZ9IBuwFBVV95cUxQdmltWGxkTzBtX01fWFpwNmV0dUYxZGM4Y0MxYnI4MUpxLWRkZjNoQ0VFZFZjS3Q3enFKTDZGV2NuYlMyT0JzRmRSZF96cVFjRG5kNFNOaExLR2E2YmhHY19hcWduQ19RbEFadnQ2Q1o2VWJGa3JCTGg1UnFjU0pfU2kxOWM3c1dZUDNLSy1NRlo4dzdRRXJOajZ4UjU2eTBaT09vdlhuUU85OFlvdnNmWk5oaE9lSkw5Tldv?oc=5
+- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
+  PM Modi Thanks Youngsters For "Insight
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
 
-- Government objects to China illegally occupying Indian territory - The Times of India
-  Government objects to China illegally occupying Indian territory.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
-
-- Indian celebrities fiercely criticised for silence on Cockroach protests - The Guardian
-  Indian celebrities fiercely criticised for silence on Cock
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjNCVE1xb1g4a1BWbmhoNGJER3h5Z3liYm1pcTNHWWcxVTV1SmlGdDhXcUNtNzE5VTh2VnFvTGtIelA3ZzVsVExpelRpVmJTRVJYcExkMmF2S2pTWkc3Z2J1YTNwU0R5UVllQmhMOUx4U21GMXJaX2RlWWswaTVOLU9GWFBVeUJhYjM5VTNJNTF6Q1B5ZjR3ZXgtTko0eGJiVGo4SGhKRmVCd3E4Yjd1bUZSS3o?oc=5
-
-- Dharmendra Pradhan: India's 'cockroach' protesters call off strike as education minister resigns - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5" target="_blank">Dharm
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5
-
-- Commonwealth Games: India’s Jhandu Kumar clinches bronze in men’s heavyweight para powerlifting - News On AIR
-  India’s Jhandu Kumar clinches bronze in
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3NnX0FMZnBLSzhaUDhhZHZDTG1lZl9JakFLenRhbWdwenNPMi1pbG1JajZwZlFvdzlYR3p5T1o1T3duT0NvOU81YnVBSUlFV1BQQ1NSanVycjFDeGppSmZZRGlOQm9lT1VUQTA5MndCWmZLNGZuRG1PX2JHU08zUkIyTTJYVUhXbDVrTDRRWGZONUlPaF9tZnktR0xuOWVPUkdEdU9UbXFlY2Rqb1RwbnJXd0lfNzMxM2c?oc=5
-
-- India’s youth protesters are fighting Modi with irreverent humour and memes - Al Jazeera
-  India’s youth protesters are fighting Modi with
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1VzZ2psdzdxQXBaeTlEcmUtaUJ4Y2hOSFFLRGxaYjIwVTNkbXNVbnUxNm5xZGJaVU94Z1NyblFHOFlzVTR2QTlzWWdjUHFjZVpIUEFtNERoSlYyXzZDbnRwVVZkMmNlakwxODlYT0wwQlpWUWpvWTMwYXNfM21Zc0ZiYnBLVDBiQ180RmZXYV96dWNvbXo5ZWxXRk9oY2pjWmYxNnhkaTdMS1J2RVVvY3k1MnpfZ9IBuwFBVV95cUxQdmltWGxkTzBtX01fWFpwNmV0dUYxZGM4Y0MxYnI4MUpxLWRkZjNoQ0VFZFZjS3Q3enFKTDZGV2NuYlMyT0JzRmRSZF96cVFjRG5kNFNOaExLR2E2YmhHY19hcWduQ19RbEFadnQ2Q1o2VWJGa3JCTGg1UnFjU0pfU2kxOWM3c1dZUDNLSy1NRlo4dzdRRXJOajZ4UjU2eTBaT09vdlhuUU85OFlvdnNmWk5oaE9lSkw5Tldv?oc=5
+- ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
+  ‘I will die for this cause’: how India’s cockroach
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPXzZNb3RxSmszZEhza1AyamtTejZ6bDFIN1ZEa3Btc3Vrd29sdGJZVlM2Y1JJdFlLTlFpS1h4UDZXZFRjR1g1bERLWkg0VGdYbjhsbHFTWmNjbDdfdTk4SGU2ZUpuTGc3UEJycHhKa0cybWVzWlo0VEJtSWEtMWY4c1ZkQlctVVlIZ0FwQlk0OXZqbmpyM245VzJJMXhyNGFJU0ctTk5FSHU4eWc4b2NVbFBySkphVDR1NHhfZE1YU19IRnZ1dm5rUk9DSVpzbmZNckxhVkJiSHUwM3J6bEtoNjY0TGt6ZzM5OEl4RFdXQmdkQUZmeWhN?oc=5
 
 - Government objects to China illegally occupying Indian territory - The Times of India
   Government objects to China illegally occupying Indian territory.
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
 
-- Indian celebrities fiercely criticised for silence on Cockroach protests - The Guardian
-  Indian celebrities fiercely criticised for silence on Cock
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjNCVE1xb1g4a1BWbmhoNGJER3h5Z3liYm1pcTNHWWcxVTV1SmlGdDhXcUNtNzE5VTh2VnFvTGtIelA3ZzVsVExpelRpVmJTRVJYcExkMmF2S2pTWkc3Z2J1YTNwU0R5UVllQmhMOUx4U21GMXJaX2RlWWswaTVOLU9GWFBVeUJhYjM5VTNJNTF6Q1B5ZjR3ZXgtTko0eGJiVGo4SGhKRmVCd3E4Yjd1bUZSS3o?oc=5
+- Sarnath Added To UNESCO World Heritage List, 45th Site From India - NDTV
+  Sarnath Added To UNESCO World Heritage List
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9tZnVRcmFxUGtTZlZTbERyU2JWMGJXa194QlFNd1ROeElOYUsyWlp6U08zNFktRkFJZy1OcVBfODVBSW1XRmFaRkRuWkU3MExXMTVxbjVydTN1bUR1UUwzQ0ZBRVBSRlZnc3lscXVxZ1A1Z1ZnbnFodG1oakp0cE1LUHUxc2ZnQnZlRTlFN2k1U3h3VUN2R0MxeldncTREZ0V1NDMwSWTSAbABQVVfeXFMT2t5b0pwUGdBYzlrd1lIX3BvUlhVelIwellhbkpLT3hES1JvV19LM3NSNUJ6cVBaQjBtdE9JOVQ2QVdwbDJCTlBOMDhWM3lIRVJfU1dVOUppenhsbzdSOWIySTNzc3gxMWk2SWdpaVpEQkJpajJrcHZHeUk2elpaanVhVTdlVldZTmtJS1gxa1lFZ2N0cVZOUV9NTnJQMXo1ZzNCUlpuVFpPTzdtSUFhWUw?oc=5
 
-- Dharmendra Pradhan: India's 'cockroach' protesters call off strike as education minister resigns - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5" target="_blank">Dharm
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5
+- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
+  Indian student protests: What’s next after
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
 
-- Commonwealth Games: India’s Jhandu Kumar clinches bronze in men’s heavyweight para powerlifting - News On AIR
-  India’s Jhandu Kumar clinches bronze in
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3NnX0FMZnBLSzhaUDhhZHZDTG1lZl9JakFLenRhbWdwenNPMi1pbG1JajZwZlFvdzlYR3p5T1o1T3duT0NvOU81YnVBSUlFV1BQQ1NSanVycjFDeGppSmZZRGlOQm9lT1VUQTA5MndCWmZLNGZuRG1PX2JHU08zUkIyTTJYVUhXbDVrTDRRWGZONUlPaF9tZnktR0xuOWVPUkdEdU9UbXFlY2Rqb1RwbnJXd0lfNzMxM2c?oc=5
+- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
+  PM Modi Thanks Youngsters For "Insight
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
+  ‘I will die for this cause’: how India’s cockroach
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPXzZNb3RxSmszZEhza1AyamtTejZ6bDFIN1ZEa3Btc3Vrd29sdGJZVlM2Y1JJdFlLTlFpS1h4UDZXZFRjR1g1bERLWkg0VGdYbjhsbHFTWmNjbDdfdTk4SGU2ZUpuTGc3UEJycHhKa0cybWVzWlo0VEJtSWEtMWY4c1ZkQlctVVlIZ0FwQlk0OXZqbmpyM245VzJJMXhyNGFJU0ctTk5FSHU4eWc4b2NVbFBySkphVDR1NHhfZE1YU19IRnZ1dm5rUk9DSVpzbmZNckxhVkJiSHUwM3J6bEtoNjY0TGt6ZzM5OEl4RFdXQmdkQUZmeWhN?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Government objects to China illegally occupying Indian territory - The Times of India
+  Government objects to China illegally occupying Indian territory.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Sarnath Added To UNESCO World Heritage List, 45th Site From India - NDTV
+  Sarnath Added To UNESCO World Heritage List
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9tZnVRcmFxUGtTZlZTbERyU2JWMGJXa194QlFNd1ROeElOYUsyWlp6U08zNFktRkFJZy1OcVBfODVBSW1XRmFaRkRuWkU3MExXMTVxbjVydTN1bUR1UUwzQ0ZBRVBSRlZnc3lscXVxZ1A1Z1ZnbnFodG1oakp0cE1LUHUxc2ZnQnZlRTlFN2k1U3h3VUN2R0MxeldncTREZ0V1NDMwSWTSAbABQVVfeXFMT2t5b0pwUGdBYzlrd1lIX3BvUlhVelIwellhbkpLT3hES1JvV19LM3NSNUJ6cVBaQjBtdE9JOVQ2QVdwbDJCTlBOMDhWM3lIRVJfU1dVOUppenhsbzdSOWIySTNzc3gxMWk2SWdpaVpEQkJpajJrcHZHeUk2elpaanVhVTdlVldZTmtJS1gxa1lFZ2N0cVZOUV9NTnJQMXo1ZzNCUlpuVFpPTzdtSUFhWUw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
+  Indian student protests: What’s next after
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
+  PM Modi Thanks Youngsters For "Insight
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
+  ‘I will die for this cause’: how India’s cockroach
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPXzZNb3RxSmszZEhza1AyamtTejZ6bDFIN1ZEa3Btc3Vrd29sdGJZVlM2Y1JJdFlLTlFpS1h4UDZXZFRjR1g1bERLWkg0VGdYbjhsbHFTWmNjbDdfdTk4SGU2ZUpuTGc3UEJycHhKa0cybWVzWlo0VEJtSWEtMWY4c1ZkQlctVVlIZ0FwQlk0OXZqbmpyM245VzJJMXhyNGFJU0ctTk5FSHU4eWc4b2NVbFBySkphVDR1NHhfZE1YU19IRnZ1dm5rUk9DSVpzbmZNckxhVkJiSHUwM3J6bEtoNjY0TGt6ZzM5OEl4RFdXQmdkQUZmeWhN?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Government objects to China illegally occupying Indian territory - The Times of India
+  Government objects to China illegally occupying Indian territory.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
+
+- Sarnath Added To UNESCO World Heritage List, 45th Site From India - NDTV
+  Sarnath Added To UNESCO World Heritage List
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9tZnVRcmFxUGtTZlZTbERyU2JWMGJXa194QlFNd1ROeElOYUsyWlp6U08zNFktRkFJZy1OcVBfODVBSW1XRmFaRkRuWkU3MExXMTVxbjVydTN1bUR1UUwzQ0ZBRVBSRlZnc3lscXVxZ1A1Z1ZnbnFodG1oakp0cE1LUHUxc2ZnQnZlRTlFN2k1U3h3VUN2R0MxeldncTREZ0V1NDMwSWTSAbABQVVfeXFMT2t5b0pwUGdBYzlrd1lIX3BvUlhVelIwellhbkpLT3hES1JvV19LM3NSNUJ6cVBaQjBtdE9JOVQ2QVdwbDJCTlBOMDhWM3lIRVJfU1dVOUppenhsbzdSOWIySTNzc3gxMWk2SWdpaVpEQkJpajJrcHZHeUk2elpaanVhVTdlVldZTmtJS1gxa1lFZ2N0cVZOUV9NTnJQMXo1ZzNCUlpuVFpPTzdtSUFhWUw?oc=5
+
+- AIC IGCAR FAST Foundation (AIC FAST), the Atal Incubation Centre of Indira Gandhi Centre for Atomic Research, Kalpakkam organised an event on 24 July 2026 themed Translation of IGCAR Technologies From Lab to Land...and to Space - PIB
+  AIC IGCAR FAST Foundation (AIC FAST), the Atal Incubation Centre of Indira Gandhi Centre for Atomic Research, Kalpakkam
+  🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wQjNoeDZjUVgyX2VsV1BLMngzcVR5dVY1US1KZVVucTd3QVZZOTctS0MycFYxXzZ1c0RkZkYwTzFYNWl6NDRmdFo0cVlmaHBtUVlhVGF2VlNCZnNaeUJPX3RHdHF4S3F4?oc=5
+
+- The AI jobs apocalypse probably isn’t coming anytime soon - The Guardian
+  The AI jobs apocalypse probably isn't coming
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlRPeHY4ZnZBa010WDFSS1p4YUxWNzdVRWo3X0g0Vk5LUEdFcjBsbnBMWTAzdG9jS0FUMTFKNkNsSnJnMTlNR1BoVkhYQy1EZmN2ZV8yWVJKbTFVTWJwZ2F2TjFLcU1OSlc4WEt6dW14QU1LUkFZVnlVUEpmVE93bGlkNEhqajRR?oc=5
+
+- New Small Spacecraft Technology Demonstration Mission at the Moon - NASA (.gov)
+  New Small Spacecraft Technology Demonstration Mission
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnpuZTNHMHNTYmR4eVlOWDQycjd6WHdxNGk1Ym9ua1FNYVp1azlZNGlqX2xDdXhoT2pQWHBuVHY4cVRpRFNoUVhmaUNycHNMbm1Rd3d6R2RrWW1lS0c1aFdVcXowTFR1R1B5MDVZbEotel90RG0tNE03UTJkNVRrT2R6emlVNUVHN2owY0p0YW03cEVQSzkxR3VrSElmS0k1Q3pwcEZYN3hXUmxxQkpJ?oc=5
+
+- ICAR-IIHR’s Hot Water Technology to boost the export of South Indian Mangoes - Indian Council Of Agricultural Research
+  ICAR-IIHR’s Hot Water Technology to boost the
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUVuckFVcGh3M1k0YTBESlZGV0Z1OTN2RTd4OW02TlVXSjBVTmRMOGJnaVBOQkJrbUgyTlN2ay1mQ1hPelBhZzlYVE5PUTExeDNPQXdIWHg2UDBnUFo2UV9ZWXI3d2Z0a2J4bldYWXd5T2tXbDFIMUFTdXVqSVdESnRiNGlXdTZCV25YZGxlS0FtUQ?oc=5
+
+- Microchip Technology Signs Definitive Agreement to Acquire Hailo - Microchip Technology
+  Microchip Technology Signs Definitive Agreement to
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUQzWFUtNHlhSUJFMm1JYXNza0NWOHc5VlA4d2dIUTFwMjdFeHdxdXFFRlR2ZVN5QXFEaVBpNGlyendIbGFNUmMwMEk0eV9JdUZCdEtFQzU3TkJwUUNIaEtuZ2I3WUxCbHVHVWxXdFIxb1lITlZTQ2tvSXFPOHNnNmN1Rjk4TmNKc25obXJjLWxtLTZ2MHAzQkdCRzloRVlSUTJYSUVRakJzcms0UnljV2RLNVFXWEZJNGpXdHNqTjA4N1lpemhn?oc=5
 
 
-_Last updated: 2026-07-25 13:15:05 UTC_
+_Last updated: 2026-07-25 19:02:47 UTC_
