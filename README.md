@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- ‘Congress backed from outside, credit goes to youth’: Revanth Reddy on CJP protest
+  
+  🔗 https://indianexpress.com/article/india/congress-youth-revanth-reddy-cjp-protest-10804775/
+
+- ‘Reproductive patterns’: Shashi Tharoor’s cheeky response to son’s ‘ban boomers from WhatsApp’ post
+  
+  🔗 https://indianexpress.com/article/india/shashi-tharoor-ishan-tharoor-sridar-vembu-zoho-whatsapp-boomer-india-ban-cockroach-janata-party-genz-10804746/
+
+- PM Modi announces exam reform task force, Nandan Nilekani to lead
+  
+  🔗 https://indianexpress.com/article/india/narendra-modi-exam-task-force-nandan-nilekani-cjp-protest-dharmendra-pradhan-10804628/
+
 - Angamaly-Sabarimala rail line: Kerala begins land acquisition, Railways allocates Rs 505 crore
   
   🔗 https://indianexpress.com/article/india/angamaly-sabarimala-railway-line-project-kerala-land-acquisition-rs-505-crore-allocation-10804444/
 
-- Don’t harass minister for daughter joining student protest; don’t be surprised if my son…: Assam CM Himanta
+- ‘Don’t harass minister for daughter joining student protest; don’t be surprised if my son…’: Assam CM Himanta
   
   🔗 https://indianexpress.com/article/india/assam-minister-daughter-student-protest-video-himanta-10804447/
-
-- New Jalpaiguri-Nagercoil Amrit Bharat Express gets new timings; Check revised schedule, stops
-  
-  🔗 https://indianexpress.com/article/india/new-jalpaiguri-nagercoil-amrit-bharat-express-new-timings-revised-schedule-stops-10804327/
-
-- New Education Minister Pralhad Joshi summons NTA officials to his residence
-  
-  🔗 https://indianexpress.com/article/india/pralhad-joshi-takes-charge-union-education-minister-dharmendra-pradhan-resignation-10804305/
-
-- West Central Railway revises tatkal booking process from August 1; Check new token rules
-  
-  🔗 https://indianexpress.com/article/india/west-central-railway-tatkal-ticket-booking-new-token-rules-august-1-10804267/
 
 - 3 quirky gadgets that saved my work trip to London, and why you might need them
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-confirms-pixel-11-price-increase-amid-global-ram-shortage-10804124/
 
+- Shein swings to quarterly loss ahead of Hong Kong IPO
+  Shein swings to quarterly
+  🔗 https://www.livemint.com/companies/shein-swings-to-quarterly-loss-ahead-of-hong-kong-ipo-11785076663686.html
+
 - Wipro Consumer, Murugappa lead race for Double Horse
   Double Horse competes with Eastern, Nirapara, Brahmins, Manna, Elite Foods,
   🔗 https://www.livemint.com/companies/wipro-consumer-care-murugappa-double-horseacquisition-11785041561851.html
@@ -56,9 +60,13 @@
   Amnon Shashua is stepping down as chief executive officer of Mobileye Global Inc. He took public before and after a more than
   🔗 https://www.livemint.com/companies/mobileye-founder-stepping-down-as-ceo-after-volatile-run-11785045096499.html
 
-- AI spending is soaring, but revenue is lagging: Here's why Indian investors should pay attention
-  AI spending is soaring, but revenue and profits are yet to catch up, raising concerns over valuations and returns. Experts say Indian investors with global exposure should avoid chasing the AI rally.
-  🔗 https://www.livemint.com/companies/company-results/ai-spending-is-soaring-but-revenue-is-lagging-heres-why-indian-investors-should-pay-attention-11785032649640.html
+- Wall Street Week Ahead: Fed decision, big tech earnings and Middle East conflict in focus
+  The Federal Reserve is widely expected to keep its benchmark interest rate unchanged.
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-fed-decision-big-tech-earnings-and-middle-east-conflict-in-focus-11785081332754.html
+
+- CBDT issues crypto asset reporting guidelines for exchanges under Income-tax Act 2025
+  The G20 has endorsed the Crypto- Asset Reporting Framework. It is an important enhancement to international standards for the
+  🔗 https://www.livemint.com/market/cryptocurrency/cbdt-issues-crypto-reporting-guidelines-for-exchanges-under-income-tax-act-2025-11785071772752.html
 
 - Wall St Week Ahead-US stocks face tests from Fed decision, tech-led earnings deluge
   U.S. stocks face tests from Fed decision, tech-led
@@ -72,13 +80,9 @@
   Among the upcoming mainboard offerings, the Manipal Health Enterprises IPO, Juniper Green Energy IPO, and MV Electrosystems IPO are set to
   🔗 https://www.livemint.com/market/stock-market-news/upcoming-ipos-manipal-hospitals-ipo-juniper-green-energy-ipo-among-new-nine-issues-to-open-next-week-full-list-here-11785054080300.html
 
-- Philippine Peso Finds Line in Sand as Record Low Holds
-  A potential line in the sand is forming for the Philippine peso at its record low. The central bank maintains it
-  🔗 https://www.livemint.com/market/philippine-peso-finds-line-in-sand-as-record-low-holds-11785055164987.html
-
-- IPO-bound PhonePe declares 11.5% yearly growth in revenue to  ₹7,920 crore in FY26
-  PhonePe posted a net loss of  ₹1,377 crore in FY26. Total consolidated
-  🔗 https://www.livemint.com/market/stock-market-news/ipobound-phonepe-declares-11-5-yearly-growth-in-revenue-to-7-920-crore-in-fy26-11785052165688.html
+- For some, so-called Skynet Day came too close to sci-fi after a rogue agent hacked into a startup
+  'Skynet Day' came too close to sci-fi
+  🔗 https://www.livemint.com/technology/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup-11785084966401.html
 
 - Moto Pad 70 key specifications revealed ahead of launch: 12.1-inch display, Dimensity 6400 SoC confirmed
   Motorola is set to launch the Moto Pad 70 in India on August 8. This tablet will feature a 12.1-inch display, MediaTek Dimensity 6400 processor, and a 10,200mAh
@@ -96,29 +100,25 @@
   OpenAI CEO Sam Altman admitted to becoming addicted to Tik
   🔗 https://www.livemint.com/technology/tech-news/too-powerful-sam-altman-reveals-why-he-deleted-tiktok-says-it-was-like-a-drug-11785051096311.html
 
-- Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US
-  Chinese AI models gain ground, as they make inroads
-  🔗 https://www.livemint.com/technology/cheaper-open-and-intelligent-chinese-ai-models-gain-ground-as-they-make-inroads-in-the-us-11785038970045.html
-
 - S&P 500 closes little changed Friday as Iran fears and chip sell-off weigh down market: Live updates - CNBC
   S&amp;P 500 closes little changed Friday as Iran fears and chip
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5faUg1R2E2UzRLZjdYMk0wSDJ5UVNTd3FJOGp0RjU0clNleGxKeEhjMUxZV0IyTEpUVHRGZk9iSGIzakRVTU84ZzhGYkxUSExnYVBad2FEbmZQSW5EM1J4LUVrMnZGT1U5Zzhnd2NxYXE2R25yVHNj0gF8QVVfeXFMTWl2WWhNNEUwLTBIc0J0YXFiM2k3N1QtQ0Q2WmRDbEJmTzJIX1dSd2VzTnV3eVNPb1M0ejU2bVI3YUtCT2VGa0t0MVFFUzgwMTdDRndFYUI5QmNVcjNaTkxHNUtaR20wWmpyZkRSVFVBeGFmaUtteUZoVXRncg?oc=5
 
-- Stock Market News, July 24, 2026: Crude Oil Slips on New Hopes for Peace Talks - WSJ
-  The WSJ published a story on July 24, 2026,
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFhZYlFqX1F2Y2F3U0ZEeWV1aXFLRlpxa2ViQ1lNRVE5eXJjeE5lZjh2ZERxNEowVUZDdUdoOWN4eUZxWlVMM2hCQ0xpVUV5OXhwazhnVFFxWjlKaGdJOUtBSXM3OHQ1QVpRa2FYWUVnNHY4aGhuc01nOWVfdmRlMVV6OUF2SFU?oc=5
+- Wild Markets Week Settles Down - WSJ
+  The WSJ
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE82dDB1blAxc1RadlQtUDdraC1ETXlMSFRfWkpBNE5iSnA5ZjNlNXpuTS1ueTZRVkxWWS1lTGVqcmZkLTlUU092N19XZXBlZEpIeENJTnhxZ0hqa1NJT0RNaVNZdHdQUkVVdUF0Z1RlTWZ5cFFkWGxtNEM0ZHNKVGc?oc=5
 
-- Will prediction market ‘catch fire’ in UK, replicating US boom? - The Guardian
-  Will prediction market ‘catch fire’
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQN044UVg2SzZKZGhIRHFoeVlTTW5SWTFMNHVRTTRFbFlFeUo2NmN4dV95TnNsTWR2eHFaSnNEUzFONFYzZ0JsaDUxYkpYaFA4RnpfUDhyb0tPUUFMbFVsbmhMMUF6N1JtYl90dThsRDhVRGM5MUd1LWhEY0cwajdoLXdyNG9aWTZQQ3V1YXRGSDhPUkhLWVFJVTB5VXlXSU1Qd09NdQ?oc=5
+- Oil markets are on edge again - The Economist
+  Oil markets are on edge
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWNyVjBGeG1ER2gyenUwcVhSZnA5bWZTdlUtWHIzT1Y5bVZ5OS0zOWttVDlJY21keWIzYzdGU0NodGNaQlZOemlubG1QRkdud2VWeEpmYUJEYnF4c0lPUTRtcFliMTgwS1RsZmpHTElpV2kteEtkLWFEZDlxX24zcG1iSEc1WTdYMkI4SlN1WmpIUQ?oc=5
 
-- India must fix gas market, pipelines to unlock LNG opportunity: IGU report - The Economic Times
-  India must fix gas market, pipelines to unlock LNG opportunity
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUDhGVm5uUHRXekdmZUtsZTN0YTBRQmFvdWV1UGNBaC1rMmVYdEwxaU5fd1p1NTd0M1BESzRfVDJQRUVpdHBnNE5HeUZXRWRScWNQS0l1Wlg0NTFCZGNnbGJZMDZ5WldaRGFhX2dpejVLN2p6ZDFyRVRER2YtZ1VKQUdJV0hlM0JldV94NDdXNjR6REVlb2hmYjJjbWVUUVkzS3VPeTZXU1BicXBDVUstNm1SRmdTeDhFemF6bDd1S2FLdnNfOGtETDBXbk1ISXgxYWJUdDVOYlBSbDJyX1NlZHpKNi3SAeoBQVVfeXFMUC1NLWFrNjBGYjVuTWVNREI4N3JLSmFDRUkzSThMLUVQNkVRSG8wN2dMUDUwTFFBLTA4dVJhUzVKdjBoV1hvUWpfTW1ZeEZiR3NMeXlueVRBUnhKV1l4VW1tN1JMOGxNQi1FWVBLZThpSGVKQU1GVTU1ck5BSVBWdzNicGxOT0tpQ0JOZ0lwUUhkSVR6UTdxNG9rVDQwdEtDQl8zT0NoNFlUTzRubjVZZ3FPbnR2WHhiRHlELUxyNG5wOHZtSTFLb3h5Z2xTTFFLbUF5R0lrZXR1OVZtOXhHN0U1Q2FhaWNxWnVR?oc=5
+- Gold dresses, flower markets and sitars: Pirelli’s 2027 calendar features all-Indian cast - The Guardian
+  Pirelli's 2027 calendar features all-Indian
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQYjhKRVpnUzJYcDZFYko0eXZQUG80OUN6OFZVTlVaZ3ZIRW1tZ3NlOXZNYTlJZ3Vrd2JXU0w5UFFHNFF4dWE0dTU4VURvekJQR29yV0VDNkM0VDNSaGNZa2MtRVA2U3YxWEU1TU8zaERQQUN2X2lDb005TVVHZ3FWY3dtcGI3alZuUUpveWVpWF9pY3BkejJn?oc=5
 
-- Stock market outlook: Fed policy, crude oil prices and Q1 earnings to drive trade - The Times of India
-  The Times of India is published by The Times Group, which is owned by
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYmFfUmoybUlJaUViQ3NLbVhWS18xcEoyazQxS1o3aVRLNmlRQlpwR0lQTWFHNnNjZEctcUNaV2RFQUZOMjl6UC1GSUJJSDNuVTBRXzhYOENfN2FuMEF4Mlk4UmloZUU2UlVZVktiSEI0X2M3bm8wMjNxMmNSVEo2M0JKSFVXalg1Y1g2ZGh0N215alRuWmRWeHRQb21EaUJhR1RxZG5nbDVKVGI5V3NTbU9URWpLS3VXODF0SGRIRnFvLWl2RWlDSUlhaXo2XzFiUmI0WGtGZnE1bG4wcTM0NkVoUzRackR5NWR2QlA5eEp6dnVwelpVdtIB_gFBVV95cUxQVGZpNVYxdkVLclNiSnYwbWk4LU4zeHdudGFZRUZoaENsbzhJYlcwUDJ5VVJJRGdGZXV2TmEySTBjVmdJMkRxLTNtUFZ6bmhDWXowLU42M1Zqa21ScXJxdG9VdmtzcnNLOHZGeTVmXzI3eGV5Q1BkUGd5OE85dklTYlk0aWd2clNwSEZvRmNxM1hxTmNVSkFPem9sc1ZYTmpQVkpjeG10Q2s5R1BabU5rQ3k3N3FKd0tnQkU2WVZCeThGV1pRTW5iak5rdS0xUUFzbmRPcTFqT21IYWU5dnFqVm9wdkFDNkxaVy1nS3VjelpiVF9vLURsTXVoWkVrQQ?oc=5
+- What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision - Investopedia
+  What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDlBUEU5WTZ6Ql9JYTRoTzFxWEhfVmdfLVJzZHlLTElKWGJTaE1qWllYLW9jeGc4Qk5scEhPb1lKSU52WFZ6ckZfUUZxSVZsaE16N29qUE5mRlZsODVieExHcHdPOU5RYTA4dFo3cklrdzNfalh0R2ViVTdHNW84TW43VGdGVjlCemZ6NHlwN2JwWHJfeTg4eVlwajFzeGI3U3UxWkR1Smx6M1I5RVhSQURVem1mMkNiYXowUmlnbHA4OFFLaEgxRHZzYUYxNnB2QW5z?oc=5
 
 - Ahead of Market: 10 things that will decide stock market action on Monday
   Indian equities extended losses for a fifth straight session. Despite intraday recovery, sentiment remains weak amid rising US yields and global uncertainty. Analysts flag key technical levels for Nifty.
@@ -140,29 +140,33 @@
   Last week was tough for the Indian equity markets. Nine out of ten leading companies witnessed a decline in market value. HDFC Bank took the hardest blow, suffering a staggering loss exceeding one lakh crore rupees.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-erodes-by-rs-2-74-lakh-cr-hdfc-bank-takes-biggest-hit/articleshow/132637704.cms
 
-- India’s youth protesters are fighting Modi with irreverent humour and memes - Al Jazeera
-  India’s youth protesters are fighting Modi with
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1VzZ2psdzdxQXBaeTlEcmUtaUJ4Y2hOSFFLRGxaYjIwVTNkbXNVbnUxNm5xZGJaVU94Z1NyblFHOFlzVTR2QTlzWWdjUHFjZVpIUEFtNERoSlYyXzZDbnRwVVZkMmNlakwxODlYT0wwQlpWUWpvWTMwYXNfM21Zc0ZiYnBLVDBiQ180RmZXYV96dWNvbXo5ZWxXRk9oY2pjWmYxNnhkaTdMS1J2RVVvY3k1MnpfZ9IBuwFBVV95cUxQdmltWGxkTzBtX01fWFpwNmV0dUYxZGM4Y0MxYnI4MUpxLWRkZjNoQ0VFZFZjS3Q3enFKTDZGV2NuYlMyT0JzRmRSZF96cVFjRG5kNFNOaExLR2E2YmhHY19hcWduQ19RbEFadnQ2Q1o2VWJGa3JCTGg1UnFjU0pfU2kxOWM3c1dZUDNLSy1NRlo4dzdRRXJOajZ4UjU2eTBaT09vdlhuUU85OFlvdnNmWk5oaE9lSkw5Tldv?oc=5
+- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
+  Who is India’s new
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
-  PM Modi Thanks Youngsters For "Insight
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
+- PM Modi Announces Task Force On Exam Reforms Under Infosys Co-Founder - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNE
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNExtdXJjdkJyRFlDV0d1S0dYVFQzYjhMMkdaX0IzOTRvUGtZbnRNVHZVVFhKU3JkaWtUSlYtd0JoNXV3aTRJSWVxSmJIaTZuMmJpTFNqNXhUTVdvY2gtOWHSAcgBQVVfeXFMUEtFN2VHa3piWlg1eF9Sd0Y2YXEzT3BZTTFtbFcxLWx4VUV5Qnp1bndzblBPZVR6RE5nbUNvVWV5ajhnQkIwQTd5U0pIZWVETFRkYXdaSnJqNl9LMWowRHNBckIzNllyOW9nN3ZPNVdXeU9rVjVKRnU2bFZsYWFXaVRITHlEekFFREtpY1N3U3hUS3U0N2JxZlV2U0hhSFVtQ29BQ05RQ3JDaVFzamxyQkF6QmNxMXBZNXRTbFp6SjkzMzVqZ2MxVTQ?oc=5
 
-- Modi Punctured as Awakened India Students Force Swift Retreat - Bloomberg.com
-  Modi Punctured as Aw
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGZXaktwZ0R0eVpoWTc5dGMxa3JCcEtQaXM2WmRtMDdZeDc3cmluMGdFSm1GdE5WZ0paMlVEcG1lSFB0aU95Q0xyU2Q5SlY3ZTJmWGpFNXF3bWZaaW5zaDdkYW5OR0lzRHlPZl9BVVVnOHI5RlcxRHI5Ri0yUXJyMXdQeThhSmsxQzB2blJYaFlMZkwtSGFMc3ZCUUprLU5PWno1aTB5Y0JJa1hJSkJJajFB?oc=5
+- Dharmendra Pradhan, CJP: India's 'cockroach' protest called off after education minister quits - BBC
+  Dharmendra Pradhan, CJP:
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeW43Q1ExSmxITHl6LTVXSXdmTWdsejBJSEh3aFhXOXl6SVBkWmpZb3lWTlpicmYtbjBRT2YyRUt2Yk9ZcmxBVlJ1ZzItSGxuNTZKNFVIZjF6UQ?oc=5
 
-- Government objects to China illegally occupying Indian territory - The Times of India
-  Government objects to China illegally occupying Indian territory.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
+- Latest Hockey News and Updates - Hockey India
+  Latest Hockey News and
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQajNaYTJSaXpxSm1WZTJ3S3ZETEh4M0Z6a2FpMUVMNGxXX0N1ODU0c1E2LV8xLThicHFtSVM1Sjg0dzZ5WWVjNXhLOXZxX2F2Z2YtOVRGdGtHb1h6Wlo5SDFjNC1KY3FCZnJOb2kxQWVyc1ROdm5CNzMwVktkam1VaEc2N09MM2E0aU9ycG9WcU9XZ2VWMmhYd0dFRFNvMWJMMldKeXdhZWdEd1owRVY5MU5lQ19hVGRIckZqbUJxanQxRFkwZkQ5MUluQlUtUQ?oc=5
 
-- Dharmendra Pradhan: India's 'cockroach' protesters call off strike as education minister resigns - BBC
-  Dharmendra Pradhan: India's '
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5
+- India’s Cockroach Janta party protest victory signals trouble ahead for Modi - The Guardian
+  India’s Cockroach Janta party protest
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObndZSGFrbTR4UjJxSVNXbjVhY2RlOW1HMzhVVHc4SjcwTFlTbFJkczlHam1nR0dlMHRpdE9PRHdSQ1l6cXQ5S1lMOHBTRWRGdExnWEp2bGZTMGRBX21tQ3dQb3N1aDBFRm1yd2ZnbWppQTFjcVpYbjlKdEh4ZlZuRm9qOG1Wb1NwU2wtb1hkQVF5cHhXNDBiZ3pKYS16Uk4taDlMZVh3em0zMW1VUmdBdDl3MENmZmVD?oc=5
 
 - Flipkart’s Digital Mall Now Has A Food Court
   When Flipkart entered quick commerce last year, many were sceptical of the move, as the ecommerce giant was seen as too risky.
   🔗 https://inc42.com/features/flipkarts-digital-mall-now-has-a-food-court/
+
+- Indian Startup IPO Tracker 2026
+  Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
+  🔗 https://inc42.com/features/indian-startup-ipo-tracker-2026/
 
 - Swiggy Plummets, BlueStone Soars Amid Bearish Week For New-Age Tech Stocks
   It was a bearish week for India&#8217;s new-age tech stocks as renewed geopolitical tensions and a broad-based
@@ -176,57 +180,85 @@
   For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
   🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
 
-- FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
-  The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
-  🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
+- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
+  Who is India’s new
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- India’s youth protesters are fighting Modi with irreverent humour and memes - Al Jazeera
-  India’s youth protesters are fighting Modi with
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1VzZ2psdzdxQXBaeTlEcmUtaUJ4Y2hOSFFLRGxaYjIwVTNkbXNVbnUxNm5xZGJaVU94Z1NyblFHOFlzVTR2QTlzWWdjUHFjZVpIUEFtNERoSlYyXzZDbnRwVVZkMmNlakwxODlYT0wwQlpWUWpvWTMwYXNfM21Zc0ZiYnBLVDBiQ180RmZXYV96dWNvbXo5ZWxXRk9oY2pjWmYxNnhkaTdMS1J2RVVvY3k1MnpfZ9IBuwFBVV95cUxQdmltWGxkTzBtX01fWFpwNmV0dUYxZGM4Y0MxYnI4MUpxLWRkZjNoQ0VFZFZjS3Q3enFKTDZGV2NuYlMyT0JzRmRSZF96cVFjRG5kNFNOaExLR2E2YmhHY19hcWduQ19RbEFadnQ2Q1o2VWJGa3JCTGg1UnFjU0pfU2kxOWM3c1dZUDNLSy1NRlo4dzdRRXJOajZ4UjU2eTBaT09vdlhuUU85OFlvdnNmWk5oaE9lSkw5Tldv?oc=5
+- PM Modi Announces Task Force On Exam Reforms Under Infosys Co-Founder - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNE
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNExtdXJjdkJyRFlDV0d1S0dYVFQzYjhMMkdaX0IzOTRvUGtZbnRNVHZVVFhKU3JkaWtUSlYtd0JoNXV3aTRJSWVxSmJIaTZuMmJpTFNqNXhUTVdvY2gtOWHSAcgBQVVfeXFMUEtFN2VHa3piWlg1eF9Sd0Y2YXEzT3BZTTFtbFcxLWx4VUV5Qnp1bndzblBPZVR6RE5nbUNvVWV5ajhnQkIwQTd5U0pIZWVETFRkYXdaSnJqNl9LMWowRHNBckIzNllyOW9nN3ZPNVdXeU9rVjVKRnU2bFZsYWFXaVRITHlEekFFREtpY1N3U3hUS3U0N2JxZlV2U0hhSFVtQ29BQ05RQ3JDaVFzamxyQkF6QmNxMXBZNXRTbFp6SjkzMzVqZ2MxVTQ?oc=5
 
-- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
-  PM Modi Thanks Youngsters For "Insight
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
+- Dharmendra Pradhan, CJP: India's 'cockroach' protest called off after education minister quits - BBC
+  Dharmendra Pradhan, CJP:
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeW43Q1ExSmxITHl6LTVXSXdmTWdsejBJSEh3aFhXOXl6SVBkWmpZb3lWTlpicmYtbjBRT2YyRUt2Yk9ZcmxBVlJ1ZzItSGxuNTZKNFVIZjF6UQ?oc=5
 
-- Modi Punctured as Awakened India Students Force Swift Retreat - Bloomberg.com
-  Modi Punctured as Aw
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGZXaktwZ0R0eVpoWTc5dGMxa3JCcEtQaXM2WmRtMDdZeDc3cmluMGdFSm1GdE5WZ0paMlVEcG1lSFB0aU95Q0xyU2Q5SlY3ZTJmWGpFNXF3bWZaaW5zaDdkYW5OR0lzRHlPZl9BVVVnOHI5RlcxRHI5Ri0yUXJyMXdQeThhSmsxQzB2blJYaFlMZkwtSGFMc3ZCUUprLU5PWno1aTB5Y0JJa1hJSkJJajFB?oc=5
+- Latest Hockey News and Updates - Hockey India
+  Latest Hockey News and
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQajNaYTJSaXpxSm1WZTJ3S3ZETEh4M0Z6a2FpMUVMNGxXX0N1ODU0c1E2LV8xLThicHFtSVM1Sjg0dzZ5WWVjNXhLOXZxX2F2Z2YtOVRGdGtHb1h6Wlo5SDFjNC1KY3FCZnJOb2kxQWVyc1ROdm5CNzMwVktkam1VaEc2N09MM2E0aU9ycG9WcU9XZ2VWMmhYd0dFRFNvMWJMMldKeXdhZWdEd1owRVY5MU5lQ19hVGRIckZqbUJxanQxRFkwZkQ5MUluQlUtUQ?oc=5
 
-- Government objects to China illegally occupying Indian territory - The Times of India
-  Government objects to China illegally occupying Indian territory.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
+- India’s Cockroach Janta party protest victory signals trouble ahead for Modi - The Guardian
+  India’s Cockroach Janta party protest
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObndZSGFrbTR4UjJxSVNXbjVhY2RlOW1HMzhVVHc4SjcwTFlTbFJkczlHam1nR0dlMHRpdE9PRHdSQ1l6cXQ5S1lMOHBTRWRGdExnWEp2bGZTMGRBX21tQ3dQb3N1aDBFRm1yd2ZnbWppQTFjcVpYbjlKdEh4ZlZuRm9qOG1Wb1NwU2wtb1hkQVF5cHhXNDBiZ3pKYS16Uk4taDlMZVh3em0zMW1VUmdBdDl3MENmZmVD?oc=5
 
-- Dharmendra Pradhan: India's 'cockroach' protesters call off strike as education minister resigns - BBC
-  Dharmendra Pradhan: India's '
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCY0MzUm1yQXlUUHU3b3JtMEF2dEVPQVRuWFZpYjAzakNxb25jTjhFRlJJaldzVE95U3B5SjJwNDM4THozN0k0UldzZHJkZE9Pc0NKOA?oc=5
+- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
+  Who is India’s new
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- PM Modi Announces Task Force On Exam Reforms Under Infosys Co-Founder - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNE
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNExtdXJjdkJyRFlDV0d1S0dYVFQzYjhMMkdaX0IzOTRvUGtZbnRNVHZVVFhKU3JkaWtUSlYtd0JoNXV3aTRJSWVxSmJIaTZuMmJpTFNqNXhUTVdvY2gtOWHSAcgBQVVfeXFMUEtFN2VHa3piWlg1eF9Sd0Y2YXEzT3BZTTFtbFcxLWx4VUV5Qnp1bndzblBPZVR6RE5nbUNvVWV5ajhnQkIwQTd5U0pIZWVETFRkYXdaSnJqNl9LMWowRHNBckIzNllyOW9nN3ZPNVdXeU9rVjVKRnU2bFZsYWFXaVRITHlEekFFREtpY1N3U3hUS3U0N2JxZlV2U0hhSFVtQ29BQ05RQ3JDaVFzamxyQkF6QmNxMXBZNXRTbFp6SjkzMzVqZ2MxVTQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Dharmendra Pradhan, CJP: India's 'cockroach' protest called off after education minister quits - BBC
+  Dharmendra Pradhan, CJP:
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeW43Q1ExSmxITHl6LTVXSXdmTWdsejBJSEh3aFhXOXl6SVBkWmpZb3lWTlpicmYtbjBRT2YyRUt2Yk9ZcmxBVlJ1ZzItSGxuNTZKNFVIZjF6UQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Latest Hockey News and Updates - Hockey India
+  Latest Hockey News and
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQajNaYTJSaXpxSm1WZTJ3S3ZETEh4M0Z6a2FpMUVMNGxXX0N1ODU0c1E2LV8xLThicHFtSVM1Sjg0dzZ5WWVjNXhLOXZxX2F2Z2YtOVRGdGtHb1h6Wlo5SDFjNC1KY3FCZnJOb2kxQWVyc1ROdm5CNzMwVktkam1VaEc2N09MM2E0aU9ycG9WcU9XZ2VWMmhYd0dFRFNvMWJMMldKeXdhZWdEd1owRVY5MU5lQ19hVGRIckZqbUJxanQxRFkwZkQ5MUluQlUtUQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India’s Cockroach Janta party protest victory signals trouble ahead for Modi - The Guardian
+  India’s Cockroach Janta party protest
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObndZSGFrbTR4UjJxSVNXbjVhY2RlOW1HMzhVVHc4SjcwTFlTbFJkczlHam1nR0dlMHRpdE9PRHdSQ1l6cXQ5S1lMOHBTRWRGdExnWEp2bGZTMGRBX21tQ3dQb3N1aDBFRm1yd2ZnbWppQTFjcVpYbjlKdEh4ZlZuRm9qOG1Wb1NwU2wtb1hkQVF5cHhXNDBiZ3pKYS16Uk4taDlMZVh3em0zMW1VUmdBdDl3MENmZmVD?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
+  Who is India’s new
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- PM Modi Announces Task Force On Exam Reforms Under Infosys Co-Founder - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNE
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNExtdXJjdkJyRFlDV0d1S0dYVFQzYjhMMkdaX0IzOTRvUGtZbnRNVHZVVFhKU3JkaWtUSlYtd0JoNXV3aTRJSWVxSmJIaTZuMmJpTFNqNXhUTVdvY2gtOWHSAcgBQVVfeXFMUEtFN2VHa3piWlg1eF9Sd0Y2YXEzT3BZTTFtbFcxLWx4VUV5Qnp1bndzblBPZVR6RE5nbUNvVWV5ajhnQkIwQTd5U0pIZWVETFRkYXdaSnJqNl9LMWowRHNBckIzNllyOW9nN3ZPNVdXeU9rVjVKRnU2bFZsYWFXaVRITHlEekFFREtpY1N3U3hUS3U0N2JxZlV2U0hhSFVtQ29BQ05RQ3JDaVFzamxyQkF6QmNxMXBZNXRTbFp6SjkzMzVqZ2MxVTQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Dharmendra Pradhan, CJP: India's 'cockroach' protest called off after education minister quits - BBC
+  Dharmendra Pradhan, CJP:
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeW43Q1ExSmxITHl6LTVXSXdmTWdsejBJSEh3aFhXOXl6SVBkWmpZb3lWTlpicmYtbjBRT2YyRUt2Yk9ZcmxBVlJ1ZzItSGxuNTZKNFVIZjF6UQ?oc=5
+
+- Latest Hockey News and Updates - Hockey India
+  Latest Hockey News and
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQajNaYTJSaXpxSm1WZTJ3S3ZETEh4M0Z6a2FpMUVMNGxXX0N1ODU0c1E2LV8xLThicHFtSVM1Sjg0dzZ5WWVjNXhLOXZxX2F2Z2YtOVRGdGtHb1h6Wlo5SDFjNC1KY3FCZnJOb2kxQWVyc1ROdm5CNzMwVktkam1VaEc2N09MM2E0aU9ycG9WcU9XZ2VWMmhYd0dFRFNvMWJMMldKeXdhZWdEd1owRVY5MU5lQ19hVGRIckZqbUJxanQxRFkwZkQ5MUluQlUtUQ?oc=5
+
+- India’s Cockroach Janta party protest victory signals trouble ahead for Modi - The Guardian
+  India’s Cockroach Janta party protest
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObndZSGFrbTR4UjJxSVNXbjVhY2RlOW1HMzhVVHc4SjcwTFlTbFJkczlHam1nR0dlMHRpdE9PRHdSQ1l6cXQ5S1lMOHBTRWRGdExnWEp2bGZTMGRBX21tQ3dQb3N1aDBFRm1yd2ZnbWppQTFjcVpYbjlKdEh4ZlZuRm9qOG1Wb1NwU2wtb1hkQVF5cHhXNDBiZ3pKYS16Uk4taDlMZVh3em0zMW1VUmdBdDl3MENmZmVD?oc=5
+
+- Video | Mann Ki Baat | PM Modi Highlights India's Growing Defence And Technology Strength - NDTV
+  PM Modi held a press conference in New Delhi to discuss India's
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUVNQmNjbVlseV9aTnFEWnVJR01kWTNOZDQyNy1VVVdfdFhyM21rai1qdktVTmwwaUpLTzdpZjQ0UFBsR05UOG53cU9BcWZOd1pHSWF5dmNvWE1scU5qdkNzVDRGLVhwVTc0MXdUa1VfMzJrZkRpRTVKaWZNb1R3X1JJeGt0VFhTVGdmbFZ5cHNHczBuTmd6ZGRYbkhYdmpsQThV?oc=5
+
+- PM sets up task force headed by UIDAI chief Nandan Nilekani for exam reforms; panel to revamp NTA through - The Economic Times
+  PM sets up task force headed by UIDAI chief Nandan Nilekani for exam reforms.
+  🔗 https://news.google.com/rss/articles/CBMijwNBVV95cUxQTWpnb09ZNi04MzdoSVFKaVVoblpSNnVMczBhTng0TTJTQ29ZVHExaFJWdG9tUlRRYWJfSVA0UGlGeVJwTEhoNE1TSzM5cF96dS12RHRvc1pzZ1RRcTZDWU4zUTFodlhud3RPUTIyTzVLaWpKVkg0dHBudUE1VWtuMExXTnNqbWRhQUhkcEdrZGVQLV96dExSb1k3TElXRkV5VklBT19qMl9RekM0QWxtaE5sZUdzX21MRnNKYkM5WVBQQnM5MzVOOXVNa3dMQ01MN2lscGJaYldkU2I5bHRFR3RhMDBQMk0zUDZWV0RjWWItVWJibUt4NkpVTTlQT0loTEpNSzRkaHJOSW5aYjltMk9sWnJMTmtDMFB4R0pSTnZIS1E3M3hCc29DeV9ZSFNTRGJEX2Z4ZjVqTS1NTWotbDR3NUdOaGliSDdoOUctWVIzOFVjVWhmRnFleHhIYWNPN0lMcjdvV1Y5a0JqREwtU052TTFOZzYzYW9HYS1Za3QtMzRyN1RqV1BEOUR6NXPSAasCQVVfeXFMUGlvSmcwTVAzMXhYaE9KeWQ5eXdVeDhjSk1ldk1iRUgyczhPTGxPT1VjcEQ0US1rQUlQSnQwZzU3OVJTR1QyYndkSkV6WFlpZlpZb1BfTndsbG93cXZOZ1dKUFEzY3FFazBwaGtOSk9FTWJGRVdqYXJJaW95X1dzdUtiaUtXTHI0Y0h2V1lMWnRFMnhqX0tVelVNZGdmTHRaYjlUbGdNcDRZRHFTNnNDMldyWExsMVJWMFFmNXhiNU1jdDVDenpyX3VhaEdaY0s5VmhGSGU0NzFMSS0wcHB0eHlMck5ELUxwRklLV2REbDNnUDJWUEVBT1dUWkxIQ0VDSjcxUW9RY3NkT1E4TGpoeTM3aGZxLUtPYkZkMm4yU2hlWl9MZWhiV29WQkk?oc=5
+
+- India scaling new heights in defence, space and indigenous technology: PM Modi - Telangana Today
+  India scaling new heights in defence, space and indigenous technology
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQbW9WWDVoRW5MUmNIQkhIak9UNXM5Y1NzbXlybHpMRUR6UlVyVlozLTZzY05KeUtyNy1iVGRqTGVzUjlrZTRlS0t2UnpjYVlKYXFvd1g3cFItZ3JVQlZWNkdxRk51NHNCLW5yNnV3ZEZNR2k5N1VSQktSOHIzRzZIazNJUE8ybzZSUXdxUjVnVS1EMEsxb08xdFdKN0x3UVZNcmRaZXNB?oc=5
+
+- Ukraine’s new military leader is forged by war and technology - ThePrint
+  Ukraine’s new military leader is
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPWW9CTVJXd2tjNl9UOVBXN0xhaXVXMXhCRnRlRnRmYVJvejVoSWhPb2xpZlllNlU5TzVpaGw2cjNuLVBGWGNKUzJwLWpvQTlZXzNzRjFjSnhSeVhUMmhRX2lyS05tenFRRGNNWHpVdUd6bzBTcXJmLTN3Uk03azBGQXQ0aW9ibm5pSmZHekJaQ1VLT1NLYWxOMmFJSdIBoAFBVV95cUxQekYtdlJzMnkxeXNtWnV5a1hPOFo0dEh5U01JdVRxVlBEcHkyeEV2QkZTMEQ5TVdQMVJpWFQ5Z2E0c1BjeDc2MGFhWjAySW5QMk9TMm1SNXNRcC1GVWtadGthX192dTBJYTNtV1h6S1pISm5vaW1FV1pzcU51RW56MG5nZ0Z3b2JWcDZzMFBPTm1WejE3MmdTaVl0YU1rQVJC?oc=5
+
+- New Small Spacecraft Technology Demonstration Mission at the Moon - NASA (.gov)
+  New Small Spacecraft Technology Demonstration Mission
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnpuZTNHMHNTYmR4eVlOWDQycjd6WHdxNGk1Ym9ua1FNYVp1azlZNGlqX2xDdXhoT2pQWHBuVHY4cVRpRFNoUVhmaUNycHNMbm1Rd3d6R2RrWW1lS0c1aFdVcXowTFR1R1B5MDVZbEotel90RG0tNE03UTJkNVRrT2R6emlVNUVHN2owY0p0YW03cEVQSzkxR3VrSElmS0k1Q3pwcEZYN3hXUmxxQkpJ?oc=5
 
 
-_Last updated: 2026-07-26 13:11:22 UTC_
+_Last updated: 2026-07-26 19:06:36 UTC_
