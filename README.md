@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Assam Police arrest six over Guwahati protest backing Delhi demonstration; over two dozen detained
+- ‘Free Umar Khalid’ placard draws police action at Goa protest
   
-  🔗 https://indianexpress.com/article/india/guwahati-protest-sfi-jantar-mantar-dispur-police-arrests-bns-charges-10803645/
+  🔗 https://indianexpress.com/article/india/free-umar-khalid-placard-draws-police-action-at-goa-protest-10803715/
 
-- 5 key moments from the CJP protest that shook the nation & forced a minister’s resignation
+- Pakistan-based terror handler ordered to appear before NIA court in Katra, Narwal blasts that killed 13
   
-  🔗 https://indianexpress.com/article/india/cjp-protest-timeline-five-key-moments-dharmendra-pradhan-resignation-10803274/
+  🔗 https://indianexpress.com/article/india/pakistan-based-terror-handler-ordered-to-appear-before-court-in-katra-narwal-blasts-case-10803703/
 
-- Pralhad Joshi to take charge as education minister after Dharmendra Pradhan resigns
+- Twisha Sharma case:  Why court rejected mother-in-law’s bail application
   
-  🔗 https://indianexpress.com/article/india/pralhad-joshi-new-education-minister-dharmendra-pradhan-resignation-accepted-cjp-10803556/
+  🔗 https://indianexpress.com/article/india/evidence-may-be-influenced-court-denies-retired-judges-bail-in-twisha-sharma-death-case-10803713/
 
-- NEET leak protest: Vandalism and arson reported in Bihar; Tejashwi alleges police fired AK-47s at students
+- Elections are won with votes, respect earned through public service: V-P C P Radhakrishnan
   
-  🔗 https://indianexpress.com/article/india/bihar-bandh-neet-paper-leak-protests-clashes-dharmendra-pradhan-resignation-10803512/
+  🔗 https://indianexpress.com/article/india/elections-are-won-with-votes-respect-earned-through-public-service-v-p-c-p-radhakrishnan-10803801/
 
-- Delhi Police action against Jantar Mantar protesters was less: Rajasthan education minister’s latest
+- 4th Justice G P Singh Memorial Lecture: Consuming chicken biryani no offence… dissent essence of democracy, says Justice Bhuyan
   
-  🔗 https://indianexpress.com/article/india/rajasthan-minister-madan-dilawar-defends-delhi-police-cjp-protest-neet-paper-leak-10803459/
+  🔗 https://indianexpress.com/article/india/4th-justice-g-p-singh-memorial-lecture-consuming-chicken-biryani-no-offence-dissent-essence-of-democracy-says-justice-bhuyan-10803761/
 
 - Why Nvidia, Microsoft and Meta want the US to support open-weight AI
   
@@ -60,6 +60,14 @@
    Paramount agrees to delay closing Warner buyout for
   🔗 https://www.livemint.com/companies/paramount-agrees-to-delay-closing-warner-buyout-for-months-while-judge-considers-states-challenge-11784926052342.html
 
+- The bond rout is bruising would-be home buyers—and challenging the Fed
+  Investors’ worries about government debt, plus their increased expectations that the Fed will hike rates this
+  🔗 https://www.livemint.com/market/bonds/the-bond-rout-is-bruising-would-be-home-buyers-and-challenging-the-fed-11785030594095.html
+
+- Expert view: Semiconductors, spacetech could unlock $500 bn-$1 tn market opportunity, says Piper Serica's Director
+  Semiconductors, spacetech, and deeptech poised to reshape India's economic landscape. Ajay Modi, Director at Piper Serica, believes these industries have the potential to create
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-semiconductors-spacetech-could-unlock-500-bn-1-tn-market-opportunity-says-piper-sericas-director-11785027655709.html
+
 - Gold Edges Up as Traders Weigh Mideast Conflict, Fed Rate Path
   Gold holds firmly above the key resistance point of $4,000 an ounce. The widening conflict in the Middle East fuels
   🔗 https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-fed-rate-path-11785004100660.html
@@ -71,14 +79,6 @@
 - Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly
   Big Tech’s insatiable appetite for AI investment is unleashing a relentless wave of bond sales. It is having a
   🔗 https://www.livemint.com/market/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly-11784978281312.html
-
-- IDFC First Bank Q1 Results 2026: Net profit surges 132% to  ₹1,075 crore; NII rises 21%
-  IDFC First Bank reported a net profit of  ₹1,075 crore for Q1 FY27, up 132.2% YoY. Customer business rose 18
-  🔗 https://www.livemint.com/market/stock-market-news/idfc-first-bank-q1-results-2026-net-profit-surges-132-to-rs-1-075-crore-nii-rises-21-11784977081353.html
-
-- AU Small Finance Bank Q1 results 2026: Net profit grows 37% to  ₹796 crore, NII up 32%
-  AU Small Finance Bank's Q1FY27 results revealed a 37% YoY rise in net profit. Despite a slight increase in non-performing assets, the bank demonstrated strong operational performance
-  🔗 https://www.livemint.com/market/stock-market-news/au-small-finance-bank-q1-results-2026-net-profit-grows-37-to-rs-796-crore-nii-up-32-11784970458420.html
 
 - How the lighthearted social media trend of teen takeovers took a serious turn
   'Teen takeovers' have taken a
@@ -100,6 +100,26 @@
   A Chinese-developed AI model played a key role in helping AI platform Hugging Face contain what OpenAI described as an '
   🔗 https://www.livemint.com/technology/tech-news/openai-couldnt-stop-its-own-rogue-ai-a-chinese-model-did-heres-how-11784905940360.html
 
+- S&P 500 closes little changed Friday as Iran fears and chip sell-off weigh down market: Live updates - CNBC
+  S&amp;P 500 closes little changed Friday as Iran fears and chip
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5faUg1R2E2UzRLZjdYMk0wSDJ5UVNTd3FJOGp0RjU0clNleGxKeEhjMUxZV0IyTEpUVHRGZk9iSGIzakRVTU84ZzhGYkxUSExnYVBad2FEbmZQSW5EM1J4LUVrMnZGT1U5Zzhnd2NxYXE2R25yVHNj0gF8QVVfeXFMTWl2WWhNNEUwLTBIc0J0YXFiM2k3N1QtQ0Q2WmRDbEJmTzJIX1dSd2VzTnV3eVNPb1M0ejU2bVI3YUtCT2VGa0t0MVFFUzgwMTdDRndFYUI5QmNVcjNaTkxHNUtaR20wWmpyZkRSVFVBeGFmaUtteUZoVXRncg?oc=5
+
+- Markets News, July 24, 2026: Major Indexes Close Lower for the Week After Mixed Session on Friday as Chip Stocks Drop - Investopedia
+  Major Indexes Close Lower for the Week After Mixed Session on Friday as Chip Stocks Drop.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2xyYVpYMEsxdHlpNGM5bzRaX2M0dmpQWnpqYnJtaFNHQ29EMW1GVTNfMG5iSjZzSFBBdEdKTFlnTjRMOW13QnhqQXRuM2ZQMEdMbTlxTW53SFJIWmpyam9nYmU2dXg2SFJXWHk1Q05NemM3MkJMTzBsR3VreklFaldXM09HdllYUTVJQmZ6OVk?oc=5
+
+- Stock Market News, July 24, 2026: Crude Oil Slips on New Hopes for Peace Talks - WSJ
+  The WSJ published a story on July 24, 2026,
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFhZYlFqX1F2Y2F3U0ZEeWV1aXFLRlpxa2ViQ1lNRVE5eXJjeE5lZjh2ZERxNEowVUZDdUdoOWN4eUZxWlVMM2hCQ0xpVUV5OXhwazhnVFFxWjlKaGdJOUtBSXM3OHQ1QVpRa2FYWUVnNHY4aGhuc01nOWVfdmRlMVV6OUF2SFU?oc=5
+
+- ‘Big Short’ legend Michael Burry says markets are acting like in the last months of 1999-2000. Prepare for the crash now - Yahoo Finance
+  ‘Big Short’ legend Michael Burry says markets are acting like in the last months of
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPemdxSW51WFMtUDJfV1ZwRlpRazFxbGVjaC0yeFF0enNKNTJhak12dHlxNmIzSXYwVk5xejh4QUR2TG43QXNETmN0MzN0MjFiN3dkRGF5NTNVYnB5VEUzcm1taU9Vb1hrbm1ybFdHMWlUeGJPTF96UFhYM2cxdDRPUzFEdy1WLUx0NlphQXpmWDc1bWtFWnBSNWdZdw?oc=5
+
+- Rules-based disorder: why prediction markets struggle if reality is contested - The Economist
+  Rules-based disorder: why prediction markets struggle
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVZyRTI1WDcyTTJmU0tJNTVhVE93YXRFQWxCVDRpM19EbjBzNXQ1NU94WTJ6MERtNW5obnFYeWszSHd0QTA2VHhkRkVIRTdTR3lCVTVNNE91eE9CWVdvR0xVUlhmc0owSW10bWxBTlRRQ0lvOFpET1JPWjhDc2VuRk9IR2hXdW41SkhETWU4eTlDbG5weGJneDVqbVlTOERkdVIzRVRCQ080MnNmVU9waXdVNUx2MHB5WDN4REJncUJtTjFMYlQtYnFR?oc=5
+
 - Violent crypto attacks rise as criminals hunt bigger payouts
   physical attacks targeting cryptocurrency holders surged 33% globally in the first half of 2026. France emerged as the epicentre as criminals increasingly combined cyber intelligence, social engineering and
   🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/violent-crypto-attacks-rise-as-criminals-hunt-bigger-payouts/articleshow/132625026.cms
@@ -119,26 +139,6 @@
 - NTPC board approves raising up to Rs 12,000 cr via NCD issue
   NTPC's board approved raising Rs 12,000 crore via non-convertible debentures. The company's group installed capacity grew to 90,904 MW by June 2026.
   🔗 https://economictimes.indiatimes.com/markets/bonds/ntpc-board-approves-raising-up-to-rs-12000-cr-via-ncd-issue/articleshow/132621832.cms
-
-- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
-  Indian student protests: What’s next after
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
-
-- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
-  PM Modi Thanks Youngsters For "Insight
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
-
-- ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
-  ‘I will die for this cause’: how India’s cockroach
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPXzZNb3RxSmszZEhza1AyamtTejZ6bDFIN1ZEa3Btc3Vrd29sdGJZVlM2Y1JJdFlLTlFpS1h4UDZXZFRjR1g1bERLWkg0VGdYbjhsbHFTWmNjbDdfdTk4SGU2ZUpuTGc3UEJycHhKa0cybWVzWlo0VEJtSWEtMWY4c1ZkQlctVVlIZ0FwQlk0OXZqbmpyM245VzJJMXhyNGFJU0ctTk5FSHU4eWc4b2NVbFBySkphVDR1NHhfZE1YU19IRnZ1dm5rUk9DSVpzbmZNckxhVkJiSHUwM3J6bEtoNjY0TGt6ZzM5OEl4RFdXQmdkQUZmeWhN?oc=5
-
-- Government objects to China illegally occupying Indian territory - The Times of India
-  Government objects to China illegally occupying Indian territory.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
-
-- Sarnath Added To UNESCO World Heritage List, 45th Site From India - NDTV
-  Sarnath Added To UNESCO World Heritage List
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9tZnVRcmFxUGtTZlZTbERyU2JWMGJXa194QlFNd1ROeElOYUsyWlp6U08zNFktRkFJZy1OcVBfODVBSW1XRmFaRkRuWkU3MExXMTVxbjVydTN1bUR1UUwzQ0ZBRVBSRlZnc3lscXVxZ1A1Z1ZnbnFodG1oakp0cE1LUHUxc2ZnQnZlRTlFN2k1U3h3VUN2R0MxeldncTREZ0V1NDMwSWTSAbABQVVfeXFMT2t5b0pwUGdBYzlrd1lIX3BvUlhVelIwellhbkpLT3hES1JvV19LM3NSNUJ6cVBaQjBtdE9JOVQ2QVdwbDJCTlBOMDhWM3lIRVJfU1dVOUppenhsbzdSOWIySTNzc3gxMWk2SWdpaVpEQkJpajJrcHZHeUk2elpaanVhVTdlVldZTmtJS1gxa1lFZ2N0cVZOUV9NTnJQMXo1ZzNCUlpuVFpPTzdtSUFhWUw?oc=5
 
 - Swiggy Plummets, BlueStone Soars Amid Bearish Week For New-Age Tech Stocks
   It was a bearish week for India&#8217;s new-age tech stocks as renewed geopolitical tensions and a broad-based
@@ -164,9 +164,9 @@
   Indian student protests: What’s next after
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
 
-- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
-  PM Modi Thanks Youngsters For "Insight
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
+- 47 Officers Of Testing Body NTA Sacked Amid Paper Leak Protests: Sources - NDTV
+  47 Officers Of Testing Body NTA Sacked Amid
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTZVSUFLT0NuZ1VnSk9yc0tUVmMyOWFIYmctVUVsd1k3RXUxYnk3dG0wbl9zZEE0dWZESlNrUFdteWpKMTNZNkVqbUpfaFhpbWt1cnJtMml3UDItckQwUGxOQmhQNGtmdVFpNmdVeEtUNElPQlIyd3oyX0l1bkpVd1lkczl6Q3JEQnkyMUVWY0NBRDZsMUV1VVJtS1daUEVVaDZvaEtub1JpSS0yWm1DLTZlZ9IBuwFBVV95cUxNb2p3X3ZlbzZiVXo4OE1hek9BTXYydGE4a0JaS0UySW5kN2dyR2tlY2pfYVFnVk1kSWN5QS1mRnc3Z0NBZXBXZG84dXZ6M1kwai1RVHFWMmhIZFhWY3A0bUx0czJOZHJ4OHNfN3RSYWU0M29RSUxYUUYtZkVxRjItWmdhNll1MmVLY3RRM3VodjVmTjZOZGl4d2xldXctb0hYTU9sLWpBdUNqYWZqM0ZRV3FVbnBSdTVKV0ow?oc=5
 
 - ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
   ‘I will die for this cause’: how India’s cockroach
@@ -176,69 +176,9 @@
   Government objects to China illegally occupying Indian territory.
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
 
-- Sarnath Added To UNESCO World Heritage List, 45th Site From India - NDTV
-  Sarnath Added To UNESCO World Heritage List
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9tZnVRcmFxUGtTZlZTbERyU2JWMGJXa194QlFNd1ROeElOYUsyWlp6U08zNFktRkFJZy1OcVBfODVBSW1XRmFaRkRuWkU3MExXMTVxbjVydTN1bUR1UUwzQ0ZBRVBSRlZnc3lscXVxZ1A1Z1ZnbnFodG1oakp0cE1LUHUxc2ZnQnZlRTlFN2k1U3h3VUN2R0MxeldncTREZ0V1NDMwSWTSAbABQVVfeXFMT2t5b0pwUGdBYzlrd1lIX3BvUlhVelIwellhbkpLT3hES1JvV19LM3NSNUJ6cVBaQjBtdE9JOVQ2QVdwbDJCTlBOMDhWM3lIRVJfU1dVOUppenhsbzdSOWIySTNzc3gxMWk2SWdpaVpEQkJpajJrcHZHeUk2elpaanVhVTdlVldZTmtJS1gxa1lFZ2N0cVZOUV9NTnJQMXo1ZzNCUlpuVFpPTzdtSUFhWUw?oc=5
-
-- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
-  Indian student protests: What’s next after
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
-
-- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
-  PM Modi Thanks Youngsters For "Insight
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
-
-- ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
-  ‘I will die for this cause’: how India’s cockroach
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPXzZNb3RxSmszZEhza1AyamtTejZ6bDFIN1ZEa3Btc3Vrd29sdGJZVlM2Y1JJdFlLTlFpS1h4UDZXZFRjR1g1bERLWkg0VGdYbjhsbHFTWmNjbDdfdTk4SGU2ZUpuTGc3UEJycHhKa0cybWVzWlo0VEJtSWEtMWY4c1ZkQlctVVlIZ0FwQlk0OXZqbmpyM245VzJJMXhyNGFJU0ctTk5FSHU4eWc4b2NVbFBySkphVDR1NHhfZE1YU19IRnZ1dm5rUk9DSVpzbmZNckxhVkJiSHUwM3J6bEtoNjY0TGt6ZzM5OEl4RFdXQmdkQUZmeWhN?oc=5
-
-- Government objects to China illegally occupying Indian territory - The Times of India
-  Government objects to China illegally occupying Indian territory.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
-
-- Sarnath Added To UNESCO World Heritage List, 45th Site From India - NDTV
-  Sarnath Added To UNESCO World Heritage List
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9tZnVRcmFxUGtTZlZTbERyU2JWMGJXa194QlFNd1ROeElOYUsyWlp6U08zNFktRkFJZy1OcVBfODVBSW1XRmFaRkRuWkU3MExXMTVxbjVydTN1bUR1UUwzQ0ZBRVBSRlZnc3lscXVxZ1A1Z1ZnbnFodG1oakp0cE1LUHUxc2ZnQnZlRTlFN2k1U3h3VUN2R0MxeldncTREZ0V1NDMwSWTSAbABQVVfeXFMT2t5b0pwUGdBYzlrd1lIX3BvUlhVelIwellhbkpLT3hES1JvV19LM3NSNUJ6cVBaQjBtdE9JOVQ2QVdwbDJCTlBOMDhWM3lIRVJfU1dVOUppenhsbzdSOWIySTNzc3gxMWk2SWdpaVpEQkJpajJrcHZHeUk2elpaanVhVTdlVldZTmtJS1gxa1lFZ2N0cVZOUV9NTnJQMXo1ZzNCUlpuVFpPTzdtSUFhWUw?oc=5
-
-- Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera
-  Indian student protests: What’s next after
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVFFX0c4ZlhZeEJSM2lpalZjR2k1MTJEeFVmRHBOd2cyVTNVMy1zZ2Y0TXBkbVJQNVl3RTJ5Q29zQ0pkekpKUzNBOTZORFZ4d3RqZ0pyNHJOMksycVE2ODNUVkNxQWxJbXplZXJWMTRIem5IbEdhMm42X2pRTno5cnJPYzU3UWZYdDJrYnlMSEZYRkxjNHpJTVZwd3VUWEluaU1rZlk4R3RjMzc1bXfSAbMBQVVfeXFMTnhWd2QycjNFaE03VmxDVHJqR1haeEs0YkU2UkhzZTFSeFoyTUVOQ3I0MGNkQ3U1ZVZtcTBhamZMd21Rb21DMFhldllYdEtMWVBEVUY2NVI0LU1yelFHdXppNm81NlRhTV81R181RkFDMHpLSFJ0dXJTUHJJOXJicHRFMHRDOG00XzZlN0ZtaTctLTZrdVczZUZjWmt0Y0FWU1I2MEV0N2JWcGRoY1A1UzhrcFU?oc=5
-
-- PM Modi Thanks Youngsters For "Insightful Suggestions" On His Late-Night Video - NDTV
-  PM Modi Thanks Youngsters For "Insight
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNBTEVfYVp3eFlKc3hfWEFERXc3VFlrdENBVGJIZFFKd2NEVlEyd0RMam1jZGE4aExaZmh4N1I1YUpGeUU0WnRSUmRtdkxvQVJmdlhZSXZuZnBkOTJWNHJ6YzdBOEw4bE5fT2hNUkxTM2xUVDZheGpMc09rTXd5SkNRVHVsM0R0M3MzcFh6QzRjTnVqY1VMcHNGUDRmczJoQjBvOTFlZmtKTzJBWFctSElVYmVTWHUx0gHAAUFVX3lxTE02ZnFIemNDdEZreWFrbERfTjdrMFpMc0ROR3l6NERyeWVPejVGZUhXd1BzbDc4QUFRWWFzUHJvZ0NaMnpyVWlqTjRLejVvMEZqSWZaRGJWZXdnQ3ZrZGRMc2pkN1V3eko5eFAwRXJOMzQ4SG1NT2FfdEtmTURaaHNWc3F4eTFPaV83WDBNOFYtTUhOVlo4Y2thaXQxZDFDQTlRUHZhMnhTaW5PNlc0Wjc5S2V1b3E3OUlybjJ6OXNMZQ?oc=5
-
-- ‘I will die for this cause’: how India’s cockroach meme became the biggest challenge to Modi’s grip on power - The Guardian
-  ‘I will die for this cause’: how India’s cockroach
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPXzZNb3RxSmszZEhza1AyamtTejZ6bDFIN1ZEa3Btc3Vrd29sdGJZVlM2Y1JJdFlLTlFpS1h4UDZXZFRjR1g1bERLWkg0VGdYbjhsbHFTWmNjbDdfdTk4SGU2ZUpuTGc3UEJycHhKa0cybWVzWlo0VEJtSWEtMWY4c1ZkQlctVVlIZ0FwQlk0OXZqbmpyM245VzJJMXhyNGFJU0ctTk5FSHU4eWc4b2NVbFBySkphVDR1NHhfZE1YU19IRnZ1dm5rUk9DSVpzbmZNckxhVkJiSHUwM3J6bEtoNjY0TGt6ZzM5OEl4RFdXQmdkQUZmeWhN?oc=5
-
-- Government objects to China illegally occupying Indian territory - The Times of India
-  Government objects to China illegally occupying Indian territory.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDlGZnA1cHRMd2NfVGYwYnVlUnhIa2ZLTE11ZEU4emtidFgzRXNYamI4Mk1NOVV2bjNqZjRIaUpJbmFaY0xhNml1ZGRRN0lUTTRfWmZxbXZfRUxuWXpXR1hqdXVKajhidGMxd0ZKVkU0UWowUlhhWU5Ec1BneHYyLXBQS1ZHMGNkZGhaaUh4YTlRb1pyS2ZOLW1UbUhoWjBlU1pEWExoM0NtN05kUWh3ZzljblBrZFF4UXdqM2xXR0h5UFExeW83MDhNZDfSAdIBQVVfeXFMTnpnUFhZcGZrYXkwN1gzR3VVUUNkZ2hBVGQwUjR4c3lXSE5oRW1Bd2l3OTlhU2FLcWYzR3JZYXozRG5KME1ueTk5ZDU5Y29XbjNfQk5NZjNsS1h4QmNBZWZ3WWRUN1g1RmxtaEZvZE9fZDIwRnd6aWhfdGE0Tk94ZXZDQllEdHo0N3hpTk4wX1AzNFlVVkE5SjJWOHA4bEVvWVZsc1FjTzBYcFo1LW1wMXoyb3ZEY3R1S2k5QUFSYW4yUXFyNy1lZ2l6c1UzRXJ4TlZ3?oc=5
-
-- Sarnath Added To UNESCO World Heritage List, 45th Site From India - NDTV
-  Sarnath Added To UNESCO World Heritage List
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSV9tZnVRcmFxUGtTZlZTbERyU2JWMGJXa194QlFNd1ROeElOYUsyWlp6U08zNFktRkFJZy1OcVBfODVBSW1XRmFaRkRuWkU3MExXMTVxbjVydTN1bUR1UUwzQ0ZBRVBSRlZnc3lscXVxZ1A1Z1ZnbnFodG1oakp0cE1LUHUxc2ZnQnZlRTlFN2k1U3h3VUN2R0MxeldncTREZ0V1NDMwSWTSAbABQVVfeXFMT2t5b0pwUGdBYzlrd1lIX3BvUlhVelIwellhbkpLT3hES1JvV19LM3NSNUJ6cVBaQjBtdE9JOVQ2QVdwbDJCTlBOMDhWM3lIRVJfU1dVOUppenhsbzdSOWIySTNzc3gxMWk2SWdpaVpEQkJpajJrcHZHeUk2elpaanVhVTdlVldZTmtJS1gxa1lFZ2N0cVZOUV9NTnJQMXo1ZzNCUlpuVFpPTzdtSUFhWUw?oc=5
-
-- AIC IGCAR FAST Foundation (AIC FAST), the Atal Incubation Centre of Indira Gandhi Centre for Atomic Research, Kalpakkam organised an event on 24 July 2026 themed Translation of IGCAR Technologies From Lab to Land...and to Space - PIB
-  AIC IGCAR FAST Foundation (AIC FAST), the Atal Incubation Centre of Indira Gandhi Centre for Atomic Research, Kalpakkam
-  🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wQjNoeDZjUVgyX2VsV1BLMngzcVR5dVY1US1KZVVucTd3QVZZOTctS0MycFYxXzZ1c0RkZkYwTzFYNWl6NDRmdFo0cVlmaHBtUVlhVGF2VlNCZnNaeUJPX3RHdHF4S3F4?oc=5
-
-- The AI jobs apocalypse probably isn’t coming anytime soon - The Guardian
-  The AI jobs apocalypse probably isn't coming
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTlRPeHY4ZnZBa010WDFSS1p4YUxWNzdVRWo3X0g0Vk5LUEdFcjBsbnBMWTAzdG9jS0FUMTFKNkNsSnJnMTlNR1BoVkhYQy1EZmN2ZV8yWVJKbTFVTWJwZ2F2TjFLcU1OSlc4WEt6dW14QU1LUkFZVnlVUEpmVE93bGlkNEhqajRR?oc=5
-
-- New Small Spacecraft Technology Demonstration Mission at the Moon - NASA (.gov)
-  New Small Spacecraft Technology Demonstration Mission
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnpuZTNHMHNTYmR4eVlOWDQycjd6WHdxNGk1Ym9ua1FNYVp1azlZNGlqX2xDdXhoT2pQWHBuVHY4cVRpRFNoUVhmaUNycHNMbm1Rd3d6R2RrWW1lS0c1aFdVcXowTFR1R1B5MDVZbEotel90RG0tNE03UTJkNVRrT2R6emlVNUVHN2owY0p0YW03cEVQSzkxR3VrSElmS0k1Q3pwcEZYN3hXUmxxQkpJ?oc=5
-
-- ICAR-IIHR’s Hot Water Technology to boost the export of South Indian Mangoes - Indian Council Of Agricultural Research
-  ICAR-IIHR’s Hot Water Technology to boost the
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUVuckFVcGh3M1k0YTBESlZGV0Z1OTN2RTd4OW02TlVXSjBVTmRMOGJnaVBOQkJrbUgyTlN2ay1mQ1hPelBhZzlYVE5PUTExeDNPQXdIWHg2UDBnUFo2UV9ZWXI3d2Z0a2J4bldYWXd5T2tXbDFIMUFTdXVqSVdESnRiNGlXdTZCV25YZGxlS0FtUQ?oc=5
-
-- Microchip Technology Signs Definitive Agreement to Acquire Hailo - Microchip Technology
-  Microchip Technology Signs Definitive Agreement to
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUQzWFUtNHlhSUJFMm1JYXNza0NWOHc5VlA4d2dIUTFwMjdFeHdxdXFFRlR2ZVN5QXFEaVBpNGlyendIbGFNUmMwMEk0eV9JdUZCdEtFQzU3TkJwUUNIaEtuZ2I3WUxCbHVHVWxXdFIxb1lITlZTQ2tvSXFPOHNnNmN1Rjk4TmNKc25obXJjLWxtLTZ2MHAzQkdCRzloRVlSUTJYSUVRakJzcms0UnljV2RLNVFXWEZJNGpXdHNqTjA4N1lpemhn?oc=5
+- Breaking News Live Updates: Magnitude 3.7 earthquake hits Nashik, Maharashtra - The Times of India
+  Magnitude 3.7 earthquake hits Nashik, Maharashtra
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPYk91SE5UaERwR21neWlDVXJ4WlVDcE1HMXg5WUY1R3pWUTFQLW41dHFIRTNSSGFRWFJwcTJYSWhma1BkNkV1RU1MRVo3ZkFvVGFpVGlnREh6ZWhBQjNhX2dxeENBQTg4Nk9Kd0pRTEp1Y21PQmw2VXZoX2Z3VGhTOGk2b2ZySWRXejlEUkZEMXA5dG1SMTd3c2VMeE1sV21VMWFja2UtMXB5UTk3ME9uMUVmV3RJaml1cVZFbExRTmQ1QzZTdmNTMXdnSng5cXfSAdQBQVVfeXFMT051M1dvZ0tMajZoeVNjTTA3NW5CMnpkV0FYaGR2ckNlMm9lSDdOMUNzZkFZSzY1X2hfbjc4OElPRjRGOHBRYzBkQlg4eDI5SUpiZ0R5X2FTYmhxNGJvVUdWVThRMVE3RkhkRTUzQjViZTBBRHdRQ3VVbHgzQkxpRm9MV2FSVWo2dzRSMDlTcERyZWN4clpjUC02TVpneVBVWDZQaXdVcUZJOUlZS1NWbEItUktEdXZmendvRDJ6QzM1ZlIyUXlDalFwOVdJR1ZmdnRjQng?oc=5
 
 
-_Last updated: 2026-07-25 19:02:47 UTC_
+_Last updated: 2026-07-26 02:15:21 UTC_
