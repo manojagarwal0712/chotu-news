@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘Congress backed from outside, credit goes to youth’: Revanth Reddy on CJP protest
+- Meet the six experts in Nandan Nilekani-led high-powered exam reform task force
   
-  🔗 https://indianexpress.com/article/india/congress-youth-revanth-reddy-cjp-protest-10804775/
+  🔗 https://indianexpress.com/article/india/meet-the-six-experts-in-the-high-powered-exam-reform-task-force-10804907/
 
-- ‘Reproductive patterns’: Shashi Tharoor’s cheeky response to son’s ‘ban boomers from WhatsApp’ post
+- Rajasthan farmers object to GI on Unjha jeera and saunf
   
-  🔗 https://indianexpress.com/article/india/shashi-tharoor-ishan-tharoor-sridar-vembu-zoho-whatsapp-boomer-india-ban-cockroach-janata-party-genz-10804746/
+  🔗 https://indianexpress.com/article/india/rajasthan-farmers-object-to-gi-on-unjha-jeera-and-saunf-10804891/
 
-- PM Modi announces exam reform task force, Nandan Nilekani to lead
+- ‘Little will be left to save’: Mohammad Deepak on Jauhar University demolition order
   
-  🔗 https://indianexpress.com/article/india/narendra-modi-exam-task-force-nandan-nilekani-cjp-protest-dharmendra-pradhan-10804628/
+  🔗 https://indianexpress.com/article/india/little-will-be-left-to-save-mohammad-deepak-on-jauhar-university-demolition-order-10804845/
 
-- Angamaly-Sabarimala rail line: Kerala begins land acquisition, Railways allocates Rs 505 crore
+- ‘Came to get certificate, got shot at’: 3 suffer bullet injuries as protesters, police clash amid Bihar bandh
   
-  🔗 https://indianexpress.com/article/india/angamaly-sabarimala-railway-line-project-kerala-land-acquisition-rs-505-crore-allocation-10804444/
+  🔗 https://indianexpress.com/article/india/bihar-bandh-siwan-police-firing-student-protests-neet-paper-leak-10804861/
 
-- ‘Don’t harass minister for daughter joining student protest; don’t be surprised if my son…’: Assam CM Himanta
+- Another ship with 4 Indians targeted at Ukraine port, MEA issues advisory
   
-  🔗 https://indianexpress.com/article/india/assam-minister-daughter-student-protest-video-himanta-10804447/
+  🔗 https://indianexpress.com/article/india/russia-ukraine-war-odesa-port-attack-indian-seafarers-mea-advisory-10804889/
 
 - 3 quirky gadgets that saved my work trip to London, and why you might need them
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-confirms-pixel-11-price-increase-amid-global-ram-shortage-10804124/
 
-- Shein swings to quarterly loss ahead of Hong Kong IPO
-  Shein swings to quarterly
-  🔗 https://www.livemint.com/companies/shein-swings-to-quarterly-loss-ahead-of-hong-kong-ipo-11785076663686.html
+- Analysts reaction to Bank Indonesia Governor Perry Warjiyo stepping down
+  Bank Indonesia Governor Perry Warjiyo stepping
+  🔗 https://www.livemint.com/companies/analysts-reaction-to-bank-indonesia-governor-perry-warjiyo-stepping-down-11785119026908.html
 
-- Wipro Consumer, Murugappa lead race for Double Horse
-  Double Horse competes with Eastern, Nirapara, Brahmins, Manna, Elite Foods,
-  🔗 https://www.livemint.com/companies/wipro-consumer-care-murugappa-double-horseacquisition-11785041561851.html
+- How MRF’s 102-member promoter family has stayed united for 80 years
+  MRF, India’s largest tyre-maker, published its annual report last week. The shareholding pattern of the promoter group, which owns 27.77% of the company
+  🔗 https://www.livemint.com/companies/mrf-promoter-group-family-shareholding-ownership-structure-11785053877402.html
 
-- Women athletes are helping Niva Bupa build trust in health insurance, says CMO
-  Niva Bupa and its UK parent partner with the 2026 Glasgow Commonwealth Games. CMO Nimish Agarwal explains why real-life recovery stories from female sports icons like
-  🔗 https://www.livemint.com/companies/news/niva-bupa-commonwealth-games-sponsorship-health-insurance-marketing-11785039689093.html
+- Apple's India iPhone boom hits first speed bump in four years
+  Shipments slipped for the first time in nearly four years as iPhone 17 shortages squeezed supplies
+  🔗 https://www.livemint.com/companies/news/apples-india-iphone-boom-hits-first-speed-bump-in-four-years-11784814247505.html
 
-- What is Prentis? Reid Hoffman-backed AI startup in talks to raise $100 million funding: Report
-  LinkedIn co-founder Reid Hoffman and Zynga founder Mark Pincus are funding AI startup P
-  🔗 https://www.livemint.com/companies/news/what-is-prentis-reid-hoffman-backed-ai-startup-in-talks-to-raise-100-million-funding-report-11785035306888.html
+- AI intensifies pricing war among IT services firms
+  Technology companies of all sizes slash prices to win deals from clients. Clients’ demand for AI-driven productivity gains has triggered an intense price war.
+  🔗 https://www.livemint.com/companies/ai-intensifies-pricing-war-among-it-services-firms-11785052071499.html
 
-- Mobileye Founder Stepping Down as CEO After Volatile Run
-  Amnon Shashua is stepping down as chief executive officer of Mobileye Global Inc. He took public before and after a more than
-  🔗 https://www.livemint.com/companies/mobileye-founder-stepping-down-as-ceo-after-volatile-run-11785045096499.html
+- Jindal Steel acknowledges leadership churn, banks on new hires for stability
+  Jindal Steel Ltd’s new managing director, Vidya Ratt
+  🔗 https://www.livemint.com/companies/news/jindal-steel-leadership-churn-new-management-q1fy27-strategy-11785050822956.html
 
-- Wall Street Week Ahead: Fed decision, big tech earnings and Middle East conflict in focus
-  The Federal Reserve is widely expected to keep its benchmark interest rate unchanged.
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-fed-decision-big-tech-earnings-and-middle-east-conflict-in-focus-11785081332754.html
+- Stocks to watch: BEL, Indus Towers, NTPC among shares in focus today; check list here
+  The Nifty was trading near the 23,934 mark, up over 127 points
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-bel-indus-towers-ntpc-among-shares-in-focus-today-check-list-here-11785117135350.html
 
-- CBDT issues crypto asset reporting guidelines for exchanges under Income-tax Act 2025
-  The G20 has endorsed the Crypto- Asset Reporting Framework. It is an important enhancement to international standards for the
-  🔗 https://www.livemint.com/market/cryptocurrency/cbdt-issues-crypto-reporting-guidelines-for-exchanges-under-income-tax-act-2025-11785071772752.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 27 July
+  Indian stock market set to open higher on Monday. Key indices Sensex and Nifty 50 closed lower for five consecutive sessions.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-27-july-11785116055711.html
 
-- Wall St Week Ahead-US stocks face tests from Fed decision, tech-led earnings deluge
-  U.S. stocks face tests from Fed decision, tech-led
-  🔗 https://www.livemint.com/market/wall-st-week-ahead-us-stocks-face-tests-from-fed-decision-tech-led-earnings-deluge-11785070920494.html
+- Stocks to buy or sell for short term: Jigar Patel of Anand Rathi shares trading strategies for 3 stocks
+  Expert Jigar Patel from Anand Rathi shares his strategic approach for the upcoming weeks. Discover which stocks may present buying opportunities
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-for-short-term-jigar-patel-of-anand-rathi-shares-trading-strategies-for-3-stocks-11785029654586.html
 
-- Expert View: Mid-year - recalibrating India equity story with a positive bias, says Vinod Nair
-  A fresh December 2027 target of 29,000 has also been introduced.
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-mid-year-recalibrating-india-equity-story-with-a-positive-bias-says-vinod-nair-11785059036565.html
+- From Gift Nifty to crude oil prices: 7 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 23,934 level, a premium of nearly 127.5 points from the N
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11785114846497.html
 
-- Upcoming IPOs: Manipal Hospitals IPO, Juniper Green Energy IPO among new nine issues to open next week; full list here
-  Among the upcoming mainboard offerings, the Manipal Health Enterprises IPO, Juniper Green Energy IPO, and MV Electrosystems IPO are set to
-  🔗 https://www.livemint.com/market/stock-market-news/upcoming-ipos-manipal-hospitals-ipo-juniper-green-energy-ipo-among-new-nine-issues-to-open-next-week-full-list-here-11785054080300.html
+- Japans Nikkei trades sideways as investors await earnings
+  Japan's Nik
+  🔗 https://www.livemint.com/market/japans-nikkei-trades-sideways-as-investors-await-earnings-11785114905674.html
 
 - For some, so-called Skynet Day came too close to sci-fi after a rogue agent hacked into a startup
   'Skynet Day' came too close to sci-fi
@@ -100,65 +100,49 @@
   OpenAI CEO Sam Altman admitted to becoming addicted to Tik
   🔗 https://www.livemint.com/technology/tech-news/too-powerful-sam-altman-reveals-why-he-deleted-tiktok-says-it-was-like-a-drug-11785051096311.html
 
-- S&P 500 closes little changed Friday as Iran fears and chip sell-off weigh down market: Live updates - CNBC
-  S&amp;P 500 closes little changed Friday as Iran fears and chip
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5faUg1R2E2UzRLZjdYMk0wSDJ5UVNTd3FJOGp0RjU0clNleGxKeEhjMUxZV0IyTEpUVHRGZk9iSGIzakRVTU84ZzhGYkxUSExnYVBad2FEbmZQSW5EM1J4LUVrMnZGT1U5Zzhnd2NxYXE2R25yVHNj0gF8QVVfeXFMTWl2WWhNNEUwLTBIc0J0YXFiM2k3N1QtQ0Q2WmRDbEJmTzJIX1dSd2VzTnV3eVNPb1M0ejU2bVI3YUtCT2VGa0t0MVFFUzgwMTdDRndFYUI5QmNVcjNaTkxHNUtaR20wWmpyZkRSVFVBeGFmaUtteUZoVXRncg?oc=5
+- Stocks to buy in 2026 for long term: Dr Lal PathLabs, IDFC First Bank among 5 stocks that could give 10-30% return
+  Nuvama has reiterated its 'Buy' rating on Dr Lal PathLabs and raised the target price to Rs 2,140 from Rs 1,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-dr-lal-pathlabs-idfc-first-bank-among-5-stocks-that-could-give-10-30-return/slideshow/132650892.cms
 
-- Wild Markets Week Settles Down - WSJ
-  The WSJ
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE82dDB1blAxc1RadlQtUDdraC1ETXlMSFRfWkpBNE5iSnA5ZjNlNXpuTS1ueTZRVkxWWS1lTGVqcmZkLTlUU092N19XZXBlZEpIeENJTnhxZ0hqa1NJT0RNaVNZdHdQUkVVdUF0Z1RlTWZ5cFFkWGxtNEM0ZHNKVGc?oc=5
+- Negative Breakout: These 6 stocks cross below their 200 DMAs
+  The 200 DMA is used as a key indicator by traders for determining the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-6-stocks-cross-below-their-200-dmas/slideshow/132650856.cms
 
-- Oil markets are on edge again - The Economist
-  Oil markets are on edge
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWNyVjBGeG1ER2gyenUwcVhSZnA5bWZTdlUtWHIzT1Y5bVZ5OS0zOWttVDlJY21keWIzYzdGU0NodGNaQlZOemlubG1QRkdud2VWeEpmYUJEYnF4c0lPUTRtcFliMTgwS1RsZmpHTElpV2kteEtkLWFEZDlxX24zcG1iSEc1WTdYMkI4SlN1WmpIUQ?oc=5
+- Japan's Nikkei trades sideways as investors await earnings
+  Major US cloud companies' earnings will be closely watched for capital spending plans. Japanese chipmakers Advantest and Kioxia are also set to report earnings soon.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-trades-sideways-as-investors-await-earnings/articleshow/132650794.cms
 
-- Gold dresses, flower markets and sitars: Pirelli’s 2027 calendar features all-Indian cast - The Guardian
-  Pirelli's 2027 calendar features all-Indian
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQYjhKRVpnUzJYcDZFYko0eXZQUG80OUN6OFZVTlVaZ3ZIRW1tZ3NlOXZNYTlJZ3Vrd2JXU0w5UFFHNFF4dWE0dTU4VURvekJQR29yV0VDNkM0VDNSaGNZa2MtRVA2U3YxWEU1TU8zaERQQUN2X2lDb005TVVHZ3FWY3dtcGI3alZuUUpveWVpWF9pY3BkejJn?oc=5
+- Gold rises over 1% as oil tumbles on pause in US-Iran fighting
+  Gold prices increased over one percent on Monday. Investors anticipated stable interest rates. Speculators increased their net long positions in COMEX gold.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-over-1-as-oil-tumbles-on-pause-in-us-iran-fighting/articleshow/132650713.cms
 
-- What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision - Investopedia
-  What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDlBUEU5WTZ6Ql9JYTRoTzFxWEhfVmdfLVJzZHlLTElKWGJTaE1qWllYLW9jeGc4Qk5scEhPb1lKSU52WFZ6ckZfUUZxSVZsaE16N29qUE5mRlZsODVieExHcHdPOU5RYTA4dFo3cklrdzNfalh0R2ViVTdHNW84TW43VGdGVjlCemZ6NHlwN2JwWHJfeTg4eVlwajFzeGI3U3UxWkR1Smx6M1I5RVhSQURVem1mMkNiYXowUmlnbHA4OFFLaEgxRHZzYUYxNnB2QW5z?oc=5
+- D-St set for a positive opening as GIFT Nifty signals firm start
+  A fall below 23600 might trigger a severe correction. On the higher end, 24000 will become the line of polarity. Unless the Nifty moves higher to reclaim 24000, the broader trend is likely to remain
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132650679.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Indian equities extended losses for a fifth straight session. Despite intraday recovery, sentiment remains weak amid rising US yields and global uncertainty. Analysts flag key technical levels for Nifty.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/132640467.cms
-
-- US Fed action, oil swings to test bullion as traders eye West Asia risks: Analysts
-  This week is pivotal for gold and silver amid the anticipation of the Federal Reserve's interest rate decision. Market participants are poised to react to fluctuations in oil prices and the ongoing tensions between the US and Iran.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-fed-action-oil-swings-to-test-bullion-as-traders-eye-west-asia-risks-analysts/articleshow/132640441.cms
-
-- GS, Nomura, Axis hired to run Carlyle’s India automotive platform IPO
-  Private equity major Carlyle is preparing a $500 million IPO for Highway Roop Precision Technologies. The issue, largely an offer for sale, could value the company at $2 billion.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gs-nomura-axis-hired-to-run-carlyles-india-automotive-platform-ipo/articleshow/132639839.cms
-
-- 10 midcap stocks with massive upside potential up to 70%! Do you own any?
-   Trendlyne-backed analysis highlights nine BSE mid-cap stocks with strong upside potential of up to 70% over the next 12 months. Stocks like Patanjali Foods, Gujarat Energy
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-with-massive-upside-potential-up-to-70-do-you-own-any/slideshow/132638787.cms
-
-- Mcap of nine of top-10 most valued firms erodes by Rs 2.74 lakh cr; HDFC Bank takes biggest hit
-  Last week was tough for the Indian equity markets. Nine out of ten leading companies witnessed a decline in market value. HDFC Bank took the hardest blow, suffering a staggering loss exceeding one lakh crore rupees.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-erodes-by-rs-2-74-lakh-cr-hdfc-bank-takes-biggest-hit/articleshow/132637704.cms
+- The Biggest Strength Of India's New Task Force To Make Exams Leak-Proof - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWFsUzZTVm1NYW5lbmNSRzdEaUx1dnBkSFpFX0lmSlRDVUprM2N6SlJ1MEYxdzNLS2p4Mm9TenpTM1NxbFB2SWMwS3VGN0pyelZTcHJGUGkzaDBDa3drR0M5VUNGNS1NTX
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWFsUzZTVm1NYW5lbmNSRzdEaUx1dnBkSFpFX0lmSlRDVUprM2N6SlJ1MEYxdzNLS2p4Mm9TenpTM1NxbFB2SWMwS3VGN0pyelZTcHJGUGkzaDBDa3drR0M5VUNGNS1NTXZsYXF2MEgzczVxYXpKaEdpdVJHc3BlRktZQ0VmWEliZ3BzODFncFNOOUw0XzZwS2tCbHRKZDJzaHBXVE41amhDc3p0dDRzM9IBuAFBVV95cUxPVXBDOVN0UVN1dUJXUmhuWEdyMkkyU0xnbjE5MUp1eE11dlJLQWxfR2V6cU04cjV4c0Z0eWQ1UmtpTTR6b1V2THBfZGxtLVpaOWVxcW5WU1JwandhMUlTc2pUUFpfd0xCcWJScjA4WjE0NnJfNS1OWXpHaXJrN0FCY2xhWjdVSlpHd2lBWTRDS3RiOEcyX1BEN2U2Q05HQ3RGd0JUSEswdFNOQ2o2SFVHSWVGTHpyLTBB?oc=5
 
 - Who is India’s new education minister Pralhad Joshi? - Al Jazeera
   Who is India’s new
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- PM Modi Announces Task Force On Exam Reforms Under Infosys Co-Founder - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNE
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNExtdXJjdkJyRFlDV0d1S0dYVFQzYjhMMkdaX0IzOTRvUGtZbnRNVHZVVFhKU3JkaWtUSlYtd0JoNXV3aTRJSWVxSmJIaTZuMmJpTFNqNXhUTVdvY2gtOWHSAcgBQVVfeXFMUEtFN2VHa3piWlg1eF9Sd0Y2YXEzT3BZTTFtbFcxLWx4VUV5Qnp1bndzblBPZVR6RE5nbUNvVWV5ajhnQkIwQTd5U0pIZWVETFRkYXdaSnJqNl9LMWowRHNBckIzNllyOW9nN3ZPNVdXeU9rVjVKRnU2bFZsYWFXaVRITHlEekFFREtpY1N3U3hUS3U0N2JxZlV2U0hhSFVtQ29BQ05RQ3JDaVFzamxyQkF6QmNxMXBZNXRTbFp6SjkzMzVqZ2MxVTQ?oc=5
+- 'Wapis nahi aane dega': Vaibhav Sooryavanshi's form triggers fresh debate over Sanju Samson's India retur - The Times of India
+  'Wapis nahi aane dega': Vaibhav So
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxPSWxxVzhNLWtPM3VFMEZSb0NfdEdENVVXU0g1TWY4Sk1mUmhYRlJEQVpHUnAtUkNmaTBBcGZvWDVtbUwxNEs4RVh1Zk9GRXV3cjE2NFUwSTNmLXVIUjBpUXQzRUlZNVdsRmsxbnBQX1BoTDZRaWJFR3pYRWg1NFphRWxDdy1Tc0tibG5VVURYbmNGblAwMDVwejlmMlZ5dmRaY0FoQUVEMFlzSExfTnhiS19vNnFhbkJDcGZyZ1ZCMjVreHNKQXRyVnpYdEFycFl3RDBDQ25fNWpSQ1QyTlZLd1otT3QweTJuTWQ3SWxUOGV1SlUtbGxMSUhHd25CbTZZZjhmZ1FIMF9tM3hkQjdMUEttYjB2bzY5Tlh0U19JRkoyZ9IBpwJBVV95cUxNZWxqd2lSZk5FR01qU09YRWhKSDRvTGp5bEM1ZFVMU3ViS1B4Um9Zb3Z0NDRRaEN2ZW5DTXpLNHNVRnBIZmpsMUwyNC1BQlBvWHJkUVIzOFVKcUpIRUo2NWd0NzFXcjc5SDdJM1lVTV9kYnkwZ3NLc3VVTy1BWHdsNFUyQ3JxeWtvM01QN3lBallpMHVMNGlvZEd2YVk1eFV0TE4yLTFCQm9zX1JaaXdNdlBleVZiLVBobUszbm9aNWRKTDRxd3B0U196OE5QUmN6ZEt6V2hMb0hzamVnY296c1Q3emg0RGhRQXVVY3JkdkRiWFV5SGg5WEhhR0R4bGRpblgyRTlGU0VsR2Q3Y2NjZUFFN3NNM3JpX0l5bFNIUHF4eVNQb1Z3?oc=5
 
-- Dharmendra Pradhan, CJP: India's 'cockroach' protest called off after education minister quits - BBC
-  Dharmendra Pradhan, CJP:
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeW43Q1ExSmxITHl6LTVXSXdmTWdsejBJSEh3aFhXOXl6SVBkWmpZb3lWTlpicmYtbjBRT2YyRUt2Yk9ZcmxBVlJ1ZzItSGxuNTZKNFVIZjF6UQ?oc=5
+- Commonwealth Games 2026 Day 4: Mirabai Chanu completes golden hat-trick as India adds 3 more medals in Gl - The Times of India
+  Mirabai Chanu completes golden hat-trick as India adds 3 more medals in Gl
+  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxORjJLenNvRWtpVUVna0hJOENCNzlkYjkxeHEwNjhzQTE5TWVxNHdtQzJFSXZyeDZweXktMzB4cVlJbTNkSF9nbXN0NXNibHE5R0haYmVIeFljRWJVUzFMOGIzaWtPS2ZOU21udHlvVlhLVmJWRkhpU2I5aWV3S0Zzd2R0M3VYZ19UNndOZVg5TzQtd2pFcmlra2RRSEdTSHRrcnFaTy1UNTAtQkNHMkdiX2loNnBISmdRbFltTl9GblZpMVk3Yjdwd1Z6WGlHUWctVTh6MlA3UnhuallIejRFc1FYc0h3TXZXcW1SYUo3QVA0bVR5QTE4bzJhd1BYazJ6eTVXZy1FSkNOZ2NxT2taNzhqbDN2Vm5GUlNtQmFld3VNQ20wWW43bk9n0gGvAkFVX3lxTE52WU9jUUJ6UFp1Yy1vd2ZCYkF4X2VaMXJSXzhBSWFCQ255YlQ0M1NBNUZKREluM0dZdF9URVRIWjBvVW1qdEtXdnBGOGpvclhTMDZiNDV2Y19UMndQYnYzQ1QzNE5aR1BEWllncUZpd04wWTd6am1qOVRIVkhfQ1RaQXF4enBCWVExQlBvblFxemtvZEVjM3U3Tl9kNUZaN3pGdFY1TEtuc3RMSkJwaXJhYV9MTTIwa1RWTEZvWjFKNE5JZGlBN3FZMVBrTlFqVHRQaG1Na0ZlOVFxcEh5MndpeVhSSExqcEZ4WGpVcFQ0UlpqSExwY0kyb0pkRkgzcGdtQ1FiQmJaQzRyV0hrczlkMGxzYjR3aGxrazF1anFtUHVNWTFFU2N1bFpHVC16dw?oc=5
 
-- Latest Hockey News and Updates - Hockey India
-  Latest Hockey News and
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQajNaYTJSaXpxSm1WZTJ3S3ZETEh4M0Z6a2FpMUVMNGxXX0N1ODU0c1E2LV8xLThicHFtSVM1Sjg0dzZ5WWVjNXhLOXZxX2F2Z2YtOVRGdGtHb1h6Wlo5SDFjNC1KY3FCZnJOb2kxQWVyc1ROdm5CNzMwVktkam1VaEc2N09MM2E0aU9ycG9WcU9XZ2VWMmhYd0dFRFNvMWJMMldKeXdhZWdEd1owRVY5MU5lQ19hVGRIckZqbUJxanQxRFkwZkQ5MUluQlUtUQ?oc=5
+- Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting - News On AIR
+  Mirabai Chanu wins India’s first gold
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcU51YnlfRFFuZ1RoWi1uVThXZ0ZBejR6NF9BTzNiaE9hQzkxbGJYSGEzeGFGUjROdDBtVzctd3JHWV94Z1dIMnpSTzVCdndOV3NLMzF4ODZTMnZBSEZPc19aelYtQ3R0UUF6ZW4xRld2d3BDU1hpalNMZjhkUWd0S0h2dlpoMVAyUm5ZbGZJSnhqU3M4ZzZncFh3V0JJbUF5MmZDMWljTjVDdw?oc=5
 
-- India’s Cockroach Janta party protest victory signals trouble ahead for Modi - The Guardian
-  India’s Cockroach Janta party protest
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObndZSGFrbTR4UjJxSVNXbjVhY2RlOW1HMzhVVHc4SjcwTFlTbFJkczlHam1nR0dlMHRpdE9PRHdSQ1l6cXQ5S1lMOHBTRWRGdExnWEp2bGZTMGRBX21tQ3dQb3N1aDBFRm1yd2ZnbWppQTFjcVpYbjlKdEh4ZlZuRm9qOG1Wb1NwU2wtb1hkQVF5cHhXNDBiZ3pKYS16Uk4taDlMZVh3em0zMW1VUmdBdDl3MENmZmVD?oc=5
+- Paytm Dreams The AI Dream
+  Diversification seems to be the common thread running through India&#8217;s fintech ecosystem. Last week, we took a closer look at
+  🔗 https://inc42.com/features/paytm-dreams-the-ai-dream/
 
 - Flipkart’s Digital Mall Now Has A Food Court
   When Flipkart entered quick commerce last year, many were sceptical of the move, as the ecommerce giant was seen as too risky.
@@ -176,89 +160,73 @@
   India’s approach towards cryptocurrencies has largely revolved around taxation, anti-money laundering (AML) compliance and transaction reporting.
   🔗 https://inc42.com/features/can-parliamentary-panels-latest-recommendations-break-crypto-policy-deadlock/
 
-- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
-  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
-  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
+- The Biggest Strength Of India's New Task Force To Make Exams Leak-Proof - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWFsUzZTVm1NYW5lbmNSRzdEaUx1dnBkSFpFX0lmSlRDVUprM2N6SlJ1MEYxdzNLS2p4Mm9TenpTM1NxbFB2SWMwS3VGN0pyelZTcHJGUGkzaDBDa3drR0M5VUNGNS1NTX
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWFsUzZTVm1NYW5lbmNSRzdEaUx1dnBkSFpFX0lmSlRDVUprM2N6SlJ1MEYxdzNLS2p4Mm9TenpTM1NxbFB2SWMwS3VGN0pyelZTcHJGUGkzaDBDa3drR0M5VUNGNS1NTXZsYXF2MEgzczVxYXpKaEdpdVJHc3BlRktZQ0VmWEliZ3BzODFncFNOOUw0XzZwS2tCbHRKZDJzaHBXVE41amhDc3p0dDRzM9IBuAFBVV95cUxPVXBDOVN0UVN1dUJXUmhuWEdyMkkyU0xnbjE5MUp1eE11dlJLQWxfR2V6cU04cjV4c0Z0eWQ1UmtpTTR6b1V2THBfZGxtLVpaOWVxcW5WU1JwandhMUlTc2pUUFpfd0xCcWJScjA4WjE0NnJfNS1OWXpHaXJrN0FCY2xhWjdVSlpHd2lBWTRDS3RiOEcyX1BEN2U2Q05HQ3RGd0JUSEswdFNOQ2o2SFVHSWVGTHpyLTBB?oc=5
 
 - Who is India’s new education minister Pralhad Joshi? - Al Jazeera
   Who is India’s new
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- PM Modi Announces Task Force On Exam Reforms Under Infosys Co-Founder - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNE
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNExtdXJjdkJyRFlDV0d1S0dYVFQzYjhMMkdaX0IzOTRvUGtZbnRNVHZVVFhKU3JkaWtUSlYtd0JoNXV3aTRJSWVxSmJIaTZuMmJpTFNqNXhUTVdvY2gtOWHSAcgBQVVfeXFMUEtFN2VHa3piWlg1eF9Sd0Y2YXEzT3BZTTFtbFcxLWx4VUV5Qnp1bndzblBPZVR6RE5nbUNvVWV5ajhnQkIwQTd5U0pIZWVETFRkYXdaSnJqNl9LMWowRHNBckIzNllyOW9nN3ZPNVdXeU9rVjVKRnU2bFZsYWFXaVRITHlEekFFREtpY1N3U3hUS3U0N2JxZlV2U0hhSFVtQ29BQ05RQ3JDaVFzamxyQkF6QmNxMXBZNXRTbFp6SjkzMzVqZ2MxVTQ?oc=5
+- 'Wapis nahi aane dega': Vaibhav Sooryavanshi's form triggers fresh debate over Sanju Samson's India retur - The Times of India
+  'Wapis nahi aane dega': Vaibhav So
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxPSWxxVzhNLWtPM3VFMEZSb0NfdEdENVVXU0g1TWY4Sk1mUmhYRlJEQVpHUnAtUkNmaTBBcGZvWDVtbUwxNEs4RVh1Zk9GRXV3cjE2NFUwSTNmLXVIUjBpUXQzRUlZNVdsRmsxbnBQX1BoTDZRaWJFR3pYRWg1NFphRWxDdy1Tc0tibG5VVURYbmNGblAwMDVwejlmMlZ5dmRaY0FoQUVEMFlzSExfTnhiS19vNnFhbkJDcGZyZ1ZCMjVreHNKQXRyVnpYdEFycFl3RDBDQ25fNWpSQ1QyTlZLd1otT3QweTJuTWQ3SWxUOGV1SlUtbGxMSUhHd25CbTZZZjhmZ1FIMF9tM3hkQjdMUEttYjB2bzY5Tlh0U19JRkoyZ9IBpwJBVV95cUxNZWxqd2lSZk5FR01qU09YRWhKSDRvTGp5bEM1ZFVMU3ViS1B4Um9Zb3Z0NDRRaEN2ZW5DTXpLNHNVRnBIZmpsMUwyNC1BQlBvWHJkUVIzOFVKcUpIRUo2NWd0NzFXcjc5SDdJM1lVTV9kYnkwZ3NLc3VVTy1BWHdsNFUyQ3JxeWtvM01QN3lBallpMHVMNGlvZEd2YVk1eFV0TE4yLTFCQm9zX1JaaXdNdlBleVZiLVBobUszbm9aNWRKTDRxd3B0U196OE5QUmN6ZEt6V2hMb0hzamVnY296c1Q3emg0RGhRQXVVY3JkdkRiWFV5SGg5WEhhR0R4bGRpblgyRTlGU0VsR2Q3Y2NjZUFFN3NNM3JpX0l5bFNIUHF4eVNQb1Z3?oc=5
 
-- Dharmendra Pradhan, CJP: India's 'cockroach' protest called off after education minister quits - BBC
-  Dharmendra Pradhan, CJP:
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeW43Q1ExSmxITHl6LTVXSXdmTWdsejBJSEh3aFhXOXl6SVBkWmpZb3lWTlpicmYtbjBRT2YyRUt2Yk9ZcmxBVlJ1ZzItSGxuNTZKNFVIZjF6UQ?oc=5
+- Commonwealth Games 2026 Day 4: Mirabai Chanu completes golden hat-trick as India adds 3 more medals in Gl - The Times of India
+  Mirabai Chanu completes golden hat-trick as India adds 3 more medals in Gl
+  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxORjJLenNvRWtpVUVna0hJOENCNzlkYjkxeHEwNjhzQTE5TWVxNHdtQzJFSXZyeDZweXktMzB4cVlJbTNkSF9nbXN0NXNibHE5R0haYmVIeFljRWJVUzFMOGIzaWtPS2ZOU21udHlvVlhLVmJWRkhpU2I5aWV3S0Zzd2R0M3VYZ19UNndOZVg5TzQtd2pFcmlra2RRSEdTSHRrcnFaTy1UNTAtQkNHMkdiX2loNnBISmdRbFltTl9GblZpMVk3Yjdwd1Z6WGlHUWctVTh6MlA3UnhuallIejRFc1FYc0h3TXZXcW1SYUo3QVA0bVR5QTE4bzJhd1BYazJ6eTVXZy1FSkNOZ2NxT2taNzhqbDN2Vm5GUlNtQmFld3VNQ20wWW43bk9n0gGvAkFVX3lxTE52WU9jUUJ6UFp1Yy1vd2ZCYkF4X2VaMXJSXzhBSWFCQ255YlQ0M1NBNUZKREluM0dZdF9URVRIWjBvVW1qdEtXdnBGOGpvclhTMDZiNDV2Y19UMndQYnYzQ1QzNE5aR1BEWllncUZpd04wWTd6am1qOVRIVkhfQ1RaQXF4enBCWVExQlBvblFxemtvZEVjM3U3Tl9kNUZaN3pGdFY1TEtuc3RMSkJwaXJhYV9MTTIwa1RWTEZvWjFKNE5JZGlBN3FZMVBrTlFqVHRQaG1Na0ZlOVFxcEh5MndpeVhSSExqcEZ4WGpVcFQ0UlpqSExwY0kyb0pkRkgzcGdtQ1FiQmJaQzRyV0hrczlkMGxzYjR3aGxrazF1anFtUHVNWTFFU2N1bFpHVC16dw?oc=5
 
-- Latest Hockey News and Updates - Hockey India
-  Latest Hockey News and
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQajNaYTJSaXpxSm1WZTJ3S3ZETEh4M0Z6a2FpMUVMNGxXX0N1ODU0c1E2LV8xLThicHFtSVM1Sjg0dzZ5WWVjNXhLOXZxX2F2Z2YtOVRGdGtHb1h6Wlo5SDFjNC1KY3FCZnJOb2kxQWVyc1ROdm5CNzMwVktkam1VaEc2N09MM2E0aU9ycG9WcU9XZ2VWMmhYd0dFRFNvMWJMMldKeXdhZWdEd1owRVY5MU5lQ19hVGRIckZqbUJxanQxRFkwZkQ5MUluQlUtUQ?oc=5
+- Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting - News On AIR
+  Mirabai Chanu wins India’s first gold
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcU51YnlfRFFuZ1RoWi1uVThXZ0ZBejR6NF9BTzNiaE9hQzkxbGJYSGEzeGFGUjROdDBtVzctd3JHWV94Z1dIMnpSTzVCdndOV3NLMzF4ODZTMnZBSEZPc19aelYtQ3R0UUF6ZW4xRld2d3BDU1hpalNMZjhkUWd0S0h2dlpoMVAyUm5ZbGZJSnhqU3M4ZzZncFh3V0JJbUF5MmZDMWljTjVDdw?oc=5
 
-- India’s Cockroach Janta party protest victory signals trouble ahead for Modi - The Guardian
-  India’s Cockroach Janta party protest
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObndZSGFrbTR4UjJxSVNXbjVhY2RlOW1HMzhVVHc4SjcwTFlTbFJkczlHam1nR0dlMHRpdE9PRHdSQ1l6cXQ5S1lMOHBTRWRGdExnWEp2bGZTMGRBX21tQ3dQb3N1aDBFRm1yd2ZnbWppQTFjcVpYbjlKdEh4ZlZuRm9qOG1Wb1NwU2wtb1hkQVF5cHhXNDBiZ3pKYS16Uk4taDlMZVh3em0zMW1VUmdBdDl3MENmZmVD?oc=5
-
-- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
-  Who is India’s new
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
-
-- PM Modi Announces Task Force On Exam Reforms Under Infosys Co-Founder - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNE
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNExtdXJjdkJyRFlDV0d1S0dYVFQzYjhMMkdaX0IzOTRvUGtZbnRNVHZVVFhKU3JkaWtUSlYtd0JoNXV3aTRJSWVxSmJIaTZuMmJpTFNqNXhUTVdvY2gtOWHSAcgBQVVfeXFMUEtFN2VHa3piWlg1eF9Sd0Y2YXEzT3BZTTFtbFcxLWx4VUV5Qnp1bndzblBPZVR6RE5nbUNvVWV5ajhnQkIwQTd5U0pIZWVETFRkYXdaSnJqNl9LMWowRHNBckIzNllyOW9nN3ZPNVdXeU9rVjVKRnU2bFZsYWFXaVRITHlEekFFREtpY1N3U3hUS3U0N2JxZlV2U0hhSFVtQ29BQ05RQ3JDaVFzamxyQkF6QmNxMXBZNXRTbFp6SjkzMzVqZ2MxVTQ?oc=5
-
-- Dharmendra Pradhan, CJP: India's 'cockroach' protest called off after education minister quits - BBC
-  Dharmendra Pradhan, CJP:
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeW43Q1ExSmxITHl6LTVXSXdmTWdsejBJSEh3aFhXOXl6SVBkWmpZb3lWTlpicmYtbjBRT2YyRUt2Yk9ZcmxBVlJ1ZzItSGxuNTZKNFVIZjF6UQ?oc=5
-
-- Latest Hockey News and Updates - Hockey India
-  Latest Hockey News and
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQajNaYTJSaXpxSm1WZTJ3S3ZETEh4M0Z6a2FpMUVMNGxXX0N1ODU0c1E2LV8xLThicHFtSVM1Sjg0dzZ5WWVjNXhLOXZxX2F2Z2YtOVRGdGtHb1h6Wlo5SDFjNC1KY3FCZnJOb2kxQWVyc1ROdm5CNzMwVktkam1VaEc2N09MM2E0aU9ycG9WcU9XZ2VWMmhYd0dFRFNvMWJMMldKeXdhZWdEd1owRVY5MU5lQ19hVGRIckZqbUJxanQxRFkwZkQ5MUluQlUtUQ?oc=5
-
-- India’s Cockroach Janta party protest victory signals trouble ahead for Modi - The Guardian
-  India’s Cockroach Janta party protest
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObndZSGFrbTR4UjJxSVNXbjVhY2RlOW1HMzhVVHc4SjcwTFlTbFJkczlHam1nR0dlMHRpdE9PRHdSQ1l6cXQ5S1lMOHBTRWRGdExnWEp2bGZTMGRBX21tQ3dQb3N1aDBFRm1yd2ZnbWppQTFjcVpYbjlKdEh4ZlZuRm9qOG1Wb1NwU2wtb1hkQVF5cHhXNDBiZ3pKYS16Uk4taDlMZVh3em0zMW1VUmdBdDl3MENmZmVD?oc=5
+- The Biggest Strength Of India's New Task Force To Make Exams Leak-Proof - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWFsUzZTVm1NYW5lbmNSRzdEaUx1dnBkSFpFX0lmSlRDVUprM2N6SlJ1MEYxdzNLS2p4Mm9TenpTM1NxbFB2SWMwS3VGN0pyelZTcHJGUGkzaDBDa3drR0M5VUNGNS1NTX
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWFsUzZTVm1NYW5lbmNSRzdEaUx1dnBkSFpFX0lmSlRDVUprM2N6SlJ1MEYxdzNLS2p4Mm9TenpTM1NxbFB2SWMwS3VGN0pyelZTcHJGUGkzaDBDa3drR0M5VUNGNS1NTXZsYXF2MEgzczVxYXpKaEdpdVJHc3BlRktZQ0VmWEliZ3BzODFncFNOOUw0XzZwS2tCbHRKZDJzaHBXVE41amhDc3p0dDRzM9IBuAFBVV95cUxPVXBDOVN0UVN1dUJXUmhuWEdyMkkyU0xnbjE5MUp1eE11dlJLQWxfR2V6cU04cjV4c0Z0eWQ1UmtpTTR6b1V2THBfZGxtLVpaOWVxcW5WU1JwandhMUlTc2pUUFpfd0xCcWJScjA4WjE0NnJfNS1OWXpHaXJrN0FCY2xhWjdVSlpHd2lBWTRDS3RiOEcyX1BEN2U2Q05HQ3RGd0JUSEswdFNOQ2o2SFVHSWVGTHpyLTBB?oc=5
 
 - Who is India’s new education minister Pralhad Joshi? - Al Jazeera
   Who is India’s new
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- PM Modi Announces Task Force On Exam Reforms Under Infosys Co-Founder - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNE
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbE0yU3M2Mm9ZZzVVaGw4UzRhLUxxNDFRVVNhbHVVVkkxS1FRSUluZnEtZjlDLUVqcGxHVEllX3ZRcElHdEdVTXFLYm82RFNWRzBDYVJQSV9aRy1kc0RuQU5vd1ZFZEtuNExtdXJjdkJyRFlDV0d1S0dYVFQzYjhMMkdaX0IzOTRvUGtZbnRNVHZVVFhKU3JkaWtUSlYtd0JoNXV3aTRJSWVxSmJIaTZuMmJpTFNqNXhUTVdvY2gtOWHSAcgBQVVfeXFMUEtFN2VHa3piWlg1eF9Sd0Y2YXEzT3BZTTFtbFcxLWx4VUV5Qnp1bndzblBPZVR6RE5nbUNvVWV5ajhnQkIwQTd5U0pIZWVETFRkYXdaSnJqNl9LMWowRHNBckIzNllyOW9nN3ZPNVdXeU9rVjVKRnU2bFZsYWFXaVRITHlEekFFREtpY1N3U3hUS3U0N2JxZlV2U0hhSFVtQ29BQ05RQ3JDaVFzamxyQkF6QmNxMXBZNXRTbFp6SjkzMzVqZ2MxVTQ?oc=5
+- 'Wapis nahi aane dega': Vaibhav Sooryavanshi's form triggers fresh debate over Sanju Samson's India retur - The Times of India
+  'Wapis nahi aane dega': Vaibhav So
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxPSWxxVzhNLWtPM3VFMEZSb0NfdEdENVVXU0g1TWY4Sk1mUmhYRlJEQVpHUnAtUkNmaTBBcGZvWDVtbUwxNEs4RVh1Zk9GRXV3cjE2NFUwSTNmLXVIUjBpUXQzRUlZNVdsRmsxbnBQX1BoTDZRaWJFR3pYRWg1NFphRWxDdy1Tc0tibG5VVURYbmNGblAwMDVwejlmMlZ5dmRaY0FoQUVEMFlzSExfTnhiS19vNnFhbkJDcGZyZ1ZCMjVreHNKQXRyVnpYdEFycFl3RDBDQ25fNWpSQ1QyTlZLd1otT3QweTJuTWQ3SWxUOGV1SlUtbGxMSUhHd25CbTZZZjhmZ1FIMF9tM3hkQjdMUEttYjB2bzY5Tlh0U19JRkoyZ9IBpwJBVV95cUxNZWxqd2lSZk5FR01qU09YRWhKSDRvTGp5bEM1ZFVMU3ViS1B4Um9Zb3Z0NDRRaEN2ZW5DTXpLNHNVRnBIZmpsMUwyNC1BQlBvWHJkUVIzOFVKcUpIRUo2NWd0NzFXcjc5SDdJM1lVTV9kYnkwZ3NLc3VVTy1BWHdsNFUyQ3JxeWtvM01QN3lBallpMHVMNGlvZEd2YVk1eFV0TE4yLTFCQm9zX1JaaXdNdlBleVZiLVBobUszbm9aNWRKTDRxd3B0U196OE5QUmN6ZEt6V2hMb0hzamVnY296c1Q3emg0RGhRQXVVY3JkdkRiWFV5SGg5WEhhR0R4bGRpblgyRTlGU0VsR2Q3Y2NjZUFFN3NNM3JpX0l5bFNIUHF4eVNQb1Z3?oc=5
 
-- Dharmendra Pradhan, CJP: India's 'cockroach' protest called off after education minister quits - BBC
-  Dharmendra Pradhan, CJP:
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EeW43Q1ExSmxITHl6LTVXSXdmTWdsejBJSEh3aFhXOXl6SVBkWmpZb3lWTlpicmYtbjBRT2YyRUt2Yk9ZcmxBVlJ1ZzItSGxuNTZKNFVIZjF6UQ?oc=5
+- Commonwealth Games 2026 Day 4: Mirabai Chanu completes golden hat-trick as India adds 3 more medals in Gl - The Times of India
+  Mirabai Chanu completes golden hat-trick as India adds 3 more medals in Gl
+  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxORjJLenNvRWtpVUVna0hJOENCNzlkYjkxeHEwNjhzQTE5TWVxNHdtQzJFSXZyeDZweXktMzB4cVlJbTNkSF9nbXN0NXNibHE5R0haYmVIeFljRWJVUzFMOGIzaWtPS2ZOU21udHlvVlhLVmJWRkhpU2I5aWV3S0Zzd2R0M3VYZ19UNndOZVg5TzQtd2pFcmlra2RRSEdTSHRrcnFaTy1UNTAtQkNHMkdiX2loNnBISmdRbFltTl9GblZpMVk3Yjdwd1Z6WGlHUWctVTh6MlA3UnhuallIejRFc1FYc0h3TXZXcW1SYUo3QVA0bVR5QTE4bzJhd1BYazJ6eTVXZy1FSkNOZ2NxT2taNzhqbDN2Vm5GUlNtQmFld3VNQ20wWW43bk9n0gGvAkFVX3lxTE52WU9jUUJ6UFp1Yy1vd2ZCYkF4X2VaMXJSXzhBSWFCQ255YlQ0M1NBNUZKREluM0dZdF9URVRIWjBvVW1qdEtXdnBGOGpvclhTMDZiNDV2Y19UMndQYnYzQ1QzNE5aR1BEWllncUZpd04wWTd6am1qOVRIVkhfQ1RaQXF4enBCWVExQlBvblFxemtvZEVjM3U3Tl9kNUZaN3pGdFY1TEtuc3RMSkJwaXJhYV9MTTIwa1RWTEZvWjFKNE5JZGlBN3FZMVBrTlFqVHRQaG1Na0ZlOVFxcEh5MndpeVhSSExqcEZ4WGpVcFQ0UlpqSExwY0kyb0pkRkgzcGdtQ1FiQmJaQzRyV0hrczlkMGxzYjR3aGxrazF1anFtUHVNWTFFU2N1bFpHVC16dw?oc=5
 
-- Latest Hockey News and Updates - Hockey India
-  Latest Hockey News and
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQajNaYTJSaXpxSm1WZTJ3S3ZETEh4M0Z6a2FpMUVMNGxXX0N1ODU0c1E2LV8xLThicHFtSVM1Sjg0dzZ5WWVjNXhLOXZxX2F2Z2YtOVRGdGtHb1h6Wlo5SDFjNC1KY3FCZnJOb2kxQWVyc1ROdm5CNzMwVktkam1VaEc2N09MM2E0aU9ycG9WcU9XZ2VWMmhYd0dFRFNvMWJMMldKeXdhZWdEd1owRVY5MU5lQ19hVGRIckZqbUJxanQxRFkwZkQ5MUluQlUtUQ?oc=5
+- Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting - News On AIR
+  Mirabai Chanu wins India’s first gold
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcU51YnlfRFFuZ1RoWi1uVThXZ0ZBejR6NF9BTzNiaE9hQzkxbGJYSGEzeGFGUjROdDBtVzctd3JHWV94Z1dIMnpSTzVCdndOV3NLMzF4ODZTMnZBSEZPc19aelYtQ3R0UUF6ZW4xRld2d3BDU1hpalNMZjhkUWd0S0h2dlpoMVAyUm5ZbGZJSnhqU3M4ZzZncFh3V0JJbUF5MmZDMWljTjVDdw?oc=5
 
-- India’s Cockroach Janta party protest victory signals trouble ahead for Modi - The Guardian
-  India’s Cockroach Janta party protest
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObndZSGFrbTR4UjJxSVNXbjVhY2RlOW1HMzhVVHc4SjcwTFlTbFJkczlHam1nR0dlMHRpdE9PRHdSQ1l6cXQ5S1lMOHBTRWRGdExnWEp2bGZTMGRBX21tQ3dQb3N1aDBFRm1yd2ZnbWppQTFjcVpYbjlKdEh4ZlZuRm9qOG1Wb1NwU2wtb1hkQVF5cHhXNDBiZ3pKYS16Uk4taDlMZVh3em0zMW1VUmdBdDl3MENmZmVD?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Video | Mann Ki Baat | PM Modi Highlights India's Growing Defence And Technology Strength - NDTV
-  PM Modi held a press conference in New Delhi to discuss India's
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUVNQmNjbVlseV9aTnFEWnVJR01kWTNOZDQyNy1VVVdfdFhyM21rai1qdktVTmwwaUpLTzdpZjQ0UFBsR05UOG53cU9BcWZOd1pHSWF5dmNvWE1scU5qdkNzVDRGLVhwVTc0MXdUa1VfMzJrZkRpRTVKaWZNb1R3X1JJeGt0VFhTVGdmbFZ5cHNHczBuTmd6ZGRYbkhYdmpsQThV?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- PM sets up task force headed by UIDAI chief Nandan Nilekani for exam reforms; panel to revamp NTA through - The Economic Times
-  PM sets up task force headed by UIDAI chief Nandan Nilekani for exam reforms.
-  🔗 https://news.google.com/rss/articles/CBMijwNBVV95cUxQTWpnb09ZNi04MzdoSVFKaVVoblpSNnVMczBhTng0TTJTQ29ZVHExaFJWdG9tUlRRYWJfSVA0UGlGeVJwTEhoNE1TSzM5cF96dS12RHRvc1pzZ1RRcTZDWU4zUTFodlhud3RPUTIyTzVLaWpKVkg0dHBudUE1VWtuMExXTnNqbWRhQUhkcEdrZGVQLV96dExSb1k3TElXRkV5VklBT19qMl9RekM0QWxtaE5sZUdzX21MRnNKYkM5WVBQQnM5MzVOOXVNa3dMQ01MN2lscGJaYldkU2I5bHRFR3RhMDBQMk0zUDZWV0RjWWItVWJibUt4NkpVTTlQT0loTEpNSzRkaHJOSW5aYjltMk9sWnJMTmtDMFB4R0pSTnZIS1E3M3hCc29DeV9ZSFNTRGJEX2Z4ZjVqTS1NTWotbDR3NUdOaGliSDdoOUctWVIzOFVjVWhmRnFleHhIYWNPN0lMcjdvV1Y5a0JqREwtU052TTFOZzYzYW9HYS1Za3QtMzRyN1RqV1BEOUR6NXPSAasCQVVfeXFMUGlvSmcwTVAzMXhYaE9KeWQ5eXdVeDhjSk1ldk1iRUgyczhPTGxPT1VjcEQ0US1rQUlQSnQwZzU3OVJTR1QyYndkSkV6WFlpZlpZb1BfTndsbG93cXZOZ1dKUFEzY3FFazBwaGtOSk9FTWJGRVdqYXJJaW95X1dzdUtiaUtXTHI0Y0h2V1lMWnRFMnhqX0tVelVNZGdmTHRaYjlUbGdNcDRZRHFTNnNDMldyWExsMVJWMFFmNXhiNU1jdDVDenpyX3VhaEdaY0s5VmhGSGU0NzFMSS0wcHB0eHlMck5ELUxwRklLV2REbDNnUDJWUEVBT1dUWkxIQ0VDSjcxUW9RY3NkT1E4TGpoeTM3aGZxLUtPYkZkMm4yU2hlWl9MZWhiV29WQkk?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- India scaling new heights in defence, space and indigenous technology: PM Modi - Telangana Today
-  India scaling new heights in defence, space and indigenous technology
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQbW9WWDVoRW5MUmNIQkhIak9UNXM5Y1NzbXlybHpMRUR6UlVyVlozLTZzY05KeUtyNy1iVGRqTGVzUjlrZTRlS0t2UnpjYVlKYXFvd1g3cFItZ3JVQlZWNkdxRk51NHNCLW5yNnV3ZEZNR2k5N1VSQktSOHIzRzZIazNJUE8ybzZSUXdxUjVnVS1EMEsxb08xdFdKN0x3UVZNcmRaZXNB?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Ukraine’s new military leader is forged by war and technology - ThePrint
-  Ukraine’s new military leader is
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPWW9CTVJXd2tjNl9UOVBXN0xhaXVXMXhCRnRlRnRmYVJvejVoSWhPb2xpZlllNlU5TzVpaGw2cjNuLVBGWGNKUzJwLWpvQTlZXzNzRjFjSnhSeVhUMmhRX2lyS05tenFRRGNNWHpVdUd6bzBTcXJmLTN3Uk03azBGQXQ0aW9ibm5pSmZHekJaQ1VLT1NLYWxOMmFJSdIBoAFBVV95cUxQekYtdlJzMnkxeXNtWnV5a1hPOFo0dEh5U01JdVRxVlBEcHkyeEV2QkZTMEQ5TVdQMVJpWFQ5Z2E0c1BjeDc2MGFhWjAySW5QMk9TMm1SNXNRcC1GVWtadGthX192dTBJYTNtV1h6S1pISm5vaW1FV1pzcU51RW56MG5nZ0Z3b2JWcDZzMFBPTm1WejE3MmdTaVl0YU1rQVJC?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- New Small Spacecraft Technology Demonstration Mission at the Moon - NASA (.gov)
-  New Small Spacecraft Technology Demonstration Mission
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnpuZTNHMHNTYmR4eVlOWDQycjd6WHdxNGk1Ym9ua1FNYVp1azlZNGlqX2xDdXhoT2pQWHBuVHY4cVRpRFNoUVhmaUNycHNMbm1Rd3d6R2RrWW1lS0c1aFdVcXowTFR1R1B5MDVZbEotel90RG0tNE03UTJkNVRrT2R6emlVNUVHN2owY0p0YW03cEVQSzkxR3VrSElmS0k1Q3pwcEZYN3hXUmxxQkpJ?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-26 19:06:36 UTC_
+_Last updated: 2026-07-27 02:27:41 UTC_
