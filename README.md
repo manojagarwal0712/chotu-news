@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘Uska banta hai’: Mehbooba sparks a storm with comments on student protests and militancy
+- Homes of 2 women linked to trafficking case demolished in Ajmer, officials cite ‘illegal construction’
   
-  🔗 https://indianexpress.com/article/india/mehbooba-mufti-comments-cockroach-janata-party-protest-militancy-10806063/
+  🔗 https://indianexpress.com/article/india/demolition-house-ajmer-2-women-trafficking-case-10806323/
 
-- The Daily Catch-Up: After the resignation, the real debate begins
+- BJP leaders feel delay in resolving CJP protest left a dent, but no political damage
   
-  🔗 https://indianexpress.com/article/india/daily-catch-up-dharmendra-pradhan-parliament-supreme-court-student-protests-10806023/
+  🔗 https://indianexpress.com/article/india/bjp-stock-taking-cjp-protest-dharmendra-pradhan-resignation-pm-narendra-modi-10806318/
 
-- Setback for Vijay, court cancels jobs for Karur stampede victims’ families
+- Jammu court rejects bail of Bengal man accused of passing defence info — ‘Release would be outrageous’
   
-  🔗 https://indianexpress.com/article/india/madras-high-court-tamil-nadu-government-jobs-karur-stampede-families-10805956/
+  🔗 https://indianexpress.com/article/india/jammu-court-reject-bail-bengal-man-accused-defence-info-10806319/
 
-- Viral video of puja with lit oil lamp inside AC train triggers Indian Railways probe
+- Gulf nations accounted for over 70% of suicides by Indian citizens abroad: MEA data
   
-  🔗 https://indianexpress.com/article/india/indian-railways-response-viral-video-puja-oil-lamp-ac-train-10805561/
+  🔗 https://indianexpress.com/article/india/gulf-nations-accounted-70-percent-suicides-indian-citizens-abroad-mea-data-10806303/
 
-- CJP warns of protest again, says students arrested, being harassed
+- Two arrested from Rajasthan village as hunt for 400-year-old cannon continues
   
-  🔗 https://indianexpress.com/article/india/cjp-says-students-arrested-in-bihar-bengal-in-breach-of-truce-with-centre-warns-of-protest-again-10805838/
+  🔗 https://indianexpress.com/article/india/400-year-old-cannon-rajasthan-two-arrested-search-continues-10806258/
 
 - Bank of Baroda confirms data breach, says employee email account compromised in hack
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-centre-report-10805111/
 
-- FSSAI orders Pepsi, Red Bull, Monster to drop ‘energy drink’ label from high-caffeine products
-  Rajasthan authorities seized several brands and directed e-commerce platforms to stop promoting such products.
-  🔗 https://www.livemint.com/companies/news/fssai-orders-pepsi-red-bull-monster-to-drop-energy-drink-label-from-high-caffeine-products-11785155926050.html
+- Tata Teleservices'  ₹4.5k cr impairment a key hit to Tata Sons' profit in FY26
+  Tata Sons saw its losses in Air India Limited rise exponentially to  ₹22,238.22 crore. The one-time hit in the form of impairment comes at a time when the company is suffering.
+  🔗 https://www.livemint.com/companies/tata-teleservices-4-5k-cr-impairment-a-key-hit-to-tata-sons-profit-in-fy26-11785169626831.html
 
-- Delhi HC seeks govt's stand on rejection of Vedanta Gujarat field contract extension
-  The government said it was entitled to take a broader policy view while deciding
-  🔗 https://www.livemint.com/companies/news/delhi-hc-govt-vedanta-gujarat-cambay-basin-oil-and-gas-field-11785153535165.html
+- The youngest company in Tata's consumer portfolio is its fastest-growing
+  Trent has overtaken Voltas and nearly caught up with Tata Consumer Products Ltd. Titan
+  🔗 https://www.livemint.com/companies/company-results/trent-revenue-growth-zudio-westside-noel-tata-fy26-tata-group-retail-11785163427842.html
 
-- Lodha Developers plans to raise  ₹9,000 cr by selling Palava land to hyperscalers
-  Lodha Developers is eyeing  �
-  🔗 https://www.livemint.com/companies/lodha-developers-data-centre-land-sales-palava-hyperscalers-rental-income-growth-11785145340032.html
+- Employee work-hour rules: Why Infosys’ time-tracking system triggered  ₹1.90 crore fine in France
+  The IT services company has said the penalty is not expected to have any material impact on its financial
+  🔗 https://www.livemint.com/companies/news/employee-work-hour-rules-why-infosys-time-tracking-system-triggered-1-90-crore-fine-in-france-11785166476797.html
 
-- HDFC Bank CEO and MD, CFO get warning letters,  ₹1 lakh penalty for ‘business overreach’ in MSRDC deposits
-  HDFC Bank reported that an internal review found employees involved in business overreach regarding MSRDC deposits. The Board issued warnings and imposed a monetary penalty on
-  🔗 https://www.livemint.com/companies/news/hdfc-bank-ceo-md-cfo-rs-1-lakh-penalty-for-business-overreach-employees-warning-letters-msrdc-deposits-internal-review-11785151043491.html
+- Tata Sons profit grows 21.8% in FY26, revenue tops  ₹42,367 crore; Air India losses deepen
+  Tata Sons reported a 21.8% rise in FY26 profit to  ₹31,961
+  🔗 https://www.livemint.com/companies/company-results/tata-sons-fy26-profit-jumps-21-8-per-cent-to-rs-31-961-crore-as-revenue-rises-9-per-cent-air-india-losses-widen-11785169273992.html
 
-- A $250 billion AI boost? Nvidia reportedly in talks to back OpenAI’s Ohio data centre project
-  N Nvidia would guarantee multiple financing vehicles designed to reassure lenders that funding for the project is secure.
-  🔗 https://www.livemint.com/ai/artificial-intelligence/a-250-billion-ai-boost-nvidia-reportedly-in-talks-to-back-openai-s-ohio-data-centre-project-11785146521823.html
+- Tata 1mg narrows losses in core healthcare business
+  Tata 1mg's net loss narrows marginally to 
+  🔗 https://www.livemint.com/companies/company-results/tata-1mg-narrows-losses-in-core-healthcare-business-11785159569352.html
 
-- PE at 18! Small-cap stock hits 52-week high logging 14% intraday gain
-  Ratnaveer Precision Engineering shares surged over 14% post Q1 FY27 results. Strong financial performance with 20
-  🔗 https://www.livemint.com/market/stock-market-news/pe-at-18-small-cap-stock-hits-52-week-high-logging-14-intraday-gain-11785159683498.html
+- US yields decline as oil plunges
+  U.S
+  🔗 https://www.livemint.com/market/us-yields-decline-as-oil-plunges-11785179752035.html
 
-- Wall Street edges higher as US-Iran hostilities pause
-  The Dow Jones Industrial Average rose 0.44%, the S
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-edge-higher-as-us-iran-hostilities-pause-11785159746123.html
+- Gold, silver prices today: Comex gold and silver edge higher as easing US-Iran tensions cool oil prices
+  Gold rose $49 to $4,119, while silver increased by $1.50 to $60.39. Lower crude oil costs ahead of the US Federal Reserve's meeting.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-edge-higher-as-easing-us-iran-tensions-cool-oil-prices-11785169046300.html
 
-- Lohia Corp IPO subscribed over 7.25 times on final day; QIB portion booked 9 times
-  Lohia Corp's IPO was oversubscribed 7.26 times, with significant interest from qualified institutional buyers. The issue, with a price range of  ₹404
-  🔗 https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-subscribed-over-7-25-times-on-final-day-qib-portion-booked-9-times-11785158264834.html
+- AstraZeneca shares climb after earnings beat estimates as cancer drug portfolio drives strong growth
+  Adjusted earnings per share, excluding certain items, climbed 21% to
+  🔗 https://www.livemint.com/market/stock-market-news/astrazeneca-shares-climb-after-earnings-beat-estimates-as-cancer-drug-portfolio-drives-strong-growth-11785169429376.html
 
-- Global Fuel Markets Are Out of Slack as Wars Push Prices Higher
-  Refineries now have little margin for error. Massive metal towers rising more than 100 feet are pumping out gasoline, diesel and jet
-  🔗 https://www.livemint.com/market/global-fuel-markets-are-out-of-slack-as-wars-push-prices-higher-11785155890386.html
+- Mold-Tek Packaging Q1 results: Net profit jumps 14% YoY to  ₹25.6 crore; revenue crosses  ₹300 crore
+  Mold-Tek Packaging reported a strong Q1 FY27, with net sales up 24.9% to  ₹300.45 crore. The company maintains confidence
+  🔗 https://www.livemint.com/market/stock-market-news/moldtek-packaging-q1-results-net-profit-jumps-14-yoy-to-rs-25-6-crore-revenue-crosses-rs-300-crore-11785166078548.html
 
-- US stock market today: S&amp;P 500, Nasdaq futures jump up to 1.7% as oil prices tumble on easing US-Iran tensions
-  Stock futures climbed on 27 July following a decline in oil prices amid reduced US-Iran tensions. Investors are looking to the tech sector for earnings reports.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-jump-up-to-1-7-as-oil-prices-tumble-on-easing-us-iran-tensions-11785151956723.html
+- Crude tumbles as US-Iran pause eases pressure, but risks to India’s oil supply remain
+  Crude prices fell more than 9% after Washington and Tehran paused strikes. This eased near-term pressure on India's import
+  🔗 https://www.livemint.com/market/commodities/crude-tumbles-as-us-iran-pause-eases-pressure-but-risks-to-indias-oil-supply-remain-11785153779446.html
 
 - Xbox is down again? Microsoft confirms outage, says ‘We know this has been going on a while…’
   Xbox Live is having errors that are preventing people from signing in, seeing their library, and playing their games. Microsoft's engineers
@@ -100,25 +100,65 @@
   'Skynet Day' came too close to sci-fi
   🔗 https://www.livemint.com/technology/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup-11785084966401.html
 
-- US stocks: US market opens higher as pause in US-Iran hostilities lifts sentiment
-  The Dow Jones Industrial Average saw a significant increase at the opening bell. The S&amp;P 500 and Nasdaq Composite also experienced notable gains.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-higher-as-pause-in-us-iran-hostilities-lifts-sentiment/articleshow/132663154.cms
+- S&P 500 falls despite Iran fighting pause as chip stocks tumble: Live updates - CNBC
+  P 500 falls despite Iran fighting pause as chip stocks tumble
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE52RnVCcG03VEVsNlExWlp0enhtV1UtNkhCNzFCaVl3VGZlS19wanVxejZ0VzFuUjI4eWQyZ3lsUXlNcmlYcWhORS1ZSUs1Q180RWFrV1FHT2I4Yk14M2dtMGlfTGZLTjhDM1FGbjNOUzlpaTg1SFlN0gF8QVVfeXFMUGJVbnA0bXg1SDhZVm9TcXZmRXdkZ1l5cXRUa3hCVUZLR2FQMThtNEloRFRHOVhvUDlDaUJwVVNuMVBoYTZzZ3loVVJGUTlxeTYzZkV4Tm5jOVVvWXlRZlYxREZfYnB5eEpweFA1QmM3Z0I3ZDA0cFZxVFc3QQ?oc=5
 
-- Tata Chemicals Q1 Results: Profit plunges 81% to Rs 60 crore on higher expenses
-  Tata Chemicals experienced a significant eighty-one percent drop in profits for the June quarter. Despite this decline, the total income surged to Rs 4,311 crore, showing improvement compared to the same period last year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-chemicals-q1-profit-down-81-pc-to-rs-60-cr-on-higher-expenses/articleshow/132662595.cms
+- Stock Market Today: Nvidia, Micron, Intel Stocks Drop; Oil Tumbles on Trump-Iran Pause — Live Updates - WSJ
+  Stock Market Today: Nvidia, Micron, Intel Stocks Drop;
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPclQyWlJCa3dHSl9QUjFadm9xRS1ZS09BRzdhSXBGUk9WaWtVeElOeVo0MUNqUEJKZ1Q1MkdIcFJCcU9ZNlVzUDJqbXlsTE1FTFJuYTN0QXctblJOYk8yb2ZWRmZVVmVzaHk0NDRKZTV5UV9YTlptRTNlWnZDbWxBUUJQQmRuY2s?oc=5
 
-- Tamilnad Mercantile Bank Q1 profit jumps 35% on strong income growth
-  Tamilnad Mercantile Bank reported a 35% year-on-year rise in June quarter net profit to Rs 412 crore. The lender also posted improved margins, stronger
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tamilnad-mercantile-bank-q1-profit-jumps-35-on-strong-income-growth/articleshow/132662506.cms
+- Stock Market Today: Major Indexes Mixed; Nasdaq, S&P 500 Slip as Chip Stocks Fall, Dow Rises; Oil Prices Plunge on Pause in US-Iran Hostilities - Investopedia
+  Stock Market Today: Major Indexes Mixed; Nasdaq, S&amp;P 500 Slip as Chip St
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOYXlfSVN1YVJlQWNSdWhHYmtiSTVYRzZfUmVIM25QNzFkeWVzX28zNFlKa3g4dHo1QUJ5RWhET3pObkFJUzI5akRFb210bUlwR21wTm5RQkVTTHhGRnF3eUZhNHlDWUxSX2ZEaUlyZDlOTWFZUDU0MjJ6d1RldWpfVFhwNHprb3FIeWNkUmVlUlk?oc=5
 
-- Canara Bank targets up to $2.5 billion via FCNR-B, overseas borrowings
-  Canara Bank plans to raise up to $2.5 billion through FCNR-B deposits and overseas borrowings. The lender reported a 2.2% rise in first
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-targets-up-to-2-5-billion-via-fcnr-b-overseas-borrowings/articleshow/132661924.cms
+- The ‘Unsettled’ Vibe That’s Creeping Through the Markets - WSJ
+  The WSJ looks at the
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVd3Z2JybC1WRlRMOEg0QV9XQ3BOY2lfb0NaUzM1LUdBN28wLWNYbEdGY2xfZWxueVYwZFFueThnWVQybmt5aWtSRTF0M3dUdTJJa1g0UU15UTJYTjhlbnE5dGZhaElSOVhyZ3NUbDBNbWZUVzRvNmM4cjhLUG1pTXVPaFBncnI2NnV5Rw?oc=5
 
-- India's top 7 cities face retail space crunch in malls, new supply down 57 pc in Jan-Jun: Anarock
-  Gross leasing of retail spaces in malls stood at about 4.1 million sq ft in the first half of the 2026 calendar year.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-top-7-cities-face-retail-space-crunch-in-malls-new-supply-down-57-pc-in-jan-jun-anarock/articleshow/132661802.cms
+- Oil markets are on edge again - The Economist
+  Oil markets are on edge
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWNyVjBGeG1ER2gyenUwcVhSZnA5bWZTdlUtWHIzT1Y5bVZ5OS0zOWttVDlJY21keWIzYzdGU0NodGNaQlZOemlubG1QRkdud2VWeEpmYUJEYnF4c0lPUTRtcFliMTgwS1RsZmpHTElpV2kteEtkLWFEZDlxX24zcG1iSEc1WTdYMkI4SlN1WmpIUQ?oc=5
+
+- SpaceX at $100 would imply zero AI value, Morgan Stanley says
+   SpaceX shares have fallen significantly, nearing a valuation that ignores its artificial intelligence business. Morgan Stanley analysts believe this presents an attractive entry point for investors now.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-at-100-would-imply-zero-ai-value-morgan-stanley-says/articleshow/132529138.cms
+
+- Bond investors, unsure about Fed policy outlook, hedge against US rate shock
+  The surge in demand for swaptions highlights growing apprehensions regarding Federal Reserve policies. Investors are strategically hedging against possible spikes in 10-year swap rates.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/bond-investors-unsure-about-fed-policy-outlook-hedge-against-us-rate-shock/articleshow/132665831.cms
+
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Sensex climbed 776 points and Nifty reclaimed 23,996. Analysts eyeing 24,250–24,300 if the index sustains above the 24,000
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132665751.cms
+
+- Global markets: Shein will struggle to justify up to $50 billion Hong Kong IPO valuation
+  The company's quarterly loss partly reflected a $328 million fair-value charge on convertible redeemable preferred shares. slowing revenue growth and weaker
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-will-struggle-to-justify-up-to-50-billion-hong-kong-ipo-valuation/articleshow/132664467.cms
+
+- Tata Power board okays raising Rs 4,500 cr via NCDs
+  Tata Power's board has given the green light to raise funds up to Rs 4,500 crore through debt securities. This initiative will see the company issue non-convertible debentures or alternative debt instruments via private placement.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/tata-power-board-okays-raising-rs-4500-cr-via-ncds/articleshow/132664416.cms
+
+- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0dj
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
+
+- Exclusive: Satellites Show At Least 11 Chinese Stealth Jets Facing India. New Delhi's Answer Is Years Away - NDTV
+  Satellites show At Least 11 Chinese Stealth Jets Facing India.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2c3SWZWaC04ZFVsT1huZi1wUEUzX3o5dDBhTEN1QnVvUGZITmg5R1c1Z3doczRpVlcxUi1Lci1uanpNLWd2cGlBYk9qUU9jNktEOVF0WGx3aUQzRXlNUTlRVTdKMGJOektZWU1tWlEwcl9sYWE5Nnl3T2pjOTV6V1k0MjJYcjhBZTVhNTd3UlNOUTl3c0RTeEtnTzRaUjQ1T2VPZXNxbjlHWi02WU9ZLW43dXBVVU1GaEN4ZEZaOEQ4SnRyekZxeDN5TTI?oc=5
+
+- 'Govt breaching deal ... will protest again': CJP gives Centre ultimatum amid ongoing police action - The Times of India
+  'Govt breaching deal ... will protest again': CJP gives Centre ultim
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxONHY0WG90c2swSnRpZWpUbk9wQkIzS3hxV3BiSEw1V2lOZmtIeVRVX0dKamJVbTY1N1N6TEE4ck5KQ0xHNGtEbjhZTko2TFIxZURTZ05Hdm9XQ3pFWm1fdzlERWh6eTJVYVNNZVRSYjRXdUEzWEtjRzNDdWNlX3NmZFliZGx3bGZDWFVVVVBlbHRyWEk4cjQwODQ1eWo2MC1KUnhmajI4YTkxQ3A2WWVkRFZnbWVvUzlhQ0dvNDNpX3Fyelo2SXZMVVBVLUoyb3VZN3U4VVNmRkFqUGpzTlA1ajY3LVBYdHU2QXVrcGJsb3E1Z2R6cFNBZ9IB_gFBVV95cUxNanRrTjJvSjlRd3dqVEJ2UXY5TlZIUXBDbENndXdQZUpjTXVBaUVKX1U0VTdXa1E4QkNQNTUtakF0V0dvZDYxeFp5bkZiT1A0STdoa3Z6dG9LamVKQlZ3LUlUNVlFdXVlQ01RRlA0YVU5aVl0ZFg2eThYbXktdkkzdXMwNmhfQjdESzZzWFk5OFluNTd3b0stdlhTbHBGaENkRjlLbWh0LXVhQk9mOWNZX3VCMXNUMGs3RXZCeWF5a041X3hFQ01pckNiRFJsa08xUEtqcEVBQ1hveWt2QUNfOWlndkZNZXMzQ1ZGYk5DSUZMZFBvOGdtcmxDMHE1UQ?oc=5
+
+- Here’s why India’s cockroach protests were such a success – and why the Mamdani effect means more to come - The Guardian
+  Here’s why India's cockroach protests were such a success – and why the
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzVKWnFSTXhLclRQNFFUYlpPcjdlaHV2NXFaUjlZekdfVzNqbmlnLTR4WkRyVUVQb2t3M2NDaGFiV18zejFhbkxFaWZLVnNUX1MtdXlxZlFtOVl3RkhOWHJrbERqbXdLd2k0dTBORWlhUl9fWVFYWHVnZUdYeTEzOGhaNER4UE1IZHNsX1YzU1RZS1pJQVdHclNSWjB2Slhxcl9mNDY5YnM0Zw?oc=5
+
+- Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting | Akashvani News - News On AIR
+  Mirabai Chanu wins India’s first gold at Commonwealth Games
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcU51YnlfRFFuZ1RoWi1uVThXZ0ZBejR6NF9BTzNiaE9hQzkxbGJYSGEzeGFGUjROdDBtVzctd3JHWV94Z1dIMnpSTzVCdndOV3NLMzF4ODZTMnZBSEZPc19aelYtQ3R0UUF6ZW4xRld2d3BDU1hpalNMZjhkUWd0S0h2dlpoMVAyUm5ZbGZJSnhqU3M4ZzZncFh3V0JJbUF5MmZDMWljTjVDdw?oc=5
 
 - Ex-Share.Market CEO Ujjwal Jain Launches Wealth Management Startup Atyx.AI
   Former Share.Market CEO Ujjwal Jain and ex-Microsoft researcher Debopam Bhattacharjee launch a new fintech venture Atyx.AI.
@@ -140,25 +180,45 @@
   B2B ecommerce platform IndiaMART InterMESH has entered into an agreement to invest about ₹65 Cr in Fleetx.
   🔗 https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/
 
-- Watch: Protesters celebrate resignation of India's education minister - BBC
-  India's education minister resigns
-  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HcE1WMkVDLWRESG9MNmZfaVIyRWVscEViSWJHTmduRG1Ja1BnR3ZpMmxqTWhxSXVyLVVQYUpDaEVYcnRWdUk5NzE1WjBzU1lENXZyeXhKcw?oc=5
+- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0dj
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- India’s ‘Cockroach’ youth call off protests after education minister quits - Al Jazeera
-  India’s ‘Cockroach
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkVlcUZqWmdacnRlSFotTHBUbEVyRWU5NF9yb2h0Uzl4OXRUWUl0cmJFRnlHbU9FeVhmZTZ6QlpXbzFHc1piam8xRXp6cTlSUHJ1TWN3MmNuQ3F1VXBRWTVWUjJNbEpOb1pjMkFVUmZqc1cxWWJTc0ctQUloNElEeTJSbEVQc1o4eWtRbmNJWW1VZy02UkVrWDQ0clAzYUdKbzRfaGs2bW5QWFFr0gGyAUFVX3lxTE9QX08wWl9fZ1JkbVRHdDRTTTRkeHFaYXNaTS1STHZQOVIyS0tHU1JtdG5wdnMxVzRnVFpjNGRES3dLMHhmOUxCZ2VtczhVVDNYaF9KUDN4Q2M2YnR0aDBIWk5wWmdlVF80dHFFU2VDQTZkb0J6OFJwemJReFRGMEZQXzdyakprODdvUmo0NVlESFY0cHF4bnQzZXhiU3phaVhfQ3ZJYXVyd3VFSUNKaHVjLUE?oc=5
+- Exclusive: Satellites Show At Least 11 Chinese Stealth Jets Facing India. New Delhi's Answer Is Years Away - NDTV
+  Satellites show At Least 11 Chinese Stealth Jets Facing India.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2c3SWZWaC04ZFVsT1huZi1wUEUzX3o5dDBhTEN1QnVvUGZITmg5R1c1Z3doczRpVlcxUi1Lci1uanpNLWd2cGlBYk9qUU9jNktEOVF0WGx3aUQzRXlNUTlRVTdKMGJOektZWU1tWlEwcl9sYWE5Nnl3T2pjOTV6V1k0MjJYcjhBZTVhNTd3UlNOUTl3c0RTeEtnTzRaUjQ1T2VPZXNxbjlHWi02WU9ZLW43dXBVVU1GaEN4ZEZaOEQ4SnRyekZxeDN5TTI?oc=5
 
-- "Won't Delete": BJP MP's Daughter's Viral Post On Dharmendra Pradhan - NDTV
-  "Won't Delete": BJP MP
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWlwRG5oMzZKd05adlNMaGJqMlBqS1M1d3NFSzhnUmxvRVIybkdoU2hKRXV3ZERKazRQU0E5YnN0V0FiN1ZjOE1oSF9HVDBUb01FTDkyXzkyTm5kVmRCS1k4dW05TzFNc05yMEYxVGNzNTllVl9TQXFmWGIxRzNacVRtM1ZvUXVIV1ZFWjZGZ25FSjdEUTNOZFh0bmV3YVFnQVJJakdTSGZHQlZZQUFqb2t2SURQSWg5WmlHSzFn0gHGAUFVX3lxTE0wS0ozWjczSGw5UmlJVXJEcFBKUnRLRW1zLTJvR2tBZm04WjZRdGxOd3dDNXdyWmkxMkNnM25vSHlySEVuSW5kMzAtX25WbTBLOUJLNGRCazRPZ2N6S1RpYnp3U3IyemxQc25HYjR0NzJRWkRDNTR5TGpfVzFvcjFFSzl0TDloNW5JdXVvenpONEFkN1ZlT2hjbmxWUlhSUUFySW5VTjUyNU5KbFRFM21LNVZaMk90U0V5Y1hiTVVDX1c5MmRLdw?oc=5
-
-- Sri Lankan activists, trade unionists express solidarity with Indian students - The Hindu
-  Sri Lankan activists, trade unionists
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX1JQNTFjV0RraVVNU3Z4OTNFdmw4VUZFdUhRRmo1OExPOTZmNF80U3p1bnE1dk1VdWNxQWJuWmhMOU5TZWJIckJsWGVTZHg5UHZoWjNFemdkTFRmcjhnOUZuZVJsNHNuUFhHcnVoU3ZoTWtQM0JWeEZHY3lnT1NiREhpTkNmc3FyVkM5YVJTVklyNUZsdlZWaXNMbk1NZ1piVjB5X2xCSjZzVFdDQzFqU3U2djhnYzZkUmtuS2o4bS0xQ3lGZERYVi1aUldEWHVfMi12WEh3?oc=5
-
-- 'Will be forced to sit on protest again': CJP warns Centre over student arrests, FIRs in Bihar, Bengal - The Times of India
-  'Will be forced to sit on protest again': CJP warns Centre over student arrests, FIR
+- 'Govt breaching deal ... will protest again': CJP gives Centre ultimatum amid ongoing police action - The Times of India
+  'Govt breaching deal ... will protest again': CJP gives Centre ultim
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxONHY0WG90c2swSnRpZWpUbk9wQkIzS3hxV3BiSEw1V2lOZmtIeVRVX0dKamJVbTY1N1N6TEE4ck5KQ0xHNGtEbjhZTko2TFIxZURTZ05Hdm9XQ3pFWm1fdzlERWh6eTJVYVNNZVRSYjRXdUEzWEtjRzNDdWNlX3NmZFliZGx3bGZDWFVVVVBlbHRyWEk4cjQwODQ1eWo2MC1KUnhmajI4YTkxQ3A2WWVkRFZnbWVvUzlhQ0dvNDNpX3Fyelo2SXZMVVBVLUoyb3VZN3U4VVNmRkFqUGpzTlA1ajY3LVBYdHU2QXVrcGJsb3E1Z2R6cFNBZ9IB_gFBVV95cUxNanRrTjJvSjlRd3dqVEJ2UXY5TlZIUXBDbENndXdQZUpjTXVBaUVKX1U0VTdXa1E4QkNQNTUtakF0V0dvZDYxeFp5bkZiT1A0STdoa3Z6dG9LamVKQlZ3LUlUNVlFdXVlQ01RRlA0YVU5aVl0ZFg2eThYbXktdkkzdXMwNmhfQjdESzZzWFk5OFluNTd3b0stdlhTbHBGaENkRjlLbWh0LXVhQk9mOWNZX3VCMXNUMGs3RXZCeWF5a041X3hFQ01pckNiRFJsa08xUEtqcEVBQ1hveWt2QUNfOWlndkZNZXMzQ1ZGYk5DSUZMZFBvOGdtcmxDMHE1UQ?oc=5
+
+- Here’s why India’s cockroach protests were such a success – and why the Mamdani effect means more to come - The Guardian
+  Here’s why India's cockroach protests were such a success – and why the
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzVKWnFSTXhLclRQNFFUYlpPcjdlaHV2NXFaUjlZekdfVzNqbmlnLTR4WkRyVUVQb2t3M2NDaGFiV18zejFhbkxFaWZLVnNUX1MtdXlxZlFtOVl3RkhOWHJrbERqbXdLd2k0dTBORWlhUl9fWVFYWHVnZUdYeTEzOGhaNER4UE1IZHNsX1YzU1RZS1pJQVdHclNSWjB2Slhxcl9mNDY5YnM0Zw?oc=5
+
+- Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting | Akashvani News - News On AIR
+  Mirabai Chanu wins India’s first gold at Commonwealth Games
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcU51YnlfRFFuZ1RoWi1uVThXZ0ZBejR6NF9BTzNiaE9hQzkxbGJYSGEzeGFGUjROdDBtVzctd3JHWV94Z1dIMnpSTzVCdndOV3NLMzF4ODZTMnZBSEZPc19aelYtQ3R0UUF6ZW4xRld2d3BDU1hpalNMZjhkUWd0S0h2dlpoMVAyUm5ZbGZJSnhqU3M4ZzZncFh3V0JJbUF5MmZDMWljTjVDdw?oc=5
+
+- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0dj
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
+
+- Exclusive: Satellites Show At Least 11 Chinese Stealth Jets Facing India. New Delhi's Answer Is Years Away - NDTV
+  Satellites show At Least 11 Chinese Stealth Jets Facing India.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2c3SWZWaC04ZFVsT1huZi1wUEUzX3o5dDBhTEN1QnVvUGZITmg5R1c1Z3doczRpVlcxUi1Lci1uanpNLWd2cGlBYk9qUU9jNktEOVF0WGx3aUQzRXlNUTlRVTdKMGJOektZWU1tWlEwcl9sYWE5Nnl3T2pjOTV6V1k0MjJYcjhBZTVhNTd3UlNOUTl3c0RTeEtnTzRaUjQ1T2VPZXNxbjlHWi02WU9ZLW43dXBVVU1GaEN4ZEZaOEQ4SnRyekZxeDN5TTI?oc=5
+
+- 'Govt breaching deal ... will protest again': CJP gives Centre ultimatum amid ongoing police action - The Times of India
+  'Govt breaching deal ... will protest again': CJP gives Centre ultim
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxONHY0WG90c2swSnRpZWpUbk9wQkIzS3hxV3BiSEw1V2lOZmtIeVRVX0dKamJVbTY1N1N6TEE4ck5KQ0xHNGtEbjhZTko2TFIxZURTZ05Hdm9XQ3pFWm1fdzlERWh6eTJVYVNNZVRSYjRXdUEzWEtjRzNDdWNlX3NmZFliZGx3bGZDWFVVVVBlbHRyWEk4cjQwODQ1eWo2MC1KUnhmajI4YTkxQ3A2WWVkRFZnbWVvUzlhQ0dvNDNpX3Fyelo2SXZMVVBVLUoyb3VZN3U4VVNmRkFqUGpzTlA1ajY3LVBYdHU2QXVrcGJsb3E1Z2R6cFNBZ9IB_gFBVV95cUxNanRrTjJvSjlRd3dqVEJ2UXY5TlZIUXBDbENndXdQZUpjTXVBaUVKX1U0VTdXa1E4QkNQNTUtakF0V0dvZDYxeFp5bkZiT1A0STdoa3Z6dG9LamVKQlZ3LUlUNVlFdXVlQ01RRlA0YVU5aVl0ZFg2eThYbXktdkkzdXMwNmhfQjdESzZzWFk5OFluNTd3b0stdlhTbHBGaENkRjlLbWh0LXVhQk9mOWNZX3VCMXNUMGs3RXZCeWF5a041X3hFQ01pckNiRFJsa08xUEtqcEVBQ1hveWt2QUNfOWlndkZNZXMzQ1ZGYk5DSUZMZFBvOGdtcmxDMHE1UQ?oc=5
+
+- Here’s why India’s cockroach protests were such a success – and why the Mamdani effect means more to come - The Guardian
+  Here’s why India's cockroach protests were such a success – and why the
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzVKWnFSTXhLclRQNFFUYlpPcjdlaHV2NXFaUjlZekdfVzNqbmlnLTR4WkRyVUVQb2t3M2NDaGFiV18zejFhbkxFaWZLVnNUX1MtdXlxZlFtOVl3RkhOWHJrbERqbXdLd2k0dTBORWlhUl9fWVFYWHVnZUdYeTEzOGhaNER4UE1IZHNsX1YzU1RZS1pJQVdHclNSWjB2Slhxcl9mNDY5YnM0Zw?oc=5
+
+- Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting | Akashvani News - News On AIR
+  Mirabai Chanu wins India’s first gold at Commonwealth Games
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcU51YnlfRFFuZ1RoWi1uVThXZ0ZBejR6NF9BTzNiaE9hQzkxbGJYSGEzeGFGUjROdDBtVzctd3JHWV94Z1dIMnpSTzVCdndOV3NLMzF4ODZTMnZBSEZPc19aelYtQ3R0UUF6ZW4xRld2d3BDU1hpalNMZjhkUWd0S0h2dlpoMVAyUm5ZbGZJSnhqU3M4ZzZncFh3V0JJbUF5MmZDMWljTjVDdw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-27 14:22:12 UTC_
+_Last updated: 2026-07-27 19:22:44 UTC_
