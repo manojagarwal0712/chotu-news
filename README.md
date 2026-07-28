@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- New education minister ‘defender of rapists’: Rahul Gandhi blasts Pralhad Joshi
+- NMC releases eligibility guidelines for NEET candidates with disability – two weeks after results
   
-  🔗 https://indianexpress.com/article/india/education-minister-defender-of-rapists-rahul-gandhi-pralhad-joshi-bilkis-bano-narendra-modi-10807618/
+  🔗 https://indianexpress.com/article/india/nmc-releases-eligibility-guidelines-for-neet-candidates-with-disability-two-weeks-after-results-10808011/
 
-- Fresh row over Jharkhand govt recruitment, OBC leaders threaten protest
+- NEET UG paper leak: CBI files charges against 13 accused
   
-  🔗 https://indianexpress.com/article/india/row-jharkhand-govt-recruitment-obc-leaders-threaten-protest-10807585/
+  🔗 https://indianexpress.com/article/india/neet-ug-paper-leak-cbi-files-charges-against-13-accused-10808001/
 
-- ‘Welcomed him as if he were a superstar’: Priyanka Gandhi slams BJP MPs for felicitating Pradhan
+- ‘People were blinded’: CJP warns of fresh nationwide protest over unfulfilled demands
   
-  🔗 https://indianexpress.com/article/india/priyanka-gandhi-bjp-mps-dharemendra-pradhan-welcome-cjp-protest-modi-10807443/
+  🔗 https://indianexpress.com/article/india/people-were-blinded-cjp-warns-of-fresh-nationwide-protest-over-unfulfilled-demands-10807951/
 
-- BJP MP got Rs 4.20-lakh subsidy to grow lemons on his farm: Centre’s reply
+- Government re-issues draft notification declaring over 56 K sq km of Western Ghats as eco-sensitive area
   
-  🔗 https://indianexpress.com/article/india/bjp-mp-lumbaram-choudhary-horticulture-subsidy-bhagirath-choudhary-lok-sabha-10807491/
+  🔗 https://indianexpress.com/article/india/government-western-ghats-eco-sensitive-area-10807935/
 
-- Sparks fly in Lok Sabha as government, Opposition clash over anti-paper leak Bill
+- Pak Gen Z should focus on India’s demand to end state-sponsored cross-border terror: MEA
   
-  🔗 https://indianexpress.com/article/india/public-examinations-amendment-bill-2026-lok-sabha-debate-paper-leak-10807457/
+  🔗 https://indianexpress.com/article/india/pakistan-gen-z-cross-border-terrorism-mea-jantar-mantar-protests-10807929/
 
 - Moonshot AI releases Kimi K3 model weights under custom licence: What it means for enterprises
   
@@ -40,165 +40,185 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/china-accuses-us-of-ai-hegemonism-threatens-countermeasures-over-potential-probes-10806622/
 
-- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
-  Who is India’s new
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
+- Warner Bros. Deal Collapse Would Cost the Ellisons $9.8 Billion
+  Larry Ellison and his family would be on the hook for $9.8 billion if Paramount Skydance
+  🔗 https://www.livemint.com/companies/warner-bros-deal-collapse-would-cost-the-ellisons-9-8-billion-11785265481413.html
 
-- Gen Z Could Be India's Most Powerful Voter Bloc By 2029. Numbers Explain Why - NDTV
-  Gen Z Could Be India's Most Powerful Voter Bloc By
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOaS0yZDRoTDZfQi1hRVpwZGRrM3ROZElCcUk4YUpWZF9jaGpxVUpNTkF3eHoxenNzOG1XOExSQlRULWRqMWwzbkZKbk0teVNjUzNZclVUY2pfUHpOVTRiRDhBeVpDRm51Mkc2LURtSnpmenZuUE1ndVktdHQyQkU5MVBKeWJ5MjQwRU5TSWRvVDNxLWwyaHZTWWNUSjlyQW9XLVBiQ3FDRHdhNzlwQ3VpWURJMHpkUdIBvgFBVV95cUxOV2N1a3hJb0d5bndmN3I2WFlaa0kya0xxYTlOOXZwZ3J3N3RVa3ZnUE43MVhLNXI5UXIzZWJhUzdveDVyaHNOMmljWkRfX2VQNGxlanV0eGVqN2kwb3JTTl9BV2lqWEY3WU14aXJObF9FaVI0dmdUN1pzTC1LU1NUcnZOT1BRckxRdG9LbTZkUGg5MHpTbGotRklUaThFbERKcnVNa0s1STRVS0d1MGM1azVndTlCTnVXbzhWYmRn?oc=5
+- DMart bets on tech, execution for next growth phase
+  DMart's next phase of growth would focus on modernizing its technology and data infrastructure, says CEO Anshul Asawa.
+  🔗 https://www.livemint.com/companies/company-results/dmart-ceo-anshul-asawa-growth-strategy-technology-ecommerce-quick-commerce-challenge-11785251127573.html
 
-- Trade gap seen as by-product of India's development stage, investment needs, energy dependence: Govt to Pa - The Economic Times
-  Trade gap seen as by-product of India's development stage, investment needs,
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNYm1NWm5DTlZJY3VrdGZVZE5TLXVFMVZRYmx0T1g0UzFGZEgzelhGdHpnTWFnYkNMYWlUNkw5aHZtNGd2RWphdThaTW5FdnlJMDRvdTV4Ml9zTVRDUm9wbWd6UWc5RTBpT3htVFF2bUtDdmNkSmhzNGMwc3FpaUdUWjVQOXlFSlFjNDRMWURaeDNoaW4zRmNGdmtvN2tEbzN4S0VBU1RKa1czSHVwWlhaOGZkZ0V6Uk9GcnQxdGU1WEhPRXpSMGpvVDlDN1RDT25hbjVNbHVkdnUzX24tQ3pJRzFKX19tREFYOHpKRVRGT2xYXzBob0Y0Z0xuZ1AwX2tJeWdBWTY2UjRuWHdKcUU4RGRGMm1wTjVWYThscU5YYnhJaGVpY0RB0gGgAkFVX3lxTFB5NGJMTC1kZVZUeEtVWThHekVZbU1rTDZmM3l1VExUaExWcDk4czh4QlFKaDlNZjBIVnF0Wm52M0g5S0hhend5MDdNWW1VMjhaUzBIUXZwZXNsU0ZldVdma3Zob0ZDaHd4azVJemlLZ202cHhtd1JmVjlVTEtFRlQ3VWRrMDVvWXNxRkh6N1A5Ykg5c2lIbU1uUWFIX0p2TXdrMS04Z1lQMmVSbTd5OGhkamVKTmZxYmE1aHU4TFg2emg5Q05najZqenZRdC1mY3hpU0xuSEQ3eEFNTEdSd1BxOWJRbTNHZTZPcFZFSy1NdTNmR3pGOE1ybGx6bFB3YmhiYmhwTlN0VWxVbkVCc24wSEtSOWRTcTBZeFE4ekJUWg?oc=5
+- IndiGo seeks 57% higher borrowing limit to fund fleet expansion
+  About 75% of the incremental borrowing capacity is expected to be used to finance aircraft through long-term finance leases. The
+  🔗 https://www.livemint.com/companies/company-results/indigo-earnings-indigo-borrowing-limit-fleet-expansion-aviation-industry-india-11785250294710.html
 
-- India’s squad for the Tour of Sri Lanka announced - BCCI
-  India’s squad for the
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUtCYkk4dlhkNE9GeFh1SlFSUjMwR0d4eXQycXdoVFkwNV90Wjl0am5PaGZ4Y0l5NGdSb3h1b1FYRjZrRVpyNEVXUFllY0xLV1hITnJlVDZzQkVzUDFKQzU4YmRmUGxBbng5ajYtT2F5clRIMnNVNU5UenVjOWUyNWNOTjU3MndCMl9HXzh4MA?oc=5
+- US-Iran war weighs on L&amp;T, trims Q1 margins, West Asia order inflow
+  L&amp;amp;T
+  🔗 https://www.livemint.com/companies/company-results/lt-q1-results-us-iran-war-margins-west-asia-order-inflow-11785250142015.html
 
-- 'It took everything from us': India's Assam faces worst floods in years - BBC
-  'It took everything from us': India's Ass
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUFhqcWJxWU9fZDdNaTRHRy1mRHpiMkMxaHNCWlloT0Q4WjU3VUstbDZZOVFmOHJ0MXFQTF9wcTBUWnFaU2NWTXF6RVlxbXphMmFsWklkaHdSQQ?oc=5
+- Coca-Cola's India value market share slips in June quarter
+  Coca-Cola had introduced low-priced variants of its products.
+  🔗 https://www.livemint.com/companies/company-results/coca-cola-india-market-value-share-loss-reliances-campa-cola-11785247502388.html
 
-- Rail Vikas Nigam shares to be in focus on Wednesday as company secures a  ₹356 crore order
-  The project includes doubling railway works and is set for completion within 730 days. Rail Vikas Nigam has received a Letter of Acceptance for a  ₹358.
-  🔗 https://www.livemint.com/market/stock-market-news/rail-vikas-nigam-shares-to-be-in-focus-on-wednesday-as-company-secures-a-rs-356-crore-order-11785245225190.html
+- Treasury yields retreat as oil tumbles before Fed policy decision
+  Treasury yields retreat as oil tumbles
+  🔗 https://www.livemint.com/market/treasury-yields-retreat-as-oil-tumbles-before-fed-policy-decision-11785264502739.html
 
-- Birlasoft Q1 Results: Net profit jumps 51% YoY to  ₹161 crore; TCV rises 20%
-  Birlasoft reported Q1 FY27 revenue of  ₹1,379.4 crore, up 2.3% sequentially. Net profit rose 51
-  🔗 https://www.livemint.com/market/stock-market-news/birlasoft-q1-results-net-profit-jumps-51-yoy-to-rs-161-crore-tcv-rises-20-11785241695017.html
+- Crude prices extend decline, fall over 5% on US-Iran talks optimism; Brent down 20% in three sessions
+  Brent crude dropped to $80.67 and WTI to $77.83, continuing a downward trend after recent military de-escalation and renewed diplomatic efforts in the region.
+  🔗 https://www.livemint.com/market/stock-market-news/crude-prices-extend-decline-fall-over-5-on-us-iran-talks-optimism-brent-down-20-in-three-sessions-11785258884871.html
 
-- Expert view: 10 sectors that could generate alpha over the next 5–10 years, according to Right Horizons PMS founder
-  Anil Rego, founder of Right Horizons PMS, reveals 10 high-potential sectors that could thrive despite market uncertainties. Rego
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-10-sectors-that-could-generate-alpha-over-the-next-5-10-years-according-to-right-horizons-pms-founder-11785238853300.html
+- Pentagon blacklist of CXMT: Is Washington accidentally creating a stronger Chinese chip rival?
+  CXMT's shares soared 466% on its Shanghai Stock Exchange debut, elevating its market value to 3.28 trillion yuan. Amid US sanctions, CXMT
+  🔗 https://www.livemint.com/market/pentagon-blacklist-of-cxmt-is-washington-accidentally-creating-a-stronger-chinese-chip-rival-11785251453860.html
 
-- US stock market today: Wall Street edges lower as chip stocks face fresh sell-off; Brent slips below $85
-  Nasdaq-100 futures fell 0.9%, with Micron Technology declining 4.5%.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-edges-lower-as-chip-stocks-face-fresh-sell-off-brent-slips-below-85-11785238862393.html
+- Gold, silver prices today: Comex gold and silver slide as stronger dollar, Fed uncertainty weigh
+  Gold and silver prices faced selling pressure as investors awaited the US Federal Reserve's policy meeting. A stronger US dollar and rising interest rate expectations impacted precious metals. geopolitical tensions eased
+  🔗 https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex-gold-and-silver-slide-as-stronger-dollar-fed-uncertainty-weigh-11785251924513.html
 
-- Mint Explainer | Why Sebi is overhauling online dispute resolution
-  Sebi has proposed a sweeping overhaul of its online dispute resolution framework. Administration to be shifted to market infrastructure institutions.
-  🔗 https://www.livemint.com/market/sebi-odr-overhaul-online-dispute-resolution-investor-grievance-reforms-11785228171730.html
+- Coal India Q1 capex rises 16.6% YoY to  ₹3,399 crore, beats quarterly target
+  Coal India's June quarter capex reached  ₹3,399 crore, marking a 16.6% YoY rise. Investments in land acquisition and renewable
+  🔗 https://www.livemint.com/market/stock-market-news/coal-india-q1-capex-rises-16-6-yoy-to-rs-3-399-crore-in-beats-quarterly-target-11785250551117.html
 
-- Nasdaq futures slide as chip sell-off continues, but strong earnings bolster rest of market: Live updates - CNBC
-  Nasdaq futures slide as chip sell-off continues, but strong
+- WhatsApp finally lets you make audio and video calls from your web browser - Check other latest updates
+  WhatsApp Web now supports end-to-end encrypted audio and video calls. Call transfer, waiting room, QuickHD and noise suppression
+  🔗 https://www.livemint.com/technology/apps/whatsapp-finally-lets-you-make-audio-and-video-calls-from-your-web-browser-check-other-latest-updates-11785254769668.html
+
+- Your Claude AI chats could be showing up on Google. Here's what Anthropic says
+   Claude conversations are private by default. Fortune found that the only chats affected were those that
+  🔗 https://www.livemint.com/technology/your-claude-ai-chats-could-be-showing-up-on-google-heres-what-anthropic-says-11785231267866.html
+
+- I found 5 printers that handle school assignments, office work, and everything in between
+  These printers are targeted at budget and mid-budget buyers. They can print up to 30 pages per minute
+  🔗 https://www.livemint.com/technology/i-found-5-printers-that-handle-school-assignments-office-work-and-everything-in-between-11785217587720.html
+
+- Redmi Note 17 India launch date confirmed, 8,000 mAh battery revealed
+  Xiaomi's Redmi Note 17 will launch in India on 6 August 2026 at noon. It is likely to feature a 7-inch Full HD+ OLED display, Snapdragon 4
+  🔗 https://www.livemint.com/technology/gadgets/redmi-note-17-india-launch-date-confirmed-8-000-mah-battery-revealed-11785231459005.html
+
+- Claude Code creator says most users are making one mistake with AI prompts
+  Boris Cherny, creator of Claude Code, highlighted that many users micromanage AI chat
+  🔗 https://www.livemint.com/technology/tech-news/claude-code-creator-says-most-users-are-making-one-mistake-with-ai-prompts-11785222871418.html
+
+- Dow rallies 600 points, boosted by strong earnings and a steep decline in oil: Live updates - CNBC
+  Dow rallies 600 points, boosted by strong earnings and a steep decline
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBrVi1aVEdDbG9nbWhkOEh4UU1LaDJESThkODBGOWhMVzlZWlJoTlBHMW8yclp4c1NnWTVUQzJlSG1DR0d3OWsteG9Bbzh1b2RTaHEwbHZrR09fZlNCUjNIMmxnaWVxaTA0SkxPMXQwV0pnM19WTVln0gF8QVVfeXFMTlhfZHYzbTFqZEV0a0FESjdWNXhZX0YzUDk4UHBEQjZjZFNzblRYV2VUZlVHUDk5UmhhMEJhbFcyX29lY0xfdnhVenF6dURyUGNkaE9Rbjc1dld6RjU4c2ZEdzRYSGhwWUxnLXo5TnpBbWxzMG1MdUFiVUkxYg?oc=5
 
-- Stock Market Today: Chip Stocks Under Pressure as AI Worries Push Investors to Other Sectors - WSJ
-  The WSJ reports that chip companies are under pressure.
+- Stock Market Today: Dow Opens Higher, Micron Stock Slides as Investors Rotate Out of Chip Stocks — Live Updates - WSJ
+  The WSJ reports that Micron Stock Slides as Investors Rotate Out of Chip
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxObmhFN3Q2NnJ2NlFSaVlBZ3FnNUx2a3B6WFdOSVBHbVY5akY1WE5tLVNpdGROZVBZRWFrc185V2F5RkhVWjIxQjBfQU9RaWpKZzRVYUxCOVhlaF9xdllHQ0tHQmI5NnFZMFpUR3RuQWdlRWRLUTRfNjFNQnpyZ3pwcGl4OFdYN1k?oc=5
 
-- Dow closes more than 250 points higher, aided by cooling oil prices - CNBC
-  Dow closes more than 250 points higher, aided
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE52RnVCcG03VEVsNlExWlp0enhtV1UtNkhCNzFCaVl3VGZlS19wanVxejZ0VzFuUjI4eWQyZ3lsUXlNcmlYcWhORS1ZSUs1Q180RWFrV1FHT2I4Yk14M2dtMGlfTGZLTjhDM1FGbjNOUzlpaTg1SFlN0gF8QVVfeXFMUGJVbnA0bXg1SDhZVm9TcXZmRXdkZ1l5cXRUa3hCVUZLR2FQMThtNEloRFRHOVhvUDlDaUJwVVNuMVBoYTZzZ3loVVJGUTlxeTYzZkV4Tm5jOVVvWXlRZlYxREZfYnB5eEpweFA1QmM3Z0I3ZDA0cFZxVFc3QQ?oc=5
+- Stock Market Today: Major Indexes Mostly Rise on Strong Earnings as Oil Prices Sink; Dow Adds 550 Points; Chip Stocks Weigh on Nasdaq - Investopedia
+  Stock Market Today: Major Indexes Mostly Rise on Strong Earnings as Oil Prices Sink. Dow Adds
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOV09kODNLeXlVQnpZMlhlTkN0aXNIakhzNTdXaVVzbWVodDZFdTdBUUM2d3VTaGZXT0drWFlJdXJxQzkwLVB5VG1QWnd6V3dsbGRxRzFEbXhoZ3VsOWt2OHhHbnBTSFhGOXVpbzI5Sl9KazJHb19pZEI4V0lldmJtWE9BaFBUa0loMDhKcEVvc28?oc=5
 
-- Delhi reels under heavy rain as waterlogging disrupts school students, markets and traffic - ThePrint
-  Delhi reels under heavy rain as waterlogging
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUV6MU9QMjI5SHBjT2VWc1RKY3VEQmNfSlZnYkpXb3JtbFE2cEVqUndvU19zX1R6ZWdYZzVlOFhTZmtXTFJLY05KM3k1UE5pU25xak5qajNQM2VQZkFrTWpHbk5Tc1BveGRQU1JKVEVmdmpZSmJlSVd1VnZqc0s3LWxORFdrX0xVbmRvR2loRWpRX0I0UzJfdU5wdi1BWmlXeUlMMTJEMnRJUDdMZHdMbjlOR3NfNndqQnJCQkFVVkROUdIBxwFBVV95cUxNTnV1RXBTSEs3QnJ5MEJId2Q5eWttZlpXcE9xTkQ1M0RzdkxGYWVyYjBOTzVtYzlDY2dlZVR2eTFROGJqMGM2cUI5QmR0bnhyX0NoSnB6M01EUmhETm1uaUV0cFlaMXRyUVM0dy1RWkpfWG9SX2E4MlU2YkZEelV0bF80MGNjV2hKRzdoclMwaVdVX3pIbjhlZThMRjAxb0E4MDJzbG9WODNTZGpwT0FIdnh4QW42NEtYSEIxVmlUNldLYzgxVWhn?oc=5
+- Apple tops $5 trillion market cap, only second company to hit the milestone - Yahoo Finance
+  Apple tops $5 trillion market cap, only second company to
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNSVFLYmtzUGRLd01HbjA4Ymw1YnJ2eTF1dHUzeXhkYTJ6eXFXUTF4TGhwVFQ1QkI1Q0tSOU9XZGZSVDM4Rmd0X3hJSnB3Q1BmbmpEb1FTNGFubXd0RE8wdnB4VnYyOU5ZQV92dTlncXpMNHVRazVBT0ItZ0hhTkZOSGZYdWRUeVd0OVdJLU5vNnotaDl2dTh4SGo4bG4yZGh6Q3lJYUJOWmRsQ2d5RWQtRmZhVU5fM0VwT29iYTBaUjhtcjZGYm45SDhqbXBtUQ?oc=5
 
-- Apple Becomes Second Company to Hit $5 Trillion in Market Value - Bloomberg.com
-  Apple becomes second company to hit $5 Tr
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWwtMUJ4Ujk5V0prY1JISWtSNC1xQTNNVE5kVDEyZmdGbXR3bmdTdXZoSWpaWGZCUGNKeFdqYjRUaHFBRW9fR0U1TWJTMENwZldOaEtIRV8yY2ZJajBWUFROWmhUOHJVU1BtbUdPaG9ZZEhXa1JoTVU1eFpBVk5vdWw5UEVTa1lmWnEzcnJES0VxWWN0b29Cc1FjYXo2d05OMk1fLXcwVmNyM256TnI0eFlkQQ?oc=5
+- Apple touches $5 trillion market cap for first time - CNBC
+  Apple touches $5 trillion market cap
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTZPVklIZDktb0F5RElnY29PbEZlMEY5THBiOXJ6eklfN3N3YTY2TWY0REQ2UFpQamtTTW9IeXROMlhYTi1fbkxiUUJQVmk5RmV6WDM0bjdzbi1JQ3cyb1R1Wk5QakhjNXJTX1h5Nlo0Qmx0WW0wZU8tUTNvdHBQV0lwTFlaUV9vX1dzUTd3V2h3UdIBlwFBVV95cUxQalVxcnY2ZWtKNENjeGNSRTJMQVNtZlVrUi02NFI2T1JhcURsRlFWN2N5OVV5elNsWEVwTUY4VXU3eVMteUp1MmIzaC1qVUFHQnlfSy1XbXBEUTZyaHhNOEdTODY3M0ZWNlE1NmFRSHpUS2tzM3BBUEFxM3lDdXRQN045SHVoaXJVckM5T1A0aXJGRnl5TDVJ?oc=5
 
-- Radico Khaitan Q1 Results: Profit jumps 76% to Rs 229 crore, revenue up at Rs 5,867 crore
-  Radico Khaitan recorded an impressive seventy-six percent uptick in net profit, reaching Rs 229.60 crore for the June quarter. The company's operational revenue rose by thirteen point two two percent, totaling Rs 5,867
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/radico-khaitan-q1-results-profit-jumps-76-to-rs-229-crore-revenue-up-at-rs-5867-crore/articleshow/132685137.cms
+- Manipal Health IPO: Co. garners Rs 4,167 crore from anchor investors; ADIA, Morgan Stanley among investors
+  Manipal Health Enterprises secured Rs 4,167 crore from anchor investors for its upcoming IPO. The company's initial public offering is set to launch on July 29.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-ipo-co-garners-rs-4167-crore-from-anchor-investors-adia-morgan-stanley-among-investors/articleshow/132692857.cms
 
-- Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq futures slide as AI concerns mount ahead of Big Tech earnings
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-brent-crude-oil-fed-warsh-rate-hike-big-tech-earnings-amazon-meta-apple-microsoft-tesla-spacex-chip-stock-price-news-28th-june-2026/liveblog/132684702.cms
+- Boeing shares rise 5% despite higher than expected Q2 loss on Air Force One costs
+  Boeing posted a wider-than-expected Q2 loss after a $280 million Air Force One charge. But shares rose 5%
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boeing-shares-rise-5-despite-higher-than-expected-q2-loss-on-air-force-one-costs/articleshow/132691839.cms
 
-- Quote of the day by John Templeton: "I have learned that the great opportunities are the places that have been neglected, where other people are not looking"
-  John Templeton's investing philosophy urges investors to seek overlooked opportunities with strong fundamentals. His contrarian approach highlights the importance of independent research and patience.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-john-templeton-i-have-learned-that-the-great-opportunities-are-the-places-that-have-been-neglected-where-other-people-are-not-looking/articleshow/132684391.cms
+- Fusion Finance forfeits unpaid rights shares after final reminder
+  Fusion Finance forfeited 1.63 lakh partly paid rights shares worth Rs 1.07 crore. Company converted 2.29 lakh shares into fully paid-up equity shares after receiving
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fusion-finance-forfeits-unpaid-rights-shares-after-final-reminder/articleshow/132689928.cms
 
-- Market wrap: TCS, Eternal, HUL, BEL among top gainers and losers on Nifty and Sensex on Tuesday
-  Analysts expect Nifty to remain range-bound, with 24,050 as key resistance and 23,800 as crucial support. Indian equity benchmarks ended marginally lower after surrendering
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-eternal-hul-bel-among-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/132684231.cms
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Sensex and Nifty erased early gains after a sharp rally. Analysts cited cautious sentiment ahead of global central bank meetings. IT stocks outperformed while Nifty remained range
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132688972.cms
 
-- L&amp;T Q1 Results: Net profit rises 14% YoY to Rs 4,123 crore, revenue up 7%
-  Larsen &amp; Toubro (L&amp;T) on Tuesday reported a consolidated net profit of Rs 4,123 crore for the April-June quarter of the ongoing financial year 2027.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/lt-q1-results-net-profit-rises-14-yoy-to-rs-4123-crore-revenue-up-7/articleshow/132684207.cms
+- Nasdaq 100 heads for correction as AI worries rattle investors
+  The benchmark reached the correction threshold in just 38 trading days, versus more than
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-100-heads-for-correction-as-ai-worries-rattle-investors/articleshow/132688570.cms
 
-- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
-  Who is India’s new
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
+- 'This is just the start': India's Gen Z protesters force out a minister, but what next? - BBC
+  'This is just the start': India's Gen Z protesters force out
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE44amJEdnJLQkoyVThDZmhMVExsNmdxMGJvNlVVRU9ENFNYNm4tbnlvaTJSZlo3bXlsZHhHN2Z0UzhsOW5ySUV3Uk9nVS01dk9HNjZvazBYM2t4UQ?oc=5
 
 - Gen Z Could Be India's Most Powerful Voter Bloc By 2029. Numbers Explain Why - NDTV
   Gen Z Could Be India's Most Powerful Voter Bloc By
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOaS0yZDRoTDZfQi1hRVpwZGRrM3ROZElCcUk4YUpWZF9jaGpxVUpNTkF3eHoxenNzOG1XOExSQlRULWRqMWwzbkZKbk0teVNjUzNZclVUY2pfUHpOVTRiRDhBeVpDRm51Mkc2LURtSnpmenZuUE1ndVktdHQyQkU5MVBKeWJ5MjQwRU5TSWRvVDNxLWwyaHZTWWNUSjlyQW9XLVBiQ3FDRHdhNzlwQ3VpWURJMHpkUdIBvgFBVV95cUxOV2N1a3hJb0d5bndmN3I2WFlaa0kya0xxYTlOOXZwZ3J3N3RVa3ZnUE43MVhLNXI5UXIzZWJhUzdveDVyaHNOMmljWkRfX2VQNGxlanV0eGVqN2kwb3JTTl9BV2lqWEY3WU14aXJObF9FaVI0dmdUN1pzTC1LU1NUcnZOT1BRckxRdG9LbTZkUGg5MHpTbGotRklUaThFbERKcnVNa0s1STRVS0d1MGM1azVndTlCTnVXbzhWYmRn?oc=5
 
-- Trade gap seen as by-product of India's development stage, investment needs, energy dependence: Govt to Pa - The Economic Times
-  Trade gap seen as by-product of India's development stage, investment needs,
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNYm1NWm5DTlZJY3VrdGZVZE5TLXVFMVZRYmx0T1g0UzFGZEgzelhGdHpnTWFnYkNMYWlUNkw5aHZtNGd2RWphdThaTW5FdnlJMDRvdTV4Ml9zTVRDUm9wbWd6UWc5RTBpT3htVFF2bUtDdmNkSmhzNGMwc3FpaUdUWjVQOXlFSlFjNDRMWURaeDNoaW4zRmNGdmtvN2tEbzN4S0VBU1RKa1czSHVwWlhaOGZkZ0V6Uk9GcnQxdGU1WEhPRXpSMGpvVDlDN1RDT25hbjVNbHVkdnUzX24tQ3pJRzFKX19tREFYOHpKRVRGT2xYXzBob0Y0Z0xuZ1AwX2tJeWdBWTY2UjRuWHdKcUU4RGRGMm1wTjVWYThscU5YYnhJaGVpY0RB0gGgAkFVX3lxTFB5NGJMTC1kZVZUeEtVWThHekVZbU1rTDZmM3l1VExUaExWcDk4czh4QlFKaDlNZjBIVnF0Wm52M0g5S0hhend5MDdNWW1VMjhaUzBIUXZwZXNsU0ZldVdma3Zob0ZDaHd4azVJemlLZ202cHhtd1JmVjlVTEtFRlQ3VWRrMDVvWXNxRkh6N1A5Ykg5c2lIbU1uUWFIX0p2TXdrMS04Z1lQMmVSbTd5OGhkamVKTmZxYmE1aHU4TFg2emg5Q05najZqenZRdC1mY3hpU0xuSEQ3eEFNTEdSd1BxOWJRbTNHZTZPcFZFSy1NdTNmR3pGOE1ybGx6bFB3YmhiYmhwTlN0VWxVbkVCc24wSEtSOWRTcTBZeFE4ekJUWg?oc=5
+- Cricket Club Of India Canteen Loses Food Licence Over Cockroach In Kitchen - NDTV
+  Cricket Club Of India Canteen Loses
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNc2tYR2piSEpYbUw3VGFwdjUteUtEdmYtdTFYWTc1Z0VUei1qNF9wRUJPb0ZNSFZfVDJ6Z21hVk1nTkRuV2FEM20xNW42VktsdHVPLWNRZWNsak9JVEtfMXlSYm01dlNXMzhwV3gtVFdHV3gwSTA1ZEZydlVsNEtkMVRubElCNHZzZFVUelpEM1ZqQ3FkY0dLLUJ4TXAwdVdFakx3al9oOU1uekNySVJDRFUwcEpsQdIBvgFBVV95cUxOVnNWOHNiN2pGUmF2VFV0aFVjYnQyaWpxcTBZSnRwX2VEazUxa0NFcWxZNVhqTXdsSjhQRkkxZFk5VjVEMm5XcWJtSnlBNjJiUXcxUDlZVll6RHQzWmZFRXRmQmpkLTVhZ0wxY3A2bVJWdFBSQWhrSGdaeTM3MlNBZGQ3RXlHaHBqS3drS3pabjZ1dGRuSFcxdW9idTRfWjgwcElqN2Q3M3dBNnJHRU5pQUkzbFFzWThVcVR1ZGxR?oc=5
+
+- PM Modi Chairs 2nd Meeting With Secretaries To Government Of India - NDTV
+  PM Modi Chairs 2nd Meeting With Secret
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2FsUENfajUwMkNRTFliUTl4WU56UVdxNzJ3VzFsdF8zN0RuSmY0QmdCS0QzYk82enIyc2FpVXRrMUI0UFFMbjZKdkxXTHRxT0dqM1cyZHY2c3FoS0tUV3F1Wjk1MWdtTmxQWUppVVNDWWxHYXR2SWo1UWhydmU1Y1JmNGp4a0wtWnVTdlZtY08xVnMyRmlKYmdLcFhKNWRkYjgtbjR1bER4aFnSAbMBQVVfeXFMTVBZQTloQTZaRXFvTk0yc3RxaUZTdzNzRWFQSEQ2YlFmamZyUy1VLVh3Um1OUVY5dDh2c0pxaEdEaXdxSGRWY1pfVlg0c0Rfa0M5UlRTUExHdlZSRVBRNF84REJCM1ZLeWo0R25PTDhYa1lkQXhwQmhZNy1Fbk1FVXZleDIwS3BieUdxNEh4WEtnOXh5X0pEbE9ZY2VvRzlHdmM1S3JhTEdUUHhHTW5ZcThRRTg?oc=5
 
 - India’s squad for the Tour of Sri Lanka announced - BCCI
   India’s squad for the
   🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUtCYkk4dlhkNE9GeFh1SlFSUjMwR0d4eXQycXdoVFkwNV90Wjl0am5PaGZ4Y0l5NGdSb3h1b1FYRjZrRVpyNEVXUFllY0xLV1hITnJlVDZzQkVzUDFKQzU4YmRmUGxBbng5ajYtT2F5clRIMnNVNU5UenVjOWUyNWNOTjU3MndCMl9HXzh4MA?oc=5
 
-- 'It took everything from us': India's Assam faces worst floods in years - BBC
-  'It took everything from us': India's Ass
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUFhqcWJxWU9fZDdNaTRHRy1mRHpiMkMxaHNCWlloT0Q4WjU3VUstbDZZOVFmOHJ0MXFQTF9wcTBUWnFaU2NWTXF6RVlxbXphMmFsWklkaHdSQQ?oc=5
+- Vishal Mega Mart Doubles Down On Quick Commerce Amid Retail Shift
+  Quick commerce players are expected to clock $68 Bn in GMV by 2031. Vishal Mega Mart is looking to double down.
+  🔗 https://inc42.com/buzz/vishal-mega-mart-doubles-down-on-quick-commerce-amid-retail-shift/
+
+- Centre Sets Up Inter-Ministerial Group To Form Financial Cybersecurity Strategy
+  Amid growing risks posed by AI models and rapid digitisation of banking and payments, the central government has constituted an advisory council.
+  🔗 https://inc42.com/buzz/centre-sets-up-inter-ministerial-group-to-form-financial-cybersecurity-strategy/
+
+- Cursor Doubles Down On India, Launches India-Specific AI Coding Plan
+  US-based AI coding major Cursor has introduced an India-only subscription plan, Cursor Start, priced at ₹649 per
+  🔗 https://inc42.com/buzz/cursor-doubles-down-on-india-launches-india-specific-ai-coding-plan/
+
+- Flipkart’s Ekart Opens Logistics Network To D2C Brands Via Franchise Model
+  Flipkart Group’s supply chain arm Ekart has opened its pan-India logistics network to MSMEs, D2
+  🔗 https://inc42.com/buzz/flipkarts-ekart-opens-logistics-network-to-d2c-brands-via-franchise-model/
 
 - Delhi HC Orders Winding Up Of Paytm Payments Bank
   Months after getting its banking licence revoked, Paytm Payments Bank (PPBL) has been served an order by the Delhi High&#8230.
   🔗 https://inc42.com/buzz/delhi-hc-orders-winding-up-of-paytm-payments-bank/
 
-- Inflexor Ventures Marks First Close of Fund III At ₹400 Cr
-  Inflexor Ventures has marked the first close of its ₹1,250 Cr Inflexor Technology Discovery Fund.
-  🔗 https://inc42.com/buzz/inflexor-ventures-marks-first-close-of-fund-iii-at-%e2%82%b9400-cr/
-
-- Table Space To File Draft Papers For $350 Mn IPO Next Month: Report
-  Table Space is reportedly preparing to file draft papers for its proposed IPO by early August.
-  🔗 https://inc42.com/buzz/table-space-to-file-draft-papers-for-350-mn-ipo-next-month-report/
-
-- Centre Summons Meta Over Removal Of PM Modi’s Facebook Post
-  The electronics and IT ministry (MeitY) has summoned Meta’s global head of public policy after Facebook temporarily removed a video.
-  🔗 https://inc42.com/buzz/centre-summons-meta-over-removal-of-pm-modis-facebook-post/
-
-- Pine Labs Q1: Profit Surges 4X YoY To ₹20 Cr, Revenue Up 20%
-  Fintech major Pine Labs’ Q1 FY27 net profit surged over 4X YoY to ₹19.6 Cr from a net profit of&#8230.
-  🔗 https://inc42.com/buzz/pine-labs-q1-profit-surges-4x-yoy-to-%e2%82%b920-cr-revenue-up-20/
-
-- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
-  Who is India’s new
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
+- 'This is just the start': India's Gen Z protesters force out a minister, but what next? - BBC
+  'This is just the start': India's Gen Z protesters force out
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE44amJEdnJLQkoyVThDZmhMVExsNmdxMGJvNlVVRU9ENFNYNm4tbnlvaTJSZlo3bXlsZHhHN2Z0UzhsOW5ySUV3Uk9nVS01dk9HNjZvazBYM2t4UQ?oc=5
 
 - Gen Z Could Be India's Most Powerful Voter Bloc By 2029. Numbers Explain Why - NDTV
   Gen Z Could Be India's Most Powerful Voter Bloc By
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOaS0yZDRoTDZfQi1hRVpwZGRrM3ROZElCcUk4YUpWZF9jaGpxVUpNTkF3eHoxenNzOG1XOExSQlRULWRqMWwzbkZKbk0teVNjUzNZclVUY2pfUHpOVTRiRDhBeVpDRm51Mkc2LURtSnpmenZuUE1ndVktdHQyQkU5MVBKeWJ5MjQwRU5TSWRvVDNxLWwyaHZTWWNUSjlyQW9XLVBiQ3FDRHdhNzlwQ3VpWURJMHpkUdIBvgFBVV95cUxOV2N1a3hJb0d5bndmN3I2WFlaa0kya0xxYTlOOXZwZ3J3N3RVa3ZnUE43MVhLNXI5UXIzZWJhUzdveDVyaHNOMmljWkRfX2VQNGxlanV0eGVqN2kwb3JTTl9BV2lqWEY3WU14aXJObF9FaVI0dmdUN1pzTC1LU1NUcnZOT1BRckxRdG9LbTZkUGg5MHpTbGotRklUaThFbERKcnVNa0s1STRVS0d1MGM1azVndTlCTnVXbzhWYmRn?oc=5
 
-- Trade gap seen as by-product of India's development stage, investment needs, energy dependence: Govt to Pa - The Economic Times
-  Trade gap seen as by-product of India's development stage, investment needs,
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNYm1NWm5DTlZJY3VrdGZVZE5TLXVFMVZRYmx0T1g0UzFGZEgzelhGdHpnTWFnYkNMYWlUNkw5aHZtNGd2RWphdThaTW5FdnlJMDRvdTV4Ml9zTVRDUm9wbWd6UWc5RTBpT3htVFF2bUtDdmNkSmhzNGMwc3FpaUdUWjVQOXlFSlFjNDRMWURaeDNoaW4zRmNGdmtvN2tEbzN4S0VBU1RKa1czSHVwWlhaOGZkZ0V6Uk9GcnQxdGU1WEhPRXpSMGpvVDlDN1RDT25hbjVNbHVkdnUzX24tQ3pJRzFKX19tREFYOHpKRVRGT2xYXzBob0Y0Z0xuZ1AwX2tJeWdBWTY2UjRuWHdKcUU4RGRGMm1wTjVWYThscU5YYnhJaGVpY0RB0gGgAkFVX3lxTFB5NGJMTC1kZVZUeEtVWThHekVZbU1rTDZmM3l1VExUaExWcDk4czh4QlFKaDlNZjBIVnF0Wm52M0g5S0hhend5MDdNWW1VMjhaUzBIUXZwZXNsU0ZldVdma3Zob0ZDaHd4azVJemlLZ202cHhtd1JmVjlVTEtFRlQ3VWRrMDVvWXNxRkh6N1A5Ykg5c2lIbU1uUWFIX0p2TXdrMS04Z1lQMmVSbTd5OGhkamVKTmZxYmE1aHU4TFg2emg5Q05najZqenZRdC1mY3hpU0xuSEQ3eEFNTEdSd1BxOWJRbTNHZTZPcFZFSy1NdTNmR3pGOE1ybGx6bFB3YmhiYmhwTlN0VWxVbkVCc24wSEtSOWRTcTBZeFE4ekJUWg?oc=5
+- Cricket Club Of India Canteen Loses Food Licence Over Cockroach In Kitchen - NDTV
+  Cricket Club Of India Canteen Loses
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNc2tYR2piSEpYbUw3VGFwdjUteUtEdmYtdTFYWTc1Z0VUei1qNF9wRUJPb0ZNSFZfVDJ6Z21hVk1nTkRuV2FEM20xNW42VktsdHVPLWNRZWNsak9JVEtfMXlSYm01dlNXMzhwV3gtVFdHV3gwSTA1ZEZydlVsNEtkMVRubElCNHZzZFVUelpEM1ZqQ3FkY0dLLUJ4TXAwdVdFakx3al9oOU1uekNySVJDRFUwcEpsQdIBvgFBVV95cUxOVnNWOHNiN2pGUmF2VFV0aFVjYnQyaWpxcTBZSnRwX2VEazUxa0NFcWxZNVhqTXdsSjhQRkkxZFk5VjVEMm5XcWJtSnlBNjJiUXcxUDlZVll6RHQzWmZFRXRmQmpkLTVhZ0wxY3A2bVJWdFBSQWhrSGdaeTM3MlNBZGQ3RXlHaHBqS3drS3pabjZ1dGRuSFcxdW9idTRfWjgwcElqN2Q3M3dBNnJHRU5pQUkzbFFzWThVcVR1ZGxR?oc=5
+
+- PM Modi Chairs 2nd Meeting With Secretaries To Government Of India - NDTV
+  PM Modi Chairs 2nd Meeting With Secret
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2FsUENfajUwMkNRTFliUTl4WU56UVdxNzJ3VzFsdF8zN0RuSmY0QmdCS0QzYk82enIyc2FpVXRrMUI0UFFMbjZKdkxXTHRxT0dqM1cyZHY2c3FoS0tUV3F1Wjk1MWdtTmxQWUppVVNDWWxHYXR2SWo1UWhydmU1Y1JmNGp4a0wtWnVTdlZtY08xVnMyRmlKYmdLcFhKNWRkYjgtbjR1bER4aFnSAbMBQVVfeXFMTVBZQTloQTZaRXFvTk0yc3RxaUZTdzNzRWFQSEQ2YlFmamZyUy1VLVh3Um1OUVY5dDh2c0pxaEdEaXdxSGRWY1pfVlg0c0Rfa0M5UlRTUExHdlZSRVBRNF84REJCM1ZLeWo0R25PTDhYa1lkQXhwQmhZNy1Fbk1FVXZleDIwS3BieUdxNEh4WEtnOXh5X0pEbE9ZY2VvRzlHdmM1S3JhTEdUUHhHTW5ZcThRRTg?oc=5
 
 - India’s squad for the Tour of Sri Lanka announced - BCCI
   India’s squad for the
   🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUtCYkk4dlhkNE9GeFh1SlFSUjMwR0d4eXQycXdoVFkwNV90Wjl0am5PaGZ4Y0l5NGdSb3h1b1FYRjZrRVpyNEVXUFllY0xLV1hITnJlVDZzQkVzUDFKQzU4YmRmUGxBbng5ajYtT2F5clRIMnNVNU5UenVjOWUyNWNOTjU3MndCMl9HXzh4MA?oc=5
 
-- 'It took everything from us': India's Assam faces worst floods in years - BBC
-  'It took everything from us': India's Ass
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUFhqcWJxWU9fZDdNaTRHRy1mRHpiMkMxaHNCWlloT0Q4WjU3VUstbDZZOVFmOHJ0MXFQTF9wcTBUWnFaU2NWTXF6RVlxbXphMmFsWklkaHdSQQ?oc=5
-
-- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
-  Who is India’s new
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
+- 'This is just the start': India's Gen Z protesters force out a minister, but what next? - BBC
+  'This is just the start': India's Gen Z protesters force out
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE44amJEdnJLQkoyVThDZmhMVExsNmdxMGJvNlVVRU9ENFNYNm4tbnlvaTJSZlo3bXlsZHhHN2Z0UzhsOW5ySUV3Uk9nVS01dk9HNjZvazBYM2t4UQ?oc=5
 
 - Gen Z Could Be India's Most Powerful Voter Bloc By 2029. Numbers Explain Why - NDTV
   Gen Z Could Be India's Most Powerful Voter Bloc By
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOaS0yZDRoTDZfQi1hRVpwZGRrM3ROZElCcUk4YUpWZF9jaGpxVUpNTkF3eHoxenNzOG1XOExSQlRULWRqMWwzbkZKbk0teVNjUzNZclVUY2pfUHpOVTRiRDhBeVpDRm51Mkc2LURtSnpmenZuUE1ndVktdHQyQkU5MVBKeWJ5MjQwRU5TSWRvVDNxLWwyaHZTWWNUSjlyQW9XLVBiQ3FDRHdhNzlwQ3VpWURJMHpkUdIBvgFBVV95cUxOV2N1a3hJb0d5bndmN3I2WFlaa0kya0xxYTlOOXZwZ3J3N3RVa3ZnUE43MVhLNXI5UXIzZWJhUzdveDVyaHNOMmljWkRfX2VQNGxlanV0eGVqN2kwb3JTTl9BV2lqWEY3WU14aXJObF9FaVI0dmdUN1pzTC1LU1NUcnZOT1BRckxRdG9LbTZkUGg5MHpTbGotRklUaThFbERKcnVNa0s1STRVS0d1MGM1azVndTlCTnVXbzhWYmRn?oc=5
 
-- Trade gap seen as by-product of India's development stage, investment needs, energy dependence: Govt to Pa - The Economic Times
-  Trade gap seen as by-product of India's development stage, investment needs,
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNYm1NWm5DTlZJY3VrdGZVZE5TLXVFMVZRYmx0T1g0UzFGZEgzelhGdHpnTWFnYkNMYWlUNkw5aHZtNGd2RWphdThaTW5FdnlJMDRvdTV4Ml9zTVRDUm9wbWd6UWc5RTBpT3htVFF2bUtDdmNkSmhzNGMwc3FpaUdUWjVQOXlFSlFjNDRMWURaeDNoaW4zRmNGdmtvN2tEbzN4S0VBU1RKa1czSHVwWlhaOGZkZ0V6Uk9GcnQxdGU1WEhPRXpSMGpvVDlDN1RDT25hbjVNbHVkdnUzX24tQ3pJRzFKX19tREFYOHpKRVRGT2xYXzBob0Y0Z0xuZ1AwX2tJeWdBWTY2UjRuWHdKcUU4RGRGMm1wTjVWYThscU5YYnhJaGVpY0RB0gGgAkFVX3lxTFB5NGJMTC1kZVZUeEtVWThHekVZbU1rTDZmM3l1VExUaExWcDk4czh4QlFKaDlNZjBIVnF0Wm52M0g5S0hhend5MDdNWW1VMjhaUzBIUXZwZXNsU0ZldVdma3Zob0ZDaHd4azVJemlLZ202cHhtd1JmVjlVTEtFRlQ3VWRrMDVvWXNxRkh6N1A5Ykg5c2lIbU1uUWFIX0p2TXdrMS04Z1lQMmVSbTd5OGhkamVKTmZxYmE1aHU4TFg2emg5Q05najZqenZRdC1mY3hpU0xuSEQ3eEFNTEdSd1BxOWJRbTNHZTZPcFZFSy1NdTNmR3pGOE1ybGx6bFB3YmhiYmhwTlN0VWxVbkVCc24wSEtSOWRTcTBZeFE4ekJUWg?oc=5
+- Cricket Club Of India Canteen Loses Food Licence Over Cockroach In Kitchen - NDTV
+  Cricket Club Of India Canteen Loses
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNc2tYR2piSEpYbUw3VGFwdjUteUtEdmYtdTFYWTc1Z0VUei1qNF9wRUJPb0ZNSFZfVDJ6Z21hVk1nTkRuV2FEM20xNW42VktsdHVPLWNRZWNsak9JVEtfMXlSYm01dlNXMzhwV3gtVFdHV3gwSTA1ZEZydlVsNEtkMVRubElCNHZzZFVUelpEM1ZqQ3FkY0dLLUJ4TXAwdVdFakx3al9oOU1uekNySVJDRFUwcEpsQdIBvgFBVV95cUxOVnNWOHNiN2pGUmF2VFV0aFVjYnQyaWpxcTBZSnRwX2VEazUxa0NFcWxZNVhqTXdsSjhQRkkxZFk5VjVEMm5XcWJtSnlBNjJiUXcxUDlZVll6RHQzWmZFRXRmQmpkLTVhZ0wxY3A2bVJWdFBSQWhrSGdaeTM3MlNBZGQ3RXlHaHBqS3drS3pabjZ1dGRuSFcxdW9idTRfWjgwcElqN2Q3M3dBNnJHRU5pQUkzbFFzWThVcVR1ZGxR?oc=5
+
+- PM Modi Chairs 2nd Meeting With Secretaries To Government Of India - NDTV
+  PM Modi Chairs 2nd Meeting With Secret
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2FsUENfajUwMkNRTFliUTl4WU56UVdxNzJ3VzFsdF8zN0RuSmY0QmdCS0QzYk82enIyc2FpVXRrMUI0UFFMbjZKdkxXTHRxT0dqM1cyZHY2c3FoS0tUV3F1Wjk1MWdtTmxQWUppVVNDWWxHYXR2SWo1UWhydmU1Y1JmNGp4a0wtWnVTdlZtY08xVnMyRmlKYmdLcFhKNWRkYjgtbjR1bER4aFnSAbMBQVVfeXFMTVBZQTloQTZaRXFvTk0yc3RxaUZTdzNzRWFQSEQ2YlFmamZyUy1VLVh3Um1OUVY5dDh2c0pxaEdEaXdxSGRWY1pfVlg0c0Rfa0M5UlRTUExHdlZSRVBRNF84REJCM1ZLeWo0R25PTDhYa1lkQXhwQmhZNy1Fbk1FVXZleDIwS3BieUdxNEh4WEtnOXh5X0pEbE9ZY2VvRzlHdmM1S3JhTEdUUHhHTW5ZcThRRTg?oc=5
 
 - India’s squad for the Tour of Sri Lanka announced - BCCI
   India’s squad for the
   🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUtCYkk4dlhkNE9GeFh1SlFSUjMwR0d4eXQycXdoVFkwNV90Wjl0am5PaGZ4Y0l5NGdSb3h1b1FYRjZrRVpyNEVXUFllY0xLV1hITnJlVDZzQkVzUDFKQzU4YmRmUGxBbng5ajYtT2F5clRIMnNVNU5UenVjOWUyNWNOTjU3MndCMl9HXzh4MA?oc=5
-
-- 'It took everything from us': India's Assam faces worst floods in years - BBC
-  'It took everything from us': India's Ass
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUFhqcWJxWU9fZDdNaTRHRy1mRHpiMkMxaHNCWlloT0Q4WjU3VUstbDZZOVFmOHJ0MXFQTF9wcTBUWnFaU2NWTXF6RVlxbXphMmFsWklkaHdSQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -220,13 +240,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Rajya Sabha MP moves Supreme Court against use of facial recognition technology at NEET protests - The Hindu
+  Rajya Sabha MP moves Supreme Court against use of facial recognition technology
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS0w0SGVmOU91bUJKR3BFSnZYci02cGJMbXctOWVLQ1ZmZHVaOEpYbHhseE45M1Bwdzh2Y01fUk1pV2F6MmRUbE1PY1pOZEczLXhoY1dnZERHYzZfSzloaDB3VUoxUWVmdXhwbVVOUEQ1Yk9FQ3pOYkZxR3BLRzVKZFpTTG4zSXZjajA3enVSeTdxNDB4bUZyQXZmMkJKa0FJWDQ1dE5hdlRvb2c4NnZlbzVvQ01WQy0zNG1HaWRZTXBlbENDMXl2ZGU3dWN4TWNmSkRxeW8zM05JM1phZHJFeU5nTmxsUTRpUmc00gHyAUFVX3lxTE16dFhycldkSFZVMktBeG03UFlmbGJKY3hqRU9pRDZsZ05Vb2ROOU5feER5ZmxmVlJuaVFVWmRvd2U4YmZjYTdMcjV0Z0RZOFVWUlBmX01YTG5OVXZhcnVudmlNMk1kOUhqREdSTU1KaWRlWWpSVUtNNEpUaWFIUFRYSDAyd1cyMU5MOHQza1N3blpJOUlzX1Q5VHdEeVNwd0FfM18wczlVM3BxU3lpdjR1SFh2MlJEQTUtVXdQcmh5c0hYdWs3TmVtdmVTanRVY0VFdzYwOWRaOE83TE1sUGJNLVpQb0RiX2s5WVhtd21SZmdn?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Nilekanis Challenge: Technology Can Fix Systems, But Not a Crisis of Credibility - TheWire.in
+  TheWire.in has teamed up with
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPclRWNEU5aE9UeXBTRFhfcl8wZWpBYzNiV0dmR2J4dFhxUWd3SXRzSm9DNXZicWd1a1ZNRDAxbTUtS0hobHA3WXJZUGg2VV9YNWtKYWJkZ1J0SHBhblBHYWQxLVZxUVZKTTdhdno4OWItX3p1bW5NY1luam9kU0FjTlNidldBSERJZXdBb0ZNQ2plZ3Y3SU9BT1VHaUJlWUhuUmxJNNIBtwFBVV95cUxOdFFWZFhzMkZWWlZSSFo0dkdTRmZMRk1Ib0VtSGxlT1RfaDdLd0x4TmgtNmhZVUJnbEJ4YTUzOGczTG94cEZxNmNvcnZQTkZmdkxOYmpPTm0zZ0c2ck1ybERfcmVXblZxWmlKZFo0VHJVWkdUcHltaEFSOXQtSWtXWDhRZlhLTVJtUW5SNkpOVEFRR3RCb0g1cy00anIxQTVBRHJ1Vm5pWjM5blA3Z3p2ZDhDVS1PWnc?oc=5
+
+- How AI Czar David Sacks 'predicted' what Anthropic CEO Dario Amodei said on Chinese open-weights models - The Times of India
+  The Times of India published a report on Chinese open-weights models. The report said
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQOVhhTTV3c2I4TDRIMHVqb1ZEMXU2Rm9RX2wxVGVzdEtyUnRhT0hRZHo3TkdpOEVJM2pWM1FrOWNlWExabF9TSkhWSC10aHBHaGh0RWVNaElHa0wtVHpCUm9lU0FZaGZ2MC1IbVFUbTJoS3N5OHhOVzV4MFFnMk4yZ2lWd252aXI1V0tJY0xES09GanUtMDIyYUloRURBSGdfUXFaQ1pZbnZyeEtUV2NPRmdjZk5KODdjV0dMRDVjOVkzY3VxQ1Q2RnNrSFFQWnN5ajVTZ1ZkLU1Wd0kxUjVHVzFBYWJLZDNNNGVUZlhUdmR4MXdDSE9vNGVjWTJlak5lUE85bHhIUWwzVWFJMkxVVy130gGXAkFVX3lxTE03N0ZCVjJQMmRHRU1RUEcySU5FRGtrNVBwanBPXzYzbTNnbWgzejM5MDM3N2FWbnVZV3N4UzBkMFI1ajN3cnlhUjFYNTAyVmQtVVZCT1o2dk5JRUNyUUlEbG9UQUZKcEF4TXhmOEJuM250UkZybGR0eUxreVgxMjJmSGNjR2RMY2pOZDF3VVJWRHFMa1k1Q08zMkdDX0UwZTFmZzJ5RFBvQldaY3BMbE5SRFNzcWl3ZkRMbmFQWTNiM1J0RHVvU2UtM1NRbEoxQUxDYUZpQ3M1Q3EtY240dVVYdHJaS2dUektxVGc3TDF3a2o4MFZMZFVndHhjMkhPRHY4ckxLMzVrUldzS0ZGc2t2b3B4ZXJJVQ?oc=5
+
+- IIT Indore’s new technology to help produce valuable green chemicals from waste in just 7 minutes - ThePrint
+  IIT Indore’s new technology to help produce valuable green
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWJ5NTlCQzRKdkRnVFozN1VPeEg3T0lTMW96dmVScTJRckVMc0VKM1kwRGU5X29EWUx0YmtrTWdEdi1wOTRqZEU3VUhFMXRGMnVfdHQycFktRlBaWnVjdW9COXBxc3NSbkUxd3RvYzY0TFBydmNXTHlPdEl4SzNycmNvOENQUkdpX0tFakdxckNUWVVGekU5QVpHbFFXakk5QkdYYTlwTkJjSks3U2VhLUxtT2kzaEZXV3lfWDNpeFhaMVlwdTVaYnI4Z9IB0AFBVV95cUxOQ2tkLVVCQ0syaHBhMWtQV2xsNFJTN2ZUWHNyc1RhTFp4R2t4NGNCRS1YV0p6ZTd0LWVOendtQUk3ZFRFQm4xOHJsNmpjTHd6c2FjVWVKQ1lRUm9FNThYZXhuUjdfY0FBV25BMEtWQXhjUmhLemVKaGFRSU1LRm5SR0wtZFRPQTBvbGJITUlUWlk3aGRrQzRYSXRhYVphODFpVFpyc1lxZDg2V0JNQnlvX0ozdXpoMVhjUDFUUEpaSUhGN0FrcGxjODBPRlg3Nk11?oc=5
+
+- How technology is rewriting the economics of value - CNBC TV18
+  How technology is rewriting the economics of
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2tKTTZGaElwZlJuOUhMemhfU2ZpM0JxVDd0aFluVFFFQkNaRXFmQUFtbkRmUjVxSGpLdXlSaGxmZ3gzNmU3dkp0Q0tLaS1GYkF5cnhCX2JtSEVBd0hJX2gyN2RsRUoxUVRfai01cklvMWV6N1NYZ2U1NTFjYWExdFFVak5xZTlNZkdtOGJfeUY4NHhqZXRNc1FKNk01dzJvMkx5RTZXdkczVFFuVmF5R2lTRmFrdjk4WHEtc9IBwgFBVV95cUxPMHJBdHY5bEZfUXdUdkV2dG1xVEZBLUtwcnpHYmxGLVJ3ODFZb2p3Z2M5Q3BaSnp1X19UT00waHNHRktmY0dSS2ZxUExEMHJmNDlZVE8xaC1EVFE0Q0lXLUsxLXE2Q0dTX1otNDFLYzZ6Si04a0pKVnE4SUZwMjdkbVlyVUJWQWlib3JoU2ZFam10bklrZDFLNV90WWRCYlBhSk9KeUVIMVhsWGVTUEc1cnYtS1FfNkxsSE5nWXlNSUpkQQ?oc=5
 
 
-_Last updated: 2026-07-28 13:54:57 UTC_
+_Last updated: 2026-07-28 19:18:54 UTC_
