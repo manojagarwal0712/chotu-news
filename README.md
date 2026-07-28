@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Before Assam withdrew protest cases, complaint linked them to Meghalaya university chancellor who drew Himanta Sarma fire
+  
+  🔗 https://indianexpress.com/article/india/assam-neet-protest-fir-meghalaya-university-chancellor-mahbubul-hoque-10806380/
+
+- ‘There would be firing… rapes and murders will happen’: Kerala to probe RSS leader’s remarks on Jantar Mantar protest
+  
+  🔗 https://indianexpress.com/article/india/rss-leader-tg-mohandas-jantar-mantar-protest-remarks-kerala-police-probe-10806414/
+
+- Ministry pushing RBI to open licences for more urban cooperative banks: Secretary Ashish Kumar Bhutani
+  
+  🔗 https://indianexpress.com/article/india/ministry-pushing-rbi-to-open-licences-for-more-urban-cooperative-banks-secretary-ashish-kumar-bhutani-10806418/
+
 - Homes of 2 women linked to trafficking case demolished in Ajmer, officials cite ‘illegal construction’
   
   🔗 https://indianexpress.com/article/india/demolition-house-ajmer-2-women-trafficking-case-10806323/
@@ -7,18 +19,6 @@
 - BJP leaders feel delay in resolving CJP protest left a dent, but no political damage
   
   🔗 https://indianexpress.com/article/india/bjp-stock-taking-cjp-protest-dharmendra-pradhan-resignation-pm-narendra-modi-10806318/
-
-- Jammu court rejects bail of Bengal man accused of passing defence info — ‘Release would be outrageous’
-  
-  🔗 https://indianexpress.com/article/india/jammu-court-reject-bail-bengal-man-accused-defence-info-10806319/
-
-- Gulf nations accounted for over 70% of suicides by Indian citizens abroad: MEA data
-  
-  🔗 https://indianexpress.com/article/india/gulf-nations-accounted-70-percent-suicides-indian-citizens-abroad-mea-data-10806303/
-
-- Two arrested from Rajasthan village as hunt for 400-year-old cannon continues
-  
-  🔗 https://indianexpress.com/article/india/400-year-old-cannon-rajasthan-two-arrested-search-continues-10806258/
 
 - Bank of Baroda confirms data breach, says employee email account compromised in hack
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-centre-report-10805111/
 
+- Decoded: Tata Sons' annual report
+  Tata Sons' 16 privately held businesses saw combined loss nearly double to  ₹27,8
+  🔗 https://www.livemint.com/companies/news/decoded-tata-sons-annual-report-11785178573200.html
+
+- PayU gears up for the next payments battle with UPI credit, Mindgate
+  Prosus-owned fintech is looking beyond checkout lending as it explores UPI credit lines.
+  🔗 https://www.livemint.com/companies/news/payu-gears-up-for-the-next-payments-battle-with-upi-credit-mindgate-11785146612804.html
+
+- Bankrupt Aquatic Parks Selling Dolphins Amid Fight With Ex-CEO
+  US advisers liquidating the Mexican aquatic-theme parks operator The Dolphin Company asked a judge in Delaware for permission to sell some parks.
+  🔗 https://www.livemint.com/companies/bankrupt-aquatic-parks-selling-dolphins-amid-fight-with-exceo-11785182564510.html
+
 - Tata Teleservices'  ₹4.5k cr impairment a key hit to Tata Sons' profit in FY26
   Tata Sons saw its losses in Air India Limited rise exponentially to  ₹22,238.22 crore. The one-time hit in the form of impairment comes at a time when the company is suffering.
   🔗 https://www.livemint.com/companies/tata-teleservices-4-5k-cr-impairment-a-key-hit-to-tata-sons-profit-in-fy26-11785169626831.html
@@ -48,37 +60,25 @@
   Trent has overtaken Voltas and nearly caught up with Tata Consumer Products Ltd. Titan
   🔗 https://www.livemint.com/companies/company-results/trent-revenue-growth-zudio-westside-noel-tata-fy26-tata-group-retail-11785163427842.html
 
-- Employee work-hour rules: Why Infosys’ time-tracking system triggered  ₹1.90 crore fine in France
-  The IT services company has said the penalty is not expected to have any material impact on its financial
-  🔗 https://www.livemint.com/companies/news/employee-work-hour-rules-why-infosys-time-tracking-system-triggered-1-90-crore-fine-in-france-11785166476797.html
+- From Gift Nifty, US chip stocks sell-off to oil prices: 8 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 24,000 level, a discount of nearly 28 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-chip-stocks-sell-off-to-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11785201090458.html
 
-- Tata Sons profit grows 21.8% in FY26, revenue tops  ₹42,367 crore; Air India losses deepen
-  Tata Sons reported a 21.8% rise in FY26 profit to  ₹31,961
-  🔗 https://www.livemint.com/companies/company-results/tata-sons-fy26-profit-jumps-21-8-per-cent-to-rs-31-961-crore-as-revenue-rises-9-per-cent-air-india-losses-widen-11785169273992.html
+- SK Hynix’s $470 Billion Selloff Shows Cracks in Memory-Chip Boom
+  A $470 billion rout in just a little over a month has flipped SK Hynix Inc. from one of the world's hottest
+  🔗 https://www.livemint.com/market/sk-hynix-s-470-billion-selloff-shows-cracks-in-memory-chip-boom-11785202818088.html
 
-- Tata 1mg narrows losses in core healthcare business
-  Tata 1mg's net loss narrows marginally to 
-  🔗 https://www.livemint.com/companies/company-results/tata-1mg-narrows-losses-in-core-healthcare-business-11785159569352.html
+- Oil Extends Decline as Optimism Over Iran Talks Gains Traction
+  Oil extended a steep drop after President Donald Trump said the US and Iran were engaged in talks to
+  🔗 https://www.livemint.com/market/oil-extends-decline-as-optimism-over-iran-talks-gains-traction-11785202511039.html
 
-- US yields decline as oil plunges
-  U.S
-  🔗 https://www.livemint.com/market/us-yields-decline-as-oil-plunges-11785179752035.html
+- Bitcoin Weakens in Asia Trading as Fed Rate Decision Looms
+  Bitcoin declined in early Asia trading on Tuesday as investors fretted about
+  🔗 https://www.livemint.com/market/bitcoin-weakens-in-asia-trading-as-fed-rate-decision-looms-11785201719389.html
 
-- Gold, silver prices today: Comex gold and silver edge higher as easing US-Iran tensions cool oil prices
-  Gold rose $49 to $4,119, while silver increased by $1.50 to $60.39. Lower crude oil costs ahead of the US Federal Reserve's meeting.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-edge-higher-as-easing-us-iran-tensions-cool-oil-prices-11785169046300.html
-
-- AstraZeneca shares climb after earnings beat estimates as cancer drug portfolio drives strong growth
-  Adjusted earnings per share, excluding certain items, climbed 21% to
-  🔗 https://www.livemint.com/market/stock-market-news/astrazeneca-shares-climb-after-earnings-beat-estimates-as-cancer-drug-portfolio-drives-strong-growth-11785169429376.html
-
-- Mold-Tek Packaging Q1 results: Net profit jumps 14% YoY to  ₹25.6 crore; revenue crosses  ₹300 crore
-  Mold-Tek Packaging reported a strong Q1 FY27, with net sales up 24.9% to  ₹300.45 crore. The company maintains confidence
-  🔗 https://www.livemint.com/market/stock-market-news/moldtek-packaging-q1-results-net-profit-jumps-14-yoy-to-rs-25-6-crore-revenue-crosses-rs-300-crore-11785166078548.html
-
-- Crude tumbles as US-Iran pause eases pressure, but risks to India’s oil supply remain
-  Crude prices fell more than 9% after Washington and Tehran paused strikes. This eased near-term pressure on India's import
-  🔗 https://www.livemint.com/market/commodities/crude-tumbles-as-us-iran-pause-eases-pressure-but-risks-to-indias-oil-supply-remain-11785153779446.html
+- Crude oil prices extend losses on US-Iran peace talks; Brent below $90 per barrel
+  West Texas Intermediate (WTI) crude slipped below $82 a barrel after plunging more than 7% on Monday. Brent crude recorded its biggest one-
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-extend-losses-on-us-iran-peace-talks-brent-below-90-per-barrel-11785199818976.html
 
 - Xbox is down again? Microsoft confirms outage, says ‘We know this has been going on a while…’
   Xbox Live is having errors that are preventing people from signing in, seeing their library, and playing their games. Microsoft's engineers
@@ -104,61 +104,65 @@
   P 500 falls despite Iran fighting pause as chip stocks tumble
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE52RnVCcG03VEVsNlExWlp0enhtV1UtNkhCNzFCaVl3VGZlS19wanVxejZ0VzFuUjI4eWQyZ3lsUXlNcmlYcWhORS1ZSUs1Q180RWFrV1FHT2I4Yk14M2dtMGlfTGZLTjhDM1FGbjNOUzlpaTg1SFlN0gF8QVVfeXFMUGJVbnA0bXg1SDhZVm9TcXZmRXdkZ1l5cXRUa3hCVUZLR2FQMThtNEloRFRHOVhvUDlDaUJwVVNuMVBoYTZzZ3loVVJGUTlxeTYzZkV4Tm5jOVVvWXlRZlYxREZfYnB5eEpweFA1QmM3Z0I3ZDA0cFZxVFc3QQ?oc=5
 
-- Stock Market Today: Nvidia, Micron, Intel Stocks Drop; Oil Tumbles on Trump-Iran Pause — Live Updates - WSJ
-  Stock Market Today: Nvidia, Micron, Intel Stocks Drop;
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPclQyWlJCa3dHSl9QUjFadm9xRS1ZS09BRzdhSXBGUk9WaWtVeElOeVo0MUNqUEJKZ1Q1MkdIcFJCcU9ZNlVzUDJqbXlsTE1FTFJuYTN0QXctblJOYk8yb2ZWRmZVVmVzaHk0NDRKZTV5UV9YTlptRTNlWnZDbWxBUUJQQmRuY2s?oc=5
-
-- Stock Market Today: Major Indexes Mixed; Nasdaq, S&P 500 Slip as Chip Stocks Fall, Dow Rises; Oil Prices Plunge on Pause in US-Iran Hostilities - Investopedia
-  Stock Market Today: Major Indexes Mixed; Nasdaq, S&amp;P 500 Slip as Chip St
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOYXlfSVN1YVJlQWNSdWhHYmtiSTVYRzZfUmVIM25QNzFkeWVzX28zNFlKa3g4dHo1QUJ5RWhET3pObkFJUzI5akRFb210bUlwR21wTm5RQkVTTHhGRnF3eUZhNHlDWUxSX2ZEaUlyZDlOTWFZUDU0MjJ6d1RldWpfVFhwNHprb3FIeWNkUmVlUlk?oc=5
-
-- The ‘Unsettled’ Vibe That’s Creeping Through the Markets - WSJ
-  The WSJ looks at the
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVd3Z2JybC1WRlRMOEg0QV9XQ3BOY2lfb0NaUzM1LUdBN28wLWNYbEdGY2xfZWxueVYwZFFueThnWVQybmt5aWtSRTF0M3dUdTJJa1g0UU15UTJYTjhlbnE5dGZhaElSOVhyZ3NUbDBNbWZUVzRvNmM4cjhLUG1pTXVPaFBncnI2NnV5Rw?oc=5
-
 - Oil markets are on edge again - The Economist
   Oil markets are on edge
   🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWNyVjBGeG1ER2gyenUwcVhSZnA5bWZTdlUtWHIzT1Y5bVZ5OS0zOWttVDlJY21keWIzYzdGU0NodGNaQlZOemlubG1QRkdud2VWeEpmYUJEYnF4c0lPUTRtcFliMTgwS1RsZmpHTElpV2kteEtkLWFEZDlxX24zcG1iSEc1WTdYMkI4SlN1WmpIUQ?oc=5
 
-- SpaceX at $100 would imply zero AI value, Morgan Stanley says
-   SpaceX shares have fallen significantly, nearing a valuation that ignores its artificial intelligence business. Morgan Stanley analysts believe this presents an attractive entry point for investors now.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-at-100-would-imply-zero-ai-value-morgan-stanley-says/articleshow/132529138.cms
+- Crude oil futures are pricing market adaptability, not hopeful Iran peace - Reuters
+  Crude oil futures are pricing market adaptability
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGE1c0g5ZHQxVW9KaV81YjdLV3FXRFo2dnp4S1FaeWZjbTdHbjhMOXVxRDdNVmRIenhzTWdYeU5WQWVqOWVURmxGTXJEVm5mVkN3MkdzSERyM2tHUkt5QWhkNWxkY2tzSXc3OGVtUmVzYXlPSE1vQ29Sak5vN1dDQnJicUZSZlVVSlN5ZkZhUXAxbHhDeWwtQmJxanEwam1FRlVLY2d6OFd6ejVuQUVDaWw5cEJkbHo4cDJ2TG04LU1kSm1aVVNMZE02ZmxwMGZENjZvaEZpUG4?oc=5
 
-- Bond investors, unsure about Fed policy outlook, hedge against US rate shock
-  The surge in demand for swaptions highlights growing apprehensions regarding Federal Reserve policies. Investors are strategically hedging against possible spikes in 10-year swap rates.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/bond-investors-unsure-about-fed-policy-outlook-hedge-against-us-rate-shock/articleshow/132665831.cms
+- Oil Extends Decline as Trump Says in Talks With Iran to End War - Bloomberg
+  The White House says it is in talks with Iran
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNZW9WcjJfZUxrSWYxRjlpeFpDWkJvRWVrb0FGVGhHMU1GUzJualF0VDdXTV9IeC1sZ2lUZ3BMSXdhYnNtdEY3N3J3djlQVHpzWGRRVDFYM09GV2lSRV9NWmRlajJKSmtrMGoyTVdlZEtocHNZSnlCV0QweTRCSVppU1lqV2twNWF3cWhraUNaVEtGWWhIZGtQSklRc3lPSXc?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Sensex climbed 776 points and Nifty reclaimed 23,996. Analysts eyeing 24,250–24,300 if the index sustains above the 24,000
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132665751.cms
+- U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors - CNBC
+  U.S. and Korean tech stocks are now tightly linked. That could be
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFlab2FNYXZBWmtLWDN5N0F0THRfRUdicVBwS2p1YnB5SEM2OHNWVXRDTzlRUUo2TWlZNnNJbDFvYXBwcTFXTzYyZVNOcXFkc1NmT1N5ZjRmT0NaSkNERGVfb0N4eEdnQ1R1RUsyY1JhVHdHbEREM0xKeVh6aXJyYm8zRG12WG4yLS14a25JUlNZZk1uWHfSAZsBQVVfeXFMUG8tUkxVdmtPVkkxZEt5U0lrZTkxM01hOTVJUEpURnd3MnU2RTBBUnQ3bzRKVnEyUUZIRHNIdWRWcGZGUDJZWUdud3RwV2xWcUF4R1RXMk5objg3NlMyeTlrc0NlNXhUU3VPXy1qRGNOMjYyd3B5MW5SeTQtUjFlRDBBc3JxUWVJQTNER0NiNTg3c3JDSlFJWGVJc2s?oc=5
 
-- Global markets: Shein will struggle to justify up to $50 billion Hong Kong IPO valuation
-  The company's quarterly loss partly reflected a $328 million fair-value charge on convertible redeemable preferred shares. slowing revenue growth and weaker
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-will-struggle-to-justify-up-to-50-billion-hong-kong-ipo-valuation/articleshow/132664467.cms
+- UAE sovereign funds, firms to boost investments in India
+  UAE investments in India are set to significantly increase in coming months. Key sectors like artificial intelligence and logistics will see substantial growth. Bilateral trade targets are ambitious, aiming for two hundred billion dollars by 2032.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/uae-sovereign-funds-firms-to-boost-investments-in-india/articleshow/132673170.cms
 
-- Tata Power board okays raising Rs 4,500 cr via NCDs
-  Tata Power's board has given the green light to raise funds up to Rs 4,500 crore through debt securities. This initiative will see the company issue non-convertible debentures or alternative debt instruments via private placement.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/tata-power-board-okays-raising-rs-4500-cr-via-ncds/articleshow/132664416.cms
+- Adani Energy to raise Rs 3,500 crore via a QIP with upsize option
+  Adani Energy Solutions has launched a qualified institutional placement to raise funds. The company aims to secure ₹3,500 crore through this share issuance.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-to-raise-rs-3500-crore-via-a-qip-with-upsize-option/articleshow/132673118.cms
+
+- Oil prices fall 1% as investors weigh pause in US strikes on Iran
+  Oil prices dropped as market participants assessed a pause in US strikes on Iran. Hopes for a diplomatic solution eased concerns about Middle East energy flows. Analysts noted reduced traffic through key shipping straits and demand destruction in Asia.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-1-as-investors-weigh-pause-in-us-strikes-on-iran/articleshow/132673143.cms
+
+- Global Market Today: Asian stocks fall on AI jitters, oil extends drop
+  Asian equities dropped as artificial intelligence spending concerns fueled chipmaker selloffs. Investors await policy decisions from the Fed, Bank of Japan, and Bank of England. Earnings from megacap technology companies are also a key focus this week
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-on-ai-jitters-oil-extends-drop/articleshow/132673128.cms
+
+- CXMT's 466% listing pop makes it China's most valuable firm
+  CXMT Corp shares surged 466 percent on their Shanghai trading debut. This IPO became Asia's largest this year, boosting the chipmaker's valuation. Investor interest stems from exposure to the current memory supercycle.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/cxmts-466-listing-pop-makes-it-chinas-most-valuable-firm/articleshow/132673059.cms
+
+- 'This is just the start': India's Gen Z protesters force out a minister, but what next? - BBC
+  'This is just the start': India's Gen Z protesters force out
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE44amJEdnJLQkoyVThDZmhMVExsNmdxMGJvNlVVRU9ENFNYNm4tbnlvaTJSZlo3bXlsZHhHN2Z0UzhsOW5ySUV3Uk9nVS01dk9HNjZvazBYM2t4UQ?oc=5
 
 - Who is India’s new education minister Pralhad Joshi? - Al Jazeera
-  <ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0dj
+  Who is India’s new
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- Exclusive: Satellites Show At Least 11 Chinese Stealth Jets Facing India. New Delhi's Answer Is Years Away - NDTV
-  Satellites show At Least 11 Chinese Stealth Jets Facing India.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2c3SWZWaC04ZFVsT1huZi1wUEUzX3o5dDBhTEN1QnVvUGZITmg5R1c1Z3doczRpVlcxUi1Lci1uanpNLWd2cGlBYk9qUU9jNktEOVF0WGx3aUQzRXlNUTlRVTdKMGJOektZWU1tWlEwcl9sYWE5Nnl3T2pjOTV6V1k0MjJYcjhBZTVhNTd3UlNOUTl3c0RTeEtnTzRaUjQ1T2VPZXNxbjlHWi02WU9ZLW43dXBVVU1GaEN4ZEZaOEQ4SnRyekZxeDN5TTI?oc=5
+- Sharmila Dhankar wins India’s first Commonwealth Games para athletics gold medal - News On AIR
+  Sharmila Dhankar wins India’s
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkZRelNURWJyUXk4bk81d3hvdGlvSG5BVjU3UjhDdWwxdHhOSzlrTV9wcEYzalRsT3ROMXhUa2d3RnFHbFJwMGJUeGhmNTZ2cnBCczZjNmZmdllGdFh2RDU0TWlJb2R0dFVabGUwMmlHam5fU2xDR1Nla1k0RGs4azhsWmZseFBhTmJfSlpHeEpiSWVmNUt1cmprUWQ4eFk1cWhNVHdDUHY?oc=5
 
-- 'Govt breaching deal ... will protest again': CJP gives Centre ultimatum amid ongoing police action - The Times of India
-  'Govt breaching deal ... will protest again': CJP gives Centre ultim
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxONHY0WG90c2swSnRpZWpUbk9wQkIzS3hxV3BiSEw1V2lOZmtIeVRVX0dKamJVbTY1N1N6TEE4ck5KQ0xHNGtEbjhZTko2TFIxZURTZ05Hdm9XQ3pFWm1fdzlERWh6eTJVYVNNZVRSYjRXdUEzWEtjRzNDdWNlX3NmZFliZGx3bGZDWFVVVVBlbHRyWEk4cjQwODQ1eWo2MC1KUnhmajI4YTkxQ3A2WWVkRFZnbWVvUzlhQ0dvNDNpX3Fyelo2SXZMVVBVLUoyb3VZN3U4VVNmRkFqUGpzTlA1ajY3LVBYdHU2QXVrcGJsb3E1Z2R6cFNBZ9IB_gFBVV95cUxNanRrTjJvSjlRd3dqVEJ2UXY5TlZIUXBDbENndXdQZUpjTXVBaUVKX1U0VTdXa1E4QkNQNTUtakF0V0dvZDYxeFp5bkZiT1A0STdoa3Z6dG9LamVKQlZ3LUlUNVlFdXVlQ01RRlA0YVU5aVl0ZFg2eThYbXktdkkzdXMwNmhfQjdESzZzWFk5OFluNTd3b0stdlhTbHBGaENkRjlLbWh0LXVhQk9mOWNZX3VCMXNUMGs3RXZCeWF5a041X3hFQ01pckNiRFJsa08xUEtqcEVBQ1hveWt2QUNfOWlndkZNZXMzQ1ZGYk5DSUZMZFBvOGdtcmxDMHE1UQ?oc=5
+- CWG 2026 medal table: Where does India stand after six medals on Day 5 of action in Glasgow? - The Times of India
+  The Times of India has published the medal table for the CWG 2026.
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPQndKMTBQaVQwS2NsLWlnU24tZFFmNXZWUnAwZFJMbDEzRTA0ME9ESS0ycUxmaGtHMTBTeWVlYnRHRHFKTDhuRFcybnJsbXFBaWNMUm5NUUhNVHd4cWFZaEJoa3BMZE04N1l4aTRKeWExeVZoVUJfZVJqVUFIQmtGX1V4bkdlNTBjWmI3SURrZEtxOFVoTXJyYVRiTV82VGJhN1dPTkMtOFhpNi11c0QtcDhNNVZJejE5akJ6c1NkUE45eG5wSFRuR1A0NzdBN3NqazFhdFJ6QUw2c1l4Tjh2am0wbHh0NDk1TXBybGxwU0hLY2gzd3JUSkk2MkQ2M1JaVTF6Y0szWkhZUEl1cWFKbdIBlgJBVV95cUxOQnVwaF9ZczRlXzB0S2tjcGhGYjkwMUwxSFJfMmhqaXJWOUg3Vl9jOTFxZnZULTdyQUZPTWN2dGtYTE9rMGxIVVBhRWYzcndUWGZ1Y1N4bWh6NVRLSVR0OGptT0RSeUtnVkw3NXh1Q1BEQXViSDMycXppZXVwM1ljeHVfNkthb2pYZDN0YzZNenlGdzMxMExBSjVmREUtVFZ4S2tMWEZ4eGx4c0NjajlhYlVycmlhUFEwNzl1SU1CRW1EbnNfeFQwektub01nYmw4M2lvUDBqbFAxVFJWNy13T3Z3UlhncDhUdkl3bm8xQ0ZjdjEyMU1HN3F5NVh3bHFGVXR0b3A1R21qUG5EdEdPV2dGaDJMUQ?oc=5
 
-- Here’s why India’s cockroach protests were such a success – and why the Mamdani effect means more to come - The Guardian
-  Here’s why India's cockroach protests were such a success – and why the
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzVKWnFSTXhLclRQNFFUYlpPcjdlaHV2NXFaUjlZekdfVzNqbmlnLTR4WkRyVUVQb2t3M2NDaGFiV18zejFhbkxFaWZLVnNUX1MtdXlxZlFtOVl3RkhOWHJrbERqbXdLd2k0dTBORWlhUl9fWVFYWHVnZUdYeTEzOGhaNER4UE1IZHNsX1YzU1RZS1pJQVdHclNSWjB2Slhxcl9mNDY5YnM0Zw?oc=5
+- US, India Expanding Defence, Civil Nuclear Cooperation: Trump Official - NDTV
+  US, India Expanding Defence,
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQbnFzQWtyYkIxWFV0cm85NHdVRmVOYmQzV3VDYkV2M284SkJ2MzFGTG5FOTFxTU1YWElrMzhlc3g3T0NGejIwX3E1cVl3UGVhM2ZwaVBPZHNFaGk2RUp1eFR2RlFxbkMzY2c5WkYwOGZsU0ZtODZMa1B2bmdTSGRVbHdVb1c1aE16MnNDWGFVVFZVZkRmV2E4X3lDR3d5ZFNLT01KTkwwRUlGa1Zj0gG0AUFVX3lxTE1xX2RZbDd3SHhEcXNrM0tRT0t2YlFpeThVM1NrSU1XZEREVmVrLXVpSWdHaEw3VVBLZFQ3cjQzemh0SlZiZ0JxUmd5MVNsWDBIVHR4YVhfdXlrVXUxeksxam8xcVZ6TzZhWF9CTmxON0JFcFkxOWxiUDJGZkVrODNxeTBsMjhUcHNzMmFQVy1oOU1OLXlEMlZBUkhDMXppS2tGTlZJYXNueW1BWXF2WnFybllDdg?oc=5
 
-- Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting | Akashvani News - News On AIR
-  Mirabai Chanu wins India’s first gold at Commonwealth Games
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcU51YnlfRFFuZ1RoWi1uVThXZ0ZBejR6NF9BTzNiaE9hQzkxbGJYSGEzeGFGUjROdDBtVzctd3JHWV94Z1dIMnpSTzVCdndOV3NLMzF4ODZTMnZBSEZPc19aelYtQ3R0UUF6ZW4xRld2d3BDU1hpalNMZjhkUWd0S0h2dlpoMVAyUm5ZbGZJSnhqU3M4ZzZncFh3V0JJbUF5MmZDMWljTjVDdw?oc=5
+- Tata Digital Posts Nearly ₹5,000 Cr Loss In FY26 As BigBasket Bleeds
+  Digital juggernaut Tata Digital’s net losses ballooned 7.9% to ₹4,974 Cr in the fiscal year 2025-26 (FY26)
+  🔗 https://inc42.com/buzz/tata-digital-posts-nearly-%e2%82%b95000-cr-loss-in-fy26-as-bigbasket-bleeds/
 
 - Ex-Share.Market CEO Ujjwal Jain Launches Wealth Management Startup Atyx.AI
   Former Share.Market CEO Ujjwal Jain and ex-Microsoft researcher Debopam Bhattacharjee launch a new fintech venture Atyx.AI.
@@ -176,49 +180,45 @@
   When Indian Space Research Organisation’s (ISRO) PSLV-C61 rocket lifted off from Sriharikota in January this year, Ronak Samant
   🔗 https://inc42.com/startups/can-takeme2space-build-the-aws-of-space/
 
-- IndiaMART To Invest ₹65 Cr More In Fleetx, Raise Stake To 25.8%
-  B2B ecommerce platform IndiaMART InterMESH has entered into an agreement to invest about ₹65 Cr in Fleetx.
-  🔗 https://inc42.com/buzz/indiamart-to-invest-%e2%82%b965-cr-more-in-fleetx-raise-stake-to-25-8/
+- 'This is just the start': India's Gen Z protesters force out a minister, but what next? - BBC
+  'This is just the start': India's Gen Z protesters force out
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE44amJEdnJLQkoyVThDZmhMVExsNmdxMGJvNlVVRU9ENFNYNm4tbnlvaTJSZlo3bXlsZHhHN2Z0UzhsOW5ySUV3Uk9nVS01dk9HNjZvazBYM2t4UQ?oc=5
 
 - Who is India’s new education minister Pralhad Joshi? - Al Jazeera
-  <ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0dj
+  Who is India’s new
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- Exclusive: Satellites Show At Least 11 Chinese Stealth Jets Facing India. New Delhi's Answer Is Years Away - NDTV
-  Satellites show At Least 11 Chinese Stealth Jets Facing India.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2c3SWZWaC04ZFVsT1huZi1wUEUzX3o5dDBhTEN1QnVvUGZITmg5R1c1Z3doczRpVlcxUi1Lci1uanpNLWd2cGlBYk9qUU9jNktEOVF0WGx3aUQzRXlNUTlRVTdKMGJOektZWU1tWlEwcl9sYWE5Nnl3T2pjOTV6V1k0MjJYcjhBZTVhNTd3UlNOUTl3c0RTeEtnTzRaUjQ1T2VPZXNxbjlHWi02WU9ZLW43dXBVVU1GaEN4ZEZaOEQ4SnRyekZxeDN5TTI?oc=5
+- Sharmila Dhankar wins India’s first Commonwealth Games para athletics gold medal - News On AIR
+  Sharmila Dhankar wins India’s
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkZRelNURWJyUXk4bk81d3hvdGlvSG5BVjU3UjhDdWwxdHhOSzlrTV9wcEYzalRsT3ROMXhUa2d3RnFHbFJwMGJUeGhmNTZ2cnBCczZjNmZmdllGdFh2RDU0TWlJb2R0dFVabGUwMmlHam5fU2xDR1Nla1k0RGs4azhsWmZseFBhTmJfSlpHeEpiSWVmNUt1cmprUWQ4eFk1cWhNVHdDUHY?oc=5
 
-- 'Govt breaching deal ... will protest again': CJP gives Centre ultimatum amid ongoing police action - The Times of India
-  'Govt breaching deal ... will protest again': CJP gives Centre ultim
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxONHY0WG90c2swSnRpZWpUbk9wQkIzS3hxV3BiSEw1V2lOZmtIeVRVX0dKamJVbTY1N1N6TEE4ck5KQ0xHNGtEbjhZTko2TFIxZURTZ05Hdm9XQ3pFWm1fdzlERWh6eTJVYVNNZVRSYjRXdUEzWEtjRzNDdWNlX3NmZFliZGx3bGZDWFVVVVBlbHRyWEk4cjQwODQ1eWo2MC1KUnhmajI4YTkxQ3A2WWVkRFZnbWVvUzlhQ0dvNDNpX3Fyelo2SXZMVVBVLUoyb3VZN3U4VVNmRkFqUGpzTlA1ajY3LVBYdHU2QXVrcGJsb3E1Z2R6cFNBZ9IB_gFBVV95cUxNanRrTjJvSjlRd3dqVEJ2UXY5TlZIUXBDbENndXdQZUpjTXVBaUVKX1U0VTdXa1E4QkNQNTUtakF0V0dvZDYxeFp5bkZiT1A0STdoa3Z6dG9LamVKQlZ3LUlUNVlFdXVlQ01RRlA0YVU5aVl0ZFg2eThYbXktdkkzdXMwNmhfQjdESzZzWFk5OFluNTd3b0stdlhTbHBGaENkRjlLbWh0LXVhQk9mOWNZX3VCMXNUMGs3RXZCeWF5a041X3hFQ01pckNiRFJsa08xUEtqcEVBQ1hveWt2QUNfOWlndkZNZXMzQ1ZGYk5DSUZMZFBvOGdtcmxDMHE1UQ?oc=5
+- CWG 2026 medal table: Where does India stand after six medals on Day 5 of action in Glasgow? - The Times of India
+  The Times of India has published the medal table for the CWG 2026.
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPQndKMTBQaVQwS2NsLWlnU24tZFFmNXZWUnAwZFJMbDEzRTA0ME9ESS0ycUxmaGtHMTBTeWVlYnRHRHFKTDhuRFcybnJsbXFBaWNMUm5NUUhNVHd4cWFZaEJoa3BMZE04N1l4aTRKeWExeVZoVUJfZVJqVUFIQmtGX1V4bkdlNTBjWmI3SURrZEtxOFVoTXJyYVRiTV82VGJhN1dPTkMtOFhpNi11c0QtcDhNNVZJejE5akJ6c1NkUE45eG5wSFRuR1A0NzdBN3NqazFhdFJ6QUw2c1l4Tjh2am0wbHh0NDk1TXBybGxwU0hLY2gzd3JUSkk2MkQ2M1JaVTF6Y0szWkhZUEl1cWFKbdIBlgJBVV95cUxOQnVwaF9ZczRlXzB0S2tjcGhGYjkwMUwxSFJfMmhqaXJWOUg3Vl9jOTFxZnZULTdyQUZPTWN2dGtYTE9rMGxIVVBhRWYzcndUWGZ1Y1N4bWh6NVRLSVR0OGptT0RSeUtnVkw3NXh1Q1BEQXViSDMycXppZXVwM1ljeHVfNkthb2pYZDN0YzZNenlGdzMxMExBSjVmREUtVFZ4S2tMWEZ4eGx4c0NjajlhYlVycmlhUFEwNzl1SU1CRW1EbnNfeFQwektub01nYmw4M2lvUDBqbFAxVFJWNy13T3Z3UlhncDhUdkl3bm8xQ0ZjdjEyMU1HN3F5NVh3bHFGVXR0b3A1R21qUG5EdEdPV2dGaDJMUQ?oc=5
 
-- Here’s why India’s cockroach protests were such a success – and why the Mamdani effect means more to come - The Guardian
-  Here’s why India's cockroach protests were such a success – and why the
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzVKWnFSTXhLclRQNFFUYlpPcjdlaHV2NXFaUjlZekdfVzNqbmlnLTR4WkRyVUVQb2t3M2NDaGFiV18zejFhbkxFaWZLVnNUX1MtdXlxZlFtOVl3RkhOWHJrbERqbXdLd2k0dTBORWlhUl9fWVFYWHVnZUdYeTEzOGhaNER4UE1IZHNsX1YzU1RZS1pJQVdHclNSWjB2Slhxcl9mNDY5YnM0Zw?oc=5
+- US, India Expanding Defence, Civil Nuclear Cooperation: Trump Official - NDTV
+  US, India Expanding Defence,
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQbnFzQWtyYkIxWFV0cm85NHdVRmVOYmQzV3VDYkV2M284SkJ2MzFGTG5FOTFxTU1YWElrMzhlc3g3T0NGejIwX3E1cVl3UGVhM2ZwaVBPZHNFaGk2RUp1eFR2RlFxbkMzY2c5WkYwOGZsU0ZtODZMa1B2bmdTSGRVbHdVb1c1aE16MnNDWGFVVFZVZkRmV2E4X3lDR3d5ZFNLT01KTkwwRUlGa1Zj0gG0AUFVX3lxTE1xX2RZbDd3SHhEcXNrM0tRT0t2YlFpeThVM1NrSU1XZEREVmVrLXVpSWdHaEw3VVBLZFQ3cjQzemh0SlZiZ0JxUmd5MVNsWDBIVHR4YVhfdXlrVXUxeksxam8xcVZ6TzZhWF9CTmxON0JFcFkxOWxiUDJGZkVrODNxeTBsMjhUcHNzMmFQVy1oOU1OLXlEMlZBUkhDMXppS2tGTlZJYXNueW1BWXF2WnFybllDdg?oc=5
 
-- Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting | Akashvani News - News On AIR
-  Mirabai Chanu wins India’s first gold at Commonwealth Games
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcU51YnlfRFFuZ1RoWi1uVThXZ0ZBejR6NF9BTzNiaE9hQzkxbGJYSGEzeGFGUjROdDBtVzctd3JHWV94Z1dIMnpSTzVCdndOV3NLMzF4ODZTMnZBSEZPc19aelYtQ3R0UUF6ZW4xRld2d3BDU1hpalNMZjhkUWd0S0h2dlpoMVAyUm5ZbGZJSnhqU3M4ZzZncFh3V0JJbUF5MmZDMWljTjVDdw?oc=5
+- 'This is just the start': India's Gen Z protesters force out a minister, but what next? - BBC
+  'This is just the start': India's Gen Z protesters force out
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE44amJEdnJLQkoyVThDZmhMVExsNmdxMGJvNlVVRU9ENFNYNm4tbnlvaTJSZlo3bXlsZHhHN2Z0UzhsOW5ySUV3Uk9nVS01dk9HNjZvazBYM2t4UQ?oc=5
 
 - Who is India’s new education minister Pralhad Joshi? - Al Jazeera
-  <ol><li><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0dj
+  Who is India’s new
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- Exclusive: Satellites Show At Least 11 Chinese Stealth Jets Facing India. New Delhi's Answer Is Years Away - NDTV
-  Satellites show At Least 11 Chinese Stealth Jets Facing India.
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2c3SWZWaC04ZFVsT1huZi1wUEUzX3o5dDBhTEN1QnVvUGZITmg5R1c1Z3doczRpVlcxUi1Lci1uanpNLWd2cGlBYk9qUU9jNktEOVF0WGx3aUQzRXlNUTlRVTdKMGJOektZWU1tWlEwcl9sYWE5Nnl3T2pjOTV6V1k0MjJYcjhBZTVhNTd3UlNOUTl3c0RTeEtnTzRaUjQ1T2VPZXNxbjlHWi02WU9ZLW43dXBVVU1GaEN4ZEZaOEQ4SnRyekZxeDN5TTI?oc=5
+- Sharmila Dhankar wins India’s first Commonwealth Games para athletics gold medal - News On AIR
+  Sharmila Dhankar wins India’s
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkZRelNURWJyUXk4bk81d3hvdGlvSG5BVjU3UjhDdWwxdHhOSzlrTV9wcEYzalRsT3ROMXhUa2d3RnFHbFJwMGJUeGhmNTZ2cnBCczZjNmZmdllGdFh2RDU0TWlJb2R0dFVabGUwMmlHam5fU2xDR1Nla1k0RGs4azhsWmZseFBhTmJfSlpHeEpiSWVmNUt1cmprUWQ4eFk1cWhNVHdDUHY?oc=5
 
-- 'Govt breaching deal ... will protest again': CJP gives Centre ultimatum amid ongoing police action - The Times of India
-  'Govt breaching deal ... will protest again': CJP gives Centre ultim
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxONHY0WG90c2swSnRpZWpUbk9wQkIzS3hxV3BiSEw1V2lOZmtIeVRVX0dKamJVbTY1N1N6TEE4ck5KQ0xHNGtEbjhZTko2TFIxZURTZ05Hdm9XQ3pFWm1fdzlERWh6eTJVYVNNZVRSYjRXdUEzWEtjRzNDdWNlX3NmZFliZGx3bGZDWFVVVVBlbHRyWEk4cjQwODQ1eWo2MC1KUnhmajI4YTkxQ3A2WWVkRFZnbWVvUzlhQ0dvNDNpX3Fyelo2SXZMVVBVLUoyb3VZN3U4VVNmRkFqUGpzTlA1ajY3LVBYdHU2QXVrcGJsb3E1Z2R6cFNBZ9IB_gFBVV95cUxNanRrTjJvSjlRd3dqVEJ2UXY5TlZIUXBDbENndXdQZUpjTXVBaUVKX1U0VTdXa1E4QkNQNTUtakF0V0dvZDYxeFp5bkZiT1A0STdoa3Z6dG9LamVKQlZ3LUlUNVlFdXVlQ01RRlA0YVU5aVl0ZFg2eThYbXktdkkzdXMwNmhfQjdESzZzWFk5OFluNTd3b0stdlhTbHBGaENkRjlLbWh0LXVhQk9mOWNZX3VCMXNUMGs3RXZCeWF5a041X3hFQ01pckNiRFJsa08xUEtqcEVBQ1hveWt2QUNfOWlndkZNZXMzQ1ZGYk5DSUZMZFBvOGdtcmxDMHE1UQ?oc=5
+- CWG 2026 medal table: Where does India stand after six medals on Day 5 of action in Glasgow? - The Times of India
+  The Times of India has published the medal table for the CWG 2026.
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPQndKMTBQaVQwS2NsLWlnU24tZFFmNXZWUnAwZFJMbDEzRTA0ME9ESS0ycUxmaGtHMTBTeWVlYnRHRHFKTDhuRFcybnJsbXFBaWNMUm5NUUhNVHd4cWFZaEJoa3BMZE04N1l4aTRKeWExeVZoVUJfZVJqVUFIQmtGX1V4bkdlNTBjWmI3SURrZEtxOFVoTXJyYVRiTV82VGJhN1dPTkMtOFhpNi11c0QtcDhNNVZJejE5akJ6c1NkUE45eG5wSFRuR1A0NzdBN3NqazFhdFJ6QUw2c1l4Tjh2am0wbHh0NDk1TXBybGxwU0hLY2gzd3JUSkk2MkQ2M1JaVTF6Y0szWkhZUEl1cWFKbdIBlgJBVV95cUxOQnVwaF9ZczRlXzB0S2tjcGhGYjkwMUwxSFJfMmhqaXJWOUg3Vl9jOTFxZnZULTdyQUZPTWN2dGtYTE9rMGxIVVBhRWYzcndUWGZ1Y1N4bWh6NVRLSVR0OGptT0RSeUtnVkw3NXh1Q1BEQXViSDMycXppZXVwM1ljeHVfNkthb2pYZDN0YzZNenlGdzMxMExBSjVmREUtVFZ4S2tMWEZ4eGx4c0NjajlhYlVycmlhUFEwNzl1SU1CRW1EbnNfeFQwektub01nYmw4M2lvUDBqbFAxVFJWNy13T3Z3UlhncDhUdkl3bm8xQ0ZjdjEyMU1HN3F5NVh3bHFGVXR0b3A1R21qUG5EdEdPV2dGaDJMUQ?oc=5
 
-- Here’s why India’s cockroach protests were such a success – and why the Mamdani effect means more to come - The Guardian
-  Here’s why India's cockroach protests were such a success – and why the
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzVKWnFSTXhLclRQNFFUYlpPcjdlaHV2NXFaUjlZekdfVzNqbmlnLTR4WkRyVUVQb2t3M2NDaGFiV18zejFhbkxFaWZLVnNUX1MtdXlxZlFtOVl3RkhOWHJrbERqbXdLd2k0dTBORWlhUl9fWVFYWHVnZUdYeTEzOGhaNER4UE1IZHNsX1YzU1RZS1pJQVdHclNSWjB2Slhxcl9mNDY5YnM0Zw?oc=5
-
-- Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting | Akashvani News - News On AIR
-  Mirabai Chanu wins India’s first gold at Commonwealth Games
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcU51YnlfRFFuZ1RoWi1uVThXZ0ZBejR6NF9BTzNiaE9hQzkxbGJYSGEzeGFGUjROdDBtVzctd3JHWV94Z1dIMnpSTzVCdndOV3NLMzF4ODZTMnZBSEZPc19aelYtQ3R0UUF6ZW4xRld2d3BDU1hpalNMZjhkUWd0S0h2dlpoMVAyUm5ZbGZJSnhqU3M4ZzZncFh3V0JJbUF5MmZDMWljTjVDdw?oc=5
+- US, India Expanding Defence, Civil Nuclear Cooperation: Trump Official - NDTV
+  US, India Expanding Defence,
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQbnFzQWtyYkIxWFV0cm85NHdVRmVOYmQzV3VDYkV2M284SkJ2MzFGTG5FOTFxTU1YWElrMzhlc3g3T0NGejIwX3E1cVl3UGVhM2ZwaVBPZHNFaGk2RUp1eFR2RlFxbkMzY2c5WkYwOGZsU0ZtODZMa1B2bmdTSGRVbHdVb1c1aE16MnNDWGFVVFZVZkRmV2E4X3lDR3d5ZFNLT01KTkwwRUlGa1Zj0gG0AUFVX3lxTE1xX2RZbDd3SHhEcXNrM0tRT0t2YlFpeThVM1NrSU1XZEREVmVrLXVpSWdHaEw3VVBLZFQ3cjQzemh0SlZiZ0JxUmd5MVNsWDBIVHR4YVhfdXlrVXUxeksxam8xcVZ6TzZhWF9CTmxON0JFcFkxOWxiUDJGZkVrODNxeTBsMjhUcHNzMmFQVy1oOU1OLXlEMlZBUkhDMXppS2tGTlZJYXNueW1BWXF2WnFybllDdg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-27 19:22:44 UTC_
+_Last updated: 2026-07-28 02:03:56 UTC_
