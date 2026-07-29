@@ -1,24 +1,52 @@
 # 📰 Daily News Summaries
 
-- You were at Delhi protest, but your police booked protesters in Kerala: Pinarayi Vijayan to CM
+- As Opposition flags Delhi Police visit to CPM office, Nadda’s ‘Emergency’ reply
   
-  🔗 https://indianexpress.com/article/india/kerala-protest-cases-withdrawal-pinarayi-satheesan-10808026/
+  🔗 https://indianexpress.com/article/india/asopposition-flags-delhi-police-visit-to-cpm-office-naddas-emergency-reply-10808719/
 
-- 2022 Khargone communal violence: 11 accused acquitted by court as prosecution case collapses
+- Student told me ‘andhbhakt is convinced one person is God’: Rahul Gandhi
   
-  🔗 https://indianexpress.com/article/india/2022-khargone-ram-navami-violence-11-accused-acquittal-10808079/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-parliament-monsoon-session-paper-leak-10808573/
 
-- 2,000 farmers march towards Bhopal, bedding and cooking material in hand
+- Ex-PM Manmohan Singh gets clean chit from Supreme Court in coal block allocation case
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-farmers-protest-bhopal-moong-msp-demand-10808073/
+  🔗 https://indianexpress.com/article/india/manmohan-singh-gets-clean-chit-from-supreme-court-in-coal-case-10808649/
 
-- ‘Granted leave only after stillbirth’, teacher’s family claims officials demanded Rs 50,000 bribe
+- German tourist visa appointments down to 2 days for most of year: Envoy
   
-  🔗 https://indianexpress.com/article/india/jharkhand-teacher-stillbirth-leave-bribery-10808072/
+  🔗 https://indianexpress.com/article/india/germany-tourist-visa-appointments-delhi-two-days-10808484/
 
-- Prashant Kishor’s ‘AI video’ claim, BJP chief’s temple visits — last day in a busy Bihar campaign
+- Delhi Police files FIR over abusive posts against PM Modi, seeks details from X
   
-  🔗 https://indianexpress.com/article/india/bankipur-assembly-bypoll-prashant-kishor-bjp-rjd-10808068/
+  🔗 https://indianexpress.com/article/india/delhi-police-fir-abusive-x-posts-against-modi-cjp-protests-10808421/
+
+- OpenAI, Google, Meta staff sign letter calling for mechanisms to pace AI progress
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-meta-employees-letter-slow-ai-development-10808642/
+
+- An iPhone on lease? Apple just made ownership optional
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-upgrade-iphone-leasing-programme-us-customers-10808448/
+
+- The memory crisis made Dell innovate on XPS 13’s entry-level price point… here is the story
+  
+  🔗 https://indianexpress.com/article/technology/laptops/the-memory-crisis-made-dell-innovate-on-xps-13s-entry-level-price-point-here-is-the-story-10808262/
+
+- Mark Zuckerberg slams centralisation of AI power, challenges OpenAI-Anthropic approach
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-mark-zuckerberg-slams-centralisation-ai-10808282/
+
+- Moonshot AI releases Kimi K3 model weights under custom licence: What it means for enterprises
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/china-moonshot-ai-kimi-k3-model-weights-custom-licence-10807478/
+
+- L Catterton hires Chetan Naik to deepen India consumer bets
+  Naik is a former 360 ONE Asset executive. He joins the global investment firm as managing director
+  🔗 https://www.livemint.com/companies/news/l-catterton-hires-chetan-naik-to-deepen-india-consumer-bets-11785306599119.html
+
+- Former Golden Globes owners sue Penske Media alleging fraud in acquisition of awards show
+  Former Golden Globes owners sue Penske Media
+  🔗 https://www.livemint.com/companies/former-golden-globes-owners-sue-penske-media-alleging-fraud-in-acquisition-of-awards-show-11785296742481.html
 
 - FNP bets on q-comm amid instant gifting boom, eyes IPO in 2 years
   Ferns N Petals is ramping up its quick commerce efforts, targeting  ₹1,400 crore in revenue by FY27. The company is addressing
@@ -32,181 +60,185 @@
   Ratan Tata bequeathed a portion of his wealth to his personal charitable organization. The Ratan Tata Endowment Fund received a cash gift, shares and a loan from Tata
   🔗 https://www.livemint.com/companies/news/ratan-tata-charity-fund-received-cash-shares-and-loan-from-tata-sons-units-11785153266791.html
 
-- Tata Communications sees $1 bn opportunity in connecting data centres
-  Tata Communications eyes cornering a bigger share of the data
-  🔗 https://www.livemint.com/companies/news/tata-communications-data-centre-connectivity-opportunity-india-ai-boom-11785245535932.html
+- Penny stock under Re 1: NBFC share pares intraday loss after this business update
+  NCL Research plans to enter the digital personal loan sector in India, focusing on technology-driven solutions. The initiative aims to diversify revenue and grow in the expanding retail credit market
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-re-1-nbfc-share-pares-intraday-loss-after-this-business-update-11785311369495.html
 
-- Coursera backs co-founder Andrew Ngs new AI education firm with $100 million investment
-  Coursera backs co-founder Andrew Ng
-  🔗 https://www.livemint.com/companies/coursera-backs-co-founder-andrew-ngs-new-ai-education-firm-with-100-million-investment-11785269215212.html
+- US Fed meeting outcome today: Here's date, time, expectations, where to watch Kevin Warsh's speech
+  Federal Reserve's mandate is to foster maximum employment while maintaining price stability, with inflation averaging around its 2% target.
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-outcome-today-heres-date-time-expectations-where-to-watch-kevin-warshs-speech-11785310388451.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 29 July
-  The Indian stock market's Sensex and Nifty 50 are set to open higher on 29 July. Analysts indicate ongoing consolidation with key support and resistance zones.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-29-july-11785288788100.html
+- L&amp;T's order book is booming. Is the valuation already pricing it in?
+  Despite a weak first quarter, Larsen &amp;amp; Toubro's management expects execution momentum to pick up. The bigger challenge for investors may
+  🔗 https://www.livemint.com/market/mark-to-market/lt-larsen-and-toubro-q1fy27-results-order-book-strong-valuation-limited-upside-11785307743043.html
 
-- From Gift Nifty, US Fed meeting to oil prices: 8 key things that changed for Indian stock market overnight
-  The Gift Nifty was trading around the 24,253 level, a premium of nearly 154 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-fed-meeting-to-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11785288308839.html
+- Nithin Kamath warns Zerodha could lose revenue from August 3. Here's what's changing in the stock market
+  The Closing Auction Session aims to improve pricing but could reduce brokerage revenues by 1-5% and increase customer queries. Kamath warns that the new staggered closing times for India's equity market,
+  🔗 https://www.livemint.com/market/stock-market-news/nithin-kamath-warns-zerodha-could-lose-revenue-from-august-3-heres-whats-changing-in-the-stock-market-timings-11785308891883.html
 
-- Crude oil prices rebound after falling 14% in three sessions amid escalation in US-Iran war; Brent crude at $86/bbl
-  Brent crude futures advanced $2.71, or 3.2%, to $86.80 a barrel. US West Texas Intermediate (WTI) crude gained
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-rebound-after-falling-14-in-three-sessions-amid-rising-tensions-in-middle-east-brent-crudeat-86bbl-11785287091708.html
+- Goldman Sachs to Motilal Oswal: Institutions buys stake in multibagger stock that has surged 3,18,900% in 5 years
+  Diamond Power and Infrastructure share price turned green after falling over 2%
+  🔗 https://www.livemint.com/market/stock-market-news/goldman-sachs-to-motilal-oswal-institutions-buys-stake-in-multibagger-stock-diamond-power-infrastructure-11785306006645.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 29 July 2026
-  EClerx Services, Universal Cables, Five-Star Business Finance, Mankind Pharma, and Knowledge Marine &amp;amp
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-29-july-2026-11785285795137.html
+- Gen-AI may replace 8-12% of Indias non-agricultural jobs: Goldman Sachs
+  Generative Artificial Intelligence (Gen-AI) could substitute 8-12 per cent of India's non-agricultural employment. It could complement
+  🔗 https://www.livemint.com/technology/genai-may-replace-8-12-of-indias-non-agricultural-jobs-goldman-sachs-11785307373774.html
 
-- JSW One Platforms appoints bankers for $350-400 million IPO next year
-  The Sajjan Jindal-led B2B marketplace joins India�
-  🔗 https://www.livemint.com/market/ipo/jsw-one-platforms-appoints-bankers-for-350-400-million-ipo-next-year-11785242943980.html
+- Google rolls out Gemini Spark AI agent to users in India: Here's what it can do
+  Google is launching its Gemini Spark AI agent for subscribers in India next month. The AI agent is designed to automate tasks and integrate with
+  🔗 https://www.livemint.com/technology/tech-news/google-rolls-out-gemini-spark-ai-agent-to-users-in-india-heres-what-it-can-do-11785304937137.html
+
+- Not just Hugging Face, OpenAI says its rogue AI agent also accessed accounts across four online services
+  OpenAI's rogue AI breached not only Hugging Face but used exposed credentials to access four other accounts. While
+  🔗 https://www.livemint.com/technology/tech-news/not-just-hugging-face-openai-says-its-rogue-ai-agent-also-accessed-accounts-across-four-online-services-11785298726140.html
+
+- Meta chief Mark Zuckerberg slams AI rivals over tightly controlled development
+  Mark Zuckerberg took aim at Anthropic and OpenAI in an interview with The New York Times. He said that if leading research labs wanted to develop AI technology in a tightly controlled manner, it would be akin to "abandoning our
+  🔗 https://www.livemint.com/technology/meta-chief-mark-zuckerberg-slams-ai-rivals-over-tightly-controlled-development-11785299791071.html
 
 - Tech employees call for US-backed global effort to manage risks of advanced AI
   Tech employees call for US-backed global
   🔗 https://www.livemint.com/technology/tech-employees-call-for-us-backed-global-effort-to-manage-risks-of-advanced-ai-11785276095862.html
 
-- Trump administration to ban new Chinese humanoid robots, protecting US AI buildout
-  Trump administration to ban new Chinese humanoid robots, protecting US
-  🔗 https://www.livemint.com/technology/trump-administration-to-ban-new-chinese-humanoid-robots-protecting-us-ai-buildout-11785266279332.html
-
-- Exclusive-Trump administration to ban new Chinese humanoid robots, protecting US AI buildout
-  Trump administration to ban new Chinese humanoid
-  🔗 https://www.livemint.com/technology/exclusivetrump-administration-to-ban-new-chinese-humanoid-robots-protecting-us-ai-buildout-11785266278202.html
-
-- WhatsApp finally lets you make audio and video calls from your web browser - Check other latest updates
-  WhatsApp Web now supports end-to-end encrypted audio and video calls. Call transfer, waiting room, QuickHD and noise suppression
-  🔗 https://www.livemint.com/technology/apps/whatsapp-finally-lets-you-make-audio-and-video-calls-from-your-web-browser-check-other-latest-updates-11785254769668.html
-
-- Your Claude AI chats could be showing up on Google. Here's what Anthropic says
-   Claude conversations are private by default. Fortune found that the only chats affected were those that
-  🔗 https://www.livemint.com/technology/your-claude-ai-chats-could-be-showing-up-on-google-heres-what-anthropic-says-11785231267866.html
-
-- Stock Market Today: Dow Opens Higher, Micron Stock Slides as Investors Rotate Out of Chip Stocks — Live Updates - WSJ
-  The WSJ reports that Micron Stock Slides as Investors Rotate Out of Chip
+- Stock Market July 28, 2026: Dow Rallies, Chip Stocks Slide - WSJ
+  The WSJ looks at the future of
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxObmhFN3Q2NnJ2NlFSaVlBZ3FnNUx2a3B6WFdOSVBHbVY5akY1WE5tLVNpdGROZVBZRWFrc185V2F5RkhVWjIxQjBfQU9RaWpKZzRVYUxCOVhlaF9xdllHQ0tHQmI5NnFZMFpUR3RuQWdlRWRLUTRfNjFNQnpyZ3pwcGl4OFdYN1k?oc=5
 
-- South Korean stock market at three-month low as AI sell-off intensifies - The Guardian
-  South Korean stock market at three-month low as
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmVZT1owblRILUJnajMzUHdYa3Y3SmJwc0NrcFpJZXNTWkFSQlpjR191U1dkcHVha0lTUEpFa0stREtycWg5bmFMVTZERGN4R1ZSYkxKdzVWODBVcXFHX25TS3FpaVpZNlplaW9YTVh2Zm5jLVVrNy10RUNHcDJad05LU1FwNnV6WVNweTJVUi1WWEU?oc=5
+- Markets News, July 28, 2026: Major Indexes End Mostly Higher on Strong Earnings as Oil Prices Sink; Dow Adds Nearly 550 Points; Chip Stocks Weigh on Nasdaq - Investopedia
+  Markets News, July 28, 2026: Major Indexes End Mostly Higher on Strong Earnings as Oil Prices Sink
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOV09kODNLeXlVQnpZMlhlTkN0aXNIakhzNTdXaVVzbWVodDZFdTdBUUM2d3VTaGZXT0drWFlJdXJxQzkwLVB5VG1QWnd6V3dsbGRxRzFEbXhoZ3VsOWt2OHhHbnBTSFhGOXVpbzI5Sl9KazJHb19pZEI4V0lldmJtWE9BaFBUa0loMDhKcEVvc28?oc=5
 
 - Dow jumps more than 500 points as oil prices slide, investors rotate out of chip stocks - CNBC
   The Dow jumped more than 500 points as oil prices slide, investors rotate
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBrVi1aVEdDbG9nbWhkOEh4UU1LaDJESThkODBGOWhMVzlZWlJoTlBHMW8yclp4c1NnWTVUQzJlSG1DR0d3OWsteG9Bbzh1b2RTaHEwbHZrR09fZlNCUjNIMmxnaWVxaTA0SkxPMXQwV0pnM19WTVln0gF8QVVfeXFMTlhfZHYzbTFqZEV0a0FESjdWNXhZX0YzUDk4UHBEQjZjZFNzblRYV2VUZlVHUDk5UmhhMEJhbFcyX29lY0xfdnhVenF6dURyUGNkaE9Rbjc1dld6RjU4c2ZEdzRYSGhwWUxnLXo5TnpBbWxzMG1MdUFiVUkxYg?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Green Amid Hopes Of US-Iran Deal - NDTV
-  Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Green
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1Y4XzFSSlBGbktzQlU4Y2ZPN2QwUWxHbDY3bFFVVnl4dUMxS2FMRkpnNUh0M2VtQVJsNU5DWjZUYTNsV2ZqUkd2Y3VmZkxibmpWd05WeWtOcWJPYUw4VWZsZVZjcDlSbUltMDBhNlVpcW53UlBtOFhQdVpxSl9VOTdQNi1hSng2dC0zQ2c2alY0TGJSMVlXaWZnZWUzUUVsNlViT213aEtvQ2ZoOXM2TjFJdVhycFlKRExRN3Axd0JOTTRqSjZZZHM1ZE4?oc=5
+- Tech rout roils markets after SK Hynix profits disappoint - Financial Times
+  Tech rout roils markets after SK H
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNclJma2pldTJUYWJxWkY4aDdZRWJCamNsWUM2a2lLQThOMTFPU1V2N1E0dG9RVDg0Z0M3T2xpY0l4SDhLb25lTlB6VDNqRGF1eWVpZkZDLWhzeldOYWNPbEZEZ3FzbkxoMFNMUk83WHN3SGVHd2hJUHJ0Qnp2UHd1ZmRaOHQ?oc=5
 
-- Stock market ends flat; Sensex dips nearly 70 points - The Hindu
-  Stock market ends flat; Sensex dips
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDYzUFd5TTlYTng3WVVzU3RJdmpkWHBBWDBpRHlobHlfeEo3c05sNzZwY3lSWmlISlZnSDY0UzA0MXhwemtXT015a0pVYzVaaGdhYXBvSFRwVENUWVVfUTZxVlBRT1E1QkZCQ2xJZDhKejBBcDJ4MEQ2SWJ5Sk8xcjlPSTFyTkhVNmdnM3EwZU5uOTRxSWVQYktmT0VZcF9LSFFZZHRKdUNYd0tIZ05yTVg2Y9IBugFBVV95cUxQNU1iNjJ4UDZQNndpNHp0SFVsSWxPSkRiYjQxQ0pmMEt4ekVBVlFJX3c5Ujl5VnNkdmlaQ1RwRlFGNHJ6YTE2ZE5DWGhtSGJ1R05UZ0Y0YzlNSFBvNFhIWDVyT2NucXVEM1g1b0RzS0p2Z0J6bk01QjZvUEF6VHNkWGkxNmU3SlR4NmxzUFdQYlZxX1QxLXV3MGQ5VTdjMmdDMk1WMk9INUNvbnhmXzRLUmdxZlRVT3ZuckE?oc=5
+- NXP Semiconductors Second-Quarter Profit, Revenue Climb on Growth Across End Markets - WSJ
+  NXP Semiconductors Second-Qu
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVlLSFJhbEhDVDFpQVpHYjRTandrejllMHZIR0VYWmhFQk1yZV9jT0ZsYWFhZG5vbWN5TUJnUUZ1b1RnRl9jX1ROSXRvNUFRVW40dFhwMWNud0pwYjZ5bm5OajhXUF9pT2JRc1FnWk53a0Jqay1KcWlXUm1mSThYMVJhVVlBUkJyUWxiaF9HQkgzbXMyUjRVNFpqTHlHVzhYOGduTU84ZkNjeE5tQ1dwdG9BTWJUUTRQN3JUQ0NocFJ1dGZJYWNfWlFn?oc=5
 
-- Adani Energy QIP gets 3.1x bids
-  Adani Energy Solutions' issue was subscribed 3.1 times. Domestic mutual funds and insurers participated actively in the offering. Foreign investors like Manulife and Fiera Capital joined the placement.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-qip-gets-3-1x-bids/articleshow/132697527.cms
+- Global Market: European shares gain as miners, energy stocks lead; investors track Middle East tensions, earnings
+  European stocks saw a slight increase, driven by strong mining and energy sectors. Technology shares experienced a minor dip, reflecting investor caution on spending.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-gain-as-miners-energy-stocks-lead-investors-track-middle-east-tensions-earnings/articleshow/132705972.cms
 
-- Oil prices rebound by more than $2 a barrel on prospect of tightening US crude supplies
-  OPEC+ is expected to halt output increases starting in October. Shrinking U.S. crude inventories contributed to the price surge. Gasoline and distillate inventories saw modest increases.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rebound-by-more-than-2-a-barrel-on-prospect-of-tightening-us-crude-supplies/articleshow/132697532.cms
+- Global Earnings | Nomura's first-quarter profit jumps 39%, boosted by markets
+  Nomura Holdings experienced a remarkable 39% net income surge in the first quarter. The company also achieved record highs in investment banking revenue, reflecting a dynamic start to the year.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-earnings-nomuras-first-quarter-profit-jumps-39-boosted-by-markets/articleshow/132705888.cms
 
-- Rupee strengthens as crude oil prices fall
-  The Indian rupee strengthened against the dollar on Tuesday, closing at 95.84 per dollar. This gain followed a sharp rise on Monday, supported by falling Brent crude prices. Dollar sales by the Reserve Bank of India also bolstered the currency
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-strengthens-as-crude-oil-prices-fall/articleshow/132697239.cms
+- Devyani International Q1 profit zooms to Rs 17 cr
+  Devyani International has reported an impressive surge in net profit for the June quarter. Revenue increase of 16.47% to Rs 1,580.51 crore. They earlier announced a merger with Sapphire Foods India.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/devyani-international-q1-profit-zooms-to-rs-17-cr/articleshow/132705845.cms
 
-- UCO Bank plans $500-million overseas fundraise
-  UCO Bank plans to raise $500 million through foreign currency deposits and overseas borrowings. This move joins other lenders accessing the central bank's concessional funding window. The facility has already attracted over $32 billion in foreign currency inflows
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/uco-bank-plans-500-million-overseas-fundraise/articleshow/132697193.cms
+- Adani Group raises Rs 43,500 crore, now plans another $3-4 billion in 6 months
+  The Adani Group is planning to raise another $3–4 billion over the next six months. Adani Green, Adani Ports and Adani Enterprises are expected to lead the fundraising. Domestic mutual funds have raised their holdings in key
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-group-raises-rs-43500-crore-now-plans-another-3-4-billion-in-6-months/articleshow/132705701.cms
 
-- PPFAS valuation climbs after Rajeev Thakkar sells stake to WhiteOak AIF
-  PPFAS reported increased revenue and net profit in the last fiscal year. Rajeev Thakkar sold a stake in PPFAS to WhiteOak Capital's AIF. Promoters Neil and Khushboo Parikh also
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rajeev-thakkar-sells-small-stake-ppfas-gets-a-price-tag/articleshow/132697104.cms
+- Bitcoin slips near $63K as chip stock sell-off, ETF outflows, $510 million liquidations and Fed uncertainty weigh on sentiment
+  Bitcoin trades near $63,000 on Wednesday. Investors remain cautious ahead of the US Federal Reserve's rate decision and legislative delays surrounding the CLARITY Act.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-slips-near-63k-as-chip-stock-sell-off-etf-outflows-510-million-liquidations-and-fed-uncertainty-weigh-on-sentiment/articleshow/132705492.cms
 
-- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
-  Who is India’s new
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
+- U.S. Senate advances sanctions bill targeting Russian-Iranian oil buyers, including India and China - The Hindu
+  U.S. Senate advances sanctions bill targeting Russian-Iran
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcVQ5LXd2QzBhV0R4QW1rRGw0YUI0Zl9jNV9rQkFhZlp4YjJNX3NBeTczV0JqVHlLN2NvMVNfN3UwdjFoQ2Q5MWJtUzJRZXF5LXY3V0FoV1Q0QkR0QktvYkY0SkkxWVVKeGVaZ2NHTzY3Y19aUFZKc3luODBzYmZTd1NRdjYwSGdFWk5fbk1Vbzd0Z3FkbzVXemVzU21XbzdCZ29aMVd6cF9od0tsN2xfamtrcnUzTHExZ242Y2UtRVd5dE94TnNSdkhXY3RLdEZabVBGaXdHXzBmMDFHNlU3Q0lrbHNzMXU3bXFZZUQ0a1dGQdIB-AFBVV95cUxPaEhVLW12cDM5NlVsb1FtR05qYU1NTDJtT3pKN09oTHZMY21xRDk0eGxTd2lndlR6ZHp6UkZ3dHZKVGt2bEhLNFlCWW1UTVR4U0gxNmVyc281cExacWxIb2NYTFdOa0V0VjF0U3BxU3JrTlZ2ZElNelBpcDUxT3FiREc3aGltWUdDdHAzbnVJcGlTOHNIcHh5VzNQbFNacnhzQjltQ0hiLWI1Y1NWWF96V1lBUG1Jb1EtVTEtTFZ1bXhjbXN2cWRUWXBOQ29rYWhsaGFZR0NINVUySFkteXk2N2YtTUw2ZXozZGhDNnFIM2c3SG9TS2hUaA?oc=5
 
-- "Strange Reaction": Rahul Gandhi On Pralhad Joshi As Education Minister Pick - NDTV
-  "Strange Reaction": Rahul Gandhi On Pral
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQcjVuT2U1cnIyT01FUTM0ZlVQa3pUM1ZkWVd2VURsd3gycWl5T082UjBGOVNWeU5ZN0w1VTg5WXNIT083eHVzeEtZN1VDalFaYkxocENaSDZuX0NWOHR3OHFSU3RyeERhbjg4eWdlYVBTWGRYS3h0VmpPOUQ1X1NEb01MUFVFcTd0RUxhT3NtdjhranEyT3FKOTZvdWxfS2JpQ0ZERGVSR2lMM1ZHeWVVTzJDSzhuMnlSMEVSOFplczdfbDExRS0tOG40Y0J2TnFScFlEWDFWd2dabjY3dnJxeG1kXzRkZGhIRWlvam9aWjlpcnAzRHJScktqVWZxR3Z5Z09sU3dPSjJIRHBPa3ZkMdIBmAJBVV95cUxQV0tldnhpUzJ1YS04ekxFZnRYOVRCWmZCeTNFdkZmX3k4Y3NKczU3VHpiSEM0T2xKSGlTZjRWNVRFU0QwY2FLVDJpb2Y0cFphUVJGcTlDem9ENzBBTDVsSS1SeVVsNjRzVjBJQzRCYmk2d1JkQkhPSHd2NmF2LS12dGxiWU1hUTl1Vks0Z3RFUG1BdjctcmRuV1hyT0ZpbXQyUVZBemRUNkcxTDhNdW9OMFFoMWctNUozbDJ1WWVNbXowTlk4RDRrb1BiR3pKakFHYW13MXlHdW1jNlhtNUVya1lsR0x1NXI4VDhJNVoyYV9xc3VxMXl5c2RTNzRfZV9OMEphUnVQdmNnZWR4WWJaQmNMOHZzajdq?oc=5
+- US Senate Passes Russia Sanctions Bill Calling For 100% Tariffs On India, China - NDTV
+  US Senate Passes Russia Sanctions Bill Calling For 100
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVA2Qzk5VWwtdzE2QlhIWGlkWlZxbTFUaFJBUnhMWVBQSURWWm5GNVE3QU1GVndEY3dfOE1tSEtVNGdaYWw0NThSWUdhNkk3eXFRMzFzQ1BFdi15blVZclFxSUhzUV9wV1ZuOTFFZ1l3clJuQUFsZjliaUZpei16MEZEY0JBTEFZcGF4ZHNWM3hSZlFsbFdTZjVsZ0RQa1h3SmpXMDNjd2pzaDRuS2lFM0lFdkhhUFNnWkHSAcIBQVVfeXFMTmVsd0R2YmlUbUZHbG8tUnpWMHIwVjJfTG5HQzR2SEllWnNJT002NF8tcFRNYjJsMnYxLTJFZVNtMHhmRDRLa2FHanpuVnMzVmFKZ1hSVHFkMFd0WGpzY2lCNEdoeXVwUEt4bmhpTTV6R1AtNDhGTXZYVWF2LVhoV2NjZmhfX3FBSHh0Q1pLbGdiVlVXVkN5V3l1Q01FRTIyZU1Ob0JtanhON2NFdlpMOE9pU2lkYlNuRHE4XzZCWkVHUFE?oc=5
 
-- The Role That Never Existed: BJP Rejects Reports On Pradhan's Next Posting - The Times of India
-  The Times of India reported that the role that never Existed.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkFKMEZ1aWpBX29nT2RnbVQ0ZHNHc0tNNERXUUY3dUxicVZhZDZ4ZURUbFgxaHYzYmYydTJad25kUXBndFJJSVhNRmZSZGRMRk1JNG1qcEg3dVU2MWJKR3FOd2xDOFc2aEpmVUxTQ3Q0V3hRb05pUDVUSGM3U2ItR2MzYzl2aDJGYjhlcTN2cVplc29SdXdhdGpwdDVodUJDTTkyRmRHUjlSVWlUWHFQbHBvVzhPcUx6WUxhWjRXRUdPRUZVT2o2YV9ESGRDMHV3Wk1RakIxaG9mcFNQeXJRTVIzSUw1Q1RlVDNZZEhObjY2akQ5Y0puYjlkemFYUms?oc=5
-
-- Gen Z Could Be India's Most Powerful Voter Bloc By 2029. Numbers Explain Why - NDTV
-  Gen Z Could Be India's Most Powerful Voter Bloc By
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOaS0yZDRoTDZfQi1hRVpwZGRrM3ROZElCcUk4YUpWZF9jaGpxVUpNTkF3eHoxenNzOG1XOExSQlRULWRqMWwzbkZKbk0teVNjUzNZclVUY2pfUHpOVTRiRDhBeVpDRm51Mkc2LURtSnpmenZuUE1ndVktdHQyQkU5MVBKeWJ5MjQwRU5TSWRvVDNxLWwyaHZTWWNUSjlyQW9XLVBiQ3FDRHdhNzlwQ3VpWURJMHpkUdIBvgFBVV95cUxOV2N1a3hJb0d5bndmN3I2WFlaa0kya0xxYTlOOXZwZ3J3N3RVa3ZnUE43MVhLNXI5UXIzZWJhUzdveDVyaHNOMmljWkRfX2VQNGxlanV0eGVqN2kwb3JTTl9BV2lqWEY3WU14aXJObF9FaVI0dmdUN1pzTC1LU1NUcnZOT1BRckxRdG9LbTZkUGg5MHpTbGotRklUaThFbERKcnVNa0s1STRVS0d1MGM1azVndTlCTnVXbzhWYmRn?oc=5
-
-- CWG 2026: Gulveer Singh creates history, becomes first Indian to win Men's 10,000m medal - The Times of India
-  Gulveer Singh becomes first Indian to win Men's 10,000
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcU92MWxjMGh1d0pjQ3pOUWJSRFFmUzRoS0lzaFJWei1lbW95Z2ZwakR0NmdXQmxTMjNodFRNN2N3REs2TFVBNnRhcWRVMnZyRzdvdUZfSXVDX1R3ZGxrZE9UZ1ViVURSekNrVjNDdFdTeTVlZkpmZ3EwYkM0NFB2WU1RanR5RlJ1QUZ1b1MzT1E0UWRrMkNHUFM5NHo1S3lFSUFiT2tlOFY2bjNtZkJfYk03X29Cb21meHdKeHFyWmZhbVp1VmJod1cya1ZnZlI1aHE2TVhyRWRYWnAxaHhrSmVOcWRLWVRCa2thZTh1UHBqLW9XRVAtUXoxSTFOOEExaVNrSm05Y3jSAY4CQVVfeXFMT1p3VFpvOWdqcFNnaVl0VXZRZVhRdlNaZFJzdHRTSE9zejRSallVMkxDNXkzb1dDZEctZFItZC1qZWdMd2p0a2xsWkc3X2dTX3hNZVdMM21vLVNDYnJvZWJGVElJRnJLYlI5cDg5b3VGZW5ETWZfWXVfbWgzS1F1cW50MXBocFJLdGRET0FUTno0MXdRbm5mRE9MNXBEaFFabWptZElKa0pMWVFRMDBMQkVRTVJmbzlRZkFVSkNFVlZKcWI2NHkwME5TTFgwbkJGYXVWVC1zcDlvZ3BjNm5ZVm5QWVZQUGZkd3J3TWMwTXdHTUpVdGczNlhqSldMVnZTS0p5YjhNa2Y1bGViLTZ3?oc=5
-
-- AI Data Centres To Consumer 26.3 GW Power By FY32: MoS Power
-  The power ministry expects AI data centres to guzzle 26.3 gigawatts of power by fiscal year 2031-32 (FY32)
-  🔗 https://inc42.com/buzz/ai-data-centres-to-consumer-26-3-gw-power-by-fy32-mos-power/
-
-- SEDEMAC’s Q1 Profit Soars To ₹33 Cr, Revenue Up 43% YoY
-  SEDEMAC Mechatronics’ net profit zoomed 95.1% to ₹33.3 Cr in the first quarter (Q1) of the fiscal year.
-  🔗 https://inc42.com/buzz/sedemacs-q1-profit-soars-to-%e2%82%b933-cr-revenue-up-43-yoy/
-
-- Vishal Mega Mart Doubles Down On Quick Commerce Amid Retail Shift
-  Quick commerce players are expected to clock $68 Bn in GMV by 2031. Vishal Mega Mart is looking to double down.
-  🔗 https://inc42.com/buzz/vishal-mega-mart-doubles-down-on-quick-commerce-amid-retail-shift/
-
-- Centre Sets Up Inter-Ministerial Group To Form Financial Cybersecurity Strategy
-  Amid growing risks posed by AI models and rapid digitisation of banking and payments, the central government has constituted an advisory council.
-  🔗 https://inc42.com/buzz/centre-sets-up-inter-ministerial-group-to-form-financial-cybersecurity-strategy/
-
-- Cursor Doubles Down On India, Launches India-Specific AI Coding Plan
-  US-based AI coding major Cursor has introduced an India-only subscription plan, Cursor Start, priced at ₹649 per
-  🔗 https://inc42.com/buzz/cursor-doubles-down-on-india-launches-india-specific-ai-coding-plan/
+- India, China ‘main culprits’, key targets of Russia sanctions bill: US senator | India News - Hindustan Times
+  India, China ‘main culprits’, key targets of
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQXpEVlVQVEhmYWlzRmN0VmZRUWtnMEhrYUNpSlhDd29zc2plZDRwVm5TSzd6Nm10RzhFNGdwT0lzUVpPVHotakZDTEthMG9YRmN4R0RGMFFSSHVoOWRPY1M0d0pZaHVMR3h2WVg3Y0RwMG1tdFlMSVNxZ0RGbnZCdmFkd092aXZKVzZQNUE4ZTZFclo5cGFvSEZNOG52bVZMM3lqejNjSF9TR2NtWGZzRGZRb3VmeVNPczVtNFo4SGhhbERCT29fOG9DWlFLeF9jZWp6dmc1MmlLWVZ5QURzQ09XMkFhV0tRYVBhY016Y0JKM3REcDU2S1N0ZndadUFEV2xQcnhGdFbSAY4CQVVfeXFMUHBCUlYyS0REb0k1N2xBUVVtaVBuelc5ZFFpdEFsUFhxOEhrZmhGeFhSeFJIbk1GTEN5cFgwMks2QkNSUkIzYl9nVXRmYjFSLWJvejFCQ2I1bkVNRzVIYmJ4QXJlY3FQYWtCaWRyUmNJU0JMYmI4QmdZTXlYWTkxTFEtZnNlLVE2QzNlVENXRGFIOURtTVFlbjNmZmVnVDVOS2I4ck5IUFM0MDJWWkV0TnJLaUtKUnFydFZ0dzdmTFF3QV9JZU05c2JVM29lMDlZa0hJNmY3eHdtYTZVMXpLbF95TU41bFFrRGp4elYzQ216ZzE5aUIyYXpqem1ndUg4NEVNbzdCeFk5VktzVkVR?oc=5
 
 - Who is India’s new education minister Pralhad Joshi? - Al Jazeera
   Who is India’s new
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- "Strange Reaction": Rahul Gandhi On Pralhad Joshi As Education Minister Pick - NDTV
-  "Strange Reaction": Rahul Gandhi On Pral
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQcjVuT2U1cnIyT01FUTM0ZlVQa3pUM1ZkWVd2VURsd3gycWl5T082UjBGOVNWeU5ZN0w1VTg5WXNIT083eHVzeEtZN1VDalFaYkxocENaSDZuX0NWOHR3OHFSU3RyeERhbjg4eWdlYVBTWGRYS3h0VmpPOUQ1X1NEb01MUFVFcTd0RUxhT3NtdjhranEyT3FKOTZvdWxfS2JpQ0ZERGVSR2lMM1ZHeWVVTzJDSzhuMnlSMEVSOFplczdfbDExRS0tOG40Y0J2TnFScFlEWDFWd2dabjY3dnJxeG1kXzRkZGhIRWlvam9aWjlpcnAzRHJScktqVWZxR3Z5Z09sU3dPSjJIRHBPa3ZkMdIBmAJBVV95cUxQV0tldnhpUzJ1YS04ekxFZnRYOVRCWmZCeTNFdkZmX3k4Y3NKczU3VHpiSEM0T2xKSGlTZjRWNVRFU0QwY2FLVDJpb2Y0cFphUVJGcTlDem9ENzBBTDVsSS1SeVVsNjRzVjBJQzRCYmk2d1JkQkhPSHd2NmF2LS12dGxiWU1hUTl1Vks0Z3RFUG1BdjctcmRuV1hyT0ZpbXQyUVZBemRUNkcxTDhNdW9OMFFoMWctNUozbDJ1WWVNbXowTlk4RDRrb1BiR3pKakFHYW13MXlHdW1jNlhtNUVya1lsR0x1NXI4VDhJNVoyYV9xc3VxMXl5c2RTNzRfZV9OMEphUnVQdmNnZWR4WWJaQmNMOHZzajdq?oc=5
+- International Tiger Day 2026 being observed today; India leads global tiger conservation with nearly 70% of world’s tigers | Akashvani News - News On AIR
+  International Tiger Day 2026 being observed today. India leads global tiger conservation with nearly 70% of world�
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUlZHbjhyRkk3Vzl2dlVqcGplOXZTc21ZMGlheHV5dFo0T3JMSDQzVWNBcndKUUVpWkVwUVloV1lZd09hUDNnRXhnTGtkbVhaNzkyU0JLN1JMLUpCNGVPOGRmekcwNjZQWkFhR2VpZlFtRmdRWUpJT2cycjlER1g5RUZnM0FPN2UyR2h4b0g2STFUQ2RteG5GdC1keGFtcFdSZUJGVjAtU1A1V3RBZU12T09zQlFEUFhQZlhtYTFuZWJIOF9CNUh3SkNyWTMycmhqTk5jc1cxQ21XblVjSmc?oc=5
 
-- The Role That Never Existed: BJP Rejects Reports On Pradhan's Next Posting - The Times of India
-  The Times of India reported that the role that never Existed.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYkFKMEZ1aWpBX29nT2RnbVQ0ZHNHc0tNNERXUUY3dUxicVZhZDZ4ZURUbFgxaHYzYmYydTJad25kUXBndFJJSVhNRmZSZGRMRk1JNG1qcEg3dVU2MWJKR3FOd2xDOFc2aEpmVUxTQ3Q0V3hRb05pUDVUSGM3U2ItR2MzYzl2aDJGYjhlcTN2cVplc29SdXdhdGpwdDVodUJDTTkyRmRHUjlSVWlUWHFQbHBvVzhPcUx6WUxhWjRXRUdPRUZVT2o2YV9ESGRDMHV3Wk1RakIxaG9mcFNQeXJRTVIzSUw1Q1RlVDNZZEhObjY2akQ5Y0puYjlkemFYUms?oc=5
+- BharatGen CEO On Why Models Alone Can’t Help India Gain In The AI Race
+  With many homegrown foundation model initiatives competing for talent, compute and enterprise mindshare, the question of who will define the next generation of foundation models
+  🔗 https://inc42.com/features/bharatgen-ceo-on-why-models-alone-cant-help-india-gain-in-the-ai-race/
 
-- Gen Z Could Be India's Most Powerful Voter Bloc By 2029. Numbers Explain Why - NDTV
-  Gen Z Could Be India's Most Powerful Voter Bloc By
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOaS0yZDRoTDZfQi1hRVpwZGRrM3ROZElCcUk4YUpWZF9jaGpxVUpNTkF3eHoxenNzOG1XOExSQlRULWRqMWwzbkZKbk0teVNjUzNZclVUY2pfUHpOVTRiRDhBeVpDRm51Mkc2LURtSnpmenZuUE1ndVktdHQyQkU5MVBKeWJ5MjQwRU5TSWRvVDNxLWwyaHZTWWNUSjlyQW9XLVBiQ3FDRHdhNzlwQ3VpWURJMHpkUdIBvgFBVV95cUxOV2N1a3hJb0d5bndmN3I2WFlaa0kya0xxYTlOOXZwZ3J3N3RVa3ZnUE43MVhLNXI5UXIzZWJhUzdveDVyaHNOMmljWkRfX2VQNGxlanV0eGVqN2kwb3JTTl9BV2lqWEY3WU14aXJObF9FaVI0dmdUN1pzTC1LU1NUcnZOT1BRckxRdG9LbTZkUGg5MHpTbGotRklUaThFbERKcnVNa0s1STRVS0d1MGM1azVndTlCTnVXbzhWYmRn?oc=5
+- Building Materials Quick Commerce Startup Fixxly Raises $5.5 Mn
+  Building materials quick commerce startup Fixxly has raised $5.5 Mn (₹52.6 Cr) in a seed funding round from Accel, Fireside and
+  🔗 https://inc42.com/buzz/building-materials-quick-commerce-startup-fixxly-raises-5-5-mn/
 
-- CWG 2026: Gulveer Singh creates history, becomes first Indian to win Men's 10,000m medal - The Times of India
-  Gulveer Singh becomes first Indian to win Men's 10,000
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcU92MWxjMGh1d0pjQ3pOUWJSRFFmUzRoS0lzaFJWei1lbW95Z2ZwakR0NmdXQmxTMjNodFRNN2N3REs2TFVBNnRhcWRVMnZyRzdvdUZfSXVDX1R3ZGxrZE9UZ1ViVURSekNrVjNDdFdTeTVlZkpmZ3EwYkM0NFB2WU1RanR5RlJ1QUZ1b1MzT1E0UWRrMkNHUFM5NHo1S3lFSUFiT2tlOFY2bjNtZkJfYk03X29Cb21meHdKeHFyWmZhbVp1VmJod1cya1ZnZlI1aHE2TVhyRWRYWnAxaHhrSmVOcWRLWVRCa2thZTh1UHBqLW9XRVAtUXoxSTFOOEExaVNrSm05Y3jSAY4CQVVfeXFMT1p3VFpvOWdqcFNnaVl0VXZRZVhRdlNaZFJzdHRTSE9zejRSallVMkxDNXkzb1dDZEctZFItZC1qZWdMd2p0a2xsWkc3X2dTX3hNZVdMM21vLVNDYnJvZWJGVElJRnJLYlI5cDg5b3VGZW5ETWZfWXVfbWgzS1F1cW50MXBocFJLdGRET0FUTno0MXdRbm5mRE9MNXBEaFFabWptZElKa0pMWVFRMDBMQkVRTVJmbzlRZkFVSkNFVlZKcWI2NHkwME5TTFgwbkJGYXVWVC1zcDlvZ3BjNm5ZVm5QWVZQUGZkd3J3TWMwTXdHTUpVdGczNlhqSldMVnZTS0p5YjhNa2Y1bGViLTZ3?oc=5
+- CarTrade Q1: Profit Jumps 21% To ₹57 Cr, Revenue Up 16% YoY
+  Auto classified platform CarTrade’s consolidated net profit jumped 20.6% to ₹56.8 Cr in the first quarter of FY27.
+  🔗 https://inc42.com/buzz/cartrade-q1-profit-jumps-21-to-%e2%82%b957-cr-revenue-up-16-yoy/
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- The AI Layer Powering India’s Farms
+  AI detects a farmer&#8217;s field has been irrigated and automatically shuts off the tubewell.
+  🔗 https://inc42.com/features/the-ai-layer-powering-indias-farms/
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Anicut Capital Floats ₹250 Cr Fund To Back 20 Early Stage Startups
+  Anicut Capital has launched its second early-stage investment vehicle, Grand Anicut Seed Fund, with a target corpus&#8230.
+  🔗 https://inc42.com/buzz/anicut-capital-floats-%e2%82%b9250-cr-fund-to-back-20-early-stage-startups/
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- U.S. Senate advances sanctions bill targeting Russian-Iranian oil buyers, including India and China - The Hindu
+  U.S. Senate advances sanctions bill targeting Russian-Iran
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcVQ5LXd2QzBhV0R4QW1rRGw0YUI0Zl9jNV9rQkFhZlp4YjJNX3NBeTczV0JqVHlLN2NvMVNfN3UwdjFoQ2Q5MWJtUzJRZXF5LXY3V0FoV1Q0QkR0QktvYkY0SkkxWVVKeGVaZ2NHTzY3Y19aUFZKc3luODBzYmZTd1NRdjYwSGdFWk5fbk1Vbzd0Z3FkbzVXemVzU21XbzdCZ29aMVd6cF9od0tsN2xfamtrcnUzTHExZ242Y2UtRVd5dE94TnNSdkhXY3RLdEZabVBGaXdHXzBmMDFHNlU3Q0lrbHNzMXU3bXFZZUQ0a1dGQdIB-AFBVV95cUxPaEhVLW12cDM5NlVsb1FtR05qYU1NTDJtT3pKN09oTHZMY21xRDk0eGxTd2lndlR6ZHp6UkZ3dHZKVGt2bEhLNFlCWW1UTVR4U0gxNmVyc281cExacWxIb2NYTFdOa0V0VjF0U3BxU3JrTlZ2ZElNelBpcDUxT3FiREc3aGltWUdDdHAzbnVJcGlTOHNIcHh5VzNQbFNacnhzQjltQ0hiLWI1Y1NWWF96V1lBUG1Jb1EtVTEtTFZ1bXhjbXN2cWRUWXBOQ29rYWhsaGFZR0NINVUySFkteXk2N2YtTUw2ZXozZGhDNnFIM2c3SG9TS2hUaA?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- US Senate Passes Russia Sanctions Bill Calling For 100% Tariffs On India, China - NDTV
+  US Senate Passes Russia Sanctions Bill Calling For 100
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVA2Qzk5VWwtdzE2QlhIWGlkWlZxbTFUaFJBUnhMWVBQSURWWm5GNVE3QU1GVndEY3dfOE1tSEtVNGdaYWw0NThSWUdhNkk3eXFRMzFzQ1BFdi15blVZclFxSUhzUV9wV1ZuOTFFZ1l3clJuQUFsZjliaUZpei16MEZEY0JBTEFZcGF4ZHNWM3hSZlFsbFdTZjVsZ0RQa1h3SmpXMDNjd2pzaDRuS2lFM0lFdkhhUFNnWkHSAcIBQVVfeXFMTmVsd0R2YmlUbUZHbG8tUnpWMHIwVjJfTG5HQzR2SEllWnNJT002NF8tcFRNYjJsMnYxLTJFZVNtMHhmRDRLa2FHanpuVnMzVmFKZ1hSVHFkMFd0WGpzY2lCNEdoeXVwUEt4bmhpTTV6R1AtNDhGTXZYVWF2LVhoV2NjZmhfX3FBSHh0Q1pLbGdiVlVXVkN5V3l1Q01FRTIyZU1Ob0JtanhON2NFdlpMOE9pU2lkYlNuRHE4XzZCWkVHUFE?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- India, China ‘main culprits’, key targets of Russia sanctions bill: US senator | India News - Hindustan Times
+  India, China ‘main culprits’, key targets of
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQXpEVlVQVEhmYWlzRmN0VmZRUWtnMEhrYUNpSlhDd29zc2plZDRwVm5TSzd6Nm10RzhFNGdwT0lzUVpPVHotakZDTEthMG9YRmN4R0RGMFFSSHVoOWRPY1M0d0pZaHVMR3h2WVg3Y0RwMG1tdFlMSVNxZ0RGbnZCdmFkd092aXZKVzZQNUE4ZTZFclo5cGFvSEZNOG52bVZMM3lqejNjSF9TR2NtWGZzRGZRb3VmeVNPczVtNFo4SGhhbERCT29fOG9DWlFLeF9jZWp6dmc1MmlLWVZ5QURzQ09XMkFhV0tRYVBhY016Y0JKM3REcDU2S1N0ZndadUFEV2xQcnhGdFbSAY4CQVVfeXFMUHBCUlYyS0REb0k1N2xBUVVtaVBuelc5ZFFpdEFsUFhxOEhrZmhGeFhSeFJIbk1GTEN5cFgwMks2QkNSUkIzYl9nVXRmYjFSLWJvejFCQ2I1bkVNRzVIYmJ4QXJlY3FQYWtCaWRyUmNJU0JMYmI4QmdZTXlYWTkxTFEtZnNlLVE2QzNlVENXRGFIOURtTVFlbjNmZmVnVDVOS2I4ck5IUFM0MDJWWkV0TnJLaUtKUnFydFZ0dzdmTFF3QV9JZU05c2JVM29lMDlZa0hJNmY3eHdtYTZVMXpLbF95TU41bFFrRGp4elYzQ216ZzE5aUIyYXpqem1ndUg4NEVNbzdCeFk5VktzVkVR?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
+  Who is India’s new
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- International Tiger Day 2026 being observed today; India leads global tiger conservation with nearly 70% of world’s tigers | Akashvani News - News On AIR
+  International Tiger Day 2026 being observed today. India leads global tiger conservation with nearly 70% of world�
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUlZHbjhyRkk3Vzl2dlVqcGplOXZTc21ZMGlheHV5dFo0T3JMSDQzVWNBcndKUUVpWkVwUVloV1lZd09hUDNnRXhnTGtkbVhaNzkyU0JLN1JMLUpCNGVPOGRmekcwNjZQWkFhR2VpZlFtRmdRWUpJT2cycjlER1g5RUZnM0FPN2UyR2h4b0g2STFUQ2RteG5GdC1keGFtcFdSZUJGVjAtU1A1V3RBZU12T09zQlFEUFhQZlhtYTFuZWJIOF9CNUh3SkNyWTMycmhqTk5jc1cxQ21XblVjSmc?oc=5
+
+- U.S. Senate advances sanctions bill targeting Russian-Iranian oil buyers, including India and China - The Hindu
+  U.S. Senate advances sanctions bill targeting Russian-Iran
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcVQ5LXd2QzBhV0R4QW1rRGw0YUI0Zl9jNV9rQkFhZlp4YjJNX3NBeTczV0JqVHlLN2NvMVNfN3UwdjFoQ2Q5MWJtUzJRZXF5LXY3V0FoV1Q0QkR0QktvYkY0SkkxWVVKeGVaZ2NHTzY3Y19aUFZKc3luODBzYmZTd1NRdjYwSGdFWk5fbk1Vbzd0Z3FkbzVXemVzU21XbzdCZ29aMVd6cF9od0tsN2xfamtrcnUzTHExZ242Y2UtRVd5dE94TnNSdkhXY3RLdEZabVBGaXdHXzBmMDFHNlU3Q0lrbHNzMXU3bXFZZUQ0a1dGQdIB-AFBVV95cUxPaEhVLW12cDM5NlVsb1FtR05qYU1NTDJtT3pKN09oTHZMY21xRDk0eGxTd2lndlR6ZHp6UkZ3dHZKVGt2bEhLNFlCWW1UTVR4U0gxNmVyc281cExacWxIb2NYTFdOa0V0VjF0U3BxU3JrTlZ2ZElNelBpcDUxT3FiREc3aGltWUdDdHAzbnVJcGlTOHNIcHh5VzNQbFNacnhzQjltQ0hiLWI1Y1NWWF96V1lBUG1Jb1EtVTEtTFZ1bXhjbXN2cWRUWXBOQ29rYWhsaGFZR0NINVUySFkteXk2N2YtTUw2ZXozZGhDNnFIM2c3SG9TS2hUaA?oc=5
+
+- US Senate Passes Russia Sanctions Bill Calling For 100% Tariffs On India, China - NDTV
+  US Senate Passes Russia Sanctions Bill Calling For 100
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVA2Qzk5VWwtdzE2QlhIWGlkWlZxbTFUaFJBUnhMWVBQSURWWm5GNVE3QU1GVndEY3dfOE1tSEtVNGdaYWw0NThSWUdhNkk3eXFRMzFzQ1BFdi15blVZclFxSUhzUV9wV1ZuOTFFZ1l3clJuQUFsZjliaUZpei16MEZEY0JBTEFZcGF4ZHNWM3hSZlFsbFdTZjVsZ0RQa1h3SmpXMDNjd2pzaDRuS2lFM0lFdkhhUFNnWkHSAcIBQVVfeXFMTmVsd0R2YmlUbUZHbG8tUnpWMHIwVjJfTG5HQzR2SEllWnNJT002NF8tcFRNYjJsMnYxLTJFZVNtMHhmRDRLa2FHanpuVnMzVmFKZ1hSVHFkMFd0WGpzY2lCNEdoeXVwUEt4bmhpTTV6R1AtNDhGTXZYVWF2LVhoV2NjZmhfX3FBSHh0Q1pLbGdiVlVXVkN5V3l1Q01FRTIyZU1Ob0JtanhON2NFdlpMOE9pU2lkYlNuRHE4XzZCWkVHUFE?oc=5
+
+- India, China ‘main culprits’, key targets of Russia sanctions bill: US senator | India News - Hindustan Times
+  India, China ‘main culprits’, key targets of
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQXpEVlVQVEhmYWlzRmN0VmZRUWtnMEhrYUNpSlhDd29zc2plZDRwVm5TSzd6Nm10RzhFNGdwT0lzUVpPVHotakZDTEthMG9YRmN4R0RGMFFSSHVoOWRPY1M0d0pZaHVMR3h2WVg3Y0RwMG1tdFlMSVNxZ0RGbnZCdmFkd092aXZKVzZQNUE4ZTZFclo5cGFvSEZNOG52bVZMM3lqejNjSF9TR2NtWGZzRGZRb3VmeVNPczVtNFo4SGhhbERCT29fOG9DWlFLeF9jZWp6dmc1MmlLWVZ5QURzQ09XMkFhV0tRYVBhY016Y0JKM3REcDU2S1N0ZndadUFEV2xQcnhGdFbSAY4CQVVfeXFMUHBCUlYyS0REb0k1N2xBUVVtaVBuelc5ZFFpdEFsUFhxOEhrZmhGeFhSeFJIbk1GTEN5cFgwMks2QkNSUkIzYl9nVXRmYjFSLWJvejFCQ2I1bkVNRzVIYmJ4QXJlY3FQYWtCaWRyUmNJU0JMYmI4QmdZTXlYWTkxTFEtZnNlLVE2QzNlVENXRGFIOURtTVFlbjNmZmVnVDVOS2I4ck5IUFM0MDJWWkV0TnJLaUtKUnFydFZ0dzdmTFF3QV9JZU05c2JVM29lMDlZa0hJNmY3eHdtYTZVMXpLbF95TU41bFFrRGp4elYzQ216ZzE5aUIyYXpqem1ndUg4NEVNbzdCeFk5VktzVkVR?oc=5
+
+- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
+  Who is India’s new
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
+
+- International Tiger Day 2026 being observed today; India leads global tiger conservation with nearly 70% of world’s tigers | Akashvani News - News On AIR
+  International Tiger Day 2026 being observed today. India leads global tiger conservation with nearly 70% of world�
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUlZHbjhyRkk3Vzl2dlVqcGplOXZTc21ZMGlheHV5dFo0T3JMSDQzVWNBcndKUUVpWkVwUVloV1lZd09hUDNnRXhnTGtkbVhaNzkyU0JLN1JMLUpCNGVPOGRmekcwNjZQWkFhR2VpZlFtRmdRWUpJT2cycjlER1g5RUZnM0FPN2UyR2h4b0g2STFUQ2RteG5GdC1keGFtcFdSZUJGVjAtU1A1V3RBZU12T09zQlFEUFhQZlhtYTFuZWJIOF9CNUh3SkNyWTMycmhqTk5jc1cxQ21XblVjSmc?oc=5
+
+- U.S. Senate advances sanctions bill targeting Russian-Iranian oil buyers, including India and China - The Hindu
+  U.S. Senate advances sanctions bill targeting Russian-Iran
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcVQ5LXd2QzBhV0R4QW1rRGw0YUI0Zl9jNV9rQkFhZlp4YjJNX3NBeTczV0JqVHlLN2NvMVNfN3UwdjFoQ2Q5MWJtUzJRZXF5LXY3V0FoV1Q0QkR0QktvYkY0SkkxWVVKeGVaZ2NHTzY3Y19aUFZKc3luODBzYmZTd1NRdjYwSGdFWk5fbk1Vbzd0Z3FkbzVXemVzU21XbzdCZ29aMVd6cF9od0tsN2xfamtrcnUzTHExZ242Y2UtRVd5dE94TnNSdkhXY3RLdEZabVBGaXdHXzBmMDFHNlU3Q0lrbHNzMXU3bXFZZUQ0a1dGQdIB-AFBVV95cUxPaEhVLW12cDM5NlVsb1FtR05qYU1NTDJtT3pKN09oTHZMY21xRDk0eGxTd2lndlR6ZHp6UkZ3dHZKVGt2bEhLNFlCWW1UTVR4U0gxNmVyc281cExacWxIb2NYTFdOa0V0VjF0U3BxU3JrTlZ2ZElNelBpcDUxT3FiREc3aGltWUdDdHAzbnVJcGlTOHNIcHh5VzNQbFNacnhzQjltQ0hiLWI1Y1NWWF96V1lBUG1Jb1EtVTEtTFZ1bXhjbXN2cWRUWXBOQ29rYWhsaGFZR0NINVUySFkteXk2N2YtTUw2ZXozZGhDNnFIM2c3SG9TS2hUaA?oc=5
+
+- US Senate Passes Russia Sanctions Bill Calling For 100% Tariffs On India, China - NDTV
+  US Senate Passes Russia Sanctions Bill Calling For 100
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVA2Qzk5VWwtdzE2QlhIWGlkWlZxbTFUaFJBUnhMWVBQSURWWm5GNVE3QU1GVndEY3dfOE1tSEtVNGdaYWw0NThSWUdhNkk3eXFRMzFzQ1BFdi15blVZclFxSUhzUV9wV1ZuOTFFZ1l3clJuQUFsZjliaUZpei16MEZEY0JBTEFZcGF4ZHNWM3hSZlFsbFdTZjVsZ0RQa1h3SmpXMDNjd2pzaDRuS2lFM0lFdkhhUFNnWkHSAcIBQVVfeXFMTmVsd0R2YmlUbUZHbG8tUnpWMHIwVjJfTG5HQzR2SEllWnNJT002NF8tcFRNYjJsMnYxLTJFZVNtMHhmRDRLa2FHanpuVnMzVmFKZ1hSVHFkMFd0WGpzY2lCNEdoeXVwUEt4bmhpTTV6R1AtNDhGTXZYVWF2LVhoV2NjZmhfX3FBSHh0Q1pLbGdiVlVXVkN5V3l1Q01FRTIyZU1Ob0JtanhON2NFdlpMOE9pU2lkYlNuRHE4XzZCWkVHUFE?oc=5
+
+- India, China ‘main culprits’, key targets of Russia sanctions bill: US senator | India News - Hindustan Times
+  India, China ‘main culprits’, key targets of
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQXpEVlVQVEhmYWlzRmN0VmZRUWtnMEhrYUNpSlhDd29zc2plZDRwVm5TSzd6Nm10RzhFNGdwT0lzUVpPVHotakZDTEthMG9YRmN4R0RGMFFSSHVoOWRPY1M0d0pZaHVMR3h2WVg3Y0RwMG1tdFlMSVNxZ0RGbnZCdmFkd092aXZKVzZQNUE4ZTZFclo5cGFvSEZNOG52bVZMM3lqejNjSF9TR2NtWGZzRGZRb3VmeVNPczVtNFo4SGhhbERCT29fOG9DWlFLeF9jZWp6dmc1MmlLWVZ5QURzQ09XMkFhV0tRYVBhY016Y0JKM3REcDU2S1N0ZndadUFEV2xQcnhGdFbSAY4CQVVfeXFMUHBCUlYyS0REb0k1N2xBUVVtaVBuelc5ZFFpdEFsUFhxOEhrZmhGeFhSeFJIbk1GTEN5cFgwMks2QkNSUkIzYl9nVXRmYjFSLWJvejFCQ2I1bkVNRzVIYmJ4QXJlY3FQYWtCaWRyUmNJU0JMYmI4QmdZTXlYWTkxTFEtZnNlLVE2QzNlVENXRGFIOURtTVFlbjNmZmVnVDVOS2I4ck5IUFM0MDJWWkV0TnJLaUtKUnFydFZ0dzdmTFF3QV9JZU05c2JVM29lMDlZa0hJNmY3eHdtYTZVMXpLbF95TU41bFFrRGp4elYzQ216ZzE5aUIyYXpqem1ndUg4NEVNbzdCeFk5VktzVkVR?oc=5
+
+- Who is India’s new education minister Pralhad Joshi? - Al Jazeera
+  Who is India’s new
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWtHMVVMb1NmUGVpanp3Zko1RW1aOXFrVnVlOHB1dUZmNjhhU282SzB1M3JKUlU3VTJ2eGlDWlFfM0FIMjlvYXhnanNqa0hvUHlJZkV2aEU5NGw5c2pMSXJlM2NLakg0djl2Y29PRWtLeVc3ZTRtNzBVUmlfMTNrUUpOM1hoWWREMTVaMVZPQmtsckhOb1HSAZsBQVVfeXFMTmJQb2hxSkZtcjJ1YU5Mam0yZENaaEZFeDVfMU5scklKd3kzcWZIcnEtSGt3dnR6NzdwVlpna2NSOUNISUNXQTlac3pxWGFYTUdlbUE3QUpLV2FqZnFNaGNyRGZ6Y2VWend3Snl4NU1IN0dDcnlPNlllQ04tanRtUW9tMTRUQ09fRWZzT3NURHF3WUdnVmM4OHVVY1U?oc=5
+
+- International Tiger Day 2026 being observed today; India leads global tiger conservation with nearly 70% of world’s tigers | Akashvani News - News On AIR
+  International Tiger Day 2026 being observed today. India leads global tiger conservation with nearly 70% of world�
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUlZHbjhyRkk3Vzl2dlVqcGplOXZTc21ZMGlheHV5dFo0T3JMSDQzVWNBcndKUUVpWkVwUVloV1lZd09hUDNnRXhnTGtkbVhaNzkyU0JLN1JMLUpCNGVPOGRmekcwNjZQWkFhR2VpZlFtRmdRWUpJT2cycjlER1g5RUZnM0FPN2UyR2h4b0g2STFUQ2RteG5GdC1keGFtcFdSZUJGVjAtU1A1V3RBZU12T09zQlFEUFhQZlhtYTFuZWJIOF9CNUh3SkNyWTMycmhqTk5jc1cxQ21XblVjSmc?oc=5
 
 
-_Last updated: 2026-07-29 02:07:14 UTC_
+_Last updated: 2026-07-29 08:35:16 UTC_
