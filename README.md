@@ -1,104 +1,152 @@
 # 📰 Daily News Summaries
 
-- 3 lured to Thailand with holiday trip, held for ransom; 5 Indians arrested
+- Odisha on high alert for flood as Mahanadi level rises; over 6 lakh hit
   
-  🔗 https://indianexpress.com/article/india/3-lured-to-thailand-with-holiday-trip-held-for-ransom-5-indians-arrested-10809665/
+  🔗 https://indianexpress.com/article/india/odisha-flood-alert-mahanadi-river-10810126/
 
-- Assam redraws who counts as an ‘original inhabitant’ in heritage land law
+- PM Modi’s key meeting at Parliament with top ministers, Ajit Doval
   
-  🔗 https://indianexpress.com/article/india/assam-original-inhabitants-heritage-land-bill-himanta-biswa-sarma-10809635/
+  🔗 https://indianexpress.com/article/india/pm-modi-chairs-meeting-with-top-ministers-in-parliament-including-defence-foreign-national-security-advisor-ajit-doval-10810171/
 
-- Rescued Ajmer girl faces ‘harassment’ from neighbours, police say probing
+- 78 dead in Assam floods; heavy rain forecast has state on edge
   
-  🔗 https://indianexpress.com/article/india/ajmer-minor-forced-marriage-trafficking-case-10809623/
+  🔗 https://indianexpress.com/article/india/assam-floods-more-rain-78-dead-waterlogging-10809949/
 
-- Exclusive | ‘Did you shout Free Umar Khalid slogan?’: Goa police make protesters fill 240-point questionnaire
+- ‘He had no role’: Kerala Vigilance Bureau drops 2018 case against CM Satheesan
   
-  🔗 https://indianexpress.com/article/india/exclusive-did-you-shout-free-umar-khalid-slogan-goa-police-make-protesters-fill-240-point-questionnaire-10809622/
+  🔗 https://indianexpress.com/article/india/kerala-vigilance-bureau-drops-probe-cm-satheesan-2018-10810116/
 
-- Amid Opposition protest, Rajya Sabha passes Bill criminalising insult to Vande Mataram
+- ‘Preserve ammunition log’: Supreme Court notice to Centre in pellet gun row
   
-  🔗 https://indianexpress.com/article/india/amid-opposition-protest-rajya-sabha-passes-bill-criminalising-insult-to-vande-mataram-10809694/
+  🔗 https://indianexpress.com/article/india/supreme-court-centre-raf-pellet-gun-records-jantar-mantar-protests-10810045/
 
-- Ex-ante competition rules for cloud services sees pushback from 60% stakeholders: CUTS study
+- UK competition regulator probes whether Microsoft misled personal, family customers
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ex-ante-competition-rules-cloud-services-pushback-cuts-study-10809048/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/uk-competition-regulator-investigates-whether-microsoft-misled-personal-and-family-customers-10810079/
 
-- Google launches Gemini Spark, a 24/7 personal AI agent, in India
+- Google to expand Play Store age-verification tool globally: What it means for users
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-launches-gemini-spark-24-7-personal-ai-agent-india-10808833/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-expands-play-store-age-verification-globally-10810061/
 
-- Apple briefly tops $5 trillion market value, becoming second company to hit milestone
+- Humanoid robot, powered by Qualcomm’s AI chips, collapses during Taipei event
   
-  🔗 https://indianexpress.com/article/technology/apple-briefly-tops-5-trillion-market-value-becoming-second-company-to-hit-milestone-10808760/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/humanoid-robot-powered-by-qualcomm-ai-chips-collapses-during-taipei-computex-event-10809988/
 
-- OpenAI, Google, Meta staff sign letter calling for mechanisms to pace AI progress
+- Meta’s profit falls 14% as AI spending continues
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-meta-employees-letter-slow-ai-development-10808642/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/metas-profit-falls-14-as-ai-spending-continues-10809847/
 
-- An iPhone on lease? Apple just made ownership optional
+- OpenAI’s Sam Altman discusses rogue agent with US senators, as Trump considers AI controls
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-upgrade-iphone-leasing-programme-us-customers-10808448/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openais-sam-altman-discusses-rogue-agent-with-us-senators-as-trump-considers-ai-controls-10809842/
+
+- Mint Explainer: How the govt plans to tackle delayed payments to MSMEs with tighter arbitration timelines
+  A new bill aims to tackle the issue of delayed payments that hinder small businesses in India. It seeks to establish additional state-run dispute resolution centres.
+  🔗 https://www.livemint.com/companies/news/msme-delayed-payments-amendment-bill-2026-mint-explainer-11785385218121.html
+
+- This startup's next-gen engine may power India's defence ambitions
+  India's dependence on foreign engine suppliers extends beyond procurement to maintenance, spare parts and upgrades. Develop
+  🔗 https://www.livemint.com/companies/d-propulse-rotating-detonation-engine-rde-india-defence-startup-11785302153442.html
+
+- How VinFast’s home-market playbook is driving early success in India
+  VinFast was among India’s top five EV makers in its first year. Captive orders from
+  🔗 https://www.livemint.com/companies/news/vinfast-india-sales-greensm-ride-hailing-ev-market-11785296839695.html
+
+- Privacy row aside, Pronto bets big on robot-trainer camera biz
+  The startup expects it to generate most of its revenue within five years. Pronto is betting that opt-in in-home recordings can power a fast-growing physical AI data
+  🔗 https://www.livemint.com/companies/pronto-verified-house-help-ai-labs-robot-app-11785201740257.html
+
+- ChrysCapital acquires a controlling stake in Novartis India, appoints new CEO
+  The acquisition marks ChrysCapital's first
+  🔗 https://www.livemint.com/companies/news/chryscapital-acquires-a-controlling-stake-in-novartis-india-appoints-new-ceo-pharma-acquisition-healthcare-11785344404921.html
+
+- Asian Paints Q1 gives a fresh coat of hope, but there’s no room for complacency yet
+  Asian Paints delivered its strongest growth in four years in Q1. But rising competition, raw material volatility and rich valuations leave little
+  🔗 https://www.livemint.com/market/mark-to-market/asian-paints-q1-gives-a-fresh-coat-of-hope-but-no-room-for-complacency-yet-11785394073164.html
+
+- HPCL, BPCL to IOCL — oil PSU stocks dip as crude price jumps above $90/bbl
+  HPCL share price emerged as the top laggard, falling as much as 1% on NSE. Other PSU OMCs
+  🔗 https://www.livemint.com/market/stock-market-news/hpcl-bpcl-to-iocl-oil-psu-stocks-dip-as-crude-price-jumps-above-90bbl-11785396163811.html
+
+- M&amp;M Q1 Results: Net profit surges 34% YoY to  ₹5,455 crore
+  M&amp;amp
+  🔗 https://www.livemint.com/market/stock-market-news/mm-q1-results-pat-surges-34-yoy-to-rs-5-454-54-crore-11785392705759.html
+
+- Brent climbs above $90 a barrel as fresh US-Iran conflict raises risks for India
+  Escalating tensions in West Asia are pushing &amp;nbsp;crude oil prices higher. This is threatening to inf
+  🔗 https://www.livemint.com/market/commodities/brent-crosses-90-a-bbl-as-us-resumes-attacks-on-iran-11785395024154.html
+
+- Dhaval Packaging IPO Day 1: Issue booked 26% so far. Check GMP, issue details
+  Dhaval Packaging IPO began on July 30 and ends August 3, with shares priced between  ₹92-97. Established in 2015, it specializes in
+  🔗 https://www.livemint.com/market/ipo/dhaval-packaging-ipo-day-1-issue-booked-26-so-far-check-gmp-issue-details-11785395065895.html
+
+- AI to strengthen enterprise software firms, not replace them: Goldman Sachs
+  The growing adoption of AI is expected to increase the value of enterprise data systems and the contextual intelligence built around them, according to a Goldman Sachs report.
+  🔗 https://www.livemint.com/technology/ai-to-strengthen-enterprise-software-firms-not-replace-them-goldman-sachs-11785392695870.html
+
+- Google brings Gemini to Google Pay: What is Ask Google Pay and how does it work?
+  Google Pay introduces Gemini-based feature, Ask Google Pay. Users must opt-in
+  🔗 https://www.livemint.com/technology/tech-news/google-brings-gemini-to-google-pay-what-is-ask-google-pay-and-how-does-it-work-11785381967267.html
+
+- India needs more AI champions to take technology to masses: Paytm CEO Vijay Shekhar Sharma
+  India needs many more artificial intelligence (AI) champions that can take technology to the grassroots and the masses, Paytm Founder and Chief Executive Officer Vijay Shekhar Sharma said.
+  🔗 https://www.livemint.com/technology/india-needs-more-ai-champions-to-take-technology-to-masses-paytm-ceo-vijay-shekhar-sharma-11785381751228.html
+
+- Time-and-materials outsourcing model losing relevance in AI era: 8090 CEO Chamath Palihapitiya
+  8090 Co-founder and CEO Chamath Palihapitiya says the traditional time-and-materials outsourcing model is
+  🔗 https://www.livemint.com/technology/timeandmaterials-outsourcing-model-losing-relevance-in-ai-era-8090-ceo-chamath-palihapitiya-11785377778856.html
+
+- OpenAI's Sam Altman discusses rogue agent with US senators, as Trump considers AI controls
+  OpenAI's Sam Altman discusses rogue agent
+  🔗 https://www.livemint.com/technology/openais-sam-altman-discusses-rogue-agent-with-us-senators-as-trump-considers-ai-controls-11785355730888.html
+
+- M&amp;M Q1 Results: Profit rises 7% YoY to Rs 3,685 crore; revenue jumps 23%
+  Mahindra and Mahindra reported 7% year-on-year
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mm-q1-results-profit-rises-7-yoy-to-rs-3685-crore-revenue-jumps-23/articleshow/132732129.cms
+
+- ITC Q1 Preview: Will cigarette tax shock drag profit lower despite FMCG strength?
+  ITC is expected to report a weak Q1FY27 as the first full-quarter impact of the new cigarette tax regime weighs on volumes and profitability. While the FMCG business is likely to deliver healthy growth, broker
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q1-preview-will-cigarette-tax-shock-drag-profit-lower-despite-fmcg-strength/articleshow/132731989.cms
+
+- Global Market: Bank of England expected to hold rates steady as inflation risks stay in focus
+  The Bank of England is expected to hold its benchmark interest rate at 3.75%. Investors will track the central bank's guidance on future rate moves.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-england-expected-to-hold-rates-steady-as-inflation-risks-stay-in-focus/articleshow/132731866.cms
+
+- Aswath Damodaran warns against disclosure diarrhoea. Why the valuation guru wants Wall Street to end quarterly earnings
+  Valuation expert Aswath Damodaran has criticised excessive quarterly disclosures. The NYU professor argues for leaner reporting focused on meaningful information.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/aswath-damodaran-warns-against-disclosure-diarrhoea-why-the-valuation-guru-wants-wall-street-to-end-quarterly-earnings/articleshow/132730790.cms
+
+- Microsoft's AI bet pays off as Azure, Cloud growth beat expectations
+  Microsoft beat quarterly estimates as strong Azure cloud growth and rising AI adoption boosted revenue, earnings and guidance. Growing Copilot usage and improving AI returns
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/microsofts-ai-bet-pays-off-as-azure-cloud-growth-beat-expectations/slideshow/132731072.cms
 
 - How has the Indian government responded to ‘Cockroach’ protests? - Al Jazeera
   How has the Indian government responded to �
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWJsYUdsY2dCdW01VUFiRmE0ZWxmVUh4MXRGdzJVbmhSSUlEUmJmNzkyOFRLUFRzUmZuTzNVSlZZdm1vQkw0STZ3QjVleE9id1Q1TnNTV2daWnNxLUtyWEp5WEEzbjNLUVl2amdSRENQS0pwWUlIZi12YlVETGwwZGlrRENsX3lycjAtc2NPaFV5Q0RsOGRra2ZOUF9hTDk4dGJnN9IBqgFBVV95cUxNTTVYUUo2bm9YTGFHcEhSMzZ0RWR5cVM2YlE5T3lDZzEyYV9kUEhHakYwWU9nc09ZZEk1OEdZOVo2VjlpcWprWFFNV0ZCU1ZMU3M2a2l6MkFibE83a3FEa2dNcVpsbHo0a0FTQUtoZTJmVm9vYWNGRnpXZXROeVNvazdkdjZGOW83Vk9xUThqWEpSc0NGVDVmWW5LbWlXUzVCeG5aanJDS3hCQQ?oc=5
 
-- India faces 100% Trump tariff threat as US Senate advances Russia Sanctions Bill - what it means - The Times of India
-  India faces 100% Trump tariff threat as US Senate advances Russia Sanctions Bill.
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNV2lZZWotNlNHM2xkcWNtbDE3b1o4dUFvNHdjcy1tMlBvUmNPaU5KblVVenc4eXV1N2p3ZjQ1d2xFdkJ6amN1YmNGWE9hVFFvbm00VDYyYjlNekFzRGRNMGltQnNKMEtYM0RZWUstSld0aFZPYkZkaWM2X2k4YTJBYl9qN3NJTlE0QVdRS2dUaDhPYnBCV08tQTR1eTVCQ2VGUjNWZE1peHpUOWdZQUp3Vkl1OWRNSkVuVHR2Vi1iNlhEZnZMNnVnZFdVdjA4UFozSmJoa0FnN3ZvMmphcWZRbjl0NDR6WlpQMnFuR096Rjd6clQxOHhxa3Y1RnN2NXNvZzZlYzF5YjFtb1HSAZACQVVfeXFMT3RUVVFDS2FwdHRYeFZXSE1wUGJ5V2h6eU5ZLXo0a3RoRTFEUkFJdFRiRFR0UUFLZm1wY2ZOclFya1FSV1dXV0VWaE91Ykx5TTk2UHJObDMtbHNxT3Bmd3lJQUR6dkFaMC0tVnNUSXJ3MENrWU1NaDB5bGlFVW4ydEZrTDJQaXpCeUJWSV9pRjBSclcxQmNjc3N1NVhybXNycGJBOFdZaGVhWHhaRkhiMWVsRUNLOWljUmV6T1hyR1FCcmRzbE1BSkpJeW1acE9wV1pLSHNybWFqTUNGWTNCNTZfRzBWVDJlY3loSk04RUUxbWs2V1Y4dXVheDNvR1FLYWxQMEQyY1NLeWxqdFRlUnE?oc=5
+- India’s CJP protests: Why tech alone won’t stop exam paper leaks - BBC
+  India's CJP protests: Why tech alone
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xaWp0ZWZOWUt1WW51T2dKUnN3UDFrLUk5MWxsUHRpR2tsNFlaOEQ4dFY2R2pSYTJFLUVzaG1WNVJ4bDIySWtka1hQZmhjYlZ3NTN6ai12bnNjdw?oc=5
 
-- US Senate Advances Russia Sanctions Bill Calling For 100% Tariffs On India, China - NDTV
-  US Senate Advances Russia Sanctions Bill Calling For 100
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVA2Qzk5VWwtdzE2QlhIWGlkWlZxbTFUaFJBUnhMWVBQSURWWm5GNVE3QU1GVndEY3dfOE1tSEtVNGdaYWw0NThSWUdhNkk3eXFRMzFzQ1BFdi15blVZclFxSUhzUV9wV1ZuOTFFZ1l3clJuQUFsZjliaUZpei16MEZEY0JBTEFZcGF4ZHNWM3hSZlFsbFdTZjVsZ0RQa1h3SmpXMDNjd2pzaDRuS2lFM0lFdkhhUFNnWkHSAcIBQVVfeXFMTmVsd0R2YmlUbUZHbG8tUnpWMHIwVjJfTG5HQzR2SEllWnNJT002NF8tcFRNYjJsMnYxLTJFZVNtMHhmRDRLa2FHanpuVnMzVmFKZ1hSVHFkMFd0WGpzY2lCNEdoeXVwUEt4bmhpTTV6R1AtNDhGTXZYVWF2LVhoV2NjZmhfX3FBSHh0Q1pLbGdiVlVXVkN5V3l1Q01FRTIyZU1Ob0JtanhON2NFdlpMOE9pU2lkYlNuRHE4XzZCWkVHUFE?oc=5
+- "Misleading, Incorrect": India Slams New York Times' Terminology On PoK - NDTV
+  "Misleading, Incorrect": India
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPTk1JQUlmZHlZT3ZTd21tel8zYWdISlc0cDFBZjZNRkxHMllLYmZOTjdhZGlCQkhoRkVzaFpqZlZuU0w0NmJIOUZrVDhFdkYzeF9pQVc5dDFmbng0dVR4VkhQckk2ejdQbUtYZGc5TzdsWm9QNER3aTl5Q3hsZG5yZ2hVX2Rnamd3U2g2Y3FrOEpDWWlKOUhBMEwtRkRwZWJ4czljYUZrVm1IRm5QQUHSAbYBQVVfeXFMUENrYnlSZlhyV2ZhRzJjNEZrQ1VrYTFmN3ljTXpaX0Q0eWwyQ2ZCa1RWYlVzMExpMnhUel9GTW1HRnY2ZE15dmZ3aVkwaDRXRkZSYnJLRjVuenFjNWp0Tl9ZRVlKcV9Rc0hGaGlsWkl6VGxCeWhpNW9VNHVNek0zXzd0VTdld1RWZEFjeWpDRndva1BiMUtDa0FRbUxHc1BlcTZhYl82ME4zYWFpQkxfamtCVmRPNFE?oc=5
 
-- India, China ‘main culprits’, key targets of Russia sanctions bill: US senator | India News - Hindustan Times
-  India, China ‘main culprits’, key targets of
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQXpEVlVQVEhmYWlzRmN0VmZRUWtnMEhrYUNpSlhDd29zc2plZDRwVm5TSzd6Nm10RzhFNGdwT0lzUVpPVHotakZDTEthMG9YRmN4R0RGMFFSSHVoOWRPY1M0d0pZaHVMR3h2WVg3Y0RwMG1tdFlMSVNxZ0RGbnZCdmFkd092aXZKVzZQNUE4ZTZFclo5cGFvSEZNOG52bVZMM3lqejNjSF9TR2NtWGZzRGZRb3VmeVNPczVtNFo4SGhhbERCT29fOG9DWlFLeF9jZWp6dmc1MmlLWVZ5QURzQ09XMkFhV0tRYVBhY016Y0JKM3REcDU2S1N0ZndadUFEV2xQcnhGdFbSAY4CQVVfeXFMUHBCUlYyS0REb0k1N2xBUVVtaVBuelc5ZFFpdEFsUFhxOEhrZmhGeFhSeFJIbk1GTEN5cFgwMks2QkNSUkIzYl9nVXRmYjFSLWJvejFCQ2I1bkVNRzVIYmJ4QXJlY3FQYWtCaWRyUmNJU0JMYmI4QmdZTXlYWTkxTFEtZnNlLVE2QzNlVENXRGFIOURtTVFlbjNmZmVnVDVOS2I4ck5IUFM0MDJWWkV0TnJLaUtKUnFydFZ0dzdmTFF3QV9JZU05c2JVM29lMDlZa0hJNmY3eHdtYTZVMXpLbF95TU41bFFrRGp4elYzQ216ZzE5aUIyYXpqem1ndUg4NEVNbzdCeFk5VktzVkVR?oc=5
+- 'They're Enemies Like India': Khawaja Asif Defends Killing Of 32 PoK Protestors - NDTV
+  'They're Enemies Like India': Khawaja
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHFHZWVmUjFwV3ZpOVdHRTFLX091M056QkVmNmZ0c0xYcEJDMDFLbVlDQThpWTZpOER4c3FQYThYVi1McU9zYklaVExDUlVNbXJsNVVRVm9XMXFBZG03YUxoaDdsaHhlN2QxNEIzdEQ3cWx1TmotZFdzbXVfS2gwcXk3Rm5qWG9CR1dkVGFqaXgxVWFrOEJuVE9TNU12VHFBNG1DZ1RhNmNSQ04ycEZoTFBNcFBmUHI2b25ROS11ZzjSAcgBQVVfeXFMUHJlSS10d3d1OWlMcGxpOVFCOVM5UlR4aFdXeWJKX0JQeUt1eHVCYjdZOG1feGxUdll3aWhLSjEyeTE4TmUtN2NDV3RnbG13UjMxRkJNWjlsS1EzZlVfRkhsYkRpelczZzAwN01INHBGdG5saXVEcUgwNTlnUThjOEhUck5DWUh0QVRkOXlCbVVQcVhGaG9FenhBTVlGNFRTVkdXYWdIWXluSHRjSmxmc3AzV21YYW9feWJXTFhyaXk3aHd3VmdUcEE?oc=5
 
-- Man Loses Rs 8 Lakh To Fake Trading App, Case Against Google India Officer - NDTV
-  Man Loses Rs 8 Lakh To Fake Trading App,
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmwzdDZGWUlsdjRHUE5FUThuWGl3dFBfcW1qOEJqblZINXZrSW12QmZYZ21ack5QNkgyYk85c2I5TE5QM1ZPUTZEMkxnUlhRcmRFQmN0WmNkOUd6ZHEyRlZoR3liTDRqQlM1TTFvRTRQaDVpaHhqQThfSExSRHFhRzNWS19xcS1KVTNuWFdOMGtERVpHeVdXYlI3cjJsZVpPRTFHUjZRRVIxMDBDaW5ZallJTmw?oc=5
+- ‘No Pakistani Kashmir’: Why Indian embassy in US fact-checked New York Times' ‘misleading' headline | India News - Hindustan Times
+  ‘No Pakistani Kashmir’: Why Indian embassy in US fact-checked
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUl9tblBvdTRCODZ3RVJBSmxaUDJiSlFYTGl2Y2VpdURvMVkycmdNVU5KZ3hQeGpJT01ud0MwcXJBdWthZGl2dGVVOVV4cVUzSmx3aHdxb2hKVXNFTXNpd2RYYUJmREJTMkZrY2xnS0EyeHZUUXFKejRaTVlta0piZmFzTjFxZjhaRF9oUy01eHQ5eUpXMFFMcUdMRmEyQ0E2aEc0SnZaTEo0eDhJWEZpYlhYVTZRczUwM2EwQy1EcHp1c3pqMU1lSkNOSVFreWF6cnFCZFM1N3hSdWJuVERGb3Fib3ZubHcwUUhwREhDQ3h0TXdad3d1ddIB_gFBVV95cUxPQjM4VFhhcDZQaVdGd3NCODQxakk3eEJ6RlEwMzJmVWYxcjAtblRYeTEwUDZmVUppaU1CZmdnUkdBNjBZNy1iUGVsLTc5dDYzUlNEYkJlYnhSNU1sX0o2Umk4dHFreTFZZUlZbU80OUhpaWw0cjFFODFzY2NWaEVvYjNwVXVsMHJ5aXhweG9MdUo5cV9ONXBrcEt4YkEzQWlBelpnak5hck55ZlJMekc0QTdEaG9la19uNXNtYkctYkxjSXlRY2Y2ZnN3clpId01RMXRGeGoxSm9wRElLNDFOalo1UEFNQzlZNV9uVTc1cDJLNE9wLTJ4UXFIS0tpZw?oc=5
 
-- Japan's Nikkei rises on sharp Advantest gains
-  Advantest's shares surged after it raised its annual profit forecast significantly. Other chip-related stocks also experienced upward movement. However, the broader Topix index declined as banking shares faced selling pressure.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rises-on-sharp-advantest-gains/articleshow/132724758.cms
+- Meta Tightens Safeguards For PM Modi, Other Prominent Accounts After MeitY Summons
+  A day after the Centre summoned a top Meta executive over the temporary restriction of Prime Minister Narendra Modi’s Facebook.
+  🔗 https://inc42.com/buzz/meta-tightens-safeguards-for-pm-modi-other-prominent-accounts-after-meity-summons/
 
-- Gold edges higher as markets weigh Warsh's inflation message after Fed decision
-  Gold prices saw a slight increase as markets evaluated Federal Reserve comments. Investors now anticipate a lower probability of a September rate hike. Geopolitical events in the Middle East are also contributing to market caution.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-as-markets-weigh-warshs-inflation-message-after-fed-decision/articleshow/132724739.cms
-
-- Dollar steadies as Fed holds rates, US strikes Iran
-  The US dollar strengthened in Asian trading after the Federal Reserve maintained its interest rate. Geopolitical developments, including air strikes in Iran, also supported the greenback's value. Other currencies like the British pound and euro experienced slight declines against
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-steadies-as-fed-holds-rates-us-strikes-iran/articleshow/132724723.cms
-
-- Oil prices slip as tankers continue to ply Middle East conflict zones
-  Oil prices saw a decline as tankers continued to move out of the Middle East. Escalating tensions and expanded conflict fronts are impacting regional stability. Thirty-nine commodity ships passed through the Bab el-Mandeb strait into the
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slip-as-tankers-continue-to-ply-middle-east-conflict-zones/articleshow/132724710.cms
-
-- Adani Ports Q1 net profit rises 10% on overseas growth
-  Adani Ports reported a 10.2% profit increase for the June quarter. Revenue from operations climbed 18.6 percent to ₹10,820.80 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-q1-net-profit-rises-10-on-overseas-growth/articleshow/132724619.cms
-
-- How has the Indian government responded to ‘Cockroach’ protests? - Al Jazeera
-  How has the Indian government responded to �
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWJsYUdsY2dCdW01VUFiRmE0ZWxmVUh4MXRGdzJVbmhSSUlEUmJmNzkyOFRLUFRzUmZuTzNVSlZZdm1vQkw0STZ3QjVleE9id1Q1TnNTV2daWnNxLUtyWEp5WEEzbjNLUVl2amdSRENQS0pwWUlIZi12YlVETGwwZGlrRENsX3lycjAtc2NPaFV5Q0RsOGRra2ZOUF9hTDk4dGJnN9IBqgFBVV95cUxNTTVYUUo2bm9YTGFHcEhSMzZ0RWR5cVM2YlE5T3lDZzEyYV9kUEhHakYwWU9nc09ZZEk1OEdZOVo2VjlpcWprWFFNV0ZCU1ZMU3M2a2l6MkFibE83a3FEa2dNcVpsbHo0a0FTQUtoZTJmVm9vYWNGRnpXZXROeVNvazdkdjZGOW83Vk9xUThqWEpSc0NGVDVmWW5LbWlXUzVCeG5aanJDS3hCQQ?oc=5
-
-- India faces 100% Trump tariff threat as US Senate advances Russia Sanctions Bill - what it means - The Times of India
-  India faces 100% Trump tariff threat as US Senate advances Russia Sanctions Bill.
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNV2lZZWotNlNHM2xkcWNtbDE3b1o4dUFvNHdjcy1tMlBvUmNPaU5KblVVenc4eXV1N2p3ZjQ1d2xFdkJ6amN1YmNGWE9hVFFvbm00VDYyYjlNekFzRGRNMGltQnNKMEtYM0RZWUstSld0aFZPYkZkaWM2X2k4YTJBYl9qN3NJTlE0QVdRS2dUaDhPYnBCV08tQTR1eTVCQ2VGUjNWZE1peHpUOWdZQUp3Vkl1OWRNSkVuVHR2Vi1iNlhEZnZMNnVnZFdVdjA4UFozSmJoa0FnN3ZvMmphcWZRbjl0NDR6WlpQMnFuR096Rjd6clQxOHhxa3Y1RnN2NXNvZzZlYzF5YjFtb1HSAZACQVVfeXFMT3RUVVFDS2FwdHRYeFZXSE1wUGJ5V2h6eU5ZLXo0a3RoRTFEUkFJdFRiRFR0UUFLZm1wY2ZOclFya1FSV1dXV0VWaE91Ykx5TTk2UHJObDMtbHNxT3Bmd3lJQUR6dkFaMC0tVnNUSXJ3MENrWU1NaDB5bGlFVW4ydEZrTDJQaXpCeUJWSV9pRjBSclcxQmNjc3N1NVhybXNycGJBOFdZaGVhWHhaRkhiMWVsRUNLOWljUmV6T1hyR1FCcmRzbE1BSkpJeW1acE9wV1pLSHNybWFqTUNGWTNCNTZfRzBWVDJlY3loSk04RUUxbWs2V1Y4dXVheDNvR1FLYWxQMEQyY1NLeWxqdFRlUnE?oc=5
-
-- US Senate Advances Russia Sanctions Bill Calling For 100% Tariffs On India, China - NDTV
-  US Senate Advances Russia Sanctions Bill Calling For 100
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVA2Qzk5VWwtdzE2QlhIWGlkWlZxbTFUaFJBUnhMWVBQSURWWm5GNVE3QU1GVndEY3dfOE1tSEtVNGdaYWw0NThSWUdhNkk3eXFRMzFzQ1BFdi15blVZclFxSUhzUV9wV1ZuOTFFZ1l3clJuQUFsZjliaUZpei16MEZEY0JBTEFZcGF4ZHNWM3hSZlFsbFdTZjVsZ0RQa1h3SmpXMDNjd2pzaDRuS2lFM0lFdkhhUFNnWkHSAcIBQVVfeXFMTmVsd0R2YmlUbUZHbG8tUnpWMHIwVjJfTG5HQzR2SEllWnNJT002NF8tcFRNYjJsMnYxLTJFZVNtMHhmRDRLa2FHanpuVnMzVmFKZ1hSVHFkMFd0WGpzY2lCNEdoeXVwUEt4bmhpTTV6R1AtNDhGTXZYVWF2LVhoV2NjZmhfX3FBSHh0Q1pLbGdiVlVXVkN5V3l1Q01FRTIyZU1Ob0JtanhON2NFdlpMOE9pU2lkYlNuRHE4XzZCWkVHUFE?oc=5
-
-- India, China ‘main culprits’, key targets of Russia sanctions bill: US senator | India News - Hindustan Times
-  India, China ‘main culprits’, key targets of
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQXpEVlVQVEhmYWlzRmN0VmZRUWtnMEhrYUNpSlhDd29zc2plZDRwVm5TSzd6Nm10RzhFNGdwT0lzUVpPVHotakZDTEthMG9YRmN4R0RGMFFSSHVoOWRPY1M0d0pZaHVMR3h2WVg3Y0RwMG1tdFlMSVNxZ0RGbnZCdmFkd092aXZKVzZQNUE4ZTZFclo5cGFvSEZNOG52bVZMM3lqejNjSF9TR2NtWGZzRGZRb3VmeVNPczVtNFo4SGhhbERCT29fOG9DWlFLeF9jZWp6dmc1MmlLWVZ5QURzQ09XMkFhV0tRYVBhY016Y0JKM3REcDU2S1N0ZndadUFEV2xQcnhGdFbSAY4CQVVfeXFMUHBCUlYyS0REb0k1N2xBUVVtaVBuelc5ZFFpdEFsUFhxOEhrZmhGeFhSeFJIbk1GTEN5cFgwMks2QkNSUkIzYl9nVXRmYjFSLWJvejFCQ2I1bkVNRzVIYmJ4QXJlY3FQYWtCaWRyUmNJU0JMYmI4QmdZTXlYWTkxTFEtZnNlLVE2QzNlVENXRGFIOURtTVFlbjNmZmVnVDVOS2I4ck5IUFM0MDJWWkV0TnJLaUtKUnFydFZ0dzdmTFF3QV9JZU05c2JVM29lMDlZa0hJNmY3eHdtYTZVMXpLbF95TU41bFFrRGp4elYzQ216ZzE5aUIyYXpqem1ndUg4NEVNbzdCeFk5VktzVkVR?oc=5
-
-- Man Loses Rs 8 Lakh To Fake Trading App, Case Against Google India Officer - NDTV
-  Man Loses Rs 8 Lakh To Fake Trading App,
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmwzdDZGWUlsdjRHUE5FUThuWGl3dFBfcW1qOEJqblZINXZrSW12QmZYZ21ack5QNkgyYk85c2I5TE5QM1ZPUTZEMkxnUlhRcmRFQmN0WmNkOUd6ZHEyRlZoR3liTDRqQlM1TTFvRTRQaDVpaHhqQThfSExSRHFhRzNWS19xcS1KVTNuWFdOMGtERVpHeVdXYlI3cjJsZVpPRTFHUjZRRVIxMDBDaW5ZallJTmw?oc=5
+- Fintech IPO Wave, Zepto May Defer Listing & More
+  Fintech IPO Wave, Zepto May Defer Listing, and More.
+  🔗 https://inc42.com/buzz/fintech-ipo-wave-zepto-may-defer-listing-more/
 
 - SUIND Bags ₹20.5 Cr To Build Autonomous Surveillance Drones
   SUIND has raised ₹20.5 Cr (around $2.1 Mn) in a seed funding round.
@@ -112,13 +160,45 @@
   For the second time in two months, early backer and VC giant Peak XV Partners has offloaded shares worth nearly $8230.
   🔗 https://inc42.com/buzz/peak-xv-partners-again-dumps-go-digit-shares-worth-%e2%82%b9139-cr/
 
-- Kissht Q1 Profit Surges 59% YoY To ₹95 Cr
-  Kissht’s consolidated net profit for the first quarter (Q1) of FY27 jumped 59% to ₹95.1 Cr from&#8230;.
-  🔗 https://inc42.com/buzz/kissht-q1-profit-surges-59-yoy-to-%e2%82%b995-cr/
+- How has the Indian government responded to ‘Cockroach’ protests? - Al Jazeera
+  How has the Indian government responded to �
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWJsYUdsY2dCdW01VUFiRmE0ZWxmVUh4MXRGdzJVbmhSSUlEUmJmNzkyOFRLUFRzUmZuTzNVSlZZdm1vQkw0STZ3QjVleE9id1Q1TnNTV2daWnNxLUtyWEp5WEEzbjNLUVl2amdSRENQS0pwWUlIZi12YlVETGwwZGlrRENsX3lycjAtc2NPaFV5Q0RsOGRra2ZOUF9hTDk4dGJnN9IBqgFBVV95cUxNTTVYUUo2bm9YTGFHcEhSMzZ0RWR5cVM2YlE5T3lDZzEyYV9kUEhHakYwWU9nc09ZZEk1OEdZOVo2VjlpcWprWFFNV0ZCU1ZMU3M2a2l6MkFibE83a3FEa2dNcVpsbHo0a0FTQUtoZTJmVm9vYWNGRnpXZXROeVNvazdkdjZGOW83Vk9xUThqWEpSc0NGVDVmWW5LbWlXUzVCeG5aanJDS3hCQQ?oc=5
 
-- Tata Communications Amps Up Voice AI Play For India’s SMBs
-  Tata Communications is betting that India&#8217;s 63 Mn-odd micro, small and medium enterprises (MSMEs)
-  🔗 https://inc42.com/buzz/tata-communications-expands-voice-ai-push-eyes-smb-adoption/
+- India’s CJP protests: Why tech alone won’t stop exam paper leaks - BBC
+  India's CJP protests: Why tech alone
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xaWp0ZWZOWUt1WW51T2dKUnN3UDFrLUk5MWxsUHRpR2tsNFlaOEQ4dFY2R2pSYTJFLUVzaG1WNVJ4bDIySWtka1hQZmhjYlZ3NTN6ai12bnNjdw?oc=5
+
+- "Misleading, Incorrect": India Slams New York Times' Terminology On PoK - NDTV
+  "Misleading, Incorrect": India
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPTk1JQUlmZHlZT3ZTd21tel8zYWdISlc0cDFBZjZNRkxHMllLYmZOTjdhZGlCQkhoRkVzaFpqZlZuU0w0NmJIOUZrVDhFdkYzeF9pQVc5dDFmbng0dVR4VkhQckk2ejdQbUtYZGc5TzdsWm9QNER3aTl5Q3hsZG5yZ2hVX2Rnamd3U2g2Y3FrOEpDWWlKOUhBMEwtRkRwZWJ4czljYUZrVm1IRm5QQUHSAbYBQVVfeXFMUENrYnlSZlhyV2ZhRzJjNEZrQ1VrYTFmN3ljTXpaX0Q0eWwyQ2ZCa1RWYlVzMExpMnhUel9GTW1HRnY2ZE15dmZ3aVkwaDRXRkZSYnJLRjVuenFjNWp0Tl9ZRVlKcV9Rc0hGaGlsWkl6VGxCeWhpNW9VNHVNek0zXzd0VTdld1RWZEFjeWpDRndva1BiMUtDa0FRbUxHc1BlcTZhYl82ME4zYWFpQkxfamtCVmRPNFE?oc=5
+
+- 'They're Enemies Like India': Khawaja Asif Defends Killing Of 32 PoK Protestors - NDTV
+  'They're Enemies Like India': Khawaja
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHFHZWVmUjFwV3ZpOVdHRTFLX091M056QkVmNmZ0c0xYcEJDMDFLbVlDQThpWTZpOER4c3FQYThYVi1McU9zYklaVExDUlVNbXJsNVVRVm9XMXFBZG03YUxoaDdsaHhlN2QxNEIzdEQ3cWx1TmotZFdzbXVfS2gwcXk3Rm5qWG9CR1dkVGFqaXgxVWFrOEJuVE9TNU12VHFBNG1DZ1RhNmNSQ04ycEZoTFBNcFBmUHI2b25ROS11ZzjSAcgBQVVfeXFMUHJlSS10d3d1OWlMcGxpOVFCOVM5UlR4aFdXeWJKX0JQeUt1eHVCYjdZOG1feGxUdll3aWhLSjEyeTE4TmUtN2NDV3RnbG13UjMxRkJNWjlsS1EzZlVfRkhsYkRpelczZzAwN01INHBGdG5saXVEcUgwNTlnUThjOEhUck5DWUh0QVRkOXlCbVVQcVhGaG9FenhBTVlGNFRTVkdXYWdIWXluSHRjSmxmc3AzV21YYW9feWJXTFhyaXk3aHd3VmdUcEE?oc=5
+
+- ‘No Pakistani Kashmir’: Why Indian embassy in US fact-checked New York Times' ‘misleading' headline | India News - Hindustan Times
+  ‘No Pakistani Kashmir’: Why Indian embassy in US fact-checked
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUl9tblBvdTRCODZ3RVJBSmxaUDJiSlFYTGl2Y2VpdURvMVkycmdNVU5KZ3hQeGpJT01ud0MwcXJBdWthZGl2dGVVOVV4cVUzSmx3aHdxb2hKVXNFTXNpd2RYYUJmREJTMkZrY2xnS0EyeHZUUXFKejRaTVlta0piZmFzTjFxZjhaRF9oUy01eHQ5eUpXMFFMcUdMRmEyQ0E2aEc0SnZaTEo0eDhJWEZpYlhYVTZRczUwM2EwQy1EcHp1c3pqMU1lSkNOSVFreWF6cnFCZFM1N3hSdWJuVERGb3Fib3ZubHcwUUhwREhDQ3h0TXdad3d1ddIB_gFBVV95cUxPQjM4VFhhcDZQaVdGd3NCODQxakk3eEJ6RlEwMzJmVWYxcjAtblRYeTEwUDZmVUppaU1CZmdnUkdBNjBZNy1iUGVsLTc5dDYzUlNEYkJlYnhSNU1sX0o2Umk4dHFreTFZZUlZbU80OUhpaWw0cjFFODFzY2NWaEVvYjNwVXVsMHJ5aXhweG9MdUo5cV9ONXBrcEt4YkEzQWlBelpnak5hck55ZlJMekc0QTdEaG9la19uNXNtYkctYkxjSXlRY2Y2ZnN3clpId01RMXRGeGoxSm9wRElLNDFOalo1UEFNQzlZNV9uVTc1cDJLNE9wLTJ4UXFIS0tpZw?oc=5
+
+- How has the Indian government responded to ‘Cockroach’ protests? - Al Jazeera
+  How has the Indian government responded to �
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWJsYUdsY2dCdW01VUFiRmE0ZWxmVUh4MXRGdzJVbmhSSUlEUmJmNzkyOFRLUFRzUmZuTzNVSlZZdm1vQkw0STZ3QjVleE9id1Q1TnNTV2daWnNxLUtyWEp5WEEzbjNLUVl2amdSRENQS0pwWUlIZi12YlVETGwwZGlrRENsX3lycjAtc2NPaFV5Q0RsOGRra2ZOUF9hTDk4dGJnN9IBqgFBVV95cUxNTTVYUUo2bm9YTGFHcEhSMzZ0RWR5cVM2YlE5T3lDZzEyYV9kUEhHakYwWU9nc09ZZEk1OEdZOVo2VjlpcWprWFFNV0ZCU1ZMU3M2a2l6MkFibE83a3FEa2dNcVpsbHo0a0FTQUtoZTJmVm9vYWNGRnpXZXROeVNvazdkdjZGOW83Vk9xUThqWEpSc0NGVDVmWW5LbWlXUzVCeG5aanJDS3hCQQ?oc=5
+
+- India’s CJP protests: Why tech alone won’t stop exam paper leaks - BBC
+  India's CJP protests: Why tech alone
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xaWp0ZWZOWUt1WW51T2dKUnN3UDFrLUk5MWxsUHRpR2tsNFlaOEQ4dFY2R2pSYTJFLUVzaG1WNVJ4bDIySWtka1hQZmhjYlZ3NTN6ai12bnNjdw?oc=5
+
+- "Misleading, Incorrect": India Slams New York Times' Terminology On PoK - NDTV
+  "Misleading, Incorrect": India
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPTk1JQUlmZHlZT3ZTd21tel8zYWdISlc0cDFBZjZNRkxHMllLYmZOTjdhZGlCQkhoRkVzaFpqZlZuU0w0NmJIOUZrVDhFdkYzeF9pQVc5dDFmbng0dVR4VkhQckk2ejdQbUtYZGc5TzdsWm9QNER3aTl5Q3hsZG5yZ2hVX2Rnamd3U2g2Y3FrOEpDWWlKOUhBMEwtRkRwZWJ4czljYUZrVm1IRm5QQUHSAbYBQVVfeXFMUENrYnlSZlhyV2ZhRzJjNEZrQ1VrYTFmN3ljTXpaX0Q0eWwyQ2ZCa1RWYlVzMExpMnhUel9GTW1HRnY2ZE15dmZ3aVkwaDRXRkZSYnJLRjVuenFjNWp0Tl9ZRVlKcV9Rc0hGaGlsWkl6VGxCeWhpNW9VNHVNek0zXzd0VTdld1RWZEFjeWpDRndva1BiMUtDa0FRbUxHc1BlcTZhYl82ME4zYWFpQkxfamtCVmRPNFE?oc=5
+
+- 'They're Enemies Like India': Khawaja Asif Defends Killing Of 32 PoK Protestors - NDTV
+  'They're Enemies Like India': Khawaja
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHFHZWVmUjFwV3ZpOVdHRTFLX091M056QkVmNmZ0c0xYcEJDMDFLbVlDQThpWTZpOER4c3FQYThYVi1McU9zYklaVExDUlVNbXJsNVVRVm9XMXFBZG03YUxoaDdsaHhlN2QxNEIzdEQ3cWx1TmotZFdzbXVfS2gwcXk3Rm5qWG9CR1dkVGFqaXgxVWFrOEJuVE9TNU12VHFBNG1DZ1RhNmNSQ04ycEZoTFBNcFBmUHI2b25ROS11ZzjSAcgBQVVfeXFMUHJlSS10d3d1OWlMcGxpOVFCOVM5UlR4aFdXeWJKX0JQeUt1eHVCYjdZOG1feGxUdll3aWhLSjEyeTE4TmUtN2NDV3RnbG13UjMxRkJNWjlsS1EzZlVfRkhsYkRpelczZzAwN01INHBGdG5saXVEcUgwNTlnUThjOEhUck5DWUh0QVRkOXlCbVVQcVhGaG9FenhBTVlGNFRTVkdXYWdIWXluSHRjSmxmc3AzV21YYW9feWJXTFhyaXk3aHd3VmdUcEE?oc=5
+
+- ‘No Pakistani Kashmir’: Why Indian embassy in US fact-checked New York Times' ‘misleading' headline | India News - Hindustan Times
+  ‘No Pakistani Kashmir’: Why Indian embassy in US fact-checked
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUl9tblBvdTRCODZ3RVJBSmxaUDJiSlFYTGl2Y2VpdURvMVkycmdNVU5KZ3hQeGpJT01ud0MwcXJBdWthZGl2dGVVOVV4cVUzSmx3aHdxb2hKVXNFTXNpd2RYYUJmREJTMkZrY2xnS0EyeHZUUXFKejRaTVlta0piZmFzTjFxZjhaRF9oUy01eHQ5eUpXMFFMcUdMRmEyQ0E2aEc0SnZaTEo0eDhJWEZpYlhYVTZRczUwM2EwQy1EcHp1c3pqMU1lSkNOSVFreWF6cnFCZFM1N3hSdWJuVERGb3Fib3ZubHcwUUhwREhDQ3h0TXdad3d1ddIB_gFBVV95cUxPQjM4VFhhcDZQaVdGd3NCODQxakk3eEJ6RlEwMzJmVWYxcjAtblRYeTEwUDZmVUppaU1CZmdnUkdBNjBZNy1iUGVsLTc5dDYzUlNEYkJlYnhSNU1sX0o2Umk4dHFreTFZZUlZbU80OUhpaWw0cjFFODFzY2NWaEVvYjNwVXVsMHJ5aXhweG9MdUo5cV9ONXBrcEt4YkEzQWlBelpnak5hck55ZlJMekc0QTdEaG9la19uNXNtYkctYkxjSXlRY2Y2ZnN3clpId01RMXRGeGoxSm9wRElLNDFOalo1UEFNQzlZNV9uVTc1cDJLNE9wLTJ4UXFIS0tpZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -149,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-30 01:56:52 UTC_
+_Last updated: 2026-07-30 08:17:59 UTC_
