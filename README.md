@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Opposition’s next move in House: Raising Ram temple ‘donation theft’ while continuing to target Amit Shah
+- 3 lured to Thailand with holiday trip, held for ransom; 5 Indians arrested
   
-  🔗 https://indianexpress.com/article/india/oppositions-next-move-in-house-raising-ram-temple-donation-theft-while-continuing-to-target-amit-shah-10809544/
+  🔗 https://indianexpress.com/article/india/3-lured-to-thailand-with-holiday-trip-held-for-ransom-5-indians-arrested-10809665/
 
-- IPS trainee sent to judicial custody; fellow trainee claimed he tried to kill her
+- Assam redraws who counts as an ‘original inhabitant’ in heritage land law
   
-  🔗 https://indianexpress.com/article/india/ips-trainee-judicial-custody-fellow-trainee-claimed-tried-kill-her-10809466/
+  🔗 https://indianexpress.com/article/india/assam-original-inhabitants-heritage-land-bill-himanta-biswa-sarma-10809635/
 
-- Bihar withdraws 64 FIRs against NEET protesters but cases against 21 in Siwan remain
+- Rescued Ajmer girl faces ‘harassment’ from neighbours, police say probing
   
-  🔗 https://indianexpress.com/article/india/bihar-withdraws-fir-against-neet-protesters-cases-against-siwan-remain-10809346/
+  🔗 https://indianexpress.com/article/india/ajmer-minor-forced-marriage-trafficking-case-10809623/
 
-- The Daily Catch-Up: The NEET row returns to Centre stage
+- Exclusive | ‘Did you shout Free Umar Khalid slogan?’: Goa police make protesters fill 240-point questionnaire
   
-  🔗 https://indianexpress.com/article/india/daily-catch-up-paper-leak-parliament-virat-anushka-mumbai-property-10809324/
+  🔗 https://indianexpress.com/article/india/exclusive-did-you-shout-free-umar-khalid-slogan-goa-police-make-protesters-fill-240-point-questionnaire-10809622/
 
-- Amit Shah ‘culpable or incompetent’, sack him for crackdown on students: Rahul Gandhi
+- Amid Opposition protest, Rajya Sabha passes Bill criminalising insult to Vande Mataram
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-amit-shah-chalo-sansad-cjp-protests-anti-paper-leak-bill-10809224/
+  🔗 https://indianexpress.com/article/india/amid-opposition-protest-rajya-sabha-passes-bill-criminalising-insult-to-vande-mataram-10809694/
 
 - Ex-ante competition rules for cloud services sees pushback from 60% stakeholders: CUTS study
   
@@ -40,105 +40,73 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-upgrade-iphone-leasing-programme-us-customers-10808448/
 
-- Cognizant outpaces TCS, Infosys; stock takes off despite demand gloom
-  Cognizant cut its guidance for the year to at best 5.9%, the lowest outlook since the final quarter of
-  🔗 https://www.livemint.com/companies/cognizant-outpaces-tcs-infosys-stock-takes-off-despite-demand-gloom-11785334457520.html
+- How has the Indian government responded to ‘Cockroach’ protests? - Al Jazeera
+  How has the Indian government responded to �
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWJsYUdsY2dCdW01VUFiRmE0ZWxmVUh4MXRGdzJVbmhSSUlEUmJmNzkyOFRLUFRzUmZuTzNVSlZZdm1vQkw0STZ3QjVleE9id1Q1TnNTV2daWnNxLUtyWEp5WEEzbjNLUVl2amdSRENQS0pwWUlIZi12YlVETGwwZGlrRENsX3lycjAtc2NPaFV5Q0RsOGRra2ZOUF9hTDk4dGJnN9IBqgFBVV95cUxNTTVYUUo2bm9YTGFHcEhSMzZ0RWR5cVM2YlE5T3lDZzEyYV9kUEhHakYwWU9nc09ZZEk1OEdZOVo2VjlpcWprWFFNV0ZCU1ZMU3M2a2l6MkFibE83a3FEa2dNcVpsbHo0a0FTQUtoZTJmVm9vYWNGRnpXZXROeVNvazdkdjZGOW83Vk9xUThqWEpSc0NGVDVmWW5LbWlXUzVCeG5aanJDS3hCQQ?oc=5
 
-- Asian Paints beats Q1 estimates, retains FY27 outlook amid cost, competition risks
-  The paint-maker reported a 40% profit growth and surpassed Street estimates. It retained its 8-10% demand growth and 18
-  🔗 https://www.livemint.com/companies/company-results/asian-paints-beats-q1-estimates-retains-fy27-outlook-amid-cost-competition-risks-11785335346143.html
+- India faces 100% Trump tariff threat as US Senate advances Russia Sanctions Bill - what it means - The Times of India
+  India faces 100% Trump tariff threat as US Senate advances Russia Sanctions Bill.
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNV2lZZWotNlNHM2xkcWNtbDE3b1o4dUFvNHdjcy1tMlBvUmNPaU5KblVVenc4eXV1N2p3ZjQ1d2xFdkJ6amN1YmNGWE9hVFFvbm00VDYyYjlNekFzRGRNMGltQnNKMEtYM0RZWUstSld0aFZPYkZkaWM2X2k4YTJBYl9qN3NJTlE0QVdRS2dUaDhPYnBCV08tQTR1eTVCQ2VGUjNWZE1peHpUOWdZQUp3Vkl1OWRNSkVuVHR2Vi1iNlhEZnZMNnVnZFdVdjA4UFozSmJoa0FnN3ZvMmphcWZRbjl0NDR6WlpQMnFuR096Rjd6clQxOHhxa3Y1RnN2NXNvZzZlYzF5YjFtb1HSAZACQVVfeXFMT3RUVVFDS2FwdHRYeFZXSE1wUGJ5V2h6eU5ZLXo0a3RoRTFEUkFJdFRiRFR0UUFLZm1wY2ZOclFya1FSV1dXV0VWaE91Ykx5TTk2UHJObDMtbHNxT3Bmd3lJQUR6dkFaMC0tVnNUSXJ3MENrWU1NaDB5bGlFVW4ydEZrTDJQaXpCeUJWSV9pRjBSclcxQmNjc3N1NVhybXNycGJBOFdZaGVhWHhaRkhiMWVsRUNLOWljUmV6T1hyR1FCcmRzbE1BSkpJeW1acE9wV1pLSHNybWFqTUNGWTNCNTZfRzBWVDJlY3loSk04RUUxbWs2V1Y4dXVheDNvR1FLYWxQMEQyY1NLeWxqdFRlUnE?oc=5
 
-- Syrma remains upbeat on FY27 after stellar June quarter
-  Syrma reaffirms FY27 revenue growth guidance of 30-35
-  🔗 https://www.livemint.com/companies/company-results/syrma-sgs-q1-results-fy27-guidance-electronics-exports-supply-chain-11785335124038.html
+- US Senate Advances Russia Sanctions Bill Calling For 100% Tariffs On India, China - NDTV
+  US Senate Advances Russia Sanctions Bill Calling For 100
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVA2Qzk5VWwtdzE2QlhIWGlkWlZxbTFUaFJBUnhMWVBQSURWWm5GNVE3QU1GVndEY3dfOE1tSEtVNGdaYWw0NThSWUdhNkk3eXFRMzFzQ1BFdi15blVZclFxSUhzUV9wV1ZuOTFFZ1l3clJuQUFsZjliaUZpei16MEZEY0JBTEFZcGF4ZHNWM3hSZlFsbFdTZjVsZ0RQa1h3SmpXMDNjd2pzaDRuS2lFM0lFdkhhUFNnWkHSAcIBQVVfeXFMTmVsd0R2YmlUbUZHbG8tUnpWMHIwVjJfTG5HQzR2SEllWnNJT002NF8tcFRNYjJsMnYxLTJFZVNtMHhmRDRLa2FHanpuVnMzVmFKZ1hSVHFkMFd0WGpzY2lCNEdoeXVwUEt4bmhpTTV6R1AtNDhGTXZYVWF2LVhoV2NjZmhfX3FBSHh0Q1pLbGdiVlVXVkN5V3l1Q01FRTIyZU1Ob0JtanhON2NFdlpMOE9pU2lkYlNuRHE4XzZCWkVHUFE?oc=5
 
-- Rapido's Ownly looks beyond order value in food delivery push
-  Affordability should drive higher repeat purchases, ordering frequency and retention, says Aravind Sanka, co-founder of Rapido's food
-  🔗 https://www.livemint.com/companies/rapidos-ownly-looks-beyond-order-value-in-food-delivery-push-11785323962638.html
+- India, China ‘main culprits’, key targets of Russia sanctions bill: US senator | India News - Hindustan Times
+  India, China ‘main culprits’, key targets of
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQXpEVlVQVEhmYWlzRmN0VmZRUWtnMEhrYUNpSlhDd29zc2plZDRwVm5TSzd6Nm10RzhFNGdwT0lzUVpPVHotakZDTEthMG9YRmN4R0RGMFFSSHVoOWRPY1M0d0pZaHVMR3h2WVg3Y0RwMG1tdFlMSVNxZ0RGbnZCdmFkd092aXZKVzZQNUE4ZTZFclo5cGFvSEZNOG52bVZMM3lqejNjSF9TR2NtWGZzRGZRb3VmeVNPczVtNFo4SGhhbERCT29fOG9DWlFLeF9jZWp6dmc1MmlLWVZ5QURzQ09XMkFhV0tRYVBhY016Y0JKM3REcDU2S1N0ZndadUFEV2xQcnhGdFbSAY4CQVVfeXFMUHBCUlYyS0REb0k1N2xBUVVtaVBuelc5ZFFpdEFsUFhxOEhrZmhGeFhSeFJIbk1GTEN5cFgwMks2QkNSUkIzYl9nVXRmYjFSLWJvejFCQ2I1bkVNRzVIYmJ4QXJlY3FQYWtCaWRyUmNJU0JMYmI4QmdZTXlYWTkxTFEtZnNlLVE2QzNlVENXRGFIOURtTVFlbjNmZmVnVDVOS2I4ck5IUFM0MDJWWkV0TnJLaUtKUnFydFZ0dzdmTFF3QV9JZU05c2JVM29lMDlZa0hJNmY3eHdtYTZVMXpLbF95TU41bFFrRGp4elYzQ216ZzE5aUIyYXpqem1ndUg4NEVNbzdCeFk5VktzVkVR?oc=5
 
-- Dabur volumes to remain under pressure, says global CEO Mohit Malhotra
-  Dabur India reported a 5% volume growth in the June quarter, down from the 18
-  🔗 https://www.livemint.com/companies/company-results/dabur-volumes-to-remain-under-pressure-global-ceo-mohit-malhotra-11785329801785.html
+- Man Loses Rs 8 Lakh To Fake Trading App, Case Against Google India Officer - NDTV
+  Man Loses Rs 8 Lakh To Fake Trading App,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmwzdDZGWUlsdjRHUE5FUThuWGl3dFBfcW1qOEJqblZINXZrSW12QmZYZ21ack5QNkgyYk85c2I5TE5QM1ZPUTZEMkxnUlhRcmRFQmN0WmNkOUd6ZHEyRlZoR3liTDRqQlM1TTFvRTRQaDVpaHhqQThfSExSRHFhRzNWS19xcS1KVTNuWFdOMGtERVpHeVdXYlI3cjJsZVpPRTFHUjZRRVIxMDBDaW5ZallJTmw?oc=5
 
-- US stocks stay lower after Fed leaves rates unchanged
-  GLOBAL-MARKETS:
-  🔗 https://www.livemint.com/market/us-stocks-stay-lower-after-fed-leaves-rates-unchanged-11785351254137.html
+- Japan's Nikkei rises on sharp Advantest gains
+  Advantest's shares surged after it raised its annual profit forecast significantly. Other chip-related stocks also experienced upward movement. However, the broader Topix index declined as banking shares faced selling pressure.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rises-on-sharp-advantest-gains/articleshow/132724758.cms
 
-- US Federal Reserve holds rates steady for fifth consecutive meeting: 5 key takeaways
-  The U.S. Federal Reserve, led by Chair Kevin Warsh, kept interest rates unchanged for the fifth consecutive meeting.
-  🔗 https://www.livemint.com/market/stock-market-news/us-federal-reserve-holds-rates-steady-for-fifth-consecutive-meeting-11785346712831.html
+- Gold edges higher as markets weigh Warsh's inflation message after Fed decision
+  Gold prices saw a slight increase as markets evaluated Federal Reserve comments. Investors now anticipate a lower probability of a September rate hike. Geopolitical events in the Middle East are also contributing to market caution.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-as-markets-weigh-warshs-inflation-message-after-fed-decision/articleshow/132724739.cms
 
-- Juniper Green Energy raises  ₹539 crore from anchor investors ahead of IPO opening on Thursday
-  Juniper Green Energy has raised  ₹539.4 crore from anchor investors for its IPO on July 30, 2026. The IPO aims to fund projects and support India's
-  🔗 https://www.livemint.com/market/stock-market-news/juniper-green-energy-raises-rs-539-crore-from-anchor-investors-ahead-of-ipo-opening-on-thursday-11785344630966.html
+- Dollar steadies as Fed holds rates, US strikes Iran
+  The US dollar strengthened in Asian trading after the Federal Reserve maintained its interest rate. Geopolitical developments, including air strikes in Iran, also supported the greenback's value. Other currencies like the British pound and euro experienced slight declines against
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-steadies-as-fed-holds-rates-us-strikes-iran/articleshow/132724723.cms
 
-- Microsoft stock edges higher ahead of Q4 results, Wall Street eyes AI payoff
-  Analysts expect Microsoft to report adjusted earnings of $4.24 per share
-  🔗 https://www.livemint.com/market/microsoft-stock-edges-higher-ahead-of-q4-results-wall-street-eyes-ai-payoff-11785345972320.html
+- Oil prices slip as tankers continue to ply Middle East conflict zones
+  Oil prices saw a decline as tankers continued to move out of the Middle East. Escalating tensions and expanded conflict fronts are impacting regional stability. Thirty-nine commodity ships passed through the Bab el-Mandeb strait into the
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slip-as-tankers-continue-to-ply-middle-east-conflict-zones/articleshow/132724710.cms
 
-- Cupid makes additional $5 million investment in GII Healthcare platform
-  Cupid has invested an additional $5 million in GII Healthcare Investment Limited. The investment enhances Cupid's commitment to GII's long-term strategy.
-  🔗 https://www.livemint.com/market/stock-market-news/cupid-makes-additional-5-million-investment-in-gii-healthcare-platform-11785343254688.html
+- Adani Ports Q1 net profit rises 10% on overseas growth
+  Adani Ports reported a 10.2% profit increase for the June quarter. Revenue from operations climbed 18.6 percent to ₹10,820.80 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-q1-net-profit-rises-10-on-overseas-growth/articleshow/132724619.cms
 
-- Mark Zuckerberg slams OpenAI- Anthropic over 'centralisation' of AI power
-   Meta CEO Mark Zuckerberg criticized OpenAI and Anthropic for potentially
-  🔗 https://www.livemint.com/technology/tech-news/mark-zuckerberg-slams-openai-anthropic-over-centralisation-of-ai-power-11785322779082.html
+- How has the Indian government responded to ‘Cockroach’ protests? - Al Jazeera
+  How has the Indian government responded to �
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWJsYUdsY2dCdW01VUFiRmE0ZWxmVUh4MXRGdzJVbmhSSUlEUmJmNzkyOFRLUFRzUmZuTzNVSlZZdm1vQkw0STZ3QjVleE9id1Q1TnNTV2daWnNxLUtyWEp5WEEzbjNLUVl2amdSRENQS0pwWUlIZi12YlVETGwwZGlrRENsX3lycjAtc2NPaFV5Q0RsOGRra2ZOUF9hTDk4dGJnN9IBqgFBVV95cUxNTTVYUUo2bm9YTGFHcEhSMzZ0RWR5cVM2YlE5T3lDZzEyYV9kUEhHakYwWU9nc09ZZEk1OEdZOVo2VjlpcWprWFFNV0ZCU1ZMU3M2a2l6MkFibE83a3FEa2dNcVpsbHo0a0FTQUtoZTJmVm9vYWNGRnpXZXROeVNvazdkdjZGOW83Vk9xUThqWEpSc0NGVDVmWW5LbWlXUzVCeG5aanJDS3hCQQ?oc=5
 
-- Dell XPS 13, Dell 14S, Dell 16S and Alienware 15 laptops launched in India: Price, specifications and more
-  Dell has launched its latest laptops: XPS 13, Dell 14S, Dell
-  🔗 https://www.livemint.com/technology/tech-news/dell-xps-13-dell-14s-dell-16s-and-alienware-15-laptops-launched-in-india-price-specifications-and-more-11785315855137.html
+- India faces 100% Trump tariff threat as US Senate advances Russia Sanctions Bill - what it means - The Times of India
+  India faces 100% Trump tariff threat as US Senate advances Russia Sanctions Bill.
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNV2lZZWotNlNHM2xkcWNtbDE3b1o4dUFvNHdjcy1tMlBvUmNPaU5KblVVenc4eXV1N2p3ZjQ1d2xFdkJ6amN1YmNGWE9hVFFvbm00VDYyYjlNekFzRGRNMGltQnNKMEtYM0RZWUstSld0aFZPYkZkaWM2X2k4YTJBYl9qN3NJTlE0QVdRS2dUaDhPYnBCV08tQTR1eTVCQ2VGUjNWZE1peHpUOWdZQUp3Vkl1OWRNSkVuVHR2Vi1iNlhEZnZMNnVnZFdVdjA4UFozSmJoa0FnN3ZvMmphcWZRbjl0NDR6WlpQMnFuR096Rjd6clQxOHhxa3Y1RnN2NXNvZzZlYzF5YjFtb1HSAZACQVVfeXFMT3RUVVFDS2FwdHRYeFZXSE1wUGJ5V2h6eU5ZLXo0a3RoRTFEUkFJdFRiRFR0UUFLZm1wY2ZOclFya1FSV1dXV0VWaE91Ykx5TTk2UHJObDMtbHNxT3Bmd3lJQUR6dkFaMC0tVnNUSXJ3MENrWU1NaDB5bGlFVW4ydEZrTDJQaXpCeUJWSV9pRjBSclcxQmNjc3N1NVhybXNycGJBOFdZaGVhWHhaRkhiMWVsRUNLOWljUmV6T1hyR1FCcmRzbE1BSkpJeW1acE9wV1pLSHNybWFqTUNGWTNCNTZfRzBWVDJlY3loSk04RUUxbWs2V1Y4dXVheDNvR1FLYWxQMEQyY1NLeWxqdFRlUnE?oc=5
 
-- Gen-AI may replace 8-12% of Indias non-agricultural jobs: Goldman Sachs
-  Generative Artificial Intelligence (Gen-AI) could substitute 8-12 per cent of India's non-agricultural employment. It could complement
-  🔗 https://www.livemint.com/technology/genai-may-replace-8-12-of-indias-non-agricultural-jobs-goldman-sachs-11785307373774.html
+- US Senate Advances Russia Sanctions Bill Calling For 100% Tariffs On India, China - NDTV
+  US Senate Advances Russia Sanctions Bill Calling For 100
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVA2Qzk5VWwtdzE2QlhIWGlkWlZxbTFUaFJBUnhMWVBQSURWWm5GNVE3QU1GVndEY3dfOE1tSEtVNGdaYWw0NThSWUdhNkk3eXFRMzFzQ1BFdi15blVZclFxSUhzUV9wV1ZuOTFFZ1l3clJuQUFsZjliaUZpei16MEZEY0JBTEFZcGF4ZHNWM3hSZlFsbFdTZjVsZ0RQa1h3SmpXMDNjd2pzaDRuS2lFM0lFdkhhUFNnWkHSAcIBQVVfeXFMTmVsd0R2YmlUbUZHbG8tUnpWMHIwVjJfTG5HQzR2SEllWnNJT002NF8tcFRNYjJsMnYxLTJFZVNtMHhmRDRLa2FHanpuVnMzVmFKZ1hSVHFkMFd0WGpzY2lCNEdoeXVwUEt4bmhpTTV6R1AtNDhGTXZYVWF2LVhoV2NjZmhfX3FBSHh0Q1pLbGdiVlVXVkN5V3l1Q01FRTIyZU1Ob0JtanhON2NFdlpMOE9pU2lkYlNuRHE4XzZCWkVHUFE?oc=5
 
-- Google rolls out Gemini Spark AI agent to users in India: Here's what it can do
-  Google is launching its Gemini Spark AI agent for subscribers in India next month. The AI agent is designed to automate tasks and integrate with
-  🔗 https://www.livemint.com/technology/tech-news/google-rolls-out-gemini-spark-ai-agent-to-users-in-india-heres-what-it-can-do-11785304937137.html
+- India, China ‘main culprits’, key targets of Russia sanctions bill: US senator | India News - Hindustan Times
+  India, China ‘main culprits’, key targets of
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQXpEVlVQVEhmYWlzRmN0VmZRUWtnMEhrYUNpSlhDd29zc2plZDRwVm5TSzd6Nm10RzhFNGdwT0lzUVpPVHotakZDTEthMG9YRmN4R0RGMFFSSHVoOWRPY1M0d0pZaHVMR3h2WVg3Y0RwMG1tdFlMSVNxZ0RGbnZCdmFkd092aXZKVzZQNUE4ZTZFclo5cGFvSEZNOG52bVZMM3lqejNjSF9TR2NtWGZzRGZRb3VmeVNPczVtNFo4SGhhbERCT29fOG9DWlFLeF9jZWp6dmc1MmlLWVZ5QURzQ09XMkFhV0tRYVBhY016Y0JKM3REcDU2S1N0ZndadUFEV2xQcnhGdFbSAY4CQVVfeXFMUHBCUlYyS0REb0k1N2xBUVVtaVBuelc5ZFFpdEFsUFhxOEhrZmhGeFhSeFJIbk1GTEN5cFgwMks2QkNSUkIzYl9nVXRmYjFSLWJvejFCQ2I1bkVNRzVIYmJ4QXJlY3FQYWtCaWRyUmNJU0JMYmI4QmdZTXlYWTkxTFEtZnNlLVE2QzNlVENXRGFIOURtTVFlbjNmZmVnVDVOS2I4ck5IUFM0MDJWWkV0TnJLaUtKUnFydFZ0dzdmTFF3QV9JZU05c2JVM29lMDlZa0hJNmY3eHdtYTZVMXpLbF95TU41bFFrRGp4elYzQ216ZzE5aUIyYXpqem1ndUg4NEVNbzdCeFk5VktzVkVR?oc=5
 
-- Not just Hugging Face, OpenAI says its rogue AI agent also accessed accounts across four online services
-  OpenAI's rogue AI breached not only Hugging Face but used exposed credentials to access four other accounts. While
-  🔗 https://www.livemint.com/technology/tech-news/not-just-hugging-face-openai-says-its-rogue-ai-agent-also-accessed-accounts-across-four-online-services-11785298726140.html
+- Man Loses Rs 8 Lakh To Fake Trading App, Case Against Google India Officer - NDTV
+  Man Loses Rs 8 Lakh To Fake Trading App,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmwzdDZGWUlsdjRHUE5FUThuWGl3dFBfcW1qOEJqblZINXZrSW12QmZYZ21ack5QNkgyYk85c2I5TE5QM1ZPUTZEMkxnUlhRcmRFQmN0WmNkOUd6ZHEyRlZoR3liTDRqQlM1TTFvRTRQaDVpaHhqQThfSExSRHFhRzNWS19xcS1KVTNuWFdOMGtERVpHeVdXYlI3cjJsZVpPRTFHUjZRRVIxMDBDaW5ZallJTmw?oc=5
 
-- Dow tumbles 900 points as losses accelerate ahead of Fed decision: Live updates - cnbc.com
-  Dow tumbles 900 points as losses accelerate ahead of Fed decision. Nasdaq futures steady after Korean stocks fall, Iran resumes attacks.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE8tYmcyY1dKZDZXZm10Ni1sS185eklFbWhkUU1hOFhpbG9EY0VmWjZvN21IaUVKbUpWYXpZVm81czBfOFM1dGcwT1h0eUZiMHhua1hCTTRwRjBySkY0VmRWdmlTRWE4T0xjTjVya08zNjZKUVpnYk5F0gF8QVVfeXFMT3EzdGU3SjJheXZwV25YRXRpSnR3MTcxRHJEZ2wxRzVGVmFBWTE0M3licnBPcHV1TC1KN1NpTFlfMkxtdUNWQnNfY3ktbG5oNFhtS2M4akdZcGRDSnlrVWNYNGhKZk02cWlUTlNkeVNPUzR6MmVxMzVUOXg0TQ?oc=5
+- SUIND Bags ₹20.5 Cr To Build Autonomous Surveillance Drones
+  SUIND has raised ₹20.5 Cr (around $2.1 Mn) in a seed funding round.
+  🔗 https://inc42.com/buzz/suind-bags-%e2%82%b920-5-cr-to-build-autonomous-surveillance-drones/
 
-- South Korea’s stock market plunges as AI-driven boom fades - Al Jazeera
-  South Korea’s stock market plung
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmZNcEtQUnpRbHdtRWpiVng1dnhxVlJCM1VVdzZRQUpwMjh0cGJDLVRuWnZpSDdjc1Q5VkpYaUF3OWRZU0NPYjZzSUxvakwtMjBVLVdRSjdLOVI0QmpockFtQTIwamJHNW1TREJsZXBrN1ZQX001VHBfMldwUEQtTGVIMG5YTGN6aEdQeU9mOEsxTU51Y3NlRjI2UVFlbTZZTGVv0gGoAUFVX3lxTE8tVjBGU2Mtb3BsRTVwU3BZWmVua0ZBS3ZFT012R0JuTkgwQ0M3UlFTaEdRdURyYnM0X0lPTlBCQjFmVEpKYXBqOGhJR0RiRHRoZXpFdEk4eENJT0QtaXBTMXNHN3g5alF3T0FMU0U4RkJQTUlrWXJFODNkRVlVdUJOQTRyTFpScExfUHdYRjRUSUlWTERBNDNOazdneHlEZXhGTHVWUU1RVg?oc=5
-
-- Oil markets remains overly optimistic about a return to normalcy with Hormuz: Rapidan's Bob McNally - cnbc.com
-  Oil markets remains overly optimistic about a return to normalcy with H
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2F0OGVuLXgtTXFNdkUzaTNzU3c0YWVRZDFHYk1LNWt0WVFBS1YzUldsQmt2aU5haUZieGw1M2F0Q3VFQks4bEJhdUxfT281QVBGRmdicHBsQ1B6Y3BCRFEtRndOWXFoNV9NZmRILUJ1TllTV1RHTWUzTHRpYzd4V3JveXh5WThEbmQxX0lXTHVXbmNhVkkyUlVuYWJzRkkyUXBLc0NINnZ3UXlmQVhGYS1lQUFBOWpmZm5jU183MUdRc3hNRkFSY0FWM2JEemZrX0ZHY2hmOA?oc=5
-
-- Hike or Hold? Fed’s Warsh Has Markets Unsure: Decision-Day Guide - Bloomberg.com
-  The Fed is set to announce its
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzVRT09kemJmY3Vxcko0b2VlWGVBRmxaM1dRWXgxbk10aTdlVGNrSHVmYm9vTEpSLWNlbjhqMTVCV2k3MnZUbG0xbGplcmlvMDVMZ21RanhuM2NlNnVZS2ZqUFlSa0FFZHVIODlNRXFyNjlhZWhVNThwSjF3VXhkRHdFVGk3azVsdTBLYVFmX09CTTVzZUVVNU1DeWtkM0dfemF2UndPcE95Qk0xVk5SdFBscw?oc=5
-
-- Warsh's plan for a more opaque Fed will get put to the test by markets on edge - cnbc.com
-  Warsh's plan for a more opaque Fed will get put to the test
-  🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE10V3lWLWVNZ0x0cUd0cV8wZGxhM1gtTUQ4RzFxeHZab01PUVhqQVJEQVpBQWlQaGtCeXdjYVBNVWFVdnVkYnIyUkREUXZVaGNMR2pUUGZnTS1BQV9RSUoxZjFRbUpZTFZOQzZNQdIBckFVX3lxTFBBZURIQ3BINS1aWUxoWUk3bDNEZkFva2UxeXlLMUQyNk5VRDR5T01fMUlUcWVUd1lvbEhrNnh0SzZQLWZlOUg5OHVfZ1pmWm1RY19qeTZUNVdqOVpsQUttOW9yNHVhd2dlMjBJVV9kV0lLUQ?oc=5
-
-- US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge
-  The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserve-keeps-rates-steady-as-iran-driven-inflation-risks-keep-markets-on-edge/articleshow/132719615.cms
-
-- Brent crude jumps 7%, climbs over $90 on escalating Middle East strikes
-  Oil prices surged significantly amid renewed Middle East airstrikes and supply concerns. Military actions in the Strait of Hormuz and surrounding regions contributed to price volatility. Analysts predict oil prices will fluctuate within a broad range in the near term.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-jumps-7-climbs-over-90-on-escalating-middle-east-strikes/articleshow/132717383.cms
-
-- J&amp;K Bank Q1 profit slips 13% as higher provisions hit earnings
-  Jammu and Kashmir Bank reported a 12.6% decline in Q1 net profit to Rs 424 crore. Advances and deposits grew strongly, while net interest margin narrowed.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jk-bank-q1-profit-slips-13-as-higher-provisions-hit-earnings/articleshow/132716700.cms
-
-- Star Health Insurance Q1 Results: Profit jumps 25% to Rs 550 crore
-  Star Health reported a twenty-five percent net profit increase for the first quarter. Total income rose to Rs 4,471 crore from Rs 3,990 crore a year ago. Underwriting profit surged significantly to Rs 111 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/star-health-insurance-q1-results-profit-jumps-25-to-rs-550-crore/articleshow/132716654.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Sensex gained 889 points and Nifty topped 24,250, adding over Rs 4 lakh crore in market value. Strong IIP data, IT and metal buying, bullish technical indicators and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132716493.cms
+- InCred Finance Q1: Profit Jumps 82% YoY To ₹172 Cr
+  InCred Finance said that it reported a consolidated net profit to ₹172 Cr in Q1 FY27, up 82% from ⁹94 Cr in the year ago quarter.
+  🔗 https://inc42.com/buzz/incred-finance-q1-profit-jumps-82-yoy-to-%e2%82%b9172-cr/
 
 - Peak XV Partners Again Dumps Go Digit Shares Worth ₹139 Cr
   For the second time in two months, early backer and VC giant Peak XV Partners has offloaded shares worth nearly $8230.
@@ -151,34 +119,6 @@
 - Tata Communications Amps Up Voice AI Play For India’s SMBs
   Tata Communications is betting that India&#8217;s 63 Mn-odd micro, small and medium enterprises (MSMEs)
   🔗 https://inc42.com/buzz/tata-communications-expands-voice-ai-push-eyes-smb-adoption/
-
-- Freehand Raises $75 Mn To Expand Enterprise AI Platform
-  Freehand, an AI startup building autonomous agents for enterprise supply chain operations, has raised $75 Mn (₹718 Cr) in a&#8230;.
-  🔗 https://inc42.com/buzz/freehand-raises-75-mn-to-expand-enterprise-ai-platform/
-
-- BlueStone, SafeGold Partner To Convert Household Gold Into Digital Gold
-  Omnichannel jewellery retailer BlueStone has partnered with digital gold platform SafeGold to launch a gold-monetisation initiative.
-  🔗 https://inc42.com/buzz/bluestone-safegold-partner-to-convert-household-gold-into-digital-gold/
-
-- 'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament - BBC
-  'Delulu', 'Clock it': 'C
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hd0VGakZzdUttWE53QWpwMnJwcDl2ajE0VElHRXdCUExIa2lxMkp3ay16dXl6MnczZ085czFlUzVaMU1sVk1Pd1pmaHVpdHdTSmRmYVZKYjBqQQ?oc=5
-
-- How has the Indian government responded to ‘Cockroach’ protests? - Al Jazeera
-  How has the Indian government responded to �
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWJsYUdsY2dCdW01VUFiRmE0ZWxmVUh4MXRGdzJVbmhSSUlEUmJmNzkyOFRLUFRzUmZuTzNVSlZZdm1vQkw0STZ3QjVleE9id1Q1TnNTV2daWnNxLUtyWEp5WEEzbjNLUVl2amdSRENQS0pwWUlIZi12YlVETGwwZGlrRENsX3lycjAtc2NPaFV5Q0RsOGRra2ZOUF9hTDk4dGJnN9IBqgFBVV95cUxNTTVYUUo2bm9YTGFHcEhSMzZ0RWR5cVM2YlE5T3lDZzEyYV9kUEhHakYwWU9nc09ZZEk1OEdZOVo2VjlpcWprWFFNV0ZCU1ZMU3M2a2l6MkFibE83a3FEa2dNcVpsbHo0a0FTQUtoZTJmVm9vYWNGRnpXZXROeVNvazdkdjZGOW83Vk9xUThqWEpSc0NGVDVmWW5LbWlXUzVCeG5aanJDS3hCQQ?oc=5
-
-- India news: Police issue FIRs over 'abusive' posts on Modi - DW.com
-  India news: Police issue FIRs over
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNNllJTDJ3SUJSWjJZTHNOazd2ZEVqazRfU1phU2VSbmRaM1g2ZWpBYUZFTXNSM1FVbTB2QVRmNzRTWUxyeTlNTHZXa2FzNDdfZk8zRUo2V2hBcjdxdVJ4NThDRXVNUEJyNkgzRDdUQ25QNEVOdENvQ2dURmthVXBGVG9mb1BOeWJsbE5LSDRleDA2UVNucFZRQ3F6UEc?oc=5
-
-- India, China ‘main culprits’, key targets of Russia sanctions bill: US senator | India News - Hindustan Times
-  India, China ‘main culprits’, key targets of
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQXpEVlVQVEhmYWlzRmN0VmZRUWtnMEhrYUNpSlhDd29zc2plZDRwVm5TSzd6Nm10RzhFNGdwT0lzUVpPVHotakZDTEthMG9YRmN4R0RGMFFSSHVoOWRPY1M0d0pZaHVMR3h2WVg3Y0RwMG1tdFlMSVNxZ0RGbnZCdmFkd092aXZKVzZQNUE4ZTZFclo5cGFvSEZNOG52bVZMM3lqejNjSF9TR2NtWGZzRGZRb3VmeVNPczVtNFo4SGhhbERCT29fOG9DWlFLeF9jZWp6dmc1MmlLWVZ5QURzQ09XMkFhV0tRYVBhY016Y0JKM3REcDU2S1N0ZndadUFEV2xQcnhGdFbSAY4CQVVfeXFMUHBCUlYyS0REb0k1N2xBUVVtaVBuelc5ZFFpdEFsUFhxOEhrZmhGeFhSeFJIbk1GTEN5cFgwMks2QkNSUkIzYl9nVXRmYjFSLWJvejFCQ2I1bkVNRzVIYmJ4QXJlY3FQYWtCaWRyUmNJU0JMYmI4QmdZTXlYWTkxTFEtZnNlLVE2QzNlVENXRGFIOURtTVFlbjNmZmVnVDVOS2I4ck5IUFM0MDJWWkV0TnJLaUtKUnFydFZ0dzdmTFF3QV9JZU05c2JVM29lMDlZa0hJNmY3eHdtYTZVMXpLbF95TU41bFFrRGp4elYzQ216ZzE5aUIyYXpqem1ndUg4NEVNbzdCeFk5VktzVkVR?oc=5
-
-- US Senate Advances Russia Sanctions Bill Calling For 100% Tariffs On India, China - NDTV
-  US Senate Advances Russia Sanctions Bill Calling For 100
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVA2Qzk5VWwtdzE2QlhIWGlkWlZxbTFUaFJBUnhMWVBQSURWWm5GNVE3QU1GVndEY3dfOE1tSEtVNGdaYWw0NThSWUdhNkk3eXFRMzFzQ1BFdi15blVZclFxSUhzUV9wV1ZuOTFFZ1l3clJuQUFsZjliaUZpei16MEZEY0JBTEFZcGF4ZHNWM3hSZlFsbFdTZjVsZ0RQa1h3SmpXMDNjd2pzaDRuS2lFM0lFdkhhUFNnWkHSAcIBQVVfeXFMTmVsd0R2YmlUbUZHbG8tUnpWMHIwVjJfTG5HQzR2SEllWnNJT002NF8tcFRNYjJsMnYxLTJFZVNtMHhmRDRLa2FHanpuVnMzVmFKZ1hSVHFkMFd0WGpzY2lCNEdoeXVwUEt4bmhpTTV6R1AtNDhGTXZYVWF2LVhoV2NjZmhfX3FBSHh0Q1pLbGdiVlVXVkN5V3l1Q01FRTIyZU1Ob0JtanhON2NFdlpMOE9pU2lkYlNuRHE4XzZCWkVHUFE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +149,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-29 19:08:40 UTC_
+_Last updated: 2026-07-30 01:56:52 UTC_
