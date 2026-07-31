@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Amid Opposition protests, House clears Bill criminalising insult to Vande Mataram
+- Chennai Egmore railway station redevelopment: Train services changed from August 5, check full list
   
-  🔗 https://indianexpress.com/article/india/vande-mataram-bill-lok-sabha-passed-10811272/
+  🔗 https://indianexpress.com/article/india/chennai-egmore-railway-station-redevelopment-train-services-changed-august-5-full-list-10811860/
 
-- Now, Gen Alpha: Bihar school students march 4 km over lack of facilities, staff face salary cut
+- Gold Rate Today, July 31: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/now-gen-alpha-bihar-school-students-march-4-km-over-lack-of-facilities-staff-face-salary-cut-10811220/
+  🔗 https://indianexpress.com/article/india/gold-rate-today-july-31-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10811526/
 
-- India’s medical regulator seeks inquiry into Bihar MBBS exam ‘leak’
+- ‘Made a promise’: Raghav Chadha breaks silence on student protests
   
-  🔗 https://indianexpress.com/article/india/bihar-igims-mbbs-exam-leak-national-medical-commission-probe-10811180/
+  🔗 https://indianexpress.com/article/india/want-outcome-not-headline-raghav-chadha-breaks-silence-on-student-protests-10811516/
 
-- From government to private: In 3 years, 1.54 lakh J&K Bank accounts were not linked to PAN
+- Parliament Monsoon Session 2026 Day 10 LIVE: Both Houses adjourned as Opposition demands discussion on Ram Temple donation theft
   
-  🔗 https://indianexpress.com/article/india/jammu-kashmir-bank-accounts-were-not-linked-to-pan-10811241/
+  🔗 https://indianexpress.com/article/india/parliament-monsoon-session-live-updates-day-10-judges-bill-pm-modi-rahul-gandhi-amit-shah-10811420/
 
-- ISRO’s NavIC system can no longer provide navigation data independently: Government
+- Meta India head named in Telangana cases over ‘derogatory’ posts targeting PM Modi
   
-  🔗 https://indianexpress.com/article/india/isros-navic-system-can-no-longer-provide-navigation-data-independently-government-10811286/
+  🔗 https://indianexpress.com/article/india/meta-india-chief-insta-accounts-named-in-hyderabad-police-case-over-student-protest-posts-targeting-pm-modi-10811471/
+
+- OpenAI slashes prices for Luna and Terra AI models as competition heats up
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-slashes-prices-for-luna-and-terra-ai-models-as-competition-heats-up-10811818/
+
+- Anthropic says Claude AI models breached systems of 3 companies during cybersecurity tests
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ai-breached-systems-cybersecurity-tests-10811428/
 
 - Apple warns of slower September-quarter growth amid supply constraints
   
@@ -32,13 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/uk-competition-regulator-investigates-whether-microsoft-misled-personal-and-family-customers-10810079/
 
-- Google to expand Play Store age-verification tool globally: What it means for users
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-expands-play-store-age-verification-globally-10810061/
+- SpeedLabs’ Vivek Varshney on the physics of surviving EdTech
+  Vivek Varshney's journey from Kasganj to establishing SpeedLabs exemplifies resilience. After leaving a banking career in 2015, he pioneered a personalised learning
+  🔗 https://www.livemint.com/companies/people/speedlabs-vivek-varshney-on-the-physics-of-surviving-edtech-11785431144341.html
 
-- Humanoid robot, powered by Qualcomm’s AI chips, collapses during Taipei event
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/humanoid-robot-powered-by-qualcomm-ai-chips-collapses-during-taipei-computex-event-10809988/
+- Apple rides on rising Mac demand to sustain India growth, but caution looms
+  Apple reported another record quarter in India, driven by strong Mac sales. It warned that worsening chip-related supply constraints could hit iPhone, Mac and iPad
+  🔗 https://www.livemint.com/companies/apple-india-tim-cook-kevan-parekh-macbook-mac-sales-iphone-supply-constraints-semiconductor-shortage-11785462078621.html
 
 - Google Pay integrates Gemini AI into app, expands credit push
   Google’s move comes as technology companies race to embed generative AI into consumer applications. Banks and fintechs
@@ -52,173 +60,145 @@
   Rahul Bhatia is the founder and managing director of IndiGo. He compares the required execution discipline to climbing Mount Everest.
   🔗 https://www.livemint.com/companies/indigo-global-expansion-rahul-bhatia-interview-11785415290276.html
 
-- IndiGo eyes global growth, calls India its ‘fort’ for international expansion
-  IndiGo is preparing for its next act: becoming a global airline by carrying Indian travellers to international destinations through
-  🔗 https://www.livemint.com/companies/indigo-eyes-global-growth-calls-india-its-fort-for-international-expansion-11785416563687.html
+- Zee Media shares rise up to 10% after allotment of foreign currency bonds to Mauritius-based FPI
+  Zee Media share price today opened upside and touched an intraday high of  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/zee-media-shares-rise-up-to-10-after-allotment-of-foreign-currency-bonds-to-mauritius-based-fpi-11785484317755.html
 
-- Amazon reports strong profits and net sales for Q2, fueled by robust growth in cloud computing unit
-  Amazon reports strong profits and net sales for Q2, fueled
-  🔗 https://www.livemint.com/companies/amazon-reports-strong-profits-and-net-sales-for-q2-fueled-by-robust-growth-in-cloud-computing-unit-11785445360658.html
+- Mukul Agrawal-portfolio multibagger stock LT Foods jumps 5% after Q1 results; details here
+  Mukul Mahavir Agrawal held 39,00,000 shares, equivalent to 1.12% of the total voting rights, of LT Foods by the end of
+  🔗 https://www.livemint.com/market/stock-market-news/mukul-agrawal-portfolio-multibagger-stock-lt-foods-jumps-5-after-q1-results-details-here-11785482484299.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 31 July
-  Indian stock indices Sensex and Nifty 50 are set to open flat-to-positive on 31 July. On 30 July, Sensex gained 273.55 points, Nifty closed above 24,300
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-31-july-11785462097113.html
+- Bajaj Finserv Q1 Results: Net profit rises 12% to  ₹3,132 crore; board approves entering reinsurance business
+  Bajaj Finserv reported a 12% YoY increase in consolidated net profit to  ₹3,132 crore for Q1 FY27. The board approved entering the reins
+  🔗 https://www.livemint.com/market/stock-market-news/bajaj-finserv-q1-results-net-profit-rises-12-to-rs-3-132-crore-board-approves-entering-reinsurance-business-11785481405370.html
 
-- Stocks to watch: Maruti Suzuki, IOC, Tata Steel among shares in focus today; check list here
-  On Thursday, Sensex climbed 274 points, or 0.35%, to close at 77,928. N
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-maruti-suzuki-ioc-tata-steel-among-shares-in-focus-today-check-list-here-11785428340537.html
+- Multibagger stock Netweb Technologies surges almost 10% in a lacklustre market; what should investors do?
+  Netweb Technologies share price saw a near 10% increase. Analysts warn against holding on to long positions.
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-netweb-technologies-surges-almost-10-in-a-lacklustre-market-what-should-investors-do-11785480033936.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 31 July 2026
-  Sumeet Bagadia recommends five breakout stocks to buy today. Avalon Technologies, Karnataka Bank, Tamiln
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-31-july-2026-11785426929995.html
+- Penny stock under  ₹10 PC Jeweller pares early losses, jumps around 3% from today's low; here's why
+  PC Jeweller shares rose nearly 3% after announcing the repayment of over 96% of its bank debt. The stock opened at  ₹9.
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-pc-jeweller-share-price-pares-early-losses-jumps-around-3-from-todays-low-heres-why-11785478832395.html
 
-- Curtains down on co-location, dark fibre: Sebi agrees to NSE's  ₹1,491 crore settlement
-  The settlement brings to an end a long-drawn legal battle between India’s market regulator and its largest stock
-  🔗 https://www.livemint.com/market/nse-national-stock-exchange-sebi-co-location-case-dark-fibre-nse-ipo-stock-listing-11785431453456.html
+- Anthropic says its AI models hacked 3 organizations during testing
+  Anthropic says its
+  🔗 https://www.livemint.com/technology/anthropic-says-its-ai-models-hacked-3-organizations-during-testing-11785478413346.html
 
-- Stock recommendations for 31 July from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 31 July. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-31-july-from-marketsmith-india-11785426200512.html
+- Anthropics AI hacked three companies during tests, highlighting growing security risks
+  Anthropic's AI hacked
+  🔗 https://www.livemint.com/technology/anthropics-ai-hacked-three-companies-during-tests-highlighting-growing-security-risks-11785477849046.html
 
-- After OpenAI, Anthropic reveals Claude models gained unauthorised 'real-world' access to systems of three organisations
-  Anthropic said three different versions of its model, known as Claude, improperly accessed the systems of three unnamed organisations.
-  🔗 https://www.livemint.com/technology/after-openai-anthropic-reveals-claude-models-gained-unauthorised-real-world-access-to-systems-of-three-organisations-11785462374809.html
+- Chinese military researchers tap US AI models to train defence systems
+  Chinese military researchers tap US AI models
+  🔗 https://www.livemint.com/technology/chinese-military-researchers-tap-us-ai-models-to-train-defence-systems-11785477732089.html
 
-- Google gives first look at Pixel 11 Pro ahead of launch, ‘Pixel Glow’ revealed
-  Google has revealed the design of the upcoming Pixel 11 Pro. It features a new
-  🔗 https://www.livemint.com/technology/gadgets/google-gives-first-look-at-pixel-11-pro-ahead-of-launch-pixel-glow-revealed-11785403420911.html
+- China emerging as long-term AI winner despite semiconductor market volatility: Jefferies
+  China is emerging as the strongest long-term contender in the artificial intelligence (AI) race despite ongoing volatility in
+  🔗 https://www.livemint.com/technology/china-emerging-as-long-term-ai-winner-despite-semiconductor-market-volatility-jefferies-11785476194033.html
 
-- AI to strengthen enterprise software firms, not replace them: Goldman Sachs
-  The growing adoption of AI is expected to increase the value of enterprise data systems and the contextual intelligence built around them, according to a Goldman Sachs report.
-  🔗 https://www.livemint.com/technology/ai-to-strengthen-enterprise-software-firms-not-replace-them-goldman-sachs-11785392695870.html
+- AI customer service enters next phase as businesses focus on optimisation rather than adoption: Report
+  Businesses are focusing less on adopting AI receptionists and more on improving their performance.
+  🔗 https://www.livemint.com/technology/ai-customer-service-enters-next-phase-as-businesses-focus-on-optimisation-rather-than-adoption-report-11785468541329.html
 
-- Google brings Gemini to Google Pay: What is Ask Google Pay and how does it work?
-  Google Pay introduces Gemini-based feature, Ask Google Pay. Users must opt-in
-  🔗 https://www.livemint.com/technology/tech-news/google-brings-gemini-to-google-pay-what-is-ask-google-pay-and-how-does-it-work-11785381967267.html
+- Global Market: Euro zone, US bond yields log biggest monthly rise since March on Middle East inflation concerns
+  Euro zone and US bond yields recorded their largest monthly increase since March. Middle East conflict concerns renewed inflation fears. Traders pushed back interest rate cut expectations.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-us-bond-yields-log-biggest-monthly-rise-since-march-on-middle-east-inflation-concerns/articleshow/132761537.cms
 
-- India needs more AI champions to take technology to masses: Paytm CEO Vijay Shekhar Sharma
-  India needs many more artificial intelligence (AI) champions that can take technology to the grassroots and the masses, Paytm Founder and Chief Executive Officer Vijay Shekhar Sharma said.
-  🔗 https://www.livemint.com/technology/india-needs-more-ai-champions-to-take-technology-to-masses-paytm-ceo-vijay-shekhar-sharma-11785381751228.html
+- Juniper Green Energy IPO Day 2: Issue subscribed over 40% so far, GMP slips. Should investors subscribe or stay away?
+  Juniper Green Energy’s Rs 1,800 crore IPO received a muted response on the second day of bidding. The IPO's grey market premium has also
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/juniper-green-energy-ipo-day-2-issue-subscribed-over-40-so-far-gmp-slips-should-investors-subscribe-or-stay-away/articleshow/132761443.cms
 
-- Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise - Yahoo Finance
-  The Dow and S&amp;P 500 rebound as Microsoft leads tech gains, bond
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQZkMtZDdYTkR0cTdoWnhXY3NfQVJQZG1fTXg2bTNWRUNVUVhmR0tVMGdZM2pSQVMtdjEzYWhLMEtjcGxpNVFzNnpRRmdPZ1BQR0d6YlBPOFBCWXNaZ3FhVnhXN2ZnbmNPVjRidjdaM2Rfak13d0ZaSXZwbm5PemlvZHJSRHJiOFBZLXlvN0VCZ0wybFVZQ0Z6TzZBZnI2Z1hWQnVxbnZWV2loUno0Y3c5eU9tMExPNWZKclRwcVVmSG5Ubnd3Z2pKa0hGR1dpZw?oc=5
+- Why high-conviction investor Cathie Wood bought Nvidia after it erased billions from May high
+  Cathie Wood’s Ark Invest bought nearly 78,965 shares of Nvidia across its five largest ETFs, worth around $15.5 million. The purchase reflects renewed confidence in Nvidia's long-term AI growth prospects.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/why-high-conviction-investor-cathie-wood-bought-nvidia-after-it-erased-billions-from-may-high/articleshow/132761323.cms
 
-- Dow drops 1,100 points for worst day since April 2025 on fear the Fed is falling behind on inflation: Live updates - CNBC
-  Dow drops 1,100 points for worst day since April 2025 on fear the Fed is falling
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE8tYmcyY1dKZDZXZm10Ni1sS185eklFbWhkUU1hOFhpbG9EY0VmWjZvN21IaUVKbUpWYXpZVm81czBfOFM1dGcwT1h0eUZiMHhua1hCTTRwRjBySkY0VmRWdmlTRWE4T0xjTjVya08zNjZKUVpnYk5F0gF8QVVfeXFMT3EzdGU3SjJheXZwV25YRXRpSnR3MTcxRHJEZ2wxRzVGVmFBWTE0M3licnBPcHV1TC1KN1NpTFlfMkxtdUNWQnNfY3ktbG5oNFhtS2M4akdZcGRDSnlrVWNYNGhKZk02cWlUTlNkeVNPUzR6MmVxMzVUOXg0TQ?oc=5
+- Global Market: Sony Q1 profit jumps 32%, earthquake impact yet to be assessed
+  Sony Group reported a 32% year-on-year rise in first-quarter profit. Strong performances in its music, gaming and imaging businesses.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sony-q1-profit-jumps-32-earthquake-impact-yet-to-be-assessed/articleshow/132761263.cms
 
-- Nasdaq futures rise as Wall Street rebounds; Kospi soars 13%, triggers trading curbs: Live updates - CNBC
-  Nasdaq futures rise as Wall Street rebounds; Kospi
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5
+- Why high-conviction investor Cathie Wood bought Nvidia after it erased billions from May high
+  Cathie Wood's Ark Invest bought nearly 79,000 Nvidia shares worth about $15.5 million after the AI chipmaker's recent selloff.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-high-conviction-investor-cathie-wood-bought-nvidia-after-it-erased-billions-from-may-high/articleshow/132761211.cms
 
-- Microsoft sets record with near $450 billion single-day gain in market value - Reuters
-  Microsoft sets record with near $450 billion single-
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0tiaDVEME85dnVMQU1EMzhiSlpJd1dMOXBzZGpSVGREZmpaSTdyT0RKTmZSbzJ1NjhHTFFhVl9UdGFHNHEtSFVlX2dpaEZtVTgyZHhERGptd0RzLUp0NkNiNThtYkNUWlh2NHBhOTNpcEx4Vklua1l1RTUxR1dpM0I3UjJSeHJXV0FlZFVwMGxJOHpLN2NyajhXdmpkODN5ZmRSU3hsT3BmS05jRUx4M0RMNWNucG9N?oc=5
+- Case Against Meta India Head Over Posts Targeting PM Modi During CJP Protest - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQU00SUVELVMwRTZpU0k3dWctY1Q5X0IyNmlXZ0t6U01wWFBzVHlrYlFJcDl1M0xFQ2UzQlprZUFXaFVQSHl4SHFqSGI0RG1jZ0FTMXhHR2JsWGJKYi1HQzJkTjVqTzZXMUE5MTR6bUhBZlFPcmdtcUVZeUR1d3ljeE03R0FtUGozUXJHXzZsNHpXdDlucmx0WnlNTU5vV25LaG9NLXgwNGEwazUtSTBOQTJveF9RbGdh0gHAAUFVX3lxTE5uS1Z1TGFFMzBXYzRZc1p6UDcwMFBLenVuZk5nNnF4bEcxaTN1MmhCTWlRanp2cm9kMGh2SEpXSEh3bm9EQXpUX3RzaHFRLVZtMk1tT013dXpQVTN3eXJGcUwwUHBHMVRocmU1SW9yRnBoQUpJMWdsaGFtYjdvOXVvWW9iY3JUdE1ITm1hcEtuS28tQlROd1pmcm0wa3ZSdlFOX2IzZUlTT213SlNoMk5iX2JZbTB2a2JmVUhCM2tUUw?oc=5
 
-- Microsoft Posts Biggest One-Day Market-Cap Gain for Any U.S. Company - WSJ
-  Microsoft posts Biggest One-Day Market
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnVMRnpOTU9YRU9RX2FwSDQ5dlptV1hxSzJPd1NMSlpEdTJtMXFvZTBYblJWcWFkams4TUczd0dCNm05bS1VSGJ1ZDBlYS0zYlNSbkpzRTlWc2tFTzZjYmJUang3NDcyWVNtQzNsVGFUSWxzc2w5QWJpaHZueTUydEhhQ1dNN3lvMFBrY3VTUFd1NkFJYk9BNWZlcmNhVWJmXy10Nmg2aDRsN2I5ZUJxdQ?oc=5
+- Meta India head named in Telangana cases over ‘derogatory’ posts targeting PM Modi - The Indian Express
+  Meta India head named in Telangana cases over ‘der
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSHJRYWdvMVhlMDBRSkJ2aGZmVHVITVhDNjZxdUtGMzhlcHowb2o5bWI1UVhHNVFGOUdiVlFBcG5KUEdWdG9QRGVpR1ZfUU92eWVHcWFkb09odHRoVEkyaUhrazFweTlJaEN2R05lVFNoREsxdmdYeTNHd0g3U0dURkxINm4xeEg1WGc4TkNHT1l3T0NtN3A4UnduLVpwVk1LSFZnd2NtN3JUYzd4MnhGMmZlcUx5ZEV3MHhTdXFjaXg3N3lZb0FGUHVPV2ZuSHFQcThpTnRkMGJVanFuUFd5UVExcDZxZWJIRmNrYlhR0gH0AUFVX3lxTFByVGtuSFlsRy0tS0E1a0VUOFR6MUJRcjlPMUlYZndWcHNsblRNMjdfUGdsQ2h0NUduZTkzQzR2X2huTXdTQWp4Tk1mR2pVN0JLRUozd25YOHdfTTdBSko3SjlaZjI3MWFyeERQa19mTExoOGJjUkY2ZldTNHotYmlYVnB0RXktWFBmU0h5b2EyclNkTFEtR1ZyQzhNemZLZzhXaGVFbHprZ0ZVeEh6c1NmVUlNdi1nREs1TmdXNHhYelFSYWVsODJJMEx0SFZpa19nZjhXZ2dBR21JT0ZDYUFRMUIwYzlhdUw2UTlyRGdZeVh4TVE?oc=5
 
-- ETMarkets Smart Talk | Build a portfolio with 50% large caps, 30% midcaps and 20% small caps: Roop Bhootra
-  Large-cap stocks have lagged their mid- and small-cap peers in recent months. valuation
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-build-a-portfolio-with-50-large-caps-30-midcaps-and-20-small-caps-roop-bhootra/articleshow/132753472.cms
+- Meta India head named in FIR over morphed photos targeting PM Modi during student paper leak protests | India News - Hindustan Times
+  Meta India head named in FIR over morphed photos targeting PM Modi during student paper leak protests.
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzBsdVlvRm1admJmRGVJUWRZQ0lfakRjYVE4OGxZeF9hS2JyMXp5bzhwZVBmeF9FNnZkdnhpSUtfWXRKVmRYQU9mY2lvejI5ZTJRTi13Z19WcjB6MVBxTWZrenJCcTlwNjFnYXg2REphVzBRVEl1b2xNNzV6cDRLczU4VkkzQ1d6ZnI4Z1R1WHlkVzU5WjJTYXFXSXhCSnhwZ1NSMklDY0REaWxTMFRqMFJWSC1yYlRia0JkRWg0OUtRNHZLWlFBNUpxdnByRm5Fc2hNSjQ2ZERXQWJzZ1dib1diLXdOeDVMOWtCUtIB8gFBVV95cUxQQzV3Vm9SOVppMllFeDRGcnFxUlJFQklIdTMwa25MZEpXOTNUVVp1WGxVNVJjYnFaX2lza29WT1R5cGNZZXl6TVZjY1NSZ2s0T2lVZFA3akFPRzYwYUlOcm9zNTg3X3kyZXZicEhxRS02alNNOU5aWllYZDV4YUNvalU2LTcybktzUjVLWkpubkdvNkpxS1NEa00xc093d2tLa0ljVXRtcGcwNkF2UW5uNGROWlNWSGszZ3Nwdy1KZWF4M3pIWlg2eHhhUmJWOXplV2RLVUNuNWk3OXpBX05qZEFrQUZNLUVhSGE0QnROdml3dw?oc=5
 
-- Stocks to buy in 2026 for long term: Adani Ports, Phoenix Mills among 5 stocks that could give 10-30% return
-  We have collated a list of recommendations from top brokerage
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-adani-ports-phoenix-mills-among-5-stocks-that-could-give-10-30-return/slideshow/132753494.cms
+- Favara-UPI Cross-Border Payment Corridor Goes Live Between Maldives and India - News On AIR
+  Favara-UPI Cross-Border Payment
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHVXSnRDb092QUtyNTBMelJvOTRzVTdhMXc1aUxlUVVnZmtUQnEwRlZVYnZtbmJlNDBJQ0VhclM2R01pcXBaUmFYQXM3Y0JrU0t6Tndic1dmekFKeEpfRHVBNVBUUmttbk5JWTVJdGZwcTNDRERyZU80VUJqcnNwalA1aDBoTkxWcXl1UmZobE5OWk9PVWVzbzB2dmU3YWI1VG5vWkF3?oc=5
 
-- Gold on track to end four-month slump as investors weigh Fed signals
-  Gold prices are poised for their first monthly gain in five months. Investors are assessing the impact of the U.S.-Iran conflict on global markets. Federal Reserve's signals are being parsed for clues on inflation and interest rates.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-on-track-to-end-four-month-slump-as-investors-weigh-fed-signals/articleshow/132753370.cms
+- Govt clarifies Ethanol Blended Petrol Programme does not compromise India’s food security - News On AIR
+  Govt clarifies Ethanol Blended Petrol Programme does
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSE5ZbzktZDRNOVN5Q1BFQWFTaFpWNTZPQXpkV01KZl9FYjU0VE82WWt6R2NMQWpOa0tzRTZoVVFTUmpOaWl2ZDJqZFJaeVpKZS1Yb0VfcnNNRWxya18yOGtiRlViNUlRd1VTeU9jUXdjc2VlMFpYNGNPY1RuRVBkWkJDZjdBNWVKMjE5TUhlbjJ0NmgwclpkZHE2WC1hWUZKVUVZejdhQkVBeGJHVXU0NUNBMk0?oc=5
 
-- Yen weakens after intervention-led surge ahead of BOJ policy decision
-  The dollar gained as traders questioned the US Federal Reserve's inflation stance. Japan conducted yen-buying intervention, pulling the currency from four-decade lows. Bank of Japan is expected to keep interest rates steady at one percent.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-weakens-after-intervention-led-surge-ahead-of-boj-policy-decision/articleshow/132753342.cms
+- Apple Logs Record June Quarter In India As Mac Sales Surge
+  Apple's India business continued its strong growth trajectory in the June quarter. iPhone maker reported another record performance.
+  🔗 https://inc42.com/buzz/apple-logs-record-june-quarter-in-india-as-mac-sales-surge/
 
-- South Korea’s Kospi index jumps more than 16% on a surge of chipmaking stocks
-  South Korea's Kospi index saw a significant jump, mirroring Wall Street's positive performance. AI-related stocks experienced a strong rebound after recent declines earlier in the week.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-index-jumps-more-than-15-pc-on-a-surge-of-chipmaking-stocks/articleshow/132753299.cms
+- Arboreal Bioinnovations Raises ₹230 Cr To Supply Nutrition Ingredients To Brands
+  Arboreal Bioinnovations Raises ₹230 Cr To Supply Nutrition Ingredients To Brands. Specialty food and nutraceutical ingredients startup has raised about $24 Mn.
+  🔗 https://inc42.com/buzz/arboreal-bioinnovations-raises-%e2%82%b9230-cr-to-supply-nutrition-ingredients-to-brands/
 
-- ‘Misleading’: India calls out New York Times’ headline - The Hindu
-  The Hindu calls out New York Times
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV1RfT2xYMXFNZ3JnZS1rU040dHB2S2l4clFvZWRFZWhkYUh5VktjSWw4MDlSdC1uejc3SG9ZZl9NOFp5ajBYQk5IN3d5eGFJM09QUm0zSXZrSUpYamhGTmtDd2wtTUE5RTZ6RjVKSXVUYUZ3ejBvWjc1QkxtVTJHY1BiNUt6bU1TV1ZKVjVxX3JpU3p6d1hwcVVhM3VDcUdFbXFyY0Q4a2NOSFlvZ0lvOFpMMk9kcEJPNHRfZUhvWmV5MEtfdURfRjg3R0pZejJkMVE5SVdZbWhxWlFUa0RUaNIB5wFBVV95cUxPYXRRLVlFcU9VejdCNFpMYVFZVUNTSTh3UGZSVW1hY2ZvWXM5d3h5WDRoWXJSVUxaS0VaakNaNXNRVHNoODRWX1BfUDlRYzFXSlMwZ204YmdPSzZaT0JheTJfcnByUzJDM01URmRpeTZhY2p4b0lLZktybnBVQklzWUcwZmEzU0hMVDVLNmw5RS14UThza3E3bG5OUkNIU0hUcWlkOVR1Z1Uxb3pLbWtHUG0yN3BVbGloRFRpeXBlSUZIYms3dG9LTGNtR3lsY3ZOb0NfcGRqdF9abkdOeXgxaE9PZ3hBZ3M?oc=5
+- Meta India Head Named In FIR Over Objectionable Posts Targeting PM Modi
+  Hyderabad Cybercrime Police have registered an FIR against operators of several Facebook and Instagram accounts for allegedly posting morphed images.
+  🔗 https://inc42.com/buzz/meta-india-head-named-in-fir-over-objectionable-posts-targeting-pm-modi/
 
-- How has the Indian government responded to ‘Cockroach’ protests? - Al Jazeera
-  How has the Indian government responded to �
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWJsYUdsY2dCdW01VUFiRmE0ZWxmVUh4MXRGdzJVbmhSSUlEUmJmNzkyOFRLUFRzUmZuTzNVSlZZdm1vQkw0STZ3QjVleE9id1Q1TnNTV2daWnNxLUtyWEp5WEEzbjNLUVl2amdSRENQS0pwWUlIZi12YlVETGwwZGlrRENsX3lycjAtc2NPaFV5Q0RsOGRra2ZOUF9hTDk4dGJnN9IBqgFBVV95cUxNTTVYUUo2bm9YTGFHcEhSMzZ0RWR5cVM2YlE5T3lDZzEyYV9kUEhHakYwWU9nc09ZZEk1OEdZOVo2VjlpcWprWFFNV0ZCU1ZMU3M2a2l6MkFibE83a3FEa2dNcVpsbHo0a0FTQUtoZTJmVm9vYWNGRnpXZXROeVNvazdkdjZGOW83Vk9xUThqWEpSc0NGVDVmWW5LbWlXUzVCeG5aanJDS3hCQQ?oc=5
+- Groww Cofounders To Launch ₹500 Cr Fund To Back Consumer, Deeptech Startups
+  Groww Cofounders To Launch ₹500 Cr Fund To Back Consumer, Deeptech Startups. Groww’s cofounders are planning to launch a second
+  🔗 https://inc42.com/buzz/groww-cofounders-to-launch-%e2%82%b9500-cr-fund-to-back-consumer-deeptech-startups/
 
-- Why’s CJI not on panel to pick CEC, Supreme Court asks government - The Times of India
-  The Times of India asked Supreme Court to pick a new CEC
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOVlZmZVlRQVRrWG1CZzh1SmsxVVNDX1o0ZUNoRzRkYmMyQlNyWWh5S2FMNGQ3ZTBzZXRCTkZWUmthVnEzYUZrcGg3TjEzM3FSOHJ2WE5rZ0FmWFRubjRJMDBNdmF2c2hSYUtMTUZZdHJ6Rm9iZ1pGRVlGYkh4NXVpUDFXakplWW0wVTQ3d0N3UDMwNDB4UGJPamFoUFQxVURwcUJ5ZXR3M21ibGxFZmZwNVhBYWQ4VUJ0bW5QbFZCNlU0dUUtMndram02RdIB0AFBVV95cUxQaFRmcnFzOVUzZUhSR0NJZ29lSGFJVDlVY2oxVlV2TmdDYnZfblg2MVdVeWVuTmZJR1ZLMEdGeUZXLWs5QXRxdjFTdUY0M09PbVVOZ3ZWYTViMjFvVlRjU09OczM5RzZtOXMxOUsxSW9XMkhMLXQ2RWV2MjRXdjh3LVBZYm4zUWpfcGhkY0VrRXFJUXo4a3FEdGhScE5XTmg5NGc5d1RHU3c3dklGMk8zaWxSOUJoNFU0MlE3ZEJvOHRrZjh5RmZhT1g2bThod2Jr?oc=5
+- Swiggy’s Q1 Snapshot, Sarvam Widens AI Horizon & More
+  Swiggy inched closer to profitability in Q1. During the quarter, its core food&#8230;.
+  🔗 https://inc42.com/buzz/swiggys-q1-snapshot-sarvam-widens-ai-horizon-more/
 
-- Parliamentary Panel Recommends Appointment Of Polar Ambassador For India - NDTV
-  Parliamentary Panel Recommends App
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjV1QkFjUDZvMkFOc21BdFk1S3FsWklyeHI0bWs4OXdWekRuZVIzZWozVTBMWVIydzRiVWRrWXhIeUpfb1A0NU9MRTN3VDg4YjdTaVIwZXZOVjZmQ1JvOFJkTWNEQjB2RkY1RVEzdkRnYmRZdEd3Q3h4clVGc013WnZ6STd0UXVwTEJNTHR6X3dQc19nZUFFZldOdTQxTEtmQXE5X1JidkZKRVl6dEwzaDFad9IBuwFBVV95cUxQZTkySVZNUjRweU9qbDFnbVpJVmMtQnYzNzdxc1VUU0FvVk5GUHM0M05YdGFsQUtMeUF1VzZKanIzWC1vZjdCTlpNMmZnWGNXeUtsb1d3eWZGcVhqdWJBeEtzVGlSSVJlTExiZWM2cUR4NGQ5SzBUZWdmRzRGNUpERzh4YjdJWGFzTEN0TmY0RGpGMEJ5azdtcV9TdUtwSE9WSnNpbk1oTGVQdXRON2tHMmxKeTY2c0hZMDVz?oc=5
+- Case Against Meta India Head Over Posts Targeting PM Modi During CJP Protest - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQU00SUVELVMwRTZpU0k3dWctY1Q5X0IyNmlXZ0t6U01wWFBzVHlrYlFJcDl1M0xFQ2UzQlprZUFXaFVQSHl4SHFqSGI0RG1jZ0FTMXhHR2JsWGJKYi1HQzJkTjVqTzZXMUE5MTR6bUhBZlFPcmdtcUVZeUR1d3ljeE03R0FtUGozUXJHXzZsNHpXdDlucmx0WnlNTU5vV25LaG9NLXgwNGEwazUtSTBOQTJveF9RbGdh0gHAAUFVX3lxTE5uS1Z1TGFFMzBXYzRZc1p6UDcwMFBLenVuZk5nNnF4bEcxaTN1MmhCTWlRanp2cm9kMGh2SEpXSEh3bm9EQXpUX3RzaHFRLVZtMk1tT013dXpQVTN3eXJGcUwwUHBHMVRocmU1SW9yRnBoQUpJMWdsaGFtYjdvOXVvWW9iY3JUdE1ITm1hcEtuS28tQlROd1pmcm0wa3ZSdlFOX2IzZUlTT213SlNoMk5iX2JZbTB2a2JmVUhCM2tUUw?oc=5
 
-- CWG 2026: India’s Lovepreet Singh wins silver medal in men’s 110 kg category - newsonair.gov.in
-  Lovepreet Singh won silver medal in men's 110
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGhDcjNqeTlNY2paUFZndzhKbUxweUxIWDE2Q2pJRWNiVVVrT3p0ZHpWeFJ0NGNKblJkU1RaaG9hQTJVcnFScXF6d3ZmVFVRT3BJdjdFMEFjbDRnelZaOGdtcUl1emVWNG4wVFBnd0xkRG9IMzQxVUd0Z29PbEo5dnRnYTgySkdvb3RrMDFZQjlieWF4MzZva0tySlRudFpS?oc=5
+- Meta India head named in Telangana cases over ‘derogatory’ posts targeting PM Modi - The Indian Express
+  Meta India head named in Telangana cases over ‘der
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSHJRYWdvMVhlMDBRSkJ2aGZmVHVITVhDNjZxdUtGMzhlcHowb2o5bWI1UVhHNVFGOUdiVlFBcG5KUEdWdG9QRGVpR1ZfUU92eWVHcWFkb09odHRoVEkyaUhrazFweTlJaEN2R05lVFNoREsxdmdYeTNHd0g3U0dURkxINm4xeEg1WGc4TkNHT1l3T0NtN3A4UnduLVpwVk1LSFZnd2NtN3JUYzd4MnhGMmZlcUx5ZEV3MHhTdXFjaXg3N3lZb0FGUHVPV2ZuSHFQcThpTnRkMGJVanFuUFd5UVExcDZxZWJIRmNrYlhR0gH0AUFVX3lxTFByVGtuSFlsRy0tS0E1a0VUOFR6MUJRcjlPMUlYZndWcHNsblRNMjdfUGdsQ2h0NUduZTkzQzR2X2huTXdTQWp4Tk1mR2pVN0JLRUozd25YOHdfTTdBSko3SjlaZjI3MWFyeERQa19mTExoOGJjUkY2ZldTNHotYmlYVnB0RXktWFBmU0h5b2EyclNkTFEtR1ZyQzhNemZLZzhXaGVFbHprZ0ZVeEh6c1NmVUlNdi1nREs1TmdXNHhYelFSYWVsODJJMEx0SFZpa19nZjhXZ2dBR21JT0ZDYUFRMUIwYzlhdUw2UTlyRGdZeVh4TVE?oc=5
 
-- SEBI Rolls Out ‘GARUDA’ Framework To Expedite Fund Launches
-  The Securities and Exchange Board of India (SEBI) has released a new framework to simplify and expedite the launch of funds.
-  🔗 https://inc42.com/buzz/sebi-rolls-out-garuda-framework-to-expedite-fund-launches/
+- Meta India head named in FIR over morphed photos targeting PM Modi during student paper leak protests | India News - Hindustan Times
+  Meta India head named in FIR over morphed photos targeting PM Modi during student paper leak protests.
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzBsdVlvRm1admJmRGVJUWRZQ0lfakRjYVE4OGxZeF9hS2JyMXp5bzhwZVBmeF9FNnZkdnhpSUtfWXRKVmRYQU9mY2lvejI5ZTJRTi13Z19WcjB6MVBxTWZrenJCcTlwNjFnYXg2REphVzBRVEl1b2xNNzV6cDRLczU4VkkzQ1d6ZnI4Z1R1WHlkVzU5WjJTYXFXSXhCSnhwZ1NSMklDY0REaWxTMFRqMFJWSC1yYlRia0JkRWg0OUtRNHZLWlFBNUpxdnByRm5Fc2hNSjQ2ZERXQWJzZ1dib1diLXdOeDVMOWtCUtIB8gFBVV95cUxQQzV3Vm9SOVppMllFeDRGcnFxUlJFQklIdTMwa25MZEpXOTNUVVp1WGxVNVJjYnFaX2lza29WT1R5cGNZZXl6TVZjY1NSZ2s0T2lVZFA3akFPRzYwYUlOcm9zNTg3X3kyZXZicEhxRS02alNNOU5aWllYZDV4YUNvalU2LTcybktzUjVLWkpubkdvNkpxS1NEa00xc093d2tLa0ljVXRtcGcwNkF2UW5uNGROWlNWSGszZ3Nwdy1KZWF4M3pIWlg2eHhhUmJWOXplV2RLVUNuNWk3OXpBX05qZEFrQUZNLUVhSGE0QnROdml3dw?oc=5
 
-- IPO-Bound PhonePe Bets On Transaction Data Monetisation With PulsePro
-  IPO-Bound PhonePe Bets On Transaction Data Monetisation With PulsePro. Fintech startups have amassed a goldmine of transaction data.
-  🔗 https://inc42.com/buzz/ipo-bound-phonepe-bets-on-transaction-data-monetisation-with-pulsepro/
+- Favara-UPI Cross-Border Payment Corridor Goes Live Between Maldives and India - News On AIR
+  Favara-UPI Cross-Border Payment
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHVXSnRDb092QUtyNTBMelJvOTRzVTdhMXc1aUxlUVVnZmtUQnEwRlZVYnZtbmJlNDBJQ0VhclM2R01pcXBaUmFYQXM3Y0JrU0t6Tndic1dmekFKeEpfRHVBNVBUUmttbk5JWTVJdGZwcTNDRERyZU80VUJqcnNwalA1aDBoTkxWcXl1UmZobE5OWk9PVWVzbzB2dmU3YWI1VG5vWkF3?oc=5
 
-- Now, Zee Moves Delhi HC Against Blinkit Over Alleged Copyright Violation
-  Zee Entertainment Enterprises Ltd (ZEEL) has moved the Delhi High Court against quick commerce major Blinkit.
-  🔗 https://inc42.com/buzz/now-zee-moves-delhi-hc-against-blinkit-over-alleged-copyright-violation/
+- Govt clarifies Ethanol Blended Petrol Programme does not compromise India’s food security - News On AIR
+  Govt clarifies Ethanol Blended Petrol Programme does
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSE5ZbzktZDRNOVN5Q1BFQWFTaFpWNTZPQXpkV01KZl9FYjU0VE82WWt6R2NMQWpOa0tzRTZoVVFTUmpOaWl2ZDJqZFJaeVpKZS1Yb0VfcnNNRWxya18yOGtiRlViNUlRd1VTeU9jUXdjc2VlMFpYNGNPY1RuRVBkWkJDZjdBNWVKMjE5TUhlbjJ0NmgwclpkZHE2WC1hWUZKVUVZejdhQkVBeGJHVXU0NUNBMk0?oc=5
 
-- Zepto Pauses IPO Amid Valuation Concerns, To Raise ₹1,000 Cr Pre-IPO Round
-  A day after reports said that Zepto&#8217;s IPO plans had hit another hurdle over valuation, the quick commerce startup has
-  🔗 https://inc42.com/buzz/zepto-defers-ipo-amid-valuation-concerns-to-raise-%e2%82%b91000-cr-pre-ipo-round/
+- Case Against Meta India Head Over Posts Targeting PM Modi During CJP Protest - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQU00SUVELVMwRTZpU0k3dWctY1Q5X0IyNmlXZ0t6U01wWFBzVHlrYlFJcDl1M0xFQ2UzQlprZUFXaFVQSHl4SHFqSGI0RG1jZ0FTMXhHR2JsWGJKYi1HQzJkTjVqTzZXMUE5MTR6bUhBZlFPcmdtcUVZeUR1d3ljeE03R0FtUGozUXJHXzZsNHpXdDlucmx0WnlNTU5vV25LaG9NLXgwNGEwazUtSTBOQTJveF9RbGdh0gHAAUFVX3lxTE5uS1Z1TGFFMzBXYzRZc1p6UDcwMFBLenVuZk5nNnF4bEcxaTN1MmhCTWlRanp2cm9kMGh2SEpXSEh3bm9EQXpUX3RzaHFRLVZtMk1tT013dXpQVTN3eXJGcUwwUHBHMVRocmU1SW9yRnBoQUpJMWdsaGFtYjdvOXVvWW9iY3JUdE1ITm1hcEtuS28tQlROd1pmcm0wa3ZSdlFOX2IzZUlTT213SlNoMk5iX2JZbTB2a2JmVUhCM2tUUw?oc=5
 
-- Sarvam Takes On Claude, Codex With Cheaper, India-Hosted Coding Agent
-   AI unicorn Sarvam unveiled a new AI coding agent at Epoch 2026 conference.
-  🔗 https://inc42.com/buzz/sarvam-takes-on-claude-codex-with-cheaper-india-hosted-coding-agent/
+- Meta India head named in Telangana cases over ‘derogatory’ posts targeting PM Modi - The Indian Express
+  Meta India head named in Telangana cases over ‘der
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSHJRYWdvMVhlMDBRSkJ2aGZmVHVITVhDNjZxdUtGMzhlcHowb2o5bWI1UVhHNVFGOUdiVlFBcG5KUEdWdG9QRGVpR1ZfUU92eWVHcWFkb09odHRoVEkyaUhrazFweTlJaEN2R05lVFNoREsxdmdYeTNHd0g3U0dURkxINm4xeEg1WGc4TkNHT1l3T0NtN3A4UnduLVpwVk1LSFZnd2NtN3JUYzd4MnhGMmZlcUx5ZEV3MHhTdXFjaXg3N3lZb0FGUHVPV2ZuSHFQcThpTnRkMGJVanFuUFd5UVExcDZxZWJIRmNrYlhR0gH0AUFVX3lxTFByVGtuSFlsRy0tS0E1a0VUOFR6MUJRcjlPMUlYZndWcHNsblRNMjdfUGdsQ2h0NUduZTkzQzR2X2huTXdTQWp4Tk1mR2pVN0JLRUozd25YOHdfTTdBSko3SjlaZjI3MWFyeERQa19mTExoOGJjUkY2ZldTNHotYmlYVnB0RXktWFBmU0h5b2EyclNkTFEtR1ZyQzhNemZLZzhXaGVFbHprZ0ZVeEh6c1NmVUlNdi1nREs1TmdXNHhYelFSYWVsODJJMEx0SFZpa19nZjhXZ2dBR21JT0ZDYUFRMUIwYzlhdUw2UTlyRGdZeVh4TVE?oc=5
 
-- ‘Misleading’: India calls out New York Times’ headline - The Hindu
-  The Hindu calls out New York Times
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV1RfT2xYMXFNZ3JnZS1rU040dHB2S2l4clFvZWRFZWhkYUh5VktjSWw4MDlSdC1uejc3SG9ZZl9NOFp5ajBYQk5IN3d5eGFJM09QUm0zSXZrSUpYamhGTmtDd2wtTUE5RTZ6RjVKSXVUYUZ3ejBvWjc1QkxtVTJHY1BiNUt6bU1TV1ZKVjVxX3JpU3p6d1hwcVVhM3VDcUdFbXFyY0Q4a2NOSFlvZ0lvOFpMMk9kcEJPNHRfZUhvWmV5MEtfdURfRjg3R0pZejJkMVE5SVdZbWhxWlFUa0RUaNIB5wFBVV95cUxPYXRRLVlFcU9VejdCNFpMYVFZVUNTSTh3UGZSVW1hY2ZvWXM5d3h5WDRoWXJSVUxaS0VaakNaNXNRVHNoODRWX1BfUDlRYzFXSlMwZ204YmdPSzZaT0JheTJfcnByUzJDM01URmRpeTZhY2p4b0lLZktybnBVQklzWUcwZmEzU0hMVDVLNmw5RS14UThza3E3bG5OUkNIU0hUcWlkOVR1Z1Uxb3pLbWtHUG0yN3BVbGloRFRpeXBlSUZIYms3dG9LTGNtR3lsY3ZOb0NfcGRqdF9abkdOeXgxaE9PZ3hBZ3M?oc=5
+- Meta India head named in FIR over morphed photos targeting PM Modi during student paper leak protests | India News - Hindustan Times
+  Meta India head named in FIR over morphed photos targeting PM Modi during student paper leak protests.
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzBsdVlvRm1admJmRGVJUWRZQ0lfakRjYVE4OGxZeF9hS2JyMXp5bzhwZVBmeF9FNnZkdnhpSUtfWXRKVmRYQU9mY2lvejI5ZTJRTi13Z19WcjB6MVBxTWZrenJCcTlwNjFnYXg2REphVzBRVEl1b2xNNzV6cDRLczU4VkkzQ1d6ZnI4Z1R1WHlkVzU5WjJTYXFXSXhCSnhwZ1NSMklDY0REaWxTMFRqMFJWSC1yYlRia0JkRWg0OUtRNHZLWlFBNUpxdnByRm5Fc2hNSjQ2ZERXQWJzZ1dib1diLXdOeDVMOWtCUtIB8gFBVV95cUxQQzV3Vm9SOVppMllFeDRGcnFxUlJFQklIdTMwa25MZEpXOTNUVVp1WGxVNVJjYnFaX2lza29WT1R5cGNZZXl6TVZjY1NSZ2s0T2lVZFA3akFPRzYwYUlOcm9zNTg3X3kyZXZicEhxRS02alNNOU5aWllYZDV4YUNvalU2LTcybktzUjVLWkpubkdvNkpxS1NEa00xc093d2tLa0ljVXRtcGcwNkF2UW5uNGROWlNWSGszZ3Nwdy1KZWF4M3pIWlg2eHhhUmJWOXplV2RLVUNuNWk3OXpBX05qZEFrQUZNLUVhSGE0QnROdml3dw?oc=5
 
-- How has the Indian government responded to ‘Cockroach’ protests? - Al Jazeera
-  How has the Indian government responded to �
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWJsYUdsY2dCdW01VUFiRmE0ZWxmVUh4MXRGdzJVbmhSSUlEUmJmNzkyOFRLUFRzUmZuTzNVSlZZdm1vQkw0STZ3QjVleE9id1Q1TnNTV2daWnNxLUtyWEp5WEEzbjNLUVl2amdSRENQS0pwWUlIZi12YlVETGwwZGlrRENsX3lycjAtc2NPaFV5Q0RsOGRra2ZOUF9hTDk4dGJnN9IBqgFBVV95cUxNTTVYUUo2bm9YTGFHcEhSMzZ0RWR5cVM2YlE5T3lDZzEyYV9kUEhHakYwWU9nc09ZZEk1OEdZOVo2VjlpcWprWFFNV0ZCU1ZMU3M2a2l6MkFibE83a3FEa2dNcVpsbHo0a0FTQUtoZTJmVm9vYWNGRnpXZXROeVNvazdkdjZGOW83Vk9xUThqWEpSc0NGVDVmWW5LbWlXUzVCeG5aanJDS3hCQQ?oc=5
+- Favara-UPI Cross-Border Payment Corridor Goes Live Between Maldives and India - News On AIR
+  Favara-UPI Cross-Border Payment
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHVXSnRDb092QUtyNTBMelJvOTRzVTdhMXc1aUxlUVVnZmtUQnEwRlZVYnZtbmJlNDBJQ0VhclM2R01pcXBaUmFYQXM3Y0JrU0t6Tndic1dmekFKeEpfRHVBNVBUUmttbk5JWTVJdGZwcTNDRERyZU80VUJqcnNwalA1aDBoTkxWcXl1UmZobE5OWk9PVWVzbzB2dmU3YWI1VG5vWkF3?oc=5
 
-- Why’s CJI not on panel to pick CEC, Supreme Court asks government - The Times of India
-  The Times of India asked Supreme Court to pick a new CEC
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOVlZmZVlRQVRrWG1CZzh1SmsxVVNDX1o0ZUNoRzRkYmMyQlNyWWh5S2FMNGQ3ZTBzZXRCTkZWUmthVnEzYUZrcGg3TjEzM3FSOHJ2WE5rZ0FmWFRubjRJMDBNdmF2c2hSYUtMTUZZdHJ6Rm9iZ1pGRVlGYkh4NXVpUDFXakplWW0wVTQ3d0N3UDMwNDB4UGJPamFoUFQxVURwcUJ5ZXR3M21ibGxFZmZwNVhBYWQ4VUJ0bW5QbFZCNlU0dUUtMndram02RdIB0AFBVV95cUxQaFRmcnFzOVUzZUhSR0NJZ29lSGFJVDlVY2oxVlV2TmdDYnZfblg2MVdVeWVuTmZJR1ZLMEdGeUZXLWs5QXRxdjFTdUY0M09PbVVOZ3ZWYTViMjFvVlRjU09OczM5RzZtOXMxOUsxSW9XMkhMLXQ2RWV2MjRXdjh3LVBZYm4zUWpfcGhkY0VrRXFJUXo4a3FEdGhScE5XTmg5NGc5d1RHU3c3dklGMk8zaWxSOUJoNFU0MlE3ZEJvOHRrZjh5RmZhT1g2bThod2Jr?oc=5
-
-- Parliamentary Panel Recommends Appointment Of Polar Ambassador For India - NDTV
-  Parliamentary Panel Recommends App
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjV1QkFjUDZvMkFOc21BdFk1S3FsWklyeHI0bWs4OXdWekRuZVIzZWozVTBMWVIydzRiVWRrWXhIeUpfb1A0NU9MRTN3VDg4YjdTaVIwZXZOVjZmQ1JvOFJkTWNEQjB2RkY1RVEzdkRnYmRZdEd3Q3h4clVGc013WnZ6STd0UXVwTEJNTHR6X3dQc19nZUFFZldOdTQxTEtmQXE5X1JidkZKRVl6dEwzaDFad9IBuwFBVV95cUxQZTkySVZNUjRweU9qbDFnbVpJVmMtQnYzNzdxc1VUU0FvVk5GUHM0M05YdGFsQUtMeUF1VzZKanIzWC1vZjdCTlpNMmZnWGNXeUtsb1d3eWZGcVhqdWJBeEtzVGlSSVJlTExiZWM2cUR4NGQ5SzBUZWdmRzRGNUpERzh4YjdJWGFzTEN0TmY0RGpGMEJ5azdtcV9TdUtwSE9WSnNpbk1oTGVQdXRON2tHMmxKeTY2c0hZMDVz?oc=5
-
-- CWG 2026: India’s Lovepreet Singh wins silver medal in men’s 110 kg category - newsonair.gov.in
-  Lovepreet Singh won silver medal in men's 110
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGhDcjNqeTlNY2paUFZndzhKbUxweUxIWDE2Q2pJRWNiVVVrT3p0ZHpWeFJ0NGNKblJkU1RaaG9hQTJVcnFScXF6d3ZmVFVRT3BJdjdFMEFjbDRnelZaOGdtcUl1emVWNG4wVFBnd0xkRG9IMzQxVUd0Z29PbEo5dnRnYTgySkdvb3RrMDFZQjlieWF4MzZva0tySlRudFpS?oc=5
-
-- ‘Misleading’: India calls out New York Times’ headline - The Hindu
-  The Hindu calls out New York Times
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV1RfT2xYMXFNZ3JnZS1rU040dHB2S2l4clFvZWRFZWhkYUh5VktjSWw4MDlSdC1uejc3SG9ZZl9NOFp5ajBYQk5IN3d5eGFJM09QUm0zSXZrSUpYamhGTmtDd2wtTUE5RTZ6RjVKSXVUYUZ3ejBvWjc1QkxtVTJHY1BiNUt6bU1TV1ZKVjVxX3JpU3p6d1hwcVVhM3VDcUdFbXFyY0Q4a2NOSFlvZ0lvOFpMMk9kcEJPNHRfZUhvWmV5MEtfdURfRjg3R0pZejJkMVE5SVdZbWhxWlFUa0RUaNIB5wFBVV95cUxPYXRRLVlFcU9VejdCNFpMYVFZVUNTSTh3UGZSVW1hY2ZvWXM5d3h5WDRoWXJSVUxaS0VaakNaNXNRVHNoODRWX1BfUDlRYzFXSlMwZ204YmdPSzZaT0JheTJfcnByUzJDM01URmRpeTZhY2p4b0lLZktybnBVQklzWUcwZmEzU0hMVDVLNmw5RS14UThza3E3bG5OUkNIU0hUcWlkOVR1Z1Uxb3pLbWtHUG0yN3BVbGloRFRpeXBlSUZIYms3dG9LTGNtR3lsY3ZOb0NfcGRqdF9abkdOeXgxaE9PZ3hBZ3M?oc=5
-
-- How has the Indian government responded to ‘Cockroach’ protests? - Al Jazeera
-  How has the Indian government responded to �
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWJsYUdsY2dCdW01VUFiRmE0ZWxmVUh4MXRGdzJVbmhSSUlEUmJmNzkyOFRLUFRzUmZuTzNVSlZZdm1vQkw0STZ3QjVleE9id1Q1TnNTV2daWnNxLUtyWEp5WEEzbjNLUVl2amdSRENQS0pwWUlIZi12YlVETGwwZGlrRENsX3lycjAtc2NPaFV5Q0RsOGRra2ZOUF9hTDk4dGJnN9IBqgFBVV95cUxNTTVYUUo2bm9YTGFHcEhSMzZ0RWR5cVM2YlE5T3lDZzEyYV9kUEhHakYwWU9nc09ZZEk1OEdZOVo2VjlpcWprWFFNV0ZCU1ZMU3M2a2l6MkFibE83a3FEa2dNcVpsbHo0a0FTQUtoZTJmVm9vYWNGRnpXZXROeVNvazdkdjZGOW83Vk9xUThqWEpSc0NGVDVmWW5LbWlXUzVCeG5aanJDS3hCQQ?oc=5
-
-- Why’s CJI not on panel to pick CEC, Supreme Court asks government - The Times of India
-  The Times of India asked Supreme Court to pick a new CEC
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOVlZmZVlRQVRrWG1CZzh1SmsxVVNDX1o0ZUNoRzRkYmMyQlNyWWh5S2FMNGQ3ZTBzZXRCTkZWUmthVnEzYUZrcGg3TjEzM3FSOHJ2WE5rZ0FmWFRubjRJMDBNdmF2c2hSYUtMTUZZdHJ6Rm9iZ1pGRVlGYkh4NXVpUDFXakplWW0wVTQ3d0N3UDMwNDB4UGJPamFoUFQxVURwcUJ5ZXR3M21ibGxFZmZwNVhBYWQ4VUJ0bW5QbFZCNlU0dUUtMndram02RdIB0AFBVV95cUxQaFRmcnFzOVUzZUhSR0NJZ29lSGFJVDlVY2oxVlV2TmdDYnZfblg2MVdVeWVuTmZJR1ZLMEdGeUZXLWs5QXRxdjFTdUY0M09PbVVOZ3ZWYTViMjFvVlRjU09OczM5RzZtOXMxOUsxSW9XMkhMLXQ2RWV2MjRXdjh3LVBZYm4zUWpfcGhkY0VrRXFJUXo4a3FEdGhScE5XTmg5NGc5d1RHU3c3dklGMk8zaWxSOUJoNFU0MlE3ZEJvOHRrZjh5RmZhT1g2bThod2Jr?oc=5
-
-- Parliamentary Panel Recommends Appointment Of Polar Ambassador For India - NDTV
-  Parliamentary Panel Recommends App
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjV1QkFjUDZvMkFOc21BdFk1S3FsWklyeHI0bWs4OXdWekRuZVIzZWozVTBMWVIydzRiVWRrWXhIeUpfb1A0NU9MRTN3VDg4YjdTaVIwZXZOVjZmQ1JvOFJkTWNEQjB2RkY1RVEzdkRnYmRZdEd3Q3h4clVGc013WnZ6STd0UXVwTEJNTHR6X3dQc19nZUFFZldOdTQxTEtmQXE5X1JidkZKRVl6dEwzaDFad9IBuwFBVV95cUxQZTkySVZNUjRweU9qbDFnbVpJVmMtQnYzNzdxc1VUU0FvVk5GUHM0M05YdGFsQUtMeUF1VzZKanIzWC1vZjdCTlpNMmZnWGNXeUtsb1d3eWZGcVhqdWJBeEtzVGlSSVJlTExiZWM2cUR4NGQ5SzBUZWdmRzRGNUpERzh4YjdJWGFzTEN0TmY0RGpGMEJ5azdtcV9TdUtwSE9WSnNpbk1oTGVQdXRON2tHMmxKeTY2c0hZMDVz?oc=5
-
-- CWG 2026: India’s Lovepreet Singh wins silver medal in men’s 110 kg category - newsonair.gov.in
-  Lovepreet Singh won silver medal in men's 110
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGhDcjNqeTlNY2paUFZndzhKbUxweUxIWDE2Q2pJRWNiVVVrT3p0ZHpWeFJ0NGNKblJkU1RaaG9hQTJVcnFScXF6d3ZmVFVRT3BJdjdFMEFjbDRnelZaOGdtcUl1emVWNG4wVFBnd0xkRG9IMzQxVUd0Z29PbEo5dnRnYTgySkdvb3RrMDFZQjlieWF4MzZva0tySlRudFpS?oc=5
+- Govt clarifies Ethanol Blended Petrol Programme does not compromise India’s food security - News On AIR
+  Govt clarifies Ethanol Blended Petrol Programme does
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSE5ZbzktZDRNOVN5Q1BFQWFTaFpWNTZPQXpkV01KZl9FYjU0VE82WWt6R2NMQWpOa0tzRTZoVVFTUmpOaWl2ZDJqZFJaeVpKZS1Yb0VfcnNNRWxya18yOGtiRlViNUlRd1VTeU9jUXdjc2VlMFpYNGNPY1RuRVBkWkJDZjdBNWVKMjE5TUhlbjJ0NmgwclpkZHE2WC1hWUZKVUVZejdhQkVBeGJHVXU0NUNBMk0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-31 02:15:11 UTC_
+_Last updated: 2026-07-31 08:45:15 UTC_
