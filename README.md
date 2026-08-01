@@ -1,144 +1,172 @@
 # 📰 Daily News Summaries
 
-- 'Want To Forgive Them': PM Modi On Students Who Abused Him at Jantar Mantar - ndtv.com
-  'Want To Forgive Them': PM Modi On Students Who
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpnUkRGYUh3ZndzdEVFaUhIS1RUWF9tbHZBYTFWVm4xOWVUVTdudzE5M3lXRDR2QjJydEJBTUoxRTd5Vm50SU9tbmpsOEg2bElBTVFyNUd5eHVhb1pXd3UyQi1UUGpnMG1NY2U0N1NqOV9pdXZ5dHpDQWNRMkkzc18wQThNb1REYTJENF9TRnlrRXRlTUc4dmdhekpMWnVYNVpLN000d2psN0hRV3d0UkJlME9tQzBaRXkw0gHDAUFVX3lxTFB3ZnJfd2dFRzVBVUd0NzlwWWNiVzJRVnEzbEFOeE9DWjJjNFUxYnBnN2x5eExobUU5VXNhQUZtQlBxa3JQVF92cGpJdWJiYjZfY2FPVFViRkJVcjhkd29BT2JaVVRsbmxOTVlKYnlySHo2M1F0UlJlNXp6U3hsZEcteERHM0E1Q1hYVUJyMkRNWlZrQVFTZnl2YlRmYzh2aG5jdDY0VDdjUE5STFFNaEcxaXh3WXlFZG5PV0hsOTdqYUdxaw?oc=5
+- "I Am Just 15, Forgive Me": Girl Booked For Abusing PM Modi At Protest Apologises - NDTV
+  "I Am Just 15, Forgive Me": Girl Booked
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS3pYUjZkc1JlZ1hzOHc4Mmt4ZzVpUXFzaVlZZDdvSVN1ZzlmWVBQTUlRMlJ5YWNPTTFiYlF3dHNHVnhXTHY5b2ZYT2NlcDhEbUo4UlVqX2xzZVFOS0JCbEVWUS1sYk9sbUxTVmZIdFFjQ2tPdUZnN0Utb2NEVnB5NkdiNWVyS2hWZnJvdjRadkJkM0Z5eGRwSzlVNV9WcEtta3VySXc2STE1N090M2pPcUZmbWl2ZHFYV0xVM3c1bzNoYlUyMUcya1hYSjlackxva3pyX0x2NHZYWFVk0gHkAUFVX3lxTFAydE9kMWQtTk1aSnFHWVBuM1BpRl9Tdlhvb193bU13TmJmUm5tOVJOaHk2ZncwUGQ4LWl0YlNDUy0ycHNDYkNqcXNqRE1yZEduejJvNk9rb2JwWnJHWXRtRnQzT1ZGa0I4bFozYjVaSFFJMENUNURBQjQzN090UE9NQjJ2Rlpfd0x5amtGSVI3dzNlaFAtZ3hmZXlob0EzYUxqTEdHZXVSSzNWZjlENW8xblp6VEdDb096ejJnMGh6MHNSNUlFczQtRjNrYUt2cG9NZGNkQS1fUXN1NEwxcm1oZE9YVw?oc=5
 
-- PM Modi forgives students amid abusive video row: 'Let's guide the misguided' | India News - Hindustan Times
-  PM Modi forgives students amid abusive video row: 'Let's guide
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPckVjZHZEOVBrVi1YeG50VTlrUVV2Z29uNUJUX1hMcmNlR0RNeUZVUUROci1TUFZrb0d4QjlrclliZ0ZhcWRrUV8yd3Q5eG8xX3pNa0kxTnhOUmdkd1NqSXIyY2I2ZXhrUlJUdjcxVk01TmlWWFpIMDNZQjVaQktfU0EwSWl3X3R4V1M4MUE0YmFtUGZZVk9TWW0xM1FtTnlzcE5yRjhzN1JhRGxuZDBoZVc0ejBOSW9Hc1p2NndDbGJVZ2M0SlZLb253QThaclJLRzVXS2lfaTlJLXlWTzZoVEFQSXkxeEVnVEtMbHdlNEU0ampi0gH6AUFVX3lxTE1CYU9YY0o3cE52NG1veHA0ZU5mdF84dDh4NVBheXA3ZjlUXy1EVnNfc05XUnVkSGt6UnlQd2VJS3VXZ1B3T2FSR2huSUFQNEF6ZUlKWEI5SnFqOVJ1MlJsSWVrQTFEZWFqYkRfZW82VlVkT0U0OGUxdVMzaXF5bTU5Wnh3OW1JYm9fbEZpTHI5a0VHVlZ3V1JwY09abktQSTBwWjNibHFxckQ2LUpQRldwYnI1QUpxUHc2b2hxZzF3WEwzZzBRY3U5NlVYZjlic0FoX0NLM3g5WGtwSHVXclFRSHR3Qko5ZW91WVA0UzU2Zkt4ZGdCdGF5WHc?oc=5
+- India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts - BBC
+  India's 'cockroach' protesters have wounds
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeW52TFVRU0UyV0ZBeEEtdEVXNTlsaERGYXdBQW80cnlTQWZuT3o4RmtzLXhGd1QxcVVZYTkxNk9NZWo5YkprRFNicjdIUG8tdHgyc21PbkE5Zw?oc=5
 
-- Rajya Sabha Passes Anti-Paper Leak Law As PM Modi Vows Zero Tolerance Against Exam Mafias - The Times of India
-  Rajya Sabha Passes Anti-Paper Leak Law As PM Modi V
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc0o1VzVWWm9tcDNveHhzVW5wWHowNTVidG1pdldHVHhzRVpuVE55cU1vZWVVenJ6S3dMTUVCYXZYeU1qeWtrUlhKTzBHanBraFRhSGhlWVlfNEd5SlpJYnZGb2ZDMGN5bDhsWWJuV0R3ZEFncDlWMmc0bG8ta0Q3OGczNTk0SS1pcERwSk84c1VhYWRscVc0WDJzOTd3R1N3NW1uNmdMNHY0X3QzS0Y0RExBYU41dFdUblZRd2FnbWgxOHloR1hVUktwamhDMjRTTnNuRWNfQWRPSnZNdFBFWmJ2aW1RV2ZTWEdZX19SaUpua2fSAfgBQVVfeXFMTUt3X1duaTlWclBkZ1ZKVl9lQnItZFlQNjJPamgxU2pqMTJPQ2ZlNkF5YkNpMTA2VS1FR2xYU0RnNDVkaEhWeGJNbE91OFRFRGdqZWdnaFBxRHB1MEdpWnZZZUpsR21Lbno3SFhCdzczTndDT1FLWU9pTFlGczdTUXZLZ0RnLWU1Y3hLaUFrOURCbTVrckg2TTdzYVNwdUFqc3BvUXBZNnBNb3JIUFRybDN2MzhvdmRnQkFiT09Ec2Juekx0YzVkN1ptZkFoa2UxbFhMeG05ZlZNbEJqU2w2RFNCcUtidGpOZ2V2U1c3YUt0UUg1OVVPMXQ?oc=5
+- 'Abuses never solve anything': PM Modi posts late night video amid row over Noida woman's remarks - The Times of India
+  'Abuses never solve anything': PM Modi posts late night video amid row over No
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd3V0WWdwdU5ELUM2M2Vnb04tMXV6TkJUc2lnaWhFWVlfek9oWUV3VlRiOWhuOTJGdGtEUkZvZ1lia1gtVmVyc2FrV1BBQTBodHFNd2xIVFBxaF9CUUNiWFNjcVpKVGZUZUhLZGpHTm5xTjlfWi00VngwenYwRGJHTl9UZ2x5eGhrT29MZU1NcmpnUUxEeG42VjRKb2RDUDd1LWVWcUMzZHQyZDlZT21kc3c4WWs5bm5uQjV1R1gwRUNPT1JnaDBEWVhyMmczWHdHWDlSQTBNZnhjSElxeVQzUXF3c1JOVGk1ZnVCRmNjYTVLeG_SAfgBQVVfeXFMT2E5NEJnLW1hWW15QWFvOEF2S2JjYzRqeDRkTXdnRlA4cVZMYnhJZF9NdmZnaWt5b3liaEtsN3lBOHZDc0VvUkdQNWQ2WHJWQTg3MElFQ1E5eTQzaHlHczNGY01vTUw5UzFyRUVLTHVZZVFSUW83UFltaDFPV1pDUk1vdXJnNThiMEtNcWtnanJuZEN5X0VzM1RMbDRLS1dfNjBVSHIzd0V3R2NWQjZwTGJ6UHVIbDg5QVcwOHVEU3ZWWlZfLVQta1BjcEkyOFVCMElaVGZ6ZjdPaU9GT0tTNGh5OFZCdktzWVYycWNqUXFNWmJlZVZKVXo?oc=5
+
+- Trinidad restaurateur Carveann David undergoes rare heart procedure in India - The Economic Times
+  Trinidad restaurateur Carveann David undergo
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSlp1NFhnWDlLM1Frcl9PX21ZV3JybHdCUTVxbk1jMHlRdC1ydDRWamthdXBaRnE5cmFySFc1cFhCT1kzVDJEbEZBa29mNHh4MWNJUjQ2bG82Yy1QUTRaZUFFS2Zmd0NaVDNKbmIycVJyQmFLSWc4V1FsX1h1WW5RWHpXMVVhN1VhSGZoYllkTWZlaUI0SFJHREEtbS1kUGd1cHlEdXdpWWhiSVBzMXF2b3lfaHdXdExUb2k5aXJJN0R2NFlkalFWdnVzRUpwQXZvUnlpYmRuVExSWWlabk93cldRMk9LOFpsU3o2V0NjV2lDZzVObVpzWE94MkVxZnBmRXVjUlBoWXp1T05MVGhIdm5Mb3ZVNTZBcFAxU3NMeDlEaUp4blZNeGtnQ1RsdmFoVURyWm9fT3FUeTR4VVpWSWFB0gHeAUFVX3lxTE1jZ3p3aDZxS1VJbmhrbWg0a3lacU5tUF9CYy10MTBLSUU5Ujd6MjR4dzd6MDE0UDV5ZXZ1R3FESGdiZHJ6QjNzZWswanprcThLV0tNUEl1T1FvVzBCMGhFMWJqQVRCOWlLWjRYYi13YVRCZmk1dlZIUEtxQ2p3TEtlbFI3dkVjSzdQX04wT0N0OFI0NWY4a29HQk1iSVFrTWI5X01oOGlyTjVLUjlZYnZfaENuQW5hcjdoQ1VjUDF2bG1TbnpUWVJmZGpFR1NwcnZXa0Fkeko4R0hOeFR0QQ?oc=5
 
 - India shine at Glasgow Commonwealth Games with historic Judo golds - News On AIR
   India's Judo team won three gold medals
   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1dEMlBrd0ZaNTd5MTNJazBwWktYSTVKZFNTYWcxUU5DdzJFZFJSc01jZjNEcTNJZUkxeTlKM3NjZWtfN05pZHRUeFZSOWw2VThYYzhHU09oNXlzYnJOX3FoTnE5MzdTd3ZWMHN3RHVNTFRPeUpjYWp3UG5hZXV2bjlnT0tXa1JSVXhaWGwxN3JfWktINHNv?oc=5
 
-- India’s monsoon rains in danger as UN chief warns planet is ‘on fire’ - The Guardian
-  India’s monsoon rains in danger as UN chief
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1JQODlyR2l4b3F3aG1ZZTEtUHd1bGktZDNfeTNyUEZlMTY3cUhMakVMZ3YzQ29udUVtTEhpS2J4NXNRUE94RHVfZUVtSDZOekRuSDZtdnlfQ2RYQ3MtYVc3azVBNGVwOTFHbElRT0xERDN0RFdFRGdWYjhfTDFKbG15Y21DNng3SW1udi1sblV3dllQeEYzbTFhTUxVSHczNG1DblQzTFVRTTQ?oc=5
+- Modi, Burnham discuss trade, technology, Hormuz over phone - thehindu.com
+  Modi, Burnham discuss
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQbG1TcmQtWjFLNG9NdjRZazFNNGZST1E5c2M2dHh5Z0JHcHFuZ3UtQ2V4NG5oVDF3bWFlN1dNTVFIZFZlSF9iVm9jempfajZWQW12akVURkxxeVM0a1hSdTJsSGZlTmtLTTZKcER0c3M3MnJ2R0ZUME1nb204eXNRbDkxNFV2cmktdjJYU0hubnkzT1R0d3BONjl1cVVudUxlVjk1SGZWVXdNaW1DMERV0gG2AUFVX3lxTFBPMGlVZUpqV016TVRFM1BNam9FX3JyTlQ5RHIxYUJJSnF5TG9MVC1KUFFqS205dC1iOGZJX2cwZHZrVWNYTkUxLXN4NnZuWjlEdXVQNUxBQl9yX3JneDFRbDFKTEVSR2dPSmZjOFZNUFM0blgxQ0JudmY2am1uWDUxWDFRT29WWW1EaDRsY3lYVVE0QXFXVXdBWVZfbXlUZGNIbkFYZDFjdGg3QjVMVTMzdWhIdU13?oc=5
 
-- Tata Steel seeks to prioritize value-added steel over capacity addition
-  Tata Steel's focus is now on converting primary steel into higher-value products such as
-  🔗 https://www.livemint.com/companies/news/tata-steel-high-margin-value-added-steel-products-capacity-expansion-strategy-11785500971341.html
+- The New Architecture of Consumption: How Technology Is Reshaping Consumer Behaviour - orfonline.org
+  The New Architecture of Consumption: How Technology Is
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUNpWFhBRUlKWVI3UmJnWFl4WjB2UnJtNFY0Mkp0eW1JSUhlLUtJVXFGY3Y1b19EWDFuQXdES0N5azlZaXFNQnRhckhlUWlFR2pKRzVVZlA5Z1JOcFRFZEN6ZkN5UVYtbnI3bDdDTW5vaGVvQ2dzVlotang1dVRUQTM3YTVTZEp3NkUxSzh0MXNOZWc1NWtJMjZMSU5RUWFMVnBUY1RLWFpjM1B3V2pMX3J6LWRrV00w?oc=5
 
-- Puerto Rico authorizes $2 billion coastal luxury development that activists oppose
-  Puerto Rico authorizes
-  🔗 https://www.livemint.com/companies/puerto-rico-authorizes-2-billion-coastal-luxury-development-that-activists-oppose-11785537660929.html
+- Industrial-style technology museum set to be built in Bengaluru - Dezeen
+  Industrial-style technology museum set
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWozRm9Ha3NiUzFDSEYxX182Mnl1ZEhpQjVPNWpMVzdBTmExOWxVUC1pS2V6S1hSX1dSbVJqd29hU0tFVGxqT3R2NW56c2paSVcxR1RsdEVHakNZYUpLZFd5bHhES3dJbVdxU1kya2Yza2poOXR3bTN2bV85NUJNdUxmeV9HanR2?oc=5
 
-- Amazon sued by consumers over seafood sustainability claims
-  Amazon sued by consumers
-  🔗 https://www.livemint.com/companies/amazon-sued-by-consumers-over-seafood-sustainability-claims-11785524702683.html
+- Latin America is becoming a laboratory for tech-supremacism - Al Jazeera
+  Latin America is becoming a laboratory for
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1ZZTldJOVlwa05YdUpxbE9fUWh3VEVPR3V1OTEtZVJVMlRRVUhXeTRlM1lsR0ppX2lTWEJRLWJIRGd4b0t2TDJrazY3U2E5Q0lJbS1sZFJLcVN4N00wMHc3YXhwakdRS2hUWG9rcWpzX21zODNBUUE5WTFoQjJjcUN0T0xmNGdycVpOdlZzUlRkZjJ6ZlFsY2JZNnRqajZIZE1LTDRfSdIBrAFBVV95cUxQdnc4cUpDN1JfWjA0Qk9EZURaaGpKXzlSdHlKVTZqNHVwSW96akpMMXBHX3pqS2ZKZ29GU3F6NHlzbVlRQ0RDZlZTeUJ4WlkzV21Ta0pOT01Pdmg3dEpnQ3dnZ2ppTG5mUlV4Sm9meUFnLUZ5XzZXVXpFSmx5NmFTdUxCc3BSaEJzdko4eUFJVUMzQklTT2ttU1ZuMENJUlZ4UDNhazZLMFl3dk0t?oc=5
 
-- Blackstone Mortgage REIT Shares Dive Most Since Early Pandemic
-  Shares of a Blackstone Inc.’s commercial mortgage trust posted their biggest two-day plunge
-  🔗 https://www.livemint.com/companies/blackstone-mortgage-reit-shares-dive-most-since-early-pandemic-11785524516275.html
+- Financial market technology moves into focus - J.P. Morgan
+  J.P. Morgan
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdk9Wa1V4bHhpNU9kSnB5TkxobloyLWRDY19ULTBYcEZRWUgyQlI0Vk1ET0E1LUh4ejRwLTRRTDZsYVBUVU1BTWhSQ2VYRnlOSTJ1bURlT2dzLTFYRkNoakFpdlF0Ml9FRkRvVWlEVkVQd2hteV8wWHhtdFl0WGlsWi16SmJkZXpfVmVybHNhYUZVV1JZWk5LVkdTUGFONnpTbEl3cU0xTjRqUQ?oc=5
 
-- India's SEBI imposes penalty of 14.8 million rupees on Zee Entertainment
-   markets regulator says it has imposed a penalty of 14.8 million rupees ($155,168.80) on Zee Entertainment.
-  🔗 https://www.livemint.com/companies/news/india-sebi-imposes-penalty-rs-14-8-million-zee-entertainment-ceo-punit-goenka-founder-chairman-emeritus-subhash-chandra-11785518799253.html
+- "I Am Just 15, Forgive Me": Girl Booked For Abusing PM Modi At Protest Apologises - NDTV
+  "I Am Just 15, Forgive Me": Girl Booked
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS3pYUjZkc1JlZ1hzOHc4Mmt4ZzVpUXFzaVlZZDdvSVN1ZzlmWVBQTUlRMlJ5YWNPTTFiYlF3dHNHVnhXTHY5b2ZYT2NlcDhEbUo4UlVqX2xzZVFOS0JCbEVWUS1sYk9sbUxTVmZIdFFjQ2tPdUZnN0Utb2NEVnB5NkdiNWVyS2hWZnJvdjRadkJkM0Z5eGRwSzlVNV9WcEtta3VySXc2STE1N090M2pPcUZmbWl2ZHFYV0xVM3c1bzNoYlUyMUcya1hYSjlackxva3pyX0x2NHZYWFVk0gHkAUFVX3lxTFAydE9kMWQtTk1aSnFHWVBuM1BpRl9Tdlhvb193bU13TmJmUm5tOVJOaHk2ZncwUGQ4LWl0YlNDUy0ycHNDYkNqcXNqRE1yZEduejJvNk9rb2JwWnJHWXRtRnQzT1ZGa0I4bFozYjVaSFFJMENUNURBQjQzN090UE9NQjJ2Rlpfd0x5amtGSVI3dzNlaFAtZ3hmZXlob0EzYUxqTEdHZXVSSzNWZjlENW8xblp6VEdDb096ejJnMGh6MHNSNUlFczQtRjNrYUt2cG9NZGNkQS1fUXN1NEwxcm1oZE9YVw?oc=5
 
-- Three railway stocks bought by DIIs in the June quarter
-  DIIs accumulated three railway stocks in
-  🔗 https://www.livemint.com/market/stock-market-news/three-railway-stocks-where-diis-raised-stakes-in-june-2026-quarter-11785497056962.html
+- India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts - BBC
+  India's 'cockroach' protesters have wounds
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeW52TFVRU0UyV0ZBeEEtdEVXNTlsaERGYXdBQW80cnlTQWZuT3o4RmtzLXhGd1QxcVVZYTkxNk9NZWo5YkprRFNicjdIUG8tdHgyc21PbkE5Zw?oc=5
 
-- Yen’s Intervention Rally Stalls as Traders Brace for More Action
-  The yen swung between gains and losses after its intervention-driven rally stalled. Speculation that
-  🔗 https://www.livemint.com/market/yens-intervention-rally-stalls-as-traders-brace-for-more-action-11785536147224.html
+- 'Abuses never solve anything': PM Modi posts late night video amid row over Noida woman's remarks - The Times of India
+  'Abuses never solve anything': PM Modi posts late night video amid row over No
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd3V0WWdwdU5ELUM2M2Vnb04tMXV6TkJUc2lnaWhFWVlfek9oWUV3VlRiOWhuOTJGdGtEUkZvZ1lia1gtVmVyc2FrV1BBQTBodHFNd2xIVFBxaF9CUUNiWFNjcVpKVGZUZUhLZGpHTm5xTjlfWi00VngwenYwRGJHTl9UZ2x5eGhrT29MZU1NcmpnUUxEeG42VjRKb2RDUDd1LWVWcUMzZHQyZDlZT21kc3c4WWs5bm5uQjV1R1gwRUNPT1JnaDBEWVhyMmczWHdHWDlSQTBNZnhjSElxeVQzUXF3c1JOVGk1ZnVCRmNjYTVLeG_SAfgBQVVfeXFMT2E5NEJnLW1hWW15QWFvOEF2S2JjYzRqeDRkTXdnRlA4cVZMYnhJZF9NdmZnaWt5b3liaEtsN3lBOHZDc0VvUkdQNWQ2WHJWQTg3MElFQ1E5eTQzaHlHczNGY01vTUw5UzFyRUVLTHVZZVFSUW83UFltaDFPV1pDUk1vdXJnNThiMEtNcWtnanJuZEN5X0VzM1RMbDRLS1dfNjBVSHIzd0V3R2NWQjZwTGJ6UHVIbDg5QVcwOHVEU3ZWWlZfLVQta1BjcEkyOFVCMElaVGZ6ZjdPaU9GT0tTNGh5OFZCdktzWVYycWNqUXFNWmJlZVZKVXo?oc=5
 
-- Hedge Funds Add Bullish Bets on Oil at Fastest Pace Since March
-  Hedge funds boosted bullish wagers on US oil at the fastest pace since March. Supply disruptions from Iran to the Red and Black Seas are set to
-  🔗 https://www.livemint.com/market/hedge-funds-add-bullish-bets-on-oil-at-fastest-pace-since-march-11785532739554.html
+- Trinidad restaurateur Carveann David undergoes rare heart procedure in India - The Economic Times
+  Trinidad restaurateur Carveann David undergo
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSlp1NFhnWDlLM1Frcl9PX21ZV3JybHdCUTVxbk1jMHlRdC1ydDRWamthdXBaRnE5cmFySFc1cFhCT1kzVDJEbEZBa29mNHh4MWNJUjQ2bG82Yy1QUTRaZUFFS2Zmd0NaVDNKbmIycVJyQmFLSWc4V1FsX1h1WW5RWHpXMVVhN1VhSGZoYllkTWZlaUI0SFJHREEtbS1kUGd1cHlEdXdpWWhiSVBzMXF2b3lfaHdXdExUb2k5aXJJN0R2NFlkalFWdnVzRUpwQXZvUnlpYmRuVExSWWlabk93cldRMk9LOFpsU3o2V0NjV2lDZzVObVpzWE94MkVxZnBmRXVjUlBoWXp1T05MVGhIdm5Mb3ZVNTZBcFAxU3NMeDlEaUp4blZNeGtnQ1RsdmFoVURyWm9fT3FUeTR4VVpWSWFB0gHeAUFVX3lxTE1jZ3p3aDZxS1VJbmhrbWg0a3lacU5tUF9CYy10MTBLSUU5Ujd6MjR4dzd6MDE0UDV5ZXZ1R3FESGdiZHJ6QjNzZWswanprcThLV0tNUEl1T1FvVzBCMGhFMWJqQVRCOWlLWjRYYi13YVRCZmk1dlZIUEtxQ2p3TEtlbFI3dkVjSzdQX04wT0N0OFI0NWY4a29HQk1iSVFrTWI5X01oOGlyTjVLUjlZYnZfaENuQW5hcjdoQ1VjUDF2bG1TbnpUWVJmZGpFR1NwcnZXa0Fkeko4R0hOeFR0QQ?oc=5
 
-- US wheat falls on technical trading
-  GRAINS
-  🔗 https://www.livemint.com/market/us-wheat-falls-on-technical-trading-11785531221499.html
+- India shine at Glasgow Commonwealth Games with historic Judo golds - News On AIR
+  India's Judo team won three gold medals
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1dEMlBrd0ZaNTd5MTNJazBwWktYSTVKZFNTYWcxUU5DdzJFZFJSc01jZjNEcTNJZUkxeTlKM3NjZWtfN05pZHRUeFZSOWw2VThYYzhHU09oNXlzYnJOX3FoTnE5MzdTd3ZWMHN3RHVNTFRPeUpjYWp3UG5hZXV2bjlnT0tXa1JSVXhaWGwxN3JfWktINHNv?oc=5
 
-- TSX ends lower as gold falls, posts fourth straight monthly gain
-  CANADA STOCKS
-  🔗 https://www.livemint.com/market/tsx-ends-lower-as-gold-falls-posts-fourth-straight-monthly-gain-11785529770170.html
+- S&P 500 closes higher Friday as Amazon surges; Dow posts fourth straight winning month: Live updates - CNBC
+  S&amp;P 500 closes higher Friday as Amazon surges; Dow
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5
 
-- Apple Pay down globally? Thousands report payment, fund transfer issues with Apple Cash — Here's what users should know
-  57 percent of complaints involved fund transfers, compared with 25 percent related to payments and 13 percent tied to the app itself.
-  🔗 https://www.livemint.com/technology/apple-pay-down-globally-thousands-report-payment-fund-transfer-issues-with-apple-cash-heres-what-users-should-know-11785545498361.html
-
-- SCL Mohali to retain 180nm chips, but will still be strategically key: director general
-   upgrading to newer chip nodes will require three times the outlay of the  ₹4,500 crore pitched by the Centre. It maintains that legacy-standard chips could be
-  🔗 https://www.livemint.com/technology/tech-news/scl-mohali-180nm-chips-strategically-key-dg-kamaljeet-singh-chip-node-cabinet-approval-11785481468388.html
-
-- Here's why AI model distillation has gained spotlight in AI race between US and China, explained
-  AI model distillation is a technique that allows developers to shrink powerful artificial intelligence models into cheaper, more efficient systems. This has now become the latest battleground between the US
-  🔗 https://www.livemint.com/technology/tech-news/ai-model-distillation-what-explained-why-focus-research-development-technique-spotlight-us-china-ai-race-cheaper-options-11785489028070.html
-
-- Anthropic says its AI models hacked 3 organizations during testing
-  Anthropic says its
-  🔗 https://www.livemint.com/technology/anthropic-says-its-ai-models-hacked-3-organizations-during-testing-11785478413346.html
-
-- Anthropics AI hacked three companies during tests, highlighting growing security risks
-  Anthropic's AI hacked
-  🔗 https://www.livemint.com/technology/anthropics-ai-hacked-three-companies-during-tests-highlighting-growing-security-risks-11785477849046.html
+- Stock Market News, July 31, 2026: Apple Stock Falls, but Nasdaq Marches Higher - WSJ
+  The WSJ reports that Apple's stock fell
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkJuZTkyV0ZMX1lfOEJqTGFQMklESXpjdHJVTVVmZGNiYnpQVEd6cGZJenFIY09KdWNYejhnLVdnQTNUbmw3Ri0tSEhnc19PeFdYdGlOOW80ZUIyZzhva3dXdVE3M2JVSjJwbGF1Y21UaUtkUHB5MG5QczMwYnZRS09UdjRfbmc?oc=5
 
 - Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday - Investopedia
-  Dow posts fourth straight winning month. Nasdaq, S&amp;P 500 Slip; Amazon Stock Soars, Apple Sinks Friday.
+  The Dow Jones Industrial Average made big gains in July. The S&amp;P
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3pteHotdWlId0lTQVlZdFluN1dBMkVHUGJkZUZsR0xHS1ZjLV90X1NjSnUzT0lsekt0WEZsbDJHRXVQRmh0R21KWkdQU3ZDRWNvWDJpdjcwUW5lVXV0akNsMm5OdFBLa056bmZsd2lOTGxDeHBkRXZFOWEyWnV6WFo1RGl0QU9XZVFtUXlPNGY?oc=5
 
-- The market’s big AI doubts are exposing the riskiest players - CNN
-  The market’s big AI doubts
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUN5MkpWcGhDZ0N1cUhmRVNDd2FLc1lnN1lRVllTUGVHTUNBM0NsQVNYNjZzdHdmX1JUdll5SmVYNlVTdnJ2ckNHSEtpSHNoX0VsLWJvWUxuakhmaGlIMFVrMWRjc0c0T2hmTmRJbVlaRVlGS1FxZXVvN2RXYWxqWUFvMVU?oc=5
+- Indian Markets Outperform Global Peers in July - Rediff
+  Indian Markets Outperform
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPYlo4NzNJUU1YTHZydi1zTlFhbk1udzVvdzEzYjh5Tm15UzNoby1kTU1IOVlLemktLUpDYlpNTlVQNENDNklDRlJ0Z3RrbklNemRwdnEzVHE1cnJ1X2ZZQzhnTTMwQ1NpR19ISHJvSk96NG91dDA1RFlzMldUNTlYOTgya240V0xtMkViTWhaRTBsYkdwc1JhUGVMNTBjR2vSAaIBQVVfeXFMT01vdlJzT2o4UWJ4aXhFX0tsTzNUMHFpLVBkUEx1MlFiYS1DalJFZ2F1WnY3NXZNcVhMX0Zna3B5LXRaZThHeTBtcHk1MkliOVZrdDhhMXUxeHFLcjhOWmJ2UkZfN3lpLXJFeDdYbzhfRVc3RHRSZzI2QTdSVmFlVHliRDJxZzJqWTRqR0tkQnZnNmJFOS1YOGZvT2NKTUt6Y0xn?oc=5
 
-- Markets trade higher in early deals; Bajaj Finance surges over 6% - The Hindu
-  The Hindu reports that Bajaj Finance surges over
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0k2MlhQSFFYSG9RTDY2c1FCb2taa0hvdmdBbGc4c1VfU0kwMnZQcFpva2RwRlBwdjNteTRGX2drdTRfU0FsbDlTNUJTOGoyU3g1clE5bEF0SXBFQjMzbXMzNDQ4cGRlQ1c1dkNVQXl4enJ5NVVVQngwVWpabmpOdTYyYVA5clZQU2hoS2tKZUY5ZEQ0Y2ZJZk1LX2hTVi1JZDQ0UlhadnRvTlRic0xvN3l0N00xeXM1NDRQbG5IZ9IBxgFBVV95cUxPNXpyTGkzSjZJdFF1azlLZHJPWmUwRmlUSHk2c1JWVUF3OUd2aTZyY3BtOFROQWQ5NlpOaHZUU3pxSUllUmFsejMwbHp0aUdQbEdlVS1SM0lZQ2g0X004YktZWU1LUF9qWk1ublF5SWZCWTljWHlkTEhtUkJnLXJ6WWdITEhZWWdia1Y2czhYLUc3Wlp2YWJ5VFgzaEl1bkNHSUx6U1RQdXRrQzdnUEphWXhaYmtneGMxYTJyb1prRDNIX2h5d2c?oc=5
+- Foreign investors returning to India on value buying as earnings, currency outlook improve: Motilal Oswal - BFSI News
+  Foreign investors returning to India on value buying as earnings, currency outlook improve
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ2FvTm9US1hfNHp5VGQwUTRvc29yV0FhekItWXF5NVlKVElqS2FWVjBLMWFFYk9CMS1TcG8tNlFUNTd5b1p0VjR3QXFoZURRY1FHVHdFNlcwZjJKdWg2MUNBNklRRHE0V0FXQ0xhVnZHSVBUMmhEU0dzRW5IbjM1blNlLTFNNG5fcG52c0pscTFqY0VQMzRIUTUxRXpCS2QyUVpIbXBCNUdUblpaMUViT3E2RmprUnFXMEZwY1M3cmI3Ujd1TlZIX1NFY1ZJLS1ycjlhQkZQaEYxbWdnX3g4c0VsRnFWTmxZV2pGM1Y5QTdVczFSVzNr0gH8AUFVX3lxTFA5UXY1VUhvYUtBenRxOTRaY1FUU2JTaC11N0xQWTRLRGk4T2RuU19SOFo0RmlkQnlQWkQ5QzNUek5acnNnUUlXTzREaTRIY19oVTNfR3FWdkhoVUxwTGNlR0x3ZXk2NndTWWNIZTRNZUV3SmFyMXJRZVMzSTZZWlRCMkhOZ3VWVjlCdkpOU0VqMEtpRUxZTWpIMXlOaWE0aHFfOHdzOXlnNjhtbVNvU3ljUng4N2FoRlBQWGhxWWREYTFGZHNDUUxiTEdpbTJFSklBSkxUN1FvVk5ReldMYzhpX0dJZmtMbDgtanJocUpQOEpZTFJrS0tqX3hNNQ?oc=5
 
-- Stock Market Today Highlights, July 31: Markets end with marginal gains; Sensex up 166 pts, Nifty rises 66 pts to 24,383; Bajaj Finance, Bajaj Finserv, M&M top gainers - BusinessLine
-  Stock Market Today Highlights: Sensex up 166 pts, Nifty rises 66 pts to 24,383; Bajaj Finance,
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjZPeW9mM3U5UU44TXp6SW5tZDBIUXp1UXQwV251dHJWLUhYTUhBNjgydVJ4cmh6SEwwd2FZaDl1ck1JZlhrUElHRXVpUHJDRVU0bGVjOVM1LTFuUTVZTmdKVkwxY1g0a05GVXl1SWl6T3YtNk40WVJaRTE5Nm1abGRCTk1yYjlJV21PTEo1ajFzeGdkZV9QOEh2ZkJvek5BR2tDc1h2eTJKX0MyMHBSeml0cDZOMmg1TzVrQVdOLTgwNlpZ0gHLAUFVX3lxTFB3SlJBcVdWaU1vbFQwMzVZSEoyTEtMdlRvZVUzNXFIbDNsRzcyZm01TUtlS0VkMWlMZ0VhSWoya1VEY2JZRGhsYjV5ejRyT09iTHJmT05iTXlfa1V3ZnRuUHBkU1JMRDJrbWlwZFItUjhfMHVqNmJ4N2xuXzdDS3ZoSVVuMEVXM2xCMk1kRHhNa0d6ci1nU1ZoSjhYOGh4dXpfOVY1NnF2SjBQOWpXSmd0MTFMQm8wSEdON2JhbnhnRFlFYUVySW5rUVNN?oc=5
+- Modi, Burnham discuss trade, technology, Hormuz over phone - thehindu.com
+  Modi, Burnham discuss
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQbG1TcmQtWjFLNG9NdjRZazFNNGZST1E5c2M2dHh5Z0JHcHFuZ3UtQ2V4NG5oVDF3bWFlN1dNTVFIZFZlSF9iVm9jempfajZWQW12akVURkxxeVM0a1hSdTJsSGZlTmtLTTZKcER0c3M3MnJ2R0ZUME1nb204eXNRbDkxNFV2cmktdjJYU0hubnkzT1R0d3BONjl1cVVudUxlVjk1SGZWVXdNaW1DMERV0gG2AUFVX3lxTFBPMGlVZUpqV016TVRFM1BNam9FX3JyTlQ5RHIxYUJJSnF5TG9MVC1KUFFqS205dC1iOGZJX2cwZHZrVWNYTkUxLXN4NnZuWjlEdXVQNUxBQl9yX3JneDFRbDFKTEVSR2dPSmZjOFZNUFM0blgxQ0JudmY2am1uWDUxWDFRT29WWW1EaDRsY3lYVVE0QXFXVXdBWVZfbXlUZGNIbkFYZDFjdGg3QjVMVTMzdWhIdU13?oc=5
 
-- Closing Bell: Nifty above 24,350, Sensex gains 166 pts; broader markets outperform - Moneycontrol.com
-  The Sensex gains 166 pts; broader markets outper
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPdUZLUW9HZmp1UGZGTzNsWHdKUFhtOW9FemZNV0dZS2JWaTI3ZE9fVlFVUV85UjduYVB4dTVqU1hIaTlZZXk5aC1kWVY1N01vLWg0eHVPQllmQlpKTUNMdkM4aFhtYlRuWWhlRjc0NTJoOUZTcnRTZndrWnVKQVBXLVI2V194a2RXbGYwNWwzTmxnNDlndHZ0RldVUy1xQTZNbmNncjVzRXRVWFRMc0xxNkpRdVNpUGRVT1ljMjZZVWRpbmdvRkxsbngzc3NsOHpTVTFjTDlsYlpKNEpXNVZnRENHSVFLVGJGVkI1dFJlQkxheS1Qb00wRklWWjh1NzRWbVNCekxJM19MWGdEMkt3N1BpTGhzTW5xTXRYU0g1VzBOTWvSAagCQVVfeXFMTkQ2dTJ5VlVKUUU3MlFmekFPUWxRaHpZWlpkMGptU1FuLUtLMEdCaDZfbUZnTDdyQ21WUE5WY19LSVZxOEwtUWo2ZldqSUdWNTl1QXJwcURSN3F5aEZmV3NTR3RQM3lXRFBZUW93X3hORVUyaVZXaTlqZGJfOWRESzAteUxDaUtVc0RlNldzcGVTWk1SRlNRNWJWbFpOMHNkQ1l2Mjg5cHdSTlM4N0xGdmNYZTFHN3ZNbndOUHpJSFU1OGVpTG95WXdSZExuZWdvUXFJZUtkR2dWWnd3WXQyZFRuVlpMMEdqeTE0SG1FY0FLdWJIdUZCOXUybG8wVTlFamV4RlJzaV90eVoyaF9BS2Q4aDAxRUFTeTlVSGlBNlNPeEdZRS1zLWo?oc=5
+- The New Architecture of Consumption: How Technology Is Reshaping Consumer Behaviour - orfonline.org
+  The New Architecture of Consumption: How Technology Is
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUNpWFhBRUlKWVI3UmJnWFl4WjB2UnJtNFY0Mkp0eW1JSUhlLUtJVXFGY3Y1b19EWDFuQXdES0N5azlZaXFNQnRhckhlUWlFR2pKRzVVZlA5Z1JOcFRFZEN6ZkN5UVYtbnI3bDdDTW5vaGVvQ2dzVlotang1dVRUQTM3YTVTZEp3NkUxSzh0MXNOZWc1NWtJMjZMSU5RUWFMVnBUY1RLWFpjM1B3V2pMX3J6LWRrV00w?oc=5
 
-- Deposit rates rise as banks fight for funds
-  Private banks saw a significant 27 basis point increase in their deposit rates. Public sector banks also raised rates by 7 basis points. Their average deposit rate remained higher than private sector offerings.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/deposit-rates-rise-as-banks-fight-for-funds/articleshow/132779638.cms
+- Industrial-style technology museum set to be built in Bengaluru - Dezeen
+  Industrial-style technology museum set
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWozRm9Ha3NiUzFDSEYxX182Mnl1ZEhpQjVPNWpMVzdBTmExOWxVUC1pS2V6S1hSX1dSbVJqd29hU0tFVGxqT3R2NW56c2paSVcxR1RsdEVHakNZYUpLZFd5bHhES3dJbVdxU1kya2Yza2poOXR3bTN2bV85NUJNdUxmeV9HanR2?oc=5
 
-- US stocks: US market ends higher as Amazon soothes AI jitters
-  Wall Street closed higher on Friday, driven by Amazon's strong quarterly report. Apple's stock dropped after its earnings report failed to meet expectations. Treasury yields rose as Fed officials discussed inflation concerns.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-higher-as-amazon-soothes-ai-jitters/articleshow/132776618.cms
+- Latin America is becoming a laboratory for tech-supremacism - Al Jazeera
+  Latin America is becoming a laboratory for
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1ZZTldJOVlwa05YdUpxbE9fUWh3VEVPR3V1OTEtZVJVMlRRVUhXeTRlM1lsR0ppX2lTWEJRLWJIRGd4b0t2TDJrazY3U2E5Q0lJbS1sZFJLcVN4N00wMHc3YXhwakdRS2hUWG9rcWpzX21zODNBUUE5WTFoQjJjcUN0T0xmNGdycVpOdlZzUlRkZjJ6ZlFsY2JZNnRqajZIZE1LTDRfSdIBrAFBVV95cUxQdnc4cUpDN1JfWjA0Qk9EZURaaGpKXzlSdHlKVTZqNHVwSW96akpMMXBHX3pqS2ZKZ29GU3F6NHlzbVlRQ0RDZlZTeUJ4WlkzV21Ta0pOT01Pdmg3dEpnQ3dnZ2ppTG5mUlV4Sm9meUFnLUZ5XzZXVXpFSmx5NmFTdUxCc3BSaEJzdko4eUFJVUMzQklTT2ttU1ZuMENJUlZ4UDNhazZLMFl3dk0t?oc=5
 
-- Bank credit to industry up 19%, personal loans stay strong
-  Banking credit to industry saw a robust 19% year-on-year increase. Personal loan growth also remained strong, expanding 16% compared to last year. Loans against gold jewellery surged by 93%.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bank-credit-to-industry-up-19-personal-loans-stay-strong/articleshow/132779540.cms
+- Financial market technology moves into focus - J.P. Morgan
+  J.P. Morgan
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdk9Wa1V4bHhpNU9kSnB5TkxobloyLWRDY19ULTBYcEZRWUgyQlI0Vk1ET0E1LUh4ejRwLTRRTDZsYVBUVU1BTWhSQ2VYRnlOSTJ1bURlT2dzLTFYRkNoakFpdlF0Ml9FRkRvVWlEVkVQd2hteV8wWHhtdFl0WGlsWi16SmJkZXpfVmVybHNhYUZVV1JZWk5LVkdTUGFONnpTbEl3cU0xTjRqUQ?oc=5
 
-- PNB raising $1 billion for FCNR on-lending
-  Punjab National Bank is set to secure a substantial one billion dollars through a five-year loan arrangement. The loan will be eligible for the Reserve Bank of India's special swap facility.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pnb-raising-1-billion-for-fcnr-on-lending/articleshow/132779572.cms
+- S&P 500 closes higher Friday as Amazon surges; Dow posts fourth straight winning month: Live updates - CNBC
+  S&amp;P 500 closes higher Friday as Amazon surges; Dow
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5
 
-- Some bottlenecks: FCNR deposits from UAE come in big; some say flow could be bigger
-  UAE poised to spearhead India's special FCNR(B) deposit scheme. Bank officials project that more than ten billion dollars have already been sourced from the UAE.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/some-bottlenecks-fcnr-deposits-from-uae-come-in-big-some-say-flow-could-be-bigger/articleshow/132779580.cms
+- Stock Market News, July 31, 2026: Apple Stock Falls, but Nasdaq Marches Higher - WSJ
+  The WSJ reports that Apple's stock fell
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkJuZTkyV0ZMX1lfOEJqTGFQMklESXpjdHJVTVVmZGNiYnpQVEd6cGZJenFIY09KdWNYejhnLVdnQTNUbmw3Ri0tSEhnc19PeFdYdGlOOW80ZUIyZzhva3dXdVE3M2JVSjJwbGF1Y21UaUtkUHB5MG5QczMwYnZRS09UdjRfbmc?oc=5
 
-- 'Want To Forgive Them': PM Modi On Students Who Abused Him at Jantar Mantar - ndtv.com
-  'Want To Forgive Them': PM Modi On Students Who
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpnUkRGYUh3ZndzdEVFaUhIS1RUWF9tbHZBYTFWVm4xOWVUVTdudzE5M3lXRDR2QjJydEJBTUoxRTd5Vm50SU9tbmpsOEg2bElBTVFyNUd5eHVhb1pXd3UyQi1UUGpnMG1NY2U0N1NqOV9pdXZ5dHpDQWNRMkkzc18wQThNb1REYTJENF9TRnlrRXRlTUc4dmdhekpMWnVYNVpLN000d2psN0hRV3d0UkJlME9tQzBaRXkw0gHDAUFVX3lxTFB3ZnJfd2dFRzVBVUd0NzlwWWNiVzJRVnEzbEFOeE9DWjJjNFUxYnBnN2x5eExobUU5VXNhQUZtQlBxa3JQVF92cGpJdWJiYjZfY2FPVFViRkJVcjhkd29BT2JaVVRsbmxOTVlKYnlySHo2M1F0UlJlNXp6U3hsZEcteERHM0E1Q1hYVUJyMkRNWlZrQVFTZnl2YlRmYzh2aG5jdDY0VDdjUE5STFFNaEcxaXh3WXlFZG5PV0hsOTdqYUdxaw?oc=5
+- Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday - Investopedia
+  The Dow Jones Industrial Average made big gains in July. The S&amp;P
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3pteHotdWlId0lTQVlZdFluN1dBMkVHUGJkZUZsR0xHS1ZjLV90X1NjSnUzT0lsekt0WEZsbDJHRXVQRmh0R21KWkdQU3ZDRWNvWDJpdjcwUW5lVXV0akNsMm5OdFBLa056bmZsd2lOTGxDeHBkRXZFOWEyWnV6WFo1RGl0QU9XZVFtUXlPNGY?oc=5
 
-- PM Modi forgives students amid abusive video row: 'Let's guide the misguided' | India News - Hindustan Times
-  PM Modi forgives students amid abusive video row: 'Let's guide
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPckVjZHZEOVBrVi1YeG50VTlrUVV2Z29uNUJUX1hMcmNlR0RNeUZVUUROci1TUFZrb0d4QjlrclliZ0ZhcWRrUV8yd3Q5eG8xX3pNa0kxTnhOUmdkd1NqSXIyY2I2ZXhrUlJUdjcxVk01TmlWWFpIMDNZQjVaQktfU0EwSWl3X3R4V1M4MUE0YmFtUGZZVk9TWW0xM1FtTnlzcE5yRjhzN1JhRGxuZDBoZVc0ejBOSW9Hc1p2NndDbGJVZ2M0SlZLb253QThaclJLRzVXS2lfaTlJLXlWTzZoVEFQSXkxeEVnVEtMbHdlNEU0ampi0gH6AUFVX3lxTE1CYU9YY0o3cE52NG1veHA0ZU5mdF84dDh4NVBheXA3ZjlUXy1EVnNfc05XUnVkSGt6UnlQd2VJS3VXZ1B3T2FSR2huSUFQNEF6ZUlKWEI5SnFqOVJ1MlJsSWVrQTFEZWFqYkRfZW82VlVkT0U0OGUxdVMzaXF5bTU5Wnh3OW1JYm9fbEZpTHI5a0VHVlZ3V1JwY09abktQSTBwWjNibHFxckQ2LUpQRldwYnI1QUpxUHc2b2hxZzF3WEwzZzBRY3U5NlVYZjlic0FoX0NLM3g5WGtwSHVXclFRSHR3Qko5ZW91WVA0UzU2Zkt4ZGdCdGF5WHc?oc=5
+- Indian Markets Outperform Global Peers in July - Rediff
+  Indian Markets Outperform
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPYlo4NzNJUU1YTHZydi1zTlFhbk1udzVvdzEzYjh5Tm15UzNoby1kTU1IOVlLemktLUpDYlpNTlVQNENDNklDRlJ0Z3RrbklNemRwdnEzVHE1cnJ1X2ZZQzhnTTMwQ1NpR19ISHJvSk96NG91dDA1RFlzMldUNTlYOTgya240V0xtMkViTWhaRTBsYkdwc1JhUGVMNTBjR2vSAaIBQVVfeXFMT01vdlJzT2o4UWJ4aXhFX0tsTzNUMHFpLVBkUEx1MlFiYS1DalJFZ2F1WnY3NXZNcVhMX0Zna3B5LXRaZThHeTBtcHk1MkliOVZrdDhhMXUxeHFLcjhOWmJ2UkZfN3lpLXJFeDdYbzhfRVc3RHRSZzI2QTdSVmFlVHliRDJxZzJqWTRqR0tkQnZnNmJFOS1YOGZvT2NKTUt6Y0xn?oc=5
 
-- Rajya Sabha Passes Anti-Paper Leak Law As PM Modi Vows Zero Tolerance Against Exam Mafias - The Times of India
-  Rajya Sabha Passes Anti-Paper Leak Law As PM Modi V
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc0o1VzVWWm9tcDNveHhzVW5wWHowNTVidG1pdldHVHhzRVpuVE55cU1vZWVVenJ6S3dMTUVCYXZYeU1qeWtrUlhKTzBHanBraFRhSGhlWVlfNEd5SlpJYnZGb2ZDMGN5bDhsWWJuV0R3ZEFncDlWMmc0bG8ta0Q3OGczNTk0SS1pcERwSk84c1VhYWRscVc0WDJzOTd3R1N3NW1uNmdMNHY0X3QzS0Y0RExBYU41dFdUblZRd2FnbWgxOHloR1hVUktwamhDMjRTTnNuRWNfQWRPSnZNdFBFWmJ2aW1RV2ZTWEdZX19SaUpua2fSAfgBQVVfeXFMTUt3X1duaTlWclBkZ1ZKVl9lQnItZFlQNjJPamgxU2pqMTJPQ2ZlNkF5YkNpMTA2VS1FR2xYU0RnNDVkaEhWeGJNbE91OFRFRGdqZWdnaFBxRHB1MEdpWnZZZUpsR21Lbno3SFhCdzczTndDT1FLWU9pTFlGczdTUXZLZ0RnLWU1Y3hLaUFrOURCbTVrckg2TTdzYVNwdUFqc3BvUXBZNnBNb3JIUFRybDN2MzhvdmRnQkFiT09Ec2Juekx0YzVkN1ptZkFoa2UxbFhMeG05ZlZNbEJqU2w2RFNCcUtidGpOZ2V2U1c3YUt0UUg1OVVPMXQ?oc=5
+- Foreign investors returning to India on value buying as earnings, currency outlook improve: Motilal Oswal - BFSI News
+  Foreign investors returning to India on value buying as earnings, currency outlook improve
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ2FvTm9US1hfNHp5VGQwUTRvc29yV0FhekItWXF5NVlKVElqS2FWVjBLMWFFYk9CMS1TcG8tNlFUNTd5b1p0VjR3QXFoZURRY1FHVHdFNlcwZjJKdWg2MUNBNklRRHE0V0FXQ0xhVnZHSVBUMmhEU0dzRW5IbjM1blNlLTFNNG5fcG52c0pscTFqY0VQMzRIUTUxRXpCS2QyUVpIbXBCNUdUblpaMUViT3E2RmprUnFXMEZwY1M3cmI3Ujd1TlZIX1NFY1ZJLS1ycjlhQkZQaEYxbWdnX3g4c0VsRnFWTmxZV2pGM1Y5QTdVczFSVzNr0gH8AUFVX3lxTFA5UXY1VUhvYUtBenRxOTRaY1FUU2JTaC11N0xQWTRLRGk4T2RuU19SOFo0RmlkQnlQWkQ5QzNUek5acnNnUUlXTzREaTRIY19oVTNfR3FWdkhoVUxwTGNlR0x3ZXk2NndTWWNIZTRNZUV3SmFyMXJRZVMzSTZZWlRCMkhOZ3VWVjlCdkpOU0VqMEtpRUxZTWpIMXlOaWE0aHFfOHdzOXlnNjhtbVNvU3ljUng4N2FoRlBQWGhxWWREYTFGZHNDUUxiTEdpbTJFSklBSkxUN1FvVk5ReldMYzhpX0dJZmtMbDgtanJocUpQOEpZTFJrS0tqX3hNNQ?oc=5
+
+- Chris Wood warns AI capex binge may burn billions as markets turn against Big Tech spending
+   AI could resemble the airline industry more than the winner-takes-all economics of the internet era.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/chris-wood-warns-ai-capex-binge-may-burn-billions-as-markets-turn-against-big-tech-spending/articleshow/132784757.cms
+
+- Divi's Labs Q1 Results: Net profit rises 66% YoY to Rs 902 crore, revenue up 28%
+  The firm’s revenue from operations meanwhile rose around 28% YoY to Rs 3,080 crore in Q1 FY27, from Rs 2,410 crore reported in the year-ago period. Its total income increased over 24
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/divis-labs-q1-results-net-profit-rises-66-yoy-to-rs-902-crore-revenue-up-28/articleshow/132784662.cms
+
+- Sunil Singhania's Abakkus portfolio: 5 stocks rally up to 105% in CY26; 2 new buys added in Q1
+  The analysis includes only those companies in which the investor holds more than a 1% stake. The analysis
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sunil-singhanias-abakkus-portfolio-5-stocks-rally-up-to-105-in-cy26-2-new-buys-added-in-q1/slideshow/132784682.cms
+
+- Jio Financial Services sets record date for dividend. Check details
+  Jio Financial Services set August 10 as the record date for its final dividend. The company reported significant year-on-year profit and revenue growth in the first quarter. Motilal Oswal maintains a Buy rating with a target price
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-services-sets-record-date-for-dividend-check-details/articleshow/132783869.cms
+
+- A simple guide to start investing in Indian share market
+  New investors can now easily enter the Indian share market. Understanding basics and opening necessary accounts are crucial first steps. Learning about investment options and managing risk are important considerations.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/a-simple-guide-to-start-investing-in-the-indian-share-market/articleshow/132783471.cms
+
+- "I Am Just 15, Forgive Me": Girl Booked For Abusing PM Modi At Protest Apologises - NDTV
+  "I Am Just 15, Forgive Me": Girl Booked
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS3pYUjZkc1JlZ1hzOHc4Mmt4ZzVpUXFzaVlZZDdvSVN1ZzlmWVBQTUlRMlJ5YWNPTTFiYlF3dHNHVnhXTHY5b2ZYT2NlcDhEbUo4UlVqX2xzZVFOS0JCbEVWUS1sYk9sbUxTVmZIdFFjQ2tPdUZnN0Utb2NEVnB5NkdiNWVyS2hWZnJvdjRadkJkM0Z5eGRwSzlVNV9WcEtta3VySXc2STE1N090M2pPcUZmbWl2ZHFYV0xVM3c1bzNoYlUyMUcya1hYSjlackxva3pyX0x2NHZYWFVk0gHkAUFVX3lxTFAydE9kMWQtTk1aSnFHWVBuM1BpRl9Tdlhvb193bU13TmJmUm5tOVJOaHk2ZncwUGQ4LWl0YlNDUy0ycHNDYkNqcXNqRE1yZEduejJvNk9rb2JwWnJHWXRtRnQzT1ZGa0I4bFozYjVaSFFJMENUNURBQjQzN090UE9NQjJ2Rlpfd0x5amtGSVI3dzNlaFAtZ3hmZXlob0EzYUxqTEdHZXVSSzNWZjlENW8xblp6VEdDb096ejJnMGh6MHNSNUlFczQtRjNrYUt2cG9NZGNkQS1fUXN1NEwxcm1oZE9YVw?oc=5
+
+- India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts - BBC
+  India's 'cockroach' protesters have wounds
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeW52TFVRU0UyV0ZBeEEtdEVXNTlsaERGYXdBQW80cnlTQWZuT3o4RmtzLXhGd1QxcVVZYTkxNk9NZWo5YkprRFNicjdIUG8tdHgyc21PbkE5Zw?oc=5
+
+- 'Abuses never solve anything': PM Modi posts late night video amid row over Noida woman's remarks - The Times of India
+  'Abuses never solve anything': PM Modi posts late night video amid row over No
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd3V0WWdwdU5ELUM2M2Vnb04tMXV6TkJUc2lnaWhFWVlfek9oWUV3VlRiOWhuOTJGdGtEUkZvZ1lia1gtVmVyc2FrV1BBQTBodHFNd2xIVFBxaF9CUUNiWFNjcVpKVGZUZUhLZGpHTm5xTjlfWi00VngwenYwRGJHTl9UZ2x5eGhrT29MZU1NcmpnUUxEeG42VjRKb2RDUDd1LWVWcUMzZHQyZDlZT21kc3c4WWs5bm5uQjV1R1gwRUNPT1JnaDBEWVhyMmczWHdHWDlSQTBNZnhjSElxeVQzUXF3c1JOVGk1ZnVCRmNjYTVLeG_SAfgBQVVfeXFMT2E5NEJnLW1hWW15QWFvOEF2S2JjYzRqeDRkTXdnRlA4cVZMYnhJZF9NdmZnaWt5b3liaEtsN3lBOHZDc0VvUkdQNWQ2WHJWQTg3MElFQ1E5eTQzaHlHczNGY01vTUw5UzFyRUVLTHVZZVFSUW83UFltaDFPV1pDUk1vdXJnNThiMEtNcWtnanJuZEN5X0VzM1RMbDRLS1dfNjBVSHIzd0V3R2NWQjZwTGJ6UHVIbDg5QVcwOHVEU3ZWWlZfLVQta1BjcEkyOFVCMElaVGZ6ZjdPaU9GT0tTNGh5OFZCdktzWVYycWNqUXFNWmJlZVZKVXo?oc=5
+
+- Trinidad restaurateur Carveann David undergoes rare heart procedure in India - The Economic Times
+  Trinidad restaurateur Carveann David undergo
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSlp1NFhnWDlLM1Frcl9PX21ZV3JybHdCUTVxbk1jMHlRdC1ydDRWamthdXBaRnE5cmFySFc1cFhCT1kzVDJEbEZBa29mNHh4MWNJUjQ2bG82Yy1QUTRaZUFFS2Zmd0NaVDNKbmIycVJyQmFLSWc4V1FsX1h1WW5RWHpXMVVhN1VhSGZoYllkTWZlaUI0SFJHREEtbS1kUGd1cHlEdXdpWWhiSVBzMXF2b3lfaHdXdExUb2k5aXJJN0R2NFlkalFWdnVzRUpwQXZvUnlpYmRuVExSWWlabk93cldRMk9LOFpsU3o2V0NjV2lDZzVObVpzWE94MkVxZnBmRXVjUlBoWXp1T05MVGhIdm5Mb3ZVNTZBcFAxU3NMeDlEaUp4blZNeGtnQ1RsdmFoVURyWm9fT3FUeTR4VVpWSWFB0gHeAUFVX3lxTE1jZ3p3aDZxS1VJbmhrbWg0a3lacU5tUF9CYy10MTBLSUU5Ujd6MjR4dzd6MDE0UDV5ZXZ1R3FESGdiZHJ6QjNzZWswanprcThLV0tNUEl1T1FvVzBCMGhFMWJqQVRCOWlLWjRYYi13YVRCZmk1dlZIUEtxQ2p3TEtlbFI3dkVjSzdQX04wT0N0OFI0NWY4a29HQk1iSVFrTWI5X01oOGlyTjVLUjlZYnZfaENuQW5hcjdoQ1VjUDF2bG1TbnpUWVJmZGpFR1NwcnZXa0Fkeko4R0hOeFR0QQ?oc=5
 
 - India shine at Glasgow Commonwealth Games with historic Judo golds - News On AIR
   India's Judo team won three gold medals
   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1dEMlBrd0ZaNTd5MTNJazBwWktYSTVKZFNTYWcxUU5DdzJFZFJSc01jZjNEcTNJZUkxeTlKM3NjZWtfN05pZHRUeFZSOWw2VThYYzhHU09oNXlzYnJOX3FoTnE5MzdTd3ZWMHN3RHVNTFRPeUpjYWp3UG5hZXV2bjlnT0tXa1JSVXhaWGwxN3JfWktINHNv?oc=5
 
-- India’s monsoon rains in danger as UN chief warns planet is ‘on fire’ - The Guardian
-  India’s monsoon rains in danger as UN chief
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1JQODlyR2l4b3F3aG1ZZTEtUHd1bGktZDNfeTNyUEZlMTY3cUhMakVMZ3YzQ29udUVtTEhpS2J4NXNRUE94RHVfZUVtSDZOekRuSDZtdnlfQ2RYQ3MtYVc3azVBNGVwOTFHbElRT0xERDN0RFdFRGdWYjhfTDFKbG15Y21DNng3SW1udi1sblV3dllQeEYzbTFhTUxVSHczNG1DblQzTFVRTTQ?oc=5
+- Bharat Mandot Of Stelcore Group On The Hidden Costs Of Taking Indian Brands Global
+  Bharat Mandot of Stelcore Group on The Hidden Costs Of Taking Indian Brands Global. What&#8217;s driving the next phase of India’s export story? It�
+  🔗 https://inc42.com/features/bharat-mandot-of-stelcore-group-on-the-hidden-costs-of-taking-indian-brands-global/
+
+- From Freehand To Sid’s Farms — Indian Startups Raised $142 Mn This Week
+  Indian startup funding cooled in the final week of July. Between July 27 and 31, Indian startups cumulatively raised about $8230 million.
+  🔗 https://inc42.com/buzz/from-freehand-to-sids-farms-indian-startups-raised-142-mn-this-week/
 
 - Kissht’s Next Growth Play: Better Borrowers, Lower Costs & Loan Against Property
    NBFC Kissht is entering its ‘quality over quantity’ phase, as it looks to build a more sustainable lending.
@@ -152,53 +180,45 @@
   Earlier this week, listed manufacturing company Aequs reported its Q1 FY27 earnings. As usual, most of the investor attention focused on the company's aerospace division.
   🔗 https://inc42.com/buzz/can-aequs-build-a-consumer-engine-under-its-aerospace-wings/
 
-- Smallest.ai Bags $13 Mn To Build Next-Gen Voice AI Models
-  Smallest.ai has raised $13 Mn (around ₹108 Cr) in its Series A funding round.
-  🔗 https://inc42.com/buzz/smallest-ai-bags-13-mn-to-build-next-gen-voice-ai-models/
+- "I Am Just 15, Forgive Me": Girl Booked For Abusing PM Modi At Protest Apologises - NDTV
+  "I Am Just 15, Forgive Me": Girl Booked
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS3pYUjZkc1JlZ1hzOHc4Mmt4ZzVpUXFzaVlZZDdvSVN1ZzlmWVBQTUlRMlJ5YWNPTTFiYlF3dHNHVnhXTHY5b2ZYT2NlcDhEbUo4UlVqX2xzZVFOS0JCbEVWUS1sYk9sbUxTVmZIdFFjQ2tPdUZnN0Utb2NEVnB5NkdiNWVyS2hWZnJvdjRadkJkM0Z5eGRwSzlVNV9WcEtta3VySXc2STE1N090M2pPcUZmbWl2ZHFYV0xVM3c1bzNoYlUyMUcya1hYSjlackxva3pyX0x2NHZYWFVk0gHkAUFVX3lxTFAydE9kMWQtTk1aSnFHWVBuM1BpRl9Tdlhvb193bU13TmJmUm5tOVJOaHk2ZncwUGQ4LWl0YlNDUy0ycHNDYkNqcXNqRE1yZEduejJvNk9rb2JwWnJHWXRtRnQzT1ZGa0I4bFozYjVaSFFJMENUNURBQjQzN090UE9NQjJ2Rlpfd0x5amtGSVI3dzNlaFAtZ3hmZXlob0EzYUxqTEdHZXVSSzNWZjlENW8xblp6VEdDb096ejJnMGh6MHNSNUlFczQtRjNrYUt2cG9NZGNkQS1fUXN1NEwxcm1oZE9YVw?oc=5
 
-- Zepto To Now Re-Attempt IPO By May 2027: Report
-  Barely a day after reports surfaced that Zepto had deferred its IPO plans, the quick commerce giant’s cofounder and
-  🔗 https://inc42.com/buzz/zepto-to-now-re-attempt-ipo-by-may-2027-report/
+- India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts - BBC
+  India's 'cockroach' protesters have wounds
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeW52TFVRU0UyV0ZBeEEtdEVXNTlsaERGYXdBQW80cnlTQWZuT3o4RmtzLXhGd1QxcVVZYTkxNk9NZWo5YkprRFNicjdIUG8tdHgyc21PbkE5Zw?oc=5
 
-- 'Want To Forgive Them': PM Modi On Students Who Abused Him at Jantar Mantar - ndtv.com
-  'Want To Forgive Them': PM Modi On Students Who
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpnUkRGYUh3ZndzdEVFaUhIS1RUWF9tbHZBYTFWVm4xOWVUVTdudzE5M3lXRDR2QjJydEJBTUoxRTd5Vm50SU9tbmpsOEg2bElBTVFyNUd5eHVhb1pXd3UyQi1UUGpnMG1NY2U0N1NqOV9pdXZ5dHpDQWNRMkkzc18wQThNb1REYTJENF9TRnlrRXRlTUc4dmdhekpMWnVYNVpLN000d2psN0hRV3d0UkJlME9tQzBaRXkw0gHDAUFVX3lxTFB3ZnJfd2dFRzVBVUd0NzlwWWNiVzJRVnEzbEFOeE9DWjJjNFUxYnBnN2x5eExobUU5VXNhQUZtQlBxa3JQVF92cGpJdWJiYjZfY2FPVFViRkJVcjhkd29BT2JaVVRsbmxOTVlKYnlySHo2M1F0UlJlNXp6U3hsZEcteERHM0E1Q1hYVUJyMkRNWlZrQVFTZnl2YlRmYzh2aG5jdDY0VDdjUE5STFFNaEcxaXh3WXlFZG5PV0hsOTdqYUdxaw?oc=5
+- 'Abuses never solve anything': PM Modi posts late night video amid row over Noida woman's remarks - The Times of India
+  'Abuses never solve anything': PM Modi posts late night video amid row over No
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd3V0WWdwdU5ELUM2M2Vnb04tMXV6TkJUc2lnaWhFWVlfek9oWUV3VlRiOWhuOTJGdGtEUkZvZ1lia1gtVmVyc2FrV1BBQTBodHFNd2xIVFBxaF9CUUNiWFNjcVpKVGZUZUhLZGpHTm5xTjlfWi00VngwenYwRGJHTl9UZ2x5eGhrT29MZU1NcmpnUUxEeG42VjRKb2RDUDd1LWVWcUMzZHQyZDlZT21kc3c4WWs5bm5uQjV1R1gwRUNPT1JnaDBEWVhyMmczWHdHWDlSQTBNZnhjSElxeVQzUXF3c1JOVGk1ZnVCRmNjYTVLeG_SAfgBQVVfeXFMT2E5NEJnLW1hWW15QWFvOEF2S2JjYzRqeDRkTXdnRlA4cVZMYnhJZF9NdmZnaWt5b3liaEtsN3lBOHZDc0VvUkdQNWQ2WHJWQTg3MElFQ1E5eTQzaHlHczNGY01vTUw5UzFyRUVLTHVZZVFSUW83UFltaDFPV1pDUk1vdXJnNThiMEtNcWtnanJuZEN5X0VzM1RMbDRLS1dfNjBVSHIzd0V3R2NWQjZwTGJ6UHVIbDg5QVcwOHVEU3ZWWlZfLVQta1BjcEkyOFVCMElaVGZ6ZjdPaU9GT0tTNGh5OFZCdktzWVYycWNqUXFNWmJlZVZKVXo?oc=5
 
-- PM Modi forgives students amid abusive video row: 'Let's guide the misguided' | India News - Hindustan Times
-  PM Modi forgives students amid abusive video row: 'Let's guide
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPckVjZHZEOVBrVi1YeG50VTlrUVV2Z29uNUJUX1hMcmNlR0RNeUZVUUROci1TUFZrb0d4QjlrclliZ0ZhcWRrUV8yd3Q5eG8xX3pNa0kxTnhOUmdkd1NqSXIyY2I2ZXhrUlJUdjcxVk01TmlWWFpIMDNZQjVaQktfU0EwSWl3X3R4V1M4MUE0YmFtUGZZVk9TWW0xM1FtTnlzcE5yRjhzN1JhRGxuZDBoZVc0ejBOSW9Hc1p2NndDbGJVZ2M0SlZLb253QThaclJLRzVXS2lfaTlJLXlWTzZoVEFQSXkxeEVnVEtMbHdlNEU0ampi0gH6AUFVX3lxTE1CYU9YY0o3cE52NG1veHA0ZU5mdF84dDh4NVBheXA3ZjlUXy1EVnNfc05XUnVkSGt6UnlQd2VJS3VXZ1B3T2FSR2huSUFQNEF6ZUlKWEI5SnFqOVJ1MlJsSWVrQTFEZWFqYkRfZW82VlVkT0U0OGUxdVMzaXF5bTU5Wnh3OW1JYm9fbEZpTHI5a0VHVlZ3V1JwY09abktQSTBwWjNibHFxckQ2LUpQRldwYnI1QUpxUHc2b2hxZzF3WEwzZzBRY3U5NlVYZjlic0FoX0NLM3g5WGtwSHVXclFRSHR3Qko5ZW91WVA0UzU2Zkt4ZGdCdGF5WHc?oc=5
-
-- Rajya Sabha Passes Anti-Paper Leak Law As PM Modi Vows Zero Tolerance Against Exam Mafias - The Times of India
-  Rajya Sabha Passes Anti-Paper Leak Law As PM Modi V
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc0o1VzVWWm9tcDNveHhzVW5wWHowNTVidG1pdldHVHhzRVpuVE55cU1vZWVVenJ6S3dMTUVCYXZYeU1qeWtrUlhKTzBHanBraFRhSGhlWVlfNEd5SlpJYnZGb2ZDMGN5bDhsWWJuV0R3ZEFncDlWMmc0bG8ta0Q3OGczNTk0SS1pcERwSk84c1VhYWRscVc0WDJzOTd3R1N3NW1uNmdMNHY0X3QzS0Y0RExBYU41dFdUblZRd2FnbWgxOHloR1hVUktwamhDMjRTTnNuRWNfQWRPSnZNdFBFWmJ2aW1RV2ZTWEdZX19SaUpua2fSAfgBQVVfeXFMTUt3X1duaTlWclBkZ1ZKVl9lQnItZFlQNjJPamgxU2pqMTJPQ2ZlNkF5YkNpMTA2VS1FR2xYU0RnNDVkaEhWeGJNbE91OFRFRGdqZWdnaFBxRHB1MEdpWnZZZUpsR21Lbno3SFhCdzczTndDT1FLWU9pTFlGczdTUXZLZ0RnLWU1Y3hLaUFrOURCbTVrckg2TTdzYVNwdUFqc3BvUXBZNnBNb3JIUFRybDN2MzhvdmRnQkFiT09Ec2Juekx0YzVkN1ptZkFoa2UxbFhMeG05ZlZNbEJqU2w2RFNCcUtidGpOZ2V2U1c3YUt0UUg1OVVPMXQ?oc=5
+- Trinidad restaurateur Carveann David undergoes rare heart procedure in India - The Economic Times
+  Trinidad restaurateur Carveann David undergo
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSlp1NFhnWDlLM1Frcl9PX21ZV3JybHdCUTVxbk1jMHlRdC1ydDRWamthdXBaRnE5cmFySFc1cFhCT1kzVDJEbEZBa29mNHh4MWNJUjQ2bG82Yy1QUTRaZUFFS2Zmd0NaVDNKbmIycVJyQmFLSWc4V1FsX1h1WW5RWHpXMVVhN1VhSGZoYllkTWZlaUI0SFJHREEtbS1kUGd1cHlEdXdpWWhiSVBzMXF2b3lfaHdXdExUb2k5aXJJN0R2NFlkalFWdnVzRUpwQXZvUnlpYmRuVExSWWlabk93cldRMk9LOFpsU3o2V0NjV2lDZzVObVpzWE94MkVxZnBmRXVjUlBoWXp1T05MVGhIdm5Mb3ZVNTZBcFAxU3NMeDlEaUp4blZNeGtnQ1RsdmFoVURyWm9fT3FUeTR4VVpWSWFB0gHeAUFVX3lxTE1jZ3p3aDZxS1VJbmhrbWg0a3lacU5tUF9CYy10MTBLSUU5Ujd6MjR4dzd6MDE0UDV5ZXZ1R3FESGdiZHJ6QjNzZWswanprcThLV0tNUEl1T1FvVzBCMGhFMWJqQVRCOWlLWjRYYi13YVRCZmk1dlZIUEtxQ2p3TEtlbFI3dkVjSzdQX04wT0N0OFI0NWY4a29HQk1iSVFrTWI5X01oOGlyTjVLUjlZYnZfaENuQW5hcjdoQ1VjUDF2bG1TbnpUWVJmZGpFR1NwcnZXa0Fkeko4R0hOeFR0QQ?oc=5
 
 - India shine at Glasgow Commonwealth Games with historic Judo golds - News On AIR
   India's Judo team won three gold medals
   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1dEMlBrd0ZaNTd5MTNJazBwWktYSTVKZFNTYWcxUU5DdzJFZFJSc01jZjNEcTNJZUkxeTlKM3NjZWtfN05pZHRUeFZSOWw2VThYYzhHU09oNXlzYnJOX3FoTnE5MzdTd3ZWMHN3RHVNTFRPeUpjYWp3UG5hZXV2bjlnT0tXa1JSVXhaWGwxN3JfWktINHNv?oc=5
 
-- India’s monsoon rains in danger as UN chief warns planet is ‘on fire’ - The Guardian
-  India’s monsoon rains in danger as UN chief
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1JQODlyR2l4b3F3aG1ZZTEtUHd1bGktZDNfeTNyUEZlMTY3cUhMakVMZ3YzQ29udUVtTEhpS2J4NXNRUE94RHVfZUVtSDZOekRuSDZtdnlfQ2RYQ3MtYVc3azVBNGVwOTFHbElRT0xERDN0RFdFRGdWYjhfTDFKbG15Y21DNng3SW1udi1sblV3dllQeEYzbTFhTUxVSHczNG1DblQzTFVRTTQ?oc=5
+- "I Am Just 15, Forgive Me": Girl Booked For Abusing PM Modi At Protest Apologises - NDTV
+  "I Am Just 15, Forgive Me": Girl Booked
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS3pYUjZkc1JlZ1hzOHc4Mmt4ZzVpUXFzaVlZZDdvSVN1ZzlmWVBQTUlRMlJ5YWNPTTFiYlF3dHNHVnhXTHY5b2ZYT2NlcDhEbUo4UlVqX2xzZVFOS0JCbEVWUS1sYk9sbUxTVmZIdFFjQ2tPdUZnN0Utb2NEVnB5NkdiNWVyS2hWZnJvdjRadkJkM0Z5eGRwSzlVNV9WcEtta3VySXc2STE1N090M2pPcUZmbWl2ZHFYV0xVM3c1bzNoYlUyMUcya1hYSjlackxva3pyX0x2NHZYWFVk0gHkAUFVX3lxTFAydE9kMWQtTk1aSnFHWVBuM1BpRl9Tdlhvb193bU13TmJmUm5tOVJOaHk2ZncwUGQ4LWl0YlNDUy0ycHNDYkNqcXNqRE1yZEduejJvNk9rb2JwWnJHWXRtRnQzT1ZGa0I4bFozYjVaSFFJMENUNURBQjQzN090UE9NQjJ2Rlpfd0x5amtGSVI3dzNlaFAtZ3hmZXlob0EzYUxqTEdHZXVSSzNWZjlENW8xblp6VEdDb096ejJnMGh6MHNSNUlFczQtRjNrYUt2cG9NZGNkQS1fUXN1NEwxcm1oZE9YVw?oc=5
 
-- 'Want To Forgive Them': PM Modi On Students Who Abused Him at Jantar Mantar - ndtv.com
-  'Want To Forgive Them': PM Modi On Students Who
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpnUkRGYUh3ZndzdEVFaUhIS1RUWF9tbHZBYTFWVm4xOWVUVTdudzE5M3lXRDR2QjJydEJBTUoxRTd5Vm50SU9tbmpsOEg2bElBTVFyNUd5eHVhb1pXd3UyQi1UUGpnMG1NY2U0N1NqOV9pdXZ5dHpDQWNRMkkzc18wQThNb1REYTJENF9TRnlrRXRlTUc4dmdhekpMWnVYNVpLN000d2psN0hRV3d0UkJlME9tQzBaRXkw0gHDAUFVX3lxTFB3ZnJfd2dFRzVBVUd0NzlwWWNiVzJRVnEzbEFOeE9DWjJjNFUxYnBnN2x5eExobUU5VXNhQUZtQlBxa3JQVF92cGpJdWJiYjZfY2FPVFViRkJVcjhkd29BT2JaVVRsbmxOTVlKYnlySHo2M1F0UlJlNXp6U3hsZEcteERHM0E1Q1hYVUJyMkRNWlZrQVFTZnl2YlRmYzh2aG5jdDY0VDdjUE5STFFNaEcxaXh3WXlFZG5PV0hsOTdqYUdxaw?oc=5
+- India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts - BBC
+  India's 'cockroach' protesters have wounds
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeW52TFVRU0UyV0ZBeEEtdEVXNTlsaERGYXdBQW80cnlTQWZuT3o4RmtzLXhGd1QxcVVZYTkxNk9NZWo5YkprRFNicjdIUG8tdHgyc21PbkE5Zw?oc=5
 
-- PM Modi forgives students amid abusive video row: 'Let's guide the misguided' | India News - Hindustan Times
-  PM Modi forgives students amid abusive video row: 'Let's guide
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPckVjZHZEOVBrVi1YeG50VTlrUVV2Z29uNUJUX1hMcmNlR0RNeUZVUUROci1TUFZrb0d4QjlrclliZ0ZhcWRrUV8yd3Q5eG8xX3pNa0kxTnhOUmdkd1NqSXIyY2I2ZXhrUlJUdjcxVk01TmlWWFpIMDNZQjVaQktfU0EwSWl3X3R4V1M4MUE0YmFtUGZZVk9TWW0xM1FtTnlzcE5yRjhzN1JhRGxuZDBoZVc0ejBOSW9Hc1p2NndDbGJVZ2M0SlZLb253QThaclJLRzVXS2lfaTlJLXlWTzZoVEFQSXkxeEVnVEtMbHdlNEU0ampi0gH6AUFVX3lxTE1CYU9YY0o3cE52NG1veHA0ZU5mdF84dDh4NVBheXA3ZjlUXy1EVnNfc05XUnVkSGt6UnlQd2VJS3VXZ1B3T2FSR2huSUFQNEF6ZUlKWEI5SnFqOVJ1MlJsSWVrQTFEZWFqYkRfZW82VlVkT0U0OGUxdVMzaXF5bTU5Wnh3OW1JYm9fbEZpTHI5a0VHVlZ3V1JwY09abktQSTBwWjNibHFxckQ2LUpQRldwYnI1QUpxUHc2b2hxZzF3WEwzZzBRY3U5NlVYZjlic0FoX0NLM3g5WGtwSHVXclFRSHR3Qko5ZW91WVA0UzU2Zkt4ZGdCdGF5WHc?oc=5
+- 'Abuses never solve anything': PM Modi posts late night video amid row over Noida woman's remarks - The Times of India
+  'Abuses never solve anything': PM Modi posts late night video amid row over No
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd3V0WWdwdU5ELUM2M2Vnb04tMXV6TkJUc2lnaWhFWVlfek9oWUV3VlRiOWhuOTJGdGtEUkZvZ1lia1gtVmVyc2FrV1BBQTBodHFNd2xIVFBxaF9CUUNiWFNjcVpKVGZUZUhLZGpHTm5xTjlfWi00VngwenYwRGJHTl9UZ2x5eGhrT29MZU1NcmpnUUxEeG42VjRKb2RDUDd1LWVWcUMzZHQyZDlZT21kc3c4WWs5bm5uQjV1R1gwRUNPT1JnaDBEWVhyMmczWHdHWDlSQTBNZnhjSElxeVQzUXF3c1JOVGk1ZnVCRmNjYTVLeG_SAfgBQVVfeXFMT2E5NEJnLW1hWW15QWFvOEF2S2JjYzRqeDRkTXdnRlA4cVZMYnhJZF9NdmZnaWt5b3liaEtsN3lBOHZDc0VvUkdQNWQ2WHJWQTg3MElFQ1E5eTQzaHlHczNGY01vTUw5UzFyRUVLTHVZZVFSUW83UFltaDFPV1pDUk1vdXJnNThiMEtNcWtnanJuZEN5X0VzM1RMbDRLS1dfNjBVSHIzd0V3R2NWQjZwTGJ6UHVIbDg5QVcwOHVEU3ZWWlZfLVQta1BjcEkyOFVCMElaVGZ6ZjdPaU9GT0tTNGh5OFZCdktzWVYycWNqUXFNWmJlZVZKVXo?oc=5
 
-- Rajya Sabha Passes Anti-Paper Leak Law As PM Modi Vows Zero Tolerance Against Exam Mafias - The Times of India
-  Rajya Sabha Passes Anti-Paper Leak Law As PM Modi V
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc0o1VzVWWm9tcDNveHhzVW5wWHowNTVidG1pdldHVHhzRVpuVE55cU1vZWVVenJ6S3dMTUVCYXZYeU1qeWtrUlhKTzBHanBraFRhSGhlWVlfNEd5SlpJYnZGb2ZDMGN5bDhsWWJuV0R3ZEFncDlWMmc0bG8ta0Q3OGczNTk0SS1pcERwSk84c1VhYWRscVc0WDJzOTd3R1N3NW1uNmdMNHY0X3QzS0Y0RExBYU41dFdUblZRd2FnbWgxOHloR1hVUktwamhDMjRTTnNuRWNfQWRPSnZNdFBFWmJ2aW1RV2ZTWEdZX19SaUpua2fSAfgBQVVfeXFMTUt3X1duaTlWclBkZ1ZKVl9lQnItZFlQNjJPamgxU2pqMTJPQ2ZlNkF5YkNpMTA2VS1FR2xYU0RnNDVkaEhWeGJNbE91OFRFRGdqZWdnaFBxRHB1MEdpWnZZZUpsR21Lbno3SFhCdzczTndDT1FLWU9pTFlGczdTUXZLZ0RnLWU1Y3hLaUFrOURCbTVrckg2TTdzYVNwdUFqc3BvUXBZNnBNb3JIUFRybDN2MzhvdmRnQkFiT09Ec2Juekx0YzVkN1ptZkFoa2UxbFhMeG05ZlZNbEJqU2w2RFNCcUtidGpOZ2V2U1c3YUt0UUg1OVVPMXQ?oc=5
+- Trinidad restaurateur Carveann David undergoes rare heart procedure in India - The Economic Times
+  Trinidad restaurateur Carveann David undergo
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSlp1NFhnWDlLM1Frcl9PX21ZV3JybHdCUTVxbk1jMHlRdC1ydDRWamthdXBaRnE5cmFySFc1cFhCT1kzVDJEbEZBa29mNHh4MWNJUjQ2bG82Yy1QUTRaZUFFS2Zmd0NaVDNKbmIycVJyQmFLSWc4V1FsX1h1WW5RWHpXMVVhN1VhSGZoYllkTWZlaUI0SFJHREEtbS1kUGd1cHlEdXdpWWhiSVBzMXF2b3lfaHdXdExUb2k5aXJJN0R2NFlkalFWdnVzRUpwQXZvUnlpYmRuVExSWWlabk93cldRMk9LOFpsU3o2V0NjV2lDZzVObVpzWE94MkVxZnBmRXVjUlBoWXp1T05MVGhIdm5Mb3ZVNTZBcFAxU3NMeDlEaUp4blZNeGtnQ1RsdmFoVURyWm9fT3FUeTR4VVpWSWFB0gHeAUFVX3lxTE1jZ3p3aDZxS1VJbmhrbWg0a3lacU5tUF9CYy10MTBLSUU5Ujd6MjR4dzd6MDE0UDV5ZXZ1R3FESGdiZHJ6QjNzZWswanprcThLV0tNUEl1T1FvVzBCMGhFMWJqQVRCOWlLWjRYYi13YVRCZmk1dlZIUEtxQ2p3TEtlbFI3dkVjSzdQX04wT0N0OFI0NWY4a29HQk1iSVFrTWI5X01oOGlyTjVLUjlZYnZfaENuQW5hcjdoQ1VjUDF2bG1TbnpUWVJmZGpFR1NwcnZXa0Fkeko4R0hOeFR0QQ?oc=5
 
 - India shine at Glasgow Commonwealth Games with historic Judo golds - News On AIR
   India's Judo team won three gold medals
   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1dEMlBrd0ZaNTd5MTNJazBwWktYSTVKZFNTYWcxUU5DdzJFZFJSc01jZjNEcTNJZUkxeTlKM3NjZWtfN05pZHRUeFZSOWw2VThYYzhHU09oNXlzYnJOX3FoTnE5MzdTd3ZWMHN3RHVNTFRPeUpjYWp3UG5hZXV2bjlnT0tXa1JSVXhaWGwxN3JfWktINHNv?oc=5
-
-- India’s monsoon rains in danger as UN chief warns planet is ‘on fire’ - The Guardian
-  India’s monsoon rains in danger as UN chief
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1JQODlyR2l4b3F3aG1ZZTEtUHd1bGktZDNfeTNyUEZlMTY3cUhMakVMZ3YzQ29udUVtTEhpS2J4NXNRUE94RHVfZUVtSDZOekRuSDZtdnlfQ2RYQ3MtYVc3azVBNGVwOTFHbElRT0xERDN0RFdFRGdWYjhfTDFKbG15Y21DNng3SW1udi1sblV3dllQeEYzbTFhTUxVSHczNG1DblQzTFVRTTQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -220,13 +240,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Modi, Burnham discuss trade, technology, Hormuz over phone - thehindu.com
+  Modi, Burnham discuss
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQbG1TcmQtWjFLNG9NdjRZazFNNGZST1E5c2M2dHh5Z0JHcHFuZ3UtQ2V4NG5oVDF3bWFlN1dNTVFIZFZlSF9iVm9jempfajZWQW12akVURkxxeVM0a1hSdTJsSGZlTmtLTTZKcER0c3M3MnJ2R0ZUME1nb204eXNRbDkxNFV2cmktdjJYU0hubnkzT1R0d3BONjl1cVVudUxlVjk1SGZWVXdNaW1DMERV0gG2AUFVX3lxTFBPMGlVZUpqV016TVRFM1BNam9FX3JyTlQ5RHIxYUJJSnF5TG9MVC1KUFFqS205dC1iOGZJX2cwZHZrVWNYTkUxLXN4NnZuWjlEdXVQNUxBQl9yX3JneDFRbDFKTEVSR2dPSmZjOFZNUFM0blgxQ0JudmY2am1uWDUxWDFRT29WWW1EaDRsY3lYVVE0QXFXVXdBWVZfbXlUZGNIbkFYZDFjdGg3QjVMVTMzdWhIdU13?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- The New Architecture of Consumption: How Technology Is Reshaping Consumer Behaviour - orfonline.org
+  The New Architecture of Consumption: How Technology Is
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUNpWFhBRUlKWVI3UmJnWFl4WjB2UnJtNFY0Mkp0eW1JSUhlLUtJVXFGY3Y1b19EWDFuQXdES0N5azlZaXFNQnRhckhlUWlFR2pKRzVVZlA5Z1JOcFRFZEN6ZkN5UVYtbnI3bDdDTW5vaGVvQ2dzVlotang1dVRUQTM3YTVTZEp3NkUxSzh0MXNOZWc1NWtJMjZMSU5RUWFMVnBUY1RLWFpjM1B3V2pMX3J6LWRrV00w?oc=5
+
+- Industrial-style technology museum set to be built in Bengaluru - Dezeen
+  Industrial-style technology museum set
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWozRm9Ha3NiUzFDSEYxX182Mnl1ZEhpQjVPNWpMVzdBTmExOWxVUC1pS2V6S1hSX1dSbVJqd29hU0tFVGxqT3R2NW56c2paSVcxR1RsdEVHakNZYUpLZFd5bHhES3dJbVdxU1kya2Yza2poOXR3bTN2bV85NUJNdUxmeV9HanR2?oc=5
+
+- Latin America is becoming a laboratory for tech-supremacism - Al Jazeera
+  Latin America is becoming a laboratory for
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1ZZTldJOVlwa05YdUpxbE9fUWh3VEVPR3V1OTEtZVJVMlRRVUhXeTRlM1lsR0ppX2lTWEJRLWJIRGd4b0t2TDJrazY3U2E5Q0lJbS1sZFJLcVN4N00wMHc3YXhwakdRS2hUWG9rcWpzX21zODNBUUE5WTFoQjJjcUN0T0xmNGdycVpOdlZzUlRkZjJ6ZlFsY2JZNnRqajZIZE1LTDRfSdIBrAFBVV95cUxQdnc4cUpDN1JfWjA0Qk9EZURaaGpKXzlSdHlKVTZqNHVwSW96akpMMXBHX3pqS2ZKZ29GU3F6NHlzbVlRQ0RDZlZTeUJ4WlkzV21Ta0pOT01Pdmg3dEpnQ3dnZ2ppTG5mUlV4Sm9meUFnLUZ5XzZXVXpFSmx5NmFTdUxCc3BSaEJzdko4eUFJVUMzQklTT2ttU1ZuMENJUlZ4UDNhazZLMFl3dk0t?oc=5
+
+- Financial market technology moves into focus - J.P. Morgan
+  J.P. Morgan
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdk9Wa1V4bHhpNU9kSnB5TkxobloyLWRDY19ULTBYcEZRWUgyQlI0Vk1ET0E1LUh4ejRwLTRRTDZsYVBUVU1BTWhSQ2VYRnlOSTJ1bURlT2dzLTFYRkNoakFpdlF0Ml9FRkRvVWlEVkVQd2hteV8wWHhtdFl0WGlsWi16SmJkZXpfVmVybHNhYUZVV1JZWk5LVkdTUGFONnpTbEl3cU0xTjRqUQ?oc=5
 
 
-_Last updated: 2026-08-01 02:17:57 UTC_
+_Last updated: 2026-08-01 08:15:52 UTC_
