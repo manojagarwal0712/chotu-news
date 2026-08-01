@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- India news Live Updates,1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
-  India news Live Updates,1 August 2026 | Kulgam terror attack: Chhattisgarh CM
+- India’s Modi says he forgives students who abused him in Cockroach protests - Al Jazeera
+  India’s Modi says he forgives students who
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9BeVJrT2Q2YnB4OU1mR0ZNd1AySFRkTUNXcWdBcHJJZHVMU0ZoSllOVnNtNnNnbklzQlJqeldTNmt2WHRPMjBSeEJTaGVXa0lqWmx2MFRCcl9HR1NNWEZNU3JESGFqV1NDNGJxOUtXQTBwRnNiMkl4bFg0QWxYRHgybG0xVTRLdURFODBpd0g5LUVkRjBPRGRTVXlNblM1RWsxUlMwNUx4a3czclg2ekFtb23SAboBQVVfeXFMTjlMUjc5Z1J6SmE3Ym5KeGVBU0hjSmFKa1h4M1YtdVQ3aE13cmNySFRFVWRXb3p5ZGdaYTd0Q013MXhkeU1NYWd4RnY1eWQwajdObUh6VHkyV21ZOG9uazlqOUNobmFCYjAzRUxkaUpHQzA5emYxTUVvZHM4VTc2Z2hWZWdDeEZ2YVhzSHpUSjJfRHladC1fbW41Z3VOSXd4RXFwUWZ5Z2tQbG1NaDR3WkVxWDFfN1ROMTJB?oc=5
+
+- PM Modi Inaugurates Rs 5,000 Crore Bhogapuram Airport In Andhra Pradesh - NDTV
+  PM Modi Inaugurates Rs 5,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1JNQzhRSUNtTVZjVjhGbTFIYXk4LXNBZDRUMHEtSkZOa2NFNlZLVjJ2N2hIOEVhYXUyaERuQXhhdDFVM0xBVzc3aVYyT3lNMWhjQ04xai13cERaY1JObzR0cWY1ZUxtb2R4dHZqU0ZMVzdKSmNOTndDSUtMcENJeVhPb0FyYm1BZjRyXzZOVUt5N09zaFRvd0JSNm12bnU3dDNQNFNaZ1dVeW9vaHpDNlJR0gG6AUFVX3lxTE5OOHpTRm1HRkxTamxHcHhZOUZzTzRZc05LSU4zcEQyb3I1eXdRNW4xRG1lR09PUkxDZDNFWlBNVTlzNFNBZ2ZnOWc4dXBITFl5S2ZVWExJZ0o0Zy15RkloVnlDN0lKYVczRVo2Q2Z3a2dTY2lzQTdSYThHRUdYVkJFc1BnSlZtODlQUkNyOWQ5ZmNSYUZzWUdZa3lDcmhDckVSMjQxdEZzTjdEMEVOQmRRVkhpX0xkUU92Zw?oc=5
+
+- 'Airports were earlier named after one family': PM Modi inaugurates Andhra's Bhogapuram airport - The Times of India
+  'Airports were earlier named after one family': PM Modi inaugur
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTY5SnpFRnlLaHItVGM4M2JhQnJLUTFlU3hlbV9IQXVPMFBMUmUwRy12U0VKMEEydlN1ZUV6R29MUHgxS0tlRHFhZTY3VzJzNDFid0ljWk9CcWMzckFYVHloNUJFR0tfT2MxZHJlSU5GOE5sTHpPX2dnQVNOX2d3SE1Xa3hqMk9nYnNnSUd0NzBtdTBxZkhTb2FkOXhLV01CYVhRRG80UzBMWFVKQWIxbW42a2JuaXFHQU9xMy15MFRoTDNma0RndzBtSjVtOEl5ejZYc9IB2gFBVV95cUxPRlpTdzhHa1BtU29EakRDN3Ztc3dwc1Uyd0ltcmlWenhJRVpWanNIU3k0YkN3WFdHeXNGMldrbVBKZXRpdEExaGpjaktOSWpHZVMtU1ozR25oYUV2NGdHU2dvd0FBeGk1U0dlZ2czRVJ4bFBRTVdSTmU1eVJQbU1STVNpUDFGb2d0dTQwZVFUaURsbEkwQ0liZEtkOWhEb1RxR3RyUnJ3WWFVanYtTUJPTzVzN0xxUGFvLUJwdVdvRTlTLThQa2JlSG81eTk0UmszSE4xNW1oOGNyUQ?oc=5
+
+- India news Highlights, 1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
+  The Indian Express published a story on Kulgam terror attack on 1 August 2026. Chhattisgar
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbEJuWGV6V2t6Tl95d3NaQUNlZG1pTjZRa2VpQ3pjNmNBeV8yTVMyUUVfcy02UlJoamxOanpfV3dLekxjM3hCV0RxSkxnd0UxNDhWaG44TnllSjR4STAyZVlYYm9JaUk5eEIxeW1uTlhfRUVFalUyLVI4Tlp2cWU4SFNHaFhwdEw1MFVIeHlZMnJmNmVMbS0zcUtNY3lZbndMVnE0ckJyS2ZZd2dfOVgwQm92UDV0TWxRWXlTcDhQZlhZb0hsbUMwLUdBNDgxd3BsV25hODhPZGMzbDBYNXV4LXA4OE5DWENRRURmRTZnclJBUWRTY2lZcNIB_wFBVV95cUxQZVliN2VXU29KQmZMdF9yREM1QUd1M3VFck83QmdYRDFMdjZjWFUyLUNueUgzdXA0cnNNRXlhT1EwSzZfcXNOcVJuWlVwOGU4V1hKVmJEZmFmZldWdDZsd1Q3eGdEMTN4b011YXhuZHFiRFB2cDc1ZERoZzMyNFllZVJDeW4zYm4xWXFPaEtsWjQ4cU1lQk1SeHYxdlVISTIxNlhCcWQzcEc4Z0tPbVQxQkI5dF9FRUNKT1NHRjN6ZFRrRGVYMi1wdW52X3dNZnZhU0huRlctV05BVW5yaXdrajQtekY5Y1hEeG9xR0VycHMyTUVYaEtValR2cFBSN3M?oc=5
 
-- India at Commonwealth Games 2026: Live updates from Glasgow on August 1, Saturday - espn.in
-  India to compete in Commonwealth Games 2026 in Glasgow.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQY1Y2VTFab3hqTmdjM081aERNQ3NaWVpCaG5ZcmlhdVB3U29jVHZFRklfS1ZJajNvckMzbkQxNW1JTUs3c0xFSERGcFBOejhOVzFvZ3ZFakJzRkdQamU2a2EyaF83eE9PTHdhTzI0NlhHWUs3TDNvYUJiRG9rTnJKeWE3ODctc1ZTd0JWME5OQUFaQTRWYWNvMDExNXJWaHZZWG1nczctV0V4MWlRV091LTJqTFZoTG5QcUJ2cmNkbXNlenA5LWp1R0N1Qmw2RVhVdHliNlVRSERGYUg5YU5maUZEZ25QMzF3d2hnYnYzTWNEVVdZamxodjQ4ZnUwRjItUml1RUFnc3B2WmI0?oc=5
+- J&K Launches Massive Op To Hunt Terrorists Who Killed 2 Migrant Workers - NDTV
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2YwdmVJNEt5UEJlUk9VUW1UeUpCT3NWNjlOMjZKb09sTzQxVEItdWdkZmd0SF8yUmN3Y3BOOVlaV2VJcS0tbTBwN1hJNms5ajQ2NlNHRGgxWWxubmxCMG9FV2hhcUl4eTBoXzNMUU9mLThqT2s4YUEya0RzOFdqTTA1WHJXZUZtOVE0bjkyQ3M5cW5OdjJQYWZwV3RqbFdZcU50UlNkdk9QNzBSYzdVVE530gG6AUFVX3lxTE9vdERpcnVsTXNub19PSHBqdVVvM1Fab3NYdzY1SVIyRHNnYzNXb1FUN2Y4SWl0NjZvZG45czNraDhtMmxXRTB1NXB1c2QyMWIyZmc1ajNxUmRRMmcwZjJFSVUtT2tlUm5hS1JjdVRmZzFHUC02alJTSGoycnhHdWh3YVZLOVNXRnY2ZUJGVGxqMXJEVlFoODdiWEFjUG1qRk5vSjl1SmVKTDlKQkF6NjJ2cThEX2pZRnpXQQ?oc=5
 
-- Commonwealth Games 2026 Day 10 Live: Gold and Silver for Soman Rana, Shubham Juyal in para shot put; Jaismine, Preeti strike boxing gold - The Times of India
-  Commonwealth Games 2026 Day 10 Live: Gold and Silver for Soman Rana, Shubham Juyal
-  🔗 https://news.google.com/rss/articles/CBMiwwJBVV95cUxORlVjTUN1eU5KUzh6YkFjQUh0RVBxM1VESG9EU0NkWlJZVnU5QjhCTlppanNTNEs4UXpoODF6WTJFLWFWY3hCV0hmb1o1R0VYMXdPUFd6cEtIQ2lzTUJRRkVWZFM3a0EzTXlORHVKcUxpNnNaUEZJX0V3SjdITHk5TjVSM1VsSHYwVlR6cnJwUExQVmFLU0dsa21PQ1J5Z2t2Tk9VU3A1S3c3M3RvbGlCX1U4SjVGUHNuQTkydmNFYXVzYkU0TGJGRDhVOE1GZkQxbGNqSGdqWjAzTWNVQmxhQlI2MklReGVUeUdlenhmeXZ4dEdlcWtvd3Y1NW9sekQxWHhJUFpQNUFENVlfa2ZRWEFHc01naWFEZ041TTJaRF9RTVB3RUVJdUFoRFlkM1RMNzZGTFVsMjcwN1Z3UWtZa1VXd9IByAJBVV95cUxOYlZ1WFNzMF9CLXVuTVBXVEtQMU1FX1Z4TUdVY2dXajVyVmlCN2dmS052TGRhRUNjb196RV91a1VFY0gzWUY5aGNObkFpVXBOTFVDR2FIc1lDbmRmb1RwaU52NWZ4SFZ6aXFXcDQ5U0dKRENzdzU0eElzcjkzVklVWHFEd1d0aURKWTM0RDN2X3V6OHhUanZWODdZdE42UGJFZlZNTDI4eTZXTTVGckJFVE5uNEk0R0xOOTFwOVFkNkVfblZLQTUwMzhDNWxtVkI1SzUtcS1yQ2pJX0xUeUw0eHY2czN0S3MxUGt0aW1oRWFja0tpank1SzREeG9XbTdoN3QycXVjU2NhdERsaVlHVWVGTkpLd2hlNnEtR09yQV8xNUpOMEVMTkhLUjZid3ExQVJyYkUxOHM5LTlCUUpEQnNmUE9hZ0RU?oc=5
+- China’s tech advances are causing chaos from Silicon Valley to the White House - The Guardian
+  China’s tech advances are causing chaos from Silicon Valley
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMm1teVpFOHI1eTA5NG51UWVZb3ZVaUtkQTJRM2R0cTFETzR6OTZsLW9TZWhfSWc5SU1xem9GREczSGI3Sk1wZDJBQTA2bTBINnNPdzd1ZG9tSzZaM1ZfQ1dsOW9NakEyc1JHbWFZRGtGekxleGpsMjVqNmIxMF9fMU9xNXFDMEp3UVZZ?oc=5
 
-- Commonwealth Games 2026 live, August 1: Follow India’s results, scores and updates from Day 9 - olympics.com
-  Commonwealth Games 2026 live, August 1: Follow India�
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVlxUnRtTXByRVRnbmczN01fQzhoemdScHVGZF9weWJ4WTFEQTFWZkdaMGZKMDJRZ1k0UzZMSHZMWTU3YkxFV08tMVp0SlR1cG9zdzBUV0o3ZS1GYUF3V2ptZ0Nsd0czRFpOQUphWDZudFpjc0N2UjJ3RjBDdnAzY2VvOHFRRXZjS3otOVlwZTMwamlFVHJvX0pVblBienh4MXVRRjJlQ0cyT3M?oc=5
-
-- Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval - NDTV
-  Ajit Doval is the director of the National Security
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEdvaDNLLWc3R0h4Nll5bGh2Qy00M2xpTTFFSGJwTUNhMGVqWXBmX282YVBuU3dkVnE4NjV5Y3FEbGs4dWVDUDRaU2FjcUUxcXkwN1lNLWI0ZXFYVExVSW1Qc2pzeENLem5FSEtGYlA5M2hSZ2tSVGlzRzQtcXkyOUNEVE5UOHRGLTQ4UHBnSk1VbmRyWGdRNUxLZV9hNzBYT2ZObXN2LTFSaWFVOGU40gG3AUFVX3lxTFB6OWY2bkw4YjhjUGFNM1g0d1AtTWVRSTd5blJDSXRiQkU5RmctSGJZS3lqT25OSGtkUXEwZERkMl9ubHllQlpwaXhZVHhxWkZKUFFWRi1XVGpBa3QzRmRXTjBVQjBZV0phMHljeXljX2xnRHQ1OFBkTDlWaW83eXFFRmczbGlMRk1pVWxSUDVRaVp4UjMzNVRwOWVQZUZuWl9kYjNIaFNKV0dlVXdSWWprajJNLVNmTQ?oc=5
-
-- India, Rwanda identify critical minerals, healthcare, digital technologies as priority areas for trade coope.. - ETGovernment.com
-  India, Rwanda identify critical minerals, healthcare, digital technologies as
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQNmtrUHNjcHhQZUtJU2M5WlhSbzgzMGt0b2tpSmJ4S2FCQmNicHFZeC1LS0YwbnRCWEFZWTRZN2t6bDZvZkRNSDRXdlUwMFlrelBKLXAzVDFRNEtULVhpY09rcUZvS0loQ282cG5kTnVvTF9lTktMRWpDc0Rua01oVmxoakx6TEZWc2o5WGM1M0J0OXlkRG5KTlp5THBBbDJqTDVTSWlVS2tRZlZFQ2JfckY4ZlFxUVBlWEt0d0hybGFKZG5qRVpFSUllZjlybk9ZQ1NOcjBDYmZSTXF5czhvMldJbnlLdW5CQmt3QXRaRU0tbTZESmVvSThESjVyNlV5bkdvYjZ2d2pPQ1hwRHpz0gGUAkFVX3lxTFBwRS0xbFdTOTRHTndxTXhVWUlBMXVsNWhudWxCaUFxNm5JSlo2cmlma2txc0UxZThCam1PUWU4TkhGZnpJV21hRFZGVWttUTlld1Q0ajBNRmc5b3NvT3lRYlFjYmd1NkVQRkJCZHJGOGptaUlMZm1fRVZ6aXBqZGVieTlTVnNzSFRtQVhaSW9DNVhWc3E5Q3AwWG4wWWQ4Rm1TUmFNOG9yaGRrUFJTbE9sWTRDWHZQZDZ4bkVYLVg2R3hpcVhzbmtESFpLN292UlNMdUJsaXZzbVMxalFJWXBnV2o2Y2JjLXVfbW9YVk5LVmIyVVdxRW1aLTVkdGFKRURLa29tTHI4X3NmUXRiTklzQXZWUQ?oc=5
-
-- Young IFS officers must combine technology with human sensitivity to tackle climate crisis: Bhupender Yadav - The New Indian Express
-  Young IFS officers must combine technology with human sensitivity to tackle climate crisis, says
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEVhQkJubnd2SXB5cG1aRzhwTUdsWDczQnJjeGhMeDU3RjFDb05CSVZFWFZoWVNybFRTX3E1NXFWam1XVXpBMDZuc1dVQUtJdDVQYVR5MC1vdVA2ay1HdFVQNnJSY2FQTzdibHJHQWxpS2dsLWhKOElraFptQmJ1cVRMcjhSR2JfZVZLcHhJNUJkcnpXOVYycUhtdXJocDBmUlZFWlo5dFZUUTRyeWxwQnNyZ0xQR2lFRVBoOGpqTnBaU0tDamlIUEt1cDBKcnl6Ml9vMzVsLVFFVGJ6U2xtR0p3N3pIeUFXV2JxZmJ30gH7AUFVX3lxTE9NM0pFeENtMTdXSFJMLTQ2LVdFX0ZNWFA4aUJNVVFRM3VyQVJFOFloRVR1eTdpazhhWFROVjJuUm1WeUpXcGZSenMwU1g2c3pZeVFoSDV3c0d3T3JMbkxWUUVKVFU3UHdBSWM3N1Y5aFRxRExuTWF0a2RfMHBYRDk4blNKWFpZLTBUVVMweGJRXzYzU29mel9UWEVKSFlwOHNCY3g4TzRjOHBRQWdXWEYxSXE5VkJxaXQxOXI1MDJGNkE0bHVMME5EQ2F4c1F0anVPMldFTjl2Q2xqZGRQSGpPbDQtLVdFQTlzdWVsQWVBaVZETUZsMjROYi00?oc=5
-
-- Modi, Burnham discuss trade, technology, Hormuz over phone - The Hindu
-  Modi, Burnham discuss trade
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQbG1TcmQtWjFLNG9NdjRZazFNNGZST1E5c2M2dHh5Z0JHcHFuZ3UtQ2V4NG5oVDF3bWFlN1dNTVFIZFZlSF9iVm9jempfajZWQW12akVURkxxeVM0a1hSdTJsSGZlTmtLTTZKcER0c3M3MnJ2R0ZUME1nb204eXNRbDkxNFV2cmktdjJYU0hubnkzT1R0d3BONjl1cVVudUxlVjk1SGZWVXdNaW1DMERV0gG2AUFVX3lxTFBPMGlVZUpqV016TVRFM1BNam9FX3JyTlQ5RHIxYUJJSnF5TG9MVC1KUFFqS205dC1iOGZJX2cwZHZrVWNYTkUxLXN4NnZuWjlEdXVQNUxBQl9yX3JneDFRbDFKTEVSR2dPSmZjOFZNUFM0blgxQ0JudmY2am1uWDUxWDFRT29WWW1EaDRsY3lYVVE0QXFXVXdBWVZfbXlUZGNIbkFYZDFjdGg3QjVMVTMzdWhIdU13?oc=5
-
-- Reckitt, ASCI Launch SAFER Challenge To Develop Affordable Technology For Sanitation Worker Safety - swachhindia.ndtv.com
+- Reckitt, ASCI Launch SAFER Challenge To Develop Affordable Technology For Sanitation Worker Safety - NDTV
   Reckitt, ASCI Launch SAFER Challenge To
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2F1emliUGhTQVdSZWpzWnZ2ZzdHMVZ1Z1hKYTRxMzUzVkEzbU05N3JJZF9Hby02N1RNdDE2WHhfcFR5QWRDZm5qd1lTTHpXN2tVVUtlNHoyVUY3OWlrWXpoaThYOEtibGFCX3JVbnN0eGZabEQxV2JqeWhnZGdETGctdEF6dXdhUlpZZUtZV2MyZ3pSUTk2U0xsSm1abXVOVGRoX2ZaTklodGlIQWVwbEhRWWdKdkdlZzhOZnJaNzgxbVJfaW1jTzROX1hNQdIB0wFBVV95cUxQNEFfZEQtSFJFN3Y5SGtXbDMxVFY2amZIaWRWLUtnUXN1ZFo4SmRRQU5hTlkyUzRKSVRvSXNaTFVMU3R1MnYzWnFUMHdHdVJUX1FPaUFUcklhUXdobi1oRy15X29yazlnNzE1X3J6ckZRb1VCQnJzV0R3OFV2VWRLVFdZUHN5QmtYQU9ObkczejFZNkR2WlFnNWJkcmhFLTJvLTVxV0UyRmdBdTIxVnJySFdDQmNCZGU1VUI3MDc3RFlkN0oyTmw5bzFfaGZWMWp4NF9z?oc=5
 
-- Kidney in a box: Advancements in transplant technology allows for quicker recovery - Edmonton - globalnews.ca
-  "Kidney in a box: Advancements in transplant technology
+- Google Just Ruined One of Its Most Important Tools - The Atlantic
+  The Atlantic is a popular online magazine.
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0JHbHoyZ3lLQ25yaHBsT0taRDM0V011bHdwYjc4aEdjYmZCdElONDlSdGRDTGk1OVlmbnBiTW5BdFdVOTRORE1KQkdOOTNWdXJJRXZVQmdlQ2RKZGk3dkNweGdlQ2pRM0xrV0hoOWRRQzZBbnc2SFlxMFMyMEVmQVpPVQ?oc=5
+
+- Kidney in a box: Advancements in transplant technology allows for quicker recovery - Edmonton - Global News
+  "Kidney in a box: Advancements in transplant technology allows
   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNUks3bF8xYl9QYVdZdkpDcWJfam9iNm9vZE5VN3R4M2dUQXViTEYybks5RFlNLWx0cF9QaU1CN3VjY0JpZVpsaGZlck4xYU5RMmFEanJ1MEI0VzJiaTNlM0JoOGZFS25qTnQ4bkZQdFpNSDFDeU9WOUphTWJRUXRmd1B2dnJfSTJuZ045QnMyZHVGS2R4R3k4?oc=5
+
+- Winners Announced for Essay Contest on Peaceful Use of Nuclear Energy and Related Technologies - MyGov Blog
+  Winners Announced for Essay Contest on Peaceful Use of
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEhrSWdudzlWUnFsTWtpYXZWbU43TzdqandzQTl4ZEpFN2t2ZjZzbkpzNUlNQlFxTDR1ZkM3aF9QZ3Z3RUhfZ0RuVlZnR2g0WWdPOTBCQUhUSWtXOGp1OUdIQ1F5ODRIZDhvQTQ4U0FwSzlVZ0ptZnVpWC1yaE1VZDctcWdYYWROOWVOTldDQjhqc3JEOFRYVF9vNlJpbkZxZzU0OTBseS03RmpGbE1MUWZac0V1Y01C?oc=5
+
+- Amazon pockets  ₹5,250 crore after Trump tariff ruling, plans automatic refunds for eligible customer
+  Amazon received  ₹5,724 crore in tariff refunds after the Supreme
+  🔗 https://www.livemint.com/companies/news/amazon-gets-5-250-crore-tariff-refund-says-eligible-customers-will-receive-automatic-refunds-11785593358210.html
 
 - Alibaba co-founder Joseph Tsai, wife Clara Wu Tsai to divorce after 30 years: Report
   Joseph and Clara's relationship evolved into more of a partnership, a spokesperson said. The couple is now raising their children
@@ -56,29 +60,25 @@
   Amazon sued by consumers
   🔗 https://www.livemint.com/companies/amazon-sued-by-consumers-over-seafood-sustainability-claims-11785524702683.html
 
-- Blackstone Mortgage REIT Shares Dive Most Since Early Pandemic
-  Shares of a Blackstone Inc.’s commercial mortgage trust posted their biggest two-day plunge
-  🔗 https://www.livemint.com/companies/blackstone-mortgage-reit-shares-dive-most-since-early-pandemic-11785524516275.html
+- Microsoft, Amazon and Alphabet earnings reveal the next challenge in the AI race: ‘It isn't only chips now…’
+  Big Tech's latest earnings indicate robust demand for AI infrastructure. Microsoft,
+  🔗 https://www.livemint.com/market/stock-market-news/microsoft-amazon-and-alphabet-earnings-reveal-the-next-challenge-in-the-ai-race-it-isnt-only-chips-now-11785601577234.html
+
+- Apple vs Nvidia: World's most valuable companies are taking opposite AI paths—but who holds the edge?
+  Apple focuses on generating cash flow, Nvidia is deeply involved in AI. Both strategies present unique
+  🔗 https://www.livemint.com/market/stock-market-news/apple-vs-nvidia-worlds-most-valuable-companies-are-taking-opposite-ai-paths-but-who-holds-the-edge-11785593508286.html
+
+- Domestic valuation, AI, geopolitics reasons for FPIs pulling out, says Motilal Oswal Financial Services' Raamdeo Agrawal
+  Raamdeo Agrawal, Chairman of Motilal Oswal Financial Services feels that the Indian equity market has lost a
+  🔗 https://www.livemint.com/market/stock-market-news/domestic-valuation-ai-geopolitical-war-reasons-fpis-leaving-india-says-motilal-oswal-financial-services-raamdeo-agrawal-11785588016142.html
+
+- 'Saviour or a vulture?' How Ken Griffin turned the Situational Awareness collapse into Citadel's latest bargain buy
+  Ken Griffin intervened to rescue distressed AI hedge fund Situational Awareness. Despite criticisms of founder Leopold Aschenbrenner's lack of experience, Griffin
+  🔗 https://www.livemint.com/market/saviour-or-a-vulture-how-ken-griffin-turned-the-situational-awareness-collapse-into-citadels-latest-bargain-buy-11785585734391.html
 
 - Short selling, margin calls and…: How Leopold Aschenbrenner’s AI hedge fund Situational Awareness lost $35 bn in a month
   Leopold Aschenbrenner, once celebrated as an AI visionary, faced significant losses as his hedge fund's
   🔗 https://www.livemint.com/market/short-selling-margin-calls-and-how-leopold-aschenbrenner-s-ai-hedge-fund-situational-awareness-lost-35-bn-in-a-month-11785579886997.html
-
-- Did Microsoft and Amazon earnings reinforce AI as the next growth engine?
-  Recent quarterly results from Microsoft and Amazon suggest AI investments are now producing significant returns. Both companies experienced strong cloud growth, with
-  🔗 https://www.livemint.com/market/stock-market-news/did-microsoft-results-and-amazon-earnings-reinforce-ai-as-the-next-growth-engine-11785579725725.html
-
-- What are the big plans of the Tata Group?
-  Tata's biggest plans for the next decade are
-  🔗 https://www.livemint.com/market/stock-market-news/tata-sons-annual-report-tata-group-stocks-tata-sons-outlook-11785569979795.html
-
-- Gold posts first monthly gain in five months despite sharp sell-off: Is the rally just getting started?
-  Despite a recent decline caused by a stronger dollar, gold remains resilient. Analysts anticipate that geopolitical tensions and economic uncertainty will support gold prices in the near
-  🔗 https://www.livemint.com/market/commodities/gold-price-outlook-gold-posts-first-monthly-gain-in-five-months-despite-sharp-sell-off-is-rally-just-getting-started-11785573969828.html
-
-- Zee share price to be in focus on Monday after Sebi bars Subhash Chandra, Punit Goenka for one year
-  ZEEL shares rose 2.85% to  ₹115.45 on July 31. Despite a recent gain of 36% over six months, the stock is down 3%
-  🔗 https://www.livemint.com/market/stock-market-news/zee-share-price-to-be-in-focus-on-monday-after-sebi-bars-subhash-chandra-punit-goenka-for-one-year-11785564737513.html
 
 - Piotr Mirowski on the promise and perils of AI in theatre
   CNN.
@@ -100,25 +100,25 @@
    upgrading to newer chip nodes will require three times the outlay of the  ₹4,500 crore pitched by the Centre. It maintains that legacy-standard chips could be
   🔗 https://www.livemint.com/technology/tech-news/scl-mohali-180nm-chips-strategically-key-dg-kamaljeet-singh-chip-node-cabinet-approval-11785481468388.html
 
-- S&P 500 closes higher Friday as Amazon surges; Dow posts fourth straight winning month: Live updates - CNBC
-  S&amp;P 500 closes higher Friday as Amazon surges; Dow
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5
+- Looking at just the odds isn’t enough. How traders gain an edge on prediction markets - CNBC
+  Looking at just the odds isn't enough. How traders gain an
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHVQQVBfaHdNbUhPSHVUT0JPcFJEYWwyWUwxUFd3Vm8wQ3NJem1faFdiVmNpOUpDdC1Db09uYzgyT3c0d0RJMnZxTjByX182bUFTSDg2MFFhYVU1UU9FcHNENEtaTS1pX182a2ZRZHowX1V5ejFITHBuV3R1cWtBbnhtWk9vemQtNUVtMm1OMFdsRm5NYXZhc3BjUFN5dW9ubDI4cUVkQnFuZ9IBrwFBVV95cUxOdE5TN041clZnaDJiNXM2eU5VVWZlQUpSbXRPUFh2MmFDT1ltRmZzU2JTQ2JJLWVCR2YxNk0xR3BwVXhpdUhHTFRlZ1Z5d2p1RDBmOWFkcVlZU1BHbzU5OGxUdmxzNFNLTVlGVl9lSHZHQVpkVDJXWVRBbHRseGVVcDhMX2EwUU9HSHZ4YWE0NEpuTU5oX0NGOExSX2pqakd3ZFZYRWhLRlZHLW1JczVF?oc=5
 
-- Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday - Investopedia
-  The Dow Jones Industrial Average made big gains in July. The S&amp;P
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3pteHotdWlId0lTQVlZdFluN1dBMkVHUGJkZUZsR0xHS1ZjLV90X1NjSnUzT0lsekt0WEZsbDJHRXVQRmh0R21KWkdQU3ZDRWNvWDJpdjcwUW5lVXV0akNsMm5OdFBLa056bmZsd2lOTGxDeHBkRXZFOWEyWnV6WFo1RGl0QU9XZVFtUXlPNGY?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq rise to cap volatile July as Big Tech AI spending ramps up - Yahoo Finance
-  Stock market today: Dow, S&amp;P 500, Nasdaq rise to cap
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUNJOEJab054ZTc0M0J6WXlJcTlEVS1XNDJJSG5HX0lFUVNneVZ2ZWlPZ2FGa3Z4R3VDY29nZ1Y1U1B4WWpJekV5OW1uM00wcnR1R01pUUd5MHQzcG02dF9FSzBnVVpYZFVFaFpublBLVnVfRm4wQ2VXLXNQOWFxeTZ6Q210cmJjQmk5VVlXaF9ZcXd5dmZLdFBHdGZ6Q3YxR0R4ajZWbHg?oc=5
-
-- Humbling times for markets - Financial Times
-  The Financial Times
+- Humbling times for markets - ft.com
+  
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWdzUHM3M3NlQlhvNVFub2FWN0pJRnBSeWV5cGlUY21SMHRXTGRaS2I5ZlVSdjJteUdvdU1rU0RpTzFWRWhhMWZnNDBtMzJkMk95a19peUJUVElfWDNlYzFKUFNNcGNJZjhoT3dlUXB2cWt4VUtJaFRIcElPZjJSX0FycGM?oc=5
 
-- The market’s big AI doubts are exposing the riskiest players - CNN
-  The market’s big AI doubts
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUN5MkpWcGhDZ0N1cUhmRVNDd2FLc1lnN1lRVllTUGVHTUNBM0NsQVNYNjZzdHdmX1JUdll5SmVYNlVTdnJ2ckNHSEtpSHNoX0VsLWJvWUxuakhmaGlIMFVrMWRjc0c0T2hmTmRJbVlaRVlGS1FxZXVvN2RXYWxqWUFvMVU?oc=5
+- US Treasury intervenes to support yen after Japan steps in, FT reports - Reuters
+  US Treasury intervenes to support yen after Japan steps
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0lVZ3FOWEp0MkVGaWc4UkprSmVwZlZMSzBQRlBuQ3UzOEVuN09za080MDFQTHFfOVFGU1hsOUF3THBnbGc0Tk4zdi1sR0xBdHhJV3FiOTNmaEZkbWNWQ0VMRjROZXJUQ1VwX1BrS3NvdWRDYThPSWVhdnhZUmxHWHNsVEFRYTZFXy1CeTJVdW13SVpqcl9wdTBoRjdINnV6R0tEcTI3Qnpjc3RpLWxQOVVB?oc=5
+
+- SEBI clarifies off-market sale of unlisted shares to up to 200 buyers not a public issue - The Hindu
+  SEBI clarifies off-market sale of unlisted shares to up to
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPczdHVTdLa012NW1XQkI2YzZhRG5HbVpPQmlEdnJ2NkFSMlpSOERxc2ZzUkhUamhCdGZkSmtSU19MNmxPMmROWnRXRG1DVW5TUG9CNm90ZGw5MTJyOGpDV3paSnltUGg2Q0xKaFpxYUtxWmNfTS1TdmJQTVE0dTRVX1FEQWR3eU1KYjJOSGRYRGtCU2dkM0V5RFdSaVZmbnUxSUU5cGpORFlieTZ0SXRmc2hhMmRJY0M4bU5FbUNKLWszS2l1Y3NTN1A4QjV1Tkt0eFB6a1c1Z1VzTEg0NmFXb1JFUDnSAesBQVVfeXFMUGpHeGUwUGdkLW9UTEt1Wm5fTUNjc3NZbThGUVozOVFBWDdMbG1IY1FMSjJCaHVqZXhtZFNrWkVmbkFLdnZNUERZS2o4di1zYVl2eEtaa3RWeXhySlAxYUVCd0M0ZW4yQXppR1gzWWdfcWJGQWtZaTdZcFdxcmhTTmM0V0FSRFJwSTdsMjRHcVcwLW5ULWk1T0xGVE5PQmJHY21POEV4R2VvTUxkbENoZ3hnVDBUbG0ydmlWNFNoNGNRZWQ0ZjJLVHNNckw0aVdBV1Q1N2I0VjF0T2UzbTl4LUJhT210ZGhvMFJyZw?oc=5
+
+- India among best markets globally: Cook - The Times of India
+  India among best markets globally: Cook
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2dPcDhiS1BYazdaNnpDVGhOQzY0OUUzbEJsTGFuY1JaTU1PWU1jVXBPdkU2SmNhUGdhVVRpamxRdF9yVzVzdkJYMDFraWZ6UkJYS2NSX1JWRjdfXy11SC1OVWlfY2w3TEFlSVFza3RscnpOSlVZM21DUVByUmx2Y3VIZUVkMmVKMWd0R2pITnZwVzREMUJuVi1tc3h6MDUxeDU0MGFNdmNYZERkNTgwdEdjWnptY2tVbjZPZE1pZVpMUdIBxwFBVV95cUxQMHNyVmREbFAxV3dsaEpQN18wSnYtdFBZeTVrWTRHa25pSGtWYnV0NjREcmZVQjRGZVlHX2Jjb1pJMFZWRmFITm54enQ3WlF5andVMXpJRVpyN05XU1ptamd3V0pDWFlVMjZ4SEdHNUlkS2wxQkFzUmNXaUx4M2FyTUg3a1MwckpEQ2VGa0g1cFd4YlB6cU9MR0JERW9yM0VzRlpYaDVvcTA2T1BlTjlHeGM5QUdlVjlOZ3hmZzFNTklOUXFIVmhJ?oc=5
 
 - Silver Storm Parks &amp; Resorts Limited successfully concludes IPO
   Silver Storm is expanding its attractions with a new cable car and forest village. Future plans include new snow parks in Lucknow and other destinations.
@@ -140,25 +140,37 @@
    Musk’s wealth peaked at around $1.33 trillion on June 16, when SpaceX shares soared to a lifetime closing high of nearly $202 apiece. However, as the shares crashed, Musk's net wealth dropped to $684
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/elon-musk-loses-nearly-half-of-his-wealth-as-spacex-shares-crash-46-more-downside-ahead/articleshow/132785517.cms
 
-- India news Live Updates,1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
-  India news Live Updates,1 August 2026 | Kulgam terror attack: Chhattisgarh CM
+- India’s Modi says he forgives students who abused him in Cockroach protests - Al Jazeera
+  India’s Modi says he forgives students who
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9BeVJrT2Q2YnB4OU1mR0ZNd1AySFRkTUNXcWdBcHJJZHVMU0ZoSllOVnNtNnNnbklzQlJqeldTNmt2WHRPMjBSeEJTaGVXa0lqWmx2MFRCcl9HR1NNWEZNU3JESGFqV1NDNGJxOUtXQTBwRnNiMkl4bFg0QWxYRHgybG0xVTRLdURFODBpd0g5LUVkRjBPRGRTVXlNblM1RWsxUlMwNUx4a3czclg2ekFtb23SAboBQVVfeXFMTjlMUjc5Z1J6SmE3Ym5KeGVBU0hjSmFKa1h4M1YtdVQ3aE13cmNySFRFVWRXb3p5ZGdaYTd0Q013MXhkeU1NYWd4RnY1eWQwajdObUh6VHkyV21ZOG9uazlqOUNobmFCYjAzRUxkaUpHQzA5emYxTUVvZHM4VTc2Z2hWZWdDeEZ2YVhzSHpUSjJfRHladC1fbW41Z3VOSXd4RXFwUWZ5Z2tQbG1NaDR3WkVxWDFfN1ROMTJB?oc=5
+
+- PM Modi Inaugurates Rs 5,000 Crore Bhogapuram Airport In Andhra Pradesh - NDTV
+  PM Modi Inaugurates Rs 5,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1JNQzhRSUNtTVZjVjhGbTFIYXk4LXNBZDRUMHEtSkZOa2NFNlZLVjJ2N2hIOEVhYXUyaERuQXhhdDFVM0xBVzc3aVYyT3lNMWhjQ04xai13cERaY1JObzR0cWY1ZUxtb2R4dHZqU0ZMVzdKSmNOTndDSUtMcENJeVhPb0FyYm1BZjRyXzZOVUt5N09zaFRvd0JSNm12bnU3dDNQNFNaZ1dVeW9vaHpDNlJR0gG6AUFVX3lxTE5OOHpTRm1HRkxTamxHcHhZOUZzTzRZc05LSU4zcEQyb3I1eXdRNW4xRG1lR09PUkxDZDNFWlBNVTlzNFNBZ2ZnOWc4dXBITFl5S2ZVWExJZ0o0Zy15RkloVnlDN0lKYVczRVo2Q2Z3a2dTY2lzQTdSYThHRUdYVkJFc1BnSlZtODlQUkNyOWQ5ZmNSYUZzWUdZa3lDcmhDckVSMjQxdEZzTjdEMEVOQmRRVkhpX0xkUU92Zw?oc=5
+
+- 'Airports were earlier named after one family': PM Modi inaugurates Andhra's Bhogapuram airport - The Times of India
+  'Airports were earlier named after one family': PM Modi inaugur
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTY5SnpFRnlLaHItVGM4M2JhQnJLUTFlU3hlbV9IQXVPMFBMUmUwRy12U0VKMEEydlN1ZUV6R29MUHgxS0tlRHFhZTY3VzJzNDFid0ljWk9CcWMzckFYVHloNUJFR0tfT2MxZHJlSU5GOE5sTHpPX2dnQVNOX2d3SE1Xa3hqMk9nYnNnSUd0NzBtdTBxZkhTb2FkOXhLV01CYVhRRG80UzBMWFVKQWIxbW42a2JuaXFHQU9xMy15MFRoTDNma0RndzBtSjVtOEl5ejZYc9IB2gFBVV95cUxPRlpTdzhHa1BtU29EakRDN3Ztc3dwc1Uyd0ltcmlWenhJRVpWanNIU3k0YkN3WFdHeXNGMldrbVBKZXRpdEExaGpjaktOSWpHZVMtU1ozR25oYUV2NGdHU2dvd0FBeGk1U0dlZ2czRVJ4bFBRTVdSTmU1eVJQbU1STVNpUDFGb2d0dTQwZVFUaURsbEkwQ0liZEtkOWhEb1RxR3RyUnJ3WWFVanYtTUJPTzVzN0xxUGFvLUJwdVdvRTlTLThQa2JlSG81eTk0UmszSE4xNW1oOGNyUQ?oc=5
+
+- India news Highlights, 1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
+  The Indian Express published a story on Kulgam terror attack on 1 August 2026. Chhattisgar
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbEJuWGV6V2t6Tl95d3NaQUNlZG1pTjZRa2VpQ3pjNmNBeV8yTVMyUUVfcy02UlJoamxOanpfV3dLekxjM3hCV0RxSkxnd0UxNDhWaG44TnllSjR4STAyZVlYYm9JaUk5eEIxeW1uTlhfRUVFalUyLVI4Tlp2cWU4SFNHaFhwdEw1MFVIeHlZMnJmNmVMbS0zcUtNY3lZbndMVnE0ckJyS2ZZd2dfOVgwQm92UDV0TWxRWXlTcDhQZlhZb0hsbUMwLUdBNDgxd3BsV25hODhPZGMzbDBYNXV4LXA4OE5DWENRRURmRTZnclJBUWRTY2lZcNIB_wFBVV95cUxQZVliN2VXU29KQmZMdF9yREM1QUd1M3VFck83QmdYRDFMdjZjWFUyLUNueUgzdXA0cnNNRXlhT1EwSzZfcXNOcVJuWlVwOGU4V1hKVmJEZmFmZldWdDZsd1Q3eGdEMTN4b011YXhuZHFiRFB2cDc1ZERoZzMyNFllZVJDeW4zYm4xWXFPaEtsWjQ4cU1lQk1SeHYxdlVISTIxNlhCcWQzcEc4Z0tPbVQxQkI5dF9FRUNKT1NHRjN6ZFRrRGVYMi1wdW52X3dNZnZhU0huRlctV05BVW5yaXdrajQtekY5Y1hEeG9xR0VycHMyTUVYaEtValR2cFBSN3M?oc=5
 
-- India at Commonwealth Games 2026: Live updates from Glasgow on August 1, Saturday - espn.in
-  India to compete in Commonwealth Games 2026 in Glasgow.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQY1Y2VTFab3hqTmdjM081aERNQ3NaWVpCaG5ZcmlhdVB3U29jVHZFRklfS1ZJajNvckMzbkQxNW1JTUs3c0xFSERGcFBOejhOVzFvZ3ZFakJzRkdQamU2a2EyaF83eE9PTHdhTzI0NlhHWUs3TDNvYUJiRG9rTnJKeWE3ODctc1ZTd0JWME5OQUFaQTRWYWNvMDExNXJWaHZZWG1nczctV0V4MWlRV091LTJqTFZoTG5QcUJ2cmNkbXNlenA5LWp1R0N1Qmw2RVhVdHliNlVRSERGYUg5YU5maUZEZ25QMzF3d2hnYnYzTWNEVVdZamxodjQ4ZnUwRjItUml1RUFnc3B2WmI0?oc=5
+- J&K Launches Massive Op To Hunt Terrorists Who Killed 2 Migrant Workers - NDTV
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2YwdmVJNEt5UEJlUk9VUW1UeUpCT3NWNjlOMjZKb09sTzQxVEItdWdkZmd0SF8yUmN3Y3BOOVlaV2VJcS0tbTBwN1hJNms5ajQ2NlNHRGgxWWxubmxCMG9FV2hhcUl4eTBoXzNMUU9mLThqT2s4YUEya0RzOFdqTTA1WHJXZUZtOVE0bjkyQ3M5cW5OdjJQYWZwV3RqbFdZcU50UlNkdk9QNzBSYzdVVE530gG6AUFVX3lxTE9vdERpcnVsTXNub19PSHBqdVVvM1Fab3NYdzY1SVIyRHNnYzNXb1FUN2Y4SWl0NjZvZG45czNraDhtMmxXRTB1NXB1c2QyMWIyZmc1ajNxUmRRMmcwZjJFSVUtT2tlUm5hS1JjdVRmZzFHUC02alJTSGoycnhHdWh3YVZLOVNXRnY2ZUJGVGxqMXJEVlFoODdiWEFjUG1qRk5vSjl1SmVKTDlKQkF6NjJ2cThEX2pZRnpXQQ?oc=5
 
-- Commonwealth Games 2026 Day 10 Live: Gold and Silver for Soman Rana, Shubham Juyal in para shot put; Jaismine, Preeti strike boxing gold - The Times of India
-  Commonwealth Games 2026 Day 10 Live: Gold and Silver for Soman Rana, Shubham Juyal
-  🔗 https://news.google.com/rss/articles/CBMiwwJBVV95cUxORlVjTUN1eU5KUzh6YkFjQUh0RVBxM1VESG9EU0NkWlJZVnU5QjhCTlppanNTNEs4UXpoODF6WTJFLWFWY3hCV0hmb1o1R0VYMXdPUFd6cEtIQ2lzTUJRRkVWZFM3a0EzTXlORHVKcUxpNnNaUEZJX0V3SjdITHk5TjVSM1VsSHYwVlR6cnJwUExQVmFLU0dsa21PQ1J5Z2t2Tk9VU3A1S3c3M3RvbGlCX1U4SjVGUHNuQTkydmNFYXVzYkU0TGJGRDhVOE1GZkQxbGNqSGdqWjAzTWNVQmxhQlI2MklReGVUeUdlenhmeXZ4dEdlcWtvd3Y1NW9sekQxWHhJUFpQNUFENVlfa2ZRWEFHc01naWFEZ041TTJaRF9RTVB3RUVJdUFoRFlkM1RMNzZGTFVsMjcwN1Z3UWtZa1VXd9IByAJBVV95cUxOYlZ1WFNzMF9CLXVuTVBXVEtQMU1FX1Z4TUdVY2dXajVyVmlCN2dmS052TGRhRUNjb196RV91a1VFY0gzWUY5aGNObkFpVXBOTFVDR2FIc1lDbmRmb1RwaU52NWZ4SFZ6aXFXcDQ5U0dKRENzdzU0eElzcjkzVklVWHFEd1d0aURKWTM0RDN2X3V6OHhUanZWODdZdE42UGJFZlZNTDI4eTZXTTVGckJFVE5uNEk0R0xOOTFwOVFkNkVfblZLQTUwMzhDNWxtVkI1SzUtcS1yQ2pJX0xUeUw0eHY2czN0S3MxUGt0aW1oRWFja0tpank1SzREeG9XbTdoN3QycXVjU2NhdERsaVlHVWVGTkpLd2hlNnEtR09yQV8xNUpOMEVMTkhLUjZid3ExQVJyYkUxOHM5LTlCUUpEQnNmUE9hZ0RU?oc=5
+- [Update] Zepto Confirms IPO Pause, Plans Pre-IPO Fundraise
+  Quick commerce startup Zepto officially confirmed that it has paused its IPO.
+  🔗 https://inc42.com/buzz/zepto-to-now-re-attempt-ipo-by-may-2027-report/
 
-- Commonwealth Games 2026 live, August 1: Follow India’s results, scores and updates from Day 9 - olympics.com
-  Commonwealth Games 2026 live, August 1: Follow India�
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVlxUnRtTXByRVRnbmczN01fQzhoemdScHVGZF9weWJ4WTFEQTFWZkdaMGZKMDJRZ1k0UzZMSHZMWTU3YkxFV08tMVp0SlR1cG9zdzBUV0o3ZS1GYUF3V2ptZ0Nsd0czRFpOQUphWDZudFpjc0N2UjJ3RjBDdnAzY2VvOHFRRXZjS3otOVlwZTMwamlFVHJvX0pVblBienh4MXVRRjJlQ0cyT3M?oc=5
+- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
+  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
+  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
 
-- Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval - NDTV
-  Ajit Doval is the director of the National Security
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEdvaDNLLWc3R0h4Nll5bGh2Qy00M2xpTTFFSGJwTUNhMGVqWXBmX282YVBuU3dkVnE4NjV5Y3FEbGs4dWVDUDRaU2FjcUUxcXkwN1lNLWI0ZXFYVExVSW1Qc2pzeENLem5FSEtGYlA5M2hSZ2tSVGlzRzQtcXkyOUNEVE5UOHRGLTQ4UHBnSk1VbmRyWGdRNUxLZV9hNzBYT2ZObXN2LTFSaWFVOGU40gG3AUFVX3lxTFB6OWY2bkw4YjhjUGFNM1g0d1AtTWVRSTd5blJDSXRiQkU5RmctSGJZS3lqT25OSGtkUXEwZERkMl9ubHllQlpwaXhZVHhxWkZKUFFWRi1XVGpBa3QzRmRXTjBVQjBZV0phMHljeXljX2xnRHQ1OFBkTDlWaW83eXFFRmczbGlMRk1pVWxSUDVRaVp4UjMzNVRwOWVQZUZuWl9kYjNIaFNKV0dlVXdSWWprajJNLVNmTQ?oc=5
+- Shadowfax Leads New-Age Tech Stocks This Week, Pine Labs Slides On Q1 Earnings
+  Shadowfax Leads New-Age Tech Stocks This Week, Pine Labs Slides On Q1 Earnings.
+  🔗 https://inc42.com/buzz/shadowfax-leads-new-age-tech-stocks-this-week-pine-labs-slides-on-q1-earnings/
 
 - FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
   The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
@@ -168,85 +180,65 @@
   UPI Transactions Rise 4% MoM To 23.7 Bn In July.
   🔗 https://inc42.com/buzz/upi-transactions-rise-4-mom-to-23-7-bn-in-july/
 
-- Bharat Mandot Of Stelcore Group On The Hidden Costs Of Taking Indian Brands Global
-  Bharat Mandot of Stelcore Group on The Hidden Costs Of Taking Indian Brands Global. What&#8217;s driving the next phase of India’s export story? It�
-  🔗 https://inc42.com/features/bharat-mandot-of-stelcore-group-on-the-hidden-costs-of-taking-indian-brands-global/
+- India’s Modi says he forgives students who abused him in Cockroach protests - Al Jazeera
+  India’s Modi says he forgives students who
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9BeVJrT2Q2YnB4OU1mR0ZNd1AySFRkTUNXcWdBcHJJZHVMU0ZoSllOVnNtNnNnbklzQlJqeldTNmt2WHRPMjBSeEJTaGVXa0lqWmx2MFRCcl9HR1NNWEZNU3JESGFqV1NDNGJxOUtXQTBwRnNiMkl4bFg0QWxYRHgybG0xVTRLdURFODBpd0g5LUVkRjBPRGRTVXlNblM1RWsxUlMwNUx4a3czclg2ekFtb23SAboBQVVfeXFMTjlMUjc5Z1J6SmE3Ym5KeGVBU0hjSmFKa1h4M1YtdVQ3aE13cmNySFRFVWRXb3p5ZGdaYTd0Q013MXhkeU1NYWd4RnY1eWQwajdObUh6VHkyV21ZOG9uazlqOUNobmFCYjAzRUxkaUpHQzA5emYxTUVvZHM4VTc2Z2hWZWdDeEZ2YVhzSHpUSjJfRHladC1fbW41Z3VOSXd4RXFwUWZ5Z2tQbG1NaDR3WkVxWDFfN1ROMTJB?oc=5
 
-- From Freehand To Sid’s Farms — Indian Startups Raised $142 Mn This Week
-  Indian startup funding cooled in the final week of July. Between July 27 and 31, Indian startups cumulatively raised about $8230 million.
-  🔗 https://inc42.com/buzz/from-freehand-to-sids-farms-indian-startups-raised-142-mn-this-week/
+- PM Modi Inaugurates Rs 5,000 Crore Bhogapuram Airport In Andhra Pradesh - NDTV
+  PM Modi Inaugurates Rs 5,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1JNQzhRSUNtTVZjVjhGbTFIYXk4LXNBZDRUMHEtSkZOa2NFNlZLVjJ2N2hIOEVhYXUyaERuQXhhdDFVM0xBVzc3aVYyT3lNMWhjQ04xai13cERaY1JObzR0cWY1ZUxtb2R4dHZqU0ZMVzdKSmNOTndDSUtMcENJeVhPb0FyYm1BZjRyXzZOVUt5N09zaFRvd0JSNm12bnU3dDNQNFNaZ1dVeW9vaHpDNlJR0gG6AUFVX3lxTE5OOHpTRm1HRkxTamxHcHhZOUZzTzRZc05LSU4zcEQyb3I1eXdRNW4xRG1lR09PUkxDZDNFWlBNVTlzNFNBZ2ZnOWc4dXBITFl5S2ZVWExJZ0o0Zy15RkloVnlDN0lKYVczRVo2Q2Z3a2dTY2lzQTdSYThHRUdYVkJFc1BnSlZtODlQUkNyOWQ5ZmNSYUZzWUdZa3lDcmhDckVSMjQxdEZzTjdEMEVOQmRRVkhpX0xkUU92Zw?oc=5
 
-- Kissht’s Next Growth Play: Better Borrowers, Lower Costs & Loan Against Property
-   NBFC Kissht is entering its ‘quality over quantity’ phase, as it looks to build a more sustainable lending.
-  🔗 https://inc42.com/features/kisshts-next-growth-play-better-borrowers-lower-costs-loan-against-property/
+- 'Airports were earlier named after one family': PM Modi inaugurates Andhra's Bhogapuram airport - The Times of India
+  'Airports were earlier named after one family': PM Modi inaugur
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTY5SnpFRnlLaHItVGM4M2JhQnJLUTFlU3hlbV9IQXVPMFBMUmUwRy12U0VKMEEydlN1ZUV6R29MUHgxS0tlRHFhZTY3VzJzNDFid0ljWk9CcWMzckFYVHloNUJFR0tfT2MxZHJlSU5GOE5sTHpPX2dnQVNOX2d3SE1Xa3hqMk9nYnNnSUd0NzBtdTBxZkhTb2FkOXhLV01CYVhRRG80UzBMWFVKQWIxbW42a2JuaXFHQU9xMy15MFRoTDNma0RndzBtSjVtOEl5ejZYc9IB2gFBVV95cUxPRlpTdzhHa1BtU29EakRDN3Ztc3dwc1Uyd0ltcmlWenhJRVpWanNIU3k0YkN3WFdHeXNGMldrbVBKZXRpdEExaGpjaktOSWpHZVMtU1ozR25oYUV2NGdHU2dvd0FBeGk1U0dlZ2czRVJ4bFBRTVdSTmU1eVJQbU1STVNpUDFGb2d0dTQwZVFUaURsbEkwQ0liZEtkOWhEb1RxR3RyUnJ3WWFVanYtTUJPTzVzN0xxUGFvLUJwdVdvRTlTLThQa2JlSG81eTk0UmszSE4xNW1oOGNyUQ?oc=5
 
-- India news Live Updates,1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
-  India news Live Updates,1 August 2026 | Kulgam terror attack: Chhattisgarh CM
+- India news Highlights, 1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
+  The Indian Express published a story on Kulgam terror attack on 1 August 2026. Chhattisgar
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbEJuWGV6V2t6Tl95d3NaQUNlZG1pTjZRa2VpQ3pjNmNBeV8yTVMyUUVfcy02UlJoamxOanpfV3dLekxjM3hCV0RxSkxnd0UxNDhWaG44TnllSjR4STAyZVlYYm9JaUk5eEIxeW1uTlhfRUVFalUyLVI4Tlp2cWU4SFNHaFhwdEw1MFVIeHlZMnJmNmVMbS0zcUtNY3lZbndMVnE0ckJyS2ZZd2dfOVgwQm92UDV0TWxRWXlTcDhQZlhZb0hsbUMwLUdBNDgxd3BsV25hODhPZGMzbDBYNXV4LXA4OE5DWENRRURmRTZnclJBUWRTY2lZcNIB_wFBVV95cUxQZVliN2VXU29KQmZMdF9yREM1QUd1M3VFck83QmdYRDFMdjZjWFUyLUNueUgzdXA0cnNNRXlhT1EwSzZfcXNOcVJuWlVwOGU4V1hKVmJEZmFmZldWdDZsd1Q3eGdEMTN4b011YXhuZHFiRFB2cDc1ZERoZzMyNFllZVJDeW4zYm4xWXFPaEtsWjQ4cU1lQk1SeHYxdlVISTIxNlhCcWQzcEc4Z0tPbVQxQkI5dF9FRUNKT1NHRjN6ZFRrRGVYMi1wdW52X3dNZnZhU0huRlctV05BVW5yaXdrajQtekY5Y1hEeG9xR0VycHMyTUVYaEtValR2cFBSN3M?oc=5
 
-- India at Commonwealth Games 2026: Live updates from Glasgow on August 1, Saturday - espn.in
-  India to compete in Commonwealth Games 2026 in Glasgow.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQY1Y2VTFab3hqTmdjM081aERNQ3NaWVpCaG5ZcmlhdVB3U29jVHZFRklfS1ZJajNvckMzbkQxNW1JTUs3c0xFSERGcFBOejhOVzFvZ3ZFakJzRkdQamU2a2EyaF83eE9PTHdhTzI0NlhHWUs3TDNvYUJiRG9rTnJKeWE3ODctc1ZTd0JWME5OQUFaQTRWYWNvMDExNXJWaHZZWG1nczctV0V4MWlRV091LTJqTFZoTG5QcUJ2cmNkbXNlenA5LWp1R0N1Qmw2RVhVdHliNlVRSERGYUg5YU5maUZEZ25QMzF3d2hnYnYzTWNEVVdZamxodjQ4ZnUwRjItUml1RUFnc3B2WmI0?oc=5
+- J&K Launches Massive Op To Hunt Terrorists Who Killed 2 Migrant Workers - NDTV
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2YwdmVJNEt5UEJlUk9VUW1UeUpCT3NWNjlOMjZKb09sTzQxVEItdWdkZmd0SF8yUmN3Y3BOOVlaV2VJcS0tbTBwN1hJNms5ajQ2NlNHRGgxWWxubmxCMG9FV2hhcUl4eTBoXzNMUU9mLThqT2s4YUEya0RzOFdqTTA1WHJXZUZtOVE0bjkyQ3M5cW5OdjJQYWZwV3RqbFdZcU50UlNkdk9QNzBSYzdVVE530gG6AUFVX3lxTE9vdERpcnVsTXNub19PSHBqdVVvM1Fab3NYdzY1SVIyRHNnYzNXb1FUN2Y4SWl0NjZvZG45czNraDhtMmxXRTB1NXB1c2QyMWIyZmc1ajNxUmRRMmcwZjJFSVUtT2tlUm5hS1JjdVRmZzFHUC02alJTSGoycnhHdWh3YVZLOVNXRnY2ZUJGVGxqMXJEVlFoODdiWEFjUG1qRk5vSjl1SmVKTDlKQkF6NjJ2cThEX2pZRnpXQQ?oc=5
 
-- Commonwealth Games 2026 Day 10 Live: Gold and Silver for Soman Rana, Shubham Juyal in para shot put; Jaismine, Preeti strike boxing gold - The Times of India
-  Commonwealth Games 2026 Day 10 Live: Gold and Silver for Soman Rana, Shubham Juyal
-  🔗 https://news.google.com/rss/articles/CBMiwwJBVV95cUxORlVjTUN1eU5KUzh6YkFjQUh0RVBxM1VESG9EU0NkWlJZVnU5QjhCTlppanNTNEs4UXpoODF6WTJFLWFWY3hCV0hmb1o1R0VYMXdPUFd6cEtIQ2lzTUJRRkVWZFM3a0EzTXlORHVKcUxpNnNaUEZJX0V3SjdITHk5TjVSM1VsSHYwVlR6cnJwUExQVmFLU0dsa21PQ1J5Z2t2Tk9VU3A1S3c3M3RvbGlCX1U4SjVGUHNuQTkydmNFYXVzYkU0TGJGRDhVOE1GZkQxbGNqSGdqWjAzTWNVQmxhQlI2MklReGVUeUdlenhmeXZ4dEdlcWtvd3Y1NW9sekQxWHhJUFpQNUFENVlfa2ZRWEFHc01naWFEZ041TTJaRF9RTVB3RUVJdUFoRFlkM1RMNzZGTFVsMjcwN1Z3UWtZa1VXd9IByAJBVV95cUxOYlZ1WFNzMF9CLXVuTVBXVEtQMU1FX1Z4TUdVY2dXajVyVmlCN2dmS052TGRhRUNjb196RV91a1VFY0gzWUY5aGNObkFpVXBOTFVDR2FIc1lDbmRmb1RwaU52NWZ4SFZ6aXFXcDQ5U0dKRENzdzU0eElzcjkzVklVWHFEd1d0aURKWTM0RDN2X3V6OHhUanZWODdZdE42UGJFZlZNTDI4eTZXTTVGckJFVE5uNEk0R0xOOTFwOVFkNkVfblZLQTUwMzhDNWxtVkI1SzUtcS1yQ2pJX0xUeUw0eHY2czN0S3MxUGt0aW1oRWFja0tpank1SzREeG9XbTdoN3QycXVjU2NhdERsaVlHVWVGTkpLd2hlNnEtR09yQV8xNUpOMEVMTkhLUjZid3ExQVJyYkUxOHM5LTlCUUpEQnNmUE9hZ0RU?oc=5
+- India’s Modi says he forgives students who abused him in Cockroach protests - Al Jazeera
+  India’s Modi says he forgives students who
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9BeVJrT2Q2YnB4OU1mR0ZNd1AySFRkTUNXcWdBcHJJZHVMU0ZoSllOVnNtNnNnbklzQlJqeldTNmt2WHRPMjBSeEJTaGVXa0lqWmx2MFRCcl9HR1NNWEZNU3JESGFqV1NDNGJxOUtXQTBwRnNiMkl4bFg0QWxYRHgybG0xVTRLdURFODBpd0g5LUVkRjBPRGRTVXlNblM1RWsxUlMwNUx4a3czclg2ekFtb23SAboBQVVfeXFMTjlMUjc5Z1J6SmE3Ym5KeGVBU0hjSmFKa1h4M1YtdVQ3aE13cmNySFRFVWRXb3p5ZGdaYTd0Q013MXhkeU1NYWd4RnY1eWQwajdObUh6VHkyV21ZOG9uazlqOUNobmFCYjAzRUxkaUpHQzA5emYxTUVvZHM4VTc2Z2hWZWdDeEZ2YVhzSHpUSjJfRHladC1fbW41Z3VOSXd4RXFwUWZ5Z2tQbG1NaDR3WkVxWDFfN1ROMTJB?oc=5
 
-- Commonwealth Games 2026 live, August 1: Follow India’s results, scores and updates from Day 9 - olympics.com
-  Commonwealth Games 2026 live, August 1: Follow India�
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVlxUnRtTXByRVRnbmczN01fQzhoemdScHVGZF9weWJ4WTFEQTFWZkdaMGZKMDJRZ1k0UzZMSHZMWTU3YkxFV08tMVp0SlR1cG9zdzBUV0o3ZS1GYUF3V2ptZ0Nsd0czRFpOQUphWDZudFpjc0N2UjJ3RjBDdnAzY2VvOHFRRXZjS3otOVlwZTMwamlFVHJvX0pVblBienh4MXVRRjJlQ0cyT3M?oc=5
+- PM Modi Inaugurates Rs 5,000 Crore Bhogapuram Airport In Andhra Pradesh - NDTV
+  PM Modi Inaugurates Rs 5,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1JNQzhRSUNtTVZjVjhGbTFIYXk4LXNBZDRUMHEtSkZOa2NFNlZLVjJ2N2hIOEVhYXUyaERuQXhhdDFVM0xBVzc3aVYyT3lNMWhjQ04xai13cERaY1JObzR0cWY1ZUxtb2R4dHZqU0ZMVzdKSmNOTndDSUtMcENJeVhPb0FyYm1BZjRyXzZOVUt5N09zaFRvd0JSNm12bnU3dDNQNFNaZ1dVeW9vaHpDNlJR0gG6AUFVX3lxTE5OOHpTRm1HRkxTamxHcHhZOUZzTzRZc05LSU4zcEQyb3I1eXdRNW4xRG1lR09PUkxDZDNFWlBNVTlzNFNBZ2ZnOWc4dXBITFl5S2ZVWExJZ0o0Zy15RkloVnlDN0lKYVczRVo2Q2Z3a2dTY2lzQTdSYThHRUdYVkJFc1BnSlZtODlQUkNyOWQ5ZmNSYUZzWUdZa3lDcmhDckVSMjQxdEZzTjdEMEVOQmRRVkhpX0xkUU92Zw?oc=5
 
-- Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval - NDTV
-  Ajit Doval is the director of the National Security
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEdvaDNLLWc3R0h4Nll5bGh2Qy00M2xpTTFFSGJwTUNhMGVqWXBmX282YVBuU3dkVnE4NjV5Y3FEbGs4dWVDUDRaU2FjcUUxcXkwN1lNLWI0ZXFYVExVSW1Qc2pzeENLem5FSEtGYlA5M2hSZ2tSVGlzRzQtcXkyOUNEVE5UOHRGLTQ4UHBnSk1VbmRyWGdRNUxLZV9hNzBYT2ZObXN2LTFSaWFVOGU40gG3AUFVX3lxTFB6OWY2bkw4YjhjUGFNM1g0d1AtTWVRSTd5blJDSXRiQkU5RmctSGJZS3lqT25OSGtkUXEwZERkMl9ubHllQlpwaXhZVHhxWkZKUFFWRi1XVGpBa3QzRmRXTjBVQjBZV0phMHljeXljX2xnRHQ1OFBkTDlWaW83eXFFRmczbGlMRk1pVWxSUDVRaVp4UjMzNVRwOWVQZUZuWl9kYjNIaFNKV0dlVXdSWWprajJNLVNmTQ?oc=5
+- 'Airports were earlier named after one family': PM Modi inaugurates Andhra's Bhogapuram airport - The Times of India
+  'Airports were earlier named after one family': PM Modi inaugur
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTY5SnpFRnlLaHItVGM4M2JhQnJLUTFlU3hlbV9IQXVPMFBMUmUwRy12U0VKMEEydlN1ZUV6R29MUHgxS0tlRHFhZTY3VzJzNDFid0ljWk9CcWMzckFYVHloNUJFR0tfT2MxZHJlSU5GOE5sTHpPX2dnQVNOX2d3SE1Xa3hqMk9nYnNnSUd0NzBtdTBxZkhTb2FkOXhLV01CYVhRRG80UzBMWFVKQWIxbW42a2JuaXFHQU9xMy15MFRoTDNma0RndzBtSjVtOEl5ejZYc9IB2gFBVV95cUxPRlpTdzhHa1BtU29EakRDN3Ztc3dwc1Uyd0ltcmlWenhJRVpWanNIU3k0YkN3WFdHeXNGMldrbVBKZXRpdEExaGpjaktOSWpHZVMtU1ozR25oYUV2NGdHU2dvd0FBeGk1U0dlZ2czRVJ4bFBRTVdSTmU1eVJQbU1STVNpUDFGb2d0dTQwZVFUaURsbEkwQ0liZEtkOWhEb1RxR3RyUnJ3WWFVanYtTUJPTzVzN0xxUGFvLUJwdVdvRTlTLThQa2JlSG81eTk0UmszSE4xNW1oOGNyUQ?oc=5
 
-- India news Live Updates,1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
-  India news Live Updates,1 August 2026 | Kulgam terror attack: Chhattisgarh CM
+- India news Highlights, 1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
+  The Indian Express published a story on Kulgam terror attack on 1 August 2026. Chhattisgar
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbEJuWGV6V2t6Tl95d3NaQUNlZG1pTjZRa2VpQ3pjNmNBeV8yTVMyUUVfcy02UlJoamxOanpfV3dLekxjM3hCV0RxSkxnd0UxNDhWaG44TnllSjR4STAyZVlYYm9JaUk5eEIxeW1uTlhfRUVFalUyLVI4Tlp2cWU4SFNHaFhwdEw1MFVIeHlZMnJmNmVMbS0zcUtNY3lZbndMVnE0ckJyS2ZZd2dfOVgwQm92UDV0TWxRWXlTcDhQZlhZb0hsbUMwLUdBNDgxd3BsV25hODhPZGMzbDBYNXV4LXA4OE5DWENRRURmRTZnclJBUWRTY2lZcNIB_wFBVV95cUxQZVliN2VXU29KQmZMdF9yREM1QUd1M3VFck83QmdYRDFMdjZjWFUyLUNueUgzdXA0cnNNRXlhT1EwSzZfcXNOcVJuWlVwOGU4V1hKVmJEZmFmZldWdDZsd1Q3eGdEMTN4b011YXhuZHFiRFB2cDc1ZERoZzMyNFllZVJDeW4zYm4xWXFPaEtsWjQ4cU1lQk1SeHYxdlVISTIxNlhCcWQzcEc4Z0tPbVQxQkI5dF9FRUNKT1NHRjN6ZFRrRGVYMi1wdW52X3dNZnZhU0huRlctV05BVW5yaXdrajQtekY5Y1hEeG9xR0VycHMyTUVYaEtValR2cFBSN3M?oc=5
 
-- India at Commonwealth Games 2026: Live updates from Glasgow on August 1, Saturday - espn.in
-  India to compete in Commonwealth Games 2026 in Glasgow.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQY1Y2VTFab3hqTmdjM081aERNQ3NaWVpCaG5ZcmlhdVB3U29jVHZFRklfS1ZJajNvckMzbkQxNW1JTUs3c0xFSERGcFBOejhOVzFvZ3ZFakJzRkdQamU2a2EyaF83eE9PTHdhTzI0NlhHWUs3TDNvYUJiRG9rTnJKeWE3ODctc1ZTd0JWME5OQUFaQTRWYWNvMDExNXJWaHZZWG1nczctV0V4MWlRV091LTJqTFZoTG5QcUJ2cmNkbXNlenA5LWp1R0N1Qmw2RVhVdHliNlVRSERGYUg5YU5maUZEZ25QMzF3d2hnYnYzTWNEVVdZamxodjQ4ZnUwRjItUml1RUFnc3B2WmI0?oc=5
+- J&K Launches Massive Op To Hunt Terrorists Who Killed 2 Migrant Workers - NDTV
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2YwdmVJNEt5UEJlUk9VUW1UeUpCT3NWNjlOMjZKb09sTzQxVEItdWdkZmd0SF8yUmN3Y3BOOVlaV2VJcS0tbTBwN1hJNms5ajQ2NlNHRGgxWWxubmxCMG9FV2hhcUl4eTBoXzNMUU9mLThqT2s4YUEya0RzOFdqTTA1WHJXZUZtOVE0bjkyQ3M5cW5OdjJQYWZwV3RqbFdZcU50UlNkdk9QNzBSYzdVVE530gG6AUFVX3lxTE9vdERpcnVsTXNub19PSHBqdVVvM1Fab3NYdzY1SVIyRHNnYzNXb1FUN2Y4SWl0NjZvZG45czNraDhtMmxXRTB1NXB1c2QyMWIyZmc1ajNxUmRRMmcwZjJFSVUtT2tlUm5hS1JjdVRmZzFHUC02alJTSGoycnhHdWh3YVZLOVNXRnY2ZUJGVGxqMXJEVlFoODdiWEFjUG1qRk5vSjl1SmVKTDlKQkF6NjJ2cThEX2pZRnpXQQ?oc=5
 
-- Commonwealth Games 2026 Day 10 Live: Gold and Silver for Soman Rana, Shubham Juyal in para shot put; Jaismine, Preeti strike boxing gold - The Times of India
-  Commonwealth Games 2026 Day 10 Live: Gold and Silver for Soman Rana, Shubham Juyal
-  🔗 https://news.google.com/rss/articles/CBMiwwJBVV95cUxORlVjTUN1eU5KUzh6YkFjQUh0RVBxM1VESG9EU0NkWlJZVnU5QjhCTlppanNTNEs4UXpoODF6WTJFLWFWY3hCV0hmb1o1R0VYMXdPUFd6cEtIQ2lzTUJRRkVWZFM3a0EzTXlORHVKcUxpNnNaUEZJX0V3SjdITHk5TjVSM1VsSHYwVlR6cnJwUExQVmFLU0dsa21PQ1J5Z2t2Tk9VU3A1S3c3M3RvbGlCX1U4SjVGUHNuQTkydmNFYXVzYkU0TGJGRDhVOE1GZkQxbGNqSGdqWjAzTWNVQmxhQlI2MklReGVUeUdlenhmeXZ4dEdlcWtvd3Y1NW9sekQxWHhJUFpQNUFENVlfa2ZRWEFHc01naWFEZ041TTJaRF9RTVB3RUVJdUFoRFlkM1RMNzZGTFVsMjcwN1Z3UWtZa1VXd9IByAJBVV95cUxOYlZ1WFNzMF9CLXVuTVBXVEtQMU1FX1Z4TUdVY2dXajVyVmlCN2dmS052TGRhRUNjb196RV91a1VFY0gzWUY5aGNObkFpVXBOTFVDR2FIc1lDbmRmb1RwaU52NWZ4SFZ6aXFXcDQ5U0dKRENzdzU0eElzcjkzVklVWHFEd1d0aURKWTM0RDN2X3V6OHhUanZWODdZdE42UGJFZlZNTDI4eTZXTTVGckJFVE5uNEk0R0xOOTFwOVFkNkVfblZLQTUwMzhDNWxtVkI1SzUtcS1yQ2pJX0xUeUw0eHY2czN0S3MxUGt0aW1oRWFja0tpank1SzREeG9XbTdoN3QycXVjU2NhdERsaVlHVWVGTkpLd2hlNnEtR09yQV8xNUpOMEVMTkhLUjZid3ExQVJyYkUxOHM5LTlCUUpEQnNmUE9hZ0RU?oc=5
+- China’s tech advances are causing chaos from Silicon Valley to the White House - The Guardian
+  China’s tech advances are causing chaos from Silicon Valley
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMm1teVpFOHI1eTA5NG51UWVZb3ZVaUtkQTJRM2R0cTFETzR6OTZsLW9TZWhfSWc5SU1xem9GREczSGI3Sk1wZDJBQTA2bTBINnNPdzd1ZG9tSzZaM1ZfQ1dsOW9NakEyc1JHbWFZRGtGekxleGpsMjVqNmIxMF9fMU9xNXFDMEp3UVZZ?oc=5
 
-- Commonwealth Games 2026 live, August 1: Follow India’s results, scores and updates from Day 9 - olympics.com
-  Commonwealth Games 2026 live, August 1: Follow India�
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVlxUnRtTXByRVRnbmczN01fQzhoemdScHVGZF9weWJ4WTFEQTFWZkdaMGZKMDJRZ1k0UzZMSHZMWTU3YkxFV08tMVp0SlR1cG9zdzBUV0o3ZS1GYUF3V2ptZ0Nsd0czRFpOQUphWDZudFpjc0N2UjJ3RjBDdnAzY2VvOHFRRXZjS3otOVlwZTMwamlFVHJvX0pVblBienh4MXVRRjJlQ0cyT3M?oc=5
+- Reckitt, ASCI Launch SAFER Challenge To Develop Affordable Technology For Sanitation Worker Safety - NDTV
+  Reckitt, ASCI Launch SAFER Challenge To
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2F1emliUGhTQVdSZWpzWnZ2ZzdHMVZ1Z1hKYTRxMzUzVkEzbU05N3JJZF9Hby02N1RNdDE2WHhfcFR5QWRDZm5qd1lTTHpXN2tVVUtlNHoyVUY3OWlrWXpoaThYOEtibGFCX3JVbnN0eGZabEQxV2JqeWhnZGdETGctdEF6dXdhUlpZZUtZV2MyZ3pSUTk2U0xsSm1abXVOVGRoX2ZaTklodGlIQWVwbEhRWWdKdkdlZzhOZnJaNzgxbVJfaW1jTzROX1hNQdIB0wFBVV95cUxQNEFfZEQtSFJFN3Y5SGtXbDMxVFY2amZIaWRWLUtnUXN1ZFo4SmRRQU5hTlkyUzRKSVRvSXNaTFVMU3R1MnYzWnFUMHdHdVJUX1FPaUFUcklhUXdobi1oRy15X29yazlnNzE1X3J6ckZRb1VCQnJzV0R3OFV2VWRLVFdZUHN5QmtYQU9ObkczejFZNkR2WlFnNWJkcmhFLTJvLTVxV0UyRmdBdTIxVnJySFdDQmNCZGU1VUI3MDc3RFlkN0oyTmw5bzFfaGZWMWp4NF9z?oc=5
 
-- Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval - NDTV
-  Ajit Doval is the director of the National Security
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEdvaDNLLWc3R0h4Nll5bGh2Qy00M2xpTTFFSGJwTUNhMGVqWXBmX282YVBuU3dkVnE4NjV5Y3FEbGs4dWVDUDRaU2FjcUUxcXkwN1lNLWI0ZXFYVExVSW1Qc2pzeENLem5FSEtGYlA5M2hSZ2tSVGlzRzQtcXkyOUNEVE5UOHRGLTQ4UHBnSk1VbmRyWGdRNUxLZV9hNzBYT2ZObXN2LTFSaWFVOGU40gG3AUFVX3lxTFB6OWY2bkw4YjhjUGFNM1g0d1AtTWVRSTd5blJDSXRiQkU5RmctSGJZS3lqT25OSGtkUXEwZERkMl9ubHllQlpwaXhZVHhxWkZKUFFWRi1XVGpBa3QzRmRXTjBVQjBZV0phMHljeXljX2xnRHQ1OFBkTDlWaW83eXFFRmczbGlMRk1pVWxSUDVRaVp4UjMzNVRwOWVQZUZuWl9kYjNIaFNKV0dlVXdSWWprajJNLVNmTQ?oc=5
+- Google Just Ruined One of Its Most Important Tools - The Atlantic
+  The Atlantic is a popular online magazine.
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0JHbHoyZ3lLQ25yaHBsT0taRDM0V011bHdwYjc4aEdjYmZCdElONDlSdGRDTGk1OVlmbnBiTW5BdFdVOTRORE1KQkdOOTNWdXJJRXZVQmdlQ2RKZGk3dkNweGdlQ2pRM0xrV0hoOWRRQzZBbnc2SFlxMFMyMEVmQVpPVQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Kidney in a box: Advancements in transplant technology allows for quicker recovery - Edmonton - Global News
+  "Kidney in a box: Advancements in transplant technology allows
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNUks3bF8xYl9QYVdZdkpDcWJfam9iNm9vZE5VN3R4M2dUQXViTEYybks5RFlNLWx0cF9QaU1CN3VjY0JpZVpsaGZlck4xYU5RMmFEanJ1MEI0VzJiaTNlM0JoOGZFS25qTnQ4bkZQdFpNSDFDeU9WOUphTWJRUXRmd1B2dnJfSTJuZ045QnMyZHVGS2R4R3k4?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Winners Announced for Essay Contest on Peaceful Use of Nuclear Energy and Related Technologies - MyGov Blog
+  Winners Announced for Essay Contest on Peaceful Use of
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEhrSWdudzlWUnFsTWtpYXZWbU43TzdqandzQTl4ZEpFN2t2ZjZzbkpzNUlNQlFxTDR1ZkM3aF9QZ3Z3RUhfZ0RuVlZnR2g0WWdPOTBCQUhUSWtXOGp1OUdIQ1F5ODRIZDhvQTQ4U0FwSzlVZ0ptZnVpWC1yaE1VZDctcWdYYWROOWVOTldDQjhqc3JEOFRYVF9vNlJpbkZxZzU0OTBseS03RmpGbE1MUWZac0V1Y01C?oc=5
 
 
-_Last updated: 2026-08-01 13:09:57 UTC_
+_Last updated: 2026-08-01 19:05:24 UTC_
