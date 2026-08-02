@@ -1,124 +1,136 @@
 # 📰 Daily News Summaries
 
-- India’s Modi says he forgives students who abused him in Cockroach protests - aljazeera.com
-  India’s Modi says he forgives students
+- India’s Modi says he forgives students who abused him in Cockroach protests - Al Jazeera
+  India’s Modi says he forgives students who
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9BeVJrT2Q2YnB4OU1mR0ZNd1AySFRkTUNXcWdBcHJJZHVMU0ZoSllOVnNtNnNnbklzQlJqeldTNmt2WHRPMjBSeEJTaGVXa0lqWmx2MFRCcl9HR1NNWEZNU3JESGFqV1NDNGJxOUtXQTBwRnNiMkl4bFg0QWxYRHgybG0xVTRLdURFODBpd0g5LUVkRjBPRGRTVXlNblM1RWsxUlMwNUx4a3czclg2ekFtb23SAboBQVVfeXFMTjlMUjc5Z1J6SmE3Ym5KeGVBU0hjSmFKa1h4M1YtdVQ3aE13cmNySFRFVWRXb3p5ZGdaYTd0Q013MXhkeU1NYWd4RnY1eWQwajdObUh6VHkyV21ZOG9uazlqOUNobmFCYjAzRUxkaUpHQzA5emYxTUVvZHM4VTc2Z2hWZWdDeEZ2YVhzSHpUSjJfRHladC1fbW41Z3VOSXd4RXFwUWZ5Z2tQbG1NaDR3WkVxWDFfN1ROMTJB?oc=5
 
-- India news Highlights, 1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
-  The Indian Express published a story on Kulgam terror attack on 1 August 2026. Chhattisgar
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbEJuWGV6V2t6Tl95d3NaQUNlZG1pTjZRa2VpQ3pjNmNBeV8yTVMyUUVfcy02UlJoamxOanpfV3dLekxjM3hCV0RxSkxnd0UxNDhWaG44TnllSjR4STAyZVlYYm9JaUk5eEIxeW1uTlhfRUVFalUyLVI4Tlp2cWU4SFNHaFhwdEw1MFVIeHlZMnJmNmVMbS0zcUtNY3lZbndMVnE0ckJyS2ZZd2dfOVgwQm92UDV0TWxRWXlTcDhQZlhZb0hsbUMwLUdBNDgxd3BsV25hODhPZGMzbDBYNXV4LXA4OE5DWENRRURmRTZnclJBUWRTY2lZcNIB_wFBVV95cUxQZVliN2VXU29KQmZMdF9yREM1QUd1M3VFck83QmdYRDFMdjZjWFUyLUNueUgzdXA0cnNNRXlhT1EwSzZfcXNOcVJuWlVwOGU4V1hKVmJEZmFmZldWdDZsd1Q3eGdEMTN4b011YXhuZHFiRFB2cDc1ZERoZzMyNFllZVJDeW4zYm4xWXFPaEtsWjQ4cU1lQk1SeHYxdlVISTIxNlhCcWQzcEc4Z0tPbVQxQkI5dF9FRUNKT1NHRjN6ZFRrRGVYMi1wdW52X3dNZnZhU0huRlctV05BVW5yaXdrajQtekY5Y1hEeG9xR0VycHMyTUVYaEtValR2cFBSN3M?oc=5
+- 'Drugs Can Give You Brief High But Make Your Entire Life Low': PM Modi At Anti-Drugs Campaign - NDTV
+  'Drugs Can Give You Brief High But Make Your Entire Life Low
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeVc0YUEtdEFpelVLMVo4aUt3WlNKd3BjTUluOVhzZi03ZHdiVVRGeUtteHdXMFBlNW9LODBMNzhpWlZFdUNVM2dCVXdNTGp4RDlmSlFSRnFVNjgxWGRGbTVvUUxyTExmYy1teTIxVXRRdlJHV1dmTDFFaTdwQlBJSGRfd3pfU211bGx0NHRCb2Y0X01uUEI5UWsyVTRnSlg4MUJydnEzRmtraG5zZDB5amZyMGxaV3lOYzVpS05xaHREWGFJZm03RGJXOEFIQmRTM2ZyVzNHWEdRYmpxc0ZpQkxLby1NWm5CUnVZ0gHzAUFVX3lxTE1tcVBnN0t2OGdZaEstYkJOMW1QVlQtc2lrQ0ZNLTNuZGRiZGJfOTk0UUMzdmRNYnJodHNoQ2lJUWRHZGhCRk5aVEszdmo0UGJWbWU0eTgwM0pKVURYNVdHTTdfcURjVGZORkdQMHBCVFY4eWx4di16b2RibTl0Ulo1YXQxdW5LMDdJYXdxLUdoaXRocmRXRWh2NjY4SHBKT01DQ3dGeWNneF8tWE5fa3hlcm1Ydy1yR2M4MHRGUGxrMElFWGhMeVp6MDFobFgtRkJ5b3MtYV84cmN6Mk43UEU2ak1QSmVHQWFUbFRXOVAtRUloMA?oc=5
 
-- 'Why Live In Dubai If You Love India': Raj Thackeray Jabs Vivek Oberoi, R Madhavan - NDTV
-  'Why Live In Dubai If You Love India': Raj Thacker
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUUllRjZ4b3hiZ3B3LTQ5SDBxQk1TbHItNDIzWHJ2d3JqLU9TU2RjUy1UbFJwWHZpeElCZTdiVG1WeEo4c0ZTZVM3ZFhfUE5WaHdJTXBYVFliaXR4TS1HaTlEUmYyQV9jR1I5cUJOeVlwNnZhbERWLXZGLURmZno3OGpoUXk1aGtwLWVkNkx2cUh1d0VQWV9YWVpFWlF6VkFZa2FIQm5ONGpJUG1pb3U5VHcxcHhJMzNRY1lmMElCWXpWbVRnamZJODJaUndjenFUU2dz0gHbAUFVX3lxTE4xSktuVVBsUmlZdVF5VGh5UEdMbF9CR0lDUHpabnZqam5PbXh5akR0bldadGlwclprUVJEY0FtTDZkUWpna2NTNFhBNk9VLWUycUtrbzFodnVmcFFyOWlVbnhELWRQc3VXMUVLVHdMa0l0YXdVeUg3ZXlMdHFhb0l0aW91dWJJd2RCa0N4bVNlRGQtX080Tm5hS29GWTZIR25nWlQwb2NxZzFsU0VsQTJuRE1wSlR5cjNwcmc4ZC01Qzd4NHhCVmkwWmF4dHVCOGtBWGJjRXB2Yy0ybw?oc=5
+- India launches 100-week anti-drug campaign | A look at 5 similar crackdowns across the globe | India News - Hindustan Times
+  India launches 100-week anti-drug campaign. A look at 5 similar crackdowns
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxONkptYTBUZHZEUFZVTW9lMDJRT1pDOGRtVktaLW5EbHBsUjN1ZEFUcjlnT2t3eE1sTHN6NmNPaXFQdy1jdldQTDNzYmdsTVRWY0MyTjluYjRHb1ZvV3FXWUcwOVJGVmdWYUxtUGFHdm5vbFZmdDI1eUh2UVI4QWMyQ1RDcUJmMU5PbzlrejJRMlp5LVRCalJodU11NDA5V0pJcmZqTUhpLU84NWUzT3NmaWg0UGcxcUhaOTc1U2Y5MHhqeUtBVW5HeEFjcThJTVpHcXFyamRZWWVIVmtDT0FWVTFRY19Kd9IB6wFBVV95cUxPTXdxTFh3RjZWOVdXUFJ3Mkk5ZFJCYUdDT2dZREttRUR6QXJ5QUtVMWhpM3cxM3VWMjRmT251VTktU0FMVDRQVTNrdGRkejd1SGtiUFZ4M2tKd0FocXhibzd0Z1FZYUU2dGZXcXNSOUVIei10MXFtNUlTNmsxOVdaVTNnMHNsbVAtQ3V6TENISXBpNWcxU0FoUFpJZlBScURMUkN0SXR5RVphU1Rrc1hpdmVYTEo2RW5vMFdqOFlZRUhuU0xQMjMxVGR4RFQ0RXF0ZGxWcXRBMUYtb05uVWJWRUpJc3ltc05GSXpj?oc=5
 
-- India climbs to 4th position in Commonwealth Games in Glasgow - News On AIR
-  India climbs to 4th position in Commonwealth Games in
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmREcW9Kc3hNal8yZEowMGk5M3Z4aDhfMWNEMERNSUJpTnpRUXU3QXI5U0FITzFDOUt2ZEhMTFBFZVNOVy1QU0x6WmRkdG56Vy1EYWF0SjVvUUZJamJJSlFVYm84c0hFSzFnLXdmX25WMEs2dks4NXhKWF9rSlhid1BMckZ0N0w4RWVJQmhoQUNXVkRoekZB?oc=5
+- Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval - NDTV
+  Ajit Doval is the director of the National Security
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEdvaDNLLWc3R0h4Nll5bGh2Qy00M2xpTTFFSGJwTUNhMGVqWXBmX282YVBuU3dkVnE4NjV5Y3FEbGs4dWVDUDRaU2FjcUUxcXkwN1lNLWI0ZXFYVExVSW1Qc2pzeENLem5FSEtGYlA5M2hSZ2tSVGlzRzQtcXkyOUNEVE5UOHRGLTQ4UHBnSk1VbmRyWGdRNUxLZV9hNzBYT2ZObXN2LTFSaWFVOGU40gG3AUFVX3lxTFB6OWY2bkw4YjhjUGFNM1g0d1AtTWVRSTd5blJDSXRiQkU5RmctSGJZS3lqT25OSGtkUXEwZERkMl9ubHllQlpwaXhZVHhxWkZKUFFWRi1XVGpBa3QzRmRXTjBVQjBZV0phMHljeXljX2xnRHQ1OFBkTDlWaW83eXFFRmczbGlMRk1pVWxSUDVRaVp4UjMzNVRwOWVQZUZuWl9kYjNIaFNKV0dlVXdSWWprajJNLVNmTQ?oc=5
 
-- CWG 2026 Medal Tally: India in fourth spot after boxers win seven gold medals on Day 10 - Sportstar
-  The CWG 2026 Medal Tally: India in fourth spot after
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOTcwYTV4c1FpUmw1eWRKblZGU3A5b2UtN3pZdnYzUGFfUjB1OG45bzNCQ0NTX2RjZlhFODhuX28zcl9ybU11MzVqbGJwbS1NSjJTZTMyS095YXpEYWc2aVFsZks5eXRaOEJPMFUtcHdhNE85SDd5elQzM0loODA1dnpzRE1IdzdwZTN2M2dFcmZXdm10b3V6OHNmQkhhMXBKcDJvWHdfeVlMUDg5UTVoUkNCalZFekNVdG4xcXBJNklXZTlERWgxNkJNTEtkU0RPc2psNjJCNjN0YUEwVXZfSUF0cmk4X3ctV2lUZUN30gH0AUFVX3lxTE1fTi1pMmZoVy16bEJwSDZBS1VlNVptZEU0bGx5ZndNMjVLTTZ6S0pWQXdST25ubko5Ukl0UlpROWYzbFdYVHZSZ3MyeHFCak5WTW5lellzR2NkdTB0dVNjd0dCLTMtVHlsYjZ2X3RYTkRveXVDN0I2cXJPQkpFZ3d0TXF4aVBVWDdRNk40QTBPN1V0UU4zZ2N0Q3dJWEZ5SDdDTUpUQTdPOWlEdWhfNEdyT0xuR2dkYXl6UE1TSUVkSm50MnljVmJBWU1CdTdBSmZYZ01ZdnlkM3paZEpFclJsbmhLOGpndzExVDBNUWFvRHJ3TVM?oc=5
+- An exam leak in India exposed a Gen Z jobs crisis that goes much deeper - CNBC
+  An exam leak in India exposed a Gen Z jobs crisis that goes
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNUNNOFRDblhFY3dVeWloQzZJVzcyb050WUFvWWVzYlcyX2JYU1ZqOVpLcTdMUWxOakYyc1J5SlN1SEtGaGFnODZzY09yNXRlQWpmMFdSekdWcld2NjRXOHRaOERaYmVWSXg2MlE4ZF9iRmRGQWt3Z1IyeHNmYnBoSGxHcmp1MlVYNHFYSEZuQkJVLVdvX0thNl9sMnIyZ9IBowFBVV95cUxOU3l5WXVRRFRITzc2M0czVHFGWFdaVFM3aElBaU5mN1RJTmJFMGhJNTZoQWRwSVdfZVJuQkNHSFlCNDdwTXVyN2lCd2dKSWVXcERGTHRpcl9WZ0FPRUVFNE1iZWhxekhlWlJwb2t2a21fRnIxRGZORElLM3lwaHVUSDc5N2x2Vmo3cmRlOFRFVnYwUVpxQlBxYi1zTnAxMEJnaGhV?oc=5
 
 - Technology must be backed by process reforms: EPFO CEO - The Hindu
   Technology must be backed by process reforms,
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNQnhMRnk0SjJwVVFET3V6ajRoak9JZThLeWtxOVJNeXBqZ3JCM2twQkptQVI3eUdPUU5GR3VQTFlPWkdpNkdqV3hRaDdxRHpsRDBMeGJNeFc1QUhBM2Z1LWV3elVMTjV0X1FTRElGcjloZVZPVHREUGRBRzVySmxoZDhmdF96VmRzNk0zbXY1dkw1ellVOUh0MEhhRHJ3NV80ckVNYWstWmxLWHZVRFpfUTlB0gG4AUFVX3lxTE44elVESVBlTGtPUldBOEZCSEJkVHBNelVlUXpTRjZ4dmN1UUo4WmVmaWJuWVZZMEZmLW9pYmZza052SlU3ZlFVTjA3aEtUWlI0c2NSU0dBVWFRNkZ2YzVaaUhEWnBOc3UwY1ZmSjVJMWE0MXRYUjBfTVhkc3haQ0w3ZmtoQ05nSlc3aFJCVnM0Qk1JcVFGN1FUVi1jZEhhaWRlbndKY0lIQUdOY1YxeXBPTUQtcFF4Z1k?oc=5
 
-- Handloom Hackathon 2.0 Concludes at IIT Delhi, Showcasing Technology-led Innovations for India's Handloom Sector - PIB
-  Handloom Hackathon 2.0 Concludes at I
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1OLXJxQzFMRGtSRDk0QTljdjdsLTU2dUdiaG1BVW1vN2FRM29uTU5KOHo5VmhoMzI5YnBxWkppdlhpM2xEd29kNENzQ2Itd3k2QV96TTlMUko0MWY5R3ZkbHJOWlZaSkdtNFpKS05NTXVHOFkwTU9zMFNlTQ?oc=5
-
-- China’s tech advances are causing chaos from Silicon Valley to the White House - The Guardian
-  China’s tech advances are causing chaos from Silicon Valley
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMm1teVpFOHI1eTA5NG51UWVZb3ZVaUtkQTJRM2R0cTFETzR6OTZsLW9TZWhfSWc5SU1xem9GREczSGI3Sk1wZDJBQTA2bTBINnNPdzd1ZG9tSzZaM1ZfQ1dsOW9NakEyc1JHbWFZRGtGekxleGpsMjVqNmIxMF9fMU9xNXFDMEp3UVZZ?oc=5
-
 - Reckitt, ASCI Launch SAFER Challenge To Develop Affordable Technology For Sanitation Worker Safety - NDTV
   Reckitt, ASCI Launch SAFER Challenge To
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2F1emliUGhTQVdSZWpzWnZ2ZzdHMVZ1Z1hKYTRxMzUzVkEzbU05N3JJZF9Hby02N1RNdDE2WHhfcFR5QWRDZm5qd1lTTHpXN2tVVUtlNHoyVUY3OWlrWXpoaThYOEtibGFCX3JVbnN0eGZabEQxV2JqeWhnZGdETGctdEF6dXdhUlpZZUtZV2MyZ3pSUTk2U0xsSm1abXVOVGRoX2ZaTklodGlIQWVwbEhRWWdKdkdlZzhOZnJaNzgxbVJfaW1jTzROX1hNQdIB0wFBVV95cUxQNEFfZEQtSFJFN3Y5SGtXbDMxVFY2amZIaWRWLUtnUXN1ZFo4SmRRQU5hTlkyUzRKSVRvSXNaTFVMU3R1MnYzWnFUMHdHdVJUX1FPaUFUcklhUXdobi1oRy15X29yazlnNzE1X3J6ckZRb1VCQnJzV0R3OFV2VWRLVFdZUHN5QmtYQU9ObkczejFZNkR2WlFnNWJkcmhFLTJvLTVxV0UyRmdBdTIxVnJySFdDQmNCZGU1VUI3MDc3RFlkN0oyTmw5bzFfaGZWMWp4NF9z?oc=5
+
+- Handloom Hackathon 2.0 Concludes at IIT Delhi, Showcasing Technology-led Innovations for India's Handloom Sector - PIB
+  Handloom Hackathon 2.0 Concludes at I
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1OLXJxQzFMRGtSRDk0QTljdjdsLTU2dUdiaG1BVW1vN2FRM29uTU5KOHo5VmhoMzI5YnBxWkppdlhpM2xEd29kNENzQ2Itd3k2QV96TTlMUko0MWY5R3ZkbHJOWlZaSkdtNFpKS05NTXVHOFkwTU9zMFNlTQ?oc=5
 
 - The New Architecture of Consumption: How Technology Is Reshaping Consumer Behaviour - orfonline.org
   The New Architecture of Consumption: How Technology Is
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUNpWFhBRUlKWVI3UmJnWFl4WjB2UnJtNFY0Mkp0eW1JSUhlLUtJVXFGY3Y1b19EWDFuQXdES0N5azlZaXFNQnRhckhlUWlFR2pKRzVVZlA5Z1JOcFRFZEN6ZkN5UVYtbnI3bDdDTW5vaGVvQ2dzVlotang1dVRUQTM3YTVTZEp3NkUxSzh0MXNOZWc1NWtJMjZMSU5RUWFMVnBUY1RLWFpjM1B3V2pMX3J6LWRrV00w?oc=5
 
-- CBI books Anil Ambani, Reliance Capital for causing EPFO loss of over  ₹1,800 — here's what happened
-  The CBI has filed an FIR against Reliance Capital and Anil D Ambani over an alleged  ₹
-  🔗 https://www.livemint.com/companies/news/cbi-books-anil-ambani-reliance-capital-for-causing-epfo-loss-of-over-1-800-heres-what-happened-11785654343879.html
+- New criminal laws to ensure faster, transparent and technology-driven justice: Chhattisgarh CM Sai - ThePrint
+  New criminal laws to ensure faster, transparent and technology-
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlBGUjJvMW1BRlF2Q2tDampUbGwxcEhMUUFWSjFQUUs4bkd0WURxQXBWdndlRTNOZF9Fd0ZvTUpWY2dhaXFoLTY0QkJiZXhPNGlmY2N4dkEwZGRBcHlPYzVEbEtnbGxXbXhiRFNnazlEaWUwUkVIUkpDSDQ3TGVRazdnN0NXZG11YjN1ZWFYVENJR1oyZ19Fb0JlQnFYeDF4Rk1zWnMwR1Vva05jckI3TGxhdGhrOW8wT3dVZFczVTRjMFVYWGstRXZwTdIB0AFBVV95cUxOMHIyVDF2eTI1NzlaV1VSU0hBY241TWlnUnkzU0JKaHpVd2NSNTVrUjlReXJ5amxmanQ3WlBwUHlHbUdzMFBIeDE2dktDN3d5aFNsNHl0a2dXaWptejRhTnFEV3ZHNnR0WHNmMlZIckNCM1ZmYkljV2RjbEg4QngzS19KYTJkYXVxVDMtcjh5OHhMVzlRVGhTUlZBTzNqOVRtMnhBYXZZQjVCUHdfMWZhV2tvcGd1Qlg4VE9iQUxET2FlUzQtaE95UklHd05Na3k2?oc=5
 
-- Voda Idea receives  ₹26.8 crore notice from DoT over spectrum rollout; telco says operations remain unaffected
-  Department of Telecommunications has notified Vodafone Idea to pay  ₹26.83 crore in liquid
-  🔗 https://www.livemint.com/companies/news/voda-idea-receives-26-8-crore-notice-from-dot-over-spectrum-rollout-telco-says-operations-remain-unaffected-11785638304784.html
+- India’s Modi says he forgives students who abused him in Cockroach protests - Al Jazeera
+  India’s Modi says he forgives students who
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9BeVJrT2Q2YnB4OU1mR0ZNd1AySFRkTUNXcWdBcHJJZHVMU0ZoSllOVnNtNnNnbklzQlJqeldTNmt2WHRPMjBSeEJTaGVXa0lqWmx2MFRCcl9HR1NNWEZNU3JESGFqV1NDNGJxOUtXQTBwRnNiMkl4bFg0QWxYRHgybG0xVTRLdURFODBpd0g5LUVkRjBPRGRTVXlNblM1RWsxUlMwNUx4a3czclg2ekFtb23SAboBQVVfeXFMTjlMUjc5Z1J6SmE3Ym5KeGVBU0hjSmFKa1h4M1YtdVQ3aE13cmNySFRFVWRXb3p5ZGdaYTd0Q013MXhkeU1NYWd4RnY1eWQwajdObUh6VHkyV21ZOG9uazlqOUNobmFCYjAzRUxkaUpHQzA5emYxTUVvZHM4VTc2Z2hWZWdDeEZ2YVhzSHpUSjJfRHladC1fbW41Z3VOSXd4RXFwUWZ5Z2tQbG1NaDR3WkVxWDFfN1ROMTJB?oc=5
 
-- NTT Data Payments eyes merchant financing, cross-border payments in India
-   Merchant financing is a key focus area for the company, not
-  🔗 https://www.livemint.com/companies/news/ntt-data-payment-services-india-merchant-financing-cross-border-payments-strategy-11785497049727.html
+- 'Drugs Can Give You Brief High But Make Your Entire Life Low': PM Modi At Anti-Drugs Campaign - NDTV
+  'Drugs Can Give You Brief High But Make Your Entire Life Low
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeVc0YUEtdEFpelVLMVo4aUt3WlNKd3BjTUluOVhzZi03ZHdiVVRGeUtteHdXMFBlNW9LODBMNzhpWlZFdUNVM2dCVXdNTGp4RDlmSlFSRnFVNjgxWGRGbTVvUUxyTExmYy1teTIxVXRRdlJHV1dmTDFFaTdwQlBJSGRfd3pfU211bGx0NHRCb2Y0X01uUEI5UWsyVTRnSlg4MUJydnEzRmtraG5zZDB5amZyMGxaV3lOYzVpS05xaHREWGFJZm03RGJXOEFIQmRTM2ZyVzNHWEdRYmpxc0ZpQkxLby1NWm5CUnVZ0gHzAUFVX3lxTE1tcVBnN0t2OGdZaEstYkJOMW1QVlQtc2lrQ0ZNLTNuZGRiZGJfOTk0UUMzdmRNYnJodHNoQ2lJUWRHZGhCRk5aVEszdmo0UGJWbWU0eTgwM0pKVURYNVdHTTdfcURjVGZORkdQMHBCVFY4eWx4di16b2RibTl0Ulo1YXQxdW5LMDdJYXdxLUdoaXRocmRXRWh2NjY4SHBKT01DQ3dGeWNneF8tWE5fa3hlcm1Ydy1yR2M4MHRGUGxrMElFWGhMeVp6MDFobFgtRkJ5b3MtYV84cmN6Mk43UEU2ak1QSmVHQWFUbFRXOVAtRUloMA?oc=5
 
-- Staveley’s Offer for West Ham Stake Tees Up Kretinsky Clash
-  Amanda Staveley has agreed to take a 25% stake in West Ham United. Czech billionaire Daniel Kretinsky is the current owner of the London
-  🔗 https://www.livemint.com/companies/staveleys-offer-for-west-ham-stake-tees-up-kretinsky-clash-11785614007002.html
+- India launches 100-week anti-drug campaign | A look at 5 similar crackdowns across the globe | India News - Hindustan Times
+  India launches 100-week anti-drug campaign. A look at 5 similar crackdowns
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxONkptYTBUZHZEUFZVTW9lMDJRT1pDOGRtVktaLW5EbHBsUjN1ZEFUcjlnT2t3eE1sTHN6NmNPaXFQdy1jdldQTDNzYmdsTVRWY0MyTjluYjRHb1ZvV3FXWUcwOVJGVmdWYUxtUGFHdm5vbFZmdDI1eUh2UVI4QWMyQ1RDcUJmMU5PbzlrejJRMlp5LVRCalJodU11NDA5V0pJcmZqTUhpLU84NWUzT3NmaWg0UGcxcUhaOTc1U2Y5MHhqeUtBVW5HeEFjcThJTVpHcXFyamRZWWVIVmtDT0FWVTFRY19Kd9IB6wFBVV95cUxPTXdxTFh3RjZWOVdXUFJ3Mkk5ZFJCYUdDT2dZREttRUR6QXJ5QUtVMWhpM3cxM3VWMjRmT251VTktU0FMVDRQVTNrdGRkejd1SGtiUFZ4M2tKd0FocXhibzd0Z1FZYUU2dGZXcXNSOUVIei10MXFtNUlTNmsxOVdaVTNnMHNsbVAtQ3V6TENISXBpNWcxU0FoUFpJZlBScURMUkN0SXR5RVphU1Rrc1hpdmVYTEo2RW5vMFdqOFlZRUhuU0xQMjMxVGR4RFQ0RXF0ZGxWcXRBMUYtb05uVWJWRUpJc3ltc05GSXpj?oc=5
 
-- Amazon pockets  ₹5,250 crore after Trump tariff ruling, plans automatic refunds for eligible customer
-  Amazon received  ₹5,724 crore in tariff refunds after the Supreme
-  🔗 https://www.livemint.com/companies/news/amazon-gets-5-250-crore-tariff-refund-says-eligible-customers-will-receive-automatic-refunds-11785593358210.html
+- Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval - NDTV
+  Ajit Doval is the director of the National Security
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEdvaDNLLWc3R0h4Nll5bGh2Qy00M2xpTTFFSGJwTUNhMGVqWXBmX282YVBuU3dkVnE4NjV5Y3FEbGs4dWVDUDRaU2FjcUUxcXkwN1lNLWI0ZXFYVExVSW1Qc2pzeENLem5FSEtGYlA5M2hSZ2tSVGlzRzQtcXkyOUNEVE5UOHRGLTQ4UHBnSk1VbmRyWGdRNUxLZV9hNzBYT2ZObXN2LTFSaWFVOGU40gG3AUFVX3lxTFB6OWY2bkw4YjhjUGFNM1g0d1AtTWVRSTd5blJDSXRiQkU5RmctSGJZS3lqT25OSGtkUXEwZERkMl9ubHllQlpwaXhZVHhxWkZKUFFWRi1XVGpBa3QzRmRXTjBVQjBZV0phMHljeXljX2xnRHQ1OFBkTDlWaW83eXFFRmczbGlMRk1pVWxSUDVRaVp4UjMzNVRwOWVQZUZuWl9kYjNIaFNKV0dlVXdSWWprajJNLVNmTQ?oc=5
+
+- An exam leak in India exposed a Gen Z jobs crisis that goes much deeper - CNBC
+  An exam leak in India exposed a Gen Z jobs crisis that goes
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNUNNOFRDblhFY3dVeWloQzZJVzcyb050WUFvWWVzYlcyX2JYU1ZqOVpLcTdMUWxOakYyc1J5SlN1SEtGaGFnODZzY09yNXRlQWpmMFdSekdWcld2NjRXOHRaOERaYmVWSXg2MlE4ZF9iRmRGQWt3Z1IyeHNmYnBoSGxHcmp1MlVYNHFYSEZuQkJVLVdvX0thNl9sMnIyZ9IBowFBVV95cUxOU3l5WXVRRFRITzc2M0czVHFGWFdaVFM3aElBaU5mN1RJTmJFMGhJNTZoQWRwSVdfZVJuQkNHSFlCNDdwTXVyN2lCd2dKSWVXcERGTHRpcl9WZ0FPRUVFNE1iZWhxekhlWlJwb2t2a21fRnIxRGZORElLM3lwaHVUSDc5N2x2Vmo3cmRlOFRFVnYwUVpxQlBxYi1zTnAxMEJnaGhV?oc=5
+
+- Banks Offload Risk from Leveraged ETFs With Exotic ‘Crash Puts’
+  Leveraged ETFs offer the tantalizing prospect of doubling or tripling the daily returns of an individual
+  🔗 https://www.livemint.com/market/banks-offload-risk-from-leveraged-etfs-with-exotic-crash-puts-11785669635507.html
+
+- Are the building blocks of market recovery falling into place? Expert weighs in
+  If oil prices remain contained and global tensions continue to soften, Indian equities could be positioned for a
+  🔗 https://www.livemint.com/market/stock-market-news/are-the-building-blocks-of-market-recovery-falling-into-place-expert-weighs-in-11785660478450.html
+
+- OPEC  Agrees in Principle to Small Quota Hike, Delegates Say
+  OPEC nations agree in principle to another token increase in their production quotas for September. The move would complete the theoretical revival of supplies halted in 2023.
+  🔗 https://www.livemint.com/market/opec-agrees-in-principle-to-small-quota-hike-delegates-say-11785661008804.html
+
+- Mcap of top-10 most valued firms surges  ₹2.51 lakh crore; Bajaj Finance biggest winner
+  The BSE Sensex gained 2,034.87 points (
+  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-top-10-most-valued-firms-surges-2-51-lakh-crore-bajaj-finance-biggest-winner-11785658763828.html
 
 - Upcoming IPOs: Ardee Industries IPO, Technocraft Ventures IPO among new issues to open next week; check full list
   Ardee Industries IPO and Technocraft Ventures IPO are set to hit the
   🔗 https://www.livemint.com/market/ipo/upcoming-ipos-ardee-industries-ipo-technocraft-ventures-ipo-among-new-issues-to-open-next-week-check-full-list-11785655325854.html
 
-- Q1 results 2026: Bharti Airtel to LIC among companies to declare Q1 results next week; check full list here
-  Bharti Airtel, ONGC, Nykka, BSE, Life Insurance Corporation of India, State Bank of India
-  🔗 https://www.livemint.com/market/stock-market-news/q1-results-2026-bharti-airtel-to-lic-among-companies-to-declare-q1-results-next-week-check-full-list-here-11785649724641.html
+- Technology must be backed by process reforms: EPFO CEO - The Hindu
+  Technology must be backed by process reforms,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNQnhMRnk0SjJwVVFET3V6ajRoak9JZThLeWtxOVJNeXBqZ3JCM2twQkptQVI3eUdPUU5GR3VQTFlPWkdpNkdqV3hRaDdxRHpsRDBMeGJNeFc1QUhBM2Z1LWV3elVMTjV0X1FTRElGcjloZVZPVHREUGRBRzVySmxoZDhmdF96VmRzNk0zbXY1dkw1ellVOUh0MEhhRHJ3NV80ckVNYWstWmxLWHZVRFpfUTlB0gG4AUFVX3lxTE44elVESVBlTGtPUldBOEZCSEJkVHBNelVlUXpTRjZ4dmN1UUo4WmVmaWJuWVZZMEZmLW9pYmZza052SlU3ZlFVTjA3aEtUWlI0c2NSU0dBVWFRNkZ2YzVaaUhEWnBOc3UwY1ZmSjVJMWE0MXRYUjBfTVhkc3haQ0w3ZmtoQ05nSlc3aFJCVnM0Qk1JcVFGN1FUVi1jZEhhaWRlbndKY0lIQUdOY1YxeXBPTUQtcFF4Z1k?oc=5
 
-- Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war?
-  The Nifty climbed 2.59% to end at 24,383.60, while the Sensex rose 2.68%
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-ongoing-us-iran-war-11785647530813.html
+- Reckitt, ASCI Launch SAFER Challenge To Develop Affordable Technology For Sanitation Worker Safety - NDTV
+  Reckitt, ASCI Launch SAFER Challenge To
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2F1emliUGhTQVdSZWpzWnZ2ZzdHMVZ1Z1hKYTRxMzUzVkEzbU05N3JJZF9Hby02N1RNdDE2WHhfcFR5QWRDZm5qd1lTTHpXN2tVVUtlNHoyVUY3OWlrWXpoaThYOEtibGFCX3JVbnN0eGZabEQxV2JqeWhnZGdETGctdEF6dXdhUlpZZUtZV2MyZ3pSUTk2U0xsSm1abXVOVGRoX2ZaTklodGlIQWVwbEhRWWdKdkdlZzhOZnJaNzgxbVJfaW1jTzROX1hNQdIB0wFBVV95cUxQNEFfZEQtSFJFN3Y5SGtXbDMxVFY2amZIaWRWLUtnUXN1ZFo4SmRRQU5hTlkyUzRKSVRvSXNaTFVMU3R1MnYzWnFUMHdHdVJUX1FPaUFUcklhUXdobi1oRy15X29yazlnNzE1X3J6ckZRb1VCQnJzV0R3OFV2VWRLVFdZUHN5QmtYQU9ObkczejFZNkR2WlFnNWJkcmhFLTJvLTVxV0UyRmdBdTIxVnJySFdDQmNCZGU1VUI3MDc3RFlkN0oyTmw5bzFfaGZWMWp4NF9z?oc=5
 
-- Stocks under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 3 August 2026
-  The Indian stock ended the week on a positive note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-under-rs-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-3-august-2026-11785643308947.html
+- Handloom Hackathon 2.0 Concludes at IIT Delhi, Showcasing Technology-led Innovations for India's Handloom Sector - PIB
+  Handloom Hackathon 2.0 Concludes at I
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1OLXJxQzFMRGtSRDk0QTljdjdsLTU2dUdiaG1BVW1vN2FRM29uTU5KOHo5VmhoMzI5YnBxWkppdlhpM2xEd29kNENzQ2Itd3k2QV96TTlMUko0MWY5R3ZkbHJOWlZaSkdtNFpKS05NTXVHOFkwTU9zMFNlTQ?oc=5
 
-- HDFC Mid Cap Fund tops  ₹1 trillion AUM: Is it still worth considering?
-  HDFC Mid Cap Fund outperformed
-  🔗 https://www.livemint.com/market/stock-market-news/mutual-funds-equity-mutual-funds-hdfc-mid-cap-fund-top-performing-mutual-fund-11785574999431.html
+- The New Architecture of Consumption: How Technology Is Reshaping Consumer Behaviour - orfonline.org
+  The New Architecture of Consumption: How Technology Is
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUNpWFhBRUlKWVI3UmJnWFl4WjB2UnJtNFY0Mkp0eW1JSUhlLUtJVXFGY3Y1b19EWDFuQXdES0N5azlZaXFNQnRhckhlUWlFR2pKRzVVZlA5Z1JOcFRFZEN6ZkN5UVYtbnI3bDdDTW5vaGVvQ2dzVlotang1dVRUQTM3YTVTZEp3NkUxSzh0MXNOZWc1NWtJMjZMSU5RUWFMVnBUY1RLWFpjM1B3V2pMX3J6LWRrV00w?oc=5
 
-- Indias data centre capacity may reach 3-3.6 GW by 2030, hyperscalers to drive growth: Axis Capital
-  The report noted that publicly announced capacity targets of 6-8 GW by 2030 appear aggressive. A more realistic estimate is 3.4-3.6 GW of planned capacity by mid-2030.
-  🔗 https://www.livemint.com/technology/indias-data-centre-capacity-may-reach-3-3-6-gw-by-2030-hyperscalers-to-drive-growth-axis-capital-11785646209806.html
+- New criminal laws to ensure faster, transparent and technology-driven justice: Chhattisgarh CM Sai - ThePrint
+  New criminal laws to ensure faster, transparent and technology-
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlBGUjJvMW1BRlF2Q2tDampUbGwxcEhMUUFWSjFQUUs4bkd0WURxQXBWdndlRTNOZF9Fd0ZvTUpWY2dhaXFoLTY0QkJiZXhPNGlmY2N4dkEwZGRBcHlPYzVEbEtnbGxXbXhiRFNnazlEaWUwUkVIUkpDSDQ3TGVRazdnN0NXZG11YjN1ZWFYVENJR1oyZ19Fb0JlQnFYeDF4Rk1zWnMwR1Vva05jckI3TGxhdGhrOW8wT3dVZFczVTRjMFVYWGstRXZwTdIB0AFBVV95cUxOMHIyVDF2eTI1NzlaV1VSU0hBY241TWlnUnkzU0JKaHpVd2NSNTVrUjlReXJ5amxmanQ3WlBwUHlHbUdzMFBIeDE2dktDN3d5aFNsNHl0a2dXaWptejRhTnFEV3ZHNnR0WHNmMlZIckNCM1ZmYkljV2RjbEg4QngzS19KYTJkYXVxVDMtcjh5OHhMVzlRVGhTUlZBTzNqOVRtMnhBYXZZQjVCUHdfMWZhV2tvcGd1Qlg4VE9iQUxET2FlUzQtaE95UklHd05Na3k2?oc=5
 
-- Google Pixel 11 series complete specs and price leaked ahead of launch
-  The new Google lineup could start at a price of &amp;nbsp;€999 for the standard Pixel 11. The Pixel 11 Pro Fold could
-  🔗 https://www.livemint.com/technology/gadgets/google-pixel-11-series-complete-specs-and-price-leaked-ahead-of-launch-11785642140869.html
-
-- Piotr Mirowski on the promise and perils of AI in theatre
-  CNN.
-  🔗 https://www.livemint.com/technology/piotr-mirowski-on-the-promise-and-perils-of-ai-in-theatre-11785578519963.html
-
-- AI infrastructure expansion broadens beyond hyperscalers as enterprise, sovereign demand grows: Goldman Sachs
-  Artificial intelligence (AI) infrastructure investment continued to broaden in July, with enterprise adoption expanding alongside sovereign AI initiatives. Goldman Sachs research report said the latest announcements reflect a widening AI ecosystem.
-  🔗 https://www.livemint.com/technology/ai-infrastructure-expansion-broadens-beyond-hyperscalers-as-enterprise-sovereign-demand-grows-goldman-sachs-11785575782947.html
-
-- OpenAI finds evidence other AI agents escaped containment as it widens hacking probe: Report
-  The new breakouts were uncovered during the company's publicly announced investigation into how one of its agents escaped.
-  🔗 https://www.livemint.com/technology/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe-report-11785553254570.html
-
-- S&P 500 closes higher Friday as Amazon surges; Dow posts fourth straight winning month: Live updates - cnbc.com
+- S&P 500 closes higher Friday as Amazon surges; Dow posts fourth straight winning month: Live updates - CNBC
   S&amp;P 500 closes higher Friday as Amazon surges; Dow
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5
 
-- Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday - Investopedia
-  The Dow Jones Industrial Average made big gains in July. The S&amp;P
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3pteHotdWlId0lTQVlZdFluN1dBMkVHUGJkZUZsR0xHS1ZjLV90X1NjSnUzT0lsekt0WEZsbDJHRXVQRmh0R21KWkdQU3ZDRWNvWDJpdjcwUW5lVXV0akNsMm5OdFBLa056bmZsd2lOTGxDeHBkRXZFOWEyWnV6WFo1RGl0QU9XZVFtUXlPNGY?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq rise to cap volatile July as Big Tech AI spending ramps up - Yahoo Finance
-  Stock market today: Dow, S&amp;P 500, Nasdaq rise to cap
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUNJOEJab054ZTc0M0J6WXlJcTlEVS1XNDJJSG5HX0lFUVNneVZ2ZWlPZ2FGa3Z4R3VDY29nZ1Y1U1B4WWpJekV5OW1uM00wcnR1R01pUUd5MHQzcG02dF9FSzBnVVpYZFVFaFpublBLVnVfRm4wQ2VXLXNQOWFxeTZ6Q210cmJjQmk5VVlXaF9ZcXd5dmZLdFBHdGZ6Q3YxR0R4ajZWbHg?oc=5
-
-- Humbling times for markets - ft.com
-  
+- Humbling times for markets - Financial Times
+  The Financial Times
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWdzUHM3M3NlQlhvNVFub2FWN0pJRnBSeWV5cGlUY21SMHRXTGRaS2I5ZlVSdjJteUdvdU1rU0RpTzFWRWhhMWZnNDBtMzJkMk95a19peUJUVElfWDNlYzFKUFNNcGNJZjhoT3dlUXB2cWt4VUtJaFRIcElPZjJSX0FycGM?oc=5
+
+- New stock market timings from August 3: What has changed? - The Times of India
+  New stock market timings from August 3: What has
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVFBfSjBaT0F2X1NDZXpLYlZRTXVzNnR6NW45WENSdks2SzVTRHE1TnV5WHVDLUViSEo2UjNFc0VlWTRYazhtNWFON3JmeWhQMnA1eW1weWtqMHcyN2FFVy1pUWJvc2l2UmVuY09STEFPa3NKd0toTDE2QmM1aHlKUXJ0dTRnbGQzSWFUeTVlckdZUlpxTDFsbERKSm5OSVU0RmJNMjllaGVOTWJWMFBUM1d5NEkyR2xkM3l5LS1FZGRWbmhXUE1UdlpPTE41aGVZVGxsWEI3djTSAd4BQVVfeXFMUG5saXBPeEhfd2xiekk4eHpSb0lmaXRtMmJJb2RaLVlwMkJNUWlDM011S01TaXZFbjhMS1hZZmNpSnhNQjZoNEt1c3NxbGp6MG1ubk5lSFl6djRoODdIRlZ5VExQOGQ3LVBRMEhCVXdZeVJfa2owa2RvQWFKNDU3U3J1ZHc4Y1U1UUxXb2VPV1Y4UlRkSWFLRWlnZnd5ZWlqendsbkZDNmVfanJod2hmekNSdVJteGsyckQ5Qm9obGRmVzhiVFlfSEtaeWhSRUc1MkYtQjF3MWQzMENhUm9n?oc=5
+
+- Ugly Month in Emerging Markets May Be a Taste of What’s Ahead - Bloomberg.com
+  Ugly Month in Emerging Markets May Be a Taste
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1RoMmt4bTlYeC1iTVdGUGNlRXRUN1FZTXloV0lkMG9iaktOa0JwUUZmQ1h5Rmk5MElSVnQtYUFKWmRaUUJKR2RXZU80OXF6cFc1QkQ0ZzYzT0lkODBXcFZHRk5jOFVOXzc5Uy1LbndPbEFMNGVTaTFqcnhLTGxWdjVad1JmVEZ4SEV6MHFlWGlhRnRqbklRSXItUkQ4bWlaQnVzOXlSWjRoWEktckUwRXdR?oc=5
 
 - EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters
   Japan to announce Tokyo, Washington took joint action on yen
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5
+
+- Bill Miller's investing strategy: How the legendary fund manager outperformed the market for 15 straight years
+  Bill Miller beat the S&amp;P 500 for 15 consecutive years by combining value investing, long-term patience and contrarian thinking. His strategy focuses on intrinsic value, free cash flow, margin of safety and
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bill-millers-investing-strategy-how-the-legendary-fund-manager-outperformed-the-market-for-15-straight-years/articleshow/132803593.cms
+
+- Utkarsh Small Finance Bank posts Rs 34 crore Q1 loss; asset quality stress persists
+  Utkarsh Small Finance Bank reported a net loss of Rs 34 crore for the June quarter. While the loss narrowed significantly on lower provisions, lender's gross non-performing assets remained high at 6.1%.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/utkarsh-small-finance-bank-posts-rs-34-crore-q1-loss-asset-quality-stress-persists/articleshow/132803463.cms
+
+- Muthoot Finance reports 25% rise in Q1 profit, announces leadership transition
+  Muthoot Finance reported a 25% year-on-year rise in standalone net profit to Rs 2,550 crore for the June quarter. The company also announced a leadership transition, with Alexander George Muthoot set to take over
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-reports-25-rise-in-q1-profit-announces-leadership-transition/articleshow/132803408.cms
 
 - Ahead of Market: 10 things that will decide stock market action on Monday
   The Indian stock market rallied around 3% over the last week. Analysts expect the market's direction in the coming week to hinge on the RBI MPC meeting outcome.
@@ -128,37 +140,25 @@
   Assetz Ltd, a prominent Bengaluru-based real estate developer, has embarked on its journey towards an initial public offering. The firm aims to secure around Rs 1,200 crore as it ventures into public markets.
   🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/real-estate-firm-assetz-files-ipo-papers-with-sebi-via-confidential-route-plans-rs-1200-cr-issue/articleshow/132802599.cms
 
-- AI isn’t a catch-all trade for stocks in this earnings season
-  Despite strong earnings growth across the US and Europe, European equities have outperformed as gains broaden beyond technology into financials, energy and healthcare.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-isnt-a-catch-all-trade-for-stocks-in-this-earnings-season/articleshow/132801452.cms
-
-- 10 largecap stocks with upside potential up to 37%. Do you own any?
-   Trendlyne’s consensus estimates identify 10 BSE large-cap stocks with potential upside of 25% to 37% over the next 12 months. HDFC Bank and HD
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-largecap-stocks-with-upside-potential-up-to-37-do-you-own-any/slideshow/132801264.cms
-
-- FPIs reverse 4-month selling trend with Rs 20,200 cr inflow in July
-  In July, foreign investors reversed their selling trend, becoming net buyers of Indian equities for the first time in four months. This surge is attributed to appealing valuations and stronger corporate earnings.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-reverse-4-month-selling-trend-with-rs-20200-cr-inflow-in-july/articleshow/132801120.cms
-
-- India’s Modi says he forgives students who abused him in Cockroach protests - aljazeera.com
-  India’s Modi says he forgives students
+- India’s Modi says he forgives students who abused him in Cockroach protests - Al Jazeera
+  India’s Modi says he forgives students who
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9BeVJrT2Q2YnB4OU1mR0ZNd1AySFRkTUNXcWdBcHJJZHVMU0ZoSllOVnNtNnNnbklzQlJqeldTNmt2WHRPMjBSeEJTaGVXa0lqWmx2MFRCcl9HR1NNWEZNU3JESGFqV1NDNGJxOUtXQTBwRnNiMkl4bFg0QWxYRHgybG0xVTRLdURFODBpd0g5LUVkRjBPRGRTVXlNblM1RWsxUlMwNUx4a3czclg2ekFtb23SAboBQVVfeXFMTjlMUjc5Z1J6SmE3Ym5KeGVBU0hjSmFKa1h4M1YtdVQ3aE13cmNySFRFVWRXb3p5ZGdaYTd0Q013MXhkeU1NYWd4RnY1eWQwajdObUh6VHkyV21ZOG9uazlqOUNobmFCYjAzRUxkaUpHQzA5emYxTUVvZHM4VTc2Z2hWZWdDeEZ2YVhzSHpUSjJfRHladC1fbW41Z3VOSXd4RXFwUWZ5Z2tQbG1NaDR3WkVxWDFfN1ROMTJB?oc=5
 
-- India news Highlights, 1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
-  The Indian Express published a story on Kulgam terror attack on 1 August 2026. Chhattisgar
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbEJuWGV6V2t6Tl95d3NaQUNlZG1pTjZRa2VpQ3pjNmNBeV8yTVMyUUVfcy02UlJoamxOanpfV3dLekxjM3hCV0RxSkxnd0UxNDhWaG44TnllSjR4STAyZVlYYm9JaUk5eEIxeW1uTlhfRUVFalUyLVI4Tlp2cWU4SFNHaFhwdEw1MFVIeHlZMnJmNmVMbS0zcUtNY3lZbndMVnE0ckJyS2ZZd2dfOVgwQm92UDV0TWxRWXlTcDhQZlhZb0hsbUMwLUdBNDgxd3BsV25hODhPZGMzbDBYNXV4LXA4OE5DWENRRURmRTZnclJBUWRTY2lZcNIB_wFBVV95cUxQZVliN2VXU29KQmZMdF9yREM1QUd1M3VFck83QmdYRDFMdjZjWFUyLUNueUgzdXA0cnNNRXlhT1EwSzZfcXNOcVJuWlVwOGU4V1hKVmJEZmFmZldWdDZsd1Q3eGdEMTN4b011YXhuZHFiRFB2cDc1ZERoZzMyNFllZVJDeW4zYm4xWXFPaEtsWjQ4cU1lQk1SeHYxdlVISTIxNlhCcWQzcEc4Z0tPbVQxQkI5dF9FRUNKT1NHRjN6ZFRrRGVYMi1wdW52X3dNZnZhU0huRlctV05BVW5yaXdrajQtekY5Y1hEeG9xR0VycHMyTUVYaEtValR2cFBSN3M?oc=5
+- 'Drugs Can Give You Brief High But Make Your Entire Life Low': PM Modi At Anti-Drugs Campaign - NDTV
+  'Drugs Can Give You Brief High But Make Your Entire Life Low
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeVc0YUEtdEFpelVLMVo4aUt3WlNKd3BjTUluOVhzZi03ZHdiVVRGeUtteHdXMFBlNW9LODBMNzhpWlZFdUNVM2dCVXdNTGp4RDlmSlFSRnFVNjgxWGRGbTVvUUxyTExmYy1teTIxVXRRdlJHV1dmTDFFaTdwQlBJSGRfd3pfU211bGx0NHRCb2Y0X01uUEI5UWsyVTRnSlg4MUJydnEzRmtraG5zZDB5amZyMGxaV3lOYzVpS05xaHREWGFJZm03RGJXOEFIQmRTM2ZyVzNHWEdRYmpxc0ZpQkxLby1NWm5CUnVZ0gHzAUFVX3lxTE1tcVBnN0t2OGdZaEstYkJOMW1QVlQtc2lrQ0ZNLTNuZGRiZGJfOTk0UUMzdmRNYnJodHNoQ2lJUWRHZGhCRk5aVEszdmo0UGJWbWU0eTgwM0pKVURYNVdHTTdfcURjVGZORkdQMHBCVFY4eWx4di16b2RibTl0Ulo1YXQxdW5LMDdJYXdxLUdoaXRocmRXRWh2NjY4SHBKT01DQ3dGeWNneF8tWE5fa3hlcm1Ydy1yR2M4MHRGUGxrMElFWGhMeVp6MDFobFgtRkJ5b3MtYV84cmN6Mk43UEU2ak1QSmVHQWFUbFRXOVAtRUloMA?oc=5
 
-- 'Why Live In Dubai If You Love India': Raj Thackeray Jabs Vivek Oberoi, R Madhavan - NDTV
-  'Why Live In Dubai If You Love India': Raj Thacker
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUUllRjZ4b3hiZ3B3LTQ5SDBxQk1TbHItNDIzWHJ2d3JqLU9TU2RjUy1UbFJwWHZpeElCZTdiVG1WeEo4c0ZTZVM3ZFhfUE5WaHdJTXBYVFliaXR4TS1HaTlEUmYyQV9jR1I5cUJOeVlwNnZhbERWLXZGLURmZno3OGpoUXk1aGtwLWVkNkx2cUh1d0VQWV9YWVpFWlF6VkFZa2FIQm5ONGpJUG1pb3U5VHcxcHhJMzNRY1lmMElCWXpWbVRnamZJODJaUndjenFUU2dz0gHbAUFVX3lxTE4xSktuVVBsUmlZdVF5VGh5UEdMbF9CR0lDUHpabnZqam5PbXh5akR0bldadGlwclprUVJEY0FtTDZkUWpna2NTNFhBNk9VLWUycUtrbzFodnVmcFFyOWlVbnhELWRQc3VXMUVLVHdMa0l0YXdVeUg3ZXlMdHFhb0l0aW91dWJJd2RCa0N4bVNlRGQtX080Tm5hS29GWTZIR25nWlQwb2NxZzFsU0VsQTJuRE1wSlR5cjNwcmc4ZC01Qzd4NHhCVmkwWmF4dHVCOGtBWGJjRXB2Yy0ybw?oc=5
+- India launches 100-week anti-drug campaign | A look at 5 similar crackdowns across the globe | India News - Hindustan Times
+  India launches 100-week anti-drug campaign. A look at 5 similar crackdowns
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxONkptYTBUZHZEUFZVTW9lMDJRT1pDOGRtVktaLW5EbHBsUjN1ZEFUcjlnT2t3eE1sTHN6NmNPaXFQdy1jdldQTDNzYmdsTVRWY0MyTjluYjRHb1ZvV3FXWUcwOVJGVmdWYUxtUGFHdm5vbFZmdDI1eUh2UVI4QWMyQ1RDcUJmMU5PbzlrejJRMlp5LVRCalJodU11NDA5V0pJcmZqTUhpLU84NWUzT3NmaWg0UGcxcUhaOTc1U2Y5MHhqeUtBVW5HeEFjcThJTVpHcXFyamRZWWVIVmtDT0FWVTFRY19Kd9IB6wFBVV95cUxPTXdxTFh3RjZWOVdXUFJ3Mkk5ZFJCYUdDT2dZREttRUR6QXJ5QUtVMWhpM3cxM3VWMjRmT251VTktU0FMVDRQVTNrdGRkejd1SGtiUFZ4M2tKd0FocXhibzd0Z1FZYUU2dGZXcXNSOUVIei10MXFtNUlTNmsxOVdaVTNnMHNsbVAtQ3V6TENISXBpNWcxU0FoUFpJZlBScURMUkN0SXR5RVphU1Rrc1hpdmVYTEo2RW5vMFdqOFlZRUhuU0xQMjMxVGR4RFQ0RXF0ZGxWcXRBMUYtb05uVWJWRUpJc3ltc05GSXpj?oc=5
 
-- India climbs to 4th position in Commonwealth Games in Glasgow - News On AIR
-  India climbs to 4th position in Commonwealth Games in
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmREcW9Kc3hNal8yZEowMGk5M3Z4aDhfMWNEMERNSUJpTnpRUXU3QXI5U0FITzFDOUt2ZEhMTFBFZVNOVy1QU0x6WmRkdG56Vy1EYWF0SjVvUUZJamJJSlFVYm84c0hFSzFnLXdmX25WMEs2dks4NXhKWF9rSlhid1BMckZ0N0w4RWVJQmhoQUNXVkRoekZB?oc=5
+- Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval - NDTV
+  Ajit Doval is the director of the National Security
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEdvaDNLLWc3R0h4Nll5bGh2Qy00M2xpTTFFSGJwTUNhMGVqWXBmX282YVBuU3dkVnE4NjV5Y3FEbGs4dWVDUDRaU2FjcUUxcXkwN1lNLWI0ZXFYVExVSW1Qc2pzeENLem5FSEtGYlA5M2hSZ2tSVGlzRzQtcXkyOUNEVE5UOHRGLTQ4UHBnSk1VbmRyWGdRNUxLZV9hNzBYT2ZObXN2LTFSaWFVOGU40gG3AUFVX3lxTFB6OWY2bkw4YjhjUGFNM1g0d1AtTWVRSTd5blJDSXRiQkU5RmctSGJZS3lqT25OSGtkUXEwZERkMl9ubHllQlpwaXhZVHhxWkZKUFFWRi1XVGpBa3QzRmRXTjBVQjBZV0phMHljeXljX2xnRHQ1OFBkTDlWaW83eXFFRmczbGlMRk1pVWxSUDVRaVp4UjMzNVRwOWVQZUZuWl9kYjNIaFNKV0dlVXdSWWprajJNLVNmTQ?oc=5
 
-- CWG 2026 Medal Tally: India in fourth spot after boxers win seven gold medals on Day 10 - Sportstar
-  The CWG 2026 Medal Tally: India in fourth spot after
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOTcwYTV4c1FpUmw1eWRKblZGU3A5b2UtN3pZdnYzUGFfUjB1OG45bzNCQ0NTX2RjZlhFODhuX28zcl9ybU11MzVqbGJwbS1NSjJTZTMyS095YXpEYWc2aVFsZks5eXRaOEJPMFUtcHdhNE85SDd5elQzM0loODA1dnpzRE1IdzdwZTN2M2dFcmZXdm10b3V6OHNmQkhhMXBKcDJvWHdfeVlMUDg5UTVoUkNCalZFekNVdG4xcXBJNklXZTlERWgxNkJNTEtkU0RPc2psNjJCNjN0YUEwVXZfSUF0cmk4X3ctV2lUZUN30gH0AUFVX3lxTE1fTi1pMmZoVy16bEJwSDZBS1VlNVptZEU0bGx5ZndNMjVLTTZ6S0pWQXdST25ubko5Ukl0UlpROWYzbFdYVHZSZ3MyeHFCak5WTW5lellzR2NkdTB0dVNjd0dCLTMtVHlsYjZ2X3RYTkRveXVDN0I2cXJPQkpFZ3d0TXF4aVBVWDdRNk40QTBPN1V0UU4zZ2N0Q3dJWEZ5SDdDTUpUQTdPOWlEdWhfNEdyT0xuR2dkYXl6UE1TSUVkSm50MnljVmJBWU1CdTdBSmZYZ01ZdnlkM3paZEpFclJsbmhLOGpndzExVDBNUWFvRHJ3TVM?oc=5
+- An exam leak in India exposed a Gen Z jobs crisis that goes much deeper - CNBC
+  An exam leak in India exposed a Gen Z jobs crisis that goes
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNUNNOFRDblhFY3dVeWloQzZJVzcyb050WUFvWWVzYlcyX2JYU1ZqOVpLcTdMUWxOakYyc1J5SlN1SEtGaGFnODZzY09yNXRlQWpmMFdSekdWcld2NjRXOHRaOERaYmVWSXg2MlE4ZF9iRmRGQWt3Z1IyeHNmYnBoSGxHcmp1MlVYNHFYSEZuQkJVLVdvX0thNl9sMnIyZ9IBowFBVV95cUxOU3l5WXVRRFRITzc2M0czVHFGWFdaVFM3aElBaU5mN1RJTmJFMGhJNTZoQWRwSVdfZVJuQkNHSFlCNDdwTXVyN2lCd2dKSWVXcERGTHRpcl9WZ0FPRUVFNE1iZWhxekhlWlJwb2t2a21fRnIxRGZORElLM3lwaHVUSDc5N2x2Vmo3cmRlOFRFVnYwUVpxQlBxYi1zTnAxMEJnaGhV?oc=5
 
 - Sarvam’s AI Arsenal
   In June, Sarvam AI entered India&#8217;s unicorn club, raising $234 Mn (about ₹2
@@ -180,45 +180,45 @@
   The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
   🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
 
-- India’s Modi says he forgives students who abused him in Cockroach protests - aljazeera.com
-  India’s Modi says he forgives students
+- India’s Modi says he forgives students who abused him in Cockroach protests - Al Jazeera
+  India’s Modi says he forgives students who
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9BeVJrT2Q2YnB4OU1mR0ZNd1AySFRkTUNXcWdBcHJJZHVMU0ZoSllOVnNtNnNnbklzQlJqeldTNmt2WHRPMjBSeEJTaGVXa0lqWmx2MFRCcl9HR1NNWEZNU3JESGFqV1NDNGJxOUtXQTBwRnNiMkl4bFg0QWxYRHgybG0xVTRLdURFODBpd0g5LUVkRjBPRGRTVXlNblM1RWsxUlMwNUx4a3czclg2ekFtb23SAboBQVVfeXFMTjlMUjc5Z1J6SmE3Ym5KeGVBU0hjSmFKa1h4M1YtdVQ3aE13cmNySFRFVWRXb3p5ZGdaYTd0Q013MXhkeU1NYWd4RnY1eWQwajdObUh6VHkyV21ZOG9uazlqOUNobmFCYjAzRUxkaUpHQzA5emYxTUVvZHM4VTc2Z2hWZWdDeEZ2YVhzSHpUSjJfRHladC1fbW41Z3VOSXd4RXFwUWZ5Z2tQbG1NaDR3WkVxWDFfN1ROMTJB?oc=5
 
-- India news Highlights, 1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
-  The Indian Express published a story on Kulgam terror attack on 1 August 2026. Chhattisgar
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbEJuWGV6V2t6Tl95d3NaQUNlZG1pTjZRa2VpQ3pjNmNBeV8yTVMyUUVfcy02UlJoamxOanpfV3dLekxjM3hCV0RxSkxnd0UxNDhWaG44TnllSjR4STAyZVlYYm9JaUk5eEIxeW1uTlhfRUVFalUyLVI4Tlp2cWU4SFNHaFhwdEw1MFVIeHlZMnJmNmVMbS0zcUtNY3lZbndMVnE0ckJyS2ZZd2dfOVgwQm92UDV0TWxRWXlTcDhQZlhZb0hsbUMwLUdBNDgxd3BsV25hODhPZGMzbDBYNXV4LXA4OE5DWENRRURmRTZnclJBUWRTY2lZcNIB_wFBVV95cUxQZVliN2VXU29KQmZMdF9yREM1QUd1M3VFck83QmdYRDFMdjZjWFUyLUNueUgzdXA0cnNNRXlhT1EwSzZfcXNOcVJuWlVwOGU4V1hKVmJEZmFmZldWdDZsd1Q3eGdEMTN4b011YXhuZHFiRFB2cDc1ZERoZzMyNFllZVJDeW4zYm4xWXFPaEtsWjQ4cU1lQk1SeHYxdlVISTIxNlhCcWQzcEc4Z0tPbVQxQkI5dF9FRUNKT1NHRjN6ZFRrRGVYMi1wdW52X3dNZnZhU0huRlctV05BVW5yaXdrajQtekY5Y1hEeG9xR0VycHMyTUVYaEtValR2cFBSN3M?oc=5
+- 'Drugs Can Give You Brief High But Make Your Entire Life Low': PM Modi At Anti-Drugs Campaign - NDTV
+  'Drugs Can Give You Brief High But Make Your Entire Life Low
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeVc0YUEtdEFpelVLMVo4aUt3WlNKd3BjTUluOVhzZi03ZHdiVVRGeUtteHdXMFBlNW9LODBMNzhpWlZFdUNVM2dCVXdNTGp4RDlmSlFSRnFVNjgxWGRGbTVvUUxyTExmYy1teTIxVXRRdlJHV1dmTDFFaTdwQlBJSGRfd3pfU211bGx0NHRCb2Y0X01uUEI5UWsyVTRnSlg4MUJydnEzRmtraG5zZDB5amZyMGxaV3lOYzVpS05xaHREWGFJZm03RGJXOEFIQmRTM2ZyVzNHWEdRYmpxc0ZpQkxLby1NWm5CUnVZ0gHzAUFVX3lxTE1tcVBnN0t2OGdZaEstYkJOMW1QVlQtc2lrQ0ZNLTNuZGRiZGJfOTk0UUMzdmRNYnJodHNoQ2lJUWRHZGhCRk5aVEszdmo0UGJWbWU0eTgwM0pKVURYNVdHTTdfcURjVGZORkdQMHBCVFY4eWx4di16b2RibTl0Ulo1YXQxdW5LMDdJYXdxLUdoaXRocmRXRWh2NjY4SHBKT01DQ3dGeWNneF8tWE5fa3hlcm1Ydy1yR2M4MHRGUGxrMElFWGhMeVp6MDFobFgtRkJ5b3MtYV84cmN6Mk43UEU2ak1QSmVHQWFUbFRXOVAtRUloMA?oc=5
 
-- 'Why Live In Dubai If You Love India': Raj Thackeray Jabs Vivek Oberoi, R Madhavan - NDTV
-  'Why Live In Dubai If You Love India': Raj Thacker
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUUllRjZ4b3hiZ3B3LTQ5SDBxQk1TbHItNDIzWHJ2d3JqLU9TU2RjUy1UbFJwWHZpeElCZTdiVG1WeEo4c0ZTZVM3ZFhfUE5WaHdJTXBYVFliaXR4TS1HaTlEUmYyQV9jR1I5cUJOeVlwNnZhbERWLXZGLURmZno3OGpoUXk1aGtwLWVkNkx2cUh1d0VQWV9YWVpFWlF6VkFZa2FIQm5ONGpJUG1pb3U5VHcxcHhJMzNRY1lmMElCWXpWbVRnamZJODJaUndjenFUU2dz0gHbAUFVX3lxTE4xSktuVVBsUmlZdVF5VGh5UEdMbF9CR0lDUHpabnZqam5PbXh5akR0bldadGlwclprUVJEY0FtTDZkUWpna2NTNFhBNk9VLWUycUtrbzFodnVmcFFyOWlVbnhELWRQc3VXMUVLVHdMa0l0YXdVeUg3ZXlMdHFhb0l0aW91dWJJd2RCa0N4bVNlRGQtX080Tm5hS29GWTZIR25nWlQwb2NxZzFsU0VsQTJuRE1wSlR5cjNwcmc4ZC01Qzd4NHhCVmkwWmF4dHVCOGtBWGJjRXB2Yy0ybw?oc=5
+- India launches 100-week anti-drug campaign | A look at 5 similar crackdowns across the globe | India News - Hindustan Times
+  India launches 100-week anti-drug campaign. A look at 5 similar crackdowns
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxONkptYTBUZHZEUFZVTW9lMDJRT1pDOGRtVktaLW5EbHBsUjN1ZEFUcjlnT2t3eE1sTHN6NmNPaXFQdy1jdldQTDNzYmdsTVRWY0MyTjluYjRHb1ZvV3FXWUcwOVJGVmdWYUxtUGFHdm5vbFZmdDI1eUh2UVI4QWMyQ1RDcUJmMU5PbzlrejJRMlp5LVRCalJodU11NDA5V0pJcmZqTUhpLU84NWUzT3NmaWg0UGcxcUhaOTc1U2Y5MHhqeUtBVW5HeEFjcThJTVpHcXFyamRZWWVIVmtDT0FWVTFRY19Kd9IB6wFBVV95cUxPTXdxTFh3RjZWOVdXUFJ3Mkk5ZFJCYUdDT2dZREttRUR6QXJ5QUtVMWhpM3cxM3VWMjRmT251VTktU0FMVDRQVTNrdGRkejd1SGtiUFZ4M2tKd0FocXhibzd0Z1FZYUU2dGZXcXNSOUVIei10MXFtNUlTNmsxOVdaVTNnMHNsbVAtQ3V6TENISXBpNWcxU0FoUFpJZlBScURMUkN0SXR5RVphU1Rrc1hpdmVYTEo2RW5vMFdqOFlZRUhuU0xQMjMxVGR4RFQ0RXF0ZGxWcXRBMUYtb05uVWJWRUpJc3ltc05GSXpj?oc=5
 
-- India climbs to 4th position in Commonwealth Games in Glasgow - News On AIR
-  India climbs to 4th position in Commonwealth Games in
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmREcW9Kc3hNal8yZEowMGk5M3Z4aDhfMWNEMERNSUJpTnpRUXU3QXI5U0FITzFDOUt2ZEhMTFBFZVNOVy1QU0x6WmRkdG56Vy1EYWF0SjVvUUZJamJJSlFVYm84c0hFSzFnLXdmX25WMEs2dks4NXhKWF9rSlhid1BMckZ0N0w4RWVJQmhoQUNXVkRoekZB?oc=5
+- Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval - NDTV
+  Ajit Doval is the director of the National Security
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEdvaDNLLWc3R0h4Nll5bGh2Qy00M2xpTTFFSGJwTUNhMGVqWXBmX282YVBuU3dkVnE4NjV5Y3FEbGs4dWVDUDRaU2FjcUUxcXkwN1lNLWI0ZXFYVExVSW1Qc2pzeENLem5FSEtGYlA5M2hSZ2tSVGlzRzQtcXkyOUNEVE5UOHRGLTQ4UHBnSk1VbmRyWGdRNUxLZV9hNzBYT2ZObXN2LTFSaWFVOGU40gG3AUFVX3lxTFB6OWY2bkw4YjhjUGFNM1g0d1AtTWVRSTd5blJDSXRiQkU5RmctSGJZS3lqT25OSGtkUXEwZERkMl9ubHllQlpwaXhZVHhxWkZKUFFWRi1XVGpBa3QzRmRXTjBVQjBZV0phMHljeXljX2xnRHQ1OFBkTDlWaW83eXFFRmczbGlMRk1pVWxSUDVRaVp4UjMzNVRwOWVQZUZuWl9kYjNIaFNKV0dlVXdSWWprajJNLVNmTQ?oc=5
 
-- CWG 2026 Medal Tally: India in fourth spot after boxers win seven gold medals on Day 10 - Sportstar
-  The CWG 2026 Medal Tally: India in fourth spot after
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOTcwYTV4c1FpUmw1eWRKblZGU3A5b2UtN3pZdnYzUGFfUjB1OG45bzNCQ0NTX2RjZlhFODhuX28zcl9ybU11MzVqbGJwbS1NSjJTZTMyS095YXpEYWc2aVFsZks5eXRaOEJPMFUtcHdhNE85SDd5elQzM0loODA1dnpzRE1IdzdwZTN2M2dFcmZXdm10b3V6OHNmQkhhMXBKcDJvWHdfeVlMUDg5UTVoUkNCalZFekNVdG4xcXBJNklXZTlERWgxNkJNTEtkU0RPc2psNjJCNjN0YUEwVXZfSUF0cmk4X3ctV2lUZUN30gH0AUFVX3lxTE1fTi1pMmZoVy16bEJwSDZBS1VlNVptZEU0bGx5ZndNMjVLTTZ6S0pWQXdST25ubko5Ukl0UlpROWYzbFdYVHZSZ3MyeHFCak5WTW5lellzR2NkdTB0dVNjd0dCLTMtVHlsYjZ2X3RYTkRveXVDN0I2cXJPQkpFZ3d0TXF4aVBVWDdRNk40QTBPN1V0UU4zZ2N0Q3dJWEZ5SDdDTUpUQTdPOWlEdWhfNEdyT0xuR2dkYXl6UE1TSUVkSm50MnljVmJBWU1CdTdBSmZYZ01ZdnlkM3paZEpFclJsbmhLOGpndzExVDBNUWFvRHJ3TVM?oc=5
+- An exam leak in India exposed a Gen Z jobs crisis that goes much deeper - CNBC
+  An exam leak in India exposed a Gen Z jobs crisis that goes
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNUNNOFRDblhFY3dVeWloQzZJVzcyb050WUFvWWVzYlcyX2JYU1ZqOVpLcTdMUWxOakYyc1J5SlN1SEtGaGFnODZzY09yNXRlQWpmMFdSekdWcld2NjRXOHRaOERaYmVWSXg2MlE4ZF9iRmRGQWt3Z1IyeHNmYnBoSGxHcmp1MlVYNHFYSEZuQkJVLVdvX0thNl9sMnIyZ9IBowFBVV95cUxOU3l5WXVRRFRITzc2M0czVHFGWFdaVFM3aElBaU5mN1RJTmJFMGhJNTZoQWRwSVdfZVJuQkNHSFlCNDdwTXVyN2lCd2dKSWVXcERGTHRpcl9WZ0FPRUVFNE1iZWhxekhlWlJwb2t2a21fRnIxRGZORElLM3lwaHVUSDc5N2x2Vmo3cmRlOFRFVnYwUVpxQlBxYi1zTnAxMEJnaGhV?oc=5
 
-- India’s Modi says he forgives students who abused him in Cockroach protests - aljazeera.com
-  India’s Modi says he forgives students
+- India’s Modi says he forgives students who abused him in Cockroach protests - Al Jazeera
+  India’s Modi says he forgives students who
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9BeVJrT2Q2YnB4OU1mR0ZNd1AySFRkTUNXcWdBcHJJZHVMU0ZoSllOVnNtNnNnbklzQlJqeldTNmt2WHRPMjBSeEJTaGVXa0lqWmx2MFRCcl9HR1NNWEZNU3JESGFqV1NDNGJxOUtXQTBwRnNiMkl4bFg0QWxYRHgybG0xVTRLdURFODBpd0g5LUVkRjBPRGRTVXlNblM1RWsxUlMwNUx4a3czclg2ekFtb23SAboBQVVfeXFMTjlMUjc5Z1J6SmE3Ym5KeGVBU0hjSmFKa1h4M1YtdVQ3aE13cmNySFRFVWRXb3p5ZGdaYTd0Q013MXhkeU1NYWd4RnY1eWQwajdObUh6VHkyV21ZOG9uazlqOUNobmFCYjAzRUxkaUpHQzA5emYxTUVvZHM4VTc2Z2hWZWdDeEZ2YVhzSHpUSjJfRHladC1fbW41Z3VOSXd4RXFwUWZ5Z2tQbG1NaDR3WkVxWDFfN1ROMTJB?oc=5
 
-- India news Highlights, 1 August 2026 | Kulgam terror attack: Chhattisgarh CM announces Rs 20 lakh ex gratia for victims’ families - The Indian Express
-  The Indian Express published a story on Kulgam terror attack on 1 August 2026. Chhattisgar
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbEJuWGV6V2t6Tl95d3NaQUNlZG1pTjZRa2VpQ3pjNmNBeV8yTVMyUUVfcy02UlJoamxOanpfV3dLekxjM3hCV0RxSkxnd0UxNDhWaG44TnllSjR4STAyZVlYYm9JaUk5eEIxeW1uTlhfRUVFalUyLVI4Tlp2cWU4SFNHaFhwdEw1MFVIeHlZMnJmNmVMbS0zcUtNY3lZbndMVnE0ckJyS2ZZd2dfOVgwQm92UDV0TWxRWXlTcDhQZlhZb0hsbUMwLUdBNDgxd3BsV25hODhPZGMzbDBYNXV4LXA4OE5DWENRRURmRTZnclJBUWRTY2lZcNIB_wFBVV95cUxQZVliN2VXU29KQmZMdF9yREM1QUd1M3VFck83QmdYRDFMdjZjWFUyLUNueUgzdXA0cnNNRXlhT1EwSzZfcXNOcVJuWlVwOGU4V1hKVmJEZmFmZldWdDZsd1Q3eGdEMTN4b011YXhuZHFiRFB2cDc1ZERoZzMyNFllZVJDeW4zYm4xWXFPaEtsWjQ4cU1lQk1SeHYxdlVISTIxNlhCcWQzcEc4Z0tPbVQxQkI5dF9FRUNKT1NHRjN6ZFRrRGVYMi1wdW52X3dNZnZhU0huRlctV05BVW5yaXdrajQtekY5Y1hEeG9xR0VycHMyTUVYaEtValR2cFBSN3M?oc=5
+- 'Drugs Can Give You Brief High But Make Your Entire Life Low': PM Modi At Anti-Drugs Campaign - NDTV
+  'Drugs Can Give You Brief High But Make Your Entire Life Low
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeVc0YUEtdEFpelVLMVo4aUt3WlNKd3BjTUluOVhzZi03ZHdiVVRGeUtteHdXMFBlNW9LODBMNzhpWlZFdUNVM2dCVXdNTGp4RDlmSlFSRnFVNjgxWGRGbTVvUUxyTExmYy1teTIxVXRRdlJHV1dmTDFFaTdwQlBJSGRfd3pfU211bGx0NHRCb2Y0X01uUEI5UWsyVTRnSlg4MUJydnEzRmtraG5zZDB5amZyMGxaV3lOYzVpS05xaHREWGFJZm03RGJXOEFIQmRTM2ZyVzNHWEdRYmpxc0ZpQkxLby1NWm5CUnVZ0gHzAUFVX3lxTE1tcVBnN0t2OGdZaEstYkJOMW1QVlQtc2lrQ0ZNLTNuZGRiZGJfOTk0UUMzdmRNYnJodHNoQ2lJUWRHZGhCRk5aVEszdmo0UGJWbWU0eTgwM0pKVURYNVdHTTdfcURjVGZORkdQMHBCVFY4eWx4di16b2RibTl0Ulo1YXQxdW5LMDdJYXdxLUdoaXRocmRXRWh2NjY4SHBKT01DQ3dGeWNneF8tWE5fa3hlcm1Ydy1yR2M4MHRGUGxrMElFWGhMeVp6MDFobFgtRkJ5b3MtYV84cmN6Mk43UEU2ak1QSmVHQWFUbFRXOVAtRUloMA?oc=5
 
-- 'Why Live In Dubai If You Love India': Raj Thackeray Jabs Vivek Oberoi, R Madhavan - NDTV
-  'Why Live In Dubai If You Love India': Raj Thacker
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUUllRjZ4b3hiZ3B3LTQ5SDBxQk1TbHItNDIzWHJ2d3JqLU9TU2RjUy1UbFJwWHZpeElCZTdiVG1WeEo4c0ZTZVM3ZFhfUE5WaHdJTXBYVFliaXR4TS1HaTlEUmYyQV9jR1I5cUJOeVlwNnZhbERWLXZGLURmZno3OGpoUXk1aGtwLWVkNkx2cUh1d0VQWV9YWVpFWlF6VkFZa2FIQm5ONGpJUG1pb3U5VHcxcHhJMzNRY1lmMElCWXpWbVRnamZJODJaUndjenFUU2dz0gHbAUFVX3lxTE4xSktuVVBsUmlZdVF5VGh5UEdMbF9CR0lDUHpabnZqam5PbXh5akR0bldadGlwclprUVJEY0FtTDZkUWpna2NTNFhBNk9VLWUycUtrbzFodnVmcFFyOWlVbnhELWRQc3VXMUVLVHdMa0l0YXdVeUg3ZXlMdHFhb0l0aW91dWJJd2RCa0N4bVNlRGQtX080Tm5hS29GWTZIR25nWlQwb2NxZzFsU0VsQTJuRE1wSlR5cjNwcmc4ZC01Qzd4NHhCVmkwWmF4dHVCOGtBWGJjRXB2Yy0ybw?oc=5
+- India launches 100-week anti-drug campaign | A look at 5 similar crackdowns across the globe | India News - Hindustan Times
+  India launches 100-week anti-drug campaign. A look at 5 similar crackdowns
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxONkptYTBUZHZEUFZVTW9lMDJRT1pDOGRtVktaLW5EbHBsUjN1ZEFUcjlnT2t3eE1sTHN6NmNPaXFQdy1jdldQTDNzYmdsTVRWY0MyTjluYjRHb1ZvV3FXWUcwOVJGVmdWYUxtUGFHdm5vbFZmdDI1eUh2UVI4QWMyQ1RDcUJmMU5PbzlrejJRMlp5LVRCalJodU11NDA5V0pJcmZqTUhpLU84NWUzT3NmaWg0UGcxcUhaOTc1U2Y5MHhqeUtBVW5HeEFjcThJTVpHcXFyamRZWWVIVmtDT0FWVTFRY19Kd9IB6wFBVV95cUxPTXdxTFh3RjZWOVdXUFJ3Mkk5ZFJCYUdDT2dZREttRUR6QXJ5QUtVMWhpM3cxM3VWMjRmT251VTktU0FMVDRQVTNrdGRkejd1SGtiUFZ4M2tKd0FocXhibzd0Z1FZYUU2dGZXcXNSOUVIei10MXFtNUlTNmsxOVdaVTNnMHNsbVAtQ3V6TENISXBpNWcxU0FoUFpJZlBScURMUkN0SXR5RVphU1Rrc1hpdmVYTEo2RW5vMFdqOFlZRUhuU0xQMjMxVGR4RFQ0RXF0ZGxWcXRBMUYtb05uVWJWRUpJc3ltc05GSXpj?oc=5
 
-- India climbs to 4th position in Commonwealth Games in Glasgow - News On AIR
-  India climbs to 4th position in Commonwealth Games in
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmREcW9Kc3hNal8yZEowMGk5M3Z4aDhfMWNEMERNSUJpTnpRUXU3QXI5U0FITzFDOUt2ZEhMTFBFZVNOVy1QU0x6WmRkdG56Vy1EYWF0SjVvUUZJamJJSlFVYm84c0hFSzFnLXdmX25WMEs2dks4NXhKWF9rSlhid1BMckZ0N0w4RWVJQmhoQUNXVkRoekZB?oc=5
+- Youth May Mistake Freedom For Liberty To Do What One Wants: Ajit Doval - NDTV
+  Ajit Doval is the director of the National Security
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEdvaDNLLWc3R0h4Nll5bGh2Qy00M2xpTTFFSGJwTUNhMGVqWXBmX282YVBuU3dkVnE4NjV5Y3FEbGs4dWVDUDRaU2FjcUUxcXkwN1lNLWI0ZXFYVExVSW1Qc2pzeENLem5FSEtGYlA5M2hSZ2tSVGlzRzQtcXkyOUNEVE5UOHRGLTQ4UHBnSk1VbmRyWGdRNUxLZV9hNzBYT2ZObXN2LTFSaWFVOGU40gG3AUFVX3lxTFB6OWY2bkw4YjhjUGFNM1g0d1AtTWVRSTd5blJDSXRiQkU5RmctSGJZS3lqT25OSGtkUXEwZERkMl9ubHllQlpwaXhZVHhxWkZKUFFWRi1XVGpBa3QzRmRXTjBVQjBZV0phMHljeXljX2xnRHQ1OFBkTDlWaW83eXFFRmczbGlMRk1pVWxSUDVRaVp4UjMzNVRwOWVQZUZuWl9kYjNIaFNKV0dlVXdSWWprajJNLVNmTQ?oc=5
 
-- CWG 2026 Medal Tally: India in fourth spot after boxers win seven gold medals on Day 10 - Sportstar
-  The CWG 2026 Medal Tally: India in fourth spot after
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOTcwYTV4c1FpUmw1eWRKblZGU3A5b2UtN3pZdnYzUGFfUjB1OG45bzNCQ0NTX2RjZlhFODhuX28zcl9ybU11MzVqbGJwbS1NSjJTZTMyS095YXpEYWc2aVFsZks5eXRaOEJPMFUtcHdhNE85SDd5elQzM0loODA1dnpzRE1IdzdwZTN2M2dFcmZXdm10b3V6OHNmQkhhMXBKcDJvWHdfeVlMUDg5UTVoUkNCalZFekNVdG4xcXBJNklXZTlERWgxNkJNTEtkU0RPc2psNjJCNjN0YUEwVXZfSUF0cmk4X3ctV2lUZUN30gH0AUFVX3lxTE1fTi1pMmZoVy16bEJwSDZBS1VlNVptZEU0bGx5ZndNMjVLTTZ6S0pWQXdST25ubko5Ukl0UlpROWYzbFdYVHZSZ3MyeHFCak5WTW5lellzR2NkdTB0dVNjd0dCLTMtVHlsYjZ2X3RYTkRveXVDN0I2cXJPQkpFZ3d0TXF4aVBVWDdRNk40QTBPN1V0UU4zZ2N0Q3dJWEZ5SDdDTUpUQTdPOWlEdWhfNEdyT0xuR2dkYXl6UE1TSUVkSm50MnljVmJBWU1CdTdBSmZYZ01ZdnlkM3paZEpFclJsbmhLOGpndzExVDBNUWFvRHJ3TVM?oc=5
+- An exam leak in India exposed a Gen Z jobs crisis that goes much deeper - CNBC
+  An exam leak in India exposed a Gen Z jobs crisis that goes
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNUNNOFRDblhFY3dVeWloQzZJVzcyb050WUFvWWVzYlcyX2JYU1ZqOVpLcTdMUWxOakYyc1J5SlN1SEtGaGFnODZzY09yNXRlQWpmMFdSekdWcld2NjRXOHRaOERaYmVWSXg2MlE4ZF9iRmRGQWt3Z1IyeHNmYnBoSGxHcmp1MlVYNHFYSEZuQkJVLVdvX0thNl9sMnIyZ9IBowFBVV95cUxOU3l5WXVRRFRITzc2M0czVHFGWFdaVFM3aElBaU5mN1RJTmJFMGhJNTZoQWRwSVdfZVJuQkNHSFlCNDdwTXVyN2lCd2dKSWVXcERGTHRpcl9WZ0FPRUVFNE1iZWhxekhlWlJwb2t2a21fRnIxRGZORElLM3lwaHVUSDc5N2x2Vmo3cmRlOFRFVnYwUVpxQlBxYi1zTnAxMEJnaGhV?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-02 08:17:19 UTC_
+_Last updated: 2026-08-02 13:12:39 UTC_
