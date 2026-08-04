@@ -1,44 +1,92 @@
 # 📰 Daily News Summaries
 
-- Housing demand remains strong, creating market share opportunity, says Pirojsha Godrej
-  India's top residential developer reports 22% growth in sales bookings. Profit decline caused by lower revenue recognition
-  🔗 https://www.livemint.com/companies/news/housing-demand-remains-strong-creating-market-share-opportunity-says-pirojsha-godrej-11785831562065.html
+- Why India's youth anger has become Modi's biggest challenge - BBC
+  Why India's youth anger has become
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
 
-- Old Monk Row: What can legally be called ‘rum’ or ‘whisky’ | Explained
-  The primary distinction between rum and whisky lies in their base ingredients and permissible colouring
-  🔗 https://www.livemint.com/companies/news/old-monk-row-what-can-legally-be-called-rum-or-whisky-explained-11785845265738.html
+- How gen Z exposed India’s prime-time propaganda machine - The Guardian
+  How gen Z exposed India’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
 
-- Nestlé India says long-term growth intact despite demand concerns
-  The company remains confident of navigating short-term inflationary and macroeconomic headwinds. Management flagged risks from
-  🔗 https://www.livemint.com/companies/news/nestl-india-says-long-term-growth-intact-despite-demand-concerns-11785841006758.html
+- What Do India’s Gen Z Protests Mean for Modi? - newyorker.com
+  What Do India’s Gen
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQSXhOcldnUUJYOG9tWFliX0lJWkNBeVhMdWY4VHNWZHczZmJoV1J1eWpsMzE5VUZ5MEtfckpEZEo4RjVsUVFtT1pWdGwtM3pfSXFrMGR5bWVUOFFLaU4zTUlIT0lqQTdzZnp3ZGh1R2hHc19kZGo5ZzVMdlE0TkxjR1lRY3k0elRxa1E?oc=5
 
-- Delhi HC closes contempt case against SpiceJet's Ajay Singh in lessor dispute
-  The high court said substantial compliance has been made in returning leased aircraft assets. TWC Aviation Capital will pursue execution proceedings
-  🔗 https://www.livemint.com/companies/news/delhi-hc-closes-contempt-case-against-spicejets-ajay-singh-in-lessor-dispute-airline-dispute-aircraft-11785839319448.html
+- Udhayanidhi Stalin Arrested Over Remarks On Actor Trisha, DMK Cries "Vendetta" - NDTV
+  Udhayanidhi Stalin arrested over Rem
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlMyTEM1NDM0b1ZvejktNGZXQ0V4RFpxQjJCSkJyVDNIYU42ZEhuTWxiLU52RjczN2NtVkRzbWc4MU13Q1JkaFlNTThjQzRVMXhBVDNaa3k2Vkp6bFpRaDJwV1pGanVJZXBwTGFRdGtFVjRob213WkUwcWlQbzFrTWpZY1VUMVB6S1NWUFVjUWVMOFJQNElManM5RWNhcE8wT1BMTEtVMGRGVG1FQ3VVQUZlX2E4bjjSAb8BQVVfeXFMTkVKUk1vX2Z0M2pGanBxODB2a2tkaTNRcnhVSE1TdUFkQjl0M0pUaURuODJPOGpGd3ZVXzRqTktwbjZ0RHVTdEFWZVJwZEhpY0pOSXBaVENDdFJpdjZuWmV6TXpfelRfeWVZOHJKU1RhQ2JHOUFGQ0otS0x2bTkzcHBDYnVxbzVic1JqLUtwYXhZUG9KVUdzcVkxTzRKTmlsZDh4RVFBdGF2eWtNN010Z3oxTUhjVDJwRGI5OER5OHc?oc=5
 
-- OpenAI hits back: 'We do not have, nor want' Apple's trade secrets, as iPhone maker seeks injunction
-  OpenAI calls Apple's trade secrets lawsuit ‘careless, aggressive and oddly
-  🔗 https://www.livemint.com/companies/news/openai-hits-back-we-do-not-have-nor-want-apples-trade-secrets-as-iphone-maker-seeks-injunction-11785840730392.html
+- Rs 15.56 crore: The money behind the medal at 2026 Commonwealth Games - The Times of India
+  The Times of India has revealed the money behind the medal at 20
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxObElneGZFWlhKeTc2VndyWjdueEJCVWRhMFJqSnFZMGpzejdad1ExT1B3U05QYlFZanRNZzRzei1WT1hpa1BaWjgwNWNSSXd5c2xDSF91ZDlPQXQ3RFN1NUR0ZlZrOWM0MnVnS0lWWnVUc1ZrTkJpTW9zcGhoYm02blpLMG03enlEU29FVlJ0Njh3ZlRNSG94Y3E4dVhIVHlWZm1zcWQxdTdYR2Z1WUhWVVA3a0JURTg3YmxtSTVESkdGelgwbHRxM3pTSUNKNjYxNmdoSUJzZk1oUER5WGpNQ25oYmRrMGk4X0dfcXpsODg3Sk0?oc=5
 
-- Nykaa Q1 Results: Net profit surges over threefold to  ₹80 crore on strong beauty demand
-  FSN E-Commerce Ventures, Nykaa's parent, reported a 226% YoY increase in profit to  ₹80 crore for the June quarter. Revenue rose
-  🔗 https://www.livemint.com/market/stock-market-news/nykaa-q1-results-net-profit-surges-over-threefold-to-rs-80-crore-on-strong-beauty-demand-11785848895992.html
+- What is Trump Media's Truth API and why is it controversial? - BBC
+  &nbsp;&ngt;<
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVjZpQjZrNk55T2FMWjZhbHd0Y1d6b29EN2plNnRRZXB5OGpWTUYwUHhhNkVmWUJoQk0wUDE5X3JnNm9hOVoxVlpsNllNOFF4cXUyV2Q3T2dxZw?oc=5
 
-- Closing Auction Session debuts successfully; BSE, NSE report strong participation
-  The BSE reported strong participation from over 400 trading members. The NSE noted 515 members engaged, despite a spike in indices being labeled an aberration.
-  🔗 https://www.livemint.com/market/stock-market-news/closing-auction-session-debuts-successfully-bse-nse-report-strong-participation-11785849028888.html
+- Labour Minister Vivek says Advanced Technology Centres will boost employability among youngsters - The Hindu
+  Labour Minister Vivek says Advanced Technology Centres will boost
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOHg4SGV0T0hEMTdlRTIwcm9LdG10N0tsTEpXbWlHWHlseFN0ZlphZlBieW1Ra3dFX0dmNW5NVmJrMVlQdU9MTENrRHI4YUJjOWlPTVAyTXpQRHRWd2Ezc1N5dk9hSmhNd1pDM2Z5SkFjOVR6d2NaR1NfVU9uejJxVHBFOW1WZ3FGSTc5WUFsZV9yb1RlY1hTVHpveHIzUVRqQ05iaVUwZ1dWRDBONWZ1d2VjdGFYSnlrSnM4enlqZG1MYjJmMzhHcy1OZ3BfakNZN0lYdkkzaU5zcWkxNmk5eThiVXZ5dzE2Wnc1em5iaEItS2xCd1Vrb9IB_wFBVV95cUxNQ1c4U3ZpT2RqTFZCZDFOZGR2TjlaeHFhR1ExMWctOTNZRkpYNUo5YTF1bFFOck8zWHEyeTM5VVZaUTlRNzVxaXNnZUJ3amU3Z2hud3VLUlo4U0xNOGdlX2p4MDJvVzNKa2pISzM1a2pDMjdLUFkydHRyVzgtdE5RSE1DTm1fTlk4SmZKWFZuU1VqV0ljWFZEZXVUUkZkLUR3S1o2VUJzeDVfOFpsYm52VDVCMjQ0Y2NnS3JZTU0yWExfSmF1LUxucnU0dlNvSkRGODJMbEVGbkh1VV9XUFdySlRYMUx6YVJFYWh2RW04MVVxUlpuQk5XNGFJXy1uZ2c?oc=5
 
-- Kalyan Jewellers Q1 Results: Net profit jumps 32% YoY to  ₹349 crore; margins contract
-  Kalyan Jewellers reported a net profit of  ₹348 crore for the June quarter, a 32% YoY increase. Revenue rose 46 per cent YoY
-  🔗 https://www.livemint.com/market/kalyan-jewellers-q1-results-net-profit-jumps-32-yoy-to-rs-349-crore-margins-contract-11785845252707.html
+- How New Vehicles Will Get Crash Warnings With V2V Technology From 2028 - NDTV
+  How New Vehicles Will Get Crash Warnings With V
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHFVSHYtajFmVmxzVWl5OEpFRmRYcE03WDFiSDBCVVA3RmxwcmdhVV9NMkhYZnFYUkRkaE5USVc1d216SlhWZU1aVzBtLXJhT05kWXhyVTFJYm9mUFlQaDBGOFh5UnhRazlzZWIwZERFeWU3Q0p2SnlrZ3FlQnVfWkpWUUttTkpWb0NCaFlEb1Zya21HbFBUT2IxcC0zQ2UxanpaeUJtMUpXMmRoYnIzZtIBuAFBVV95cUxPX0VDdDZRWjlOSExVckNsVDVxdWxhVWp5bFBXTmJ3S0hLUXNIaUNxWGJCaUNYWFVEb29HZnVjWFZaR1pZemthTGJ5TUJJNXZORGVhajE2N3ZiVERnUkd2SFh4bnNweHhmUEFfeHAtRUdnTW9SNlpVSnY5RmJjNjhTZDQ3Q1FRdWZzVWpMY25IdTBNamZnNnNzSk9yYmtPTml4YThTX1JqS0hTWUZJZUlRZkN0WEhqZ2I0?oc=5
 
-- Bharti Airtel Q1 Results: Profit climbs on higher subscriber upgrades, robust data usage
-  Bharti Airtel reported a consolidated net profit of  ₹8,167 crore for Q1FY27.
-  🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-q1-results-net-profit-rises-37-yoy-to-rs-8-167-crore-revenue-jumps-18-11785842962022.html
+- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - Al Jazeera
+  Al Jazeera reports that Palantir
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01GRVZqRVFBMEtzTmpMczVIZVh4clg4MmpGekJzczVjQi1qUUVfOG4wZXlXY0d4aUFZRlNGUC14Y0V3ZVpRMnpDRkNtUnoyelFWOU9yOG9YVWotUEY2azFlTDJDZmkwUXlsMHFqSUxINGFJSlhiS0t0WVpvSDk0dVdiMThycnVPbWwzMlkycmJoeDVMTlFvdGZ0aS1FamRERTVsLWhaVHVreHFGX2k1QnVpUdIBuAFBVV95cUxNVzl5dHI4Q3UzaXZtTFN6UWdVcjVZeTEyMDJwMnJKZFlqbUVaMlJfSF9GclZfRUh4elFFUExNZDdxc1B5NkRRaV9KcGV4QzZ0TWlNM2dWMGY5VmxSUllzTElZRE96dnFKeTJMNXNfX19Kc054SEFlWUxuM2d3SklRRlBYNFhkZVlCWFdzODFmUXZrQUUyUW9lUmNLY0ZFRFA3enNJdVhGUEltcXNZQ2QxU3p0OXotOERH?oc=5
 
-- Bharti Airtel Q1 results: Net profit jumps 37% to  ₹8,167 crore; revenue up 18% - Key highlights
-  Bharti Airtel announced its Q1FY27 earnings, reporting a 37% rise in net profit to  �
-  🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-q1-results-net-profit-jumps-37-to-rs-8-167-crore-revenue-up-18-key-highlights-11785837385759.html
+- India developed intelligence-led and technology-driven model to combat fugitive criminals: MHA - News On AIR
+  India developed intelligence-led and technology-driven model to
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDhnbVpiOWg2VkNNWXU3TUhTckg5VWJQSVltMmVNT19mTlNpcmJXQnUxeDhzTWUtQ0w4d2c1TjNuM2VIZlE0eU1YNVdISjV4ZVVUdjItN1lBenVWWFdUekstbHQxMmM2NlBJLS1rZE9ocTVkNTQ3VGY4MnUwdWhhWDEyRjZYdjNvVDlfRzNtd2c4RVFDVVI4MWtpalJUVXBSVjkxMWd6eEFoQ00xcWs0?oc=5
+
+- Codelco Halts Expansion Work at Top Mine on New Seismic Risk
+  Codelco is suspending work on a project designed to extend the life of its biggest copper mine in Chile. A year after a rock burst killed six workers
+  🔗 https://www.livemint.com/companies/codelco-halts-expansion-work-at-top-mine-on-new-seismic-risk-11785870763858.html
+
+- OpenAI pays $3.2 million in US probe over hiring foreign workers
+  OpenAI pays $3.2
+  🔗 https://www.livemint.com/companies/openai-pays-3-2-million-in-us-probe-over-hiring-foreign-workers-11785870702527.html
+
+- Tom Garfinkel steps down as president, CEO of Dolphins after 13 years, will remain with organization
+  Tom Garfinkel steps down as president, CEO of
+  🔗 https://www.livemint.com/companies/tom-garfinkel-steps-down-as-president-ceo-of-dolphins-after-13-years-will-remain-with-organization-11785863468189.html
+
+- Marico delivers bumper Q1, confident of navigating macro headwinds
+  Strong volume growth and lower input costs boosted margins in the June quarter. The company does not expect further pricing action in
+  🔗 https://www.livemint.com/companies/company-results/marico-delivers-bumper-q1-confident-of-navigating-macro-headwinds-11785851932945.html
+
+- In first address, CEO Walsh signals IndiGo’s global ambitions despite aviation headwinds
+  The airline is celebrating its 20th anniversary this year. The new CEO said supply chain constraints, airspace disruptions
+  🔗 https://www.livemint.com/companies/news/in-first-address-ceo-walsh-signals-indigo-s-global-ambitions-despite-aviation-headwinds-11785850445841.html
+
+- CBOT grains, soybeans fall as oil drops on Iran hopes
+  GRAINS-CBOT grains
+  🔗 https://www.livemint.com/market/cbot-grains-soybeans-fall-as-oil-drops-on-iran-hopes-11785869727323.html
+
+- Gold, silver prices today: Comex gold jumps $61, silver tops $60 on US-Iran de-escalation hopes
+  Gold and silver prices rose on August 4, driven by easing US-Iran tensions and lower crude oil prices. Gold futures increased by $61 to $4,151 while silver prices climbed $
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-jumps-61-silver-tops-60-on-us-iran-de-escalation-hopes-11785863108924.html
+
+- Palantir climbs 27% on 'otherworldly' AI demand; Karp tells shareholders business has 'Marxist' values
+  Palantir Technologies' shares surged after raising its financial outlook. The company is also projecting sales of up to $8.16 billion, exceeding analyst estimates.
+  🔗 https://www.livemint.com/market/stock-market-news/palantir-climbs-27-on-otherworldly-ai-demand-karp-tells-shareholders-business-has-marxist-values-11785861835803.html
+
+- SpaceX faces its first earnings test after a turbulent IPO debut; expert says, ‘have very little confidence’
+  SpaceX's first earnings release following its record initial public offering is one of the most anticipated reports of the summer for traders on Wall Street.
+  🔗 https://www.livemint.com/market/stock-market-news/spacex-faces-its-first-earnings-test-after-a-turbulent-ipo-debut-expert-says-have-very-little-confidence-11785859718961.html
+
+- Crude oil reverses gains, drops 5% on renewed Middle East peace hopes; Brent falls below $80
+  US Treasury Secretary Scott Bessent indicated talks to reopen the Strait of Hormuz were progressing, easing supply disruption fears. Brent crude dropped 5% to $79.5 per barrel amid fluctuating market conditions
+  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-reverses-gains-drops-5-on-renewed-middle-east-peace-hopes-brent-falls-below-80-11785856793729.html
+
+- AI data-centre race builds $1 trillion lease burden for Big Tech
+  AI data-centre race builds
+  🔗 https://www.livemint.com/technology/ai-data-centre-race-builds-1-trillion-lease-burden-for-big-tech-11785863893648.html
+
+- Apple crosses $10 billion in India sales on widening retail push
+  Apple Inc. exceeded $10 billion in annual sales in India for the first time last fiscal year. The company is steadily ramping up its retail network
+  🔗 https://www.livemint.com/technology/gadgets/apple-crosses-10-billion-in-india-sales-on-widening-retail-push-11785853108370.html
 
 - OnePlus Independence Day sale is here: Check the best deals on phones, tablets and more
   OnePlus launches its Independence Day Sale 2026 in India. Offers discounts on
@@ -52,133 +100,153 @@
   Telegram is back on the App Store after being removed for violating guidelines regarding child sexual
   🔗 https://www.livemint.com/technology/tech-news/telegram-app-back-on-apples-app-store-after-removal-over-child-sexual-abuse-material-report-11785809728168.html
 
-- WhatsApp outage leaves thousands of users unable to share media; 'I thought my WiFi was trash'
-  Thousands of WhatsApp users reported issues on Monday. Users
-  🔗 https://www.livemint.com/technology/tech-news/whatsapp-outage-leaves-thousands-users-unable-to-share-media-i-thought-my-wifi-was-trash-11785806847254.html
+- Stock Market Today: S&P 500, Dow Set All-Time Highs as Palantir, Caterpillar Shares Jump; Oil Drops on US-Iran Deal Optimism - Investopedia
+  Oil drops on US-Iran Deal Optimism. Nasdaq surges, Dow and S&amp;P 500 trade at record highs.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPdEZ6c1ZCa0JZYXNGSjd4UThnWEJNa2l6U0FpYVNRX3BwTWc3cVpPWHh4TXJhTG1sRkNqaXFXMF9LMm9scnZLM0tidjRGbWhzdFZJakVNb2NXSUNpU0Z2REZQSVN4U2pYSGU2OVctRHk1MC01eERxaWI1MlpiYjZBb1BZNkZOQlVkUzlWd0g5dkU?oc=5
 
-- Pre-dawn emails and empty desks: inside the sudden layoffs at Visa India
-  The Visa layoffs show how AI is changing employment in multinational technology companies. automation, tighter spending and workloads shifting
-  🔗 https://www.livemint.com/technology/tech-news/predawn-emails-and-empty-desks-inside-the-sudden-layoffs-at-visa-india-11785751686088.html
+- The Cyclospora Outbreak Is Driving Shoppers to Farmers Markets. Experts Say They're Not Necessarily Safer - inc.com
+  The Cyclospora Outbreak Is Driving Shoppers to Farmers Markets.
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDd5S0NvZFpZdGJtUnJXN2d3NTNZNEs3NjN6LWdjTDNhMkF2UnlXSUkwQldlcXhpQ3NKN1BzMXQ3YXQxeFZZclBjYVhpTHdQa2pINmVPQm0zcy1CN3p4bGM1ZFVEU2piRW1VRXd2bjNvSDk4ektlMHV5YnJxMThMNGNEUTNWeEcwaDlCSVpWNzQwRy1zOC1keUJBblZOY0ZyV3Jzc3pHMjFzcDhDN0ZqMW1FaXlNQkpu?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq futures coast higher as earnings roll in, Palantir stock soars - Yahoo Finance
-  Dow futures leap 600 points, S&amp;P 500 poised for record after Bessent says Hormuz deal is close.
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0dNNWVyRW5SQnZkY2ZsRU1tcmtaWlNkTDlQYUFSQ0VXV1pGVWw1MXJXSFNwNExfejRtaEIxc284NVdGdGRJVHI5Z1pQSGpFVU1FZmtETXRvNTNaYm1ReHo5SkF2bmF4Q0lQdkhiaERYemRxU1N5TEszMmRrTzl3NE51VmdTZlhUdm9vYmt3VV9OVkMyZWo5dkRZMzRaUEZzcmpSNm9YYllhUW8?oc=5
+- Markets are jittery about what the Fed's reaction function will be: Roth Capital's Michael Darda - CNBC
+  Markets are jittery about what the Fed's reaction function
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSVpYaFcxNDJTWVctZmtieTJkNE9HcGxramxubmd0Tko4QWJNNV9VZlcxTzVpNUVsZE56dXUwMkNaTnFseW9JemhlNjEwQm50NXQ1ZkxSekEybFFTbFFiZGlpeDhOd242N3JuUzNyaVgxOEZZSlZ0WlBQdktVNjBDdzRjVExMWThFZXQtdC1aLVRlbjRmT2ZZSEVyN0xKX1NkdEZ3MFZNcFFZQ25wYnI1Mm51MzNzbEQwbTFvblBrbkQ3bTRIWVBGWUFfRXhoaEtDblE?oc=5
 
-- Options market braces for $225 billion swing in SpaceX's value as earnings loom - Reuters
-  The company's value is expected to soar to
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZC1YMWVjM1o2YkdjUXFWbUl2OTg1cXBvRkN3VHRmcmN1Mk0wemtyRGw5ZDJaQzEzaXBPVHUtZkJxM1Q5Q3VxV1l3WUVmS1NjLXYwVDhJRWFBeWQxU2JZb181R25zSmFIT1RvMWNvVG5EaW1ZanFtbFRVei1jaUcyZHhRcTRkTnNITVdsbUxCZlE5eWVod0xsZHhZZ1dyNS1RN25HdlNxMTNCUF9xRzA1SkdaVlR5UUphT185OU9aaFQ?oc=5
+- Jio-BlackRock enters India's ETF market with Nifty 50 fund - Reuters
+  Jio-BlackRock enters India
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHhwSUw1TkU4WmdTbkhDdEo3WE1qLW9iNWw2ZllOeXBJV0stOXBNM1VOcVBXX0lnMjhLeEZMcW9ERlI3OXBsTlhYbXRkZTViSXNRYlhCTXFEdmplZk1rWVpvc09lbkpjRmZqbmkzWmwyaXpzcldWblg2WDZqWHF4T3FxS2Rsc0hEdTFGcDFITUUtQTlCN1BfM3pJMjZMaWVFbF9HZ2NJQlg?oc=5
 
-- Stock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6% - The Hindu
-  Stock markets take winning run to 4th day as crude oil prices drop sharply.
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxONDUzZ0VSM3gwaUdvdDRkaTBrQXNKaDhvd3ZhQ0ZuSmthT0FSZXlQNlRBTTFDb2VjQy1la1dmbG9WZnR6YmlZNE83Qnlfci05N3VGNGF2UDZUQVFqRjE0YTNXMG84YVZOMnhjSC1UMm5VQzR6aGg1VWFkRUdhN1A0blhtazdqS0dKUVA5cm40ODlGRTVoNE9zV2xqU1gwUE1ncC1kSkpRbXhMRGVlMUZySk53WkczSWZJbFBhZ1pqaUVpaTVsNUJnLXBWQWNQUGwtWFRTdUowWWtrTmhSNndEZDFkeUJUZzTSAe4BQVVfeXFMT0tuWnNrN3JEQUJ1eXFRamRjUjNuV0lLUnhHa2JTdnZ6LXhNYzdCeWlYTmR4NkdKNzZ1X2hrMXktRUNkb3hHbjVId0VraTZPZmRONTU2MjdXLWh0NHQ0eVh4RlE5Y21mVmlReHAyb3h4Sk5OaVVGb2hZUU1SS3MybFdTRVBfamZYNi1DTS14eEdBbE9pQWMwbE1lMlRQTk96ZnMxU0tQZThTUHNhMk14TEtEaUN0MlppRllqN2RvcTdpekJmeUZ5dVVNUDA2VHJqTXk2TVFkQlpkdEVfWElDWUxTRG5qYmZwbVBLaGlSZw?oc=5
+- What is Trump Media's Truth API and why is it controversial? - BBC
+  &nbsp;&ngt;<
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVjZpQjZrNk55T2FMWjZhbHd0Y1d6b29EN2plNnRRZXB5OGpWTUYwUHhhNkVmWUJoQk0wUDE5X3JnNm9hOVoxVlpsNllNOFF4cXUyV2Q3T2dxZw?oc=5
 
-- Closing Bell: Nifty below 24,650 as market snaps four-day gains; RBI policy in focus - Moneycontrol.com
-  Nifty below 24,650 as market snaps four-day
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOVWdtbWFIYUhEYXhuOEwtNGREemNUZUlMZERTN2wwWDdhTm82UnpoQVJNeHg4czlySElXZmpUMzBFMWJhbWhGUDFDMVhDTWQ2UjJjazRMQW5fT2tyenJrNzltWi1kQ1FBTG5wSHY2THR6Q3dLaTQ1Sk9weHk3MHpJOWFxYVl6QlduMHhLdzlZcWExY0VjQ19kWTFKN0RIMzN3bWRfdHZXTUdPLVFqd0V6WEo1SlRYb2JXZFFpMkdQZzFoalJWdmdNTlBVX2l5a1YzdEtzY3lNSk5HSUNxZkFqeUwteUp2ZlkxRGZURkRzY3NXV0pzOWU3UU1RYk9hVTNzRVR0bk5OWjZyNTFTMmEtSFZiTGlNUEh5RjR6M21Zbnk3RVXSAagCQVVfeXFMUDdrdzVzaG5Md2c1S2VyUnBiaFlZalljSTc2cmtiRFlvV3hOXzMtZGJqOHlTLTZBWU5QVDhXQ0R6d0lUNFVnTkk3aXR1S0VFQ3JMTEFqOUZuUXduYklWTTczRGtIeWRHRElYelNhazBSc0hLd05xQklkdFlSOXA4UHdTUXZ0cGZFYjAwTldCUVZoWk00ZllxcVZhQ1hjMmJ4NGstNU5ud2ZLcG1wWXdaYW9jUHBvTEZ2eTN5bFZqaUwzR3JzWjBUYTBaSUUxMTBrTDkzY3J1NEZXUmIwTmowb0JQNmx1UWZnX3Jxc3ZxSV9Xb0RSQmNrdzNfVjUtUXlMazF2Y25pVUIxclBSYTJIRWxDVk93dm8zNTZ2YzdVMWZJTHBmU0IxRlY?oc=5
+- US Treasury yields fall as oil slides on Iran deal hopes, Fed hike bets ease
+  US Treasury yields saw a decline following a sharp drop in oil prices. Traders adjusted their predictions for a Federal Reserve interest rate increase in September.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-slides-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms
 
-- Stock Market Highlights, Sensex Today: Sensex Settles 210 Points Lower Ahead Of RBI Policy Outcome - NDTV
-  The Sensex Settles 210 Points Lower Ahead Of RBI Policy Out
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGJON0NNQUxZekpaOExSZmxoM0R6OUlseHR1c0dtNWNoTk1PbVc1UHNaN25CQzdOZXR4VnBTa0pNcmxLUTd2S3R0Y19obm4teUdCb1JwbnVtMTZJVl9CVURzWkVCTXdZVHlCX0ttWXVXcktQNnVJeWx4ZzRUTkdLMUNmekxTMEozWGgxMkhpa1J6NEV5aEYyamxUM0FKMzV5bWdyVk9URlloZlBlTjNhck9zX01fdEZyeWI3TUJyZXpleFYyMTV1MV82bXE5enPSAdcBQVVfeXFMTmFGSHBmUUdZVFNraVVraDlrdmhuWm5SNWs0VkRVOVZoZjJET3ZpLVhDUHNrSmxvN3hqS2stOW5lQXFjOXJfOWRWMWdyR3U1QkJJb3VXODFVMnlacms3NWZVTmUyMWNHTFZ6a0Y2b0xPQmVLcE9acEZlM3drLUktYjc1WFpEajVNT3Itckc4Z0V3dnNYZjVWSkFSMWF5Rm56UmJCandRSll1RDUtSjNLQVhZdWx4eUlVempteG1UX1libXljM1F2QnU0YzJpYy1PN3dXVmNMNXM?oc=5
+- Jefferies gets new evidence of fake invoices at beleaguered fund tied to iron ore trader
+  The discovery of fake invoices related to Sapphire Minmetals by Jefferies Financial Group has intensified scrutiny over the financial reports of Radiant World. This revelation has led the bank to reevaluate its investment exposure to both iron ore traders.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund/articleshow/132869731.cms
 
-- Sebi proposes depository receipts against REITs, InvITs units
-  India's markets regulator has unveiled a fresh set of regulations concerning depository receipts aimed at real estate and infrastructure investment trusts. This initiative seeks to draw increased foreign investment into these vital sectors.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-depository-receipts-against-reits-invits-units/articleshow/132862848.cms
+- US Fed's Anna Paulson keeps 'open mind' on rate decisioin as inflation remains too high
+  Philadelphia Fed President Anna Paulson remains open-minded regarding monetary policy. She views recent inflation data as a welcome but insufficient step.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms
 
-- Elon Musk likely to face tough questions during SpaceX's first earnings call after stock market listing
-  SpaceX's investors are gearing up to challenge Elon Musk about the company's trajectory and financial stability. Investors are particularly interested in Musk's insights on the Starship rocket launch tests and satellite network developments.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-likely-to-face-tough-questions-during-spacexs-first-earnings-call-after-stock-market-listing/articleshow/132862778.cms
+- Palantir stock jumps 27% after ‘otherworldly’ demand lifts outlook
+  Palantir Technologies shares saw a significant jump after strong financial forecasts were released. US commercial sales experienced a substantial increase, which boosted investor confidence. The company's stock experienced its largest intraday gain in over a year.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/palantir-stock-jumps-27-after-otherworldly-demand-lifts-outlook/articleshow/132866951.cms
 
-- A crash coming? Ray Dalio warns AI rally looks like 1929 and 2000 bubbles
-  Bridgewater founder Ray Dalio warned the AI-driven market rally displays bubble-like traits seen before the 1929 crash and dot-com bust. He cited stretched valuations,
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/a-crash-coming-ray-dalio-warns-ai-rally-looks-like-1929-and-2000-bubbles/articleshow/132862682.cms
-
-- Gaurs Group eyes Rs 1,900 cr revenue from new housing project in Delhi-NCR
-  Gaur Alaris will feature 1,088 modern apartments, projected to yield impressive revenue of Rs 1,900 crore. Bolstered by strong residential demand, this development underscores Gaurs Group's deep-rooted expertise in the real
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/gaurs-group-eyes-rs-1900-cr-revenue-from-new-housing-project-in-delhi-ncr/articleshow/132862622.cms
-
-- Ajmera Realty &amp; Infra Q1 profit rises 14% to Rs 45cr
-  Ajmera Realty &amp; Infra India Ltd reported an impressive fourteen percent increase in net profit, amounting to Rs 44.94 crore for June. Alongside this, the company's total income surged to Rs 319
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ajmera-realty-infra-q1-profit-rises-14pc-to-rs-45cr/articleshow/132862528.cms
-
-- How gen Z exposed India’s prime-time propaganda machine - The Guardian
-  How gen Z exposed India’
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
+- SK Hynix rises 5% as brokerages launch coverage with bullish ratings
+  SK Hynix shares jumped five percent as brokerages began coverage with positive assessments. Despite reporting record quarterly profits, shipment delays caused a miss on analyst expectations.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-rises-5-as-brokerages-launch-coverage-with-bullish-ratings/articleshow/132866674.cms
 
 - Why India's youth anger has become Modi's biggest challenge - BBC
   Why India's youth anger has become
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
 
-- "We Are Not Terrorists": Arvind Kejriwal's March To PM Modi's Home Stopped - NDTV
-  "We Are Not Terrorists": Arvind Kejriwal
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEY3QzVUeUVQOUlsZl9iWFBiQy1tYlFiWEhCZy1Ec1FORFo0eEcydFlCNlNtaTlmWjloYTd2YnAyMVVHalNFY1o4eWNWNW9Hbi12WXE5b1JhdkRyREIxNTNvWGdSdm04QnF1ME1vNVo0VjJoSVoyWUlPaWkzZTFUZFgwNm1ZVGljempVdE5YOHRwTVB0OThYNm1oZU9Rck9sQzU3U2tQcEg2V01MQnM00gG3AUFVX3lxTE0yY3kyYk1qOWM1bWk2M1FMckVmTGZnWTBRcVltTW5jRy1WY0xZRDZQZ1VGZHd2dTRQc1NRWWdWRXNNTEJOVGl4amdLa2JmakM0dGR2ZHJEUzRVTy12SmpJU0xRbldHSENLUEg3VGU4Sm4xbk9ldFNfS1dfak50aUdqaGQ3NlhXZk5YRzFOc3Q1cXpKUzdWWTBROS1LeWVPb3Y4X0VtalBlNHpkbTVjb1pncjk1S2w2bw?oc=5
-
-- India expands its import basket from 27 to 41 source countries to meet energy needs: Hardeep Puri - newsonair.gov.in
-  India expands its import basket from 27 to 41 source countries to meet energy needs
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFB0NTNnbXJXSnJWVVlZZ2JsSW0zSzNWbVdBQnc5RnFqZ1d3cV80UWJsWHhLNkFZdndkbzhPXzNJVXVwMEVGTUQ1Szl1WmZIWkp2elRkdEFfVWdqVV9CdE9DQ2FzSWNENWthR1lIQ09ibjZCVWZIdUItc1lyQVVmWE42c3djcFhVLUktZjMxcWRyd3QwS1ZTSjhxRFpMdFpLaTlBSVp5VUl5ZVhnYUhSZkpHaXl6bjlfN0tTQzlGVQ?oc=5
-
-- Sports Minister felicitates Indian athletes of CWG 2026 with cash rewards - newsonair.gov.in
-  Sports Minister felicitates Indian athletes of CW
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNckE0SkFSeHYzdkZidUJlV1UwanVVc0VGYTV3dk9keUZWa19wWjBJN0ItSnNCcTF4ZnMxQ3hRREN2SmVTWUowOFQwaEdkWFJiR3NuY0VUeTRES1l5dVNmMXpibHY2eTBRYVp6ZjRpUTJfZVFVV2NMUktVQkxUcVJzWXVVal8yMDFmSlg4b19yQWVpTy1VczFocnE2TFNlSkpp?oc=5
-
-- Nykaa To Acquire Majority Stake In D2C Skincare Brand Aminu
-  Nykaa’s board of directors has approved a 51% stake acquisition of D2C skincare brand Aminu.
-  🔗 https://inc42.com/buzz/nykaa-to-acquire-majority-stake-in-d2c-skincare-brand-aminu/
-
-- MapmyIndia Q1: Profit Rises 6% YoY To ₹50 Cr, Revenue Up 15%
-  Geotech company MapmyIndia’s consolidated net profit for the June quarter of FY27 grew 6.3% to ₹50.4 Cr.
-  🔗 https://inc42.com/buzz/mapmyindia-q1-profit-rises-6-yoy-to-%e2%82%b950-cr-revenue-up-15/
-
-- Nykaa Q1: Profit Surges Over 3X YoY To ₹79.8 Cr
-  Beauty and personal care (BPC) major Nykaa reported an over 3X jump in its consolidated net profit for Q1 FY27&#8230.
-  🔗 https://inc42.com/buzz/nykaa-q1-profit-surges-over-3x-yoy-to-%e2%82%b979-8-cr/
-
-- Home Decor Marketplace Vaaree Raises ₹65 Cr Led By Hero Enterprise
-  Home decor marketplace Vaaree has raised ₹65 Cr (around $6.8 Mn) in a Series A funding round.
-  🔗 https://inc42.com/buzz/home-decor-marketplace-vaaree-raises-%e2%82%b965-cr-led-by-hero-enterprise/
-
-- IPO-Bound LEAP India’s FY26 Profit Jumps 66% To ₹62 Cr, Revenue Up 56%
-  Leap India reported a 65.7% jump in its consolidated net profit to ₹62.3 Cr in FY26.
-  🔗 https://inc42.com/buzz/ipo-bound-leap-indias-fy26-profit-jumps-66-to-%e2%82%b962-cr-revenue-up-56/
-
 - How gen Z exposed India’s prime-time propaganda machine - The Guardian
   How gen Z exposed India’
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
+
+- What Do India’s Gen Z Protests Mean for Modi? - newyorker.com
+  What Do India’s Gen
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQSXhOcldnUUJYOG9tWFliX0lJWkNBeVhMdWY4VHNWZHczZmJoV1J1eWpsMzE5VUZ5MEtfckpEZEo4RjVsUVFtT1pWdGwtM3pfSXFrMGR5bWVUOFFLaU4zTUlIT0lqQTdzZnp3ZGh1R2hHc19kZGo5ZzVMdlE0TkxjR1lRY3k0elRxa1E?oc=5
+
+- Udhayanidhi Stalin Arrested Over Remarks On Actor Trisha, DMK Cries "Vendetta" - NDTV
+  Udhayanidhi Stalin arrested over Rem
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlMyTEM1NDM0b1ZvejktNGZXQ0V4RFpxQjJCSkJyVDNIYU42ZEhuTWxiLU52RjczN2NtVkRzbWc4MU13Q1JkaFlNTThjQzRVMXhBVDNaa3k2Vkp6bFpRaDJwV1pGanVJZXBwTGFRdGtFVjRob213WkUwcWlQbzFrTWpZY1VUMVB6S1NWUFVjUWVMOFJQNElManM5RWNhcE8wT1BMTEtVMGRGVG1FQ3VVQUZlX2E4bjjSAb8BQVVfeXFMTkVKUk1vX2Z0M2pGanBxODB2a2tkaTNRcnhVSE1TdUFkQjl0M0pUaURuODJPOGpGd3ZVXzRqTktwbjZ0RHVTdEFWZVJwZEhpY0pOSXBaVENDdFJpdjZuWmV6TXpfelRfeWVZOHJKU1RhQ2JHOUFGQ0otS0x2bTkzcHBDYnVxbzVic1JqLUtwYXhZUG9KVUdzcVkxTzRKTmlsZDh4RVFBdGF2eWtNN010Z3oxTUhjVDJwRGI5OER5OHc?oc=5
+
+- Rs 15.56 crore: The money behind the medal at 2026 Commonwealth Games - The Times of India
+  The Times of India has revealed the money behind the medal at 20
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxObElneGZFWlhKeTc2VndyWjdueEJCVWRhMFJqSnFZMGpzejdad1ExT1B3U05QYlFZanRNZzRzei1WT1hpa1BaWjgwNWNSSXd5c2xDSF91ZDlPQXQ3RFN1NUR0ZlZrOWM0MnVnS0lWWnVUc1ZrTkJpTW9zcGhoYm02blpLMG03enlEU29FVlJ0Njh3ZlRNSG94Y3E4dVhIVHlWZm1zcWQxdTdYR2Z1WUhWVVA3a0JURTg3YmxtSTVESkdGelgwbHRxM3pTSUNKNjYxNmdoSUJzZk1oUER5WGpNQ25oYmRrMGk4X0dfcXpsODg3Sk0?oc=5
 
 - Why India's youth anger has become Modi's biggest challenge - BBC
   Why India's youth anger has become
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
 
-- "We Are Not Terrorists": Arvind Kejriwal's March To PM Modi's Home Stopped - NDTV
-  "We Are Not Terrorists": Arvind Kejriwal
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEY3QzVUeUVQOUlsZl9iWFBiQy1tYlFiWEhCZy1Ec1FORFo0eEcydFlCNlNtaTlmWjloYTd2YnAyMVVHalNFY1o4eWNWNW9Hbi12WXE5b1JhdkRyREIxNTNvWGdSdm04QnF1ME1vNVo0VjJoSVoyWUlPaWkzZTFUZFgwNm1ZVGljempVdE5YOHRwTVB0OThYNm1oZU9Rck9sQzU3U2tQcEg2V01MQnM00gG3AUFVX3lxTE0yY3kyYk1qOWM1bWk2M1FMckVmTGZnWTBRcVltTW5jRy1WY0xZRDZQZ1VGZHd2dTRQc1NRWWdWRXNNTEJOVGl4amdLa2JmakM0dGR2ZHJEUzRVTy12SmpJU0xRbldHSENLUEg3VGU4Sm4xbk9ldFNfS1dfak50aUdqaGQ3NlhXZk5YRzFOc3Q1cXpKUzdWWTBROS1LeWVPb3Y4X0VtalBlNHpkbTVjb1pncjk1S2w2bw?oc=5
+- How gen Z exposed India’s prime-time propaganda machine - The Guardian
+  How gen Z exposed India’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
 
-- India expands its import basket from 27 to 41 source countries to meet energy needs: Hardeep Puri - newsonair.gov.in
-  India expands its import basket from 27 to 41 source countries to meet energy needs
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFB0NTNnbXJXSnJWVVlZZ2JsSW0zSzNWbVdBQnc5RnFqZ1d3cV80UWJsWHhLNkFZdndkbzhPXzNJVXVwMEVGTUQ1Szl1WmZIWkp2elRkdEFfVWdqVV9CdE9DQ2FzSWNENWthR1lIQ09ibjZCVWZIdUItc1lyQVVmWE42c3djcFhVLUktZjMxcWRyd3QwS1ZTSjhxRFpMdFpLaTlBSVp5VUl5ZVhnYUhSZkpHaXl6bjlfN0tTQzlGVQ?oc=5
+- What Do India’s Gen Z Protests Mean for Modi? - newyorker.com
+  What Do India’s Gen
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQSXhOcldnUUJYOG9tWFliX0lJWkNBeVhMdWY4VHNWZHczZmJoV1J1eWpsMzE5VUZ5MEtfckpEZEo4RjVsUVFtT1pWdGwtM3pfSXFrMGR5bWVUOFFLaU4zTUlIT0lqQTdzZnp3ZGh1R2hHc19kZGo5ZzVMdlE0TkxjR1lRY3k0elRxa1E?oc=5
 
-- Sports Minister felicitates Indian athletes of CWG 2026 with cash rewards - newsonair.gov.in
-  Sports Minister felicitates Indian athletes of CW
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNckE0SkFSeHYzdkZidUJlV1UwanVVc0VGYTV3dk9keUZWa19wWjBJN0ItSnNCcTF4ZnMxQ3hRREN2SmVTWUowOFQwaEdkWFJiR3NuY0VUeTRES1l5dVNmMXpibHY2eTBRYVp6ZjRpUTJfZVFVV2NMUktVQkxUcVJzWXVVal8yMDFmSlg4b19yQWVpTy1VczFocnE2TFNlSkpp?oc=5
+- Udhayanidhi Stalin Arrested Over Remarks On Actor Trisha, DMK Cries "Vendetta" - NDTV
+  Udhayanidhi Stalin arrested over Rem
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlMyTEM1NDM0b1ZvejktNGZXQ0V4RFpxQjJCSkJyVDNIYU42ZEhuTWxiLU52RjczN2NtVkRzbWc4MU13Q1JkaFlNTThjQzRVMXhBVDNaa3k2Vkp6bFpRaDJwV1pGanVJZXBwTGFRdGtFVjRob213WkUwcWlQbzFrTWpZY1VUMVB6S1NWUFVjUWVMOFJQNElManM5RWNhcE8wT1BMTEtVMGRGVG1FQ3VVQUZlX2E4bjjSAb8BQVVfeXFMTkVKUk1vX2Z0M2pGanBxODB2a2tkaTNRcnhVSE1TdUFkQjl0M0pUaURuODJPOGpGd3ZVXzRqTktwbjZ0RHVTdEFWZVJwZEhpY0pOSXBaVENDdFJpdjZuWmV6TXpfelRfeWVZOHJKU1RhQ2JHOUFGQ0otS0x2bTkzcHBDYnVxbzVic1JqLUtwYXhZUG9KVUdzcVkxTzRKTmlsZDh4RVFBdGF2eWtNN010Z3oxTUhjVDJwRGI5OER5OHc?oc=5
 
-- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - Al Jazeera
-  Al Jazeera reports that Palantir
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01GRVZqRVFBMEtzTmpMczVIZVh4clg4MmpGekJzczVjQi1qUUVfOG4wZXlXY0d4aUFZRlNGUC14Y0V3ZVpRMnpDRkNtUnoyelFWOU9yOG9YVWotUEY2azFlTDJDZmkwUXlsMHFqSUxINGFJSlhiS0t0WVpvSDk0dVdiMThycnVPbWwzMlkycmJoeDVMTlFvdGZ0aS1FamRERTVsLWhaVHVreHFGX2k1QnVpUdIBuAFBVV95cUxNVzl5dHI4Q3UzaXZtTFN6UWdVcjVZeTEyMDJwMnJKZFlqbUVaMlJfSF9GclZfRUh4elFFUExNZDdxc1B5NkRRaV9KcGV4QzZ0TWlNM2dWMGY5VmxSUllzTElZRE96dnFKeTJMNXNfX19Kc054SEFlWUxuM2d3SklRRlBYNFhkZVlCWFdzODFmUXZrQUUyUW9lUmNLY0ZFRFA3enNJdVhGUEltcXNZQ2QxU3p0OXotOERH?oc=5
+- Rs 15.56 crore: The money behind the medal at 2026 Commonwealth Games - The Times of India
+  The Times of India has revealed the money behind the medal at 20
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxObElneGZFWlhKeTc2VndyWjdueEJCVWRhMFJqSnFZMGpzejdad1ExT1B3U05QYlFZanRNZzRzei1WT1hpa1BaWjgwNWNSSXd5c2xDSF91ZDlPQXQ3RFN1NUR0ZlZrOWM0MnVnS0lWWnVUc1ZrTkJpTW9zcGhoYm02blpLMG03enlEU29FVlJ0Njh3ZlRNSG94Y3E4dVhIVHlWZm1zcWQxdTdYR2Z1WUhWVVA3a0JURTg3YmxtSTVESkdGelgwbHRxM3pTSUNKNjYxNmdoSUJzZk1oUER5WGpNQ25oYmRrMGk4X0dfcXpsODg3Sk0?oc=5
 
-- How New Vehicles Will Get Crash Warnings With V2V Technology From 2028 - NDTV
-  How New Vehicles Will Get Crash Warnings With V
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHFVSHYtajFmVmxzVWl5OEpFRmRYcE03WDFiSDBCVVA3RmxwcmdhVV9NMkhYZnFYUkRkaE5USVc1d216SlhWZU1aVzBtLXJhT05kWXhyVTFJYm9mUFlQaDBGOFh5UnhRazlzZWIwZERFeWU3Q0p2SnlrZ3FlQnVfWkpWUUttTkpWb0NCaFlEb1Zya21HbFBUT2IxcC0zQ2UxanpaeUJtMUpXMmRoYnIzZtIBuAFBVV95cUxPX0VDdDZRWjlOSExVckNsVDVxdWxhVWp5bFBXTmJ3S0hLUXNIaUNxWGJCaUNYWFVEb29HZnVjWFZaR1pZemthTGJ5TUJJNXZORGVhajE2N3ZiVERnUkd2SFh4bnNweHhmUEFfeHAtRUdnTW9SNlpVSnY5RmJjNjhTZDQ3Q1FRdWZzVWpMY25IdTBNamZnNnNzSk9yYmtPTml4YThTX1JqS0hTWUZJZUlRZkN0WEhqZ2I0?oc=5
+- Why India's youth anger has become Modi's biggest challenge - BBC
+  Why India's youth anger has become
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
 
-- Can you tell if someone is filming you with Meta glasses? – video - The Guardian
-  Can you tell if someone is filming you with Meta glasses?
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNdk1Zb2I5ajNBSVVhRVpvZEk3MFFvVkQwZmcweEVMSzlLQ3NyNWZNUHZKVHltMDRHSVBjMm9YSU1SN2ZZbW1jVlIyOThXUUhHdEd3S1BleXd1TF84bXdaZW8xMzJvN3hZcDFmdmlFXzJmdzlfSnRmdldmS3Q3ZmlJVXVwa05LbXZfd2xkRFdVVDlpRDFfTWsyZHFaU1JDd3hYbk9wSVQ5bmg2MEhTSmVQcnBJeUE?oc=5
+- How gen Z exposed India’s prime-time propaganda machine - The Guardian
+  How gen Z exposed India’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
 
-- EXCLUSIVE: Citi hires Bank of America's Rohan Sen to lead technology services banking - Reuters
-  Citi hires Bank of America's Rohan Sen to
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVlTcy1kZHBUWlZzem9vVGFveVJ2NFlTMGhWVGN0NGFTR2V1OERRVG9XYnE3Y1YxMjc2LXhCclNFZ0lWdmY5NkNiM2pwLS14NXJuNkZRWmQwMHdQbTBLc0RiQ1ZfOFZ6WGtOR19YM0ZQZ3diUzd0OU1nRldrRjhSSVgybzYzSm9hX1UtYmJ4dVJTV2VGQ0ZaZlQ5YzB4eTZhWGlIcTJmb3pMZTNvQlE?oc=5
+- What Do India’s Gen Z Protests Mean for Modi? - newyorker.com
+  What Do India’s Gen
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQSXhOcldnUUJYOG9tWFliX0lJWkNBeVhMdWY4VHNWZHczZmJoV1J1eWpsMzE5VUZ5MEtfckpEZEo4RjVsUVFtT1pWdGwtM3pfSXFrMGR5bWVUOFFLaU4zTUlIT0lqQTdzZnp3ZGh1R2hHc19kZGo5ZzVMdlE0TkxjR1lRY3k0elRxa1E?oc=5
 
-- White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules - The New York Times
-  White House Whipsaws Silicon Valley (and Itself
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHNkTzBIRHZZR1ZuWkxUWW1QdjBtcU95NlJ2cm4xRUptS1hUOG9rUVdyOW9JUHFNa2ZwR2JGNExYbWV3TEY0cXAzNkRpcjNIbEdlUXZVUWNOazlRTmRjUHRXZmVFYzdyWHVLM3pQNmV5eWZQTTB1RFBjd3hqa0x0VU5USHczOGFJdmh5aw?oc=5
+- Udhayanidhi Stalin Arrested Over Remarks On Actor Trisha, DMK Cries "Vendetta" - NDTV
+  Udhayanidhi Stalin arrested over Rem
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlMyTEM1NDM0b1ZvejktNGZXQ0V4RFpxQjJCSkJyVDNIYU42ZEhuTWxiLU52RjczN2NtVkRzbWc4MU13Q1JkaFlNTThjQzRVMXhBVDNaa3k2Vkp6bFpRaDJwV1pGanVJZXBwTGFRdGtFVjRob213WkUwcWlQbzFrTWpZY1VUMVB6S1NWUFVjUWVMOFJQNElManM5RWNhcE8wT1BMTEtVMGRGVG1FQ3VVQUZlX2E4bjjSAb8BQVVfeXFMTkVKUk1vX2Z0M2pGanBxODB2a2tkaTNRcnhVSE1TdUFkQjl0M0pUaURuODJPOGpGd3ZVXzRqTktwbjZ0RHVTdEFWZVJwZEhpY0pOSXBaVENDdFJpdjZuWmV6TXpfelRfeWVZOHJKU1RhQ2JHOUFGQ0otS0x2bTkzcHBDYnVxbzVic1JqLUtwYXhZUG9KVUdzcVkxTzRKTmlsZDh4RVFBdGF2eWtNN010Z3oxTUhjVDJwRGI5OER5OHc?oc=5
+
+- Rs 15.56 crore: The money behind the medal at 2026 Commonwealth Games - The Times of India
+  The Times of India has revealed the money behind the medal at 20
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxObElneGZFWlhKeTc2VndyWjdueEJCVWRhMFJqSnFZMGpzejdad1ExT1B3U05QYlFZanRNZzRzei1WT1hpa1BaWjgwNWNSSXd5c2xDSF91ZDlPQXQ3RFN1NUR0ZlZrOWM0MnVnS0lWWnVUc1ZrTkJpTW9zcGhoYm02blpLMG03enlEU29FVlJ0Njh3ZlRNSG94Y3E4dVhIVHlWZm1zcWQxdTdYR2Z1WUhWVVA3a0JURTg3YmxtSTVESkdGelgwbHRxM3pTSUNKNjYxNmdoSUJzZk1oUER5WGpNQ25oYmRrMGk4X0dfcXpsODg3Sk0?oc=5
+
+- Why India's youth anger has become Modi's biggest challenge - BBC
+  Why India's youth anger has become
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
+
+- How gen Z exposed India’s prime-time propaganda machine - The Guardian
+  How gen Z exposed India’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
+
+- What Do India’s Gen Z Protests Mean for Modi? - newyorker.com
+  What Do India’s Gen
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQSXhOcldnUUJYOG9tWFliX0lJWkNBeVhMdWY4VHNWZHczZmJoV1J1eWpsMzE5VUZ5MEtfckpEZEo4RjVsUVFtT1pWdGwtM3pfSXFrMGR5bWVUOFFLaU4zTUlIT0lqQTdzZnp3ZGh1R2hHc19kZGo5ZzVMdlE0TkxjR1lRY3k0elRxa1E?oc=5
+
+- Udhayanidhi Stalin Arrested Over Remarks On Actor Trisha, DMK Cries "Vendetta" - NDTV
+  Udhayanidhi Stalin arrested over Rem
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlMyTEM1NDM0b1ZvejktNGZXQ0V4RFpxQjJCSkJyVDNIYU42ZEhuTWxiLU52RjczN2NtVkRzbWc4MU13Q1JkaFlNTThjQzRVMXhBVDNaa3k2Vkp6bFpRaDJwV1pGanVJZXBwTGFRdGtFVjRob213WkUwcWlQbzFrTWpZY1VUMVB6S1NWUFVjUWVMOFJQNElManM5RWNhcE8wT1BMTEtVMGRGVG1FQ3VVQUZlX2E4bjjSAb8BQVVfeXFMTkVKUk1vX2Z0M2pGanBxODB2a2tkaTNRcnhVSE1TdUFkQjl0M0pUaURuODJPOGpGd3ZVXzRqTktwbjZ0RHVTdEFWZVJwZEhpY0pOSXBaVENDdFJpdjZuWmV6TXpfelRfeWVZOHJKU1RhQ2JHOUFGQ0otS0x2bTkzcHBDYnVxbzVic1JqLUtwYXhZUG9KVUdzcVkxTzRKTmlsZDh4RVFBdGF2eWtNN010Z3oxTUhjVDJwRGI5OER5OHc?oc=5
+
+- Rs 15.56 crore: The money behind the medal at 2026 Commonwealth Games - The Times of India
+  The Times of India has revealed the money behind the medal at 20
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxObElneGZFWlhKeTc2VndyWjdueEJCVWRhMFJqSnFZMGpzejdad1ExT1B3U05QYlFZanRNZzRzei1WT1hpa1BaWjgwNWNSSXd5c2xDSF91ZDlPQXQ3RFN1NUR0ZlZrOWM0MnVnS0lWWnVUc1ZrTkJpTW9zcGhoYm02blpLMG03enlEU29FVlJ0Njh3ZlRNSG94Y3E4dVhIVHlWZm1zcWQxdTdYR2Z1WUhWVVA3a0JURTg3YmxtSTVESkdGelgwbHRxM3pTSUNKNjYxNmdoSUJzZk1oUER5WGpNQ25oYmRrMGk4X0dfcXpsODg3Sk0?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-04 14:01:03 UTC_
+_Last updated: 2026-08-04 19:28:02 UTC_
