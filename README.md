@@ -1,184 +1,184 @@
 # 📰 Daily News Summaries
 
-- WhatsApp Puts Multiple Accounts 'Under Review', Blocks Access For 24 Hours - NDTV
-  WhatsApp Puts Multiple Accounts 'Under
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRGZjk5MGk4NmZpZWZleTVOZENzb09LZ3JEd3BKcUdXNC1mbU5yZmpaUnBxMUc1T24wRzk1N25WakhzVTlNdXV4YjRaUXlVZUEyd2tMelU4QlBSV0RBTVVuaFoxdHk3aDBsSVQ1RHZQRUIxMVFhS1NZOEtaSlk5azdCaW9Va1N5SFJvUG10TGpHeWRaVmFRSm0yb056NVZaMU5N0gGrAUFVX3lxTE5GcjJ4Q1dDdlN6YVhaSXZMNnJHR1Q1MEhCU0N0LWEybW5PdWZrbjZIY1VVNzZTTTZlcDBqY0N3YVdXdFZPTjc0cGFLRHZ2UWU4V1pCUjFROHB1RkE0MU9oaXFIWnF0SzJkd2dPV3phcEw3d0NYS00tdWRMUFBsRWFDZ3o0cGRhUE5ib3JDcWxBYXMtaEpUZXAxVXlRM0dNU1BqQjdFQ2VsMHFQWQ?oc=5
+- Housing demand remains strong, creating market share opportunity, says Pirojsha Godrej
+  India's top residential developer reports 22% growth in sales bookings. Profit decline caused by lower revenue recognition
+  🔗 https://www.livemint.com/companies/news/housing-demand-remains-strong-creating-market-share-opportunity-says-pirojsha-godrej-11785831562065.html
 
-- WhatsApp puts multiple accounts under review, temporarily blocks access for users - The Times of India
-  WhatsApp puts multiple accounts under review, temporarily blocks access
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQelJ0TFpiSjRKSFp4LUJBeVBQYUhJQXJydEtrY2xqbFhkdGg1bzZ0aEZJbG1NcWROWFVNUTZVcDZuUlFpczBVXzRwc2pyYkJnS25ZdWVhRGdYWlYybGJpb2dFQWQtal92V1BCZjVSYjhGUUxrUkFuaDEzRDVvRS0xZVF3ZFdXVXdtdzB0cVJpTzJBNU5yaUFLY041S09QRUFtZWRqZElnd2t3empIMmJQN0llUHhvQW5RelVYWHFXUEZBRHR4czBWblcteUFpYzcxV1JYX3N5eThodkhhYUxhUmdn0gHnAUFVX3lxTE9DUjdPRi01azF3RVB3SDV4VjJYUFFOREx4bXRqN2J2SXVfZXM3cTQ5MkxEUG1pejF6Q1hxa1NJcW5sTzk1V0Rfc1JYUGpGWS13ZUt6STVnR0FjcGIyNXN2QUdfU3AwQjk5eEdWdi1XSUo3ZUtZQnl4QXQyblY0Ui1sb25MMXktWDhyeWxfOG1mV1p5VFdxTkhHc0ljcGxsckVaTTUyY2Y1aHZsU2cyV1YzVUh5Zm1DWjh2SjZvVVB1SUNqdW4tQUpFLUhMLWZBM01lRlVoSUlnMmNZMGVMNVNIamxobERtUQ?oc=5
+- Old Monk Row: What can legally be called ‘rum’ or ‘whisky’ | Explained
+  The primary distinction between rum and whisky lies in their base ingredients and permissible colouring
+  🔗 https://www.livemint.com/companies/news/old-monk-row-what-can-legally-be-called-rum-or-whisky-explained-11785845265738.html
 
-- WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours | India News - Hindustan Times
-  WhatsApp puts multiple accounts in India under review, blocks app access for 24
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXdwVTlUMHhnQjg4MEFIbEIybGRDeGgxWVIzQ1dqUlJNbzRkUlg0bkpIbUw1cXRZVTJYbWlXTVlET3REUTRRT18xZEVBd0hTR0JrN1E5R3o0cU9xaGpLUE9rYmpLSVNveHZmenVPdlNRbllETXJmWWJqV1FEdUxQUGdjbE5SOXN1QnpTNjc5dTBib1YyVFpxSFB4dUJKa1FHQzNaS2lBcF8xM1ZlMUFXdVI3b3c2cFoyODU3UDlYRThYMWd5Q0NqQkg2QXpLdVh1c1BpUdIB2gFBVV95cUxNTTZBZTVoT2loLURReUV4azgyd05jTzJiYU5Jc1U2LUpMNXExMnZLMm5kWGdNWDNZcElXcXVGX2loMmx6MmwwTTdfR1hVNGhwVnVSVFN4MkQ1eTh2dXlnZThuUTI1UXFHQndvMU4tSWFRUWZwU0hvdHhJNnYyc1kwQWRrRUVDT09fQ2xzbFY0OVNlMjBHOGYzbG9oUDVFU0tjdWpWYm5kS01FZkxZYmlza0dTb0w4U0JTcGtTUmlzMEpsVFFkWFhzaTBlb2k0OE9OUV9CeDJTNG9xUQ?oc=5
+- Nestlé India says long-term growth intact despite demand concerns
+  The company remains confident of navigating short-term inflationary and macroeconomic headwinds. Management flagged risks from
+  🔗 https://www.livemint.com/companies/news/nestl-india-says-long-term-growth-intact-despite-demand-concerns-11785841006758.html
 
-- Why India's youth anger has become Modi's biggest challenge - BBC
-  Why India's youth anger has become
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
+- Delhi HC closes contempt case against SpiceJet's Ajay Singh in lessor dispute
+  The high court said substantial compliance has been made in returning leased aircraft assets. TWC Aviation Capital will pursue execution proceedings
+  🔗 https://www.livemint.com/companies/news/delhi-hc-closes-contempt-case-against-spicejets-ajay-singh-in-lessor-dispute-airline-dispute-aircraft-11785839319448.html
+
+- OpenAI hits back: 'We do not have, nor want' Apple's trade secrets, as iPhone maker seeks injunction
+  OpenAI calls Apple's trade secrets lawsuit ‘careless, aggressive and oddly
+  🔗 https://www.livemint.com/companies/news/openai-hits-back-we-do-not-have-nor-want-apples-trade-secrets-as-iphone-maker-seeks-injunction-11785840730392.html
+
+- Nykaa Q1 Results: Net profit surges over threefold to  ₹80 crore on strong beauty demand
+  FSN E-Commerce Ventures, Nykaa's parent, reported a 226% YoY increase in profit to  ₹80 crore for the June quarter. Revenue rose
+  🔗 https://www.livemint.com/market/stock-market-news/nykaa-q1-results-net-profit-surges-over-threefold-to-rs-80-crore-on-strong-beauty-demand-11785848895992.html
+
+- Closing Auction Session debuts successfully; BSE, NSE report strong participation
+  The BSE reported strong participation from over 400 trading members. The NSE noted 515 members engaged, despite a spike in indices being labeled an aberration.
+  🔗 https://www.livemint.com/market/stock-market-news/closing-auction-session-debuts-successfully-bse-nse-report-strong-participation-11785849028888.html
+
+- Kalyan Jewellers Q1 Results: Net profit jumps 32% YoY to  ₹349 crore; margins contract
+  Kalyan Jewellers reported a net profit of  ₹348 crore for the June quarter, a 32% YoY increase. Revenue rose 46 per cent YoY
+  🔗 https://www.livemint.com/market/kalyan-jewellers-q1-results-net-profit-jumps-32-yoy-to-rs-349-crore-margins-contract-11785845252707.html
+
+- Bharti Airtel Q1 Results: Profit climbs on higher subscriber upgrades, robust data usage
+  Bharti Airtel reported a consolidated net profit of  ₹8,167 crore for Q1FY27.
+  🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-q1-results-net-profit-rises-37-yoy-to-rs-8-167-crore-revenue-jumps-18-11785842962022.html
+
+- Bharti Airtel Q1 results: Net profit jumps 37% to  ₹8,167 crore; revenue up 18% - Key highlights
+  Bharti Airtel announced its Q1FY27 earnings, reporting a 37% rise in net profit to  �
+  🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-q1-results-net-profit-jumps-37-to-rs-8-167-crore-revenue-up-18-key-highlights-11785837385759.html
+
+- OnePlus Independence Day sale is here: Check the best deals on phones, tablets and more
+  OnePlus launches its Independence Day Sale 2026 in India. Offers discounts on
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-independence-day-sale-is-here-check-the-best-deals-on-phones-tablets-and-more-11785807814722.html
+
+- POCO M8 Power launched in India: Price, specifications and launch offers
+  The POCO M8 Power has a 6.9-inch FHD
+  🔗 https://www.livemint.com/technology/gadgets/poco-m8-power-launched-in-india-price-specifications-and-launch-offers-11785828183041.html
+
+- Telegram app back on Apple's App Store after removal over child sexual abuse material: Report
+  Telegram is back on the App Store after being removed for violating guidelines regarding child sexual
+  🔗 https://www.livemint.com/technology/tech-news/telegram-app-back-on-apples-app-store-after-removal-over-child-sexual-abuse-material-report-11785809728168.html
+
+- WhatsApp outage leaves thousands of users unable to share media; 'I thought my WiFi was trash'
+  Thousands of WhatsApp users reported issues on Monday. Users
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-outage-leaves-thousands-users-unable-to-share-media-i-thought-my-wifi-was-trash-11785806847254.html
+
+- Pre-dawn emails and empty desks: inside the sudden layoffs at Visa India
+  The Visa layoffs show how AI is changing employment in multinational technology companies. automation, tighter spending and workloads shifting
+  🔗 https://www.livemint.com/technology/tech-news/predawn-emails-and-empty-desks-inside-the-sudden-layoffs-at-visa-india-11785751686088.html
+
+- Stock market today: Dow, S&P 500, Nasdaq futures coast higher as earnings roll in, Palantir stock soars - Yahoo Finance
+  Dow futures leap 600 points, S&amp;P 500 poised for record after Bessent says Hormuz deal is close.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0dNNWVyRW5SQnZkY2ZsRU1tcmtaWlNkTDlQYUFSQ0VXV1pGVWw1MXJXSFNwNExfejRtaEIxc284NVdGdGRJVHI5Z1pQSGpFVU1FZmtETXRvNTNaYm1ReHo5SkF2bmF4Q0lQdkhiaERYemRxU1N5TEszMmRrTzl3NE51VmdTZlhUdm9vYmt3VV9OVkMyZWo5dkRZMzRaUEZzcmpSNm9YYllhUW8?oc=5
+
+- Options market braces for $225 billion swing in SpaceX's value as earnings loom - Reuters
+  The company's value is expected to soar to
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZC1YMWVjM1o2YkdjUXFWbUl2OTg1cXBvRkN3VHRmcmN1Mk0wemtyRGw5ZDJaQzEzaXBPVHUtZkJxM1Q5Q3VxV1l3WUVmS1NjLXYwVDhJRWFBeWQxU2JZb181R25zSmFIT1RvMWNvVG5EaW1ZanFtbFRVei1jaUcyZHhRcTRkTnNITVdsbUxCZlE5eWVod0xsZHhZZ1dyNS1RN25HdlNxMTNCUF9xRzA1SkdaVlR5UUphT185OU9aaFQ?oc=5
+
+- Stock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6% - The Hindu
+  Stock markets take winning run to 4th day as crude oil prices drop sharply.
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxONDUzZ0VSM3gwaUdvdDRkaTBrQXNKaDhvd3ZhQ0ZuSmthT0FSZXlQNlRBTTFDb2VjQy1la1dmbG9WZnR6YmlZNE83Qnlfci05N3VGNGF2UDZUQVFqRjE0YTNXMG84YVZOMnhjSC1UMm5VQzR6aGg1VWFkRUdhN1A0blhtazdqS0dKUVA5cm40ODlGRTVoNE9zV2xqU1gwUE1ncC1kSkpRbXhMRGVlMUZySk53WkczSWZJbFBhZ1pqaUVpaTVsNUJnLXBWQWNQUGwtWFRTdUowWWtrTmhSNndEZDFkeUJUZzTSAe4BQVVfeXFMT0tuWnNrN3JEQUJ1eXFRamRjUjNuV0lLUnhHa2JTdnZ6LXhNYzdCeWlYTmR4NkdKNzZ1X2hrMXktRUNkb3hHbjVId0VraTZPZmRONTU2MjdXLWh0NHQ0eVh4RlE5Y21mVmlReHAyb3h4Sk5OaVVGb2hZUU1SS3MybFdTRVBfamZYNi1DTS14eEdBbE9pQWMwbE1lMlRQTk96ZnMxU0tQZThTUHNhMk14TEtEaUN0MlppRllqN2RvcTdpekJmeUZ5dVVNUDA2VHJqTXk2TVFkQlpkdEVfWElDWUxTRG5qYmZwbVBLaGlSZw?oc=5
+
+- Closing Bell: Nifty below 24,650 as market snaps four-day gains; RBI policy in focus - Moneycontrol.com
+  Nifty below 24,650 as market snaps four-day
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOVWdtbWFIYUhEYXhuOEwtNGREemNUZUlMZERTN2wwWDdhTm82UnpoQVJNeHg4czlySElXZmpUMzBFMWJhbWhGUDFDMVhDTWQ2UjJjazRMQW5fT2tyenJrNzltWi1kQ1FBTG5wSHY2THR6Q3dLaTQ1Sk9weHk3MHpJOWFxYVl6QlduMHhLdzlZcWExY0VjQ19kWTFKN0RIMzN3bWRfdHZXTUdPLVFqd0V6WEo1SlRYb2JXZFFpMkdQZzFoalJWdmdNTlBVX2l5a1YzdEtzY3lNSk5HSUNxZkFqeUwteUp2ZlkxRGZURkRzY3NXV0pzOWU3UU1RYk9hVTNzRVR0bk5OWjZyNTFTMmEtSFZiTGlNUEh5RjR6M21Zbnk3RVXSAagCQVVfeXFMUDdrdzVzaG5Md2c1S2VyUnBiaFlZalljSTc2cmtiRFlvV3hOXzMtZGJqOHlTLTZBWU5QVDhXQ0R6d0lUNFVnTkk3aXR1S0VFQ3JMTEFqOUZuUXduYklWTTczRGtIeWRHRElYelNhazBSc0hLd05xQklkdFlSOXA4UHdTUXZ0cGZFYjAwTldCUVZoWk00ZllxcVZhQ1hjMmJ4NGstNU5ud2ZLcG1wWXdaYW9jUHBvTEZ2eTN5bFZqaUwzR3JzWjBUYTBaSUUxMTBrTDkzY3J1NEZXUmIwTmowb0JQNmx1UWZnX3Jxc3ZxSV9Xb0RSQmNrdzNfVjUtUXlMazF2Y25pVUIxclBSYTJIRWxDVk93dm8zNTZ2YzdVMWZJTHBmU0IxRlY?oc=5
+
+- Stock Market Highlights, Sensex Today: Sensex Settles 210 Points Lower Ahead Of RBI Policy Outcome - NDTV
+  The Sensex Settles 210 Points Lower Ahead Of RBI Policy Out
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGJON0NNQUxZekpaOExSZmxoM0R6OUlseHR1c0dtNWNoTk1PbVc1UHNaN25CQzdOZXR4VnBTa0pNcmxLUTd2S3R0Y19obm4teUdCb1JwbnVtMTZJVl9CVURzWkVCTXdZVHlCX0ttWXVXcktQNnVJeWx4ZzRUTkdLMUNmekxTMEozWGgxMkhpa1J6NEV5aEYyamxUM0FKMzV5bWdyVk9URlloZlBlTjNhck9zX01fdEZyeWI3TUJyZXpleFYyMTV1MV82bXE5enPSAdcBQVVfeXFMTmFGSHBmUUdZVFNraVVraDlrdmhuWm5SNWs0VkRVOVZoZjJET3ZpLVhDUHNrSmxvN3hqS2stOW5lQXFjOXJfOWRWMWdyR3U1QkJJb3VXODFVMnlacms3NWZVTmUyMWNHTFZ6a0Y2b0xPQmVLcE9acEZlM3drLUktYjc1WFpEajVNT3Itckc4Z0V3dnNYZjVWSkFSMWF5Rm56UmJCandRSll1RDUtSjNLQVhZdWx4eUlVempteG1UX1libXljM1F2QnU0YzJpYy1PN3dXVmNMNXM?oc=5
+
+- Sebi proposes depository receipts against REITs, InvITs units
+  India's markets regulator has unveiled a fresh set of regulations concerning depository receipts aimed at real estate and infrastructure investment trusts. This initiative seeks to draw increased foreign investment into these vital sectors.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-depository-receipts-against-reits-invits-units/articleshow/132862848.cms
+
+- Elon Musk likely to face tough questions during SpaceX's first earnings call after stock market listing
+  SpaceX's investors are gearing up to challenge Elon Musk about the company's trajectory and financial stability. Investors are particularly interested in Musk's insights on the Starship rocket launch tests and satellite network developments.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-likely-to-face-tough-questions-during-spacexs-first-earnings-call-after-stock-market-listing/articleshow/132862778.cms
+
+- A crash coming? Ray Dalio warns AI rally looks like 1929 and 2000 bubbles
+  Bridgewater founder Ray Dalio warned the AI-driven market rally displays bubble-like traits seen before the 1929 crash and dot-com bust. He cited stretched valuations,
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/a-crash-coming-ray-dalio-warns-ai-rally-looks-like-1929-and-2000-bubbles/articleshow/132862682.cms
+
+- Gaurs Group eyes Rs 1,900 cr revenue from new housing project in Delhi-NCR
+  Gaur Alaris will feature 1,088 modern apartments, projected to yield impressive revenue of Rs 1,900 crore. Bolstered by strong residential demand, this development underscores Gaurs Group's deep-rooted expertise in the real
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/gaurs-group-eyes-rs-1900-cr-revenue-from-new-housing-project-in-delhi-ncr/articleshow/132862622.cms
+
+- Ajmera Realty &amp; Infra Q1 profit rises 14% to Rs 45cr
+  Ajmera Realty &amp; Infra India Ltd reported an impressive fourteen percent increase in net profit, amounting to Rs 44.94 crore for June. Alongside this, the company's total income surged to Rs 319
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ajmera-realty-infra-q1-profit-rises-14pc-to-rs-45cr/articleshow/132862528.cms
 
 - How gen Z exposed India’s prime-time propaganda machine - The Guardian
   How gen Z exposed India’
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
 
-- Can you tell if someone is filming you with Meta glasses? – video - The Guardian
-  Can you tell if someone is filming you with Meta glasses?
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNdk1Zb2I5ajNBSVVhRVpvZEk3MFFvVkQwZmcweEVMSzlLQ3NyNWZNUHZKVHltMDRHSVBjMm9YSU1SN2ZZbW1jVlIyOThXUUhHdEd3S1BleXd1TF84bXdaZW8xMzJvN3hZcDFmdmlFXzJmdzlfSnRmdldmS3Q3ZmlJVXVwa05LbXZfd2xkRFdVVDlpRDFfTWsyZHFaU1JDd3hYbk9wSVQ5bmg2MEhTSmVQcnBJeUE?oc=5
+- Why India's youth anger has become Modi's biggest challenge - BBC
+  Why India's youth anger has become
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
+
+- "We Are Not Terrorists": Arvind Kejriwal's March To PM Modi's Home Stopped - NDTV
+  "We Are Not Terrorists": Arvind Kejriwal
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEY3QzVUeUVQOUlsZl9iWFBiQy1tYlFiWEhCZy1Ec1FORFo0eEcydFlCNlNtaTlmWjloYTd2YnAyMVVHalNFY1o4eWNWNW9Hbi12WXE5b1JhdkRyREIxNTNvWGdSdm04QnF1ME1vNVo0VjJoSVoyWUlPaWkzZTFUZFgwNm1ZVGljempVdE5YOHRwTVB0OThYNm1oZU9Rck9sQzU3U2tQcEg2V01MQnM00gG3AUFVX3lxTE0yY3kyYk1qOWM1bWk2M1FMckVmTGZnWTBRcVltTW5jRy1WY0xZRDZQZ1VGZHd2dTRQc1NRWWdWRXNNTEJOVGl4amdLa2JmakM0dGR2ZHJEUzRVTy12SmpJU0xRbldHSENLUEg3VGU4Sm4xbk9ldFNfS1dfak50aUdqaGQ3NlhXZk5YRzFOc3Q1cXpKUzdWWTBROS1LeWVPb3Y4X0VtalBlNHpkbTVjb1pncjk1S2w2bw?oc=5
+
+- India expands its import basket from 27 to 41 source countries to meet energy needs: Hardeep Puri - newsonair.gov.in
+  India expands its import basket from 27 to 41 source countries to meet energy needs
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFB0NTNnbXJXSnJWVVlZZ2JsSW0zSzNWbVdBQnc5RnFqZ1d3cV80UWJsWHhLNkFZdndkbzhPXzNJVXVwMEVGTUQ1Szl1WmZIWkp2elRkdEFfVWdqVV9CdE9DQ2FzSWNENWthR1lIQ09ibjZCVWZIdUItc1lyQVVmWE42c3djcFhVLUktZjMxcWRyd3QwS1ZTSjhxRFpMdFpLaTlBSVp5VUl5ZVhnYUhSZkpHaXl6bjlfN0tTQzlGVQ?oc=5
+
+- Sports Minister felicitates Indian athletes of CWG 2026 with cash rewards - newsonair.gov.in
+  Sports Minister felicitates Indian athletes of CW
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNckE0SkFSeHYzdkZidUJlV1UwanVVc0VGYTV3dk9keUZWa19wWjBJN0ItSnNCcTF4ZnMxQ3hRREN2SmVTWUowOFQwaEdkWFJiR3NuY0VUeTRES1l5dVNmMXpibHY2eTBRYVp6ZjRpUTJfZVFVV2NMUktVQkxUcVJzWXVVal8yMDFmSlg4b19yQWVpTy1VczFocnE2TFNlSkpp?oc=5
+
+- Nykaa To Acquire Majority Stake In D2C Skincare Brand Aminu
+  Nykaa’s board of directors has approved a 51% stake acquisition of D2C skincare brand Aminu.
+  🔗 https://inc42.com/buzz/nykaa-to-acquire-majority-stake-in-d2c-skincare-brand-aminu/
+
+- MapmyIndia Q1: Profit Rises 6% YoY To ₹50 Cr, Revenue Up 15%
+  Geotech company MapmyIndia’s consolidated net profit for the June quarter of FY27 grew 6.3% to ₹50.4 Cr.
+  🔗 https://inc42.com/buzz/mapmyindia-q1-profit-rises-6-yoy-to-%e2%82%b950-cr-revenue-up-15/
+
+- Nykaa Q1: Profit Surges Over 3X YoY To ₹79.8 Cr
+  Beauty and personal care (BPC) major Nykaa reported an over 3X jump in its consolidated net profit for Q1 FY27&#8230.
+  🔗 https://inc42.com/buzz/nykaa-q1-profit-surges-over-3x-yoy-to-%e2%82%b979-8-cr/
+
+- Home Decor Marketplace Vaaree Raises ₹65 Cr Led By Hero Enterprise
+  Home decor marketplace Vaaree has raised ₹65 Cr (around $6.8 Mn) in a Series A funding round.
+  🔗 https://inc42.com/buzz/home-decor-marketplace-vaaree-raises-%e2%82%b965-cr-led-by-hero-enterprise/
+
+- IPO-Bound LEAP India’s FY26 Profit Jumps 66% To ₹62 Cr, Revenue Up 56%
+  Leap India reported a 65.7% jump in its consolidated net profit to ₹62.3 Cr in FY26.
+  🔗 https://inc42.com/buzz/ipo-bound-leap-indias-fy26-profit-jumps-66-to-%e2%82%b962-cr-revenue-up-56/
+
+- How gen Z exposed India’s prime-time propaganda machine - The Guardian
+  How gen Z exposed India’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
+
+- Why India's youth anger has become Modi's biggest challenge - BBC
+  Why India's youth anger has become
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
+
+- "We Are Not Terrorists": Arvind Kejriwal's March To PM Modi's Home Stopped - NDTV
+  "We Are Not Terrorists": Arvind Kejriwal
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEY3QzVUeUVQOUlsZl9iWFBiQy1tYlFiWEhCZy1Ec1FORFo0eEcydFlCNlNtaTlmWjloYTd2YnAyMVVHalNFY1o4eWNWNW9Hbi12WXE5b1JhdkRyREIxNTNvWGdSdm04QnF1ME1vNVo0VjJoSVoyWUlPaWkzZTFUZFgwNm1ZVGljempVdE5YOHRwTVB0OThYNm1oZU9Rck9sQzU3U2tQcEg2V01MQnM00gG3AUFVX3lxTE0yY3kyYk1qOWM1bWk2M1FMckVmTGZnWTBRcVltTW5jRy1WY0xZRDZQZ1VGZHd2dTRQc1NRWWdWRXNNTEJOVGl4amdLa2JmakM0dGR2ZHJEUzRVTy12SmpJU0xRbldHSENLUEg3VGU4Sm4xbk9ldFNfS1dfak50aUdqaGQ3NlhXZk5YRzFOc3Q1cXpKUzdWWTBROS1LeWVPb3Y4X0VtalBlNHpkbTVjb1pncjk1S2w2bw?oc=5
+
+- India expands its import basket from 27 to 41 source countries to meet energy needs: Hardeep Puri - newsonair.gov.in
+  India expands its import basket from 27 to 41 source countries to meet energy needs
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFB0NTNnbXJXSnJWVVlZZ2JsSW0zSzNWbVdBQnc5RnFqZ1d3cV80UWJsWHhLNkFZdndkbzhPXzNJVXVwMEVGTUQ1Szl1WmZIWkp2elRkdEFfVWdqVV9CdE9DQ2FzSWNENWthR1lIQ09ibjZCVWZIdUItc1lyQVVmWE42c3djcFhVLUktZjMxcWRyd3QwS1ZTSjhxRFpMdFpLaTlBSVp5VUl5ZVhnYUhSZkpHaXl6bjlfN0tTQzlGVQ?oc=5
+
+- Sports Minister felicitates Indian athletes of CWG 2026 with cash rewards - newsonair.gov.in
+  Sports Minister felicitates Indian athletes of CW
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNckE0SkFSeHYzdkZidUJlV1UwanVVc0VGYTV3dk9keUZWa19wWjBJN0ItSnNCcTF4ZnMxQ3hRREN2SmVTWUowOFQwaEdkWFJiR3NuY0VUeTRES1l5dVNmMXpibHY2eTBRYVp6ZjRpUTJfZVFVV2NMUktVQkxUcVJzWXVVal8yMDFmSlg4b19yQWVpTy1VczFocnE2TFNlSkpp?oc=5
+
+- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - Al Jazeera
+  Al Jazeera reports that Palantir
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01GRVZqRVFBMEtzTmpMczVIZVh4clg4MmpGekJzczVjQi1qUUVfOG4wZXlXY0d4aUFZRlNGUC14Y0V3ZVpRMnpDRkNtUnoyelFWOU9yOG9YVWotUEY2azFlTDJDZmkwUXlsMHFqSUxINGFJSlhiS0t0WVpvSDk0dVdiMThycnVPbWwzMlkycmJoeDVMTlFvdGZ0aS1FamRERTVsLWhaVHVreHFGX2k1QnVpUdIBuAFBVV95cUxNVzl5dHI4Q3UzaXZtTFN6UWdVcjVZeTEyMDJwMnJKZFlqbUVaMlJfSF9GclZfRUh4elFFUExNZDdxc1B5NkRRaV9KcGV4QzZ0TWlNM2dWMGY5VmxSUllzTElZRE96dnFKeTJMNXNfX19Kc054SEFlWUxuM2d3SklRRlBYNFhkZVlCWFdzODFmUXZrQUUyUW9lUmNLY0ZFRFA3enNJdVhGUEltcXNZQ2QxU3p0OXotOERH?oc=5
 
 - How New Vehicles Will Get Crash Warnings With V2V Technology From 2028 - NDTV
   How New Vehicles Will Get Crash Warnings With V
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHFVSHYtajFmVmxzVWl5OEpFRmRYcE03WDFiSDBCVVA3RmxwcmdhVV9NMkhYZnFYUkRkaE5USVc1d216SlhWZU1aVzBtLXJhT05kWXhyVTFJYm9mUFlQaDBGOFh5UnhRazlzZWIwZERFeWU3Q0p2SnlrZ3FlQnVfWkpWUUttTkpWb0NCaFlEb1Zya21HbFBUT2IxcC0zQ2UxanpaeUJtMUpXMmRoYnIzZtIBuAFBVV95cUxPX0VDdDZRWjlOSExVckNsVDVxdWxhVWp5bFBXTmJ3S0hLUXNIaUNxWGJCaUNYWFVEb29HZnVjWFZaR1pZemthTGJ5TUJJNXZORGVhajE2N3ZiVERnUkd2SFh4bnNweHhmUEFfeHAtRUdnTW9SNlpVSnY5RmJjNjhTZDQ3Q1FRdWZzVWpMY25IdTBNamZnNnNzSk9yYmtPTml4YThTX1JqS0hTWUZJZUlRZkN0WEhqZ2I0?oc=5
 
-- IIT-Hyderabad, Crimson Energy launch nuclear technology orientation programme - The Hindu
-  IIT-Hyderabad,
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLXJyekpRUlNBTjRpV3lMLUVUaXloZktrR2poTlV4MTFpTGNIZ2Iyd2MyNk94b0pQbHJlNEh5N28tOWIyWTBKbUFicGJkSHB2cHdFY1R6d2pYbWVGUERCZEVRb1ZvS3hHUFBrbFNsN2FZUjNHWDZtblNpaEU5aFdIUWRWdXp5WGVJN0tGcFYzT05zX0dTU1M3VzQ1QjQyWV9RZ0JtUThSTV80RWJjQU5JcTYzZU9tMmczeUl1UVRCTVItamMxQ0ZaWUpqbTk1WmRIQ3NOZmlhV0RZM3PSAeIBQVVfeXFMUFBqY2hXQWc4cDM2cU0zcFZIOHc5NzlSQWVnMW9QeWFMaGlrRXkxbk5ETlZQb3MtX19EU1JQS2JrM2dFTGc0THVGS0VObjFKZGJzeWUzTDBzSGI3YVpmTUd0bktTQ2xxeTdBa0hod01aVzFRTmU4T3M0NzBRdXV6M1pScDh2eFl1bm9oV2hZaDJralNvaDVVa3VveUdFSTA1UkZyOTZLUkUyR0djSG9DQUtIQVFsaUJta3dVcG9SQXRwcFQxMTdUUzlkUi1rU2VzazZDTHlNYUpFVjI4N1RoMVV4dw?oc=5
-
-- CDS emphasises on influence of emerging technologies on military operations - News On AIR
-  CDS emphasises on influence of emerging technologies on
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2dITkJRMl95bU5QdWRwaTlyWE9EMXd5RDZLaVpraC1nRVlILWNSUnlZTlRHQjF5Y09mWWpiQ0VHNnhTSFlwVExSS2M1M3M1WlFmQlhBd1dkYk5jTlVSRm1qYlBJcTN1bUdsMDdONDRfR3ZHb2VwN0RWbDBMZUNrQmRHSDE2WnE0ZFFvOWtSR2pweVNiRjJydHRBQng5OTRsbzBtYw?oc=5
+- Can you tell if someone is filming you with Meta glasses? – video - The Guardian
+  Can you tell if someone is filming you with Meta glasses?
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNdk1Zb2I5ajNBSVVhRVpvZEk3MFFvVkQwZmcweEVMSzlLQ3NyNWZNUHZKVHltMDRHSVBjMm9YSU1SN2ZZbW1jVlIyOThXUUhHdEd3S1BleXd1TF84bXdaZW8xMzJvN3hZcDFmdmlFXzJmdzlfSnRmdldmS3Q3ZmlJVXVwa05LbXZfd2xkRFdVVDlpRDFfTWsyZHFaU1JDd3hYbk9wSVQ5bmg2MEhTSmVQcnBJeUE?oc=5
 
 - EXCLUSIVE: Citi hires Bank of America's Rohan Sen to lead technology services banking - Reuters
   Citi hires Bank of America's Rohan Sen to
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVlTcy1kZHBUWlZzem9vVGFveVJ2NFlTMGhWVGN0NGFTR2V1OERRVG9XYnE3Y1YxMjc2LXhCclNFZ0lWdmY5NkNiM2pwLS14NXJuNkZRWmQwMHdQbTBLc0RiQ1ZfOFZ6WGtOR19YM0ZQZ3diUzd0OU1nRldrRjhSSVgybzYzSm9hX1UtYmJ4dVJTV2VGQ0ZaZlQ5YzB4eTZhWGlIcTJmb3pMZTNvQlE?oc=5
 
-- Hyundai admits slower car launches hurt sales as market share slips
-  Hyundai India's domestic sales in FY26 declined 2% 584,906 cars. Mahindra’s sales surged 20%
-  🔗 https://www.livemint.com/companies/hyundai-motor-india-market-share-loss-new-model-launches-fy26-11785822646622.html
-
-- India's startups are cracking chip design. Now they need buyers
-  India has been promoting sovereign chip capabilities through initiatives like the Design Linked Incentive (DLI) scheme.
-  🔗 https://www.livemint.com/companies/india-semiconductor-chip-startups-tape-out-paying-customers-11785758066135.html
-
-- Fly91 plans 50-aircraft fleet in 5 years, targets profitability by FY28
-  Fly91 currently operates six ATR 72-600s aircraft from bases in Goa and Hyderabad. It plans to add four
-  🔗 https://www.livemint.com/companies/fly91-expansion-plan-50-aircraft-fleet-50-destinations-india-11785819149404.html
-
-- Culture That Compounds: How Nippon India AMC Builds a Workplace the Way It Builds Wealth
-  Nippon Life India Asset Management's MD and CEO Sundeep Sikka and CHRO Mohit Shetty reflect on what it really takes to build a workplace where people choose to stay.
-  🔗 https://www.livemint.com/companies/culture-that-compounds-how-nippon-india-amc-builds-a-workplace-the-way-it-builds-wealth-11785741901047.html
-
-- Quick commerce's rapid growth is rewriting India’s advertising playbook
-  Advertising in India is transforming as brands allocate budgets to quick commerce platforms. Retail media is rising, capturing consumer attention during shopping. Traditional
-  🔗 https://www.livemint.com/companies/news/quick-commerce-advertising-india-blinkit-zepto-swiggy-instamart-11785816276156.html
-
-- Markets News, Aug. 3, 2026: Dow Closes at Record; Stocks Surge to Begin August Trading; Oil Prices Sink as Trump Calls Off Iran Strikes - Investopedia
-  Markets News, Aug. 3, 2026: Dow Closes at Record; Stocks Surge to Begin
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQbWtqZm0yX3I4RUVkak1JSzczQjY5UGtLU1RHNGIzUlR6MjQ1LVNRSEhzUHMyNndISEpBdHoteTVJRUxsRXRDblpSSU9nbzZHajhabEFiNGtLQmdRZFN3N1Ffd0N3T0ZCNUI5R1ZYSjkzQ0l3cTd5dmtxRTBvaGpyamljc21MdjJnMFI1VDhhWmw?oc=5
-
-- Stock Market News, August 3, 2026: Stocks Rally, Oil Slides on Return to Mideast Diplomacy - WSJ
-  The WSJ looks at the future of the U.S.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTI2NlhSeXdua2NNNnlSQVhjaXRJdEs3QnExblJQWHBLdndrREVxb3JpV0JtaXE1M1l0ekxqa1B3a0d2MGJUdE5oaWc2S2JvREhtRUhZdldCeml1NFVQWWlzM3lZZmZ1NGJ2aGJwdElTMWZiUHZMWTh1MWxKZmlwc1BIZ3RKRHM?oc=5
-
-- Stock futures rise slightly after rip-roaring rally leads Dow to record closing high: Live updates - CNBC
-  Stock futures rise slightly after rip-roaring rally leads Dow to
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5mTVJFdXRwODc0clJoV1JSa1o5YlZlWk42N3NOUUZ0cFBCUS1HYmVoaHAwVUZCYlFMYnNRckQxNnp3NVpoemVvVk1zQ3BHQ1g1ay1ET00ydEVjQWozZXNqWnZnNEdFXzB0UVdqcGt2Y2kyTDlyS1NR0gF8QVVfeXFMTXpxRzNRQW5tbjVzV3Z5OThSRkJydGUwcExfODExQUVKVmM1YW9oR0NzQll6X1dkbTVqZGVoR1ZlTnRybHI5SUtVcFF5R1ZuV08tY3c1cTZqM2VtOEd4cjNDM2xUOHh0SWh1UjNnZGdWUVc5RVZ2LTNLbHNEMg?oc=5
-
-- Stock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6% - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxONDUzZ0VSM3gwaUdvdDRkaTBrQXNKaDhvd3ZhQ0ZuSmthT0FSZXlQNlRBTTFDb2VjQy1la1dmbG9WZnR6YmlZNE83Qnlfci05N3VGNGF2UDZUQVFqRjE0YTNXMG84YVZOMn
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxONDUzZ0VSM3gwaUdvdDRkaTBrQXNKaDhvd3ZhQ0ZuSmthT0FSZXlQNlRBTTFDb2VjQy1la1dmbG9WZnR6YmlZNE83Qnlfci05N3VGNGF2UDZUQVFqRjE0YTNXMG84YVZOMnhjSC1UMm5VQzR6aGg1VWFkRUdhN1A0blhtazdqS0dKUVA5cm40ODlGRTVoNE9zV2xqU1gwUE1ncC1kSkpRbXhMRGVlMUZySk53WkczSWZJbFBhZ1pqaUVpaTVsNUJnLXBWQWNQUGwtWFRTdUowWWtrTmhSNndEZDFkeUJUZzTSAe4BQVVfeXFMT0tuWnNrN3JEQUJ1eXFRamRjUjNuV0lLUnhHa2JTdnZ6LXhNYzdCeWlYTmR4NkdKNzZ1X2hrMXktRUNkb3hHbjVId0VraTZPZmRONTU2MjdXLWh0NHQ0eVh4RlE5Y21mVmlReHAyb3h4Sk5OaVVGb2hZUU1SS3MybFdTRVBfamZYNi1DTS14eEdBbE9pQWMwbE1lMlRQTk96ZnMxU0tQZThTUHNhMk14TEtEaUN0MlppRllqN2RvcTdpekJmeUZ5dVVNUDA2VHJqTXk2TVFkQlpkdEVfWElDWUxTRG5qYmZwbVBLaGlSZw?oc=5
-
-- ‘US backs off from Iran before markets open on weekdays’ - Al Jazeera
-  &nbsp; ‘US backs
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1VJMGFEZkVKaFZ6T2VYOTVlSGtpeHF6Y1NmdFVoYVlkNDFtN2Y0M3g2dkpQMFNzbFZRa0lTNi1Wb3ZvUGdMamxOdU5yUFNDU3Q1RjJYcDE2VVpReVJKUEIyT1ZKVDZrc1hjTm0yTlpXclJ4S2Y4Rm1KNkdpdTctbW1fTWZPMGp1My1jS01MeHlyRjB3MVJHcmVyTdIBoAFBVV95cUxPckl5SVBkX1ZvVUY3SnBZeGJobHd6WUVxR1NUbm1tQ05hb1dleU8zNXJLVi1qOHdZcDNhVi12aVpZTkpfZjJKZzh1S2x1Y2lnbnBnTG5yXzVlN0lieFExZlBQQXVXNXZEZVRjT29ENXBkU0p3NnpQdldXMHlQV2lvSnRibWV2M0gxNHh1MU9TaVUwSDVyeWJfR3lRTjhNeHNV?oc=5
-
-- Global Market: Japan's 10-year bond yield climbs after weak auction signals soft demand
-  Japan's 10-year government bond yield climbed after a weak debt auction signalled softer investor demand. Markets remain focused on Japan's fiscal outlook and expectations of further Bank of Japan policy tightening.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-10-year-bond-yield-climbs-after-weak-auction-signals-soft-demand/articleshow/132852095.cms
-
-- Why stock market's CAS Day 1 hiccups will fade within a few sessions
-  India's new Closing Auction Session witnessed expected Day 1 adjustments, including concentrated liquidity and temporary futures-cash divergence. The article argues these teething issues are typical of global market transitions.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-stock-markets-cas-day-1-hiccups-will-fade-within-a-few-sessions/articleshow/132851824.cms
-
-- Global Market: South Korea plans stricter rules for leveraged ETFs as trading cools
-  The latest measures, including a proposed investment cap, come after trading activity in the high-risk products showed signs of cooling following earlier regulatory steps.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-south-korea-plans-stricter-rules-for-leveraged-etfs-as-trading-cools/articleshow/132851441.cms
-
-- Epack Prefab Technologies shares rally 10% after Q1 revenue jumps 24%
-  Epack Prefab Technologies shares surged over 10% after the company reported a 24% year-on-year rise in June-quarter revenue. While margins softened due to higher input costs, the company expects them to recover in the coming
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/epack-prefab-technologies-shares-rally-10-after-q1-revenue-jumps-24/articleshow/132851604.cms
-
-- Nifty's value doesn't change suddenly at 3:30 pm, NSE clarifies amid CAS confusion
-  Nifty’s last-minute 200-point surge after the launch of the Closing Auction Session (CAS) sparked confusion among traders, prompting NSE to clarify the index calculation process. Introduced on August 3, CAS alters the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/niftys-value-doesnt-change-suddenly-at-330-pm-nse-clarifies-amid-cas-confusion/articleshow/132850802.cms
-
-- WhatsApp Puts Multiple Accounts 'Under Review', Blocks Access For 24 Hours - NDTV
-  WhatsApp Puts Multiple Accounts 'Under
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRGZjk5MGk4NmZpZWZleTVOZENzb09LZ3JEd3BKcUdXNC1mbU5yZmpaUnBxMUc1T24wRzk1N25WakhzVTlNdXV4YjRaUXlVZUEyd2tMelU4QlBSV0RBTVVuaFoxdHk3aDBsSVQ1RHZQRUIxMVFhS1NZOEtaSlk5azdCaW9Va1N5SFJvUG10TGpHeWRaVmFRSm0yb056NVZaMU5N0gGrAUFVX3lxTE5GcjJ4Q1dDdlN6YVhaSXZMNnJHR1Q1MEhCU0N0LWEybW5PdWZrbjZIY1VVNzZTTTZlcDBqY0N3YVdXdFZPTjc0cGFLRHZ2UWU4V1pCUjFROHB1RkE0MU9oaXFIWnF0SzJkd2dPV3phcEw3d0NYS00tdWRMUFBsRWFDZ3o0cGRhUE5ib3JDcWxBYXMtaEpUZXAxVXlRM0dNU1BqQjdFQ2VsMHFQWQ?oc=5
-
-- WhatsApp puts multiple accounts under review, temporarily blocks access for users - The Times of India
-  WhatsApp puts multiple accounts under review, temporarily blocks access
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQelJ0TFpiSjRKSFp4LUJBeVBQYUhJQXJydEtrY2xqbFhkdGg1bzZ0aEZJbG1NcWROWFVNUTZVcDZuUlFpczBVXzRwc2pyYkJnS25ZdWVhRGdYWlYybGJpb2dFQWQtal92V1BCZjVSYjhGUUxrUkFuaDEzRDVvRS0xZVF3ZFdXVXdtdzB0cVJpTzJBNU5yaUFLY041S09QRUFtZWRqZElnd2t3empIMmJQN0llUHhvQW5RelVYWHFXUEZBRHR4czBWblcteUFpYzcxV1JYX3N5eThodkhhYUxhUmdn0gHnAUFVX3lxTE9DUjdPRi01azF3RVB3SDV4VjJYUFFOREx4bXRqN2J2SXVfZXM3cTQ5MkxEUG1pejF6Q1hxa1NJcW5sTzk1V0Rfc1JYUGpGWS13ZUt6STVnR0FjcGIyNXN2QUdfU3AwQjk5eEdWdi1XSUo3ZUtZQnl4QXQyblY0Ui1sb25MMXktWDhyeWxfOG1mV1p5VFdxTkhHc0ljcGxsckVaTTUyY2Y1aHZsU2cyV1YzVUh5Zm1DWjh2SjZvVVB1SUNqdW4tQUpFLUhMLWZBM01lRlVoSUlnMmNZMGVMNVNIamxobERtUQ?oc=5
-
-- WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours | India News - Hindustan Times
-  WhatsApp puts multiple accounts in India under review, blocks app access for 24
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXdwVTlUMHhnQjg4MEFIbEIybGRDeGgxWVIzQ1dqUlJNbzRkUlg0bkpIbUw1cXRZVTJYbWlXTVlET3REUTRRT18xZEVBd0hTR0JrN1E5R3o0cU9xaGpLUE9rYmpLSVNveHZmenVPdlNRbllETXJmWWJqV1FEdUxQUGdjbE5SOXN1QnpTNjc5dTBib1YyVFpxSFB4dUJKa1FHQzNaS2lBcF8xM1ZlMUFXdVI3b3c2cFoyODU3UDlYRThYMWd5Q0NqQkg2QXpLdVh1c1BpUdIB2gFBVV95cUxNTTZBZTVoT2loLURReUV4azgyd05jTzJiYU5Jc1U2LUpMNXExMnZLMm5kWGdNWDNZcElXcXVGX2loMmx6MmwwTTdfR1hVNGhwVnVSVFN4MkQ1eTh2dXlnZThuUTI1UXFHQndvMU4tSWFRUWZwU0hvdHhJNnYyc1kwQWRrRUVDT09fQ2xzbFY0OVNlMjBHOGYzbG9oUDVFU0tjdWpWYm5kS01FZkxZYmlza0dTb0w4U0JTcGtTUmlzMEpsVFFkWFhzaTBlb2k0OE9OUV9CeDJTNG9xUQ?oc=5
-
-- Why India's youth anger has become Modi's biggest challenge - BBC
-  Why India's youth anger has become
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
-
-- How gen Z exposed India’s prime-time propaganda machine - The Guardian
-  How gen Z exposed India’
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
-
-- AI-Native CRM Startup Superleap Bags ₹36 Cr Led By Peak XV’s Surge
-  AI-Native CRM Startup Superleap Bags ₹36 Cr Led By Peak XV&#039;s Surge.
-  🔗 https://inc42.com/buzz/ai-native-crm-startup-superleap-bags-%e2%82%b936-cr-led-by-peak-xvs-surge/
-
-- WhatsApp Tests Age Verification; Some Users Report Accounts Under Review
-  Meta-owned WhatsApp is testing privacy-protective ways to verify users’ age ahead of the rollout of India’s Digital Personal Data Protection Act.
-  🔗 https://inc42.com/buzz/whatsapp-tests-age-verification-prompt-ahead-of-dpdp-act-rollout/
-
-- Apple Restores Telegram On App Store After Brief CSAM-Related Takedown
-  Apple briefly removed Telegram from its App Store globally yesterday. App Store review identified content that violated its rules.
-  🔗 https://inc42.com/buzz/apple-restores-telegram-on-app-store-after-brief-csam-related-takedown/
-
-- Ather Energy Surges 18% To Hit All-Time High As Brokerages Turn Bullish After Strong Q1
-  Shares of Ather Energy climbed as much as 18% to hit an all-time high at ₹1,500 on the BSE today.
-  🔗 https://inc42.com/buzz/ather-energy-surges-18-to-hit-all-time-high-as-brokerages-turn-bullish-after-strong-q1/
-
-- Ather’s Stellar Q1, Klassroom IPO Day 2 & More
-  Ather’s Stellar Q1, Klassroom IPO Day 2 and More.
-  🔗 https://inc42.com/buzz/athers-stellar-q1-klassroom-ipo-day-2-more/
-
-- WhatsApp Puts Multiple Accounts 'Under Review', Blocks Access For 24 Hours - NDTV
-  WhatsApp Puts Multiple Accounts 'Under
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRGZjk5MGk4NmZpZWZleTVOZENzb09LZ3JEd3BKcUdXNC1mbU5yZmpaUnBxMUc1T24wRzk1N25WakhzVTlNdXV4YjRaUXlVZUEyd2tMelU4QlBSV0RBTVVuaFoxdHk3aDBsSVQ1RHZQRUIxMVFhS1NZOEtaSlk5azdCaW9Va1N5SFJvUG10TGpHeWRaVmFRSm0yb056NVZaMU5N0gGrAUFVX3lxTE5GcjJ4Q1dDdlN6YVhaSXZMNnJHR1Q1MEhCU0N0LWEybW5PdWZrbjZIY1VVNzZTTTZlcDBqY0N3YVdXdFZPTjc0cGFLRHZ2UWU4V1pCUjFROHB1RkE0MU9oaXFIWnF0SzJkd2dPV3phcEw3d0NYS00tdWRMUFBsRWFDZ3o0cGRhUE5ib3JDcWxBYXMtaEpUZXAxVXlRM0dNU1BqQjdFQ2VsMHFQWQ?oc=5
-
-- WhatsApp puts multiple accounts under review, temporarily blocks access for users - The Times of India
-  WhatsApp puts multiple accounts under review, temporarily blocks access
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQelJ0TFpiSjRKSFp4LUJBeVBQYUhJQXJydEtrY2xqbFhkdGg1bzZ0aEZJbG1NcWROWFVNUTZVcDZuUlFpczBVXzRwc2pyYkJnS25ZdWVhRGdYWlYybGJpb2dFQWQtal92V1BCZjVSYjhGUUxrUkFuaDEzRDVvRS0xZVF3ZFdXVXdtdzB0cVJpTzJBNU5yaUFLY041S09QRUFtZWRqZElnd2t3empIMmJQN0llUHhvQW5RelVYWHFXUEZBRHR4czBWblcteUFpYzcxV1JYX3N5eThodkhhYUxhUmdn0gHnAUFVX3lxTE9DUjdPRi01azF3RVB3SDV4VjJYUFFOREx4bXRqN2J2SXVfZXM3cTQ5MkxEUG1pejF6Q1hxa1NJcW5sTzk1V0Rfc1JYUGpGWS13ZUt6STVnR0FjcGIyNXN2QUdfU3AwQjk5eEdWdi1XSUo3ZUtZQnl4QXQyblY0Ui1sb25MMXktWDhyeWxfOG1mV1p5VFdxTkhHc0ljcGxsckVaTTUyY2Y1aHZsU2cyV1YzVUh5Zm1DWjh2SjZvVVB1SUNqdW4tQUpFLUhMLWZBM01lRlVoSUlnMmNZMGVMNVNIamxobERtUQ?oc=5
-
-- WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours | India News - Hindustan Times
-  WhatsApp puts multiple accounts in India under review, blocks app access for 24
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXdwVTlUMHhnQjg4MEFIbEIybGRDeGgxWVIzQ1dqUlJNbzRkUlg0bkpIbUw1cXRZVTJYbWlXTVlET3REUTRRT18xZEVBd0hTR0JrN1E5R3o0cU9xaGpLUE9rYmpLSVNveHZmenVPdlNRbllETXJmWWJqV1FEdUxQUGdjbE5SOXN1QnpTNjc5dTBib1YyVFpxSFB4dUJKa1FHQzNaS2lBcF8xM1ZlMUFXdVI3b3c2cFoyODU3UDlYRThYMWd5Q0NqQkg2QXpLdVh1c1BpUdIB2gFBVV95cUxNTTZBZTVoT2loLURReUV4azgyd05jTzJiYU5Jc1U2LUpMNXExMnZLMm5kWGdNWDNZcElXcXVGX2loMmx6MmwwTTdfR1hVNGhwVnVSVFN4MkQ1eTh2dXlnZThuUTI1UXFHQndvMU4tSWFRUWZwU0hvdHhJNnYyc1kwQWRrRUVDT09fQ2xzbFY0OVNlMjBHOGYzbG9oUDVFU0tjdWpWYm5kS01FZkxZYmlza0dTb0w4U0JTcGtTUmlzMEpsVFFkWFhzaTBlb2k0OE9OUV9CeDJTNG9xUQ?oc=5
-
-- Why India's youth anger has become Modi's biggest challenge - BBC
-  Why India's youth anger has become
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
-
-- How gen Z exposed India’s prime-time propaganda machine - The Guardian
-  How gen Z exposed India’
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
-
-- WhatsApp Puts Multiple Accounts 'Under Review', Blocks Access For 24 Hours - NDTV
-  WhatsApp Puts Multiple Accounts 'Under
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRGZjk5MGk4NmZpZWZleTVOZENzb09LZ3JEd3BKcUdXNC1mbU5yZmpaUnBxMUc1T24wRzk1N25WakhzVTlNdXV4YjRaUXlVZUEyd2tMelU4QlBSV0RBTVVuaFoxdHk3aDBsSVQ1RHZQRUIxMVFhS1NZOEtaSlk5azdCaW9Va1N5SFJvUG10TGpHeWRaVmFRSm0yb056NVZaMU5N0gGrAUFVX3lxTE5GcjJ4Q1dDdlN6YVhaSXZMNnJHR1Q1MEhCU0N0LWEybW5PdWZrbjZIY1VVNzZTTTZlcDBqY0N3YVdXdFZPTjc0cGFLRHZ2UWU4V1pCUjFROHB1RkE0MU9oaXFIWnF0SzJkd2dPV3phcEw3d0NYS00tdWRMUFBsRWFDZ3o0cGRhUE5ib3JDcWxBYXMtaEpUZXAxVXlRM0dNU1BqQjdFQ2VsMHFQWQ?oc=5
-
-- WhatsApp puts multiple accounts under review, temporarily blocks access for users - The Times of India
-  WhatsApp puts multiple accounts under review, temporarily blocks access
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQelJ0TFpiSjRKSFp4LUJBeVBQYUhJQXJydEtrY2xqbFhkdGg1bzZ0aEZJbG1NcWROWFVNUTZVcDZuUlFpczBVXzRwc2pyYkJnS25ZdWVhRGdYWlYybGJpb2dFQWQtal92V1BCZjVSYjhGUUxrUkFuaDEzRDVvRS0xZVF3ZFdXVXdtdzB0cVJpTzJBNU5yaUFLY041S09QRUFtZWRqZElnd2t3empIMmJQN0llUHhvQW5RelVYWHFXUEZBRHR4czBWblcteUFpYzcxV1JYX3N5eThodkhhYUxhUmdn0gHnAUFVX3lxTE9DUjdPRi01azF3RVB3SDV4VjJYUFFOREx4bXRqN2J2SXVfZXM3cTQ5MkxEUG1pejF6Q1hxa1NJcW5sTzk1V0Rfc1JYUGpGWS13ZUt6STVnR0FjcGIyNXN2QUdfU3AwQjk5eEdWdi1XSUo3ZUtZQnl4QXQyblY0Ui1sb25MMXktWDhyeWxfOG1mV1p5VFdxTkhHc0ljcGxsckVaTTUyY2Y1aHZsU2cyV1YzVUh5Zm1DWjh2SjZvVVB1SUNqdW4tQUpFLUhMLWZBM01lRlVoSUlnMmNZMGVMNVNIamxobERtUQ?oc=5
-
-- WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours | India News - Hindustan Times
-  WhatsApp puts multiple accounts in India under review, blocks app access for 24
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXdwVTlUMHhnQjg4MEFIbEIybGRDeGgxWVIzQ1dqUlJNbzRkUlg0bkpIbUw1cXRZVTJYbWlXTVlET3REUTRRT18xZEVBd0hTR0JrN1E5R3o0cU9xaGpLUE9rYmpLSVNveHZmenVPdlNRbllETXJmWWJqV1FEdUxQUGdjbE5SOXN1QnpTNjc5dTBib1YyVFpxSFB4dUJKa1FHQzNaS2lBcF8xM1ZlMUFXdVI3b3c2cFoyODU3UDlYRThYMWd5Q0NqQkg2QXpLdVh1c1BpUdIB2gFBVV95cUxNTTZBZTVoT2loLURReUV4azgyd05jTzJiYU5Jc1U2LUpMNXExMnZLMm5kWGdNWDNZcElXcXVGX2loMmx6MmwwTTdfR1hVNGhwVnVSVFN4MkQ1eTh2dXlnZThuUTI1UXFHQndvMU4tSWFRUWZwU0hvdHhJNnYyc1kwQWRrRUVDT09fQ2xzbFY0OVNlMjBHOGYzbG9oUDVFU0tjdWpWYm5kS01FZkxZYmlza0dTb0w4U0JTcGtTUmlzMEpsVFFkWFhzaTBlb2k0OE9OUV9CeDJTNG9xUQ?oc=5
-
-- Why India's youth anger has become Modi's biggest challenge - BBC
-  Why India's youth anger has become
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
-
-- How gen Z exposed India’s prime-time propaganda machine - The Guardian
-  How gen Z exposed India’
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
+- White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules - The New York Times
+  White House Whipsaws Silicon Valley (and Itself
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHNkTzBIRHZZR1ZuWkxUWW1QdjBtcU95NlJ2cm4xRUptS1hUOG9rUVdyOW9JUHFNa2ZwR2JGNExYbWV3TEY0cXAzNkRpcjNIbEdlUXZVUWNOazlRTmRjUHRXZmVFYzdyWHVLM3pQNmV5eWZQTTB1RFBjd3hqa0x0VU5USHczOGFJdmh5aw?oc=5
 
 
-_Last updated: 2026-08-04 08:31:44 UTC_
+_Last updated: 2026-08-04 14:01:03 UTC_
