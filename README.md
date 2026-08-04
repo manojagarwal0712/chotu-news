@@ -1,44 +1,12 @@
 # 📰 Daily News Summaries
 
-- 'India's Gen Z Protest Not Organic,' Claims Sydney-Based Political Scientist Salvatore Babones - NDTV
-  'India's Gen Z Protest Not Organic,' Claims
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmwyRVhGNktvWUlaWHZpY1VRQTRKU0NWZFBMamdYeWZlSERYd0xCNUFRX0REM0FvZHZXY1dKeHN6SHdCWW9ZOGZ1b20xR1BZZGtLQlplQ0tJUkM0bGJfY0NncXJCa1MtZlZ6NVk5N05xQXRUTWdwdVhpdkNtbFJqZS1RTjA0NW1janhJWC1NUEpRNEhncDVsYTJvRWRxbTRkQkNwOXV5WF8tX2Zqc2dxUzUzSdIBuwFBVV95cUxOc3NhSTV4dFBOR0wwd2puTDRlWTk3Nm40UkxJT3h0TEdfTFdra0pWTkFVX2NVNFdaWTJlYTNJSWQ1MFlVekx1Tl9FSzZyNDdaWldYTnFHREVyUmdKMnlXRXNHenRhbXcxZUFkSHRnYm50TmdVTDEwMDQzclBBb2JQYkc3aW9xZ0RSWEszNUstYjVyNTVZQy1WOGVWN19RTmttd1F0bEY4bkdTZUo1cTNzLVJCdWluLXhLV2k0?oc=5
+- The new money backing India's deeptech startups
+  Freed from the short timelines of venture capital funds, wealthy families are backing India's next wave of AI
+  🔗 https://www.livemint.com/companies/start-ups/india-family-offices-deeptech-startup-funding-11785723703684.html
 
-- India news Live Updates, 3 August 2026: Jharkhand CID conducts raids in JPSC exam irregularities case - The Indian Express
-  The Indian Express reported that the Jharkhand CID conducted raids in J
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxObFMxbzVCSHJKbUU1cTBoYkU1TXBxYUFEX1B5eWlEUDd6RFpjbGpmc2Mya2FhWDNXTXNPV0ZIT0dSbGdkeFdxbWdDZTNoWFRQb1lvVDNVQXVMUlh4TE5FMjBwb2hhOTM1MS03LWkwSi1WR0Vja3l4dW0xc0hUWkNuRGtXRmpkOFZmallWckVpaW9fUmpaOWhSYS1uSC1ZRG9ZdlNDS0xMek82Rzl0b0JwWTNCOV9FRTFNYTJuNUY1dUtTdi10TmtDSDBaRjA0d3V1cVM1Y0NOUUFqZ2h1ZkhnOTVCOHRsSzhYSE1HMkVCNE9GVDZZ0gH7AUFVX3lxTE0tV1JFdF9jRWRNZTgxQlRjb0hlMW1FLVFYTzFLNWFZOXpsZUhVdnRvV0tZOFBET1dpN2t5SWNLdVRZTHZVUjdVRnJiRWF1cjVlZEFxX1I0TUs3RGU5aUZDR0JCVkpURHJoZEZNeWljYWhYZFR1dmg5Vkw1UWh6dHVXTkJyaE5qMXdLeTNGcnQxQnRBYWxyRnkyUklHZW03OFA5c2ZKajRIWFhRUDdEajRBNWh4WU1ONHBqMFlUUmFYRWFMc1NiOHJOQmwzSC1TMndnSEd1cUhHUFZjOE1iLXRNRzdQNGJfZ18xNkR6RjBYM3RrdnZCVkExTXdN?oc=5
-
-- Sheikh Hasina’s media event can hurt ties with India: Bangladesh - The Hindu
-  Sheikh Hasina’s media event
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNNldtQkNMN3lGcndTQlpaeDllZFY1UVBlVlk0TXpQQk9mRUNNMjZza29LakdQeEdrYUMzX0FrRjNhODNLYlZPR1RfdG9VeVBNdWZtS0RSSzdIbzVoR0ZsVmxKZWllWmM0eTVvM2Q3RGhLLXJiT2VlS1QzSmpDRFJKZWNrdHpIVkFOdUpId3N2QUozU0d0N2RuNFBTODRyVUc0WGFOZS1YVFRzeTlYUmJIQWU2TWQ3TUtkQmFya3pB0gHEAUFVX3lxTE5xMm1FZGZxRzlLMEIwV2pWMjR2QTBvM2JpLXpiTUo3LXFXVjM4QzJsQnF1QjVuMGVXcnYwMWpqNXcweW9VNEpfV2xWVlBySHZlbERBMFdtNkphMzlaaGFiaWlGUkg0eGVwNkl5ZXlpc25oUGVPY19pQ1lYTXVybk0zWjBpZEVLbWx0NzlIdGwzS0l4NkxhaDBwVi1rTFFnYklxSW1aN3Y2dGQwX3lhNVRVSW9QYVR6QTJTZkljSzdYR0Y2Y1c?oc=5
-
-- "Want Sheikh Hasina To Return, Remove Ban On Her Party": Taslima Nasreen - NDTV
-  "Want Sheikh Hasina To Return, Remove Ban
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWczVmJpZFlSX3pzVE1Db1NuNVNEOURSeXcwcHhwQlpTanJBZ0lTUUFrVldzYXQwX1ZCYi04bURiOG5DSUEzXzQ1aFRuekVTNHA1bTFacm5OWnBucF9FR0tTaVJkdUlDMmdqamEtQ0VJSENZVFlXQndNMGJacmYxSFk3cjNtWGdUQVlJMEk1bkpEVENQY19XdFVkVUx4TnNuQ0V2Q2FLQlRyZE83cVHSAbYBQVVfeXFMTUVyTzNQb1hmdV9ONXhfdGZIWWY0c3RFQTU3ZDFNMlYydzhYc2hQZDFhaDdCSzdnTHVrOXVkbmh6WkhfbEJuYk5YSUZVcVJ2ZHFzbExsUEhNMHVYVG10Z0VvTnV1clZqMWplLWJvVHpkWE5qcnM1ODdxNGJRaXozZjc1bXNxN202T1J1MzAtdjZrd19KbUVDcllVdFJsc0tBeTdIcEFXVmhNRk1SaHNFR2ROaEYwNmc?oc=5
-
-- Bangladesh warns India over Sheikh Hasina’s planned August 5 address - The Indian Express
-  Bangladesh warns India over Sheikh Hasina�
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTi0zakg5ZGFXSURoNEJRVkVlRF9MUFByUDNEWGVtUFVVQ1Uwc0Nfay1rdC1PeHVsWkVmRlZUWDR0bUtqZjYtai1LUlRBNmo5RnNRSXI5Zk9rVzdhRllsYnBZMGUzTkd4MnNUUVFvaHl5VkJma0xMaVBaekloNHYwaDVFYXhDeElSb1Awa0NIR2lZU2wwOFc5RkEtelNSd2JHU2N0Qi1LZ0lrU19rWHo3MzVqaWNkRDBwVGFPWlE3cllsRkxnQzEwddIBzwFBVV95cUxPSUlzSWJzbnFvRXRDcnJYVWw2a0lTT05VdTVycVQzdklUREdpT3AxbjVZYW1fOUVuQ0Z5SzhsZ1NZQkZoZ2lzRDNMcUxuemhfVWdZM3Bndjc0eVVaNXN1QmNnR3k4YlJxalhDVVRvMnNBTkN4bFpRX3kwdDZNNzR0ZXFaTXhKMERMYTBzWEZSSlJYSkx2cnZ2dkQwSjFsZ09KVk1GeVpyWlhYajl5d2NrZGVZeGtxTGJNU0JtS3dTdVFSVHVjNU5oaFU4VGJCWmc?oc=5
-
-- Varroc appoints Eric Hamon as Chief Technology Officer - ET Auto
-  Varroc appoints Eric Hamon
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWF1OXd3R1FDTUUyNHBJcFhMVGdUdmlkTzhMRnpnYzU0R3laZWxpcS1DUGxPaTlaUmFsRDFYTUkyNUhwZ19TeFNiX2lOSjZtOGZfWnNrRlZ3Y1FLVzNqZVN1cjV1UWRkSEVJUjA0M1BuWWFXWGt4eUZ2N1g1djZzbWFrQ01YNHZEY0FtS2EwYzRGeHRySEp5NTQ3a201eXRnal9GZDA3Q2ctSmYzdC1ydmV2V2FiaE5ONVlTaHRTNVJoWnBweWfSAcsBQVVfeXFMUHBVM0hjU1FDT0hhNEdWTXpndDhjeFhlMHB6aGZtVmNNbk5UdVZoS2M4RUNOU1hoTG9WUmFVVFhreDAyV2dsT3BDS08wbEVyWW1DM1dLd21sTGdnQzZpNEl4bzRPS29UQk1HdmVieFVYWTd4WGx0ZC1hVjFUdFZ6YV9iaGhqVFF3N3VDX0s4RzhNWDNtRDVwWG5RRXVLU0loMDJYOVVqRE9lYjFuNkprbFo1SlI3VWl6RFRxQkpDQnROWFVWTXdZWUlSWHM?oc=5
-
-- IIT-Hyderabad, Crimson Energy launch nuclear technology orientation programme - The Hindu
-  IIT-Hyderabad,
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLXJyekpRUlNBTjRpV3lMLUVUaXloZktrR2poTlV4MTFpTGNIZ2Iyd2MyNk94b0pQbHJlNEh5N28tOWIyWTBKbUFicGJkSHB2cHdFY1R6d2pYbWVGUERCZEVRb1ZvS3hHUFBrbFNsN2FZUjNHWDZtblNpaEU5aFdIUWRWdXp5WGVJN0tGcFYzT05zX0dTU1M3VzQ1QjQyWV9RZ0JtUThSTV80RWJjQU5JcTYzZU9tMmczeUl1UVRCTVItamMxQ0ZaWUpqbTk1WmRIQ3NOZmlhV0RZM3PSAeIBQVVfeXFMUFBqY2hXQWc4cDM2cU0zcFZIOHc5NzlSQWVnMW9QeWFMaGlrRXkxbk5ETlZQb3MtX19EU1JQS2JrM2dFTGc0THVGS0VObjFKZGJzeWUzTDBzSGI3YVpmTUd0bktTQ2xxeTdBa0hod01aVzFRTmU4T3M0NzBRdXV6M1pScDh2eFl1bm9oV2hZaDJralNvaDVVa3VveUdFSTA1UkZyOTZLUkUyR0djSG9DQUtIQVFsaUJta3dVcG9SQXRwcFQxMTdUUzlkUi1rU2VzazZDTHlNYUpFVjI4N1RoMVV4dw?oc=5
-
-- IIT Hyderabad launches India’s first Nuclear Technology Orientation Programme - Telangana Today
-  IIT Hyderabad launches India’
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkotTmtFb3FBeE51NDNiYTh1d3l6SngzUVZ5NkhPYW1QMXg5Qm5qbVdOZ1lLVnp1NVZyVDVzdFhLbUZHZFBOenJPb0VrNnNlSmxUc01LdmxjNzZDVVp6WWlJaVdXemt4enRqWHhMam5odVJXNENMNEFSaS0wMjQtVWI2V01TOUlVWTU3OGNLNFhjWVJoeWtiUm5EU3RDeWZhVl9vcERn?oc=5
-
-- IIT Hyderabad launches India’s first industry-academia programme in nuclear technology - The Indian Express
-  IIT Hyderabad launches India’s first
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOalZMd0o1V2pra2Y3ZTJkT1RpckpQZkJKU0x5ZXFRR2tFM2czWi11ekV6WHZzNGxJUGxFUWk0SnNrZklEX1k2YjRBRE8tTldXaUFXZndxWXVHd2luTDZpSzlOSTBFXzd6TkhCMGh5Sk12WG5tYXVDTERPajJLOEhHZ1R1Zy1MdU5fMlZUWW5OMnJ6ZzFFcmY3VHJCMUVaVzZvQnZJUTlTMXFMSklLZHZrbjFrcWpfdmR6cS1aV1ZwVXRRMG9lZ0dQZXR4MHZIZVpxWHVkU05SSTdMZ9IB4AFBVV95cUxONUpGeVJrMGxXa3pob0lvWVlzVFFCd1FuZlBXdTdYUHNac1lKQXZNeEg2eDE1SnMzOFMtMVhJN3lhZnRsT0ZaNjFmMnJwQTAtalJpcGZoMlpxMXU5UlBBTndIcGVfekpiZTA1NmQtUFFNeGwxR3YwQ05DYVNZZmdQeHdLUF82T0k2SXNENUNNR0ZfUWFCc29PTm9NVnBHQm9ueDkzUEZza3YxRmR6cVhsT210LWZTSkdIYlMwZkNFYTlVT2U1VjA2VExabExDaFlDd1F1dGxhdVBvZ1NOalRXTQ?oc=5
-
-- Ethanol-based EV charging technology introduced in Telangana; Kishan Reddy calls it a major green energy initiative - ChiniMandi
-  Ethanol-based EV charging technology introduced in Telangana.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWGxjb3E0ZGlLNHFtTE85a3FXN2h3Wnh0bDZZUHJSelBFMWFBS0IwdFVnYk81LXZFYnk4VERvOGtpSjU5S0NnZXRKVnZtM2xFaTZDSlduOGRidjktcTFiY2JoRllzY3R3Ml94LWthUkl0UFB6cGVwQ280SGQ4YlRhVDJlRXk5N0xlRVAtaTUxUXZ5MjNqNUpxY1R3WGJFeUtUSkpOc3BZMV9wZUVpTkhjQi1UeURsaTBOSXhYVXhzelNlYk1DQVRiMkNSRFBVNUU1MEdUb0FtdWkzQQ?oc=5
+- HCLTech bets on industry expertise as AI reshapes IT services
+  The IT major has reorganized around industry verticals, betting deeper sector
+  🔗 https://www.livemint.com/companies/news/hcltech-leadership-reshuffle-ai-demand-industry-verticals-11785476359489.html
 
 - Citadel Securities Sees a $500 Billion Chip Financing Debt Binge
   Citadel Securities LLC is forecasting another $500 billion-plus of debt in the public and private markets by 2028 to bankroll the chips that go inside the artificial intelligence campuses.
@@ -52,33 +20,33 @@
   On Monday, the general insurer launched 25 products and features to mark 25 years of operations. Many of the
   🔗 https://www.livemint.com/companies/icici-lombard-shifts-focus-from-risk-transfer-to-risk-management-insurer-policy-general-insurance-products-ai-11785770296292.html
 
-- Jio Financial to build secured loan book before entering unsecured credit
-  The company highlighted rapid growth in core income and its planned entry into reinsurance
-  🔗 https://www.livemint.com/companies/news/jio-financial-to-build-secured-loan-book-before-entering-unsecured-credit-11785767542100.html
+- Crude oil prices rebound after 7% decline amid ongoing US-Iran war; Brent remains below $85 per barrel
+  Brent crude futures for the front month gained 0.7% to $84.39 per
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-rebound-after-7-decline-amid-ongoing-us-iran-war-brent-remains-below-85-per-barrel-11785807785298.html
 
-- United Spirits moves Bombay HC over FSSAI flavouring order
-  Diageo India-owned liquor maker has challenged the regulator's crackdown on flav
-  🔗 https://www.livemint.com/companies/news/united-spirits-moves-bombay-hc-over-fssai-flavouring-order-11785767013815.html
+- From Gift Nifty to RBI MPC meeting, crude oil prices: 8 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around the 24,628 level, a discount of nearly 21.40 points from the Nifty
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-rbi-mpc-meeting-crude-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11785805530627.html
 
-- Stocks rally, fueled by gains in Big Tech and a drop in oil prices: Live updates - CNBC
-  Stocks rally, fueled by gains in Big Tech and a drop in
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBPYTd2SDI1UzhVYy1QQ0RaUi1KOE1rSFJCQmxHeTlnM3ZZQmFXdWZQWng1dldOUFA2S0RBMDdfX0pzNUR0ZVBRQXlRSExfY0NPdmljZ09pMmp1N0RSWFA3MkgybG5uTUQ5blFoWXNlc2NmbE9UQzdj0gF8QVVfeXFMT2dad3JfYjlzX3lVT3d5a3lGMTRWdndwYmlyd3ZCX0tKYWxHcG1mODdIQndhN19VY2czWnZwTDFfeFlsTnl4ZlZhdkloNFh1Uy1NRkZwZkphSndSOHNFN0RKSWFXMDluMmREd0NiVlRYU3dXUjJMMmg5VS1kVQ?oc=5
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 4 August 2026
+  Sumeet Bagadia recommends five breakout stocks to buy today. Aditya Birla Capital, Diffusion Engineers, I G Petrochem
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-4-august-2026-11785804246092.html
 
-- Stock Market Today: Dow Jumps 500 Points; Oil Prices Slide; U.S.-Japan Prop Up Yen — Live Updates - WSJ
-  Stock Market Today: Dow Jumps 500 Points; Oil Prices Slide; U
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTI2NlhSeXdua2NNNnlSQVhjaXRJdEs3QnExblJQWHBLdndrREVxb3JpV0JtaXE1M1l0ekxqa1B3a0d2MGJUdE5oaWc2S2JvREhtRUhZdldCeml1NFVQWWlzM3lZZmZ1NGJ2aGJwdElTMWZiUHZMWTh1MWxKZmlwc1BIZ3RKRHM?oc=5
+- Raja Venkatraman recommends three stocks for 4 August
+  Market expert Raja Venkatraman shares his top stock picks for
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-4-august-11785804004747.html
 
-- Stock Market Today: Major Indexes Soar to Begin August Trading as Oil Prices Sink; Dow Adds 500 Points - Investopedia
-  Stock Market Today: Major Indexes Soar to Begin August Trading as Oil Prices
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQbWtqZm0yX3I4RUVkak1JSzczQjY5UGtLU1RHNGIzUlR6MjQ1LVNRSEhzUHMyNndISEpBdHoteTVJRUxsRXRDblpSSU9nbzZHajhabEFiNGtLQmdRZFN3N1Ffd0N3T0ZCNUI5R1ZYSjkzQ0l3cTd5dmtxRTBvaGpyamljc21MdjJnMFI1VDhhWmw?oc=5
+- Stock recommendations for 4 August from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 4 August. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-4-august-from-marketsmith-india-11785759080700.html
 
-- Sensex settles 550 pts higher, Nifty ends above 24,750: Decline in crude prices among key factors behind... - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRlpCbWtwdjVXUm9Va2RGbC10OVllMlFJdTI4NGhDNTVHRG4tU1oxTXFTTUhPNzR6QXNEVkFfcnAzM2NFUzF4b2RWZGQtbzZmZFE5YmpEOXVoUzBodkFGYlNJNV9SelFzUl
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRlpCbWtwdjVXUm9Va2RGbC10OVllMlFJdTI4NGhDNTVHRG4tU1oxTXFTTUhPNzR6QXNEVkFfcnAzM2NFUzF4b2RWZGQtbzZmZFE5YmpEOXVoUzBodkFGYlNJNV9SelFzUlZwZWZSMnBBTEJyb21CWkh0UTJGOFlvRUMtSE5WaUZWc2UyZVVJWEc0SWJrbkE2bDZVRTF3eUZ6TWlOVHc1cWFOT0hrYnNiQXBwQkNNT3BtRzNtUHdJUEpPQXZjUVVuSVNjWG5ocVFXTWlDaExkczlUbG1LWEpHSE5URU1YdkFrRHdQcDhXejBkZldkcFFUWtIB_gFBVV95cUxOSk56SEpoTDJCeE0zcHFIN051LWZ4ckhEVGtsQjM2TEwtQ3BaQl9IeHI0TkRjamRSQ0E3dmd5QmpDeVhCVHp5a054TXlsdkNIM3JUTUtWUk84eElZZW1JUW55MEsySVJDaktuOTZBclhmTzNaOElDS2JVSWNLWEtBU043eFE5WDg4QWFSS056cHM2bVdVNUV6OFRIYmpqcWpWTkpyVDF3b0EwTXNDMzZqWVVpQ29hWHVFZk1zZHVmUk12OTNFY081cDVDLVJLQzMyYVhtOC1zWFB1czBURU1qUWZkVWNKQmJQeUZadk8tU1JpNnF4blBNdTJJdmkwQQ?oc=5
+- WhatsApp outage leaves thousands users unable to share media; 'I thought my WiFi was trash'
+  Thousands of WhatsApp users reported issues on Monday. Users
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-outage-leaves-thousands-users-unable-to-share-media-i-thought-my-wifi-was-trash-11785806847254.html
 
-- Gold eases as markets weigh Middle East uncertainty, inflation risks - Reuters
-  Gold eases as markets weigh Middle East
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnkxZDh5TElCa1dZeUtDT2JfblI5ZFJuQkZNQ1pvbHlkcWxHRUVfMk51N2t0ZDUtbEhOYW9aVjg5d3lMSkNXYlFMc0I5Z3o1bjh4c0pkZ3BsWkRYeWhOalNoOUZPN3pvYVRSb1NnT21rZy1TamRFMHN2MUp1WjhoSmZaT0prMExjTVk1aThUbHAwNEo3MmpsbTI2UFdsY2Z2Y0RlT2RB?oc=5
+- Pre-dawn emails and empty desks: inside the sudden layoffs at Visa India
+  The Visa layoffs show how AI is changing employment in multinational technology companies. automation, tighter spending and workloads shifting
+  🔗 https://www.livemint.com/technology/tech-news/predawn-emails-and-empty-desks-inside-the-sudden-layoffs-at-visa-india-11785751686088.html
 
 - Meta, Anthropic invited to meet with Trump officials about AI safety testing
   Meta, Anthropic invited to meet
@@ -92,133 +60,85 @@
   TRAI said the app is designed to bridge the gap between technical performance metrics
   🔗 https://www.livemint.com/technology/apps/trai-revamps-mycall-mobile-app-to-assess-voice-call-quality-via-user-feedback-in-real-time-11785758424165.html
 
-- Google Pixel 11 series India pre-order details revealed ahead of launch: here's what to expect
-  Google Pixel 11 will go on sale in India on August 13. Pre-orders start August 12
-  🔗 https://www.livemint.com/technology/gadgets/google-pixel-11-series-india-pre-order-details-revealed-ahead-of-launch-heres-what-to-expect-11785739321044.html
+- Alpha Alternatives buys 4 road assets worth Rs 7,500 crore
+  Alpha Alternatives has acquired four operational road assets valued at approximately ₹7,500 crore. These assets were purchased from Ap Co Infratech, KCC Buildcon, and Welspun Group.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/alpha-alternatives-buys-4-road-assets-worth-rs-7500-crore/articleshow/132843793.cms
 
-- AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan
-  J.P. Morgan Asset &amp; Wealth Management says AI is reshaping the cybersecurity landscape. But organisations continue to struggle to patch them in time, report says.
-  🔗 https://www.livemint.com/technology/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan-11785738239894.html
+- Essar to invest $5.8 billion in Stanlow Energy Hub Transition
+  Essar Group plans a significant £4.3 billion expansion for its UK Stanlow refinery. This project will establish an energy transition hub focused on low-carbon hydrogen production.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/essar-to-invest-5-8-billion-in-stanlow-energy-hub-transition/articleshow/132843740.cms
 
-- Stocks rally, fueled by gains in Big Tech and a drop in oil prices: Live updates - CNBC
-  Stocks rally, fueled by gains in Big Tech and a drop in
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBPYTd2SDI1UzhVYy1QQ0RaUi1KOE1rSFJCQmxHeTlnM3ZZQmFXdWZQWng1dldOUFA2S0RBMDdfX0pzNUR0ZVBRQXlRSExfY0NPdmljZ09pMmp1N0RSWFA3MkgybG5uTUQ5blFoWXNlc2NmbE9UQzdj0gF8QVVfeXFMT2dad3JfYjlzX3lVT3d5a3lGMTRWdndwYmlyd3ZCX0tKYWxHcG1mODdIQndhN19VY2czWnZwTDFfeFlsTnl4ZlZhdkloNFh1Uy1NRkZwZkphSndSOHNFN0RKSWFXMDluMmREd0NiVlRYU3dXUjJMMmg5VS1kVQ?oc=5
+- Amazon hits $3 trillion market value
+  Amazon's market value surpassed three trillion dollars for the first time. This milestone places Amazon among only five companies ever to achieve such a valuation. The company's shares surged significantly after strong second-quarter earnings reports.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-hits-3-trillion-market-value/articleshow/132843717.cms
 
-- Stock Market Today: Dow Jumps 500 Points; Oil Prices Slide; U.S.-Japan Prop Up Yen — Live Updates - WSJ
-  Stock Market Today: Dow Jumps 500 Points; Oil Prices Slide; U
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTI2NlhSeXdua2NNNnlSQVhjaXRJdEs3QnExblJQWHBLdndrREVxb3JpV0JtaXE1M1l0ekxqa1B3a0d2MGJUdE5oaWc2S2JvREhtRUhZdldCeml1NFVQWWlzM3lZZmZ1NGJ2aGJwdElTMWZiUHZMWTh1MWxKZmlwc1BIZ3RKRHM?oc=5
+- Global Market Today: Asian shares rise after Wall Street rally driven by tech stocks
+  Asian shares advanced, mirroring a Wall Street rally fueled by technology stocks. The yen stabilized after intervention-driven gains, while oil prices declined amid easing Middle East tensions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-rise-after-wall-street-rally-driven-by-tech-stocks/articleshow/132843654.cms
 
-- Stock Market Today: Major Indexes Soar to Begin August Trading as Oil Prices Sink; Dow Adds 500 Points - Investopedia
-  Stock Market Today: Major Indexes Soar to Begin August Trading as Oil Prices
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQbWtqZm0yX3I4RUVkak1JSzczQjY5UGtLU1RHNGIzUlR6MjQ1LVNRSEhzUHMyNndISEpBdHoteTVJRUxsRXRDblpSSU9nbzZHajhabEFiNGtLQmdRZFN3N1Ffd0N3T0ZCNUI5R1ZYSjkzQ0l3cTd5dmtxRTBvaGpyamljc21MdjJnMFI1VDhhWmw?oc=5
+- Government unveils offer for sale to dilute LIC stake
+  The issue will open for non-retail investors on Tuesday and retail investors on Wednesday. The divestment includes a base offer of 2.5% with an additional 4% greenshoe option. The floor price for the Offer for Sale
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-unveils-offer-for-sale-to-dilute-lic-stake/articleshow/132843520.cms
 
-- Sensex settles 550 pts higher, Nifty ends above 24,750: Decline in crude prices among key factors behind... - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRlpCbWtwdjVXUm9Va2RGbC10OVllMlFJdTI4NGhDNTVHRG4tU1oxTXFTTUhPNzR6QXNEVkFfcnAzM2NFUzF4b2RWZGQtbzZmZFE5YmpEOXVoUzBodkFGYlNJNV9SelFzUl
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRlpCbWtwdjVXUm9Va2RGbC10OVllMlFJdTI4NGhDNTVHRG4tU1oxTXFTTUhPNzR6QXNEVkFfcnAzM2NFUzF4b2RWZGQtbzZmZFE5YmpEOXVoUzBodkFGYlNJNV9SelFzUlZwZWZSMnBBTEJyb21CWkh0UTJGOFlvRUMtSE5WaUZWc2UyZVVJWEc0SWJrbkE2bDZVRTF3eUZ6TWlOVHc1cWFOT0hrYnNiQXBwQkNNT3BtRzNtUHdJUEpPQXZjUVVuSVNjWG5ocVFXTWlDaExkczlUbG1LWEpHSE5URU1YdkFrRHdQcDhXejBkZldkcFFUWtIB_gFBVV95cUxOSk56SEpoTDJCeE0zcHFIN051LWZ4ckhEVGtsQjM2TEwtQ3BaQl9IeHI0TkRjamRSQ0E3dmd5QmpDeVhCVHp5a054TXlsdkNIM3JUTUtWUk84eElZZW1JUW55MEsySVJDaktuOTZBclhmTzNaOElDS2JVSWNLWEtBU043eFE5WDg4QWFSS056cHM2bVdVNUV6OFRIYmpqcWpWTkpyVDF3b0EwTXNDMzZqWVVpQ29hWHVFZk1zZHVmUk12OTNFY081cDVDLVJLQzMyYVhtOC1zWFB1czBURU1qUWZkVWNKQmJQeUZadk8tU1JpNnF4blBNdTJJdmkwQQ?oc=5
+- WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours | India News - Hindustan Times
+  WhatsApp puts multiple accounts in India under review, blocks app access for 24
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXdwVTlUMHhnQjg4MEFIbEIybGRDeGgxWVIzQ1dqUlJNbzRkUlg0bkpIbUw1cXRZVTJYbWlXTVlET3REUTRRT18xZEVBd0hTR0JrN1E5R3o0cU9xaGpLUE9rYmpLSVNveHZmenVPdlNRbllETXJmWWJqV1FEdUxQUGdjbE5SOXN1QnpTNjc5dTBib1YyVFpxSFB4dUJKa1FHQzNaS2lBcF8xM1ZlMUFXdVI3b3c2cFoyODU3UDlYRThYMWd5Q0NqQkg2QXpLdVh1c1BpUdIB2gFBVV95cUxNTTZBZTVoT2loLURReUV4azgyd05jTzJiYU5Jc1U2LUpMNXExMnZLMm5kWGdNWDNZcElXcXVGX2loMmx6MmwwTTdfR1hVNGhwVnVSVFN4MkQ1eTh2dXlnZThuUTI1UXFHQndvMU4tSWFRUWZwU0hvdHhJNnYyc1kwQWRrRUVDT09fQ2xzbFY0OVNlMjBHOGYzbG9oUDVFU0tjdWpWYm5kS01FZkxZYmlza0dTb0w4U0JTcGtTUmlzMEpsVFFkWFhzaTBlb2k0OE9OUV9CeDJTNG9xUQ?oc=5
 
-- Gold eases as markets weigh Middle East uncertainty, inflation risks - Reuters
-  Gold eases as markets weigh Middle East
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnkxZDh5TElCa1dZeUtDT2JfblI5ZFJuQkZNQ1pvbHlkcWxHRUVfMk51N2t0ZDUtbEhOYW9aVjg5d3lMSkNXYlFMc0I5Z3o1bjh4c0pkZ3BsWkRYeWhOalNoOUZPN3pvYVRSb1NnT21rZy1TamRFMHN2MUp1WjhoSmZaT0prMExjTVk1aThUbHAwNEo3MmpsbTI2UFdsY2Z2Y0RlT2RB?oc=5
+- WhatsApp Reviews Multiple Accounts In India, Temporarily Blocks Access For 24 Hours - News18
+  WhatsApp Reviews Multiple Accounts In India, Tem
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSjVQc0hvYXdiVTlQSHpFbHJGMUtObXdpLXBLT25jTlBpcnFsdEQzWlVRbl9fM1JRakpjUV9WU2RUbGczVjBlOEpGR1JiMWJ5a1VQZWhUVllJV09wZWhtazRadGVLVTExMC1SbzdIU1ViaGFaeDFuRVF3T3l3OHFlRU1xdk9NMnV3NktBYXlpb0NDNXQ1YXFtaS05R0Z1dTZsbmFfNTVxQmVLTmV3aVo2YzdReGJ1UHQ5UldScEZpM3NvSnfSAcgBQVVfeXFMTW41QjRTQWFpSEhzMmNsVFJBNFFadVMzZzlkRS1HR0c0andWYU82RmdWd1FtZy1ubDVNbnRGeWd6R0xvYkZ6WHo4b3VkaUpwdlhGbi1aN0ZvVC02Q2xKUWRiQUpnNFo3X2tRRVJHTmJ0TWI4TThKVjlUNEx0Y254TmRfaDVLZ3I5M1BPSThpTTFBMEZiVTAyMWJLbmRKcUVSTDhNRmVLSG94bldsclJtUWo2WVYwcHdVLW5hd1JZaHVNQUJsYkppTEw?oc=5
 
-- Yen holds gains after Japan, US confirm joint intervention, signal more action
-  Japan and the U.S. intervened jointly to support the Japanese yen currency. Officials vowed to take further coordinated action if needed to stabilize the yen.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-holds-gains-after-japan-us-confirm-joint-intervention-signal-more-action/articleshow/132839035.cms
-
-- Muthoot Microfin case: Sebi exempts six family trusts from open offer obligation
-  Sebi has exempted six Muthoot family trusts from an open offer requirement. This exemption pertains to the indirect acquisition of shares in Muthoots Microfin. The restructuring involves multiple share transfers among family trusts and spouses.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/muthoot-microfin-case-sebi-exempts-six-family-trusts-from-open-offer-obligation/articleshow/132838278.cms
-
-- Kansai Nerolac Q1 profit rises 5%; approves Rs 601 crore capacity expansion
-  Paintmaker cites healthy demand despite geopolitical
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/kansai-nerolac-q1-profit-rises-5-approves-rs-601-crore-capacity-expansion/articleshow/132836083.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Sensex gained 544 points and Nifty surged 1.6%, adding nearly Rs 5 lakh crore in market value. FII inflows, a stronger rupee and upbeat earnings supported
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132835943.cms
-
-- LIC OFS opens on August 4 as govt looks to sell up to 6.5% stake. Check details
-  The government will launch LIC’s offer for sale for non-retail investors on Tuesday and retail investors on Wednesday. It plans to divest up to 6.5
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-ofs-opens-tomorrow-as-govt-looks-to-sell-up-to-6-5-stake-check-details/articleshow/132835659.cms
+- Is your WhatsApp working? Meta app puts multiple accounts under review, blocks app access for 24 hours in Ind - India.Com
+  Is your WhatsApp working? Meta app puts multiple accounts under review, blocks app access for
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcnpWbE5oWDZ0cGo3U2RKTDU4UFhVUW9LV2EwWWRRbDBqSTFRWUhoUmlGUVNINlVOdmNVajBzbTltT3hYc28yQzgzcmdoWERyQUplM2daVHdFXy1xY2xXajA4cnUzTmxQODhvb245bFZrUU56bndxRGQ2dTlSQ2ZGcGtkN21ucDI2cDU3NTRqRlRWSmlsMm8zMFRhRmhXT0JZX2FpbGM3LW1seW1XdC03UEtlSmxJaXNuOVNCV0dnck8xZjV2dVhSRFNxdE1uQVcyTlVmcEFTMzBBcmNtdl96OHhPWkQ1UdIB6wFBVV95cUxNYTBLNkN5czhfajU0YmFzaDZoS1hSUkNfYzV3TnFBanUtdUtDQzdTYURWNFBTZ2c3bkh4d1hCeXMwdEZ3cXFBTl9lT0FtTHhNMzlYaElpXzZvVkZaX3dZaDRmX2pRNDFKQWhsTHRzVDI3ZFYya2Q2TzJCMzFRQVhUOVFoeTc5SElLam1xZXhia19TZWJjM19nWXd4dzJHNnNZc2U5S3Z6N1R3VVRTS2Z2bGtoS2E3NXdreVQ1SndJaldCSXYtN0QzN0dkbFkwZXpEdi1EY1U3WTBjZUpKSmdoX1ZrLUl5a2tBQjBr?oc=5
 
 - 'India's Gen Z Protest Not Organic,' Claims Sydney-Based Political Scientist Salvatore Babones - NDTV
   'India's Gen Z Protest Not Organic,' Claims
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmwyRVhGNktvWUlaWHZpY1VRQTRKU0NWZFBMamdYeWZlSERYd0xCNUFRX0REM0FvZHZXY1dKeHN6SHdCWW9ZOGZ1b20xR1BZZGtLQlplQ0tJUkM0bGJfY0NncXJCa1MtZlZ6NVk5N05xQXRUTWdwdVhpdkNtbFJqZS1RTjA0NW1janhJWC1NUEpRNEhncDVsYTJvRWRxbTRkQkNwOXV5WF8tX2Zqc2dxUzUzSdIBuwFBVV95cUxOc3NhSTV4dFBOR0wwd2puTDRlWTk3Nm40UkxJT3h0TEdfTFdra0pWTkFVX2NVNFdaWTJlYTNJSWQ1MFlVekx1Tl9FSzZyNDdaWldYTnFHREVyUmdKMnlXRXNHenRhbXcxZUFkSHRnYm50TmdVTDEwMDQzclBBb2JQYkc3aW9xZ0RSWEszNUstYjVyNTVZQy1WOGVWN19RTmttd1F0bEY4bkdTZUo1cTNzLVJCdWluLXhLV2k0?oc=5
 
-- India news Live Updates, 3 August 2026: Jharkhand CID conducts raids in JPSC exam irregularities case - The Indian Express
-  The Indian Express reported that the Jharkhand CID conducted raids in J
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxObFMxbzVCSHJKbUU1cTBoYkU1TXBxYUFEX1B5eWlEUDd6RFpjbGpmc2Mya2FhWDNXTXNPV0ZIT0dSbGdkeFdxbWdDZTNoWFRQb1lvVDNVQXVMUlh4TE5FMjBwb2hhOTM1MS03LWkwSi1WR0Vja3l4dW0xc0hUWkNuRGtXRmpkOFZmallWckVpaW9fUmpaOWhSYS1uSC1ZRG9ZdlNDS0xMek82Rzl0b0JwWTNCOV9FRTFNYTJuNUY1dUtTdi10TmtDSDBaRjA0d3V1cVM1Y0NOUUFqZ2h1ZkhnOTVCOHRsSzhYSE1HMkVCNE9GVDZZ0gH7AUFVX3lxTE0tV1JFdF9jRWRNZTgxQlRjb0hlMW1FLVFYTzFLNWFZOXpsZUhVdnRvV0tZOFBET1dpN2t5SWNLdVRZTHZVUjdVRnJiRWF1cjVlZEFxX1I0TUs3RGU5aUZDR0JCVkpURHJoZEZNeWljYWhYZFR1dmg5Vkw1UWh6dHVXTkJyaE5qMXdLeTNGcnQxQnRBYWxyRnkyUklHZW03OFA5c2ZKajRIWFhRUDdEajRBNWh4WU1ONHBqMFlUUmFYRWFMc1NiOHJOQmwzSC1TMndnSEd1cUhHUFZjOE1iLXRNRzdQNGJfZ18xNkR6RjBYM3RrdnZCVkExTXdN?oc=5
+- India's fuel exports hit 1-year high in July on strong diesel margins - The Economic Times
+  India's fuel exports hit 1-year high in July on
+  🔗 https://news.google.com/rss/articles/CBMilgNBVV95cUxNQm5hX0R0RlFBVUNyME5Dc01vZmtTRXdTNnNPV3lFaURhd2M2NjVjNS1qYjFDM2Y2WlltRW9oMTU1V1BXZWg1dW1STFhaY2lqR29TZEJjQjR5S1ZGV1pCWDZ0NktTbzNWeDBjd0xhb2dUTnNSQXlsNVFTYndnXzZ2WmhzYWxUZjdfMVBDSjBIOEEtVVM1eldpcjFNMWt5MVVKWE4tVVZhZVpmdjlaU24tQlZPc0RqR1pLM19QcDZRZ2RBdnU3OU01QTlqQjJ5bTRBS1BCeTJ5bHR1OEgxc1pBSUhXNHF1bENKZlJWUHdvc1FHbUY5QXRqWDV0Q01kTk5mX2djaE10d0pmcXJMZmpuejdYZm85T01rSEdwWDd2WThOX3huWXFsOG1keHNxRmhhcEV0dlZJNVhFVEY2NEpIYVBDcGxYbVhDeXVTamEwVzVfTTgzQjdDY3pDWHpwSFQzTmVkMTJfZ24tUkVvaHVfTlQ4U1UwNDZSYm5aNlVsMFBVM1hCTnRLZFJkOEJhVzAtTjJYMlZB0gGyAkFVX3lxTE5EQ3hxckZadnZKVURzbG8tQ1BqMkRIeElnTkl1V0N6NFpyV2Q5Y3hfZDBpallpX0EyQmFUM2h1WXl5SVVRWHBJSjdyUU9PWGg3QWFQVFBDWWc2UTNLZVQyWmpvMHR5eDB5OXpGbzlpS05oVWwtN2N3RzlaVVpLcUlJT0MtNS1Zc1ZWWFFCa3dwN0t2aFRJMGFmOVQ3dHdJczNhTzBmZk85Ty03TlVQTEpUS2xMNTlwcUxqRzNDTW9rRktXRmUzSUQxdWFncmVZZThqMGEwSy1SdEJSRVNZSlMySEh2c3djQmEwenpJUjBGcmZEcmxxMU5MR0g4THE1dUszUlRYc2lXQmhCcGZaeUVTNUhBek5QaGNZTWh2NUR0c3VGSEVraURhUUg2MkF0X2RuQQ?oc=5
 
-- Sheikh Hasina’s media event can hurt ties with India: Bangladesh - The Hindu
-  Sheikh Hasina’s media event
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNNldtQkNMN3lGcndTQlpaeDllZFY1UVBlVlk0TXpQQk9mRUNNMjZza29LakdQeEdrYUMzX0FrRjNhODNLYlZPR1RfdG9VeVBNdWZtS0RSSzdIbzVoR0ZsVmxKZWllWmM0eTVvM2Q3RGhLLXJiT2VlS1QzSmpDRFJKZWNrdHpIVkFOdUpId3N2QUozU0d0N2RuNFBTODRyVUc0WGFOZS1YVFRzeTlYUmJIQWU2TWQ3TUtkQmFya3pB0gHEAUFVX3lxTE5xMm1FZGZxRzlLMEIwV2pWMjR2QTBvM2JpLXpiTUo3LXFXVjM4QzJsQnF1QjVuMGVXcnYwMWpqNXcweW9VNEpfV2xWVlBySHZlbERBMFdtNkphMzlaaGFiaWlGUkg0eGVwNkl5ZXlpc25oUGVPY19pQ1lYTXVybk0zWjBpZEVLbWx0NzlIdGwzS0l4NkxhaDBwVi1rTFFnYklxSW1aN3Y2dGQwX3lhNVRVSW9QYVR6QTJTZkljSzdYR0Y2Y1c?oc=5
+- Ex-Delhivery, Cleartrip Execs Launch Profound To Bring AI-Powered Professional Support For Individuals
+  Ex-Delhivery, Cleartrip Execs Launch Profound To Bring AI-Powered Professional Support For Individuals.
+  🔗 https://inc42.com/buzz/ex-delhivery-cleartrip-execs-launch-profound-to-bring-ai-powered-professional-support-for-individuals/
 
-- "Want Sheikh Hasina To Return, Remove Ban On Her Party": Taslima Nasreen - NDTV
-  "Want Sheikh Hasina To Return, Remove Ban
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWczVmJpZFlSX3pzVE1Db1NuNVNEOURSeXcwcHhwQlpTanJBZ0lTUUFrVldzYXQwX1ZCYi04bURiOG5DSUEzXzQ1aFRuekVTNHA1bTFacm5OWnBucF9FR0tTaVJkdUlDMmdqamEtQ0VJSENZVFlXQndNMGJacmYxSFk3cjNtWGdUQVlJMEk1bkpEVENQY19XdFVkVUx4TnNuQ0V2Q2FLQlRyZE83cVHSAbYBQVVfeXFMTUVyTzNQb1hmdV9ONXhfdGZIWWY0c3RFQTU3ZDFNMlYydzhYc2hQZDFhaDdCSzdnTHVrOXVkbmh6WkhfbEJuYk5YSUZVcVJ2ZHFzbExsUEhNMHVYVG10Z0VvTnV1clZqMWplLWJvVHpkWE5qcnM1ODdxNGJRaXozZjc1bXNxN202T1J1MzAtdjZrd19KbUVDcllVdFJsc0tBeTdIcEFXVmhNRk1SaHNFR2ROaEYwNmc?oc=5
+- Agentic AI Startup Kily Raises ₹30 Cr To Accelerate Platform Deployment
+  AI startup Kily has raised a ₹30 Cr ($3.2 Mn) in a funding round led by early stage VC firm.
+  🔗 https://inc42.com/buzz/agentic-ai-startup-kily-raises-%e2%82%b930-cr-to-accelerate-platform-deployment/
 
-- Bangladesh warns India over Sheikh Hasina’s planned August 5 address - The Indian Express
-  Bangladesh warns India over Sheikh Hasina�
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTi0zakg5ZGFXSURoNEJRVkVlRF9MUFByUDNEWGVtUFVVQ1Uwc0Nfay1rdC1PeHVsWkVmRlZUWDR0bUtqZjYtai1LUlRBNmo5RnNRSXI5Zk9rVzdhRllsYnBZMGUzTkd4MnNUUVFvaHl5VkJma0xMaVBaekloNHYwaDVFYXhDeElSb1Awa0NIR2lZU2wwOFc5RkEtelNSd2JHU2N0Qi1LZ0lrU19rWHo3MzVqaWNkRDBwVGFPWlE3cllsRkxnQzEwddIBzwFBVV95cUxPSUlzSWJzbnFvRXRDcnJYVWw2a0lTT05VdTVycVQzdklUREdpT3AxbjVZYW1fOUVuQ0Z5SzhsZ1NZQkZoZ2lzRDNMcUxuemhfVWdZM3Bndjc0eVVaNXN1QmNnR3k4YlJxalhDVVRvMnNBTkN4bFpRX3kwdDZNNzR0ZXFaTXhKMERMYTBzWEZSSlJYSkx2cnZ2dkQwSjFsZ09KVk1GeVpyWlhYajl5d2NrZGVZeGtxTGJNU0JtS3dTdVFSVHVjNU5oaFU4VGJCWmc?oc=5
+- Mintoak Acquires UAE-Based ICC Loyalty To Expand Fintech Stack For Banks
+  Mintoak Acquires UAE-Based ICC Loyalty To Expand Fintech Stack For Banks.
+  🔗 https://inc42.com/buzz/mintoak-acquires-uae-based-icc-loyalty-to-expand-fintech-stack-for-banks/
+
+- Win For Apple? Govt Moves To Extend Tax Sops For Contract Manufacturers Till 2041
+  The Centre has proposed extending tax exemptions till 2041 to foreign companies.
+  🔗 https://inc42.com/buzz/win-for-apple-govt-moves-to-extend-tax-sops-for-contract-manufacturers-till-2041/
 
 - Nazara Slips Into The Red In Q1, Posts ₹83 Cr Loss
   Gaming major Nazara Technologies slipped to the red in Q1 FY27, reporting a net loss of ₹82.5 Cr.
   🔗 https://inc42.com/buzz/nazara-slips-into-the-red-in-q1-posts-%e2%82%b983-cr-loss/
 
-- Govt Opens Door to MDR On UPI, To Amend Digital Payment Rules
-  In what could likely pave the way for the reintroduction of the merchant discount rate (MDR) on UPI payments.
-  🔗 https://inc42.com/buzz/govt-opens-door-to-mdr-on-upi-to-amend-digital-payment-rules/
+- WhatsApp puts multiple accounts in India under review, blocks app access for 24 hours | India News - Hindustan Times
+  WhatsApp puts multiple accounts in India under review, blocks app access for 24
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMXdwVTlUMHhnQjg4MEFIbEIybGRDeGgxWVIzQ1dqUlJNbzRkUlg0bkpIbUw1cXRZVTJYbWlXTVlET3REUTRRT18xZEVBd0hTR0JrN1E5R3o0cU9xaGpLUE9rYmpLSVNveHZmenVPdlNRbllETXJmWWJqV1FEdUxQUGdjbE5SOXN1QnpTNjc5dTBib1YyVFpxSFB4dUJKa1FHQzNaS2lBcF8xM1ZlMUFXdVI3b3c2cFoyODU3UDlYRThYMWd5Q0NqQkg2QXpLdVh1c1BpUdIB2gFBVV95cUxNTTZBZTVoT2loLURReUV4azgyd05jTzJiYU5Jc1U2LUpMNXExMnZLMm5kWGdNWDNZcElXcXVGX2loMmx6MmwwTTdfR1hVNGhwVnVSVFN4MkQ1eTh2dXlnZThuUTI1UXFHQndvMU4tSWFRUWZwU0hvdHhJNnYyc1kwQWRrRUVDT09fQ2xzbFY0OVNlMjBHOGYzbG9oUDVFU0tjdWpWYm5kS01FZkxZYmlza0dTb0w4U0JTcGtTUmlzMEpsVFFkWFhzaTBlb2k0OE9OUV9CeDJTNG9xUQ?oc=5
 
-- Spinny Converts Parent Into Public Entity Ahead Of IPO Plans
-  Used-car marketplace Spinny has converted its parent company, Valuedrive Technologies Private Ltd, into a public entity.
-  🔗 https://inc42.com/buzz/spinny-converts-parent-into-public-entity-ahead-of-ipo-plans/
+- WhatsApp Reviews Multiple Accounts In India, Temporarily Blocks Access For 24 Hours - News18
+  WhatsApp Reviews Multiple Accounts In India, Tem
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSjVQc0hvYXdiVTlQSHpFbHJGMUtObXdpLXBLT25jTlBpcnFsdEQzWlVRbl9fM1JRakpjUV9WU2RUbGczVjBlOEpGR1JiMWJ5a1VQZWhUVllJV09wZWhtazRadGVLVTExMC1SbzdIU1ViaGFaeDFuRVF3T3l3OHFlRU1xdk9NMnV3NktBYXlpb0NDNXQ1YXFtaS05R0Z1dTZsbmFfNTVxQmVLTmV3aVo2YzdReGJ1UHQ5UldScEZpM3NvSnfSAcgBQVVfeXFMTW41QjRTQWFpSEhzMmNsVFJBNFFadVMzZzlkRS1HR0c0andWYU82RmdWd1FtZy1ubDVNbnRGeWd6R0xvYkZ6WHo4b3VkaUpwdlhGbi1aN0ZvVC02Q2xKUWRiQUpnNFo3X2tRRVJHTmJ0TWI4TThKVjlUNEx0Y254TmRfaDVLZ3I5M1BPSThpTTFBMEZiVTAyMWJLbmRKcUVSTDhNRmVLSG94bldsclJtUWo2WVYwcHdVLW5hd1JZaHVNQUJsYkppTEw?oc=5
 
-- After Verloop, Muskesh Bansal-Led NuPlay Eyes Another Acquisition In 12 Months
-  Barely two years old and one acquisition down, enterprise AI startup NuPlay, rebranded from its earlier name Nurix AI, is
-  🔗 https://inc42.com/buzz/after-verloop-muskesh-bansal-led-nuplay-eyes-another-acquisition-in-six-months/
-
-- [Update] Klassroom IPO: Issue Subscribed 98% On Day 2
-  The public issue of edtech company Klassroom ended the second day with a subscription.
-  🔗 https://inc42.com/buzz/klassroom-ipo-issue-subscribed-91-on-day-2-so-far/
+- Is your WhatsApp working? Meta app puts multiple accounts under review, blocks app access for 24 hours in Ind - India.Com
+  Is your WhatsApp working? Meta app puts multiple accounts under review, blocks app access for
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcnpWbE5oWDZ0cGo3U2RKTDU4UFhVUW9LV2EwWWRRbDBqSTFRWUhoUmlGUVNINlVOdmNVajBzbTltT3hYc28yQzgzcmdoWERyQUplM2daVHdFXy1xY2xXajA4cnUzTmxQODhvb245bFZrUU56bndxRGQ2dTlSQ2ZGcGtkN21ucDI2cDU3NTRqRlRWSmlsMm8zMFRhRmhXT0JZX2FpbGM3LW1seW1XdC03UEtlSmxJaXNuOVNCV0dnck8xZjV2dVhSRFNxdE1uQVcyTlVmcEFTMzBBcmNtdl96OHhPWkQ1UdIB6wFBVV95cUxNYTBLNkN5czhfajU0YmFzaDZoS1hSUkNfYzV3TnFBanUtdUtDQzdTYURWNFBTZ2c3bkh4d1hCeXMwdEZ3cXFBTl9lT0FtTHhNMzlYaElpXzZvVkZaX3dZaDRmX2pRNDFKQWhsTHRzVDI3ZFYya2Q2TzJCMzFRQVhUOVFoeTc5SElLam1xZXhia19TZWJjM19nWXd4dzJHNnNZc2U5S3Z6N1R3VVRTS2Z2bGtoS2E3NXdreVQ1SndJaldCSXYtN0QzN0dkbFkwZXpEdi1EY1U3WTBjZUpKSmdoX1ZrLUl5a2tBQjBr?oc=5
 
 - 'India's Gen Z Protest Not Organic,' Claims Sydney-Based Political Scientist Salvatore Babones - NDTV
   'India's Gen Z Protest Not Organic,' Claims
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmwyRVhGNktvWUlaWHZpY1VRQTRKU0NWZFBMamdYeWZlSERYd0xCNUFRX0REM0FvZHZXY1dKeHN6SHdCWW9ZOGZ1b20xR1BZZGtLQlplQ0tJUkM0bGJfY0NncXJCa1MtZlZ6NVk5N05xQXRUTWdwdVhpdkNtbFJqZS1RTjA0NW1janhJWC1NUEpRNEhncDVsYTJvRWRxbTRkQkNwOXV5WF8tX2Zqc2dxUzUzSdIBuwFBVV95cUxOc3NhSTV4dFBOR0wwd2puTDRlWTk3Nm40UkxJT3h0TEdfTFdra0pWTkFVX2NVNFdaWTJlYTNJSWQ1MFlVekx1Tl9FSzZyNDdaWldYTnFHREVyUmdKMnlXRXNHenRhbXcxZUFkSHRnYm50TmdVTDEwMDQzclBBb2JQYkc3aW9xZ0RSWEszNUstYjVyNTVZQy1WOGVWN19RTmttd1F0bEY4bkdTZUo1cTNzLVJCdWluLXhLV2k0?oc=5
 
-- India news Live Updates, 3 August 2026: Jharkhand CID conducts raids in JPSC exam irregularities case - The Indian Express
-  The Indian Express reported that the Jharkhand CID conducted raids in J
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxObFMxbzVCSHJKbUU1cTBoYkU1TXBxYUFEX1B5eWlEUDd6RFpjbGpmc2Mya2FhWDNXTXNPV0ZIT0dSbGdkeFdxbWdDZTNoWFRQb1lvVDNVQXVMUlh4TE5FMjBwb2hhOTM1MS03LWkwSi1WR0Vja3l4dW0xc0hUWkNuRGtXRmpkOFZmallWckVpaW9fUmpaOWhSYS1uSC1ZRG9ZdlNDS0xMek82Rzl0b0JwWTNCOV9FRTFNYTJuNUY1dUtTdi10TmtDSDBaRjA0d3V1cVM1Y0NOUUFqZ2h1ZkhnOTVCOHRsSzhYSE1HMkVCNE9GVDZZ0gH7AUFVX3lxTE0tV1JFdF9jRWRNZTgxQlRjb0hlMW1FLVFYTzFLNWFZOXpsZUhVdnRvV0tZOFBET1dpN2t5SWNLdVRZTHZVUjdVRnJiRWF1cjVlZEFxX1I0TUs3RGU5aUZDR0JCVkpURHJoZEZNeWljYWhYZFR1dmg5Vkw1UWh6dHVXTkJyaE5qMXdLeTNGcnQxQnRBYWxyRnkyUklHZW03OFA5c2ZKajRIWFhRUDdEajRBNWh4WU1ONHBqMFlUUmFYRWFMc1NiOHJOQmwzSC1TMndnSEd1cUhHUFZjOE1iLXRNRzdQNGJfZ18xNkR6RjBYM3RrdnZCVkExTXdN?oc=5
-
-- Sheikh Hasina’s media event can hurt ties with India: Bangladesh - The Hindu
-  Sheikh Hasina’s media event
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNNldtQkNMN3lGcndTQlpaeDllZFY1UVBlVlk0TXpQQk9mRUNNMjZza29LakdQeEdrYUMzX0FrRjNhODNLYlZPR1RfdG9VeVBNdWZtS0RSSzdIbzVoR0ZsVmxKZWllWmM0eTVvM2Q3RGhLLXJiT2VlS1QzSmpDRFJKZWNrdHpIVkFOdUpId3N2QUozU0d0N2RuNFBTODRyVUc0WGFOZS1YVFRzeTlYUmJIQWU2TWQ3TUtkQmFya3pB0gHEAUFVX3lxTE5xMm1FZGZxRzlLMEIwV2pWMjR2QTBvM2JpLXpiTUo3LXFXVjM4QzJsQnF1QjVuMGVXcnYwMWpqNXcweW9VNEpfV2xWVlBySHZlbERBMFdtNkphMzlaaGFiaWlGUkg0eGVwNkl5ZXlpc25oUGVPY19pQ1lYTXVybk0zWjBpZEVLbWx0NzlIdGwzS0l4NkxhaDBwVi1rTFFnYklxSW1aN3Y2dGQwX3lhNVRVSW9QYVR6QTJTZkljSzdYR0Y2Y1c?oc=5
-
-- "Want Sheikh Hasina To Return, Remove Ban On Her Party": Taslima Nasreen - NDTV
-  "Want Sheikh Hasina To Return, Remove Ban
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWczVmJpZFlSX3pzVE1Db1NuNVNEOURSeXcwcHhwQlpTanJBZ0lTUUFrVldzYXQwX1ZCYi04bURiOG5DSUEzXzQ1aFRuekVTNHA1bTFacm5OWnBucF9FR0tTaVJkdUlDMmdqamEtQ0VJSENZVFlXQndNMGJacmYxSFk3cjNtWGdUQVlJMEk1bkpEVENQY19XdFVkVUx4TnNuQ0V2Q2FLQlRyZE83cVHSAbYBQVVfeXFMTUVyTzNQb1hmdV9ONXhfdGZIWWY0c3RFQTU3ZDFNMlYydzhYc2hQZDFhaDdCSzdnTHVrOXVkbmh6WkhfbEJuYk5YSUZVcVJ2ZHFzbExsUEhNMHVYVG10Z0VvTnV1clZqMWplLWJvVHpkWE5qcnM1ODdxNGJRaXozZjc1bXNxN202T1J1MzAtdjZrd19KbUVDcllVdFJsc0tBeTdIcEFXVmhNRk1SaHNFR2ROaEYwNmc?oc=5
-
-- Bangladesh warns India over Sheikh Hasina’s planned August 5 address - The Indian Express
-  Bangladesh warns India over Sheikh Hasina�
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTi0zakg5ZGFXSURoNEJRVkVlRF9MUFByUDNEWGVtUFVVQ1Uwc0Nfay1rdC1PeHVsWkVmRlZUWDR0bUtqZjYtai1LUlRBNmo5RnNRSXI5Zk9rVzdhRllsYnBZMGUzTkd4MnNUUVFvaHl5VkJma0xMaVBaekloNHYwaDVFYXhDeElSb1Awa0NIR2lZU2wwOFc5RkEtelNSd2JHU2N0Qi1LZ0lrU19rWHo3MzVqaWNkRDBwVGFPWlE3cllsRkxnQzEwddIBzwFBVV95cUxPSUlzSWJzbnFvRXRDcnJYVWw2a0lTT05VdTVycVQzdklUREdpT3AxbjVZYW1fOUVuQ0Z5SzhsZ1NZQkZoZ2lzRDNMcUxuemhfVWdZM3Bndjc0eVVaNXN1QmNnR3k4YlJxalhDVVRvMnNBTkN4bFpRX3kwdDZNNzR0ZXFaTXhKMERMYTBzWEZSSlJYSkx2cnZ2dkQwSjFsZ09KVk1GeVpyWlhYajl5d2NrZGVZeGtxTGJNU0JtS3dTdVFSVHVjNU5oaFU4VGJCWmc?oc=5
-
-- 'India's Gen Z Protest Not Organic,' Claims Sydney-Based Political Scientist Salvatore Babones - NDTV
-  'India's Gen Z Protest Not Organic,' Claims
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmwyRVhGNktvWUlaWHZpY1VRQTRKU0NWZFBMamdYeWZlSERYd0xCNUFRX0REM0FvZHZXY1dKeHN6SHdCWW9ZOGZ1b20xR1BZZGtLQlplQ0tJUkM0bGJfY0NncXJCa1MtZlZ6NVk5N05xQXRUTWdwdVhpdkNtbFJqZS1RTjA0NW1janhJWC1NUEpRNEhncDVsYTJvRWRxbTRkQkNwOXV5WF8tX2Zqc2dxUzUzSdIBuwFBVV95cUxOc3NhSTV4dFBOR0wwd2puTDRlWTk3Nm40UkxJT3h0TEdfTFdra0pWTkFVX2NVNFdaWTJlYTNJSWQ1MFlVekx1Tl9FSzZyNDdaWldYTnFHREVyUmdKMnlXRXNHenRhbXcxZUFkSHRnYm50TmdVTDEwMDQzclBBb2JQYkc3aW9xZ0RSWEszNUstYjVyNTVZQy1WOGVWN19RTmttd1F0bEY4bkdTZUo1cTNzLVJCdWluLXhLV2k0?oc=5
-
-- India news Live Updates, 3 August 2026: Jharkhand CID conducts raids in JPSC exam irregularities case - The Indian Express
-  The Indian Express reported that the Jharkhand CID conducted raids in J
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxObFMxbzVCSHJKbUU1cTBoYkU1TXBxYUFEX1B5eWlEUDd6RFpjbGpmc2Mya2FhWDNXTXNPV0ZIT0dSbGdkeFdxbWdDZTNoWFRQb1lvVDNVQXVMUlh4TE5FMjBwb2hhOTM1MS03LWkwSi1WR0Vja3l4dW0xc0hUWkNuRGtXRmpkOFZmallWckVpaW9fUmpaOWhSYS1uSC1ZRG9ZdlNDS0xMek82Rzl0b0JwWTNCOV9FRTFNYTJuNUY1dUtTdi10TmtDSDBaRjA0d3V1cVM1Y0NOUUFqZ2h1ZkhnOTVCOHRsSzhYSE1HMkVCNE9GVDZZ0gH7AUFVX3lxTE0tV1JFdF9jRWRNZTgxQlRjb0hlMW1FLVFYTzFLNWFZOXpsZUhVdnRvV0tZOFBET1dpN2t5SWNLdVRZTHZVUjdVRnJiRWF1cjVlZEFxX1I0TUs3RGU5aUZDR0JCVkpURHJoZEZNeWljYWhYZFR1dmg5Vkw1UWh6dHVXTkJyaE5qMXdLeTNGcnQxQnRBYWxyRnkyUklHZW03OFA5c2ZKajRIWFhRUDdEajRBNWh4WU1ONHBqMFlUUmFYRWFMc1NiOHJOQmwzSC1TMndnSEd1cUhHUFZjOE1iLXRNRzdQNGJfZ18xNkR6RjBYM3RrdnZCVkExTXdN?oc=5
-
-- Sheikh Hasina’s media event can hurt ties with India: Bangladesh - The Hindu
-  Sheikh Hasina’s media event
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNNldtQkNMN3lGcndTQlpaeDllZFY1UVBlVlk0TXpQQk9mRUNNMjZza29LakdQeEdrYUMzX0FrRjNhODNLYlZPR1RfdG9VeVBNdWZtS0RSSzdIbzVoR0ZsVmxKZWllWmM0eTVvM2Q3RGhLLXJiT2VlS1QzSmpDRFJKZWNrdHpIVkFOdUpId3N2QUozU0d0N2RuNFBTODRyVUc0WGFOZS1YVFRzeTlYUmJIQWU2TWQ3TUtkQmFya3pB0gHEAUFVX3lxTE5xMm1FZGZxRzlLMEIwV2pWMjR2QTBvM2JpLXpiTUo3LXFXVjM4QzJsQnF1QjVuMGVXcnYwMWpqNXcweW9VNEpfV2xWVlBySHZlbERBMFdtNkphMzlaaGFiaWlGUkg0eGVwNkl5ZXlpc25oUGVPY19pQ1lYTXVybk0zWjBpZEVLbWx0NzlIdGwzS0l4NkxhaDBwVi1rTFFnYklxSW1aN3Y2dGQwX3lhNVRVSW9QYVR6QTJTZkljSzdYR0Y2Y1c?oc=5
-
-- "Want Sheikh Hasina To Return, Remove Ban On Her Party": Taslima Nasreen - NDTV
-  "Want Sheikh Hasina To Return, Remove Ban
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWczVmJpZFlSX3pzVE1Db1NuNVNEOURSeXcwcHhwQlpTanJBZ0lTUUFrVldzYXQwX1ZCYi04bURiOG5DSUEzXzQ1aFRuekVTNHA1bTFacm5OWnBucF9FR0tTaVJkdUlDMmdqamEtQ0VJSENZVFlXQndNMGJacmYxSFk3cjNtWGdUQVlJMEk1bkpEVENQY19XdFVkVUx4TnNuQ0V2Q2FLQlRyZE83cVHSAbYBQVVfeXFMTUVyTzNQb1hmdV9ONXhfdGZIWWY0c3RFQTU3ZDFNMlYydzhYc2hQZDFhaDdCSzdnTHVrOXVkbmh6WkhfbEJuYk5YSUZVcVJ2ZHFzbExsUEhNMHVYVG10Z0VvTnV1clZqMWplLWJvVHpkWE5qcnM1ODdxNGJRaXozZjc1bXNxN202T1J1MzAtdjZrd19KbUVDcllVdFJsc0tBeTdIcEFXVmhNRk1SaHNFR2ROaEYwNmc?oc=5
-
-- Bangladesh warns India over Sheikh Hasina’s planned August 5 address - The Indian Express
-  Bangladesh warns India over Sheikh Hasina�
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTi0zakg5ZGFXSURoNEJRVkVlRF9MUFByUDNEWGVtUFVVQ1Uwc0Nfay1rdC1PeHVsWkVmRlZUWDR0bUtqZjYtai1LUlRBNmo5RnNRSXI5Zk9rVzdhRllsYnBZMGUzTkd4MnNUUVFvaHl5VkJma0xMaVBaekloNHYwaDVFYXhDeElSb1Awa0NIR2lZU2wwOFc5RkEtelNSd2JHU2N0Qi1LZ0lrU19rWHo3MzVqaWNkRDBwVGFPWlE3cllsRkxnQzEwddIBzwFBVV95cUxPSUlzSWJzbnFvRXRDcnJYVWw2a0lTT05VdTVycVQzdklUREdpT3AxbjVZYW1fOUVuQ0Z5SzhsZ1NZQkZoZ2lzRDNMcUxuemhfVWdZM3Bndjc0eVVaNXN1QmNnR3k4YlJxalhDVVRvMnNBTkN4bFpRX3kwdDZNNzR0ZXFaTXhKMERMYTBzWEZSSlJYSkx2cnZ2dkQwSjFsZ09KVk1GeVpyWlhYajl5d2NrZGVZeGtxTGJNU0JtS3dTdVFSVHVjNU5oaFU4VGJCWmc?oc=5
+- India's fuel exports hit 1-year high in July on strong diesel margins - The Economic Times
+  India's fuel exports hit 1-year high in July on
+  🔗 https://news.google.com/rss/articles/CBMilgNBVV95cUxNQm5hX0R0RlFBVUNyME5Dc01vZmtTRXdTNnNPV3lFaURhd2M2NjVjNS1qYjFDM2Y2WlltRW9oMTU1V1BXZWg1dW1STFhaY2lqR29TZEJjQjR5S1ZGV1pCWDZ0NktTbzNWeDBjd0xhb2dUTnNSQXlsNVFTYndnXzZ2WmhzYWxUZjdfMVBDSjBIOEEtVVM1eldpcjFNMWt5MVVKWE4tVVZhZVpmdjlaU24tQlZPc0RqR1pLM19QcDZRZ2RBdnU3OU01QTlqQjJ5bTRBS1BCeTJ5bHR1OEgxc1pBSUhXNHF1bENKZlJWUHdvc1FHbUY5QXRqWDV0Q01kTk5mX2djaE10d0pmcXJMZmpuejdYZm85T01rSEdwWDd2WThOX3huWXFsOG1keHNxRmhhcEV0dlZJNVhFVEY2NEpIYVBDcGxYbVhDeXVTamEwVzVfTTgzQjdDY3pDWHpwSFQzTmVkMTJfZ24tUkVvaHVfTlQ4U1UwNDZSYm5aNlVsMFBVM1hCTnRLZFJkOEJhVzAtTjJYMlZB0gGyAkFVX3lxTE5EQ3hxckZadnZKVURzbG8tQ1BqMkRIeElnTkl1V0N6NFpyV2Q5Y3hfZDBpallpX0EyQmFUM2h1WXl5SVVRWHBJSjdyUU9PWGg3QWFQVFBDWWc2UTNLZVQyWmpvMHR5eDB5OXpGbzlpS05oVWwtN2N3RzlaVVpLcUlJT0MtNS1Zc1ZWWFFCa3dwN0t2aFRJMGFmOVQ3dHdJczNhTzBmZk85Ty03TlVQTEpUS2xMNTlwcUxqRzNDTW9rRktXRmUzSUQxdWFncmVZZThqMGEwSy1SdEJSRVNZSlMySEh2c3djQmEwenpJUjBGcmZEcmxxMU5MR0g4THE1dUszUlRYc2lXQmhCcGZaeUVTNUhBek5QaGNZTWh2NUR0c3VGSEVraURhUUg2MkF0X2RuQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,6 +160,10 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
+- CDS emphasises on influence of emerging technologies on military operations - News On AIR
+  CDS emphasises on influence of emerging technologies on
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2dITkJRMl95bU5QdWRwaTlyWE9EMXd5RDZLaVpraC1nRVlILWNSUnlZTlRHQjF5Y09mWWpiQ0VHNnhTSFlwVExSS2M1M3M1WlFmQlhBd1dkYk5jTlVSRm1qYlBJcTN1bUdsMDdONDRfR3ZHb2VwN0RWbDBMZUNrQmRHSDE2WnE0ZFFvOWtSR2pweVNiRjJydHRBQng5OTRsbzBtYw?oc=5
+
 - Varroc appoints Eric Hamon as Chief Technology Officer - ET Auto
   Varroc appoints Eric Hamon
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWF1OXd3R1FDTUUyNHBJcFhMVGdUdmlkTzhMRnpnYzU0R3laZWxpcS1DUGxPaTlaUmFsRDFYTUkyNUhwZ19TeFNiX2lOSjZtOGZfWnNrRlZ3Y1FLVzNqZVN1cjV1UWRkSEVJUjA0M1BuWWFXWGt4eUZ2N1g1djZzbWFrQ01YNHZEY0FtS2EwYzRGeHRySEp5NTQ3a201eXRnal9GZDA3Q2ctSmYzdC1ydmV2V2FiaE5ONVlTaHRTNVJoWnBweWfSAcsBQVVfeXFMUHBVM0hjU1FDT0hhNEdWTXpndDhjeFhlMHB6aGZtVmNNbk5UdVZoS2M4RUNOU1hoTG9WUmFVVFhreDAyV2dsT3BDS08wbEVyWW1DM1dLd21sTGdnQzZpNEl4bzRPS29UQk1HdmVieFVYWTd4WGx0ZC1hVjFUdFZ6YV9iaGhqVFF3N3VDX0s4RzhNWDNtRDVwWG5RRXVLU0loMDJYOVVqRE9lYjFuNkprbFo1SlI3VWl6RFRxQkpDQnROWFVWTXdZWUlSWHM?oc=5
@@ -248,17 +172,13 @@
   IIT-Hyderabad,
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLXJyekpRUlNBTjRpV3lMLUVUaXloZktrR2poTlV4MTFpTGNIZ2Iyd2MyNk94b0pQbHJlNEh5N28tOWIyWTBKbUFicGJkSHB2cHdFY1R6d2pYbWVGUERCZEVRb1ZvS3hHUFBrbFNsN2FZUjNHWDZtblNpaEU5aFdIUWRWdXp5WGVJN0tGcFYzT05zX0dTU1M3VzQ1QjQyWV9RZ0JtUThSTV80RWJjQU5JcTYzZU9tMmczeUl1UVRCTVItamMxQ0ZaWUpqbTk1WmRIQ3NOZmlhV0RZM3PSAeIBQVVfeXFMUFBqY2hXQWc4cDM2cU0zcFZIOHc5NzlSQWVnMW9QeWFMaGlrRXkxbk5ETlZQb3MtX19EU1JQS2JrM2dFTGc0THVGS0VObjFKZGJzeWUzTDBzSGI3YVpmTUd0bktTQ2xxeTdBa0hod01aVzFRTmU4T3M0NzBRdXV6M1pScDh2eFl1bm9oV2hZaDJralNvaDVVa3VveUdFSTA1UkZyOTZLUkUyR0djSG9DQUtIQVFsaUJta3dVcG9SQXRwcFQxMTdUUzlkUi1rU2VzazZDTHlNYUpFVjI4N1RoMVV4dw?oc=5
 
-- IIT Hyderabad launches India’s first Nuclear Technology Orientation Programme - Telangana Today
-  IIT Hyderabad launches India’
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkotTmtFb3FBeE51NDNiYTh1d3l6SngzUVZ5NkhPYW1QMXg5Qm5qbVdOZ1lLVnp1NVZyVDVzdFhLbUZHZFBOenJPb0VrNnNlSmxUc01LdmxjNzZDVVp6WWlJaVdXemt4enRqWHhMam5odVJXNENMNEFSaS0wMjQtVWI2V01TOUlVWTU3OGNLNFhjWVJoeWtiUm5EU3RDeWZhVl9vcERn?oc=5
-
-- IIT Hyderabad launches India’s first industry-academia programme in nuclear technology - The Indian Express
-  IIT Hyderabad launches India’s first
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOalZMd0o1V2pra2Y3ZTJkT1RpckpQZkJKU0x5ZXFRR2tFM2czWi11ekV6WHZzNGxJUGxFUWk0SnNrZklEX1k2YjRBRE8tTldXaUFXZndxWXVHd2luTDZpSzlOSTBFXzd6TkhCMGh5Sk12WG5tYXVDTERPajJLOEhHZ1R1Zy1MdU5fMlZUWW5OMnJ6ZzFFcmY3VHJCMUVaVzZvQnZJUTlTMXFMSklLZHZrbjFrcWpfdmR6cS1aV1ZwVXRRMG9lZ0dQZXR4MHZIZVpxWHVkU05SSTdMZ9IB4AFBVV95cUxONUpGeVJrMGxXa3pob0lvWVlzVFFCd1FuZlBXdTdYUHNac1lKQXZNeEg2eDE1SnMzOFMtMVhJN3lhZnRsT0ZaNjFmMnJwQTAtalJpcGZoMlpxMXU5UlBBTndIcGVfekpiZTA1NmQtUFFNeGwxR3YwQ05DYVNZZmdQeHdLUF82T0k2SXNENUNNR0ZfUWFCc29PTm9NVnBHQm9ueDkzUEZza3YxRmR6cVhsT210LWZTSkdIYlMwZkNFYTlVT2U1VjA2VExabExDaFlDd1F1dGxhdVBvZ1NOalRXTQ?oc=5
+- EV charging startup RoadGrid secures Rs 13 Cr from Technology Development Board - entrackr.com
+  EV charging startup RoadGrid secures Rs 13 Cr
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUg2WGFWRXBZbDBaQ3BPVkQxTmkwSGVyNHBHX1Z1dE9YRjNEanhFVnA5NkdzaTF0bXltbUtCZGI5RXQyUXJpYlE2V2hQSVk3YTUyRG9NRlhkYU1ibHlWel9JSy1mWXM4VExTc2VWUXJvbElJXy04SHVmdVFKVlNDeGJQeGFBMHBPS2o1a1lRbFNjeGVXaEhhUW1lSU9zc28xUzB1bkI4aW8wZWNFaS1iWHpJN0I5dnd0NVHSAboBQVVfeXFMTnFINlhhVkVwWWwwWkNwT1ZEMU5pMEhlcjRwR19WdXRPWEYzRGp4RVZwOTZHc2kxdG15bW1LQmRiOUV0MlFyaWJRNldoUElZN2E1MkRvTUZYZGFNYmx5VnpfSUstZllzOFRMU3NlVlFyb2xJSV8tOEh1ZnVRSlZTQ3hiUHhhQTBwT0tqNWtZUWxTY3hlV2hIYVFtZUlPc3NvMVMwdW5COGlvMGVjRWktYlh6STdCOXZ3dDVR?oc=5
 
 - Ethanol-based EV charging technology introduced in Telangana; Kishan Reddy calls it a major green energy initiative - ChiniMandi
   Ethanol-based EV charging technology introduced in Telangana.
   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWGxjb3E0ZGlLNHFtTE85a3FXN2h3Wnh0bDZZUHJSelBFMWFBS0IwdFVnYk81LXZFYnk4VERvOGtpSjU5S0NnZXRKVnZtM2xFaTZDSlduOGRidjktcTFiY2JoRllzY3R3Ml94LWthUkl0UFB6cGVwQ280SGQ4YlRhVDJlRXk5N0xlRVAtaTUxUXZ5MjNqNUpxY1R3WGJFeUtUSkpOc3BZMV9wZUVpTkhjQi1UeURsaTBOSXhYVXhzelNlYk1DQVRiMkNSRFBVNUU1MEdUb0FtdWkzQQ?oc=5
 
 
-_Last updated: 2026-08-03 19:28:26 UTC_
+_Last updated: 2026-08-04 02:02:45 UTC_
