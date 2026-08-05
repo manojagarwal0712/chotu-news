@@ -1,84 +1,44 @@
 # 📰 Daily News Summaries
 
-- 'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused - BBC
-  'I was slut-shamed' -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUE9IaVFOc1gxeE81bTNUV0tBc29jZXV5TXhnc3N0YkU0MVZYbk1idlJ0T0ZfeWxyT1VpdjNjWjNNSUdqekZGcTZ0enBOS0hHNkM0a3VCTnpTZw?oc=5
+- Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show
+  Microsoft Corp. generates most of its artificial intelligence revenue from OpenAI
+  🔗 https://www.livemint.com/companies/microsofts-ai-sales-mostly-come-from-openai-disclosures-show-11785955472083.html
 
-- 'No Involvement, No Endorsement': India Distances Itself From Sheikh Hasina's Delhi Event - NDTV
-  'No Involvement, No Endorsement
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0JjaENrR294V1p6XzFlb0lJVVR4VlJFRkpJTTVfa0dlWFF3QUVXT0JrNlBDSVEwSUV5RDZvbFFSUzExOE52LWg1TjJDRnFRaXFxQUdmZ0dwVUloVG1Tdnp0ZHVxV1Q0OUJrSXh6NkVsTlAyRHRUXzBCZVozWEJralVYU0pfRFAxVHZNcFU5aGhxSVlja1dNeFdJNGxKblZvRFFjMU1TZ0lZOE1fT3JRdGVkRU1iUE5YVHd0YzR5V1oyMGvSAcsBQVVfeXFMUHFkN05aYTREU0tqNWFEVGlVbm1WeWhoNkc1ajM3VGpNSDhtQ1R6c0xNQkNoN3E2OW11U25hYU9PNlJMMkFtZUdtaEdNT0hfY1ViOWdkTERDYllXSldNbW5JNXVsNzRoUGhrNW44dUc0aG9fek9WRHFqalYtZzBUZnNCLUx0UmlkZFBGakdNVjZMSjRUWW5zMHJtTzJTM1E1ZnZySFMwNVlMcHpMRXRKbDlXMVBBZTdxWHcyeTVuVjNjemtQaGo2ZnhwbFk?oc=5
+- Disney beats profit estimates on strong theme parks &amp; streaming growth, announces TikTok partnership, shares rise 3.65%
+  Disney reported a third quarter net profit of $2.6 billion. That's roughly half the level recorded a year earlier
+  🔗 https://www.livemint.com/companies/company-results/disney-beats-profit-estimates-on-strong-theme-parks-streaming-growth-announces-tiktok-partnership-shares-rise-3-11785950770318.html
 
-- Projectile sinks Indian-flagged ship off Yemen coast - BBC
-  Projectile sinks Indian-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjVnRsOEdHZTg2XzhnM1Nub2w2RHVLdEdUc3RfTkh4aHBzTUxicWZsSFlZMXctcC1zaTRfdVg3VEZEQmJVUXV4TWZ6UlVWOEZ2M3ZHLTVtNklUZw?oc=5
+- Vi needs periodic tariff hikes to sustain 5G investment: Kumar Mangalam Birla
+  Vodafone Idea's Chairman emphasized the necessity of a tariff increase to support network investments. The company aims to enhance customer growth and operational performance while contributing to India's digital
+  🔗 https://www.livemint.com/companies/people/vi-needs-periodic-tariff-hikes-to-sustain-5g-investment-kumar-mangalam-birla-11785950857987.html
 
-- India-Flagged Ship Sinks After Attack In Red Sea, 13 Indian Sailors Rescued - NDTV
-  India-Flagged Ship Sinks After Attack In
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmh5YW1aZVZjMW5ST3JRenloUEQxZm8yck9jM2tPaXQ0dlZjZmFWeWkwMEUwbTVNaDJxMFY4dmR0OV9Sb0JJczdCRlB3MmI3V1Q4cllqUWpKSTF0cVpKS2tEQXhJb2hsQVoybGcta1Z6N09iT2pNQkxrcVVRa2dULW83emt0YkdkRHRaUGl5SHFqaDFVSmRfWjk1SHo5RWNqeVMyellqcG9yYXRlT1AxdTJudUl3UdIBvgFBVV95cUxQWHZXMllqcVNiOVktVEtJelY5eDkxQWRzQjFCdWh5TXVKVXZkTU5jLUdETUNNakhWZm00Zmo4elRBSDBvUjZKY0JneXNIQmVlVDY4T3pWcE8zbDg1UVpMdk5CSjFCZ0ZsMkJSS3pCSHNsMXRRSDV6bldDajhPVnlsWVR1Rm5RdGJFSjhVUFJIaTJpZzlSX0lhUENtcExqT1BmS3dzaVN4UzllS3cxdWR0RnI5bzNGQ2JBdngyeUtn?oc=5
+- Berger Paints sees strong demand, monsoon driving growth in FY27
+  Berger Paints expects double-digit revenue growth to continue through the year.
+  🔗 https://www.livemint.com/companies/company-results/berger-paints-sees-strong-demand-monsoon-driving-growth-in-fy27-11785944658652.html
 
-- India-flagged ship sinks after attack in Red Sea; All 13 Indian sailors rescued - News On AIR
-  India-flagged ship sinks after attack in Red Sea; All
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGF6ckRZU1g0OUpTU2VPMTNyTUlCcjVHdEpVT2oxcFdINzBYUzNGN0VtMDVKUGxPT0NHT2tsbjhMQzk4ZjJqS2ItS3lpUDRrQlBVM0JkZ2p1YWI2blc3NUlpUm4wZ1FjM1FvVlNNZVU1WVBGanZJLXdMeVBacGc4ckFRYi1HM2N2eklEbFZFSEtyempwRmI5czVNempENXVKZjhreldXR05fT0k?oc=5
+- Kim Kardashian's SKIMS to enter Indian market through Reliance; First stores to open in Delhi, Mumbai
+  The brand's first stores in the country will open in Delhi and Mumbai. As part of the partnership, Reliance Brands will operate SK
+  🔗 https://www.livemint.com/companies/news/kim-kardashians-skims-to-enter-indian-market-through-reliance-first-stores-to-open-in-delhi-mumbai-11785944417234.html
 
-- Samsung Electronics launches next-generation AI memory technology - reuters.com
-  Samsung Electronics launches next-
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5
+- Treasury yields fall as oil dips on Strait of Hormuz hopes
+  Treasury yields fall as oil dips on
+  🔗 https://www.livemint.com/market/treasury-yields-fall-as-oil-dips-on-strait-of-hormuz-hopes-11785956691711.html
 
-- The Sonipat-Jind hydrogen train may one day be remembered not for the 89 km it traverses, but for the technological journey it set in motion - Down To Earth
-  The Sonipat-Jind hydrogen train may one day be remembered not for the 89 km it traverses, but for
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeXpWMUN6VTlGRlhFZjN4ZTI0YW41VGJjamU4T0FULVpHeDdkQVhCM0pJQVBuXzVYcWExVFFlUjVONkQ5U2FJR25OSkNLbW0zcEF6aGhXeW5wcHZkYUpTNXZ3TXVHeEV1YVpxNnBmbGJ1NmxFeFBTdWJ1TUh3OEhMTjlJYTFhTF9wdzBJY2ZPMXFIRldhc2Jpazk0bkttRDAwa3lVbXQ1Yi0wTmladGhTZTR3MEZFVFVCTDdLc0lxZVpxMm1oVWZGd0FkMlRYQzNrLU5pelFyVFNMbjBZSGd3bjlST3hGWDI1YzBIT3dwZkp4S1ZXNDNwNDJQYUdSbHNKMnF1LUY2eHLSAZYCQVVfeXFMTmkxby1wNHB5OVRSVGlCNHdtZXRjX1pLbEE2WTU4eGxjbnJETGlTYlR3WHlfU3ZJYjJyejF6bmRlelg0aVNEZGNaQ3JLdktHdi00eS1zbzkwYkVybHlWSC00Y2FqUGlRSm5VRnU5YkJrLWYxVjhrTnFHdWUwYWthSFpTaHZ6S3dPcjFPVUVsaTI2ak1YWDg2aHpjZmFsMU5SeWhoeXExTGtSazcxVHN0QnpENjYwR25yaktsWVV3ZVUzU1R1YTVFWDNvNG80YWFHSHdjRkkxd3pyRE9XNWdZQnhCR2pHSy1sVHBsRmF0ZTBLNW1MLWVoSlp6N3MtbXZ5dW5od1VFNXMtWEVpazdTZm1JbVo4TGc?oc=5
+- LIC share sale ends with partial retail subscription
+  India's $3.3 billion stake sale in LIC saw lower retail demand. Bids covering only 69
+  🔗 https://www.livemint.com/market/stock-market-news/lic-share-sale-ends-with-partial-retail-subscription-11785950528341.html
 
-- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - Al Jazeera
-  Al Jazeera reports that Palantir
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01GRVZqRVFBMEtzTmpMczVIZVh4clg4MmpGekJzczVjQi1qUUVfOG4wZXlXY0d4aUFZRlNGUC14Y0V3ZVpRMnpDRkNtUnoyelFWOU9yOG9YVWotUEY2azFlTDJDZmkwUXlsMHFqSUxINGFJSlhiS0t0WVpvSDk0dVdiMThycnVPbWwzMlkycmJoeDVMTlFvdGZ0aS1FamRERTVsLWhaVHVreHFGX2k1QnVpUdIBuAFBVV95cUxNVzl5dHI4Q3UzaXZtTFN6UWdVcjVZeTEyMDJwMnJKZFlqbUVaMlJfSF9GclZfRUh4elFFUExNZDdxc1B5NkRRaV9KcGV4QzZ0TWlNM2dWMGY5VmxSUllzTElZRE96dnFKeTJMNXNfX19Kc054SEFlWUxuM2d3SklRRlBYNFhkZVlCWFdzODFmUXZrQUUyUW9lUmNLY0ZFRFA3enNJdVhGUEltcXNZQ2QxU3p0OXotOERH?oc=5
+- Gold, silver prices today: Comex gold jumps $173, silver hits $63 as US-Iran peace hopes lift sentiment
+  Comex gold reached $4,325 while silver climbed to $63. A weaker US dollar also supported demand for these precious metals.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-jumps-173-silver-hits-63-as-us-iran-peace-hopes-lift-sentiment-11785946064993.html
 
-- How New Vehicles Will Get Crash Warnings With V2V Technology From 2028 - NDTV
-  How New Vehicles Will Get Crash Warnings With V
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHFVSHYtajFmVmxzVWl5OEpFRmRYcE03WDFiSDBCVVA3RmxwcmdhVV9NMkhYZnFYUkRkaE5USVc1d216SlhWZU1aVzBtLXJhT05kWXhyVTFJYm9mUFlQaDBGOFh5UnhRazlzZWIwZERFeWU3Q0p2SnlrZ3FlQnVfWkpWUUttTkpWb0NCaFlEb1Zya21HbFBUT2IxcC0zQ2UxanpaeUJtMUpXMmRoYnIzZtIBuAFBVV95cUxPX0VDdDZRWjlOSExVckNsVDVxdWxhVWp5bFBXTmJ3S0hLUXNIaUNxWGJCaUNYWFVEb29HZnVjWFZaR1pZemthTGJ5TUJJNXZORGVhajE2N3ZiVERnUkd2SFh4bnNweHhmUEFfeHAtRUdnTW9SNlpVSnY5RmJjNjhTZDQ3Q1FRdWZzVWpMY25IdTBNamZnNnNzSk9yYmtPTml4YThTX1JqS0hTWUZJZUlRZkN0WEhqZ2I0?oc=5
+- 'CAS isn't a bad idea, but...': Why Nithin Kamath says India's closing auction is exposing deeper market cracks
+  Nithin Kamath, CEO of Zerodha, commented on BSE and NSE's new Closing Auction Session (CAS) Kamath: While it's a good idea, recent price swings reveal
+  🔗 https://www.livemint.com/market/stock-market-news/cas-isnt-a-bad-idea-but-nithin-kamath-says-indias-closing-auction-is-exposing-deeper-market-cracks-heres-why-11785946981171.html
 
-- Here’s why AI agents lie and cheat to reach their goals - MIT Technology Review
-  MIT Technology Review published an article on artificial intelligence. The
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTZZX3FIYTZXNlJmLV8yLUpKZ3JuSGZPTFlpRlF4VzZXOWYxV2FZWV9DekJOZDY1RDgySGRfbEJLdjZLdzdiSWM0M1htZUZLY1ZneHNNTmVSZ21mUkVZZlpuR3Rya3hnS2MyLVdJUC1Gd19qb21VbThRMGE0Yld5bFBuY0JydW1lN3EtVHpKT0Z1TXVKdUVrY0JpeTgycXZkUS1MdkEyUjIzLWvSAbABQVVfeXFMTml6dlUtWGVzYVBFemxJRF81X0VqMVdhbEdDc29mY0RNWjJVWlRJd1o2TUxHbGdWMjQ1dnJ5MTh1LWM5MHZNREZoTTdhbmlSbDBoTTJQRlVDSVFKUHhfTFg0UXRCWHkybEMtQk00NEYwWXFjdzg1VUxUNUZMcngtTllpaWxpZFBLdWJOTVpBajNDeXd0WFhRdjUzcE5ORmktMVRKa25QcF9LZUxhZzJKVlk?oc=5
-
-- Electronic Arts acquired by Saudi wealth fund and investor consortium in $55 billion deal
-  EA is now a private company after being acquired by Saudi Arabia’s Public Investment Fund for $55 billion. The move allows EA to focus on long-term strategy without the pressure of
-  🔗 https://www.livemint.com/companies/news/electronic-arts-acquired-by-saudi-wealth-fund-and-investor-consortium-in-55-billion-deal-11785934615703.html
-
-- Top realtors line up massive launches to meet FY27 sales aim
-  After a weak Q1 marked by delayed launches, India's top four listed developers are betting on over  ₹1 trillion of premium project launches. The success of these launches will be crucial for them
-  🔗 https://www.livemint.com/companies/top-real-estate-dlf-lodha-prestige-godrej-premium-launch-fy27-sales-aim-housing-projects-11785915560490.html
-
-- After FSSAI's Old Monk action, could Minty Jamun and Mango Chilli Vodka face scrutiny?
-  These niche vodkas are legally protected under a separate “Premix/Flavoured Vodka’ category. When a brand produces a flavoured vodka, it is
-  🔗 https://www.livemint.com/companies/news/after-fssais-old-monk-action-could-minty-jamun-and-mango-chilli-vodka-face-scrutiny-11785861561237.html
-
-- Natco challenges Novartis’s second patent for cancer drug ribociclib in Delhi High Court
-  Natco claims the new patent unlawfully extends Novartis’s market monopoly over the breast cancer
-  🔗 https://www.livemint.com/companies/news/natco-challenges-novartis-second-patent-for-cancer-drug-ribociclib-in-delhi-high-court-11785925706550.html
-
-- River Mobility raises $120 mn to scale manufacturing, expand retail reach
-  The funding marks a rapid scale-up for River, which launched its first scooter, Indie, in 2023. It
-  🔗 https://www.livemint.com/companies/news/river-mobility-lands-120-million-funding-as-it-takes-electric-scooter-fight-national-11785841377675.html
-
-- PB Fintech Q1 Results: Net profit nearly doubles to  ₹163 crore; revenue climbs 40%
-   PB Fintech reported a Q1FY27 net profit of  ₹163 crore, a 92% increase from last year. Revenue rose
-  🔗 https://www.livemint.com/market/stock-market-news/pb-fintech-q1-results-net-profit-nearly-doubles-to-rs-163-crore-revenue-climbs-40-11785932741631.html
-
-- Navin Fluorine Q1 Results: Net profit more than doubles to  ₹243 crore as margins expand; revenue rises 44%
-  Navin Fluorine International reported a consolidated net profit of  ₹243.31 crore for the June quarter. Revenue from operations rose
-  🔗 https://www.livemint.com/market/stock-market-news/navin-fluorine-q1-results-net-profit-more-than-doubles-to-rs-243-crore-as-margins-expand-revenue-rises-44-11785928420036.html
-
-- Stock to buy after Q1 results 2026: Emkay sees over 32% upside in this healthcare stock
-  Emkay Global Financial Services maintains its 'Buy' rating on Park Medi World. It has raised the target price to  ₹375 following strong June quarter results.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q1-results-2026-emkay-sees-over-32-upside-in-this-healthcare-stock-11785927249886.html
-
-- Vodafone Idea sets AGM date to declare financial statement for FY26. Details here
-  Vodafone Idea converted  ₹36,900 crore of spectrum dues into equity, making the Government of India a 49% shareholder. The firm plans a  �
-  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-sets-agm-date-to-declare-financial-statement-q1-results-for-fy26-idea-share-in-focus-details-here-11785925132024.html
-
-- Expert view: Earnings growth will continue to strengthen over coming quarters, says Sandip Raichura of PL Capital
-  Sandip Raichura predicts Indian earnings growth will rise steadily in the coming quarters. He emphasises disciplined investment strategies over short-term volatility.
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-earnings-growth-will-continue-to-strengthen-over-coming-quarters-says-sandip-raichura-of-pl-capital-11785926688304.html
+- SpaceX's lockup expiry tomorrow could trigger record insider selling: 'We're in uncharted waters'
+  SpaceX faces a significant test as its IPO lockup period expires. The
+  🔗 https://www.livemint.com/market/stock-market-news/spacexs-lockup-expiry-tomorrow-could-trigger-record-insider-selling-were-in-uncharted-waters-11785939875384.html
 
 - AI emerges as decision engine for finance, with governance and data quality key to unlocking value: KPMG
   Active AI use across finance has more than doubled in two years. More than three-fourths of organisations are leveraging AI in financial planning, reporting and commercial analysis.
@@ -100,125 +60,45 @@
   OpenAI, Anthropic
   🔗 https://www.livemint.com/technology/openai-anthropic-ai-agents-implicated-in-new-security-breaches-11785890464047.html
 
-- Dow surges 900 points, S&P 500 closes above 7,700 for first time in booming Wall Street rally - CNBC
-  Dow surges 900 points, S&amp;P 500 closes above 7,700 for first time in booming Wall Street rally. SpaceX Stock Slides After Earnings — Live Updates.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5mTVJFdXRwODc0clJoV1JSa1o5YlZlWk42N3NOUUZ0cFBCUS1HYmVoaHAwVUZCYlFMYnNRckQxNnp3NVpoemVvVk1zQ3BHQ1g1ay1ET00ydEVjQWozZXNqWnZnNEdFXzB0UVdqcGt2Y2kyTDlyS1NR0gF8QVVfeXFMTXpxRzNRQW5tbjVzV3Z5OThSRkJydGUwcExfODExQUVKVmM1YW9oR0NzQll6X1dkbTVqZGVoR1ZlTnRybHI5SUtVcFF5R1ZuV08tY3c1cTZqM2VtOEd4cjNDM2xUOHh0SWh1UjNnZGdWUVc5RVZ2LTNLbHNEMg?oc=5
+- SpaceX draws retail investors despite fall in shares post earnings
+  SpaceX shares experienced a notable decline, falling below one hundred ten dollars. Individual traders purchased over twenty-two million dollars worth of stock. The company reported increased AI revenue and new cloud agreements.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-draws-retail-investors-despite-fall-in-shares-post-earnings/articleshow/132956840.cms
 
-- Return of goods to markets in Gaza doesn’t mean people can afford them - Al Jazeera
-  Al Jazeera: Return of goods to markets in Gaza doesn't
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUzRkOVo2VHdTa0FndmhWTEMtQ3NLVUwtMS1RRlJxLW9EWWdCVUtrbkpNSHdMT292TGQ5TEVZanpHV2JjY2JzV2IzVVFINGFzMnlWWWo3QjVHb2Z0ZWhGdHdsX0ctQU9ub3NHS01hNWtDUG5TYk9waDJrTS1lVHRKTTZZWlNRSW4xQWNzdTkydkY0d3h0dlBZZHdtVkxUanBzbTZNQmNlY0xjdzBmVXNHQ0pac9IBuAFBVV95cUxQbmFVVXNmMUlhNjItU0FvQ1NaS3J1VmRFeklmT1VYMl91dWRRMWwxZldEVWRCQlhpSlpfUGZSZ1V6eF9xZ3Q4dUhHSE4tVEUtUHpwb3U1bnIzZ0RBMC0xaU5Kc0hReVAwZ0lhVFRyWmpKMndTWEEzYTdNZDNLUmt0aWp6VHd1bm9JcnM1aTByVnE4bEFCSl85S2JvX2I0eUdtUzNFMms0RmlmTjJqaFF1T0FnbmNUYU1F?oc=5
+- Circle shares fall nearly 4% as revenue miss overshadows quarterly profit beat
+  Circle's profits in the second quarter significantly outperformed expectations. Surge in USDC circulation, accompanied by a marked increase in onchain transaction activity, highlighted a positive trend.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/circle-shares-fall-nearly-4-as-revenue-miss-overshadows-quarterly-profit-beat/articleshow/132948385.cms
 
-- FIS seeks to sell parts of capital markets unit - Payments Dive
-  FIS seeks to sell parts of capital
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWFGYk9LdVUxT1R5c2pHUFB2V0YyVkV5Ukx5Z0gzMVlVdnRUOU5fdmx5Yi1Cd29IZ2JraWxkWHpsakJuUU9CbzNaQ2JVX3BVd2ZnT0JnYW5ubWtJZ0JfSkdLbmQtV0J5T0drUWljTnQ3S1JUcFkxallwdld2a1Zib1VGVzJqN1E1aXFSLW1md0ZRMUU?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Indian equities ended marginally higher despite sharp swings driven by closing auction session confusion. Realty, auto and metal stocks outperformed, while analysts expect Nifty to remain range-bound unless it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132948002.cms
 
-- Gold scales one-month peak as US-Iran peace hopes ease inflation worries - reuters.com
-  Gold scales one-month peak as US-
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmlKVnBzQTlPclFHcWhMcVpJeXB0eVQ1ODYxMTk1bkRLbDVybnI4dXhqQ01HaDR1N1FULU03ZDhZWUlEMkFtV2Z3RmFTWHhpVDFlRi0wRG9ZSkFlWVFTUFhXUFVjN3A5Zm1FSnNUbHlwWHF4OEo0TkxvZVV2OEdJNS1ZdG9OQ3V4ME43NV9QeXpSSnVQUEdIb1Jn?oc=5
+- US Treasury keeps coupon auction sizes steady
+  The US Treasury has announced it will keep its issuance of both coupon and floating-rate notes consistent for the upcoming quarters. Analysts suggest auction sizes will hold steady until next year, with a projected $125 billion in notes to be sold
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-keeps-coupon-auction-sizes-steady/articleshow/132946122.cms
 
-- As gold, stock markets lose lustre - why your humble fixed deposit is forever - The Times of India
-  The Times of India is a leading English-language newspaper based in India.
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVG9WM0ViU3JsQkdSWUZJd21nVEtUUGh5NkZwUVB6RDZBRkR5d3V4ekZnZ0JhclNzdElTaUE1SFZKZGhNOU0xM3hEcnJlWmxUTkpZTEIzMHNYdVB6aXRwWEtPZlhiXzRiUU5CS2V6clc1a0JuRWZFY3poWU1qMy12ZENDdk9uXzJma05kVWVwMUNTYmxEQjc1REhaU0hTT0ViQVowdFpyYnMzM2NXUGZKUE1JVms0WnZackJVODdCOFlNTF85UXJOeFk4emNHSU91SEMtdjlEMEp6azN5amRVWHBfUDZMMnN5SHdQeEhGbHE1Z9IB9wFBVV95cUxQc1AwWGVLNk9xc2laUUREZUU0Qk9MX1J6c3VIT3BTM1lXWUVfdm1hTTBteklwcE81UTNmeUhEUXpoTkZsdk5JVUJUdVZLWWVMM3hfTDAwQTNmWkZUVVdjbG4xTWloSGIxamJ6RlJjVW9vVHU1STBsUmNCb0dlUUI5SVhyalZfZnItX29PcHZOVVJtalExSTBRQ3hpc2hSOUdjRE9NdENuQl9zUXI1Uk1NOTBsUWV2NFB1WVY1aDdvYW5GOFRlckwybWJtazFtTGd0NWVoWU5GSjg5QS1ORGxPUDhaWDF4OXMtQ2xVNHQyM3BydzZEYU4w?oc=5
+- DLF eyes Rs 1 lakh cr sales pipeline in 4-5 yrs, rules out REIT for now
+  DLF aims for a Rs one lakh crore sales pipeline over five years. Profitability is expected to nearly double from 2028 onwards from residential sales. Younger buyers and NRIs are increasingly contributing to the company's sales.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dlf-eyes-rs-1-lakh-cr-sales-pipeline-in-4-5-yrs-rules-out-reit-for-now/articleshow/132945987.cms
 
-- Pidilite Industries among 6 stocks to hit 52-week highs &amp; surge up to 22% in a month
-  Sensex rose 152 points to close at 78,581 on Wednesday. Six BSE 100 stocks scaled fresh 52-week highs. TVS Motor, Paytm, JSW Steel
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pidilite-industries-among-6-stocks-to-hit-52-week-highs-amp-surge-up-to-22-in-a-month/slideshow/132932165.cms
+- Pinegap Nets $8 Mn From Stellaris & Others To Build An Agentic Platform For Market Analysts
+  AI-powered equity research startup Pinegap has raised $8 Mn (over ₹76 Cr) in its Series A funding round.
+  🔗 https://inc42.com/buzz/pinegap-nets-8-mn-from-stellaris-others-to-build-an-agentic-platform-for-market-analysts/
 
-- CREDAI, NAREDCO hail RBI policy, stable home loan interest rate to help sustain housing demand
-  The real estate industry's leading organizations, CREDAI and NAREDCO, applaud the RBI's decision to maintain the current repo rate. Developers emphasize that clear policies enhance project strategies and investment confidence.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/credai-naredco-hail-rbi-policy-stable-home-loan-interest-rate-to-help-sustain-housing-demand/articleshow/132927569.cms
+- BPC Brand Typsy Beauty Raises ₹20 Cr To Double Down On Quick Commerce, Offline Retail
+  Beauty and personal care (BPC) brand Typsy Beauty has secured $2.1 million in a fresh funding round.
+  🔗 https://inc42.com/buzz/bpc-brand-typsy-beauty-raises-%e2%82%b920-cr-to-double-down-on-quick-commerce-offline-retail/
 
-- India bonds rally on 'dovish' RBI hold, lower oil prices
-  The Reserve Bank of India decided to keep the repo rate steady, in line with anticipated market outcomes. A drop in oil prices helped ease inflation fears, supporting the economy.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-rally-on-dovish-rbi-hold-lower-oil-prices/articleshow/132927259.cms
+- Talks On MDR On UPI At A Premature Stage: RBI Governor Sanjay Malhotra
+  Amid heated debate over the imposition of merchant discount rates (MDR) on UPI transactions, the Reserve Bank of India’s (RBI
+  🔗 https://inc42.com/buzz/talks-on-mdr-on-upi-at-a-premature-stage-rbi-governor-sanjay-malhotra/
 
-- The next RBI policy: Likely more of the same
-  The RBI's decision to keep the repo rate unchanged and retain a neutral stance signals policy continuity over pre-emptive action. With inflation seen as temporary, financial conditions already tightening and global risks under watch, the central bank is
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/the-next-rbi-policy-likely-more-of-the-same/articleshow/132926883.cms
+- Reliance Retail Acquires Fashion Discovery Platform Furrl
+  Reliance Retail has acquired Bengaluru-based fashion discovery platform Furrl in an all-cash deal for an undisclosed sum.
+  🔗 https://inc42.com/buzz/reliance-retail-acquires-fashion-discovery-platform-furrl/
 
-- Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks open higher as Mideast hopes offset drag from SpaceX, AMD
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-hormuz-deal-crude-oil-fed-rate-hike-inflation-amd-spacex-nvidia-chip-stock-price-news-5th-august-2026/liveblog/132927004.cms
-
-- 'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused - BBC
-  'I was slut-shamed' -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUE9IaVFOc1gxeE81bTNUV0tBc29jZXV5TXhnc3N0YkU0MVZYbk1idlJ0T0ZfeWxyT1VpdjNjWjNNSUdqekZGcTZ0enBOS0hHNkM0a3VCTnpTZw?oc=5
-
-- 'No Involvement, No Endorsement': India Distances Itself From Sheikh Hasina's Delhi Event - NDTV
-  'No Involvement, No Endorsement
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0JjaENrR294V1p6XzFlb0lJVVR4VlJFRkpJTTVfa0dlWFF3QUVXT0JrNlBDSVEwSUV5RDZvbFFSUzExOE52LWg1TjJDRnFRaXFxQUdmZ0dwVUloVG1Tdnp0ZHVxV1Q0OUJrSXh6NkVsTlAyRHRUXzBCZVozWEJralVYU0pfRFAxVHZNcFU5aGhxSVlja1dNeFdJNGxKblZvRFFjMU1TZ0lZOE1fT3JRdGVkRU1iUE5YVHd0YzR5V1oyMGvSAcsBQVVfeXFMUHFkN05aYTREU0tqNWFEVGlVbm1WeWhoNkc1ajM3VGpNSDhtQ1R6c0xNQkNoN3E2OW11U25hYU9PNlJMMkFtZUdtaEdNT0hfY1ViOWdkTERDYllXSldNbW5JNXVsNzRoUGhrNW44dUc0aG9fek9WRHFqalYtZzBUZnNCLUx0UmlkZFBGakdNVjZMSjRUWW5zMHJtTzJTM1E1ZnZySFMwNVlMcHpMRXRKbDlXMVBBZTdxWHcyeTVuVjNjemtQaGo2ZnhwbFk?oc=5
-
-- Projectile sinks Indian-flagged ship off Yemen coast - BBC
-  Projectile sinks Indian-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjVnRsOEdHZTg2XzhnM1Nub2w2RHVLdEdUc3RfTkh4aHBzTUxicWZsSFlZMXctcC1zaTRfdVg3VEZEQmJVUXV4TWZ6UlVWOEZ2M3ZHLTVtNklUZw?oc=5
-
-- India-Flagged Ship Sinks After Attack In Red Sea, 13 Indian Sailors Rescued - NDTV
-  India-Flagged Ship Sinks After Attack In
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmh5YW1aZVZjMW5ST3JRenloUEQxZm8yck9jM2tPaXQ0dlZjZmFWeWkwMEUwbTVNaDJxMFY4dmR0OV9Sb0JJczdCRlB3MmI3V1Q4cllqUWpKSTF0cVpKS2tEQXhJb2hsQVoybGcta1Z6N09iT2pNQkxrcVVRa2dULW83emt0YkdkRHRaUGl5SHFqaDFVSmRfWjk1SHo5RWNqeVMyellqcG9yYXRlT1AxdTJudUl3UdIBvgFBVV95cUxQWHZXMllqcVNiOVktVEtJelY5eDkxQWRzQjFCdWh5TXVKVXZkTU5jLUdETUNNakhWZm00Zmo4elRBSDBvUjZKY0JneXNIQmVlVDY4T3pWcE8zbDg1UVpMdk5CSjFCZ0ZsMkJSS3pCSHNsMXRRSDV6bldDajhPVnlsWVR1Rm5RdGJFSjhVUFJIaTJpZzlSX0lhUENtcExqT1BmS3dzaVN4UzllS3cxdWR0RnI5bzNGQ2JBdngyeUtn?oc=5
-
-- India-flagged ship sinks after attack in Red Sea; All 13 Indian sailors rescued - News On AIR
-  India-flagged ship sinks after attack in Red Sea; All
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGF6ckRZU1g0OUpTU2VPMTNyTUlCcjVHdEpVT2oxcFdINzBYUzNGN0VtMDVKUGxPT0NHT2tsbjhMQzk4ZjJqS2ItS3lpUDRrQlBVM0JkZ2p1YWI2blc3NUlpUm4wZ1FjM1FvVlNNZVU1WVBGanZJLXdMeVBacGc4ckFRYi1HM2N2eklEbFZFSEtyempwRmI5czVNempENXVKZjhreldXR05fT0k?oc=5
-
-- Exclusive: Pain Care Startup Zanskar In Talks To Raise $6 Mn In Round Led By Bessemer
-  Delhi NCR-based pain care startup Zanskar is in talks to raise about $6 Mn in a fresh funding round.
-  🔗 https://inc42.com/buzz/pain-care-startup-zanskar-in-talks-to-raise-6-mn-in-round-led-by-bessemer/
-
-- Exclusive: AC Maker Optimist In Talks To Raise $10 Mn From TDK Ventures
-  Delhi NCR-based cooling solutions startup Optimist is in talks to raise about $10 Mn in a fresh funding round.
-  🔗 https://inc42.com/buzz/ac-maker-optimist-in-talks-to-raise-10-mn-from-tdk-ventures/
-
-- PB Fintech Q1 Profit Doubles YoY To ₹163 Cr, Revenue Jumps 40%
-  PolicyBazaar parent PB Fintech’s net profit almost doubled YoY to ₹162.9 Cr in the June quarter.
-  🔗 https://inc42.com/buzz/pb-fintech-q1-profit-doubles-yoy-to-%e2%82%b9163-cr-revenue-jumps-40/
-
-- [Update] Zuckerberg Apologises Over PM Modi Video Takedown, CSAM Ads, Deepfakes
-  MP Nishikant Dubey-led parliamentary panel warned Meta over its content moderation.
-  🔗 https://inc42.com/buzz/metas-safe-harbour-under-threat-as-parliamentary-panel-seeks-zuckerbergs-apology/
-
-- EV Startup River Mobility Bags $120 Mn To Expand Manufacturing Capacity
-  Electric two-wheeler manufacturer River Mobility has raised $120 Mn (about ₹1,141 Cr) in its Series C funding round.
-  🔗 https://inc42.com/buzz/ev-startup-river-mobility-bags-120-mn-to-expand-manufacturing-capacity/
-
-- 'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused - BBC
-  'I was slut-shamed' -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUE9IaVFOc1gxeE81bTNUV0tBc29jZXV5TXhnc3N0YkU0MVZYbk1idlJ0T0ZfeWxyT1VpdjNjWjNNSUdqekZGcTZ0enBOS0hHNkM0a3VCTnpTZw?oc=5
-
-- 'No Involvement, No Endorsement': India Distances Itself From Sheikh Hasina's Delhi Event - NDTV
-  'No Involvement, No Endorsement
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0JjaENrR294V1p6XzFlb0lJVVR4VlJFRkpJTTVfa0dlWFF3QUVXT0JrNlBDSVEwSUV5RDZvbFFSUzExOE52LWg1TjJDRnFRaXFxQUdmZ0dwVUloVG1Tdnp0ZHVxV1Q0OUJrSXh6NkVsTlAyRHRUXzBCZVozWEJralVYU0pfRFAxVHZNcFU5aGhxSVlja1dNeFdJNGxKblZvRFFjMU1TZ0lZOE1fT3JRdGVkRU1iUE5YVHd0YzR5V1oyMGvSAcsBQVVfeXFMUHFkN05aYTREU0tqNWFEVGlVbm1WeWhoNkc1ajM3VGpNSDhtQ1R6c0xNQkNoN3E2OW11U25hYU9PNlJMMkFtZUdtaEdNT0hfY1ViOWdkTERDYllXSldNbW5JNXVsNzRoUGhrNW44dUc0aG9fek9WRHFqalYtZzBUZnNCLUx0UmlkZFBGakdNVjZMSjRUWW5zMHJtTzJTM1E1ZnZySFMwNVlMcHpMRXRKbDlXMVBBZTdxWHcyeTVuVjNjemtQaGo2ZnhwbFk?oc=5
-
-- Projectile sinks Indian-flagged ship off Yemen coast - BBC
-  Projectile sinks Indian-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjVnRsOEdHZTg2XzhnM1Nub2w2RHVLdEdUc3RfTkh4aHBzTUxicWZsSFlZMXctcC1zaTRfdVg3VEZEQmJVUXV4TWZ6UlVWOEZ2M3ZHLTVtNklUZw?oc=5
-
-- India-Flagged Ship Sinks After Attack In Red Sea, 13 Indian Sailors Rescued - NDTV
-  India-Flagged Ship Sinks After Attack In
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmh5YW1aZVZjMW5ST3JRenloUEQxZm8yck9jM2tPaXQ0dlZjZmFWeWkwMEUwbTVNaDJxMFY4dmR0OV9Sb0JJczdCRlB3MmI3V1Q4cllqUWpKSTF0cVpKS2tEQXhJb2hsQVoybGcta1Z6N09iT2pNQkxrcVVRa2dULW83emt0YkdkRHRaUGl5SHFqaDFVSmRfWjk1SHo5RWNqeVMyellqcG9yYXRlT1AxdTJudUl3UdIBvgFBVV95cUxQWHZXMllqcVNiOVktVEtJelY5eDkxQWRzQjFCdWh5TXVKVXZkTU5jLUdETUNNakhWZm00Zmo4elRBSDBvUjZKY0JneXNIQmVlVDY4T3pWcE8zbDg1UVpMdk5CSjFCZ0ZsMkJSS3pCSHNsMXRRSDV6bldDajhPVnlsWVR1Rm5RdGJFSjhVUFJIaTJpZzlSX0lhUENtcExqT1BmS3dzaVN4UzllS3cxdWR0RnI5bzNGQ2JBdngyeUtn?oc=5
-
-- India-flagged ship sinks after attack in Red Sea; All 13 Indian sailors rescued - News On AIR
-  India-flagged ship sinks after attack in Red Sea; All
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGF6ckRZU1g0OUpTU2VPMTNyTUlCcjVHdEpVT2oxcFdINzBYUzNGN0VtMDVKUGxPT0NHT2tsbjhMQzk4ZjJqS2ItS3lpUDRrQlBVM0JkZ2p1YWI2blc3NUlpUm4wZ1FjM1FvVlNNZVU1WVBGanZJLXdMeVBacGc4ckFRYi1HM2N2eklEbFZFSEtyempwRmI5czVNempENXVKZjhreldXR05fT0k?oc=5
-
-- 'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused - BBC
-  'I was slut-shamed' -
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUE9IaVFOc1gxeE81bTNUV0tBc29jZXV5TXhnc3N0YkU0MVZYbk1idlJ0T0ZfeWxyT1VpdjNjWjNNSUdqekZGcTZ0enBOS0hHNkM0a3VCTnpTZw?oc=5
-
-- 'No Involvement, No Endorsement': India Distances Itself From Sheikh Hasina's Delhi Event - NDTV
-  'No Involvement, No Endorsement
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0JjaENrR294V1p6XzFlb0lJVVR4VlJFRkpJTTVfa0dlWFF3QUVXT0JrNlBDSVEwSUV5RDZvbFFSUzExOE52LWg1TjJDRnFRaXFxQUdmZ0dwVUloVG1Tdnp0ZHVxV1Q0OUJrSXh6NkVsTlAyRHRUXzBCZVozWEJralVYU0pfRFAxVHZNcFU5aGhxSVlja1dNeFdJNGxKblZvRFFjMU1TZ0lZOE1fT3JRdGVkRU1iUE5YVHd0YzR5V1oyMGvSAcsBQVVfeXFMUHFkN05aYTREU0tqNWFEVGlVbm1WeWhoNkc1ajM3VGpNSDhtQ1R6c0xNQkNoN3E2OW11U25hYU9PNlJMMkFtZUdtaEdNT0hfY1ViOWdkTERDYllXSldNbW5JNXVsNzRoUGhrNW44dUc0aG9fek9WRHFqalYtZzBUZnNCLUx0UmlkZFBGakdNVjZMSjRUWW5zMHJtTzJTM1E1ZnZySFMwNVlMcHpMRXRKbDlXMVBBZTdxWHcyeTVuVjNjemtQaGo2ZnhwbFk?oc=5
-
-- Projectile sinks Indian-flagged ship off Yemen coast - BBC
-  Projectile sinks Indian-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjVnRsOEdHZTg2XzhnM1Nub2w2RHVLdEdUc3RfTkh4aHBzTUxicWZsSFlZMXctcC1zaTRfdVg3VEZEQmJVUXV4TWZ6UlVWOEZ2M3ZHLTVtNklUZw?oc=5
-
-- India-Flagged Ship Sinks After Attack In Red Sea, 13 Indian Sailors Rescued - NDTV
-  India-Flagged Ship Sinks After Attack In
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmh5YW1aZVZjMW5ST3JRenloUEQxZm8yck9jM2tPaXQ0dlZjZmFWeWkwMEUwbTVNaDJxMFY4dmR0OV9Sb0JJczdCRlB3MmI3V1Q4cllqUWpKSTF0cVpKS2tEQXhJb2hsQVoybGcta1Z6N09iT2pNQkxrcVVRa2dULW83emt0YkdkRHRaUGl5SHFqaDFVSmRfWjk1SHo5RWNqeVMyellqcG9yYXRlT1AxdTJudUl3UdIBvgFBVV95cUxQWHZXMllqcVNiOVktVEtJelY5eDkxQWRzQjFCdWh5TXVKVXZkTU5jLUdETUNNakhWZm00Zmo4elRBSDBvUjZKY0JneXNIQmVlVDY4T3pWcE8zbDg1UVpMdk5CSjFCZ0ZsMkJSS3pCSHNsMXRRSDV6bldDajhPVnlsWVR1Rm5RdGJFSjhVUFJIaTJpZzlSX0lhUENtcExqT1BmS3dzaVN4UzllS3cxdWR0RnI5bzNGQ2JBdngyeUtn?oc=5
-
-- India-flagged ship sinks after attack in Red Sea; All 13 Indian sailors rescued - News On AIR
-  India-flagged ship sinks after attack in Red Sea; All
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGF6ckRZU1g0OUpTU2VPMTNyTUlCcjVHdEpVT2oxcFdINzBYUzNGN0VtMDVKUGxPT0NHT2tsbjhMQzk4ZjJqS2ItS3lpUDRrQlBVM0JkZ2p1YWI2blc3NUlpUm4wZ1FjM1FvVlNNZVU1WVBGanZJLXdMeVBacGc4ckFRYi1HM2N2eklEbFZFSEtyempwRmI5czVNempENXVKZjhreldXR05fT0k?oc=5
+- ArisInfra Q1 Profit Surges 4X YoY To ₹20 Cr, Revenue Grows By 37%
+  ArisInfra Q3: Profit Surges 9X YoY To INR 18 Cr. B2B ecommerce company recorded a consolidated profit of ₹20 Cr in
+  🔗 https://inc42.com/buzz/arisinfra-q1-profit-surges-4x-yoy-to-%e2%82%b920-cr-revenue-grows-by-37/
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +129,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-05 13:59:19 UTC_
+_Last updated: 2026-08-05 19:25:04 UTC_
