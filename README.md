@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- Why India's youth anger has become Modi's biggest challenge - BBC
-  Why India's youth anger has become
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
-
 - How gen Z exposed India’s prime-time propaganda machine - The Guardian
   How gen Z exposed India’
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
 
-- India’s Top Cinema Chain Plans $2-Ticket Halls for Small Towns - Bloomberg.com
-  India’s Top Cinema Chain Plans
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3VKR2FYcnpsQThOcW1fOGp2ZElPN3pSSnNoVkhvbTV6UUlnMDRNUnowZ0xwaGk5ZVlHYWZWSTNYY0hJOXVneEQtbVlFMUUtNjFJQU45dzNNd1JfQ0tWUGlLamVOVlJGb21iTjQtYTBtbUVwX2RFUGdLVWJfWDJTTmF1LWJLVWpoM1poMk1hV2FOZWxUYmhubHZZSl9pLXlwTVNialljalZNR1d1MklHd2Nn?oc=5
+- 'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused - BBC
+  'I was slut-shamed' -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUE9IaVFOc1gxeE81bTNUV0tBc29jZXV5TXhnc3N0YkU0MVZYbk1idlJ0T0ZfeWxyT1VpdjNjWjNNSUdqekZGcTZ0enBOS0hHNkM0a3VCTnpTZw?oc=5
 
-- Indian-Flagged Vessel Attacked Near Yemeni Waters, All 14 Seafarers Rescued Safely - News On AIR
-  Indian-Flagged Vessel Attacked Near Yemeni Waters,
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGF6ckRZU1g0OUpTU2VPMTNyTUlCcjVHdEpVT2oxcFdINzBYUzNGN0VtMDVKUGxPT0NHT2tsbjhMQzk4ZjJqS2ItS3lpUDRrQlBVM0JkZ2p1YWI2blc3NUlpUm4wZ1FjM1FvVlNNZVU1WVBGanZJLXdMeVBacGc4ckFRYi1HM2N2eklEbFZFSEtyempwRmI5czVNempENXVKZjhreldXR05fT0k?oc=5
+- Listening to youth is ‘most powerful force’ to prevent protest violence: Supreme Court | India News - Hindustan Times
+  Listening to youth is ‘most powerful force’ to prevent violence
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMlIxb1B2NmpVaENwR2dDODdqTEJBVXpIVTF5WmZuS3IxV25vWU9MS2s4UUFHLU1aQllhT210TWJfR042Wjlaa2pXUG9VeVRGWE1IX0RvUzdleUJmREhaaUxyRF9wMjdGZ2dmdXJFTkRoRlJNcDM2d1pUM1ZtR21CTVdULVpHOC1fUVhweXlvZFk0V1p1SndtTUtvaFduOVMzb0hMOWhpWk1QREp1U0J0RTg4UUZOUEJ3WUpCdWlYMVdDUHlybTFoRElUSkdoQm44RklQSzE1UTlmOGU0V2RCRVZpbzQ5V0xDS2tTd3U5dmp4ZFMtN1RwV0NhSHZJbHhzZ3VTVDFSS3fSAY4CQVVfeXFMTUdITHZXMDQwYkNTTzFEMTRkVl9XSVBZTXRkTXE0NFllbTU4WW53UDJLdlJubGFENV92Z3pEMDFZdkNnVGJ4blhPRGVvdmxRaW9Pc1ZkcVRaN3o4Tld3QlI2LUFOeXBDUDNBUWZMYlp4bVJ0bHpwSTJ1T3BtTlJJajN0eE13azFIVDJSdm1Ob3pNbUF5dkNQbGk5dFJoay12UnhqbzZJTEFZNkJjdEFqWlRreXV4QUthU25OWGhYVmRoNUNBb3ZITWhnbHhhOWtLSVBjbU1XUld3UHBaTzh1Qi05X0l2U1BJUS1Rcnl1czRuNnZhN2R6dlUwdFhBeDBLeGVMUDdaSzF2NFp0RWZ3?oc=5
 
-- "If You're Man Enough...": BJP's Khushbu Sundar Slams Udhayanidhi Stalin's 'Trisha' Remark - NDTV
-  "If You're Man Enough...": BJP's
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNWhZeWhlc3Z5NXdJNGxmTHl5Rl9Ed2NiMU5pZWpzbGxkbUVHWmp4MTJoZlZwVFhUZ2VCMXNwd1JScFlXTGw3WDRCVlBPcXQ2cUthSmhXanNaYUNDaEo4WGU4VzVJTzRBNkpXZ2VFeXRHdHB1S2pMNEs0WGl4RkxVZEFxUkhUZlVCY3Y4MlA0Y3gtcWk5bENJNHUwQlBsbDhOVURXdG1Pdnl6NEZiQThNbFJ6QVpWcFVEUVc4SlJhazdoaWxuRmhiVVVUd2h4Zk4ycWlPYnVfcTdoUGd3TnRmUVhCUlBZVWg4YTI00gHzAUFVX3lxTE5GYnpvazQ0dVNsN0RZdFVFOWV6NjY0WFNZTlB2eUYyWG9OSXRXYXpaSmdieGxmZkdjUUhLcmJoSzI5NzJNb3pyVmZXZFVFOXBZYUFIWWtVMXhhVWowQ2w1YW5FcU1NbDBtRjhnVWpBb0d0UjBsVmZHQ3JicG52VmdXRVhoeVp5NXl1ai12R1laOGxhdVdhS1p4TENTMlg3cXhqN1plX3ZON212MkpFVFpwa0xBaG9JSGQ4cDRrZkFIVkdteGx1a01GclpzYldPS1c5ZlJQMTBnd2FrUjh5UkJ0MWdvcC1fdEhiUmxKSFNvNWZZVQ?oc=5
+- India denies involvement in ex-Bangladesh PM Hasina’s planned speech - aljazeera.com
+  India denies involvement in ex-Bang
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFBtQk5CcWJZSUc0SGhhU2FQbC0xbjFUTDI5c08wQnlyRTg3blczVWt6UzRzU1hTdFY4N2VKUC1fNE5CN0pwdHo5emRXT1UxRmVqbzA5RU9peUhOcGxWTHpJZUktdnhQbVJ6U2ZlTmJXZVV1QWZFcnV5NU1DMmtkQWN1d3lnTzc5WnRBbjNQSU13UVlaQzByMFo4ekhiUUhzc1M2UkF6aWdSOU3SAbABQVVfeXFMTVJZRENaQUo3SUh0ZV9LZEg3QTRwRnVhTUI4aHNYNHRGMFNRLXdPTlVZNTVxWTc4cGlYelJpTXNieGV3S2lyOXRXeWZoYmJsSFZSd0NrVEVQczI3b2x5Y0JYWTRrdkE5LXQtc0c0Smc4WUh3RXJpQzA3T0pxYzJjU0JJX2ZsX0N5YkFRUHZYSkR1WHV5NUhIaFNBclY1czJjSjA4OG5DMzgzSGZCOXVuNVY?oc=5
 
-- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - Al Jazeera
-  Al Jazeera reports that Palantir
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01GRVZqRVFBMEtzTmpMczVIZVh4clg4MmpGekJzczVjQi1qUUVfOG4wZXlXY0d4aUFZRlNGUC14Y0V3ZVpRMnpDRkNtUnoyelFWOU9yOG9YVWotUEY2azFlTDJDZmkwUXlsMHFqSUxINGFJSlhiS0t0WVpvSDk0dVdiMThycnVPbWwzMlkycmJoeDVMTlFvdGZ0aS1FamRERTVsLWhaVHVreHFGX2k1QnVpUdIBuAFBVV95cUxNVzl5dHI4Q3UzaXZtTFN6UWdVcjVZeTEyMDJwMnJKZFlqbUVaMlJfSF9GclZfRUh4elFFUExNZDdxc1B5NkRRaV9KcGV4QzZ0TWlNM2dWMGY5VmxSUllzTElZRE96dnFKeTJMNXNfX19Kc054SEFlWUxuM2d3SklRRlBYNFhkZVlCWFdzODFmUXZrQUUyUW9lUmNLY0ZFRFA3enNJdVhGUEltcXNZQ2QxU3p0OXotOERH?oc=5
+- How India-Bangladesh Ties Evolved Two Years After Sheikh Hasina's Ouster - NDTV
+  How India-Bangladesh Ties
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzRJc3l2bW1pelFRSkNlRzNXSXVOWks2bkkyN2xCQ2ZRazlwU3FMdWNudTNXbjhhVjBhMk1Uc0ZhcGlTdl9pazVXN2kwaTRsSXdVMi03em1veUoxdUxNRDc2UjVaazZ4SERNeE5LVHkzMXNoblZzT19LeV92M19LMktyVDFhcjJ1c0NTOVNNQ1VZUXdOeGdWYUFqT1ZCT1Fydm42aVdXMHBUWkh0bkFiekNn0gG6AUFVX3lxTE1CdDlHM2tnbXowVE5RSzhnVWJGa0lEcVdDUTRkSFNTenFJdDVBZkxEQ2c1UGI3bkJNTngzQ0hWLWNQMUNNcjB3S1NZcW9UZGFrUWhNdGdSYVZna2s3bHJvSHhkcE91Sjk3amxnR1czWEFKcE5xRjlENnJkNEVHWG5IZGFBNHd4ZjVLMWM2eS1lOFQxYllvdkwyY1ptSHNjSFZqb1c3Y0ZBaWE3bkdDc2VWZEdHWDM2cDVhQQ?oc=5
+
+- Samsung Electronics launches next-generation AI memory technology - Reuters
+  Samsung Electronics launches next-
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5
+
+- How AI is changing jobs in the Philippines' outsourcing industry - BBC
+  How AI is changing jobs in the Philippines
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE56NXY2c3YxM1FYYnhvV3dIQ1RWRmIxLWVhRHF2TlprMXk5NXhOSkRiRzVma1dFeFZ4RWZUbk5LZHZoN2NuVHNkN1ZoUVcybkpoRHpuR3VYdDRKQQ?oc=5
+
+- The Sonipat-Jind hydrogen train may one day be remembered not for the 89 km it traverses, but for the technological journey it set in motion - Down To Earth
+  The Sonipat-Jind hydrogen train may one day be remembered not for the 89 km it traverses, but for
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeXpWMUN6VTlGRlhFZjN4ZTI0YW41VGJjamU4T0FULVpHeDdkQVhCM0pJQVBuXzVYcWExVFFlUjVONkQ5U2FJR25OSkNLbW0zcEF6aGhXeW5wcHZkYUpTNXZ3TXVHeEV1YVpxNnBmbGJ1NmxFeFBTdWJ1TUh3OEhMTjlJYTFhTF9wdzBJY2ZPMXFIRldhc2Jpazk0bkttRDAwa3lVbXQ1Yi0wTmladGhTZTR3MEZFVFVCTDdLc0lxZVpxMm1oVWZGd0FkMlRYQzNrLU5pelFyVFNMbjBZSGd3bjlST3hGWDI1YzBIT3dwZkp4S1ZXNDNwNDJQYUdSbHNKMnF1LUY2eHLSAZYCQVVfeXFMTmkxby1wNHB5OVRSVGlCNHdtZXRjX1pLbEE2WTU4eGxjbnJETGlTYlR3WHlfU3ZJYjJyejF6bmRlelg0aVNEZGNaQ3JLdktHdi00eS1zbzkwYkVybHlWSC00Y2FqUGlRSm5VRnU5YkJrLWYxVjhrTnFHdWUwYWthSFpTaHZ6S3dPcjFPVUVsaTI2ak1YWDg2aHpjZmFsMU5SeWhoeXExTGtSazcxVHN0QnpENjYwR25yaktsWVV3ZVUzU1R1YTVFWDNvNG80YWFHSHdjRkkxd3pyRE9XNWdZQnhCR2pHSy1sVHBsRmF0ZTBLNW1MLWVoSlp6N3MtbXZ5dW5od1VFNXMtWEVpazdTZm1JbVo4TGc?oc=5
 
 - Labour Minister Vivek says Advanced Technology Centres will boost employability among youngsters - The Hindu
   Labour Minister Vivek says Advanced Technology Centres will boost
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOHg4SGV0T0hEMTdlRTIwcm9LdG10N0tsTEpXbWlHWHlseFN0ZlphZlBieW1Ra3dFX0dmNW5NVmJrMVlQdU9MTENrRHI4YUJjOWlPTVAyTXpQRHRWd2Ezc1N5dk9hSmhNd1pDM2Z5SkFjOVR6d2NaR1NfVU9uejJxVHBFOW1WZ3FGSTc5WUFsZV9yb1RlY1hTVHpveHIzUVRqQ05iaVUwZ1dWRDBONWZ1d2VjdGFYSnlrSnM4enlqZG1MYjJmMzhHcy1OZ3BfakNZN0lYdkkzaU5zcWkxNmk5eThiVXZ5dzE2Wnc1em5iaEItS2xCd1Vrb9IB_wFBVV95cUxNQ1c4U3ZpT2RqTFZCZDFOZGR2TjlaeHFhR1ExMWctOTNZRkpYNUo5YTF1bFFOck8zWHEyeTM5VVZaUTlRNzVxaXNnZUJ3amU3Z2hud3VLUlo4U0xNOGdlX2p4MDJvVzNKa2pISzM1a2pDMjdLUFkydHRyVzgtdE5RSE1DTm1fTlk4SmZKWFZuU1VqV0ljWFZEZXVUUkZkLUR3S1o2VUJzeDVfOFpsYm52VDVCMjQ0Y2NnS3JZTU0yWExfSmF1LUxucnU0dlNvSkRGODJMbEVGbkh1VV9XUFdySlRYMUx6YVJFYWh2RW04MVVxUlpuQk5XNGFJXy1uZ2c?oc=5
 
-- How New Vehicles Will Get Crash Warnings With V2V Technology From 2028 - NDTV
-  How New Vehicles Will Get Crash Warnings With V
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHFVSHYtajFmVmxzVWl5OEpFRmRYcE03WDFiSDBCVVA3RmxwcmdhVV9NMkhYZnFYUkRkaE5USVc1d216SlhWZU1aVzBtLXJhT05kWXhyVTFJYm9mUFlQaDBGOFh5UnhRazlzZWIwZERFeWU3Q0p2SnlrZ3FlQnVfWkpWUUttTkpWb0NCaFlEb1Zya21HbFBUT2IxcC0zQ2UxanpaeUJtMUpXMmRoYnIzZtIBuAFBVV95cUxPX0VDdDZRWjlOSExVckNsVDVxdWxhVWp5bFBXTmJ3S0hLUXNIaUNxWGJCaUNYWFVEb29HZnVjWFZaR1pZemthTGJ5TUJJNXZORGVhajE2N3ZiVERnUkd2SFh4bnNweHhmUEFfeHAtRUdnTW9SNlpVSnY5RmJjNjhTZDQ3Q1FRdWZzVWpMY25IdTBNamZnNnNzSk9yYmtPTml4YThTX1JqS0hTWUZJZUlRZkN0WEhqZ2I0?oc=5
+- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - aljazeera.com
+  Tech giant Palantir posts ‘
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01GRVZqRVFBMEtzTmpMczVIZVh4clg4MmpGekJzczVjQi1qUUVfOG4wZXlXY0d4aUFZRlNGUC14Y0V3ZVpRMnpDRkNtUnoyelFWOU9yOG9YVWotUEY2azFlTDJDZmkwUXlsMHFqSUxINGFJSlhiS0t0WVpvSDk0dVdiMThycnVPbWwzMlkycmJoeDVMTlFvdGZ0aS1FamRERTVsLWhaVHVreHFGX2k1QnVpUdIBuAFBVV95cUxNVzl5dHI4Q3UzaXZtTFN6UWdVcjVZeTEyMDJwMnJKZFlqbUVaMlJfSF9GclZfRUh4elFFUExNZDdxc1B5NkRRaV9KcGV4QzZ0TWlNM2dWMGY5VmxSUllzTElZRE96dnFKeTJMNXNfX19Kc054SEFlWUxuM2d3SklRRlBYNFhkZVlCWFdzODFmUXZrQUUyUW9lUmNLY0ZFRFA3enNJdVhGUEltcXNZQ2QxU3p0OXotOERH?oc=5
 
-- India developed intelligence-led and technology-driven model to combat fugitive criminals: MHA - News On AIR
-  India developed intelligence-led and technology-driven model to
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDhnbVpiOWg2VkNNWXU3TUhTckg5VWJQSVltMmVNT19mTlNpcmJXQnUxeDhzTWUtQ0w4d2c1TjNuM2VIZlE0eU1YNVdISjV4ZVVUdjItN1lBenVWWFdUekstbHQxMmM2NlBJLS1rZE9ocTVkNTQ3VGY4MnUwdWhhWDEyRjZYdjNvVDlfRzNtd2c4RVFDVVI4MWtpalJUVXBSVjkxMWd6eEFoQ00xcWs0?oc=5
+- Air India Express doubles borrowing ceiling as geopolitical risks, fuel costs bite
+  Air India Express is grappling with a difficult operating environment that has eroded
+  🔗 https://www.livemint.com/companies/air-india-express-borrowing-limit-raised-to-rs-20000-crore-geopolitical-risks-fuel-costs-11785904059853.html
 
-- Can you tell if someone is filming you with Meta glasses? – video - The Guardian
-  Can you tell if someone is filming you with Meta glasses?
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNdk1Zb2I5ajNBSVVhRVpvZEk3MFFvVkQwZmcweEVMSzlLQ3NyNWZNUHZKVHltMDRHSVBjMm9YSU1SN2ZZbW1jVlIyOThXUUhHdEd3S1BleXd1TF84bXdaZW8xMzJvN3hZcDFmdmlFXzJmdzlfSnRmdldmS3Q3ZmlJVXVwa05LbXZfd2xkRFdVVDlpRDFfTWsyZHFaU1JDd3hYbk9wSVQ5bmg2MEhTSmVQcnBJeUE?oc=5
+- Ajit Prabhu’s long game: Building a century-old company in the AI era
+  Quest Global is one of the world's largest pure-play engineering, research and development firms
+  🔗 https://www.livemint.com/companies/news/quest-global-chairman-ajit-prabhu-on-ai-engineering-services-growth-11785824381096.html
+
+- InRisk Labs raises $27 million as subsidiary EarthRe gets reinsurer licence
+  The company will use the fresh capital to build better technology and hire experts to improve how it assesses and prices insurance risks. It will also help the company expand
+  🔗 https://www.livemint.com/companies/inrisk-labs-raises-27-million-series-a-earthre-gift-city-reinsurer-11785903926508.html
+
+- Apple expands allegations against OpenAI, says more ex-employees may have taken trade secrets ChatGPT maker
+  Apple's court filing reveals that more former employees are linked to the
+  🔗 https://www.livemint.com/companies/news/apple-expands-allegations-against-openai-says-more-ex-employees-may-have-taken-trade-secrets-chatgpt-maker-11785895692187.html
 
 - Adani's bumper capex trickles down to smaller infra firms
   The Adani Group’s  ₹1.53 trillion capex plan for FY26 is emerging as a major growth driver for smaller listed engineering and construction companies. For some,
   🔗 https://www.livemint.com/companies/adanis-bumper-capex-trickles-down-to-smaller-infra-firms-11785822338520.html
 
-- Codelco Halts Expansion Work at Top Mine on New Seismic Risk
-  Codelco is suspending work on a project designed to extend the life of its biggest copper mine in Chile. A year after a rock burst killed six workers
-  🔗 https://www.livemint.com/companies/codelco-halts-expansion-work-at-top-mine-on-new-seismic-risk-11785870763858.html
+- Ola Electric Mobility share price ascends 10% after this update. Details here
+  Ola Electric's share price surged over 10% after signing an MoU with Axis Energy to develop 20 GWh of battery energy storage systems by 2032. Ola Mahashakti
+  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-mobility-share-price-ascends-10-after-this-update-details-here-11785914348583.html
 
-- OpenAI pays $3.2 million in US probe over hiring foreign workers
-  OpenAI pays $3.2
-  🔗 https://www.livemint.com/companies/openai-pays-3-2-million-in-us-probe-over-hiring-foreign-workers-11785870702527.html
+- Oil Erases Decline as Traders Weigh Fresh Houthi Threat
+  Yemen’s Houthi militant group issued a fresh threat against Middle East shipping
+  🔗 https://www.livemint.com/market/oil-erases-decline-as-traders-weigh-fresh-houthi-threat-11785917157048.html
 
-- Tom Garfinkel steps down as president, CEO of Dolphins after 13 years, will remain with organization
-  Tom Garfinkel steps down as president, CEO of
-  🔗 https://www.livemint.com/companies/tom-garfinkel-steps-down-as-president-ceo-of-dolphins-after-13-years-will-remain-with-organization-11785863468189.html
+- AMD stock falls 9% in extended trading despite beating revenue estimates— here's why
+   AMD shares fell nearly 9% in after-hours trading despite beating Q2 expectations with $11.54 billion
+  🔗 https://www.livemint.com/market/stock-market-news/amd-stock-falls-9-in-after-hours-despite-beating-revenue-expectations-heres-why-11785914091966.html
 
-- Marico delivers bumper Q1, confident of navigating macro headwinds
-  Strong volume growth and lower input costs boosted margins in the June quarter. The company does not expect further pricing action in
-  🔗 https://www.livemint.com/companies/company-results/marico-delivers-bumper-q1-confident-of-navigating-macro-headwinds-11785851932945.html
+- Stock market rally broadens, but history flashes a caution signal
+  Stock market logged positive breadth for four straight months through July. Historical data suggests similar prolonged stretches often lead to muted Sensex returns in the
+  🔗 https://www.livemint.com/market/stock-market-rally-broadens-but-history-flashes-a-caution-signal-11785909150739.html
 
-- From Gift Nifty to RBI MPC meeting outcome, oil prices: 8 key things that changed for Indian stock market overnight
-  The Gift Nifty was trading around the 24,731 level, a premium of nearly 175 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-rbi-mpc-meeting-outcome-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11785892781258.html
+- MV Electrosystems IPO to list on BSE, NSE on August 6; here's what GMP suggests ahead of market debut
+  MV Electrosystems is set to debut its IPO on August 6. The public issue was oversubscribed 200
+  🔗 https://www.livemint.com/market/stock-market-news/mv-electrosystems-ipo-to-list-on-bse-nse-on-august-6-heres-what-ipo-gmp-suggests-ahead-of-market-debut-11785913357270.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 5 August 2026
-  Sumeet Bagadia recommends five breakout stocks to buy today. Dilip Buildcon, Syrma S
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-5-august-2026-11785890704427.html
+- Google Pixel 11 Pro Fold launching on 12th August: here's what to expect
+  Google will launch its Pixel 11 series in California next week. Pixel 11 Pro Fold is expected to feature an 8-inch OLED display, Tensor G6 chipset
+  🔗 https://www.livemint.com/technology/gadgets/google-pixel-11-pro-fold-launching-on-12th-august-heres-what-to-expect-11785906208606.html
 
-- Raja Venkatraman recommends three stocks for 5 August
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-5-august-11785890260978.html
-
-- RBI MPC meeting outcome today: Check date, time, and where to watch Governor Sanjay Malhotra's speech
-   JM Financial expects the MPC to keep its rates and neutral stance unchanged this week.
-  🔗 https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-outcome-today-check-date-time-and-where-to-watch-governor-sanjay-malhotras-speech-11785890925283.html
-
-- Treasury Options Splurge Risks Igniting Bigger Market Turbulence
-  Bond traders have been spending millions of dollars to guard against sharp declines in long-dated Treasuries.
-  🔗 https://www.livemint.com/market/treasury-options-splurge-risks-igniting-bigger-market-turbulence-11785891254486.html
+- Europes established tech firms emerge as unexpected AI winners
+  Europe's established tech firms emerge
+  🔗 https://www.livemint.com/technology/europes-established-tech-firms-emerge-as-unexpected-ai-winners-11785909696992.html
 
 - OpenAI, Anthropic AI agents implicated in new security breaches
   OpenAI, Anthropic
@@ -92,113 +100,125 @@
   Apple Inc. exceeded $10 billion in annual sales in India for the first time last fiscal year. The company is steadily ramping up its retail network
   🔗 https://www.livemint.com/technology/gadgets/apple-crosses-10-billion-in-india-sales-on-widening-retail-push-11785853108370.html
 
-- OnePlus Independence Day sale is here: Check the best deals on phones, tablets and more
-  OnePlus launches its Independence Day Sale 2026 in India. Offers discounts on
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-independence-day-sale-is-here-check-the-best-deals-on-phones-tablets-and-more-11785807814722.html
+- S&P 500 futures climb after massive rally lifts index to fresh record: Live updates - CNBC
+  The Dow Jones Industrial Average and the S&P 500 hit record highs on Monday. Asian stocks also rose on hopes of a deal in Hormuz.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE8yenVSZnZSMHlWeHFLOUswVnExcnp5MVRSRXljcFJ0cGRMdF9ma3N2d0ZBYUNickZFc0dGV3RSWVRDRzRIbk82UnVDbUxjTXVGaHpEMTRZU2dpMjVwTWdLbWE0OHRidkJmTUYtbkxZSWNUUUd0T3VJ0gF8QVVfeXFMT2dHODc5S2N4X21SN1ZrcFVMaWxjaUo5Yi1ZNHR3aTN5RnpPNlF5NUxtNGhxNVpmQXg0VWpIWU1CUlZBWHNCSHlUVlh2eHAwYWhoSEJUd1kxQTljamczMEROTTlHbU4wTE9SaHVhMmtEMzRNYjdFbWc5ZFdwTQ?oc=5
 
-- POCO M8 Power launched in India: Price, specifications and launch offers
-  The POCO M8 Power has a 6.9-inch FHD
-  🔗 https://www.livemint.com/technology/gadgets/poco-m8-power-launched-in-india-price-specifications-and-launch-offers-11785828183041.html
+- Options market braces for $225 billion swing in SpaceX's value as earnings loom - Reuters
+  The company's value is expected to soar to
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZC1YMWVjM1o2YkdjUXFWbUl2OTg1cXBvRkN3VHRmcmN1Mk0wemtyRGw5ZDJaQzEzaXBPVHUtZkJxM1Q5Q3VxV1l3WUVmS1NjLXYwVDhJRWFBeWQxU2JZb181R25zSmFIT1RvMWNvVG5EaW1ZanFtbFRVei1jaUcyZHhRcTRkTnNITVdsbUxCZlE5eWVod0xsZHhZZ1dyNS1RN25HdlNxMTNCUF9xRzA1SkdaVlR5UUphT185OU9aaFQ?oc=5
 
-- Treasuries rise as falling oil eases pressure on Fed
-  The two-year note yield reached its lowest point since late July. The benchmark ten-year yield settled at 4.62 percent.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/treasuries-rise-as-falling-oil-eases-pressure-on-fed/articleshow/132883302.cms
+- Stock Market News, August 4, 2026: Dow Rallies to Record, SpaceX Earnings in Focus - WSJ
+  The WSJ looks at the future of the stock market.
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2M5QlBwRnpxZVFMa3pFM3IwTzVrM3FBVzltUnpwWUhlcnNPWG4yZDgzNE1RdVRTVzNRc2V5VjIwRWRwQk9fZTN1QURfVVhXbktHaFM4azFBNGdTTUIwVDZhZ3hwc2loV0hOaTU0NVBkR3lPVjVxNXZEemxsYTRNUlFzdUU?oc=5
 
-- Dhoot Transmission IPO priced at Rs 829-871
-  Dhoot Transmission has set the price band for its ₹3,067-crore IPO at ⁹829–871 per share. The public issue will be open for subscription from August 10 to
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-ipo-priced-at-rs-829-871/articleshow/132883008.cms
+- AMD earnings are a key test for chips and momentum stocks. Here's what the options market is saying - CNBC
+  AMD earnings are a key test for chips and momentum stocks. Here's what the
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2puNkFEbndUUXhDeFpmZ3BNaHVYMDAyZTB0ZGZOMmUzYlZOUGx4cEJuT0UwN1Q3NUdGSl91VXQyOG5aNHRBTFRaaEpTT1NxTm4ydEpEQWZtMXRVVGJuTUFIMV85OENZUzZNZ2ZqMXJzZjJVX2dwM2lpUGs5VnVjYWxVQndmRWJ2andkaUdpTUdRNE44VHlreVN4bkZvRDVxYmRQaVpzeWxFVmwtazlrdEd4NEZhVXZ2VjJQbjdEU3ZkWElzTkpDWkprUFEwZzTSAdQBQVVfeXFMTTdDQ2k2a0RlNGJ1bDRNME9UWmVVZDlOOVQ3OEdvbjVGVWVkYTc3NjVHYU5iQTN6MXRlUVBUcENHUjNaMEstMDFGcVlHMjdVblMybkM3UjZTb05ZWGVPanNtWW0tTDljLU9LeFlrX3h2NTBRUEhBc1FNUkc0Sll4UHZfVzlTSWowWHNxZVZ6WFo5b1U2RGpHeUVPenR3Zi1TZHJyQ1VudUswcGxqWVB5czZ5blJGSDhOX04zbExNZ1N4YUc5cmpsQzlsR1BSVDVkR3JFSmU?oc=5
 
-- Global Market Today: Asian stocks advance on Hormuz deal hopes
-  Prospects for an interim deal with Iran eased energy supply concerns. This development has led to a slide in oil prices and reduced inflation pressures. Investors are now watching for further progress on reopening the Strait of Hormuz.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-advance-on-hormuz-deal-hopes/articleshow/132883101.cms
+- FIS seeks to sell parts of capital markets unit - Payments Dive
+  FIS seeks to sell parts of capital
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWFGYk9LdVUxT1R5c2pHUFB2V0YyVkV5Ukx5Z0gzMVlVdnRUOU5fdmx5Yi1Cd29IZ2JraWxkWHpsakJuUU9CbzNaQ2JVX3BVd2ZnT0JnYW5ubWtJZ0JfSkdLbmQtV0J5T0drUWljTnQ3S1JUcFkxallwdld2a1Zib1VGVzJqN1E1aXFSLW1md0ZRMUU?oc=5
 
-- Rupee remains stable at 95.37 ahead of RBI policy outcome
-  Importer hedging demand and FPI inflows supported the currency's stability. Caution ahead of the monetary policy announcement also influenced its movement. Brent crude prices remained between eighty and eighty-three dollars per barrel.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-remains-stable-at-95-37-ahead-of-rbi-policy/articleshow/132882887.cms
+- Monarch Networth initiates coverage on Asian Paints, Colgate and Kansai Nerolac; sees up to 17% upside
+  Monarch Networth Capital has initiated coverage on Asian Paints, Colgate Palmolive India and Kansai Nerolac Paints. The brokerage sees Kansa's offering the highest upside
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/monarch-networth-initiates-coverage-on-asian-paints-colgate-and-kansai-nerolac-sees-up-to-17-upside/articleshow/132905632.cms
 
-- Higher funding costs, rising competition may weigh on Muthoot Finance
-  Muthoot Finance shares dropped nearly eight percent after reporting lower net interest margins. Loan yields are expected to remain under pressure this year due to rising costs. Earnings growth in FY27 will depend on loan book expansion, not margin improvement
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/higher-funding-costs-rising-competition-may-weigh-on-muthoot-finance/articleshow/132882573.cms
+- RBI's status quo on rates to support housing demand, keep real estate sentiment intact: Industry
+  The RBI's decision to keep the repo rate unchanged at 5.25% for the fourth straight review has received a positive response from the real estate sector. Developers and consultants believe stable interest rates will support housing demand, boost buyer confidence and
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rbis-status-quo-on-rates-to-support-housing-demand-keep-real-estate-sentiment-intact-industry/articleshow/132905070.cms
 
-- Why India's youth anger has become Modi's biggest challenge - BBC
-  Why India's youth anger has become
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
+- What lies ahead for AMD shares after its record-breaking earnings?
+   AMD reported record quarterly revenue and earnings, driven by booming AI chip demand. But shares fell after results as lofty expectations triggered profit booking
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/what-lies-ahead-for-amd-shares-after-its-record-breaking-earnings/slideshow/132905573.cms
 
-- How gen Z exposed India’s prime-time propaganda machine - The Guardian
-  How gen Z exposed India’
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
+- Nifty Smallcap 250 hits 52-week high as Ola Electric, other stocks rally up to 7%. What lies ahead?
+  The Nifty Smallcap 250 gained nearly 1% to hit a fresh 52-week high. The index climbed close to its September 2024 record.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-smallcap-250-hits-52-week-high-as-ola-electric-other-stocks-rally-up-to-7-what-lies-ahead/articleshow/132903983.cms
 
-- India’s Top Cinema Chain Plans $2-Ticket Halls for Small Towns - Bloomberg.com
-  India’s Top Cinema Chain Plans
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3VKR2FYcnpsQThOcW1fOGp2ZElPN3pSSnNoVkhvbTV6UUlnMDRNUnowZ0xwaGk5ZVlHYWZWSTNYY0hJOXVneEQtbVlFMUUtNjFJQU45dzNNd1JfQ0tWUGlLamVOVlJGb21iTjQtYTBtbUVwX2RFUGdLVWJfWDJTTmF1LWJLVWpoM1poMk1hV2FOZWxUYmhubHZZSl9pLXlwTVNialljalZNR1d1MklHd2Nn?oc=5
-
-- Indian-Flagged Vessel Attacked Near Yemeni Waters, All 14 Seafarers Rescued Safely - News On AIR
-  Indian-Flagged Vessel Attacked Near Yemeni Waters,
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGF6ckRZU1g0OUpTU2VPMTNyTUlCcjVHdEpVT2oxcFdINzBYUzNGN0VtMDVKUGxPT0NHT2tsbjhMQzk4ZjJqS2ItS3lpUDRrQlBVM0JkZ2p1YWI2blc3NUlpUm4wZ1FjM1FvVlNNZVU1WVBGanZJLXdMeVBacGc4ckFRYi1HM2N2eklEbFZFSEtyempwRmI5czVNempENXVKZjhreldXR05fT0k?oc=5
-
-- "If You're Man Enough...": BJP's Khushbu Sundar Slams Udhayanidhi Stalin's 'Trisha' Remark - NDTV
-  "If You're Man Enough...": BJP's
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNWhZeWhlc3Z5NXdJNGxmTHl5Rl9Ed2NiMU5pZWpzbGxkbUVHWmp4MTJoZlZwVFhUZ2VCMXNwd1JScFlXTGw3WDRCVlBPcXQ2cUthSmhXanNaYUNDaEo4WGU4VzVJTzRBNkpXZ2VFeXRHdHB1S2pMNEs0WGl4RkxVZEFxUkhUZlVCY3Y4MlA0Y3gtcWk5bENJNHUwQlBsbDhOVURXdG1Pdnl6NEZiQThNbFJ6QVpWcFVEUVc4SlJhazdoaWxuRmhiVVVUd2h4Zk4ycWlPYnVfcTdoUGd3TnRmUVhCUlBZVWg4YTI00gHzAUFVX3lxTE5GYnpvazQ0dVNsN0RZdFVFOWV6NjY0WFNZTlB2eUYyWG9OSXRXYXpaSmdieGxmZkdjUUhLcmJoSzI5NzJNb3pyVmZXZFVFOXBZYUFIWWtVMXhhVWowQ2w1YW5FcU1NbDBtRjhnVWpBb0d0UjBsVmZHQ3JicG52VmdXRVhoeVp5NXl1ai12R1laOGxhdVdhS1p4TENTMlg3cXhqN1plX3ZON212MkpFVFpwa0xBaG9JSGQ4cDRrZkFIVkdteGx1a01GclpzYldPS1c5ZlJQMTBnd2FrUjh5UkJ0MWdvcC1fdEhiUmxKSFNvNWZZVQ?oc=5
-
-- Elevation Capital Offloads Paytm Shares Worth ₹2,038 Cr
-  Venture capital firm Elevation Capital today offloaded Paytm shares worth ₹2,038 Cr via multiple bulk and block deals
-  🔗 https://inc42.com/buzz/elevation-capital-offloads-paytm-shares-worth-%e2%82%b92038-cr/
-
-- Elevation Capital, Peak XV Partners Sell Meesho Stock Worth ₹1,949 Cr
-  VC firms Elevation Capital and Peak XV Partners cumulatively sold 10.28 Cr shares.
-  🔗 https://inc42.com/buzz/elevation-capital-peak-xv-partners-sell-meesho-stock-worth-%e2%82%b91949-cr/
-
-- Meet The 20 Startups Selected For Google Play Accelerator India
-  Alphabet-owned Google has picked 20 homegrown startups for the 2026 cohort of its “Google Play Accelerator India” programme.
-  🔗 https://inc42.com/buzz/meet-the-20-startups-selected-for-google-play-accelerator-india/
-
-- [Update] Klassroom IPO Closes With 1.46X Oversubscription
-  The public issue of edtech company Klassroom ended the final day of bidding with $8230 million.
-  🔗 https://inc42.com/buzz/klassroom-ipo-oversubscribed-1-18x-on-day-3-till-now/
-
-- ET Now Acquires OpiGo To Expand Its Investment Platform
-  Times Network has acquired fintech startup OpiGo for an undisclosed amount. The acquisition is part of ET NOW’s expansion into the fint
-  🔗 https://inc42.com/buzz/et-now-acquires-opigo-to-expand-its-investment-platform/
-
-- Why India's youth anger has become Modi's biggest challenge - BBC
-  Why India's youth anger has become
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
+- Global Market: BOJ sees stronger inflation ahead, June minutes show
+  Bank of Japan policymakers expect consumer inflation to receive a boost in the second half of the fiscal year. Some members favouring faster rate hikes as inflation pressures remain resilient.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-sees-stronger-inflation-ahead-june-minutes-show/articleshow/132902396.cms
 
 - How gen Z exposed India’s prime-time propaganda machine - The Guardian
   How gen Z exposed India’
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
 
-- India’s Top Cinema Chain Plans $2-Ticket Halls for Small Towns - Bloomberg.com
-  India’s Top Cinema Chain Plans
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3VKR2FYcnpsQThOcW1fOGp2ZElPN3pSSnNoVkhvbTV6UUlnMDRNUnowZ0xwaGk5ZVlHYWZWSTNYY0hJOXVneEQtbVlFMUUtNjFJQU45dzNNd1JfQ0tWUGlLamVOVlJGb21iTjQtYTBtbUVwX2RFUGdLVWJfWDJTTmF1LWJLVWpoM1poMk1hV2FOZWxUYmhubHZZSl9pLXlwTVNialljalZNR1d1MklHd2Nn?oc=5
+- 'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused - BBC
+  'I was slut-shamed' -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUE9IaVFOc1gxeE81bTNUV0tBc29jZXV5TXhnc3N0YkU0MVZYbk1idlJ0T0ZfeWxyT1VpdjNjWjNNSUdqekZGcTZ0enBOS0hHNkM0a3VCTnpTZw?oc=5
 
-- Indian-Flagged Vessel Attacked Near Yemeni Waters, All 14 Seafarers Rescued Safely - News On AIR
-  Indian-Flagged Vessel Attacked Near Yemeni Waters,
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGF6ckRZU1g0OUpTU2VPMTNyTUlCcjVHdEpVT2oxcFdINzBYUzNGN0VtMDVKUGxPT0NHT2tsbjhMQzk4ZjJqS2ItS3lpUDRrQlBVM0JkZ2p1YWI2blc3NUlpUm4wZ1FjM1FvVlNNZVU1WVBGanZJLXdMeVBacGc4ckFRYi1HM2N2eklEbFZFSEtyempwRmI5czVNempENXVKZjhreldXR05fT0k?oc=5
+- Listening to youth is ‘most powerful force’ to prevent protest violence: Supreme Court | India News - Hindustan Times
+  Listening to youth is ‘most powerful force’ to prevent violence
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMlIxb1B2NmpVaENwR2dDODdqTEJBVXpIVTF5WmZuS3IxV25vWU9MS2s4UUFHLU1aQllhT210TWJfR042Wjlaa2pXUG9VeVRGWE1IX0RvUzdleUJmREhaaUxyRF9wMjdGZ2dmdXJFTkRoRlJNcDM2d1pUM1ZtR21CTVdULVpHOC1fUVhweXlvZFk0V1p1SndtTUtvaFduOVMzb0hMOWhpWk1QREp1U0J0RTg4UUZOUEJ3WUpCdWlYMVdDUHlybTFoRElUSkdoQm44RklQSzE1UTlmOGU0V2RCRVZpbzQ5V0xDS2tTd3U5dmp4ZFMtN1RwV0NhSHZJbHhzZ3VTVDFSS3fSAY4CQVVfeXFMTUdITHZXMDQwYkNTTzFEMTRkVl9XSVBZTXRkTXE0NFllbTU4WW53UDJLdlJubGFENV92Z3pEMDFZdkNnVGJ4blhPRGVvdmxRaW9Pc1ZkcVRaN3o4Tld3QlI2LUFOeXBDUDNBUWZMYlp4bVJ0bHpwSTJ1T3BtTlJJajN0eE13azFIVDJSdm1Ob3pNbUF5dkNQbGk5dFJoay12UnhqbzZJTEFZNkJjdEFqWlRreXV4QUthU25OWGhYVmRoNUNBb3ZITWhnbHhhOWtLSVBjbU1XUld3UHBaTzh1Qi05X0l2U1BJUS1Rcnl1czRuNnZhN2R6dlUwdFhBeDBLeGVMUDdaSzF2NFp0RWZ3?oc=5
 
-- "If You're Man Enough...": BJP's Khushbu Sundar Slams Udhayanidhi Stalin's 'Trisha' Remark - NDTV
-  "If You're Man Enough...": BJP's
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNWhZeWhlc3Z5NXdJNGxmTHl5Rl9Ed2NiMU5pZWpzbGxkbUVHWmp4MTJoZlZwVFhUZ2VCMXNwd1JScFlXTGw3WDRCVlBPcXQ2cUthSmhXanNaYUNDaEo4WGU4VzVJTzRBNkpXZ2VFeXRHdHB1S2pMNEs0WGl4RkxVZEFxUkhUZlVCY3Y4MlA0Y3gtcWk5bENJNHUwQlBsbDhOVURXdG1Pdnl6NEZiQThNbFJ6QVpWcFVEUVc4SlJhazdoaWxuRmhiVVVUd2h4Zk4ycWlPYnVfcTdoUGd3TnRmUVhCUlBZVWg4YTI00gHzAUFVX3lxTE5GYnpvazQ0dVNsN0RZdFVFOWV6NjY0WFNZTlB2eUYyWG9OSXRXYXpaSmdieGxmZkdjUUhLcmJoSzI5NzJNb3pyVmZXZFVFOXBZYUFIWWtVMXhhVWowQ2w1YW5FcU1NbDBtRjhnVWpBb0d0UjBsVmZHQ3JicG52VmdXRVhoeVp5NXl1ai12R1laOGxhdVdhS1p4TENTMlg3cXhqN1plX3ZON212MkpFVFpwa0xBaG9JSGQ4cDRrZkFIVkdteGx1a01GclpzYldPS1c5ZlJQMTBnd2FrUjh5UkJ0MWdvcC1fdEhiUmxKSFNvNWZZVQ?oc=5
+- India denies involvement in ex-Bangladesh PM Hasina’s planned speech - aljazeera.com
+  India denies involvement in ex-Bang
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFBtQk5CcWJZSUc0SGhhU2FQbC0xbjFUTDI5c08wQnlyRTg3blczVWt6UzRzU1hTdFY4N2VKUC1fNE5CN0pwdHo5emRXT1UxRmVqbzA5RU9peUhOcGxWTHpJZUktdnhQbVJ6U2ZlTmJXZVV1QWZFcnV5NU1DMmtkQWN1d3lnTzc5WnRBbjNQSU13UVlaQzByMFo4ekhiUUhzc1M2UkF6aWdSOU3SAbABQVVfeXFMTVJZRENaQUo3SUh0ZV9LZEg3QTRwRnVhTUI4aHNYNHRGMFNRLXdPTlVZNTVxWTc4cGlYelJpTXNieGV3S2lyOXRXeWZoYmJsSFZSd0NrVEVQczI3b2x5Y0JYWTRrdkE5LXQtc0c0Smc4WUh3RXJpQzA3T0pxYzJjU0JJX2ZsX0N5YkFRUHZYSkR1WHV5NUhIaFNBclY1czJjSjA4OG5DMzgzSGZCOXVuNVY?oc=5
 
-- Why India's youth anger has become Modi's biggest challenge - BBC
-  Why India's youth anger has become
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hRDR1Rzh0UFJGZjdfRG90ZjdkZE1wczFoRkxoaVZLQm9mWVByNzJCdTJmQVBCOEJEczBXQjB0d1FGVEhKSnFhZGtwbDJCdHdZYThvalBwU1FNZw?oc=5
+- How India-Bangladesh Ties Evolved Two Years After Sheikh Hasina's Ouster - NDTV
+  How India-Bangladesh Ties
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzRJc3l2bW1pelFRSkNlRzNXSXVOWks2bkkyN2xCQ2ZRazlwU3FMdWNudTNXbjhhVjBhMk1Uc0ZhcGlTdl9pazVXN2kwaTRsSXdVMi03em1veUoxdUxNRDc2UjVaazZ4SERNeE5LVHkzMXNoblZzT19LeV92M19LMktyVDFhcjJ1c0NTOVNNQ1VZUXdOeGdWYUFqT1ZCT1Fydm42aVdXMHBUWkh0bkFiekNn0gG6AUFVX3lxTE1CdDlHM2tnbXowVE5RSzhnVWJGa0lEcVdDUTRkSFNTenFJdDVBZkxEQ2c1UGI3bkJNTngzQ0hWLWNQMUNNcjB3S1NZcW9UZGFrUWhNdGdSYVZna2s3bHJvSHhkcE91Sjk3amxnR1czWEFKcE5xRjlENnJkNEVHWG5IZGFBNHd4ZjVLMWM2eS1lOFQxYllvdkwyY1ptSHNjSFZqb1c3Y0ZBaWE3bkdDc2VWZEdHWDM2cDVhQQ?oc=5
+
+- Meta And WhatsApp’s Moderation Machines Have A Transparency Problem
+  WhatsApp today is more than just a messaging app. For millions of users, it serves as the primary channel for communication.
+  🔗 https://inc42.com/features/meta-whatsapp-bans-users-moderation-machine-has-a-transparency-problem/
+
+- InRisk Labs Raises $27 Mn To Scale AI-Led Reinsurance Platform EarthRe
+  City-based insurtech startup InRisk Labs has raised $27 Mn in a Series A funding round.
+  🔗 https://inc42.com/buzz/inrisk-labs-raises-27-mn-to-scale-ai-led-reinsurance-platform-earthre/
+
+- The Devil In The Agent
+  Imagine an AI agent at an Indian bank tasked with reconciling a failed transaction. In trying to complete the job, the AI agent gets into trouble.
+  🔗 https://inc42.com/features/the-devil-in-the-agent/
+
+- Freshworks Turns Profitable In Q2, Revenue Up 16% YoY To $237.4 Mn
+  Freshworks turns Profitable In Q2, Revenue Up 16% YoY To $237.4 Mn. Nasdaq-listed SaaS major Freshworks reported a net profit of $3
+  🔗 https://inc42.com/buzz/freshworks-turns-profitable-in-q2-revenue-up-16-yoy-to-237-4-mn/
+
+- Nykaa’s Q1 Snapshot, Klassroom Wraps Up IPO & More
+  Nykaa fired on all cylinders in Q1. The quarter saw the beauty ecommerce giant clock a three-fold&#8230;.
+  🔗 https://inc42.com/buzz/nykaas-q1-snapshot-klassroom-wraps-up-ipo-more/
 
 - How gen Z exposed India’s prime-time propaganda machine - The Guardian
   How gen Z exposed India’
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
 
-- India’s Top Cinema Chain Plans $2-Ticket Halls for Small Towns - Bloomberg.com
-  India’s Top Cinema Chain Plans
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3VKR2FYcnpsQThOcW1fOGp2ZElPN3pSSnNoVkhvbTV6UUlnMDRNUnowZ0xwaGk5ZVlHYWZWSTNYY0hJOXVneEQtbVlFMUUtNjFJQU45dzNNd1JfQ0tWUGlLamVOVlJGb21iTjQtYTBtbUVwX2RFUGdLVWJfWDJTTmF1LWJLVWpoM1poMk1hV2FOZWxUYmhubHZZSl9pLXlwTVNialljalZNR1d1MklHd2Nn?oc=5
+- 'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused - BBC
+  'I was slut-shamed' -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUE9IaVFOc1gxeE81bTNUV0tBc29jZXV5TXhnc3N0YkU0MVZYbk1idlJ0T0ZfeWxyT1VpdjNjWjNNSUdqekZGcTZ0enBOS0hHNkM0a3VCTnpTZw?oc=5
 
-- Indian-Flagged Vessel Attacked Near Yemeni Waters, All 14 Seafarers Rescued Safely - News On AIR
-  Indian-Flagged Vessel Attacked Near Yemeni Waters,
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGF6ckRZU1g0OUpTU2VPMTNyTUlCcjVHdEpVT2oxcFdINzBYUzNGN0VtMDVKUGxPT0NHT2tsbjhMQzk4ZjJqS2ItS3lpUDRrQlBVM0JkZ2p1YWI2blc3NUlpUm4wZ1FjM1FvVlNNZVU1WVBGanZJLXdMeVBacGc4ckFRYi1HM2N2eklEbFZFSEtyempwRmI5czVNempENXVKZjhreldXR05fT0k?oc=5
+- Listening to youth is ‘most powerful force’ to prevent protest violence: Supreme Court | India News - Hindustan Times
+  Listening to youth is ‘most powerful force’ to prevent violence
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMlIxb1B2NmpVaENwR2dDODdqTEJBVXpIVTF5WmZuS3IxV25vWU9MS2s4UUFHLU1aQllhT210TWJfR042Wjlaa2pXUG9VeVRGWE1IX0RvUzdleUJmREhaaUxyRF9wMjdGZ2dmdXJFTkRoRlJNcDM2d1pUM1ZtR21CTVdULVpHOC1fUVhweXlvZFk0V1p1SndtTUtvaFduOVMzb0hMOWhpWk1QREp1U0J0RTg4UUZOUEJ3WUpCdWlYMVdDUHlybTFoRElUSkdoQm44RklQSzE1UTlmOGU0V2RCRVZpbzQ5V0xDS2tTd3U5dmp4ZFMtN1RwV0NhSHZJbHhzZ3VTVDFSS3fSAY4CQVVfeXFMTUdITHZXMDQwYkNTTzFEMTRkVl9XSVBZTXRkTXE0NFllbTU4WW53UDJLdlJubGFENV92Z3pEMDFZdkNnVGJ4blhPRGVvdmxRaW9Pc1ZkcVRaN3o4Tld3QlI2LUFOeXBDUDNBUWZMYlp4bVJ0bHpwSTJ1T3BtTlJJajN0eE13azFIVDJSdm1Ob3pNbUF5dkNQbGk5dFJoay12UnhqbzZJTEFZNkJjdEFqWlRreXV4QUthU25OWGhYVmRoNUNBb3ZITWhnbHhhOWtLSVBjbU1XUld3UHBaTzh1Qi05X0l2U1BJUS1Rcnl1czRuNnZhN2R6dlUwdFhBeDBLeGVMUDdaSzF2NFp0RWZ3?oc=5
 
-- "If You're Man Enough...": BJP's Khushbu Sundar Slams Udhayanidhi Stalin's 'Trisha' Remark - NDTV
-  "If You're Man Enough...": BJP's
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNWhZeWhlc3Z5NXdJNGxmTHl5Rl9Ed2NiMU5pZWpzbGxkbUVHWmp4MTJoZlZwVFhUZ2VCMXNwd1JScFlXTGw3WDRCVlBPcXQ2cUthSmhXanNaYUNDaEo4WGU4VzVJTzRBNkpXZ2VFeXRHdHB1S2pMNEs0WGl4RkxVZEFxUkhUZlVCY3Y4MlA0Y3gtcWk5bENJNHUwQlBsbDhOVURXdG1Pdnl6NEZiQThNbFJ6QVpWcFVEUVc4SlJhazdoaWxuRmhiVVVUd2h4Zk4ycWlPYnVfcTdoUGd3TnRmUVhCUlBZVWg4YTI00gHzAUFVX3lxTE5GYnpvazQ0dVNsN0RZdFVFOWV6NjY0WFNZTlB2eUYyWG9OSXRXYXpaSmdieGxmZkdjUUhLcmJoSzI5NzJNb3pyVmZXZFVFOXBZYUFIWWtVMXhhVWowQ2w1YW5FcU1NbDBtRjhnVWpBb0d0UjBsVmZHQ3JicG52VmdXRVhoeVp5NXl1ai12R1laOGxhdVdhS1p4TENTMlg3cXhqN1plX3ZON212MkpFVFpwa0xBaG9JSGQ4cDRrZkFIVkdteGx1a01GclpzYldPS1c5ZlJQMTBnd2FrUjh5UkJ0MWdvcC1fdEhiUmxKSFNvNWZZVQ?oc=5
+- India denies involvement in ex-Bangladesh PM Hasina’s planned speech - aljazeera.com
+  India denies involvement in ex-Bang
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFBtQk5CcWJZSUc0SGhhU2FQbC0xbjFUTDI5c08wQnlyRTg3blczVWt6UzRzU1hTdFY4N2VKUC1fNE5CN0pwdHo5emRXT1UxRmVqbzA5RU9peUhOcGxWTHpJZUktdnhQbVJ6U2ZlTmJXZVV1QWZFcnV5NU1DMmtkQWN1d3lnTzc5WnRBbjNQSU13UVlaQzByMFo4ekhiUUhzc1M2UkF6aWdSOU3SAbABQVVfeXFMTVJZRENaQUo3SUh0ZV9LZEg3QTRwRnVhTUI4aHNYNHRGMFNRLXdPTlVZNTVxWTc4cGlYelJpTXNieGV3S2lyOXRXeWZoYmJsSFZSd0NrVEVQczI3b2x5Y0JYWTRrdkE5LXQtc0c0Smc4WUh3RXJpQzA3T0pxYzJjU0JJX2ZsX0N5YkFRUHZYSkR1WHV5NUhIaFNBclY1czJjSjA4OG5DMzgzSGZCOXVuNVY?oc=5
+
+- How India-Bangladesh Ties Evolved Two Years After Sheikh Hasina's Ouster - NDTV
+  How India-Bangladesh Ties
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzRJc3l2bW1pelFRSkNlRzNXSXVOWks2bkkyN2xCQ2ZRazlwU3FMdWNudTNXbjhhVjBhMk1Uc0ZhcGlTdl9pazVXN2kwaTRsSXdVMi03em1veUoxdUxNRDc2UjVaazZ4SERNeE5LVHkzMXNoblZzT19LeV92M19LMktyVDFhcjJ1c0NTOVNNQ1VZUXdOeGdWYUFqT1ZCT1Fydm42aVdXMHBUWkh0bkFiekNn0gG6AUFVX3lxTE1CdDlHM2tnbXowVE5RSzhnVWJGa0lEcVdDUTRkSFNTenFJdDVBZkxEQ2c1UGI3bkJNTngzQ0hWLWNQMUNNcjB3S1NZcW9UZGFrUWhNdGdSYVZna2s3bHJvSHhkcE91Sjk3amxnR1czWEFKcE5xRjlENnJkNEVHWG5IZGFBNHd4ZjVLMWM2eS1lOFQxYllvdkwyY1ptSHNjSFZqb1c3Y0ZBaWE3bkdDc2VWZEdHWDM2cDVhQQ?oc=5
+
+- How gen Z exposed India’s prime-time propaganda machine - The Guardian
+  How gen Z exposed India’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0FMME96eTUxVHFpbE03ekNwd1l1dFF0R0NNcEZVNDdSLVJzMjBobUloV1ZDaXFVYmtuNXV1MndhMTFzb05ORzY5XzRPS3c3Z3VXS1Q4ckp4alRaS0RUN2tnd3Y4V1lTSllzM3Z5Xzg5UU9IaHEwVmFCMEpTZ2V0QVlPTjlxaDd4aTRvbDF4X00wc01FbjJ5R2duczZzZ2VaMzFMTw?oc=5
+
+- 'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused - BBC
+  'I was slut-shamed' -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RUE9IaVFOc1gxeE81bTNUV0tBc29jZXV5TXhnc3N0YkU0MVZYbk1idlJ0T0ZfeWxyT1VpdjNjWjNNSUdqekZGcTZ0enBOS0hHNkM0a3VCTnpTZw?oc=5
+
+- Listening to youth is ‘most powerful force’ to prevent protest violence: Supreme Court | India News - Hindustan Times
+  Listening to youth is ‘most powerful force’ to prevent violence
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMlIxb1B2NmpVaENwR2dDODdqTEJBVXpIVTF5WmZuS3IxV25vWU9MS2s4UUFHLU1aQllhT210TWJfR042Wjlaa2pXUG9VeVRGWE1IX0RvUzdleUJmREhaaUxyRF9wMjdGZ2dmdXJFTkRoRlJNcDM2d1pUM1ZtR21CTVdULVpHOC1fUVhweXlvZFk0V1p1SndtTUtvaFduOVMzb0hMOWhpWk1QREp1U0J0RTg4UUZOUEJ3WUpCdWlYMVdDUHlybTFoRElUSkdoQm44RklQSzE1UTlmOGU0V2RCRVZpbzQ5V0xDS2tTd3U5dmp4ZFMtN1RwV0NhSHZJbHhzZ3VTVDFSS3fSAY4CQVVfeXFMTUdITHZXMDQwYkNTTzFEMTRkVl9XSVBZTXRkTXE0NFllbTU4WW53UDJLdlJubGFENV92Z3pEMDFZdkNnVGJ4blhPRGVvdmxRaW9Pc1ZkcVRaN3o4Tld3QlI2LUFOeXBDUDNBUWZMYlp4bVJ0bHpwSTJ1T3BtTlJJajN0eE13azFIVDJSdm1Ob3pNbUF5dkNQbGk5dFJoay12UnhqbzZJTEFZNkJjdEFqWlRreXV4QUthU25OWGhYVmRoNUNBb3ZITWhnbHhhOWtLSVBjbU1XUld3UHBaTzh1Qi05X0l2U1BJUS1Rcnl1czRuNnZhN2R6dlUwdFhBeDBLeGVMUDdaSzF2NFp0RWZ3?oc=5
+
+- India denies involvement in ex-Bangladesh PM Hasina’s planned speech - aljazeera.com
+  India denies involvement in ex-Bang
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFBtQk5CcWJZSUc0SGhhU2FQbC0xbjFUTDI5c08wQnlyRTg3blczVWt6UzRzU1hTdFY4N2VKUC1fNE5CN0pwdHo5emRXT1UxRmVqbzA5RU9peUhOcGxWTHpJZUktdnhQbVJ6U2ZlTmJXZVV1QWZFcnV5NU1DMmtkQWN1d3lnTzc5WnRBbjNQSU13UVlaQzByMFo4ekhiUUhzc1M2UkF6aWdSOU3SAbABQVVfeXFMTVJZRENaQUo3SUh0ZV9LZEg3QTRwRnVhTUI4aHNYNHRGMFNRLXdPTlVZNTVxWTc4cGlYelJpTXNieGV3S2lyOXRXeWZoYmJsSFZSd0NrVEVQczI3b2x5Y0JYWTRrdkE5LXQtc0c0Smc4WUh3RXJpQzA3T0pxYzJjU0JJX2ZsX0N5YkFRUHZYSkR1WHV5NUhIaFNBclY1czJjSjA4OG5DMzgzSGZCOXVuNVY?oc=5
+
+- How India-Bangladesh Ties Evolved Two Years After Sheikh Hasina's Ouster - NDTV
+  How India-Bangladesh Ties
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzRJc3l2bW1pelFRSkNlRzNXSXVOWks2bkkyN2xCQ2ZRazlwU3FMdWNudTNXbjhhVjBhMk1Uc0ZhcGlTdl9pazVXN2kwaTRsSXdVMi03em1veUoxdUxNRDc2UjVaazZ4SERNeE5LVHkzMXNoblZzT19LeV92M19LMktyVDFhcjJ1c0NTOVNNQ1VZUXdOeGdWYUFqT1ZCT1Fydm42aVdXMHBUWkh0bkFiekNn0gG6AUFVX3lxTE1CdDlHM2tnbXowVE5RSzhnVWJGa0lEcVdDUTRkSFNTenFJdDVBZkxEQ2c1UGI3bkJNTngzQ0hWLWNQMUNNcjB3S1NZcW9UZGFrUWhNdGdSYVZna2s3bHJvSHhkcE91Sjk3amxnR1czWEFKcE5xRjlENnJkNEVHWG5IZGFBNHd4ZjVLMWM2eS1lOFQxYllvdkwyY1ptSHNjSFZqb1c3Y0ZBaWE3bkdDc2VWZEdHWDM2cDVhQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -220,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - Al Jazeera
-  Al Jazeera reports that Palantir
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01GRVZqRVFBMEtzTmpMczVIZVh4clg4MmpGekJzczVjQi1qUUVfOG4wZXlXY0d4aUFZRlNGUC14Y0V3ZVpRMnpDRkNtUnoyelFWOU9yOG9YVWotUEY2azFlTDJDZmkwUXlsMHFqSUxINGFJSlhiS0t0WVpvSDk0dVdiMThycnVPbWwzMlkycmJoeDVMTlFvdGZ0aS1FamRERTVsLWhaVHVreHFGX2k1QnVpUdIBuAFBVV95cUxNVzl5dHI4Q3UzaXZtTFN6UWdVcjVZeTEyMDJwMnJKZFlqbUVaMlJfSF9GclZfRUh4elFFUExNZDdxc1B5NkRRaV9KcGV4QzZ0TWlNM2dWMGY5VmxSUllzTElZRE96dnFKeTJMNXNfX19Kc054SEFlWUxuM2d3SklRRlBYNFhkZVlCWFdzODFmUXZrQUUyUW9lUmNLY0ZFRFA3enNJdVhGUEltcXNZQ2QxU3p0OXotOERH?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Labour Minister Vivek says Advanced Technology Centres will boost employability among youngsters - The Hindu
-  Labour Minister Vivek says Advanced Technology Centres will boost
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOHg4SGV0T0hEMTdlRTIwcm9LdG10N0tsTEpXbWlHWHlseFN0ZlphZlBieW1Ra3dFX0dmNW5NVmJrMVlQdU9MTENrRHI4YUJjOWlPTVAyTXpQRHRWd2Ezc1N5dk9hSmhNd1pDM2Z5SkFjOVR6d2NaR1NfVU9uejJxVHBFOW1WZ3FGSTc5WUFsZV9yb1RlY1hTVHpveHIzUVRqQ05iaVUwZ1dWRDBONWZ1d2VjdGFYSnlrSnM4enlqZG1MYjJmMzhHcy1OZ3BfakNZN0lYdkkzaU5zcWkxNmk5eThiVXZ5dzE2Wnc1em5iaEItS2xCd1Vrb9IB_wFBVV95cUxNQ1c4U3ZpT2RqTFZCZDFOZGR2TjlaeHFhR1ExMWctOTNZRkpYNUo5YTF1bFFOck8zWHEyeTM5VVZaUTlRNzVxaXNnZUJ3amU3Z2hud3VLUlo4U0xNOGdlX2p4MDJvVzNKa2pISzM1a2pDMjdLUFkydHRyVzgtdE5RSE1DTm1fTlk4SmZKWFZuU1VqV0ljWFZEZXVUUkZkLUR3S1o2VUJzeDVfOFpsYm52VDVCMjQ0Y2NnS3JZTU0yWExfSmF1LUxucnU0dlNvSkRGODJMbEVGbkh1VV9XUFdySlRYMUx6YVJFYWh2RW04MVVxUlpuQk5XNGFJXy1uZ2c?oc=5
-
-- How New Vehicles Will Get Crash Warnings With V2V Technology From 2028 - NDTV
-  How New Vehicles Will Get Crash Warnings With V
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHFVSHYtajFmVmxzVWl5OEpFRmRYcE03WDFiSDBCVVA3RmxwcmdhVV9NMkhYZnFYUkRkaE5USVc1d216SlhWZU1aVzBtLXJhT05kWXhyVTFJYm9mUFlQaDBGOFh5UnhRazlzZWIwZERFeWU3Q0p2SnlrZ3FlQnVfWkpWUUttTkpWb0NCaFlEb1Zya21HbFBUT2IxcC0zQ2UxanpaeUJtMUpXMmRoYnIzZtIBuAFBVV95cUxPX0VDdDZRWjlOSExVckNsVDVxdWxhVWp5bFBXTmJ3S0hLUXNIaUNxWGJCaUNYWFVEb29HZnVjWFZaR1pZemthTGJ5TUJJNXZORGVhajE2N3ZiVERnUkd2SFh4bnNweHhmUEFfeHAtRUdnTW9SNlpVSnY5RmJjNjhTZDQ3Q1FRdWZzVWpMY25IdTBNamZnNnNzSk9yYmtPTml4YThTX1JqS0hTWUZJZUlRZkN0WEhqZ2I0?oc=5
-
-- India developed intelligence-led and technology-driven model to combat fugitive criminals: MHA - News On AIR
-  India developed intelligence-led and technology-driven model to
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDhnbVpiOWg2VkNNWXU3TUhTckg5VWJQSVltMmVNT19mTlNpcmJXQnUxeDhzTWUtQ0w4d2c1TjNuM2VIZlE0eU1YNVdISjV4ZVVUdjItN1lBenVWWFdUekstbHQxMmM2NlBJLS1rZE9ocTVkNTQ3VGY4MnUwdWhhWDEyRjZYdjNvVDlfRzNtd2c4RVFDVVI4MWtpalJUVXBSVjkxMWd6eEFoQ00xcWs0?oc=5
-
-- Can you tell if someone is filming you with Meta glasses? – video - The Guardian
-  Can you tell if someone is filming you with Meta glasses?
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNdk1Zb2I5ajNBSVVhRVpvZEk3MFFvVkQwZmcweEVMSzlLQ3NyNWZNUHZKVHltMDRHSVBjMm9YSU1SN2ZZbW1jVlIyOThXUUhHdEd3S1BleXd1TF84bXdaZW8xMzJvN3hZcDFmdmlFXzJmdzlfSnRmdldmS3Q3ZmlJVXVwa05LbXZfd2xkRFdVVDlpRDFfTWsyZHFaU1JDd3hYbk9wSVQ5bmg2MEhTSmVQcnBJeUE?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-05 02:02:18 UTC_
+_Last updated: 2026-08-05 08:30:31 UTC_
