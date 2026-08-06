@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape - BBC
-  Indian journalist Tarun Tejpal sentenced to 10
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NDVIWmdyLWRmQVNxZHFBQTdvMDdtSjdmV3ZwZXdMSGIxcmN5U2N1OHFCYTIzOXgyVlNQV09SLVc1c0ROWFVtczRmTkZNRTMtSVM1bGhNNEhBdw?oc=5
+- Supreme Court on walking: India is a nation of walkers - but its cities forgot them - BBC
+  India is a nation of walkers - but its cities forgot them.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUU1ITGNVUmtzbTBwVHVnS0JqajN1aUYwbXBnRGFyN3c0SF9XNTFLNTFiTHJpU09rblJUQnFjWUJ2MVQ3WE9WRGlrT3JXRWZBMlotTk84emdyQQ?oc=5
 
-- "Indians Will Suffer": Shashi Tharoor Slams Centre On Foreign Funding Law - NDTV
-  "Indians Will Suffer": Shashi
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQYkpIdGktdnpzaDJVc2EwYWxkWml6QnBOV3lNcTZvdG44enh1X0lKY1hWQi14cy1wU3MyRmVRalBzNFJRQ3ZSX0hkV2VQRzNYZ2FzUl9zWm54VVlMVmNVZExzQkN4NU5XSnBieW85V3lUNVJTb1dDSlp1UW03ZlJ4UDd6RE5fa05BemgzTTB2SkQyS2lTTUFlRzNWeTBFNERYMWN4TXEtRGFtdVI1T0pDejVjQTZzRVlUVTE5bkFZbE5zdkpSNDZxOU10a9IB0wFBVV95cUxNVVF1ZWNiU2xYRXc1T2dUajJyMHZUNHhvdzIzZXduM3lhMVY3Zkg5YkV0b2ZoZTRqOTV1WDJ0azNkWEx6R2swSGNSNnQtcUNodEhscnFTRV90Y01SYlRpWGVyYllrbWdvY1ZSWTlFbVFLX3NEUkFrRGdnWDZIdzVJc1pJQzcza3VEaFpVLTBvcnJ4YWZWbF9tUGxwM2NDOUVTdTRYVUtWY2VPdF9MNVFWMUFYRVBCTzQ1VVE5NzhGRXRoczN2UkEtUnZieDRObWJtYkdJ?oc=5
+- Netanyahu Dials PM Modi, Discusses Middle East Situation, India-Israel Ties - NDTV
+  Netanyahu Dials PM Modi, Discuss
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEQtV1Y0aXNjaGRaWjRkSllhQy1ZdnNtMWtodXVsbHhkMDFXUjE3YmM4R200dVdKeThDc3hhdktUTXFDTEZ3cFVwTXY4UXRPN0FrV3RDSU5MYlV0MHNiT2IyTXhxQnc1SEVHbVpUZWp4SjBLU0l3OWRXMFpVb01LcWdMOW9lN0htNmVZTVNpNGphWFpxckVkMndabk9LU3V4a1JBU2FxVzRIdHNScDFvVThrMXhrRUpreVZ5Zi13dEYyeGNURVl2ckxTZDZGUEkySnfSAdoBQVVfeXFMTXJaYmFTbmxMdXdYbldvQkxiLXVCNWp4VWp3VnpUU1JnalpZd1V6VzlleXJQWGxxXzVmeFd0X29xckp6ai1UYVZXZ245bjRJSGY0eWE4VXlqV09CeS1VNDB1aVZ6QTZLSnJ6Wmc1elA1WWFuMVA2TXR1SmVEaUZPcUtjU3ZmcG11eGl2YmhUNXVHSFpoTXdleldNNjVVV0VXQVowMmhSUnFLTmJMZ3VMdElWcGpFRDNianRMUDhrdXY5d1A0QWRXS2RuX1pzOWNVbDFsUEZJLVNIX1E?oc=5
 
-- India Responds After Pakistan Deploys Chinese SH-15 Howitzers Along Border - The Times of India
-  India Responds After Pakistan Deploys Chinese SH-15
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbFBtNFFxMXBnQ0trUEkwNURMbjRtenNEMEZudDRNWlRVbzhXUTBuSWl4d1I3MHVJc1VKRHpVTmlKTXd6bWRxZ0M2bUJKamo5NzJaWDd5ZW5SblhPRWVScWxlaE90ZGpiUjBabS1tQlhFV0x0QTR0UGNORHNPZFlqRkx5VzljREdNUnpTcXc3cXR3RHZUTU1kTnJEcWpzZ2ZGdVF3aFVGWE9adEt5Ynh3dlhjSTk5R3NKY2ZldC1DOGRLYXlweWRTTkFXVl81N01YalhOeFYxcmgyMTdzZ25N0gHkAUFVX3lxTE55NkxTcUFHTE9RcTZhRjktT0Y0LU9YbGVRc2hkTkNkY2xxWTJ2Yll1eXpCOUxPaUFjOGQ2Z3hvQ19WOHNjMDU1OHJMSEQxNk9oVlJYYWFhUnlrQkxGUjg0MDhxSk5fNkRhazhWM08zRFJQVjRVNmpvaGNtcmVjeV92aXVPNDFGR0RQTl9pZmlxSW1SdmhyeHFvckFaSk96c2hxb201VXZKeVB6cml6dzBmZGFvSGVJOTU2ZnlKRTBhSWR4M0JxUmtieXJGYzhLcUprNHlscE41MHBiV0NYUy1zRklFRg?oc=5
+- Netanyahu calls PM Modi, discusses bilateral ties, West Asia situation - The Times of India
+  Netanyahu calls PM Modi, discusses bilateral ties, West
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHA4akx1OHdCemVJa08zUHQwaDNJV2NvZ1lkVXRTdC03LUFDMFQ5UkMwUkc5Ykgwcm16dmp6WE9vaWIxSzVtRnNxT0FxaTEwZ3d5X2M1Vk82V21jRml3MmZsZGhaUmo3NXBGUGRPOFBPV3RQWGF5OEFMUjR6N3g2SFl6QldFMEJXbWJEY2g0VVJiNWFfRHJWNjJ0X1NUX3YtYjJiREh6ZkpWMTBjUmg1aFNVQ3hjSmFMUk9DZjJBWVRNQjFPcFR6eDBYaUlzd9IB0wFBVV95cUxOWkZ0NC15UjI0RWx3SDg3NkVuZzhadmsybkt6eUtPazhjbUt6SmdnSXViWVNfSWhoUWxmcjNHSElMVEZUWHUyUFBaOEtXeWx5ZkFRdno3X1ZfaEhPTmJNbVdLbDN6Zi1XNVQycDVobGl2VVVRWmlSeE9CT09aczBaLU04NWluT25Va0N0OGhkbC02UU9PSVkzdGdwbk5PMm1sb28xa3V5M2gzZGlRQjBaQUdsZzlsVmlKSGVnd3k1Vk9qUFdHX0NKRW95TzhxN19NQkZ3?oc=5
 
-- Cabinet approves GOBARdhan scheme marking defining moment in India’s clean energy journey - News On AIR
-  Cabinet approves GOBARdhan scheme marking defining
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQenlrT0FFZnF6TjFVaEt3T2JycjhKWkw5RXVvcXZfSm04aExkX1h1dERaSWdhVGNoSV9tRG1SMnRqLXNhNEFEczlyMHowSnZxZ1VENjVPdUR2cjNyWTNWR1V4bVpJT21yQ2g2N1BxVmFpUmRSa3R6eVE0TC1ISEtocHdYblZaR1g5dnVFNWw1Umh6R1JFQzctVkpIT0NJZkVIbjhJaUc3VS04V3JtVXAtRnZGV2M?oc=5
+- PM Modi and Netanyahu review India-Israel Special Strategic Partnership - News On AIR
+  PM Modi and Netanyahu review India-Israel Special
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPM3NJY09YRzVCZkFTQ24xYXpDa2lXakFpWUMwZzQ3bWdPOEpsLVJqd0U3WlVsRmxWZFVWRTB0OWFhTXY3VFBFeGx1ZXNWaXNXa2E4bFVKaXFuRHJ3d3B0NWJrV1hnNjZmMVdmQTdvZFdKQWhDX2ZrUTFfZzRpc3g5cEFBU3dSOXI0WjNqeUZlMndwMXJqSGxhcGR2OWtVZw?oc=5
 
-- Hockey Punjab beat Hockey Karnataka 5–2 - Hockey India
-  Hockey Punjab beat Hockey
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMXRlNE9nSmFDQXhVU0c2WW9CQ0JMY3VORTZSeXlYOE1RSS1naE5PZVBucXRsaXhkd0wzeHZvcUs2M0RqOGNNR1VYUndWNEI3V0xFS0lsekJGZWVxdkFaMk5zcFRfT3UtcXYzSWNLbEJVcHU1M3ktY3Uyd1NqSl9LX0xvd1BVSHhNZ2ZGakJXY0lsbWRYWHFDdXUwQ0lueXc0Y0N1MjQxWVFLNWMzUm1WdEZQVk1SNERJSmRUT29pRzVobjJKZERSMTNOUmVQUUFZU1JRb3JDMHZqZVpkMGFvajhvY0VnWG1yOUptNjE4X01raFNvWDFjTw?oc=5
+- Lok Sabha Passes Bill To Allow Charges On UPI, Other Digital Payments - NDTV
+  Lok Sabha Passes Bill To Allow Charges On
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0dGRkQzT2MzWElYVEVXZXF4bWMzMi1WaXBMQ0xfeW9aeVNJb3ZiYW5UMmk5aXdvLXN6N2t2MVVPMVFydVJ5QWd0bXowa2lvQmVBRzhGX0ZTclViRDVya2FvaV9XbWM1bzV1eUNXaHdCQ3RKYUVyQnNYdjRnNEd4bzI1UV9EbVFMYW12ZjUzWnlMV0JManFpX1NzMkN6djlSckdJd0ZoQ1loZGpVZnfSAbYBQVVfeXFMUEs3NGJzS0hTWHh3Q2ZHeGNldzVNdXgwQWFkSXBJRjdTVXNQdTJnUjJ1R2JvU0QxQnZva0p3M1dZb2ZpeXJWWWpXN2lDY3pDY2c0QmxTR3EtLXQzOFhfaW9ENS1YVW9JcDN6Z2I0bUM1ZmRzejJBQnBmSEVaNjk5OFdVX2lPWmhCM1Z0UnJFblM1dV96ekVtYlU4cFdqSlRidUNYRTVJR0pnV3doVHF5NVVxaTVkWkE?oc=5
+
+- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - Al Jazeera
+  Al Jazeera reports that Palantir
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01GRVZqRVFBMEtzTmpMczVIZVh4clg4MmpGekJzczVjQi1qUUVfOG4wZXlXY0d4aUFZRlNGUC14Y0V3ZVpRMnpDRkNtUnoyelFWOU9yOG9YVWotUEY2azFlTDJDZmkwUXlsMHFqSUxINGFJSlhiS0t0WVpvSDk0dVdiMThycnVPbWwzMlkycmJoeDVMTlFvdGZ0aS1FamRERTVsLWhaVHVreHFGX2k1QnVpUdIBuAFBVV95cUxNVzl5dHI4Q3UzaXZtTFN6UWdVcjVZeTEyMDJwMnJKZFlqbUVaMlJfSF9GclZfRUh4elFFUExNZDdxc1B5NkRRaV9KcGV4QzZ0TWlNM2dWMGY5VmxSUllzTElZRE96dnFKeTJMNXNfX19Kc054SEFlWUxuM2d3SklRRlBYNFhkZVlCWFdzODFmUXZrQUUyUW9lUmNLY0ZFRFA3enNJdVhGUEltcXNZQ2QxU3p0OXotOERH?oc=5
 
 - Samsung Electronics launches next-generation AI memory technology - Reuters
   Samsung Electronics launches next-
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5
 
-- Coastal connectivity, digital technology will be next growth phase for Indian ports: Railway Board official - thehindu.com
-  Coastal connectivity, digital technology will be next growth phase for
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNNGxFbWNDeVo0SThZTy1YekRQRHhOc2tyNXhWRmRxNTNVWWdWMlZWbTA0eGhUblZDSkFqVm9QdDlzX3ROa1hncHpMU1pTdzJiYnc2WE1xWnNDVjc1bnV3NW9aejdEdE9ZMEphT0hoR0hDNExDMy11eUdndHhJdW9oMks1LVZhWEZObFdXMlVhTTVEX0UxUnl3ekZjZ1U4YjNERHlrZU5KZjNpdTl2RFBnSDd3bERrczdhazVJNzd2Mk5QTWRVQThuT09jZDQ5cEwydVBza1Vma05OaDBNckxiZGg4OE5kMGVlTEJEaF9lWmlEenJJdVY2NktXQjJVWjVyXzJZTjJCb9IBjgJBVV95cUxNbFExTFRxSW4wcEZJVzlyQmQ5ZjBnUVRIamJ4MlJXbl9DWjdVYkVwZ3BEaEx1QjJmcEZTNXJVQmlWNjlYWWRGTHJ4b2xuR0kteG1aTk9qT09sOUVjNzJOY212Wkw4VFBCXzJlTjNZYjZpdmhfdkJtVS1fb01oczU2ZnlmVUJYNnZJS3BlMkxYWEJnWWhQYXpIbE00czdaTHhrZERrYTZfYlY5VDd0WXhTMkdqX1Z1dldLREQtcGtkck5pTWk2QVJQUkVoRVZVcV9rMTIxLU1Lai1KWl9ySXJzazh3OXpjSUJYRHRLc0tyQV9pQ1VJMFloZ1I5TFRlWEdEbVZwNzA5a0gzdTcwUXc?oc=5
+- Kerala CM launches State’s first ‘Lab on Wheels’ mobile technology laboratory - The Hindu
+  Kerala CM launches State’s first �
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPMDJic1I0U0FibFVCcldpLVIwLV8yTnU3ZW14aXMzaThWbWpiRHJEM0tWQlFKUVFUY29PVG5rMXZUdzlIbk5MMDBUNDFRekJXdUZDQVFuNGl0bWdKdDJfQW53RXlZRnY0czlOV0sxTDdtdjl6cDJiMUhzU0Fma0dvMnhOUzJRRk5YRElWd1VocngzS1k4Q1ZHLXMzU29DbzBoNFpkUDJLX0NSQTJyS2cxUlNKOWl4VG80b2tobjJvS3RQdnNzMWVyS3YtV05od9IB1AFBVV95cUxOTHprMlYtMEJRdXQ5cnJPRldLVmNEd3lDaUd1dkNSTmZjUVJyU0k1LXdnTjhlb2NkSXAtT2FFM3hROHdzUHlBYmFjY1A2VHRtMDFadEQ1TTBjRFlITTFnVmRFLW9VNkFOMkhTU2RaSzVLclRrQmozM2VqN3JqSEV3ZlY3QXhMWXZMaldYNWZ1SzhrQlR0N1UzWUJ2emFtWlNqcl81OHJidUYzSmpRUTFnNWIyNk5kdFBoY2REY3YyOFhRSDRmejFtX2J4X2FqN0RvOHZfcA?oc=5
 
-- Miniaturized laser technology paves the way for fundamental physics experiments in space - Phys.org
-  Miniaturized laser technology paves the way for
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUNuVTljOGhxU1FOWDd1dTJDYm5VYmZ0THZnZjI1ZF9CakpXX0pRdnJiRVBQaVFET2xsay1FRkt1VERSRm9pN0p1OVBmT2xKMzM4TmQ3dVFyTnRSSUNRZ05CVjYtTDc1aEJYb2taYmNmS0g0ai0tcU5CMlVuYm9fRnhNYTVvY0o4NWc?oc=5
+- Iran’s Indigenous Technology Superior to Any Imported System in Region: Defense Minister - تسنیم
+  Iran’s Indigenous Technology Superior to Any Im
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRlFxYk5WWW0tbVNKTTFJLS10U1JydXB3OHJEbDZIYVBvM0hqV0RMbUstejloQ2JybnhDZEwzMU9xbkpCdnJkN3U2R3JfOEJFVFdLWUc1RndtWm5jNkFXTXlfb25NTU5zSThmSDExSzJKa1IwN18yX1NYT2tFeGp3ZGJiejNISlJaX2dDaGhNVGRHMVhXNzAzN09waFRET0JWQ01nYXFveHBIc3U4WGNocHZCMnJERzc4b0N3clNEYUhNMEZIYUU2Wjk1NnB2NzU5Z25xNFgyd9IB3AFBVV95cUxQUllZdENNUDlLakpQaUtsZzVXaHJUaFZtdXRqSkgxb0UxRzYzTXgzb1NYc1hrME1BX3B6ZExtVG5NVm15VGZnRFFFY0NmSHJwZThuSjhfaUNhNS10V2YyYmZ2cWZfSFlRMUNDRzhjMEtvZllRMDZoVFhuVVhNMlgyUG5aZmtsVHJWMFJyVTVqQkdGWnByT3NGOUpZY210N0stZGxfYjVWNTBIU3dzUGJvSy16Ym1sVDBGdjFtTl9Nd2lSWWxKV1lhNHA1aVN4RjZydDZKT081Sm5DNjVE?oc=5
 
-- AI models have been going rogue in tests – how worried should we be? - The Guardian
-  AI models have been going rogue in tests – how worried should we
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM?oc=5
+- Technology Fit For Judicial Use Only If It Improves Fairness & Access : Zambia Supreme Court Judge Abha... - Live Law
+  The Zambia Supreme Court Judge Abha has approved the use of technology in the country
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOWJpa3ExZ01kYzZkUUhsMXlGWXppRmRxWW5tYmxFRzJNWFBJWms1T2ZBeVpLbmdyMmxhckk2UlBSVFc1Q083ME91bGM4Q2w1Mkt1NUdiT2tGcm40aUc5UHNNZ1dMU0tpN3V3VE0tbGZqcmszUUE1cWNVbEVFdXpDUVM5ZVNOT0doREV0b3RnQ2NJV0VEQnlSU3MyZVJKNGdJRXotRnJ1Yi1ZV3Y5OXdNYUpCNzZmTDdnUE9hZDdsck1JLThScXVBLXFlQVlUTURUQVZDV0dQTDRHSU9GektzU0lwQl9Zd0JrYzQ3UVRGc0Vnd9IB9wFBVV95cUxPWldDQll1ZEJLaVFCM0FsTkNzZzNnTklvRUlMMUh2QTNReXpZTWI2MkRtSkxVRloySUEzSkVtU2tPeDJMeE5NSUhPaTdzNHI5SmJNanJOOHEzVnZxQU1WOXFKS0hmMjN4dmxsQllDR3M2b3JrX0FkVUNPcGhmNmg2S3BZeDRVVllPZlFqTmh2NHgwc2F4RGlDeW4zS04zbnZPNFVWZFhvbVNhYU5acDBjMEM1NTd4czYybkZnRGcwdHlvV0ZtSW95UGl1N0VRZlNMOXhPNmNvenRlT1R3alNTWFVLZXlzMkpxbWJ0UlJ3YXhYdWZPRDNV?oc=5
 
-- Call for internship: Support WHO's work on assistive technology - World Health Organization (WHO)
-  Call for internship: Support WHO's work on assist
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHFEMk5wVm9yVXUwVWp6SXl2S1FxZmFDZTVfbllIMDZQdVpEMWY4eDhyZlNDYzNyQ0xKMk9zRnZVcFhuVl93NGE5ZnYxNG9YZ1BTeXFtNE5YMGJlSzloSGJRTEVYRndnbGJLRHc2OUc4cUg0NFJIdjA4MnB5WmRYeDZVYVhZekdaU1RDRVVGVUVsM1V6ODJsMWtmRzNOLUJOeGZ0aWl1eGM1dXBSeFE?oc=5
+- Insurer AIG beats second-quarter profit estimates on robust underwriting
+  Insurer AIG beats
+  🔗 https://www.livemint.com/companies/insurer-aig-beats-second-quarter-profit-estimates-on-robust-underwriting-11786047558753.html
 
-- Luxury cars, watches and fake bank accounts: Inside the  ₹107-crore Panchkula fraud
-  The ED alleges former Kotak Mahindra Bank executive diverted Municipal Corporation of Panchkula funds through
-  🔗 https://www.livemint.com/companies/news/luxury-cars-watches-and-fake-bank-accounts-inside-the-107-crore-panchkula-fraud-11786009203631.html
+- Ishbia’s Mortgage Firm Suffers Record Drop on Dividend Halt
+  Shares in United Wholesale Mortgage fell by as much as 49% Thursday. The country's biggest mortgage lender announced a net loss of $452 million.
+  🔗 https://www.livemint.com/companies/ishbias-mortgage-firm-suffers-record-drop-on-dividend-halt-11786041076804.html
 
-- Milky Mist's paneer heft to help it take on cooperative giants
-   Milky Mist's upcoming stock market debut underscores how private dairy firms are carving out space in a market dominated by cooperative giants. Rather than traditional pouch milk, the dairy firm is betting on value-added
-  🔗 https://www.livemint.com/companies/milky-mist-ipo-dairy-milk-paneer-amul-mother-dairy-cooperatives-11786009153068.html
+- Dabur downplays USFDA warning, says India business unaffected; Silvassa plant continues operations
+  Dabur says it has submitted a revised response to the USFDA outlining corrective
+  🔗 https://www.livemint.com/companies/news/dabur-downplays-usfda-warning-says-india-business-unaffected-silvassa-plant-continues-operations-11786032407230.html
 
-- RITES eyes global market for refurbished Indian Railways diesel locomotives
-  RITES is re-engineering surplus diesel engines into standard-gauge variants. The company is unlocking new export markets in
-  🔗 https://www.livemint.com/companies/news/rites-eyes-global-market-for-refurbished-indian-railways-diesel-locomotives-11786006444757.html
+- PNB Housing bets on micro loans, small developers to boost margins
+  The lender is targeting higher-yielding segments to improve spreads. It sees affordable and emerging
+  🔗 https://www.livemint.com/companies/news/pnb-housing-bets-on-micro-loans-small-developers-to-boost-margins-11786027236998.html
 
-- Ahead of  ₹1,618-crore IPO, Shiprocket looks beyond parcel delivery to merchant software
-  Cross-border tools and checkout software now drive over a quarter of total revenue. Non-shipping services are growing three times faster than core logistics
-  🔗 https://www.livemint.com/companies/news/ahead-of-1-618-crore-ipo-shiprocket-looks-beyond-parcel-delivery-to-merchant-software-11786010260220.html
+- LIC flags pressure on customer incomes even as Q1 profit rises 23%
+  LIC expects pressure on household savings to continue, weighing on premium growth. A shift towards higher-margin non-par products helped boost
+  🔗 https://www.livemint.com/companies/news/lic-flags-pressure-on-customer-incomes-even-as-q1-profit-rises-23-11786024688987.html
 
-- RBI keeps Tata Sons in NBFC upper layer list, maintains status quo on listing
-  Tata Group holding company remains on the RBI's 2026-27 upper-layer NBFC list. The central bank
-  🔗 https://www.livemint.com/companies/news/rbi-keeps-tata-sons-in-nbfc-upper-layer-list-maintains-status-quo-on-listing-11786015353315.html
+- Private Credit Funds Avert Worst Fears and Bounce Back From Lows
+  In the eye of the private credit storm, outlooks called for the $1.8 trillion market to either bring about the next
+  🔗 https://www.livemint.com/market/private-credit-funds-avert-worst-fears-and-bounce-back-from-lows-11786058304424.html
 
-- Sebi releases consultation paper on separate rulebook for clearing corporations; seeks public comments till Aug 27
-  Sebi has proposed streamlining rules for stock exchanges and clearing corporations. Public comments are invited till Aug 27.
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-releases-consultation-paper-on-separate-rulebook-for-clearing-corporations-seeks-public-comments-till-aug-27-11786023162324.html
+- Japan Carmakers See Yen Remaining Near Post-Intervention Levels
+  Japan’s carmakers are assuming that the yen will trade near current levels against the US dollar in the coming months.
+  🔗 https://www.livemint.com/market/japan-carmakers-see-yen-remaining-near-post-intervention-levels-11786051302266.html
 
-- LIC Q1 Results: Net profit rises 23% YoY to  ₹13,492 crore; VNB jumps 61%
-  LIC reported a net profit of  ₹13,492 crore for Q1 FY 2026-27, a 22.8% YoY increase. Total
-  🔗 https://www.livemint.com/market/lic-q1-results-net-profit-rises-23-yoy-to-rs-13-492-crore-vnb-jumps-61-11786017351195.html
+- Oil Extends Gains on Report of Iran Strikes in Strait of Hormuz
+  Iranian news agency reported that the Islamic Republic struck “hostile targets�
+  🔗 https://www.livemint.com/market/oil-extends-gains-on-report-of-iran-strikes-in-strait-of-hormuz-11786050144011.html
 
-- Infra stock declares 1:1 bonus shares, raising of share capital. Details here
-  Chavda Infra announced a 1:1 bonus share issue for existing shareholders. The board approved increasing its authorized capital to
-  🔗 https://www.livemint.com/market/stock-market-news/infra-stock-declares-1-1-bonus-shares-raising-of-share-capital-details-here-11786014557356.html
+- Stocks close lower as investors eye Mideast talks, earnings
+  Stocks close lower as investors eye M
+  🔗 https://www.livemint.com/market/stocks-close-lower-as-investors-eye-mideast-talks-earnings-11786047804287.html
 
-- Top Gainers &amp; Losers on 6 August: Navin Fluorine, Tata Tech, HAL, Pine Labs, Kalyan Jewellers among top gainers
-  The Nifty 50 edged up 0.05%, while the Sensex gained 0.26%. Mixed performance was seen in broader markets, with sectoral interests varying.
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-6-august-navin-fluorine-tata-tech-hal-pine-labs-kalyan-jewellers-among-top-gainers-11786009429594.html
+- Gold pares gains to trade steady as oil rises on Iran proposal to bar hostile vessels in Hormuz
+  Gold pares gains to trade steady as oil rises on Iran proposal to bar
+  🔗 https://www.livemint.com/market/gold-pares-gains-to-trade-steady-as-oil-rises-on-iran-proposal-to-bar-hostile-vessels-in-hormuz-11786044628603.html
 
-- Navin Fluorine shares jump 14% to record high as analysts stay bullish, lift target price after Q1
-  Navin Fluorine's shares jumped 14% to  ₹8.647, following strong quarterly results. Brokerages raised target prices, with
-  🔗 https://www.livemint.com/market/stock-market-news/navin-fluorine-shares-jump-14-to-record-high-as-analysts-stay-bullish-lift-target-price-after-q1-11786007717400.html
+- Court orders Meta to pay $567 million to address kids mental health and safety on its platforms
+  Court orders Meta to pay $567 million to address kids
+  🔗 https://www.livemint.com/technology/court-orders-meta-to-pay-567-million-to-address-kids-mental-health-and-safety-on-its-platforms-11786059821685.html
+
+- Meta says its AI model hacked another company, adding to worries about bots going rogue
+   Meta says its AI model hacked another company, adding
+  🔗 https://www.livemint.com/technology/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue-11786048853608.html
 
 - Vivo S2 launched in India with Dimensity 7360 Turbo SoC, 7,050mAh battery: Price, specs and launch offers
   Vivo has launched the S2 in India, featuring a 120
@@ -92,173 +100,153 @@
    Meta's AI models hacked into a third-party company during cybersecurity testing.
   🔗 https://www.livemint.com/technology/tech-news/another-ai-agent-goes-rogue-meta-says-its-model-hacked-a-company-11785981040297.html
 
-- AI emerges as decision engine for finance, with governance and data quality key to unlocking value: KPMG
-  Active AI use across finance has more than doubled in two years. More than three-fourths of organisations are leveraging AI in financial planning, reporting and commercial analysis.
-  🔗 https://www.livemint.com/technology/ai-emerges-as-decision-engine-for-finance-with-governance-and-data-quality-key-to-unlocking-value-kpmg-11785928586945.html
+- Stock Market Today: Dow Poised to Break Winning Streak — Live Updates - WSJ
+  The Dow Jones Industrial Average is expected to open at
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmhkS2hZaWhCRE1xZVpnRUEwOGpaaW11SHd0RzhiX0tTbG5rMGhUX0dvRG8wVFNxYkdjeUd3MlJTc1NEV0pJdUlVUlUtb3l1YkFSZUY5aXhja25adTMwcVZyOWRxMW1SNi1WV0NnU3p5bklPQzRoU1ZhZDliRGhfejNkVkRLb1E?oc=5
 
-- OpenAI, Anthropic AI agents targeted real people and organisations during cyber tests
-   AI agents from Anthropic and OpenAI performed unsanctioned actions
-  🔗 https://www.livemint.com/technology/tech-news/openai-anthropic-ai-agents-targeted-real-people-and-organisations-during-cyber-tests-11785917779121.html
+- S&P 500 falls as oil prices pressure stocks; Dow drops more than 450 points to end 5-day win streak - CNBC
+  S&amp;P 500 falls as oil prices pressure stocks; Dow drops more than
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9sdDVGOGpOTml1NUpGRV9OVS1PdEdMd1pZWUZxekExRW5vUVFUT1N6dDJva1Y4UTRleEY3aFRDSGZFOHVxQUhLa2xPSjk4Um9ybzBXNzA3R2M0VjZHdDFYdk9kbWQzSHVQRERJNzhZRkItNjU1ZHo40gF8QVVfeXFMTzIzSjJPbUJOWmYwbG56bHI1TUNhUmpjaElWMDhvM3I1UC1WZ2lqNE9wdUwwYWY3N3FsLUc5TktPLVgwNVlrNFFRbnJQTFFOV2d2WU9JUVhtckRVVzRlekViVm9qcWhOTnBlV2tkc3BsNG1RSnk5LV9BeEstRQ?oc=5
 
-- S&P 500 Churns After $3.7 Trillion Rally to Record: Markets Wrap - Bloomberg.com
-  S&amp;P 500 futures are little changed, Nasdaq futures drop as traders monitor Iran, Sandisk shares fall. Major Indexes Open Mixed After Dow Closes at Record High for 3rd Straight Session.
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1Y4OXR3S0xmWV93UmlSQW5CX3NPclgxWGV6QnBKdUN4LUpuNXV0cWV3b25jdXhWQU9VMlBNWlJmSjJTY1g1QWtrUDFZeWtXLWdhZG52VW12cTk1VE9XYUR5azNDVERyRU04VDlqN3ZBbENKWmp6akN6b1Q0MDJJbVRPZDZzbkN2UzR0RE5SamhjV292?oc=5
+- Macau Casinos Hit by Slump as China Crackdown Rattles Market - bloomberg.com
+  Macau Casinos Hit by Slump
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMURBaTYxU2dwUGo5Zm00WHprSWNoVzRmbjJaRWo4SXJaczdLVlAxcHFtNGRBai1NT1l5aWE2UlA4N0k5MldRdzB0cDBrbVEwakUxVmlpRTB1NzNkT3Rqa1lULTl4MC1YcHJfdE1INEtSZ2QybFVheXBUTVdkTXg1Tk1sbVFHM2U5NXF1MDhMVEZhcHBnVW14V2ZwRTVhTG5Hc1otUVRYQXJ6ZnNUdnBIVQ?oc=5
 
-- Emerging markets get a hard lesson in tech hype - Reuters
-  Emerging markets get a hard lesson
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUhlRWJfTW1lZGw0WmUtTlUtbFc5bUNGSEVjdldCVGszSEFCSlZXZ2plek8wa2tNYzFybE5ELWxDRDNKUE8welloeUtLVURDMUdpUDVfZkMzZWVJRVlLdFV3SnRsdTZ6bzdxWVl1M2JoZmhOeml6S3dWaEJCc3E5cEhlSDFQdndxUWxMbkdzMEIyN3RMRERpOXlHdw?oc=5
+- Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC
+  The Dow Jones Industrial Average closed at a record high on
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVVwa1o5Rm9nMjR3VjZUOWJBOUdTNDFjVDhReklUUWxqb0VaU1RpZE1qSF8yRXhTLUlBQlFLRzNITTlXQ05aNFFBaFR4TDJ1WXEzbzJQUHNhRkFVMDU1T3NnTDFCUnRYcm5OXzgzWXZpS0FHcUZXYWpuSVowMUFVbFFSdkUtY0JTYkk1Qm8tRktHN1YyX0ZLdVR3?oc=5
 
-- JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market' - CNBC
-  JPMorgan's Jamie Dimon warns of high
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0Zvc1hIUV9FRTBmTGtKZHJ0Q1gwV0dYc3lQWEJCQVJCa0JMMWswU2xRVWNvVExCSERVN0p5RWlIOUR1TGYyMzJPTlBCOFNsUFBVWGxOZUZ6THNoWTZwSFNfSXZYYWdDcXdSVVpsUlJ2S2V6OHZyR01wSm1Tc0VaNjhsbGNCdG9TSWhfdtIBkgFBVV95cUxQSjJwSVlHRXNIQVo0N3VXN3FIUW9pUF9iaXdzY1lGcklQRzljNF9vNkZNNno1cmE3T2FINUlpRFRIWE9NTEZLQjFkbkNtVUpvMWxSejRIN3d4eFpvSWJlM29qNkh6WV90dTRWanlDYTNwUXVWNjljc1ZvZDVYMENrbzZSUDI2bVVnVkVKRnNQU2llUQ?oc=5
+- Markets News, Aug. 5, 2026: Dow’s Winning Streak Ends as Major Indexes Close Lower; Oil Rises as Investors Await Strait of Hormuz News - Investopedia
+  Markets News, Aug. 5, 2026: Dow’s Winning Streak Ends as Major
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNcU1BX0liaVNCNndDajRsWjM3QjZTOUZmUUJ0ZWt6NU9ELVZBdk54SDJsV2JBbzVDX2tYc2dRRmdXOWdKRllubGNLaE4wZGdtdWJxYTFFQmhHNk8wMWJDUkhVbXJqNWFESDlHb0pMV2FfOGRJV2dPSWdNVzlCSnlqWXFQQm1Oa1ZmbGxHdEwzVFo?oc=5
 
-- Markets Fall Over New Closing Price System: Why Traders Are Spooked - NDTV
-  " target="_blank">Markets
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTZWUGcwTnNYRXJaeVVHVTlrTVlMcWdyX2RRTzNUdmRMaGZveHVVNGh6Q2xPcFA2MzN2Ty1Za2Fhc3JpUHd0ZkVFR2puaGItZjdMSXRpM0h4QnYtM0xkT2JTRU0tZUFROUthd0wzb1BoZVA0YzcxeFVpX3ExYnNSNlplUmhzTldSMzV5UkZYaFhHVVR1Ml9QaWllVmJlaFRGNzJKWVJnczJBMVlBeS1RSjRWVVhpTE80ZXk5RUNOWklBMHBD0gHMAUFVX3lxTE5hampoRnA5ZEhtNnBxVDlkT3pFTks5TU0ycnQzenNhb2VVeUhiVDdJNlBmY2VLd1BlUFI3Nmhjb1JULXJHNjFFc1l2bGtVOFQ2dy1aV1h2MHBzVGp6V3hQLUtNbE02WnZxSGQzRjJDcDZ0S28xbmdZeG5IZ1Zab19lRF9zX2RLMDloaEkwd2s0UF92MjkxZS1PUWJBUFhtUmhNZ00xUUxLekpkeEx6bmMwQkFsTmJ4QmFkX0E2TnlZcjJpSnZVWFd3eFBKTw?oc=5
+- US stocks: Dow, S&amp;P slip as investors eye Mideast talks, earnings
+  Major stock indexes closed lower on Thursday, pausing after a strong start to the week. Investors digested corporate earnings and looked for progress toward a peace deal between the U.S. and Iran.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-sp-slip-as-investors-eye-mideast-talks-earnings/articleshow/133015453.cms
 
-- Stock Market Today, Aug 6: Sensex climbs 374 pts; Nifty ends above 24,600 on RBI, crude oil cues - BusinessLine
-  Stock Market Today: Sensex climbs 374 pts; Nifty ends above 24,
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1NxZ2g0N3c5OS04YktJVUVYYjJYOUlTdURpWmgtbmRWWk1IZHpkcjhTT0p0UGdTaVFFRmo5WWJQa0NEVzdsR2Z2M1g4SHVrOVlKUlRuYWlKMG9VdUZRQkFIMWxGam9oZWhwUDE1c0ZVcWFiWWxidjdGOFFuaHkxYllLS3BNUDFmT3ZjajMta296R3ZfSHhRREZ3MnNrcVVIY1FaM2VVaXNxWWcyS2V5X05jNlYzMk8wQ2J2Z3B2bWzSAccBQVVfeXFMUGpCdm54YkJXYTZFMnhnV1JlUUlWQVVKY3prQ2ZpbVFiTTNpWDhKVWNubzVMUk5PQ19sM2V4ckpFM3NPemFiVC1tUDZ0OHNOX0thRUt6UENDbmNiRDctOTIxa3F6RXROMmNBMjhtOXBnUXNmamlZRDVCOUFyZkFhd1RpcEdiRTFWUFhDeWdJUlFrampnVDRRWVVaV2doaEM2OTB4LXRTMkZjMFM5VkRPZWZOWV82Y1o2ZUpjYnE0QXpSeHI0c3NOMA?oc=5
+- Honeywell Aerospace shares plunge 26% as supply woes trigger forecast cuts
+  The company lowered its annual sales growth outlook for 2026 significantly. Analysts expressed concern over the reduced growth forecast compared to sector strength.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/honeywell-aerospace-shares-plunge-26-as-supply-woes-trigger-forecast-cuts/articleshow/133012879.cms
 
-- Sebi proposes separate master circular for clearing corporations
-  The Securities and Exchange Board of India (Sebi) is set to refine regulations for stock exchanges and clearing corporations. There will be a distinct master circular for clearing entities, alongside enhanced website disclosure obligations.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-separate-master-circular-for-clearing-corporations/articleshow/133007125.cms
+- Fortis Healthcare Q1 Results: Profit rises 2.3% to Rs 273 crore
+  The consolidated profit after tax now stands at Rs 273 crore, reflecting growth from last year. The hospital segment thrived, alongside successful diagnostics operations.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/fortis-healthcare-q1-results-profit-rises-2-3-to-rs-273-crore/articleshow/133010459.cms
 
-- Sebi proposes investment by REITs, InvITs in third party projects without controlling interest
-  Sebi has put forth proposals to permit REITs and InvITs to channel their investments into under-construction projects. This initiative is designed to establish a consistent stream of revenue-producing assets over the long term.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-investment-by-reits-invits-in-third-party-projects-without-controlling-interest/articleshow/133007047.cms
+- Technocraft Ventures raises Rs 75.55 cr from anchor investors ahead of IPO
+  Technocraft Ventures Ltd secured Rs 75.55 crore from anchor investors before its public offering. The company's Rs 252-crore initial public offering will open for subscription on August 7.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-raises-rs-75-55-cr-from-anchor-investors-ahead-of-ipo/articleshow/133010430.cms
 
-- Crompton Greaves Q1 Results: Profit rises 15% to Rs 142 crore, revenue up 11%
-  Crompton Greaves Consumer Electricals has reported a remarkable 15.17 percent increase in net profit for the June quarter. The company has successfully achieved double-digit growth across all its business segments.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q1-results-profit-rises-15-to-rs-142-crore-revenue-up-11/articleshow/133006964.cms
+- Sebi takes up 402 investigation cases in FY26; completes 338
+  Sebi investigated 402 cases in 2025-26 for securities law violations. Insider trading and illegal trade practices accounted for 224 investigations initiated. Financial statement fraud also came under regulatory focus with 57 cases.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-takes-up-402-investigation-cases-in-fy26-completes-338/articleshow/133010399.cms
 
-- Quote of the day by Peter Lynch: "Maybe you’re right 5 or 6 times out of 10. But if your winners go up 4- or 10- or 20-fold, it makes up for the ones where you lost 50%, 75%, or 100%"
-  Peter Lynch emphasised that investors need not be right every time to build wealth. A few multibagger investments, supported by patience, disciplined research, diversification and long
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-peter-lynch-maybe-youre-right-5-or-6-times-out-of-10-but-if-your-winners-go-up-4-or-10-or-20-fold-it-makes-up-for-the-ones-where-you-lost-50-75-or-100/articleshow/133006268.cms
+- Supreme Court on walking: India is a nation of walkers - but its cities forgot them - BBC
+  India is a nation of walkers - but its cities forgot them.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUU1ITGNVUmtzbTBwVHVnS0JqajN1aUYwbXBnRGFyN3c0SF9XNTFLNTFiTHJpU09rblJUQnFjWUJ2MVQ3WE9WRGlrT3JXRWZBMlotTk84emdyQQ?oc=5
 
-- HDFC Securities initiates coverage on Sona BLW with 'Add'; sees upside on EV-led growth
-  HDFC Securities initiated coverage on Sona BLW Precision Forgings with an Add rating and Rs 845 target. The brokerage expects sustained margin strength but flagged geopolitical, tariff and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-securities-initiates-coverage-on-sona-blw-with-add-sees-upside-on-ev-led-growth/articleshow/133005367.cms
+- Netanyahu Dials PM Modi, Discusses Middle East Situation, India-Israel Ties - NDTV
+  Netanyahu Dials PM Modi, Discuss
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEQtV1Y0aXNjaGRaWjRkSllhQy1ZdnNtMWtodXVsbHhkMDFXUjE3YmM4R200dVdKeThDc3hhdktUTXFDTEZ3cFVwTXY4UXRPN0FrV3RDSU5MYlV0MHNiT2IyTXhxQnc1SEVHbVpUZWp4SjBLU0l3OWRXMFpVb01LcWdMOW9lN0htNmVZTVNpNGphWFpxckVkMndabk9LU3V4a1JBU2FxVzRIdHNScDFvVThrMXhrRUpreVZ5Zi13dEYyeGNURVl2ckxTZDZGUEkySnfSAdoBQVVfeXFMTXJaYmFTbmxMdXdYbldvQkxiLXVCNWp4VWp3VnpUU1JnalpZd1V6VzlleXJQWGxxXzVmeFd0X29xckp6ai1UYVZXZ245bjRJSGY0eWE4VXlqV09CeS1VNDB1aVZ6QTZLSnJ6Wmc1elA1WWFuMVA2TXR1SmVEaUZPcUtjU3ZmcG11eGl2YmhUNXVHSFpoTXdleldNNjVVV0VXQVowMmhSUnFLTmJMZ3VMdElWcGpFRDNianRMUDhrdXY5d1A0QWRXS2RuX1pzOWNVbDFsUEZJLVNIX1E?oc=5
 
-- Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape - BBC
-  Indian journalist Tarun Tejpal sentenced to 10
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NDVIWmdyLWRmQVNxZHFBQTdvMDdtSjdmV3ZwZXdMSGIxcmN5U2N1OHFCYTIzOXgyVlNQV09SLVc1c0ROWFVtczRmTkZNRTMtSVM1bGhNNEhBdw?oc=5
+- Netanyahu calls PM Modi, discusses bilateral ties, West Asia situation - The Times of India
+  Netanyahu calls PM Modi, discusses bilateral ties, West
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHA4akx1OHdCemVJa08zUHQwaDNJV2NvZ1lkVXRTdC03LUFDMFQ5UkMwUkc5Ykgwcm16dmp6WE9vaWIxSzVtRnNxT0FxaTEwZ3d5X2M1Vk82V21jRml3MmZsZGhaUmo3NXBGUGRPOFBPV3RQWGF5OEFMUjR6N3g2SFl6QldFMEJXbWJEY2g0VVJiNWFfRHJWNjJ0X1NUX3YtYjJiREh6ZkpWMTBjUmg1aFNVQ3hjSmFMUk9DZjJBWVRNQjFPcFR6eDBYaUlzd9IB0wFBVV95cUxOWkZ0NC15UjI0RWx3SDg3NkVuZzhadmsybkt6eUtPazhjbUt6SmdnSXViWVNfSWhoUWxmcjNHSElMVEZUWHUyUFBaOEtXeWx5ZkFRdno3X1ZfaEhPTmJNbVdLbDN6Zi1XNVQycDVobGl2VVVRWmlSeE9CT09aczBaLU04NWluT25Va0N0OGhkbC02UU9PSVkzdGdwbk5PMm1sb28xa3V5M2gzZGlRQjBaQUdsZzlsVmlKSGVnd3k1Vk9qUFdHX0NKRW95TzhxN19NQkZ3?oc=5
 
-- "Indians Will Suffer": Shashi Tharoor Slams Centre On Foreign Funding Law - NDTV
-  "Indians Will Suffer": Shashi
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQYkpIdGktdnpzaDJVc2EwYWxkWml6QnBOV3lNcTZvdG44enh1X0lKY1hWQi14cy1wU3MyRmVRalBzNFJRQ3ZSX0hkV2VQRzNYZ2FzUl9zWm54VVlMVmNVZExzQkN4NU5XSnBieW85V3lUNVJTb1dDSlp1UW03ZlJ4UDd6RE5fa05BemgzTTB2SkQyS2lTTUFlRzNWeTBFNERYMWN4TXEtRGFtdVI1T0pDejVjQTZzRVlUVTE5bkFZbE5zdkpSNDZxOU10a9IB0wFBVV95cUxNVVF1ZWNiU2xYRXc1T2dUajJyMHZUNHhvdzIzZXduM3lhMVY3Zkg5YkV0b2ZoZTRqOTV1WDJ0azNkWEx6R2swSGNSNnQtcUNodEhscnFTRV90Y01SYlRpWGVyYllrbWdvY1ZSWTlFbVFLX3NEUkFrRGdnWDZIdzVJc1pJQzcza3VEaFpVLTBvcnJ4YWZWbF9tUGxwM2NDOUVTdTRYVUtWY2VPdF9MNVFWMUFYRVBCTzQ1VVE5NzhGRXRoczN2UkEtUnZieDRObWJtYkdJ?oc=5
+- PM Modi and Netanyahu review India-Israel Special Strategic Partnership - News On AIR
+  PM Modi and Netanyahu review India-Israel Special
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPM3NJY09YRzVCZkFTQ24xYXpDa2lXakFpWUMwZzQ3bWdPOEpsLVJqd0U3WlVsRmxWZFVWRTB0OWFhTXY3VFBFeGx1ZXNWaXNXa2E4bFVKaXFuRHJ3d3B0NWJrV1hnNjZmMVdmQTdvZFdKQWhDX2ZrUTFfZzRpc3g5cEFBU3dSOXI0WjNqeUZlMndwMXJqSGxhcGR2OWtVZw?oc=5
 
-- India Responds After Pakistan Deploys Chinese SH-15 Howitzers Along Border - The Times of India
-  India Responds After Pakistan Deploys Chinese SH-15
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbFBtNFFxMXBnQ0trUEkwNURMbjRtenNEMEZudDRNWlRVbzhXUTBuSWl4d1I3MHVJc1VKRHpVTmlKTXd6bWRxZ0M2bUJKamo5NzJaWDd5ZW5SblhPRWVScWxlaE90ZGpiUjBabS1tQlhFV0x0QTR0UGNORHNPZFlqRkx5VzljREdNUnpTcXc3cXR3RHZUTU1kTnJEcWpzZ2ZGdVF3aFVGWE9adEt5Ynh3dlhjSTk5R3NKY2ZldC1DOGRLYXlweWRTTkFXVl81N01YalhOeFYxcmgyMTdzZ25N0gHkAUFVX3lxTE55NkxTcUFHTE9RcTZhRjktT0Y0LU9YbGVRc2hkTkNkY2xxWTJ2Yll1eXpCOUxPaUFjOGQ2Z3hvQ19WOHNjMDU1OHJMSEQxNk9oVlJYYWFhUnlrQkxGUjg0MDhxSk5fNkRhazhWM08zRFJQVjRVNmpvaGNtcmVjeV92aXVPNDFGR0RQTl9pZmlxSW1SdmhyeHFvckFaSk96c2hxb201VXZKeVB6cml6dzBmZGFvSGVJOTU2ZnlKRTBhSWR4M0JxUmtieXJGYzhLcUprNHlscE41MHBiV0NYUy1zRklFRg?oc=5
+- Lok Sabha Passes Bill To Allow Charges On UPI, Other Digital Payments - NDTV
+  Lok Sabha Passes Bill To Allow Charges On
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0dGRkQzT2MzWElYVEVXZXF4bWMzMi1WaXBMQ0xfeW9aeVNJb3ZiYW5UMmk5aXdvLXN6N2t2MVVPMVFydVJ5QWd0bXowa2lvQmVBRzhGX0ZTclViRDVya2FvaV9XbWM1bzV1eUNXaHdCQ3RKYUVyQnNYdjRnNEd4bzI1UV9EbVFMYW12ZjUzWnlMV0JManFpX1NzMkN6djlSckdJd0ZoQ1loZGpVZnfSAbYBQVVfeXFMUEs3NGJzS0hTWHh3Q2ZHeGNldzVNdXgwQWFkSXBJRjdTVXNQdTJnUjJ1R2JvU0QxQnZva0p3M1dZb2ZpeXJWWWpXN2lDY3pDY2c0QmxTR3EtLXQzOFhfaW9ENS1YVW9JcDN6Z2I0bUM1ZmRzejJBQnBmSEVaNjk5OFdVX2lPWmhCM1Z0UnJFblM1dV96ekVtYlU4cFdqSlRidUNYRTVJR0pnV3doVHF5NVVxaTVkWkE?oc=5
 
-- Cabinet approves GOBARdhan scheme marking defining moment in India’s clean energy journey - News On AIR
-  Cabinet approves GOBARdhan scheme marking defining
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQenlrT0FFZnF6TjFVaEt3T2JycjhKWkw5RXVvcXZfSm04aExkX1h1dERaSWdhVGNoSV9tRG1SMnRqLXNhNEFEczlyMHowSnZxZ1VENjVPdUR2cjNyWTNWR1V4bVpJT21yQ2g2N1BxVmFpUmRSa3R6eVE0TC1ISEtocHdYblZaR1g5dnVFNWw1Umh6R1JFQzctVkpIT0NJZkVIbjhJaUc3VS04V3JtVXAtRnZGV2M?oc=5
+- PE Giant TPG Offloads Shadowfax Shares In ₹301 Cr Bulk Deal
+  Private equity (PE) giant TPG yesterday offloaded Shadowfax shares worth nearly ₹300.6 Cr via an open-market
+  🔗 https://inc42.com/buzz/pe-giant-tpg-offloads-shadowfax-shares-in-%e2%82%b9301-cr-bulk-deal/
 
-- Hockey Punjab beat Hockey Karnataka 5–2 - Hockey India
-  Hockey Punjab beat Hockey
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMXRlNE9nSmFDQXhVU0c2WW9CQ0JMY3VORTZSeXlYOE1RSS1naE5PZVBucXRsaXhkd0wzeHZvcUs2M0RqOGNNR1VYUndWNEI3V0xFS0lsekJGZWVxdkFaMk5zcFRfT3UtcXYzSWNLbEJVcHU1M3ktY3Uyd1NqSl9LX0xvd1BVSHhNZ2ZGakJXY0lsbWRYWHFDdXUwQ0lueXc0Y0N1MjQxWVFLNWMzUm1WdEZQVk1SNERJSmRUT29pRzVobjJKZERSMTNOUmVQUUFZU1JRb3JDMHZqZVpkMGFvajhvY0VnWG1yOUptNjE4X01raFNvWDFjTw?oc=5
+- Mitti Labs Bags $9.5 Mn To Make Rice Cultivation Water-Efficient
+  Climate tech startup Mitti Labs has raised $9.5 Mn (around ₹90 Cr) in its Series A funding round.
+  🔗 https://inc42.com/buzz/mitti-labs-bags-9-5-mn-to-make-rice-cultivation-water-efficient/
 
-- Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape - BBC
-  Indian journalist Tarun Tejpal sentenced to 10
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NDVIWmdyLWRmQVNxZHFBQTdvMDdtSjdmV3ZwZXdMSGIxcmN5U2N1OHFCYTIzOXgyVlNQV09SLVc1c0ROWFVtczRmTkZNRTMtSVM1bGhNNEhBdw?oc=5
+- IPO-Bound LEAP India Nets ₹744 Cr From Anchor Investors
+  IPO-Bound LEAP India Nets ₹744 Cr From Anchor Investors.
+  🔗 https://inc42.com/buzz/ipo-bound-leap-india-nets-%e2%82%b9744-cr-from-anchor-investors/
 
-- "Indians Will Suffer": Shashi Tharoor Slams Centre On Foreign Funding Law - NDTV
-  "Indians Will Suffer": Shashi
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQYkpIdGktdnpzaDJVc2EwYWxkWml6QnBOV3lNcTZvdG44enh1X0lKY1hWQi14cy1wU3MyRmVRalBzNFJRQ3ZSX0hkV2VQRzNYZ2FzUl9zWm54VVlMVmNVZExzQkN4NU5XSnBieW85V3lUNVJTb1dDSlp1UW03ZlJ4UDd6RE5fa05BemgzTTB2SkQyS2lTTUFlRzNWeTBFNERYMWN4TXEtRGFtdVI1T0pDejVjQTZzRVlUVTE5bkFZbE5zdkpSNDZxOU10a9IB0wFBVV95cUxNVVF1ZWNiU2xYRXc1T2dUajJyMHZUNHhvdzIzZXduM3lhMVY3Zkg5YkV0b2ZoZTRqOTV1WDJ0azNkWEx6R2swSGNSNnQtcUNodEhscnFTRV90Y01SYlRpWGVyYllrbWdvY1ZSWTlFbVFLX3NEUkFrRGdnWDZIdzVJc1pJQzcza3VEaFpVLTBvcnJ4YWZWbF9tUGxwM2NDOUVTdTRYVUtWY2VPdF9MNVFWMUFYRVBCTzQ1VVE5NzhGRXRoczN2UkEtUnZieDRObWJtYkdJ?oc=5
+- Gains From Unexercised ESOP Buybacks Taxable As Capital Gains: ITAT
+  The Income Tax Appellate Tribunal (ITAT) has ruled that gains arising from the repurchase of vested, unexercised employee stock
+  🔗 https://inc42.com/buzz/gains-from-unexercised-esop-buybacks-taxable-as-capital-gains-itat/
 
-- India Responds After Pakistan Deploys Chinese SH-15 Howitzers Along Border - The Times of India
-  India Responds After Pakistan Deploys Chinese SH-15
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbFBtNFFxMXBnQ0trUEkwNURMbjRtenNEMEZudDRNWlRVbzhXUTBuSWl4d1I3MHVJc1VKRHpVTmlKTXd6bWRxZ0M2bUJKamo5NzJaWDd5ZW5SblhPRWVScWxlaE90ZGpiUjBabS1tQlhFV0x0QTR0UGNORHNPZFlqRkx5VzljREdNUnpTcXc3cXR3RHZUTU1kTnJEcWpzZ2ZGdVF3aFVGWE9adEt5Ynh3dlhjSTk5R3NKY2ZldC1DOGRLYXlweWRTTkFXVl81N01YalhOeFYxcmgyMTdzZ25N0gHkAUFVX3lxTE55NkxTcUFHTE9RcTZhRjktT0Y0LU9YbGVRc2hkTkNkY2xxWTJ2Yll1eXpCOUxPaUFjOGQ2Z3hvQ19WOHNjMDU1OHJMSEQxNk9oVlJYYWFhUnlrQkxGUjg0MDhxSk5fNkRhazhWM08zRFJQVjRVNmpvaGNtcmVjeV92aXVPNDFGR0RQTl9pZmlxSW1SdmhyeHFvckFaSk96c2hxb201VXZKeVB6cml6dzBmZGFvSGVJOTU2ZnlKRTBhSWR4M0JxUmtieXJGYzhLcUprNHlscE41MHBiV0NYUy1zRklFRg?oc=5
+- Lok Sabha Passes Taxation Laws Amendment Bill, Clearing Path To Levy MDR On UPI Payments
+  The Lok Sabha on Thursday (August 6) passed the bill amending the Taxation and Other Laws (Amendment) Bill, 2026.
+  🔗 https://inc42.com/buzz/lok-sabha-passes-taxation-laws-amendment-bill-clearing-path-to-levy-mdr-on-upi-payments/
 
-- Cabinet approves GOBARdhan scheme marking defining moment in India’s clean energy journey - News On AIR
-  Cabinet approves GOBARdhan scheme marking defining
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQenlrT0FFZnF6TjFVaEt3T2JycjhKWkw5RXVvcXZfSm04aExkX1h1dERaSWdhVGNoSV9tRG1SMnRqLXNhNEFEczlyMHowSnZxZ1VENjVPdUR2cjNyWTNWR1V4bVpJT21yQ2g2N1BxVmFpUmRSa3R6eVE0TC1ISEtocHdYblZaR1g5dnVFNWw1Umh6R1JFQzctVkpIT0NJZkVIbjhJaUc3VS04V3JtVXAtRnZGV2M?oc=5
+- Supreme Court on walking: India is a nation of walkers - but its cities forgot them - BBC
+  India is a nation of walkers - but its cities forgot them.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUU1ITGNVUmtzbTBwVHVnS0JqajN1aUYwbXBnRGFyN3c0SF9XNTFLNTFiTHJpU09rblJUQnFjWUJ2MVQ3WE9WRGlrT3JXRWZBMlotTk84emdyQQ?oc=5
 
-- Hockey Punjab beat Hockey Karnataka 5–2 - Hockey India
-  Hockey Punjab beat Hockey
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMXRlNE9nSmFDQXhVU0c2WW9CQ0JMY3VORTZSeXlYOE1RSS1naE5PZVBucXRsaXhkd0wzeHZvcUs2M0RqOGNNR1VYUndWNEI3V0xFS0lsekJGZWVxdkFaMk5zcFRfT3UtcXYzSWNLbEJVcHU1M3ktY3Uyd1NqSl9LX0xvd1BVSHhNZ2ZGakJXY0lsbWRYWHFDdXUwQ0lueXc0Y0N1MjQxWVFLNWMzUm1WdEZQVk1SNERJSmRUT29pRzVobjJKZERSMTNOUmVQUUFZU1JRb3JDMHZqZVpkMGFvajhvY0VnWG1yOUptNjE4X01raFNvWDFjTw?oc=5
+- Netanyahu Dials PM Modi, Discusses Middle East Situation, India-Israel Ties - NDTV
+  Netanyahu Dials PM Modi, Discuss
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEQtV1Y0aXNjaGRaWjRkSllhQy1ZdnNtMWtodXVsbHhkMDFXUjE3YmM4R200dVdKeThDc3hhdktUTXFDTEZ3cFVwTXY4UXRPN0FrV3RDSU5MYlV0MHNiT2IyTXhxQnc1SEVHbVpUZWp4SjBLU0l3OWRXMFpVb01LcWdMOW9lN0htNmVZTVNpNGphWFpxckVkMndabk9LU3V4a1JBU2FxVzRIdHNScDFvVThrMXhrRUpreVZ5Zi13dEYyeGNURVl2ckxTZDZGUEkySnfSAdoBQVVfeXFMTXJaYmFTbmxMdXdYbldvQkxiLXVCNWp4VWp3VnpUU1JnalpZd1V6VzlleXJQWGxxXzVmeFd0X29xckp6ai1UYVZXZ245bjRJSGY0eWE4VXlqV09CeS1VNDB1aVZ6QTZLSnJ6Wmc1elA1WWFuMVA2TXR1SmVEaUZPcUtjU3ZmcG11eGl2YmhUNXVHSFpoTXdleldNNjVVV0VXQVowMmhSUnFLTmJMZ3VMdElWcGpFRDNianRMUDhrdXY5d1A0QWRXS2RuX1pzOWNVbDFsUEZJLVNIX1E?oc=5
 
-- Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape - BBC
-  Indian journalist Tarun Tejpal sentenced to 10
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NDVIWmdyLWRmQVNxZHFBQTdvMDdtSjdmV3ZwZXdMSGIxcmN5U2N1OHFCYTIzOXgyVlNQV09SLVc1c0ROWFVtczRmTkZNRTMtSVM1bGhNNEhBdw?oc=5
+- Netanyahu calls PM Modi, discusses bilateral ties, West Asia situation - The Times of India
+  Netanyahu calls PM Modi, discusses bilateral ties, West
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHA4akx1OHdCemVJa08zUHQwaDNJV2NvZ1lkVXRTdC03LUFDMFQ5UkMwUkc5Ykgwcm16dmp6WE9vaWIxSzVtRnNxT0FxaTEwZ3d5X2M1Vk82V21jRml3MmZsZGhaUmo3NXBGUGRPOFBPV3RQWGF5OEFMUjR6N3g2SFl6QldFMEJXbWJEY2g0VVJiNWFfRHJWNjJ0X1NUX3YtYjJiREh6ZkpWMTBjUmg1aFNVQ3hjSmFMUk9DZjJBWVRNQjFPcFR6eDBYaUlzd9IB0wFBVV95cUxOWkZ0NC15UjI0RWx3SDg3NkVuZzhadmsybkt6eUtPazhjbUt6SmdnSXViWVNfSWhoUWxmcjNHSElMVEZUWHUyUFBaOEtXeWx5ZkFRdno3X1ZfaEhPTmJNbVdLbDN6Zi1XNVQycDVobGl2VVVRWmlSeE9CT09aczBaLU04NWluT25Va0N0OGhkbC02UU9PSVkzdGdwbk5PMm1sb28xa3V5M2gzZGlRQjBaQUdsZzlsVmlKSGVnd3k1Vk9qUFdHX0NKRW95TzhxN19NQkZ3?oc=5
 
-- "Indians Will Suffer": Shashi Tharoor Slams Centre On Foreign Funding Law - NDTV
-  "Indians Will Suffer": Shashi
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQYkpIdGktdnpzaDJVc2EwYWxkWml6QnBOV3lNcTZvdG44enh1X0lKY1hWQi14cy1wU3MyRmVRalBzNFJRQ3ZSX0hkV2VQRzNYZ2FzUl9zWm54VVlMVmNVZExzQkN4NU5XSnBieW85V3lUNVJTb1dDSlp1UW03ZlJ4UDd6RE5fa05BemgzTTB2SkQyS2lTTUFlRzNWeTBFNERYMWN4TXEtRGFtdVI1T0pDejVjQTZzRVlUVTE5bkFZbE5zdkpSNDZxOU10a9IB0wFBVV95cUxNVVF1ZWNiU2xYRXc1T2dUajJyMHZUNHhvdzIzZXduM3lhMVY3Zkg5YkV0b2ZoZTRqOTV1WDJ0azNkWEx6R2swSGNSNnQtcUNodEhscnFTRV90Y01SYlRpWGVyYllrbWdvY1ZSWTlFbVFLX3NEUkFrRGdnWDZIdzVJc1pJQzcza3VEaFpVLTBvcnJ4YWZWbF9tUGxwM2NDOUVTdTRYVUtWY2VPdF9MNVFWMUFYRVBCTzQ1VVE5NzhGRXRoczN2UkEtUnZieDRObWJtYkdJ?oc=5
+- PM Modi and Netanyahu review India-Israel Special Strategic Partnership - News On AIR
+  PM Modi and Netanyahu review India-Israel Special
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPM3NJY09YRzVCZkFTQ24xYXpDa2lXakFpWUMwZzQ3bWdPOEpsLVJqd0U3WlVsRmxWZFVWRTB0OWFhTXY3VFBFeGx1ZXNWaXNXa2E4bFVKaXFuRHJ3d3B0NWJrV1hnNjZmMVdmQTdvZFdKQWhDX2ZrUTFfZzRpc3g5cEFBU3dSOXI0WjNqeUZlMndwMXJqSGxhcGR2OWtVZw?oc=5
 
-- India Responds After Pakistan Deploys Chinese SH-15 Howitzers Along Border - The Times of India
-  India Responds After Pakistan Deploys Chinese SH-15
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbFBtNFFxMXBnQ0trUEkwNURMbjRtenNEMEZudDRNWlRVbzhXUTBuSWl4d1I3MHVJc1VKRHpVTmlKTXd6bWRxZ0M2bUJKamo5NzJaWDd5ZW5SblhPRWVScWxlaE90ZGpiUjBabS1tQlhFV0x0QTR0UGNORHNPZFlqRkx5VzljREdNUnpTcXc3cXR3RHZUTU1kTnJEcWpzZ2ZGdVF3aFVGWE9adEt5Ynh3dlhjSTk5R3NKY2ZldC1DOGRLYXlweWRTTkFXVl81N01YalhOeFYxcmgyMTdzZ25N0gHkAUFVX3lxTE55NkxTcUFHTE9RcTZhRjktT0Y0LU9YbGVRc2hkTkNkY2xxWTJ2Yll1eXpCOUxPaUFjOGQ2Z3hvQ19WOHNjMDU1OHJMSEQxNk9oVlJYYWFhUnlrQkxGUjg0MDhxSk5fNkRhazhWM08zRFJQVjRVNmpvaGNtcmVjeV92aXVPNDFGR0RQTl9pZmlxSW1SdmhyeHFvckFaSk96c2hxb201VXZKeVB6cml6dzBmZGFvSGVJOTU2ZnlKRTBhSWR4M0JxUmtieXJGYzhLcUprNHlscE41MHBiV0NYUy1zRklFRg?oc=5
+- Lok Sabha Passes Bill To Allow Charges On UPI, Other Digital Payments - NDTV
+  Lok Sabha Passes Bill To Allow Charges On
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0dGRkQzT2MzWElYVEVXZXF4bWMzMi1WaXBMQ0xfeW9aeVNJb3ZiYW5UMmk5aXdvLXN6N2t2MVVPMVFydVJ5QWd0bXowa2lvQmVBRzhGX0ZTclViRDVya2FvaV9XbWM1bzV1eUNXaHdCQ3RKYUVyQnNYdjRnNEd4bzI1UV9EbVFMYW12ZjUzWnlMV0JManFpX1NzMkN6djlSckdJd0ZoQ1loZGpVZnfSAbYBQVVfeXFMUEs3NGJzS0hTWHh3Q2ZHeGNldzVNdXgwQWFkSXBJRjdTVXNQdTJnUjJ1R2JvU0QxQnZva0p3M1dZb2ZpeXJWWWpXN2lDY3pDY2c0QmxTR3EtLXQzOFhfaW9ENS1YVW9JcDN6Z2I0bUM1ZmRzejJBQnBmSEVaNjk5OFdVX2lPWmhCM1Z0UnJFblM1dV96ekVtYlU4cFdqSlRidUNYRTVJR0pnV3doVHF5NVVxaTVkWkE?oc=5
 
-- Cabinet approves GOBARdhan scheme marking defining moment in India’s clean energy journey - News On AIR
-  Cabinet approves GOBARdhan scheme marking defining
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQenlrT0FFZnF6TjFVaEt3T2JycjhKWkw5RXVvcXZfSm04aExkX1h1dERaSWdhVGNoSV9tRG1SMnRqLXNhNEFEczlyMHowSnZxZ1VENjVPdUR2cjNyWTNWR1V4bVpJT21yQ2g2N1BxVmFpUmRSa3R6eVE0TC1ISEtocHdYblZaR1g5dnVFNWw1Umh6R1JFQzctVkpIT0NJZkVIbjhJaUc3VS04V3JtVXAtRnZGV2M?oc=5
+- Supreme Court on walking: India is a nation of walkers - but its cities forgot them - BBC
+  India is a nation of walkers - but its cities forgot them.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUU1ITGNVUmtzbTBwVHVnS0JqajN1aUYwbXBnRGFyN3c0SF9XNTFLNTFiTHJpU09rblJUQnFjWUJ2MVQ3WE9WRGlrT3JXRWZBMlotTk84emdyQQ?oc=5
 
-- Hockey Punjab beat Hockey Karnataka 5–2 - Hockey India
-  Hockey Punjab beat Hockey
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMXRlNE9nSmFDQXhVU0c2WW9CQ0JMY3VORTZSeXlYOE1RSS1naE5PZVBucXRsaXhkd0wzeHZvcUs2M0RqOGNNR1VYUndWNEI3V0xFS0lsekJGZWVxdkFaMk5zcFRfT3UtcXYzSWNLbEJVcHU1M3ktY3Uyd1NqSl9LX0xvd1BVSHhNZ2ZGakJXY0lsbWRYWHFDdXUwQ0lueXc0Y0N1MjQxWVFLNWMzUm1WdEZQVk1SNERJSmRUT29pRzVobjJKZERSMTNOUmVQUUFZU1JRb3JDMHZqZVpkMGFvajhvY0VnWG1yOUptNjE4X01raFNvWDFjTw?oc=5
+- Netanyahu Dials PM Modi, Discusses Middle East Situation, India-Israel Ties - NDTV
+  Netanyahu Dials PM Modi, Discuss
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEQtV1Y0aXNjaGRaWjRkSllhQy1ZdnNtMWtodXVsbHhkMDFXUjE3YmM4R200dVdKeThDc3hhdktUTXFDTEZ3cFVwTXY4UXRPN0FrV3RDSU5MYlV0MHNiT2IyTXhxQnc1SEVHbVpUZWp4SjBLU0l3OWRXMFpVb01LcWdMOW9lN0htNmVZTVNpNGphWFpxckVkMndabk9LU3V4a1JBU2FxVzRIdHNScDFvVThrMXhrRUpreVZ5Zi13dEYyeGNURVl2ckxTZDZGUEkySnfSAdoBQVVfeXFMTXJaYmFTbmxMdXdYbldvQkxiLXVCNWp4VWp3VnpUU1JnalpZd1V6VzlleXJQWGxxXzVmeFd0X29xckp6ai1UYVZXZ245bjRJSGY0eWE4VXlqV09CeS1VNDB1aVZ6QTZLSnJ6Wmc1elA1WWFuMVA2TXR1SmVEaUZPcUtjU3ZmcG11eGl2YmhUNXVHSFpoTXdleldNNjVVV0VXQVowMmhSUnFLTmJMZ3VMdElWcGpFRDNianRMUDhrdXY5d1A0QWRXS2RuX1pzOWNVbDFsUEZJLVNIX1E?oc=5
 
-- Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape - BBC
-  Indian journalist Tarun Tejpal sentenced to 10
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NDVIWmdyLWRmQVNxZHFBQTdvMDdtSjdmV3ZwZXdMSGIxcmN5U2N1OHFCYTIzOXgyVlNQV09SLVc1c0ROWFVtczRmTkZNRTMtSVM1bGhNNEhBdw?oc=5
+- Netanyahu calls PM Modi, discusses bilateral ties, West Asia situation - The Times of India
+  Netanyahu calls PM Modi, discusses bilateral ties, West
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHA4akx1OHdCemVJa08zUHQwaDNJV2NvZ1lkVXRTdC03LUFDMFQ5UkMwUkc5Ykgwcm16dmp6WE9vaWIxSzVtRnNxT0FxaTEwZ3d5X2M1Vk82V21jRml3MmZsZGhaUmo3NXBGUGRPOFBPV3RQWGF5OEFMUjR6N3g2SFl6QldFMEJXbWJEY2g0VVJiNWFfRHJWNjJ0X1NUX3YtYjJiREh6ZkpWMTBjUmg1aFNVQ3hjSmFMUk9DZjJBWVRNQjFPcFR6eDBYaUlzd9IB0wFBVV95cUxOWkZ0NC15UjI0RWx3SDg3NkVuZzhadmsybkt6eUtPazhjbUt6SmdnSXViWVNfSWhoUWxmcjNHSElMVEZUWHUyUFBaOEtXeWx5ZkFRdno3X1ZfaEhPTmJNbVdLbDN6Zi1XNVQycDVobGl2VVVRWmlSeE9CT09aczBaLU04NWluT25Va0N0OGhkbC02UU9PSVkzdGdwbk5PMm1sb28xa3V5M2gzZGlRQjBaQUdsZzlsVmlKSGVnd3k1Vk9qUFdHX0NKRW95TzhxN19NQkZ3?oc=5
 
-- "Indians Will Suffer": Shashi Tharoor Slams Centre On Foreign Funding Law - NDTV
-  "Indians Will Suffer": Shashi
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQYkpIdGktdnpzaDJVc2EwYWxkWml6QnBOV3lNcTZvdG44enh1X0lKY1hWQi14cy1wU3MyRmVRalBzNFJRQ3ZSX0hkV2VQRzNYZ2FzUl9zWm54VVlMVmNVZExzQkN4NU5XSnBieW85V3lUNVJTb1dDSlp1UW03ZlJ4UDd6RE5fa05BemgzTTB2SkQyS2lTTUFlRzNWeTBFNERYMWN4TXEtRGFtdVI1T0pDejVjQTZzRVlUVTE5bkFZbE5zdkpSNDZxOU10a9IB0wFBVV95cUxNVVF1ZWNiU2xYRXc1T2dUajJyMHZUNHhvdzIzZXduM3lhMVY3Zkg5YkV0b2ZoZTRqOTV1WDJ0azNkWEx6R2swSGNSNnQtcUNodEhscnFTRV90Y01SYlRpWGVyYllrbWdvY1ZSWTlFbVFLX3NEUkFrRGdnWDZIdzVJc1pJQzcza3VEaFpVLTBvcnJ4YWZWbF9tUGxwM2NDOUVTdTRYVUtWY2VPdF9MNVFWMUFYRVBCTzQ1VVE5NzhGRXRoczN2UkEtUnZieDRObWJtYkdJ?oc=5
+- PM Modi and Netanyahu review India-Israel Special Strategic Partnership - News On AIR
+  PM Modi and Netanyahu review India-Israel Special
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPM3NJY09YRzVCZkFTQ24xYXpDa2lXakFpWUMwZzQ3bWdPOEpsLVJqd0U3WlVsRmxWZFVWRTB0OWFhTXY3VFBFeGx1ZXNWaXNXa2E4bFVKaXFuRHJ3d3B0NWJrV1hnNjZmMVdmQTdvZFdKQWhDX2ZrUTFfZzRpc3g5cEFBU3dSOXI0WjNqeUZlMndwMXJqSGxhcGR2OWtVZw?oc=5
 
-- India Responds After Pakistan Deploys Chinese SH-15 Howitzers Along Border - The Times of India
-  India Responds After Pakistan Deploys Chinese SH-15
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbFBtNFFxMXBnQ0trUEkwNURMbjRtenNEMEZudDRNWlRVbzhXUTBuSWl4d1I3MHVJc1VKRHpVTmlKTXd6bWRxZ0M2bUJKamo5NzJaWDd5ZW5SblhPRWVScWxlaE90ZGpiUjBabS1tQlhFV0x0QTR0UGNORHNPZFlqRkx5VzljREdNUnpTcXc3cXR3RHZUTU1kTnJEcWpzZ2ZGdVF3aFVGWE9adEt5Ynh3dlhjSTk5R3NKY2ZldC1DOGRLYXlweWRTTkFXVl81N01YalhOeFYxcmgyMTdzZ25N0gHkAUFVX3lxTE55NkxTcUFHTE9RcTZhRjktT0Y0LU9YbGVRc2hkTkNkY2xxWTJ2Yll1eXpCOUxPaUFjOGQ2Z3hvQ19WOHNjMDU1OHJMSEQxNk9oVlJYYWFhUnlrQkxGUjg0MDhxSk5fNkRhazhWM08zRFJQVjRVNmpvaGNtcmVjeV92aXVPNDFGR0RQTl9pZmlxSW1SdmhyeHFvckFaSk96c2hxb201VXZKeVB6cml6dzBmZGFvSGVJOTU2ZnlKRTBhSWR4M0JxUmtieXJGYzhLcUprNHlscE41MHBiV0NYUy1zRklFRg?oc=5
+- Lok Sabha Passes Bill To Allow Charges On UPI, Other Digital Payments - NDTV
+  Lok Sabha Passes Bill To Allow Charges On
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0dGRkQzT2MzWElYVEVXZXF4bWMzMi1WaXBMQ0xfeW9aeVNJb3ZiYW5UMmk5aXdvLXN6N2t2MVVPMVFydVJ5QWd0bXowa2lvQmVBRzhGX0ZTclViRDVya2FvaV9XbWM1bzV1eUNXaHdCQ3RKYUVyQnNYdjRnNEd4bzI1UV9EbVFMYW12ZjUzWnlMV0JManFpX1NzMkN6djlSckdJd0ZoQ1loZGpVZnfSAbYBQVVfeXFMUEs3NGJzS0hTWHh3Q2ZHeGNldzVNdXgwQWFkSXBJRjdTVXNQdTJnUjJ1R2JvU0QxQnZva0p3M1dZb2ZpeXJWWWpXN2lDY3pDY2c0QmxTR3EtLXQzOFhfaW9ENS1YVW9JcDN6Z2I0bUM1ZmRzejJBQnBmSEVaNjk5OFdVX2lPWmhCM1Z0UnJFblM1dV96ekVtYlU4cFdqSlRidUNYRTVJR0pnV3doVHF5NVVxaTVkWkE?oc=5
 
-- Cabinet approves GOBARdhan scheme marking defining moment in India’s clean energy journey - News On AIR
-  Cabinet approves GOBARdhan scheme marking defining
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQenlrT0FFZnF6TjFVaEt3T2JycjhKWkw5RXVvcXZfSm04aExkX1h1dERaSWdhVGNoSV9tRG1SMnRqLXNhNEFEczlyMHowSnZxZ1VENjVPdUR2cjNyWTNWR1V4bVpJT21yQ2g2N1BxVmFpUmRSa3R6eVE0TC1ISEtocHdYblZaR1g5dnVFNWw1Umh6R1JFQzctVkpIT0NJZkVIbjhJaUc3VS04V3JtVXAtRnZGV2M?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Hockey Punjab beat Hockey Karnataka 5–2 - Hockey India
-  Hockey Punjab beat Hockey
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMXRlNE9nSmFDQXhVU0c2WW9CQ0JMY3VORTZSeXlYOE1RSS1naE5PZVBucXRsaXhkd0wzeHZvcUs2M0RqOGNNR1VYUndWNEI3V0xFS0lsekJGZWVxdkFaMk5zcFRfT3UtcXYzSWNLbEJVcHU1M3ktY3Uyd1NqSl9LX0xvd1BVSHhNZ2ZGakJXY0lsbWRYWHFDdXUwQ0lueXc0Y0N1MjQxWVFLNWMzUm1WdEZQVk1SNERJSmRUT29pRzVobjJKZERSMTNOUmVQUUFZU1JRb3JDMHZqZVpkMGFvajhvY0VnWG1yOUptNjE4X01raFNvWDFjTw?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape - BBC
-  Indian journalist Tarun Tejpal sentenced to 10
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NDVIWmdyLWRmQVNxZHFBQTdvMDdtSjdmV3ZwZXdMSGIxcmN5U2N1OHFCYTIzOXgyVlNQV09SLVc1c0ROWFVtczRmTkZNRTMtSVM1bGhNNEhBdw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- "Indians Will Suffer": Shashi Tharoor Slams Centre On Foreign Funding Law - NDTV
-  "Indians Will Suffer": Shashi
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQYkpIdGktdnpzaDJVc2EwYWxkWml6QnBOV3lNcTZvdG44enh1X0lKY1hWQi14cy1wU3MyRmVRalBzNFJRQ3ZSX0hkV2VQRzNYZ2FzUl9zWm54VVlMVmNVZExzQkN4NU5XSnBieW85V3lUNVJTb1dDSlp1UW03ZlJ4UDd6RE5fa05BemgzTTB2SkQyS2lTTUFlRzNWeTBFNERYMWN4TXEtRGFtdVI1T0pDejVjQTZzRVlUVTE5bkFZbE5zdkpSNDZxOU10a9IB0wFBVV95cUxNVVF1ZWNiU2xYRXc1T2dUajJyMHZUNHhvdzIzZXduM3lhMVY3Zkg5YkV0b2ZoZTRqOTV1WDJ0azNkWEx6R2swSGNSNnQtcUNodEhscnFTRV90Y01SYlRpWGVyYllrbWdvY1ZSWTlFbVFLX3NEUkFrRGdnWDZIdzVJc1pJQzcza3VEaFpVLTBvcnJ4YWZWbF9tUGxwM2NDOUVTdTRYVUtWY2VPdF9MNVFWMUFYRVBCTzQ1VVE5NzhGRXRoczN2UkEtUnZieDRObWJtYkdJ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- India Responds After Pakistan Deploys Chinese SH-15 Howitzers Along Border - The Times of India
-  India Responds After Pakistan Deploys Chinese SH-15
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbFBtNFFxMXBnQ0trUEkwNURMbjRtenNEMEZudDRNWlRVbzhXUTBuSWl4d1I3MHVJc1VKRHpVTmlKTXd6bWRxZ0M2bUJKamo5NzJaWDd5ZW5SblhPRWVScWxlaE90ZGpiUjBabS1tQlhFV0x0QTR0UGNORHNPZFlqRkx5VzljREdNUnpTcXc3cXR3RHZUTU1kTnJEcWpzZ2ZGdVF3aFVGWE9adEt5Ynh3dlhjSTk5R3NKY2ZldC1DOGRLYXlweWRTTkFXVl81N01YalhOeFYxcmgyMTdzZ25N0gHkAUFVX3lxTE55NkxTcUFHTE9RcTZhRjktT0Y0LU9YbGVRc2hkTkNkY2xxWTJ2Yll1eXpCOUxPaUFjOGQ2Z3hvQ19WOHNjMDU1OHJMSEQxNk9oVlJYYWFhUnlrQkxGUjg0MDhxSk5fNkRhazhWM08zRFJQVjRVNmpvaGNtcmVjeV92aXVPNDFGR0RQTl9pZmlxSW1SdmhyeHFvckFaSk96c2hxb201VXZKeVB6cml6dzBmZGFvSGVJOTU2ZnlKRTBhSWR4M0JxUmtieXJGYzhLcUprNHlscE41MHBiV0NYUy1zRklFRg?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Cabinet approves GOBARdhan scheme marking defining moment in India’s clean energy journey - News On AIR
-  Cabinet approves GOBARdhan scheme marking defining
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQenlrT0FFZnF6TjFVaEt3T2JycjhKWkw5RXVvcXZfSm04aExkX1h1dERaSWdhVGNoSV9tRG1SMnRqLXNhNEFEczlyMHowSnZxZ1VENjVPdUR2cjNyWTNWR1V4bVpJT21yQ2g2N1BxVmFpUmRSa3R6eVE0TC1ISEtocHdYblZaR1g5dnVFNWw1Umh6R1JFQzctVkpIT0NJZkVIbjhJaUc3VS04V3JtVXAtRnZGV2M?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Hockey Punjab beat Hockey Karnataka 5–2 - Hockey India
-  Hockey Punjab beat Hockey
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMXRlNE9nSmFDQXhVU0c2WW9CQ0JMY3VORTZSeXlYOE1RSS1naE5PZVBucXRsaXhkd0wzeHZvcUs2M0RqOGNNR1VYUndWNEI3V0xFS0lsekJGZWVxdkFaMk5zcFRfT3UtcXYzSWNLbEJVcHU1M3ktY3Uyd1NqSl9LX0xvd1BVSHhNZ2ZGakJXY0lsbWRYWHFDdXUwQ0lueXc0Y0N1MjQxWVFLNWMzUm1WdEZQVk1SNERJSmRUT29pRzVobjJKZERSMTNOUmVQUUFZU1JRb3JDMHZqZVpkMGFvajhvY0VnWG1yOUptNjE4X01raFNvWDFjTw?oc=5
-
-- Samsung Electronics launches next-generation AI memory technology - Reuters
-  Samsung Electronics launches next-
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5
-
-- Coastal connectivity, digital technology will be next growth phase for Indian ports: Railway Board official - thehindu.com
-  Coastal connectivity, digital technology will be next growth phase for
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNNGxFbWNDeVo0SThZTy1YekRQRHhOc2tyNXhWRmRxNTNVWWdWMlZWbTA0eGhUblZDSkFqVm9QdDlzX3ROa1hncHpMU1pTdzJiYnc2WE1xWnNDVjc1bnV3NW9aejdEdE9ZMEphT0hoR0hDNExDMy11eUdndHhJdW9oMks1LVZhWEZObFdXMlVhTTVEX0UxUnl3ekZjZ1U4YjNERHlrZU5KZjNpdTl2RFBnSDd3bERrczdhazVJNzd2Mk5QTWRVQThuT09jZDQ5cEwydVBza1Vma05OaDBNckxiZGg4OE5kMGVlTEJEaF9lWmlEenJJdVY2NktXQjJVWjVyXzJZTjJCb9IBjgJBVV95cUxNbFExTFRxSW4wcEZJVzlyQmQ5ZjBnUVRIamJ4MlJXbl9DWjdVYkVwZ3BEaEx1QjJmcEZTNXJVQmlWNjlYWWRGTHJ4b2xuR0kteG1aTk9qT09sOUVjNzJOY212Wkw4VFBCXzJlTjNZYjZpdmhfdkJtVS1fb01oczU2ZnlmVUJYNnZJS3BlMkxYWEJnWWhQYXpIbE00czdaTHhrZERrYTZfYlY5VDd0WXhTMkdqX1Z1dldLREQtcGtkck5pTWk2QVJQUkVoRVZVcV9rMTIxLU1Lai1KWl9ySXJzazh3OXpjSUJYRHRLc0tyQV9pQ1VJMFloZ1I5TFRlWEdEbVZwNzA5a0gzdTcwUXc?oc=5
-
-- Miniaturized laser technology paves the way for fundamental physics experiments in space - Phys.org
-  Miniaturized laser technology paves the way for
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUNuVTljOGhxU1FOWDd1dTJDYm5VYmZ0THZnZjI1ZF9CakpXX0pRdnJiRVBQaVFET2xsay1FRkt1VERSRm9pN0p1OVBmT2xKMzM4TmQ3dVFyTnRSSUNRZ05CVjYtTDc1aEJYb2taYmNmS0g0ai0tcU5CMlVuYm9fRnhNYTVvY0o4NWc?oc=5
-
-- AI models have been going rogue in tests – how worried should we be? - The Guardian
-  AI models have been going rogue in tests – how worried should we
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM?oc=5
-
-- Call for internship: Support WHO's work on assistive technology - World Health Organization (WHO)
-  Call for internship: Support WHO's work on assist
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHFEMk5wVm9yVXUwVWp6SXl2S1FxZmFDZTVfbllIMDZQdVpEMWY4eDhyZlNDYzNyQ0xKMk9zRnZVcFhuVl93NGE5ZnYxNG9YZ1BTeXFtNE5YMGJlSzloSGJRTEVYRndnbGJLRHc2OUc4cUg0NFJIdjA4MnB5WmRYeDZVYVhZekdaU1RDRVVGVUVsM1V6ODJsMWtmRzNOLUJOeGZ0aWl1eGM1dXBSeFE?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-06 13:56:09 UTC_
+_Last updated: 2026-08-06 23:58:20 UTC_
