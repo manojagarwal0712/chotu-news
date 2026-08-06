@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Akasa's Dube rejects market share chase, backs airport operators investing in airlines
+  Dube said the responsibility lies with regulators to establish and enforce appropriate safeguards.
+  🔗 https://www.livemint.com/companies/news/akasa-air-vinay-dube-market-share-chase-airport-operators-investing-in-airlines-profitability-focus-11785941773235.html
+
+- NIIF’s India-Japan Fund gears up for faster climate bets in next 18-24 months
+  The National Infrastructure Investment Fund (NIIF) is a government-anchored infrastructure investment platform. It manages about $5
+  🔗 https://www.livemint.com/companies/news/national-investment-and-infrastructure-fund-india-japan-fund-climate-opportunities-infrastructure-investment-niif-ijf-11785920390760.html
+
+- Etsy lays off 12% of worker as part of restructuring plan
+  Etsy lays off 12%
+  🔗 https://www.livemint.com/companies/etsy-lays-off-12-of-worker-as-part-of-restructuring-plan-11785960415738.html
+
 - Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show
   Microsoft Corp. generates most of its artificial intelligence revenue from OpenAI
   🔗 https://www.livemint.com/companies/microsofts-ai-sales-mostly-come-from-openai-disclosures-show-11785955472083.html
@@ -8,37 +20,25 @@
   Disney reported a third quarter net profit of $2.6 billion. That's roughly half the level recorded a year earlier
   🔗 https://www.livemint.com/companies/company-results/disney-beats-profit-estimates-on-strong-theme-parks-streaming-growth-announces-tiktok-partnership-shares-rise-3-11785950770318.html
 
-- Vi needs periodic tariff hikes to sustain 5G investment: Kumar Mangalam Birla
-  Vodafone Idea's Chairman emphasized the necessity of a tariff increase to support network investments. The company aims to enhance customer growth and operational performance while contributing to India's digital
-  🔗 https://www.livemint.com/companies/people/vi-needs-periodic-tariff-hikes-to-sustain-5g-investment-kumar-mangalam-birla-11785950857987.html
+- From Gift Nifty to crude oil prices: 7 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around the 24,652 level, a premium of nearly 4 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11785978096248.html
 
-- Berger Paints sees strong demand, monsoon driving growth in FY27
-  Berger Paints expects double-digit revenue growth to continue through the year.
-  🔗 https://www.livemint.com/companies/company-results/berger-paints-sees-strong-demand-monsoon-driving-growth-in-fy27-11785944658652.html
+- FIIs up stakes in these 3 ethanol stocks as India pushes E20 fuel goals
+  Foreign investors are building positions in key sugar mills, distilleries, and plant suppliers
+  🔗 https://www.livemint.com/market/stock-market-news/ethanol-stocks-e20-fuel-ethanol-blending-11785934018036.html
 
-- Kim Kardashian's SKIMS to enter Indian market through Reliance; First stores to open in Delhi, Mumbai
-  The brand's first stores in the country will open in Delhi and Mumbai. As part of the partnership, Reliance Brands will operate SK
-  🔗 https://www.livemint.com/companies/news/kim-kardashians-skims-to-enter-indian-market-through-reliance-first-stores-to-open-in-delhi-mumbai-11785944417234.html
+- Day Traders Hammered by Stock Market Slump Double Down in Taiwan
+  Dorian Hsu borrowed $62,000 through an unsecured loan to double down on leveraged bets tied to the benchmark index. The 33-year-old office worker
+  🔗 https://www.livemint.com/market/day-traders-hammered-by-stock-market-slump-double-down-in-taiwan-11785979663556.html
 
-- Treasury yields fall as oil dips on Strait of Hormuz hopes
-  Treasury yields fall as oil dips on
-  🔗 https://www.livemint.com/market/treasury-yields-fall-as-oil-dips-on-strait-of-hormuz-hopes-11785956691711.html
+- Juniper Green Energy IPO listing today. Will the renewable energy player deliver gains? Here's what GMP, experts signal
+  According to market observers, shares of the company are available at a premium of  ₹13 in
+  🔗 https://www.livemint.com/market/stock-market-news/juniper-green-energy-ipo-listing-today-will-the-renewable-energy-player-deliver-gains-heres-what-gmp-experts-signal-11785949568175.html
 
-- LIC share sale ends with partial retail subscription
-  India's $3.3 billion stake sale in LIC saw lower retail demand. Bids covering only 69
-  🔗 https://www.livemint.com/market/stock-market-news/lic-share-sale-ends-with-partial-retail-subscription-11785950528341.html
-
-- Gold, silver prices today: Comex gold jumps $173, silver hits $63 as US-Iran peace hopes lift sentiment
-  Comex gold reached $4,325 while silver climbed to $63. A weaker US dollar also supported demand for these precious metals.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-jumps-173-silver-hits-63-as-us-iran-peace-hopes-lift-sentiment-11785946064993.html
-
-- 'CAS isn't a bad idea, but...': Why Nithin Kamath says India's closing auction is exposing deeper market cracks
-  Nithin Kamath, CEO of Zerodha, commented on BSE and NSE's new Closing Auction Session (CAS) Kamath: While it's a good idea, recent price swings reveal
-  🔗 https://www.livemint.com/market/stock-market-news/cas-isnt-a-bad-idea-but-nithin-kamath-says-indias-closing-auction-is-exposing-deeper-market-cracks-heres-why-11785946981171.html
-
-- SpaceX's lockup expiry tomorrow could trigger record insider selling: 'We're in uncharted waters'
-  SpaceX faces a significant test as its IPO lockup period expires. The
-  🔗 https://www.livemint.com/market/stock-market-news/spacexs-lockup-expiry-tomorrow-could-trigger-record-insider-selling-were-in-uncharted-waters-11785939875384.html
+- MV Electrosystems IPO listing date today. Here’s what GMP, experts hint on share debut
+  MV Electrosystems IPO is set to list today at 10:00 IST on BSE and NSE. The IPO received strong subscription, attracting 188.85 times bids.
+  🔗 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-allotment-status-mv-electrosystems-ipo-gmp-mv-electrosystems-ipo-listing-date-mv-electrosystems-11785942587365.html
 
 - AI emerges as decision engine for finance, with governance and data quality key to unlocking value: KPMG
   Active AI use across finance has more than doubled in two years. More than three-fourths of organisations are leveraging AI in financial planning, reporting and commercial analysis.
@@ -60,25 +60,37 @@
   OpenAI, Anthropic
   🔗 https://www.livemint.com/technology/openai-anthropic-ai-agents-implicated-in-new-security-breaches-11785890464047.html
 
-- SpaceX draws retail investors despite fall in shares post earnings
-  SpaceX shares experienced a notable decline, falling below one hundred ten dollars. Individual traders purchased over twenty-two million dollars worth of stock. The company reported increased AI revenue and new cloud agreements.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-draws-retail-investors-despite-fall-in-shares-post-earnings/articleshow/132956840.cms
+- Rupee gains 26 paise to close at 95.11 against the US dollar
+  The Indian rupee gained twenty-six paise on Wednesday, ending the session at ninety-five point eleven per dollar. This positive movement was aided by a decrease in oil prices. In addition, the Reserve Bank of India opted to
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rupee-gains-26-paise-to-close-at-95-11-against-the-us-dollar/articleshow/132978987.cms
 
-- Circle shares fall nearly 4% as revenue miss overshadows quarterly profit beat
-  Circle's profits in the second quarter significantly outperformed expectations. Surge in USDC circulation, accompanied by a marked increase in onchain transaction activity, highlighted a positive trend.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/circle-shares-fall-nearly-4-as-revenue-miss-overshadows-quarterly-profit-beat/articleshow/132948385.cms
+- Hindalco breaks out of key reversal pattern; SMC Global sees further upside
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/hindalco-breaks-out-of-key-reversal-pattern-smc-global-sees-further-upside/videoshow/132901839.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Indian equities ended marginally higher despite sharp swings driven by closing auction session confusion. Realty, auto and metal stocks outperformed, while analysts expect Nifty to remain range-bound unless it
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132948002.cms
+- Govt mobilises Rs 31,552 crore via LIC offer for sale
+  The government successfully raised ₹31,552 crore through the Life Insurance Corp of India Offer for Sale. The issue saw strong participation from both retail and institutional investors. Non-retail investors subscribed more than three times their allocated portion
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-mobilises-rs-31552-crore-via-lic-offer-for-sale/articleshow/132978954.cms
 
-- US Treasury keeps coupon auction sizes steady
-  The US Treasury has announced it will keep its issuance of both coupon and floating-rate notes consistent for the upcoming quarters. Analysts suggest auction sizes will hold steady until next year, with a projected $125 billion in notes to be sold
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-keeps-coupon-auction-sizes-steady/articleshow/132946122.cms
+- Manipal Health lists at 11% premium
+  Manipal Health Enterprises celebrated a successful market entry on Wednesday. Their impressive initial public offering, valued at ₹9,275 crore, saw nearly five times subscription.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-lists-at-11-premium/articleshow/132978912.cms
 
-- DLF eyes Rs 1 lakh cr sales pipeline in 4-5 yrs, rules out REIT for now
-  DLF aims for a Rs one lakh crore sales pipeline over five years. Profitability is expected to nearly double from 2028 onwards from residential sales. Younger buyers and NRIs are increasingly contributing to the company's sales.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dlf-eyes-rs-1-lakh-cr-sales-pipeline-in-4-5-yrs-rules-out-reit-for-now/articleshow/132945987.cms
+- Molbio diagnostics' Rs 940 crore initial public offering opens August 10
+  The initial public offering price range for Molbio Diagnostics has been established. Subscription will begin on August 10. Kotak Mahindra Capital and IIFL Capital Services are the book-running lead managers.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-diagnostics-rs-940-crore-initial-public-offering-opens-august-10/articleshow/132978893.cms
+
+- Govt Disburses ₹276 Cr To Set Up Four AI Centres Of Excellence
+  Minister of state (MoS) for education Sukanta Majumdar yesterday informed the Parliament that the Union government has so far disb
+  🔗 https://inc42.com/buzz/govt-disburses-%e2%82%b9276-1-cr-to-set-up-four-ai-centres-of-excellence/
+
+- Skyroot Invites Bids To Raise $200 Mn At A Valuation Of $2 Bn
+  Skyroot Aerospace invites Bids To Raise $200 Mn At A Valuation Of $2 Bn. Skyroot raised $60 Mn at a unicorn valuation.
+  🔗 https://inc42.com/buzz/skyroot-invites-bids-to-raise-200-mn-at-a-valuation-of-2-bn/
+
+- Govt Operationalises New Framework To Spur Ecommerce Exports
+  More than a week after exempting B2B ecommerce exports from foreign direct investment (FDI) rules, the government has now notified.
+  🔗 https://inc42.com/buzz/govt-operationalises-new-framework-to-spur-ecommerce-exports/
 
 - Pinegap Nets $8 Mn From Stellaris & Others To Build An Agentic Platform For Market Analysts
   AI-powered equity research startup Pinegap has raised $8 Mn (over ₹76 Cr) in its Series A funding round.
@@ -88,45 +100,45 @@
   Beauty and personal care (BPC) brand Typsy Beauty has secured $2.1 million in a fresh funding round.
   🔗 https://inc42.com/buzz/bpc-brand-typsy-beauty-raises-%e2%82%b920-cr-to-double-down-on-quick-commerce-offline-retail/
 
-- Talks On MDR On UPI At A Premature Stage: RBI Governor Sanjay Malhotra
-  Amid heated debate over the imposition of merchant discount rates (MDR) on UPI transactions, the Reserve Bank of India’s (RBI
-  🔗 https://inc42.com/buzz/talks-on-mdr-on-upi-at-a-premature-stage-rbi-governor-sanjay-malhotra/
+- Breaking News Live August 6: Bangladesh slams Sheikh Hasina’s virtual media address from Delhi, says it could harm India ties - The Times of India
+  Bangladesh slams Sheikh Hasina’s virtual media address from Delhi, says it could harm India
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3VMM1pqenNoeE1qN1kyOFJTMXR3ckpzNy0wUXhGTGZRREJ1WGdVbkxGMkdIcjBjdG8tUENNWUdZSVFtRDBFeHNKOFAydVNaZXBDSmVfdXNlVnh0Rm1Ba2tpbHB5eTVmVGNja0l4cUhLVElRa0pvT3FycVFQMnZPV0ZMUVlMNEN3WDZTRERUWndlZ3Z2N1ZqTzl5NE9HdG5BMEgzTENFeVh0WTRCQXlmWjhSa9IBuAFBVV95cUxNS3FDSUNlZEE0NnZzM0M3ZHJ6R21xT0xRaUVZMkZrSVJuUldXRS1zOTlDZlUzV2pvbGMtS0dSUU1wbHotNWhRMUdyVXBOaXRCM0hoaExJY3IzVFJIelNMNGFfaHFtNk53aHFLR3JRbmtPSTFGM1J5V3Uwa1E1NUlqR00wLWhQMHJXazBEUC1qTElzY0lJX3RfTHRJV2RVNWNnYUk2OVVGRVhhcGpoT2JST1NhOWFza1Ro?oc=5
 
-- Reliance Retail Acquires Fashion Discovery Platform Furrl
-  Reliance Retail has acquired Bengaluru-based fashion discovery platform Furrl in an all-cash deal for an undisclosed sum.
-  🔗 https://inc42.com/buzz/reliance-retail-acquires-fashion-discovery-platform-furrl/
+- 'May Get Jailed Or Killed': Sheikh Hasina Vows December Return To Bangladesh - ndtv.com
+  'May Get Jailed Or Killed': Sheikh Has
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFpPdDREUHBWZDN2ZlVSMUFpU2d1RHhOUFBXM3dvUjQweVhRemRJZUFVWFZvd3lBU2JiWldKaW9aNDd4SXZETlFmLVZNZk9xVmpfcmVOaDRCMVZuQkRmeGNoOFZUU0p1bFlPYktZd2lFMkJGUFJjbUw1X1B2MjhLSm9DYUNwdzc1elVCNTJkU0N0ZzjSAZsBQVVfeXFMTXdHNWlrODNMS2VvVEgxX0lBQUx3VXF1OEtsVDVjN3dCZS1lNUhQZTQ4Y3ZxbEJJZ3VkakcyM0VNM19IN3BUTEpSd2h1YndrZmhyUzRtbXpxQW9wVFN3UDVncmpVcHpJOWE2Um5OV1FRekRKMFR0VmpRdjRIc1ZqLUZQQlRyandUTG9xSl9ldEI3eGdMUnl0N01tVXc?oc=5
 
-- ArisInfra Q1 Profit Surges 4X YoY To ₹20 Cr, Revenue Grows By 37%
-  ArisInfra Q3: Profit Surges 9X YoY To INR 18 Cr. B2B ecommerce company recorded a consolidated profit of ₹20 Cr in
-  🔗 https://inc42.com/buzz/arisinfra-q1-profit-surges-4x-yoy-to-%e2%82%b920-cr-revenue-grows-by-37/
+- How India-Bangladesh Ties Evolved Two Years After Sheikh Hasina's Ouster - ndtv.com
+  How India-Bangladesh Ties
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzRJc3l2bW1pelFRSkNlRzNXSXVOWks2bkkyN2xCQ2ZRazlwU3FMdWNudTNXbjhhVjBhMk1Uc0ZhcGlTdl9pazVXN2kwaTRsSXdVMi03em1veUoxdUxNRDc2UjVaazZ4SERNeE5LVHkzMXNoblZzT19LeV92M19LMktyVDFhcjJ1c0NTOVNNQ1VZUXdOeGdWYUFqT1ZCT1Fydm42aVdXMHBUWkh0bkFiekNn0gG6AUFVX3lxTE1CdDlHM2tnbXowVE5RSzhnVWJGa0lEcVdDUTRkSFNTenFJdDVBZkxEQ2c1UGI3bkJNTngzQ0hWLWNQMUNNcjB3S1NZcW9UZGFrUWhNdGdSYVZna2s3bHJvSHhkcE91Sjk3amxnR1czWEFKcE5xRjlENnJkNEVHWG5IZGFBNHd4ZjVLMWM2eS1lOFQxYllvdkwyY1ptSHNjSFZqb1c3Y0ZBaWE3bkdDc2VWZEdHWDM2cDVhQQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Cabinet secretary and home secretary get one-year extensions - The Times of India
+  Cabinet secretary and home secretary get one
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOdW1ZZWJWSVBELXJpcFhmX2FnMklaTUplcVlhRllVZUQyTXA2ZTZXTlNjN0dvUEpOQmxldE5Xbm0tWFA1MFdqOWllVFpuX3oxcjJ1NFVtWEpab0ktRUtkMGpTOXExN0hvQTktNlVLcXI0R3FNU3pmN2R0SmN0YjM3bE04VHk5bVZUTGpPWGxvVXpUX2lVVk9mWUYxSHVDa2t0SUNMcXplMkIySmsybDY4eFlNOUhBdzhrWkxCTncyRWVaSUtvMFU40gHMAUFVX3lxTE10MXZxNXk2Y0tJU3BfeGljc1RfZWNlV3IwZWU4ZVRkLXBneTB3dnJoQzM1b0lIc2lSQnlZWm1zUEdWRGFtSHZyZ0xtcGhacUtNQ3ZGSUhUX1RVQlYwQ3hlVmhYc1F1SWttQjl1a2U0M1J3ZV9WTmsyc0RwV0xSWWh3XzEwaThiaVl3Rk5wZVJ6UnR6emp0TEVlY0Q0ZkdVSW1zQkt4TG1ETU9ESHE2dTU3RjFrNzBjT0I2N29nSzBKUmlsU2NlbC1Vd0JFZA?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Education Minister Pralhad Joshi reviews key initiatives to strengthen India’s education sector - newsonair.gov.in
+  Education Minister Pralhad Joshi reviews key initiatives
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOMU9GX1NSU19td3l6enVvZGJoaF9vWld0TEd6S09raDZPOFJtZkw0Nmw4NGthUGE0aVNFaHM0VVFwdEdkYVJlN0FIMTU5YlM5bDNFLUNNdzZFVjdEZmE2c2U0Y3lRZ3VobnQ4S0ZtQzVHV3ZsSVAxaEFuRElLZHFiTTRNTUdyeksyU1JCRUxIWGNnVmRUYWMxbE9QeGYwUmNXbGhZS1NGTnJyT29CcEVwNmRBeXJkUjlibEIwcw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Breaking News Live August 6: Bangladesh slams Sheikh Hasina’s virtual media address from Delhi, says it could harm India ties - The Times of India
+  Bangladesh slams Sheikh Hasina’s virtual media address from Delhi, says it could harm India
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3VMM1pqenNoeE1qN1kyOFJTMXR3ckpzNy0wUXhGTGZRREJ1WGdVbkxGMkdIcjBjdG8tUENNWUdZSVFtRDBFeHNKOFAydVNaZXBDSmVfdXNlVnh0Rm1Ba2tpbHB5eTVmVGNja0l4cUhLVElRa0pvT3FycVFQMnZPV0ZMUVlMNEN3WDZTRERUWndlZ3Z2N1ZqTzl5NE9HdG5BMEgzTENFeVh0WTRCQXlmWjhSa9IBuAFBVV95cUxNS3FDSUNlZEE0NnZzM0M3ZHJ6R21xT0xRaUVZMkZrSVJuUldXRS1zOTlDZlUzV2pvbGMtS0dSUU1wbHotNWhRMUdyVXBOaXRCM0hoaExJY3IzVFJIelNMNGFfaHFtNk53aHFLR3JRbmtPSTFGM1J5V3Uwa1E1NUlqR00wLWhQMHJXazBEUC1qTElzY0lJX3RfTHRJV2RVNWNnYUk2OVVGRVhhcGpoT2JST1NhOWFza1Ro?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- 'May Get Jailed Or Killed': Sheikh Hasina Vows December Return To Bangladesh - ndtv.com
+  'May Get Jailed Or Killed': Sheikh Has
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFpPdDREUHBWZDN2ZlVSMUFpU2d1RHhOUFBXM3dvUjQweVhRemRJZUFVWFZvd3lBU2JiWldKaW9aNDd4SXZETlFmLVZNZk9xVmpfcmVOaDRCMVZuQkRmeGNoOFZUU0p1bFlPYktZd2lFMkJGUFJjbUw1X1B2MjhLSm9DYUNwdzc1elVCNTJkU0N0ZzjSAZsBQVVfeXFMTXdHNWlrODNMS2VvVEgxX0lBQUx3VXF1OEtsVDVjN3dCZS1lNUhQZTQ4Y3ZxbEJJZ3VkakcyM0VNM19IN3BUTEpSd2h1YndrZmhyUzRtbXpxQW9wVFN3UDVncmpVcHpJOWE2Um5OV1FRekRKMFR0VmpRdjRIc1ZqLUZQQlRyandUTG9xSl9ldEI3eGdMUnl0N01tVXc?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- How India-Bangladesh Ties Evolved Two Years After Sheikh Hasina's Ouster - ndtv.com
+  How India-Bangladesh Ties
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzRJc3l2bW1pelFRSkNlRzNXSXVOWks2bkkyN2xCQ2ZRazlwU3FMdWNudTNXbjhhVjBhMk1Uc0ZhcGlTdl9pazVXN2kwaTRsSXdVMi03em1veUoxdUxNRDc2UjVaazZ4SERNeE5LVHkzMXNoblZzT19LeV92M19LMktyVDFhcjJ1c0NTOVNNQ1VZUXdOeGdWYUFqT1ZCT1Fydm42aVdXMHBUWkh0bkFiekNn0gG6AUFVX3lxTE1CdDlHM2tnbXowVE5RSzhnVWJGa0lEcVdDUTRkSFNTenFJdDVBZkxEQ2c1UGI3bkJNTngzQ0hWLWNQMUNNcjB3S1NZcW9UZGFrUWhNdGdSYVZna2s3bHJvSHhkcE91Sjk3amxnR1czWEFKcE5xRjlENnJkNEVHWG5IZGFBNHd4ZjVLMWM2eS1lOFQxYllvdkwyY1ptSHNjSFZqb1c3Y0ZBaWE3bkdDc2VWZEdHWDM2cDVhQQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Cabinet secretary and home secretary get one-year extensions - The Times of India
+  Cabinet secretary and home secretary get one
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOdW1ZZWJWSVBELXJpcFhmX2FnMklaTUplcVlhRllVZUQyTXA2ZTZXTlNjN0dvUEpOQmxldE5Xbm0tWFA1MFdqOWllVFpuX3oxcjJ1NFVtWEpab0ktRUtkMGpTOXExN0hvQTktNlVLcXI0R3FNU3pmN2R0SmN0YjM3bE04VHk5bVZUTGpPWGxvVXpUX2lVVk9mWUYxSHVDa2t0SUNMcXplMkIySmsybDY4eFlNOUhBdzhrWkxCTncyRWVaSUtvMFU40gHMAUFVX3lxTE10MXZxNXk2Y0tJU3BfeGljc1RfZWNlV3IwZWU4ZVRkLXBneTB3dnJoQzM1b0lIc2lSQnlZWm1zUEdWRGFtSHZyZ0xtcGhacUtNQ3ZGSUhUX1RVQlYwQ3hlVmhYc1F1SWttQjl1a2U0M1J3ZV9WTmsyc0RwV0xSWWh3XzEwaThiaVl3Rk5wZVJ6UnR6emp0TEVlY0Q0ZkdVSW1zQkt4TG1ETU9ESHE2dTU3RjFrNzBjT0I2N29nSzBKUmlsU2NlbC1Vd0JFZA?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Education Minister Pralhad Joshi reviews key initiatives to strengthen India’s education sector - newsonair.gov.in
+  Education Minister Pralhad Joshi reviews key initiatives
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOMU9GX1NSU19td3l6enVvZGJoaF9vWld0TEd6S09raDZPOFJtZkw0Nmw4NGthUGE0aVNFaHM0VVFwdEdkYVJlN0FIMTU5YlM5bDNFLUNNdzZFVjdEZmE2c2U0Y3lRZ3VobnQ4S0ZtQzVHV3ZsSVAxaEFuRElLZHFiTTRNTUdyeksyU1JCRUxIWGNnVmRUYWMxbE9QeGYwUmNXbGhZS1NGTnJyT29CcEVwNmRBeXJkUjlibEIwcw?oc=5
 
 
-_Last updated: 2026-08-05 19:25:04 UTC_
+_Last updated: 2026-08-06 02:05:09 UTC_
