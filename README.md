@@ -1,44 +1,68 @@
 # 📰 Daily News Summaries
 
-- Akasa's Dube rejects market share chase, backs airport operators investing in airlines
-  Dube said the responsibility lies with regulators to establish and enforce appropriate safeguards.
-  🔗 https://www.livemint.com/companies/news/akasa-air-vinay-dube-market-share-chase-airport-operators-investing-in-airlines-profitability-focus-11785941773235.html
+- 'No Involvement, No Endorsement': India Distances Itself From Sheikh Hasina's Delhi Event - NDTV
+  'No Involvement, No Endorsement
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0JjaENrR294V1p6XzFlb0lJVVR4VlJFRkpJTTVfa0dlWFF3QUVXT0JrNlBDSVEwSUV5RDZvbFFSUzExOE52LWg1TjJDRnFRaXFxQUdmZ0dwVUloVG1Tdnp0ZHVxV1Q0OUJrSXh6NkVsTlAyRHRUXzBCZVozWEJralVYU0pfRFAxVHZNcFU5aGhxSVlja1dNeFdJNGxKblZvRFFjMU1TZ0lZOE1fT3JRdGVkRU1iUE5YVHd0YzR5V1oyMGvSAcsBQVVfeXFMUHFkN05aYTREU0tqNWFEVGlVbm1WeWhoNkc1ajM3VGpNSDhtQ1R6c0xNQkNoN3E2OW11U25hYU9PNlJMMkFtZUdtaEdNT0hfY1ViOWdkTERDYllXSldNbW5JNXVsNzRoUGhrNW44dUc0aG9fek9WRHFqalYtZzBUZnNCLUx0UmlkZFBGakdNVjZMSjRUWW5zMHJtTzJTM1E1ZnZySFMwNVlMcHpMRXRKbDlXMVBBZTdxWHcyeTVuVjNjemtQaGo2ZnhwbFk?oc=5
 
-- NIIF’s India-Japan Fund gears up for faster climate bets in next 18-24 months
-  The National Infrastructure Investment Fund (NIIF) is a government-anchored infrastructure investment platform. It manages about $5
-  🔗 https://www.livemint.com/companies/news/national-investment-and-infrastructure-fund-india-japan-fund-climate-opportunities-infrastructure-investment-niif-ijf-11785920390760.html
+- Tewolde Gebremariam Is Air India's New CEO After Campbell Wilson's Exit - NDTV
+  Tewolde Gebremariam
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU1Cd0x5TF95VmRvTVlFRk9IZmJQNjlHWXNXTzZTeTdnZ3JScjM2TGt4eldLV0tLZHEyaHBxY0ppZGhEZkRoMDRnclRrdVJya3p4eTVSaWxlS0xVcktURnA4QnZtQTljRmZINWFOTUhOZ1lyeEJhX29tcTZwb01GLURmUENhSWJSekJsNHBEcy1faEkxcWVZR2t3TFhPWUZJZnJ3S1p4V3cwcHEtTUlV0gG3AUFVX3lxTFBVSU02N2xNZnkzQ25jSXYwY2ZYMmNaWklGMnQxR0MyaElUOXh2OGZmWkZaNmxCTnBzci1fUEhFeHFFN1FXcnQ5Y1VOSjNNaWFrUEtCbl9xSEtFSl83UWQ0UndGb0MwZ29oREU0VTBCdkhXZ19sVm4zMFZkSUpITlA3U18tTC1YbE9RSHNfOU1qcG5MUFVjdzlQNWdvMWd5V0l0bGx1RFJROEF3cXlDOWNweVJaQVJKVQ?oc=5
 
-- Etsy lays off 12% of worker as part of restructuring plan
-  Etsy lays off 12%
-  🔗 https://www.livemint.com/companies/etsy-lays-off-12-of-worker-as-part-of-restructuring-plan-11785960415738.html
+- Tewolde Gebremariam: Air India's new CEO faces financial and safety turbulence - BBC
+  Tewolde Gebremariam
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tdWVaQlVBRGlwRXFWUmdxQU5DN09MbTFSdk1NVkdzZ1pUdDR1VVlzcURhZmdhTWdLWG81cU04OGpwX0wtcjJrYnlpNXZoQnRIVFFKa1pOYk5Qdw?oc=5
 
-- Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show
-  Microsoft Corp. generates most of its artificial intelligence revenue from OpenAI
-  🔗 https://www.livemint.com/companies/microsofts-ai-sales-mostly-come-from-openai-disclosures-show-11785955472083.html
+- Air India appoints Tewolde Gebremariam as Chief Executive Officer and Managing Director | India News - Hindustan Times
+  Air India appoints Tewolde Gebremariam as
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZUc0dlpjQWloMWR5N3NNenp0VGJDVTZzWkRIbThiNWZvcm5TS19FQzhHRnlPV0MtX3BMOTJMc201eHlFUE5LekdoLVM0Ym13b1R6YkZDd2NDQU1xTU8taTU1dEpVWHNVTHowU1JDQzA5LU1XS1JodHBMMWJNVi1taUp2SHZKSHhLTjg5cnBUd1BVTHhUcVRjX3RlY1dBNkQyejdrdC1tcElrYXdNOFdQZVBsYW82R2ZnZWJPejM4TklYckpaSXA5ZE9SYUMxdExueFRxUlJTNW1KTjZXc0dPWnRTV23SAeoBQVVfeXFMTTVCTGtTSkZTTHh1VmhnWkNfVExDU2dnRFJGSjAwS2NaNjhtam4zOU90RzdiQVNyVEZoblVuVUxncHNVU2FuenZCUEFWaWtyNEVOOUxSRVFYb2wyM3dVY3BCSllkczc3ME9YMThPaEJGM3RNNUFqalh3YmxTbUd2Q0ZpNjZZN0JNdzREbmFfaklnaXMzQWlZeE1ORGN5TUF6R0dTRUlZTmhuWWdHXzJIUTlrWnV2RXNzRGlhZGdpT1pDQ1dHQWxtaWJEVlQyMFhoSGo5WVlEUWF6emVOX1BpUHI1Y1JyM1oxTXl3?oc=5
 
-- Disney beats profit estimates on strong theme parks &amp; streaming growth, announces TikTok partnership, shares rise 3.65%
-  Disney reported a third quarter net profit of $2.6 billion. That's roughly half the level recorded a year earlier
-  🔗 https://www.livemint.com/companies/company-results/disney-beats-profit-estimates-on-strong-theme-parks-streaming-growth-announces-tiktok-partnership-shares-rise-3-11785950770318.html
+- BJP MP Nishikant Dubey calls Meta CEO Mark Zuckerberg’s apology a victory for India’s laws - newsonair.gov.in
+  BJP MP Nishikant Dubey calls Meta CEO Mark Zuckerberg
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUk4REs1LVNLZndpMGh2U3JvLWJTLTc3WFhHaG1GSXNDVzMzYWsyQWljNFp4TDM2STJOQm5EMlhXMEN5R1hqX1haWjZWLS1UN2ZUS0JSMGl0dEZVanZsNnpqZXREaElRV1hBa0d1SHc2S3UtZFI1aGVxRjl0SllXdjY5X1RrRDBDb2lEa2llMDZVQmJYSmxuNUFiZnRjbjhHakpmaGZxV2tHMDNQR1h0WmtfWXE?oc=5
 
-- From Gift Nifty to crude oil prices: 7 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around the 24,652 level, a premium of nearly 4 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11785978096248.html
+- Omnivore bets big on deep science, agrifood consumer brands with remaining Fund III capital
+  Omnivore will deploy most of its remaining Fund III capital into deep science and agrifood consumer brands as it prepares for Fund
+  🔗 https://www.livemint.com/companies/omnivore-venture-capital-agrifood-deeptech-consumer-brands-physical-ai-robotics-fund-iii-mark-kahn-11785986724498.html
 
-- FIIs up stakes in these 3 ethanol stocks as India pushes E20 fuel goals
-  Foreign investors are building positions in key sugar mills, distilleries, and plant suppliers
-  🔗 https://www.livemint.com/market/stock-market-news/ethanol-stocks-e20-fuel-ethanol-blending-11785934018036.html
+- 'Rotten to its core': OpenAI asks judge to throw out Apple's lawsuit
+  OpenAI has requested a federal judge to dismiss Apple's lawsuit claiming trade secret theft. Apple
+  🔗 https://www.livemint.com/companies/news/rotten-to-its-core-openai-asks-judge-to-throw-out-apples-lawsuit-11785998214737.html
 
-- Day Traders Hammered by Stock Market Slump Double Down in Taiwan
-  Dorian Hsu borrowed $62,000 through an unsecured loan to double down on leveraged bets tied to the benchmark index. The 33-year-old office worker
-  🔗 https://www.livemint.com/market/day-traders-hammered-by-stock-market-slump-double-down-in-taiwan-11785979663556.html
+- From weddings to everyday wear, Kalyan widens its jewellery play
+  Candere is being built around lightweight, gifting and everyday collections. Akshaya Thanga Maaligai (ATM) brand is aimed exclusively at customers seeking
+  🔗 https://www.livemint.com/companies/kalyan-jewellers-multi-brand-strategy-candere-atm-growth-plan-11785988653837.html
 
-- Juniper Green Energy IPO listing today. Will the renewable energy player deliver gains? Here's what GMP, experts signal
-  According to market observers, shares of the company are available at a premium of  ₹13 in
-  🔗 https://www.livemint.com/market/stock-market-news/juniper-green-energy-ipo-listing-today-will-the-renewable-energy-player-deliver-gains-heres-what-gmp-experts-signal-11785949568175.html
+- KKR acquires India biz of Stockholm-based Medicover
+  KKR has acquired Medicover India's 24-hospital network. The deal underscores rising private equity interest in hospitals.
+  🔗 https://www.livemint.com/companies/kkr-acquires-medicover-india-hospitals-healthcare-sector-consolidation-11785997845328.html
 
-- MV Electrosystems IPO listing date today. Here’s what GMP, experts hint on share debut
-  MV Electrosystems IPO is set to list today at 10:00 IST on BSE and NSE. The IPO received strong subscription, attracting 188.85 times bids.
-  🔗 https://www.livemint.com/market/ipo/mv-electrosystems-ipo-allotment-status-mv-electrosystems-ipo-gmp-mv-electrosystems-ipo-listing-date-mv-electrosystems-11785942587365.html
+- France is banning unsolicited telemarketing calls starting next week
+  France is banning uns
+  🔗 https://www.livemint.com/companies/france-is-banning-unsolicited-telemarketing-calls-starting-next-week-11785991333562.html
+
+- Small-cap stock jumps 3% following Indian stock market rebound
+  Small-cap stock Ashika Global Securities opened at  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-ashika-global-securities-jumps-3-following-indian-stock-market-rebound-11786002611922.html
+
+- Paytm shares rise despite Mauritius-based FII booking partial profit in fintech company
+  Elevation Capital reduced its stakes through a block deal worth  ₹2,038 crore. The National Pension System Trust emerged as the largest buyer.
+  🔗 https://www.livemint.com/market/paytm-shares-rise-despite-mauritius-based-fii-booking-partial-profit-in-fintech-company-11786000165300.html
+
+- Why Berger Paints’ Q2 may be brighter than Asian Paints'
+  Berger and Asian Paints acknowledged intense competition in the paints market. New entrants like
+  🔗 https://www.livemint.com/market/mark-to-market/berger-paints-q2-earnings-berger-paints-share-price-berger-vs-asian-paints-11785995805398.html
+
+- Samvardhana Motherson International Q1 results 2026: Net profit rises 46% YoY to  ₹1,561 crore
+  Samvardhana Motherson International Q1 results 2026: Consolidated revenue from operations
+  🔗 https://www.livemint.com/market/stock-market-news/samvardhana-motherson-international-q1-results-2026-net-profit-46-yoy-to-1-561-crore-11785998162407.html
+
+- West Asia raw material shock hits India Inc harder than Russia-Ukraine war
+   Input costs now account for a bigger share of expenditure and sales than during the FY23 commodity spike. Stronger balance sheets and lower energy dependence cushion the
+  🔗 https://www.livemint.com/market/west-asia-conflict-hits-india-inc-margins-harder-than-russia-ukraine-war-june-quarter-raw-material-shock-11785989161794.html
+
+- Another AI agent goes rogue? Meta says its model hacked a company
+   Meta's AI models hacked into a third-party company during cybersecurity testing.
+  🔗 https://www.livemint.com/technology/tech-news/another-ai-agent-goes-rogue-meta-says-its-model-hacked-a-company-11785981040297.html
 
 - AI emerges as decision engine for finance, with governance and data quality key to unlocking value: KPMG
   Active AI use across finance has more than doubled in two years. More than three-fourths of organisations are leveraging AI in financial planning, reporting and commercial analysis.
@@ -56,89 +80,133 @@
   Europe's established tech firms emerge
   🔗 https://www.livemint.com/technology/europes-established-tech-firms-emerge-as-unexpected-ai-winners-11785909696992.html
 
-- OpenAI, Anthropic AI agents implicated in new security breaches
-  OpenAI, Anthropic
-  🔗 https://www.livemint.com/technology/openai-anthropic-ai-agents-implicated-in-new-security-breaches-11785890464047.html
+- Manipal Health shares slide 6% on account of profit booking. What should investors do?
+  Manipal Health Enterprises shares fell sharply on Thursday day after their strong market debut, triggering profit booking. Analysts remain constructive on the company's long-term prospects but advise fresh investors to wait for better entry levels.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/manipal-health-shares-slide-6-on-account-of-profit-booking-what-should-investors-do/articleshow/132990960.cms
 
-- Rupee gains 26 paise to close at 95.11 against the US dollar
-  The Indian rupee gained twenty-six paise on Wednesday, ending the session at ninety-five point eleven per dollar. This positive movement was aided by a decrease in oil prices. In addition, the Reserve Bank of India opted to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rupee-gains-26-paise-to-close-at-95-11-against-the-us-dollar/articleshow/132978987.cms
+- Deccan Gold Mines shares rally 13% after maiden gold doré production at Altyn Tor Project
+  Deccan Gold Mines shares surged over 13% after the company announced the production of its first gold doré at the Altyn Tor Gold Project in Kyrgyzstan.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/deccan-gold-mines-shares-rally-13-after-maiden-gold-dor-production-at-altyn-tor-project/articleshow/132990723.cms
 
-- Hindalco breaks out of key reversal pattern; SMC Global sees further upside
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/hindalco-breaks-out-of-key-reversal-pattern-smc-global-sees-further-upside/videoshow/132901839.cms
+- Swiggy shares jump nearly 3% as company targets Rs 10,000 crore adjusted EBITDA by FY31
+  Swiggy shares rose after the company unveiled an ambitious FY31 roadmap targeting Rs 10,000 crore in Adjusted EBITDA. It aims to more than triple consolidated GOV to Rs 2.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-nearly-3-as-company-targets-rs-10000-crore-adjusted-ebitda-by-fy31/articleshow/132990265.cms
 
-- Govt mobilises Rs 31,552 crore via LIC offer for sale
-  The government successfully raised ₹31,552 crore through the Life Insurance Corp of India Offer for Sale. The issue saw strong participation from both retail and institutional investors. Non-retail investors subscribed more than three times their allocated portion
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-mobilises-rs-31552-crore-via-lic-offer-for-sale/articleshow/132978954.cms
+- Explained: How AI-led Kospi, Nikkei selloff sparked record 15% drawdown in Asian funds in July
+  Asia's major multi-strategy funds suffered sharp July losses as an AI-linked stock selloff across Japan, South Korea and China erased much of their 2026 gains. Concerns over AI spending and Middle East tensions hit semiconductor
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/explained-how-ai-led-kospi-nikkei-selloff-sparked-record-15-drawdown-in-asian-funds-in-july/articleshow/132989783.cms
 
-- Manipal Health lists at 11% premium
-  Manipal Health Enterprises celebrated a successful market entry on Wednesday. Their impressive initial public offering, valued at ₹9,275 crore, saw nearly five times subscription.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-lists-at-11-premium/articleshow/132978912.cms
+- GIC subsidiary and promoter Sunu Mathew lead LEAP India’s pre-IPO placement round
+  KKR-backed LEAP India raised Rs 371.3 crore through a pre-IPO placement. The round saw participation from GIC subsidiary Gamnat Pte Ltd, Dymon
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gic-subsidiary-and-promoter-sunu-mathew-lead-leap-indias-pre-ipo-placement-round/articleshow/132988909.cms
 
-- Molbio diagnostics' Rs 940 crore initial public offering opens August 10
-  The initial public offering price range for Molbio Diagnostics has been established. Subscription will begin on August 10. Kotak Mahindra Capital and IIFL Capital Services are the book-running lead managers.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-diagnostics-rs-940-crore-initial-public-offering-opens-august-10/articleshow/132978893.cms
+- 'No Involvement, No Endorsement': India Distances Itself From Sheikh Hasina's Delhi Event - NDTV
+  'No Involvement, No Endorsement
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0JjaENrR294V1p6XzFlb0lJVVR4VlJFRkpJTTVfa0dlWFF3QUVXT0JrNlBDSVEwSUV5RDZvbFFSUzExOE52LWg1TjJDRnFRaXFxQUdmZ0dwVUloVG1Tdnp0ZHVxV1Q0OUJrSXh6NkVsTlAyRHRUXzBCZVozWEJralVYU0pfRFAxVHZNcFU5aGhxSVlja1dNeFdJNGxKblZvRFFjMU1TZ0lZOE1fT3JRdGVkRU1iUE5YVHd0YzR5V1oyMGvSAcsBQVVfeXFMUHFkN05aYTREU0tqNWFEVGlVbm1WeWhoNkc1ajM3VGpNSDhtQ1R6c0xNQkNoN3E2OW11U25hYU9PNlJMMkFtZUdtaEdNT0hfY1ViOWdkTERDYllXSldNbW5JNXVsNzRoUGhrNW44dUc0aG9fek9WRHFqalYtZzBUZnNCLUx0UmlkZFBGakdNVjZMSjRUWW5zMHJtTzJTM1E1ZnZySFMwNVlMcHpMRXRKbDlXMVBBZTdxWHcyeTVuVjNjemtQaGo2ZnhwbFk?oc=5
 
-- Govt Disburses ₹276 Cr To Set Up Four AI Centres Of Excellence
-  Minister of state (MoS) for education Sukanta Majumdar yesterday informed the Parliament that the Union government has so far disb
-  🔗 https://inc42.com/buzz/govt-disburses-%e2%82%b9276-1-cr-to-set-up-four-ai-centres-of-excellence/
+- Tewolde Gebremariam Is Air India's New CEO After Campbell Wilson's Exit - NDTV
+  Tewolde Gebremariam
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU1Cd0x5TF95VmRvTVlFRk9IZmJQNjlHWXNXTzZTeTdnZ3JScjM2TGt4eldLV0tLZHEyaHBxY0ppZGhEZkRoMDRnclRrdVJya3p4eTVSaWxlS0xVcktURnA4QnZtQTljRmZINWFOTUhOZ1lyeEJhX29tcTZwb01GLURmUENhSWJSekJsNHBEcy1faEkxcWVZR2t3TFhPWUZJZnJ3S1p4V3cwcHEtTUlV0gG3AUFVX3lxTFBVSU02N2xNZnkzQ25jSXYwY2ZYMmNaWklGMnQxR0MyaElUOXh2OGZmWkZaNmxCTnBzci1fUEhFeHFFN1FXcnQ5Y1VOSjNNaWFrUEtCbl9xSEtFSl83UWQ0UndGb0MwZ29oREU0VTBCdkhXZ19sVm4zMFZkSUpITlA3U18tTC1YbE9RSHNfOU1qcG5MUFVjdzlQNWdvMWd5V0l0bGx1RFJROEF3cXlDOWNweVJaQVJKVQ?oc=5
 
-- Skyroot Invites Bids To Raise $200 Mn At A Valuation Of $2 Bn
-  Skyroot Aerospace invites Bids To Raise $200 Mn At A Valuation Of $2 Bn. Skyroot raised $60 Mn at a unicorn valuation.
-  🔗 https://inc42.com/buzz/skyroot-invites-bids-to-raise-200-mn-at-a-valuation-of-2-bn/
+- Tewolde Gebremariam: Air India's new CEO faces financial and safety turbulence - BBC
+  Tewolde Gebremariam
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tdWVaQlVBRGlwRXFWUmdxQU5DN09MbTFSdk1NVkdzZ1pUdDR1VVlzcURhZmdhTWdLWG81cU04OGpwX0wtcjJrYnlpNXZoQnRIVFFKa1pOYk5Qdw?oc=5
 
-- Govt Operationalises New Framework To Spur Ecommerce Exports
-  More than a week after exempting B2B ecommerce exports from foreign direct investment (FDI) rules, the government has now notified.
-  🔗 https://inc42.com/buzz/govt-operationalises-new-framework-to-spur-ecommerce-exports/
+- Air India appoints Tewolde Gebremariam as Chief Executive Officer and Managing Director | India News - Hindustan Times
+  Air India appoints Tewolde Gebremariam as
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZUc0dlpjQWloMWR5N3NNenp0VGJDVTZzWkRIbThiNWZvcm5TS19FQzhHRnlPV0MtX3BMOTJMc201eHlFUE5LekdoLVM0Ym13b1R6YkZDd2NDQU1xTU8taTU1dEpVWHNVTHowU1JDQzA5LU1XS1JodHBMMWJNVi1taUp2SHZKSHhLTjg5cnBUd1BVTHhUcVRjX3RlY1dBNkQyejdrdC1tcElrYXdNOFdQZVBsYW82R2ZnZWJPejM4TklYckpaSXA5ZE9SYUMxdExueFRxUlJTNW1KTjZXc0dPWnRTV23SAeoBQVVfeXFMTTVCTGtTSkZTTHh1VmhnWkNfVExDU2dnRFJGSjAwS2NaNjhtam4zOU90RzdiQVNyVEZoblVuVUxncHNVU2FuenZCUEFWaWtyNEVOOUxSRVFYb2wyM3dVY3BCSllkczc3ME9YMThPaEJGM3RNNUFqalh3YmxTbUd2Q0ZpNjZZN0JNdzREbmFfaklnaXMzQWlZeE1ORGN5TUF6R0dTRUlZTmhuWWdHXzJIUTlrWnV2RXNzRGlhZGdpT1pDQ1dHQWxtaWJEVlQyMFhoSGo5WVlEUWF6emVOX1BpUHI1Y1JyM1oxTXl3?oc=5
 
-- Pinegap Nets $8 Mn From Stellaris & Others To Build An Agentic Platform For Market Analysts
-  AI-powered equity research startup Pinegap has raised $8 Mn (over ₹76 Cr) in its Series A funding round.
-  🔗 https://inc42.com/buzz/pinegap-nets-8-mn-from-stellaris-others-to-build-an-agentic-platform-for-market-analysts/
+- BJP MP Nishikant Dubey calls Meta CEO Mark Zuckerberg’s apology a victory for India’s laws - newsonair.gov.in
+  BJP MP Nishikant Dubey calls Meta CEO Mark Zuckerberg
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUk4REs1LVNLZndpMGh2U3JvLWJTLTc3WFhHaG1GSXNDVzMzYWsyQWljNFp4TDM2STJOQm5EMlhXMEN5R1hqX1haWjZWLS1UN2ZUS0JSMGl0dEZVanZsNnpqZXREaElRV1hBa0d1SHc2S3UtZFI1aGVxRjl0SllXdjY5X1RrRDBDb2lEa2llMDZVQmJYSmxuNUFiZnRjbjhHakpmaGZxV2tHMDNQR1h0WmtfWXE?oc=5
 
-- BPC Brand Typsy Beauty Raises ₹20 Cr To Double Down On Quick Commerce, Offline Retail
-  Beauty and personal care (BPC) brand Typsy Beauty has secured $2.1 million in a fresh funding round.
-  🔗 https://inc42.com/buzz/bpc-brand-typsy-beauty-raises-%e2%82%b920-cr-to-double-down-on-quick-commerce-offline-retail/
+- Piper Serica’s ₹800 Cr Bharat Tech Fund Hits First Close At ₹300 Cr
+  Mumbai-based asset management firm Piper Serica has achieved the first close of its ₹800 Cr Bharat Tech Fund.
+  🔗 https://inc42.com/buzz/piper-sericas-%e2%82%b9800-cr-bharat-tech-fund-hits-first-close-at-%e2%82%b9300-cr/
 
-- Breaking News Live August 6: Bangladesh slams Sheikh Hasina’s virtual media address from Delhi, says it could harm India ties - The Times of India
-  Bangladesh slams Sheikh Hasina’s virtual media address from Delhi, says it could harm India
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3VMM1pqenNoeE1qN1kyOFJTMXR3ckpzNy0wUXhGTGZRREJ1WGdVbkxGMkdIcjBjdG8tUENNWUdZSVFtRDBFeHNKOFAydVNaZXBDSmVfdXNlVnh0Rm1Ba2tpbHB5eTVmVGNja0l4cUhLVElRa0pvT3FycVFQMnZPV0ZMUVlMNEN3WDZTRERUWndlZ3Z2N1ZqTzl5NE9HdG5BMEgzTENFeVh0WTRCQXlmWjhSa9IBuAFBVV95cUxNS3FDSUNlZEE0NnZzM0M3ZHJ6R21xT0xRaUVZMkZrSVJuUldXRS1zOTlDZlUzV2pvbGMtS0dSUU1wbHotNWhRMUdyVXBOaXRCM0hoaExJY3IzVFJIelNMNGFfaHFtNk53aHFLR3JRbmtPSTFGM1J5V3Uwa1E1NUlqR00wLWhQMHJXazBEUC1qTElzY0lJX3RfTHRJV2RVNWNnYUk2OVVGRVhhcGpoT2JST1NhOWFza1Ro?oc=5
+- Netflix Launches India Creator Initiative As Ted Sarandos Bets Big On Local Content, AI
+  Netflix has launched the Netflix India Storytelling Initiative. The programme is aimed at training and supporting creators across animation, visual and storytelling.
+  🔗 https://inc42.com/buzz/netflix-launches-india-creator-initiative-as-ted-sarandos-bets-big-on-local-content-ai/
 
-- 'May Get Jailed Or Killed': Sheikh Hasina Vows December Return To Bangladesh - ndtv.com
-  'May Get Jailed Or Killed': Sheikh Has
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFpPdDREUHBWZDN2ZlVSMUFpU2d1RHhOUFBXM3dvUjQweVhRemRJZUFVWFZvd3lBU2JiWldKaW9aNDd4SXZETlFmLVZNZk9xVmpfcmVOaDRCMVZuQkRmeGNoOFZUU0p1bFlPYktZd2lFMkJGUFJjbUw1X1B2MjhLSm9DYUNwdzc1elVCNTJkU0N0ZzjSAZsBQVVfeXFMTXdHNWlrODNMS2VvVEgxX0lBQUx3VXF1OEtsVDVjN3dCZS1lNUhQZTQ4Y3ZxbEJJZ3VkakcyM0VNM19IN3BUTEpSd2h1YndrZmhyUzRtbXpxQW9wVFN3UDVncmpVcHpJOWE2Um5OV1FRekRKMFR0VmpRdjRIc1ZqLUZQQlRyandUTG9xSl9ldEI3eGdMUnl0N01tVXc?oc=5
+- [Update] Exclusive: HomeRun Raises $12 Mn To Scale Construction Materials Quick Commerce Platform
+  Construction delivery platform HomeRun raises $12 million from Nexus.
+  🔗 https://inc42.com/buzz/exclusive-homerun-in-talks-to-raise-%e2%82%b9100-cr-to-scale-its-quick-construction-delivery-platform/
 
-- How India-Bangladesh Ties Evolved Two Years After Sheikh Hasina's Ouster - ndtv.com
-  How India-Bangladesh Ties
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzRJc3l2bW1pelFRSkNlRzNXSXVOWks2bkkyN2xCQ2ZRazlwU3FMdWNudTNXbjhhVjBhMk1Uc0ZhcGlTdl9pazVXN2kwaTRsSXdVMi03em1veUoxdUxNRDc2UjVaazZ4SERNeE5LVHkzMXNoblZzT19LeV92M19LMktyVDFhcjJ1c0NTOVNNQ1VZUXdOeGdWYUFqT1ZCT1Fydm42aVdXMHBUWkh0bkFiekNn0gG6AUFVX3lxTE1CdDlHM2tnbXowVE5RSzhnVWJGa0lEcVdDUTRkSFNTenFJdDVBZkxEQ2c1UGI3bkJNTngzQ0hWLWNQMUNNcjB3S1NZcW9UZGFrUWhNdGdSYVZna2s3bHJvSHhkcE91Sjk3amxnR1czWEFKcE5xRjlENnJkNEVHWG5IZGFBNHd4ZjVLMWM2eS1lOFQxYllvdkwyY1ptSHNjSFZqb1c3Y0ZBaWE3bkdDc2VWZEdHWDM2cDVhQQ?oc=5
+- Shiprocket IPO To Open On August 12, Issue Size Cut To ₹1,617 Cr
+  Shiprocket IPO To Open On August 12, Issue Size Cut To ₹1,617 Cr. Shiprocket has filed the IPO to raise about $170 Mn.
+  🔗 https://inc42.com/buzz/shiprocket-ipo-to-open-on-august-12-issue-size-cut-to-%e2%82%b91617-cr/
 
-- Cabinet secretary and home secretary get one-year extensions - The Times of India
-  Cabinet secretary and home secretary get one
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOdW1ZZWJWSVBELXJpcFhmX2FnMklaTUplcVlhRllVZUQyTXA2ZTZXTlNjN0dvUEpOQmxldE5Xbm0tWFA1MFdqOWllVFpuX3oxcjJ1NFVtWEpab0ktRUtkMGpTOXExN0hvQTktNlVLcXI0R3FNU3pmN2R0SmN0YjM3bE04VHk5bVZUTGpPWGxvVXpUX2lVVk9mWUYxSHVDa2t0SUNMcXplMkIySmsybDY4eFlNOUhBdzhrWkxCTncyRWVaSUtvMFU40gHMAUFVX3lxTE10MXZxNXk2Y0tJU3BfeGljc1RfZWNlV3IwZWU4ZVRkLXBneTB3dnJoQzM1b0lIc2lSQnlZWm1zUEdWRGFtSHZyZ0xtcGhacUtNQ3ZGSUhUX1RVQlYwQ3hlVmhYc1F1SWttQjl1a2U0M1J3ZV9WTmsyc0RwV0xSWWh3XzEwaThiaVl3Rk5wZVJ6UnR6emp0TEVlY0Q0ZkdVSW1zQkt4TG1ETU9ESHE2dTU3RjFrNzBjT0I2N29nSzBKUmlsU2NlbC1Vd0JFZA?oc=5
+- Meta’s Zuck Apologises, PB Fintech Roars In Q1 & More
+  Meta has been pulled up by the Centre over content moderation lapses, including the recent removal of a controversial article.
+  🔗 https://inc42.com/buzz/metas-zuck-apologises-pb-fintech-roars-in-q1-more/
 
-- Education Minister Pralhad Joshi reviews key initiatives to strengthen India’s education sector - newsonair.gov.in
-  Education Minister Pralhad Joshi reviews key initiatives
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOMU9GX1NSU19td3l6enVvZGJoaF9vWld0TEd6S09raDZPOFJtZkw0Nmw4NGthUGE0aVNFaHM0VVFwdEdkYVJlN0FIMTU5YlM5bDNFLUNNdzZFVjdEZmE2c2U0Y3lRZ3VobnQ4S0ZtQzVHV3ZsSVAxaEFuRElLZHFiTTRNTUdyeksyU1JCRUxIWGNnVmRUYWMxbE9QeGYwUmNXbGhZS1NGTnJyT29CcEVwNmRBeXJkUjlibEIwcw?oc=5
+- 'No Involvement, No Endorsement': India Distances Itself From Sheikh Hasina's Delhi Event - NDTV
+  'No Involvement, No Endorsement
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0JjaENrR294V1p6XzFlb0lJVVR4VlJFRkpJTTVfa0dlWFF3QUVXT0JrNlBDSVEwSUV5RDZvbFFSUzExOE52LWg1TjJDRnFRaXFxQUdmZ0dwVUloVG1Tdnp0ZHVxV1Q0OUJrSXh6NkVsTlAyRHRUXzBCZVozWEJralVYU0pfRFAxVHZNcFU5aGhxSVlja1dNeFdJNGxKblZvRFFjMU1TZ0lZOE1fT3JRdGVkRU1iUE5YVHd0YzR5V1oyMGvSAcsBQVVfeXFMUHFkN05aYTREU0tqNWFEVGlVbm1WeWhoNkc1ajM3VGpNSDhtQ1R6c0xNQkNoN3E2OW11U25hYU9PNlJMMkFtZUdtaEdNT0hfY1ViOWdkTERDYllXSldNbW5JNXVsNzRoUGhrNW44dUc0aG9fek9WRHFqalYtZzBUZnNCLUx0UmlkZFBGakdNVjZMSjRUWW5zMHJtTzJTM1E1ZnZySFMwNVlMcHpMRXRKbDlXMVBBZTdxWHcyeTVuVjNjemtQaGo2ZnhwbFk?oc=5
 
-- Breaking News Live August 6: Bangladesh slams Sheikh Hasina’s virtual media address from Delhi, says it could harm India ties - The Times of India
-  Bangladesh slams Sheikh Hasina’s virtual media address from Delhi, says it could harm India
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3VMM1pqenNoeE1qN1kyOFJTMXR3ckpzNy0wUXhGTGZRREJ1WGdVbkxGMkdIcjBjdG8tUENNWUdZSVFtRDBFeHNKOFAydVNaZXBDSmVfdXNlVnh0Rm1Ba2tpbHB5eTVmVGNja0l4cUhLVElRa0pvT3FycVFQMnZPV0ZMUVlMNEN3WDZTRERUWndlZ3Z2N1ZqTzl5NE9HdG5BMEgzTENFeVh0WTRCQXlmWjhSa9IBuAFBVV95cUxNS3FDSUNlZEE0NnZzM0M3ZHJ6R21xT0xRaUVZMkZrSVJuUldXRS1zOTlDZlUzV2pvbGMtS0dSUU1wbHotNWhRMUdyVXBOaXRCM0hoaExJY3IzVFJIelNMNGFfaHFtNk53aHFLR3JRbmtPSTFGM1J5V3Uwa1E1NUlqR00wLWhQMHJXazBEUC1qTElzY0lJX3RfTHRJV2RVNWNnYUk2OVVGRVhhcGpoT2JST1NhOWFza1Ro?oc=5
+- Tewolde Gebremariam Is Air India's New CEO After Campbell Wilson's Exit - NDTV
+  Tewolde Gebremariam
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU1Cd0x5TF95VmRvTVlFRk9IZmJQNjlHWXNXTzZTeTdnZ3JScjM2TGt4eldLV0tLZHEyaHBxY0ppZGhEZkRoMDRnclRrdVJya3p4eTVSaWxlS0xVcktURnA4QnZtQTljRmZINWFOTUhOZ1lyeEJhX29tcTZwb01GLURmUENhSWJSekJsNHBEcy1faEkxcWVZR2t3TFhPWUZJZnJ3S1p4V3cwcHEtTUlV0gG3AUFVX3lxTFBVSU02N2xNZnkzQ25jSXYwY2ZYMmNaWklGMnQxR0MyaElUOXh2OGZmWkZaNmxCTnBzci1fUEhFeHFFN1FXcnQ5Y1VOSjNNaWFrUEtCbl9xSEtFSl83UWQ0UndGb0MwZ29oREU0VTBCdkhXZ19sVm4zMFZkSUpITlA3U18tTC1YbE9RSHNfOU1qcG5MUFVjdzlQNWdvMWd5V0l0bGx1RFJROEF3cXlDOWNweVJaQVJKVQ?oc=5
 
-- 'May Get Jailed Or Killed': Sheikh Hasina Vows December Return To Bangladesh - ndtv.com
-  'May Get Jailed Or Killed': Sheikh Has
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFpPdDREUHBWZDN2ZlVSMUFpU2d1RHhOUFBXM3dvUjQweVhRemRJZUFVWFZvd3lBU2JiWldKaW9aNDd4SXZETlFmLVZNZk9xVmpfcmVOaDRCMVZuQkRmeGNoOFZUU0p1bFlPYktZd2lFMkJGUFJjbUw1X1B2MjhLSm9DYUNwdzc1elVCNTJkU0N0ZzjSAZsBQVVfeXFMTXdHNWlrODNMS2VvVEgxX0lBQUx3VXF1OEtsVDVjN3dCZS1lNUhQZTQ4Y3ZxbEJJZ3VkakcyM0VNM19IN3BUTEpSd2h1YndrZmhyUzRtbXpxQW9wVFN3UDVncmpVcHpJOWE2Um5OV1FRekRKMFR0VmpRdjRIc1ZqLUZQQlRyandUTG9xSl9ldEI3eGdMUnl0N01tVXc?oc=5
+- Tewolde Gebremariam: Air India's new CEO faces financial and safety turbulence - BBC
+  Tewolde Gebremariam
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tdWVaQlVBRGlwRXFWUmdxQU5DN09MbTFSdk1NVkdzZ1pUdDR1VVlzcURhZmdhTWdLWG81cU04OGpwX0wtcjJrYnlpNXZoQnRIVFFKa1pOYk5Qdw?oc=5
 
-- How India-Bangladesh Ties Evolved Two Years After Sheikh Hasina's Ouster - ndtv.com
-  How India-Bangladesh Ties
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzRJc3l2bW1pelFRSkNlRzNXSXVOWks2bkkyN2xCQ2ZRazlwU3FMdWNudTNXbjhhVjBhMk1Uc0ZhcGlTdl9pazVXN2kwaTRsSXdVMi03em1veUoxdUxNRDc2UjVaazZ4SERNeE5LVHkzMXNoblZzT19LeV92M19LMktyVDFhcjJ1c0NTOVNNQ1VZUXdOeGdWYUFqT1ZCT1Fydm42aVdXMHBUWkh0bkFiekNn0gG6AUFVX3lxTE1CdDlHM2tnbXowVE5RSzhnVWJGa0lEcVdDUTRkSFNTenFJdDVBZkxEQ2c1UGI3bkJNTngzQ0hWLWNQMUNNcjB3S1NZcW9UZGFrUWhNdGdSYVZna2s3bHJvSHhkcE91Sjk3amxnR1czWEFKcE5xRjlENnJkNEVHWG5IZGFBNHd4ZjVLMWM2eS1lOFQxYllvdkwyY1ptSHNjSFZqb1c3Y0ZBaWE3bkdDc2VWZEdHWDM2cDVhQQ?oc=5
+- Air India appoints Tewolde Gebremariam as Chief Executive Officer and Managing Director | India News - Hindustan Times
+  Air India appoints Tewolde Gebremariam as
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZUc0dlpjQWloMWR5N3NNenp0VGJDVTZzWkRIbThiNWZvcm5TS19FQzhHRnlPV0MtX3BMOTJMc201eHlFUE5LekdoLVM0Ym13b1R6YkZDd2NDQU1xTU8taTU1dEpVWHNVTHowU1JDQzA5LU1XS1JodHBMMWJNVi1taUp2SHZKSHhLTjg5cnBUd1BVTHhUcVRjX3RlY1dBNkQyejdrdC1tcElrYXdNOFdQZVBsYW82R2ZnZWJPejM4TklYckpaSXA5ZE9SYUMxdExueFRxUlJTNW1KTjZXc0dPWnRTV23SAeoBQVVfeXFMTTVCTGtTSkZTTHh1VmhnWkNfVExDU2dnRFJGSjAwS2NaNjhtam4zOU90RzdiQVNyVEZoblVuVUxncHNVU2FuenZCUEFWaWtyNEVOOUxSRVFYb2wyM3dVY3BCSllkczc3ME9YMThPaEJGM3RNNUFqalh3YmxTbUd2Q0ZpNjZZN0JNdzREbmFfaklnaXMzQWlZeE1ORGN5TUF6R0dTRUlZTmhuWWdHXzJIUTlrWnV2RXNzRGlhZGdpT1pDQ1dHQWxtaWJEVlQyMFhoSGo5WVlEUWF6emVOX1BpUHI1Y1JyM1oxTXl3?oc=5
 
-- Cabinet secretary and home secretary get one-year extensions - The Times of India
-  Cabinet secretary and home secretary get one
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOdW1ZZWJWSVBELXJpcFhmX2FnMklaTUplcVlhRllVZUQyTXA2ZTZXTlNjN0dvUEpOQmxldE5Xbm0tWFA1MFdqOWllVFpuX3oxcjJ1NFVtWEpab0ktRUtkMGpTOXExN0hvQTktNlVLcXI0R3FNU3pmN2R0SmN0YjM3bE04VHk5bVZUTGpPWGxvVXpUX2lVVk9mWUYxSHVDa2t0SUNMcXplMkIySmsybDY4eFlNOUhBdzhrWkxCTncyRWVaSUtvMFU40gHMAUFVX3lxTE10MXZxNXk2Y0tJU3BfeGljc1RfZWNlV3IwZWU4ZVRkLXBneTB3dnJoQzM1b0lIc2lSQnlZWm1zUEdWRGFtSHZyZ0xtcGhacUtNQ3ZGSUhUX1RVQlYwQ3hlVmhYc1F1SWttQjl1a2U0M1J3ZV9WTmsyc0RwV0xSWWh3XzEwaThiaVl3Rk5wZVJ6UnR6emp0TEVlY0Q0ZkdVSW1zQkt4TG1ETU9ESHE2dTU3RjFrNzBjT0I2N29nSzBKUmlsU2NlbC1Vd0JFZA?oc=5
+- BJP MP Nishikant Dubey calls Meta CEO Mark Zuckerberg’s apology a victory for India’s laws - newsonair.gov.in
+  BJP MP Nishikant Dubey calls Meta CEO Mark Zuckerberg
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUk4REs1LVNLZndpMGh2U3JvLWJTLTc3WFhHaG1GSXNDVzMzYWsyQWljNFp4TDM2STJOQm5EMlhXMEN5R1hqX1haWjZWLS1UN2ZUS0JSMGl0dEZVanZsNnpqZXREaElRV1hBa0d1SHc2S3UtZFI1aGVxRjl0SllXdjY5X1RrRDBDb2lEa2llMDZVQmJYSmxuNUFiZnRjbjhHakpmaGZxV2tHMDNQR1h0WmtfWXE?oc=5
 
-- Education Minister Pralhad Joshi reviews key initiatives to strengthen India’s education sector - newsonair.gov.in
-  Education Minister Pralhad Joshi reviews key initiatives
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOMU9GX1NSU19td3l6enVvZGJoaF9vWld0TEd6S09raDZPOFJtZkw0Nmw4NGthUGE0aVNFaHM0VVFwdEdkYVJlN0FIMTU5YlM5bDNFLUNNdzZFVjdEZmE2c2U0Y3lRZ3VobnQ4S0ZtQzVHV3ZsSVAxaEFuRElLZHFiTTRNTUdyeksyU1JCRUxIWGNnVmRUYWMxbE9QeGYwUmNXbGhZS1NGTnJyT29CcEVwNmRBeXJkUjlibEIwcw?oc=5
+- 'No Involvement, No Endorsement': India Distances Itself From Sheikh Hasina's Delhi Event - NDTV
+  'No Involvement, No Endorsement
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0JjaENrR294V1p6XzFlb0lJVVR4VlJFRkpJTTVfa0dlWFF3QUVXT0JrNlBDSVEwSUV5RDZvbFFSUzExOE52LWg1TjJDRnFRaXFxQUdmZ0dwVUloVG1Tdnp0ZHVxV1Q0OUJrSXh6NkVsTlAyRHRUXzBCZVozWEJralVYU0pfRFAxVHZNcFU5aGhxSVlja1dNeFdJNGxKblZvRFFjMU1TZ0lZOE1fT3JRdGVkRU1iUE5YVHd0YzR5V1oyMGvSAcsBQVVfeXFMUHFkN05aYTREU0tqNWFEVGlVbm1WeWhoNkc1ajM3VGpNSDhtQ1R6c0xNQkNoN3E2OW11U25hYU9PNlJMMkFtZUdtaEdNT0hfY1ViOWdkTERDYllXSldNbW5JNXVsNzRoUGhrNW44dUc0aG9fek9WRHFqalYtZzBUZnNCLUx0UmlkZFBGakdNVjZMSjRUWW5zMHJtTzJTM1E1ZnZySFMwNVlMcHpMRXRKbDlXMVBBZTdxWHcyeTVuVjNjemtQaGo2ZnhwbFk?oc=5
+
+- Tewolde Gebremariam Is Air India's New CEO After Campbell Wilson's Exit - NDTV
+  Tewolde Gebremariam
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU1Cd0x5TF95VmRvTVlFRk9IZmJQNjlHWXNXTzZTeTdnZ3JScjM2TGt4eldLV0tLZHEyaHBxY0ppZGhEZkRoMDRnclRrdVJya3p4eTVSaWxlS0xVcktURnA4QnZtQTljRmZINWFOTUhOZ1lyeEJhX29tcTZwb01GLURmUENhSWJSekJsNHBEcy1faEkxcWVZR2t3TFhPWUZJZnJ3S1p4V3cwcHEtTUlV0gG3AUFVX3lxTFBVSU02N2xNZnkzQ25jSXYwY2ZYMmNaWklGMnQxR0MyaElUOXh2OGZmWkZaNmxCTnBzci1fUEhFeHFFN1FXcnQ5Y1VOSjNNaWFrUEtCbl9xSEtFSl83UWQ0UndGb0MwZ29oREU0VTBCdkhXZ19sVm4zMFZkSUpITlA3U18tTC1YbE9RSHNfOU1qcG5MUFVjdzlQNWdvMWd5V0l0bGx1RFJROEF3cXlDOWNweVJaQVJKVQ?oc=5
+
+- Tewolde Gebremariam: Air India's new CEO faces financial and safety turbulence - BBC
+  Tewolde Gebremariam
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tdWVaQlVBRGlwRXFWUmdxQU5DN09MbTFSdk1NVkdzZ1pUdDR1VVlzcURhZmdhTWdLWG81cU04OGpwX0wtcjJrYnlpNXZoQnRIVFFKa1pOYk5Qdw?oc=5
+
+- Air India appoints Tewolde Gebremariam as Chief Executive Officer and Managing Director | India News - Hindustan Times
+  Air India appoints Tewolde Gebremariam as
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZUc0dlpjQWloMWR5N3NNenp0VGJDVTZzWkRIbThiNWZvcm5TS19FQzhHRnlPV0MtX3BMOTJMc201eHlFUE5LekdoLVM0Ym13b1R6YkZDd2NDQU1xTU8taTU1dEpVWHNVTHowU1JDQzA5LU1XS1JodHBMMWJNVi1taUp2SHZKSHhLTjg5cnBUd1BVTHhUcVRjX3RlY1dBNkQyejdrdC1tcElrYXdNOFdQZVBsYW82R2ZnZWJPejM4TklYckpaSXA5ZE9SYUMxdExueFRxUlJTNW1KTjZXc0dPWnRTV23SAeoBQVVfeXFMTTVCTGtTSkZTTHh1VmhnWkNfVExDU2dnRFJGSjAwS2NaNjhtam4zOU90RzdiQVNyVEZoblVuVUxncHNVU2FuenZCUEFWaWtyNEVOOUxSRVFYb2wyM3dVY3BCSllkczc3ME9YMThPaEJGM3RNNUFqalh3YmxTbUd2Q0ZpNjZZN0JNdzREbmFfaklnaXMzQWlZeE1ORGN5TUF6R0dTRUlZTmhuWWdHXzJIUTlrWnV2RXNzRGlhZGdpT1pDQ1dHQWxtaWJEVlQyMFhoSGo5WVlEUWF6emVOX1BpUHI1Y1JyM1oxTXl3?oc=5
+
+- BJP MP Nishikant Dubey calls Meta CEO Mark Zuckerberg’s apology a victory for India’s laws - newsonair.gov.in
+  BJP MP Nishikant Dubey calls Meta CEO Mark Zuckerberg
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUk4REs1LVNLZndpMGh2U3JvLWJTLTc3WFhHaG1GSXNDVzMzYWsyQWljNFp4TDM2STJOQm5EMlhXMEN5R1hqX1haWjZWLS1UN2ZUS0JSMGl0dEZVanZsNnpqZXREaElRV1hBa0d1SHc2S3UtZFI1aGVxRjl0SllXdjY5X1RrRDBDb2lEa2llMDZVQmJYSmxuNUFiZnRjbjhHakpmaGZxV2tHMDNQR1h0WmtfWXE?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-06 02:05:09 UTC_
+_Last updated: 2026-08-06 08:28:57 UTC_
