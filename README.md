@@ -1,27 +1,27 @@
 # 📰 Daily News Summaries
 
+- India successfully test-fired medium-range ballistic missile Agni-4 from Integrated Test Range at Chandipur in Odisha - News On AIR
+  India successfully test-fired medium-range ballistic missile Agni-4 from
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMmZ5eUhfUmRkY1BoMEk1eGREcjJ6LTJGSi02R3ItRFJ1Q05TZ0o5Um9Ra3hGdURYUUhCbDFrZTdGX3JuUEtZdUFjSE5rdVZBQzVVNDVHc0tyT05tMzZaUlhzY0NBa1RnQjBhNkFRdnIzOEZtNDF5TWdsdGVOUDM5R1M4aEFGUkFIZUR0SVBZbkRKMHB5RWlxSTV0dEI5TlVPd3BZRXlRQmNhRi16YV8tUE1ySGl4M2UzaVhDY3h1aTBUT3FJOWs5ZXNUcWZzcklmT1hWTFV6azRtMjA?oc=5
+
+- Last Shot Fired In Bofors Legal Battle, Supreme Court Dismisses Final Appeal - NDTV
+  The Supreme Court has dismissed the final appeal against the
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnR2WXd0UUQ2eXJfZ1NzbTdIWjQwbzhoNHIxOENjZkROcVgwQWtmWHhvWnpBSnhQam5YTHdfTkVwZkNhaTVNRE5QNmEtblQ4NDR6M2xCSzNWSnAyZ2JfaWM3eGM2a3hlZEg4OW1JOWw5LVJvQlJCQXdLY2VGREw3VHExdWhKME83U1JKOVhfbVc1b05vVTQ5dnRKY3UzYmtOQTAtWkpESnRJYlVyNkYxSHUtUlh1NW_SAb8BQVVfeXFMTnBQemdRc25acGszY052QmxJemM2bm9Bc0xJVnlJWTI5Y3hULWpWRzl3aElBdkVINEotaTZQX1BGOTMtdmpILTVsdDFkLThtbWxKMUhXVExPMzFvbXdzTTNaR09SallsS19NQVp0M1VwaUFwYXY2ZXJoVGFOVkw1RERTMm9iaDNFLVJfY3VDc1hpUEQ2Mng2aGNaUWg3cG9UMVFUUXpLTWZhcTdtOFpFck5LNnNrckRKU1dCbVFkR1U?oc=5
+
 - Supreme Court on walking: India is a nation of walkers - but its cities forgot them - BBC
   India is a nation of walkers - but its cities forgot them.
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUU1ITGNVUmtzbTBwVHVnS0JqajN1aUYwbXBnRGFyN3c0SF9XNTFLNTFiTHJpU09rblJUQnFjWUJ2MVQ3WE9WRGlrT3JXRWZBMlotTk84emdyQQ?oc=5
 
-- Netanyahu Dials PM Modi, Discusses Middle East Situation, India-Israel Ties - NDTV
-  Netanyahu Dials PM Modi, Discuss
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEQtV1Y0aXNjaGRaWjRkSllhQy1ZdnNtMWtodXVsbHhkMDFXUjE3YmM4R200dVdKeThDc3hhdktUTXFDTEZ3cFVwTXY4UXRPN0FrV3RDSU5MYlV0MHNiT2IyTXhxQnc1SEVHbVpUZWp4SjBLU0l3OWRXMFpVb01LcWdMOW9lN0htNmVZTVNpNGphWFpxckVkMndabk9LU3V4a1JBU2FxVzRIdHNScDFvVThrMXhrRUpreVZ5Zi13dEYyeGNURVl2ckxTZDZGUEkySnfSAdoBQVVfeXFMTXJaYmFTbmxMdXdYbldvQkxiLXVCNWp4VWp3VnpUU1JnalpZd1V6VzlleXJQWGxxXzVmeFd0X29xckp6ai1UYVZXZ245bjRJSGY0eWE4VXlqV09CeS1VNDB1aVZ6QTZLSnJ6Wmc1elA1WWFuMVA2TXR1SmVEaUZPcUtjU3ZmcG11eGl2YmhUNXVHSFpoTXdleldNNjVVV0VXQVowMmhSUnFLTmJMZ3VMdElWcGpFRDNianRMUDhrdXY5d1A0QWRXS2RuX1pzOWNVbDFsUEZJLVNIX1E?oc=5
+- 100% tariffs: Why India may ignore Trump threat and continue buying Russian crude oil - timesofindia.indiatimes.com
+  The Indian government is considering imposing 100% tariffs on Russian crude
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRlFjc0pSdV9FYnN0ZUk4XzkxYVhPUFctS0RPRU9VNzQ2M1JteVdPQU10TUE5OGRnbkRrMlJjejdEeXozeWxJVmlpR0xnZ2hVVHRwS0lXbkR4R2Y1WThvcEFFQWIwYUpUOTRXOGVUa0VRcjVXVkZmZVM4Q1lWMThiNU9aM2Qzd0RQZGVWVi1xU3BnTFhOU3FwZTkyc0hWUzkzbm9kZWNuYzFsUEVMTkpuWXdTQ29nU3J1dktYc3Nxc2FtRVR4RzJxYnRsTFNUR3NwaFowLWRueHBkMTM1bnEzdkFQdUdwMVBQaGdDdUlkQVMtNVZzYzg2SW8tT3g?oc=5
 
-- Netanyahu calls PM Modi, discusses bilateral ties, West Asia situation - The Times of India
-  Netanyahu calls PM Modi, discusses bilateral ties, West
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHA4akx1OHdCemVJa08zUHQwaDNJV2NvZ1lkVXRTdC03LUFDMFQ5UkMwUkc5Ykgwcm16dmp6WE9vaWIxSzVtRnNxT0FxaTEwZ3d5X2M1Vk82V21jRml3MmZsZGhaUmo3NXBGUGRPOFBPV3RQWGF5OEFMUjR6N3g2SFl6QldFMEJXbWJEY2g0VVJiNWFfRHJWNjJ0X1NUX3YtYjJiREh6ZkpWMTBjUmg1aFNVQ3hjSmFMUk9DZjJBWVRNQjFPcFR6eDBYaUlzd9IB0wFBVV95cUxOWkZ0NC15UjI0RWx3SDg3NkVuZzhadmsybkt6eUtPazhjbUt6SmdnSXViWVNfSWhoUWxmcjNHSElMVEZUWHUyUFBaOEtXeWx5ZkFRdno3X1ZfaEhPTmJNbVdLbDN6Zi1XNVQycDVobGl2VVVRWmlSeE9CT09aczBaLU04NWluT25Va0N0OGhkbC02UU9PSVkzdGdwbk5PMm1sb28xa3V5M2gzZGlRQjBaQUdsZzlsVmlKSGVnd3k1Vk9qUFdHX0NKRW95TzhxN19NQkZ3?oc=5
+- India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi - The Guardian
+  India-Bangladesh relations hit new low over exiled PM
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQLTFEaXhnaVQ3RW5mb2xWdUlXWUpoZ3RnN1ZNTlgwYVMwa2liTmNfbkxLTmtXQkY3eGtLcHZ4RHVJVEF1SnRucXBYSGZtS1ZkR2JSenZHVHkwNlloY0gxUkw1ZFNmX3ZSTVpOZkVtZjE1TTlnWkIwZjk1TnV4ODN5OHBoX1RybmtGVmFXNDJKSFpnUUREQnJmRHljellsaFktci1aaGIyS2MyRDR6dGc?oc=5
 
-- PM Modi and Netanyahu review India-Israel Special Strategic Partnership - News On AIR
-  PM Modi and Netanyahu review India-Israel Special
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPM3NJY09YRzVCZkFTQ24xYXpDa2lXakFpWUMwZzQ3bWdPOEpsLVJqd0U3WlVsRmxWZFVWRTB0OWFhTXY3VFBFeGx1ZXNWaXNXa2E4bFVKaXFuRHJ3d3B0NWJrV1hnNjZmMVdmQTdvZFdKQWhDX2ZrUTFfZzRpc3g5cEFBU3dSOXI0WjNqeUZlMndwMXJqSGxhcGR2OWtVZw?oc=5
-
-- Lok Sabha Passes Bill To Allow Charges On UPI, Other Digital Payments - NDTV
-  Lok Sabha Passes Bill To Allow Charges On
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0dGRkQzT2MzWElYVEVXZXF4bWMzMi1WaXBMQ0xfeW9aeVNJb3ZiYW5UMmk5aXdvLXN6N2t2MVVPMVFydVJ5QWd0bXowa2lvQmVBRzhGX0ZTclViRDVya2FvaV9XbWM1bzV1eUNXaHdCQ3RKYUVyQnNYdjRnNEd4bzI1UV9EbVFMYW12ZjUzWnlMV0JManFpX1NzMkN6djlSckdJd0ZoQ1loZGpVZnfSAbYBQVVfeXFMUEs3NGJzS0hTWHh3Q2ZHeGNldzVNdXgwQWFkSXBJRjdTVXNQdTJnUjJ1R2JvU0QxQnZva0p3M1dZb2ZpeXJWWWpXN2lDY3pDY2c0QmxTR3EtLXQzOFhfaW9ENS1YVW9JcDN6Z2I0bUM1ZmRzejJBQnBmSEVaNjk5OFdVX2lPWmhCM1Z0UnJFblM1dV96ekVtYlU4cFdqSlRidUNYRTVJR0pnV3doVHF5NVVxaTVkWkE?oc=5
-
-- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - Al Jazeera
-  Al Jazeera reports that Palantir
+- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - aljazeera.com
+  Tech giant Palantir posts ‘
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01GRVZqRVFBMEtzTmpMczVIZVh4clg4MmpGekJzczVjQi1qUUVfOG4wZXlXY0d4aUFZRlNGUC14Y0V3ZVpRMnpDRkNtUnoyelFWOU9yOG9YVWotUEY2azFlTDJDZmkwUXlsMHFqSUxINGFJSlhiS0t0WVpvSDk0dVdiMThycnVPbWwzMlkycmJoeDVMTlFvdGZ0aS1FamRERTVsLWhaVHVreHFGX2k1QnVpUdIBuAFBVV95cUxNVzl5dHI4Q3UzaXZtTFN6UWdVcjVZeTEyMDJwMnJKZFlqbUVaMlJfSF9GclZfRUh4elFFUExNZDdxc1B5NkRRaV9KcGV4QzZ0TWlNM2dWMGY5VmxSUllzTElZRE96dnFKeTJMNXNfX19Kc054SEFlWUxuM2d3SklRRlBYNFhkZVlCWFdzODFmUXZrQUUyUW9lUmNLY0ZFRFA3enNJdVhGUEltcXNZQ2QxU3p0OXotOERH?oc=5
 
 - Samsung Electronics launches next-generation AI memory technology - Reuters
@@ -32,13 +32,17 @@
   Kerala CM launches State’s first �
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPMDJic1I0U0FibFVCcldpLVIwLV8yTnU3ZW14aXMzaThWbWpiRHJEM0tWQlFKUVFUY29PVG5rMXZUdzlIbk5MMDBUNDFRekJXdUZDQVFuNGl0bWdKdDJfQW53RXlZRnY0czlOV0sxTDdtdjl6cDJiMUhzU0Fma0dvMnhOUzJRRk5YRElWd1VocngzS1k4Q1ZHLXMzU29DbzBoNFpkUDJLX0NSQTJyS2cxUlNKOWl4VG80b2tobjJvS3RQdnNzMWVyS3YtV05od9IB1AFBVV95cUxOTHprMlYtMEJRdXQ5cnJPRldLVmNEd3lDaUd1dkNSTmZjUVJyU0k1LXdnTjhlb2NkSXAtT2FFM3hROHdzUHlBYmFjY1A2VHRtMDFadEQ1TTBjRFlITTFnVmRFLW9VNkFOMkhTU2RaSzVLclRrQmozM2VqN3JqSEV3ZlY3QXhMWXZMaldYNWZ1SzhrQlR0N1UzWUJ2emFtWlNqcl81OHJidUYzSmpRUTFnNWIyNk5kdFBoY2REY3YyOFhRSDRmejFtX2J4X2FqN0RvOHZfcA?oc=5
 
-- Iran’s Indigenous Technology Superior to Any Imported System in Region: Defense Minister - تسنیم
+- Lummus Technology Acquires Shell's Environmental Catalysts and Systems Assets in Strategic Portfolio Move - PR Newswire
+  Lummus Technology Acquires Shell's Environmental Catalysts
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdTVrcjlVTm8xcnRPUzFyTG12b0JHM3dlWUNLZWlaYnJjRDFkdmlUR3VBZUFQcFdiMVFoZk05c2FiZy1iYk5qZjMzWnYxS2QyQ3BUamlHeUp1UTY2LUV5Tml4REJPa3BqOHRSODJUM1lWUjQzbGpZNGNpX1lUbGt2TllLTEpnUTlPR2xNNHV4aWVmQTNfR292ZF9LTTBOMXFCVDdLQmptc1ZobFI3bFJNZWlSRW51anRpOEdSZzlVUV84TDBMM0QzMzlTOUhyaTktekgtVnNRcXF4ZThYSDMzc2Y2R21jT1k1S3BtYy1pODJ3Zw?oc=5
+
+- Iran’s Indigenous Technology Superior to Any Imported System in Region: Defense Minister - tasnimnews.ir
   Iran’s Indigenous Technology Superior to Any Im
   🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRlFxYk5WWW0tbVNKTTFJLS10U1JydXB3OHJEbDZIYVBvM0hqV0RMbUstejloQ2JybnhDZEwzMU9xbkpCdnJkN3U2R3JfOEJFVFdLWUc1RndtWm5jNkFXTXlfb25NTU5zSThmSDExSzJKa1IwN18yX1NYT2tFeGp3ZGJiejNISlJaX2dDaGhNVGRHMVhXNzAzN09waFRET0JWQ01nYXFveHBIc3U4WGNocHZCMnJERzc4b0N3clNEYUhNMEZIYUU2Wjk1NnB2NzU5Z25xNFgyd9IB3AFBVV95cUxQUllZdENNUDlLakpQaUtsZzVXaHJUaFZtdXRqSkgxb0UxRzYzTXgzb1NYc1hrME1BX3B6ZExtVG5NVm15VGZnRFFFY0NmSHJwZThuSjhfaUNhNS10V2YyYmZ2cWZfSFlRMUNDRzhjMEtvZllRMDZoVFhuVVhNMlgyUG5aZmtsVHJWMFJyVTVqQkdGWnByT3NGOUpZY210N0stZGxfYjVWNTBIU3dzUGJvSy16Ym1sVDBGdjFtTl9Nd2lSWWxKV1lhNHA1aVN4RjZydDZKT081Sm5DNjVE?oc=5
 
-- Technology Fit For Judicial Use Only If It Improves Fairness & Access : Zambia Supreme Court Judge Abha... - Live Law
-  The Zambia Supreme Court Judge Abha has approved the use of technology in the country
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOWJpa3ExZ01kYzZkUUhsMXlGWXppRmRxWW5tYmxFRzJNWFBJWms1T2ZBeVpLbmdyMmxhckk2UlBSVFc1Q083ME91bGM4Q2w1Mkt1NUdiT2tGcm40aUc5UHNNZ1dMU0tpN3V3VE0tbGZqcmszUUE1cWNVbEVFdXpDUVM5ZVNOT0doREV0b3RnQ2NJV0VEQnlSU3MyZVJKNGdJRXotRnJ1Yi1ZV3Y5OXdNYUpCNzZmTDdnUE9hZDdsck1JLThScXVBLXFlQVlUTURUQVZDV0dQTDRHSU9GektzU0lwQl9Zd0JrYzQ3UVRGc0Vnd9IB9wFBVV95cUxPWldDQll1ZEJLaVFCM0FsTkNzZzNnTklvRUlMMUh2QTNReXpZTWI2MkRtSkxVRloySUEzSkVtU2tPeDJMeE5NSUhPaTdzNHI5SmJNanJOOHEzVnZxQU1WOXFKS0hmMjN4dmxsQllDR3M2b3JrX0FkVUNPcGhmNmg2S3BZeDRVVllPZlFqTmh2NHgwc2F4RGlDeW4zS04zbnZPNFVWZFhvbVNhYU5acDBjMEM1NTd4czYybkZnRGcwdHlvV0ZtSW95UGl1N0VRZlNMOXhPNmNvenRlT1R3alNTWFVLZXlzMkpxbWJ0UlJ3YXhYdWZPRDNV?oc=5
+- US generics tariffs more negotiation tactic than real threat: Biocon’s Kiran Mazumdar-Shaw
+  The company is exploring partnerships for manufacturing in the US if required, Shaw said.
+  🔗 https://www.livemint.com/companies/news/us-generics-tariffs-more-negotiation-tactic-than-real-threat-biocon-s-kiran-mazumdarshaw-11786018812064.html
 
 - Insurer AIG beats second-quarter profit estimates on robust underwriting
   Insurer AIG beats
@@ -56,32 +60,32 @@
   The lender is targeting higher-yielding segments to improve spreads. It sees affordable and emerging
   🔗 https://www.livemint.com/companies/news/pnb-housing-bets-on-micro-loans-small-developers-to-boost-margins-11786027236998.html
 
-- LIC flags pressure on customer incomes even as Q1 profit rises 23%
-  LIC expects pressure on household savings to continue, weighing on premium growth. A shift towards higher-margin non-par products helped boost
-  🔗 https://www.livemint.com/companies/news/lic-flags-pressure-on-customer-incomes-even-as-q1-profit-rises-23-11786024688987.html
+- Q1 results 2026: SBI to Ola Electric among companies to declare Q1 results today; full list here
+  State Bank of India (SBI), Titan Company, Ola Electric Mobility, Hindalco Industries, Power Finance
+  🔗 https://www.livemint.com/market/stock-market-news/q1-results-2026-sbi-to-ola-electric-among-companies-to-declare-q1-results-today-full-list-here-11786068204299.html
 
-- Private Credit Funds Avert Worst Fears and Bounce Back From Lows
-  In the eye of the private credit storm, outlooks called for the $1.8 trillion market to either bring about the next
-  🔗 https://www.livemint.com/market/private-credit-funds-avert-worst-fears-and-bounce-back-from-lows-11786058304424.html
+- Buy or sell: Gift Nifty trades flat! Vaishali Parekh recommends three intraday stocks to buy today — 7 August 2026
+   Vaishali Parekh recommends three intraday stocks to buy today. Shrir
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-flat-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-7-august-2026-11786065965698.html
 
-- Japan Carmakers See Yen Remaining Near Post-Intervention Levels
-  Japan’s carmakers are assuming that the yen will trade near current levels against the US dollar in the coming months.
-  🔗 https://www.livemint.com/market/japan-carmakers-see-yen-remaining-near-post-intervention-levels-11786051302266.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 7 August
+  The Indian stock market may open weak on August 7 due to rising Brent crude oil prices, which rose over 1% to $83.45. The Gift Nifty indicates a negative start, despite
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-7-august-11786066836775.html
 
-- Oil Extends Gains on Report of Iran Strikes in Strait of Hormuz
-  Iranian news agency reported that the Islamic Republic struck “hostile targets�
-  🔗 https://www.livemint.com/market/oil-extends-gains-on-report-of-iran-strikes-in-strait-of-hormuz-11786050144011.html
+- Stocks to watch: SBI, Ola Electric, LIC among shares in focus today; check list here
+  The Nifty was trading near the 24,657 mark, down over 82 points from
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-sbi-ola-electric-lic-among-shares-in-focus-today-check-list-here-11786066835314.html
 
-- Stocks close lower as investors eye Mideast talks, earnings
-  Stocks close lower as investors eye M
-  🔗 https://www.livemint.com/market/stocks-close-lower-as-investors-eye-mideast-talks-earnings-11786047804287.html
+- Crude oil prices rise amid uncertainty over Strait of Hormuz reopening; Brent Crude at $83 per barrel
+  Brent crude futures rose 99 cents, or 1.2%, to $83.48 a barrel.
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-rise-amid-uncertainty-over-strait-of-hormuz-reopening-brent-crude-at-83-per-barrel-11786065965138.html
 
-- Gold pares gains to trade steady as oil rises on Iran proposal to bar hostile vessels in Hormuz
-  Gold pares gains to trade steady as oil rises on Iran proposal to bar
-  🔗 https://www.livemint.com/market/gold-pares-gains-to-trade-steady-as-oil-rises-on-iran-proposal-to-bar-hostile-vessels-in-hormuz-11786044628603.html
+- Exclusive-Alibaba plans to charge big users of its next open-source AI model, sources say
+  Alibaba plans to charge big users of its
+  🔗 https://www.livemint.com/technology/exclusivealibaba-plans-to-charge-big-users-of-its-next-open-source-ai-model-sources-say-11786064736653.html
 
-- Court orders Meta to pay $567 million to address kids mental health and safety on its platforms
-  Court orders Meta to pay $567 million to address kids
+- Trouble mounts for Meta: New Mexico court fines social media giant $567 million, implement youth safety measures
+  A New Mexico court ordered Meta to pay $567 million and implement strict youth safety measures. Meta said it disagrees with the order and will appeal.
   🔗 https://www.livemint.com/technology/court-orders-meta-to-pay-567-million-to-address-kids-mental-health-and-safety-on-its-platforms-11786059821685.html
 
 - Meta says its AI model hacked another company, adding to worries about bots going rogue
@@ -96,10 +100,6 @@
   Redmi Note 17 has launched in India with Snapdragon 4 Gen 4 processor, 8,
   🔗 https://www.livemint.com/technology/gadgets/redmi-note-17-launched-in-india-with-8-000mah-battery-snapdragon-4-gen-4-soc-price-specifications-and-more-11786005187726.html
 
-- Another AI agent goes rogue? Meta says its model hacked a company
-   Meta's AI models hacked into a third-party company during cybersecurity testing.
-  🔗 https://www.livemint.com/technology/tech-news/another-ai-agent-goes-rogue-meta-says-its-model-hacked-a-company-11785981040297.html
-
 - Stock Market Today: Dow Poised to Break Winning Streak — Live Updates - WSJ
   The Dow Jones Industrial Average is expected to open at
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmhkS2hZaWhCRE1xZVpnRUEwOGpaaW11SHd0RzhiX0tTbG5rMGhUX0dvRG8wVFNxYkdjeUd3MlJTc1NEV0pJdUlVUlUtb3l1YkFSZUY5aXhja25adTMwcVZyOWRxMW1SNi1WV0NnU3p5bklPQzRoU1ZhZDliRGhfejNkVkRLb1E?oc=5
@@ -108,57 +108,57 @@
   S&amp;P 500 falls as oil prices pressure stocks; Dow drops more than
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9sdDVGOGpOTml1NUpGRV9OVS1PdEdMd1pZWUZxekExRW5vUVFUT1N6dDJva1Y4UTRleEY3aFRDSGZFOHVxQUhLa2xPSjk4Um9ybzBXNzA3R2M0VjZHdDFYdk9kbWQzSHVQRERJNzhZRkItNjU1ZHo40gF8QVVfeXFMTzIzSjJPbUJOWmYwbG56bHI1TUNhUmpjaElWMDhvM3I1UC1WZ2lqNE9wdUwwYWY3N3FsLUc5TktPLVgwNVlrNFFRbnJQTFFOV2d2WU9JUVhtckRVVzRlekViVm9qcWhOTnBlV2tkc3BsNG1RSnk5LV9BeEstRQ?oc=5
 
-- Macau Casinos Hit by Slump as China Crackdown Rattles Market - bloomberg.com
-  Macau Casinos Hit by Slump
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQMURBaTYxU2dwUGo5Zm00WHprSWNoVzRmbjJaRWo4SXJaczdLVlAxcHFtNGRBai1NT1l5aWE2UlA4N0k5MldRdzB0cDBrbVEwakUxVmlpRTB1NzNkT3Rqa1lULTl4MC1YcHJfdE1INEtSZ2QybFVheXBUTVdkTXg1Tk1sbVFHM2U5NXF1MDhMVEZhcHBnVW14V2ZwRTVhTG5Hc1otUVRYQXJ6ZnNUdnBIVQ?oc=5
+- S&P 500 futures are little changed as traders await big jobs report: Live updates - CNBC
+  S&amp;P 500 futures are little changed as traders
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw?oc=5
 
-- Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC
-  The Dow Jones Industrial Average closed at a record high on
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVVwa1o5Rm9nMjR3VjZUOWJBOUdTNDFjVDhReklUUWxqb0VaU1RpZE1qSF8yRXhTLUlBQlFLRzNITTlXQ05aNFFBaFR4TDJ1WXEzbzJQUHNhRkFVMDU1T3NnTDFCUnRYcm5OXzgzWXZpS0FHcUZXYWpuSVowMUFVbFFSdkUtY0JTYkk1Qm8tRktHN1YyX0ZLdVR3?oc=5
+- Markets Fall Over New Closing Price System: Why Traders Are Spooked - NDTV
+  " target="_blank">Markets
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTZWUGcwTnNYRXJaeVVHVTlrTVlMcWdyX2RRTzNUdmRMaGZveHVVNGh6Q2xPcFA2MzN2Ty1Za2Fhc3JpUHd0ZkVFR2puaGItZjdMSXRpM0h4QnYtM0xkT2JTRU0tZUFROUthd0wzb1BoZVA0YzcxeFVpX3ExYnNSNlplUmhzTldSMzV5UkZYaFhHVVR1Ml9QaWllVmJlaFRGNzJKWVJnczJBMVlBeS1RSjRWVVhpTE80ZXk5RUNOWklBMHBD0gHMAUFVX3lxTE5hampoRnA5ZEhtNnBxVDlkT3pFTks5TU0ycnQzenNhb2VVeUhiVDdJNlBmY2VLd1BlUFI3Nmhjb1JULXJHNjFFc1l2bGtVOFQ2dy1aV1h2MHBzVGp6V3hQLUtNbE02WnZxSGQzRjJDcDZ0S28xbmdZeG5IZ1Zab19lRF9zX2RLMDloaEkwd2s0UF92MjkxZS1PUWJBUFhtUmhNZ00xUUxLekpkeEx6bmMwQkFsTmJ4QmFkX0E2TnlZcjJpSnZVWFd3eFBKTw?oc=5
 
-- Markets News, Aug. 5, 2026: Dow’s Winning Streak Ends as Major Indexes Close Lower; Oil Rises as Investors Await Strait of Hormuz News - Investopedia
-  Markets News, Aug. 5, 2026: Dow’s Winning Streak Ends as Major
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNcU1BX0liaVNCNndDajRsWjM3QjZTOUZmUUJ0ZWt6NU9ELVZBdk54SDJsV2JBbzVDX2tYc2dRRmdXOWdKRllubGNLaE4wZGdtdWJxYTFFQmhHNk8wMWJDUkhVbXJqNWFESDlHb0pMV2FfOGRJV2dPSWdNVzlCSnlqWXFQQm1Oa1ZmbGxHdEwzVFo?oc=5
+- Stock markets edged higher in early trade amid lower crude oil prices, buying in Reliance Industries - The Hindu
+  Stock markets edged higher in early trade amid lower crude oil prices, buying in
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYzNBaERiY3ktQlpONVZpcjU1allWclVVQXpuak9wN0RmRzJteThFXzdfMVZhRUlQZS05ZWM4SEhTLXN5RjBCbk51LTR5aUYtUXNXMVdpeVFzNnFwNGY4aGlRLWw5UGRBTkxHajJBdTUwZGNTR0pucXE1bDVjLWZxWXl5YzR0ZUdrTkozYzAzSnlXY1JjdXQtZkNNVWhRNmZXbU92MlhubFJ1MWpyNWpuZjhneHllWEU0aDBLaFhKNU5qY2JLQnBMamRZeHJNRHl4aUt5M1Z4VGdOZDBybXdyTlc5Vnh4bnFtU2g4MlR3UDF3ZGfSAfoBQVVfeXFMTUowOExWcFp1cmZZc1FHQzQxdWM3S2YtanFsN1dMaFd4R051TVR5QlZXYlA2dVlBQ0FlY3lNNzFKb0c1cDBNdURaYlQ3YmxGbE1JaXE2a3VvbGxRaFhtbUZPM0s2R3pUTTJ4dHFIenU2WjRpX2RHcXo3UE53bnotWXlZQnVKNHN3a3NIUkpBTWZ4ZXNqOGNIbkE3V3FhTGtuSmNQcDQyd2h3cjRMNEYxQlFiSm9CdHFSNzB6eHFCY1Q4cTV6eUN2bnJ2QW1ERG1YOGdCR3BBRTBBb2NuRWkteWxyQm5KZ1ZvYklKRWtzUUN4aGo3ekhBdWNSUQ?oc=5
 
-- US stocks: Dow, S&amp;P slip as investors eye Mideast talks, earnings
-  Major stock indexes closed lower on Thursday, pausing after a strong start to the week. Investors digested corporate earnings and looked for progress toward a peace deal between the U.S. and Iran.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-sp-slip-as-investors-eye-mideast-talks-earnings/articleshow/133015453.cms
+- ETMarkets Smart Talk | AI infrastructure, not just AI software, will drive India's next wealth cycle: Amit Joshi
+  Data centres and power transmission to manufacturing and the energy transition are emerging as the real enablers of
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-ai-infrastructure-not-just-ai-software-will-drive-indias-next-wealth-cycle-amit-joshi/articleshow/133018918.cms
 
-- Honeywell Aerospace shares plunge 26% as supply woes trigger forecast cuts
-  The company lowered its annual sales growth outlook for 2026 significantly. Analysts expressed concern over the reduced growth forecast compared to sector strength.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/honeywell-aerospace-shares-plunge-26-as-supply-woes-trigger-forecast-cuts/articleshow/133012879.cms
+- Oil Price Today (August 7): Crude oil rises above $83 as Strait of Hormuz deadlock continues. Here’s why
+  Crude oil prices saw increases on Thursday and Friday. Analysts warn of significant price hikes if disruptions continue for months. Supply outside the conflict zone is expected to expand.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-7-crude-oil-rises-above-83-as-strait-of-hormuz-deadlock-continues-heres-why/articleshow/133018974.cms
 
-- Fortis Healthcare Q1 Results: Profit rises 2.3% to Rs 273 crore
-  The consolidated profit after tax now stands at Rs 273 crore, reflecting growth from last year. The hospital segment thrived, alongside successful diagnostics operations.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/fortis-healthcare-q1-results-profit-rises-2-3-to-rs-273-crore/articleshow/133010459.cms
+- Gold heads for strongest week since January, US payrolls data in focus
+  Gold prices found stability on Friday, approaching their most significant weekly increase since January. Other precious metals, like silver and platinum, faced slight declines, while central bankers remain engaged in discussions about the best course for interest rate strategies.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-strongest-week-since-january-us-payrolls-data-in-focus/articleshow/133018951.cms
 
-- Technocraft Ventures raises Rs 75.55 cr from anchor investors ahead of IPO
-  Technocraft Ventures Ltd secured Rs 75.55 crore from anchor investors before its public offering. The company's Rs 252-crore initial public offering will open for subscription on August 7.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-raises-rs-75-55-cr-from-anchor-investors-ahead-of-ipo/articleshow/133010430.cms
+- Oil rises on concerns over Strait of Hormuz reopening plans
+  Oil prices experienced a significant uptick on Friday, fueled by fears surrounding the critical Strait of Hormuz. Iran and Oman are contemplating restrictions on hostile vessels, impacting market confidence.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-on-concerns-over-strait-of-hormuz-reopening-plans/articleshow/133018933.cms
 
-- Sebi takes up 402 investigation cases in FY26; completes 338
-  Sebi investigated 402 cases in 2025-26 for securities law violations. Insider trading and illegal trade practices accounted for 224 investigations initiated. Financial statement fraud also came under regulatory focus with 57 cases.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-takes-up-402-investigation-cases-in-fy26-completes-338/articleshow/133010399.cms
+- LIC Q1 profit surges 23% on growth in value of new business
+  Life Insurance Corporation of India reported a twenty-three percent net profit rise. Value of new business jumped sixty-one percent. Diversification into non-participating savings and protection products aided strong performance.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-q1-profit-surges-23-on-growth-in-value-of-new-business/articleshow/133018657.cms
+
+- India successfully test-fired medium-range ballistic missile Agni-4 from Integrated Test Range at Chandipur in Odisha - News On AIR
+  India successfully test-fired medium-range ballistic missile Agni-4 from
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMmZ5eUhfUmRkY1BoMEk1eGREcjJ6LTJGSi02R3ItRFJ1Q05TZ0o5Um9Ra3hGdURYUUhCbDFrZTdGX3JuUEtZdUFjSE5rdVZBQzVVNDVHc0tyT05tMzZaUlhzY0NBa1RnQjBhNkFRdnIzOEZtNDF5TWdsdGVOUDM5R1M4aEFGUkFIZUR0SVBZbkRKMHB5RWlxSTV0dEI5TlVPd3BZRXlRQmNhRi16YV8tUE1ySGl4M2UzaVhDY3h1aTBUT3FJOWs5ZXNUcWZzcklmT1hWTFV6azRtMjA?oc=5
+
+- Last Shot Fired In Bofors Legal Battle, Supreme Court Dismisses Final Appeal - NDTV
+  The Supreme Court has dismissed the final appeal against the
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnR2WXd0UUQ2eXJfZ1NzbTdIWjQwbzhoNHIxOENjZkROcVgwQWtmWHhvWnpBSnhQam5YTHdfTkVwZkNhaTVNRE5QNmEtblQ4NDR6M2xCSzNWSnAyZ2JfaWM3eGM2a3hlZEg4OW1JOWw5LVJvQlJCQXdLY2VGREw3VHExdWhKME83U1JKOVhfbVc1b05vVTQ5dnRKY3UzYmtOQTAtWkpESnRJYlVyNkYxSHUtUlh1NW_SAb8BQVVfeXFMTnBQemdRc25acGszY052QmxJemM2bm9Bc0xJVnlJWTI5Y3hULWpWRzl3aElBdkVINEotaTZQX1BGOTMtdmpILTVsdDFkLThtbWxKMUhXVExPMzFvbXdzTTNaR09SallsS19NQVp0M1VwaUFwYXY2ZXJoVGFOVkw1RERTMm9iaDNFLVJfY3VDc1hpUEQ2Mng2aGNaUWg3cG9UMVFUUXpLTWZhcTdtOFpFck5LNnNrckRKU1dCbVFkR1U?oc=5
 
 - Supreme Court on walking: India is a nation of walkers - but its cities forgot them - BBC
   India is a nation of walkers - but its cities forgot them.
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUU1ITGNVUmtzbTBwVHVnS0JqajN1aUYwbXBnRGFyN3c0SF9XNTFLNTFiTHJpU09rblJUQnFjWUJ2MVQ3WE9WRGlrT3JXRWZBMlotTk84emdyQQ?oc=5
 
-- Netanyahu Dials PM Modi, Discusses Middle East Situation, India-Israel Ties - NDTV
-  Netanyahu Dials PM Modi, Discuss
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEQtV1Y0aXNjaGRaWjRkSllhQy1ZdnNtMWtodXVsbHhkMDFXUjE3YmM4R200dVdKeThDc3hhdktUTXFDTEZ3cFVwTXY4UXRPN0FrV3RDSU5MYlV0MHNiT2IyTXhxQnc1SEVHbVpUZWp4SjBLU0l3OWRXMFpVb01LcWdMOW9lN0htNmVZTVNpNGphWFpxckVkMndabk9LU3V4a1JBU2FxVzRIdHNScDFvVThrMXhrRUpreVZ5Zi13dEYyeGNURVl2ckxTZDZGUEkySnfSAdoBQVVfeXFMTXJaYmFTbmxMdXdYbldvQkxiLXVCNWp4VWp3VnpUU1JnalpZd1V6VzlleXJQWGxxXzVmeFd0X29xckp6ai1UYVZXZ245bjRJSGY0eWE4VXlqV09CeS1VNDB1aVZ6QTZLSnJ6Wmc1elA1WWFuMVA2TXR1SmVEaUZPcUtjU3ZmcG11eGl2YmhUNXVHSFpoTXdleldNNjVVV0VXQVowMmhSUnFLTmJMZ3VMdElWcGpFRDNianRMUDhrdXY5d1A0QWRXS2RuX1pzOWNVbDFsUEZJLVNIX1E?oc=5
+- 100% tariffs: Why India may ignore Trump threat and continue buying Russian crude oil - timesofindia.indiatimes.com
+  The Indian government is considering imposing 100% tariffs on Russian crude
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRlFjc0pSdV9FYnN0ZUk4XzkxYVhPUFctS0RPRU9VNzQ2M1JteVdPQU10TUE5OGRnbkRrMlJjejdEeXozeWxJVmlpR0xnZ2hVVHRwS0lXbkR4R2Y1WThvcEFFQWIwYUpUOTRXOGVUa0VRcjVXVkZmZVM4Q1lWMThiNU9aM2Qzd0RQZGVWVi1xU3BnTFhOU3FwZTkyc0hWUzkzbm9kZWNuYzFsUEVMTkpuWXdTQ29nU3J1dktYc3Nxc2FtRVR4RzJxYnRsTFNUR3NwaFowLWRueHBkMTM1bnEzdkFQdUdwMVBQaGdDdUlkQVMtNVZzYzg2SW8tT3g?oc=5
 
-- Netanyahu calls PM Modi, discusses bilateral ties, West Asia situation - The Times of India
-  Netanyahu calls PM Modi, discusses bilateral ties, West
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHA4akx1OHdCemVJa08zUHQwaDNJV2NvZ1lkVXRTdC03LUFDMFQ5UkMwUkc5Ykgwcm16dmp6WE9vaWIxSzVtRnNxT0FxaTEwZ3d5X2M1Vk82V21jRml3MmZsZGhaUmo3NXBGUGRPOFBPV3RQWGF5OEFMUjR6N3g2SFl6QldFMEJXbWJEY2g0VVJiNWFfRHJWNjJ0X1NUX3YtYjJiREh6ZkpWMTBjUmg1aFNVQ3hjSmFMUk9DZjJBWVRNQjFPcFR6eDBYaUlzd9IB0wFBVV95cUxOWkZ0NC15UjI0RWx3SDg3NkVuZzhadmsybkt6eUtPazhjbUt6SmdnSXViWVNfSWhoUWxmcjNHSElMVEZUWHUyUFBaOEtXeWx5ZkFRdno3X1ZfaEhPTmJNbVdLbDN6Zi1XNVQycDVobGl2VVVRWmlSeE9CT09aczBaLU04NWluT25Va0N0OGhkbC02UU9PSVkzdGdwbk5PMm1sb28xa3V5M2gzZGlRQjBaQUdsZzlsVmlKSGVnd3k1Vk9qUFdHX0NKRW95TzhxN19NQkZ3?oc=5
-
-- PM Modi and Netanyahu review India-Israel Special Strategic Partnership - News On AIR
-  PM Modi and Netanyahu review India-Israel Special
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPM3NJY09YRzVCZkFTQ24xYXpDa2lXakFpWUMwZzQ3bWdPOEpsLVJqd0U3WlVsRmxWZFVWRTB0OWFhTXY3VFBFeGx1ZXNWaXNXa2E4bFVKaXFuRHJ3d3B0NWJrV1hnNjZmMVdmQTdvZFdKQWhDX2ZrUTFfZzRpc3g5cEFBU3dSOXI0WjNqeUZlMndwMXJqSGxhcGR2OWtVZw?oc=5
-
-- Lok Sabha Passes Bill To Allow Charges On UPI, Other Digital Payments - NDTV
-  Lok Sabha Passes Bill To Allow Charges On
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0dGRkQzT2MzWElYVEVXZXF4bWMzMi1WaXBMQ0xfeW9aeVNJb3ZiYW5UMmk5aXdvLXN6N2t2MVVPMVFydVJ5QWd0bXowa2lvQmVBRzhGX0ZTclViRDVya2FvaV9XbWM1bzV1eUNXaHdCQ3RKYUVyQnNYdjRnNEd4bzI1UV9EbVFMYW12ZjUzWnlMV0JManFpX1NzMkN6djlSckdJd0ZoQ1loZGpVZnfSAbYBQVVfeXFMUEs3NGJzS0hTWHh3Q2ZHeGNldzVNdXgwQWFkSXBJRjdTVXNQdTJnUjJ1R2JvU0QxQnZva0p3M1dZb2ZpeXJWWWpXN2lDY3pDY2c0QmxTR3EtLXQzOFhfaW9ENS1YVW9JcDN6Z2I0bUM1ZmRzejJBQnBmSEVaNjk5OFdVX2lPWmhCM1Z0UnJFblM1dV96ekVtYlU4cFdqSlRidUNYRTVJR0pnV3doVHF5NVVxaTVkWkE?oc=5
+- India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi - The Guardian
+  India-Bangladesh relations hit new low over exiled PM
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQLTFEaXhnaVQ3RW5mb2xWdUlXWUpoZ3RnN1ZNTlgwYVMwa2liTmNfbkxLTmtXQkY3eGtLcHZ4RHVJVEF1SnRucXBYSGZtS1ZkR2JSenZHVHkwNlloY0gxUkw1ZFNmX3ZSTVpOZkVtZjE1TTlnWkIwZjk1TnV4ODN5OHBoX1RybmtGVmFXNDJKSFpnUUREQnJmRHljellsaFktci1aaGIyS2MyRDR6dGc?oc=5
 
 - PE Giant TPG Offloads Shadowfax Shares In ₹301 Cr Bulk Deal
   Private equity (PE) giant TPG yesterday offloaded Shadowfax shares worth nearly ₹300.6 Cr via an open-market
@@ -180,45 +180,45 @@
   The Lok Sabha on Thursday (August 6) passed the bill amending the Taxation and Other Laws (Amendment) Bill, 2026.
   🔗 https://inc42.com/buzz/lok-sabha-passes-taxation-laws-amendment-bill-clearing-path-to-levy-mdr-on-upi-payments/
 
-- Supreme Court on walking: India is a nation of walkers - but its cities forgot them - BBC
-  India is a nation of walkers - but its cities forgot them.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUU1ITGNVUmtzbTBwVHVnS0JqajN1aUYwbXBnRGFyN3c0SF9XNTFLNTFiTHJpU09rblJUQnFjWUJ2MVQ3WE9WRGlrT3JXRWZBMlotTk84emdyQQ?oc=5
+- India successfully test-fired medium-range ballistic missile Agni-4 from Integrated Test Range at Chandipur in Odisha - News On AIR
+  India successfully test-fired medium-range ballistic missile Agni-4 from
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMmZ5eUhfUmRkY1BoMEk1eGREcjJ6LTJGSi02R3ItRFJ1Q05TZ0o5Um9Ra3hGdURYUUhCbDFrZTdGX3JuUEtZdUFjSE5rdVZBQzVVNDVHc0tyT05tMzZaUlhzY0NBa1RnQjBhNkFRdnIzOEZtNDF5TWdsdGVOUDM5R1M4aEFGUkFIZUR0SVBZbkRKMHB5RWlxSTV0dEI5TlVPd3BZRXlRQmNhRi16YV8tUE1ySGl4M2UzaVhDY3h1aTBUT3FJOWs5ZXNUcWZzcklmT1hWTFV6azRtMjA?oc=5
 
-- Netanyahu Dials PM Modi, Discusses Middle East Situation, India-Israel Ties - NDTV
-  Netanyahu Dials PM Modi, Discuss
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEQtV1Y0aXNjaGRaWjRkSllhQy1ZdnNtMWtodXVsbHhkMDFXUjE3YmM4R200dVdKeThDc3hhdktUTXFDTEZ3cFVwTXY4UXRPN0FrV3RDSU5MYlV0MHNiT2IyTXhxQnc1SEVHbVpUZWp4SjBLU0l3OWRXMFpVb01LcWdMOW9lN0htNmVZTVNpNGphWFpxckVkMndabk9LU3V4a1JBU2FxVzRIdHNScDFvVThrMXhrRUpreVZ5Zi13dEYyeGNURVl2ckxTZDZGUEkySnfSAdoBQVVfeXFMTXJaYmFTbmxMdXdYbldvQkxiLXVCNWp4VWp3VnpUU1JnalpZd1V6VzlleXJQWGxxXzVmeFd0X29xckp6ai1UYVZXZ245bjRJSGY0eWE4VXlqV09CeS1VNDB1aVZ6QTZLSnJ6Wmc1elA1WWFuMVA2TXR1SmVEaUZPcUtjU3ZmcG11eGl2YmhUNXVHSFpoTXdleldNNjVVV0VXQVowMmhSUnFLTmJMZ3VMdElWcGpFRDNianRMUDhrdXY5d1A0QWRXS2RuX1pzOWNVbDFsUEZJLVNIX1E?oc=5
-
-- Netanyahu calls PM Modi, discusses bilateral ties, West Asia situation - The Times of India
-  Netanyahu calls PM Modi, discusses bilateral ties, West
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHA4akx1OHdCemVJa08zUHQwaDNJV2NvZ1lkVXRTdC03LUFDMFQ5UkMwUkc5Ykgwcm16dmp6WE9vaWIxSzVtRnNxT0FxaTEwZ3d5X2M1Vk82V21jRml3MmZsZGhaUmo3NXBGUGRPOFBPV3RQWGF5OEFMUjR6N3g2SFl6QldFMEJXbWJEY2g0VVJiNWFfRHJWNjJ0X1NUX3YtYjJiREh6ZkpWMTBjUmg1aFNVQ3hjSmFMUk9DZjJBWVRNQjFPcFR6eDBYaUlzd9IB0wFBVV95cUxOWkZ0NC15UjI0RWx3SDg3NkVuZzhadmsybkt6eUtPazhjbUt6SmdnSXViWVNfSWhoUWxmcjNHSElMVEZUWHUyUFBaOEtXeWx5ZkFRdno3X1ZfaEhPTmJNbVdLbDN6Zi1XNVQycDVobGl2VVVRWmlSeE9CT09aczBaLU04NWluT25Va0N0OGhkbC02UU9PSVkzdGdwbk5PMm1sb28xa3V5M2gzZGlRQjBaQUdsZzlsVmlKSGVnd3k1Vk9qUFdHX0NKRW95TzhxN19NQkZ3?oc=5
-
-- PM Modi and Netanyahu review India-Israel Special Strategic Partnership - News On AIR
-  PM Modi and Netanyahu review India-Israel Special
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPM3NJY09YRzVCZkFTQ24xYXpDa2lXakFpWUMwZzQ3bWdPOEpsLVJqd0U3WlVsRmxWZFVWRTB0OWFhTXY3VFBFeGx1ZXNWaXNXa2E4bFVKaXFuRHJ3d3B0NWJrV1hnNjZmMVdmQTdvZFdKQWhDX2ZrUTFfZzRpc3g5cEFBU3dSOXI0WjNqeUZlMndwMXJqSGxhcGR2OWtVZw?oc=5
-
-- Lok Sabha Passes Bill To Allow Charges On UPI, Other Digital Payments - NDTV
-  Lok Sabha Passes Bill To Allow Charges On
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0dGRkQzT2MzWElYVEVXZXF4bWMzMi1WaXBMQ0xfeW9aeVNJb3ZiYW5UMmk5aXdvLXN6N2t2MVVPMVFydVJ5QWd0bXowa2lvQmVBRzhGX0ZTclViRDVya2FvaV9XbWM1bzV1eUNXaHdCQ3RKYUVyQnNYdjRnNEd4bzI1UV9EbVFMYW12ZjUzWnlMV0JManFpX1NzMkN6djlSckdJd0ZoQ1loZGpVZnfSAbYBQVVfeXFMUEs3NGJzS0hTWHh3Q2ZHeGNldzVNdXgwQWFkSXBJRjdTVXNQdTJnUjJ1R2JvU0QxQnZva0p3M1dZb2ZpeXJWWWpXN2lDY3pDY2c0QmxTR3EtLXQzOFhfaW9ENS1YVW9JcDN6Z2I0bUM1ZmRzejJBQnBmSEVaNjk5OFdVX2lPWmhCM1Z0UnJFblM1dV96ekVtYlU4cFdqSlRidUNYRTVJR0pnV3doVHF5NVVxaTVkWkE?oc=5
+- Last Shot Fired In Bofors Legal Battle, Supreme Court Dismisses Final Appeal - NDTV
+  The Supreme Court has dismissed the final appeal against the
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnR2WXd0UUQ2eXJfZ1NzbTdIWjQwbzhoNHIxOENjZkROcVgwQWtmWHhvWnpBSnhQam5YTHdfTkVwZkNhaTVNRE5QNmEtblQ4NDR6M2xCSzNWSnAyZ2JfaWM3eGM2a3hlZEg4OW1JOWw5LVJvQlJCQXdLY2VGREw3VHExdWhKME83U1JKOVhfbVc1b05vVTQ5dnRKY3UzYmtOQTAtWkpESnRJYlVyNkYxSHUtUlh1NW_SAb8BQVVfeXFMTnBQemdRc25acGszY052QmxJemM2bm9Bc0xJVnlJWTI5Y3hULWpWRzl3aElBdkVINEotaTZQX1BGOTMtdmpILTVsdDFkLThtbWxKMUhXVExPMzFvbXdzTTNaR09SallsS19NQVp0M1VwaUFwYXY2ZXJoVGFOVkw1RERTMm9iaDNFLVJfY3VDc1hpUEQ2Mng2aGNaUWg3cG9UMVFUUXpLTWZhcTdtOFpFck5LNnNrckRKU1dCbVFkR1U?oc=5
 
 - Supreme Court on walking: India is a nation of walkers - but its cities forgot them - BBC
   India is a nation of walkers - but its cities forgot them.
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUU1ITGNVUmtzbTBwVHVnS0JqajN1aUYwbXBnRGFyN3c0SF9XNTFLNTFiTHJpU09rblJUQnFjWUJ2MVQ3WE9WRGlrT3JXRWZBMlotTk84emdyQQ?oc=5
 
-- Netanyahu Dials PM Modi, Discusses Middle East Situation, India-Israel Ties - NDTV
-  Netanyahu Dials PM Modi, Discuss
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEQtV1Y0aXNjaGRaWjRkSllhQy1ZdnNtMWtodXVsbHhkMDFXUjE3YmM4R200dVdKeThDc3hhdktUTXFDTEZ3cFVwTXY4UXRPN0FrV3RDSU5MYlV0MHNiT2IyTXhxQnc1SEVHbVpUZWp4SjBLU0l3OWRXMFpVb01LcWdMOW9lN0htNmVZTVNpNGphWFpxckVkMndabk9LU3V4a1JBU2FxVzRIdHNScDFvVThrMXhrRUpreVZ5Zi13dEYyeGNURVl2ckxTZDZGUEkySnfSAdoBQVVfeXFMTXJaYmFTbmxMdXdYbldvQkxiLXVCNWp4VWp3VnpUU1JnalpZd1V6VzlleXJQWGxxXzVmeFd0X29xckp6ai1UYVZXZ245bjRJSGY0eWE4VXlqV09CeS1VNDB1aVZ6QTZLSnJ6Wmc1elA1WWFuMVA2TXR1SmVEaUZPcUtjU3ZmcG11eGl2YmhUNXVHSFpoTXdleldNNjVVV0VXQVowMmhSUnFLTmJMZ3VMdElWcGpFRDNianRMUDhrdXY5d1A0QWRXS2RuX1pzOWNVbDFsUEZJLVNIX1E?oc=5
+- 100% tariffs: Why India may ignore Trump threat and continue buying Russian crude oil - timesofindia.indiatimes.com
+  The Indian government is considering imposing 100% tariffs on Russian crude
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRlFjc0pSdV9FYnN0ZUk4XzkxYVhPUFctS0RPRU9VNzQ2M1JteVdPQU10TUE5OGRnbkRrMlJjejdEeXozeWxJVmlpR0xnZ2hVVHRwS0lXbkR4R2Y1WThvcEFFQWIwYUpUOTRXOGVUa0VRcjVXVkZmZVM4Q1lWMThiNU9aM2Qzd0RQZGVWVi1xU3BnTFhOU3FwZTkyc0hWUzkzbm9kZWNuYzFsUEVMTkpuWXdTQ29nU3J1dktYc3Nxc2FtRVR4RzJxYnRsTFNUR3NwaFowLWRueHBkMTM1bnEzdkFQdUdwMVBQaGdDdUlkQVMtNVZzYzg2SW8tT3g?oc=5
 
-- Netanyahu calls PM Modi, discusses bilateral ties, West Asia situation - The Times of India
-  Netanyahu calls PM Modi, discusses bilateral ties, West
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHA4akx1OHdCemVJa08zUHQwaDNJV2NvZ1lkVXRTdC03LUFDMFQ5UkMwUkc5Ykgwcm16dmp6WE9vaWIxSzVtRnNxT0FxaTEwZ3d5X2M1Vk82V21jRml3MmZsZGhaUmo3NXBGUGRPOFBPV3RQWGF5OEFMUjR6N3g2SFl6QldFMEJXbWJEY2g0VVJiNWFfRHJWNjJ0X1NUX3YtYjJiREh6ZkpWMTBjUmg1aFNVQ3hjSmFMUk9DZjJBWVRNQjFPcFR6eDBYaUlzd9IB0wFBVV95cUxOWkZ0NC15UjI0RWx3SDg3NkVuZzhadmsybkt6eUtPazhjbUt6SmdnSXViWVNfSWhoUWxmcjNHSElMVEZUWHUyUFBaOEtXeWx5ZkFRdno3X1ZfaEhPTmJNbVdLbDN6Zi1XNVQycDVobGl2VVVRWmlSeE9CT09aczBaLU04NWluT25Va0N0OGhkbC02UU9PSVkzdGdwbk5PMm1sb28xa3V5M2gzZGlRQjBaQUdsZzlsVmlKSGVnd3k1Vk9qUFdHX0NKRW95TzhxN19NQkZ3?oc=5
+- India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi - The Guardian
+  India-Bangladesh relations hit new low over exiled PM
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQLTFEaXhnaVQ3RW5mb2xWdUlXWUpoZ3RnN1ZNTlgwYVMwa2liTmNfbkxLTmtXQkY3eGtLcHZ4RHVJVEF1SnRucXBYSGZtS1ZkR2JSenZHVHkwNlloY0gxUkw1ZFNmX3ZSTVpOZkVtZjE1TTlnWkIwZjk1TnV4ODN5OHBoX1RybmtGVmFXNDJKSFpnUUREQnJmRHljellsaFktci1aaGIyS2MyRDR6dGc?oc=5
 
-- PM Modi and Netanyahu review India-Israel Special Strategic Partnership - News On AIR
-  PM Modi and Netanyahu review India-Israel Special
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPM3NJY09YRzVCZkFTQ24xYXpDa2lXakFpWUMwZzQ3bWdPOEpsLVJqd0U3WlVsRmxWZFVWRTB0OWFhTXY3VFBFeGx1ZXNWaXNXa2E4bFVKaXFuRHJ3d3B0NWJrV1hnNjZmMVdmQTdvZFdKQWhDX2ZrUTFfZzRpc3g5cEFBU3dSOXI0WjNqeUZlMndwMXJqSGxhcGR2OWtVZw?oc=5
+- India successfully test-fired medium-range ballistic missile Agni-4 from Integrated Test Range at Chandipur in Odisha - News On AIR
+  India successfully test-fired medium-range ballistic missile Agni-4 from
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMmZ5eUhfUmRkY1BoMEk1eGREcjJ6LTJGSi02R3ItRFJ1Q05TZ0o5Um9Ra3hGdURYUUhCbDFrZTdGX3JuUEtZdUFjSE5rdVZBQzVVNDVHc0tyT05tMzZaUlhzY0NBa1RnQjBhNkFRdnIzOEZtNDF5TWdsdGVOUDM5R1M4aEFGUkFIZUR0SVBZbkRKMHB5RWlxSTV0dEI5TlVPd3BZRXlRQmNhRi16YV8tUE1ySGl4M2UzaVhDY3h1aTBUT3FJOWs5ZXNUcWZzcklmT1hWTFV6azRtMjA?oc=5
 
-- Lok Sabha Passes Bill To Allow Charges On UPI, Other Digital Payments - NDTV
-  Lok Sabha Passes Bill To Allow Charges On
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0dGRkQzT2MzWElYVEVXZXF4bWMzMi1WaXBMQ0xfeW9aeVNJb3ZiYW5UMmk5aXdvLXN6N2t2MVVPMVFydVJ5QWd0bXowa2lvQmVBRzhGX0ZTclViRDVya2FvaV9XbWM1bzV1eUNXaHdCQ3RKYUVyQnNYdjRnNEd4bzI1UV9EbVFMYW12ZjUzWnlMV0JManFpX1NzMkN6djlSckdJd0ZoQ1loZGpVZnfSAbYBQVVfeXFMUEs3NGJzS0hTWHh3Q2ZHeGNldzVNdXgwQWFkSXBJRjdTVXNQdTJnUjJ1R2JvU0QxQnZva0p3M1dZb2ZpeXJWWWpXN2lDY3pDY2c0QmxTR3EtLXQzOFhfaW9ENS1YVW9JcDN6Z2I0bUM1ZmRzejJBQnBmSEVaNjk5OFdVX2lPWmhCM1Z0UnJFblM1dV96ekVtYlU4cFdqSlRidUNYRTVJR0pnV3doVHF5NVVxaTVkWkE?oc=5
+- Last Shot Fired In Bofors Legal Battle, Supreme Court Dismisses Final Appeal - NDTV
+  The Supreme Court has dismissed the final appeal against the
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnR2WXd0UUQ2eXJfZ1NzbTdIWjQwbzhoNHIxOENjZkROcVgwQWtmWHhvWnpBSnhQam5YTHdfTkVwZkNhaTVNRE5QNmEtblQ4NDR6M2xCSzNWSnAyZ2JfaWM3eGM2a3hlZEg4OW1JOWw5LVJvQlJCQXdLY2VGREw3VHExdWhKME83U1JKOVhfbVc1b05vVTQ5dnRKY3UzYmtOQTAtWkpESnRJYlVyNkYxSHUtUlh1NW_SAb8BQVVfeXFMTnBQemdRc25acGszY052QmxJemM2bm9Bc0xJVnlJWTI5Y3hULWpWRzl3aElBdkVINEotaTZQX1BGOTMtdmpILTVsdDFkLThtbWxKMUhXVExPMzFvbXdzTTNaR09SallsS19NQVp0M1VwaUFwYXY2ZXJoVGFOVkw1RERTMm9iaDNFLVJfY3VDc1hpUEQ2Mng2aGNaUWg3cG9UMVFUUXpLTWZhcTdtOFpFck5LNnNrckRKU1dCbVFkR1U?oc=5
+
+- Supreme Court on walking: India is a nation of walkers - but its cities forgot them - BBC
+  India is a nation of walkers - but its cities forgot them.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUU1ITGNVUmtzbTBwVHVnS0JqajN1aUYwbXBnRGFyN3c0SF9XNTFLNTFiTHJpU09rblJUQnFjWUJ2MVQ3WE9WRGlrT3JXRWZBMlotTk84emdyQQ?oc=5
+
+- 100% tariffs: Why India may ignore Trump threat and continue buying Russian crude oil - timesofindia.indiatimes.com
+  The Indian government is considering imposing 100% tariffs on Russian crude
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRlFjc0pSdV9FYnN0ZUk4XzkxYVhPUFctS0RPRU9VNzQ2M1JteVdPQU10TUE5OGRnbkRrMlJjejdEeXozeWxJVmlpR0xnZ2hVVHRwS0lXbkR4R2Y1WThvcEFFQWIwYUpUOTRXOGVUa0VRcjVXVkZmZVM4Q1lWMThiNU9aM2Qzd0RQZGVWVi1xU3BnTFhOU3FwZTkyc0hWUzkzbm9kZWNuYzFsUEVMTkpuWXdTQ29nU3J1dktYc3Nxc2FtRVR4RzJxYnRsTFNUR3NwaFowLWRueHBkMTM1bnEzdkFQdUdwMVBQaGdDdUlkQVMtNVZzYzg2SW8tT3g?oc=5
+
+- India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi - The Guardian
+  India-Bangladesh relations hit new low over exiled PM
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQLTFEaXhnaVQ3RW5mb2xWdUlXWUpoZ3RnN1ZNTlgwYVMwa2liTmNfbkxLTmtXQkY3eGtLcHZ4RHVJVEF1SnRucXBYSGZtS1ZkR2JSenZHVHkwNlloY0gxUkw1ZFNmX3ZSTVpOZkVtZjE1TTlnWkIwZjk1TnV4ODN5OHBoX1RybmtGVmFXNDJKSFpnUUREQnJmRHljellsaFktci1aaGIyS2MyRDR6dGc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-06 23:58:20 UTC_
+_Last updated: 2026-08-07 02:27:57 UTC_
