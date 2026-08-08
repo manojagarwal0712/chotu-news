@@ -1,40 +1,40 @@
 # 📰 Daily News Summaries
 
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
-
-- Share data on river waters, India tells China - The Times of India
-  The Times of India is published by The
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FVTkVBaHl6cHUydktMaXhFU2FXNUMtY3ZzUnVRbjZsbldTR1Y3cWFXMWYycWd4OFRFRW04QUFwNXdvWHdfbThiaFRrT3k3RkV3RlAzbVR6S096b2hYamRhZ2FpQkpLY2VsUWk0aEJnVWFPLTRnYkN2YWZGaG02MVktNU8wdkJGdHVvM1RRTzk5YVh6TXRkWExfbHk0YWhYR3VNZC1uY1I4LTVURXU2ZUFR0gG3AUFVX3lxTFBVOUxaZVRMcV85TTN0cWdDZi1PbVBCX2cxN1J2SnpFNmNCZnBEOFBFMDhRVDliSVYybGJrNUxYbW1CaHBodFY3cGFHWEwzUncycjQtdm82TW05SGdoMllLNkdwZzlCMkl2U1FWbjBWbmNTTDBFQnJPUnExa3pZTWNFT09zVFF3eUFkQVdrNjNLcFRFYUhHWE80QU5aa0dBazdjYTNkX3gtSWZ2d2tzV1NDbjJ4dmVwaw?oc=5
-
-- Jharkhand exam protests in Ranchi: After CJP, a new youth agitation grips Indian state - BBC
-  Jharkhand exam protests in Ranchi: After C
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteEliclRRZks4RDlZWTgzWllJTjljNkZZMlB6QVFoZ2xzZUp4Zkp2bnY1Ry10ZklSSWNPQXd6a2JTaGxGczEyU2FZRVlBZ3V4NHJyenJrdUR1QQ?oc=5
-
-- Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source
-  Microsoft’s newest India datacenter region goes live to power the country
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5
+- FCRA Bill 'internal matter': India rejects US criticism - The Times of India
+  The Times of India published a front-page
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ3pBN0NCSm9TbDRQOW84VnhodFVRbVR5ZW9OQzhxSWNTUjFYYTk5bTBNUlR4TEluZkRyMnBPdzJWV0dndkNJNnFKQW83a3pBWmpXLWFyOFRWOTJ2dVZXcVJVVU9jYTM1b0N1Y3ZQblVJaWVIY3hqdXlMRzZIMVItSjRMaUdBNktaeDdIbTQyREQ2cVU5aXFuaV9OSTZKTW1nNXdzeGdMek42bkUtcjZsOHJCdG1DUGMzTWlDdNIBwgFBVV95cUxPbFlCOVRXVmlUc2Q1d0FmZzVyRFhCck03UzJZYlJvYlM5eE9KNEw1NWVTWUdBYVY5clNwN1pxZmRSZXY5dmNTZ0JEU0tzSDRNTGxwZUZsNElHamk4Qnd4NDZvTzZ3dk9Vcm9veTc0MVZMa2tJRTJ4NDMySmVhX1dMUFpEN3R0QTRNRFNpQnl6SVlQbWdlMl9neGxMRllldEdUUmVaQlVlRDJxcU9IRmlULTRUXzNDb19UTG1ZSElPbkl5QQ?oc=5
 
 - "US Regulates Flow Of Foreign Funds Too": India On US Lawmaker's Criticism - NDTV
   "US Regulates Flow Of Foreign Funds Too":
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnI3ekFHcF9jX3ZSZjBpOVJTR0RqWkxURVBmdU92YXlFVkFYenUtcEprWnFNbHhzeE5iaVd4VXBFdGdBWG8xMEprNnFSVDFKQ1JSRmx4Q2xQalR6NE5mdkkyazhUQkxyTjQ3S3RLaVVTYW5QMEZ1Y2ZBYkR0VTVTT2Q5RFM1eXJWNUk0aVhYa1NJTXN1ZVZyNGtmQTY4TjF6TnE4R0tUVlZWbWkwSGMwU21aRTFjckpycnFIdjVn0gHGAUFVX3lxTFBiVmFwQjNuWDgzOXlYdW5aMDNGRHIycktuS196Zmh3Q21uUmZYWUNTRGlYNG1XUlllYmFnWWFINTg1VVpzRVN6V2FiNmF5WG5UekJvMkwyQTBjY1JWV0FXak1rSF96OXZlUnFXbW5LNDh5NXQ3ZUFkUXJCRHJsbkVuYjBCb2xkV2pHR0NMNXNCbWgwSDF4Z1hTbnJfc1FuZWFkSEcxbmQ3T0k3dVhuNlJ4anBTbkN4Z2ZwWHIxQmJ4WTl0N1pYdw?oc=5
 
-- Samsung Electronics launches next-generation AI memory technology - Reuters
-  Samsung Electronics launches next-
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5
+- MEA's riposte to US lawmaker's foreign funding remarks: 'Our internal affairs' | India News - hindustantimes.com
+  MEA's riposte to US lawmaker's foreign funding
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalJ6dWQyS2NlWi1qYXpWWlZCZk5uZGx6UktjSnlONldDbE10NjhmN2MwUEIyemlvcHhEbkxSQWo1TXl5RE54TmJ4VDhBaEhfZkhEcjNxUU5NbUtjZ0VRZE5ZMFd1ZExQYl91RlpHcThmcU8yOFM1dk8teWFXS3BLRXhVU2FpTDRxN2xUZmV2MUl0dmV5RjkxM0hiUTlUUkxwelRuekg1S19ySktkTmM5WGV3RXRIRnlsR0ZIY0NLSTBid9IBxwFBVV95cUxOWldXSVhmQTRzVHRXUXkxcE5FSUZrVjZhMUFzQ0dYb1RrdXVSS2V3NTBqeGhtSXVsb3VwUEJ0SWtqWXppbkVqVEd5X3h5blJXWmJ6eGR3Z0pqVzMyWVVOZmQ2XzQ1RjluVFZ4bXRNaWxGWWEzUWJIWkRzdWZxX2VBNVZKT0tOejhWQ19OcmI0UEpxQzltZ05GMV9ySDVXOW55OEJRSmwtcXdwb0lBaXFXb3M5OXJnRGI4MTQyR0oxc0xrTnZiSHc4?oc=5
+
+- U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others - The Hindu
+  The Hindu has published an article on the U.S. sanctions
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5
+
+- US Senate passes sanctions bill on Russia, Iran; India could face tariff pressure over oil - The Times of India
+  The Times of India reported that India could face tariff pressure over oil.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQNnFLTXlUZlRpbXhRb0p2WjdPLWg0cWJhQWJCVVcwTFp3SGtnVC1KUUZnXzZDczVkVkpYMTJSSFF2Nm9MSFVVeWJzWDhYc3Vnb3REZnhPazBBWmpRRl9XNHVVeTZGaUY0MmllOER5SUVuSVlrTnlvN3JtTHllZ3U1bS1NWFB0Qi1FN1dVODQ5cTJCcGlKdXRpanZ3bmVRajlrX3Y2d3FiVWVtQ29DRnZwbFdlZ1lXaG5QOXhodkRiZmlEcGtGMDRtYTRFZ3dma1RoeXVEUERUT0IxZUhoREh0bmV5TTVBeVVOVmlObFlYaVJoeU1rNVgydFFsN2hERXVfODRIc29uTHctSGlLTDMw0gGUAkFVX3lxTE42TmVYaWlXeWZJLWdSQW0tTEtNZEo1alJWN0hHa2QwV0pJQmM4eGRNR0lkaUg5T1UyUGFpdUJrQ1gzc1Mya2ZnUkZ4UEZoR2JkX3h2UkJzeXpBYUk5ZjF1SWdOVlFmN29mMkFrODBWc0RIUGJQQWFVSExrUDFXU3NSS01xeFI1ZFFEemlTLWktQVhyejU2RVpRODBfbENhTFFBejM2NmNLTEVucnRnekQ5YW1KS0RnNS02OUJjQ1p4YjdSSU5jOUZlRERrYUhXV1A1cndWamZTRmlpS2Y5eGR0YkJLSWc0cE4wSGxPZDI2OGNQbS1UODZFUVVPTk5QN1E4VHZNMmRka0hodlptWHpSQ3pnOA?oc=5
+
+- Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to be disci - The Times of India
+  Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQNUFFZmdWR2tDeUc5cXNvQWFQLW8yNnJxWF9uanlUYUNwcndpbzM4bllJZHhlUUhSVUFwd2VNMDdRbEJKajVlYlltejlDOTVLdmVXU09aVXpld09nZGFpVmROY2gzbWMtQjAybFRLd2tGdi1UWTcxVnF3UHRhaTdGd09FcjN4bXRJa2RnOU5ET2djcHlObklqczdzOGdjVkRUSU0wWlcyZi1CRGdKVi1obHVtSjdscVItdkVhUjRIa2pIX2tiVUxhVHlNemFScGlIZDdYeFhvMDJ2V29UVUQ5dXF3Z09veXVrZFotS29KRnU5b2NyUFFWVXJyU2xiZ1dNWTV5NFhPSFV2TFAyYkdRR0wxVm1WMEFpd3RpbEtUSmhJbloxeXhpajEyWEpBU05Y0gG2AkFVX3lxTFBmZFZlUVVfd0E0bGF1eW0ybUV0c3NwUld2U002S09DZHBPbFBEZElTcXM5aFk3aktkejRRcG9DNWxLTkZDSTZtOHBtNmJoRnhqSEpPN2o0eWJoZ3hZaWFDRTVkb0g3RTlJeG9TYlBfYnNuWFNXdVpYLXFWTGx2R0dxNjV5WmdZTjEzbmotNHBGZjBzOFNiZElHcTFBeDdYeFRNVkQzUDFFeE42ZGd2NEVqVXhBLVZHVXQxTTdIN3ZseDNPZXRSZ2o5dVd6dng2bktFeFVId1BOek5vWXhSRTBQcDFvZXhyWFRJOHdrU1duYmtPbGs1dklKX054bmNqbmw5THlIbDhVdHozM18zLWhyQVQ2dGhxYW9OYTFDZGJ0emdyaXFvX3YwQ0pBX1N0MnVtdDR4aUE?oc=5
 
 - Conflict of interest in startup funding panel “unavoidable”, says Technology Development Board secretary - The Hindu
   Conflict of interest in startup funding panel ‘unavoid
   🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYmgzRVVDQThPVkxHMlU5cURjMlVSYUhCYlo3SmNRVVhzOEFlQ3FkbmU5UnRjR2RWV1QwbHhzRWs2QUcySFNCd0VEMTY1MXNnVnpTenFiN1lpeXJWNFBoWWREbVVIcENIRXhpVVhvWHdvNGc2bE1NMTE1NXBpZXB2VVN1b3VNakZPYW1wUi1zb2doVVJpMWNQWjJBRnh0WkVVakZwNDZxOVJFR09ueE0zcmhqSDdib2N3bnpnY3BXUWhQZTJydEtmNFppRTFjVVRpbWN6UXI4ZXRZM3lTNzROSFl0a1pDSV9IdUNkcmhQcDNDQdIB-AFBVV95cUxQdEhVMmZZTG9LRzVpQy12NmVqUHRUVk4tc3VFbURQQS1hWWpueG44M1JZSUNlWmNuYmF2MWltOEJEXzdCQVZJUjJkT0oxWHFUMDVPb1dqR0lQSHlEZ0J1Wmg3blZFWlBKdWNnSERCMDQtZ1lpMzVLZVR1R1NjQUJSalE2WkNOcV9JSjZ3QTQybVo3czRjMWtONkEwMUZqRDNSWkJ2OU5lVDlRc1dpYVdyb0w4ZVFtdEY4RGlFUkxWRklVR2Q2M21lblg3RjVKbGJpZDJXbHg2TzBPdFd5Uzh4SnFWZWRlNDNBRDVQeHdrN3lZTG5jRndYVw?oc=5
 
-- Technology Has Democratised Legal Profession: CJI Surya Kant - Live Law
-  Technology Has Democratised Legal Profession:
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNMi15S3p3cWY3Q1F0blBlRDFJSWtTNlNUZ25QU0NnQUhaRmQwSy10Q05lMkllRlZWc0pMVWl4Nk91cmhUZG04QVRLNFRMRDYwSm1XNUExUTBSRGxockFwajczZHRQdFFqN08zb0ZaMy1NN3BqMENlSW40dUMxYVZrcnMwd2Npd0p2OTZ4b193R05ESmpob1QyZnBJTnpJTWY1T0Fr0gGoAUFVX3lxTE9sZFZKVG5DY29la3JKMEdnUlN0eFVabFQxbTVWRDRfTnNQeHI2OVlzWTlvaVpGeUxBOGtUN1NfYWtZQ3RBd3dNMFR2WnhVQU96WkFRcnNUelFoNXdONFpUUUsxT3hiSE1HX3Fnbk9uajM1M1dSSm1yY0RZejg5MmN3RzdYbVVUWDhoUW43ZkVvTUhkY29OaWVZMnowang4YXE4aVhWSl90Yw?oc=5
+- What are AI-designed viruses and are humans at risk? - The Indian Express
+  The Indian Express asks what are AI-designed
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlZoRlhYUGJseEFHSHJyTVV3M1NXVlVLdVA3VmVkUzN6Ry0yaU5yVU5SZmIxbmVGR2dYUllOR1Z1R1BsSmFjRGJubXQzYzlSWXVKLXBFS0JqcnJ1THZvT2lCTVdLVV9NYmptOTZtejVsQkppVFI5YjdCb0s2bm45d3FHSzZZejhPbW5GeTkwdmhNTmFRRDhoTi1SRGhBZ0NFSXhQcmRKd2I1X1pVUnlkeNIBtwFBVV95cUxPSEFfQnpEX2RmU1ZINHR1WGdNeS1ERVVRZXJKSk1zcGYzNjI2T2Y4SkNYSWNaejZ4c2FoM0thQ2NlVjVqMTRsU083aU1zeDBYbjN2TnZjdUNfT3ktT1VZSkVJRHlaM09rVE5aZUVySm13YXJpUEIwckR2OU5KREVLWnI4YldiV2tfRUZFcHlwd2F6blJwZUlnYzVyalZtZHFqLTBDd3ZRZjBmZHhFdE5meG5JOTBDUXM?oc=5
 
-- Who is liable when AI goes rogue? Lawyers see new risks - The Indian Express
-  The Indian Express asked lawyers to look into whether AI
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPZGM1WVd0NWhROEozdVZKZWx5djZBSUJpSzUwaUd2UHVHaUFoaUhUUlZsVGdRYzkxMHBHV3poN3YzTGZyd2Ywc0g3bkEyazVjWS1MVXpDOVlvTEpnbGpvY1J6aHdnQzNHNVVmNldMeHJtNWNja1Z1aHk3OEFqQ0pBNGtKT2hKQ1p0Z0Z1eDEtMzN4c2w3UUNmYVliUzFfY09CZ2tJcWZ5VEM4Zm0talZkMm13dElPcnlJN0hXeF9iS2tReVJjSzM1N0NLWFd3Z9IB1AFBVV95cUxORUdFX2FOTXRNdWZwMHFHTzJoeGxfZzczZFFLSXFaQ3cxTTZDVTlqRHFGZFpPX190X0xIbWV4dXZtMTNCOHV0TGlFSkhEeVA2S3JTUnpxcVN2Y2ZSUzV1V3RyNWhaemZLcEI4aU10TGFiTzdmQm14djBrNFJxNE1wWGZPYVVrQkJyb3IzWlp0ZjJ3X3BTc19rMVU3c2VGMWRGMExicXoyWF8wTXBRQU4tejVQZDl6aEVaeGlIdjJvWm5KUEV5eE1JUzdwV3dNUjJRYVhjRg?oc=5
+- Odisha, MP sign MoU for clean energy technology transfer - The New Indian Express
+  Odisha, MP sign MoU for clean
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVVSZHh6R1VlTkM1U0U3bXVPUUMzZ2VHcWdrOUVBZVVJNjgtUzB5aXZtekRrRXRoSGN2RVBDTlN3UUstY2c0Sm9PQlJTZDhvVnRjR2pRZTZrMTlrQUZJU1pnM2lQeGZSNU1hckUxNkZDWEgwYk8wQVlFTGpLOG5nOXBMTFZ1b2NrMjVaaDR1TUhEdml1bm15NF9waGFCSjFQdjdqaThBODVVdmVKVnFoaGNkWWfSAcIBQVVfeXFMTlpHZG9wNkc4M3dQX1V6S2lFNmtzTHBJcXhIQzJLRFhTSXJFSDhSaGxlUzJtN1hFWTZaV3MwemdMZ292Q0NsNnl2anBSM0o5T3puZlFJZnFMcWNsbEdBNlVneUVXSjN3a1g4dE0xZW1QRUJIcEVfQk9TNkVmVmxGTF9MUkxVUVFQZkJpSDdIOHJQWFZWTHF5dTBmWmNmU2ZrbGVfM2JjaGRxQWtBTzZFZGM2VG9fT044T3pIVldLMDJlOWc?oc=5
 
 - Marine carbon removal technology that turns carbon dioxide in seawater into 'stone' for permanent storage - Phys.org
   Marine carbon removal technology that turns carbon dioxide in seawater into
@@ -60,25 +60,25 @@
    EV maker seeks an early resolution on Sebi’s disclosure probe without admitting liability
   🔗 https://www.livemint.com/companies/company-results/ola-electric-q1-results-ola-sebi-notice-11786108378463.html
 
+- Ardee Industries IPO GMP remains steady after strong subscription status. Allotment date in focus
+  Ardee Industries IPO GMP today: According to Investorgain, the company shares
+  🔗 https://www.livemint.com/market/ipo/ardee-industries-ipo-gmp-remains-steady-after-strong-subscription-status-allotment-date-in-focus-11786163860873.html
+
+- SBI Q1FY27 results beat market estimates. Is this a stock to buy?
+  SBI delivered a strong operational performance in Q1 FY27, recording a
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-share-price-sbi-q1-results-2026-beat-market-estimates-is-this-a-stock-to-buy-11786157865622.html
+
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 10 August 2026
+  Sumeet Bagadia recommends three stocks to buy on Monday.
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-10-august-2026-11786154773920.html
+
+- What are the pros and cons of investing in Ather Energy?
+  Strong quarterly results, vertical integration, and an aggressive expansion strategy make Ather Energy a compelling growth story. However,
+  🔗 https://www.livemint.com/market/stock-market-news/ather-energy-share-price-ather-energy-stock-analysis-11786106371536.html
+
 - Short-Term Treasuries Cap Biggest Weekly Rally Since May on Data
   US Treasuries rallied after an unexpectedly weak July employment report prompted traders to further dial back expectations for Federal Reserve interest-rate hikes.
   🔗 https://www.livemint.com/market/shortterm-treasuries-cap-biggest-weekly-rally-since-may-on-data-11786134305338.html
-
-- Treasury yields fall as jobs report dashes hike bets
-  Treasury yields fall as jobs
-  🔗 https://www.livemint.com/market/treasury-yields-fall-as-jobs-report-dashes-hike-bets-11786130890731.html
-
-- Gold hits seven-week high as weak US jobs data dents rate hike bets
-  Gold hits seven-week high as weak US jobs data
-  🔗 https://www.livemint.com/market/gold-hits-seven-week-high-as-weak-us-jobs-data-dents-rate-hike-bets-11786129243519.html
-
-- Equities poised for best week since April as payrolls surprise eases rate-hike concerns
-  Equities poised for best week since April as payrolls surprise
-  🔗 https://www.livemint.com/market/equities-poised-for-best-week-since-april-as-payrolls-surprise-eases-rate-hike-concerns-11786127839882.html
-
-- Sebi to cut routine checks by two-thirds, focus on high-risk players
-  The revamped framework emphasizes efficiency and will cut inspections to
-  🔗 https://www.livemint.com/market/sebi-inspections-high-risk-intermediaries-brokers-equity-market-11786108148578.html
 
 - OpenAI's new gadget leak reveals as ChatGPT creator vies to disrupt market –$400 price, shape, other key specs: Report
   OpenAI is set to launch a new gadget and enter a market dominated by Amazon and Google. Designed in collaboration with Jony Ive's LoveFrom, the device is
@@ -104,68 +104,72 @@
   S&amp;P 500 rises to record close Friday and posts
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5
 
-- Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts - WSJ
-  The WSJ reports that the S&amp;P 500 rose to
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5
+- Stock Market News, August 6, 2026: Dow Falls 460 Points, Breaks Winning Streak - WSJ
+  The Dow fell 460 points on August 6, 2026
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmhkS2hZaWhCRE1xZVpnRUEwOGpaaW11SHd0RzhiX0tTbG5rMGhUX0dvRG8wVFNxYkdjeUd3MlJTc1NEV0pJdUlVUlUtb3l1YkFSZUY5aXhja25adTMwcVZyOWRxMW1SNi1WV0NnU3p5bklPQzRoU1ZhZDliRGhfejNkVkRLb1E?oc=5
 
 - Stock market today: Dow, S&P 500, Nasdaq rise after July jobs report surprises to the downside - Yahoo Finance
   The Dow, S&amp;P 500, Nasdaq rise after July
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUtSUk9IQ0xYMmZFNzN1ZWRyeVZwNWR1aXdpc3AzTGRYUERaTXdETDNCOVZZQV9OZEtsWU1qa3FQamFUVGNuejFVMUh3ZUhMT0E2aDJqemZjdmFISTB0Q2ZkYVNDYU5ScFFjckZlcnAyYnByaFRQckgtU1l6bVJzTDRYc2VWRUs2WGtEMlE0aks3c1ZOS0lZOEtVOFNzR1kxOXZNN05ZV1dVeE1URVBBbXRlRlhfUjdFYndwME5TVnUyUGxnTVkyQVlwM3FPZw?oc=5
 
-- Jobs Report Live Updates: U.S. Job Market Shows Unexpected Loss - The New York Times
-  The New York Times reports that the U.S. Job Market showed unexpected job losses in July. The BBC reports the labour market is well-balanced.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1COG5QdEZTcXNmcTNybFJiVWVoNHJlS0Rrd1dsM282THhNNnVCVHhnVXNncm90UHRRNENoQjQtRm9KNWZvaTZlRFA0dFRoRWstRXdYeU8tV1BRMFk5RVEwTmxua2t0S1ptT1dRdzR3MXpxQ0k5OHFZ?oc=5
+- Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts - WSJ
+  The US labour market 'well-balanced', expert says, according to the BBC.
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5
 
-- Stock markets decline dragged by banks, elevated crude oil prices - The Hindu
-  Stock markets decline dragged by banks, elevated crude
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOV08xYlJCcTNDX0d0MEtHOTVZRGJqb3lzRmIxN0Z6WmhkTVZiM2ROZVIxNkFYc1hxYm9GSlJNdXo1YXQ3US1tMEFFdE4xcjB6dG9WQU1BN1dUYW9ETTVYVEJrb1NSNXJTRXhSNklZajRlc3ZtRXNFcFVDQ0t1REFzeGMydUVWbkk5VVUwMUFNMDVXTGRFV1I4QnBWTWRSWDc4SFZpaVNoNTVfVG5UY01rS1RzYmJ1SmpVaXdXd1NEa2pjNlRQ0gHLAUFVX3lxTE4xS19CVUdpWTU2SVZ1UUhidFhTZVc3X2J3ZkJZclc1WUNXTXloQmh3dWRzV21uVzBjbHk5dll2bkNuenNYR1FWMjFTQlNGTGx0OEFXYjNiaHktNFJDQ25McXM0RXpYeVcxaUtqVlRxQjZBbUZCWUZaRFJUQUtreWJMWkQ2amNMVE1ZeFZ4ZnRSUEFPeUtnd21xMlNlQklpWjNsQm9iRnF6b2RzVzBMd0VicEhPbHJMQmlZUzFPN08zQkh5N0thdjFFOXZZ?oc=5
+- South Korea's stock market crash: Why AI wasn't the real story - The New Indian Express
+  South Korea's stock market crash: Why AI wasn't the
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGxyU0NCZFE4Yk5wWkhVSFRzVlE2TFFQaW5mN01MVWNwMWtFX1V1S1BHT2VQUXB3YzdIbUNuSW1hR2ppREl5dURvdkpoMENudHJVZktqMGc1Q0Q4bnA3TWpvM0xRTVNzSVBZOXdzclJSSTFvMEN5STRTVzFfYnI0SURTYXZpXzZONlktWEoybWxER3YxcWRveS1oVmZSa3FyWVV1ZndDSmRiRTl0c3E5TXJxS3RNUdIBwwFBVV95cUxNT2JzUFJwSk9lX2M2TmRMaE9sVGpOYTdvY1RJUGpqRnZEUFFaN3V3UWZOQmwydGw0ZUJ1T01KdGV5cWwzS01RVFRvazBzb0M0WWFpaFhuRE1Gd2k3amJjcUQzMDVhc1BGU205MGd3WXExMkZmbDlKcFBEZkJGN251NVZvcUhYV0xla3ZWNVhoNmdTQnEwQ01nZklSNUJScnNWcDFNdy1fOEVFc0xZdldsZ0EyYi00SXp4T216dTkyWHRjR2c?oc=5
 
-- US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns
-  The US stock market enjoyed a significant boost on Friday as the S&amp;P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Reserve interest rate hike in September.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms
+- Beyond the headline number: What India’s Rs 1.3 lakh crore MTF book really tells us
+  Unlike leverage-driven volatility overseas, India’s regulatory safeguards, margin requirements, position limits and broker-level controls keep leverage collateralised and dispersed. These measures reduce systemic risks and support market resilience.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/beyond-the-headline-number-what-indias-rs-1-3-lakh-crore-mtf-book-really-tells-us/articleshow/133047291.cms
 
-- Market cuts odds of Fed hike after jobs data, but economists still see case for tightening
-  The weak job report for July has tempered expectations surrounding a Federal Reserve rate increase. Futures markets now indicate a diminished probability of a rise in interest rates next month. The economic community remains split on what lies ahead in rate decisions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-cuts-odds-of-fed-hike-after-jobs-data-but-economists-still-see-case-for-tightening/articleshow/133040583.cms
+- Dhoot Transmission raises Rs 918 crore from 72 anchor investors ahead of Rs 3,067-crore IPO
+  Dhoot Transmission has raised Rs 918 crore from 72 anchor investors ahead of its IPO. The company will use the proceeds to repay debt, fund expansion and pursue acquisitions.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-raises-rs-918-crore-from-72-anchor-investors-ahead-of-rs-3067-crore-ipo/articleshow/133047215.cms
 
-- Dollar falls against yen, euro as weak US jobs data clouds Fed outlook
-  The US dollar weakened against major currencies on Friday. Unexpected job losses in July fueled economic concerns and clouded Fed rate outlook.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dollar-falls-against-yen-euro-as-weak-us-jobs-data-clouds-fed-outlook/articleshow/133040262.cms
+- Top 5 stock market lessons from legendary investor Peter Lynch that you should follow
+  Legendary investor Peter Lynch’s investing philosophy emphasises understanding what you own, conducting thorough research and focusing on a few potential “tenbaggers” He advises investors to ignore market noise, avoid emotional decisions and resist predicting
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/top-5-stock-market-lessons-from-legendary-investor-peter-lynch-that-you-should-follow/articleshow/133047152.cms
 
-- Raymond Realty Q1 net profit falls 19 pc to Rs 13.43 cr on higher expenses
-  Raymond Realty experienced a 19% drop in profit for the quarter that ended in June. Despite this, the total income rose to Rs 535.71 crore year-on-year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/raymond-realty-q1-net-profit-falls-19-pc-to-rs-13-43-cr-on-higher-expenses/articleshow/133037906.cms
+- Reliance Industries, ITC among 10 stocks that saw highest buying by LIC in Q1. See full list
+  LIC increased its holdings in several major stocks during Q1FY27. Bharti Airtel
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-itc-among-10-stocks-that-saw-highest-buying-by-lic-in-q1-see-full-list/slideshow/133047094.cms
 
-- Gold hits seven-week high as weak U.S. jobs data dents rate hike bets
-  Gold prices reached a seven-week high on Friday owing to surprising job losses in the United States. This trend puts gold on track for its best weekly gain in seven months, as reduced interest rates boost its allure.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms
+- Dollar drops as weak US jobs data pushes out Fed hike expectations
+  The US dollar lost ground against key currencies due to unexpected job losses in July, raising fears about economic stability. As a result, the markets predict that the Federal Reserve will keep interest rates unchanged.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-drops-as-weak-us-jobs-data-pushes-out-fed-hike-expectations/articleshow/133046646.cms
 
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
-
-- Share data on river waters, India tells China - The Times of India
-  The Times of India is published by The
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FVTkVBaHl6cHUydktMaXhFU2FXNUMtY3ZzUnVRbjZsbldTR1Y3cWFXMWYycWd4OFRFRW04QUFwNXdvWHdfbThiaFRrT3k3RkV3RlAzbVR6S096b2hYamRhZ2FpQkpLY2VsUWk0aEJnVWFPLTRnYkN2YWZGaG02MVktNU8wdkJGdHVvM1RRTzk5YVh6TXRkWExfbHk0YWhYR3VNZC1uY1I4LTVURXU2ZUFR0gG3AUFVX3lxTFBVOUxaZVRMcV85TTN0cWdDZi1PbVBCX2cxN1J2SnpFNmNCZnBEOFBFMDhRVDliSVYybGJrNUxYbW1CaHBodFY3cGFHWEwzUncycjQtdm82TW05SGdoMllLNkdwZzlCMkl2U1FWbjBWbmNTTDBFQnJPUnExa3pZTWNFT09zVFF3eUFkQVdrNjNLcFRFYUhHWE80QU5aa0dBazdjYTNkX3gtSWZ2d2tzV1NDbjJ4dmVwaw?oc=5
-
-- Jharkhand exam protests in Ranchi: After CJP, a new youth agitation grips Indian state - BBC
-  Jharkhand exam protests in Ranchi: After C
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteEliclRRZks4RDlZWTgzWllJTjljNkZZMlB6QVFoZ2xzZUp4Zkp2bnY1Ry10ZklSSWNPQXd6a2JTaGxGczEyU2FZRVlBZ3V4NHJyenJrdUR1QQ?oc=5
-
-- Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source
-  Microsoft’s newest India datacenter region goes live to power the country
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5
+- FCRA Bill 'internal matter': India rejects US criticism - The Times of India
+  The Times of India published a front-page
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ3pBN0NCSm9TbDRQOW84VnhodFVRbVR5ZW9OQzhxSWNTUjFYYTk5bTBNUlR4TEluZkRyMnBPdzJWV0dndkNJNnFKQW83a3pBWmpXLWFyOFRWOTJ2dVZXcVJVVU9jYTM1b0N1Y3ZQblVJaWVIY3hqdXlMRzZIMVItSjRMaUdBNktaeDdIbTQyREQ2cVU5aXFuaV9OSTZKTW1nNXdzeGdMek42bkUtcjZsOHJCdG1DUGMzTWlDdNIBwgFBVV95cUxPbFlCOVRXVmlUc2Q1d0FmZzVyRFhCck03UzJZYlJvYlM5eE9KNEw1NWVTWUdBYVY5clNwN1pxZmRSZXY5dmNTZ0JEU0tzSDRNTGxwZUZsNElHamk4Qnd4NDZvTzZ3dk9Vcm9veTc0MVZMa2tJRTJ4NDMySmVhX1dMUFpEN3R0QTRNRFNpQnl6SVlQbWdlMl9neGxMRllldEdUUmVaQlVlRDJxcU9IRmlULTRUXzNDb19UTG1ZSElPbkl5QQ?oc=5
 
 - "US Regulates Flow Of Foreign Funds Too": India On US Lawmaker's Criticism - NDTV
   "US Regulates Flow Of Foreign Funds Too":
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnI3ekFHcF9jX3ZSZjBpOVJTR0RqWkxURVBmdU92YXlFVkFYenUtcEprWnFNbHhzeE5iaVd4VXBFdGdBWG8xMEprNnFSVDFKQ1JSRmx4Q2xQalR6NE5mdkkyazhUQkxyTjQ3S3RLaVVTYW5QMEZ1Y2ZBYkR0VTVTT2Q5RFM1eXJWNUk0aVhYa1NJTXN1ZVZyNGtmQTY4TjF6TnE4R0tUVlZWbWkwSGMwU21aRTFjckpycnFIdjVn0gHGAUFVX3lxTFBiVmFwQjNuWDgzOXlYdW5aMDNGRHIycktuS196Zmh3Q21uUmZYWUNTRGlYNG1XUlllYmFnWWFINTg1VVpzRVN6V2FiNmF5WG5UekJvMkwyQTBjY1JWV0FXak1rSF96OXZlUnFXbW5LNDh5NXQ3ZUFkUXJCRHJsbkVuYjBCb2xkV2pHR0NMNXNCbWgwSDF4Z1hTbnJfc1FuZWFkSEcxbmQ3T0k3dVhuNlJ4anBTbkN4Z2ZwWHIxQmJ4WTl0N1pYdw?oc=5
+
+- MEA's riposte to US lawmaker's foreign funding remarks: 'Our internal affairs' | India News - hindustantimes.com
+  MEA's riposte to US lawmaker's foreign funding
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalJ6dWQyS2NlWi1qYXpWWlZCZk5uZGx6UktjSnlONldDbE10NjhmN2MwUEIyemlvcHhEbkxSQWo1TXl5RE54TmJ4VDhBaEhfZkhEcjNxUU5NbUtjZ0VRZE5ZMFd1ZExQYl91RlpHcThmcU8yOFM1dk8teWFXS3BLRXhVU2FpTDRxN2xUZmV2MUl0dmV5RjkxM0hiUTlUUkxwelRuekg1S19ySktkTmM5WGV3RXRIRnlsR0ZIY0NLSTBid9IBxwFBVV95cUxOWldXSVhmQTRzVHRXUXkxcE5FSUZrVjZhMUFzQ0dYb1RrdXVSS2V3NTBqeGhtSXVsb3VwUEJ0SWtqWXppbkVqVEd5X3h5blJXWmJ6eGR3Z0pqVzMyWVVOZmQ2XzQ1RjluVFZ4bXRNaWxGWWEzUWJIWkRzdWZxX2VBNVZKT0tOejhWQ19OcmI0UEpxQzltZ05GMV9ySDVXOW55OEJRSmwtcXdwb0lBaXFXb3M5OXJnRGI4MTQyR0oxc0xrTnZiSHc4?oc=5
+
+- U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others - The Hindu
+  The Hindu has published an article on the U.S. sanctions
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5
+
+- US Senate passes sanctions bill on Russia, Iran; India could face tariff pressure over oil - The Times of India
+  The Times of India reported that India could face tariff pressure over oil.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQNnFLTXlUZlRpbXhRb0p2WjdPLWg0cWJhQWJCVVcwTFp3SGtnVC1KUUZnXzZDczVkVkpYMTJSSFF2Nm9MSFVVeWJzWDhYc3Vnb3REZnhPazBBWmpRRl9XNHVVeTZGaUY0MmllOER5SUVuSVlrTnlvN3JtTHllZ3U1bS1NWFB0Qi1FN1dVODQ5cTJCcGlKdXRpanZ3bmVRajlrX3Y2d3FiVWVtQ29DRnZwbFdlZ1lXaG5QOXhodkRiZmlEcGtGMDRtYTRFZ3dma1RoeXVEUERUT0IxZUhoREh0bmV5TTVBeVVOVmlObFlYaVJoeU1rNVgydFFsN2hERXVfODRIc29uTHctSGlLTDMw0gGUAkFVX3lxTE42TmVYaWlXeWZJLWdSQW0tTEtNZEo1alJWN0hHa2QwV0pJQmM4eGRNR0lkaUg5T1UyUGFpdUJrQ1gzc1Mya2ZnUkZ4UEZoR2JkX3h2UkJzeXpBYUk5ZjF1SWdOVlFmN29mMkFrODBWc0RIUGJQQWFVSExrUDFXU3NSS01xeFI1ZFFEemlTLWktQVhyejU2RVpRODBfbENhTFFBejM2NmNLTEVucnRnekQ5YW1KS0RnNS02OUJjQ1p4YjdSSU5jOUZlRERrYUhXV1A1cndWamZTRmlpS2Y5eGR0YkJLSWc0cE4wSGxPZDI2OGNQbS1UODZFUVVPTk5QN1E4VHZNMmRka0hodlptWHpSQ3pnOA?oc=5
+
+- From River Mobility To BlissClub — Indian Startups Raised $274 Mn This Week
+  Indian startup funding picked pace in the first week of August. 22 startups cumulatively raising $274.4 Mn.
+  🔗 https://inc42.com/buzz/from-river-mobility-to-blissclub-indian-startups-raised-274-mn-this-week/
 
 - Hero MotoCorp To Debut Maiden Electric Motorcycle Next Year
   Auto giant Hero MotoCorp is all set to unveil its first batch of electric motorcycles next year.
   🔗 https://inc42.com/buzz/hero-motocorp-to-debut-maiden-electric-motorcycle-next-year/
 
 - Knya FY26: Revenue Crosses ₹100 Cr Mark, PAT Jumps 3X YoY
-  Medical apparel brand Knya saw its profit after tax (PAT) more than triple to ₹10 Cr in the fiscal.
+  Omnichannel medical apparel brand Knya saw its profit after tax (PAT) more than triple to ₹10 Cr in
   🔗 https://inc42.com/buzz/knya-fy26-revenue-crosses-%e2%82%b9100-cr-mark-pat-jumps-3x-yoy/
 
 - After Boycott Calls, Swiggy To Refund Alleged Unauthorised Charges To Restaurants
@@ -176,49 +180,45 @@
   Nykaa was once called the &#8220;Amazon of beauty.
   🔗 https://inc42.com/features/inside-nykaa-inventory-model-where-the-margin-comes-from/
 
-- Meet The 14 D2C Brands From The Inaugural D2CX Runway Cohort
-  After growing into a $65 Bn market, India&#8217;s D2C ecosystem is entering its next phase of evolution.
-  🔗 https://inc42.com/buzz/meet-the-14-d2c-brands-from-the-inaugural-d2cx-runway-cohort/
-
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
-
-- Share data on river waters, India tells China - The Times of India
-  The Times of India is published by The
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FVTkVBaHl6cHUydktMaXhFU2FXNUMtY3ZzUnVRbjZsbldTR1Y3cWFXMWYycWd4OFRFRW04QUFwNXdvWHdfbThiaFRrT3k3RkV3RlAzbVR6S096b2hYamRhZ2FpQkpLY2VsUWk0aEJnVWFPLTRnYkN2YWZGaG02MVktNU8wdkJGdHVvM1RRTzk5YVh6TXRkWExfbHk0YWhYR3VNZC1uY1I4LTVURXU2ZUFR0gG3AUFVX3lxTFBVOUxaZVRMcV85TTN0cWdDZi1PbVBCX2cxN1J2SnpFNmNCZnBEOFBFMDhRVDliSVYybGJrNUxYbW1CaHBodFY3cGFHWEwzUncycjQtdm82TW05SGdoMllLNkdwZzlCMkl2U1FWbjBWbmNTTDBFQnJPUnExa3pZTWNFT09zVFF3eUFkQVdrNjNLcFRFYUhHWE80QU5aa0dBazdjYTNkX3gtSWZ2d2tzV1NDbjJ4dmVwaw?oc=5
-
-- Jharkhand exam protests in Ranchi: After CJP, a new youth agitation grips Indian state - BBC
-  Jharkhand exam protests in Ranchi: After C
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteEliclRRZks4RDlZWTgzWllJTjljNkZZMlB6QVFoZ2xzZUp4Zkp2bnY1Ry10ZklSSWNPQXd6a2JTaGxGczEyU2FZRVlBZ3V4NHJyenJrdUR1QQ?oc=5
-
-- Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source
-  Microsoft’s newest India datacenter region goes live to power the country
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5
+- FCRA Bill 'internal matter': India rejects US criticism - The Times of India
+  The Times of India published a front-page
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ3pBN0NCSm9TbDRQOW84VnhodFVRbVR5ZW9OQzhxSWNTUjFYYTk5bTBNUlR4TEluZkRyMnBPdzJWV0dndkNJNnFKQW83a3pBWmpXLWFyOFRWOTJ2dVZXcVJVVU9jYTM1b0N1Y3ZQblVJaWVIY3hqdXlMRzZIMVItSjRMaUdBNktaeDdIbTQyREQ2cVU5aXFuaV9OSTZKTW1nNXdzeGdMek42bkUtcjZsOHJCdG1DUGMzTWlDdNIBwgFBVV95cUxPbFlCOVRXVmlUc2Q1d0FmZzVyRFhCck03UzJZYlJvYlM5eE9KNEw1NWVTWUdBYVY5clNwN1pxZmRSZXY5dmNTZ0JEU0tzSDRNTGxwZUZsNElHamk4Qnd4NDZvTzZ3dk9Vcm9veTc0MVZMa2tJRTJ4NDMySmVhX1dMUFpEN3R0QTRNRFNpQnl6SVlQbWdlMl9neGxMRllldEdUUmVaQlVlRDJxcU9IRmlULTRUXzNDb19UTG1ZSElPbkl5QQ?oc=5
 
 - "US Regulates Flow Of Foreign Funds Too": India On US Lawmaker's Criticism - NDTV
   "US Regulates Flow Of Foreign Funds Too":
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnI3ekFHcF9jX3ZSZjBpOVJTR0RqWkxURVBmdU92YXlFVkFYenUtcEprWnFNbHhzeE5iaVd4VXBFdGdBWG8xMEprNnFSVDFKQ1JSRmx4Q2xQalR6NE5mdkkyazhUQkxyTjQ3S3RLaVVTYW5QMEZ1Y2ZBYkR0VTVTT2Q5RFM1eXJWNUk0aVhYa1NJTXN1ZVZyNGtmQTY4TjF6TnE4R0tUVlZWbWkwSGMwU21aRTFjckpycnFIdjVn0gHGAUFVX3lxTFBiVmFwQjNuWDgzOXlYdW5aMDNGRHIycktuS196Zmh3Q21uUmZYWUNTRGlYNG1XUlllYmFnWWFINTg1VVpzRVN6V2FiNmF5WG5UekJvMkwyQTBjY1JWV0FXak1rSF96OXZlUnFXbW5LNDh5NXQ3ZUFkUXJCRHJsbkVuYjBCb2xkV2pHR0NMNXNCbWgwSDF4Z1hTbnJfc1FuZWFkSEcxbmQ3T0k3dVhuNlJ4anBTbkN4Z2ZwWHIxQmJ4WTl0N1pYdw?oc=5
 
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
+- MEA's riposte to US lawmaker's foreign funding remarks: 'Our internal affairs' | India News - hindustantimes.com
+  MEA's riposte to US lawmaker's foreign funding
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalJ6dWQyS2NlWi1qYXpWWlZCZk5uZGx6UktjSnlONldDbE10NjhmN2MwUEIyemlvcHhEbkxSQWo1TXl5RE54TmJ4VDhBaEhfZkhEcjNxUU5NbUtjZ0VRZE5ZMFd1ZExQYl91RlpHcThmcU8yOFM1dk8teWFXS3BLRXhVU2FpTDRxN2xUZmV2MUl0dmV5RjkxM0hiUTlUUkxwelRuekg1S19ySktkTmM5WGV3RXRIRnlsR0ZIY0NLSTBid9IBxwFBVV95cUxOWldXSVhmQTRzVHRXUXkxcE5FSUZrVjZhMUFzQ0dYb1RrdXVSS2V3NTBqeGhtSXVsb3VwUEJ0SWtqWXppbkVqVEd5X3h5blJXWmJ6eGR3Z0pqVzMyWVVOZmQ2XzQ1RjluVFZ4bXRNaWxGWWEzUWJIWkRzdWZxX2VBNVZKT0tOejhWQ19OcmI0UEpxQzltZ05GMV9ySDVXOW55OEJRSmwtcXdwb0lBaXFXb3M5OXJnRGI4MTQyR0oxc0xrTnZiSHc4?oc=5
 
-- Share data on river waters, India tells China - The Times of India
-  The Times of India is published by The
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FVTkVBaHl6cHUydktMaXhFU2FXNUMtY3ZzUnVRbjZsbldTR1Y3cWFXMWYycWd4OFRFRW04QUFwNXdvWHdfbThiaFRrT3k3RkV3RlAzbVR6S096b2hYamRhZ2FpQkpLY2VsUWk0aEJnVWFPLTRnYkN2YWZGaG02MVktNU8wdkJGdHVvM1RRTzk5YVh6TXRkWExfbHk0YWhYR3VNZC1uY1I4LTVURXU2ZUFR0gG3AUFVX3lxTFBVOUxaZVRMcV85TTN0cWdDZi1PbVBCX2cxN1J2SnpFNmNCZnBEOFBFMDhRVDliSVYybGJrNUxYbW1CaHBodFY3cGFHWEwzUncycjQtdm82TW05SGdoMllLNkdwZzlCMkl2U1FWbjBWbmNTTDBFQnJPUnExa3pZTWNFT09zVFF3eUFkQVdrNjNLcFRFYUhHWE80QU5aa0dBazdjYTNkX3gtSWZ2d2tzV1NDbjJ4dmVwaw?oc=5
+- U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others - The Hindu
+  The Hindu has published an article on the U.S. sanctions
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5
 
-- Jharkhand exam protests in Ranchi: After CJP, a new youth agitation grips Indian state - BBC
-  Jharkhand exam protests in Ranchi: After C
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteEliclRRZks4RDlZWTgzWllJTjljNkZZMlB6QVFoZ2xzZUp4Zkp2bnY1Ry10ZklSSWNPQXd6a2JTaGxGczEyU2FZRVlBZ3V4NHJyenJrdUR1QQ?oc=5
+- US Senate passes sanctions bill on Russia, Iran; India could face tariff pressure over oil - The Times of India
+  The Times of India reported that India could face tariff pressure over oil.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQNnFLTXlUZlRpbXhRb0p2WjdPLWg0cWJhQWJCVVcwTFp3SGtnVC1KUUZnXzZDczVkVkpYMTJSSFF2Nm9MSFVVeWJzWDhYc3Vnb3REZnhPazBBWmpRRl9XNHVVeTZGaUY0MmllOER5SUVuSVlrTnlvN3JtTHllZ3U1bS1NWFB0Qi1FN1dVODQ5cTJCcGlKdXRpanZ3bmVRajlrX3Y2d3FiVWVtQ29DRnZwbFdlZ1lXaG5QOXhodkRiZmlEcGtGMDRtYTRFZ3dma1RoeXVEUERUT0IxZUhoREh0bmV5TTVBeVVOVmlObFlYaVJoeU1rNVgydFFsN2hERXVfODRIc29uTHctSGlLTDMw0gGUAkFVX3lxTE42TmVYaWlXeWZJLWdSQW0tTEtNZEo1alJWN0hHa2QwV0pJQmM4eGRNR0lkaUg5T1UyUGFpdUJrQ1gzc1Mya2ZnUkZ4UEZoR2JkX3h2UkJzeXpBYUk5ZjF1SWdOVlFmN29mMkFrODBWc0RIUGJQQWFVSExrUDFXU3NSS01xeFI1ZFFEemlTLWktQVhyejU2RVpRODBfbENhTFFBejM2NmNLTEVucnRnekQ5YW1KS0RnNS02OUJjQ1p4YjdSSU5jOUZlRERrYUhXV1A1cndWamZTRmlpS2Y5eGR0YkJLSWc0cE4wSGxPZDI2OGNQbS1UODZFUVVPTk5QN1E4VHZNMmRka0hodlptWHpSQ3pnOA?oc=5
 
-- Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source
-  Microsoft’s newest India datacenter region goes live to power the country
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5
+- FCRA Bill 'internal matter': India rejects US criticism - The Times of India
+  The Times of India published a front-page
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ3pBN0NCSm9TbDRQOW84VnhodFVRbVR5ZW9OQzhxSWNTUjFYYTk5bTBNUlR4TEluZkRyMnBPdzJWV0dndkNJNnFKQW83a3pBWmpXLWFyOFRWOTJ2dVZXcVJVVU9jYTM1b0N1Y3ZQblVJaWVIY3hqdXlMRzZIMVItSjRMaUdBNktaeDdIbTQyREQ2cVU5aXFuaV9OSTZKTW1nNXdzeGdMek42bkUtcjZsOHJCdG1DUGMzTWlDdNIBwgFBVV95cUxPbFlCOVRXVmlUc2Q1d0FmZzVyRFhCck03UzJZYlJvYlM5eE9KNEw1NWVTWUdBYVY5clNwN1pxZmRSZXY5dmNTZ0JEU0tzSDRNTGxwZUZsNElHamk4Qnd4NDZvTzZ3dk9Vcm9veTc0MVZMa2tJRTJ4NDMySmVhX1dMUFpEN3R0QTRNRFNpQnl6SVlQbWdlMl9neGxMRllldEdUUmVaQlVlRDJxcU9IRmlULTRUXzNDb19UTG1ZSElPbkl5QQ?oc=5
 
 - "US Regulates Flow Of Foreign Funds Too": India On US Lawmaker's Criticism - NDTV
   "US Regulates Flow Of Foreign Funds Too":
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnI3ekFHcF9jX3ZSZjBpOVJTR0RqWkxURVBmdU92YXlFVkFYenUtcEprWnFNbHhzeE5iaVd4VXBFdGdBWG8xMEprNnFSVDFKQ1JSRmx4Q2xQalR6NE5mdkkyazhUQkxyTjQ3S3RLaVVTYW5QMEZ1Y2ZBYkR0VTVTT2Q5RFM1eXJWNUk0aVhYa1NJTXN1ZVZyNGtmQTY4TjF6TnE4R0tUVlZWbWkwSGMwU21aRTFjckpycnFIdjVn0gHGAUFVX3lxTFBiVmFwQjNuWDgzOXlYdW5aMDNGRHIycktuS196Zmh3Q21uUmZYWUNTRGlYNG1XUlllYmFnWWFINTg1VVpzRVN6V2FiNmF5WG5UekJvMkwyQTBjY1JWV0FXak1rSF96OXZlUnFXbW5LNDh5NXQ3ZUFkUXJCRHJsbkVuYjBCb2xkV2pHR0NMNXNCbWgwSDF4Z1hTbnJfc1FuZWFkSEcxbmQ3T0k3dVhuNlJ4anBTbkN4Z2ZwWHIxQmJ4WTl0N1pYdw?oc=5
+
+- MEA's riposte to US lawmaker's foreign funding remarks: 'Our internal affairs' | India News - hindustantimes.com
+  MEA's riposte to US lawmaker's foreign funding
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalJ6dWQyS2NlWi1qYXpWWlZCZk5uZGx6UktjSnlONldDbE10NjhmN2MwUEIyemlvcHhEbkxSQWo1TXl5RE54TmJ4VDhBaEhfZkhEcjNxUU5NbUtjZ0VRZE5ZMFd1ZExQYl91RlpHcThmcU8yOFM1dk8teWFXS3BLRXhVU2FpTDRxN2xUZmV2MUl0dmV5RjkxM0hiUTlUUkxwelRuekg1S19ySktkTmM5WGV3RXRIRnlsR0ZIY0NLSTBid9IBxwFBVV95cUxOWldXSVhmQTRzVHRXUXkxcE5FSUZrVjZhMUFzQ0dYb1RrdXVSS2V3NTBqeGhtSXVsb3VwUEJ0SWtqWXppbkVqVEd5X3h5blJXWmJ6eGR3Z0pqVzMyWVVOZmQ2XzQ1RjluVFZ4bXRNaWxGWWEzUWJIWkRzdWZxX2VBNVZKT0tOejhWQ19OcmI0UEpxQzltZ05GMV9ySDVXOW55OEJRSmwtcXdwb0lBaXFXb3M5OXJnRGI4MTQyR0oxc0xrTnZiSHc4?oc=5
+
+- U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others - The Hindu
+  The Hindu has published an article on the U.S. sanctions
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5
+
+- US Senate passes sanctions bill on Russia, Iran; India could face tariff pressure over oil - The Times of India
+  The Times of India reported that India could face tariff pressure over oil.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQNnFLTXlUZlRpbXhRb0p2WjdPLWg0cWJhQWJCVVcwTFp3SGtnVC1KUUZnXzZDczVkVkpYMTJSSFF2Nm9MSFVVeWJzWDhYc3Vnb3REZnhPazBBWmpRRl9XNHVVeTZGaUY0MmllOER5SUVuSVlrTnlvN3JtTHllZ3U1bS1NWFB0Qi1FN1dVODQ5cTJCcGlKdXRpanZ3bmVRajlrX3Y2d3FiVWVtQ29DRnZwbFdlZ1lXaG5QOXhodkRiZmlEcGtGMDRtYTRFZ3dma1RoeXVEUERUT0IxZUhoREh0bmV5TTVBeVVOVmlObFlYaVJoeU1rNVgydFFsN2hERXVfODRIc29uTHctSGlLTDMw0gGUAkFVX3lxTE42TmVYaWlXeWZJLWdSQW0tTEtNZEo1alJWN0hHa2QwV0pJQmM4eGRNR0lkaUg5T1UyUGFpdUJrQ1gzc1Mya2ZnUkZ4UEZoR2JkX3h2UkJzeXpBYUk5ZjF1SWdOVlFmN29mMkFrODBWc0RIUGJQQWFVSExrUDFXU3NSS01xeFI1ZFFEemlTLWktQVhyejU2RVpRODBfbENhTFFBejM2NmNLTEVucnRnekQ5YW1KS0RnNS02OUJjQ1p4YjdSSU5jOUZlRERrYUhXV1A1cndWamZTRmlpS2Y5eGR0YkJLSWc0cE4wSGxPZDI2OGNQbS1UODZFUVVPTk5QN1E4VHZNMmRka0hodlptWHpSQ3pnOA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-08 01:13:46 UTC_
+_Last updated: 2026-08-08 06:44:33 UTC_
