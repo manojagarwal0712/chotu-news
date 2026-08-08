@@ -1,30 +1,26 @@
 # 📰 Daily News Summaries
 
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - ndtv.com
-  BrahMos Gets The Glory, But India's Next
+- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
+  &nbsp;&ngt;<font color
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
 
-- Spain replaces ambassador to India Juan Antonio March Pujol over financial favor allegations - The Economic Times
-  Spain replaces ambassador to India Juan Antonio March Pujol over financial
-  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxQdkFGQl9QN1RnMGM0Y3AzNS1PUGh4QU5VSml0TDBWOFJnWENoQUp3d2lDSHl4OHhZQWRMVlUxekRWbEpabU53Nk1FQzhvU3laSnF6cGlmRm1GTkV3a1A0R25PRmFaRENaTVRiSE9oTGRhZlF4Z3NwV3JpX0o3VkVGODhnNjRWQ3Qtc2ppeVRFbDctb053TE1TbWZ1R0RiZXhMLWlhSjdVN3l1MGlSMlFGT0w2OWNJbG9mWDMtNlIwa0RFdTRzVUtWYkZSamZURXZLSGxvbFB4TXdqSUt0VEN5NkluN1FualJtMlhCYng2SGx6MlBuMnZ1Q3BnQklRT3dnQm83bzlZTktPX3FxSl9CN21PVjRnZU1VNVFzR3BXMHBlem5SMmZlMFBhWVJfX0RwZ1VUNWswaGNmOEFHNUp1SVRuQW52ZGxQWTIyNHdvR0JnQTJSS2pOQk05elB2eDhzYTdvTnpseHdwY0c0d2NwetIBjAJBVV95cUxQTk8xT0FobWMxb1loNmpDUE84M0NBRGJiQlZFajBEUkJxZ1JFY2JOMjRnX0tfYUJDU2RIRWNVNWJ2d3c5cmZVUGczUDFyeE4tcDJBQ25hazVtMzJGNEZZQ3ZncF9KbmZBYVo3c0lUNll1elJzcXZIbzdDUEZmRUlWVFl0T0Rqalh0N1l0cjJQYXFCWUhrdXlVTUw0ZTJaNl9EUlgxdGpscWx0VXA2MU94Sk5tdDhKV3hnT3VSTEY1UXdBLXR4R3k2U2lNa0VaTE9KUmdBbGZEc1BzMm5sNUdEMnQweUhaWWFMenc4YXNSU1hVVUVtV3VmVjljMC0zazlucVYyWWRWNjBvNmgt?oc=5
+- Share data on river waters, India tells China - The Times of India
+  The Times of India is published by The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FVTkVBaHl6cHUydktMaXhFU2FXNUMtY3ZzUnVRbjZsbldTR1Y3cWFXMWYycWd4OFRFRW04QUFwNXdvWHdfbThiaFRrT3k3RkV3RlAzbVR6S096b2hYamRhZ2FpQkpLY2VsUWk0aEJnVWFPLTRnYkN2YWZGaG02MVktNU8wdkJGdHVvM1RRTzk5YVh6TXRkWExfbHk0YWhYR3VNZC1uY1I4LTVURXU2ZUFR0gG3AUFVX3lxTFBVOUxaZVRMcV85TTN0cWdDZi1PbVBCX2cxN1J2SnpFNmNCZnBEOFBFMDhRVDliSVYybGJrNUxYbW1CaHBodFY3cGFHWEwzUncycjQtdm82TW05SGdoMllLNkdwZzlCMkl2U1FWbjBWbmNTTDBFQnJPUnExa3pZTWNFT09zVFF3eUFkQVdrNjNLcFRFYUhHWE80QU5aa0dBazdjYTNkX3gtSWZ2d2tzV1NDbjJ4dmVwaw?oc=5
 
-- Jharkhand: Protests grow in Indian state over alleged exam irregularities - BBC
-  Jharkhand: Protests grow
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91MlMwVXhsMWE4cV9zTVpkWXJQNVBfamNwdmJia3RHZmF3QnhfTGdzLTUzdjhqMTJhXzREdDBjWFB3aVo1c19Idlg0SHVMS3c1WmdVcEdudXNOUQ?oc=5
+- Jharkhand exam protests in Ranchi: After CJP, a new youth agitation grips Indian state - BBC
+  Jharkhand exam protests in Ranchi: After C
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteEliclRRZks4RDlZWTgzWllJTjljNkZZMlB6QVFoZ2xzZUp4Zkp2bnY1Ry10ZklSSWNPQXd6a2JTaGxGczEyU2FZRVlBZ3V4NHJyenJrdUR1QQ?oc=5
 
-- India news: Student protests in Jharkhand enter 13th day - DW.com
-  Student protests in Jharkhand
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPTG5yUmF3LW1MQm1FSTQxamJzcjFpUkpwd0twd0lmcV9YdllZTnh0a3ZSb2JsVVJZdGU4bmtSRTlrbG9iMXRKMXlIZ1NsNENidERYY0RCRy04QlF0ZlVKZlNGU2RXaW5FbGw0UHM1OEU5SXUyalU2Y0VwRFRpWm1HYWd4SXNuRHpFVXplUzhvTGRrYXhmamc?oc=5
+- Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source
+  Microsoft’s newest India datacenter region goes live to power the country
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5
 
-- "Let's Just Say...": Rahul Gandhi's Witty Batman Response Goes Viral - ndtv.com
-  "Let's Just Say...": Rahul
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2g1SjBVZU9fNWJVRDVoa3FRVG5BdGtlRTVFSEJENlVKdENaLU5mQnY2M1dSRE5kWjNQak9oUlpOMUZEcDhURUllWW9YeERNVkhZRnFaNHYyZkxTVjFHX1lMOGwxcFRhUnVZTVJBRFJjMkZKTDBEMWtWSjExa2pxcjAwV3J6WUh0ajNtRjlCdmE2WVhZTG1RLURDT1M3UlhNVkFv0gGrAUFVX3lxTFBJeEZMdHhjc2pURUVMalljOEQyOGhvOTFLT2JnU1NoTThWMldfUlpyRWxqcVEycnd2ckprYlBfU1J5WkpfdTNsUi1tMVBhSVhyUnlWSE96bExZV1FkVFZEeG10NFl4UTJLQzY0VDRIWWhySlJLckhrcmRnUmxpdzBiWnBmTFJKVm53WGVzcEdCcnRUblFITjRBNzZnTVJocy16LWFtbVNfMVNKOA?oc=5
+- "US Regulates Flow Of Foreign Funds Too": India On US Lawmaker's Criticism - NDTV
+  "US Regulates Flow Of Foreign Funds Too":
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnI3ekFHcF9jX3ZSZjBpOVJTR0RqWkxURVBmdU92YXlFVkFYenUtcEprWnFNbHhzeE5iaVd4VXBFdGdBWG8xMEprNnFSVDFKQ1JSRmx4Q2xQalR6NE5mdkkyazhUQkxyTjQ3S3RLaVVTYW5QMEZ1Y2ZBYkR0VTVTT2Q5RFM1eXJWNUk0aVhYa1NJTXN1ZVZyNGtmQTY4TjF6TnE4R0tUVlZWbWkwSGMwU21aRTFjckpycnFIdjVn0gHGAUFVX3lxTFBiVmFwQjNuWDgzOXlYdW5aMDNGRHIycktuS196Zmh3Q21uUmZYWUNTRGlYNG1XUlllYmFnWWFINTg1VVpzRVN6V2FiNmF5WG5UekJvMkwyQTBjY1JWV0FXak1rSF96OXZlUnFXbW5LNDh5NXQ3ZUFkUXJCRHJsbkVuYjBCb2xkV2pHR0NMNXNCbWgwSDF4Z1hTbnJfc1FuZWFkSEcxbmQ3T0k3dVhuNlJ4anBTbkN4Z2ZwWHIxQmJ4WTl0N1pYdw?oc=5
 
-- Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza - Al Jazeera
-  Al Jazeera reports that Palantir
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNd01GRVZqRVFBMEtzTmpMczVIZVh4clg4MmpGekJzczVjQi1qUUVfOG4wZXlXY0d4aUFZRlNGUC14Y0V3ZVpRMnpDRkNtUnoyelFWOU9yOG9YVWotUEY2azFlTDJDZmkwUXlsMHFqSUxINGFJSlhiS0t0WVpvSDk0dVdiMThycnVPbWwzMlkycmJoeDVMTlFvdGZ0aS1FamRERTVsLWhaVHVreHFGX2k1QnVpUdIBuAFBVV95cUxNVzl5dHI4Q3UzaXZtTFN6UWdVcjVZeTEyMDJwMnJKZFlqbUVaMlJfSF9GclZfRUh4elFFUExNZDdxc1B5NkRRaV9KcGV4QzZ0TWlNM2dWMGY5VmxSUllzTElZRE96dnFKeTJMNXNfX19Kc054SEFlWUxuM2d3SklRRlBYNFhkZVlCWFdzODFmUXZrQUUyUW9lUmNLY0ZFRFA3enNJdVhGUEltcXNZQ2QxU3p0OXotOERH?oc=5
-
-- Samsung Electronics launches next-generation AI memory technology - reuters.com
+- Samsung Electronics launches next-generation AI memory technology - Reuters
   Samsung Electronics launches next-
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5
 
@@ -32,13 +28,25 @@
   Conflict of interest in startup funding panel ‘unavoid
   🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYmgzRVVDQThPVkxHMlU5cURjMlVSYUhCYlo3SmNRVVhzOEFlQ3FkbmU5UnRjR2RWV1QwbHhzRWs2QUcySFNCd0VEMTY1MXNnVnpTenFiN1lpeXJWNFBoWWREbVVIcENIRXhpVVhvWHdvNGc2bE1NMTE1NXBpZXB2VVN1b3VNakZPYW1wUi1zb2doVVJpMWNQWjJBRnh0WkVVakZwNDZxOVJFR09ueE0zcmhqSDdib2N3bnpnY3BXUWhQZTJydEtmNFppRTFjVVRpbWN6UXI4ZXRZM3lTNzROSFl0a1pDSV9IdUNkcmhQcDNDQdIB-AFBVV95cUxQdEhVMmZZTG9LRzVpQy12NmVqUHRUVk4tc3VFbURQQS1hWWpueG44M1JZSUNlWmNuYmF2MWltOEJEXzdCQVZJUjJkT0oxWHFUMDVPb1dqR0lQSHlEZ0J1Wmg3blZFWlBKdWNnSERCMDQtZ1lpMzVLZVR1R1NjQUJSalE2WkNOcV9JSjZ3QTQybVo3czRjMWtONkEwMUZqRDNSWkJ2OU5lVDlRc1dpYVdyb0w4ZVFtdEY4RGlFUkxWRklVR2Q2M21lblg3RjVKbGJpZDJXbHg2TzBPdFd5Uzh4SnFWZWRlNDNBRDVQeHdrN3lZTG5jRndYVw?oc=5
 
-- Technology Fit For Judicial Use Only If It Improves Fairness & Access : Zambia Supreme Court Judge Abha... - Live Law
-  The Zambia Supreme Court Judge Abha has approved the use of technology in the country
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOWJpa3ExZ01kYzZkUUhsMXlGWXppRmRxWW5tYmxFRzJNWFBJWms1T2ZBeVpLbmdyMmxhckk2UlBSVFc1Q083ME91bGM4Q2w1Mkt1NUdiT2tGcm40aUc5UHNNZ1dMU0tpN3V3VE0tbGZqcmszUUE1cWNVbEVFdXpDUVM5ZVNOT0doREV0b3RnQ2NJV0VEQnlSU3MyZVJKNGdJRXotRnJ1Yi1ZV3Y5OXdNYUpCNzZmTDdnUE9hZDdsck1JLThScXVBLXFlQVlUTURUQVZDV0dQTDRHSU9GektzU0lwQl9Zd0JrYzQ3UVRGc0Vnd9IB9wFBVV95cUxPWldDQll1ZEJLaVFCM0FsTkNzZzNnTklvRUlMMUh2QTNReXpZTWI2MkRtSkxVRloySUEzSkVtU2tPeDJMeE5NSUhPaTdzNHI5SmJNanJOOHEzVnZxQU1WOXFKS0hmMjN4dmxsQllDR3M2b3JrX0FkVUNPcGhmNmg2S3BZeDRVVllPZlFqTmh2NHgwc2F4RGlDeW4zS04zbnZPNFVWZFhvbVNhYU5acDBjMEM1NTd4czYybkZnRGcwdHlvV0ZtSW95UGl1N0VRZlNMOXhPNmNvenRlT1R3alNTWFVLZXlzMkpxbWJ0UlJ3YXhYdWZPRDNV?oc=5
+- Technology Has Democratised Legal Profession: CJI Surya Kant - Live Law
+  Technology Has Democratised Legal Profession:
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNMi15S3p3cWY3Q1F0blBlRDFJSWtTNlNUZ25QU0NnQUhaRmQwSy10Q05lMkllRlZWc0pMVWl4Nk91cmhUZG04QVRLNFRMRDYwSm1XNUExUTBSRGxockFwajczZHRQdFFqN08zb0ZaMy1NN3BqMENlSW40dUMxYVZrcnMwd2Npd0p2OTZ4b193R05ESmpob1QyZnBJTnpJTWY1T0Fr0gGoAUFVX3lxTE9sZFZKVG5DY29la3JKMEdnUlN0eFVabFQxbTVWRDRfTnNQeHI2OVlzWTlvaVpGeUxBOGtUN1NfYWtZQ3RBd3dNMFR2WnhVQU96WkFRcnNUelFoNXdONFpUUUsxT3hiSE1HX3Fnbk9uajM1M1dSSm1yY0RZejg5MmN3RzdYbVVUWDhoUW43ZkVvTUhkY29OaWVZMnowang4YXE4aVhWSl90Yw?oc=5
 
-- Rs 2,192 crore cleared, 62% for firms linked to government tech fund panel - The Indian Express
-  Rs 2,192 crore cleared, 62% for firms linked to
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQTZkb3RpdEo0SDZaX2VZS1lUbElTN2RRQnlHS3NGTUprVlp3bEtQZlRUZXNfVjhKcU5ic19lZExwUUxFQmYtWjJ0M3pBU25XNjB3dVppM2hrWDhyTHVXMV9ERUFEek1FbXZ6TmN3OXpZcHFpTmxwVDM4ZFlUZ2xzZURfejVQVzByMTZRVGNDMFlUMGp3LWx1QXBRZE1FeGE0b0FrbE5iYXdPa3NWU3ZLZzF1eW11dzVzQ3ZZVDlHX0IxOFJqOUQwbUdHaHVlc2ZmaWpfSGx30gHcAUFVX3lxTE5yOWstbnNseU9FNlVfRXhXV3FNSEVfV1FUX1VjaGFoSXhycmJveThlcTZHQW5MaGp6ZFhoUHdDSHdzcmduN2FzSHg3VENrLUU2MWk4RWt2ZlZvSjhfYlI5UjJUQmlPVWZfY29JQ21IcHdIbFhLMTNJd3htV3lpdm1kcGRKQ1ZyNW10cVJkVEZ6bG0wOFRTN21aZUlXSHNKSF9RQ01pM2NZdnJRam9Oc0RZVGRHVVYxSHRTSXhFa2Y1bV9EX1FyYkhZMkRMN2syUUFUeDRVX2JYa0QwVFE?oc=5
+- Who is liable when AI goes rogue? Lawyers see new risks - The Indian Express
+  The Indian Express asked lawyers to look into whether AI
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPZGM1WVd0NWhROEozdVZKZWx5djZBSUJpSzUwaUd2UHVHaUFoaUhUUlZsVGdRYzkxMHBHV3poN3YzTGZyd2Ywc0g3bkEyazVjWS1MVXpDOVlvTEpnbGpvY1J6aHdnQzNHNVVmNldMeHJtNWNja1Z1aHk3OEFqQ0pBNGtKT2hKQ1p0Z0Z1eDEtMzN4c2w3UUNmYVliUzFfY09CZ2tJcWZ5VEM4Zm0talZkMm13dElPcnlJN0hXeF9iS2tReVJjSzM1N0NLWFd3Z9IB1AFBVV95cUxORUdFX2FOTXRNdWZwMHFHTzJoeGxfZzczZFFLSXFaQ3cxTTZDVTlqRHFGZFpPX190X0xIbWV4dXZtMTNCOHV0TGlFSkhEeVA2S3JTUnpxcVN2Y2ZSUzV1V3RyNWhaemZLcEI4aU10TGFiTzdmQm14djBrNFJxNE1wWGZPYVVrQkJyb3IzWlp0ZjJ3X3BTc19rMVU3c2VGMWRGMExicXoyWF8wTXBRQU4tejVQZDl6aEVaeGlIdjJvWm5KUEV5eE1JUzdwV3dNUjJRYVhjRg?oc=5
+
+- Marine carbon removal technology that turns carbon dioxide in seawater into 'stone' for permanent storage - Phys.org
+  Marine carbon removal technology that turns carbon dioxide in seawater into
+  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxQMW1rZ2xfaFIzQUd4NHZPUFNzVnBNY1ltTUxIWGt0UzdBVkJCT3VEZV9VN0hVZm94LVBNMjRaQ2VxdjRIanRrMHpFZTRwT1FQWmZkY29vbkJEUzRVc3lJeVNYbkVyU3dGUGZJY3lqZkpCeG1SOFBvajlmZzZZYVpLNE1n?oc=5
+
+- Trump administration to invest $3 billion into minerals projects to boost US defense supply chains
+  Trump administration to invest $3 billion into minerals projects
+  🔗 https://www.livemint.com/companies/trump-administration-to-invest-3-billion-into-minerals-projects-to-boost-us-defense-supply-chains-11786138625673.html
+
+- Ethan Allen CEO Defends Leadership After Activist Challenge
+  Ethan Allen Interiors Inc. Chief Executive Officer Farooq Kathwari said the furniture store is focusing on long-term retail
+  🔗 https://www.livemint.com/companies/ethan-allen-ceo-defends-leadership-after-activist-challenge-11786129304607.html
 
 - Titan sees jewellery demand rebound despite high gold prices
   Titan's managing director Ajoy Chawla said the company has significant room to expand as India’s jew
@@ -52,13 +60,17 @@
    EV maker seeks an early resolution on Sebi’s disclosure probe without admitting liability
   🔗 https://www.livemint.com/companies/company-results/ola-electric-q1-results-ola-sebi-notice-11786108378463.html
 
-- Hindalco beats Q1 estimates, remains cautious on bauxite auctions
-  The Aditya Birla Group metal flagship reported an almost 75% year-on
-  🔗 https://www.livemint.com/companies/company-results/hindalco-q1fy27-results-bauxite-mine-bidding-satish-pai-profit-11786106131404.html
+- Short-Term Treasuries Cap Biggest Weekly Rally Since May on Data
+  US Treasuries rallied after an unexpectedly weak July employment report prompted traders to further dial back expectations for Federal Reserve interest-rate hikes.
+  🔗 https://www.livemint.com/market/shortterm-treasuries-cap-biggest-weekly-rally-since-may-on-data-11786134305338.html
 
-- PE majors Advent, EQT eye Pricol’s smart mobility tech biz
-  Pricol Ltd's plan to spin off its driver information and connected vehicle solutions business has drawn interest from global private equity funds.
-  🔗 https://www.livemint.com/companies/pe-firms-advent-eqt-coimbatore-pricol-auto-components-smart-mobility-dicvs-11786092530731.html
+- Treasury yields fall as jobs report dashes hike bets
+  Treasury yields fall as jobs
+  🔗 https://www.livemint.com/market/treasury-yields-fall-as-jobs-report-dashes-hike-bets-11786130890731.html
+
+- Gold hits seven-week high as weak US jobs data dents rate hike bets
+  Gold hits seven-week high as weak US jobs data
+  🔗 https://www.livemint.com/market/gold-hits-seven-week-high-as-weak-us-jobs-data-dents-rate-hike-bets-11786129243519.html
 
 - Equities poised for best week since April as payrolls surprise eases rate-hike concerns
   Equities poised for best week since April as payrolls surprise
@@ -67,18 +79,6 @@
 - Sebi to cut routine checks by two-thirds, focus on high-risk players
   The revamped framework emphasizes efficiency and will cut inspections to
   🔗 https://www.livemint.com/market/sebi-inspections-high-risk-intermediaries-brokers-equity-market-11786108148578.html
-
-- Weekly Winner: Ujaas Energy jumps 68% this week as upbeat Q1 earnings fuel buying
-  Ujaas Energy's shares surged 68% this week. Net profit rose 31% YoY, driven by
-  🔗 https://www.livemint.com/market/stock-market-news/weekly-winner-ujaas-energy-jumps-68-this-week-as-upbeat-q1-earnings-fuel-buying-11786120993442.html
-
-- Cupid net profit jumps 194% YoY to  ₹44 crore in Q1 as margins expand sharply; raises FY27 guidance
-  Cadid reported a 194% YoY rise in net profit to  ₹44 crore and a 142% increase in revenue to   �
-  🔗 https://www.livemint.com/market/stock-market-news/cupid-net-profit-jumps-194-yoy-to-rs-44-crore-in-q1-as-margins-expand-sharply-raises-fy27-guidance-11786119336545.html
-
-- Airbnb shares surge 16% to 4-year high on Q2 beat; full-year outlook raised for second time
-  Airbnb shares rose 16% to $176.20, a four-year high. The company reported robust growth in key markets and raised its fiscal outlook.
-  🔗 https://www.livemint.com/market/stock-market-news/airbnb-shares-surge-16-to-4-year-high-on-q2-beat-full-year-outlook-raised-for-second-time-11786113146220.html
 
 - OpenAI's new gadget leak reveals as ChatGPT creator vies to disrupt market –$400 price, shape, other key specs: Report
   OpenAI is set to launch a new gadget and enter a market dominated by Amazon and Google. Designed in collaboration with Jony Ive's LoveFrom, the device is
@@ -100,25 +100,33 @@
    Meta says its AI model hacked another company, adding
   🔗 https://www.livemint.com/technology/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue-11786048853608.html
 
-- S&P 500 rises as it wraps up banner week with traders seeing bright side of dismal jobs report: Live updates - CNBC
-  S&amp;P 500 rises as it wraps up banner week with traders seeing bright side
+- S&P 500 rises to record close Friday and posts strongest week since April: Live updates - CNBC
+  S&amp;P 500 rises to record close Friday and posts
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5
 
-- Markets News, Aug. 6, 2026: Dow’s Winning Streak Ends as Major Indexes Close Lower; Oil Rises as Investors Await Strait of Hormuz News - Investopedia
-  Markets News, Aug. 6, 2026: Dow’s Winning Streak Ends as Major
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNcU1BX0liaVNCNndDajRsWjM3QjZTOUZmUUJ0ZWt6NU9ELVZBdk54SDJsV2JBbzVDX2tYc2dRRmdXOWdKRllubGNLaE4wZGdtdWJxYTFFQmhHNk8wMWJDUkhVbXJqNWFESDlHb0pMV2FfOGRJV2dPSWdNVzlCSnlqWXFQQm1Oa1ZmbGxHdEwzVFo?oc=5
-
-- Stocks Gain as Oil Dips Ahead of Key US Jobs Data: Markets Wrap - Bloomberg.com
-  Stocks Gain as Oil Dips Ahead of Key US
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxObzU2UEdJVzRUM3prU0poRWlySEZldktHdGU1eU1rQnNBdXNJaFNCS3h6eGp1RWxxRzE5VUZDWWp4U3lvb1ZZZ2VURjZyWVZONVRORmFkblc1empjVGs2TmdDVThkRnRXTnZ3OXNEZDEzb2ZkcGVseWpnQ0F6SjhfV09XUkpLQTVwd0lMdVZqWGU1UUdY?oc=5
-
-- Stock Market Today: Dow Rises After Jobs Report Misses Forecasts — Live Updates - WSJ
-  The WSJ reports on the Dow Jones Industrial Average
+- Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts - WSJ
+  The WSJ reports that the S&amp;P 500 rose to
   🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5
 
-- US suffers unexpected job losses in July, markets dial back rate hike expectations - reuters.com
-  US suffers unexpected job losses in July, markets dial back
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5
+- Stock market today: Dow, S&P 500, Nasdaq rise after July jobs report surprises to the downside - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq rise after July
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUtSUk9IQ0xYMmZFNzN1ZWRyeVZwNWR1aXdpc3AzTGRYUERaTXdETDNCOVZZQV9OZEtsWU1qa3FQamFUVGNuejFVMUh3ZUhMT0E2aDJqemZjdmFISTB0Q2ZkYVNDYU5ScFFjckZlcnAyYnByaFRQckgtU1l6bVJzTDRYc2VWRUs2WGtEMlE0aks3c1ZOS0lZOEtVOFNzR1kxOXZNN05ZV1dVeE1URVBBbXRlRlhfUjdFYndwME5TVnUyUGxnTVkyQVlwM3FPZw?oc=5
+
+- Jobs Report Live Updates: U.S. Job Market Shows Unexpected Loss - The New York Times
+  The New York Times reports that the U.S. Job Market showed unexpected job losses in July. The BBC reports the labour market is well-balanced.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1COG5QdEZTcXNmcTNybFJiVWVoNHJlS0Rrd1dsM282THhNNnVCVHhnVXNncm90UHRRNENoQjQtRm9KNWZvaTZlRFA0dFRoRWstRXdYeU8tV1BRMFk5RVEwTmxua2t0S1ptT1dRdzR3MXpxQ0k5OHFZ?oc=5
+
+- Stock markets decline dragged by banks, elevated crude oil prices - The Hindu
+  Stock markets decline dragged by banks, elevated crude
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOV08xYlJCcTNDX0d0MEtHOTVZRGJqb3lzRmIxN0Z6WmhkTVZiM2ROZVIxNkFYc1hxYm9GSlJNdXo1YXQ3US1tMEFFdE4xcjB6dG9WQU1BN1dUYW9ETTVYVEJrb1NSNXJTRXhSNklZajRlc3ZtRXNFcFVDQ0t1REFzeGMydUVWbkk5VVUwMUFNMDVXTGRFV1I4QnBWTWRSWDc4SFZpaVNoNTVfVG5UY01rS1RzYmJ1SmpVaXdXd1NEa2pjNlRQ0gHLAUFVX3lxTE4xS19CVUdpWTU2SVZ1UUhidFhTZVc3X2J3ZkJZclc1WUNXTXloQmh3dWRzV21uVzBjbHk5dll2bkNuenNYR1FWMjFTQlNGTGx0OEFXYjNiaHktNFJDQ25McXM0RXpYeVcxaUtqVlRxQjZBbUZCWUZaRFJUQUtreWJMWkQ2amNMVE1ZeFZ4ZnRSUEFPeUtnd21xMlNlQklpWjNsQm9iRnF6b2RzVzBMd0VicEhPbHJMQmlZUzFPN08zQkh5N0thdjFFOXZZ?oc=5
+
+- US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns
+  The US stock market enjoyed a significant boost on Friday as the S&amp;P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Reserve interest rate hike in September.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms
+
+- Market cuts odds of Fed hike after jobs data, but economists still see case for tightening
+  The weak job report for July has tempered expectations surrounding a Federal Reserve rate increase. Futures markets now indicate a diminished probability of a rise in interest rates next month. The economic community remains split on what lies ahead in rate decisions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-cuts-odds-of-fed-hike-after-jobs-data-but-economists-still-see-case-for-tightening/articleshow/133040583.cms
 
 - Dollar falls against yen, euro as weak US jobs data clouds Fed outlook
   The US dollar weakened against major currencies on Friday. Unexpected job losses in July fueled economic concerns and clouded Fed rate outlook.
@@ -132,33 +140,37 @@
   Gold prices reached a seven-week high on Friday owing to surprising job losses in the United States. This trend puts gold on track for its best weekly gain in seven months, as reduced interest rates boost its allure.
   🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms
 
-- Airbnb shares surge 15% to four-year high on raised forecast, AI gains
-  Airbnb shares surged nearly 15% after the company raised its annual revenue growth forecast. Better-than-expected quarterly revenue and lower customer-support costs reinforced investor
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/airbnb-shares-surge-15-to-four-year-high-on-raised-forecast-ai-gains/articleshow/133036764.cms
-
-- Doximity shares soar 60% after CEO says its AI can outperform Anthropic
-  Doximity shares surged after the healthcare platform highlighted the strong performance of its clinical AI. Investors cheered its AI capabilities, positioning the company as a specialised healthcare AI
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/doximity-shares-soar-60-after-ceo-says-its-ai-can-outperform-anthropic/articleshow/133036609.cms
-
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - ndtv.com
-  BrahMos Gets The Glory, But India's Next
+- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
+  &nbsp;&ngt;<font color
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
 
-- Spain replaces ambassador to India Juan Antonio March Pujol over financial favor allegations - The Economic Times
-  Spain replaces ambassador to India Juan Antonio March Pujol over financial
-  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxQdkFGQl9QN1RnMGM0Y3AzNS1PUGh4QU5VSml0TDBWOFJnWENoQUp3d2lDSHl4OHhZQWRMVlUxekRWbEpabU53Nk1FQzhvU3laSnF6cGlmRm1GTkV3a1A0R25PRmFaRENaTVRiSE9oTGRhZlF4Z3NwV3JpX0o3VkVGODhnNjRWQ3Qtc2ppeVRFbDctb053TE1TbWZ1R0RiZXhMLWlhSjdVN3l1MGlSMlFGT0w2OWNJbG9mWDMtNlIwa0RFdTRzVUtWYkZSamZURXZLSGxvbFB4TXdqSUt0VEN5NkluN1FualJtMlhCYng2SGx6MlBuMnZ1Q3BnQklRT3dnQm83bzlZTktPX3FxSl9CN21PVjRnZU1VNVFzR3BXMHBlem5SMmZlMFBhWVJfX0RwZ1VUNWswaGNmOEFHNUp1SVRuQW52ZGxQWTIyNHdvR0JnQTJSS2pOQk05elB2eDhzYTdvTnpseHdwY0c0d2NwetIBjAJBVV95cUxQTk8xT0FobWMxb1loNmpDUE84M0NBRGJiQlZFajBEUkJxZ1JFY2JOMjRnX0tfYUJDU2RIRWNVNWJ2d3c5cmZVUGczUDFyeE4tcDJBQ25hazVtMzJGNEZZQ3ZncF9KbmZBYVo3c0lUNll1elJzcXZIbzdDUEZmRUlWVFl0T0Rqalh0N1l0cjJQYXFCWUhrdXlVTUw0ZTJaNl9EUlgxdGpscWx0VXA2MU94Sk5tdDhKV3hnT3VSTEY1UXdBLXR4R3k2U2lNa0VaTE9KUmdBbGZEc1BzMm5sNUdEMnQweUhaWWFMenc4YXNSU1hVVUVtV3VmVjljMC0zazlucVYyWWRWNjBvNmgt?oc=5
+- Share data on river waters, India tells China - The Times of India
+  The Times of India is published by The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FVTkVBaHl6cHUydktMaXhFU2FXNUMtY3ZzUnVRbjZsbldTR1Y3cWFXMWYycWd4OFRFRW04QUFwNXdvWHdfbThiaFRrT3k3RkV3RlAzbVR6S096b2hYamRhZ2FpQkpLY2VsUWk0aEJnVWFPLTRnYkN2YWZGaG02MVktNU8wdkJGdHVvM1RRTzk5YVh6TXRkWExfbHk0YWhYR3VNZC1uY1I4LTVURXU2ZUFR0gG3AUFVX3lxTFBVOUxaZVRMcV85TTN0cWdDZi1PbVBCX2cxN1J2SnpFNmNCZnBEOFBFMDhRVDliSVYybGJrNUxYbW1CaHBodFY3cGFHWEwzUncycjQtdm82TW05SGdoMllLNkdwZzlCMkl2U1FWbjBWbmNTTDBFQnJPUnExa3pZTWNFT09zVFF3eUFkQVdrNjNLcFRFYUhHWE80QU5aa0dBazdjYTNkX3gtSWZ2d2tzV1NDbjJ4dmVwaw?oc=5
 
-- Jharkhand: Protests grow in Indian state over alleged exam irregularities - BBC
-  Jharkhand: Protests grow
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91MlMwVXhsMWE4cV9zTVpkWXJQNVBfamNwdmJia3RHZmF3QnhfTGdzLTUzdjhqMTJhXzREdDBjWFB3aVo1c19Idlg0SHVMS3c1WmdVcEdudXNOUQ?oc=5
+- Jharkhand exam protests in Ranchi: After CJP, a new youth agitation grips Indian state - BBC
+  Jharkhand exam protests in Ranchi: After C
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteEliclRRZks4RDlZWTgzWllJTjljNkZZMlB6QVFoZ2xzZUp4Zkp2bnY1Ry10ZklSSWNPQXd6a2JTaGxGczEyU2FZRVlBZ3V4NHJyenJrdUR1QQ?oc=5
 
-- India news: Student protests in Jharkhand enter 13th day - DW.com
-  Student protests in Jharkhand
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPTG5yUmF3LW1MQm1FSTQxamJzcjFpUkpwd0twd0lmcV9YdllZTnh0a3ZSb2JsVVJZdGU4bmtSRTlrbG9iMXRKMXlIZ1NsNENidERYY0RCRy04QlF0ZlVKZlNGU2RXaW5FbGw0UHM1OEU5SXUyalU2Y0VwRFRpWm1HYWd4SXNuRHpFVXplUzhvTGRrYXhmamc?oc=5
+- Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source
+  Microsoft’s newest India datacenter region goes live to power the country
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5
 
-- "Let's Just Say...": Rahul Gandhi's Witty Batman Response Goes Viral - ndtv.com
-  "Let's Just Say...": Rahul
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2g1SjBVZU9fNWJVRDVoa3FRVG5BdGtlRTVFSEJENlVKdENaLU5mQnY2M1dSRE5kWjNQak9oUlpOMUZEcDhURUllWW9YeERNVkhZRnFaNHYyZkxTVjFHX1lMOGwxcFRhUnVZTVJBRFJjMkZKTDBEMWtWSjExa2pxcjAwV3J6WUh0ajNtRjlCdmE2WVhZTG1RLURDT1M3UlhNVkFv0gGrAUFVX3lxTFBJeEZMdHhjc2pURUVMalljOEQyOGhvOTFLT2JnU1NoTThWMldfUlpyRWxqcVEycnd2ckprYlBfU1J5WkpfdTNsUi1tMVBhSVhyUnlWSE96bExZV1FkVFZEeG10NFl4UTJLQzY0VDRIWWhySlJLckhrcmRnUmxpdzBiWnBmTFJKVm53WGVzcEdCcnRUblFITjRBNzZnTVJocy16LWFtbVNfMVNKOA?oc=5
+- "US Regulates Flow Of Foreign Funds Too": India On US Lawmaker's Criticism - NDTV
+  "US Regulates Flow Of Foreign Funds Too":
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnI3ekFHcF9jX3ZSZjBpOVJTR0RqWkxURVBmdU92YXlFVkFYenUtcEprWnFNbHhzeE5iaVd4VXBFdGdBWG8xMEprNnFSVDFKQ1JSRmx4Q2xQalR6NE5mdkkyazhUQkxyTjQ3S3RLaVVTYW5QMEZ1Y2ZBYkR0VTVTT2Q5RFM1eXJWNUk0aVhYa1NJTXN1ZVZyNGtmQTY4TjF6TnE4R0tUVlZWbWkwSGMwU21aRTFjckpycnFIdjVn0gHGAUFVX3lxTFBiVmFwQjNuWDgzOXlYdW5aMDNGRHIycktuS196Zmh3Q21uUmZYWUNTRGlYNG1XUlllYmFnWWFINTg1VVpzRVN6V2FiNmF5WG5UekJvMkwyQTBjY1JWV0FXak1rSF96OXZlUnFXbW5LNDh5NXQ3ZUFkUXJCRHJsbkVuYjBCb2xkV2pHR0NMNXNCbWgwSDF4Z1hTbnJfc1FuZWFkSEcxbmQ3T0k3dVhuNlJ4anBTbkN4Z2ZwWHIxQmJ4WTl0N1pYdw?oc=5
+
+- Hero MotoCorp To Debut Maiden Electric Motorcycle Next Year
+  Auto giant Hero MotoCorp is all set to unveil its first batch of electric motorcycles next year.
+  🔗 https://inc42.com/buzz/hero-motocorp-to-debut-maiden-electric-motorcycle-next-year/
+
+- Knya FY26: Revenue Crosses ₹100 Cr Mark, PAT Jumps 3X YoY
+  Medical apparel brand Knya saw its profit after tax (PAT) more than triple to ₹10 Cr in the fiscal.
+  🔗 https://inc42.com/buzz/knya-fy26-revenue-crosses-%e2%82%b9100-cr-mark-pat-jumps-3x-yoy/
+
+- After Boycott Calls, Swiggy To Refund Alleged Unauthorised Charges To Restaurants
+  After restaurateurs threatened to boycott Swiggy, the foodtech giant has reportedly agreed to refund promotional charges.
+  🔗 https://inc42.com/buzz/after-boycott-calls-swiggy-to-refund-alleged-unauthorised-charges-to-restaurants/
 
 - Inside Nykaa’s Inventory Model: How The Beauty Giant Earns Its Margin
   Nykaa was once called the &#8220;Amazon of beauty.
@@ -168,57 +180,45 @@
   After growing into a $65 Bn market, India&#8217;s D2C ecosystem is entering its next phase of evolution.
   🔗 https://inc42.com/buzz/meet-the-14-d2c-brands-from-the-inaugural-d2cx-runway-cohort/
 
-- SEBI Clears IPOs Of Rediff, PlaySimple
-  SeBI has given its go-ahead to the initial public offerings (IPOs) of AvenuesAI’s (formerly Infibeam Avenues) subsidiary Rediff&#8230.
-  🔗 https://inc42.com/buzz/sebi-clears-ipos-of-rediff-playsimple/
-
-- [Update] LEAP India IPO: Issue Subscribed 26% On Day 1
-  Leap India’s IPO was subscribed 26% at the end of day.
-  🔗 https://inc42.com/buzz/leap-india-ipo-issue-subscribed-24-on-day-1-till-now/
-
-- How STCH Is Modernising Apparel Manufacturing With AI & Factory OS
-  India’s D2C fashion ecosystem has become exceptionally good at spotting trends. Brands today use AI to generate hundreds of new products.
-  🔗 https://inc42.com/startups/how-stch-is-modernising-apparel-manufacturing-with-ai-factory-os/
-
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - ndtv.com
-  BrahMos Gets The Glory, But India's Next
+- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
+  &nbsp;&ngt;<font color
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
 
-- Spain replaces ambassador to India Juan Antonio March Pujol over financial favor allegations - The Economic Times
-  Spain replaces ambassador to India Juan Antonio March Pujol over financial
-  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxQdkFGQl9QN1RnMGM0Y3AzNS1PUGh4QU5VSml0TDBWOFJnWENoQUp3d2lDSHl4OHhZQWRMVlUxekRWbEpabU53Nk1FQzhvU3laSnF6cGlmRm1GTkV3a1A0R25PRmFaRENaTVRiSE9oTGRhZlF4Z3NwV3JpX0o3VkVGODhnNjRWQ3Qtc2ppeVRFbDctb053TE1TbWZ1R0RiZXhMLWlhSjdVN3l1MGlSMlFGT0w2OWNJbG9mWDMtNlIwa0RFdTRzVUtWYkZSamZURXZLSGxvbFB4TXdqSUt0VEN5NkluN1FualJtMlhCYng2SGx6MlBuMnZ1Q3BnQklRT3dnQm83bzlZTktPX3FxSl9CN21PVjRnZU1VNVFzR3BXMHBlem5SMmZlMFBhWVJfX0RwZ1VUNWswaGNmOEFHNUp1SVRuQW52ZGxQWTIyNHdvR0JnQTJSS2pOQk05elB2eDhzYTdvTnpseHdwY0c0d2NwetIBjAJBVV95cUxQTk8xT0FobWMxb1loNmpDUE84M0NBRGJiQlZFajBEUkJxZ1JFY2JOMjRnX0tfYUJDU2RIRWNVNWJ2d3c5cmZVUGczUDFyeE4tcDJBQ25hazVtMzJGNEZZQ3ZncF9KbmZBYVo3c0lUNll1elJzcXZIbzdDUEZmRUlWVFl0T0Rqalh0N1l0cjJQYXFCWUhrdXlVTUw0ZTJaNl9EUlgxdGpscWx0VXA2MU94Sk5tdDhKV3hnT3VSTEY1UXdBLXR4R3k2U2lNa0VaTE9KUmdBbGZEc1BzMm5sNUdEMnQweUhaWWFMenc4YXNSU1hVVUVtV3VmVjljMC0zazlucVYyWWRWNjBvNmgt?oc=5
+- Share data on river waters, India tells China - The Times of India
+  The Times of India is published by The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FVTkVBaHl6cHUydktMaXhFU2FXNUMtY3ZzUnVRbjZsbldTR1Y3cWFXMWYycWd4OFRFRW04QUFwNXdvWHdfbThiaFRrT3k3RkV3RlAzbVR6S096b2hYamRhZ2FpQkpLY2VsUWk0aEJnVWFPLTRnYkN2YWZGaG02MVktNU8wdkJGdHVvM1RRTzk5YVh6TXRkWExfbHk0YWhYR3VNZC1uY1I4LTVURXU2ZUFR0gG3AUFVX3lxTFBVOUxaZVRMcV85TTN0cWdDZi1PbVBCX2cxN1J2SnpFNmNCZnBEOFBFMDhRVDliSVYybGJrNUxYbW1CaHBodFY3cGFHWEwzUncycjQtdm82TW05SGdoMllLNkdwZzlCMkl2U1FWbjBWbmNTTDBFQnJPUnExa3pZTWNFT09zVFF3eUFkQVdrNjNLcFRFYUhHWE80QU5aa0dBazdjYTNkX3gtSWZ2d2tzV1NDbjJ4dmVwaw?oc=5
 
-- Jharkhand: Protests grow in Indian state over alleged exam irregularities - BBC
-  Jharkhand: Protests grow
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91MlMwVXhsMWE4cV9zTVpkWXJQNVBfamNwdmJia3RHZmF3QnhfTGdzLTUzdjhqMTJhXzREdDBjWFB3aVo1c19Idlg0SHVMS3c1WmdVcEdudXNOUQ?oc=5
+- Jharkhand exam protests in Ranchi: After CJP, a new youth agitation grips Indian state - BBC
+  Jharkhand exam protests in Ranchi: After C
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteEliclRRZks4RDlZWTgzWllJTjljNkZZMlB6QVFoZ2xzZUp4Zkp2bnY1Ry10ZklSSWNPQXd6a2JTaGxGczEyU2FZRVlBZ3V4NHJyenJrdUR1QQ?oc=5
 
-- India news: Student protests in Jharkhand enter 13th day - DW.com
-  Student protests in Jharkhand
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPTG5yUmF3LW1MQm1FSTQxamJzcjFpUkpwd0twd0lmcV9YdllZTnh0a3ZSb2JsVVJZdGU4bmtSRTlrbG9iMXRKMXlIZ1NsNENidERYY0RCRy04QlF0ZlVKZlNGU2RXaW5FbGw0UHM1OEU5SXUyalU2Y0VwRFRpWm1HYWd4SXNuRHpFVXplUzhvTGRrYXhmamc?oc=5
+- Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source
+  Microsoft’s newest India datacenter region goes live to power the country
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5
 
-- "Let's Just Say...": Rahul Gandhi's Witty Batman Response Goes Viral - ndtv.com
-  "Let's Just Say...": Rahul
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2g1SjBVZU9fNWJVRDVoa3FRVG5BdGtlRTVFSEJENlVKdENaLU5mQnY2M1dSRE5kWjNQak9oUlpOMUZEcDhURUllWW9YeERNVkhZRnFaNHYyZkxTVjFHX1lMOGwxcFRhUnVZTVJBRFJjMkZKTDBEMWtWSjExa2pxcjAwV3J6WUh0ajNtRjlCdmE2WVhZTG1RLURDT1M3UlhNVkFv0gGrAUFVX3lxTFBJeEZMdHhjc2pURUVMalljOEQyOGhvOTFLT2JnU1NoTThWMldfUlpyRWxqcVEycnd2ckprYlBfU1J5WkpfdTNsUi1tMVBhSVhyUnlWSE96bExZV1FkVFZEeG10NFl4UTJLQzY0VDRIWWhySlJLckhrcmRnUmxpdzBiWnBmTFJKVm53WGVzcEdCcnRUblFITjRBNzZnTVJocy16LWFtbVNfMVNKOA?oc=5
+- "US Regulates Flow Of Foreign Funds Too": India On US Lawmaker's Criticism - NDTV
+  "US Regulates Flow Of Foreign Funds Too":
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnI3ekFHcF9jX3ZSZjBpOVJTR0RqWkxURVBmdU92YXlFVkFYenUtcEprWnFNbHhzeE5iaVd4VXBFdGdBWG8xMEprNnFSVDFKQ1JSRmx4Q2xQalR6NE5mdkkyazhUQkxyTjQ3S3RLaVVTYW5QMEZ1Y2ZBYkR0VTVTT2Q5RFM1eXJWNUk0aVhYa1NJTXN1ZVZyNGtmQTY4TjF6TnE4R0tUVlZWbWkwSGMwU21aRTFjckpycnFIdjVn0gHGAUFVX3lxTFBiVmFwQjNuWDgzOXlYdW5aMDNGRHIycktuS196Zmh3Q21uUmZYWUNTRGlYNG1XUlllYmFnWWFINTg1VVpzRVN6V2FiNmF5WG5UekJvMkwyQTBjY1JWV0FXak1rSF96OXZlUnFXbW5LNDh5NXQ3ZUFkUXJCRHJsbkVuYjBCb2xkV2pHR0NMNXNCbWgwSDF4Z1hTbnJfc1FuZWFkSEcxbmQ3T0k3dVhuNlJ4anBTbkN4Z2ZwWHIxQmJ4WTl0N1pYdw?oc=5
 
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - ndtv.com
-  BrahMos Gets The Glory, But India's Next
+- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
+  &nbsp;&ngt;<font color
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
 
-- Spain replaces ambassador to India Juan Antonio March Pujol over financial favor allegations - The Economic Times
-  Spain replaces ambassador to India Juan Antonio March Pujol over financial
-  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxQdkFGQl9QN1RnMGM0Y3AzNS1PUGh4QU5VSml0TDBWOFJnWENoQUp3d2lDSHl4OHhZQWRMVlUxekRWbEpabU53Nk1FQzhvU3laSnF6cGlmRm1GTkV3a1A0R25PRmFaRENaTVRiSE9oTGRhZlF4Z3NwV3JpX0o3VkVGODhnNjRWQ3Qtc2ppeVRFbDctb053TE1TbWZ1R0RiZXhMLWlhSjdVN3l1MGlSMlFGT0w2OWNJbG9mWDMtNlIwa0RFdTRzVUtWYkZSamZURXZLSGxvbFB4TXdqSUt0VEN5NkluN1FualJtMlhCYng2SGx6MlBuMnZ1Q3BnQklRT3dnQm83bzlZTktPX3FxSl9CN21PVjRnZU1VNVFzR3BXMHBlem5SMmZlMFBhWVJfX0RwZ1VUNWswaGNmOEFHNUp1SVRuQW52ZGxQWTIyNHdvR0JnQTJSS2pOQk05elB2eDhzYTdvTnpseHdwY0c0d2NwetIBjAJBVV95cUxQTk8xT0FobWMxb1loNmpDUE84M0NBRGJiQlZFajBEUkJxZ1JFY2JOMjRnX0tfYUJDU2RIRWNVNWJ2d3c5cmZVUGczUDFyeE4tcDJBQ25hazVtMzJGNEZZQ3ZncF9KbmZBYVo3c0lUNll1elJzcXZIbzdDUEZmRUlWVFl0T0Rqalh0N1l0cjJQYXFCWUhrdXlVTUw0ZTJaNl9EUlgxdGpscWx0VXA2MU94Sk5tdDhKV3hnT3VSTEY1UXdBLXR4R3k2U2lNa0VaTE9KUmdBbGZEc1BzMm5sNUdEMnQweUhaWWFMenc4YXNSU1hVVUVtV3VmVjljMC0zazlucVYyWWRWNjBvNmgt?oc=5
+- Share data on river waters, India tells China - The Times of India
+  The Times of India is published by The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FVTkVBaHl6cHUydktMaXhFU2FXNUMtY3ZzUnVRbjZsbldTR1Y3cWFXMWYycWd4OFRFRW04QUFwNXdvWHdfbThiaFRrT3k3RkV3RlAzbVR6S096b2hYamRhZ2FpQkpLY2VsUWk0aEJnVWFPLTRnYkN2YWZGaG02MVktNU8wdkJGdHVvM1RRTzk5YVh6TXRkWExfbHk0YWhYR3VNZC1uY1I4LTVURXU2ZUFR0gG3AUFVX3lxTFBVOUxaZVRMcV85TTN0cWdDZi1PbVBCX2cxN1J2SnpFNmNCZnBEOFBFMDhRVDliSVYybGJrNUxYbW1CaHBodFY3cGFHWEwzUncycjQtdm82TW05SGdoMllLNkdwZzlCMkl2U1FWbjBWbmNTTDBFQnJPUnExa3pZTWNFT09zVFF3eUFkQVdrNjNLcFRFYUhHWE80QU5aa0dBazdjYTNkX3gtSWZ2d2tzV1NDbjJ4dmVwaw?oc=5
 
-- Jharkhand: Protests grow in Indian state over alleged exam irregularities - BBC
-  Jharkhand: Protests grow
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91MlMwVXhsMWE4cV9zTVpkWXJQNVBfamNwdmJia3RHZmF3QnhfTGdzLTUzdjhqMTJhXzREdDBjWFB3aVo1c19Idlg0SHVMS3c1WmdVcEdudXNOUQ?oc=5
+- Jharkhand exam protests in Ranchi: After CJP, a new youth agitation grips Indian state - BBC
+  Jharkhand exam protests in Ranchi: After C
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteEliclRRZks4RDlZWTgzWllJTjljNkZZMlB6QVFoZ2xzZUp4Zkp2bnY1Ry10ZklSSWNPQXd6a2JTaGxGczEyU2FZRVlBZ3V4NHJyenJrdUR1QQ?oc=5
 
-- India news: Student protests in Jharkhand enter 13th day - DW.com
-  Student protests in Jharkhand
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPTG5yUmF3LW1MQm1FSTQxamJzcjFpUkpwd0twd0lmcV9YdllZTnh0a3ZSb2JsVVJZdGU4bmtSRTlrbG9iMXRKMXlIZ1NsNENidERYY0RCRy04QlF0ZlVKZlNGU2RXaW5FbGw0UHM1OEU5SXUyalU2Y0VwRFRpWm1HYWd4SXNuRHpFVXplUzhvTGRrYXhmamc?oc=5
+- Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source
+  Microsoft’s newest India datacenter region goes live to power the country
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5
 
-- "Let's Just Say...": Rahul Gandhi's Witty Batman Response Goes Viral - ndtv.com
-  "Let's Just Say...": Rahul
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2g1SjBVZU9fNWJVRDVoa3FRVG5BdGtlRTVFSEJENlVKdENaLU5mQnY2M1dSRE5kWjNQak9oUlpOMUZEcDhURUllWW9YeERNVkhZRnFaNHYyZkxTVjFHX1lMOGwxcFRhUnVZTVJBRFJjMkZKTDBEMWtWSjExa2pxcjAwV3J6WUh0ajNtRjlCdmE2WVhZTG1RLURDT1M3UlhNVkFv0gGrAUFVX3lxTFBJeEZMdHhjc2pURUVMalljOEQyOGhvOTFLT2JnU1NoTThWMldfUlpyRWxqcVEycnd2ckprYlBfU1J5WkpfdTNsUi1tMVBhSVhyUnlWSE96bExZV1FkVFZEeG10NFl4UTJLQzY0VDRIWWhySlJLckhrcmRnUmxpdzBiWnBmTFJKVm53WGVzcEdCcnRUblFITjRBNzZnTVJocy16LWFtbVNfMVNKOA?oc=5
+- "US Regulates Flow Of Foreign Funds Too": India On US Lawmaker's Criticism - NDTV
+  "US Regulates Flow Of Foreign Funds Too":
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnI3ekFHcF9jX3ZSZjBpOVJTR0RqWkxURVBmdU92YXlFVkFYenUtcEprWnFNbHhzeE5iaVd4VXBFdGdBWG8xMEprNnFSVDFKQ1JSRmx4Q2xQalR6NE5mdkkyazhUQkxyTjQ3S3RLaVVTYW5QMEZ1Y2ZBYkR0VTVTT2Q5RFM1eXJWNUk0aVhYa1NJTXN1ZVZyNGtmQTY4TjF6TnE4R0tUVlZWbWkwSGMwU21aRTFjckpycnFIdjVn0gHGAUFVX3lxTFBiVmFwQjNuWDgzOXlYdW5aMDNGRHIycktuS196Zmh3Q21uUmZYWUNTRGlYNG1XUlllYmFnWWFINTg1VVpzRVN6V2FiNmF5WG5UekJvMkwyQTBjY1JWV0FXak1rSF96OXZlUnFXbW5LNDh5NXQ3ZUFkUXJCRHJsbkVuYjBCb2xkV2pHR0NMNXNCbWgwSDF4Z1hTbnJfc1FuZWFkSEcxbmQ3T0k3dVhuNlJ4anBTbkN4Z2ZwWHIxQmJ4WTl0N1pYdw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-07 18:50:20 UTC_
+_Last updated: 2026-08-08 01:13:46 UTC_
