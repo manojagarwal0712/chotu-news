@@ -1,5 +1,33 @@
 # 📰 Daily News Summaries
 
+- Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to be disci - The Times of India
+  Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQNUFFZmdWR2tDeUc5cXNvQWFQLW8yNnJxWF9uanlUYUNwcndpbzM4bllJZHhlUUhSVUFwd2VNMDdRbEJKajVlYlltejlDOTVLdmVXU09aVXpld09nZGFpVmROY2gzbWMtQjAybFRLd2tGdi1UWTcxVnF3UHRhaTdGd09FcjN4bXRJa2RnOU5ET2djcHlObklqczdzOGdjVkRUSU0wWlcyZi1CRGdKVi1obHVtSjdscVItdkVhUjRIa2pIX2tiVUxhVHlNemFScGlIZDdYeFhvMDJ2V29UVUQ5dXF3Z09veXVrZFotS29KRnU5b2NyUFFWVXJyU2xiZ1dNWTV5NFhPSFV2TFAyYkdRR0wxVm1WMEFpd3RpbEtUSmhJbloxeXhpajEyWEpBU05Y0gG2AkFVX3lxTFBmZFZlUVVfd0E0bGF1eW0ybUV0c3NwUld2U002S09DZHBPbFBEZElTcXM5aFk3aktkejRRcG9DNWxLTkZDSTZtOHBtNmJoRnhqSEpPN2o0eWJoZ3hZaWFDRTVkb0g3RTlJeG9TYlBfYnNuWFNXdVpYLXFWTGx2R0dxNjV5WmdZTjEzbmotNHBGZjBzOFNiZElHcTFBeDdYeFRNVkQzUDFFeE42ZGd2NEVqVXhBLVZHVXQxTTdIN3ZseDNPZXRSZ2o5dVd6dng2bktFeFVId1BOek5vWXhSRTBQcDFvZXhyWFRJOHdrU1duYmtPbGs1dklKX054bmNqbmw5THlIbDhVdHozM18zLWhyQVQ2dGhxYW9OYTFDZGJ0emdyaXFvX3YwQ0pBX1N0MnVtdDR4aUE?oc=5
+
+- TSMC & Researchers Make Big Breakthrough In Chip Transistor Technology As Part Of Push Towards Developing Sub-1-nanometer Technologies - Wccftech
+  TSMC & Researchers Make Big Breakthrough In Chip Transistor Technology. Push Towards
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeENnZnVXeklGQ0l3MVQ0cUp4c09JZVR2RnZhdHBOY3NtbkR0WTNlRWZxV2d2SUMxYl9TekdDbG5wRXVQU2pkWlVKYWNZVWZjWlhmNzQ3YWVUdlVvWEZsTXFnaFB2VklJX2ZKc2tXVk9POXBzZXViMDJUYUxhRGZkS1pRU3lPT2J5RVBucHZnTTdSMU1aQzJiblRocktJalBjMkplSE5yN091ZXFSY3AwVmx2dlMyWDhrYnpKbEhkRWVVcUFzQUlibUhrYmtVWi1hbWxQQUJmalNvNTJUNWVFUzVSLUVYbndHMkHSAe8BQVVfeXFMUFkxNkluS0wybnl6WHdMeTFJbFBDak9UQnpFblF4a3d0aWhjUTNUV3lxbDhUZjBaZk5KbVpvM3FTWGpNLU9Lc25hTlJNbWRCZ3d0RkhHS3NDekJHeHJJVFlid3RkdkZwU0xlRzhVX3ZGTkczaE1YYks4Z21mTElQcHdiZHpqV1pJVDd2NVF0TmFnZmNabmE2MW9YUjhsdlduNVFXaWRjb0JPY21sSGtvdjBmTnZVbXJJWjdsblItcWVPYlp0Q3NzQjBmZ2tIZ1BxbnR1ZndkMHpUSWtlNlZZVVk4bjFoYU02SWFwV3E5M0k?oc=5
+
+- PM Modi emphasizes importance of innovation, research, emerging technologies in shaping India’s growth trajectory - News On AIR
+  PM Modi emphasizes importance of innovation, research, emerging technologies in shaping India
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT182aWl4dmtpSHJLOFZ0dkRWUEVobFlVTXJCcTlEclhFVG5reXNDTlMxT1g0VFFLdUc0NWc5c0VqYmE0TjhuQ3laVk5pVzNDYjV0SUNaLUlscy1uNVU3VDhQalBTWUlxRWhVbmxrbWNGSFlBdzNjZ19sV2xDWHFZTU90cDh1Zlp6VGYw?oc=5
+
+- VIT Chennai inks MoU on technology training with Malaysian state-owned firm - The Hindu
+  VIT Chennai inks MoU on technology training
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalpxMjBqV0E2TW1DTHBxbDlwZGd0Ml9ldkRzOG9jc0Y1VXBxYVp4NmNRWFMxVl9WZTlQX2Y3bVpHcllycktMZ1ZDUHgtbWQ1b2NmQnI3ZVB1dFNXYXpNYVBfY1FkYjRycHRuTXR1VVA5ZGlsTTlrQVVMNXZTbTFNOVNfZU9KTV9lWEZBMW9hc1diZ0N0cHFkbkFPRlp1bHdyeU5PQWN0SUU4YjJjck8zZnNqZ0V1OTRvQXNfU3NUWHBadFY5czhwWndrcGtYNzJnWUpyWlUwQ0VCbzNTN1HSAeQBQVVfeXFMTmNoY1dCNUpmU1FSQXFJQ2xpcUZYVUMxYU5QMHBZYmd3SHd0M1Jid2U2SUlPVXZQWVRjWmNCdnlMNThNRXlXVjZwNlNmamdPaG5EcUk3aG1HbmpQWmxFMGFMTE1NZ1pSTWgtWFdDb0VVYUdPVHFtX0JCNExTeHZFWUxHMjBHd010VE52QWpmX0FYNWl6Z0dvY2VOUE0xWlNrb3h6TmJBME4tSnE1R2xRV084UHFxOUpzRFR4Vlg3Y09hRGlkMGxrdl9kdndvUEJ0b3U4ZkUtUjFlbFBzWS1CMEx2VDQy?oc=5
+
+- A Chatbot-Free Childhood Will Be a Status Symbol - theatlantic.com
+  A Chatbot-Free Childhood
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWc1VDhLZDlKUGxGb1dEbnhvd2lmVXJWNlVVeWF5UEd5X0pveFRaaWtSbkpubVdEQVF6OFc0NS1XbHFXSnVhUTk0UFhpN2ZzeUQxWmJhN2FMUVI1eXFTbzNHSTMySTVCN0VLQXp6Qi1jUWJuSW5ybXhoaWJxMmY0M1FRWDFvOU5lZHNr?oc=5
+
+- Berkshire Hathaways new CEO Greg Abel spends a chunk of the companys massive cashpile
+  Berkshire Hathaway's new CEO Greg
+  🔗 https://www.livemint.com/companies/berkshire-hathaways-new-ceo-greg-abel-spends-a-chunk-of-the-companys-massive-cashpile-11786196051478.html
+
+- Berkshire Hathaway buys back $4.5 billion of its own shares
+  Berkshire Hathaway Inc. spent about $4.5 billion to buy back its own shares in the second quarter.
+  🔗 https://www.livemint.com/companies/news/berkshire-hathaway-buys-back-4-5-billion-of-its-own-shares-11786195603011.html
+
 - India warned Diageo that its whisky's ‘matured in American oak casks’ claim was misleading
   Diageo misleadingly claimed one of its top-selling whiskies was “matured in American oak casks�
   🔗 https://www.livemint.com/companies/news/india-warned-diageo-that-its-whiskys-matured-in-american-oak-casks-claim-was-misleading-11786186686336.html
@@ -12,13 +40,13 @@
   Trump administration to invest $3 billion into minerals projects
   🔗 https://www.livemint.com/companies/trump-administration-to-invest-3-billion-into-minerals-projects-to-boost-us-defense-supply-chains-11786138625673.html
 
-- Ethan Allen CEO Defends Leadership After Activist Challenge
-  Ethan Allen Interiors Inc. Chief Executive Officer Farooq Kathwari said the furniture store is focusing on long-term retail
-  🔗 https://www.livemint.com/companies/ethan-allen-ceo-defends-leadership-after-activist-challenge-11786129304607.html
+- A volatile week for tech revealed new stock narratives—and 1 bargain
+  For most tech earnings, good wasn't good enough. But it's still possible
+  🔗 https://www.livemint.com/market/stock-market-news/a-volatile-week-for-tech-revealed-new-stock-narratives-and-1-bargain-11786196401734.html
 
-- Titan sees jewellery demand rebound despite high gold prices
-  Titan's managing director Ajoy Chawla said the company has significant room to expand as India’s jew
-  🔗 https://www.livemint.com/companies/titan-sees-jewellery-demand-rebound-despite-high-gold-prices-11786111499743.html
+- A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar
+  It was a tough week for crypto, but a good time to
+  🔗 https://www.livemint.com/market/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar-11786195190000.html
 
 - Gold price jumps as reopening of Strait of Hormuz buzz dents US Fed rate-hike hopes. Is it the right time to buy gold?
   Gold price registered 8% weekly gain, as easing tension in the Middle East and falling oil prices have
@@ -31,14 +59,6 @@
 - Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
   Mehul Kothari of Anand Rathi recommends three shares to buy or sell
   🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11786168790531.html
-
-- Ardee Industries IPO GMP remains steady after strong subscription status. Allotment date in focus
-  Ardee Industries IPO GMP today: According to Investorgain, the company shares
-  🔗 https://www.livemint.com/market/ipo/ardee-industries-ipo-gmp-remains-steady-after-strong-subscription-status-allotment-date-in-focus-11786163860873.html
-
-- SBI Q1FY27 results beat market estimates. Is this a stock to buy?
-  SBI delivered a strong operational performance in Q1 FY27, recording a
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-share-price-sbi-q1-results-2026-beat-market-estimates-is-this-a-stock-to-buy-11786157865622.html
 
 - OpenAI's new gadget leak reveals as ChatGPT creator vies to disrupt market –$400 price, shape, other key specs: Report
   OpenAI is set to launch a new gadget and enter a market dominated by Amazon and Google. Designed in collaboration with Jony Ive's LoveFrom, the device is
@@ -80,85 +100,25 @@
    AGS Health, operating under Blackstone, has filed revised draft documents for its upcoming IPO in India. This offering features a new share release, as Blackstone aims to divest shares worth 30 billion rupees.
   🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/blackstones-ags-health-files-updated-draft-papers-for-500-million-india-ipo/articleshow/133050913.cms
 
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
-
-- U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others - The Hindu
-  The Hindu has published an article on the U.S. sanctions
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5
-
-- US Senate Passes Russia Sanctions Bill, 100% Tariff Threat Looms On India, China - NDTV
-  US Senate Passes Russia Sanctions Bill, 100%
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRXFKeXlBTWpaeUNNMDRxa0xaQ3pFdXdKR2dyOGlVcmJrTWtmeXZWVS1LQzFHblN0V2R2cDU5Zjc1UnpHdjBZWEVDRHQ3cEQxckNUUW5ISG9ackxOMV8zbC1hSlNzN2k4d0Q5UkpWTGUzTnJIUi04VWVwd3hCeGJZcWhmLXBua21hRTdYQjQ1bW9fNnYybVBhRjVwMi1DM3N4WHlvMk4xWnNnY3RkU3owMG10N2FNS2YzZDlhbmlyb2VkV3VuSHBrQk12TTh3VFV6d3hpU0JfeXFWQV9Dak5XM0prR0lPTTFRVWRvUWo3LXpVNlBGay0wcNIBgAJBVV95cUxNczhzdlhoZDRTdXNocXhJRTVxeVJGRU5adDZYc1pmQ0xfSHdNcGhkZGVCZHVFYmxDY2I0b1kzeWlJV3NVd3lWdTFYQS1oOHM3Nk9sTk5HekZFQUpyNHVEbkZKRDhzNXUzMVc3NzhmbEE1aTkzM0F5OXkwaTBHNm9LR0VCOVU3c3Z3cmtDb3hZNFFURUJUblo2b3YxUlNvLUxNUGNWU0pQa1FuaHloWmoxNW5hRUFrd0ZPa3ZMb3FsMkZXMzdQSFBjQUdVNllBXzZEbjRmMEY4WXl3bllIRkUwZXNXcm9NRVpUcWVCRzBlY284WWlnZXI5dXFyYUtoRzBu?oc=5
-
-- World News updates: Todd Blanche narrowly confirmed as Trump’s attorney general - The Indian Express
-  The Indian Express is an online magazine published by The
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmdtY1VwcFdMbzR3UnpvelgyOV8xeFpfMTZKcUx6UnRSdWk0R0VlZXVIZExrT3kxZW4zMnVwTTRBQks5UVZoUFpTTm44M3JhNmR3dDBEN0E0YXROZGtoWHVzNnpiU0NFa3NEN2RSOUEtWVVPbE9sOUdDZkxVSTE0aS1PTXROUFYzaWlkMlFjTF84UDRZcGx5U0o2Z1BNczk1YVl4V3JmeWdLM2U3VnVWck5nYl85VEFyRHMwZdIBwwFBVV95cUxPN0xIRHBwVWY5S1J6WGF6OEh6dFNZNnlfd0dtMjNHVXA0SWNCUkU2MTVnZVNKbFlEbW9hemxlbXpnQnJobUtSV2VEbDM5RXFPVG9SaThQaDBHVTd4b3NNV1ZiOF9IaGI0Wm0xNVJOV0RKb2Z1NVRocHJ1WlVjYTJpdm1CaDRTMTctaThqRGNqMWo4Z3d3RzhSZU4zZ2prTHl0UG1GQ19DM2QtR1hQZktxTlowbjhpS3JFUExic2JiZ2FfUlk?oc=5
-
-- 'Army safeguarding territory': Arunachal CM Pema Khandu rejects Chinese encroachment - The Times of India
-  'Army safeguarding territory': Arunachal CM
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3c1dDR6cjVjQWh4WnFSZHlRZWRFcUZTUjI0MXJMbmhzS2d4ekVpY25YTTNWaG51azI2b3JCanZFTE9rUzVZRXBVZk1kX2FObEdnYmR2YmxmQ05SM3A4RGdGT29CRlR0TG42bW5yRk85eXJERXFFWUFwUVI5bkxWOG5HdDA2UDF1eFRpVjRQb3dPZnM3ekJ0a1RCUHBSNmZ1d0FJYl9tdEx6Y1lXRURPZjJnSWJqTm93T09LYjNwU2hqZlg1T0YyYVZKMktUa05JVXRKUF8yLXN4M3A2c296TjdCVdIB6AFBVV95cUxOSDdfdGdIT193UXU3b1dHQzhQZTJzOXo5Z0U3WFRITmNnY0Q5T1ZNcTdNa2Rsem5GeHFuX1RackpyZFh6M05CdVFpTTAtb3kzNS1vZjVTQmozWHVjOE5KTnhsUERyNWdTRzk4VURtZmY3WEFtLTQyUWVwWUhFMlpKTTlmZUdMZFBEbllJSkM0YUxSV1FhS2NmLWVualB2aXBINUVTaHFTcU8yNkdkSGVzSkZnYS1RZ0o4QjRLS01PMFpDVTNXNTB3QTIwWlNJeFBZVXU2aEZfNkRHNWliUGJxRXZlZXNJRTFi?oc=5
-
-- Delhivery Q1 Profit Sinks 65% YoY To ₹32 Cr Despite A 28% Uptick In Revenue
-  Delhivery Q1 Profit Sinks 65% YoY To ₹32 Cr Despite A 28% Uptick In Revenue. consolidated net profit for the June quarter of FY27 slumped 65% to
-  🔗 https://inc42.com/buzz/delhivery-q1-profit-sinks-65-yoy-to-%e2%82%b932-cr-despite-a-28-uptick-in-revenue/
-
-- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
-  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
-  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
-
-- Payments Council Rules Out Consumer MDR; PhonePe & Razorpay Back Free UPI
-  The Payments Council of India (PCI) has clarified that UPI payments will remain free for consumers.
+- [Update] Now, Finance Ministry Rules Out Consumer UPI Charges Amid MDR Debate
+  The finance ministry categorically clarified concerns over merchant discount rates (MDR) on UPI.
   🔗 https://inc42.com/buzz/payments-council-rules-out-consumer-mdr-phonepe-razorpay-back-free-upi/
 
-- Centre Seeks Technical Changes From Meta To Tackle Deepfakes, Child Abuse Material
-  The Centre&#8217;s discussions with Meta have moved into a technical phase after two days of intensive questioning over deepfakes,
-  🔗 https://inc42.com/buzz/centre-seeks-technical-changes-from-meta-to-tackle-deepfakes-child-abuse-material/
+- IPO-Bound Cult.fit’s Rishabh Telang Denies Forgery Allegations By Deepak Poduval
+  Deepak Poduval, cofounder of Cult Fitness Pvt Ltd, has filed an FIR against his cofounder and brother-in-law Rishabh Telang.
+  🔗 https://inc42.com/buzz/ipo-bound-cult-fits-rishabh-telang-denies-forgery-allegations-by-deepak-poduval/
 
-- Swiggy, Zomato, Zepto May Face EV Mandate, 2% Welfare Levy In Maharashtra
-  New-age tech consumer tech companies like Swiggy, Zomato, Zepto, and Meesho could face higher costs in Maharashtra.
-  🔗 https://inc42.com/buzz/swiggy-zomato-zepto-may-face-ev-mandate-2-welfare-levy-in-maharashtra/
+- Flipkart Minutes Enters Premium Grocery Segment With Pykd
+  Walmart-owned Flipkart is entering the premium grocery and specialty food products segment under its private label.
+  🔗 https://inc42.com/buzz/flipkart-minutes-enters-premium-grocery-segment-with-pykd/
 
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
+- FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
+  The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
+  🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
 
-- U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others - The Hindu
-  The Hindu has published an article on the U.S. sanctions
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5
-
-- US Senate Passes Russia Sanctions Bill, 100% Tariff Threat Looms On India, China - NDTV
-  US Senate Passes Russia Sanctions Bill, 100%
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRXFKeXlBTWpaeUNNMDRxa0xaQ3pFdXdKR2dyOGlVcmJrTWtmeXZWVS1LQzFHblN0V2R2cDU5Zjc1UnpHdjBZWEVDRHQ3cEQxckNUUW5ISG9ackxOMV8zbC1hSlNzN2k4d0Q5UkpWTGUzTnJIUi04VWVwd3hCeGJZcWhmLXBua21hRTdYQjQ1bW9fNnYybVBhRjVwMi1DM3N4WHlvMk4xWnNnY3RkU3owMG10N2FNS2YzZDlhbmlyb2VkV3VuSHBrQk12TTh3VFV6d3hpU0JfeXFWQV9Dak5XM0prR0lPTTFRVWRvUWo3LXpVNlBGay0wcNIBgAJBVV95cUxNczhzdlhoZDRTdXNocXhJRTVxeVJGRU5adDZYc1pmQ0xfSHdNcGhkZGVCZHVFYmxDY2I0b1kzeWlJV3NVd3lWdTFYQS1oOHM3Nk9sTk5HekZFQUpyNHVEbkZKRDhzNXUzMVc3NzhmbEE1aTkzM0F5OXkwaTBHNm9LR0VCOVU3c3Z3cmtDb3hZNFFURUJUblo2b3YxUlNvLUxNUGNWU0pQa1FuaHloWmoxNW5hRUFrd0ZPa3ZMb3FsMkZXMzdQSFBjQUdVNllBXzZEbjRmMEY4WXl3bllIRkUwZXNXcm9NRVpUcWVCRzBlY284WWlnZXI5dXFyYUtoRzBu?oc=5
-
-- World News updates: Todd Blanche narrowly confirmed as Trump’s attorney general - The Indian Express
-  The Indian Express is an online magazine published by The
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmdtY1VwcFdMbzR3UnpvelgyOV8xeFpfMTZKcUx6UnRSdWk0R0VlZXVIZExrT3kxZW4zMnVwTTRBQks5UVZoUFpTTm44M3JhNmR3dDBEN0E0YXROZGtoWHVzNnpiU0NFa3NEN2RSOUEtWVVPbE9sOUdDZkxVSTE0aS1PTXROUFYzaWlkMlFjTF84UDRZcGx5U0o2Z1BNczk1YVl4V3JmeWdLM2U3VnVWck5nYl85VEFyRHMwZdIBwwFBVV95cUxPN0xIRHBwVWY5S1J6WGF6OEh6dFNZNnlfd0dtMjNHVXA0SWNCUkU2MTVnZVNKbFlEbW9hemxlbXpnQnJobUtSV2VEbDM5RXFPVG9SaThQaDBHVTd4b3NNV1ZiOF9IaGI0Wm0xNVJOV0RKb2Z1NVRocHJ1WlVjYTJpdm1CaDRTMTctaThqRGNqMWo4Z3d3RzhSZU4zZ2prTHl0UG1GQ19DM2QtR1hQZktxTlowbjhpS3JFUExic2JiZ2FfUlk?oc=5
-
-- 'Army safeguarding territory': Arunachal CM Pema Khandu rejects Chinese encroachment - The Times of India
-  'Army safeguarding territory': Arunachal CM
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3c1dDR6cjVjQWh4WnFSZHlRZWRFcUZTUjI0MXJMbmhzS2d4ekVpY25YTTNWaG51azI2b3JCanZFTE9rUzVZRXBVZk1kX2FObEdnYmR2YmxmQ05SM3A4RGdGT29CRlR0TG42bW5yRk85eXJERXFFWUFwUVI5bkxWOG5HdDA2UDF1eFRpVjRQb3dPZnM3ekJ0a1RCUHBSNmZ1d0FJYl9tdEx6Y1lXRURPZjJnSWJqTm93T09LYjNwU2hqZlg1T0YyYVZKMktUa05JVXRKUF8yLXN4M3A2c296TjdCVdIB6AFBVV95cUxOSDdfdGdIT193UXU3b1dHQzhQZTJzOXo5Z0U3WFRITmNnY0Q5T1ZNcTdNa2Rsem5GeHFuX1RackpyZFh6M05CdVFpTTAtb3kzNS1vZjVTQmozWHVjOE5KTnhsUERyNWdTRzk4VURtZmY3WEFtLTQyUWVwWUhFMlpKTTlmZUdMZFBEbllJSkM0YUxSV1FhS2NmLWVualB2aXBINUVTaHFTcU8yNkdkSGVzSkZnYS1RZ0o4QjRLS01PMFpDVTNXNTB3QTIwWlNJeFBZVXU2aEZfNkRHNWliUGJxRXZlZXNJRTFi?oc=5
-
-- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
-
-- U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others - The Hindu
-  The Hindu has published an article on the U.S. sanctions
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5
-
-- US Senate Passes Russia Sanctions Bill, 100% Tariff Threat Looms On India, China - NDTV
-  US Senate Passes Russia Sanctions Bill, 100%
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRXFKeXlBTWpaeUNNMDRxa0xaQ3pFdXdKR2dyOGlVcmJrTWtmeXZWVS1LQzFHblN0V2R2cDU5Zjc1UnpHdjBZWEVDRHQ3cEQxckNUUW5ISG9ackxOMV8zbC1hSlNzN2k4d0Q5UkpWTGUzTnJIUi04VWVwd3hCeGJZcWhmLXBua21hRTdYQjQ1bW9fNnYybVBhRjVwMi1DM3N4WHlvMk4xWnNnY3RkU3owMG10N2FNS2YzZDlhbmlyb2VkV3VuSHBrQk12TTh3VFV6d3hpU0JfeXFWQV9Dak5XM0prR0lPTTFRVWRvUWo3LXpVNlBGay0wcNIBgAJBVV95cUxNczhzdlhoZDRTdXNocXhJRTVxeVJGRU5adDZYc1pmQ0xfSHdNcGhkZGVCZHVFYmxDY2I0b1kzeWlJV3NVd3lWdTFYQS1oOHM3Nk9sTk5HekZFQUpyNHVEbkZKRDhzNXUzMVc3NzhmbEE1aTkzM0F5OXkwaTBHNm9LR0VCOVU3c3Z3cmtDb3hZNFFURUJUblo2b3YxUlNvLUxNUGNWU0pQa1FuaHloWmoxNW5hRUFrd0ZPa3ZMb3FsMkZXMzdQSFBjQUdVNllBXzZEbjRmMEY4WXl3bllIRkUwZXNXcm9NRVpUcWVCRzBlY284WWlnZXI5dXFyYUtoRzBu?oc=5
-
-- World News updates: Todd Blanche narrowly confirmed as Trump’s attorney general - The Indian Express
-  The Indian Express is an online magazine published by The
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmdtY1VwcFdMbzR3UnpvelgyOV8xeFpfMTZKcUx6UnRSdWk0R0VlZXVIZExrT3kxZW4zMnVwTTRBQks5UVZoUFpTTm44M3JhNmR3dDBEN0E0YXROZGtoWHVzNnpiU0NFa3NEN2RSOUEtWVVPbE9sOUdDZkxVSTE0aS1PTXROUFYzaWlkMlFjTF84UDRZcGx5U0o2Z1BNczk1YVl4V3JmeWdLM2U3VnVWck5nYl85VEFyRHMwZdIBwwFBVV95cUxPN0xIRHBwVWY5S1J6WGF6OEh6dFNZNnlfd0dtMjNHVXA0SWNCUkU2MTVnZVNKbFlEbW9hemxlbXpnQnJobUtSV2VEbDM5RXFPVG9SaThQaDBHVTd4b3NNV1ZiOF9IaGI0Wm0xNVJOV0RKb2Z1NVRocHJ1WlVjYTJpdm1CaDRTMTctaThqRGNqMWo4Z3d3RzhSZU4zZ2prTHl0UG1GQ19DM2QtR1hQZktxTlowbjhpS3JFUExic2JiZ2FfUlk?oc=5
-
-- 'Army safeguarding territory': Arunachal CM Pema Khandu rejects Chinese encroachment - The Times of India
-  'Army safeguarding territory': Arunachal CM
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3c1dDR6cjVjQWh4WnFSZHlRZWRFcUZTUjI0MXJMbmhzS2d4ekVpY25YTTNWaG51azI2b3JCanZFTE9rUzVZRXBVZk1kX2FObEdnYmR2YmxmQ05SM3A4RGdGT29CRlR0TG42bW5yRk85eXJERXFFWUFwUVI5bkxWOG5HdDA2UDF1eFRpVjRQb3dPZnM3ekJ0a1RCUHBSNmZ1d0FJYl9tdEx6Y1lXRURPZjJnSWJqTm93T09LYjNwU2hqZlg1T0YyYVZKMktUa05JVXRKUF8yLXN4M3A2c296TjdCVdIB6AFBVV95cUxOSDdfdGdIT193UXU3b1dHQzhQZTJzOXo5Z0U3WFRITmNnY0Q5T1ZNcTdNa2Rsem5GeHFuX1RackpyZFh6M05CdVFpTTAtb3kzNS1vZjVTQmozWHVjOE5KTnhsUERyNWdTRzk4VURtZmY3WEFtLTQyUWVwWUhFMlpKTTlmZUdMZFBEbllJSkM0YUxSV1FhS2NmLWVualB2aXBINUVTaHFTcU8yNkdkSGVzSkZnYS1RZ0o4QjRLS01PMFpDVTNXNTB3QTIwWlNJeFBZVXU2aEZfNkRHNWliUGJxRXZlZXNJRTFi?oc=5
+- Ather Jumps 17% To Lead Weekly Rally In New-Age Tech Stocks, MapmyIndia Biggest Loser
+  Ather Jumps 17% To Lead Weekly Rally In New-Age Tech Stocks, MapmyIndia Biggest Loser.
+  🔗 https://inc42.com/buzz/ather-jumps-17-to-lead-weekly-rally-in-new-age-tech-stocks-mapmyindia-biggest-loser/
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +149,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-08 12:39:20 UTC_
+_Last updated: 2026-08-08 18:32:43 UTC_
