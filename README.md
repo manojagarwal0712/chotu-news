@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to be disci - The Times of India
-  Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to
-  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQNUFFZmdWR2tDeUc5cXNvQWFQLW8yNnJxWF9uanlUYUNwcndpbzM4bllJZHhlUUhSVUFwd2VNMDdRbEJKajVlYlltejlDOTVLdmVXU09aVXpld09nZGFpVmROY2gzbWMtQjAybFRLd2tGdi1UWTcxVnF3UHRhaTdGd09FcjN4bXRJa2RnOU5ET2djcHlObklqczdzOGdjVkRUSU0wWlcyZi1CRGdKVi1obHVtSjdscVItdkVhUjRIa2pIX2tiVUxhVHlNemFScGlIZDdYeFhvMDJ2V29UVUQ5dXF3Z09veXVrZFotS29KRnU5b2NyUFFWVXJyU2xiZ1dNWTV5NFhPSFV2TFAyYkdRR0wxVm1WMEFpd3RpbEtUSmhJbloxeXhpajEyWEpBU05Y0gG2AkFVX3lxTFBmZFZlUVVfd0E0bGF1eW0ybUV0c3NwUld2U002S09DZHBPbFBEZElTcXM5aFk3aktkejRRcG9DNWxLTkZDSTZtOHBtNmJoRnhqSEpPN2o0eWJoZ3hZaWFDRTVkb0g3RTlJeG9TYlBfYnNuWFNXdVpYLXFWTGx2R0dxNjV5WmdZTjEzbmotNHBGZjBzOFNiZElHcTFBeDdYeFRNVkQzUDFFeE42ZGd2NEVqVXhBLVZHVXQxTTdIN3ZseDNPZXRSZ2o5dVd6dng2bktFeFVId1BOek5vWXhSRTBQcDFvZXhyWFRJOHdrU1duYmtPbGs1dklKX054bmNqbmw5THlIbDhVdHozM18zLWhyQVQ2dGhxYW9OYTFDZGJ0emdyaXFvX3YwQ0pBX1N0MnVtdDR4aUE?oc=5
+- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
 
-- TSMC & Researchers Make Big Breakthrough In Chip Transistor Technology As Part Of Push Towards Developing Sub-1-nanometer Technologies - Wccftech
-  TSMC & Researchers Make Big Breakthrough In Chip Transistor Technology. Push Towards
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeENnZnVXeklGQ0l3MVQ0cUp4c09JZVR2RnZhdHBOY3NtbkR0WTNlRWZxV2d2SUMxYl9TekdDbG5wRXVQU2pkWlVKYWNZVWZjWlhmNzQ3YWVUdlVvWEZsTXFnaFB2VklJX2ZKc2tXVk9POXBzZXViMDJUYUxhRGZkS1pRU3lPT2J5RVBucHZnTTdSMU1aQzJiblRocktJalBjMkplSE5yN091ZXFSY3AwVmx2dlMyWDhrYnpKbEhkRWVVcUFzQUlibUhrYmtVWi1hbWxQQUJmalNvNTJUNWVFUzVSLUVYbndHMkHSAe8BQVVfeXFMUFkxNkluS0wybnl6WHdMeTFJbFBDak9UQnpFblF4a3d0aWhjUTNUV3lxbDhUZjBaZk5KbVpvM3FTWGpNLU9Lc25hTlJNbWRCZ3d0RkhHS3NDekJHeHJJVFlid3RkdkZwU0xlRzhVX3ZGTkczaE1YYks4Z21mTElQcHdiZHpqV1pJVDd2NVF0TmFnZmNabmE2MW9YUjhsdlduNVFXaWRjb0JPY21sSGtvdjBmTnZVbXJJWjdsblItcWVPYlp0Q3NzQjBmZ2tIZ1BxbnR1ZndkMHpUSWtlNlZZVVk4bjFoYU02SWFwV3E5M0k?oc=5
+- US Senate Passes Russia Sanctions Bill, 100% Tariff Threat Looms On India, China - NDTV
+  US Senate Passes Russia Sanctions Bill, 100%
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRXFKeXlBTWpaeUNNMDRxa0xaQ3pFdXdKR2dyOGlVcmJrTWtmeXZWVS1LQzFHblN0V2R2cDU5Zjc1UnpHdjBZWEVDRHQ3cEQxckNUUW5ISG9ackxOMV8zbC1hSlNzN2k4d0Q5UkpWTGUzTnJIUi04VWVwd3hCeGJZcWhmLXBua21hRTdYQjQ1bW9fNnYybVBhRjVwMi1DM3N4WHlvMk4xWnNnY3RkU3owMG10N2FNS2YzZDlhbmlyb2VkV3VuSHBrQk12TTh3VFV6d3hpU0JfeXFWQV9Dak5XM0prR0lPTTFRVWRvUWo3LXpVNlBGay0wcNIBgAJBVV95cUxNczhzdlhoZDRTdXNocXhJRTVxeVJGRU5adDZYc1pmQ0xfSHdNcGhkZGVCZHVFYmxDY2I0b1kzeWlJV3NVd3lWdTFYQS1oOHM3Nk9sTk5HekZFQUpyNHVEbkZKRDhzNXUzMVc3NzhmbEE1aTkzM0F5OXkwaTBHNm9LR0VCOVU3c3Z3cmtDb3hZNFFURUJUblo2b3YxUlNvLUxNUGNWU0pQa1FuaHloWmoxNW5hRUFrd0ZPa3ZMb3FsMkZXMzdQSFBjQUdVNllBXzZEbjRmMEY4WXl3bllIRkUwZXNXcm9NRVpUcWVCRzBlY284WWlnZXI5dXFyYUtoRzBu?oc=5
 
-- PM Modi emphasizes importance of innovation, research, emerging technologies in shaping India’s growth trajectory - News On AIR
-  PM Modi emphasizes importance of innovation, research, emerging technologies in shaping India
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT182aWl4dmtpSHJLOFZ0dkRWUEVobFlVTXJCcTlEclhFVG5reXNDTlMxT1g0VFFLdUc0NWc5c0VqYmE0TjhuQ3laVk5pVzNDYjV0SUNaLUlscy1uNVU3VDhQalBTWUlxRWhVbmxrbWNGSFlBdzNjZ19sV2xDWHFZTU90cDh1Zlp6VGYw?oc=5
+- Donald Trump shoots from Senate shoulders to punish Russia, by making India and China pay - The Times of India
+  The Times of India reported that the US President is considering sanctions against Russia.
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNank2RHFPdVZXV05sdUJYb3lKR2hETXVCa2xTaU9xWUlnQ2VuNDZSbXVZWjJMSjIzSDgycGRweEhRY1B4ak9NaU1Ca2RpenEwVzc4TmpQQWFlSENOdUw2UEd4VEx6NWE5a1ZPVmJKbGI4Wm9uYlBqX3Q3R1FSamFHZXRIQWJPOWZMQmNIUHEzd0NnT0llbE9DWnFpMUxQVEVtVlNab2p6dGUycVFKMkE3V3lHRFppYi1IVU5BRUh1RFBNaHpZQ210dEt1Z0lJTkJQOUdQZ2VmdDhpY1lNb2JZZlg4WFE0RVBsV1A5Tk9GNlDSAfYBQVVfeXFMT0RFMzg5RktjeFF0Q0RodmRiRTkyZ0dUYnd0dDdUbFh1V3l0N2VQbWVUVXVDUGdUcm5lZXlFQ0UwTS1SRm1vZF9oOWZFOUN0ZWxEaXI2VmUzZEhEdzh5ZEJVc1FDOUU3dUdCVnZXczlWRkxMNkFfZTl4ckhDSUdXOHFTMVNYcnhXNmVJbWZzWU9GN25LU1d2TklneWZPOWZBa3lGM0FQaENOVjl2NjNOc0VvemwwY3VZaG9RYXR0ZkRjZUpUMDY5aEtDekJ0Sm5ZNWVkdmdEQ3hLRnpQaDFiSXBBajFNODJPb3dYWU5sYi1GalJ6MnNB?oc=5
 
-- VIT Chennai inks MoU on technology training with Malaysian state-owned firm - The Hindu
-  VIT Chennai inks MoU on technology training
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQalpxMjBqV0E2TW1DTHBxbDlwZGd0Ml9ldkRzOG9jc0Y1VXBxYVp4NmNRWFMxVl9WZTlQX2Y3bVpHcllycktMZ1ZDUHgtbWQ1b2NmQnI3ZVB1dFNXYXpNYVBfY1FkYjRycHRuTXR1VVA5ZGlsTTlrQVVMNXZTbTFNOVNfZU9KTV9lWEZBMW9hc1diZ0N0cHFkbkFPRlp1bHdyeU5PQWN0SUU4YjJjck8zZnNqZ0V1OTRvQXNfU3NUWHBadFY5czhwWndrcGtYNzJnWUpyWlUwQ0VCbzNTN1HSAeQBQVVfeXFMTmNoY1dCNUpmU1FSQXFJQ2xpcUZYVUMxYU5QMHBZYmd3SHd0M1Jid2U2SUlPVXZQWVRjWmNCdnlMNThNRXlXVjZwNlNmamdPaG5EcUk3aG1HbmpQWmxFMGFMTE1NZ1pSTWgtWFdDb0VVYUdPVHFtX0JCNExTeHZFWUxHMjBHd010VE52QWpmX0FYNWl6Z0dvY2VOUE0xWlNrb3h6TmJBME4tSnE1R2xRV084UHFxOUpzRFR4Vlg3Y09hRGlkMGxrdl9kdndvUEJ0b3U4ZkUtUjFlbFBzWS1CMEx2VDQy?oc=5
+- U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others - The Hindu
+  The Hindu has published an article on the U.S. sanctions
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5
 
-- A Chatbot-Free Childhood Will Be a Status Symbol - theatlantic.com
-  A Chatbot-Free Childhood
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWc1VDhLZDlKUGxGb1dEbnhvd2lmVXJWNlVVeWF5UEd5X0pveFRaaWtSbkpubVdEQVF6OFc0NS1XbHFXSnVhUTk0UFhpN2ZzeUQxWmJhN2FMUVI1eXFTbzNHSTMySTVCN0VLQXp6Qi1jUWJuSW5ybXhoaWJxMmY0M1FRWDFvOU5lZHNr?oc=5
+- EPFO, officers' body contest claims about new IT system - The Times of India
+  EPFO, officers' body contest claims about new
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWtzb05HT19sU3JkczJCQmlOUk5zRlBsX1VtdnQtaXVhNlJ2TEFadFlFNU1jOFhzSlh1R3dqZXpwc01LOHJBVnN2aDB1MUtFY2ZGaTB6MTdWWnVVUHdYVTV1aHZ2dkVvVkxjcFV0X1JnbVNubVhJWF8zd1VGbGw3SWs1MjY3V0NSWXdZbVhzSDg1X1dhcXA5TjRHV3BLeXp4TWE4VXQ1bHdNemFzUWs2MmxNemZ2R1pJRlV3UV9n0gHDAUFVX3lxTFBjZm43OGF1d0RIQVN3NFI4bHJfc0hIajdKUlVDTk5UbFBERWxHLTJNQVNyTUtSWWdRR0VRN1o1Zm1aYjREaHdzaDhydEhVclJMV1g5c2o3LTYxREVUY2V5X0xRbk45MEk1RkxkUTNMbVZPMlZiamJJU0VfZkMxZUpQdlF2ZmpWX2ViS0NmcE9sVEt1QkpBalFkeGNKd2JnQTZ6TzVTUnlxSnhUZmhUMlVYVUhNZlhtR01USmR5Tlo1Vngxaw?oc=5
+
+- L&amp;T Innovation Fund to step up deeptech bets in India
+  Investor appetite for Indian deeptech has strengthened amid government efforts to promote indigenous technologies.
+  🔗 https://www.livemint.com/companies/news/lt-innovation-fund-india-deeptech-startups-global-funds-11786096568665.html
+
+- Puerto Rico Watchdog May Halt Power Deal Over Irregularities
+  Puerto Rico’s federally appointed financial regulator said it may revoke a 400-megawatt emergency power contract valued at as much as $5.9 billion
+  🔗 https://www.livemint.com/companies/puerto-rico-watchdog-may-halt-power-deal-over-irregularities-11786231300943.html
 
 - Berkshire Hathaways new CEO Greg Abel spends a chunk of the companys massive cashpile
   Berkshire Hathaway's new CEO Greg
@@ -32,13 +40,9 @@
   Diageo misleadingly claimed one of its top-selling whiskies was “matured in American oak casks�
   🔗 https://www.livemint.com/companies/news/india-warned-diageo-that-its-whiskys-matured-in-american-oak-casks-claim-was-misleading-11786186686336.html
 
-- Binance vs Redotpay lawsuit: Alleged fraud, customer diversion to rival product, claim over $470 million loss—10 points
-  Binance affiliates have accused RedotPay of fraud, claiming $472.8 million in losses. They allege that founders of the
-  🔗 https://www.livemint.com/companies/news/binance-vs-redotpay-lawsuit-alleged-fraudulent-scheme-customer-diversion-rival-product-claims-472-million-loss-10-points-11786179118334.html
-
-- Trump administration to invest $3 billion into minerals projects to boost US defense supply chains
-  Trump administration to invest $3 billion into minerals projects
-  🔗 https://www.livemint.com/companies/trump-administration-to-invest-3-billion-into-minerals-projects-to-boost-us-defense-supply-chains-11786138625673.html
+- Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out
+  The most extreme phase of South Korea’s stock-market turmoil may be over. A historic selloff flushed out leveraged positions
+  🔗 https://www.livemint.com/market/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out-11786234691643.html
 
 - A volatile week for tech revealed new stock narratives—and 1 bargain
   For most tech earnings, good wasn't good enough. But it's still possible
@@ -55,10 +59,6 @@
 - IPO GMPs: Dhoot Transmission, Molbio Diagnostics, Shiprocket, Behari Lal Engg to Milky Mist — What grey market signals
   These five mainboard upcoming IPOs are going to
   🔗 https://www.livemint.com/market/ipo/ipo-gmps-dhoot-transmission-molbio-diagnostics-shiprocket-behari-lal-engg-to-milky-mist-what-grey-market-signals-11786174589659.html
-
-- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11786168790531.html
 
 - OpenAI's new gadget leak reveals as ChatGPT creator vies to disrupt market –$400 price, shape, other key specs: Report
   OpenAI is set to launch a new gadget and enter a market dominated by Amazon and Google. Designed in collaboration with Jony Ive's LoveFrom, the device is
@@ -100,6 +100,26 @@
    AGS Health, operating under Blackstone, has filed revised draft documents for its upcoming IPO in India. This offering features a new share release, as Blackstone aims to divest shares worth 30 billion rupees.
   🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/blackstones-ags-health-files-updated-draft-papers-for-500-million-india-ipo/articleshow/133050913.cms
 
+- BrahMos Gets The Glory, But India's Next Defence Export Bet May Surprise You - NDTV
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNbS1XY0U5MGRXSnlORlhqMmFvRkNaY2dxRUZ0Q1NkSVU2OUJBTHRDREEtUV8tdnlRTnZWVWNmUjl2dDd4SlJ5cVhqbjZRQmk5U2lKODVaakxfZmRnaWJaR3psbkNhMnQ1UWRzS2ZfRlkwUmt3c0EyNjdhWENBV2kxeDVzWFJqSWJBQnlOSDVBR2NPSHBCZUZPRTR5VkNzWkV1UmJBaTFNNTBxRTYxYUpJOElfWU8zcDh4a0HSAcIBQVVfeXFMT2x2a1R5RmdHRjliUFJRQnJhUDM5LVl4RlkzV1ZTa3NvclZ0QWF1cXAzWmxHQ1VaRkJUekZiSzZiLXgycmFsRllMV0piQ0pEc0MxSTdiSEdwZzhnTll3WjByNzVmYV92VHJUWHVWWFFBbHdHVzJkU1N5TjdRR012UVdranFzQWZOMVIzekJHa0JicTlyemV3UjBsbERmb3F2WlF6al92VkhxbUNuXzJCVzdhVmVReml5MXdQZnU1dkdkQ2c?oc=5
+
+- US Senate Passes Russia Sanctions Bill, 100% Tariff Threat Looms On India, China - NDTV
+  US Senate Passes Russia Sanctions Bill, 100%
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRXFKeXlBTWpaeUNNMDRxa0xaQ3pFdXdKR2dyOGlVcmJrTWtmeXZWVS1LQzFHblN0V2R2cDU5Zjc1UnpHdjBZWEVDRHQ3cEQxckNUUW5ISG9ackxOMV8zbC1hSlNzN2k4d0Q5UkpWTGUzTnJIUi04VWVwd3hCeGJZcWhmLXBua21hRTdYQjQ1bW9fNnYybVBhRjVwMi1DM3N4WHlvMk4xWnNnY3RkU3owMG10N2FNS2YzZDlhbmlyb2VkV3VuSHBrQk12TTh3VFV6d3hpU0JfeXFWQV9Dak5XM0prR0lPTTFRVWRvUWo3LXpVNlBGay0wcNIBgAJBVV95cUxNczhzdlhoZDRTdXNocXhJRTVxeVJGRU5adDZYc1pmQ0xfSHdNcGhkZGVCZHVFYmxDY2I0b1kzeWlJV3NVd3lWdTFYQS1oOHM3Nk9sTk5HekZFQUpyNHVEbkZKRDhzNXUzMVc3NzhmbEE1aTkzM0F5OXkwaTBHNm9LR0VCOVU3c3Z3cmtDb3hZNFFURUJUblo2b3YxUlNvLUxNUGNWU0pQa1FuaHloWmoxNW5hRUFrd0ZPa3ZMb3FsMkZXMzdQSFBjQUdVNllBXzZEbjRmMEY4WXl3bllIRkUwZXNXcm9NRVpUcWVCRzBlY284WWlnZXI5dXFyYUtoRzBu?oc=5
+
+- Donald Trump shoots from Senate shoulders to punish Russia, by making India and China pay - The Times of India
+  The Times of India reported that the US President is considering sanctions against Russia.
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNank2RHFPdVZXV05sdUJYb3lKR2hETXVCa2xTaU9xWUlnQ2VuNDZSbXVZWjJMSjIzSDgycGRweEhRY1B4ak9NaU1Ca2RpenEwVzc4TmpQQWFlSENOdUw2UEd4VEx6NWE5a1ZPVmJKbGI4Wm9uYlBqX3Q3R1FSamFHZXRIQWJPOWZMQmNIUHEzd0NnT0llbE9DWnFpMUxQVEVtVlNab2p6dGUycVFKMkE3V3lHRFppYi1IVU5BRUh1RFBNaHpZQ210dEt1Z0lJTkJQOUdQZ2VmdDhpY1lNb2JZZlg4WFE0RVBsV1A5Tk9GNlDSAfYBQVVfeXFMT0RFMzg5RktjeFF0Q0RodmRiRTkyZ0dUYnd0dDdUbFh1V3l0N2VQbWVUVXVDUGdUcm5lZXlFQ0UwTS1SRm1vZF9oOWZFOUN0ZWxEaXI2VmUzZEhEdzh5ZEJVc1FDOUU3dUdCVnZXczlWRkxMNkFfZTl4ckhDSUdXOHFTMVNYcnhXNmVJbWZzWU9GN25LU1d2TklneWZPOWZBa3lGM0FQaENOVjl2NjNOc0VvemwwY3VZaG9RYXR0ZkRjZUpUMDY5aEtDekJ0Sm5ZNWVkdmdEQ3hLRnpQaDFiSXBBajFNODJPb3dYWU5sYi1GalJ6MnNB?oc=5
+
+- U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others - The Hindu
+  The Hindu has published an article on the U.S. sanctions
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5
+
+- EPFO, officers' body contest claims about new IT system - The Times of India
+  EPFO, officers' body contest claims about new
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWtzb05HT19sU3JkczJCQmlOUk5zRlBsX1VtdnQtaXVhNlJ2TEFadFlFNU1jOFhzSlh1R3dqZXpwc01LOHJBVnN2aDB1MUtFY2ZGaTB6MTdWWnVVUHdYVTV1aHZ2dkVvVkxjcFV0X1JnbVNubVhJWF8zd1VGbGw3SWs1MjY3V0NSWXdZbVhzSDg1X1dhcXA5TjRHV3BLeXp4TWE4VXQ1bHdNemFzUWs2MmxNemZ2R1pJRlV3UV9n0gHDAUFVX3lxTFBjZm43OGF1d0RIQVN3NFI4bHJfc0hIajdKUlVDTk5UbFBERWxHLTJNQVNyTUtSWWdRR0VRN1o1Zm1aYjREaHdzaDhydEhVclJMV1g5c2o3LTYxREVUY2V5X0xRbk45MEk1RkxkUTNMbVZPMlZiamJJU0VfZkMxZUpQdlF2ZmpWX2ViS0NmcE9sVEt1QkpBalFkeGNKd2JnQTZ6TzVTUnlxSnhUZmhUMlVYVUhNZlhtR01USmR5Tlo1Vngxaw?oc=5
+
 - [Update] Now, Finance Ministry Rules Out Consumer UPI Charges Amid MDR Debate
   The finance ministry categorically clarified concerns over merchant discount rates (MDR) on UPI.
   🔗 https://inc42.com/buzz/payments-council-rules-out-consumer-mdr-phonepe-razorpay-back-free-upi/
@@ -120,33 +140,5 @@
   Ather Jumps 17% To Lead Weekly Rally In New-Age Tech Stocks, MapmyIndia Biggest Loser.
   🔗 https://inc42.com/buzz/ather-jumps-17-to-lead-weekly-rally-in-new-age-tech-stocks-mapmyindia-biggest-loser/
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2026-08-08 18:32:43 UTC_
+_Last updated: 2026-08-09 01:17:49 UTC_
