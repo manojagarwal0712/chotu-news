@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- Canada Deports Over 3,000 Indian Nationals In First Half Of 2026: Report - NDTV
-  Canada Deports Over 3,000 Indian Nationals In
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNM01pZGhHWG52RjlWUXNaZTZGdXN3ODQtOHA5OS0xb0JjTE9kVG9JWk1qVlpPQlJlVFNzaGxGUkxxWlNERzM3aF9zVzZwTGY4UHFTT01TVWNERlY1djMxR1ZtaDdSYWx2cEsxRDQ5dFdtclRLdWktQ1ZCTDNFbEpORjNVZzJJSk1wTGxORGZrSDlOTjFMZlRuMFZHdjhWZjFRbXZZZUlvcVpxSmhpb0ZzdmNB0gG6AUFVX3lxTE5WRDVtT2JERlYtbTZHTXpCaGtCSFpRMnRyN2pRckRpNlNmMFhnN3BmdDgwMWNkMk9aSWJKdUxpWXFjcHF3Y1FyMm93S0NaU0k5VXF6NEVLNDR1cmlwWTVKcG1VQmV4OHNQbkhuX3Y4VEJDcXdJSmZvVGJzUHRiM2JZSXRGNVhKVWQwTHFPMi1MR21vdnZIb0pMUXhCb1RHdmxyd2hlalFIdjFYbUd5eS1qQjAxZ3FnYUtKQQ?oc=5
+- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
+  Maharashtra's Ladki Bahin: Why India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
 
-- The making of Auqib Nabi: Kashmir's hardships to India's Test cricket squad - BBC
-  The making of Auqib Nabi: Kashmir
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSzY2OFVES0EyUFF6MDIxQzllXzY1c1I1dlkwV1FwMDNkWDNENERKMTc2cWVIQkJkWnhNMTVvS29FaTc0SDJjNEV4UU5pY19Udk0zWmVKVzZlZw?oc=5
+- China’s media slams India’s move of formally naming 27 places in Arunachal Pradesh - The Hindu
+  China’s media slams India's move of formally naming
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVlOMUkyWlYxZHpsSlJTSHY4eTZrVWFRckpOdFFGMmlRQmVEa01GX2NfMzhLRTRPX0hoci1KSFhobUFRczg0bXFmT2NibW1QTHgya0VqeFh2Zm9Eb1E1bVpma0pmVS1mWl94RWE0LXhFelJnTXhOckxsV1M4WmlZclJLWVZBU2pGTnQwZndxRlVyT0hDRXcteGlRZGxOTlFMeU1iUXlHbWIzeDRzVjlPckp5WjZmemhXSjJSLWZvY0xnVVdheDgxLUYyR2pOWnhYN0840gHaAUFVX3lxTE8yejFlSk51MDVTclNlR0o3ZE00SndkLTlWWU1Gemx2TmtFZlJ4c2RHWDQ1X01LckFpamZmMzFLd1V0SVJFXy0wYU00Z2JDUnhCZEhuNUJzaVdUOEtacHhWY0lZZnBXZnRzUlJUSTFYUUZQQ19aOEhIdFhmNkFiSFZzem5RcS0ya2dLTHNFZnV6QVpVRHRqcUoyZWU5a1NScjNzaXBLWEhDbGE5R3ZtaXlwM09ackVQbWxuOFNKU180aVZpRmxyWmRtbDBiVDNBaXV3U05ER0JTNWdR?oc=5
 
-- Census 2027: Ladakh to lead Independent India’s first caste enumeration - The Hindu
-  Census 2027: Ladakh to lead
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXVpUEVmdTFxUDFpYnZRSzdCWGJJMHJOX2otem9PRl9jTDRucDlPNEVRLXV0UkVZQWpONFhUbUxjUGtqQ0k4YzZ6RGVhbk1tbDh5ZkRRMHRRYzVEN0pvaDlJdEVLTTVpVEFCZXdNUjdUaGd3ZmlSVkRBOUdzT2NIZ0JSQ3VMVzR3YW5aTWxIcVlhZEF4bU9JMzlKU0JXd0tNWncwajc1VXBTekJLbUt4V3hPMDdEQkRyREUzZ3lBY3diWXV1QnhFQjRIWdIB0gFBVV95cUxPTjVIZWFTVHRpUnNDTWtXcGExMWVuS2h0WUhzeHc2WlBnVWt4TXBkaG1NLWhlb2R0a0czU1RBM2lnbTZXZkp2ckdQT1BjNW1yVXdFV254WmdEOWw0WjhYQ3JqWU16ejdaZzVsbDRJTTRHZWxCRF9tM3RGcnhXZ2d1TXlLaUhtalpvTUdiQ2gxTXYxT0pmRGZWdEZUUW1ORmY3cFJLdktmZkFIOEdnYWIzNG01OUtKLXp5aThBeGtubjF1eUd4UExKNXQ1Z3hYWk9wWlE?oc=5
+- Indian Envoy Meets Bangladesh PM Amid Row Over Sheikh Hasina Press Event - ndtv.com
+  Indian Envoy Meets Bangladesh PM Amid Row Over
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDR6Z0xPYkk0MzdYejNUWFVHXzMyRUY2Y1k2cHhhZ3VzVWNvRXBaLXQ0dEZFaEF2b18wMlEzQWc2bjRhblJ2UUs3Yktnb053VUFmV3lFaHAwRUo5d0VWYkNBMFV5VjNEUnNXZF9VMTA5eDIwMjVrSjlOLVN0V3RUNnZyNWM0Zk9ES0o1cXc4SEFobFdrTUZCV0dNV2h5M0VHRnU0OG1kbFV0NHg5S0pISDdJTdIBuwFBVV95cUxQZzZYejZRZEpkd1p5am04T3VSdnpPYWxlZ3RyMV9Ed2hrVkpLeTJRa1lnc3RmVFJVRnZLQy0tTF8yVTFBWldHeUJPcjZyY3Y2dXl6SGVOUE9EZENvZlh5ZHRzWVB2dWt0cHFvd3Z5bTBQVmlPZmQ5UmFXRVN0bjFrQVpubHRmb0Z0ZmhPYmVKeGdLVndsSlZ2ZTVJOENBWk1SQ0VqSTJRTWdaWWFhNlZtbVBPZXh4OWgzUFNn?oc=5
 
-- Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits - theguardian.com
-  Parents of Indian students who took their own lives reveal pressure of leaked exam papers and res
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQaG5GVlBtaDBXOHhXNy1kZVR0bDlTZWl1ajYwVXNNQWd4TVhKM0lLbTlHbTRYd2hOazRoWTdjNWNjUjIwMkozYWNwdVNISk5Gb0htUGFHT1U2VUdrSlVuX2drTS12S05NVlA3VUh1UTgwSlZTVm1yS0FBeV9NLVg2WEFKamF5ZGo2NTFtWk42U0pPOVBoUUlVTzhVZ19aN0lqQ08wdlE2aDZfN015V2ZfWVc0MUY5M05SRlE4eThuX2oxd0ktcmswbDJMSEhrUUtaaUNtRDFxVC1XdUZRSUN2OE1icVBLa1Rxa3pBZVF5T1hYX2N5dXJmT3Vhb3prRE1HLUp5bG9QcVdEZw?oc=5
+- Jharkhand: Protest in India state intensifies over alleged corruption in job exams - BBC
+  Jharkhand: Protest in India state intens
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM0JYQ2ktVXJOZlVTLThhMjhBTmk4UmtxZDBHa2J6TTFnYXMzN05tODkzei1FLVRnLU9XWFNKSEhoR0ozZ3VJVHJSOTNSSzB6ckJJamFhZW8zdw?oc=5
 
-- Har Ghar Tiranga campaign begins with multiple events across country - News On AIR
-  Har Ghar Tiranga campaign begins with multiple events
-  🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFBidGVDUUxjQjhDMzFmRDZjZTRfUzBYX0U2UVBGdmg0TTVyZ1A4VGZYVGRhOHZIcnZfdkE3aHBqQjlqNE0tY05IZnQ1UXlIODZUN201ZkhBQkJMdllLUEh6U2FzWTJBVGREOXo3MC1EVDZPQQ?oc=5
+- 19 days in jail, 'stole' police chair and deportation: Japanese student’s Bengaluru story - The Times of India
+  The Times of India reported the incident in Bengaluru, India.
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ2FsUTB4UXFhNjNoZGFjLTFWTk9Hcy1yc3Q5aXZMNVVNaGhlRGdmUlNqNFNRTnlJMkFCSy05TXhTaW44OUhxWmx1Skx0T2tBZnBLRGJpWUtSQkZVRENoNVh1VUVyMUZnNjNwYTdFNUd5aGtZclZNbDZKN3dhc2FXZDFPd0NLQWRVT24yWkxKWWhHRVZIR05JS0lSTm9jR2o0d0lISnMxcDVFVmxOaHhtZ3NidjBubUlvSmdjQzF6bHlHRTl6U25sZXBHNUNURGZtSXpjWmg5QnZMZnZERWtsZ2YxYkpYXzdBZUlIeDVFbE83c0VhdzZobm1OOG9URXBQc0czU2cyTVp5c2UwWEhVWNIBlgJBVV95cUxPcGROZVVNWGZsTFpqWlhxemxJZ05QRGVINWFmdlZWMXR6aHZleFJGUUlWbk1Kdktsa0dpREVxazhsSlVPWXdrU01ZZmxmMWJyRzE0Z0hScmRLRElLVW83UGlLUElxVldLNU1yUFlCUVk3UWxpOE1HYzN2d1NPeFlRVHFGZ09Ya0FVc1NnMVpiZ1BGWVpwSmtnbjA3aTlLcHdOQ3BFTTdkaFVQclBlUnFHSFhGaUFCdXdJWjJsSGJxOUx4MUhrdXJ0QWw4VzhIVFdyZjZWMHM5c0hFTWhuOVM4b1RlZ2pxYnh2Q1R1ak5vMHlLeFVlQzBIb0tWdFZSVmZZX2VkcHAwdGl4VzQwNGFvcWZJNUMwUQ?oc=5
 
-- Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to be disciplined in how we spend - The Times of India
-  Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to be disciplined in how
-  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQNUFFZmdWR2tDeUc5cXNvQWFQLW8yNnJxWF9uanlUYUNwcndpbzM4bllJZHhlUUhSVUFwd2VNMDdRbEJKajVlYlltejlDOTVLdmVXU09aVXpld09nZGFpVmROY2gzbWMtQjAybFRLd2tGdi1UWTcxVnF3UHRhaTdGd09FcjN4bXRJa2RnOU5ET2djcHlObklqczdzOGdjVkRUSU0wWlcyZi1CRGdKVi1obHVtSjdscVItdkVhUjRIa2pIX2tiVUxhVHlNemFScGlIZDdYeFhvMDJ2V29UVUQ5dXF3Z09veXVrZFotS29KRnU5b2NyUFFWVXJyU2xiZ1dNWTV5NFhPSFV2TFAyYkdRR0wxVm1WMEFpd3RpbEtUSmhJbloxeXhpajEyWEpBU05Y?oc=5
+- Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to be disci - The Times of India
+  Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQNUFFZmdWR2tDeUc5cXNvQWFQLW8yNnJxWF9uanlUYUNwcndpbzM4bllJZHhlUUhSVUFwd2VNMDdRbEJKajVlYlltejlDOTVLdmVXU09aVXpld09nZGFpVmROY2gzbWMtQjAybFRLd2tGdi1UWTcxVnF3UHRhaTdGd09FcjN4bXRJa2RnOU5ET2djcHlObklqczdzOGdjVkRUSU0wWlcyZi1CRGdKVi1obHVtSjdscVItdkVhUjRIa2pIX2tiVUxhVHlNemFScGlIZDdYeFhvMDJ2V29UVUQ5dXF3Z09veXVrZFotS29KRnU5b2NyUFFWVXJyU2xiZ1dNWTV5NFhPSFV2TFAyYkdRR0wxVm1WMEFpd3RpbEtUSmhJbloxeXhpajEyWEpBU05Y0gG2AkFVX3lxTFBmZFZlUVVfd0E0bGF1eW0ybUV0c3NwUld2U002S09DZHBPbFBEZElTcXM5aFk3aktkejRRcG9DNWxLTkZDSTZtOHBtNmJoRnhqSEpPN2o0eWJoZ3hZaWFDRTVkb0g3RTlJeG9TYlBfYnNuWFNXdVpYLXFWTGx2R0dxNjV5WmdZTjEzbmotNHBGZjBzOFNiZElHcTFBeDdYeFRNVkQzUDFFeE42ZGd2NEVqVXhBLVZHVXQxTTdIN3ZseDNPZXRSZ2o5dVd6dng2bktFeFVId1BOek5vWXhSRTBQcDFvZXhyWFRJOHdrU1duYmtPbGs1dklKX054bmNqbmw5THlIbDhVdHozM18zLWhyQVQ2dGhxYW9OYTFDZGJ0emdyaXFvX3YwQ0pBX1N0MnVtdDR4aUE?oc=5
 
-- Chartered accountants urged to embrace AI, quantum technology to realise Viksit Bharat goals - The Hindu
-  Chartered accountants urged to embrace AI, quantum technology to
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV1JLeE9XTHRuTWxwVlZYSXlJYTNNOFE1VGlvVlhtTFdzalFKNjFQd0c5UktOMkVsdFVULUQ2VWRfNFRTZUJkeTVSVldVcDRxMWNRcjBIREhxUm82OVM4cFZBZk1paWpBZzlENThOdTBrbTNLZ2xtaUpmVnZWMlF3cFBUMkRtR00zVEtRaWN1NmNhQ0UtRHNRN2MwWkZxQUlNaU84ZVZLcGFRU3c2MF9BaF9OQ0xJa1VfRGFfckl0VE9hbmpCeTYwcmMwaXZLNDJSNGVDN3NkWHdCMlR1VU5LU2NtMW00VmJHaEFwSWVXRDZVbEh2X09OUdIB_wFBVV95cUxQOGpOZUhLNU9kalBxM2Yxb0t3RDZsSzFsSjNPbTlwU0t5Qm5tUUFWYndqTWVGY2tXWWM5bmdFS1VUVlJLS0wxMGtaT2JmLU54cHRORXpIMVR2UjRrWlNvTWhBYnZkdG1GOV9KcWZYbEhEeE02SGhjUkdjZUQ3eW12eEFtbjZfSTJBVDVMdk5QMmxlRTV2U0FMenRrTGd0Y19JZDFiX1R2eEJIdlpTVFhBaW5QVHVERDN6M1JwLUtEdnNqbm11OEU5a3FEWG5LMFdxc0lWVW43bGNSZUpWcmdEWW5Ud1diS0xVODhTMWNHLVBDTDRaUzBIQ0VmMGFaXzg?oc=5
+- Technology sector adds jobs as employer demand for tech talent remains strong, CompTIA finds - PR Newswire
+  Technology sector adds jobs as employer demand for tech talent remains strong,
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQlppZEJUSE9aRENBUUYtd2RPbHVZMXVsNktoM3BWNTJ6Vmh5S2pmak1NSWFfV3hZUWs2M3BORUhVX1NSbE9Ea3M0WEFvdnVXU0hwYUM0bWFzMEhINkY2M3BsblNvLWd4TUxQU1VxY3RqNEo1YnVDcXMxVXJtS3pkaVN6QXJzRlhGVG50cWRRTDNWUFA2dDg5Y19QZVFSZUlLVlg1aU9tek1maHJNZGRVTUVPZkhlV1dsUkFnaTJTVmVBZmZ2aTh6VnNNeC12M3l3U0ozby1mbzUtWmx5UUJxVw?oc=5
 
-- India to be an essential player in the next industrial revolution which will be biotechnology and AI driven: Dr Jitendra Singh - PIB
-  India to be an essential player in the next industrial revolution which will be biotechnology and AI driven
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5QR2hpaFpmSDZseHdDQVd1MjFMUlkyLWIyZjZOc2lGQnIyU3dzV3padVJlYXZFRzNhaU5CYTF0R3lqNWlJdGVPbDZFSGwtLVpGeE9tbFNJbHlHWU1QS1pUb3ZkT2pNaXZQVElpbmNHS1BNc0I5bjUxVzMwUQ?oc=5
+- UK announces nearly £130 million funding for zero-emission vehicle technology - Reuters
+  UK announces nearly £130 million funding for
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaW1xcXdvQ1hnWmlvT29seTF0bEk3bnpmVWJ0V2JVTmJCNW51Rl95YndDcFdQWnY2UjJWenNycGV0NUZzck40MHhaUEhXa0R0cUplOTc0eGxhOUJPZERURzZ5Q3JYc0MyaXdOWHgwR2hZSnE5M1JGN3ZQNnNxREVuSzFoWENmUEc0T2t1Wlo4NUlnR0dyblZtVDFqMUhCNEJxSzZRUHNtdjc4ZjFiRmt0NW1Wakx6NlJm?oc=5
 
-- Aligning Bengaluru policing with technology crucial - The New Indian Express
-  Aligning Bengaluru policing with technology
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEdtSmhkMEhha2dPYzJLSEc3emJZU3ZfN2phbHFPdVkzeEhueTRDbFc3eFNSM1RtM3lFU1hhbVlnemNWRk9NNWdrVkVSUUtvUWFvYWJJRzZrQmtVU3NQeHdEQVNsNU9RcUpVWmkzTkFtZUFkVnhTd2VrcHJmcU5PNWFpY0JPX09va2lRLWZZQVRqU1dQeC1GTGZnMmYwNDN4cXJmM0pPdUc5Z9IBtwFBVV95cUxOck5tTEhMRldWYldNdlRZYU9yMzhMV0hPY2p6Q2M1UVhjMG1wUUVIeE5ucTYtX3E5QXgwRGg4OWRISERiR1B0R1c2NS1KWUpwWkUyNjRsMnJIY1RJT1NwanNkMDZMaUhyckk0NDRUN2JwdW5nZlI2TXNndWZjTDlEMGtOc2RVOUJ6dW9xdUxBWDdZVlBRQm5JU2o4cUJqTjhLRGdGU0tldjdWRFV6OXBXVnQ0QVdBY1E?oc=5
+- Graduates advised not to depend only on technology - The Hindu
+  Graduates advised not to depend only
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxORFlIQlJkaFBUYzdBUUFVd1ppcXdNc05kWHF3QlBXS0x6S1lZRVRBMXVvajVvOGhYdXp1RW9sWVVOZmh2MlRIQi10SEVfa3dvQkJTQTNyNHZDVzN4UW1GNkFaM0F2VkpfX3lGUjRjcmMta0Q4V0l0X1M3ZTRhVDA1YnZGdm9GbnZ6T0tPQ0wwd1QyS1NsaGFnUE9nV29mVDdlOTVnYUNiakNLSUgySlhKR3lDQmpmd9IBvAFBVV95cUxOSGh1R1FyLWdtM0F1Wlo0b1poNHR4ZExVdzNiaTdndi1OMUxVRVJEX2hzVFotV2dZYWxlbE5CN2d0YjItMWdfSC1uR01JUzI4akFpczdZZGVPR285WXdYWGF5c3Jjclh2Tm9lVzZhM1VydGF6N01mNlo1SzRnQmhIYWV6Z0hzOGs3b2pnazY0WG15WUM3T1dtencyejFlLW1DWTJVSDNvcTVfbUNrMXozOFktb3UySmFCY1RxTA?oc=5
 
-- Amit Shah Urges Urban Cooperative Banks to Embrace Technology, Transparency - Daily Pioneer
-  Amit Shah Urges Urban Cooperative Banks to
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVXE4OXRHd3BzcFFVOTJUZWd3bTVYNk9wLUJURXNIQkw0dXE3aUhnSmRWQ0VSZThJU1ZpUnZxeEd5ZFFheGc5M21UaUZSUndORExCZUFtZExJUmhsNkJmdkQ0WlNINHRLT1pQdElDbkZLbEVra1h2ZTM5ODYybTg5SWJDaFFMV1d5c3FaVkJjdEVpUm0zeXBqNnpsUG5GOUIwY05WdmQ5bUhUQ1FvOVpV?oc=5
+- Tech leaders say AI means less work - their staff say they work up to 90 hours a week - BBC
+  Tech leaders say AI means less work - their staff say they work up to 90 hours
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aEVENWFmMDlmdlhpWmc5LVZRRmtuREs0UHZRZVZCRVZ0bWRMSWdNQlNtUGVId0k2cmJxTVpBelNyWmRmc2ktVnk1RVNIZ3hzeUhlZlZrVWR1UQ?oc=5
+
+- El Niño impact on rural borrowers easing as rains improve, says Muthoot Microfin
+  The improving rural environment allows Muthoot Microfin to accelerate
+  🔗 https://www.livemint.com/companies/news/muthoot-microfin-rural-cash-flows-recover-aum-growth-guidance-el-nino-impact-11786335881008.html
+
+- ADNOC Gas profit slumps 52% but beats companys guidance
+  ADNOC Gas profit
+  🔗 https://www.livemint.com/companies/adnoc-gas-profit-slumps-52-but-beats-companys-guidance-11786340853361.html
 
 - India’s startups look to UK as trade deal opens new opportunities
   The India-UK FTA is making the UK more attractive for Indian startups. tariff cuts benefiting goods businesses and easier
@@ -52,173 +60,165 @@
   Ola Electric’s auditor has raised a red flag over its June quarter results. The firm reversed a  ₹57-crore provision for penalties under the government's battery cell PLI
   🔗 https://www.livemint.com/companies/news/ola-electric-earnings-auditor-kpmg-battery-pli-penalty-reversal-mhi-11786256685594.html
 
-- Exxon Links New $80 Billion Kazakh Oil Venture to Feud End
-  ExxonMobil Holdings Corp. has told Kazakhstan that a potential $80 billion joint investment to expand the Kashagan oil field is contingent on resolving a long-running $150 billion dispute
-  🔗 https://www.livemint.com/companies/exxon-links-new-80-billion-kazakh-oil-venture-to-feud-end-11786312972181.html
+- Asia stocks firm; oil edges up on Gulf morass - Reuters
+  Asia stocks firm; oil edges up
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5
 
-- Alta Capital-backed Logicap buys Xander's warehousing assets for  ₹1500 crore
-  Four-year-old Logicap has scaled rapidly through ground-up developments and targeted buyouts in retail and manufacturing
-  🔗 https://www.livemint.com/companies/news/alta-capital-backed-logicap-buys-xanders-warehousing-assets-for-1500-crore-11786246280099.html
-
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 10 August 2026
-  Sumeet Bagadia recommends five breakout stocks to buy today. Physicswallah, Grasim
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-10-august-2026-11786322498288.html
-
-- Stock recommendations for 10 August from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 10 August. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-10-august-marketsmith-india-waterways-leisure-tourism-hindalco-industries-nifty-sensex-11786191373714.html
-
-- Raja Venkatraman recommends three stocks for 10 August
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-three-stocks-10-august-grasim-industries-ltm-granules-india-nifty-sensex-11786192134319.html
-
-- Thin volumes at closing auction debut hit F&amp;O
-   thin volumes during the new closing auction session of derivatives stocks keeps
-  🔗 https://www.livemint.com/market/thin-volumes-sebi-closing-auction-f-o-equity-derivatives-fpi-investors-nifty-traders-nse-11786263481670.html
-
-- Britannia could be in for a treat as key concerns ease
-   Britannia’s dual-pricing overhang has eased, helping volumes and market share recover.
-  🔗 https://www.livemint.com/market/mark-to-market/britannia-industries-q1-results-dual-pricing-volume-growth-fmcg-11786263851791.html
-
-- The curious case of the old iPhone that refuses to get cheaper
-  The unusual price behaviour reflects a combination of rising prices of new smartphones, strong demand for Apple devices, and a growing
-  🔗 https://www.livemint.com/technology/the-curious-case-of-the-old-iphone-that-refuses-to-get-cheaper-11786262436504.html
-
-- iPhone price hike coming next week? Apple may raise prices from tomorrow: Report
-  Apple is reportedly planning to raise iPhone prices starting from August 10. A tipster claims the production capacity for current models
-  🔗 https://www.livemint.com/technology/tech-news/iphone-price-hike-coming-next-week-apple-may-raise-prices-from-tomorrow-report-11786252720970.html
-
-- iPhone Ultra launch tipped for September, key specs revealed by Caviar
-  Caviar has claimed that the foldable iPhone could debut on September 9. It could feature dual OLED displays, a new hinge system, and a titanium body.
-  🔗 https://www.livemint.com/technology/gadgets/iphone-ultra-launch-tipped-for-september-key-specs-revealed-by-caviar-11786239176894.html
-
-- OpenAI's new gadget leak reveals as ChatGPT creator vies to disrupt market –$400 price, shape, other key specs: Report
-  OpenAI is set to launch a new gadget and enter a market dominated by Amazon and Google. Designed in collaboration with Jony Ive's LoveFrom, the device is
-  🔗 https://www.livemint.com/technology/openais-new-gadget-leak-reveals-as-chatgpt-creator-vies-to-disrupt-market-400-price-shape-other-key-specs-report-11786083977115.html
-
-- ByteDance targets mega AI model that could match Mythos scale, FT reports
-  ByteDance targets mega AI model
-  🔗 https://www.livemint.com/technology/bytedance-targets-mega-ai-model-that-could-match-mythos-scale-ft-reports-11786081268934.html
-
-- Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap - Bloomberg.com
-  Oil Extends Gains as Horm
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE9CeWQ3UUhJR3ZMYjlnV1JmT0ZYV3NLWUc2UG82SnNwS0ZtelczaFNDa25xaDB1cG5FTWdfdl8yVEFLOUc0RnBCbjBkTURvcEs3SUloSHRaemE0c0gxbTdtZlNvT2lnY1dQSTctWVY2V1E1RHZZZEhTUDNIRUs4bFFIUWNtWTdkRklJdWZvcWJiS1pN?oc=5
-
-- S&P 500 rises to record close Friday and posts strongest week since April: Live updates - CNBC
-  S&amp;P 500 rises to record close Friday and posts
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5
-
-- ET Wealth Edition 16 August 2026 - The Economic Times
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxNR0FuY3VudXp1aU55R0FjWjZsMGg0RFJEbkZYV2hwd3BQb2dIaEw2MmM1NXBUb3JnSUdsb1pCN3p0N19sSVpVTURaTUZMR2FJbXU0SWlYcU56S2NIR1VBX3FHNEtKNXBhdzRMVXNZZGV2UEpUWHg4a21pUmRRajMzWEdOazRJV09kVEgwdXFIRUJGNkhuaExHN3ZqemNTUUdwTXFtRHluc1NMempFNTdVUG13Y3pKS2xKQVNDTzdsdm1MSHA5NU5nUGFLMzliYVN4VmJkbzU0V09nUTU4Y1E5TGd3TVZ4RVJJNDFoazFLOFNHNFJmLXFMX2pYVTJZS3FvMnpJZXpnS29jdkYtb25RUlRVcGM?oc=5
+- China Unleashes $28 Trillion Capital Markets to Challenge US in AI - Bloomberg.com
+  China Unleashes $28 Trillion Capital Markets
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFdvZ2tPSDZZdVpMbUxQLXlSOGZTeHd3QlA1LXR5Y1M4d1ZlWnpIVkNRdjd2MTFmZmVGemFvYlJLUzVKeDBPUFdLUE9ENGY4RkhwaDBYY3U1V25DNHpTQUZFbVlUVXhUSnZ1TUJJbmlvNmhxZ3JOS1EyQlE5Yk9WSUhtUkd1U2ZqTzRBalVfOUlIa01ZRFZ3TVdJd09CVWRVckpaY2RxMlp5YjV6WTBMSXFZTjhLWFBLVWN5ekJ3?oc=5
 
 - S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates - CNBC
   S&amp;P 500 futures slip as traders watch for Strait of
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5
 
-- CNBC Daily Open: Washington and Tehran both play it cool — but markets can't - CNBC
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT01kWnhPMElpTUFPNVlFUS1PZU52R1dWR0xCam5KMUFydUc0SkdEYzV4QXBpODhicUJMYmdWQ09jb2pTNHFTRFZwZzhLSHpuRXpIcHJObGp2ekJxU19FbGU3UzhkcWpKTU5hS0pFa3JwLS1ZbWRIblVsd0ZBZXZvN2dRNDZzalpzSUU0b1pERWFiSkc0T0hoT05TNUNDYUtCNkpKYS1CWGjSAa4BQVVfeXFMTW5zZXk3YW9Ra0VzZjF4TzA1bzVFbW1sVWRJU2FvRzJNR1FOaU9BMTVWZnA3Ri1YbnR1bzBqaE9IQndJRU5YYzI3ZFVvYlVxMkkyNjVKSDc1TUgxZ3FNVUZ3T2hTdk5GSU1IdFNMNkRuSkYweDNMdF8ySmp0STRyaFJoN2RYMGxGcFlPZTMxVjA2dXdlQ00wSlhCNnF3aTJrMWw2VXFTV0xfamNQdjVn?oc=5
+- ASX ends lower as Westpac sinks 6pc - AFR
+  ASX ends lower as
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHlSZm9uZWx2SWpGa3RwNXRIbWdZYlZSb2NwUGVYUldfUnM3TmJ2V3JXUkhnQWhSZnRVWUYxQ1k5NW1oUDAzVEJlUUI5ZUJjZ2VGdUh3Rmg0SG9YMURLb3VYSi1HMms3WGU3UVNlU2pXUGlHYjFUaE5UUExOVFlneHhnVmZ0VzZORWZkdWd5bERRSG5ublNqUmZDNVBjQUNiTHl4bEp3SFFEQXh4SnhZ?oc=5
 
-- Europe's hot stock markets catch global investors' eye
-  Europe's stock market is experiencing a robust rally, attracting significant investor interest. Money managers are increasingly optimistic, seeing this as a durable shift rather than a fleeting trend.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/europes-hot-stock-markets-catch-global-investors-eye/articleshow/133077038.cms
+- Stock Market Live: Nifty Fluctuates, Sensex Opens Marginally Higher; Kaynes Tech Slumps Over 8% After Q1 Results - NDTV Profit
+  <ol><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUtObmhIZG9WNzRNV05kQ3puQWNfMk9HN1B3T08wbUY0Y1lZcEN3VXBCMWhCNllWWFFfZThUTDlsWENldmNxUmw2WDN0bnNMaWJSY3V0RV9Lei0yM0V4WnBPMmlZekJYbm
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUtObmhIZG9WNzRNV05kQ3puQWNfMk9HN1B3T08wbUY0Y1lZcEN3VXBCMWhCNllWWFFfZThUTDlsWENldmNxUmw2WDN0bnNMaWJSY3V0RV9Lei0yM0V4WnBPMmlZekJYbm5XenM2TmJLVDBteXF2TGhTanNCZFNYWGxiNnJwTHRGR3E5T3lmVUk3NDJEbkZDbVlhSkJNTEl4UU1XcFZtaFV6RkVBb1I1YjFfNzJrZ1ZZVFBHbFRYeWlsOElsZnfSAc4BQVVfeXFMT2ZDNThtaWhPc0Z0eFBCOUl2LXNKenVaeGpLZmNMQWJYRkxmZ1l1MkVEeWlseVBGeWlhR0c2OVdsTFVfSHMzcTB2UmZnby1MaVpSMGRRMnFjbk91MG9EMlZvc0dfa0dCT1ZxYTYxamgyeUlwR1VjMXdoWk52c29sNE9kcGNUUDNkaVRuYTNSVHk5dE5nLVptSVBsLVYyamVlaVVFSmJoM2toczNBRzZqT1RQRGRMdnBtLThEZVlJQzhQZXQ0aEg2RDc2Z2MtREE?oc=5
 
-- Global Market Today: Asia stocks edge higher, oil up amid Gulf confusion
-  Asian share markets follow Wall Street higher after soft US jobs report. Oil prices increased slightly due to stalled Gulf peace talks and shipping lane concerns. Investors anticipate US inflation data, which could influence Federal Reserve interest rate decisions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-stocks-edge-higher-oil-up-amid-gulf-confusion/articleshow/133077033.cms
+- Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to be disci - The Times of India
+  Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQNUFFZmdWR2tDeUc5cXNvQWFQLW8yNnJxWF9uanlUYUNwcndpbzM4bllJZHhlUUhSVUFwd2VNMDdRbEJKajVlYlltejlDOTVLdmVXU09aVXpld09nZGFpVmROY2gzbWMtQjAybFRLd2tGdi1UWTcxVnF3UHRhaTdGd09FcjN4bXRJa2RnOU5ET2djcHlObklqczdzOGdjVkRUSU0wWlcyZi1CRGdKVi1obHVtSjdscVItdkVhUjRIa2pIX2tiVUxhVHlNemFScGlIZDdYeFhvMDJ2V29UVUQ5dXF3Z09veXVrZFotS29KRnU5b2NyUFFWVXJyU2xiZ1dNWTV5NFhPSFV2TFAyYkdRR0wxVm1WMEFpd3RpbEtUSmhJbloxeXhpajEyWEpBU05Y0gG2AkFVX3lxTFBmZFZlUVVfd0E0bGF1eW0ybUV0c3NwUld2U002S09DZHBPbFBEZElTcXM5aFk3aktkejRRcG9DNWxLTkZDSTZtOHBtNmJoRnhqSEpPN2o0eWJoZ3hZaWFDRTVkb0g3RTlJeG9TYlBfYnNuWFNXdVpYLXFWTGx2R0dxNjV5WmdZTjEzbmotNHBGZjBzOFNiZElHcTFBeDdYeFRNVkQzUDFFeE42ZGd2NEVqVXhBLVZHVXQxTTdIN3ZseDNPZXRSZ2o5dVd6dng2bktFeFVId1BOek5vWXhSRTBQcDFvZXhyWFRJOHdrU1duYmtPbGs1dklKX054bmNqbmw5THlIbDhVdHozM18zLWhyQVQ2dGhxYW9OYTFDZGJ0emdyaXFvX3YwQ0pBX1N0MnVtdDR4aUE?oc=5
 
-- Stocks in news: Titan, SBI, Ola Electric, Astra Microwave and Hindalco
-   Markets closed lower Friday amid mixed global cues and rising crude oil. Analysts remain bullish on Nifty above 24,350. Focus on Titan's strong Q1 profit, SBI's earnings beat, and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-titan-sbi-ola-electric-astra-microwave-and-hindalco/articleshow/133071374.cms
+- Technology sector adds jobs as employer demand for tech talent remains strong, CompTIA finds - PR Newswire
+  Technology sector adds jobs as employer demand for tech talent remains strong,
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQlppZEJUSE9aRENBUUYtd2RPbHVZMXVsNktoM3BWNTJ6Vmh5S2pmak1NSWFfV3hZUWs2M3BORUhVX1NSbE9Ea3M0WEFvdnVXU0hwYUM0bWFzMEhINkY2M3BsblNvLWd4TUxQU1VxY3RqNEo1YnVDcXMxVXJtS3pkaVN6QXJzRlhGVG50cWRRTDNWUFA2dDg5Y19QZVFSZUlLVlg1aU9tek1maHJNZGRVTUVPZkhlV1dsUkFnaTJTVmVBZmZ2aTh6VnNNeC12M3l3U0ozby1mbzUtWmx5UUJxVw?oc=5
 
-- Can Molbio Diagnostics IPO deliver long-term growth for high risk investors?
-  Molbio Diagnostics aims to secure ₹200 crore to enhance its capital expenditures through a new issuance of shares. In tandem, the firm intends to reduce promoter stake by generating ⁹740 crore via an offer for
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/can-molbio-diagnostics-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133076987.cms
+- UK announces nearly £130 million funding for zero-emission vehicle technology - Reuters
+  UK announces nearly £130 million funding for
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaW1xcXdvQ1hnWmlvT29seTF0bEk3bnpmVWJ0V2JVTmJCNW51Rl95YndDcFdQWnY2UjJWenNycGV0NUZzck40MHhaUEhXa0R0cUplOTc0eGxhOUJPZERURzZ5Q3JYc0MyaXdOWHgwR2hZSnE5M1JGN3ZQNnNxREVuSzFoWENmUEc0T2t1Wlo4NUlnR0dyblZtVDFqMUhCNEJxSzZRUHNtdjc4ZjFiRmt0NW1Wakx6NlJm?oc=5
 
-- D-Street eyes positive opening as GIFT Nifty signals firm start
-  On Friday, Indian equities experienced a minor decline, with Nifty ending the day lower due to weak global cues and profit booking activity. Despite this, analysts are optimistic about the week ahead
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133076938.cms
+- Graduates advised not to depend only on technology - The Hindu
+  Graduates advised not to depend only
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxORFlIQlJkaFBUYzdBUUFVd1ppcXdNc05kWHF3QlBXS0x6S1lZRVRBMXVvajVvOGhYdXp1RW9sWVVOZmh2MlRIQi10SEVfa3dvQkJTQTNyNHZDVzN4UW1GNkFaM0F2VkpfX3lGUjRjcmMta0Q4V0l0X1M3ZTRhVDA1YnZGdm9GbnZ6T0tPQ0wwd1QyS1NsaGFnUE9nV29mVDdlOTVnYUNiakNLSUgySlhKR3lDQmpmd9IBvAFBVV95cUxOSGh1R1FyLWdtM0F1Wlo0b1poNHR4ZExVdzNiaTdndi1OMUxVRVJEX2hzVFotV2dZYWxlbE5CN2d0YjItMWdfSC1uR01JUzI4akFpczdZZGVPR285WXdYWGF5c3Jjclh2Tm9lVzZhM1VydGF6N01mNlo1SzRnQmhIYWV6Z0hzOGs3b2pnazY0WG15WUM3T1dtencyejFlLW1DWTJVSDNvcTVfbUNrMXozOFktb3UySmFCY1RxTA?oc=5
 
-- Canada Deports Over 3,000 Indian Nationals In First Half Of 2026: Report - NDTV
-  Canada Deports Over 3,000 Indian Nationals In
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNM01pZGhHWG52RjlWUXNaZTZGdXN3ODQtOHA5OS0xb0JjTE9kVG9JWk1qVlpPQlJlVFNzaGxGUkxxWlNERzM3aF9zVzZwTGY4UHFTT01TVWNERlY1djMxR1ZtaDdSYWx2cEsxRDQ5dFdtclRLdWktQ1ZCTDNFbEpORjNVZzJJSk1wTGxORGZrSDlOTjFMZlRuMFZHdjhWZjFRbXZZZUlvcVpxSmhpb0ZzdmNB0gG6AUFVX3lxTE5WRDVtT2JERlYtbTZHTXpCaGtCSFpRMnRyN2pRckRpNlNmMFhnN3BmdDgwMWNkMk9aSWJKdUxpWXFjcHF3Y1FyMm93S0NaU0k5VXF6NEVLNDR1cmlwWTVKcG1VQmV4OHNQbkhuX3Y4VEJDcXdJSmZvVGJzUHRiM2JZSXRGNVhKVWQwTHFPMi1MR21vdnZIb0pMUXhCb1RHdmxyd2hlalFIdjFYbUd5eS1qQjAxZ3FnYUtKQQ?oc=5
+- Tech leaders say AI means less work - their staff say they work up to 90 hours a week - BBC
+  Tech leaders say AI means less work - their staff say they work up to 90 hours
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aEVENWFmMDlmdlhpWmc5LVZRRmtuREs0UHZRZVZCRVZ0bWRMSWdNQlNtUGVId0k2cmJxTVpBelNyWmRmc2ktVnk1RVNIZ3hzeUhlZlZrVWR1UQ?oc=5
 
-- The making of Auqib Nabi: Kashmir's hardships to India's Test cricket squad - BBC
-  The making of Auqib Nabi: Kashmir
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSzY2OFVES0EyUFF6MDIxQzllXzY1c1I1dlkwV1FwMDNkWDNENERKMTc2cWVIQkJkWnhNMTVvS29FaTc0SDJjNEV4UU5pY19Udk0zWmVKVzZlZw?oc=5
+- Asia stocks firm; oil edges up on Gulf morass - Reuters
+  Asia stocks firm; oil edges up
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5
 
-- Census 2027: Ladakh to lead Independent India’s first caste enumeration - The Hindu
-  Census 2027: Ladakh to lead
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXVpUEVmdTFxUDFpYnZRSzdCWGJJMHJOX2otem9PRl9jTDRucDlPNEVRLXV0UkVZQWpONFhUbUxjUGtqQ0k4YzZ6RGVhbk1tbDh5ZkRRMHRRYzVEN0pvaDlJdEVLTTVpVEFCZXdNUjdUaGd3ZmlSVkRBOUdzT2NIZ0JSQ3VMVzR3YW5aTWxIcVlhZEF4bU9JMzlKU0JXd0tNWncwajc1VXBTekJLbUt4V3hPMDdEQkRyREUzZ3lBY3diWXV1QnhFQjRIWdIB0gFBVV95cUxPTjVIZWFTVHRpUnNDTWtXcGExMWVuS2h0WUhzeHc2WlBnVWt4TXBkaG1NLWhlb2R0a0czU1RBM2lnbTZXZkp2ckdQT1BjNW1yVXdFV254WmdEOWw0WjhYQ3JqWU16ejdaZzVsbDRJTTRHZWxCRF9tM3RGcnhXZ2d1TXlLaUhtalpvTUdiQ2gxTXYxT0pmRGZWdEZUUW1ORmY3cFJLdktmZkFIOEdnYWIzNG01OUtKLXp5aThBeGtubjF1eUd4UExKNXQ1Z3hYWk9wWlE?oc=5
+- China Unleashes $28 Trillion Capital Markets to Challenge US in AI - Bloomberg.com
+  China Unleashes $28 Trillion Capital Markets
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFdvZ2tPSDZZdVpMbUxQLXlSOGZTeHd3QlA1LXR5Y1M4d1ZlWnpIVkNRdjd2MTFmZmVGemFvYlJLUzVKeDBPUFdLUE9ENGY4RkhwaDBYY3U1V25DNHpTQUZFbVlUVXhUSnZ1TUJJbmlvNmhxZ3JOS1EyQlE5Yk9WSUhtUkd1U2ZqTzRBalVfOUlIa01ZRFZ3TVdJd09CVWRVckpaY2RxMlp5YjV6WTBMSXFZTjhLWFBLVWN5ekJ3?oc=5
 
-- Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits - theguardian.com
-  Parents of Indian students who took their own lives reveal pressure of leaked exam papers and res
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQaG5GVlBtaDBXOHhXNy1kZVR0bDlTZWl1ajYwVXNNQWd4TVhKM0lLbTlHbTRYd2hOazRoWTdjNWNjUjIwMkozYWNwdVNISk5Gb0htUGFHT1U2VUdrSlVuX2drTS12S05NVlA3VUh1UTgwSlZTVm1yS0FBeV9NLVg2WEFKamF5ZGo2NTFtWk42U0pPOVBoUUlVTzhVZ19aN0lqQ08wdlE2aDZfN015V2ZfWVc0MUY5M05SRlE4eThuX2oxd0ktcmswbDJMSEhrUUtaaUNtRDFxVC1XdUZRSUN2OE1icVBLa1Rxa3pBZVF5T1hYX2N5dXJmT3Vhb3prRE1HLUp5bG9QcVdEZw?oc=5
+- S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates - CNBC
+  S&amp;P 500 futures slip as traders watch for Strait of
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5
 
-- Har Ghar Tiranga campaign begins with multiple events across country - News On AIR
-  Har Ghar Tiranga campaign begins with multiple events
-  🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFBidGVDUUxjQjhDMzFmRDZjZTRfUzBYX0U2UVBGdmg0TTVyZ1A4VGZYVGRhOHZIcnZfdkE3aHBqQjlqNE0tY05IZnQ1UXlIODZUN201ZkhBQkJMdllLUEh6U2FzWTJBVGREOXo3MC1EVDZPQQ?oc=5
+- ASX ends lower as Westpac sinks 6pc - AFR
+  ASX ends lower as
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHlSZm9uZWx2SWpGa3RwNXRIbWdZYlZSb2NwUGVYUldfUnM3TmJ2V3JXUkhnQWhSZnRVWUYxQ1k5NW1oUDAzVEJlUUI5ZUJjZ2VGdUh3Rmg0SG9YMURLb3VYSi1HMms3WGU3UVNlU2pXUGlHYjFUaE5UUExOVFlneHhnVmZ0VzZORWZkdWd5bERRSG5ublNqUmZDNVBjQUNiTHl4bEp3SFFEQXh4SnhZ?oc=5
 
-- Indian Startup IPO Tracker 2026
-  Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
-  🔗 https://inc42.com/features/indian-startup-ipo-tracker-2026/
+- Stock Market Live: Nifty Fluctuates, Sensex Opens Marginally Higher; Kaynes Tech Slumps Over 8% After Q1 Results - NDTV Profit
+  <ol><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUtObmhIZG9WNzRNV05kQ3puQWNfMk9HN1B3T08wbUY0Y1lZcEN3VXBCMWhCNllWWFFfZThUTDlsWENldmNxUmw2WDN0bnNMaWJSY3V0RV9Lei0yM0V4WnBPMmlZekJYbm
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUtObmhIZG9WNzRNV05kQ3puQWNfMk9HN1B3T08wbUY0Y1lZcEN3VXBCMWhCNllWWFFfZThUTDlsWENldmNxUmw2WDN0bnNMaWJSY3V0RV9Lei0yM0V4WnBPMmlZekJYbm5XenM2TmJLVDBteXF2TGhTanNCZFNYWGxiNnJwTHRGR3E5T3lmVUk3NDJEbkZDbVlhSkJNTEl4UU1XcFZtaFV6RkVBb1I1YjFfNzJrZ1ZZVFBHbFRYeWlsOElsZnfSAc4BQVVfeXFMT2ZDNThtaWhPc0Z0eFBCOUl2LXNKenVaeGpLZmNMQWJYRkxmZ1l1MkVEeWlseVBGeWlhR0c2OVdsTFVfSHMzcTB2UmZnby1MaVpSMGRRMnFjbk91MG9EMlZvc0dfa0dCT1ZxYTYxamgyeUlwR1VjMXdoWk52c29sNE9kcGNUUDNkaVRuYTNSVHk5dE5nLVptSVBsLVYyamVlaVVFSmJoM2toczNBRzZqT1RQRGRMdnBtLThEZVlJQzhQZXQ0aEg2RDc2Z2MtREE?oc=5
 
-- UPI’s Free Ride Is Over
-  In the last 10 years, UPI has changed how India transacts. What began as a simple, instant and interoperable way&#82
-  🔗 https://inc42.com/features/upis-free-ride-is-over/
+- Raymond Realty shares fall 8% as profitability takes a hit  in Q1
+  Raymond Realty shares fell 8% after Q1 earnings showed pressure on profitability. Higher upfront project, marketing and interest costs weighed on profit. However, bookings doubled to Rs 700 crore, while collections rose 47%.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/raymond-realty-shares-fall-8-as-profitability-takes-a-hit-in-q1/articleshow/133088516.cms
 
-- [Update] Now, Finance Ministry Rules Out Consumer UPI Charges Amid MDR Debate
-  The finance ministry categorically clarified concerns over merchant discount rates (MDR) on UPI.
-  🔗 https://inc42.com/buzz/payments-council-rules-out-consumer-mdr-phonepe-razorpay-back-free-upi/
+- PFC shares tumble 5% to 4-month low after weak Q1 earnings. Why Motilal Oswal still recommends Buy
+  PFC shares fell over 5% after the company reported a 2% YoY rise in Q1 FY27 consolidated net profit to Rs 7,012 crore. Motilal Oswal retained its
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pfc-shares-tumble-5-to-4-month-low-after-weak-q1-earnings-why-motilal-oswal-still-recommends-buy/articleshow/133087726.cms
 
-- IPO-Bound Cult.fit’s Rishabh Telang Denies Forgery Allegations By Deepak Poduval
-  Deepak Poduval, cofounder of Cult Fitness Pvt Ltd, has filed an FIR against his cofounder and brother-in-law Rishabh Telang.
-  🔗 https://inc42.com/buzz/ipo-bound-cult-fits-rishabh-telang-denies-forgery-allegations-by-deepak-poduval/
+- Milky Mist Dairy Food IPO opens tomorrow, GMP signals 20% listing gain. Check price band, lot size and key dates
+   Milky Mist Dairy Food IPO opens on August 11 and closes on August 13. Rs 1,553 crore issue priced at Rs 133-140 per share. The latest GMP of Rs 26 signals a potential 19% listing gain.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-ipo-opens-tomorrow-gmp-signals-20-listing-gain-check-price-band-lot-size-and-key-dates/articleshow/133087338.cms
 
-- Flipkart Minutes Enters Premium Grocery Segment With Pykd
-  Walmart-owned Flipkart is entering the premium grocery and specialty food products segment under its private label.
-  🔗 https://inc42.com/buzz/flipkart-minutes-enters-premium-grocery-segment-with-pykd/
+- Paytm shares jump 5% after Bernstein assigns target price above IPO price for first time
+   Bernstein raised its target price to Rs 2,200, implying 52% upside, while retaining an Outperform rating. The target is the highest on the Street and the first above Paytm’
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-jump-5-after-bernstein-assigns-target-price-above-ipo-price-for-first-time/articleshow/133087184.cms
 
-- Canada Deports Over 3,000 Indian Nationals In First Half Of 2026: Report - NDTV
-  Canada Deports Over 3,000 Indian Nationals In
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNM01pZGhHWG52RjlWUXNaZTZGdXN3ODQtOHA5OS0xb0JjTE9kVG9JWk1qVlpPQlJlVFNzaGxGUkxxWlNERzM3aF9zVzZwTGY4UHFTT01TVWNERlY1djMxR1ZtaDdSYWx2cEsxRDQ5dFdtclRLdWktQ1ZCTDNFbEpORjNVZzJJSk1wTGxORGZrSDlOTjFMZlRuMFZHdjhWZjFRbXZZZUlvcVpxSmhpb0ZzdmNB0gG6AUFVX3lxTE5WRDVtT2JERlYtbTZHTXpCaGtCSFpRMnRyN2pRckRpNlNmMFhnN3BmdDgwMWNkMk9aSWJKdUxpWXFjcHF3Y1FyMm93S0NaU0k5VXF6NEVLNDR1cmlwWTVKcG1VQmV4OHNQbkhuX3Y4VEJDcXdJSmZvVGJzUHRiM2JZSXRGNVhKVWQwTHFPMi1MR21vdnZIb0pMUXhCb1RHdmxyd2hlalFIdjFYbUd5eS1qQjAxZ3FnYUtKQQ?oc=5
+- Aarti Pharmalabs shares hit 20% upper circuit as Q1 net profit surges 65% YoY to Rs 76 crore
+  Aarti Pharmalabs shares hit the 20% upper circuit after the company reported a 65.4% year-on-year rise in Q1 FY27 net profit to Rs 76.14 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aarti-pharmalabs-shares-hit-20-upper-circuit-as-q1-net-profit-surges-65-yoy-to-rs-76-crore/articleshow/133086824.cms
 
-- The making of Auqib Nabi: Kashmir's hardships to India's Test cricket squad - BBC
-  The making of Auqib Nabi: Kashmir
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSzY2OFVES0EyUFF6MDIxQzllXzY1c1I1dlkwV1FwMDNkWDNENERKMTc2cWVIQkJkWnhNMTVvS29FaTc0SDJjNEV4UU5pY19Udk0zWmVKVzZlZw?oc=5
+- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
+  Maharashtra's Ladki Bahin: Why India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
 
-- Census 2027: Ladakh to lead Independent India’s first caste enumeration - The Hindu
-  Census 2027: Ladakh to lead
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXVpUEVmdTFxUDFpYnZRSzdCWGJJMHJOX2otem9PRl9jTDRucDlPNEVRLXV0UkVZQWpONFhUbUxjUGtqQ0k4YzZ6RGVhbk1tbDh5ZkRRMHRRYzVEN0pvaDlJdEVLTTVpVEFCZXdNUjdUaGd3ZmlSVkRBOUdzT2NIZ0JSQ3VMVzR3YW5aTWxIcVlhZEF4bU9JMzlKU0JXd0tNWncwajc1VXBTekJLbUt4V3hPMDdEQkRyREUzZ3lBY3diWXV1QnhFQjRIWdIB0gFBVV95cUxPTjVIZWFTVHRpUnNDTWtXcGExMWVuS2h0WUhzeHc2WlBnVWt4TXBkaG1NLWhlb2R0a0czU1RBM2lnbTZXZkp2ckdQT1BjNW1yVXdFV254WmdEOWw0WjhYQ3JqWU16ejdaZzVsbDRJTTRHZWxCRF9tM3RGcnhXZ2d1TXlLaUhtalpvTUdiQ2gxTXYxT0pmRGZWdEZUUW1ORmY3cFJLdktmZkFIOEdnYWIzNG01OUtKLXp5aThBeGtubjF1eUd4UExKNXQ1Z3hYWk9wWlE?oc=5
+- China’s media slams India’s move of formally naming 27 places in Arunachal Pradesh - The Hindu
+  China’s media slams India's move of formally naming
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVlOMUkyWlYxZHpsSlJTSHY4eTZrVWFRckpOdFFGMmlRQmVEa01GX2NfMzhLRTRPX0hoci1KSFhobUFRczg0bXFmT2NibW1QTHgya0VqeFh2Zm9Eb1E1bVpma0pmVS1mWl94RWE0LXhFelJnTXhOckxsV1M4WmlZclJLWVZBU2pGTnQwZndxRlVyT0hDRXcteGlRZGxOTlFMeU1iUXlHbWIzeDRzVjlPckp5WjZmemhXSjJSLWZvY0xnVVdheDgxLUYyR2pOWnhYN0840gHaAUFVX3lxTE8yejFlSk51MDVTclNlR0o3ZE00SndkLTlWWU1Gemx2TmtFZlJ4c2RHWDQ1X01LckFpamZmMzFLd1V0SVJFXy0wYU00Z2JDUnhCZEhuNUJzaVdUOEtacHhWY0lZZnBXZnRzUlJUSTFYUUZQQ19aOEhIdFhmNkFiSFZzem5RcS0ya2dLTHNFZnV6QVpVRHRqcUoyZWU5a1NScjNzaXBLWEhDbGE5R3ZtaXlwM09ackVQbWxuOFNKU180aVZpRmxyWmRtbDBiVDNBaXV3U05ER0JTNWdR?oc=5
 
-- Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits - theguardian.com
-  Parents of Indian students who took their own lives reveal pressure of leaked exam papers and res
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQaG5GVlBtaDBXOHhXNy1kZVR0bDlTZWl1ajYwVXNNQWd4TVhKM0lLbTlHbTRYd2hOazRoWTdjNWNjUjIwMkozYWNwdVNISk5Gb0htUGFHT1U2VUdrSlVuX2drTS12S05NVlA3VUh1UTgwSlZTVm1yS0FBeV9NLVg2WEFKamF5ZGo2NTFtWk42U0pPOVBoUUlVTzhVZ19aN0lqQ08wdlE2aDZfN015V2ZfWVc0MUY5M05SRlE4eThuX2oxd0ktcmswbDJMSEhrUUtaaUNtRDFxVC1XdUZRSUN2OE1icVBLa1Rxa3pBZVF5T1hYX2N5dXJmT3Vhb3prRE1HLUp5bG9QcVdEZw?oc=5
+- Indian Envoy Meets Bangladesh PM Amid Row Over Sheikh Hasina Press Event - ndtv.com
+  Indian Envoy Meets Bangladesh PM Amid Row Over
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDR6Z0xPYkk0MzdYejNUWFVHXzMyRUY2Y1k2cHhhZ3VzVWNvRXBaLXQ0dEZFaEF2b18wMlEzQWc2bjRhblJ2UUs3Yktnb053VUFmV3lFaHAwRUo5d0VWYkNBMFV5VjNEUnNXZF9VMTA5eDIwMjVrSjlOLVN0V3RUNnZyNWM0Zk9ES0o1cXc4SEFobFdrTUZCV0dNV2h5M0VHRnU0OG1kbFV0NHg5S0pISDdJTdIBuwFBVV95cUxQZzZYejZRZEpkd1p5am04T3VSdnpPYWxlZ3RyMV9Ed2hrVkpLeTJRa1lnc3RmVFJVRnZLQy0tTF8yVTFBWldHeUJPcjZyY3Y2dXl6SGVOUE9EZENvZlh5ZHRzWVB2dWt0cHFvd3Z5bTBQVmlPZmQ5UmFXRVN0bjFrQVpubHRmb0Z0ZmhPYmVKeGdLVndsSlZ2ZTVJOENBWk1SQ0VqSTJRTWdaWWFhNlZtbVBPZXh4OWgzUFNn?oc=5
 
-- Har Ghar Tiranga campaign begins with multiple events across country - News On AIR
-  Har Ghar Tiranga campaign begins with multiple events
-  🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFBidGVDUUxjQjhDMzFmRDZjZTRfUzBYX0U2UVBGdmg0TTVyZ1A4VGZYVGRhOHZIcnZfdkE3aHBqQjlqNE0tY05IZnQ1UXlIODZUN201ZkhBQkJMdllLUEh6U2FzWTJBVGREOXo3MC1EVDZPQQ?oc=5
+- Jharkhand: Protest in India state intensifies over alleged corruption in job exams - BBC
+  Jharkhand: Protest in India state intens
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM0JYQ2ktVXJOZlVTLThhMjhBTmk4UmtxZDBHa2J6TTFnYXMzN05tODkzei1FLVRnLU9XWFNKSEhoR0ozZ3VJVHJSOTNSSzB6ckJJamFhZW8zdw?oc=5
 
-- Canada Deports Over 3,000 Indian Nationals In First Half Of 2026: Report - NDTV
-  Canada Deports Over 3,000 Indian Nationals In
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNM01pZGhHWG52RjlWUXNaZTZGdXN3ODQtOHA5OS0xb0JjTE9kVG9JWk1qVlpPQlJlVFNzaGxGUkxxWlNERzM3aF9zVzZwTGY4UHFTT01TVWNERlY1djMxR1ZtaDdSYWx2cEsxRDQ5dFdtclRLdWktQ1ZCTDNFbEpORjNVZzJJSk1wTGxORGZrSDlOTjFMZlRuMFZHdjhWZjFRbXZZZUlvcVpxSmhpb0ZzdmNB0gG6AUFVX3lxTE5WRDVtT2JERlYtbTZHTXpCaGtCSFpRMnRyN2pRckRpNlNmMFhnN3BmdDgwMWNkMk9aSWJKdUxpWXFjcHF3Y1FyMm93S0NaU0k5VXF6NEVLNDR1cmlwWTVKcG1VQmV4OHNQbkhuX3Y4VEJDcXdJSmZvVGJzUHRiM2JZSXRGNVhKVWQwTHFPMi1MR21vdnZIb0pMUXhCb1RHdmxyd2hlalFIdjFYbUd5eS1qQjAxZ3FnYUtKQQ?oc=5
+- 19 days in jail, 'stole' police chair and deportation: Japanese student’s Bengaluru story - The Times of India
+  The Times of India reported the incident in Bengaluru, India.
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ2FsUTB4UXFhNjNoZGFjLTFWTk9Hcy1yc3Q5aXZMNVVNaGhlRGdmUlNqNFNRTnlJMkFCSy05TXhTaW44OUhxWmx1Skx0T2tBZnBLRGJpWUtSQkZVRENoNVh1VUVyMUZnNjNwYTdFNUd5aGtZclZNbDZKN3dhc2FXZDFPd0NLQWRVT24yWkxKWWhHRVZIR05JS0lSTm9jR2o0d0lISnMxcDVFVmxOaHhtZ3NidjBubUlvSmdjQzF6bHlHRTl6U25sZXBHNUNURGZtSXpjWmg5QnZMZnZERWtsZ2YxYkpYXzdBZUlIeDVFbE83c0VhdzZobm1OOG9URXBQc0czU2cyTVp5c2UwWEhVWNIBlgJBVV95cUxPcGROZVVNWGZsTFpqWlhxemxJZ05QRGVINWFmdlZWMXR6aHZleFJGUUlWbk1Kdktsa0dpREVxazhsSlVPWXdrU01ZZmxmMWJyRzE0Z0hScmRLRElLVW83UGlLUElxVldLNU1yUFlCUVk3UWxpOE1HYzN2d1NPeFlRVHFGZ09Ya0FVc1NnMVpiZ1BGWVpwSmtnbjA3aTlLcHdOQ3BFTTdkaFVQclBlUnFHSFhGaUFCdXdJWjJsSGJxOUx4MUhrdXJ0QWw4VzhIVFdyZjZWMHM5c0hFTWhuOVM4b1RlZ2pxYnh2Q1R1ak5vMHlLeFVlQzBIb0tWdFZSVmZZX2VkcHAwdGl4VzQwNGFvcWZJNUMwUQ?oc=5
 
-- The making of Auqib Nabi: Kashmir's hardships to India's Test cricket squad - BBC
-  The making of Auqib Nabi: Kashmir
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSzY2OFVES0EyUFF6MDIxQzllXzY1c1I1dlkwV1FwMDNkWDNENERKMTc2cWVIQkJkWnhNMTVvS29FaTc0SDJjNEV4UU5pY19Udk0zWmVKVzZlZw?oc=5
+- The D2C & Retail Summit 2026 Agenda Is Live: Decoding India’s New Commerce Playbooks
+  India’s retail story has moved past the old online-versus-offline debate. The new contest is over control.
+  🔗 https://inc42.com/buzz/the-d2c-retail-summit-2026-agenda-is-live-decoding-indias-new-commerce-playbooks/
 
-- Census 2027: Ladakh to lead Independent India’s first caste enumeration - The Hindu
-  Census 2027: Ladakh to lead
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXVpUEVmdTFxUDFpYnZRSzdCWGJJMHJOX2otem9PRl9jTDRucDlPNEVRLXV0UkVZQWpONFhUbUxjUGtqQ0k4YzZ6RGVhbk1tbDh5ZkRRMHRRYzVEN0pvaDlJdEVLTTVpVEFCZXdNUjdUaGd3ZmlSVkRBOUdzT2NIZ0JSQ3VMVzR3YW5aTWxIcVlhZEF4bU9JMzlKU0JXd0tNWncwajc1VXBTekJLbUt4V3hPMDdEQkRyREUzZ3lBY3diWXV1QnhFQjRIWdIB0gFBVV95cUxPTjVIZWFTVHRpUnNDTWtXcGExMWVuS2h0WUhzeHc2WlBnVWt4TXBkaG1NLWhlb2R0a0czU1RBM2lnbTZXZkp2ckdQT1BjNW1yVXdFV254WmdEOWw0WjhYQ3JqWU16ejdaZzVsbDRJTTRHZWxCRF9tM3RGcnhXZ2d1TXlLaUhtalpvTUdiQ2gxTXYxT0pmRGZWdEZUUW1ORmY3cFJLdktmZkFIOEdnYWIzNG01OUtKLXp5aThBeGtubjF1eUd4UExKNXQ1Z3hYWk9wWlE?oc=5
+- Announcing The D2C Retreat 2026 | 70+ Consumer Brand Founders, ₹30,000 Cr+ In Revenue, Everything Off-Record
+  In the middle of Udai Sagar Lake sits a private island. Surrounded by the silence of the lake.
+  🔗 https://inc42.com/buzz/announcing-the-d2c-retreat-2026-70-consumer-brand-founders-%e2%82%b930000-cr-in-revenue-everything-off-record/
 
-- Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits - theguardian.com
-  Parents of Indian students who took their own lives reveal pressure of leaked exam papers and res
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQaG5GVlBtaDBXOHhXNy1kZVR0bDlTZWl1ajYwVXNNQWd4TVhKM0lLbTlHbTRYd2hOazRoWTdjNWNjUjIwMkozYWNwdVNISk5Gb0htUGFHT1U2VUdrSlVuX2drTS12S05NVlA3VUh1UTgwSlZTVm1yS0FBeV9NLVg2WEFKamF5ZGo2NTFtWk42U0pPOVBoUUlVTzhVZ19aN0lqQ08wdlE2aDZfN015V2ZfWVc0MUY5M05SRlE4eThuX2oxd0ktcmswbDJMSEhrUUtaaUNtRDFxVC1XdUZRSUN2OE1icVBLa1Rxa3pBZVF5T1hYX2N5dXJmT3Vhb3prRE1HLUp5bG9QcVdEZw?oc=5
+- NHRC Seeks Report From Delhi Government Over Alleged Overcharging By Cab Aggregators
+  The National Human Rights Commission (NHRC) has sought a report from the Delhi government over allegations that app-based cab aggregators are overcharging.
+  🔗 https://inc42.com/buzz/nhrc-seeks-report-from-delhi-government-over-alleged-overcharging-by-cab-aggregators/
 
-- Har Ghar Tiranga campaign begins with multiple events across country - News On AIR
-  Har Ghar Tiranga campaign begins with multiple events
-  🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFBidGVDUUxjQjhDMzFmRDZjZTRfUzBYX0U2UVBGdmg0TTVyZ1A4VGZYVGRhOHZIcnZfdkE3aHBqQjlqNE0tY05IZnQ1UXlIODZUN201ZkhBQkJMdllLUEh6U2FzWTJBVGREOXo3MC1EVDZPQQ?oc=5
+- Delhivery’s Q1 Show, Weekly Funding Rebounds & More
+  Delhivery’s profitability remained under pressure in Q1. Macroeconomic shocks and fixed cost structures tested the unit.
+  🔗 https://inc42.com/buzz/delhiverys-q1-show-weekly-funding-rebounds-more/
+
+- Ola Electric’s Comeback Quarter Comes With A Caveat
+  Under deep public scrutiny, Bhavish Aggarwal&#8217;s Ola Electric has spent the past year trying to fix a business.
+  🔗 https://inc42.com/features/ola-electrics-comeback-quarter-comes-with-a-caveat/
+
+- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
+  Maharashtra's Ladki Bahin: Why India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
+
+- China’s media slams India’s move of formally naming 27 places in Arunachal Pradesh - The Hindu
+  China’s media slams India's move of formally naming
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVlOMUkyWlYxZHpsSlJTSHY4eTZrVWFRckpOdFFGMmlRQmVEa01GX2NfMzhLRTRPX0hoci1KSFhobUFRczg0bXFmT2NibW1QTHgya0VqeFh2Zm9Eb1E1bVpma0pmVS1mWl94RWE0LXhFelJnTXhOckxsV1M4WmlZclJLWVZBU2pGTnQwZndxRlVyT0hDRXcteGlRZGxOTlFMeU1iUXlHbWIzeDRzVjlPckp5WjZmemhXSjJSLWZvY0xnVVdheDgxLUYyR2pOWnhYN0840gHaAUFVX3lxTE8yejFlSk51MDVTclNlR0o3ZE00SndkLTlWWU1Gemx2TmtFZlJ4c2RHWDQ1X01LckFpamZmMzFLd1V0SVJFXy0wYU00Z2JDUnhCZEhuNUJzaVdUOEtacHhWY0lZZnBXZnRzUlJUSTFYUUZQQ19aOEhIdFhmNkFiSFZzem5RcS0ya2dLTHNFZnV6QVpVRHRqcUoyZWU5a1NScjNzaXBLWEhDbGE5R3ZtaXlwM09ackVQbWxuOFNKU180aVZpRmxyWmRtbDBiVDNBaXV3U05ER0JTNWdR?oc=5
+
+- Indian Envoy Meets Bangladesh PM Amid Row Over Sheikh Hasina Press Event - ndtv.com
+  Indian Envoy Meets Bangladesh PM Amid Row Over
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDR6Z0xPYkk0MzdYejNUWFVHXzMyRUY2Y1k2cHhhZ3VzVWNvRXBaLXQ0dEZFaEF2b18wMlEzQWc2bjRhblJ2UUs3Yktnb053VUFmV3lFaHAwRUo5d0VWYkNBMFV5VjNEUnNXZF9VMTA5eDIwMjVrSjlOLVN0V3RUNnZyNWM0Zk9ES0o1cXc4SEFobFdrTUZCV0dNV2h5M0VHRnU0OG1kbFV0NHg5S0pISDdJTdIBuwFBVV95cUxQZzZYejZRZEpkd1p5am04T3VSdnpPYWxlZ3RyMV9Ed2hrVkpLeTJRa1lnc3RmVFJVRnZLQy0tTF8yVTFBWldHeUJPcjZyY3Y2dXl6SGVOUE9EZENvZlh5ZHRzWVB2dWt0cHFvd3Z5bTBQVmlPZmQ5UmFXRVN0bjFrQVpubHRmb0Z0ZmhPYmVKeGdLVndsSlZ2ZTVJOENBWk1SQ0VqSTJRTWdaWWFhNlZtbVBPZXh4OWgzUFNn?oc=5
+
+- Jharkhand: Protest in India state intensifies over alleged corruption in job exams - BBC
+  Jharkhand: Protest in India state intens
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM0JYQ2ktVXJOZlVTLThhMjhBTmk4UmtxZDBHa2J6TTFnYXMzN05tODkzei1FLVRnLU9XWFNKSEhoR0ozZ3VJVHJSOTNSSzB6ckJJamFhZW8zdw?oc=5
+
+- 19 days in jail, 'stole' police chair and deportation: Japanese student’s Bengaluru story - The Times of India
+  The Times of India reported the incident in Bengaluru, India.
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ2FsUTB4UXFhNjNoZGFjLTFWTk9Hcy1yc3Q5aXZMNVVNaGhlRGdmUlNqNFNRTnlJMkFCSy05TXhTaW44OUhxWmx1Skx0T2tBZnBLRGJpWUtSQkZVRENoNVh1VUVyMUZnNjNwYTdFNUd5aGtZclZNbDZKN3dhc2FXZDFPd0NLQWRVT24yWkxKWWhHRVZIR05JS0lSTm9jR2o0d0lISnMxcDVFVmxOaHhtZ3NidjBubUlvSmdjQzF6bHlHRTl6U25sZXBHNUNURGZtSXpjWmg5QnZMZnZERWtsZ2YxYkpYXzdBZUlIeDVFbE83c0VhdzZobm1OOG9URXBQc0czU2cyTVp5c2UwWEhVWNIBlgJBVV95cUxPcGROZVVNWGZsTFpqWlhxemxJZ05QRGVINWFmdlZWMXR6aHZleFJGUUlWbk1Kdktsa0dpREVxazhsSlVPWXdrU01ZZmxmMWJyRzE0Z0hScmRLRElLVW83UGlLUElxVldLNU1yUFlCUVk3UWxpOE1HYzN2d1NPeFlRVHFGZ09Ya0FVc1NnMVpiZ1BGWVpwSmtnbjA3aTlLcHdOQ3BFTTdkaFVQclBlUnFHSFhGaUFCdXdJWjJsSGJxOUx4MUhrdXJ0QWw4VzhIVFdyZjZWMHM5c0hFTWhuOVM4b1RlZ2pxYnh2Q1R1ak5vMHlLeFVlQzBIb0tWdFZSVmZZX2VkcHAwdGl4VzQwNGFvcWZJNUMwUQ?oc=5
+
+- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
+  Maharashtra's Ladki Bahin: Why India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
+
+- China’s media slams India’s move of formally naming 27 places in Arunachal Pradesh - The Hindu
+  China’s media slams India's move of formally naming
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVlOMUkyWlYxZHpsSlJTSHY4eTZrVWFRckpOdFFGMmlRQmVEa01GX2NfMzhLRTRPX0hoci1KSFhobUFRczg0bXFmT2NibW1QTHgya0VqeFh2Zm9Eb1E1bVpma0pmVS1mWl94RWE0LXhFelJnTXhOckxsV1M4WmlZclJLWVZBU2pGTnQwZndxRlVyT0hDRXcteGlRZGxOTlFMeU1iUXlHbWIzeDRzVjlPckp5WjZmemhXSjJSLWZvY0xnVVdheDgxLUYyR2pOWnhYN0840gHaAUFVX3lxTE8yejFlSk51MDVTclNlR0o3ZE00SndkLTlWWU1Gemx2TmtFZlJ4c2RHWDQ1X01LckFpamZmMzFLd1V0SVJFXy0wYU00Z2JDUnhCZEhuNUJzaVdUOEtacHhWY0lZZnBXZnRzUlJUSTFYUUZQQ19aOEhIdFhmNkFiSFZzem5RcS0ya2dLTHNFZnV6QVpVRHRqcUoyZWU5a1NScjNzaXBLWEhDbGE5R3ZtaXlwM09ackVQbWxuOFNKU180aVZpRmxyWmRtbDBiVDNBaXV3U05ER0JTNWdR?oc=5
+
+- Indian Envoy Meets Bangladesh PM Amid Row Over Sheikh Hasina Press Event - ndtv.com
+  Indian Envoy Meets Bangladesh PM Amid Row Over
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDR6Z0xPYkk0MzdYejNUWFVHXzMyRUY2Y1k2cHhhZ3VzVWNvRXBaLXQ0dEZFaEF2b18wMlEzQWc2bjRhblJ2UUs3Yktnb053VUFmV3lFaHAwRUo5d0VWYkNBMFV5VjNEUnNXZF9VMTA5eDIwMjVrSjlOLVN0V3RUNnZyNWM0Zk9ES0o1cXc4SEFobFdrTUZCV0dNV2h5M0VHRnU0OG1kbFV0NHg5S0pISDdJTdIBuwFBVV95cUxQZzZYejZRZEpkd1p5am04T3VSdnpPYWxlZ3RyMV9Ed2hrVkpLeTJRa1lnc3RmVFJVRnZLQy0tTF8yVTFBWldHeUJPcjZyY3Y2dXl6SGVOUE9EZENvZlh5ZHRzWVB2dWt0cHFvd3Z5bTBQVmlPZmQ5UmFXRVN0bjFrQVpubHRmb0Z0ZmhPYmVKeGdLVndsSlZ2ZTVJOENBWk1SQ0VqSTJRTWdaWWFhNlZtbVBPZXh4OWgzUFNn?oc=5
+
+- Jharkhand: Protest in India state intensifies over alleged corruption in job exams - BBC
+  Jharkhand: Protest in India state intens
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM0JYQ2ktVXJOZlVTLThhMjhBTmk4UmtxZDBHa2J6TTFnYXMzN05tODkzei1FLVRnLU9XWFNKSEhoR0ozZ3VJVHJSOTNSSzB6ckJJamFhZW8zdw?oc=5
+
+- 19 days in jail, 'stole' police chair and deportation: Japanese student’s Bengaluru story - The Times of India
+  The Times of India reported the incident in Bengaluru, India.
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ2FsUTB4UXFhNjNoZGFjLTFWTk9Hcy1yc3Q5aXZMNVVNaGhlRGdmUlNqNFNRTnlJMkFCSy05TXhTaW44OUhxWmx1Skx0T2tBZnBLRGJpWUtSQkZVRENoNVh1VUVyMUZnNjNwYTdFNUd5aGtZclZNbDZKN3dhc2FXZDFPd0NLQWRVT24yWkxKWWhHRVZIR05JS0lSTm9jR2o0d0lISnMxcDVFVmxOaHhtZ3NidjBubUlvSmdjQzF6bHlHRTl6U25sZXBHNUNURGZtSXpjWmg5QnZMZnZERWtsZ2YxYkpYXzdBZUlIeDVFbE83c0VhdzZobm1OOG9URXBQc0czU2cyTVp5c2UwWEhVWNIBlgJBVV95cUxPcGROZVVNWGZsTFpqWlhxemxJZ05QRGVINWFmdlZWMXR6aHZleFJGUUlWbk1Kdktsa0dpREVxazhsSlVPWXdrU01ZZmxmMWJyRzE0Z0hScmRLRElLVW83UGlLUElxVldLNU1yUFlCUVk3UWxpOE1HYzN2d1NPeFlRVHFGZ09Ya0FVc1NnMVpiZ1BGWVpwSmtnbjA3aTlLcHdOQ3BFTTdkaFVQclBlUnFHSFhGaUFCdXdJWjJsSGJxOUx4MUhrdXJ0QWw4VzhIVFdyZjZWMHM5c0hFTWhuOVM4b1RlZ2pxYnh2Q1R1ak5vMHlLeFVlQzBIb0tWdFZSVmZZX2VkcHAwdGl4VzQwNGFvcWZJNUMwUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-10 01:21:06 UTC_
+_Last updated: 2026-08-10 07:25:08 UTC_
