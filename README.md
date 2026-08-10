@@ -4,41 +4,49 @@
   Maharashtra's Ladki Bahin: Why India
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
 
-- Agni-4 Missile Fills Crucial Range Gap, Bolsters India’s Strategic Deterrence Against China - The Times of India
-  Agni-4 Missile Fills Crucial Range Gap,
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3lhU1E0M0lCaXljYXNzRDE3czg4a2NzejlVeEtKRkNkelRVbjREUm5fajVvaV8wOFVhNTFLOHFZYk05eHB2TWpuWkVhcFlsalNUNFlQWXdlaXcyd2lYdThudnl3SjhLVHpKU2pTQTZyLVBrNFo1V1FqVHFXVlBvVjUwY3pOUzNpM1ZPT01pYlhhS0pnM293S3k3Y1RqLTlKcndLSWp0YVBMc3pPcWN2d20wZVdTZmlEbjhpUzRQcERVc0E4ZzA0RmhRWWR1SWJHMUlkUmlQczgzMmxXRlJRSENLelJ1NDluU3NIOFVtcDhqY1XSAfgBQVVfeXFMUEF3bFVaTnhuR1hkeW5GaWlzQk5mVFVMWGVOMEx4d1RFZUJtd2FFLVpnREQ3MTdHQm1OVGk4ckYxUnllT0lfMlRJWF9ZaVJXRHZGbUdnSmNEZVZYNTJEbzRvTmVaaWpuUHc3ZVdjUjdTemJHbjdWY1o2VGJTVWZnZzVXSE8tWUFXd01FZVFlRjJqSzYxaEtCMzZLd2hKSEVrb2EzeVdHNXhwOVBmRlNNY2NTcGp2ZVNqZjNiSzNqb2x3NXlmYjVwNkNKaHlDRDNDQVBCcjYyNkNOUGszRXVPS1dNLVppWVNkRjhjaDdFZU4ySUluUWRWamQ?oc=5
-
 - China’s media slams India’s move of formally naming 27 places in Arunachal Pradesh - The Hindu
   China’s media slams India's move of formally naming
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVlOMUkyWlYxZHpsSlJTSHY4eTZrVWFRckpOdFFGMmlRQmVEa01GX2NfMzhLRTRPX0hoci1KSFhobUFRczg0bXFmT2NibW1QTHgya0VqeFh2Zm9Eb1E1bVpma0pmVS1mWl94RWE0LXhFelJnTXhOckxsV1M4WmlZclJLWVZBU2pGTnQwZndxRlVyT0hDRXcteGlRZGxOTlFMeU1iUXlHbWIzeDRzVjlPckp5WjZmemhXSjJSLWZvY0xnVVdheDgxLUYyR2pOWnhYN0840gHaAUFVX3lxTE8yejFlSk51MDVTclNlR0o3ZE00SndkLTlWWU1Gemx2TmtFZlJ4c2RHWDQ1X01LckFpamZmMzFLd1V0SVJFXy0wYU00Z2JDUnhCZEhuNUJzaVdUOEtacHhWY0lZZnBXZnRzUlJUSTFYUUZQQ19aOEhIdFhmNkFiSFZzem5RcS0ya2dLTHNFZnV6QVpVRHRqcUoyZWU5a1NScjNzaXBLWEhDbGE5R3ZtaXlwM09ackVQbWxuOFNKU180aVZpRmxyWmRtbDBiVDNBaXV3U05ER0JTNWdR?oc=5
 
-- India Counters China, Maps 27 Places In Arunachal Using Official Names - NDTV
-  India Counters China, Maps 27 Places In
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmxScUx5VU9wWkVTSVN5Z0ZlbUVLVjduRGNKNE1JVFR2RUtVbllNQzFJMmJzZjBnWXlWb3ZJUnF6ZEhKcmNJQjhYMWdaR2Z1bmFDNXQtSUMwb1JQejVQdm9hSGdCbmR6RzVGZnRPbG0xN0VRLU90bG9PaUV1dmZpUjh0QnpQOC16NlNDVzlhc2NpNllrcjJqMElWOFVYOE1Ydk9oUWhZMTVMWWxGaHlr0gG3AUFVX3lxTE4yNTNWM2pETXNXUU53bXM2c1EyR2p5VDVGVkQ0ZzFTclc2cXI2dGJObVFvMURBekgwRTJCcF9QUUlrdmVIaTdicDlzelhCN2o4ZHFKdGp1eFZOU1Rsd29ELWJqaWdkTDd1NXhiV01vbHBaUVJteW9lajVvYW00OTZpYmpSUG9LV044ejhDaDdodTZGdzEzalFULWNTMEl4WERhZXpzTzE1MGw0d04xV3R2Q3Q3ZzU0bw?oc=5
+- On Camera, Uttarakhand Bridge Swept Away In Seconds Due To Strong Currents - NDTV
+  On Camera, Uttarakhand Bridge Swept Away
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVVudlhwU1FDXzZZTFpXTzYzX2hUUEZrWDBtLW4yOFIzVDZnaExIa2ZCN18wUDBUNF90Z3Z4UDh5aWxTTFMzNkRkbmJ2NGk2WEpkeXpBVXBtT0tuTjlibl9mWThWa09QRW1KZ3hjY0pnRXl6b2ZjNWtxZVZ0NlhNU2RJQzRGOFlRdW90UVoyMkRLMkJKVmEzMmdPT05ReUNoQkpPUlludUZBdjR0bzJXU1JBTm3SAbwBQVVfeXFMTkZlVE40Q1dPeU5QYjd3RVBpdlNaNC1BNVlTbzB2Nk5iOFFpUXQ3bE80aC1lakRVSkZKV0c4OEhSU1kwUzQ3V3hIZTg2LWVFN3Blazczczh2dlloQnMxX0J0SmZXZC10ckhRcU9RTEVtSjU2NUFFOFNtdFVqWVJ1NUM5UGRvODhrY0N0VjFWSnpacVphaWhiejc1QnNEVjU1MC1MaHRlNUJWWHZvQ2NlaXZPdnI2Z2hOOXg0aXc?oc=5
 
-- The Mecca defence pact: A new Sunni bloc or a strategic tool against India? | India News - hindustantimes.com
-  The Mecca defence pact: A new Sunni bloc or a strategic tool against India
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxON2ZWbGdIUmpaLThJanp0NTVNbURrZ0treV9QSG8yM2FFWVRMbHlCOWhqTWY2MEJxQTZCSnRaTDY5SFVmV3ZfM2tZd2FjZXN0Q0FpR1VYNWRtWW5zMnNIQ0lXaDNaeUlScXlqSlp5cXJPYXRHUEk1MGdwOWp6eXNJTFlaQ2RaVktvS3FJbVVGb1FyRElaNnpINTRoZmo0MVFfRWZKajhJOVh6SU84WkdvMllac2I4YUZEeHh6NnlTV0VtQWZBVDZGdHUydEdyeGlJLWfSAdcBQVVfeXFMTkxUdlJ4ZWhBR1dvT1BfWDNVTi0zOTRhaVE3Vnk2UFFYMkVBSUJYM2lndEdQRU9UTV9LQXZQNGZrTS0wYUo5YllDcVFoeFRoVDZRTUdabXltcE5Bd1FYTHlNbDNFQXlXSDUxbzNwZGFhQWNUU2pkV2R4TUl0ZmlqOTNoa1NDNG9VNVF4cUpELUt4ckJTNzlCV0dnR0NLeTVvMWQ2T1hZOFEtWktqODV3d0RYeVF0U0tha2NDV0o4c2hPeUN3YmMtMkNXYVp4X0dFSjVsdmxXT00?oc=5
+- Jharkhand: Police fire tear gas at protesters seeking exam reforms - BBC
+  Jharkhand: Police fire tear
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM0JYQ2ktVXJOZlVTLThhMjhBTmk4UmtxZDBHa2J6TTFnYXMzN05tODkzei1FLVRnLU9XWFNKSEhoR0ozZ3VJVHJSOTNSSzB6ckJJamFhZW8zdw?oc=5
+
+- Protesters rally in India’s Jharkhand over alleged exam irregularities - Al Jazeera
+  Protesters rally in India’s
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGRMN1hwc3F2ZXB5SGNPNExNUU15Sk9xVTZCZTJuMFcyQkJPUmFxVVpORXJ0bm1sd2JGZTFjeFViM2FYWG5NUFhaUFB1Z3R0S09zdnBaMkdFOHZVWG9TeGJ6Z0JwMkF2WXNndzRIUjNqdXUzd1RuRS11R0RmaHpKMHpwTGJJS1J6MngtRHVsRVNET3J5XzNfalU5UWZkZXM5ZDlFcDBlQ2dHZU5Pam1F0gG0AUFVX3lxTE0wcmtCZDlUQzJNdTBEYVN1TFF0WFJaZkUtajBNSEtjNzRiaWRJbEZoY2ZqSlJKSF9jNWdVa3ZFTXZGM0NPVHNkNkNoSkJJQkFtQ2lkNUo5MEVIUVJmNzgtNkdHVUtQcUVEVU1lNVhLMlFILW05MUdHNnZ5Q015S3VvVHZaTnQwQjY2OXFSTlQwYUFZZ0JFSjA3dHctWjdUcHlHMWJ6MzJoM1dvc1c5Um16MHRmNw?oc=5
 
 - Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to be disci - The Times of India
   Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to
   🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQNUFFZmdWR2tDeUc5cXNvQWFQLW8yNnJxWF9uanlUYUNwcndpbzM4bllJZHhlUUhSVUFwd2VNMDdRbEJKajVlYlltejlDOTVLdmVXU09aVXpld09nZGFpVmROY2gzbWMtQjAybFRLd2tGdi1UWTcxVnF3UHRhaTdGd09FcjN4bXRJa2RnOU5ET2djcHlObklqczdzOGdjVkRUSU0wWlcyZi1CRGdKVi1obHVtSjdscVItdkVhUjRIa2pIX2tiVUxhVHlNemFScGlIZDdYeFhvMDJ2V29UVUQ5dXF3Z09veXVrZFotS29KRnU5b2NyUFFWVXJyU2xiZ1dNWTV5NFhPSFV2TFAyYkdRR0wxVm1WMEFpd3RpbEtUSmhJbloxeXhpajEyWEpBU05Y0gG2AkFVX3lxTFBmZFZlUVVfd0E0bGF1eW0ybUV0c3NwUld2U002S09DZHBPbFBEZElTcXM5aFk3aktkejRRcG9DNWxLTkZDSTZtOHBtNmJoRnhqSEpPN2o0eWJoZ3hZaWFDRTVkb0g3RTlJeG9TYlBfYnNuWFNXdVpYLXFWTGx2R0dxNjV5WmdZTjEzbmotNHBGZjBzOFNiZElHcTFBeDdYeFRNVkQzUDFFeE42ZGd2NEVqVXhBLVZHVXQxTTdIN3ZseDNPZXRSZ2o5dVd6dng2bktFeFVId1BOek5vWXhSRTBQcDFvZXhyWFRJOHdrU1duYmtPbGs1dklKX054bmNqbmw5THlIbDhVdHozM18zLWhyQVQ2dGhxYW9OYTFDZGJ0emdyaXFvX3YwQ0pBX1N0MnVtdDR4aUE?oc=5
 
-- Technology sector adds jobs as employer demand for tech talent remains strong, CompTIA finds - PR Newswire
-  Technology sector adds jobs as employer demand for tech talent remains strong,
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQlppZEJUSE9aRENBUUYtd2RPbHVZMXVsNktoM3BWNTJ6Vmh5S2pmak1NSWFfV3hZUWs2M3BORUhVX1NSbE9Ea3M0WEFvdnVXU0hwYUM0bWFzMEhINkY2M3BsblNvLWd4TUxQU1VxY3RqNEo1YnVDcXMxVXJtS3pkaVN6QXJzRlhGVG50cWRRTDNWUFA2dDg5Y19QZVFSZUlLVlg1aU9tek1maHJNZGRVTUVPZkhlV1dsUkFnaTJTVmVBZmZ2aTh6VnNNeC12M3l3U0ozby1mbzUtWmx5UUJxVw?oc=5
+- Bhatti Vikramarka visits QuantumScape headquarters, explores battery technology collaboration - The Hindu
+  Bhatti Vikramarka visits
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTVNTZlVlRF9STWFGRk1rUFpQNXRQWlJ0N29XQzlIUnVuYVhHbVA3MEdiODdaY0RXUFlfNndfeXBpX250STllMnpKTjlzZGI4RE9WY0ZyVnkwOHc0N1BUd0FjcURqOWNQZVd1Y05NeTlMZXJQTGx1a3lFZFdqRkhRQ1FEaEVQWTZDOHZrblFseWNlTkQyRVNwWjJKb0RQMTlvcVA4SW5nekJYZzRscjRUZTMwdlJTVmFrZ25ESlpfUUtzWlMxS3lMRTNQc01kWkNKN0ZReTlJc3d4VTRHTFp4TzQ3X05uTjd5RFBHRUQ4d2FyenPSAfoBQVVfeXFMTzExRjh4Z2pNUHNaM0tCQkJqbV8yNk5RTkY4cThSS2ZBZGhLbTFGS0Fod0JkN2JyZEZfenBoWEtBVy02NEFZU1ByUEtZdElwckpkd20xcXVkNkxRVnpiQmpZTHlyOXJLb21DQTYwRVZMRk9QYUlYOFlEb3J5cjZuaDUyRGljcjhqLW13QkxlZEpGb3BsNm1iekRHRXU5enNWZkY2aF9kQ2x4WDVXQkNKN3llTGZWekpqRlpKd1UwX0hyZUlJVkNyTlpSdGVNbkFFUlRmem9RbllwUjlBTjV4UDhjTFcxSXZJUlM4Y1BsTkRzU3VsZm05YjhuUQ?oc=5
 
 - Tech leaders say AI means less work - their staff say they work up to 90 hours a week - BBC
   Tech leaders say AI means less work - their staff say they work up to 90 hours
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aEVENWFmMDlmdlhpWmc5LVZRRmtuREs0UHZRZVZCRVZ0bWRMSWdNQlNtUGVId0k2cmJxTVpBelNyWmRmc2ktVnk1RVNIZ3hzeUhlZlZrVWR1UQ?oc=5
 
-- Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model - nytimes.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE05SWpuNEpobjJKLVlscEY3SkRCLV95X3hSUDRydzFoejg0NjlITkg2N2szcFUxcnI0V202S1dNOWRXeTdGSjEyYldVV3FMSmZjRmhyWmRmUUpjWEZrZ1R3ZzFxNHAwU1lEUzVxaXJyQkNRN19tTWdjSHF3?oc=5
+- EY Launching Unit to Keep a Lid on Artificial Intelligence Costs - Bloomberg.com
+  EY Launching Unit to Keep a Lid
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjZkdG1CVHpCbVl4dk5ULW1sb0hTaUxGaTNhOUxfTU44alhJeUF5NWRpVFR1WHRGOVpWWGxHajU3eGI1NWZDaXc0MmFtRnlRYVRuMkRmeU5VbjkyVXBPTzVOU05BT1RaeV9WOUU4RGlHWTlINjZYTGgzQVpHTXZoaktCSFo0clg3d3Q1aFMxZ3VYM252M1M5YzhvRVNhTTJRNndab2psYk84UEk2eUNiSlhrTHdWQQ?oc=5
 
-- UK announces nearly £130 million funding for zero-emission vehicle technology - Reuters
-  UK announces nearly £130 million funding for
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaW1xcXdvQ1hnWmlvT29seTF0bEk3bnpmVWJ0V2JVTmJCNW51Rl95YndDcFdQWnY2UjJWenNycGV0NUZzck40MHhaUEhXa0R0cUplOTc0eGxhOUJPZERURzZ5Q3JYc0MyaXdOWHgwR2hZSnE5M1JGN3ZQNnNxREVuSzFoWENmUEc0T2t1Wlo4NUlnR0dyblZtVDFqMUhCNEJxSzZRUHNtdjc4ZjFiRmt0NW1Wakx6NlJm?oc=5
+- These startups are chasing the next big thing in LLMs - MIT Technology Review
+  These startups are chasing the next big thing in LL
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5
+
+- Porter in no hurry to go public, says CEO Uttam Digga
+  Despite net profit quadrupling in FY26, the Tiger Global Management-backed logistics unicorn is prioritizing market expansion, EV adoption
+  🔗 https://www.livemint.com/companies/news/porter-ipo-porter-logistics-uttam-digga-11786372482935.html
+
+- Vodafone Idea adds subscribers for first time since 2018, cuts losses in Q1
+  India’s third-largest telecom operator reported a strong June quarter. It added subscribers for the first time in a quarter since its August 2018 merger
+  🔗 https://www.livemint.com/companies/company-results/vodafone-idea-adds-subscribers-for-first-time-since-2018-cuts-losses-in-q1-11786359410337.html
 
 - Elon Musk lost trillionaire status but added  ₹8,000 crore daily since July 2025: Check his 2026 net worth
   Elon Musk momentarily became the world's first trillion
@@ -52,33 +60,25 @@
   Redevelopment remains central to Mumbai’s real estate landscape. It has led to ageing residential societies being transformed into modern
   🔗 https://www.livemint.com/companies/news/raymond-realty-mumbai-redevelopment-real-estate-india-11786304432978.html
 
-- Manav Sardana buys  ₹271 crore DLF Dahlias penthouse, India’s costliest single-unit deal: Who is he?
-  The penthouse has a super area of around 17,200 sq ft.
-  🔗 https://www.livemint.com/companies/people/manav-sardana-buys-rs-271-crore-dlf-dahlias-penthouse-india-s-costliest-single-unit-deal-who-is-he-11786360709783.html
+- Zen Technologies shares to be in focus on Tuesday after company secures  ₹295 crore defence order
+  Zen Technologies secured a  ₹295 crore order from the Ministry of Defence for simulators, enhancing its order pipeline. The revenue outlook is positive as new products and Air Force training offerings are in
+  🔗 https://www.livemint.com/market/stock-market-news/zen-technologies-shares-to-be-in-focus-on-tuesday-after-company-secures-rs-295-crore-defence-order-11786381376241.html
 
-- JioMart’s Third Act: Reliance’s retail muscle meets quick commerce
-  JioMart is becoming Reliance Retail’s test of whether its enormous physical network can be
-  🔗 https://www.livemint.com/companies/news/jiomart-reliance-retail-quick-commerce-bet-11786359442491.html
+- Intel plans $15 billion share sale as turnaround rally lifts stock
+  Intel is investing heavily in new facilities and advanced packaging capabilities. The company is seeking to challenge industry leaders
+  🔗 https://www.livemint.com/market/stock-market-news/intel-plans-15-billion-share-sale-as-turnaround-rally-lifts-stock-11786381678993.html
 
-- Penny stock under  ₹10 to be in focus on Tuesday; here's why
-  A-1 Limited has received a supply order from Solar Group worth  ₹38.70 crore for acids and industrial chemicals. This order enhances revenue visibility and reinforces A
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-to-be-in-focus-on-tuesday-heres-why-11786362729114.html
+- This new-age tech stock hits over 4-year high, recovers 70% from March lows. Are you holding it?
+  One97 Communications, parent of Paytm, saw a 10% share increase to  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/paytm-share-price-hits-over-4-year-high-recovers-70-from-march-lows-are-you-holding-it-11786366609923.html
 
-- Gland Pharma Q1 Results: Net profit jumps 47% YoY to  ₹317 crore; CDMO revenue rises 20%
-  Gland Pharma's Q1 FY27 net profit grew 47% YoY to  ₹317 crore, despite a 14% sequential decline. Revenue rose 20%
-  🔗 https://www.livemint.com/market/gland-pharma-q1-results-net-profit-jumps-47-yoy-to-rs-317-crore-cdmo-revenue-rises-20-11786360033317.html
+- Nippon India Equity buys stake in Iris Clothings that has risen 250% in five years
+  The company's shares have maintained a strong winning run for over a year. The sustained rally has turned the stock into one of the biggest wealth creators.
+  🔗 https://www.livemint.com/market/stock-market-news/nippon-india-equity-buys-stake-in-iris-clothings-that-has-risen-250-in-five-years-11786372512339.html
 
-- Top Gainers &amp; Losers on 10 August: Hitachi Energy, Paytm, Titian, BSE, BEML, Lenskart among top gainers
-  On August 10, the Indian stock market traded within a narrow range amid Middle East tensions affecting oil prices. Nifty 50 saw a slight increase of 0.05%, while Sensex dipped 0.06%. Sector performance
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-10-august-hitachi-energy-paytm-titian-bse-beml-lenskart-among-top-gainers-11786356700006.html
-
-- Sensex, Nifty 50 end flat; elevated oil prices, Middle East uncertainty weigh on sentiment
-  The Sensex rose 43 points, or 0.06%, to end at 78,542. The
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-elevated-oil-prices-middle-east-uncertainty-weigh-on-sentiment-11786356194595.html
-
-- Shiprocket IPO: GMP signals over 25% listing gains; 5 key things to know from RHP
-  Shiprocket IPO, set for August 12-14, aims to raise  ₹1,617 crore. This article breaks down the key details investors must know.
-  🔗 https://www.livemint.com/market/ipo/shiprocket-ipo-gmp-signals-over-25-listing-gains-5-key-things-to-know-from-rhp-11786349923617.html
+- Wall Street slips ahead of inflation data, crude oil surges
+  The S&amp;amp;P 500 fell 0.1%, the Dow Jones Industrial Average fell
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-slips-ahead-of-inflation-data-crude-oil-surges-11786370280375.html
 
 - Meta launches Muse Glimmer as Zuckerberg calls for fewer US AI curbs to beat China
    Meta has launched Muse Glimmer, a new open-weight artificial intelligence model designed to run on a single graphics card. Chief executive Mark Zuckerberg
@@ -100,125 +100,125 @@
   The thrill of collecting vintage computers is
   🔗 https://www.livemint.com/technology/as-ai-grips-world-the-thrill-of-collecting-vintage-computers-is-growing-11786334986118.html
 
-- Iran issues new demands; Berkshire Hathaway results - what’s moving markets - Investing.com
-  Iran issues new demands; Berkshire Hathaway results
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTkyeHFNZklpS0VYVkcwNUhCWUNXMkZOc09WTHVVUGFZdEZlUnlCX0ptRGpRbGpWYVFsOFo2bWhNRlFYRnhGcm1YMVRBYmV5U2N5dEF6ckNyb1F4dF84cEpoVjVJVzVILVJuU2NJQkpHTEVVUW1JVDhFVjYzTEg4NnJ2X3ZTTGc0YXVRZzBQQWNFTVY1WGIxY2owc2ltZnpoZWJ4VmNydWM1TnQ4SWNVUXFaSkZMMzFwQjhHTFYteWtRZw?oc=5
-
-- S&P 500 futures inch higher as traders watch for Strait of Hormuz deal, inflation data: Live updates - CNBC
-  S&amp;P 500 futures inch higher as traders watch for Strait of
+- S&P 500 is little changed as traders await possible Hormuz deal, Intel shares fall: Live updates - CNBC
+  2 charts show just how insane the stock market’s August ‘crash-up’ has been so far.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5
 
-- Stock Market Today: Dow Futures Dip; Oil Prices Edge Higher — Live Updates - WSJ
-  Stock Market Today: Dow Futures Dip; Oil Prices
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNUks0Z2RkYWMzdEVvN1RCcGdEc1FpUl9pbVNPNi1HUDU1eTk1ckZzZTlOWmNldU9zM0I5c0w3ZWtDb3NsSlp1LTBuV2V6OFRhTHFtTlQzMGY2c1BNZzVWZDlPMV9qNWM3cjNqSGQ1WVQtWkltVWpqb2NYWnpiaWhKeDI4aEVWM1k?oc=5
-
-- China Unleashes $28 Trillion Capital Markets to Challenge US in AI - Bloomberg.com
-  China Unleashes $28 Trillion Capital Markets
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFdvZ2tPSDZZdVpMbUxQLXlSOGZTeHd3QlA1LXR5Y1M4d1ZlWnpIVkNRdjd2MTFmZmVGemFvYlJLUzVKeDBPUFdLUE9ENGY4RkhwaDBYY3U1V25DNHpTQUZFbVlUVXhUSnZ1TUJJbmlvNmhxZ3JOS1EyQlE5Yk9WSUhtUkd1U2ZqTzRBalVfOUlIa01ZRFZ3TVdJd09CVWRVckpaY2RxMlp5YjV6WTBMSXFZTjhLWFBLVWN5ekJ3?oc=5
-
 - Stock markets end marginally higher on spike in crude oil prices - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0xQNmF0S2I5YTJ6SnV2NDNndlFNdHdybl9FTEIwZzBnUWlWMGEtZDdSNmVoQm02NnIwTmhqT1hCa2loX0ZOUmdqbEJiSkZpaGlQYlJ1dWlkc3R5UlhpbkVMRkVyR3VrMU
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0xQNmF0S2I5YTJ6SnV2NDNndlFNdHdybl9FTEIwZzBnUWlWMGEtZDdSNmVoQm02NnIwTmhqT1hCa2loX0ZOUmdqbEJiSkZpaGlQYlJ1dWlkc3R5UlhpbkVMRkVyR3VrMUFaaWhxOGJmWS1jN254ekR3ei1kWllmVlk4dVRSbzI2NFdEY1RKSWZVdHo2N0VpUzRZZnd1bG1kRERVM1JCQmZpMEMySkJMT2JJWGluR0VxUVVLNE4taDNaWXZs0gHLAUFVX3lxTFBGUURBMzVxdGYwOVktM1NTTXM0OXBmRWZUbXFnSzRGelVUQWg2aEc5SHJqdW04RWJWSko1SHZUZ0dMRmNDOFlqZjNuYWlwMWVPWk1fd1daUC0tNFFnOTRWYW56SGFtTGhrWTZxelFwa0REX1lJdENELXpFdmdpaEJzS3RVMWFDaE9xdmpySU5UUTFFMzlGei0xakk4TWxNQWFxZ0FHV1lpNWR0RDFfdzJxTlRoWEtIMGlFMG5nbU5rdU9tYjhyblkyWnJj?oc=5
+  Stock markets end marginally higher on spike in crude oil
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0xQNmF0S2I5YTJ6SnV2NDNndlFNdHdybl9FTEIwZzBnUWlWMGEtZDdSNmVoQm02NnIwTmhqT1hCa2loX0ZOUmdqbEJiSkZpaGlQYlJ1dWlkc3R5UlhpbkVMRkVyR3VrMUFaaWhxOGJmWS1jN254ekR3ei1kWllmVlk4dVRSbzI2NFdEY1RKSWZVdHo2N0VpUzRZZnd1bG1kRERVM1JCQmZpMEMySkJMT2JJWGluR0VxUVVLNE4taDNaWXZs?oc=5
 
-- India bonds tread water ahead of US, local inflation prints
-  On Monday, Indian government bonds remained stable following last week's increases. The rise in oil prices countered some support from softer economic data from the United States.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-tread-water-ahead-of-us-local-inflation-prints/articleshow/133106277.cms
+- Markets end marginally higher on spike in crude oil prices - Rediff
+  Markets end marginally higher on spike in
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMkU4S1ROaC04QTJxTzN3bXlXdHlvZW5saEZLQldoaExzRXNadU1Hb2tuZ3llVlQ3cmExaWdSQzE4WnM4U0pCRWJabEZoWUlCckJFLTdkS2xtMUI2VEY0eG5lS29CMFp3clVwUHJleFJPQU5Sb3l5OUNLZTZSUUQ1OVZUb2E2SjJyTklqTkV4N0I3RnpSNWJzQUdPbDRFTTBEN2RrZGJFcU9SR3lsOVp2NmNJUkk3ellQMTIwYkFNNU1GOVpFR3hUZkp3YjJWeXZQYzhGZTVMMElBUQ?oc=5
 
-- Indel Money readies its biggest ever public sale of debt: Bankers
-  Indel Money is set to pursue a remarkable fundraising initiative of up to five billion rupees within this month. The bonds will have maturities ranging from 400 days to six years, boasting attractive coupon rates between nine and eleven point five
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indel-money-readies-its-biggest-ever-public-sale-of-debt-bankers/articleshow/133106095.cms
+- Ahead of Market: 10 things that will decide stock market action on Tuesday - The Economic Times
+  Ahead of Market: 10 things that will decide stock market action
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZEtVVnJCWlFkWFpIcjlHRTJQYm1MU0xGU2xpTXNrbE9hb3F2LWJIN3NPYjFHWHcycUJ0dXFmVXdMdW9fX2RMT09ybzI1MElqWnFfX29hRjh0SzAyYXVuUmZWNjN3aUVNOTRLT1RhRTc4MEQxeDFOM19mZ2xoUlhmOWsxS0hTMDhSSEFwcVdUSG5qUkg2TUowSDBGRDF6Y3EyQkpDd0tFVGNHY0hvb0hxRVUyNnY3bmpDdE9xV2V5N2dLYUtvZnEta2J1SUVKU2NMekdtNUdHbUYwbkdsUUpIctIB5gFBVV95cUxPS1NUSGxJTUhfcGNNRHpEWkZTWlpheTNDSnNIbE9VNW9jREJkRjZWV3JnMzFOYVl3NXBDVUJMdlRMdlhTT1hRY1JoODZvODN6dTlNTEtGVVIzbnJncF9LcTk5QlpNeFZwR3VwVkdCTzBIcUl6X3NHTkFxODIzcTNhNDlIaGNjVEZRd1J5ak1jXzR4MnR0TEZSWGZqMG9CTDBWX2tUajJOTzdoVC1MUHBzeUhPNXJzT2VZVmlwSUFDYzZXUmVCaDlVck5nY1FpTTRUU0NpZXBtRExSRzhNakhjSnJkREpTUQ?oc=5
 
-- Paytm among 6 stocks hitting 52-week highs; surge up to 27% in a month
-  Six BSE 100 stocks hit fresh 52-week highs on Monday. The stocks have gained up to 23
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/paytm-among-6-stocks-hitting-52-week-highs-surge-up-to-27-in-a-month/slideshow/133106021.cms
+- Dollar gains, yen weakens as markets eye US CPI - Reuters
+  Dollar gains, yen weakens
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNXbzdKZzN4SWREMXRobGFBNUZTbkhiRERVTXVER0xFMndJbzBGXzRwckk4SWJLTlJtUHNaSDN1Uy1BRUMwZDY2U3dYRVRzeWV1NTNWN3QzazF5NHZuNGUteGpmanpqQnloXzBQWk1oY1FKWWFjUWYyX0ljSF91NXhWQVl0ek5RVWhwakpoZWZTbXJFelRXN3hIZnlfMlk3elZtUEtzbU5DQWZiamc?oc=5
 
-- Dow Jones| Nasdaq | US Stock Market Today | Live: S&amp;P 500, Nasdaq futures edge higher as traders monitor Hormuz developments
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-deal-crude-oil-fed-warsh-rate-hike-intel-spacex-amd-chip-stock-price-news-10th-august-2026/liveblog/133105183.cms
+- Archer Aviation shares jump nearly 10% on deal to acquire Boeing’s Wisk, two other units
+  Archer Aviation shares surged after agreeing to acquire Boeing's Wisk Aero and two other units. This strategic acquisition grants Archer access to Boeing's autonomous-flight technology and defence capabilities. Boeing will receive a significant stake in Archer and board representation
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms
 
-- Market wrap: Titan Company, Bajaj Finance, SBI among top gainers and losers on Nifty and Sensex on Monday
-  The Nifty50 edged up 0.05%, while the Sensex gained 0.06%. Titan Company, Tata Consumer and Bajaj Finance led the gainers. SBI emerged as the biggest loser.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-titan-company-bajaj-finance-sbi-among-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/133101990.cms
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Strong first-quarter earnings provided some support, offsetting geopolitical tensions. Analysts noted softer US jobs data, shifting focus to inflation readings for rate direction.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133117226.cms
+
+- Milky Mist Dairy Food mops up ₹465 crore from anchor investors ahead of IPO
+   Milky Mist Dairy Food raised ₹465.29 crore from anchor investors ahead of its IPO opening on August 11. The IPO closes August 13, targeting a listing on August 18.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-mops-up-465-crore-from-anchor-investors-ahead-of-ipo/articleshow/133117007.cms
+
+- NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full list
+  NSE Indices announced major semi-annual rejig changes across Nifty 500, Nifty 100 and Nifty Next 50. BSE, Poly
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-indices-rejig-vodafone-idea-wipro-part-of-major-changes-in-nifty-next-50-and-nifty-100-check-full-list/articleshow/133114561.cms
+
+- Nifty rejig: IT major Wipro to move out of benchmark index after BSE gets inclusion
+  Wipro will exit India's benchmark Nifty index, while BSE Ltd will enter. These changes will take effect from September 30, 2026, after
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-rejig-it-major-wipro-to-move-out-of-benchmark-index-after-bse-gets-inclusion/articleshow/133111972.cms
 
 - Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
   Maharashtra's Ladki Bahin: Why India
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
 
-- Agni-4 Missile Fills Crucial Range Gap, Bolsters India’s Strategic Deterrence Against China - The Times of India
-  Agni-4 Missile Fills Crucial Range Gap,
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3lhU1E0M0lCaXljYXNzRDE3czg4a2NzejlVeEtKRkNkelRVbjREUm5fajVvaV8wOFVhNTFLOHFZYk05eHB2TWpuWkVhcFlsalNUNFlQWXdlaXcyd2lYdThudnl3SjhLVHpKU2pTQTZyLVBrNFo1V1FqVHFXVlBvVjUwY3pOUzNpM1ZPT01pYlhhS0pnM293S3k3Y1RqLTlKcndLSWp0YVBMc3pPcWN2d20wZVdTZmlEbjhpUzRQcERVc0E4ZzA0RmhRWWR1SWJHMUlkUmlQczgzMmxXRlJRSENLelJ1NDluU3NIOFVtcDhqY1XSAfgBQVVfeXFMUEF3bFVaTnhuR1hkeW5GaWlzQk5mVFVMWGVOMEx4d1RFZUJtd2FFLVpnREQ3MTdHQm1OVGk4ckYxUnllT0lfMlRJWF9ZaVJXRHZGbUdnSmNEZVZYNTJEbzRvTmVaaWpuUHc3ZVdjUjdTemJHbjdWY1o2VGJTVWZnZzVXSE8tWUFXd01FZVFlRjJqSzYxaEtCMzZLd2hKSEVrb2EzeVdHNXhwOVBmRlNNY2NTcGp2ZVNqZjNiSzNqb2x3NXlmYjVwNkNKaHlDRDNDQVBCcjYyNkNOUGszRXVPS1dNLVppWVNkRjhjaDdFZU4ySUluUWRWamQ?oc=5
-
 - China’s media slams India’s move of formally naming 27 places in Arunachal Pradesh - The Hindu
   China’s media slams India's move of formally naming
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVlOMUkyWlYxZHpsSlJTSHY4eTZrVWFRckpOdFFGMmlRQmVEa01GX2NfMzhLRTRPX0hoci1KSFhobUFRczg0bXFmT2NibW1QTHgya0VqeFh2Zm9Eb1E1bVpma0pmVS1mWl94RWE0LXhFelJnTXhOckxsV1M4WmlZclJLWVZBU2pGTnQwZndxRlVyT0hDRXcteGlRZGxOTlFMeU1iUXlHbWIzeDRzVjlPckp5WjZmemhXSjJSLWZvY0xnVVdheDgxLUYyR2pOWnhYN0840gHaAUFVX3lxTE8yejFlSk51MDVTclNlR0o3ZE00SndkLTlWWU1Gemx2TmtFZlJ4c2RHWDQ1X01LckFpamZmMzFLd1V0SVJFXy0wYU00Z2JDUnhCZEhuNUJzaVdUOEtacHhWY0lZZnBXZnRzUlJUSTFYUUZQQ19aOEhIdFhmNkFiSFZzem5RcS0ya2dLTHNFZnV6QVpVRHRqcUoyZWU5a1NScjNzaXBLWEhDbGE5R3ZtaXlwM09ackVQbWxuOFNKU180aVZpRmxyWmRtbDBiVDNBaXV3U05ER0JTNWdR?oc=5
 
-- India Counters China, Maps 27 Places In Arunachal Using Official Names - NDTV
-  India Counters China, Maps 27 Places In
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmxScUx5VU9wWkVTSVN5Z0ZlbUVLVjduRGNKNE1JVFR2RUtVbllNQzFJMmJzZjBnWXlWb3ZJUnF6ZEhKcmNJQjhYMWdaR2Z1bmFDNXQtSUMwb1JQejVQdm9hSGdCbmR6RzVGZnRPbG0xN0VRLU90bG9PaUV1dmZpUjh0QnpQOC16NlNDVzlhc2NpNllrcjJqMElWOFVYOE1Ydk9oUWhZMTVMWWxGaHlr0gG3AUFVX3lxTE4yNTNWM2pETXNXUU53bXM2c1EyR2p5VDVGVkQ0ZzFTclc2cXI2dGJObVFvMURBekgwRTJCcF9QUUlrdmVIaTdicDlzelhCN2o4ZHFKdGp1eFZOU1Rsd29ELWJqaWdkTDd1NXhiV01vbHBaUVJteW9lajVvYW00OTZpYmpSUG9LV044ejhDaDdodTZGdzEzalFULWNTMEl4WERhZXpzTzE1MGw0d04xV3R2Q3Q3ZzU0bw?oc=5
+- On Camera, Uttarakhand Bridge Swept Away In Seconds Due To Strong Currents - NDTV
+  On Camera, Uttarakhand Bridge Swept Away
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVVudlhwU1FDXzZZTFpXTzYzX2hUUEZrWDBtLW4yOFIzVDZnaExIa2ZCN18wUDBUNF90Z3Z4UDh5aWxTTFMzNkRkbmJ2NGk2WEpkeXpBVXBtT0tuTjlibl9mWThWa09QRW1KZ3hjY0pnRXl6b2ZjNWtxZVZ0NlhNU2RJQzRGOFlRdW90UVoyMkRLMkJKVmEzMmdPT05ReUNoQkpPUlludUZBdjR0bzJXU1JBTm3SAbwBQVVfeXFMTkZlVE40Q1dPeU5QYjd3RVBpdlNaNC1BNVlTbzB2Nk5iOFFpUXQ3bE80aC1lakRVSkZKV0c4OEhSU1kwUzQ3V3hIZTg2LWVFN3Blazczczh2dlloQnMxX0J0SmZXZC10ckhRcU9RTEVtSjU2NUFFOFNtdFVqWVJ1NUM5UGRvODhrY0N0VjFWSnpacVphaWhiejc1QnNEVjU1MC1MaHRlNUJWWHZvQ2NlaXZPdnI2Z2hOOXg0aXc?oc=5
 
-- The Mecca defence pact: A new Sunni bloc or a strategic tool against India? | India News - hindustantimes.com
-  The Mecca defence pact: A new Sunni bloc or a strategic tool against India
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxON2ZWbGdIUmpaLThJanp0NTVNbURrZ0treV9QSG8yM2FFWVRMbHlCOWhqTWY2MEJxQTZCSnRaTDY5SFVmV3ZfM2tZd2FjZXN0Q0FpR1VYNWRtWW5zMnNIQ0lXaDNaeUlScXlqSlp5cXJPYXRHUEk1MGdwOWp6eXNJTFlaQ2RaVktvS3FJbVVGb1FyRElaNnpINTRoZmo0MVFfRWZKajhJOVh6SU84WkdvMllac2I4YUZEeHh6NnlTV0VtQWZBVDZGdHUydEdyeGlJLWfSAdcBQVVfeXFMTkxUdlJ4ZWhBR1dvT1BfWDNVTi0zOTRhaVE3Vnk2UFFYMkVBSUJYM2lndEdQRU9UTV9LQXZQNGZrTS0wYUo5YllDcVFoeFRoVDZRTUdabXltcE5Bd1FYTHlNbDNFQXlXSDUxbzNwZGFhQWNUU2pkV2R4TUl0ZmlqOTNoa1NDNG9VNVF4cUpELUt4ckJTNzlCV0dnR0NLeTVvMWQ2T1hZOFEtWktqODV3d0RYeVF0U0tha2NDV0o4c2hPeUN3YmMtMkNXYVp4X0dFSjVsdmxXT00?oc=5
+- Jharkhand: Police fire tear gas at protesters seeking exam reforms - BBC
+  Jharkhand: Police fire tear
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM0JYQ2ktVXJOZlVTLThhMjhBTmk4UmtxZDBHa2J6TTFnYXMzN05tODkzei1FLVRnLU9XWFNKSEhoR0ozZ3VJVHJSOTNSSzB6ckJJamFhZW8zdw?oc=5
 
-- Zostel Withdraws Delhi HC Plea Seeking SEBI Review Of OYO’s IPO Disclosures
-  Budget hostel chain Zostel has withdrawn its plea seeking directions from the Delhi High Court (HC) to the Securities and&#8230;
-  🔗 https://inc42.com/buzz/zostel-withdraws-delhi-hc-plea-seeking-sebi-review-of-oyos-ipo-disclosures/
+- Protesters rally in India’s Jharkhand over alleged exam irregularities - Al Jazeera
+  Protesters rally in India’s
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGRMN1hwc3F2ZXB5SGNPNExNUU15Sk9xVTZCZTJuMFcyQkJPUmFxVVpORXJ0bm1sd2JGZTFjeFViM2FYWG5NUFhaUFB1Z3R0S09zdnBaMkdFOHZVWG9TeGJ6Z0JwMkF2WXNndzRIUjNqdXUzd1RuRS11R0RmaHpKMHpwTGJJS1J6MngtRHVsRVNET3J5XzNfalU5UWZkZXM5ZDlFcDBlQ2dHZU5Pam1F0gG0AUFVX3lxTE0wcmtCZDlUQzJNdTBEYVN1TFF0WFJaZkUtajBNSEtjNzRiaWRJbEZoY2ZqSlJKSF9jNWdVa3ZFTXZGM0NPVHNkNkNoSkJJQkFtQ2lkNUo5MEVIUVJmNzgtNkdHVUtQcUVEVU1lNVhLMlFILW05MUdHNnZ5Q015S3VvVHZaTnQwQjY2OXFSTlQwYUFZZ0JFSjA3dHctWjdUcHlHMWJ6MzJoM1dvc1c5Um16MHRmNw?oc=5
 
-- Cars24 Launches Enterprise AI Company Deployment Inc, Invests $5 Mn
-  Cars24 announces the launch of an independent enterprise AI company, Deployment Inc.
-  🔗 https://inc42.com/buzz/cars24-launches-enterprise-ai-company-deployment-inc-invests-5-mn/
+- Eternal’s Enterprise AI Turn: Why The Zomato Parent Spun Out Nugget
+  Eternal&#8217;s AI venture Nugget has quietly pulled off a surprise even by Blinkit or Zomato&#
+  🔗 https://inc42.com/features/eternals-enterprise-ai-turn-why-the-zomato-parent-spun-out-nugget/
 
-- Bernstein’s Bullish Outlook Sends Paytm To Fresh 52-Week High
-  Shares of Paytm ended today&#8217;s trading session 9.9% higher at ₹1584.95 apiece
-  🔗 https://inc42.com/buzz/bernsteins-bullish-outlook-sends-paytm-to-fresh-52-week-high/
+- Parliament Clears Taxation Bill; FM Re-assures No MDR On P2P UPI Payments
+  In what could pave the way for a merchant discount rate (MDR) on certain UPI payments, the Parliament today cleared the bill.
+  🔗 https://inc42.com/buzz/parliament-clears-taxation-bill-fm-re-assures-no-mdr-on-p2p-upi-payments/
 
-- LEAP India IPO: Issue Subscribed 42% On Day 2 So Far
-  Investors placed bids for 4.77&#8230; on the second day of bidding.
+- [Update] LEAP India IPO: Issue Subscribed 49% On Day 2
+  Leap India’s IPO was subscribed 49% at the end of second day.
   🔗 https://inc42.com/buzz/leap-india-ipo-issue-subscribed-42-on-day-2-so-far/
 
-- Info Edge Q1: PAT Jumps 43% YoY To ₹490 Cr, Revenue Increases 11%
-  Naukri parent Info Edge net profit for the first quarter of FY27 (Q1 FY27) jumped 43% to ₹490.1 Cr from&#8230;.
-  🔗 https://inc42.com/buzz/info-edge-q1-pat-jumps-43-yoy-to-%e2%82%b9490-cr-revenue-increases-11/
+- ideaForge Slips Into The Red In Q1, Reports ₹2.3 Cr Loss
+  Dronetech major ideaForge once again slipped into the red in the June 2026 quarter.
+  🔗 https://inc42.com/buzz/ideaforge-slips-into-the-red-in-q1-reports-%e2%82%b92-3-cr-loss/
+
+- Apple Pay Likely To Launch In India By October: Report
+  Apple Pay is likely to launch in India by late September or October, giving the iPhone maker a foothold in India.
+  🔗 https://inc42.com/buzz/apple-pay-likely-to-launch-in-india-by-october-report/
 
 - Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
   Maharashtra's Ladki Bahin: Why India
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
 
-- Agni-4 Missile Fills Crucial Range Gap, Bolsters India’s Strategic Deterrence Against China - The Times of India
-  Agni-4 Missile Fills Crucial Range Gap,
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3lhU1E0M0lCaXljYXNzRDE3czg4a2NzejlVeEtKRkNkelRVbjREUm5fajVvaV8wOFVhNTFLOHFZYk05eHB2TWpuWkVhcFlsalNUNFlQWXdlaXcyd2lYdThudnl3SjhLVHpKU2pTQTZyLVBrNFo1V1FqVHFXVlBvVjUwY3pOUzNpM1ZPT01pYlhhS0pnM293S3k3Y1RqLTlKcndLSWp0YVBMc3pPcWN2d20wZVdTZmlEbjhpUzRQcERVc0E4ZzA0RmhRWWR1SWJHMUlkUmlQczgzMmxXRlJRSENLelJ1NDluU3NIOFVtcDhqY1XSAfgBQVVfeXFMUEF3bFVaTnhuR1hkeW5GaWlzQk5mVFVMWGVOMEx4d1RFZUJtd2FFLVpnREQ3MTdHQm1OVGk4ckYxUnllT0lfMlRJWF9ZaVJXRHZGbUdnSmNEZVZYNTJEbzRvTmVaaWpuUHc3ZVdjUjdTemJHbjdWY1o2VGJTVWZnZzVXSE8tWUFXd01FZVFlRjJqSzYxaEtCMzZLd2hKSEVrb2EzeVdHNXhwOVBmRlNNY2NTcGp2ZVNqZjNiSzNqb2x3NXlmYjVwNkNKaHlDRDNDQVBCcjYyNkNOUGszRXVPS1dNLVppWVNkRjhjaDdFZU4ySUluUWRWamQ?oc=5
-
 - China’s media slams India’s move of formally naming 27 places in Arunachal Pradesh - The Hindu
   China’s media slams India's move of formally naming
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVlOMUkyWlYxZHpsSlJTSHY4eTZrVWFRckpOdFFGMmlRQmVEa01GX2NfMzhLRTRPX0hoci1KSFhobUFRczg0bXFmT2NibW1QTHgya0VqeFh2Zm9Eb1E1bVpma0pmVS1mWl94RWE0LXhFelJnTXhOckxsV1M4WmlZclJLWVZBU2pGTnQwZndxRlVyT0hDRXcteGlRZGxOTlFMeU1iUXlHbWIzeDRzVjlPckp5WjZmemhXSjJSLWZvY0xnVVdheDgxLUYyR2pOWnhYN0840gHaAUFVX3lxTE8yejFlSk51MDVTclNlR0o3ZE00SndkLTlWWU1Gemx2TmtFZlJ4c2RHWDQ1X01LckFpamZmMzFLd1V0SVJFXy0wYU00Z2JDUnhCZEhuNUJzaVdUOEtacHhWY0lZZnBXZnRzUlJUSTFYUUZQQ19aOEhIdFhmNkFiSFZzem5RcS0ya2dLTHNFZnV6QVpVRHRqcUoyZWU5a1NScjNzaXBLWEhDbGE5R3ZtaXlwM09ackVQbWxuOFNKU180aVZpRmxyWmRtbDBiVDNBaXV3U05ER0JTNWdR?oc=5
 
-- India Counters China, Maps 27 Places In Arunachal Using Official Names - NDTV
-  India Counters China, Maps 27 Places In
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmxScUx5VU9wWkVTSVN5Z0ZlbUVLVjduRGNKNE1JVFR2RUtVbllNQzFJMmJzZjBnWXlWb3ZJUnF6ZEhKcmNJQjhYMWdaR2Z1bmFDNXQtSUMwb1JQejVQdm9hSGdCbmR6RzVGZnRPbG0xN0VRLU90bG9PaUV1dmZpUjh0QnpQOC16NlNDVzlhc2NpNllrcjJqMElWOFVYOE1Ydk9oUWhZMTVMWWxGaHlr0gG3AUFVX3lxTE4yNTNWM2pETXNXUU53bXM2c1EyR2p5VDVGVkQ0ZzFTclc2cXI2dGJObVFvMURBekgwRTJCcF9QUUlrdmVIaTdicDlzelhCN2o4ZHFKdGp1eFZOU1Rsd29ELWJqaWdkTDd1NXhiV01vbHBaUVJteW9lajVvYW00OTZpYmpSUG9LV044ejhDaDdodTZGdzEzalFULWNTMEl4WERhZXpzTzE1MGw0d04xV3R2Q3Q3ZzU0bw?oc=5
+- On Camera, Uttarakhand Bridge Swept Away In Seconds Due To Strong Currents - NDTV
+  On Camera, Uttarakhand Bridge Swept Away
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVVudlhwU1FDXzZZTFpXTzYzX2hUUEZrWDBtLW4yOFIzVDZnaExIa2ZCN18wUDBUNF90Z3Z4UDh5aWxTTFMzNkRkbmJ2NGk2WEpkeXpBVXBtT0tuTjlibl9mWThWa09QRW1KZ3hjY0pnRXl6b2ZjNWtxZVZ0NlhNU2RJQzRGOFlRdW90UVoyMkRLMkJKVmEzMmdPT05ReUNoQkpPUlludUZBdjR0bzJXU1JBTm3SAbwBQVVfeXFMTkZlVE40Q1dPeU5QYjd3RVBpdlNaNC1BNVlTbzB2Nk5iOFFpUXQ3bE80aC1lakRVSkZKV0c4OEhSU1kwUzQ3V3hIZTg2LWVFN3Blazczczh2dlloQnMxX0J0SmZXZC10ckhRcU9RTEVtSjU2NUFFOFNtdFVqWVJ1NUM5UGRvODhrY0N0VjFWSnpacVphaWhiejc1QnNEVjU1MC1MaHRlNUJWWHZvQ2NlaXZPdnI2Z2hOOXg0aXc?oc=5
 
-- The Mecca defence pact: A new Sunni bloc or a strategic tool against India? | India News - hindustantimes.com
-  The Mecca defence pact: A new Sunni bloc or a strategic tool against India
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxON2ZWbGdIUmpaLThJanp0NTVNbURrZ0treV9QSG8yM2FFWVRMbHlCOWhqTWY2MEJxQTZCSnRaTDY5SFVmV3ZfM2tZd2FjZXN0Q0FpR1VYNWRtWW5zMnNIQ0lXaDNaeUlScXlqSlp5cXJPYXRHUEk1MGdwOWp6eXNJTFlaQ2RaVktvS3FJbVVGb1FyRElaNnpINTRoZmo0MVFfRWZKajhJOVh6SU84WkdvMllac2I4YUZEeHh6NnlTV0VtQWZBVDZGdHUydEdyeGlJLWfSAdcBQVVfeXFMTkxUdlJ4ZWhBR1dvT1BfWDNVTi0zOTRhaVE3Vnk2UFFYMkVBSUJYM2lndEdQRU9UTV9LQXZQNGZrTS0wYUo5YllDcVFoeFRoVDZRTUdabXltcE5Bd1FYTHlNbDNFQXlXSDUxbzNwZGFhQWNUU2pkV2R4TUl0ZmlqOTNoa1NDNG9VNVF4cUpELUt4ckJTNzlCV0dnR0NLeTVvMWQ2T1hZOFEtWktqODV3d0RYeVF0U0tha2NDV0o4c2hPeUN3YmMtMkNXYVp4X0dFSjVsdmxXT00?oc=5
+- Jharkhand: Police fire tear gas at protesters seeking exam reforms - BBC
+  Jharkhand: Police fire tear
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM0JYQ2ktVXJOZlVTLThhMjhBTmk4UmtxZDBHa2J6TTFnYXMzN05tODkzei1FLVRnLU9XWFNKSEhoR0ozZ3VJVHJSOTNSSzB6ckJJamFhZW8zdw?oc=5
+
+- Protesters rally in India’s Jharkhand over alleged exam irregularities - Al Jazeera
+  Protesters rally in India’s
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGRMN1hwc3F2ZXB5SGNPNExNUU15Sk9xVTZCZTJuMFcyQkJPUmFxVVpORXJ0bm1sd2JGZTFjeFViM2FYWG5NUFhaUFB1Z3R0S09zdnBaMkdFOHZVWG9TeGJ6Z0JwMkF2WXNndzRIUjNqdXUzd1RuRS11R0RmaHpKMHpwTGJJS1J6MngtRHVsRVNET3J5XzNfalU5UWZkZXM5ZDlFcDBlQ2dHZU5Pam1F0gG0AUFVX3lxTE0wcmtCZDlUQzJNdTBEYVN1TFF0WFJaZkUtajBNSEtjNzRiaWRJbEZoY2ZqSlJKSF9jNWdVa3ZFTXZGM0NPVHNkNkNoSkJJQkFtQ2lkNUo5MEVIUVJmNzgtNkdHVUtQcUVEVU1lNVhLMlFILW05MUdHNnZ5Q015S3VvVHZaTnQwQjY2OXFSTlQwYUFZZ0JFSjA3dHctWjdUcHlHMWJ6MzJoM1dvc1c5Um16MHRmNw?oc=5
 
 - Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
   Maharashtra's Ladki Bahin: Why India
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
 
-- Agni-4 Missile Fills Crucial Range Gap, Bolsters India’s Strategic Deterrence Against China - The Times of India
-  Agni-4 Missile Fills Crucial Range Gap,
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT3lhU1E0M0lCaXljYXNzRDE3czg4a2NzejlVeEtKRkNkelRVbjREUm5fajVvaV8wOFVhNTFLOHFZYk05eHB2TWpuWkVhcFlsalNUNFlQWXdlaXcyd2lYdThudnl3SjhLVHpKU2pTQTZyLVBrNFo1V1FqVHFXVlBvVjUwY3pOUzNpM1ZPT01pYlhhS0pnM293S3k3Y1RqLTlKcndLSWp0YVBMc3pPcWN2d20wZVdTZmlEbjhpUzRQcERVc0E4ZzA0RmhRWWR1SWJHMUlkUmlQczgzMmxXRlJRSENLelJ1NDluU3NIOFVtcDhqY1XSAfgBQVVfeXFMUEF3bFVaTnhuR1hkeW5GaWlzQk5mVFVMWGVOMEx4d1RFZUJtd2FFLVpnREQ3MTdHQm1OVGk4ckYxUnllT0lfMlRJWF9ZaVJXRHZGbUdnSmNEZVZYNTJEbzRvTmVaaWpuUHc3ZVdjUjdTemJHbjdWY1o2VGJTVWZnZzVXSE8tWUFXd01FZVFlRjJqSzYxaEtCMzZLd2hKSEVrb2EzeVdHNXhwOVBmRlNNY2NTcGp2ZVNqZjNiSzNqb2x3NXlmYjVwNkNKaHlDRDNDQVBCcjYyNkNOUGszRXVPS1dNLVppWVNkRjhjaDdFZU4ySUluUWRWamQ?oc=5
-
 - China’s media slams India’s move of formally naming 27 places in Arunachal Pradesh - The Hindu
   China’s media slams India's move of formally naming
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVlOMUkyWlYxZHpsSlJTSHY4eTZrVWFRckpOdFFGMmlRQmVEa01GX2NfMzhLRTRPX0hoci1KSFhobUFRczg0bXFmT2NibW1QTHgya0VqeFh2Zm9Eb1E1bVpma0pmVS1mWl94RWE0LXhFelJnTXhOckxsV1M4WmlZclJLWVZBU2pGTnQwZndxRlVyT0hDRXcteGlRZGxOTlFMeU1iUXlHbWIzeDRzVjlPckp5WjZmemhXSjJSLWZvY0xnVVdheDgxLUYyR2pOWnhYN0840gHaAUFVX3lxTE8yejFlSk51MDVTclNlR0o3ZE00SndkLTlWWU1Gemx2TmtFZlJ4c2RHWDQ1X01LckFpamZmMzFLd1V0SVJFXy0wYU00Z2JDUnhCZEhuNUJzaVdUOEtacHhWY0lZZnBXZnRzUlJUSTFYUUZQQ19aOEhIdFhmNkFiSFZzem5RcS0ya2dLTHNFZnV6QVpVRHRqcUoyZWU5a1NScjNzaXBLWEhDbGE5R3ZtaXlwM09ackVQbWxuOFNKU180aVZpRmxyWmRtbDBiVDNBaXV3U05ER0JTNWdR?oc=5
 
-- India Counters China, Maps 27 Places In Arunachal Using Official Names - NDTV
-  India Counters China, Maps 27 Places In
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmxScUx5VU9wWkVTSVN5Z0ZlbUVLVjduRGNKNE1JVFR2RUtVbllNQzFJMmJzZjBnWXlWb3ZJUnF6ZEhKcmNJQjhYMWdaR2Z1bmFDNXQtSUMwb1JQejVQdm9hSGdCbmR6RzVGZnRPbG0xN0VRLU90bG9PaUV1dmZpUjh0QnpQOC16NlNDVzlhc2NpNllrcjJqMElWOFVYOE1Ydk9oUWhZMTVMWWxGaHlr0gG3AUFVX3lxTE4yNTNWM2pETXNXUU53bXM2c1EyR2p5VDVGVkQ0ZzFTclc2cXI2dGJObVFvMURBekgwRTJCcF9QUUlrdmVIaTdicDlzelhCN2o4ZHFKdGp1eFZOU1Rsd29ELWJqaWdkTDd1NXhiV01vbHBaUVJteW9lajVvYW00OTZpYmpSUG9LV044ejhDaDdodTZGdzEzalFULWNTMEl4WERhZXpzTzE1MGw0d04xV3R2Q3Q3ZzU0bw?oc=5
+- On Camera, Uttarakhand Bridge Swept Away In Seconds Due To Strong Currents - NDTV
+  On Camera, Uttarakhand Bridge Swept Away
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVVudlhwU1FDXzZZTFpXTzYzX2hUUEZrWDBtLW4yOFIzVDZnaExIa2ZCN18wUDBUNF90Z3Z4UDh5aWxTTFMzNkRkbmJ2NGk2WEpkeXpBVXBtT0tuTjlibl9mWThWa09QRW1KZ3hjY0pnRXl6b2ZjNWtxZVZ0NlhNU2RJQzRGOFlRdW90UVoyMkRLMkJKVmEzMmdPT05ReUNoQkpPUlludUZBdjR0bzJXU1JBTm3SAbwBQVVfeXFMTkZlVE40Q1dPeU5QYjd3RVBpdlNaNC1BNVlTbzB2Nk5iOFFpUXQ3bE80aC1lakRVSkZKV0c4OEhSU1kwUzQ3V3hIZTg2LWVFN3Blazczczh2dlloQnMxX0J0SmZXZC10ckhRcU9RTEVtSjU2NUFFOFNtdFVqWVJ1NUM5UGRvODhrY0N0VjFWSnpacVphaWhiejc1QnNEVjU1MC1MaHRlNUJWWHZvQ2NlaXZPdnI2Z2hOOXg0aXc?oc=5
 
-- The Mecca defence pact: A new Sunni bloc or a strategic tool against India? | India News - hindustantimes.com
-  The Mecca defence pact: A new Sunni bloc or a strategic tool against India
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxON2ZWbGdIUmpaLThJanp0NTVNbURrZ0treV9QSG8yM2FFWVRMbHlCOWhqTWY2MEJxQTZCSnRaTDY5SFVmV3ZfM2tZd2FjZXN0Q0FpR1VYNWRtWW5zMnNIQ0lXaDNaeUlScXlqSlp5cXJPYXRHUEk1MGdwOWp6eXNJTFlaQ2RaVktvS3FJbVVGb1FyRElaNnpINTRoZmo0MVFfRWZKajhJOVh6SU84WkdvMllac2I4YUZEeHh6NnlTV0VtQWZBVDZGdHUydEdyeGlJLWfSAdcBQVVfeXFMTkxUdlJ4ZWhBR1dvT1BfWDNVTi0zOTRhaVE3Vnk2UFFYMkVBSUJYM2lndEdQRU9UTV9LQXZQNGZrTS0wYUo5YllDcVFoeFRoVDZRTUdabXltcE5Bd1FYTHlNbDNFQXlXSDUxbzNwZGFhQWNUU2pkV2R4TUl0ZmlqOTNoa1NDNG9VNVF4cUpELUt4ckJTNzlCV0dnR0NLeTVvMWQ2T1hZOFEtWktqODV3d0RYeVF0U0tha2NDV0o4c2hPeUN3YmMtMkNXYVp4X0dFSjVsdmxXT00?oc=5
+- Jharkhand: Police fire tear gas at protesters seeking exam reforms - BBC
+  Jharkhand: Police fire tear
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OM0JYQ2ktVXJOZlVTLThhMjhBTmk4UmtxZDBHa2J6TTFnYXMzN05tODkzei1FLVRnLU9XWFNKSEhoR0ozZ3VJVHJSOTNSSzB6ckJJamFhZW8zdw?oc=5
+
+- Protesters rally in India’s Jharkhand over alleged exam irregularities - Al Jazeera
+  Protesters rally in India’s
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGRMN1hwc3F2ZXB5SGNPNExNUU15Sk9xVTZCZTJuMFcyQkJPUmFxVVpORXJ0bm1sd2JGZTFjeFViM2FYWG5NUFhaUFB1Z3R0S09zdnBaMkdFOHZVWG9TeGJ6Z0JwMkF2WXNndzRIUjNqdXUzd1RuRS11R0RmaHpKMHpwTGJJS1J6MngtRHVsRVNET3J5XzNfalU5UWZkZXM5ZDlFcDBlQ2dHZU5Pam1F0gG0AUFVX3lxTE0wcmtCZDlUQzJNdTBEYVN1TFF0WFJaZkUtajBNSEtjNzRiaWRJbEZoY2ZqSlJKSF9jNWdVa3ZFTXZGM0NPVHNkNkNoSkJJQkFtQ2lkNUo5MEVIUVJmNzgtNkdHVUtQcUVEVU1lNVhLMlFILW05MUdHNnZ5Q015S3VvVHZaTnQwQjY2OXFSTlQwYUFZZ0JFSjA3dHctWjdUcHlHMWJ6MzJoM1dvc1c5Um16MHRmNw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-10 12:58:36 UTC_
+_Last updated: 2026-08-10 18:52:52 UTC_
