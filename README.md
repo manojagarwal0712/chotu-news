@@ -4,81 +4,85 @@
   Canada Deports Over 3,000 Indian Nationals In
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNM01pZGhHWG52RjlWUXNaZTZGdXN3ODQtOHA5OS0xb0JjTE9kVG9JWk1qVlpPQlJlVFNzaGxGUkxxWlNERzM3aF9zVzZwTGY4UHFTT01TVWNERlY1djMxR1ZtaDdSYWx2cEsxRDQ5dFdtclRLdWktQ1ZCTDNFbEpORjNVZzJJSk1wTGxORGZrSDlOTjFMZlRuMFZHdjhWZjFRbXZZZUlvcVpxSmhpb0ZzdmNB0gG6AUFVX3lxTE5WRDVtT2JERlYtbTZHTXpCaGtCSFpRMnRyN2pRckRpNlNmMFhnN3BmdDgwMWNkMk9aSWJKdUxpWXFjcHF3Y1FyMm93S0NaU0k5VXF6NEVLNDR1cmlwWTVKcG1VQmV4OHNQbkhuX3Y4VEJDcXdJSmZvVGJzUHRiM2JZSXRGNVhKVWQwTHFPMi1MR21vdnZIb0pMUXhCb1RHdmxyd2hlalFIdjFYbUd5eS1qQjAxZ3FnYUtKQQ?oc=5
 
-- Play Area Inaugurated At Indian Visa Centre In Bangladesh Capital - NDTV
-  Play Area Inaugurated At Indian Visa
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnhMcGs2NjY1Y2RnWkR0eDY0ajVDRnJVYzdlTE56dlJ6T0RsU1dFR0tYY2VUd0RQQ1BzbGM0MVVveHpjMWJvRWpEVEh5YWpmUXFlT1lKT0dZNW1xejZ6UFdsZHVjN05kTVRkcDRhRzlBbElQNl9NUkdoSXcxY2FBNV84aTJMRGVMR3JtVWJiTHcxWUYyeWlta0tkbGNGaWtYa1RHbVFVRUFKUdIBsgFBVV95cUxOMzlZY0lJdnduV2tseDVEUzU2ODFwdkN4dkREQzFPQVNNUlhHU0tKZW1WU0EzM3VDVXhRSC1OTldsM29SWG9vbEFvVXUyVFdqeHB4b3Rha0wyOGtyUEVqVHlKa1JjV2Rpa0oteVl3SUdCRWRaVGJSYTdTaHRyMkNTTklCS2NLNldLQXZEVVFjbFN6b0dHdk1PNzUyV2NXQUU5TmkzamV6M0tXOUJoMjBmTnZB?oc=5
-
 - The making of Auqib Nabi: Kashmir's hardships to India's Test cricket squad - BBC
   The making of Auqib Nabi: Kashmir
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSzY2OFVES0EyUFF6MDIxQzllXzY1c1I1dlkwV1FwMDNkWDNENERKMTc2cWVIQkJkWnhNMTVvS29FaTc0SDJjNEV4UU5pY19Udk0zWmVKVzZlZw?oc=5
 
-- Air India Pilot Likely Failed Dope Test After Turbulence-Hit Flight: Sources - NDTV
-  Air India Pilot Likely Failed Dope Test After
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3BObWNfSzEyRjBxWXJPOWQ3djQ3S0NoTEJFWDNyaEg5SDV4N2tUTE1sYnROTGxxY1NKOGMzRnZ2U2MyN0NhY3NCUmkzYlREX1ZySzFyd0hvdXh3QzhTWTNVUk56RXAwenhMUC1USzNtakRfcVgxWFZRWUdXV0IxU0tSc003MWxuX0VpLS14d2FfNVEyVktGWGp2clNFQVhQUWcxd2syLTk2RV80d2RzR2MtVXNBdFnSAb8BQVVfeXFMUHNaeTNlWE91RVZSODM1S1hVMjRfWjdrcXdJSWxlODgtZ0lwRjlLRDZKeHdTdFZ6R1lBVlBhWlVyUkdCN3BJR2lhaER3QnBXVXRsdjhiUFgtQ08wTndMdm42WmZQTzJham1YYjUyNC1hRHVmM3M3eXFHLURMVHVuclpnNk92b0MwMjVqWC1KbzFLN1A0OG1Za2tYdHJFdDBYOVl2MTVzUGU3cEF3TUdZNktQNG5LYVp2N250Ml83Q0U?oc=5
+- Census 2027: Ladakh to lead Independent India’s first caste enumeration - The Hindu
+  Census 2027: Ladakh to lead
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXVpUEVmdTFxUDFpYnZRSzdCWGJJMHJOX2otem9PRl9jTDRucDlPNEVRLXV0UkVZQWpONFhUbUxjUGtqQ0k4YzZ6RGVhbk1tbDh5ZkRRMHRRYzVEN0pvaDlJdEVLTTVpVEFCZXdNUjdUaGd3ZmlSVkRBOUdzT2NIZ0JSQ3VMVzR3YW5aTWxIcVlhZEF4bU9JMzlKU0JXd0tNWncwajc1VXBTekJLbUt4V3hPMDdEQkRyREUzZ3lBY3diWXV1QnhFQjRIWdIB0gFBVV95cUxPTjVIZWFTVHRpUnNDTWtXcGExMWVuS2h0WUhzeHc2WlBnVWt4TXBkaG1NLWhlb2R0a0czU1RBM2lnbTZXZkp2ckdQT1BjNW1yVXdFV254WmdEOWw0WjhYQ3JqWU16ejdaZzVsbDRJTTRHZWxCRF9tM3RGcnhXZ2d1TXlLaUhtalpvTUdiQ2gxTXYxT0pmRGZWdEZUUW1ORmY3cFJLdktmZkFIOEdnYWIzNG01OUtKLXp5aThBeGtubjF1eUd4UExKNXQ1Z3hYWk9wWlE?oc=5
 
-- Air India pilot's psychoactive substance test requires confirmation after altitude-loss incident - The Hindu
-  Air India pilot's psychoactive substance test requires confirmation
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbUNGMGtLS3lpTXdPci02QkgtdS1KUzFCNzFSV0I2NDVHVTlIbGpodGFTN0dLSE13RG9IOFB4TUZ6QzM3anFwUHh5ZGpQb08wNGw0OHluQ0k4amdzN2R1TlZCQm00bjBpbHhtZUtVY3hUMlo0bVpqREtITl9ONFZUa0d0SXdzVjlrRU02U18zNEVRTWZCUHk0cGlaLVpMeUlVSnZlZ09Pb0JOM3QtNmYySUU5QVJUaUlIMGwxcU9nQlB0WERSWldMaWVITlBoWFpMMFVYbF9RVU1rd1Z6d1lWaVN4RmE5OUN5a2fSAfABQVVfeXFMUHRtS3hqZDh6QU0yenc4dHA0UkJyaGFoVVZ5TVU2bmFxZmV6OEVwYlpnbTBDU0tuX0RGRU1rb2hsaTRNMUxGRU8yVGhhRm5jbmZIVzlzRGhmbHhEYkFGdk94SXpsaUVXVGlsMDRFZVdOd1pOSVZaS3dGalBoWTNyVDlCejM5ZFJLRXA3ZUh3eDI0Ry0zRDlXb29zUmNyUU80a2xwOVlsZFVwWkxUcWZsNGh4d0htaV84RE5jaXItSDQzWUpPWDdPR3l4VHJVTnB4Tk0zS2VTUlBVZVdnb1hSWk03aDVzWmRSVGlEX3VkMWgy?oc=5
+- Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits - theguardian.com
+  Parents of Indian students who took their own lives reveal pressure of leaked exam papers and res
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQaG5GVlBtaDBXOHhXNy1kZVR0bDlTZWl1ajYwVXNNQWd4TVhKM0lLbTlHbTRYd2hOazRoWTdjNWNjUjIwMkozYWNwdVNISk5Gb0htUGFHT1U2VUdrSlVuX2drTS12S05NVlA3VUh1UTgwSlZTVm1yS0FBeV9NLVg2WEFKamF5ZGo2NTFtWk42U0pPOVBoUUlVTzhVZ19aN0lqQ08wdlE2aDZfN015V2ZfWVc0MUY5M05SRlE4eThuX2oxd0ktcmswbDJMSEhrUUtaaUNtRDFxVC1XdUZRSUN2OE1icVBLa1Rxa3pBZVF5T1hYX2N5dXJmT3Vhb3prRE1HLUp5bG9QcVdEZw?oc=5
+
+- Har Ghar Tiranga campaign begins with multiple events across country - News On AIR
+  Har Ghar Tiranga campaign begins with multiple events
+  🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFBidGVDUUxjQjhDMzFmRDZjZTRfUzBYX0U2UVBGdmg0TTVyZ1A4VGZYVGRhOHZIcnZfdkE3aHBqQjlqNE0tY05IZnQ1UXlIODZUN201ZkhBQkJMdllLUEh6U2FzWTJBVGREOXo3MC1EVDZPQQ?oc=5
 
 - Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to be disciplined in how we spend - The Times of India
   Europe's largest technology company SAP stops all travel and hiring; tells employees: We need to be disciplined in how
   🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQNUFFZmdWR2tDeUc5cXNvQWFQLW8yNnJxWF9uanlUYUNwcndpbzM4bllJZHhlUUhSVUFwd2VNMDdRbEJKajVlYlltejlDOTVLdmVXU09aVXpld09nZGFpVmROY2gzbWMtQjAybFRLd2tGdi1UWTcxVnF3UHRhaTdGd09FcjN4bXRJa2RnOU5ET2djcHlObklqczdzOGdjVkRUSU0wWlcyZi1CRGdKVi1obHVtSjdscVItdkVhUjRIa2pIX2tiVUxhVHlNemFScGlIZDdYeFhvMDJ2V29UVUQ5dXF3Z09veXVrZFotS29KRnU5b2NyUFFWVXJyU2xiZ1dNWTV5NFhPSFV2TFAyYkdRR0wxVm1WMEFpd3RpbEtUSmhJbloxeXhpajEyWEpBU05Y?oc=5
 
-- India to be an essential player in the next industrial revolution which will be biotechnology and AI driven: Dr Jitendra Singh - PIB
-  India to be an essential player in the next industrial revolution which will be biotechnology and AI driven
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5QR2hpaFpmSDZseHdDQVd1MjFMUlkyLWIyZjZOc2lGQnIyU3dzV3padVJlYXZFRzNhaU5CYTF0R3lqNWlJdGVPbDZFSGwtLVpGeE9tbFNJbHlHWU1QS1pUb3ZkT2pNaXZQVElpbmNHS1BNc0I5bjUxVzMwUQ?oc=5
-
 - Chartered accountants urged to embrace AI, quantum technology to realise Viksit Bharat goals - The Hindu
   Chartered accountants urged to embrace AI, quantum technology to
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV1JLeE9XTHRuTWxwVlZYSXlJYTNNOFE1VGlvVlhtTFdzalFKNjFQd0c5UktOMkVsdFVULUQ2VWRfNFRTZUJkeTVSVldVcDRxMWNRcjBIREhxUm82OVM4cFZBZk1paWpBZzlENThOdTBrbTNLZ2xtaUpmVnZWMlF3cFBUMkRtR00zVEtRaWN1NmNhQ0UtRHNRN2MwWkZxQUlNaU84ZVZLcGFRU3c2MF9BaF9OQ0xJa1VfRGFfckl0VE9hbmpCeTYwcmMwaXZLNDJSNGVDN3NkWHdCMlR1VU5LU2NtMW00VmJHaEFwSWVXRDZVbEh2X09OUdIB_wFBVV95cUxQOGpOZUhLNU9kalBxM2Yxb0t3RDZsSzFsSjNPbTlwU0t5Qm5tUUFWYndqTWVGY2tXWWM5bmdFS1VUVlJLS0wxMGtaT2JmLU54cHRORXpIMVR2UjRrWlNvTWhBYnZkdG1GOV9KcWZYbEhEeE02SGhjUkdjZUQ3eW12eEFtbjZfSTJBVDVMdk5QMmxlRTV2U0FMenRrTGd0Y19JZDFiX1R2eEJIdlpTVFhBaW5QVHVERDN6M1JwLUtEdnNqbm11OEU5a3FEWG5LMFdxc0lWVW43bGNSZUpWcmdEWW5Ud1diS0xVODhTMWNHLVBDTDRaUzBIQ0VmMGFaXzg?oc=5
+
+- India to be an essential player in the next industrial revolution which will be biotechnology and AI driven: Dr Jitendra Singh - PIB
+  India to be an essential player in the next industrial revolution which will be biotechnology and AI driven
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5QR2hpaFpmSDZseHdDQVd1MjFMUlkyLWIyZjZOc2lGQnIyU3dzV3padVJlYXZFRzNhaU5CYTF0R3lqNWlJdGVPbDZFSGwtLVpGeE9tbFNJbHlHWU1QS1pUb3ZkT2pNaXZQVElpbmNHS1BNc0I5bjUxVzMwUQ?oc=5
 
 - Aligning Bengaluru policing with technology crucial - The New Indian Express
   Aligning Bengaluru policing with technology
   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEdtSmhkMEhha2dPYzJLSEc3emJZU3ZfN2phbHFPdVkzeEhueTRDbFc3eFNSM1RtM3lFU1hhbVlnemNWRk9NNWdrVkVSUUtvUWFvYWJJRzZrQmtVU3NQeHdEQVNsNU9RcUpVWmkzTkFtZUFkVnhTd2VrcHJmcU5PNWFpY0JPX09va2lRLWZZQVRqU1dQeC1GTGZnMmYwNDN4cXJmM0pPdUc5Z9IBtwFBVV95cUxOck5tTEhMRldWYldNdlRZYU9yMzhMV0hPY2p6Q2M1UVhjMG1wUUVIeE5ucTYtX3E5QXgwRGg4OWRISERiR1B0R1c2NS1KWUpwWkUyNjRsMnJIY1RJT1NwanNkMDZMaUhyckk0NDRUN2JwdW5nZlI2TXNndWZjTDlEMGtOc2RVOUJ6dW9xdUxBWDdZVlBRQm5JU2o4cUJqTjhLRGdGU0tldjdWRFV6OXBXVnQ0QVdBY1E?oc=5
 
-- Zambia SC’s first woman judge, of Indian origin, warns against technology that ‘digitises’ inequality - ThePrint
-  Zambia SC’s first woman judge, of
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXNCZXFkZkhqM1lqVW9LcjI4cGVfSHRacWlPclNrcGNUWk41X0gzaDREZnZDNDBCX2hzeDc1bUtJaWpjUGZZMGlGX1hXQ211a3JyMEdtYkpIVlJNQTNiaWZveEdwd0h3V2hXUnRxTDE2cUJ6a2FINnRBcFF1OTdFSWVWX1Buazd2STZjRzRxLVg0LWl6eUszcVlmX2V5RXNNdno0cDZxWkptTnF6WTBiVVQ2WkhvY1h2WDhpYjhYM2NDRE16SVZiX3VUdWRmRmlp0gHWAUFVX3lxTE1GUmpRVlptbTNNa3ZMT2ViOGEyNXhJVUcwYkZSQ09YLVVBM0NoOGRIanVsdWEtUjNJN1JkRnYybVlNaWNXS0NOQy0wZjhkM3VXeWFwQnpIRnhqSUhLeW9NekZtcWUxOXJyNG1OWjIzdHA5by0zZ2hpNE1fVXJZcFFNeVo2QzMzUnVhY18xRnpfRExCbE1laTc2aEdLN20yQ3IxV0lZM0w0MlRibWZtc2R2QlY0Q0FsbzBRa2hMbWdTSExaTC1TR3gteldUMUl2QzJIVHdqR3c?oc=5
+- Amit Shah Urges Urban Cooperative Banks to Embrace Technology, Transparency - Daily Pioneer
+  Amit Shah Urges Urban Cooperative Banks to
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVXE4OXRHd3BzcFFVOTJUZWd3bTVYNk9wLUJURXNIQkw0dXE3aUhnSmRWQ0VSZThJU1ZpUnZxeEd5ZFFheGc5M21UaUZSUndORExCZUFtZExJUmhsNkJmdkQ0WlNINHRLT1pQdElDbkZLbEVra1h2ZTM5ODYybTg5SWJDaFFMV1d5c3FaVkJjdEVpUm0zeXBqNnpsUG5GOUIwY05WdmQ5bUhUQ1FvOVpV?oc=5
+
+- India’s startups look to UK as trade deal opens new opportunities
+  The India-UK FTA is making the UK more attractive for Indian startups. tariff cuts benefiting goods businesses and easier
+  🔗 https://www.livemint.com/companies/start-ups/indias-startups-look-to-uk-as-trade-deal-opens-new-opportunities-11786264527925.html
+
+- Hotels lean on domestic demand in Q1 as global travel falters
+  India’s hotel companies shifted to occupancy-led growth in Q1FY27. West
+  🔗 https://www.livemint.com/companies/news/hotels-lean-on-domestic-demand-in-q1-as-global-travel-falters-rooms-hospitality-leela-itc-samhi-chalet-11785950324577.html
+
+- Auditor red-flags Ola Electric’s results over PLI fine reversal move
+  Ola Electric’s auditor has raised a red flag over its June quarter results. The firm reversed a  ₹57-crore provision for penalties under the government's battery cell PLI
+  🔗 https://www.livemint.com/companies/news/ola-electric-earnings-auditor-kpmg-battery-pli-penalty-reversal-mhi-11786256685594.html
+
+- Exxon Links New $80 Billion Kazakh Oil Venture to Feud End
+  ExxonMobil Holdings Corp. has told Kazakhstan that a potential $80 billion joint investment to expand the Kashagan oil field is contingent on resolving a long-running $150 billion dispute
+  🔗 https://www.livemint.com/companies/exxon-links-new-80-billion-kazakh-oil-venture-to-feud-end-11786312972181.html
 
 - Alta Capital-backed Logicap buys Xander's warehousing assets for  ₹1500 crore
   Four-year-old Logicap has scaled rapidly through ground-up developments and targeted buyouts in retail and manufacturing
   🔗 https://www.livemint.com/companies/news/alta-capital-backed-logicap-buys-xanders-warehousing-assets-for-1500-crore-11786246280099.html
 
-- Mint Explainer | Why Zee’s lawsuits against Blinkit and Nykaa matter
-  Zee Entertainment’s copyright lawsuits against Blinkit and Nykaa could reshape
-  🔗 https://www.livemint.com/companies/news/zee-copyright-lawsuits-blinkit-nykaa-social-media-marketing-content-11786272767633.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 10 August 2026
+  Sumeet Bagadia recommends five breakout stocks to buy today. Physicswallah, Grasim
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-10-august-2026-11786322498288.html
 
-- After Warren Buffett exit, Greg Abel starts deploying Berkshire Hathaway’s $365.5 billion cash pile
-  Berkshire Hathaway reported that it held $365.5 billion in cash and Treasury bills at the end of
-  🔗 https://www.livemint.com/companies/news/after-warren-buffett-exit-greg-abel-starts-deploying-berkshire-hathaway-s-365-5-billion-cash-pile-11786273845002.html
+- Stock recommendations for 10 August from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 10 August. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-10-august-marketsmith-india-waterways-leisure-tourism-hindalco-industries-nifty-sensex-11786191373714.html
 
-- Gaja Capital ramps up deeptech focus as India’s innovation economy takes shape
-  Gaja Capital is stepping up its deeptech focus as India’s innovation ecosystem matures. AI
-  🔗 https://www.livemint.com/companies/gaja-capital-deeptech-private-equity-pe-sarvam-ai-artificial-intelligence-11786265615055.html
+- Raja Venkatraman recommends three stocks for 10 August
+  Market expert Raja Venkatraman shares his top stock picks for
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-three-stocks-10-august-grasim-industries-ltm-granules-india-nifty-sensex-11786192134319.html
 
-- After  ₹646 crore fraud, IDFC First Bank CEO prioritised accountability
-  Chief executive V. Vaidyanathan flew to Chandigarh after the fraud surfaced. He assured officials
-  🔗 https://www.livemint.com/companies/news/idfc-first-bank-ceo-flew-to-chandigarh-after-rs-646-crore-fraud-11786258436801.html
+- Thin volumes at closing auction debut hit F&amp;O
+   thin volumes during the new closing auction session of derivatives stocks keeps
+  🔗 https://www.livemint.com/market/thin-volumes-sebi-closing-auction-f-o-equity-derivatives-fpi-investors-nifty-traders-nse-11786263481670.html
 
-- US Markets Week Ahead: Inflation, retail sales, home sales and earnings in focus
-  US nonfarm payrolls data for July was unexpectedly weak. Investors will closely watch the latest inflation readings, housing-market figures, retail sales data and consumer sentiment survey.
-  🔗 https://www.livemint.com/market/stock-market-news/us-markets-week-ahead-inflation-retail-sales-home-sales-and-earnings-in-focus-11786292217576.html
+- Britannia could be in for a treat as key concerns ease
+   Britannia’s dual-pricing overhang has eased, helping volumes and market share recover.
+  🔗 https://www.livemint.com/market/mark-to-market/britannia-industries-q1-results-dual-pricing-volume-growth-fmcg-11786263851791.html
 
-- The stock market is finally rising again—and it’s getting cheaper, too
-  The S&amp;amp;P 500 is up
-  🔗 https://www.livemint.com/market/stock-market-news/the-stock-market-is-finally-rising-again-and-it-s-getting-cheaper-too-11786196595606.html
-
-- Upcoming IPOs: Shiprocket IPO, Dhoot Transmission IPO among new issues to open next week; full list here
-  Shares of eight companies that opened for subscription last week are set to make their market debut. The IPOs are scheduled to open between
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-shiprocket-ipo-dhoot-transmission-ipo-among-new-issues-to-open-next-week-full-list-here-11786259637577.html
-
-- Defence stock Apollo Micro Systems declares Q1 results 2026. Revenue jumps 88% YoY to  ₹251 crore, PAT up 43%
-  Apollo Micro Systems posted a 43% year-on-year increase in net profit to  �
-  🔗 https://www.livemint.com/market/stock-market-news/defence-stock-apollo-micro-systems-declares-q1-results-2026-revenue-jumps-88-yoy-to-251-crore-pat-up-43-11786257583850.html
-
-- Q1 results 2026: Vodafone Idea to RVNL among companies to declare Q1 results next week; check full list here
-  Vodafone Idea, Bharat Forge, MRF, Rail Vikas Nigam, Hind
-  🔗 https://www.livemint.com/market/stock-market-news/q1-results-2026-vodafone-idea-to-rvnl-among-companies-to-declare-q1-results-next-week-check-full-list-here-11786255453945.html
+- The curious case of the old iPhone that refuses to get cheaper
+  The unusual price behaviour reflects a combination of rising prices of new smartphones, strong demand for Apple devices, and a growing
+  🔗 https://www.livemint.com/technology/the-curious-case-of-the-old-iphone-that-refuses-to-get-cheaper-11786262436504.html
 
 - iPhone price hike coming next week? Apple may raise prices from tomorrow: Report
   Apple is reportedly planning to raise iPhone prices starting from August 10. A tipster claims the production capacity for current models
@@ -96,69 +100,65 @@
   ByteDance targets mega AI model
   🔗 https://www.livemint.com/technology/bytedance-targets-mega-ai-model-that-could-match-mythos-scale-ft-reports-11786081268934.html
 
-- Exclusive-Alibaba plans to charge big users of its next open-source AI model, sources say
-  Alibaba plans to charge big users of its
-  🔗 https://www.livemint.com/technology/exclusivealibaba-plans-to-charge-big-users-of-its-next-open-source-ai-model-sources-say-11786064736653.html
+- Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap - Bloomberg.com
+  Oil Extends Gains as Horm
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE9CeWQ3UUhJR3ZMYjlnV1JmT0ZYV3NLWUc2UG82SnNwS0ZtelczaFNDa25xaDB1cG5FTWdfdl8yVEFLOUc0RnBCbjBkTURvcEs3SUloSHRaemE0c0gxbTdtZlNvT2lnY1dQSTctWVY2V1E1RHZZZEhTUDNIRUs4bFFIUWNtWTdkRklJdWZvcWJiS1pN?oc=5
 
 - S&P 500 rises to record close Friday and posts strongest week since April: Live updates - CNBC
   S&amp;P 500 rises to record close Friday and posts
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5
 
-- Stock Markets May Be Tired of Iran but a Hormuz Deal Is Vital - Barron's
-  Stock Markets May Be Tired of Iran but a H
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxObDBKaHdraWxZTEhuVGttVU1WbjkzM19OUmhEelVFcVVjUUJNQVo1a1J6V2hGMWthZ3RzM3JGc2hzalRUam9pNEtheGwxd08xSVdVMnBsMzdYUXZvVlN6X19fQUZweVJHSzlYb1doU1RDS0Y2eS1jVEhNQ21Bc09MTw?oc=5
+- ET Wealth Edition 16 August 2026 - The Economic Times
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxNR0FuY3VudXp1aU55R0FjWjZsMGg0RFJEbkZYV2hwd3BQb2dIaEw2MmM1NXBUb3JnSUdsb1pCN3p0N19sSVpVTURaTUZMR2FJbXU0SWlYcU56S2NIR1VBX3FHNEtKNXBhdzRMVXNZZGV2UEpUWHg4a21pUmRRajMzWEdOazRJV09kVEgwdXFIRUJGNkhuaExHN3ZqemNTUUdwTXFtRHluc1NMempFNTdVUG13Y3pKS2xKQVNDTzdsdm1MSHA5NU5nUGFLMzliYVN4VmJkbzU0V09nUTU4Y1E5TGd3TVZ4RVJJNDFoazFLOFNHNFJmLXFMX2pYVTJZS3FvMnpJZXpnS29jdkYtb25RUlRVcGM?oc=5
 
-- '$200 billion market in 15 countries': Here's what India can do if US slaps 100% tariffs - The Times of India
-  '$200 billion market in 15 countries': Here's what India can do if US
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZmpiZEdTLVNPakwwWVdSQW5MM2loeDhzUE5XMG5EY0F2bmdLSWVpUV84Ny1pSXVCM0VoY2VPQURSRHRRM283SWszX0ROQXpYaHdvQ0xYN3lRWUxZT19wS25LQVJZbUNXdG1EclBIdVlDT0pyZW9EMVlyMXhIeUZUOWR2WkMtZ0pvMXBuVGVqRXI5SThCWlFrUGhTVW54SnlqT1BVQ0tiSjUzUnBVMFh2MUdqRVRreW9LT2lBcHBiWHppSTRNYkdvb1o5d1h3em1KWVlFd3lhSVNaREVjSmJNakljTWdOSWZwT0FlVFpsNWZpTjJzaHJhYXBpN2rSAYICQVVfeXFMT29MNGc3Ti11LXRzbzh4NzY2SGpoeC1QVDYtSTFfX3YwdnVKNFFxYU9RU1lRQWRCRzlwWVJlcmNDUWk2WHg5VG1zTDM1a2NCNXNNMFNPVjBHeDN2c0QtMVVYZGxhRVVWZDJDZjhyX3JQV1VKT3pFZmdDeUp2SjRlekpuaHlBVHFPY2k1ak5ZSlBfTGh2YVNKeXd5aGluejhmX09PMWNTd1B1TVlMTlRxMXJsOWluN2prVTFpamVfNzZNV3lqNjhiWllrTUU3cFp5elFHQlZ6ZkpKYWJHWXNlRFB3Z1ZmeExSNHc4azNXRmRtZUpMTmE1dG9HOENpaW5KUjln?oc=5
+- S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates - CNBC
+  S&amp;P 500 futures slip as traders watch for Strait of
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5
 
-- 2 key checks on AI infrastructure and inflation: What to watch this week - Yahoo Finance
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQVElYTnFPQ09WVjFBRFZULVRza1RuN0RmdE5ZZnJ5emJlSnhsSnFCdGY3T3lPUklQVmZOZkRkclhqZXYyWThITDViOU03TTRqdEQxWGlla1VMUUpWUVFveWtKMUdmazRLTklyMjhEd0hreENMSDJfTXBleXFVYmFPX3FPVm1ZUWd3RnVyc3E4Rk40X2pTdURmc1BfVngzZzVsQlRqZFhVaVJzQ2NYbDRxaE1hcUdKWmE4SjVjZ1dyeHZtd2dDYWRV?oc=5
+- CNBC Daily Open: Washington and Tehran both play it cool — but markets can't - CNBC
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT01kWnhPMElpTUFPNVlFUS1PZU52R1dWR0xCam5KMUFydUc0SkdEYzV4QXBpODhicUJMYmdWQ09jb2pTNHFTRFZwZzhLSHpuRXpIcHJObGp2ekJxU19FbGU3UzhkcWpKTU5hS0pFa3JwLS1ZbWRIblVsd0ZBZXZvN2dRNDZzalpzSUU0b1pERWFiSkc0T0hoT05TNUNDYUtCNkpKYS1CWGjSAa4BQVVfeXFMTW5zZXk3YW9Ra0VzZjF4TzA1bzVFbW1sVWRJU2FvRzJNR1FOaU9BMTVWZnA3Ri1YbnR1bzBqaE9IQndJRU5YYzI3ZFVvYlVxMkkyNjVKSDc1TUgxZ3FNVUZ3T2hTdk5GSU1IdFNMNkRuSkYweDNMdF8ySmp0STRyaFJoN2RYMGxGcFlPZTMxVjA2dXdlQ00wSlhCNnF3aTJrMWw2VXFTV0xfamNQdjVn?oc=5
 
-- India's Maruti sees passenger vehicle market rising to up to 6.3 mln units by 2031 - Reuters
-  India's Maruti sees passenger vehicle market rising to up to 6
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREphQTBJeXdwRjA4YWVVSDJMc24xa1JfT2NzcVZWQlUwYi1JbWZDWFVCbHhXMVJtNnNCYUVkLWdsaWY5VGdzQk1SWk1qNEIwdllNNmRHdHd6NnZPNWJJTGVtekdBRzZtVWNnbmY3QXdCMWlPaDdqX3d2aGZiYU55cHFCc1hvdFVybmlGVTJHVUJOb001aHBJdU1yQjZoSGhVQlQ3SDBXVmRiRlhLRjhiNEhkN2syU191QTI3NE1KYzY4MlRRMkk3bDNwaC1wMjVEMzlTQmxZdw?oc=5
+- Europe's hot stock markets catch global investors' eye
+  Europe's stock market is experiencing a robust rally, attracting significant investor interest. Money managers are increasingly optimistic, seeing this as a durable shift rather than a fleeting trend.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/europes-hot-stock-markets-catch-global-investors-eye/articleshow/133077038.cms
 
-- Is 'Trumpflation' real? Why Wall Street fears this could be a reason for stock market crash
-  Wall Street's record rally faces a new test. 'Trumpflation' concerns grow alongside AI-driven pricing pressures. Sticky core PCE inflation at 3.3% and rising Treasury yields.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/is-trumpflation-real-why-wall-street-fears-this-could-be-a-reason-for-stock-market-crash/articleshow/133066108.cms
+- Global Market Today: Asia stocks edge higher, oil up amid Gulf confusion
+  Asian share markets follow Wall Street higher after soft US jobs report. Oil prices increased slightly due to stalled Gulf peace talks and shipping lane concerns. Investors anticipate US inflation data, which could influence Federal Reserve interest rate decisions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-stocks-edge-higher-oil-up-amid-gulf-confusion/articleshow/133077033.cms
 
-- World Bank's IFC, HDFC AMC invest in Molbio Diagnostics' Rs 281 crore IPO anchor round
-  Molbio Diagnostics raised Rs 281 crore from anchor investors, including World Bank Group's IFC and HDFC Mutual Fund. The Goa-based unicorn also saw Rs 160 crore in secondary deals.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/world-banks-ifc-hdfc-amc-invest-in-molbio-diagnostics-rs-281-crore-ipo-anchor-round/articleshow/133065702.cms
+- Stocks in news: Titan, SBI, Ola Electric, Astra Microwave and Hindalco
+   Markets closed lower Friday amid mixed global cues and rising crude oil. Analysts remain bullish on Nifty above 24,350. Focus on Titan's strong Q1 profit, SBI's earnings beat, and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-titan-sbi-ola-electric-astra-microwave-and-hindalco/articleshow/133071374.cms
 
-- Market Trading Guide: Jindal Saw among 2 stock recommendations for Monday
-  Domestic earnings have largely met
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jindal-saw-among-2-stock-recommendations-for-monday/slideshow/133065621.cms
+- Can Molbio Diagnostics IPO deliver long-term growth for high risk investors?
+  Molbio Diagnostics aims to secure ₹200 crore to enhance its capital expenditures through a new issuance of shares. In tandem, the firm intends to reduce promoter stake by generating ⁹740 crore via an offer for
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/can-molbio-diagnostics-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133076987.cms
 
-- Ahead of Market: 10 things that will decide D-Street action on Monday
-  Indian benchmark indices closed lower on Friday. Sensex fell 456 points, Nifty dropped 65 points. Market sentiment remained cautious amid Middle East tensions and crude oil volatility.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-456-points-nifty-falls-65-as-closing-auction-session-creates-divergence/articleshow/133065105.cms
-
-- 9 Nifty 500 stocks with up to 50% upside potential: Do you own any?
-  Consensus analyst estimates from Trendlyne highlight nine Nifty 500 stocks offering up to 50% upside potential over the next 12 months. Prominent picks covered by multiple analysts include Inox Wind, Aditya Birl
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/9-nifty-500-stocks-with-up-to-50-upside-potential-do-you-own-any/slideshow/133064784.cms
+- D-Street eyes positive opening as GIFT Nifty signals firm start
+  On Friday, Indian equities experienced a minor decline, with Nifty ending the day lower due to weak global cues and profit booking activity. Despite this, analysts are optimistic about the week ahead
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133076938.cms
 
 - Canada Deports Over 3,000 Indian Nationals In First Half Of 2026: Report - NDTV
   Canada Deports Over 3,000 Indian Nationals In
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNM01pZGhHWG52RjlWUXNaZTZGdXN3ODQtOHA5OS0xb0JjTE9kVG9JWk1qVlpPQlJlVFNzaGxGUkxxWlNERzM3aF9zVzZwTGY4UHFTT01TVWNERlY1djMxR1ZtaDdSYWx2cEsxRDQ5dFdtclRLdWktQ1ZCTDNFbEpORjNVZzJJSk1wTGxORGZrSDlOTjFMZlRuMFZHdjhWZjFRbXZZZUlvcVpxSmhpb0ZzdmNB0gG6AUFVX3lxTE5WRDVtT2JERlYtbTZHTXpCaGtCSFpRMnRyN2pRckRpNlNmMFhnN3BmdDgwMWNkMk9aSWJKdUxpWXFjcHF3Y1FyMm93S0NaU0k5VXF6NEVLNDR1cmlwWTVKcG1VQmV4OHNQbkhuX3Y4VEJDcXdJSmZvVGJzUHRiM2JZSXRGNVhKVWQwTHFPMi1MR21vdnZIb0pMUXhCb1RHdmxyd2hlalFIdjFYbUd5eS1qQjAxZ3FnYUtKQQ?oc=5
 
-- Play Area Inaugurated At Indian Visa Centre In Bangladesh Capital - NDTV
-  Play Area Inaugurated At Indian Visa
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnhMcGs2NjY1Y2RnWkR0eDY0ajVDRnJVYzdlTE56dlJ6T0RsU1dFR0tYY2VUd0RQQ1BzbGM0MVVveHpjMWJvRWpEVEh5YWpmUXFlT1lKT0dZNW1xejZ6UFdsZHVjN05kTVRkcDRhRzlBbElQNl9NUkdoSXcxY2FBNV84aTJMRGVMR3JtVWJiTHcxWUYyeWlta0tkbGNGaWtYa1RHbVFVRUFKUdIBsgFBVV95cUxOMzlZY0lJdnduV2tseDVEUzU2ODFwdkN4dkREQzFPQVNNUlhHU0tKZW1WU0EzM3VDVXhRSC1OTldsM29SWG9vbEFvVXUyVFdqeHB4b3Rha0wyOGtyUEVqVHlKa1JjV2Rpa0oteVl3SUdCRWRaVGJSYTdTaHRyMkNTTklCS2NLNldLQXZEVVFjbFN6b0dHdk1PNzUyV2NXQUU5TmkzamV6M0tXOUJoMjBmTnZB?oc=5
-
 - The making of Auqib Nabi: Kashmir's hardships to India's Test cricket squad - BBC
   The making of Auqib Nabi: Kashmir
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSzY2OFVES0EyUFF6MDIxQzllXzY1c1I1dlkwV1FwMDNkWDNENERKMTc2cWVIQkJkWnhNMTVvS29FaTc0SDJjNEV4UU5pY19Udk0zWmVKVzZlZw?oc=5
 
-- Air India Pilot Likely Failed Dope Test After Turbulence-Hit Flight: Sources - NDTV
-  Air India Pilot Likely Failed Dope Test After
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3BObWNfSzEyRjBxWXJPOWQ3djQ3S0NoTEJFWDNyaEg5SDV4N2tUTE1sYnROTGxxY1NKOGMzRnZ2U2MyN0NhY3NCUmkzYlREX1ZySzFyd0hvdXh3QzhTWTNVUk56RXAwenhMUC1USzNtakRfcVgxWFZRWUdXV0IxU0tSc003MWxuX0VpLS14d2FfNVEyVktGWGp2clNFQVhQUWcxd2syLTk2RV80d2RzR2MtVXNBdFnSAb8BQVVfeXFMUHNaeTNlWE91RVZSODM1S1hVMjRfWjdrcXdJSWxlODgtZ0lwRjlLRDZKeHdTdFZ6R1lBVlBhWlVyUkdCN3BJR2lhaER3QnBXVXRsdjhiUFgtQ08wTndMdm42WmZQTzJham1YYjUyNC1hRHVmM3M3eXFHLURMVHVuclpnNk92b0MwMjVqWC1KbzFLN1A0OG1Za2tYdHJFdDBYOVl2MTVzUGU3cEF3TUdZNktQNG5LYVp2N250Ml83Q0U?oc=5
+- Census 2027: Ladakh to lead Independent India’s first caste enumeration - The Hindu
+  Census 2027: Ladakh to lead
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXVpUEVmdTFxUDFpYnZRSzdCWGJJMHJOX2otem9PRl9jTDRucDlPNEVRLXV0UkVZQWpONFhUbUxjUGtqQ0k4YzZ6RGVhbk1tbDh5ZkRRMHRRYzVEN0pvaDlJdEVLTTVpVEFCZXdNUjdUaGd3ZmlSVkRBOUdzT2NIZ0JSQ3VMVzR3YW5aTWxIcVlhZEF4bU9JMzlKU0JXd0tNWncwajc1VXBTekJLbUt4V3hPMDdEQkRyREUzZ3lBY3diWXV1QnhFQjRIWdIB0gFBVV95cUxPTjVIZWFTVHRpUnNDTWtXcGExMWVuS2h0WUhzeHc2WlBnVWt4TXBkaG1NLWhlb2R0a0czU1RBM2lnbTZXZkp2ckdQT1BjNW1yVXdFV254WmdEOWw0WjhYQ3JqWU16ejdaZzVsbDRJTTRHZWxCRF9tM3RGcnhXZ2d1TXlLaUhtalpvTUdiQ2gxTXYxT0pmRGZWdEZUUW1ORmY3cFJLdktmZkFIOEdnYWIzNG01OUtKLXp5aThBeGtubjF1eUd4UExKNXQ1Z3hYWk9wWlE?oc=5
 
-- Air India pilot's psychoactive substance test requires confirmation after altitude-loss incident - The Hindu
-  Air India pilot's psychoactive substance test requires confirmation
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbUNGMGtLS3lpTXdPci02QkgtdS1KUzFCNzFSV0I2NDVHVTlIbGpodGFTN0dLSE13RG9IOFB4TUZ6QzM3anFwUHh5ZGpQb08wNGw0OHluQ0k4amdzN2R1TlZCQm00bjBpbHhtZUtVY3hUMlo0bVpqREtITl9ONFZUa0d0SXdzVjlrRU02U18zNEVRTWZCUHk0cGlaLVpMeUlVSnZlZ09Pb0JOM3QtNmYySUU5QVJUaUlIMGwxcU9nQlB0WERSWldMaWVITlBoWFpMMFVYbF9RVU1rd1Z6d1lWaVN4RmE5OUN5a2fSAfABQVVfeXFMUHRtS3hqZDh6QU0yenc4dHA0UkJyaGFoVVZ5TVU2bmFxZmV6OEVwYlpnbTBDU0tuX0RGRU1rb2hsaTRNMUxGRU8yVGhhRm5jbmZIVzlzRGhmbHhEYkFGdk94SXpsaUVXVGlsMDRFZVdOd1pOSVZaS3dGalBoWTNyVDlCejM5ZFJLRXA3ZUh3eDI0Ry0zRDlXb29zUmNyUU80a2xwOVlsZFVwWkxUcWZsNGh4d0htaV84RE5jaXItSDQzWUpPWDdPR3l4VHJVTnB4Tk0zS2VTUlBVZVdnb1hSWk03aDVzWmRSVGlEX3VkMWgy?oc=5
+- Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits - theguardian.com
+  Parents of Indian students who took their own lives reveal pressure of leaked exam papers and res
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQaG5GVlBtaDBXOHhXNy1kZVR0bDlTZWl1ajYwVXNNQWd4TVhKM0lLbTlHbTRYd2hOazRoWTdjNWNjUjIwMkozYWNwdVNISk5Gb0htUGFHT1U2VUdrSlVuX2drTS12S05NVlA3VUh1UTgwSlZTVm1yS0FBeV9NLVg2WEFKamF5ZGo2NTFtWk42U0pPOVBoUUlVTzhVZ19aN0lqQ08wdlE2aDZfN015V2ZfWVc0MUY5M05SRlE4eThuX2oxd0ktcmswbDJMSEhrUUtaaUNtRDFxVC1XdUZRSUN2OE1icVBLa1Rxa3pBZVF5T1hYX2N5dXJmT3Vhb3prRE1HLUp5bG9QcVdEZw?oc=5
+
+- Har Ghar Tiranga campaign begins with multiple events across country - News On AIR
+  Har Ghar Tiranga campaign begins with multiple events
+  🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFBidGVDUUxjQjhDMzFmRDZjZTRfUzBYX0U2UVBGdmg0TTVyZ1A4VGZYVGRhOHZIcnZfdkE3aHBqQjlqNE0tY05IZnQ1UXlIODZUN201ZkhBQkJMdllLUEh6U2FzWTJBVGREOXo3MC1EVDZPQQ?oc=5
 
 - Indian Startup IPO Tracker 2026
   Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
@@ -184,41 +184,41 @@
   Canada Deports Over 3,000 Indian Nationals In
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNM01pZGhHWG52RjlWUXNaZTZGdXN3ODQtOHA5OS0xb0JjTE9kVG9JWk1qVlpPQlJlVFNzaGxGUkxxWlNERzM3aF9zVzZwTGY4UHFTT01TVWNERlY1djMxR1ZtaDdSYWx2cEsxRDQ5dFdtclRLdWktQ1ZCTDNFbEpORjNVZzJJSk1wTGxORGZrSDlOTjFMZlRuMFZHdjhWZjFRbXZZZUlvcVpxSmhpb0ZzdmNB0gG6AUFVX3lxTE5WRDVtT2JERlYtbTZHTXpCaGtCSFpRMnRyN2pRckRpNlNmMFhnN3BmdDgwMWNkMk9aSWJKdUxpWXFjcHF3Y1FyMm93S0NaU0k5VXF6NEVLNDR1cmlwWTVKcG1VQmV4OHNQbkhuX3Y4VEJDcXdJSmZvVGJzUHRiM2JZSXRGNVhKVWQwTHFPMi1MR21vdnZIb0pMUXhCb1RHdmxyd2hlalFIdjFYbUd5eS1qQjAxZ3FnYUtKQQ?oc=5
 
-- Play Area Inaugurated At Indian Visa Centre In Bangladesh Capital - NDTV
-  Play Area Inaugurated At Indian Visa
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnhMcGs2NjY1Y2RnWkR0eDY0ajVDRnJVYzdlTE56dlJ6T0RsU1dFR0tYY2VUd0RQQ1BzbGM0MVVveHpjMWJvRWpEVEh5YWpmUXFlT1lKT0dZNW1xejZ6UFdsZHVjN05kTVRkcDRhRzlBbElQNl9NUkdoSXcxY2FBNV84aTJMRGVMR3JtVWJiTHcxWUYyeWlta0tkbGNGaWtYa1RHbVFVRUFKUdIBsgFBVV95cUxOMzlZY0lJdnduV2tseDVEUzU2ODFwdkN4dkREQzFPQVNNUlhHU0tKZW1WU0EzM3VDVXhRSC1OTldsM29SWG9vbEFvVXUyVFdqeHB4b3Rha0wyOGtyUEVqVHlKa1JjV2Rpa0oteVl3SUdCRWRaVGJSYTdTaHRyMkNTTklCS2NLNldLQXZEVVFjbFN6b0dHdk1PNzUyV2NXQUU5TmkzamV6M0tXOUJoMjBmTnZB?oc=5
-
 - The making of Auqib Nabi: Kashmir's hardships to India's Test cricket squad - BBC
   The making of Auqib Nabi: Kashmir
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSzY2OFVES0EyUFF6MDIxQzllXzY1c1I1dlkwV1FwMDNkWDNENERKMTc2cWVIQkJkWnhNMTVvS29FaTc0SDJjNEV4UU5pY19Udk0zWmVKVzZlZw?oc=5
 
-- Air India Pilot Likely Failed Dope Test After Turbulence-Hit Flight: Sources - NDTV
-  Air India Pilot Likely Failed Dope Test After
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3BObWNfSzEyRjBxWXJPOWQ3djQ3S0NoTEJFWDNyaEg5SDV4N2tUTE1sYnROTGxxY1NKOGMzRnZ2U2MyN0NhY3NCUmkzYlREX1ZySzFyd0hvdXh3QzhTWTNVUk56RXAwenhMUC1USzNtakRfcVgxWFZRWUdXV0IxU0tSc003MWxuX0VpLS14d2FfNVEyVktGWGp2clNFQVhQUWcxd2syLTk2RV80d2RzR2MtVXNBdFnSAb8BQVVfeXFMUHNaeTNlWE91RVZSODM1S1hVMjRfWjdrcXdJSWxlODgtZ0lwRjlLRDZKeHdTdFZ6R1lBVlBhWlVyUkdCN3BJR2lhaER3QnBXVXRsdjhiUFgtQ08wTndMdm42WmZQTzJham1YYjUyNC1hRHVmM3M3eXFHLURMVHVuclpnNk92b0MwMjVqWC1KbzFLN1A0OG1Za2tYdHJFdDBYOVl2MTVzUGU3cEF3TUdZNktQNG5LYVp2N250Ml83Q0U?oc=5
+- Census 2027: Ladakh to lead Independent India’s first caste enumeration - The Hindu
+  Census 2027: Ladakh to lead
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXVpUEVmdTFxUDFpYnZRSzdCWGJJMHJOX2otem9PRl9jTDRucDlPNEVRLXV0UkVZQWpONFhUbUxjUGtqQ0k4YzZ6RGVhbk1tbDh5ZkRRMHRRYzVEN0pvaDlJdEVLTTVpVEFCZXdNUjdUaGd3ZmlSVkRBOUdzT2NIZ0JSQ3VMVzR3YW5aTWxIcVlhZEF4bU9JMzlKU0JXd0tNWncwajc1VXBTekJLbUt4V3hPMDdEQkRyREUzZ3lBY3diWXV1QnhFQjRIWdIB0gFBVV95cUxPTjVIZWFTVHRpUnNDTWtXcGExMWVuS2h0WUhzeHc2WlBnVWt4TXBkaG1NLWhlb2R0a0czU1RBM2lnbTZXZkp2ckdQT1BjNW1yVXdFV254WmdEOWw0WjhYQ3JqWU16ejdaZzVsbDRJTTRHZWxCRF9tM3RGcnhXZ2d1TXlLaUhtalpvTUdiQ2gxTXYxT0pmRGZWdEZUUW1ORmY3cFJLdktmZkFIOEdnYWIzNG01OUtKLXp5aThBeGtubjF1eUd4UExKNXQ1Z3hYWk9wWlE?oc=5
 
-- Air India pilot's psychoactive substance test requires confirmation after altitude-loss incident - The Hindu
-  Air India pilot's psychoactive substance test requires confirmation
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbUNGMGtLS3lpTXdPci02QkgtdS1KUzFCNzFSV0I2NDVHVTlIbGpodGFTN0dLSE13RG9IOFB4TUZ6QzM3anFwUHh5ZGpQb08wNGw0OHluQ0k4amdzN2R1TlZCQm00bjBpbHhtZUtVY3hUMlo0bVpqREtITl9ONFZUa0d0SXdzVjlrRU02U18zNEVRTWZCUHk0cGlaLVpMeUlVSnZlZ09Pb0JOM3QtNmYySUU5QVJUaUlIMGwxcU9nQlB0WERSWldMaWVITlBoWFpMMFVYbF9RVU1rd1Z6d1lWaVN4RmE5OUN5a2fSAfABQVVfeXFMUHRtS3hqZDh6QU0yenc4dHA0UkJyaGFoVVZ5TVU2bmFxZmV6OEVwYlpnbTBDU0tuX0RGRU1rb2hsaTRNMUxGRU8yVGhhRm5jbmZIVzlzRGhmbHhEYkFGdk94SXpsaUVXVGlsMDRFZVdOd1pOSVZaS3dGalBoWTNyVDlCejM5ZFJLRXA3ZUh3eDI0Ry0zRDlXb29zUmNyUU80a2xwOVlsZFVwWkxUcWZsNGh4d0htaV84RE5jaXItSDQzWUpPWDdPR3l4VHJVTnB4Tk0zS2VTUlBVZVdnb1hSWk03aDVzWmRSVGlEX3VkMWgy?oc=5
+- Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits - theguardian.com
+  Parents of Indian students who took their own lives reveal pressure of leaked exam papers and res
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQaG5GVlBtaDBXOHhXNy1kZVR0bDlTZWl1ajYwVXNNQWd4TVhKM0lLbTlHbTRYd2hOazRoWTdjNWNjUjIwMkozYWNwdVNISk5Gb0htUGFHT1U2VUdrSlVuX2drTS12S05NVlA3VUh1UTgwSlZTVm1yS0FBeV9NLVg2WEFKamF5ZGo2NTFtWk42U0pPOVBoUUlVTzhVZ19aN0lqQ08wdlE2aDZfN015V2ZfWVc0MUY5M05SRlE4eThuX2oxd0ktcmswbDJMSEhrUUtaaUNtRDFxVC1XdUZRSUN2OE1icVBLa1Rxa3pBZVF5T1hYX2N5dXJmT3Vhb3prRE1HLUp5bG9QcVdEZw?oc=5
+
+- Har Ghar Tiranga campaign begins with multiple events across country - News On AIR
+  Har Ghar Tiranga campaign begins with multiple events
+  🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFBidGVDUUxjQjhDMzFmRDZjZTRfUzBYX0U2UVBGdmg0TTVyZ1A4VGZYVGRhOHZIcnZfdkE3aHBqQjlqNE0tY05IZnQ1UXlIODZUN201ZkhBQkJMdllLUEh6U2FzWTJBVGREOXo3MC1EVDZPQQ?oc=5
 
 - Canada Deports Over 3,000 Indian Nationals In First Half Of 2026: Report - NDTV
   Canada Deports Over 3,000 Indian Nationals In
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNM01pZGhHWG52RjlWUXNaZTZGdXN3ODQtOHA5OS0xb0JjTE9kVG9JWk1qVlpPQlJlVFNzaGxGUkxxWlNERzM3aF9zVzZwTGY4UHFTT01TVWNERlY1djMxR1ZtaDdSYWx2cEsxRDQ5dFdtclRLdWktQ1ZCTDNFbEpORjNVZzJJSk1wTGxORGZrSDlOTjFMZlRuMFZHdjhWZjFRbXZZZUlvcVpxSmhpb0ZzdmNB0gG6AUFVX3lxTE5WRDVtT2JERlYtbTZHTXpCaGtCSFpRMnRyN2pRckRpNlNmMFhnN3BmdDgwMWNkMk9aSWJKdUxpWXFjcHF3Y1FyMm93S0NaU0k5VXF6NEVLNDR1cmlwWTVKcG1VQmV4OHNQbkhuX3Y4VEJDcXdJSmZvVGJzUHRiM2JZSXRGNVhKVWQwTHFPMi1MR21vdnZIb0pMUXhCb1RHdmxyd2hlalFIdjFYbUd5eS1qQjAxZ3FnYUtKQQ?oc=5
 
-- Play Area Inaugurated At Indian Visa Centre In Bangladesh Capital - NDTV
-  Play Area Inaugurated At Indian Visa
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnhMcGs2NjY1Y2RnWkR0eDY0ajVDRnJVYzdlTE56dlJ6T0RsU1dFR0tYY2VUd0RQQ1BzbGM0MVVveHpjMWJvRWpEVEh5YWpmUXFlT1lKT0dZNW1xejZ6UFdsZHVjN05kTVRkcDRhRzlBbElQNl9NUkdoSXcxY2FBNV84aTJMRGVMR3JtVWJiTHcxWUYyeWlta0tkbGNGaWtYa1RHbVFVRUFKUdIBsgFBVV95cUxOMzlZY0lJdnduV2tseDVEUzU2ODFwdkN4dkREQzFPQVNNUlhHU0tKZW1WU0EzM3VDVXhRSC1OTldsM29SWG9vbEFvVXUyVFdqeHB4b3Rha0wyOGtyUEVqVHlKa1JjV2Rpa0oteVl3SUdCRWRaVGJSYTdTaHRyMkNTTklCS2NLNldLQXZEVVFjbFN6b0dHdk1PNzUyV2NXQUU5TmkzamV6M0tXOUJoMjBmTnZB?oc=5
-
 - The making of Auqib Nabi: Kashmir's hardships to India's Test cricket squad - BBC
   The making of Auqib Nabi: Kashmir
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSzY2OFVES0EyUFF6MDIxQzllXzY1c1I1dlkwV1FwMDNkWDNENERKMTc2cWVIQkJkWnhNMTVvS29FaTc0SDJjNEV4UU5pY19Udk0zWmVKVzZlZw?oc=5
 
-- Air India Pilot Likely Failed Dope Test After Turbulence-Hit Flight: Sources - NDTV
-  Air India Pilot Likely Failed Dope Test After
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3BObWNfSzEyRjBxWXJPOWQ3djQ3S0NoTEJFWDNyaEg5SDV4N2tUTE1sYnROTGxxY1NKOGMzRnZ2U2MyN0NhY3NCUmkzYlREX1ZySzFyd0hvdXh3QzhTWTNVUk56RXAwenhMUC1USzNtakRfcVgxWFZRWUdXV0IxU0tSc003MWxuX0VpLS14d2FfNVEyVktGWGp2clNFQVhQUWcxd2syLTk2RV80d2RzR2MtVXNBdFnSAb8BQVVfeXFMUHNaeTNlWE91RVZSODM1S1hVMjRfWjdrcXdJSWxlODgtZ0lwRjlLRDZKeHdTdFZ6R1lBVlBhWlVyUkdCN3BJR2lhaER3QnBXVXRsdjhiUFgtQ08wTndMdm42WmZQTzJham1YYjUyNC1hRHVmM3M3eXFHLURMVHVuclpnNk92b0MwMjVqWC1KbzFLN1A0OG1Za2tYdHJFdDBYOVl2MTVzUGU3cEF3TUdZNktQNG5LYVp2N250Ml83Q0U?oc=5
+- Census 2027: Ladakh to lead Independent India’s first caste enumeration - The Hindu
+  Census 2027: Ladakh to lead
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXVpUEVmdTFxUDFpYnZRSzdCWGJJMHJOX2otem9PRl9jTDRucDlPNEVRLXV0UkVZQWpONFhUbUxjUGtqQ0k4YzZ6RGVhbk1tbDh5ZkRRMHRRYzVEN0pvaDlJdEVLTTVpVEFCZXdNUjdUaGd3ZmlSVkRBOUdzT2NIZ0JSQ3VMVzR3YW5aTWxIcVlhZEF4bU9JMzlKU0JXd0tNWncwajc1VXBTekJLbUt4V3hPMDdEQkRyREUzZ3lBY3diWXV1QnhFQjRIWdIB0gFBVV95cUxPTjVIZWFTVHRpUnNDTWtXcGExMWVuS2h0WUhzeHc2WlBnVWt4TXBkaG1NLWhlb2R0a0czU1RBM2lnbTZXZkp2ckdQT1BjNW1yVXdFV254WmdEOWw0WjhYQ3JqWU16ejdaZzVsbDRJTTRHZWxCRF9tM3RGcnhXZ2d1TXlLaUhtalpvTUdiQ2gxTXYxT0pmRGZWdEZUUW1ORmY3cFJLdktmZkFIOEdnYWIzNG01OUtKLXp5aThBeGtubjF1eUd4UExKNXQ1Z3hYWk9wWlE?oc=5
 
-- Air India pilot's psychoactive substance test requires confirmation after altitude-loss incident - The Hindu
-  Air India pilot's psychoactive substance test requires confirmation
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbUNGMGtLS3lpTXdPci02QkgtdS1KUzFCNzFSV0I2NDVHVTlIbGpodGFTN0dLSE13RG9IOFB4TUZ6QzM3anFwUHh5ZGpQb08wNGw0OHluQ0k4amdzN2R1TlZCQm00bjBpbHhtZUtVY3hUMlo0bVpqREtITl9ONFZUa0d0SXdzVjlrRU02U18zNEVRTWZCUHk0cGlaLVpMeUlVSnZlZ09Pb0JOM3QtNmYySUU5QVJUaUlIMGwxcU9nQlB0WERSWldMaWVITlBoWFpMMFVYbF9RVU1rd1Z6d1lWaVN4RmE5OUN5a2fSAfABQVVfeXFMUHRtS3hqZDh6QU0yenc4dHA0UkJyaGFoVVZ5TVU2bmFxZmV6OEVwYlpnbTBDU0tuX0RGRU1rb2hsaTRNMUxGRU8yVGhhRm5jbmZIVzlzRGhmbHhEYkFGdk94SXpsaUVXVGlsMDRFZVdOd1pOSVZaS3dGalBoWTNyVDlCejM5ZFJLRXA3ZUh3eDI0Ry0zRDlXb29zUmNyUU80a2xwOVlsZFVwWkxUcWZsNGh4d0htaV84RE5jaXItSDQzWUpPWDdPR3l4VHJVTnB4Tk0zS2VTUlBVZVdnb1hSWk03aDVzWmRSVGlEX3VkMWgy?oc=5
+- Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits - theguardian.com
+  Parents of Indian students who took their own lives reveal pressure of leaked exam papers and res
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQaG5GVlBtaDBXOHhXNy1kZVR0bDlTZWl1ajYwVXNNQWd4TVhKM0lLbTlHbTRYd2hOazRoWTdjNWNjUjIwMkozYWNwdVNISk5Gb0htUGFHT1U2VUdrSlVuX2drTS12S05NVlA3VUh1UTgwSlZTVm1yS0FBeV9NLVg2WEFKamF5ZGo2NTFtWk42U0pPOVBoUUlVTzhVZ19aN0lqQ08wdlE2aDZfN015V2ZfWVc0MUY5M05SRlE4eThuX2oxd0ktcmswbDJMSEhrUUtaaUNtRDFxVC1XdUZRSUN2OE1icVBLa1Rxa3pBZVF5T1hYX2N5dXJmT3Vhb3prRE1HLUp5bG9QcVdEZw?oc=5
+
+- Har Ghar Tiranga campaign begins with multiple events across country - News On AIR
+  Har Ghar Tiranga campaign begins with multiple events
+  🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFBidGVDUUxjQjhDMzFmRDZjZTRfUzBYX0U2UVBGdmg0TTVyZ1A4VGZYVGRhOHZIcnZfdkE3aHBqQjlqNE0tY05IZnQ1UXlIODZUN201ZkhBQkJMdllLUEh6U2FzWTJBVGREOXo3MC1EVDZPQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-09 18:35:55 UTC_
+_Last updated: 2026-08-10 01:21:06 UTC_
