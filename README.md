@@ -1,264 +1,204 @@
 # 📰 Daily News Summaries
 
-- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
-  Maharashtra's Ladki Bahin: Why India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
-
-- More Jobs, Lower Power Bill? What India's 300 GW Clean Energy Feat Means For You - NDTV
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXltcWR3VU1odzlHQUZUcXZzMFVfWTJxVGJXcVZ6Yjl3WktWNFlNVkJMaE5tZmtMNWp2dnZpQjdVTUNkSmlHTnBHb2lkQmlNNGdBOEhwQ2lzU3RBZ3p3OVlHNExWYzg1TWk4V3k0Szk5S0h2QTlESFh6b1ZGNVJBNVp6NUlDN1FISnFzek5nbjVkc01uaVZDN19QT1dPNWVCeWc4OGZNa3RSZUMxdWRKTmdreW1aZ9IBvgFBVV95cUxQaGRUNGpsVUV4Sm1vOWQ1Wlloa0hEWDZndTVIdy16dUVBWU5CNjFkal9nYWtQUmNlMnhFUEp3OTNWeTQxZjUwWWpCTG1PbDBiZW5vRnVaczR6S3pCZmFpN0ZnR3hzOEc3T0dIMmhCOE90SUJtMGw1dkZyQ1NKdlRYcFBtekVOazNLOVl0RGFFQlI3Rk1tTWVLeE9zNW9WYWt4XzZWcS1JTlpJcWttM0I3U29ocjVoOTJKeFYwdUdn?oc=5
-
-- How Saudi-Pakistan-Turkey pact casts a terror shadow over Delhi | India News - Hindustan Times
-  A terror pact between Saudi Arabia, Pakistan and Turkey has
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2dGd1N1VFFld3NqcFJrZTQ5dHFoVEMwOFhxQ3Qzb3lCWUYwLS1icnFYWUU1SnhnRXlrblE4NU5aUHpfY2t2SlYwN3ZrZm5CTnZ4RFZscUhTWWNnYnFaOGZ5QzJnR19JS3ZXNm9iQU9uNXk5dXFvQWJrS25ZdEJRVDdSMTE4WGNOajc0YWwyTjRsVlZLUGFoRmFEVkgxTzctaGZuUU0tMmhKYjF2U3drQnJQUkluTkZ0aWdWb0hVVmRSU2Nf0gHKAUFVX3lxTE1SVlNuMWdSVzh6Qm5kSmdCYWViUHV4M1BKYlota050VDhBY3NPTGlmZ0VDN0UzR0U3OC15QUlMSC14TlRyMFI2Y0pTQmMyUTd4eEN3aDVFd0d4VlgtbUp3bTRHaWhvN2s0Tm16eFpuRjJLRDlqNHlETVp3RFNyR1JlcTJzYnhFZWdJcE0tcmVhdHRJcWExVHlYY3EtcGVycjMzdTZ4VHY1Q0wzcDNwS29OMnRWclRKUnpfRVQwc08tOF9GbHBTdEZfaHc?oc=5
-
-- The view from India Newsletter A new security architecture in West Asia? - The Hindu
-  The Hindu: A new security architecture in West Asia
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkJFWll3M0M1aGdhcWdFR0U5WjNMdVFyNGowQWlXRE9Md0s0RHNlNjJyYnJ4X3o0eENOMkc0eUN3Y2ZSY1ZCSTAyUnhTTUFDdGV6cDFlNDM0V1hPd25WVVlNMENRSFBnalNHX1lnR2J0VFVqYzlMRG1hbE1vaWV3RU5tdDdGMExQMTEzdURDSFlrNG5TUWdpQUlZaExVTUJnMkpnYTExcDNlRzZ2am5odk8zM1h2bllNMzhGMVZiZXRQYTEtRE9Bd09NZVTSAdMBQVVfeXFMT2VuMlB6MlFGVXZlLWxFNTcwbjVuQ2pWaV9vWHNpRDA4bUdQZ3RGLUhsM1ZhWkZZNVJwLUFzY0NpWmRIMW9SWHpKSER6azNtRE9oX01xcElTVUVJSFFIbjNJaldHcWNoQXBzZDdzZS0yRGpmN2tJd3RZdXdoNk5XVnFTQkJWZVhaUExNZEQ3aTlaWWNFVnJCOWU1VWR3bHBCYkFPYmhadkZQLUZ2b25ZSVZMZ1ZtNDN0c3N3cWRCMkd0SnFYMGREOThZUGxEeVgyVEIxOA?oc=5
-
-- Police use teargas on young Indians as government jobs protest escalates - The Guardian
-  Police use teargas on young Indians as government jobs
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1FScEZ3b1NMaXk2V1dOMHBuYm9rQWprYzNjOTd5X1puQU8zd3NjSURTQ1U4V3R4aXk2cXBJUjF1bzhGdDNWcVN3eUNaTks0YVdKaHZLMVNxT18ybEhveHpwVmVDaEhWWVRVRGtOckVrZ0htYnNxNzJDb21JYkcxSkxfMlE2T2pQMTJUNENFVjFTTHUwbkJubWVjZkpuRm1XRWFpV0VRNDBrRHY0TmVLWWVmdzJLNjhQZExkM2tYbTlCQQ?oc=5
-
-- Why AI Adoption in Materials R&D Depends More on People Than Technology - EE Times
-  Why AI Adoption in Materials R&amp;D
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUdtUjc2SWVMVXdtRmZTYl9FMm11R2RxMEtXWXNUS0dpR1lYOEJJNVNZVEl0U1RoU2F4Q1Jyc0cwcnA0U3lkV3NMSm5CTG1qVTFPRlB5cWRTdDlmQzhsM3dGd1pRckJ2aTNERjVQT195ZFpsT1N4d201dEIzVGlXSW5BZHo2QVExdDJuZVlXbWllMktjR2tzb19zWQ?oc=5
-
-- Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model - The Guardian
-  Zuckerberg pushes ‘superintelligent�
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNaUw3LUFMNWxsM1dJa05NejczbTN5SUtXb3lIT2p3bHczMmhHNDZzU2pXQVlSaVg2NUltbjdyTW95d0ZYWXVLNW93TWFXN1FFOVU3Q0xUMjhRLUdtUE5ZdkRiVndrblVNX2ROVlpGX1hON2JsRl9MbUZDdVl5SjJobXdXemlJRVFVcDJQdGNOa2tfMEJmSEtwMnJkTEhUUQ?oc=5
+- RBI guv asks banks to build meaningful human oversight, says blaming technology is 'unacceptable' - The Times of India
+  RBI guv asks banks to build meaningful human oversight, says blaming technology
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOcGJrWThwOWRJZXB4M3d4U0FGVVhMUDRuV1o5RGtLZzFNamNwVUp5X2ZTZnlWNnNqV05lSm5BRGxvR0RkSVdGMlkxcFZwcW5HakktUjNVc0R2NXJFMEVYWFNPbGRyN1lmZURlLTFwYTc5em9wTFlveVh3YU9kTlF1MHIwUXJyZHkzY3R2T0ZkcHAtc1hfOTZrbFViQ1ctMkJYcERFM3dpcFc5X05aNUVCNER3Rmo4UzkxT0tncFFqdnFHS3lPLXY3ZHpRUkZVUjk1cHhGX1pzOVRsbkV1RUI3eTVsdFpMRXRxZkVFREhCM0R5a29wR0lUTmIzMzBwekRGeFdzVlNuelJ2V0Nz0gGSAkFVX3lxTE5BUFY4VXFhR1ZMMTZkblIzeEc2NWxBNkhpM0xQVkhIQUs2ZlAwV3lQOVdBT21NdmlyOUo0Q1JPcVN0N0cyODg2a1F6azJodERPanpzTzRjYTViY2JQUFk3TENYQXBTbk8zclN2ZmpBWFVKRkg1ZUJaVE5Zbi1PcUdfaDNiODIzYlNkNXJKb2RSMV91dHdYd05GZ28yWVRqSkl4SE45MUYxVUtEMTBhUFZBWmlrNWlqWU9PM0NzM1VWNm9mb092N2Q0ZUltSjNlTC1GcjFVOTFXRWh5Vnh3NERnRmJSWlFEdy0xclUzeTBlVlRmZU5UeFl0WVN5MC01UExJTDVDQUltc0VTUURIVDc4WEE?oc=5
 
 - Tech leaders say AI means less work - their staff say they work up to 90 hours a week - BBC
   Tech leaders say AI means less work - their staff say they work up to 90 hours
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aEVENWFmMDlmdlhpWmc5LVZRRmtuREs0UHZRZVZCRVZ0bWRMSWdNQlNtUGVId0k2cmJxTVpBelNyWmRmc2ktVnk1RVNIZ3hzeUhlZlZrVWR1UQ?oc=5
 
+- Greenply Launches Termivax, Indias First Anti-Termite Vaccinated Technology in Plywood - TheWire.in
+  Greenply Launches Termivax,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUNnSTY2Q3FDSk1qUjJYeXdDa2RzZ3JQS25QRWxOdkFZUi1sU2NlQm1VMXB6NUVqcFNfOTdiYjIxeTluU3lhaE14ZmtwdHNkM05qaV82SkVZcXFjMzFnNWdOVl9FeG94VnlSMlJvdWtNV21ER0RHVnRqdEJuZ3Job2pqTW1ORXFZNV9vVkJZWFdvUWt5SjFVeERRU2FHc1JiVGdTMnJGYlAyejQ3cmxWMTNrMkFQNVFpQzJLbDMzVkR4UdIBxwFBVV95cUxNUlNXU3lmRmlKMldBVzU4MF9uYkdtdTBJZFMtUmNUUkoya01YWEc0eGtBamg0V1VzeGJlRlVqUDFtTXhXY1dPSEFyMlNyRnF3TnJ3QUR2NWY4Y2oyRU5XczhvUFA0V3FOR1lxeDNRMVE4b3pYY21vR2FIc0VPdFJMQnk0MG1zSmZkUnZfdF9iaDlONUFwdzhocTB6bUxnNmxnamtzS0VtbmlfOFhXZWtCTVNIVXlNajNjd25pdEtmZXd2aGpmOEFr?oc=5
+
 - Bhatti Vikramarka visits QuantumScape headquarters, explores battery technology collaboration - The Hindu
   Bhatti Vikramarka visits
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTVNTZlVlRF9STWFGRk1rUFpQNXRQWlJ0N29XQzlIUnVuYVhHbVA3MEdiODdaY0RXUFlfNndfeXBpX250STllMnpKTjlzZGI4RE9WY0ZyVnkwOHc0N1BUd0FjcURqOWNQZVd1Y05NeTlMZXJQTGx1a3lFZFdqRkhRQ1FEaEVQWTZDOHZrblFseWNlTkQyRVNwWjJKb0RQMTlvcVA4SW5nekJYZzRscjRUZTMwdlJTVmFrZ25ESlpfUUtzWlMxS3lMRTNQc01kWkNKN0ZReTlJc3d4VTRHTFp4TzQ3X05uTjd5RFBHRUQ4d2FyenPSAfoBQVVfeXFMTzExRjh4Z2pNUHNaM0tCQkJqbV8yNk5RTkY4cThSS2ZBZGhLbTFGS0Fod0JkN2JyZEZfenBoWEtBVy02NEFZU1ByUEtZdElwckpkd20xcXVkNkxRVnpiQmpZTHlyOXJLb21DQTYwRVZMRk9QYUlYOFlEb3J5cjZuaDUyRGljcjhqLW13QkxlZEpGb3BsNm1iekRHRXU5enNWZkY2aF9kQ2x4WDVXQkNKN3llTGZWekpqRlpKd1UwX0hyZUlJVkNyTlpSdGVNbkFFUlRmem9RbllwUjlBTjV4UDhjTFcxSXZJUlM4Y1BsTkRzU3VsZm05YjhuUQ?oc=5
 
-- These startups are chasing the next big thing in LLMs - MIT Technology Review
-  These startups are chasing the next big thing in LL
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5
-
-- Anthropic signs $9.1 billion, 20-year AI cloud deal with Bitcoin miner Riot Platforms for Texas data centre capacity
-  Anthropic has signed a $9.1 billion, 20-year deal with Bitcoin miner Riot Platforms for 191 MW of AI data-centre capacity in Texas
-  🔗 https://www.livemint.com/companies/anthropic-signs-9-1-billion-20-year-ai-cloud-deal-with-bitcoin-miner-riot-platforms-for-texas-data-centre-capacity-11786430274769.html
-
-- Vietnam’s VinSpace signs deal with Elon Musk’s SpaceX to launch its first satellites in 2027
-  Vietnam’s VinSpace signs deal
-  🔗 https://www.livemint.com/companies/vietnams-vinspace-signs-deal-with-elon-musk-s-spacex-to-launch-its-first-satellites-in-2027-11786425981178.html
-
-- Hyderabad’s Café Niloufer engages advisors to explore funding options
-  ABR Cafe has engaged PwC and The Rainmaker Group to explore
-  🔗 https://www.livemint.com/companies/news/cafe-niloufer-abr-cafe-funding-options-restaurant-chains-india-11786415166291.html
-
-- NVIDIA partners with Apollo, BlackRock, Blackstone, KKR and others to mobilise over $500 billion for AI infrastructure
-   NVIDIA has partnered with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create AI compute financing platforms. The platforms aim to
-  🔗 https://www.livemint.com/companies/nvidia-partners-with-apollo-blackrock-blackstone-kkr-and-others-to-mobilise-over-500-billion-for-ai-infrastructure-11786419485171.html
-
-- Multiples PE nears deal to acquire $80-100 mn stake in Giva
-  Multiples is likely to value Giva at about  ₹6,000
-  🔗 https://www.livemint.com/companies/news/multiples-to-acquire-stake-in-giva-private-equity-india-jewellery-market-11786415099782.html
-
-- Small-cap stock jumps 4% after receipt of order worth  ₹740 crore
-  Krystal Integrated Services share price opened at  ₹611.85 apiece today, as compared to previous close of
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-krystal-integrated-services-jumps-4-after-receipt-of-order-worth-740-crore-11786428662807.html
-
-- QIP fundraising hits one-year high as deal pipeline gains momentum
-  The recent pick-up in QIPs reflects companies taking advantage of a favourable fundraising window.
-  🔗 https://www.livemint.com/market/stock-market-news/qip-fundraising-india-deal-pipeline-stock-markets-listed-companies-adani-enterprises-11786427137710.html
-
-- Nifty Rejig: BSE to enter Nifty 50, Wipro moves to Nifty Next 50; Hitachi Energy, Polycab join Nifty 100
-  NSE Indices will implement a significant reshuffle of its indices. Key shifts include the inclusion of BSE and Wipro, which will impact portfolio rebalancing.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-rejig-bse-to-enter-nifty-50-wipro-moves-to-nifty-next-50-hitachi-energy-polycab-join-nifty-100-11786428654633.html
-
-- PC Jeweller share price jumps 5% after Q1 results 2026. Do you own?
-  PC Jeweller share price opened at  ₹10.20 apiece today. The multibagger jewellery stock touched an
-  🔗 https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-jumps-5-after-q1-results-2026-do-you-own-11786426853564.html
-
-- Blue Cloud shares jump over 30% in 2 days after joining hands with Malaysia's SpaceX International for AI infra
-  Blue Cloud share price has surged nearly 31%. The stock hit a 52-week low of  ₹16.51 on 27 January 2026
-  🔗 https://www.livemint.com/market/stock-market-news/blue-cloud-shares-jump-over-30-in-2-days-after-joining-hands-with-spacex-for-ai-infra-11786426650460.html
-
-- India must shape its AI journey rather than be shaped by default: RBI Governor Sanjay Malhotra
-  RBI Governor Sanjay Malhotra says India needs to shape its artificial intelligence journey rather than letting the technology shape the financial sector by default. Adopting AI requires a complete transformation in how institutions evaluate risk, serve customers, price
-  🔗 https://www.livemint.com/technology/india-must-shape-its-ai-journey-rather-than-be-shaped-by-default-rbi-governor-sanjay-malhotra-11786428751973.html
-
-- Meta open sources Muse Glimmer AI model, Zuckerberg says ‘superintelligence should empower everyone’
-   Meta is open sourcing its Muse Glimmer AI model, according to CEO Mark Zuckerberg. Zuckerberg
-  🔗 https://www.livemint.com/technology/tech-news/meta-open-sources-muse-glimmer-ai-model-zuckerberg-says-superintelligence-should-empower-everyone-11786416747760.html
-
-- AI evolving as core intelligence layer in Indias fintech transformation: ASSOCHAM-KPMG report
-  India's fintech ecosystem is entering a defining phase of transformation. Artificial Intelligence (AI) is evolving from a tool for automation and analytics into a strategic
-  🔗 https://www.livemint.com/technology/ai-evolving-as-core-intelligence-layer-in-indias-fintech-transformation-assocham-kpmg-report-11786419422893.html
-
-- Driver who broke the sound barrier attempts another land speed record in Utah
-  Driver who broke the sound barrier attempts another
-  🔗 https://www.livemint.com/technology/driver-who-broke-the-sound-barrier-attempts-another-land-speed-record-in-utah-11786411813906.html
-
-- Meta launches Muse Glimmer as Zuckerberg calls for fewer US AI curbs to beat China
-   Meta has launched Muse Glimmer, a new open-weight artificial intelligence model designed to run on a single graphics card. Chief executive Mark Zuckerberg
-  🔗 https://www.livemint.com/technology/tech-news/meta-launches-muse-glimmer-zuckerberg-urges-us-to-ease-ai-curbs-to-compete-with-china-11786363574645.html
-
-- S&P 500 closes little changed as oil rises on Iran uncertainty, Intel leads chips lower - CNBC
-  CNBC: P 500 closes little changed as oil rises on Iran
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks - Yahoo Finance
-  &nbsp;&ngt;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmlzTk4xbWluQ0k2b3duTEdqdHZBMkQwOUJjU19ieVpKeGVTcmlEQWxuV0lvTXJPNktWMTJQelJkb0hTSURFT3h0X1EySkFwM2UtWjFuMW43S182d3BDNFg4YmYtNGxZdXNaUW0wOWpqdkJXS2xEWnJUai00X1VWUzVLSVNSNFZyNXNWd2NXQVFtY2cwdFZBOXczSk9ybUFIZVQtMFozS3hRbHlVbW1hZ1FPczFsN2t6TkNoWm54OEdXYUhoQl9SRE81dTYxeDQ?oc=5
-
-- Oil Surges With No Hormuz Deal in Sight - WSJ
-  Oil Surges With No H
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOT0Eza0pRZU5EUEZRdGlNUkJBRE45NllJa0VCXzc3YVI2UVVaYnB0YjZsZUtub01jMk0zNXo0UWQ0dUVEQjRlZnZKYnVadE9fZkdUZkg4OHJfcVlVVDJPdGh3eDZJa1Fjdm9vT2Foc0s2ZjNDdjlnejVVa3RfcjQwU1g4Unp6ZzdUQ2ZnWXRCdw?oc=5
-
-- Stock Market Today Live Updates: BSE Sensex slips over 350 points in early trade, NSE Nifty50 slips below 24,500 - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiswJBVV95cUxQMjVwdS0wZ3RQckJsWWhEcHpoTGIyU1JqMU1aSzZIbEh0eTl0eFFiMGxJbW83MjAzM3Q3N1lYYUszU21lTHpLNjNkWWtZcnBLcW5WckdkNk1PdnlYSFJzUzBJQ0NXTlNKR0
-  🔗 https://news.google.com/rss/articles/CBMiswJBVV95cUxQMjVwdS0wZ3RQckJsWWhEcHpoTGIyU1JqMU1aSzZIbEh0eTl0eFFiMGxJbW83MjAzM3Q3N1lYYUszU21lTHpLNjNkWWtZcnBLcW5WckdkNk1PdnlYSFJzUzBJQ0NXTlNKR0xCWWJFbkhJTVNqOWJlYUx4V3NwcWUycmlyQWQ0bHlYOUVVdlFmTk42Tzc1T0xzdHNScktOLWREbmkxRWxlbFNEa3NNc3FBR21tSTFZQjVEaEZzQWJUOEVMNnNUZDhXb2QtaVRFbzVUWjVhWEZGR3hKdFZCb1cxUUVhUTloUGNqY2o3VEdZYUhYbVA5dEhiQlN4N3o4QS1QR1g0RGZVN2tFRXBhY1VCU3Y0MzJtcFFHb3dENjFhNVZ2TlpuTmxNNVZhbW1HZWVrUk400gG4AkFVX3lxTE9uV2ZXc0R0c1laTUkydXBBZjRmVERxWG1CR2dFcG9FQTRxZTZGdHpuMTdUU0pDMTRtdTJacWR6cmRYa0doMkNkaEg5eVZUcGh4Ulh6ck84Mld2LW1uVm40Z1NkWEZ6MFh6UWloeUJRd3I0SkRFRlRsTlRaWEVlWUxZWVU2M01lZmFxeWs2OTFxLWVOXzQySVZjZXhPUWh5U25LNm02U2VGOVN6V0FUbnk2LXpoLWF2V2JqRXctdXJLelkwRnBfN2FEVTRxY0ZDRFBaY2tZQ0o1Ymk5TlV3T0QwTDlyMjYtemJRa3lVNmYxV1Q4MjZvbGZBcWtyQWhqckduWUVQNG5idmpJSmR1WTd3SXVzY1VfYjdIaVVqWXVlZEJxbFFVeXd5WGRSOVJVdEFYM3FuS21VWA?oc=5
-
-- Oil prices rise, Asia stocks drift on US-Iran stalemate - Reuters
-  Oil prices rise, Asia stocks drift
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5
-
-- Aarti Pharmalabs shares rally over 33% in two days post Q1 results. What is driving the surge?
-  Aarti Pharmalabs shares have surged 33% in two days after the company reported a 65.4% year-on-year rise in Q1FY27 profit and 38.7% growth in revenue
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aarti-pharmalabs-shares-rally-over-33-in-two-days-post-q1-results-what-is-driving-the-surge/articleshow/133144352.cms
-
-- SpaceX rally signals stronger growth ahead with Starlink and AI
-  SpaceX shares reclaimed their IPO price after a three-session rally, recovering sharply from recent lows. The stock’s outlook is being supported by bullish expectations around Starlink, orbital AI infrastructure and Starship. However, recent volatility highlights
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-rally-signals-stronger-growth-ahead-with-starlink-and-ai/slideshow/133144030.cms
-
-- Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment
-  Chinese stocks traded mixed and Hong Kong shares edged lower. Investors weighed fading hopes of a US-Iran peace deal and its impact on oil prices. Crude stayed near one-week highs amid
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms
-
-- Oil India shares jump over 5%. What made Emkay upgrade the stock after Q1 results
-  Oil India shares jumped over 5% after strong Q1FY27 results prompted Emkay Global to upgrade the stock to ‘Buy’ The brokerage cited attractive valuations, higher crude production and improving gas evacuation prospects. El
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/oil-india-shares-jump-over-5-what-made-emkay-upgrade-the-stock-after-q1-results/articleshow/133143729.cms
-
-- Jubilant Pharmova shares decline 6% after Q1 profits falls 45% YoY
-  Jubilant Pharmova shares fell after Q1 profit plunged 45% YoY to Rs 56 crore. The profit decline was attributed to weaker operating profitability and higher depreciation.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jubilant-pharmova-shares-decline-6-after-q1-profits-falls-45-yoy/articleshow/133143391.cms
+- L&T Technology Services Launches AgenticIQ™, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience - ThePrint
+  T Technology Services Launches AgenticIQ™, an End-to
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeGJUU2IwOXNSWU1qb3JZSFZiRFg2UkpwY2dodVliT01pZTZEM1lvVXJva0JsSmwxOElKOXkzUjEyR1Q1bW9ZaUhqekhSR0l0ZExPcUVfNkZqaHVyWEZfU240Rjdldm9XTkM2dXZVUC1hM0ZzRVZzVWN4cklTM1dOOXF2S2RIZ2hiSEdOdGRWS3ZNR280NHpOMEZkWGFobDZ0SkMwR3pPSTZmRWZnMHVLbUdYTEo2alBVT1gwZ0Z0Tm9WT3hOdXpnNDlBMW91b2xPN2taVmk0WE5uUnRfYjRRYTJpQlZYeEhCaHFZMm5QandqMlRjY0FTV1F6MmdkQ2dpaHVsTzdNYm_SAY4CQVVfeXFMTi1OMkk4Z2d6dkx3NGdjcld5N3B6SGw2aTg2UGFkbDBlQmhKckFud1d1d0Q2ak1xUFU1T1FwTnVWTlFlcEFTak1PR0J6OU1GUFJQLXk1NW81bjJkcHBWWkxZSEFpVTNUak5WNDdsNTdseC1RWFZMa1hkd2tfTk4wNmxNR092VFpJUi1LTE5hdEJicWFiT2w3Yjg3UlMzZjdxd2VuVXFIMnFSWkJ5MGZQdExFYWltbHMtbkdYQjZNYURiSzIzYVlqd0NnekhlMVZDekJkWnVlWjUzRHA5YU9Sem9UVzF3alRBRXNDRXVMTUpkaGZBMnkzSzJXSjJra1J3Z1dZOER3M3BCQlJLSUFR?oc=5
 
 - Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
   Maharashtra's Ladki Bahin: Why India
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
 
-- More Jobs, Lower Power Bill? What India's 300 GW Clean Energy Feat Means For You - NDTV
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXltcWR3VU1odzlHQUZUcXZzMFVfWTJxVGJXcVZ6Yjl3WktWNFlNVkJMaE5tZmtMNWp2dnZpQjdVTUNkSmlHTnBHb2lkQmlNNGdBOEhwQ2lzU3RBZ3p3OVlHNExWYzg1TWk4V3k0Szk5S0h2QTlESFh6b1ZGNVJBNVp6NUlDN1FISnFzek5nbjVkc01uaVZDN19QT1dPNWVCeWc4OGZNa3RSZUMxdWRKTmdreW1aZ9IBvgFBVV95cUxQaGRUNGpsVUV4Sm1vOWQ1Wlloa0hEWDZndTVIdy16dUVBWU5CNjFkal9nYWtQUmNlMnhFUEp3OTNWeTQxZjUwWWpCTG1PbDBiZW5vRnVaczR6S3pCZmFpN0ZnR3hzOEc3T0dIMmhCOE90SUJtMGw1dkZyQ1NKdlRYcFBtekVOazNLOVl0RGFFQlI3Rk1tTWVLeE9zNW9WYWt4XzZWcS1JTlpJcWttM0I3U29ocjVoOTJKeFYwdUdn?oc=5
+- Pilot on Air India Phuket-Delhi flight tests positive for drugs, shows report | India News - Hindustan Times
+  Pilot on Air India Phuket-Delhi flight tests positive
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSlphNG93c1lzY2lrQTI2aUlmeU5GcGVORVlOZVBJU2swNElWRUJ2ekxHYkZwREtlSTBPamhnZ2lTdlRwd2lmOE9BWVlqdzRwZ3VlNHdERkVUTWQwMkdjbWVXRE1BTjFfczhrNUtPS3VpRmItUUtVWG9DLW5LM2NFTWZldmFzQ2ZWU1d2YWRHejZGX3VKOExLVUV1cm1mWUtTNnZPXzkzSkRiNkNUS1pOSVVpRHBsS0d6VVNMeFlqYXo1VDJUM3RRNFlSS0ZqMUpNcVFpYWpXTjd1MnZ0T0wzcHRlONIB6AFBVV95cUxOZDRfYWJhVEZHTFhkZE5sMTFoekx3cE8zT29BX1FBNm44QjBfSG5ERjhqZnR6N3IwU0c1WkRWY3ZtbUg4VlIzMnF5RXBXTmcxMVZ5MHItUHJtVjVTbXZVc1BvUzBsd1MzdFY3Y2VvX1ZOWkh2OS1hRkVVSDhQZkduZlcwejY4eXlJdDBZODBHdHBmZzVVRTVSVWIwWGtSa0hDWUJnZmlzNGRtX1AwWWNDeVhKWFBDRzRNNndKMkhTaG1IOWNOY3R4dllWYzVIdGFmbXVlLTJHREVmNHRXMVpoRTJselV4NG5t?oc=5
 
-- How Saudi-Pakistan-Turkey pact casts a terror shadow over Delhi | India News - Hindustan Times
-  A terror pact between Saudi Arabia, Pakistan and Turkey has
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2dGd1N1VFFld3NqcFJrZTQ5dHFoVEMwOFhxQ3Qzb3lCWUYwLS1icnFYWUU1SnhnRXlrblE4NU5aUHpfY2t2SlYwN3ZrZm5CTnZ4RFZscUhTWWNnYnFaOGZ5QzJnR19JS3ZXNm9iQU9uNXk5dXFvQWJrS25ZdEJRVDdSMTE4WGNOajc0YWwyTjRsVlZLUGFoRmFEVkgxTzctaGZuUU0tMmhKYjF2U3drQnJQUkluTkZ0aWdWb0hVVmRSU2Nf0gHKAUFVX3lxTE1SVlNuMWdSVzh6Qm5kSmdCYWViUHV4M1BKYlota050VDhBY3NPTGlmZ0VDN0UzR0U3OC15QUlMSC14TlRyMFI2Y0pTQmMyUTd4eEN3aDVFd0d4VlgtbUp3bTRHaWhvN2s0Tm16eFpuRjJLRDlqNHlETVp3RFNyR1JlcTJzYnhFZWdJcE0tcmVhdHRJcWExVHlYY3EtcGVycjMzdTZ4VHY1Q0wzcDNwS29OMnRWclRKUnpfRVQwc08tOF9GbHBTdEZfaHc?oc=5
+- 'Wear Proper Clothes,' Rekha Gupta Tells AAP MLA After Video In Undergarments - NDTV
+  'Wear Proper Clothes,' Rekha
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0ZoNWZEZmlNNlNfUzFTMXh1UEVtNDdvQlJRQWFSRE54ZmE2S0Rna1JkQlR4ajFwSmF6aTZBVTRWQjFfUEFGb2U2OXRBa1hVQmd1ZFh4ZkdUUi00d01LYWxXRTQ3WEhmNkVWNngxeVdEVFV2QmlpUnJablR3eG9xWXdjYkRidHdlNGVsV29DWEFXbzJJOUZ2eGRIUUlqMHh0SFdxZFFZZWxILU9peEEzanpwR2tpRHdCODVBSTd4WjFxb0dxN3VhVEc4Ri1jUTluVUxScFN0VW43Nk80ajdGSzlINjd0UdIB7gFBVV95cUxQZk9WaVZiMXpSOFRhdHZYdDU2Q29YSTdqX2E1R0txUVFJN1JEbThuR0ZDYzdBVjZMcWJUMkxYXzZOVTZVUEs4STNBTGZlRHdrMGJDU0QwRWlROHdER0tKNmxMWWJyUFFvSDc1NmlVbWFYZ1hCUEhGY0l2cVRmVFh3ZkZEdzhkUmlXazAxRDMyRlpxQ2JEWWNGdWJJLS1kRUJmVDlwT2RsQTJKNWNTd0hKNEwwTkxmaTdvUnI4bVNBUEtQZERyMTB6T1d0TkFBNUFWcUFRUW8yNGJ0dVlWRVplS1BZdDlSZTBuY1NxVVZ3?oc=5
 
-- The view from India Newsletter A new security architecture in West Asia? - The Hindu
-  The Hindu: A new security architecture in West Asia
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkJFWll3M0M1aGdhcWdFR0U5WjNMdVFyNGowQWlXRE9Md0s0RHNlNjJyYnJ4X3o0eENOMkc0eUN3Y2ZSY1ZCSTAyUnhTTUFDdGV6cDFlNDM0V1hPd25WVVlNMENRSFBnalNHX1lnR2J0VFVqYzlMRG1hbE1vaWV3RU5tdDdGMExQMTEzdURDSFlrNG5TUWdpQUlZaExVTUJnMkpnYTExcDNlRzZ2am5odk8zM1h2bllNMzhGMVZiZXRQYTEtRE9Bd09NZVTSAdMBQVVfeXFMT2VuMlB6MlFGVXZlLWxFNTcwbjVuQ2pWaV9vWHNpRDA4bUdQZ3RGLUhsM1ZhWkZZNVJwLUFzY0NpWmRIMW9SWHpKSER6azNtRE9oX01xcElTVUVJSFFIbjNJaldHcWNoQXBzZDdzZS0yRGpmN2tJd3RZdXdoNk5XVnFTQkJWZVhaUExNZEQ3aTlaWWNFVnJCOWU1VWR3bHBCYkFPYmhadkZQLUZ2b25ZSVZMZ1ZtNDN0c3N3cWRCMkd0SnFYMGREOThZUGxEeVgyVEIxOA?oc=5
+- As conflict in the Middle East intensifies, India’s relationship with Israel deepens - The Guardian
+  As conflict in the Middle East intensifies, India�
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3I5SE9SOTNVLWZ1bzlRQTBRbENMbVBhM1ZsR3NPUUl4a2tWeFU5dkt6UkpuS3pZajdaY3VyRTdycDh6R29kS0U0MEdoUlNBZHBfdFNxSU42X0w1NEw5ckU0RlhSeF9iazNJejY3YmtLY1VycERmZ2FUSkpKSHBkVDRFOUFpNlRNbElrSDlMZWsycGRjUy02RXJXU2RiTHZS?oc=5
 
-- Police use teargas on young Indians as government jobs protest escalates - The Guardian
-  Police use teargas on young Indians as government jobs
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1FScEZ3b1NMaXk2V1dOMHBuYm9rQWprYzNjOTd5X1puQU8zd3NjSURTQ1U4V3R4aXk2cXBJUjF1bzhGdDNWcVN3eUNaTks0YVdKaHZLMVNxT18ybEhveHpwVmVDaEhWWVRVRGtOckVrZ0htYnNxNzJDb21JYkcxSkxfMlE2T2pQMTJUNENFVjFTTHUwbkJubWVjZkpuRm1XRWFpV0VRNDBrRHY0TmVLWWVmdzJLNjhQZExkM2tYbTlCQQ?oc=5
+- IPL cricketer Abishek Porel arrested in rape case; Bengal Police take Delhi Capitals player into custody - The Times of India
+  IPL cricketer Abishek Porel arrested in rape case;
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNZ1FqaTllUEVtNlotaFlDOWc1Ymg0bFJLeVVoV200M09iTnBfR01DMkhLMDN3ZFlhNXY1NXNjS2ZsLTl1Sk8yZ1E0OTUxMGZMZXBiV2ZQa0tVRHc4YnhxVTBLUGRWOFN1eWpzNEhidGtqcnVlMURvT3NKZ1Y5dnRDcTBzN3ZKYkQzaFVtVFBycXlpZXJseFVMUFloZHlxYlVDb2Q5UlF0NE9sOWpsUkpmZU9ENEFyNFBCV0N5SmpXZTlLWWRiNzZqd3dRNmdfa19zOFl6Qmk1S0NKZGo2dXpzREhKcjJOdUp0MS1uRDhObkI5SEJVakFSTE9qQ0ZBSEM3YWJOZEVnMnVHTGN4RkdPSUQzNNIBmAJBVV95cUxNYzBOSFc3OW5rR1NLa2N4Y2dSSmlsLUlzdFQybVdTdlZXSXBTcHFzNlVHbEhQM09EU3Y2NGhBUUozaS1fQ0tIRHJIZjZkN0JWeGMyN1V3VnFYdEJTOTBBS3JGN05pRFVsWGZCLVNKYTNQYkxTTmhqU1dpLTNDQ1VpVVB4cXp4RktOS2FmbXB5UmE4ZFZ1eDczZmpZNGljZ0tOX0tBZ1dEcGZqa2xhYXJwYl9iVVpleEpJdVVSSV90bkFBb24tX21tUmhWYmdPVFpnSl85c0xfTUxyZE5nUkEwdUxFZ1ItSW5lQkpvLURCSk1IMnVpV1BHb0ZkMXYtTEk0eS1venN1LUZvX2xHYzBoeXdNTmdrdi1Q?oc=5
 
-- Discovered Materials Raises $9 Mn For AI-Led Semiconductor Material Discovery
-  AI-powered materials discovery startup Discovered Materials has raised $9 Mn (about ₹85.9 Cr) in a seed funding round.
-  🔗 https://inc42.com/buzz/discovered-materials-raises-9-mn-for-ai-led-semiconductor-material-discovery/
+- 1100% rally in five years! Small cap multibagger stock under  ₹50 to be in focus on Wednesday; here's why
+  Hazoor Multi Projects, a small-cap stock, has received a  ₹24.33 crore work order from NHAI for user-fee collection services
+  🔗 https://www.livemint.com/market/stock-market-news/1100-rally-in-five-years-small-cap-multibagger-stock-under-rs-50-to-be-in-focus-on-wednesday-heres-why-11786447279657.html
 
-- Table Space Files DRHP For ₹800 Cr+ IPO
-  Table Space has filed its DRHP with SEBI for an IPO comprising a fresh issue of shares.
-  🔗 https://inc42.com/buzz/table-space-files-drhp-for-%e2%82%b9800-cr-ipo/
+- Expert view: Market stable due to strong SIP inflows; time to dump stories and focus on cash flows
+  Screening for companies with P/E ratios under 20 and PAT growth above 20% reveals limited options across sectors like capital goods and automobiles. The market's focus has shifted to execution over narrative.
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-market-stable-due-to-strong-sip-inflows-time-to-dump-stories-and-focus-on-cash-flows-11786446913455.html
 
-- Inside Dark Store Festive Stock Up Strategy
-  August is here, and India’s biggest shopping months are just around the corner. From Raksha Bandhan and Ganesh Chaturthi to&#82
-  🔗 https://inc42.com/features/inside-dark-store-festive-stock-up-strategy/
+- Penny stock under  ₹1 hits 5% upper circuit after provisional Q1 results
+  So far in the current month, the stock has declined 13.51% after a 48% jump in
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-1-hits-5-upper-circuit-after-provisional-q1-results-2026-11786445169292.html
 
-- IPO-Bound Tonbo Imaging’s Net Profit Sinks 30% YoY To ₹362.6 Cr In FY26
-  Tonbo Imaging reported a net profit of ₹362.6 Cr in the financial year ended March 31, 2014.
-  🔗 https://inc42.com/buzz/ipo-bound-tonbo-imagings-net-profit-sinks-30-yoy-to-%e2%82%b9362-6-cr-in-fy26/
+- Oil rises toward $90 as fresh Trump demands cloud Hormuz deal
+  President Donald Trump made sweeping new demands on Iran, further clouding the outlook for a deal to reopen the crucial Strait of
+  🔗 https://www.livemint.com/market/commodities/oil-rises-toward-90-as-fresh-trump-demands-cloud-hormuz-deal-11786445901985.html
 
-- B2C Giants Add AI Twist, LEAP India IPO Day 2 & More
-  B2C Giants Add AI Twist, LEAP India IPO Day 2.
-  🔗 https://inc42.com/buzz/b2c-giants-add-ai-twist-leap-india-ipo-day-2-more/
+- Intel raises $20 billion from upsized share sale: Where the money will go?
+  Intel raised $20 billion in a share sale, exceeding its initial $15 billion goal. The offering drew over $100 billion in demand.
+  🔗 https://www.livemint.com/market/stock-market-news/intel-raises-20-billion-from-upsized-share-sale-where-the-money-will-go-11786443786970.html
 
-- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
-  Maharashtra's Ladki Bahin: Why India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
-
-- More Jobs, Lower Power Bill? What India's 300 GW Clean Energy Feat Means For You - NDTV
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXltcWR3VU1odzlHQUZUcXZzMFVfWTJxVGJXcVZ6Yjl3WktWNFlNVkJMaE5tZmtMNWp2dnZpQjdVTUNkSmlHTnBHb2lkQmlNNGdBOEhwQ2lzU3RBZ3p3OVlHNExWYzg1TWk4V3k0Szk5S0h2QTlESFh6b1ZGNVJBNVp6NUlDN1FISnFzek5nbjVkc01uaVZDN19QT1dPNWVCeWc4OGZNa3RSZUMxdWRKTmdreW1aZ9IBvgFBVV95cUxQaGRUNGpsVUV4Sm1vOWQ1Wlloa0hEWDZndTVIdy16dUVBWU5CNjFkal9nYWtQUmNlMnhFUEp3OTNWeTQxZjUwWWpCTG1PbDBiZW5vRnVaczR6S3pCZmFpN0ZnR3hzOEc3T0dIMmhCOE90SUJtMGw1dkZyQ1NKdlRYcFBtekVOazNLOVl0RGFFQlI3Rk1tTWVLeE9zNW9WYWt4XzZWcS1JTlpJcWttM0I3U29ocjVoOTJKeFYwdUdn?oc=5
-
-- How Saudi-Pakistan-Turkey pact casts a terror shadow over Delhi | India News - Hindustan Times
-  A terror pact between Saudi Arabia, Pakistan and Turkey has
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2dGd1N1VFFld3NqcFJrZTQ5dHFoVEMwOFhxQ3Qzb3lCWUYwLS1icnFYWUU1SnhnRXlrblE4NU5aUHpfY2t2SlYwN3ZrZm5CTnZ4RFZscUhTWWNnYnFaOGZ5QzJnR19JS3ZXNm9iQU9uNXk5dXFvQWJrS25ZdEJRVDdSMTE4WGNOajc0YWwyTjRsVlZLUGFoRmFEVkgxTzctaGZuUU0tMmhKYjF2U3drQnJQUkluTkZ0aWdWb0hVVmRSU2Nf0gHKAUFVX3lxTE1SVlNuMWdSVzh6Qm5kSmdCYWViUHV4M1BKYlota050VDhBY3NPTGlmZ0VDN0UzR0U3OC15QUlMSC14TlRyMFI2Y0pTQmMyUTd4eEN3aDVFd0d4VlgtbUp3bTRHaWhvN2s0Tm16eFpuRjJLRDlqNHlETVp3RFNyR1JlcTJzYnhFZWdJcE0tcmVhdHRJcWExVHlYY3EtcGVycjMzdTZ4VHY1Q0wzcDNwS29OMnRWclRKUnpfRVQwc08tOF9GbHBTdEZfaHc?oc=5
-
-- The view from India Newsletter A new security architecture in West Asia? - The Hindu
-  The Hindu: A new security architecture in West Asia
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkJFWll3M0M1aGdhcWdFR0U5WjNMdVFyNGowQWlXRE9Md0s0RHNlNjJyYnJ4X3o0eENOMkc0eUN3Y2ZSY1ZCSTAyUnhTTUFDdGV6cDFlNDM0V1hPd25WVVlNMENRSFBnalNHX1lnR2J0VFVqYzlMRG1hbE1vaWV3RU5tdDdGMExQMTEzdURDSFlrNG5TUWdpQUlZaExVTUJnMkpnYTExcDNlRzZ2am5odk8zM1h2bllNMzhGMVZiZXRQYTEtRE9Bd09NZVTSAdMBQVVfeXFMT2VuMlB6MlFGVXZlLWxFNTcwbjVuQ2pWaV9vWHNpRDA4bUdQZ3RGLUhsM1ZhWkZZNVJwLUFzY0NpWmRIMW9SWHpKSER6azNtRE9oX01xcElTVUVJSFFIbjNJaldHcWNoQXBzZDdzZS0yRGpmN2tJd3RZdXdoNk5XVnFTQkJWZVhaUExNZEQ3aTlaWWNFVnJCOWU1VWR3bHBCYkFPYmhadkZQLUZ2b25ZSVZMZ1ZtNDN0c3N3cWRCMkd0SnFYMGREOThZUGxEeVgyVEIxOA?oc=5
-
-- Police use teargas on young Indians as government jobs protest escalates - The Guardian
-  Police use teargas on young Indians as government jobs
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1FScEZ3b1NMaXk2V1dOMHBuYm9rQWprYzNjOTd5X1puQU8zd3NjSURTQ1U4V3R4aXk2cXBJUjF1bzhGdDNWcVN3eUNaTks0YVdKaHZLMVNxT18ybEhveHpwVmVDaEhWWVRVRGtOckVrZ0htYnNxNzJDb21JYkcxSkxfMlE2T2pQMTJUNENFVjFTTHUwbkJubWVjZkpuRm1XRWFpV0VRNDBrRHY0TmVLWWVmdzJLNjhQZExkM2tYbTlCQQ?oc=5
-
-- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
-  Maharashtra's Ladki Bahin: Why India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
-
-- More Jobs, Lower Power Bill? What India's 300 GW Clean Energy Feat Means For You - NDTV
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXltcWR3VU1odzlHQUZUcXZzMFVfWTJxVGJXcVZ6Yjl3WktWNFlNVkJMaE5tZmtMNWp2dnZpQjdVTUNkSmlHTnBHb2lkQmlNNGdBOEhwQ2lzU3RBZ3p3OVlHNExWYzg1TWk4V3k0Szk5S0h2QTlESFh6b1ZGNVJBNVp6NUlDN1FISnFzek5nbjVkc01uaVZDN19QT1dPNWVCeWc4OGZNa3RSZUMxdWRKTmdreW1aZ9IBvgFBVV95cUxQaGRUNGpsVUV4Sm1vOWQ1Wlloa0hEWDZndTVIdy16dUVBWU5CNjFkal9nYWtQUmNlMnhFUEp3OTNWeTQxZjUwWWpCTG1PbDBiZW5vRnVaczR6S3pCZmFpN0ZnR3hzOEc3T0dIMmhCOE90SUJtMGw1dkZyQ1NKdlRYcFBtekVOazNLOVl0RGFFQlI3Rk1tTWVLeE9zNW9WYWt4XzZWcS1JTlpJcWttM0I3U29ocjVoOTJKeFYwdUdn?oc=5
-
-- How Saudi-Pakistan-Turkey pact casts a terror shadow over Delhi | India News - Hindustan Times
-  A terror pact between Saudi Arabia, Pakistan and Turkey has
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2dGd1N1VFFld3NqcFJrZTQ5dHFoVEMwOFhxQ3Qzb3lCWUYwLS1icnFYWUU1SnhnRXlrblE4NU5aUHpfY2t2SlYwN3ZrZm5CTnZ4RFZscUhTWWNnYnFaOGZ5QzJnR19JS3ZXNm9iQU9uNXk5dXFvQWJrS25ZdEJRVDdSMTE4WGNOajc0YWwyTjRsVlZLUGFoRmFEVkgxTzctaGZuUU0tMmhKYjF2U3drQnJQUkluTkZ0aWdWb0hVVmRSU2Nf0gHKAUFVX3lxTE1SVlNuMWdSVzh6Qm5kSmdCYWViUHV4M1BKYlota050VDhBY3NPTGlmZ0VDN0UzR0U3OC15QUlMSC14TlRyMFI2Y0pTQmMyUTd4eEN3aDVFd0d4VlgtbUp3bTRHaWhvN2s0Tm16eFpuRjJLRDlqNHlETVp3RFNyR1JlcTJzYnhFZWdJcE0tcmVhdHRJcWExVHlYY3EtcGVycjMzdTZ4VHY1Q0wzcDNwS29OMnRWclRKUnpfRVQwc08tOF9GbHBTdEZfaHc?oc=5
-
-- The view from India Newsletter A new security architecture in West Asia? - The Hindu
-  The Hindu: A new security architecture in West Asia
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkJFWll3M0M1aGdhcWdFR0U5WjNMdVFyNGowQWlXRE9Md0s0RHNlNjJyYnJ4X3o0eENOMkc0eUN3Y2ZSY1ZCSTAyUnhTTUFDdGV6cDFlNDM0V1hPd25WVVlNMENRSFBnalNHX1lnR2J0VFVqYzlMRG1hbE1vaWV3RU5tdDdGMExQMTEzdURDSFlrNG5TUWdpQUlZaExVTUJnMkpnYTExcDNlRzZ2am5odk8zM1h2bllNMzhGMVZiZXRQYTEtRE9Bd09NZVTSAdMBQVVfeXFMT2VuMlB6MlFGVXZlLWxFNTcwbjVuQ2pWaV9vWHNpRDA4bUdQZ3RGLUhsM1ZhWkZZNVJwLUFzY0NpWmRIMW9SWHpKSER6azNtRE9oX01xcElTVUVJSFFIbjNJaldHcWNoQXBzZDdzZS0yRGpmN2tJd3RZdXdoNk5XVnFTQkJWZVhaUExNZEQ3aTlaWWNFVnJCOWU1VWR3bHBCYkFPYmhadkZQLUZ2b25ZSVZMZ1ZtNDN0c3N3cWRCMkd0SnFYMGREOThZUGxEeVgyVEIxOA?oc=5
-
-- Police use teargas on young Indians as government jobs protest escalates - The Guardian
-  Police use teargas on young Indians as government jobs
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1FScEZ3b1NMaXk2V1dOMHBuYm9rQWprYzNjOTd5X1puQU8zd3NjSURTQ1U4V3R4aXk2cXBJUjF1bzhGdDNWcVN3eUNaTks0YVdKaHZLMVNxT18ybEhveHpwVmVDaEhWWVRVRGtOckVrZ0htYnNxNzJDb21JYkcxSkxfMlE2T2pQMTJUNENFVjFTTHUwbkJubWVjZkpuRm1XRWFpV0VRNDBrRHY0TmVLWWVmdzJLNjhQZExkM2tYbTlCQQ?oc=5
-
-- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
-  Maharashtra's Ladki Bahin: Why India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
-
-- More Jobs, Lower Power Bill? What India's 300 GW Clean Energy Feat Means For You - NDTV
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXltcWR3VU1odzlHQUZUcXZzMFVfWTJxVGJXcVZ6Yjl3WktWNFlNVkJMaE5tZmtMNWp2dnZpQjdVTUNkSmlHTnBHb2lkQmlNNGdBOEhwQ2lzU3RBZ3p3OVlHNExWYzg1TWk4V3k0Szk5S0h2QTlESFh6b1ZGNVJBNVp6NUlDN1FISnFzek5nbjVkc01uaVZDN19QT1dPNWVCeWc4OGZNa3RSZUMxdWRKTmdreW1aZ9IBvgFBVV95cUxQaGRUNGpsVUV4Sm1vOWQ1Wlloa0hEWDZndTVIdy16dUVBWU5CNjFkal9nYWtQUmNlMnhFUEp3OTNWeTQxZjUwWWpCTG1PbDBiZW5vRnVaczR6S3pCZmFpN0ZnR3hzOEc3T0dIMmhCOE90SUJtMGw1dkZyQ1NKdlRYcFBtekVOazNLOVl0RGFFQlI3Rk1tTWVLeE9zNW9WYWt4XzZWcS1JTlpJcWttM0I3U29ocjVoOTJKeFYwdUdn?oc=5
-
-- How Saudi-Pakistan-Turkey pact casts a terror shadow over Delhi | India News - Hindustan Times
-  A terror pact between Saudi Arabia, Pakistan and Turkey has
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2dGd1N1VFFld3NqcFJrZTQ5dHFoVEMwOFhxQ3Qzb3lCWUYwLS1icnFYWUU1SnhnRXlrblE4NU5aUHpfY2t2SlYwN3ZrZm5CTnZ4RFZscUhTWWNnYnFaOGZ5QzJnR19JS3ZXNm9iQU9uNXk5dXFvQWJrS25ZdEJRVDdSMTE4WGNOajc0YWwyTjRsVlZLUGFoRmFEVkgxTzctaGZuUU0tMmhKYjF2U3drQnJQUkluTkZ0aWdWb0hVVmRSU2Nf0gHKAUFVX3lxTE1SVlNuMWdSVzh6Qm5kSmdCYWViUHV4M1BKYlota050VDhBY3NPTGlmZ0VDN0UzR0U3OC15QUlMSC14TlRyMFI2Y0pTQmMyUTd4eEN3aDVFd0d4VlgtbUp3bTRHaWhvN2s0Tm16eFpuRjJLRDlqNHlETVp3RFNyR1JlcTJzYnhFZWdJcE0tcmVhdHRJcWExVHlYY3EtcGVycjMzdTZ4VHY1Q0wzcDNwS29OMnRWclRKUnpfRVQwc08tOF9GbHBTdEZfaHc?oc=5
-
-- The view from India Newsletter A new security architecture in West Asia? - The Hindu
-  The Hindu: A new security architecture in West Asia
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkJFWll3M0M1aGdhcWdFR0U5WjNMdVFyNGowQWlXRE9Md0s0RHNlNjJyYnJ4X3o0eENOMkc0eUN3Y2ZSY1ZCSTAyUnhTTUFDdGV6cDFlNDM0V1hPd25WVVlNMENRSFBnalNHX1lnR2J0VFVqYzlMRG1hbE1vaWV3RU5tdDdGMExQMTEzdURDSFlrNG5TUWdpQUlZaExVTUJnMkpnYTExcDNlRzZ2am5odk8zM1h2bllNMzhGMVZiZXRQYTEtRE9Bd09NZVTSAdMBQVVfeXFMT2VuMlB6MlFGVXZlLWxFNTcwbjVuQ2pWaV9vWHNpRDA4bUdQZ3RGLUhsM1ZhWkZZNVJwLUFzY0NpWmRIMW9SWHpKSER6azNtRE9oX01xcElTVUVJSFFIbjNJaldHcWNoQXBzZDdzZS0yRGpmN2tJd3RZdXdoNk5XVnFTQkJWZVhaUExNZEQ3aTlaWWNFVnJCOWU1VWR3bHBCYkFPYmhadkZQLUZ2b25ZSVZMZ1ZtNDN0c3N3cWRCMkd0SnFYMGREOThZUGxEeVgyVEIxOA?oc=5
-
-- Police use teargas on young Indians as government jobs protest escalates - The Guardian
-  Police use teargas on young Indians as government jobs
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1FScEZ3b1NMaXk2V1dOMHBuYm9rQWprYzNjOTd5X1puQU8zd3NjSURTQ1U4V3R4aXk2cXBJUjF1bzhGdDNWcVN3eUNaTks0YVdKaHZLMVNxT18ybEhveHpwVmVDaEhWWVRVRGtOckVrZ0htYnNxNzJDb21JYkcxSkxfMlE2T2pQMTJUNENFVjFTTHUwbkJubWVjZkpuRm1XRWFpV0VRNDBrRHY0TmVLWWVmdzJLNjhQZExkM2tYbTlCQQ?oc=5
-
-- Why AI Adoption in Materials R&D Depends More on People Than Technology - EE Times
-  Why AI Adoption in Materials R&amp;D
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUdtUjc2SWVMVXdtRmZTYl9FMm11R2RxMEtXWXNUS0dpR1lYOEJJNVNZVEl0U1RoU2F4Q1Jyc0cwcnA0U3lkV3NMSm5CTG1qVTFPRlB5cWRTdDlmQzhsM3dGd1pRckJ2aTNERjVQT195ZFpsT1N4d201dEIzVGlXSW5BZHo2QVExdDJuZVlXbWllMktjR2tzb19zWQ?oc=5
-
-- Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model - The Guardian
-  Zuckerberg pushes ‘superintelligent�
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNaUw3LUFMNWxsM1dJa05NejczbTN5SUtXb3lIT2p3bHczMmhHNDZzU2pXQVlSaVg2NUltbjdyTW95d0ZYWXVLNW93TWFXN1FFOVU3Q0xUMjhRLUdtUE5ZdkRiVndrblVNX2ROVlpGX1hON2JsRl9MbUZDdVl5SjJobXdXemlJRVFVcDJQdGNOa2tfMEJmSEtwMnJkTEhUUQ?oc=5
+- RBI guv asks banks to build meaningful human oversight, says blaming technology is 'unacceptable' - The Times of India
+  RBI guv asks banks to build meaningful human oversight, says blaming technology
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOcGJrWThwOWRJZXB4M3d4U0FGVVhMUDRuV1o5RGtLZzFNamNwVUp5X2ZTZnlWNnNqV05lSm5BRGxvR0RkSVdGMlkxcFZwcW5HakktUjNVc0R2NXJFMEVYWFNPbGRyN1lmZURlLTFwYTc5em9wTFlveVh3YU9kTlF1MHIwUXJyZHkzY3R2T0ZkcHAtc1hfOTZrbFViQ1ctMkJYcERFM3dpcFc5X05aNUVCNER3Rmo4UzkxT0tncFFqdnFHS3lPLXY3ZHpRUkZVUjk1cHhGX1pzOVRsbkV1RUI3eTVsdFpMRXRxZkVFREhCM0R5a29wR0lUTmIzMzBwekRGeFdzVlNuelJ2V0Nz0gGSAkFVX3lxTE5BUFY4VXFhR1ZMMTZkblIzeEc2NWxBNkhpM0xQVkhIQUs2ZlAwV3lQOVdBT21NdmlyOUo0Q1JPcVN0N0cyODg2a1F6azJodERPanpzTzRjYTViY2JQUFk3TENYQXBTbk8zclN2ZmpBWFVKRkg1ZUJaVE5Zbi1PcUdfaDNiODIzYlNkNXJKb2RSMV91dHdYd05GZ28yWVRqSkl4SE45MUYxVUtEMTBhUFZBWmlrNWlqWU9PM0NzM1VWNm9mb092N2Q0ZUltSjNlTC1GcjFVOTFXRWh5Vnh3NERnRmJSWlFEdy0xclUzeTBlVlRmZU5UeFl0WVN5MC01UExJTDVDQUltc0VTUURIVDc4WEE?oc=5
 
 - Tech leaders say AI means less work - their staff say they work up to 90 hours a week - BBC
   Tech leaders say AI means less work - their staff say they work up to 90 hours
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aEVENWFmMDlmdlhpWmc5LVZRRmtuREs0UHZRZVZCRVZ0bWRMSWdNQlNtUGVId0k2cmJxTVpBelNyWmRmc2ktVnk1RVNIZ3hzeUhlZlZrVWR1UQ?oc=5
 
+- Greenply Launches Termivax, Indias First Anti-Termite Vaccinated Technology in Plywood - TheWire.in
+  Greenply Launches Termivax,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUNnSTY2Q3FDSk1qUjJYeXdDa2RzZ3JQS25QRWxOdkFZUi1sU2NlQm1VMXB6NUVqcFNfOTdiYjIxeTluU3lhaE14ZmtwdHNkM05qaV82SkVZcXFjMzFnNWdOVl9FeG94VnlSMlJvdWtNV21ER0RHVnRqdEJuZ3Job2pqTW1ORXFZNV9vVkJZWFdvUWt5SjFVeERRU2FHc1JiVGdTMnJGYlAyejQ3cmxWMTNrMkFQNVFpQzJLbDMzVkR4UdIBxwFBVV95cUxNUlNXU3lmRmlKMldBVzU4MF9uYkdtdTBJZFMtUmNUUkoya01YWEc0eGtBamg0V1VzeGJlRlVqUDFtTXhXY1dPSEFyMlNyRnF3TnJ3QUR2NWY4Y2oyRU5XczhvUFA0V3FOR1lxeDNRMVE4b3pYY21vR2FIc0VPdFJMQnk0MG1zSmZkUnZfdF9iaDlONUFwdzhocTB6bUxnNmxnamtzS0VtbmlfOFhXZWtCTVNIVXlNajNjd25pdEtmZXd2aGpmOEFr?oc=5
+
 - Bhatti Vikramarka visits QuantumScape headquarters, explores battery technology collaboration - The Hindu
   Bhatti Vikramarka visits
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTVNTZlVlRF9STWFGRk1rUFpQNXRQWlJ0N29XQzlIUnVuYVhHbVA3MEdiODdaY0RXUFlfNndfeXBpX250STllMnpKTjlzZGI4RE9WY0ZyVnkwOHc0N1BUd0FjcURqOWNQZVd1Y05NeTlMZXJQTGx1a3lFZFdqRkhRQ1FEaEVQWTZDOHZrblFseWNlTkQyRVNwWjJKb0RQMTlvcVA4SW5nekJYZzRscjRUZTMwdlJTVmFrZ25ESlpfUUtzWlMxS3lMRTNQc01kWkNKN0ZReTlJc3d4VTRHTFp4TzQ3X05uTjd5RFBHRUQ4d2FyenPSAfoBQVVfeXFMTzExRjh4Z2pNUHNaM0tCQkJqbV8yNk5RTkY4cThSS2ZBZGhLbTFGS0Fod0JkN2JyZEZfenBoWEtBVy02NEFZU1ByUEtZdElwckpkd20xcXVkNkxRVnpiQmpZTHlyOXJLb21DQTYwRVZMRk9QYUlYOFlEb3J5cjZuaDUyRGljcjhqLW13QkxlZEpGb3BsNm1iekRHRXU5enNWZkY2aF9kQ2x4WDVXQkNKN3llTGZWekpqRlpKd1UwX0hyZUlJVkNyTlpSdGVNbkFFUlRmem9RbllwUjlBTjV4UDhjTFcxSXZJUlM4Y1BsTkRzU3VsZm05YjhuUQ?oc=5
 
-- These startups are chasing the next big thing in LLMs - MIT Technology Review
-  These startups are chasing the next big thing in LL
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5
+- L&T Technology Services Launches AgenticIQ™, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience - ThePrint
+  T Technology Services Launches AgenticIQ™, an End-to
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeGJUU2IwOXNSWU1qb3JZSFZiRFg2UkpwY2dodVliT01pZTZEM1lvVXJva0JsSmwxOElKOXkzUjEyR1Q1bW9ZaUhqekhSR0l0ZExPcUVfNkZqaHVyWEZfU240Rjdldm9XTkM2dXZVUC1hM0ZzRVZzVWN4cklTM1dOOXF2S2RIZ2hiSEdOdGRWS3ZNR280NHpOMEZkWGFobDZ0SkMwR3pPSTZmRWZnMHVLbUdYTEo2alBVT1gwZ0Z0Tm9WT3hOdXpnNDlBMW91b2xPN2taVmk0WE5uUnRfYjRRYTJpQlZYeEhCaHFZMm5QandqMlRjY0FTV1F6MmdkQ2dpaHVsTzdNYm_SAY4CQVVfeXFMTi1OMkk4Z2d6dkx3NGdjcld5N3B6SGw2aTg2UGFkbDBlQmhKckFud1d1d0Q2ak1xUFU1T1FwTnVWTlFlcEFTak1PR0J6OU1GUFJQLXk1NW81bjJkcHBWWkxZSEFpVTNUak5WNDdsNTdseC1RWFZMa1hkd2tfTk4wNmxNR092VFpJUi1LTE5hdEJicWFiT2w3Yjg3UlMzZjdxd2VuVXFIMnFSWkJ5MGZQdExFYWltbHMtbkdYQjZNYURiSzIzYVlqd0NnekhlMVZDekJkWnVlWjUzRHA5YU9Sem9UVzF3alRBRXNDRXVMTUpkaGZBMnkzSzJXSjJra1J3Z1dZOER3M3BCQlJLSUFR?oc=5
+
+- DBS Bank extends Rs 520-cr credit to K Raheja Corp to develop commercial tower in Pune
+  DBS Bank India has announced a substantial investment of Rs 520 crore for the development of a commercial tower in Pune. Certus Capital has pledged over Rs 1,000 crore to various real estate projects in the first half of 2026
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dbs-bank-extends-rs-520-cr-credit-to-k-raheja-corp-to-develop-commercial-tower-in-pune/articleshow/133154476.cms
+
+- Tribeca, Ira Realty to build Trump-branded housing project in Hyderabad at Rs 2,000 cr investment
+  Tribeca Developers and Ira Realty are thrilled to announce their ambitious Trump-branded luxury housing project nestled in Hyderabad. The venture, requiring a hefty investment of Rs 2,000 crore, will boast two magnificent 65-
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/tribeca-ira-realty-to-build-trump-branded-housing-project-in-hyderabad-at-rs-2000-cr-investment/articleshow/133154431.cms
+
+- State Bank of India returns to dollar debt market, bankers see strong demand
+  State Bank of India is set to re-enter the dollar bond market, marking its first appearance in nearly a year. The nation's leading financial institution foresees strong investor interest in its five-year bond offer.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/state-bank-of-india-returns-to-dollar-debt-market-bankers-see-strong-demand/articleshow/133154390.cms
+
+- Indian bonds slip as crude hovers near $90
+  Elevated oil prices could potentially fuel inflation and strain India's fiscal balance. Ample banking system liquidity supported demand, especially for short-term debt instruments.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-as-crude-hovers-near-90/articleshow/133154375.cms
+
+- RVNL Q1 Results: Net profit rises 18% YoY, EBITDA more than doubles
+  Rail Vikas Nigam reported an 18.5% year-on-year rise in Q1FY27 net profit to ₹159.36 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/rvnl-q1-results-net-profit-rises-18-yoy-ebitda-more-than-doubles/articleshow/133154291.cms
+
+- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
+  Maharashtra's Ladki Bahin: Why India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
+
+- Pilot on Air India Phuket-Delhi flight tests positive for drugs, shows report | India News - Hindustan Times
+  Pilot on Air India Phuket-Delhi flight tests positive
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSlphNG93c1lzY2lrQTI2aUlmeU5GcGVORVlOZVBJU2swNElWRUJ2ekxHYkZwREtlSTBPamhnZ2lTdlRwd2lmOE9BWVlqdzRwZ3VlNHdERkVUTWQwMkdjbWVXRE1BTjFfczhrNUtPS3VpRmItUUtVWG9DLW5LM2NFTWZldmFzQ2ZWU1d2YWRHejZGX3VKOExLVUV1cm1mWUtTNnZPXzkzSkRiNkNUS1pOSVVpRHBsS0d6VVNMeFlqYXo1VDJUM3RRNFlSS0ZqMUpNcVFpYWpXTjd1MnZ0T0wzcHRlONIB6AFBVV95cUxOZDRfYWJhVEZHTFhkZE5sMTFoekx3cE8zT29BX1FBNm44QjBfSG5ERjhqZnR6N3IwU0c1WkRWY3ZtbUg4VlIzMnF5RXBXTmcxMVZ5MHItUHJtVjVTbXZVc1BvUzBsd1MzdFY3Y2VvX1ZOWkh2OS1hRkVVSDhQZkduZlcwejY4eXlJdDBZODBHdHBmZzVVRTVSVWIwWGtSa0hDWUJnZmlzNGRtX1AwWWNDeVhKWFBDRzRNNndKMkhTaG1IOWNOY3R4dllWYzVIdGFmbXVlLTJHREVmNHRXMVpoRTJselV4NG5t?oc=5
+
+- 'Wear Proper Clothes,' Rekha Gupta Tells AAP MLA After Video In Undergarments - NDTV
+  'Wear Proper Clothes,' Rekha
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0ZoNWZEZmlNNlNfUzFTMXh1UEVtNDdvQlJRQWFSRE54ZmE2S0Rna1JkQlR4ajFwSmF6aTZBVTRWQjFfUEFGb2U2OXRBa1hVQmd1ZFh4ZkdUUi00d01LYWxXRTQ3WEhmNkVWNngxeVdEVFV2QmlpUnJablR3eG9xWXdjYkRidHdlNGVsV29DWEFXbzJJOUZ2eGRIUUlqMHh0SFdxZFFZZWxILU9peEEzanpwR2tpRHdCODVBSTd4WjFxb0dxN3VhVEc4Ri1jUTluVUxScFN0VW43Nk80ajdGSzlINjd0UdIB7gFBVV95cUxQZk9WaVZiMXpSOFRhdHZYdDU2Q29YSTdqX2E1R0txUVFJN1JEbThuR0ZDYzdBVjZMcWJUMkxYXzZOVTZVUEs4STNBTGZlRHdrMGJDU0QwRWlROHdER0tKNmxMWWJyUFFvSDc1NmlVbWFYZ1hCUEhGY0l2cVRmVFh3ZkZEdzhkUmlXazAxRDMyRlpxQ2JEWWNGdWJJLS1kRUJmVDlwT2RsQTJKNWNTd0hKNEwwTkxmaTdvUnI4bVNBUEtQZERyMTB6T1d0TkFBNUFWcUFRUW8yNGJ0dVlWRVplS1BZdDlSZTBuY1NxVVZ3?oc=5
+
+- As conflict in the Middle East intensifies, India’s relationship with Israel deepens - The Guardian
+  As conflict in the Middle East intensifies, India�
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3I5SE9SOTNVLWZ1bzlRQTBRbENMbVBhM1ZsR3NPUUl4a2tWeFU5dkt6UkpuS3pZajdaY3VyRTdycDh6R29kS0U0MEdoUlNBZHBfdFNxSU42X0w1NEw5ckU0RlhSeF9iazNJejY3YmtLY1VycERmZ2FUSkpKSHBkVDRFOUFpNlRNbElrSDlMZWsycGRjUy02RXJXU2RiTHZS?oc=5
+
+- IPL cricketer Abishek Porel arrested in rape case; Bengal Police take Delhi Capitals player into custody - The Times of India
+  IPL cricketer Abishek Porel arrested in rape case;
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNZ1FqaTllUEVtNlotaFlDOWc1Ymg0bFJLeVVoV200M09iTnBfR01DMkhLMDN3ZFlhNXY1NXNjS2ZsLTl1Sk8yZ1E0OTUxMGZMZXBiV2ZQa0tVRHc4YnhxVTBLUGRWOFN1eWpzNEhidGtqcnVlMURvT3NKZ1Y5dnRDcTBzN3ZKYkQzaFVtVFBycXlpZXJseFVMUFloZHlxYlVDb2Q5UlF0NE9sOWpsUkpmZU9ENEFyNFBCV0N5SmpXZTlLWWRiNzZqd3dRNmdfa19zOFl6Qmk1S0NKZGo2dXpzREhKcjJOdUp0MS1uRDhObkI5SEJVakFSTE9qQ0ZBSEM3YWJOZEVnMnVHTGN4RkdPSUQzNNIBmAJBVV95cUxNYzBOSFc3OW5rR1NLa2N4Y2dSSmlsLUlzdFQybVdTdlZXSXBTcHFzNlVHbEhQM09EU3Y2NGhBUUozaS1fQ0tIRHJIZjZkN0JWeGMyN1V3VnFYdEJTOTBBS3JGN05pRFVsWGZCLVNKYTNQYkxTTmhqU1dpLTNDQ1VpVVB4cXp4RktOS2FmbXB5UmE4ZFZ1eDczZmpZNGljZ0tOX0tBZ1dEcGZqa2xhYXJwYl9iVVpleEpJdVVSSV90bkFBb24tX21tUmhWYmdPVFpnSl85c0xfTUxyZE5nUkEwdUxFZ1ItSW5lQkpvLURCSk1IMnVpV1BHb0ZkMXYtTEk0eS1venN1LUZvX2xHYzBoeXdNTmdrdi1Q?oc=5
+
+- Table Space’s FY26 Loss Shrinks 74%, Revenue Crosses ₹2,200 Cr
+  Managed office space provider Table Space managed to trim its net loss for the fiscal year FY26 by 74% to&#8230.
+  🔗 https://inc42.com/buzz/table-spaces-fy26-loss-shrinks-74-revenue-crosses-%e2%82%b92200-cr/
+
+- slice Swings To ₹51 Cr Profit In Q1, Total Income Rises 39% YoY
+  slice Small finance bank (SFB) swung to a profit after tax (PAT) of ₹50.9 Cr in the June quarter.
+  🔗 https://inc42.com/buzz/slice-swings-to-%e2%82%b951-cr-profit-in-q1-total-income-rises-39-yoy/
+
+- Matrimony Q1 Profit Doubles YoY To ₹19 Cr, Revenue up 13%
+  Matrimony’s consolidated net profit for Q1 FY27 skyrocketed 2.2X YoY to ₹19.1 Cr
+  🔗 https://inc42.com/buzz/matrimony-q1-profit-doubles-yoy-to-%e2%82%b919-cr-revenue-up-13/
+
+- AvenuesAI Q1 Profit Jumps 45% YoY To ₹85 Cr, Revenue More Than Doubles
+  AvenuesAI’s (formerly Infibeam Avenues) consolidated net profit for the June quarter of the ongoing fiscal year (Q1 FY27)&#8230.
+  🔗 https://inc42.com/buzz/avenuesai-q1-profit-jumps-45-yoy-to-%e2%82%b985-cr-revenue-more-than-doubles/
+
+- Blinkit’s Mumbai Facility Licence Suspended After FDA Finds Cockroach Infestation
+  The Maharashtra Food and Drug Administration (FDA) has suspended the food licence of a Blinkit facility in Mumbai.
+  🔗 https://inc42.com/buzz/blinkits-mumbai-facility-licence-suspended-after-fda-finds-cockroach-infestation/
+
+- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
+  Maharashtra's Ladki Bahin: Why India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
+
+- Pilot on Air India Phuket-Delhi flight tests positive for drugs, shows report | India News - Hindustan Times
+  Pilot on Air India Phuket-Delhi flight tests positive
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSlphNG93c1lzY2lrQTI2aUlmeU5GcGVORVlOZVBJU2swNElWRUJ2ekxHYkZwREtlSTBPamhnZ2lTdlRwd2lmOE9BWVlqdzRwZ3VlNHdERkVUTWQwMkdjbWVXRE1BTjFfczhrNUtPS3VpRmItUUtVWG9DLW5LM2NFTWZldmFzQ2ZWU1d2YWRHejZGX3VKOExLVUV1cm1mWUtTNnZPXzkzSkRiNkNUS1pOSVVpRHBsS0d6VVNMeFlqYXo1VDJUM3RRNFlSS0ZqMUpNcVFpYWpXTjd1MnZ0T0wzcHRlONIB6AFBVV95cUxOZDRfYWJhVEZHTFhkZE5sMTFoekx3cE8zT29BX1FBNm44QjBfSG5ERjhqZnR6N3IwU0c1WkRWY3ZtbUg4VlIzMnF5RXBXTmcxMVZ5MHItUHJtVjVTbXZVc1BvUzBsd1MzdFY3Y2VvX1ZOWkh2OS1hRkVVSDhQZkduZlcwejY4eXlJdDBZODBHdHBmZzVVRTVSVWIwWGtSa0hDWUJnZmlzNGRtX1AwWWNDeVhKWFBDRzRNNndKMkhTaG1IOWNOY3R4dllWYzVIdGFmbXVlLTJHREVmNHRXMVpoRTJselV4NG5t?oc=5
+
+- 'Wear Proper Clothes,' Rekha Gupta Tells AAP MLA After Video In Undergarments - NDTV
+  'Wear Proper Clothes,' Rekha
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0ZoNWZEZmlNNlNfUzFTMXh1UEVtNDdvQlJRQWFSRE54ZmE2S0Rna1JkQlR4ajFwSmF6aTZBVTRWQjFfUEFGb2U2OXRBa1hVQmd1ZFh4ZkdUUi00d01LYWxXRTQ3WEhmNkVWNngxeVdEVFV2QmlpUnJablR3eG9xWXdjYkRidHdlNGVsV29DWEFXbzJJOUZ2eGRIUUlqMHh0SFdxZFFZZWxILU9peEEzanpwR2tpRHdCODVBSTd4WjFxb0dxN3VhVEc4Ri1jUTluVUxScFN0VW43Nk80ajdGSzlINjd0UdIB7gFBVV95cUxQZk9WaVZiMXpSOFRhdHZYdDU2Q29YSTdqX2E1R0txUVFJN1JEbThuR0ZDYzdBVjZMcWJUMkxYXzZOVTZVUEs4STNBTGZlRHdrMGJDU0QwRWlROHdER0tKNmxMWWJyUFFvSDc1NmlVbWFYZ1hCUEhGY0l2cVRmVFh3ZkZEdzhkUmlXazAxRDMyRlpxQ2JEWWNGdWJJLS1kRUJmVDlwT2RsQTJKNWNTd0hKNEwwTkxmaTdvUnI4bVNBUEtQZERyMTB6T1d0TkFBNUFWcUFRUW8yNGJ0dVlWRVplS1BZdDlSZTBuY1NxVVZ3?oc=5
+
+- As conflict in the Middle East intensifies, India’s relationship with Israel deepens - The Guardian
+  As conflict in the Middle East intensifies, India�
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3I5SE9SOTNVLWZ1bzlRQTBRbENMbVBhM1ZsR3NPUUl4a2tWeFU5dkt6UkpuS3pZajdaY3VyRTdycDh6R29kS0U0MEdoUlNBZHBfdFNxSU42X0w1NEw5ckU0RlhSeF9iazNJejY3YmtLY1VycERmZ2FUSkpKSHBkVDRFOUFpNlRNbElrSDlMZWsycGRjUy02RXJXU2RiTHZS?oc=5
+
+- IPL cricketer Abishek Porel arrested in rape case; Bengal Police take Delhi Capitals player into custody - The Times of India
+  IPL cricketer Abishek Porel arrested in rape case;
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNZ1FqaTllUEVtNlotaFlDOWc1Ymg0bFJLeVVoV200M09iTnBfR01DMkhLMDN3ZFlhNXY1NXNjS2ZsLTl1Sk8yZ1E0OTUxMGZMZXBiV2ZQa0tVRHc4YnhxVTBLUGRWOFN1eWpzNEhidGtqcnVlMURvT3NKZ1Y5dnRDcTBzN3ZKYkQzaFVtVFBycXlpZXJseFVMUFloZHlxYlVDb2Q5UlF0NE9sOWpsUkpmZU9ENEFyNFBCV0N5SmpXZTlLWWRiNzZqd3dRNmdfa19zOFl6Qmk1S0NKZGo2dXpzREhKcjJOdUp0MS1uRDhObkI5SEJVakFSTE9qQ0ZBSEM3YWJOZEVnMnVHTGN4RkdPSUQzNNIBmAJBVV95cUxNYzBOSFc3OW5rR1NLa2N4Y2dSSmlsLUlzdFQybVdTdlZXSXBTcHFzNlVHbEhQM09EU3Y2NGhBUUozaS1fQ0tIRHJIZjZkN0JWeGMyN1V3VnFYdEJTOTBBS3JGN05pRFVsWGZCLVNKYTNQYkxTTmhqU1dpLTNDQ1VpVVB4cXp4RktOS2FmbXB5UmE4ZFZ1eDczZmpZNGljZ0tOX0tBZ1dEcGZqa2xhYXJwYl9iVVpleEpJdVVSSV90bkFBb24tX21tUmhWYmdPVFpnSl85c0xfTUxyZE5nUkEwdUxFZ1ItSW5lQkpvLURCSk1IMnVpV1BHb0ZkMXYtTEk0eS1venN1LUZvX2xHYzBoeXdNTmdrdi1Q?oc=5
+
+- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
+  Maharashtra's Ladki Bahin: Why India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
+
+- Pilot on Air India Phuket-Delhi flight tests positive for drugs, shows report | India News - Hindustan Times
+  Pilot on Air India Phuket-Delhi flight tests positive
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSlphNG93c1lzY2lrQTI2aUlmeU5GcGVORVlOZVBJU2swNElWRUJ2ekxHYkZwREtlSTBPamhnZ2lTdlRwd2lmOE9BWVlqdzRwZ3VlNHdERkVUTWQwMkdjbWVXRE1BTjFfczhrNUtPS3VpRmItUUtVWG9DLW5LM2NFTWZldmFzQ2ZWU1d2YWRHejZGX3VKOExLVUV1cm1mWUtTNnZPXzkzSkRiNkNUS1pOSVVpRHBsS0d6VVNMeFlqYXo1VDJUM3RRNFlSS0ZqMUpNcVFpYWpXTjd1MnZ0T0wzcHRlONIB6AFBVV95cUxOZDRfYWJhVEZHTFhkZE5sMTFoekx3cE8zT29BX1FBNm44QjBfSG5ERjhqZnR6N3IwU0c1WkRWY3ZtbUg4VlIzMnF5RXBXTmcxMVZ5MHItUHJtVjVTbXZVc1BvUzBsd1MzdFY3Y2VvX1ZOWkh2OS1hRkVVSDhQZkduZlcwejY4eXlJdDBZODBHdHBmZzVVRTVSVWIwWGtSa0hDWUJnZmlzNGRtX1AwWWNDeVhKWFBDRzRNNndKMkhTaG1IOWNOY3R4dllWYzVIdGFmbXVlLTJHREVmNHRXMVpoRTJselV4NG5t?oc=5
+
+- 'Wear Proper Clothes,' Rekha Gupta Tells AAP MLA After Video In Undergarments - NDTV
+  'Wear Proper Clothes,' Rekha
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0ZoNWZEZmlNNlNfUzFTMXh1UEVtNDdvQlJRQWFSRE54ZmE2S0Rna1JkQlR4ajFwSmF6aTZBVTRWQjFfUEFGb2U2OXRBa1hVQmd1ZFh4ZkdUUi00d01LYWxXRTQ3WEhmNkVWNngxeVdEVFV2QmlpUnJablR3eG9xWXdjYkRidHdlNGVsV29DWEFXbzJJOUZ2eGRIUUlqMHh0SFdxZFFZZWxILU9peEEzanpwR2tpRHdCODVBSTd4WjFxb0dxN3VhVEc4Ri1jUTluVUxScFN0VW43Nk80ajdGSzlINjd0UdIB7gFBVV95cUxQZk9WaVZiMXpSOFRhdHZYdDU2Q29YSTdqX2E1R0txUVFJN1JEbThuR0ZDYzdBVjZMcWJUMkxYXzZOVTZVUEs4STNBTGZlRHdrMGJDU0QwRWlROHdER0tKNmxMWWJyUFFvSDc1NmlVbWFYZ1hCUEhGY0l2cVRmVFh3ZkZEdzhkUmlXazAxRDMyRlpxQ2JEWWNGdWJJLS1kRUJmVDlwT2RsQTJKNWNTd0hKNEwwTkxmaTdvUnI4bVNBUEtQZERyMTB6T1d0TkFBNUFWcUFRUW8yNGJ0dVlWRVplS1BZdDlSZTBuY1NxVVZ3?oc=5
+
+- As conflict in the Middle East intensifies, India’s relationship with Israel deepens - The Guardian
+  As conflict in the Middle East intensifies, India�
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3I5SE9SOTNVLWZ1bzlRQTBRbENMbVBhM1ZsR3NPUUl4a2tWeFU5dkt6UkpuS3pZajdaY3VyRTdycDh6R29kS0U0MEdoUlNBZHBfdFNxSU42X0w1NEw5ckU0RlhSeF9iazNJejY3YmtLY1VycERmZ2FUSkpKSHBkVDRFOUFpNlRNbElrSDlMZWsycGRjUy02RXJXU2RiTHZS?oc=5
+
+- IPL cricketer Abishek Porel arrested in rape case; Bengal Police take Delhi Capitals player into custody - The Times of India
+  IPL cricketer Abishek Porel arrested in rape case;
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNZ1FqaTllUEVtNlotaFlDOWc1Ymg0bFJLeVVoV200M09iTnBfR01DMkhLMDN3ZFlhNXY1NXNjS2ZsLTl1Sk8yZ1E0OTUxMGZMZXBiV2ZQa0tVRHc4YnhxVTBLUGRWOFN1eWpzNEhidGtqcnVlMURvT3NKZ1Y5dnRDcTBzN3ZKYkQzaFVtVFBycXlpZXJseFVMUFloZHlxYlVDb2Q5UlF0NE9sOWpsUkpmZU9ENEFyNFBCV0N5SmpXZTlLWWRiNzZqd3dRNmdfa19zOFl6Qmk1S0NKZGo2dXpzREhKcjJOdUp0MS1uRDhObkI5SEJVakFSTE9qQ0ZBSEM3YWJOZEVnMnVHTGN4RkdPSUQzNNIBmAJBVV95cUxNYzBOSFc3OW5rR1NLa2N4Y2dSSmlsLUlzdFQybVdTdlZXSXBTcHFzNlVHbEhQM09EU3Y2NGhBUUozaS1fQ0tIRHJIZjZkN0JWeGMyN1V3VnFYdEJTOTBBS3JGN05pRFVsWGZCLVNKYTNQYkxTTmhqU1dpLTNDQ1VpVVB4cXp4RktOS2FmbXB5UmE4ZFZ1eDczZmpZNGljZ0tOX0tBZ1dEcGZqa2xhYXJwYl9iVVpleEpJdVVSSV90bkFBb24tX21tUmhWYmdPVFpnSl85c0xfTUxyZE5nUkEwdUxFZ1ItSW5lQkpvLURCSk1IMnVpV1BHb0ZkMXYtTEk0eS1venN1LUZvX2xHYzBoeXdNTmdrdi1Q?oc=5
+
+- RBI guv asks banks to build meaningful human oversight, says blaming technology is 'unacceptable' - The Times of India
+  RBI guv asks banks to build meaningful human oversight, says blaming technology
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOcGJrWThwOWRJZXB4M3d4U0FGVVhMUDRuV1o5RGtLZzFNamNwVUp5X2ZTZnlWNnNqV05lSm5BRGxvR0RkSVdGMlkxcFZwcW5HakktUjNVc0R2NXJFMEVYWFNPbGRyN1lmZURlLTFwYTc5em9wTFlveVh3YU9kTlF1MHIwUXJyZHkzY3R2T0ZkcHAtc1hfOTZrbFViQ1ctMkJYcERFM3dpcFc5X05aNUVCNER3Rmo4UzkxT0tncFFqdnFHS3lPLXY3ZHpRUkZVUjk1cHhGX1pzOVRsbkV1RUI3eTVsdFpMRXRxZkVFREhCM0R5a29wR0lUTmIzMzBwekRGeFdzVlNuelJ2V0Nz0gGSAkFVX3lxTE5BUFY4VXFhR1ZMMTZkblIzeEc2NWxBNkhpM0xQVkhIQUs2ZlAwV3lQOVdBT21NdmlyOUo0Q1JPcVN0N0cyODg2a1F6azJodERPanpzTzRjYTViY2JQUFk3TENYQXBTbk8zclN2ZmpBWFVKRkg1ZUJaVE5Zbi1PcUdfaDNiODIzYlNkNXJKb2RSMV91dHdYd05GZ28yWVRqSkl4SE45MUYxVUtEMTBhUFZBWmlrNWlqWU9PM0NzM1VWNm9mb092N2Q0ZUltSjNlTC1GcjFVOTFXRWh5Vnh3NERnRmJSWlFEdy0xclUzeTBlVlRmZU5UeFl0WVN5MC01UExJTDVDQUltc0VTUURIVDc4WEE?oc=5
+
+- Tech leaders say AI means less work - their staff say they work up to 90 hours a week - BBC
+  Tech leaders say AI means less work - their staff say they work up to 90 hours
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aEVENWFmMDlmdlhpWmc5LVZRRmtuREs0UHZRZVZCRVZ0bWRMSWdNQlNtUGVId0k2cmJxTVpBelNyWmRmc2ktVnk1RVNIZ3hzeUhlZlZrVWR1UQ?oc=5
+
+- Greenply Launches Termivax, Indias First Anti-Termite Vaccinated Technology in Plywood - TheWire.in
+  Greenply Launches Termivax,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUNnSTY2Q3FDSk1qUjJYeXdDa2RzZ3JQS25QRWxOdkFZUi1sU2NlQm1VMXB6NUVqcFNfOTdiYjIxeTluU3lhaE14ZmtwdHNkM05qaV82SkVZcXFjMzFnNWdOVl9FeG94VnlSMlJvdWtNV21ER0RHVnRqdEJuZ3Job2pqTW1ORXFZNV9vVkJZWFdvUWt5SjFVeERRU2FHc1JiVGdTMnJGYlAyejQ3cmxWMTNrMkFQNVFpQzJLbDMzVkR4UdIBxwFBVV95cUxNUlNXU3lmRmlKMldBVzU4MF9uYkdtdTBJZFMtUmNUUkoya01YWEc0eGtBamg0V1VzeGJlRlVqUDFtTXhXY1dPSEFyMlNyRnF3TnJ3QUR2NWY4Y2oyRU5XczhvUFA0V3FOR1lxeDNRMVE4b3pYY21vR2FIc0VPdFJMQnk0MG1zSmZkUnZfdF9iaDlONUFwdzhocTB6bUxnNmxnamtzS0VtbmlfOFhXZWtCTVNIVXlNajNjd25pdEtmZXd2aGpmOEFr?oc=5
+
+- Bhatti Vikramarka visits QuantumScape headquarters, explores battery technology collaboration - The Hindu
+  Bhatti Vikramarka visits
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTVNTZlVlRF9STWFGRk1rUFpQNXRQWlJ0N29XQzlIUnVuYVhHbVA3MEdiODdaY0RXUFlfNndfeXBpX250STllMnpKTjlzZGI4RE9WY0ZyVnkwOHc0N1BUd0FjcURqOWNQZVd1Y05NeTlMZXJQTGx1a3lFZFdqRkhRQ1FEaEVQWTZDOHZrblFseWNlTkQyRVNwWjJKb0RQMTlvcVA4SW5nekJYZzRscjRUZTMwdlJTVmFrZ25ESlpfUUtzWlMxS3lMRTNQc01kWkNKN0ZReTlJc3d4VTRHTFp4TzQ3X05uTjd5RFBHRUQ4d2FyenPSAfoBQVVfeXFMTzExRjh4Z2pNUHNaM0tCQkJqbV8yNk5RTkY4cThSS2ZBZGhLbTFGS0Fod0JkN2JyZEZfenBoWEtBVy02NEFZU1ByUEtZdElwckpkd20xcXVkNkxRVnpiQmpZTHlyOXJLb21DQTYwRVZMRk9QYUlYOFlEb3J5cjZuaDUyRGljcjhqLW13QkxlZEpGb3BsNm1iekRHRXU5enNWZkY2aF9kQ2x4WDVXQkNKN3llTGZWekpqRlpKd1UwX0hyZUlJVkNyTlpSdGVNbkFFUlRmem9RbllwUjlBTjV4UDhjTFcxSXZJUlM4Y1BsTkRzU3VsZm05YjhuUQ?oc=5
+
+- L&T Technology Services Launches AgenticIQ™, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience - ThePrint
+  T Technology Services Launches AgenticIQ™, an End-to
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeGJUU2IwOXNSWU1qb3JZSFZiRFg2UkpwY2dodVliT01pZTZEM1lvVXJva0JsSmwxOElKOXkzUjEyR1Q1bW9ZaUhqekhSR0l0ZExPcUVfNkZqaHVyWEZfU240Rjdldm9XTkM2dXZVUC1hM0ZzRVZzVWN4cklTM1dOOXF2S2RIZ2hiSEdOdGRWS3ZNR280NHpOMEZkWGFobDZ0SkMwR3pPSTZmRWZnMHVLbUdYTEo2alBVT1gwZ0Z0Tm9WT3hOdXpnNDlBMW91b2xPN2taVmk0WE5uUnRfYjRRYTJpQlZYeEhCaHFZMm5QandqMlRjY0FTV1F6MmdkQ2dpaHVsTzdNYm_SAY4CQVVfeXFMTi1OMkk4Z2d6dkx3NGdjcld5N3B6SGw2aTg2UGFkbDBlQmhKckFud1d1d0Q2ak1xUFU1T1FwTnVWTlFlcEFTak1PR0J6OU1GUFJQLXk1NW81bjJkcHBWWkxZSEFpVTNUak5WNDdsNTdseC1RWFZMa1hkd2tfTk4wNmxNR092VFpJUi1LTE5hdEJicWFiT2w3Yjg3UlMzZjdxd2VuVXFIMnFSWkJ5MGZQdExFYWltbHMtbkdYQjZNYURiSzIzYVlqd0NnekhlMVZDekJkWnVlWjUzRHA5YU9Sem9UVzF3alRBRXNDRXVMTUpkaGZBMnkzSzJXSjJra1J3Z1dZOER3M3BCQlJLSUFR?oc=5
 
 
-_Last updated: 2026-08-11 07:02:12 UTC_
+_Last updated: 2026-08-11 12:56:30 UTC_
