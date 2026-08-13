@@ -8,77 +8,57 @@
   Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil
   🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPRU9rWlR1cUx0Y3ZjN05JWHRJTXZwalhfZWNvSVNMQTZLMUdHUFBSY292aTRvQWZvNU1BMVllZG0weERPckpBUjQ0YkQzZDBoRTJLTVlaSW5IZ25scDZHc3lUME0zNGZ6QThySTJ0QXVIcGc0STVGdnpORzBaSWRXSldXdHJiOFotQ2k3QnJCd0FRS0ZVLXBUOWlhMnVWczlPTXZobWFZSDN2RUFMV2NGOTkwczNJaS13V1FrNE1sR0FTNktUMXFzSzVvUkV4M2Vvelk5Y2tqWFVsMHV6Vmp4NTkxbTV5RC1seTUzeDd3MWJ6QzBCaHBCTHpmYnVteW1mdUw5ai13Y9IBjAJBVV95cUxPZ1UwbXE3VjJ3UVVNa2c5QXUzdldzdldsTk00aGtNNHBNM1FEYW9Id1JNU0RnUmdMbWxSSkxla1duS0NfRXBkU21pUVhZT1VFYWI2OFJWMGtrb3VIRjVOelF3U0k5ZzRqU3hOWTJWaHdVeDY1eUYwT0lYSDZyYUhGbk5yc1k4Y2ZNWXpYd19kcnFNeG1KRGpnaVhENHlCRVBuWTNSSm5aeHJpc0o2X0wxemN3UDVhZjhzNTMtVVVMU2lqWlhRcHg3aVZCSF9GMFp5MTMybURnYzFQQmptWEx2eVFGSTBRV2J0WE1Qd2RSMXk3eV9pbW9pR0tlQXFBWWl1Uld2WkVsdjlqVzk0?oc=5
 
-- 'Spy' From Pak Arrested Near Bangladesh Border, Was Tracking Army Activity - NDTV
-  'Spy' From Pak Arrested Near
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUI3ek1fNlFFcTYtSkEtOFFyZU5pSTRhOVZITUVZOXdvQWFHRThJaUtUZFlnLXVfVHp3ZmZDalhIcHhNZ2JrR2tKU1k2QVYxNHhRTVotMGtLaDJMMVhiNkxPZVpZQS0xdUNwcXZZaTNKeDNKcHJpZXhtMUhSRXZuNjFCWC13b2JPRWhvVnZEVlNFb1lnaEthN1RYTVBFRlptZzJHeXpzbElOY2o4bmU0LUh30gG6AUFVX3lxTE1vWGMtTkZxbzRTTXVzdFlzMElnd0NpZHFRSHQ4RE1WMVpHX3AtUzE0eklXQ3J5QWROMjFNclZhMHNSLUhBZmJXUG8wN3Q1U2EybUQxM2lNc0VJbFhWRkRaWkYxbTFFX2FIUGNaM1dyMGhkNVAtbXdwN2lJWG9oNjNzZGJSVkNXRnRlWFFfZ1J4UTVYMEoxSmFfbWdxbmUtaGdxbmpadmNXZnMyaUxBZTJIbWl3ZnF0ZE55QQ?oc=5
+- Groww leads India's top brokerages in July with over 70,000 new active accounts - The Economic Times
+  Groww leads India's top brokerages in July with over
+  🔗 https://news.google.com/rss/articles/CBMizwJBVV95cUxQU2lGSjNDcF8wekphNzFNTTgyTjlnR2Q4azFUSVBkYmdQMWFTNEtmalFJM3ZjNkFkT0pSSkVZdjMwOHlHV3lhVmpuazhZQnNKNTFXVFRvc3JPczVmQVBxeTktWkZSUDNRZFRUdUMzY012MDlCZnp4YzZRaDJ1bmJwc24zV1NYLVMtZGJUZEozTURMQm0xMmljalU3UXpvQjM0SUhnMjBOTTE3Z2VINk0tcENsVTZXNGVESkNHNkZsX2tCUko1RFA0TkpVRmhKS0kwd29RMGk3b1B5QlFjZ3N2VXQ1WUIwYzFILTFQMU5qMUVxR3gtZUpFcEZEZ25pSVVTbzlHN2R0d2M1eHdrMFN1Nlo4QzZ3azctNEVncTlBVnVSS3NJUFg4WE9ZY2ZsOFBmejA2R3JkUlNmUmo4SUxSSllXdzBWdEpaZ29MNFM1QdIB6wFBVV95cUxPWmZGblRNS2pGVjhfc0R4Uzh0NWhwVE53UjYwazNUSE80MTVDMWlWdDBaSXhzN2IwSDE5SUhhWWVpdUlHeFFuRW9OcWxRZXpnU3ctUnFYRGhvOWJGZVNiVmYxM1FKN0tWT1hYeFhPU2hTcldIZnVPWnBkTlQ4OG43LW8zMVduWjNKTGtjN3JIZWNYMlBTTHpyTGpaOXhRTk1udWxocm4tR19NQ3JiclpfUld4bWZZTEQ1anJSdXp6VWVLSGJIcGM4dUtpT3o0Y1pKeEFWemJPUkw5VWNHa3o0RnRyTDZrRlVQRnhJ?oc=5
 
-- India renews invite to Nepal PM Balendra Shah for early Delhi visit - The Economic Times
-  India renews invite to Nepal PM Balendra Shah for early
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxQU25mNUVWNC1Yb1JoNmNtRExJeXMxb3ljSzNWeURULXh1WmdsbEI3ZlRrNWFzOFFYMGg5SnAzaXRRSnJ4bUptTUR6bFZpdWNkTkF0bFJ1TEk2X04yUnhQYWVyNWppYUkzS2lGbkRSRllJeGRzSm1qczdKVV9jZGMzNFhjR21zQWo4ZHRSSmRHTDFoMTFFOVEwcVV2dlRCWU81WnlidjJNR0lMY3hhaEpaY3hxRGVMcjFBQkYtMGpHUTJpN3dYU2R5aU5JSmRCd2tVY1NKbk1qYmVuNmRnVWY4VVN6ZjM0R2liVmNkWlBJbFY4MkV4VFlwRXlnRS1rRTAya1NxR05nM3ZiQUpSM3E5aW9RQ0NqaTFTR05ZZElneDd3ZlnSAb8BQVVfeXFMTWJzdGRxdjFtU0JtZjZTRFZiTUxUVEhFWU1LaGRtcGl0cU8yTFlYUVlUYmxzYzFsTkRqN2R6djhDVE9TZ1Z2SURLTzRHVDM1ZllvemxDUXpESUdabURuU3Vnd05zRjlMWk5ncUllVmVHdVp1cmV3bEdmY1JHWlhCamdfVHlQNG9KMHZUbkhTVWM1ZjRSSk5xbnN0Zzh1Nk84SWRaZVFDM3hMOC1TRHRxYlFZWHlHZDdqX3c5RFNHUWs?oc=5
+- Air India Downplayed Phuket Plane Failures With 'Turbulence'? What Documents Say - NDTV
+  Air India Downplayed Phuket Plane Fail
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHRMbTJjeUctUFV4QVVadlRwdkk1YmxIbEJNVWloekw1NWxldVlCZzJvM3hWdWZxLUZkR3VVZXZJcUdGcHhGWGpxRDh5YXlzMzJaVENHd0xqUmZleUlUVFFVZWh1TGZZcGdMbEFkUGloVVVkM0QzbGZxQjBCenFISzQwNW01azRNY0g2dk5NOUV4S2lLU0FOaG1vZVU1OGRIcHlNakRWV2hEby1kVkZOY21BQnMtWEhGeldXbUVNTzZOVnhGWXhGX0VNSkpybUdpc0NjcE9mNNIB3wFBVV95cUxPZm5kbzRWaGlFcHE4V2Y4X24tUWpUdVJQa0MzR25sTXdBWXZQRWZiZ0V4V0Ewd2dVLVpjZDRMZDVpUXlrZnlqUVk0RDVaNXFuR2U4QVcyXzFHV2dET3o1VFdjYktEMmN0MVFZOUFxVUZjSHdoYUpSZFdqVTV2Ynd4OV8tcThEX3dvYUszVFducmdGVGI5UEVsYmxfUGtTazZPTi1uUUVNd2tneTdxVUVWREFIVTd6b1N2REV0aDVEQkc5MVhZSWtBSWEtYVdZTnlBUkExR2J1NDFDQi13TG1z?oc=5
 
-- Video uploaded by Dhruv Rathee withheld in India, global blocking pending: YouTube tells Delhi High Court - The Hindu
-  Video uploaded by Dhruv Rathee withheld in India, global blocking pending
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3JlLTdhOUhjaXVVaEt1MUFXUXZXSGRUVEE2NWxrU29KM1o0aEVwX3E1N0stVDhwc0x1TW1UMmVHSEJKNnlQbWNGUzZvVUozU0VLV3R4Y0NUZnZjaWYwZVJPblExenB1eG5tNWVMa1ZZRHphenpsZUY0bklKYjg2TXhPMWlscjBaUlhzV0NkdzFYWjNYYWxQdGNiN3BIRTMxLVhJSzVaRWw1NDdKRWppLTdWenFYLVRUYnZFZHB2OXY1WlhBeWhiUnlkNzh5T011ZFZ0NFVaNUplNE9oR2VManhLRmxtNDRkNGfSAfABQVVfeXFMTWl4UmlRbnBpYU5CM1pvTzkyMG5DYnZVeWN0ajE0dXlsWThuRGNmYmtwaWVsOWZRUUpESFUzUmNLS0FKZWlHd3gtYnMwM2pMb0hZRUdxTEE2QmNvNkFfY2NDWFZ5ek1UTUZmQ1hZMDJrQlNBR3U3amFQQzNxb2szWGNadWo5ejlGR1pfZENCTHVEZkhMUmZjX3NRS3BPX0FNN3NSWG1NUUxXV3ItWV9wWjA2eFN6Mzd1eUpGOE16aTFVaGJMdEhMMmlCT2VfVTN2RzJPMlFob3BXMWpMT21LMm80S2Zqek1oem55SkhkODlV?oc=5
+- Assam: How a 97-year-old escaped deadly Indian floods on a banana log raft - BBC
+  A 97-year-old man escaped deadly Indian floods
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTNTh1LWVobzVmTFNFTmRMTF9GbDREQ3JINS11dFFiNmNrR1R1emdpOEkzeHVvNllPWTZJQWhFVE04Q3g0TEhhXzEtZmZXZE9zRURrckFaeGxxdw?oc=5
 
-- South Korea unveils future technology drivers, targets moon landing by 2030 - Reuters
-  South Korea unveils future technology drivers, targets
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQWloxM0JBWi1KZHlmdHJEZzZFWnhNeXVnVHRZa0JCdFhfZW5wTF9jeEdrRk9XM2xaWWlMWnhtbS1EVGNpX3Bta2dGcHBHYlF3UVlhV3ZodE1SWjNIMzNrUWc0aXdKQURNdkFZZ3FQMzVEb2FHQ1loTldoREwzaWotLU4yVVJsQWVqQ2k2blctRW9UaXI2Zm9Dc2dIQTJXVkN6OTB5UlFGS2NuX1hLWmFuS2ViY1JHeXVwM242SzgxaFdKLW85VEZodkNn?oc=5
+- Govt views Chandra's exit as internal Tata Sons issue, sees no reason to step in
+  As a matter of policy, the government generally refrains from intervening in the internal governance of private companies. The government’s position is that it would consider stepping in
+  🔗 https://www.livemint.com/companies/news/govt-views-chandras-exit-as-internal-tata-sons-issue-sees-no-reason-to-step-in-11786542824899.html
 
-- These startups are chasing the next big thing in LLMs - MIT Technology Review
-  These startups are chasing the next big thing in LL
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5
+- When silence isn't golden: The rift that ended N Chandrasekaran's Tata tenure
+  N Chandrasekaran's resignation as Tata Sons chairman reveals a breakdown in communication. It raises fundamental questions about trust and governance in a complex corporate
+  🔗 https://www.livemint.com/companies/news/when-silence-isnt-golden-the-rift-that-ended-n-chandrasekarans-tata-tenure-11786541887594.html
 
-- Some of tech's CEO suite is cloning itself with AI. What happens next? - BBC
-  Some of tech's CEO suite is cloning itself with AI
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTlSaWNMLU1QczZQOWdIdm1sZWItQk1LQnpMbzByeTNVWWZOdzdUUFpSNVRSR0VabmhBYVFXckF0ZW1qZExrVFN3RDZ5d3dUNzhRUHFpNkJiSkRaa05ERElsZmZmbm15elQ4NWJVLW5zNm5WVjVLMVZ2TXNDZHVTYi1zSQ?oc=5
+- Chandrasekaran’s decision to step down underlines a lack of succession planning at Tata Sons
+  Godrej Consumer Products CEO Sudhir Sitapati resigned on Tuesday. Global chief financial officer Aasif Malbari was appointed in his place on the same day.
+  🔗 https://www.livemint.com/companies/news/chandrasekarans-decision-to-step-down-underlines-a-lack-of-succession-planning-at-tata-sons-11786533165565.html
 
-- Meta chief technology officer Andrew Bosworth told an employee at townhall: It is very dumb to keep askin - The Times of India
-  Meta chief technology officer Andrew Bosworth told an employee at townhall: It is very dumb to
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxOSF9XSEEwSTBxdEFBSzI4NGZLX3lxZGNIb2NHdE9EN3J3akJ3UURocmxPOWJCbVJ2OHRRTk1UTGZaU2dGTXJmV2FOSFhqYTlUZVNzTWUyWDBBdWJzVlVEdHZFdVlJYnNtTVJuRGp4VDBCekxwR2lhOU5PSy1QdVh3NU12MURlOUJzY2Z2MXV3dDFxWWdPcEFnVld2dWJTclZTWUpvOHRDRDQ5RFpfODRHYklyM3YtcllwMDlJQXNhQlEtbC03dE1KNGhqdmpkbUlEWVBkV2xybXl2UzdfT3Vfb2RhNS1DVDNBS3dhNjdCWDV5WFlfWE8teDljYVJncjZnMkswc1Jsd1llR3hLbFpWVWdhbndCSDVZUkNFNtIBogJBVV95cUxPSzNDV3VPWlhHZDhlOHZLRjh2YzM4aVNYdjZVREhmYWlUdE1oMk96WHJjVEh0LW9FazJOWVZSc0stbU8ybGRuelBpQ2tLVGJGNWRPY1FIeGpVbVo0aHh3M1J3R1hXLTNUeElrcFVHc2Jfd2ZITVV6ckVsaXlyZ0xZOVBEQzh1YTQzX0FKTTRaX0JBeGY4Q3dUeFpwYjZOQ0RXcmlmZnVGZGs3T0tEcUQwMmxkd1JIRVA1OUo1YVhZd1o0aDg4eDktVXVLeDB1RTdUN2lRWGV2SlhNV01FOHpWdy1sWm0temdnRVJvU3dqNnFJcVVNaFNCZzAwWWRtSXRDZ2VnS1pNZVhtQm14eGhLQ1hsbmhMb2h2dDdOX3huVW81QQ?oc=5
-
-- Chitkara University and Paramotor Digital Technology Limited Come Together to Build Future-Ready Fintech Talent - TheWire.in
-  Chitkara University and Paramotor Digital Technology Limited Come
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaFpmc1loVFRta0JjZjFYb0QyVEMydnJOQXZNanA0VlhJTFpVMTB0YmFqZG1BQkdiRkZHeExURmY2MTNwMWFGUUc1Ti1URVBBRWlFTGFZRzRTSzF4OWV1SmNMOS05MTZ2ekFTbWZhQVIwYlA0anRaNkR3dTNOYm9FSjBSMEd0bnlKU01NREZJOXgwTlNvdHhlVVVNVWZydHZjbFo1WEduc2s4V21uZlE4MXNfVjBmSjVjdlZZcDZTbm1rOVlnRk5NYmtXdzlsVzVxNEVyZDRtdy16ZU1yNzRnOENsM2LSAeoBQVVfeXFMTjdjdDl4alBCLWNleUJpcGpWTHNuWG9YQjJVeGZKRlI2TDZUOW1iNDkzd3pwaFlXdk9GbVdSbTNRMm96VVhJYlRuQ2pILXJKQVBDekJ4bllsWXp3Y0dCY0JjSTJ1eHhPQmVvTzBKYzN0SVo4bi1MSHNIRGNDdVFsRFg5NmVTMDNjNWt3TVBCeXVIeEloM1FEWFhhWjdTdHlYOXQzOWpOaUlUX1VBTDV2TXdaSHVTVzRMWktJT0tVWWVIZTNLTmxjc0FxZ3BodFZhZVFGaFZ4WWVUU1ZkRWV4aWE2cmdUY2ctOG9B?oc=5
+- Cerebras raises annual targets on strong AI chip demand
+  Cerebras raises annual
+  🔗 https://www.livemint.com/companies/cerebras-raises-annual-targets-on-strong-ai-chip-demand-11786565219479.html
 
 - World Spinach Capital Misses Debt Payments Due to Severe Flood
   Crystal City, Texas, has missed debt service payments due at the start of August. Severe flooding added to ongoing financial strains.
   🔗 https://www.livemint.com/companies/world-spinach-capital-misses-debt-payments-due-to-severe-flood-11786560101436.html
 
-- Bank of America to buy up to 49.9% in Jio Credit for $1.9 billion
-  The investment, which values Jio Credit at about $3.8 billion, will
-  🔗 https://www.livemint.com/companies/bank-of-america-to-buy-up-to-49-9-in-jio-credit-for-1-9-billion-11786552119777.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 13 August 2026
+  Sumeet Bagadia recommends five breakout stocks to buy today. Berger Paints India, Electronics Mart India, Indo Borax and Chemicals
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-13-august-2026-11786581785457.html
 
-- Chandrasekaran steps down from Tata Sons after third-term bid stalls
-  The decision came eight days before the Tata Sons annual general meeting, scheduled for 18 August. Noel Tata and most of the Tata Trusts trustees were caught off
-  🔗 https://www.livemint.com/companies/people/chandrasekaran-steps-down-from-tata-sons-after-third-term-bid-stalls-11786537435883.html
+- Korean Stocks Rise 22% in 10 Days as Chip Rally Regains Steam
+  South Korean stocks climbed, putting the benchmark index on track to enter a technical bull market. A global rebound in the AI trade fueled a rapid
+  🔗 https://www.livemint.com/market/korean-stocks-rise-22-in-10-days-as-chip-rally-regains-steam-11786582341676.html
 
-- Apollo Hospitals beats estimates for Q1FY27, net profit up 34%
-  Apollo Hospitals' Q1FY27 net profit rose 34% to  ₹581 crore
-  🔗 https://www.livemint.com/companies/apollo-hospitals-beats-estimates-for-q1fy27-net-profit-up-34-11786547873029.html
+- Stock recommendations for 13 August from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 13 August. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-13-august-from-marketsmith-india-11786536328947.html
 
-- Godrej Consumer board was unaware of CEO’s exit plans, chairperson says
-  Sudhir Sitapati’s sudden exit, just days after a five-year term
-  🔗 https://www.livemint.com/companies/news/godrej-consumer-board-was-unaware-of-ceo-s-exit-plans-chairperson-says-11786545028651.html
+- Raja Venkatraman recommends three stocks for 13 August
+  Market expert Raja Venkatraman shares his top stock picks for
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-13-august-11786553932696.html
 
-- Gold rises to over two-month peak as US inflation data dampens rate hike bets
-  Gold rises to over two-month peak as
-  🔗 https://www.livemint.com/market/gold-rises-to-over-two-month-peak-as-us-inflation-data-dampens-rate-hike-bets-11786560770348.html
-
-- Canadian 10-year yield pulls back from 2-year high after tame U.S. inflation data
-  Canadian 10-year yield pulls back from 2-
-  🔗 https://www.livemint.com/market/canadian-10-year-yield-pulls-back-from-2-year-high-after-tame-u-s-inflation-data-11786560586614.html
-
-- Yen Trades Near 160 Level, Keeping Traders on Intervention Watch
-  The yen held steady near the key level of 160 per dollar on Wednesday. Investors are on the lookout for more intervention
-  🔗 https://www.livemint.com/market/yen-trades-near-160-level-keeping-traders-on-intervention-watch-11786559796941.html
-
-- Yen Trades Near 160 Level as Traders Watch for Intervention
-  The yen held steady near the key level of 160 per dollar on Wednesday. Investors are on the lookout for more intervention
-  🔗 https://www.livemint.com/market/yen-trades-near-160-level-as-traders-watch-for-intervention-11786559795390.html
-
-- Cisco stock rises ahead of Q4 earnings as investors focus on AI networking demand
-  Cisco’s Q4 results will offer investors a fresh indication of whether Cisco's AI infrastructure opportunity and networking refresh
-  🔗 https://www.livemint.com/market/stock-market-news/cisco-stock-rises-ahead-of-q4-earnings-as-investors-focus-on-ai-networking-demand-11786556085300.html
+- Buyout funds look beyond India IPOs as vintage assets mature
+  Indian PE funds holding mature, older-vintage assets are turning to secondary sales, sponsor-to-sponsor buyouts and
+  🔗 https://www.livemint.com/market/buyout-funds-look-beyond-india-ipos-as-vintage-assets-mature-11786471171774.html
 
 - Acer launches Swift Go, Aspire and Nitro laptops launched in India: Check price, specifications
   Acer has launched new laptops including the Nitro 5
@@ -100,65 +80,33 @@
   The Unified Mobile Application for New-age Governance (UMANG) platform registered more than 11.66 crore users and witnessed about 798 crore transactions in the last
   🔗 https://www.livemint.com/technology/umang-records-over-11-crore-registered-users-798-crore-transactions-in-three-years-it-ministry-11786526724765.html
 
-- Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly - Yahoo Finance
-  Dow, S&amp;P 500, Nasdaq rise after CPI data cools slightly.
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXdvN0h0Nzd4NDdvWmZUVE1mVFloNkUtQ3BXWno1TzJmanYtREZ5cGhLSTJ2T2xHVjQ4VG1sb0VZS2gyZkdEZW45WlZGb1RHWUZ0N2NCeS1Ka0g2MDFuSlVBREJWY1lSWWJaR2J0U3Zva3lld1ktd1NjVjZiZjl4MFZ1M0Zqd25fZEFUMElPSU1iaVkyQ19fdnJlcW5aSk9nOVRfNEp5VjVaOGxDel81aUFfNWdxMmtsRG9hbDBR?oc=5
+- Global Market Today: Asian stocks rise as rate hike bets ease, oil dips
+  MSCI Asia Pacific Index reflected this positive sentiment, following the upward trajectory of US markets. Brent crude oil prices declined, breaking a recent climbing streak.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-rate-hike-bets-ease-oil-dips/articleshow/133195500.cms
 
-- Oil Market Report - August 2026 – Analysis - IEA – International Energy Agency
-  Oil Market Report - August 2026 – Analysis.
-  🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xTXNaRlk1XzJkUnJ0c2U0bnZZSDhLRWZzaFNSNk9iQXVfQWRfME1SZXFCZ1RNckpBQUYwbGdKdFFjQTRESHpROGRZRkQyMndXSW95NS1QS2V1VDZqRFVUR2N1WTkwajBt?oc=5
+- Biggest single-day fall in 6 years for Godrej Consumer
+  Aasif Malbari has been appointed as the new managing director and chief executive to steer the company. Godrej Consumer Products shares have experienced a notable drop.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/biggest-single-day-fall-in-6-years-for-godrej-consumer/articleshow/133195493.cms
 
-- Karnataka Bandh 2026: Will schools, banks, offices, train, taxi, buses, markets remain closed? Here's ever - The Economic Times
-  Karnataka Bandh 2026: Will schools, banks, offices,
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNUk8tdDZiWnFJaU1uNFJ6cmhhN2prZ3lBX1dMd1hCbVBwUWJjVDF5UFVIRGZ4V0JmNXRmSW9idzV4c1Y0cjY3SDQ3RmFyWE1VMjNiczBCczZabEltajE0TGY3RC1RRE1UajlVZGUzblVQYWJnN1p3Vm8zTTZSTktISVJINE5BV0VsS0JFLXRzanczaVJ6LTVRTkJ6cTdVcENBZXFHeXMxdFBPdVRId3RNa0s0TlpvQVZHOXRpMFp0SWRfcHdLeGtiSGdPNW1aTHVCcG1BZUtoYmMwTkktXzZzUmlEaVZtWDdYa2FxU3NzQlNSSEZBa09fOHAyTWNGc21PengySWRscGFGLXRReFd4etIBlgJBVV95cUxObHRTMXJpMGNVVGF4TmxtSVNWMWt2eG1ZcVQxc2FLUkZ6bW84VmJGMTNTdEpJWU1UYzJ6bXZFR204emU1SHVFU19UWTlPXzZvQ2xXYlBmbTBjZWthR0l2bENzV1dQR29BeUVyX1FmM2E3M1ZwSzVoTnQ4VFZ2MWlySDhvbHp6THllZm5zNWtIUzNaWE5vREZhTW04eER6QmdRd29ZbWVWRUpWdUVfaHRLZFRrUi1jWE5TTlZweUZHLTcxZkV0OTk5bG0wcFJvVzBhV2dvRVlZeDFtSXhkVmV4VEpEOHB3N0FMeHFxLVJGQi1zdjFYQ2hlS1BiaTdTNER4U1lfaTdTOVJDelluMzRHZGFxX2dTQQ?oc=5
+- Sebi sees no CAS manipulation, eyes more participation
+  Sebi chairman Tuhin Kanta Pandey confirmed that the closing auction sessions showed no manipulation. He linked earlier discrepancies to cautious trading in the newly implemented system. Notably, mutual funds have significantly increased activity in these sessions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-sees-no-cas-manipulation-eyes-more-participation/articleshow/133195469.cms
 
-- Flight-Tracking Platform Sues Kalshi Over Flight Cancellation Prediction Markets - WSJ
-  Flight-Tracking Platform Sues
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXhZVWJUemY0TXdZaUdwaHE1YUt1QjFzeG1aVUJta3hUdzJZUlhqQ1Q1RUQ5M0UzOGxXaGlPVHRCYUljaFRsZXA3MlEwQU5xMmZaclRIYXNSZ0h3QmZ5WWNEQUdFMTJOZ0RXT0RUSkszZmVnZG9CR2diYXZUWUlhRHMtR2pRRU8xSEE?oc=5
+- Federal Bank, IDFC First Bank surge in credit card growth, challenging HDFC Bank
+  Federal Bank and IDFC First Bank have collectively issued over twenty-two lakh new credit cards, almost paralleling HDFC Bank's own expansions. The dominance of the top four issuers appears to be waning.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-idfc-first-bank-surge-in-credit-card-growth-challenging-hdfc-bank/articleshow/133195449.cms
 
-- FlightAware withdraws lawsuit against Kalshi over flight-cancellation markets - Reuters
-  FlightAware withdraws lawsuit
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzlHTUg4V1E1T2pCZHZvSl9WOXB5UkRyZ0FFRmVlb1FnRDR4cjN5ei0tbjY0dDJnSXZYSWhOMzV6UFQxbUUxM0tnXzlSczJ1c3ZPeHRPVWduMHRfaXlGcXpPQ2sxVlA4elYwQ2JmMGFxOVgwbnBlUkZLUnVNdjZSWEZjdWs2eDgtazk4RllqcElqLTN4RDBjNmFOV3hSRGRCeTN6QUxna2RrNU91NktGTDRKc01WWlRQUnRwWmk1dnRSZlE2S01WMXln?oc=5
+- Stocks in news: UltraTech Cement, Tata Motors PV, Axis Bank, Apollo Hospitals and Ircon
+  Indian equity markets saw a decline on Wednesday, influenced by Middle East tensions and rising oil prices. Several companies will be in focus today due to corporate developments and first-quarter earnings reports.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ultratech-cement-tata-motors-pv-axis-bank-apollo-hospitals-and-ircon/articleshow/133189372.cms
 
-- US stocks: Londian Wason valued at $2 billion, biggest Chinese debut in New York in over a year
-  Londian Wason has officially launched on the NYSE, reaching a remarkable valuation of more than two billion dollars. This is particularly noteworthy, as it represents the biggest Chinese IPO in the U.S. in over a year.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-londian-wason-valued-at-2-billion-biggest-chinese-debut-in-new-york-in-over-a-year/articleshow/133190804.cms
+- SEBI Issues Show Cause Notice To Paytm Over 2023 Disclosure
+  The Securities and Exchange Board of India (SEBI) has issued a show cause notice (SCN) to the key managerial personnel.
+  🔗 https://inc42.com/buzz/sebi-issues-show-cause-notice-to-paytm-over-2023-disclosure/
 
-- Goldman Sachs ups ETF push, set to acquire Neos Investments for up to $2.25 billion
-  Neos manages approximately $30 billion across nineteen exchange-traded funds. The acquisition will boost Goldman's active ETF assets to $80
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-sachs-ups-etf-push-set-to-acquire-neos-investments-for-up-to-2-25-billion/articleshow/133189967.cms
-
-- Nebius shares soar 22% as AI demand powers revenue beat
-  Nebius shares jump nearly 22% after beating revenue estimates. Core AI cloud revenue increased sixfold, while major customer deals and capacity commitments highlighted strong future growth.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nebius-shares-soar-22-as-ai-demand-powers-revenue-beat/articleshow/133188174.cms
-
-- Indel Money to raise up to Rs 500 crore via public issue of NCDs
-  Indel Money plans to raise up to Rs 500 crore through a public issue of non-convertible debentures. The issue will open on August 18 and close on August 31, with an option for
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indel-money-to-raise-up-to-rs-500-crore-via-public-issue-of-ncds/articleshow/133187783.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Sensex fell 188 points and Nifty declined 36 points. PSU banks and metals outperformed broader market weakness.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133187725.cms
-
-- Why have several nations raised red flags over Indian farm exports? - Al Jazeera
-  Al Jazeera: Why have several nations raised red flags
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQk1XT3dERWE5NFgzbFllS2pPRDVYOGF2S2xGclhiSFB2TWdUdGVaRTlYT05uVVBNZVdJTVBWLWtpZGxDRzFLaUxnREFVYXlCejBqNmdRUHVVSFhjVzMyV2V6cnFNVUt4blM1WjI4WF84RUJ6YS1yeEV0VTJFT3pxcFMwb1dyRENWUnNwRnJJeGF5amZJTE5XQXUwZGFHaUpJTTlGTE9fOHJQcG_SAbABQVVfeXFMT2ZWQ2lpVG05emhkU1FWZ3VHcm9aRU1WME10ZkZaTE1Pbkd3Y3lJUzBLUkZuOWIxSGFsaVl0X3d5OGNLOWpUMFdiSmVzQ1dTZG9IYVA2LVZfS2Z5NFRiX01xTWR2N3dsVGgzMnVBaXdUVEY1TmJZYzJvWkpQWEprMHlKNTVXaG1qdVdYOFdhYjdTS0lZODBYb3FiR1hJZVB3bFBsM0JaaHBrR2g0SFllUno?oc=5
-
-- Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil purchases: ‘Don't do that’ | India News - Hindustan Times
-  Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPRU9rWlR1cUx0Y3ZjN05JWHRJTXZwalhfZWNvSVNMQTZLMUdHUFBSY292aTRvQWZvNU1BMVllZG0weERPckpBUjQ0YkQzZDBoRTJLTVlaSW5IZ25scDZHc3lUME0zNGZ6QThySTJ0QXVIcGc0STVGdnpORzBaSWRXSldXdHJiOFotQ2k3QnJCd0FRS0ZVLXBUOWlhMnVWczlPTXZobWFZSDN2RUFMV2NGOTkwczNJaS13V1FrNE1sR0FTNktUMXFzSzVvUkV4M2Vvelk5Y2tqWFVsMHV6Vmp4NTkxbTV5RC1seTUzeDd3MWJ6QzBCaHBCTHpmYnVteW1mdUw5ai13Y9IBjAJBVV95cUxPZ1UwbXE3VjJ3UVVNa2c5QXUzdldzdldsTk00aGtNNHBNM1FEYW9Id1JNU0RnUmdMbWxSSkxla1duS0NfRXBkU21pUVhZT1VFYWI2OFJWMGtrb3VIRjVOelF3U0k5ZzRqU3hOWTJWaHdVeDY1eUYwT0lYSDZyYUhGbk5yc1k4Y2ZNWXpYd19kcnFNeG1KRGpnaVhENHlCRVBuWTNSSm5aeHJpc0o2X0wxemN3UDVhZjhzNTMtVVVMU2lqWlhRcHg3aVZCSF9GMFp5MTMybURnYzFQQmptWEx2eVFGSTBRV2J0WE1Qd2RSMXk3eV9pbW9pR0tlQXFBWWl1Uld2WkVsdjlqVzk0?oc=5
-
-- 'Spy' From Pak Arrested Near Bangladesh Border, Was Tracking Army Activity - NDTV
-  'Spy' From Pak Arrested Near
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUI3ek1fNlFFcTYtSkEtOFFyZU5pSTRhOVZITUVZOXdvQWFHRThJaUtUZFlnLXVfVHp3ZmZDalhIcHhNZ2JrR2tKU1k2QVYxNHhRTVotMGtLaDJMMVhiNkxPZVpZQS0xdUNwcXZZaTNKeDNKcHJpZXhtMUhSRXZuNjFCWC13b2JPRWhvVnZEVlNFb1lnaEthN1RYTVBFRlptZzJHeXpzbElOY2o4bmU0LUh30gG6AUFVX3lxTE1vWGMtTkZxbzRTTXVzdFlzMElnd0NpZHFRSHQ4RE1WMVpHX3AtUzE0eklXQ3J5QWROMjFNclZhMHNSLUhBZmJXUG8wN3Q1U2EybUQxM2lNc0VJbFhWRkRaWkYxbTFFX2FIUGNaM1dyMGhkNVAtbXdwN2lJWG9oNjNzZGJSVkNXRnRlWFFfZ1J4UTVYMEoxSmFfbWdxbmUtaGdxbmpadmNXZnMyaUxBZTJIbWl3ZnF0ZE55QQ?oc=5
-
-- India renews invite to Nepal PM Balendra Shah for early Delhi visit - The Economic Times
-  India renews invite to Nepal PM Balendra Shah for early
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxQU25mNUVWNC1Yb1JoNmNtRExJeXMxb3ljSzNWeURULXh1WmdsbEI3ZlRrNWFzOFFYMGg5SnAzaXRRSnJ4bUptTUR6bFZpdWNkTkF0bFJ1TEk2X04yUnhQYWVyNWppYUkzS2lGbkRSRllJeGRzSm1qczdKVV9jZGMzNFhjR21zQWo4ZHRSSmRHTDFoMTFFOVEwcVV2dlRCWU81WnlidjJNR0lMY3hhaEpaY3hxRGVMcjFBQkYtMGpHUTJpN3dYU2R5aU5JSmRCd2tVY1NKbk1qYmVuNmRnVWY4VVN6ZjM0R2liVmNkWlBJbFY4MkV4VFlwRXlnRS1rRTAya1NxR05nM3ZiQUpSM3E5aW9RQ0NqaTFTR05ZZElneDd3ZlnSAb8BQVVfeXFMTWJzdGRxdjFtU0JtZjZTRFZiTUxUVEhFWU1LaGRtcGl0cU8yTFlYUVlUYmxzYzFsTkRqN2R6djhDVE9TZ1Z2SURLTzRHVDM1ZllvemxDUXpESUdabURuU3Vnd05zRjlMWk5ncUllVmVHdVp1cmV3bEdmY1JHWlhCamdfVHlQNG9KMHZUbkhTVWM1ZjRSSk5xbnN0Zzh1Nk84SWRaZVFDM3hMOC1TRHRxYlFZWHlHZDdqX3c5RFNHUWs?oc=5
-
-- Video uploaded by Dhruv Rathee withheld in India, global blocking pending: YouTube tells Delhi High Court - The Hindu
-  Video uploaded by Dhruv Rathee withheld in India, global blocking pending
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3JlLTdhOUhjaXVVaEt1MUFXUXZXSGRUVEE2NWxrU29KM1o0aEVwX3E1N0stVDhwc0x1TW1UMmVHSEJKNnlQbWNGUzZvVUozU0VLV3R4Y0NUZnZjaWYwZVJPblExenB1eG5tNWVMa1ZZRHphenpsZUY0bklKYjg2TXhPMWlscjBaUlhzV0NkdzFYWjNYYWxQdGNiN3BIRTMxLVhJSzVaRWw1NDdKRWppLTdWenFYLVRUYnZFZHB2OXY1WlhBeWhiUnlkNzh5T011ZFZ0NFVaNUplNE9oR2VManhLRmxtNDRkNGfSAfABQVVfeXFMTWl4UmlRbnBpYU5CM1pvTzkyMG5DYnZVeWN0ajE0dXlsWThuRGNmYmtwaWVsOWZRUUpESFUzUmNLS0FKZWlHd3gtYnMwM2pMb0hZRUdxTEE2QmNvNkFfY2NDWFZ5ek1UTUZmQ1hZMDJrQlNBR3U3amFQQzNxb2szWGNadWo5ejlGR1pfZENCTHVEZkhMUmZjX3NRS3BPX0FNN3NSWG1NUUxXV3ItWV9wWjA2eFN6Mzd1eUpGOE16aTFVaGJMdEhMMmlCT2VfVTN2RzJPMlFob3BXMWpMT21LMm80S2Zqek1oem55SkhkODlV?oc=5
+- 5.1 Lakh Complaints Filed Against Ecommerce Platforms In 2025: Govt
+  More than 5.1 Lakh complaints were registered against ecommerce and quick commerce platforms on the National Consumer Helpline in 2025.
+  🔗 https://inc42.com/buzz/5-1-lakh-complaints-filed-against-ecommerce-platforms-in-2025-govt/
 
 - Yatra’s Q1 Profit Crashes 98% YoY To ₹34 Lakhs
   Online travel aggregator (OTA) Yatra’s consolidated net profit crashed 97.9% to ₹34 Lakhs in the first quarter (Q1)
@@ -172,14 +120,6 @@
   US-based AI coding major Cursor is reportedly set to open its first office in India.
   🔗 https://inc42.com/buzz/cursor-to-open-first-india-office-by-2026-end-report/
 
-- DevX Q1 Profit Jumps To ₹1.5 Cr Despite A 3.3% YoY Dip In Revenue
-  Office space provider DevX (Dev Accelerator) reported a consolidated net profit of ₹1.50 Cr in Q1 FY27.
-  🔗 https://inc42.com/buzz/devx-q1-profit-jumps-to-%e2%82%b91-5-cr-despite-a-3-3-yoy-dip-in-revenue/
-
-- [Update] Shiprocket IPO: Public Issue Subscribed 97% On Day 1
-  Shiprocket’s public issue was subscribed 97% on the first day of bidding, receiving bids for&#8230;. Retail, Employee Quotas Fully Booked.
-  🔗 https://inc42.com/buzz/shiprocket-ipo-subscribed-35-on-day-1-retail-employee-quotas-fully-booked/
-
 - Why have several nations raised red flags over Indian farm exports? - Al Jazeera
   Al Jazeera: Why have several nations raised red flags
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQk1XT3dERWE5NFgzbFllS2pPRDVYOGF2S2xGclhiSFB2TWdUdGVaRTlYT05uVVBNZVdJTVBWLWtpZGxDRzFLaUxnREFVYXlCejBqNmdRUHVVSFhjVzMyV2V6cnFNVUt4blM1WjI4WF84RUJ6YS1yeEV0VTJFT3pxcFMwb1dyRENWUnNwRnJJeGF5amZJTE5XQXUwZGFHaUpJTTlGTE9fOHJQcG_SAbABQVVfeXFMT2ZWQ2lpVG05emhkU1FWZ3VHcm9aRU1WME10ZkZaTE1Pbkd3Y3lJUzBLUkZuOWIxSGFsaVl0X3d5OGNLOWpUMFdiSmVzQ1dTZG9IYVA2LVZfS2Z5NFRiX01xTWR2N3dsVGgzMnVBaXdUVEY1TmJZYzJvWkpQWEprMHlKNTVXaG1qdVdYOFdhYjdTS0lZODBYb3FiR1hJZVB3bFBsM0JaaHBrR2g0SFllUno?oc=5
@@ -188,37 +128,17 @@
   Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil
   🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPRU9rWlR1cUx0Y3ZjN05JWHRJTXZwalhfZWNvSVNMQTZLMUdHUFBSY292aTRvQWZvNU1BMVllZG0weERPckpBUjQ0YkQzZDBoRTJLTVlaSW5IZ25scDZHc3lUME0zNGZ6QThySTJ0QXVIcGc0STVGdnpORzBaSWRXSldXdHJiOFotQ2k3QnJCd0FRS0ZVLXBUOWlhMnVWczlPTXZobWFZSDN2RUFMV2NGOTkwczNJaS13V1FrNE1sR0FTNktUMXFzSzVvUkV4M2Vvelk5Y2tqWFVsMHV6Vmp4NTkxbTV5RC1seTUzeDd3MWJ6QzBCaHBCTHpmYnVteW1mdUw5ai13Y9IBjAJBVV95cUxPZ1UwbXE3VjJ3UVVNa2c5QXUzdldzdldsTk00aGtNNHBNM1FEYW9Id1JNU0RnUmdMbWxSSkxla1duS0NfRXBkU21pUVhZT1VFYWI2OFJWMGtrb3VIRjVOelF3U0k5ZzRqU3hOWTJWaHdVeDY1eUYwT0lYSDZyYUhGbk5yc1k4Y2ZNWXpYd19kcnFNeG1KRGpnaVhENHlCRVBuWTNSSm5aeHJpc0o2X0wxemN3UDVhZjhzNTMtVVVMU2lqWlhRcHg3aVZCSF9GMFp5MTMybURnYzFQQmptWEx2eVFGSTBRV2J0WE1Qd2RSMXk3eV9pbW9pR0tlQXFBWWl1Uld2WkVsdjlqVzk0?oc=5
 
-- 'Spy' From Pak Arrested Near Bangladesh Border, Was Tracking Army Activity - NDTV
-  'Spy' From Pak Arrested Near
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUI3ek1fNlFFcTYtSkEtOFFyZU5pSTRhOVZITUVZOXdvQWFHRThJaUtUZFlnLXVfVHp3ZmZDalhIcHhNZ2JrR2tKU1k2QVYxNHhRTVotMGtLaDJMMVhiNkxPZVpZQS0xdUNwcXZZaTNKeDNKcHJpZXhtMUhSRXZuNjFCWC13b2JPRWhvVnZEVlNFb1lnaEthN1RYTVBFRlptZzJHeXpzbElOY2o4bmU0LUh30gG6AUFVX3lxTE1vWGMtTkZxbzRTTXVzdFlzMElnd0NpZHFRSHQ4RE1WMVpHX3AtUzE0eklXQ3J5QWROMjFNclZhMHNSLUhBZmJXUG8wN3Q1U2EybUQxM2lNc0VJbFhWRkRaWkYxbTFFX2FIUGNaM1dyMGhkNVAtbXdwN2lJWG9oNjNzZGJSVkNXRnRlWFFfZ1J4UTVYMEoxSmFfbWdxbmUtaGdxbmpadmNXZnMyaUxBZTJIbWl3ZnF0ZE55QQ?oc=5
+- Groww leads India's top brokerages in July with over 70,000 new active accounts - The Economic Times
+  Groww leads India's top brokerages in July with over
+  🔗 https://news.google.com/rss/articles/CBMizwJBVV95cUxQU2lGSjNDcF8wekphNzFNTTgyTjlnR2Q4azFUSVBkYmdQMWFTNEtmalFJM3ZjNkFkT0pSSkVZdjMwOHlHV3lhVmpuazhZQnNKNTFXVFRvc3JPczVmQVBxeTktWkZSUDNRZFRUdUMzY012MDlCZnp4YzZRaDJ1bmJwc24zV1NYLVMtZGJUZEozTURMQm0xMmljalU3UXpvQjM0SUhnMjBOTTE3Z2VINk0tcENsVTZXNGVESkNHNkZsX2tCUko1RFA0TkpVRmhKS0kwd29RMGk3b1B5QlFjZ3N2VXQ1WUIwYzFILTFQMU5qMUVxR3gtZUpFcEZEZ25pSVVTbzlHN2R0d2M1eHdrMFN1Nlo4QzZ3azctNEVncTlBVnVSS3NJUFg4WE9ZY2ZsOFBmejA2R3JkUlNmUmo4SUxSSllXdzBWdEpaZ29MNFM1QdIB6wFBVV95cUxPWmZGblRNS2pGVjhfc0R4Uzh0NWhwVE53UjYwazNUSE80MTVDMWlWdDBaSXhzN2IwSDE5SUhhWWVpdUlHeFFuRW9OcWxRZXpnU3ctUnFYRGhvOWJGZVNiVmYxM1FKN0tWT1hYeFhPU2hTcldIZnVPWnBkTlQ4OG43LW8zMVduWjNKTGtjN3JIZWNYMlBTTHpyTGpaOXhRTk1udWxocm4tR19NQ3JiclpfUld4bWZZTEQ1anJSdXp6VWVLSGJIcGM4dUtpT3o0Y1pKeEFWemJPUkw5VWNHa3o0RnRyTDZrRlVQRnhJ?oc=5
 
-- India renews invite to Nepal PM Balendra Shah for early Delhi visit - The Economic Times
-  India renews invite to Nepal PM Balendra Shah for early
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxQU25mNUVWNC1Yb1JoNmNtRExJeXMxb3ljSzNWeURULXh1WmdsbEI3ZlRrNWFzOFFYMGg5SnAzaXRRSnJ4bUptTUR6bFZpdWNkTkF0bFJ1TEk2X04yUnhQYWVyNWppYUkzS2lGbkRSRllJeGRzSm1qczdKVV9jZGMzNFhjR21zQWo4ZHRSSmRHTDFoMTFFOVEwcVV2dlRCWU81WnlidjJNR0lMY3hhaEpaY3hxRGVMcjFBQkYtMGpHUTJpN3dYU2R5aU5JSmRCd2tVY1NKbk1qYmVuNmRnVWY4VVN6ZjM0R2liVmNkWlBJbFY4MkV4VFlwRXlnRS1rRTAya1NxR05nM3ZiQUpSM3E5aW9RQ0NqaTFTR05ZZElneDd3ZlnSAb8BQVVfeXFMTWJzdGRxdjFtU0JtZjZTRFZiTUxUVEhFWU1LaGRtcGl0cU8yTFlYUVlUYmxzYzFsTkRqN2R6djhDVE9TZ1Z2SURLTzRHVDM1ZllvemxDUXpESUdabURuU3Vnd05zRjlMWk5ncUllVmVHdVp1cmV3bEdmY1JHWlhCamdfVHlQNG9KMHZUbkhTVWM1ZjRSSk5xbnN0Zzh1Nk84SWRaZVFDM3hMOC1TRHRxYlFZWHlHZDdqX3c5RFNHUWs?oc=5
+- Air India Downplayed Phuket Plane Failures With 'Turbulence'? What Documents Say - NDTV
+  Air India Downplayed Phuket Plane Fail
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHRMbTJjeUctUFV4QVVadlRwdkk1YmxIbEJNVWloekw1NWxldVlCZzJvM3hWdWZxLUZkR3VVZXZJcUdGcHhGWGpxRDh5YXlzMzJaVENHd0xqUmZleUlUVFFVZWh1TGZZcGdMbEFkUGloVVVkM0QzbGZxQjBCenFISzQwNW01azRNY0g2dk5NOUV4S2lLU0FOaG1vZVU1OGRIcHlNakRWV2hEby1kVkZOY21BQnMtWEhGeldXbUVNTzZOVnhGWXhGX0VNSkpybUdpc0NjcE9mNNIB3wFBVV95cUxPZm5kbzRWaGlFcHE4V2Y4X24tUWpUdVJQa0MzR25sTXdBWXZQRWZiZ0V4V0Ewd2dVLVpjZDRMZDVpUXlrZnlqUVk0RDVaNXFuR2U4QVcyXzFHV2dET3o1VFdjYktEMmN0MVFZOUFxVUZjSHdoYUpSZFdqVTV2Ynd4OV8tcThEX3dvYUszVFducmdGVGI5UEVsYmxfUGtTazZPTi1uUUVNd2tneTdxVUVWREFIVTd6b1N2REV0aDVEQkc5MVhZSWtBSWEtYVdZTnlBUkExR2J1NDFDQi13TG1z?oc=5
 
-- Video uploaded by Dhruv Rathee withheld in India, global blocking pending: YouTube tells Delhi High Court - The Hindu
-  Video uploaded by Dhruv Rathee withheld in India, global blocking pending
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3JlLTdhOUhjaXVVaEt1MUFXUXZXSGRUVEE2NWxrU29KM1o0aEVwX3E1N0stVDhwc0x1TW1UMmVHSEJKNnlQbWNGUzZvVUozU0VLV3R4Y0NUZnZjaWYwZVJPblExenB1eG5tNWVMa1ZZRHphenpsZUY0bklKYjg2TXhPMWlscjBaUlhzV0NkdzFYWjNYYWxQdGNiN3BIRTMxLVhJSzVaRWw1NDdKRWppLTdWenFYLVRUYnZFZHB2OXY1WlhBeWhiUnlkNzh5T011ZFZ0NFVaNUplNE9oR2VManhLRmxtNDRkNGfSAfABQVVfeXFMTWl4UmlRbnBpYU5CM1pvTzkyMG5DYnZVeWN0ajE0dXlsWThuRGNmYmtwaWVsOWZRUUpESFUzUmNLS0FKZWlHd3gtYnMwM2pMb0hZRUdxTEE2QmNvNkFfY2NDWFZ5ek1UTUZmQ1hZMDJrQlNBR3U3amFQQzNxb2szWGNadWo5ejlGR1pfZENCTHVEZkhMUmZjX3NRS3BPX0FNN3NSWG1NUUxXV3ItWV9wWjA2eFN6Mzd1eUpGOE16aTFVaGJMdEhMMmlCT2VfVTN2RzJPMlFob3BXMWpMT21LMm80S2Zqek1oem55SkhkODlV?oc=5
-
-- Why have several nations raised red flags over Indian farm exports? - Al Jazeera
-  Al Jazeera: Why have several nations raised red flags
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQk1XT3dERWE5NFgzbFllS2pPRDVYOGF2S2xGclhiSFB2TWdUdGVaRTlYT05uVVBNZVdJTVBWLWtpZGxDRzFLaUxnREFVYXlCejBqNmdRUHVVSFhjVzMyV2V6cnFNVUt4blM1WjI4WF84RUJ6YS1yeEV0VTJFT3pxcFMwb1dyRENWUnNwRnJJeGF5amZJTE5XQXUwZGFHaUpJTTlGTE9fOHJQcG_SAbABQVVfeXFMT2ZWQ2lpVG05emhkU1FWZ3VHcm9aRU1WME10ZkZaTE1Pbkd3Y3lJUzBLUkZuOWIxSGFsaVl0X3d5OGNLOWpUMFdiSmVzQ1dTZG9IYVA2LVZfS2Z5NFRiX01xTWR2N3dsVGgzMnVBaXdUVEY1TmJZYzJvWkpQWEprMHlKNTVXaG1qdVdYOFdhYjdTS0lZODBYb3FiR1hJZVB3bFBsM0JaaHBrR2g0SFllUno?oc=5
-
-- Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil purchases: ‘Don't do that’ | India News - Hindustan Times
-  Trump aide says he got ‘firebombed’ by India over remarks against its Russian oil
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPRU9rWlR1cUx0Y3ZjN05JWHRJTXZwalhfZWNvSVNMQTZLMUdHUFBSY292aTRvQWZvNU1BMVllZG0weERPckpBUjQ0YkQzZDBoRTJLTVlaSW5IZ25scDZHc3lUME0zNGZ6QThySTJ0QXVIcGc0STVGdnpORzBaSWRXSldXdHJiOFotQ2k3QnJCd0FRS0ZVLXBUOWlhMnVWczlPTXZobWFZSDN2RUFMV2NGOTkwczNJaS13V1FrNE1sR0FTNktUMXFzSzVvUkV4M2Vvelk5Y2tqWFVsMHV6Vmp4NTkxbTV5RC1seTUzeDd3MWJ6QzBCaHBCTHpmYnVteW1mdUw5ai13Y9IBjAJBVV95cUxPZ1UwbXE3VjJ3UVVNa2c5QXUzdldzdldsTk00aGtNNHBNM1FEYW9Id1JNU0RnUmdMbWxSSkxla1duS0NfRXBkU21pUVhZT1VFYWI2OFJWMGtrb3VIRjVOelF3U0k5ZzRqU3hOWTJWaHdVeDY1eUYwT0lYSDZyYUhGbk5yc1k4Y2ZNWXpYd19kcnFNeG1KRGpnaVhENHlCRVBuWTNSSm5aeHJpc0o2X0wxemN3UDVhZjhzNTMtVVVMU2lqWlhRcHg3aVZCSF9GMFp5MTMybURnYzFQQmptWEx2eVFGSTBRV2J0WE1Qd2RSMXk3eV9pbW9pR0tlQXFBWWl1Uld2WkVsdjlqVzk0?oc=5
-
-- 'Spy' From Pak Arrested Near Bangladesh Border, Was Tracking Army Activity - NDTV
-  'Spy' From Pak Arrested Near
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUI3ek1fNlFFcTYtSkEtOFFyZU5pSTRhOVZITUVZOXdvQWFHRThJaUtUZFlnLXVfVHp3ZmZDalhIcHhNZ2JrR2tKU1k2QVYxNHhRTVotMGtLaDJMMVhiNkxPZVpZQS0xdUNwcXZZaTNKeDNKcHJpZXhtMUhSRXZuNjFCWC13b2JPRWhvVnZEVlNFb1lnaEthN1RYTVBFRlptZzJHeXpzbElOY2o4bmU0LUh30gG6AUFVX3lxTE1vWGMtTkZxbzRTTXVzdFlzMElnd0NpZHFRSHQ4RE1WMVpHX3AtUzE0eklXQ3J5QWROMjFNclZhMHNSLUhBZmJXUG8wN3Q1U2EybUQxM2lNc0VJbFhWRkRaWkYxbTFFX2FIUGNaM1dyMGhkNVAtbXdwN2lJWG9oNjNzZGJSVkNXRnRlWFFfZ1J4UTVYMEoxSmFfbWdxbmUtaGdxbmpadmNXZnMyaUxBZTJIbWl3ZnF0ZE55QQ?oc=5
-
-- India renews invite to Nepal PM Balendra Shah for early Delhi visit - The Economic Times
-  India renews invite to Nepal PM Balendra Shah for early
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxQU25mNUVWNC1Yb1JoNmNtRExJeXMxb3ljSzNWeURULXh1WmdsbEI3ZlRrNWFzOFFYMGg5SnAzaXRRSnJ4bUptTUR6bFZpdWNkTkF0bFJ1TEk2X04yUnhQYWVyNWppYUkzS2lGbkRSRllJeGRzSm1qczdKVV9jZGMzNFhjR21zQWo4ZHRSSmRHTDFoMTFFOVEwcVV2dlRCWU81WnlidjJNR0lMY3hhaEpaY3hxRGVMcjFBQkYtMGpHUTJpN3dYU2R5aU5JSmRCd2tVY1NKbk1qYmVuNmRnVWY4VVN6ZjM0R2liVmNkWlBJbFY4MkV4VFlwRXlnRS1rRTAya1NxR05nM3ZiQUpSM3E5aW9RQ0NqaTFTR05ZZElneDd3ZlnSAb8BQVVfeXFMTWJzdGRxdjFtU0JtZjZTRFZiTUxUVEhFWU1LaGRtcGl0cU8yTFlYUVlUYmxzYzFsTkRqN2R6djhDVE9TZ1Z2SURLTzRHVDM1ZllvemxDUXpESUdabURuU3Vnd05zRjlMWk5ncUllVmVHdVp1cmV3bEdmY1JHWlhCamdfVHlQNG9KMHZUbkhTVWM1ZjRSSk5xbnN0Zzh1Nk84SWRaZVFDM3hMOC1TRHRxYlFZWHlHZDdqX3c5RFNHUWs?oc=5
-
-- Video uploaded by Dhruv Rathee withheld in India, global blocking pending: YouTube tells Delhi High Court - The Hindu
-  Video uploaded by Dhruv Rathee withheld in India, global blocking pending
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3JlLTdhOUhjaXVVaEt1MUFXUXZXSGRUVEE2NWxrU29KM1o0aEVwX3E1N0stVDhwc0x1TW1UMmVHSEJKNnlQbWNGUzZvVUozU0VLV3R4Y0NUZnZjaWYwZVJPblExenB1eG5tNWVMa1ZZRHphenpsZUY0bklKYjg2TXhPMWlscjBaUlhzV0NkdzFYWjNYYWxQdGNiN3BIRTMxLVhJSzVaRWw1NDdKRWppLTdWenFYLVRUYnZFZHB2OXY1WlhBeWhiUnlkNzh5T011ZFZ0NFVaNUplNE9oR2VManhLRmxtNDRkNGfSAfABQVVfeXFMTWl4UmlRbnBpYU5CM1pvTzkyMG5DYnZVeWN0ajE0dXlsWThuRGNmYmtwaWVsOWZRUUpESFUzUmNLS0FKZWlHd3gtYnMwM2pMb0hZRUdxTEE2QmNvNkFfY2NDWFZ5ek1UTUZmQ1hZMDJrQlNBR3U3amFQQzNxb2szWGNadWo5ejlGR1pfZENCTHVEZkhMUmZjX3NRS3BPX0FNN3NSWG1NUUxXV3ItWV9wWjA2eFN6Mzd1eUpGOE16aTFVaGJMdEhMMmlCT2VfVTN2RzJPMlFob3BXMWpMT21LMm80S2Zqek1oem55SkhkODlV?oc=5
+- Assam: How a 97-year-old escaped deadly Indian floods on a banana log raft - BBC
+  A 97-year-old man escaped deadly Indian floods
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTNTh1LWVobzVmTFNFTmRMTF9GbDREQ3JINS11dFFiNmNrR1R1emdpOEkzeHVvNllPWTZJQWhFVE04Q3g0TEhhXzEtZmZXZE9zRURrckFaeGxxdw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-12 18:58:18 UTC_
+_Last updated: 2026-08-13 01:28:13 UTC_
