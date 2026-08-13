@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
-  Maharashtra's Ladki Bahin: Why India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
+- Evening news wrap: Sukhbir Badal attacked in Nanded; Air India begins pilot drug testing, & more - timesofindia.indiatimes.com
+  Evening news wrap: Sukhbir Badal attacked in N
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZExXdzRSUlFjWlRGdVhwZ2ZhLWhaNEJZQnljOVM3ZWsxN1BFR092N09NamhLT2hGZG42a0dDOXJiZFVqbHdJdnBnM3BtR0puQ1l3SGFfejZuSnZoV3lJYjV5QndHT29HU3BYN3Q0UDJwSVpQd1FjVEV2c1N3OXZRd0g3NVVPR3JSWTAzNmJXMDVNTEdZanVyWFVHazFEMHo5YW9KeFdhV1h0WUM1aG9DYkJ0Q1ExMVJKWnotbjF1TU8wZXdDaE84UnlZYTlObnFiNkhTV2thakpycWNJQ3FrdGU3UkFyX3V1UFR2YWZiLWPSAfYBQVVfeXFMTmlwVFVFUFZrWEMzOVUtdUR3S2I2SV9pNGs5dXFwd00ydFhDNXpBNDB0a3BtdmRld2VVNVpNQzNuMW0tNVVpVi01cERaWlNnbFN1aFR4OHJ4c05ST29HMHNkTmNLRldhRElVNzJlXzBBUElzMGtQZTF3bTR6TFFtRlA5R0R2VE5zbGxsYWJuRmJlUEZRV1dnakFMZmZveXVtY3U5aTRUMGhITFB5SEs2YTZBNUNIV1JoSTdfaW9QTnUyTkpBV0I3eG05aUVWZm9NenVJM3pRWC1WNFFvc0FSNTc1eVFfNVltaUotZFVuYkxZb3BGRFN3?oc=5
 
 - Vikram's viral video with lar gibbon sparks India wildlife investigation - BBC
   Vikram's viral video with lar
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcjZHWnZTTEEtMWItVlJEUnZQOUN2cU1WX3FDbUJDa2ZBUjFoWWd1S0Npa3dpb2lZTjNpclBILXBMbDRzV2stazlPdjJINGNjTWRHTFI4V09Gdw?oc=5
 
-- Al-Qaeda Offshoot Behind Delhi's Red Fort Blast That Killed 15: UN Report - NDTV
-  Al-Qaeda Offshoot Behind Delhi's Red Fort
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNRndJZG9FdGpjWmZrcC13ZlU5RkdQbUxPYWJnY2RsdUtyVG10a2dYMTVfdVM4Qk1NMV9QRXczOTlrc1hJQ0pCZjBVNF8wUFFXZkZBMUFWZjNwdkFxZzBGeU1XUUhOQmFLOW8zcnRDbmRFNmFSTkFWSmF1N1BuelVsLWxna0VEZVFHbmFWOHBGMm1fQXBHQXVpZUF6ZlJIRldIc0lIU1BqRzZYazhjWU1FU3h30gG6AUFVX3lxTE0wX0l5ZWVjZzV1VVhaaU5QaWxSMjRfSWRMZVdJWGFlNDMtbndjV0NQclNHVnUzc1NaSDRlaW94NmJsUUZ1N1p6Q1k4OHJiT3c2eENKSk1CQnJYY1FNVmJydTc4dFFzMTdud2FzZnl1WFRfellHZ2NSek8xOTNNWkFLRWUyeWpUaUlXT1dzZUtUdC0yMEVGTHdocVV0U1ZnVW9yYjJSV3dpNzNCNUhIQV9tTWZfS2Fua1pHUQ?oc=5
-
-- Parliament Session Live Updates: Monsoon Session concludes as Lok Sabha, Rajya Sabha adjourned sine die - The Times of India
-  Parliament Session Live Updates: Monsoon Session concludes as Lok Sabha, Rajya
-  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQODZTVG4wOHRvYlVGcEFyR0wzT0dETlpPQklnbmpWcDQ4dEhlbDFoYXdUUnU3RVFFdmM1c2xkWW5TQmtIMGlkRUVCSWNuVzN2djRqN0Fqcnh2QkxuTkY5MXRzZnh4TFFNTFllSXBWOXRVeXdUejhxanpveXFtTVpOQWhoYVBhT19LN0ZPM0FnQzM2ZE9fM3NqYVRocDFIRTZ5RTJ2Ny1rSU9SZ2VZV2w2cGw0VUFCWXJyUVotNXY5VzAwTTNmRVVyV01aZmU0RWlLdUVfX01lQUx2Y3F6aWF4WjUzMzVvUF9fbk5oYjNXNDU4TExlTmZzdnpOZDBDaFVZT0Njcnc4V2NOclJmTHlueDJLVkR4UTd2THpEV0U5RTBkNm1veHA4MTYtbkdjcUc10gG2AkFVX3lxTE9JSUVCNGhodVVuSzdDbFdKWk85TzlhUDlOY3g2ZS1yakx2Zl94NXVDMklYbVRkWFlQX1pENzNmcURsMklNb1hWMW5MS185ZFljWmdBNnBKVDJ4b1lOaXJ1WFBjVldEYTA4Q25vVllzbFhLQXplS1RIdmxKRXpVbTU5RHZfUThiTE9ONjBPNWVuMC01bERHWFh0WEdkLVlhSU9CTXlsQlVNbmtlVU1jN3FfbVRXSEM3SDlLei12V01xY2NZNHRybHdFR19QWVVURUxtMC1jaXUyMDFvX0c2VlpEOWJwemdPYWJjWEVScVRMWUdTSzNDVGJ1QnFaXzlESnlncW5UZEx3Mld4d182VVJVS1ZiOGtkVmJrNWdxTk5wREdaNzFoNWhjZ0c0N1M3QldCOUNKcWc?oc=5
+- India To Buy 60 Transport Aircraft, 150 Trainers In Push For Self-Reliance - NDTV
+  India To Buy 60 Transport Aircraft, 150 Trainers
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTY0SDJ0MXEtRVdkbnppdl9HQ0pOTXJyamgzWTZsa3BEU3FsRnhvZHRyRFZTNVFCcmFJMjRvcEYxa0JnMDZWSUNtbmpzdldKb0RfQWhwdDBnTHE2UV8tTzFGME52T3hDdkxwN0NHSEh6RFZOM3hQanZQSkR3dXBDTThHUUN1bENrT0EwbXpXOWxEcWx4RkZCdlFLcjRjRjNQNF8yTVlGOU5YRjlfbFhMSW1DYjLSAbwBQVVfeXFMT2lFTGhYVHplQ1VKZm5PcXlnNW5CdjUtcUc5Nng3bHVIb3FFa2NLY3J6Q29NX1RxdjdUMkM5YlVmcnM2cktiN1BPVnc3YkxLY242cVNFczB1MEFoSnFpdVQyRWUxMlZWWlZHb2ZVdU1rZUNHVHZUaWEtRy1vbVhvdDBVVGsycW8yV3loSGhEYVhvSUw4NnEtenpoQkxhZlhNX2xfak9aV20xX0dRYzUzUmhveVduQXZwNDBrdks?oc=5
 
 - BCCI confirms India vs Afghanistan T20 International series in September - News On AIR
   BCCI confirms India vs Afghanistan T20 International series
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWg4MnA4S05qRlY5QWdXXy1ZcVpuM1B3NFNpRzRiNWQ0Rnl6M2IzbTlXVzZGbWRReEU0dEdnZ0w4SVlmVFB4cUFoZlhhaHRKMWhHNlVMaU5SeFVORGhoUjNmbDRnOVR5dTZFcWtUSm1kTE5IWnpJQjJyT1RIYXVRd01UYjZ1NDdEUTdxTzZMMFU0ZnpaX0VPN3ctckhiS1E?oc=5
 
+- India news: IndiGo engine failure triggers airport emergency - dw.com
+  India news: IndiGo
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDFMWmIxTEl0NTJmdG1RMDFfWmVwVU9MSDZzTzg1RnJjbVQ5dVVFYk0xY3VhNnU4TzhKcmowRjV5VHZULXU1MWJmcHpQbzcyVlB5QTNDNzQ0RGJrVWFMNS02YlJjenZqUE9aRjBZX2NQNTU5UjVJZmJ1eVRLWGxTZGN2ZURwRnFBbGFOSkdwTllJSG9XeVlfWXcyQQ?oc=5
+
 - South Korea unveils future technology drivers, targets moon landing by 2030 - Reuters
   South Korea unveils future technology drivers, targets
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQWloxM0JBWi1KZHlmdHJEZzZFWnhNeXVnVHRZa0JCdFhfZW5wTF9jeEdrRk9XM2xaWWlMWnhtbS1EVGNpX3Bta2dGcHBHYlF3UVlhV3ZodE1SWjNIMzNrUWc0aXdKQURNdkFZZ3FQMzVEb2FHQ1loTldoREwzaWotLU4yVVJsQWVqQ2k2blctRW9UaXI2Zm9Dc2dIQTJXVkN6OTB5UlFGS2NuX1hLWmFuS2ViY1JHeXVwM242SzgxaFdKLW85VEZodkNn?oc=5
 
-- Some of tech's CEO suite is cloning itself with AI. What happens next? - BBC
-  Some of tech's CEO suite is cloning itself with AI
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTlSaWNMLU1QczZQOWdIdm1sZWItQk1LQnpMbzByeTNVWWZOdzdUUFpSNVRSR0VabmhBYVFXckF0ZW1qZExrVFN3RDZ5d3dUNzhRUHFpNkJiSkRaa05ERElsZmZmbm15elQ4NWJVLW5zNm5WVjVLMVZ2TXNDZHVTYi1zSQ?oc=5
+- These startups are chasing the next big thing in LLMs - technologyreview.com
+  These startups are chasing the next big thing
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5
 
-- Mark Zuckerberg manifesto sketches out Meta’s ambitions for world-changing AI technology - The Hindu
-  Mark Zuckerberg manifesto sketches out Meta’s ambitions
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOXzJPcVdJV3J3a0lBXzU0Qk5EckVYdXNVQTBWX0tRcWtlMk1nUWFDNWs4M0NNSzlXeG03SEc5ZWpBdEJiTmx0c0xCRFpna3p4RHlWTk9ncFN6aWV0NUJpd1RVSFRGR09DZ3NvanhSQndCVzZLVS0tTDJQb2I3ZENhOWk5TG5NSG1VSHBKZmxYNnVMZ3NVTnpGUHJmVlB4aVpfY082dEVadFlZSnBjSnY3T2lXYVd4UFJOVDRlOGZlc1pEc2RJLXhEVWU0WGl4WC13QUlJeTVmaWtERmtMdVZCaDlvVlJ5dkHSAe4BQVVfeXFMT0pYdEtyZThjdzJjQk5hTFJBQ25nSlVwUUJaTTdMd2FlQ0JHaUJWN002UW9uTEdVT3k0bm90SWhnZUpQV3c4Tk1kQmN4aDFYTzhJakw4TDA2eTM1U1MzVUR4MDd5Qlh1a0RFWFRrSW1wbmEycXJuWUgzc01ZME5XR25EQ3RWbE9BcG1MRkFHTDRfbWFPSi0yVXlORklYdjlydW0wbWszY3RicWp6a2JxRVB2SHBzWm5HVVpYaWMwUmhBcDZTSWFEbndyLVp4ZVo1VllHZ3dSNU92TnF1bzhZNGJiYTZtaXAwV1RaTGEyUQ?oc=5
+- This digital art exhibition in Delhi showcases technology as a new medium for expression - The Hindu
+  This digital art exhibition in Delhi showcases technology as a new medium for
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcDl5OWV3c0xRU2FrR3lSdF9PVlpzMHBhTFJnQjRvcGg4MFlZbkd4d1RGNk5EWE9LX3JQbGM0V0cyME9sWDdQNEV6c004UVdsRjJpMnJhbUJVS1RMYVFydmVRNWw1SHQ1SVh6QVJ6QlA3MlU1aEhaLXlVT1J5dldqMlk2QTN0cGhCTzRjT011bjAya1dBOUdYdjRlcmw4TzAzWC1ZUlpEWlJMNnk3T0t1SUVyR19nQXB5S2hhVFBHRG12bXBDZ0MyNHlBUHk3V1hhMEtfR1VSaXpDTm5UZURXNlg4VUFkQdIB7AFBVV95cUxOS2ljLVJId1h2TFdpZlBvQnBYZi1OcU5ac0RScHltQ3hBNjZGQzZWUUJtMXpCa2ZKa05KQ3YxVlk1M3Q0QlJ3Vks0a25qblZydUg5THZwQzVwekRhLVhteThWVThQSmhKWmxEclBocUNBY09SdFZvRzRFUjh4OXFWRXY5SGotUDJCRTROcy1qREtzU0FwQUZGalVMamNqQVJJWVp6MkVKOTM0a0lsM00yZ3h0YmJXVXRJZEhnSkM3YmI5M21aNVNzejVYVFhqTlZQVDQ0dVFfVUMwbEdhNUhKQ3dMM2ZBclpPbENWMg?oc=5
 
-- AI was supposed to destroy jobs. Where’s the carnage? - The Guardian
-  AI was supposed to destroy jobs. Where
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5
+- 'Technology saved me today' admits Smith - cricket.com.au
+  'Technology saved me
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXpidEtVODNQVlRYdW02SUxISV9DbFI3QmRUTjdSd2tPUWdUZThRNTVLU01yd0x5V19JODNJY1llTGxHMGRjLUJRTDNHOW12NWJTY3RFVVByYTd2Tm9sY1ZrVkRNSEVuZTNjdVh4TVZqU3NLNkFSWjBNTTkzdTZtU1gzZTJPTjJnZnd0Y1lFWDA3V21mbmwzZktlbHdjcWhRTC1XWndLVjNYVFowcXltOHpDcXRYM1JnNy1MNm5xUnZMTnlBem55Vi16YU1Ndw?oc=5
 
-- Karnataka and Israel strengthen cybersecurity partnership, focus on innovation and resilience - ET Government
-  Karnataka and Israel strengthen cybersecurity partnership, focus
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeUl5WGRWaEwwUkR1MEtfdzYxblIySFFyaTdKME5lUG9MeUxibU5sem1YemVveVRYaTVZaThhR2tOeDR6SkstQ3E5Y0gxRlAzM1BmVm9seDdXdl96MURBcFYxN3BwTDRmOHZMZHgtMXc2MzdjWExWOXg4MURlbHQzc1VKUzJuWHNKSXlHajZva1k3M3RRSnFSRHhIUDNKOU5MLVczd2JCeFdNMWlSQmswOXdldUMzaE1OVEgxeXY3NTJuaFN5VGJBV0ZRclFZM1lrSXBLVDB1ckVoMGlmQjUzRXRCSVF0cU45encweUhTc1E4RllRcTBFVnBB0gH_AUFVX3lxTE9IcXpXcF9SY25FcVN4RklQTkRuMWV3VkpWT3F0MF9yckJlMHJQanJyT0x6MkFWSjN3dUozeTZYZG9GNGRCRUdoRFM1cmNab0F0RmVNUmdzUlJCN2VQS1BENno4ajV3QWNmNnlIcFRFRjNVT3FMRXBieEZuaXpORGUyYnQ0eC1mRWJ6UEkwSWdtajVRRHNBTE8tWXBCTlpqUW4wWjQzRE9DdzEtTVpuQUJTbk1QUmZNVC1WWHBNSFNpUDZOU3lwb0tURkJiVW1hM184MHZIREFkV0RzMFdoa3BpMVNTenpmYXFjZTFtR2VrWHByQmlTWGJTY3BDeExRTQ?oc=5
+- Hyundai Motor Group and KIRARA Release ‘Temper,’ a Musical Interpretation of Technological Refinement - hyundai.com
+  Hyundai Motor Group and KIRARA Release ‘
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1GNXoyY0JlSUVBcGNrQW8weTJzc1FFem1zQm9PZjhCRC1GbEdrVm11NTdQZFdDamZxVGNVTjMtVGs0V2tOV1dPZTNFX213aGM5UHlfVU1OcGI4TmxzNHZyOF9JUHVpT0d0eDdDaDdWZDM?oc=5
 
-- Lightspeed-backed Centricity raises  ₹280 crore led by SMBC Asia Rising Fund
-  The three-year-old wealthtech platform, which manages over  ₹15,000 crore in AUM
-  🔗 https://www.livemint.com/companies/news/centricity-raises-rs-280-crore-series-a-smbc-wealth-management-11786596239685.html
+- Modi’s video and safe harbour: behind Meta’s tumultuous week in India
+  A four-hour takedown of Modi’s Facebook video snowballed into a showdown that sparked rare political unity. But it also
+  🔗 https://www.livemint.com/companies/meta-modi-video-takedown-safe-harbour-row-india-11786603750788.html
 
-- Tata Group faces $120 billion investment dilemma as N Chandrasekaran exits, Noel Tata pushes for caution
-  Natarajan Chandrasekaran's exit now resolves the
-  🔗 https://www.livemint.com/companies/news/tata-group-faces-120-billion-investment-dilemma-as-n-chandrasekaran-exits-noel-tata-pushes-for-caution-11786602386444.html
+- Infra.Market eyes backdoor market entry via Shalimar Paints share swap deal
+  The proposed deal could give Hella Infra shareholders more than 77% of Shalimar Paints. The deal
+  🔗 https://www.livemint.com/companies/news/inframarket-eyes-backdoor-market-entry-via-shalimar-paints-share-swap-deal-11786614791135.html
 
-- Who is Noel Tata and why is Tata Trusts Chairman’s role in focus after N Chandrasekaran's exit?
-  Noel Tata succeeded his half-brother Ratan Tata as the chairman of the Tata Trusts, which holds a 66% stake in Tata Sons. In the February 2026 board meeting, Noel Tata opposed the move
-  🔗 https://www.livemint.com/companies/people/who-is-noel-tata-and-why-is-tata-trusts-chairman-s-role-in-focus-after-n-chandrasekarans-exit-11786599167826.html
+- N Chandrasekaran to exit Tata Sons after months of deadlock: What went wrong with Noel Tata?
+  N Chandrasekaran will step down as Tata Sons chairman in February 2027. Differences with Tata Trusts chairman Noel Tata reportedly centred on the group's strategy,
+  🔗 https://www.livemint.com/companies/news/n-chandrasekaran-to-exit-tata-sons-after-months-of-deadlock-what-went-wrong-with-noel-tata-11786617789493.html
 
-- Consumer startups make a dash for funding as investor interest grows
-  As, IPO exits
-  🔗 https://www.livemint.com/companies/start-ups/the-souled-store-haus-kinder-nat-habit-fundraising-consumer-startups-11786589183607.html
+- Gaja Capital heads to IPO amid rising investor demand for transparency
+  The alternative asset manager’s stock-market debut comes as
+  🔗 https://www.livemint.com/companies/news/gaja-capital-heads-to-ipo-amid-rising-investor-demand-for-transparency-11786610496305.html
 
-- Bluehill.vc marks final close of maiden deeptech fund at  ₹400 crore; eyes 15-16 bets
-  Chennai-based VC firm exercised its full  ₹50-crore greenshoe option
-  🔗 https://www.livemint.com/companies/news/bluehill-vc-raises-rs-400-crore-deeptech-fund-india-11786592288209.html
+- Convenience gains festive ground as quick commerce set to outpace e-commerce
+  The festival months will also serve as a test for platforms such as Blinkit, Zepto, and Swiggy Instamart
+  🔗 https://www.livemint.com/companies/quick-commerce-festive-sales-india-blinkit-zepto-instamart-11786598682745.html
 
-- Multibagger stock jumps over 8% in bear-hit Indian markets
-  Multibagger stock today opened with an upside gap at  ₹1,567
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-jumps-over-8-in-bear-hit-indian-markets-11786601815669.html
+- Semiconductor and spacetech boom: Is India entering a new deep-tech investment cycle?
+  As India catalyzes a deep-tech investment cycle, sectors like semiconductors and space-tech emerge as vital growth
+  🔗 https://www.livemint.com/market/stock-market-news/semiconductor-and-spacetech-boom-is-india-entering-a-new-deep-tech-investment-cycle-11786619836223.html
 
-- Small-cap stock under  ₹500 jumps 5% despite muted trend on Dalal Street
-  Small-cap stock opened at  ₹449 apiece
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-500-jaro-institute-jumps-5-despite-muted-trend-on-dalal-street-11786600010179.html
+- SpaceX shares gain 35% after lock-up expiry, climb back above IPO price
+  SpaceX shares gained over 30% following the expiration of lock-up restrictions, increasing market value by
+  🔗 https://www.livemint.com/market/spacex-shares-gain-35-after-lock-up-expiry-climb-back-above-ipo-price-11786621043001.html
 
-- Molbio Diagnostics IPO: Focus shifts to allotment date today. Latest GMP, step-by-step guide to check status
-  Molbio Diagnostics IPO allotment will be finalized on 13 August. Investors can check their allotment status via Kfin Technologies. The IPO was oversubscribed
-  🔗 https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-gmp-molbio-diagnostics-ipo-subscription-molbio-diagnostics-ipo-allotment-date-molbio-diagnostics-11786599105765.html
+- After a Q1 high, Hindustan Aeronautics eyes growth wings from Tejas
+  The state-owned aerospace and defence company is pinning its hopes on the delivery of its Tejas MK1A and HT
+  🔗 https://www.livemint.com/market/hindustan-aeronautics-q1-earnings-growth-tejas-aircraft-aviation-defence-fleet-modernization-11786610011198.html
 
-- LEAP India IPO listing on Friday; GMP signals modest listing pop. Details here
-  Shares of LEAP India are set to debut on the Indian bourses on Friday, 14 August. Mainboard IPO concluded with
-  🔗 https://www.livemint.com/market/ipo/leap-india-ipo-listing-on-friday-gmp-signals-modest-listing-pop-details-here-11786598955777.html
+- Tata Motors PV Q1 results: Net profit drops to  ₹775 crore on weak JLR sales; revenue rises 9%
+  Tata Motors Passenger Vehicles reported weak Q1 FY27 results with a net profit of  ₹775 crore. Despite a 9% year-on-
+  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-pv-q1-results-net-profit-drops-to-rs-775-crore-on-weak-jlr-sales-revenue-rises-9-11786617489104.html
 
-- Milky Mist Dairy Food IPO Day 3 LIVE: GMP, subscription status to review. Apply or not?
-   Milky Mist Dairy Food IPO GMP toay: According to market observers, the company shares are available at
-  🔗 https://www.livemint.com/market/ipo/milky-mist-dairy-food-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786595602005.html
+- Sensex climbs 100 points, Nifty 50 ends below 24,400; US-Iran uncertainty keep investors cautious
+  The Sensex ended 114 points, or 0.15%, higher at 78,079.96. The Nifty ended at 24,395.85, down
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-climbs-100-points-nifty-50-ends-below-24-400-us-iran-uncertainty-keep-investors-cautious-11786615078970.html
+
+- Meta says it removed over 750,000 Instagram and Facebook accounts to comply with Australia's social media ban
+   Meta says it has removed access to over 750,000 Facebook and Instagram accounts in Australia that it
+  🔗 https://www.livemint.com/technology/tech-news/meta-says-it-removed-over-750-000-instagram-and-facebook-accounts-to-comply-with-australias-social-media-ban-11786608901721.html
 
 - Google's new Pixel Watch 5 can detect breathing emergencies and automatically call for help
   Google introduced the Pixel Watch 5 featuring a new Health Guardian tool capable of detecting breathing
@@ -96,129 +100,125 @@
   The National Artificial Intelligence (AI) Skilling Initiative has recorded 60,253 applications and enrolments under Phase I. The government is finalising the details
   🔗 https://www.livemint.com/technology/national-ai-skilling-initiative-records-60-253-enrolments-in-phase-i-phase-ii-details-being-finalised-11786533504093.html
 
-- German advocacy group lodges criminal complaint over Meta AI glasses
-  German advocacy group lodges
-  🔗 https://www.livemint.com/technology/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-11786531278880.html
+- Stock Market Today: Stock Futures Tick Higher - WSJ
+  &nbsp;&
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOTV9jRkx3N1RLdlRPSGtjd0ZTb2lmSjBsVVl3c3dNZHloLUs4OEJSczNTbGJDWHgtNzQzU1o2TlctQS1kWFFRV1h6X2hOMElkWnhVY3BFSU1UeWdwRUF2WEU0R0dMcEhwdV9BbGw2Q2NxVTBJX2FuTVhSdDNjYUpodkVTVVFZZXM?oc=5
 
-- US Stock Futures Climb Before Key Inflation Print: Markets Wrap - Bloomberg
-  US Stock Futures Climb Before Key
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPckZOT2NsYzNTTmVMZ1V0RUNzOVJSWm1CcGFiUXV3NHl5R05GZ3Y5SHJzTDlmU2hFMHV0a0JvcVluelRiejJuMFE4Y1VoY3pMV1pMSEQ1djFKRlpJdS1lLXl6ckVobnRiNzVkT2N4QVBDeEk2MlR5VkdDSFJNdXhJX2U5REN5YXRfUHBSd0JURGU4RjFG?oc=5
-
-- Stock futures are little changed as traders await more inflation data: Live updates - CNBC
-  Stock futures are little changed as traders await more inflation data
+- Stock futures move higher as traders await more inflation data: Live updates - CNBC
+  Stock futures move higher as traders await more inflation data
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB2T1BEeXVKNFJWUVhMSHpRTWdPV3BaaUJfMDZsX2QwMHRoQUZuZlpSY0FTSmhNLWRoemJFeWtmendXVGRMYy1tUmFWVU90YjBOVGpwVEpDRVRncUdZRlZLVUJyX19nblVVYVUwRHRMX3Rlc2ZsNDU40gF8QVVfeXFMTzFHZ1NJdVJ0NzRTTnBBNFJyUDVjSkNXUy1XMDRLWjlSdndzbzlPV0dndHBmSWFDX09RYmhSdU9PWFpMV0tET3BBODk5ZVJKVEJLX1FJRVZGYlFodXMzSDVkc25PbGQ2cEdoV1U5dEZtM1BCc1R0SXFKTUtCeA?oc=5
 
-- Stock Market News, Aug. 12, 2026: Stocks Gain After CPI Meets Forecasts - WSJ
-  Stock Market News, Aug. 12, 2026
-  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTFBGQ1lFY3pOMktobGF3ZngtdGF5YXdmSDJUTWV3cGwxWV93di04VW1VTExMWVhmQkNXWEdPOTh0cnN4ejRqRlA4OFhWSWEwVnc0d0JkRGJxRGlCY2VoVmIzdFBzM0VMaDRqOVhKWW82R3NodC1oY1NLTENR?oc=5
+- Asian Stocks Poised to Gain on Benign US Inflation: Markets Wrap - Bloomberg.com
+  Asian Stocks Poised to Gain on Ben
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTRRN3JpQVd6R3hwNWhGcjNrZHVzbVpjNU1jenpNZXdITUxYdlpsaWdKVVozS1VuLXFFQUhUMFVHb0JhT0J5T2h6eUZHUmxBUGNyLWtYN1ZXSWtDRWZzS2MxSHJMeVVpV1BGM1oxWk0xVFJJQjFQQVdYZ3g0bm1GYnlDUWtEak5JejBzcFpTSVBEUFpX?oc=5
 
-- Stock Market Today Live Updates: BSE Sensex falls 230 points, NSE Nifty50 stays below 24,350 - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiswJBVV95cUxPOWZWaHI4MVh3NHFpS2RmVDNLNUlCbVNIdk52b1BqSWNwLTNyR1A3UjFnY2E1SVVvSEFUUmpmczBDMTZBSVpOMGhjMldYSENXZV9TZW9JdkNzQzFSbEJkaWlIbnZJd0M5Sm
-  🔗 https://news.google.com/rss/articles/CBMiswJBVV95cUxPOWZWaHI4MVh3NHFpS2RmVDNLNUlCbVNIdk52b1BqSWNwLTNyR1A3UjFnY2E1SVVvSEFUUmpmczBDMTZBSVpOMGhjMldYSENXZV9TZW9JdkNzQzFSbEJkaWlIbnZJd0M5Sm1qdzBzWnhXajN6clhlaTR2dXkyN3Mza3lmVjBfbDRnYVZRd0NMYjhCbFdQSTZyNGZkdXBWZVFwVVFnanYtQVNXVkpsZ0xxTzAweWgtXzBjT0QxZmNKcHo1RldSSGQ0X1FhZ0lMTkQ1QTljTXNMNmxkNGhlWDY3UUFMclpqcDFPRl8xOC1BVERTeTVxWVNmR3lJLTlGZVgxN1U3TlJTMXZkblhwUGdYTzJ0QTc2d29hMVJ6ZDQ5UGY5cXBSY05jaFc4SVk3QWhpZWhn0gG4AkFVX3lxTE5KS2JDYzhwVkY5Ym9VQjlLeVBvc19YdE1nQ3N5TmNTUGd0R3FRYTZRajZHQnhzRjZndWN2SEtDa25mN043T0lxNzREdmVMajFsOGV2dmdKWEh3V2pZSEwzTmNDbXJiUlNuSVFZNHpDN2ZpbmhMbUVWZjJ0UTBfYWtiX0VmUklkS1dZNGstSXZEb25oTTN6MHZUMWpwdzgyc3FwZmQ2cVVFNTFpd3NoZ1JyWDN0aW5JOHZrT25CRFFmMVFJV2RuUGFGeXYya2JmWW5yaENlWTNKTWRMdUVHOU9IaEhJUkZ0cG5fNmFhdHNPcHBaYWx6UW84NFVGYV83YmpBVldCUWxvRVhsUm5vNThtUXhiQUxZM0x5NGFBTTlfT3J3b0dxczlMR3VLdWtzakdDbHVTYUhkVA?oc=5
+- Stock markets down in early trade amid geopolitical uncertainty - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFBfamtRcWVUWVk3R213UDU4RUlNUjRwSjFrd2FlRGRhSkwyWUdEdGhiaEhjb0ROZzVsbWxfRkxSYWN4WmVuTTJMUTlxSEZST3BnekpFcUJRX3RHTWZuOVRORzJBRV9yTn
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFBfamtRcWVUWVk3R213UDU4RUlNUjRwSjFrd2FlRGRhSkwyWUdEdGhiaEhjb0ROZzVsbWxfRkxSYWN4WmVuTTJMUTlxSEZST3BnekpFcUJRX3RHTWZuOVRORzJBRV9yTnVMVEZ5VkxsOU04ckQ4UUlkX1p2aTB1aWx6QVlETFZfQ1VFd0NlUFdhcEZxSnR5MGl0cU1ITnkyNlhNVkYxWXVvV0Z4UWpaYlFrZE1ZT0JycjA3eWlNd2JsQUHSAcoBQVVfeXFMTzN3UlQ0RGJLTGo0TmpZeGZVU1VWSFVvd0FONTZIcUY1dWRCUDJTOVp6dE52ejFfT1hrUk83SU4tdDFaSGE2dDk3RGxIcThwUDc0dnVGRDF5ZzdzNW8yVWMzSGNEZlBxS3F6ZnV5NWZIbFNpUHItaG96ZjJiTlZiblRlbnNXR0Y2UUREdllzZVhBWHBUa21tTnk3V3djQ2p4VENsLV9Ob1BtUFlJYVBTMTNrVy1DSE9tWE5MdGctUjZEbzAxMXJyQzA3UQ?oc=5
 
-- FlightAware sues Kalshi over flight-cancellation markets - Reuters
-  FlightAware su
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1hSR282WnlrOEkxc2hWeDJYdkFHWjBIVm9tb0p1bmViU0steWR2ZW9JUnVHRjVZZ3NXb2s0RFZqOVVCRVFERjB5N2RtcmtfbllJQm1MdnVGaThvbjVpaEs4XzVCeFZ4U1BQdS13V21JS0lnNHRvLWxRQ0xQT2NuTXd1VW5pS1EyTF9aM2JIcmZza3EtWVg1Z18tcUpIcDJYbkNISkY4M05aTE1ub0E?oc=5
+- China has wrested control of oil markets from OPEC - The Economist
+  China has wrested control of oil markets
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFTYzhoN0s5cw?oc=5
 
-- Global Market: Singtel Q1 profit beats estimates on strong Optus, regional contributions
-  Singtel reported a better-than-expected Q1 FY27 underlying net profit, driven by Optus, regional associates including Bharti Airtel and A
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-singtel-q1-profit-beats-estimates-on-strong-optus-regional-contributions/articleshow/133201364.cms
+- IndiQube Spaces Q1 loss narrows to Rs 24 cr
+  Realty firm IndiQube Spaces posted a net loss of Rs 23.88 crore for the quarter. Its total income rose to Rs 448.81 crore from Rs 324.12 crore in the prior year. Expenses increased to
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indiqube-spaces-q1-loss-narrows-to-rs-24-cr/articleshow/133212012.cms
 
-- Paytm management gets Sebi show cause notice over timing of 2023 loan disclosure announcement
-  Sebi has received a show-cause notice over the timing and classification of information disclosed in a December 2023 corporate announcement. The company said its key managerial personnel are evaluating the notice and will respond within 14 days.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/paytm-management-gets-sebi-show-cause-notice-over-timing-of-2023-loan-disclosure-announcement/articleshow/133200481.cms
+- Indian bonds mirror gains in Treasuries as oil slips
+  Indian government bonds saw a modest rise on Thursday, reflecting trends in U.S. Treasury yields. Investors seem relieved about the likelihood of less aggressive interest rate increases from the Federal Reserve.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-mirror-gains-in-treasuries-as-oil-slips/articleshow/133211927.cms
 
-- Which Tata stocks look attractive now? Jefferies picks 4 and flags TCS and 2 others
-  Jefferies believes Tata group stocks should remain driven by business fundamentals. The brokerage’s top picks are Tata Consumer Products, Tata Steel, Indian Hotels and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/which-tata-stocks-look-attractive-now-jefferies-picks-4-and-flags-tcs-and-2-others/articleshow/133199628.cms
+- Dow Jones| Nasdaq | US Stock Market Today | Live: US futures tick higher as oil retreats ahead of inflation data
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-hike-alphabet-amazon-apple-cerebras-systems-accelerant-chip-stock-price-news-13th-august-2026/liveblog/133211930.cms
 
-- Will Bharti Airtel’s ARPU increase after scrapping Rs 299, other popular prepaid plans? What JM Financial says
-  Bharti Airtel could see a 2% rise in ARPU after withdrawing four entry-level prepaid plans. Subscribers will now need to opt for the Rs 349 plan, a roughly 16% price hike
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-bharti-airtels-arpu-increase-after-scrapping-rs-299-other-popular-prepaid-plans-what-jm-financial-says/articleshow/133199472.cms
+- Earnings growth to play larger role in determining portfolio returns than valuation re-rating: Nilesh Shah
+  Valuations of Indian equities remain neither cheap nor expensive, says Nilesh Shah. Earnings growth is likely to play a larger role in determining portfolio returns than valuation re-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/earnings-growth-to-play-larger-role-in-determining-portfolio-returns-than-valuation-re-rating-nilesh-shah/articleshow/133211910.cms
 
-- Gaja Alternative Asset Management IPO sets price band for Rs 550 crore issue, opens August 19
-  Gaja Alternative Asset Management is set to launch its Rs 550 crore IPO on August 19. The issue comprises a fresh issue and OFS, with proceeds aimed at funding sponsor commitments.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-ipo-sets-price-band-for-rs-550-crore-issue-opens-august-19/articleshow/133199328.cms
+- Honasa Consumer Q1 Results: Mamaearth parent posts record profit of Rs 90 crore; revenue up 27% YoY
+  Honasa Consumer reported a record Rs 90 crore consolidated PAT in Q1FY27, up 116.5% YoY. Revenue rose 27% to Rs 756 crore, while EBITDA surged 141%
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/honasa-consumer-q1-results-mamaearth-parent-posts-record-profit-of-rs-90-crore-revenue-up-27-yoy/articleshow/133210743.cms
 
-- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
-  Maharashtra's Ladki Bahin: Why India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
-
-- Vikram's viral video with lar gibbon sparks India wildlife investigation - BBC
-  Vikram's viral video with lar
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcjZHWnZTTEEtMWItVlJEUnZQOUN2cU1WX3FDbUJDa2ZBUjFoWWd1S0Npa3dpb2lZTjNpclBILXBMbDRzV2stazlPdjJINGNjTWRHTFI4V09Gdw?oc=5
-
-- Al-Qaeda Offshoot Behind Delhi's Red Fort Blast That Killed 15: UN Report - NDTV
-  Al-Qaeda Offshoot Behind Delhi's Red Fort
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNRndJZG9FdGpjWmZrcC13ZlU5RkdQbUxPYWJnY2RsdUtyVG10a2dYMTVfdVM4Qk1NMV9QRXczOTlrc1hJQ0pCZjBVNF8wUFFXZkZBMUFWZjNwdkFxZzBGeU1XUUhOQmFLOW8zcnRDbmRFNmFSTkFWSmF1N1BuelVsLWxna0VEZVFHbmFWOHBGMm1fQXBHQXVpZUF6ZlJIRldIc0lIU1BqRzZYazhjWU1FU3h30gG6AUFVX3lxTE0wX0l5ZWVjZzV1VVhaaU5QaWxSMjRfSWRMZVdJWGFlNDMtbndjV0NQclNHVnUzc1NaSDRlaW94NmJsUUZ1N1p6Q1k4OHJiT3c2eENKSk1CQnJYY1FNVmJydTc4dFFzMTdud2FzZnl1WFRfellHZ2NSek8xOTNNWkFLRWUyeWpUaUlXT1dzZUtUdC0yMEVGTHdocVV0U1ZnVW9yYjJSV3dpNzNCNUhIQV9tTWZfS2Fua1pHUQ?oc=5
-
-- Parliament Session Live Updates: Monsoon Session concludes as Lok Sabha, Rajya Sabha adjourned sine die - The Times of India
-  Parliament Session Live Updates: Monsoon Session concludes as Lok Sabha, Rajya
-  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQODZTVG4wOHRvYlVGcEFyR0wzT0dETlpPQklnbmpWcDQ4dEhlbDFoYXdUUnU3RVFFdmM1c2xkWW5TQmtIMGlkRUVCSWNuVzN2djRqN0Fqcnh2QkxuTkY5MXRzZnh4TFFNTFllSXBWOXRVeXdUejhxanpveXFtTVpOQWhoYVBhT19LN0ZPM0FnQzM2ZE9fM3NqYVRocDFIRTZ5RTJ2Ny1rSU9SZ2VZV2w2cGw0VUFCWXJyUVotNXY5VzAwTTNmRVVyV01aZmU0RWlLdUVfX01lQUx2Y3F6aWF4WjUzMzVvUF9fbk5oYjNXNDU4TExlTmZzdnpOZDBDaFVZT0Njcnc4V2NOclJmTHlueDJLVkR4UTd2THpEV0U5RTBkNm1veHA4MTYtbkdjcUc10gG2AkFVX3lxTE9JSUVCNGhodVVuSzdDbFdKWk85TzlhUDlOY3g2ZS1yakx2Zl94NXVDMklYbVRkWFlQX1pENzNmcURsMklNb1hWMW5MS185ZFljWmdBNnBKVDJ4b1lOaXJ1WFBjVldEYTA4Q25vVllzbFhLQXplS1RIdmxKRXpVbTU5RHZfUThiTE9ONjBPNWVuMC01bERHWFh0WEdkLVlhSU9CTXlsQlVNbmtlVU1jN3FfbVRXSEM3SDlLei12V01xY2NZNHRybHdFR19QWVVURUxtMC1jaXUyMDFvX0c2VlpEOWJwemdPYWJjWEVScVRMWUdTSzNDVGJ1QnFaXzlESnlncW5UZEx3Mld4d182VVJVS1ZiOGtkVmJrNWdxTk5wREdaNzFoNWhjZ0c0N1M3QldCOUNKcWc?oc=5
-
-- BCCI confirms India vs Afghanistan T20 International series in September - News On AIR
-  BCCI confirms India vs Afghanistan T20 International series
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWg4MnA4S05qRlY5QWdXXy1ZcVpuM1B3NFNpRzRiNWQ0Rnl6M2IzbTlXVzZGbWRReEU0dEdnZ0w4SVlmVFB4cUFoZlhhaHRKMWhHNlVMaU5SeFVORGhoUjNmbDRnOVR5dTZFcWtUSm1kTE5IWnpJQjJyT1RIYXVRd01UYjZ1NDdEUTdxTzZMMFU0ZnpaX0VPN3ctckhiS1E?oc=5
-
-- Lenskart Shares Jump 7% To Record High As Brokerages Raise Targets
-  Shares of omnichannel eyewear major Lenskart jumped nearly 7% to an all-time high of ₹627.35 on the BSE today.
-  🔗 https://inc42.com/buzz/lenskart-shares-jump-7-to-record-high-as-brokerages-raise-targets/
-
-- IPO-Bound Infra.Market Eyes Reverse Listing Via Shalimar Paints In ₹10,440 Cr Share Swap
-  Building materials unicorn Infra.Market is exploring a reverse-listing route through Shalimar Paints. The listed paints company considering acquiring equity.
-  🔗 https://inc42.com/buzz/ipo-bound-infra-market-eyes-reverse-listing-via-shalimar-paints-in-%e2%82%b910440-cr-share-swap/
-
-- Astrotalk’s Unicorn Leap, Shiprocket IPO Day 1 & More
-  Astrotalk has become India’s 133rd unicorn. The startup entered the coveted club after an ESOP.
-  🔗 https://inc42.com/buzz/astrotalks-unicorn-leap-shiprocket-ipo-day-1-more/
-
-- Table Space Goes For IPO, But Its Growth Story Has A Catch
-  Table Space has become the latest company to file its draft red herring prospectus (DRHP), bringing the managed workspace operator&#8230; to the market.
-  🔗 https://inc42.com/features/table-space-goes-for-ipo-but-its-growth-story-has-a-catch/
-
-- SEBI Issues Show Cause Notice To Paytm Over 2023 Disclosure
-  The Securities and Exchange Board of India (SEBI) has issued a show cause notice (SCN) to the key managerial personnel.
-  🔗 https://inc42.com/buzz/sebi-issues-show-cause-notice-to-paytm-over-2023-disclosure/
-
-- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
-  Maharashtra's Ladki Bahin: Why India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
+- Evening news wrap: Sukhbir Badal attacked in Nanded; Air India begins pilot drug testing, & more - timesofindia.indiatimes.com
+  Evening news wrap: Sukhbir Badal attacked in N
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZExXdzRSUlFjWlRGdVhwZ2ZhLWhaNEJZQnljOVM3ZWsxN1BFR092N09NamhLT2hGZG42a0dDOXJiZFVqbHdJdnBnM3BtR0puQ1l3SGFfejZuSnZoV3lJYjV5QndHT29HU3BYN3Q0UDJwSVpQd1FjVEV2c1N3OXZRd0g3NVVPR3JSWTAzNmJXMDVNTEdZanVyWFVHazFEMHo5YW9KeFdhV1h0WUM1aG9DYkJ0Q1ExMVJKWnotbjF1TU8wZXdDaE84UnlZYTlObnFiNkhTV2thakpycWNJQ3FrdGU3UkFyX3V1UFR2YWZiLWPSAfYBQVVfeXFMTmlwVFVFUFZrWEMzOVUtdUR3S2I2SV9pNGs5dXFwd00ydFhDNXpBNDB0a3BtdmRld2VVNVpNQzNuMW0tNVVpVi01cERaWlNnbFN1aFR4OHJ4c05ST29HMHNkTmNLRldhRElVNzJlXzBBUElzMGtQZTF3bTR6TFFtRlA5R0R2VE5zbGxsYWJuRmJlUEZRV1dnakFMZmZveXVtY3U5aTRUMGhITFB5SEs2YTZBNUNIV1JoSTdfaW9QTnUyTkpBV0I3eG05aUVWZm9NenVJM3pRWC1WNFFvc0FSNTc1eVFfNVltaUotZFVuYkxZb3BGRFN3?oc=5
 
 - Vikram's viral video with lar gibbon sparks India wildlife investigation - BBC
   Vikram's viral video with lar
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcjZHWnZTTEEtMWItVlJEUnZQOUN2cU1WX3FDbUJDa2ZBUjFoWWd1S0Npa3dpb2lZTjNpclBILXBMbDRzV2stazlPdjJINGNjTWRHTFI4V09Gdw?oc=5
 
-- Al-Qaeda Offshoot Behind Delhi's Red Fort Blast That Killed 15: UN Report - NDTV
-  Al-Qaeda Offshoot Behind Delhi's Red Fort
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNRndJZG9FdGpjWmZrcC13ZlU5RkdQbUxPYWJnY2RsdUtyVG10a2dYMTVfdVM4Qk1NMV9QRXczOTlrc1hJQ0pCZjBVNF8wUFFXZkZBMUFWZjNwdkFxZzBGeU1XUUhOQmFLOW8zcnRDbmRFNmFSTkFWSmF1N1BuelVsLWxna0VEZVFHbmFWOHBGMm1fQXBHQXVpZUF6ZlJIRldIc0lIU1BqRzZYazhjWU1FU3h30gG6AUFVX3lxTE0wX0l5ZWVjZzV1VVhaaU5QaWxSMjRfSWRMZVdJWGFlNDMtbndjV0NQclNHVnUzc1NaSDRlaW94NmJsUUZ1N1p6Q1k4OHJiT3c2eENKSk1CQnJYY1FNVmJydTc4dFFzMTdud2FzZnl1WFRfellHZ2NSek8xOTNNWkFLRWUyeWpUaUlXT1dzZUtUdC0yMEVGTHdocVV0U1ZnVW9yYjJSV3dpNzNCNUhIQV9tTWZfS2Fua1pHUQ?oc=5
-
-- Parliament Session Live Updates: Monsoon Session concludes as Lok Sabha, Rajya Sabha adjourned sine die - The Times of India
-  Parliament Session Live Updates: Monsoon Session concludes as Lok Sabha, Rajya
-  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQODZTVG4wOHRvYlVGcEFyR0wzT0dETlpPQklnbmpWcDQ4dEhlbDFoYXdUUnU3RVFFdmM1c2xkWW5TQmtIMGlkRUVCSWNuVzN2djRqN0Fqcnh2QkxuTkY5MXRzZnh4TFFNTFllSXBWOXRVeXdUejhxanpveXFtTVpOQWhoYVBhT19LN0ZPM0FnQzM2ZE9fM3NqYVRocDFIRTZ5RTJ2Ny1rSU9SZ2VZV2w2cGw0VUFCWXJyUVotNXY5VzAwTTNmRVVyV01aZmU0RWlLdUVfX01lQUx2Y3F6aWF4WjUzMzVvUF9fbk5oYjNXNDU4TExlTmZzdnpOZDBDaFVZT0Njcnc4V2NOclJmTHlueDJLVkR4UTd2THpEV0U5RTBkNm1veHA4MTYtbkdjcUc10gG2AkFVX3lxTE9JSUVCNGhodVVuSzdDbFdKWk85TzlhUDlOY3g2ZS1yakx2Zl94NXVDMklYbVRkWFlQX1pENzNmcURsMklNb1hWMW5MS185ZFljWmdBNnBKVDJ4b1lOaXJ1WFBjVldEYTA4Q25vVllzbFhLQXplS1RIdmxKRXpVbTU5RHZfUThiTE9ONjBPNWVuMC01bERHWFh0WEdkLVlhSU9CTXlsQlVNbmtlVU1jN3FfbVRXSEM3SDlLei12V01xY2NZNHRybHdFR19QWVVURUxtMC1jaXUyMDFvX0c2VlpEOWJwemdPYWJjWEVScVRMWUdTSzNDVGJ1QnFaXzlESnlncW5UZEx3Mld4d182VVJVS1ZiOGtkVmJrNWdxTk5wREdaNzFoNWhjZ0c0N1M3QldCOUNKcWc?oc=5
+- India To Buy 60 Transport Aircraft, 150 Trainers In Push For Self-Reliance - NDTV
+  India To Buy 60 Transport Aircraft, 150 Trainers
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTY0SDJ0MXEtRVdkbnppdl9HQ0pOTXJyamgzWTZsa3BEU3FsRnhvZHRyRFZTNVFCcmFJMjRvcEYxa0JnMDZWSUNtbmpzdldKb0RfQWhwdDBnTHE2UV8tTzFGME52T3hDdkxwN0NHSEh6RFZOM3hQanZQSkR3dXBDTThHUUN1bENrT0EwbXpXOWxEcWx4RkZCdlFLcjRjRjNQNF8yTVlGOU5YRjlfbFhMSW1DYjLSAbwBQVVfeXFMT2lFTGhYVHplQ1VKZm5PcXlnNW5CdjUtcUc5Nng3bHVIb3FFa2NLY3J6Q29NX1RxdjdUMkM5YlVmcnM2cktiN1BPVnc3YkxLY242cVNFczB1MEFoSnFpdVQyRWUxMlZWWlZHb2ZVdU1rZUNHVHZUaWEtRy1vbVhvdDBVVGsycW8yV3loSGhEYVhvSUw4NnEtenpoQkxhZlhNX2xfak9aV20xX0dRYzUzUmhveVduQXZwNDBrdks?oc=5
 
 - BCCI confirms India vs Afghanistan T20 International series in September - News On AIR
   BCCI confirms India vs Afghanistan T20 International series
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWg4MnA4S05qRlY5QWdXXy1ZcVpuM1B3NFNpRzRiNWQ0Rnl6M2IzbTlXVzZGbWRReEU0dEdnZ0w4SVlmVFB4cUFoZlhhaHRKMWhHNlVMaU5SeFVORGhoUjNmbDRnOVR5dTZFcWtUSm1kTE5IWnpJQjJyT1RIYXVRd01UYjZ1NDdEUTdxTzZMMFU0ZnpaX0VPN3ctckhiS1E?oc=5
 
-- Maharashtra's Ladki Bahin: Why India's largest cash-transfer scheme for women is under scrutiny - BBC
-  Maharashtra's Ladki Bahin: Why India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSUVhX1dfX2xzQW9LcDV5eGZkbGM3djd5MmYzNzBxQzhJNzBlbDY5dzIxYmFjcnZONjZFaF9Kb2p5QjJrS2dENWY2V0F3SGR2UEl1NEdIZGQ0UQ?oc=5
+- India news: IndiGo engine failure triggers airport emergency - dw.com
+  India news: IndiGo
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDFMWmIxTEl0NTJmdG1RMDFfWmVwVU9MSDZzTzg1RnJjbVQ5dVVFYk0xY3VhNnU4TzhKcmowRjV5VHZULXU1MWJmcHpQbzcyVlB5QTNDNzQ0RGJrVWFMNS02YlJjenZqUE9aRjBZX2NQNTU5UjVJZmJ1eVRLWGxTZGN2ZURwRnFBbGFOSkdwTllJSG9XeVlfWXcyQQ?oc=5
+
+- Awfis Q1 Profit More Than Doubles To ₹24 Cr, Revenue Up 27% YoY
+  Coworking space provider Awfis’ net profit jumped 140% to ₹24 Cr in the June quarter (Q1 FY27
+  🔗 https://inc42.com/buzz/awfis-q1-profit-more-than-doubles-to-%e2%82%b924-cr-revenue-up-27-yoy/
+
+- Navi To File For ₹3,000 Cr IPO By December: Report
+  Fintech unicorn Navi is reportedly planning to file its draft red herring prospectus for an initial public offering (IPO)
+  🔗 https://inc42.com/buzz/navi-to-file-for-%e2%82%b93000-cr-ipo-by-december-report/
+
+- Inside L&T Vyoma’s Plan To Build India’s AI Infrastructure Giant
+  Larsen &#38; Toubro is consolidating its data centre, cloud and AI infrastructure businesses under newly incorporated subsidiary Vyoma.
+  🔗 https://inc42.com/features/inside-lt-vyomas-plan-to-build-indias-ai-infrastructure-giant/
+
+- How $303 Mn Bluetile Acquisition Complicates Nazara’s Growth Story
+  At a time when founder Nitish Mittersain is set to step down as the CEO on September 1, 2026, Nazara is
+  🔗 https://inc42.com/features/how-303-mn-bluetile-acquisition-complicates-nazaras-growth-story/
+
+- Honasa Q1 Profit More Than Doubles To ₹90 Cr, Revenue Up 27% YoY
+  Mamaearth parent Honasa Consumer’s consolidated net profit more than doubled to ₹90.5 Cr in the quarter ended June 2026.
+  🔗 https://inc42.com/buzz/honasa-q1-profit-more-than-doubles-to-%e2%82%b990-cr-revenue-up-27-yoy/
+
+- Evening news wrap: Sukhbir Badal attacked in Nanded; Air India begins pilot drug testing, & more - timesofindia.indiatimes.com
+  Evening news wrap: Sukhbir Badal attacked in N
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZExXdzRSUlFjWlRGdVhwZ2ZhLWhaNEJZQnljOVM3ZWsxN1BFR092N09NamhLT2hGZG42a0dDOXJiZFVqbHdJdnBnM3BtR0puQ1l3SGFfejZuSnZoV3lJYjV5QndHT29HU3BYN3Q0UDJwSVpQd1FjVEV2c1N3OXZRd0g3NVVPR3JSWTAzNmJXMDVNTEdZanVyWFVHazFEMHo5YW9KeFdhV1h0WUM1aG9DYkJ0Q1ExMVJKWnotbjF1TU8wZXdDaE84UnlZYTlObnFiNkhTV2thakpycWNJQ3FrdGU3UkFyX3V1UFR2YWZiLWPSAfYBQVVfeXFMTmlwVFVFUFZrWEMzOVUtdUR3S2I2SV9pNGs5dXFwd00ydFhDNXpBNDB0a3BtdmRld2VVNVpNQzNuMW0tNVVpVi01cERaWlNnbFN1aFR4OHJ4c05ST29HMHNkTmNLRldhRElVNzJlXzBBUElzMGtQZTF3bTR6TFFtRlA5R0R2VE5zbGxsYWJuRmJlUEZRV1dnakFMZmZveXVtY3U5aTRUMGhITFB5SEs2YTZBNUNIV1JoSTdfaW9QTnUyTkpBV0I3eG05aUVWZm9NenVJM3pRWC1WNFFvc0FSNTc1eVFfNVltaUotZFVuYkxZb3BGRFN3?oc=5
 
 - Vikram's viral video with lar gibbon sparks India wildlife investigation - BBC
   Vikram's viral video with lar
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcjZHWnZTTEEtMWItVlJEUnZQOUN2cU1WX3FDbUJDa2ZBUjFoWWd1S0Npa3dpb2lZTjNpclBILXBMbDRzV2stazlPdjJINGNjTWRHTFI4V09Gdw?oc=5
 
-- Al-Qaeda Offshoot Behind Delhi's Red Fort Blast That Killed 15: UN Report - NDTV
-  Al-Qaeda Offshoot Behind Delhi's Red Fort
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNRndJZG9FdGpjWmZrcC13ZlU5RkdQbUxPYWJnY2RsdUtyVG10a2dYMTVfdVM4Qk1NMV9QRXczOTlrc1hJQ0pCZjBVNF8wUFFXZkZBMUFWZjNwdkFxZzBGeU1XUUhOQmFLOW8zcnRDbmRFNmFSTkFWSmF1N1BuelVsLWxna0VEZVFHbmFWOHBGMm1fQXBHQXVpZUF6ZlJIRldIc0lIU1BqRzZYazhjWU1FU3h30gG6AUFVX3lxTE0wX0l5ZWVjZzV1VVhaaU5QaWxSMjRfSWRMZVdJWGFlNDMtbndjV0NQclNHVnUzc1NaSDRlaW94NmJsUUZ1N1p6Q1k4OHJiT3c2eENKSk1CQnJYY1FNVmJydTc4dFFzMTdud2FzZnl1WFRfellHZ2NSek8xOTNNWkFLRWUyeWpUaUlXT1dzZUtUdC0yMEVGTHdocVV0U1ZnVW9yYjJSV3dpNzNCNUhIQV9tTWZfS2Fua1pHUQ?oc=5
-
-- Parliament Session Live Updates: Monsoon Session concludes as Lok Sabha, Rajya Sabha adjourned sine die - The Times of India
-  Parliament Session Live Updates: Monsoon Session concludes as Lok Sabha, Rajya
-  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxQODZTVG4wOHRvYlVGcEFyR0wzT0dETlpPQklnbmpWcDQ4dEhlbDFoYXdUUnU3RVFFdmM1c2xkWW5TQmtIMGlkRUVCSWNuVzN2djRqN0Fqcnh2QkxuTkY5MXRzZnh4TFFNTFllSXBWOXRVeXdUejhxanpveXFtTVpOQWhoYVBhT19LN0ZPM0FnQzM2ZE9fM3NqYVRocDFIRTZ5RTJ2Ny1rSU9SZ2VZV2w2cGw0VUFCWXJyUVotNXY5VzAwTTNmRVVyV01aZmU0RWlLdUVfX01lQUx2Y3F6aWF4WjUzMzVvUF9fbk5oYjNXNDU4TExlTmZzdnpOZDBDaFVZT0Njcnc4V2NOclJmTHlueDJLVkR4UTd2THpEV0U5RTBkNm1veHA4MTYtbkdjcUc10gG2AkFVX3lxTE9JSUVCNGhodVVuSzdDbFdKWk85TzlhUDlOY3g2ZS1yakx2Zl94NXVDMklYbVRkWFlQX1pENzNmcURsMklNb1hWMW5MS185ZFljWmdBNnBKVDJ4b1lOaXJ1WFBjVldEYTA4Q25vVllzbFhLQXplS1RIdmxKRXpVbTU5RHZfUThiTE9ONjBPNWVuMC01bERHWFh0WEdkLVlhSU9CTXlsQlVNbmtlVU1jN3FfbVRXSEM3SDlLei12V01xY2NZNHRybHdFR19QWVVURUxtMC1jaXUyMDFvX0c2VlpEOWJwemdPYWJjWEVScVRMWUdTSzNDVGJ1QnFaXzlESnlncW5UZEx3Mld4d182VVJVS1ZiOGtkVmJrNWdxTk5wREdaNzFoNWhjZ0c0N1M3QldCOUNKcWc?oc=5
+- India To Buy 60 Transport Aircraft, 150 Trainers In Push For Self-Reliance - NDTV
+  India To Buy 60 Transport Aircraft, 150 Trainers
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTY0SDJ0MXEtRVdkbnppdl9HQ0pOTXJyamgzWTZsa3BEU3FsRnhvZHRyRFZTNVFCcmFJMjRvcEYxa0JnMDZWSUNtbmpzdldKb0RfQWhwdDBnTHE2UV8tTzFGME52T3hDdkxwN0NHSEh6RFZOM3hQanZQSkR3dXBDTThHUUN1bENrT0EwbXpXOWxEcWx4RkZCdlFLcjRjRjNQNF8yTVlGOU5YRjlfbFhMSW1DYjLSAbwBQVVfeXFMT2lFTGhYVHplQ1VKZm5PcXlnNW5CdjUtcUc5Nng3bHVIb3FFa2NLY3J6Q29NX1RxdjdUMkM5YlVmcnM2cktiN1BPVnc3YkxLY242cVNFczB1MEFoSnFpdVQyRWUxMlZWWlZHb2ZVdU1rZUNHVHZUaWEtRy1vbVhvdDBVVGsycW8yV3loSGhEYVhvSUw4NnEtenpoQkxhZlhNX2xfak9aV20xX0dRYzUzUmhveVduQXZwNDBrdks?oc=5
 
 - BCCI confirms India vs Afghanistan T20 International series in September - News On AIR
   BCCI confirms India vs Afghanistan T20 International series
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWg4MnA4S05qRlY5QWdXXy1ZcVpuM1B3NFNpRzRiNWQ0Rnl6M2IzbTlXVzZGbWRReEU0dEdnZ0w4SVlmVFB4cUFoZlhhaHRKMWhHNlVMaU5SeFVORGhoUjNmbDRnOVR5dTZFcWtUSm1kTE5IWnpJQjJyT1RIYXVRd01UYjZ1NDdEUTdxTzZMMFU0ZnpaX0VPN3ctckhiS1E?oc=5
+
+- India news: IndiGo engine failure triggers airport emergency - dw.com
+  India news: IndiGo
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDFMWmIxTEl0NTJmdG1RMDFfWmVwVU9MSDZzTzg1RnJjbVQ5dVVFYk0xY3VhNnU4TzhKcmowRjV5VHZULXU1MWJmcHpQbzcyVlB5QTNDNzQ0RGJrVWFMNS02YlJjenZqUE9aRjBZX2NQNTU5UjVJZmJ1eVRLWGxTZGN2ZURwRnFBbGFOSkdwTllJSG9XeVlfWXcyQQ?oc=5
+
+- Evening news wrap: Sukhbir Badal attacked in Nanded; Air India begins pilot drug testing, & more - timesofindia.indiatimes.com
+  Evening news wrap: Sukhbir Badal attacked in N
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZExXdzRSUlFjWlRGdVhwZ2ZhLWhaNEJZQnljOVM3ZWsxN1BFR092N09NamhLT2hGZG42a0dDOXJiZFVqbHdJdnBnM3BtR0puQ1l3SGFfejZuSnZoV3lJYjV5QndHT29HU3BYN3Q0UDJwSVpQd1FjVEV2c1N3OXZRd0g3NVVPR3JSWTAzNmJXMDVNTEdZanVyWFVHazFEMHo5YW9KeFdhV1h0WUM1aG9DYkJ0Q1ExMVJKWnotbjF1TU8wZXdDaE84UnlZYTlObnFiNkhTV2thakpycWNJQ3FrdGU3UkFyX3V1UFR2YWZiLWPSAfYBQVVfeXFMTmlwVFVFUFZrWEMzOVUtdUR3S2I2SV9pNGs5dXFwd00ydFhDNXpBNDB0a3BtdmRld2VVNVpNQzNuMW0tNVVpVi01cERaWlNnbFN1aFR4OHJ4c05ST29HMHNkTmNLRldhRElVNzJlXzBBUElzMGtQZTF3bTR6TFFtRlA5R0R2VE5zbGxsYWJuRmJlUEZRV1dnakFMZmZveXVtY3U5aTRUMGhITFB5SEs2YTZBNUNIV1JoSTdfaW9QTnUyTkpBV0I3eG05aUVWZm9NenVJM3pRWC1WNFFvc0FSNTc1eVFfNVltaUotZFVuYkxZb3BGRFN3?oc=5
+
+- Vikram's viral video with lar gibbon sparks India wildlife investigation - BBC
+  Vikram's viral video with lar
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcjZHWnZTTEEtMWItVlJEUnZQOUN2cU1WX3FDbUJDa2ZBUjFoWWd1S0Npa3dpb2lZTjNpclBILXBMbDRzV2stazlPdjJINGNjTWRHTFI4V09Gdw?oc=5
+
+- India To Buy 60 Transport Aircraft, 150 Trainers In Push For Self-Reliance - NDTV
+  India To Buy 60 Transport Aircraft, 150 Trainers
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTY0SDJ0MXEtRVdkbnppdl9HQ0pOTXJyamgzWTZsa3BEU3FsRnhvZHRyRFZTNVFCcmFJMjRvcEYxa0JnMDZWSUNtbmpzdldKb0RfQWhwdDBnTHE2UV8tTzFGME52T3hDdkxwN0NHSEh6RFZOM3hQanZQSkR3dXBDTThHUUN1bENrT0EwbXpXOWxEcWx4RkZCdlFLcjRjRjNQNF8yTVlGOU5YRjlfbFhMSW1DYjLSAbwBQVVfeXFMT2lFTGhYVHplQ1VKZm5PcXlnNW5CdjUtcUc5Nng3bHVIb3FFa2NLY3J6Q29NX1RxdjdUMkM5YlVmcnM2cktiN1BPVnc3YkxLY242cVNFczB1MEFoSnFpdVQyRWUxMlZWWlZHb2ZVdU1rZUNHVHZUaWEtRy1vbVhvdDBVVGsycW8yV3loSGhEYVhvSUw4NnEtenpoQkxhZlhNX2xfak9aV20xX0dRYzUzUmhveVduQXZwNDBrdks?oc=5
+
+- BCCI confirms India vs Afghanistan T20 International series in September - News On AIR
+  BCCI confirms India vs Afghanistan T20 International series
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWg4MnA4S05qRlY5QWdXXy1ZcVpuM1B3NFNpRzRiNWQ0Rnl6M2IzbTlXVzZGbWRReEU0dEdnZ0w4SVlmVFB4cUFoZlhhaHRKMWhHNlVMaU5SeFVORGhoUjNmbDRnOVR5dTZFcWtUSm1kTE5IWnpJQjJyT1RIYXVRd01UYjZ1NDdEUTdxTzZMMFU0ZnpaX0VPN3ctckhiS1E?oc=5
+
+- India news: IndiGo engine failure triggers airport emergency - dw.com
+  India news: IndiGo
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDFMWmIxTEl0NTJmdG1RMDFfWmVwVU9MSDZzTzg1RnJjbVQ5dVVFYk0xY3VhNnU4TzhKcmowRjV5VHZULXU1MWJmcHpQbzcyVlB5QTNDNzQ0RGJrVWFMNS02YlJjenZqUE9aRjBZX2NQNTU5UjVJZmJ1eVRLWGxTZGN2ZURwRnFBbGFOSkdwTllJSG9XeVlfWXcyQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-13 07:22:56 UTC_
+_Last updated: 2026-08-13 13:00:40 UTC_
