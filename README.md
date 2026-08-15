@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- India news highlights, 14 August 2026: Reliance, Rolls-Royce to supply engines for India’s 5th-gen fighters - The Indian Express
-  Reliance, Rolls-Royce to supply engines for India’s
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamRYMThjLVFjMG0zY2tfcnF5UmxoVzA1a3Q0aGMweWNGdjhHM0QzRzRSbGlFSmFJSGVSeV9KNTdZcjBZSTJEUEdiVG1RWk5XMmY0bVdSalN6NzBocS1aeVUxN1dmU2ZMMElOcDZnc0pPUU1CLXl6VEtscDF6a2cybF9xRFVOZmpZX2NDaFA4MkZSeFVwdnpJTm9iZE90WUtLck5mejV5ZHV3YTJud21OcWFrQWJYRFcxQ2YzNmtuUTVydmhxLVBLUTdfbkg2QzJkaFhDcDdwYzhjU2R4TzNpNXRYOXJYbURXbFhkclBjYmpLTTZQVXfSAfwBQVVfeXFMT1QyVFRWWVJKZHAzYnpXU1JIY2RGUDVXZy0tQW51a0NrQktQX3NMZTl4dVd5b0F2b3FieTlVaC1qVmMteWdfWEZ1aWI1dXVsbkFacXpRbmk4WWd6dVdyQ21UY0lCWWRpeVZNMTF5bHd1VTN3SzJsakVOc1pBZFZkb0dBWk5kaHhWTjVhcTRPSkM0LUpEbzBiZ3NpdnBqOEthMTF6YVZGcUtZV2pXc1JWU2lrZDNDN1dMeExadVRpSE1ycHVMaUhCbVdlSGl5ZGR4VnlJSzg2d2NvMXltV25QQnUyUWVVNVZlTlNTdEtLUHQ5RTd3bHpPeldSTVla?oc=5
-
-- Reliance, Rolls-Royce partner to develop engine for India's fifth-gen fighter jet - The Times of India
-  Reliance, Rolls-Royce partner to develop engine for
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0hDRnhUV2RWQ1FXNFY3T3hWR1cyM2cyZWJLMk5lZXJqZ0NlR0J6Vk5ZUEZMZWx1MzJjSzZpdGEzSXhtTWFRNGV2eGZWNHNwQjlFcGZ1dzhxc0JyTTNZVWM0c0hlRFprWTdhNHcwNVlCUW4yak9GeFItMkVGa08tS0RUZDU2RlNuUUQ1eVZubzc0cGNwUmJoMUJtRzRVYVFRc2VtaHJnc1NuMVhoNFdzWnBMSnBXZldNaFdzMklaYkh6dDhwdmtLbFNIWFFzT01PSEdNektwbUVJN1VMejZiRHZmZllVYXl6bnfSAe8BQVVfeXFMT0pqQmkycG1BM09XcmpUWU5pcVN0Ti05dmpDeXVRdW5aSEJLR0RuTFlZU09FeVNRaDBnYUF3ZXVVejJVTzVvSGk2eWlYTDBRblRZN3p0dnROMDRITTlzOE9BQ1JaazlOeGlhZ3JwLWpyR1hoaUYtVlZ6QlVDcGxnNlpIeFNjSnlUUTRMbzdoN1RXdUZGZDdMTW5xRF91WFp0YzhSNWZLWVJjNy1uUUR6VGoyWjR5ZHhmcVNwMlZiaXc5RFZoVWl0WDh6MDYwXzk4MmcweHlaVU84UGk0WnhPTy1BUmN5bHRfcjZWb0E0RE0?oc=5
-
-- Reliance Industries, Rolls-Royce partner to make engine for India’s AMCA programme | India News - Hindustan Times
-  Reliance Industries, Rolls-Royce partner to make engine for
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWE9EVFJBeXJXNWR4X0NGT2N3U0htdlpreHdIYWI3R3I3SFYzMml2Wi1fZlRNRlExUWJnSkF0T28xdmhQRVh2bzRSTVJnTDVzd1FDcVB3clhNUDF6N3NEWGVuS0RnRVU3b1BXa1owWEJCZDNZWGxocEFZTzFKZnVnZ0QwbEpnSk12ZFA1anUtMm44blVhTmI2WTYyOEtkTWlLLUV0RFdmX0c4S0ZZdzFyWmpiazdKMDJiRFJOb3drbGEtYjBGWFlISzhibFdLXzlUME5iZ19GanRYamlC0gHiAUFVX3lxTE0zN0FKTmQzcE53V3BhZXAyQWxIX2R1M2RMUzY4RDFiRHlHVXduakowZ1pHcGRWZEh6cUVBelJUbjB6QmVfLUpxLXY1bURrQnRNRmluck5jeGVtMFgwVjVXWHpseTlaeUVHWXJiMGhMWTRXWDBEX3FPV3BGMGh4SlRsOUdLQURGbGR4WHdYWW8tTmw3MlgzWU52MmNRcU8wd2FFNlBjMGJOZXVvMFZTanZaSllkR09pUzRWT0lCcHRwSzAxRU1WR1dVd2NqYUdmd2dzZUxvZ2l0ZTBuZHU2S05jRXc?oc=5
-
 - Bangladesh PM Likely To Visit India Next Week, 1st Trip Since Assuming Power - NDTV
   Bangladesh PM Likely To Visit India Next Week,
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTM1M0I1WDI0UnNkM1NWZHFMRHJLdF8taDNTZWxxcnM3QVAtbzF2RnIzY3Jpa2FYYUl2dk4tX0tITTFUQVJ1V2JNRUJPTXg3cjM0S25yekpCWThKdlZWcHVnR2hDYmFvWEJGM3ZhQkU1SEpQVXR5OEJXZEY4OVR6bmY1dTk4SWx6eThGTDBLaVM5NENyU1hIV19kU3paTjNobGZLZUMwZlRGSnM3dHgwU0hleWZ1Y09lZUNBMXlMTlZ4bHNYWWZNZ1hPQdIB0wFBVV95cUxQdUJmUmRtanFjYXpjNFg0SkEza0xzN0preDUtRDRDRGNneXFqdjZHTy1udXkwUWRpdTBsOGJoc1pIRWJzZWI1T2lnTDFsWFlQY0t6dG9PSGMwaXJURW9Pbm1Ob25tU2p5a19mMU80NnFyeXFnMld5U19KbUFjZkhNR1k1azJIRVlKNnlSdlNQTkl3UVZxQ0Z0SENhWjE2REwzZFBDUnplSnRNMEpsU0tycHdDbmdpckQ1T3VtQjlaNWNBQTR1ZVVlcGtKdjY0VGRLNy1Z?oc=5
 
-- India eyes data-sharing pact with US to tighten CSAM crackdown - The Economic Times
-  India eyes data-sharing pact with US to tighten
-  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxPS1hpYlY0Q2ViaERieFJXRk82eTd2UlVpOXo0a192ZWxkeXppdHJ1MERZdV9WTnlMb3NVS0J2QkFTSXhxcDZVR1htRGJVM2RUTEc5S3AzcXV2NGZVeHYzbUJDanhoa3NmaW1aSXQ5LTFCbGNPd2RZWTZGZExld1NQMkFaZTJtWWxDdV9iS1RLVWYxVURIQjJYQ1hsTkJ5Q0xkN3Vsa3JJT05GLTdDY0VndjBLbjBrR1oydk55N21Rdks1ZHpDLVdYLUNyT0w0ODNEM0NnOWsxdjU1RE1aMF9vNzdoRThPMFFmUkpiZ3ZTOTNTbklsNXh5bDRUQVJuc1J6WHQ2QmJwRXNqbjdhdnh1WjZNMGU3VlNoRlNsbkZ3RnF1QkpDRFBVdVNxQnI5bWvSAcsBQVVfeXFMUEZqSnJmc21lR3dTbzRqZkRuZHRuVXg0XzhSUTdjeFIwVzRmbFBsS3ZaVkdrdWNDRURIdXJxTzA3RWZmNGtsOFk5S3NBcjRSTkt5SGpycUZpN012dk0wSnVibmtrUERmS3pjeHE1V3VqWG94SWo5Q2RDR2hsTmxWY3gwRlJCemtSN2MyMjI3Ums0MGE3UUhLNDM1R1VMeWp1Z2JjTTQtU0ZpeEt4VnZyUlRwMVJCcDJuWGE1cmNwMGw4RWVucmpUeDdmWEE?oc=5
+- India news highlights, 14 August 2026: Reliance, Rolls-Royce to supply engines for India’s 5th-gen fighters - The Indian Express
+  Reliance, Rolls-Royce to supply engines for India’s
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamRYMThjLVFjMG0zY2tfcnF5UmxoVzA1a3Q0aGMweWNGdjhHM0QzRzRSbGlFSmFJSGVSeV9KNTdZcjBZSTJEUEdiVG1RWk5XMmY0bVdSalN6NzBocS1aeVUxN1dmU2ZMMElOcDZnc0pPUU1CLXl6VEtscDF6a2cybF9xRFVOZmpZX2NDaFA4MkZSeFVwdnpJTm9iZE90WUtLck5mejV5ZHV3YTJud21OcWFrQWJYRFcxQ2YzNmtuUTVydmhxLVBLUTdfbkg2QzJkaFhDcDdwYzhjU2R4TzNpNXRYOXJYbURXbFhkclBjYmpLTTZQVXfSAfwBQVVfeXFMT1QyVFRWWVJKZHAzYnpXU1JIY2RGUDVXZy0tQW51a0NrQktQX3NMZTl4dVd5b0F2b3FieTlVaC1qVmMteWdfWEZ1aWI1dXVsbkFacXpRbmk4WWd6dVdyQ21UY0lCWWRpeVZNMTF5bHd1VTN3SzJsakVOc1pBZFZkb0dBWk5kaHhWTjVhcTRPSkM0LUpEbzBiZ3NpdnBqOEthMTF6YVZGcUtZV2pXc1JWU2lrZDNDN1dMeExadVRpSE1ycHVMaUhCbVdlSGl5ZGR4VnlJSzg2d2NvMXltV25QQnUyUWVVNVZlTlNTdEtLUHQ5RTd3bHpPeldSTVla?oc=5
+
+- India play 600th Test at Galle: What happened in 1st, 100th, 200th, 300th, 400th and 500th Tests? - The Times of India
+  India play 600th Test at Galle: What happened in 1st, 100th,
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFNSa09VaUVocktpYmgwUVpPT21UdXlnN0gxbTNHSktFUzRnRWZvQnFqb2tpMmt4S0ctRnNWM0JEWXVKNTYzTUZnQXd3U1FUczFCMW9ESlZwTHpKaTljTGNLS2tUdUlHdVQ3X1pzclNsS0VkSnJaR2c3YmtlckRnd2RPZWdPeTZsQVRkc1dlaVZfSTdIYzF0eC1EOWZlMjYwUlJ0dFo2SzFtclU3cmgtM0FILWRUWlFxaDVZckZ0eW03U0NlMWpjQm5CU2xlYlpLUWJZNXpPNlJ1WjBzVHR6a09hYU5ja2xXOHZQRlVYX1Y2OHlHcVZiZTJsVDZHdlNkQTNv0gGIAkFVX3lxTE0zZGxSWnUtd0lMOTZSR1dKNlRFWWEtc0tXUDdxMTZid0txbDhLSXI1SGRhSGdoNGl4M21heHVORjA5SmlmNkR2RkFoeFZJamxza19LR29VbXByUTBQbWdKM2NqUXZJbVNQSXdTZy1NSUpCU0FCNjdQUFpGZXA3OE56OFZwUnl2OTZkYlFxZkJQWG5saXplNkU4ejZLQUViY2VpN0lCT2VKeHM2eHV2M0Q0M0RXWTNpRGlYWTc0N250MC1CcWtHdWNiV0dwM3pyYmJuZl8yb01ZSHVmRjVURm9jMERyck5xdkdZeVl5ZldWdWdhRUpUU3RKUlotdUtSZV9pemNoU3Q0VA?oc=5
+
+- 80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News - Hindustan Times
+  80 years free, India’s biggest independence challenge is its bureaucracy with
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOenhiQTA4emswdVk2M2ZMRExpOFc4RktWekpVbjVvczVnVUpUUHRWWENKWmZHeXkxM3dpMmFlVGdmRUJIQ3Nmb0JvYVVXXzhKZm92dFF3LVZQTzBJT19ER3R3Y3hzdmc2M3FqczgzUlFHXzVKOGZFOUpJZVgwX0RScC0tNkZYRnpPNXN3b0F2UXFESzZRWkRKUE43Z2ZCclJhZlhWcjZMUG9haXJFNnY4TlJUS1ZJc21rQm1UbEJnR3NaN3otUWh3SlREMlVmZnRTMmZzbDQxMm1oNUY4MGhBX3p2YkJiQ3gzNlBNLdIB8gFBVV95cUxNclJHTHhFOWZJTDk4bXBCZU1ENTh0UU55RWVSNHZEQW93YzJ6OWdnN0hhQ0Z3VUpzeWhWTmY0UWt4OU1rczA4dEdMSjlHLVhISF9EQ2doYWJER1VtQ3Z5dEM4Sy1ocFdVdF9rM3BPX0Mwb2R4R0xjSHZhcHlTY2JrVjRGTkdxc1AyeHpLektWWUtJck5hX1R3UzlxSGNjSVFQb1hYdTc1bWVMdDFaY2F5SjVrZ2JfYS02ZTR6NjY2RXUtNDlfcWF5ME5zZ3VZYW9sUnFWRUc3S3NMOGVVNS04STY1ZE9LelRsU3RfUnllSUFHZw?oc=5
+
+- India Ushers In 80th Independence Day, PM Modi To Address Nation From Red Fort - NDTV
+  India Ushers In 80th Independence Day, PM Modi To
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQamltNElqZDZfS0tWLXFkY2V0T195RlZzMFA3WHNsSVFGMlVxeGV5Z05jWW9yeVFXOThLcTBzTjllbmxYd0VyNFdEaVdETFpSUnBYeXdMN19PbEVWMFRfNHRnUVd6MVFUanVkaTlOcGFCQ21NTzVKMGp1N0JUWUJzSU5aTUd6ZlRGUkdtTXBLaTdzTEkzU1VGb3JIcmREcld3SXNUTFU5TnlKMGczVVU4aFhRV0M2ek5zNnfSAcIBQVVfeXFMUE9zaW8wV1lOdVZEbGJ5Q3VYS0w2d0FoX2VmaDdmVTk4VERXaHoxODhVRm1hSDdFZC1vUVBveS04Qk15NkFLN2tqVWZqV3VDemdweHoyNWdoaUZsVnZVMUVDOXk3LXBhb2o3SGRTbnJ5dVNGekg0Zkg4ZG1FQW9BYWNSVV9Tb0pEQWVYX1EtUDdLTzVOaVFVYkNINDI2N1hTYmdBOU4yaVVCTENsYUQ3WEJwWkhNclozZGxIbkhGbVlaUXc?oc=5
 
 - From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore - CNBC
   &nbsp;&ngt;<font color="#6
@@ -36,9 +36,17 @@
   'Technology saved me
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXpidEtVODNQVlRYdW02SUxISV9DbFI3QmRUTjdSd2tPUWdUZThRNTVLU01yd0x5V19JODNJY1llTGxHMGRjLUJRTDNHOW12NWJTY3RFVVByYTd2Tm9sY1ZrVkRNSEVuZTNjdVh4TVZqU3NLNkFSWjBNTTkzdTZtU1gzZTJPTjJnZnd0Y1lFWDA3V21mbmwzZktlbHdjcWhRTC1XWndLVjNYVFowcXltOHpDcXRYM1JnNy1MNm5xUnZMTnlBem55Vi16YU1Ndw?oc=5
 
-- How kids feel about AI, in their own words - MIT Technology Review
-  The MIT Technology Review looks at how kids
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmFqd1QzdVh4SFNYSGdlVVJ0bVgzekJsUDczS1Nxc1JIcmR0dHl1TUg1dlk0LVE2bVMtV0ZfZ3lKVmhfNXl3Y0ZsaE9tUlRHNUtaNDBpVnFvUTNicHp2dlk5ZFN1dWpLRWxlSG1EYnI1X3d2OXJNV09jc3hmVkZwM2JZOWt6NWhSbXBURDB30gGTAUFVX3lxTE1qWjQweV9XNXcxSGstR3F2OUFzUURpa1dGN3VFVklUbGozMDRNNWlydFZqbExBOS0tdFU5MHNiLUZPbFp3MlktQWdXZkxYYldsLXBXYWl0UEhSMlFrUmpQQm11aXRSbkFuYkFacHlvMi1SQ205RlhvWUdybkFOd0J1Q3BEOWNjMDRBZDZiVGNnalNxMA?oc=5
+- Centre opens nuclear sector to proven foreign technology under strict regulatory oversight - Deccan Herald
+  Centre opens nuclear sector to proven foreign technology under strict
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DOFdLODlnUVEwc2FrWXpOR0hHWExKRHdRN1F0Q281TE00U0duZXV3ZlpMaG9feXhjdWlBVk5Nc1pKdEFhaW5oM09nSDdya2JBOTlfS1RIS2lNSjlra2w4V3FCSGxDS2h3UVpQSlFVcWtqdGZGdFA4aDhOd0V4NzlRTEY3YThvV18xM2VyWTNTOFhuUHBmajZXeGs5WXp1akJjaDliSmJwVVhPT0h6bUlHczZBVnZLU2NoZS1HS24wT29OZFhiUUFoMUF1QQ?oc=5
+
+- Tiger Global Management cuts stakes in Big Tech, buys into SpaceX
+  Tiger Global Management cuts stakes in
+  🔗 https://www.livemint.com/companies/tiger-global-management-cuts-stakes-in-big-tech-buys-into-spacex-11786735622678.html
+
+- Meta Says It’s Shut Down 750,000 Youth Accounts in Australia
+  More than 750,000 Instagram and Facebook accounts in Australia believed to belong to people under 16. Meta Platforms Inc. began complying with the country's landmark youth social media
+  🔗 https://www.livemint.com/companies/meta-says-it-s-shut-down-750-000-youth-accounts-in-australia-11786733793181.html
 
 - Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO
   Luigi Mangione pleads guilty to federal
@@ -52,33 +60,33 @@
   SpaceX has completed a $60 billion acquisition of artificial intelligence coding startup Cursor. Cursor is a key part of
   🔗 https://www.livemint.com/companies/news/elon-musks-spacex-gears-up-to-take-on-rivals-openai-anthropic-with-60-billion-acquisition-of-ai-startup-cursor-11786716524549.html
 
-- Reliance, Rolls-Royce join hands to develop indigenous engine for AMCA — full details here
-  Rolls-Royce and Reliance Industries announce partnership to develop combat aircraft engine for India's AMCA programme. They plan to establish an Aerospace Gas Turbine Complex in
-  🔗 https://www.livemint.com/companies/news/reliance-rolls-royce-join-hands-to-develop-indigenous-engine-for-amca-what-didanant-ambani-tufan-erginbilgic-sa-11786715848170.html
+- Singapore Stocks’ Record Run Gets ‘Goldilocks’ Boost From Growth
+  Singapore’s stocks have outperformed the world over the past month as their traditional strengths of high dividend yields and resilient
+  🔗 https://www.livemint.com/market/singapore-stocks-record-run-gets-goldilocks-boost-from-growth-11786753879545.html
 
-- Mahindra looks to plug gaps in its commercial vehicle push
-  Mahindra is using the merged SML Mahindra entity and two new truck engines to break into heavier commercial vehicle segments. The company is targeting 20% CV market share within a decade while tread
-  🔗 https://www.livemint.com/companies/mahindra-looks-to-plug-gaps-in-its-commercial-vehicle-push-11786706958796.html
+- Jane Street Lost $15 Billion in Its First Down Month in a Decade
+  Jane Street posted roughly $15 billion of losses in July, according to a person familiar with the matter. It was the first monthly slump in about a decade.
+  🔗 https://www.livemint.com/market/jane-street-lost-15-billion-in-its-first-down-month-in-a-decade-11786748784900.html
 
-- Patanjali Foods shares to be in focus on Monday as Q1 net profit jumps 86%; revenue hits record
-  Patanjali Foods reported a robust June-quarter performance, with net profit increasing by 86% YoY. A 40% interim dividend has
-  🔗 https://www.livemint.com/market/stock-market-news/patanjali-foods-shares-to-be-in-focus-on-monday-as-q1-net-profit-jumps-86-revenue-hits-record-11786727877953.html
+- Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings
+  Institutional investors reveal cautious approach to tech favorites in
+  🔗 https://www.livemint.com/market/institutional-investors-reveal-cautious-approach-to-tech-favorites-in-us-quarterly-13f-filings-11786744463480.html
 
-- Alphabet's $900 million SpaceX bet soars to $94 billion after rocket firm's IPO, filings show
-  Alphabet's $900 million investment in SpaceX is now worth about $94 billion. It's the rocket
-  🔗 https://www.livemint.com/market/alphabets-900-million-spacex-bet-soars-to-94-billion-after-rocket-firms-ipo-filings-show-11786724830491.html
+- Oil prices rally, US data dents chances of Fed rate hike
+   of U.S.
+  🔗 https://www.livemint.com/market/oil-prices-rally-us-data-dents-chances-of-fed-rate-hike-11786742025245.html
 
-- Sebi proposes overhaul of settlement rules to cut amounts, speed enforcement
-  Proposed formula could halve gap between settlement amounts and final penalties. Fast-
-  🔗 https://www.livemint.com/market/sebi-proposes-overhaul-of-settlement-rules-to-cut-amounts-speed-enforcement-11786716403062.html
+- Oil Rises as US Warns of More Economic Pressure to Isolate Iran
+  Traders weigh US threat to impose unprecedented economic measures on Iran. Strait of Hormuz in its sixth month.
+  🔗 https://www.livemint.com/market/oil-rises-as-us-warns-of-more-economic-pressure-to-isolate-iran-11786737452456.html
 
-- Gold jumps 9% in August as weaker dollar, easing Fed bets boost demand
-  Spot gold reached $4,397 an ounce, marking a 9% monthly gain in August. Gold prices are on a winning streak as US Fed rate hike expectations ease.
-  🔗 https://www.livemint.com/market/commodities/gold-jumps-9-in-august-as-weaker-dollar-easing-fed-bets-boost-demand-11786716604532.html
+- Pokémon GO sees massive outage, tens of thousands of users report problems on Downdetector: What we know
+  Over 20,000 people reported problems with the platform at around 3:27 pm PT ( 3:57 am IST the next day)
+  🔗 https://www.livemint.com/technology/tech-news/pokmon-go-sees-massive-outage-tens-of-thousands-of-users-report-problems-on-downdetector-what-we-know-11786751779593.html
 
-- Reddit shares jump 15% as social media platform set to join S&amp;P 500
-  Reddit shares jumped 15% to $181.7 after being added to the S&amp;amp;P 500. The inclusion acknowledges Reddit's $30 billion market cap.
-  🔗 https://www.livemint.com/market/stock-market-news/reddit-shares-jump-15-as-social-media-platform-set-to-join-s-p-500-11786715061238.html
+- Electronics Hardware Technology Park units increase to 79 in two years, exports cross over  ₹11,150 crore
+  The number of Electronics Hardware Technology Park (EHTP) units in India increased to 79 in 2025-26 from 70 two years earlier. exports from these units touched an estimated  ₹11,200 crore
+  🔗 https://www.livemint.com/technology/electronics-hardware-technology-park-units-increase-to-79-in-two-years-exports-cross-over-rs-11-150-crore-11786746654935.html
 
 - Panasonic LUMIX L10 fixed-lens camera launched in India at  ₹1,79,990
   Panasonic has launched the LUMIX L10 fixed-lens camera
@@ -92,33 +100,29 @@
   Apple is reportedly preparing to enter the Chinese market with its own large language
   🔗 https://www.livemint.com/technology/tech-news/apple-intelligence-may-finally-launch-in-china-with-apples-own-ai-model-report-11786687959523.html
 
-- ASUS ExpertBook Ultra review: A business laptop that doesn't feel like one
-  ASUS ExpertBook Ultra weighs just 0.99kg, but packs a powerful
-  🔗 https://www.livemint.com/technology/gadgets/asus-expertbook-ultra-review-a-business-laptop-that-doesnt-feel-like-one-11786684621357.html
-
-- Exclusive-Apple trains its own AI model for China market with Alibabas support, sources say
-  Apple trains its own AI model for China market
-  🔗 https://www.livemint.com/technology/exclusiveapple-trains-its-own-ai-model-for-china-market-with-alibabas-support-sources-say-11786681640581.html
-
-- Stock Market Today: Dow, S&P 500 Slip; Reddit Stock Jumps — Live Updates - WSJ
-  The WSJ reports that the Dow Jones Industrial Average
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPckZlNXl2WnpFQzhWOVFVV0RoVjJMX21NVDVxZlMtVXFoRXBsZzZGZXVEVDNjYjlobi1Nanh5VDd4RndxYWM3OWUzN2FMUG5HY0pxWkFhNVZBQmJpQUJtMmpsZHo1bENNYjdpVzNHSFh1UzR0QlpJblRqQTlETUNuZG5jR1BrWEk?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq slip after stocks hit record high, consumer sentiment declines - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq slip after stocks
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWs4ODczd2sySy16V0d6WG1fZnpJM19oLUFDcFBEVjIzVGlxMHg3ZEozOFhLa1dnR0VVRC14ZXkxaDFYcHpwMHhEU0hFY3lFbDRNRE5EOGJKOGk5VDJIT2NNbG9pcWtXWVA4ZFFWVW9NenFRcGlxVG4zNWxCMU1UMEtiQUY0Z2pELThROFdla0FtRTVobWJ0LUlHOGtfelJMaEMzZXFXcVdUenM?oc=5
-
-- Nasdaq to acquire Level Markets: Report - Axios
-  Nasdaq to
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUZaRHYwbThYSVlKZnhhRVFHdDc5NWhuelN4T1REOVZGdVdoUmg2bjhmTGktaEJrSGE4NUJBQnR2VUNuWWZoWmUzajdPcXZBMGJiZVh3U2FySmVyenU2eXVyMzVGU2lUSlNuNjNZVGtIWVdtSUxSbkpFX2JaTWRRMzNfbTlJT2pLR293?oc=5
-
 - AI-driven surge in bond yields could be next risk for markets and growth - Reuters
   AI-driven surge in bond yields could be next risk
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5
 
-- 'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings - bbc.com
+- Markets News, Aug. 14, 2026: Tech Shares Pull Back as Major Indexes Slip; S&P 500, Nasdaq Log 3rd Straight Week of Gains - Investopedia
+  The S&amp;P 500, Nasdaq Log 3rd Straight Week of Gains.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFZ4emppTjVaV1BKXzlNWm9oZEw1RlNrcUxIWXB0NlF2UFY2WXg1dU5GWVV6NUhLN09CeVJXNEhMZnZjU1B1Y2U0c1NhTWwta09UOFJvMDJuNWtNVWJaT0hCQVFtWHlOR3BtcUF6WVVFanNQaF9CVjlBeXFYVlVZQXdRYk01VnVRY1NGVzNaeDI?oc=5
+
+- Stock market today: S&P 500 slips from record high but caps third straight week of gains - Yahoo Finance
+  Stock market today: S&amp;P 500 slips from record high but
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWs4ODczd2sySy16V0d6WG1fZnpJM19oLUFDcFBEVjIzVGlxMHg3ZEozOFhLa1dnR0VVRC14ZXkxaDFYcHpwMHhEU0hFY3lFbDRNRE5EOGJKOGk5VDJIT2NNbG9pcWtXWVA4ZFFWVW9NenFRcGlxVG4zNWxCMU1UMEtiQUY0Z2pELThROFdla0FtRTVobWJ0LUlHOGtfelJMaEMzZXFXcVdUenM?oc=5
+
+- Stock Market News, August 14, 2026: S&P Slips Back From Records - WSJ
+  The WSJ looks at the future of the
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPckZlNXl2WnpFQzhWOVFVV0RoVjJMX21NVDVxZlMtVXFoRXBsZzZGZXVEVDNjYjlobi1Nanh5VDd4RndxYWM3OWUzN2FMUG5HY0pxWkFhNVZBQmJpQUJtMmpsZHo1bENNYjdpVzNHSFh1UzR0QlpJblRqQTlETUNuZG5jR1BrWEk?oc=5
+
+- 'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings - BBC
   'I lost $14,000 in a month': Investors
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQ3BpcWprV3luZkxwSnd2VGxiX3VCWG94eUJadl9TMDQyRWVmQWk2LV8zSzB0SGpaZ210Nl83VGNzOWhPWUY5MWUycjlhUER4YjJFVkQxSkxtUQ?oc=5
+
+- US stock: S&amp;P 500 ends lower as investors weigh data, Middle East tensions
+  The S&amp;P 500's streak came to an end as weaker retail sales suggested caution among consumers. Applied Materials saw its shares slump, dragging down AI-related stocks. Rising oil prices helped lift the energy index.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-500-ends-lower-as-investors-weigh-data-middle-east-tensions/articleshow/133251425.cms
 
 - Nvidia’s $500 billion plan envelops Wall Street in its AI frenzy
   N Nvidia has unveiled a major financing initiative aimed at supporting artificial intelligence chip acquisitions. By collaborating with prominent financial institutions, the plan seeks to provide substantial debt solutions tailored for AI startups.
@@ -136,29 +140,37 @@
   Paris, Frankfurt, Madrid and Milan exchanges all hit records in August. Heatwaves pummelling Europe this summer will have costly impacts on industries.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-hotter-europe-isnt-cooling-investor-fervor-for-stocks/articleshow/133245914.cms
 
-- Accel India IV offloads 1.3 pc stake in Urban Company
-  The Mauritius-based investor offloaded 2 crore equity shares via open market deals, trimming its stake to 4.84 percent. Urban Company stands out with a total equity share capital exceeding 154 crore shares.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/accel-india-iv-offloads-1-3-pc-stake-in-urban-company/articleshow/133245881.cms
+- Bangladesh PM Likely To Visit India Next Week, 1st Trip Since Assuming Power - NDTV
+  Bangladesh PM Likely To Visit India Next Week,
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTM1M0I1WDI0UnNkM1NWZHFMRHJLdF8taDNTZWxxcnM3QVAtbzF2RnIzY3Jpa2FYYUl2dk4tX0tITTFUQVJ1V2JNRUJPTXg3cjM0S25yekpCWThKdlZWcHVnR2hDYmFvWEJGM3ZhQkU1SEpQVXR5OEJXZEY4OVR6bmY1dTk4SWx6eThGTDBLaVM5NENyU1hIV19kU3paTjNobGZLZUMwZlRGSnM3dHgwU0hleWZ1Y09lZUNBMXlMTlZ4bHNYWWZNZ1hPQdIB0wFBVV95cUxQdUJmUmRtanFjYXpjNFg0SkEza0xzN0preDUtRDRDRGNneXFqdjZHTy1udXkwUWRpdTBsOGJoc1pIRWJzZWI1T2lnTDFsWFlQY0t6dG9PSGMwaXJURW9Pbm1Ob25tU2p5a19mMU80NnFyeXFnMld5U19KbUFjZkhNR1k1azJIRVlKNnlSdlNQTkl3UVZxQ0Z0SENhWjE2REwzZFBDUnplSnRNMEpsU0tycHdDbmdpckQ1T3VtQjlaNWNBQTR1ZVVlcGtKdjY0VGRLNy1Z?oc=5
 
 - India news highlights, 14 August 2026: Reliance, Rolls-Royce to supply engines for India’s 5th-gen fighters - The Indian Express
   Reliance, Rolls-Royce to supply engines for India’s
   🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamRYMThjLVFjMG0zY2tfcnF5UmxoVzA1a3Q0aGMweWNGdjhHM0QzRzRSbGlFSmFJSGVSeV9KNTdZcjBZSTJEUEdiVG1RWk5XMmY0bVdSalN6NzBocS1aeVUxN1dmU2ZMMElOcDZnc0pPUU1CLXl6VEtscDF6a2cybF9xRFVOZmpZX2NDaFA4MkZSeFVwdnpJTm9iZE90WUtLck5mejV5ZHV3YTJud21OcWFrQWJYRFcxQ2YzNmtuUTVydmhxLVBLUTdfbkg2QzJkaFhDcDdwYzhjU2R4TzNpNXRYOXJYbURXbFhkclBjYmpLTTZQVXfSAfwBQVVfeXFMT1QyVFRWWVJKZHAzYnpXU1JIY2RGUDVXZy0tQW51a0NrQktQX3NMZTl4dVd5b0F2b3FieTlVaC1qVmMteWdfWEZ1aWI1dXVsbkFacXpRbmk4WWd6dVdyQ21UY0lCWWRpeVZNMTF5bHd1VTN3SzJsakVOc1pBZFZkb0dBWk5kaHhWTjVhcTRPSkM0LUpEbzBiZ3NpdnBqOEthMTF6YVZGcUtZV2pXc1JWU2lrZDNDN1dMeExadVRpSE1ycHVMaUhCbVdlSGl5ZGR4VnlJSzg2d2NvMXltV25QQnUyUWVVNVZlTlNTdEtLUHQ5RTd3bHpPeldSTVla?oc=5
 
-- Reliance, Rolls-Royce partner to develop engine for India's fifth-gen fighter jet - The Times of India
-  Reliance, Rolls-Royce partner to develop engine for
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0hDRnhUV2RWQ1FXNFY3T3hWR1cyM2cyZWJLMk5lZXJqZ0NlR0J6Vk5ZUEZMZWx1MzJjSzZpdGEzSXhtTWFRNGV2eGZWNHNwQjlFcGZ1dzhxc0JyTTNZVWM0c0hlRFprWTdhNHcwNVlCUW4yak9GeFItMkVGa08tS0RUZDU2RlNuUUQ1eVZubzc0cGNwUmJoMUJtRzRVYVFRc2VtaHJnc1NuMVhoNFdzWnBMSnBXZldNaFdzMklaYkh6dDhwdmtLbFNIWFFzT01PSEdNektwbUVJN1VMejZiRHZmZllVYXl6bnfSAe8BQVVfeXFMT0pqQmkycG1BM09XcmpUWU5pcVN0Ti05dmpDeXVRdW5aSEJLR0RuTFlZU09FeVNRaDBnYUF3ZXVVejJVTzVvSGk2eWlYTDBRblRZN3p0dnROMDRITTlzOE9BQ1JaazlOeGlhZ3JwLWpyR1hoaUYtVlZ6QlVDcGxnNlpIeFNjSnlUUTRMbzdoN1RXdUZGZDdMTW5xRF91WFp0YzhSNWZLWVJjNy1uUUR6VGoyWjR5ZHhmcVNwMlZiaXc5RFZoVWl0WDh6MDYwXzk4MmcweHlaVU84UGk0WnhPTy1BUmN5bHRfcjZWb0E0RE0?oc=5
+- India play 600th Test at Galle: What happened in 1st, 100th, 200th, 300th, 400th and 500th Tests? - The Times of India
+  India play 600th Test at Galle: What happened in 1st, 100th,
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFNSa09VaUVocktpYmgwUVpPT21UdXlnN0gxbTNHSktFUzRnRWZvQnFqb2tpMmt4S0ctRnNWM0JEWXVKNTYzTUZnQXd3U1FUczFCMW9ESlZwTHpKaTljTGNLS2tUdUlHdVQ3X1pzclNsS0VkSnJaR2c3YmtlckRnd2RPZWdPeTZsQVRkc1dlaVZfSTdIYzF0eC1EOWZlMjYwUlJ0dFo2SzFtclU3cmgtM0FILWRUWlFxaDVZckZ0eW03U0NlMWpjQm5CU2xlYlpLUWJZNXpPNlJ1WjBzVHR6a09hYU5ja2xXOHZQRlVYX1Y2OHlHcVZiZTJsVDZHdlNkQTNv0gGIAkFVX3lxTE0zZGxSWnUtd0lMOTZSR1dKNlRFWWEtc0tXUDdxMTZid0txbDhLSXI1SGRhSGdoNGl4M21heHVORjA5SmlmNkR2RkFoeFZJamxza19LR29VbXByUTBQbWdKM2NqUXZJbVNQSXdTZy1NSUpCU0FCNjdQUFpGZXA3OE56OFZwUnl2OTZkYlFxZkJQWG5saXplNkU4ejZLQUViY2VpN0lCT2VKeHM2eHV2M0Q0M0RXWTNpRGlYWTc0N250MC1CcWtHdWNiV0dwM3pyYmJuZl8yb01ZSHVmRjVURm9jMERyck5xdkdZeVl5ZldWdWdhRUpUU3RKUlotdUtSZV9pemNoU3Q0VA?oc=5
 
-- Reliance Industries, Rolls-Royce partner to make engine for India’s AMCA programme | India News - Hindustan Times
-  Reliance Industries, Rolls-Royce partner to make engine for
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWE9EVFJBeXJXNWR4X0NGT2N3U0htdlpreHdIYWI3R3I3SFYzMml2Wi1fZlRNRlExUWJnSkF0T28xdmhQRVh2bzRSTVJnTDVzd1FDcVB3clhNUDF6N3NEWGVuS0RnRVU3b1BXa1owWEJCZDNZWGxocEFZTzFKZnVnZ0QwbEpnSk12ZFA1anUtMm44blVhTmI2WTYyOEtkTWlLLUV0RFdmX0c4S0ZZdzFyWmpiazdKMDJiRFJOb3drbGEtYjBGWFlISzhibFdLXzlUME5iZ19GanRYamlC0gHiAUFVX3lxTE0zN0FKTmQzcE53V3BhZXAyQWxIX2R1M2RMUzY4RDFiRHlHVXduakowZ1pHcGRWZEh6cUVBelJUbjB6QmVfLUpxLXY1bURrQnRNRmluck5jeGVtMFgwVjVXWHpseTlaeUVHWXJiMGhMWTRXWDBEX3FPV3BGMGh4SlRsOUdLQURGbGR4WHdYWW8tTmw3MlgzWU52MmNRcU8wd2FFNlBjMGJOZXVvMFZTanZaSllkR09pUzRWT0lCcHRwSzAxRU1WR1dVd2NqYUdmd2dzZUxvZ2l0ZTBuZHU2S05jRXc?oc=5
+- 80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News - Hindustan Times
+  80 years free, India’s biggest independence challenge is its bureaucracy with
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOenhiQTA4emswdVk2M2ZMRExpOFc4RktWekpVbjVvczVnVUpUUHRWWENKWmZHeXkxM3dpMmFlVGdmRUJIQ3Nmb0JvYVVXXzhKZm92dFF3LVZQTzBJT19ER3R3Y3hzdmc2M3FqczgzUlFHXzVKOGZFOUpJZVgwX0RScC0tNkZYRnpPNXN3b0F2UXFESzZRWkRKUE43Z2ZCclJhZlhWcjZMUG9haXJFNnY4TlJUS1ZJc21rQm1UbEJnR3NaN3otUWh3SlREMlVmZnRTMmZzbDQxMm1oNUY4MGhBX3p2YkJiQ3gzNlBNLdIB8gFBVV95cUxNclJHTHhFOWZJTDk4bXBCZU1ENTh0UU55RWVSNHZEQW93YzJ6OWdnN0hhQ0Z3VUpzeWhWTmY0UWt4OU1rczA4dEdMSjlHLVhISF9EQ2doYWJER1VtQ3Z5dEM4Sy1ocFdVdF9rM3BPX0Mwb2R4R0xjSHZhcHlTY2JrVjRGTkdxc1AyeHpLektWWUtJck5hX1R3UzlxSGNjSVFQb1hYdTc1bWVMdDFaY2F5SjVrZ2JfYS02ZTR6NjY2RXUtNDlfcWF5ME5zZ3VZYW9sUnFWRUc3S3NMOGVVNS04STY1ZE9LelRsU3RfUnllSUFHZw?oc=5
 
-- Bangladesh PM Likely To Visit India Next Week, 1st Trip Since Assuming Power - NDTV
-  Bangladesh PM Likely To Visit India Next Week,
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTM1M0I1WDI0UnNkM1NWZHFMRHJLdF8taDNTZWxxcnM3QVAtbzF2RnIzY3Jpa2FYYUl2dk4tX0tITTFUQVJ1V2JNRUJPTXg3cjM0S25yekpCWThKdlZWcHVnR2hDYmFvWEJGM3ZhQkU1SEpQVXR5OEJXZEY4OVR6bmY1dTk4SWx6eThGTDBLaVM5NENyU1hIV19kU3paTjNobGZLZUMwZlRGSnM3dHgwU0hleWZ1Y09lZUNBMXlMTlZ4bHNYWWZNZ1hPQdIB0wFBVV95cUxQdUJmUmRtanFjYXpjNFg0SkEza0xzN0preDUtRDRDRGNneXFqdjZHTy1udXkwUWRpdTBsOGJoc1pIRWJzZWI1T2lnTDFsWFlQY0t6dG9PSGMwaXJURW9Pbm1Ob25tU2p5a19mMU80NnFyeXFnMld5U19KbUFjZkhNR1k1azJIRVlKNnlSdlNQTkl3UVZxQ0Z0SENhWjE2REwzZFBDUnplSnRNMEpsU0tycHdDbmdpckQ1T3VtQjlaNWNBQTR1ZVVlcGtKdjY0VGRLNy1Z?oc=5
+- India Ushers In 80th Independence Day, PM Modi To Address Nation From Red Fort - NDTV
+  India Ushers In 80th Independence Day, PM Modi To
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQamltNElqZDZfS0tWLXFkY2V0T195RlZzMFA3WHNsSVFGMlVxeGV5Z05jWW9yeVFXOThLcTBzTjllbmxYd0VyNFdEaVdETFpSUnBYeXdMN19PbEVWMFRfNHRnUVd6MVFUanVkaTlOcGFCQ21NTzVKMGp1N0JUWUJzSU5aTUd6ZlRGUkdtTXBLaTdzTEkzU1VGb3JIcmREcld3SXNUTFU5TnlKMGczVVU4aFhRV0M2ek5zNnfSAcIBQVVfeXFMUE9zaW8wV1lOdVZEbGJ5Q3VYS0w2d0FoX2VmaDdmVTk4VERXaHoxODhVRm1hSDdFZC1vUVBveS04Qk15NkFLN2tqVWZqV3VDemdweHoyNWdoaUZsVnZVMUVDOXk3LXBhb2o3SGRTbnJ5dVNGekg0Zkg4ZG1FQW9BYWNSVV9Tb0pEQWVYX1EtUDdLTzVOaVFVYkNINDI2N1hTYmdBOU4yaVVCTENsYUQ3WEJwWkhNclozZGxIbkhGbVlaUXc?oc=5
 
-- India eyes data-sharing pact with US to tighten CSAM crackdown - The Economic Times
-  India eyes data-sharing pact with US to tighten
-  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxPS1hpYlY0Q2ViaERieFJXRk82eTd2UlVpOXo0a192ZWxkeXppdHJ1MERZdV9WTnlMb3NVS0J2QkFTSXhxcDZVR1htRGJVM2RUTEc5S3AzcXV2NGZVeHYzbUJDanhoa3NmaW1aSXQ5LTFCbGNPd2RZWTZGZExld1NQMkFaZTJtWWxDdV9iS1RLVWYxVURIQjJYQ1hsTkJ5Q0xkN3Vsa3JJT05GLTdDY0VndjBLbjBrR1oydk55N21Rdks1ZHpDLVdYLUNyT0w0ODNEM0NnOWsxdjU1RE1aMF9vNzdoRThPMFFmUkpiZ3ZTOTNTbklsNXh5bDRUQVJuc1J6WHQ2QmJwRXNqbjdhdnh1WjZNMGU3VlNoRlNsbkZ3RnF1QkpDRFBVdVNxQnI5bWvSAcsBQVVfeXFMUEZqSnJmc21lR3dTbzRqZkRuZHRuVXg0XzhSUTdjeFIwVzRmbFBsS3ZaVkdrdWNDRURIdXJxTzA3RWZmNGtsOFk5S3NBcjRSTkt5SGpycUZpN012dk0wSnVibmtrUERmS3pjeHE1V3VqWG94SWo5Q2RDR2hsTmxWY3gwRlJCemtSN2MyMjI3Ums0MGE3UUhLNDM1R1VMeWp1Z2JjTTQtU0ZpeEt4VnZyUlRwMVJCcDJuWGE1cmNwMGw4RWVucmpUeDdmWEE?oc=5
+- Atomberg To Form JV With Voltas To Manufacture AC Compressors
+  Atomberg To Form JV With Voltas To Manufacture AC Compressors.
+  🔗 https://inc42.com/buzz/atomberg-to-form-jv-with-voltas-to-manufacture-ac-compressors/
+
+- WeWork Inc Sells 2.5% Stake In WeWork India For ₹244 Cr
+  US-based WeWork Inc yesterday offloaded WeWork India shares worth ₹244.1 Cr via multiple open-market transactions.
+  🔗 https://inc42.com/buzz/wework-inc-sells-2-5-stake-in-wework-india-for-%e2%82%b9244-cr/
+
+- Maharashtra FDA Suspends Licences of 14 Dark Stores Of Blinkit, Zepto & Instamart
+  Maha Suspends Licences of 14 Stores Of Blinkit, Zepto &amp; Instamart.
+  🔗 https://inc42.com/buzz/maharashtra-fda-suspends-licences-of-14-dark-stores-of-blinkit-zepto-instamart/
 
 - [Update] Shiprocket IPO Closes With 99.38X Oversubscription
   Shiprocket’s public issue closed with an oversubscription of 99.38X, with investors bidding for 938.53
@@ -168,57 +180,45 @@
   Redcliffe Labs, Skyroot Partner To Test Diagnostic Reagents In Space.
   🔗 https://inc42.com/buzz/redcliffe-labs-skyroot-partner-to-test-diagnostic-reagents-in-space/
 
-- PhysicsWallah Q1 Revenue Crosses ₹1,000 Cr Mark, Loss Down 31% YoY
-  PhysicsWallah’s operating revenue crossed the ₹1,000 Cr mark in the June quarter of the financial year 2026-27&#8230.
-  🔗 https://inc42.com/buzz/physicswallah-q1-revenue-crosses-%e2%82%b91000-cr-mark-loss-down-31-yoy/
-
-- Turtlemint Q1: Loss Trims 19% YoY To ₹38 Cr, Operating Revenue Increased 40%
-  Recently listed insurtech company Turtlemint managed to trim down its Q1 FY27 net loss 19% to ₹37.8 Cr.
-  🔗 https://inc42.com/buzz/turtlemint-q1-loss-trims-19-yoy-to-%e2%82%b938-cr-operating-revenue-increased-40/
-
-- Zaggle Q1 Profit Dips 33% YoY To ₹17.5 Cr Despite 28% Revenue Jump
-  Fintech SaaS company Zaggle’s net profit for the June quarter (Q1 FY27) dipped 33%
-  🔗 https://inc42.com/buzz/zaggle-q1-profit-dips-33-yoy-to-%e2%82%b917-5-cr-despite-28-revenue-jump/
+- Bangladesh PM Likely To Visit India Next Week, 1st Trip Since Assuming Power - NDTV
+  Bangladesh PM Likely To Visit India Next Week,
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTM1M0I1WDI0UnNkM1NWZHFMRHJLdF8taDNTZWxxcnM3QVAtbzF2RnIzY3Jpa2FYYUl2dk4tX0tITTFUQVJ1V2JNRUJPTXg3cjM0S25yekpCWThKdlZWcHVnR2hDYmFvWEJGM3ZhQkU1SEpQVXR5OEJXZEY4OVR6bmY1dTk4SWx6eThGTDBLaVM5NENyU1hIV19kU3paTjNobGZLZUMwZlRGSnM3dHgwU0hleWZ1Y09lZUNBMXlMTlZ4bHNYWWZNZ1hPQdIB0wFBVV95cUxQdUJmUmRtanFjYXpjNFg0SkEza0xzN0preDUtRDRDRGNneXFqdjZHTy1udXkwUWRpdTBsOGJoc1pIRWJzZWI1T2lnTDFsWFlQY0t6dG9PSGMwaXJURW9Pbm1Ob25tU2p5a19mMU80NnFyeXFnMld5U19KbUFjZkhNR1k1azJIRVlKNnlSdlNQTkl3UVZxQ0Z0SENhWjE2REwzZFBDUnplSnRNMEpsU0tycHdDbmdpckQ1T3VtQjlaNWNBQTR1ZVVlcGtKdjY0VGRLNy1Z?oc=5
 
 - India news highlights, 14 August 2026: Reliance, Rolls-Royce to supply engines for India’s 5th-gen fighters - The Indian Express
   Reliance, Rolls-Royce to supply engines for India’s
   🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamRYMThjLVFjMG0zY2tfcnF5UmxoVzA1a3Q0aGMweWNGdjhHM0QzRzRSbGlFSmFJSGVSeV9KNTdZcjBZSTJEUEdiVG1RWk5XMmY0bVdSalN6NzBocS1aeVUxN1dmU2ZMMElOcDZnc0pPUU1CLXl6VEtscDF6a2cybF9xRFVOZmpZX2NDaFA4MkZSeFVwdnpJTm9iZE90WUtLck5mejV5ZHV3YTJud21OcWFrQWJYRFcxQ2YzNmtuUTVydmhxLVBLUTdfbkg2QzJkaFhDcDdwYzhjU2R4TzNpNXRYOXJYbURXbFhkclBjYmpLTTZQVXfSAfwBQVVfeXFMT1QyVFRWWVJKZHAzYnpXU1JIY2RGUDVXZy0tQW51a0NrQktQX3NMZTl4dVd5b0F2b3FieTlVaC1qVmMteWdfWEZ1aWI1dXVsbkFacXpRbmk4WWd6dVdyQ21UY0lCWWRpeVZNMTF5bHd1VTN3SzJsakVOc1pBZFZkb0dBWk5kaHhWTjVhcTRPSkM0LUpEbzBiZ3NpdnBqOEthMTF6YVZGcUtZV2pXc1JWU2lrZDNDN1dMeExadVRpSE1ycHVMaUhCbVdlSGl5ZGR4VnlJSzg2d2NvMXltV25QQnUyUWVVNVZlTlNTdEtLUHQ5RTd3bHpPeldSTVla?oc=5
 
-- Reliance, Rolls-Royce partner to develop engine for India's fifth-gen fighter jet - The Times of India
-  Reliance, Rolls-Royce partner to develop engine for
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0hDRnhUV2RWQ1FXNFY3T3hWR1cyM2cyZWJLMk5lZXJqZ0NlR0J6Vk5ZUEZMZWx1MzJjSzZpdGEzSXhtTWFRNGV2eGZWNHNwQjlFcGZ1dzhxc0JyTTNZVWM0c0hlRFprWTdhNHcwNVlCUW4yak9GeFItMkVGa08tS0RUZDU2RlNuUUQ1eVZubzc0cGNwUmJoMUJtRzRVYVFRc2VtaHJnc1NuMVhoNFdzWnBMSnBXZldNaFdzMklaYkh6dDhwdmtLbFNIWFFzT01PSEdNektwbUVJN1VMejZiRHZmZllVYXl6bnfSAe8BQVVfeXFMT0pqQmkycG1BM09XcmpUWU5pcVN0Ti05dmpDeXVRdW5aSEJLR0RuTFlZU09FeVNRaDBnYUF3ZXVVejJVTzVvSGk2eWlYTDBRblRZN3p0dnROMDRITTlzOE9BQ1JaazlOeGlhZ3JwLWpyR1hoaUYtVlZ6QlVDcGxnNlpIeFNjSnlUUTRMbzdoN1RXdUZGZDdMTW5xRF91WFp0YzhSNWZLWVJjNy1uUUR6VGoyWjR5ZHhmcVNwMlZiaXc5RFZoVWl0WDh6MDYwXzk4MmcweHlaVU84UGk0WnhPTy1BUmN5bHRfcjZWb0E0RE0?oc=5
+- India play 600th Test at Galle: What happened in 1st, 100th, 200th, 300th, 400th and 500th Tests? - The Times of India
+  India play 600th Test at Galle: What happened in 1st, 100th,
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFNSa09VaUVocktpYmgwUVpPT21UdXlnN0gxbTNHSktFUzRnRWZvQnFqb2tpMmt4S0ctRnNWM0JEWXVKNTYzTUZnQXd3U1FUczFCMW9ESlZwTHpKaTljTGNLS2tUdUlHdVQ3X1pzclNsS0VkSnJaR2c3YmtlckRnd2RPZWdPeTZsQVRkc1dlaVZfSTdIYzF0eC1EOWZlMjYwUlJ0dFo2SzFtclU3cmgtM0FILWRUWlFxaDVZckZ0eW03U0NlMWpjQm5CU2xlYlpLUWJZNXpPNlJ1WjBzVHR6a09hYU5ja2xXOHZQRlVYX1Y2OHlHcVZiZTJsVDZHdlNkQTNv0gGIAkFVX3lxTE0zZGxSWnUtd0lMOTZSR1dKNlRFWWEtc0tXUDdxMTZid0txbDhLSXI1SGRhSGdoNGl4M21heHVORjA5SmlmNkR2RkFoeFZJamxza19LR29VbXByUTBQbWdKM2NqUXZJbVNQSXdTZy1NSUpCU0FCNjdQUFpGZXA3OE56OFZwUnl2OTZkYlFxZkJQWG5saXplNkU4ejZLQUViY2VpN0lCT2VKeHM2eHV2M0Q0M0RXWTNpRGlYWTc0N250MC1CcWtHdWNiV0dwM3pyYmJuZl8yb01ZSHVmRjVURm9jMERyck5xdkdZeVl5ZldWdWdhRUpUU3RKUlotdUtSZV9pemNoU3Q0VA?oc=5
 
-- Reliance Industries, Rolls-Royce partner to make engine for India’s AMCA programme | India News - Hindustan Times
-  Reliance Industries, Rolls-Royce partner to make engine for
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWE9EVFJBeXJXNWR4X0NGT2N3U0htdlpreHdIYWI3R3I3SFYzMml2Wi1fZlRNRlExUWJnSkF0T28xdmhQRVh2bzRSTVJnTDVzd1FDcVB3clhNUDF6N3NEWGVuS0RnRVU3b1BXa1owWEJCZDNZWGxocEFZTzFKZnVnZ0QwbEpnSk12ZFA1anUtMm44blVhTmI2WTYyOEtkTWlLLUV0RFdmX0c4S0ZZdzFyWmpiazdKMDJiRFJOb3drbGEtYjBGWFlISzhibFdLXzlUME5iZ19GanRYamlC0gHiAUFVX3lxTE0zN0FKTmQzcE53V3BhZXAyQWxIX2R1M2RMUzY4RDFiRHlHVXduakowZ1pHcGRWZEh6cUVBelJUbjB6QmVfLUpxLXY1bURrQnRNRmluck5jeGVtMFgwVjVXWHpseTlaeUVHWXJiMGhMWTRXWDBEX3FPV3BGMGh4SlRsOUdLQURGbGR4WHdYWW8tTmw3MlgzWU52MmNRcU8wd2FFNlBjMGJOZXVvMFZTanZaSllkR09pUzRWT0lCcHRwSzAxRU1WR1dVd2NqYUdmd2dzZUxvZ2l0ZTBuZHU2S05jRXc?oc=5
+- 80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News - Hindustan Times
+  80 years free, India’s biggest independence challenge is its bureaucracy with
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOenhiQTA4emswdVk2M2ZMRExpOFc4RktWekpVbjVvczVnVUpUUHRWWENKWmZHeXkxM3dpMmFlVGdmRUJIQ3Nmb0JvYVVXXzhKZm92dFF3LVZQTzBJT19ER3R3Y3hzdmc2M3FqczgzUlFHXzVKOGZFOUpJZVgwX0RScC0tNkZYRnpPNXN3b0F2UXFESzZRWkRKUE43Z2ZCclJhZlhWcjZMUG9haXJFNnY4TlJUS1ZJc21rQm1UbEJnR3NaN3otUWh3SlREMlVmZnRTMmZzbDQxMm1oNUY4MGhBX3p2YkJiQ3gzNlBNLdIB8gFBVV95cUxNclJHTHhFOWZJTDk4bXBCZU1ENTh0UU55RWVSNHZEQW93YzJ6OWdnN0hhQ0Z3VUpzeWhWTmY0UWt4OU1rczA4dEdMSjlHLVhISF9EQ2doYWJER1VtQ3Z5dEM4Sy1ocFdVdF9rM3BPX0Mwb2R4R0xjSHZhcHlTY2JrVjRGTkdxc1AyeHpLektWWUtJck5hX1R3UzlxSGNjSVFQb1hYdTc1bWVMdDFaY2F5SjVrZ2JfYS02ZTR6NjY2RXUtNDlfcWF5ME5zZ3VZYW9sUnFWRUc3S3NMOGVVNS04STY1ZE9LelRsU3RfUnllSUFHZw?oc=5
+
+- India Ushers In 80th Independence Day, PM Modi To Address Nation From Red Fort - NDTV
+  India Ushers In 80th Independence Day, PM Modi To
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQamltNElqZDZfS0tWLXFkY2V0T195RlZzMFA3WHNsSVFGMlVxeGV5Z05jWW9yeVFXOThLcTBzTjllbmxYd0VyNFdEaVdETFpSUnBYeXdMN19PbEVWMFRfNHRnUVd6MVFUanVkaTlOcGFCQ21NTzVKMGp1N0JUWUJzSU5aTUd6ZlRGUkdtTXBLaTdzTEkzU1VGb3JIcmREcld3SXNUTFU5TnlKMGczVVU4aFhRV0M2ek5zNnfSAcIBQVVfeXFMUE9zaW8wV1lOdVZEbGJ5Q3VYS0w2d0FoX2VmaDdmVTk4VERXaHoxODhVRm1hSDdFZC1vUVBveS04Qk15NkFLN2tqVWZqV3VDemdweHoyNWdoaUZsVnZVMUVDOXk3LXBhb2o3SGRTbnJ5dVNGekg0Zkg4ZG1FQW9BYWNSVV9Tb0pEQWVYX1EtUDdLTzVOaVFVYkNINDI2N1hTYmdBOU4yaVVCTENsYUQ3WEJwWkhNclozZGxIbkhGbVlaUXc?oc=5
 
 - Bangladesh PM Likely To Visit India Next Week, 1st Trip Since Assuming Power - NDTV
   Bangladesh PM Likely To Visit India Next Week,
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTM1M0I1WDI0UnNkM1NWZHFMRHJLdF8taDNTZWxxcnM3QVAtbzF2RnIzY3Jpa2FYYUl2dk4tX0tITTFUQVJ1V2JNRUJPTXg3cjM0S25yekpCWThKdlZWcHVnR2hDYmFvWEJGM3ZhQkU1SEpQVXR5OEJXZEY4OVR6bmY1dTk4SWx6eThGTDBLaVM5NENyU1hIV19kU3paTjNobGZLZUMwZlRGSnM3dHgwU0hleWZ1Y09lZUNBMXlMTlZ4bHNYWWZNZ1hPQdIB0wFBVV95cUxQdUJmUmRtanFjYXpjNFg0SkEza0xzN0preDUtRDRDRGNneXFqdjZHTy1udXkwUWRpdTBsOGJoc1pIRWJzZWI1T2lnTDFsWFlQY0t6dG9PSGMwaXJURW9Pbm1Ob25tU2p5a19mMU80NnFyeXFnMld5U19KbUFjZkhNR1k1azJIRVlKNnlSdlNQTkl3UVZxQ0Z0SENhWjE2REwzZFBDUnplSnRNMEpsU0tycHdDbmdpckQ1T3VtQjlaNWNBQTR1ZVVlcGtKdjY0VGRLNy1Z?oc=5
-
-- India eyes data-sharing pact with US to tighten CSAM crackdown - The Economic Times
-  India eyes data-sharing pact with US to tighten
-  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxPS1hpYlY0Q2ViaERieFJXRk82eTd2UlVpOXo0a192ZWxkeXppdHJ1MERZdV9WTnlMb3NVS0J2QkFTSXhxcDZVR1htRGJVM2RUTEc5S3AzcXV2NGZVeHYzbUJDanhoa3NmaW1aSXQ5LTFCbGNPd2RZWTZGZExld1NQMkFaZTJtWWxDdV9iS1RLVWYxVURIQjJYQ1hsTkJ5Q0xkN3Vsa3JJT05GLTdDY0VndjBLbjBrR1oydk55N21Rdks1ZHpDLVdYLUNyT0w0ODNEM0NnOWsxdjU1RE1aMF9vNzdoRThPMFFmUkpiZ3ZTOTNTbklsNXh5bDRUQVJuc1J6WHQ2QmJwRXNqbjdhdnh1WjZNMGU3VlNoRlNsbkZ3RnF1QkpDRFBVdVNxQnI5bWvSAcsBQVVfeXFMUEZqSnJmc21lR3dTbzRqZkRuZHRuVXg0XzhSUTdjeFIwVzRmbFBsS3ZaVkdrdWNDRURIdXJxTzA3RWZmNGtsOFk5S3NBcjRSTkt5SGpycUZpN012dk0wSnVibmtrUERmS3pjeHE1V3VqWG94SWo5Q2RDR2hsTmxWY3gwRlJCemtSN2MyMjI3Ums0MGE3UUhLNDM1R1VMeWp1Z2JjTTQtU0ZpeEt4VnZyUlRwMVJCcDJuWGE1cmNwMGw4RWVucmpUeDdmWEE?oc=5
 
 - India news highlights, 14 August 2026: Reliance, Rolls-Royce to supply engines for India’s 5th-gen fighters - The Indian Express
   Reliance, Rolls-Royce to supply engines for India’s
   🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamRYMThjLVFjMG0zY2tfcnF5UmxoVzA1a3Q0aGMweWNGdjhHM0QzRzRSbGlFSmFJSGVSeV9KNTdZcjBZSTJEUEdiVG1RWk5XMmY0bVdSalN6NzBocS1aeVUxN1dmU2ZMMElOcDZnc0pPUU1CLXl6VEtscDF6a2cybF9xRFVOZmpZX2NDaFA4MkZSeFVwdnpJTm9iZE90WUtLck5mejV5ZHV3YTJud21OcWFrQWJYRFcxQ2YzNmtuUTVydmhxLVBLUTdfbkg2QzJkaFhDcDdwYzhjU2R4TzNpNXRYOXJYbURXbFhkclBjYmpLTTZQVXfSAfwBQVVfeXFMT1QyVFRWWVJKZHAzYnpXU1JIY2RGUDVXZy0tQW51a0NrQktQX3NMZTl4dVd5b0F2b3FieTlVaC1qVmMteWdfWEZ1aWI1dXVsbkFacXpRbmk4WWd6dVdyQ21UY0lCWWRpeVZNMTF5bHd1VTN3SzJsakVOc1pBZFZkb0dBWk5kaHhWTjVhcTRPSkM0LUpEbzBiZ3NpdnBqOEthMTF6YVZGcUtZV2pXc1JWU2lrZDNDN1dMeExadVRpSE1ycHVMaUhCbVdlSGl5ZGR4VnlJSzg2d2NvMXltV25QQnUyUWVVNVZlTlNTdEtLUHQ5RTd3bHpPeldSTVla?oc=5
 
-- Reliance, Rolls-Royce partner to develop engine for India's fifth-gen fighter jet - The Times of India
-  Reliance, Rolls-Royce partner to develop engine for
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ0hDRnhUV2RWQ1FXNFY3T3hWR1cyM2cyZWJLMk5lZXJqZ0NlR0J6Vk5ZUEZMZWx1MzJjSzZpdGEzSXhtTWFRNGV2eGZWNHNwQjlFcGZ1dzhxc0JyTTNZVWM0c0hlRFprWTdhNHcwNVlCUW4yak9GeFItMkVGa08tS0RUZDU2RlNuUUQ1eVZubzc0cGNwUmJoMUJtRzRVYVFRc2VtaHJnc1NuMVhoNFdzWnBMSnBXZldNaFdzMklaYkh6dDhwdmtLbFNIWFFzT01PSEdNektwbUVJN1VMejZiRHZmZllVYXl6bnfSAe8BQVVfeXFMT0pqQmkycG1BM09XcmpUWU5pcVN0Ti05dmpDeXVRdW5aSEJLR0RuTFlZU09FeVNRaDBnYUF3ZXVVejJVTzVvSGk2eWlYTDBRblRZN3p0dnROMDRITTlzOE9BQ1JaazlOeGlhZ3JwLWpyR1hoaUYtVlZ6QlVDcGxnNlpIeFNjSnlUUTRMbzdoN1RXdUZGZDdMTW5xRF91WFp0YzhSNWZLWVJjNy1uUUR6VGoyWjR5ZHhmcVNwMlZiaXc5RFZoVWl0WDh6MDYwXzk4MmcweHlaVU84UGk0WnhPTy1BUmN5bHRfcjZWb0E0RE0?oc=5
+- India play 600th Test at Galle: What happened in 1st, 100th, 200th, 300th, 400th and 500th Tests? - The Times of India
+  India play 600th Test at Galle: What happened in 1st, 100th,
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFNSa09VaUVocktpYmgwUVpPT21UdXlnN0gxbTNHSktFUzRnRWZvQnFqb2tpMmt4S0ctRnNWM0JEWXVKNTYzTUZnQXd3U1FUczFCMW9ESlZwTHpKaTljTGNLS2tUdUlHdVQ3X1pzclNsS0VkSnJaR2c3YmtlckRnd2RPZWdPeTZsQVRkc1dlaVZfSTdIYzF0eC1EOWZlMjYwUlJ0dFo2SzFtclU3cmgtM0FILWRUWlFxaDVZckZ0eW03U0NlMWpjQm5CU2xlYlpLUWJZNXpPNlJ1WjBzVHR6a09hYU5ja2xXOHZQRlVYX1Y2OHlHcVZiZTJsVDZHdlNkQTNv0gGIAkFVX3lxTE0zZGxSWnUtd0lMOTZSR1dKNlRFWWEtc0tXUDdxMTZid0txbDhLSXI1SGRhSGdoNGl4M21heHVORjA5SmlmNkR2RkFoeFZJamxza19LR29VbXByUTBQbWdKM2NqUXZJbVNQSXdTZy1NSUpCU0FCNjdQUFpGZXA3OE56OFZwUnl2OTZkYlFxZkJQWG5saXplNkU4ejZLQUViY2VpN0lCT2VKeHM2eHV2M0Q0M0RXWTNpRGlYWTc0N250MC1CcWtHdWNiV0dwM3pyYmJuZl8yb01ZSHVmRjVURm9jMERyck5xdkdZeVl5ZldWdWdhRUpUU3RKUlotdUtSZV9pemNoU3Q0VA?oc=5
 
-- Reliance Industries, Rolls-Royce partner to make engine for India’s AMCA programme | India News - Hindustan Times
-  Reliance Industries, Rolls-Royce partner to make engine for
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWE9EVFJBeXJXNWR4X0NGT2N3U0htdlpreHdIYWI3R3I3SFYzMml2Wi1fZlRNRlExUWJnSkF0T28xdmhQRVh2bzRSTVJnTDVzd1FDcVB3clhNUDF6N3NEWGVuS0RnRVU3b1BXa1owWEJCZDNZWGxocEFZTzFKZnVnZ0QwbEpnSk12ZFA1anUtMm44blVhTmI2WTYyOEtkTWlLLUV0RFdmX0c4S0ZZdzFyWmpiazdKMDJiRFJOb3drbGEtYjBGWFlISzhibFdLXzlUME5iZ19GanRYamlC0gHiAUFVX3lxTE0zN0FKTmQzcE53V3BhZXAyQWxIX2R1M2RMUzY4RDFiRHlHVXduakowZ1pHcGRWZEh6cUVBelJUbjB6QmVfLUpxLXY1bURrQnRNRmluck5jeGVtMFgwVjVXWHpseTlaeUVHWXJiMGhMWTRXWDBEX3FPV3BGMGh4SlRsOUdLQURGbGR4WHdYWW8tTmw3MlgzWU52MmNRcU8wd2FFNlBjMGJOZXVvMFZTanZaSllkR09pUzRWT0lCcHRwSzAxRU1WR1dVd2NqYUdmd2dzZUxvZ2l0ZTBuZHU2S05jRXc?oc=5
+- 80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News - Hindustan Times
+  80 years free, India’s biggest independence challenge is its bureaucracy with
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOenhiQTA4emswdVk2M2ZMRExpOFc4RktWekpVbjVvczVnVUpUUHRWWENKWmZHeXkxM3dpMmFlVGdmRUJIQ3Nmb0JvYVVXXzhKZm92dFF3LVZQTzBJT19ER3R3Y3hzdmc2M3FqczgzUlFHXzVKOGZFOUpJZVgwX0RScC0tNkZYRnpPNXN3b0F2UXFESzZRWkRKUE43Z2ZCclJhZlhWcjZMUG9haXJFNnY4TlJUS1ZJc21rQm1UbEJnR3NaN3otUWh3SlREMlVmZnRTMmZzbDQxMm1oNUY4MGhBX3p2YkJiQ3gzNlBNLdIB8gFBVV95cUxNclJHTHhFOWZJTDk4bXBCZU1ENTh0UU55RWVSNHZEQW93YzJ6OWdnN0hhQ0Z3VUpzeWhWTmY0UWt4OU1rczA4dEdMSjlHLVhISF9EQ2doYWJER1VtQ3Z5dEM4Sy1ocFdVdF9rM3BPX0Mwb2R4R0xjSHZhcHlTY2JrVjRGTkdxc1AyeHpLektWWUtJck5hX1R3UzlxSGNjSVFQb1hYdTc1bWVMdDFaY2F5SjVrZ2JfYS02ZTR6NjY2RXUtNDlfcWF5ME5zZ3VZYW9sUnFWRUc3S3NMOGVVNS04STY1ZE9LelRsU3RfUnllSUFHZw?oc=5
 
-- Bangladesh PM Likely To Visit India Next Week, 1st Trip Since Assuming Power - NDTV
-  Bangladesh PM Likely To Visit India Next Week,
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTM1M0I1WDI0UnNkM1NWZHFMRHJLdF8taDNTZWxxcnM3QVAtbzF2RnIzY3Jpa2FYYUl2dk4tX0tITTFUQVJ1V2JNRUJPTXg3cjM0S25yekpCWThKdlZWcHVnR2hDYmFvWEJGM3ZhQkU1SEpQVXR5OEJXZEY4OVR6bmY1dTk4SWx6eThGTDBLaVM5NENyU1hIV19kU3paTjNobGZLZUMwZlRGSnM3dHgwU0hleWZ1Y09lZUNBMXlMTlZ4bHNYWWZNZ1hPQdIB0wFBVV95cUxQdUJmUmRtanFjYXpjNFg0SkEza0xzN0preDUtRDRDRGNneXFqdjZHTy1udXkwUWRpdTBsOGJoc1pIRWJzZWI1T2lnTDFsWFlQY0t6dG9PSGMwaXJURW9Pbm1Ob25tU2p5a19mMU80NnFyeXFnMld5U19KbUFjZkhNR1k1azJIRVlKNnlSdlNQTkl3UVZxQ0Z0SENhWjE2REwzZFBDUnplSnRNMEpsU0tycHdDbmdpckQ1T3VtQjlaNWNBQTR1ZVVlcGtKdjY0VGRLNy1Z?oc=5
-
-- India eyes data-sharing pact with US to tighten CSAM crackdown - The Economic Times
-  India eyes data-sharing pact with US to tighten
-  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxPS1hpYlY0Q2ViaERieFJXRk82eTd2UlVpOXo0a192ZWxkeXppdHJ1MERZdV9WTnlMb3NVS0J2QkFTSXhxcDZVR1htRGJVM2RUTEc5S3AzcXV2NGZVeHYzbUJDanhoa3NmaW1aSXQ5LTFCbGNPd2RZWTZGZExld1NQMkFaZTJtWWxDdV9iS1RLVWYxVURIQjJYQ1hsTkJ5Q0xkN3Vsa3JJT05GLTdDY0VndjBLbjBrR1oydk55N21Rdks1ZHpDLVdYLUNyT0w0ODNEM0NnOWsxdjU1RE1aMF9vNzdoRThPMFFmUkpiZ3ZTOTNTbklsNXh5bDRUQVJuc1J6WHQ2QmJwRXNqbjdhdnh1WjZNMGU3VlNoRlNsbkZ3RnF1QkpDRFBVdVNxQnI5bWvSAcsBQVVfeXFMUEZqSnJmc21lR3dTbzRqZkRuZHRuVXg0XzhSUTdjeFIwVzRmbFBsS3ZaVkdrdWNDRURIdXJxTzA3RWZmNGtsOFk5S3NBcjRSTkt5SGpycUZpN012dk0wSnVibmtrUERmS3pjeHE1V3VqWG94SWo5Q2RDR2hsTmxWY3gwRlJCemtSN2MyMjI3Ums0MGE3UUhLNDM1R1VMeWp1Z2JjTTQtU0ZpeEt4VnZyUlRwMVJCcDJuWGE1cmNwMGw4RWVucmpUeDdmWEE?oc=5
+- India Ushers In 80th Independence Day, PM Modi To Address Nation From Red Fort - NDTV
+  India Ushers In 80th Independence Day, PM Modi To
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQamltNElqZDZfS0tWLXFkY2V0T195RlZzMFA3WHNsSVFGMlVxeGV5Z05jWW9yeVFXOThLcTBzTjllbmxYd0VyNFdEaVdETFpSUnBYeXdMN19PbEVWMFRfNHRnUVd6MVFUanVkaTlOcGFCQ21NTzVKMGp1N0JUWUJzSU5aTUd6ZlRGUkdtTXBLaTdzTEkzU1VGb3JIcmREcld3SXNUTFU5TnlKMGczVVU4aFhRV0M2ek5zNnfSAcIBQVVfeXFMUE9zaW8wV1lOdVZEbGJ5Q3VYS0w2d0FoX2VmaDdmVTk4VERXaHoxODhVRm1hSDdFZC1vUVBveS04Qk15NkFLN2tqVWZqV3VDemdweHoyNWdoaUZsVnZVMUVDOXk3LXBhb2o3SGRTbnJ5dVNGekg0Zkg4ZG1FQW9BYWNSVV9Tb0pEQWVYX1EtUDdLTzVOaVFVYkNINDI2N1hTYmdBOU4yaVVCTENsYUQ3WEJwWkhNclozZGxIbkhGbVlaUXc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-14 18:50:04 UTC_
+_Last updated: 2026-08-15 00:58:58 UTC_
