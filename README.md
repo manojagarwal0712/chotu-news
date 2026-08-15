@@ -1,44 +1,44 @@
 # 📰 Daily News Summaries
 
-- Bangladesh PM Likely To Visit India Next Week, 1st Trip Since Assuming Power - NDTV
-  Bangladesh PM Likely To Visit India Next Week,
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTM1M0I1WDI0UnNkM1NWZHFMRHJLdF8taDNTZWxxcnM3QVAtbzF2RnIzY3Jpa2FYYUl2dk4tX0tITTFUQVJ1V2JNRUJPTXg3cjM0S25yekpCWThKdlZWcHVnR2hDYmFvWEJGM3ZhQkU1SEpQVXR5OEJXZEY4OVR6bmY1dTk4SWx6eThGTDBLaVM5NENyU1hIV19kU3paTjNobGZLZUMwZlRGSnM3dHgwU0hleWZ1Y09lZUNBMXlMTlZ4bHNYWWZNZ1hPQdIB0wFBVV95cUxQdUJmUmRtanFjYXpjNFg0SkEza0xzN0preDUtRDRDRGNneXFqdjZHTy1udXkwUWRpdTBsOGJoc1pIRWJzZWI1T2lnTDFsWFlQY0t6dG9PSGMwaXJURW9Pbm1Ob25tU2p5a19mMU80NnFyeXFnMld5U19KbUFjZkhNR1k1azJIRVlKNnlSdlNQTkl3UVZxQ0Z0SENhWjE2REwzZFBDUnplSnRNMEpsU0tycHdDbmdpckQ1T3VtQjlaNWNBQTR1ZVVlcGtKdjY0VGRLNy1Z?oc=5
+- AI Training, Free Coaching: PM Modi's 6 Big Announcements On Independence Day - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLT
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLTNNUmpvWmpKUHduN095eUFGR0xmQkNkQmltTGNxamdUMHRjU3Q0TGJJa21YZlU5TlNOa1J4ak5SdjltRVRRMTYtUk1nbnhTd1JhWE4wY1pVMWIyaG1zWXZXUy1jYUFjSG5YaDloSUlMR0g5OGhSTDZEelVLU0NBaVRzRFQ4OVRxYWlUV3FvWGlKNnZxNUxiZHdBU0I4eTY5RHJ6TDgyajNRZnVtcmFzYzl30gGaAkFVX3lxTE1kclhfR3N0ZWhhSTB4cnIyNVVNNFE1TUttMjB2eFRKdGxkeGd5NW9SV0h2ejllNHV1NEcxeHF4Tmd6ZG80TTctVW11TC05YklvWURFb3dYSHV4R3I5YmhOZDI2RV9yOEJuelBBU2Y3S3l0dUNDS01pX0xWbGZxYmxXeEFMRXRUOFZoYmdrZ292ZzJCd05nUXk2MXpWUXp0OE5iZm1wVTdQb1Q0VTVHUkZ5ZWJWSGFXbkVWZ3hSNmRYT281M2hQNEZTd0xuOEY3QmlqRV83R2ptNGM1SzdVX1hLTExCUlF3Qi13Y0E4UHZsVE9Pd3lzMWxBRVlSZmUzcHoxWG1WLWdlZG9EcU54MzJiZk9zQi1PVEtvZw?oc=5
 
-- India news highlights, 14 August 2026: Reliance, Rolls-Royce to supply engines for India’s 5th-gen fighters - The Indian Express
-  Reliance, Rolls-Royce to supply engines for India’s
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamRYMThjLVFjMG0zY2tfcnF5UmxoVzA1a3Q0aGMweWNGdjhHM0QzRzRSbGlFSmFJSGVSeV9KNTdZcjBZSTJEUEdiVG1RWk5XMmY0bVdSalN6NzBocS1aeVUxN1dmU2ZMMElOcDZnc0pPUU1CLXl6VEtscDF6a2cybF9xRFVOZmpZX2NDaFA4MkZSeFVwdnpJTm9iZE90WUtLck5mejV5ZHV3YTJud21OcWFrQWJYRFcxQ2YzNmtuUTVydmhxLVBLUTdfbkg2QzJkaFhDcDdwYzhjU2R4TzNpNXRYOXJYbURXbFhkclBjYmpLTTZQVXfSAfwBQVVfeXFMT1QyVFRWWVJKZHAzYnpXU1JIY2RGUDVXZy0tQW51a0NrQktQX3NMZTl4dVd5b0F2b3FieTlVaC1qVmMteWdfWEZ1aWI1dXVsbkFacXpRbmk4WWd6dVdyQ21UY0lCWWRpeVZNMTF5bHd1VTN3SzJsakVOc1pBZFZkb0dBWk5kaHhWTjVhcTRPSkM0LUpEbzBiZ3NpdnBqOEthMTF6YVZGcUtZV2pXc1JWU2lrZDNDN1dMeExadVRpSE1ycHVMaUhCbVdlSGl5ZGR4VnlJSzg2d2NvMXltV25QQnUyUWVVNVZlTlNTdEtLUHQ5RTd3bHpPeldSTVla?oc=5
+- Shoutout To Gen Z, Warning For Rivals In Vijay's First Independence Day Speech - NDTV
+  Vijay's first Independence Day speech was a warning
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0ZFVzBsZS1sQ3JNa2drcXBoMVNtZDhkMUxMNlFwRjBaUUtsdFA4SUc0N0ZFSHY1bTg1a3VCbm1QVUNsNFV5Y3NlQXFPeEVOcXVVdjBRaEhsX1Vhbkgyc1hzQVoxQWZVVXczZjRUb0NRMnZHSHBTdWJzUVdwSU9mNlZUVEpuVmxrWVdwZmJzM1pFY3FuMG1ibmVUV2FFUFBmM0dvX0hSNndGc1lVcENyZlJ5QzBEMDNkQ3hoVW5aUUtCSXpmdVlpcGtOVXYwTW1MUzBLc3J30gHeAUFVX3lxTE16TUZ2TWxaZDc5WEZKZTZHNzQwOHU5M1ZReFh2SGwxWXRRaFdGNFNDd0F2ajZJaTFtY1VIS1VPZUM2dnRBb04wV0RaQmxzdWhlaWt0bDIzV1ZEZHVLblA2blFfczlxWEJ2MVJ4UTBJWGRJRDlwQ05NN2FJMkxYWnVXVWtna2FKZkU4Rm9RdlhRVi1wU3FNTnYxdF9PR1hfb09Nb1k4UXBPMl82OTBjd0R2ZzNfeHI0TjlvdUg2ejlOQ3IxMlV1RVl5WkFHQmt4aGFpdGkwQ3VVS2NtYjdSUQ?oc=5
 
-- India play 600th Test at Galle: What happened in 1st, 100th, 200th, 300th, 400th and 500th Tests? - The Times of India
-  India play 600th Test at Galle: What happened in 1st, 100th,
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFNSa09VaUVocktpYmgwUVpPT21UdXlnN0gxbTNHSktFUzRnRWZvQnFqb2tpMmt4S0ctRnNWM0JEWXVKNTYzTUZnQXd3U1FUczFCMW9ESlZwTHpKaTljTGNLS2tUdUlHdVQ3X1pzclNsS0VkSnJaR2c3YmtlckRnd2RPZWdPeTZsQVRkc1dlaVZfSTdIYzF0eC1EOWZlMjYwUlJ0dFo2SzFtclU3cmgtM0FILWRUWlFxaDVZckZ0eW03U0NlMWpjQm5CU2xlYlpLUWJZNXpPNlJ1WjBzVHR6a09hYU5ja2xXOHZQRlVYX1Y2OHlHcVZiZTJsVDZHdlNkQTNv0gGIAkFVX3lxTE0zZGxSWnUtd0lMOTZSR1dKNlRFWWEtc0tXUDdxMTZid0txbDhLSXI1SGRhSGdoNGl4M21heHVORjA5SmlmNkR2RkFoeFZJamxza19LR29VbXByUTBQbWdKM2NqUXZJbVNQSXdTZy1NSUpCU0FCNjdQUFpGZXA3OE56OFZwUnl2OTZkYlFxZkJQWG5saXplNkU4ejZLQUViY2VpN0lCT2VKeHM2eHV2M0Q0M0RXWTNpRGlYWTc0N250MC1CcWtHdWNiV0dwM3pyYmJuZl8yb01ZSHVmRjVURm9jMERyck5xdkdZeVl5ZldWdWdhRUpUU3RKUlotdUtSZV9pemNoU3Q0VA?oc=5
+- 103 Indian Railway Stations To Host "Station Mahotsav" Between August And September - NDTV
+  103 Indian Railway Stations To Host "Station Mah
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWtFTU5IN3ZYOENIRGhMTElXWTRsdHJZOF9NMFpPeDNHOVJQQWpiWE5zQXhkbDVlX2E5MnlPbngzSFB3LXJubGxtLTNpenRCanlfMnhSNkQ1Q3pNZDFIbkVfbk1GZE9YVXdHd2YzMU91NUdqMXA0ZDhtS1FGdzgxS1J6aHRDMzdCdzFXblVhdTVnQUZ3Z2p3U3d5cXBkdHJFc3BpemdaSnpKU3hPTnJBN2xhcmvSAbwBQVVfeXFMUEUxdGFoRm9NTmtlcy1nS1ZGX1h0OU05RU1DMnAxZVlDWGVZNDEwemVPYU5yS1ZrUVljbzZPekJhOENPTl9PQ3RoVi14NXJTWXZtLVVBWjdsR0VQclNEdW1BalFYVEh4aXNmQ3V3YTRQRndydWVhUmlFRVVteE9QbVRtaWdVU2J3cUxKcGpLV2lfOUF3bDJQN1FWaWZaNFJwbDFUa0lKc0ZSX3IxVnUtTThnZEw4aFRtTkVUb0g?oc=5
 
-- 80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News - Hindustan Times
-  80 years free, India’s biggest independence challenge is its bureaucracy with
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOenhiQTA4emswdVk2M2ZMRExpOFc4RktWekpVbjVvczVnVUpUUHRWWENKWmZHeXkxM3dpMmFlVGdmRUJIQ3Nmb0JvYVVXXzhKZm92dFF3LVZQTzBJT19ER3R3Y3hzdmc2M3FqczgzUlFHXzVKOGZFOUpJZVgwX0RScC0tNkZYRnpPNXN3b0F2UXFESzZRWkRKUE43Z2ZCclJhZlhWcjZMUG9haXJFNnY4TlJUS1ZJc21rQm1UbEJnR3NaN3otUWh3SlREMlVmZnRTMmZzbDQxMm1oNUY4MGhBX3p2YkJiQ3gzNlBNLdIB8gFBVV95cUxNclJHTHhFOWZJTDk4bXBCZU1ENTh0UU55RWVSNHZEQW93YzJ6OWdnN0hhQ0Z3VUpzeWhWTmY0UWt4OU1rczA4dEdMSjlHLVhISF9EQ2doYWJER1VtQ3Z5dEM4Sy1ocFdVdF9rM3BPX0Mwb2R4R0xjSHZhcHlTY2JrVjRGTkdxc1AyeHpLektWWUtJck5hX1R3UzlxSGNjSVFQb1hYdTc1bWVMdDFaY2F5SjVrZ2JfYS02ZTR6NjY2RXUtNDlfcWF5ME5zZ3VZYW9sUnFWRUc3S3NMOGVVNS04STY1ZE9LelRsU3RfUnllSUFHZw?oc=5
+- 'The Great Transshipment Scam': India Among 40 Nations Aiding China's Tarrif Evasion, Says US - The Times of India
+  'The Great Transshipment Scam': India Among 40 Nations Aiding
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVzRKVDdtMkdBZnF3SThDc21jZzl4NzVXYkxjVElub0hYeEZkZHlhOUlkbE05UHcwd0Q3TUJmRVB6R2p4QUZOeDFVX2JPOUNsNkowS2ZxM0dkR1FjWXNlMk4xQnNaZEFWLV81cE1hYmp1eEhVM25wVF9kWWlyOUlQUnpmUnpvTmh2SDNUWjJScHpxM0J0RXg4NnRCX0pTMVhkV1BWR2ZkVjJzSmNZQjFLME5YS1A4Y1VzQjVZVTNHbTF2NFAtbllOOE5sbzBqSngtU3FoS05zVWZZT0RWY2lyVUd6VlhEd29uaUFkaE51UXlLd9IB9wFBVV95cUxPZTRIMEpEcW5LMlZtc2xwR1k1bDlZeU9QTlVjcWlBSlE1cWZ1ZGhtMUpKMEhiWnp2MF81d3U2cDl0OV9COS1kQXZiOFowTE5saVg5Z2pka25GODNvcnRlWjRnR2hFODNHR05VZlZoVEFiN254T3lEY0ZGNmNjZzdqUE1nWi1xNWVPUS16NW9vZ19LZ3ZDM0RHYTZZNDBoYkdEak9uYU1hbmpDYXdpTEJsekgwaE14U3lfbEdSbEhtbThlSUdobEpheWUxUEVnNUhqXzdaTXNzZC1OTkdKTXhnZnFNcTRrYTc1bFUwOUQwanNHaEo0U2NZ?oc=5
 
-- India Ushers In 80th Independence Day, PM Modi To Address Nation From Red Fort - NDTV
-  India Ushers In 80th Independence Day, PM Modi To
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQamltNElqZDZfS0tWLXFkY2V0T195RlZzMFA3WHNsSVFGMlVxeGV5Z05jWW9yeVFXOThLcTBzTjllbmxYd0VyNFdEaVdETFpSUnBYeXdMN19PbEVWMFRfNHRnUVd6MVFUanVkaTlOcGFCQ21NTzVKMGp1N0JUWUJzSU5aTUd6ZlRGUkdtTXBLaTdzTEkzU1VGb3JIcmREcld3SXNUTFU5TnlKMGczVVU4aFhRV0M2ek5zNnfSAcIBQVVfeXFMUE9zaW8wV1lOdVZEbGJ5Q3VYS0w2d0FoX2VmaDdmVTk4VERXaHoxODhVRm1hSDdFZC1vUVBveS04Qk15NkFLN2tqVWZqV3VDemdweHoyNWdoaUZsVnZVMUVDOXk3LXBhb2o3SGRTbnJ5dVNGekg0Zkg4ZG1FQW9BYWNSVV9Tb0pEQWVYX1EtUDdLTzVOaVFVYkNINDI2N1hTYmdBOU4yaVVCTENsYUQ3WEJwWkhNclozZGxIbkhGbVlaUXc?oc=5
+- NALSAR student body now demands apology from Bar Council chairman - The Indian Express
+  NALSAR student body now demands apology from Bar
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1hnTkhya0VOX0thM29mcHc4N2pLd21oTVp3c29jbS1RQnd1N055Z1ZfRlp1RElNS0dLQ2pPdjUwaXZQcmQtTUhCOFBDc2F6dzlzZmdMX1plRXE2UkdVLUxDbEFtOG9RN0REaWxVSGx2Z19ZaEl4dnViVVVyWERHYVlMNkJhbE1BbVpWNjVGTlBCRG12QTFEOVNXcDdwcnVLVkwyOWNYY9IBrgFBVV95cUxPTk1tdGIzWjZXdllQOGktekdzOWpKMnhCZC00RG1GdEV6Q3lJQTJ4YmFzT0RudnBVMVBXc0xydzRKSlZuMlF2MzQxWjhZVktwdmR6VlU3RVhUOEtFbjV0dzZHTlV1WWdSaGQ4RVM4dXFMa1V3RlZaS0J1LVN6OU1vNnBGYzVZYzFWU3diTVVKT1lDbXZxWHVvV0RwMUs3dkNfbU5QeW5ZUlBTZGxPSEE?oc=5
 
-- From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore - CNBC
-  &nbsp;&ngt;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkJWX1oyZklMNlRwbTRFZDZ3TDhTX09IQ0tQa0Rzb0I2WUQ0YmhsUHkzUnlvTmZxLUl4RlI0YVZ1SzlpNHN6Wml1Y0I4aHM3VWItdjlYbHJQVXBVOHpiTnJwcnc4d3Ywd0lLTlhiNk95Z1h2ZDNib3RwdHlJdllrR1N2Wlp1aERENXhka1VCc9IBlAFBVV95cUxOQWFYWWxTQWR1Ml9rNXU2cDYwdi1ScVhxVjZmYW9Pb3M3ckVjYkN6b215a0FKX003ZWV6d3FydWNOamhoVGJVZkFOR3VjZndxWWc2Vm43NVI0ZnY3OXJSSWZhNFVPN3E3WFE3dXJJQlNuOWk5SVpIcnJldUh0UTdRa3VBd29abk5LWXQ4V0theTd2Nnpn?oc=5
-
-- Donald Trump launches tariffs targeting Chinese drone technology - Financial Times
-  Donald Trump launches tariffs targeting Chinese drone
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnVNZWVVeXk4N0Y3UUNUZlVtVVAzd1pQbk0ybkprOHJpZzRlLUo1V1UwRHJYWkVQLWhsa1FEOXFtaWtCTElmbWgycXNTN3VveEFOX21kUmlPTDZlRHNBb1lsWDAwN1pOZ1B1aHBhclVNbXJQVVdWdTEydHRqcnkwdC01QXM?oc=5
+- Why tech bosses keep sharing their manifestos about AI - BBC
+  Why tech bosses keep sharing their manifest
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPYUJ1Q0pZbXhmZ2RRYlgwcFlFa0prdjdPSE9LUGlmME84T0QyM0ttYkhSZk1GdE9DUjF1c1E0OE1JRG5TSl9FdzdDaDRNUVIteF9KajlwbTBEUQ?oc=5
 
 - India's Push for Self-Reliance in Advanced Technology Sectors - IBEF
   India's Push for Self-
   🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxONlRQMU9WYjY1VTE0Z2NPR0cxQmkzX0RBZzR4M0dSNnJyQ3ZvaUw5ZWF6WUFFQnFwMjBGdlh1V240RkIyUi15dXNZN3I1dERFSFFTY2JLU3lLUGFMSFR2VW5BUFgtNVJkRGFFUGxEa2pfak1uX3hCMm1odW51VkVLOGlQMmlfS3hyc2VGZkxUM3lUQQ?oc=5
 
-- 'Technology saved me today' admits Smith - cricket.com.au
-  'Technology saved me
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXpidEtVODNQVlRYdW02SUxISV9DbFI3QmRUTjdSd2tPUWdUZThRNTVLU01yd0x5V19JODNJY1llTGxHMGRjLUJRTDNHOW12NWJTY3RFVVByYTd2Tm9sY1ZrVkRNSEVuZTNjdVh4TVZqU3NLNkFSWjBNTTkzdTZtU1gzZTJPTjJnZnd0Y1lFWDA3V21mbmwzZktlbHdjcWhRTC1XWndLVjNYVFowcXltOHpDcXRYM1JnNy1MNm5xUnZMTnlBem55Vi16YU1Ndw?oc=5
+- Donald Trump launches tariffs targeting Chinese drone technology - Financial Times
+  Donald Trump launches tariffs targeting Chinese drone
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnVNZWVVeXk4N0Y3UUNUZlVtVVAzd1pQbk0ybkprOHJpZzRlLUo1V1UwRHJYWkVQLWhsa1FEOXFtaWtCTElmbWgycXNTN3VveEFOX21kUmlPTDZlRHNBb1lsWDAwN1pOZ1B1aHBhclVNbXJQVVdWdTEydHRqcnkwdC01QXM?oc=5
 
-- Centre opens nuclear sector to proven foreign technology under strict regulatory oversight - Deccan Herald
-  Centre opens nuclear sector to proven foreign technology under strict
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOLU1DOFdLODlnUVEwc2FrWXpOR0hHWExKRHdRN1F0Q281TE00U0duZXV3ZlpMaG9feXhjdWlBVk5Nc1pKdEFhaW5oM09nSDdya2JBOTlfS1RIS2lNSjlra2w4V3FCSGxDS2h3UVpQSlFVcWtqdGZGdFA4aDhOd0V4NzlRTEY3YThvV18xM2VyWTNTOFhuUHBmajZXeGs5WXp1akJjaDliSmJwVVhPT0h6bUlHczZBVnZLU2NoZS1HS24wT29OZFhiUUFoMUF1QQ?oc=5
+- Foreign nuclear technology must meet approval, operational criteria under draft SHANTI rules - The Indian Express
+  Foreign nuclear technology must meet approval, operational criteria under draft SH
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVTBuMk53UThDVWM0UDlpc1ZqV3llT1JtUkpndUNZRVBDcGdwYXpUVlUxSTZlZTUwejdhSy1ZUkVkTXhfdTRZVFF3cDMxeEQtYTYxajdweUJuUldVcExxbDNSNWlteG9FRWtVTmt0ZUNXdEtqaXg2LW9pUTZoeTNJaEdTdXNHUDZIcm16dkJFX2h0d1dJMkt1MDgtcWJMVWdkMDlUOGtmdFBfNHpXWmFOSlVLcXVrbUZuUDR3N0I4c2dmVFlnQ2tXUnVQMGF4NnhWTTFhd05QOFJhSmFu0gHjAUFVX3lxTE91d1d2aFJMRTloWV85WFRVTXJjZW1zT3dITUo5bGNKTHdnUmFqZGkwT21hUmd1TjZLY0g2eG1BbnhaSDhxQlRXZGRsOURFTHVmMkE1Um1qZ2w5cVlkNkxaU05oTUl3NXFKZXdnLVhtTnBPamFfVlRxbGJzS2RvNGFjNjFJVU95ZTk2c2VqUWZmazdHMG5xdVE0YUVzM0ZpZE0wbDZNeVZycW9yNGlzazRpd25KUjd6RWM3VjVzRzV1UmNwX1p5SGlVRjNITUw4b2lnNmVzY1BtWS1OTWd4NmtwaDQ0?oc=5
+
+- Humanity May Soon Have the Technology To Reach Other Star Systems - SciTechDaily
+  Humanity May Soon Have the Technology To Reach
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxORG9JeXZ5V2V3NHZUUkoxU2ZCeWtBd3JDbi1MRmxVRUMydW90NFJLZjE1OXVQM21HSTAzTkZWOFhQa2VCcldRbEEtT1IzX2RLVVRzY1cweENkcTV3RlBhcnl2QXlLVU5ZNjJ6bXcxSTJXM1JPTi1iRFZuVWo2MnFqcGViM204V3pNaUlpbUh1QW5sMzl1RHc?oc=5
 
 - Tiger Global Management cuts stakes in Big Tech, buys into SpaceX
   Tiger Global Management cuts stakes in
@@ -60,25 +60,25 @@
   SpaceX has completed a $60 billion acquisition of artificial intelligence coding startup Cursor. Cursor is a key part of
   🔗 https://www.livemint.com/companies/news/elon-musks-spacex-gears-up-to-take-on-rivals-openai-anthropic-with-60-billion-acquisition-of-ai-startup-cursor-11786716524549.html
 
-- Singapore Stocks’ Record Run Gets ‘Goldilocks’ Boost From Growth
-  Singapore’s stocks have outperformed the world over the past month as their traditional strengths of high dividend yields and resilient
-  🔗 https://www.livemint.com/market/singapore-stocks-record-run-gets-goldilocks-boost-from-growth-11786753879545.html
+- Independence Day 2026: BEL to BEML — Ganesh Dongre of Anand Rathi recommends these four stocks to buy
+  Ganesh Dongre of Anand Rathi recommends these four stocks to buy.
+  🔗 https://www.livemint.com/market/stock-market-news/independence-day-2026-bel-to-beml-ganesh-dongre-of-anand-rathi-recommends-these-four-stocks-to-buy-11786767806447.html
 
-- Jane Street Lost $15 Billion in Its First Down Month in a Decade
-  Jane Street posted roughly $15 billion of losses in July, according to a person familiar with the matter. It was the first monthly slump in about a decade.
-  🔗 https://www.livemint.com/market/jane-street-lost-15-billion-in-its-first-down-month-in-a-decade-11786748784900.html
+- Nifty 50 has delivered negative returns over the last year; is it the right time to increase your bets on equities?
+  Indian equities face challenges, with the Nifty 50 down 2% over the past year. Experts suggest a selective approach to sectors and stocks.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-has-delivered-negative-returns-over-the-last-year-is-it-the-right-time-to-increase-your-bets-on-equities-11786765516810.html
 
-- Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings
-  Institutional investors reveal cautious approach to tech favorites in
-  🔗 https://www.livemint.com/market/institutional-investors-reveal-cautious-approach-to-tech-favorites-in-us-quarterly-13f-filings-11786744463480.html
+- 15 Nifty 500 stocks that doubled investors’ money since last Independence Day: Do you own any?
+  Despite a 2% dip in the Nifty 50, the broader Nifty 500 index has revealed surprising winners. Discover the 15 stellar stocks that have doubled investor money, amidst geopolitical
+  🔗 https://www.livemint.com/market/stock-market-news/15-nifty-500-stocks-that-doubled-investors-money-since-last-independence-day-do-you-own-any-11786763570569.html
 
-- Oil prices rally, US data dents chances of Fed rate hike
-   of U.S.
-  🔗 https://www.livemint.com/market/oil-prices-rally-us-data-dents-chances-of-fed-rate-hike-11786742025245.html
+- RVNL vs IRFC vs IRCON vs IRCTC: Which railway stock to buy after Q1 results 2026?
+  Market experts believe IRFC is a proxy for railway capex with sovereign backing. RVNL and IRCON are EPC contractors, while
+  🔗 https://www.livemint.com/market/stock-market-news/rvnl-vs-irfc-vs-ircon-vs-irctc-which-railway-stock-to-buy-after-q1-results-2026-11786761714978.html
 
-- Oil Rises as US Warns of More Economic Pressure to Isolate Iran
-  Traders weigh US threat to impose unprecedented economic measures on Iran. Strait of Hormuz in its sixth month.
-  🔗 https://www.livemint.com/market/oil-rises-as-us-warns-of-more-economic-pressure-to-isolate-iran-11786737452456.html
+- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
+  Mehul Kothari of Anand Rathi recommends three shares to buy or sell
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11786758559895.html
 
 - Pokémon GO sees massive outage, tens of thousands of users report problems on Downdetector: What we know
   Over 20,000 people reported problems with the platform at around 3:27 pm PT ( 3:57 am IST the next day)
@@ -100,65 +100,77 @@
   Apple is reportedly preparing to enter the Chinese market with its own large language
   🔗 https://www.livemint.com/technology/tech-news/apple-intelligence-may-finally-launch-in-china-with-apples-own-ai-model-report-11786687959523.html
 
-- AI-driven surge in bond yields could be next risk for markets and growth - Reuters
+- AI-driven surge in bond yields could be next risk for markets and growth - reuters.com
   AI-driven surge in bond yields could be next risk
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5
 
-- Markets News, Aug. 14, 2026: Tech Shares Pull Back as Major Indexes Slip; S&P 500, Nasdaq Log 3rd Straight Week of Gains - Investopedia
-  The S&amp;P 500, Nasdaq Log 3rd Straight Week of Gains.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFZ4emppTjVaV1BKXzlNWm9oZEw1RlNrcUxIWXB0NlF2UFY2WXg1dU5GWVV6NUhLN09CeVJXNEhMZnZjU1B1Y2U0c1NhTWwta09UOFJvMDJuNWtNVWJaT0hCQVFtWHlOR3BtcUF6WVVFanNQaF9CVjlBeXFYVlVZQXdRYk01VnVRY1NGVzNaeDI?oc=5
+- Stock Market Close: Sensex sheds 71 pts; Nifty settles at 24,366; Consumer Durables shares shine - Business Standard
+  Stock Market Close: Sensex sheds 71 pts; Nifty settles at
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxOT3hNYmJ1b2plaHBHRGVHaXJ1dlNCS3lFU2FJam9vYnpxQVJmWmE2MWR6UmlJNUxDOExQTE5uUzRuaEdjOTVxcWZmLXQtSC1xZUlUSkVSb1hLRThSRWpZNzF2VzZnSk1sOE9XeG4tZVZLV2xwRFgxaVhUWjFQajRKc1ljakh2NDFrRE9TVFZDZE9qZVU2N2YzQl9QVExDREE3WVF2WXRPWTRZWG5iV1BHOVk2amRiVXZXMFAyZjhDSlR4YXZrUnFXa3J2MV9DNi1zX21PVV93OGtpT0puOVJtVF9mV295cFRSVkJuM3BKejFJVjJqWW14Qk1NMl9CVE5KeTVnWGVmNDZ5bW9Sc3JnRzJpNm1IN3VlRnc?oc=5
 
-- Stock market today: S&P 500 slips from record high but caps third straight week of gains - Yahoo Finance
-  Stock market today: S&amp;P 500 slips from record high but
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWs4ODczd2sySy16V0d6WG1fZnpJM19oLUFDcFBEVjIzVGlxMHg3ZEozOFhLa1dnR0VVRC14ZXkxaDFYcHpwMHhEU0hFY3lFbDRNRE5EOGJKOGk5VDJIT2NNbG9pcWtXWVA4ZFFWVW9NenFRcGlxVG4zNWxCMU1UMEtiQUY0Z2pELThROFdla0FtRTVobWJ0LUlHOGtfelJMaEMzZXFXcVdUenM?oc=5
-
-- Stock Market News, August 14, 2026: S&P Slips Back From Records - WSJ
-  The WSJ looks at the future of the
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPckZlNXl2WnpFQzhWOVFVV0RoVjJMX21NVDVxZlMtVXFoRXBsZzZGZXVEVDNjYjlobi1Nanh5VDd4RndxYWM3OWUzN2FMUG5HY0pxWkFhNVZBQmJpQUJtMmpsZHo1bENNYjdpVzNHSFh1UzR0QlpJblRqQTlETUNuZG5jR1BrWEk?oc=5
+- Kochhar & Co. Appoints Saswat Mohanty As Partner In Capital Markets And Securities Law Practice - Live Law
+  Kochhar & Co. Appoints Saswat Mohanty As
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NXZWZYSEY4ZUF2Q0RTSDU2TWFFQXNPVWNOWkdpeXFfeGEweGswYU5PUlpCRG1vUmVyYjNBckdjTHRNbE1NbVZUYUJYVy1FTW1qVmpkRklsQU42MlhxMGt5cnlGUy1TQUVPUjQzaTB6QVpCMU9YMUNjLTJ5eXU4M0JSUEhxaTZDd3BOckhpSkx1djczYnZ4UEJNVm9wZ2FESmNodmhHd3Y1MEpLaXVITGtlVGUwZmc4bGxTY2VqRm8yRTdxSEVRM1MyZ2pUem1ta2JOeFhtdy1sUXhfUFFPMmNn0gHnAUFVX3lxTE1TMnhXaXJEYkNiX0VEdFpNRVlMVmhCY2hfbGQtS0hSdWdqN1VBbXFzendlNDdSVVRMQng5eVhhek9MRzFMVlg4bTdnTXljN0R0TngtWnBNeFFId09EODE2Zkh0WnM0dVg1RkhxdVlIS0c2dFM4RVBTV2pXM1Y4R2RDVWdBZXdnSEVQcURrcGJ2WS1WOTRpME9WUGduUXlqbzBKUE5uSm9DemQ3SHc0WTA2bGJHelNDdGxGbktsYWlRRDB2cjJ4U1J0OVg4cC1leElYZEZpS3Jma3NwYmpfclR0OUhyVlh6MA?oc=5
 
 - 'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings - BBC
   'I lost $14,000 in a month': Investors
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQ3BpcWprV3luZkxwSnd2VGxiX3VCWG94eUJadl9TMDQyRWVmQWk2LV8zSzB0SGpaZ210Nl83VGNzOWhPWUY5MWUycjlhUER4YjJFVkQxSkxtUQ?oc=5
 
-- US stock: S&amp;P 500 ends lower as investors weigh data, Middle East tensions
-  The S&amp;P 500's streak came to an end as weaker retail sales suggested caution among consumers. Applied Materials saw its shares slump, dragging down AI-related stocks. Rising oil prices helped lift the energy index.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-500-ends-lower-as-investors-weigh-data-middle-east-tensions/articleshow/133251425.cms
+- Macro & Markets forecast edition: Long-Term Outlook Remains Negative for the USD - Nordea Corporate
+  Macro & Markets forecast edition: Long-Term Outlook
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXV2ZjcwRWhkRjZXTHRRdWpHR1k5VzRrT1p5eTNOa25kVkQzTUplZlVsOWtLaUo1RmJiR2N1OVlLYnRxUFlSUVMwYUNtNndYQk83ZzVQS3dLNDdMZmszMnVjTG5OSFJLR0dtRnVHWU5KN3l4OWpVbGRiaXc0NTBxOElhM05ZblJObG93d3lFOEpnWC1Bbm1MeVNkNDNZaE05N0xhQkFiQ05yclRwNktFZnhTa0EwMGxZUFk3ZVB3?oc=5
 
-- Nvidia’s $500 billion plan envelops Wall Street in its AI frenzy
-  N Nvidia has unveiled a major financing initiative aimed at supporting artificial intelligence chip acquisitions. By collaborating with prominent financial institutions, the plan seeks to provide substantial debt solutions tailored for AI startups.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-500-billion-plan-envelops-wall-street-in-its-ai-frenzy/articleshow/133249552.cms
+- Independence Day 2026: 4 stocks that have been part of Sensex since inception. Do you own any?
+  Reliance Industries, Hindustan Unilever, ITC and Larsen &amp; Toubro have been part of the Sensex since inception. Their journeys span
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/independence-day-2026-4-stocks-that-have-been-part-of-sensex-since-inception-do-you-own-any/slideshow/133257115.cms
 
-- How a $900 million bet on SpaceX turned 100x into $94 billion for Alphabet
-  Alphabet's initial $900 million SpaceX investment is now worth approximately $94 billion. This significant return makes Alphabet the largest institutional shareholder in the rocket company.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-a-900-million-bet-on-spacex-turned-100x-into-94-billion-for-alphabet/articleshow/133248581.cms
+- Three key milestones on the road to financial freedom
+  Financial freedom is built gradually through understanding, systematic investing and patience. Three milestones can help investors build wealth and stay disciplined through volatility.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/three-key-milestones-on-the-road-to-financial-freedom/articleshow/133256905.cms
 
-- Patanjali Foods Q1 Results: Gross profit rises 35% YoY to Rs 1,521 crore
-  Patanjali Foods posted strong Q1FY27 growth, with revenue rising 29.33%. Gross profit increased 35.22%, while the company declared two interim
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/patanjali-foods-q1-results-gross-profit-rises-35-yoy-to-rs-1521-crore/articleshow/133246238.cms
+- Dollar falls on surprise drop in US retail sales
+  In July, US retail sales surprisingly took a dip, leading to a decline in the dollar's value. This drop enabled the euro and sterling to soar to their highest levels in months against the greenback. softer inflation indicators have lowered the
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-falls-on-surprise-drop-in-us-retail-sales/articleshow/133256556.cms
 
-- Global Markets: Hotter Europe isn't cooling investor fervor for stocks
-  Paris, Frankfurt, Madrid and Milan exchanges all hit records in August. Heatwaves pummelling Europe this summer will have costly impacts on industries.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-hotter-europe-isnt-cooling-investor-fervor-for-stocks/articleshow/133245914.cms
+- Gold rises on weaker dollar as inflation data cements rate-hold bets
+  On Friday, gold prices moved upward, signaling a positive outlook for the week. The precious metal received a boost from a weaker dollar and stable inflation figures. Meanwhile, oil prices also showed weekly gains, influenced by escalating tensions in the Strait
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-weaker-dollar-as-inflation-data-cements-rate-hold-bets/articleshow/133256537.cms
 
-- Bangladesh PM Likely To Visit India Next Week, 1st Trip Since Assuming Power - NDTV
-  Bangladesh PM Likely To Visit India Next Week,
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTM1M0I1WDI0UnNkM1NWZHFMRHJLdF8taDNTZWxxcnM3QVAtbzF2RnIzY3Jpa2FYYUl2dk4tX0tITTFUQVJ1V2JNRUJPTXg3cjM0S25yekpCWThKdlZWcHVnR2hDYmFvWEJGM3ZhQkU1SEpQVXR5OEJXZEY4OVR6bmY1dTk4SWx6eThGTDBLaVM5NENyU1hIV19kU3paTjNobGZLZUMwZlRGSnM3dHgwU0hleWZ1Y09lZUNBMXlMTlZ4bHNYWWZNZ1hPQdIB0wFBVV95cUxQdUJmUmRtanFjYXpjNFg0SkEza0xzN0preDUtRDRDRGNneXFqdjZHTy1udXkwUWRpdTBsOGJoc1pIRWJzZWI1T2lnTDFsWFlQY0t6dG9PSGMwaXJURW9Pbm1Ob25tU2p5a19mMU80NnFyeXFnMld5U19KbUFjZkhNR1k1azJIRVlKNnlSdlNQTkl3UVZxQ0Z0SENhWjE2REwzZFBDUnplSnRNMEpsU0tycHdDbmdpckQ1T3VtQjlaNWNBQTR1ZVVlcGtKdjY0VGRLNy1Z?oc=5
+- Oil inches toward $90 on tanker attacks, lack of progress in Iran war peace deal
+  Brent crude closed at $88.52 a barrel while WTI crude settled at $82.40. Attacks within the Strait of Hormuz and disruptions at a Russian port led to a decline in shipping activity.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-inches-toward-90-on-tanker-attacks-lack-of-progress-in-iran-war-peace-deal/articleshow/133256494.cms
 
-- India news highlights, 14 August 2026: Reliance, Rolls-Royce to supply engines for India’s 5th-gen fighters - The Indian Express
-  Reliance, Rolls-Royce to supply engines for India’s
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamRYMThjLVFjMG0zY2tfcnF5UmxoVzA1a3Q0aGMweWNGdjhHM0QzRzRSbGlFSmFJSGVSeV9KNTdZcjBZSTJEUEdiVG1RWk5XMmY0bVdSalN6NzBocS1aeVUxN1dmU2ZMMElOcDZnc0pPUU1CLXl6VEtscDF6a2cybF9xRFVOZmpZX2NDaFA4MkZSeFVwdnpJTm9iZE90WUtLck5mejV5ZHV3YTJud21OcWFrQWJYRFcxQ2YzNmtuUTVydmhxLVBLUTdfbkg2QzJkaFhDcDdwYzhjU2R4TzNpNXRYOXJYbURXbFhkclBjYmpLTTZQVXfSAfwBQVVfeXFMT1QyVFRWWVJKZHAzYnpXU1JIY2RGUDVXZy0tQW51a0NrQktQX3NMZTl4dVd5b0F2b3FieTlVaC1qVmMteWdfWEZ1aWI1dXVsbkFacXpRbmk4WWd6dVdyQ21UY0lCWWRpeVZNMTF5bHd1VTN3SzJsakVOc1pBZFZkb0dBWk5kaHhWTjVhcTRPSkM0LUpEbzBiZ3NpdnBqOEthMTF6YVZGcUtZV2pXc1JWU2lrZDNDN1dMeExadVRpSE1ycHVMaUhCbVdlSGl5ZGR4VnlJSzg2d2NvMXltV25QQnUyUWVVNVZlTlNTdEtLUHQ5RTd3bHpPeldSTVla?oc=5
+- AI Training, Free Coaching: PM Modi's 6 Big Announcements On Independence Day - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLT
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLTNNUmpvWmpKUHduN095eUFGR0xmQkNkQmltTGNxamdUMHRjU3Q0TGJJa21YZlU5TlNOa1J4ak5SdjltRVRRMTYtUk1nbnhTd1JhWE4wY1pVMWIyaG1zWXZXUy1jYUFjSG5YaDloSUlMR0g5OGhSTDZEelVLU0NBaVRzRFQ4OVRxYWlUV3FvWGlKNnZxNUxiZHdBU0I4eTY5RHJ6TDgyajNRZnVtcmFzYzl30gGaAkFVX3lxTE1kclhfR3N0ZWhhSTB4cnIyNVVNNFE1TUttMjB2eFRKdGxkeGd5NW9SV0h2ejllNHV1NEcxeHF4Tmd6ZG80TTctVW11TC05YklvWURFb3dYSHV4R3I5YmhOZDI2RV9yOEJuelBBU2Y3S3l0dUNDS01pX0xWbGZxYmxXeEFMRXRUOFZoYmdrZ292ZzJCd05nUXk2MXpWUXp0OE5iZm1wVTdQb1Q0VTVHUkZ5ZWJWSGFXbkVWZ3hSNmRYT281M2hQNEZTd0xuOEY3QmlqRV83R2ptNGM1SzdVX1hLTExCUlF3Qi13Y0E4UHZsVE9Pd3lzMWxBRVlSZmUzcHoxWG1WLWdlZG9EcU54MzJiZk9zQi1PVEtvZw?oc=5
 
-- India play 600th Test at Galle: What happened in 1st, 100th, 200th, 300th, 400th and 500th Tests? - The Times of India
-  India play 600th Test at Galle: What happened in 1st, 100th,
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFNSa09VaUVocktpYmgwUVpPT21UdXlnN0gxbTNHSktFUzRnRWZvQnFqb2tpMmt4S0ctRnNWM0JEWXVKNTYzTUZnQXd3U1FUczFCMW9ESlZwTHpKaTljTGNLS2tUdUlHdVQ3X1pzclNsS0VkSnJaR2c3YmtlckRnd2RPZWdPeTZsQVRkc1dlaVZfSTdIYzF0eC1EOWZlMjYwUlJ0dFo2SzFtclU3cmgtM0FILWRUWlFxaDVZckZ0eW03U0NlMWpjQm5CU2xlYlpLUWJZNXpPNlJ1WjBzVHR6a09hYU5ja2xXOHZQRlVYX1Y2OHlHcVZiZTJsVDZHdlNkQTNv0gGIAkFVX3lxTE0zZGxSWnUtd0lMOTZSR1dKNlRFWWEtc0tXUDdxMTZid0txbDhLSXI1SGRhSGdoNGl4M21heHVORjA5SmlmNkR2RkFoeFZJamxza19LR29VbXByUTBQbWdKM2NqUXZJbVNQSXdTZy1NSUpCU0FCNjdQUFpGZXA3OE56OFZwUnl2OTZkYlFxZkJQWG5saXplNkU4ejZLQUViY2VpN0lCT2VKeHM2eHV2M0Q0M0RXWTNpRGlYWTc0N250MC1CcWtHdWNiV0dwM3pyYmJuZl8yb01ZSHVmRjVURm9jMERyck5xdkdZeVl5ZldWdWdhRUpUU3RKUlotdUtSZV9pemNoU3Q0VA?oc=5
+- Shoutout To Gen Z, Warning For Rivals In Vijay's First Independence Day Speech - NDTV
+  Vijay's first Independence Day speech was a warning
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0ZFVzBsZS1sQ3JNa2drcXBoMVNtZDhkMUxMNlFwRjBaUUtsdFA4SUc0N0ZFSHY1bTg1a3VCbm1QVUNsNFV5Y3NlQXFPeEVOcXVVdjBRaEhsX1Vhbkgyc1hzQVoxQWZVVXczZjRUb0NRMnZHSHBTdWJzUVdwSU9mNlZUVEpuVmxrWVdwZmJzM1pFY3FuMG1ibmVUV2FFUFBmM0dvX0hSNndGc1lVcENyZlJ5QzBEMDNkQ3hoVW5aUUtCSXpmdVlpcGtOVXYwTW1MUzBLc3J30gHeAUFVX3lxTE16TUZ2TWxaZDc5WEZKZTZHNzQwOHU5M1ZReFh2SGwxWXRRaFdGNFNDd0F2ajZJaTFtY1VIS1VPZUM2dnRBb04wV0RaQmxzdWhlaWt0bDIzV1ZEZHVLblA2blFfczlxWEJ2MVJ4UTBJWGRJRDlwQ05NN2FJMkxYWnVXVWtna2FKZkU4Rm9RdlhRVi1wU3FNTnYxdF9PR1hfb09Nb1k4UXBPMl82OTBjd0R2ZzNfeHI0TjlvdUg2ejlOQ3IxMlV1RVl5WkFHQmt4aGFpdGkwQ3VVS2NtYjdSUQ?oc=5
 
-- 80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News - Hindustan Times
-  80 years free, India’s biggest independence challenge is its bureaucracy with
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOenhiQTA4emswdVk2M2ZMRExpOFc4RktWekpVbjVvczVnVUpUUHRWWENKWmZHeXkxM3dpMmFlVGdmRUJIQ3Nmb0JvYVVXXzhKZm92dFF3LVZQTzBJT19ER3R3Y3hzdmc2M3FqczgzUlFHXzVKOGZFOUpJZVgwX0RScC0tNkZYRnpPNXN3b0F2UXFESzZRWkRKUE43Z2ZCclJhZlhWcjZMUG9haXJFNnY4TlJUS1ZJc21rQm1UbEJnR3NaN3otUWh3SlREMlVmZnRTMmZzbDQxMm1oNUY4MGhBX3p2YkJiQ3gzNlBNLdIB8gFBVV95cUxNclJHTHhFOWZJTDk4bXBCZU1ENTh0UU55RWVSNHZEQW93YzJ6OWdnN0hhQ0Z3VUpzeWhWTmY0UWt4OU1rczA4dEdMSjlHLVhISF9EQ2doYWJER1VtQ3Z5dEM4Sy1ocFdVdF9rM3BPX0Mwb2R4R0xjSHZhcHlTY2JrVjRGTkdxc1AyeHpLektWWUtJck5hX1R3UzlxSGNjSVFQb1hYdTc1bWVMdDFaY2F5SjVrZ2JfYS02ZTR6NjY2RXUtNDlfcWF5ME5zZ3VZYW9sUnFWRUc3S3NMOGVVNS04STY1ZE9LelRsU3RfUnllSUFHZw?oc=5
+- 103 Indian Railway Stations To Host "Station Mahotsav" Between August And September - NDTV
+  103 Indian Railway Stations To Host "Station Mah
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWtFTU5IN3ZYOENIRGhMTElXWTRsdHJZOF9NMFpPeDNHOVJQQWpiWE5zQXhkbDVlX2E5MnlPbngzSFB3LXJubGxtLTNpenRCanlfMnhSNkQ1Q3pNZDFIbkVfbk1GZE9YVXdHd2YzMU91NUdqMXA0ZDhtS1FGdzgxS1J6aHRDMzdCdzFXblVhdTVnQUZ3Z2p3U3d5cXBkdHJFc3BpemdaSnpKU3hPTnJBN2xhcmvSAbwBQVVfeXFMUEUxdGFoRm9NTmtlcy1nS1ZGX1h0OU05RU1DMnAxZVlDWGVZNDEwemVPYU5yS1ZrUVljbzZPekJhOENPTl9PQ3RoVi14NXJTWXZtLVVBWjdsR0VQclNEdW1BalFYVEh4aXNmQ3V3YTRQRndydWVhUmlFRVVteE9QbVRtaWdVU2J3cUxKcGpLV2lfOUF3bDJQN1FWaWZaNFJwbDFUa0lKc0ZSX3IxVnUtTThnZEw4aFRtTkVUb0g?oc=5
 
-- India Ushers In 80th Independence Day, PM Modi To Address Nation From Red Fort - NDTV
-  India Ushers In 80th Independence Day, PM Modi To
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQamltNElqZDZfS0tWLXFkY2V0T195RlZzMFA3WHNsSVFGMlVxeGV5Z05jWW9yeVFXOThLcTBzTjllbmxYd0VyNFdEaVdETFpSUnBYeXdMN19PbEVWMFRfNHRnUVd6MVFUanVkaTlOcGFCQ21NTzVKMGp1N0JUWUJzSU5aTUd6ZlRGUkdtTXBLaTdzTEkzU1VGb3JIcmREcld3SXNUTFU5TnlKMGczVVU4aFhRV0M2ek5zNnfSAcIBQVVfeXFMUE9zaW8wV1lOdVZEbGJ5Q3VYS0w2d0FoX2VmaDdmVTk4VERXaHoxODhVRm1hSDdFZC1vUVBveS04Qk15NkFLN2tqVWZqV3VDemdweHoyNWdoaUZsVnZVMUVDOXk3LXBhb2o3SGRTbnJ5dVNGekg0Zkg4ZG1FQW9BYWNSVV9Tb0pEQWVYX1EtUDdLTzVOaVFVYkNINDI2N1hTYmdBOU4yaVVCTENsYUQ3WEJwWkhNclozZGxIbkhGbVlaUXc?oc=5
+- 'The Great Transshipment Scam': India Among 40 Nations Aiding China's Tarrif Evasion, Says US - The Times of India
+  'The Great Transshipment Scam': India Among 40 Nations Aiding
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVzRKVDdtMkdBZnF3SThDc21jZzl4NzVXYkxjVElub0hYeEZkZHlhOUlkbE05UHcwd0Q3TUJmRVB6R2p4QUZOeDFVX2JPOUNsNkowS2ZxM0dkR1FjWXNlMk4xQnNaZEFWLV81cE1hYmp1eEhVM25wVF9kWWlyOUlQUnpmUnpvTmh2SDNUWjJScHpxM0J0RXg4NnRCX0pTMVhkV1BWR2ZkVjJzSmNZQjFLME5YS1A4Y1VzQjVZVTNHbTF2NFAtbllOOE5sbzBqSngtU3FoS05zVWZZT0RWY2lyVUd6VlhEd29uaUFkaE51UXlLd9IB9wFBVV95cUxPZTRIMEpEcW5LMlZtc2xwR1k1bDlZeU9QTlVjcWlBSlE1cWZ1ZGhtMUpKMEhiWnp2MF81d3U2cDl0OV9COS1kQXZiOFowTE5saVg5Z2pka25GODNvcnRlWjRnR2hFODNHR05VZlZoVEFiN254T3lEY0ZGNmNjZzdqUE1nWi1xNWVPUS16NW9vZ19LZ3ZDM0RHYTZZNDBoYkdEak9uYU1hbmpDYXdpTEJsekgwaE14U3lfbEdSbEhtbThlSUdobEpheWUxUEVnNUhqXzdaTXNzZC1OTkdKTXhnZnFNcTRrYTc1bFUwOUQwanNHaEo0U2NZ?oc=5
+
+- NALSAR student body now demands apology from Bar Council chairman - The Indian Express
+  NALSAR student body now demands apology from Bar
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1hnTkhya0VOX0thM29mcHc4N2pLd21oTVp3c29jbS1RQnd1N055Z1ZfRlp1RElNS0dLQ2pPdjUwaXZQcmQtTUhCOFBDc2F6dzlzZmdMX1plRXE2UkdVLUxDbEFtOG9RN0REaWxVSGx2Z19ZaEl4dnViVVVyWERHYVlMNkJhbE1BbVpWNjVGTlBCRG12QTFEOVNXcDdwcnVLVkwyOWNYY9IBrgFBVV95cUxPTk1tdGIzWjZXdllQOGktekdzOWpKMnhCZC00RG1GdEV6Q3lJQTJ4YmFzT0RudnBVMVBXc0xydzRKSlZuMlF2MzQxWjhZVktwdmR6VlU3RVhUOEtFbjV0dzZHTlV1WWdSaGQ4RVM4dXFMa1V3RlZaS0J1LVN6OU1vNnBGYzVZYzFWU3diTVVKT1lDbXZxWHVvV0RwMUs3dkNfbU5QeW5ZUlBTZGxPSEE?oc=5
+
+- Indian Unicorn Tracker: Funding, Investors, Revenue And More
+  The year 2026 began on a strong note for India’s startup ecosystem, with Juspay becoming the first unicorn of the year.
+  🔗 https://inc42.com/features/indian-unicorn-tracker-funding-investors-revenue-and-more/
+
+- AI Startups To Watch: 5 Startups That Caught Our Eye In August
+  India’s AI story has grown beyond building an Indian equivalent of ChatGPT. The current phase is about building the infrastructure.
+  🔗 https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-august/
+
+- From Yulu To Discovered Materials — Indian Startups Raised $140 Mn This Week
+  Indian startup funding activity remained muted in the second week of August. Astrology platform AstroTalk joined the unicorn club.
+  🔗 https://inc42.com/buzz/from-yulu-to-discovered-materials-indian-startups-raised-140-mn-this-week/
 
 - Atomberg To Form JV With Voltas To Manufacture AC Compressors
   Atomberg To Form JV With Voltas To Manufacture AC Compressors.
@@ -168,57 +180,45 @@
   US-based WeWork Inc yesterday offloaded WeWork India shares worth ₹244.1 Cr via multiple open-market transactions.
   🔗 https://inc42.com/buzz/wework-inc-sells-2-5-stake-in-wework-india-for-%e2%82%b9244-cr/
 
-- Maharashtra FDA Suspends Licences of 14 Dark Stores Of Blinkit, Zepto & Instamart
-  Maha Suspends Licences of 14 Stores Of Blinkit, Zepto &amp; Instamart.
-  🔗 https://inc42.com/buzz/maharashtra-fda-suspends-licences-of-14-dark-stores-of-blinkit-zepto-instamart/
+- AI Training, Free Coaching: PM Modi's 6 Big Announcements On Independence Day - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLT
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLTNNUmpvWmpKUHduN095eUFGR0xmQkNkQmltTGNxamdUMHRjU3Q0TGJJa21YZlU5TlNOa1J4ak5SdjltRVRRMTYtUk1nbnhTd1JhWE4wY1pVMWIyaG1zWXZXUy1jYUFjSG5YaDloSUlMR0g5OGhSTDZEelVLU0NBaVRzRFQ4OVRxYWlUV3FvWGlKNnZxNUxiZHdBU0I4eTY5RHJ6TDgyajNRZnVtcmFzYzl30gGaAkFVX3lxTE1kclhfR3N0ZWhhSTB4cnIyNVVNNFE1TUttMjB2eFRKdGxkeGd5NW9SV0h2ejllNHV1NEcxeHF4Tmd6ZG80TTctVW11TC05YklvWURFb3dYSHV4R3I5YmhOZDI2RV9yOEJuelBBU2Y3S3l0dUNDS01pX0xWbGZxYmxXeEFMRXRUOFZoYmdrZ292ZzJCd05nUXk2MXpWUXp0OE5iZm1wVTdQb1Q0VTVHUkZ5ZWJWSGFXbkVWZ3hSNmRYT281M2hQNEZTd0xuOEY3QmlqRV83R2ptNGM1SzdVX1hLTExCUlF3Qi13Y0E4UHZsVE9Pd3lzMWxBRVlSZmUzcHoxWG1WLWdlZG9EcU54MzJiZk9zQi1PVEtvZw?oc=5
 
-- [Update] Shiprocket IPO Closes With 99.38X Oversubscription
-  Shiprocket’s public issue closed with an oversubscription of 99.38X, with investors bidding for 938.53
-  🔗 https://inc42.com/buzz/shiprocket-ipo-subscribed-25-8x-so-far-on-final-day-of-bidding/
+- Shoutout To Gen Z, Warning For Rivals In Vijay's First Independence Day Speech - NDTV
+  Vijay's first Independence Day speech was a warning
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0ZFVzBsZS1sQ3JNa2drcXBoMVNtZDhkMUxMNlFwRjBaUUtsdFA4SUc0N0ZFSHY1bTg1a3VCbm1QVUNsNFV5Y3NlQXFPeEVOcXVVdjBRaEhsX1Vhbkgyc1hzQVoxQWZVVXczZjRUb0NRMnZHSHBTdWJzUVdwSU9mNlZUVEpuVmxrWVdwZmJzM1pFY3FuMG1ibmVUV2FFUFBmM0dvX0hSNndGc1lVcENyZlJ5QzBEMDNkQ3hoVW5aUUtCSXpmdVlpcGtOVXYwTW1MUzBLc3J30gHeAUFVX3lxTE16TUZ2TWxaZDc5WEZKZTZHNzQwOHU5M1ZReFh2SGwxWXRRaFdGNFNDd0F2ajZJaTFtY1VIS1VPZUM2dnRBb04wV0RaQmxzdWhlaWt0bDIzV1ZEZHVLblA2blFfczlxWEJ2MVJ4UTBJWGRJRDlwQ05NN2FJMkxYWnVXVWtna2FKZkU4Rm9RdlhRVi1wU3FNTnYxdF9PR1hfb09Nb1k4UXBPMl82OTBjd0R2ZzNfeHI0TjlvdUg2ejlOQ3IxMlV1RVl5WkFHQmt4aGFpdGkwQ3VVS2NtYjdSUQ?oc=5
 
-- Redcliffe Labs, Skyroot Partner To Test Diagnostic Reagents In Space
-  Redcliffe Labs, Skyroot Partner To Test Diagnostic Reagents In Space.
-  🔗 https://inc42.com/buzz/redcliffe-labs-skyroot-partner-to-test-diagnostic-reagents-in-space/
+- 103 Indian Railway Stations To Host "Station Mahotsav" Between August And September - NDTV
+  103 Indian Railway Stations To Host "Station Mah
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWtFTU5IN3ZYOENIRGhMTElXWTRsdHJZOF9NMFpPeDNHOVJQQWpiWE5zQXhkbDVlX2E5MnlPbngzSFB3LXJubGxtLTNpenRCanlfMnhSNkQ1Q3pNZDFIbkVfbk1GZE9YVXdHd2YzMU91NUdqMXA0ZDhtS1FGdzgxS1J6aHRDMzdCdzFXblVhdTVnQUZ3Z2p3U3d5cXBkdHJFc3BpemdaSnpKU3hPTnJBN2xhcmvSAbwBQVVfeXFMUEUxdGFoRm9NTmtlcy1nS1ZGX1h0OU05RU1DMnAxZVlDWGVZNDEwemVPYU5yS1ZrUVljbzZPekJhOENPTl9PQ3RoVi14NXJTWXZtLVVBWjdsR0VQclNEdW1BalFYVEh4aXNmQ3V3YTRQRndydWVhUmlFRVVteE9QbVRtaWdVU2J3cUxKcGpLV2lfOUF3bDJQN1FWaWZaNFJwbDFUa0lKc0ZSX3IxVnUtTThnZEw4aFRtTkVUb0g?oc=5
 
-- Bangladesh PM Likely To Visit India Next Week, 1st Trip Since Assuming Power - NDTV
-  Bangladesh PM Likely To Visit India Next Week,
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTM1M0I1WDI0UnNkM1NWZHFMRHJLdF8taDNTZWxxcnM3QVAtbzF2RnIzY3Jpa2FYYUl2dk4tX0tITTFUQVJ1V2JNRUJPTXg3cjM0S25yekpCWThKdlZWcHVnR2hDYmFvWEJGM3ZhQkU1SEpQVXR5OEJXZEY4OVR6bmY1dTk4SWx6eThGTDBLaVM5NENyU1hIV19kU3paTjNobGZLZUMwZlRGSnM3dHgwU0hleWZ1Y09lZUNBMXlMTlZ4bHNYWWZNZ1hPQdIB0wFBVV95cUxQdUJmUmRtanFjYXpjNFg0SkEza0xzN0preDUtRDRDRGNneXFqdjZHTy1udXkwUWRpdTBsOGJoc1pIRWJzZWI1T2lnTDFsWFlQY0t6dG9PSGMwaXJURW9Pbm1Ob25tU2p5a19mMU80NnFyeXFnMld5U19KbUFjZkhNR1k1azJIRVlKNnlSdlNQTkl3UVZxQ0Z0SENhWjE2REwzZFBDUnplSnRNMEpsU0tycHdDbmdpckQ1T3VtQjlaNWNBQTR1ZVVlcGtKdjY0VGRLNy1Z?oc=5
+- 'The Great Transshipment Scam': India Among 40 Nations Aiding China's Tarrif Evasion, Says US - The Times of India
+  'The Great Transshipment Scam': India Among 40 Nations Aiding
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVzRKVDdtMkdBZnF3SThDc21jZzl4NzVXYkxjVElub0hYeEZkZHlhOUlkbE05UHcwd0Q3TUJmRVB6R2p4QUZOeDFVX2JPOUNsNkowS2ZxM0dkR1FjWXNlMk4xQnNaZEFWLV81cE1hYmp1eEhVM25wVF9kWWlyOUlQUnpmUnpvTmh2SDNUWjJScHpxM0J0RXg4NnRCX0pTMVhkV1BWR2ZkVjJzSmNZQjFLME5YS1A4Y1VzQjVZVTNHbTF2NFAtbllOOE5sbzBqSngtU3FoS05zVWZZT0RWY2lyVUd6VlhEd29uaUFkaE51UXlLd9IB9wFBVV95cUxPZTRIMEpEcW5LMlZtc2xwR1k1bDlZeU9QTlVjcWlBSlE1cWZ1ZGhtMUpKMEhiWnp2MF81d3U2cDl0OV9COS1kQXZiOFowTE5saVg5Z2pka25GODNvcnRlWjRnR2hFODNHR05VZlZoVEFiN254T3lEY0ZGNmNjZzdqUE1nWi1xNWVPUS16NW9vZ19LZ3ZDM0RHYTZZNDBoYkdEak9uYU1hbmpDYXdpTEJsekgwaE14U3lfbEdSbEhtbThlSUdobEpheWUxUEVnNUhqXzdaTXNzZC1OTkdKTXhnZnFNcTRrYTc1bFUwOUQwanNHaEo0U2NZ?oc=5
 
-- India news highlights, 14 August 2026: Reliance, Rolls-Royce to supply engines for India’s 5th-gen fighters - The Indian Express
-  Reliance, Rolls-Royce to supply engines for India’s
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamRYMThjLVFjMG0zY2tfcnF5UmxoVzA1a3Q0aGMweWNGdjhHM0QzRzRSbGlFSmFJSGVSeV9KNTdZcjBZSTJEUEdiVG1RWk5XMmY0bVdSalN6NzBocS1aeVUxN1dmU2ZMMElOcDZnc0pPUU1CLXl6VEtscDF6a2cybF9xRFVOZmpZX2NDaFA4MkZSeFVwdnpJTm9iZE90WUtLck5mejV5ZHV3YTJud21OcWFrQWJYRFcxQ2YzNmtuUTVydmhxLVBLUTdfbkg2QzJkaFhDcDdwYzhjU2R4TzNpNXRYOXJYbURXbFhkclBjYmpLTTZQVXfSAfwBQVVfeXFMT1QyVFRWWVJKZHAzYnpXU1JIY2RGUDVXZy0tQW51a0NrQktQX3NMZTl4dVd5b0F2b3FieTlVaC1qVmMteWdfWEZ1aWI1dXVsbkFacXpRbmk4WWd6dVdyQ21UY0lCWWRpeVZNMTF5bHd1VTN3SzJsakVOc1pBZFZkb0dBWk5kaHhWTjVhcTRPSkM0LUpEbzBiZ3NpdnBqOEthMTF6YVZGcUtZV2pXc1JWU2lrZDNDN1dMeExadVRpSE1ycHVMaUhCbVdlSGl5ZGR4VnlJSzg2d2NvMXltV25QQnUyUWVVNVZlTlNTdEtLUHQ5RTd3bHpPeldSTVla?oc=5
+- NALSAR student body now demands apology from Bar Council chairman - The Indian Express
+  NALSAR student body now demands apology from Bar
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1hnTkhya0VOX0thM29mcHc4N2pLd21oTVp3c29jbS1RQnd1N055Z1ZfRlp1RElNS0dLQ2pPdjUwaXZQcmQtTUhCOFBDc2F6dzlzZmdMX1plRXE2UkdVLUxDbEFtOG9RN0REaWxVSGx2Z19ZaEl4dnViVVVyWERHYVlMNkJhbE1BbVpWNjVGTlBCRG12QTFEOVNXcDdwcnVLVkwyOWNYY9IBrgFBVV95cUxPTk1tdGIzWjZXdllQOGktekdzOWpKMnhCZC00RG1GdEV6Q3lJQTJ4YmFzT0RudnBVMVBXc0xydzRKSlZuMlF2MzQxWjhZVktwdmR6VlU3RVhUOEtFbjV0dzZHTlV1WWdSaGQ4RVM4dXFMa1V3RlZaS0J1LVN6OU1vNnBGYzVZYzFWU3diTVVKT1lDbXZxWHVvV0RwMUs3dkNfbU5QeW5ZUlBTZGxPSEE?oc=5
 
-- India play 600th Test at Galle: What happened in 1st, 100th, 200th, 300th, 400th and 500th Tests? - The Times of India
-  India play 600th Test at Galle: What happened in 1st, 100th,
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFNSa09VaUVocktpYmgwUVpPT21UdXlnN0gxbTNHSktFUzRnRWZvQnFqb2tpMmt4S0ctRnNWM0JEWXVKNTYzTUZnQXd3U1FUczFCMW9ESlZwTHpKaTljTGNLS2tUdUlHdVQ3X1pzclNsS0VkSnJaR2c3YmtlckRnd2RPZWdPeTZsQVRkc1dlaVZfSTdIYzF0eC1EOWZlMjYwUlJ0dFo2SzFtclU3cmgtM0FILWRUWlFxaDVZckZ0eW03U0NlMWpjQm5CU2xlYlpLUWJZNXpPNlJ1WjBzVHR6a09hYU5ja2xXOHZQRlVYX1Y2OHlHcVZiZTJsVDZHdlNkQTNv0gGIAkFVX3lxTE0zZGxSWnUtd0lMOTZSR1dKNlRFWWEtc0tXUDdxMTZid0txbDhLSXI1SGRhSGdoNGl4M21heHVORjA5SmlmNkR2RkFoeFZJamxza19LR29VbXByUTBQbWdKM2NqUXZJbVNQSXdTZy1NSUpCU0FCNjdQUFpGZXA3OE56OFZwUnl2OTZkYlFxZkJQWG5saXplNkU4ejZLQUViY2VpN0lCT2VKeHM2eHV2M0Q0M0RXWTNpRGlYWTc0N250MC1CcWtHdWNiV0dwM3pyYmJuZl8yb01ZSHVmRjVURm9jMERyck5xdkdZeVl5ZldWdWdhRUpUU3RKUlotdUtSZV9pemNoU3Q0VA?oc=5
+- AI Training, Free Coaching: PM Modi's 6 Big Announcements On Independence Day - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLT
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLTNNUmpvWmpKUHduN095eUFGR0xmQkNkQmltTGNxamdUMHRjU3Q0TGJJa21YZlU5TlNOa1J4ak5SdjltRVRRMTYtUk1nbnhTd1JhWE4wY1pVMWIyaG1zWXZXUy1jYUFjSG5YaDloSUlMR0g5OGhSTDZEelVLU0NBaVRzRFQ4OVRxYWlUV3FvWGlKNnZxNUxiZHdBU0I4eTY5RHJ6TDgyajNRZnVtcmFzYzl30gGaAkFVX3lxTE1kclhfR3N0ZWhhSTB4cnIyNVVNNFE1TUttMjB2eFRKdGxkeGd5NW9SV0h2ejllNHV1NEcxeHF4Tmd6ZG80TTctVW11TC05YklvWURFb3dYSHV4R3I5YmhOZDI2RV9yOEJuelBBU2Y3S3l0dUNDS01pX0xWbGZxYmxXeEFMRXRUOFZoYmdrZ292ZzJCd05nUXk2MXpWUXp0OE5iZm1wVTdQb1Q0VTVHUkZ5ZWJWSGFXbkVWZ3hSNmRYT281M2hQNEZTd0xuOEY3QmlqRV83R2ptNGM1SzdVX1hLTExCUlF3Qi13Y0E4UHZsVE9Pd3lzMWxBRVlSZmUzcHoxWG1WLWdlZG9EcU54MzJiZk9zQi1PVEtvZw?oc=5
 
-- 80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News - Hindustan Times
-  80 years free, India’s biggest independence challenge is its bureaucracy with
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOenhiQTA4emswdVk2M2ZMRExpOFc4RktWekpVbjVvczVnVUpUUHRWWENKWmZHeXkxM3dpMmFlVGdmRUJIQ3Nmb0JvYVVXXzhKZm92dFF3LVZQTzBJT19ER3R3Y3hzdmc2M3FqczgzUlFHXzVKOGZFOUpJZVgwX0RScC0tNkZYRnpPNXN3b0F2UXFESzZRWkRKUE43Z2ZCclJhZlhWcjZMUG9haXJFNnY4TlJUS1ZJc21rQm1UbEJnR3NaN3otUWh3SlREMlVmZnRTMmZzbDQxMm1oNUY4MGhBX3p2YkJiQ3gzNlBNLdIB8gFBVV95cUxNclJHTHhFOWZJTDk4bXBCZU1ENTh0UU55RWVSNHZEQW93YzJ6OWdnN0hhQ0Z3VUpzeWhWTmY0UWt4OU1rczA4dEdMSjlHLVhISF9EQ2doYWJER1VtQ3Z5dEM4Sy1ocFdVdF9rM3BPX0Mwb2R4R0xjSHZhcHlTY2JrVjRGTkdxc1AyeHpLektWWUtJck5hX1R3UzlxSGNjSVFQb1hYdTc1bWVMdDFaY2F5SjVrZ2JfYS02ZTR6NjY2RXUtNDlfcWF5ME5zZ3VZYW9sUnFWRUc3S3NMOGVVNS04STY1ZE9LelRsU3RfUnllSUFHZw?oc=5
+- Shoutout To Gen Z, Warning For Rivals In Vijay's First Independence Day Speech - NDTV
+  Vijay's first Independence Day speech was a warning
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0ZFVzBsZS1sQ3JNa2drcXBoMVNtZDhkMUxMNlFwRjBaUUtsdFA4SUc0N0ZFSHY1bTg1a3VCbm1QVUNsNFV5Y3NlQXFPeEVOcXVVdjBRaEhsX1Vhbkgyc1hzQVoxQWZVVXczZjRUb0NRMnZHSHBTdWJzUVdwSU9mNlZUVEpuVmxrWVdwZmJzM1pFY3FuMG1ibmVUV2FFUFBmM0dvX0hSNndGc1lVcENyZlJ5QzBEMDNkQ3hoVW5aUUtCSXpmdVlpcGtOVXYwTW1MUzBLc3J30gHeAUFVX3lxTE16TUZ2TWxaZDc5WEZKZTZHNzQwOHU5M1ZReFh2SGwxWXRRaFdGNFNDd0F2ajZJaTFtY1VIS1VPZUM2dnRBb04wV0RaQmxzdWhlaWt0bDIzV1ZEZHVLblA2blFfczlxWEJ2MVJ4UTBJWGRJRDlwQ05NN2FJMkxYWnVXVWtna2FKZkU4Rm9RdlhRVi1wU3FNTnYxdF9PR1hfb09Nb1k4UXBPMl82OTBjd0R2ZzNfeHI0TjlvdUg2ejlOQ3IxMlV1RVl5WkFHQmt4aGFpdGkwQ3VVS2NtYjdSUQ?oc=5
 
-- India Ushers In 80th Independence Day, PM Modi To Address Nation From Red Fort - NDTV
-  India Ushers In 80th Independence Day, PM Modi To
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQamltNElqZDZfS0tWLXFkY2V0T195RlZzMFA3WHNsSVFGMlVxeGV5Z05jWW9yeVFXOThLcTBzTjllbmxYd0VyNFdEaVdETFpSUnBYeXdMN19PbEVWMFRfNHRnUVd6MVFUanVkaTlOcGFCQ21NTzVKMGp1N0JUWUJzSU5aTUd6ZlRGUkdtTXBLaTdzTEkzU1VGb3JIcmREcld3SXNUTFU5TnlKMGczVVU4aFhRV0M2ek5zNnfSAcIBQVVfeXFMUE9zaW8wV1lOdVZEbGJ5Q3VYS0w2d0FoX2VmaDdmVTk4VERXaHoxODhVRm1hSDdFZC1vUVBveS04Qk15NkFLN2tqVWZqV3VDemdweHoyNWdoaUZsVnZVMUVDOXk3LXBhb2o3SGRTbnJ5dVNGekg0Zkg4ZG1FQW9BYWNSVV9Tb0pEQWVYX1EtUDdLTzVOaVFVYkNINDI2N1hTYmdBOU4yaVVCTENsYUQ3WEJwWkhNclozZGxIbkhGbVlaUXc?oc=5
+- 103 Indian Railway Stations To Host "Station Mahotsav" Between August And September - NDTV
+  103 Indian Railway Stations To Host "Station Mah
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWtFTU5IN3ZYOENIRGhMTElXWTRsdHJZOF9NMFpPeDNHOVJQQWpiWE5zQXhkbDVlX2E5MnlPbngzSFB3LXJubGxtLTNpenRCanlfMnhSNkQ1Q3pNZDFIbkVfbk1GZE9YVXdHd2YzMU91NUdqMXA0ZDhtS1FGdzgxS1J6aHRDMzdCdzFXblVhdTVnQUZ3Z2p3U3d5cXBkdHJFc3BpemdaSnpKU3hPTnJBN2xhcmvSAbwBQVVfeXFMUEUxdGFoRm9NTmtlcy1nS1ZGX1h0OU05RU1DMnAxZVlDWGVZNDEwemVPYU5yS1ZrUVljbzZPekJhOENPTl9PQ3RoVi14NXJTWXZtLVVBWjdsR0VQclNEdW1BalFYVEh4aXNmQ3V3YTRQRndydWVhUmlFRVVteE9QbVRtaWdVU2J3cUxKcGpLV2lfOUF3bDJQN1FWaWZaNFJwbDFUa0lKc0ZSX3IxVnUtTThnZEw4aFRtTkVUb0g?oc=5
 
-- Bangladesh PM Likely To Visit India Next Week, 1st Trip Since Assuming Power - NDTV
-  Bangladesh PM Likely To Visit India Next Week,
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRTM1M0I1WDI0UnNkM1NWZHFMRHJLdF8taDNTZWxxcnM3QVAtbzF2RnIzY3Jpa2FYYUl2dk4tX0tITTFUQVJ1V2JNRUJPTXg3cjM0S25yekpCWThKdlZWcHVnR2hDYmFvWEJGM3ZhQkU1SEpQVXR5OEJXZEY4OVR6bmY1dTk4SWx6eThGTDBLaVM5NENyU1hIV19kU3paTjNobGZLZUMwZlRGSnM3dHgwU0hleWZ1Y09lZUNBMXlMTlZ4bHNYWWZNZ1hPQdIB0wFBVV95cUxQdUJmUmRtanFjYXpjNFg0SkEza0xzN0preDUtRDRDRGNneXFqdjZHTy1udXkwUWRpdTBsOGJoc1pIRWJzZWI1T2lnTDFsWFlQY0t6dG9PSGMwaXJURW9Pbm1Ob25tU2p5a19mMU80NnFyeXFnMld5U19KbUFjZkhNR1k1azJIRVlKNnlSdlNQTkl3UVZxQ0Z0SENhWjE2REwzZFBDUnplSnRNMEpsU0tycHdDbmdpckQ1T3VtQjlaNWNBQTR1ZVVlcGtKdjY0VGRLNy1Z?oc=5
+- 'The Great Transshipment Scam': India Among 40 Nations Aiding China's Tarrif Evasion, Says US - The Times of India
+  'The Great Transshipment Scam': India Among 40 Nations Aiding
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVzRKVDdtMkdBZnF3SThDc21jZzl4NzVXYkxjVElub0hYeEZkZHlhOUlkbE05UHcwd0Q3TUJmRVB6R2p4QUZOeDFVX2JPOUNsNkowS2ZxM0dkR1FjWXNlMk4xQnNaZEFWLV81cE1hYmp1eEhVM25wVF9kWWlyOUlQUnpmUnpvTmh2SDNUWjJScHpxM0J0RXg4NnRCX0pTMVhkV1BWR2ZkVjJzSmNZQjFLME5YS1A4Y1VzQjVZVTNHbTF2NFAtbllOOE5sbzBqSngtU3FoS05zVWZZT0RWY2lyVUd6VlhEd29uaUFkaE51UXlLd9IB9wFBVV95cUxPZTRIMEpEcW5LMlZtc2xwR1k1bDlZeU9QTlVjcWlBSlE1cWZ1ZGhtMUpKMEhiWnp2MF81d3U2cDl0OV9COS1kQXZiOFowTE5saVg5Z2pka25GODNvcnRlWjRnR2hFODNHR05VZlZoVEFiN254T3lEY0ZGNmNjZzdqUE1nWi1xNWVPUS16NW9vZ19LZ3ZDM0RHYTZZNDBoYkdEak9uYU1hbmpDYXdpTEJsekgwaE14U3lfbEdSbEhtbThlSUdobEpheWUxUEVnNUhqXzdaTXNzZC1OTkdKTXhnZnFNcTRrYTc1bFUwOUQwanNHaEo0U2NZ?oc=5
 
-- India news highlights, 14 August 2026: Reliance, Rolls-Royce to supply engines for India’s 5th-gen fighters - The Indian Express
-  Reliance, Rolls-Royce to supply engines for India’s
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamRYMThjLVFjMG0zY2tfcnF5UmxoVzA1a3Q0aGMweWNGdjhHM0QzRzRSbGlFSmFJSGVSeV9KNTdZcjBZSTJEUEdiVG1RWk5XMmY0bVdSalN6NzBocS1aeVUxN1dmU2ZMMElOcDZnc0pPUU1CLXl6VEtscDF6a2cybF9xRFVOZmpZX2NDaFA4MkZSeFVwdnpJTm9iZE90WUtLck5mejV5ZHV3YTJud21OcWFrQWJYRFcxQ2YzNmtuUTVydmhxLVBLUTdfbkg2QzJkaFhDcDdwYzhjU2R4TzNpNXRYOXJYbURXbFhkclBjYmpLTTZQVXfSAfwBQVVfeXFMT1QyVFRWWVJKZHAzYnpXU1JIY2RGUDVXZy0tQW51a0NrQktQX3NMZTl4dVd5b0F2b3FieTlVaC1qVmMteWdfWEZ1aWI1dXVsbkFacXpRbmk4WWd6dVdyQ21UY0lCWWRpeVZNMTF5bHd1VTN3SzJsakVOc1pBZFZkb0dBWk5kaHhWTjVhcTRPSkM0LUpEbzBiZ3NpdnBqOEthMTF6YVZGcUtZV2pXc1JWU2lrZDNDN1dMeExadVRpSE1ycHVMaUhCbVdlSGl5ZGR4VnlJSzg2d2NvMXltV25QQnUyUWVVNVZlTlNTdEtLUHQ5RTd3bHpPeldSTVla?oc=5
-
-- India play 600th Test at Galle: What happened in 1st, 100th, 200th, 300th, 400th and 500th Tests? - The Times of India
-  India play 600th Test at Galle: What happened in 1st, 100th,
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNMFNSa09VaUVocktpYmgwUVpPT21UdXlnN0gxbTNHSktFUzRnRWZvQnFqb2tpMmt4S0ctRnNWM0JEWXVKNTYzTUZnQXd3U1FUczFCMW9ESlZwTHpKaTljTGNLS2tUdUlHdVQ3X1pzclNsS0VkSnJaR2c3YmtlckRnd2RPZWdPeTZsQVRkc1dlaVZfSTdIYzF0eC1EOWZlMjYwUlJ0dFo2SzFtclU3cmgtM0FILWRUWlFxaDVZckZ0eW03U0NlMWpjQm5CU2xlYlpLUWJZNXpPNlJ1WjBzVHR6a09hYU5ja2xXOHZQRlVYX1Y2OHlHcVZiZTJsVDZHdlNkQTNv0gGIAkFVX3lxTE0zZGxSWnUtd0lMOTZSR1dKNlRFWWEtc0tXUDdxMTZid0txbDhLSXI1SGRhSGdoNGl4M21heHVORjA5SmlmNkR2RkFoeFZJamxza19LR29VbXByUTBQbWdKM2NqUXZJbVNQSXdTZy1NSUpCU0FCNjdQUFpGZXA3OE56OFZwUnl2OTZkYlFxZkJQWG5saXplNkU4ejZLQUViY2VpN0lCT2VKeHM2eHV2M0Q0M0RXWTNpRGlYWTc0N250MC1CcWtHdWNiV0dwM3pyYmJuZl8yb01ZSHVmRjVURm9jMERyck5xdkdZeVl5ZldWdWdhRUpUU3RKUlotdUtSZV9pemNoU3Q0VA?oc=5
-
-- 80 years free, India’s biggest independence challenge is its bureaucracy with colonial mindset | India News - Hindustan Times
-  80 years free, India’s biggest independence challenge is its bureaucracy with
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOenhiQTA4emswdVk2M2ZMRExpOFc4RktWekpVbjVvczVnVUpUUHRWWENKWmZHeXkxM3dpMmFlVGdmRUJIQ3Nmb0JvYVVXXzhKZm92dFF3LVZQTzBJT19ER3R3Y3hzdmc2M3FqczgzUlFHXzVKOGZFOUpJZVgwX0RScC0tNkZYRnpPNXN3b0F2UXFESzZRWkRKUE43Z2ZCclJhZlhWcjZMUG9haXJFNnY4TlJUS1ZJc21rQm1UbEJnR3NaN3otUWh3SlREMlVmZnRTMmZzbDQxMm1oNUY4MGhBX3p2YkJiQ3gzNlBNLdIB8gFBVV95cUxNclJHTHhFOWZJTDk4bXBCZU1ENTh0UU55RWVSNHZEQW93YzJ6OWdnN0hhQ0Z3VUpzeWhWTmY0UWt4OU1rczA4dEdMSjlHLVhISF9EQ2doYWJER1VtQ3Z5dEM4Sy1ocFdVdF9rM3BPX0Mwb2R4R0xjSHZhcHlTY2JrVjRGTkdxc1AyeHpLektWWUtJck5hX1R3UzlxSGNjSVFQb1hYdTc1bWVMdDFaY2F5SjVrZ2JfYS02ZTR6NjY2RXUtNDlfcWF5ME5zZ3VZYW9sUnFWRUc3S3NMOGVVNS04STY1ZE9LelRsU3RfUnllSUFHZw?oc=5
-
-- India Ushers In 80th Independence Day, PM Modi To Address Nation From Red Fort - NDTV
-  India Ushers In 80th Independence Day, PM Modi To
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQamltNElqZDZfS0tWLXFkY2V0T195RlZzMFA3WHNsSVFGMlVxeGV5Z05jWW9yeVFXOThLcTBzTjllbmxYd0VyNFdEaVdETFpSUnBYeXdMN19PbEVWMFRfNHRnUVd6MVFUanVkaTlOcGFCQ21NTzVKMGp1N0JUWUJzSU5aTUd6ZlRGUkdtTXBLaTdzTEkzU1VGb3JIcmREcld3SXNUTFU5TnlKMGczVVU4aFhRV0M2ek5zNnfSAcIBQVVfeXFMUE9zaW8wV1lOdVZEbGJ5Q3VYS0w2d0FoX2VmaDdmVTk4VERXaHoxODhVRm1hSDdFZC1vUVBveS04Qk15NkFLN2tqVWZqV3VDemdweHoyNWdoaUZsVnZVMUVDOXk3LXBhb2o3SGRTbnJ5dVNGekg0Zkg4ZG1FQW9BYWNSVV9Tb0pEQWVYX1EtUDdLTzVOaVFVYkNINDI2N1hTYmdBOU4yaVVCTENsYUQ3WEJwWkhNclozZGxIbkhGbVlaUXc?oc=5
+- NALSAR student body now demands apology from Bar Council chairman - The Indian Express
+  NALSAR student body now demands apology from Bar
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNN1hnTkhya0VOX0thM29mcHc4N2pLd21oTVp3c29jbS1RQnd1N055Z1ZfRlp1RElNS0dLQ2pPdjUwaXZQcmQtTUhCOFBDc2F6dzlzZmdMX1plRXE2UkdVLUxDbEFtOG9RN0REaWxVSGx2Z19ZaEl4dnViVVVyWERHYVlMNkJhbE1BbVpWNjVGTlBCRG12QTFEOVNXcDdwcnVLVkwyOWNYY9IBrgFBVV95cUxPTk1tdGIzWjZXdllQOGktekdzOWpKMnhCZC00RG1GdEV6Q3lJQTJ4YmFzT0RudnBVMVBXc0xydzRKSlZuMlF2MzQxWjhZVktwdmR6VlU3RVhUOEtFbjV0dzZHTlV1WWdSaGQ4RVM4dXFMa1V3RlZaS0J1LVN6OU1vNnBGYzVZYzFWU3diTVVKT1lDbXZxWHVvV0RwMUs3dkNfbU5QeW5ZUlBTZGxPSEE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-15 00:58:58 UTC_
+_Last updated: 2026-08-15 06:32:44 UTC_
