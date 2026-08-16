@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- India Nears Rs 70,000-Crore Submarine Deal With Germany, Key Meet Likely Soon - NDTV
-  India Nears Rs 70,000-Crore
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEtBLTBnTXNLMGVtc2pHdVNXV043Tml4ZjVGS0ZrYVdHMWNNVlZ2d195Vk1ITmIwQzQ0QVY5OF9yOXV1RmIzZk5LcGRnbVpnTUVMYkx3M3N2UHJnanJjbXV6VW42NzFucF9fRkJPb1RRUy1xUjIzSzRGSy16cU0zZ3VkMlkteTNnMzFkTTdFRFBscWN6ZF9zSk1Ld3RQcE5sVW0xSWpZWWdHTWtBNUNlLUQ4OHlISWNhanNYMmJHbTlhMHhxaHJhMkxB0gHSAUFVX3lxTE1uR2MwTmg0M2xaY2c2NDdLaEJaVWJpazNjN2VNcGdYZVU5Tk9NUV9zRGNFN2YxbE5lYWFjckdBa29SZzBkeVpPWW5zdUlPc1BhbEc1X2JFcFBDQVg4ZkRNMHFVWjZ3bEhCUWFrUWFWWEZibkFyOTVXVEtiTWk1OHljNllGaGgwUHJFajJFcnRmR18xV1VIVm9fUnBRQXNtaFIzX3FtbmhpRWF5SmRYR1RjR0hCak5IaVIxbVQ2SlBuUUQ0dTFISXpTTENyakRrTEJZUQ?oc=5
+- 80th Independence Day Highlights: 80th Independence Day Celebrations Mark 150 Years Of 'Vande Mataram' - NDTV
+  80th Independence Day celebrations mark 150 years of 'Vande
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUd0UkJLNUo4LUd1OVVZai1ieHZKXzZ0TVlsdmRxb3FNY3VybTdyV2lucGtMYXJfUDgyZF82YjVfZkpCZkpBRnN5eWVGeWxnV3AtX2xPY0s2aVF6eTh2NkJXUjJmYnlpMUpqdDFaU0tWcVRnMDdSb0x0bUQ2MkxmR2pCQkpDODB4RzFSVHVBZjJhbnNMM0R5ZXNqSlVtNlNmalZ6bTVqdzJXNHVKaVlXcHBMaGlNTWdfMEVkS182ZFd6U3p4ZnFaTmdvTkQyRWhqaHgzckk0RjY0a2Z5TDVmU0JR0gHqAUFVX3lxTE9hQ0tLRFFFNWVVZk9Sc2JoYVh0SFVqWnVXSk1Obm1JRW9yVzl5bm9qU0NmU3NZdG9nQjM0YlN1OWw4QXQ5RGNaU2NUTGlRakdXOTRGSnhBRGJiWGhmV0ktNGNYZEQ4VGtQMzhTTDBhNmFtS0JRdUtKek85OWNHRVJCaWtRYkJBa1VfLVlXWDVVMm9lVnBSc01IMkd3d3JRMno3bk1nNDByRHo0VThVcUZaQ1lBMTVRQkxmX3RTWHRCNmJ6ZEkzSFdoZm5OenBGQzB0WW1wNWxHWU40R3JpN2tzVWR4TTdxcmEydw?oc=5
 
 - Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests - Al Jazeera
   ‘Azadi’ chants in India’
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzRJeFVXamtWTVppTGRTelZiSTktUmtuak1ENWRKZ3F5ODZ2aS03RTFFaWxodlhraXBtc2Z3NXVuWU5HWEk0NTdyanpLNFVqZWlSUXRwNW5Lc19BZUgzWEdoZjFtakJ0a0EyRDF0VmM5S1BieTRrSWVUaU5GQ0VGWmp5c25kQmFQaTltWW8tSFJ3el9kbVlaSldXMGt5dndpTS1uZzhBaE4ybWxGMl96bHFUNEV1QjTSAbwBQVVfeXFMT0UyVk1wUi00S1QtSGxEdmZVNkNCendwanBoNlJlRXo4eTk0dU5LOHpPYU5uaHFzb241RXpQdml5c25QRTFLRnBfeG43c3Q3X0Z2MzFlZHVWZXFveHhEV2dSWjVWU2R3Sy0yRGJlVzhHSEV1OHhEZmRwMkFkYjlSSGFjNW1NWDl1ZWJMUkpycGJURXdQYnFveEt5aTR5cVhWUXpaalFLLWc3RUNOM0dmSzd6a3Bxbm0yYlRzbU8?oc=5
 
-- India could reach $20 trillion by 2036 with 14.2% rupee growth: Equirus - The Economic Times
-  India could reach $20 trillion by 2036 with 14.
-  🔗 https://news.google.com/rss/articles/CBMiyAJBVV95cUxObGxzRVFNVUdNSl8wTE1UNS1USTRfWmJmNzktVlZMRHc3X0hXN1JlaEsxV3B1RHhTcGltMUdaX3AzUzkxSVExay11bzNwNzJJTUdXVnlSVWExWVBjTXdESDlqUjJBUHBfRWlVTWx4cGIzdTNBVWdoaWo2a0F1VE1KTzZzb0Q5YnNDWEJ0UU5GY1JMcTZHdS1LZW9zZVdGSEpLWHBiVHhkWUw0UlJVcnktX1FURUxUMmEyd0pGck00ZXZOUnBqU2doMTZlVXpjSGc4dlZRVTVrVW85YzdkRGM0R3ViTndhVmZmSHlFVWlBNzZ3ZnNKMTBjTVZBc2x5VHJhSTM1NExvWFZuX2cwaVB0S3JDOHZwNlFBY0g1Q2I4anNYd2JKMEFJV2wwNGc0cHluZVVxZlp5OHNNZnRDbmM5dWVELVVLX3B40gHkAUFVX3lxTE01RnMwODdUSmtZRWtFcXVKbFBpSWNyM2hfTWFwclRwc3J5ZXlvOVNSTnQzQUJjRERFaHpjaFlFWHU1WFFLSjBPLUp5elV6SnUySDNaYnZQRUhZZ25iRTJnb3VFTTJuLXlHb2JITWlRRzZmZkl1MEpPQVVmUlRjb3NncmZzUGdjOFZ2dGZvQWxGb1g0Uk5Xb2ZYc2JRLVRxNWNmVzhmSG9UbmJ3M08tZnNtSnhFZTRuaWZMVGoyUDkwMmVSRldpbjkxd1VjYXRwZ0xTRDZpR1RRV2tkUm0zWHdyNng0QQ?oc=5
+- At BCI helm for 14 years, Manan Kumar Mishra faces heat over professional conduct - timesofindia.indiatimes.com
+  At BCI helm for 14 years, Manan Kumar Mish
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeENOUVlOTmJMMTRBdjdjN2FHRUw5VmdrNDdaeWtGanpkX08wRjRDY2puLVdhVjhoRmE1VzdOb1BWSzhwR3k2YzJ1ZEpkajF1X1BhbWVlRkRLWTVMYVhFUE1VTC16dm5fRkF0dU0wOEExcFJJcExRbk1pVWUzLURjOVV4Z3YwUFFaMV9NQ0pheHVKQkxjSE5HRmJQNWh2cEZuemRreWJkb1FqeXpJeGw2ODdZOVExeHlhU2lTMnA0Q3ZiU0g2RjMtMkhTS2NjUW94ZlBSSTZlQ0Q0a2pyWFNqbHV30gHnAUFVX3lxTE1GMGxzZGNNWDM1TmlWRzNXcDROZS00eldGZ1BmYmxOR1FtWnI0OFZubHZ5TzVXODJjUllSanQ2Z2NEWnNrNkthSVA0Q21qalFmNGpGQlg5WWRjNEFMRWM5bGw0b1FtLUVOOTVoa19GWE5MWkRXQzNIRmdoREl2RUNyVlRvd0IzeHR5Y2FLaWE5eVBZYUhlaW5pZjUxeFdyTzMyVnNDYkttbzFwUHl1VjRKQ1hQMzlDcTZjLWJPeUw4c01FNXcwQTNBTjNuVTNKbFpTck81MmV6RmJ1MnplNldUX0E5Ynp4aw?oc=5
 
-- Air India pilot's reported cannabis test: What it can and can't tell investigators - BBC
-  Air India pilot's reported cannabis test: What it can
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZEN5eTVodnh1THZaOVM0OU1zVi1BbjRFT0ZKY2hwZXRiM1JhR3gwZHl0SlJQY3gwZHlYc3BsYjQ5VUlDa0hkQ1lnX2FZU3U4WGtyZ3Q4dVUydw?oc=5
+- Two injured after Air India Express passenger’s gun goes off at Varanasi airport - The Hindu
+  Two injured after Air India Express passenger’s gun goes
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbS1vSk5mUzcxQmhWcEtwczZsRnVVVFNWWlNwYUp2Qll2TlQ3SS1zbnhIMDFyUm5zWXd2RmFfUzBkZDdva2ZfY29nT00tLXlKOEUwRm5GaW15MVlqUTZYTkNIb2ZkekdlazdYSk14UDZUd3pnVUQwcnBOUVVLb2dGVmV3ck1qWUptQlZxYVB4M3VWS0pScjBmQWJlSmRNT1VHNDU3djhFRGdkQ0ZITE9acGJHQ2t0UHBXN05hTTBtX2ZtclkyOGROTzVjajZqck9KSk1zeThLRHZDdm03QlhKODhR0gHoAUFVX3lxTE5uOUxYWEt4b1pNY0t5eWh2UktZTnltczdiY2F3V2FhY2sxR2lQc054LUJ4YjRjS1JNbWFSaDY4c1BJTTZOV0hTTzZZeHdOSTg1MDlmSGtnT2Z4RVp3NzB1Rm50TkF1ZUM4X0tadDZ4SDc5cFo3T29jWDdIazQ5WGxVTkFpN0dMTVBJRkFoS3JyMU11NjlaNXhVQlZmaU1ZNGhpRXFZazFhR1RCbldZUUFQaUYxZnZoeWdWcVdta0FSdU5lMkJCYVh6aTZXai1kTmFPTmdVSlNZT3NxNjZkeGRETkZDMjZvN1E?oc=5
 
-- KFC chicken under scanner in Mangaluru, expired meat found in 3-star Mysuru hotels | India News - Hindustan Times
-  KFC chicken under scanner in Mangaluru, expired meat found in 3
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWUFkWFlfMGg5OFhPVWx6VXZhdmlVTUxURG5rdWJCSDlZMjB3NXhsbkhyRkNzY3Y0cXVBaXVWUTl3bjIyeTJ1M1plRkxXMmZsaFFuRUhaOXlfcDkyb0NBZ2cxSDJZaGdOTk5tYzNld25pS0NmWGJRXy0xR1E4OEQ5dEtpM29xTU9VS0VqdnVRVzlhQk5iS0dieWZsYktad09iQzRzZkhIOXVVbGw3eE5TV3owRUlFVkZpSkpzV2NldE5lOGdLUG1hOVpONGJDaUR3MWppZjNEVUlKMkJz0gHiAUFVX3lxTE5OTU1zR3VqZHlYQmlsSG41TzFwT0dKRTZGTllsRFV6bW1OYWxDaHFYLVcxa2h5eFlCOW83RF9YWGx4Zkd1X0xJTHhWOFdOOExKSkxTemxzY0F2YldSdm1DRDJFMU4tV1g4VndIa3dheE9IckowOFdLQTNDdUJRQlg1Z3l3aGxNWkUzZWFtQ0dNU1pjR2hJd0ozS2RhU1dDOGNfWG11UTA5TW1nYWVxdHlBeTN0NE1nY2p3V0tiX250WGJtRkxHVlpYVk4yTmJzRVRQTG4tMlYzVWI5S1dyRF9CRWc?oc=5
+- Air India Express Flyer's Gun Goes Off At Varanasi Airport, 2 Security Staffers Injured - NDTV
+  Air India Express Flyer's Gun Goes Off At Varanas
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTl4Mmw5ZHZkS25wc0RqS1NQazNNbllLR1o2M1FWV0YwY0FFUTZvS1BMajZLUGFXb245YlloVFBhRkU4Z2FkM3ZGOTktU3hMd21DQVNNSU5naWl2NlFwMkY3dXVHeFJSMFcwRXNEZEljYUdERllwdXNaYjhlOGozaFZ0RDdVRndXUE5JY3ZOVXl6Y2I0bDBSUFcyZ0s1NTZENlRYVEtuOUtZU3J1SkdCbjJZQ0tGSk1FbXo1MFFQejY4NmhSTGd0cGJnb9IB0wFBVV95cUxPQjAzdHBRa0oxRTVpdERfOFl4ZGUxYWtXTDAzekI0bHFlYkZrWnNJcXV6UGdpNkphaFFjYnNLczVoaUhZY2pVcTRfNXVhdUNjbkI1SEt0WnhRUkxNaTNlMXlPc3B4QVhSUFVYamo5V29yS0hQSXlDZXZ6OS04bXB3WThqOHpIaUFaVTR1RUpoWjNIM1o1ZUZVNGJxaTBqc0tlTUlkc2FwX010YW9FMkR3N3NnWEtONnZHUzRmcmNETFY2cmRSWnJ5Nm16YnNjVDMxWXhJ?oc=5
 
 - OpenAI’s $6.5 Billion Bet on Jony Ive Reveals the Skill Technology Can’t Replace - inc.com
   OpenAI’s $6.5 Billion Bet
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVZibkwwSTRGeFBuc0J6aHc5bHlhbVM3ZE5TV2hhTzJpOUFINjJDYkNXRGVWc0hGUmxFbG9fcFhjTEhQRC1TdHhkbnNQaHNMY3BxQkREQmRIT0tNemtfNllXMlAtdFpQbzd4MklYdXd5Uk5GOHlZQ0xNYUpvUzhlTEV1STZsaHpUQ3lDNHpzckVTMGdJLVRhMVViOTRiOFJHQ1Q1bU1JR0Y1eHN4QTVVTGxBTWlpVnV1VnRV?oc=5
 
-- New support to get more women in South Yorkshire tech sector - BBC
-  New support to get more women in South Yorkshire
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6TElONWZ1S2xxNVNHckFaNk8zcWVZcFI3U3c1SW5PMGhScWUtRWlIRHd0dVZYRjRySVBLWDA1ZmJiQjZYeHU0N1pnYW5mSk54TXdKd2l6ZHpFQQ?oc=5
-
-- What Is Silicon Motion Technology (SIMO) Unveiling For Agentic AI Storage? - Yahoo Finance
-  Silicon Motion Technology (SIMO) Unve
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmlSRlVPVVFoWVpMVldSYjNZcm8zOGVKQUlWMmQ4TjNCSUdWelFQZ3ZLbjRTYVZTZWxwSTVpTERDMWJpSkttWVR6V3NaZzJpTVpaODhmQ0hOVEs2Ykk5ZWk0cDlfUml0MDI5R3hyemE1RVE4Y3Q3Z0VCMllUeWRfWUhpcG1rVEVnWTZlQkJlZXdIaXR0dk1CS3FuczJoV0hYa3lkTUg2Zw?oc=5
-
-- Mahindra introduces the BE 6 SPORTEQ, a bold new expression of sport, technology, and electric performance - Mahindra
-  Mahindra introduces the BE 6 SPORTEQ, a bold
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUW5BQ0pUZGpoNFdqYXZKVy1ac1lkSFJwTExOWHNQV3dSMkpEVFFtbGprcTVCaWJGbzI1RnE2UE5QbUxlb3JkWkhJTlRKbXVIazJYQVN0bEZjdzAzRXZScmRLVXgyTjVNVFJFUkpDcW9mbm1Qb1lFdW92cHhhbjdoZnlUc2d0OGh1bHBFTHAtOENlc0I4d0tOVXQtOE9heHpZTm55RUo3QzlfUmZ0UTJ5dFlLVHBKRHk3X0NKamJUQzR5SXhScU9KUklGY2hPblU1b1U0RU81S3VVa3lrcWNzaDFER3dEZG4teG53?oc=5
-
 - Telangana Police mark Independence Day with focus on technology, safety and reform - The Hindu
   Telangana Police mark Independence Day with focus on technology
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQczdsWktQcVZLcDVZNDNPU3FiSHh6N0ZZSmRTODdIY1ZPdkhNLUxmWGxyUFZNVTlNS05VcmNlMHp5QnhuTTRBYXRmTEQ2YjFUVnNlUzVuTDlkRGs4MTZCdWZXMEkyUGlBVUhRNk40cXVibnkwUzZSMGdGWmtReU5TcXhwb2MzR2hOLWZ2Qkt0WWVSOHA0Mi1sQ1NZSVZwNHNWbG5pTzVQOEVjT3J1S2tyQm9Lb1dsb2JwRzRheU5VLXE4RkE1QVU1Tlk1bEZqc0ZfSEYxLVQ4YmZxMWRpb3FZcE9HQ0LSAesBQVVfeXFMTmJScWRKWmJTUTg0NjJkNGhIMlNGbjVWcUM2cFJMOVFTbjJyQTZmOU8tbndfeWtvYnpfUmV4Um53OTZKU1Q3Mm9RR1pBRTFsclhMaEN5VGVzM2M2ek9VVEc3WTZDa25pMnVON2tMZHdON29EX2ZtNWI4d3dMeG9TV0xUWjNpN3FneXFDbXpnbmhDQXZOQjNpcVhQal9JcnFyS20zSEJaRnBrYTdLVm5XVDloZHJMd3FPZkltSkRfTjFYaDR4ZUhNSTYxaE1EckVnSHFVYXJPQnJwWm5uVUJGR3FlbEJRNHQ2al9YTQ?oc=5
+
+- Milky Mist flags insurance, food safety, technology and management risks in RHP - hospitality.economictimes.indiatimes.com
+  Milky Mist flags insurance, food safety, technology
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMUl0c3JKYXJnQl9CYUY0bnRRNUMyaEVISjNENzRQdlRaZEFKNEJaMU9oZHNyWmIzZUxNUHZyOW53N0ZqSmp1dXdXRXFaMmlJcGs2UlpDVGxIek1VZEM4NWkyVXB0bTA1TWNsSFlGT3JmZGszelE4ZFJPdEpCX3VyQW1nSkxwclZ0TUNjOTFadXFXMzZKZ1U3XzVFZmRNclU4VXNqSWx1cWwzeVgwY3RDdVNtS1ZzanNfWVkxX0NvbkgzWGtwX2Y5SnVzNFZCZm1PTDVSSDJ0RnlaTzJxNDZwMmw4NkozaktNVHlWTkg2bHBfM2RTWEFzMkt2TmlLRzg?oc=5
+
+- ‘Our children are less cognitively capable,’ says neuroscientist who wants to cut screen use in schools - The Guardian
+  ‘Our children are less cognitively capable,’ says neuroscient
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFJ4U0ZtcDRkX0RZUzBnSnVZM2Q0Q0VyMHkxamZOeFRQZE9IejhPNm5CRnRBQ0FkV2dYZ0dST1pITEU2MnpSZUw3cHV4ZlpmeGUyYmZPcUJzeE4yR0dNVXhmRHVBUHdQVlVKTktoQkRvSlF3SnV0VHkzdFpJemRKbFd6QThxMk5BYm5EWG5BaHdhcmRMaXhSOGFRMVFSZUdNdjc1OVVrZGoyUTN1SU9wenJRbDB6Z0pXdmhua1NQSC1uTG9IWHc?oc=5
+
+- South Africa is overlooking solar technology that can keep generating electricity after sunset - theconversation.com
+  South Africa is overlooking solar technology that can keep generating electricity
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTEVXM3hNcHYybDVPMmpLc0FJUnNvczVGZGxEa3lWbjFjaGhoZExKSDl2bm9DRExQT1pVdktLMDNMR0lxT0xMb3hoMGZHazIxRU01eklmMlk2VS0zaTlkUzVXcG0zd1RaMWJFN0xBTXEtdFh4SDN3LVBkLTRYcTdjNTg2SnM2MTVGQk9sLUhnWXRQWE9WcW5tdmJpSEgwSUh5RVdTdmpzZk5CQTdTSndaXzdlbDN1UXVCWG9yTGtKNWRSYlBaVEVRRw?oc=5
+
+- Biyani's Style Union seeks to raise  ₹800 crore as value retail market expands
+  Style Union, which is operated by Nexon Omniverse, was launched in 2022. It opened its first stores in Hyderabad and Bengaluru and has expanded to over 170 outlets.
+  🔗 https://www.livemint.com/companies/style-union-fundraise-800-crore-biyani-family-11786858224112.html
 
 - Mint Explainer | Why India Inc is retaining more of its profits
   Dividends hit a record  ₹5.13 trillion in FY26, but payouts grew
@@ -56,29 +60,29 @@
   Berkshire Hathaway
   🔗 https://www.livemint.com/companies/berkshire-hathaway-boosted-stake-in-alphabet-homebuilders-in-the-second-quarter-11786829541096.html
 
-- Anish Shah-led Mahindra renews global push after cutting losses
-  Mahindra wants to pursue a two-pronged strategy.
-  🔗 https://www.livemint.com/companies/mahindra-and-mahindra-anish-shah-scorpio-lifestyler-bolero-pikup-hyundai-11786798770480.html
+- Expert view: Markets navigate hormuz risks, FII comeback and policy crosswinds
+  Domestic policymakers have introduced a new area of debate
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-markets-navigate-hormuz-risks-fii-comeback-and-policy-crosswinds-11786876509508.html
 
-- Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid US-Iran war uncertainty?
-  For the week, the Sensex fell 0.62% to end at 78,009.25, while the Nifty declined 0.83% to close at 24,366.
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-us-iran-war-uncertainty-11786856501261.html
+- Molbio Diagnostics IPO listing date tomorrow. Here's what GMP, experts signal ahead of debut
+  The shares of Mobio Diagnostics will be listed on both exchanges - NSE and BSE. The allotment of Molb
+  🔗 https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-date-tomorrow-heres-what-gmp-experts-signal-ahead-of-debut-11786870962625.html
 
-- Stocks under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 17 August 2026
-  The Indian stock ended the week on a negative note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-under-rs-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-17-august-2026-11786854109726.html
+- SRK, Sachin Tendulkar, Madhuri Dixit-owned Purple Style may launch  ₹660 crore IPO this month
+  According to the DRHP, the proposed Purple Style IPO will comprise a fresh issue of up to 
+  🔗 https://www.livemint.com/market/ipo/srk-sachin-tendulkar-madhuri-dixit-owned-purple-style-may-launch-660-crore-ipo-this-month-11786871581008.html
 
-- Buy or sell: Ganesh Dongre of Anand Rathi recommends 3 stocks to buy on Monday - 17 August 2026
-  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-3-stocks-to-buy-on-monday-17-august-2026-11786852732379.html
+- Upcoming IPOs: Lalithaa Jewellery Mart IPO, Horizon Industrial Parks IPO among 8 new issues to open next week
+  Lalithaa Jewellery Mart IPO, Horizon Industrial Parks IPO, Sunshine Pictures IPO are among the six companies to raise
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-lalithaa-jewellery-mart-ipo-horizon-industrial-parks-ipo-among-8-new-issues-to-open-next-week-11786867799412.html
 
-- US-Iran war to crude oil prices: Top five triggers that may dictate the Indian stock market this week
-  For the week, the Sensex fell 0.62% to 78,009.25, while the Nifty declined 0.83% to 24,366. While some of the global
-  🔗 https://www.livemint.com/market/stock-market-news/usiran-war-to-crude-oil-prices-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11786846871492.html
+- Small-cap stock under  ₹50 to be in focus on Monday after receipt of NHAI project
+  Hazoor Multi Projects share price closed 3.29% lower at  ₹20.85 apiece on BSE on Friday.
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-hazoor-multi-projects-to-be-in-focus-on-monday-after-receipt-of-nhai-project-11786861750445.html
 
-- Alphabet made 100x on SpaceX, now Nvidia reveals $21 billion stake: Why Musk’s AI push matters
-   Alphabet's $900 million investment in SpaceX has grown over 100-fold, reaching $94 billion. Nvidia holds
-  🔗 https://www.livemint.com/market/stock-market-news/alphabet-made-100x-on-spacex-now-nvidia-reveals-21-billion-stake-why-musk-s-ai-push-matters-11786807124032.html
+- ChatGPT to the rescue: Goa man uses AI hack to find lost footwear outside Ujjain temple
+  Goa man uses AI hack to find lost footwear outside
+  🔗 https://www.livemint.com/technology/chatgpt-to-the-rescue-goa-man-uses-ai-hack-to-find-lost-footwear-outside-ujjain-temple-11786864876801.html
 
 - Global AI investment $1 tln in 2026, to reach 1.4 pc global GDP by 2028: Goldman Sachs
   AI-related capital expenditure expected to remain robust in the near term. The investment is forecast to rise from 0.9 per cent of global GDP in 2026 to 1.3 per cent in 2027 and 1.4 per cent
@@ -96,10 +100,6 @@
   Over 20,000 people reported problems with the platform at around 3:27 pm PT ( 3:57 am IST the next day)
   🔗 https://www.livemint.com/technology/tech-news/pokmon-go-sees-massive-outage-tens-of-thousands-of-users-report-problems-on-downdetector-what-we-know-11786751779593.html
 
-- Electronics Hardware Technology Park units increase to 79 in two years, exports cross over  ₹11,150 crore
-  The number of Electronics Hardware Technology Park (EHTP) units in India increased to 79 in 2025-26 from 70 two years earlier. exports from these units touched an estimated  ₹11,200 crore
-  🔗 https://www.livemint.com/technology/electronics-hardware-technology-park-units-increase-to-79-in-two-years-exports-cross-over-rs-11-150-crore-11786746654935.html
-
 - Markets just flipped the script on Kevin Warsh’s Fed: Chart of the Day - Yahoo Finance
   Markets just flipped the script on Kevin Warsh’
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb2RaUmYwSTYyOG1wb3hyLXdpcllmOVBpYjl1VXp0YTVRMy1aUnB1ZkxoQ1Q2YmpvNG5rZ1dTZkM1bFRZS2J4YXJsOHZBQWhjaGsyUW5CQTJzV0RtTVd5QkJYeTloaDl5Uk1Jc3plSnQzVlNpNjZ6eXVZTWNUMTZzWllVUGRqWDdJbmRhY2hNUl9TUXZOYnF6aVFFRUZtMWYtakV1T3JyN0Z6WE5KeWpCZjlvNFJwV2JyY3RZNEFHTGNNRkE?oc=5
@@ -108,57 +108,61 @@
   Between earn-nothing cash, broken long-term bonds,
   🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE1zSmRnZlNIbVN5djgzRjJnT2Jhb0hZTXc1QmNjWVM0NEVYNk1McUhaa2o3WmkyOVZVTjJFaTZINDBqWHBUS204UUJ3cXVnMUdOenphWWs1RUdhNFRqM1l4cjRZcjRFSFlYNE9ncGVJbTJrYzNn0gF6QVVfeXFMTWF3VnhsdHc0TUo1dkNqWk5JbXZUQWxSMWlFWGFVOHBjRUxOeEsyS3hHaHBKdkVuVE5RLVVxMUZCUnRPX1FLMlQ2WjcwdVlnby1uQzZHeUJuX19wLS01dEdTNEowa01QRXZ0THlzZXFRY3dmTEV2bUZwSlE?oc=5
 
-- China has wrested control of oil markets from OPEC - The Economist
-  China has wrested control of oil markets
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFTYzhoN0s5cw?oc=5
+- China's booming film and live performance markets fuel spending - news.cgtn.com
+  China's booming film and live performance
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQbS16eDdCYWdlSTREM1gzN3FTMS00cGVzcjhYcHdXeVRjcm5HamJBbFk0aXJVN0Q5X1RlOTBWa2RFWHVaZzRybmdDYU44VGtmMGFxdUkwWnJFbkxhMXpPVUswZWVrNVVNZHN5SlFJaEVoSDkxNm5TZzBmb3R2bm1QdWJvOGZUTng1b19DN3RaMW13T0tqcWEtRTUtcHg3YXhWS0JRSzdGOXpxajIzMmJlcWxkNE5XQ1liVXVaNQ?oc=5
 
-- AI-driven surge in bond yields could be next risk for markets and growth - Reuters
-  AI-driven surge in bond yields could be next risk
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5
+- Market recap: Top 5 firms lose Rs 1 lakh crore in market value; TCS, Reliance suffer biggest hit - timesofindia.indiatimes.com
+  Market recap: Top 5 firms lose Rs 1 lakh crore in market value; T
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYjBBYVUxX19NbzlZank5T2NnMUpodGV4YlU1ZjdWNDNhWnhjUThPakZwcTFZcURuX09UTE9CRDZDak80TFpSLXcwSGxqY3lRLVJ5MzMxU1hNLUZjR0R4SkdVTnN3a0szejItNmlqTlF0Q0J2UXJSNHdkOWp3SWI4Y1ZaZHRmWkMtYkk5U0NGNUhqbHhQdC1HNFZmcUVMNmhERFlZajFubWpTcFFNWFVrLXRMVGpiYk91WWdEdjR2WlZvd2xpaXhTd1RDN19mTnFRSE9XSDU0ZDl6SnlHZFNsMzhac3FOdTU1Q0NYV3Q4MVNNbTZKTmxxZFl4dHFyODRab1NYaU51NldBVUnSAZACQVVfeXFMT0FuY3ByWjNCVDhpYklhTFp5OVdRMlpNWTlLekdZWmgzOVZPaVZ5cjJOeThWVTZWc3NtdzRBVnVYNjhsWVJzVVNqQmdZaWRSUU8yd2Npd25Ldzhvc3FKNFBaZ01pZjFJSDJRdU1oR0J5S1JwUjhFbC1XbS1hemNHN0E5LWJSNXkzVjdzbzlJeUJPZ0RYdzAtdkg2MF9vbmJmcDFJaUdWUlhzNVNSVFlpNHJYRnRzbFBtRHhXdW1rZmF2cUROM3djc25ZTjRBWUU4WnNKYUVTcllpcFJkR3o2TGlsdHFOcmxMQVRBWnpCU2FwU21IUUQwNUJXcVZtakF1RzROOHQ3YVVmSm94ZkdHaTU?oc=5
 
-- Markets News, Aug. 14, 2026: Tech Shares Pull Back as Major Indexes Slip; S&P 500, Nasdaq Log 3rd Straight Week of Gains - Investopedia
-  The S&amp;P 500, Nasdaq Log 3rd Straight Week of Gains.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFZ4emppTjVaV1BKXzlNWm9oZEw1RlNrcUxIWXB0NlF2UFY2WXg1dU5GWVV6NUhLN09CeVJXNEhMZnZjU1B1Y2U0c1NhTWwta09UOFJvMDJuNWtNVWJaT0hCQVFtWHlOR3BtcUF6WVVFanNQaF9CVjlBeXFYVlVZQXdRYk01VnVRY1NGVzNaeDI?oc=5
+- US Market Outlook: Wall Street hold higher - BusinessLine
+  US Market Outlook: Wall
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVlaeDFIck9tR1h5TGRFeUlFTDJYTXJEWElpa1dWTWEyMXR6cDdtZnBfQzlXOTd5a1VpRlpnalZQazV6dzVUdjViTWhkYXQzYXBsRUZZdWxPdmRGZFJSc3A5LVlBemZrem5Takl2TmVCeFpaY3Z6NWJtNmtHem05cHJCMWtDTFdhLXNEd1hrMWFUS2hXalFLbW1Sb3QyVm9pdHM2d1JzbVZTUW9aaWYzSDJwTERJQjBHaFlKNGctVTfSAccBQVVfeXFMTlZoNGdkeW92VTJUa3BjQm9kekd1Y1AxM2JDNVZXUXBiLVViNVFFM2F5UG95dGpZbHhCZ2Zkdk1CYjdETmozR2VGckhRSlRzX1U1Wnk4RWswclY0aFBkNnUxcDZfM0dIRU9YSmhKZFNLNzJ2WUV5Ym1GakxOZHpOb0FrQzV5V0ZwTGQ2Sm9DQ1J4X05EdERVZVF0aUEtMmpScFFrQnhMRlZyY3JOMjl6bVNzQVpacXpTQ0lsSXFLU3VxaWVMTXVHNA?oc=5
 
-- Bonus, stock splits &amp; dividends: Bandhan Bank, MGL, Mazagon Dock among nearly 100 stocks turning ex-record date this week
-  In the upcoming week, nearly one hundred companies have announced record dates for dividends. Investors should hold shares prior to these dates for eligibility in corporate actions.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonus-stock-splits-dividends-bandhan-bank-mgl-mazagon-dock-among-nearly-100-stocks-turning-ex-record-date-this-week/articleshow/133270824.cms
+- Geraldine Weiss’s dividend strategy: The blue-chip investing formula that stood the 'Test of Time'
+  Geraldine Weiss built a disciplined value-investing strategy around buying financially strong blue-chip companies. Her approach combined reliable dividend growth, reasonable valuations, moderate debt and
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/geraldine-weisss-dividend-strategy-the-blue-chip-investing-formula-that-stood-the-test-of-time/articleshow/133273809.cms
 
-- Will Sensex, Nifty continue to bleed on Monday? 4 factors which will drive D-Street action this week
-  Indian equities are likely to remain range-bound in the week of August 17–21. Sensex fell around 500 points and Nifty 205 points last week.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-bleed-on-monday-4-factors-which-will-drive-d-street-action-this-week/articleshow/133270103.cms
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  Sensex and Nifty ended last week lower amid range-bound trading. Analysts identified four key factors that could drive Dalal Street this week.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133273600.cms
 
-- IPO wave: six companies eye nearly Rs 5,600 cr next week
-  Six firms prepare to launch IPOs this week, including Horizon Industrial Parks and Lalithaa Jewellery Mart. This wave of IPOs could significantly enhance the total listings for the year.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-wave-six-companies-eye-nearly-rs-5600-cr-next-week/articleshow/133270086.cms
+- What Shah Rukh Khan, Madhuri Dixit and Sachin Tendulkar see in Purple Style Labs IPO? Here’s what DRHP reveals
+  Shah Rukh Khan, Madhuri Dixit and Sachin Tendulkar are among investors in Purple Style Labs. The company has received Sebi approval and has expanded from an online platform into physical retail.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/what-shah-rukh-khan-madhuri-dixit-and-sachin-tendulkar-see-in-purple-style-labs-ipo-heres-what-drhp-reveals/articleshow/133273577.cms
 
-- Small, microcaps offer better alpha opportunities; midcaps look expensive: Equitree CIO Pawan Bharaddia
-  Pawan Bharaddia of Equitree Capital Advisors sees alpha opportunities in select small and microcaps, especially those with a ₹1,000–5,000 crore market cap.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/small-microcaps-offer-better-alpha-opportunities-midcaps-look-expensive-equitree-cio-pawan-bharaddia/articleshow/133269914.cms
+- Still holding cash at home? Warren Buffett calls it oxygen, but says it’s not good as an asset
+  Berkshire Hathaway's successor Greg Abel is deploying its large cash reserves. The firm recently bought back shares and invested heavily in equities.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/still-holding-cash-at-home-warren-buffett-calls-it-oxygen-but-says-its-not-good-as-an-asset/articleshow/133272964.cms
 
-- Zinc Rally: What's drivingprices to record highs and what lies ahead?
-  Zinc prices have escalated to their highest levels in years on international markets. The robust industrial need, particularly for galvanized steel, is sustaining these elevated prices. Currently, the global zinc market is experiencing a minor shortfall.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/zinc-rally-whats-drivingprices-to-record-highs-and-what-lies-ahead/articleshow/133269883.cms
+- Big Bull's magic: How Rakesh Jhunjhunwala turned Rs 1 crore into Rs 20 crore overnight after the 1989 budget
+  Rakesh Jhunjhunwala, the legendary ‘Big Bull’ of Dalal Street, built his reputation through conviction and contrarian investing. A standout example came in 1989, when widespread fears of an anti-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/big-bulls-magic-how-rakesh-jhunjhunwala-turned-rs-1-crore-into-rs-20-crore-overnight-after-the-1989-budget/articleshow/133272063.cms
 
-- India Nears Rs 70,000-Crore Submarine Deal With Germany, Key Meet Likely Soon - NDTV
-  India Nears Rs 70,000-Crore
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEtBLTBnTXNLMGVtc2pHdVNXV043Tml4ZjVGS0ZrYVdHMWNNVlZ2d195Vk1ITmIwQzQ0QVY5OF9yOXV1RmIzZk5LcGRnbVpnTUVMYkx3M3N2UHJnanJjbXV6VW42NzFucF9fRkJPb1RRUy1xUjIzSzRGSy16cU0zZ3VkMlkteTNnMzFkTTdFRFBscWN6ZF9zSk1Ld3RQcE5sVW0xSWpZWWdHTWtBNUNlLUQ4OHlISWNhanNYMmJHbTlhMHhxaHJhMkxB0gHSAUFVX3lxTE1uR2MwTmg0M2xaY2c2NDdLaEJaVWJpazNjN2VNcGdYZVU5Tk9NUV9zRGNFN2YxbE5lYWFjckdBa29SZzBkeVpPWW5zdUlPc1BhbEc1X2JFcFBDQVg4ZkRNMHFVWjZ3bEhCUWFrUWFWWEZibkFyOTVXVEtiTWk1OHljNllGaGgwUHJFajJFcnRmR18xV1VIVm9fUnBRQXNtaFIzX3FtbmhpRWF5SmRYR1RjR0hCak5IaVIxbVQ2SlBuUUQ0dTFISXpTTENyakRrTEJZUQ?oc=5
+- 80th Independence Day Highlights: 80th Independence Day Celebrations Mark 150 Years Of 'Vande Mataram' - NDTV
+  80th Independence Day celebrations mark 150 years of 'Vande
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUd0UkJLNUo4LUd1OVVZai1ieHZKXzZ0TVlsdmRxb3FNY3VybTdyV2lucGtMYXJfUDgyZF82YjVfZkpCZkpBRnN5eWVGeWxnV3AtX2xPY0s2aVF6eTh2NkJXUjJmYnlpMUpqdDFaU0tWcVRnMDdSb0x0bUQ2MkxmR2pCQkpDODB4RzFSVHVBZjJhbnNMM0R5ZXNqSlVtNlNmalZ6bTVqdzJXNHVKaVlXcHBMaGlNTWdfMEVkS182ZFd6U3p4ZnFaTmdvTkQyRWhqaHgzckk0RjY0a2Z5TDVmU0JR0gHqAUFVX3lxTE9hQ0tLRFFFNWVVZk9Sc2JoYVh0SFVqWnVXSk1Obm1JRW9yVzl5bm9qU0NmU3NZdG9nQjM0YlN1OWw4QXQ5RGNaU2NUTGlRakdXOTRGSnhBRGJiWGhmV0ktNGNYZEQ4VGtQMzhTTDBhNmFtS0JRdUtKek85OWNHRVJCaWtRYkJBa1VfLVlXWDVVMm9lVnBSc01IMkd3d3JRMno3bk1nNDByRHo0VThVcUZaQ1lBMTVRQkxmX3RTWHRCNmJ6ZEkzSFdoZm5OenBGQzB0WW1wNWxHWU40R3JpN2tzVWR4TTdxcmEydw?oc=5
 
 - Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests - Al Jazeera
   ‘Azadi’ chants in India’
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzRJeFVXamtWTVppTGRTelZiSTktUmtuak1ENWRKZ3F5ODZ2aS03RTFFaWxodlhraXBtc2Z3NXVuWU5HWEk0NTdyanpLNFVqZWlSUXRwNW5Lc19BZUgzWEdoZjFtakJ0a0EyRDF0VmM5S1BieTRrSWVUaU5GQ0VGWmp5c25kQmFQaTltWW8tSFJ3el9kbVlaSldXMGt5dndpTS1uZzhBaE4ybWxGMl96bHFUNEV1QjTSAbwBQVVfeXFMT0UyVk1wUi00S1QtSGxEdmZVNkNCendwanBoNlJlRXo4eTk0dU5LOHpPYU5uaHFzb241RXpQdml5c25QRTFLRnBfeG43c3Q3X0Z2MzFlZHVWZXFveHhEV2dSWjVWU2R3Sy0yRGJlVzhHSEV1OHhEZmRwMkFkYjlSSGFjNW1NWDl1ZWJMUkpycGJURXdQYnFveEt5aTR5cVhWUXpaalFLLWc3RUNOM0dmSzd6a3Bxbm0yYlRzbU8?oc=5
 
-- India could reach $20 trillion by 2036 with 14.2% rupee growth: Equirus - The Economic Times
-  India could reach $20 trillion by 2036 with 14.
-  🔗 https://news.google.com/rss/articles/CBMiyAJBVV95cUxObGxzRVFNVUdNSl8wTE1UNS1USTRfWmJmNzktVlZMRHc3X0hXN1JlaEsxV3B1RHhTcGltMUdaX3AzUzkxSVExay11bzNwNzJJTUdXVnlSVWExWVBjTXdESDlqUjJBUHBfRWlVTWx4cGIzdTNBVWdoaWo2a0F1VE1KTzZzb0Q5YnNDWEJ0UU5GY1JMcTZHdS1LZW9zZVdGSEpLWHBiVHhkWUw0UlJVcnktX1FURUxUMmEyd0pGck00ZXZOUnBqU2doMTZlVXpjSGc4dlZRVTVrVW85YzdkRGM0R3ViTndhVmZmSHlFVWlBNzZ3ZnNKMTBjTVZBc2x5VHJhSTM1NExvWFZuX2cwaVB0S3JDOHZwNlFBY0g1Q2I4anNYd2JKMEFJV2wwNGc0cHluZVVxZlp5OHNNZnRDbmM5dWVELVVLX3B40gHkAUFVX3lxTE01RnMwODdUSmtZRWtFcXVKbFBpSWNyM2hfTWFwclRwc3J5ZXlvOVNSTnQzQUJjRERFaHpjaFlFWHU1WFFLSjBPLUp5elV6SnUySDNaYnZQRUhZZ25iRTJnb3VFTTJuLXlHb2JITWlRRzZmZkl1MEpPQVVmUlRjb3NncmZzUGdjOFZ2dGZvQWxGb1g0Uk5Xb2ZYc2JRLVRxNWNmVzhmSG9UbmJ3M08tZnNtSnhFZTRuaWZMVGoyUDkwMmVSRldpbjkxd1VjYXRwZ0xTRDZpR1RRV2tkUm0zWHdyNng0QQ?oc=5
+- At BCI helm for 14 years, Manan Kumar Mishra faces heat over professional conduct - timesofindia.indiatimes.com
+  At BCI helm for 14 years, Manan Kumar Mish
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeENOUVlOTmJMMTRBdjdjN2FHRUw5VmdrNDdaeWtGanpkX08wRjRDY2puLVdhVjhoRmE1VzdOb1BWSzhwR3k2YzJ1ZEpkajF1X1BhbWVlRkRLWTVMYVhFUE1VTC16dm5fRkF0dU0wOEExcFJJcExRbk1pVWUzLURjOVV4Z3YwUFFaMV9NQ0pheHVKQkxjSE5HRmJQNWh2cEZuemRreWJkb1FqeXpJeGw2ODdZOVExeHlhU2lTMnA0Q3ZiU0g2RjMtMkhTS2NjUW94ZlBSSTZlQ0Q0a2pyWFNqbHV30gHnAUFVX3lxTE1GMGxzZGNNWDM1TmlWRzNXcDROZS00eldGZ1BmYmxOR1FtWnI0OFZubHZ5TzVXODJjUllSanQ2Z2NEWnNrNkthSVA0Q21qalFmNGpGQlg5WWRjNEFMRWM5bGw0b1FtLUVOOTVoa19GWE5MWkRXQzNIRmdoREl2RUNyVlRvd0IzeHR5Y2FLaWE5eVBZYUhlaW5pZjUxeFdyTzMyVnNDYkttbzFwUHl1VjRKQ1hQMzlDcTZjLWJPeUw4c01FNXcwQTNBTjNuVTNKbFpTck81MmV6RmJ1MnplNldUX0E5Ynp4aw?oc=5
 
-- Air India pilot's reported cannabis test: What it can and can't tell investigators - BBC
-  Air India pilot's reported cannabis test: What it can
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZEN5eTVodnh1THZaOVM0OU1zVi1BbjRFT0ZKY2hwZXRiM1JhR3gwZHl0SlJQY3gwZHlYc3BsYjQ5VUlDa0hkQ1lnX2FZU3U4WGtyZ3Q4dVUydw?oc=5
+- Two injured after Air India Express passenger’s gun goes off at Varanasi airport - The Hindu
+  Two injured after Air India Express passenger’s gun goes
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbS1vSk5mUzcxQmhWcEtwczZsRnVVVFNWWlNwYUp2Qll2TlQ3SS1zbnhIMDFyUm5zWXd2RmFfUzBkZDdva2ZfY29nT00tLXlKOEUwRm5GaW15MVlqUTZYTkNIb2ZkekdlazdYSk14UDZUd3pnVUQwcnBOUVVLb2dGVmV3ck1qWUptQlZxYVB4M3VWS0pScjBmQWJlSmRNT1VHNDU3djhFRGdkQ0ZITE9acGJHQ2t0UHBXN05hTTBtX2ZtclkyOGROTzVjajZqck9KSk1zeThLRHZDdm03QlhKODhR0gHoAUFVX3lxTE5uOUxYWEt4b1pNY0t5eWh2UktZTnltczdiY2F3V2FhY2sxR2lQc054LUJ4YjRjS1JNbWFSaDY4c1BJTTZOV0hTTzZZeHdOSTg1MDlmSGtnT2Z4RVp3NzB1Rm50TkF1ZUM4X0tadDZ4SDc5cFo3T29jWDdIazQ5WGxVTkFpN0dMTVBJRkFoS3JyMU11NjlaNXhVQlZmaU1ZNGhpRXFZazFhR1RCbldZUUFQaUYxZnZoeWdWcVdta0FSdU5lMkJCYVh6aTZXai1kTmFPTmdVSlNZT3NxNjZkeGRETkZDMjZvN1E?oc=5
 
-- KFC chicken under scanner in Mangaluru, expired meat found in 3-star Mysuru hotels | India News - Hindustan Times
-  KFC chicken under scanner in Mangaluru, expired meat found in 3
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWUFkWFlfMGg5OFhPVWx6VXZhdmlVTUxURG5rdWJCSDlZMjB3NXhsbkhyRkNzY3Y0cXVBaXVWUTl3bjIyeTJ1M1plRkxXMmZsaFFuRUhaOXlfcDkyb0NBZ2cxSDJZaGdOTk5tYzNld25pS0NmWGJRXy0xR1E4OEQ5dEtpM29xTU9VS0VqdnVRVzlhQk5iS0dieWZsYktad09iQzRzZkhIOXVVbGw3eE5TV3owRUlFVkZpSkpzV2NldE5lOGdLUG1hOVpONGJDaUR3MWppZjNEVUlKMkJz0gHiAUFVX3lxTE5OTU1zR3VqZHlYQmlsSG41TzFwT0dKRTZGTllsRFV6bW1OYWxDaHFYLVcxa2h5eFlCOW83RF9YWGx4Zkd1X0xJTHhWOFdOOExKSkxTemxzY0F2YldSdm1DRDJFMU4tV1g4VndIa3dheE9IckowOFdLQTNDdUJRQlg1Z3l3aGxNWkUzZWFtQ0dNU1pjR2hJd0ozS2RhU1dDOGNfWG11UTA5TW1nYWVxdHlBeTN0NE1nY2p3V0tiX250WGJtRkxHVlpYVk4yTmJzRVRQTG4tMlYzVWI5S1dyRF9CRWc?oc=5
+- Air India Express Flyer's Gun Goes Off At Varanasi Airport, 2 Security Staffers Injured - NDTV
+  Air India Express Flyer's Gun Goes Off At Varanas
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTl4Mmw5ZHZkS25wc0RqS1NQazNNbllLR1o2M1FWV0YwY0FFUTZvS1BMajZLUGFXb245YlloVFBhRkU4Z2FkM3ZGOTktU3hMd21DQVNNSU5naWl2NlFwMkY3dXVHeFJSMFcwRXNEZEljYUdERllwdXNaYjhlOGozaFZ0RDdVRndXUE5JY3ZOVXl6Y2I0bDBSUFcyZ0s1NTZENlRYVEtuOUtZU3J1SkdCbjJZQ0tGSk1FbXo1MFFQejY4NmhSTGd0cGJnb9IB0wFBVV95cUxPQjAzdHBRa0oxRTVpdERfOFl4ZGUxYWtXTDAzekI0bHFlYkZrWnNJcXV6UGdpNkphaFFjYnNLczVoaUhZY2pVcTRfNXVhdUNjbkI1SEt0WnhRUkxNaTNlMXlPc3B4QVhSUFVYamo5V29yS0hQSXlDZXZ6OS04bXB3WThqOHpIaUFaVTR1RUpoWjNIM1o1ZUZVNGJxaTBqc0tlTUlkc2FwX010YW9FMkR3N3NnWEtONnZHUzRmcmNETFY2cmRSWnJ5Nm16YnNjVDMxWXhJ?oc=5
+
+- RDI Fund Row: Deeptech Investors Seek More Transparency, Independent Oversight
+  The government’s deeptech-focused ₹1 Lakh Cr Research, Development and Innovation (RDI) fund was supposed to be.
+  🔗 https://inc42.com/buzz/rdi-fund-row-deeptech-investors-seek-more-transparency-independent-oversight/
 
 - Can Astrotalk Chart A Future Beyond Astrology?
   Astrotalk became India&#8217;s 133rd unicorn this week.
@@ -176,49 +180,45 @@
   Turtlemint Jumps 23% To Lead Weekly Gains In New-Age Tech Stocks, Veefin Biggest Loser.
   🔗 https://inc42.com/buzz/turtlemint-jumps-23-to-lead-weekly-gains-in-new-age-tech-stocks-veefin-biggest-loser/
 
-- CRED-Backed NewTap Finance’s FY26 Profit More Than Doubles To ₹2.4 Cr
-  CRED-backed NBFC NewTap Finance reported a net profit of ₹2.4 Cr in the financial year ended March 31, 2026.
-  🔗 https://inc42.com/buzz/cred-backed-newtap-finances-fy26-profit-more-than-doubles-to-%e2%82%b92-4-cr/
-
-- India Nears Rs 70,000-Crore Submarine Deal With Germany, Key Meet Likely Soon - NDTV
-  India Nears Rs 70,000-Crore
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEtBLTBnTXNLMGVtc2pHdVNXV043Tml4ZjVGS0ZrYVdHMWNNVlZ2d195Vk1ITmIwQzQ0QVY5OF9yOXV1RmIzZk5LcGRnbVpnTUVMYkx3M3N2UHJnanJjbXV6VW42NzFucF9fRkJPb1RRUy1xUjIzSzRGSy16cU0zZ3VkMlkteTNnMzFkTTdFRFBscWN6ZF9zSk1Ld3RQcE5sVW0xSWpZWWdHTWtBNUNlLUQ4OHlISWNhanNYMmJHbTlhMHhxaHJhMkxB0gHSAUFVX3lxTE1uR2MwTmg0M2xaY2c2NDdLaEJaVWJpazNjN2VNcGdYZVU5Tk9NUV9zRGNFN2YxbE5lYWFjckdBa29SZzBkeVpPWW5zdUlPc1BhbEc1X2JFcFBDQVg4ZkRNMHFVWjZ3bEhCUWFrUWFWWEZibkFyOTVXVEtiTWk1OHljNllGaGgwUHJFajJFcnRmR18xV1VIVm9fUnBRQXNtaFIzX3FtbmhpRWF5SmRYR1RjR0hCak5IaVIxbVQ2SlBuUUQ0dTFISXpTTENyakRrTEJZUQ?oc=5
+- 80th Independence Day Highlights: 80th Independence Day Celebrations Mark 150 Years Of 'Vande Mataram' - NDTV
+  80th Independence Day celebrations mark 150 years of 'Vande
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUd0UkJLNUo4LUd1OVVZai1ieHZKXzZ0TVlsdmRxb3FNY3VybTdyV2lucGtMYXJfUDgyZF82YjVfZkpCZkpBRnN5eWVGeWxnV3AtX2xPY0s2aVF6eTh2NkJXUjJmYnlpMUpqdDFaU0tWcVRnMDdSb0x0bUQ2MkxmR2pCQkpDODB4RzFSVHVBZjJhbnNMM0R5ZXNqSlVtNlNmalZ6bTVqdzJXNHVKaVlXcHBMaGlNTWdfMEVkS182ZFd6U3p4ZnFaTmdvTkQyRWhqaHgzckk0RjY0a2Z5TDVmU0JR0gHqAUFVX3lxTE9hQ0tLRFFFNWVVZk9Sc2JoYVh0SFVqWnVXSk1Obm1JRW9yVzl5bm9qU0NmU3NZdG9nQjM0YlN1OWw4QXQ5RGNaU2NUTGlRakdXOTRGSnhBRGJiWGhmV0ktNGNYZEQ4VGtQMzhTTDBhNmFtS0JRdUtKek85OWNHRVJCaWtRYkJBa1VfLVlXWDVVMm9lVnBSc01IMkd3d3JRMno3bk1nNDByRHo0VThVcUZaQ1lBMTVRQkxmX3RTWHRCNmJ6ZEkzSFdoZm5OenBGQzB0WW1wNWxHWU40R3JpN2tzVWR4TTdxcmEydw?oc=5
 
 - Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests - Al Jazeera
   ‘Azadi’ chants in India’
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzRJeFVXamtWTVppTGRTelZiSTktUmtuak1ENWRKZ3F5ODZ2aS03RTFFaWxodlhraXBtc2Z3NXVuWU5HWEk0NTdyanpLNFVqZWlSUXRwNW5Lc19BZUgzWEdoZjFtakJ0a0EyRDF0VmM5S1BieTRrSWVUaU5GQ0VGWmp5c25kQmFQaTltWW8tSFJ3el9kbVlaSldXMGt5dndpTS1uZzhBaE4ybWxGMl96bHFUNEV1QjTSAbwBQVVfeXFMT0UyVk1wUi00S1QtSGxEdmZVNkNCendwanBoNlJlRXo4eTk0dU5LOHpPYU5uaHFzb241RXpQdml5c25QRTFLRnBfeG43c3Q3X0Z2MzFlZHVWZXFveHhEV2dSWjVWU2R3Sy0yRGJlVzhHSEV1OHhEZmRwMkFkYjlSSGFjNW1NWDl1ZWJMUkpycGJURXdQYnFveEt5aTR5cVhWUXpaalFLLWc3RUNOM0dmSzd6a3Bxbm0yYlRzbU8?oc=5
 
-- India could reach $20 trillion by 2036 with 14.2% rupee growth: Equirus - The Economic Times
-  India could reach $20 trillion by 2036 with 14.
-  🔗 https://news.google.com/rss/articles/CBMiyAJBVV95cUxObGxzRVFNVUdNSl8wTE1UNS1USTRfWmJmNzktVlZMRHc3X0hXN1JlaEsxV3B1RHhTcGltMUdaX3AzUzkxSVExay11bzNwNzJJTUdXVnlSVWExWVBjTXdESDlqUjJBUHBfRWlVTWx4cGIzdTNBVWdoaWo2a0F1VE1KTzZzb0Q5YnNDWEJ0UU5GY1JMcTZHdS1LZW9zZVdGSEpLWHBiVHhkWUw0UlJVcnktX1FURUxUMmEyd0pGck00ZXZOUnBqU2doMTZlVXpjSGc4dlZRVTVrVW85YzdkRGM0R3ViTndhVmZmSHlFVWlBNzZ3ZnNKMTBjTVZBc2x5VHJhSTM1NExvWFZuX2cwaVB0S3JDOHZwNlFBY0g1Q2I4anNYd2JKMEFJV2wwNGc0cHluZVVxZlp5OHNNZnRDbmM5dWVELVVLX3B40gHkAUFVX3lxTE01RnMwODdUSmtZRWtFcXVKbFBpSWNyM2hfTWFwclRwc3J5ZXlvOVNSTnQzQUJjRERFaHpjaFlFWHU1WFFLSjBPLUp5elV6SnUySDNaYnZQRUhZZ25iRTJnb3VFTTJuLXlHb2JITWlRRzZmZkl1MEpPQVVmUlRjb3NncmZzUGdjOFZ2dGZvQWxGb1g0Uk5Xb2ZYc2JRLVRxNWNmVzhmSG9UbmJ3M08tZnNtSnhFZTRuaWZMVGoyUDkwMmVSRldpbjkxd1VjYXRwZ0xTRDZpR1RRV2tkUm0zWHdyNng0QQ?oc=5
+- At BCI helm for 14 years, Manan Kumar Mishra faces heat over professional conduct - timesofindia.indiatimes.com
+  At BCI helm for 14 years, Manan Kumar Mish
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeENOUVlOTmJMMTRBdjdjN2FHRUw5VmdrNDdaeWtGanpkX08wRjRDY2puLVdhVjhoRmE1VzdOb1BWSzhwR3k2YzJ1ZEpkajF1X1BhbWVlRkRLWTVMYVhFUE1VTC16dm5fRkF0dU0wOEExcFJJcExRbk1pVWUzLURjOVV4Z3YwUFFaMV9NQ0pheHVKQkxjSE5HRmJQNWh2cEZuemRreWJkb1FqeXpJeGw2ODdZOVExeHlhU2lTMnA0Q3ZiU0g2RjMtMkhTS2NjUW94ZlBSSTZlQ0Q0a2pyWFNqbHV30gHnAUFVX3lxTE1GMGxzZGNNWDM1TmlWRzNXcDROZS00eldGZ1BmYmxOR1FtWnI0OFZubHZ5TzVXODJjUllSanQ2Z2NEWnNrNkthSVA0Q21qalFmNGpGQlg5WWRjNEFMRWM5bGw0b1FtLUVOOTVoa19GWE5MWkRXQzNIRmdoREl2RUNyVlRvd0IzeHR5Y2FLaWE5eVBZYUhlaW5pZjUxeFdyTzMyVnNDYkttbzFwUHl1VjRKQ1hQMzlDcTZjLWJPeUw4c01FNXcwQTNBTjNuVTNKbFpTck81MmV6RmJ1MnplNldUX0E5Ynp4aw?oc=5
 
-- Air India pilot's reported cannabis test: What it can and can't tell investigators - BBC
-  Air India pilot's reported cannabis test: What it can
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZEN5eTVodnh1THZaOVM0OU1zVi1BbjRFT0ZKY2hwZXRiM1JhR3gwZHl0SlJQY3gwZHlYc3BsYjQ5VUlDa0hkQ1lnX2FZU3U4WGtyZ3Q4dVUydw?oc=5
+- Two injured after Air India Express passenger’s gun goes off at Varanasi airport - The Hindu
+  Two injured after Air India Express passenger’s gun goes
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbS1vSk5mUzcxQmhWcEtwczZsRnVVVFNWWlNwYUp2Qll2TlQ3SS1zbnhIMDFyUm5zWXd2RmFfUzBkZDdva2ZfY29nT00tLXlKOEUwRm5GaW15MVlqUTZYTkNIb2ZkekdlazdYSk14UDZUd3pnVUQwcnBOUVVLb2dGVmV3ck1qWUptQlZxYVB4M3VWS0pScjBmQWJlSmRNT1VHNDU3djhFRGdkQ0ZITE9acGJHQ2t0UHBXN05hTTBtX2ZtclkyOGROTzVjajZqck9KSk1zeThLRHZDdm03QlhKODhR0gHoAUFVX3lxTE5uOUxYWEt4b1pNY0t5eWh2UktZTnltczdiY2F3V2FhY2sxR2lQc054LUJ4YjRjS1JNbWFSaDY4c1BJTTZOV0hTTzZZeHdOSTg1MDlmSGtnT2Z4RVp3NzB1Rm50TkF1ZUM4X0tadDZ4SDc5cFo3T29jWDdIazQ5WGxVTkFpN0dMTVBJRkFoS3JyMU11NjlaNXhVQlZmaU1ZNGhpRXFZazFhR1RCbldZUUFQaUYxZnZoeWdWcVdta0FSdU5lMkJCYVh6aTZXai1kTmFPTmdVSlNZT3NxNjZkeGRETkZDMjZvN1E?oc=5
 
-- KFC chicken under scanner in Mangaluru, expired meat found in 3-star Mysuru hotels | India News - Hindustan Times
-  KFC chicken under scanner in Mangaluru, expired meat found in 3
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWUFkWFlfMGg5OFhPVWx6VXZhdmlVTUxURG5rdWJCSDlZMjB3NXhsbkhyRkNzY3Y0cXVBaXVWUTl3bjIyeTJ1M1plRkxXMmZsaFFuRUhaOXlfcDkyb0NBZ2cxSDJZaGdOTk5tYzNld25pS0NmWGJRXy0xR1E4OEQ5dEtpM29xTU9VS0VqdnVRVzlhQk5iS0dieWZsYktad09iQzRzZkhIOXVVbGw3eE5TV3owRUlFVkZpSkpzV2NldE5lOGdLUG1hOVpONGJDaUR3MWppZjNEVUlKMkJz0gHiAUFVX3lxTE5OTU1zR3VqZHlYQmlsSG41TzFwT0dKRTZGTllsRFV6bW1OYWxDaHFYLVcxa2h5eFlCOW83RF9YWGx4Zkd1X0xJTHhWOFdOOExKSkxTemxzY0F2YldSdm1DRDJFMU4tV1g4VndIa3dheE9IckowOFdLQTNDdUJRQlg1Z3l3aGxNWkUzZWFtQ0dNU1pjR2hJd0ozS2RhU1dDOGNfWG11UTA5TW1nYWVxdHlBeTN0NE1nY2p3V0tiX250WGJtRkxHVlpYVk4yTmJzRVRQTG4tMlYzVWI5S1dyRF9CRWc?oc=5
+- Air India Express Flyer's Gun Goes Off At Varanasi Airport, 2 Security Staffers Injured - NDTV
+  Air India Express Flyer's Gun Goes Off At Varanas
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTl4Mmw5ZHZkS25wc0RqS1NQazNNbllLR1o2M1FWV0YwY0FFUTZvS1BMajZLUGFXb245YlloVFBhRkU4Z2FkM3ZGOTktU3hMd21DQVNNSU5naWl2NlFwMkY3dXVHeFJSMFcwRXNEZEljYUdERllwdXNaYjhlOGozaFZ0RDdVRndXUE5JY3ZOVXl6Y2I0bDBSUFcyZ0s1NTZENlRYVEtuOUtZU3J1SkdCbjJZQ0tGSk1FbXo1MFFQejY4NmhSTGd0cGJnb9IB0wFBVV95cUxPQjAzdHBRa0oxRTVpdERfOFl4ZGUxYWtXTDAzekI0bHFlYkZrWnNJcXV6UGdpNkphaFFjYnNLczVoaUhZY2pVcTRfNXVhdUNjbkI1SEt0WnhRUkxNaTNlMXlPc3B4QVhSUFVYamo5V29yS0hQSXlDZXZ6OS04bXB3WThqOHpIaUFaVTR1RUpoWjNIM1o1ZUZVNGJxaTBqc0tlTUlkc2FwX010YW9FMkR3N3NnWEtONnZHUzRmcmNETFY2cmRSWnJ5Nm16YnNjVDMxWXhJ?oc=5
 
-- India Nears Rs 70,000-Crore Submarine Deal With Germany, Key Meet Likely Soon - NDTV
-  India Nears Rs 70,000-Crore
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEtBLTBnTXNLMGVtc2pHdVNXV043Tml4ZjVGS0ZrYVdHMWNNVlZ2d195Vk1ITmIwQzQ0QVY5OF9yOXV1RmIzZk5LcGRnbVpnTUVMYkx3M3N2UHJnanJjbXV6VW42NzFucF9fRkJPb1RRUy1xUjIzSzRGSy16cU0zZ3VkMlkteTNnMzFkTTdFRFBscWN6ZF9zSk1Ld3RQcE5sVW0xSWpZWWdHTWtBNUNlLUQ4OHlISWNhanNYMmJHbTlhMHhxaHJhMkxB0gHSAUFVX3lxTE1uR2MwTmg0M2xaY2c2NDdLaEJaVWJpazNjN2VNcGdYZVU5Tk9NUV9zRGNFN2YxbE5lYWFjckdBa29SZzBkeVpPWW5zdUlPc1BhbEc1X2JFcFBDQVg4ZkRNMHFVWjZ3bEhCUWFrUWFWWEZibkFyOTVXVEtiTWk1OHljNllGaGgwUHJFajJFcnRmR18xV1VIVm9fUnBRQXNtaFIzX3FtbmhpRWF5SmRYR1RjR0hCak5IaVIxbVQ2SlBuUUQ0dTFISXpTTENyakRrTEJZUQ?oc=5
+- 80th Independence Day Highlights: 80th Independence Day Celebrations Mark 150 Years Of 'Vande Mataram' - NDTV
+  80th Independence Day celebrations mark 150 years of 'Vande
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUd0UkJLNUo4LUd1OVVZai1ieHZKXzZ0TVlsdmRxb3FNY3VybTdyV2lucGtMYXJfUDgyZF82YjVfZkpCZkpBRnN5eWVGeWxnV3AtX2xPY0s2aVF6eTh2NkJXUjJmYnlpMUpqdDFaU0tWcVRnMDdSb0x0bUQ2MkxmR2pCQkpDODB4RzFSVHVBZjJhbnNMM0R5ZXNqSlVtNlNmalZ6bTVqdzJXNHVKaVlXcHBMaGlNTWdfMEVkS182ZFd6U3p4ZnFaTmdvTkQyRWhqaHgzckk0RjY0a2Z5TDVmU0JR0gHqAUFVX3lxTE9hQ0tLRFFFNWVVZk9Sc2JoYVh0SFVqWnVXSk1Obm1JRW9yVzl5bm9qU0NmU3NZdG9nQjM0YlN1OWw4QXQ5RGNaU2NUTGlRakdXOTRGSnhBRGJiWGhmV0ktNGNYZEQ4VGtQMzhTTDBhNmFtS0JRdUtKek85OWNHRVJCaWtRYkJBa1VfLVlXWDVVMm9lVnBSc01IMkd3d3JRMno3bk1nNDByRHo0VThVcUZaQ1lBMTVRQkxmX3RTWHRCNmJ6ZEkzSFdoZm5OenBGQzB0WW1wNWxHWU40R3JpN2tzVWR4TTdxcmEydw?oc=5
 
 - Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests - Al Jazeera
   ‘Azadi’ chants in India’
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzRJeFVXamtWTVppTGRTelZiSTktUmtuak1ENWRKZ3F5ODZ2aS03RTFFaWxodlhraXBtc2Z3NXVuWU5HWEk0NTdyanpLNFVqZWlSUXRwNW5Lc19BZUgzWEdoZjFtakJ0a0EyRDF0VmM5S1BieTRrSWVUaU5GQ0VGWmp5c25kQmFQaTltWW8tSFJ3el9kbVlaSldXMGt5dndpTS1uZzhBaE4ybWxGMl96bHFUNEV1QjTSAbwBQVVfeXFMT0UyVk1wUi00S1QtSGxEdmZVNkNCendwanBoNlJlRXo4eTk0dU5LOHpPYU5uaHFzb241RXpQdml5c25QRTFLRnBfeG43c3Q3X0Z2MzFlZHVWZXFveHhEV2dSWjVWU2R3Sy0yRGJlVzhHSEV1OHhEZmRwMkFkYjlSSGFjNW1NWDl1ZWJMUkpycGJURXdQYnFveEt5aTR5cVhWUXpaalFLLWc3RUNOM0dmSzd6a3Bxbm0yYlRzbU8?oc=5
 
-- India could reach $20 trillion by 2036 with 14.2% rupee growth: Equirus - The Economic Times
-  India could reach $20 trillion by 2036 with 14.
-  🔗 https://news.google.com/rss/articles/CBMiyAJBVV95cUxObGxzRVFNVUdNSl8wTE1UNS1USTRfWmJmNzktVlZMRHc3X0hXN1JlaEsxV3B1RHhTcGltMUdaX3AzUzkxSVExay11bzNwNzJJTUdXVnlSVWExWVBjTXdESDlqUjJBUHBfRWlVTWx4cGIzdTNBVWdoaWo2a0F1VE1KTzZzb0Q5YnNDWEJ0UU5GY1JMcTZHdS1LZW9zZVdGSEpLWHBiVHhkWUw0UlJVcnktX1FURUxUMmEyd0pGck00ZXZOUnBqU2doMTZlVXpjSGc4dlZRVTVrVW85YzdkRGM0R3ViTndhVmZmSHlFVWlBNzZ3ZnNKMTBjTVZBc2x5VHJhSTM1NExvWFZuX2cwaVB0S3JDOHZwNlFBY0g1Q2I4anNYd2JKMEFJV2wwNGc0cHluZVVxZlp5OHNNZnRDbmM5dWVELVVLX3B40gHkAUFVX3lxTE01RnMwODdUSmtZRWtFcXVKbFBpSWNyM2hfTWFwclRwc3J5ZXlvOVNSTnQzQUJjRERFaHpjaFlFWHU1WFFLSjBPLUp5elV6SnUySDNaYnZQRUhZZ25iRTJnb3VFTTJuLXlHb2JITWlRRzZmZkl1MEpPQVVmUlRjb3NncmZzUGdjOFZ2dGZvQWxGb1g0Uk5Xb2ZYc2JRLVRxNWNmVzhmSG9UbmJ3M08tZnNtSnhFZTRuaWZMVGoyUDkwMmVSRldpbjkxd1VjYXRwZ0xTRDZpR1RRV2tkUm0zWHdyNng0QQ?oc=5
+- At BCI helm for 14 years, Manan Kumar Mishra faces heat over professional conduct - timesofindia.indiatimes.com
+  At BCI helm for 14 years, Manan Kumar Mish
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeENOUVlOTmJMMTRBdjdjN2FHRUw5VmdrNDdaeWtGanpkX08wRjRDY2puLVdhVjhoRmE1VzdOb1BWSzhwR3k2YzJ1ZEpkajF1X1BhbWVlRkRLWTVMYVhFUE1VTC16dm5fRkF0dU0wOEExcFJJcExRbk1pVWUzLURjOVV4Z3YwUFFaMV9NQ0pheHVKQkxjSE5HRmJQNWh2cEZuemRreWJkb1FqeXpJeGw2ODdZOVExeHlhU2lTMnA0Q3ZiU0g2RjMtMkhTS2NjUW94ZlBSSTZlQ0Q0a2pyWFNqbHV30gHnAUFVX3lxTE1GMGxzZGNNWDM1TmlWRzNXcDROZS00eldGZ1BmYmxOR1FtWnI0OFZubHZ5TzVXODJjUllSanQ2Z2NEWnNrNkthSVA0Q21qalFmNGpGQlg5WWRjNEFMRWM5bGw0b1FtLUVOOTVoa19GWE5MWkRXQzNIRmdoREl2RUNyVlRvd0IzeHR5Y2FLaWE5eVBZYUhlaW5pZjUxeFdyTzMyVnNDYkttbzFwUHl1VjRKQ1hQMzlDcTZjLWJPeUw4c01FNXcwQTNBTjNuVTNKbFpTck81MmV6RmJ1MnplNldUX0E5Ynp4aw?oc=5
 
-- Air India pilot's reported cannabis test: What it can and can't tell investigators - BBC
-  Air India pilot's reported cannabis test: What it can
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZEN5eTVodnh1THZaOVM0OU1zVi1BbjRFT0ZKY2hwZXRiM1JhR3gwZHl0SlJQY3gwZHlYc3BsYjQ5VUlDa0hkQ1lnX2FZU3U4WGtyZ3Q4dVUydw?oc=5
+- Two injured after Air India Express passenger’s gun goes off at Varanasi airport - The Hindu
+  Two injured after Air India Express passenger’s gun goes
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbS1vSk5mUzcxQmhWcEtwczZsRnVVVFNWWlNwYUp2Qll2TlQ3SS1zbnhIMDFyUm5zWXd2RmFfUzBkZDdva2ZfY29nT00tLXlKOEUwRm5GaW15MVlqUTZYTkNIb2ZkekdlazdYSk14UDZUd3pnVUQwcnBOUVVLb2dGVmV3ck1qWUptQlZxYVB4M3VWS0pScjBmQWJlSmRNT1VHNDU3djhFRGdkQ0ZITE9acGJHQ2t0UHBXN05hTTBtX2ZtclkyOGROTzVjajZqck9KSk1zeThLRHZDdm03QlhKODhR0gHoAUFVX3lxTE5uOUxYWEt4b1pNY0t5eWh2UktZTnltczdiY2F3V2FhY2sxR2lQc054LUJ4YjRjS1JNbWFSaDY4c1BJTTZOV0hTTzZZeHdOSTg1MDlmSGtnT2Z4RVp3NzB1Rm50TkF1ZUM4X0tadDZ4SDc5cFo3T29jWDdIazQ5WGxVTkFpN0dMTVBJRkFoS3JyMU11NjlaNXhVQlZmaU1ZNGhpRXFZazFhR1RCbldZUUFQaUYxZnZoeWdWcVdta0FSdU5lMkJCYVh6aTZXai1kTmFPTmdVSlNZT3NxNjZkeGRETkZDMjZvN1E?oc=5
 
-- KFC chicken under scanner in Mangaluru, expired meat found in 3-star Mysuru hotels | India News - Hindustan Times
-  KFC chicken under scanner in Mangaluru, expired meat found in 3
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWUFkWFlfMGg5OFhPVWx6VXZhdmlVTUxURG5rdWJCSDlZMjB3NXhsbkhyRkNzY3Y0cXVBaXVWUTl3bjIyeTJ1M1plRkxXMmZsaFFuRUhaOXlfcDkyb0NBZ2cxSDJZaGdOTk5tYzNld25pS0NmWGJRXy0xR1E4OEQ5dEtpM29xTU9VS0VqdnVRVzlhQk5iS0dieWZsYktad09iQzRzZkhIOXVVbGw3eE5TV3owRUlFVkZpSkpzV2NldE5lOGdLUG1hOVpONGJDaUR3MWppZjNEVUlKMkJz0gHiAUFVX3lxTE5OTU1zR3VqZHlYQmlsSG41TzFwT0dKRTZGTllsRFV6bW1OYWxDaHFYLVcxa2h5eFlCOW83RF9YWGx4Zkd1X0xJTHhWOFdOOExKSkxTemxzY0F2YldSdm1DRDJFMU4tV1g4VndIa3dheE9IckowOFdLQTNDdUJRQlg1Z3l3aGxNWkUzZWFtQ0dNU1pjR2hJd0ozS2RhU1dDOGNfWG11UTA5TW1nYWVxdHlBeTN0NE1nY2p3V0tiX250WGJtRkxHVlpYVk4yTmJzRVRQTG4tMlYzVWI5S1dyRF9CRWc?oc=5
+- Air India Express Flyer's Gun Goes Off At Varanasi Airport, 2 Security Staffers Injured - NDTV
+  Air India Express Flyer's Gun Goes Off At Varanas
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTl4Mmw5ZHZkS25wc0RqS1NQazNNbllLR1o2M1FWV0YwY0FFUTZvS1BMajZLUGFXb245YlloVFBhRkU4Z2FkM3ZGOTktU3hMd21DQVNNSU5naWl2NlFwMkY3dXVHeFJSMFcwRXNEZEljYUdERllwdXNaYjhlOGozaFZ0RDdVRndXUE5JY3ZOVXl6Y2I0bDBSUFcyZ0s1NTZENlRYVEtuOUtZU3J1SkdCbjJZQ0tGSk1FbXo1MFFQejY4NmhSTGd0cGJnb9IB0wFBVV95cUxPQjAzdHBRa0oxRTVpdERfOFl4ZGUxYWtXTDAzekI0bHFlYkZrWnNJcXV6UGdpNkphaFFjYnNLczVoaUhZY2pVcTRfNXVhdUNjbkI1SEt0WnhRUkxNaTNlMXlPc3B4QVhSUFVYamo5V29yS0hQSXlDZXZ6OS04bXB3WThqOHpIaUFaVTR1RUpoWjNIM1o1ZUZVNGJxaTBqc0tlTUlkc2FwX010YW9FMkR3N3NnWEtONnZHUzRmcmNETFY2cmRSWnJ5Nm16YnNjVDMxWXhJ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-16 06:35:08 UTC_
+_Last updated: 2026-08-16 12:32:11 UTC_
