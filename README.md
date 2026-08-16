@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Mahindra introduces the BE 6 SPORTEQ, a bold new expression of sport, technology, and electric performance - Mahindra
-  Mahindra introduces the BE 6 SPORTEQ, a bold
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUW5BQ0pUZGpoNFdqYXZKVy1ac1lkSFJwTExOWHNQV3dSMkpEVFFtbGprcTVCaWJGbzI1RnE2UE5QbUxlb3JkWkhJTlRKbXVIazJYQVN0bEZjdzAzRXZScmRLVXgyTjVNVFJFUkpDcW9mbm1Qb1lFdW92cHhhbjdoZnlUc2d0OGh1bHBFTHAtOENlc0I4d0tOVXQtOE9heHpZTm55RUo3QzlfUmZ0UTJ5dFlLVHBKRHk3X0NKamJUQzR5SXhScU9KUklGY2hPblU1b1U0RU81S3VVa3lrcWNzaDFER3dEZG4teG53?oc=5
+- Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests - Al Jazeera
+  ‘Azadi’ chants in India’
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzRJeFVXamtWTVppTGRTelZiSTktUmtuak1ENWRKZ3F5ODZ2aS03RTFFaWxodlhraXBtc2Z3NXVuWU5HWEk0NTdyanpLNFVqZWlSUXRwNW5Lc19BZUgzWEdoZjFtakJ0a0EyRDF0VmM5S1BieTRrSWVUaU5GQ0VGWmp5c25kQmFQaTltWW8tSFJ3el9kbVlaSldXMGt5dndpTS1uZzhBaE4ybWxGMl96bHFUNEV1QjTSAbwBQVVfeXFMT0UyVk1wUi00S1QtSGxEdmZVNkNCendwanBoNlJlRXo4eTk0dU5LOHpPYU5uaHFzb241RXpQdml5c25QRTFLRnBfeG43c3Q3X0Z2MzFlZHVWZXFveHhEV2dSWjVWU2R3Sy0yRGJlVzhHSEV1OHhEZmRwMkFkYjlSSGFjNW1NWDl1ZWJMUkpycGJURXdQYnFveEt5aTR5cVhWUXpaalFLLWc3RUNOM0dmSzd6a3Bxbm0yYlRzbU8?oc=5
 
-- Telangana Police mark Independence Day with focus on technology, safety and reform - The Hindu
-  Telangana Police mark Independence Day with focus on technology
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQczdsWktQcVZLcDVZNDNPU3FiSHh6N0ZZSmRTODdIY1ZPdkhNLUxmWGxyUFZNVTlNS05VcmNlMHp5QnhuTTRBYXRmTEQ2YjFUVnNlUzVuTDlkRGs4MTZCdWZXMEkyUGlBVUhRNk40cXVibnkwUzZSMGdGWmtReU5TcXhwb2MzR2hOLWZ2Qkt0WWVSOHA0Mi1sQ1NZSVZwNHNWbG5pTzVQOEVjT3J1S2tyQm9Lb1dsb2JwRzRheU5VLXE4RkE1QVU1Tlk1bEZqc0ZfSEYxLVQ4YmZxMWRpb3FZcE9HQ0LSAesBQVVfeXFMTmJScWRKWmJTUTg0NjJkNGhIMlNGbjVWcUM2cFJMOVFTbjJyQTZmOU8tbndfeWtvYnpfUmV4Um53OTZKU1Q3Mm9RR1pBRTFsclhMaEN5VGVzM2M2ek9VVEc3WTZDa25pMnVON2tMZHdON29EX2ZtNWI4d3dMeG9TV0xUWjNpN3FneXFDbXpnbmhDQXZOQjNpcVhQal9JcnFyS20zSEJaRnBrYTdLVm5XVDloZHJMd3FPZkltSkRfTjFYaDR4ZUhNSTYxaE1EckVnSHFVYXJPQnJwWm5uVUJGR3FlbEJRNHQ2al9YTQ?oc=5
+- AI Training, Free Coaching: PM Modi's 6 Big Announcements On Independence Day - ndtv.com
+  PM Modi made a series of announcements on Independence Day
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLTNNUmpvWmpKUHduN095eUFGR0xmQkNkQmltTGNxamdUMHRjU3Q0TGJJa21YZlU5TlNOa1J4ak5SdjltRVRRMTYtUk1nbnhTd1JhWE4wY1pVMWIyaG1zWXZXUy1jYUFjSG5YaDloSUlMR0g5OGhSTDZEelVLU0NBaVRzRFQ4OVRxYWlUV3FvWGlKNnZxNUxiZHdBU0I4eTY5RHJ6TDgyajNRZnVtcmFzYzl30gGaAkFVX3lxTE1kclhfR3N0ZWhhSTB4cnIyNVVNNFE1TUttMjB2eFRKdGxkeGd5NW9SV0h2ejllNHV1NEcxeHF4Tmd6ZG80TTctVW11TC05YklvWURFb3dYSHV4R3I5YmhOZDI2RV9yOEJuelBBU2Y3S3l0dUNDS01pX0xWbGZxYmxXeEFMRXRUOFZoYmdrZ292ZzJCd05nUXk2MXpWUXp0OE5iZm1wVTdQb1Q0VTVHUkZ5ZWJWSGFXbkVWZ3hSNmRYT281M2hQNEZTd0xuOEY3QmlqRV83R2ptNGM1SzdVX1hLTExCUlF3Qi13Y0E4UHZsVE9Pd3lzMWxBRVlSZmUzcHoxWG1WLWdlZG9EcU54MzJiZk9zQi1PVEtvZw?oc=5
 
-- NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies - NASA (.gov)
-  NASA competition invites students to help Imagine a Future Enabled by Lunar
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVFhNMFFlWHI1c0VvbVI4Qzd2MlRES3VqcER1OUV4c3lQSlZfZlRyQlRYaDRfUExJSGZPRFl4ZlVSQXloWE5xUkFjYWN6X3ZGbU5SN09zVDRPOXd1bVBZVHlhSXZ1bERzTThpLXNDbll6YTQydHVXclpkYTNIcUdXMjQ0WmlqdFhHTlpDaVVURk1KRG9tZWVFVFIwaFNKZkVlRjJGWlJyS0luS1lLSEVkY2dMWW1XWWhtMmp6UnhQQXp2VVFfY1BfTXhlODVzendxN3pWMHdsaHpSVGl6UWJnN3ZfQ1lmS2JsMlQxT25yb1FLSjVoNWw5TFgweTI?oc=5
+- 80th Independence Day Live Updates: 80th Independence Day Celebrations Mark 150 Years Of 'Vande Mataram' - ndtv.com
+  80th Independence Day Live Updates: 80th Independence day Celebrations
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUd0UkJLNUo4LUd1OVVZai1ieHZKXzZ0TVlsdmRxb3FNY3VybTdyV2lucGtMYXJfUDgyZF82YjVfZkpCZkpBRnN5eWVGeWxnV3AtX2xPY0s2aVF6eTh2NkJXUjJmYnlpMUpqdDFaU0tWcVRnMDdSb0x0bUQ2MkxmR2pCQkpDODB4RzFSVHVBZjJhbnNMM0R5ZXNqSlVtNlNmalZ6bTVqdzJXNHVKaVlXcHBMaGlNTWdfMEVkS182ZFd6U3p4ZnFaTmdvTkQyRWhqaHgzckk0RjY0a2Z5TDVmU0JR0gHqAUFVX3lxTE9hQ0tLRFFFNWVVZk9Sc2JoYVh0SFVqWnVXSk1Obm1JRW9yVzl5bm9qU0NmU3NZdG9nQjM0YlN1OWw4QXQ5RGNaU2NUTGlRakdXOTRGSnhBRGJiWGhmV0ktNGNYZEQ4VGtQMzhTTDBhNmFtS0JRdUtKek85OWNHRVJCaWtRYkJBa1VfLVlXWDVVMm9lVnBSc01IMkd3d3JRMno3bk1nNDByRHo0VThVcUZaQ1lBMTVRQkxmX3RTWHRCNmJ6ZEkzSFdoZm5OenBGQzB0WW1wNWxHWU40R3JpN2tzVWR4TTdxcmEydw?oc=5
 
-- PM lays out seven-point Sapta Dhara framework for Viksit Bharat - Rediff
-  PM lays out seven-point Sapt
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmtYc0p1SFlkOVFfLXE3TWxUcFJnRjlSaWZfa3dNLU5VR1BVa1hpX2JzYnRHZlNHMzZYQmdKMzZ4X1MwNUV1QXZoT3g2Nl8zN2ZOZWR3VlRRbmx1N012Y0pYeVhJMU5oYVByUDI1UW1Ka0xVdUVJaGxJbmRJVW02NFU5dUVqUUE4ZEtfUTd2WnJ3XzZLY2lWRlFXaC1vem1PVHg0VjlxYW42cFdkdFRIRtIBswFBVV95cUxOT0IwUGVZUzhqRmhCR1JXSjVpZGpYQkdoQ2otQnVkT1NNYjRKeWd2enZlZFF1VmMyUW5pMXV3VDdUSnZXQk5tY1dGR2k1MnI3MlZnSFFWM1ZVRHFSU0VLQk9iNkVLQ3RZWjVjVkEzU192bW1Eb3pUdFR1NmR4X0tGMG9FNlF2OEM1cTJyeTh2a0xNbk5vci02R2RmUlVMeHY1LWh3ckJndFJsVjhfRFhNYVZMYw?oc=5
+- Modi threatens to target ‘intellectual Naxals’ in Independence Day speech - Al Jazeera
+  Modi threatens to target ‘intellectual
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQUW5QTmhKOHdWX1pBWnVkV1pFMjhyZHE4dFhDS21HQk9QLXAwZmlxT2MtUDA2b2NiLXBjOF9uUDE5ck5OVFZPMHFXeDNveGFUM2ZRYnpBV2FrT1pleTMxMXBtajdFUE1QOThvd0tyZm5EZGxhdHNBMmlwaGI3LUZXQWM2blgxRTAxSTBlN19udGh6dFNiU0hkaXNCalhwM1J3M2hmWTB2QVQzdU51V0h4SjNn0gG3AUFVX3lxTE9iU1JIbHhYT3dpSmR0WkwycnBxbXozdUN3NUVGTTBfLXVOX2liaUo3dkJKWkxwbDlnUUh1SUxNVHlaa0JBaEhmMHg1d3BJVkxQTFZGSXBGR0VpRFUtQnFyaFc0ZXM1ekxtMGJCZS1ZcWNGWGVVcVpjZkpsTWxFVnFmWGFaQ3NzZHVZY0pQSndaWDZZdGZPQk9VVDA5NnNlMUsySHVLcklXQU92X2MzMnlFa3Faa010SQ?oc=5
 
-- Independence Day: PM Modi puts self-reliance, energy security, chips, tech at centre of developed India push - The Indian Express
-  The Indian Express reports that PM Modi is keen on developing India's tech sector.
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNWJrVHRVZVJFb0FVU2NZZXZpYU9rbkwwQWJpMDFjYzBYVnVHWHMtM1dxT2RRckhEQjBYaHVId0UxMFR1TU1Mb3FUSFFkNmUwN09QU2dYZ2JmWlNHNm9sajRYT3VlOVcyeFJwQ1lLTnpCbHBob3VjM0JnZHJicjZzUkNhcXlqMTlkaWpLR21CY1JheW5FRTlQMnJfZzVCcTNTQkRjbjN0eTE2WlZBVUpqUl9yTHRFOXNxNk9NUFBBZGJ5bGhjZ1JreUp0clNobk1PQXpuNl9IdVlSUmxwdXI3NlFR0gHoAUFVX3lxTE5BS3VHaGxzU0FJN1R6NE9QMUc0Wm5ENWg1Si1LVlFfb0trYUkzeU1sMkk5Z2R6YmNCQjJsMUxGckpVc3prWVFDNjU3bUg3SFl4RU5fc3dNY24wTWlFZGd2cE9TbmZxZ19keWp0YVV6S0lGVlVsZDhYSE51ZmdpcGJFeVFyYkE2WFpaTEFVQ055ZWQ3Qktselk4MGxTU0xfbkFEUk1MbHFJcDlSczZjU09POTA0N0lWbXBpQlhrTm5ndXhFRThBN3psalcwTWUyUFA1YkVhc284cmFrTUFxUHNSOGh0SHBXZnI?oc=5
+- Twist in Tata tale tests India Inc's succession script - The Economic Times
+  The Economic Times reports that Tata's son-
+  🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxNR3JzZVh1bGlvS3lRN0U1OUxySEUwVXJGenNuT1FFSzdJRGxHUGc1d2l6TGY5SE9NLTFIcjA5dGM0VDRsWGNjTVVQWkhhVURCMVV3U0U1eXBTbm1Ja3dLMFhQY0ZkaGZLRlgtWTVLSWtSbGJreDJKSmQtNGljMkFsSHB5U2RQOHFVSTliQlJpNHlkN2VMZkd6S3JMNkxOblBCS25DUmFYT1Boc21MbHdwNFdmSkxyanpvRGNMNUlDc1JKT0djOHF0djYweXd1Yks4RFByZmVTRGlVMmp1bVhyaXVlX3JuUGxwMUNvRVpkZHdHaFRiRlV4T1o0SjdteUlxTzZXcXI1aWk2blRIXzRKdEd5aTRZajZENTRSbmEwQ05VUW5CQU9wS2dZYXplaU9FTE9nZUlBRmpLZ1p30gHYAUFVX3lxTFB4N1lJb2s0ZHlrQnpGekF0N3YwQzZtVDhVaTg1d3k1N0VJMGNIb01aQm1yZWYxSi1zWXlwU0x1c2w3MGFuQndiUy1BR0g0Y25oWDRNdi1ZQkhDVWlDMUZRcm9OcWZxZXh0UTJYTGdYa2Z4bkNVQ3ByMWtZcGphbllPbWtWaS01bEhTZFBiZnR0QzNEUjdzR0lHS1N1M3p2TmRfaDI3dTk4SGNGVHhGRDk2RERHR2Vkc0ZrdG1rLXZHSk5GWEptU3llVnZuMExkb25ncXRoN2M2MA?oc=5
+
+- Bally’s Warns of Debt Covenant Breach Risk as It Seeks New Funds
+  Bally’s Corp. warned investors of “substantial doubt’ that it will be able to
+  🔗 https://www.livemint.com/companies/ballys-warns-of-debt-covenant-breach-risk-as-it-seeks-new-funds-11786829722219.html
+
+- Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter
+  Berkshire Hathaway
+  🔗 https://www.livemint.com/companies/berkshire-hathaway-boosted-stake-in-alphabet-homebuilders-in-the-second-quarter-11786829541096.html
 
 - Anish Shah-led Mahindra renews global push after cutting losses
   Mahindra wants to pursue a two-pronged strategy.
@@ -31,14 +39,6 @@
 - With no nominee from Sir Ratan Tata Trust, Tata Sons AGM next week may not happen: Report
   The Tata Sons AGM on 18 August may not take place after Sir Ratan Tata Trust was unable to nominate a representative.
   🔗 https://www.livemint.com/companies/news/with-no-nominee-from-sir-ratan-tata-trust-tata-sons-agm-annual-general-meeting-next-week-may-not-happen-per-rules-report-11786787456533.html
-
-- Tiger Global Management cuts stakes in Big Tech, buys into SpaceX
-  Tiger Global Management cuts stakes in
-  🔗 https://www.livemint.com/companies/tiger-global-management-cuts-stakes-in-big-tech-buys-into-spacex-11786735622678.html
-
-- Meta Says It’s Shut Down 750,000 Youth Accounts in Australia
-  More than 750,000 Instagram and Facebook accounts in Australia believed to belong to people under 16. Meta Platforms Inc. began complying with the country's landmark youth social media
-  🔗 https://www.livemint.com/companies/meta-says-it-s-shut-down-750-000-youth-accounts-in-australia-11786733793181.html
 
 - Alphabet made 100x on SpaceX, now Nvidia reveals $21 billion stake: Why Musk’s AI push matters
    Alphabet's $900 million investment in SpaceX has grown over 100-fold, reaching $94 billion. Nvidia holds
@@ -80,6 +80,26 @@
   Apple's first foldable iPhone Ultra may initially launch only in the US due to supply, testing and pricing issues, according to a
   🔗 https://www.livemint.com/technology/gadgets/iphone-ultra-launch-could-intially-be-limited-to-us-amid-supply-issues-report-11786689303239.html
 
+- Markets just flipped the script on Kevin Warsh’s Fed: Chart of the Day - Yahoo Finance
+  Markets just flipped the script on Kevin Warsh’
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb2RaUmYwSTYyOG1wb3hyLXdpcllmOVBpYjl1VXp0YTVRMy1aUnB1ZkxoQ1Q2YmpvNG5rZ1dTZkM1bFRZS2J4YXJsOHZBQWhjaGsyUW5CQTJzV0RtTVd5QkJYeTloaDl5Uk1Jc3plSnQzVlNpNjZ6eXVZTWNUMTZzWllVUGRqWDdJbmRhY2hNUl9TUXZOYnF6aVFFRUZtMWYtakV1T3JyN0Z6WE5KeWpCZjlvNFJwV2JyY3RZNEFHTGNNRkE?oc=5
+
+- AI-driven surge in bond yields could be next risk for markets and growth - Reuters
+  AI-driven surge in bond yields could be next risk
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5
+
+- China has wrested control of oil markets from OPEC - The Economist
+  China has wrested control of oil markets
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFTYzhoN0s5cw?oc=5
+
+- 'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings - BBC
+  'I lost $14,000 in a month': Investors
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQ3BpcWprV3luZkxwSnd2VGxiX3VCWG94eUJadl9TMDQyRWVmQWk2LV8zSzB0SGpaZ210Nl83VGNzOWhPWUY5MWUycjlhUER4YjJFVkQxSkxtUQ?oc=5
+
+- Markets News, Aug. 14, 2026: Tech Shares Pull Back as Major Indexes Slip; S&P 500, Nasdaq Log 3rd Straight Week of Gains - Investopedia
+  The S&amp;P 500, Nasdaq Log 3rd Straight Week of Gains.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFZ4emppTjVaV1BKXzlNWm9oZEw1RlNrcUxIWXB0NlF2UFY2WXg1dU5GWVV6NUhLN09CeVJXNEhMZnZjU1B1Y2U0c1NhTWwta09UOFJvMDJuNWtNVWJaT0hCQVFtWHlOR3BtcUF6WVVFanNQaF9CVjlBeXFYVlVZQXdRYk01VnVRY1NGVzNaeDI?oc=5
+
 - Madhusudan Kela’s portfolio: 7 stocks rally up to 135% in CY26
   Madhusudan Kela’s disclosed portfolio of 19 stocks was worth about Rs 2,665 crore as of August 14
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kelas-portfolio-7-stocks-rally-up-to-135-in-cy26/slideshow/133259821.cms
@@ -100,6 +120,30 @@
   The Sensex fell 490 points over five sessions through August 14, while 23 BSE 500 stocks declined daily. Eleven stocks dropped more than 5%, led by Ad
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-11-stocks-decline-for-5-consecutive-sessions/slideshow/133258683.cms
 
+- Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests - Al Jazeera
+  ‘Azadi’ chants in India’
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzRJeFVXamtWTVppTGRTelZiSTktUmtuak1ENWRKZ3F5ODZ2aS03RTFFaWxodlhraXBtc2Z3NXVuWU5HWEk0NTdyanpLNFVqZWlSUXRwNW5Lc19BZUgzWEdoZjFtakJ0a0EyRDF0VmM5S1BieTRrSWVUaU5GQ0VGWmp5c25kQmFQaTltWW8tSFJ3el9kbVlaSldXMGt5dndpTS1uZzhBaE4ybWxGMl96bHFUNEV1QjTSAbwBQVVfeXFMT0UyVk1wUi00S1QtSGxEdmZVNkNCendwanBoNlJlRXo4eTk0dU5LOHpPYU5uaHFzb241RXpQdml5c25QRTFLRnBfeG43c3Q3X0Z2MzFlZHVWZXFveHhEV2dSWjVWU2R3Sy0yRGJlVzhHSEV1OHhEZmRwMkFkYjlSSGFjNW1NWDl1ZWJMUkpycGJURXdQYnFveEt5aTR5cVhWUXpaalFLLWc3RUNOM0dmSzd6a3Bxbm0yYlRzbU8?oc=5
+
+- AI Training, Free Coaching: PM Modi's 6 Big Announcements On Independence Day - ndtv.com
+  PM Modi made a series of announcements on Independence Day
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLTNNUmpvWmpKUHduN095eUFGR0xmQkNkQmltTGNxamdUMHRjU3Q0TGJJa21YZlU5TlNOa1J4ak5SdjltRVRRMTYtUk1nbnhTd1JhWE4wY1pVMWIyaG1zWXZXUy1jYUFjSG5YaDloSUlMR0g5OGhSTDZEelVLU0NBaVRzRFQ4OVRxYWlUV3FvWGlKNnZxNUxiZHdBU0I4eTY5RHJ6TDgyajNRZnVtcmFzYzl30gGaAkFVX3lxTE1kclhfR3N0ZWhhSTB4cnIyNVVNNFE1TUttMjB2eFRKdGxkeGd5NW9SV0h2ejllNHV1NEcxeHF4Tmd6ZG80TTctVW11TC05YklvWURFb3dYSHV4R3I5YmhOZDI2RV9yOEJuelBBU2Y3S3l0dUNDS01pX0xWbGZxYmxXeEFMRXRUOFZoYmdrZ292ZzJCd05nUXk2MXpWUXp0OE5iZm1wVTdQb1Q0VTVHUkZ5ZWJWSGFXbkVWZ3hSNmRYT281M2hQNEZTd0xuOEY3QmlqRV83R2ptNGM1SzdVX1hLTExCUlF3Qi13Y0E4UHZsVE9Pd3lzMWxBRVlSZmUzcHoxWG1WLWdlZG9EcU54MzJiZk9zQi1PVEtvZw?oc=5
+
+- 80th Independence Day Live Updates: 80th Independence Day Celebrations Mark 150 Years Of 'Vande Mataram' - ndtv.com
+  80th Independence Day Live Updates: 80th Independence day Celebrations
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUd0UkJLNUo4LUd1OVVZai1ieHZKXzZ0TVlsdmRxb3FNY3VybTdyV2lucGtMYXJfUDgyZF82YjVfZkpCZkpBRnN5eWVGeWxnV3AtX2xPY0s2aVF6eTh2NkJXUjJmYnlpMUpqdDFaU0tWcVRnMDdSb0x0bUQ2MkxmR2pCQkpDODB4RzFSVHVBZjJhbnNMM0R5ZXNqSlVtNlNmalZ6bTVqdzJXNHVKaVlXcHBMaGlNTWdfMEVkS182ZFd6U3p4ZnFaTmdvTkQyRWhqaHgzckk0RjY0a2Z5TDVmU0JR0gHqAUFVX3lxTE9hQ0tLRFFFNWVVZk9Sc2JoYVh0SFVqWnVXSk1Obm1JRW9yVzl5bm9qU0NmU3NZdG9nQjM0YlN1OWw4QXQ5RGNaU2NUTGlRakdXOTRGSnhBRGJiWGhmV0ktNGNYZEQ4VGtQMzhTTDBhNmFtS0JRdUtKek85OWNHRVJCaWtRYkJBa1VfLVlXWDVVMm9lVnBSc01IMkd3d3JRMno3bk1nNDByRHo0VThVcUZaQ1lBMTVRQkxmX3RTWHRCNmJ6ZEkzSFdoZm5OenBGQzB0WW1wNWxHWU40R3JpN2tzVWR4TTdxcmEydw?oc=5
+
+- Modi threatens to target ‘intellectual Naxals’ in Independence Day speech - Al Jazeera
+  Modi threatens to target ‘intellectual
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQUW5QTmhKOHdWX1pBWnVkV1pFMjhyZHE4dFhDS21HQk9QLXAwZmlxT2MtUDA2b2NiLXBjOF9uUDE5ck5OVFZPMHFXeDNveGFUM2ZRYnpBV2FrT1pleTMxMXBtajdFUE1QOThvd0tyZm5EZGxhdHNBMmlwaGI3LUZXQWM2blgxRTAxSTBlN19udGh6dFNiU0hkaXNCalhwM1J3M2hmWTB2QVQzdU51V0h4SjNn0gG3AUFVX3lxTE9iU1JIbHhYT3dpSmR0WkwycnBxbXozdUN3NUVGTTBfLXVOX2liaUo3dkJKWkxwbDlnUUh1SUxNVHlaa0JBaEhmMHg1d3BJVkxQTFZGSXBGR0VpRFUtQnFyaFc0ZXM1ekxtMGJCZS1ZcWNGWGVVcVpjZkpsTWxFVnFmWGFaQ3NzZHVZY0pQSndaWDZZdGZPQk9VVDA5NnNlMUsySHVLcklXQU92X2MzMnlFa3Faa010SQ?oc=5
+
+- Twist in Tata tale tests India Inc's succession script - The Economic Times
+  The Economic Times reports that Tata's son-
+  🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxNR3JzZVh1bGlvS3lRN0U1OUxySEUwVXJGenNuT1FFSzdJRGxHUGc1d2l6TGY5SE9NLTFIcjA5dGM0VDRsWGNjTVVQWkhhVURCMVV3U0U1eXBTbm1Ja3dLMFhQY0ZkaGZLRlgtWTVLSWtSbGJreDJKSmQtNGljMkFsSHB5U2RQOHFVSTliQlJpNHlkN2VMZkd6S3JMNkxOblBCS25DUmFYT1Boc21MbHdwNFdmSkxyanpvRGNMNUlDc1JKT0djOHF0djYweXd1Yks4RFByZmVTRGlVMmp1bVhyaXVlX3JuUGxwMUNvRVpkZHdHaFRiRlV4T1o0SjdteUlxTzZXcXI1aWk2blRIXzRKdEd5aTRZajZENTRSbmEwQ05VUW5CQU9wS2dZYXplaU9FTE9nZUlBRmpLZ1p30gHYAUFVX3lxTFB4N1lJb2s0ZHlrQnpGekF0N3YwQzZtVDhVaTg1d3k1N0VJMGNIb01aQm1yZWYxSi1zWXlwU0x1c2w3MGFuQndiUy1BR0g0Y25oWDRNdi1ZQkhDVWlDMUZRcm9OcWZxZXh0UTJYTGdYa2Z4bkNVQ3ByMWtZcGphbllPbWtWaS01bEhTZFBiZnR0QzNEUjdzR0lHS1N1M3p2TmRfaDI3dTk4SGNGVHhGRDk2RERHR2Vkc0ZrdG1rLXZHSk5GWEptU3llVnZuMExkb25ncXRoN2M2MA?oc=5
+
+- Ola Electric Unveils Three New Energy Storage Products
+  Electric vehicle (EV) maker Ola Electric announced the launch of three new battery energy storage products.
+  🔗 https://inc42.com/buzz/ola-electric-unveils-three-new-battery-energy-storage-products/
+
 - IPO-Bound Zypp Electric Slashes FY26 Loss By 45% YoY To ₹60 Cr
   Zypp Electric’s parent Bycyshare Technologies managed to trim its consolidated net loss to ₹59.7 Cr in the&#8230;.
   🔗 https://inc42.com/buzz/ipo-bound-zypp-electric-slashes-fy26-loss-by-45-yoy-to-%e2%82%b960-cr/
@@ -116,49 +160,73 @@
   EaseMyTrip slipped into the red in the June quarter of the financial year 2026-27 (Q1 FY27),&#8230;.
   🔗 https://inc42.com/buzz/easemytrip-slips-into-red-with-%e2%82%b911-7-cr-loss-in-q1-revenue-rises-18-yoy/
 
-- Zetwerk’s Revenue Surges 40% To ₹15,913 Cr In FY26 Ahead Of IPO
-  In the run up to its initial public offering (IPO), contract manufacturer Zetwerk’s operating revenue for the fiscal jumped 40.4%.
-  🔗 https://inc42.com/buzz/ipo-bound-zetwerk-fy26-loss-widens-to-%e2%82%b91606-2-cr-despite-40-uptick-in-revenue/
+- Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests - Al Jazeera
+  ‘Azadi’ chants in India’
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzRJeFVXamtWTVppTGRTelZiSTktUmtuak1ENWRKZ3F5ODZ2aS03RTFFaWxodlhraXBtc2Z3NXVuWU5HWEk0NTdyanpLNFVqZWlSUXRwNW5Lc19BZUgzWEdoZjFtakJ0a0EyRDF0VmM5S1BieTRrSWVUaU5GQ0VGWmp5c25kQmFQaTltWW8tSFJ3el9kbVlaSldXMGt5dndpTS1uZzhBaE4ybWxGMl96bHFUNEV1QjTSAbwBQVVfeXFMT0UyVk1wUi00S1QtSGxEdmZVNkNCendwanBoNlJlRXo4eTk0dU5LOHpPYU5uaHFzb241RXpQdml5c25QRTFLRnBfeG43c3Q3X0Z2MzFlZHVWZXFveHhEV2dSWjVWU2R3Sy0yRGJlVzhHSEV1OHhEZmRwMkFkYjlSSGFjNW1NWDl1ZWJMUkpycGJURXdQYnFveEt5aTR5cVhWUXpaalFLLWc3RUNOM0dmSzd6a3Bxbm0yYlRzbU8?oc=5
 
-- 80th Independence Day Live Updates: 80th Independence Day Celebrations Mark 150 Years Of 'Vande Mataram' - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUd0UkJLNUo4LUd1OVVZai1ieHZKXzZ0TVlsdmRxb3FNY3VybTdyV2lucGtMYXJfUDgyZF82YjVfZkpCZkpBRnN5eWVGeWxnV3AtX2xPY0s2aVF6eTh2NkJXUjJmYnlpMU
+- AI Training, Free Coaching: PM Modi's 6 Big Announcements On Independence Day - ndtv.com
+  PM Modi made a series of announcements on Independence Day
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLTNNUmpvWmpKUHduN095eUFGR0xmQkNkQmltTGNxamdUMHRjU3Q0TGJJa21YZlU5TlNOa1J4ak5SdjltRVRRMTYtUk1nbnhTd1JhWE4wY1pVMWIyaG1zWXZXUy1jYUFjSG5YaDloSUlMR0g5OGhSTDZEelVLU0NBaVRzRFQ4OVRxYWlUV3FvWGlKNnZxNUxiZHdBU0I4eTY5RHJ6TDgyajNRZnVtcmFzYzl30gGaAkFVX3lxTE1kclhfR3N0ZWhhSTB4cnIyNVVNNFE1TUttMjB2eFRKdGxkeGd5NW9SV0h2ejllNHV1NEcxeHF4Tmd6ZG80TTctVW11TC05YklvWURFb3dYSHV4R3I5YmhOZDI2RV9yOEJuelBBU2Y3S3l0dUNDS01pX0xWbGZxYmxXeEFMRXRUOFZoYmdrZ292ZzJCd05nUXk2MXpWUXp0OE5iZm1wVTdQb1Q0VTVHUkZ5ZWJWSGFXbkVWZ3hSNmRYT281M2hQNEZTd0xuOEY3QmlqRV83R2ptNGM1SzdVX1hLTExCUlF3Qi13Y0E4UHZsVE9Pd3lzMWxBRVlSZmUzcHoxWG1WLWdlZG9EcU54MzJiZk9zQi1PVEtvZw?oc=5
+
+- 80th Independence Day Live Updates: 80th Independence Day Celebrations Mark 150 Years Of 'Vande Mataram' - ndtv.com
+  80th Independence Day Live Updates: 80th Independence day Celebrations
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUd0UkJLNUo4LUd1OVVZai1ieHZKXzZ0TVlsdmRxb3FNY3VybTdyV2lucGtMYXJfUDgyZF82YjVfZkpCZkpBRnN5eWVGeWxnV3AtX2xPY0s2aVF6eTh2NkJXUjJmYnlpMUpqdDFaU0tWcVRnMDdSb0x0bUQ2MkxmR2pCQkpDODB4RzFSVHVBZjJhbnNMM0R5ZXNqSlVtNlNmalZ6bTVqdzJXNHVKaVlXcHBMaGlNTWdfMEVkS182ZFd6U3p4ZnFaTmdvTkQyRWhqaHgzckk0RjY0a2Z5TDVmU0JR0gHqAUFVX3lxTE9hQ0tLRFFFNWVVZk9Sc2JoYVh0SFVqWnVXSk1Obm1JRW9yVzl5bm9qU0NmU3NZdG9nQjM0YlN1OWw4QXQ5RGNaU2NUTGlRakdXOTRGSnhBRGJiWGhmV0ktNGNYZEQ4VGtQMzhTTDBhNmFtS0JRdUtKek85OWNHRVJCaWtRYkJBa1VfLVlXWDVVMm9lVnBSc01IMkd3d3JRMno3bk1nNDByRHo0VThVcUZaQ1lBMTVRQkxmX3RTWHRCNmJ6ZEkzSFdoZm5OenBGQzB0WW1wNWxHWU40R3JpN2tzVWR4TTdxcmEydw?oc=5
 
-- Independence Day 2026 LIVE: PM Modi, Union ministers attend President Murmu's At Home reception | Hindustan Times - Hindustan Times
-  "Independence Day 2026 LIVE: PM Modi, Union ministers attend President Mur
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTVBpT3g0ZGdRLU9JRjRKbFhZMmI0c1RFUmg3dlZUR1ZaaUJ1ZEpfMHdmMm1jWVh1TmVQc2VYVWZJOHBvUXhCTnpYT3RjTVdtUk01NmNDMGV3VlN5bDNTXzJ3VkFQbERVVDA3amNhUVpiTE5RNmNkYmpDTV9CaTBqcHZEdWowRXZXaHhPQmJkWnpZQU1pelJobHZMMm1SenNkbVExV2lDZlhabFdCeVNzVjVBeU9FTWV1c3BlSGhlbHpudDMyak9FOEZOb0RNenpkaGU3b3FkOHZnUHZrNFFwRExhWWliaXZ5OHdMd3k2dFU1WUFMbUxVZW1qdDg3NmV4TEx3Z1M1c1XSAY4CQVVfeXFMTzNlR0JpN1lrdWRHZVlNMHNESUVaMmp4U3I1cDJkUmZSM25RSGJGUTlOYkRLSm1LNTZuQVdLWW4zR056bzRreEZXb2Y5WWZFdzFxcEpJSkpCTzNyeVJ2Z084WmxfeURhd2doMDBLRGdhd0tVNV81cG53T0c5eWQ5ZkdvdmJXZ2xvbEw3R2twS182TFoxZmRZUkkwaE9tcFNOekt4SFBBY01oU2tTcF9CZ0pRaVY5Uzh5Ujh2ajlnOXAwZUVFU21TdDc4bXZtWXFMSkhfVU9tS3BISVNlUi16V2t3Yi1MTVpIMWEwbWlNZkROOW9RaTBMOEFFdkcxWHRfa2l3dmZRNlQxbXFzVi1R?oc=5
+- Modi threatens to target ‘intellectual Naxals’ in Independence Day speech - Al Jazeera
+  Modi threatens to target ‘intellectual
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQUW5QTmhKOHdWX1pBWnVkV1pFMjhyZHE4dFhDS21HQk9QLXAwZmlxT2MtUDA2b2NiLXBjOF9uUDE5ck5OVFZPMHFXeDNveGFUM2ZRYnpBV2FrT1pleTMxMXBtajdFUE1QOThvd0tyZm5EZGxhdHNBMmlwaGI3LUZXQWM2blgxRTAxSTBlN19udGh6dFNiU0hkaXNCalhwM1J3M2hmWTB2QVQzdU51V0h4SjNn0gG3AUFVX3lxTE9iU1JIbHhYT3dpSmR0WkwycnBxbXozdUN3NUVGTTBfLXVOX2liaUo3dkJKWkxwbDlnUUh1SUxNVHlaa0JBaEhmMHg1d3BJVkxQTFZGSXBGR0VpRFUtQnFyaFc0ZXM1ekxtMGJCZS1ZcWNGWGVVcVpjZkpsTWxFVnFmWGFaQ3NzZHVZY0pQSndaWDZZdGZPQk9VVDA5NnNlMUsySHVLcklXQU92X2MzMnlFa3Faa010SQ?oc=5
 
-- Doom! Board lowers the boom on Indian-American CEO who fired 900 employees over Zoom - The Times of India
-  The Times of India reported that Zoom fired 900 employees over the scandal.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUjhwU1VXdVNKWmstdUhxaWRhaVQ0dW5raW1PZEZyY1FZTlFmbUlSQ2VWTG9GTlB6aXlkSC1CMzlNU2ZKRS1WYjJ4S3JTQW9VMEIwaU96VEU1bS10ZVljSzQ3cXpPYndHNUFhV1ZuN1VFdl9ZeFZJc1h0RVFoVzlIeGh5TEl2RElKNWIyamtFWXppYnJ0M0dXTGd1ODhNY3dNR3VYRTlwYk82WXMxeENMN1Y2X3VPeFBaQUFXcG5vbEpIcGwtakFZUjl6NDY4NDZ6NXVLR1ZNVm5naFBRdzR1dlUzS2FsT3FxMXfSAe8BQVVfeXFMTWxqaV95OEt2QWNhckdNV05GalZ6SlQwV0w0djhSZEJObWxDY2JEakV0UndMaXBJVHNTb3l4cVpGRHRlMXVDbEp1RUxXRWhtZDZsTE03RWUwaDZfTnYzR2Nua0hBMlVXc3RWNGZtN1U4ZGNQSV8waEw5U3FLSzNUN1NzN3lUWEllNkkxVk40MTExaFlqTE9mT25DWGI1a19wLUphQ1R5YWhYcHl5RU10MEJoa0k1Mkd5bXVEamlvUWdHX2gwT09nZHNJLUp1ejd6elBNZnlxdk9rREJ3RHVoa2FVN2pGU1B5NDlpUFRFMkE?oc=5
+- Twist in Tata tale tests India Inc's succession script - The Economic Times
+  The Economic Times reports that Tata's son-
+  🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxNR3JzZVh1bGlvS3lRN0U1OUxySEUwVXJGenNuT1FFSzdJRGxHUGc1d2l6TGY5SE9NLTFIcjA5dGM0VDRsWGNjTVVQWkhhVURCMVV3U0U1eXBTbm1Ja3dLMFhQY0ZkaGZLRlgtWTVLSWtSbGJreDJKSmQtNGljMkFsSHB5U2RQOHFVSTliQlJpNHlkN2VMZkd6S3JMNkxOblBCS25DUmFYT1Boc21MbHdwNFdmSkxyanpvRGNMNUlDc1JKT0djOHF0djYweXd1Yks4RFByZmVTRGlVMmp1bVhyaXVlX3JuUGxwMUNvRVpkZHdHaFRiRlV4T1o0SjdteUlxTzZXcXI1aWk2blRIXzRKdEd5aTRZajZENTRSbmEwQ05VUW5CQU9wS2dZYXplaU9FTE9nZUlBRmpLZ1p30gHYAUFVX3lxTFB4N1lJb2s0ZHlrQnpGekF0N3YwQzZtVDhVaTg1d3k1N0VJMGNIb01aQm1yZWYxSi1zWXlwU0x1c2w3MGFuQndiUy1BR0g0Y25oWDRNdi1ZQkhDVWlDMUZRcm9OcWZxZXh0UTJYTGdYa2Z4bkNVQ3ByMWtZcGphbllPbWtWaS01bEhTZFBiZnR0QzNEUjdzR0lHS1N1M3p2TmRfaDI3dTk4SGNGVHhGRDk2RERHR2Vkc0ZrdG1rLXZHSk5GWEptU3llVnZuMExkb25ncXRoN2M2MA?oc=5
 
-- Air India pilot's reported cannabis test: What it can and can't tell investigators - BBC
-  Air India pilot's reported cannabis test: What it can
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oZEN5eTVodnh1THZaOVM0OU1zVi1BbjRFT0ZKY2hwZXRiM1JhR3gwZHl0SlJQY3gwZHlYc3BsYjQ5VUlDa0hkQ1lnX2FZU3U4WGtyZ3Q4dVUydw?oc=5
+- Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests - Al Jazeera
+  ‘Azadi’ chants in India’
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzRJeFVXamtWTVppTGRTelZiSTktUmtuak1ENWRKZ3F5ODZ2aS03RTFFaWxodlhraXBtc2Z3NXVuWU5HWEk0NTdyanpLNFVqZWlSUXRwNW5Lc19BZUgzWEdoZjFtakJ0a0EyRDF0VmM5S1BieTRrSWVUaU5GQ0VGWmp5c25kQmFQaTltWW8tSFJ3el9kbVlaSldXMGt5dndpTS1uZzhBaE4ybWxGMl96bHFUNEV1QjTSAbwBQVVfeXFMT0UyVk1wUi00S1QtSGxEdmZVNkNCendwanBoNlJlRXo4eTk0dU5LOHpPYU5uaHFzb241RXpQdml5c25QRTFLRnBfeG43c3Q3X0Z2MzFlZHVWZXFveHhEV2dSWjVWU2R3Sy0yRGJlVzhHSEV1OHhEZmRwMkFkYjlSSGFjNW1NWDl1ZWJMUkpycGJURXdQYnFveEt5aTR5cVhWUXpaalFLLWc3RUNOM0dmSzd6a3Bxbm0yYlRzbU8?oc=5
 
-- Tolerating 4% Hindus: Pak President says India thinks of Akhand Bharat - India Today
-  India Today: Pak President says India thinks of Ak
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc05TeFZyaGNyQ0tsdW4wY0FFcm5UZjFsRi1JNmNxc016RHhNeV8yV2lLN0NvZG1KWU5CbjFDMlFUZE90RlE4MFlhSzhpcVlXekxBc0p3ZjYwdmVfS2hROXprNGZyZzhFSFVZcWdHdVhMV1c1ZnBxZFdFNzY1MVdSQWFhRlJrYzMzTndKcGhyMjZHN1cyTnBYdHlZM2JKX19ncGJ4a1VheWUwNkxLajdiQjNMMW5GSW5ZOExpVWRWQW14enA4clJXRjVnTU1sdEJiTHdMTnNqV29abE9JamJnZnhnUEM2T1ZK0gHuAUFVX3lxTE9GY2NuUENGZnkwMmE2aWd5MHRRSDNhdlVSMXp2aDhWMDJPb3ZLZjRLX09FTmszc2hvZjFyTWc4Sjl4c0VfdkkyQnF2MkxHbS1VZ1dhME9kQ0lxamZ3T091V2RoUUdvZ2REVWpwbDZXZ2NyU3NqeEwxdV8tV3Y2c1diUmNFRWJDUldBNTlNblZXTFBZSElzbVF3UW1uYmM1MUdCNVJaMl9ib0VNMGJaVlp3YkN2aFBDQUtyZ3VlSEFQVENNMURaU2k3QUVXOVJTa18zRVZQTTRTc1J0LS1kVHBLcWxYbTM5aVZwWGczclE?oc=5
+- AI Training, Free Coaching: PM Modi's 6 Big Announcements On Independence Day - ndtv.com
+  PM Modi made a series of announcements on Independence Day
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOWjhMSllKaWZ0WG5pVm9hOE9jYUdudHQ0aGdzS2YyM2hPMjhQQkJMUkthX0Y0RnlRbVUtNDRMTm9zX2V6cTZyZVhfZVZmckdPazVoNDNISk5KNUxpYzk3OU5zYmxuSmVrLTNNUmpvWmpKUHduN095eUFGR0xmQkNkQmltTGNxamdUMHRjU3Q0TGJJa21YZlU5TlNOa1J4ak5SdjltRVRRMTYtUk1nbnhTd1JhWE4wY1pVMWIyaG1zWXZXUy1jYUFjSG5YaDloSUlMR0g5OGhSTDZEelVLU0NBaVRzRFQ4OVRxYWlUV3FvWGlKNnZxNUxiZHdBU0I4eTY5RHJ6TDgyajNRZnVtcmFzYzl30gGaAkFVX3lxTE1kclhfR3N0ZWhhSTB4cnIyNVVNNFE1TUttMjB2eFRKdGxkeGd5NW9SV0h2ejllNHV1NEcxeHF4Tmd6ZG80TTctVW11TC05YklvWURFb3dYSHV4R3I5YmhOZDI2RV9yOEJuelBBU2Y3S3l0dUNDS01pX0xWbGZxYmxXeEFMRXRUOFZoYmdrZ292ZzJCd05nUXk2MXpWUXp0OE5iZm1wVTdQb1Q0VTVHUkZ5ZWJWSGFXbkVWZ3hSNmRYT281M2hQNEZTd0xuOEY3QmlqRV83R2ptNGM1SzdVX1hLTExCUlF3Qi13Y0E4UHZsVE9Pd3lzMWxBRVlSZmUzcHoxWG1WLWdlZG9EcU54MzJiZk9zQi1PVEtvZw?oc=5
 
-- Mahindra introduces the BE 6 SPORTEQ, a bold new expression of sport, technology, and electric performance - Mahindra
-  Mahindra introduces the BE 6 SPORTEQ, a bold
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUW5BQ0pUZGpoNFdqYXZKVy1ac1lkSFJwTExOWHNQV3dSMkpEVFFtbGprcTVCaWJGbzI1RnE2UE5QbUxlb3JkWkhJTlRKbXVIazJYQVN0bEZjdzAzRXZScmRLVXgyTjVNVFJFUkpDcW9mbm1Qb1lFdW92cHhhbjdoZnlUc2d0OGh1bHBFTHAtOENlc0I4d0tOVXQtOE9heHpZTm55RUo3QzlfUmZ0UTJ5dFlLVHBKRHk3X0NKamJUQzR5SXhScU9KUklGY2hPblU1b1U0RU81S3VVa3lrcWNzaDFER3dEZG4teG53?oc=5
+- 80th Independence Day Live Updates: 80th Independence Day Celebrations Mark 150 Years Of 'Vande Mataram' - ndtv.com
+  80th Independence Day Live Updates: 80th Independence day Celebrations
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUd0UkJLNUo4LUd1OVVZai1ieHZKXzZ0TVlsdmRxb3FNY3VybTdyV2lucGtMYXJfUDgyZF82YjVfZkpCZkpBRnN5eWVGeWxnV3AtX2xPY0s2aVF6eTh2NkJXUjJmYnlpMUpqdDFaU0tWcVRnMDdSb0x0bUQ2MkxmR2pCQkpDODB4RzFSVHVBZjJhbnNMM0R5ZXNqSlVtNlNmalZ6bTVqdzJXNHVKaVlXcHBMaGlNTWdfMEVkS182ZFd6U3p4ZnFaTmdvTkQyRWhqaHgzckk0RjY0a2Z5TDVmU0JR0gHqAUFVX3lxTE9hQ0tLRFFFNWVVZk9Sc2JoYVh0SFVqWnVXSk1Obm1JRW9yVzl5bm9qU0NmU3NZdG9nQjM0YlN1OWw4QXQ5RGNaU2NUTGlRakdXOTRGSnhBRGJiWGhmV0ktNGNYZEQ4VGtQMzhTTDBhNmFtS0JRdUtKek85OWNHRVJCaWtRYkJBa1VfLVlXWDVVMm9lVnBSc01IMkd3d3JRMno3bk1nNDByRHo0VThVcUZaQ1lBMTVRQkxmX3RTWHRCNmJ6ZEkzSFdoZm5OenBGQzB0WW1wNWxHWU40R3JpN2tzVWR4TTdxcmEydw?oc=5
 
-- Telangana Police mark Independence Day with focus on technology, safety and reform - The Hindu
-  Telangana Police mark Independence Day with focus on technology
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQczdsWktQcVZLcDVZNDNPU3FiSHh6N0ZZSmRTODdIY1ZPdkhNLUxmWGxyUFZNVTlNS05VcmNlMHp5QnhuTTRBYXRmTEQ2YjFUVnNlUzVuTDlkRGs4MTZCdWZXMEkyUGlBVUhRNk40cXVibnkwUzZSMGdGWmtReU5TcXhwb2MzR2hOLWZ2Qkt0WWVSOHA0Mi1sQ1NZSVZwNHNWbG5pTzVQOEVjT3J1S2tyQm9Lb1dsb2JwRzRheU5VLXE4RkE1QVU1Tlk1bEZqc0ZfSEYxLVQ4YmZxMWRpb3FZcE9HQ0LSAesBQVVfeXFMTmJScWRKWmJTUTg0NjJkNGhIMlNGbjVWcUM2cFJMOVFTbjJyQTZmOU8tbndfeWtvYnpfUmV4Um53OTZKU1Q3Mm9RR1pBRTFsclhMaEN5VGVzM2M2ek9VVEc3WTZDa25pMnVON2tMZHdON29EX2ZtNWI4d3dMeG9TV0xUWjNpN3FneXFDbXpnbmhDQXZOQjNpcVhQal9JcnFyS20zSEJaRnBrYTdLVm5XVDloZHJMd3FPZkltSkRfTjFYaDR4ZUhNSTYxaE1EckVnSHFVYXJPQnJwWm5uVUJGR3FlbEJRNHQ2al9YTQ?oc=5
+- Modi threatens to target ‘intellectual Naxals’ in Independence Day speech - Al Jazeera
+  Modi threatens to target ‘intellectual
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQUW5QTmhKOHdWX1pBWnVkV1pFMjhyZHE4dFhDS21HQk9QLXAwZmlxT2MtUDA2b2NiLXBjOF9uUDE5ck5OVFZPMHFXeDNveGFUM2ZRYnpBV2FrT1pleTMxMXBtajdFUE1QOThvd0tyZm5EZGxhdHNBMmlwaGI3LUZXQWM2blgxRTAxSTBlN19udGh6dFNiU0hkaXNCalhwM1J3M2hmWTB2QVQzdU51V0h4SjNn0gG3AUFVX3lxTE9iU1JIbHhYT3dpSmR0WkwycnBxbXozdUN3NUVGTTBfLXVOX2liaUo3dkJKWkxwbDlnUUh1SUxNVHlaa0JBaEhmMHg1d3BJVkxQTFZGSXBGR0VpRFUtQnFyaFc0ZXM1ekxtMGJCZS1ZcWNGWGVVcVpjZkpsTWxFVnFmWGFaQ3NzZHVZY0pQSndaWDZZdGZPQk9VVDA5NnNlMUsySHVLcklXQU92X2MzMnlFa3Faa010SQ?oc=5
 
-- NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies - NASA (.gov)
-  NASA competition invites students to help Imagine a Future Enabled by Lunar
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVFhNMFFlWHI1c0VvbVI4Qzd2MlRES3VqcER1OUV4c3lQSlZfZlRyQlRYaDRfUExJSGZPRFl4ZlVSQXloWE5xUkFjYWN6X3ZGbU5SN09zVDRPOXd1bVBZVHlhSXZ1bERzTThpLXNDbll6YTQydHVXclpkYTNIcUdXMjQ0WmlqdFhHTlpDaVVURk1KRG9tZWVFVFIwaFNKZkVlRjJGWlJyS0luS1lLSEVkY2dMWW1XWWhtMmp6UnhQQXp2VVFfY1BfTXhlODVzendxN3pWMHdsaHpSVGl6UWJnN3ZfQ1lmS2JsMlQxT25yb1FLSjVoNWw5TFgweTI?oc=5
+- Twist in Tata tale tests India Inc's succession script - The Economic Times
+  The Economic Times reports that Tata's son-
+  🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxNR3JzZVh1bGlvS3lRN0U1OUxySEUwVXJGenNuT1FFSzdJRGxHUGc1d2l6TGY5SE9NLTFIcjA5dGM0VDRsWGNjTVVQWkhhVURCMVV3U0U1eXBTbm1Ja3dLMFhQY0ZkaGZLRlgtWTVLSWtSbGJreDJKSmQtNGljMkFsSHB5U2RQOHFVSTliQlJpNHlkN2VMZkd6S3JMNkxOblBCS25DUmFYT1Boc21MbHdwNFdmSkxyanpvRGNMNUlDc1JKT0djOHF0djYweXd1Yks4RFByZmVTRGlVMmp1bVhyaXVlX3JuUGxwMUNvRVpkZHdHaFRiRlV4T1o0SjdteUlxTzZXcXI1aWk2blRIXzRKdEd5aTRZajZENTRSbmEwQ05VUW5CQU9wS2dZYXplaU9FTE9nZUlBRmpLZ1p30gHYAUFVX3lxTFB4N1lJb2s0ZHlrQnpGekF0N3YwQzZtVDhVaTg1d3k1N0VJMGNIb01aQm1yZWYxSi1zWXlwU0x1c2w3MGFuQndiUy1BR0g0Y25oWDRNdi1ZQkhDVWlDMUZRcm9OcWZxZXh0UTJYTGdYa2Z4bkNVQ3ByMWtZcGphbllPbWtWaS01bEhTZFBiZnR0QzNEUjdzR0lHS1N1M3p2TmRfaDI3dTk4SGNGVHhGRDk2RERHR2Vkc0ZrdG1rLXZHSk5GWEptU3llVnZuMExkb25ncXRoN2M2MA?oc=5
 
-- PM lays out seven-point Sapta Dhara framework for Viksit Bharat - Rediff
-  PM lays out seven-point Sapt
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmtYc0p1SFlkOVFfLXE3TWxUcFJnRjlSaWZfa3dNLU5VR1BVa1hpX2JzYnRHZlNHMzZYQmdKMzZ4X1MwNUV1QXZoT3g2Nl8zN2ZOZWR3VlRRbmx1N012Y0pYeVhJMU5oYVByUDI1UW1Ka0xVdUVJaGxJbmRJVW02NFU5dUVqUUE4ZEtfUTd2WnJ3XzZLY2lWRlFXaC1vem1PVHg0VjlxYW42cFdkdFRIRtIBswFBVV95cUxOT0IwUGVZUzhqRmhCR1JXSjVpZGpYQkdoQ2otQnVkT1NNYjRKeWd2enZlZFF1VmMyUW5pMXV3VDdUSnZXQk5tY1dGR2k1MnI3MlZnSFFWM1ZVRHFSU0VLQk9iNkVLQ3RZWjVjVkEzU192bW1Eb3pUdFR1NmR4X0tGMG9FNlF2OEM1cTJyeTh2a0xNbk5vci02R2RmUlVMeHY1LWh3ckJndFJsVjhfRFhNYVZMYw?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Independence Day: PM Modi puts self-reliance, energy security, chips, tech at centre of developed India push - The Indian Express
-  The Indian Express reports that PM Modi is keen on developing India's tech sector.
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNWJrVHRVZVJFb0FVU2NZZXZpYU9rbkwwQWJpMDFjYzBYVnVHWHMtM1dxT2RRckhEQjBYaHVId0UxMFR1TU1Mb3FUSFFkNmUwN09QU2dYZ2JmWlNHNm9sajRYT3VlOVcyeFJwQ1lLTnpCbHBob3VjM0JnZHJicjZzUkNhcXlqMTlkaWpLR21CY1JheW5FRTlQMnJfZzVCcTNTQkRjbjN0eTE2WlZBVUpqUl9yTHRFOXNxNk9NUFBBZGJ5bGhjZ1JreUp0clNobk1PQXpuNl9IdVlSUmxwdXI3NlFR0gHoAUFVX3lxTE5BS3VHaGxzU0FJN1R6NE9QMUc0Wm5ENWg1Si1LVlFfb0trYUkzeU1sMkk5Z2R6YmNCQjJsMUxGckpVc3prWVFDNjU3bUg3SFl4RU5fc3dNY24wTWlFZGd2cE9TbmZxZ19keWp0YVV6S0lGVlVsZDhYSE51ZmdpcGJFeVFyYkE2WFpaTEFVQ055ZWQ3Qktselk4MGxTU0xfbkFEUk1MbHFJcDlSczZjU09POTA0N0lWbXBpQlhrTm5ndXhFRThBN3psalcwTWUyUFA1YkVhc284cmFrTUFxUHNSOGh0SHBXZnI?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-15 18:23:33 UTC_
+_Last updated: 2026-08-16 01:01:50 UTC_
