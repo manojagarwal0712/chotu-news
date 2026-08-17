@@ -4,6 +4,10 @@
   OpenAI’s $6.5 Billion Bet
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVZibkwwSTRGeFBuc0J6aHc5bHlhbVM3ZE5TV2hhTzJpOUFINjJDYkNXRGVWc0hGUmxFbG9fcFhjTEhQRC1TdHhkbnNQaHNMY3BxQkREQmRIT0tNemtfNllXMlAtdFpQbzd4MklYdXd5Uk5GOHlZQ0xNYUpvUzhlTEV1STZsaHpUQ3lDNHpzckVTMGdJLVRhMVViOTRiOFJHQ1Q1bU1JR0Y1eHN4QTVVTGxBTWlpVnV1VnRV?oc=5
 
+- Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter - Bloomberg.com
+  Stripe Clinches Over $7 Billion
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VMMXR1X3Jzd1hQZ0pobFMxT0gzQWFFNjFnekt4dlR1ak9lS2NUc3V2RjVodU5BemxCSmFqVDFBUUJRbHJuUEQxb1dyT3JXWk1YSi0zRDI1NU0yNTJuMnNIZkRMVHB2TTEtc0dPbjNMSnJpTm1CUlVpbmg5Q2x4X0VQZXNiZTRJcFpTdDljbHRwVVM1eE51dmt2XzNFemRqTnZMRUJFZ3ZPMDJuX0ZjZndiWQ?oc=5
+
 - Don’t just adapt but lead in determining use of technology to reshape legal system: CJI to NLUs - The Hindu
   Don’t just adapt but lead in determining use of technology to reshape
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQnpzd0RLUFJsYjU5a1otWkVOaTAzenRrU3Q2TFA5Q05wNXFXVjZBTE5zWWYzdGhydUNhNTNaanJJalNfN0hHODROajVyZF9FQzBDMDBPb2luMmV3SEFOSV9TSmlhUV9hWVVVY3RSN1U1V0tIcmM1NHlvcG0yWEF1YjBBZlBpZkthQnN4N1psMDQySE93LW40RFhsbEo5RFJSQTgwTDhPZkh0dXJrcTJfa0E4cDZhQzJ1M01EZ2IyMjhCc24wSkkxNjM5WVVPdTRDaVljaEo0UVVJdmw3enhDUHE5bWJqSVXSAe4BQVVfeXFMTWliZUN5a0duS2plY0xNblc4b2FtYWtISnlVREhTaVhhVE5JSVdnendTcmlCeVpDZklxa1RjVk1tNWpqd0hpNENmRWp3Y09VUXNPUjhjN0JzQVA0TEprM0JZRlhBaGlLSkRJTWt2QVlfbEpsQlZvYVktRzMxNE9nTDV3aDJyeFdLNVdfRjdIdFpyUFQtVm10UmxIN2xzcERydmxPQVJwNXFIRllZV1BzanlWVGtrNGpNMy1qaE9FelVKc0RpSXA5eVBpY3Z4S0hsa1JXaFJGQTQwZUNZMFdCUUhKRnNHbzJfUjY2UU5PQQ?oc=5
@@ -16,9 +20,13 @@
   The Indian Express is a leading newspaper in India. It is
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWhiM0ptSW5vMjVOOU5tWGhjbkxpN1FNQjF0MDl4VW1MM25Hc3N0SHZGV1NwRkZZbS1sYjY5Z0cxV2ZZUXdaS2VVU3J0aHZKUFlpbFBvM3BsNFcxZFRJVlQzSDdvSktfUnNqbDFKa3VteGFrZUhDVjVLYWp4SG9sTXR0V2N0MG5GQTVxT2Zuc0JxWkRGUmFJRm1SZzBsZlBNeS1OUFl0NmR5UXNq0gGzAUFVX3lxTE45SDFuVVJ2RzVuemFqTmo3NVhEbWdSVU9POXpVd0NZWXBNT1R4ZlhEdWRyM3lhb0JSX2lvdHJ6U0ptVm9MaE5sMEtydXQ5WWxRSi1rTThoX25JWVdyWEJGdDV3bUZyVXBUQXlaUWdaQVZaSWtaZEdPVGdZRVVpbHdPSmZuRGJiZFdyc3hLTVlzaTdlbUlRWTVoT0NyNjRQWEc3cXp5THdOdFAzT01KODJWcmtR?oc=5
 
-- The Bank of Nvidia, Dario Amodei’s Wife and More | Technology for Aug. 16 - WSJ
-  The Bank of Nvidia, Dario Amodei’
-  🔗 https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzVENnRzY2bTNha0s5c09GOWltSzByRkFSVjRFVTE0aUxBdFlPdkpXdW5YbEl1NUZwMWFENlZlV1U0Qkh1b2NrQ2FWVWFDLVpkY2ttdWF6WHVMWEFSdE8xNE5ZMHNwQQ?oc=5
+- HP executive calls Gen Z ‘AI native’, lauds their ability to listen, build trust, understand customers need
+  An HP executive described Gen Z as 'AI native', highlighting their strong listening skills. He emphasized their role in driving innovation
+  🔗 https://www.livemint.com/companies/people/hp-executive-calls-gen-z-ai-native-lauds-their-ability-to-listen-build-trust-understand-customers-need-11786941189032.html
+
+- Elon Musk’s SpaceX holdings revealed. (Hint: It’s a lot.)
+  The CEO controls 6.4 billion SpaceX
+  🔗 https://www.livemint.com/companies/news/elon-musk-s-spacex-holdings-revealed-hint-it-s-a-lot-11786928470020.html
 
 - Page Industries bets on a future beyond innerwear even as margin pressure remains
   Page won’t enter a category unless it can outsell the next three competitors combined. Managing director V.S. Gan
@@ -32,33 +40,29 @@
   Domestic mills are developing specialized grades for oil and gas pipelines. But limited volumes and high prices are
   🔗 https://www.livemint.com/companies/news/india-still-lacks-enough-high-grade-steel-leaving-pipe-makers-relying-on-imports-sminu-jindal-11786856445602.html
 
-- Chinese carmakers open doors for Mahindra's global push
-  The company has marked out South Africa, the UK, Australia, New Zealand and Latin American countries, including Brazil, as it evaluates an expansion
-  🔗 https://www.livemint.com/companies/news/mahindra-global-push-scorpio-export-chinese-carmakers-11786868329928.html
+- Behari Lal Engineering IPO allotment today. GMP signals 29% listing pop. How to check status online?
+  The shares of Behari Lal Engineering is commanding a strong premium of  ₹84 in
+  🔗 https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-allotment-today-gmp-signals-29-listing-pop-how-to-check-status-online-11786943306004.html
 
-- Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter
-  Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models.
-  🔗 https://www.livemint.com/companies/stripe-clinches-over-7-billion-deal-to-buy-ai-firm-openrouter-11786915829048.html
+- Horizon Industrial Parks IPO Day 1 LIVE: GMP, review, subscription, other details of Blackstone-backe  ₹2600 crore IPO
+  According to market observers, the company shares are available at a premium of  ₹4
+  🔗 https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-day-1-live-gmp-review-subscription-other-details-of-blackstone-backe-rs-2600-crore-ipo-11786940478449.html
 
-- Indian equities may stay rangebound for another 6-9 months, says Mahindra Manulife MF CEO
-  Anthony Heredia says the consolidation is not a red flag, with valuations, the AI
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-outlook-range-bound-fpi-dii-mahindra-manulife-mf-ceo-11786854806606.html
+- Q&amp;T Foods IPO share allotment in focus today: GMP, steps to check allotment status online
+  The IPO of bakery products manufacturer and seller concluded with an overall subscription of 1.42 times on Friday, 14 August. Share allotment of the Q&
+  🔗 https://www.livemint.com/market/ipo/qt-foods-ipo-share-allotment-in-focus-today-gmp-steps-to-check-allotment-status-online-11786942257421.html
 
-- Yen edges up as traders push back Fed rate hike bets
-  Yen edges up as traders
-  🔗 https://www.livemint.com/market/yen-edges-up-as-traders-push-back-fed-rate-hike-bets-11786927254730.html
+- Ashok Leyland’s demand is on the right track, but margins lag
+  Sharp margin squeeze and falling M&amp;amp;HCV market share leave investors waiting for a broader recovery.
+  🔗 https://www.livemint.com/market/mark-to-market/ashok-leyland-q1-results-share-price-margin-market-share-11786939635130.html
 
-- Thai Baht Rally May Fade on Dovish Central Bank, Analysts Say
-  The Thai baht may be short-lived as the central bank is likely to maintain a dovish policy stance to support an economy hit
-  🔗 https://www.livemint.com/market/thai-baht-rally-may-fade-on-dovish-central-bank-analysts-say-11786926888646.html
+- LG Electronics India: turnaround or just a low-base bounce?
+  A 26% Ebitda jump and stronger margins have revived optimism around LG Electronics India. Premiumization, mass-
+  🔗 https://www.livemint.com/market/mark-to-market/lg-electronics-india-q1-results-share-price-earnings-11786935091993.html
 
-- Cement makers face a forgettable H1FY27 as prices weaken and costs rise
-  Cement companies enjoyed higher realizations in Q1FY27, but rising fuel and raw material
-  🔗 https://www.livemint.com/market/mark-to-market/cement-weak-prices-cost-inflation-means-a-forgettable-first-half-of-fy27-ultratech-shree-ambuja-11786847193200.html
-
-- Raja Venkatraman recommends three stocks for 17 August
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-17-august-11786781734398.html
+- ‘Godfather of AI’ warns of mass unemployment: Tech firms are ‘betting on AI replacing a lot of workers’
+  Geoffrey Hinton, the Nobel Prize-winning computer scientist known as the ‘Godfather of AI,’ has warned that AI could trigger massive unemployment. Tech firms investing trillions
+  🔗 https://www.livemint.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment-tech-firms-are-betting-on-ai-replacing-a-lot-of-workers-11786941426915.html
 
 - Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users order information
   Crypto wallet provider SafePal discloses data
@@ -76,65 +80,61 @@
   Anthropic CEO Dario Amodei has pushed back against claims that regulating artificial intelligence would inevitably concentrate power in the hands of a few companies and governments. He argues that carefully designed rules could instead const
   🔗 https://www.livemint.com/technology/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power-11786854040200.html
 
-- Elon Musk announces new X move, vows to make government censorship requests more visible to users
-  X will alert users about government requests for content removal. This initiative reportedly aims to increase transparency in content moderation.
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-announces-new-x-move-vows-to-make-government-censorship-requests-more-visible-to-users-11786806259709.html
+- RBI's heavy FX footprint revives memories of a tightly managed rupee
+  The Reserve Bank of India has stepped in, providing crucial support for the rupee amidst global economic uncertainties. State-run banks are actively engaging in dollar sales to ensure currency stability.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-heavy-fx-footprint-revives-memories-of-a-tightly-managed-rupee/articleshow/133288323.cms
 
-- Nifty takes a breather as bulls and bears watch the next move: Analysts
-  The Nifty index has reached a temporary halt following a robust upward surge, positioning itself at critical support and resistance zones. Analysts are divided in their approaches: some suggest capitalizing on price dips, while others lean towards profiting from
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-takes-a-breather-as-bulls-and-bears-watch-the-next-move-analysts/articleshow/133284227.cms
+- Global market: Japan Q2 GDP misses estimates, but BOJ rate hike bets remain intact
+  Japan's second-quarter economic growth missed expectations as weaker household consumption and business investment offset resilient exports. Despite the softer GDP reading, economists expect the Bank of Japan to retain the option of another rate hike.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-q2-gdp-misses-estimates-but-boj-rate-hike-bets-remain-intact/articleshow/133288124.cms
 
-- Rupee faces pressure as RBI defends 95.45 against dollar amid rising crude oil prices
-  The Reserve Bank of India is defending the rupee at 95.45 against the dollar. The FCNR(B) deposit drive's final stretch may offer some rupee support.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-faces-pressure-as-rbi-defends-95-45-against-dollar-amid-rising-crude-oil-prices/articleshow/133284217.cms
+- Rupee falls 17 paise to 95.59 against US dollar in early trade
+  Rupee slipped by 17 paise against the US dollar in early trading. Reserve Bank of India's announcement on its swap facility adjustment.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-17-paise-to-95-59-against-us-dollar-in-early-trade/articleshow/133288203.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  The Nifty50 and Sensex experienced slight declines, ending the trading session down. Investors will closely monitor crude oil prices and global economic data for future direction.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133280296.cms
+- India bonds dip as RBI's diaspora swap move dents sentiment
+  Early Monday saw a dip in demand for Indian government bonds following the RBI's closure of its swap window. Inflows exceeding $52 billion resulted in foreign exchange reserves hitting a four-month peak.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-dip-as-rbis-diaspora-swap-move-dents-sentiment/articleshow/133288178.cms
 
-- Stocks in news: Cochin Shipyard, Voltas, Patanjali Foods, and PhysicsWallah
-  Indian stock markets experienced a range-bound week with minor losses for Sensex and Nifty. Cochin Shipyard reported a profit decline, while Voltas saw a significant profit surge. PhysicsWallah narrowed its net loss, and NM
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-cochin-shipyard-voltas-patanjali-foods-and-physicswallah/articleshow/133279798.cms
-
-- Equity investments should give about 15% annual returns over next 5 years: Raamdeo Agrawal
-  Indian equities may yield a promising fifteen percent annual return over the upcoming five years. Foreign investors are currently drawn to more dynamic markets like South Korea and the US, deterred by India's capital gains tax and
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/equity-investments-should-give-about-15-annual-returns-over-next-5-years-raamdeo-agrawal/articleshow/133284211.cms
-
-- Indian Startup IPO Tracker 2026
-  Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
-  🔗 https://inc42.com/features/indian-startup-ipo-tracker-2026/
-
-- RDI Fund Row: Deeptech Investors Seek More Transparency, Independent Oversight
-  The government’s deeptech-focused ₹1 Lakh Cr Research, Development and Innovation (RDI) fund was supposed to be.
-  🔗 https://inc42.com/buzz/rdi-fund-row-deeptech-investors-seek-more-transparency-independent-oversight/
-
-- Can Astrotalk Chart A Future Beyond Astrology?
-  Astrotalk became India&#8217;s 133rd unicorn this week.
-  🔗 https://inc42.com/features/can-astrotalk-chart-a-future-beyond-astrology/
-
-- Ola Electric Unveils Three New Energy Storage Products
-  Electric vehicle (EV) maker Ola Electric announced the launch of three new battery energy storage products.
-  🔗 https://inc42.com/buzz/ola-electric-unveils-three-new-battery-energy-storage-products/
-
-- IPO-Bound Zypp Electric Slashes FY26 Loss By 45% YoY To ₹60 Cr
-  Zypp Electric’s parent Bycyshare Technologies managed to trim its consolidated net loss to ₹59.7 Cr in the&#8230;.
-  🔗 https://inc42.com/buzz/ipo-bound-zypp-electric-slashes-fy26-loss-by-45-yoy-to-%e2%82%b960-cr/
+- Sugar stocks Balrampur Chini, Triveni Engineering, Dhampur Sugar and others rally up to 7%. Here’s why
+  Domestic prices have surged nearly 10% in a month to around Rs 5,000-5,090 per quintal in Mumbai. Deficient rainfall and expectations of strong festival demand are further supporting the bullish outlook for sugar companies.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-balrampur-chini-triveni-engineering-dhampur-sugar-and-others-rally-up-to-7-heres-why/articleshow/133288064.cms
 
 - Bangladesh Lists 2 Riders For PM Rahman's India Visit. One Is Hasina Return - NDTV
   Bangladesh Lists 2 Riders For PM Rahman's India
   🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeFpLWUFhSFprbXBCYXJTQWFrZHJqSmZPal9ERC1IcFBPd3prYTZFTjRtcTFHOXQ5bzlaV3RyQWxnaVBCSnNJZDJTb016OWIwUW1hd2NHcl9xQU13ODEyRTJVOHBLWjFxVUZ3cWdEVEdjVzZKTVY4bGpkZFpPenkzaW40bm40dzhYSU1TbENlOW9IYU1KU0lBeDlvajRULVpYQlZTSnY4bDJGcGZzUGVDN1hmUVVCX2I5cUVsLU52Z1p5M0hEb0F0ZzNFOG1fVXIxS0RtOUZaREtmOWVxNnNIUGNrNNIB6wFBVV95cUxOTWk5V0txOXpRUFlUdjJkTkIxMUJTNFZIU2pqeHJ4T0pPMm82WmRxYTB2VlRaakFlQUdnX3ZRTXhZNDFwRWEyZXNGTGp6eTVBLTNpTEktUzMwZFlZckRCNWJEdHk1TldJQXpxYVRXNDktdlVmQ1puSkE5dGVoMDJFa2hSRXdvcUNjaDVVX2w1U2xpX3lTOVh6VDFkOFR5VHR2cjgzN0VhLVFrb0VGenA5ZVY5OThvYWUwUWdoLURlNWFTMGphRko0MnFOWUtnRUpOd1paczdobFU0WXhSTDZKU29kSldoWUwwRGQ0?oc=5
 
-- Top news of the day: August 16, 2026 - The Hindu
-  Top news of the day: August
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPdVdkYUFkM1luRjIyQTZ5cnpXSXV4aE54WkdQYWZ6czVwQ1ZQS3hocjdRYUF1aTJVdU82aElOQkFMaGgzUHRiSzlVSEc1UG56TFlvSS16bUQyVHkwUG9yVl9sUDBnakV3S2VCVTVwbGVrZDV0ZnRka1hDaHozQWlRVDFfa2xvZWgtUGdxNlQtRExRaXFYYTZmOWJSS3R2RlkwZVV3TVFGU1hjZFNNanZKeWRZMzJsVHFEY0xWRjBuM3hNc3J5ZDhkNG5FNW93SXNhS1hLVjF2U0x2amZ6R2pHQWg2MHI5LXk5OW84S2xmOVRCbXdjRlpnbUZNT3FmWFJ3Yi1qNTU1UVI2TXBMZm56RlJtQVk2b1Q1QXNlTTd5cGxEa0hG0gGrAkFVX3lxTE1TZXM3RTNTMl9lY1RZUWd0UGR5bUk3bDZiSFl2NjlQbF9xTWZnV0w5LUxaNWRFckxSWm11Q0ZmQktFcWY2cFJ5VWozeHFheGU5TUxWdFFHWGs5aDkyWDRZaHBZQTNtdGZMSXJtWlBoekI1UkRfOWI1MW1xcnc0MnQzU19UODRDY0pWc2Z3aHJsemYyVDlHa1h3SEVwRXhfQTJyVzl3V3JqWHMwNi1oeHRNOGg0US0zUzJmbDlfbHhPMERabS1DRm5RUDltckM2cm5TSWs3YThERzNMWE5wVFI3dUE2OVpvQS15ZTlKTDdKbzhlSTNhU2VtQ0lFUzBDZkRVTWc5bVF2LXZGNjBlWm1RNjNJRXVUc1JkWmYtdlNwTUZVemM1b3FicWpz?oc=5
+- Taliban to host first public ‘Victory Day’ reception in India | World News - Hindustan Times
+  Taliban to host first public ‘Victory Day�
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHIzTGxaYzBPOWp6Y0pZZ1NkZHo0WXlYaHEtUUFmZ1MtemtvVk5pbHV0d001bEFiYUJ6R2dCbEc3aHBMMTlwa3QxeWp2czV0SDA3OWdNalEtSS14YWs2aGtuN0FGYUljdjlXMlJDdEtueXBFZG9kTHAtbHVhSkEzb3FDeGpkTy1YS01Kb081eGI0bGU5TmJmN3FsZkRWRExVRVpxdnZ6SUZLWFdMRmJrSjMzcWlzVWZicEpBUlhWRdIBxAFBVV95cUxPYjJQcWRhXzVuM21ZQTFYS2E2UFhqUmUxa2wtUDh5SEVkdmhnQVpLV2ZxbnJGanp6M0hmUVpfaXVtbjMtdzljdE9JQk5TbjVLcVJYZUs3MU5taXFnQ0Z4R2pRQmJDenYybXl6N1MyN0pXaGsxZkhMY08wS2NDU29RcTVHcHhSUXFtR3lmbE5KSGE1TkMzdUFiUjQxdkRrdC1aMi00WmVlZHNqc1pwUjRNcHp6ZzBUMndsOVFBa1hYTmxLblk2?oc=5
 
-- ‘Process Vitiated…’: Bangladesh Links Tarique Rahman’s India Visit To Sheikh Hasina Extradition - The Times of India
-  Tarique Rahman’s India Visit To Sheikh Hasina Ext
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZmlyb1hIUDBpQW5GM1o0TFN1WWk4TkV1cndlQWpBM3hyRlJ0U05Zd3V0Z0N0MlpmdmJNMEFVcGFtQkhxckxXbTJBUG9qekpCdlBMcEQxS1lkVFJTQk1KNngyTlItVUQ2dndUUG1TUlBsNHZkMXVLZy1QdnBZM0pIMmF0NjFMVFRzdlZHdHp5cm5aNm5mQkdCcTN4ci1NUTlLVGlJY01Rc0xlRl94WjN1dVBENy1jTDNld3hXckpFc01kWWREOGpobVJIcFBtMzFxN2tSTm9QOGxiWGVOelJKYzJ5ejVZWTloRjdQQWdCQmlwMm1N0gH6AUFVX3lxTE5aQ1BvaDNIYmEwWVVoOHUtNHVkRENKUnlISENpSm4ybXhncmJDeDhEd25kMlY4TDBQZjA2bjNOVWw0MVNlVkRScnZKal9iLWgyUERDZGZQdTE0RWprSzFXQ3FabkZjbGdIb0Q1SGl0Y1pzSC1pa1hfTlBmV1BWM1lYa3NVRGNvTjhzVmxHY1ZfWTFFNVgwYmVKSHIxQXhkSlJTd2VER1h6bmo3N1RXN3VpYjVzZVhhaFpndlB6bTRiaGVVQlcySFpXcXlMbDZKY2xHTWFlNzFSR0VuTmNYM29CNm0zSUZtY1RnZTducEwwaWVwVDZtLV85M3c?oc=5
+- High on confidence, Indian women's team eyes big win over South Africa - economictimes.indiatimes.com
+  The Indian women's cricket team beat South Africa in
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxORkU1MmkxM0JXdkdEZDBwS2d3cGNVOGplbC1lWVZwcG4zTnpkWnhMMDFiT0d6UFdOekxiUGNvWHRNaE5vMFhSdkZJa1l2TGw2cUtwU2NxYVM2clM2ZVRTYl9adzVWTEwxVElCblRZY2QtTE9SZmV4RHpLQXFlNmJFMGJaenlad25SQzZWYzdLOEVhVFM1MWlvc3V3S0hndHdORTh0TUIwU0FPcWlNNkZraXdMOWczd01jaVBZV2dsNFp2V3BkUVQ1OGNvUTdfUGtGZG9EbVBqNGpMU1lVWk5NVDJfa1pEYlRHanJBWlZsRUhRNUx3bEZwR2lHa0hIWlVSdW13WdIB_gFBVV95cUxNU3VTcGtaMnA2ZDlPODVNaUZCUGh3UTRWZXQ5T3cxVmJwY3ZHR2NrX3laX1B5eWRvYV93aGhVM1RGenZGVlZqR05nYzZOTlp5MTB5eTY4ZnNmRmlvOVAzUDN5LUwwbUpqMEwyRnZDMlM1eVpYMXREUTZ2ZFVxemNhUnJzQjgydkZ2N0o2bFdpZzRibXg5dkN0a243aDFrWFd4RW82U1hyYUVLanZGMXJFVDBqYVhCbV9DRVMwSTM4c1lHRHVicWtHaFJIOWtvbkxWVV91all6aW11QUV3eGtzR0gtUUlLZ25EdTNUeWpYa1UySnpxV29Fckw1SVppQQ?oc=5
 
-- Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests - Al Jazeera
-  ‘Azadi’ chants in India’
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzRJeFVXamtWTVppTGRTelZiSTktUmtuak1ENWRKZ3F5ODZ2aS03RTFFaWxodlhraXBtc2Z3NXVuWU5HWEk0NTdyanpLNFVqZWlSUXRwNW5Lc19BZUgzWEdoZjFtakJ0a0EyRDF0VmM5S1BieTRrSWVUaU5GQ0VGWmp5c25kQmFQaTltWW8tSFJ3el9kbVlaSldXMGt5dndpTS1uZzhBaE4ybWxGMl96bHFUNEV1QjTSAbwBQVVfeXFMT0UyVk1wUi00S1QtSGxEdmZVNkNCendwanBoNlJlRXo4eTk0dU5LOHpPYU5uaHFzb241RXpQdml5c25QRTFLRnBfeG43c3Q3X0Z2MzFlZHVWZXFveHhEV2dSWjVWU2R3Sy0yRGJlVzhHSEV1OHhEZmRwMkFkYjlSSGFjNW1NWDl1ZWJMUkpycGJURXdQYnFveEt5aTR5cVhWUXpaalFLLWc3RUNOM0dmSzd6a3Bxbm0yYlRzbU8?oc=5
+- 2 More Air India Pilots Fail To Clear 1st Drug Test After Phuket Flight Fiasco - NDTV
+  The incident occurred on a flight from Delhi to Phuket.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlNMU2ROMEJfRXJuT3JIWnk4amhpcEZfU3V5VzhmR25sRE4wWjVmX2tlRVRnYnVidmZXa0JVWnJIcVpPdUVkQ2hKVThjZXRYWDFETldxYVBJZVhUd1hnM2hQSjJ5Yk5IRDl2Wi1UbHJ0eXdQQy1FbE9NblhRN1JLYVI2VnB6NWhsbU5Od1hkQVY1b0UyUm5vRUE5dG9oX1NOV2k4b282aDRjaHBnLTBSdHhNenFWaFVwdmZN0gHDAUFVX3lxTE9WaFlXRUtOR1BfRGNoZXl1czRUa0pKNDNpNjJSWmNsaU5RSTZ6aDM2NFdkM2ZVN3RMT3R3TEYzQzZfdXYxUmloSGFsTWo1MlNvV1RvdXhYSTNOSkthdHdLWk96R09ONTZWbVdhaHlxcUxCbjBpUWRhSmVlZU43aFRWc2E3ZFNqcG1SM2t6UktoMm1kVDE1MEdYNEJwclVrOUtqcVBWb0tVWVNNSzZUX2pCM3kzSHE0QlNhc3RFMXlreTB1OA?oc=5
+
+- India built the world's biggest digital payments miracle. Now comes the bill - BBC
+  India built the world's biggest digital payments miracle.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5
+
+- Bangladesh Lists 2 Riders For PM Rahman's India Visit. One Is Hasina Return - NDTV
+  Bangladesh Lists 2 Riders For PM Rahman's India
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeFpLWUFhSFprbXBCYXJTQWFrZHJqSmZPal9ERC1IcFBPd3prYTZFTjRtcTFHOXQ5bzlaV3RyQWxnaVBCSnNJZDJTb016OWIwUW1hd2NHcl9xQU13ODEyRTJVOHBLWjFxVUZ3cWdEVEdjVzZKTVY4bGpkZFpPenkzaW40bm40dzhYSU1TbENlOW9IYU1KU0lBeDlvajRULVpYQlZTSnY4bDJGcGZzUGVDN1hmUVVCX2I5cUVsLU52Z1p5M0hEb0F0ZzNFOG1fVXIxS0RtOUZaREtmOWVxNnNIUGNrNNIB6wFBVV95cUxOTWk5V0txOXpRUFlUdjJkTkIxMUJTNFZIU2pqeHJ4T0pPMm82WmRxYTB2VlRaakFlQUdnX3ZRTXhZNDFwRWEyZXNGTGp6eTVBLTNpTEktUzMwZFlZckRCNWJEdHk1TldJQXpxYVRXNDktdlVmQ1puSkE5dGVoMDJFa2hSRXdvcUNjaDVVX2w1U2xpX3lTOVh6VDFkOFR5VHR2cjgzN0VhLVFrb0VGenA5ZVY5OThvYWUwUWdoLURlNWFTMGphRko0MnFOWUtnRUpOd1paczdobFU0WXhSTDZKU29kSldoWUwwRGQ0?oc=5
+
+- Taliban to host first public ‘Victory Day’ reception in India | World News - Hindustan Times
+  Taliban to host first public ‘Victory Day�
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHIzTGxaYzBPOWp6Y0pZZ1NkZHo0WXlYaHEtUUFmZ1MtemtvVk5pbHV0d001bEFiYUJ6R2dCbEc3aHBMMTlwa3QxeWp2czV0SDA3OWdNalEtSS14YWs2aGtuN0FGYUljdjlXMlJDdEtueXBFZG9kTHAtbHVhSkEzb3FDeGpkTy1YS01Kb081eGI0bGU5TmJmN3FsZkRWRExVRVpxdnZ6SUZLWFdMRmJrSjMzcWlzVWZicEpBUlhWRdIBxAFBVV95cUxPYjJQcWRhXzVuM21ZQTFYS2E2UFhqUmUxa2wtUDh5SEVkdmhnQVpLV2ZxbnJGanp6M0hmUVpfaXVtbjMtdzljdE9JQk5TbjVLcVJYZUs3MU5taXFnQ0Z4R2pRQmJDenYybXl6N1MyN0pXaGsxZkhMY08wS2NDU29RcTVHcHhSUXFtR3lmbE5KSGE1TkMzdUFiUjQxdkRrdC1aMi00WmVlZHNqc1pwUjRNcHp6ZzBUMndsOVFBa1hYTmxLblk2?oc=5
+
+- High on confidence, Indian women's team eyes big win over South Africa - economictimes.indiatimes.com
+  The Indian women's cricket team beat South Africa in
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxORkU1MmkxM0JXdkdEZDBwS2d3cGNVOGplbC1lWVZwcG4zTnpkWnhMMDFiT0d6UFdOekxiUGNvWHRNaE5vMFhSdkZJa1l2TGw2cUtwU2NxYVM2clM2ZVRTYl9adzVWTEwxVElCblRZY2QtTE9SZmV4RHpLQXFlNmJFMGJaenlad25SQzZWYzdLOEVhVFM1MWlvc3V3S0hndHdORTh0TUIwU0FPcWlNNkZraXdMOWczd01jaVBZV2dsNFp2V3BkUVQ1OGNvUTdfUGtGZG9EbVBqNGpMU1lVWk5NVDJfa1pEYlRHanJBWlZsRUhRNUx3bEZwR2lHa0hIWlVSdW13WdIB_gFBVV95cUxNU3VTcGtaMnA2ZDlPODVNaUZCUGh3UTRWZXQ5T3cxVmJwY3ZHR2NrX3laX1B5eWRvYV93aGhVM1RGenZGVlZqR05nYzZOTlp5MTB5eTY4ZnNmRmlvOVAzUDN5LUwwbUpqMEwyRnZDMlM1eVpYMXREUTZ2ZFVxemNhUnJzQjgydkZ2N0o2bFdpZzRibXg5dkN0a243aDFrWFd4RW82U1hyYUVLanZGMXJFVDBqYVhCbV9DRVMwSTM4c1lHRHVicWtHaFJIOWtvbkxWVV91all6aW11QUV3eGtzR0gtUUlLZ25EdTNUeWpYa1UySnpxV29Fckw1SVppQQ?oc=5
+
+- 2 More Air India Pilots Fail To Clear 1st Drug Test After Phuket Flight Fiasco - NDTV
+  The incident occurred on a flight from Delhi to Phuket.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlNMU2ROMEJfRXJuT3JIWnk4amhpcEZfU3V5VzhmR25sRE4wWjVmX2tlRVRnYnVidmZXa0JVWnJIcVpPdUVkQ2hKVThjZXRYWDFETldxYVBJZVhUd1hnM2hQSjJ5Yk5IRDl2Wi1UbHJ0eXdQQy1FbE9NblhRN1JLYVI2VnB6NWhsbU5Od1hkQVY1b0UyUm5vRUE5dG9oX1NOV2k4b282aDRjaHBnLTBSdHhNenFWaFVwdmZN0gHDAUFVX3lxTE9WaFlXRUtOR1BfRGNoZXl1czRUa0pKNDNpNjJSWmNsaU5RSTZ6aDM2NFdkM2ZVN3RMT3R3TEYzQzZfdXYxUmloSGFsTWo1MlNvV1RvdXhYSTNOSkthdHdLWk96R09ONTZWbVdhaHlxcUxCbjBpUWRhSmVlZU43aFRWc2E3ZFNqcG1SM2t6UktoMm1kVDE1MEdYNEJwclVrOUtqcVBWb0tVWVNNSzZUX2pCM3kzSHE0QlNhc3RFMXlreTB1OA?oc=5
 
 - India built the world's biggest digital payments miracle. Now comes the bill - BBC
   India built the world's biggest digital payments miracle.
@@ -169,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-17 00:59:03 UTC_
+_Last updated: 2026-08-17 06:44:52 UTC_
