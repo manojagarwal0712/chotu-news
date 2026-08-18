@@ -1,84 +1,52 @@
 # 📰 Daily News Summaries
 
-- How China-India border tensions are rising again over encroachment claims - Al Jazeera
-  How China-India border tensions are rising again
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?oc=5
+- Mint Explainer | What happened aboard Air India flight 2379 from Phuket?
+  The cause of Air India flight 2379's sudden altitude loss remains unclear. Airbus has outlined what happened aboard Air India
+  🔗 https://www.livemint.com/companies/news/mint-explainer-what-happened-aboard-air-india-flight-2379-from-phuket-11787023379118.html
 
-- Bangladesh Lists 2 Riders For PM Rahman's India Visit. One Is Hasina Return - NDTV
-  Bangladesh Lists 2 Riders For PM Rahman's India
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeFpLWUFhSFprbXBCYXJTQWFrZHJqSmZPal9ERC1IcFBPd3prYTZFTjRtcTFHOXQ5bzlaV3RyQWxnaVBCSnNJZDJTb016OWIwUW1hd2NHcl9xQU13ODEyRTJVOHBLWjFxVUZ3cWdEVEdjVzZKTVY4bGpkZFpPenkzaW40bm40dzhYSU1TbENlOW9IYU1KU0lBeDlvajRULVpYQlZTSnY4bDJGcGZzUGVDN1hmUVVCX2I5cUVsLU52Z1p5M0hEb0F0ZzNFOG1fVXIxS0RtOUZaREtmOWVxNnNIUGNrNNIB6wFBVV95cUxOTWk5V0txOXpRUFlUdjJkTkIxMUJTNFZIU2pqeHJ4T0pPMm82WmRxYTB2VlRaakFlQUdnX3ZRTXhZNDFwRWEyZXNGTGp6eTVBLTNpTEktUzMwZFlZckRCNWJEdHk1TldJQXpxYVRXNDktdlVmQ1puSkE5dGVoMDJFa2hSRXdvcUNjaDVVX2w1U2xpX3lTOVh6VDFkOFR5VHR2cjgzN0VhLVFrb0VGenA5ZVY5OThvYWUwUWdoLURlNWFTMGphRko0MnFOWUtnRUpOd1paczdobFU0WXhSTDZKU29kSldoWUwwRGQ0?oc=5
+- A look at major lawsuits against Meta and other social media companies over harms to kids
+  A look at major lawsuits against Meta and other social media
+  🔗 https://www.livemint.com/companies/a-look-at-major-lawsuits-against-meta-and-other-social-media-companies-over-harms-to-kids-11787024952162.html
 
-- Fake govt offices set up, funds siphoned off in Gujarat - The Times of India
-  Fake govt offices set up, funds siphoned off
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFFEY2QyaXBpVzlBZnl5TDE2Q3dfZ1cwRkRhdEtQS3BwakJXLWJ2UWZuR2xxZGRVdXpSbE16cW5tNzlqUUNFOXpCQjNZd2VYOC03eHNNazJGMXJtZXN0NEU0OV9BZ2VxdC1KS0dxd2RuenMwbUx2U19ndjhKc1VCWXpYNVJDV3hDdlpnaHY1ZVh2U203NGdBNG9yanhJbHFURGc1aVB0b2VBQWhfTU5fS1BEN1pNLVMxMmpKLXUzONIBxAFBVV95cUxQdmVib0dUSnJZWmRyTlk5WEdRYVFzQUJhVmFrdWNnd1BEbVFOZjdsa3BGTUlLTkw3WDNmMC1UWWNkY294aUpIZnBVVnFONmowNV81akxnUndsaDIzb3hOSVJtbklZLVJ0WDY0OUhIWnRiRUFnRm1BT3MyRFlVYkxYOG01Z3J2R2NfQ2lVN3loM1pva1NSWGJLODZBZmlYNG5pVGUzNXUxTFpQSTJhMF9KUHE5T05MS1BtQ3NkTmxXanBUTjFB?oc=5
+- EV bike startup RapteeHV in talks to raise $15-20 million in Series A round
+  RapteeHV is raising fresh capital to ramp up production and expand its retail network.
+  🔗 https://www.livemint.com/companies/start-ups/ev-bike-startup-rapteehv-in-talks-to-raise-15-20-million-in-series-a-round-11786955985870.html
 
-- Trump cites India's voter cards to make case for SAVE America Act - The Economic Times
-  The Economic Times published a story on the SAVE America Act
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxNcFlkWmxxWXpXSFZZSGFnTEZ5dHRiTDlOajJnTVZBUWtRVThvVmJjREJwNEFBZFdZM05rMy1aTTcyQm1TZ2w3dXEweUt1RS1NMHdhX0RITTdoUWtGN3lYWHdxNVktdEVPQ2U4OUtfMlVuRGFFb3FPVDlBLV9Ccm9YMS1pQ05LYnZDU2xjaUxnTFdTRGxHX25mYnlTUFhHeTNkUDBBQ0MxWHpidElsejk1dEtQaHBVM25NWkw3cFRTd3ZFZk4yelQ1WGVUS0ZHLV83MVBkOHA1elplM21WdTNFV3BjdzdpZUcxQmU2ZHMxV0loV3FjTFNfMVRiaGtfc0FzekJBTkdacmRmTk93TS1STm5uSTBtVzhNdjNRakhZZGlxWjFJaGVnZlNzMzZicjMzbXfSAc4BQVVfeXFMT3hkM0RfcmxSTk9WSU9fejQ4QTdXYVJCcFJUZGZJR3J2aVoyV3ZDYmFfUHlvWDhOS3REU0NDSDBzeDlxVThsN2E5TmNKT2RjTXhXXzZ6WlliTjg5VHNsSGd0N055LXpKcWVrbHVsZ1VJM3ZCcDlPMEVXbXhRenVTLWRhSW9kYmw5Q1RXUlYycGdJMElMRDNiSlJkbnBvaV9OamlvZE5DTmhLMUJDNk50WGpXcmxEenFsSkZzYWN4WDFwUXZkTzBUN0RETWZKblE?oc=5
+- After Dhoot, Bain-backed RSB Transmissions begins talks with bankers for  ₹3,000 cr IPO
+  SB specializes in designing and manufacturing components for commercial vehicles, passenger cars, construction and off-highway
+  🔗 https://www.livemint.com/companies/after-dhoot-bain-backed-rsb-transmissions-begins-talks-with-bankers-for-rs-3-000-cr-ipo-oems-manufacturers-11786976307068.html
 
-- UPI: India built a digital payments miracle. Now comes the bill. - BBC
-  The bill is expected to be passed by the
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5
+- Financial advisors love Warren Buffett, but they don’t always agree with him
+  Money pros explain when they embrace the Oracle of Omaha’s investing wisdom and when
+  🔗 https://www.livemint.com/companies/people/financial-advisors-love-warren-buffett-but-they-don-t-always-agree-with-him-11787014368812.html
 
-- Mahindra introduces the BE 6 SPORTEQ, a bold new expression of sport, technology, and electric performance - Mahindra
-  Mahindra introduces the BE 6 SPORTEQ, a bold
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUW5BQ0pUZGpoNFdqYXZKVy1ac1lkSFJwTExOWHNQV3dSMkpEVFFtbGprcTVCaWJGbzI1RnE2UE5QbUxlb3JkWkhJTlRKbXVIazJYQVN0bEZjdzAzRXZScmRLVXgyTjVNVFJFUkpDcW9mbm1Qb1lFdW92cHhhbjdoZnlUc2d0OGh1bHBFTHAtOENlc0I4d0tOVXQtOE9heHpZTm55RUo3QzlfUmZ0UTJ5dFlLVHBKRHk3X0NKamJUQzR5SXhScU9KUklGY2hPblU1b1U0RU81S3VVa3lrcWNzaDFER3dEZG4teG53?oc=5
+- Behari Lal Engineering IPO listing tomorrow: Here’s what GMP hints ahead of debut
+  Behari Lal Engineering IPO is set to list on the Indian stock market tomorrow. The IPO attracted significant interest, with strong subscriptions.
+  🔗 https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-allotment-behari-lal-engineering-ipo-gmp-behari-lal-engineering-ipo-listing-behari-lal-ipo-11787029898525.html
 
-- CSIR-IICT partners Re Sustainability for environmental technology research - The Hindu
-  The Hindu is a leading newspaper in
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1hzQVRhVHgyamRHWXJTVU5QUWlpVnZyMWdKaU9RMTZFNUo4a2RUcGtRTkJ6T2RBV0VVVXFvZ0xCb3ZWOGFaYXZfZmwwbkI2ak0yNnp3M2ZhcUtmRG8taUZRczd4SE9Ca2M3Qk9GNE81cVh0ZmNHbDZfOXZVUWxIV2RFRVlrYnA5dTVqT1ltRl9va3c4dXZsb1VjMllYQm1XUzV3Y0VReUtENVlnQlJ1cWdJUkhaeDI3Z1pnejVMSUJWdzltZmt4TUlyT3lMazR3SlFSS0laRUbSAd8BQVVfeXFMUHZSOG81ZUYxemlDbmxRV2drNVhQQ1lMU1BzRTAwdjNXS3ZxbHRaZk1YQkJ4c0VXSllhUjJPcUlfdk1iVkJqaFpsWnlkc0QxbjIzRU5ZVU9mLWxHVUxZNV8yclpYTF9ZM0tPT0Y2cDZPbm1IUVFPdGhxUUk2bC1OMXVuQ1JxbjRydkowdFBrdDRlSlA4LVRhWTlQQ0Y3bnpTZVpka1NvS0pHZ0RxaG9YSDFVZFJsQVN1NTUyRmZsOVltMGFyQlUwWnpMb2tPS1dsZ2VlYk9CV1RUNFktMXh2TQ?oc=5
+- Small-cap IT stock under  ₹50 jumps 3% despite muted trends on Dalal Street
+  Blue Cloud Softech Solutions shares opened at  ₹21.90 apiece today. The small-cap IT stock touched an intraday
+  🔗 https://www.livemint.com/market/smallcap-it-stock-under-50-blue-cloud-softech-solutions-jumps-3-despite-muted-trends-on-dalal-street-11787031047346.html
 
-- Alarm raised over ‘privacy dilemma’ of facial recognition technology at Coles and Woolworths - The Guardian
-  Alarm raised over ‘privacy dilemma’ of
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWhjWVEtYmxEM3dtSVBsVVhlc3pYNDZtbGNuTlNLQjZiMVp1dElpSFFZaWN0b09zVHZYMWwwN2ZabW82MmNaWkl6OTgwOWNuQWh4NTIxR21jQXVxMlQ4RG1hZmpnYkVub3hxb2tNNXZhT0Nza0tfWmRGZjRwZVlGcmZrRXhSN2tUdE5VVVNxazdsdzYzUWpoSkNhOGlkTGZWa19UZWQ4UVg2djVzR0JKYlNpbHFWM3VXR1RPMFZB?oc=5
+- NSE begins valuation exercise for mega-IPO after strong institutional demand during roadshows
+  Institutional demand is expected to drive the price to 
+  🔗 https://www.livemint.com/market/ipo/nse-valuation-exercise-mega-ipo-institutional-demand-roadshows-qibs-domestic-funds-sebi-11787025810104.html
 
-- NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute - NVIDIA Newsroom
-   NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXdyMXl0ZUs3UDVBSFo1a3BCcDg4UlZUazQxSEp1allrY1B3SEVxYnQ2RjFQVFY5T3Q1YUFYM19Jc1ZQNXVobGtZNVJBc1BPQXpFWFFsTlBvWEJqV3VRM1lCU0ZzSVlHcS14UGxUZldBaEVsdUJveHN0TXJOLURfWDBxRlJYaFdXMHREU3VSNlVrcFZncENub1czY2lGV1F6eGpGSWZiU2loYlJYVVRFZTdQSU80Q0lNZmdvX3FZQ0hTU1pjZF8weHhCRWEzeURkcDk3N1Z3?oc=5
+- Lalithaa Jewellery Mart IPO Day 2 LIVE: GMP, subscription status to review. Apply or not?
+  According to market observers, the company shares are available at a premium of  ₹30 in
+  🔗 https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-day-2-live-gmp-subscription-status-to-review-apply-or-not-11787026286137.html
 
-- Britain’s electric vehicle owners bring their appetite for technology into the home - YouGov
-  Britain’s electric vehicle owners bring their appetite
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjczYUVXWXdzYThfNVBsdVJxT2t2S1VZS2NhZ1NMZkFEWGtxMW5ZdVRhdGtUR0VYRGlKdXN0ZVZWdFdFRVFwY3J6eTZKd1VVUGUzOWhBN1RfVVdRamhMM0pwX29WZGtSQnJtVFJyZzA4VW4zcmNKeVdMZ2k1blU2NDFoUzNZelZjLXFrdHRodjBGTkZiRjU5X1RGNnVlNHV1S0l1dzBUVTlCTENTdXVyNWFyYklfeXJUYzlBWUtmbw?oc=5
+- Sham Foam SME IPO listing: Shares debut at 20% discount, hit lower circuit; details here
+  Sham Foam's share price was listed at  ₹104, a 20% discount to the issue price. After a weak debut, the SME stock extended losses
+  🔗 https://www.livemint.com/market/ipo/sham-foam-sme-ipo-listing-shares-debut-at-20-discount-hit-lower-circuit-details-here-11787028849464.html
 
-- Axis Max Life sees margin gains holding firm as product mix settles
-  CEO Sumit Madan rules out near-term product changes as VNB margins surge to 23.2
-  🔗 https://www.livemint.com/companies/axis-max-life-life-insurance-retirement-products-funds-sales-expansion-growth-axis-bank-max-financial-11786970133668.html
+- Even as market clouds clear, AI investment anxiety still gnaws: Mike Dolan
+  Even as market clouds
+  🔗 https://www.livemint.com/technology/even-as-market-clouds-clear-ai-investment-anxiety-still-gnaws-mike-dolan-11787032851599.html
 
-- Microsoft, Salesforce eye Darwinbox buyout ahead of its planned IPO
-  HR and payroll services provider Darwinbox is drawing buyout interest from Microsoft, Salesforce and ADP. The interest comes as KKR-backed firm expands overseas.
-  🔗 https://www.livemint.com/companies/microsoft-salesforce-eye-darwinbox-buyout-ahead-of-its-planned-ipo-11786961865346.html
-
-- Georgia Military School Embarks on Turnaround Post-Debt Reprieve
-  All-boys boarding and day school in Gainesville, Georgia, has entered into a forbearance agreement after defaulting on
-  🔗 https://www.livemint.com/companies/georgia-military-school-embarks-on-turnaround-post-debt-reprieve-11786998820334.html
-
-- Meta faces ‘astronomical’ stakes as California child privacy trial could change Instagram, Facebook forever
-  Facebook faces 'astronomical' consequences as child
-  🔗 https://www.livemint.com/companies/news/meta-faces-astronomical-consequences-as-child-privacy-trial-in-california-could-change-instagram-facebook-forever-11786984834374.html
-
-- Paytm founder Sharma to sell stake worth up to  ₹4,895 crore in block deal
-  As of June-end, Sharma's Resilient was listed as a public shareholder with just over 10% stake in the Paytm parent. Sharma set up a Netherlands-registered holding firm to acquire a 10.
-  🔗 https://www.livemint.com/companies/vijay-shekhar-sharmas-resilient-offers-paytm-stock-worth-513-mn-in-block-trade-11786978683978.html
-
-- Raja Venkatraman recommends three stocks for 18 August
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-three-stocks-18-august-11786982882569.html
-
-- Stock recommendations for 18 August from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 18 August. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-18-august-from-marketsmith-india-11786971698790.html
-
-- Foreign Holdings of Treasuries Fell in June, Led by Japan Drop
-  Foreign holdings of U.S. Treasuries fell in June from the previous month.
-  🔗 https://www.livemint.com/market/foreign-holdings-of-treasuries-fell-in-june-led-by-japan-drop-11787004808131.html
-
-- Traders Get Pickier in Emerging-Market Inflation-Linked Debt
-  Emerging-market investors are adjusting bets in an $886 billion asset class. Persistent inflation worries and currency swings are
-  🔗 https://www.livemint.com/market/traders-get-pickier-in-emerging-market-inflation-linked-debt-11787001634597.html
-
-- Stocks, dollar fall after weak data; yields rise
-  GLOBAL MARKETS:
-  🔗 https://www.livemint.com/market/stocks-dollar-fall-after-weak-data-yields-rise-11786998207341.html
+- AI infrastructure, not algorithms, emerging as key AI growth constraint: Nvidias Jensen Huang
+  Nvidia CEO Jensen Huang has sought to underline the growing importance of physical infrastructure for the next phase of artificial intelligence. He argues that access to land, power and data-centre shells is increasingly
+  🔗 https://www.livemint.com/technology/ai-infrastructure-not-algorithms-emerging-as-key-ai-growth-constraint-nvidias-jensen-huang-11787028020862.html
 
 - Discord halts livestreams in Brazil after watchdog cites child safety failures
    Discord halts livestreams in
@@ -92,133 +60,45 @@
   Trump crypto firm backs venture offering
   🔗 https://www.livemint.com/technology/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies-11786978639626.html
 
-- ‘Godfather of AI’ warns of mass unemployment: Tech firms are ‘betting on AI replacing a lot of workers’
-  Geoffrey Hinton, the Nobel Prize-winning computer scientist known as the ‘Godfather of AI,’ has warned that AI could trigger massive unemployment. Tech firms investing trillions
-  🔗 https://www.livemint.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment-tech-firms-are-betting-on-ai-replacing-a-lot-of-workers-11786941426915.html
+- Mukul Agrawal-backed PTC Industries shares slip 4% despite 466% surge in Q1 profit and 180% EBITDA growth
+  PTC Industries shares fell 4% despite a strong Q1 FY27 performance, with profit surging 466% and EBITDA rising 180%. Revenue grew 83% year-on-year to ₹197
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawal-backed-ptc-industries-shares-slip-4-despite-466-surge-in-q1-profit-and-180-ebitda-growth/articleshow/133312725.cms
 
-- Crypto wallet provider SafePal discloses data breach affecting nearly 40,000 users order information
-  Crypto wallet provider SafePal discloses data
-  🔗 https://www.livemint.com/technology/crypto-wallet-provider-safepal-discloses-data-breach-affecting-nearly-40-000-users-order-information-11786895492175.html
+- NSE to seek up to Rs 5.26 lakh crore valuation in record IPO: Report
+  The National Stock Exchange of India is eyeing a valuation nearing fifty-five billion dollars for its upcoming initial public offering. Shares are being promoted to investors at a price range between two thousand and two thousand one hundred rupees.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-to-seek-up-to-rs-5-26-lakh-crore-valuation-in-record-ipo-report/articleshow/133312513.cms
 
-- Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap - Bloomberg.com
-  Technology Stocks Lift Equities as
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF?oc=5
+- Microsoft stock under pressure: AI capex math faces investor scrutiny
+  Microsoft shares came under pressure as investors scrutinised the company’s heavy AI infrastructure spending. The selloff also reflected a broader shift within technology stocks.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/microsoft-stock-under-pressure-ai-capex-math-faces-investor-scrutiny/slideshow/133312682.cms
 
-- Dow loses more than 270 points as oil prices pressure stocks amid rising Iran tensions - CNBC
-  Dow loses more than 270 points as oil prices pressure stocks amid
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE1RM1hCU0w1Ymc5bmJYUlpoT0FsMXpRY1VZSWtvbExwb2hycWN6eUhtdjJZWE9FTmRVdkV6WmpkQkhjNjVMVVZUY1J3WmRQZ2JKMFZFVWpGRUlfbjVlX180SzNQRWNpNEVwVlRQUVE4bml6TWRZTUNGRNIBfkFVX3lxTE9qWkJMWFk2bGV0U1ZiZmt4eFlUSUtueGNhd3JoQW80cFN4TDQ5dVp1RWk0ajllYXhycUpqV2FNMWtwaHJVS3JCRHZkS3M3RktRTXpoQkFTcXp4WnRycDhiOWNvNFlsRFpudXk0UDN3RjVRN0hwc0M4alZ6Q1BqUQ?oc=5
+- Augmont Enterprises to launch Rs 825-cr IPO on Aug 21; price band set at Rs 750-788
+  The IPO will comprise both a new issue and an offer for sale from promoters. Anchor investors can place bids starting August 20, while the public issue will conclude on August 25.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-to-launch-rs-825-cr-ipo-on-aug-21-price-band-set-at-rs-750-788/articleshow/133312434.cms
 
-- Stock market today: Dow, S&P 500, Nasdaq fall as oil rises amid US-Iran tensions, 30-year yield hits highest level in decades - finance.yahoo.com
-  Stock market today: Dow, S&amp;P 500, Nasdaq fall as oil rises
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2t1QktzNGVzSjR4cHdxUWtSX2Y1VUVmT2l5UVotajl2WjBvaFFxU29HREZHYXMtR0FPZVZtUkpnQWdNTXNCbHdLNHI3ZU55Xy1xOWRjdFVjdFl5cjdnWHd4T3NObEFaejhXdnh2a2JkRFRIWXdTVkZtODdMTEdnTDNFNGJOYmt1RUJBaGVycFhneUhwcG1MZXB2TXFBUWNJOXRRdmRlNGhseFU?oc=5
+- INDO-MIM shares hit 10% upper circuit as Q1 net profit rises 32% YoY
+   Indo-MIM shares surged after the newly listed precision components maker reported a 31.6% year-on-year rise in Q1FY27
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indo-mim-shares-hit-10-upper-circuit-as-q1-net-profit-rises-32-yoy/articleshow/133312384.cms
 
-- Stock Market News, Aug. 17, 2026: 30-Year Treasury Yield Hits Fresh High - WSJ
-  Stock Market News, Aug. 17, 2026
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0o3amtJdlNTb29WZnUxdllSLUhseTJQT09kV1V3MktIQXlvQndNNDVzX2tibmhORXJBMU9mQjQtWjIwUTVyeHFoNHlnMDJ6VUZaZHByY1FLaDhwVktwZjJ6U01heDh6dk5TMk1JZ3VwSDUtOFlfc2lEbnhFMUhGSlZuUy05d2M?oc=5
+- Festive Ecommerce: The Battle Beyond The Checkout
+  In last week’s edition of The Checkout, we explored how efficient dark store management will be central to quick commerce.
+  🔗 https://inc42.com/features/festive-ecommerce-the-battle-beyond-the-checkout/
 
-- Markets News, Aug. 17, 2026: US Stocks Start Week Lower, Oil Prices Rise; Memory Shares Outperform - Investopedia
-  The Dow Jones Industrial Average closed at a record high on Monday. The
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWlDaXE0ODlUNVY5b25xb3dORk1yYXcyc1JXa1N1Rjd6NzNwN1ZyUmptSFNPR1hnbjVVNXBsbkVlb1k3aGZwZEZUS0dJSmRpdzc3SjEyeTlDSkYwN1J2blo3S1hjSEdkWUZpTHFOb1dLVHpTYkdaX3p3MGtUUi1fMTA1ZGJuRlROS0JVZGJuYmU?oc=5
+- Razorpay Launches AI Foundation Model Vulcan To Expedite Digital Payments
+  Razorpay has launched a transformer-based AI foundation model Vulcan built to expedite digital payments. The IPO-bound startup claims that the
+  🔗 https://inc42.com/buzz/razorpay-launches-ai-foundation-model-vulcan-to-expedite-digital-payments/
 
-- Pre-market action: Here's the trade setup for today's session
-  Domestic equities opened the week lower, with the Nifty closing down at 24,287 points. Analysts anticipate range-bound trading as focus shifts to global macro and geopolitical developments. The Strait of Hormuz and crude oil
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133304467.cms
+- Ecommerce Giants Woo Sellers With AI, Jar’s Troubles & More
+  Ecommerce Giants Woo Sellers With AI, Jar’s Troubles &amp; More.
+  🔗 https://inc42.com/buzz/ecommerce-giants-woo-sellers-with-ai-jars-troubles-more/
 
-- Stocks in news: Airtel, Paytm, SpiceJet, ONGC, and ZEE
-  Airtel Payments Bank appointed Shabnam Sinha as its new chairperson. SpiceJet's bankruptcy petitions were deferred after a settlement was reached. ONGC secured a US license to resume operations in Venezuela.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-airtel-paytm-spicejet-ongc-and-zee/articleshow/133303467.cms
-
-- Aegis Logistics in talks to acquire UAE’s Tristar for $1.5 billion
-  Aegis Logistics is in advanced discussions to acquire Tristar for $1.5 billion. Tristar operates across many countries, complementing Aegis's expansion plans.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aegis-logistics-in-talks-to-acquire-uaes-tristar-for-1-5-billion/articleshow/133308925.cms
-
-- US stocks: US market slips as oil prices rise, retail results awaited
-  Major stock indexes fell, signaling caution in the market. Oil prices surged, driven by concerns over Iran. Technology stocks exhibited a mixed performance in the face of AI investment risks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-slips-as-oil-prices-rise-retail-results-awaited/articleshow/133306298.cms
-
-- Axis Bank expands corporate play beyond loans, shuns price war
-  Axis Bank is broadening its corporate banking services beyond just lending. The lender targets fee income and low-cost deposits from corporate ecosystems. Investment banking and wealth management services are also offered to companies.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-expands-corporate-play-beyond-loans-shuns-price-war/articleshow/133308830.cms
-
-- How China-India border tensions are rising again over encroachment claims - Al Jazeera
-  How China-India border tensions are rising again
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?oc=5
-
-- Bangladesh Lists 2 Riders For PM Rahman's India Visit. One Is Hasina Return - NDTV
-  Bangladesh Lists 2 Riders For PM Rahman's India
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeFpLWUFhSFprbXBCYXJTQWFrZHJqSmZPal9ERC1IcFBPd3prYTZFTjRtcTFHOXQ5bzlaV3RyQWxnaVBCSnNJZDJTb016OWIwUW1hd2NHcl9xQU13ODEyRTJVOHBLWjFxVUZ3cWdEVEdjVzZKTVY4bGpkZFpPenkzaW40bm40dzhYSU1TbENlOW9IYU1KU0lBeDlvajRULVpYQlZTSnY4bDJGcGZzUGVDN1hmUVVCX2I5cUVsLU52Z1p5M0hEb0F0ZzNFOG1fVXIxS0RtOUZaREtmOWVxNnNIUGNrNNIB6wFBVV95cUxOTWk5V0txOXpRUFlUdjJkTkIxMUJTNFZIU2pqeHJ4T0pPMm82WmRxYTB2VlRaakFlQUdnX3ZRTXhZNDFwRWEyZXNGTGp6eTVBLTNpTEktUzMwZFlZckRCNWJEdHk1TldJQXpxYVRXNDktdlVmQ1puSkE5dGVoMDJFa2hSRXdvcUNjaDVVX2w1U2xpX3lTOVh6VDFkOFR5VHR2cjgzN0VhLVFrb0VGenA5ZVY5OThvYWUwUWdoLURlNWFTMGphRko0MnFOWUtnRUpOd1paczdobFU0WXhSTDZKU29kSldoWUwwRGQ0?oc=5
-
-- Fake govt offices set up, funds siphoned off in Gujarat - The Times of India
-  Fake govt offices set up, funds siphoned off
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFFEY2QyaXBpVzlBZnl5TDE2Q3dfZ1cwRkRhdEtQS3BwakJXLWJ2UWZuR2xxZGRVdXpSbE16cW5tNzlqUUNFOXpCQjNZd2VYOC03eHNNazJGMXJtZXN0NEU0OV9BZ2VxdC1KS0dxd2RuenMwbUx2U19ndjhKc1VCWXpYNVJDV3hDdlpnaHY1ZVh2U203NGdBNG9yanhJbHFURGc1aVB0b2VBQWhfTU5fS1BEN1pNLVMxMmpKLXUzONIBxAFBVV95cUxQdmVib0dUSnJZWmRyTlk5WEdRYVFzQUJhVmFrdWNnd1BEbVFOZjdsa3BGTUlLTkw3WDNmMC1UWWNkY294aUpIZnBVVnFONmowNV81akxnUndsaDIzb3hOSVJtbklZLVJ0WDY0OUhIWnRiRUFnRm1BT3MyRFlVYkxYOG01Z3J2R2NfQ2lVN3loM1pva1NSWGJLODZBZmlYNG5pVGUzNXUxTFpQSTJhMF9KUHE5T05MS1BtQ3NkTmxXanBUTjFB?oc=5
-
-- Trump cites India's voter cards to make case for SAVE America Act - The Economic Times
-  The Economic Times published a story on the SAVE America Act
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxNcFlkWmxxWXpXSFZZSGFnTEZ5dHRiTDlOajJnTVZBUWtRVThvVmJjREJwNEFBZFdZM05rMy1aTTcyQm1TZ2w3dXEweUt1RS1NMHdhX0RITTdoUWtGN3lYWHdxNVktdEVPQ2U4OUtfMlVuRGFFb3FPVDlBLV9Ccm9YMS1pQ05LYnZDU2xjaUxnTFdTRGxHX25mYnlTUFhHeTNkUDBBQ0MxWHpidElsejk1dEtQaHBVM25NWkw3cFRTd3ZFZk4yelQ1WGVUS0ZHLV83MVBkOHA1elplM21WdTNFV3BjdzdpZUcxQmU2ZHMxV0loV3FjTFNfMVRiaGtfc0FzekJBTkdacmRmTk93TS1STm5uSTBtVzhNdjNRakhZZGlxWjFJaGVnZlNzMzZicjMzbXfSAc4BQVVfeXFMT3hkM0RfcmxSTk9WSU9fejQ4QTdXYVJCcFJUZGZJR3J2aVoyV3ZDYmFfUHlvWDhOS3REU0NDSDBzeDlxVThsN2E5TmNKT2RjTXhXXzZ6WlliTjg5VHNsSGd0N055LXpKcWVrbHVsZ1VJM3ZCcDlPMEVXbXhRenVTLWRhSW9kYmw5Q1RXUlYycGdJMElMRDNiSlJkbnBvaV9OamlvZE5DTmhLMUJDNk50WGpXcmxEenFsSkZzYWN4WDFwUXZkTzBUN0RETWZKblE?oc=5
-
-- UPI: India built a digital payments miracle. Now comes the bill. - BBC
-  The bill is expected to be passed by the
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5
+- Amazon, Flipkart & Meesho’s AI Focus Shifts To Seller-Side Stacks
+  For much of the past two years, the AI race in Indian ecommerce revolved around the consumer.
+  🔗 https://inc42.com/features/amazon-flipkart-meeshos-ai-focus-shifts-to-seller-side-stacks/
 
 - When A Sale ‘Dies’: Did Flipkart’s Dark Humour Go Too Far?
   Flipkart wanted to draw attention to the final day of its Freedom Sale. Instead, its obituary-style print advertisement has triggered a backlash.
   🔗 https://inc42.com/buzz/when-a-sale-dies-did-flipkarts-dark-humour-go-too-far/
-
-- PharmEasy Claims To Be Debt Free After Paring More Stake In Thyrocare
-  PharmEasy parent API Holdings claims to have become debt free, after repaying ₹1,050 Cr in outstanding debt by selling a&#8230;.
-  🔗 https://inc42.com/buzz/pharmeasy-claims-to-be-debt-free-after-paring-more-stake-in-thyrocare/
-
-- Govt Clears 31 More Electronics Manufacturing Projects Worth ₹7.9K Cr
-  The Ministry of Electronics and Information Technology (MeitY) has approved 31 new applications under the Electronics Component Manufacturing Scheme.
-  🔗 https://inc42.com/buzz/govt-clears-31-more-electronics-manufacturing-projects-worth-%e2%82%b97-9k-cr/
-
-- Sunil Mittal To Step Down As Airtel Payments Bank Chairman, Shabnam Sinha To Take Over
-  Sunil Bharti Mittal is set to step down as the non-executive chairman of Airtel Payments Bank and leave its board.
-  🔗 https://inc42.com/buzz/sunil-mittal-to-step-down-as-airtel-payments-bank-chairman-shabnam-sinha-to-take-over/
-
-- Exclusive: Peak XV Alum Saksham Mittal’s Corpus Labs In Talks To Raise Funding From Stellaris
-  Former Peak XV Partners analyst Saksham Mittal’s wealthtech startup Corpus Labs is in talks to raise pre-seed funding from Stellaris.
-  🔗 https://inc42.com/buzz/peak-xv-alum-saksham-mittals-corpus-labs-in-talks-to-raise-funding-from-stellaris/
-
-- How China-India border tensions are rising again over encroachment claims - Al Jazeera
-  How China-India border tensions are rising again
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?oc=5
-
-- Bangladesh Lists 2 Riders For PM Rahman's India Visit. One Is Hasina Return - NDTV
-  Bangladesh Lists 2 Riders For PM Rahman's India
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeFpLWUFhSFprbXBCYXJTQWFrZHJqSmZPal9ERC1IcFBPd3prYTZFTjRtcTFHOXQ5bzlaV3RyQWxnaVBCSnNJZDJTb016OWIwUW1hd2NHcl9xQU13ODEyRTJVOHBLWjFxVUZ3cWdEVEdjVzZKTVY4bGpkZFpPenkzaW40bm40dzhYSU1TbENlOW9IYU1KU0lBeDlvajRULVpYQlZTSnY4bDJGcGZzUGVDN1hmUVVCX2I5cUVsLU52Z1p5M0hEb0F0ZzNFOG1fVXIxS0RtOUZaREtmOWVxNnNIUGNrNNIB6wFBVV95cUxOTWk5V0txOXpRUFlUdjJkTkIxMUJTNFZIU2pqeHJ4T0pPMm82WmRxYTB2VlRaakFlQUdnX3ZRTXhZNDFwRWEyZXNGTGp6eTVBLTNpTEktUzMwZFlZckRCNWJEdHk1TldJQXpxYVRXNDktdlVmQ1puSkE5dGVoMDJFa2hSRXdvcUNjaDVVX2w1U2xpX3lTOVh6VDFkOFR5VHR2cjgzN0VhLVFrb0VGenA5ZVY5OThvYWUwUWdoLURlNWFTMGphRko0MnFOWUtnRUpOd1paczdobFU0WXhSTDZKU29kSldoWUwwRGQ0?oc=5
-
-- Fake govt offices set up, funds siphoned off in Gujarat - The Times of India
-  Fake govt offices set up, funds siphoned off
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFFEY2QyaXBpVzlBZnl5TDE2Q3dfZ1cwRkRhdEtQS3BwakJXLWJ2UWZuR2xxZGRVdXpSbE16cW5tNzlqUUNFOXpCQjNZd2VYOC03eHNNazJGMXJtZXN0NEU0OV9BZ2VxdC1KS0dxd2RuenMwbUx2U19ndjhKc1VCWXpYNVJDV3hDdlpnaHY1ZVh2U203NGdBNG9yanhJbHFURGc1aVB0b2VBQWhfTU5fS1BEN1pNLVMxMmpKLXUzONIBxAFBVV95cUxQdmVib0dUSnJZWmRyTlk5WEdRYVFzQUJhVmFrdWNnd1BEbVFOZjdsa3BGTUlLTkw3WDNmMC1UWWNkY294aUpIZnBVVnFONmowNV81akxnUndsaDIzb3hOSVJtbklZLVJ0WDY0OUhIWnRiRUFnRm1BT3MyRFlVYkxYOG01Z3J2R2NfQ2lVN3loM1pva1NSWGJLODZBZmlYNG5pVGUzNXUxTFpQSTJhMF9KUHE5T05MS1BtQ3NkTmxXanBUTjFB?oc=5
-
-- Trump cites India's voter cards to make case for SAVE America Act - The Economic Times
-  The Economic Times published a story on the SAVE America Act
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxNcFlkWmxxWXpXSFZZSGFnTEZ5dHRiTDlOajJnTVZBUWtRVThvVmJjREJwNEFBZFdZM05rMy1aTTcyQm1TZ2w3dXEweUt1RS1NMHdhX0RITTdoUWtGN3lYWHdxNVktdEVPQ2U4OUtfMlVuRGFFb3FPVDlBLV9Ccm9YMS1pQ05LYnZDU2xjaUxnTFdTRGxHX25mYnlTUFhHeTNkUDBBQ0MxWHpidElsejk1dEtQaHBVM25NWkw3cFRTd3ZFZk4yelQ1WGVUS0ZHLV83MVBkOHA1elplM21WdTNFV3BjdzdpZUcxQmU2ZHMxV0loV3FjTFNfMVRiaGtfc0FzekJBTkdacmRmTk93TS1STm5uSTBtVzhNdjNRakhZZGlxWjFJaGVnZlNzMzZicjMzbXfSAc4BQVVfeXFMT3hkM0RfcmxSTk9WSU9fejQ4QTdXYVJCcFJUZGZJR3J2aVoyV3ZDYmFfUHlvWDhOS3REU0NDSDBzeDlxVThsN2E5TmNKT2RjTXhXXzZ6WlliTjg5VHNsSGd0N055LXpKcWVrbHVsZ1VJM3ZCcDlPMEVXbXhRenVTLWRhSW9kYmw5Q1RXUlYycGdJMElMRDNiSlJkbnBvaV9OamlvZE5DTmhLMUJDNk50WGpXcmxEenFsSkZzYWN4WDFwUXZkTzBUN0RETWZKblE?oc=5
-
-- UPI: India built a digital payments miracle. Now comes the bill. - BBC
-  The bill is expected to be passed by the
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5
-
-- How China-India border tensions are rising again over encroachment claims - Al Jazeera
-  How China-India border tensions are rising again
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?oc=5
-
-- Bangladesh Lists 2 Riders For PM Rahman's India Visit. One Is Hasina Return - NDTV
-  Bangladesh Lists 2 Riders For PM Rahman's India
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeFpLWUFhSFprbXBCYXJTQWFrZHJqSmZPal9ERC1IcFBPd3prYTZFTjRtcTFHOXQ5bzlaV3RyQWxnaVBCSnNJZDJTb016OWIwUW1hd2NHcl9xQU13ODEyRTJVOHBLWjFxVUZ3cWdEVEdjVzZKTVY4bGpkZFpPenkzaW40bm40dzhYSU1TbENlOW9IYU1KU0lBeDlvajRULVpYQlZTSnY4bDJGcGZzUGVDN1hmUVVCX2I5cUVsLU52Z1p5M0hEb0F0ZzNFOG1fVXIxS0RtOUZaREtmOWVxNnNIUGNrNNIB6wFBVV95cUxOTWk5V0txOXpRUFlUdjJkTkIxMUJTNFZIU2pqeHJ4T0pPMm82WmRxYTB2VlRaakFlQUdnX3ZRTXhZNDFwRWEyZXNGTGp6eTVBLTNpTEktUzMwZFlZckRCNWJEdHk1TldJQXpxYVRXNDktdlVmQ1puSkE5dGVoMDJFa2hSRXdvcUNjaDVVX2w1U2xpX3lTOVh6VDFkOFR5VHR2cjgzN0VhLVFrb0VGenA5ZVY5OThvYWUwUWdoLURlNWFTMGphRko0MnFOWUtnRUpOd1paczdobFU0WXhSTDZKU29kSldoWUwwRGQ0?oc=5
-
-- Fake govt offices set up, funds siphoned off in Gujarat - The Times of India
-  Fake govt offices set up, funds siphoned off
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFFEY2QyaXBpVzlBZnl5TDE2Q3dfZ1cwRkRhdEtQS3BwakJXLWJ2UWZuR2xxZGRVdXpSbE16cW5tNzlqUUNFOXpCQjNZd2VYOC03eHNNazJGMXJtZXN0NEU0OV9BZ2VxdC1KS0dxd2RuenMwbUx2U19ndjhKc1VCWXpYNVJDV3hDdlpnaHY1ZVh2U203NGdBNG9yanhJbHFURGc1aVB0b2VBQWhfTU5fS1BEN1pNLVMxMmpKLXUzONIBxAFBVV95cUxQdmVib0dUSnJZWmRyTlk5WEdRYVFzQUJhVmFrdWNnd1BEbVFOZjdsa3BGTUlLTkw3WDNmMC1UWWNkY294aUpIZnBVVnFONmowNV81akxnUndsaDIzb3hOSVJtbklZLVJ0WDY0OUhIWnRiRUFnRm1BT3MyRFlVYkxYOG01Z3J2R2NfQ2lVN3loM1pva1NSWGJLODZBZmlYNG5pVGUzNXUxTFpQSTJhMF9KUHE5T05MS1BtQ3NkTmxXanBUTjFB?oc=5
-
-- Trump cites India's voter cards to make case for SAVE America Act - The Economic Times
-  The Economic Times published a story on the SAVE America Act
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxNcFlkWmxxWXpXSFZZSGFnTEZ5dHRiTDlOajJnTVZBUWtRVThvVmJjREJwNEFBZFdZM05rMy1aTTcyQm1TZ2w3dXEweUt1RS1NMHdhX0RITTdoUWtGN3lYWHdxNVktdEVPQ2U4OUtfMlVuRGFFb3FPVDlBLV9Ccm9YMS1pQ05LYnZDU2xjaUxnTFdTRGxHX25mYnlTUFhHeTNkUDBBQ0MxWHpidElsejk1dEtQaHBVM25NWkw3cFRTd3ZFZk4yelQ1WGVUS0ZHLV83MVBkOHA1elplM21WdTNFV3BjdzdpZUcxQmU2ZHMxV0loV3FjTFNfMVRiaGtfc0FzekJBTkdacmRmTk93TS1STm5uSTBtVzhNdjNRakhZZGlxWjFJaGVnZlNzMzZicjMzbXfSAc4BQVVfeXFMT3hkM0RfcmxSTk9WSU9fejQ4QTdXYVJCcFJUZGZJR3J2aVoyV3ZDYmFfUHlvWDhOS3REU0NDSDBzeDlxVThsN2E5TmNKT2RjTXhXXzZ6WlliTjg5VHNsSGd0N055LXpKcWVrbHVsZ1VJM3ZCcDlPMEVXbXhRenVTLWRhSW9kYmw5Q1RXUlYycGdJMElMRDNiSlJkbnBvaV9OamlvZE5DTmhLMUJDNk50WGpXcmxEenFsSkZzYWN4WDFwUXZkTzBUN0RETWZKblE?oc=5
-
-- UPI: India built a digital payments miracle. Now comes the bill. - BBC
-  The bill is expected to be passed by the
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c25md3lPLTZKMFo2cVdreHRRZXJVWFphaE9oRVc5elZPZnlKeTZyVUxGV0I1QnRFTnZ4WHFfbXlJc0luYnpEZ2tYRGFhMkVpZ1FLTXh4VDJJQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +129,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-18 00:58:33 UTC_
+_Last updated: 2026-08-18 06:35:53 UTC_
