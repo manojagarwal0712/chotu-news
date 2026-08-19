@@ -1,24 +1,56 @@
 # 📰 Daily News Summaries
 
-- How China-India border tensions are rising again over encroachment claims - Al Jazeera
-  How China-India border tensions are rising again
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?oc=5
+- India's Middle Class Faces A Retirement Time Bomb, Warns Top Investment Manager - NDTV
+  India's Middle Class Faces A Retirement Time Bomb,
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQeC0xWUR4MlNxZjlNMmt0S0lXM045MmZ4a0NVVkdORV9Vdy1ua3p5aFRRWFI3Y3Bxd3c1eWNCRnFjQXNxVnZ2eVdlNnAweW5ndVo1R0Z3bFlvODF2UjJtRWplU3J2QlA0SHc1MVMtSVgyLTc3dE94aFF3MV9VakNvZFNvRVJ4SVFkQWJndjE4UXdCaWptaW5JcWwxbjkwYWFtb0owUWF4MHZsVnU2dUVXaXhzMGRGMmRIQ045R05R0gHGAUFVX3lxTFB2aXlWVlBhRzNwWTE0bnQ4aWRSRzVzMUVRWktnNnZncndESjl2RVptXzBNRnlFcWVkbGQ0Ml9mYV9nQkFJSmxnZVc4U0RmdC1qeDJOSkVzRm5zbXZreC1yajBMME42OVNxX2p3a2MwdFJYYnktMmFFeHlVYlZva0xKeU9oTk5XVHVmM1lnaF9laGdFYUx3Y0tQR1I4endQV2VXRU5FZXVFNU5LNWRQYlJjUWlteTExT1plMkRheE84WWlRd0pxQQ?oc=5
 
-- US cites India on voter IDs, but are elections under Modi clean? - Al Jazeera
-  &nbsp;& nbsp;<font color
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmNrVm9EYU56NG1GeUhpSXlTZDh6QVNhR2dqTmd4WjUyVnNKVmx4cmF5VXMwSTh2cnV4bHd6eDlzMzcyWTQyM1d5WHpET2tkelJWZUozTTV2TGR5WWFaRnNJV1A4LVFJYUNBdEhjT1Q5QmFOMVFPZHg3QVhVb2RvZHB4OGZBeHJiSlYtOUtGUVRBNVdPRno1Mk41Q3l5UlVyd1BoVW1R0gGrAUFVX3lxTFBETGRtcF8wR2I5V2RMemZxQTlOYS1aZ3o2S3B1UVlHLUdQWEtGMy1mbUFXWmhOdFJrMTBqV1dubGtJN3V3djIzMU0xcDdzcmJuektSZlNIX1FQV09UTXdYa19fd2dLOHdZYk5OVWRCRG54TnlSSkhlSUFsZ3ByOGt6Z3R2cmpnUC1uajVQMndnUEpGQ3pQZnVJeGpxcVFSa1RRUEhCRFBVRjFBdw?oc=5
+- Helicopters to warships: Government notifies new indigenisation list - The Indian Express
+  The Indian Express reports that the government has
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOTW54WWZXclV0bmx3ZWtlbG5jNHQ0WFpybk5nT1FndUc1Y0otWElKR0VPSXVGVkFjaGNNaTBuQkZoRG02ajBydkhZcDJUTlA4S01qdndVN1c3ekJpenFMMFdxQWZERmJyQlhrYWxTZ3JLZ1I0aFZqQ2ROVzRVdXNMSXJEY05xR0JwdFdKX255NnVkZlF6bWZVSjZhRFJRN2otWGdUalFSTmVQMTZlaWV0Y1NYNmwxTVlaTnR2X3hjbmNOSzVv0gHLAUFVX3lxTE45Nk9DdzlweV9kMUZpVEtnaVViN3VHaU1QMmdWR1k5VGRGdktScDBzRzFlRERpYlo5QTkxc2NBOHRCdW9nRDlvbldtODJ6empQQ2VlUVFEaTNEeDVuTnZsOWY2Sms2RTdRdTRROXhpMHQta0FCNV9kNkdUcldSVm9JTUtwRWJBOHJEMXlfV21EcDR6bGVDSlp4Tkw5QTJWY2RIV21yODY4cHQyOXBkQlQ1VEFGb2ZfWTFaLWd3MlVrclY2VDVVZHJkemtr?oc=5
 
-- Trump Cites Indian Poll Chief's Question To Make A Case For Save America Act - NDTV
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPSThSczdpemJ2QXA3MHRvTG9fc3ROT01mdm44VTdYaERFVDhmSHl4QldqSVRiSHZROXVoVmpWTHhxRzJCSC1HRTdEZjFyaENmNW9FdXotbjNJdEtCd3RTTDRucGl2OGZQZGtmNXZqNnVCRm45Y0ZIMDJMc2U0S1U1ODZldVJtbWhkWkRSekpyblpEd1FHa1JBUkdGX25OZ2JlbF9TZk1aQWZCSXFmNzVRRGh30gG6AUFVX3lxTE5QQlpZU2M3UzZueWU5bHFOZkVRYXVnYl83U2ZHRWJ1U2s4cGI0MVJUeVBtd3NjSGZ3MDhLdG1tWkU2bl9RazlnN3FoVUprZmJQVmwzbW4yaUtVdE9SV0NWZXByQ2VoNEI5ZXhydzVhR0dvX3lyNUFlQm5ONVRndXNEc3p6TlZTTWlRM3BtckhRTWhETFdsUVMtWlEwZlB6Zm1wTUtUQ3NObTBDVEgzTTZrVUgxQVhSa2hoZw?oc=5
+- India imposes phased ban on import of 405 defence items to boost domestic production | India News - Hindustan Times
+  India imposes phased ban on import of 405 defence items to boost domestic production.
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU1OWnpvZHJNNFNOdW1DZXFpazQtakJoalhITllNV0RPTjN2bG1JZ0FCYVpVVVdVcTRGbmlCUUswTzh6RHpudVRGVTU4eFRnUFJBLU5yWTJDVGlPVFFQcUFmcURzYU56aVRicTFxWTIyWnZRQ1VOTUhEeFVvNm1yTEtjOHpUN2dJM2lDemp6ZU51T2ZJSzA2VUdNR29BRXdialNfZW5sT1B2ZkNLTVNNNHBZdzVwZzdvY2RSRVYtcC1mQ0N1b3RlcV9SR29oTmhiTmE3Vk01UUZSZGJnUkxBbtIB5gFBVV95cUxNeEVRbHhPeDF4Qm9OSGRzb1hXWFpMXzFZQnpxUEZnSTRJamdmR0xCeG9CSXFXcXA5Rk5CazhMWlNBOWZ4TWpDamdadDJUMlB5VlN3OE9rTVg4VDdvRkY2QUVIQllhdnJfN0NUVXJUQTdyZkYxQng3dmpjbGtyZlAwbWI2bFZ2Z05lNnY5VU1KYzBhWF9mTzNfRVp2amp4YjZBdG1oeHNsbEtnc0VhcUZyZll0c2JMTllMLWdwSS12REJsbVQ1M1dMSDZYcms5YUpmQlYwTnkyS01LY1JfMVBXY1VjdUVNQQ?oc=5
 
-- Trump's voter ID praise follows Gyanesh Kumar - Sergio Gor meet - The Times of India
-  The Times of India published a story on Trump's voter ID
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNNXYtRTNMVEctWnJ2bGNGX3htRjYxMmRyT0VuOWpqN25GYXpjYTMtaENxclN3M2x1MmtQX3RpeWdWaW1jS3VzMDZLVTcxWEZFSGRlaE0yaERfMEpCMGNWZE9WRGQ3N2gyM1QwSkNveHJDMmsyQTU1TG9Yd0NYZWlOS3FZbnEwS29nQy04Sk44UW9iZGsxV2lrZkFGTm1GVVNqT1VSSWZPcV9Ra0VrbDUwLUNnZ1cyTUZpZXpBQnYtMDRWQkZ6eS1Z0gHMAUFVX3lxTE9JcVZNRG1RcV9XNVc1TG0tclVucGpaQlNuOWZUZ0Z6ZzI1Ynpxd1hGTUhsU2N6UXI5NFpJd3luaURtUHJkeFNZQWZmcHFfejBDWXgxQXZBMXVQaFZmNXMwekR2SDllbXpxaEt4VDU5RGZ0TlVZN2JGRW5NWEtQSThOSEdCYmtlajk0RFMzUjgydmc4d2tweFF1RDR4R19sSFFYUUFLSkRJWlU0cDBsaE9fc0FfczV5ZTB3aG10cDEzUnFKbFZnZ0dTT1p5Sw?oc=5
+- 405 Items Worth Rs 3,000-Crore In Defence Ministry's 'Made In India' Push - NDTV
+  405 Items Worth Rs 3,000-Crore
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxONnNiVWtHcDBlWWVsMzMtd1hHUU9xd3E1TUF0aV9FM181UjNpMi1uRE9VYTVHVnVGZ3ZsLWlTYTFBR3F4THpHYnVXa2hHRUZnMlZLOThOZzZBTF9ZTjdqTGhnOTdGQk1VMUY5WC16dmhtU0pzWFdVNW5wbzQtNXlBbGlWSnRvNTcyRTNUY185SGRDZjdSdXJiLW9rQnh5QVY2LWlxXzdpN1RzMF9CUVFVNtIBuAFBVV95cUxQYWNRNnVCdElvZUZrblJyUG9sNnAtLTlsRjItdUJlNmJxU1J3UDNRWUVLa0Y3OXFUY2h6QUxBSW9uV1hia2pmLU9kVHFCajZTMWs4dEk0MGxOTjZFSmNLUXMzS2pRYldPa0tRUXZiQ1NhRUtOOHpFLWdZb3JyRFpreVBFTzVPNEw2dHQyRGxfZmZ3Q0RlTW9ibHZJWjUxY2ZGelNQUGVqZ3hZcHdtd2tvbzBsc3NwNU5J?oc=5
 
-- Election Commission issues fact sheet detailing India’s electoral system and voter safeguards - News On AIR
-  Election Commission issues fact sheet detailing India’s electoral
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVDRhS1FKa1puUmFEWW11TkJhY2JtY3NFeTdtYkRMcHlkY2ZFSDJvY2VZZzRHZnBmQzlLYVlKdTFzUWI0R2xzUTI1Z2QzZG5RcHB4QkxDYUpTZW9NdmRGQlpBcDd4cTl3RU50Wi1wM1VRd0NQMFlheTFzSkgzRm1fMGpyQnNDemZSQlRtMVZtX2dWWUdtYWFWNi1jUTZjeTJudjZPN3c5clRkYWpVbzZqbE4yeGpSOV9MZnc?oc=5
+- "Coming To Listen To Us": Omar Abdullah On Meeting US Envoy In J&K - NDTV
+  "Coming To Listen To Us": Omar Abdullah On Meeting
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHdySmx4LTVSUzVqc1dFSFExVzhSQXFtc1hTQ2cwQks0b3cwaHRndUlJaHZrT3VVS24zX2xTVVZqT1AtVVJLX1dEcHRadDRwbWVqSUVxd2RBQkp1aTFKSFYzWTlpN1A3djlFYzcxNGdzUEkzX21rbWpWdzFFeG03WlVRNTZVbWJnR0pBUjBsLVc5dXhrLXdaU0pfQTVybUFkZHo1d29LQ2tXSFByYnJKWTJNeEtaU0Q3SWfSAcIBQVVfeXFMTWhXNHhFSUtrdUpoRlZQcmh2ZzdIVXkyQTFCRXlrTzRkX3IteWVsc3Fzb2wxMEhuNmRvU3Y2dk83MjRNQjhfRzRYeVRvZXpnYjg1aVR5VGJjYlBuNEpSYnQ5QnBnQkVidU9vUlVoTEtreWpZTTRvRzhRRDlxNjZtU29XdmhUOWUzeEQ5QVVDVW5UcW1BTGRDSm9vZVB1U2FLNFN3bUhWb1N0LVpzclBQSlkwTVVPdTdRcVZJelN6NTUtVlE?oc=5
+
+- The use of AI in biotechnology is changing faster than the rules governing either technology - The Conversation
+  The use of AI in biotechnology is changing faster than the rules governing
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVJrbmxNZDdra3VXbTdpYlliLW9TUWo4VExNWWJLc1dNVDNfcTBGeFNGVFItbFF5N3NwbWVNZ0N3dUpId3NjU1hQQmNRRzFINmZwTnZjY3lEaTdFa2lXc0NfSTI5M1Bzd3RUUGppMUEya2hEYXhWODRuX0lNdmVVd0x5WFc5c3NrUlg3NU1iTjEzMkRkR01BQXN2YmlHV3NEVzBiaGY5dkd4dnpCdU52N3ZUNnRoSmo2cjdBRnQ1Y1pBMGpJZkE?oc=5
+
+- 'We're subsidizing a technology that will replace millions': Andrew Yang on calling for AI tax - CNBC
+  'We're subsidizing a technology that will replace millions': Andrew
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbF83STVpNnlaNjBSQ1dMYk5WY2VyQzJhWDZIZ0txYTdLZ3FxY3hHS2YyY0J5OWR0dy1uUndyS2tmbkhvTVZHVnJULWc4V05CTWlUVHlMbHBpenhCTjRFQ3lPdTd6eVRvT3REV3ppcFNiRGJ3RkplQUFTelozNFV1Tm94VjlyQnVWX1JKd1VacUVFQmVwRTM2M0c3XzlmSEdab3pHQm5oaThVTGRJTzFaQ2xzQXhrSEdSa25LVFNrY1hEcjBLeEFsUzJkcnRLQQ?oc=5
+
+- Chinese robotics giant Unitree soars in stock market debut - BBC
+  Chinese robotics giant Unitree soars
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LYTVEOXBXWHBjaDFwT01UNVhCTk41WkxqUXFfeVhFcEd6NUJKaWN3dE5jM3pnbThJTDRzTTR3ekotSGlmQmFWb2xORVBtejRHZXBHNHpLc09YUQ?oc=5
+
+- Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape - The Guardian
+  The Guardian has compiled a list of 18 new words to
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkdlYmNYNUVKbE9OZXByT19FYmF5ZlpCUVJVek9lb3paUUFrdkgwLXRUaDl3RzlJRFRLNjFha3Nrd1dIODNBdS11dnduTFl5Z2dUZWIzUUlHR2lYblNrU09feUNndm15eVIyWlV5Y3RZYmljcHcxaUdYb2FYY3hsNDI3dl9keVpCUzBHYnVjbWhCcm5KT0FRTldLRUtvSHZoRF9PRU1CUUdNOUxOTkhqdzJ3?oc=5
+
+- van der Waals Josephson junctions for quantum science and technology - Nature
+  "Nature" is a journal of science
+  🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BRDJ2YklRWDBUZVhKWTNVRzV1Q3lJYVRfYnNlTkktRktZRktWT0lpT1pZTnQ4T2QzMWpEYUtSMHAwV2FTTWNuZFk1dHdiaWtkSTR2TjlBdW1qb0tJalZn?oc=5
+
+- SpiceJet, Aviator ML fined  ₹15 lakh each for wasting NCLT’s time
+  NCLT deferred its order on SpiceJet’s insolvency pleas after the
+  🔗 https://www.livemint.com/companies/news/spicejet-aviator-ml-fined-15-lakh-each-for-wasting-nclt-s-time-11787115908880.html
+
+- KKR picks minority stake in BookMyShow
+  KKR’s investment comes as BookMyShow looks to accelerate
+  🔗 https://www.livemint.com/companies/news/kkr-picks-minority-stake-in-bookmyshow-11787114050004.html
+
+- Indigo Paints targets 25% annual growth as it puts market share ahead of margins
+   Indigo Paints is targeting more than 25% annual revenue growth if the paints industry grows at 13-14%.
+  🔗 https://www.livemint.com/companies/news/indigo-paints-targets-25-percent-annual-growth-as-it-puts-market-share-ahead-of-margins-11787104071103.html
 
 - Investcorp bets  ₹500 crore on 20Cube 3PL, plans $1 billion India push
   Investcorp on Tuesday said it has invested  ₹500 crore in 20Cube 3PL Solutions. It aims to build the company as a platform for
@@ -28,37 +60,29 @@
   A rapid offline retreat, retail body complaints, and falling market share speculation about the Chinese brand's future in India.
   🔗 https://www.livemint.com/companies/news/oneplus-price-hike-india-smartphone-price-increase-11787045494986.html
 
-- Meta Accused of Exploiting Kids as Social Media Trial Gets Underway
-   Meta Platforms Inc. has deceived the public for years by targeting children on Facebook and Instagram with technology, a California attorney general's office says.
-  🔗 https://www.livemint.com/companies/meta-accused-of-exploiting-kids-as-social-media-trial-gets-underway-11787080644101.html
+- Juniper Hotels shares extend rally for the second day in a row. Brokerages see up to 72% upside
+  Juniper Hotels share price today opened upside for the second straight
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-today-juniper-hotels-shares-extend-rally-for-the-second-day-in-a-row-brokerages-see-up-to-72-upside-11787118089140.html
 
-- Chip designer Velaura AI valued at more than $1 billion in funding round
-  Chip designer Velaura AI valued at more
-  🔗 https://www.livemint.com/companies/chip-designer-velaura-ai-valued-at-more-than-1-billion-in-funding-round-11787078017188.html
+- Tempsens Instruments IPO opens tomorrow: GMP, issue details, 10 key things to know
+  The IPO of Tempsens Instruments opens for subscription from 20-24 August. With a grey market premium of +175, the company aims to use funds for capital expenditures and debt repayments
+  🔗 https://www.livemint.com/market/ipo/tempsens-instruments-ipo-opens-tomorrow-gmp-issue-details-10-key-things-to-know-11787118399563.html
 
-- Tata Sons AGM adjourned for first time: What happens to N Chandrasekaran now?
-  The Tata Sons AGM was expected to consider Chandrasekaran’s reappointment as a director, along with Tata Sons
-  🔗 https://www.livemint.com/companies/news/tata-sons-agm-adjourned-for-first-time-what-happens-to-n-chandrasekaran-now-11787065037258.html
+- IGL, MGL to Adani Total Gas: City gas distributor stocks rise up to 4%; here's why
+  The rally in the stocks came in after the government cleared an incentive scheme to boost domestic
+  🔗 https://www.livemint.com/market/stock-market-news/igl-mgl-to-adani-total-gas-city-gas-distributor-stocks-rise-up-to-4-heres-why-11787117125898.html
 
-- Behari Lal Engineering IPO listing date today. Here's what GMP, experts signal ahead of debut
-  The shares of Behari Lal Engineering is commanding a strong premium of  ₹118 in
-  🔗 https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-listing-date-today-heres-what-gmp-experts-signal-ahead-of-debut-11787041620800.html
+- Shankesh Jewellers IPO day 2: Issue sees decent buying, GMP signals modest listing gains; should you apply?
+  Shankesh Jewellers IPO opened for public subscription on Tuesday, 18 August, and will remain open until Thursday, 20 August
+  🔗 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-day-2-issue-sees-decent-buying-gmp-signals-modest-listing-gains-should-you-apply-11787116812914.html
 
-- Raja Venkatraman recommends three stocks for 19 August
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-three-stocks-19-august-welspun-living-indegene-lenskart-solutions-sensex-nifty-11787071727213.html
+- Sunshine Pictures IPO day 2 LIVE: GMP, subscription status to review. Should you apply for Vipul Shah's company shares?
+  Sunshine Pictures IPO GMP today: Shares of the film producer Vipul Shah-promoted company are available at
+  🔗 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-2-live-gmp-subscription-status-to-review-should-you-apply-for-vipul-shahs-company-shares-11787112130407.html
 
-- Stock recommendations for 19 August from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 19 August. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-19-august-marketsmith-india-11787060744705.html
-
-- Mizuho Markets Head Expects BOJ to Raise Rates Soon, More Often
-  Mizuho Financial Group Inc. expects the Bank of Japan to pick up the pace of interest-rate hikes. The next one could come as soon as next month, the
-  🔗 https://www.livemint.com/market/mizuho-markets-head-expects-boj-to-raise-rates-soon-more-often-11787087982849.html
-
-- Jubilant Ingrevia shares to be in focus on Wednesday as company to acquire 40% stake in EDMS firm
-  Jubilant Ingrevia's shares expected to draw interest as it announced a 40% acquisition of Zettaone Technologies. This partnership aims to strengthen capabilities
-  🔗 https://www.livemint.com/market/stock-market-news/jubilant-ingrevia-shares-to-be-in-focus-on-wednesday-as-company-to-acquire-40-stake-in-edms-firm-11787072580697.html
+- OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns
+  OpenAI has paused some frontier reinforcement learning (RL) training. The rapid pace of AI model development risks outstripping the company
+  🔗 https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html
 
 - Govt may turn security concerns into a market for India-designed chips
   The official’s statement comes at a time when India is awaiting the
@@ -76,69 +100,77 @@
   Factbox
   🔗 https://www.livemint.com/technology/factboxauthorities-restricting-data-centres-amid-ai-boom-11787088961119.html
 
-- ChatGPT to get a massive upgrade in the next 6 months, says Sam Altman — ‘Could watch you all the time’
-  Users will be able to connect the AI directly to vital daily services, including email, text messages, documents,
-  🔗 https://www.livemint.com/technology/tech-news/chatgpt-to-get-a-massive-upgrade-in-the-next-6-months-says-sam-altman-could-watch-you-all-the-time-11787068716398.html
+- Markets News, Aug. 18, 2026: Tech Shares Sink as Major Indexes Fall for 3rd Straight Session; Oil Prices Rise - Investopedia
+  The Dow Jones Industrial Average fell for the third straight session. The S&P 500
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQS29SWFVnX1Qzb1F5b3RvY3hUZ3M4RkJxeW80V00wS19rT3VnVHZpc3VTVHNET0FRQlJNQ0hsc1p5MWxONjJUaEdoSjBFVjhCVEdoaEoyQ3NTS0t1WTVOS3V4X0JnSVRLbnhrY0EwLVFObExxcDZqM0RQNDFnZmFWS0lGT1RuYThHTW9Zck1CWG0?oc=5
 
 - S&P 500 falls for a third day, as elevated global bond yields and oil prices weigh on market - CNBC
-  Dow, S&amp;P 500, Nasdaq fall as chip stocks sell off, bond yields rattle markets. Oil prices rise as global bond yields and oil prices weigh on market.
+  S&amp;P 500 falls for a third day, as elevated global bond
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1EbTl6YmIwMk5iZFRFdDN1Ui11VTRNUGlDRjlEclNDNl9HTlhUM1lIZWZUVHpudmFHWHM5cUVnOGRqOW1EUjVBSFBYNzJvSTBqMVRma3piQmozU1BLRnZrS2xoNjUyeFUxV1lOZzQ3bUFkMzJNV0530gF8QVVfeXFMTjVFc3dmV1gybFdhUzhwTFJMMmIwYXZvVjhuMzNHdU0wNktMTWZYRzh4YmtsclhkY1dlU1YzUHRWRjhmR0w0M19rWjd1bGk0Yy1UekduWGFoekR2bkNYWGNjb19tLTNCeVk5R3FrbVhlUGowX2dIYkNCNXZrOA?oc=5
 
-- Global bond markets put governments on notice over fiscal, inflation risks - Reuters
-  The global bond markets put governments on notice over
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxrV2hFeTRkQjZmS2pjcmpEM1VJd2tTc2lkT1NxVjJ3c0Jpa2ZNQzJ3eFlSa1BoV3pQN3VLNzZEUHM0SHZHMURHLUthd21TV0R6TkY5N0lfR1pKRnRGZGpFc1FzamJfT1l2Q1pYQXloZ25LYWdxOHhQcndkZ21xU1lXZFJwc0ZOcnVqWUkyejNUdVcyWWlORW9rdzZORlJCZjZHMWZNX0tKYU44bDJReUpMcVNlOFBNd0E?oc=5
+- Chip Stocks Get Hit as Global Bond Anxiety Builds: Markets Wrap - Bloomberg.com
+  Chip Stocks Get Hit as Global Bond Anxiety
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjMzSnppazFUSjZTRDU3TFJ2cmloZXpfdTI5U2h5Q2xlb2k3YnBGUlQybmRqSmlWclo4Z3JJdmt3bHUtTVoydV9MbUdvTkhFQ2dWRUVReHNmZ3pMVXR2akl0SW9weWt6UnQtdHl5dWZLYUtMc0JIaGI4WGxGR0VDdEFOd0NBa3g0TVY0YUxMbjN1NDFx?oc=5
 
-- Global bond markets are getting hammered. Here’s why that could make your life more expensive - CNN
-  Global bond markets are getting hammered. Here's why that could make
-  🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE9tWk1tNURqWV91QXE2Tk1DeU43Uk1PWWFGdWpXbWNJWWdqbkpQTW9lalo5YUV2X09HdDY5RzNjNS1ZeEwtaFJMdGlDajNWZk1obmgzYVhqN0dGM3YyVVYyVDh1T2FyQzdFenhF?oc=5
+- Stock Market LIVE Updates, Sensex Today: Sensex Drops 250 Points As Oil Rises For 4th Day Amid US-Iran Deadlock - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkVtR2phUmJSOXd1SUJ0cDRRUGhMa0Vza19JRFJBWk11R0xYLU1URWNhVlVwV1p2Qkdfemd6TTF4ckJNSThIWFhZVXd0djlkdjN6RENGYkEyVTI1UHZob2dSSnc4LXFxWW
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkVtR2phUmJSOXd1SUJ0cDRRUGhMa0Vza19JRFJBWk11R0xYLU1URWNhVlVwV1p2Qkdfemd6TTF4ckJNSThIWFhZVXd0djlkdjN6RENGYkEyVTI1UHZob2dSSnc4LXFxWWFUaG9tYWM0dEh0ZHhQcXZNMkpmcnlWeEJ3WE5YbktCR0gycGJTWWtBMUZNMWJZTlI2STQ3eml4ZXFHOWFVQm56RjlUd3hwdmhwSlB1LXNkdXpESTVwYV9Da1JrNUJweNIB0AFBVV95cUxPTENaa1QycENsaDFza0gzV2xCd1p1ckRLLXJ1T1RyQ3hmcFFxb3pOcVhVX3ZHX2NUQkZ3V2FMXzhKQVdJck9UbERMZEF5NnlvYVJkMkxSZmR0clpKM3BNTEVCZHBoSjBydlBWN0NWNzh0d0hRNk90NXJhMlhudWJJbzV3bEFxS3AtSHZicWZaTGtzemFEcVNLYjFmRWx4ejBJbFh5NkhHdWNGNnc1cXo2NUxSTGh2TkRPdnBUb1VPQnNGVTY0dWIybEhiUmREV0Ux?oc=5
 
-- U.S. government debt yields are surging at a bad time. Here's what's behind the move - CNBC
-  U.S. government debt yields are surging at a bad time
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFJ4QWF6ZXRKT3NEQzd5U1J5bi1JVGQwZnotbWZGeVNzZEdhdGVGQy00RnJDSUtVZE1VYVR5bFYzcDBKZktkX2xXNVJubmUtZ1VlZDR3RXNHQXVkcVNNVExodkNwcHRQVEV0UzMyZEZjS2Z6bkFQZ3I3Nm9kTTkxOFNaalhnN2FzQTRkcWpVdWpYMVFfa0J0Zi1xRTZHdDhyNVV5V0FtZFlrb0dxUkJ0ZDBKdkJPbGfSAbwBQVVfeXFMTWVadE82UFBkbndVWks0UzdhajNTZlhaVDdnLVhnTlpOQUJqWHBPbFRxMFpZSi1fOXp6em5NalBzSnNfMzY4MW1YVWdMLWwyMUxpNnV4YVd0V09kN1pCWEtYREI0dHMwN2NaQ2NjTm5zWFhNQi12MlZTLXdaLUU3SnRQUmFhbk1KaXpPNHpzNjFiZGk3M0dVOXNUQW1laWRxRXczRFBidW94NGpRbC1ZM01nMGhNSkdyMl84MTk?oc=5
+- Tata's Nelco eyes early-mover edge, targets direct-to-device satcom launch by 2028 - Moneycontrol.com
+  Tata's Nelco eyes early-
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxONTFfUzh6d2hUWjNUVkZaTlI1WjBHQXpjY1JVcXFtbVphc2FVUGZPbkZMRERNV21JbGdadTYxaGd3X0NLc2lFUHZpM2YyMC1xZ3M5TTU0TjJOR3FBOWE3YUFOLXJjdVNWendJSkRlOXZiRm5kWXRkY1hpSnpteVdIYmlGakVRNmRjYkd0MUo0bUUzM3I3UlV3VWVYOE5TaG5JM2pqOHR3V0V2MUtHUl92c2pQYnJubGNyV3FjM2NrVEF5N2xKdXRWZjhSczlYZXIzbHk00gHYAUFVX3lxTE1GVGUtYlhIckZpYjR5amJCeElQclF4VGk5YlZCLXZVWGprV1dxMUpqQUMyX09Kbkt0WmVzdU5GU3czc0R1NXdxc3dQMjJkczdsc1Y3d2dQd2JnX1U3LTB5bUg3MlZTRlBaVHFXWFV6Q1U4cFJlUTJrMXJzdmJyQjFjMFdrRHIwVVY4VGpSMnpMS2lDRnowRnhSUnNjbGJOeVFBdUxxT2l4THYtTUhKTFlwcW41T3NWVmVtX3lWeDhnWkVYRHd2dHF4c2h0NklpbnRXSFJPd2NReA?oc=5
 
-- Stock Markets decline in early trade as crude oil jumps to $91 per barrel - The Hindu
-  Stock markets decline in early trade as crude oil jumps to $91
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOQWNIeENRZHp3dnRUTldCenBudGNIM3l2UVRXR2tEenNGWWJ1YkRQY3pxaFRRSkliMEh3ZXk3bDZ5MnRvbFpQQjM2MlR1RUlnZjFxSkhDT1ZKcG5jeHoyWDVLOHBfa1NGNTFFZHIwUTNJVU5NcDZ1bTBmV3R2OVpCdnhELTNIMWdHZTIxTllwdTZFc0dRN2lMTm5pV0xCRTdPWUU1ZGFmVVp4ZmtHeHpGN19VWWFTcFdjWnhVa29IcHA0Ti1Zd0xTUzhlckd3MTTSAdYBQVVfeXFMUExNOUVBS3IwNXBSQ2p2U0dOX0pYYWpFQWhmd3FwVTY5NTVGVW1kbWR5M1gyTDJTX2hGeTk2WDBCTnVlWG5ybUl3V1lRdjAxUDBSOFpzLTJqekN2UUtTUGM4ZFRhbHQ1cUd6S2Z2OGFLV3ZkSllkeGlyUFBmSTZBRFpocGE2aURrSm55dDFkLVRnZU1SSFpnMTRqcXFsc2V0dm92MDl3eHBlYUxTSnJTRGJYLWhGR3ZoTGNGZE96S3RhSEtwWXI5LXNES3ZzZEtVNXBSaGM4Zw?oc=5
+- Global Market: Chinese stocks slide as semiconductor and robotics shares tumble
+  The CSI300 fell 2.4%, while the Shanghai Composite dropped 2%. Hong Kong shares edged higher. humanoid robot maker Unitree surged nearly 500% in its Shanghai debut.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-stocks-slide-as-semiconductor-and-robotics-shares-tumble/articleshow/133339210.cms
 
-- Pre-market action: Here's the trade setup for today's session
-  The Nifty index continued its decline for a sixth consecutive session this week. Elevated crude oil prices and global tensions are impacting market sentiment negatively.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133328000.cms
+- HG Infra Engineering shares jump over 8% after receiving LoI from REC
+  HG Infra Engineering shares rose after the company received a letter of intent from REC Power Development and Consultancy for constructing two 220/132
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hg-infra-engineering-shares-jump-over-8-after-receiving-loi-from-rec/articleshow/133338862.cms
 
-- Stocks in news: ONGC, BPCL, RailTel Corporation, Exide Industries and Lohia Corp
-  Indian stock market experienced a downward trend for the sixth consecutive session on Tuesday. Key companies like ONGC and BPCL will attract attention due to recent corporate developments. RailTel Corporation and Compucom Software have landed significant contracts with government bodies
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ongc-bpcl-railtel-corporation-exide-industries-and-lohia-corp/articleshow/133327591.cms
+- Cerebras stock tumbles: Will CS-4 revive the AI chipmaker?
+  Cerebras shares fell 12.7% amid valuation and profitability concerns. Investors await evidence of scalable adoption and
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/cerebras-stock-tumbles-will-cs-4-revive-the-ai-chipmaker/slideshow/133338829.cms
 
-- Strong IPO gains stoke FOMO fears, set grey market abuzz
-  The unofficial grey market shows increased activity with rising share prices. Recent strong IPO listings have boosted investor confidence and expectations for future gains.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/strong-ipo-gains-fuel-fomo-as-grey-market-heats-up/articleshow/133334554.cms
+- L&amp;T Technology Services shares jump 3% after bagging $75 million deal
+  L&amp;T Technology Services shares gained up to 3.3% after the engineering services company secured a five-year deal worth more than $75 million. The mandate spans product engineering, software development, testing, digital engineering,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lt-technology-services-shares-jump-3-after-bagging-75-million-deal/articleshow/133338513.cms
 
-- US stocks: Tech selloff weighs down Wall Street as bond yields climb
-  Wall Street faced a downturn as escalating tensions in the Middle East triggered a surge in bond yields. A steep decline was particularly evident in technology stocks, with semiconductors taking the brunt of the losses.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms
+- Vijay Kedia buys Rs 33 crore stake in Zaggle Prepaid Ocean Services via bulk deal, stock skyrockets 17%
+  Kedia Securities, owned by investor Vijay Kedia, acquired 20 lakh shares, or a 1.48% stake, through a bulk deal at Rs 164.72 apiece. The purchase came a
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-rs-33-crore-stake-in-zaggle-prepaid-ocean-services-via-bulk-deal-stock-skyrockets-17/articleshow/133338421.cms
 
-- India's outward FDI jumps 17% to $5.7 billion in July: RBI
-  India’s outward FDI rose 17% year-on-year to $5.70 billion in July from $4.88
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-outward-fdi-jumps-17-to-5-7-billion-in-july-rbi/articleshow/133334574.cms
+- India's Middle Class Faces A Retirement Time Bomb, Warns Top Investment Manager - NDTV
+  India's Middle Class Faces A Retirement Time Bomb,
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQeC0xWUR4MlNxZjlNMmt0S0lXM045MmZ4a0NVVkdORV9Vdy1ua3p5aFRRWFI3Y3Bxd3c1eWNCRnFjQXNxVnZ2eVdlNnAweW5ndVo1R0Z3bFlvODF2UjJtRWplU3J2QlA0SHc1MVMtSVgyLTc3dE94aFF3MV9VakNvZFNvRVJ4SVFkQWJndjE4UXdCaWptaW5JcWwxbjkwYWFtb0owUWF4MHZsVnU2dUVXaXhzMGRGMmRIQ045R05R0gHGAUFVX3lxTFB2aXlWVlBhRzNwWTE0bnQ4aWRSRzVzMUVRWktnNnZncndESjl2RVptXzBNRnlFcWVkbGQ0Ml9mYV9nQkFJSmxnZVc4U0RmdC1qeDJOSkVzRm5zbXZreC1yajBMME42OVNxX2p3a2MwdFJYYnktMmFFeHlVYlZva0xKeU9oTk5XVHVmM1lnaF9laGdFYUx3Y0tQR1I4endQV2VXRU5FZXVFNU5LNWRQYlJjUWlteTExT1plMkRheE84WWlRd0pxQQ?oc=5
 
-- How China-India border tensions are rising again over encroachment claims - Al Jazeera
-  How China-India border tensions are rising again
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?oc=5
+- Helicopters to warships: Government notifies new indigenisation list - The Indian Express
+  The Indian Express reports that the government has
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOTW54WWZXclV0bmx3ZWtlbG5jNHQ0WFpybk5nT1FndUc1Y0otWElKR0VPSXVGVkFjaGNNaTBuQkZoRG02ajBydkhZcDJUTlA4S01qdndVN1c3ekJpenFMMFdxQWZERmJyQlhrYWxTZ3JLZ1I0aFZqQ2ROVzRVdXNMSXJEY05xR0JwdFdKX255NnVkZlF6bWZVSjZhRFJRN2otWGdUalFSTmVQMTZlaWV0Y1NYNmwxTVlaTnR2X3hjbmNOSzVv0gHLAUFVX3lxTE45Nk9DdzlweV9kMUZpVEtnaVViN3VHaU1QMmdWR1k5VGRGdktScDBzRzFlRERpYlo5QTkxc2NBOHRCdW9nRDlvbldtODJ6empQQ2VlUVFEaTNEeDVuTnZsOWY2Sms2RTdRdTRROXhpMHQta0FCNV9kNkdUcldSVm9JTUtwRWJBOHJEMXlfV21EcDR6bGVDSlp4Tkw5QTJWY2RIV21yODY4cHQyOXBkQlQ1VEFGb2ZfWTFaLWd3MlVrclY2VDVVZHJkemtr?oc=5
 
-- US cites India on voter IDs, but are elections under Modi clean? - Al Jazeera
-  &nbsp;& nbsp;<font color
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmNrVm9EYU56NG1GeUhpSXlTZDh6QVNhR2dqTmd4WjUyVnNKVmx4cmF5VXMwSTh2cnV4bHd6eDlzMzcyWTQyM1d5WHpET2tkelJWZUozTTV2TGR5WWFaRnNJV1A4LVFJYUNBdEhjT1Q5QmFOMVFPZHg3QVhVb2RvZHB4OGZBeHJiSlYtOUtGUVRBNVdPRno1Mk41Q3l5UlVyd1BoVW1R0gGrAUFVX3lxTFBETGRtcF8wR2I5V2RMemZxQTlOYS1aZ3o2S3B1UVlHLUdQWEtGMy1mbUFXWmhOdFJrMTBqV1dubGtJN3V3djIzMU0xcDdzcmJuektSZlNIX1FQV09UTXdYa19fd2dLOHdZYk5OVWRCRG54TnlSSkhlSUFsZ3ByOGt6Z3R2cmpnUC1uajVQMndnUEpGQ3pQZnVJeGpxcVFSa1RRUEhCRFBVRjFBdw?oc=5
+- India imposes phased ban on import of 405 defence items to boost domestic production | India News - Hindustan Times
+  India imposes phased ban on import of 405 defence items to boost domestic production.
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU1OWnpvZHJNNFNOdW1DZXFpazQtakJoalhITllNV0RPTjN2bG1JZ0FCYVpVVVdVcTRGbmlCUUswTzh6RHpudVRGVTU4eFRnUFJBLU5yWTJDVGlPVFFQcUFmcURzYU56aVRicTFxWTIyWnZRQ1VOTUhEeFVvNm1yTEtjOHpUN2dJM2lDemp6ZU51T2ZJSzA2VUdNR29BRXdialNfZW5sT1B2ZkNLTVNNNHBZdzVwZzdvY2RSRVYtcC1mQ0N1b3RlcV9SR29oTmhiTmE3Vk01UUZSZGJnUkxBbtIB5gFBVV95cUxNeEVRbHhPeDF4Qm9OSGRzb1hXWFpMXzFZQnpxUEZnSTRJamdmR0xCeG9CSXFXcXA5Rk5CazhMWlNBOWZ4TWpDamdadDJUMlB5VlN3OE9rTVg4VDdvRkY2QUVIQllhdnJfN0NUVXJUQTdyZkYxQng3dmpjbGtyZlAwbWI2bFZ2Z05lNnY5VU1KYzBhWF9mTzNfRVp2amp4YjZBdG1oeHNsbEtnc0VhcUZyZll0c2JMTllMLWdwSS12REJsbVQ1M1dMSDZYcms5YUpmQlYwTnkyS01LY1JfMVBXY1VjdUVNQQ?oc=5
 
-- Trump Cites Indian Poll Chief's Question To Make A Case For Save America Act - NDTV
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPSThSczdpemJ2QXA3MHRvTG9fc3ROT01mdm44VTdYaERFVDhmSHl4QldqSVRiSHZROXVoVmpWTHhxRzJCSC1HRTdEZjFyaENmNW9FdXotbjNJdEtCd3RTTDRucGl2OGZQZGtmNXZqNnVCRm45Y0ZIMDJMc2U0S1U1ODZldVJtbWhkWkRSekpyblpEd1FHa1JBUkdGX25OZ2JlbF9TZk1aQWZCSXFmNzVRRGh30gG6AUFVX3lxTE5QQlpZU2M3UzZueWU5bHFOZkVRYXVnYl83U2ZHRWJ1U2s4cGI0MVJUeVBtd3NjSGZ3MDhLdG1tWkU2bl9RazlnN3FoVUprZmJQVmwzbW4yaUtVdE9SV0NWZXByQ2VoNEI5ZXhydzVhR0dvX3lyNUFlQm5ONVRndXNEc3p6TlZTTWlRM3BtckhRTWhETFdsUVMtWlEwZlB6Zm1wTUtUQ3NObTBDVEgzTTZrVUgxQVhSa2hoZw?oc=5
+- 405 Items Worth Rs 3,000-Crore In Defence Ministry's 'Made In India' Push - NDTV
+  405 Items Worth Rs 3,000-Crore
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxONnNiVWtHcDBlWWVsMzMtd1hHUU9xd3E1TUF0aV9FM181UjNpMi1uRE9VYTVHVnVGZ3ZsLWlTYTFBR3F4THpHYnVXa2hHRUZnMlZLOThOZzZBTF9ZTjdqTGhnOTdGQk1VMUY5WC16dmhtU0pzWFdVNW5wbzQtNXlBbGlWSnRvNTcyRTNUY185SGRDZjdSdXJiLW9rQnh5QVY2LWlxXzdpN1RzMF9CUVFVNtIBuAFBVV95cUxQYWNRNnVCdElvZUZrblJyUG9sNnAtLTlsRjItdUJlNmJxU1J3UDNRWUVLa0Y3OXFUY2h6QUxBSW9uV1hia2pmLU9kVHFCajZTMWs4dEk0MGxOTjZFSmNLUXMzS2pRYldPa0tRUXZiQ1NhRUtOOHpFLWdZb3JyRFpreVBFTzVPNEw2dHQyRGxfZmZ3Q0RlTW9ibHZJWjUxY2ZGelNQUGVqZ3hZcHdtd2tvbzBsc3NwNU5J?oc=5
 
-- Trump's voter ID praise follows Gyanesh Kumar - Sergio Gor meet - The Times of India
-  The Times of India published a story on Trump's voter ID
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNNXYtRTNMVEctWnJ2bGNGX3htRjYxMmRyT0VuOWpqN25GYXpjYTMtaENxclN3M2x1MmtQX3RpeWdWaW1jS3VzMDZLVTcxWEZFSGRlaE0yaERfMEpCMGNWZE9WRGQ3N2gyM1QwSkNveHJDMmsyQTU1TG9Yd0NYZWlOS3FZbnEwS29nQy04Sk44UW9iZGsxV2lrZkFGTm1GVVNqT1VSSWZPcV9Ra0VrbDUwLUNnZ1cyTUZpZXpBQnYtMDRWQkZ6eS1Z0gHMAUFVX3lxTE9JcVZNRG1RcV9XNVc1TG0tclVucGpaQlNuOWZUZ0Z6ZzI1Ynpxd1hGTUhsU2N6UXI5NFpJd3luaURtUHJkeFNZQWZmcHFfejBDWXgxQXZBMXVQaFZmNXMwekR2SDllbXpxaEt4VDU5RGZ0TlVZN2JGRW5NWEtQSThOSEdCYmtlajk0RFMzUjgydmc4d2tweFF1RDR4R19sSFFYUUFLSkRJWlU0cDBsaE9fc0FfczV5ZTB3aG10cDEzUnFKbFZnZ0dTT1p5Sw?oc=5
+- "Coming To Listen To Us": Omar Abdullah On Meeting US Envoy In J&K - NDTV
+  "Coming To Listen To Us": Omar Abdullah On Meeting
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHdySmx4LTVSUzVqc1dFSFExVzhSQXFtc1hTQ2cwQks0b3cwaHRndUlJaHZrT3VVS24zX2xTVVZqT1AtVVJLX1dEcHRadDRwbWVqSUVxd2RBQkp1aTFKSFYzWTlpN1A3djlFYzcxNGdzUEkzX21rbWpWdzFFeG03WlVRNTZVbWJnR0pBUjBsLVc5dXhrLXdaU0pfQTVybUFkZHo1d29LQ2tXSFByYnJKWTJNeEtaU0Q3SWfSAcIBQVVfeXFMTWhXNHhFSUtrdUpoRlZQcmh2ZzdIVXkyQTFCRXlrTzRkX3IteWVsc3Fzb2wxMEhuNmRvU3Y2dk83MjRNQjhfRzRYeVRvZXpnYjg1aVR5VGJjYlBuNEpSYnQ5QnBnQkVidU9vUlVoTEtreWpZTTRvRzhRRDlxNjZtU29XdmhUOWUzeEQ5QVVDVW5UcW1BTGRDSm9vZVB1U2FLNFN3bUhWb1N0LVpzclBQSlkwTVVPdTdRcVZJelN6NTUtVlE?oc=5
 
-- Election Commission issues fact sheet detailing India’s electoral system and voter safeguards - News On AIR
-  Election Commission issues fact sheet detailing India’s electoral
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVDRhS1FKa1puUmFEWW11TkJhY2JtY3NFeTdtYkRMcHlkY2ZFSDJvY2VZZzRHZnBmQzlLYVlKdTFzUWI0R2xzUTI1Z2QzZG5RcHB4QkxDYUpTZW9NdmRGQlpBcDd4cTl3RU50Wi1wM1VRd0NQMFlheTFzSkgzRm1fMGpyQnNDemZSQlRtMVZtX2dWWUdtYWFWNi1jUTZjeTJudjZPN3c5clRkYWpVbzZqbE4yeGpSOV9MZnc?oc=5
+- The Enterprise Fight Against Runaway AI Costs
+  As enterprises increasingly turn to AI to get work done, three new weapons are emerging.
+  🔗 https://inc42.com/features/the-enterprise-fight-against-runaway-ai-costs/
+
+- Shiprocket Makes Bumper Market Debut, Lists At 35% Premium
+  Shares of ecommerce enablement platform Shiprocket made a strong stock market debut on the BSE and the NSE today.
+  🔗 https://inc42.com/buzz/shiprocket-makes-bumper-market-debut-lists-at-35-premium/
+
+- Swiggy Gets The IOCC Tag, Shiprocket’s Return Roulette & More
+  Swiggy Instamart All Set For Inventory Model. Swiggy is finally an Indian-owned and controlled company (IOCC)
+  🔗 https://inc42.com/buzz/swiggy-gets-the-iocc-tag-shiprockets-return-roulette-more/
 
 - Resilient Asset Management Offloads Paytm Shares Worth ₹2,949 Cr
   Vijay Shekhar Sharma-owned Resilient Asset Management, acting on behalf of Alibaba Group affiliate Antfin, has offloaded
@@ -148,57 +180,45 @@
   Social media giant Meta has reportedly begun taking steps to address concerns raised by the Central government over child sexual abuse.
   🔗 https://inc42.com/buzz/meta-begins-action-against-centres-concerns-over-csam-deepfakes-report/
 
-- Swiggy Shareholders Vote To Cap Foreign Ownership At 49.5%
-  At Swiggy’s 13th Annual General Meeting (AGM) shareholders voted to cap its aggregate foreign ownership at 49.5
-  🔗 https://inc42.com/buzz/swiggy-shareholders-vote-to-cap-foreign-ownership-at-49-5/
+- India's Middle Class Faces A Retirement Time Bomb, Warns Top Investment Manager - NDTV
+  India's Middle Class Faces A Retirement Time Bomb,
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQeC0xWUR4MlNxZjlNMmt0S0lXM045MmZ4a0NVVkdORV9Vdy1ua3p5aFRRWFI3Y3Bxd3c1eWNCRnFjQXNxVnZ2eVdlNnAweW5ndVo1R0Z3bFlvODF2UjJtRWplU3J2QlA0SHc1MVMtSVgyLTc3dE94aFF3MV9VakNvZFNvRVJ4SVFkQWJndjE4UXdCaWptaW5JcWwxbjkwYWFtb0owUWF4MHZsVnU2dUVXaXhzMGRGMmRIQ045R05R0gHGAUFVX3lxTFB2aXlWVlBhRzNwWTE0bnQ4aWRSRzVzMUVRWktnNnZncndESjl2RVptXzBNRnlFcWVkbGQ0Ml9mYV9nQkFJSmxnZVc4U0RmdC1qeDJOSkVzRm5zbXZreC1yajBMME42OVNxX2p3a2MwdFJYYnktMmFFeHlVYlZva0xKeU9oTk5XVHVmM1lnaF9laGdFYUx3Y0tQR1I4endQV2VXRU5FZXVFNU5LNWRQYlJjUWlteTExT1plMkRheE84WWlRd0pxQQ?oc=5
 
-- IPO-Bound NoPaperForms’ FY26 Profit Surges To ₹11.9 Cr, Revenue Up 25%
-  IPO-bound education-focused SaaS company NoPaperForms, which got SEBI’s nod for its IPO in March this year, saw its profit after.
-  🔗 https://inc42.com/buzz/ipo-bound-nopaperforms-fy26-profit-surges-to-%e2%82%b911-9-cr-revenue-up-25/
+- Helicopters to warships: Government notifies new indigenisation list - The Indian Express
+  The Indian Express reports that the government has
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOTW54WWZXclV0bmx3ZWtlbG5jNHQ0WFpybk5nT1FndUc1Y0otWElKR0VPSXVGVkFjaGNNaTBuQkZoRG02ajBydkhZcDJUTlA4S01qdndVN1c3ekJpenFMMFdxQWZERmJyQlhrYWxTZ3JLZ1I0aFZqQ2ROVzRVdXNMSXJEY05xR0JwdFdKX255NnVkZlF6bWZVSjZhRFJRN2otWGdUalFSTmVQMTZlaWV0Y1NYNmwxTVlaTnR2X3hjbmNOSzVv0gHLAUFVX3lxTE45Nk9DdzlweV9kMUZpVEtnaVViN3VHaU1QMmdWR1k5VGRGdktScDBzRzFlRERpYlo5QTkxc2NBOHRCdW9nRDlvbldtODJ6empQQ2VlUVFEaTNEeDVuTnZsOWY2Sms2RTdRdTRROXhpMHQta0FCNV9kNkdUcldSVm9JTUtwRWJBOHJEMXlfV21EcDR6bGVDSlp4Tkw5QTJWY2RIV21yODY4cHQyOXBkQlQ1VEFGb2ZfWTFaLWd3MlVrclY2VDVVZHJkemtr?oc=5
 
-- MobiKwik Infuses ₹61 Cr In Lending Arm, Appoints Ex-Bajaj Markets’ Manish Pathania As Its CBO
-  Months after receiving a regulatory nod for its NBFC licence, MobiKwik has completed the transfer of its digital lending.
-  🔗 https://inc42.com/buzz/mobikwik-infuses-%e2%82%b961-cr-in-lending-arm-appoints-ex-bajaj-markets-manish-pathania-as-its-cbo/
+- India imposes phased ban on import of 405 defence items to boost domestic production | India News - Hindustan Times
+  India imposes phased ban on import of 405 defence items to boost domestic production.
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU1OWnpvZHJNNFNOdW1DZXFpazQtakJoalhITllNV0RPTjN2bG1JZ0FCYVpVVVdVcTRGbmlCUUswTzh6RHpudVRGVTU4eFRnUFJBLU5yWTJDVGlPVFFQcUFmcURzYU56aVRicTFxWTIyWnZRQ1VOTUhEeFVvNm1yTEtjOHpUN2dJM2lDemp6ZU51T2ZJSzA2VUdNR29BRXdialNfZW5sT1B2ZkNLTVNNNHBZdzVwZzdvY2RSRVYtcC1mQ0N1b3RlcV9SR29oTmhiTmE3Vk01UUZSZGJnUkxBbtIB5gFBVV95cUxNeEVRbHhPeDF4Qm9OSGRzb1hXWFpMXzFZQnpxUEZnSTRJamdmR0xCeG9CSXFXcXA5Rk5CazhMWlNBOWZ4TWpDamdadDJUMlB5VlN3OE9rTVg4VDdvRkY2QUVIQllhdnJfN0NUVXJUQTdyZkYxQng3dmpjbGtyZlAwbWI2bFZ2Z05lNnY5VU1KYzBhWF9mTzNfRVp2amp4YjZBdG1oeHNsbEtnc0VhcUZyZll0c2JMTllMLWdwSS12REJsbVQ1M1dMSDZYcms5YUpmQlYwTnkyS01LY1JfMVBXY1VjdUVNQQ?oc=5
 
-- How China-India border tensions are rising again over encroachment claims - Al Jazeera
-  How China-India border tensions are rising again
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?oc=5
+- 405 Items Worth Rs 3,000-Crore In Defence Ministry's 'Made In India' Push - NDTV
+  405 Items Worth Rs 3,000-Crore
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxONnNiVWtHcDBlWWVsMzMtd1hHUU9xd3E1TUF0aV9FM181UjNpMi1uRE9VYTVHVnVGZ3ZsLWlTYTFBR3F4THpHYnVXa2hHRUZnMlZLOThOZzZBTF9ZTjdqTGhnOTdGQk1VMUY5WC16dmhtU0pzWFdVNW5wbzQtNXlBbGlWSnRvNTcyRTNUY185SGRDZjdSdXJiLW9rQnh5QVY2LWlxXzdpN1RzMF9CUVFVNtIBuAFBVV95cUxQYWNRNnVCdElvZUZrblJyUG9sNnAtLTlsRjItdUJlNmJxU1J3UDNRWUVLa0Y3OXFUY2h6QUxBSW9uV1hia2pmLU9kVHFCajZTMWs4dEk0MGxOTjZFSmNLUXMzS2pRYldPa0tRUXZiQ1NhRUtOOHpFLWdZb3JyRFpreVBFTzVPNEw2dHQyRGxfZmZ3Q0RlTW9ibHZJWjUxY2ZGelNQUGVqZ3hZcHdtd2tvbzBsc3NwNU5J?oc=5
 
-- US cites India on voter IDs, but are elections under Modi clean? - Al Jazeera
-  &nbsp;& nbsp;<font color
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmNrVm9EYU56NG1GeUhpSXlTZDh6QVNhR2dqTmd4WjUyVnNKVmx4cmF5VXMwSTh2cnV4bHd6eDlzMzcyWTQyM1d5WHpET2tkelJWZUozTTV2TGR5WWFaRnNJV1A4LVFJYUNBdEhjT1Q5QmFOMVFPZHg3QVhVb2RvZHB4OGZBeHJiSlYtOUtGUVRBNVdPRno1Mk41Q3l5UlVyd1BoVW1R0gGrAUFVX3lxTFBETGRtcF8wR2I5V2RMemZxQTlOYS1aZ3o2S3B1UVlHLUdQWEtGMy1mbUFXWmhOdFJrMTBqV1dubGtJN3V3djIzMU0xcDdzcmJuektSZlNIX1FQV09UTXdYa19fd2dLOHdZYk5OVWRCRG54TnlSSkhlSUFsZ3ByOGt6Z3R2cmpnUC1uajVQMndnUEpGQ3pQZnVJeGpxcVFSa1RRUEhCRFBVRjFBdw?oc=5
+- "Coming To Listen To Us": Omar Abdullah On Meeting US Envoy In J&K - NDTV
+  "Coming To Listen To Us": Omar Abdullah On Meeting
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHdySmx4LTVSUzVqc1dFSFExVzhSQXFtc1hTQ2cwQks0b3cwaHRndUlJaHZrT3VVS24zX2xTVVZqT1AtVVJLX1dEcHRadDRwbWVqSUVxd2RBQkp1aTFKSFYzWTlpN1A3djlFYzcxNGdzUEkzX21rbWpWdzFFeG03WlVRNTZVbWJnR0pBUjBsLVc5dXhrLXdaU0pfQTVybUFkZHo1d29LQ2tXSFByYnJKWTJNeEtaU0Q3SWfSAcIBQVVfeXFMTWhXNHhFSUtrdUpoRlZQcmh2ZzdIVXkyQTFCRXlrTzRkX3IteWVsc3Fzb2wxMEhuNmRvU3Y2dk83MjRNQjhfRzRYeVRvZXpnYjg1aVR5VGJjYlBuNEpSYnQ5QnBnQkVidU9vUlVoTEtreWpZTTRvRzhRRDlxNjZtU29XdmhUOWUzeEQ5QVVDVW5UcW1BTGRDSm9vZVB1U2FLNFN3bUhWb1N0LVpzclBQSlkwTVVPdTdRcVZJelN6NTUtVlE?oc=5
 
-- Trump Cites Indian Poll Chief's Question To Make A Case For Save America Act - NDTV
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPSThSczdpemJ2QXA3MHRvTG9fc3ROT01mdm44VTdYaERFVDhmSHl4QldqSVRiSHZROXVoVmpWTHhxRzJCSC1HRTdEZjFyaENmNW9FdXotbjNJdEtCd3RTTDRucGl2OGZQZGtmNXZqNnVCRm45Y0ZIMDJMc2U0S1U1ODZldVJtbWhkWkRSekpyblpEd1FHa1JBUkdGX25OZ2JlbF9TZk1aQWZCSXFmNzVRRGh30gG6AUFVX3lxTE5QQlpZU2M3UzZueWU5bHFOZkVRYXVnYl83U2ZHRWJ1U2s4cGI0MVJUeVBtd3NjSGZ3MDhLdG1tWkU2bl9RazlnN3FoVUprZmJQVmwzbW4yaUtVdE9SV0NWZXByQ2VoNEI5ZXhydzVhR0dvX3lyNUFlQm5ONVRndXNEc3p6TlZTTWlRM3BtckhRTWhETFdsUVMtWlEwZlB6Zm1wTUtUQ3NObTBDVEgzTTZrVUgxQVhSa2hoZw?oc=5
+- India's Middle Class Faces A Retirement Time Bomb, Warns Top Investment Manager - NDTV
+  India's Middle Class Faces A Retirement Time Bomb,
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQeC0xWUR4MlNxZjlNMmt0S0lXM045MmZ4a0NVVkdORV9Vdy1ua3p5aFRRWFI3Y3Bxd3c1eWNCRnFjQXNxVnZ2eVdlNnAweW5ndVo1R0Z3bFlvODF2UjJtRWplU3J2QlA0SHc1MVMtSVgyLTc3dE94aFF3MV9VakNvZFNvRVJ4SVFkQWJndjE4UXdCaWptaW5JcWwxbjkwYWFtb0owUWF4MHZsVnU2dUVXaXhzMGRGMmRIQ045R05R0gHGAUFVX3lxTFB2aXlWVlBhRzNwWTE0bnQ4aWRSRzVzMUVRWktnNnZncndESjl2RVptXzBNRnlFcWVkbGQ0Ml9mYV9nQkFJSmxnZVc4U0RmdC1qeDJOSkVzRm5zbXZreC1yajBMME42OVNxX2p3a2MwdFJYYnktMmFFeHlVYlZva0xKeU9oTk5XVHVmM1lnaF9laGdFYUx3Y0tQR1I4endQV2VXRU5FZXVFNU5LNWRQYlJjUWlteTExT1plMkRheE84WWlRd0pxQQ?oc=5
 
-- Trump's voter ID praise follows Gyanesh Kumar - Sergio Gor meet - The Times of India
-  The Times of India published a story on Trump's voter ID
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNNXYtRTNMVEctWnJ2bGNGX3htRjYxMmRyT0VuOWpqN25GYXpjYTMtaENxclN3M2x1MmtQX3RpeWdWaW1jS3VzMDZLVTcxWEZFSGRlaE0yaERfMEpCMGNWZE9WRGQ3N2gyM1QwSkNveHJDMmsyQTU1TG9Yd0NYZWlOS3FZbnEwS29nQy04Sk44UW9iZGsxV2lrZkFGTm1GVVNqT1VSSWZPcV9Ra0VrbDUwLUNnZ1cyTUZpZXpBQnYtMDRWQkZ6eS1Z0gHMAUFVX3lxTE9JcVZNRG1RcV9XNVc1TG0tclVucGpaQlNuOWZUZ0Z6ZzI1Ynpxd1hGTUhsU2N6UXI5NFpJd3luaURtUHJkeFNZQWZmcHFfejBDWXgxQXZBMXVQaFZmNXMwekR2SDllbXpxaEt4VDU5RGZ0TlVZN2JGRW5NWEtQSThOSEdCYmtlajk0RFMzUjgydmc4d2tweFF1RDR4R19sSFFYUUFLSkRJWlU0cDBsaE9fc0FfczV5ZTB3aG10cDEzUnFKbFZnZ0dTT1p5Sw?oc=5
+- Helicopters to warships: Government notifies new indigenisation list - The Indian Express
+  The Indian Express reports that the government has
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOTW54WWZXclV0bmx3ZWtlbG5jNHQ0WFpybk5nT1FndUc1Y0otWElKR0VPSXVGVkFjaGNNaTBuQkZoRG02ajBydkhZcDJUTlA4S01qdndVN1c3ekJpenFMMFdxQWZERmJyQlhrYWxTZ3JLZ1I0aFZqQ2ROVzRVdXNMSXJEY05xR0JwdFdKX255NnVkZlF6bWZVSjZhRFJRN2otWGdUalFSTmVQMTZlaWV0Y1NYNmwxTVlaTnR2X3hjbmNOSzVv0gHLAUFVX3lxTE45Nk9DdzlweV9kMUZpVEtnaVViN3VHaU1QMmdWR1k5VGRGdktScDBzRzFlRERpYlo5QTkxc2NBOHRCdW9nRDlvbldtODJ6empQQ2VlUVFEaTNEeDVuTnZsOWY2Sms2RTdRdTRROXhpMHQta0FCNV9kNkdUcldSVm9JTUtwRWJBOHJEMXlfV21EcDR6bGVDSlp4Tkw5QTJWY2RIV21yODY4cHQyOXBkQlQ1VEFGb2ZfWTFaLWd3MlVrclY2VDVVZHJkemtr?oc=5
 
-- Election Commission issues fact sheet detailing India’s electoral system and voter safeguards - News On AIR
-  Election Commission issues fact sheet detailing India’s electoral
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVDRhS1FKa1puUmFEWW11TkJhY2JtY3NFeTdtYkRMcHlkY2ZFSDJvY2VZZzRHZnBmQzlLYVlKdTFzUWI0R2xzUTI1Z2QzZG5RcHB4QkxDYUpTZW9NdmRGQlpBcDd4cTl3RU50Wi1wM1VRd0NQMFlheTFzSkgzRm1fMGpyQnNDemZSQlRtMVZtX2dWWUdtYWFWNi1jUTZjeTJudjZPN3c5clRkYWpVbzZqbE4yeGpSOV9MZnc?oc=5
+- India imposes phased ban on import of 405 defence items to boost domestic production | India News - Hindustan Times
+  India imposes phased ban on import of 405 defence items to boost domestic production.
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU1OWnpvZHJNNFNOdW1DZXFpazQtakJoalhITllNV0RPTjN2bG1JZ0FCYVpVVVdVcTRGbmlCUUswTzh6RHpudVRGVTU4eFRnUFJBLU5yWTJDVGlPVFFQcUFmcURzYU56aVRicTFxWTIyWnZRQ1VOTUhEeFVvNm1yTEtjOHpUN2dJM2lDemp6ZU51T2ZJSzA2VUdNR29BRXdialNfZW5sT1B2ZkNLTVNNNHBZdzVwZzdvY2RSRVYtcC1mQ0N1b3RlcV9SR29oTmhiTmE3Vk01UUZSZGJnUkxBbtIB5gFBVV95cUxNeEVRbHhPeDF4Qm9OSGRzb1hXWFpMXzFZQnpxUEZnSTRJamdmR0xCeG9CSXFXcXA5Rk5CazhMWlNBOWZ4TWpDamdadDJUMlB5VlN3OE9rTVg4VDdvRkY2QUVIQllhdnJfN0NUVXJUQTdyZkYxQng3dmpjbGtyZlAwbWI2bFZ2Z05lNnY5VU1KYzBhWF9mTzNfRVp2amp4YjZBdG1oeHNsbEtnc0VhcUZyZll0c2JMTllMLWdwSS12REJsbVQ1M1dMSDZYcms5YUpmQlYwTnkyS01LY1JfMVBXY1VjdUVNQQ?oc=5
 
-- How China-India border tensions are rising again over encroachment claims - Al Jazeera
-  How China-India border tensions are rising again
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGlTLXZ0SkFDdnU0YWNWNGhZZlcwWFJpeFpZWlhGVmZtUXMxYXlCenpVb25jOUdLQ1JYNEpxdWlfeUNKM044a2xIOGZRdjZDZEZLdWlIWVBOQzRqeWJaOGZodTFXWW5hNUVUcUowNDZCYnp4WHdLNnRlREdDUExrZE93UzJTU0lwX2cyZDhXVXluVHBid0hiREw4dWRjNVdBTXNfUC1CeE5uQdIBrwFBVV95cUxOZWZxX0FDMDUxb0VSZFZnUGVfZDNaT3ZMYUc4NlYyM01oaFFHakVGVy1CUnN2ODJJS1NDdVlHU1hnbE5xUUVVQTRzUTlLZ3FmdjZDejFUbW1sd01YLUd3R1FMekdhOVBCUHZPSlhhUWl0dVB2RzNQd0VjTmxJaUk1aUlwanpEdVJ5UHFOZTNMeW83bURNNENaUURSTk50YWR1eWg3NElrZzdQVGhTcFJn?oc=5
+- 405 Items Worth Rs 3,000-Crore In Defence Ministry's 'Made In India' Push - NDTV
+  405 Items Worth Rs 3,000-Crore
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxONnNiVWtHcDBlWWVsMzMtd1hHUU9xd3E1TUF0aV9FM181UjNpMi1uRE9VYTVHVnVGZ3ZsLWlTYTFBR3F4THpHYnVXa2hHRUZnMlZLOThOZzZBTF9ZTjdqTGhnOTdGQk1VMUY5WC16dmhtU0pzWFdVNW5wbzQtNXlBbGlWSnRvNTcyRTNUY185SGRDZjdSdXJiLW9rQnh5QVY2LWlxXzdpN1RzMF9CUVFVNtIBuAFBVV95cUxQYWNRNnVCdElvZUZrblJyUG9sNnAtLTlsRjItdUJlNmJxU1J3UDNRWUVLa0Y3OXFUY2h6QUxBSW9uV1hia2pmLU9kVHFCajZTMWs4dEk0MGxOTjZFSmNLUXMzS2pRYldPa0tRUXZiQ1NhRUtOOHpFLWdZb3JyRFpreVBFTzVPNEw2dHQyRGxfZmZ3Q0RlTW9ibHZJWjUxY2ZGelNQUGVqZ3hZcHdtd2tvbzBsc3NwNU5J?oc=5
 
-- US cites India on voter IDs, but are elections under Modi clean? - Al Jazeera
-  &nbsp;& nbsp;<font color
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmNrVm9EYU56NG1GeUhpSXlTZDh6QVNhR2dqTmd4WjUyVnNKVmx4cmF5VXMwSTh2cnV4bHd6eDlzMzcyWTQyM1d5WHpET2tkelJWZUozTTV2TGR5WWFaRnNJV1A4LVFJYUNBdEhjT1Q5QmFOMVFPZHg3QVhVb2RvZHB4OGZBeHJiSlYtOUtGUVRBNVdPRno1Mk41Q3l5UlVyd1BoVW1R0gGrAUFVX3lxTFBETGRtcF8wR2I5V2RMemZxQTlOYS1aZ3o2S3B1UVlHLUdQWEtGMy1mbUFXWmhOdFJrMTBqV1dubGtJN3V3djIzMU0xcDdzcmJuektSZlNIX1FQV09UTXdYa19fd2dLOHdZYk5OVWRCRG54TnlSSkhlSUFsZ3ByOGt6Z3R2cmpnUC1uajVQMndnUEpGQ3pQZnVJeGpxcVFSa1RRUEhCRFBVRjFBdw?oc=5
-
-- Trump Cites Indian Poll Chief's Question To Make A Case For Save America Act - NDTV
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPSThSczdpemJ2QXA3MHRvTG9fc3ROT01mdm44VTdYaERFVDhmSHl4QldqSVRiSHZROXVoVmpWTHhxRzJCSC1HRTdEZjFyaENmNW9FdXotbjNJdEtCd3RTTDRucGl2OGZQZGtmNXZqNnVCRm45Y0ZIMDJMc2U0S1U1ODZldVJtbWhkWkRSekpyblpEd1FHa1JBUkdGX25OZ2JlbF9TZk1aQWZCSXFmNzVRRGh30gG6AUFVX3lxTE5QQlpZU2M3UzZueWU5bHFOZkVRYXVnYl83U2ZHRWJ1U2s4cGI0MVJUeVBtd3NjSGZ3MDhLdG1tWkU2bl9RazlnN3FoVUprZmJQVmwzbW4yaUtVdE9SV0NWZXByQ2VoNEI5ZXhydzVhR0dvX3lyNUFlQm5ONVRndXNEc3p6TlZTTWlRM3BtckhRTWhETFdsUVMtWlEwZlB6Zm1wTUtUQ3NObTBDVEgzTTZrVUgxQVhSa2hoZw?oc=5
-
-- Trump's voter ID praise follows Gyanesh Kumar - Sergio Gor meet - The Times of India
-  The Times of India published a story on Trump's voter ID
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNNXYtRTNMVEctWnJ2bGNGX3htRjYxMmRyT0VuOWpqN25GYXpjYTMtaENxclN3M2x1MmtQX3RpeWdWaW1jS3VzMDZLVTcxWEZFSGRlaE0yaERfMEpCMGNWZE9WRGQ3N2gyM1QwSkNveHJDMmsyQTU1TG9Yd0NYZWlOS3FZbnEwS29nQy04Sk44UW9iZGsxV2lrZkFGTm1GVVNqT1VSSWZPcV9Ra0VrbDUwLUNnZ1cyTUZpZXpBQnYtMDRWQkZ6eS1Z0gHMAUFVX3lxTE9JcVZNRG1RcV9XNVc1TG0tclVucGpaQlNuOWZUZ0Z6ZzI1Ynpxd1hGTUhsU2N6UXI5NFpJd3luaURtUHJkeFNZQWZmcHFfejBDWXgxQXZBMXVQaFZmNXMwekR2SDllbXpxaEt4VDU5RGZ0TlVZN2JGRW5NWEtQSThOSEdCYmtlajk0RFMzUjgydmc4d2tweFF1RDR4R19sSFFYUUFLSkRJWlU0cDBsaE9fc0FfczV5ZTB3aG10cDEzUnFKbFZnZ0dTT1p5Sw?oc=5
-
-- Election Commission issues fact sheet detailing India’s electoral system and voter safeguards - News On AIR
-  Election Commission issues fact sheet detailing India’s electoral
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVDRhS1FKa1puUmFEWW11TkJhY2JtY3NFeTdtYkRMcHlkY2ZFSDJvY2VZZzRHZnBmQzlLYVlKdTFzUWI0R2xzUTI1Z2QzZG5RcHB4QkxDYUpTZW9NdmRGQlpBcDd4cTl3RU50Wi1wM1VRd0NQMFlheTFzSkgzRm1fMGpyQnNDemZSQlRtMVZtX2dWWUdtYWFWNi1jUTZjeTJudjZPN3c5clRkYWpVbzZqbE4yeGpSOV9MZnc?oc=5
+- "Coming To Listen To Us": Omar Abdullah On Meeting US Envoy In J&K - NDTV
+  "Coming To Listen To Us": Omar Abdullah On Meeting
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHdySmx4LTVSUzVqc1dFSFExVzhSQXFtc1hTQ2cwQks0b3cwaHRndUlJaHZrT3VVS24zX2xTVVZqT1AtVVJLX1dEcHRadDRwbWVqSUVxd2RBQkp1aTFKSFYzWTlpN1A3djlFYzcxNGdzUEkzX21rbWpWdzFFeG03WlVRNTZVbWJnR0pBUjBsLVc5dXhrLXdaU0pfQTVybUFkZHo1d29LQ2tXSFByYnJKWTJNeEtaU0Q3SWfSAcIBQVVfeXFMTWhXNHhFSUtrdUpoRlZQcmh2ZzdIVXkyQTFCRXlrTzRkX3IteWVsc3Fzb2wxMEhuNmRvU3Y2dk83MjRNQjhfRzRYeVRvZXpnYjg1aVR5VGJjYlBuNEpSYnQ5QnBnQkVidU9vUlVoTEtreWpZTTRvRzhRRDlxNjZtU29XdmhUOWUzeEQ5QVVDVW5UcW1BTGRDSm9vZVB1U2FLNFN3bUhWb1N0LVpzclBQSlkwTVVPdTdRcVZJelN6NTUtVlE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-19 00:58:42 UTC_
+_Last updated: 2026-08-19 06:38:11 UTC_
