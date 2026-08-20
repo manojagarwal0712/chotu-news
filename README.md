@@ -1,44 +1,8 @@
 # 📰 Daily News Summaries
 
-- India imposes phased ban on import of 405 defence items to boost domestic production | India News - Hindustan Times
-  India imposes phased ban on import of 405 defence items to boost domestic production.
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU1OWnpvZHJNNFNOdW1DZXFpazQtakJoalhITllNV0RPTjN2bG1JZ0FCYVpVVVdVcTRGbmlCUUswTzh6RHpudVRGVTU4eFRnUFJBLU5yWTJDVGlPVFFQcUFmcURzYU56aVRicTFxWTIyWnZRQ1VOTUhEeFVvNm1yTEtjOHpUN2dJM2lDemp6ZU51T2ZJSzA2VUdNR29BRXdialNfZW5sT1B2ZkNLTVNNNHBZdzVwZzdvY2RSRVYtcC1mQ0N1b3RlcV9SR29oTmhiTmE3Vk01UUZSZGJnUkxBbtIB5gFBVV95cUxNeEVRbHhPeDF4Qm9OSGRzb1hXWFpMXzFZQnpxUEZnSTRJamdmR0xCeG9CSXFXcXA5Rk5CazhMWlNBOWZ4TWpDamdadDJUMlB5VlN3OE9rTVg4VDdvRkY2QUVIQllhdnJfN0NUVXJUQTdyZkYxQng3dmpjbGtyZlAwbWI2bFZ2Z05lNnY5VU1KYzBhWF9mTzNfRVp2amp4YjZBdG1oeHNsbEtnc0VhcUZyZll0c2JMTllMLWdwSS12REJsbVQ1M1dMSDZYcms5YUpmQlYwTnkyS01LY1JfMVBXY1VjdUVNQQ?oc=5
-
-- India-Afghanistan Ties Deepen As Taliban Envoy Marks Victory Day In Delhi - NDTV
-  India-Afghanistan Ties Deepen
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHk4TnRSbDZadnVmNUk3X3BDZW9mLWl1ZmVXM05FRTZGMFZOdzNZWTdPS0RLU09ycWVJU3ZGelFaRjFTS0ZwdVJnZkhhZ0pwZWJoMU1CTVE3UTNnVVk2RW5reXFnUUxHaldFME9OVjA5RTVOV1IwV2tsRXhaV3VNc0xSalI5VVQ4aUVnbUJwejVjZjdIMUlISkRDOV96WUlMbHhVWi1jazl6RmVzMnNZYWJpMzDSAbwBQVVfeXFMT2MySnJvYXllX09VSzdSMUFHaDdUUVBGZjdraUd3bVhSNzhuZDNPWnVaUE1HU0p6c2d0U0w4UllIMFFGdHpLYlZwb1BBenhNSVZYa1c5Ni1CTFNhZXBpSDNZVTN0UDMzdGlwZF8wajByLWJDNE9vb19pSjQ3UjMxbmhpUEdQaEJKTnA2QXhvaUFXZVhmaTdTV3QxV0p1QjlUbUNPd25wOGFfTlk2MzBTUmR3X0NiNkYxbzBlcVM?oc=5
-
-- L'Oreal, Estée Lauder: India's Gen Z are driving up a mega boom in its beauty market - bbc.com
-  L'Oreal, Estée Lauder: India's Gen Z are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vYUJ0MGx4bU1qdmhTQ0F5bmRvQTh2YkxwOHpfYjZYTzVCUWZvdFk4ZmVNUjVuR1h5TE1zTDZBczVudVI3T0M0bUxVU25YODBjaThBcHMxRERpUQ?oc=5
-
-- Sunali Khatun's husband joins her, SC closes case - The Times of India
-  Sunali Khatun's husband joins her
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmVTZ3RWclROZTBXSU9hSHZPRkUtUm13UEVkTWI5OVh5QVhUZ2kxTTc1dWxJV3FsdlVIRWdxdEdLVXpNQU9WQm9VQjdhS2FZalR5bXhtMDQ4bnFlTnRjUkxyc0MzM1lLb3RCY2tMai1ORXJDT0xvVGRqdi1VZXBnRDByV01mRkZ0UmZ2cnFKeGhvZmhERGdjT3RjOWtPVS04c3RLLXY5bTJndDJObkoxeEp4R0dSQdIBuwFBVV95cUxOb0JZYjQ2cVJuNGZYbGFSZFZiWm9nY1F5TldfMG45aU1xYnIyTWpUYmlubXdGb1ZLdEU5SEJKbS1FMVVncllmVmRyLVhQTmI5VTZ4V1dDM05ZTzNyenJiSUVXUHR2RTBVMkM1RGh3bnBwZzN3Sk9Ua0pNNXVPY2NveTRUTHVPV24yQVJxZzFoLXRJVl9OQWZjZUtyUWVNeC1YME9UR0dCQ3Fick9VQzN2OFc3LXV1Smc2RlZV?oc=5
-
-- India ramps up aid to Palestine, signs MoU for 200-bed super-speciality hospital - The Times of India
-  India ramps up aid to Palestine, signs MoU for 200-
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN3FOM2c2ZzNPblB4dFMyemVEOFJWRHZ2ZEwwV0taVE9qSWYwbWtCRFNhTU1PNzVvVTF3aFFyYnB3TC1ELWM1VHhVVU51a3BZSXY1bEpiYi05N0cyUnQ4MzZvQXBtMUV5Y19rMERrUWJaTHpfZHhyREVTSFpDLVVvLWtuc0tweG42NmFvYl9PX3ExWVB1QTlobnJCQkpHWkFKU1F0bjhJOTFBTFlLZXRRcXJRX2N5NHVwUDRFTzU2cFhhdE1aNmcxYmdfQXZGMHFrQmg0bnJtWHBNNmVZVkl0TDVHelNTNzVfOTZqZ2d6V0LSAfYBQVVfeXFMTlhiYVBwamNQOGFGTWV1MFp5NUJHWW5NaTRGUVFKY2l5cndjUWV2WnJCM0stNmJtVngwMlBEM3lYLVVfdERTdF81NzV1N1QzZngwaXZabWFac0NuMHNYM2d5dGc4WlFuOHJzQzZrSk9rVHJZTHRZbVliSkNHaW1XR3hLalBBSkppNTh2NGMzTV9HWTE1X0hlblctVnZ1WVJWTUNGVnJsc3pYOW1ORzhQWTJadXVMd0IxdFNKNDdSaksza1VONG5pMjBNbHhFMEVCVk5EeVkyQTVQZUZoNV9pZnNER04zei1vcGt6M3BkTE1DWk5SVVFB?oc=5
-
-- 'We're subsidizing a technology that will replace millions': Andrew Yang on calling for AI tax - CNBC
-  'We're subsidizing a technology that will replace millions': Andrew
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbF83STVpNnlaNjBSQ1dMYk5WY2VyQzJhWDZIZ0txYTdLZ3FxY3hHS2YyY0J5OWR0dy1uUndyS2tmbkhvTVZHVnJULWc4V05CTWlUVHlMbHBpenhCTjRFQ3lPdTd6eVRvT3REV3ppcFNiRGJ3RkplQUFTelozNFV1Tm94VjlyQnVWX1JKd1VacUVFQmVwRTM2M0c3XzlmSEdab3pHQm5oaThVTGRJTzFaQ2xzQXhrSEdSa25LVFNrY1hEcjBLeEFsUzJkcnRLQQ?oc=5
-
-- The use of AI in biotechnology is changing faster than the rules governing either technology - The Conversation
-  The use of AI in biotechnology is changing faster than the rules governing
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVJrbmxNZDdra3VXbTdpYlliLW9TUWo4VExNWWJLc1dNVDNfcTBGeFNGVFItbFF5N3NwbWVNZ0N3dUpId3NjU1hQQmNRRzFINmZwTnZjY3lEaTdFa2lXc0NfSTI5M1Bzd3RUUGppMUEya2hEYXhWODRuX0lNdmVVd0x5WFc5c3NrUlg3NU1iTjEzMkRkR01BQXN2YmlHV3NEVzBiaGY5dkd4dnpCdU52N3ZUNnRoSmo2cjdBRnQ1Y1pBMGpJZkE?oc=5
-
-- Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation - CNBC
-  Asia's hydrogen dreams: Region bets on emerging green
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE03YzZUNjdOU2pCTnRrMWxQcHV5MmdtZmF3SDBHRUtGSHNxSFF0WUdvMWtOSS1iam9zWEloQ2dxN1RiU0s3WWl5ZFBMYXVoWHBfUlFyLU53dWkyTmk3alh1TjRzajNHWDdmbzFUMGdDeDd1cjY3THBtWVVZbVZ4Z9IBgwFBVV95cUxQVllrenJ6bXp3RXpIaVdnay1XY3ZTLUVmZHhzQzR1am1XOFBIS1BWVHhsRktOT3JjdW4zaWhtWFZnNEg5Sk11ekUtOHdhc29TV1RIN01yTFROcjZDM1M2d0FUNGJTczBaVDZSVW5qdzk5MzA3VlpJdG45Snc2dFF1VzlFbw?oc=5
-
-- Startup brings ancient Roman concrete technology to modern construction - MIT News
-  Startup brings ancient Roman concrete technology to
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOYW55UlJEaUpSRTYyVTVUZTdsXzh6SjlnVlhyWm8yWUlURkFxV2E1U2dDb09raHNxai1SeFdzdjJDcHlvNGdWZ3hMN2FYb2hGdk1NSFEtMERyRThPbXNhNkxpSEdGamxBUFZvY21NSVZuWjlndHhUR25PTVItU0NlQ25Oel9qcEEwY1Zkbg?oc=5
-
-- ISRO Experts Highlight AI and Quantum Technology for Future Indian Satellites - The Quantum Insider
-  ISRO Experts Highlight AI and Quantum Technology for Future
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQdHJmMjlNUXBmYmY5Vm85SENULVg4MVBNUXNROEJ1SldyV19TVWdCSVhNYkFlNDZ1d2VqSVpWSmhYbWN5a1puQlV0VThwSU9JbmttT3hkZGZ2VG1ZTC1LcmVBRUhuXzZnci1KeGxBM2NzQV93UnVpNkxUREJ3UWZTLV9DYmlRaVRRNFo3bW5FRGh3WEdYLW9odkRsMTJVU05aS3p1NUZn?oc=5
+- D2C’s easy growth is raising the bar for startup funding
+  This shift is partly driven by the ease of launching a brand and scaling its reach across multiple channels, including quick commerce.
+  🔗 https://www.livemint.com/companies/d2c-startups-funding-investors-india-11787022324121.html
 
 - India to probe manufacturing defects in China's Oppo Reno 5 smartphones following consumer complaints, may order refunds
   The department of consumer affairs has been examining complaints registered through the National Consumer Helpline. Complaints include
@@ -56,29 +20,33 @@
   LG Energy once fixed on EV batteries,
   🔗 https://www.livemint.com/companies/lg-energy-once-fixed-on-ev-batteries-jumps-to-plan-b-11787165425333.html
 
-- Estée Lauder Sales Beat Estimates as Turnaround Gains Steam
-  Estée Lauder Cos. posted quarterly results that beat estimates and ended a run of three straight declines in annual revenue.
-  🔗 https://www.livemint.com/companies/este-lauder-sales-beat-estimates-as-turnaround-gains-steam-11787164261058.html
+- Annu Projects IPO: Price band set at  ₹94-99 per share; check key dates, issue details
+  Annu Projects IPO price band ranges from  ₹94 to  ⁹99 per share. Allocation for anchor investors is on 24 August.
+  🔗 https://www.livemint.com/market/ipo/annu-projects-ipo-price-band-set-at-rs-94-99-per-share-check-key-dates-issue-details-11787205777391.html
 
-- Raja Venkatraman recommends three stocks for 20 August
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-two-stocks-20-august-petronet-lng-ambuja-cements-nifty-sensex-11787159309418.html
+- Shankesh Jewellers IPO Day 3 LIVE: GMP, subscription status to review. Apply or not?
+  Shankesh Jewellers IPO GMP today: Shares of the company are available at a premium
+  🔗 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-day-3-live-gmp-today-subscription-status-to-review-apply-or-not-11787202874519.html
 
-- Sebi adjudication proceedings hit a decade low as compliance improves, focus shifts to serious violations
-  The decline in adjudication proceedings comes as listed companies and market intermediaries have strengthened compliance and internal controls. Sebi appears to be directing more of its enforcement
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-adjudication-proceedings-hit-a-decade-low-as-compliance-improves-focus-shifts-to-serious-violations-11787116364476.html
+- Sunshine Pictures IPO day 3: Issue subscribed 35 times so far; GMP signals 21% listing pop; should you subscribe?
+  Sunshine Pictures IPO was subscribed 35 times by 11:40 AM on Thursday. Grey market indicators offer
+  🔗 https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-3-issue-subscribed-35-times-so-far-gmp-signals-21-listing-pop-should-you-subscribe-11787204217812.html
 
-- Oil Holds Four-Day Gain With Iran Stalemate and Hormuz in Focus
-  Oil held a four-day run of gains as traders assessed the standoff in the Middle East. Signs some crude is being shipped through the Strait of Horm
-  🔗 https://www.livemint.com/market/oil-holds-four-day-gain-with-iran-stalemate-and-hormuz-in-focus-11787181261190.html
+- Horizon Industrial Parks IPO allotment likely to be out today. Latest GMP, step-by-step guide to check status
+   Horizon Industrial Parks IPO allotment will be finalized on August 20. Investors can check their allotment status via Kfin Technologies portal. The estimated listing price is  ₹61.
+  🔗 https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-gmp-horizon-industrial-parks-ipo-allotment-industrial-parks-ipo-subscriptionkfin-technologi-11787202547212.html
 
-- Bessent Boosts Debt Buybacks After Yields Hit Multi-Decade Highs
-  The US Treasury unexpectedly announced it’s ramping up buybacks of long-dated government debt. The action comes in
-  🔗 https://www.livemint.com/market/bessent-boosts-debt-buybacks-after-yields-hit-multi-decade-highs-11787180955196.html
+- Lalithaa Jewellery Mart IPO GMP jumps, allotment date in focus after strong subscription status
+  According to market observers, company's shares are available at a premium of  ₹55
+  🔗 https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-gmp-jumps-allotment-date-in-focus-after-strong-subscription-status-11787198527712.html
 
-- Moderna’s 177% Surge Burns Shorts in ‘Painful’ $5.5 Billion Loss
-  A record surge in Moderna Inc.’s shares delivered a $5.5 billion blow to
-  🔗 https://www.livemint.com/market/modernas-177-surge-burns-shorts-in-painful-5-5-billion-loss-11787175519880.html
+- Indias AI strength lies in applications, data centres, digital infrastructure: Vaishnaw to Morgan Stanleys Ridham Desai
+  India's key strength in artificial intelligence lies in the applications layer. The country is simultaneously building capabilities in data centres and other digital infrastructure.
+  🔗 https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html
+
+- Google launches NEET, JEE, GRE prep tools; Sundar Pichai announces ‘free AI subscriptions for college students’
+  Alphabet CEO Sundar Pichai announced on Thursday the launch of Gemini's enhanced education tools for NEET, JEE, GRE
+  🔗 https://www.livemint.com/technology/tech-news/google-launches-neet-jee-gre-prep-tools-sundar-pichai-announces-free-ai-subscriptions-for-college-students-gemini-11787196130468.html
 
 - Swapping your old iPhone for 17 Pro Max: Flipkart, Amazon, or Apple Store trade-in — where do you get the best deal?
   Amazon leads with an iPhone 15 exchange, followed by Flipkart and Apple. Final values vary by device condition, and additional discounts can influence the total purchase price.
@@ -92,73 +60,53 @@
   This launch comes as another tech giant, Meta, is facing a landmark trial in which 29 states have accused the company of continuing measures to hook teenagers onto its social media platforms.
   🔗 https://www.livemint.com/technology/not-every-student-has-openai-apac-chief-kiran-mani-says-chatgpt-for-teens-launch-felt-deeply-personal-11787128598921.html
 
-- OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns
-  OpenAI has paused some frontier reinforcement learning (RL) training. The rapid pace of AI model development risks outstripping the company
-  🔗 https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html
+- Jefferies raises Emmvee Photovoltaic Power target price to Rs 440: Can the stock rally further?
+  Jefferies has raised its target price for Emmvee Photovoltaic Power to Rs 440 from Rs 400. The brokerage is bullish on the company’s strong solar PV value
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jefferies-raises-emmvee-photovoltaic-power-target-price-to-rs-440-can-the-stock-rally-further/articleshow/133366624.cms
 
-- Govt may turn security concerns into a market for India-designed chips
-  The official’s statement comes at a time when India is awaiting the
-  🔗 https://www.livemint.com/technology/govt-may-turn-security-concerns-into-a-market-for-india-designed-chips-11787056712396.html
+- Sugar stocks Bajaj Hindusthan Sugar, Balrampur Chini, others rally up to 8% after govt tightens stock limits
+  Bajaj Hindusthan Sugar led gains, while Balrampur Chini and other stocks also advanced. Concerns over domestic and Brazilian supply, rising festive-season demand and a possible cut in import duties have further supported
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-bajaj-hindusthan-sugar-balrampur-chini-others-rally-up-to-8-after-govt-tightens-stock-limits/articleshow/133365775.cms
 
-- Stock Market News, Aug. 19, 2026: Bond Yields Dive After Bessent Steps Up Buybacks - WSJ
-  Bond Yields Dive After Bessent Steps Up Buybacks.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPYUV6eHp3ak9nQS1lelJ4bUNGcXhzb3dFZHIza09ycS0yWmpROHE1T21kTWN3SEJ2dzNQUHMzOVhBTk84TXkwRjgtZmVScTJLekltN3BsVTQzNEtSS2NudzRoQXlUNFFweS1lR1IyVkhrVHJHYmdpZWppMzQyell3SnFZYU5vdmM?oc=5
+- Can Turtlemint Fintech shares rally to Rs 190? Why Jefferies initiated coverage on the stock
+  Jefferies has initiated coverage on Turtlemint Fintech Solutions with a Buy rating. The brokerage expects revenue to grow at a 38% CAGR over three years.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/can-turtlemint-fintech-shares-rally-to-rs-190-why-jefferies-initiated-coverage-on-the-stock/articleshow/133365683.cms
 
-- Nifty price-to-book ratio hits 6-year low, but market may not be cheap - The Economic Times
-  Nifty price-to-book ratio hits 6-year
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTDUyck9nNzZxZ09QSDVJR3NlTlhnZmdGdkpCRllWZTVDdk1UX256Y3R6eTczNzVKUUJBTFFWQUZKNnFCYTExRVZXSEJSbjlBZVgzRGdCN3pFckExb3pZOXNiMld2OTZreFZTLTdTU3ZCNXVqbXBUU2lkbFF5Z0JWMEVNc1NINGhnTFNpS2hNdGlaSFhDb0E3dkxVWGl2U1pNLWo2akM1TDhBM2hGaVhkVU1QdzRrLU93bXdiZlpJTzhJVlRMaGIxeUR0R2xLcFJTc2VsaUtuTUxmNW5DYUlNaG1wcEs1cGvSAeABQVVfeXFMTVlELWFsamtBd3hFOVUzLS1PYUlWTHJ2M05GNV9BLVBySGgtbUhmOW11N1VINnRYelRfV2Z4X1pkSS03eUF5NExBeHZBVGVpTU9nbGdiVUh4aTdCNE8yY3lITUhnRVUxbk9kVXdwM2VPRzJiVk1oVGVSTm9Pam1CNXM4dnhWZ1lFT3VwcEtyQk5NTUVnVktkVFpXQ2dndzFaUWVJTG5PdU1vMlJTenpMNVFUYlJLSVNYQUFwZ1duU3Y5RzEzX1RudFJuTmFoaWk5bXFCTm5pT1h1ZE51TG5oQTk?oc=5
+- RBI's surprisingly hawkish tone in policy minutes weighs on Indian bonds
+  Minutes from the central bank's recent policy meeting hinted at possible rate hikes. Policymakers conveyed increased concerns about inflationary pressures within the economy.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/rbis-surprisingly-hawkish-tone-in-policy-minutes-weighs-on-indian-bonds/articleshow/133365585.cms
 
-- Red lights are flashing in energy markets - CNN
-  Red lights are flashing in
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTFB1bFR0a0NBVmhXQlFhd05hZ0d2SnYwVHdJOXkyQzk1R3lJWU5LS1Z1bUU5cVh0ckFMdklhVmdIR1ZGVlhvSThmb1dVQzIzeExSU1cxUXlCZmJBOThIUkEtc0Y0aEVabkcyLVM0Y0dSUjM?oc=5
+- Strides Pharma Science shares jump 9% after USFDA EIR for Bengaluru facility
+  Strides Pharma Science shares rise sharply after the USFDA issued an Establishment Inspection Report (EIR) for its Bengaluru facility. The inspection ended with five observations, which the company addressed through corrective actions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/strides-pharma-science-shares-jump-9-after-usfda-eir-for-bengaluru-facility/articleshow/133365447.cms
 
-- Chinese robotics giant Unitree soars in stock market debut - bbc.com
-  Chinese robotics giant Unitree soars
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LYTVEOXBXWHBjaDFwT01UNVhCTk41WkxqUXFfeVhFcEd6NUJKaWN3dE5jM3pnbThJTDRzTTR3ekotSGlmQmFWb2xORVBtejRHZXBHNHpLc09YUQ?oc=5
+- Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics? - aljazeera.com
+  Will India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1k2cERiUTRxOFFzRzNmdTdVX2kzcVh3RlFSN3BuRm5UOVJDRDROWlZ0bWNzYW1RVmp1TklTQnJma1BGOXAwVE5odWxNMms0VXMzRVoyZ3MwQ19PZFl1MFhRc003ZlI0Zy1YZXpaYlh4M09Dd2Z6c1NtbWlLVTFJMEJ6cFJYamJfT0JULWVDdXZkc1BGWjRTLW9LVzlQVi1JaVRJazdkaTNWWlVMcmfSAbMBQVVfeXFMUHEtN2htWmRtNGNiTFhvcGRwRkM2UHFabG9IT080bjh6cEJjbDJqNEJLSGxrR19PRERZUmdwWlM2Q0tWeWxaZURzQjVVV2ZEbXRTLVNQSGhfX25uV0ZzSWVpekdqdEJTanBiRzMwUDg3UERHUi1zR2NpdkhUczRoVG1XLVRqR3phdTZUbGlTTV9TRW8zdDN2c04weUIycGlpcUtrUW4wTkdBblZab1c0el90MDA?oc=5
 
-- Why bond markets are unnerving rich-world politicians - The Economist
-  Why bond markets are unnerving
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3RiaFVNN2V6TTY3bjhWS0N1cURkdlBxbE5CczVZbXdLc1JORmtnZW5JNGg3MDc3MlRRM1pYLUtpLWhOVklNV3FLYlRralFZbWtHbDFkQ3YzNS1faE56SWEyOC01U3ZTUVpBMkNSOTNMWGJ5cmtMNkNrVTVSNFdfZjdIVGlwUWZHeHlkaXlPZU5QbGNOcUR2dUlJNUZtQnBPaFFzZzZEMWxLWGd4c2JLNkxR?oc=5
+- In Cabinet Meet, Review Of Ministers' Social Media Performance: Inside Track - NDTV
+  In Cabinet Meet, Review Of Ministers' Social
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWpFMWxDTERNcGh0ODFmckFPV2ZqbVBvU2JUb2FuSVcycUtxNXBsNU1ERXJBSUgybE4xdDE1cWYtMXN1c1hiTUk0TmVlVTFJSm5BM1FsVEItRTI2U1pvLTVieDg2MW5ucDJLanNQVEhOTU1fd2c2UFExbzJ3TVNkdHlvcFp2dGluNi1td1R4NGxwZXpOQS1tTnRkLTViVG9WT2ZlQzg0bUpkLWh5Rl91MWdyeTTSAbwBQVVfeXFMT3hTOVZCRjRKOHJwT3EyR3pHNkpma2ZPS01QWm1FeHlfQ3FaS3JMejhlRzlxcXJ2MWdNOUxTejFEcDZ3MGw2eUNxNXlOVUtMVGhMMGxEZ0R3WVZlRFJISllzMmdTejJ3bkZFWkhkYkt6bHI5OXZGMnBiSDlBQXJQT1NydmJmYUl5cDlSTUFaUkVSWUVXRnltbUpiYTZzbWkyYWdFLTUwYmpZM2t6dnZzSldIQ0VXNTBTa05RMXk?oc=5
 
-- Pre-market action: Here's the trade setup for today's session
-  Nifty declined for a seventh session, influenced by elevated crude oil prices. The India VIX, a fear gauge, saw a slight decrease to 11.32 levels.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133353748.cms
+- Chances of Bangladesh PM Tarique Rahman’s visit to India ‘very slim’, says top aide | India News - Hindustan Times
+  Chances of Bangladesh PM Tarique Rahman’s visit to India ‘
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdXRhenlKVkdqcnJ5dzYyd1hxbGUwX3EwNUFEMDBNLUpYZlJDeTh4ZDhNSndYOTVNSGpkQWlfUjQ1b3BMQWxTZE00QnRKb3ZTZERVN0dCS29SNXJGM0dCQkw5dlVtM3M4VnFYTmg5U29xM0taWE01UFNmNlhUaEt2cnQ0UXNNOXZHSjhFOXN4UVFwbFRzMVgzTG1waURvTGxuMnR6MVFVYlNMWWkwTENWNzUwY3VsaVBwdXZKT25sTFZjNFlJOVRZR3I2V0gtcUVTRC11WUR1ZVg5MFnSAeABQVVfeXFMT0cwWlp0TGxBSFhydzZYeUpPZ3g0THFfQTFYRUhNWlJjWm94UlRmUlZBWm1Ld1F5X3JDMDZfcUowbDNMVnVscDduRlB0ZXpNQ0JFV2VUdzBmZGFpeGRxaHh2eWxjczNKUEhLUTNEU3lkUUN0eUd2bFdJb21ZcUt4Nm1SR0FQd2JDTjVPMTMwR3AxZEpqWTA2cVFRaU5jdHEtZmM1bmdoNV9qdlpGTWRPQWxCN3F4WllpcExMWko5RG9kN2NvSmE4dU0yeVFwNTJBZXdxU2hpU3RQTS1CcERCb2M?oc=5
 
-- Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India
-  Indian equity markets extended their losing streak to a seventh consecutive session. Key corporate developments are expected to influence Thursday's trade. Hyundai Motor India's planned price increase, Aditya Infotech's fundraising approval, and BSE's agreement with
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hyundai-motor-india-bse-heg-hexaware-tech-and-oil-india/articleshow/133353448.cms
+- India delivers medicines and medical supplies to government hospital in Kabul - News On AIR
+  India delivers medicines and medical supplies to government hospital in Kabul
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNR05EdjcweGtObnhDeFVpZHNYeVpydmNvRjY5UDdnLUNfQ0V1Qy13dGZ1MG9fcHlyWXlmaXFlQ0ZmV1ZoOGhZaFRkWlY2SjFKZWxLUENzdk1rRWJsX0NKXzZFcFJPMEJpdW54U1IzMjFwaGtOMzFGdnFmMUs0NUtyam1oenV0MnJlUGRQdy12SFRtMFduOUJMc01zME5Qb0V6MXFLb3NR?oc=5
 
-- Sebi plans comprehensive review of rules governing SME IPOs
-  Sebi plans a comprehensive review of IPO rules for small and medium companies. Market making and underwriting systems are identified as areas needing attention.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-ipo-rules-to-ease-market-access-for-smes/articleshow/133361290.cms
+- "More Pressing Than Ever": India Calls For Overhaul Of UN Security Council Working Methods - NDTV
+  "More Pressing Than Ever": India Calls For Overhaul
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVN1c0tyMXZMNDhVSlBRbjE3MXFXWG9MQnZMY1dpSzYtSFFSWnEwX3VHalVTWlhDYzJ3cU1KN0czelU1OXBack9GSVdrNnRMUU1jMjRacjVBa2tWSmhEeVBsMnNLbXFmaEFSYWRrMzEwSGRNd0g0STlQOWxWTTVZTWxNWGh2TldyWEd3T3JCZjc4Si1oYTdzVzdUZmd4eE9MMXNnQ3NPNWhGY2dreE9fRFdtYTRrcjNIMUl4Z2NlN3JCaTBFVFZF0gHPAUFVX3lxTE1CZFZvSV91T2lsZGRiTjZ1UWloYnlZN1hxem00eUVXckZkQW92V0hVZkJXNnRqWEpjdEVwdFZabk9lUXl3c3FEZjlEbmxVUlB1d0hfOEdUT1hPbTdtdTMyVjIzOExBNzZtSUNSblItZVhvbF9XeTdtSDFpb1VEUEk1RTE0ZVJJeDRTbnNLRHN2WTZKTlNQWkM2MXhDbWhTMGxIaDZjZ040N0RlV3NkVGQwTHdPQlh2UmxsQ3dKcXF3a1RQQS1LZWlzM1hFa2JuNA?oc=5
 
-- Nifty price-to-book ratio hits 6-year low, but market may not be cheap
-  The Nifty's price-to-book ratio has slid below three for the first time in six years. It is now essential for investors to prioritize earnings growth and future profitability projections.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-price-to-book-ratio-hits-6-year-low-but-market-may-not-be-cheap/articleshow/133361013.cms
+- Inc42’s 7th D2C & Retail Summit, Shiprocket’s Stellar IPO & More
+  India’s consumer ecosystem is undergoing a reset, driven by instant gratification and algorithmic execution. Speaking at Inc42's 7th D2C &amp; Retail Summit, Shiprocket
+  🔗 https://inc42.com/buzz/inc42s-7th-d2c-retail-summit-shiprockets-stellar-ipo-more/
 
-- Kharif sowing recovers after July rains
-  India's kharif planting has rebounded impressively following beneficial rainfall in July. The sowing of crucial crops like pulses and oilseeds is on track across the nation.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/kharif-sowing-recovers-after-july-rains/articleshow/133361237.cms
-
-- India imposes phased ban on import of 405 defence items to boost domestic production | India News - Hindustan Times
-  India imposes phased ban on import of 405 defence items to boost domestic production.
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU1OWnpvZHJNNFNOdW1DZXFpazQtakJoalhITllNV0RPTjN2bG1JZ0FCYVpVVVdVcTRGbmlCUUswTzh6RHpudVRGVTU4eFRnUFJBLU5yWTJDVGlPVFFQcUFmcURzYU56aVRicTFxWTIyWnZRQ1VOTUhEeFVvNm1yTEtjOHpUN2dJM2lDemp6ZU51T2ZJSzA2VUdNR29BRXdialNfZW5sT1B2ZkNLTVNNNHBZdzVwZzdvY2RSRVYtcC1mQ0N1b3RlcV9SR29oTmhiTmE3Vk01UUZSZGJnUkxBbtIB5gFBVV95cUxNeEVRbHhPeDF4Qm9OSGRzb1hXWFpMXzFZQnpxUEZnSTRJamdmR0xCeG9CSXFXcXA5Rk5CazhMWlNBOWZ4TWpDamdadDJUMlB5VlN3OE9rTVg4VDdvRkY2QUVIQllhdnJfN0NUVXJUQTdyZkYxQng3dmpjbGtyZlAwbWI2bFZ2Z05lNnY5VU1KYzBhWF9mTzNfRVp2amp4YjZBdG1oeHNsbEtnc0VhcUZyZll0c2JMTllMLWdwSS12REJsbVQ1M1dMSDZYcms5YUpmQlYwTnkyS01LY1JfMVBXY1VjdUVNQQ?oc=5
-
-- India-Afghanistan Ties Deepen As Taliban Envoy Marks Victory Day In Delhi - NDTV
-  India-Afghanistan Ties Deepen
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHk4TnRSbDZadnVmNUk3X3BDZW9mLWl1ZmVXM05FRTZGMFZOdzNZWTdPS0RLU09ycWVJU3ZGelFaRjFTS0ZwdVJnZkhhZ0pwZWJoMU1CTVE3UTNnVVk2RW5reXFnUUxHaldFME9OVjA5RTVOV1IwV2tsRXhaV3VNc0xSalI5VVQ4aUVnbUJwejVjZjdIMUlISkRDOV96WUlMbHhVWi1jazl6RmVzMnNZYWJpMzDSAbwBQVVfeXFMT2MySnJvYXllX09VSzdSMUFHaDdUUVBGZjdraUd3bVhSNzhuZDNPWnVaUE1HU0p6c2d0U0w4UllIMFFGdHpLYlZwb1BBenhNSVZYa1c5Ni1CTFNhZXBpSDNZVTN0UDMzdGlwZF8wajByLWJDNE9vb19pSjQ3UjMxbmhpUEdQaEJKTnA2QXhvaUFXZVhmaTdTV3QxV0p1QjlUbUNPd25wOGFfTlk2MzBTUmR3X0NiNkYxbzBlcVM?oc=5
-
-- L'Oreal, Estée Lauder: India's Gen Z are driving up a mega boom in its beauty market - bbc.com
-  L'Oreal, Estée Lauder: India's Gen Z are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vYUJ0MGx4bU1qdmhTQ0F5bmRvQTh2YkxwOHpfYjZYTzVCUWZvdFk4ZmVNUjVuR1h5TE1zTDZBczVudVI3T0M0bUxVU25YODBjaThBcHMxRERpUQ?oc=5
-
-- Sunali Khatun's husband joins her, SC closes case - The Times of India
-  Sunali Khatun's husband joins her
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmVTZ3RWclROZTBXSU9hSHZPRkUtUm13UEVkTWI5OVh5QVhUZ2kxTTc1dWxJV3FsdlVIRWdxdEdLVXpNQU9WQm9VQjdhS2FZalR5bXhtMDQ4bnFlTnRjUkxyc0MzM1lLb3RCY2tMai1ORXJDT0xvVGRqdi1VZXBnRDByV01mRkZ0UmZ2cnFKeGhvZmhERGdjT3RjOWtPVS04c3RLLXY5bTJndDJObkoxeEp4R0dSQdIBuwFBVV95cUxOb0JZYjQ2cVJuNGZYbGFSZFZiWm9nY1F5TldfMG45aU1xYnIyTWpUYmlubXdGb1ZLdEU5SEJKbS1FMVVncllmVmRyLVhQTmI5VTZ4V1dDM05ZTzNyenJiSUVXUHR2RTBVMkM1RGh3bnBwZzN3Sk9Ua0pNNXVPY2NveTRUTHVPV24yQVJxZzFoLXRJVl9OQWZjZUtyUWVNeC1YME9UR0dCQ3Fick9VQzN2OFc3LXV1Smc2RlZV?oc=5
-
-- India ramps up aid to Palestine, signs MoU for 200-bed super-speciality hospital - The Times of India
-  India ramps up aid to Palestine, signs MoU for 200-
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN3FOM2c2ZzNPblB4dFMyemVEOFJWRHZ2ZEwwV0taVE9qSWYwbWtCRFNhTU1PNzVvVTF3aFFyYnB3TC1ELWM1VHhVVU51a3BZSXY1bEpiYi05N0cyUnQ4MzZvQXBtMUV5Y19rMERrUWJaTHpfZHhyREVTSFpDLVVvLWtuc0tweG42NmFvYl9PX3ExWVB1QTlobnJCQkpHWkFKU1F0bjhJOTFBTFlLZXRRcXJRX2N5NHVwUDRFTzU2cFhhdE1aNmcxYmdfQXZGMHFrQmg0bnJtWHBNNmVZVkl0TDVHelNTNzVfOTZqZ2d6V0LSAfYBQVVfeXFMTlhiYVBwamNQOGFGTWV1MFp5NUJHWW5NaTRGUVFKY2l5cndjUWV2WnJCM0stNmJtVngwMlBEM3lYLVVfdERTdF81NzV1N1QzZngwaXZabWFac0NuMHNYM2d5dGc4WlFuOHJzQzZrSk9rVHJZTHRZbVliSkNHaW1XR3hLalBBSkppNTh2NGMzTV9HWTE1X0hlblctVnZ1WVJWTUNGVnJsc3pYOW1ORzhQWTJadXVMd0IxdFNKNDdSaksza1VONG5pMjBNbHhFMEVCVk5EeVkyQTVQZUZoNV9pZnNER04zei1vcGt6M3BkTE1DWk5SVVFB?oc=5
+- Baby-Focused Quick Commerce Startup Peeko Nets $7 Mn To Double Dark Store Count
+  Babycare-focused quick commerce startup Peeko has raised $7 Mn (₹67.4 Cr) in its Series A
+  🔗 https://inc42.com/buzz/baby-focused-quick-commerce-startup-peeko-nets-7-mn-to-double-dark-store-count/
 
 - How Indian D2C Brands Are Rewriting Their Playbook For Profitable Growth
   Indian D2C brands are rethinking their channel strategies, store formats and customer acquisition models.
@@ -172,93 +120,73 @@
   D2C brands should scale influencer marketing only after establishing product-market fit, as creator-led campaigns cannot compensate for a weak product
   🔗 https://inc42.com/buzz/d2c-brands-should-use-influencers-only-after-finding-product-market-fit-emamis-dhruv-aggarwal/
 
-- The Playbook Behind Agilitas’ Global Sportswear Ambition
-  Three-year-old sportswear startup Agilitas has raised ₹225 Cr in fresh funding.
-  🔗 https://inc42.com/buzz/the-playbook-behind-agilitass-global-sportswear-ambition/
+- Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics? - aljazeera.com
+  Will India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1k2cERiUTRxOFFzRzNmdTdVX2kzcVh3RlFSN3BuRm5UOVJDRDROWlZ0bWNzYW1RVmp1TklTQnJma1BGOXAwVE5odWxNMms0VXMzRVoyZ3MwQ19PZFl1MFhRc003ZlI0Zy1YZXpaYlh4M09Dd2Z6c1NtbWlLVTFJMEJ6cFJYamJfT0JULWVDdXZkc1BGWjRTLW9LVzlQVi1JaVRJazdkaTNWWlVMcmfSAbMBQVVfeXFMUHEtN2htWmRtNGNiTFhvcGRwRkM2UHFabG9IT080bjh6cEJjbDJqNEJLSGxrR19PRERZUmdwWlM2Q0tWeWxaZURzQjVVV2ZEbXRTLVNQSGhfX25uV0ZzSWVpekdqdEJTanBiRzMwUDg3UERHUi1zR2NpdkhUczRoVG1XLVRqR3phdTZUbGlTTV9TRW8zdDN2c04weUIycGlpcUtrUW4wTkdBblZab1c0el90MDA?oc=5
 
-- IPO-Bound Navi Raises $100 Mn From Prosus In Maiden Institutional Round
-  Global VC firm Prosus has invested $100 Mn (over ₹955 Cr) in Sachin Bansal-led fintech startup Navi.
-  🔗 https://inc42.com/buzz/ipo-bound-navi-raises-100-mn-from-prosus-in-maiden-institutional-round/
+- In Cabinet Meet, Review Of Ministers' Social Media Performance: Inside Track - NDTV
+  In Cabinet Meet, Review Of Ministers' Social
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWpFMWxDTERNcGh0ODFmckFPV2ZqbVBvU2JUb2FuSVcycUtxNXBsNU1ERXJBSUgybE4xdDE1cWYtMXN1c1hiTUk0TmVlVTFJSm5BM1FsVEItRTI2U1pvLTVieDg2MW5ucDJLanNQVEhOTU1fd2c2UFExbzJ3TVNkdHlvcFp2dGluNi1td1R4NGxwZXpOQS1tTnRkLTViVG9WT2ZlQzg0bUpkLWh5Rl91MWdyeTTSAbwBQVVfeXFMT3hTOVZCRjRKOHJwT3EyR3pHNkpma2ZPS01QWm1FeHlfQ3FaS3JMejhlRzlxcXJ2MWdNOUxTejFEcDZ3MGw2eUNxNXlOVUtMVGhMMGxEZ0R3WVZlRFJISllzMmdTejJ3bkZFWkhkYkt6bHI5OXZGMnBiSDlBQXJQT1NydmJmYUl5cDlSTUFaUkVSWUVXRnltbUpiYTZzbWkyYWdFLTUwYmpZM2t6dnZzSldIQ0VXNTBTa05RMXk?oc=5
 
-- India imposes phased ban on import of 405 defence items to boost domestic production | India News - Hindustan Times
-  India imposes phased ban on import of 405 defence items to boost domestic production.
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU1OWnpvZHJNNFNOdW1DZXFpazQtakJoalhITllNV0RPTjN2bG1JZ0FCYVpVVVdVcTRGbmlCUUswTzh6RHpudVRGVTU4eFRnUFJBLU5yWTJDVGlPVFFQcUFmcURzYU56aVRicTFxWTIyWnZRQ1VOTUhEeFVvNm1yTEtjOHpUN2dJM2lDemp6ZU51T2ZJSzA2VUdNR29BRXdialNfZW5sT1B2ZkNLTVNNNHBZdzVwZzdvY2RSRVYtcC1mQ0N1b3RlcV9SR29oTmhiTmE3Vk01UUZSZGJnUkxBbtIB5gFBVV95cUxNeEVRbHhPeDF4Qm9OSGRzb1hXWFpMXzFZQnpxUEZnSTRJamdmR0xCeG9CSXFXcXA5Rk5CazhMWlNBOWZ4TWpDamdadDJUMlB5VlN3OE9rTVg4VDdvRkY2QUVIQllhdnJfN0NUVXJUQTdyZkYxQng3dmpjbGtyZlAwbWI2bFZ2Z05lNnY5VU1KYzBhWF9mTzNfRVp2amp4YjZBdG1oeHNsbEtnc0VhcUZyZll0c2JMTllMLWdwSS12REJsbVQ1M1dMSDZYcms5YUpmQlYwTnkyS01LY1JfMVBXY1VjdUVNQQ?oc=5
+- Chances of Bangladesh PM Tarique Rahman’s visit to India ‘very slim’, says top aide | India News - Hindustan Times
+  Chances of Bangladesh PM Tarique Rahman’s visit to India ‘
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdXRhenlKVkdqcnJ5dzYyd1hxbGUwX3EwNUFEMDBNLUpYZlJDeTh4ZDhNSndYOTVNSGpkQWlfUjQ1b3BMQWxTZE00QnRKb3ZTZERVN0dCS29SNXJGM0dCQkw5dlVtM3M4VnFYTmg5U29xM0taWE01UFNmNlhUaEt2cnQ0UXNNOXZHSjhFOXN4UVFwbFRzMVgzTG1waURvTGxuMnR6MVFVYlNMWWkwTENWNzUwY3VsaVBwdXZKT25sTFZjNFlJOVRZR3I2V0gtcUVTRC11WUR1ZVg5MFnSAeABQVVfeXFMT0cwWlp0TGxBSFhydzZYeUpPZ3g0THFfQTFYRUhNWlJjWm94UlRmUlZBWm1Ld1F5X3JDMDZfcUowbDNMVnVscDduRlB0ZXpNQ0JFV2VUdzBmZGFpeGRxaHh2eWxjczNKUEhLUTNEU3lkUUN0eUd2bFdJb21ZcUt4Nm1SR0FQd2JDTjVPMTMwR3AxZEpqWTA2cVFRaU5jdHEtZmM1bmdoNV9qdlpGTWRPQWxCN3F4WllpcExMWko5RG9kN2NvSmE4dU0yeVFwNTJBZXdxU2hpU3RQTS1CcERCb2M?oc=5
 
-- India-Afghanistan Ties Deepen As Taliban Envoy Marks Victory Day In Delhi - NDTV
-  India-Afghanistan Ties Deepen
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHk4TnRSbDZadnVmNUk3X3BDZW9mLWl1ZmVXM05FRTZGMFZOdzNZWTdPS0RLU09ycWVJU3ZGelFaRjFTS0ZwdVJnZkhhZ0pwZWJoMU1CTVE3UTNnVVk2RW5reXFnUUxHaldFME9OVjA5RTVOV1IwV2tsRXhaV3VNc0xSalI5VVQ4aUVnbUJwejVjZjdIMUlISkRDOV96WUlMbHhVWi1jazl6RmVzMnNZYWJpMzDSAbwBQVVfeXFMT2MySnJvYXllX09VSzdSMUFHaDdUUVBGZjdraUd3bVhSNzhuZDNPWnVaUE1HU0p6c2d0U0w4UllIMFFGdHpLYlZwb1BBenhNSVZYa1c5Ni1CTFNhZXBpSDNZVTN0UDMzdGlwZF8wajByLWJDNE9vb19pSjQ3UjMxbmhpUEdQaEJKTnA2QXhvaUFXZVhmaTdTV3QxV0p1QjlUbUNPd25wOGFfTlk2MzBTUmR3X0NiNkYxbzBlcVM?oc=5
+- India delivers medicines and medical supplies to government hospital in Kabul - News On AIR
+  India delivers medicines and medical supplies to government hospital in Kabul
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNR05EdjcweGtObnhDeFVpZHNYeVpydmNvRjY5UDdnLUNfQ0V1Qy13dGZ1MG9fcHlyWXlmaXFlQ0ZmV1ZoOGhZaFRkWlY2SjFKZWxLUENzdk1rRWJsX0NKXzZFcFJPMEJpdW54U1IzMjFwaGtOMzFGdnFmMUs0NUtyam1oenV0MnJlUGRQdy12SFRtMFduOUJMc01zME5Qb0V6MXFLb3NR?oc=5
 
-- L'Oreal, Estée Lauder: India's Gen Z are driving up a mega boom in its beauty market - bbc.com
-  L'Oreal, Estée Lauder: India's Gen Z are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vYUJ0MGx4bU1qdmhTQ0F5bmRvQTh2YkxwOHpfYjZYTzVCUWZvdFk4ZmVNUjVuR1h5TE1zTDZBczVudVI3T0M0bUxVU25YODBjaThBcHMxRERpUQ?oc=5
+- "More Pressing Than Ever": India Calls For Overhaul Of UN Security Council Working Methods - NDTV
+  "More Pressing Than Ever": India Calls For Overhaul
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVN1c0tyMXZMNDhVSlBRbjE3MXFXWG9MQnZMY1dpSzYtSFFSWnEwX3VHalVTWlhDYzJ3cU1KN0czelU1OXBack9GSVdrNnRMUU1jMjRacjVBa2tWSmhEeVBsMnNLbXFmaEFSYWRrMzEwSGRNd0g0STlQOWxWTTVZTWxNWGh2TldyWEd3T3JCZjc4Si1oYTdzVzdUZmd4eE9MMXNnQ3NPNWhGY2dreE9fRFdtYTRrcjNIMUl4Z2NlN3JCaTBFVFZF0gHPAUFVX3lxTE1CZFZvSV91T2lsZGRiTjZ1UWloYnlZN1hxem00eUVXckZkQW92V0hVZkJXNnRqWEpjdEVwdFZabk9lUXl3c3FEZjlEbmxVUlB1d0hfOEdUT1hPbTdtdTMyVjIzOExBNzZtSUNSblItZVhvbF9XeTdtSDFpb1VEUEk1RTE0ZVJJeDRTbnNLRHN2WTZKTlNQWkM2MXhDbWhTMGxIaDZjZ040N0RlV3NkVGQwTHdPQlh2UmxsQ3dKcXF3a1RQQS1LZWlzM1hFa2JuNA?oc=5
 
-- Sunali Khatun's husband joins her, SC closes case - The Times of India
-  Sunali Khatun's husband joins her
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmVTZ3RWclROZTBXSU9hSHZPRkUtUm13UEVkTWI5OVh5QVhUZ2kxTTc1dWxJV3FsdlVIRWdxdEdLVXpNQU9WQm9VQjdhS2FZalR5bXhtMDQ4bnFlTnRjUkxyc0MzM1lLb3RCY2tMai1ORXJDT0xvVGRqdi1VZXBnRDByV01mRkZ0UmZ2cnFKeGhvZmhERGdjT3RjOWtPVS04c3RLLXY5bTJndDJObkoxeEp4R0dSQdIBuwFBVV95cUxOb0JZYjQ2cVJuNGZYbGFSZFZiWm9nY1F5TldfMG45aU1xYnIyTWpUYmlubXdGb1ZLdEU5SEJKbS1FMVVncllmVmRyLVhQTmI5VTZ4V1dDM05ZTzNyenJiSUVXUHR2RTBVMkM1RGh3bnBwZzN3Sk9Ua0pNNXVPY2NveTRUTHVPV24yQVJxZzFoLXRJVl9OQWZjZUtyUWVNeC1YME9UR0dCQ3Fick9VQzN2OFc3LXV1Smc2RlZV?oc=5
+- Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics? - aljazeera.com
+  Will India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1k2cERiUTRxOFFzRzNmdTdVX2kzcVh3RlFSN3BuRm5UOVJDRDROWlZ0bWNzYW1RVmp1TklTQnJma1BGOXAwVE5odWxNMms0VXMzRVoyZ3MwQ19PZFl1MFhRc003ZlI0Zy1YZXpaYlh4M09Dd2Z6c1NtbWlLVTFJMEJ6cFJYamJfT0JULWVDdXZkc1BGWjRTLW9LVzlQVi1JaVRJazdkaTNWWlVMcmfSAbMBQVVfeXFMUHEtN2htWmRtNGNiTFhvcGRwRkM2UHFabG9IT080bjh6cEJjbDJqNEJLSGxrR19PRERZUmdwWlM2Q0tWeWxaZURzQjVVV2ZEbXRTLVNQSGhfX25uV0ZzSWVpekdqdEJTanBiRzMwUDg3UERHUi1zR2NpdkhUczRoVG1XLVRqR3phdTZUbGlTTV9TRW8zdDN2c04weUIycGlpcUtrUW4wTkdBblZab1c0el90MDA?oc=5
 
-- India ramps up aid to Palestine, signs MoU for 200-bed super-speciality hospital - The Times of India
-  India ramps up aid to Palestine, signs MoU for 200-
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN3FOM2c2ZzNPblB4dFMyemVEOFJWRHZ2ZEwwV0taVE9qSWYwbWtCRFNhTU1PNzVvVTF3aFFyYnB3TC1ELWM1VHhVVU51a3BZSXY1bEpiYi05N0cyUnQ4MzZvQXBtMUV5Y19rMERrUWJaTHpfZHhyREVTSFpDLVVvLWtuc0tweG42NmFvYl9PX3ExWVB1QTlobnJCQkpHWkFKU1F0bjhJOTFBTFlLZXRRcXJRX2N5NHVwUDRFTzU2cFhhdE1aNmcxYmdfQXZGMHFrQmg0bnJtWHBNNmVZVkl0TDVHelNTNzVfOTZqZ2d6V0LSAfYBQVVfeXFMTlhiYVBwamNQOGFGTWV1MFp5NUJHWW5NaTRGUVFKY2l5cndjUWV2WnJCM0stNmJtVngwMlBEM3lYLVVfdERTdF81NzV1N1QzZngwaXZabWFac0NuMHNYM2d5dGc4WlFuOHJzQzZrSk9rVHJZTHRZbVliSkNHaW1XR3hLalBBSkppNTh2NGMzTV9HWTE1X0hlblctVnZ1WVJWTUNGVnJsc3pYOW1ORzhQWTJadXVMd0IxdFNKNDdSaksza1VONG5pMjBNbHhFMEVCVk5EeVkyQTVQZUZoNV9pZnNER04zei1vcGt6M3BkTE1DWk5SVVFB?oc=5
+- In Cabinet Meet, Review Of Ministers' Social Media Performance: Inside Track - NDTV
+  In Cabinet Meet, Review Of Ministers' Social
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWpFMWxDTERNcGh0ODFmckFPV2ZqbVBvU2JUb2FuSVcycUtxNXBsNU1ERXJBSUgybE4xdDE1cWYtMXN1c1hiTUk0TmVlVTFJSm5BM1FsVEItRTI2U1pvLTVieDg2MW5ucDJLanNQVEhOTU1fd2c2UFExbzJ3TVNkdHlvcFp2dGluNi1td1R4NGxwZXpOQS1tTnRkLTViVG9WT2ZlQzg0bUpkLWh5Rl91MWdyeTTSAbwBQVVfeXFMT3hTOVZCRjRKOHJwT3EyR3pHNkpma2ZPS01QWm1FeHlfQ3FaS3JMejhlRzlxcXJ2MWdNOUxTejFEcDZ3MGw2eUNxNXlOVUtMVGhMMGxEZ0R3WVZlRFJISllzMmdTejJ3bkZFWkhkYkt6bHI5OXZGMnBiSDlBQXJQT1NydmJmYUl5cDlSTUFaUkVSWUVXRnltbUpiYTZzbWkyYWdFLTUwYmpZM2t6dnZzSldIQ0VXNTBTa05RMXk?oc=5
 
-- India imposes phased ban on import of 405 defence items to boost domestic production | India News - Hindustan Times
-  India imposes phased ban on import of 405 defence items to boost domestic production.
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU1OWnpvZHJNNFNOdW1DZXFpazQtakJoalhITllNV0RPTjN2bG1JZ0FCYVpVVVdVcTRGbmlCUUswTzh6RHpudVRGVTU4eFRnUFJBLU5yWTJDVGlPVFFQcUFmcURzYU56aVRicTFxWTIyWnZRQ1VOTUhEeFVvNm1yTEtjOHpUN2dJM2lDemp6ZU51T2ZJSzA2VUdNR29BRXdialNfZW5sT1B2ZkNLTVNNNHBZdzVwZzdvY2RSRVYtcC1mQ0N1b3RlcV9SR29oTmhiTmE3Vk01UUZSZGJnUkxBbtIB5gFBVV95cUxNeEVRbHhPeDF4Qm9OSGRzb1hXWFpMXzFZQnpxUEZnSTRJamdmR0xCeG9CSXFXcXA5Rk5CazhMWlNBOWZ4TWpDamdadDJUMlB5VlN3OE9rTVg4VDdvRkY2QUVIQllhdnJfN0NUVXJUQTdyZkYxQng3dmpjbGtyZlAwbWI2bFZ2Z05lNnY5VU1KYzBhWF9mTzNfRVp2amp4YjZBdG1oeHNsbEtnc0VhcUZyZll0c2JMTllMLWdwSS12REJsbVQ1M1dMSDZYcms5YUpmQlYwTnkyS01LY1JfMVBXY1VjdUVNQQ?oc=5
+- Chances of Bangladesh PM Tarique Rahman’s visit to India ‘very slim’, says top aide | India News - Hindustan Times
+  Chances of Bangladesh PM Tarique Rahman’s visit to India ‘
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdXRhenlKVkdqcnJ5dzYyd1hxbGUwX3EwNUFEMDBNLUpYZlJDeTh4ZDhNSndYOTVNSGpkQWlfUjQ1b3BMQWxTZE00QnRKb3ZTZERVN0dCS29SNXJGM0dCQkw5dlVtM3M4VnFYTmg5U29xM0taWE01UFNmNlhUaEt2cnQ0UXNNOXZHSjhFOXN4UVFwbFRzMVgzTG1waURvTGxuMnR6MVFVYlNMWWkwTENWNzUwY3VsaVBwdXZKT25sTFZjNFlJOVRZR3I2V0gtcUVTRC11WUR1ZVg5MFnSAeABQVVfeXFMT0cwWlp0TGxBSFhydzZYeUpPZ3g0THFfQTFYRUhNWlJjWm94UlRmUlZBWm1Ld1F5X3JDMDZfcUowbDNMVnVscDduRlB0ZXpNQ0JFV2VUdzBmZGFpeGRxaHh2eWxjczNKUEhLUTNEU3lkUUN0eUd2bFdJb21ZcUt4Nm1SR0FQd2JDTjVPMTMwR3AxZEpqWTA2cVFRaU5jdHEtZmM1bmdoNV9qdlpGTWRPQWxCN3F4WllpcExMWko5RG9kN2NvSmE4dU0yeVFwNTJBZXdxU2hpU3RQTS1CcERCb2M?oc=5
 
-- India-Afghanistan Ties Deepen As Taliban Envoy Marks Victory Day In Delhi - NDTV
-  India-Afghanistan Ties Deepen
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHk4TnRSbDZadnVmNUk3X3BDZW9mLWl1ZmVXM05FRTZGMFZOdzNZWTdPS0RLU09ycWVJU3ZGelFaRjFTS0ZwdVJnZkhhZ0pwZWJoMU1CTVE3UTNnVVk2RW5reXFnUUxHaldFME9OVjA5RTVOV1IwV2tsRXhaV3VNc0xSalI5VVQ4aUVnbUJwejVjZjdIMUlISkRDOV96WUlMbHhVWi1jazl6RmVzMnNZYWJpMzDSAbwBQVVfeXFMT2MySnJvYXllX09VSzdSMUFHaDdUUVBGZjdraUd3bVhSNzhuZDNPWnVaUE1HU0p6c2d0U0w4UllIMFFGdHpLYlZwb1BBenhNSVZYa1c5Ni1CTFNhZXBpSDNZVTN0UDMzdGlwZF8wajByLWJDNE9vb19pSjQ3UjMxbmhpUEdQaEJKTnA2QXhvaUFXZVhmaTdTV3QxV0p1QjlUbUNPd25wOGFfTlk2MzBTUmR3X0NiNkYxbzBlcVM?oc=5
+- India delivers medicines and medical supplies to government hospital in Kabul - News On AIR
+  India delivers medicines and medical supplies to government hospital in Kabul
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNR05EdjcweGtObnhDeFVpZHNYeVpydmNvRjY5UDdnLUNfQ0V1Qy13dGZ1MG9fcHlyWXlmaXFlQ0ZmV1ZoOGhZaFRkWlY2SjFKZWxLUENzdk1rRWJsX0NKXzZFcFJPMEJpdW54U1IzMjFwaGtOMzFGdnFmMUs0NUtyam1oenV0MnJlUGRQdy12SFRtMFduOUJMc01zME5Qb0V6MXFLb3NR?oc=5
 
-- L'Oreal, Estée Lauder: India's Gen Z are driving up a mega boom in its beauty market - bbc.com
-  L'Oreal, Estée Lauder: India's Gen Z are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vYUJ0MGx4bU1qdmhTQ0F5bmRvQTh2YkxwOHpfYjZYTzVCUWZvdFk4ZmVNUjVuR1h5TE1zTDZBczVudVI3T0M0bUxVU25YODBjaThBcHMxRERpUQ?oc=5
+- "More Pressing Than Ever": India Calls For Overhaul Of UN Security Council Working Methods - NDTV
+  "More Pressing Than Ever": India Calls For Overhaul
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVN1c0tyMXZMNDhVSlBRbjE3MXFXWG9MQnZMY1dpSzYtSFFSWnEwX3VHalVTWlhDYzJ3cU1KN0czelU1OXBack9GSVdrNnRMUU1jMjRacjVBa2tWSmhEeVBsMnNLbXFmaEFSYWRrMzEwSGRNd0g0STlQOWxWTTVZTWxNWGh2TldyWEd3T3JCZjc4Si1oYTdzVzdUZmd4eE9MMXNnQ3NPNWhGY2dreE9fRFdtYTRrcjNIMUl4Z2NlN3JCaTBFVFZF0gHPAUFVX3lxTE1CZFZvSV91T2lsZGRiTjZ1UWloYnlZN1hxem00eUVXckZkQW92V0hVZkJXNnRqWEpjdEVwdFZabk9lUXl3c3FEZjlEbmxVUlB1d0hfOEdUT1hPbTdtdTMyVjIzOExBNzZtSUNSblItZVhvbF9XeTdtSDFpb1VEUEk1RTE0ZVJJeDRTbnNLRHN2WTZKTlNQWkM2MXhDbWhTMGxIaDZjZ040N0RlV3NkVGQwTHdPQlh2UmxsQ3dKcXF3a1RQQS1LZWlzM1hFa2JuNA?oc=5
 
-- Sunali Khatun's husband joins her, SC closes case - The Times of India
-  Sunali Khatun's husband joins her
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmVTZ3RWclROZTBXSU9hSHZPRkUtUm13UEVkTWI5OVh5QVhUZ2kxTTc1dWxJV3FsdlVIRWdxdEdLVXpNQU9WQm9VQjdhS2FZalR5bXhtMDQ4bnFlTnRjUkxyc0MzM1lLb3RCY2tMai1ORXJDT0xvVGRqdi1VZXBnRDByV01mRkZ0UmZ2cnFKeGhvZmhERGdjT3RjOWtPVS04c3RLLXY5bTJndDJObkoxeEp4R0dSQdIBuwFBVV95cUxOb0JZYjQ2cVJuNGZYbGFSZFZiWm9nY1F5TldfMG45aU1xYnIyTWpUYmlubXdGb1ZLdEU5SEJKbS1FMVVncllmVmRyLVhQTmI5VTZ4V1dDM05ZTzNyenJiSUVXUHR2RTBVMkM1RGh3bnBwZzN3Sk9Ua0pNNXVPY2NveTRUTHVPV24yQVJxZzFoLXRJVl9OQWZjZUtyUWVNeC1YME9UR0dCQ3Fick9VQzN2OFc3LXV1Smc2RlZV?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- India ramps up aid to Palestine, signs MoU for 200-bed super-speciality hospital - The Times of India
-  India ramps up aid to Palestine, signs MoU for 200-
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN3FOM2c2ZzNPblB4dFMyemVEOFJWRHZ2ZEwwV0taVE9qSWYwbWtCRFNhTU1PNzVvVTF3aFFyYnB3TC1ELWM1VHhVVU51a3BZSXY1bEpiYi05N0cyUnQ4MzZvQXBtMUV5Y19rMERrUWJaTHpfZHhyREVTSFpDLVVvLWtuc0tweG42NmFvYl9PX3ExWVB1QTlobnJCQkpHWkFKU1F0bjhJOTFBTFlLZXRRcXJRX2N5NHVwUDRFTzU2cFhhdE1aNmcxYmdfQXZGMHFrQmg0bnJtWHBNNmVZVkl0TDVHelNTNzVfOTZqZ2d6V0LSAfYBQVVfeXFMTlhiYVBwamNQOGFGTWV1MFp5NUJHWW5NaTRGUVFKY2l5cndjUWV2WnJCM0stNmJtVngwMlBEM3lYLVVfdERTdF81NzV1N1QzZngwaXZabWFac0NuMHNYM2d5dGc4WlFuOHJzQzZrSk9rVHJZTHRZbVliSkNHaW1XR3hLalBBSkppNTh2NGMzTV9HWTE1X0hlblctVnZ1WVJWTUNGVnJsc3pYOW1ORzhQWTJadXVMd0IxdFNKNDdSaksza1VONG5pMjBNbHhFMEVCVk5EeVkyQTVQZUZoNV9pZnNER04zei1vcGt6M3BkTE1DWk5SVVFB?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- India imposes phased ban on import of 405 defence items to boost domestic production | India News - Hindustan Times
-  India imposes phased ban on import of 405 defence items to boost domestic production.
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU1OWnpvZHJNNFNOdW1DZXFpazQtakJoalhITllNV0RPTjN2bG1JZ0FCYVpVVVdVcTRGbmlCUUswTzh6RHpudVRGVTU4eFRnUFJBLU5yWTJDVGlPVFFQcUFmcURzYU56aVRicTFxWTIyWnZRQ1VOTUhEeFVvNm1yTEtjOHpUN2dJM2lDemp6ZU51T2ZJSzA2VUdNR29BRXdialNfZW5sT1B2ZkNLTVNNNHBZdzVwZzdvY2RSRVYtcC1mQ0N1b3RlcV9SR29oTmhiTmE3Vk01UUZSZGJnUkxBbtIB5gFBVV95cUxNeEVRbHhPeDF4Qm9OSGRzb1hXWFpMXzFZQnpxUEZnSTRJamdmR0xCeG9CSXFXcXA5Rk5CazhMWlNBOWZ4TWpDamdadDJUMlB5VlN3OE9rTVg4VDdvRkY2QUVIQllhdnJfN0NUVXJUQTdyZkYxQng3dmpjbGtyZlAwbWI2bFZ2Z05lNnY5VU1KYzBhWF9mTzNfRVp2amp4YjZBdG1oeHNsbEtnc0VhcUZyZll0c2JMTllMLWdwSS12REJsbVQ1M1dMSDZYcms5YUpmQlYwTnkyS01LY1JfMVBXY1VjdUVNQQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- India-Afghanistan Ties Deepen As Taliban Envoy Marks Victory Day In Delhi - NDTV
-  India-Afghanistan Ties Deepen
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHk4TnRSbDZadnVmNUk3X3BDZW9mLWl1ZmVXM05FRTZGMFZOdzNZWTdPS0RLU09ycWVJU3ZGelFaRjFTS0ZwdVJnZkhhZ0pwZWJoMU1CTVE3UTNnVVk2RW5reXFnUUxHaldFME9OVjA5RTVOV1IwV2tsRXhaV3VNc0xSalI5VVQ4aUVnbUJwejVjZjdIMUlISkRDOV96WUlMbHhVWi1jazl6RmVzMnNZYWJpMzDSAbwBQVVfeXFMT2MySnJvYXllX09VSzdSMUFHaDdUUVBGZjdraUd3bVhSNzhuZDNPWnVaUE1HU0p6c2d0U0w4UllIMFFGdHpLYlZwb1BBenhNSVZYa1c5Ni1CTFNhZXBpSDNZVTN0UDMzdGlwZF8wajByLWJDNE9vb19pSjQ3UjMxbmhpUEdQaEJKTnA2QXhvaUFXZVhmaTdTV3QxV0p1QjlUbUNPd25wOGFfTlk2MzBTUmR3X0NiNkYxbzBlcVM?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- L'Oreal, Estée Lauder: India's Gen Z are driving up a mega boom in its beauty market - bbc.com
-  L'Oreal, Estée Lauder: India's Gen Z are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vYUJ0MGx4bU1qdmhTQ0F5bmRvQTh2YkxwOHpfYjZYTzVCUWZvdFk4ZmVNUjVuR1h5TE1zTDZBczVudVI3T0M0bUxVU25YODBjaThBcHMxRERpUQ?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Sunali Khatun's husband joins her, SC closes case - The Times of India
-  Sunali Khatun's husband joins her
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmVTZ3RWclROZTBXSU9hSHZPRkUtUm13UEVkTWI5OVh5QVhUZ2kxTTc1dWxJV3FsdlVIRWdxdEdLVXpNQU9WQm9VQjdhS2FZalR5bXhtMDQ4bnFlTnRjUkxyc0MzM1lLb3RCY2tMai1ORXJDT0xvVGRqdi1VZXBnRDByV01mRkZ0UmZ2cnFKeGhvZmhERGdjT3RjOWtPVS04c3RLLXY5bTJndDJObkoxeEp4R0dSQdIBuwFBVV95cUxOb0JZYjQ2cVJuNGZYbGFSZFZiWm9nY1F5TldfMG45aU1xYnIyTWpUYmlubXdGb1ZLdEU5SEJKbS1FMVVncllmVmRyLVhQTmI5VTZ4V1dDM05ZTzNyenJiSUVXUHR2RTBVMkM1RGh3bnBwZzN3Sk9Ua0pNNXVPY2NveTRUTHVPV24yQVJxZzFoLXRJVl9OQWZjZUtyUWVNeC1YME9UR0dCQ3Fick9VQzN2OFc3LXV1Smc2RlZV?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India ramps up aid to Palestine, signs MoU for 200-bed super-speciality hospital - The Times of India
-  India ramps up aid to Palestine, signs MoU for 200-
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN3FOM2c2ZzNPblB4dFMyemVEOFJWRHZ2ZEwwV0taVE9qSWYwbWtCRFNhTU1PNzVvVTF3aFFyYnB3TC1ELWM1VHhVVU51a3BZSXY1bEpiYi05N0cyUnQ4MzZvQXBtMUV5Y19rMERrUWJaTHpfZHhyREVTSFpDLVVvLWtuc0tweG42NmFvYl9PX3ExWVB1QTlobnJCQkpHWkFKU1F0bjhJOTFBTFlLZXRRcXJRX2N5NHVwUDRFTzU2cFhhdE1aNmcxYmdfQXZGMHFrQmg0bnJtWHBNNmVZVkl0TDVHelNTNzVfOTZqZ2d6V0LSAfYBQVVfeXFMTlhiYVBwamNQOGFGTWV1MFp5NUJHWW5NaTRGUVFKY2l5cndjUWV2WnJCM0stNmJtVngwMlBEM3lYLVVfdERTdF81NzV1N1QzZngwaXZabWFac0NuMHNYM2d5dGc4WlFuOHJzQzZrSk9rVHJZTHRZbVliSkNHaW1XR3hLalBBSkppNTh2NGMzTV9HWTE1X0hlblctVnZ1WVJWTUNGVnJsc3pYOW1ORzhQWTJadXVMd0IxdFNKNDdSaksza1VONG5pMjBNbHhFMEVCVk5EeVkyQTVQZUZoNV9pZnNER04zei1vcGt6M3BkTE1DWk5SVVFB?oc=5
-
-- 'We're subsidizing a technology that will replace millions': Andrew Yang on calling for AI tax - CNBC
-  'We're subsidizing a technology that will replace millions': Andrew
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPbF83STVpNnlaNjBSQ1dMYk5WY2VyQzJhWDZIZ0txYTdLZ3FxY3hHS2YyY0J5OWR0dy1uUndyS2tmbkhvTVZHVnJULWc4V05CTWlUVHlMbHBpenhCTjRFQ3lPdTd6eVRvT3REV3ppcFNiRGJ3RkplQUFTelozNFV1Tm94VjlyQnVWX1JKd1VacUVFQmVwRTM2M0c3XzlmSEdab3pHQm5oaThVTGRJTzFaQ2xzQXhrSEdSa25LVFNrY1hEcjBLeEFsUzJkcnRLQQ?oc=5
-
-- The use of AI in biotechnology is changing faster than the rules governing either technology - The Conversation
-  The use of AI in biotechnology is changing faster than the rules governing
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVJrbmxNZDdra3VXbTdpYlliLW9TUWo4VExNWWJLc1dNVDNfcTBGeFNGVFItbFF5N3NwbWVNZ0N3dUpId3NjU1hQQmNRRzFINmZwTnZjY3lEaTdFa2lXc0NfSTI5M1Bzd3RUUGppMUEya2hEYXhWODRuX0lNdmVVd0x5WFc5c3NrUlg3NU1iTjEzMkRkR01BQXN2YmlHV3NEVzBiaGY5dkd4dnpCdU52N3ZUNnRoSmo2cjdBRnQ1Y1pBMGpJZkE?oc=5
-
-- Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation - CNBC
-  Asia's hydrogen dreams: Region bets on emerging green
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE03YzZUNjdOU2pCTnRrMWxQcHV5MmdtZmF3SDBHRUtGSHNxSFF0WUdvMWtOSS1iam9zWEloQ2dxN1RiU0s3WWl5ZFBMYXVoWHBfUlFyLU53dWkyTmk3alh1TjRzajNHWDdmbzFUMGdDeDd1cjY3THBtWVVZbVZ4Z9IBgwFBVV95cUxQVllrenJ6bXp3RXpIaVdnay1XY3ZTLUVmZHhzQzR1am1XOFBIS1BWVHhsRktOT3JjdW4zaWhtWFZnNEg5Sk11ekUtOHdhc29TV1RIN01yTFROcjZDM1M2d0FUNGJTczBaVDZSVW5qdzk5MzA3VlpJdG45Snc2dFF1VzlFbw?oc=5
-
-- Startup brings ancient Roman concrete technology to modern construction - MIT News
-  Startup brings ancient Roman concrete technology to
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOYW55UlJEaUpSRTYyVTVUZTdsXzh6SjlnVlhyWm8yWUlURkFxV2E1U2dDb09raHNxai1SeFdzdjJDcHlvNGdWZ3hMN2FYb2hGdk1NSFEtMERyRThPbXNhNkxpSEdGamxBUFZvY21NSVZuWjlndHhUR25PTVItU0NlQ25Oel9qcEEwY1Zkbg?oc=5
-
-- ISRO Experts Highlight AI and Quantum Technology for Future Indian Satellites - The Quantum Insider
-  ISRO Experts Highlight AI and Quantum Technology for Future
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQdHJmMjlNUXBmYmY5Vm85SENULVg4MVBNUXNROEJ1SldyV19TVWdCSVhNYkFlNDZ1d2VqSVpWSmhYbWN5a1puQlV0VThwSU9JbmttT3hkZGZ2VG1ZTC1LcmVBRUhuXzZnci1KeGxBM2NzQV93UnVpNkxUREJ3UWZTLV9DYmlRaVRRNFo3bW5FRGh3WEdYLW9odkRsMTJVU05aS3p1NUZn?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-20 00:58:35 UTC_
+_Last updated: 2026-08-20 06:40:24 UTC_
