@@ -1,5 +1,25 @@
 # 📰 Daily News Summaries
 
+- India Needs 20 Reforms To Become A $20 Trillion Economy By 2036: Report - NDTV
+  India Needs 20 Reforms To Become A $20 Tr
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFFPTGV1TWV2RlFZLUxzNTdtWEkxN29uVkF4d3lmelJlZkoyV1ZERUwxRUZBalNUeUVVWmhHUzhjZjF3by1RYVh5M05lUzZkT29aZm0ycHRvR2JHZWttV0dZOFdpMnlDQ2N4eEdPYUVOTmJFUGd2M29oU19sdXRGNU5oSzRXSzYwMW1MNy1XazMtR1hLSV9NQ1RPby1STnlaZHhrejZSeTUtSjR3YlF0QUYwZENyWjVKY1c5VtIBxAFBVV95cUxNcnVJN0RqNFZDZWVicFJtRWFTNDRDaElJR01ScGpEZWVkQmhhd24tMmF6LUxmNEI3STV2dzc5MDVKMnAtdkc3a3d6RWVvVElaZHZOMHRlejFJc2ZyNUNaRTB5aHhFV3hjbG9kY2tGbUtoQmZfRFRjbi10R2J0Vi1KcHE0aUhfUmRKa0M1eEozTTdZMXNIYlIwUXVXZ0NnV3RCRDluc2t3NUJORThzd1pEbUczZDh6cWRwNGY1Y2IySHJZd2dG?oc=5
+
+- India-Bangladesh Ganges talks continuing at technical level: MEA - The Economic Times
+  India-Bangladesh Ganges talks
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxPWTNzWm1MQlJFRHkyZFNtR1c0V1lSWFJXaUJkYVhLVjhtcl9Bb0FiRWpaeG9vT0E3SGMtZnlKckdhb0NDRnczdDVwWE03WU04SzdvN3hsRE1uZnlBM1pYOHl1enhEMzQyc0trT3JGSXQtNFZMNHo0RjUwSDYxODlNeWc3MjNhWTctMHBXZG9xY0dUakxuV0daSTVxSXNvY1gyakJGdDRfamNIaTVya28xemtJQng0MnoxUFpxVk9rUDFwdEpoYzFVWXFMdkVVeS1NbGptZ1RXZy16VFczcnRjYjdnQUhoU1gtR0hLajFSa1pUTEpRM2lrSW9UVjEzN2xHalZvNVB4VGdKLXpGbmhDaEVOQ2V3SzhsQ1BISmhUOVBwdDBvTGlvWWQ1a1BQRWVl0gHMAUFVX3lxTE45cF9DV0VWc2p3U0h6Vjg5c3B2Zk1nbkpUNWtGMzhsckliMUxMdldOTU15TUNmd2dtNWRxamluRjczU1ZwaFJ4amEtWmNYSFZyOHhNMURvcUx0NjB5ZFVmRUlkR1lHdWk4MmxUYXdvcnJRazU1ak9Fbkd2X3dPa01kN1QyQkxEWmtTcDV4WjBNcGJaZnhoN0NxMENJV3R3RjVnNWlZMjVJNDdwQUdCQWxPU012NWMtVDVmSzFxNEMwYW03MkRVNnFJZG11UQ?oc=5
+
+- Explained: Why Sugar Is Suddenly Getting Costlier - NDTV
+  &nbsp;&
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOa2NiTVJDZnN0Ry1wbEJsYjd4Z3F2eVdOc2w0eGJ6YXZuT1ExWlBfT0ZXaWtzRnJ6aTFpY2dpOHlVZ2MtZWVEanBNSVBJRE9wS1J5dEluVThKamRZUl9ZcTNObDMtc3hEa1l6THI5LU1FWlVISGlwME1renNpR0JzNEQ2bDV2UldQazZLNlVHVUtHMUHSAZsBQVVfeXFMUGVaZXVBOUJGdUZOQmFiMFZWRmlXaVMzYlJ2Y2VVTnhNeHcweWNJNVduby1fOE50MTA0ODVQVXRGRXZ6T3otMG8xVllJM255NGZ5NnBTVXNMMncyUWhPUGpYNjVPX3FBRVNOTzR1UWNzdHU4Ykg4NXBJYUZvZEZoTW82WVZ4aUgzUTJ6emhtLTRnOFA3blNWZzh4VGc?oc=5
+
+- Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools - BBC
+  'Cockroach' party wants to fix schools
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aTDBWSXZZeXNuNW9BeUFLZHhDb0dqSkpjcW1sTGpObXpXRXVySWMyX1VENHpOVEFaUjZrd19ZZnFKNEFJNHl4NHV4bjg5M2F2TU55ZUkzQTV5UQ?oc=5
+
+- PM Modi chairs third high-level meeting with Secretaries to Government of India - News On AIR
+  PM Modi chairs third high-level meeting with Secretaries to
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGZNOWdScU1PT1pLNlpmbkF6Y3hZcXBwcDItN1VpY1RxME9Db05oLVI5RVJKdzJra05vTGl0UXJ5b1pyYnl1VWxiVDJraDhZdWpoSDh2RHQzcXR0YmhRZlZIT0lVNEdIM09HVmNJVEhQM0xGM21qQUdhVXc2UU85UUJlcHI3WVdqY0JxU254NGlyZGlIa3E1NjdUNW40N1Z1ZFFCcWVJaHE?oc=5
+
 - SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems - SK hynix
   SK hynix’s technology roadmap for co-packaged optics features in �
   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JQkVPNFB5aVdSRWoxN0p2NHdNQklDUEIwYjhIejhESzdKdldtQ0RZeG52OWxzdjB0Njk5c0xXTXMyclFNTW40c1cwb3FoTUV0X0REN28yR0ZFWlJkcjN0ZTBlN3M?oc=5
@@ -12,53 +32,53 @@
   The epic blockbuster could be India's answer to The Odyssey, says BBC.
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd3d1bEl2WE1SZTlaTTVFNTY2QVVUbjljdlgzU3NBb3VtOWZSTXRsTS05QkFhcnVXbXU3eTFhazhhWk0wSi13T0xrQjFkZjc5cDZqQ1JTSTA5S1NDXzBlaTlxZ3o0Smg4aGlBU0pEZ1ZoV2hNY1d1TElldFdhem45b1MtSURWWWM0ckQ0NHkyRG1VT0sycmZCN20xU3lkT25LalBmRU5NLUo4QmhWdjI1QjBIQW5laWJB?oc=5
 
-- India and Japan agree to deepen defence technology partnership; Sign MoA on Maritime Security Cooperation - News On AIR
-  India and Japan agree to deepen defence technology partnership. Sign MoA on Maritime
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVN0el8zc056LVl2ZFVrLUc5dElGeWFva0hWcUJ6VXQzV1U3V253V2p6RnR6VkZOOEp4Umd5WTVvVEhQb0phQlNHcFF1cTVZemhVSV9PU1RkUXZYLXlJZV9pYWlTMXV4VkU2QWFvbkJQbU5VS2kxdTNPeE1DX21jUEJBV3RZZ01Ecy00bUZtZ2Jaam1zdFU3WnZxZnlXYnZaMzQyWmo2UEthdHRoRUVDWVl0b0dtWm1EdGpFTml2eGlfZUNVWVB3ODR5VWtEeF9YWDNpN09WaWE?oc=5
+- Delhi High Court Appreciates 'Scientific Investigation' Using Technology To Trace 'Fake GST Fraudsters',... - Live Law
+  Delhi High Court Appreciates 'Scientific Investigation'
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxPb1VvSEp1aWVMN0hGU2w0UkdjaXlMWkp5MjlmVGowOUdoR3p2VGtYR1ZwRk0zZVRtcWg2T2EtTl81RWhYeWFhV3JRdkpJSVBmU0pySkF6VV8wQ2dQSF9lZWhWN2p5RXFiWUNxTkU3eGhNbDFJYnY0akNuVktYT2RBLVJUN01rNkVEcVR6VEM4QmJFUFFhTkl4R1BETjdOS1hhLURObFNFVGw1SGFZMjN1d2ZPOHBfTTdXV09Qem9uZmpYbzh3VTRUZmdwblVienhfSVpZRWVMRDNfRHJiaG9kSE9GaTE1WWtZaWptNzRxN2lvb2pnUGg3RlNsdC16SXVYcWw1MTNJYmIxOFlfRVc00gGUAkFVX3lxTE0yYnh2OEYyV1owZm9JSHByMjVOY3NZTEU0SEdkN1JoR3ZpWnNRV3ZVUW91cUw3R2FHNXVsakhlN04tOWQ3cHZCaTUyRkY5NG9yMXJzTzFLcUxqQmdUa2RlRGgxd252ZEhicmtJVEtFS2hMOFQ5Z196LWNZNlRpekQ3Y0hlRURHT2Q1N3JJU2JiUXhWa0pURGs3M1UxckpNUVcxSndOcWxvSlVOelp5TV9uLWJ5OGJtQmRoRzdaVlRJdUpSeWszSEtQeTNuSkZZbC1RczhCOTdPVHhPTUZ5RGlZbVFNdFdva2RVVGhxdlFxWnpjZVFud1dBYlV5UjVRYnJObEFMSzRxN2dnTnpnQkNva0J4Nw?oc=5
 
-- NASA is offering up to $500,000 for new technology to measure Earth's extremely thin upper atmosphere and - The Times of India
-  NASA is offering up to $500,000 for new technology to measure Earth's extremely thin
-  🔗 https://news.google.com/rss/articles/CBMi2gJBVV95cUxNRnNQWnRzcy1rVXN4M2tfRTk4aWJSY29CelJOVGV4T1BJOVpJd0RuV3FFZXVGX2Rud0Q2cEIxSWZCOWJIT3hraHFYWnlnMlFieGRUdHN6aTBOdF9NTVFLWjloRGtYYThCdVVza2RyeG5PTGsteFpyTTdqUXhtczViS3dncEg1NG5idnljaVhSSDl5MEg5ZVhHNzh0YzRuanZxSXVucnUzYlA1bXpMdUF1MjRwNHF0cFBUTld3cVFHa083U3BWTm5RZVpjWmdvazRRbFpMLVN2X2tRM3dkcVowSzNEWWFOOGU4aGxtUm8wVHhoVDlZQUJ4Q05PTkg4X2FNLVlTZjBWbmJZWW9ZbGpnSE1FMFp0TkpYLXdwWGF3cHR1Q1NXSnVPX3poc0VxVktVdDktMy00RVdEZEdIR1R5NFFpSmEyVUlReUNMVFh1UlNHcDZERk5jOEZ30gHfAkFVX3lxTE1DdW9IZGlrSWF4Sk85MS1tR1VqZnUyN1YzLUkyNlZKdHZENjQyWFFTTjlfMnB2R2RBN3c5RnpSbllqd0h6dGRxenIzV3lKZDFUOUVFYWpKUkVFUjhRY1I1WDlHTFNpWEVQVktGV1BlOVQ5bUpLM0NSLXdVTzRZWE1sOXpwX215QVhPa2pFelpka3pMME1Yd0prNzR3LWJXUkRjRnZSNjNOblJ3c0xYdDNfQlR3Wm9aeGlSb19USzhCS3JYZ0lxcU02VmlIeUppV0EwU2h1UFQyZ2V5TWk0QmxkNjM0bGF4X0dsXzJ0eHc3VlFxMVZhVUVZa3lwVXlPellFaTdVSXB5dUpfZ0JmOXR4LUdXa1RwdEhxX0hzclJ2YnFva0ZwbW5CbVFIVmhyOFZIbEhQM1M5T1c2aFBnLWwwMjNpUEJOVHg3TXNJVGF1WWJJMWxTclc4S3lJUmFnRQ?oc=5
+- Why India Must Bridge The Research-To-Technology Gap - Rediff
+  The Indian government is
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQR1F0Q0syQ1l4RTBZS0hWSVQxVHRiUnVZT0NkNS0tMlk2VnBEVk1Qc3pKOEJkdHo3YTZ4VmNfZ1J1MmlGbWltd0tsdE5yRkhTUTkwVklaM0wtN0w0UC1md1lFSUU2TVpmbGM0ZktzSVB1aGVVdVQ5N0FiZVRjZ1NjZXBrMTRUVHJPeE1nSnpsOEM1d21qcDFla01BOVMxZ2lZZk94aFJn0gGoAUFVX3lxTE5nWjNCTll6Ykpqby01elowNmhMUFVLQ1ZERGNkUFk0ZjFILWQ1VWJnZnQxNjE4TUxkaFZOTnBXZmZpdGVYRWxnbDhfdF9FcWtnVXpSMTh6REZkQlRZblVkNXZiZ0k1ZWNHc2ExRXNIY2JEOEVHZU84WHhtNjVXV01YdFBMbXFjdG1RdzZYVzNQUEc5b0tLbHpkRldCOFNPcmkyNUhydzZDZQ?oc=5
+
+- Ken Griffin's Citadel sheds over $4 billion of Situational Awareness' bets
+  Situational, an AI-focused ‌hedge fund run by former OpenAI researcher Aschenbrenner, sold the bulk of its stock bets to Citadel
+  🔗 https://www.livemint.com/companies/news/ken-griffins-citadel-sheds-over-4-billion-of-situational-awareness-bets-11787331886930.html
+
+- HomeFirst Finance is funding ESG-rated homes, hopes it will attract sustainable capital
+  HomeFirst Finance is extending its ESG push to individual homes. It is co-developing green certification
+  🔗 https://www.livemint.com/companies/news/homefirst-finance-is-funding-esg-rated-homes-hopes-it-will-attract-sustainable-capital-11787310076367.html
+
+- Harry Potter, Hello Kitty merchandise now in minutes: MINISO now on Swiggy Instamart
+  Instamart is expanding into non-grocery categories, joining electronics, beauty
+  🔗 https://www.livemint.com/companies/news/harry-potter-hello-kitty-merchandise-now-in-10-minutes-miniso-now-on-swiggy-instamart-11787319906804.html
+
+- Delhi HC questions its jurisdiction in HUL-Beco ad row
+  The question of jurisdiction arose when senior counsel appearing for Beco argued that HUL’s principal place
+  🔗 https://www.livemint.com/companies/news/hul-beco-skin-allergy-ad-row-surf-excel-delhi-hc-jurisdiction-11787315925119.html
 
 - Tesla to recall 2.98 million China-made, imported EVs, to fix software in China
   Tesla will recall 2.98 million China-made and imported Model
   🔗 https://www.livemint.com/companies/news/tesla-to-recall-2-98-million-china-made-imported-evs-to-fix-software-in-china-11787310372831.html
 
-- What are Firebase scams? Why India asked Google to take down fake banking sites
-  I4C ordered at least 57 Firebase websites and databases taken down in August. They were used to steal credit card details, OTPs and other data from victims’ phones.
-  🔗 https://www.livemint.com/companies/india-orders-google-to-take-down-firebase-sites-used-to-impersonate-banks-defraud-users-11787310851149.html
+- Crude oil prices head for second weekly gain as US steps up economic pressure on Iran
+  Brent crude prices surpassed $94.71 per barrel, marking their highest in a month. Crude oil prices set for a second weekly gain, driven by US sanctions on Iran.
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-head-for-second-weekly-gain-as-us-steps-up-economic-pressure-on-iran-11787327365673.html
 
-- 'Smallest wearable on the market': Deepinder Goyal says Temple is now less than half its earlier size, pre-orders soon
-  Zomato's Temple is now less than half its earlier size. Pre-orders for a limited edition will open soon, with shipping expected by end-2026.
-  🔗 https://www.livemint.com/companies/people/smallest-wearable-on-the-market-deepinder-goyal-says-temple-is-now-less-than-half-its-earlier-size-pre-orders-soon-11787306323990.html
+- Symbiotec Pharmalab IPO: Price band, lot size, GMP, listing date and other key details
+  Symbiotec Pharmalab is launching its IPO on August 24, aiming to raise  ₹1,757 crore. The offering will be open until August 27
+  🔗 https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-price-band-lot-size-gmp-listing-date-and-other-key-details-11787319352853.html
 
-- TCS denies employee surveillance: What is the laptop monitoring row about?
-  TCS denied reports that it is tracking individual employee activity. The company said its tools monitor macro-level network performance.
-  🔗 https://www.livemint.com/companies/baseless-and-inaccurate-tcs-denies-tracking-individual-employees-after-report-on-laptop-monitoring-tool-11787304387057.html
+- US stocks surge as bond market volatility eases, crypto stocks rally
+  The S&amp;amp;P 500 rose 0.3%, the Dow Jones Industrial Average was up
+  🔗 https://www.livemint.com/market/stock-market-news/us-stocks-surge-as-bond-market-volatility-eases-11787319906181.html
 
-- India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal
-  A long-delayed sale of a majority stake in IDBI Bank is in its final stages.
-  🔗 https://www.livemint.com/companies/news/india-to-give-canadas-fairfax-two-years-to-consolidate-holdings-for-idbi-bank-deal-11787302921530.html
+- Sebi proposes bond distributor network, tighter ad rules to deepen retail participation
+  Sebi's model draws on the experience of mutual fund distributors, who have
+  🔗 https://www.livemint.com/market/sebi-bond-distributor-network-ad-rules-retail-participation-mutual-fund-11787316933242.html
 
-- US stock market today: Wall Street futures rebound from bond yield-driven sell-off
-  S&amp;amp;P 500 and Dow Jones futures each gained 0.3%. Nasdaq-100 futures increased 0.6%.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-rebound-from-bond-yield-driven-selloff-11787310418240.html
-
-- Penny stock under  ₹10 hits 20% upper circuit despite weak trend on Dalal Street
-  Market benchmark Sensex ended flat on Friday, extending losses for the second consecutive week. The stock ended higher for
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-10-nandan-denim-hits-20-upper-circuit-despite-weak-trend-on-dalal-street-11787309517444.html
-
-- Top Gainers &amp; Losers on 21 Aug: Welspun Corp, Jindal Saw, Urban Company, Vedanta, CarTrade Tech among top gainers
-  The Nifty 50 and Sensex remained largely unchanged, marking their second consecutive week of losses. High crude oil prices and rising global bond yields impacted Indian stock markets.
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-21-aug-welspun-corp-jindal-saw-urban-company-vedanta-cartrade-tech-among-top-gainers-11787305625058.html
-
-- Sensex, Nifty 50 end flat, extend losses for second consecutive week
-  The Sensex ended 3 points up at 77,540.83, while the Nifty 50 settled 20 points, or 0.08%, higher
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-amid-elevated-oil-prices-us-iran-stalled-talks-infosys-sbi-among-top-drags-11787305978312.html
-
-- SAIL dividend 2026: Maharatna PSU declares record date for final dividend
-  Maharatha PSU stock had declared ₹2.35 per
-  🔗 https://www.livemint.com/market/stock-market-news/maharatna-psu-stock-sail-declares-record-date-for-final-dividend-in-fy26-11787303082467.html
+- Pulse of the Street: Cyclicals buck weak market as FPI inflows hit 23-month high
+  The Sensex ended the week down
+  🔗 https://www.livemint.com/market/stock-market-news/pulse-of-the-street-cyclicals-buck-weak-market-as-fpi-inflows-hit-23-month-high-11787315061912.html
 
 - Apple iPhone 18 Pro event: When is the September keynote scheduled? — Check predicted date &amp; more
   Apple's customary way to reveal its keynote is to send invitations to the press and special guests.
@@ -80,65 +100,125 @@
   India's key strength in artificial intelligence lies in the applications layer. The country is simultaneously building capabilities in data centres and other digital infrastructure.
   🔗 https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html
 
-- ICICI Bank doubles borrowing from overseas markets to $5 billion
-  ICICI Bank has taken a significant step by doubling its overseas borrowing limit to five billion dollars. This strategic decision enhances the bank's ability to tap into international fundraising avenues. Indian banks are ramping up efforts, eyeing to collectively secure
-  🔗 https://economictimes.indiatimes.com/markets/bonds/icici-bank-doubles-borrowing-from-overseas-markets-to-5-billion/articleshow/133404318.cms
+- Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates - WSJ
+  The WSJ reports that the Dow Jones Industrial Average opened higher on Monday. The New York Times reports that U.S. stocks are on pace for weekly declines.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWg3azFqLWQ4Wk4weVZuYVFjYVBwZnBuak94TWxuUlZNQ1BZWXNzaWhfR05teG1VWEtrNVdwZFRxTmZCVTdRVkFuZm9hLS1XSV8wUlQwckE4UWk4MXJxdVNFZWllNktGaUxMRFNEN25TVXJveDBEYWFhMUVXazR1VTBQR200UFE?oc=5
 
-- Dow Jones| Nasdaq | US Stock Market Today | Live: US stock futures rebound after previous session’s selloff
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-crude-oil-fed-rate-hike-treasury-yield-spacex-nvidia-meta-tesla-chip-stock-price-news-21st-august-2026/liveblog/133404258.cms
+- Bessent's bond gambit aimed at calming markets is instead stirring inflation worries - CNBC
+  Bessent's bond gambit aimed at calming
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFduci0wN2hKbnNSSWY4OVhUVnZSMU9TWFpCS2xtU1AyZlZudHJJTFJneW1weXNpelUwY0JlaUp4VC0xZFdLVERSYWRablV2LWRWaTU3cVVuOVB1N2ktOEdteno4eU8wRTRjQ2NPY3RVM1N6amxsSzA0TnIyeHZVZFU3MEx0QzB5VGJDRDNLZ0pVRTdtUHNkaFRWX0k5YnZMbkZ4bWpHeDA2bUFvNzJzR3ZKTlVTekEwRVFmZm9n0gHDAUFVX3lxTE8zSnhXOEp2SjVHTV9jRVNGQTd4ZTVzaVBVUzUtM3EyTjNMN1pfcG1peGVlZVBEeWtueVRDSHVpdkdjZ2x1dkF3UFdzT0VDaW5sakVmVkhrcUxNdVFKV21zSHBZWGRySDhIUEJvRkUtX3NVdGZxRXE0RTg3b2tsVEZpNmpZRndJNHNydHZZc2xrbHljQ1hEdjc1SWwxNTA5cDN1S2dQUldMSXhRaE1CLW1VNHZkeEpaa3YtOFhQRXpfLWJvSQ?oc=5
 
-- Shanti Gold among 7 consumer discretionary stocks that hit 52-week highs and surged up to 37% in a month
-  Seven stocks from the BSE Consumer Discretionary Index hit fresh 52-week highs. Baazar Style Retail, Menon Bearings, Shanti Gold International, Lenskart Solutions and others
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/shanti-gold-among-7-consumer-discretionary-stocks-that-hit-52-week-highs-and-surged-up-to-37-in-a-month/slideshow/133404296.cms
+- What is Scott Bessent doing with the $32tn Treasury market — and will it work? - Financial Times
+  Scott Bessent is the new head of the U.S.
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1hYOS1SLWtrLXlqbmNMSk9aUjZXR2RESjVEd0tLckQwVzdJUlczal95eVNrTXZMYVNzZHBZUm9KZHNMSW9YU09uaFhpNFk5bUFRQ21MZXRJU0RoOUVUSTBZSVhhemJib0psWGlnNGFLa3ZZYktHR3hvanBoamdPU3ZFR2s?oc=5
 
-- Sebi cancels registration of 15 investment advisers for non-payment of renewal fees
-  Sebi announced the cancellation of registration certificates for fifteen investment advisers. Despite issuing notices in June, the advisers did not respond, leading to the termination of their registrations.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-cancels-registration-of-15-investment-advisers-for-non-payment-of-renewal-fees/articleshow/133404099.cms
+- Why bond markets are unnerving rich-world politicians - The Economist
+  Why bond markets are unnerving
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3RiaFVNN2V6TTY3bjhWS0N1cURkdlBxbE5CczVZbXdLc1JORmtnZW5JNGg3MDc3MlRRM1pYLUtpLWhOVklNV3FLYlRralFZbWtHbDFkQ3YzNS1faE56SWEyOC01U3ZTUVpBMkNSOTNMWGJ5cmtMNkNrVTVSNFdfZjdIVGlwUWZHeHlkaXlPZU5QbGNOcUR2dUlJNUZtQnBPaFFzZzZEMWxLWGd4c2JLNkxR?oc=5
 
-- Lumino Industries fixes IPO price band at Rs 78-82/share, issue to open on Aug 27
-  Lumino Industries has announced its IPO price range set between Rs 78 and Rs 82 per share. This Rs 700 crore offering will be available for subscription from August 27 to August 31. Funds raised are earmarked for debt repayment and upgrading
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/lumino-industries-fixes-ipo-price-band-at-rs-78-82/share-issue-to-open-on-aug-27/articleshow/133404047.cms
+- Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets - Al Jazeera
+  Al Jazeera reports that the White House is planning to
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenpHVXJUV3A5cTY4b0ctYVZwVUZ3bGFSeFoxaGNMSEtBNUtGR2cxR0tsWi12N09DQzVVY1VPZ3lUNDNVU2t0MGd3Ql9rczBVNnpLZDhkWUpNVHlLekF4a1REMDc2QVZHX05NWmJ4OGtTRWlGcXRodmJsMWZEVWFhSWs1SXA2WWM1NHhNSXl3QTd1VnFHNnJqNnB5aVJXWFhudjA5Tlh0YjA4d9IBrwFBVV95cUxObEVoRGp3U0lCOG9JODRJdHVtTzBDQXlJTU96YVB3SDlmaGRmemU1WmZlYnlLakN0LW0zNTFZcWV3aTBWVHRzbV84ZTVWb3pIY2lmVUg1S09PWUltVUlfa002bGxHQkp4RUhLMXkzM2dvUHl6YXhpQ2tpNnhORHlLSzNtMGpzTlYzbjVJTEtXZUpWYTdJb0NQcU8wY2NKUjJ4ZWxKSmh0NTNQb3dTT0ZF?oc=5
 
-- Three Sixty’s Vikash Gupta On Turning India’s Leather Legacy Into A Global Luxury Brand
-  Three Sixty’s Vikash Gupta On Turning India&#039;s Leather Legacy Into A Global Luxury Brand.
-  🔗 https://inc42.com/features/three-sixtys-vikash-gupta-on-turning-indias-leather-legacy-into-a-global-luxury-brand/
+- Gold could top Goldman’s $4,900 forecast as options demand fuels rally
+  Goldman Sachs sees gold potentially exceeding its $4,900 year-end forecast. Rising call-option activity could accelerate gains near key strikes. Changing Fed expectations could also trigger sharper corrections
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-could-top-goldmans-4900-forecast-as-options-demand-fuels-rally/articleshow/133408548.cms
 
-- IPO-Bound Atomberg’s Loss Widens 27% YoY To ₹149 Cr In FY26, Revenue Jumps 35%
-  IPO-bound consumer appliances startup Atomberg Technologies saw its consolidated net loss widen 26.8% to ₹148.9 Cr.
-  🔗 https://inc42.com/buzz/ipo-bound-atombergs-loss-widens-27-yoy-to-%e2%82%b9149-cr-in-fy26-revenue-jumps-35/
+- Symbiotec Pharmalab gets Rs 526 crore anchor backing ahead of IPO; Citi Group, Singularity among investors
+  Symbiotec Pharmalab has raised Rs 526.20 crore from anchor investors. The pharmaceutical company has set a Rs 938-988 price band.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-gets-rs-526-crore-anchor-backing-ahead-of-ipo-citi-group-singularity-among-investors/articleshow/133408476.cms
 
-- Deepinder Goyal’s Temple Wearable Gets Smaller Ahead Of 2026 Launch
-  Deepinder Goyal revealed the latest design of his wearable startup Temple’s product in a social media post.
-  🔗 https://inc42.com/buzz/deepinder-goyals-temple-wearable-gets-smaller-ahead-of-2026-launch/
+- India bond yields hit two-month high as rate hike fears intensify
+  India’s 10-year benchmark bond yield climbed to a two-month high of 6.88% before closing at 6.85%. Hawkish MPC minutes,
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bond-yields-hit-two-month-high-as-rate-hike-fears-intensify/articleshow/133407966.cms
 
-- Exclusive: Fragaria In Talks To Raise ₹40 Cr From Blume Ventures, Others
-  Chennai-based agritech startup Fragaria Fruits is in talks to raise $4.2 million in a fresh funding round.
-  🔗 https://inc42.com/buzz/fragaria-fruits-in-talks-to-raise-%e2%82%b940-cr-from-blume-ventures-others/
+- FIIs near historical lows: Jio BlackRock flags potential contrarian setup for Indian equities
+  Foreign investor positioning in Indian equities is nearing historical extremes. FII flows showing early recovery after sustained outflows. Jio BlackRock says resilient domestic buying, reduced foreign selling and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-near-historical-lows-jio-blackrock-flags-potential-contrarian-setup-for-indian-equities/articleshow/133407830.cms
 
-- Turtlemint Jumps Nearly 6%, Jefferies Sees 37% Upside
-  Shares of Turtlemint ended today&#8217;s trading session 3.3% higher at ₹149.40
-  🔗 https://inc42.com/buzz/turtlemint-jumps-nearly-6-after-bullish-ratings-from-jefferies/
+- Gold rallies to 3-month high on weaker dollar, bullish technicals
+  Gold prices soared to a three-month high on Friday. This rally was driven by a softer U.S. dollar influenced by Treasury buyback strategies. Investors are increasingly attracted to gold and related exchange-traded funds.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/gold-rallies-to-3-month-high-on-weaker-dollar-bullish-technicals/articleshow/133407758.cms
 
-- India Replaces Indonesia As Asia's Least-Preferred Stock Market In Survey - NDTV
-  India Replaces Indonesia As Asia's Le
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2pzcVlNZGN5Z3I3d0k0ZG15cVBTOG81QS1adjlPelZvd2VMSjdzTXVraUNoUHRWNmtwcEZNd25ETkJKR1c3REJvYVhfS0I5T1l1SHpoNDdyRVkzMEd3NVRQMXFQTTRrZmZKd0pPLXJ6UUtpcXJ1RTZhd1dsa2lWcU9leVhkSUU0RFlMV1FoUW1jYTBmV1J6Unk4dDZhLWwwRF9lNV94aERLSEJWb0dpdmdtWdIBuwFBVV95cUxNdUhXZHh5QzdadXBFbWJDazVkNWZNc3FBTklDMndfVUkzT0N2UmRzWGNrY3VJSHVfY2k3anMyaWZrdkxOX1ZvQ3ZmT3c1ZlRjcHJGUlp6UUlVTmtDSk9lSFZUZzdhTjRMU0FOVmREVHRxSHNaMkxtZzItTU15U29YbVJRMklKajlFWWRVam1jUENMMnpObnlESThlbmlvU0lhNlBLRmdleWd2aWN1VFhqd1ZxQ3Y4d1NqUmpR?oc=5
+- India Needs 20 Reforms To Become A $20 Trillion Economy By 2036: Report - NDTV
+  India Needs 20 Reforms To Become A $20 Tr
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFFPTGV1TWV2RlFZLUxzNTdtWEkxN29uVkF4d3lmelJlZkoyV1ZERUwxRUZBalNUeUVVWmhHUzhjZjF3by1RYVh5M05lUzZkT29aZm0ycHRvR2JHZWttV0dZOFdpMnlDQ2N4eEdPYUVOTmJFUGd2M29oU19sdXRGNU5oSzRXSzYwMW1MNy1XazMtR1hLSV9NQ1RPby1STnlaZHhrejZSeTUtSjR3YlF0QUYwZENyWjVKY1c5VtIBxAFBVV95cUxNcnVJN0RqNFZDZWVicFJtRWFTNDRDaElJR01ScGpEZWVkQmhhd24tMmF6LUxmNEI3STV2dzc5MDVKMnAtdkc3a3d6RWVvVElaZHZOMHRlejFJc2ZyNUNaRTB5aHhFV3hjbG9kY2tGbUtoQmZfRFRjbi10R2J0Vi1KcHE0aUhfUmRKa0M1eEozTTdZMXNIYlIwUXVXZ0NnV3RCRDluc2t3NUJORThzd1pEbUczZDh6cWRwNGY1Y2IySHJZd2dG?oc=5
+
+- India-Bangladesh Ganges talks continuing at technical level: MEA - The Economic Times
+  India-Bangladesh Ganges talks
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxPWTNzWm1MQlJFRHkyZFNtR1c0V1lSWFJXaUJkYVhLVjhtcl9Bb0FiRWpaeG9vT0E3SGMtZnlKckdhb0NDRnczdDVwWE03WU04SzdvN3hsRE1uZnlBM1pYOHl1enhEMzQyc0trT3JGSXQtNFZMNHo0RjUwSDYxODlNeWc3MjNhWTctMHBXZG9xY0dUakxuV0daSTVxSXNvY1gyakJGdDRfamNIaTVya28xemtJQng0MnoxUFpxVk9rUDFwdEpoYzFVWXFMdkVVeS1NbGptZ1RXZy16VFczcnRjYjdnQUhoU1gtR0hLajFSa1pUTEpRM2lrSW9UVjEzN2xHalZvNVB4VGdKLXpGbmhDaEVOQ2V3SzhsQ1BISmhUOVBwdDBvTGlvWWQ1a1BQRWVl0gHMAUFVX3lxTE45cF9DV0VWc2p3U0h6Vjg5c3B2Zk1nbkpUNWtGMzhsckliMUxMdldOTU15TUNmd2dtNWRxamluRjczU1ZwaFJ4amEtWmNYSFZyOHhNMURvcUx0NjB5ZFVmRUlkR1lHdWk4MmxUYXdvcnJRazU1ak9Fbkd2X3dPa01kN1QyQkxEWmtTcDV4WjBNcGJaZnhoN0NxMENJV3R3RjVnNWlZMjVJNDdwQUdCQWxPU012NWMtVDVmSzFxNEMwYW03MkRVNnFJZG11UQ?oc=5
+
+- Explained: Why Sugar Is Suddenly Getting Costlier - NDTV
+  &nbsp;&
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOa2NiTVJDZnN0Ry1wbEJsYjd4Z3F2eVdOc2w0eGJ6YXZuT1ExWlBfT0ZXaWtzRnJ6aTFpY2dpOHlVZ2MtZWVEanBNSVBJRE9wS1J5dEluVThKamRZUl9ZcTNObDMtc3hEa1l6THI5LU1FWlVISGlwME1renNpR0JzNEQ2bDV2UldQazZLNlVHVUtHMUHSAZsBQVVfeXFMUGVaZXVBOUJGdUZOQmFiMFZWRmlXaVMzYlJ2Y2VVTnhNeHcweWNJNVduby1fOE50MTA0ODVQVXRGRXZ6T3otMG8xVllJM255NGZ5NnBTVXNMMncyUWhPUGpYNjVPX3FBRVNOTzR1UWNzdHU4Ykg4NXBJYUZvZEZoTW82WVZ4aUgzUTJ6emhtLTRnOFA3blNWZzh4VGc?oc=5
 
 - Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools - BBC
   'Cockroach' party wants to fix schools
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aTDBWSXZZeXNuNW9BeUFLZHhDb0dqSkpjcW1sTGpObXpXRXVySWMyX1VENHpOVEFaUjZrd19ZZnFKNEFJNHl4NHV4bjg5M2F2TU55ZUkzQTV5UQ?oc=5
 
-- 'Proportionate response': MEA on bulldozer action outside Pakistan high commission - The Times of India
-  'Proportionate response': MEA on bulldozer
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdXppYVZUWFRDUEFKRWl4eXR5VHoyY2oycUFFUEctdndYV1NzX0xackFQY1FZdndoc1NXVm55SEFfUV9vbjJaMnctM04zcm5IYVdBRmJSTnR5d0lQWG9LMlltN3lyTkk5ejN0THR4VFZ1VS0wTTlfVXJQTXVXWHdzempxc0I3OWUyY1psWXhKajc4Rmh5dzBDaVZEOGNERjdfUXlyQ1ZrdHV6NHJReTVjS210MXdZMkZ2TnhWZmFRVFZMNzdhZFlzVjBxNEpJdEpCMUk3VU5tTzBpTUxTSVlIVdIB5gFBVV95cUxOelQtOTk3cU92Z2tCQmpmNVlzU0J2RlZPd1djamxBd25TV0ZJdEJCT2NWUTlCSkdxQVFVbk1pRE5JVUV3QlNGZVhCNGVwVXVIYy1GQnoyMWRidzhLNXpwZmNVYktkSzBBRXA0SjZOZDhnZjR4LWxhYW5aWWVaVWVScUMzalEyNnUyUEZ4dEJwZnlOdWt0Y0JTMWJqY09sRjhvMzR1OWtJYzNENTVmeEhZNFMxY3lXa1hFeFk5LXV4N3FDSVRYSS00dEgyNW56cldQODYwS1pWc1EyNVlZdXl6MG50eHhuZw?oc=5
+- PM Modi chairs third high-level meeting with Secretaries to Government of India - News On AIR
+  PM Modi chairs third high-level meeting with Secretaries to
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGZNOWdScU1PT1pLNlpmbkF6Y3hZcXBwcDItN1VpY1RxME9Db05oLVI5RVJKdzJra05vTGl0UXJ5b1pyYnl1VWxiVDJraDhZdWpoSDh2RHQzcXR0YmhRZlZIT0lVNEdIM09HVmNJVEhQM0xGM21qQUdhVXc2UU85UUJlcHI3WVdqY0JxU254NGlyZGlIa3E1NjdUNW40N1Z1ZFFCcWVJaHE?oc=5
 
-- India & Brazil sign MoU to deepen cooperation in Telecommunications & ICTs on sidelines of BRICS ICT Track Meeting - News On AIR
-  India & Brazil sign MoU to deepen cooperation in Telecommunications & ICTs on sidelines of BR
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR0RBWWNQX0dNMzR4UGNSMlU4UmtnRkRjQmhQVndwcGVBY0VqV0s0a2JtblpoemE0ZExVX1FBZ2tkQjJYZV9oT1VxMnB3TmYtd0dnb0NqamNMajFZbmZVbTVTLXJTQnlUQW04bzlMY3RSTzJWMjhTVDF1YnhVR09nNnBFb3BTQnJJZVU2ZmZ1TGZaTFRmWnc5RHBXaW5pR0wyWXAxZV9JZTd0MkVQWGFrZ2UyWXRieDRLVlVmYng3TjVjZXYzeXMxZHhBVVJzcndqZGc?oc=5
+- Accel, AVP Sell Over 1 Cr Amagi Shares In ₹587 Cr Block Deals
+  Venture capital (VC) firms Accel and AVP (formerly AXA Venture Partners) sold over 1 Cr shares of listed media SaaS&#8230.
+  🔗 https://inc42.com/buzz/accel-avp-sell-over-1-cr-amagi-shares-in-%e2%82%b9587-cr-block-deals/
 
-- India news: US envoy's Kashmir remarks reignite Pakistan row - DW.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3RiaThQbkVEZkxKSnBGWUdORV9NZ1NFMTJlbUVZaDJYZGpGeWZqdm9FN0JHT0pkTExkYlRlZDNEUmZtTlMtRVgtbExuYWxUOERPWGFZdkpRMEJKOTlIenFrdXlMSWp3WHlGYVd5RVdTa1ZhcDJEaFBvX2poRV9HczVxZ2lFVFhKWG1VbVZ2YVJ1OHlJMUVNMU53?oc=5
+- Zomato Experiments Rapid Food Delivery With Vending Machines
+  Foodtech platform Zomato has reportedly entered the rapid food delivery space with the roll out of vending machines.
+  🔗 https://inc42.com/buzz/zomato-experiments-rapid-food-delivery-with-vending-machines/
+
+- Physics Wallah’s Full-Stack Bet: Looking Into The Revenue Engine
+  For a generation of Indian students preparing for competitive exams, &#8220;Hello bacchon…&#8221; became more than a classroom greeting. It
+  🔗 https://inc42.com/features/physics-wallah-full-stack-bet-looking-into-the-revenue-engine/
+
+- Zetwerk’s IPO Test: Can Revenue Growth Outrun Its Cash Flow Pressure?
+  Bengaluru-based Zetwerk is entering the public markets with a business that looks quite different from the business for which it was founded.
+  🔗 https://inc42.com/features/zetwerks-ipo-test-can-revenue-growth-outrun-its-cash-flow-pressure/
+
+- India Can Build A Commercially Viable Space Sector For The World: PM Modi
+  India Must Build Its Space Tech Companies The Way NASA Built SpaceX. Indian Prime Minister (PM) Narendra Modi today met with founders.
+  🔗 https://inc42.com/buzz/india-can-build-a-commercially-viable-space-sector-for-the-world-pm-modi/
+
+- India Needs 20 Reforms To Become A $20 Trillion Economy By 2036: Report - NDTV
+  India Needs 20 Reforms To Become A $20 Tr
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFFPTGV1TWV2RlFZLUxzNTdtWEkxN29uVkF4d3lmelJlZkoyV1ZERUwxRUZBalNUeUVVWmhHUzhjZjF3by1RYVh5M05lUzZkT29aZm0ycHRvR2JHZWttV0dZOFdpMnlDQ2N4eEdPYUVOTmJFUGd2M29oU19sdXRGNU5oSzRXSzYwMW1MNy1XazMtR1hLSV9NQ1RPby1STnlaZHhrejZSeTUtSjR3YlF0QUYwZENyWjVKY1c5VtIBxAFBVV95cUxNcnVJN0RqNFZDZWVicFJtRWFTNDRDaElJR01ScGpEZWVkQmhhd24tMmF6LUxmNEI3STV2dzc5MDVKMnAtdkc3a3d6RWVvVElaZHZOMHRlejFJc2ZyNUNaRTB5aHhFV3hjbG9kY2tGbUtoQmZfRFRjbi10R2J0Vi1KcHE0aUhfUmRKa0M1eEozTTdZMXNIYlIwUXVXZ0NnV3RCRDluc2t3NUJORThzd1pEbUczZDh6cWRwNGY1Y2IySHJZd2dG?oc=5
+
+- India-Bangladesh Ganges talks continuing at technical level: MEA - The Economic Times
+  India-Bangladesh Ganges talks
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxPWTNzWm1MQlJFRHkyZFNtR1c0V1lSWFJXaUJkYVhLVjhtcl9Bb0FiRWpaeG9vT0E3SGMtZnlKckdhb0NDRnczdDVwWE03WU04SzdvN3hsRE1uZnlBM1pYOHl1enhEMzQyc0trT3JGSXQtNFZMNHo0RjUwSDYxODlNeWc3MjNhWTctMHBXZG9xY0dUakxuV0daSTVxSXNvY1gyakJGdDRfamNIaTVya28xemtJQng0MnoxUFpxVk9rUDFwdEpoYzFVWXFMdkVVeS1NbGptZ1RXZy16VFczcnRjYjdnQUhoU1gtR0hLajFSa1pUTEpRM2lrSW9UVjEzN2xHalZvNVB4VGdKLXpGbmhDaEVOQ2V3SzhsQ1BISmhUOVBwdDBvTGlvWWQ1a1BQRWVl0gHMAUFVX3lxTE45cF9DV0VWc2p3U0h6Vjg5c3B2Zk1nbkpUNWtGMzhsckliMUxMdldOTU15TUNmd2dtNWRxamluRjczU1ZwaFJ4amEtWmNYSFZyOHhNMURvcUx0NjB5ZFVmRUlkR1lHdWk4MmxUYXdvcnJRazU1ak9Fbkd2X3dPa01kN1QyQkxEWmtTcDV4WjBNcGJaZnhoN0NxMENJV3R3RjVnNWlZMjVJNDdwQUdCQWxPU012NWMtVDVmSzFxNEMwYW03MkRVNnFJZG11UQ?oc=5
+
+- Explained: Why Sugar Is Suddenly Getting Costlier - NDTV
+  &nbsp;&
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOa2NiTVJDZnN0Ry1wbEJsYjd4Z3F2eVdOc2w0eGJ6YXZuT1ExWlBfT0ZXaWtzRnJ6aTFpY2dpOHlVZ2MtZWVEanBNSVBJRE9wS1J5dEluVThKamRZUl9ZcTNObDMtc3hEa1l6THI5LU1FWlVISGlwME1renNpR0JzNEQ2bDV2UldQazZLNlVHVUtHMUHSAZsBQVVfeXFMUGVaZXVBOUJGdUZOQmFiMFZWRmlXaVMzYlJ2Y2VVTnhNeHcweWNJNVduby1fOE50MTA0ODVQVXRGRXZ6T3otMG8xVllJM255NGZ5NnBTVXNMMncyUWhPUGpYNjVPX3FBRVNOTzR1UWNzdHU4Ykg4NXBJYUZvZEZoTW82WVZ4aUgzUTJ6emhtLTRnOFA3blNWZzh4VGc?oc=5
+
+- Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools - BBC
+  'Cockroach' party wants to fix schools
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aTDBWSXZZeXNuNW9BeUFLZHhDb0dqSkpjcW1sTGpObXpXRXVySWMyX1VENHpOVEFaUjZrd19ZZnFKNEFJNHl4NHV4bjg5M2F2TU55ZUkzQTV5UQ?oc=5
+
+- PM Modi chairs third high-level meeting with Secretaries to Government of India - News On AIR
+  PM Modi chairs third high-level meeting with Secretaries to
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGZNOWdScU1PT1pLNlpmbkF6Y3hZcXBwcDItN1VpY1RxME9Db05oLVI5RVJKdzJra05vTGl0UXJ5b1pyYnl1VWxiVDJraDhZdWpoSDh2RHQzcXR0YmhRZlZIT0lVNEdIM09HVmNJVEhQM0xGM21qQUdhVXc2UU85UUJlcHI3WVdqY0JxU254NGlyZGlIa3E1NjdUNW40N1Z1ZFFCcWVJaHE?oc=5
+
+- India Needs 20 Reforms To Become A $20 Trillion Economy By 2036: Report - NDTV
+  India Needs 20 Reforms To Become A $20 Tr
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFFPTGV1TWV2RlFZLUxzNTdtWEkxN29uVkF4d3lmelJlZkoyV1ZERUwxRUZBalNUeUVVWmhHUzhjZjF3by1RYVh5M05lUzZkT29aZm0ycHRvR2JHZWttV0dZOFdpMnlDQ2N4eEdPYUVOTmJFUGd2M29oU19sdXRGNU5oSzRXSzYwMW1MNy1XazMtR1hLSV9NQ1RPby1STnlaZHhrejZSeTUtSjR3YlF0QUYwZENyWjVKY1c5VtIBxAFBVV95cUxNcnVJN0RqNFZDZWVicFJtRWFTNDRDaElJR01ScGpEZWVkQmhhd24tMmF6LUxmNEI3STV2dzc5MDVKMnAtdkc3a3d6RWVvVElaZHZOMHRlejFJc2ZyNUNaRTB5aHhFV3hjbG9kY2tGbUtoQmZfRFRjbi10R2J0Vi1KcHE0aUhfUmRKa0M1eEozTTdZMXNIYlIwUXVXZ0NnV3RCRDluc2t3NUJORThzd1pEbUczZDh6cWRwNGY1Y2IySHJZd2dG?oc=5
+
+- India-Bangladesh Ganges talks continuing at technical level: MEA - The Economic Times
+  India-Bangladesh Ganges talks
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxPWTNzWm1MQlJFRHkyZFNtR1c0V1lSWFJXaUJkYVhLVjhtcl9Bb0FiRWpaeG9vT0E3SGMtZnlKckdhb0NDRnczdDVwWE03WU04SzdvN3hsRE1uZnlBM1pYOHl1enhEMzQyc0trT3JGSXQtNFZMNHo0RjUwSDYxODlNeWc3MjNhWTctMHBXZG9xY0dUakxuV0daSTVxSXNvY1gyakJGdDRfamNIaTVya28xemtJQng0MnoxUFpxVk9rUDFwdEpoYzFVWXFMdkVVeS1NbGptZ1RXZy16VFczcnRjYjdnQUhoU1gtR0hLajFSa1pUTEpRM2lrSW9UVjEzN2xHalZvNVB4VGdKLXpGbmhDaEVOQ2V3SzhsQ1BISmhUOVBwdDBvTGlvWWQ1a1BQRWVl0gHMAUFVX3lxTE45cF9DV0VWc2p3U0h6Vjg5c3B2Zk1nbkpUNWtGMzhsckliMUxMdldOTU15TUNmd2dtNWRxamluRjczU1ZwaFJ4amEtWmNYSFZyOHhNMURvcUx0NjB5ZFVmRUlkR1lHdWk4MmxUYXdvcnJRazU1ak9Fbkd2X3dPa01kN1QyQkxEWmtTcDV4WjBNcGJaZnhoN0NxMENJV3R3RjVnNWlZMjVJNDdwQUdCQWxPU012NWMtVDVmSzFxNEMwYW03MkRVNnFJZG11UQ?oc=5
+
+- Explained: Why Sugar Is Suddenly Getting Costlier - NDTV
+  &nbsp;&
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOa2NiTVJDZnN0Ry1wbEJsYjd4Z3F2eVdOc2w0eGJ6YXZuT1ExWlBfT0ZXaWtzRnJ6aTFpY2dpOHlVZ2MtZWVEanBNSVBJRE9wS1J5dEluVThKamRZUl9ZcTNObDMtc3hEa1l6THI5LU1FWlVISGlwME1renNpR0JzNEQ2bDV2UldQazZLNlVHVUtHMUHSAZsBQVVfeXFMUGVaZXVBOUJGdUZOQmFiMFZWRmlXaVMzYlJ2Y2VVTnhNeHcweWNJNVduby1fOE50MTA0ODVQVXRGRXZ6T3otMG8xVllJM255NGZ5NnBTVXNMMncyUWhPUGpYNjVPX3FBRVNOTzR1UWNzdHU4Ykg4NXBJYUZvZEZoTW82WVZ4aUgzUTJ6emhtLTRnOFA3blNWZzh4VGc?oc=5
+
+- Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools - BBC
+  'Cockroach' party wants to fix schools
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aTDBWSXZZeXNuNW9BeUFLZHhDb0dqSkpjcW1sTGpObXpXRXVySWMyX1VENHpOVEFaUjZrd19ZZnFKNEFJNHl4NHV4bjg5M2F2TU55ZUkzQTV5UQ?oc=5
+
+- PM Modi chairs third high-level meeting with Secretaries to Government of India - News On AIR
+  PM Modi chairs third high-level meeting with Secretaries to
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGZNOWdScU1PT1pLNlpmbkF6Y3hZcXBwcDItN1VpY1RxME9Db05oLVI5RVJKdzJra05vTGl0UXJ5b1pyYnl1VWxiVDJraDhZdWpoSDh2RHQzcXR0YmhRZlZIT0lVNEdIM09HVmNJVEhQM0xGM21qQUdhVXc2UU85UUJlcHI3WVdqY0JxU254NGlyZGlIa3E1NjdUNW40N1Z1ZFFCcWVJaHE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-21 12:38:21 UTC_
+_Last updated: 2026-08-21 18:32:54 UTC_
