@@ -1,44 +1,32 @@
 # 📰 Daily News Summaries
 
-- "I Apologise To Indian Army": Woman In Viral 'We Are Gen Z' Video - NDTV
-  "I Apologise To Indian Army": Woman In
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHZkcURwMzVXNEpSa3QyOGtNZWdFTmNwTnlQX3dqc1BqWFNHeXI1UUJJREtIVnNzVjJ0STAxRFRaSzRFVmFteXFFYTYzSjRrYzlPaUE1VXdzTDBPV1hXWTRLY0hkd1lONFdOYnB4ZWpDVkQ4SnJwLV9tQmFfWFpnMEZPOGNUM2RCMnVwU2Y4Njdncmg4YXpRV3ZkcEpYelptVXhZ0gGrAUFVX3lxTFBnWm1jVDE2d1M4T0RJSlRFcFJhVjRRblFGdE5ndlNNWUlLeElUeVlJVUVCNnh6ZmlYaDljZlJUQ1REa1VIcmlNck1obVBMZmp4V1cxLXg2NzJSRDdwN3pQQ25CeUZGZEpQME1pbHFGODRTeGxvWjR6MmJKb1RPX1VUcUFXMy1kbWRlbElNOW9ER3haM0t1R01hN1lhV0RQZmFLS2wxVTlDd2lQMA?oc=5
+- Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram - BBC
+  India's ruling party is trying to crack the social networking site.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZ3YwOE5QeE5UQkx6TUtkcFBjVnp4a3dkUHRGUEF2eWZxc0pCUm1EUWJtZkM2amF3bk5PVWxwdEE0NUN2ZzF6LXg5amtXbjczbUhLSUJuZGFvdw?oc=5
+
+- Uncertainty Over Bangladesh PM's India Visit, Rashtrapati Bhavan Recalls Notice - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPVmhZQjNLZ0YwSHJNejhrT2N5ZHluRmU2R2drUVctNm5wcFA0YkN1SXV3aWtVY3FuVWRrSnJjM004Z2F6Z2NtcHRFLUFCa0Y3YWNLMU9MQnhoXy1XbkRTX1ZFYWZLSkVlUUQ2ZEJKV2JNY0QzOXY3UDA5eGl1UmQ1azRrc2dmbXduc0w3RFRnWmRRTFZRdENrVU5DMjNua1RUcU5CTk92OXczb2FiNWJaUjFXdXVXa1A3MzAwR0NCZmZ5Z2xkNjZaMExuS3hzZ9IB1gFBVV95cUxPWUQ2MnFGVEhfRUNmS1Ixb2drQWpmdTVrQ2pzMG1MdU9Ga2swVXNHYjdqZWpjb2tucy1QZm5TRGRwdDh5TWhZWkxUeTlYVWFQdWlVVm5BeFc3anZ3UUV0UFhNNDdFTUlBU3l2aF9Xd0ExR2hQQVN4NWlMRGpLM2hsOEdNVzRjMVhUWEdNV1FjY3hZSmFrWkE5Vk9teTE1TWhjR1RNTV9DRnN2M2xXOFVVaWpXQ2QzU3lBQjFBZmExWVdlSXc1UWJ0RWJOM3BnX21XT1FBQ1R3?oc=5
+
+- 'Ties must serve mutual interest': EAM Jaishankar on Bangladesh - The Times of India
+  'Ties must serve mutual interest': EAM
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQRUVvMzA0MzRMeVFTb3k0RWVSenRMakY4VGhGMlpzbWQzNmNydjZKOW9pTVFubTk2clNoMGxTajVKc0s0d0JCSy16cUxSNWlrSzd2YUVmaG5Qa0dNdkpqNlM0MVVZNDZmY3U5dnE2WV9xbkZwUHVGa0ExZEZDODVzc1lxTmc3S0ljWWduZ19qUlg5RlF5UHpMVkFOZTY4bDNFSUI0UzltTVRBOGhCLUlvSm5XMHFoNjBKVGcwTmNRQ3ZvNVFwYmZv0gHMAUFVX3lxTE1WS0xBdk81OS1hZW1tNkhIRDhBV0lYQUFwRTh0Z010eFd6aTN0cmtCMzdFcGZ5UW5vWEdaUEtnMmd3TEtKU0tqODVmT1lTVi1FbFZyRmNRbHlMRHVSblBWZUJoNlBpMU9QQnY5S0Q5SkhCb0F5WV9oWkRuUVZfb3BHM255TVdXeEczMVRVRjJUZVRuUU9jN1BzUW5Kc3pyMEZYbWZ3cWJqdWxLRXA0N0ZLdy1qb19aS0hFVGMwdnpkY3pCdXdlQ3JpQUthSg?oc=5
 
 - Bangladesh PM's early trip to India falls through, August visit possible | India News - Hindustan Times
   Bangladesh PM's early trip to India falls through, August
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkFTbVpObmp2b05hUkVHOWVMVjlTcE9ZQkZJSFEzbU5FNDZXOXg1V0Y2T1VXcnpMQURlc05qRHMtc1ZwR21IbGlibGVPWnZpTUZKdFZ1WjM3Zy1BWUhCa1huZWRvaGN2dVRwenZMNGQtQXFLOFdSaDVWZGJrLWpIZmU2anpBZlhkWVB1NTNnNzB1bjUzeHdRUEd6ZGJLemJVYWUwQ0JQRlEzSmthY3lMQlNMNmlIUFhVY2JveXpaNUhZcTlTWl9lcFlyUnk0Nk5rWkHSAdcBQVVfeXFMUFRfSzYxU0I0a21MVkRVYy1CUW5EOTdGWnpuUnU1QUlCREVqS1lMWnJocklQWG81dE94bng3Sl9TQUpYRjItVWFaQ0Z2alpKYmZ3QlhycEdsZ01uZzN5Q2JDSDdWR2pibkJVcVE2N0hfYkZfbml6RDRNNWdFdFJSS2ZObzBFQ1pzQ0pUeXkwVnQ1U05SUDRuN1VtZ1Y3empac0h0QmNObU83aE9DNU9FUEZ4MVdvMGtFU1Q5TzQ1cTd0MXVxUFVSQzNPUFllWnh2YnowMG83MFk?oc=5
 
-- Raids Across J&K's 5 Districts In Cross-Border Terror Conspiracy Case - NDTV
-  Raids Across J&amp;K
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnF6R1Y0em5KX25oVWJtcmxyUnYxUzZoSEl1N1BJdmdqSG8xX2F1X2lCdjF3RVNreFlVME1aQ0lkbGRzd1I2UGYxMFdCbEpGNWFJclZaa3pFeUdlbXZxNExaYm1iTEdORUs4QUVzbklBa0xfazN1cGpZVUFlNnNNS2U4aWl3WVJkbXhLMFIzOTVOSDhrZm9vTVE3YmFxbG5ZVXR5al9WNzVDZ3VCci02bEQ0bFRHWVRUY0FXTDhGalDSAcgBQVVfeXFMTkdZRUlYN2FMdkxESXZJTngyTXRNQUQ4RllpQVNyeUljcmdJTjBiMjFUWUxKUTNvMGJHYUNFckpyZFk3RmxtMk1nTUdORTJkRTEyci1OODZsY2xXRzFMeVl3WlRBSGdfTXRNRThCOGZuenJENjkzcVdpc2tDRTVmNVhpeEpmYm9HSFdXbVZraDlNblkydENKRE05alZHd3BYY3pCZFA5aExsUVhsRFlRN25hdG9xNmI3c1B1RTcyd3AxSWFMYktuT3o?oc=5
+- Singapore-Bound Cargo Ship With 24 Crew Members Sinks Off Odisha Coast - NDTV
+  Singapore-Bound Cargo Ship With 24 Crew
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNRk5iN3Q4clBCcnZlUVg4cFY3NHBFV2RKWGpzczJOTlNzM0RfS3JsUjRfT0ZsMlUtSEJxNWFDdXVhU05ITERZRFNiTE9JT0YxWnlZQ3BuVVlnTzA2amlsRUhLVXR5bHJJUUdQdWRFTW9UWnJUZ0w0bXVGOVlVX2FBY3VBMHpBYTJkR2Z0MXJqY29BVG91WG1VR3BQMm5GcnNCWkVzdXBKYU1LbVhR0gG0AUFVX3lxTE54WVl1YkRYSHZhaS1mdEc1N1FUb1dPa3NPZ3pLalg4MWhZYm1neF96MnFNdmZKR0JaSHJPVXh1QUFqZ2Z6eldDYVpxOWIzbEt4WnZNLXlYSGUxQUhKWU9IVFJuR3FNbWpqMG1ySXhNd0N2czJyMTBFN053OU0xRzU0QVZxTlJ0TTFDTUEydldPNmpIUTRFWmVYdXRraXA2MHlHbnVFMkltYzFWUWktMXdVcWtYaw?oc=5
 
-- "GIFT City Is India's International Financial Centre": HSBC's Sandeep Batra To NDTV - NDTV
-  "GIFT City Is India's International Financial Centre
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGVNdk84NUZCcFNjekphOEtEeFBtSHc4el9heDdiLVBCMU1hQ2UtMzFkWVBVSTZ2cEVHNGdxZmdKcXBobWVudGF3M0pqX1kxNzQwYlh5ak9nSUxvVnVXSkJ2ZXNIRER1LWZSeGNDRWI1aklLVHZfaHpmcTZ2UkFIWTQxMWZRS3FTN3FCSHhROWFoZTBva3dXckVwZTRTSkFuZTZvUWsxcS1acXZKMXhTYlNsbmthRm5TdEJpQkpYV2pwUVJWSE9relVDUllNR0w2WUFr0gHbAUFVX3lxTE03WE9lbmRmeGcwX09IOGdlZGh5WDlYNkpfMDJCLVlBdU9PZlJKc2pjNnpTcE5FWVFLOUQ5aWZaZF95X05OVjU3NVU3MGg0QTVlSXE2aXFiQTNhR1FkenN4TGtod3FBM1A1ZERTb1pseTFtdGNBLXdpcW0wWHV5MThkeFVBY3JVZVliWlJJUGVkc09tR0U3czUwVWY1cEtySDVrUGxqOEF6MW1WSWdpdFQxU09RMDNKWnNCcGpXYVhOS2lycXREdzFLRW9uUDFVTExVdkhzaWlLVWV4VQ?oc=5
+- Paramount and California to hold preliminary talks on Monday over Warner Bros deal: Report
+  California Attorney General Rob Bonta and 11 other state attorneys general filed a lawsuit in July seeking
+  🔗 https://www.livemint.com/companies/news/paramount-and-california-to-hold-preliminary-talks-on-monday-over-warner-bros-deal-report-11787444046114.html
 
-- Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram - BBC
-  India's ruling party is trying to crack the social networking site.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZ3YwOE5QeE5UQkx6TUtkcFBjVnp4a3dkUHRGUEF2eWZxc0pCUm1EUWJtZkM2amF3bk5PVWxwdEE0NUN2ZzF6LXg5amtXbjczbUhLSUJuZGFvdw?oc=5
-
-- SK hynix’s technology roadmap for co-packaged optics features in ‘Nature Electronics,’ as AI competition shifts from chips to systems - SK hynix
-  SK hynix’s technology roadmap for co-packaged optics features in �
-  🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JQkVPNFB5aVdSRWoxN0p2NHdNQklDUEIwYjhIejhESzdKdldtQ0RZeG52OWxzdjB0Njk5c0xXTXMyclFNTW40c1cwb3FoTUV0X0REN28yR0ZFWlJkcjN0ZTBlN3M?oc=5
-
-- Space technology expansion will provide more job opportunities for youngsters, says expert - The Hindu
-  Space technology expansion will provide more job opportunities, says expert
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOU5EZHlVaHFES3VuY2FQR3M2a0dnTklLZW52VTdNeDd6ZmJsdW42ZU0yNDZoSXptX1hWYzc2cWlKQU1CcUNWV0ZPQUlVbEtfT0dyYzQ5alRicFFvRnc1OXBDbTJseW1kQXNNbk04TWNHekNwUVdkdWtIMU45Nm1kTGRyOHpyWTZ0TFpzNkpwMXc1c1RBb2dXX0FQMGEwbEc5Sjk1RDMtZldub1JRZkRWRWV1QnFqM0hxc0FKMi0xX1RSNXNoUGNpUmpDS25lTnBQVkdNcVN5SHc1NDVFRHk1YmloZDhJaEo1dGhGd2FUZmtnQTU2YWfSAfwBQVVfeXFMT2FnLVAyenZ5b0tqWEwyMUpLVmNBZ21OVWRFejRTYXFpS2pnaHJEYnE1WDZPR1BxYmoyYUd3aUptN3RoaEZyb1RhYm1rMDZSTDlkVjN1em1OX2JyM08tMXFtV1RRSi03V2ZKTnc3Ujg4azNBbGphZHZuTlVUM0dHMVNiMEFqV2JuTWYwaHRSeUVVVWxTRWtnRFJTZkZiRFlOekxmNTNZSkRzcGRMclJwS1AzeXNnRmlxNzJBUTFCNmxkSW1fOE9BbDV5SDJhWkltd2ZwQkloMDJVZ2VjY1lwWU1PWFRyMDUwZ28xMnhxeFhtXzk3RU1uQjZKUXBt?oc=5
-
-- Digital Technology, Meaning, Uses, Benefits, Challenges in India - Vajiram & Ravi
-  Vajiram & Ravi
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBxcjFWemFnSGFZbVZDNS1VRXBhejhyT19hN3R1ekw2UVZ6WDZLQl85bFR6a25oSUFtUDZnbmwwM1NueWJNY3RBRThCdlJwQ0xpMXpmd2xfQVoyX25pUUtMMVZVRU9XdlUybWtNYWV3TQ?oc=5
-
-- ‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs - The Guardian
-  Hollywood creatives are training AI to do their jobs.
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU41dWFiSTBtUllrMDA4VHZPUkVnU1VScGRVUmhvU2IwWl91eURsMFFuNFVXRGF6OVZFX0h6VF9NZTNjOHR3b1FfcHpWMFJ5VjNoUHR2c21UZjdsM2tuR19yMXJPN0daUTE5RE9jUnFzSlYtX193cklPdE9FLXB4RzFsUE42LVJYREUyUWJOdHZfako3bV9SMWhSNEtyN2JNYllqWVpn?oc=5
-
-- TISS Announces New School of Analytics; Check Curriculum and UG, PG Programme Details - Telegraph India
-  TISS Announces New School of Analytics; Check Curric
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNFd3U1VlRTd6T19OZzFxSDRsbmxiaTdWdGV1S1NIWjFnTWNQdzdKTGhxX0YxV3NNbFFlZzdJRDFDbGFOZnJOMFFNYlBpdWR2dlZsX2Z5WG9UTEtibUdJV3FyODNuNTRCdGljM3BNZy1tcWhqR3hMbFN6OW9HX0FiUGJmOHo0VTZLbkxpQlpUZU8zN0ZOSkZPX3FBVnN5SmdXTDh5UGRtT2hKQUl6TldRdlhkUDRWdGZDWm9jNlJsTnJ6NTkzSmo3U1B1ZklJNEVY0gHWAUFVX3lxTE5ya19hQ1lpTkRTdzFybzhmQjJvbHJoOTNsZFhYTnhnS3dkTWdzMVJrc2ZKM09WTjFCVW1DWnRUZ1dXaUROTzNxSGtiMmtYTkVCWElNNllhNzFoeEI4c2hsSlJQMDRiZ1ZaTGNqQVFLUWFsT084T1JYeHFLaEFuTC1xZ2Z0NnV3R2tmbk4wVy01WXBTU0tuQXRjWnlreWY1cTNXNkYyVG9DNzRPNlBybS1FZGJxZkVjb0ZQRHBZNkxUQ1pPTF9FQ3JKYk9JN0RLTG9aeDk0OGc?oc=5
+- Trump Stock Disclosure Shows More Than 1,000 Trades in June
+  President Donald Trump made more than 1,000 securities trades in June. He made significant purchases of Berkshire Hathaway Inc., Visa Inc.,
+  🔗 https://www.livemint.com/companies/trump-stock-disclosure-shows-more-than-1-000-trades-in-june-11787436079488.html
 
 - Broadcom eyes $80 billion debt deal to fuel Anthropic’s AI chip ambitions
   Broadcom is in talks to raise up to $80 billion in debt to finance AI chips and computing
@@ -52,13 +40,13 @@
   The Securities Appellate Tribunal stayed a Sebi order to debar ZEEL for two months and its CEO Punit Go
   🔗 https://www.livemint.com/companies/news/zee-entertainment-allots-20-94-crore-warrants-to-promoter-entity-sunbright-mauritius-at-rs-126-each-11787404066328.html
 
-- Anthropic IPO faces AI, data centre backlash: Can it still beat SpaceX record?
-  As the Claude maker prepares to enter the public markets, it will also have to confront a less flattering reality: growing opposition to artificial intelligence.
-  🔗 https://www.livemint.com/companies/news/anthropic-ipo-faces-ai-data-centre-backlash-can-it-still-beat-spacex-record-11787390267883.html
+- MCX gold rallies for fifth straight week; gains  ₹19,000 per 10 grams in August
+  MCX gold prices in India rose for the fifth week. Gold's August gains reached 13%, supported by a declining U.S. dollar.
+  🔗 https://www.livemint.com/market/commodities/mcx-gold-rallies-for-fifth-straight-week-gains-rs-19-000-per-10-grams-in-august-11787380646821.html
 
-- Disney to drop health insurance for spouses with employer coverage from 2027: What about other dependents?
-  Disney will reportedly limit health insurance for some US employees' spouses starting next year. Spouses with their own employer-provided insurance will be excluded from Disney's plans
-  🔗 https://www.livemint.com/companies/news/disney-to-drop-health-insurance-for-spouses-with-employer-coverage-from-2027-what-about-other-dependents-11787388577766.html
+- Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout
+  A historic stock selloff has driven South Korea’s retail investors toward complex structured products.
+  🔗 https://www.livemint.com/market/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout-11787444779474.html
 
 - SIPs stay above  ₹30,000 crore: Equity mutual funds smash record as assets hit  ₹48.5 lakh crore
   Equity mutual fund assets rose to a fresh record of  ₹48.5 lakh crore in July. Active equity schemes continued to grow strongly.
@@ -71,14 +59,6 @@
 - IPO GMPs: Skyways IPO, Symbiotec Pharmalab IPO to Lumino Industries IPO —what grey market premium signals?
   Upcoming IPOs include Symbiotec Pharmalab, Hy-Tech Engineers, and Skyways Air, each opening for subscription from 24 August. Prices range from  �
   🔗 https://www.livemint.com/market/ipo/ipo-gmps-skyways-ipo-symbiotec-pharmalab-ipo-to-lumino-industries-ipo-what-grey-market-premium-signals-11787211771064.html
-
-- Luxury Sales Plunge in China as Tax Push Hits Rich Shoppers
-  Luxury brands are facing a deepening sales slump in China. China’s campaign to tax offshore wealth sends ripples from stock markets to casino
-  🔗 https://www.livemint.com/market/luxury-sales-plunge-in-china-as-tax-push-hits-rich-shoppers-11787382434070.html
-
-- Gaja Alternative IPO: Focus shifts to allotment date; latest GMP, 6 steps to check status
-  Gaja Alternative IPO allotment will be finalised on 24 August. Investors can check their allotment status on the MUFG Intime India portal.
-  🔗 https://www.livemint.com/market/ipo/gaja-alternative-ipo-focus-shifts-to-allotment-date-latest-gmp-6-steps-to-check-status-11787380024927.html
 
 - MacBooks, iPads to be made in India? Ashwini Vaishnaw hints at Apple’s wider manufacturing plans beyond iPhones
   Ashwini Vaishnaw hinted that Apple may expand manufacturing in India to include MacBooks and iPads. The announcement coincides with the launch of a  ₹
@@ -100,26 +80,6 @@
   AI-led volumes could outweigh revenue pressure from automation by FY30, CLSA says.
   🔗 https://www.livemint.com/technology/ai-volumes-may-outweigh-revenue-deflation-for-it-sector-by-fy30-report-11787386080208.html
 
-- Six investors reveal the biggest market risks — and one strategy they agree on - CNBC
-  Six investors reveal the biggest market risks — and one strategy they
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVVOVmM1RDEwbVJta1cxQXctLXR6cGI5VGhRZjRKWHVIWWFoTzlOTGFzRWI4a3MwbkctMzdHUVpfM0V5bmdqN25oWjREWW5nWFROdnhScVJENHpDVjQwSEd3MXFjemFEZEs2cV95bkI3Z01vclQ1djRpMWw1R3laZzZxSUFjcEdmdjJFZ0VLVEkzQdIBlwFBVV95cUxOclo0VHlaamFYUzFiR3l6RGgwQnhIbS1XTzJwQU1hc3ZrQm1pLVBsRzdyNG5jQUxfV2ZYNVpGeVE5a0wzcmU0RUhWdWJnZDFrM2NvclBPZ1VXX1JwNWpIaU9xaDcwMjVOYnhWdU9rVVRLSzg0NXNzenRPZzlDMDBoa0dkMnpPU0JaWWdLNmEyTTNGMmNuUjFR?oc=5
-
-- Markets News, Aug. 21, 2026: US Indexes Close Higher But Post Weekly Losses; Treasury Yields Edge Upward - Investopedia
-  The Dow Jones Industrial Average and the S&P 500 closed at record highs
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1RGYjEyZDNIbzJOdnJoVU1wQkdWX21uMDZDYTUwdVg5NVpvOU1Pa2F1bDlTcmN3M2xuSVJpeDh1TFhlMTRBLXBNQ3J1ajBoakFiRmxoWnBiOUtGUDlEOTFWX2xJNEY0ZHZ1di1FX3NhanlQeXdVeU1ndHlfYWR4dk5jN09hRG1vZHYtRDJxY3U?oc=5
-
-- Dow surges 500 points Friday, but index posts back-to-back weekly losses - CNBC
-  Dow surges 500 points Friday, but index
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMDV4Q2s0QVVHMXFPY2w4RjUxY0Juakx6aGs4NUh0WloyV0lkUElnMkdUUEhUV1ZCNFQ3YUxfYXRTY3Z3b2JCVVJwdTZpSDFhMGplRVplZUhTNUtmbC14dnF3TlZQbzIwbU51YmliSmczdXNaZm1n0gF8QVVfeXFMTXlQWDhxZW1wNDI5b2hyTFFGLXh5M2h5YVdaanoyTmw5R0cyRkZvcG5Nd2ZMUUNGa3NMczF0dFN0cThNU1M1R0dCbFlEajhWb1BiVU14bldkdllIQm1xNDY3RWRiYjdFRVhyelctcklYUldpMkplT29kUW9kNA?oc=5
-
-- Stocks Bounce at End of Wild Week as Bitcoin Jumps: Markets Wrap - Bloomberg.com
-  Stocks Bounce at End of Wild Week as Bitcoin
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGs3R29oXzVEVlA0bHFwajZ0cjhDQmFGNnZqbDYwcEFtcmdxM2NvWFBXMTNXN19xcW9kVDZPMnlFNWdGMkh2WHpydVlIOHhBcTZnUnlxc0lXSVRwYVczS0tyanBnNnQtRXlqYTRBaWZVSVFibEtPMWdrMEhfbVVfVnRSRmVOSGJQNFZOQjBtZEpPcUND?oc=5
-
-- FX Market Analysis: Central bank policy & currency trends (Aug 17-21, 2026) - marketpulse.com
-  FX Market Analysis: Central bank policy & currency trends
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm5yYjNiMV9xOUJxckhnN3NRUUVqYTRrYVEybUo1TTFuUnRSaWdOb2JaOXAxOThhX25Ubl9TNFpuM05wMGg2RHN3R0EtaWdHMHIwY3RuSnlMdTQ0MXd5WnFlV09WQWNIcEtrT2JfUFhCc3AxU2V4WmlFcDVOSjJXU29GS3BldWRoeXVvMGN0OWdrZw?oc=5
-
 - Sebi proposes tighter curbs on promotional claims by online bond platforms
   Sebi is tightening the reins on advertising practices for online bond platforms. Terms such as 'fixed returns' must be accompanied by explicit risk disclaimers.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-tighter-curbs-on-promotional-claims-by-online-bond-platforms/articleshow/133424265.cms
@@ -140,25 +100,25 @@
   BSE’s new Closing Auction Session has faced weak participation. Thin liquidity is creating a self-reinforcing cycle. Early confusion, retail concerns and alleged CAS manipulation have intensified scrutiny of the
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-triggers-liquidity-spiral-nuvama-says-higher-participation-needed-to-break-cycle/articleshow/133421238.cms
 
-- "I Apologise To Indian Army": Woman In Viral 'We Are Gen Z' Video - NDTV
-  "I Apologise To Indian Army": Woman In
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHZkcURwMzVXNEpSa3QyOGtNZWdFTmNwTnlQX3dqc1BqWFNHeXI1UUJJREtIVnNzVjJ0STAxRFRaSzRFVmFteXFFYTYzSjRrYzlPaUE1VXdzTDBPV1hXWTRLY0hkd1lONFdOYnB4ZWpDVkQ4SnJwLV9tQmFfWFpnMEZPOGNUM2RCMnVwU2Y4Njdncmg4YXpRV3ZkcEpYelptVXhZ0gGrAUFVX3lxTFBnWm1jVDE2d1M4T0RJSlRFcFJhVjRRblFGdE5ndlNNWUlLeElUeVlJVUVCNnh6ZmlYaDljZlJUQ1REa1VIcmlNck1obVBMZmp4V1cxLXg2NzJSRDdwN3pQQ25CeUZGZEpQME1pbHFGODRTeGxvWjR6MmJKb1RPX1VUcUFXMy1kbWRlbElNOW9ER3haM0t1R01hN1lhV0RQZmFLS2wxVTlDd2lQMA?oc=5
+- Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram - BBC
+  India's ruling party is trying to crack the social networking site.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZ3YwOE5QeE5UQkx6TUtkcFBjVnp4a3dkUHRGUEF2eWZxc0pCUm1EUWJtZkM2amF3bk5PVWxwdEE0NUN2ZzF6LXg5amtXbjczbUhLSUJuZGFvdw?oc=5
+
+- Uncertainty Over Bangladesh PM's India Visit, Rashtrapati Bhavan Recalls Notice - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPVmhZQjNLZ0YwSHJNejhrT2N5ZHluRmU2R2drUVctNm5wcFA0YkN1SXV3aWtVY3FuVWRrSnJjM004Z2F6Z2NtcHRFLUFCa0Y3YWNLMU9MQnhoXy1XbkRTX1ZFYWZLSkVlUUQ2ZEJKV2JNY0QzOXY3UDA5eGl1UmQ1azRrc2dmbXduc0w3RFRnWmRRTFZRdENrVU5DMjNua1RUcU5CTk92OXczb2FiNWJaUjFXdXVXa1A3MzAwR0NCZmZ5Z2xkNjZaMExuS3hzZ9IB1gFBVV95cUxPWUQ2MnFGVEhfRUNmS1Ixb2drQWpmdTVrQ2pzMG1MdU9Ga2swVXNHYjdqZWpjb2tucy1QZm5TRGRwdDh5TWhZWkxUeTlYVWFQdWlVVm5BeFc3anZ3UUV0UFhNNDdFTUlBU3l2aF9Xd0ExR2hQQVN4NWlMRGpLM2hsOEdNVzRjMVhUWEdNV1FjY3hZSmFrWkE5Vk9teTE1TWhjR1RNTV9DRnN2M2xXOFVVaWpXQ2QzU3lBQjFBZmExWVdlSXc1UWJ0RWJOM3BnX21XT1FBQ1R3?oc=5
+
+- 'Ties must serve mutual interest': EAM Jaishankar on Bangladesh - The Times of India
+  'Ties must serve mutual interest': EAM
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQRUVvMzA0MzRMeVFTb3k0RWVSenRMakY4VGhGMlpzbWQzNmNydjZKOW9pTVFubTk2clNoMGxTajVKc0s0d0JCSy16cUxSNWlrSzd2YUVmaG5Qa0dNdkpqNlM0MVVZNDZmY3U5dnE2WV9xbkZwUHVGa0ExZEZDODVzc1lxTmc3S0ljWWduZ19qUlg5RlF5UHpMVkFOZTY4bDNFSUI0UzltTVRBOGhCLUlvSm5XMHFoNjBKVGcwTmNRQ3ZvNVFwYmZv0gHMAUFVX3lxTE1WS0xBdk81OS1hZW1tNkhIRDhBV0lYQUFwRTh0Z010eFd6aTN0cmtCMzdFcGZ5UW5vWEdaUEtnMmd3TEtKU0tqODVmT1lTVi1FbFZyRmNRbHlMRHVSblBWZUJoNlBpMU9QQnY5S0Q5SkhCb0F5WV9oWkRuUVZfb3BHM255TVdXeEczMVRVRjJUZVRuUU9jN1BzUW5Kc3pyMEZYbWZ3cWJqdWxLRXA0N0ZLdy1qb19aS0hFVGMwdnpkY3pCdXdlQ3JpQUthSg?oc=5
 
 - Bangladesh PM's early trip to India falls through, August visit possible | India News - Hindustan Times
   Bangladesh PM's early trip to India falls through, August
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkFTbVpObmp2b05hUkVHOWVMVjlTcE9ZQkZJSFEzbU5FNDZXOXg1V0Y2T1VXcnpMQURlc05qRHMtc1ZwR21IbGlibGVPWnZpTUZKdFZ1WjM3Zy1BWUhCa1huZWRvaGN2dVRwenZMNGQtQXFLOFdSaDVWZGJrLWpIZmU2anpBZlhkWVB1NTNnNzB1bjUzeHdRUEd6ZGJLemJVYWUwQ0JQRlEzSmthY3lMQlNMNmlIUFhVY2JveXpaNUhZcTlTWl9lcFlyUnk0Nk5rWkHSAdcBQVVfeXFMUFRfSzYxU0I0a21MVkRVYy1CUW5EOTdGWnpuUnU1QUlCREVqS1lMWnJocklQWG81dE94bng3Sl9TQUpYRjItVWFaQ0Z2alpKYmZ3QlhycEdsZ01uZzN5Q2JDSDdWR2pibkJVcVE2N0hfYkZfbml6RDRNNWdFdFJSS2ZObzBFQ1pzQ0pUeXkwVnQ1U05SUDRuN1VtZ1Y3empac0h0QmNObU83aE9DNU9FUEZ4MVdvMGtFU1Q5TzQ1cTd0MXVxUFVSQzNPUFllWnh2YnowMG83MFk?oc=5
 
-- Raids Across J&K's 5 Districts In Cross-Border Terror Conspiracy Case - NDTV
-  Raids Across J&amp;K
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnF6R1Y0em5KX25oVWJtcmxyUnYxUzZoSEl1N1BJdmdqSG8xX2F1X2lCdjF3RVNreFlVME1aQ0lkbGRzd1I2UGYxMFdCbEpGNWFJclZaa3pFeUdlbXZxNExaYm1iTEdORUs4QUVzbklBa0xfazN1cGpZVUFlNnNNS2U4aWl3WVJkbXhLMFIzOTVOSDhrZm9vTVE3YmFxbG5ZVXR5al9WNzVDZ3VCci02bEQ0bFRHWVRUY0FXTDhGalDSAcgBQVVfeXFMTkdZRUlYN2FMdkxESXZJTngyTXRNQUQ4RllpQVNyeUljcmdJTjBiMjFUWUxKUTNvMGJHYUNFckpyZFk3RmxtMk1nTUdORTJkRTEyci1OODZsY2xXRzFMeVl3WlRBSGdfTXRNRThCOGZuenJENjkzcVdpc2tDRTVmNVhpeEpmYm9HSFdXbVZraDlNblkydENKRE05alZHd3BYY3pCZFA5aExsUVhsRFlRN25hdG9xNmI3c1B1RTcyd3AxSWFMYktuT3o?oc=5
-
-- "GIFT City Is India's International Financial Centre": HSBC's Sandeep Batra To NDTV - NDTV
-  "GIFT City Is India's International Financial Centre
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGVNdk84NUZCcFNjekphOEtEeFBtSHc4el9heDdiLVBCMU1hQ2UtMzFkWVBVSTZ2cEVHNGdxZmdKcXBobWVudGF3M0pqX1kxNzQwYlh5ak9nSUxvVnVXSkJ2ZXNIRER1LWZSeGNDRWI1aklLVHZfaHpmcTZ2UkFIWTQxMWZRS3FTN3FCSHhROWFoZTBva3dXckVwZTRTSkFuZTZvUWsxcS1acXZKMXhTYlNsbmthRm5TdEJpQkpYV2pwUVJWSE9relVDUllNR0w2WUFr0gHbAUFVX3lxTE03WE9lbmRmeGcwX09IOGdlZGh5WDlYNkpfMDJCLVlBdU9PZlJKc2pjNnpTcE5FWVFLOUQ5aWZaZF95X05OVjU3NVU3MGg0QTVlSXE2aXFiQTNhR1FkenN4TGtod3FBM1A1ZERTb1pseTFtdGNBLXdpcW0wWHV5MThkeFVBY3JVZVliWlJJUGVkc09tR0U3czUwVWY1cEtySDVrUGxqOEF6MW1WSWdpdFQxU09RMDNKWnNCcGpXYVhOS2lycXREdzFLRW9uUDFVTExVdkhzaWlLVWV4VQ?oc=5
-
-- Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram - BBC
-  India's ruling party is trying to crack the social networking site.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZ3YwOE5QeE5UQkx6TUtkcFBjVnp4a3dkUHRGUEF2eWZxc0pCUm1EUWJtZkM2amF3bk5PVWxwdEE0NUN2ZzF6LXg5amtXbjczbUhLSUJuZGFvdw?oc=5
+- Singapore-Bound Cargo Ship With 24 Crew Members Sinks Off Odisha Coast - NDTV
+  Singapore-Bound Cargo Ship With 24 Crew
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNRk5iN3Q4clBCcnZlUVg4cFY3NHBFV2RKWGpzczJOTlNzM0RfS3JsUjRfT0ZsMlUtSEJxNWFDdXVhU05ITERZRFNiTE9JT0YxWnlZQ3BuVVlnTzA2amlsRUhLVXR5bHJJUUdQdWRFTW9UWnJUZ0w0bXVGOVlVX2FBY3VBMHpBYTJkR2Z0MXJqY29BVG91WG1VR3BQMm5GcnNCWkVzdXBKYU1LbVhR0gG0AUFVX3lxTE54WVl1YkRYSHZhaS1mdEc1N1FUb1dPa3NPZ3pLalg4MWhZYm1neF96MnFNdmZKR0JaSHJPVXh1QUFqZ2Z6eldDYVpxOWIzbEt4WnZNLXlYSGUxQUhKWU9IVFJuR3FNbWpqMG1ySXhNd0N2czJyMTBFN053OU0xRzU0QVZxTlJ0TTFDTUEydldPNmpIUTRFWmVYdXRraXA2MHlHbnVFMkltYzFWUWktMXdVcWtYaw?oc=5
 
 - FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
   The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
@@ -180,45 +140,45 @@
   The CBI has registered an FIR against Gensol Engineering and BluSmart founders Anmol Singh Jaggi and Puneet.
   🔗 https://inc42.com/buzz/from-loan-diversion-to-forged-letters-cbi-books-blusmart-founders-in-%e2%82%b9672-cr-ireda-case/
 
-- "I Apologise To Indian Army": Woman In Viral 'We Are Gen Z' Video - NDTV
-  "I Apologise To Indian Army": Woman In
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHZkcURwMzVXNEpSa3QyOGtNZWdFTmNwTnlQX3dqc1BqWFNHeXI1UUJJREtIVnNzVjJ0STAxRFRaSzRFVmFteXFFYTYzSjRrYzlPaUE1VXdzTDBPV1hXWTRLY0hkd1lONFdOYnB4ZWpDVkQ4SnJwLV9tQmFfWFpnMEZPOGNUM2RCMnVwU2Y4Njdncmg4YXpRV3ZkcEpYelptVXhZ0gGrAUFVX3lxTFBnWm1jVDE2d1M4T0RJSlRFcFJhVjRRblFGdE5ndlNNWUlLeElUeVlJVUVCNnh6ZmlYaDljZlJUQ1REa1VIcmlNck1obVBMZmp4V1cxLXg2NzJSRDdwN3pQQ25CeUZGZEpQME1pbHFGODRTeGxvWjR6MmJKb1RPX1VUcUFXMy1kbWRlbElNOW9ER3haM0t1R01hN1lhV0RQZmFLS2wxVTlDd2lQMA?oc=5
+- Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram - BBC
+  India's ruling party is trying to crack the social networking site.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZ3YwOE5QeE5UQkx6TUtkcFBjVnp4a3dkUHRGUEF2eWZxc0pCUm1EUWJtZkM2amF3bk5PVWxwdEE0NUN2ZzF6LXg5amtXbjczbUhLSUJuZGFvdw?oc=5
+
+- Uncertainty Over Bangladesh PM's India Visit, Rashtrapati Bhavan Recalls Notice - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPVmhZQjNLZ0YwSHJNejhrT2N5ZHluRmU2R2drUVctNm5wcFA0YkN1SXV3aWtVY3FuVWRrSnJjM004Z2F6Z2NtcHRFLUFCa0Y3YWNLMU9MQnhoXy1XbkRTX1ZFYWZLSkVlUUQ2ZEJKV2JNY0QzOXY3UDA5eGl1UmQ1azRrc2dmbXduc0w3RFRnWmRRTFZRdENrVU5DMjNua1RUcU5CTk92OXczb2FiNWJaUjFXdXVXa1A3MzAwR0NCZmZ5Z2xkNjZaMExuS3hzZ9IB1gFBVV95cUxPWUQ2MnFGVEhfRUNmS1Ixb2drQWpmdTVrQ2pzMG1MdU9Ga2swVXNHYjdqZWpjb2tucy1QZm5TRGRwdDh5TWhZWkxUeTlYVWFQdWlVVm5BeFc3anZ3UUV0UFhNNDdFTUlBU3l2aF9Xd0ExR2hQQVN4NWlMRGpLM2hsOEdNVzRjMVhUWEdNV1FjY3hZSmFrWkE5Vk9teTE1TWhjR1RNTV9DRnN2M2xXOFVVaWpXQ2QzU3lBQjFBZmExWVdlSXc1UWJ0RWJOM3BnX21XT1FBQ1R3?oc=5
+
+- 'Ties must serve mutual interest': EAM Jaishankar on Bangladesh - The Times of India
+  'Ties must serve mutual interest': EAM
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQRUVvMzA0MzRMeVFTb3k0RWVSenRMakY4VGhGMlpzbWQzNmNydjZKOW9pTVFubTk2clNoMGxTajVKc0s0d0JCSy16cUxSNWlrSzd2YUVmaG5Qa0dNdkpqNlM0MVVZNDZmY3U5dnE2WV9xbkZwUHVGa0ExZEZDODVzc1lxTmc3S0ljWWduZ19qUlg5RlF5UHpMVkFOZTY4bDNFSUI0UzltTVRBOGhCLUlvSm5XMHFoNjBKVGcwTmNRQ3ZvNVFwYmZv0gHMAUFVX3lxTE1WS0xBdk81OS1hZW1tNkhIRDhBV0lYQUFwRTh0Z010eFd6aTN0cmtCMzdFcGZ5UW5vWEdaUEtnMmd3TEtKU0tqODVmT1lTVi1FbFZyRmNRbHlMRHVSblBWZUJoNlBpMU9QQnY5S0Q5SkhCb0F5WV9oWkRuUVZfb3BHM255TVdXeEczMVRVRjJUZVRuUU9jN1BzUW5Kc3pyMEZYbWZ3cWJqdWxLRXA0N0ZLdy1qb19aS0hFVGMwdnpkY3pCdXdlQ3JpQUthSg?oc=5
 
 - Bangladesh PM's early trip to India falls through, August visit possible | India News - Hindustan Times
   Bangladesh PM's early trip to India falls through, August
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkFTbVpObmp2b05hUkVHOWVMVjlTcE9ZQkZJSFEzbU5FNDZXOXg1V0Y2T1VXcnpMQURlc05qRHMtc1ZwR21IbGlibGVPWnZpTUZKdFZ1WjM3Zy1BWUhCa1huZWRvaGN2dVRwenZMNGQtQXFLOFdSaDVWZGJrLWpIZmU2anpBZlhkWVB1NTNnNzB1bjUzeHdRUEd6ZGJLemJVYWUwQ0JQRlEzSmthY3lMQlNMNmlIUFhVY2JveXpaNUhZcTlTWl9lcFlyUnk0Nk5rWkHSAdcBQVVfeXFMUFRfSzYxU0I0a21MVkRVYy1CUW5EOTdGWnpuUnU1QUlCREVqS1lMWnJocklQWG81dE94bng3Sl9TQUpYRjItVWFaQ0Z2alpKYmZ3QlhycEdsZ01uZzN5Q2JDSDdWR2pibkJVcVE2N0hfYkZfbml6RDRNNWdFdFJSS2ZObzBFQ1pzQ0pUeXkwVnQ1U05SUDRuN1VtZ1Y3empac0h0QmNObU83aE9DNU9FUEZ4MVdvMGtFU1Q5TzQ1cTd0MXVxUFVSQzNPUFllWnh2YnowMG83MFk?oc=5
 
-- Raids Across J&K's 5 Districts In Cross-Border Terror Conspiracy Case - NDTV
-  Raids Across J&amp;K
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnF6R1Y0em5KX25oVWJtcmxyUnYxUzZoSEl1N1BJdmdqSG8xX2F1X2lCdjF3RVNreFlVME1aQ0lkbGRzd1I2UGYxMFdCbEpGNWFJclZaa3pFeUdlbXZxNExaYm1iTEdORUs4QUVzbklBa0xfazN1cGpZVUFlNnNNS2U4aWl3WVJkbXhLMFIzOTVOSDhrZm9vTVE3YmFxbG5ZVXR5al9WNzVDZ3VCci02bEQ0bFRHWVRUY0FXTDhGalDSAcgBQVVfeXFMTkdZRUlYN2FMdkxESXZJTngyTXRNQUQ4RllpQVNyeUljcmdJTjBiMjFUWUxKUTNvMGJHYUNFckpyZFk3RmxtMk1nTUdORTJkRTEyci1OODZsY2xXRzFMeVl3WlRBSGdfTXRNRThCOGZuenJENjkzcVdpc2tDRTVmNVhpeEpmYm9HSFdXbVZraDlNblkydENKRE05alZHd3BYY3pCZFA5aExsUVhsRFlRN25hdG9xNmI3c1B1RTcyd3AxSWFMYktuT3o?oc=5
-
-- "GIFT City Is India's International Financial Centre": HSBC's Sandeep Batra To NDTV - NDTV
-  "GIFT City Is India's International Financial Centre
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGVNdk84NUZCcFNjekphOEtEeFBtSHc4el9heDdiLVBCMU1hQ2UtMzFkWVBVSTZ2cEVHNGdxZmdKcXBobWVudGF3M0pqX1kxNzQwYlh5ak9nSUxvVnVXSkJ2ZXNIRER1LWZSeGNDRWI1aklLVHZfaHpmcTZ2UkFIWTQxMWZRS3FTN3FCSHhROWFoZTBva3dXckVwZTRTSkFuZTZvUWsxcS1acXZKMXhTYlNsbmthRm5TdEJpQkpYV2pwUVJWSE9relVDUllNR0w2WUFr0gHbAUFVX3lxTE03WE9lbmRmeGcwX09IOGdlZGh5WDlYNkpfMDJCLVlBdU9PZlJKc2pjNnpTcE5FWVFLOUQ5aWZaZF95X05OVjU3NVU3MGg0QTVlSXE2aXFiQTNhR1FkenN4TGtod3FBM1A1ZERTb1pseTFtdGNBLXdpcW0wWHV5MThkeFVBY3JVZVliWlJJUGVkc09tR0U3czUwVWY1cEtySDVrUGxqOEF6MW1WSWdpdFQxU09RMDNKWnNCcGpXYVhOS2lycXREdzFLRW9uUDFVTExVdkhzaWlLVWV4VQ?oc=5
+- Singapore-Bound Cargo Ship With 24 Crew Members Sinks Off Odisha Coast - NDTV
+  Singapore-Bound Cargo Ship With 24 Crew
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNRk5iN3Q4clBCcnZlUVg4cFY3NHBFV2RKWGpzczJOTlNzM0RfS3JsUjRfT0ZsMlUtSEJxNWFDdXVhU05ITERZRFNiTE9JT0YxWnlZQ3BuVVlnTzA2amlsRUhLVXR5bHJJUUdQdWRFTW9UWnJUZ0w0bXVGOVlVX2FBY3VBMHpBYTJkR2Z0MXJqY29BVG91WG1VR3BQMm5GcnNCWkVzdXBKYU1LbVhR0gG0AUFVX3lxTE54WVl1YkRYSHZhaS1mdEc1N1FUb1dPa3NPZ3pLalg4MWhZYm1neF96MnFNdmZKR0JaSHJPVXh1QUFqZ2Z6eldDYVpxOWIzbEt4WnZNLXlYSGUxQUhKWU9IVFJuR3FNbWpqMG1ySXhNd0N2czJyMTBFN053OU0xRzU0QVZxTlJ0TTFDTUEydldPNmpIUTRFWmVYdXRraXA2MHlHbnVFMkltYzFWUWktMXdVcWtYaw?oc=5
 
 - Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram - BBC
   India's ruling party is trying to crack the social networking site.
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZ3YwOE5QeE5UQkx6TUtkcFBjVnp4a3dkUHRGUEF2eWZxc0pCUm1EUWJtZkM2amF3bk5PVWxwdEE0NUN2ZzF6LXg5amtXbjczbUhLSUJuZGFvdw?oc=5
 
-- "I Apologise To Indian Army": Woman In Viral 'We Are Gen Z' Video - NDTV
-  "I Apologise To Indian Army": Woman In
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHZkcURwMzVXNEpSa3QyOGtNZWdFTmNwTnlQX3dqc1BqWFNHeXI1UUJJREtIVnNzVjJ0STAxRFRaSzRFVmFteXFFYTYzSjRrYzlPaUE1VXdzTDBPV1hXWTRLY0hkd1lONFdOYnB4ZWpDVkQ4SnJwLV9tQmFfWFpnMEZPOGNUM2RCMnVwU2Y4Njdncmg4YXpRV3ZkcEpYelptVXhZ0gGrAUFVX3lxTFBnWm1jVDE2d1M4T0RJSlRFcFJhVjRRblFGdE5ndlNNWUlLeElUeVlJVUVCNnh6ZmlYaDljZlJUQ1REa1VIcmlNck1obVBMZmp4V1cxLXg2NzJSRDdwN3pQQ25CeUZGZEpQME1pbHFGODRTeGxvWjR6MmJKb1RPX1VUcUFXMy1kbWRlbElNOW9ER3haM0t1R01hN1lhV0RQZmFLS2wxVTlDd2lQMA?oc=5
+- Uncertainty Over Bangladesh PM's India Visit, Rashtrapati Bhavan Recalls Notice - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPVmhZQjNLZ0YwSHJNejhrT2N5ZHluRmU2R2drUVctNm5wcFA0YkN1SXV3aWtVY3FuVWRrSnJjM004Z2F6Z2NtcHRFLUFCa0Y3YWNLMU9MQnhoXy1XbkRTX1ZFYWZLSkVlUUQ2ZEJKV2JNY0QzOXY3UDA5eGl1UmQ1azRrc2dmbXduc0w3RFRnWmRRTFZRdENrVU5DMjNua1RUcU5CTk92OXczb2FiNWJaUjFXdXVXa1A3MzAwR0NCZmZ5Z2xkNjZaMExuS3hzZ9IB1gFBVV95cUxPWUQ2MnFGVEhfRUNmS1Ixb2drQWpmdTVrQ2pzMG1MdU9Ga2swVXNHYjdqZWpjb2tucy1QZm5TRGRwdDh5TWhZWkxUeTlYVWFQdWlVVm5BeFc3anZ3UUV0UFhNNDdFTUlBU3l2aF9Xd0ExR2hQQVN4NWlMRGpLM2hsOEdNVzRjMVhUWEdNV1FjY3hZSmFrWkE5Vk9teTE1TWhjR1RNTV9DRnN2M2xXOFVVaWpXQ2QzU3lBQjFBZmExWVdlSXc1UWJ0RWJOM3BnX21XT1FBQ1R3?oc=5
+
+- 'Ties must serve mutual interest': EAM Jaishankar on Bangladesh - The Times of India
+  'Ties must serve mutual interest': EAM
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQRUVvMzA0MzRMeVFTb3k0RWVSenRMakY4VGhGMlpzbWQzNmNydjZKOW9pTVFubTk2clNoMGxTajVKc0s0d0JCSy16cUxSNWlrSzd2YUVmaG5Qa0dNdkpqNlM0MVVZNDZmY3U5dnE2WV9xbkZwUHVGa0ExZEZDODVzc1lxTmc3S0ljWWduZ19qUlg5RlF5UHpMVkFOZTY4bDNFSUI0UzltTVRBOGhCLUlvSm5XMHFoNjBKVGcwTmNRQ3ZvNVFwYmZv0gHMAUFVX3lxTE1WS0xBdk81OS1hZW1tNkhIRDhBV0lYQUFwRTh0Z010eFd6aTN0cmtCMzdFcGZ5UW5vWEdaUEtnMmd3TEtKU0tqODVmT1lTVi1FbFZyRmNRbHlMRHVSblBWZUJoNlBpMU9QQnY5S0Q5SkhCb0F5WV9oWkRuUVZfb3BHM255TVdXeEczMVRVRjJUZVRuUU9jN1BzUW5Kc3pyMEZYbWZ3cWJqdWxLRXA0N0ZLdy1qb19aS0hFVGMwdnpkY3pCdXdlQ3JpQUthSg?oc=5
 
 - Bangladesh PM's early trip to India falls through, August visit possible | India News - Hindustan Times
   Bangladesh PM's early trip to India falls through, August
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkFTbVpObmp2b05hUkVHOWVMVjlTcE9ZQkZJSFEzbU5FNDZXOXg1V0Y2T1VXcnpMQURlc05qRHMtc1ZwR21IbGlibGVPWnZpTUZKdFZ1WjM3Zy1BWUhCa1huZWRvaGN2dVRwenZMNGQtQXFLOFdSaDVWZGJrLWpIZmU2anpBZlhkWVB1NTNnNzB1bjUzeHdRUEd6ZGJLemJVYWUwQ0JQRlEzSmthY3lMQlNMNmlIUFhVY2JveXpaNUhZcTlTWl9lcFlyUnk0Nk5rWkHSAdcBQVVfeXFMUFRfSzYxU0I0a21MVkRVYy1CUW5EOTdGWnpuUnU1QUlCREVqS1lMWnJocklQWG81dE94bng3Sl9TQUpYRjItVWFaQ0Z2alpKYmZ3QlhycEdsZ01uZzN5Q2JDSDdWR2pibkJVcVE2N0hfYkZfbml6RDRNNWdFdFJSS2ZObzBFQ1pzQ0pUeXkwVnQ1U05SUDRuN1VtZ1Y3empac0h0QmNObU83aE9DNU9FUEZ4MVdvMGtFU1Q5TzQ1cTd0MXVxUFVSQzNPUFllWnh2YnowMG83MFk?oc=5
 
-- Raids Across J&K's 5 Districts In Cross-Border Terror Conspiracy Case - NDTV
-  Raids Across J&amp;K
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnF6R1Y0em5KX25oVWJtcmxyUnYxUzZoSEl1N1BJdmdqSG8xX2F1X2lCdjF3RVNreFlVME1aQ0lkbGRzd1I2UGYxMFdCbEpGNWFJclZaa3pFeUdlbXZxNExaYm1iTEdORUs4QUVzbklBa0xfazN1cGpZVUFlNnNNS2U4aWl3WVJkbXhLMFIzOTVOSDhrZm9vTVE3YmFxbG5ZVXR5al9WNzVDZ3VCci02bEQ0bFRHWVRUY0FXTDhGalDSAcgBQVVfeXFMTkdZRUlYN2FMdkxESXZJTngyTXRNQUQ4RllpQVNyeUljcmdJTjBiMjFUWUxKUTNvMGJHYUNFckpyZFk3RmxtMk1nTUdORTJkRTEyci1OODZsY2xXRzFMeVl3WlRBSGdfTXRNRThCOGZuenJENjkzcVdpc2tDRTVmNVhpeEpmYm9HSFdXbVZraDlNblkydENKRE05alZHd3BYY3pCZFA5aExsUVhsRFlRN25hdG9xNmI3c1B1RTcyd3AxSWFMYktuT3o?oc=5
-
-- "GIFT City Is India's International Financial Centre": HSBC's Sandeep Batra To NDTV - NDTV
-  "GIFT City Is India's International Financial Centre
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGVNdk84NUZCcFNjekphOEtEeFBtSHc4el9heDdiLVBCMU1hQ2UtMzFkWVBVSTZ2cEVHNGdxZmdKcXBobWVudGF3M0pqX1kxNzQwYlh5ak9nSUxvVnVXSkJ2ZXNIRER1LWZSeGNDRWI1aklLVHZfaHpmcTZ2UkFIWTQxMWZRS3FTN3FCSHhROWFoZTBva3dXckVwZTRTSkFuZTZvUWsxcS1acXZKMXhTYlNsbmthRm5TdEJpQkpYV2pwUVJWSE9relVDUllNR0w2WUFr0gHbAUFVX3lxTE03WE9lbmRmeGcwX09IOGdlZGh5WDlYNkpfMDJCLVlBdU9PZlJKc2pjNnpTcE5FWVFLOUQ5aWZaZF95X05OVjU3NVU3MGg0QTVlSXE2aXFiQTNhR1FkenN4TGtod3FBM1A1ZERTb1pseTFtdGNBLXdpcW0wWHV5MThkeFVBY3JVZVliWlJJUGVkc09tR0U3czUwVWY1cEtySDVrUGxqOEF6MW1WSWdpdFQxU09RMDNKWnNCcGpXYVhOS2lycXREdzFLRW9uUDFVTExVdkhzaWlLVWV4VQ?oc=5
-
-- Gen Z: India's BJP mastered WhatsApp and X. Now it is trying to crack Instagram - BBC
-  India's ruling party is trying to crack the social networking site.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZ3YwOE5QeE5UQkx6TUtkcFBjVnp4a3dkUHRGUEF2eWZxc0pCUm1EUWJtZkM2amF3bk5PVWxwdEE0NUN2ZzF6LXg5amtXbjczbUhLSUJuZGFvdw?oc=5
+- Singapore-Bound Cargo Ship With 24 Crew Members Sinks Off Odisha Coast - NDTV
+  Singapore-Bound Cargo Ship With 24 Crew
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNRk5iN3Q4clBCcnZlUVg4cFY3NHBFV2RKWGpzczJOTlNzM0RfS3JsUjRfT0ZsMlUtSEJxNWFDdXVhU05ITERZRFNiTE9JT0YxWnlZQ3BuVVlnTzA2amlsRUhLVXR5bHJJUUdQdWRFTW9UWnJUZ0w0bXVGOVlVX2FBY3VBMHpBYTJkR2Z0MXJqY29BVG91WG1VR3BQMm5GcnNCWkVzdXBKYU1LbVhR0gG0AUFVX3lxTE54WVl1YkRYSHZhaS1mdEc1N1FUb1dPa3NPZ3pLalg4MWhZYm1neF96MnFNdmZKR0JaSHJPVXh1QUFqZ2Z6eldDYVpxOWIzbEt4WnZNLXlYSGUxQUhKWU9IVFJuR3FNbWpqMG1ySXhNd0N2czJyMTBFN053OU0xRzU0QVZxTlJ0TTFDTUEydldPNmpIUTRFWmVYdXRraXA2MHlHbnVFMkltYzFWUWktMXdVcWtYaw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-22 18:25:27 UTC_
+_Last updated: 2026-08-23 01:02:57 UTC_
