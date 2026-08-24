@@ -1,28 +1,24 @@
 # 📰 Daily News Summaries
 
+- 'Represented India In 3 Nations': Ex-Envoy After Details Don't Match In SIR - NDTV
+  'Represented India In 3 Nations': Ex-
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVItVk00YkNQUUphMVRCSU1kMHM4MWRuWENqeGtkbEpYWDNpcHRwckViaDhNZDZzdjJ0M2lHclU3WHlXWkNwU2UzWVZTMGdNVVc2cEJqQjVrT25SYWZsdWxOTnVPNjd4UHlMaGtpeklOdlBvcDZfMFNSZTVURk9zSkZ4dXF2UEMwNGtFZS1iNGxSaEtJX2FzbWF5SFJUSEQtUl9nUGNqUzF2MkQ1MFYzLU5sNGx0d0JlRERWd3NmT19wV03SAcsBQVVfeXFMTlE3OUtkMC1SeVVSVUlUNHIwSG9Gb3NmZE1oaUxuWDFHTjVnLWJTWW5COG1pa21mQ3d0UW5MMmJQRzJkeE16Z19scWpSY3F4Z1NmX3h0b0h4RG1aTlhNakdiSWQ0ekg2RWdxMkEwRnZLQ0VhZHhXV3NteWZzOUFNaU1UcWlFRUVEcmFwejRFdmdrU3l6RkctN0JKRm55MlFiQUp2d2JBVTFZVFFQZmNNbkUzTjVHX0IwRE9tU3ZpTi1FVVYzMkh1Qi1laG8?oc=5
+
+- ‘Represented India in 3 nations’: Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’ | India News - Hindustan Times
+  Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNV9pVXNjSFJXMlJRUE5Pd0RfZEx0Q1dwMWUtQVY1VkZ2bmhXS2RWdF95RXVOTno1RmVyclJIQmdlSUhZUUZlcUpTczcwOExHcHRzSDkxLXhSVF9mVk9CakNJNFJ3QUxSMF9mMUt0N2szLTBxUUZLS3VpcDBSYldpeURubUZ6Q3hncGNheWhhU2ZqM1pxZTMtbUtqWVB5VkplWlVwN2xDa3pnVkNOU0JsU0EyV1ItRWxiYXpwZWJYdHdHaEN6d3NvUGs2bWNzU3R0dlVxTm8zb255d1Q3ZzRjVjMyODM2TFpiWF9YT2t4VG9Qb1kwOWQzZ9IB_gFBVV95cUxQdTFyRUR2TjNnU1FpNUpocldXSDcwajFDWVdrYXk5NVFCanZ1dFR0U3JpcE5NcGhzQ2ZEWGJldW9mTzVMSUg1SjZsWXEzNGtqdWkzeUxCMGRzVTJ6QXNJbHd2MkUtRnVDQmtUNHZEdFR3bG5EaVh2YkdPeTAybVNFbkVDTE1RajBXcFRXMkFsZWRJTy1aWVByNmpWclI0dEZicGdRRzNNcWpCQ3NoTUFkM0g5MGxjNzVTQ0lDbHpad1JBR3RIUzVYU01qXzExSGgtSkZJb25iXzN6NjN2cEwzTjRTb1lmYV9lN3UzLVFhSmJka1pUU2pNQktUUnpxUQ?oc=5
+
+- Former diplomat Navdeep Suri flags 'trouble establishing citizenship' in Punjab SIR despite serving India... - Moneycontrol.com
+  Former diplomat Navdeep Suri flags 'trouble establishing
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPalI5RVg5XzhoUVRvNW9BbTdjUndOZTVNX3NjVFJWYTFYWkRxMGV2dmFhRUFIeWlHNldzd3VGZWJ1NmFiUGNRZjJzX09EVmprV0p1NThiMWZIQnA4V0ZPUzY2MzE1V0RRbVZyaE8wTnFBX3AtWDJSLWJQUUNVcnNidzlVRVhoNTJwZndLY2VtMG1ZdTJ3TnpIZkNoU0M5VXpvT2V0S1NtaC1KeUE3LVVfV1VvM1U3WEs3TFZ0OEpianBFVUFKck02X0ZLNi1Yd21kVFQ3Y21fX0UwODJVNm1WX2VkYVlBSjdwdHZGWGVaR0k5RGxhZWdR0gH8AUFVX3lxTFBkMkJ6VGhZVDZaVGFzaFNVNW13V0d6bkZ6ajZPTk9YXy1tMlBkem83eEV3ZkNUZWdPWldrNllVUi11ZWd4RXJEQXdKSGNfa3dBeUE0YWNVWmdmR3BEa0tyM1NRcnMycmZTQkFVWV8wVml4SV9tTUhnbjFBd01HeEpQdWtFNEVybDUzdEdqRU1oSkkwLVJSMUYxSDRwSUpWR3JwMlJtaVhINVg2TUtKQ2J0T1laemU1cU9yT2VTWUJ6UWJTQUJ2Y01iT04ySHNTWlY1NmM0cmFoOHFhMm1uNmdRVFRJT3hKN3N3ZjlfVjhQQi1SQkZ3eGJpS1FEZw?oc=5
+
 - Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor | India News - Hindustan Times
   The US president-elect held 45-min presser with PM Modi at G7 summit.
   🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOYkxTM1J6WEoxTXA3S0prNWJuVWFaT1ZXOHZaV19kYnhPSkJuWV9aSnJqOVR2ZjBTWEJ3Q2F0VUFLRWVPX3loUXB1OTkxeGpmNGFoT29QNUR2MVBBc0dORnBCb0hJUmJZOXM0NGNPN2pFZDZNMzN1VWlOLTAyaUJFZW9zeFlqcklEdVROUmdUcmZOVURZUWZDanVZUE9fNXNHRVNZbkFsUzhtSF9OWHl1OXJBdTExVU1JYVRTU3k5NXJCWFZOWnp2Q3BGYlluY2pReWhxVXBtdVltSEQyTzJqQmgwYmYyWFNXUzNFc0Y3WlkwMmM2cng4eFFQT2lWTWFtdm1B0gGIAkFVX3lxTFB1N1pCelhKazB1X2dlV1hkZmM2YmxjY0NyUElyUjJJc3p6WGZuTXRmOGd5dGtuRloyWllVX3kzZjFCSkdzSG1WWUZMUWk5aFJpQy1kZUJzODQ5U2x0MTVMME9zX01kODI1bkQwN0ZsbXJ4OUtNeW1MRWFpdHhMcm9QTmYxSGlZYVI2STAxNl9XZXpwZmJUblkwWlZ6a29aNkxyZENqOXNLWWxVSFhnX2lmNXZXVFRYdkZuTXJQUTVlTi1KclRQMENjZU5rYmVGNUFBRTFRek5kQ2Frb0w3cExGSHYzaUlZYnR0NTJ4TE50NVRFQVQwV2xodm1pdE1jckh4MmZYcHJ0VQ?oc=5
 
-- India Needs 20 Reforms To Become A $20 Trillion Economy By 2036: Report - NDTV
-  India Needs 20 Reforms To Become A $20 Tr
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFFPTGV1TWV2RlFZLUxzNTdtWEkxN29uVkF4d3lmelJlZkoyV1ZERUwxRUZBalNUeUVVWmhHUzhjZjF3by1RYVh5M05lUzZkT29aZm0ycHRvR2JHZWttV0dZOFdpMnlDQ2N4eEdPYUVOTmJFUGd2M29oU19sdXRGNU5oSzRXSzYwMW1MNy1XazMtR1hLSV9NQ1RPby1STnlaZHhrejZSeTUtSjR3YlF0QUYwZENyWjVKY1c5VtIBxAFBVV95cUxNcnVJN0RqNFZDZWVicFJtRWFTNDRDaElJR01ScGpEZWVkQmhhd24tMmF6LUxmNEI3STV2dzc5MDVKMnAtdkc3a3d6RWVvVElaZHZOMHRlejFJc2ZyNUNaRTB5aHhFV3hjbG9kY2tGbUtoQmZfRFRjbi10R2J0Vi1KcHE0aUhfUmRKa0M1eEozTTdZMXNIYlIwUXVXZ0NnV3RCRDluc2t3NUJORThzd1pEbUczZDh6cWRwNGY1Y2IySHJZd2dG?oc=5
-
-- Amit Shah to attend national security strategies conference in Delhi - The Times of India
-  Amit Shah to attend national security strategies conference in Delhi
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2gxNm10SWY0NTNCMnpfSmNpR25pVkQyQXNEMG1RYU5oMkMtRXpFTXNiWUsyUEtXcW1iXzVqZzBrcWxpbm9iUGI5VW90cVR5WXVmMU9TcXhGNXRKTHJnbU5EOWVmTThpTWw5SXltMHM1VHdfSXcxMkZMMTdNeV84M1FSMW1yMWI3X09QdWU3b0R3aUhwVHdVaWxUZi0yNi1nSUdiV2FxNHpZNFVuUzhNNVlOeGZEZmFIc3BOeXVzQnRJY2VmYWs3YkxDWXhZVjZxOVHSAdcBQVVfeXFMUHIzVXAtYS1oQnBlMm5LY0E3d3dibjNRcnlHQzgwNElvZGFfNS0zcFJaeGQtVHBrem10YlFkQ0UyXzMzTWdSVlNOaEZWME1XQnJBbmdXNlhBel9DbmdFWHBubExIMzU1ekhJclJCLUpmb05Ub01oUHN1aW9XU2phd0c5YUdSQzJsdnhRQkl6Zk1kdGctdzZtd0VudjdQcVF1M0djSHlhX2E3OExnb0J1ODQtS3otYWNLQW1IZEJMZDRwYy1Wb2JQTXRJeF9YWWx3ZXFRNDdvaUU?oc=5
-
-- Spain Visa Fraud Probe Expands To Indian Firm BLS After Officials Arrested: Report - NDTV
-  Spain Visa Fraud Probe Expands To Indian Firm BLS
-  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxQRHlETjVJV3I2THl2MGZ4ZWZzYm9yVmJqSW5FUXR0NzVHS1ZzYkpFVFZ1eVRnbDdISi0yOFI4WGxxWExERDJMREFBZjRMUDBIZEVnSWVBVXhlSHJxdHRTU19aYWRyZVRDeUI3TWFfZEotbG9WamtmMXFIWlVjNHUtR0JhTDN3b3FIZXZTVEZzRERHZ0xpUlZ0X3VUblFaSm83cDQwRlN0TmxoQTk1X3ZSUlpNUGQxcDdXaGxGQTlXeUhFZUZlWk9ocV9vR0NTNlNBTmNNbHM5QkdXMTZwbTIwb2x4SFozbmVkY0N0bWdJakd4Y3pZMTEtLVk2b0VXZFlfSGRQV19zeXcxTTc1MDF2M3JXd1NGcGxmWGJzZU9HbnNxR2JJOWdobdIBqAJBVV95cUxQRHlETjVJV3I2THl2MGZ4ZWZzYm9yVmJqSW5FUXR0NzVHS1ZzYkpFVFZ1eVRnbDdISi0yOFI4WGxxWExERDJMREFBZjRMUDBIZEVnSWVBVXhlSHJxdHRTU19aYWRyZVRDeUI3TWFfZEotbG9WamtmMXFIWlVjNHUtR0JhTDN3b3FIZXZTVEZzRERHZ0xpUlZ0X3VUblFaSm83cDQwRlN0TmxoQTk1X3ZSUlpNUGQxcDdXaGxGQTlXeUhFZUZlWk9ocV9vR0NTNlNBTmNNbHM5QkdXMTZwbTIwb2x4SFozbmVkY0N0bWdJakd4Y3pZMTEtLVk2b0VXZFlfSGRQV19zeXcxTTc1MDF2M3JXd1NGcGxmWGJzZU9HbnNxR2JJOWdobQ?oc=5
-
-- Indian national shot dead by unidentified man in New York City - The Hindu
-  Indian national shot dead by unidentified man in New York
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0dMbEVNS3lUdGlDamZqMGhVRl90S2twQTZESXpfVnh4LURtWVkyc3Y3Q2ROZGhYRkNKd3M0OERCME9OYzZlSFc4c0I1LXd3cVNaSExENVoycldJYTlzQnVJTHRuWEdwSDE3c0hIV3FncGV6ZXBYYTVHdFJkVGczSlJmMklXdDBBeHJNMThTdzBCNy1TNTJXLUpiLWpydHQzZnN0NVhyaWZHWnJULTZhNDlYV0pVS2JaaE5zV1owMDB1MWI20gHLAUFVX3lxTE1PRUhKd1gwMUNWdlpOeE5WQ0g4VjhXRTIwU1NLWnVnUktGTVBhMVpvZGpUUXVtT1FvbkNVOHNERWdhd1AzVy1kX3BmRjl4VXczVXBjVGJlcjgtb3FXbl8wcTkzOF83MFhFNDBIQWdYaFVvaUpZVFNhMkkyY0RVTHJodHFLRjAtR0xEVWhlcVNhV083dDBjRWxQQXFuUGw2YXJENFNBb1N1REZsM2QwTUpCbkN2X2tPOEV0Tk9jUHljZDVxa0I5ZnVPYVpr?oc=5
-
-- Microsoft to all the students wondering whether it still is worth learning how to code, the answer is: No - The Times of India
-  Microsoft to all the students wondering whether it still is worth learning how to code, the answer is:
-  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxQaG5DRDItekNOVnQwMlNDb1F3V2RsLVJhVjJMQW9VN1RvTWx1ZTdtdDZMVmhCanRKWFdNQzhXYnVYVk5GMmRUN3FvNTdPMDlNNGlpUzY3aVpPUXV5ZEFYakdDZ2ZQNWQ0UGwxeGEweHZtaW5QaWVIaXc5ZmxJMjRvY2g3NGR6dGhET1pzMVlrd19ZMW5BWDIteHM2cVR0SFNoYzN2bXRZa1g1dWpyNXhkcHF3MG9Lem5jNHhxWU9GdlA4QVVjRVh4ODZ6T01kWmRoZlJrM2E3bHJOQnZDNHlPQnhSLVg2OGNYT0tvbUVrR0l1MlFlU3BmRmExNVZwQzg4VkdmYUJ6b3V4c1BRUDU5cXAtTFZnd9IBmwJBVV95cUxPLVQ1QjFOa3VMS0k2Rkp4LVN4cngyQWtZWXNTYkxoeEJXcHA0bUFYMVZydzJXTmZ3aThGbTE5Tm52QUs2Y3VZNFYwM3NqbjBjdEpfeTY0NWRtaTNjSC05UWxvMzctM3FYR3I1a1pzczhkclgwdHpmQ0Uzbm9JaHd0ZXdBazZNVTN5eHhRNmhGb0FvTUwtQ1hLTmxWMi00Y2tKTHhtMkpHVm5NZnhFSTQwdldCRXdQMUJNeUFWSHkxc1RXaDNUV3lsdWxHV1hqOEI1dnlyaEQ0RDluQUpRVnhxcmRMZ2N0QUhiLU9aamJ5MXRvaEgza2NPeHdQcW91dGlSaWlJUkgyV0xBbUhUSGxrNENZV3AxRnFBSzhB?oc=5
+- ET World Leaders Forum: Trust-based reforms transformed India’s middle class, says PM Modi - The Economic Times
+  The Economic Times: Trust-based reforms transformed India’s
+  🔗 https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQVNseWJYc0RfcGZPNGFreU12ck91eE00bVgyQ3FMdWM3M3RaSjN6YmltbVhJeHhmVGRiR1ZLWE50RjFoOGZQNkloWWJTTWkwXzhSUEJBWTJxSXNrYjBya1BKRVJjdzdLQTNWWnQxeHIwRHlkQkpJMmlKSGladG10eXFwVi04S01ERUFORFI4aHUtcGd4UHpIaFpSamZGSGo5Q2FaeXZKS1NKMGtkYkh0YlJTdm1Qem81VDBRU2RGS3JSMEhuNTZmYlQ4Ym5QNXU5eXRVN3VRVnR5WkdpdnZyWEIxcHlfNGhiRk5aaDVvUEd0NEU0WFhZa0wyMHZMX1JVVDBFd2d4MENUUFVRNVp0d0JRSWhPcGpVRGp1V0p1N2hzdkZUVnAtNS1OU0x4S0hCZ0FvTHRRcDJ4WmI4Rm1sN0FOOTVwWGxwZmYxTldaNEw?oc=5
 
 - Space technology expansion will provide more job opportunities for youngsters, says expert - The Hindu
   Space technology expansion will provide more job opportunities, says expert
@@ -36,49 +32,53 @@
   Vajiram & Ravi
   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBxcjFWemFnSGFZbVZDNS1VRXBhejhyT19hN3R1ekw2UVZ6WDZLQl85bFR6a25oSUFtUDZnbmwwM1NueWJNY3RBRThCdlJwQ0xpMXpmd2xfQVoyX25pUUtMMVZVRU9XdlUybWtNYWV3TQ?oc=5
 
-- Major Technology Missions in Indian Agriculture - GK Today
-  Major Technology Missions in Indian
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE1abWc0aHFnWjRXZF9rR3lzZ1VmX0pmdDE3U1QtLTV3bE1RN2FwNHk0bkNXV2xnT3JEYlRFNU5jZ0MtNnQyM1BOZVZxUXRDcDAwVDlhdXg4YVdoYTVBcElOcUlWSHFEbkYzNklWV1d0ektJTUtudG9GVkRoQQ?oc=5
+- Beijing robot games put China-US technology competition in spotlight - Fox News
+  Beijing robot games put China-US
+  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JN1c3OE9lbHpfNm1WTC1sMWVYV3JILVJKOTlWY1l6QkZVZ2l6ZWtqVklNOWNxMjFSQkNZNVdial9fMnVOQjJoRzlJNTRsa3FzQVpadThB?oc=5
 
-- Volkswagen to cut jobs? CEO Oliver Blume warns employees carmaker's situation ‘more than critical’
-  Volkswagen CEO Oliver Blume warned employees the carmaker's position is ‘more than critical’ Blume said the German car industry is facing �
-  🔗 https://www.livemint.com/companies/news/volkswagen-job-cuts-ceo-oliver-blume-warns-employees-carmaker-situation-more-than-critical-auto-industry-headwinds-china-11787504795293.html
+- Kaynes Technology signs MoU with China’s Bosgame to launch computing products in India; stock to be in focus on Monday - Upstox
+  Kaynes Technology signs MoU with China’s Bosgame to launch computing products in
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTHlpaGhTdDZrR1MxbHN4bWdscjE5Yi1lTlBRdUZ3SXp0TzdXcDB1MGNMc1BJSnZzSkxwMjgwZHBtdXRvSGtpcFU0MGUzaURaV1hKNUhZRWtwaWt0aXdWd0hZQ3JlZ3k5T3RTYXFwS1U4WUczTXc2ZWY0bEFvLThZdFhnWkwydWNpWTNneVlWLTI4LWVMLW5IanR5Y0ZOcEV2SFBOMTE0bkI0QzROd25SdWlZb1BDaUx5REZLUUtVdUlVLWk3YXh2WVJxNHppNE9kRlIxYWJaeGh1UFViN0lzUVBiME15b0pHT2N4SjRFeGN2Z3ZUWHM2NU1hak1FallFQjk3QWY3Qnc?oc=5
 
-- AI creates more jobs than it cuts in India, but freshers are losing out, says report
-  The shift towards AI is not always resulting in large-scale job cuts. Instead, many companies
-  🔗 https://www.livemint.com/companies/news/ai-creates-more-jobs-than-it-cuts-in-india-but-freshers-are-losing-out-says-report-11787503778146.html
+- Gulf Oil plans to expand EV charger capacity as e-bus demand grows
+  Gulf Oil, which makes EV chargers in India through its stake in Tirex Transmission
+  🔗 https://www.livemint.com/companies/news/gulf-oil-plans-to-expand-ev-charger-capacity-as-e-bus-demand-grows-11787473385601.html
 
-- United Airlines CEO Scott Kirby eyes JFK expansion, South America routes, 737 Max 10 revamp
-  United Airlines CEO Scott Kirby outlines plans to expand at JFK, add global routes and tackle 737 Max
-  🔗 https://www.livemint.com/companies/news/united-airlines-ceo-scott-kirby-eyes-jfk-expansion-south-america-routes-737-max-10-revamp-11787497003763.html
+- Now, GCC cost calculators to help firms take swifter calls
+  Online calculators can produce rough cost estimates in minutes, cutting into a process that once took months of consulting work.
+  🔗 https://www.livemint.com/companies/gcc-advisory-firms-cost-calculators-ai-consultancy-big-four-11787479968180.html
 
-- Urban Company sues Kent in Delhi HC over 'unsafe', 'risky' Native purifier claims; RO firm to withdraw ads
-  Urban Company has sued Kent RO in the Delhi High Court over ads calling its Native water purifiers unsafe and risky. Kent told the court it would remove the disputed ads
-  🔗 https://www.livemint.com/companies/urban-company-sues-kent-in-delhi-hc-over-unsafe-risky-native-purifier-claims-ro-firm-to-withdraw-ads-11787502676703.html
+- Singhania family-owned JK Tyre wants to go acquisition hunting again after turnaround wins
+  JK Tyre plans  ₹6,000 crore of organic expansion and seeks growth in premium, EV and export
+  🔗 https://www.livemint.com/companies/singhania-family-owned-jk-tyre-wants-to-go-acquisition-hunting-again-after-turnaround-wins-11787478998025.html
 
-- Grasim eyes  ₹2 lakh crore revenue in FY27 as growth platforms scale up: KM Birla
-  Grasim Industries set to reach a consolidated revenue of  ₹2 lakh crore in FY27, nearly double the level five years ago. Chairman KM Birla
-  🔗 https://www.livemint.com/companies/news/grasim-eyes-rs-2-lakh-crore-revenue-in-fy27-as-growth-platforms-diversified-portfolio-scale-up-kumar-mangalam-km-birla-11787500761228.html
+- DP World wants longer contracts at its five terminals, to invest $700-800 mn more, says CEO Yuvraj Narayan
+  Dubai-based logistics major DP World is eyeing a bigger play in India. It is lining up $700-800 million in investments, bids for new
+  🔗 https://www.livemint.com/companies/dp-world-india-bet-new-ports-700-800-million-investment-long-term-jvs-global-ceo-yuvraj-narayan-interview-11787474386391.html
 
-- Alphabet out, Netflix in: Bill Ackman exits major stocks, reworks Pershing Square's portfolio — Here's what has changed
-  Billionaire fund manager Bill Ackman has made major changes to his investment fund Pershing Square's portfolio this
-  🔗 https://www.livemint.com/market/stock-market-news/bill-ackman-exit-major-stocks-alphabet-umg-sp-global-netflix-visa-mastercard-alcon-pershing-square-fund-portfolio-change-11787491499652.html
+- Brown-Forman Family Members Rebuked Company’s Management
+  Brown-Forman Corp. announced it had terminated discussions to combine with spirits group Pernod Ricard SA. Two members of the family that controls the owner of Jack
+  🔗 https://www.livemint.com/companies/brownforman-family-members-rebuked-company-s-management-11787518603396.html
 
-- Best Coffee Will Be Harder to Get as Downpours Hit Brazil’s Trees
-  Coffee crops in Brazil have been hit by a wave of heavy downpours. Getting hold of the best ar
-  🔗 https://www.livemint.com/market/best-coffee-will-be-harder-to-get-as-downpours-hit-brazil-s-trees-11787484613213.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today —24 August 2026
+  Sumeet Bagadia recommends five breakout stocks to buy today. Hindustan Zinc, Netweb Technologies India, Icici Prudential Life
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-24-august-2026-11787531638864.html
 
-- What stocks did Trump buy and sell in June? Meta, Berkshire, Palantir among disclosures worth up to $263.1 million
-  President Donald Trump made up to $263.1 million worth of stock transactions in August. Meta, Berkshire Hathaway
-  🔗 https://www.livemint.com/market/stock-market-news/donald-trump-buy-sell-stocks-meta-vanguard-fidelity-berkshire-hathaway-palantir-visa-august-disclosures-upto-263-million-11787476797556.html
+- Gold hits over three-month high ahead of US inflation data, Fed chair speech
+  Gold hits over three-month high ahead
+  🔗 https://www.livemint.com/market/gold-hits-over-three-month-high-ahead-of-us-inflation-data-fed-chair-speech-11787532550012.html
 
-- Expert View: If earnings are rising, why are markets still nervous?
-  The biggest challenge is the sharp rise in energy prices, which can drag the performance of Q2-
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-if-earnings-are-rising-why-are-markets-still-nervous-11787479316156.html
+- Shares flat in Asia before Iran sanctions news, Nvidia results
+  Shares flat in Asia before Iran
+  🔗 https://www.livemint.com/market/shares-flat-in-asia-before-iran-sanctions-news-nvidia-results-11787532489714.html
 
-- Upcoming IPOs: Symbiotec Pharmalab IPO, Skyways Air Services IPO among 10 new issues to open next week; full list here
-  Skyways Air Services IPO, Symbiotec Pharmalab IPO, and Hy-Tech Engineers
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-symbiotec-pharmalab-ipo-skyways-air-services-ipo-among-10-new-issues-to-open-next-week-full-list-here-11787471553011.html
+- Stock recommendations for 22 August from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 22 August. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-22-august-from-marketsmith-india-11787312561537.html
+
+- Symbiotec Pharmalab IPO Day 1 LIVE: GMP, subscription status, review, issue size, other details. Should you apply?
+  Symbiotec Pharmalab IPO GMP today: According to market observers, the company
+  🔗 https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-day-1-live-gmp-subscription-status-review-issue-size-other-details-should-you-apply-11787507960722.html
 
 - 'Its a new tool for creativity': Dr Dre on use of AI in creating music
   Dr Dre sees AI as another tool in the music-tech toolbox akin to synthesisers. Only people "who have trouble creating" are afraid of
@@ -100,65 +100,49 @@
   Subscribers will now be strictly required to declare the total number of active mobile connections held in their name in their Customer Application Form
   🔗 https://www.livemint.com/technology/too-many-sim-cards-heres-why-you-might-be-denied-a-new-mobile-connection-soon-11787399566383.html
 
-- Dow surges 500 points Friday, but index posts back-to-back weekly losses - CNBC
-  Dow surges 500 points Friday, but index
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMDV4Q2s0QVVHMXFPY2w4RjUxY0Juakx6aGs4NUh0WloyV0lkUElnMkdUUEhUV1ZCNFQ3YUxfYXRTY3Z3b2JCVVJwdTZpSDFhMGplRVplZUhTNUtmbC14dnF3TlZQbzIwbU51YmliSmczdXNaZm1n0gF8QVVfeXFMTXlQWDhxZW1wNDI5b2hyTFFGLXh5M2h5YVdaanoyTmw5R0cyRkZvcG5Nd2ZMUUNGa3NMczF0dFN0cThNU1M1R0dCbFlEajhWb1BiVU14bldkdllIQm1xNDY3RWRiYjdFRVhyelctcklYUldpMkplT29kUW9kNA?oc=5
+- Tempsens Instrument IPO: GMP soars past 100%, signalling strong listing hopes
+  Tempsens Instruments IPO grey market premium has surged 100 percent. First IPO to cross this milestone in nearly two years. Other upcoming IPOs also show strengthening grey market premiums.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/tempsens-grey-premium-sales-surge-exceeding-100-growth-this-quarter/articleshow/133448795.cms
 
-- Markets News, Aug. 21, 2026: US Indexes Close Higher But Post Weekly Losses; Treasury Yields Edge Upward - Investopedia
-  The Dow Jones Industrial Average and the S&P 500 closed at record highs
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1RGYjEyZDNIbzJOdnJoVU1wQkdWX21uMDZDYTUwdVg5NVpvOU1Pa2F1bDlTcmN3M2xuSVJpeDh1TFhlMTRBLXBNQ3J1ajBoakFiRmxoWnBiOUtGUDlEOTFWX2xJNEY0ZHZ1di1FX3NhanlQeXdVeU1ndHlfYWR4dk5jN09hRG1vZHYtRDJxY3U?oc=5
+- Pre-market action: Here's the trade setup for today's session
+  If Nifty maintains its position above 24,284, it might indicate a rebound towards 24,400. Rising crude oil prices combined with ongoing tensions in the Middle East are influencing investor confidence negatively.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133444903.cms
 
-- Stocks to Watch for August 24: Reliance Industries, NATCO Pharma, Bank of Baroda - CNBC TV18
-  Stocks to Watch for August 24: Reliance Industries,
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQRlZfdm05LVF4REl6SlZNWk1BSzJyOV9oRzNtTUR5aWFzR1BKbEROTXhjQjcwblhuRkdYTDNZTlFfT0RDdlhibTNnN0dPRXR2ejFUbkR4cnAyNF82STlhcnpzV3dKQ2FzNVNqdlJDYWl6bFZic1Q1UW82ZDNGd0Fwd2RtbGhfLVpHSDdGT0lvb0Y5TnNsdVQ3YkZJVndtbUJYTXplQVZST21nUGwyT1VPTEhxRzN3SjRvODhuMmtsakhHM09YMmgyYzAzaEJtSDJzVG9UMjhMdTNHZVRobXhHRnl4eWN3a3owQzFHNmtPMUk1dGtMdm85VFAwRExuZXE3SmJ5dTJXY3dJLVpUQXfSAZMCQVVfeXFMTWctRlNGV3ZEZ3J0T1M2MERuN0xDUFQzbUtqTzh6VXpHOFhZWGdDdFRBdXBEbF9TS1hXU3FuRVJrWUVva01Ba2w3eW0teDFXMFQxNVlGR3hpdXUwZXpuVklEeFFpaF91RU9lNFJQWXo1MnJvN2prUERqdzQyUGJVWERkdU9nU0ItQkNHdmtYU0VTakQ3bFlGWDhtUmQ5dTIwMDh6Vnp5RHZ5YnVDVzhYMDVpaDFnWVpUNDNJUHVmUVY1VGx6QVF6REkwOUhkQ2RJaUJRNmp2aGxpdU9faW5Ga1lVSXU0WmhhRmlOM1lDdzhfUUtFYkNEU0NQRjQ1ZUZETjhJYUtCOGdVMVpEOVNxa3ktYms?oc=5
+- Stocks in news: Reliance Industries, Bank of Baroda, Power Grid, NATCO Pharma and JSW Infra
+  Indian equity markets closed largely unchanged on Friday, August 21. Reliance Industries and Bank of Baroda reported significant corporate developments. Power Grid Corporation and Jubilant Pharmova also announced key project wins and regulatory approvals.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-bank-of-baroda-power-grid-natco-pharma-and-jsw-infra/articleshow/133444199.cms
 
-- I was hooked on day trading for 8 years. Here's how I broke my addiction to markets in a few months. - Business Insider
-  I was hooked on day trading for 8 years. Here's how I broke my addiction to markets in
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE1fOWQ4QVkwM1FfMWd2cE1udWRGVkhUVWN1Vlc0UWl2Z1BFM0ZQMGtmWGpkdTIwTkdUbWtPbUhUanhfbmhrNE9UQ1hWV0JwVHktdGh3RWVfSGU4S2Mtb09kRkJOcU9UVkhYWDNSMHlKT3pTSVRQYlpYOTVtbWo?oc=5
+- Hawkish MPC, West Asia conflict cloud rupee, bond yield outlook
+  Forex inflows offer a cushion for the central bank, allowing it to manage currency pressures effectively. Analysts expect the rupee to fluctuate between 95.50 and 96.00.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/mpcs-rate-hike-signals-add-to-war-driven-risks-for-rupee-and-bonds/articleshow/133448587.cms
 
-- Integrated digital mechanism, grading launched for Keralam’s special Onam markets this year - The Hindu
-  Integrated digital mechanism, grading launched for Keralam
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSW9haERRN19BZmduZEVoLUpwOVZjYklJY0ZZdjg4c0Q0SHZ5Qk1kZ3h3RTR2Ny1hN2R1WV9mLXFwUk1VSVN4M1Z1eWdCX0cwaTZrWHpNbWk5ZXAzeUxqcFk2WkpGU3pORXBhUWdNSk1KWTllWWNEMG0tN0JvUmtzVkV3U25RSm1DUDlwQlRGdDg4ZFhxSEpkRGhqMWVwaTZhZWVsbndPcXVnTHVqMXJHeUhMcVUtOVk1RkNxT2IxS2Zxc1JzLTRHTGRjUzByNXlhVGozR3hsVGQxSDV0X0JRTm1PQzNyN3BwRXBv0gHyAUFVX3lxTFBqYUtkNWRMMkF6SVhGVFhzV19Bc1VSTHg3RUZpci1QQWRQVW04QUV5REZrcVpVY2hHMzJnUjFBc01nalV4S0NDeWhPN2JhV3RmZTluTWd1d0puTFgzZFN0bTF3Zm5PeWtnVVhQTjVCRDdXNlRtZkVoel8wLWczSThSc1BqbTNYeEh6aTRjZmFIRnR3WHJXSElFeFZ4YkxTMEVzdmh1Ymx5M2dTTU90bW1QWFFPbGdNY211VEhjOUZiQmRkY05tS3FERDNaa250eFc2Ykw2X3JIQTZwRXl4Yk14OUlYOVpCRTBpUzduemszSlRn?oc=5
+- Sebi turns down Adani-linked FPIs' settlement applications
+  Sebi's investigation had flagged 13 FPIs. They subsequently sought to settle the case. The regulator communicated its decision to the FPIs' representatives last week.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-turns-down-adani-linked-fpis-settlement-applications/articleshow/133448753.cms
 
-- Market Trading Guide: Jayaswal Neco Industries among 2 stock recommendations for Monday
-  Analysts recommend Jayaswal Neco Industries and Alkyl Amines for Friday. They cite bullish breakouts, strong trading volumes and improving RSI momentum.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jayaswal-neco-industries-among-2-stock-recommendations-for-monday/articleshow/133438554.cms
+- 'Represented India In 3 Nations': Ex-Envoy After Details Don't Match In SIR - NDTV
+  'Represented India In 3 Nations': Ex-
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVItVk00YkNQUUphMVRCSU1kMHM4MWRuWENqeGtkbEpYWDNpcHRwckViaDhNZDZzdjJ0M2lHclU3WHlXWkNwU2UzWVZTMGdNVVc2cEJqQjVrT25SYWZsdWxOTnVPNjd4UHlMaGtpeklOdlBvcDZfMFNSZTVURk9zSkZ4dXF2UEMwNGtFZS1iNGxSaEtJX2FzbWF5SFJUSEQtUl9nUGNqUzF2MkQ1MFYzLU5sNGx0d0JlRERWd3NmT19wV03SAcsBQVVfeXFMTlE3OUtkMC1SeVVSVUlUNHIwSG9Gb3NmZE1oaUxuWDFHTjVnLWJTWW5COG1pa21mQ3d0UW5MMmJQRzJkeE16Z19scWpSY3F4Z1NmX3h0b0h4RG1aTlhNakdiSWQ0ekg2RWdxMkEwRnZLQ0VhZHhXV3NteWZzOUFNaU1UcWlFRUVEcmFwejRFdmdrU3l6RkctN0JKRm55MlFiQUp2d2JBVTFZVFFQZmNNbkUzTjVHX0IwRE9tU3ZpTi1FVVYzMkh1Qi1laG8?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  The Sensex and Nifty closed slightly higher, while broader markets outperformed. Analysts expect volatility to remain elevated, with crude prices, foreign flows and global trends in focus.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133437385.cms
+- ‘Represented India in 3 nations’: Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’ | India News - Hindustan Times
+  Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNV9pVXNjSFJXMlJRUE5Pd0RfZEx0Q1dwMWUtQVY1VkZ2bmhXS2RWdF95RXVOTno1RmVyclJIQmdlSUhZUUZlcUpTczcwOExHcHRzSDkxLXhSVF9mVk9CakNJNFJ3QUxSMF9mMUt0N2szLTBxUUZLS3VpcDBSYldpeURubUZ6Q3hncGNheWhhU2ZqM1pxZTMtbUtqWVB5VkplWlVwN2xDa3pnVkNOU0JsU0EyV1ItRWxiYXpwZWJYdHdHaEN6d3NvUGs2bWNzU3R0dlVxTm8zb255d1Q3ZzRjVjMyODM2TFpiWF9YT2t4VG9Qb1kwOWQzZ9IB_gFBVV95cUxQdTFyRUR2TjNnU1FpNUpocldXSDcwajFDWVdrYXk5NVFCanZ1dFR0U3JpcE5NcGhzQ2ZEWGJldW9mTzVMSUg1SjZsWXEzNGtqdWkzeUxCMGRzVTJ6QXNJbHd2MkUtRnVDQmtUNHZEdFR3bG5EaVh2YkdPeTAybVNFbkVDTE1RajBXcFRXMkFsZWRJTy1aWVByNmpWclI0dEZicGdRRzNNcWpCQ3NoTUFkM0g5MGxjNzVTQ0lDbHpad1JBR3RIUzVYU01qXzExSGgtSkZJb25iXzN6NjN2cEwzTjRTb1lmYV9lN3UzLVFhSmJka1pUU2pNQktUUnpxUQ?oc=5
 
-- 20 IPOs on investors' radar next week. GMPs indicate up to 90% returns
-  A total of 20 IPOs are on investors’ radar next week, including fresh issues and upcoming listings across the mainboard and SME segments. Symbiotec Pharmalab, Tempsens Instruments, Lum
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/20-ipos-on-investors-radar-next-week-gmps-indicate-up-to-90-returns/slideshow/133436601.cms
-
-- FPIs invest Rs 23,544 crore in Indian equities in Aug on earnings revival, rupee stability
-  FPIs had withdrawn Rs 49,340 crore in June, Rs 32,963 crore in May, Rs 60,847 crore in April and a massive Rs 1.17 lakh crore in
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-invest-rs-23544-crore-in-indian-equities-in-aug-on-earnings-revival-rupee-stability/articleshow/133435870.cms
-
-- Pride Hotels steps up expansion, plans Rs 1,000-cr IPO by December
-  The expansion has taken Pride Hotels' portfolio to 40 properties, including eight owned hotels and 32 managed properties. The company has also signed contracts for another 32 hotels, which are expected to open over the next one
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/pride-hotels-steps-up-expansion-plans-rs-1000-cr-ipo-by-december/articleshow/133435802.cms
+- Former diplomat Navdeep Suri flags 'trouble establishing citizenship' in Punjab SIR despite serving India... - Moneycontrol.com
+  Former diplomat Navdeep Suri flags 'trouble establishing
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPalI5RVg5XzhoUVRvNW9BbTdjUndOZTVNX3NjVFJWYTFYWkRxMGV2dmFhRUFIeWlHNldzd3VGZWJ1NmFiUGNRZjJzX09EVmprV0p1NThiMWZIQnA4V0ZPUzY2MzE1V0RRbVZyaE8wTnFBX3AtWDJSLWJQUUNVcnNidzlVRVhoNTJwZndLY2VtMG1ZdTJ3TnpIZkNoU0M5VXpvT2V0S1NtaC1KeUE3LVVfV1VvM1U3WEs3TFZ0OEpianBFVUFKck02X0ZLNi1Yd21kVFQ3Y21fX0UwODJVNm1WX2VkYVlBSjdwdHZGWGVaR0k5RGxhZWdR0gH8AUFVX3lxTFBkMkJ6VGhZVDZaVGFzaFNVNW13V0d6bkZ6ajZPTk9YXy1tMlBkem83eEV3ZkNUZWdPWldrNllVUi11ZWd4RXJEQXdKSGNfa3dBeUE0YWNVWmdmR3BEa0tyM1NRcnMycmZTQkFVWV8wVml4SV9tTUhnbjFBd01HeEpQdWtFNEVybDUzdEdqRU1oSkkwLVJSMUYxSDRwSUpWR3JwMlJtaVhINVg2TUtKQ2J0T1laemU1cU9yT2VTWUJ6UWJTQUJ2Y01iT04ySHNTWlY1NmM0cmFoOHFhMm1uNmdRVFRJT3hKN3N3ZjlfVjhQQi1SQkZ3eGJpS1FEZw?oc=5
 
 - Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor | India News - Hindustan Times
   The US president-elect held 45-min presser with PM Modi at G7 summit.
   🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOYkxTM1J6WEoxTXA3S0prNWJuVWFaT1ZXOHZaV19kYnhPSkJuWV9aSnJqOVR2ZjBTWEJ3Q2F0VUFLRWVPX3loUXB1OTkxeGpmNGFoT29QNUR2MVBBc0dORnBCb0hJUmJZOXM0NGNPN2pFZDZNMzN1VWlOLTAyaUJFZW9zeFlqcklEdVROUmdUcmZOVURZUWZDanVZUE9fNXNHRVNZbkFsUzhtSF9OWHl1OXJBdTExVU1JYVRTU3k5NXJCWFZOWnp2Q3BGYlluY2pReWhxVXBtdVltSEQyTzJqQmgwYmYyWFNXUzNFc0Y3WlkwMmM2cng4eFFQT2lWTWFtdm1B0gGIAkFVX3lxTFB1N1pCelhKazB1X2dlV1hkZmM2YmxjY0NyUElyUjJJc3p6WGZuTXRmOGd5dGtuRloyWllVX3kzZjFCSkdzSG1WWUZMUWk5aFJpQy1kZUJzODQ5U2x0MTVMME9zX01kODI1bkQwN0ZsbXJ4OUtNeW1MRWFpdHhMcm9QTmYxSGlZYVI2STAxNl9XZXpwZmJUblkwWlZ6a29aNkxyZENqOXNLWWxVSFhnX2lmNXZXVFRYdkZuTXJQUTVlTi1KclRQMENjZU5rYmVGNUFBRTFRek5kQ2Frb0w3cExGSHYzaUlZYnR0NTJ4TE50NVRFQVQwV2xodm1pdE1jckh4MmZYcHJ0VQ?oc=5
 
-- India Needs 20 Reforms To Become A $20 Trillion Economy By 2036: Report - NDTV
-  India Needs 20 Reforms To Become A $20 Tr
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFFPTGV1TWV2RlFZLUxzNTdtWEkxN29uVkF4d3lmelJlZkoyV1ZERUwxRUZBalNUeUVVWmhHUzhjZjF3by1RYVh5M05lUzZkT29aZm0ycHRvR2JHZWttV0dZOFdpMnlDQ2N4eEdPYUVOTmJFUGd2M29oU19sdXRGNU5oSzRXSzYwMW1MNy1XazMtR1hLSV9NQ1RPby1STnlaZHhrejZSeTUtSjR3YlF0QUYwZENyWjVKY1c5VtIBxAFBVV95cUxNcnVJN0RqNFZDZWVicFJtRWFTNDRDaElJR01ScGpEZWVkQmhhd24tMmF6LUxmNEI3STV2dzc5MDVKMnAtdkc3a3d6RWVvVElaZHZOMHRlejFJc2ZyNUNaRTB5aHhFV3hjbG9kY2tGbUtoQmZfRFRjbi10R2J0Vi1KcHE0aUhfUmRKa0M1eEozTTdZMXNIYlIwUXVXZ0NnV3RCRDluc2t3NUJORThzd1pEbUczZDh6cWRwNGY1Y2IySHJZd2dG?oc=5
+- ET World Leaders Forum: Trust-based reforms transformed India’s middle class, says PM Modi - The Economic Times
+  The Economic Times: Trust-based reforms transformed India’s
+  🔗 https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQVNseWJYc0RfcGZPNGFreU12ck91eE00bVgyQ3FMdWM3M3RaSjN6YmltbVhJeHhmVGRiR1ZLWE50RjFoOGZQNkloWWJTTWkwXzhSUEJBWTJxSXNrYjBya1BKRVJjdzdLQTNWWnQxeHIwRHlkQkpJMmlKSGladG10eXFwVi04S01ERUFORFI4aHUtcGd4UHpIaFpSamZGSGo5Q2FaeXZKS1NKMGtkYkh0YlJTdm1Qem81VDBRU2RGS3JSMEhuNTZmYlQ4Ym5QNXU5eXRVN3VRVnR5WkdpdnZyWEIxcHlfNGhiRk5aaDVvUEd0NEU0WFhZa0wyMHZMX1JVVDBFd2d4MENUUFVRNVp0d0JRSWhPcGpVRGp1V0p1N2hzdkZUVnAtNS1OU0x4S0hCZ0FvTHRRcDJ4WmI4Rm1sN0FOOTVwWGxwZmYxTldaNEw?oc=5
 
-- Amit Shah to attend national security strategies conference in Delhi - The Times of India
-  Amit Shah to attend national security strategies conference in Delhi
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2gxNm10SWY0NTNCMnpfSmNpR25pVkQyQXNEMG1RYU5oMkMtRXpFTXNiWUsyUEtXcW1iXzVqZzBrcWxpbm9iUGI5VW90cVR5WXVmMU9TcXhGNXRKTHJnbU5EOWVmTThpTWw5SXltMHM1VHdfSXcxMkZMMTdNeV84M1FSMW1yMWI3X09QdWU3b0R3aUhwVHdVaWxUZi0yNi1nSUdiV2FxNHpZNFVuUzhNNVlOeGZEZmFIc3BOeXVzQnRJY2VmYWs3YkxDWXhZVjZxOVHSAdcBQVVfeXFMUHIzVXAtYS1oQnBlMm5LY0E3d3dibjNRcnlHQzgwNElvZGFfNS0zcFJaeGQtVHBrem10YlFkQ0UyXzMzTWdSVlNOaEZWME1XQnJBbmdXNlhBel9DbmdFWHBubExIMzU1ekhJclJCLUpmb05Ub01oUHN1aW9XU2phd0c5YUdSQzJsdnhRQkl6Zk1kdGctdzZtd0VudjdQcVF1M0djSHlhX2E3OExnb0J1ODQtS3otYWNLQW1IZEJMZDRwYy1Wb2JQTXRJeF9YWWx3ZXFRNDdvaUU?oc=5
-
-- Spain Visa Fraud Probe Expands To Indian Firm BLS After Officials Arrested: Report - NDTV
-  Spain Visa Fraud Probe Expands To Indian Firm BLS
-  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxQRHlETjVJV3I2THl2MGZ4ZWZzYm9yVmJqSW5FUXR0NzVHS1ZzYkpFVFZ1eVRnbDdISi0yOFI4WGxxWExERDJMREFBZjRMUDBIZEVnSWVBVXhlSHJxdHRTU19aYWRyZVRDeUI3TWFfZEotbG9WamtmMXFIWlVjNHUtR0JhTDN3b3FIZXZTVEZzRERHZ0xpUlZ0X3VUblFaSm83cDQwRlN0TmxoQTk1X3ZSUlpNUGQxcDdXaGxGQTlXeUhFZUZlWk9ocV9vR0NTNlNBTmNNbHM5QkdXMTZwbTIwb2x4SFozbmVkY0N0bWdJakd4Y3pZMTEtLVk2b0VXZFlfSGRQV19zeXcxTTc1MDF2M3JXd1NGcGxmWGJzZU9HbnNxR2JJOWdobdIBqAJBVV95cUxQRHlETjVJV3I2THl2MGZ4ZWZzYm9yVmJqSW5FUXR0NzVHS1ZzYkpFVFZ1eVRnbDdISi0yOFI4WGxxWExERDJMREFBZjRMUDBIZEVnSWVBVXhlSHJxdHRTU19aYWRyZVRDeUI3TWFfZEotbG9WamtmMXFIWlVjNHUtR0JhTDN3b3FIZXZTVEZzRERHZ0xpUlZ0X3VUblFaSm83cDQwRlN0TmxoQTk1X3ZSUlpNUGQxcDdXaGxGQTlXeUhFZUZlWk9ocV9vR0NTNlNBTmNNbHM5QkdXMTZwbTIwb2x4SFozbmVkY0N0bWdJakd4Y3pZMTEtLVk2b0VXZFlfSGRQV19zeXcxTTc1MDF2M3JXd1NGcGxmWGJzZU9HbnNxR2JJOWdobQ?oc=5
-
-- Indian national shot dead by unidentified man in New York City - The Hindu
-  Indian national shot dead by unidentified man in New York
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0dMbEVNS3lUdGlDamZqMGhVRl90S2twQTZESXpfVnh4LURtWVkyc3Y3Q2ROZGhYRkNKd3M0OERCME9OYzZlSFc4c0I1LXd3cVNaSExENVoycldJYTlzQnVJTHRuWEdwSDE3c0hIV3FncGV6ZXBYYTVHdFJkVGczSlJmMklXdDBBeHJNMThTdzBCNy1TNTJXLUpiLWpydHQzZnN0NVhyaWZHWnJULTZhNDlYV0pVS2JaaE5zV1owMDB1MWI20gHLAUFVX3lxTE1PRUhKd1gwMUNWdlpOeE5WQ0g4VjhXRTIwU1NLWnVnUktGTVBhMVpvZGpUUXVtT1FvbkNVOHNERWdhd1AzVy1kX3BmRjl4VXczVXBjVGJlcjgtb3FXbl8wcTkzOF83MFhFNDBIQWdYaFVvaUpZVFNhMkkyY0RVTHJodHFLRjAtR0xEVWhlcVNhV083dDBjRWxQQXFuUGw2YXJENFNBb1N1REZsM2QwTUpCbkN2X2tPOEV0Tk9jUHljZDVxa0I5ZnVPYVpr?oc=5
+- Beyond The Shiprocket IPO Takeoff
+  Last week, Shiprocket made a flying start on the bourses, with its stock opening at ₹131 on the NSE.
+  🔗 https://inc42.com/features/beyond-the-shiprocket-ipo-takeoff/
 
 - Navi’s Solo Run Ends
   For almost eight years, Sachin Bansal has tried to build Navi without having to answer to institutional investors. The Flipkart boss
@@ -176,49 +160,45 @@
   Semiconductor startup Raana Semiconductors is in advanced talks to raise ₹100 Cr (around $10.4 Mn)
   🔗 https://inc42.com/buzz/raana-semiconductors-in-talks-to-raise-%e2%82%b9100-cr-for-silicon-growth-equipment/
 
-- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
-  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
-  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
+- 'Represented India In 3 Nations': Ex-Envoy After Details Don't Match In SIR - NDTV
+  'Represented India In 3 Nations': Ex-
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVItVk00YkNQUUphMVRCSU1kMHM4MWRuWENqeGtkbEpYWDNpcHRwckViaDhNZDZzdjJ0M2lHclU3WHlXWkNwU2UzWVZTMGdNVVc2cEJqQjVrT25SYWZsdWxOTnVPNjd4UHlMaGtpeklOdlBvcDZfMFNSZTVURk9zSkZ4dXF2UEMwNGtFZS1iNGxSaEtJX2FzbWF5SFJUSEQtUl9nUGNqUzF2MkQ1MFYzLU5sNGx0d0JlRERWd3NmT19wV03SAcsBQVVfeXFMTlE3OUtkMC1SeVVSVUlUNHIwSG9Gb3NmZE1oaUxuWDFHTjVnLWJTWW5COG1pa21mQ3d0UW5MMmJQRzJkeE16Z19scWpSY3F4Z1NmX3h0b0h4RG1aTlhNakdiSWQ0ekg2RWdxMkEwRnZLQ0VhZHhXV3NteWZzOUFNaU1UcWlFRUVEcmFwejRFdmdrU3l6RkctN0JKRm55MlFiQUp2d2JBVTFZVFFQZmNNbkUzTjVHX0IwRE9tU3ZpTi1FVVYzMkh1Qi1laG8?oc=5
+
+- ‘Represented India in 3 nations’: Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’ | India News - Hindustan Times
+  Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNV9pVXNjSFJXMlJRUE5Pd0RfZEx0Q1dwMWUtQVY1VkZ2bmhXS2RWdF95RXVOTno1RmVyclJIQmdlSUhZUUZlcUpTczcwOExHcHRzSDkxLXhSVF9mVk9CakNJNFJ3QUxSMF9mMUt0N2szLTBxUUZLS3VpcDBSYldpeURubUZ6Q3hncGNheWhhU2ZqM1pxZTMtbUtqWVB5VkplWlVwN2xDa3pnVkNOU0JsU0EyV1ItRWxiYXpwZWJYdHdHaEN6d3NvUGs2bWNzU3R0dlVxTm8zb255d1Q3ZzRjVjMyODM2TFpiWF9YT2t4VG9Qb1kwOWQzZ9IB_gFBVV95cUxQdTFyRUR2TjNnU1FpNUpocldXSDcwajFDWVdrYXk5NVFCanZ1dFR0U3JpcE5NcGhzQ2ZEWGJldW9mTzVMSUg1SjZsWXEzNGtqdWkzeUxCMGRzVTJ6QXNJbHd2MkUtRnVDQmtUNHZEdFR3bG5EaVh2YkdPeTAybVNFbkVDTE1RajBXcFRXMkFsZWRJTy1aWVByNmpWclI0dEZicGdRRzNNcWpCQ3NoTUFkM0g5MGxjNzVTQ0lDbHpad1JBR3RIUzVYU01qXzExSGgtSkZJb25iXzN6NjN2cEwzTjRTb1lmYV9lN3UzLVFhSmJka1pUU2pNQktUUnpxUQ?oc=5
+
+- Former diplomat Navdeep Suri flags 'trouble establishing citizenship' in Punjab SIR despite serving India... - Moneycontrol.com
+  Former diplomat Navdeep Suri flags 'trouble establishing
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPalI5RVg5XzhoUVRvNW9BbTdjUndOZTVNX3NjVFJWYTFYWkRxMGV2dmFhRUFIeWlHNldzd3VGZWJ1NmFiUGNRZjJzX09EVmprV0p1NThiMWZIQnA4V0ZPUzY2MzE1V0RRbVZyaE8wTnFBX3AtWDJSLWJQUUNVcnNidzlVRVhoNTJwZndLY2VtMG1ZdTJ3TnpIZkNoU0M5VXpvT2V0S1NtaC1KeUE3LVVfV1VvM1U3WEs3TFZ0OEpianBFVUFKck02X0ZLNi1Yd21kVFQ3Y21fX0UwODJVNm1WX2VkYVlBSjdwdHZGWGVaR0k5RGxhZWdR0gH8AUFVX3lxTFBkMkJ6VGhZVDZaVGFzaFNVNW13V0d6bkZ6ajZPTk9YXy1tMlBkem83eEV3ZkNUZWdPWldrNllVUi11ZWd4RXJEQXdKSGNfa3dBeUE0YWNVWmdmR3BEa0tyM1NRcnMycmZTQkFVWV8wVml4SV9tTUhnbjFBd01HeEpQdWtFNEVybDUzdEdqRU1oSkkwLVJSMUYxSDRwSUpWR3JwMlJtaVhINVg2TUtKQ2J0T1laemU1cU9yT2VTWUJ6UWJTQUJ2Y01iT04ySHNTWlY1NmM0cmFoOHFhMm1uNmdRVFRJT3hKN3N3ZjlfVjhQQi1SQkZ3eGJpS1FEZw?oc=5
 
 - Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor | India News - Hindustan Times
   The US president-elect held 45-min presser with PM Modi at G7 summit.
   🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOYkxTM1J6WEoxTXA3S0prNWJuVWFaT1ZXOHZaV19kYnhPSkJuWV9aSnJqOVR2ZjBTWEJ3Q2F0VUFLRWVPX3loUXB1OTkxeGpmNGFoT29QNUR2MVBBc0dORnBCb0hJUmJZOXM0NGNPN2pFZDZNMzN1VWlOLTAyaUJFZW9zeFlqcklEdVROUmdUcmZOVURZUWZDanVZUE9fNXNHRVNZbkFsUzhtSF9OWHl1OXJBdTExVU1JYVRTU3k5NXJCWFZOWnp2Q3BGYlluY2pReWhxVXBtdVltSEQyTzJqQmgwYmYyWFNXUzNFc0Y3WlkwMmM2cng4eFFQT2lWTWFtdm1B0gGIAkFVX3lxTFB1N1pCelhKazB1X2dlV1hkZmM2YmxjY0NyUElyUjJJc3p6WGZuTXRmOGd5dGtuRloyWllVX3kzZjFCSkdzSG1WWUZMUWk5aFJpQy1kZUJzODQ5U2x0MTVMME9zX01kODI1bkQwN0ZsbXJ4OUtNeW1MRWFpdHhMcm9QTmYxSGlZYVI2STAxNl9XZXpwZmJUblkwWlZ6a29aNkxyZENqOXNLWWxVSFhnX2lmNXZXVFRYdkZuTXJQUTVlTi1KclRQMENjZU5rYmVGNUFBRTFRek5kQ2Frb0w3cExGSHYzaUlZYnR0NTJ4TE50NVRFQVQwV2xodm1pdE1jckh4MmZYcHJ0VQ?oc=5
 
-- India Needs 20 Reforms To Become A $20 Trillion Economy By 2036: Report - NDTV
-  India Needs 20 Reforms To Become A $20 Tr
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFFPTGV1TWV2RlFZLUxzNTdtWEkxN29uVkF4d3lmelJlZkoyV1ZERUwxRUZBalNUeUVVWmhHUzhjZjF3by1RYVh5M05lUzZkT29aZm0ycHRvR2JHZWttV0dZOFdpMnlDQ2N4eEdPYUVOTmJFUGd2M29oU19sdXRGNU5oSzRXSzYwMW1MNy1XazMtR1hLSV9NQ1RPby1STnlaZHhrejZSeTUtSjR3YlF0QUYwZENyWjVKY1c5VtIBxAFBVV95cUxNcnVJN0RqNFZDZWVicFJtRWFTNDRDaElJR01ScGpEZWVkQmhhd24tMmF6LUxmNEI3STV2dzc5MDVKMnAtdkc3a3d6RWVvVElaZHZOMHRlejFJc2ZyNUNaRTB5aHhFV3hjbG9kY2tGbUtoQmZfRFRjbi10R2J0Vi1KcHE0aUhfUmRKa0M1eEozTTdZMXNIYlIwUXVXZ0NnV3RCRDluc2t3NUJORThzd1pEbUczZDh6cWRwNGY1Y2IySHJZd2dG?oc=5
+- ET World Leaders Forum: Trust-based reforms transformed India’s middle class, says PM Modi - The Economic Times
+  The Economic Times: Trust-based reforms transformed India’s
+  🔗 https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQVNseWJYc0RfcGZPNGFreU12ck91eE00bVgyQ3FMdWM3M3RaSjN6YmltbVhJeHhmVGRiR1ZLWE50RjFoOGZQNkloWWJTTWkwXzhSUEJBWTJxSXNrYjBya1BKRVJjdzdLQTNWWnQxeHIwRHlkQkpJMmlKSGladG10eXFwVi04S01ERUFORFI4aHUtcGd4UHpIaFpSamZGSGo5Q2FaeXZKS1NKMGtkYkh0YlJTdm1Qem81VDBRU2RGS3JSMEhuNTZmYlQ4Ym5QNXU5eXRVN3VRVnR5WkdpdnZyWEIxcHlfNGhiRk5aaDVvUEd0NEU0WFhZa0wyMHZMX1JVVDBFd2d4MENUUFVRNVp0d0JRSWhPcGpVRGp1V0p1N2hzdkZUVnAtNS1OU0x4S0hCZ0FvTHRRcDJ4WmI4Rm1sN0FOOTVwWGxwZmYxTldaNEw?oc=5
 
-- Amit Shah to attend national security strategies conference in Delhi - The Times of India
-  Amit Shah to attend national security strategies conference in Delhi
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2gxNm10SWY0NTNCMnpfSmNpR25pVkQyQXNEMG1RYU5oMkMtRXpFTXNiWUsyUEtXcW1iXzVqZzBrcWxpbm9iUGI5VW90cVR5WXVmMU9TcXhGNXRKTHJnbU5EOWVmTThpTWw5SXltMHM1VHdfSXcxMkZMMTdNeV84M1FSMW1yMWI3X09QdWU3b0R3aUhwVHdVaWxUZi0yNi1nSUdiV2FxNHpZNFVuUzhNNVlOeGZEZmFIc3BOeXVzQnRJY2VmYWs3YkxDWXhZVjZxOVHSAdcBQVVfeXFMUHIzVXAtYS1oQnBlMm5LY0E3d3dibjNRcnlHQzgwNElvZGFfNS0zcFJaeGQtVHBrem10YlFkQ0UyXzMzTWdSVlNOaEZWME1XQnJBbmdXNlhBel9DbmdFWHBubExIMzU1ekhJclJCLUpmb05Ub01oUHN1aW9XU2phd0c5YUdSQzJsdnhRQkl6Zk1kdGctdzZtd0VudjdQcVF1M0djSHlhX2E3OExnb0J1ODQtS3otYWNLQW1IZEJMZDRwYy1Wb2JQTXRJeF9YWWx3ZXFRNDdvaUU?oc=5
+- 'Represented India In 3 Nations': Ex-Envoy After Details Don't Match In SIR - NDTV
+  'Represented India In 3 Nations': Ex-
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVItVk00YkNQUUphMVRCSU1kMHM4MWRuWENqeGtkbEpYWDNpcHRwckViaDhNZDZzdjJ0M2lHclU3WHlXWkNwU2UzWVZTMGdNVVc2cEJqQjVrT25SYWZsdWxOTnVPNjd4UHlMaGtpeklOdlBvcDZfMFNSZTVURk9zSkZ4dXF2UEMwNGtFZS1iNGxSaEtJX2FzbWF5SFJUSEQtUl9nUGNqUzF2MkQ1MFYzLU5sNGx0d0JlRERWd3NmT19wV03SAcsBQVVfeXFMTlE3OUtkMC1SeVVSVUlUNHIwSG9Gb3NmZE1oaUxuWDFHTjVnLWJTWW5COG1pa21mQ3d0UW5MMmJQRzJkeE16Z19scWpSY3F4Z1NmX3h0b0h4RG1aTlhNakdiSWQ0ekg2RWdxMkEwRnZLQ0VhZHhXV3NteWZzOUFNaU1UcWlFRUVEcmFwejRFdmdrU3l6RkctN0JKRm55MlFiQUp2d2JBVTFZVFFQZmNNbkUzTjVHX0IwRE9tU3ZpTi1FVVYzMkh1Qi1laG8?oc=5
 
-- Spain Visa Fraud Probe Expands To Indian Firm BLS After Officials Arrested: Report - NDTV
-  Spain Visa Fraud Probe Expands To Indian Firm BLS
-  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxQRHlETjVJV3I2THl2MGZ4ZWZzYm9yVmJqSW5FUXR0NzVHS1ZzYkpFVFZ1eVRnbDdISi0yOFI4WGxxWExERDJMREFBZjRMUDBIZEVnSWVBVXhlSHJxdHRTU19aYWRyZVRDeUI3TWFfZEotbG9WamtmMXFIWlVjNHUtR0JhTDN3b3FIZXZTVEZzRERHZ0xpUlZ0X3VUblFaSm83cDQwRlN0TmxoQTk1X3ZSUlpNUGQxcDdXaGxGQTlXeUhFZUZlWk9ocV9vR0NTNlNBTmNNbHM5QkdXMTZwbTIwb2x4SFozbmVkY0N0bWdJakd4Y3pZMTEtLVk2b0VXZFlfSGRQV19zeXcxTTc1MDF2M3JXd1NGcGxmWGJzZU9HbnNxR2JJOWdobdIBqAJBVV95cUxQRHlETjVJV3I2THl2MGZ4ZWZzYm9yVmJqSW5FUXR0NzVHS1ZzYkpFVFZ1eVRnbDdISi0yOFI4WGxxWExERDJMREFBZjRMUDBIZEVnSWVBVXhlSHJxdHRTU19aYWRyZVRDeUI3TWFfZEotbG9WamtmMXFIWlVjNHUtR0JhTDN3b3FIZXZTVEZzRERHZ0xpUlZ0X3VUblFaSm83cDQwRlN0TmxoQTk1X3ZSUlpNUGQxcDdXaGxGQTlXeUhFZUZlWk9ocV9vR0NTNlNBTmNNbHM5QkdXMTZwbTIwb2x4SFozbmVkY0N0bWdJakd4Y3pZMTEtLVk2b0VXZFlfSGRQV19zeXcxTTc1MDF2M3JXd1NGcGxmWGJzZU9HbnNxR2JJOWdobQ?oc=5
+- ‘Represented India in 3 nations’: Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’ | India News - Hindustan Times
+  Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNV9pVXNjSFJXMlJRUE5Pd0RfZEx0Q1dwMWUtQVY1VkZ2bmhXS2RWdF95RXVOTno1RmVyclJIQmdlSUhZUUZlcUpTczcwOExHcHRzSDkxLXhSVF9mVk9CakNJNFJ3QUxSMF9mMUt0N2szLTBxUUZLS3VpcDBSYldpeURubUZ6Q3hncGNheWhhU2ZqM1pxZTMtbUtqWVB5VkplWlVwN2xDa3pnVkNOU0JsU0EyV1ItRWxiYXpwZWJYdHdHaEN6d3NvUGs2bWNzU3R0dlVxTm8zb255d1Q3ZzRjVjMyODM2TFpiWF9YT2t4VG9Qb1kwOWQzZ9IB_gFBVV95cUxQdTFyRUR2TjNnU1FpNUpocldXSDcwajFDWVdrYXk5NVFCanZ1dFR0U3JpcE5NcGhzQ2ZEWGJldW9mTzVMSUg1SjZsWXEzNGtqdWkzeUxCMGRzVTJ6QXNJbHd2MkUtRnVDQmtUNHZEdFR3bG5EaVh2YkdPeTAybVNFbkVDTE1RajBXcFRXMkFsZWRJTy1aWVByNmpWclI0dEZicGdRRzNNcWpCQ3NoTUFkM0g5MGxjNzVTQ0lDbHpad1JBR3RIUzVYU01qXzExSGgtSkZJb25iXzN6NjN2cEwzTjRTb1lmYV9lN3UzLVFhSmJka1pUU2pNQktUUnpxUQ?oc=5
 
-- Indian national shot dead by unidentified man in New York City - The Hindu
-  Indian national shot dead by unidentified man in New York
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0dMbEVNS3lUdGlDamZqMGhVRl90S2twQTZESXpfVnh4LURtWVkyc3Y3Q2ROZGhYRkNKd3M0OERCME9OYzZlSFc4c0I1LXd3cVNaSExENVoycldJYTlzQnVJTHRuWEdwSDE3c0hIV3FncGV6ZXBYYTVHdFJkVGczSlJmMklXdDBBeHJNMThTdzBCNy1TNTJXLUpiLWpydHQzZnN0NVhyaWZHWnJULTZhNDlYV0pVS2JaaE5zV1owMDB1MWI20gHLAUFVX3lxTE1PRUhKd1gwMUNWdlpOeE5WQ0g4VjhXRTIwU1NLWnVnUktGTVBhMVpvZGpUUXVtT1FvbkNVOHNERWdhd1AzVy1kX3BmRjl4VXczVXBjVGJlcjgtb3FXbl8wcTkzOF83MFhFNDBIQWdYaFVvaUpZVFNhMkkyY0RVTHJodHFLRjAtR0xEVWhlcVNhV083dDBjRWxQQXFuUGw2YXJENFNBb1N1REZsM2QwTUpCbkN2X2tPOEV0Tk9jUHljZDVxa0I5ZnVPYVpr?oc=5
+- Former diplomat Navdeep Suri flags 'trouble establishing citizenship' in Punjab SIR despite serving India... - Moneycontrol.com
+  Former diplomat Navdeep Suri flags 'trouble establishing
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPalI5RVg5XzhoUVRvNW9BbTdjUndOZTVNX3NjVFJWYTFYWkRxMGV2dmFhRUFIeWlHNldzd3VGZWJ1NmFiUGNRZjJzX09EVmprV0p1NThiMWZIQnA4V0ZPUzY2MzE1V0RRbVZyaE8wTnFBX3AtWDJSLWJQUUNVcnNidzlVRVhoNTJwZndLY2VtMG1ZdTJ3TnpIZkNoU0M5VXpvT2V0S1NtaC1KeUE3LVVfV1VvM1U3WEs3TFZ0OEpianBFVUFKck02X0ZLNi1Yd21kVFQ3Y21fX0UwODJVNm1WX2VkYVlBSjdwdHZGWGVaR0k5RGxhZWdR0gH8AUFVX3lxTFBkMkJ6VGhZVDZaVGFzaFNVNW13V0d6bkZ6ajZPTk9YXy1tMlBkem83eEV3ZkNUZWdPWldrNllVUi11ZWd4RXJEQXdKSGNfa3dBeUE0YWNVWmdmR3BEa0tyM1NRcnMycmZTQkFVWV8wVml4SV9tTUhnbjFBd01HeEpQdWtFNEVybDUzdEdqRU1oSkkwLVJSMUYxSDRwSUpWR3JwMlJtaVhINVg2TUtKQ2J0T1laemU1cU9yT2VTWUJ6UWJTQUJ2Y01iT04ySHNTWlY1NmM0cmFoOHFhMm1uNmdRVFRJT3hKN3N3ZjlfVjhQQi1SQkZ3eGJpS1FEZw?oc=5
 
 - Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor | India News - Hindustan Times
   The US president-elect held 45-min presser with PM Modi at G7 summit.
   🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOYkxTM1J6WEoxTXA3S0prNWJuVWFaT1ZXOHZaV19kYnhPSkJuWV9aSnJqOVR2ZjBTWEJ3Q2F0VUFLRWVPX3loUXB1OTkxeGpmNGFoT29QNUR2MVBBc0dORnBCb0hJUmJZOXM0NGNPN2pFZDZNMzN1VWlOLTAyaUJFZW9zeFlqcklEdVROUmdUcmZOVURZUWZDanVZUE9fNXNHRVNZbkFsUzhtSF9OWHl1OXJBdTExVU1JYVRTU3k5NXJCWFZOWnp2Q3BGYlluY2pReWhxVXBtdVltSEQyTzJqQmgwYmYyWFNXUzNFc0Y3WlkwMmM2cng4eFFQT2lWTWFtdm1B0gGIAkFVX3lxTFB1N1pCelhKazB1X2dlV1hkZmM2YmxjY0NyUElyUjJJc3p6WGZuTXRmOGd5dGtuRloyWllVX3kzZjFCSkdzSG1WWUZMUWk5aFJpQy1kZUJzODQ5U2x0MTVMME9zX01kODI1bkQwN0ZsbXJ4OUtNeW1MRWFpdHhMcm9QTmYxSGlZYVI2STAxNl9XZXpwZmJUblkwWlZ6a29aNkxyZENqOXNLWWxVSFhnX2lmNXZXVFRYdkZuTXJQUTVlTi1KclRQMENjZU5rYmVGNUFBRTFRek5kQ2Frb0w3cExGSHYzaUlZYnR0NTJ4TE50NVRFQVQwV2xodm1pdE1jckh4MmZYcHJ0VQ?oc=5
 
-- India Needs 20 Reforms To Become A $20 Trillion Economy By 2036: Report - NDTV
-  India Needs 20 Reforms To Become A $20 Tr
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFFPTGV1TWV2RlFZLUxzNTdtWEkxN29uVkF4d3lmelJlZkoyV1ZERUwxRUZBalNUeUVVWmhHUzhjZjF3by1RYVh5M05lUzZkT29aZm0ycHRvR2JHZWttV0dZOFdpMnlDQ2N4eEdPYUVOTmJFUGd2M29oU19sdXRGNU5oSzRXSzYwMW1MNy1XazMtR1hLSV9NQ1RPby1STnlaZHhrejZSeTUtSjR3YlF0QUYwZENyWjVKY1c5VtIBxAFBVV95cUxNcnVJN0RqNFZDZWVicFJtRWFTNDRDaElJR01ScGpEZWVkQmhhd24tMmF6LUxmNEI3STV2dzc5MDVKMnAtdkc3a3d6RWVvVElaZHZOMHRlejFJc2ZyNUNaRTB5aHhFV3hjbG9kY2tGbUtoQmZfRFRjbi10R2J0Vi1KcHE0aUhfUmRKa0M1eEozTTdZMXNIYlIwUXVXZ0NnV3RCRDluc2t3NUJORThzd1pEbUczZDh6cWRwNGY1Y2IySHJZd2dG?oc=5
-
-- Amit Shah to attend national security strategies conference in Delhi - The Times of India
-  Amit Shah to attend national security strategies conference in Delhi
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2gxNm10SWY0NTNCMnpfSmNpR25pVkQyQXNEMG1RYU5oMkMtRXpFTXNiWUsyUEtXcW1iXzVqZzBrcWxpbm9iUGI5VW90cVR5WXVmMU9TcXhGNXRKTHJnbU5EOWVmTThpTWw5SXltMHM1VHdfSXcxMkZMMTdNeV84M1FSMW1yMWI3X09QdWU3b0R3aUhwVHdVaWxUZi0yNi1nSUdiV2FxNHpZNFVuUzhNNVlOeGZEZmFIc3BOeXVzQnRJY2VmYWs3YkxDWXhZVjZxOVHSAdcBQVVfeXFMUHIzVXAtYS1oQnBlMm5LY0E3d3dibjNRcnlHQzgwNElvZGFfNS0zcFJaeGQtVHBrem10YlFkQ0UyXzMzTWdSVlNOaEZWME1XQnJBbmdXNlhBel9DbmdFWHBubExIMzU1ekhJclJCLUpmb05Ub01oUHN1aW9XU2phd0c5YUdSQzJsdnhRQkl6Zk1kdGctdzZtd0VudjdQcVF1M0djSHlhX2E3OExnb0J1ODQtS3otYWNLQW1IZEJMZDRwYy1Wb2JQTXRJeF9YWWx3ZXFRNDdvaUU?oc=5
-
-- Spain Visa Fraud Probe Expands To Indian Firm BLS After Officials Arrested: Report - NDTV
-  Spain Visa Fraud Probe Expands To Indian Firm BLS
-  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxQRHlETjVJV3I2THl2MGZ4ZWZzYm9yVmJqSW5FUXR0NzVHS1ZzYkpFVFZ1eVRnbDdISi0yOFI4WGxxWExERDJMREFBZjRMUDBIZEVnSWVBVXhlSHJxdHRTU19aYWRyZVRDeUI3TWFfZEotbG9WamtmMXFIWlVjNHUtR0JhTDN3b3FIZXZTVEZzRERHZ0xpUlZ0X3VUblFaSm83cDQwRlN0TmxoQTk1X3ZSUlpNUGQxcDdXaGxGQTlXeUhFZUZlWk9ocV9vR0NTNlNBTmNNbHM5QkdXMTZwbTIwb2x4SFozbmVkY0N0bWdJakd4Y3pZMTEtLVk2b0VXZFlfSGRQV19zeXcxTTc1MDF2M3JXd1NGcGxmWGJzZU9HbnNxR2JJOWdobdIBqAJBVV95cUxQRHlETjVJV3I2THl2MGZ4ZWZzYm9yVmJqSW5FUXR0NzVHS1ZzYkpFVFZ1eVRnbDdISi0yOFI4WGxxWExERDJMREFBZjRMUDBIZEVnSWVBVXhlSHJxdHRTU19aYWRyZVRDeUI3TWFfZEotbG9WamtmMXFIWlVjNHUtR0JhTDN3b3FIZXZTVEZzRERHZ0xpUlZ0X3VUblFaSm83cDQwRlN0TmxoQTk1X3ZSUlpNUGQxcDdXaGxGQTlXeUhFZUZlWk9ocV9vR0NTNlNBTmNNbHM5QkdXMTZwbTIwb2x4SFozbmVkY0N0bWdJakd4Y3pZMTEtLVk2b0VXZFlfSGRQV19zeXcxTTc1MDF2M3JXd1NGcGxmWGJzZU9HbnNxR2JJOWdobQ?oc=5
-
-- Indian national shot dead by unidentified man in New York City - The Hindu
-  Indian national shot dead by unidentified man in New York
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0dMbEVNS3lUdGlDamZqMGhVRl90S2twQTZESXpfVnh4LURtWVkyc3Y3Q2ROZGhYRkNKd3M0OERCME9OYzZlSFc4c0I1LXd3cVNaSExENVoycldJYTlzQnVJTHRuWEdwSDE3c0hIV3FncGV6ZXBYYTVHdFJkVGczSlJmMklXdDBBeHJNMThTdzBCNy1TNTJXLUpiLWpydHQzZnN0NVhyaWZHWnJULTZhNDlYV0pVS2JaaE5zV1owMDB1MWI20gHLAUFVX3lxTE1PRUhKd1gwMUNWdlpOeE5WQ0g4VjhXRTIwU1NLWnVnUktGTVBhMVpvZGpUUXVtT1FvbkNVOHNERWdhd1AzVy1kX3BmRjl4VXczVXBjVGJlcjgtb3FXbl8wcTkzOF83MFhFNDBIQWdYaFVvaUpZVFNhMkkyY0RVTHJodHFLRjAtR0xEVWhlcVNhV083dDBjRWxQQXFuUGw2YXJENFNBb1N1REZsM2QwTUpCbkN2X2tPOEV0Tk9jUHljZDVxa0I5ZnVPYVpr?oc=5
+- ET World Leaders Forum: Trust-based reforms transformed India’s middle class, says PM Modi - The Economic Times
+  The Economic Times: Trust-based reforms transformed India’s
+  🔗 https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQVNseWJYc0RfcGZPNGFreU12ck91eE00bVgyQ3FMdWM3M3RaSjN6YmltbVhJeHhmVGRiR1ZLWE50RjFoOGZQNkloWWJTTWkwXzhSUEJBWTJxSXNrYjBya1BKRVJjdzdLQTNWWnQxeHIwRHlkQkpJMmlKSGladG10eXFwVi04S01ERUFORFI4aHUtcGd4UHpIaFpSamZGSGo5Q2FaeXZKS1NKMGtkYkh0YlJTdm1Qem81VDBRU2RGS3JSMEhuNTZmYlQ4Ym5QNXU5eXRVN3VRVnR5WkdpdnZyWEIxcHlfNGhiRk5aaDVvUEd0NEU0WFhZa0wyMHZMX1JVVDBFd2d4MENUUFVRNVp0d0JRSWhPcGpVRGp1V0p1N2hzdkZUVnAtNS1OU0x4S0hCZ0FvTHRRcDJ4WmI4Rm1sN0FOOTVwWGxwZmYxTldaNEw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-23 18:24:26 UTC_
+_Last updated: 2026-08-24 00:59:31 UTC_
