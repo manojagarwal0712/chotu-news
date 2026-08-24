@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- 'Represented India In 3 Nations': Ex-Envoy After Details Don't Match In SIR - NDTV
-  'Represented India In 3 Nations': Ex-
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVItVk00YkNQUUphMVRCSU1kMHM4MWRuWENqeGtkbEpYWDNpcHRwckViaDhNZDZzdjJ0M2lHclU3WHlXWkNwU2UzWVZTMGdNVVc2cEJqQjVrT25SYWZsdWxOTnVPNjd4UHlMaGtpeklOdlBvcDZfMFNSZTVURk9zSkZ4dXF2UEMwNGtFZS1iNGxSaEtJX2FzbWF5SFJUSEQtUl9nUGNqUzF2MkQ1MFYzLU5sNGx0d0JlRERWd3NmT19wV03SAcsBQVVfeXFMTlE3OUtkMC1SeVVSVUlUNHIwSG9Gb3NmZE1oaUxuWDFHTjVnLWJTWW5COG1pa21mQ3d0UW5MMmJQRzJkeE16Z19scWpSY3F4Z1NmX3h0b0h4RG1aTlhNakdiSWQ0ekg2RWdxMkEwRnZLQ0VhZHhXV3NteWZzOUFNaU1UcWlFRUVEcmFwejRFdmdrU3l6RkctN0JKRm55MlFiQUp2d2JBVTFZVFFQZmNNbkUzTjVHX0IwRE9tU3ZpTi1FVVYzMkh1Qi1laG8?oc=5
+- India’s news channels bring global fame. ‘Later it gets, crazier the shows become,’ says Sergio Gor - Telegraph India
+  India’s news channels bring global fame. ‘Later it gets
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTFLSzZTU1ZwaUxfV1JyaGZPeDlRWU04YUhVSHdhc205RlB3ZVhELU5aalE2V3ZGUkgzUFV6Y0xsT05zWkprTk80SDZnMU5sdmRrSW1VTGJsdExlTUpfaFc4WHRKb2hlUHFyLXRjeGhCRURxbFpEV3Vwd3NDLXZQZGxCNXN6eTZ4WXJ3eFhIZDhPVU5XYzZOY1JlaE9HMmd6alN6X0UtWWM5NUdqMjZYUGNIbE5mRGZrdlpTUkpTQzZqQ1FzUFZXVHpNRnJjN3BCY2tfX3J0NGpXQdIB3wFBVV95cUxOZmVPSVFsT21lZlBOdVlwS3NrS0xqeWxkVDBVZ2JHSlRaYU9xdDFaY1FhVmd6WG5RbXlINVFJT0hDUkZQOVhqSHFpbWg3OHZjTlJEcy13dlhFWHhfTWtfcHVkRzVZZE8tYWV4ZEFqUmRzMVJjV2NoMTcyZXRZa2wtZnVBeE1mS3AwN3JYaGN1d1Ffbk9LaVdlRUFteEZ3WlZLSkhWTE5EdFJkNTd2NTRtU2x2MVdwalBTWDhodDF0QTRhT3I0MmE1NlE0X1BkUWI1REsyWHE0aDJHTFB3M09r?oc=5
 
-- "Standard Practice": Sources On India's Request At PM-Trump Press Meet - NDTV
-  "Standard Practice": Sources On India's
+- On India's 'No Press' Request, Sources Cite Trump's "Unpredictable Behaviour" - NDTV
+  On India's 'No Press' Request
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWUtQlVmNTZteGJ4ZF9jdndUc3ozQWZ1N3ZhazZsRzh3eHY5Rkc1Zm9GUGZTRHpZVW5iUTZocVpHSHdDbVJXZlhJWEVSRFAtS3lnUi1XZnRNaHNidHB0YVpmTzhIazlrbG5nNXFXMm5OU1R4Qm9vQ00zWWJWZEgtTXpwaUZkWm8zLU1EWWdxY2FTdlJOVHJWVTFXdkYyakRreXU4SEhDN3pEVWhKNWpyLXpfR29DYjlhT2FxVDJyd2VjNTk5VG16dUdnTDVubDRQaU4xeE8wS2pnUUFSQnfSAeYBQVVfeXFMUE05MWhfWDg3eTMzcnRhMC05eTZ4UXkxeHAyYVBPd1VYbWM4X2JnNFoyZ3JwV1ZjaVNMWVRrNnRpaUx4eWllUC1jcDFXLXhaR21qdjBuVHdueURTZGxQdkZsQWxzdFF6bWY1Zm5WYjRGSWdKb19sNGxUX1RvZGFfMjZxN0NuM2o1Tk1tTnUtY0FLVV95ZDFVa3dUblN0Qmx3Zm5ZYmtvNE5FaXlzRi1zZjMydFFTdVJsMjJUZ21nNjlIZnpLS0g2X2s4eWg1ZTY5UmtCUVhLMl9RNV9obUtyVTFXRXRlY1E?oc=5
-
-- Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor | India News - Hindustan Times
-  The US president-elect held 45-min presser with PM Modi at G7 summit.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOYkxTM1J6WEoxTXA3S0prNWJuVWFaT1ZXOHZaV19kYnhPSkJuWV9aSnJqOVR2ZjBTWEJ3Q2F0VUFLRWVPX3loUXB1OTkxeGpmNGFoT29QNUR2MVBBc0dORnBCb0hJUmJZOXM0NGNPN2pFZDZNMzN1VWlOLTAyaUJFZW9zeFlqcklEdVROUmdUcmZOVURZUWZDanVZUE9fNXNHRVNZbkFsUzhtSF9OWHl1OXJBdTExVU1JYVRTU3k5NXJCWFZOWnp2Q3BGYlluY2pReWhxVXBtdVltSEQyTzJqQmgwYmYyWFNXUzNFc0Y3WlkwMmM2cng4eFFQT2lWTWFtdm1B0gGIAkFVX3lxTFB1N1pCelhKazB1X2dlV1hkZmM2YmxjY0NyUElyUjJJc3p6WGZuTXRmOGd5dGtuRloyWllVX3kzZjFCSkdzSG1WWUZMUWk5aFJpQy1kZUJzODQ5U2x0MTVMME9zX01kODI1bkQwN0ZsbXJ4OUtNeW1MRWFpdHhMcm9QTmYxSGlZYVI2STAxNl9XZXpwZmJUblkwWlZ6a29aNkxyZENqOXNLWWxVSFhnX2lmNXZXVFRYdkZuTXJQUTVlTi1KclRQMENjZU5rYmVGNUFBRTFRek5kQ2Frb0w3cExGSHYzaUlZYnR0NTJ4TE50NVRFQVQwV2xodm1pdE1jckh4MmZYcHJ0VQ?oc=5
 
 - PM Modi calls upon country’s space sector to create an ecosystem that attracts global space talent to India - News On AIR
   PM Modi calls upon country’s space sector to create an ecosystem that attracts global space
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDZXUWNmRWhZQl83dE1hc1Y1Ul8tMDgydFJCWlhOVXJzNUtSby1Yb1IxeGd6UWpLVlpSY2hlOUxjbG5GaWN1YXZtVFE2QnlFNlQ3Y0E4bGpPYXdaanN1MXVvOEhVS2Q5QWVNdFJwU2VGLVJIX1ZZQjRrLV9ESE9rMG1rcVdVdTluVnd2Q1JMMWNkY1VGS1p2VDdQVV83WmJ3djh0NC01anZhVzh0eFZYU25DYm5YY3J6aWVFWllPMjhpeTdFSVlhNFFib00?oc=5
 
-- 150 Pakistani Sindhi brides reach India for weddings months after Pahalgam attack, Operation Sindoor - WION
-  150 Pakistani Sindhi brides reach India for weddings months after
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzRXWFVRcHlWOERPbk9FRFcwMUw0ZWZKeV9yS2lvVWxESUxGajI1RW1jaDZkYjdHQk5pR1RTVUYyRGJyMG1RNHRYaDZudjNkWEMwQ29lekdEWU1JRnZFU1RuYjllWDBqWkRaRk01LTFwRkNlWW1MZHBVWko3LV9MbjdiRFpkbEpqbGNoYXpUdEs2NU9RN0hHUDlyem54OXdMUnVSZk5sZXXSAa4BQVVfeXFMTkdQRGVWLXQtaXoxcWRsUlJ5cjl2NjFJYS1MRC1KYUxsLVUyOUxBWl9GSGJtLWM5UFZMaVZYemR2dWJKTGRhT09CeXBKamtKLXd6OTFPTEh5RFlCYTBkQV9rRmlIY2F3RkFnam52WElQUDBPMEdNU0dsZVgwRE41VDRBY2Z6T1hwU0N1Z0Q0MFFHRWo4OTVfQXpmajJHc2tiWml3SXFGdTVEN3daZjNB?oc=5
+- No shortage of sugar in India, retail prices to come down: industry body ISMA - The Hindu
+  No shortage of sugar in India, retail prices to come down:
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnpfU1BydE1acmR6eTFPNk41VmJFNThPYVRzU2I2aEVxOU1wRDRfYzNFTTZUdlhHcWxkenNEdVMycTRPbTdWOWFsdXViem0zOW1mSmxBa2FOc1BnU1Q2cGhQOF9JUzBTRktiUksxallSNEJCYlU2ck5BaS1Wd1pIVHpwVV9uZnlDUUo4c3A4YThyd1dhX2ZLRGZxMzU0THc2TUlYc3lpSVJzLUtyU1phSmRTNVJMOUtmYlE3ZWFyenplbUs5RGt3QkNUemQyX2PSAdYBQVVfeXFMUDVUdHNlVWdIMktSck1JQ2lrNFg1dUlSaGtHRVEwSGVRNjZLTjJ3ZWgtb1doalh4emgwRFJnSGNGR0dTb2YzSGI4MEhTWXZseTNCdnphRE9kT1VhOHRaQ05teldENTIyRkpyWExOWmlXMlVJQTZvbW8yUDY5YTNPd09lNzlZUTF1Y2FfT2djWDB4bjNpQ2lWakx4ZmxyTmRaSFY1azh1ZUxrOC16dFVzbjlUYjROWEFOclRvWjZKTno0Z0VDeTF4aThNM3cyR2dITkNFNWtIdw?oc=5
 
-- India may see major growth in sodium-ion batteries as technology reaches TRL-7: Renewable Energy Secretary - ET EnergyWorld
-  India may see major growth in sodium-ion batteries as technology reaches TR
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNaTVxcVVHTlBtcDVfZ0NfQm5qOEVybkxkODJwSUZvRGRRMzI1V2FmRFZtOEN0SUE5VHdkU05nUWo5MWZvU3otSXd2TmRSdTBMT09zNmt5dHpRa3JPNWJwY2ZTSXk5UGFCTGRJODBFZFdGV1FjT2c5TzU5eUNDOXFIQ09VVklxWDBZMDhWSzNpWTFjMzZiYzZQMktvWEpfY2Mwa2ZMNDhITDVvdmlkMGU5dEx0U2s3NWI1Q2pVRHcxaDhmbXFxbU4yamxEc1RBWTBBQzNhV2ZLWWllQmltVzhSYlpndGllbVlMX19tY2tkamZoVmJkaDVVLUNfbTJKSWRXMVRZWNIBigJBVV95cUxON2dtUWdDYlk5Smt1UTlZM3dZdFpac1lVVi1OdkM0dWJIOUd2TC1ZNGpJaUlMcnNZczZZaGxPX2xlci1XeTZRY2VWak1CZC1xMXZhaTlvQkpWM25UTUYwOE5Cb0ZiM1FWZ2tDSGk1UVpSTVM3U0JQMHpGcFBFVFJncjBJTmhTMVdsVVB3eEVQLTlrcWZBbGtldWczX2xlNno0WmNBTk95TGk1djZmdThpN1lMRkhuU3dXbmRRcFNKMVQyQkdEMmpyQ3A4MWRjaE5HNGVrbE5BcTRtWWMtZVNucFFEUFVGTnJlX09GN2U4dmY3RG9QdjFkdUtZWE1rY2FIY2xEUWlQaG5Tdw?oc=5
+- Indian Men’s Team’s slim chance of entering FIH Hockey World Cup 2026 semis depends on complex mathematics - Hockey India
+  Hockey India's slim chance of entering FIH Hockey World Cup 2026 sem
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2VsekFVSUhHTlAxUXhGRGRHZ2pzSEN5cHZweW1JTnhsajlTWWdmZGRCLURlNVZPQ19zTXFMUEtRV3l5Ukt3dWtDdjJTZnFEbnQ4c2w4cmdlZjNTbW9Ob3VBSmd2N1ZZSGFpMHpHNzlDbTNQVHd4andIb1JNTG9ORDlsZi1oaERPbldVWmcxTEM2Wm84aWlMejRNc3NvUElOb2ViWHl2TFNwNUFKVXZJVmxaNFRTNVFlUUJUMTJwSVVfRVF3ampjaHZ0MDhYUVBjQzhr?oc=5
 
-- Trinity Cleantech develops bioethanol-powered Gen Set with integrated EV charging - ET Auto
-  Trinity Cleantech develops bioethanol
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOEcxVkNZZ2RyaGV6dHRXWXllT2k0UlZHTE52ZS02czd3cnM0X3o5Qng2V202LURTR09kUU1nS3V6NWkwZl8ydENZVGhvUTdfSllnQ24wZnRDT3ZSNzQtX0Z0d0V5MVI4NjFzbHlwLVBWY1R2NnFxc25pRmZ4aHhIUkx1XzFnMkpSLUEzT0lWbXFmNU50NnRHWldFTFh5dEo0bFB2UndqTkdHaWtackMteWhOeVBEV3B1X1dfV3ZhcEZHQTNvVWRHdVpPTl96V3NiNWQwMHRFbEppMml2MnpzaTI5RW5odzVDMmfSAe8BQVVfeXFMTVZVSDhidE9iSTQxZWZKV0dVSFNycmh6bmFmNlZwZkNpY3dpeFB2bVhULW9Sc1VHdkFDUHR4LUFYZFZ4amtSSUJmUndFaXJhNUwyYmdKVjlKeDNQMzRPdk1FeTZwTnlmVGVlTGRkOVcwUUhodC1WdGRQdXVxQ3YyZ0kzZlIxY1RJMkhQSUlfTXNhdWF5aUVibGR1aFJNaV9XNmlCMFpUdEpqX3VlSGNmRkx1Z21aV2x3dVVpYUJhSk5zNmlNY0x4NXNOVGJ5Rl9QMUszbGRMc1U0ME12MGZQQXJ4Q3E2NldUM1RCbjZnWWs?oc=5
+- 'Security by antiquity': Why older tech is sometimes safer from hackers - BBC
+  'Security by antiquity': Why older tech is
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQakpEUHJRQ2V4MUJrX1lyRnZiUDZQNU5hZmhCdW9kZ1pkRWlIUHZIbExtWmhXazNCdlV6NUJEeVFNREtiZGF3WXFoRXlHb3RoM0YwSjBZWWIxMV8xS1J4cFZULXlVOXNVdTZLNkdBckJDYVQ1eWJUWVZ3aDFYZ1pKNS00NDRIUFg2RUVuclhKcjBIYTJ0?oc=5
+
+- Britain’s giving Ukraine access to secret missile technology. Will it make a difference? - CNN
+  Britain’s giving Ukraine access to secret missile technology
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzk0YkVCVTZsRUo0dGxUQXVrcE1jaGNPaW13cjZTeVFXMzZIVXdHcDhHd0NrdG1iWDNhT1hpSlN3aDJCWHdaNTZoSkhONW4zdmxlbXFYWUhKRjNJMFBndUhXalJEa1ItVHNUMmZBZDBkNGhKNVVpRkFhSGhrMG53OC1ZTU9ZTDhnSWlfVEdJR3dLUQ?oc=5
 
 - Jio 5G looks beyond India as homegrown technology targets overseas telecom markets - Telegraph India
   Jio 5G looks beyond India as homegrown technology targets
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUTlEcHlWUnlBbW05ZktkbTJjQ2ZuMktSR1R2ckNwM1pGRWNSX2NpRnpEQVRnbTNTeDY0MzFreVJ5SDBTV1ZnZ0VkRER6QXR1VkgzTkV3bUh1OTNHUjBfN2RaVFFDT21kMXNnWUlITzJWRVNocHpxRklFb1BreTRiWk5XdFVST3V3RDU5MGVUR1hKcEV5YV90azNRNENnYXZYLWZJMXVhd1BqaGd3Y1VRZXpsR25pQ3dFWHlTOGowdWVuRldDd2RpSFVaUVJEeEdiRHfSAdcBQVVfeXFMTkpZbEd4ZEhGa0J5WHNpQ3NxQzl0M0VZS1hLRHVhbFNTNGFrX3Z3TTV2OVJzY3l2Nlc4M2k1MG9nYmk1UUY1WklFN3dCWTZvaGJWVS10QUNkS1A3ZzFiYTFCMXFkZEZnNGpqNmhCWUtnUUM5dXNSN1phSWItNmhRQUxfeV9LblNDUHU4aDJZNjhoamlkazBDVlJEU0toUEIwNnJmTXhrS2M3bTdpd2dCVkIzWXFSTGlCZWw0Z3FFLWtsZWtOUEhLeWZTNGJ4SEcwNDBPbGsyaVk?oc=5
 
-- Capacity Revealed: How China's technology became a global public good - news.cgtn.com
-  "Capacity Revealed: How China
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUJRRFJRZTRIQU9LNnp1YmVwU3BWMUMtQnRLb0h0dXFmZ0lHdmxjX2FpbFlhbGwxZFlZY01YSGVBdDRfbDJodkRFMmN2VDltbXI5VUZQZnBXNXBTZl9XM203NmtWa3huWXh4SFdPT3VzY2hwZVl3YVZvVHRSSHp0eHF1UVd0SG9MQ0lxeS1JdmpQU09oVmN6WmtyVzYtOUdKMlhlcVZnd1ZYQ05SbS1TVzNfbmhqeUxRN1ZMaFVMc0VCcUE?oc=5
+- Why India Must Invest in Talent over Technology - orfonline.org
+  Why India Must Invest in Talent
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNTFEyWFZRUmN2R2ltajNWb29acEtKTDU2bXJaRDZSWE1oWWRzbmxibWg3YnNlVW9fbXRTUWJ2LWhWX2lQYldJck1NcFZfdXd1Tkk1QjdBRnpJX3FoYTI0VUlHRTdBZS1HZzNrdFg2cFBEbWw2WTctZFFwMGdWemxVdHNrMjRNbmt5dk1DNlVQaw?oc=5
 
-- Data-Center Disenchantment - WSJ
-  
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdUlfR3JuY2R6QzBnakZIaGhYbldoZlZrQVRUN1FPUGNLdGF5V1ZGeXFqLTFiMEc1Qi1KV2E5RUxBQnVzemQ5VWQtX29WTEI2MHVPLUIxSHFUZFpLdWh4MTVSZEFlWGpMX1AycXJhMTA?oc=5
+- IRGC Claims Hidden Tracking Technology Blinded U.S. Forces During Recent Attacks On Military Bases - The Times of India
+  IRGC Claims Hidden Tracking Technology Blinded U.S. Forces During Recent
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNNjBSTURaZmZVTFAtUmR5czZ4ZHVZRTBSWUZQdEEtV3pqaWxFa0FPRERqSGlFelh0QW1uTHlXZHVlT0dxdFBQYU4wZjJPb0FBcFRpeC1RZFJoaDM4R1BqVXMyX0dkbG50Y1ZfVGJoa0gxdHhTQ2s2NTlVOEdJOGdDVXU0dEpxWkpWVGFDdDQzZGIyQldaV1dBWGRhaGNWdEhiUmhBZU85bWFZdHItTHNIY3B6ejB3cTY3cjktS1ZUZEEwSV9TZXdQc0NCa25UOC1Nb3FwT2ZsZ19EblZLNVZTdF8tUXZZZmwxeC1Gb0huS0dZdzZ5UWo4ZUNQQ0kweFRILVdNd3Jzd3JTd9IBjwJBVV95cUxPQXViRE5CRVdJTXhtWkNFMDBuYXRTbmF2dmJhZXk2dVYzSDZzckJNaWZWVzFNYkRvMTA4TXp6WFNlWHFIU083M3diYTFSVGVSSk12QTdrbUFsRGxUZjVEdHM1YnlZSVVlU21BWEtOQzk1dnBqVjc1emRCY1hMLTVoWnAtNVpEUzVZVVpvSnk2TWVQcHVLTUFhOTZzNGdqbTg0Tl9ncXpkM2JKaWk2aHVaeDBvbG10dzhqNXJnb00xNGVKMVRiOVZkaUthR2FjeWhhWlU0am5zeWpqb2NfRWx1elM2cGI3OEZ3VWxQZlRjX3VLT0dBQVg4NE9qOXFhaE0wREtGLXAxTGJVYjkzWFJB?oc=5
 
-- IHCL to merge Oriental Hotels in all-stock deal, adding 825 rooms
-  The merger will simplify IHCL’s holding structure, give it direct ownership of seven OHL hotels
-  🔗 https://www.livemint.com/companies/news/ihcl-to-merge-oriental-hotels-in-all-stock-deal-adding-825-rooms-11787548242347.html
+- HUL vs Beco ad case: Delhi HC reserves order on territorial jurisdiction
+  Delhi High Court reserved its order on whether it has jurisdiction to hear HUL's plea against Beco
+  🔗 https://www.livemint.com/companies/news/hul-vs-beco-ad-case-delhi-hc-reserves-order-on-territorial-jurisdiction-11787569730209.html
 
-- Nomura sees strong public market momentum, global buyout interest in India
-  Nomura expects India’s public markets to remain active as QIPs and block deals gain ground. Global
-  🔗 https://www.livemint.com/companies/nomura-india-investment-banking-qip-ipo-block-deals-2026-11787536058836.html
+- After the lottery win: why Dr Reddy’s may be doing much more in its laboratories
+  The pharmaceutical company rode one copycat drug to record profits. Now, co-chairman G.V. Prasad
+  🔗 https://www.livemint.com/companies/news/dr-reddys-post-revlimid-strategy-biosimilars-11787557561217.html
 
-- Third Wave Coffee raises  ₹408 crore from Westbridge Capital as it takes coffee play to more cities
-  Third Wave Coffee has raised  ₹408 crore from existing investors Westbridge and Creaegis. Third Wave
-  🔗 https://www.livemint.com/companies/third-wave-coffee-funding-rs-408-crore-westbridge-capital-expansion-11787462869775.html
+- SoftBank plans $6.3 billion retail bond sale in Japan next month, moves to raise funds for OpenAI commitments
+  SoftBank Group is planning a record $6.3 billion retail bond sale next month. The sale will be the biggest by any issuer in Japan
+  🔗 https://www.livemint.com/companies/news/softbank-group-plans-6-3-billion-retail-bond-sale-issue-in-japan-4-september-raise-funds-openai-commitment-ai-investment-11787563715513.html
 
-- KPMG Australia cuts 400 jobs amid ongoing scandal, slowed demand for consulting services: Report
-  KPMG Australia is cutting around 400 jobs, or 5% of its workforce, amid weak economic conditions. Revenue and partner pay also declined, while its CEO expects tough conditions to persist.
-  🔗 https://www.livemint.com/companies/news/kpmg-australia-cuts-400-jobs-amid-ongoing-scandal-slowed-demand-for-consulting-services-report-11787544585189.html
+- US-based Plaud bets India can outpace its global AI wearables growth
+  Plaud's expansion into India comes at a time when India's wearables
+  🔗 https://www.livemint.com/companies/news/usbased-plaud-bets-india-outpace-global-ai-wearables-growth-11787548318911.html
 
-- Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI
-  Alibaba stock slumps in Hong Kong after
-  🔗 https://www.livemint.com/companies/alibaba-stock-slumps-in-hong-kong-after-10-2-billion-share-placement-to-fund-ai-11787537726865.html
+- LIC's record OFS stirs the 'near-zero' deal advisor fee debate again
+  LIC’s  ₹31,500 crore share sale will earn its four investment banks a paltry  ⁹4 lakh in fees in
+  🔗 https://www.livemint.com/companies/lic-rs-31500-crore-ofs-zero-fee-investment-banks-11787549954654.html
 
-- Aurobindo Pharma US subsidiary Lannett Company LLC faces 4 observations from the USFDA
-  Aurobindo Pharma says US FDA conducted a routine inspection of its wholly owned step-down subsidiary in the US.
-  🔗 https://www.livemint.com/market/stock-market-news/aurobindo-pharma-us-subsidiary-lannett-company-llc-faces-4-observations-from-the-usfda-11787552311921.html
+- US stock market today: Wall Street futures slip as tech rout, Iran tensions and bond yields weigh
+  The stock market fell on 24 August due to a decline in tech stocks and escalating Middle East tensions.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-slip-as-tech-rout-iran-tensions-and-bond-yields-weigh-11787385929496.html
 
-- Rain Industries share price: Petrochemical stock jumps 4% amid soaring crude oil prices on US-Iran war
-  Rain Industries share price rose over 4% on 24 August, driven by rising crude oil prices amid US-Iran tensions. Q2CY26 revenue reached  ₹
-  🔗 https://www.livemint.com/market/stock-market-news/rain-industries-share-price-petrochemical-stock-jumps-4-amid-soaring-crude-oil-prices-on-us-iran-war-11787549018567.html
+- Bajaj Finance, HDFC Life to Nippon Life India AMC: Mirae Asset Sharekhan recommends 11 BFSI stocks to buy for long term
+  Mirae Asset Sharekhan recommends 11 BFSI stocks poised for long-term gains. Discover which stocks made
+  🔗 https://www.livemint.com/market/stock-market-news/bajaj-finance-hdfc-life-to-nippon-life-india-amc-mirae-asset-sharekhan-recommends-11-bfsi-stocks-to-buy-for-long-term-11787568683714.html
 
-- Stocks to buy for short term: Meesho, Axis Bank among 3 shares Anand Rathi's Jigar Patel suggests for the next 1-2 weeks
-  Jigar Patel of Anand Rathi identifies three stocks poised for potential short
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-meesho-axis-bank-among-3-shares-anand-rathis-jigar-patel-suggests-for-the-next-1-2-weeks-11787539867336.html
+- Stock market prediction tomorrow, 25 August: What will happen to Sensex, Nifty Bank, Nifty, KOSPI, Nikkei on Tuesday?
+  Key Asian markets, including India, closed lower on August 24 due to investor caution. Major indices fell, with Tokyo's Nikkei 225 down 0.7%. Rising global bond yields
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-25-august-what-will-happen-in-sensex-nifty-bank-nifty-kospi-nikkei-on-tuesday-11787568302143.html
 
-- Balrampur Chini Mills share price up over 10% in 5 days - What's sweetening up stock investors | Explained
-  The stock surged as much 2.86% on 24 August, touching an intraday high of  ₹751.70. On Monday
-  🔗 https://www.livemint.com/market/stock-market-news/balrampur-chini-mills-share-price-up-over-10-in-5-days-whats-sweetening-up-stock-investors-explained-11787547675126.html
+- Multibagger defence stock Apollo Micro System acquires 34% stake in defence tech company
+  Apollo Micro Systems acquired a 34% stake in Shauryastra Defence Systems. The venture, focused on defence technology, will be led by Dr V. K
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-system-acquires-34-stake-in-defence-tech-company-11787563507933.html
 
-- Alibaba shares plunge 11% after $10.2 billion share placement to fund AI expansion
-  Alibaba shares drop 11% after announcing an HK$80 billion share placement to fund AI expansion. Proceeds will enhance AI capabilities amid a 75% decline in quarterly net profit
-  🔗 https://www.livemint.com/market/stock-market-news/alibaba-shares-plunge-11-after-10-2-billion-share-placement-to-fund-ai-expansion-11787547880961.html
+- Stock market today: Sensex falls 170 points, Nifty 50 ends below 24,219; metal stocks shine
+  The Sensex ended at 77,369, down 172 points, or 0.22%, while the Nifty 50 closed 33 points lower at 24,219.05
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-170-points-nifty-50-ends-below-24-219-metal-stocks-shine-11787565654953.html
+
+- Western bias in AI could shape how billions of users see world: Report
+  Western cultural bias built into artificial intelligence systems could influence how billions of users understand and interact with the world.
+  🔗 https://www.livemint.com/technology/tech-news/western-bias-in-ai-could-shape-how-billions-of-users-see-world-report-11787568165207.html
+
+- Taiwan issues indictments over alleged illegal export of AI servers to China
+  Taiwan issues indictments over alleged
+  🔗 https://www.livemint.com/technology/taiwan-issues-indictments-over-alleged-illegal-export-of-ai-servers-to-china-11787563403581.html
 
 - Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs
   Workers in China worry over being replaced as they adapt to the
@@ -92,73 +100,77 @@
   Ashwini Vaishnaw hinted that Apple may expand manufacturing in India to include MacBooks and iPads. The announcement coincides with the launch of a  ₹
   🔗 https://www.livemint.com/technology/tech-news/macbooks-ipads-to-be-made-in-india-ashwini-vaishnaw-hints-at-apple-s-wider-manufacturing-plans-beyond-iphones-11787417147874.html
 
-- OpenAI slashes GPT-5.6 Sol API pricing by over 20% — Developers can now access it at  ₹380 only
-  The prices for ChatGPT Pro, Plus
-  🔗 https://www.livemint.com/technology/apps/openai-slashes-gpt-5-6-sol-api-pricing-by-over-20-developers-can-now-access-it-at-rs-380-only-11787402625527.html
+- Stock Market Today: Oil Drops Ahead of Bessent Iran Presser, Tech Stocks Under Pressure — Live Updates - WSJ
+  Stock Market Today: Oil Drops Ahead of Bessent Iran Presser,
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTJUd0xkSF9saUkxaVB0VW5FMGg5S0dVZ2VrTGhmLTVvaVZ1V2dpX0R0RkJ1UG5rRGVZRW4ySHF1TnVjczMyVVE0TlhRb0l1SWVxMTlyNllUQ0VEdFY0aUVhSmFxM1VvbTc2MEJybzh2RHdYY3MxQW1EV3c4Z0puYUlJMHpBSzQ?oc=5
 
-- Amazon hikes Echo, Kindle, Fire TV prices amid memory cost surge: Here's how much it will cost you now
-  The price of Amazon's Fire TV Stick 4K Max has also risen sharply, from  ₹5,741 (US
-  🔗 https://www.livemint.com/technology/amazon-hikes-echo-kindle-fire-tv-prices-amid-memory-cost-surge-heres-how-much-it-will-cost-you-now-11787404848939.html
+- Stock Market Today: Futures Point to Lower Open After Losing Week; Oil Slips Ahead of Bessent Press Conference on Iran - Investopedia
+  Stock Market Today: Futures Point to Lower Open After Losing Week. Oil Slips
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPLXd4eU5QWGZRV3Y2ZUtpNUdUZEh1WE9hY0doLTVhVlViZktwZnE2YjFpUDVIenZ5SDlHTy1YTmVOQlM3allHbWM4WmxhNW9xbXBBNGhGdHZLbm9TZ0NkWldwUVpxQXd6dG80SS1lV0dNY19ETzQtZWhXZ2ZMLUR1MkFndFR1cDROWVp6NXRUTnc?oc=5
 
-- Stock futures slip after Dow posts back-to-back weekly declines: Live updates - CNBC
-  Stock futures slip after Dow posts back-to
+- Stock futures slip as tech shares fall to start the week: Live updates - CNBC
+  Stock futures slip as tech shares fall to start the week
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE03WVhEWGtPNEFpYV90cDVnTW5jcjJ4XzMwRWl6d2dEOWxVMjk5cVA0bGNzMTR6THNiN3JIMlVCbkNaZHJlRUxMaTVZUFRJcTdfZW41TWNSXzI4a3hZOFdHcEtHcEJHb0ZwQTdLUE1LVkN3RG4zUnpB0gF8QVVfeXFMTlYxNW1kWmY1QUNNU3VLbUFwalRnVmYzTEY5aVRtTElfVFpfNmFEZDZ5ejdzS1RlWHQ1Q25BX0ZkOTZaMWNpT3ZrWXBPc0R1SnIzMVkzdGxvUG9qZUVyS0tieGd0NEZubGxJa2VNbnVTaXlzRUFPMjVWN2pocQ?oc=5
 
-- Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss - WSJ
-  Stock Market News, Aug. 21, 2026: Bitcoin J
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWg3azFqLWQ4Wk4weVZuYVFjYVBwZnBuak94TWxuUlZNQ1BZWXNzaWhfR05teG1VWEtrNVdwZFRxTmZCVTdRVkFuZm9hLS1XSV8wUlQwckE4UWk4MXJxdVNFZWllNktGaUxMRFNEN25TVXJveDBEYWFhMUVXazR1VTBQR200UFE?oc=5
+- Total CEO Says Market Is Bearish for Crude, Bullish for Products - Bloomberg
+  Total CEO Says Market Is Bearish for Cr
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXlRVVZ2ZjVUTkFRMDRmRGJrY1ZScWJWcGc2U1RWR1RYVGFhZHJTLXk2SUw1NXFyb2o0WThoZms4Tm13bTZRYUp2c0d6NE1yX19sWGR3dUJ3YmZ1aTdYTlVBY0owTTJ0c3RzOFQ3SHprZ1A5cXB3SnhhdklyRlc5NWtONjRXalgtVWpXSVhlWTZOMExTYmYxTDRkaXZtVm5KUHBRd0ZYY2JqVjJQcUhrdm1DMUsySF84WmRJOUREeFE?oc=5
 
-- Markets News, Aug. 21, 2026: US Indexes Close Higher But Post Weekly Losses; Treasury Yields Edge Upward - Investopedia
-  The Dow Jones Industrial Average and the S&P 500 closed at record highs
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1RGYjEyZDNIbzJOdnJoVU1wQkdWX21uMDZDYTUwdVg5NVpvOU1Pa2F1bDlTcmN3M2xuSVJpeDh1TFhlMTRBLXBNQ3J1ajBoakFiRmxoWnBiOUtGUDlEOTFWX2xJNEY0ZHZ1di1FX3NhanlQeXdVeU1ndHlfYWR4dk5jN09hRG1vZHYtRDJxY3U?oc=5
+- Closing Bell: Nifty at 24,220, Sensex down 171 pts; PSU Banks drag, metals shine - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxQQTl2R1QzcmtIOGh0TzhuVUJ3ZS10VXc1MGw2T3Q0SkgtRWZ3ZW5EckVNN3lHejlsOW5PLVFYWDlFdHg1Wi1fQVpkOVhMNGlxZ29lWW1KMEc1aVF6SkpKWHNVTllhOEI0eG
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxQQTl2R1QzcmtIOGh0TzhuVUJ3ZS10VXc1MGw2T3Q0SkgtRWZ3ZW5EckVNN3lHejlsOW5PLVFYWDlFdHg1Wi1fQVpkOVhMNGlxZ29lWW1KMEc1aVF6SkpKWHNVTllhOEI0eGJrX0xpV2w2U0lhLVBmdGdaRGxSaXZxcTVpcU5rQ0FvSzdVTEl3YjFPVUpuTjNLZENxdWttd0Jkd1V1bGwwczMwOGQzdVp1NFptQXZ6NXdhdWZVa0dhZHhsMVdDZjkxMUtMRDVpSDRkd1NsaGVkelhSc0NubEZqWlhoZVNDRlNKNFZBWG9HT3hvSTJya3BWbGh4ZHJPeFpjRDlMUndfQXJ3OVBrODFqcWZZQkEyVjhEbXF3cEpXWE1BQVXSAagCQVVfeXFMTU1UMTNJTXBCSWo4OHBDOXhSTlNqSXNKOURNNEZnRkgxZUNVYlk5bUpZTVY0R3FvTVNvcUkzb0dEckVVZGIzUm1IaDR3c0ZKcXlZamVYcnhFSkRzQzExN0otUW0zbjFUZnlGbTNweVJZZGVmUDR3cmw0NlVBTWN6NERHemxXUzFpOEpyR0lLOEdDVjRObmdTVjRNNGFUejBNQ09KRDExUmQwNzRKM3BNV2RLWWtGa3hZam9lVzZvVmUxcEo2VnlvSU9FMElvMm5lWG9QSlk5c0NkVGp6bVVDcUdoUDlhUURPazVaOGpzbDNIMlNsN3c4VEFDUWdSN3BsVXlWM0RQNmYweWU3dmw0eDFLd2lMVEdLS3RFR3I2d0phZVFJdTlueEY?oc=5
 
-- US Futures Edge Lower With AI Spending in Focus: Markets Wrap - Bloomberg
-  US Futures Edge Lower With AI Spending in
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjVLTTFEZzVNaE9RQmNUNEd4Q0k5ZXF6UDJZYVdLTGdZWU1PR3FTZXBUWlRmdXptZkc4dXE5SEZoLS1ZLXVBbHA0T2x6VTc3X1U5MFlORXJOdzRNT3ZZNU9BTVNUN19teWRkLTZlYXl2UG5xNXMwOGxpWU1nQk9iTkFOd3NvdURpbFZJNmw0cS02RVgw?oc=5
+- Elan group ropes in Marriott International to manage upcoming hotel, branded homes in Gurugram
+  Elan Group has teamed up with Marriott International to enhance Gurugram's skyline. Elan Group will take charge of the development, while Marriott Hotels India is set to manage both properties.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/elan-group-ropes-in-marriott-international-to-manage-upcoming-hotel-branded-homes-in-gurugram/articleshow/133465171.cms
 
-- Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex falls over 150 pts, Nifty tests 24,200; PSU b... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPR0o3LThRTVVyallTNVcyT2ZYekpGVV9seEhOMkx3TzF3NU9namZoaUpxVUdwZVJoUlJUT2FOWV9rcXNGS3pwQjVrTFdaLUVaeEpXTUU2aHcyc3FNRzBOSTV0NG1Wd0s5ZX
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPR0o3LThRTVVyallTNVcyT2ZYekpGVV9seEhOMkx3TzF3NU9namZoaUpxVUdwZVJoUlJUT2FOWV9rcXNGS3pwQjVrTFdaLUVaeEpXTUU2aHcyc3FNRzBOSTV0NG1Wd0s5ZXpMVGNmZGxaZ3hXQkhUcUVDMWJSY0pBRTZCRGF6d3ZkMkQwZU11dWE3V01mRm82dENnc25rZV9VREFEcFlHUFdILWMzNFM5LUM3VWFSY2dfZG1ZZlAyem5VenRucm5kTXZ5LThNZTk3eHVzZ1JXV2dfZjMyeTFUSEtVWkhHQmZHdmZuSm5OVElwWFpmaEtUQnpnU0poSGkzVFHSAYcCQVVfeXFMTmJ4c3lIekpIOU5fYW52Zms0LWNLU2NEcXZTR2hEZGdoaGlTNE81dHpYdU94ZUVZSzd3WjJmVGZxdnA5UnA1ZWQtcUZ0YnY0NWRRaDNIRVJILWk4TmFaVzBOaUpQaDFOcDFXdUhweHdMZWZkSlI1ekVUNXVqaVVnUWVPSXhkazNBaFhSV1Ffa09pVUIzR3d3dzJZRURhWDNCZjFnZ2xTNjBXa0tpdzJVMnItSHE4aGdzTktkcUxhUlF2R3VtWS10YnNRaEFlN0NDZlVRdGNYSzJwREVmTkpIdDZQMktleTF2dFdzQTFFOFNkUHRvcjEzMTBxRFR2REZyNm41dmpuem8?oc=5
+- India plans first tokenised bond issue in September: Report
+  The state-owned REC will be at the forefront of issuing these innovative bonds. This initial phase is designed for a limited number of selected investors.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-plans-first-tokenised-bond-issue-in-september-report/articleshow/133464895.cms
 
-- Madhur Knit Crafts, ABH Healthcare SME IPOs Day 1: Early subscription, GMP, and key details
-  Madhur Knit and ABH Healthcare SME IPOs opened on August 24, 2026. Investors will track subscription trends, valuations, proceeds utilisation and grey-market sentiment closely.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/madhur-knit-crafts-abh-healthcare-sme-ipos-day-1-early-subscription-gmp-and-key-details/articleshow/133453407.cms
+- Quote of the day by Tom Russo: "Sadly, on Wall Street, rewards for acting with self-interest and to disadvantage public shareholders often prove to be too tempting"
+  Investor Tom Russo warns that self-serving incentives can sometimes outweigh shareholder interests. Russo urges investors to assess management quality and incentive structures alongside financial performance.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-tom-russo-sadly-on-wall-street-rewards-for-acting-with-self-interest-and-to-disadvantage-public-shareholders-often-prove-to-be-too-tempting/articleshow/133463490.cms
 
-- Sugar stocks Balrampur Chini, Dhampur Sugar, Uttam Sugar Mills rally up to 11%. Here are 2 triggers
-  Festive demand, adverse weather in key producing regions and Brazil’s shift towards ethanol are adding to worries over availability. The government has also tightened stockholding limits to curb hoarding.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-balrampur-chini-dhampur-sugar-uttam-sugar-mills-rally-up-to-11-here-are-2-triggers/articleshow/133452667.cms
+- Rs 7.3 trillion InvIT market sees investor base surge 17% as Q1 payouts rise 15% YoY
+  India’s InvIT sector saw investor participation surge 17% sequentially to 6.53 lakh unitholders in Q1 FY27. Distributions rose 15
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rs-7-3-trillion-invit-market-sees-investor-base-surge-17-as-q1-payouts-rise-15-yoy/articleshow/133463347.cms
 
-- 5 key themes set to drive global markets this week
-  Global markets face a crucial week as Jackson Hole, Nvidia’s earnings, inflation data and central-bank decisions take centre stage. Bond yields,
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/5-key-themes-set-to-drive-global-markets-this-week/slideshow/133452590.cms
+- Market wrap: Tata Steel, HCL Tech, Bajaj Finance, Adani Ports top gainers and losers on Nifty and Sensex on Monday
+  The Sensex fell 172 points and the Nifty declined 33 points. Broader markets were mixed, while metal stocks outperformed. JSW Steel, Hindalco and Tata Steel led Nifty gainers.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tata-steel-hcl-tech-bajaj-finance-adani-ports-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/133463103.cms
 
-- Global Market: Alibaba rout drags China, Hong Kong markets lower amid AI spending concerns
-  China and Hong Kong stocks fell sharply on Monday, led by technology shares. Alibaba’s $10.2-billion share placement
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-alibaba-rout-drags-china-hong-kong-markets-lower-amid-ai-spending-concerns/articleshow/133452201.cms
+- India’s news channels bring global fame. ‘Later it gets, crazier the shows become,’ says Sergio Gor - Telegraph India
+  India’s news channels bring global fame. ‘Later it gets
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTFLSzZTU1ZwaUxfV1JyaGZPeDlRWU04YUhVSHdhc205RlB3ZVhELU5aalE2V3ZGUkgzUFV6Y0xsT05zWkprTk80SDZnMU5sdmRrSW1VTGJsdExlTUpfaFc4WHRKb2hlUHFyLXRjeGhCRURxbFpEV3Vwd3NDLXZQZGxCNXN6eTZ4WXJ3eFhIZDhPVU5XYzZOY1JlaE9HMmd6alN6X0UtWWM5NUdqMjZYUGNIbE5mRGZrdlpTUkpTQzZqQ1FzUFZXVHpNRnJjN3BCY2tfX3J0NGpXQdIB3wFBVV95cUxOZmVPSVFsT21lZlBOdVlwS3NrS0xqeWxkVDBVZ2JHSlRaYU9xdDFaY1FhVmd6WG5RbXlINVFJT0hDUkZQOVhqSHFpbWg3OHZjTlJEcy13dlhFWHhfTWtfcHVkRzVZZE8tYWV4ZEFqUmRzMVJjV2NoMTcyZXRZa2wtZnVBeE1mS3AwN3JYaGN1d1Ffbk9LaVdlRUFteEZ3WlZLSkhWTE5EdFJkNTd2NTRtU2x2MVdwalBTWDhodDF0QTRhT3I0MmE1NlE0X1BkUWI1REsyWHE0aDJHTFB3M09r?oc=5
 
-- Fascinate Textiles shares list at 20% discount to issue price of Rs 151 on NSE SME platform
-  Fascinate Textiles shares made a weak NSE SME debut on August 24, listing at a 20% discount to the IPO price. The company reported
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fascinate-textiles-shares-list-at-20-discount-to-issue-price-of-rs-151-on-nse-sme-platform/articleshow/133452117.cms
-
-- 'Represented India In 3 Nations': Ex-Envoy After Details Don't Match In SIR - NDTV
-  'Represented India In 3 Nations': Ex-
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVItVk00YkNQUUphMVRCSU1kMHM4MWRuWENqeGtkbEpYWDNpcHRwckViaDhNZDZzdjJ0M2lHclU3WHlXWkNwU2UzWVZTMGdNVVc2cEJqQjVrT25SYWZsdWxOTnVPNjd4UHlMaGtpeklOdlBvcDZfMFNSZTVURk9zSkZ4dXF2UEMwNGtFZS1iNGxSaEtJX2FzbWF5SFJUSEQtUl9nUGNqUzF2MkQ1MFYzLU5sNGx0d0JlRERWd3NmT19wV03SAcsBQVVfeXFMTlE3OUtkMC1SeVVSVUlUNHIwSG9Gb3NmZE1oaUxuWDFHTjVnLWJTWW5COG1pa21mQ3d0UW5MMmJQRzJkeE16Z19scWpSY3F4Z1NmX3h0b0h4RG1aTlhNakdiSWQ0ekg2RWdxMkEwRnZLQ0VhZHhXV3NteWZzOUFNaU1UcWlFRUVEcmFwejRFdmdrU3l6RkctN0JKRm55MlFiQUp2d2JBVTFZVFFQZmNNbkUzTjVHX0IwRE9tU3ZpTi1FVVYzMkh1Qi1laG8?oc=5
-
-- "Standard Practice": Sources On India's Request At PM-Trump Press Meet - NDTV
-  "Standard Practice": Sources On India's
+- On India's 'No Press' Request, Sources Cite Trump's "Unpredictable Behaviour" - NDTV
+  On India's 'No Press' Request
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWUtQlVmNTZteGJ4ZF9jdndUc3ozQWZ1N3ZhazZsRzh3eHY5Rkc1Zm9GUGZTRHpZVW5iUTZocVpHSHdDbVJXZlhJWEVSRFAtS3lnUi1XZnRNaHNidHB0YVpmTzhIazlrbG5nNXFXMm5OU1R4Qm9vQ00zWWJWZEgtTXpwaUZkWm8zLU1EWWdxY2FTdlJOVHJWVTFXdkYyakRreXU4SEhDN3pEVWhKNWpyLXpfR29DYjlhT2FxVDJyd2VjNTk5VG16dUdnTDVubDRQaU4xeE8wS2pnUUFSQnfSAeYBQVVfeXFMUE05MWhfWDg3eTMzcnRhMC05eTZ4UXkxeHAyYVBPd1VYbWM4X2JnNFoyZ3JwV1ZjaVNMWVRrNnRpaUx4eWllUC1jcDFXLXhaR21qdjBuVHdueURTZGxQdkZsQWxzdFF6bWY1Zm5WYjRGSWdKb19sNGxUX1RvZGFfMjZxN0NuM2o1Tk1tTnUtY0FLVV95ZDFVa3dUblN0Qmx3Zm5ZYmtvNE5FaXlzRi1zZjMydFFTdVJsMjJUZ21nNjlIZnpLS0g2X2s4eWg1ZTY5UmtCUVhLMl9RNV9obUtyVTFXRXRlY1E?oc=5
-
-- Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor | India News - Hindustan Times
-  The US president-elect held 45-min presser with PM Modi at G7 summit.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOYkxTM1J6WEoxTXA3S0prNWJuVWFaT1ZXOHZaV19kYnhPSkJuWV9aSnJqOVR2ZjBTWEJ3Q2F0VUFLRWVPX3loUXB1OTkxeGpmNGFoT29QNUR2MVBBc0dORnBCb0hJUmJZOXM0NGNPN2pFZDZNMzN1VWlOLTAyaUJFZW9zeFlqcklEdVROUmdUcmZOVURZUWZDanVZUE9fNXNHRVNZbkFsUzhtSF9OWHl1OXJBdTExVU1JYVRTU3k5NXJCWFZOWnp2Q3BGYlluY2pReWhxVXBtdVltSEQyTzJqQmgwYmYyWFNXUzNFc0Y3WlkwMmM2cng4eFFQT2lWTWFtdm1B0gGIAkFVX3lxTFB1N1pCelhKazB1X2dlV1hkZmM2YmxjY0NyUElyUjJJc3p6WGZuTXRmOGd5dGtuRloyWllVX3kzZjFCSkdzSG1WWUZMUWk5aFJpQy1kZUJzODQ5U2x0MTVMME9zX01kODI1bkQwN0ZsbXJ4OUtNeW1MRWFpdHhMcm9QTmYxSGlZYVI2STAxNl9XZXpwZmJUblkwWlZ6a29aNkxyZENqOXNLWWxVSFhnX2lmNXZXVFRYdkZuTXJQUTVlTi1KclRQMENjZU5rYmVGNUFBRTFRek5kQ2Frb0w3cExGSHYzaUlZYnR0NTJ4TE50NVRFQVQwV2xodm1pdE1jckh4MmZYcHJ0VQ?oc=5
 
 - PM Modi calls upon country’s space sector to create an ecosystem that attracts global space talent to India - News On AIR
   PM Modi calls upon country’s space sector to create an ecosystem that attracts global space
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDZXUWNmRWhZQl83dE1hc1Y1Ul8tMDgydFJCWlhOVXJzNUtSby1Yb1IxeGd6UWpLVlpSY2hlOUxjbG5GaWN1YXZtVFE2QnlFNlQ3Y0E4bGpPYXdaanN1MXVvOEhVS2Q5QWVNdFJwU2VGLVJIX1ZZQjRrLV9ESE9rMG1rcVdVdTluVnd2Q1JMMWNkY1VGS1p2VDdQVV83WmJ3djh0NC01anZhVzh0eFZYU25DYm5YY3J6aWVFWllPMjhpeTdFSVlhNFFib00?oc=5
 
-- 150 Pakistani Sindhi brides reach India for weddings months after Pahalgam attack, Operation Sindoor - WION
-  150 Pakistani Sindhi brides reach India for weddings months after
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzRXWFVRcHlWOERPbk9FRFcwMUw0ZWZKeV9yS2lvVWxESUxGajI1RW1jaDZkYjdHQk5pR1RTVUYyRGJyMG1RNHRYaDZudjNkWEMwQ29lekdEWU1JRnZFU1RuYjllWDBqWkRaRk01LTFwRkNlWW1MZHBVWko3LV9MbjdiRFpkbEpqbGNoYXpUdEs2NU9RN0hHUDlyem54OXdMUnVSZk5sZXXSAa4BQVVfeXFMTkdQRGVWLXQtaXoxcWRsUlJ5cjl2NjFJYS1MRC1KYUxsLVUyOUxBWl9GSGJtLWM5UFZMaVZYemR2dWJKTGRhT09CeXBKamtKLXd6OTFPTEh5RFlCYTBkQV9rRmlIY2F3RkFnam52WElQUDBPMEdNU0dsZVgwRE41VDRBY2Z6T1hwU0N1Z0Q0MFFHRWo4OTVfQXpmajJHc2tiWml3SXFGdTVEN3daZjNB?oc=5
+- No shortage of sugar in India, retail prices to come down: industry body ISMA - The Hindu
+  No shortage of sugar in India, retail prices to come down:
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnpfU1BydE1acmR6eTFPNk41VmJFNThPYVRzU2I2aEVxOU1wRDRfYzNFTTZUdlhHcWxkenNEdVMycTRPbTdWOWFsdXViem0zOW1mSmxBa2FOc1BnU1Q2cGhQOF9JUzBTRktiUksxallSNEJCYlU2ck5BaS1Wd1pIVHpwVV9uZnlDUUo4c3A4YThyd1dhX2ZLRGZxMzU0THc2TUlYc3lpSVJzLUtyU1phSmRTNVJMOUtmYlE3ZWFyenplbUs5RGt3QkNUemQyX2PSAdYBQVVfeXFMUDVUdHNlVWdIMktSck1JQ2lrNFg1dUlSaGtHRVEwSGVRNjZLTjJ3ZWgtb1doalh4emgwRFJnSGNGR0dTb2YzSGI4MEhTWXZseTNCdnphRE9kT1VhOHRaQ05teldENTIyRkpyWExOWmlXMlVJQTZvbW8yUDY5YTNPd09lNzlZUTF1Y2FfT2djWDB4bjNpQ2lWakx4ZmxyTmRaSFY1azh1ZUxrOC16dFVzbjlUYjROWEFOclRvWjZKTno0Z0VDeTF4aThNM3cyR2dITkNFNWtIdw?oc=5
+
+- Indian Men’s Team’s slim chance of entering FIH Hockey World Cup 2026 semis depends on complex mathematics - Hockey India
+  Hockey India's slim chance of entering FIH Hockey World Cup 2026 sem
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2VsekFVSUhHTlAxUXhGRGRHZ2pzSEN5cHZweW1JTnhsajlTWWdmZGRCLURlNVZPQ19zTXFMUEtRV3l5Ukt3dWtDdjJTZnFEbnQ4c2w4cmdlZjNTbW9Ob3VBSmd2N1ZZSGFpMHpHNzlDbTNQVHd4andIb1JNTG9ORDlsZi1oaERPbldVWmcxTEM2Wm84aWlMejRNc3NvUElOb2ViWHl2TFNwNUFKVXZJVmxaNFRTNVFlUUJUMTJwSVVfRVF3ampjaHZ0MDhYUVBjQzhr?oc=5
+
+- Mobavenue Launches Neural Engine As An AI Intelligence Layer For Marketers
+  Mobavenue Launches Neural Engine As An AI Intelligence Layer For Marketers.
+  🔗 https://inc42.com/buzz/mobavenue-launches-neural-engine-as-an-ai-intelligence-layer-for-marketers/
+
+- WATER Robotics Raises $2.5 Mn To Build India’s First Robotic Bed
+  AI startup WATER Robotics has secured $2.5 Mn in a fresh funding round led by Endiya Partners.
+  🔗 https://inc42.com/buzz/water-robotics-raises-2-5-mn-to-build-indias-first-robotic-bed/
+
+- LightFury Games Adds Rohit Sharma As Investor Ahead Of eCricket’s September Trial
+  Former India captain Rohit Sharma has joined gaming studio LightFury Games as an investor and will feature as an officially.
+  🔗 https://inc42.com/buzz/lightfury-games-adds-rohit-sharma-as-investor-ahead-of-ecrickets-september-trial/
 
 - D2C Skincare Brand Asaya Bags ₹88 Cr, Eyes Offline Retail Entry
   D2C skincare brand Asaya has raised ₹88 Cr (about $9.1 Mn) in a Series A funding round.
@@ -168,57 +180,45 @@
   Coffee QSR chain Third Wave Coffee has raised around $43 million in a fresh funding round.
   🔗 https://inc42.com/buzz/third-wave-coffee-raises-%e2%82%b9408-cr-to-expand-cafe-network-dessert-business/
 
-- Urban Company Sues Kent RO Over Allegedly Disparaging Native Ads
-  Consumer services company platform Urban Company has filed a defamation and disparagement suit against Kent RO Systems over advertisements.
-  🔗 https://inc42.com/buzz/urban-company-sues-kent-ro-over-allegedly-disparaging-native-ads/
+- India’s news channels bring global fame. ‘Later it gets, crazier the shows become,’ says Sergio Gor - Telegraph India
+  India’s news channels bring global fame. ‘Later it gets
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTFLSzZTU1ZwaUxfV1JyaGZPeDlRWU04YUhVSHdhc205RlB3ZVhELU5aalE2V3ZGUkgzUFV6Y0xsT05zWkprTk80SDZnMU5sdmRrSW1VTGJsdExlTUpfaFc4WHRKb2hlUHFyLXRjeGhCRURxbFpEV3Vwd3NDLXZQZGxCNXN6eTZ4WXJ3eFhIZDhPVU5XYzZOY1JlaE9HMmd6alN6X0UtWWM5NUdqMjZYUGNIbE5mRGZrdlpTUkpTQzZqQ1FzUFZXVHpNRnJjN3BCY2tfX3J0NGpXQdIB3wFBVV95cUxOZmVPSVFsT21lZlBOdVlwS3NrS0xqeWxkVDBVZ2JHSlRaYU9xdDFaY1FhVmd6WG5RbXlINVFJT0hDUkZQOVhqSHFpbWg3OHZjTlJEcy13dlhFWHhfTWtfcHVkRzVZZE8tYWV4ZEFqUmRzMVJjV2NoMTcyZXRZa2wtZnVBeE1mS3AwN3JYaGN1d1Ffbk9LaVdlRUFteEZ3WlZLSkhWTE5EdFJkNTd2NTRtU2x2MVdwalBTWDhodDF0QTRhT3I0MmE1NlE0X1BkUWI1REsyWHE0aDJHTFB3M09r?oc=5
 
-- Inc42 CTO Summit 2026 | 175+ Tech Leaders & The Playbooks Shaping How India Builds In The AI Era
-  India’s technology ecosystem is entering another major transition. Over the past decade, technology leaders have navigated the shift to mobile.
-  🔗 https://inc42.com/buzz/inc42-cto-summit-2026-175-tech-leaders-the-playbooks-shaping-how-india-builds-in-the-ai-era/
-
-- Flipkart’s Food Delivery Era, Weekly Funding Rundown & More
-  Flipkart is all set to debut its food delivery service later this month. Backed by millions of
-  🔗 https://inc42.com/buzz/flipkarts-food-delivery-era-weekly-funding-rundown-more/
-
-- 'Represented India In 3 Nations': Ex-Envoy After Details Don't Match In SIR - NDTV
-  'Represented India In 3 Nations': Ex-
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVItVk00YkNQUUphMVRCSU1kMHM4MWRuWENqeGtkbEpYWDNpcHRwckViaDhNZDZzdjJ0M2lHclU3WHlXWkNwU2UzWVZTMGdNVVc2cEJqQjVrT25SYWZsdWxOTnVPNjd4UHlMaGtpeklOdlBvcDZfMFNSZTVURk9zSkZ4dXF2UEMwNGtFZS1iNGxSaEtJX2FzbWF5SFJUSEQtUl9nUGNqUzF2MkQ1MFYzLU5sNGx0d0JlRERWd3NmT19wV03SAcsBQVVfeXFMTlE3OUtkMC1SeVVSVUlUNHIwSG9Gb3NmZE1oaUxuWDFHTjVnLWJTWW5COG1pa21mQ3d0UW5MMmJQRzJkeE16Z19scWpSY3F4Z1NmX3h0b0h4RG1aTlhNakdiSWQ0ekg2RWdxMkEwRnZLQ0VhZHhXV3NteWZzOUFNaU1UcWlFRUVEcmFwejRFdmdrU3l6RkctN0JKRm55MlFiQUp2d2JBVTFZVFFQZmNNbkUzTjVHX0IwRE9tU3ZpTi1FVVYzMkh1Qi1laG8?oc=5
-
-- "Standard Practice": Sources On India's Request At PM-Trump Press Meet - NDTV
-  "Standard Practice": Sources On India's
+- On India's 'No Press' Request, Sources Cite Trump's "Unpredictable Behaviour" - NDTV
+  On India's 'No Press' Request
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWUtQlVmNTZteGJ4ZF9jdndUc3ozQWZ1N3ZhazZsRzh3eHY5Rkc1Zm9GUGZTRHpZVW5iUTZocVpHSHdDbVJXZlhJWEVSRFAtS3lnUi1XZnRNaHNidHB0YVpmTzhIazlrbG5nNXFXMm5OU1R4Qm9vQ00zWWJWZEgtTXpwaUZkWm8zLU1EWWdxY2FTdlJOVHJWVTFXdkYyakRreXU4SEhDN3pEVWhKNWpyLXpfR29DYjlhT2FxVDJyd2VjNTk5VG16dUdnTDVubDRQaU4xeE8wS2pnUUFSQnfSAeYBQVVfeXFMUE05MWhfWDg3eTMzcnRhMC05eTZ4UXkxeHAyYVBPd1VYbWM4X2JnNFoyZ3JwV1ZjaVNMWVRrNnRpaUx4eWllUC1jcDFXLXhaR21qdjBuVHdueURTZGxQdkZsQWxzdFF6bWY1Zm5WYjRGSWdKb19sNGxUX1RvZGFfMjZxN0NuM2o1Tk1tTnUtY0FLVV95ZDFVa3dUblN0Qmx3Zm5ZYmtvNE5FaXlzRi1zZjMydFFTdVJsMjJUZ21nNjlIZnpLS0g2X2s4eWg1ZTY5UmtCUVhLMl9RNV9obUtyVTFXRXRlY1E?oc=5
-
-- Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor | India News - Hindustan Times
-  The US president-elect held 45-min presser with PM Modi at G7 summit.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOYkxTM1J6WEoxTXA3S0prNWJuVWFaT1ZXOHZaV19kYnhPSkJuWV9aSnJqOVR2ZjBTWEJ3Q2F0VUFLRWVPX3loUXB1OTkxeGpmNGFoT29QNUR2MVBBc0dORnBCb0hJUmJZOXM0NGNPN2pFZDZNMzN1VWlOLTAyaUJFZW9zeFlqcklEdVROUmdUcmZOVURZUWZDanVZUE9fNXNHRVNZbkFsUzhtSF9OWHl1OXJBdTExVU1JYVRTU3k5NXJCWFZOWnp2Q3BGYlluY2pReWhxVXBtdVltSEQyTzJqQmgwYmYyWFNXUzNFc0Y3WlkwMmM2cng4eFFQT2lWTWFtdm1B0gGIAkFVX3lxTFB1N1pCelhKazB1X2dlV1hkZmM2YmxjY0NyUElyUjJJc3p6WGZuTXRmOGd5dGtuRloyWllVX3kzZjFCSkdzSG1WWUZMUWk5aFJpQy1kZUJzODQ5U2x0MTVMME9zX01kODI1bkQwN0ZsbXJ4OUtNeW1MRWFpdHhMcm9QTmYxSGlZYVI2STAxNl9XZXpwZmJUblkwWlZ6a29aNkxyZENqOXNLWWxVSFhnX2lmNXZXVFRYdkZuTXJQUTVlTi1KclRQMENjZU5rYmVGNUFBRTFRek5kQ2Frb0w3cExGSHYzaUlZYnR0NTJ4TE50NVRFQVQwV2xodm1pdE1jckh4MmZYcHJ0VQ?oc=5
 
 - PM Modi calls upon country’s space sector to create an ecosystem that attracts global space talent to India - News On AIR
   PM Modi calls upon country’s space sector to create an ecosystem that attracts global space
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDZXUWNmRWhZQl83dE1hc1Y1Ul8tMDgydFJCWlhOVXJzNUtSby1Yb1IxeGd6UWpLVlpSY2hlOUxjbG5GaWN1YXZtVFE2QnlFNlQ3Y0E4bGpPYXdaanN1MXVvOEhVS2Q5QWVNdFJwU2VGLVJIX1ZZQjRrLV9ESE9rMG1rcVdVdTluVnd2Q1JMMWNkY1VGS1p2VDdQVV83WmJ3djh0NC01anZhVzh0eFZYU25DYm5YY3J6aWVFWllPMjhpeTdFSVlhNFFib00?oc=5
 
-- 150 Pakistani Sindhi brides reach India for weddings months after Pahalgam attack, Operation Sindoor - WION
-  150 Pakistani Sindhi brides reach India for weddings months after
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzRXWFVRcHlWOERPbk9FRFcwMUw0ZWZKeV9yS2lvVWxESUxGajI1RW1jaDZkYjdHQk5pR1RTVUYyRGJyMG1RNHRYaDZudjNkWEMwQ29lekdEWU1JRnZFU1RuYjllWDBqWkRaRk01LTFwRkNlWW1MZHBVWko3LV9MbjdiRFpkbEpqbGNoYXpUdEs2NU9RN0hHUDlyem54OXdMUnVSZk5sZXXSAa4BQVVfeXFMTkdQRGVWLXQtaXoxcWRsUlJ5cjl2NjFJYS1MRC1KYUxsLVUyOUxBWl9GSGJtLWM5UFZMaVZYemR2dWJKTGRhT09CeXBKamtKLXd6OTFPTEh5RFlCYTBkQV9rRmlIY2F3RkFnam52WElQUDBPMEdNU0dsZVgwRE41VDRBY2Z6T1hwU0N1Z0Q0MFFHRWo4OTVfQXpmajJHc2tiWml3SXFGdTVEN3daZjNB?oc=5
+- No shortage of sugar in India, retail prices to come down: industry body ISMA - The Hindu
+  No shortage of sugar in India, retail prices to come down:
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnpfU1BydE1acmR6eTFPNk41VmJFNThPYVRzU2I2aEVxOU1wRDRfYzNFTTZUdlhHcWxkenNEdVMycTRPbTdWOWFsdXViem0zOW1mSmxBa2FOc1BnU1Q2cGhQOF9JUzBTRktiUksxallSNEJCYlU2ck5BaS1Wd1pIVHpwVV9uZnlDUUo4c3A4YThyd1dhX2ZLRGZxMzU0THc2TUlYc3lpSVJzLUtyU1phSmRTNVJMOUtmYlE3ZWFyenplbUs5RGt3QkNUemQyX2PSAdYBQVVfeXFMUDVUdHNlVWdIMktSck1JQ2lrNFg1dUlSaGtHRVEwSGVRNjZLTjJ3ZWgtb1doalh4emgwRFJnSGNGR0dTb2YzSGI4MEhTWXZseTNCdnphRE9kT1VhOHRaQ05teldENTIyRkpyWExOWmlXMlVJQTZvbW8yUDY5YTNPd09lNzlZUTF1Y2FfT2djWDB4bjNpQ2lWakx4ZmxyTmRaSFY1azh1ZUxrOC16dFVzbjlUYjROWEFOclRvWjZKTno0Z0VDeTF4aThNM3cyR2dITkNFNWtIdw?oc=5
 
-- 'Represented India In 3 Nations': Ex-Envoy After Details Don't Match In SIR - NDTV
-  'Represented India In 3 Nations': Ex-
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVItVk00YkNQUUphMVRCSU1kMHM4MWRuWENqeGtkbEpYWDNpcHRwckViaDhNZDZzdjJ0M2lHclU3WHlXWkNwU2UzWVZTMGdNVVc2cEJqQjVrT25SYWZsdWxOTnVPNjd4UHlMaGtpeklOdlBvcDZfMFNSZTVURk9zSkZ4dXF2UEMwNGtFZS1iNGxSaEtJX2FzbWF5SFJUSEQtUl9nUGNqUzF2MkQ1MFYzLU5sNGx0d0JlRERWd3NmT19wV03SAcsBQVVfeXFMTlE3OUtkMC1SeVVSVUlUNHIwSG9Gb3NmZE1oaUxuWDFHTjVnLWJTWW5COG1pa21mQ3d0UW5MMmJQRzJkeE16Z19scWpSY3F4Z1NmX3h0b0h4RG1aTlhNakdiSWQ0ekg2RWdxMkEwRnZLQ0VhZHhXV3NteWZzOUFNaU1UcWlFRUVEcmFwejRFdmdrU3l6RkctN0JKRm55MlFiQUp2d2JBVTFZVFFQZmNNbkUzTjVHX0IwRE9tU3ZpTi1FVVYzMkh1Qi1laG8?oc=5
+- Indian Men’s Team’s slim chance of entering FIH Hockey World Cup 2026 semis depends on complex mathematics - Hockey India
+  Hockey India's slim chance of entering FIH Hockey World Cup 2026 sem
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2VsekFVSUhHTlAxUXhGRGRHZ2pzSEN5cHZweW1JTnhsajlTWWdmZGRCLURlNVZPQ19zTXFMUEtRV3l5Ukt3dWtDdjJTZnFEbnQ4c2w4cmdlZjNTbW9Ob3VBSmd2N1ZZSGFpMHpHNzlDbTNQVHd4andIb1JNTG9ORDlsZi1oaERPbldVWmcxTEM2Wm84aWlMejRNc3NvUElOb2ViWHl2TFNwNUFKVXZJVmxaNFRTNVFlUUJUMTJwSVVfRVF3ampjaHZ0MDhYUVBjQzhr?oc=5
 
-- "Standard Practice": Sources On India's Request At PM-Trump Press Meet - NDTV
-  "Standard Practice": Sources On India's
+- India’s news channels bring global fame. ‘Later it gets, crazier the shows become,’ says Sergio Gor - Telegraph India
+  India’s news channels bring global fame. ‘Later it gets
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTFLSzZTU1ZwaUxfV1JyaGZPeDlRWU04YUhVSHdhc205RlB3ZVhELU5aalE2V3ZGUkgzUFV6Y0xsT05zWkprTk80SDZnMU5sdmRrSW1VTGJsdExlTUpfaFc4WHRKb2hlUHFyLXRjeGhCRURxbFpEV3Vwd3NDLXZQZGxCNXN6eTZ4WXJ3eFhIZDhPVU5XYzZOY1JlaE9HMmd6alN6X0UtWWM5NUdqMjZYUGNIbE5mRGZrdlpTUkpTQzZqQ1FzUFZXVHpNRnJjN3BCY2tfX3J0NGpXQdIB3wFBVV95cUxOZmVPSVFsT21lZlBOdVlwS3NrS0xqeWxkVDBVZ2JHSlRaYU9xdDFaY1FhVmd6WG5RbXlINVFJT0hDUkZQOVhqSHFpbWg3OHZjTlJEcy13dlhFWHhfTWtfcHVkRzVZZE8tYWV4ZEFqUmRzMVJjV2NoMTcyZXRZa2wtZnVBeE1mS3AwN3JYaGN1d1Ffbk9LaVdlRUFteEZ3WlZLSkhWTE5EdFJkNTd2NTRtU2x2MVdwalBTWDhodDF0QTRhT3I0MmE1NlE0X1BkUWI1REsyWHE0aDJHTFB3M09r?oc=5
+
+- On India's 'No Press' Request, Sources Cite Trump's "Unpredictable Behaviour" - NDTV
+  On India's 'No Press' Request
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWUtQlVmNTZteGJ4ZF9jdndUc3ozQWZ1N3ZhazZsRzh3eHY5Rkc1Zm9GUGZTRHpZVW5iUTZocVpHSHdDbVJXZlhJWEVSRFAtS3lnUi1XZnRNaHNidHB0YVpmTzhIazlrbG5nNXFXMm5OU1R4Qm9vQ00zWWJWZEgtTXpwaUZkWm8zLU1EWWdxY2FTdlJOVHJWVTFXdkYyakRreXU4SEhDN3pEVWhKNWpyLXpfR29DYjlhT2FxVDJyd2VjNTk5VG16dUdnTDVubDRQaU4xeE8wS2pnUUFSQnfSAeYBQVVfeXFMUE05MWhfWDg3eTMzcnRhMC05eTZ4UXkxeHAyYVBPd1VYbWM4X2JnNFoyZ3JwV1ZjaVNMWVRrNnRpaUx4eWllUC1jcDFXLXhaR21qdjBuVHdueURTZGxQdkZsQWxzdFF6bWY1Zm5WYjRGSWdKb19sNGxUX1RvZGFfMjZxN0NuM2o1Tk1tTnUtY0FLVV95ZDFVa3dUblN0Qmx3Zm5ZYmtvNE5FaXlzRi1zZjMydFFTdVJsMjJUZ21nNjlIZnpLS0g2X2s4eWg1ZTY5UmtCUVhLMl9RNV9obUtyVTFXRXRlY1E?oc=5
-
-- Trump forgot India's ‘no questions’ request at G7, held 45-min presser with PM Modi, claims US envoy Sergio Gor | India News - Hindustan Times
-  The US president-elect held 45-min presser with PM Modi at G7 summit.
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOYkxTM1J6WEoxTXA3S0prNWJuVWFaT1ZXOHZaV19kYnhPSkJuWV9aSnJqOVR2ZjBTWEJ3Q2F0VUFLRWVPX3loUXB1OTkxeGpmNGFoT29QNUR2MVBBc0dORnBCb0hJUmJZOXM0NGNPN2pFZDZNMzN1VWlOLTAyaUJFZW9zeFlqcklEdVROUmdUcmZOVURZUWZDanVZUE9fNXNHRVNZbkFsUzhtSF9OWHl1OXJBdTExVU1JYVRTU3k5NXJCWFZOWnp2Q3BGYlluY2pReWhxVXBtdVltSEQyTzJqQmgwYmYyWFNXUzNFc0Y3WlkwMmM2cng4eFFQT2lWTWFtdm1B0gGIAkFVX3lxTFB1N1pCelhKazB1X2dlV1hkZmM2YmxjY0NyUElyUjJJc3p6WGZuTXRmOGd5dGtuRloyWllVX3kzZjFCSkdzSG1WWUZMUWk5aFJpQy1kZUJzODQ5U2x0MTVMME9zX01kODI1bkQwN0ZsbXJ4OUtNeW1MRWFpdHhMcm9QTmYxSGlZYVI2STAxNl9XZXpwZmJUblkwWlZ6a29aNkxyZENqOXNLWWxVSFhnX2lmNXZXVFRYdkZuTXJQUTVlTi1KclRQMENjZU5rYmVGNUFBRTFRek5kQ2Frb0w3cExGSHYzaUlZYnR0NTJ4TE50NVRFQVQwV2xodm1pdE1jckh4MmZYcHJ0VQ?oc=5
 
 - PM Modi calls upon country’s space sector to create an ecosystem that attracts global space talent to India - News On AIR
   PM Modi calls upon country’s space sector to create an ecosystem that attracts global space
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDZXUWNmRWhZQl83dE1hc1Y1Ul8tMDgydFJCWlhOVXJzNUtSby1Yb1IxeGd6UWpLVlpSY2hlOUxjbG5GaWN1YXZtVFE2QnlFNlQ3Y0E4bGpPYXdaanN1MXVvOEhVS2Q5QWVNdFJwU2VGLVJIX1ZZQjRrLV9ESE9rMG1rcVdVdTluVnd2Q1JMMWNkY1VGS1p2VDdQVV83WmJ3djh0NC01anZhVzh0eFZYU25DYm5YY3J6aWVFWllPMjhpeTdFSVlhNFFib00?oc=5
 
-- 150 Pakistani Sindhi brides reach India for weddings months after Pahalgam attack, Operation Sindoor - WION
-  150 Pakistani Sindhi brides reach India for weddings months after
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzRXWFVRcHlWOERPbk9FRFcwMUw0ZWZKeV9yS2lvVWxESUxGajI1RW1jaDZkYjdHQk5pR1RTVUYyRGJyMG1RNHRYaDZudjNkWEMwQ29lekdEWU1JRnZFU1RuYjllWDBqWkRaRk01LTFwRkNlWW1MZHBVWko3LV9MbjdiRFpkbEpqbGNoYXpUdEs2NU9RN0hHUDlyem54OXdMUnVSZk5sZXXSAa4BQVVfeXFMTkdQRGVWLXQtaXoxcWRsUlJ5cjl2NjFJYS1MRC1KYUxsLVUyOUxBWl9GSGJtLWM5UFZMaVZYemR2dWJKTGRhT09CeXBKamtKLXd6OTFPTEh5RFlCYTBkQV9rRmlIY2F3RkFnam52WElQUDBPMEdNU0dsZVgwRE41VDRBY2Z6T1hwU0N1Z0Q0MFFHRWo4OTVfQXpmajJHc2tiWml3SXFGdTVEN3daZjNB?oc=5
+- No shortage of sugar in India, retail prices to come down: industry body ISMA - The Hindu
+  No shortage of sugar in India, retail prices to come down:
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnpfU1BydE1acmR6eTFPNk41VmJFNThPYVRzU2I2aEVxOU1wRDRfYzNFTTZUdlhHcWxkenNEdVMycTRPbTdWOWFsdXViem0zOW1mSmxBa2FOc1BnU1Q2cGhQOF9JUzBTRktiUksxallSNEJCYlU2ck5BaS1Wd1pIVHpwVV9uZnlDUUo4c3A4YThyd1dhX2ZLRGZxMzU0THc2TUlYc3lpSVJzLUtyU1phSmRTNVJMOUtmYlE3ZWFyenplbUs5RGt3QkNUemQyX2PSAdYBQVVfeXFMUDVUdHNlVWdIMktSck1JQ2lrNFg1dUlSaGtHRVEwSGVRNjZLTjJ3ZWgtb1doalh4emgwRFJnSGNGR0dTb2YzSGI4MEhTWXZseTNCdnphRE9kT1VhOHRaQ05teldENTIyRkpyWExOWmlXMlVJQTZvbW8yUDY5YTNPd09lNzlZUTF1Y2FfT2djWDB4bjNpQ2lWakx4ZmxyTmRaSFY1azh1ZUxrOC16dFVzbjlUYjROWEFOclRvWjZKTno0Z0VDeTF4aThNM3cyR2dITkNFNWtIdw?oc=5
+
+- Indian Men’s Team’s slim chance of entering FIH Hockey World Cup 2026 semis depends on complex mathematics - Hockey India
+  Hockey India's slim chance of entering FIH Hockey World Cup 2026 sem
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2VsekFVSUhHTlAxUXhGRGRHZ2pzSEN5cHZweW1JTnhsajlTWWdmZGRCLURlNVZPQ19zTXFMUEtRV3l5Ukt3dWtDdjJTZnFEbnQ4c2w4cmdlZjNTbW9Ob3VBSmd2N1ZZSGFpMHpHNzlDbTNQVHd4andIb1JNTG9ORDlsZi1oaERPbldVWmcxTEM2Wm84aWlMejRNc3NvUElOb2ViWHl2TFNwNUFKVXZJVmxaNFRTNVFlUUJUMTJwSVVfRVF3ampjaHZ0MDhYUVBjQzhr?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- India may see major growth in sodium-ion batteries as technology reaches TRL-7: Renewable Energy Secretary - ET EnergyWorld
-  India may see major growth in sodium-ion batteries as technology reaches TR
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNaTVxcVVHTlBtcDVfZ0NfQm5qOEVybkxkODJwSUZvRGRRMzI1V2FmRFZtOEN0SUE5VHdkU05nUWo5MWZvU3otSXd2TmRSdTBMT09zNmt5dHpRa3JPNWJwY2ZTSXk5UGFCTGRJODBFZFdGV1FjT2c5TzU5eUNDOXFIQ09VVklxWDBZMDhWSzNpWTFjMzZiYzZQMktvWEpfY2Mwa2ZMNDhITDVvdmlkMGU5dEx0U2s3NWI1Q2pVRHcxaDhmbXFxbU4yamxEc1RBWTBBQzNhV2ZLWWllQmltVzhSYlpndGllbVlMX19tY2tkamZoVmJkaDVVLUNfbTJKSWRXMVRZWNIBigJBVV95cUxON2dtUWdDYlk5Smt1UTlZM3dZdFpac1lVVi1OdkM0dWJIOUd2TC1ZNGpJaUlMcnNZczZZaGxPX2xlci1XeTZRY2VWak1CZC1xMXZhaTlvQkpWM25UTUYwOE5Cb0ZiM1FWZ2tDSGk1UVpSTVM3U0JQMHpGcFBFVFJncjBJTmhTMVdsVVB3eEVQLTlrcWZBbGtldWczX2xlNno0WmNBTk95TGk1djZmdThpN1lMRkhuU3dXbmRRcFNKMVQyQkdEMmpyQ3A4MWRjaE5HNGVrbE5BcTRtWWMtZVNucFFEUFVGTnJlX09GN2U4dmY3RG9QdjFkdUtZWE1rY2FIY2xEUWlQaG5Tdw?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Trinity Cleantech develops bioethanol-powered Gen Set with integrated EV charging - ET Auto
-  Trinity Cleantech develops bioethanol
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOEcxVkNZZ2RyaGV6dHRXWXllT2k0UlZHTE52ZS02czd3cnM0X3o5Qng2V202LURTR09kUU1nS3V6NWkwZl8ydENZVGhvUTdfSllnQ24wZnRDT3ZSNzQtX0Z0d0V5MVI4NjFzbHlwLVBWY1R2NnFxc25pRmZ4aHhIUkx1XzFnMkpSLUEzT0lWbXFmNU50NnRHWldFTFh5dEo0bFB2UndqTkdHaWtackMteWhOeVBEV3B1X1dfV3ZhcEZHQTNvVWRHdVpPTl96V3NiNWQwMHRFbEppMml2MnpzaTI5RW5odzVDMmfSAe8BQVVfeXFMTVZVSDhidE9iSTQxZWZKV0dVSFNycmh6bmFmNlZwZkNpY3dpeFB2bVhULW9Sc1VHdkFDUHR4LUFYZFZ4amtSSUJmUndFaXJhNUwyYmdKVjlKeDNQMzRPdk1FeTZwTnlmVGVlTGRkOVcwUUhodC1WdGRQdXVxQ3YyZ0kzZlIxY1RJMkhQSUlfTXNhdWF5aUVibGR1aFJNaV9XNmlCMFpUdEpqX3VlSGNmRkx1Z21aV2x3dVVpYUJhSk5zNmlNY0x4NXNOVGJ5Rl9QMUszbGRMc1U0ME12MGZQQXJ4Q3E2NldUM1RCbjZnWWs?oc=5
-
-- Jio 5G looks beyond India as homegrown technology targets overseas telecom markets - Telegraph India
-  Jio 5G looks beyond India as homegrown technology targets
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUTlEcHlWUnlBbW05ZktkbTJjQ2ZuMktSR1R2ckNwM1pGRWNSX2NpRnpEQVRnbTNTeDY0MzFreVJ5SDBTV1ZnZ0VkRER6QXR1VkgzTkV3bUh1OTNHUjBfN2RaVFFDT21kMXNnWUlITzJWRVNocHpxRklFb1BreTRiWk5XdFVST3V3RDU5MGVUR1hKcEV5YV90azNRNENnYXZYLWZJMXVhd1BqaGd3Y1VRZXpsR25pQ3dFWHlTOGowdWVuRldDd2RpSFVaUVJEeEdiRHfSAdcBQVVfeXFMTkpZbEd4ZEhGa0J5WHNpQ3NxQzl0M0VZS1hLRHVhbFNTNGFrX3Z3TTV2OVJzY3l2Nlc4M2k1MG9nYmk1UUY1WklFN3dCWTZvaGJWVS10QUNkS1A3ZzFiYTFCMXFkZEZnNGpqNmhCWUtnUUM5dXNSN1phSWItNmhRQUxfeV9LblNDUHU4aDJZNjhoamlkazBDVlJEU0toUEIwNnJmTXhrS2M3bTdpd2dCVkIzWXFSTGlCZWw0Z3FFLWtsZWtOUEhLeWZTNGJ4SEcwNDBPbGsyaVk?oc=5
-
-- Capacity Revealed: How China's technology became a global public good - news.cgtn.com
-  "Capacity Revealed: How China
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUJRRFJRZTRIQU9LNnp1YmVwU3BWMUMtQnRLb0h0dXFmZ0lHdmxjX2FpbFlhbGwxZFlZY01YSGVBdDRfbDJodkRFMmN2VDltbXI5VUZQZnBXNXBTZl9XM203NmtWa3huWXh4SFdPT3VzY2hwZVl3YVZvVHRSSHp0eHF1UVd0SG9MQ0lxeS1JdmpQU09oVmN6WmtyVzYtOUdKMlhlcVZnd1ZYQ05SbS1TVzNfbmhqeUxRN1ZMaFVMc0VCcUE?oc=5
-
-- Data-Center Disenchantment - WSJ
-  
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdUlfR3JuY2R6QzBnakZIaGhYbldoZlZrQVRUN1FPUGNLdGF5V1ZGeXFqLTFiMEc1Qi1KV2E5RUxBQnVzemQ5VWQtX29WTEI2MHVPLUIxSHFUZFpLdWh4MTVSZEFlWGpMX1AycXJhMTA?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-24 06:47:40 UTC_
+_Last updated: 2026-08-24 12:42:19 UTC_
