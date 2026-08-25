@@ -1,5 +1,29 @@
 # 📰 Daily News Summaries
 
+- India was wary of Trump’s ‘unpredictable behaviour’, chose no joint presser with PM Modi: Report - The Times of India
+  India was wary of Trump’s ‘unpredictable behaviour�
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdVNaRGNsTVItWHVzSnZJUDJEMEhKUGJLdWxhN0ZGZ180QllNTGl5UDVxbGFpQkpZRGV6M2N5M0lHUjFrVmhET0RuOWN6TExxLWVubWxxX2pfelpfeU9sNnpjSWVmOXV4TXY2WlRDQ09pN3dqQ3o5Rnd0ZGlCZmFqa0FuNThSc2ZkVVFNellEYTlqT3lZamtTU0txTFB0V2VuOEVPb2FJRFl6ZGlUVUM3SzlOblphWUFwSml2UGZnam5NTEhyRm1vc3hOM0EtNWtqREhBczNRaHNYRmVXN1cxMlUwSGZwdzExd1dZ0gHwAUFVX3lxTFBpelRRMHNmNm9USEhwR3NNWWFVdTZDOFd1ZUppSHR3dHBCTkdqTU12ZzRaM2dXUUNWbEZNc0FqNnVkb0ltY3Mwa2VjVmpBSUNlSWs1Y1lsXzU1eW1ObS1BMHpxWFl2NmtBY0lhOVhtbjAzNTROZkRtTTZxNklCYUw4LWctQlVnVmNnR1R6QzI0TkQ4cENRcEVROTdwZzFhTENJcF9nM0dSeVVaZlFRRktBUm5xc0d5N004NUtuYklDcFBibkNTOEY0ZzVjeUN1aFhMQnB4WGZnX3VRbGZobWVsVWVNWkU4U250Mi1Xc0pyXw?oc=5
+
+- On India's 'No Press' Request, Sources Cite Trump's "Unpredictable Behaviour" - NDTV
+  On India's 'No Press' Request
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWUtQlVmNTZteGJ4ZF9jdndUc3ozQWZ1N3ZhazZsRzh3eHY5Rkc1Zm9GUGZTRHpZVW5iUTZocVpHSHdDbVJXZlhJWEVSRFAtS3lnUi1XZnRNaHNidHB0YVpmTzhIazlrbG5nNXFXMm5OU1R4Qm9vQ00zWWJWZEgtTXpwaUZkWm8zLU1EWWdxY2FTdlJOVHJWVTFXdkYyakRreXU4SEhDN3pEVWhKNWpyLXpfR29DYjlhT2FxVDJyd2VjNTk5VG16dUdnTDVubDRQaU4xeE8wS2pnUUFSQnfSAeYBQVVfeXFMUE05MWhfWDg3eTMzcnRhMC05eTZ4UXkxeHAyYVBPd1VYbWM4X2JnNFoyZ3JwV1ZjaVNMWVRrNnRpaUx4eWllUC1jcDFXLXhaR21qdjBuVHdueURTZGxQdkZsQWxzdFF6bWY1Zm5WYjRGSWdKb19sNGxUX1RvZGFfMjZxN0NuM2o1Tk1tTnUtY0FLVV95ZDFVa3dUblN0Qmx3Zm5ZYmtvNE5FaXlzRi1zZjMydFFTdVJsMjJUZ21nNjlIZnpLS0g2X2s4eWg1ZTY5UmtCUVhLMl9RNV9obUtyVTFXRXRlY1E?oc=5
+
+- India’s news channels bring global fame. ‘Later it gets, crazier the shows become,’ says Sergio Gor - Telegraph India
+  India’s news channels bring global fame. ‘Later it gets
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTFLSzZTU1ZwaUxfV1JyaGZPeDlRWU04YUhVSHdhc205RlB3ZVhELU5aalE2V3ZGUkgzUFV6Y0xsT05zWkprTk80SDZnMU5sdmRrSW1VTGJsdExlTUpfaFc4WHRKb2hlUHFyLXRjeGhCRURxbFpEV3Vwd3NDLXZQZGxCNXN6eTZ4WXJ3eFhIZDhPVU5XYzZOY1JlaE9HMmd6alN6X0UtWWM5NUdqMjZYUGNIbE5mRGZrdlpTUkpTQzZqQ1FzUFZXVHpNRnJjN3BCY2tfX3J0NGpXQdIB3wFBVV95cUxOZmVPSVFsT21lZlBOdVlwS3NrS0xqeWxkVDBVZ2JHSlRaYU9xdDFaY1FhVmd6WG5RbXlINVFJT0hDUkZQOVhqSHFpbWg3OHZjTlJEcy13dlhFWHhfTWtfcHVkRzVZZE8tYWV4ZEFqUmRzMVJjV2NoMTcyZXRZa2wtZnVBeE1mS3AwN3JYaGN1d1Ffbk9LaVdlRUFteEZ3WlZLSkhWTE5EdFJkNTd2NTRtU2x2MVdwalBTWDhodDF0QTRhT3I0MmE1NlE0X1BkUWI1REsyWHE0aDJHTFB3M09r?oc=5
+
+- A not-so-sweet surprise: How India went from a year of possible sugar glut to shortage & high prices ahead of festivals | Hindustan Times - Hindustan Times
+  A not-so-sweet surprise: How India went from a year of possible sugar glut to shortage & high prices
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYS1pYzdseDhKUWpJMlJHMTNObXhjc3g3cWdmUUNBZG4tU0lneVRiTXNSSHJUc3lBeGl0RC1uM0NuSW9wYi1NSWU4SDZMUmZCOTFKSW0zUTc4ampzZzFXb29jLV9XeWJPVUJ3QTFhczVURWR4WmtDM0ZPUm5semQ3OUJvZmY2NDF2d1N0Q29vNnJEWHNJeVN6TnNfR2ZOZzBSRWFZMTJZalNZNnB1RS1ZNGtiQUpKUTBI0gG-AUFVX3lxTFB2WURRaUlNeDZYX1NvcWk2bnlTR2s3YUc5bmxzUS1sQnR1UGhXQnJDcEZuWXFVMS1wVS01NVhFME56aFdLRF9icFI1bGxGYThfUGp3V2hBWjNIRDd1MUhhMVpmYWRXc0NPOHJlUWlwbjFLV01YMXBHVGhkSmw5NG9JTjBhamw1cHRzV1ZyNVdXUWZvRGdqOXhFODB6NXpiZ1JSM19mdGh0WjFFSzlIanlTZHA0SlJ3QVFUaTNMdHc?oc=5
+
+- Kanda Express To Bring Rs 35/Kg Onions To Delhi-NCR From Maharashtra - NDTV
+  Kanda Express To Bring Rs 35/K
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXNsM2VDZUFZczhwdGY2LTlheTBaaFRpLUVsZ2ZHelFSZVhrS0xoejdJNnpJR0tZR21qaUhXTURjMUw2WkNnVzh3VUhlbnZDcHhlZllCY25pZTk3cTk5LTM1NnNpcmtmTlBveTFqVTh6YXFTdzJWWTMwcUFaY2p5cmRsZ2xlb0laVTN2eTVWbHBBYUlYMzJrOUN4eE9PMGNJUjhHX2dDTnZDN2JaaFFEZDBHWjlkM2JoektSYTNIbEtla0hwQVYycWcxWTk5OVJlWmRGRUhWSW9jN043MWpTV0I1WVpyeDBw0gHwAUFVX3lxTE4tT0ZFcmI3Ymx2YkdDcGFpWXBOcklxNVNfX2hFVEgzVV9zY0ZUd3NzckZaUUoteVlja1F3MThsMkJTZHhsSnlNYkhXeEw1bmNlQ2xvWWxRazZpYTdNb0kzOFUtaDdyV3FPSjRQaVRLT01WZzExM2tYbHFjcS14RDFYNDdDZUdhYVhfdzBVUlJnbk16N1FTdlczTGdtTkhiX09lbTVRbVR1SE1XY2xRTDhIdzhkdDZIOUR3UVMyYzJGdzAtSjZsVVhUVVRLSDZuUWxWVUV0cFZWRUdmM2tlMDEzbXlzYTZqSFNTbTFSaHNpZg?oc=5
+
+- Zoho CEO Sridhar Vembu explains why ‘disciplined initiative’ is a corporate myth — ‘Worst of both worlds’
+  Vembu warned that trying to mandate a “highly disciplined culture
+  🔗 https://www.livemint.com/companies/people/zoho-ceo-sridhar-vembu-explains-why-disciplined-initiative-is-a-corporate-myth-worst-of-both-worlds-11787619534098.html
+
 - Pristyn Care scales back two bets as it refocuses on hospitals
   Pristyn Care is demerging BeatXP and scaling back MedX as it shifts
   🔗 https://www.livemint.com/companies/news/pristyn-care-scales-back-two-bets-as-it-refocuses-on-hospitals-clinics-diagnostics-medical-management-health-11787555635725.html
@@ -16,29 +40,29 @@
   Epigamia’s investors are reshuffling its cap table through a $20 million secondary deal. Verlinvest and the Mirchandani family raising their stakes and Sauce
   🔗 https://www.livemint.com/companies/epigamia-verlinvest-sauce-secondary-deal-20-million-11787547229176.html
 
-- Urban Company turns to luxury brands to premiumize beauty business
-  It has partnered with the premium Spanish cosmeceutical and skincare brand Casmara. It has also partnered with Remy Laure, 03
-  🔗 https://www.livemint.com/companies/news/urban-company-premium-beauty-services-get-look-yes-madam-skincare-cosmetics-salon-services-at-home-11787553157596.html
+- FPIs are back in India. Their bets show they’re still not sold
+  Foreign investors have returned to Indian equities after months of heavy selling. But sector choices point to selective buying rather than a
+  🔗 https://www.livemint.com/market/stock-market-news/foreign-investors-india-stocks-fpi-inflows-11787570795633.html
 
-- Nifty trapped between key moving averages; will August expiry bring a directional move?
-  The Nifty 50 index opened positively but faced selling pressure, closing down at 24,219.05. The index remains in
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-trapped-between-key-moving-averages-will-august-expiry-bring-a-directional-move-11787591787999.html
+- PVR INOX share buyback: First ever - Board meeting on Aug 31 | Check face value per share, record date status
+  If declared, this will be the first-ever share
+  🔗 https://www.livemint.com/market/stock-market-news/pvr-inox-share-buyback-first-ever-board-meeting-on-aug-31-check-face-value-per-share-record-date-status-11787636241178.html
 
-- Stock recommendations for 25 August from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 25 August. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-25-august-from-marketsmith-india-11787574187641.html
+- Stock market holiday on Raksha Bandhan? NSE, BSE open or closed on 28 Aug? Check calendar
+  The Indian stock market will operate on Raksha Bandhan in 2026. Trading will continue despite the festival and Eid-e-Milad. Scheduled holidays include Ganesh Chaturthi
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-on-raksha-bandhan-nse-bse-open-or-closed-on-28-aug-check-calendar-11787636687533.html
 
-- Raja Venkatraman recommends three stocks for 25 August
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-25-august-11787587016319.html
+- Hindustan Copper share price: Stock plunges 7% - Here's why
+  The Indian government is looking to sell up to a 6% stake in the company through the OFS at a floor price of  �
+  🔗 https://www.livemint.com/market/stock-market-news/hindustan-copper-share-price-stock-plunges-7-heres-why-11787638180391.html
 
-- Gold Holds Near Three-Month High as Traders Weigh Treasury Moves
-  Gold trades near a three-month high, as traders weighed the US Treasury’s next move in the bond
-  🔗 https://www.livemint.com/market/gold-holds-near-three-month-high-as-traders-weigh-treasury-moves-11787617195011.html
+- Augmont Enterprises IPO Day 3: Issue booked 24.98x so far. GMP hints 41% listing pop. Apply or not?
+  The Augmont Enterprises IPO was 14.46 times subscribed by the second day, reflecting strong investor interest. It is set at  ₹750-788 per share, closing on
+  🔗 https://www.livemint.com/market/augmont-enterprises-ipo-day-3-issue-booked-21-33x-so-far-gmp-hints-41-listing-pop-apply-or-not-11787634287864.html
 
-- Shankesh Jewellers IPO to debut today: What GMP signals for investors
-  Shankesh Jewellers shares are set to list on August 25 following a strong IPO response. With a grey market premium of 2.15%, shares may debut around
-  🔗 https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-to-debut-today-what-gmp-signals-for-investors-11787588284266.html
+- Apple Mac mini may debut with M5 or M6 processor ahead of iPhone 18 Pro launch event
+  Rumors suggest Apple will refresh the Mac mini with M5 or M6 processors, targeting a launch ahead of the iPhone 18 Pro event. This update comes amid high demand and supply issues,
+  🔗 https://www.livemint.com/technology/tech-news/apple-mac-mini-may-debut-with-m5-or-m6-processor-ahead-of-iphone-18-pro-launch-event-11787636605187.html
 
 - Apple iPhone 18 Pro Max launch date in India vs USA: When will pre-orders, deliveries begin in Delhi, Noida, Gurgaon?
   Apple is reportedly set to unveil the iPhone 18 Pro Max on September 9. Pre-orders likely on September 11 or 12 and sales from September 18. These are tentative dates based on past
@@ -56,49 +80,57 @@
   Taiwan issues indictments over alleged
   🔗 https://www.livemint.com/technology/taiwan-issues-indictments-over-alleged-illegal-export-of-ai-servers-to-china-11787563403581.html
 
-- Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs
-  Workers in China worry over being replaced as they adapt to the
-  🔗 https://www.livemint.com/technology/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs-11787543029673.html
+- Global Market: Japanese bond yields edge higher as US Treasury yields, oil prices rise
+  Japanese government bond yields edged higher on Tuesday. Investors remained cautious ahead of key comments from Bank of Japan Deputy Governor Ryozo Himino and Federal Reserve Chairman Kevin Warsh.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-edge-higher-as-us-treasury-yields-oil-prices-rise/articleshow/133496737.cms
 
-- Stock Market News, Aug. 24, 2026: Oil Maintains Declines After Bessent Outlines Plan to Squeeze Iran - WSJ
-  WSJ: Oil Maintains Declines After Bessent Out
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTJUd0xkSF9saUkxaVB0VW5FMGg5S0dVZ2VrTGhmLTVvaVZ1V2dpX0R0RkJ1UG5rRGVZRW4ySHF1TnVjczMyVVE0TlhRb0l1SWVxMTlyNllUQ0VEdFY0aUVhSmFxM1VvbTc2MEJybzh2RHdYY3MxQW1EV3c4Z0puYUlJMHpBSzQ?oc=5
+- Antique initiates coverage on Astra Microwave with Buy; sees defence electronics upcycle driving growth
+  Antique Stock Broking initiated coverage on Astra Microwave Products with a buy rating and Rs 2,000 target price. The stock rose as much as 3
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/antique-initiates-coverage-on-astra-microwave-with-buy-sees-defence-electronics-upcycle-driving-growth/articleshow/133496713.cms
 
-- Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions - Yahoo Finance
-  The S&amp;P 500, Nasdaq fall as chip stocks sink
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTXkwU3kxMFhuaVp3c2lNa2IzcFZWcWt3MVIzYUVKbHhTWUtldExMVlEyNTQtRlpLWmFmMTVUNlJVbTZfampsVUxzekNtaHNTSldsOExzUC15aV9zMFNqdks5eFIyZ242cnRzRXJyWmVjRlA5RlEySFA2b21RNWlSTWRQNmNjUFlhenlVVG02Mnd1eGRfdTFHNi13bWRHdC1MLVhKM2hFRXNNTHc?oc=5
+- Will IHCL's merger with Oriental Hotels unlock value for shareholders? Here's what Goldman Sachs, Nomura, and others say
+  IHCL’s merger with Oriental Hotels is expected to be EPS accretive and strengthen its presence in South India. Nomura, Goldman Sachs and JM Financial retained Buy ratings on IHCL.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-ihcls-merger-with-oriental-hotels-unlock-value-for-shareholders-heres-what-goldman-sachs-nomura-and-others-say/articleshow/133496525.cms
 
-- Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates - CNBC
-  Stock futures are flat as investors await Nvidia earnings, inflation report due later this
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1UaXpCcGd4NmpZcE1YRkNOWGdjY2xEdF9tczBRYng2MHdQbERsNGlEbmRnaWVmRlFnN2p4akpvVGU4N3lGVUhONWtFaW1XNU1feEFLUnkzS1JjYWtQTGR1ZTNXN1J1cWkwYVhHM2I4Ymx1b0lTQnZF0gF8QVVfeXFMTWd4aXlIYjR1X09DR0FHaGZEZFVsRnpsYzF6Si1faFZkWmY5bHhuZnFLRFFMODA1OWRVbktkSkVyNzU2cjluenpWS0U5ODI4eEhpWkxjdGdRc0twU3NMVjd6SEVKajJRdFpodm9FSmZtNnF6SEZHNDd2aXFybA?oc=5
+- Ratnamani Metals shares rally up to 21% in two sessions after securing Rs 2,700 crore order
+  Ratnamani Metals &amp; Tubes shares gained around 21% in two trading sessions. subsidiary, Ratnamani Finow Spooling Solutions, secured export orders worth approximately Rs 2,700 crore. The orders, placed
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ratnamani-metals-shares-rally-up-to-21-in-two-sessions-after-securing-rs-2700-crore-order/articleshow/133495796.cms
 
-- How US sanctions on Iran ripple through global markets and consumers - Al Jazeera
-  Al Jazeera reports on how US sanctions on Iran
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWpWaXhDOTJpUzZGdEpoaUYwTnJCNExhTjhpam83N1ktempFRk9FSG13NFltWjdQWWxKVnhsODJfXzhpODNLZHlYbGYtNm5MR2tuTHlpY2FHa1JreElnQVVmWU5CeXVOOU4yOWVpX3R4aFpiMVNwTU4wVWNoRVhQb1VPRFpKLTJGSjZfemhYX09CWnpkc1F0TGJINXl6aU9CbjNfNE10TTE5ZkhuQmhIeUJn0gG3AUFVX3lxTE1RU0FZVVJ1Y0J1bkprcmhiLS1nVVpGQVRZMDFYbm1lZkxLZkh3clhCMHZnc1E3T0JZb3paY1ZqM1RXMjdrTEk1NEdacFZHcHY5dUZiMm9oQnVRcllBR09vaXFjRm1xdnJjVzBnU1JrUk1rUHVoa3QtWXU0SzNDcE15U29RQ2czZWJuV3c4UkpacWVzY1NscTllWnhaV19DeW1oaGdrRzhwVkpjUUpicXFEUG1pYnB5NA?oc=5
+- Money-making ideas: Urban Company, PB Fintech among top technical picks from Axis Securities. Check key levels
+  The brokerage expects 24,000 to act as a crucial support level for the Nifty. A sustained break
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/money-making-ideas-urban-company-pb-fintech-among-top-technical-picks-from-axis-securities-check-key-levels/slideshow/133496362.cms
 
-- Markets News, Aug. 24, 2026: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000 - Investopedia
-  &nbsp;&ngt;<font color="#6f6F6f
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPLXd4eU5QWGZRV3Y2ZUtpNUdUZEh1WE9hY0doLTVhVlViZktwZnE2YjFpUDVIenZ5SDlHTy1YTmVOQlM3allHbWM4WmxhNW9xbXBBNGhGdHZLbm9TZ0NkWldwUVpxQXd6dG80SS1lV0dNY19ETzQtZWhXZ2ZMLUR1MkFndFR1cDROWVp6NXRUTnc?oc=5
+- India was wary of Trump’s ‘unpredictable behaviour’, chose no joint presser with PM Modi: Report - The Times of India
+  India was wary of Trump’s ‘unpredictable behaviour�
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdVNaRGNsTVItWHVzSnZJUDJEMEhKUGJLdWxhN0ZGZ180QllNTGl5UDVxbGFpQkpZRGV6M2N5M0lHUjFrVmhET0RuOWN6TExxLWVubWxxX2pfelpfeU9sNnpjSWVmOXV4TXY2WlRDQ09pN3dqQ3o5Rnd0ZGlCZmFqa0FuNThSc2ZkVVFNellEYTlqT3lZamtTU0txTFB0V2VuOEVPb2FJRFl6ZGlUVUM3SzlOblphWUFwSml2UGZnam5NTEhyRm1vc3hOM0EtNWtqREhBczNRaHNYRmVXN1cxMlUwSGZwdzExd1dZ0gHwAUFVX3lxTFBpelRRMHNmNm9USEhwR3NNWWFVdTZDOFd1ZUppSHR3dHBCTkdqTU12ZzRaM2dXUUNWbEZNc0FqNnVkb0ltY3Mwa2VjVmpBSUNlSWs1Y1lsXzU1eW1ObS1BMHpxWFl2NmtBY0lhOVhtbjAzNTROZkRtTTZxNklCYUw4LWctQlVnVmNnR1R6QzI0TkQ4cENRcEVROTdwZzFhTENJcF9nM0dSeVVaZlFRRktBUm5xc0d5N004NUtuYklDcFBibkNTOEY0ZzVjeUN1aFhMQnB4WGZnX3VRbGZobWVsVWVNWkU4U250Mi1Xc0pyXw?oc=5
 
-- Sebi drops Rs 3,912 crore probe against Max Financial, Axis Bank over disclosure lapses
-  Sebi dropped proceedings against Max Financial and its associates. Allegations of disclosure lapses and a fraudulent scheme were not proven. Max Financial founder Analjit Singh and executives were cleared.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-drops-rs-3912-crore-probe-against-max-financial-axis-bank-over-disclosure-lapses/articleshow/133485032.cms
+- On India's 'No Press' Request, Sources Cite Trump's "Unpredictable Behaviour" - NDTV
+  On India's 'No Press' Request
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWUtQlVmNTZteGJ4ZF9jdndUc3ozQWZ1N3ZhazZsRzh3eHY5Rkc1Zm9GUGZTRHpZVW5iUTZocVpHSHdDbVJXZlhJWEVSRFAtS3lnUi1XZnRNaHNidHB0YVpmTzhIazlrbG5nNXFXMm5OU1R4Qm9vQ00zWWJWZEgtTXpwaUZkWm8zLU1EWWdxY2FTdlJOVHJWVTFXdkYyakRreXU4SEhDN3pEVWhKNWpyLXpfR29DYjlhT2FxVDJyd2VjNTk5VG16dUdnTDVubDRQaU4xeE8wS2pnUUFSQnfSAeYBQVVfeXFMUE05MWhfWDg3eTMzcnRhMC05eTZ4UXkxeHAyYVBPd1VYbWM4X2JnNFoyZ3JwV1ZjaVNMWVRrNnRpaUx4eWllUC1jcDFXLXhaR21qdjBuVHdueURTZGxQdkZsQWxzdFF6bWY1Zm5WYjRGSWdKb19sNGxUX1RvZGFfMjZxN0NuM2o1Tk1tTnUtY0FLVV95ZDFVa3dUblN0Qmx3Zm5ZYmtvNE5FaXlzRi1zZjMydFFTdVJsMjJUZ21nNjlIZnpLS0g2X2s4eWg1ZTY5UmtCUVhLMl9RNV9obUtyVTFXRXRlY1E?oc=5
 
-- India Inc’s equity fundraising surges past Rs 1.11 lakh crore on strong inflows in July-August
-  So far this month, 20 companies have collected more than ₹20,850 crore. IPO activity remained particularly strong, garnering more than 40% of the funds raised.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/india-incs-equity-fundraising-surges-past-rs-1-11-lakh-crore-on-strong-inflows-in-july-august/articleshow/133485341.cms
+- India’s news channels bring global fame. ‘Later it gets, crazier the shows become,’ says Sergio Gor - Telegraph India
+  India’s news channels bring global fame. ‘Later it gets
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTFLSzZTU1ZwaUxfV1JyaGZPeDlRWU04YUhVSHdhc205RlB3ZVhELU5aalE2V3ZGUkgzUFV6Y0xsT05zWkprTk80SDZnMU5sdmRrSW1VTGJsdExlTUpfaFc4WHRKb2hlUHFyLXRjeGhCRURxbFpEV3Vwd3NDLXZQZGxCNXN6eTZ4WXJ3eFhIZDhPVU5XYzZOY1JlaE9HMmd6alN6X0UtWWM5NUdqMjZYUGNIbE5mRGZrdlpTUkpTQzZqQ1FzUFZXVHpNRnJjN3BCY2tfX3J0NGpXQdIB3wFBVV95cUxOZmVPSVFsT21lZlBOdVlwS3NrS0xqeWxkVDBVZ2JHSlRaYU9xdDFaY1FhVmd6WG5RbXlINVFJT0hDUkZQOVhqSHFpbWg3OHZjTlJEcy13dlhFWHhfTWtfcHVkRzVZZE8tYWV4ZEFqUmRzMVJjV2NoMTcyZXRZa2wtZnVBeE1mS3AwN3JYaGN1d1Ffbk9LaVdlRUFteEZ3WlZLSkhWTE5EdFJkNTd2NTRtU2x2MVdwalBTWDhodDF0QTRhT3I0MmE1NlE0X1BkUWI1REsyWHE0aDJHTFB3M09r?oc=5
 
-- Stocks in news: TCS, ICICI Bank, Hindustan Copper and Piramal Finance
-  The Indian equity markets experienced a downturn today, with the Nifty50 index finishing slightly above 24,200. Traders brace for heightened volatility amidst forthcoming US sanctions and the impending expiry of monthly futures and options. Key companies, such
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-icici-bank-hindustan-copper-and-piramal-finance/articleshow/133475143.cms
+- A not-so-sweet surprise: How India went from a year of possible sugar glut to shortage & high prices ahead of festivals | Hindustan Times - Hindustan Times
+  A not-so-sweet surprise: How India went from a year of possible sugar glut to shortage & high prices
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYS1pYzdseDhKUWpJMlJHMTNObXhjc3g3cWdmUUNBZG4tU0lneVRiTXNSSHJUc3lBeGl0RC1uM0NuSW9wYi1NSWU4SDZMUmZCOTFKSW0zUTc4ampzZzFXb29jLV9XeWJPVUJ3QTFhczVURWR4WmtDM0ZPUm5semQ3OUJvZmY2NDF2d1N0Q29vNnJEWHNJeVN6TnNfR2ZOZzBSRWFZMTJZalNZNnB1RS1ZNGtiQUpKUTBI0gG-AUFVX3lxTFB2WURRaUlNeDZYX1NvcWk2bnlTR2s3YUc5bmxzUS1sQnR1UGhXQnJDcEZuWXFVMS1wVS01NVhFME56aFdLRF9icFI1bGxGYThfUGp3V2hBWjNIRDd1MUhhMVpmYWRXc0NPOHJlUWlwbjFLV01YMXBHVGhkSmw5NG9JTjBhamw1cHRzV1ZyNVdXUWZvRGdqOXhFODB6NXpiZ1JSM19mdGh0WjFFSzlIanlTZHA0SlJ3QVFUaTNMdHc?oc=5
 
-- Pre-market action: Here's the trade setup for today's session
-  Domestic equities closed mixed on Monday as the Nifty saw a slight decline. The Indian rupee pared initial gains, settling lower against the US dollar.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133474754.cms
+- Kanda Express To Bring Rs 35/Kg Onions To Delhi-NCR From Maharashtra - NDTV
+  Kanda Express To Bring Rs 35/K
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXNsM2VDZUFZczhwdGY2LTlheTBaaFRpLUVsZ2ZHelFSZVhrS0xoejdJNnpJR0tZR21qaUhXTURjMUw2WkNnVzh3VUhlbnZDcHhlZllCY25pZTk3cTk5LTM1NnNpcmtmTlBveTFqVTh6YXFTdzJWWTMwcUFaY2p5cmRsZ2xlb0laVTN2eTVWbHBBYUlYMzJrOUN4eE9PMGNJUjhHX2dDTnZDN2JaaFFEZDBHWjlkM2JoektSYTNIbEtla0hwQVYycWcxWTk5OVJlWmRGRUhWSW9jN043MWpTV0I1WVpyeDBw0gHwAUFVX3lxTE4tT0ZFcmI3Ymx2YkdDcGFpWXBOcklxNVNfX2hFVEgzVV9zY0ZUd3NzckZaUUoteVlja1F3MThsMkJTZHhsSnlNYkhXeEw1bmNlQ2xvWWxRazZpYTdNb0kzOFUtaDdyV3FPSjRQaVRLT01WZzExM2tYbHFjcS14RDFYNDdDZUdhYVhfdzBVUlJnbk16N1FTdlczTGdtTkhiX09lbTVRbVR1SE1XY2xRTDhIdzhkdDZIOUR3UVMyYzJGdzAtSjZsVVhUVVRLSDZuUWxWVUV0cFZWRUdmM2tlMDEzbXlzYTZqSFNTbTFSaHNpZg?oc=5
 
-- US stocks today: S&amp;P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions
-  Wall Street's S&amp;P 500 and Nasdaq declined on Monday, dragged down by a sharp sell-off in technology and semiconductor stocks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms
+- Karnataka Suspends Amazon, Instamart, BigBasket Food Licences Over Toxic Datura Listings
+  Karnataka has suspended the food licences and registrations of Amazon, Swiggy Instamart, and BigBasket.
+  🔗 https://inc42.com/buzz/karnataka-suspends-amazon-instamart-bigbasket-food-licences-over-toxic-datura-listings/
+
+- Infineon To Acquire Peak XV-Backed C2i Semiconductors To Bolster AI Play
+  German semiconductor major Infineon Technologies AG is acquiring Peak XV Partners-backed C2i Semiconductors to strengthen its power management portfolio.
+  🔗 https://inc42.com/buzz/infineon-to-acquire-peak-xv-backed-c2i-semiconductors-to-bolster-ai-play/
+
+- Men’s Ethnic Wear Gets Its Second Wave
+  For decades, the average Indian man’s festive wardrobe was simple. One dependable kurta that was worn for Diwali, family functions, and other
+  🔗 https://inc42.com/features/mens-ethnic-wear-gets-its-second-wave/
 
 - SoftBank Sells Lenskart Stake Worth ₹2,888 Cr
   Global investment firm SoftBank has now offloaded 4.50 Cr shares in the eyewear retailer.
@@ -108,17 +140,45 @@
   US-based startup accelerator Y Combinator offloaded 4.85 Cr shares of listed ecommerce platform Meesho.
   🔗 https://inc42.com/buzz/y-combinator-offloads-meesho-shares-worth-%e2%82%b9970-cr/
 
-- Qualcomm Offloads Shadowfax Shares Worth ₹184 Cr In Bulk Deal
-  Shadowfax’s early investor Qualcomm Ventures sold 75 Lakh shares in a block deal worth ₹183.85 Cr in Shadowfax
-  🔗 https://inc42.com/buzz/qualcomm-offloads-shadowfax-shares-worth-%e2%82%b9184-cr-in-bulk-deal/
+- India was wary of Trump’s ‘unpredictable behaviour’, chose no joint presser with PM Modi: Report - The Times of India
+  India was wary of Trump’s ‘unpredictable behaviour�
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdVNaRGNsTVItWHVzSnZJUDJEMEhKUGJLdWxhN0ZGZ180QllNTGl5UDVxbGFpQkpZRGV6M2N5M0lHUjFrVmhET0RuOWN6TExxLWVubWxxX2pfelpfeU9sNnpjSWVmOXV4TXY2WlRDQ09pN3dqQ3o5Rnd0ZGlCZmFqa0FuNThSc2ZkVVFNellEYTlqT3lZamtTU0txTFB0V2VuOEVPb2FJRFl6ZGlUVUM3SzlOblphWUFwSml2UGZnam5NTEhyRm1vc3hOM0EtNWtqREhBczNRaHNYRmVXN1cxMlUwSGZwdzExd1dZ0gHwAUFVX3lxTFBpelRRMHNmNm9USEhwR3NNWWFVdTZDOFd1ZUppSHR3dHBCTkdqTU12ZzRaM2dXUUNWbEZNc0FqNnVkb0ltY3Mwa2VjVmpBSUNlSWs1Y1lsXzU1eW1ObS1BMHpxWFl2NmtBY0lhOVhtbjAzNTROZkRtTTZxNklCYUw4LWctQlVnVmNnR1R6QzI0TkQ4cENRcEVROTdwZzFhTENJcF9nM0dSeVVaZlFRRktBUm5xc0d5N004NUtuYklDcFBibkNTOEY0ZzVjeUN1aFhMQnB4WGZnX3VRbGZobWVsVWVNWkU4U250Mi1Xc0pyXw?oc=5
 
-- Khosla Ventures-Backed Healthify Merges With US-Based Berry Street
-  Healthtech startup Healthify (formerly HealthifyMe) has merged with US-based nutrition care company Berry Street. Healthify will build an &#8220;
-  🔗 https://inc42.com/buzz/khosla-ventures-backed-healthify-merges-with-us-based-berry-street/
+- On India's 'No Press' Request, Sources Cite Trump's "Unpredictable Behaviour" - NDTV
+  On India's 'No Press' Request
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWUtQlVmNTZteGJ4ZF9jdndUc3ozQWZ1N3ZhazZsRzh3eHY5Rkc1Zm9GUGZTRHpZVW5iUTZocVpHSHdDbVJXZlhJWEVSRFAtS3lnUi1XZnRNaHNidHB0YVpmTzhIazlrbG5nNXFXMm5OU1R4Qm9vQ00zWWJWZEgtTXpwaUZkWm8zLU1EWWdxY2FTdlJOVHJWVTFXdkYyakRreXU4SEhDN3pEVWhKNWpyLXpfR29DYjlhT2FxVDJyd2VjNTk5VG16dUdnTDVubDRQaU4xeE8wS2pnUUFSQnfSAeYBQVVfeXFMUE05MWhfWDg3eTMzcnRhMC05eTZ4UXkxeHAyYVBPd1VYbWM4X2JnNFoyZ3JwV1ZjaVNMWVRrNnRpaUx4eWllUC1jcDFXLXhaR21qdjBuVHdueURTZGxQdkZsQWxzdFF6bWY1Zm5WYjRGSWdKb19sNGxUX1RvZGFfMjZxN0NuM2o1Tk1tTnUtY0FLVV95ZDFVa3dUblN0Qmx3Zm5ZYmtvNE5FaXlzRi1zZjMydFFTdVJsMjJUZ21nNjlIZnpLS0g2X2s4eWg1ZTY5UmtCUVhLMl9RNV9obUtyVTFXRXRlY1E?oc=5
 
-- slice Adds Former SBI, ICICI Bank Executives To Its Board
-  slice Small Finance Bank has appointed former SBI chief general manager Samir Sawhney as executive director and former ICICI&#8230;.
-  🔗 https://inc42.com/buzz/slice-adds-former-sbi-icici-bank-executives-to-its-board/
+- India’s news channels bring global fame. ‘Later it gets, crazier the shows become,’ says Sergio Gor - Telegraph India
+  India’s news channels bring global fame. ‘Later it gets
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTFLSzZTU1ZwaUxfV1JyaGZPeDlRWU04YUhVSHdhc205RlB3ZVhELU5aalE2V3ZGUkgzUFV6Y0xsT05zWkprTk80SDZnMU5sdmRrSW1VTGJsdExlTUpfaFc4WHRKb2hlUHFyLXRjeGhCRURxbFpEV3Vwd3NDLXZQZGxCNXN6eTZ4WXJ3eFhIZDhPVU5XYzZOY1JlaE9HMmd6alN6X0UtWWM5NUdqMjZYUGNIbE5mRGZrdlpTUkpTQzZqQ1FzUFZXVHpNRnJjN3BCY2tfX3J0NGpXQdIB3wFBVV95cUxOZmVPSVFsT21lZlBOdVlwS3NrS0xqeWxkVDBVZ2JHSlRaYU9xdDFaY1FhVmd6WG5RbXlINVFJT0hDUkZQOVhqSHFpbWg3OHZjTlJEcy13dlhFWHhfTWtfcHVkRzVZZE8tYWV4ZEFqUmRzMVJjV2NoMTcyZXRZa2wtZnVBeE1mS3AwN3JYaGN1d1Ffbk9LaVdlRUFteEZ3WlZLSkhWTE5EdFJkNTd2NTRtU2x2MVdwalBTWDhodDF0QTRhT3I0MmE1NlE0X1BkUWI1REsyWHE0aDJHTFB3M09r?oc=5
+
+- A not-so-sweet surprise: How India went from a year of possible sugar glut to shortage & high prices ahead of festivals | Hindustan Times - Hindustan Times
+  A not-so-sweet surprise: How India went from a year of possible sugar glut to shortage & high prices
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYS1pYzdseDhKUWpJMlJHMTNObXhjc3g3cWdmUUNBZG4tU0lneVRiTXNSSHJUc3lBeGl0RC1uM0NuSW9wYi1NSWU4SDZMUmZCOTFKSW0zUTc4ampzZzFXb29jLV9XeWJPVUJ3QTFhczVURWR4WmtDM0ZPUm5semQ3OUJvZmY2NDF2d1N0Q29vNnJEWHNJeVN6TnNfR2ZOZzBSRWFZMTJZalNZNnB1RS1ZNGtiQUpKUTBI0gG-AUFVX3lxTFB2WURRaUlNeDZYX1NvcWk2bnlTR2s3YUc5bmxzUS1sQnR1UGhXQnJDcEZuWXFVMS1wVS01NVhFME56aFdLRF9icFI1bGxGYThfUGp3V2hBWjNIRDd1MUhhMVpmYWRXc0NPOHJlUWlwbjFLV01YMXBHVGhkSmw5NG9JTjBhamw1cHRzV1ZyNVdXUWZvRGdqOXhFODB6NXpiZ1JSM19mdGh0WjFFSzlIanlTZHA0SlJ3QVFUaTNMdHc?oc=5
+
+- Kanda Express To Bring Rs 35/Kg Onions To Delhi-NCR From Maharashtra - NDTV
+  Kanda Express To Bring Rs 35/K
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXNsM2VDZUFZczhwdGY2LTlheTBaaFRpLUVsZ2ZHelFSZVhrS0xoejdJNnpJR0tZR21qaUhXTURjMUw2WkNnVzh3VUhlbnZDcHhlZllCY25pZTk3cTk5LTM1NnNpcmtmTlBveTFqVTh6YXFTdzJWWTMwcUFaY2p5cmRsZ2xlb0laVTN2eTVWbHBBYUlYMzJrOUN4eE9PMGNJUjhHX2dDTnZDN2JaaFFEZDBHWjlkM2JoektSYTNIbEtla0hwQVYycWcxWTk5OVJlWmRGRUhWSW9jN043MWpTV0I1WVpyeDBw0gHwAUFVX3lxTE4tT0ZFcmI3Ymx2YkdDcGFpWXBOcklxNVNfX2hFVEgzVV9zY0ZUd3NzckZaUUoteVlja1F3MThsMkJTZHhsSnlNYkhXeEw1bmNlQ2xvWWxRazZpYTdNb0kzOFUtaDdyV3FPSjRQaVRLT01WZzExM2tYbHFjcS14RDFYNDdDZUdhYVhfdzBVUlJnbk16N1FTdlczTGdtTkhiX09lbTVRbVR1SE1XY2xRTDhIdzhkdDZIOUR3UVMyYzJGdzAtSjZsVVhUVVRLSDZuUWxWVUV0cFZWRUdmM2tlMDEzbXlzYTZqSFNTbTFSaHNpZg?oc=5
+
+- India was wary of Trump’s ‘unpredictable behaviour’, chose no joint presser with PM Modi: Report - The Times of India
+  India was wary of Trump’s ‘unpredictable behaviour�
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdVNaRGNsTVItWHVzSnZJUDJEMEhKUGJLdWxhN0ZGZ180QllNTGl5UDVxbGFpQkpZRGV6M2N5M0lHUjFrVmhET0RuOWN6TExxLWVubWxxX2pfelpfeU9sNnpjSWVmOXV4TXY2WlRDQ09pN3dqQ3o5Rnd0ZGlCZmFqa0FuNThSc2ZkVVFNellEYTlqT3lZamtTU0txTFB0V2VuOEVPb2FJRFl6ZGlUVUM3SzlOblphWUFwSml2UGZnam5NTEhyRm1vc3hOM0EtNWtqREhBczNRaHNYRmVXN1cxMlUwSGZwdzExd1dZ0gHwAUFVX3lxTFBpelRRMHNmNm9USEhwR3NNWWFVdTZDOFd1ZUppSHR3dHBCTkdqTU12ZzRaM2dXUUNWbEZNc0FqNnVkb0ltY3Mwa2VjVmpBSUNlSWs1Y1lsXzU1eW1ObS1BMHpxWFl2NmtBY0lhOVhtbjAzNTROZkRtTTZxNklCYUw4LWctQlVnVmNnR1R6QzI0TkQ4cENRcEVROTdwZzFhTENJcF9nM0dSeVVaZlFRRktBUm5xc0d5N004NUtuYklDcFBibkNTOEY0ZzVjeUN1aFhMQnB4WGZnX3VRbGZobWVsVWVNWkU4U250Mi1Xc0pyXw?oc=5
+
+- On India's 'No Press' Request, Sources Cite Trump's "Unpredictable Behaviour" - NDTV
+  On India's 'No Press' Request
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWUtQlVmNTZteGJ4ZF9jdndUc3ozQWZ1N3ZhazZsRzh3eHY5Rkc1Zm9GUGZTRHpZVW5iUTZocVpHSHdDbVJXZlhJWEVSRFAtS3lnUi1XZnRNaHNidHB0YVpmTzhIazlrbG5nNXFXMm5OU1R4Qm9vQ00zWWJWZEgtTXpwaUZkWm8zLU1EWWdxY2FTdlJOVHJWVTFXdkYyakRreXU4SEhDN3pEVWhKNWpyLXpfR29DYjlhT2FxVDJyd2VjNTk5VG16dUdnTDVubDRQaU4xeE8wS2pnUUFSQnfSAeYBQVVfeXFMUE05MWhfWDg3eTMzcnRhMC05eTZ4UXkxeHAyYVBPd1VYbWM4X2JnNFoyZ3JwV1ZjaVNMWVRrNnRpaUx4eWllUC1jcDFXLXhaR21qdjBuVHdueURTZGxQdkZsQWxzdFF6bWY1Zm5WYjRGSWdKb19sNGxUX1RvZGFfMjZxN0NuM2o1Tk1tTnUtY0FLVV95ZDFVa3dUblN0Qmx3Zm5ZYmtvNE5FaXlzRi1zZjMydFFTdVJsMjJUZ21nNjlIZnpLS0g2X2s4eWg1ZTY5UmtCUVhLMl9RNV9obUtyVTFXRXRlY1E?oc=5
+
+- India’s news channels bring global fame. ‘Later it gets, crazier the shows become,’ says Sergio Gor - Telegraph India
+  India’s news channels bring global fame. ‘Later it gets
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWTFLSzZTU1ZwaUxfV1JyaGZPeDlRWU04YUhVSHdhc205RlB3ZVhELU5aalE2V3ZGUkgzUFV6Y0xsT05zWkprTk80SDZnMU5sdmRrSW1VTGJsdExlTUpfaFc4WHRKb2hlUHFyLXRjeGhCRURxbFpEV3Vwd3NDLXZQZGxCNXN6eTZ4WXJ3eFhIZDhPVU5XYzZOY1JlaE9HMmd6alN6X0UtWWM5NUdqMjZYUGNIbE5mRGZrdlpTUkpTQzZqQ1FzUFZXVHpNRnJjN3BCY2tfX3J0NGpXQdIB3wFBVV95cUxOZmVPSVFsT21lZlBOdVlwS3NrS0xqeWxkVDBVZ2JHSlRaYU9xdDFaY1FhVmd6WG5RbXlINVFJT0hDUkZQOVhqSHFpbWg3OHZjTlJEcy13dlhFWHhfTWtfcHVkRzVZZE8tYWV4ZEFqUmRzMVJjV2NoMTcyZXRZa2wtZnVBeE1mS3AwN3JYaGN1d1Ffbk9LaVdlRUFteEZ3WlZLSkhWTE5EdFJkNTd2NTRtU2x2MVdwalBTWDhodDF0QTRhT3I0MmE1NlE0X1BkUWI1REsyWHE0aDJHTFB3M09r?oc=5
+
+- A not-so-sweet surprise: How India went from a year of possible sugar glut to shortage & high prices ahead of festivals | Hindustan Times - Hindustan Times
+  A not-so-sweet surprise: How India went from a year of possible sugar glut to shortage & high prices
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYS1pYzdseDhKUWpJMlJHMTNObXhjc3g3cWdmUUNBZG4tU0lneVRiTXNSSHJUc3lBeGl0RC1uM0NuSW9wYi1NSWU4SDZMUmZCOTFKSW0zUTc4ampzZzFXb29jLV9XeWJPVUJ3QTFhczVURWR4WmtDM0ZPUm5semQ3OUJvZmY2NDF2d1N0Q29vNnJEWHNJeVN6TnNfR2ZOZzBSRWFZMTJZalNZNnB1RS1ZNGtiQUpKUTBI0gG-AUFVX3lxTFB2WURRaUlNeDZYX1NvcWk2bnlTR2s3YUc5bmxzUS1sQnR1UGhXQnJDcEZuWXFVMS1wVS01NVhFME56aFdLRF9icFI1bGxGYThfUGp3V2hBWjNIRDd1MUhhMVpmYWRXc0NPOHJlUWlwbjFLV01YMXBHVGhkSmw5NG9JTjBhamw1cHRzV1ZyNVdXUWZvRGdqOXhFODB6NXpiZ1JSM19mdGh0WjFFSzlIanlTZHA0SlJ3QVFUaTNMdHc?oc=5
+
+- Kanda Express To Bring Rs 35/Kg Onions To Delhi-NCR From Maharashtra - NDTV
+  Kanda Express To Bring Rs 35/K
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXNsM2VDZUFZczhwdGY2LTlheTBaaFRpLUVsZ2ZHelFSZVhrS0xoejdJNnpJR0tZR21qaUhXTURjMUw2WkNnVzh3VUhlbnZDcHhlZllCY25pZTk3cTk5LTM1NnNpcmtmTlBveTFqVTh6YXFTdzJWWTMwcUFaY2p5cmRsZ2xlb0laVTN2eTVWbHBBYUlYMzJrOUN4eE9PMGNJUjhHX2dDTnZDN2JaaFFEZDBHWjlkM2JoektSYTNIbEtla0hwQVYycWcxWTk5OVJlWmRGRUhWSW9jN043MWpTV0I1WVpyeDBw0gHwAUFVX3lxTE4tT0ZFcmI3Ymx2YkdDcGFpWXBOcklxNVNfX2hFVEgzVV9zY0ZUd3NzckZaUUoteVlja1F3MThsMkJTZHhsSnlNYkhXeEw1bmNlQ2xvWWxRazZpYTdNb0kzOFUtaDdyV3FPSjRQaVRLT01WZzExM2tYbHFjcS14RDFYNDdDZUdhYVhfdzBVUlJnbk16N1FTdlczTGdtTkhiX09lbTVRbVR1SE1XY2xRTDhIdzhkdDZIOUR3UVMyYzJGdzAtSjZsVVhUVVRLSDZuUWxWVUV0cFZWRUdmM2tlMDEzbXlzYTZqSFNTbTFSaHNpZg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -149,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-25 00:59:40 UTC_
+_Last updated: 2026-08-25 06:41:47 UTC_
