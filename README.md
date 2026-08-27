@@ -4,261 +4,201 @@
   Why India is sharing missile secrets with its private
   🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalhZal9PaWdPNDNYOWNQNW44aFNETXhmeXl2N0tUdzJma19DMmxoT2NnSnpNU01lektkQjBHVTdNT0JILWlsXzhhNE8xX0RhMm5fOVVfeGdYVmw4MVFWSW9nU2ZFLUJrOGRjcDJ3UXFSNk45bEg3dEJya042YzFqdDg3a0RPcDV2OFFCRUtmaXRZYzhFS080MkxRWUE1UXRmOHNn0gGoAUFVX3lxTE9jdS13eXV1WFhJbklfeURIbGN6cnhoVS1kb3JYNzkxUmxCVzk3emNZQzJ5OGZKTXlXUkc3MGhvV2E5WVdTa2RxOWp6NnBJaVh5dUhKQzRnczh2MWFLNXU2OTRiRENidmNBSjBuMGJETkIzOG1qSGx2SG5BZWRKR2hVZ2dNSGt5N2hmZVUtNnJPUlJOQmQ2SW9VcXBSMllqWGlxZTlneTMyeA?oc=5
 
-- India Wanted Red Flags On Sugary Drinks, Chips. Food Giants Pushed Back - NDTV
-  India Wanted Red Flags On Sugary Drinks,
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTlFVTzRoRWZETnNDdU8zWjdUWERWUUNrMVhMTjR4N21wNEwzRGxVcEVSN3JvNkNUazQyYjU0YWN3Qmlfa0pEN0RFQ1VtREx2dzI5RFRRdzVEZjlBcWtlcE1kczVxaHpvR2N4Mk5zQUxzSUFmQUdsSnlJM052S1ZEN1hKSDdNTU83U0NiS3Q1OWRJWGdiMDV4ekdEY3prc09wLXFnLVZ4azFBRDBtbmZBVkNaamNuaVAzOEluZ2VnMF9MT3RyN1BGblRtQjRpUExDcmxIaFlJS3NVQ1VDMU1rMlNOak1xYnFWWkYzdkVwb1DSAfgBQVVfeXFMUGZrSVRXbHdwc28zYXhCWEJzQ2VWR2hJTmNmWXJqVGZHalJfVG0xZU5scGxMSEdDTmVGS2s1TnZrdV9vVEFVQ00waXd6Wmw2NTRveFRSQkY4QUQxTG5YTEhtWTVHdU1Nd01yQ3FWSkEtb1VxelZlLWRiazgxV1pNdV9OZUMtWE45OGpZakk5Y0FmVVE1MzVLUUJzS1ZLUHVKRndGWENDZDVzb05Sc0pUYmRiXzJqd3VwdnZyVXk1Q0xkYjhncTROX0VscEhiYUFmNXlZOENaRFZJcTFVb1lxaV85YkxtYUJBazAwQnR6OEVZRUR5MEh2WHA?oc=5
+- Weather Saved Pak's Skardu Base During Op Sindoor, But Bholari Took the IAF's Direct Hit - NDTV
+  Weather Saved Pak's Skardu Base During Op Sindoor
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYV9Rejc0REFRTTlmUnd0T1NuS0NrZ21zUHpSaDMtY1g1SXl1bFU0aF9FQW5jNDdHNExHVXJ6d0VGZklxb0N0TTIwY1FxSThtd2FTRExOYTg3eWJMUFFsQ0lEUTFLQ1lFV3FMVFRtUU8zWEJTbXVpX1RSYnctZGZQWmN1RGFIQy1QMGVQLXBHSkFqWTBoeVdYQVUzQ2g5aDExMTREcGtSZTFvV3UtTE5PSFNadHRIQVQtMWZoRkdGVE5ZbFVUcmtpTDFmSW96X0pRQ0xVNjAzYlJlU2I2bFN4a1ZR0gHqAUFVX3lxTE1hRl90djFaY3ptMXA5VUg0bmVYRmszOFZnZTEzVm5uYmxYSnEwMERDRlFKUDcwOHhVYWdxTl9nMVhLZFMtTi1icHhaV3J4NXFkdW0xTzhPbWVJNzZILVBTUnRPUGJzRUFpVWdXbVlwQUo3bGRJNnVOaUxOY3ppcW8xdkp1RzhYcnRXQUxybGJKY0QtYndpTUhRQ042S1A4RGdyVW5fNk9fZ2xwclJsTHZKeUYwbWxOblVlaUgtSjRGQVhCSmVzeTFNYXRlTnRNWFdNekl2NEo1eDYtZzJZSkx4YXBkNDliQlZSdw?oc=5
 
-- "What Melts In Himalayas...": Nepal Minister Flags 'Common Threat' To India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2R0NGMxNnBBWFJMQzBkSmtLX21sS01ZM0dqYkZTcHZYY0JpcWlNMnZxNUMyRmNBeVJVRWs3OFJUTDA4Y0UzSzdtNG9TMHpmczIwRWsxaDdfQ3NWS3hXZlVHV0xMdUFFd0RvZk5mSTJsTjRjdWN3MEw2UlZMY3phNllRd9IB6wFBVV95cUxQRmcyczUxR3VXNmpfdGVhX0ZkZ2gtTFotNXhTUWZvR2hZOVVKeTNRQmNXVG5NWXhqRTdvTjJfN0g0ejlPTDBRTmxzWl9keW1TektqREdobDVhY0l4WkxMal95SEJJc19lbHBaZ2h0aDAzMG01X0tSMEpkdmFJXzRrLWY0VUJtWlJsVGprOFNvbmszdm1sSHA5WmhEXzQ5QWwxS1NGM0otTW9nZHJkUGEtX0JBVURhN0dDeUIyMUFRVnNYM3BYS1lVazhyRG1CZk9tYVlySzZPM3Fkb1FKODV5alRTT1hXYnNzcVRV?oc=5
+- Supreme Court issues directions to expedite dowry trials - The Times of India
+  The Times of India reported that the Supreme Court
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSnlRZjhnSXdSMGRoMVA3TjBnNEcySHlla1lCVjdxVGFJX3ROV3hPUW5hcGZvdVlmUDlaVG5pVTNrWUI2dGhreldWZ09xNk1hUWZRMnlDWUkzSHJ1NDJyNkRWbVA0QjBoWXJTTVNwZ3NWMkk5dE4zcGpDRTczdlFSWF9lYnZYM09OVjhzdkQxaDJaUVJfSG82djNBVGRBRm9TQzFmemg0N1JqTmpxTzhfWDZQLUoyczMwNkgtRVlPbkVwd9IBxwFBVV95cUxPSVI3aHBiaEVzVlEzNEVHN1hkSFZpWFFEZW5MSkl2WkNubWNrVXNlM3pZTUZQb0dRMGNlY3RNNTJSNVZzekw1V3J6ZTdaOXNUVmg4aElJZFRPaXRCRHNwTE9NSUlIdTU2MXVfNzZ4Z0pOcFd6LXp5UEdZQWdDU1cta3V4dm9XMFlhbk9EYVVvNjJlUVpVVFY3U0s5UHpoakdzMDZ3bjZySzZrajB6eW1ZbFY5WFM0bDZoVWEzMkdBdmltTXNHZmdV?oc=5
 
-- India U19 squad for Australia U19 Men’s Tour of India announced - BCCI
-  India U19 squad for Australia U19 Men
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlhEekVkRlFaYUFHWFM5YTlQZ0dMTTdidHR6UU9KNDRkMnNNZ0pmSExQT05GckJMaGsza284a0tSdEV1M1V6TzRKT1lBTUpIeWpIWDJzLW11SW1nMXVvZEJsZXNnUXBOSU5JeUNocEUwUTAzM0lCUW9mOUZNNEZUakR4QzZ0ZnNHUlBrTGloZGlXUnFrSGxOUHFmaw?oc=5
+- Mahatma Gandhi's Ideas To Be Relevant Even After 100 Years: Amit Shah - NDTV
+  Mahatma Gandhi's Ideas To Be Relevant
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1Y3d0t2Qk5JaktabTNSZ1NVNmpPVUNKV1hiZ3RXNjJMOF96YkRVdTlkTHJldnhPT1doZEdzRExwWDJjbWF1UDBLRlJiUnVKdGlZdjdtNVVRejRNNFJEWkI1TXpsX2cxNi1jWklUSjk1NzFaX0RIMFY3eGdpNTl0QnZEcUVGeTJhRGF2TlB0aDdfLVh4STdFQ1lDb2pydW1zcHV3MGlBdURBTjF00gG0AUFVX3lxTE1halY2ZlFTQlpmQ1NCaEQtMHZta2M1TWNIWm0zQ01XWG5jT2tNN25UVjlqNkpUWTZtQk9BbEJkX1YyWVY2em5DeFFvbExzenZHTjBWLTlTT25mNzNiVVlic3o2dzI2d1otQWd4R1JTM0NEOUhUMUc5NWFKaC1fdjRJQTVBNHhmN2ttbnNFLVVldFNqbXFaRlZtTXRxUVVneWVZUHFtdGpOUWFYd2d2RHMtQWl1Sw?oc=5
 
-- Kriti Sanon Rakhi ad: Giva jewellery drops Bollywood actor's Indian festival ad over outfit - BBC
-  Kriti Sanon Rakhi ad: Giva jew
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GVTJ5b0pZNWkwQndnNHBPRnFPdXk0cm9OU0lpNDRmN3hlTnJaeWQ5amVkT2laNEtFTWg5MjVueUhnYnhQeTU5Ni1hMEJ0dURRUVp5VUxTbFFZZw?oc=5
+- "No Boasting": Shashi Tharoor's Advice To Media As India Sends Help To Nepal - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2dVNkZkZEdvaXVWMjNzc3EwejZiTERFOVFzMmI0Ui05WlRPSFFJSTB2emdkSkJKOFl0dzZGMHI4aWZ6TU5ZWHNidFVXYWc2eVhhNmtrdkpyMUtXTC1Nc185ay1yaVpJT1d2c9IB0wFBVV95cUxQbkpyVVRibEtYWE1lWDQ5cWNJVUJyNlhLdE9BcHVGNjRJR1N5aElFa1VYNTYzN2U2STY1Rm9KaGZ0YWh2dExhbWN6ZHgtVUFlWnFYV0t1el9nMnNMTjgzZkt0SjFFVTRFWHlJRV9VY1RnNmhWallFa000cU9xUmp4X1pNNHhRYl9Ic1p3dG02aDhzV3JiMUhlRHVfdS00YzUzVGJtMHpqeFEwTmRMdk53a1MtLWtNQ3VFcGZmYmpzd2RYRU9acHBBLUJjNjNXU0czc2pZ?oc=5
 
-- Bill Gates was an AI optimist. Now he’s scared of what could go wrong. - The Washington Post
-  Bill Gates was an AI optimist. Now he’s scared
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZxQlViRG5wSXMxTXM3bXVGWUNaeXdXUFpkbDUwZVlxLXE2LWxiX3pOS2tjVkNYdkpuM1NvOFpHOHhXcWJzQWY3Y0FvRTBoN0d1NC1Bd2JqTEpiR0pwazNQOE5wSjdCUVFnb29LczJSN2ZkWEFrazNyamVkREFyM2d0VlE5Y3lONXljQTFldEQwcGlMelQzcnBKeGs2bWduTnY5QmxpNms2eUJJVzQwYVJzM2U?oc=5
+- Meta’s $18 billion teen safety settlement has a catch: TikTok, YouTube must follow suit
+  The settlement would impose some of Meta's toughest restrictions yet on how teenagers use
+  🔗 https://www.livemint.com/companies/news/metas-18-billion-teen-safety-settlement-has-a-catch-tiktok-youtube-must-follow-suit-11787860592569.html
 
-- This new technology could finally force kids off social media for good - Futura, le média qui explore le monde
-  This new technology could finally force kids off social media for good.
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVdIM2szaU1kajhEckM2eTVzbFFmd0lLSy1nNjJoUS1ObzExUnlteWl4TzlfX3hkSXQ3UjQ2TVBxVWszTUJYQjZQaTB2aG5aWUJzT1RIMEFmcG91eHZLT2lCWEVyZ3pEUUgyYjFqUTdybEpfQ0U2R21CNjFCaC1VM3ItZXNvX0VCTDMzb2JuUG8zcElWdDd2VWpLZFhKRUFDZFFSTURhWE1PZHp6bHQ0c3pn?oc=5
+- Two Sigma’s Feuding Founders Head to Arbitration in Fresh Battle
+  Two Sigma Investments’ billionaire founders are headed to another round of arbitration. It is the latest front in what
+  🔗 https://www.livemint.com/companies/two-sigma-s-feuding-founders-head-to-arbitration-in-fresh-battle-11787856608207.html
 
-- China-Uzbekistan Ties: Chinese technology boosts Uzbekistan's cotton production by improving irrigation, machinery, post-harvest processing - news.cgtn.com
-  China-Uzbekistan Ties: Chinese technology boosts Uzbek
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE9NSmtMNDM0S211QjFpNFhMbVFvMGdtV2VvTkIySmxHM2doZl9zbk5PbDJWV2FCcnUzUGlRTFhRMU45VVZVbDJMd3VTU2dXbzJyNU4tbjNQbXVYa0NuRVJsTWdPVlpSMUlsN1BOWVRGTl9iaWhkOFBhOQ?oc=5
+- TCS Q1 variable pay: Mid, senior employees get 60-70% while juniors receive full payout, says report
+  Tata Consultancy Services reportedly lowered variable compensation for mid- and senior-level employees in the April-June quarter. Only 60-70% of eligible pay
+  🔗 https://www.livemint.com/companies/news/tcs-q1-variable-pay-mid-senior-employees-get-60-70-while-juniors-receive-full-payout-says-report-11787838937159.html
 
-- Meta's $18bn settlement may hasten reckoning for social media on child safety - BBC
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xVGdnVmlQY09CN0JSRVdaQXNvX0dtY2pfT1Z0MVlfVnpmb0pLLWlaV0ZZNXJIcVhzTEk4TlB2WngyVGdNZ1BEM0RzbWUyOXZDWXlieGNoejl1UQ?oc=5
+- IndiaFirst Life bets on agentic AI for long-term gains, ties-up with Salesforce
+  IndiaFirst Life has partnered with Salesforce to deploy autonomous AI agents across core sales and customer operations.
+  🔗 https://www.livemint.com/companies/news/indiafirst-life-bets-on-agentic-ai-for-long-term-gains-ties-up-with-salesforce-11787843460775.html
 
-- Beyond the basket: What bigbasket's technology chief reveals about the future of commerce - ET CIO
-  " target="_blank">Beyond the basket: What
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOakpROFZfUlZZTnY1ak01VkpfQTJEVjNtUHgydk1kbWRUb0RRTlFtQU94dWF3ZTMyLVJsejkyUDBneWJqajJ3cmRsb1BQYnJYZ0hZV3BpSXJnVWtiT0FWY0RCSElIRE95eHhVOFE5NksxbW04RW05M3UxbTZCc091YkoxdlNEcFRDSWIxdDlQTkl4dUo2UXp6OUYwLXdoR0wweE1fTTY3MlNxMlpfeTBlMGNXMmFjMnlhcnJyUVh4bDRPcEdxWURjWjEzSVpsYnVsQ0VYZnR3b3ZNN0RRMzV5MWNkd25pUC1IR2RjOGlB0gHzAUFVX3lxTFBYSFFSbnVINjRGaFUtaTVoOGV2Zk9YNjY0RzhBZmxNTDJaUU9jbml2b1FuOUpMWnpkOEFhel9VSUxBb1dEOHRZUEcwN3NmZnJaMXVIUXY1V0dKVmh2Sno2RXpXV2dVbEVpSDQzZlBqQUdIQ2JhejBVY0Q4aDhwbHRESjgwUTM0VVNRLTdRZW1iNWhrWVdNU0YwR0MtR0ExTXZOZ1pVV0pqVWd5NFJsYVVTOWI3UzhzY0h3MTBidmhnRnI0V1NCWHNKUEJXY2RsMDkxMXNxemt6UW1Qay1HOXNrcFFiZFJHM3JsRkJNbHREclhpQQ?oc=5
+- Alpha Wave offers $137 mn Lenskart stake as investor exits gather pace
+  The floor price is  ₹630 per share, a 1.7
+  🔗 https://www.livemint.com/companies/news/alpha-wave-joins-softbank-temasek-adia-lenskart-share-sale-11787841215351.html
 
-- Lloyds Metals weighs bigger steel bet, eyes up to 8 mtpa at Maharashtra unit
-  Lloyds Metals has environmental clearance for a 4.5 mtpa steel plant at Konsari in Maharashtra. The
-  🔗 https://www.livemint.com/companies/news/lloyds-metals-steel-plant-capacity-maharashtra-8-mtpa-11787751827261.html
+- Gold Tops $4,600 as Investors Weigh Fed Path Before Jackson Hole
+  Gold trades above $4,600 an ounce as investors turn their focus to the Federal Reserve�
+  🔗 https://www.livemint.com/market/gold-tops-4-600-as-investors-weigh-fed-path-before-jackson-hole-11787865436959.html
 
-- Meta planned massive shake-up to replace employees with AI, but then Mark Zuckerberg blinked: What was Project OT?
-  The plan, code-named Project OT – short for Organization Transformation – envisioned an “
-  🔗 https://www.livemint.com/companies/news/meta-was-planning-massive-shakeup-to-replace-employees-with-ai-but-then-mark-zuckerberg-blinked-what-was-project-ot-11787796023148.html
+- Oil Rises on Fresh Doubts Over US-Iran Diplomacy Outlook
+  Report: US President Donald Trump has told mediators he’s uninterested in returning to terms of a June ceasefire deal signed with Iran.
+  🔗 https://www.livemint.com/market/oil-rises-on-fresh-doubts-over-us-iran-diplomacy-outlook-11787858692358.html
 
-- ChatGPT, used by over 100m Indians, to now show ads to free users
-  OpenAI announced a pilot plan for advertisements within ChatGPT on 9 February. Anthropic released a statement claiming that its ChatG PT counterpart, Claude, �
-  🔗 https://www.livemint.com/companies/chatgpt-ai-india-advertisements-free-users-openai-ipo-advertisers-11787743587818.html
+- Build-A-Bear shares on track for biggest drop ever on weak revenue outlook
+  Build-A-Bear shares on track for biggest drop
+  🔗 https://www.livemint.com/market/buildabear-shares-on-track-for-biggest-drop-ever-on-weak-revenue-outlook-11787858506585.html
 
-- India's semiconductor investment push gains pace as Tata, L&amp;T chip in
-  Starting January 2025, Tata Electronics, Murugappa Group's CG Power, and HCL Group have announced semiconductor projects worth  ₹1.29 trillion
-  🔗 https://www.livemint.com/companies/indias-semiconductor-investment-push-gains-pace-as-tata-l-t-chip-in-11787668226247.html
+- Dollar subdued after data as focus turns to Jackson Hole
+  FOREX-Dollar subdued after data
+  🔗 https://www.livemint.com/market/dollar-subdued-after-data-as-focus-turns-to-jackson-hole-11787857770329.html
 
-- ⁠⁠Founders, investors launch  ₹250 cr fund to back impact-focused startups
-  TILT is targeting a funding gap faced by early-stage businesses serving low-income communities. It often takes longer
-  🔗 https://www.livemint.com/companies/news/makemytrip-meesho-bigbasket-founders-tilt-capital-impact-focused-fund-india-11787732657835.html
+- Zinc Rally Eases While Spreads Point to Tighter Supply on LME
+  Zinc slipped from the highest level in more than four years, tracking losses in other metals. Traders continue to monitor signs
+  🔗 https://www.livemint.com/market/zinc-rally-eases-while-spreads-point-to-tighter-supply-on-lme-11787856974605.html
 
-- Why brokers see little retail appetite for closing auction session
-  Retail participation in the new framework has remained low. brokers expect it to remain low for a while, despite Sebi's attempts.
-  🔗 https://www.livemint.com/market/stock-market-closing-auction-brokers-retail-investors-sebi-cas-11787803119833.html
+- Meta settlement falls short on teen mental health protections, whistleblower says
+  Meta settlement falls short on teen mental health
+  🔗 https://www.livemint.com/technology/meta-settlement-falls-short-on-teen-mental-health-protections-whistleblower-says-11787857832431.html
 
-- Stocks to buy: Nagaraj Shetti recommends Bank of Maharashtra, Ashok Leyland shares to buy in the short-term
-  Domestic indices fell, influenced by HDFC Bank's lawsuit and soft crude prices. The Nifty 50 decreased 0.20%, and the Sensex dipped 0.28%. Despite overall
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-bank-of-maharashtra-ashok-leyland-shares-to-buy-in-the-shortterm-11787810238357.html
+- GTA 6 leak just got bigger: Cyberleek drops Lucia prologue with story spoilers ahead of Netflix debut
+   Cyberleek had previously shared several short gameplay clips from the highly anticipated
+  🔗 https://www.livemint.com/technology/tech-news/gta-6-leak-just-got-bigger-cyberleek-drops-lucia-prologue-with-story-spoilers-ahead-of-netflix-debut-11787848453316.html
 
-- Annu Projects IPO Day 3 LIVE: GMP, subscription status to review. Apply or not?
-  According to market observers, the company shares are trading at a premium of  ₹4
-  🔗 https://www.livemint.com/market/ipo/annu-projects-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11787806153536.html
+- Inside Google’s Vizag data centre: fast approval, GPS for fishermen, AI corridor
+  Google’s $15 billion, 1GW Vizag data centre is set to anchor an emerging AI corridor in India. Backed by Adani and Airtel, the project benefited from
+  🔗 https://www.livemint.com/technology/google-vizag-data-centre-15-billion-ai-corridor-india-11787825897756.html
 
-- ESDS Software Solution IPO: GMP signals 85% listing gain; check key dates, price, reservation, and more in 10 points
-  The upcoming IPO of ESDS Software Solution is creating excitement in the market. The grey market premium suggests an impressive 85% listing gain. Explore key details, including pricing, allot
-  🔗 https://www.livemint.com/market/ipo/esds-software-solution-ipo-gmp-signals-85-listing-gain-check-key-dates-price-reservation-and-more-in-10-points-11787804607700.html
+- They are masters of electronics assembly. But can our factories genuinely Make in India?
+  PLI has proven to be a game changer for electronics assembly. The hard part, upgrading factories to manufacture
+  🔗 https://www.livemint.com/technology/india-electronics-manufacturing-automation-components-ecosystem-11787827951542.html
 
-- Hy-Tech Engineers IPO Day 4: Issue subscribed 98.06x so far. GMP hints 83% listing pop. Apply or not?
-  Hy-Tech Engineers IPO has seen robust demand, attracting 50.80 times subscription by day three. The price band is set at  ₹50-53 per share, with
-  🔗 https://www.livemint.com/market/ipo/hytech-engineers-ipo-day-4-issue-subscribed-68-96x-so-far-gmp-hints-83-listing-pop-apply-or-not-11787806195505.html
+- iPhone 17 becomes world’s best-selling phone in Q2 ahead of iPhone 18 arrival; Apple clinches top-3 spots
+  Apple's iPhone 17 became the world's best-selling smartphone in Q2 2026. Apple and Samsung each placed five models in the global top 10.
+  🔗 https://www.livemint.com/technology/gadgets/iphone-17-becomes-world-s-best-selling-phone-in-q2-ahead-of-iphone-18-arrival-apple-clinches-top-3-spots-11787826197124.html
 
-- Microsoft co-founder Bill Gates warns AI could become source of injustice, says 'challenge is monumental'
-  Bill Gates argues AI models "still make mistakes," calling the challenge of ensuring an equitable AI transition "monumental" Gates: AI could be either a powerful tool for reducing inequality
-  🔗 https://www.livemint.com/technology/microsoft-co-founder-bill-gates-warns-ai-could-become-source-of-injustice-says-challenge-is-monumental-11787808844943.html
+- Stock Market Today: Nasdaq Jumps, Nvidia Stock Rises as Bullish Forecast Lifts Market Spirits - WSJ
+  The WSJ reports that the Nasdaq and Nasdaq
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9wcnRGcW1mTkt4M3VVRER6UXI2VUc4Mi1CbnV0X3pkdWw1UUVDdzd2UkFwV1o4UFNmUDEwVDZaeTV6RXBBeEZMV2tXX2xQZC1vRGktcl94c1pOZ1EzNk5zWmtFaGhSNUs3Y3lVcnhZdUEyVjVBR2JCT1B2MDhvNF9YM0lOWVU?oc=5
 
-- Time limits and a midnight cutoff: Meta’s new rules for kids go further, but critics say not enough
-   Meta's new rules for kids go further, but critics say not
-  🔗 https://www.livemint.com/technology/time-limits-and-a-midnight-cutoff-meta-s-new-rules-for-kids-go-further-but-critics-say-not-enough-11787803868571.html
+- Stock Market Today: Nasdaq Closes Sharply Higher After Blockbuster Nvidia Earnings Report Powers Tech Gains; S&P 500, Dow Also Rise - Investopedia
+  The Nasdaq closed sharply higher on Tuesday. The S&amp;P 500, Dow
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2w1SXl6Mnk0VEZJZ25uczFvSF9ra1pZckVTbFNJU3ZWSzQtVmFxM05qNVd4aGpmSWd3TXg3M2dOblQ5S3p3czd5MFJvaTFXSWQxRUhSOFc4Vi1Kazd4UEhVNzEtdnNyLW1fSHJ2R1k3OGs2Q054bVJEaFJiTUx4TUZBdXYyWXE2OG5WaXFRYVM?oc=5
 
-- One Tech Tip: How to keep your child’s tablets, laptops from becoming distractions from schoolwork
-  One Tech Tip: How to keep your child�
-  🔗 https://www.livemint.com/technology/one-tech-tip-how-to-keep-your-child-s-tablets-laptops-from-becoming-distractions-from-schoolwork-11787803812608.html
+- S&P 500, Nasdaq Composite close higher Thursday as Nvidia rallies on revenue guidance: Live updates - CNBC
+  S&amp;P 500, Nasdaq Composite close higher Thursday
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE81OFdpS2tFUVh1NFJWZVBOdHV1VDZINjFmVmZxUnF2TVFRVnVDV1VXYnN1OS0xTURpMTl6S1NvMllsWVlHSVpCUU4yRmJZcDYtNUVVV1p2U2ZXOEpuSHlkM3lkTGNtWjBSdlVtUUZxLW9PbUZpbHBF0gF8QVVfeXFMTVE4T2JoblkzUGJXTFEyZjFHYk5adlZyYmUzcXhMRDZUSUJMU1FUNDRsT2RPNzc2MUcxT2V5M3RoeUgxS2xGRi1oWXdsLVkxOWYyRUZiSVdjNnVLbktoYWtoUmRBWGpZTW5PUnMyYUZLamt2aHlLSmtmQmZPXw?oc=5
 
-- A robot sprinter shatters a 100-meter record again as sparks fly at China’s robot competition
-  A robot sprinter shatters a 100-meter
-  🔗 https://www.livemint.com/technology/a-robot-sprinter-shatters-a-100-meter-record-again-as-sparks-fly-at-china-s-robot-competition-11787793305201.html
+- Scott Bessent takes on the bond market - The Economist
+  Scott Bessent takes on
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1BXd09GOVlUU1dNckllRHpRenlFR0dNeHVRaUFnS3lkWV94UlVsdWxXXzg0V0hLYWhWTHhlbzJDenhCZGliUG5PbGNHN0RwNmN6QnZTcy1PN0dQa3lnUzhPSzFNTHFVelAxTGJhQUhfTE1POTY1akhDS2tmajR3VnN6T0dRc3hvcG8zVV9pUlV3XzV1T3JBeTh1b19TZw?oc=5
 
-- OpenAI says its Jalapeño chip beats Nvidia Blackwell in AI inference tests
-  OpenAI says its custom Jalapeño chip outperformed Nvidia’s
-  🔗 https://www.livemint.com/technology/tech-news/openai-says-its-jalapeno-chip-beats-nvidia-blackwell-in-ai-inference-tests-11787750498001.html
+- Kevin Warsh Has to Pick a Side in the Bond-Market Battle - WSJ
+  Kevin Warsh has to pick a side in
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVR3MzFEQkFSQnhyOHhvM2tTNk5WY1RwaTF0a2ZLTmpOV3MzeUwxUVNGUVlUUW5ZMEVySGR3MmxwdFRsVXNRdUJhMVhVUVliSHkxQVhLZjctN05qTGJEZ1k4eEx5LVVLZDhfa3Q3U0hKWTNmZWpSQXhxTll6bmZWVWhxMFJJaUFRdGM5QlJHbWllVjhyVXo1d0lIU3VURkZPUzVWQ3V3?oc=5
 
-- Stock Market News, Aug. 26, 2026: Nvidia Shares Climb Postmarket After Chip Giant’s Results - WSJ
-  The WSJ reports that Nvidia shares are expected to
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0pfSDcyZUtLRG5pdTFIeGhRMzVEWWhhaVlrMmtRY1Q3djNheXpfWU5UWkRJVWlfZ0hxby1MV0NENHgtc2d1Y3BzRkV0TnVSaVdxMnM0ejJzT0hkRDM1NnZ4dTlDb2x5b3dFV2tPbDlVQVh2dmIteXZubkFpZVcyTzlzdmc?oc=5
+- US stocks today: Nasdaq, S&amp;P 500 rise as Nvidia revives AI rally; Fed outlook in focus
+  Wall Street's focus is quickly shifting to Fed Chair Kevin Warsh's Jackson Hole speech. Fresh inflation data and a resilient labour market have complicated the interest rate outlook.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-sp-500-rise-as-nvidia-revives-ai-rally-fed-outlook-in-focus/articleshow/133577997.cms
 
-- Markets News, Aug. 26, 2026: Dow’s Winning Streak Ends as Inflation Data Lands Slightly Hot; Nvidia Sales, Earnings Beat Estimates - Investopedia
-  Nvidia sales, Earnings Beat Estimates. Dow, S&amp;P 500, Nasdaq little changed in countdown to earnings.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWlld2RuOXNmV0FGWThudnNTcE4xWTlMM3Z5SUJ5aG1JVlRzcUhzT3otbTBuamF4NnZNOHZnbVhSaS1BUmU2MkQ4UlJYdTZieVctTk5PS2JUMnhxeWxzU1ktZ3ZMbzVleG9GMEIzWE1fMF9aVFl5QVV4dkxXTHVGV1BhNnBTbTM4NF9tX2dxZmk?oc=5
+- Fed's Collins says latest US inflation readings are 'mixed'
+  Boston Fed President Susan Collins calls July’s data mixed and maintains her expectation of gradual disinflation. Cleveland Fed President Beth Hammack remained more hawkish, saying inflation could stay above target through next year.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-collins-says-latest-us-inflation-readings-are-mixed/articleshow/133576376.cms
 
-- Sensex Today | Stock Market LIVE Updates: Nifty below 24,200, Sensex down 120 pts; auto, FMCG, media drag - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxOUXdqc3VlM2xMX3lsa2FGcEVmUVpKdENlcHI1WVg2dWhHWU1HRlRyLUQtMmV3bUZRQ3RiUVl0NEhEdzhhUUY4dE5TOWhqWnE3MVVCaFlEZWlKLS1SWUVFbk85Q0k3a2VIc0
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOUXdqc3VlM2xMX3lsa2FGcEVmUVpKdENlcHI1WVg2dWhHWU1HRlRyLUQtMmV3bUZRQ3RiUVl0NEhEdzhhUUY4dE5TOWhqWnE3MVVCaFlEZWlKLS1SWUVFbk85Q0k3a2VIc01pakQyRHFiLUs1d1YzcXRyM29WSk1sbEFNNFUyZXdhM1Y3MkJkWFhkZlN5cUFYbUp4clZ2SzVZZWI2dEE5YmRFS2pQaVdvSThxWmtIYl9sMzA0bi1XWnpFeFlyZ2lkX003SENJYkstMEVVd0FMM3hUdlJ4eHpYZmVOYnlkbGYzLWVsb1lab194UFM5UGJ5b3dBRkljTEVQaEhPUEVfODBscTVfZmRkUmowSnRSWHpfT3cxeUNjcGkwNknSAagCQVVfeXFMTXhkNzhIMVhDVDRsX19UYjlBVUQyLUNDZFJUQm5nd0NNQk5qSzI4VDg3TERZV1FnZUt0YkpTMl91SjRyX3M5THI2d01fVl9HUzVGNGpUQjRpTnVHQnRPVk1IX0FtcjNUeVE3dnJETlVmandXZHBPZVdRWXZFaFpZNFBmMHl4R1dSbk5CTDNHUkRZa1NlcXJsM1ZWWHAydU13SXRkazRONjBkLVFGaWlFYlJjWFhxNHRZTXl1OG4yU2dUZnplaTdBcERDY0ZxSll2MVZCRDQzYlVuSkFfOVo2RDhTNVVQY3BldlFoQzRWXzdiUnNCTElMZXdxdTZGQXpRYlVrajdWVDQ0c2I1N2pSRzBEVXpTNXVDX2lQU3kwUkJTYTZuWnluRFg?oc=5
+- US Fed officials keep rate hike in play as inflation clouds Kevin Warsh's first Jackson Hole address
+  Federal Reserve officials expressed concerns about stubbornly high inflation at Jackson Hole. Persistent price pressures could threaten the central bank's credibility and credibility.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-officials-keep-rate-hike-in-play-as-inflation-clouds-kvin-warshs-first-jackson-hole-address/articleshow/133575461.cms
 
-- India equity outlook cut again as foreign funds seek value elsewhere in Asia - The Economic Times
-  India equity outlook cut again as foreign funds seek value elsewhere in Asia
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTThLVlN4eW5MQWtmNV9TZ1d6b3FvaURldDBSY2pmU1B1RTFUMDlzOFdfZ1FOMUIycXhRTFByMjVCSk1WT1BIZ01kMU43dnlWT1pVWUpTMHNhS1pEazZwZmZQQVQyWmMxTXFubzFmb3ZoMjBEbFZ6MnN6enhyOVJDNFlMN3F1bVlCUGpwbGhlcjdYbG5BLTdyV1dZSkFoNzBsNkRnS2t5dFBuQmhOTEUxS2lhUlFwLW1ZX3RVeDB2VU5CX3o4RjBPSXNnQ3VENHdQeWdva3hydnkyR1VLNWNsazRtbknSAeoBQVVfeXFMTWpVMTdXNndCVDNJWGZRanphbTBhcXdoTWtNcU1uRFdRaXNtOXFtN2JONmlRSjBjaUNGMGhINVpWYUQ3VDBKY2pQTTN3WlpuQjJ4S1ZUYXB3dVZVVmdQSEhobDVEamwyVXBOdXNENFhBU0xQRXk4blFOZ1M1REdMQzRNdjJTU3JDSXlmTEdhWE5ZMDN1STU2TC1kVXFIVzVyVVRkVTVtcm5XdG9xcWVWQ3pJQUJ1UGpKaU5xUG1oUVJUY200M1ZVTEtPSWx2dDFoWi1GZkx5TG54amdhYkU1U2k1VzYyYmRCTEVR?oc=5
+- Priority Jewels IPO: Co raises Rs 27 crore from Whiteoak Capital and others in anchor round
+  The company's initial public offering will open for subscription on August 28, 2026. Priority Jewels secured Rs 27.45 crore from anchor investors before its upcoming public offering.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/priority-jewels-ipo-co-raises-rs-27-crore-from-whiteoak-capital-and-others-in-anchor-round/articleshow/133573525.cms
 
-- At 18k, India sees most mobile threat detections in 8 Apac markets: Report - The Times of India
-  At 18k, India sees most mobile threat detections in 8 Ap
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYzFzSzV5V1ptSDdxMHR3S0EyZy01U29hb1BwQ2t0ZTBXOGNqRmJpWTZrRk9oVklneHF6V1hibGlSRjZjNlZxVEtjOVk1Q19DQTZ4VktaNS1HSWhWVnpmYVdRd09mTjlpb0FDb2x2SzliZDNfaHdVcGp0amFCSXlEU2JpWWl4Nlk2clZFY3lRWXZpelNSa0lxQlE4QjlNWUNZVTFfeHRTY1hvWU9mSUs1bjc0c2J0bUJITlF4V3lvQXNuTUcwS1d6NTRYSGxmT3VWb0VYSVpDMUpGU2JyaWpEMF81TzVEYjdWdDN4UFZ0ONIB9AFBVV95cUxOT21mQ2xlM09hYkFpTDJoS3pBX3F3SjJiSWkyeG5XMHdFYm1GbHY1NHF2OW12VUhVQVpIVnlEd2JfZ1Y0Y2lGazNwaTVnVjRRVEd6SXoySjctY3JzWDdBc29jS1MyLTM0VDFHZFllbHlKajZlMUc3NHVrenN5X0RGT3pGM1BudnNrTG1nMnFoN2tNekQzTldRcXlDaGtuS3A4dU96WG5FaFRIbzg2RDZYSVpVMGVFNjZ5a040azZaelY4X0FQckl1Q1B5eXoxMlhnNEFkQXFkRXpOb2FwQWh0M2E5dG5PeGl5SlJMV2JlcDBGbUU5?oc=5
+- Nvidia shares extend gains, jump 7% as blockbuster earnings revive AI trade ,
+  The chipmaker reported $96.2 billion in second-quarter revenue. Its 70% fiscal 2028 growth outlook further strengthened investor confidence in the AI trade.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-shares-extend-gains-jump-7-as-blockbuster-earnings-revive-ai-trade-/articleshow/133573339.cms
 
-- India bonds decline as debt supply caution overpowers oil moves
-  Indian government bonds fell on Thursday, opening flat before succumbing to pressures from heavy debt supply. Policy meeting minutes hinted at possible interest rate hikes should inflation risks emerge.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-as-debt-supply-caution-overpowers-oil-moves/articleshow/133559008.cms
+- IPO-Bound ESDS Software Bags ₹216 Cr From Anchor Investors
+  Cloud and data centre company ESDS Software Solution has raised ₹216 Cr from anchor investors ahead of the opening of IPO.
+  🔗 https://inc42.com/buzz/ipo-bound-esds-software-bags-%e2%82%b9216-cr-from-anchor-investors/
 
-- Motilal Oswal initiates coverage on Adani Enterprises with Buy, sees 25% upside. Here’s why
-  Motilal Oswal has initiated coverage on Adani Enterprises. The brokerage expects EBITDA to more than double by FY29. It also sees faster earnings growth and easing leverage as key drivers for the stock.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-initiates-coverage-on-adani-enterprises-with-buy-sees-25-upside-heres-why/articleshow/133558689.cms
+- Alpha Wave Ventures Exits Aye Finance Via ₹323 Cr Bulk Deals
+  Alpha Wave has offloaded nearly 1.92 Cr shares or 7.78% stake in MSME-focused NBFC Aye Finance.
+  🔗 https://inc42.com/buzz/alpha-wave-ventures-exits-aye-finance-via-%e2%82%b9323-cr-bulk-deals/
 
-- Hitachi Energy India, GE Vernova, other power capex stocks rise up to 5%. Two reasons behind the surge
-  Power capex stocks such as Hitachi Energy India, GE Vernova, TD Power and CG Power witnessed an uptick on Thursday. Expectations of sustained AI infrastructure spending boosted sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-india-ge-vernova-other-power-capex-stocks-rise-up-to-5-two-reasons-behind-the-surge/articleshow/133557872.cms
+- Ashish Kacholia-Backed Sanlayan Turns Profitable In FY26, Revenue Surges 5.7X To ₹125 Cr
+  Defence tech startup Sanlayan Technologies turned profitable in the financial year 2025-26 (FY26) as acquisitions helped it scale its portfolio.
+  🔗 https://inc42.com/buzz/ashish-kacholia-backed-sanlayan-turns-profitable-in-fy26-revenue-surges-5-7x-to-%e2%82%b9125-cr/
 
-- Global Market: China stocks rise as Nvidia outlook boosts AI and hardware shares
-  China's mainland stocks rose on Thursday, led by AI, semiconductor and hardware companies. Nvidia delivered an upbeat revenue outlook, reinforcing expectations of strong AI infrastructure demand. Hong Kong shares traded lower.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-rise-as-nvidia-outlook-boosts-ai-and-hardware-shares/articleshow/133557765.cms
+- Caught In The GPU Pricing Paradox, Can ESDS Deliver A Bumper IPO?
+  Two decades on, enterprise cloud and AI ecosystem provider ESDS Software Solution is setting sail for its next big quest.
+  🔗 https://inc42.com/features/caught-in-the-gpu-pricing-paradox-can-esds-deliver-a-bumper-ipo/
 
-- Lupin share falls 2%; Citi downgrades to Sell, cuts target price to Rs 2,050
-  Lupin shares fell after Citi downgraded the stock to ‘Sell’ and cut its target price to Rs 2,050. The brokerage expects weaker US base-business sales, margin pressure and limited benefits from
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lupin-share-falls-2-citi-downgrades-to-sell-cuts-target-price-to-rs-2050/articleshow/133557651.cms
-
-- Why India is sharing missile secrets with its private sector - Al Jazeera
-  Why India is sharing missile secrets with its private
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalhZal9PaWdPNDNYOWNQNW44aFNETXhmeXl2N0tUdzJma19DMmxoT2NnSnpNU01lektkQjBHVTdNT0JILWlsXzhhNE8xX0RhMm5fOVVfeGdYVmw4MVFWSW9nU2ZFLUJrOGRjcDJ3UXFSNk45bEg3dEJya042YzFqdDg3a0RPcDV2OFFCRUtmaXRZYzhFS080MkxRWUE1UXRmOHNn0gGoAUFVX3lxTE9jdS13eXV1WFhJbklfeURIbGN6cnhoVS1kb3JYNzkxUmxCVzk3emNZQzJ5OGZKTXlXUkc3MGhvV2E5WVdTa2RxOWp6NnBJaVh5dUhKQzRnczh2MWFLNXU2OTRiRENidmNBSjBuMGJETkIzOG1qSGx2SG5BZWRKR2hVZ2dNSGt5N2hmZVUtNnJPUlJOQmQ2SW9VcXBSMllqWGlxZTlneTMyeA?oc=5
-
-- India Wanted Red Flags On Sugary Drinks, Chips. Food Giants Pushed Back - NDTV
-  India Wanted Red Flags On Sugary Drinks,
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTlFVTzRoRWZETnNDdU8zWjdUWERWUUNrMVhMTjR4N21wNEwzRGxVcEVSN3JvNkNUazQyYjU0YWN3Qmlfa0pEN0RFQ1VtREx2dzI5RFRRdzVEZjlBcWtlcE1kczVxaHpvR2N4Mk5zQUxzSUFmQUdsSnlJM052S1ZEN1hKSDdNTU83U0NiS3Q1OWRJWGdiMDV4ekdEY3prc09wLXFnLVZ4azFBRDBtbmZBVkNaamNuaVAzOEluZ2VnMF9MT3RyN1BGblRtQjRpUExDcmxIaFlJS3NVQ1VDMU1rMlNOak1xYnFWWkYzdkVwb1DSAfgBQVVfeXFMUGZrSVRXbHdwc28zYXhCWEJzQ2VWR2hJTmNmWXJqVGZHalJfVG0xZU5scGxMSEdDTmVGS2s1TnZrdV9vVEFVQ00waXd6Wmw2NTRveFRSQkY4QUQxTG5YTEhtWTVHdU1Nd01yQ3FWSkEtb1VxelZlLWRiazgxV1pNdV9OZUMtWE45OGpZakk5Y0FmVVE1MzVLUUJzS1ZLUHVKRndGWENDZDVzb05Sc0pUYmRiXzJqd3VwdnZyVXk1Q0xkYjhncTROX0VscEhiYUFmNXlZOENaRFZJcTFVb1lxaV85YkxtYUJBazAwQnR6OEVZRUR5MEh2WHA?oc=5
-
-- "What Melts In Himalayas...": Nepal Minister Flags 'Common Threat' To India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2R0NGMxNnBBWFJMQzBkSmtLX21sS01ZM0dqYkZTcHZYY0JpcWlNMnZxNUMyRmNBeVJVRWs3OFJUTDA4Y0UzSzdtNG9TMHpmczIwRWsxaDdfQ3NWS3hXZlVHV0xMdUFFd0RvZk5mSTJsTjRjdWN3MEw2UlZMY3phNllRd9IB6wFBVV95cUxQRmcyczUxR3VXNmpfdGVhX0ZkZ2gtTFotNXhTUWZvR2hZOVVKeTNRQmNXVG5NWXhqRTdvTjJfN0g0ejlPTDBRTmxzWl9keW1TektqREdobDVhY0l4WkxMal95SEJJc19lbHBaZ2h0aDAzMG01X0tSMEpkdmFJXzRrLWY0VUJtWlJsVGprOFNvbmszdm1sSHA5WmhEXzQ5QWwxS1NGM0otTW9nZHJkUGEtX0JBVURhN0dDeUIyMUFRVnNYM3BYS1lVazhyRG1CZk9tYVlySzZPM3Fkb1FKODV5alRTT1hXYnNzcVRV?oc=5
-
-- India U19 squad for Australia U19 Men’s Tour of India announced - BCCI
-  India U19 squad for Australia U19 Men
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlhEekVkRlFaYUFHWFM5YTlQZ0dMTTdidHR6UU9KNDRkMnNNZ0pmSExQT05GckJMaGsza284a0tSdEV1M1V6TzRKT1lBTUpIeWpIWDJzLW11SW1nMXVvZEJsZXNnUXBOSU5JeUNocEUwUTAzM0lCUW9mOUZNNEZUakR4QzZ0ZnNHUlBrTGloZGlXUnFrSGxOUHFmaw?oc=5
-
-- Kriti Sanon Rakhi ad: Giva jewellery drops Bollywood actor's Indian festival ad over outfit - BBC
-  Kriti Sanon Rakhi ad: Giva jew
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GVTJ5b0pZNWkwQndnNHBPRnFPdXk0cm9OU0lpNDRmN3hlTnJaeWQ5amVkT2laNEtFTWg5MjVueUhnYnhQeTU5Ni1hMEJ0dURRUVp5VUxTbFFZZw?oc=5
-
-- TILT Launches Binny Bansal-Backed ₹250 Cr Fund For Impact Startups
-  The/Nudge Foundation’s impact investment platform TILT has launched a ₹250 Cr (about $26 Mn)
-  🔗 https://inc42.com/buzz/tilt-launches-binny-bansal-backed-%e2%82%b9250-cr-fund-for-impact-startups/
-
-- InstaAstro Bags $12 Mn To Build AI Tools, Expand Online Pooja Services
-  Online astrology startup InstaAstro has raised $12 Mn in a Series A funding round led by Singularity.
-  🔗 https://inc42.com/buzz/instaastro-bags-12-mn-to-build-ai-tools-expand-online-pooja-services/
-
-- Building Pharma Labs In Space, Zerodha’s Bland FY26 & More
-  Microgravity research was largely about discovering how matter behaved beyond Earth. The Race To Make Drugs In Space.
-  🔗 https://inc42.com/buzz/building-pharma-labs-in-space-zerodhas-bland-fy26-more/
-
-- InspeCity Raises ₹100 Cr To Fund Four Space Missions
-  Spacetech startup InspeCity has raised ₹100 Cr (around $10.4 Mn) in its pre-Series A
-  🔗 https://inc42.com/buzz/inspecity-raises-%e2%82%b9100-cr-to-fund-four-space-missions/
-
-- Micromax Floats Family Office, Earmarks ₹250 Cr To Back Deeptech Startups
-  Original equipment manufacturer (OEM) Micromax Informatics has announced the launch of a family office, with a corpus of ₹250 Cr.
-  🔗 https://inc42.com/buzz/micromax-floats-family-office-earmarks-%e2%82%b9250-cr-to-back-deeptech-startups/
+- OYO Parent PRISM’s FY26 Profit Skyrockets 4X YoY To ₹994 Cr
+  IPO-bound PRISM’s net profit for the fiscal year FY26 skyrocketed close to the ₹1,000 Cr mark.
+  🔗 https://inc42.com/buzz/oyo-parent-prisms-fy26-profit-skyrockets-4x-yoy-to-%e2%82%b9994-cr/
 
 - Why India is sharing missile secrets with its private sector - Al Jazeera
   Why India is sharing missile secrets with its private
   🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalhZal9PaWdPNDNYOWNQNW44aFNETXhmeXl2N0tUdzJma19DMmxoT2NnSnpNU01lektkQjBHVTdNT0JILWlsXzhhNE8xX0RhMm5fOVVfeGdYVmw4MVFWSW9nU2ZFLUJrOGRjcDJ3UXFSNk45bEg3dEJya042YzFqdDg3a0RPcDV2OFFCRUtmaXRZYzhFS080MkxRWUE1UXRmOHNn0gGoAUFVX3lxTE9jdS13eXV1WFhJbklfeURIbGN6cnhoVS1kb3JYNzkxUmxCVzk3emNZQzJ5OGZKTXlXUkc3MGhvV2E5WVdTa2RxOWp6NnBJaVh5dUhKQzRnczh2MWFLNXU2OTRiRENidmNBSjBuMGJETkIzOG1qSGx2SG5BZWRKR2hVZ2dNSGt5N2hmZVUtNnJPUlJOQmQ2SW9VcXBSMllqWGlxZTlneTMyeA?oc=5
 
-- India Wanted Red Flags On Sugary Drinks, Chips. Food Giants Pushed Back - NDTV
-  India Wanted Red Flags On Sugary Drinks,
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTlFVTzRoRWZETnNDdU8zWjdUWERWUUNrMVhMTjR4N21wNEwzRGxVcEVSN3JvNkNUazQyYjU0YWN3Qmlfa0pEN0RFQ1VtREx2dzI5RFRRdzVEZjlBcWtlcE1kczVxaHpvR2N4Mk5zQUxzSUFmQUdsSnlJM052S1ZEN1hKSDdNTU83U0NiS3Q1OWRJWGdiMDV4ekdEY3prc09wLXFnLVZ4azFBRDBtbmZBVkNaamNuaVAzOEluZ2VnMF9MT3RyN1BGblRtQjRpUExDcmxIaFlJS3NVQ1VDMU1rMlNOak1xYnFWWkYzdkVwb1DSAfgBQVVfeXFMUGZrSVRXbHdwc28zYXhCWEJzQ2VWR2hJTmNmWXJqVGZHalJfVG0xZU5scGxMSEdDTmVGS2s1TnZrdV9vVEFVQ00waXd6Wmw2NTRveFRSQkY4QUQxTG5YTEhtWTVHdU1Nd01yQ3FWSkEtb1VxelZlLWRiazgxV1pNdV9OZUMtWE45OGpZakk5Y0FmVVE1MzVLUUJzS1ZLUHVKRndGWENDZDVzb05Sc0pUYmRiXzJqd3VwdnZyVXk1Q0xkYjhncTROX0VscEhiYUFmNXlZOENaRFZJcTFVb1lxaV85YkxtYUJBazAwQnR6OEVZRUR5MEh2WHA?oc=5
+- Weather Saved Pak's Skardu Base During Op Sindoor, But Bholari Took the IAF's Direct Hit - NDTV
+  Weather Saved Pak's Skardu Base During Op Sindoor
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYV9Rejc0REFRTTlmUnd0T1NuS0NrZ21zUHpSaDMtY1g1SXl1bFU0aF9FQW5jNDdHNExHVXJ6d0VGZklxb0N0TTIwY1FxSThtd2FTRExOYTg3eWJMUFFsQ0lEUTFLQ1lFV3FMVFRtUU8zWEJTbXVpX1RSYnctZGZQWmN1RGFIQy1QMGVQLXBHSkFqWTBoeVdYQVUzQ2g5aDExMTREcGtSZTFvV3UtTE5PSFNadHRIQVQtMWZoRkdGVE5ZbFVUcmtpTDFmSW96X0pRQ0xVNjAzYlJlU2I2bFN4a1ZR0gHqAUFVX3lxTE1hRl90djFaY3ptMXA5VUg0bmVYRmszOFZnZTEzVm5uYmxYSnEwMERDRlFKUDcwOHhVYWdxTl9nMVhLZFMtTi1icHhaV3J4NXFkdW0xTzhPbWVJNzZILVBTUnRPUGJzRUFpVWdXbVlwQUo3bGRJNnVOaUxOY3ppcW8xdkp1RzhYcnRXQUxybGJKY0QtYndpTUhRQ042S1A4RGdyVW5fNk9fZ2xwclJsTHZKeUYwbWxOblVlaUgtSjRGQVhCSmVzeTFNYXRlTnRNWFdNekl2NEo1eDYtZzJZSkx4YXBkNDliQlZSdw?oc=5
 
-- "What Melts In Himalayas...": Nepal Minister Flags 'Common Threat' To India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2R0NGMxNnBBWFJMQzBkSmtLX21sS01ZM0dqYkZTcHZYY0JpcWlNMnZxNUMyRmNBeVJVRWs3OFJUTDA4Y0UzSzdtNG9TMHpmczIwRWsxaDdfQ3NWS3hXZlVHV0xMdUFFd0RvZk5mSTJsTjRjdWN3MEw2UlZMY3phNllRd9IB6wFBVV95cUxQRmcyczUxR3VXNmpfdGVhX0ZkZ2gtTFotNXhTUWZvR2hZOVVKeTNRQmNXVG5NWXhqRTdvTjJfN0g0ejlPTDBRTmxzWl9keW1TektqREdobDVhY0l4WkxMal95SEJJc19lbHBaZ2h0aDAzMG01X0tSMEpkdmFJXzRrLWY0VUJtWlJsVGprOFNvbmszdm1sSHA5WmhEXzQ5QWwxS1NGM0otTW9nZHJkUGEtX0JBVURhN0dDeUIyMUFRVnNYM3BYS1lVazhyRG1CZk9tYVlySzZPM3Fkb1FKODV5alRTT1hXYnNzcVRV?oc=5
+- Supreme Court issues directions to expedite dowry trials - The Times of India
+  The Times of India reported that the Supreme Court
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSnlRZjhnSXdSMGRoMVA3TjBnNEcySHlla1lCVjdxVGFJX3ROV3hPUW5hcGZvdVlmUDlaVG5pVTNrWUI2dGhreldWZ09xNk1hUWZRMnlDWUkzSHJ1NDJyNkRWbVA0QjBoWXJTTVNwZ3NWMkk5dE4zcGpDRTczdlFSWF9lYnZYM09OVjhzdkQxaDJaUVJfSG82djNBVGRBRm9TQzFmemg0N1JqTmpxTzhfWDZQLUoyczMwNkgtRVlPbkVwd9IBxwFBVV95cUxPSVI3aHBiaEVzVlEzNEVHN1hkSFZpWFFEZW5MSkl2WkNubWNrVXNlM3pZTUZQb0dRMGNlY3RNNTJSNVZzekw1V3J6ZTdaOXNUVmg4aElJZFRPaXRCRHNwTE9NSUlIdTU2MXVfNzZ4Z0pOcFd6LXp5UEdZQWdDU1cta3V4dm9XMFlhbk9EYVVvNjJlUVpVVFY3U0s5UHpoakdzMDZ3bjZySzZrajB6eW1ZbFY5WFM0bDZoVWEzMkdBdmltTXNHZmdV?oc=5
 
-- India U19 squad for Australia U19 Men’s Tour of India announced - BCCI
-  India U19 squad for Australia U19 Men
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlhEekVkRlFaYUFHWFM5YTlQZ0dMTTdidHR6UU9KNDRkMnNNZ0pmSExQT05GckJMaGsza284a0tSdEV1M1V6TzRKT1lBTUpIeWpIWDJzLW11SW1nMXVvZEJsZXNnUXBOSU5JeUNocEUwUTAzM0lCUW9mOUZNNEZUakR4QzZ0ZnNHUlBrTGloZGlXUnFrSGxOUHFmaw?oc=5
+- Mahatma Gandhi's Ideas To Be Relevant Even After 100 Years: Amit Shah - NDTV
+  Mahatma Gandhi's Ideas To Be Relevant
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1Y3d0t2Qk5JaktabTNSZ1NVNmpPVUNKV1hiZ3RXNjJMOF96YkRVdTlkTHJldnhPT1doZEdzRExwWDJjbWF1UDBLRlJiUnVKdGlZdjdtNVVRejRNNFJEWkI1TXpsX2cxNi1jWklUSjk1NzFaX0RIMFY3eGdpNTl0QnZEcUVGeTJhRGF2TlB0aDdfLVh4STdFQ1lDb2pydW1zcHV3MGlBdURBTjF00gG0AUFVX3lxTE1halY2ZlFTQlpmQ1NCaEQtMHZta2M1TWNIWm0zQ01XWG5jT2tNN25UVjlqNkpUWTZtQk9BbEJkX1YyWVY2em5DeFFvbExzenZHTjBWLTlTT25mNzNiVVlic3o2dzI2d1otQWd4R1JTM0NEOUhUMUc5NWFKaC1fdjRJQTVBNHhmN2ttbnNFLVVldFNqbXFaRlZtTXRxUVVneWVZUHFtdGpOUWFYd2d2RHMtQWl1Sw?oc=5
 
-- Kriti Sanon Rakhi ad: Giva jewellery drops Bollywood actor's Indian festival ad over outfit - BBC
-  Kriti Sanon Rakhi ad: Giva jew
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GVTJ5b0pZNWkwQndnNHBPRnFPdXk0cm9OU0lpNDRmN3hlTnJaeWQ5amVkT2laNEtFTWg5MjVueUhnYnhQeTU5Ni1hMEJ0dURRUVp5VUxTbFFZZw?oc=5
-
-- Why India is sharing missile secrets with its private sector - Al Jazeera
-  Why India is sharing missile secrets with its private
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalhZal9PaWdPNDNYOWNQNW44aFNETXhmeXl2N0tUdzJma19DMmxoT2NnSnpNU01lektkQjBHVTdNT0JILWlsXzhhNE8xX0RhMm5fOVVfeGdYVmw4MVFWSW9nU2ZFLUJrOGRjcDJ3UXFSNk45bEg3dEJya042YzFqdDg3a0RPcDV2OFFCRUtmaXRZYzhFS080MkxRWUE1UXRmOHNn0gGoAUFVX3lxTE9jdS13eXV1WFhJbklfeURIbGN6cnhoVS1kb3JYNzkxUmxCVzk3emNZQzJ5OGZKTXlXUkc3MGhvV2E5WVdTa2RxOWp6NnBJaVh5dUhKQzRnczh2MWFLNXU2OTRiRENidmNBSjBuMGJETkIzOG1qSGx2SG5BZWRKR2hVZ2dNSGt5N2hmZVUtNnJPUlJOQmQ2SW9VcXBSMllqWGlxZTlneTMyeA?oc=5
-
-- India Wanted Red Flags On Sugary Drinks, Chips. Food Giants Pushed Back - NDTV
-  India Wanted Red Flags On Sugary Drinks,
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTlFVTzRoRWZETnNDdU8zWjdUWERWUUNrMVhMTjR4N21wNEwzRGxVcEVSN3JvNkNUazQyYjU0YWN3Qmlfa0pEN0RFQ1VtREx2dzI5RFRRdzVEZjlBcWtlcE1kczVxaHpvR2N4Mk5zQUxzSUFmQUdsSnlJM052S1ZEN1hKSDdNTU83U0NiS3Q1OWRJWGdiMDV4ekdEY3prc09wLXFnLVZ4azFBRDBtbmZBVkNaamNuaVAzOEluZ2VnMF9MT3RyN1BGblRtQjRpUExDcmxIaFlJS3NVQ1VDMU1rMlNOak1xYnFWWkYzdkVwb1DSAfgBQVVfeXFMUGZrSVRXbHdwc28zYXhCWEJzQ2VWR2hJTmNmWXJqVGZHalJfVG0xZU5scGxMSEdDTmVGS2s1TnZrdV9vVEFVQ00waXd6Wmw2NTRveFRSQkY4QUQxTG5YTEhtWTVHdU1Nd01yQ3FWSkEtb1VxelZlLWRiazgxV1pNdV9OZUMtWE45OGpZakk5Y0FmVVE1MzVLUUJzS1ZLUHVKRndGWENDZDVzb05Sc0pUYmRiXzJqd3VwdnZyVXk1Q0xkYjhncTROX0VscEhiYUFmNXlZOENaRFZJcTFVb1lxaV85YkxtYUJBazAwQnR6OEVZRUR5MEh2WHA?oc=5
-
-- "What Melts In Himalayas...": Nepal Minister Flags 'Common Threat' To India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2R0NGMxNnBBWFJMQzBkSmtLX21sS01ZM0dqYkZTcHZYY0JpcWlNMnZxNUMyRmNBeVJVRWs3OFJUTDA4Y0UzSzdtNG9TMHpmczIwRWsxaDdfQ3NWS3hXZlVHV0xMdUFFd0RvZk5mSTJsTjRjdWN3MEw2UlZMY3phNllRd9IB6wFBVV95cUxQRmcyczUxR3VXNmpfdGVhX0ZkZ2gtTFotNXhTUWZvR2hZOVVKeTNRQmNXVG5NWXhqRTdvTjJfN0g0ejlPTDBRTmxzWl9keW1TektqREdobDVhY0l4WkxMal95SEJJc19lbHBaZ2h0aDAzMG01X0tSMEpkdmFJXzRrLWY0VUJtWlJsVGprOFNvbmszdm1sSHA5WmhEXzQ5QWwxS1NGM0otTW9nZHJkUGEtX0JBVURhN0dDeUIyMUFRVnNYM3BYS1lVazhyRG1CZk9tYVlySzZPM3Fkb1FKODV5alRTT1hXYnNzcVRV?oc=5
-
-- India U19 squad for Australia U19 Men’s Tour of India announced - BCCI
-  India U19 squad for Australia U19 Men
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlhEekVkRlFaYUFHWFM5YTlQZ0dMTTdidHR6UU9KNDRkMnNNZ0pmSExQT05GckJMaGsza284a0tSdEV1M1V6TzRKT1lBTUpIeWpIWDJzLW11SW1nMXVvZEJsZXNnUXBOSU5JeUNocEUwUTAzM0lCUW9mOUZNNEZUakR4QzZ0ZnNHUlBrTGloZGlXUnFrSGxOUHFmaw?oc=5
-
-- Kriti Sanon Rakhi ad: Giva jewellery drops Bollywood actor's Indian festival ad over outfit - BBC
-  Kriti Sanon Rakhi ad: Giva jew
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GVTJ5b0pZNWkwQndnNHBPRnFPdXk0cm9OU0lpNDRmN3hlTnJaeWQ5amVkT2laNEtFTWg5MjVueUhnYnhQeTU5Ni1hMEJ0dURRUVp5VUxTbFFZZw?oc=5
+- "No Boasting": Shashi Tharoor's Advice To Media As India Sends Help To Nepal - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2dVNkZkZEdvaXVWMjNzc3EwejZiTERFOVFzMmI0Ui05WlRPSFFJSTB2emdkSkJKOFl0dzZGMHI4aWZ6TU5ZWHNidFVXYWc2eVhhNmtrdkpyMUtXTC1Nc185ay1yaVpJT1d2c9IB0wFBVV95cUxQbkpyVVRibEtYWE1lWDQ5cWNJVUJyNlhLdE9BcHVGNjRJR1N5aElFa1VYNTYzN2U2STY1Rm9KaGZ0YWh2dExhbWN6ZHgtVUFlWnFYV0t1el9nMnNMTjgzZkt0SjFFVTRFWHlJRV9VY1RnNmhWallFa000cU9xUmp4X1pNNHhRYl9Ic1p3dG02aDhzV3JiMUhlRHVfdS00YzUzVGJtMHpqeFEwTmRMdk53a1MtLWtNQ3VFcGZmYmpzd2RYRU9acHBBLUJjNjNXU0czc2pZ?oc=5
 
 - Why India is sharing missile secrets with its private sector - Al Jazeera
   Why India is sharing missile secrets with its private
   🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalhZal9PaWdPNDNYOWNQNW44aFNETXhmeXl2N0tUdzJma19DMmxoT2NnSnpNU01lektkQjBHVTdNT0JILWlsXzhhNE8xX0RhMm5fOVVfeGdYVmw4MVFWSW9nU2ZFLUJrOGRjcDJ3UXFSNk45bEg3dEJya042YzFqdDg3a0RPcDV2OFFCRUtmaXRZYzhFS080MkxRWUE1UXRmOHNn0gGoAUFVX3lxTE9jdS13eXV1WFhJbklfeURIbGN6cnhoVS1kb3JYNzkxUmxCVzk3emNZQzJ5OGZKTXlXUkc3MGhvV2E5WVdTa2RxOWp6NnBJaVh5dUhKQzRnczh2MWFLNXU2OTRiRENidmNBSjBuMGJETkIzOG1qSGx2SG5BZWRKR2hVZ2dNSGt5N2hmZVUtNnJPUlJOQmQ2SW9VcXBSMllqWGlxZTlneTMyeA?oc=5
 
-- India Wanted Red Flags On Sugary Drinks, Chips. Food Giants Pushed Back - NDTV
-  India Wanted Red Flags On Sugary Drinks,
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTlFVTzRoRWZETnNDdU8zWjdUWERWUUNrMVhMTjR4N21wNEwzRGxVcEVSN3JvNkNUazQyYjU0YWN3Qmlfa0pEN0RFQ1VtREx2dzI5RFRRdzVEZjlBcWtlcE1kczVxaHpvR2N4Mk5zQUxzSUFmQUdsSnlJM052S1ZEN1hKSDdNTU83U0NiS3Q1OWRJWGdiMDV4ekdEY3prc09wLXFnLVZ4azFBRDBtbmZBVkNaamNuaVAzOEluZ2VnMF9MT3RyN1BGblRtQjRpUExDcmxIaFlJS3NVQ1VDMU1rMlNOak1xYnFWWkYzdkVwb1DSAfgBQVVfeXFMUGZrSVRXbHdwc28zYXhCWEJzQ2VWR2hJTmNmWXJqVGZHalJfVG0xZU5scGxMSEdDTmVGS2s1TnZrdV9vVEFVQ00waXd6Wmw2NTRveFRSQkY4QUQxTG5YTEhtWTVHdU1Nd01yQ3FWSkEtb1VxelZlLWRiazgxV1pNdV9OZUMtWE45OGpZakk5Y0FmVVE1MzVLUUJzS1ZLUHVKRndGWENDZDVzb05Sc0pUYmRiXzJqd3VwdnZyVXk1Q0xkYjhncTROX0VscEhiYUFmNXlZOENaRFZJcTFVb1lxaV85YkxtYUJBazAwQnR6OEVZRUR5MEh2WHA?oc=5
+- Weather Saved Pak's Skardu Base During Op Sindoor, But Bholari Took the IAF's Direct Hit - NDTV
+  Weather Saved Pak's Skardu Base During Op Sindoor
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYV9Rejc0REFRTTlmUnd0T1NuS0NrZ21zUHpSaDMtY1g1SXl1bFU0aF9FQW5jNDdHNExHVXJ6d0VGZklxb0N0TTIwY1FxSThtd2FTRExOYTg3eWJMUFFsQ0lEUTFLQ1lFV3FMVFRtUU8zWEJTbXVpX1RSYnctZGZQWmN1RGFIQy1QMGVQLXBHSkFqWTBoeVdYQVUzQ2g5aDExMTREcGtSZTFvV3UtTE5PSFNadHRIQVQtMWZoRkdGVE5ZbFVUcmtpTDFmSW96X0pRQ0xVNjAzYlJlU2I2bFN4a1ZR0gHqAUFVX3lxTE1hRl90djFaY3ptMXA5VUg0bmVYRmszOFZnZTEzVm5uYmxYSnEwMERDRlFKUDcwOHhVYWdxTl9nMVhLZFMtTi1icHhaV3J4NXFkdW0xTzhPbWVJNzZILVBTUnRPUGJzRUFpVWdXbVlwQUo3bGRJNnVOaUxOY3ppcW8xdkp1RzhYcnRXQUxybGJKY0QtYndpTUhRQ042S1A4RGdyVW5fNk9fZ2xwclJsTHZKeUYwbWxOblVlaUgtSjRGQVhCSmVzeTFNYXRlTnRNWFdNekl2NEo1eDYtZzJZSkx4YXBkNDliQlZSdw?oc=5
 
-- "What Melts In Himalayas...": Nepal Minister Flags 'Common Threat' To India - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSE8zT2JXSHpyclZxN2xpRk5zbFVyM3FIR2pUU3laSy13VThOU0lHUVJVVjhYUlRmdUFzRldCdUdYZWRjUWdac084RTNyMVZ3aGp6NUZZd2JIYW5XMTZCX0JHUWthT1Yxb2R0NGMxNnBBWFJMQzBkSmtLX21sS01ZM0dqYkZTcHZYY0JpcWlNMnZxNUMyRmNBeVJVRWs3OFJUTDA4Y0UzSzdtNG9TMHpmczIwRWsxaDdfQ3NWS3hXZlVHV0xMdUFFd0RvZk5mSTJsTjRjdWN3MEw2UlZMY3phNllRd9IB6wFBVV95cUxQRmcyczUxR3VXNmpfdGVhX0ZkZ2gtTFotNXhTUWZvR2hZOVVKeTNRQmNXVG5NWXhqRTdvTjJfN0g0ejlPTDBRTmxzWl9keW1TektqREdobDVhY0l4WkxMal95SEJJc19lbHBaZ2h0aDAzMG01X0tSMEpkdmFJXzRrLWY0VUJtWlJsVGprOFNvbmszdm1sSHA5WmhEXzQ5QWwxS1NGM0otTW9nZHJkUGEtX0JBVURhN0dDeUIyMUFRVnNYM3BYS1lVazhyRG1CZk9tYVlySzZPM3Fkb1FKODV5alRTT1hXYnNzcVRV?oc=5
+- Supreme Court issues directions to expedite dowry trials - The Times of India
+  The Times of India reported that the Supreme Court
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSnlRZjhnSXdSMGRoMVA3TjBnNEcySHlla1lCVjdxVGFJX3ROV3hPUW5hcGZvdVlmUDlaVG5pVTNrWUI2dGhreldWZ09xNk1hUWZRMnlDWUkzSHJ1NDJyNkRWbVA0QjBoWXJTTVNwZ3NWMkk5dE4zcGpDRTczdlFSWF9lYnZYM09OVjhzdkQxaDJaUVJfSG82djNBVGRBRm9TQzFmemg0N1JqTmpxTzhfWDZQLUoyczMwNkgtRVlPbkVwd9IBxwFBVV95cUxPSVI3aHBiaEVzVlEzNEVHN1hkSFZpWFFEZW5MSkl2WkNubWNrVXNlM3pZTUZQb0dRMGNlY3RNNTJSNVZzekw1V3J6ZTdaOXNUVmg4aElJZFRPaXRCRHNwTE9NSUlIdTU2MXVfNzZ4Z0pOcFd6LXp5UEdZQWdDU1cta3V4dm9XMFlhbk9EYVVvNjJlUVpVVFY3U0s5UHpoakdzMDZ3bjZySzZrajB6eW1ZbFY5WFM0bDZoVWEzMkdBdmltTXNHZmdV?oc=5
 
-- India U19 squad for Australia U19 Men’s Tour of India announced - BCCI
-  India U19 squad for Australia U19 Men
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlhEekVkRlFaYUFHWFM5YTlQZ0dMTTdidHR6UU9KNDRkMnNNZ0pmSExQT05GckJMaGsza284a0tSdEV1M1V6TzRKT1lBTUpIeWpIWDJzLW11SW1nMXVvZEJsZXNnUXBOSU5JeUNocEUwUTAzM0lCUW9mOUZNNEZUakR4QzZ0ZnNHUlBrTGloZGlXUnFrSGxOUHFmaw?oc=5
+- Mahatma Gandhi's Ideas To Be Relevant Even After 100 Years: Amit Shah - NDTV
+  Mahatma Gandhi's Ideas To Be Relevant
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1Y3d0t2Qk5JaktabTNSZ1NVNmpPVUNKV1hiZ3RXNjJMOF96YkRVdTlkTHJldnhPT1doZEdzRExwWDJjbWF1UDBLRlJiUnVKdGlZdjdtNVVRejRNNFJEWkI1TXpsX2cxNi1jWklUSjk1NzFaX0RIMFY3eGdpNTl0QnZEcUVGeTJhRGF2TlB0aDdfLVh4STdFQ1lDb2pydW1zcHV3MGlBdURBTjF00gG0AUFVX3lxTE1halY2ZlFTQlpmQ1NCaEQtMHZta2M1TWNIWm0zQ01XWG5jT2tNN25UVjlqNkpUWTZtQk9BbEJkX1YyWVY2em5DeFFvbExzenZHTjBWLTlTT25mNzNiVVlic3o2dzI2d1otQWd4R1JTM0NEOUhUMUc5NWFKaC1fdjRJQTVBNHhmN2ttbnNFLVVldFNqbXFaRlZtTXRxUVVneWVZUHFtdGpOUWFYd2d2RHMtQWl1Sw?oc=5
 
-- Kriti Sanon Rakhi ad: Giva jewellery drops Bollywood actor's Indian festival ad over outfit - BBC
-  Kriti Sanon Rakhi ad: Giva jew
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GVTJ5b0pZNWkwQndnNHBPRnFPdXk0cm9OU0lpNDRmN3hlTnJaeWQ5amVkT2laNEtFTWg5MjVueUhnYnhQeTU5Ni1hMEJ0dURRUVp5VUxTbFFZZw?oc=5
+- "No Boasting": Shashi Tharoor's Advice To Media As India Sends Help To Nepal - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2dVNkZkZEdvaXVWMjNzc3EwejZiTERFOVFzMmI0Ui05WlRPSFFJSTB2emdkSkJKOFl0dzZGMHI4aWZ6TU5ZWHNidFVXYWc2eVhhNmtrdkpyMUtXTC1Nc185ay1yaVpJT1d2c9IB0wFBVV95cUxQbkpyVVRibEtYWE1lWDQ5cWNJVUJyNlhLdE9BcHVGNjRJR1N5aElFa1VYNTYzN2U2STY1Rm9KaGZ0YWh2dExhbWN6ZHgtVUFlWnFYV0t1el9nMnNMTjgzZkt0SjFFVTRFWHlJRV9VY1RnNmhWallFa000cU9xUmp4X1pNNHhRYl9Ic1p3dG02aDhzV3JiMUhlRHVfdS00YzUzVGJtMHpqeFEwTmRMdk53a1MtLWtNQ3VFcGZmYmpzd2RYRU9acHBBLUJjNjNXU0czc2pZ?oc=5
 
-- Bill Gates was an AI optimist. Now he’s scared of what could go wrong. - The Washington Post
-  Bill Gates was an AI optimist. Now he’s scared
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZxQlViRG5wSXMxTXM3bXVGWUNaeXdXUFpkbDUwZVlxLXE2LWxiX3pOS2tjVkNYdkpuM1NvOFpHOHhXcWJzQWY3Y0FvRTBoN0d1NC1Bd2JqTEpiR0pwazNQOE5wSjdCUVFnb29LczJSN2ZkWEFrazNyamVkREFyM2d0VlE5Y3lONXljQTFldEQwcGlMelQzcnBKeGs2bWduTnY5QmxpNms2eUJJVzQwYVJzM2U?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- This new technology could finally force kids off social media for good - Futura, le média qui explore le monde
-  This new technology could finally force kids off social media for good.
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVdIM2szaU1kajhEckM2eTVzbFFmd0lLSy1nNjJoUS1ObzExUnlteWl4TzlfX3hkSXQ3UjQ2TVBxVWszTUJYQjZQaTB2aG5aWUJzT1RIMEFmcG91eHZLT2lCWEVyZ3pEUUgyYjFqUTdybEpfQ0U2R21CNjFCaC1VM3ItZXNvX0VCTDMzb2JuUG8zcElWdDd2VWpLZFhKRUFDZFFSTURhWE1PZHp6bHQ0c3pn?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- China-Uzbekistan Ties: Chinese technology boosts Uzbekistan's cotton production by improving irrigation, machinery, post-harvest processing - news.cgtn.com
-  China-Uzbekistan Ties: Chinese technology boosts Uzbek
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE9NSmtMNDM0S211QjFpNFhMbVFvMGdtV2VvTkIySmxHM2doZl9zbk5PbDJWV2FCcnUzUGlRTFhRMU45VVZVbDJMd3VTU2dXbzJyNU4tbjNQbXVYa0NuRVJsTWdPVlpSMUlsN1BOWVRGTl9iaWhkOFBhOQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Meta's $18bn settlement may hasten reckoning for social media on child safety - BBC
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xVGdnVmlQY09CN0JSRVdaQXNvX0dtY2pfT1Z0MVlfVnpmb0pLLWlaV0ZZNXJIcVhzTEk4TlB2WngyVGdNZ1BEM0RzbWUyOXZDWXlieGNoejl1UQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Beyond the basket: What bigbasket's technology chief reveals about the future of commerce - ET CIO
-  " target="_blank">Beyond the basket: What
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOakpROFZfUlZZTnY1ak01VkpfQTJEVjNtUHgydk1kbWRUb0RRTlFtQU94dWF3ZTMyLVJsejkyUDBneWJqajJ3cmRsb1BQYnJYZ0hZV3BpSXJnVWtiT0FWY0RCSElIRE95eHhVOFE5NksxbW04RW05M3UxbTZCc091YkoxdlNEcFRDSWIxdDlQTkl4dUo2UXp6OUYwLXdoR0wweE1fTTY3MlNxMlpfeTBlMGNXMmFjMnlhcnJyUVh4bDRPcEdxWURjWjEzSVpsYnVsQ0VYZnR3b3ZNN0RRMzV5MWNkd25pUC1IR2RjOGlB0gHzAUFVX3lxTFBYSFFSbnVINjRGaFUtaTVoOGV2Zk9YNjY0RzhBZmxNTDJaUU9jbml2b1FuOUpMWnpkOEFhel9VSUxBb1dEOHRZUEcwN3NmZnJaMXVIUXY1V0dKVmh2Sno2RXpXV2dVbEVpSDQzZlBqQUdIQ2JhejBVY0Q4aDhwbHRESjgwUTM0VVNRLTdRZW1iNWhrWVdNU0YwR0MtR0ExTXZOZ1pVV0pqVWd5NFJsYVVTOWI3UzhzY0h3MTBidmhnRnI0V1NCWHNKUEJXY2RsMDkxMXNxemt6UW1Qay1HOXNrcFFiZFJHM3JsRkJNbHREclhpQQ?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
 
-_Last updated: 2026-08-27 06:48:12 UTC_
+_Last updated: 2026-08-27 21:40:26 UTC_
