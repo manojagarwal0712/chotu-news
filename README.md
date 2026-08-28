@@ -1,144 +1,104 @@
 # 📰 Daily News Summaries
 
-- Why India is sharing missile secrets with its private sector - Al Jazeera
-  Why India is sharing missile secrets with its private
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalhZal9PaWdPNDNYOWNQNW44aFNETXhmeXl2N0tUdzJma19DMmxoT2NnSnpNU01lektkQjBHVTdNT0JILWlsXzhhNE8xX0RhMm5fOVVfeGdYVmw4MVFWSW9nU2ZFLUJrOGRjcDJ3UXFSNk45bEg3dEJya042YzFqdDg3a0RPcDV2OFFCRUtmaXRZYzhFS080MkxRWUE1UXRmOHNn0gGoAUFVX3lxTE9jdS13eXV1WFhJbklfeURIbGN6cnhoVS1kb3JYNzkxUmxCVzk3emNZQzJ5OGZKTXlXUkc3MGhvV2E5WVdTa2RxOWp6NnBJaVh5dUhKQzRnczh2MWFLNXU2OTRiRENidmNBSjBuMGJETkIzOG1qSGx2SG5BZWRKR2hVZ2dNSGt5N2hmZVUtNnJPUlJOQmQ2SW9VcXBSMllqWGlxZTlneTMyeA?oc=5
+- Fewer is better for Speciality Restaurants
+  Chief executive Avik Chatterjee is prioritizing profitable growth over rapid expansion. Restaurant operator narrows
+  🔗 https://www.livemint.com/companies/news/speciality-restaurants-avik-chatterjee-fewer-brands-profitable-growth-qsr-11787893677688.html
 
-- Weather Saved Pak's Skardu Base During Op Sindoor, But Bholari Took the IAF's Direct Hit - NDTV
-  Weather Saved Pak's Skardu Base During Op Sindoor
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYV9Rejc0REFRTTlmUnd0T1NuS0NrZ21zUHpSaDMtY1g1SXl1bFU0aF9FQW5jNDdHNExHVXJ6d0VGZklxb0N0TTIwY1FxSThtd2FTRExOYTg3eWJMUFFsQ0lEUTFLQ1lFV3FMVFRtUU8zWEJTbXVpX1RSYnctZGZQWmN1RGFIQy1QMGVQLXBHSkFqWTBoeVdYQVUzQ2g5aDExMTREcGtSZTFvV3UtTE5PSFNadHRIQVQtMWZoRkdGVE5ZbFVUcmtpTDFmSW96X0pRQ0xVNjAzYlJlU2I2bFN4a1ZR0gHqAUFVX3lxTE1hRl90djFaY3ptMXA5VUg0bmVYRmszOFZnZTEzVm5uYmxYSnEwMERDRlFKUDcwOHhVYWdxTl9nMVhLZFMtTi1icHhaV3J4NXFkdW0xTzhPbWVJNzZILVBTUnRPUGJzRUFpVWdXbVlwQUo3bGRJNnVOaUxOY3ppcW8xdkp1RzhYcnRXQUxybGJKY0QtYndpTUhRQ042S1A4RGdyVW5fNk9fZ2xwclJsTHZKeUYwbWxOblVlaUgtSjRGQVhCSmVzeTFNYXRlTnRNWFdNekl2NEo1eDYtZzJZSkx4YXBkNDliQlZSdw?oc=5
+- Noel Tata, Shapoorji Pallonji discuss share swap for Tata Sons stake sale
+  Noel Tata is exploring the possibility where SP Group receives shares of Tata companies against some or all of its 18
+  🔗 https://www.livemint.com/companies/news/noel-tata-shapoorji-pallonji-discuss-share-swap-for-tata-sons-stake-sale-11787898674813.html
 
-- Supreme Court issues directions to expedite dowry trials - The Times of India
-  The Times of India reported that the Supreme Court
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSnlRZjhnSXdSMGRoMVA3TjBnNEcySHlla1lCVjdxVGFJX3ROV3hPUW5hcGZvdVlmUDlaVG5pVTNrWUI2dGhreldWZ09xNk1hUWZRMnlDWUkzSHJ1NDJyNkRWbVA0QjBoWXJTTVNwZ3NWMkk5dE4zcGpDRTczdlFSWF9lYnZYM09OVjhzdkQxaDJaUVJfSG82djNBVGRBRm9TQzFmemg0N1JqTmpxTzhfWDZQLUoyczMwNkgtRVlPbkVwd9IBxwFBVV95cUxPSVI3aHBiaEVzVlEzNEVHN1hkSFZpWFFEZW5MSkl2WkNubWNrVXNlM3pZTUZQb0dRMGNlY3RNNTJSNVZzekw1V3J6ZTdaOXNUVmg4aElJZFRPaXRCRHNwTE9NSUlIdTU2MXVfNzZ4Z0pOcFd6LXp5UEdZQWdDU1cta3V4dm9XMFlhbk9EYVVvNjJlUVpVVFY3U0s5UHpoakdzMDZ3bjZySzZrajB6eW1ZbFY5WFM0bDZoVWEzMkdBdmltTXNHZmdV?oc=5
+- Khosla Ventures-backed AI note-taking unicorn Fireflies AI eyes acquisitions in India
+  Fireflies has also joined a list of global companies such as Cursor and Chat
+  🔗 https://www.livemint.com/companies/news/khosla-ventures-ai-note-taking-unicorn-fireflies-ai-india-acquisitions-startups-voice-ai-companies-11787889563401.html
 
-- Mahatma Gandhi's Ideas To Be Relevant Even After 100 Years: Amit Shah - NDTV
-  Mahatma Gandhi's Ideas To Be Relevant
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1Y3d0t2Qk5JaktabTNSZ1NVNmpPVUNKV1hiZ3RXNjJMOF96YkRVdTlkTHJldnhPT1doZEdzRExwWDJjbWF1UDBLRlJiUnVKdGlZdjdtNVVRejRNNFJEWkI1TXpsX2cxNi1jWklUSjk1NzFaX0RIMFY3eGdpNTl0QnZEcUVGeTJhRGF2TlB0aDdfLVh4STdFQ1lDb2pydW1zcHV3MGlBdURBTjF00gG0AUFVX3lxTE1halY2ZlFTQlpmQ1NCaEQtMHZta2M1TWNIWm0zQ01XWG5jT2tNN25UVjlqNkpUWTZtQk9BbEJkX1YyWVY2em5DeFFvbExzenZHTjBWLTlTT25mNzNiVVlic3o2dzI2d1otQWd4R1JTM0NEOUhUMUc5NWFKaC1fdjRJQTVBNHhmN2ttbnNFLVVldFNqbXFaRlZtTXRxUVVneWVZUHFtdGpOUWFYd2d2RHMtQWl1Sw?oc=5
+- Who is Peyman Kargar? TVS Motor shuffles top role — All about the automaker's new CEO and Director
+  TVS Motor Company named Peyman Kargar as CEO and
+  🔗 https://www.livemint.com/companies/people/who-is-peyman-kargar-tvs-motor-shuffles-top-role-all-about-the-automakers-new-ceo-and-director-11787894492302.html
 
-- "No Boasting": Shashi Tharoor's Advice To Media As India Sends Help To Nepal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2dVNkZkZEdvaXVWMjNzc3EwejZiTERFOVFzMmI0Ui05WlRPSFFJSTB2emdkSkJKOFl0dzZGMHI4aWZ6TU5ZWHNidFVXYWc2eVhhNmtrdkpyMUtXTC1Nc185ay1yaVpJT1d2c9IB0wFBVV95cUxQbkpyVVRibEtYWE1lWDQ5cWNJVUJyNlhLdE9BcHVGNjRJR1N5aElFa1VYNTYzN2U2STY1Rm9KaGZ0YWh2dExhbWN6ZHgtVUFlWnFYV0t1el9nMnNMTjgzZkt0SjFFVTRFWHlJRV9VY1RnNmhWallFa000cU9xUmp4X1pNNHhRYl9Ic1p3dG02aDhzV3JiMUhlRHVfdS00YzUzVGJtMHpqeFEwTmRMdk53a1MtLWtNQ3VFcGZmYmpzd2RYRU9acHBBLUJjNjNXU0czc2pZ?oc=5
+- Hyperscale data center operator Yotta set for IPO ‘very soon’, eyes valuation of $6 billion
+  Yotta Data Services is in discussions to enter capital markets soon. The company targets a $6 billion valuation and aims to raise $900 million through an IPO.
+  🔗 https://www.livemint.com/companies/news/hyperscale-data-center-operator-yotta-set-for-ipo-very-soon-11787894999345.html
 
-- Meta’s $18 billion teen safety settlement has a catch: TikTok, YouTube must follow suit
-  The settlement would impose some of Meta's toughest restrictions yet on how teenagers use
-  🔗 https://www.livemint.com/companies/news/metas-18-billion-teen-safety-settlement-has-a-catch-tiktok-youtube-must-follow-suit-11787860592569.html
+- Upper circuit as losing streak ends - Just Dial share price surges 10% | Can it rise further?
+  After a five-day losing streak, Just Dial's share price soared 10%. Analysts project a positive short-term outlook with increasing buying
+  🔗 https://www.livemint.com/market/stock-market-news/upper-circuit-as-losing-streak-ends-just-dial-share-price-surges-10-can-it-rise-further-11787901194236.html
 
-- Two Sigma’s Feuding Founders Head to Arbitration in Fresh Battle
-  Two Sigma Investments’ billionaire founders are headed to another round of arbitration. It is the latest front in what
-  🔗 https://www.livemint.com/companies/two-sigma-s-feuding-founders-head-to-arbitration-in-fresh-battle-11787856608207.html
+- Priority Jewels IPO: GMP at  ₹37 on day 1, apply or not as  ₹92 crore issue gets fully subscribed?
+  According to market observers, the grey market is signalling a listing premium of around
+  🔗 https://www.livemint.com/market/ipo/priority-jewels-ipo-gmp-at-rs-37-on-day-1-apply-or-not-as-rs-92-crore-issue-gets-fully-subscribed-11787893846871.html
 
-- TCS Q1 variable pay: Mid, senior employees get 60-70% while juniors receive full payout, says report
-  Tata Consultancy Services reportedly lowered variable compensation for mid- and senior-level employees in the April-June quarter. Only 60-70% of eligible pay
-  🔗 https://www.livemint.com/companies/news/tcs-q1-variable-pay-mid-senior-employees-get-60-70-while-juniors-receive-full-payout-says-report-11787838937159.html
+- Symbiotec Pharmalab IPO allotment to be finalised today. Here's GMP, how to check status online?
+  The shares of Symbiotec Pharmalab IPO are commanding a strong premium of  ₹270 in the
+  🔗 https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-online-11787900003659.html
 
-- IndiaFirst Life bets on agentic AI for long-term gains, ties-up with Salesforce
-  IndiaFirst Life has partnered with Salesforce to deploy autonomous AI agents across core sales and customer operations.
-  🔗 https://www.livemint.com/companies/news/indiafirst-life-bets-on-agentic-ai-for-long-term-gains-ties-up-with-salesforce-11787843460775.html
+- Multi-asset funds are beating other hybrid schemes. Is diversification paying off?
+  Multi-asset funds have outperformed other hybrid schemes as gold and silver surged. But cooling inflows and questions
+  🔗 https://www.livemint.com/market/stock-market-news/multiasset-allocation-funds-hybrid-funds-mutual-funds-gold-silver-equity-funds-debt-funds-nifty-50-amfi-11787839886447.html
 
-- Alpha Wave offers $137 mn Lenskart stake as investor exits gather pace
-  The floor price is  ₹630 per share, a 1.7
-  🔗 https://www.livemint.com/companies/news/alpha-wave-joins-softbank-temasek-adia-lenskart-share-sale-11787841215351.html
+- Hindustan Copper: Strong metal cycle aids earnings growth, but valuation is not cheap
+  Hindustan Copper is benefiting from surging copper prices and rising demand. But after a 130% rally in a year, rich valuations
+  🔗 https://www.livemint.com/market/mark-to-market/hindustan-copper-copper-prices-copper-cycle-ofs-government-stake-copper-mining-lme-earnings-growth-fy27-11787895955711.html
 
-- Gold Tops $4,600 as Investors Weigh Fed Path Before Jackson Hole
-  Gold trades above $4,600 an ounce as investors turn their focus to the Federal Reserve�
-  🔗 https://www.livemint.com/market/gold-tops-4-600-as-investors-weigh-fed-path-before-jackson-hole-11787865436959.html
+- iPhone 18 Pro Series to Foldable iPhone Ultra: 6 Apple products expected next month
+  Apple is expected to unveil the iPhone 18 Pro and Pro Max with the A20 Pro chip on 9 September. The event is also expected to reveal a foldable
+  🔗 https://www.livemint.com/technology/iphone-18-pro-series-to-foldable-iphone-ultra-6-apple-products-expected-next-month-11787902647440.html
 
-- Oil Rises on Fresh Doubts Over US-Iran Diplomacy Outlook
-  Report: US President Donald Trump has told mediators he’s uninterested in returning to terms of a June ceasefire deal signed with Iran.
-  🔗 https://www.livemint.com/market/oil-rises-on-fresh-doubts-over-us-iran-diplomacy-outlook-11787858692358.html
+- GTA 6: New gameplay video reveals major features ahead of November launch
+  GTA 6's new gameplay video showcases Vice City, NPC interactions, a mysterious morality icon, robberies and scuba diving. The game
+  🔗 https://www.livemint.com/technology/tech-news/gta-6-new-gameplay-video-reveals-major-features-ahead-of-november-launch-11787891536377.html
 
-- Build-A-Bear shares on track for biggest drop ever on weak revenue outlook
-  Build-A-Bear shares on track for biggest drop
-  🔗 https://www.livemint.com/market/buildabear-shares-on-track-for-biggest-drop-ever-on-weak-revenue-outlook-11787858506585.html
+- Lunar Eclipse 2026: Six pro tips to capture blood moon's best shots with a smartphone
+  During the ongoing partial lunar eclipse, known as a Blood Moon, smartphone users can capture stunning images by adjusting settings.
+  🔗 https://www.livemint.com/technology/lunar-eclipse-2026-six-pro-tips-to-capture-blood-moons-best-shots-with-a-smartphone-11787886310574.html
 
-- Dollar subdued after data as focus turns to Jackson Hole
-  FOREX-Dollar subdued after data
-  🔗 https://www.livemint.com/market/dollar-subdued-after-data-as-focus-turns-to-jackson-hole-11787857770329.html
+- Samsung Galaxy S26 FE launched: One UI 9, upgraded cameras, sale date revealed
+  Samsung Galaxy S26 FE has been launched with One UI 9, Galaxy AI features and an upgraded triple-camera setup. It features a 6.7-
+  🔗 https://www.livemint.com/technology/samsung-galaxy-s26-fe-launched-with-one-ui-9-50mp-camera-and-4-900mah-battery-11787889430785.html
 
-- Zinc Rally Eases While Spreads Point to Tighter Supply on LME
-  Zinc slipped from the highest level in more than four years, tracking losses in other metals. Traders continue to monitor signs
-  🔗 https://www.livemint.com/market/zinc-rally-eases-while-spreads-point-to-tighter-supply-on-lme-11787856974605.html
+- 'AI job disruption inevitable, but tech will be net job creator': NVIDIAs Jensen Huang contradicts Bill Gates
+   NVIDIA CEO Jensen Huang has disagreed with Bill Gates' views on AI-driven job losses. Huang says that while "everybody's jobs will be
+  🔗 https://www.livemint.com/technology/ai-job-disruption-inevitable-but-tech-will-be-net-job-creator-nvidias-jensen-huang-contradicts-bill-gates-11787888889389.html
 
-- Meta settlement falls short on teen mental health protections, whistleblower says
-  Meta settlement falls short on teen mental health
-  🔗 https://www.livemint.com/technology/meta-settlement-falls-short-on-teen-mental-health-protections-whistleblower-says-11787857832431.html
+- Shanghai plans subsidies to kick start dormant offshore debt market: Report
+  Shanghai is rolling out new subsidies to lure offshore bond issuers into its free trade zone. Eligible bond issues will benefit from subsidies that cover legal, advisory, and banking fees. Onshore banks will also gain the ability to
+  🔗 https://economictimes.indiatimes.com/markets/bonds/shanghai-plans-subsidies-to-kick-start-dormant-offshore-debt-market-report/articleshow/133587044.cms
 
-- GTA 6 leak just got bigger: Cyberleek drops Lucia prologue with story spoilers ahead of Netflix debut
-   Cyberleek had previously shared several short gameplay clips from the highly anticipated
-  🔗 https://www.livemint.com/technology/tech-news/gta-6-leak-just-got-bigger-cyberleek-drops-lucia-prologue-with-story-spoilers-ahead-of-netflix-debut-11787848453316.html
+- JM Financial calls Metropolis Healthcare ‘best-value diagnostic stock’, sees up to   27%  upside
+   JM Financial has retained its Buy rating on Metropolis Healthcare with a target price of Rs 734, implying 27.2% upside. The brokerage calls it the cheapest among India’s leading listed diagnostic
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-calls-metropolis-healthcare-best-value-diagnostic-stock-sees-up-to-27-upside/articleshow/133587019.cms
 
-- Inside Google’s Vizag data centre: fast approval, GPS for fishermen, AI corridor
-  Google’s $15 billion, 1GW Vizag data centre is set to anchor an emerging AI corridor in India. Backed by Adani and Airtel, the project benefited from
-  🔗 https://www.livemint.com/technology/google-vizag-data-centre-15-billion-ai-corridor-india-11787825897756.html
+- Bitcoin falls 30% as Google, gold and defence stocks outperform since 2020: Report
+  Google emerged as the best-performing asset in a Taurex study. BAE Systems, gold, Apple and Microsoft also delivered gains of more than 100%. Defence stocks featured prominently among the top performers.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-30-as-google-gold-and-defence-stocks-outperform-since-2020-report/articleshow/133586960.cms
 
-- They are masters of electronics assembly. But can our factories genuinely Make in India?
-  PLI has proven to be a game changer for electronics assembly. The hard part, upgrading factories to manufacture
-  🔗 https://www.livemint.com/technology/india-electronics-manufacturing-automation-components-ecosystem-11787827951542.html
+- Elara initiates coverage on Alkem, Eris, IPCA and Mankind. Check ratings and targets
+  Elara has initiated coverage on four pharmaceutical stocks, assigning Buy, Accumulate and Reduce ratings. Alkem Laboratories emerged as its top pick for margin recovery. Eris Lifesciences and Mankind Pharma could benefit from
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/elara-initiates-coverage-on-alkem-eris-ipca-and-mankind-check-ratings-and-targets/articleshow/133586795.cms
 
-- iPhone 17 becomes world’s best-selling phone in Q2 ahead of iPhone 18 arrival; Apple clinches top-3 spots
-  Apple's iPhone 17 became the world's best-selling smartphone in Q2 2026. Apple and Samsung each placed five models in the global top 10.
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-becomes-world-s-best-selling-phone-in-q2-ahead-of-iphone-18-arrival-apple-clinches-top-3-spots-11787826197124.html
+- Has the S&amp;P 500 really doubled since 2023? Chris Wood says it is down 21% in gold terms
+  Jefferies’ Christopher Wood highlights a sharp divergence in market returns. While the S&amp;P 500 has doubled in dollar terms since early 2023, it has fallen 21% relative to gold.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/has-the-sp-500-really-doubled-since-2023-chris-wood-says-it-is-down-21-in-gold-terms/articleshow/133585836.cms
 
-- Stock Market Today: Nasdaq Jumps, Nvidia Stock Rises as Bullish Forecast Lifts Market Spirits - WSJ
-  The WSJ reports that the Nasdaq and Nasdaq
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9wcnRGcW1mTkt4M3VVRER6UXI2VUc4Mi1CbnV0X3pkdWw1UUVDdzd2UkFwV1o4UFNmUDEwVDZaeTV6RXBBeEZMV2tXX2xQZC1vRGktcl94c1pOZ1EzNk5zWmtFaGhSNUs3Y3lVcnhZdUEyVjVBR2JCT1B2MDhvNF9YM0lOWVU?oc=5
+- Uber, Eternal, Porter Exit Karnataka Gig Workers Welfare Board: Report
+  Uber, Eternal, and Porter have reportedly withdrawn from the Karnataka Platform-Based Gig Workers Welfare Board.
+  🔗 https://inc42.com/buzz/uber-eternal-porter-exit-karnataka-gig-workers-welfare-board-report/
 
-- Stock Market Today: Nasdaq Closes Sharply Higher After Blockbuster Nvidia Earnings Report Powers Tech Gains; S&P 500, Dow Also Rise - Investopedia
-  The Nasdaq closed sharply higher on Tuesday. The S&amp;P 500, Dow
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2w1SXl6Mnk0VEZJZ25uczFvSF9ra1pZckVTbFNJU3ZWSzQtVmFxM05qNVd4aGpmSWd3TXg3M2dOblQ5S3p3czd5MFJvaTFXSWQxRUhSOFc4Vi1Kazd4UEhVNzEtdnNyLW1fSHJ2R1k3OGs2Q054bVJEaFJiTUx4TUZBdXYyWXE2OG5WaXFRYVM?oc=5
+- ESDS IPO Fully Subscribed Within Hours On Day 1
+  Cloud and AI company ESDS Software Solution’s IPO was fully subscribed within a few hours of opening for bids.
+  🔗 https://inc42.com/buzz/esds-ipo-fully-subscribed-within-hours-on-day-1/
 
-- S&P 500, Nasdaq Composite close higher Thursday as Nvidia rallies on revenue guidance: Live updates - CNBC
-  S&amp;P 500, Nasdaq Composite close higher Thursday
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE81OFdpS2tFUVh1NFJWZVBOdHV1VDZINjFmVmZxUnF2TVFRVnVDV1VXYnN1OS0xTURpMTl6S1NvMllsWVlHSVpCUU4yRmJZcDYtNUVVV1p2U2ZXOEpuSHlkM3lkTGNtWjBSdlVtUUZxLW9PbUZpbHBF0gF8QVVfeXFMTVE4T2JoblkzUGJXTFEyZjFHYk5adlZyYmUzcXhMRDZUSUJMU1FUNDRsT2RPNzc2MUcxT2V5M3RoeUgxS2xGRi1oWXdsLVkxOWYyRUZiSVdjNnVLbktoYWtoUmRBWGpZTW5PUnMyYUZLamt2aHlLSmtmQmZPXw?oc=5
+- Ola Electric Launches S1Z Escooter With Bharat Cell LFP Battery
+  Ola Electric has launched its new S1Z electric scooter range with its indigenously developed Bharat Cell lithium iron.
+  🔗 https://inc42.com/buzz/ola-electric-launches-s1z-escooter-with-bharat-cell-lfp-battery/
 
-- Scott Bessent takes on the bond market - The Economist
-  Scott Bessent takes on
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1BXd09GOVlUU1dNckllRHpRenlFR0dNeHVRaUFnS3lkWV94UlVsdWxXXzg0V0hLYWhWTHhlbzJDenhCZGliUG5PbGNHN0RwNmN6QnZTcy1PN0dQa3lnUzhPSzFNTHFVelAxTGJhQUhfTE1POTY1akhDS2tmajR3VnN6T0dRc3hvcG8zVV9pUlV3XzV1T3JBeTh1b19TZw?oc=5
+- Fintech Startups To Watch: Startups That Caught Our Eye In August
+  With investors continuing to invest money into startups, new products entering the market and public-market activity picking up pace, August was a good month for Fintech.
+  🔗 https://inc42.com/startups/fintech-startups-to-watch-startups-that-caught-our-eye-in-august/
 
-- Kevin Warsh Has to Pick a Side in the Bond-Market Battle - WSJ
-  Kevin Warsh has to pick a side in
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVR3MzFEQkFSQnhyOHhvM2tTNk5WY1RwaTF0a2ZLTmpOV3MzeUwxUVNGUVlUUW5ZMEVySGR3MmxwdFRsVXNRdUJhMVhVUVliSHkxQVhLZjctN05qTGJEZ1k4eEx5LVVLZDhfa3Q3U0hKWTNmZWpSQXhxTll6bmZWVWhxMFJJaUFRdGM5QlJHbWllVjhyVXo1d0lIU3VURkZPUzVWQ3V3?oc=5
-
-- US stocks today: Nasdaq, S&amp;P 500 rise as Nvidia revives AI rally; Fed outlook in focus
-  Wall Street's focus is quickly shifting to Fed Chair Kevin Warsh's Jackson Hole speech. Fresh inflation data and a resilient labour market have complicated the interest rate outlook.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-sp-500-rise-as-nvidia-revives-ai-rally-fed-outlook-in-focus/articleshow/133577997.cms
-
-- Fed's Collins says latest US inflation readings are 'mixed'
-  Boston Fed President Susan Collins calls July’s data mixed and maintains her expectation of gradual disinflation. Cleveland Fed President Beth Hammack remained more hawkish, saying inflation could stay above target through next year.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-collins-says-latest-us-inflation-readings-are-mixed/articleshow/133576376.cms
-
-- US Fed officials keep rate hike in play as inflation clouds Kevin Warsh's first Jackson Hole address
-  Federal Reserve officials expressed concerns about stubbornly high inflation at Jackson Hole. Persistent price pressures could threaten the central bank's credibility and credibility.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-officials-keep-rate-hike-in-play-as-inflation-clouds-kvin-warshs-first-jackson-hole-address/articleshow/133575461.cms
-
-- Priority Jewels IPO: Co raises Rs 27 crore from Whiteoak Capital and others in anchor round
-  The company's initial public offering will open for subscription on August 28, 2026. Priority Jewels secured Rs 27.45 crore from anchor investors before its upcoming public offering.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/priority-jewels-ipo-co-raises-rs-27-crore-from-whiteoak-capital-and-others-in-anchor-round/articleshow/133573525.cms
-
-- Nvidia shares extend gains, jump 7% as blockbuster earnings revive AI trade ,
-  The chipmaker reported $96.2 billion in second-quarter revenue. Its 70% fiscal 2028 growth outlook further strengthened investor confidence in the AI trade.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-shares-extend-gains-jump-7-as-blockbuster-earnings-revive-ai-trade-/articleshow/133573339.cms
-
-- IPO-Bound ESDS Software Bags ₹216 Cr From Anchor Investors
-  Cloud and data centre company ESDS Software Solution has raised ₹216 Cr from anchor investors ahead of the opening of IPO.
-  🔗 https://inc42.com/buzz/ipo-bound-esds-software-bags-%e2%82%b9216-cr-from-anchor-investors/
-
-- Alpha Wave Ventures Exits Aye Finance Via ₹323 Cr Bulk Deals
-  Alpha Wave has offloaded nearly 1.92 Cr shares or 7.78% stake in MSME-focused NBFC Aye Finance.
-  🔗 https://inc42.com/buzz/alpha-wave-ventures-exits-aye-finance-via-%e2%82%b9323-cr-bulk-deals/
-
-- Ashish Kacholia-Backed Sanlayan Turns Profitable In FY26, Revenue Surges 5.7X To ₹125 Cr
-  Defence tech startup Sanlayan Technologies turned profitable in the financial year 2025-26 (FY26) as acquisitions helped it scale its portfolio.
-  🔗 https://inc42.com/buzz/ashish-kacholia-backed-sanlayan-turns-profitable-in-fy26-revenue-surges-5-7x-to-%e2%82%b9125-cr/
-
-- Caught In The GPU Pricing Paradox, Can ESDS Deliver A Bumper IPO?
-  Two decades on, enterprise cloud and AI ecosystem provider ESDS Software Solution is setting sail for its next big quest.
-  🔗 https://inc42.com/features/caught-in-the-gpu-pricing-paradox-can-esds-deliver-a-bumper-ipo/
-
-- OYO Parent PRISM’s FY26 Profit Skyrockets 4X YoY To ₹994 Cr
-  IPO-bound PRISM’s net profit for the fiscal year FY26 skyrocketed close to the ₹1,000 Cr mark.
-  🔗 https://inc42.com/buzz/oyo-parent-prisms-fy26-profit-skyrockets-4x-yoy-to-%e2%82%b9994-cr/
+- ESDS’ IPO Litmus Test, Even Axes 350 Jobs & More
+  ESDS Software Solution’s public issue is all set to open for subscription later today.
+  🔗 https://inc42.com/buzz/esds-ipo-litmus-test-even-axes-350-jobs-more/
 
 - Why India is sharing missile secrets with its private sector - Al Jazeera
   Why India is sharing missile secrets with its private
@@ -148,17 +108,17 @@
   Weather Saved Pak's Skardu Base During Op Sindoor
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYV9Rejc0REFRTTlmUnd0T1NuS0NrZ21zUHpSaDMtY1g1SXl1bFU0aF9FQW5jNDdHNExHVXJ6d0VGZklxb0N0TTIwY1FxSThtd2FTRExOYTg3eWJMUFFsQ0lEUTFLQ1lFV3FMVFRtUU8zWEJTbXVpX1RSYnctZGZQWmN1RGFIQy1QMGVQLXBHSkFqWTBoeVdYQVUzQ2g5aDExMTREcGtSZTFvV3UtTE5PSFNadHRIQVQtMWZoRkdGVE5ZbFVUcmtpTDFmSW96X0pRQ0xVNjAzYlJlU2I2bFN4a1ZR0gHqAUFVX3lxTE1hRl90djFaY3ptMXA5VUg0bmVYRmszOFZnZTEzVm5uYmxYSnEwMERDRlFKUDcwOHhVYWdxTl9nMVhLZFMtTi1icHhaV3J4NXFkdW0xTzhPbWVJNzZILVBTUnRPUGJzRUFpVWdXbVlwQUo3bGRJNnVOaUxOY3ppcW8xdkp1RzhYcnRXQUxybGJKY0QtYndpTUhRQ042S1A4RGdyVW5fNk9fZ2xwclJsTHZKeUYwbWxOblVlaUgtSjRGQVhCSmVzeTFNYXRlTnRNWFdNekl2NEo1eDYtZzJZSkx4YXBkNDliQlZSdw?oc=5
 
-- Supreme Court issues directions to expedite dowry trials - The Times of India
-  The Times of India reported that the Supreme Court
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSnlRZjhnSXdSMGRoMVA3TjBnNEcySHlla1lCVjdxVGFJX3ROV3hPUW5hcGZvdVlmUDlaVG5pVTNrWUI2dGhreldWZ09xNk1hUWZRMnlDWUkzSHJ1NDJyNkRWbVA0QjBoWXJTTVNwZ3NWMkk5dE4zcGpDRTczdlFSWF9lYnZYM09OVjhzdkQxaDJaUVJfSG82djNBVGRBRm9TQzFmemg0N1JqTmpxTzhfWDZQLUoyczMwNkgtRVlPbkVwd9IBxwFBVV95cUxPSVI3aHBiaEVzVlEzNEVHN1hkSFZpWFFEZW5MSkl2WkNubWNrVXNlM3pZTUZQb0dRMGNlY3RNNTJSNVZzekw1V3J6ZTdaOXNUVmg4aElJZFRPaXRCRHNwTE9NSUlIdTU2MXVfNzZ4Z0pOcFd6LXp5UEdZQWdDU1cta3V4dm9XMFlhbk9EYVVvNjJlUVpVVFY3U0s5UHpoakdzMDZ3bjZySzZrajB6eW1ZbFY5WFM0bDZoVWEzMkdBdmltTXNHZmdV?oc=5
-
-- Mahatma Gandhi's Ideas To Be Relevant Even After 100 Years: Amit Shah - NDTV
-  Mahatma Gandhi's Ideas To Be Relevant
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1Y3d0t2Qk5JaktabTNSZ1NVNmpPVUNKV1hiZ3RXNjJMOF96YkRVdTlkTHJldnhPT1doZEdzRExwWDJjbWF1UDBLRlJiUnVKdGlZdjdtNVVRejRNNFJEWkI1TXpsX2cxNi1jWklUSjk1NzFaX0RIMFY3eGdpNTl0QnZEcUVGeTJhRGF2TlB0aDdfLVh4STdFQ1lDb2pydW1zcHV3MGlBdURBTjF00gG0AUFVX3lxTE1halY2ZlFTQlpmQ1NCaEQtMHZta2M1TWNIWm0zQ01XWG5jT2tNN25UVjlqNkpUWTZtQk9BbEJkX1YyWVY2em5DeFFvbExzenZHTjBWLTlTT25mNzNiVVlic3o2dzI2d1otQWd4R1JTM0NEOUhUMUc5NWFKaC1fdjRJQTVBNHhmN2ttbnNFLVVldFNqbXFaRlZtTXRxUVVneWVZUHFtdGpOUWFYd2d2RHMtQWl1Sw?oc=5
+- Nepal floods swept ​bodies 200km downstream, 3 found in UP - The Times of India
+  Nepal floods swept ​bodies 200km downstream
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZEVDWXpEdElaaHVwRWREdk5SaGJJdHB6emVGTmZ2NkVGMldxR0VDcVR0SGk0RFV3UWlGLVY5b2pZUnMzVm5GYi1qb2lhS3prZmdTV1JSVkx5end1UEpnM0lyekY1T3pmNlB1azFrZkV0QmtJNW5RWUxVS1RENnlqaVJFWlg5Yzg5OFBoa3NiZUZJcVQ2YnFfMFF5NGJ1bUpBV050TW9MOXZrMTRCZTEyTUJlMl9yREk5bWRGcEJzR240QdIBxwFBVV95cUxQOTNkMXYxODFLRnNFSzJKMGJKZVdRbndHUVBYUGc0c3lISGpOcUZKRGtOMXRNb3BKcXpkMUp2Zy1vUXhCb3NPNDRyOUNKRlQtZHZUN21HV0EyT1hYT0syeXpCWXlvcS12aGtjS3ZKWTVPcG5VRENjdGdaOGhLVWZZckUxQUh5NlIxbjluWnJNSHQ5ZHA5OUZIdi01bE84czNjZXBkSXJucGt3cDN2cEp3Y2JmSWphcXZULUlkcE9IVENQbl9qRks4?oc=5
 
 - "No Boasting": Shashi Tharoor's Advice To Media As India Sends Help To Nepal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2
+  "No Boasting": Shashi Tharoor's
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2dVNkZkZEdvaXVWMjNzc3EwejZiTERFOVFzMmI0Ui05WlRPSFFJSTB2emdkSkJKOFl0dzZGMHI4aWZ6TU5ZWHNidFVXYWc2eVhhNmtrdkpyMUtXTC1Nc185ay1yaVpJT1d2c9IB0wFBVV95cUxQbkpyVVRibEtYWE1lWDQ5cWNJVUJyNlhLdE9BcHVGNjRJR1N5aElFa1VYNTYzN2U2STY1Rm9KaGZ0YWh2dExhbWN6ZHgtVUFlWnFYV0t1el9nMnNMTjgzZkt0SjFFVTRFWHlJRV9VY1RnNmhWallFa000cU9xUmp4X1pNNHhRYl9Ic1p3dG02aDhzV3JiMUhlRHVfdS00YzUzVGJtMHpqeFEwTmRMdk53a1MtLWtNQ3VFcGZmYmpzd2RYRU9acHBBLUJjNjNXU0czc2pZ?oc=5
+
+- Nepal flash floods LIVE: Fresh flood risk warning issued as water level rises at same disaster site; death toll at 469 - The Hindu
+  Nepal flash floods LIVE: Fresh flood risk warning issued as water level rises at same disaster site
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOa3V4UTFFMjF0R1ZOb1BCWDhucl92ZXlrMEk2dmZIdnRuREgwWTRodkxSUGE5OE1IYllHd203V05uUjZ6NEFBXzN3cjJtX2IxdFA1dDJ3QTFDNkxEdXQ2X1FEYkRQNHoySC15elk5d2o1OVRqY1NnUGlEcFJKVk9ITlBuT2wwVzJFOWZrRFBaM2x0dU4wdUdNWWJBd3EwazVtMEJ2ajhhc0Q1elhGZjVEdHJ6QzVzWVo5aks3UG9lQ0dBNEp4RHprUlBESzE5bzE3bGlrVm5NeVdUcU02TUJXVGZuQlhoSTZDZFRqQlJ6N0lyZGJCMHdoa1JGSzZUMlItd3pzcHZtdUo2S1dSeXZyb21n0gGYAkFVX3lxTE5XSVhINEd5bU0wQjVyYnktbzRHcFV0R3k3NGFEUGlLbDlTV3d3ZjNLSk5XX0t3eHEwTWV2NUczVlBxaHhLMGxBQ2d1Z3RrYW1LcE4xS2VJblRkX094c1p3WnY3S3dYZHdEZVFyN1dRWC1jejZYMlRvYUNZaThLbFVGYzM5d0h0VlVNaUlWRW9YdWVqRk5TMTRHOHEwQ0UzNTRKRHNRZGtoeER3S1haRUp5anpicjRXbGtDc25KR3BKbVhfTWpGbmZDV2tUS0RxTnl3RGN1ZVBLX0dZWjVxTkJvYVFRalJxMEhfc21scjhqOVBrU1h5VEE2UXd3UEx2bndlcEE2d3Nob3hocUxEUWUxWEdENzVWUk0?oc=5
 
 - Why India is sharing missile secrets with its private sector - Al Jazeera
   Why India is sharing missile secrets with its private
@@ -168,37 +128,37 @@
   Weather Saved Pak's Skardu Base During Op Sindoor
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYV9Rejc0REFRTTlmUnd0T1NuS0NrZ21zUHpSaDMtY1g1SXl1bFU0aF9FQW5jNDdHNExHVXJ6d0VGZklxb0N0TTIwY1FxSThtd2FTRExOYTg3eWJMUFFsQ0lEUTFLQ1lFV3FMVFRtUU8zWEJTbXVpX1RSYnctZGZQWmN1RGFIQy1QMGVQLXBHSkFqWTBoeVdYQVUzQ2g5aDExMTREcGtSZTFvV3UtTE5PSFNadHRIQVQtMWZoRkdGVE5ZbFVUcmtpTDFmSW96X0pRQ0xVNjAzYlJlU2I2bFN4a1ZR0gHqAUFVX3lxTE1hRl90djFaY3ptMXA5VUg0bmVYRmszOFZnZTEzVm5uYmxYSnEwMERDRlFKUDcwOHhVYWdxTl9nMVhLZFMtTi1icHhaV3J4NXFkdW0xTzhPbWVJNzZILVBTUnRPUGJzRUFpVWdXbVlwQUo3bGRJNnVOaUxOY3ppcW8xdkp1RzhYcnRXQUxybGJKY0QtYndpTUhRQ042S1A4RGdyVW5fNk9fZ2xwclJsTHZKeUYwbWxOblVlaUgtSjRGQVhCSmVzeTFNYXRlTnRNWFdNekl2NEo1eDYtZzJZSkx4YXBkNDliQlZSdw?oc=5
 
-- Supreme Court issues directions to expedite dowry trials - The Times of India
-  The Times of India reported that the Supreme Court
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSnlRZjhnSXdSMGRoMVA3TjBnNEcySHlla1lCVjdxVGFJX3ROV3hPUW5hcGZvdVlmUDlaVG5pVTNrWUI2dGhreldWZ09xNk1hUWZRMnlDWUkzSHJ1NDJyNkRWbVA0QjBoWXJTTVNwZ3NWMkk5dE4zcGpDRTczdlFSWF9lYnZYM09OVjhzdkQxaDJaUVJfSG82djNBVGRBRm9TQzFmemg0N1JqTmpxTzhfWDZQLUoyczMwNkgtRVlPbkVwd9IBxwFBVV95cUxPSVI3aHBiaEVzVlEzNEVHN1hkSFZpWFFEZW5MSkl2WkNubWNrVXNlM3pZTUZQb0dRMGNlY3RNNTJSNVZzekw1V3J6ZTdaOXNUVmg4aElJZFRPaXRCRHNwTE9NSUlIdTU2MXVfNzZ4Z0pOcFd6LXp5UEdZQWdDU1cta3V4dm9XMFlhbk9EYVVvNjJlUVpVVFY3U0s5UHpoakdzMDZ3bjZySzZrajB6eW1ZbFY5WFM0bDZoVWEzMkdBdmltTXNHZmdV?oc=5
-
-- Mahatma Gandhi's Ideas To Be Relevant Even After 100 Years: Amit Shah - NDTV
-  Mahatma Gandhi's Ideas To Be Relevant
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1Y3d0t2Qk5JaktabTNSZ1NVNmpPVUNKV1hiZ3RXNjJMOF96YkRVdTlkTHJldnhPT1doZEdzRExwWDJjbWF1UDBLRlJiUnVKdGlZdjdtNVVRejRNNFJEWkI1TXpsX2cxNi1jWklUSjk1NzFaX0RIMFY3eGdpNTl0QnZEcUVGeTJhRGF2TlB0aDdfLVh4STdFQ1lDb2pydW1zcHV3MGlBdURBTjF00gG0AUFVX3lxTE1halY2ZlFTQlpmQ1NCaEQtMHZta2M1TWNIWm0zQ01XWG5jT2tNN25UVjlqNkpUWTZtQk9BbEJkX1YyWVY2em5DeFFvbExzenZHTjBWLTlTT25mNzNiVVlic3o2dzI2d1otQWd4R1JTM0NEOUhUMUc5NWFKaC1fdjRJQTVBNHhmN2ttbnNFLVVldFNqbXFaRlZtTXRxUVVneWVZUHFtdGpOUWFYd2d2RHMtQWl1Sw?oc=5
+- Nepal floods swept ​bodies 200km downstream, 3 found in UP - The Times of India
+  Nepal floods swept ​bodies 200km downstream
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZEVDWXpEdElaaHVwRWREdk5SaGJJdHB6emVGTmZ2NkVGMldxR0VDcVR0SGk0RFV3UWlGLVY5b2pZUnMzVm5GYi1qb2lhS3prZmdTV1JSVkx5end1UEpnM0lyekY1T3pmNlB1azFrZkV0QmtJNW5RWUxVS1RENnlqaVJFWlg5Yzg5OFBoa3NiZUZJcVQ2YnFfMFF5NGJ1bUpBV050TW9MOXZrMTRCZTEyTUJlMl9yREk5bWRGcEJzR240QdIBxwFBVV95cUxQOTNkMXYxODFLRnNFSzJKMGJKZVdRbndHUVBYUGc0c3lISGpOcUZKRGtOMXRNb3BKcXpkMUp2Zy1vUXhCb3NPNDRyOUNKRlQtZHZUN21HV0EyT1hYT0syeXpCWXlvcS12aGtjS3ZKWTVPcG5VRENjdGdaOGhLVWZZckUxQUh5NlIxbjluWnJNSHQ5ZHA5OUZIdi01bE84czNjZXBkSXJucGt3cDN2cEp3Y2JmSWphcXZULUlkcE9IVENQbl9qRks4?oc=5
 
 - "No Boasting": Shashi Tharoor's Advice To Media As India Sends Help To Nepal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2
+  "No Boasting": Shashi Tharoor's
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPUENnaGNybWp3S2Nxa1k0UUdDem9Fdk1hVXlEUG5tOXN5UVdjUVFYTXVKMEViWXp6NzBQejgyZlFFdXdYZERWdkNUWjBnd0NQWHpWb241RUh5QUFwb2JkcVd0azhBOG9Sa2dVNkZkZEdvaXVWMjNzc3EwejZiTERFOVFzMmI0Ui05WlRPSFFJSTB2emdkSkJKOFl0dzZGMHI4aWZ6TU5ZWHNidFVXYWc2eVhhNmtrdkpyMUtXTC1Nc185ay1yaVpJT1d2c9IB0wFBVV95cUxQbkpyVVRibEtYWE1lWDQ5cWNJVUJyNlhLdE9BcHVGNjRJR1N5aElFa1VYNTYzN2U2STY1Rm9KaGZ0YWh2dExhbWN6ZHgtVUFlWnFYV0t1el9nMnNMTjgzZkt0SjFFVTRFWHlJRV9VY1RnNmhWallFa000cU9xUmp4X1pNNHhRYl9Ic1p3dG02aDhzV3JiMUhlRHVfdS00YzUzVGJtMHpqeFEwTmRMdk53a1MtLWtNQ3VFcGZmYmpzd2RYRU9acHBBLUJjNjNXU0czc2pZ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Nepal flash floods LIVE: Fresh flood risk warning issued as water level rises at same disaster site; death toll at 469 - The Hindu
+  Nepal flash floods LIVE: Fresh flood risk warning issued as water level rises at same disaster site
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOa3V4UTFFMjF0R1ZOb1BCWDhucl92ZXlrMEk2dmZIdnRuREgwWTRodkxSUGE5OE1IYllHd203V05uUjZ6NEFBXzN3cjJtX2IxdFA1dDJ3QTFDNkxEdXQ2X1FEYkRQNHoySC15elk5d2o1OVRqY1NnUGlEcFJKVk9ITlBuT2wwVzJFOWZrRFBaM2x0dU4wdUdNWWJBd3EwazVtMEJ2ajhhc0Q1elhGZjVEdHJ6QzVzWVo5aks3UG9lQ0dBNEp4RHprUlBESzE5bzE3bGlrVm5NeVdUcU02TUJXVGZuQlhoSTZDZFRqQlJ6N0lyZGJCMHdoa1JGSzZUMlItd3pzcHZtdUo2S1dSeXZyb21n0gGYAkFVX3lxTE5XSVhINEd5bU0wQjVyYnktbzRHcFV0R3k3NGFEUGlLbDlTV3d3ZjNLSk5XX0t3eHEwTWV2NUczVlBxaHhLMGxBQ2d1Z3RrYW1LcE4xS2VJblRkX094c1p3WnY3S3dYZHdEZVFyN1dRWC1jejZYMlRvYUNZaThLbFVGYzM5d0h0VlVNaUlWRW9YdWVqRk5TMTRHOHEwQ0UzNTRKRHNRZGtoeER3S1haRUp5anpicjRXbGtDc25KR3BKbVhfTWpGbmZDV2tUS0RxTnl3RGN1ZVBLX0dZWjVxTkJvYVFRalJxMEhfc21scjhqOVBrU1h5VEE2UXd3UEx2bndlcEE2d3Nob3hocUxEUWUxWEdENzVWUk0?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Google, Microsoft and OpenAI among 100 firms calling for better cyber defences - BBC
+  Google, Microsoft and OpenAI among 100 firms calling
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IN0ZXakIzTWdydWNsdVhrd3o5SWl1WU1WeW85WHFydS1qZkh6eTVkSzdUc1RoV0JlLUw5UkVVTUxaRWk4anNaTE5EeTNBSkVvRDlvc3N4Q1lsZw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Pentagon’s blacklisting of Anthropic was unlawful, US judge rules - The Guardian
+  Pentagon’s blacklisting
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlJhNzBFNUxUMW8xOWpySlkza2EyMENZSjBEQmJGc1Rrc2wtaXg0c0E0dGhqN092LXNqVHRRX0tyWUdHYi1rWmE5eGo2bWUtMS1KRmx0TUhxZ2JWdkUxNEVEaFdwUnJWN19hWkY1dmUzX0xsTm1CcjdvT2U5VGFmY3JJVUFGX2JEcHdNTVhMbnB0NVhEaEJRaEotaVBtQzJvbTJqa3lvcTVucGpjX1BQaGJ3?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Marvell Technology, Inc. Reports Second Quarter of Fiscal Year 2027 Financial Results - Marvell Technology
+  Marvell Technology, Inc. Reports Second Quarter of Fiscal
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMDhNVWVTS042VzhPTnZYZWgwd2kzVW1aVm9NR29YUHZncmt6QWFsbFJIQVFrLTRsQUtjc00yZHo3VXlvcFZQY3R0dGJiVzVSNDl6bllJQldUM185U0o5LWV6UFRmSWhHMWR0STBfazA5eVNBbU4xbUtyY0xzSnphR2piOVozN1lpd0JWRmFjUDV3UzdCY2RoN3V0M0Y0Q18xYUY2SGw0X2t0ME1JOVNwZ0RzcjlMYXBwVmxhSlFvdUR3bnVNMDQwbDlqVEdQMWMtRjFDQ2cyb3dkdDFyczZJbUJEc20xUQ?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Marvell raises annual forecasts, but shares fall as Google deal questions linger - Reuters
+  Marvell raises annual forecasts, but shares fall as
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlF3Z2g0RTZaeDNWUEhvbFFuVm1BSUNST2JfRXpoQTdSRHdHRldQeVJWblJxVTRtc2ZEUGtDNHNGU3Z4dmI3blYtZmlCbHpNcG40S1JVd0pUREEyTHdoaWN5QjZ4dVg0czFLQVkxUVRGNFZNbUhsbHRLVjJYdHVIZ2lYcFh3MkNCWnoxQzRaSkphQVVhNFhSRjJwV3dZX2dfVjNVNmVIWllpX3BJTUE?oc=5
+
+- 2026 MG Hector Tomahawk EV Launched With V2H Technology: What’s So Interesting About it? - CarDekho
+  2026 MG Hector Tomahawk EV Launched With V
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQzctTkhEam54bVBTSEF5Wkp6cGdDUkhweUlTaERsUUhVaUdtREE4OW9DTVVkV000UDZpOS1qZ0JlYVpHQ2d6N21DSjRJc0Zabi1oek1rbVNzRTJKSTNMTlZpN095Ny1JUy1WSnEySjlqU3R2Z0pqVkxpYjMwSjgyNzVIbklBMXlHLVhhT3dDOHY0RXRZVi0xX0k0RmRBa0JTOS1tN3VGdEhaQ01GQXc4RjJSX3ZVYzNqd243QXdBM2tkcU10cUt1azh5dlNsV1Jw0gHYAUFVX3lxTFBZNjh6YmdVNERHZVU4M2NGYnBfWTJvNFloZUxrLTRZV0h1eU1IVEo1MC1xWFlXNmNTVjh3WGJHOTNVdVBSWVJ1MnBIdUtqdmpmTm16ampFeFNGdVdYTUVEZVJ0NlhRZ1JLX0ZlQXZHV3pKSmhzbUVPNEZCLV9CUDlSeTFnUkJ4LS1FZzVPX1ptNWlRemdKV3lNQlhkYnZhakdSVkpxOXZHNDdxS0QwZmJvSHVrVHNXeThmZVBwWFhHZExrQnZjMGZhMmp1Y01fSlI0MHBIRTdRMA?oc=5
 
 
-_Last updated: 2026-08-27 21:40:26 UTC_
+_Last updated: 2026-08-28 08:38:02 UTC_
