@@ -1,44 +1,36 @@
 # 📰 Daily News Summaries
 
 - "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMG
+  "Exceptionally Generous": Nepal On
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
+
+- 68 tonnes of aid across 4 flights: PM Modi's love for Nepal reflected in swift relief efforts | India News - Hindustan Times
+  68 tonnes of aid across 4 flights: PM Modi's love for Nepal reflected in swift relief efforts
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR3pQc0tmMTdCajg3UmdnV2NiR0NRYUI0YXprSHE2aDJ0RFFZWS10TTlzcHExNVZ1QVNKSl80OHVfOWZSVTBKc0tWbE9nMTdzSVM3RktMeVlkSVFtcEJfRVppVzRtWXZyT2t0dWVsZ3RLV29aNS1XNFJuTENla3BzLUM3SEstWGpDTVlsQ01yUU83czVJZVRIeWhwUVhEVGNPYW5zZG80NU1WVjRTNjhkZjNGVnpSQ0JrNllvNEh6Zlljb05Fd09JOXFzeko3aVVaQWJ3bUpYenRQMnJJX3g4dXZqQ3JSNGtnY08yRV93VjM2OEJ3dzd3WV9wX2ttc0NtV3o1Y3ZORV_SAY4CQVVfeXFMTlZWVFJYM2RnM3RpY2ZNV1JLWHlRLWpvS1BCdWYyMHpMb0dPR05IWGJhUE1tV3R5eXg5WTU5REpXM1NzcWVyRlFmMGQ3bS1wRnc5ME42MGRfQk1RbWFiMXBxSF9GWFp3ZXFGYTRHMUhGTmNsbklONlUxeERVUkZqaHI3aHVEeHRYd01wNXpoXzMya3g3WXFqdWhDSXNHZndMdFJ3cktHQklDbFphLWFPQWJPTmkxendoT3JtcEJsSm4xUHl3d1F2b3V5UGtud0hZWkpoSzZyR3VfRTdSVXhIT1dCa0p4RWlTcUp4SUNsb3FNalpxTlZJUVZ2ZnJzbzYtMVlib3NjOFJjRUEzVWRn?oc=5
+
+- Nepal flash floods LIVE: Death toll reaches 781; rescuers drill through debris towards trapped tunnel workers - The Hindu
+  Nepal flash floods LIVE: Death toll reaches 781; rescuers
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQTldVQkR4M3lySE1JMmlGUU1tSXNEX1M5aGxhaFJ1UFZaWU1oaXh2NGxtSUhoNGI4MWRwMFhrenZ3ZkZ2WWJic0lrRTRpM0daVHFhSkROOUZhbnMwMDBsRWphb2RYNDEtWm1uR2VlRkhISlRSdHI3VFg3NEJGcGh6S3VVVEdlSWpxRGVTa3Y1Z0p6cl9FR3lzTnhDX1Bfb0ZGNC1qa3VRcXpaRWhBckxqSmRyTm5rT1NwOGxLLUozYlVkbVVKQnV3a2dTTE85UlVnc1Nfd0R2U0JndW9yeHpJQjhMUnBXUmJJbnJWNTduelJmNkRjQVhUYkFBaGY0ZF9LSWVv0gGKAkFVX3lxTFBUcDhpYzloTlVwbUt5WXBHd0p0YWxzbjQ3ZmdNZi1pUU9QbVpMcDJQbWN0VkRQcnRaU3pCNkVtQ0NTSXBSeHE0eElGWGJVOXAtaUpnQzVwSVp1LS1wdmVwYTBCN0xnbG93ZG1jQ00wdE14dEFlV0VFbngxV1ZpdW01d1NvMGl5bG9ESmNWQ3gtVDZRNTdGcnZHd2lzUlJ4N1g4b3I4OVZUb09Ray1ubzJTMUdWNXd0WHFnSXM5TkZhemhFNjF6TGFJSmg1cnJCc0VuN2dLQUhkNVBiaTc4WXVHZTMzSGRXOHJQbkhQbFFxdTI4V3pXbGJnT0oxdUx1eWVlOGhIRXZvX0l3?oc=5
 
 - 'If any Hindu thinks there should be no Muslims in India, he's not Hindu': RSS' Mohan Bhagwat in US - The Times of India
   'If any Hindu thinks there should be no Muslims in India, he's not Hindu': RSS'
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGVsaUwtNGJ5SGw2WWNoNUgyZmpacldpY3Q0WDlDSm84bkNzc0xoSFJwenAzZm9NMnNZWmhQUk53bHo5dnJzbUlEQXpwLWwzZ3otN1FmSldwa3REX1oyaEN4NUNmdzVzNEE2MW9jLVRpVkpucGtrNV9kS1NlSnZlT25DSWZsbVJEd2ZSMUV6bEtoQlZtQVI1VUpTdlg1YVh5U0dUM0V6QThuYjVWMTFyclp6YWJJRGllUXI5cDlKMHFFVURjNEgwWW16UW95Zk14bEdicmR6S2lDUmliOV9uWHBSYTNxZ3NlRmhIdXVvdWVtd1HSAfgBQVVfeXFMTy1ReVhIVEpTa2UwSmk5aG1oeW1pQmdYSVFVRU5IckkxQ1VlNlVFU2lKMHYtNVptaEZwR1hNRG9zOG0teW11TXVNdUpDcDgzb08yUS1BeVhWV2Q0SUVlUGR2dC1JWVZPX1RIUkM5MUtkUEx3RGRkTEZhZUFabXZFZVlFSUFxbUNGT3ItQ01kZm12SGFwb2QwUFFoTnViMGYzSE9CdEFkd2JIb2FiUWxMdUdRZlR2Z1BOOTdsVXpLcm1oYXdrR1ZpMlU0UHo1ME5Bc1hWa3JrUmZIWURhYktySjFMTVZ3MXVYd1V6YXVjZTc4RzJNWFU3bHM?oc=5
 
-- Highlights: In Mohan Bhagwat's Address To Indian Expats, A "Janmabhumi-Karmabhumi" Lesson - NDTV
-  Highlights: In Mohan Bhagwat
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOUm1rMGNfZXdlUTJpc3FaS3NnWTliMXpxWnAwbXZ2aVRZRC1jaHZ4T1NtdHpoRHpDcy1pTjlBeE5FbHB1aTBjR2RYWkpPeXBnMGs4b3JucEkyM1hDeHpGTWtDRzZHZmpPSWc0MThmajF1enJZVm9DZUNjRXZSUjY0YW1vYV81OVlRY09kSzA4Zl9FeW9yU0RLT185MlkyY0Vxb0VmRUJ3Z2RnSDNa?oc=5
+- "Unity And Diversity In India's DNA": RSS Chief Mohan Bhagwat At New York Event - NDTV
+  "Unity And Diversity In India's DNA": RSS Chief Moh
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVNJaVVUNTFfMTczaVA3a1lQZGktWkw1R2tGVFRSTUdsdzdfeDVETjF0MU1qaWNxZjFqTHAwU3lYdmd3cDAzcEJlQ3hqM084TUlzSXlXVV92YWhOUVR0Y2lvbXlfZHNLLUFIcDZLVU5TYnVqV3JsZEYtWF81cmxVSWdCR0dTbXgyUU9qWXBkUUJwT2t0V0h5cWZRbHVTczJ4bE44Y0V6RG1CZkNNdFY1U2dLWGtURFHSAb8BQVVfeXFMT0I3b0Jrd281NGkyd1pKWjN6TkpxZ3ZSc3lPUnI5WkZKMmZ3bzBIQUFHdUt4c29tNXMtX3M0MzB3WFVxZjkxenBxclRyUHppUk1BVW05d0NNQ3dVV2V4aWtUN1VTRzk4UVRFWkUxZ2VIcGJwUUdORjQzenJlOE95em5FNlZPYmt6Z1JWOHZMNXVsRjBRY1BWMDljb04yZ3dvbDlfQjUyLThBLWw5NnFlblZ4UDd3cXlXUWFJdV95VTA?oc=5
 
-- ‘In America, behave true to America’: Mohan Bhagwat tells Indian diaspora to fulfil duty to ‘karma bhumi’ | India News - Hindustan Times
-  ‘In America, behave true to America’: Mohan Bhagwat tells Indian
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxON1d5aXZXZmVWRlA1bG1jZUpkTlZZTHhPWHN1Wl9ZaUNweThMdFloNWp6YUR6SlhwVGJRX1RRM3BUY0V2ZzU1TTljVTFlTzRIYVZDUmEtRUFxT2ZJMXFoSzhuR2w3Yk05OU4yWjAyYkdGdHk4dm1sTDZvZzU3RFNuaGJjWGN0UTR3REF5ZGFWd0dmWFFOcUNuQWltTlZLZ3J4b3NsNlc3Sk9wclBrWnNJT2pvNlZVVHI5Um5LdUoxRGJUbE00NGYxcXdNcjN3bVpxbUduZUY3S0R4VFg4SjZ3d1VYN2VoaGpFWXlFS0xoRC1wR2Q0U2U3WGwzcHExUThnMG5fUFUta9IBjAJBVV95cUxNWEplZ3IxN0p6LW1GTGlKYktORWVlZFB5YkswWjRDVXMxTVlwOXQ0cUFnYkIwd3BQX1lDSHRmMVFEV091bEwybVFDNUNXSjJTNHhMcHJOUkdkcWQwRENwNC1uZkp2Wjg5RzljS052cnpOOEw1d0k2TXk1Ym04RWkzUVg2TC11RkNNS0ZKYjBBb0dxcHdrRGttZGFCQ0txR0tVYXR6eVBxSk5TMXdwZVUzNWk2UkJ1WXhKc3hlVlE1VzJKR0hwSFBNNGJoRnAtS0p5WVl5UWwwSDFEd0h6Z3Jsalp0RHgxdjVCR3BpNDBNWkp0VUNPQXNZSDRsWHNoNFRSNU54c1BXRWl1M0Z2?oc=5
+- Bira 91 beer maker in more trouble? HNGIL slaps B9 Beverages with  ₹11.77 crore default notice, plans to move NCLT
+  Hindusthan National Glass and Industries has slapped the debt-ridden brewer with default notice for nearly  ₹12 crore in unpaid dues and plans to drag it to the
+  🔗 https://www.livemint.com/companies/news/bira-91-beer-maker-more-ibc-financial-trouble-hngil-slaps-b9-beverages-rs-11-77-crore-default-notice-plans-to-move-nclt-11788089651460.html
 
-- India, Uzbekistan Elevate Ties to Comprehensive Strategic Partnership, Sign MoUs Across Various Sectors - News On AIR
-  India, Uzbekistan Elevate Ties to Comprehensive Strategic Partnership,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWZkMldCNjloWGlEblBUaERTY2JaeHFnMUc5TnNjN2RfblNmTkNNN3MydVZ4MDAyWm4yaTFBM1FiM3Q4OW5mQVZPTmx4WXdVZzU1VUFnTWl2bGl2N09kLVVmaUNxbU00MmxsT0NJWWdrdDFtTWlUUkhYcS04Q1RTVkU3eFNjdTdEMTdLaDlRbmJpNVJabHQ3a1hNQnY1ak1UN2U0MWIyaDBDN1N4eFk4MmtfV25MR3BLMWVlcTJXbG9zUGtfVVE?oc=5
+- Mukesh Ambani vs Subhash Chandra: Net worth, assets compared — what's the matter between the two tycoons? Decoded
+  Essel Group Chairman Subhash Chandra has accused Reliance-linked media of spreading misinformation against him. The controversy has also drawn attention to the contrasting net worth and
+  🔗 https://www.livemint.com/companies/people/mukesh-ambani-vs-subhash-chandra-net-worth-assets-compared-whats-the-matter-between-the-two-tycoons-decoded-11788083596214.html
 
-- Wolverhampton and Walsall trusts to use speech-to-text technology - BBC
-  Wolverhampton and W
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwMUp2MGtmajAyazdSamhOSmkwZTRfdWZSVnBxMkN4NU56QlBoZjJkWUJJT3ZpY1Z0dWdhNEdyeU1LSVdlbjFMOHpWdG1uWHJJZ085Smg2cG9GZw?oc=5
-
-- Revive dedicated minor irrigation system with modern technology: Farmers’ Commission - The Hindu
-  The Hindu has published an article on a proposed
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYXlScWdlRXV4NTJ3Z0VkSTZsT2oyT1Iwb0hNMGY0bjY0X1BLRVdkTTdPVG1pR2J4dHYwSi1fWGU0bzdlVGE5Wk94NGF3QlA0Q2djNFhjNUNSNTliSGMtMTBuejZQMmxwYkRJVnRLNDNFeGxvRDFOcGVIMVF5YWMzUUx5QzFlWk5sM21PdllwUFk3emU0S2pRM1JZYzRzV1N5dWxDaWJuRnJXcTFSU0REV2hBSFJBelkxWFVsWjZrUTVHdk1UWm1MbTQ1WFJwTWJUcFBLWE00LTg1V3QxazFSU1dSOGVBUdIB7AFBVV95cUxOMjRZdzJrd01tUmxhdWhseHg4OU40d1E3RWN0RDIwZXpnN0ZHVHhYRUR4emtxUWhQU3B5MEZ5c2FYZ29QUFc2RDZDYVZGVFJrdHZhbUVDQ05HMWhXem5GMURBbHprOUxhdDVCRGdnT0x4Wmlkek9PXzdrenFfQklXTmZsNGd1VU52TTZQcmMyeHdyTmJjcjFBWVFJR2t1SDM4N0UzQjRtR1lwMGd2Q3BfRURtNGhPb2FweDAxaXlXU2ZabXJucGprNU1RRUxFYUlRRlhNR2Zaa3lrTEJyWlI3T1J3Y2gtaFRGN0hNVg?oc=5
-
-- PIB Backgrounder - PIB
-  PIB
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOY2JFR1d4REQ2b2huejQ5MVNfSmdJZ0hETkFzQ3N3MmdETzNDblBfeFJscm4zY0hjNTdudHRJRXgyMjhxQnNhTFh0R0h4OWdQSWhzQUhsZ3BXcTFMR1hDY2xIYmVIS2kxQlpmQlQ0RDFsQ0NXS1NXWE05czdJZUlEMTdqMWktdw?oc=5
-
-- Technology must serve humanity: LG Manoj Sinha - Rising Kashmir
-  Technology must serve humanity: LG
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWVIdW9sVUFIWWNyaW9lOTNTVzRVbUtrMDlyT1Bid0ZtekRZSHRXcktLaUt5a0ozcWZBV2c4SWN5TGlLaG5xU09qS0owQ3ZoZXJ5Y2UyVHNqamstd0tzSG1qZ1dvQmpSNmJCSEV5YmVKVXdieXl4VXJpZTB5TFZXaEVsTGdUYUtDdkN0NkZnblVkSjJ2Y2k0?oc=5
-
-- Apex University’s Udaan 2026 Inspires 3,000 New Students to Embrace Skills, Technology, and Opportunities for a Future-Ready India - TheWire.in
-  Apex University’s Udaan 2026 Inspires 3,000
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSXlObHNENm5jVmJLcjRSN1lhRGFMS3llN2x5REpJYXZNSHR2S0JsRkxLaUE3eVNacDJBXzZrdjdHSnR6SUM3aGxCWmZ4SmpQb3JUM2diazFJZ0dwUExJME8tcTZ2NjE5aGc0d0dld21LSmp3Mk5na0ZqWVRtOVlhdDBDLVVlczNEMlZadU9GZFpURjhnejFTV3Vjc1RpdEdwWDFVYWN0QW92Z1JkMXB6VTluaWpoejJsUGdoWkdFUC1NaHplTnVnaHZtYTVhSXBTX0JwdjRoUy1ySjB1QmpydFNtRkQ5SjRBUXpfSksyTnUxcVVOYXpNTNIB_gFBVV95cUxPQWJYekFoTkpzMWdoaWpENDhZYnl2TzE5ZWhfM2ROTUZOU3hHTFQtWFRkSDhSd0tyS0hOZEc1S29DWDUyanJkbWZhZEt6UWpON3NRZlREc3dYN21iZTlneXdJVEZMZm1mMkVmUGN4cm1mS3JjSkpPV2lXQ3NRUVE2akw1RVlrSThFMEpOTWVuV1psLU9tUmZmYWhQbWl5VnhqdXJFbVZIYjRsejg5SEpvSmQyMVdodm9xNzBlN2ROT2M2a3N6NVRoYUllc3owT2ktUUFHUUNGejNUOFpnZGN4cGZwVEtDN0c1ZjNaX2ZITTVzb2FuTXBlM3hoUmVtdw?oc=5
+- HDFC Bank weighs an insider and an outsider for new CEO
+  HDFC Bank is searching for an external candidate to align with the Reserve Bank of India's rule that requires banks
+  🔗 https://www.livemint.com/companies/news/hdfc-bank-new-ceo-sashidhar-jagdishan-kaizad-bharucha-11788088969518.html
 
 - Increased scrutiny, market performance — What challenges face the next HDFC Bank CEO after Sashidhar Jagdishan's exit
   HDFC Bank CEO Sashidhar Jagdishan has stepped down. The bank has seen a 27% stock decline this year. The next leader will have
@@ -48,17 +40,13 @@
   The Japanese retailer has localised its marketing through Indian celebrities and influencers.
   🔗 https://www.livemint.com/companies/uniqlo-india-growth-revenue-stores-strategy-11788066250783.html
 
-- HDFC Bank's next CEO: Kaizad Bharucha to replace Sashidhar Jagdishan? Report offers hint
-  Kaizad M Bharucha has been the Deputy Managing Director of the Bank since April 19, 2023.
-  🔗 https://www.livemint.com/companies/exclusiveindias-hdfc-bank-weighing-deputy-md-bharucha-outsider-for-ceo-sources-say-11788076007845.html
+- Apple bets $60 billion on Texas supply chain: What it means for shareholders
+  Apple is stepping up efforts to strengthen its US supply chain, including a planned $60 billion investment in Texas.
+  🔗 https://www.livemint.com/market/stock-market-news/apple-bets-60-billion-on-texas-supply-chain-what-it-means-for-shareholders-11788095852655.html
 
-- Search for new HDFC Bank CEO tests investor confidence, governance
-  HDFC Bank is India's most influential stock. The importance of who becomes the CEO after S
-  🔗 https://www.livemint.com/companies/hdfc-bank-ceo-search-tests-investor-confidence-governance-11788071011524.html
-
-- Setback for Anthropic? Sony, Warner Chappell file lawsuit against AI firm, accusing it of intellectual property theft
-  Several major music publishers, including Sony Music and Warner Chappell, have sued Anthropic. They allege Anthropic pirated works on a massive scale and are seeking damages of up to $150
-  🔗 https://www.livemint.com/companies/news/setback-for-anthropic-sony-warner-chappell-file-lawsuit-against-ai-firm-accusing-it-of-intellectual-property-theft-11788058021889.html
+- What will happen to HDFC Bank share price on Monday in the wake of management level developments?
+  HDFC Bank share price closed 1.20% higher on Friday
+  🔗 https://www.livemint.com/market/stock-market-news/what-will-happen-to-hdfc-bank-share-price-on-monday-in-the-wake-of-management-level-developments-11788086213849.html
 
 - Narayan Murthy's family, Morgan Stanley, LIC buys stake in this chemical stock | Do you own?
   Narayan Murthy's family office, Citi Group Global Markets Singapore, LIC Mutual Fund, Morgan Stanley, Mirae
@@ -72,13 +60,9 @@
   The BSE benchmark Sensex fell 276.32 points, or 0.35%, during
   🔗 https://www.livemint.com/market/stock-market-news/mcap-of-7-of-top-10-most-valued-firms-falls-by-1-13-lakh-crore-bharti-airtel-ril-biggest-laggards-11788075534827.html
 
-- Upcoming IPOs: Purple Style Labs IPO, Deepa Jewellers IPO among 7 new issues to open next week; full list here
-  Three mainboard IPOs - Purple Style Labs IPO, Deepa Jewellers IPO and Rays of Belief IPO
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-purple-style-labs-ipo-deepa-jewellers-ipo-among-7-new-issues-to-open-next-week-full-list-here-11788070544988.html
-
-- Stocks under ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 31 August 2026
-  The Indian stock ended the week on a negative note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-31-august-2026-11788069217940.html
+- Apple iPhone 18 Pro Max launch in India: Price, launch date, colours and more- what we know so far
+  Apple confirmed that the company will hold its ‘Surprise and Shine’ event on September 9. It is likely to unveil the iPhone
+  🔗 https://www.livemint.com/technology/apple-iphone-18-pro-max-launch-in-india-price-launch-date-colours-and-more-what-we-know-so-far-11788083918294.html
 
 - Nearly 32% of organizations decide to build in-house software using AI coding agents over purchases: McKinsey
    Organizations are increasingly using agentic coding tools to build software in-house in lieu of purchasing it.
@@ -96,29 +80,9 @@
   The UAE's Telecommunications and Digital Government Regulatory Authority has granted Starlink Satellite Communications LLC a 10-year General Space Services Licence. Starlink will provide broadband satellite internet services in
   🔗 https://www.livemint.com/technology/uae-regulator-grants-starlink-10-year-licence-to-provide-satellite-internet-services-11788013465351.html
 
-- iPhone 18 Pro Max vs iPhone 18 Pro: Camera, zoom and key differences explained
-  The Pro Max could also feature a more powerful telephoto lens with up to 6x optical zoom. Apple’s iPhone 18 Pro Max is rumoured to
-  🔗 https://www.livemint.com/technology/iphone-18-pro-max-vs-iphone-18-pro-camera-zoom-and-key-differences-explained-11787922164364.html
-
-- Stock Market Close: Sensex snaps 2-day losing streak, gains 331 pts; Nifty at 24,176; IT shines - Business Standard
-  Stock Market Close: Sensex snaps 2-day losing streak, gains 331
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOanNrZHgxX0tyaVpDT1BCZnM5R2ZhT2dEVWtVNl9mdVJzZVRSM0xCaWx5ZEY3b3ljRjQ5UV9IT3hnWGJTMm9jRUJhUVJEb19BY2pBLWN6eDlvZ2t0R3g2dm9UcHN4QzI1ZnJ1cnVIVEFGNEVNOGZybGVFeTZ0aVhpdjdLSVduSUUtNU5ZaWRtek1oY3BlY3ltRVpLRTRIX29lbHJINDZCMWhYd3RTVkZ1dF93ZnJKbmtRclVlMlRndlplbjFza2Ewa1VlcmdrVUxQaHM0SmxzZ194LUZ1MThEUWtCYlJrMnl0aEk3d2NEbDBid2FkNjNtT3BLa9IBgAJBVV95cUxNNXNqQ2NFZUkzZVRoQlhITGdNbnZ6OVRCQXNZR05uSm1kT0FCWFVaUmx3SUxYTnVNZTVsNEtRRXY5VFRrbklIbHN5aWFDblNDRzE0VzIwZWlJZmJsRnFvTlRzSHZ2V3pCNEEyeTRqS3JBa1RCbE9fQ292MkczWXROZkVRanRFOUh0eU1JY2VuU0swbkFEaEpVTEs2eXBuOEY4SzVjcGpUQlY2MEJVS2xMUzlPUVRTN1NXa3lZTFNOQXJwQ2x3VzBaYjBEUG1sejdCdHloVnJKdkJVT24yd21odUozU2k3cFVMRXBJUjNNSFdzMUVNVzdYbkl0Smt4UVlj?oc=5
-
-- What if the A.I. Stock Market Rally Is Just Getting Started? - The New York Times
-  The New York Times asks if the A.I. stock
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGxPMjg4Y296Qy02c3ZuT21hMTZHZmFwT25jbkYyR3ZmTEl2QVowV3BvczU2dXhZNFdZLVhHMFo1dFRHZXJrUTM5d1lRSFBDR0I3WWN4WXFCT1NKODFkYkhjWkZ1dVFvb185MTR6ZExVTHZzVHFrLVZtb3ltVEtFLQ?oc=5
-
-- US Stock Futures Slip Before Warsh, Bonds Steady: Markets Wrap - Bloomberg.com
-  US Stock Futures Slip Before Warsh
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXF1NHQ0LWhMdzBlazhSMUtBNFVrd1ExVGZwVFpoLUxSMnpaaXpYTGpaOEhXNEVxZjRXM2ZNVm5TNm9LdmZRaFlMbWphMW1pcnJrWHRPbGRmaHpmUVNLQXFVWVJVZ0xDMkZITnZFc1BhdTlQU3oxclc2UXdIbVV5RUVCUTZUZzNHWFl6R2JfaDVOWmJW?oc=5
-
-- S&P 500 falls Friday after Fed’s Warsh highlights inflation worries, but index posts positive week - CNBC
-  P 500 falls Friday after Fed’s Warsh highlights inflation
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9rNFZvcEhsdFdNUWJGaHNfck9XLWRYbTZoeURzSjQ2MTdCbVVsaXBKei1IUEx3VmsyNjRPaFVYaU5udmtxUzB0QmlCbWVZcUk3QlF5OWhOdGdnb3ZzTGl0UjE3Q2p4ZlZaRk5vdGZ2R0I4SGEtT2VN0gF8QVVfeXFMTWxKRVZ3YVptQm9SMGdOMUxkQXAxY1J2NkQyTXBWTi1SNHlqRlVmTi11V2lVYTJ3UFVxU3NQTzZFTFNkb1RoNjktSy1CQmhjN2w3d3NkWk1CdG5vZkJjZGo1R1lNYjgxZ1VGUlFfSTJMY1ZJc0NIZ0NjR29JUg?oc=5
-
-- Markets Brace for Possible Rate Hike After Kevin Warsh’s Hawkish Turn - WSJ
-  Markets Brace for Possible Rate Hike
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQd21XY0p2U19xZjhVVUdnMUNXUHpJT0c5bGxHdzRGaVpBckhWSmtRRENmaWVKZDVzY0J0VllrWDFmOC1NMXhlMnQ4bEEwZG1SeHczVWhfMC1sZGRUMjBPeVU5ZWZBdW1yMTZpa1NsUy1Ra2lBUEwwMHJyYXRHRThha2ZvQXF2d2pNME9KY3BCRTRFZkVPZjJzUHM3Rng0ZXZJYTBDalVtTDRTZDVxcldtSEdlRUo0dw?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  Strong gains in heavyweight IT stocks lifting the Sensex and Nifty. Analysts expect range-bound trading amid mixed global cues and geopolitical tensions. Nifty faces resistance near 24,200 and support
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133628353.cms
 
 - Former BJP MP Kirit Somaiya seeks SEBI probe into sharp Sensex swing during CAS
   Former BJP MP Kirit Somaiya has urged SEBI to investigate the sharp swings in the Sensex during the Closing Auction Session on August 27. He questioned whether the new CAS mechanism, introduced on August 3, has weaknesses related to
@@ -136,29 +100,25 @@
   Among BSE large-cap stocks, several companies are currently projected to deliver strong gains over the
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-largecap-stocks-with-up-to-40-upside-potential-do-you-own-any/slideshow/133626995.cms
 
-- Nifty mega caps are going nowhere. Why Samco CIO Umesh Mehta put 75% of his Flexicap fund beyond largecaps
-  Mutual Fund CIO Umesh Mehta says Nifty mega caps may remain subdued. institutional ownership limits fresh buying and earnings momentum shifts towards mid- and small-cap stocks. Samco Flexicap Fund has allocated 70–
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-mega-caps-are-going-nowhere-why-samco-cio-umesh-mehta-put-75-of-his-flexicap-fund-beyond-largecaps/articleshow/133626322.cms
-
 - "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMG
+  "Exceptionally Generous": Nepal On
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
+
+- 68 tonnes of aid across 4 flights: PM Modi's love for Nepal reflected in swift relief efforts | India News - Hindustan Times
+  68 tonnes of aid across 4 flights: PM Modi's love for Nepal reflected in swift relief efforts
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR3pQc0tmMTdCajg3UmdnV2NiR0NRYUI0YXprSHE2aDJ0RFFZWS10TTlzcHExNVZ1QVNKSl80OHVfOWZSVTBKc0tWbE9nMTdzSVM3RktMeVlkSVFtcEJfRVppVzRtWXZyT2t0dWVsZ3RLV29aNS1XNFJuTENla3BzLUM3SEstWGpDTVlsQ01yUU83czVJZVRIeWhwUVhEVGNPYW5zZG80NU1WVjRTNjhkZjNGVnpSQ0JrNllvNEh6Zlljb05Fd09JOXFzeko3aVVaQWJ3bUpYenRQMnJJX3g4dXZqQ3JSNGtnY08yRV93VjM2OEJ3dzd3WV9wX2ttc0NtV3o1Y3ZORV_SAY4CQVVfeXFMTlZWVFJYM2RnM3RpY2ZNV1JLWHlRLWpvS1BCdWYyMHpMb0dPR05IWGJhUE1tV3R5eXg5WTU5REpXM1NzcWVyRlFmMGQ3bS1wRnc5ME42MGRfQk1RbWFiMXBxSF9GWFp3ZXFGYTRHMUhGTmNsbklONlUxeERVUkZqaHI3aHVEeHRYd01wNXpoXzMya3g3WXFqdWhDSXNHZndMdFJ3cktHQklDbFphLWFPQWJPTmkxendoT3JtcEJsSm4xUHl3d1F2b3V5UGtud0hZWkpoSzZyR3VfRTdSVXhIT1dCa0p4RWlTcUp4SUNsb3FNalpxTlZJUVZ2ZnJzbzYtMVlib3NjOFJjRUEzVWRn?oc=5
+
+- Nepal flash floods LIVE: Death toll reaches 781; rescuers drill through debris towards trapped tunnel workers - The Hindu
+  Nepal flash floods LIVE: Death toll reaches 781; rescuers
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQTldVQkR4M3lySE1JMmlGUU1tSXNEX1M5aGxhaFJ1UFZaWU1oaXh2NGxtSUhoNGI4MWRwMFhrenZ3ZkZ2WWJic0lrRTRpM0daVHFhSkROOUZhbnMwMDBsRWphb2RYNDEtWm1uR2VlRkhISlRSdHI3VFg3NEJGcGh6S3VVVEdlSWpxRGVTa3Y1Z0p6cl9FR3lzTnhDX1Bfb0ZGNC1qa3VRcXpaRWhBckxqSmRyTm5rT1NwOGxLLUozYlVkbVVKQnV3a2dTTE85UlVnc1Nfd0R2U0JndW9yeHpJQjhMUnBXUmJJbnJWNTduelJmNkRjQVhUYkFBaGY0ZF9LSWVv0gGKAkFVX3lxTFBUcDhpYzloTlVwbUt5WXBHd0p0YWxzbjQ3ZmdNZi1pUU9QbVpMcDJQbWN0VkRQcnRaU3pCNkVtQ0NTSXBSeHE0eElGWGJVOXAtaUpnQzVwSVp1LS1wdmVwYTBCN0xnbG93ZG1jQ00wdE14dEFlV0VFbngxV1ZpdW01d1NvMGl5bG9ESmNWQ3gtVDZRNTdGcnZHd2lzUlJ4N1g4b3I4OVZUb09Ray1ubzJTMUdWNXd0WHFnSXM5TkZhemhFNjF6TGFJSmg1cnJCc0VuN2dLQUhkNVBiaTc4WXVHZTMzSGRXOHJQbkhQbFFxdTI4V3pXbGJnT0oxdUx1eWVlOGhIRXZvX0l3?oc=5
 
 - 'If any Hindu thinks there should be no Muslims in India, he's not Hindu': RSS' Mohan Bhagwat in US - The Times of India
   'If any Hindu thinks there should be no Muslims in India, he's not Hindu': RSS'
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGVsaUwtNGJ5SGw2WWNoNUgyZmpacldpY3Q0WDlDSm84bkNzc0xoSFJwenAzZm9NMnNZWmhQUk53bHo5dnJzbUlEQXpwLWwzZ3otN1FmSldwa3REX1oyaEN4NUNmdzVzNEE2MW9jLVRpVkpucGtrNV9kS1NlSnZlT25DSWZsbVJEd2ZSMUV6bEtoQlZtQVI1VUpTdlg1YVh5U0dUM0V6QThuYjVWMTFyclp6YWJJRGllUXI5cDlKMHFFVURjNEgwWW16UW95Zk14bEdicmR6S2lDUmliOV9uWHBSYTNxZ3NlRmhIdXVvdWVtd1HSAfgBQVVfeXFMTy1ReVhIVEpTa2UwSmk5aG1oeW1pQmdYSVFVRU5IckkxQ1VlNlVFU2lKMHYtNVptaEZwR1hNRG9zOG0teW11TXVNdUpDcDgzb08yUS1BeVhWV2Q0SUVlUGR2dC1JWVZPX1RIUkM5MUtkUEx3RGRkTEZhZUFabXZFZVlFSUFxbUNGT3ItQ01kZm12SGFwb2QwUFFoTnViMGYzSE9CdEFkd2JIb2FiUWxMdUdRZlR2Z1BOOTdsVXpLcm1oYXdrR1ZpMlU0UHo1ME5Bc1hWa3JrUmZIWURhYktySjFMTVZ3MXVYd1V6YXVjZTc4RzJNWFU3bHM?oc=5
 
-- Highlights: In Mohan Bhagwat's Address To Indian Expats, A "Janmabhumi-Karmabhumi" Lesson - NDTV
-  Highlights: In Mohan Bhagwat
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOUm1rMGNfZXdlUTJpc3FaS3NnWTliMXpxWnAwbXZ2aVRZRC1jaHZ4T1NtdHpoRHpDcy1pTjlBeE5FbHB1aTBjR2RYWkpPeXBnMGs4b3JucEkyM1hDeHpGTWtDRzZHZmpPSWc0MThmajF1enJZVm9DZUNjRXZSUjY0YW1vYV81OVlRY09kSzA4Zl9FeW9yU0RLT185MlkyY0Vxb0VmRUJ3Z2RnSDNa?oc=5
-
-- ‘In America, behave true to America’: Mohan Bhagwat tells Indian diaspora to fulfil duty to ‘karma bhumi’ | India News - Hindustan Times
-  ‘In America, behave true to America’: Mohan Bhagwat tells Indian
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxON1d5aXZXZmVWRlA1bG1jZUpkTlZZTHhPWHN1Wl9ZaUNweThMdFloNWp6YUR6SlhwVGJRX1RRM3BUY0V2ZzU1TTljVTFlTzRIYVZDUmEtRUFxT2ZJMXFoSzhuR2w3Yk05OU4yWjAyYkdGdHk4dm1sTDZvZzU3RFNuaGJjWGN0UTR3REF5ZGFWd0dmWFFOcUNuQWltTlZLZ3J4b3NsNlc3Sk9wclBrWnNJT2pvNlZVVHI5Um5LdUoxRGJUbE00NGYxcXdNcjN3bVpxbUduZUY3S0R4VFg4SjZ3d1VYN2VoaGpFWXlFS0xoRC1wR2Q0U2U3WGwzcHExUThnMG5fUFUta9IBjAJBVV95cUxNWEplZ3IxN0p6LW1GTGlKYktORWVlZFB5YkswWjRDVXMxTVlwOXQ0cUFnYkIwd3BQX1lDSHRmMVFEV091bEwybVFDNUNXSjJTNHhMcHJOUkdkcWQwRENwNC1uZkp2Wjg5RzljS052cnpOOEw1d0k2TXk1Ym04RWkzUVg2TC11RkNNS0ZKYjBBb0dxcHdrRGttZGFCQ0txR0tVYXR6eVBxSk5TMXdwZVUzNWk2UkJ1WXhKc3hlVlE1VzJKR0hwSFBNNGJoRnAtS0p5WVl5UWwwSDFEd0h6Z3Jsalp0RHgxdjVCR3BpNDBNWkp0VUNPQXNZSDRsWHNoNFRSNU54c1BXRWl1M0Z2?oc=5
-
-- India, Uzbekistan Elevate Ties to Comprehensive Strategic Partnership, Sign MoUs Across Various Sectors - News On AIR
-  India, Uzbekistan Elevate Ties to Comprehensive Strategic Partnership,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWZkMldCNjloWGlEblBUaERTY2JaeHFnMUc5TnNjN2RfblNmTkNNN3MydVZ4MDAyWm4yaTFBM1FiM3Q4OW5mQVZPTmx4WXdVZzU1VUFnTWl2bGl2N09kLVVmaUNxbU00MmxsT0NJWWdrdDFtTWlUUkhYcS04Q1RTVkU3eFNjdTdEMTdLaDlRbmJpNVJabHQ3a1hNQnY1ak1UN2U0MWIyaDBDN1N4eFk4MmtfV25MR3BLMWVlcTJXbG9zUGtfVVE?oc=5
+- "Unity And Diversity In India's DNA": RSS Chief Mohan Bhagwat At New York Event - NDTV
+  "Unity And Diversity In India's DNA": RSS Chief Moh
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVNJaVVUNTFfMTczaVA3a1lQZGktWkw1R2tGVFRSTUdsdzdfeDVETjF0MU1qaWNxZjFqTHAwU3lYdmd3cDAzcEJlQ3hqM084TUlzSXlXVV92YWhOUVR0Y2lvbXlfZHNLLUFIcDZLVU5TYnVqV3JsZEYtWF81cmxVSWdCR0dTbXgyUU9qWXBkUUJwT2t0V0h5cWZRbHVTczJ4bE44Y0V6RG1CZkNNdFY1U2dLWGtURFHSAb8BQVVfeXFMT0I3b0Jrd281NGkyd1pKWjN6TkpxZ3ZSc3lPUnI5WkZKMmZ3bzBIQUFHdUt4c29tNXMtX3M0MzB3WFVxZjkxenBxclRyUHppUk1BVW05d0NNQ3dVV2V4aWtUN1VTRzk4UVRFWkUxZ2VIcGJwUUdORjQzenJlOE95em5FNlZPYmt6Z1JWOHZMNXVsRjBRY1BWMDljb04yZ3dvbDlfQjUyLThBLWw5NnFlblZ4UDd3cXlXUWFJdV95VTA?oc=5
 
 - Zerodha’s Diversification Clock Is Ticking
   Zerodha’s core business is no longer growing. Regulatory curbs and changing investor behaviour are cooling trading activity and squeezing brokerage.
@@ -181,44 +141,44 @@
   🔗 https://inc42.com/features/metas-18-bn-settlement-why-should-teen-safety-stop-at-the-us-border/
 
 - "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMG
+  "Exceptionally Generous": Nepal On
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
+
+- 68 tonnes of aid across 4 flights: PM Modi's love for Nepal reflected in swift relief efforts | India News - Hindustan Times
+  68 tonnes of aid across 4 flights: PM Modi's love for Nepal reflected in swift relief efforts
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR3pQc0tmMTdCajg3UmdnV2NiR0NRYUI0YXprSHE2aDJ0RFFZWS10TTlzcHExNVZ1QVNKSl80OHVfOWZSVTBKc0tWbE9nMTdzSVM3RktMeVlkSVFtcEJfRVppVzRtWXZyT2t0dWVsZ3RLV29aNS1XNFJuTENla3BzLUM3SEstWGpDTVlsQ01yUU83czVJZVRIeWhwUVhEVGNPYW5zZG80NU1WVjRTNjhkZjNGVnpSQ0JrNllvNEh6Zlljb05Fd09JOXFzeko3aVVaQWJ3bUpYenRQMnJJX3g4dXZqQ3JSNGtnY08yRV93VjM2OEJ3dzd3WV9wX2ttc0NtV3o1Y3ZORV_SAY4CQVVfeXFMTlZWVFJYM2RnM3RpY2ZNV1JLWHlRLWpvS1BCdWYyMHpMb0dPR05IWGJhUE1tV3R5eXg5WTU5REpXM1NzcWVyRlFmMGQ3bS1wRnc5ME42MGRfQk1RbWFiMXBxSF9GWFp3ZXFGYTRHMUhGTmNsbklONlUxeERVUkZqaHI3aHVEeHRYd01wNXpoXzMya3g3WXFqdWhDSXNHZndMdFJ3cktHQklDbFphLWFPQWJPTmkxendoT3JtcEJsSm4xUHl3d1F2b3V5UGtud0hZWkpoSzZyR3VfRTdSVXhIT1dCa0p4RWlTcUp4SUNsb3FNalpxTlZJUVZ2ZnJzbzYtMVlib3NjOFJjRUEzVWRn?oc=5
+
+- Nepal flash floods LIVE: Death toll reaches 781; rescuers drill through debris towards trapped tunnel workers - The Hindu
+  Nepal flash floods LIVE: Death toll reaches 781; rescuers
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQTldVQkR4M3lySE1JMmlGUU1tSXNEX1M5aGxhaFJ1UFZaWU1oaXh2NGxtSUhoNGI4MWRwMFhrenZ3ZkZ2WWJic0lrRTRpM0daVHFhSkROOUZhbnMwMDBsRWphb2RYNDEtWm1uR2VlRkhISlRSdHI3VFg3NEJGcGh6S3VVVEdlSWpxRGVTa3Y1Z0p6cl9FR3lzTnhDX1Bfb0ZGNC1qa3VRcXpaRWhBckxqSmRyTm5rT1NwOGxLLUozYlVkbVVKQnV3a2dTTE85UlVnc1Nfd0R2U0JndW9yeHpJQjhMUnBXUmJJbnJWNTduelJmNkRjQVhUYkFBaGY0ZF9LSWVv0gGKAkFVX3lxTFBUcDhpYzloTlVwbUt5WXBHd0p0YWxzbjQ3ZmdNZi1pUU9QbVpMcDJQbWN0VkRQcnRaU3pCNkVtQ0NTSXBSeHE0eElGWGJVOXAtaUpnQzVwSVp1LS1wdmVwYTBCN0xnbG93ZG1jQ00wdE14dEFlV0VFbngxV1ZpdW01d1NvMGl5bG9ESmNWQ3gtVDZRNTdGcnZHd2lzUlJ4N1g4b3I4OVZUb09Ray1ubzJTMUdWNXd0WHFnSXM5TkZhemhFNjF6TGFJSmg1cnJCc0VuN2dLQUhkNVBiaTc4WXVHZTMzSGRXOHJQbkhQbFFxdTI4V3pXbGJnT0oxdUx1eWVlOGhIRXZvX0l3?oc=5
 
 - 'If any Hindu thinks there should be no Muslims in India, he's not Hindu': RSS' Mohan Bhagwat in US - The Times of India
   'If any Hindu thinks there should be no Muslims in India, he's not Hindu': RSS'
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGVsaUwtNGJ5SGw2WWNoNUgyZmpacldpY3Q0WDlDSm84bkNzc0xoSFJwenAzZm9NMnNZWmhQUk53bHo5dnJzbUlEQXpwLWwzZ3otN1FmSldwa3REX1oyaEN4NUNmdzVzNEE2MW9jLVRpVkpucGtrNV9kS1NlSnZlT25DSWZsbVJEd2ZSMUV6bEtoQlZtQVI1VUpTdlg1YVh5U0dUM0V6QThuYjVWMTFyclp6YWJJRGllUXI5cDlKMHFFVURjNEgwWW16UW95Zk14bEdicmR6S2lDUmliOV9uWHBSYTNxZ3NlRmhIdXVvdWVtd1HSAfgBQVVfeXFMTy1ReVhIVEpTa2UwSmk5aG1oeW1pQmdYSVFVRU5IckkxQ1VlNlVFU2lKMHYtNVptaEZwR1hNRG9zOG0teW11TXVNdUpDcDgzb08yUS1BeVhWV2Q0SUVlUGR2dC1JWVZPX1RIUkM5MUtkUEx3RGRkTEZhZUFabXZFZVlFSUFxbUNGT3ItQ01kZm12SGFwb2QwUFFoTnViMGYzSE9CdEFkd2JIb2FiUWxMdUdRZlR2Z1BOOTdsVXpLcm1oYXdrR1ZpMlU0UHo1ME5Bc1hWa3JrUmZIWURhYktySjFMTVZ3MXVYd1V6YXVjZTc4RzJNWFU3bHM?oc=5
 
-- Highlights: In Mohan Bhagwat's Address To Indian Expats, A "Janmabhumi-Karmabhumi" Lesson - NDTV
-  Highlights: In Mohan Bhagwat
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOUm1rMGNfZXdlUTJpc3FaS3NnWTliMXpxWnAwbXZ2aVRZRC1jaHZ4T1NtdHpoRHpDcy1pTjlBeE5FbHB1aTBjR2RYWkpPeXBnMGs4b3JucEkyM1hDeHpGTWtDRzZHZmpPSWc0MThmajF1enJZVm9DZUNjRXZSUjY0YW1vYV81OVlRY09kSzA4Zl9FeW9yU0RLT185MlkyY0Vxb0VmRUJ3Z2RnSDNa?oc=5
-
-- ‘In America, behave true to America’: Mohan Bhagwat tells Indian diaspora to fulfil duty to ‘karma bhumi’ | India News - Hindustan Times
-  ‘In America, behave true to America’: Mohan Bhagwat tells Indian
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxON1d5aXZXZmVWRlA1bG1jZUpkTlZZTHhPWHN1Wl9ZaUNweThMdFloNWp6YUR6SlhwVGJRX1RRM3BUY0V2ZzU1TTljVTFlTzRIYVZDUmEtRUFxT2ZJMXFoSzhuR2w3Yk05OU4yWjAyYkdGdHk4dm1sTDZvZzU3RFNuaGJjWGN0UTR3REF5ZGFWd0dmWFFOcUNuQWltTlZLZ3J4b3NsNlc3Sk9wclBrWnNJT2pvNlZVVHI5Um5LdUoxRGJUbE00NGYxcXdNcjN3bVpxbUduZUY3S0R4VFg4SjZ3d1VYN2VoaGpFWXlFS0xoRC1wR2Q0U2U3WGwzcHExUThnMG5fUFUta9IBjAJBVV95cUxNWEplZ3IxN0p6LW1GTGlKYktORWVlZFB5YkswWjRDVXMxTVlwOXQ0cUFnYkIwd3BQX1lDSHRmMVFEV091bEwybVFDNUNXSjJTNHhMcHJOUkdkcWQwRENwNC1uZkp2Wjg5RzljS052cnpOOEw1d0k2TXk1Ym04RWkzUVg2TC11RkNNS0ZKYjBBb0dxcHdrRGttZGFCQ0txR0tVYXR6eVBxSk5TMXdwZVUzNWk2UkJ1WXhKc3hlVlE1VzJKR0hwSFBNNGJoRnAtS0p5WVl5UWwwSDFEd0h6Z3Jsalp0RHgxdjVCR3BpNDBNWkp0VUNPQXNZSDRsWHNoNFRSNU54c1BXRWl1M0Z2?oc=5
-
-- India, Uzbekistan Elevate Ties to Comprehensive Strategic Partnership, Sign MoUs Across Various Sectors - News On AIR
-  India, Uzbekistan Elevate Ties to Comprehensive Strategic Partnership,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWZkMldCNjloWGlEblBUaERTY2JaeHFnMUc5TnNjN2RfblNmTkNNN3MydVZ4MDAyWm4yaTFBM1FiM3Q4OW5mQVZPTmx4WXdVZzU1VUFnTWl2bGl2N09kLVVmaUNxbU00MmxsT0NJWWdrdDFtTWlUUkhYcS04Q1RTVkU3eFNjdTdEMTdLaDlRbmJpNVJabHQ3a1hNQnY1ak1UN2U0MWIyaDBDN1N4eFk4MmtfV25MR3BLMWVlcTJXbG9zUGtfVVE?oc=5
+- "Unity And Diversity In India's DNA": RSS Chief Mohan Bhagwat At New York Event - NDTV
+  "Unity And Diversity In India's DNA": RSS Chief Moh
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVNJaVVUNTFfMTczaVA3a1lQZGktWkw1R2tGVFRSTUdsdzdfeDVETjF0MU1qaWNxZjFqTHAwU3lYdmd3cDAzcEJlQ3hqM084TUlzSXlXVV92YWhOUVR0Y2lvbXlfZHNLLUFIcDZLVU5TYnVqV3JsZEYtWF81cmxVSWdCR0dTbXgyUU9qWXBkUUJwT2t0V0h5cWZRbHVTczJ4bE44Y0V6RG1CZkNNdFY1U2dLWGtURFHSAb8BQVVfeXFMT0I3b0Jrd281NGkyd1pKWjN6TkpxZ3ZSc3lPUnI5WkZKMmZ3bzBIQUFHdUt4c29tNXMtX3M0MzB3WFVxZjkxenBxclRyUHppUk1BVW05d0NNQ3dVV2V4aWtUN1VTRzk4UVRFWkUxZ2VIcGJwUUdORjQzenJlOE95em5FNlZPYmt6Z1JWOHZMNXVsRjBRY1BWMDljb04yZ3dvbDlfQjUyLThBLWw5NnFlblZ4UDd3cXlXUWFJdV95VTA?oc=5
 
 - "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMG
+  "Exceptionally Generous": Nepal On
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
+
+- 68 tonnes of aid across 4 flights: PM Modi's love for Nepal reflected in swift relief efforts | India News - Hindustan Times
+  68 tonnes of aid across 4 flights: PM Modi's love for Nepal reflected in swift relief efforts
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR3pQc0tmMTdCajg3UmdnV2NiR0NRYUI0YXprSHE2aDJ0RFFZWS10TTlzcHExNVZ1QVNKSl80OHVfOWZSVTBKc0tWbE9nMTdzSVM3RktMeVlkSVFtcEJfRVppVzRtWXZyT2t0dWVsZ3RLV29aNS1XNFJuTENla3BzLUM3SEstWGpDTVlsQ01yUU83czVJZVRIeWhwUVhEVGNPYW5zZG80NU1WVjRTNjhkZjNGVnpSQ0JrNllvNEh6Zlljb05Fd09JOXFzeko3aVVaQWJ3bUpYenRQMnJJX3g4dXZqQ3JSNGtnY08yRV93VjM2OEJ3dzd3WV9wX2ttc0NtV3o1Y3ZORV_SAY4CQVVfeXFMTlZWVFJYM2RnM3RpY2ZNV1JLWHlRLWpvS1BCdWYyMHpMb0dPR05IWGJhUE1tV3R5eXg5WTU5REpXM1NzcWVyRlFmMGQ3bS1wRnc5ME42MGRfQk1RbWFiMXBxSF9GWFp3ZXFGYTRHMUhGTmNsbklONlUxeERVUkZqaHI3aHVEeHRYd01wNXpoXzMya3g3WXFqdWhDSXNHZndMdFJ3cktHQklDbFphLWFPQWJPTmkxendoT3JtcEJsSm4xUHl3d1F2b3V5UGtud0hZWkpoSzZyR3VfRTdSVXhIT1dCa0p4RWlTcUp4SUNsb3FNalpxTlZJUVZ2ZnJzbzYtMVlib3NjOFJjRUEzVWRn?oc=5
+
+- Nepal flash floods LIVE: Death toll reaches 781; rescuers drill through debris towards trapped tunnel workers - The Hindu
+  Nepal flash floods LIVE: Death toll reaches 781; rescuers
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQTldVQkR4M3lySE1JMmlGUU1tSXNEX1M5aGxhaFJ1UFZaWU1oaXh2NGxtSUhoNGI4MWRwMFhrenZ3ZkZ2WWJic0lrRTRpM0daVHFhSkROOUZhbnMwMDBsRWphb2RYNDEtWm1uR2VlRkhISlRSdHI3VFg3NEJGcGh6S3VVVEdlSWpxRGVTa3Y1Z0p6cl9FR3lzTnhDX1Bfb0ZGNC1qa3VRcXpaRWhBckxqSmRyTm5rT1NwOGxLLUozYlVkbVVKQnV3a2dTTE85UlVnc1Nfd0R2U0JndW9yeHpJQjhMUnBXUmJJbnJWNTduelJmNkRjQVhUYkFBaGY0ZF9LSWVv0gGKAkFVX3lxTFBUcDhpYzloTlVwbUt5WXBHd0p0YWxzbjQ3ZmdNZi1pUU9QbVpMcDJQbWN0VkRQcnRaU3pCNkVtQ0NTSXBSeHE0eElGWGJVOXAtaUpnQzVwSVp1LS1wdmVwYTBCN0xnbG93ZG1jQ00wdE14dEFlV0VFbngxV1ZpdW01d1NvMGl5bG9ESmNWQ3gtVDZRNTdGcnZHd2lzUlJ4N1g4b3I4OVZUb09Ray1ubzJTMUdWNXd0WHFnSXM5TkZhemhFNjF6TGFJSmg1cnJCc0VuN2dLQUhkNVBiaTc4WXVHZTMzSGRXOHJQbkhQbFFxdTI4V3pXbGJnT0oxdUx1eWVlOGhIRXZvX0l3?oc=5
 
 - 'If any Hindu thinks there should be no Muslims in India, he's not Hindu': RSS' Mohan Bhagwat in US - The Times of India
   'If any Hindu thinks there should be no Muslims in India, he's not Hindu': RSS'
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxONGVsaUwtNGJ5SGw2WWNoNUgyZmpacldpY3Q0WDlDSm84bkNzc0xoSFJwenAzZm9NMnNZWmhQUk53bHo5dnJzbUlEQXpwLWwzZ3otN1FmSldwa3REX1oyaEN4NUNmdzVzNEE2MW9jLVRpVkpucGtrNV9kS1NlSnZlT25DSWZsbVJEd2ZSMUV6bEtoQlZtQVI1VUpTdlg1YVh5U0dUM0V6QThuYjVWMTFyclp6YWJJRGllUXI5cDlKMHFFVURjNEgwWW16UW95Zk14bEdicmR6S2lDUmliOV9uWHBSYTNxZ3NlRmhIdXVvdWVtd1HSAfgBQVVfeXFMTy1ReVhIVEpTa2UwSmk5aG1oeW1pQmdYSVFVRU5IckkxQ1VlNlVFU2lKMHYtNVptaEZwR1hNRG9zOG0teW11TXVNdUpDcDgzb08yUS1BeVhWV2Q0SUVlUGR2dC1JWVZPX1RIUkM5MUtkUEx3RGRkTEZhZUFabXZFZVlFSUFxbUNGT3ItQ01kZm12SGFwb2QwUFFoTnViMGYzSE9CdEFkd2JIb2FiUWxMdUdRZlR2Z1BOOTdsVXpLcm1oYXdrR1ZpMlU0UHo1ME5Bc1hWa3JrUmZIWURhYktySjFMTVZ3MXVYd1V6YXVjZTc4RzJNWFU3bHM?oc=5
 
-- Highlights: In Mohan Bhagwat's Address To Indian Expats, A "Janmabhumi-Karmabhumi" Lesson - NDTV
-  Highlights: In Mohan Bhagwat
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOUm1rMGNfZXdlUTJpc3FaS3NnWTliMXpxWnAwbXZ2aVRZRC1jaHZ4T1NtdHpoRHpDcy1pTjlBeE5FbHB1aTBjR2RYWkpPeXBnMGs4b3JucEkyM1hDeHpGTWtDRzZHZmpPSWc0MThmajF1enJZVm9DZUNjRXZSUjY0YW1vYV81OVlRY09kSzA4Zl9FeW9yU0RLT185MlkyY0Vxb0VmRUJ3Z2RnSDNa?oc=5
-
-- ‘In America, behave true to America’: Mohan Bhagwat tells Indian diaspora to fulfil duty to ‘karma bhumi’ | India News - Hindustan Times
-  ‘In America, behave true to America’: Mohan Bhagwat tells Indian
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxON1d5aXZXZmVWRlA1bG1jZUpkTlZZTHhPWHN1Wl9ZaUNweThMdFloNWp6YUR6SlhwVGJRX1RRM3BUY0V2ZzU1TTljVTFlTzRIYVZDUmEtRUFxT2ZJMXFoSzhuR2w3Yk05OU4yWjAyYkdGdHk4dm1sTDZvZzU3RFNuaGJjWGN0UTR3REF5ZGFWd0dmWFFOcUNuQWltTlZLZ3J4b3NsNlc3Sk9wclBrWnNJT2pvNlZVVHI5Um5LdUoxRGJUbE00NGYxcXdNcjN3bVpxbUduZUY3S0R4VFg4SjZ3d1VYN2VoaGpFWXlFS0xoRC1wR2Q0U2U3WGwzcHExUThnMG5fUFUta9IBjAJBVV95cUxNWEplZ3IxN0p6LW1GTGlKYktORWVlZFB5YkswWjRDVXMxTVlwOXQ0cUFnYkIwd3BQX1lDSHRmMVFEV091bEwybVFDNUNXSjJTNHhMcHJOUkdkcWQwRENwNC1uZkp2Wjg5RzljS052cnpOOEw1d0k2TXk1Ym04RWkzUVg2TC11RkNNS0ZKYjBBb0dxcHdrRGttZGFCQ0txR0tVYXR6eVBxSk5TMXdwZVUzNWk2UkJ1WXhKc3hlVlE1VzJKR0hwSFBNNGJoRnAtS0p5WVl5UWwwSDFEd0h6Z3Jsalp0RHgxdjVCR3BpNDBNWkp0VUNPQXNZSDRsWHNoNFRSNU54c1BXRWl1M0Z2?oc=5
-
-- India, Uzbekistan Elevate Ties to Comprehensive Strategic Partnership, Sign MoUs Across Various Sectors - News On AIR
-  India, Uzbekistan Elevate Ties to Comprehensive Strategic Partnership,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWZkMldCNjloWGlEblBUaERTY2JaeHFnMUc5TnNjN2RfblNmTkNNN3MydVZ4MDAyWm4yaTFBM1FiM3Q4OW5mQVZPTmx4WXdVZzU1VUFnTWl2bGl2N09kLVVmaUNxbU00MmxsT0NJWWdrdDFtTWlUUkhYcS04Q1RTVkU3eFNjdTdEMTdLaDlRbmJpNVJabHQ3a1hNQnY1ak1UN2U0MWIyaDBDN1N4eFk4MmtfV25MR3BLMWVlcTJXbG9zUGtfVVE?oc=5
+- "Unity And Diversity In India's DNA": RSS Chief Mohan Bhagwat At New York Event - NDTV
+  "Unity And Diversity In India's DNA": RSS Chief Moh
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVNJaVVUNTFfMTczaVA3a1lQZGktWkw1R2tGVFRSTUdsdzdfeDVETjF0MU1qaWNxZjFqTHAwU3lYdmd3cDAzcEJlQ3hqM084TUlzSXlXVV92YWhOUVR0Y2lvbXlfZHNLLUFIcDZLVU5TYnVqV3JsZEYtWF81cmxVSWdCR0dTbXgyUU9qWXBkUUJwT2t0V0h5cWZRbHVTczJ4bE44Y0V6RG1CZkNNdFY1U2dLWGtURFHSAb8BQVVfeXFMT0I3b0Jrd281NGkyd1pKWjN6TkpxZ3ZSc3lPUnI5WkZKMmZ3bzBIQUFHdUt4c29tNXMtX3M0MzB3WFVxZjkxenBxclRyUHppUk1BVW05d0NNQ3dVV2V4aWtUN1VTRzk4UVRFWkUxZ2VIcGJwUUdORjQzenJlOE95em5FNlZPYmt6Z1JWOHZMNXVsRjBRY1BWMDljb04yZ3dvbDlfQjUyLThBLWw5NnFlblZ4UDd3cXlXUWFJdV95VTA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-30 11:08:29 UTC_
+_Last updated: 2026-08-30 15:58:07 UTC_
