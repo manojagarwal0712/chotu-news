@@ -1,24 +1,48 @@
 # 📰 Daily News Summaries
 
-- "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
-  "Exceptionally Generous": Nepal On
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
+- Flash floods put focus on India's glacial lakes - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOdllDMVdyQWhEQkxQakZUWTZGdDFCb1lBU3ltYmRNMTd3ZS1YRlJGbXdTa1FJZkZhbWd0VlVSNTFyRUNYbm5WcVp5VHI4b1RUTnQxVlhvVVNLTmhULWdaek1zdEdyeE44RD
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdllDMVdyQWhEQkxQakZUWTZGdDFCb1lBU3ltYmRNMTd3ZS1YRlJGbXdTa1FJZkZhbWd0VlVSNTFyRUNYbm5WcVp5VHI4b1RUTnQxVlhvVVNLTmhULWdaek1zdEdyeE44RDlaZ0w5elJoNUxZN2JiS190UzVObnpDSk1QeGYzM3hoSW9yX194RXlPRGhzd1lMNXpTZDQ1Rldwanl2dmx6cVVkajlFVDFRSERwZC3SAboBQVVfeXFMUDU4dkFEWjNyTnAxQnNyMXZuUmZ4VW9jNVpPMjBLVmxPSHBqT1NNUWo5dGtPQWhieFRxVUJiaERVbXVKRDdaSmNfUWt1Z2U5MUNBMFBsZFpGQXBCT0xFcnktTVBYVkNjTDVGZWlTMHBzYTRFN0tMcXZmOFhwLW0xRmZrZTQtU2J5UkFkYVNKOVBDQ25nRTNNMXQ1R05uYUhJUERYbl9lN1ZMRGJBNXgxVTRCNUU2RnJOdzRn?oc=5
 
-- Pak ISI’s India spy trap: ‘Nudity’ bait on social mediato extract defence intel | India News - Hindustan Times
-  Pak ISI’s India spy trap: ‘Nudity�
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWlNMG1sUERkaWEtM0tDQ09pbnIybDNYaVZBYkxiR2lkVV9nUlpPWlpQMlNtbk5kaTNIVEhONk5fZ3lJU3dBTEF3ZDVzZm5BQU8zb2ZubTU4d21TcjFvR3B2bVE5anM3U0F5Q0xlUUpSZTVCak5yMTBjY25DNVpQQkVHSHRTOXk0eElJS0tVUjRfbVppNUN3N2VUQlNkenczQjZFb0FLanQ4eTczdGtELVFHZVhXTW5MWENvTkNtU1p2VUNxM29WaXRObkVEeTBwWEJSRVpna9IB3AFBVV95cUxOaXRITEkzam5uakpFejRyb1FkeU1YMEplbC1jNmFGTkJOcFlIOGdldnE3ZnA3dkEtdEZ3QnNHenl4dzl4MVR4RW1xUjhWVHBsQk4zaHNjRWQxbE8xQ29nV3NoeS13SnZLcnpmbllLWXpiSTRaWEFEeUtYUXFKYngyRm42d0s1Yl9Tbk1Dd241SmtiM09NY2NmRzJkYnB0eER5NnV1R2dIMV96NmNUR2RTQUJqSWUwaUJ0S0lRVmdYZUJMQVEzajZFQ0t5eWYtS1pTSWRHaG8xY2tkeFcx?oc=5
-
-- Mirwaiz backs NC MP, demand for J&K statehood, Article 370 - The Times of India
-  Mirwaiz backs NC MP, demand for J&
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY001cWhESG9vQ3R3MEVIQktHRjYxTXROUUV0WmxPVXVpMWN5ODhETDVPTWdEQUZrU1pKdTZxaHQwbmswdzZJMDN6SVpfSlp3YmlHV0FhNjYzLXZlWlJocS1Yc2VaN0tnTjNKLXpYNnlLYVZCVkVJVlg5djlaWHk3WE4wMjBFSGw5cEdIUm9fdEVUNjhFNGJjMTBTNlNWbEFUMmxNUmdMcldCQklhR3kwWkNtNGZKZjBmWUtINTlWSVrSAcYBQVVfeXFMT1laVFJkb3VVbXVfOHZIaWhmUnJYa0prcHdwLVk0MHBfWEpXbV9hTjdlM3gxaUVjQk1YNFBFdTFnaFBkVUg3ejB2YkgzM1pma0FqbXZuMXd6RTFidjI1ZVRlQlgzbWxRNlBEUEY1TWI1TzNzNHpITGlqc3hTeVExNzc5NkZjSDJ4VU9qcGg2WVpaVmZHeXo2dU1hanYzaWQ4eFY1TkEtWG5Cbk9Sa0EwNnZ1VTltMlFBMFJqV3Q2Q2pJN3RHRW5B?oc=5
+- Joe Root scripts history vs Pakistan at Lord’s, surpasses Ricky Ponting’s all-time record - The Times of India
+  Joe Root scripts history vs Pakistan at Lord’s, surpasses
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYUZTM3RvTTEtYmxWcDRkZFpHcHEzbnI5RkVMcDhfeVhKVGd6RWNXSXItTEt6WUZWc1NtaWZfTk82Q010a1cxU1c5anNYOERVME1QT2pDRkxxb0p3YnZVcDJ6djdrY3J4MjRMQnZIQTdxdlREeDhBMkRtZHZBTTQ1UkZ0MDdSNVJfM2gyeEhKaHMzSmsya3ROZ1BWekM4LUVCQWwtbDNUUTkzQXpydmdGZHlLQlZkTFYxRkN6NF9qaWtYWDBncG1LNTZKODlnaEtBMlhzcnprM04yZmh6T1ZHZ1dGZzZ5eGFMOTlXRVA1dDZUVXpjVE11YUV4M0zSAYICQVVfeXFMTk55eWdEMS1GZWNmNks3Y3ZBN3VlVEFSTVdzS1doeGpfWEcyeVRHOGxyaXVlQnd3T041ZGVNa0hRX3BseTVDbmpGQ19yQ1RVbVAtc1h3N1BPOXM1RmphUV9lSlNETGtQTjl3aTF3dUN1OHRmUTRhc0FZS0ItX0F4anl4cy01bHpXSDNCZEcwWTlwejJsdzVTNmpvR3Nqb2dXeXgwYmQ3SFllZFVjTHNiVVR4ZktoOHZvRDc4NGxPajBMc0c5UG5pY2M5Q0VvV0R2VS1ONXhNZEpxZFJLMFpROU12VFZBZ1EyTVFHWFBVZjQza1N4a19rNHhSX1Z3MlZqNXZR?oc=5
 
 - India news: PM Modi in Uzbekistan on way to SCO summit - DW.com
   PM Modi in Uzbekistan on way to SC
   🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNMngxaFU0RlBYWVlEN0ZsRG5YcmdBOXpCMkxURWhVTE1zakNYMnRTdzFic3JkQ1FPeFk0OHNNN2JwZWlrbjBqcjBrdi1Za2hER3prR3pDMmVzUHVjVXF3Wkg1cG9WWGFIUmxMQTBGWXlIR3BrYjBjbzdHZU9QbVVNVHE2SDd2cGMzcnpZTkF2bXRWMVk?oc=5
 
-- PM Modi arrives in Tashkent on a two-day visit to boost bilateral ties between India and Uzbekistan - News On AIR
-  PM Modi arrives in Tashkent on a two-day visit to boost bilateral
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZGMyTGgtUmdxdWtubnBTdHBhdEVmS0lNRHo0cWtpY3NNSTRSWHl3YWNsU18tUmtBUEtDNHdrLXBVeU4tbzR0TFVJTngxRTVueDYzX2NmUmEzb3I0VUc1SjFNS1lid29DSldhaUxsY0NjR19tZVVwYzRPQXpyV0FaLUk4ZzhMM003czBrWkhNN1ctVlpMNXJVVnB6VTFDYnZKU1IwVzBSakpWWUVCbVpvSWhoekQzV28zRzdNQ2o3MzlyVDA?oc=5
+- PM Modi’s 4-Day Central Asia Visit: Uzbekistan, Kyrgyzstan & SCO Summit | India’s Diplomatic Push - The Times of India
+  PM Modi’s 4-Day Central Asia Visit: Uzbekistan, Kyr
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdnpWc0YycklZdHg4b3RnZllWYmtLRzhmcVVTR0Z5LVlOWGxlcGg4Mm9qZGdNaGU1MzNEdkppOU5oSEhSbFJ3UlpKRVR1QmtkakxxMExfaE54NkhncmZKRm9tMGczVlpma2tSMWNwaEhGNVotcWRYQkdJQkxSVE04SWtVeml2SVN6dm5qTXRoSWRRNjlnb0lxWW9MT0w3VkR0UEVueDNDT0xMUWxORDBrbHVidUszNUpuUTl1ZlZJQzdmMXdGamxaR1c0LW9FZjZtRVZYaDU0TUFmQkc5OVBIV1ZRY0NyekphOWhOdGtXbFZULTjSAfgBQVVfeXFMTlFBd3E0UndLbnlqU2FIenNrTmlYWTBhU3RtRF96eXhtTDNRMUxEalpDeGgtUC1fdHhZNTlaVElsWm4wWkZLVVlzbVZhbFpiMk1MSnFMeW90WXItU1V6cFRwWHRZcy0tQWE4MWk1VFM4WXQ1cFBwU1R2cldCcEJtemxZLWZCM1pFM0V5TzlMUDdaLUFPVmY4ODJSWHdOS0FnckV2d29uLTJRMEYzTHg2UjlTVGtPMWs0SVlZczVXenlqNVVfSkFiZ21fdVEyM3VhektRZGR6aGZPSHBWbEF5NmNIVzdaNFpQQ3Z2U0hhRzFlbXdWLW5FeXM?oc=5
+
+- The Hindu Morning Digest: August 30, 2026 - The Hindu
+  The Hindu Morning Digest: August
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFhc0dlOTk0am93M2NQVnk4cFdsU2hRY0h1TzJTc1p0MGI1cG5OelVtaVJUUmt2X2pqYVNfVENzd0g2QWJFRW1RRHRiZV9KMzY4Vi1taVl1cS1JNGFBbnNzcGhWZU42aDlzRElUcEZzVzFZbmtYQi1WZnVhSW1mU2dBWWdZd9IBjAFBVV95cUxPY2k0RklrN3lQV1ItU054enFZSnRSYWhfazVpWGVzdFNSNmZvMldHOU5UUmF3b1dwbUlsbU9CaXRDNEc1QjdGMnQtTDJJUEs0UzhKRlhNZUpMaW1QZjZaWFJhNURpTlU4RWNUbC1wN1BDRTRwVWk5cm9weGNaaXZIX1hzeXRyM3hXU29ERg?oc=5
+
+- PIB Backgrounder - PIB
+  PIB
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE1LVldpU090WmpLZ0NEcmthY3FlTHRxZDRJdjZZMUE1SzJkMmdDUk9yZGlUZ0RJbVM2cUZsRzBQVHBhdnhSWVhiMXJhSjg4WHA0WXFaOUpvenZpVkRPTTdXTExRM3R0b2hxREZzSld5MFRzbTEzSkVzbA?oc=5
+
+- Revive dedicated minor irrigation system with modern technology: Farmers’ Commission - The Hindu
+  The Hindu has published an article on a proposed
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYXlScWdlRXV4NTJ3Z0VkSTZsT2oyT1Iwb0hNMGY0bjY0X1BLRVdkTTdPVG1pR2J4dHYwSi1fWGU0bzdlVGE5Wk94NGF3QlA0Q2djNFhjNUNSNTliSGMtMTBuejZQMmxwYkRJVnRLNDNFeGxvRDFOcGVIMVF5YWMzUUx5QzFlWk5sM21PdllwUFk3emU0S2pRM1JZYzRzV1N5dWxDaWJuRnJXcTFSU0REV2hBSFJBelkxWFVsWjZrUTVHdk1UWm1MbTQ1WFJwTWJUcFBLWE00LTg1V3QxazFSU1dSOGVBUdIB7AFBVV95cUxOMjRZdzJrd01tUmxhdWhseHg4OU40d1E3RWN0RDIwZXpnN0ZHVHhYRUR4emtxUWhQU3B5MEZ5c2FYZ29QUFc2RDZDYVZGVFJrdHZhbUVDQ05HMWhXem5GMURBbHprOUxhdDVCRGdnT0x4Wmlkek9PXzdrenFfQklXTmZsNGd1VU52TTZQcmMyeHdyTmJjcjFBWVFJR2t1SDM4N0UzQjRtR1lwMGd2Q3BfRURtNGhPb2FweDAxaXlXU2ZabXJucGprNU1RRUxFYUlRRlhNR2Zaa3lrTEJyWlI3T1J3Y2gtaFRGN0hNVg?oc=5
+
+- Apex University’s Udaan 2026 Inspires 3,000 New Students to Embrace Skills, Technology, and Opportunities for a Future-Ready India - TheWire.in
+  Apex University’s Udaan 2026 Inspires 3,000
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSXlObHNENm5jVmJLcjRSN1lhRGFMS3llN2x5REpJYXZNSHR2S0JsRkxLaUE3eVNacDJBXzZrdjdHSnR6SUM3aGxCWmZ4SmpQb3JUM2diazFJZ0dwUExJME8tcTZ2NjE5aGc0d0dld21LSmp3Mk5na0ZqWVRtOVlhdDBDLVVlczNEMlZadU9GZFpURjhnejFTV3Vjc1RpdEdwWDFVYWN0QW92Z1JkMXB6VTluaWpoejJsUGdoWkdFUC1NaHplTnVnaHZtYTVhSXBTX0JwdjRoUy1ySjB1QmpydFNtRkQ5SjRBUXpfSksyTnUxcVVOYXpNTNIB_gFBVV95cUxPQWJYekFoTkpzMWdoaWpENDhZYnl2TzE5ZWhfM2ROTUZOU3hHTFQtWFRkSDhSd0tyS0hOZEc1S29DWDUyanJkbWZhZEt6UWpON3NRZlREc3dYN21iZTlneXdJVEZMZm1mMkVmUGN4cm1mS3JjSkpPV2lXQ3NRUVE2akw1RVlrSThFMEpOTWVuV1psLU9tUmZmYWhQbWl5VnhqdXJFbVZIYjRsejg5SEpvSmQyMVdodm9xNzBlN2ROT2M2a3N6NVRoYUllc3owT2ktUUFHUUNGejNUOFpnZGN4cGZwVEtDN0c1ZjNaX2ZITTVzb2FuTXBlM3hoUmVtdw?oc=5
+
+- The Fed confronts a powerful new economic force - The Washington Post
+  The Fed confronts a powerful new economic force
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5
+
+- Rural teacher from Andhra turns technology into learning - The New Indian Express
+  Rural teacher from Andhra turns technology into
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUdPQzN0UTNIYzlBTzVILVV4M19sRjZlMXdEWndVREd6RFV3eW8xaUlLamRtUEhMLXhhZy1mZTRMRHN2YVF3VE1UR0xUZXBwTnp2d3Bhb041T1ctZzdBcklUVlJodlFCcmdNaUcxQ0h2U0NEUnA1NElzZXdqNFRxelBVdVlnXzhyU0pHOUVkQXlManBZc05jTk50TGRNZXVLWG4wWGdMYlNpQmtpU2pETNIBvgFBVV95cUxNbDJYa0U4SUFJQktfeGQ2cG9VTUpTZjRRYXlsd3FoNEZuWk84T3VtUHd2dEFBYnB5ZHduYU1DdENpcXZQdzhpN2VqWWtJSzAwcmdtVGdJZndkemVVR2RWRTNwOEE3Z2hKYjAwTlJ1dkhTNVVKczJELXd1UmctNk1xemhHbjdIdzNzUlBycnk2dk9STjJraXdrTVg2Wm1FSTJDTU9aSm4zT1hwM1c0T053dXp3UTN3UF92SzEyUUl3?oc=5
+
+- Setback for Anthropic? Sony, Warner Chappell file lawsuit against AI firm, accusing it of intellectual property theft
+  Several major music publishers, including Sony Music and Warner Chappell, have sued Anthropic. They allege Anthropic pirated works on a massive scale and are seeking damages of up to $150
+  🔗 https://www.livemint.com/companies/news/setback-for-anthropic-sony-warner-chappell-file-lawsuit-against-ai-firm-accusing-it-of-intellectual-property-theft-11788058021889.html
 
 - 'Physical safety of on-ground staff...': Why jewellery brand GIVA pulled Kriti Sanon Rakshabandhan ad, founder explains
   GIVA founder Ishendra Agarwal said the brand pulled its Kriti Sanon Rakshabandhan ad after incidents around some
@@ -36,9 +60,17 @@
   Sashidhar Jagdishan, HDFC Bank's MD &amp;amp; CEO, will retire on October 26. The bank will fast-track his
   🔗 https://www.livemint.com/companies/people/sashidhar-jagdishan-opts-out-of-reappointment-as-hdfc-bank-ceo-puts-succession-in-focus-career-timeline-11788011934897.html
 
-- Temasek views Singapore Airlines' investment in Air India with ‘long-term perspective, is supportive’ amid concerns
-  Temasek backs Singapore Airlines' investment in Air India amid challenges and reported losses. There has been some noise over Air India seeks an additional $
-  🔗 https://www.livemint.com/companies/news/temasek-views-singapore-airlines-investment-in-air-india-long-term-perspective-supportive-amid-concerns-losses-tata-sons-11788007287967.html
+- A roadmap beyond 1% RoA is key to IndusInd Bank’s turnaround
+  A year into Rajiv Anand’s tenure, the bank has repaired its balance sheet and restored loan growth. Now it must lift RoE,
+  🔗 https://www.livemint.com/market/mark-to-market/a-roadmap-beyond-1-roa-can-salvage-indusind-bank-11787891041860.html
+
+- Stocks to watch on August 31: M&amp;M, Cupid, Aurobindo Pharma, OLA, KP Green Engineering among shares in focus
+  Indian stock market investors will focus on companies like Royal Orchid Hotels and Mahindra. Despite a positive closing on August 28, indices faced a three-week losing
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-on-august-31-m-m-cupid-aurobindo-pharma-ola-kp-green-engineering-among-shares-in-focus-11787932250299.html
+
+- Day Traders Are Abandoning Korean Chip Leveraged ETFs in Droves
+  South Korea's $4.3 trillion stock market is extremely volatile. A mock trading course is being used to cool investor fervor
+  🔗 https://www.livemint.com/market/day-traders-are-abandoning-korean-chip-leveraged-etfs-in-droves-11788050286903.html
 
 - This AI stock surges over 600% YTD; delivers bigger returns than Nvidia, SanDisk, Micron and Intel
   Netlist has seen significant growth, rising over 600% in 2026 after a deal with Samsung. Strong second-quarter earnings indicate improving financial health, yet the stock
@@ -48,17 +80,9 @@
   The Indian stock market closed the week on a cautious note, extending their ongoing correction. While some of the global triggers continue this week, read on to know what are the fresh factors to
   🔗 https://www.livemint.com/market/stock-market-news/kevin-warshs-speech-to-india-q1-gdp-data-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11787998419499.html
 
-- Mukesh Ambani's RIL-backed textile stock crash 21% in just 5 days - What's behind the plunge? Explained
-  The textile stock has remained under pressure over the past five trading sessions, losing
-  🔗 https://www.livemint.com/market/stock-market-news/mukesh-ambanis-ril-backed-textile-stock-alok-industries-crash-21-in-just-5-days-whats-behind-the-plunge-11787987873047.html
-
-- Kevin Warsh Speech | Is the US Fed Chairman driving the bond markets? Explained with three reasons
-  The US Fed's shift towards tokenising bonds aims to maintain USD dominance amid rising global demand and inflation challenges
-  🔗 https://www.livemint.com/market/bonds/kevin-warsh-speech-is-the-us-fed-chairman-driving-the-bond-markets-explained-with-three-reasons-11787988182162.html
-
-- Expert view: Valuations still a concern, expect moderate returns for the rest of 2026, says Kotak Life's head of equity
-  Hemant Kanawala from Kotak Life Insurance provides insight into the Indian stock market’s complex landscape. He highlights selective value amidst high
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-valuations-still-a-concern-expect-moderate-returns-for-the-rest-of-2026-says-kotak-lifes-head-of-equity-11787984771743.html
+- How China’s AI policies avoid painful past tech crackdowns
+  China once waited for fast-growing industries to create problems before cracking down. With
+  🔗 https://www.livemint.com/technology/how-china-s-ai-policies-avoid-painful-past-tech-crackdowns-11788054929514.html
 
 - UAE regulator grants Starlink 10-year licence to provide satellite internet services
   The UAE's Telecommunications and Digital Government Regulatory Authority has granted Starlink Satellite Communications LLC a 10-year General Space Services Licence. Starlink will provide broadband satellite internet services in
@@ -76,9 +100,25 @@
   GTA 6's new gameplay video showcases Vice City, NPC interactions, a mysterious morality icon, robberies and scuba diving. The game
   🔗 https://www.livemint.com/technology/tech-news/gta-6-new-gameplay-video-reveals-major-features-ahead-of-november-launch-11787891536377.html
 
-- Lunar Eclipse 2026: Six pro tips to capture blood moon's best shots with a smartphone
-  During the ongoing partial lunar eclipse, known as a Blood Moon, smartphone users can capture stunning images by adjusting settings.
-  🔗 https://www.livemint.com/technology/lunar-eclipse-2026-six-pro-tips-to-capture-blood-moons-best-shots-with-a-smartphone-11787886310574.html
+- S&P 500 falls Friday after Fed’s Warsh highlights inflation worries, but index posts positive week - CNBC
+  P 500 falls Friday after Fed’s Warsh highlights inflation
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9rNFZvcEhsdFdNUWJGaHNfck9XLWRYbTZoeURzSjQ2MTdCbVVsaXBKei1IUEx3VmsyNjRPaFVYaU5udmtxUzB0QmlCbWVZcUk3QlF5OWhOdGdnb3ZzTGl0UjE3Q2p4ZlZaRk5vdGZ2R0I4SGEtT2VN0gF8QVVfeXFMTWxKRVZ3YVptQm9SMGdOMUxkQXAxY1J2NkQyTXBWTi1SNHlqRlVmTi11V2lVYTJ3UFVxU3NQTzZFTFNkb1RoNjktSy1CQmhjN2w3d3NkWk1CdG5vZkJjZGo1R1lNYjgxZ1VGUlFfSTJMY1ZJc0NIZ0NjR29JUg?oc=5
+
+- Markets Brace for Possible Rate Hike After Kevin Warsh’s Hawkish Turn - WSJ
+  Markets Brace for Possible Rate Hike
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQd21XY0p2U19xZjhVVUdnMUNXUHpJT0c5bGxHdzRGaVpBckhWSmtRRENmaWVKZDVzY0J0VllrWDFmOC1NMXhlMnQ4bEEwZG1SeHczVWhfMC1sZGRUMjBPeVU5ZWZBdW1yMTZpa1NsUy1Ra2lBUEwwMHJyYXRHRThha2ZvQXF2d2pNME9KY3BCRTRFZkVPZjJzUHM3Rng0ZXZJYTBDalVtTDRTZDVxcldtSEdlRUo0dw?oc=5
+
+- Markets News, Aug. 28, 2026: Indexes Close Higher for Week; Marvell Weighs on Tech Stocks; Bond Yields Rise After Warsh Speech - Investopedia
+  The Dow Jones Industrial Average closed at a record high on Monday. The S&P 500 closed
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHg4VHlNS0hmampuZjFwX05CeU05ZTNGZFVlaDZCeU9EVnhGX2x4aUdYLWFhSjVMMF9LNXowM1hmQzJRcFRVOEpUYy0xZ0JXNHlGX2ZHVXpja1p3b0FXNlJCMUcxQW5EeldMQ3dOQVNxd0RxQzNUYzdLMThIbTJGQzZ6WWJ0TVBnWlF1Rjh4V0w?oc=5
+
+- Finance Minister Highlights India’s vast market size and long term investment potential at Chicago Business Roundtable - News On AIR
+  Finance Minister Highlights India’s vast market size and long term investment potential
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDZwbnRsZXRXRm04RDhtMTZIbHdKd2h5RWN2ZFg4eWFXVlU5TmF3TXN5MFRCRC1vLUlybjVjZktJdHZ1SXRBZnhaLVRxYnFWSG5LSWFpR0NwM1JqNkVNak5wV2VZaWpySUVzY2JsV3NicUQ2UHNlQXNuTGhnMjJnSklsZGk1UTRGaXFyTDFxZzhHRE1yU0tEUWFJMzJjNXNmSmZYZHB6cHJtanRCckVKYlpR?oc=5
+
+- Guggenheim Stain Piles Onto Biggest Junk Laggard - Bloomberg.com
+  Guggenheim Stain
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVkyclRnWGFrSHZ2c1ZGbkpsOTRHOG1Cb2M1MVVrZE9WOWpXeHBrV2NuWHdGR3ZEdFVyVFMyaUVCZkttRl82MGNmQmlEQWsyLUFNTlpUVjA5TlVwNFRXamRYVEp0MEwwZFd5anU2S0tISEZNYTIxdlNocHVNb0pnb1lsdEJiYVZXZ24yYXRoTlU0T1N0MEN1WnlkUXB6bURORE9MUG9VOF9DNjEtdzh6TFdCaw?oc=5
 
 - Blackstone offers to sell up to 25% of India's Knowledge REIT for over $1 billion
   Blackstone is looking to sell a stake of up to 25.03 percent in Knowledge Realty Trust. The base price has been established at 108 rupees per unit.
@@ -100,6 +140,26 @@
   Veteran portfolio manager Paul Black’s investment framework focuses on identifying businesses with competitive advantages that strengthen over time. His three key rules emphasise widening moats, strong corporate cultures and improving returns on invested capital.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/paul-blacks-3-thumb-rules-for-identifying-great-wealth-creators/articleshow/133609700.cms
 
+- Flash floods put focus on India's glacial lakes - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOdllDMVdyQWhEQkxQakZUWTZGdDFCb1lBU3ltYmRNMTd3ZS1YRlJGbXdTa1FJZkZhbWd0VlVSNTFyRUNYbm5WcVp5VHI4b1RUTnQxVlhvVVNLTmhULWdaek1zdEdyeE44RD
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdllDMVdyQWhEQkxQakZUWTZGdDFCb1lBU3ltYmRNMTd3ZS1YRlJGbXdTa1FJZkZhbWd0VlVSNTFyRUNYbm5WcVp5VHI4b1RUTnQxVlhvVVNLTmhULWdaek1zdEdyeE44RDlaZ0w5elJoNUxZN2JiS190UzVObnpDSk1QeGYzM3hoSW9yX194RXlPRGhzd1lMNXpTZDQ1Rldwanl2dmx6cVVkajlFVDFRSERwZC3SAboBQVVfeXFMUDU4dkFEWjNyTnAxQnNyMXZuUmZ4VW9jNVpPMjBLVmxPSHBqT1NNUWo5dGtPQWhieFRxVUJiaERVbXVKRDdaSmNfUWt1Z2U5MUNBMFBsZFpGQXBCT0xFcnktTVBYVkNjTDVGZWlTMHBzYTRFN0tMcXZmOFhwLW0xRmZrZTQtU2J5UkFkYVNKOVBDQ25nRTNNMXQ1R05uYUhJUERYbl9lN1ZMRGJBNXgxVTRCNUU2RnJOdzRn?oc=5
+
+- Joe Root scripts history vs Pakistan at Lord’s, surpasses Ricky Ponting’s all-time record - The Times of India
+  Joe Root scripts history vs Pakistan at Lord’s, surpasses
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYUZTM3RvTTEtYmxWcDRkZFpHcHEzbnI5RkVMcDhfeVhKVGd6RWNXSXItTEt6WUZWc1NtaWZfTk82Q010a1cxU1c5anNYOERVME1QT2pDRkxxb0p3YnZVcDJ6djdrY3J4MjRMQnZIQTdxdlREeDhBMkRtZHZBTTQ1UkZ0MDdSNVJfM2gyeEhKaHMzSmsya3ROZ1BWekM4LUVCQWwtbDNUUTkzQXpydmdGZHlLQlZkTFYxRkN6NF9qaWtYWDBncG1LNTZKODlnaEtBMlhzcnprM04yZmh6T1ZHZ1dGZzZ5eGFMOTlXRVA1dDZUVXpjVE11YUV4M0zSAYICQVVfeXFMTk55eWdEMS1GZWNmNks3Y3ZBN3VlVEFSTVdzS1doeGpfWEcyeVRHOGxyaXVlQnd3T041ZGVNa0hRX3BseTVDbmpGQ19yQ1RVbVAtc1h3N1BPOXM1RmphUV9lSlNETGtQTjl3aTF3dUN1OHRmUTRhc0FZS0ItX0F4anl4cy01bHpXSDNCZEcwWTlwejJsdzVTNmpvR3Nqb2dXeXgwYmQ3SFllZFVjTHNiVVR4ZktoOHZvRDc4NGxPajBMc0c5UG5pY2M5Q0VvV0R2VS1ONXhNZEpxZFJLMFpROU12VFZBZ1EyTVFHWFBVZjQza1N4a19rNHhSX1Z3MlZqNXZR?oc=5
+
+- India news: PM Modi in Uzbekistan on way to SCO summit - DW.com
+  PM Modi in Uzbekistan on way to SC
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNMngxaFU0RlBYWVlEN0ZsRG5YcmdBOXpCMkxURWhVTE1zakNYMnRTdzFic3JkQ1FPeFk0OHNNN2JwZWlrbjBqcjBrdi1Za2hER3prR3pDMmVzUHVjVXF3Wkg1cG9WWGFIUmxMQTBGWXlIR3BrYjBjbzdHZU9QbVVNVHE2SDd2cGMzcnpZTkF2bXRWMVk?oc=5
+
+- PM Modi’s 4-Day Central Asia Visit: Uzbekistan, Kyrgyzstan & SCO Summit | India’s Diplomatic Push - The Times of India
+  PM Modi’s 4-Day Central Asia Visit: Uzbekistan, Kyr
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdnpWc0YycklZdHg4b3RnZllWYmtLRzhmcVVTR0Z5LVlOWGxlcGg4Mm9qZGdNaGU1MzNEdkppOU5oSEhSbFJ3UlpKRVR1QmtkakxxMExfaE54NkhncmZKRm9tMGczVlpma2tSMWNwaEhGNVotcWRYQkdJQkxSVE04SWtVeml2SVN6dm5qTXRoSWRRNjlnb0lxWW9MT0w3VkR0UEVueDNDT0xMUWxORDBrbHVidUszNUpuUTl1ZlZJQzdmMXdGamxaR1c0LW9FZjZtRVZYaDU0TUFmQkc5OVBIV1ZRY0NyekphOWhOdGtXbFZULTjSAfgBQVVfeXFMTlFBd3E0UndLbnlqU2FIenNrTmlYWTBhU3RtRF96eXhtTDNRMUxEalpDeGgtUC1fdHhZNTlaVElsWm4wWkZLVVlzbVZhbFpiMk1MSnFMeW90WXItU1V6cFRwWHRZcy0tQWE4MWk1VFM4WXQ1cFBwU1R2cldCcEJtemxZLWZCM1pFM0V5TzlMUDdaLUFPVmY4ODJSWHdOS0FnckV2d29uLTJRMEYzTHg2UjlTVGtPMWs0SVlZczVXenlqNVVfSkFiZ21fdVEyM3VhektRZGR6aGZPSHBWbEF5NmNIVzdaNFpQQ3Z2U0hhRzFlbXdWLW5FeXM?oc=5
+
+- The Hindu Morning Digest: August 30, 2026 - The Hindu
+  The Hindu Morning Digest: August
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFhc0dlOTk0am93M2NQVnk4cFdsU2hRY0h1TzJTc1p0MGI1cG5OelVtaVJUUmt2X2pqYVNfVENzd0g2QWJFRW1RRHRiZV9KMzY4Vi1taVl1cS1JNGFBbnNzcGhWZU42aDlzRElUcEZzVzFZbmtYQi1WZnVhSW1mU2dBWWdZd9IBjAFBVV95cUxPY2k0RklrN3lQV1ItU054enFZSnRSYWhfazVpWGVzdFNSNmZvMldHOU5UUmF3b1dwbUlsbU9CaXRDNEc1QjdGMnQtTDJJUEs0UzhKRlhNZUpMaW1QZjZaWFJhNURpTlU4RWNUbC1wN1BDRTRwVWk5cm9weGNaaXZIX1hzeXRyM3hXU29ERg?oc=5
+
 - FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
   The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
   🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
@@ -119,6 +179,46 @@
 - Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
   For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to a billion dollar company.
   🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
+
+- Flash floods put focus on India's glacial lakes - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOdllDMVdyQWhEQkxQakZUWTZGdDFCb1lBU3ltYmRNMTd3ZS1YRlJGbXdTa1FJZkZhbWd0VlVSNTFyRUNYbm5WcVp5VHI4b1RUTnQxVlhvVVNLTmhULWdaek1zdEdyeE44RD
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdllDMVdyQWhEQkxQakZUWTZGdDFCb1lBU3ltYmRNMTd3ZS1YRlJGbXdTa1FJZkZhbWd0VlVSNTFyRUNYbm5WcVp5VHI4b1RUTnQxVlhvVVNLTmhULWdaek1zdEdyeE44RDlaZ0w5elJoNUxZN2JiS190UzVObnpDSk1QeGYzM3hoSW9yX194RXlPRGhzd1lMNXpTZDQ1Rldwanl2dmx6cVVkajlFVDFRSERwZC3SAboBQVVfeXFMUDU4dkFEWjNyTnAxQnNyMXZuUmZ4VW9jNVpPMjBLVmxPSHBqT1NNUWo5dGtPQWhieFRxVUJiaERVbXVKRDdaSmNfUWt1Z2U5MUNBMFBsZFpGQXBCT0xFcnktTVBYVkNjTDVGZWlTMHBzYTRFN0tMcXZmOFhwLW0xRmZrZTQtU2J5UkFkYVNKOVBDQ25nRTNNMXQ1R05uYUhJUERYbl9lN1ZMRGJBNXgxVTRCNUU2RnJOdzRn?oc=5
+
+- Joe Root scripts history vs Pakistan at Lord’s, surpasses Ricky Ponting’s all-time record - The Times of India
+  Joe Root scripts history vs Pakistan at Lord’s, surpasses
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYUZTM3RvTTEtYmxWcDRkZFpHcHEzbnI5RkVMcDhfeVhKVGd6RWNXSXItTEt6WUZWc1NtaWZfTk82Q010a1cxU1c5anNYOERVME1QT2pDRkxxb0p3YnZVcDJ6djdrY3J4MjRMQnZIQTdxdlREeDhBMkRtZHZBTTQ1UkZ0MDdSNVJfM2gyeEhKaHMzSmsya3ROZ1BWekM4LUVCQWwtbDNUUTkzQXpydmdGZHlLQlZkTFYxRkN6NF9qaWtYWDBncG1LNTZKODlnaEtBMlhzcnprM04yZmh6T1ZHZ1dGZzZ5eGFMOTlXRVA1dDZUVXpjVE11YUV4M0zSAYICQVVfeXFMTk55eWdEMS1GZWNmNks3Y3ZBN3VlVEFSTVdzS1doeGpfWEcyeVRHOGxyaXVlQnd3T041ZGVNa0hRX3BseTVDbmpGQ19yQ1RVbVAtc1h3N1BPOXM1RmphUV9lSlNETGtQTjl3aTF3dUN1OHRmUTRhc0FZS0ItX0F4anl4cy01bHpXSDNCZEcwWTlwejJsdzVTNmpvR3Nqb2dXeXgwYmQ3SFllZFVjTHNiVVR4ZktoOHZvRDc4NGxPajBMc0c5UG5pY2M5Q0VvV0R2VS1ONXhNZEpxZFJLMFpROU12VFZBZ1EyTVFHWFBVZjQza1N4a19rNHhSX1Z3MlZqNXZR?oc=5
+
+- India news: PM Modi in Uzbekistan on way to SCO summit - DW.com
+  PM Modi in Uzbekistan on way to SC
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNMngxaFU0RlBYWVlEN0ZsRG5YcmdBOXpCMkxURWhVTE1zakNYMnRTdzFic3JkQ1FPeFk0OHNNN2JwZWlrbjBqcjBrdi1Za2hER3prR3pDMmVzUHVjVXF3Wkg1cG9WWGFIUmxMQTBGWXlIR3BrYjBjbzdHZU9QbVVNVHE2SDd2cGMzcnpZTkF2bXRWMVk?oc=5
+
+- PM Modi’s 4-Day Central Asia Visit: Uzbekistan, Kyrgyzstan & SCO Summit | India’s Diplomatic Push - The Times of India
+  PM Modi’s 4-Day Central Asia Visit: Uzbekistan, Kyr
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdnpWc0YycklZdHg4b3RnZllWYmtLRzhmcVVTR0Z5LVlOWGxlcGg4Mm9qZGdNaGU1MzNEdkppOU5oSEhSbFJ3UlpKRVR1QmtkakxxMExfaE54NkhncmZKRm9tMGczVlpma2tSMWNwaEhGNVotcWRYQkdJQkxSVE04SWtVeml2SVN6dm5qTXRoSWRRNjlnb0lxWW9MT0w3VkR0UEVueDNDT0xMUWxORDBrbHVidUszNUpuUTl1ZlZJQzdmMXdGamxaR1c0LW9FZjZtRVZYaDU0TUFmQkc5OVBIV1ZRY0NyekphOWhOdGtXbFZULTjSAfgBQVVfeXFMTlFBd3E0UndLbnlqU2FIenNrTmlYWTBhU3RtRF96eXhtTDNRMUxEalpDeGgtUC1fdHhZNTlaVElsWm4wWkZLVVlzbVZhbFpiMk1MSnFMeW90WXItU1V6cFRwWHRZcy0tQWE4MWk1VFM4WXQ1cFBwU1R2cldCcEJtemxZLWZCM1pFM0V5TzlMUDdaLUFPVmY4ODJSWHdOS0FnckV2d29uLTJRMEYzTHg2UjlTVGtPMWs0SVlZczVXenlqNVVfSkFiZ21fdVEyM3VhektRZGR6aGZPSHBWbEF5NmNIVzdaNFpQQ3Z2U0hhRzFlbXdWLW5FeXM?oc=5
+
+- The Hindu Morning Digest: August 30, 2026 - The Hindu
+  The Hindu Morning Digest: August
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFhc0dlOTk0am93M2NQVnk4cFdsU2hRY0h1TzJTc1p0MGI1cG5OelVtaVJUUmt2X2pqYVNfVENzd0g2QWJFRW1RRHRiZV9KMzY4Vi1taVl1cS1JNGFBbnNzcGhWZU42aDlzRElUcEZzVzFZbmtYQi1WZnVhSW1mU2dBWWdZd9IBjAFBVV95cUxPY2k0RklrN3lQV1ItU054enFZSnRSYWhfazVpWGVzdFNSNmZvMldHOU5UUmF3b1dwbUlsbU9CaXRDNEc1QjdGMnQtTDJJUEs0UzhKRlhNZUpMaW1QZjZaWFJhNURpTlU4RWNUbC1wN1BDRTRwVWk5cm9weGNaaXZIX1hzeXRyM3hXU29ERg?oc=5
+
+- Flash floods put focus on India's glacial lakes - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOdllDMVdyQWhEQkxQakZUWTZGdDFCb1lBU3ltYmRNMTd3ZS1YRlJGbXdTa1FJZkZhbWd0VlVSNTFyRUNYbm5WcVp5VHI4b1RUTnQxVlhvVVNLTmhULWdaek1zdEdyeE44RD
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOdllDMVdyQWhEQkxQakZUWTZGdDFCb1lBU3ltYmRNMTd3ZS1YRlJGbXdTa1FJZkZhbWd0VlVSNTFyRUNYbm5WcVp5VHI4b1RUTnQxVlhvVVNLTmhULWdaek1zdEdyeE44RDlaZ0w5elJoNUxZN2JiS190UzVObnpDSk1QeGYzM3hoSW9yX194RXlPRGhzd1lMNXpTZDQ1Rldwanl2dmx6cVVkajlFVDFRSERwZC3SAboBQVVfeXFMUDU4dkFEWjNyTnAxQnNyMXZuUmZ4VW9jNVpPMjBLVmxPSHBqT1NNUWo5dGtPQWhieFRxVUJiaERVbXVKRDdaSmNfUWt1Z2U5MUNBMFBsZFpGQXBCT0xFcnktTVBYVkNjTDVGZWlTMHBzYTRFN0tMcXZmOFhwLW0xRmZrZTQtU2J5UkFkYVNKOVBDQ25nRTNNMXQ1R05uYUhJUERYbl9lN1ZMRGJBNXgxVTRCNUU2RnJOdzRn?oc=5
+
+- Joe Root scripts history vs Pakistan at Lord’s, surpasses Ricky Ponting’s all-time record - The Times of India
+  Joe Root scripts history vs Pakistan at Lord’s, surpasses
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYUZTM3RvTTEtYmxWcDRkZFpHcHEzbnI5RkVMcDhfeVhKVGd6RWNXSXItTEt6WUZWc1NtaWZfTk82Q010a1cxU1c5anNYOERVME1QT2pDRkxxb0p3YnZVcDJ6djdrY3J4MjRMQnZIQTdxdlREeDhBMkRtZHZBTTQ1UkZ0MDdSNVJfM2gyeEhKaHMzSmsya3ROZ1BWekM4LUVCQWwtbDNUUTkzQXpydmdGZHlLQlZkTFYxRkN6NF9qaWtYWDBncG1LNTZKODlnaEtBMlhzcnprM04yZmh6T1ZHZ1dGZzZ5eGFMOTlXRVA1dDZUVXpjVE11YUV4M0zSAYICQVVfeXFMTk55eWdEMS1GZWNmNks3Y3ZBN3VlVEFSTVdzS1doeGpfWEcyeVRHOGxyaXVlQnd3T041ZGVNa0hRX3BseTVDbmpGQ19yQ1RVbVAtc1h3N1BPOXM1RmphUV9lSlNETGtQTjl3aTF3dUN1OHRmUTRhc0FZS0ItX0F4anl4cy01bHpXSDNCZEcwWTlwejJsdzVTNmpvR3Nqb2dXeXgwYmQ3SFllZFVjTHNiVVR4ZktoOHZvRDc4NGxPajBMc0c5UG5pY2M5Q0VvV0R2VS1ONXhNZEpxZFJLMFpROU12VFZBZ1EyTVFHWFBVZjQza1N4a19rNHhSX1Z3MlZqNXZR?oc=5
+
+- India news: PM Modi in Uzbekistan on way to SCO summit - DW.com
+  PM Modi in Uzbekistan on way to SC
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNMngxaFU0RlBYWVlEN0ZsRG5YcmdBOXpCMkxURWhVTE1zakNYMnRTdzFic3JkQ1FPeFk0OHNNN2JwZWlrbjBqcjBrdi1Za2hER3prR3pDMmVzUHVjVXF3Wkg1cG9WWGFIUmxMQTBGWXlIR3BrYjBjbzdHZU9QbVVNVHE2SDd2cGMzcnpZTkF2bXRWMVk?oc=5
+
+- PM Modi’s 4-Day Central Asia Visit: Uzbekistan, Kyrgyzstan & SCO Summit | India’s Diplomatic Push - The Times of India
+  PM Modi’s 4-Day Central Asia Visit: Uzbekistan, Kyr
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdnpWc0YycklZdHg4b3RnZllWYmtLRzhmcVVTR0Z5LVlOWGxlcGg4Mm9qZGdNaGU1MzNEdkppOU5oSEhSbFJ3UlpKRVR1QmtkakxxMExfaE54NkhncmZKRm9tMGczVlpma2tSMWNwaEhGNVotcWRYQkdJQkxSVE04SWtVeml2SVN6dm5qTXRoSWRRNjlnb0lxWW9MT0w3VkR0UEVueDNDT0xMUWxORDBrbHVidUszNUpuUTl1ZlZJQzdmMXdGamxaR1c0LW9FZjZtRVZYaDU0TUFmQkc5OVBIV1ZRY0NyekphOWhOdGtXbFZULTjSAfgBQVVfeXFMTlFBd3E0UndLbnlqU2FIenNrTmlYWTBhU3RtRF96eXhtTDNRMUxEalpDeGgtUC1fdHhZNTlaVElsWm4wWkZLVVlzbVZhbFpiMk1MSnFMeW90WXItU1V6cFRwWHRZcy0tQWE4MWk1VFM4WXQ1cFBwU1R2cldCcEJtemxZLWZCM1pFM0V5TzlMUDdaLUFPVmY4ODJSWHdOS0FnckV2d29uLTJRMEYzTHg2UjlTVGtPMWs0SVlZczVXenlqNVVfSkFiZ21fdVEyM3VhektRZGR6aGZPSHBWbEF5NmNIVzdaNFpQQ3Z2U0hhRzFlbXdWLW5FeXM?oc=5
+
+- The Hindu Morning Digest: August 30, 2026 - The Hindu
+  The Hindu Morning Digest: August
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFhc0dlOTk0am93M2NQVnk4cFdsU2hRY0h1TzJTc1p0MGI1cG5OelVtaVJUUmt2X2pqYVNfVENzd0g2QWJFRW1RRHRiZV9KMzY4Vi1taVl1cS1JNGFBbnNzcGhWZU42aDlzRElUcEZzVzFZbmtYQi1WZnVhSW1mU2dBWWdZd9IBjAFBVV95cUxPY2k0RklrN3lQV1ItU054enFZSnRSYWhfazVpWGVzdFNSNmZvMldHOU5UUmF3b1dwbUlsbU9CaXRDNEc1QjdGMnQtTDJJUEs0UzhKRlhNZUpMaW1QZjZaWFJhNURpTlU4RWNUbC1wN1BDRTRwVWk5cm9weGNaaXZIX1hzeXRyM3hXU29ERg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -149,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-29 20:21:37 UTC_
+_Last updated: 2026-08-30 03:10:16 UTC_
