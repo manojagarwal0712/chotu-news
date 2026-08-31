@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- One India, one time: IST to become sole official time standard - Rediff
-  One India, one time: IST to become
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUtQSXRPcC1XdEZDQXJxencwX0Z4WXdIb2VjNV95QndRc1ZPQlRFQ1F6X3kwekNXUUZEUVhES1pVbHlGTjU3d0JaVzFzN3p3U1cxcFdoT1liZEdTT2YzRzVWQVBTSjBIWDM4bk1ZLWZudWRRcjVEMDhueFg1UHRhZExZVy1Tc3dKNDNQS0MwczRCZHlmMkZvTThFeFNDQkZ4V3NRems5MmgyMFct0gGvAUFVX3lxTE1iT2xDUmxRMjFBYTRSMXVYdVJWdHNMeVo4SkM3NlMzOGZEQjdLaWJHLVlyOGtRSEtrTGc2OGpGSmFqVG9ZZWpSLVpRUVVGeGVQa2E5R1ZvRzhLVkFuZkpndFRIbjdJbjd2VEVpNmctTnVUdDZtU1ZRdDBJSlE0RXFnbW9SeV9zdFZrcFQwd2FqTm13YkNoRmxJY2t4NG5vbGxQcTZnZGhPVlJkb01EM3M?oc=5
+- "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
+  "Exceptionally Generous": Nepal On
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
 
-- Indian Standard Time to become mandatory for all entities from March 2027 - The Times of India
-  Indian Standard Time to become mandatory for all entities from March 2027
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemQzNW5CQzh2a0plcjFnVUUybFJHaEh3QnFxOE8tM29DZGNmSEtfUlRIRTJHcUxucmF5QzRXY3oycTQ1azJQaUo2UXJ4NVVBMXk3ZnpOci1GeHY0NElnZ3JmbF9XZU10M003Z2NMeVhqeGNvZzBpUXVsNTdVVU5rT01ZUjV3Nmp0TDl1TXdBQkU1dnYxaC1LRzZ5RmtkbHFsUTZSa0xwY2h6VXFtQjhxamtuY0o4UXJxUkYxRHlDYkI3LXRzX0F1UGkwMnc2NkgtSHRpSHpPblXSAd4BQVVfeXFMUGNFUmQ0WjZsMXZOdFNaZUJTa1VNVlpiY2dWa0F4cW5LSnI0ZXU0eXdfdTJjblNXbFVqdXFsQVhjbkF5ejZUU3c0Wk5MSVdZRXZoblNJTG9EQkJTYXFpaVRDRy1sTG10VmpMSVd0b09qV2xPNlkwNFpQYXlhcm9wdHdmeWZUWFo2X1dnMmJraHB4YVEtdlNiMVhpV2dLakVXdUc0bmgxVERqY2xBNUs5SkR6M1VCQXpTUF9aWmliRE1URU96RC1oUE5GOUNmR2szbFVrbGtkTkJzT0xrVzhn?oc=5
+- Starting September 1, Indian airports are discontinuing immigration clearance for ... - The Times of India
+  Starting September 1, Indian airports are discontinuing immigration clearance for
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVllJeUFCbXVKRDhLYWVoMkJVR2dpVVhOSlpfUHEzSXpPa0dBQmpFUF94YmNlTzdJYmMxSkl5QjRwcno1cnBIOGUzSlhQbGwtYTIxbWg2VmVKX3F1RDJhYnZRVHFhUDI1aVAyNVVJYnpBcC1GNlUtSzFsbVNseEROMV9OaVdmY0ZiYlUwZGU0b20xTFBsMXdwTXRsdXppT2FnQ2ZOakVsTTZVQ01OUDhOOWNXYnVnV29OakFnWEFtWGdCUlIzNEFHYUoyWTJJejJyS2hRQm9odkNkNVJUaktBbE9uUi02SlNSWHZ6el9ObzNCSm9xMnVB0gH8AUFVX3lxTE5kVDVUUWEzZ24xQzVBbHN4QmZyQVcyX29hSTZNR2xKb1JiMXlqYU90SS1jR1FxQmRYMmhnak9UMERHbDRnWUJoQVRWVVBRbmg0Sld6M19MQkRtVlM5MEVZZV9EVWwtaUZhMllVMHY0SmFkRl9jVmVtVDdqTmpCanlDYkc0dGhXNURYODlzNEZsb3F4VG0zSjByelpBeVRwUFVjdzRubkFYODEwTmFyamhJOUJqUGI3SEhaNXJNcDNIX0s0Sk92YmMwVmZ0QURVTy1KbGVLMWFkSGNOei03Y2RiVkdhUnN4TW0yNEVQRURqZXI0X1dRSi1mZUNMbw?oc=5
 
-- Centre notifies rules mandating IST as single common time reference - Business Standard
-  Centre notifies rules mandating IST as
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPYzRUWXhRenN6YkJuT0JvYlhZQVN5cWxEOEt1ZURWRmFLTm4wWUhxUWU3ZF9pbjRyc2hYeUc1X2RZR3ZTVGptQUh6VE8xZ0JWV3dLczhFNG5IUG1wWWk5Uk9LeFhsTUdjVE1MTVI4dUlfY2ttVUV4Y2I3V201eUgtdExGRFFMcGVnNm11aENNbUtZZjA5VDBlM2RCZk1EUVlfak1WaUgwcEwyZVVLNFFaRXNTTnBJMUEwQnVHRVhNWFZISDNhNjJtU0E2Q07SAdIBQVVfeXFMTTNjc1hhdVhzV25yNGdITWRZSFZIdFVpeW5hczlfdUVPd3pEaUxKYjh1UUo2RUVnRmVVbHdYMDlFYUNrV28ySHRIb3dmTThTY014MV8wNnpVOFZ2emphbEtBWTJDTzNhZzItTjJucUZHN29wcEhtNlpjTUxma0JIN3piRWFNYU1MYmp3c3ZsSEtWNlFrQmhubjZpSTk5ak1SbjNVMDROT0NaR1RUMjlBeFZjXzBMTWZsQ0E5VG9HRnU4bjNLWkxmQ3IzMG51WEJ1Z1Vn?oc=5
+- 2 suspects in Haryanvi singer Ankit Baliyan's murder killed in UP Police encounter | India News - Hindustan Times
+  2 suspects in Haryanvi singer Ankit Baliyan's murder
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmdtREdjd2ZWUzI3UFBSTGVHcjgwR3dpMnAyWlhzeVFaSEJNYVRfQnNBVjRnQzFtZWVoeXRzQ3RwODBtcWVfUEstZDNHSHh6SFloZUpObm1TVGRDMVRFam1SWjRRZXotaEdpYTdTZVhwbGp1S3Q3Y3AwYTlxeGFIYTl3aUVqWi1OSHI4OWNJTWZ5QU8ya05tenRSZUo4dGZ6anhqSGFwX0w5WHJGLVdjVVhvU0h5cUpfbWtVaDRrUVJEOHE4bktoMTkxZ3Y3OGVaSEJ1Q25tczV4LVJDSV9uUmtMZlHSAeoBQVVfeXFMTXpGbzNhX2h4OVhWamV4d2UxNnNpSXFmMzBSdmhMVXQ0OG1FOThTdFB1YkM3MUZuRGR0aC1WVFIxT3lTRnFacmJUeWk0Qmxod0dYOXdWQUpCck5qX2ZCcVFSWE5lcFpsaXQ5YnVJNG14ZlVrd0VTblh3U1A4QWt6emg2aXhFVnVGa3lvRF9ONGhJUDFOWXJBUkRJaE1lR2F3N1gyaVg2OUdLcHhYVFhLODh4dmR3R1dRMHdQdWhZRjBhMkJBNzQ5d2pyaTFVbHl3V0FyUjNpYXdRUkl1VE9XN1FhdThuZzY1UU53?oc=5
 
-- 11 Indian-Origin US Citizens On Kailash Trip Missing After Nepal Floods - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXRHeTFzN0xFZC1wbzdDVklfYzczNmFtZEZCMUIwVmlJWWNEa1NBbU9BV1BIMTdXQzJVcTF5SV80bkFXNV9kbmluSVJpZzNnZkRQX3BSbmt2SG5LSUVJMDAtVDBucFoxMW
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXRHeTFzN0xFZC1wbzdDVklfYzczNmFtZEZCMUIwVmlJWWNEa1NBbU9BV1BIMTdXQzJVcTF5SV80bkFXNV9kbmluSVJpZzNnZkRQX3BSbmt2SG5LSUVJMDAtVDBucFoxMWdQa3VQc1pyVmZVcUYwUGRIRTBZVER3ak40N0N1NXlLbVV3dWJvN1YyNGgwRUdFMmlYS2x6S1NDa2RkbHpLSUhqYl8yUHltZ2hR0gG6AUFVX3lxTFBKalBwQzdwMUlOdGJoNGlUUnFRTnhUZ3VBdkVqbHVQOFB6ZEZtMTBZdjlOdjlNRm0zVmxIeU5Mc25HVm1DMzhxZ1RHbGRIOXQ4cU9wZDJtNG5LTDFEaFpyYXQ0RG5RN1RWM25ydGVKLTdRWnJjUV9CenBUV3V5NENDN0JxblJldEpqaEc0SVpZQi05aVo0OFFHaFl5anVQaDZXWlhVcEZ4eFJJY05jN0V6MDFyTE1WaGRtdw?oc=5
+- FM Nirmala Sitharaman says India likely to sustain 7% economic growth in FY 2026-27 - News On AIR
+  FM Nirmala Sitharaman says India likely to sustain 7%
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaURFcjJQLUNRVVpjb05yazFvODB2WUp2SjR3WTZZOGJ4RXVLWldOazBxQ1IteHUtRWlENTZCOHA4Wk0tX1AwSS1yalpaT2hDR1RtV1JUenlsRlpJYnl6ZzdSel9KOVpja1FFRGd1a1RTdFVfUXNjTFBja1ZUSjFHZmpsM291SFlBQVR0VXY3RnZ4aEtOSGY2RWNoaG54UEwzcE03YWZ6SEVKVDNW?oc=5
 
-- Assam Clears Rs 50,000-Crore Package For Women, Health, Roads, Schools - NDTV
-  Assam Clears Rs 50,000
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmdkWVVET0VFWW92YzFnRDcybkZjUXNXUllMQnJxYUdLNldrNDg3Q3ZvbGZRM1ZnOHo3cl9qNmJWcFZUems4aS1UWFBMTEFFbVBpUE5Eb19teW85aFUxWGI1SHdCN2lvMWpiV24zbjRUeFBURk1QTkdJaWJZZ01iUDNKTUpaejU2RER1RlhTbmJHb3A0REphVHpkX2tVSmMwcUUyRDUwX1hHaDMy0gG0AUFVX3lxTFAxSnAzTEVVOVgzcnR5ZTNQajAyeUR6cUxmcno2aERTNF9fczdvYmNPcjg3RGRwdTUyTlhjOE9Rc3pZUVVZSUNkb0gxSHl1ZGUtZlU2cE5iY19pQnJ5VFpLOUtsVkJSdEVWcVJrZUJUWVlvMkhMa2RmR2EwMXpzZE5YRkNIcEZrZ0tPWnhHb19Bb2dkTWd6bG5GdmxqcGpQdTRkcy1hMHh0bWY1cGp3RjZnRVBSRA?oc=5
+- Nepal floods latest: Officials intensifying efforts to free hundreds believed trapped in hydropower tunnels - BBC
+  Nepal floods latest: Officials intensifying efforts to free
+  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSFZyT0RfZFFQN0FVQmxaS0lNR2ZfdFhZX21LSVRaUVpRNDJBWlN5ZHRmS3l5LWFXcVExYkR4SC13ZVdOZlQwckluYW53VUI1Mzc0dTNn?oc=5
 
-- 2026 MG Hector Tomahawk EV Launched With V2H Technology: What’s So Interesting About it? - CarDekho
-  2026 MG Hector Tomahawk EV Launched With V
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQzctTkhEam54bVBTSEF5Wkp6cGdDUkhweUlTaERsUUhVaUdtREE4OW9DTVVkV000UDZpOS1qZ0JlYVpHQ2d6N21DSjRJc0Zabi1oek1rbVNzRTJKSTNMTlZpN095Ny1JUy1WSnEySjlqU3R2Z0pqVkxpYjMwSjgyNzVIbklBMXlHLVhhT3dDOHY0RXRZVi0xX0k0RmRBa0JTOS1tN3VGdEhaQ01GQXc4RjJSX3ZVYzNqd243QXdBM2tkcU10cUt1azh5dlNsV1Jw0gHYAUFVX3lxTFBZNjh6YmdVNERHZVU4M2NGYnBfWTJvNFloZUxrLTRZV0h1eU1IVEo1MC1xWFlXNmNTVjh3WGJHOTNVdVBSWVJ1MnBIdUtqdmpmTm16ampFeFNGdVdYTUVEZVJ0NlhRZ1JLX0ZlQXZHV3pKSmhzbUVPNEZCLV9CUDlSeTFnUkJ4LS1FZzVPX1ptNWlRemdKV3lNQlhkYnZhakdSVkpxOXZHNDdxS0QwZmJvSHVrVHNXeThmZVBwWFhHZExrQnZjMGZhMmp1Y01fSlI0MHBIRTdRMA?oc=5
+- Big business has shown small firms what to do – and what not to do – with AI | Gene Marks - The Guardian
+  Big business has shown small firms what to do and what not to do with AI, says Gene Marks
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBTd3ZIRk5RSmpFMEo5QXd1aG5Xb3ZlcEwtb2w5M1FvR1F5SmMtcTllaEdKZXhoRGVrT1hKZERGVHFXLXkxZ0NNSHpZQVZuS2FtRVVhUWE2azRKbWRMUTcwREF4MkR6aVFCYUdITzQ0aXY4YTduRGZz?oc=5
 
-- Rochester Institute of Technology concludes its first student innovation programme in India - The Hindu
-  Rochester Institute of Technology concludes its first student innovation
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZzROV09tUHlaZS0zYTY1OXFWUFNwdnlIUGVic0FsUTdQbjk2WUQ1M3A5N3JERXlvUzAyYnhEcUpNX3JFQW5CaG0teTlRRWZDNlZZb2RfZjVlMTBVaDFNMjNYVUlHa1lHQUZidVBKdTBfcjlickN0VXBwZy11cDd6T1FqeEVKSS02Wi0xVUYzZUZEUEZMb0YtUFhIT1NLLXBzWEtzNU9zV0d1ZTZxVVhBQmVPQUdjNkJoRHZPRXJyM1RmWHhGLTZpYkRXSm96cFpmN0lvY1pYN2jSAd8BQVVfeXFMUGstVk92R1JqWlA1eTVESHFleF9uUFl1bElFOC1UclJIcTA5bGFSOWVTbWdoYndoLUJScHBfcDFpM3pGVjBRZERiQi1DSTlMbjZXck5qY2VWRGZaM3dZc3FLQkpYNmQzRFhmY3RTSGZyZ1ZwMVlZVmhqUmJjdmtwcnN0blFYcngycVNzenRtMWlaSjhfRkUtU2d1VFJOWlBJWHVDR3VhSF9MN0xjWW1qVGd3ODU2dGVPdEpiTnpoVDJObEJ0azhZV2N4MWtsbGVhMTIxY0lNajl0Y1lZR1JnWQ?oc=5
+- Manthan Initiative Launched at AFMC Pune to Advance Medical Education and Technology - SSBCrack
+  Manthan Initiative Launched at AFMC Pune
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOdTI4a1FHbllyRDI3eGxRM09BSEVqMTdnaDJQUmhGMWREci1mUHRBdEMtTHRfSW0yQmNSS2pwZlFTNk8tSE9ETHNxbmRRNHB6bE5kSjB0ZUVONElxb0t0V0lLbm10VjVZbEZDTlcwa0xJeWVyR0lwZVNVTTFsei05bkwyOFVVRFJEc3pCSFd1b0pfN215OHJuWXRKVGx3c0N3ZGxkNGNQbXlkdFBROURITWdoTDBQM3d4YjAzTWdXNA?oc=5
 
-- Ukraine seeks U.S. investment for defence technology fund - Investing.com India
-  Ukraine seeks U.S. investment
+- Ukraine seeks U.S. investment for defence technology fund - FT - Investing.com India
+  Ukraine seeks U.S. investment for defence
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNenY5UkxtUUl2N19RcGJVYkZYdG1nckFaWTgyN0N1VmVoNUEyU0RZWldfVlhNRHdKTmJ1WlBZajVPWWxEYjMwZE9pUE1uZ0RDbkV0Y3RKc2tkdm9reGZCNXlocVduRWJnSGJLZG5idEdZQ3RNczZrVkFNMGtraVZVSm00NzRacGlYWXB0V0pSejlTdkFFWExNX3ZtRUtqZjBWN3hvSlpxZGRseEZtRUNJeElWYWNKUQ?oc=5
+
+- Meta’s Day of Reckoning - WSJ
+  
+  🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE13SWFWZkNTNExfNXVOZjIyUVdRSG5wc05yVjQ4TkRHYjlfb0hwdnRmYWRZQjVRTzY3Qm1Ub19zU0Rwb3hqcmNPcjRMN3U4MzBZZHNscWlFWkR2OXQzTEVQd2pwSGNwaU01TElZ?oc=5
 
 - Rural teacher from Andhra turns technology into learning - The New Indian Express
   Rural teacher from Andhra turns technology into
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUdPQzN0UTNIYzlBTzVILVV4M19sRjZlMXdEWndVREd6RFV3eW8xaUlLamRtUEhMLXhhZy1mZTRMRHN2YVF3VE1UR0xUZXBwTnp2d3Bhb041T1ctZzdBcklUVlJodlFCcmdNaUcxQ0h2U0NEUnA1NElzZXdqNFRxelBVdVlnXzhyU0pHOUVkQXlManBZc05jTk50TGRNZXVLWG4wWGdMYlNpQmtpU2pETNIBvgFBVV95cUxNbDJYa0U4SUFJQktfeGQ2cG9VTUpTZjRRYXlsd3FoNEZuWk84T3VtUHd2dEFBYnB5ZHduYU1DdENpcXZQdzhpN2VqWWtJSzAwcmdtVGdJZndkemVVR2RWRTNwOEE3Z2hKYjAwTlJ1dkhTNVVKczJELXd1UmctNk1xemhHbjdIdzNzUlBycnk2dk9STjJraXdrTVg2Wm1FSTJDTU9aSm4zT1hwM1c0T053dXp3UTN3UF92SzEyUUl3?oc=5
 
-- Technology must serve humanity: LG Manoj Sinha - Rising Kashmir
-  Technology must serve humanity: LG
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWVIdW9sVUFIWWNyaW9lOTNTVzRVbUtrMDlyT1Bid0ZtekRZSHRXcktLaUt5a0ozcWZBV2c4SWN5TGlLaG5xU09qS0owQ3ZoZXJ5Y2UyVHNqamstd0tzSG1qZ1dvQmpSNmJCSEV5YmVKVXdieXl4VXJpZTB5TFZXaEVsTGdUYUtDdkN0NkZnblVkSjJ2Y2k0?oc=5
+- Star Entertainment warns tough conditions to persist after annual loss
+  Star Entertainment warns tough conditions to persist after annual loss.
+  🔗 https://www.livemint.com/companies/star-entertainment-warns-tough-conditions-to-persist-after-annual-loss-11788139296179.html
 
-- 'Borrowers repaid  ₹3,803 crore of  ₹4,808 crore': Subhash Chandra shares personal guarantee details in NCLT case
-  Subhash Chandra has responded to social media posts on his NCLT insolvency case. He said borrowers repaid  ₹3,803
-  🔗 https://www.livemint.com/companies/people/borrowers-repaid-rs-3-803-crore-of-rs-4-808-crore-subhash-chandra-shares-personal-guarantee-details-in-nclt-case-11788104672184.html
+- The mother and daughter behind India’s No. 2 tractor maker bet  ₹1,250 crore on a fifth plant
+  AFE is setting up its first new tractor plant in 29 years to cater to global and local demand. TAF
+  🔗 https://www.livemint.com/companies/news/tafe-tractors-new-plant-mallika-srinivasan-lakshmi-venu-11788073689702.html
 
-- Bira 91 beer maker in more trouble? HNGIL slaps B9 Beverages with  ₹11.77 crore default notice, plans to move NCLT
-  Hindusthan National Glass and Industries has slapped the debt-ridden brewer with default notice for nearly  ₹12 crore in unpaid dues and plans to drag it to the
-  🔗 https://www.livemint.com/companies/news/bira-91-beer-maker-more-ibc-financial-trouble-hngil-slaps-b9-beverages-rs-11-77-crore-default-notice-plans-to-move-nclt-11788089651460.html
+- The quintessential insider who stepped into Puri’s big shoes is set to walk away
+  Sashidhar Jagdishan in his six years as CEO delivered a landmark merger but also a
+  🔗 https://www.livemint.com/companies/hdfc-bank-ceo-sashidhar-jagdishan-career-profile-11788077409658.html
 
-- Mukesh Ambani vs Subhash Chandra: Net worth, assets compared — what's the matter between the two tycoons? Decoded
-  Essel Group Chairman Subhash Chandra has accused Reliance-linked media of spreading misinformation against him. The controversy has also drawn attention to the contrasting net worth and
-  🔗 https://www.livemint.com/companies/people/mukesh-ambani-vs-subhash-chandra-net-worth-assets-compared-whats-the-matter-between-the-two-tycoons-decoded-11788083596214.html
+- Tata Trusts seek regulator’s nod to break deadlock in Tata Sons chair selection
+  Noel Tata has written directly to the Maharashtra charity commissioner to clear the roadblocks towards choosing the
+  🔗 https://www.livemint.com/companies/tata-trusts-noel-tata-tata-sons-new-chairman-selection-11788081659771.html
 
-- HDFC Bank weighs an insider and an outsider for new CEO
-  HDFC Bank is searching for an external candidate to align with the Reserve Bank of India's rule that requires banks
-  🔗 https://www.livemint.com/companies/news/hdfc-bank-new-ceo-sashidhar-jagdishan-kaizad-bharucha-11788088969518.html
+- US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP
+  US plans to sanction another bank in effort to clamp down on
+  🔗 https://www.livemint.com/companies/us-plans-to-sanction-another-bank-in-effort-to-clamp-down-on-iran-transactions-bessent-tells-ap-11788126897004.html
 
-- Increased scrutiny, market performance — What challenges face the next HDFC Bank CEO after Sashidhar Jagdishan's exit
-  HDFC Bank CEO Sashidhar Jagdishan has stepped down. The bank has seen a 27% stock decline this year. The next leader will have
-  🔗 https://www.livemint.com/companies/people/next-hdfc-bank-ceo-faces-challenges-increased-scrutiny-investor-confidence-stock-performance-after-sashidhar-jagdishan-11788079216055.html
+- Jio Platforms IPO: Mukesh Ambani's Reliance Group company gets SEBI nod for  ₹37,700 crore issue | Full details
+  Jio Platforms is set to launch India's largest IPO at  ₹37,700 crore. With plans to raise funds for debt
+  🔗 https://www.livemint.com/market/ipo/jio-platforms-ipo-mukesh-ambanis-reliance-group-company-gets-sebi-nod-for-37-700-crore-issue-full-details-11788143908247.html
 
-- SBI, arm to dilute up to 1% stake in NSE via public offer
-  The bank is participating in the NSE IPO and will dilute a 0.65
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-arm-to-dilute-up-to-1-stake-in-nse-via-public-offer-11788112931213.html
+- Gold Holds Biggest Drop in Over Two Months on Fed Rate-Hike Bets
+  Gold steadied after falling more than 3% on Friday as US Federal Reserve Chairman Kevin Warsh’s pledge to fight
+  🔗 https://www.livemint.com/market/gold-holds-biggest-drop-in-over-two-months-on-fed-rate-hike-bets-11788143018035.html
 
-- Wall Street Week Ahead: Jobs report, AI earnings and Tesla Cybercab in focus
-  The employment data could offer fresh clues on the health of the US labour market. It could influence
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-jobs-report-ai-earnings-and-tesla-cybercab-in-focus-11788109083108.html
+- Stock market today: Gift Nifty hints a gap-down start; eight-day trading stocks to buy on Monday, 31 August
+  Sensex and Nifty 50 expected to open lower on 31 August. Geopolitical tensions between the US and Iran may impact energy prices. Key macroeconomic events include India's GDP data and US non-farm
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-gap-down-start-eight-day-trading-stocks-to-buy-on-monday-31-august-11788140720297.html
 
-- Apple bets $60 billion on Texas supply chain: What it means for shareholders
-  Apple is stepping up efforts to strengthen its US supply chain, including a planned $60 billion investment in Texas.
-  🔗 https://www.livemint.com/market/stock-market-news/apple-bets-60-billion-on-texas-supply-chain-what-it-means-for-shareholders-11788095852655.html
+- Crude oil prices jump over 1% after US strikes Iranian island in a fresh round of attacks; Brent near $89 per barrel
+  Brent crude futures gained $1.08, or 1.23%, to $89.18 per barrel. US West
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-jump-over-1-after-us-strikes-iranian-island-in-a-fresh-round-of-attacks-brent-near-89-per-barrel-11788140345757.html
 
-- What will happen to HDFC Bank share price on Monday in the wake of management level developments?
-  HDFC Bank share price closed 1.20% higher on Friday
-  🔗 https://www.livemint.com/market/stock-market-news/what-will-happen-to-hdfc-bank-share-price-on-monday-in-the-wake-of-management-level-developments-11788086213849.html
-
-- Narayan Murthy's family, Morgan Stanley, LIC buys stake in this chemical stock | Do you own?
-  Narayan Murthy's family office, Citi Group Global Markets Singapore, LIC Mutual Fund, Morgan Stanley, Mirae
-  🔗 https://www.livemint.com/market/stock-market-news/narayan-murthys-family-morgan-stanley-lic-buys-stake-in-this-chemical-stock-do-you-own-11788077756754.html
+- Oil Climbs at Week’s Open as US Military Hits Iranian Launchers
+  Fighting in Strait of Hormuz highlights risks to flows from Middle East. Oil rose as fresh
+  🔗 https://www.livemint.com/market/oil-climbs-at-week-s-open-as-us-military-hits-iranian-launchers-11788141921048.html
 
 - Apple iPhone 18 Pro Max launch in India: Price, launch date, colours and more- what we know so far
   Apple confirmed that the company will hold its ‘Surprise and Shine’ event on September 9. It is likely to unveil the iPhone
@@ -100,65 +100,73 @@
   The UAE's Telecommunications and Digital Government Regulatory Authority has granted Starlink Satellite Communications LLC a 10-year General Space Services Licence. Starlink will provide broadband satellite internet services in
   🔗 https://www.livemint.com/technology/uae-regulator-grants-starlink-10-year-licence-to-provide-satellite-internet-services-11788013465351.html
 
-- What to Expect in Markets This Week: Dell, Several Consumer Companies to Report; August Jobs Data Due - Investopedia
-  What to Expect in Markets This Week: Dell, Several Consumer Companies to Report
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOWdHTkpybDdGY0pUSjJIYTgxeDZOU3BZQk82OHlqMFdzekIwZF9rczRsem54b1ZJOUVPSXM2N3VQTTJscnIxMjVGbmpaQzhjd2JoVElPclV6T0ZJVks1bk5rdjliUlhnRnNQNVFfSDQta2ttNzZPZ0JCSXotZk5BNTNRWGZLZ0FvQXFrM3c4RnlqcDIxaWcwa1N5UGQxLTI4Wm9PM0tMMkJXOUNjN3IxT244aHFnaEZHYmFacWxFcUhqZWNJYzltR1lZQS0xTERuZEE?oc=5
+- Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates - CNBC
+  Stock futures fall after U.S. strikes Iran; Wall Street
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5
 
-- September risks are stacking up hard and fast for world markets - Reuters
-  September risks are stacking up hard and fast for
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzFqNTRaNFlnMk1nN1JYVnNTUklVVU1JcTEtZW5OeVFwUC1OczhMY3NJcGpWQWJzMmoxQ3oxN0l0TW5wSEMtdEk4a3otcHJTSzVxdk94a3lLV0FNbXNBQTROVXltSk42ME02ZGVSb0NxNWFBTjlEU2YzX05YZXBOaXNpdEJhMnlWYWF1T1BVRFlmMkU?oc=5
+- Oil Rises on Iran Tensions, US Stock Futures Dip: Markets Wrap - Bloomberg.com
+  Oil Rises on Iran Tensions, US
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHp5RFVLYlloVHZYSUlJanNQYlFKTFYtQXBINUx0ckd2SWthVldmYmo4dWNfTGVSUEMtdzNuYjBzOXBlM2h6YktUSndONkdpT1hmelE4VFBBVkRfRkM0X01JMlVTVHliOXdTQnpHX2JhS2Y5bWZFOUVhU2hJNjRpNnFwOHVYNF83NjlsR3gybldjQjJP?oc=5
 
-- Smaller corn crop influences market - The Western Producer
-  Smaller corn crop influences
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxORkViRGVhTGNDS3lwVEFBQXVzRWJLaUwzM1ZkQzhiOVo5dW9ud3JiajJjUnlsY05xMHRiZ2xsU3FFU0c0cU8wUkRRVUxseEY0X3JjNllNYW1samRPM0NlSV9OOWdxMUd1TEE3UGNLeWlWb1MybXdRWDVRWXlRcnI1ajBkZHozYjJuMHRLWDJMaHg?oc=5
+- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Iran Hits US Bases In Jordan - NDTV
+  Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Iran
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkY0cllaQzhiTlo1RVN2YU0wRWJTRVpNZDU1WU03WW9HYXROdmtGTzlKWDk5b3RMME41ZGw0WEx2QmFSQXJFRWROb0x3TnpsN2VPWnZoOFpBU2J0VkN3TU5Ob3l3WnFxX25tUzNBSXJYTTJTeDlDTHRja05iMDB1bUxKNmkya1lJR3Bkd0ZFZmZiUFhyMHZLb0tqb2JDZW13bGxFak5jbTZRMjdqS01lUWE3NzJaUEo5TjlHLTNwTFJDMlJ2OGJ0WnctLU9FMzTSAdcBQVVfeXFMTnotY3J4TERyaHZfRzRLOTBsY2tNMHIwRV9aUHNXcVRYQmZ1ZTlYNXBkbVRrV0pxQXlNX2x1cGcwdnpidERldjhsalFyejVnbFFRNjBxYVdyQkl4ckxrYkJTQlA0ZWZaNURjWlNYZzRyVy1NVTlBUmZaWDgxdXFCN2EzaGpnNGtTWDY2OXdwNlBPdloxREtMVTd6ZUl5YUE4NEEyNkpTTUlsQUJORThRMmd1R1ZnOFVFWEJqQ2Foa1FLNGRGT1h2WkdQZ1FzQXVOb0o0SUVOLWc?oc=5
 
-- ChiniMandi predicted it, government acted: Sugar market finds stability - ChiniMandi
-  ChiniMandi predicted it,
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPQURCZDd4OHhXY0tPOUhSSnlIQzVVZnhMcy05UmtGM1E5U0xsX3dKMkluN1BudUJORlBlSDZfMXZkZXZXekVBaXhEaHpqaVNiZTZ0dDVqZUU4YkdTVUl0c1pzbnZzY2hIdXpDT1ZneWtKRlFVYzFrWmJ5VkQxQ3RqbUhSaDU4cWpaN3dvWFRXeHVKdk5rU0NiQmhMMnNyZw?oc=5
+- First Tick: Top global cues to watch in today's trade - Moneycontrol.com
+  A look at the top global cues
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWJKcUxoQUdDR2N0WmsxdXlJRTJOVWR3WnZ6bnh5UjFBVEl4OVdVaWc2T2NyUmcxRDZIMUtzMWhBV0RfVy1XeGVhckNFZEhmazJRYWd5QlpINHZnREczWUdQY1Vjckt1azlIVHZ0VHVFVnFCSEN3b21POUdJbVkxU1dkLTZfZTJQbzNwR3dUZXRzc1BYQkdDRmtMZVlJV3JRWjRFd2VEYlJaaExrUXJ4VGU1UEtudXpNRDZHWUFR0gHDAUFVX3lxTE1ZdzVaVmdzX0tSVHRCVWV0MmV0cnlwbXcwemZtdW5JRkJNYmU1ZUt3ZGpjQXNiWG1GMW9CSVhfem9kTHVQcnBvLUk2VEYwSmNoREpFZlZLVmpmMTBpT1Y1WjBRMFowZWNSWFo0RC16SXRJWFFrY09RUXA2ZkRiLVFZa3I4T1dJVklQZGlRWHAxSEk0akhDR2trbVZReHJfQUQxVzZkczljTzlpOWNxQk9PaUJtbGRCUHhmS3htTTlZTUttNA?oc=5
 
-- ‘This is an all-out war’: Inside the casino industry’s fight to stop prediction markets - CNN
-  ‘This is an all-out war’:
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2VuSmhOV0oxSzdVa2xTc0p3c2I0bDBJM19sSG1mLUM4TzRnQUxRQ2JtVDlZdDlmS0c4b0VrandrVFZ4NnFOZjI5WEpsakhvVVI2UmhVVEkzd3ZqOTF3YXhXaVZtMkF2dnFhX0cyXzBtQ3JXZE1OdjJGX3pQLWhsS2FB?oc=5
+- Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a negative start; Asian shares trade lower - The Economic Times
+  "Sensex Today" is a weekly, free-to-use, web-
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxPZ0JUcG9OSlRlOE5PV3p4bnl6c3VNcTlnMDVlVjZ2Wk5LbmlIa2Nwa2VCY2tJWDBKSjAtQmlUNnQ4aThIU0s1dmo2ZkpUTUMtbmdWcDZ2b2RkeGlTMGljcjZId3pRTThTNXpBSWRLd3YxRENocmtTQ0JlSmNZdWlSdm91WXo5d1dlTW1OZ2JjSjZqbzFIQ2otM05ZdktsQW1ybG5Nam1talZqMjhyb3d4X2dvVEp3RGZMMUlLTmxEN2Z6bnVpdlZyamhvWTQ4Ry0zQnEyTVM5SnJYYmxQSHRaRi1JM1IzclAza0cxaTFzelBOMFJRMWpPUGxNa2t5UGVzYU44NXJZRWFnbU1Zbmw2cW9Xd2NRUdIBmwJBVV95cUxQQ1NwTkFFOXJLX19jYkJobjVmLXFlWk9IZkZRMEVjVXE2QmdzdWZMaVZiZjA2eEVsd3FGd081VDlyT3JkX19PTUJrZzlFUzVGSEZ0akMyTVg5al9kalo1MGVvOGZDakpYVEFyXzJJQUZ0ajIxdmN6SFBWZWswYzJ6SzByaDMwWkY0YkEwRHJXOWpBRmNMbk44eGRmNjhZN2FPUUpHWk9saWRfdE5uZHBlUEw2QW1UbFRPcDBSS3Y3VWp0bno2Yy1FeG5xeWVEMGh4VXZfcmVlWnZWLXNwN3ZUMkpOX2dCQWJad3l4UmxFOFhKb0x0bTVYbjQ4Q05vY1doRjhqWE4xMHFVaGVKcnVUOUJyRlZyQmVWczdZ?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Strong gains in heavyweight IT stocks lifting the Sensex and Nifty. Analysts expect range-bound trading amid mixed global cues and geopolitical tensions. Nifty faces resistance near 24,200 and support
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133628353.cms
+- Purple Style Labs IPO opens today: Check GMP, key details. Should you subscribe?
+  The Rs 680-crore issue comprises entirely a fresh issue of 1.18 crore equity shares. Purple Style Labs, the parent company of luxury fashion platform Pern
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/purple-style-labs-ipo-opens-today-check-gmp-key-details-should-you-subscribe/articleshow/133639829.cms
 
-- Former BJP MP Kirit Somaiya seeks SEBI probe into sharp Sensex swing during CAS
-  Former BJP MP Kirit Somaiya has urged SEBI to investigate the sharp swings in the Sensex during the Closing Auction Session on August 27. He questioned whether the new CAS mechanism, introduced on August 3, has weaknesses related to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/former-bjp-mp-kirit-somaiya-seeks-sebi-probe-into-sharp-sensex-swing-during-cas/articleshow/133627517.cms
+- Augmont Enterprises shares to list today; 37% GMP signals strong debut
+  The Rs 825 crore IPO, priced at Rs 788 per share, comprised a fresh issue of 79 lakh shares worth Rs 620 crore and an offer for sale (OFS) of 26 lakh shares aggregating Rs 205 crore. Ahead
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/augmont-enterprises-shares-to-list-today-37-gmp-signals-strong-debut/articleshow/133639806.cms
 
-- Nifty may be in accumulation phase, says Anand James; Ather, Nazara top bets
-  Nifty’s September series begins with a cautiously positive undertone. A decisive breakout could trigger further gains, while a break below 24,000 may invite downside.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/nifty-may-be-in-accumulation-phase-says-anand-james-ather-nazara-top-bets/articleshow/133627487.cms
+- Oil Price Today (August 31): Crude oil reclaims $90 as fresh US attacks dim peace deal hopes. What are experts saying?
+  U.S. forces on Sunday struck two launchers on Iran's Larak island in the Strait of Hormuz. It was the first known American strike on the Gulf nation since late July. Iran responded by attacking two
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-31-crude-oil-reclaims-90-as-fresh-us-attacks-dim-peace-deal-hopes-what-are-experts-saying/articleshow/133639765.cms
 
-- Bullion braces for fresh swings as US jobs data, Iran tensions take centre stage: Analysts
-  September promises volatility in the commodity markets, especially after the notable decline in gold prices. Traders are set to keep a close eye on US job reports and emerging geopolitical events as they navigate market direction.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/bullion-braces-for-fresh-swings-as-us-jobs-data-iran-tensions-take-centre-stage-analysts/articleshow/133627464.cms
+- MSCI rebalancing threatens to turn ‘Messy’ in new Indian auction
+  India's new closing auction system gears up to manage an influx of billions in passive fund trades. The quarterly MSCI index rebalancing is expected to catalyze heightened trading volume.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/msci-rebalancing-threatens-to-turn-messy-in-new-indian-auction/articleshow/133639598.cms
 
-- 10 largecap stocks with up to 40% upside potential. Do you own any?
-  Among BSE large-cap stocks, several companies are currently projected to deliver strong gains over the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-largecap-stocks-with-up-to-40-upside-potential-do-you-own-any/slideshow/133626995.cms
+- Positive Breakout: These 6 stocks cross above their 200 DMAs
+  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-stocks-cross-above-their-200-dmas/slideshow/133639752.cms
 
-- One India, one time: IST to become sole official time standard - Rediff
-  One India, one time: IST to become
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUtQSXRPcC1XdEZDQXJxencwX0Z4WXdIb2VjNV95QndRc1ZPQlRFQ1F6X3kwekNXUUZEUVhES1pVbHlGTjU3d0JaVzFzN3p3U1cxcFdoT1liZEdTT2YzRzVWQVBTSjBIWDM4bk1ZLWZudWRRcjVEMDhueFg1UHRhZExZVy1Tc3dKNDNQS0MwczRCZHlmMkZvTThFeFNDQkZ4V3NRems5MmgyMFct0gGvAUFVX3lxTE1iT2xDUmxRMjFBYTRSMXVYdVJWdHNMeVo4SkM3NlMzOGZEQjdLaWJHLVlyOGtRSEtrTGc2OGpGSmFqVG9ZZWpSLVpRUVVGeGVQa2E5R1ZvRzhLVkFuZkpndFRIbjdJbjd2VEVpNmctTnVUdDZtU1ZRdDBJSlE0RXFnbW9SeV9zdFZrcFQwd2FqTm13YkNoRmxJY2t4NG5vbGxQcTZnZGhPVlJkb01EM3M?oc=5
+- "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
+  "Exceptionally Generous": Nepal On
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
 
-- Indian Standard Time to become mandatory for all entities from March 2027 - The Times of India
-  Indian Standard Time to become mandatory for all entities from March 2027
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemQzNW5CQzh2a0plcjFnVUUybFJHaEh3QnFxOE8tM29DZGNmSEtfUlRIRTJHcUxucmF5QzRXY3oycTQ1azJQaUo2UXJ4NVVBMXk3ZnpOci1GeHY0NElnZ3JmbF9XZU10M003Z2NMeVhqeGNvZzBpUXVsNTdVVU5rT01ZUjV3Nmp0TDl1TXdBQkU1dnYxaC1LRzZ5RmtkbHFsUTZSa0xwY2h6VXFtQjhxamtuY0o4UXJxUkYxRHlDYkI3LXRzX0F1UGkwMnc2NkgtSHRpSHpPblXSAd4BQVVfeXFMUGNFUmQ0WjZsMXZOdFNaZUJTa1VNVlpiY2dWa0F4cW5LSnI0ZXU0eXdfdTJjblNXbFVqdXFsQVhjbkF5ejZUU3c0Wk5MSVdZRXZoblNJTG9EQkJTYXFpaVRDRy1sTG10VmpMSVd0b09qV2xPNlkwNFpQYXlhcm9wdHdmeWZUWFo2X1dnMmJraHB4YVEtdlNiMVhpV2dLakVXdUc0bmgxVERqY2xBNUs5SkR6M1VCQXpTUF9aWmliRE1URU96RC1oUE5GOUNmR2szbFVrbGtkTkJzT0xrVzhn?oc=5
+- Starting September 1, Indian airports are discontinuing immigration clearance for ... - The Times of India
+  Starting September 1, Indian airports are discontinuing immigration clearance for
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVllJeUFCbXVKRDhLYWVoMkJVR2dpVVhOSlpfUHEzSXpPa0dBQmpFUF94YmNlTzdJYmMxSkl5QjRwcno1cnBIOGUzSlhQbGwtYTIxbWg2VmVKX3F1RDJhYnZRVHFhUDI1aVAyNVVJYnpBcC1GNlUtSzFsbVNseEROMV9OaVdmY0ZiYlUwZGU0b20xTFBsMXdwTXRsdXppT2FnQ2ZOakVsTTZVQ01OUDhOOWNXYnVnV29OakFnWEFtWGdCUlIzNEFHYUoyWTJJejJyS2hRQm9odkNkNVJUaktBbE9uUi02SlNSWHZ6el9ObzNCSm9xMnVB0gH8AUFVX3lxTE5kVDVUUWEzZ24xQzVBbHN4QmZyQVcyX29hSTZNR2xKb1JiMXlqYU90SS1jR1FxQmRYMmhnak9UMERHbDRnWUJoQVRWVVBRbmg0Sld6M19MQkRtVlM5MEVZZV9EVWwtaUZhMllVMHY0SmFkRl9jVmVtVDdqTmpCanlDYkc0dGhXNURYODlzNEZsb3F4VG0zSjByelpBeVRwUFVjdzRubkFYODEwTmFyamhJOUJqUGI3SEhaNXJNcDNIX0s0Sk92YmMwVmZ0QURVTy1KbGVLMWFkSGNOei03Y2RiVkdhUnN4TW0yNEVQRURqZXI0X1dRSi1mZUNMbw?oc=5
 
-- Centre notifies rules mandating IST as single common time reference - Business Standard
-  Centre notifies rules mandating IST as
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPYzRUWXhRenN6YkJuT0JvYlhZQVN5cWxEOEt1ZURWRmFLTm4wWUhxUWU3ZF9pbjRyc2hYeUc1X2RZR3ZTVGptQUh6VE8xZ0JWV3dLczhFNG5IUG1wWWk5Uk9LeFhsTUdjVE1MTVI4dUlfY2ttVUV4Y2I3V201eUgtdExGRFFMcGVnNm11aENNbUtZZjA5VDBlM2RCZk1EUVlfak1WaUgwcEwyZVVLNFFaRXNTTnBJMUEwQnVHRVhNWFZISDNhNjJtU0E2Q07SAdIBQVVfeXFMTTNjc1hhdVhzV25yNGdITWRZSFZIdFVpeW5hczlfdUVPd3pEaUxKYjh1UUo2RUVnRmVVbHdYMDlFYUNrV28ySHRIb3dmTThTY014MV8wNnpVOFZ2emphbEtBWTJDTzNhZzItTjJucUZHN29wcEhtNlpjTUxma0JIN3piRWFNYU1MYmp3c3ZsSEtWNlFrQmhubjZpSTk5ak1SbjNVMDROT0NaR1RUMjlBeFZjXzBMTWZsQ0E5VG9HRnU4bjNLWkxmQ3IzMG51WEJ1Z1Vn?oc=5
+- 2 suspects in Haryanvi singer Ankit Baliyan's murder killed in UP Police encounter | India News - Hindustan Times
+  2 suspects in Haryanvi singer Ankit Baliyan's murder
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmdtREdjd2ZWUzI3UFBSTGVHcjgwR3dpMnAyWlhzeVFaSEJNYVRfQnNBVjRnQzFtZWVoeXRzQ3RwODBtcWVfUEstZDNHSHh6SFloZUpObm1TVGRDMVRFam1SWjRRZXotaEdpYTdTZVhwbGp1S3Q3Y3AwYTlxeGFIYTl3aUVqWi1OSHI4OWNJTWZ5QU8ya05tenRSZUo4dGZ6anhqSGFwX0w5WHJGLVdjVVhvU0h5cUpfbWtVaDRrUVJEOHE4bktoMTkxZ3Y3OGVaSEJ1Q25tczV4LVJDSV9uUmtMZlHSAeoBQVVfeXFMTXpGbzNhX2h4OVhWamV4d2UxNnNpSXFmMzBSdmhMVXQ0OG1FOThTdFB1YkM3MUZuRGR0aC1WVFIxT3lTRnFacmJUeWk0Qmxod0dYOXdWQUpCck5qX2ZCcVFSWE5lcFpsaXQ5YnVJNG14ZlVrd0VTblh3U1A4QWt6emg2aXhFVnVGa3lvRF9ONGhJUDFOWXJBUkRJaE1lR2F3N1gyaVg2OUdLcHhYVFhLODh4dmR3R1dRMHdQdWhZRjBhMkJBNzQ5d2pyaTFVbHl3V0FyUjNpYXdRUkl1VE9XN1FhdThuZzY1UU53?oc=5
 
-- 11 Indian-Origin US Citizens On Kailash Trip Missing After Nepal Floods - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXRHeTFzN0xFZC1wbzdDVklfYzczNmFtZEZCMUIwVmlJWWNEa1NBbU9BV1BIMTdXQzJVcTF5SV80bkFXNV9kbmluSVJpZzNnZkRQX3BSbmt2SG5LSUVJMDAtVDBucFoxMW
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXRHeTFzN0xFZC1wbzdDVklfYzczNmFtZEZCMUIwVmlJWWNEa1NBbU9BV1BIMTdXQzJVcTF5SV80bkFXNV9kbmluSVJpZzNnZkRQX3BSbmt2SG5LSUVJMDAtVDBucFoxMWdQa3VQc1pyVmZVcUYwUGRIRTBZVER3ak40N0N1NXlLbVV3dWJvN1YyNGgwRUdFMmlYS2x6S1NDa2RkbHpLSUhqYl8yUHltZ2hR0gG6AUFVX3lxTFBKalBwQzdwMUlOdGJoNGlUUnFRTnhUZ3VBdkVqbHVQOFB6ZEZtMTBZdjlOdjlNRm0zVmxIeU5Mc25HVm1DMzhxZ1RHbGRIOXQ4cU9wZDJtNG5LTDFEaFpyYXQ0RG5RN1RWM25ydGVKLTdRWnJjUV9CenBUV3V5NENDN0JxblJldEpqaEc0SVpZQi05aVo0OFFHaFl5anVQaDZXWlhVcEZ4eFJJY05jN0V6MDFyTE1WaGRtdw?oc=5
+- FM Nirmala Sitharaman says India likely to sustain 7% economic growth in FY 2026-27 - News On AIR
+  FM Nirmala Sitharaman says India likely to sustain 7%
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaURFcjJQLUNRVVpjb05yazFvODB2WUp2SjR3WTZZOGJ4RXVLWldOazBxQ1IteHUtRWlENTZCOHA4Wk0tX1AwSS1yalpaT2hDR1RtV1JUenlsRlpJYnl6ZzdSel9KOVpja1FFRGd1a1RTdFVfUXNjTFBja1ZUSjFHZmpsM291SFlBQVR0VXY3RnZ4aEtOSGY2RWNoaG54UEwzcE03YWZ6SEVKVDNW?oc=5
 
-- Assam Clears Rs 50,000-Crore Package For Women, Health, Roads, Schools - NDTV
-  Assam Clears Rs 50,000
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmdkWVVET0VFWW92YzFnRDcybkZjUXNXUllMQnJxYUdLNldrNDg3Q3ZvbGZRM1ZnOHo3cl9qNmJWcFZUems4aS1UWFBMTEFFbVBpUE5Eb19teW85aFUxWGI1SHdCN2lvMWpiV24zbjRUeFBURk1QTkdJaWJZZ01iUDNKTUpaejU2RER1RlhTbmJHb3A0REphVHpkX2tVSmMwcUUyRDUwX1hHaDMy0gG0AUFVX3lxTFAxSnAzTEVVOVgzcnR5ZTNQajAyeUR6cUxmcno2aERTNF9fczdvYmNPcjg3RGRwdTUyTlhjOE9Rc3pZUVVZSUNkb0gxSHl1ZGUtZlU2cE5iY19pQnJ5VFpLOUtsVkJSdEVWcVJrZUJUWVlvMkhMa2RmR2EwMXpzZE5YRkNIcEZrZ0tPWnhHb19Bb2dkTWd6bG5GdmxqcGpQdTRkcy1hMHh0bWY1cGp3RjZnRVBSRA?oc=5
+- Nepal floods latest: Officials intensifying efforts to free hundreds believed trapped in hydropower tunnels - BBC
+  Nepal floods latest: Officials intensifying efforts to free
+  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSFZyT0RfZFFQN0FVQmxaS0lNR2ZfdFhZX21LSVRaUVpRNDJBWlN5ZHRmS3l5LWFXcVExYkR4SC13ZVdOZlQwckluYW53VUI1Mzc0dTNn?oc=5
+
+- Meta’s Double Standards, Weekly Funding Rundown & More
+  Is Meta Being Two-Faced On Child Safety? Meta has agreed to pay roughly $18 Bn to settle US lawsuits.
+  🔗 https://inc42.com/buzz/metas-double-standards-weekly-funding-rundown-more/
+
+- Purple Style Labs Asks For A Luxury Premium
+  Purple Style Labs, the parent company of luxury-fashion platform Pernia’s Pop-Up Shop (PPUS), is heading to the
+  🔗 https://inc42.com/features/purple-style-labs-asks-for-a-luxury-premium/
 
 - Indian Startup IPO Tracker 2026
   Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
@@ -172,53 +180,45 @@
   The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
   🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
 
-- Ola Electric Secures Centre’s ₹95.81 Cr Incentive Under PLI-Auto Scheme
-  Electric two-wheeler maker Ola Electric has secured a ₹95.81 Cr incentive under the government’s Production Linked Incent
-  🔗 https://inc42.com/buzz/ola-electric-secures-centres-%e2%82%b995-81-cr-incentive-under-pli-auto-scheme/
+- "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
+  "Exceptionally Generous": Nepal On
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
 
-- New-Age Tech Stocks See Mixed Week; Ather Rallies 10%, Shiprocket Falls 9%
-  Investor sentiment towards new-age tech stocks remained subdued this week. Shiprocket, LEAP&#8230; Ather Rallies 10%, Shiprocket Falls 9%.
-  🔗 https://inc42.com/buzz/new-age-tech-stocks-see-mixed-week-ather-rallies-10-shiprocket-falls-9/
+- Starting September 1, Indian airports are discontinuing immigration clearance for ... - The Times of India
+  Starting September 1, Indian airports are discontinuing immigration clearance for
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVllJeUFCbXVKRDhLYWVoMkJVR2dpVVhOSlpfUHEzSXpPa0dBQmpFUF94YmNlTzdJYmMxSkl5QjRwcno1cnBIOGUzSlhQbGwtYTIxbWg2VmVKX3F1RDJhYnZRVHFhUDI1aVAyNVVJYnpBcC1GNlUtSzFsbVNseEROMV9OaVdmY0ZiYlUwZGU0b20xTFBsMXdwTXRsdXppT2FnQ2ZOakVsTTZVQ01OUDhOOWNXYnVnV29OakFnWEFtWGdCUlIzNEFHYUoyWTJJejJyS2hRQm9odkNkNVJUaktBbE9uUi02SlNSWHZ6el9ObzNCSm9xMnVB0gH8AUFVX3lxTE5kVDVUUWEzZ24xQzVBbHN4QmZyQVcyX29hSTZNR2xKb1JiMXlqYU90SS1jR1FxQmRYMmhnak9UMERHbDRnWUJoQVRWVVBRbmg0Sld6M19MQkRtVlM5MEVZZV9EVWwtaUZhMllVMHY0SmFkRl9jVmVtVDdqTmpCanlDYkc0dGhXNURYODlzNEZsb3F4VG0zSjByelpBeVRwUFVjdzRubkFYODEwTmFyamhJOUJqUGI3SEhaNXJNcDNIX0s0Sk92YmMwVmZ0QURVTy1KbGVLMWFkSGNOei03Y2RiVkdhUnN4TW0yNEVQRURqZXI0X1dRSi1mZUNMbw?oc=5
 
-- One India, one time: IST to become sole official time standard - Rediff
-  One India, one time: IST to become
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUtQSXRPcC1XdEZDQXJxencwX0Z4WXdIb2VjNV95QndRc1ZPQlRFQ1F6X3kwekNXUUZEUVhES1pVbHlGTjU3d0JaVzFzN3p3U1cxcFdoT1liZEdTT2YzRzVWQVBTSjBIWDM4bk1ZLWZudWRRcjVEMDhueFg1UHRhZExZVy1Tc3dKNDNQS0MwczRCZHlmMkZvTThFeFNDQkZ4V3NRems5MmgyMFct0gGvAUFVX3lxTE1iT2xDUmxRMjFBYTRSMXVYdVJWdHNMeVo4SkM3NlMzOGZEQjdLaWJHLVlyOGtRSEtrTGc2OGpGSmFqVG9ZZWpSLVpRUVVGeGVQa2E5R1ZvRzhLVkFuZkpndFRIbjdJbjd2VEVpNmctTnVUdDZtU1ZRdDBJSlE0RXFnbW9SeV9zdFZrcFQwd2FqTm13YkNoRmxJY2t4NG5vbGxQcTZnZGhPVlJkb01EM3M?oc=5
+- 2 suspects in Haryanvi singer Ankit Baliyan's murder killed in UP Police encounter | India News - Hindustan Times
+  2 suspects in Haryanvi singer Ankit Baliyan's murder
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmdtREdjd2ZWUzI3UFBSTGVHcjgwR3dpMnAyWlhzeVFaSEJNYVRfQnNBVjRnQzFtZWVoeXRzQ3RwODBtcWVfUEstZDNHSHh6SFloZUpObm1TVGRDMVRFam1SWjRRZXotaEdpYTdTZVhwbGp1S3Q3Y3AwYTlxeGFIYTl3aUVqWi1OSHI4OWNJTWZ5QU8ya05tenRSZUo4dGZ6anhqSGFwX0w5WHJGLVdjVVhvU0h5cUpfbWtVaDRrUVJEOHE4bktoMTkxZ3Y3OGVaSEJ1Q25tczV4LVJDSV9uUmtMZlHSAeoBQVVfeXFMTXpGbzNhX2h4OVhWamV4d2UxNnNpSXFmMzBSdmhMVXQ0OG1FOThTdFB1YkM3MUZuRGR0aC1WVFIxT3lTRnFacmJUeWk0Qmxod0dYOXdWQUpCck5qX2ZCcVFSWE5lcFpsaXQ5YnVJNG14ZlVrd0VTblh3U1A4QWt6emg2aXhFVnVGa3lvRF9ONGhJUDFOWXJBUkRJaE1lR2F3N1gyaVg2OUdLcHhYVFhLODh4dmR3R1dRMHdQdWhZRjBhMkJBNzQ5d2pyaTFVbHl3V0FyUjNpYXdRUkl1VE9XN1FhdThuZzY1UU53?oc=5
 
-- Indian Standard Time to become mandatory for all entities from March 2027 - The Times of India
-  Indian Standard Time to become mandatory for all entities from March 2027
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemQzNW5CQzh2a0plcjFnVUUybFJHaEh3QnFxOE8tM29DZGNmSEtfUlRIRTJHcUxucmF5QzRXY3oycTQ1azJQaUo2UXJ4NVVBMXk3ZnpOci1GeHY0NElnZ3JmbF9XZU10M003Z2NMeVhqeGNvZzBpUXVsNTdVVU5rT01ZUjV3Nmp0TDl1TXdBQkU1dnYxaC1LRzZ5RmtkbHFsUTZSa0xwY2h6VXFtQjhxamtuY0o4UXJxUkYxRHlDYkI3LXRzX0F1UGkwMnc2NkgtSHRpSHpPblXSAd4BQVVfeXFMUGNFUmQ0WjZsMXZOdFNaZUJTa1VNVlpiY2dWa0F4cW5LSnI0ZXU0eXdfdTJjblNXbFVqdXFsQVhjbkF5ejZUU3c0Wk5MSVdZRXZoblNJTG9EQkJTYXFpaVRDRy1sTG10VmpMSVd0b09qV2xPNlkwNFpQYXlhcm9wdHdmeWZUWFo2X1dnMmJraHB4YVEtdlNiMVhpV2dLakVXdUc0bmgxVERqY2xBNUs5SkR6M1VCQXpTUF9aWmliRE1URU96RC1oUE5GOUNmR2szbFVrbGtkTkJzT0xrVzhn?oc=5
+- FM Nirmala Sitharaman says India likely to sustain 7% economic growth in FY 2026-27 - News On AIR
+  FM Nirmala Sitharaman says India likely to sustain 7%
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaURFcjJQLUNRVVpjb05yazFvODB2WUp2SjR3WTZZOGJ4RXVLWldOazBxQ1IteHUtRWlENTZCOHA4Wk0tX1AwSS1yalpaT2hDR1RtV1JUenlsRlpJYnl6ZzdSel9KOVpja1FFRGd1a1RTdFVfUXNjTFBja1ZUSjFHZmpsM291SFlBQVR0VXY3RnZ4aEtOSGY2RWNoaG54UEwzcE03YWZ6SEVKVDNW?oc=5
 
-- Centre notifies rules mandating IST as single common time reference - Business Standard
-  Centre notifies rules mandating IST as
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPYzRUWXhRenN6YkJuT0JvYlhZQVN5cWxEOEt1ZURWRmFLTm4wWUhxUWU3ZF9pbjRyc2hYeUc1X2RZR3ZTVGptQUh6VE8xZ0JWV3dLczhFNG5IUG1wWWk5Uk9LeFhsTUdjVE1MTVI4dUlfY2ttVUV4Y2I3V201eUgtdExGRFFMcGVnNm11aENNbUtZZjA5VDBlM2RCZk1EUVlfak1WaUgwcEwyZVVLNFFaRXNTTnBJMUEwQnVHRVhNWFZISDNhNjJtU0E2Q07SAdIBQVVfeXFMTTNjc1hhdVhzV25yNGdITWRZSFZIdFVpeW5hczlfdUVPd3pEaUxKYjh1UUo2RUVnRmVVbHdYMDlFYUNrV28ySHRIb3dmTThTY014MV8wNnpVOFZ2emphbEtBWTJDTzNhZzItTjJucUZHN29wcEhtNlpjTUxma0JIN3piRWFNYU1MYmp3c3ZsSEtWNlFrQmhubjZpSTk5ak1SbjNVMDROT0NaR1RUMjlBeFZjXzBMTWZsQ0E5VG9HRnU4bjNLWkxmQ3IzMG51WEJ1Z1Vn?oc=5
+- Nepal floods latest: Officials intensifying efforts to free hundreds believed trapped in hydropower tunnels - BBC
+  Nepal floods latest: Officials intensifying efforts to free
+  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSFZyT0RfZFFQN0FVQmxaS0lNR2ZfdFhZX21LSVRaUVpRNDJBWlN5ZHRmS3l5LWFXcVExYkR4SC13ZVdOZlQwckluYW53VUI1Mzc0dTNn?oc=5
 
-- 11 Indian-Origin US Citizens On Kailash Trip Missing After Nepal Floods - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXRHeTFzN0xFZC1wbzdDVklfYzczNmFtZEZCMUIwVmlJWWNEa1NBbU9BV1BIMTdXQzJVcTF5SV80bkFXNV9kbmluSVJpZzNnZkRQX3BSbmt2SG5LSUVJMDAtVDBucFoxMW
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXRHeTFzN0xFZC1wbzdDVklfYzczNmFtZEZCMUIwVmlJWWNEa1NBbU9BV1BIMTdXQzJVcTF5SV80bkFXNV9kbmluSVJpZzNnZkRQX3BSbmt2SG5LSUVJMDAtVDBucFoxMWdQa3VQc1pyVmZVcUYwUGRIRTBZVER3ak40N0N1NXlLbVV3dWJvN1YyNGgwRUdFMmlYS2x6S1NDa2RkbHpLSUhqYl8yUHltZ2hR0gG6AUFVX3lxTFBKalBwQzdwMUlOdGJoNGlUUnFRTnhUZ3VBdkVqbHVQOFB6ZEZtMTBZdjlOdjlNRm0zVmxIeU5Mc25HVm1DMzhxZ1RHbGRIOXQ4cU9wZDJtNG5LTDFEaFpyYXQ0RG5RN1RWM25ydGVKLTdRWnJjUV9CenBUV3V5NENDN0JxblJldEpqaEc0SVpZQi05aVo0OFFHaFl5anVQaDZXWlhVcEZ4eFJJY05jN0V6MDFyTE1WaGRtdw?oc=5
+- "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
+  "Exceptionally Generous": Nepal On
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
 
-- Assam Clears Rs 50,000-Crore Package For Women, Health, Roads, Schools - NDTV
-  Assam Clears Rs 50,000
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmdkWVVET0VFWW92YzFnRDcybkZjUXNXUllMQnJxYUdLNldrNDg3Q3ZvbGZRM1ZnOHo3cl9qNmJWcFZUems4aS1UWFBMTEFFbVBpUE5Eb19teW85aFUxWGI1SHdCN2lvMWpiV24zbjRUeFBURk1QTkdJaWJZZ01iUDNKTUpaejU2RER1RlhTbmJHb3A0REphVHpkX2tVSmMwcUUyRDUwX1hHaDMy0gG0AUFVX3lxTFAxSnAzTEVVOVgzcnR5ZTNQajAyeUR6cUxmcno2aERTNF9fczdvYmNPcjg3RGRwdTUyTlhjOE9Rc3pZUVVZSUNkb0gxSHl1ZGUtZlU2cE5iY19pQnJ5VFpLOUtsVkJSdEVWcVJrZUJUWVlvMkhMa2RmR2EwMXpzZE5YRkNIcEZrZ0tPWnhHb19Bb2dkTWd6bG5GdmxqcGpQdTRkcy1hMHh0bWY1cGp3RjZnRVBSRA?oc=5
+- Starting September 1, Indian airports are discontinuing immigration clearance for ... - The Times of India
+  Starting September 1, Indian airports are discontinuing immigration clearance for
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVllJeUFCbXVKRDhLYWVoMkJVR2dpVVhOSlpfUHEzSXpPa0dBQmpFUF94YmNlTzdJYmMxSkl5QjRwcno1cnBIOGUzSlhQbGwtYTIxbWg2VmVKX3F1RDJhYnZRVHFhUDI1aVAyNVVJYnpBcC1GNlUtSzFsbVNseEROMV9OaVdmY0ZiYlUwZGU0b20xTFBsMXdwTXRsdXppT2FnQ2ZOakVsTTZVQ01OUDhOOWNXYnVnV29OakFnWEFtWGdCUlIzNEFHYUoyWTJJejJyS2hRQm9odkNkNVJUaktBbE9uUi02SlNSWHZ6el9ObzNCSm9xMnVB0gH8AUFVX3lxTE5kVDVUUWEzZ24xQzVBbHN4QmZyQVcyX29hSTZNR2xKb1JiMXlqYU90SS1jR1FxQmRYMmhnak9UMERHbDRnWUJoQVRWVVBRbmg0Sld6M19MQkRtVlM5MEVZZV9EVWwtaUZhMllVMHY0SmFkRl9jVmVtVDdqTmpCanlDYkc0dGhXNURYODlzNEZsb3F4VG0zSjByelpBeVRwUFVjdzRubkFYODEwTmFyamhJOUJqUGI3SEhaNXJNcDNIX0s0Sk92YmMwVmZ0QURVTy1KbGVLMWFkSGNOei03Y2RiVkdhUnN4TW0yNEVQRURqZXI0X1dRSi1mZUNMbw?oc=5
 
-- One India, one time: IST to become sole official time standard - Rediff
-  One India, one time: IST to become
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPUUtQSXRPcC1XdEZDQXJxencwX0Z4WXdIb2VjNV95QndRc1ZPQlRFQ1F6X3kwekNXUUZEUVhES1pVbHlGTjU3d0JaVzFzN3p3U1cxcFdoT1liZEdTT2YzRzVWQVBTSjBIWDM4bk1ZLWZudWRRcjVEMDhueFg1UHRhZExZVy1Tc3dKNDNQS0MwczRCZHlmMkZvTThFeFNDQkZ4V3NRems5MmgyMFct0gGvAUFVX3lxTE1iT2xDUmxRMjFBYTRSMXVYdVJWdHNMeVo4SkM3NlMzOGZEQjdLaWJHLVlyOGtRSEtrTGc2OGpGSmFqVG9ZZWpSLVpRUVVGeGVQa2E5R1ZvRzhLVkFuZkpndFRIbjdJbjd2VEVpNmctTnVUdDZtU1ZRdDBJSlE0RXFnbW9SeV9zdFZrcFQwd2FqTm13YkNoRmxJY2t4NG5vbGxQcTZnZGhPVlJkb01EM3M?oc=5
+- 2 suspects in Haryanvi singer Ankit Baliyan's murder killed in UP Police encounter | India News - Hindustan Times
+  2 suspects in Haryanvi singer Ankit Baliyan's murder
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmdtREdjd2ZWUzI3UFBSTGVHcjgwR3dpMnAyWlhzeVFaSEJNYVRfQnNBVjRnQzFtZWVoeXRzQ3RwODBtcWVfUEstZDNHSHh6SFloZUpObm1TVGRDMVRFam1SWjRRZXotaEdpYTdTZVhwbGp1S3Q3Y3AwYTlxeGFIYTl3aUVqWi1OSHI4OWNJTWZ5QU8ya05tenRSZUo4dGZ6anhqSGFwX0w5WHJGLVdjVVhvU0h5cUpfbWtVaDRrUVJEOHE4bktoMTkxZ3Y3OGVaSEJ1Q25tczV4LVJDSV9uUmtMZlHSAeoBQVVfeXFMTXpGbzNhX2h4OVhWamV4d2UxNnNpSXFmMzBSdmhMVXQ0OG1FOThTdFB1YkM3MUZuRGR0aC1WVFIxT3lTRnFacmJUeWk0Qmxod0dYOXdWQUpCck5qX2ZCcVFSWE5lcFpsaXQ5YnVJNG14ZlVrd0VTblh3U1A4QWt6emg2aXhFVnVGa3lvRF9ONGhJUDFOWXJBUkRJaE1lR2F3N1gyaVg2OUdLcHhYVFhLODh4dmR3R1dRMHdQdWhZRjBhMkJBNzQ5d2pyaTFVbHl3V0FyUjNpYXdRUkl1VE9XN1FhdThuZzY1UU53?oc=5
 
-- Indian Standard Time to become mandatory for all entities from March 2027 - The Times of India
-  Indian Standard Time to become mandatory for all entities from March 2027
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemQzNW5CQzh2a0plcjFnVUUybFJHaEh3QnFxOE8tM29DZGNmSEtfUlRIRTJHcUxucmF5QzRXY3oycTQ1azJQaUo2UXJ4NVVBMXk3ZnpOci1GeHY0NElnZ3JmbF9XZU10M003Z2NMeVhqeGNvZzBpUXVsNTdVVU5rT01ZUjV3Nmp0TDl1TXdBQkU1dnYxaC1LRzZ5RmtkbHFsUTZSa0xwY2h6VXFtQjhxamtuY0o4UXJxUkYxRHlDYkI3LXRzX0F1UGkwMnc2NkgtSHRpSHpPblXSAd4BQVVfeXFMUGNFUmQ0WjZsMXZOdFNaZUJTa1VNVlpiY2dWa0F4cW5LSnI0ZXU0eXdfdTJjblNXbFVqdXFsQVhjbkF5ejZUU3c0Wk5MSVdZRXZoblNJTG9EQkJTYXFpaVRDRy1sTG10VmpMSVd0b09qV2xPNlkwNFpQYXlhcm9wdHdmeWZUWFo2X1dnMmJraHB4YVEtdlNiMVhpV2dLakVXdUc0bmgxVERqY2xBNUs5SkR6M1VCQXpTUF9aWmliRE1URU96RC1oUE5GOUNmR2szbFVrbGtkTkJzT0xrVzhn?oc=5
+- FM Nirmala Sitharaman says India likely to sustain 7% economic growth in FY 2026-27 - News On AIR
+  FM Nirmala Sitharaman says India likely to sustain 7%
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaURFcjJQLUNRVVpjb05yazFvODB2WUp2SjR3WTZZOGJ4RXVLWldOazBxQ1IteHUtRWlENTZCOHA4Wk0tX1AwSS1yalpaT2hDR1RtV1JUenlsRlpJYnl6ZzdSel9KOVpja1FFRGd1a1RTdFVfUXNjTFBja1ZUSjFHZmpsM291SFlBQVR0VXY3RnZ4aEtOSGY2RWNoaG54UEwzcE03YWZ6SEVKVDNW?oc=5
 
-- Centre notifies rules mandating IST as single common time reference - Business Standard
-  Centre notifies rules mandating IST as
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPYzRUWXhRenN6YkJuT0JvYlhZQVN5cWxEOEt1ZURWRmFLTm4wWUhxUWU3ZF9pbjRyc2hYeUc1X2RZR3ZTVGptQUh6VE8xZ0JWV3dLczhFNG5IUG1wWWk5Uk9LeFhsTUdjVE1MTVI4dUlfY2ttVUV4Y2I3V201eUgtdExGRFFMcGVnNm11aENNbUtZZjA5VDBlM2RCZk1EUVlfak1WaUgwcEwyZVVLNFFaRXNTTnBJMUEwQnVHRVhNWFZISDNhNjJtU0E2Q07SAdIBQVVfeXFMTTNjc1hhdVhzV25yNGdITWRZSFZIdFVpeW5hczlfdUVPd3pEaUxKYjh1UUo2RUVnRmVVbHdYMDlFYUNrV28ySHRIb3dmTThTY014MV8wNnpVOFZ2emphbEtBWTJDTzNhZzItTjJucUZHN29wcEhtNlpjTUxma0JIN3piRWFNYU1MYmp3c3ZsSEtWNlFrQmhubjZpSTk5ak1SbjNVMDROT0NaR1RUMjlBeFZjXzBMTWZsQ0E5VG9HRnU4bjNLWkxmQ3IzMG51WEJ1Z1Vn?oc=5
-
-- 11 Indian-Origin US Citizens On Kailash Trip Missing After Nepal Floods - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXRHeTFzN0xFZC1wbzdDVklfYzczNmFtZEZCMUIwVmlJWWNEa1NBbU9BV1BIMTdXQzJVcTF5SV80bkFXNV9kbmluSVJpZzNnZkRQX3BSbmt2SG5LSUVJMDAtVDBucFoxMW
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXRHeTFzN0xFZC1wbzdDVklfYzczNmFtZEZCMUIwVmlJWWNEa1NBbU9BV1BIMTdXQzJVcTF5SV80bkFXNV9kbmluSVJpZzNnZkRQX3BSbmt2SG5LSUVJMDAtVDBucFoxMWdQa3VQc1pyVmZVcUYwUGRIRTBZVER3ak40N0N1NXlLbVV3dWJvN1YyNGgwRUdFMmlYS2x6S1NDa2RkbHpLSUhqYl8yUHltZ2hR0gG6AUFVX3lxTFBKalBwQzdwMUlOdGJoNGlUUnFRTnhUZ3VBdkVqbHVQOFB6ZEZtMTBZdjlOdjlNRm0zVmxIeU5Mc25HVm1DMzhxZ1RHbGRIOXQ4cU9wZDJtNG5LTDFEaFpyYXQ0RG5RN1RWM25ydGVKLTdRWnJjUV9CenBUV3V5NENDN0JxblJldEpqaEc0SVpZQi05aVo0OFFHaFl5anVQaDZXWlhVcEZ4eFJJY05jN0V6MDFyTE1WaGRtdw?oc=5
-
-- Assam Clears Rs 50,000-Crore Package For Women, Health, Roads, Schools - NDTV
-  Assam Clears Rs 50,000
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmdkWVVET0VFWW92YzFnRDcybkZjUXNXUllMQnJxYUdLNldrNDg3Q3ZvbGZRM1ZnOHo3cl9qNmJWcFZUems4aS1UWFBMTEFFbVBpUE5Eb19teW85aFUxWGI1SHdCN2lvMWpiV24zbjRUeFBURk1QTkdJaWJZZ01iUDNKTUpaejU2RER1RlhTbmJHb3A0REphVHpkX2tVSmMwcUUyRDUwX1hHaDMy0gG0AUFVX3lxTFAxSnAzTEVVOVgzcnR5ZTNQajAyeUR6cUxmcno2aERTNF9fczdvYmNPcjg3RGRwdTUyTlhjOE9Rc3pZUVVZSUNkb0gxSHl1ZGUtZlU2cE5iY19pQnJ5VFpLOUtsVkJSdEVWcVJrZUJUWVlvMkhMa2RmR2EwMXpzZE5YRkNIcEZrZ0tPWnhHb19Bb2dkTWd6bG5GdmxqcGpQdTRkcy1hMHh0bWY1cGp3RjZnRVBSRA?oc=5
+- Nepal floods latest: Officials intensifying efforts to free hundreds believed trapped in hydropower tunnels - BBC
+  Nepal floods latest: Officials intensifying efforts to free
+  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSFZyT0RfZFFQN0FVQmxaS0lNR2ZfdFhZX21LSVRaUVpRNDJBWlN5ZHRmS3l5LWFXcVExYkR4SC13ZVdOZlQwckluYW53VUI1Mzc0dTNn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-08-30 20:28:24 UTC_
+_Last updated: 2026-08-31 03:03:49 UTC_
