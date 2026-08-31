@@ -1,252 +1,224 @@
 # 📰 Daily News Summaries
 
-- "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
-  "Exceptionally Generous": Nepal On
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
+- 'No Jurisdiction': India Rejects Hague Court's Indus Waters Treaty Ruling - NDTV
+  'No Jurisdiction': India Re
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGJEN3lxNzJDaVNCVC1MaXlhN2VpVk9nQVVLN3EzMl9lQUFkTmpKNFFsZFNvLWNLeUc5SjVYUzROZ1N4MUtVbDZIV1J2UnlsbV90b0VtTy02ZVdyc3dZME01bzhZUW9sQTB0RFIzUXRhVlpZc043aEhEM0pJU0RPRkxuak9VTms1YU50cElUYXBYYjhRd0dBNUdta2NhaHNFRUZSbEx6RGVzdEYtaHZiNmVEWGHSAbwBQVVfeXFMTmxKNk1CN0dpZGZpY0I5ck5jdy03SkJ1TzU2VWdyaEwwM19CWGM2ZXdEdEFoUm9Rb2JPd2FhbDhVTXlVb2F0cE5yS0x6R3lCenFVWEQ3dkZ1OFB6NkZhNmUzckJIbWdJajR0b1dyTnpadFRQeGJRYXZFYzd2U0dnOXgzQkw4Y3B5aVNmSmpIeEh1Q0xnNG5xX3Q4aDdXcmdlLWoydjV6aGRmdXFlcm9wWFVia2ZtUjd6VENDaHc?oc=5
 
-- Starting September 1, Indian airports are discontinuing immigration clearance for ... - The Times of India
-  Starting September 1, Indian airports are discontinuing immigration clearance for
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVllJeUFCbXVKRDhLYWVoMkJVR2dpVVhOSlpfUHEzSXpPa0dBQmpFUF94YmNlTzdJYmMxSkl5QjRwcno1cnBIOGUzSlhQbGwtYTIxbWg2VmVKX3F1RDJhYnZRVHFhUDI1aVAyNVVJYnpBcC1GNlUtSzFsbVNseEROMV9OaVdmY0ZiYlUwZGU0b20xTFBsMXdwTXRsdXppT2FnQ2ZOakVsTTZVQ01OUDhOOWNXYnVnV29OakFnWEFtWGdCUlIzNEFHYUoyWTJJejJyS2hRQm9odkNkNVJUaktBbE9uUi02SlNSWHZ6el9ObzNCSm9xMnVB0gH8AUFVX3lxTE5kVDVUUWEzZ24xQzVBbHN4QmZyQVcyX29hSTZNR2xKb1JiMXlqYU90SS1jR1FxQmRYMmhnak9UMERHbDRnWUJoQVRWVVBRbmg0Sld6M19MQkRtVlM5MEVZZV9EVWwtaUZhMllVMHY0SmFkRl9jVmVtVDdqTmpCanlDYkc0dGhXNURYODlzNEZsb3F4VG0zSjByelpBeVRwUFVjdzRubkFYODEwTmFyamhJOUJqUGI3SEhaNXJNcDNIX0s0Sk92YmMwVmZ0QURVTy1KbGVLMWFkSGNOei03Y2RiVkdhUnN4TW0yNEVQRURqZXI0X1dRSi1mZUNMbw?oc=5
+- India rejects Court of Arbitration's Indus Waters Treaty award: ‘Illegally constituted, has no jurisdiction’ | India News - Hindustan Times
+  India rejects Court of Arbitration's Indus Waters Treaty award: ‘Il
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaVZkV0ppV3NLWDhWaFRyWUVJQnN5M1dtNWN0clN2S1JXcFRaSHNHUmxVbnkyWXBpV05qNjh4SUhGQW5HRHNjNFVzNE1vWXRwUzByOW01eVNSU3hRU3FkMC1ZeFNDekNMTTdJYU5iS0hEdjFmMW8yd1JWLWMwMHpnZU5qQnZNdmJFa0plem84cmNiLUFJcW1zRjA2VTlrNFBidHVRSzByOFZXbkJ5bEwySGFnOGYzZGtWSVNxSzdLNGc1RFgwdkszSF9RdWJfM2w1S3BDU1dHY19kTmZ6U3lNeGJ1Z0FQS3l5cUVR0gHwAUFVX3lxTE1weUtWd3VTYlBIU25vbklkOTJNZDBQV3czZG9oU2s2dDNvRFdPQlZDVXJTbjJpeEV5T1VYbzJJYlZGWlE0MG9RYTZPQkdHT2hsUnRERmx2dTBpQ2kwMjRpdjlqMjJYbzlPcEtGaVMxdW9nTlU5eXVuekc5bF9RcElMTTFESndHM0NtdjFBZXpPN05LWVBPTGQ2X1BNb1NnMHlfYlZUUjBYQjJCbG1pblJfQ2diVUdDTkx3Vmpqd1pWcGt3SFZIWm0zTUdMQXdJYnFEV2szYlJWSjhuMF94RkRrbnZGN19PMWZCRFZtc1QyNg?oc=5
 
-- 2 suspects in Haryanvi singer Ankit Baliyan's murder killed in UP Police encounter | India News - Hindustan Times
-  2 suspects in Haryanvi singer Ankit Baliyan's murder
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmdtREdjd2ZWUzI3UFBSTGVHcjgwR3dpMnAyWlhzeVFaSEJNYVRfQnNBVjRnQzFtZWVoeXRzQ3RwODBtcWVfUEstZDNHSHh6SFloZUpObm1TVGRDMVRFam1SWjRRZXotaEdpYTdTZVhwbGp1S3Q3Y3AwYTlxeGFIYTl3aUVqWi1OSHI4OWNJTWZ5QU8ya05tenRSZUo4dGZ6anhqSGFwX0w5WHJGLVdjVVhvU0h5cUpfbWtVaDRrUVJEOHE4bktoMTkxZ3Y3OGVaSEJ1Q25tczV4LVJDSV9uUmtMZlHSAeoBQVVfeXFMTXpGbzNhX2h4OVhWamV4d2UxNnNpSXFmMzBSdmhMVXQ0OG1FOThTdFB1YkM3MUZuRGR0aC1WVFIxT3lTRnFacmJUeWk0Qmxod0dYOXdWQUpCck5qX2ZCcVFSWE5lcFpsaXQ5YnVJNG14ZlVrd0VTblh3U1A4QWt6emg2aXhFVnVGa3lvRF9ONGhJUDFOWXJBUkRJaE1lR2F3N1gyaVg2OUdLcHhYVFhLODh4dmR3R1dRMHdQdWhZRjBhMkJBNzQ5d2pyaTFVbHl3V0FyUjNpYXdRUkl1VE9XN1FhdThuZzY1UU53?oc=5
+- 'Never recognised existence of...': India rejects Hague arbitration court ruling on Indus Waters Treaty - Livemint
+  'Never recognised existence of...': India rejects Hague arbitration court
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGdrME9IdlRXNFlOeHU1RFN2YzNiZ3ZWaEJ2U3o5NmhoZnVaOVVrMFNfbm5TeDExSXNsdndrSVBWTGE0dmoyYUVxSTZabVFXdTVnaTJCSmhuVlF0MXBxV3RSU3hQbWlrUWFNZDhFTmtiYmpWNFNjX05OQmJKUTRUNTF2NVVGYk8wamJOdHFoTGVvTUdDaGFmVmxoNnpHTkdYdzdHRjdrRnFLWV96R2JWT0w2eUJwRmNQeE43cXZJaWV3eGRUU3RkYWROMGE3di1tV1loTWVrQTVLWDlBZUxfcnZQS1RITkFM0gHuAUFVX3lxTE1nUDk3SjJUbVlaQXFyUzZhZkFhLVhBLVNWWG43MVlwSnBWZU9VS0pqTEY3c2hVTTB4T2VMLVZCY19RQmltMEVRanY5Ti1YeTZQcnVoWE5Jdlg1V3paal9yVjhQSzRjTjM4cFpRYnhrZkt2dmcwcXhZdzc3VUxldlh5ZTNBak9OaUx1T0JGcWQ4bVlySkRCZ24wcWxzOWpZTG5qS25aVk9vN2N2Q1p0ZFVXLW1NdTlMYkhVVkNyU2hZUG1Zb19Ub0lqQnFnT3NGSzNxTmh2RVdKWE9jN1VUNWZENGZ0LU5icTVKcDJacWc?oc=5
 
-- FM Nirmala Sitharaman says India likely to sustain 7% economic growth in FY 2026-27 - News On AIR
-  FM Nirmala Sitharaman says India likely to sustain 7%
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaURFcjJQLUNRVVpjb05yazFvODB2WUp2SjR3WTZZOGJ4RXVLWldOazBxQ1IteHUtRWlENTZCOHA4Wk0tX1AwSS1yalpaT2hDR1RtV1JUenlsRlpJYnl6ZzdSel9KOVpja1FFRGd1a1RTdFVfUXNjTFBja1ZUSjFHZmpsM291SFlBQVR0VXY3RnZ4aEtOSGY2RWNoaG54UEwzcE03YWZ6SEVKVDNW?oc=5
+- What will Sonia Gandhi's memoir reveal about India's most powerful dynasty? - BBC
+  What will Sonia Gandhi's memoir reveal about India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5
 
-- Nepal floods latest: Officials intensifying efforts to free hundreds believed trapped in hydropower tunnels - BBC
-  Nepal floods latest: Officials intensifying efforts to free
-  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSFZyT0RfZFFQN0FVQmxaS0lNR2ZfdFhZX21LSVRaUVpRNDJBWlN5ZHRmS3l5LWFXcVExYkR4SC13ZVdOZlQwckluYW53VUI1Mzc0dTNn?oc=5
+- India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7.8% in first quarter of 2026-27 - The Times of India
+  India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOVHN4aEpNUkswVGZQZlRTUTVsc0kwUVRBSmJIY2RoYVhRaVlXT1pmNnVXUGVRS3puTzQwMTlDd2VDRDN6M2dnY2U1M2tjTGJMNk1IOHNRTFVOM2dRclc0OUdYWF9lVWwyUklRalpxNjF0SVA1UXduMGJfblF2ckg0VW9DaEVfVFlkRGN0RVZ5UWt6cVJKbEZtem5zdXg4aHB1RHgxb0o5RzhERHRGVFNuLUx1WENNRlpNVGJmUjl4RmhrN2JScnVLZXBtR0Q5MmRNTzMzZV9aWlNVeXhNMXVwYkdKc1hzUFE5Z2oxcWdBblVMdDRBWTFBRHRYTVlrVy1GdGZidlZwQzc0c2pVWXRIQ2YzdnN5RHFBLWZCODV0Rk5acmvSAagCQVVfeXFMUHZLYmNDcFFFQ0U2NXVSa190RGZuY2ZVMlB5QXIyVkxvNm8xdDAtLVBlY0hJbms2Szl0N0NxZ0p6clViemRaV21NR1p4dUpBVnZncXQ0NFVDMXl1RDhMcHRjNDdOd0YyRFJieHdGWW9STTd0bUxnVjFNQUtMcUdqSlBPbl9nanNxUU84Q1ljSm8tWFVDNkN2LUxNT19MNkZOdFF6RHpvZE5pVHgxUE9xMnYxU1V3MmhNRjRZSFhocm5XM3J6Tm4zN01aQ2RZbkU0UW5oS1puek1mRG9rejBYU050N0diTTJPZElIZV83SXdONklaTUxXbFlzdnZFZ29QU01ISEZkSTFUVXFJdW5UeFJEWHQtYUx4eVlKbUJfVlRCMDc0VEhtTnU?oc=5
 
-- Big business has shown small firms what to do – and what not to do – with AI | Gene Marks - The Guardian
-  Big business has shown small firms what to do and what not to do with AI, says Gene Marks
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBTd3ZIRk5RSmpFMEo5QXd1aG5Xb3ZlcEwtb2w5M1FvR1F5SmMtcTllaEdKZXhoRGVrT1hKZERGVHFXLXkxZ0NNSHpZQVZuS2FtRVVhUWE2azRKbWRMUTcwREF4MkR6aVFCYUdITzQ0aXY4YTduRGZz?oc=5
+- 'No Jurisdiction': India Rejects Hague Court's Indus Waters Treaty Ruling - NDTV
+  'No Jurisdiction': India Re
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGJEN3lxNzJDaVNCVC1MaXlhN2VpVk9nQVVLN3EzMl9lQUFkTmpKNFFsZFNvLWNLeUc5SjVYUzROZ1N4MUtVbDZIV1J2UnlsbV90b0VtTy02ZVdyc3dZME01bzhZUW9sQTB0RFIzUXRhVlpZc043aEhEM0pJU0RPRkxuak9VTms1YU50cElUYXBYYjhRd0dBNUdta2NhaHNFRUZSbEx6RGVzdEYtaHZiNmVEWGHSAbwBQVVfeXFMTmxKNk1CN0dpZGZpY0I5ck5jdy03SkJ1TzU2VWdyaEwwM19CWGM2ZXdEdEFoUm9Rb2JPd2FhbDhVTXlVb2F0cE5yS0x6R3lCenFVWEQ3dkZ1OFB6NkZhNmUzckJIbWdJajR0b1dyTnpadFRQeGJRYXZFYzd2U0dnOXgzQkw4Y3B5aVNmSmpIeEh1Q0xnNG5xX3Q4aDdXcmdlLWoydjV6aGRmdXFlcm9wWFVia2ZtUjd6VENDaHc?oc=5
 
-- Manthan Initiative Launched at AFMC Pune to Advance Medical Education and Technology - SSBCrack
-  Manthan Initiative Launched at AFMC Pune
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOdTI4a1FHbllyRDI3eGxRM09BSEVqMTdnaDJQUmhGMWREci1mUHRBdEMtTHRfSW0yQmNSS2pwZlFTNk8tSE9ETHNxbmRRNHB6bE5kSjB0ZUVONElxb0t0V0lLbm10VjVZbEZDTlcwa0xJeWVyR0lwZVNVTTFsei05bkwyOFVVRFJEc3pCSFd1b0pfN215OHJuWXRKVGx3c0N3ZGxkNGNQbXlkdFBROURITWdoTDBQM3d4YjAzTWdXNA?oc=5
+- India rejects Court of Arbitration's Indus Waters Treaty award: ‘Illegally constituted, has no jurisdiction’ | India News - Hindustan Times
+  India rejects Court of Arbitration's Indus Waters Treaty award: ‘Il
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaVZkV0ppV3NLWDhWaFRyWUVJQnN5M1dtNWN0clN2S1JXcFRaSHNHUmxVbnkyWXBpV05qNjh4SUhGQW5HRHNjNFVzNE1vWXRwUzByOW01eVNSU3hRU3FkMC1ZeFNDekNMTTdJYU5iS0hEdjFmMW8yd1JWLWMwMHpnZU5qQnZNdmJFa0plem84cmNiLUFJcW1zRjA2VTlrNFBidHVRSzByOFZXbkJ5bEwySGFnOGYzZGtWSVNxSzdLNGc1RFgwdkszSF9RdWJfM2w1S3BDU1dHY19kTmZ6U3lNeGJ1Z0FQS3l5cUVR0gHwAUFVX3lxTE1weUtWd3VTYlBIU25vbklkOTJNZDBQV3czZG9oU2s2dDNvRFdPQlZDVXJTbjJpeEV5T1VYbzJJYlZGWlE0MG9RYTZPQkdHT2hsUnRERmx2dTBpQ2kwMjRpdjlqMjJYbzlPcEtGaVMxdW9nTlU5eXVuekc5bF9RcElMTTFESndHM0NtdjFBZXpPN05LWVBPTGQ2X1BNb1NnMHlfYlZUUjBYQjJCbG1pblJfQ2diVUdDTkx3Vmpqd1pWcGt3SFZIWm0zTUdMQXdJYnFEV2szYlJWSjhuMF94RkRrbnZGN19PMWZCRFZtc1QyNg?oc=5
 
-- Ukraine seeks U.S. investment for defence technology fund - FT - Investing.com India
-  Ukraine seeks U.S. investment for defence
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNenY5UkxtUUl2N19RcGJVYkZYdG1nckFaWTgyN0N1VmVoNUEyU0RZWldfVlhNRHdKTmJ1WlBZajVPWWxEYjMwZE9pUE1uZ0RDbkV0Y3RKc2tkdm9reGZCNXlocVduRWJnSGJLZG5idEdZQ3RNczZrVkFNMGtraVZVSm00NzRacGlYWXB0V0pSejlTdkFFWExNX3ZtRUtqZjBWN3hvSlpxZGRseEZtRUNJeElWYWNKUQ?oc=5
+- 'Never recognised existence of...': India rejects Hague arbitration court ruling on Indus Waters Treaty - Livemint
+  'Never recognised existence of...': India rejects Hague arbitration court
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGdrME9IdlRXNFlOeHU1RFN2YzNiZ3ZWaEJ2U3o5NmhoZnVaOVVrMFNfbm5TeDExSXNsdndrSVBWTGE0dmoyYUVxSTZabVFXdTVnaTJCSmhuVlF0MXBxV3RSU3hQbWlrUWFNZDhFTmtiYmpWNFNjX05OQmJKUTRUNTF2NVVGYk8wamJOdHFoTGVvTUdDaGFmVmxoNnpHTkdYdzdHRjdrRnFLWV96R2JWT0w2eUJwRmNQeE43cXZJaWV3eGRUU3RkYWROMGE3di1tV1loTWVrQTVLWDlBZUxfcnZQS1RITkFM0gHuAUFVX3lxTE1nUDk3SjJUbVlaQXFyUzZhZkFhLVhBLVNWWG43MVlwSnBWZU9VS0pqTEY3c2hVTTB4T2VMLVZCY19RQmltMEVRanY5Ti1YeTZQcnVoWE5Jdlg1V3paal9yVjhQSzRjTjM4cFpRYnhrZkt2dmcwcXhZdzc3VUxldlh5ZTNBak9OaUx1T0JGcWQ4bVlySkRCZ24wcWxzOWpZTG5qS25aVk9vN2N2Q1p0ZFVXLW1NdTlMYkhVVkNyU2hZUG1Zb19Ub0lqQnFnT3NGSzNxTmh2RVdKWE9jN1VUNWZENGZ0LU5icTVKcDJacWc?oc=5
 
-- Meta’s Day of Reckoning - WSJ
-  
-  🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE13SWFWZkNTNExfNXVOZjIyUVdRSG5wc05yVjQ4TkRHYjlfb0hwdnRmYWRZQjVRTzY3Qm1Ub19zU0Rwb3hqcmNPcjRMN3U4MzBZZHNscWlFWkR2OXQzTEVQd2pwSGNwaU01TElZ?oc=5
+- What will Sonia Gandhi's memoir reveal about India's most powerful dynasty? - BBC
+  What will Sonia Gandhi's memoir reveal about India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5
 
-- Rural teacher from Andhra turns technology into learning - The New Indian Express
-  Rural teacher from Andhra turns technology into
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUdPQzN0UTNIYzlBTzVILVV4M19sRjZlMXdEWndVREd6RFV3eW8xaUlLamRtUEhMLXhhZy1mZTRMRHN2YVF3VE1UR0xUZXBwTnp2d3Bhb041T1ctZzdBcklUVlJodlFCcmdNaUcxQ0h2U0NEUnA1NElzZXdqNFRxelBVdVlnXzhyU0pHOUVkQXlManBZc05jTk50TGRNZXVLWG4wWGdMYlNpQmtpU2pETNIBvgFBVV95cUxNbDJYa0U4SUFJQktfeGQ2cG9VTUpTZjRRYXlsd3FoNEZuWk84T3VtUHd2dEFBYnB5ZHduYU1DdENpcXZQdzhpN2VqWWtJSzAwcmdtVGdJZndkemVVR2RWRTNwOEE3Z2hKYjAwTlJ1dkhTNVVKczJELXd1UmctNk1xemhHbjdIdzNzUlBycnk2dk9STjJraXdrTVg2Wm1FSTJDTU9aSm4zT1hwM1c0T053dXp3UTN3UF92SzEyUUl3?oc=5
+- India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7.8% in first quarter of 2026-27 - The Times of India
+  India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOVHN4aEpNUkswVGZQZlRTUTVsc0kwUVRBSmJIY2RoYVhRaVlXT1pmNnVXUGVRS3puTzQwMTlDd2VDRDN6M2dnY2U1M2tjTGJMNk1IOHNRTFVOM2dRclc0OUdYWF9lVWwyUklRalpxNjF0SVA1UXduMGJfblF2ckg0VW9DaEVfVFlkRGN0RVZ5UWt6cVJKbEZtem5zdXg4aHB1RHgxb0o5RzhERHRGVFNuLUx1WENNRlpNVGJmUjl4RmhrN2JScnVLZXBtR0Q5MmRNTzMzZV9aWlNVeXhNMXVwYkdKc1hzUFE5Z2oxcWdBblVMdDRBWTFBRHRYTVlrVy1GdGZidlZwQzc0c2pVWXRIQ2YzdnN5RHFBLWZCODV0Rk5acmvSAagCQVVfeXFMUHZLYmNDcFFFQ0U2NXVSa190RGZuY2ZVMlB5QXIyVkxvNm8xdDAtLVBlY0hJbms2Szl0N0NxZ0p6clViemRaV21NR1p4dUpBVnZncXQ0NFVDMXl1RDhMcHRjNDdOd0YyRFJieHdGWW9STTd0bUxnVjFNQUtMcUdqSlBPbl9nanNxUU84Q1ljSm8tWFVDNkN2LUxNT19MNkZOdFF6RHpvZE5pVHgxUE9xMnYxU1V3MmhNRjRZSFhocm5XM3J6Tm4zN01aQ2RZbkU0UW5oS1puek1mRG9rejBYU050N0diTTJPZElIZV83SXdONklaTUxXbFlzdnZFZ29QU01ISEZkSTFUVXFJdW5UeFJEWHQtYUx4eVlKbUJfVlRCMDc0VEhtTnU?oc=5
 
-- Star Entertainment warns tough conditions to persist after annual loss
-  Star Entertainment warns tough conditions to persist after annual loss.
-  🔗 https://www.livemint.com/companies/star-entertainment-warns-tough-conditions-to-persist-after-annual-loss-11788139296179.html
+- From entry to exit — how Apple stock price and valuation changed under Tim Cook as Apple CEO | Data details here
+  Tim Cook will step down as Apple's CEO on 1 September 2026, transitioning to executive chairman. John Ternus will succeed him after a 15-year tenure that saw
+  🔗 https://www.livemint.com/market/stock-market-news/from-entry-to-exit-how-apple-stock-price-and-valuation-changed-under-tim-cook-as-apple-ceo-data-details-here-11788168871086.html
 
-- The mother and daughter behind India’s No. 2 tractor maker bet  ₹1,250 crore on a fifth plant
-  AFE is setting up its first new tractor plant in 29 years to cater to global and local demand. TAF
-  🔗 https://www.livemint.com/companies/news/tafe-tractors-new-plant-mallika-srinivasan-lakshmi-venu-11788073689702.html
+- Adani Power, Adani Enterprises to Adani Energy: Gautam Adani-owned stocks crash up to 8% in trade today; here's why
+  Adani Enterprises dropped over 8%, with all major group companies declining. Broader Indian markets also weakened, reflecting caution among investors.
+  🔗 https://www.livemint.com/market/stock-market-news/adani-power-adani-enterprises-to-adani-energy-gautam-adani-owned-stocks-crash-up-to-8-in-trade-today-heres-why-11788173294982.html
 
-- The quintessential insider who stepped into Puri’s big shoes is set to walk away
-  Sashidhar Jagdishan in his six years as CEO delivered a landmark merger but also a
-  🔗 https://www.livemint.com/companies/hdfc-bank-ceo-sashidhar-jagdishan-career-profile-11788077409658.html
+- Bernstein reshuffles India model portfolio: Adani Ports, Eternal, Paytm in, DMart out; sets Nifty 50 target at 26,000
+   Bernstein has updated its India model portfolio, adding Adani Ports, Eternal, and Paytm, while removing DMart. This reflects the brokerage's view on India
+  🔗 https://www.livemint.com/market/stock-market-news/bernstein-reshuffles-india-model-portfolio-adani-ports-eternal-paytm-in-dmart-out-sets-nifty-50-target-at-26000-11788171871076.html
 
-- Tata Trusts seek regulator’s nod to break deadlock in Tata Sons chair selection
-  Noel Tata has written directly to the Maharashtra charity commissioner to clear the roadblocks towards choosing the
-  🔗 https://www.livemint.com/companies/tata-trusts-noel-tata-tata-sons-new-chairman-selection-11788081659771.html
+- From PB Fintech to Axis Bank- SAMCO Securities' expert recommends 5 stocks to buy now for long term
+  The Indian stock market is range-bound amid geopolitical concerns. Experts suggest it's a good time to invest for the long term. Recommended stocks include PB Fintech and Axis Bank.
+  🔗 https://www.livemint.com/market/stock-market-news/from-pb-fintech-to-axis-bank-samco-securities-expert-recommends-5-stocks-to-buy-now-for-long-term-11788169721278.html
 
-- US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP
-  US plans to sanction another bank in effort to clamp down on
-  🔗 https://www.livemint.com/companies/us-plans-to-sanction-another-bank-in-effort-to-clamp-down-on-iran-transactions-bessent-tells-ap-11788126897004.html
+- Hy-Tech Engineers IPO listing tomorrow. Here's what GMP signals ahead of debut
+  The issue witnessed an overwhelming response from investors, with the
+  🔗 https://www.livemint.com/market/ipo/hytech-engineers-ipo-listing-tomorrow-heres-what-gmp-signals-ahead-of-debut-11788167550471.html
 
-- Jio Platforms IPO: Mukesh Ambani's Reliance Group company gets SEBI nod for  ₹37,700 crore issue | Full details
-  Jio Platforms is set to launch India's largest IPO at  ₹37,700 crore. With plans to raise funds for debt
-  🔗 https://www.livemint.com/market/ipo/jio-platforms-ipo-mukesh-ambanis-reliance-group-company-gets-sebi-nod-for-37-700-crore-issue-full-details-11788143908247.html
+- Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams - The New York Times
+  Gene-Editing Technology Offers New Ways to Create the Dogs
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5
 
-- Gold Holds Biggest Drop in Over Two Months on Fed Rate-Hike Bets
-  Gold steadied after falling more than 3% on Friday as US Federal Reserve Chairman Kevin Warsh’s pledge to fight
-  🔗 https://www.livemint.com/market/gold-holds-biggest-drop-in-over-two-months-on-fed-rate-hike-bets-11788143018035.html
+- Highway Projects Above Rs 500 Crore Must Now Use Automated Construction Technology, Says NHAI - Swarajya
+  Highway Projects Above Rs 500 Crore Must Now Use Autom
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzJwdS0xQnBOWVNlYW85bHNtMVJGYzE4dHdEMUZzbVp1ODB4c3luR1BOdm1hNWRlWHJIcklMQXlUbXB3UWdoTzFxNl94R3N0eHZzUmJJdW01OElaNGhTZXZhR09VaU5JR2hnUzBBUTlFYXhoLUtSN1plbEV4N0JTcEFWS3VCVFlCUE5TbW03Z2tTRHMzVlZxRDNScHVDLTRBUjNqSjZTSi1TQXpRbkFhZThNVTZFVmdSazBBZVB0UkxPZ9IB0gFBVV95cUxPSWZxMlY0ZWozSG1meXVxVE83Q0pMQTZfMXhXYUtJTF9NelFtRXB2MWt3OWZsR01wckFobDZLVEFJU0tCd0wxcEdTTjVDVUF0bzV0bUNrdWo2QkNHTUVUSUxsWmtZMThXVHdlajJmcFdlUENMelhwVm9PWjNtSHZ6MjJyNXZZSmJoRV9Famp5cWwtekN3ZHY5aUxxT2VtMGpyZE0tV3dLaGJZRnl1VURyRkZGbm00WlU1d1dmVDJ5Mm5McXYyMmp6U1BBbzBWWkd5blE?oc=5
 
-- Stock market today: Gift Nifty hints a gap-down start; eight-day trading stocks to buy on Monday, 31 August
-  Sensex and Nifty 50 expected to open lower on 31 August. Geopolitical tensions between the US and Iran may impact energy prices. Key macroeconomic events include India's GDP data and US non-farm
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-gap-down-start-eight-day-trading-stocks-to-buy-on-monday-31-august-11788140720297.html
+- AI-enabled Supervisory Technology; Soft Chinese Retail Sales; and Outlook for Sustainability Jobs - S&P Global
+  AI-enabled Supervisory Technology; Soft Chinese Retail Sales
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQajE5TUVmT1FmS0g3UEZkS2FXREU4ZDFmelJTQWtydWhrbWo3OHRNS0gzWUt6Q1FFeWxybFNDWEQ4a2JDM0JzRGluNVhwc1dzalpWU1E5bElweUNTWGdqSVNVaUFYR3R5ZGhHYkFUQUUtLTNXcDZsbGszNkFqN043WjIxbFBHcnY5SGlaNDRrWQ?oc=5
 
-- Crude oil prices jump over 1% after US strikes Iranian island in a fresh round of attacks; Brent near $89 per barrel
-  Brent crude futures gained $1.08, or 1.23%, to $89.18 per barrel. US West
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-jump-over-1-after-us-strikes-iranian-island-in-a-fresh-round-of-attacks-brent-near-89-per-barrel-11788140345757.html
+- Himel Wins Technology Excellence Award, Bringing New Thinking to Everyday Electrical Products - PR Newswire
+  Himel wins Technology Excellence Award, Bringing New Thinking
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTlA0UHJKblBzTW5JNjlJckxBbTEwOEVFUU9Fa1kxNkR1TEhxeUNmLV9ka0lXdU9JRnJ3RDVob0hUQlgxeGQ3UTlIVXZqbTN5MktBSkhMSDhNVEpfcjVTQmFwbGVLMUJNUjMwNXVXNUwxaGEtLUJDbGEzMnYzQmxuS3huY1dWMnE4NDRiUU1UMUJMR01yLWdDN2NRVzRWd3hjRHg1ZlNBdnJ3RkdYUmNoeEMzSGxRempfTnV0MGJackgtc081Q1drM2hhZ3N3QW9wMFlWQ0RPb1lhOTJrT0YtWlg5T09KRnVR?oc=5
 
-- Oil Climbs at Week’s Open as US Military Hits Iranian Launchers
-  Fighting in Strait of Hormuz highlights risks to flows from Middle East. Oil rose as fresh
-  🔗 https://www.livemint.com/market/oil-climbs-at-week-s-open-as-us-military-hits-iranian-launchers-11788141921048.html
+- LVM3 ‘Bahubali’ technology transfer: L&T, JSW, Adani, Mahindra among firms eyeing ISRO rocket deal - Moneycontrol.com
+  L&amp;T, JSW, Adani,
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTTJYempnOHpxQ1VGaTh4VzlJZkxIdEQ5LXFPZXNaTkljclFRdFVVVTBRRWdrVWxhYWY4ZVphdHMybTdWU3dNa0RnUFBtZnAyQ0k2VVA2eFc2aXloSHA4VTZEcGlmTTc4cFpaVjNHNC05akF3SHZmakFIOUlNM1pvTm1QUXV1ZVh0d2lfaFFhRHl2U3RPc19oOE52Rzh2aUpvYTNpYXV6UkhFRm5HbmFTRTg4QTVHMmVJX1UzaFhmZmpQYWZBNmVGSEhZWlVSdjNzT3VvM2g2OGdDUDl6UW9N0gHkAUFVX3lxTE92RWgyUTNTWjlSLTI1bnNka1RERVZPUEVYNnZObXdBckxxeFk4ZGdQOGxhd0Q5QlBsWm1lT3Q3ZFZfS2czMDYzY3RYMlBVUFNlTV9KNHFtak5CVFdUZzZqZEdEcEg5bUVHOWg0V1pzMkhtbHk4MWpJc3pGTllZZVVNOVNGVUhMemlpWWFMdWJzOHhKNk9oODExZzR4WklFcDZsUUtoejRjZklTR0JFbHBkRzNPREF3eTI2MWRqQS1VVUpnbml1VzVFVjlZenhwOFBXWmNzbmt1aWw3UUUtOW1sSnk4Vg?oc=5
 
-- Apple iPhone 18 Pro Max launch in India: Price, launch date, colours and more- what we know so far
-  Apple confirmed that the company will hold its ‘Surprise and Shine’ event on September 9. It is likely to unveil the iPhone
-  🔗 https://www.livemint.com/technology/apple-iphone-18-pro-max-launch-in-india-price-launch-date-colours-and-more-what-we-know-so-far-11788083918294.html
+- Aurobindo Pharma among 5 stocks hitting 52-week highs; surge up to 18% in a month
+  Five BSE 200 stocks hit fresh 52-week highs despite a weak market. Lenskart,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-5-stocks-hitting-52-week-highs-surge-up-to-18-in-a-month/slideshow/133652098.cms
 
-- Nearly 32% of organizations decide to build in-house software using AI coding agents over purchases: McKinsey
-   Organizations are increasingly using agentic coding tools to build software in-house in lieu of purchasing it.
-  🔗 https://www.livemint.com/technology/nearly-32-of-organizations-decide-to-build-in-house-software-using-ai-coding-agents-over-purchases-mckinsey-11788076917651.html
+- Global Market: Emerging Asian currencies fall as Fed hike bets rise, oil prices surge
+  Most emerging Asian currencies and equities fell on Monday as hawkish comments from US Fed Chair Kevin Warsh boosted bets on a possible September rate hike. A surge in oil prices amid escalating US-Iran tensions added to
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-emerging-asian-currencies-fall-as-fed-hike-bets-rise-oil-prices-surge/articleshow/133651913.cms
 
-- Trust levels for generative AI drops below 40%, yet consumers rely on AI product advice: McKinsey
-  The trust level for generative AI drops below 40 per cent. Consumers do not trust artificial intelligence advice, but turn to it anyway.
-  🔗 https://www.livemint.com/technology/trust-levels-for-generative-ai-drops-below-40-yet-consumers-rely-on-ai-product-advice-mckinsey-11788064906620.html
+- Bitcoin slips below $80,000 after Kevin Warsh’s inflation vow
+  Bitcoin slipped below $80,000 after hawkish comments from Fed Chair Kevin Warsh raised concerns over interest rates. The cryptocurrency is now trading near key support levels, with analysts watching $77,000 closely.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-slips-below-80000-after-kevin-warshs-inflation-vow/articleshow/133651842.cms
 
-- How China’s AI policies avoid painful past tech crackdowns
-  China once waited for fast-growing industries to create problems before cracking down. With
-  🔗 https://www.livemint.com/technology/how-china-s-ai-policies-avoid-painful-past-tech-crackdowns-11788054929514.html
+- Market wrap: Sun Pharma, Nestle India, ITC, Adani Ports top gainers and losers on Nifty and Sensex on Monday
+  The Sensex fell 307 points and the Nifty50 declined 0.39%. Adani Enterprises and Adani Ports led the losers. Sun Pharma and Nestle India were among the top gainers.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sun-pharma-nestle-india-itc-adani-ports-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/133651610.cms
 
-- UAE regulator grants Starlink 10-year licence to provide satellite internet services
-  The UAE's Telecommunications and Digital Government Regulatory Authority has granted Starlink Satellite Communications LLC a 10-year General Space Services Licence. Starlink will provide broadband satellite internet services in
-  🔗 https://www.livemint.com/technology/uae-regulator-grants-starlink-10-year-licence-to-provide-satellite-internet-services-11788013465351.html
+- Titan vs Kalyan Jewellers: Why HSBC favours both stocks amid jewellery sector growth
+  HSBC has picked Titan Company and Kalyan Jewellers as its preferred jewellery stocks. The brokerage has retained Buy ratings on both stocks, with target prices of Rs 5,550 and Rs 770.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/titan-vs-kalyan-jewellers-why-hsbc-favours-both-stocks-amid-jewellery-sector-growth/articleshow/133650673.cms
 
-- Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates - CNBC
-  Stock futures fall after U.S. strikes Iran; Wall Street
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5
+- 'No Jurisdiction': India Rejects Hague Court's Indus Waters Treaty Ruling - NDTV
+  'No Jurisdiction': India Re
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGJEN3lxNzJDaVNCVC1MaXlhN2VpVk9nQVVLN3EzMl9lQUFkTmpKNFFsZFNvLWNLeUc5SjVYUzROZ1N4MUtVbDZIV1J2UnlsbV90b0VtTy02ZVdyc3dZME01bzhZUW9sQTB0RFIzUXRhVlpZc043aEhEM0pJU0RPRkxuak9VTms1YU50cElUYXBYYjhRd0dBNUdta2NhaHNFRUZSbEx6RGVzdEYtaHZiNmVEWGHSAbwBQVVfeXFMTmxKNk1CN0dpZGZpY0I5ck5jdy03SkJ1TzU2VWdyaEwwM19CWGM2ZXdEdEFoUm9Rb2JPd2FhbDhVTXlVb2F0cE5yS0x6R3lCenFVWEQ3dkZ1OFB6NkZhNmUzckJIbWdJajR0b1dyTnpadFRQeGJRYXZFYzd2U0dnOXgzQkw4Y3B5aVNmSmpIeEh1Q0xnNG5xX3Q4aDdXcmdlLWoydjV6aGRmdXFlcm9wWFVia2ZtUjd6VENDaHc?oc=5
 
-- Oil Rises on Iran Tensions, US Stock Futures Dip: Markets Wrap - Bloomberg.com
-  Oil Rises on Iran Tensions, US
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHp5RFVLYlloVHZYSUlJanNQYlFKTFYtQXBINUx0ckd2SWthVldmYmo4dWNfTGVSUEMtdzNuYjBzOXBlM2h6YktUSndONkdpT1hmelE4VFBBVkRfRkM0X01JMlVTVHliOXdTQnpHX2JhS2Y5bWZFOUVhU2hJNjRpNnFwOHVYNF83NjlsR3gybldjQjJP?oc=5
+- India rejects Court of Arbitration's Indus Waters Treaty award: ‘Illegally constituted, has no jurisdiction’ | India News - Hindustan Times
+  India rejects Court of Arbitration's Indus Waters Treaty award: ‘Il
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaVZkV0ppV3NLWDhWaFRyWUVJQnN5M1dtNWN0clN2S1JXcFRaSHNHUmxVbnkyWXBpV05qNjh4SUhGQW5HRHNjNFVzNE1vWXRwUzByOW01eVNSU3hRU3FkMC1ZeFNDekNMTTdJYU5iS0hEdjFmMW8yd1JWLWMwMHpnZU5qQnZNdmJFa0plem84cmNiLUFJcW1zRjA2VTlrNFBidHVRSzByOFZXbkJ5bEwySGFnOGYzZGtWSVNxSzdLNGc1RFgwdkszSF9RdWJfM2w1S3BDU1dHY19kTmZ6U3lNeGJ1Z0FQS3l5cUVR0gHwAUFVX3lxTE1weUtWd3VTYlBIU25vbklkOTJNZDBQV3czZG9oU2s2dDNvRFdPQlZDVXJTbjJpeEV5T1VYbzJJYlZGWlE0MG9RYTZPQkdHT2hsUnRERmx2dTBpQ2kwMjRpdjlqMjJYbzlPcEtGaVMxdW9nTlU5eXVuekc5bF9RcElMTTFESndHM0NtdjFBZXpPN05LWVBPTGQ2X1BNb1NnMHlfYlZUUjBYQjJCbG1pblJfQ2diVUdDTkx3Vmpqd1pWcGt3SFZIWm0zTUdMQXdJYnFEV2szYlJWSjhuMF94RkRrbnZGN19PMWZCRFZtc1QyNg?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Iran Hits US Bases In Jordan - NDTV
-  Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Iran
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkY0cllaQzhiTlo1RVN2YU0wRWJTRVpNZDU1WU03WW9HYXROdmtGTzlKWDk5b3RMME41ZGw0WEx2QmFSQXJFRWROb0x3TnpsN2VPWnZoOFpBU2J0VkN3TU5Ob3l3WnFxX25tUzNBSXJYTTJTeDlDTHRja05iMDB1bUxKNmkya1lJR3Bkd0ZFZmZiUFhyMHZLb0tqb2JDZW13bGxFak5jbTZRMjdqS01lUWE3NzJaUEo5TjlHLTNwTFJDMlJ2OGJ0WnctLU9FMzTSAdcBQVVfeXFMTnotY3J4TERyaHZfRzRLOTBsY2tNMHIwRV9aUHNXcVRYQmZ1ZTlYNXBkbVRrV0pxQXlNX2x1cGcwdnpidERldjhsalFyejVnbFFRNjBxYVdyQkl4ckxrYkJTQlA0ZWZaNURjWlNYZzRyVy1NVTlBUmZaWDgxdXFCN2EzaGpnNGtTWDY2OXdwNlBPdloxREtMVTd6ZUl5YUE4NEEyNkpTTUlsQUJORThRMmd1R1ZnOFVFWEJqQ2Foa1FLNGRGT1h2WkdQZ1FzQXVOb0o0SUVOLWc?oc=5
+- 'Never recognised existence of...': India rejects Hague arbitration court ruling on Indus Waters Treaty - Livemint
+  'Never recognised existence of...': India rejects Hague arbitration court
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGdrME9IdlRXNFlOeHU1RFN2YzNiZ3ZWaEJ2U3o5NmhoZnVaOVVrMFNfbm5TeDExSXNsdndrSVBWTGE0dmoyYUVxSTZabVFXdTVnaTJCSmhuVlF0MXBxV3RSU3hQbWlrUWFNZDhFTmtiYmpWNFNjX05OQmJKUTRUNTF2NVVGYk8wamJOdHFoTGVvTUdDaGFmVmxoNnpHTkdYdzdHRjdrRnFLWV96R2JWT0w2eUJwRmNQeE43cXZJaWV3eGRUU3RkYWROMGE3di1tV1loTWVrQTVLWDlBZUxfcnZQS1RITkFM0gHuAUFVX3lxTE1nUDk3SjJUbVlaQXFyUzZhZkFhLVhBLVNWWG43MVlwSnBWZU9VS0pqTEY3c2hVTTB4T2VMLVZCY19RQmltMEVRanY5Ti1YeTZQcnVoWE5Jdlg1V3paal9yVjhQSzRjTjM4cFpRYnhrZkt2dmcwcXhZdzc3VUxldlh5ZTNBak9OaUx1T0JGcWQ4bVlySkRCZ24wcWxzOWpZTG5qS25aVk9vN2N2Q1p0ZFVXLW1NdTlMYkhVVkNyU2hZUG1Zb19Ub0lqQnFnT3NGSzNxTmh2RVdKWE9jN1VUNWZENGZ0LU5icTVKcDJacWc?oc=5
 
-- First Tick: Top global cues to watch in today's trade - Moneycontrol.com
-  A look at the top global cues
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWJKcUxoQUdDR2N0WmsxdXlJRTJOVWR3WnZ6bnh5UjFBVEl4OVdVaWc2T2NyUmcxRDZIMUtzMWhBV0RfVy1XeGVhckNFZEhmazJRYWd5QlpINHZnREczWUdQY1Vjckt1azlIVHZ0VHVFVnFCSEN3b21POUdJbVkxU1dkLTZfZTJQbzNwR3dUZXRzc1BYQkdDRmtMZVlJV3JRWjRFd2VEYlJaaExrUXJ4VGU1UEtudXpNRDZHWUFR0gHDAUFVX3lxTE1ZdzVaVmdzX0tSVHRCVWV0MmV0cnlwbXcwemZtdW5JRkJNYmU1ZUt3ZGpjQXNiWG1GMW9CSVhfem9kTHVQcnBvLUk2VEYwSmNoREpFZlZLVmpmMTBpT1Y1WjBRMFowZWNSWFo0RC16SXRJWFFrY09RUXA2ZkRiLVFZa3I4T1dJVklQZGlRWHAxSEk0akhDR2trbVZReHJfQUQxVzZkczljTzlpOWNxQk9PaUJtbGRCUHhmS3htTTlZTUttNA?oc=5
+- What will Sonia Gandhi's memoir reveal about India's most powerful dynasty? - BBC
+  What will Sonia Gandhi's memoir reveal about India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5
 
-- Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a negative start; Asian shares trade lower - The Economic Times
-  "Sensex Today" is a weekly, free-to-use, web-
-  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxPZ0JUcG9OSlRlOE5PV3p4bnl6c3VNcTlnMDVlVjZ2Wk5LbmlIa2Nwa2VCY2tJWDBKSjAtQmlUNnQ4aThIU0s1dmo2ZkpUTUMtbmdWcDZ2b2RkeGlTMGljcjZId3pRTThTNXpBSWRLd3YxRENocmtTQ0JlSmNZdWlSdm91WXo5d1dlTW1OZ2JjSjZqbzFIQ2otM05ZdktsQW1ybG5Nam1talZqMjhyb3d4X2dvVEp3RGZMMUlLTmxEN2Z6bnVpdlZyamhvWTQ4Ry0zQnEyTVM5SnJYYmxQSHRaRi1JM1IzclAza0cxaTFzelBOMFJRMWpPUGxNa2t5UGVzYU44NXJZRWFnbU1Zbmw2cW9Xd2NRUdIBmwJBVV95cUxQQ1NwTkFFOXJLX19jYkJobjVmLXFlWk9IZkZRMEVjVXE2QmdzdWZMaVZiZjA2eEVsd3FGd081VDlyT3JkX19PTUJrZzlFUzVGSEZ0akMyTVg5al9kalo1MGVvOGZDakpYVEFyXzJJQUZ0ajIxdmN6SFBWZWswYzJ6SzByaDMwWkY0YkEwRHJXOWpBRmNMbk44eGRmNjhZN2FPUUpHWk9saWRfdE5uZHBlUEw2QW1UbFRPcDBSS3Y3VWp0bno2Yy1FeG5xeWVEMGh4VXZfcmVlWnZWLXNwN3ZUMkpOX2dCQWJad3l4UmxFOFhKb0x0bTVYbjQ4Q05vY1doRjhqWE4xMHFVaGVKcnVUOUJyRlZyQmVWczdZ?oc=5
+- India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7.8% in first quarter of 2026-27 - The Times of India
+  India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOVHN4aEpNUkswVGZQZlRTUTVsc0kwUVRBSmJIY2RoYVhRaVlXT1pmNnVXUGVRS3puTzQwMTlDd2VDRDN6M2dnY2U1M2tjTGJMNk1IOHNRTFVOM2dRclc0OUdYWF9lVWwyUklRalpxNjF0SVA1UXduMGJfblF2ckg0VW9DaEVfVFlkRGN0RVZ5UWt6cVJKbEZtem5zdXg4aHB1RHgxb0o5RzhERHRGVFNuLUx1WENNRlpNVGJmUjl4RmhrN2JScnVLZXBtR0Q5MmRNTzMzZV9aWlNVeXhNMXVwYkdKc1hzUFE5Z2oxcWdBblVMdDRBWTFBRHRYTVlrVy1GdGZidlZwQzc0c2pVWXRIQ2YzdnN5RHFBLWZCODV0Rk5acmvSAagCQVVfeXFMUHZLYmNDcFFFQ0U2NXVSa190RGZuY2ZVMlB5QXIyVkxvNm8xdDAtLVBlY0hJbms2Szl0N0NxZ0p6clViemRaV21NR1p4dUpBVnZncXQ0NFVDMXl1RDhMcHRjNDdOd0YyRFJieHdGWW9STTd0bUxnVjFNQUtMcUdqSlBPbl9nanNxUU84Q1ljSm8tWFVDNkN2LUxNT19MNkZOdFF6RHpvZE5pVHgxUE9xMnYxU1V3MmhNRjRZSFhocm5XM3J6Tm4zN01aQ2RZbkU0UW5oS1puek1mRG9rejBYU050N0diTTJPZElIZV83SXdONklaTUxXbFlzdnZFZ29QU01ISEZkSTFUVXFJdW5UeFJEWHQtYUx4eVlKbUJfVlRCMDc0VEhtTnU?oc=5
 
-- Purple Style Labs IPO opens today: Check GMP, key details. Should you subscribe?
-  The Rs 680-crore issue comprises entirely a fresh issue of 1.18 crore equity shares. Purple Style Labs, the parent company of luxury fashion platform Pern
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/purple-style-labs-ipo-opens-today-check-gmp-key-details-should-you-subscribe/articleshow/133639829.cms
+- Centre Notifies ₹1.28 Lakh Cr Semicon 2.0, Targets 1 Lakh More Chip Engineers
+  The Centre has notified the ₹1.28 Lakh Cr Semicon 2.0 scheme to accelerate the development of India’s semiconductor design.
+  🔗 https://inc42.com/buzz/centre-notifies-%e2%82%b91-28-lakh-cr-semicon-2-0-targets-1-lakh-more-chip-engineers/
 
-- Augmont Enterprises shares to list today; 37% GMP signals strong debut
-  The Rs 825 crore IPO, priced at Rs 788 per share, comprised a fresh issue of 79 lakh shares worth Rs 620 crore and an offer for sale (OFS) of 26 lakh shares aggregating Rs 205 crore. Ahead
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/augmont-enterprises-shares-to-list-today-37-gmp-signals-strong-debut/articleshow/133639806.cms
+- Ather Shares Surge 5.7% To Hit Record High After Konarc Launch
+  Shares of EV maker Ather Energy touched a fresh all-time high of ₹1,703.90 during the intraday trading today.
+  🔗 https://inc42.com/buzz/ather-shares-surge-5-7-to-hit-record-high-after-konarc-launch/
 
-- Oil Price Today (August 31): Crude oil reclaims $90 as fresh US attacks dim peace deal hopes. What are experts saying?
-  U.S. forces on Sunday struck two launchers on Iran's Larak island in the Strait of Hormuz. It was the first known American strike on the Gulf nation since late July. Iran responded by attacking two
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-31-crude-oil-reclaims-90-as-fresh-us-attacks-dim-peace-deal-hopes-what-are-experts-saying/articleshow/133639765.cms
+- Zomato Lays Off 240 Employees, Shuts Hyderabad Customer Support Operations
+  Eternal’s food delivery business Zomato has fired around 240 employees as it shuts down its customer support operations.
+  🔗 https://inc42.com/buzz/zomato-lays-off-240-employees-shuts-hyderabad-customer-support-operations/
 
-- MSCI rebalancing threatens to turn ‘Messy’ in new Indian auction
-  India's new closing auction system gears up to manage an influx of billions in passive fund trades. The quarterly MSCI index rebalancing is expected to catalyze heightened trading volume.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/msci-rebalancing-threatens-to-turn-messy-in-new-indian-auction/articleshow/133639598.cms
+- Pernia’s Pop-Up Parent IPO: Issue Subscribed 8% On Day 1 Till Now
+  Pernia’s Pop Up Shop parent Purple Style Labs’ initial public offering (IPO) got off to a subdued investor on the
+  🔗 https://inc42.com/buzz/pernias-pop-up-parent-ipo-issue-subscribed-8-on-day-1-till-now/
 
-- Positive Breakout: These 6 stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-stocks-cross-above-their-200-dmas/slideshow/133639752.cms
+- Zomato Bans Sale Of Analogue Dishes On Its Platform
+  Zomato has announced a zero-tolerance policy against the sale of dishes containing analogue dairy.
+  🔗 https://inc42.com/buzz/zomato-bans-sale-of-analogue-dishes-on-its-platform/
 
-- "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
-  "Exceptionally Generous": Nepal On
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
+- 'No Jurisdiction': India Rejects Hague Court's Indus Waters Treaty Ruling - NDTV
+  'No Jurisdiction': India Re
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGJEN3lxNzJDaVNCVC1MaXlhN2VpVk9nQVVLN3EzMl9lQUFkTmpKNFFsZFNvLWNLeUc5SjVYUzROZ1N4MUtVbDZIV1J2UnlsbV90b0VtTy02ZVdyc3dZME01bzhZUW9sQTB0RFIzUXRhVlpZc043aEhEM0pJU0RPRkxuak9VTms1YU50cElUYXBYYjhRd0dBNUdta2NhaHNFRUZSbEx6RGVzdEYtaHZiNmVEWGHSAbwBQVVfeXFMTmxKNk1CN0dpZGZpY0I5ck5jdy03SkJ1TzU2VWdyaEwwM19CWGM2ZXdEdEFoUm9Rb2JPd2FhbDhVTXlVb2F0cE5yS0x6R3lCenFVWEQ3dkZ1OFB6NkZhNmUzckJIbWdJajR0b1dyTnpadFRQeGJRYXZFYzd2U0dnOXgzQkw4Y3B5aVNmSmpIeEh1Q0xnNG5xX3Q4aDdXcmdlLWoydjV6aGRmdXFlcm9wWFVia2ZtUjd6VENDaHc?oc=5
 
-- Starting September 1, Indian airports are discontinuing immigration clearance for ... - The Times of India
-  Starting September 1, Indian airports are discontinuing immigration clearance for
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVllJeUFCbXVKRDhLYWVoMkJVR2dpVVhOSlpfUHEzSXpPa0dBQmpFUF94YmNlTzdJYmMxSkl5QjRwcno1cnBIOGUzSlhQbGwtYTIxbWg2VmVKX3F1RDJhYnZRVHFhUDI1aVAyNVVJYnpBcC1GNlUtSzFsbVNseEROMV9OaVdmY0ZiYlUwZGU0b20xTFBsMXdwTXRsdXppT2FnQ2ZOakVsTTZVQ01OUDhOOWNXYnVnV29OakFnWEFtWGdCUlIzNEFHYUoyWTJJejJyS2hRQm9odkNkNVJUaktBbE9uUi02SlNSWHZ6el9ObzNCSm9xMnVB0gH8AUFVX3lxTE5kVDVUUWEzZ24xQzVBbHN4QmZyQVcyX29hSTZNR2xKb1JiMXlqYU90SS1jR1FxQmRYMmhnak9UMERHbDRnWUJoQVRWVVBRbmg0Sld6M19MQkRtVlM5MEVZZV9EVWwtaUZhMllVMHY0SmFkRl9jVmVtVDdqTmpCanlDYkc0dGhXNURYODlzNEZsb3F4VG0zSjByelpBeVRwUFVjdzRubkFYODEwTmFyamhJOUJqUGI3SEhaNXJNcDNIX0s0Sk92YmMwVmZ0QURVTy1KbGVLMWFkSGNOei03Y2RiVkdhUnN4TW0yNEVQRURqZXI0X1dRSi1mZUNMbw?oc=5
+- India rejects Court of Arbitration's Indus Waters Treaty award: ‘Illegally constituted, has no jurisdiction’ | India News - Hindustan Times
+  India rejects Court of Arbitration's Indus Waters Treaty award: ‘Il
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaVZkV0ppV3NLWDhWaFRyWUVJQnN5M1dtNWN0clN2S1JXcFRaSHNHUmxVbnkyWXBpV05qNjh4SUhGQW5HRHNjNFVzNE1vWXRwUzByOW01eVNSU3hRU3FkMC1ZeFNDekNMTTdJYU5iS0hEdjFmMW8yd1JWLWMwMHpnZU5qQnZNdmJFa0plem84cmNiLUFJcW1zRjA2VTlrNFBidHVRSzByOFZXbkJ5bEwySGFnOGYzZGtWSVNxSzdLNGc1RFgwdkszSF9RdWJfM2w1S3BDU1dHY19kTmZ6U3lNeGJ1Z0FQS3l5cUVR0gHwAUFVX3lxTE1weUtWd3VTYlBIU25vbklkOTJNZDBQV3czZG9oU2s2dDNvRFdPQlZDVXJTbjJpeEV5T1VYbzJJYlZGWlE0MG9RYTZPQkdHT2hsUnRERmx2dTBpQ2kwMjRpdjlqMjJYbzlPcEtGaVMxdW9nTlU5eXVuekc5bF9RcElMTTFESndHM0NtdjFBZXpPN05LWVBPTGQ2X1BNb1NnMHlfYlZUUjBYQjJCbG1pblJfQ2diVUdDTkx3Vmpqd1pWcGt3SFZIWm0zTUdMQXdJYnFEV2szYlJWSjhuMF94RkRrbnZGN19PMWZCRFZtc1QyNg?oc=5
 
-- 2 suspects in Haryanvi singer Ankit Baliyan's murder killed in UP Police encounter | India News - Hindustan Times
-  2 suspects in Haryanvi singer Ankit Baliyan's murder
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmdtREdjd2ZWUzI3UFBSTGVHcjgwR3dpMnAyWlhzeVFaSEJNYVRfQnNBVjRnQzFtZWVoeXRzQ3RwODBtcWVfUEstZDNHSHh6SFloZUpObm1TVGRDMVRFam1SWjRRZXotaEdpYTdTZVhwbGp1S3Q3Y3AwYTlxeGFIYTl3aUVqWi1OSHI4OWNJTWZ5QU8ya05tenRSZUo4dGZ6anhqSGFwX0w5WHJGLVdjVVhvU0h5cUpfbWtVaDRrUVJEOHE4bktoMTkxZ3Y3OGVaSEJ1Q25tczV4LVJDSV9uUmtMZlHSAeoBQVVfeXFMTXpGbzNhX2h4OVhWamV4d2UxNnNpSXFmMzBSdmhMVXQ0OG1FOThTdFB1YkM3MUZuRGR0aC1WVFIxT3lTRnFacmJUeWk0Qmxod0dYOXdWQUpCck5qX2ZCcVFSWE5lcFpsaXQ5YnVJNG14ZlVrd0VTblh3U1A4QWt6emg2aXhFVnVGa3lvRF9ONGhJUDFOWXJBUkRJaE1lR2F3N1gyaVg2OUdLcHhYVFhLODh4dmR3R1dRMHdQdWhZRjBhMkJBNzQ5d2pyaTFVbHl3V0FyUjNpYXdRUkl1VE9XN1FhdThuZzY1UU53?oc=5
+- 'Never recognised existence of...': India rejects Hague arbitration court ruling on Indus Waters Treaty - Livemint
+  'Never recognised existence of...': India rejects Hague arbitration court
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGdrME9IdlRXNFlOeHU1RFN2YzNiZ3ZWaEJ2U3o5NmhoZnVaOVVrMFNfbm5TeDExSXNsdndrSVBWTGE0dmoyYUVxSTZabVFXdTVnaTJCSmhuVlF0MXBxV3RSU3hQbWlrUWFNZDhFTmtiYmpWNFNjX05OQmJKUTRUNTF2NVVGYk8wamJOdHFoTGVvTUdDaGFmVmxoNnpHTkdYdzdHRjdrRnFLWV96R2JWT0w2eUJwRmNQeE43cXZJaWV3eGRUU3RkYWROMGE3di1tV1loTWVrQTVLWDlBZUxfcnZQS1RITkFM0gHuAUFVX3lxTE1nUDk3SjJUbVlaQXFyUzZhZkFhLVhBLVNWWG43MVlwSnBWZU9VS0pqTEY3c2hVTTB4T2VMLVZCY19RQmltMEVRanY5Ti1YeTZQcnVoWE5Jdlg1V3paal9yVjhQSzRjTjM4cFpRYnhrZkt2dmcwcXhZdzc3VUxldlh5ZTNBak9OaUx1T0JGcWQ4bVlySkRCZ24wcWxzOWpZTG5qS25aVk9vN2N2Q1p0ZFVXLW1NdTlMYkhVVkNyU2hZUG1Zb19Ub0lqQnFnT3NGSzNxTmh2RVdKWE9jN1VUNWZENGZ0LU5icTVKcDJacWc?oc=5
 
-- FM Nirmala Sitharaman says India likely to sustain 7% economic growth in FY 2026-27 - News On AIR
-  FM Nirmala Sitharaman says India likely to sustain 7%
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaURFcjJQLUNRVVpjb05yazFvODB2WUp2SjR3WTZZOGJ4RXVLWldOazBxQ1IteHUtRWlENTZCOHA4Wk0tX1AwSS1yalpaT2hDR1RtV1JUenlsRlpJYnl6ZzdSel9KOVpja1FFRGd1a1RTdFVfUXNjTFBja1ZUSjFHZmpsM291SFlBQVR0VXY3RnZ4aEtOSGY2RWNoaG54UEwzcE03YWZ6SEVKVDNW?oc=5
+- What will Sonia Gandhi's memoir reveal about India's most powerful dynasty? - BBC
+  What will Sonia Gandhi's memoir reveal about India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5
 
-- Nepal floods latest: Officials intensifying efforts to free hundreds believed trapped in hydropower tunnels - BBC
-  Nepal floods latest: Officials intensifying efforts to free
-  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSFZyT0RfZFFQN0FVQmxaS0lNR2ZfdFhZX21LSVRaUVpRNDJBWlN5ZHRmS3l5LWFXcVExYkR4SC13ZVdOZlQwckluYW53VUI1Mzc0dTNn?oc=5
+- India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7.8% in first quarter of 2026-27 - The Times of India
+  India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOVHN4aEpNUkswVGZQZlRTUTVsc0kwUVRBSmJIY2RoYVhRaVlXT1pmNnVXUGVRS3puTzQwMTlDd2VDRDN6M2dnY2U1M2tjTGJMNk1IOHNRTFVOM2dRclc0OUdYWF9lVWwyUklRalpxNjF0SVA1UXduMGJfblF2ckg0VW9DaEVfVFlkRGN0RVZ5UWt6cVJKbEZtem5zdXg4aHB1RHgxb0o5RzhERHRGVFNuLUx1WENNRlpNVGJmUjl4RmhrN2JScnVLZXBtR0Q5MmRNTzMzZV9aWlNVeXhNMXVwYkdKc1hzUFE5Z2oxcWdBblVMdDRBWTFBRHRYTVlrVy1GdGZidlZwQzc0c2pVWXRIQ2YzdnN5RHFBLWZCODV0Rk5acmvSAagCQVVfeXFMUHZLYmNDcFFFQ0U2NXVSa190RGZuY2ZVMlB5QXIyVkxvNm8xdDAtLVBlY0hJbms2Szl0N0NxZ0p6clViemRaV21NR1p4dUpBVnZncXQ0NFVDMXl1RDhMcHRjNDdOd0YyRFJieHdGWW9STTd0bUxnVjFNQUtMcUdqSlBPbl9nanNxUU84Q1ljSm8tWFVDNkN2LUxNT19MNkZOdFF6RHpvZE5pVHgxUE9xMnYxU1V3MmhNRjRZSFhocm5XM3J6Tm4zN01aQ2RZbkU0UW5oS1puek1mRG9rejBYU050N0diTTJPZElIZV83SXdONklaTUxXbFlzdnZFZ29QU01ISEZkSTFUVXFJdW5UeFJEWHQtYUx4eVlKbUJfVlRCMDc0VEhtTnU?oc=5
 
-- Meta’s Double Standards, Weekly Funding Rundown & More
-  Is Meta Being Two-Faced On Child Safety? Meta has agreed to pay roughly $18 Bn to settle US lawsuits.
-  🔗 https://inc42.com/buzz/metas-double-standards-weekly-funding-rundown-more/
+- 'No Jurisdiction': India Rejects Hague Court's Indus Waters Treaty Ruling - NDTV
+  'No Jurisdiction': India Re
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGJEN3lxNzJDaVNCVC1MaXlhN2VpVk9nQVVLN3EzMl9lQUFkTmpKNFFsZFNvLWNLeUc5SjVYUzROZ1N4MUtVbDZIV1J2UnlsbV90b0VtTy02ZVdyc3dZME01bzhZUW9sQTB0RFIzUXRhVlpZc043aEhEM0pJU0RPRkxuak9VTms1YU50cElUYXBYYjhRd0dBNUdta2NhaHNFRUZSbEx6RGVzdEYtaHZiNmVEWGHSAbwBQVVfeXFMTmxKNk1CN0dpZGZpY0I5ck5jdy03SkJ1TzU2VWdyaEwwM19CWGM2ZXdEdEFoUm9Rb2JPd2FhbDhVTXlVb2F0cE5yS0x6R3lCenFVWEQ3dkZ1OFB6NkZhNmUzckJIbWdJajR0b1dyTnpadFRQeGJRYXZFYzd2U0dnOXgzQkw4Y3B5aVNmSmpIeEh1Q0xnNG5xX3Q4aDdXcmdlLWoydjV6aGRmdXFlcm9wWFVia2ZtUjd6VENDaHc?oc=5
 
-- Purple Style Labs Asks For A Luxury Premium
-  Purple Style Labs, the parent company of luxury-fashion platform Pernia’s Pop-Up Shop (PPUS), is heading to the
-  🔗 https://inc42.com/features/purple-style-labs-asks-for-a-luxury-premium/
+- India rejects Court of Arbitration's Indus Waters Treaty award: ‘Illegally constituted, has no jurisdiction’ | India News - Hindustan Times
+  India rejects Court of Arbitration's Indus Waters Treaty award: ‘Il
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaVZkV0ppV3NLWDhWaFRyWUVJQnN5M1dtNWN0clN2S1JXcFRaSHNHUmxVbnkyWXBpV05qNjh4SUhGQW5HRHNjNFVzNE1vWXRwUzByOW01eVNSU3hRU3FkMC1ZeFNDekNMTTdJYU5iS0hEdjFmMW8yd1JWLWMwMHpnZU5qQnZNdmJFa0plem84cmNiLUFJcW1zRjA2VTlrNFBidHVRSzByOFZXbkJ5bEwySGFnOGYzZGtWSVNxSzdLNGc1RFgwdkszSF9RdWJfM2w1S3BDU1dHY19kTmZ6U3lNeGJ1Z0FQS3l5cUVR0gHwAUFVX3lxTE1weUtWd3VTYlBIU25vbklkOTJNZDBQV3czZG9oU2s2dDNvRFdPQlZDVXJTbjJpeEV5T1VYbzJJYlZGWlE0MG9RYTZPQkdHT2hsUnRERmx2dTBpQ2kwMjRpdjlqMjJYbzlPcEtGaVMxdW9nTlU5eXVuekc5bF9RcElMTTFESndHM0NtdjFBZXpPN05LWVBPTGQ2X1BNb1NnMHlfYlZUUjBYQjJCbG1pblJfQ2diVUdDTkx3Vmpqd1pWcGt3SFZIWm0zTUdMQXdJYnFEV2szYlJWSjhuMF94RkRrbnZGN19PMWZCRFZtc1QyNg?oc=5
 
-- Indian Startup IPO Tracker 2026
-  Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
-  🔗 https://inc42.com/features/indian-startup-ipo-tracker-2026/
+- 'Never recognised existence of...': India rejects Hague arbitration court ruling on Indus Waters Treaty - Livemint
+  'Never recognised existence of...': India rejects Hague arbitration court
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGdrME9IdlRXNFlOeHU1RFN2YzNiZ3ZWaEJ2U3o5NmhoZnVaOVVrMFNfbm5TeDExSXNsdndrSVBWTGE0dmoyYUVxSTZabVFXdTVnaTJCSmhuVlF0MXBxV3RSU3hQbWlrUWFNZDhFTmtiYmpWNFNjX05OQmJKUTRUNTF2NVVGYk8wamJOdHFoTGVvTUdDaGFmVmxoNnpHTkdYdzdHRjdrRnFLWV96R2JWT0w2eUJwRmNQeE43cXZJaWV3eGRUU3RkYWROMGE3di1tV1loTWVrQTVLWDlBZUxfcnZQS1RITkFM0gHuAUFVX3lxTE1nUDk3SjJUbVlaQXFyUzZhZkFhLVhBLVNWWG43MVlwSnBWZU9VS0pqTEY3c2hVTTB4T2VMLVZCY19RQmltMEVRanY5Ti1YeTZQcnVoWE5Jdlg1V3paal9yVjhQSzRjTjM4cFpRYnhrZkt2dmcwcXhZdzc3VUxldlh5ZTNBak9OaUx1T0JGcWQ4bVlySkRCZ24wcWxzOWpZTG5qS25aVk9vN2N2Q1p0ZFVXLW1NdTlMYkhVVkNyU2hZUG1Zb19Ub0lqQnFnT3NGSzNxTmh2RVdKWE9jN1VUNWZENGZ0LU5icTVKcDJacWc?oc=5
 
-- Zerodha’s Diversification Clock Is Ticking
-  Zerodha’s core business is no longer growing. Regulatory curbs and changing investor behaviour are cooling trading activity and squeezing brokerage.
-  🔗 https://inc42.com/features/zerodhas-diversification-clock-is-ticking/
+- What will Sonia Gandhi's memoir reveal about India's most powerful dynasty? - BBC
+  What will Sonia Gandhi's memoir reveal about India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5
 
-- FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
-  The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
-  🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
+- India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7.8% in first quarter of 2026-27 - The Times of India
+  India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOVHN4aEpNUkswVGZQZlRTUTVsc0kwUVRBSmJIY2RoYVhRaVlXT1pmNnVXUGVRS3puTzQwMTlDd2VDRDN6M2dnY2U1M2tjTGJMNk1IOHNRTFVOM2dRclc0OUdYWF9lVWwyUklRalpxNjF0SVA1UXduMGJfblF2ckg0VW9DaEVfVFlkRGN0RVZ5UWt6cVJKbEZtem5zdXg4aHB1RHgxb0o5RzhERHRGVFNuLUx1WENNRlpNVGJmUjl4RmhrN2JScnVLZXBtR0Q5MmRNTzMzZV9aWlNVeXhNMXVwYkdKc1hzUFE5Z2oxcWdBblVMdDRBWTFBRHRYTVlrVy1GdGZidlZwQzc0c2pVWXRIQ2YzdnN5RHFBLWZCODV0Rk5acmvSAagCQVVfeXFMUHZLYmNDcFFFQ0U2NXVSa190RGZuY2ZVMlB5QXIyVkxvNm8xdDAtLVBlY0hJbms2Szl0N0NxZ0p6clViemRaV21NR1p4dUpBVnZncXQ0NFVDMXl1RDhMcHRjNDdOd0YyRFJieHdGWW9STTd0bUxnVjFNQUtMcUdqSlBPbl9nanNxUU84Q1ljSm8tWFVDNkN2LUxNT19MNkZOdFF6RHpvZE5pVHgxUE9xMnYxU1V3MmhNRjRZSFhocm5XM3J6Tm4zN01aQ2RZbkU0UW5oS1puek1mRG9rejBYU050N0diTTJPZElIZV83SXdONklaTUxXbFlzdnZFZ29QU01ISEZkSTFUVXFJdW5UeFJEWHQtYUx4eVlKbUJfVlRCMDc0VEhtTnU?oc=5
 
-- "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
-  "Exceptionally Generous": Nepal On
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
+- 'No Jurisdiction': India Rejects Hague Court's Indus Waters Treaty Ruling - NDTV
+  'No Jurisdiction': India Re
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGJEN3lxNzJDaVNCVC1MaXlhN2VpVk9nQVVLN3EzMl9lQUFkTmpKNFFsZFNvLWNLeUc5SjVYUzROZ1N4MUtVbDZIV1J2UnlsbV90b0VtTy02ZVdyc3dZME01bzhZUW9sQTB0RFIzUXRhVlpZc043aEhEM0pJU0RPRkxuak9VTms1YU50cElUYXBYYjhRd0dBNUdta2NhaHNFRUZSbEx6RGVzdEYtaHZiNmVEWGHSAbwBQVVfeXFMTmxKNk1CN0dpZGZpY0I5ck5jdy03SkJ1TzU2VWdyaEwwM19CWGM2ZXdEdEFoUm9Rb2JPd2FhbDhVTXlVb2F0cE5yS0x6R3lCenFVWEQ3dkZ1OFB6NkZhNmUzckJIbWdJajR0b1dyTnpadFRQeGJRYXZFYzd2U0dnOXgzQkw4Y3B5aVNmSmpIeEh1Q0xnNG5xX3Q4aDdXcmdlLWoydjV6aGRmdXFlcm9wWFVia2ZtUjd6VENDaHc?oc=5
 
-- Starting September 1, Indian airports are discontinuing immigration clearance for ... - The Times of India
-  Starting September 1, Indian airports are discontinuing immigration clearance for
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVllJeUFCbXVKRDhLYWVoMkJVR2dpVVhOSlpfUHEzSXpPa0dBQmpFUF94YmNlTzdJYmMxSkl5QjRwcno1cnBIOGUzSlhQbGwtYTIxbWg2VmVKX3F1RDJhYnZRVHFhUDI1aVAyNVVJYnpBcC1GNlUtSzFsbVNseEROMV9OaVdmY0ZiYlUwZGU0b20xTFBsMXdwTXRsdXppT2FnQ2ZOakVsTTZVQ01OUDhOOWNXYnVnV29OakFnWEFtWGdCUlIzNEFHYUoyWTJJejJyS2hRQm9odkNkNVJUaktBbE9uUi02SlNSWHZ6el9ObzNCSm9xMnVB0gH8AUFVX3lxTE5kVDVUUWEzZ24xQzVBbHN4QmZyQVcyX29hSTZNR2xKb1JiMXlqYU90SS1jR1FxQmRYMmhnak9UMERHbDRnWUJoQVRWVVBRbmg0Sld6M19MQkRtVlM5MEVZZV9EVWwtaUZhMllVMHY0SmFkRl9jVmVtVDdqTmpCanlDYkc0dGhXNURYODlzNEZsb3F4VG0zSjByelpBeVRwUFVjdzRubkFYODEwTmFyamhJOUJqUGI3SEhaNXJNcDNIX0s0Sk92YmMwVmZ0QURVTy1KbGVLMWFkSGNOei03Y2RiVkdhUnN4TW0yNEVQRURqZXI0X1dRSi1mZUNMbw?oc=5
+- India rejects Court of Arbitration's Indus Waters Treaty award: ‘Illegally constituted, has no jurisdiction’ | India News - Hindustan Times
+  India rejects Court of Arbitration's Indus Waters Treaty award: ‘Il
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaVZkV0ppV3NLWDhWaFRyWUVJQnN5M1dtNWN0clN2S1JXcFRaSHNHUmxVbnkyWXBpV05qNjh4SUhGQW5HRHNjNFVzNE1vWXRwUzByOW01eVNSU3hRU3FkMC1ZeFNDekNMTTdJYU5iS0hEdjFmMW8yd1JWLWMwMHpnZU5qQnZNdmJFa0plem84cmNiLUFJcW1zRjA2VTlrNFBidHVRSzByOFZXbkJ5bEwySGFnOGYzZGtWSVNxSzdLNGc1RFgwdkszSF9RdWJfM2w1S3BDU1dHY19kTmZ6U3lNeGJ1Z0FQS3l5cUVR0gHwAUFVX3lxTE1weUtWd3VTYlBIU25vbklkOTJNZDBQV3czZG9oU2s2dDNvRFdPQlZDVXJTbjJpeEV5T1VYbzJJYlZGWlE0MG9RYTZPQkdHT2hsUnRERmx2dTBpQ2kwMjRpdjlqMjJYbzlPcEtGaVMxdW9nTlU5eXVuekc5bF9RcElMTTFESndHM0NtdjFBZXpPN05LWVBPTGQ2X1BNb1NnMHlfYlZUUjBYQjJCbG1pblJfQ2diVUdDTkx3Vmpqd1pWcGt3SFZIWm0zTUdMQXdJYnFEV2szYlJWSjhuMF94RkRrbnZGN19PMWZCRFZtc1QyNg?oc=5
 
-- 2 suspects in Haryanvi singer Ankit Baliyan's murder killed in UP Police encounter | India News - Hindustan Times
-  2 suspects in Haryanvi singer Ankit Baliyan's murder
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmdtREdjd2ZWUzI3UFBSTGVHcjgwR3dpMnAyWlhzeVFaSEJNYVRfQnNBVjRnQzFtZWVoeXRzQ3RwODBtcWVfUEstZDNHSHh6SFloZUpObm1TVGRDMVRFam1SWjRRZXotaEdpYTdTZVhwbGp1S3Q3Y3AwYTlxeGFIYTl3aUVqWi1OSHI4OWNJTWZ5QU8ya05tenRSZUo4dGZ6anhqSGFwX0w5WHJGLVdjVVhvU0h5cUpfbWtVaDRrUVJEOHE4bktoMTkxZ3Y3OGVaSEJ1Q25tczV4LVJDSV9uUmtMZlHSAeoBQVVfeXFMTXpGbzNhX2h4OVhWamV4d2UxNnNpSXFmMzBSdmhMVXQ0OG1FOThTdFB1YkM3MUZuRGR0aC1WVFIxT3lTRnFacmJUeWk0Qmxod0dYOXdWQUpCck5qX2ZCcVFSWE5lcFpsaXQ5YnVJNG14ZlVrd0VTblh3U1A4QWt6emg2aXhFVnVGa3lvRF9ONGhJUDFOWXJBUkRJaE1lR2F3N1gyaVg2OUdLcHhYVFhLODh4dmR3R1dRMHdQdWhZRjBhMkJBNzQ5d2pyaTFVbHl3V0FyUjNpYXdRUkl1VE9XN1FhdThuZzY1UU53?oc=5
+- 'Never recognised existence of...': India rejects Hague arbitration court ruling on Indus Waters Treaty - Livemint
+  'Never recognised existence of...': India rejects Hague arbitration court
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGdrME9IdlRXNFlOeHU1RFN2YzNiZ3ZWaEJ2U3o5NmhoZnVaOVVrMFNfbm5TeDExSXNsdndrSVBWTGE0dmoyYUVxSTZabVFXdTVnaTJCSmhuVlF0MXBxV3RSU3hQbWlrUWFNZDhFTmtiYmpWNFNjX05OQmJKUTRUNTF2NVVGYk8wamJOdHFoTGVvTUdDaGFmVmxoNnpHTkdYdzdHRjdrRnFLWV96R2JWT0w2eUJwRmNQeE43cXZJaWV3eGRUU3RkYWROMGE3di1tV1loTWVrQTVLWDlBZUxfcnZQS1RITkFM0gHuAUFVX3lxTE1nUDk3SjJUbVlaQXFyUzZhZkFhLVhBLVNWWG43MVlwSnBWZU9VS0pqTEY3c2hVTTB4T2VMLVZCY19RQmltMEVRanY5Ti1YeTZQcnVoWE5Jdlg1V3paal9yVjhQSzRjTjM4cFpRYnhrZkt2dmcwcXhZdzc3VUxldlh5ZTNBak9OaUx1T0JGcWQ4bVlySkRCZ24wcWxzOWpZTG5qS25aVk9vN2N2Q1p0ZFVXLW1NdTlMYkhVVkNyU2hZUG1Zb19Ub0lqQnFnT3NGSzNxTmh2RVdKWE9jN1VUNWZENGZ0LU5icTVKcDJacWc?oc=5
 
-- FM Nirmala Sitharaman says India likely to sustain 7% economic growth in FY 2026-27 - News On AIR
-  FM Nirmala Sitharaman says India likely to sustain 7%
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaURFcjJQLUNRVVpjb05yazFvODB2WUp2SjR3WTZZOGJ4RXVLWldOazBxQ1IteHUtRWlENTZCOHA4Wk0tX1AwSS1yalpaT2hDR1RtV1JUenlsRlpJYnl6ZzdSel9KOVpja1FFRGd1a1RTdFVfUXNjTFBja1ZUSjFHZmpsM291SFlBQVR0VXY3RnZ4aEtOSGY2RWNoaG54UEwzcE03YWZ6SEVKVDNW?oc=5
+- What will Sonia Gandhi's memoir reveal about India's most powerful dynasty? - BBC
+  What will Sonia Gandhi's memoir reveal about India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5
 
-- Nepal floods latest: Officials intensifying efforts to free hundreds believed trapped in hydropower tunnels - BBC
-  Nepal floods latest: Officials intensifying efforts to free
-  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSFZyT0RfZFFQN0FVQmxaS0lNR2ZfdFhZX21LSVRaUVpRNDJBWlN5ZHRmS3l5LWFXcVExYkR4SC13ZVdOZlQwckluYW53VUI1Mzc0dTNn?oc=5
+- India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7.8% in first quarter of 2026-27 - The Times of India
+  India Q1 GDP Data Live Updates: GDP growth defies US-Iran war impact, economy grows at robust 7
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOVHN4aEpNUkswVGZQZlRTUTVsc0kwUVRBSmJIY2RoYVhRaVlXT1pmNnVXUGVRS3puTzQwMTlDd2VDRDN6M2dnY2U1M2tjTGJMNk1IOHNRTFVOM2dRclc0OUdYWF9lVWwyUklRalpxNjF0SVA1UXduMGJfblF2ckg0VW9DaEVfVFlkRGN0RVZ5UWt6cVJKbEZtem5zdXg4aHB1RHgxb0o5RzhERHRGVFNuLUx1WENNRlpNVGJmUjl4RmhrN2JScnVLZXBtR0Q5MmRNTzMzZV9aWlNVeXhNMXVwYkdKc1hzUFE5Z2oxcWdBblVMdDRBWTFBRHRYTVlrVy1GdGZidlZwQzc0c2pVWXRIQ2YzdnN5RHFBLWZCODV0Rk5acmvSAagCQVVfeXFMUHZLYmNDcFFFQ0U2NXVSa190RGZuY2ZVMlB5QXIyVkxvNm8xdDAtLVBlY0hJbms2Szl0N0NxZ0p6clViemRaV21NR1p4dUpBVnZncXQ0NFVDMXl1RDhMcHRjNDdOd0YyRFJieHdGWW9STTd0bUxnVjFNQUtMcUdqSlBPbl9nanNxUU84Q1ljSm8tWFVDNkN2LUxNT19MNkZOdFF6RHpvZE5pVHgxUE9xMnYxU1V3MmhNRjRZSFhocm5XM3J6Tm4zN01aQ2RZbkU0UW5oS1puek1mRG9rejBYU050N0diTTJPZElIZV83SXdONklaTUxXbFlzdnZFZ29QU01ISEZkSTFUVXFJdW5UeFJEWHQtYUx4eVlKbUJfVlRCMDc0VEhtTnU?oc=5
 
-- "Exceptionally Generous": Nepal On PM Modi, India's Efforts During Crisis - NDTV
-  "Exceptionally Generous": Nepal On
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5
+- Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams - The New York Times
+  Gene-Editing Technology Offers New Ways to Create the Dogs
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5
 
-- Starting September 1, Indian airports are discontinuing immigration clearance for ... - The Times of India
-  Starting September 1, Indian airports are discontinuing immigration clearance for
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVllJeUFCbXVKRDhLYWVoMkJVR2dpVVhOSlpfUHEzSXpPa0dBQmpFUF94YmNlTzdJYmMxSkl5QjRwcno1cnBIOGUzSlhQbGwtYTIxbWg2VmVKX3F1RDJhYnZRVHFhUDI1aVAyNVVJYnpBcC1GNlUtSzFsbVNseEROMV9OaVdmY0ZiYlUwZGU0b20xTFBsMXdwTXRsdXppT2FnQ2ZOakVsTTZVQ01OUDhOOWNXYnVnV29OakFnWEFtWGdCUlIzNEFHYUoyWTJJejJyS2hRQm9odkNkNVJUaktBbE9uUi02SlNSWHZ6el9ObzNCSm9xMnVB0gH8AUFVX3lxTE5kVDVUUWEzZ24xQzVBbHN4QmZyQVcyX29hSTZNR2xKb1JiMXlqYU90SS1jR1FxQmRYMmhnak9UMERHbDRnWUJoQVRWVVBRbmg0Sld6M19MQkRtVlM5MEVZZV9EVWwtaUZhMllVMHY0SmFkRl9jVmVtVDdqTmpCanlDYkc0dGhXNURYODlzNEZsb3F4VG0zSjByelpBeVRwUFVjdzRubkFYODEwTmFyamhJOUJqUGI3SEhaNXJNcDNIX0s0Sk92YmMwVmZ0QURVTy1KbGVLMWFkSGNOei03Y2RiVkdhUnN4TW0yNEVQRURqZXI0X1dRSi1mZUNMbw?oc=5
+- Highway Projects Above Rs 500 Crore Must Now Use Automated Construction Technology, Says NHAI - Swarajya
+  Highway Projects Above Rs 500 Crore Must Now Use Autom
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzJwdS0xQnBOWVNlYW85bHNtMVJGYzE4dHdEMUZzbVp1ODB4c3luR1BOdm1hNWRlWHJIcklMQXlUbXB3UWdoTzFxNl94R3N0eHZzUmJJdW01OElaNGhTZXZhR09VaU5JR2hnUzBBUTlFYXhoLUtSN1plbEV4N0JTcEFWS3VCVFlCUE5TbW03Z2tTRHMzVlZxRDNScHVDLTRBUjNqSjZTSi1TQXpRbkFhZThNVTZFVmdSazBBZVB0UkxPZ9IB0gFBVV95cUxPSWZxMlY0ZWozSG1meXVxVE83Q0pMQTZfMXhXYUtJTF9NelFtRXB2MWt3OWZsR01wckFobDZLVEFJU0tCd0wxcEdTTjVDVUF0bzV0bUNrdWo2QkNHTUVUSUxsWmtZMThXVHdlajJmcFdlUENMelhwVm9PWjNtSHZ6MjJyNXZZSmJoRV9Famp5cWwtekN3ZHY5aUxxT2VtMGpyZE0tV3dLaGJZRnl1VURyRkZGbm00WlU1d1dmVDJ5Mm5McXYyMmp6U1BBbzBWWkd5blE?oc=5
 
-- 2 suspects in Haryanvi singer Ankit Baliyan's murder killed in UP Police encounter | India News - Hindustan Times
-  2 suspects in Haryanvi singer Ankit Baliyan's murder
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmdtREdjd2ZWUzI3UFBSTGVHcjgwR3dpMnAyWlhzeVFaSEJNYVRfQnNBVjRnQzFtZWVoeXRzQ3RwODBtcWVfUEstZDNHSHh6SFloZUpObm1TVGRDMVRFam1SWjRRZXotaEdpYTdTZVhwbGp1S3Q3Y3AwYTlxeGFIYTl3aUVqWi1OSHI4OWNJTWZ5QU8ya05tenRSZUo4dGZ6anhqSGFwX0w5WHJGLVdjVVhvU0h5cUpfbWtVaDRrUVJEOHE4bktoMTkxZ3Y3OGVaSEJ1Q25tczV4LVJDSV9uUmtMZlHSAeoBQVVfeXFMTXpGbzNhX2h4OVhWamV4d2UxNnNpSXFmMzBSdmhMVXQ0OG1FOThTdFB1YkM3MUZuRGR0aC1WVFIxT3lTRnFacmJUeWk0Qmxod0dYOXdWQUpCck5qX2ZCcVFSWE5lcFpsaXQ5YnVJNG14ZlVrd0VTblh3U1A4QWt6emg2aXhFVnVGa3lvRF9ONGhJUDFOWXJBUkRJaE1lR2F3N1gyaVg2OUdLcHhYVFhLODh4dmR3R1dRMHdQdWhZRjBhMkJBNzQ5d2pyaTFVbHl3V0FyUjNpYXdRUkl1VE9XN1FhdThuZzY1UU53?oc=5
+- AI-enabled Supervisory Technology; Soft Chinese Retail Sales; and Outlook for Sustainability Jobs - S&P Global
+  AI-enabled Supervisory Technology; Soft Chinese Retail Sales
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQajE5TUVmT1FmS0g3UEZkS2FXREU4ZDFmelJTQWtydWhrbWo3OHRNS0gzWUt6Q1FFeWxybFNDWEQ4a2JDM0JzRGluNVhwc1dzalpWU1E5bElweUNTWGdqSVNVaUFYR3R5ZGhHYkFUQUUtLTNXcDZsbGszNkFqN043WjIxbFBHcnY5SGlaNDRrWQ?oc=5
 
-- FM Nirmala Sitharaman says India likely to sustain 7% economic growth in FY 2026-27 - News On AIR
-  FM Nirmala Sitharaman says India likely to sustain 7%
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOaURFcjJQLUNRVVpjb05yazFvODB2WUp2SjR3WTZZOGJ4RXVLWldOazBxQ1IteHUtRWlENTZCOHA4Wk0tX1AwSS1yalpaT2hDR1RtV1JUenlsRlpJYnl6ZzdSel9KOVpja1FFRGd1a1RTdFVfUXNjTFBja1ZUSjFHZmpsM291SFlBQVR0VXY3RnZ4aEtOSGY2RWNoaG54UEwzcE03YWZ6SEVKVDNW?oc=5
+- Himel Wins Technology Excellence Award, Bringing New Thinking to Everyday Electrical Products - PR Newswire
+  Himel wins Technology Excellence Award, Bringing New Thinking
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTlA0UHJKblBzTW5JNjlJckxBbTEwOEVFUU9Fa1kxNkR1TEhxeUNmLV9ka0lXdU9JRnJ3RDVob0hUQlgxeGQ3UTlIVXZqbTN5MktBSkhMSDhNVEpfcjVTQmFwbGVLMUJNUjMwNXVXNUwxaGEtLUJDbGEzMnYzQmxuS3huY1dWMnE4NDRiUU1UMUJMR01yLWdDN2NRVzRWd3hjRHg1ZlNBdnJ3RkdYUmNoeEMzSGxRempfTnV0MGJackgtc081Q1drM2hhZ3N3QW9wMFlWQ0RPb1lhOTJrT0YtWlg5T09KRnVR?oc=5
 
-- Nepal floods latest: Officials intensifying efforts to free hundreds believed trapped in hydropower tunnels - BBC
-  Nepal floods latest: Officials intensifying efforts to free
-  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSFZyT0RfZFFQN0FVQmxaS0lNR2ZfdFhZX21LSVRaUVpRNDJBWlN5ZHRmS3l5LWFXcVExYkR4SC13ZVdOZlQwckluYW53VUI1Mzc0dTNn?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- LVM3 ‘Bahubali’ technology transfer: L&T, JSW, Adani, Mahindra among firms eyeing ISRO rocket deal - Moneycontrol.com
+  L&amp;T, JSW, Adani,
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTTJYempnOHpxQ1VGaTh4VzlJZkxIdEQ5LXFPZXNaTkljclFRdFVVVTBRRWdrVWxhYWY4ZVphdHMybTdWU3dNa0RnUFBtZnAyQ0k2VVA2eFc2aXloSHA4VTZEcGlmTTc4cFpaVjNHNC05akF3SHZmakFIOUlNM1pvTm1QUXV1ZVh0d2lfaFFhRHl2U3RPc19oOE52Rzh2aUpvYTNpYXV6UkhFRm5HbmFTRTg4QTVHMmVJX1UzaFhmZmpQYWZBNmVGSEhZWlVSdjNzT3VvM2g2OGdDUDl6UW9N0gHkAUFVX3lxTE92RWgyUTNTWjlSLTI1bnNka1RERVZPUEVYNnZObXdBckxxeFk4ZGdQOGxhd0Q5QlBsWm1lT3Q3ZFZfS2czMDYzY3RYMlBVUFNlTV9KNHFtak5CVFdUZzZqZEdEcEg5bUVHOWg0V1pzMkhtbHk4MWpJc3pGTllZZVVNOVNGVUhMemlpWWFMdWJzOHhKNk9oODExZzR4WklFcDZsUUtoejRjZklTR0JFbHBkRzNPREF3eTI2MWRqQS1VVUpnbml1VzVFVjlZenhwOFBXWmNzbmt1aWw3UUUtOW1sSnk4Vg?oc=5
 
 
-_Last updated: 2026-08-31 03:03:49 UTC_
+_Last updated: 2026-08-31 12:31:03 UTC_
