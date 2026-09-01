@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- "Doomsayers Doomed, India Bloomed": PM Modi Says GDP Growth "Exemplary" - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlfR3phcWR2bkV3Sm9SZUg2S01EMHBTam1QRkRfSmZURmFEN2xWOGt0c1ZjTHU5TkZjbnQ2QXBKM096c1JVZ0x5MXJ6a1pueWdBUTZsQ05rUW9qa1ZVMkFxaWZhdjRGWl
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlfR3phcWR2bkV3Sm9SZUg2S01EMHBTam1QRkRfSmZURmFEN2xWOGt0c1ZjTHU5TkZjbnQ2QXBKM096c1JVZ0x5MXJ6a1pueWdBUTZsQ05rUW9qa1ZVMkFxaWZhdjRGWlF6bEtYS29kSTVSWVhNa1BDX0ZuRERaSVB6LUI1WVJkTHhkMl9GMHl6X0lvVzNYdng2NTJRWU9uRFg4Y1BEdlhwY0hDbkppWl9BbkNyanNkZ1NObUx30gHGAUFVX3lxTE1SU1VyZjRzTVc5bEZrWXJDLWwyMnFBMGlnWE84aXZYQmNIbTg5TVJVY0dLQmdtcDNFbmN0WnEzdlMxWFVNYTBEbmpITkdwcWpoRURYNWxJSzd2OHdTQkg0RkFEaUlUMmg5cXRTZ2dWM3lZOWJXZnM0NDdDbW56UnRFUzJPOGpNVGZCSXRTZHZ0VW4tYTk1NmFScWxia1dIQXNmcGxnWm95Rm1wb0UyVkluUldEcTktZUg2TVRNRzdVWm1Jckczdw?oc=5
+- As GDP Grows, PM Says "Don't Travel Abroad Or Buy Gold, No Foreign Weddings" - NDTV
+  As GDP Grows, PM Says "Don't Travel Ab
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm9kR3hKUndqQ0ppYVdsZGfSAcIBQVVfeXFMTU5tSGN0Y1FORktDQUFJVXkzX2ctVzZkYVZNSE8yTzdxUnFiQkdQbWp6T25Eb2RyMXQ3TUZVWWhkVmZ0akc4T3hrWVlKaXJlaHhwaEZBbWdJSDJiUS1oc0wwb3E1eklxWERMTkI2eWItVlFhSGJoM3BOVjFNUWFBVnNEVnZuMGY3ZXBqaUI5RHQyWlNzU3Z1T2pxSnBDRURMQTBuMjR0MUhFbVBFcUJKX2x3NzlCTjZ3eHB3YzlGLU8zMVE?oc=5
 
-- Sonia Gandhi: What will Congress leader's memoir reveal about India's most powerful political family? - BBC
-  Sonia Gandhi's memoir is expected to be released later this
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5
+- PM Modi's "Jhooth Ki Goonj" Attack At Rahul Gandhi After 7.8% GDP Growth - NDTV
+  PM Modi's "Jhooth Ki Goonj
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNTy1pSWxkcjFnVXQ4VWtCcmlmNkVEcC1MejZkdnpvcWpwZGJqZnV4eHVvTGJrY0VEeUhDZDdycGM4NVBqdTNKZVBKZUUtLXNMcHZQT0dQaVNvX2N1Z2szSHZTdl9zZ0EwVTJ6WHVZVEhwaURDcEU0ZF9XbEVuRERQS0ZsMHNDaWx0bVdnZm41MzF5bFpsNjRpNDBubktLTjNNaUFZRFhPR3hwelpRWkHSAbYBQVVfeXFMTkVHdWhnR19TNjk5dlJMaHFoUkhYekJsVUl3dU5TaklVNGVLVlQzNTZvc3lpRnM0dzFIWG5sM2xYNEpnclZCd0pNdnN4VmxDckdUXy1LcUFFVXh2Z2ZWTWpEQW11Q0JRZDZVMWhjc29UbWZNTFZmWFRIRTdWZGlRNk41VlliVW01Z0RYVW96b2Y1OFhKSllLQnB5R295dEp2WnRWa3luSXpfVHFOWHMwNlllWV9mX3c?oc=5
 
-- 'A particular issue': Penguin India on impasse over Sonia Gandhi memoir - The Times of India
-  'A particular issue': Penguin India on impasse over Sonia
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmpmS0FWRE5rTkhBR2ZQWWI5cXhLbjY3ZkpHZEJ5ZmRSVmVMWUl2SHBkQUxsaVpFS05fLW5CZ045S0dyMXIzSGt5QndWVm1WQzVGVWxSTjRLVF9HZEFQTjJ2Z3U2TGV4N2I2SU4xQ05aS0hadVR4WHBia1JOYUt1Z2RhZ2o1YVlBTExVZVI4U2NBV3k0di1lNFlLeU93STlQSjNWYlpkVGpMMHJnc1pJd1RjSlE4eUZSRHdVTnhvWDF6YjBCNUp0S3NVbkxrUVU1dmfSAdcBQVVfeXFMUGkzd1NmSUV5UWp6Z19CZTBYUmtfTWQtVVB1NnMwV2k3cEdPd0pyR0s4YlRtcUV4QWRyRnpSaVNBdTgxc2FvRlRKd1paUnFQdFdoWFUxb1JiVk16SDFZMVdFb0h6LVNhUFoxbUM1ZTQwZlE1N1AxYkM0d0FJX1pGM24xbXJVeVk0WHJVRktITjM3eTJqY0pVS3BWNXR0TU1VVmYxNWdjYm43TVlKQ2xEU0hIeC1sb1YxQnZEUFp3clNKaHlBVUE4b2RvOEpRX09OdmNVZkFTQWs?oc=5
+- Why PM Modi is again asking Indians not to buy gold, travel or 'marry' abroad | India News - Hindustan Times
+  PM Modi is again asking Indians not to buy gold, travel or 'marry'
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQThhTEVxUnNOYm1ZNUJZSUNEOEZtUkZPWTN0ZXRsSW9fOVJhSzIwVmI0UFZTalowOHIxTzBXNFpOZGRrV29DdXR1YXFVcy1EME1DMGZWQlNucEo4cHptN1lualVNTlJCWW4xQS16TnNZaTg3Z0oyV0RmcmRKN0h5SmFzMy1FZl9CZS1XQjkzVlpZYWE2MDBjYWtFLWlZeHF4QVFwc1ZGeUtYX0p1ZlV6eGlGQWpKSDZsa3VzVG5iMXZucGJoalplZlFxRm5acUJIZ0Nn0gHYAUFVX3lxTE8taUh5NlhHLWliM242S2Z0djYyTHJUZDFiUE1MbHBEcmhCa1V6MzBLVmVxZHhwVDRXOHAwMU9LVFFaYXBRMG5vY1Q0QmFvOXFWZUlBWmRDeVU5aVNtVGIzRlpOZ0QwMnhyVVUycl9hYU9OSEgwTWhQZkZ6eHYybDlUR0dKWXRWaWhhYlpfV2lDWUM5cjhoTDNLQ1JKYzRuWVdVOHFzcTR4MGFrZldfMWFRTlZaMkl3c0lMS0dRdExWQjRSU3prSmZJZXFJV0R0UUt0SW41OVlrYw?oc=5
 
-- "There's Pressure": Congress vs BJP As Penguin India Drops Sonia Gandhi's Memoir - NDTV
-  "There's Pressure": Congress vs BJP As Penguin
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjV2WXEzWDVvTDBsRmhSM2x2bFRjZ3J4OW9uRldKdmRjUU1ySlBNUk5IbnNDem5tR1hOeEdIeGw4b1Zqd1BsOFJBM0NIRVhnOTUzazgySndnQ0JXRnRrRlpHWlY3Z1llUlRMYzh1enI2QUJTblZOUGdyR1hYTlJZX2lMLURya1B3ZjZURWJPa3lhRWUtME5aQldCeXRGaHN6b0lKRHZ2VW1VbVdSYWFWS21vdGE1b0hmcUFNZHpzSGdMRXBpMVR3?oc=5
+- 'No jurisdiction': India rejects 'illegal' Court of Arbitration's Indus Waters Treaty award - The Times of India
+  'No jurisdiction': India rejects 'illegal' Court of Arbitration
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY1A4Y1FKNjg3QzFFckxZdmQ1Mm5NUjNMcDRYd0QtQ3NRTXl3dll3b1RUV1NFdi1mT01DbzgxcC1OV1RTSkpicnBqYXlWUHVwQWR1dnY5a1R0a0tRcTlpRHZmWklHUVlyLVFzSU40MktraG8yS3N5UVZRbDJLSGxhNlcyWTFrYWMwMlVZU1cxNlVCTzgyYW16NXZHRFBUTXBYM2poT3lxOWhjNW9DTmU5Qkp6eXpQZ2x6YzhsWWhGSkktQVRyZVcwN1BWTm1hTm0zcmNxU3prR2QybE5sdjM5UFQ5cjBQWG_SAewBQVVfeXFMTThSVXlITGpnMjFYb2FWWVlQQ253YVBTOXUzS3ZISUNVY1dNT1dVUF8wX1RnS2V2Q0xMYWJZTzFGTC1qVTViX0NCb1lIc2habXl4UEdibVlGdFpJenlBOW9lamNXb3pZUlJwODJxS3pfMlNhSW03eUI3NWVZODNiQTVKbDg5SVAzaEUxS0NOR3Q2SGU1d3pRdWlKb2N3QjZYdUt4eWR6eVl5OUhmTjJoNzZvb0wxZUxjOU8ydGgzQ1QtSjJ2bDFJcG1sVDEtQlV1ZUpOZTg2NktVZFYwV1RJTXpCczZuZ083WGZ0STc?oc=5
 
-- Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil - cnbc.com
-  Indian PM Modi implores Putin to end Ukraine war amid U.S
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2xOMTZWRlBPVG9URC1jc01hN2Ytd2daYmJCS0lvYlJaOGs5U3Jwcm55ZXlBenpQcERvcUdLdERXTF95RmM2TThVXzNZSDZVWHdQdUp2UW1oMjVSRnlxZzRPenVmVmpsWnNmMFZIOV9IYUljSEVhcFJYOUZZaG5LOVlR0gGHAUFVX3lxTFBIT0hRTmZMMTQ2MnlLV2Y2UU1IYVRZZktxNl9PcVl2VURxWlRZVFQxN2s4RDRNT2JJa2F3VFJpQ08wZEhadTVzOFFPdHh5MDNwZUZQMC1mQ085X1hpZjJXSkxvVHFpM3NVWWF6blRQbkxBTTBaMGlkcVdZUEtqbXNVZFVSWnRUVQ?oc=5
+- 'No Jurisdiction': India Rejects Hague Court's Indus Waters Treaty Ruling - NDTV
+  'No Jurisdiction': India Re
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGJEN3lxNzJDaVNCVC1MaXlhN2VpVk9nQVVLN3EzMl9lQUFkTmpKNFFsZFNvLWNLeUc5SjVYUzROZ1N4MUtVbDZIV1J2UnlsbV90b0VtTy02ZVdyc3dZME01bzhZUW9sQTB0RFIzUXRhVlpZc043aEhEM0pJU0RPRkxuak9VTms1YU50cElUYXBYYjhRd0dBNUdta2NhaHNFRUZSbEx6RGVzdEYtaHZiNmVEWGHSAbwBQVVfeXFMTmxKNk1CN0dpZGZpY0I5ck5jdy03SkJ1TzU2VWdyaEwwM19CWGM2ZXdEdEFoUm9Rb2JPd2FhbDhVTXlVb2F0cE5yS0x6R3lCenFVWEQ3dkZ1OFB6NkZhNmUzckJIbWdJajR0b1dyTnpadFRQeGJRYXZFYzd2U0dnOXgzQkw4Y3B5aVNmSmpIeEh1Q0xnNG5xX3Q4aDdXcmdlLWoydjV6aGRmdXFlcm9wWFVia2ZtUjd6VENDaHc?oc=5
 
-- Students display projects at CREGU Young Scientist and Technology Expo in Cuddalore - The Hindu
-  Students display projects at CREGU Young Scientist and Technology Expo
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU1NPQ1pLUnp6azhHdVBxTVc1N2QtS0p4Y21VaFlOYnp6ZFpjY3hCMzFSRXItZUVaWEpNZG9kbHFNcU5mN3dGN2JRZHQtdXJmQzBta1BRTGxVelF6enNsVG5mOTVGMVMzWVZTb1BFdExxSVRkeFZOVEc5S3lhcUdiWmN5eWthYi1YR092SjRwYjBJb0wwY0tyMzFOTEF2VXgzbEUtUUhkc1FPVWxHai1hTHpuQXVieHNkLVptYmtCOHpkUjlPd1dJQ2JtWi1RRHhNQkZNNE5BMHdBbmpFMFhIZE4tWDhJT3Fu0gHvAUFVX3lxTE9jUi05eVBuN2dVNkVaMExJVnNtdGhEaHU1bFBSRDNmT2tIX1hLMXRBcTZXWEI3cUEwUFRYTllRUnU0Ykw1cXUyUmtjVzRENDhpMF9iYXdtdmZaRGs2WFBfa3VkVHozWC1odDdndDQyalhDTHZ6SmRyWFRXOVA1NFBfSFpNRmFCOU4xLTUzcHpRS0NxVU1mQlEydGxIY3dxRzF5YTJzZE4wWndsRTFwSkNHSWJORGdSN24takp5dGtzeEtPY1N5QzZoeDVvU3VOQmd5VDhPcUhqZmlQOWdFcjA2TDJyUDdFeHpQa1ZONmEw?oc=5
+- Once It Was Pugmarks. Now It’s AI: How Technology Is Helping Protect India’s Tigers - The Better India
+  The Better India is a series of articles on the state of India's
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZVo1QzdXZ2FSZEhzUDE4WGVWT2s3alZKaDYwMHJVU2w1Z2I1UkFUcjJ0VlRGam5OSnBuT1JZR0hjcXdmR0RxUkpxb0M0RE4xNFJtMFNYdm10eEtUZzRILWU0dGtTcVFYeUJrRERTdG1SNWZ0bmRhMG5jU0dIWFN4cjdGbmhqY3pZM0JxdTJnOWRLakt1YzNhamNVTVVEU2xPUExxdzVLVHg3QmwtMEpDemg1czJfLW9o?oc=5
+
+- JSA Boardroom Connect Bengaluru to focus on legal and policy enablers for technology-led growth - cfo.economictimes.indiatimes.com
+  JSA Boardroom Connect Bengaluru to focus on legal and
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQSzBBamdWMHJmbmVrY0lYZWdrUVg2Vjh4cGg4VG1MWHRsRFl6NXM1aG50MmxKN0hCakp6N3Q4R0VzakJuNjJpbXpSOFV6TElVTEtpT1dZYXBfMUotOEI3ZEI5WGVkQk9HbUMtaXhxbkhtMjZ1Q0o2ZlI3UWZnX0FTdHg5QlJtY2ZraE45YURkdmNzald5YzYxbWt6ZldaSVRsTWxscUFhWVRNeDEtbWkyal9nZDFhZGE5aXZPR0lWdHBLTTI0T2xKTjlGUzQySWd0bkxDVEozd3JxVDNCMjlad2tyUERrUGV1VnFRY2Q1emJNM0tEQlByOEY1dlFudElqTEHSAYcCQVVfeXFMUFB2LXZEd0QxSjB5a2RHRm9RLUtOUjNFQnN6enh5OUVRamNaZTRkYWNyX1BJT0tnak45LWw4MkxPNFY2QUoya3RNVVdSLUZxZ3NwMXpLSzZtN3BrUE05ZHBVT29XVzd0cTgxZVZhV1dsVXpDQVhJMWM4YVFvc2NVVjJGUzFnR2tJZXZfZUtwV0xqV3FoM3VFUGNGWFFRdDlsV1BmT000ekFsOHhWeG1GQmFmOEtaV09tMTRKYWlFRFVwZ0xwZ2Etb2Q1anA0aXRXTHlnTmxyZWdNc1BpRjlYbGFaQXJtYTFzSUpaS2Nfc3plOW13SmZvS09GdDcwSWd4M2dCTGx1aUE?oc=5
+
+- SCTIMST, Invasive Technologies unveil indigenously developed coronary stent ‘Chitra Core’ - ThePrint
+  SCTIMST, Invasive Technologies
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3pyRUU1VzZaVndhTzUtbEpyUUVUYzJjb25DbUl5QmQ2Z0hMMmtIWFNWUFloUEFUQ3RXbnl3SDNYc2R5U0RZcjhLSkF5anV5Zk9jeXh5Q01xM2ZDcFluOXNEUUhvZHl3THdtTjBVcnZPRGVUYk5rOEVFX09RUHhrMmxyRElMTElxWkc5OUVvMk5SUnpqQmFPU1hqSjhfdHJXLVpRZS10U0pRbTEtbGxTcmFpb1R6X1BpRS1nbGxR0gHDAUFVX3lxTE1rUWdZNHBFZjNHMW4waEhUSGhyd3RjMWo3SEJtcGZSNmV4Tks0T3ljV3ZBeTJGeHNCRHRrd1o4R2Z1OGthTEVPcUQtcWVLWXBkZUpHOUVMSzlCbjgwMmkyY19NamJKQ3lkRkxtWXo0N0JMeXoyMEgwNncxZ0stbkxUSVpaOHRETmkzYnJaTDhGQTZ3VXpYbEo5aWZmanNqMEN1SVRYUkVjRXdTbnBoZFM1S2JHVlBLT1Y3VVIyRDk0dDJCUQ?oc=5
 
 - Gene-Editing Technology Offers New Ways to Create the Dogs of Our Dreams - The New York Times
   Gene-Editing Technology Offers New Ways to Create the Dogs
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOalY1czRUSFZoSDF2VTk2X01uWEdpS2h0eE90ODR6Mlktay02Ull3VEZaTVRBcGhidUdwRjJZUFN6WHVLSllfQkdZS1ZaSFR3dVVtcjZadmJhUXBoWW5od1pHOTZFSkRwLWZJRVJVdDJYcFF2NFFuRDFBVFV6QzBleENvc0Rvakk?oc=5
 
-- AAR appoints Sanjay Sood as chief digital and technology officer - Investing.com India
-  AAR appoints Sanjay Sood as
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcURkYU92S3QwUHpuUnRkTTRacGYxaE1hb1ZWUkVnUDFqQjk4VUlzTUtnb1hULU1WZWlPTWhqOTdrOWgzd0FCSURtWXM1bnJoSWU1YVVYbEhiVkV1TEJZTS1LQlhjMWRCS3drWTN4OVB2SWdWS0hzRktxZkhuazgzbEU5enR5dGc2Q0k0ZXNmQVNGTkdFZUxHeTBHam1RMkxqUUY2TWdGc2h6M29rbFhNN003RjBYTmVOSWE4ekVwZENIRzQ?oc=5
+- Medtronic invests in Pi-Cardia for heart valve technology By Investing.com - Investing.com India
+  Medtronic invests in Pi-Cardia
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1BCNV9UMG5OVE04U1lONENxUEpCU190RHVvVXdkenAwTkNiSEIwWV9pejBndXpkTndEUTlUUGhpMzlzSi1XbFFscnQteVdvNElFTXZoN0NMVTEybDh0YmVHNTFHM2t3RFd4MXNhQnZqSU1zTXIxM2ItcHhEdU1feDRqVnNWOF9mTVgxRzFUeW13bFVMR1lPSmt2amVYWk84X1NReDl2bTRvamhSVEVwdHp2RlhJd2xH?oc=5
 
-- If EPS Growth Is Important To You, Brains Technology (TSE:4075) Presents An Opportunity - simplywall.st
-  If EPS Growth Is Important To You, Brains Technology
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUXhGVzdYbDhFMm81V1BsZlpnbmRoTl9EMzQ0VnlwaGxDMnFqeTVkeVRHckxvMDVEbGhoaVM5WmU2d2xKVjgzVVBHaUtBWmc4ZHhSWGVxbWN3eU9oYWk2WkM4cUdXZFRqR0VwRmZ5MTNkbzUwQ1BtczV2Z3U0VGgySU1UbkhGcHF0bWlmcjZveHpVUFF6eVp6Yjcyb1ZVR3ItTWFUSXgwT3E2eWVuR1JwUDhPZGtPdFN4aE40Sm5KdWw3OFNzb05KaXViUWVaVjhtdnJTb2xB0gHbAUFVX3lxTE12eUp4SFhjczFhRm9zVF9qWkt0N3Y4UDZheWtCclc0WGh2WndyWmZpUHFjXzZsNGdNVXVPTFF3eWRrbktyQlZFZTByZjFubk9tcGhBUGF6MlJEQkZhLXFfeEowbE9fbVhIWWl2Rm4xaEZQTDB2S3N5V05obDBqUVNtY3ZiNzVzZlFNWUJrclNnUmRlV2xxdXc5SzBjU1NRc3dqVWpnS1pCZnFkOU1oc3I0ZE5wNWpVcDVpYmkxb2s0cUJBVnpLaDBycm1XRTc3M3FzbEhUQzZWQ3hYOA?oc=5
+- Eureka Forbes: CCPA flags 5,008 complaints about service lapses, deceptive claims; fines company  ₹5 lakh
+  India’s top consumer watchdog has directed the water-purifier market leader to ensure genuine spare parts. National helpline data exposed hidden terms and
+  🔗 https://www.livemint.com/companies/news/eureka-forbes-ccpa-penalty-5008-consumer-complaints-11788253824900.html
 
-- How new broadcast technology is changing the way fans watch cricket - YourStory.com
-  How new broadcast technology is changing the way fans
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPR0R1RFNHZnF5VG1zaEZFbkd6TUpsbE14SlA3RzhQVDhxSURLOUsycTg2X3FJWDdHOHdfY3JIcVVxRlc5WXFMV0l0YVdaV3dXVERiTGRsbXVxZjYyTmpzTnlQekQ5T2VtVnMtVEMzSmhSR0JsWnY3dlhRSDdaejJTVy03R185azJfc3RzYU50LXhDR0VYWTRqampKWWVLUQ?oc=5
+- Unacademy’s $3.44 billion valuation to $200 million acquisition by upGrad: Gaurav Munjal reflects on journey
+  Edtech company upGrad has completed its acquisition of Unacademy for just over $200 million. The deal is far below the latter's peak $3.44 billion valuation.
+  🔗 https://www.livemint.com/companies/news/unacademys-3-44-billion-valuation-to-200-million-acquisition-by-upgrad-gaurav-munjal-reflects-on-journey-11788243091634.html
 
-- Natco Pharma looks beyond generics for its next growth shot
-  Chief executive and vice chairman Rajeev Nannapaneni lays bare the changing face of global pharm
-  🔗 https://www.livemint.com/companies/natco-pharma-semaglutide-glp1-generics-ceo-rajeev-nannapaneni-11788163218135.html
+- IPO-bound Parle Products appoints former PepsiCo executive George Kovoor as CEO
+  Kovoor spent over 30 years at PepsiCo across geographies, including China and the US. He served as
+  🔗 https://www.livemint.com/companies/news/parle-products-ipo-george-kovoor-ceo-11788246496054.html
 
-- Pernod Ricard India cuts at least 200 jobs in two years in major operational restructuring
-  French spirits maker is trimming mid-to-senior management roles to sharpen focus on high
-  🔗 https://www.livemint.com/companies/news/pernod-ricard-india-cuts-at-least-200-jobs-in-two-years-in-major-operational-restructuring-11788012460260.html
+- AdvaRisk in talks to raise $20-25 million from Fundamentum, others
+  ICICI Bank-backed AdvaRisk is exploring a $20-
+  🔗 https://www.livemint.com/companies/start-ups/icici-bank-backed-advarisk-fundamentum-25-million-funding-11788226526591.html
 
-- Amazon sued by FTC, more than 20 US states over alleged manipulation of advertising prices
-  The lawsuit claims Amazon since 2019 has “secretly and systematically overcharged” about 1.2
-  🔗 https://www.livemint.com/companies/news/amazon-sued-by-ftc-more-than-20-us-states-over-alleged-manipulation-of-advertising-prices-11788207706736.html
+- India’s deeptech boom puts growth investors to the test
+  Underwriting challenges are keeping growth capital cautious.
+  🔗 https://www.livemint.com/companies/start-ups/india-deeptech-startups-growth-stage-investors-funding-11787832766475.html
 
-- UBS Scores Interim Win in Struggle Against Swiss Capital Demands
-  UBS Group AG notched up an interim victory in its multi-year struggle against Switzerland’
-  🔗 https://www.livemint.com/companies/ubs-scores-interim-win-in-struggle-against-swiss-capital-demands-11788204286668.html
+- Expert view: Favour value over growth; IT not an outright contra bet, says Chockalingam Narayanan of ICICI Pru AMC
+  Chockalingam Narayanan from ICICI Prudential emphasises a strategic approach favouring value investments
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-favour-value-over-growth-it-not-an-outright-contra-bet-says-chockalingam-narayanan-of-icici-pru-amc-11788256314458.html
 
-- ‘Why do leaders forget humans are not a problem?’: HCLTech ex-CEO slams AI-led layoffs, says people lead innovations
-  Vineet Nayyar, founder of Sampark Foundation and ex-CEO of HCL Technologies criticised AI-led layoffs. He added that people
-  🔗 https://www.livemint.com/companies/people/hcltech-ex-ceo-vineet-nayyar-slams-ai-layoffs-why-do-leaders-forget-humans-not-problem-commodity-people-lead-innovations-11788199875258.html
+- HDFC Bank’s Jagdishan paradox: Stock lagged even as domestic funds doubled down
+  HDFC Bank stock returned just 17% under the outgoing CEO, trailing peers significantly. Domestic institutions accumulated shares
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-stock-sashidhar-jagdishan-exit-mutual-fund-holding-11788251990484.html
 
-- Rays of Belief IPO Day 1: GMP signals 20% listing gain. Should you subscribe to  ₹125 crore issue?
-  Rays of Belief IPO opens for subscription on 1 September and closes on 3 September. IPO is priced between  ⁹227 and  ₹239 per share. With a grey market premium of
-  🔗 https://www.livemint.com/market/ipo/rays-of-belief-ipo-day-1-gmp-signals-20-listing-gain-should-you-subscribe-to-rs-125-crore-issue-11788230222877.html
+- 1st ever buyback approved by this infra company - Check face value, price per share and size
+  Man Infraconstruction plans to buy back up to 99 lakh shares at  ₹171 each. Promoters' stake will rise to 64.09%, while public shareholders will hold
+  🔗 https://www.livemint.com/market/stock-market-news/1st-ever-buyback-approved-by-this-infra-company-man-infraconstruction-check-face-value-price-per-share-and-size-11788251811247.html
 
-- Buy or sell: Gift Nifty hits flat opening | Vaishali Parekh recommends three stocks to buy today — 1 September 2026
-  Ujjivan Small Finance Bank, BHEL, and CAMS are
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-hits-flat-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-1-september-2026-11788226689372.html
+- Solar stock to 'Buy' for over 20% returns: Check share price target - recommendation rationale explained
+  Nomura has initiated coverage on Clean Max Enviro Energy Solutions with a ‘Buy’ rating. The company's strong tariff economics and capital-efficient model position it well
+  🔗 https://www.livemint.com/market/stock-market-news/solar-stock-to-buy-for-over-20-returns-check-share-price-target-recommendation-rationale-explained-11788252000353.html
 
-- Symbiotec Pharmalab IPO listing today: Will it list at a premium or discount? Here's what the latest GMP signals
-  Analysts predict a potential 20-22% rise based on the latest grey market
-  🔗 https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-listing-today-will-it-list-at-a-premium-or-discount-heres-what-the-latest-gmp-signals-11788227822111.html
+- Gold, Silver Price Outlook: Can gold prices hit  ₹1,70,000 per 10 grams after Jackson Hole shock? Check 2026 targets
+  Gold traded at $4,428.54 and silver at $66.42 amid geopolitical tensions and changing investor interest. US Federal Reserve Chairman Kevin Warsh's speech at Jackson Hole led to a sharp
+  🔗 https://www.livemint.com/market/commodities/gold-price-outlook-silver-price-outlook-can-gold-prices-hit-rs-1-70-000-after-jackson-hole-shock-check-2026-targets-11788247741029.html
 
-- Penny stock under  ₹10: Record date for 7:24 bonus shares fast approaching. Do you own?
-  Jonjua Overseas is focused on its upcoming 7:24 bonus share issue. Shareholders will receive bonus shares proportionate to their holdings. Trading of these shares may commence on September
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-jonjua-overseas-record-date-for-7-24-bonus-shares-fast-approaching-do-you-own-11788228799040.html
+- Apple iPhone 18: Leaked design, bigger battery, camera upgrades, price and launch date
+  iPhone 18 Pro and Pro Max are expected to launch on 9 September 2026. They will have a smaller Dynamic Island, under-display Face ID, variable-aperture camera
+  🔗 https://www.livemint.com/technology/gadgets/apple-iphone-18-leaked-design-bigger-battery-camera-upgrades-price-and-launch-date-11788248275653.html
 
-- Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 1 September 2026
-  Sensex and Nifty 50 expected to open flat to negative on 1 Sept. Previous session saw Nifty close below 24,100 with lower momentum. Analysts suggest broader trading range with stocks like Sona BLW
-  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-1-september-2026-11788226667822.html
+- Apple alleges former engineer accessed circuit plans while at OpenAI
+  Apple alleged that a former engineer accessed proprietary circuit plans after joining artificial intelligence company OpenAI.
+  🔗 https://www.livemint.com/technology/apple-alleges-former-engineer-accessed-circuit-plans-while-at-openai-11788239318705.html
 
-- Android alert: Govt warns of malicious adult-content apps promoted on Instagram, Facebook
-  The Indian government warns Android users about malicious apps like Night Play, Reloop, Kyss, Vimo, Rivo, Nexo and Vixa, disguised as adult content
-  🔗 https://www.livemint.com/technology/tech-news/android-alert-govt-warns-of-malicious-adult-content-apps-promoted-on-instagram-facebook-11788173336461.html
+- Meta removes scam ads after India flags explicit-content bait luring users to download phishing apps
+  India flagged scams with baits of explicit content while promoting malicious apps. The apps could steal users’ credentials, OTPs and bank PINs. Cyber fraud losses in India
+  🔗 https://www.livemint.com/technology/tech-news/meta-removes-scam-ads-after-india-flags-explicit-content-bait-luring-users-to-download-phishing-apps-11788235077045.html
 
-- How India won over Tim Cook and became central to Apple's growth chapter
-  Tim Cook has turned a notoriously price-sensitive, Android-dominated market into a premier manufacturing
-  🔗 https://www.livemint.com/technology/tech-news/how-india-won-over-tim-cook-and-became-central-to-apples-growth-chapter-11788157559330.html
+- Tim Cook’s 15-year Apple legacy: From Steve Jobs's successor to $4 trillion giant
+  Tim Cook steps down as Apple CEO after nearly 15 years. His tenure was marked by explosive iPhone growth, a booming services business and stronger margins.
+  🔗 https://www.livemint.com/technology/tim-cook-s-15-year-apple-legacy-from-steve-jobss-successor-to-4-trillion-giant-11788235007490.html
 
-- Inside India’s quest to build a sovereign AI chip
-  A US chip restriction jolted India into developing an AI chip that could give the country a sovereign alternative to Nvidia. But can a government-
-  🔗 https://www.livemint.com/technology/india-first-ai-chip-cdac-11788173944541.html
+- Social media companies are trying harder to know which users are kids
+  Social media companies are trying harder to
+  🔗 https://www.livemint.com/technology/social-media-companies-are-trying-harder-to-know-which-users-are-kids-11788235547824.html
 
-- WhatsApp ‘Scam Alert’ feature begins beta testing on Android: How it helps block fraudsters
-   WhatsApp has started testing its new Scam Alert feature with select Android beta users. The tool uses on-device machine
-  🔗 https://www.livemint.com/technology/whatsapp-scam-alert-feature-begins-beta-testing-on-android-how-it-helps-block-fraudsters-11788164870938.html
+- Stock futures fall after Wall Street closes out winning August: Live updates - CNBC
+  Stock futures fall after Wall Street closes out winning August
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1hazhOTnRDN2llRzM5b3FMY1d2X1pxaVZqN2dEa3h0Tm5lMHpES0FXS0xaRUlDbFMxYTJhQUxObjVyQTduNGdEU1l3ZHc3Q3BMaFFVTU5MNHpfdmtnd1JKLTNoODUzOHJaQktsQmJBQWVVOUNMVk1r0gF8QVVfeXFMTTJhei1Nc1M2SmNlZ1N2UG51VkJTcEVRcEhIdW5vZ1dGUVhXTzRGWi1lR256M1ZNYXJmT3phRzBqU0VSTTBZeWFMS1FlVW9sdUkzRnpLTUJFUS1NZ0ZUN2ttc1RpYTUwRi1XemZMbnZpT0Z5SlRMbklHYlNRZg?oc=5
 
-- India targets 1 lakh more semiconductor engineers under Semicon 2.0: Vaishnaw
-  India will develop another one lakh semiconductor engineers under the second phase of its semiconductor programme. The government seeks to strengthen the country's talent pool and build a complete semic
-  🔗 https://www.livemint.com/technology/india-targets-1-lakh-more-semiconductor-engineers-under-semicon-2-0-vaishnaw-11788165330305.html
-
-- Stock market today: Dow, S&P 500, Nasdaq slip but cap winning month for stocks - finance.yahoo.com
-  Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month. S&P 500, Nasdaq slip but cap winning month for stocks.
+- Stock market today: Dow, S&P 500, Nasdaq slip but cap winning month for stocks - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq slip
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDF1ZmtVSFBxOUJsQlN5MEdsSUhoYk9UbWtOYXRSU1BWbWZuSlMtbFJtbXFFcExoVnhHUHNTNHp2LWhrZXdNMndSZzRIWnFtdzZOc09WVmxwWkNRb1BkSW95TDhKMTdDaTc0cWdQRnN0cFJmMEFYRVBNcHFIRGNyYUxhMHk1WklvNngwV2xfdTR5c0VGLTkxQzZmSHZ0QTE1dm4zSjRreU5JRjQ?oc=5
 
-- Stabilizing the bond market is now Scott Bessent's job: Ed Yardeni - cnbc.com
-  Stabilizing the bond market is now Scott
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFQ0eDNvZUZpMFVrcGt4Q0tNSXVyWmt0LXJZR29OU3gyVzRqTWtrOWNnMDk4RTVtbHUtSVVwcU9sRlRlS3VZMWpzTTNnQ2pCWXFWS2RKeU1xcmFNLU9vRndnMkhuZ3J5RjdZeDdubjBjQThnTnRGbjZ2dm1BMWRabVNHWmZqVGp2NUxsTVdmejVFMDhRc0FwZm5jdFZwYVN4V3hlN1RDR2htV3c?oc=5
+- Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month - CNBC
+  The Dow Jones Industrial Average is up for a fifth straight month.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5
 
-- How Shein lost its shine ahead of long-awaited stock market debut - BBC
-  How Shein lost its shine ahead of long
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4OXlfeUd1N19UMTBXX2FNTzFadlpmVnU0LWttZlI5SE1ucUJlVEl0YmJxR0VMYnlzcjhTNjFkbmtCV1Z2OHo5NHJZa0YzYi1LRHFxRDBYMW42QQ?oc=5
+- China Tells Carmakers to Keep Price War Away From Export Markets - bloomberg.com
+  China Tells Carmakers to Keep Price War
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEZGWk1OQTliaktzbUFvUWVfaGp5YXdLVVNnU0U0aUoyT0QtNHMwZktmb25DUUxreTA1YlNpTHFLQmJrcmZWUjVwcC0xWnJVbHJxODNUaE9zQWdTRDlWSTZnLW8tcjBhNDI2RTl0WVEyOEFTSjU3V3VOd0ZRbGRBZGhuN0d2RDJwRENJck9rTHJIT3BXLVN4cGRLTVM2UHN4OVF6cXg3TE1sVFNnZVUwRGFDdmg3Zw?oc=5
 
-- Stock Market Highlights, Sensex Today: Sensex Drops 300 Points As Iran Hits US Bases In Jordan - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkY0cllaQzhiTlo1RVN2YU0wRWJTRVpNZDU1WU03WW9HYXROdmtGTzlKWDk5b3RMME41ZGw0WEx2QmFSQXJFRWROb0x3TnpsN2VPWnZoOFpBU2J0VkN3TU5Ob3l3WnFxX2
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkY0cllaQzhiTlo1RVN2YU0wRWJTRVpNZDU1WU03WW9HYXROdmtGTzlKWDk5b3RMME41ZGw0WEx2QmFSQXJFRWROb0x3TnpsN2VPWnZoOFpBU2J0VkN3TU5Ob3l3WnFxX25tUzNBSXJYTTJTeDlDTHRja05iMDB1bUxKNmkya1lJR3Bkd0ZFZmZiUFhyMHZLb0tqb2JDZW13bGxFak5jbTZRMjdqS01lUWE3NzJaUEo5TjlHLTNwTFJDMlJ2OGJ0WnctLU9FMzTSAdcBQVVfeXFMTnotY3J4TERyaHZfRzRLOTBsY2tNMHIwRV9aUHNXcVRYQmZ1ZTlYNXBkbVRrV0pxQXlNX2x1cGcwdnpidERldjhsalFyejVnbFFRNjBxYVdyQkl4ckxrYkJTQlA0ZWZaNURjWlNYZzRyVy1NVTlBUmZaWDgxdXFCN2EzaGpnNGtTWDY2OXdwNlBPdloxREtMVTd6ZUl5YUE4NEEyNkpTTUlsQUJORThRMmd1R1ZnOFVFWEJqQ2Foa1FLNGRGT1h2WkdQZ1FzQXVOb0o0SUVOLWc?oc=5
+- Bond selloff deepens and stocks drop as oil prices stoke inflation fears - Reuters
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5
 
-- US irks G20 ministers by bringing back Russia, barring journalists - Reuters
-  US irks G20 ministers by bringing
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDY4ZlJsY3c3S2d4bGo2T2FyVEVyNmY2UzltakRiUktLUnlSWUk4YlFQSXd4VnlQUWtrbDZaR1pYZEVLV2d1UEdZLW05N0xIdWZFSjRzN1VUaXlQQnNJY0hQMnl1cEw3ZWQzY3dVbmRXNTk2b21McGh5YW9OdWVRbDAwVi1aZWY2Z3g1a1BaVUxaRm9XaHo3czZJU0VCWU1ucDNETUV2eVFqMXM?oc=5
+- Global Market: European shares muted as bond yields surge on inflation concerns
+  European shares were largely flat on Tuesday as a sharp rise in government bond yields kept investors cautious. The STOXX 600 edged up 0.04%, while energy stocks gained 1.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-muted-as-bond-yields-surge-on-inflation-concerns/articleshow/133675841.cms
 
-- Coinbase's India return: How a bespoke rupee on-ramp changes the game for foreign exchanges
-  Coinbase has achieved a major competitive breakthrough: a custom-built, bespoke Indian Rupee (INR) on-ramp and off-r
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/coinbases-india-return-how-a-bespoke-rupee-on-ramp-changes-the-game-for-foreign-exchanges/articleshow/133666124.cms
+- MFs trim holdings in 12 stocks for 2 straight quarters; shares tumble up to 50%
+  28 stocks have declined more than 10% so far in CY2026. 14 have seen their share prices fall
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mfs-trim-holdings-in-12-stocks-for-2-straight-quarters-shares-tumble-up-to-50/slideshow/133674884.cms
 
-- Derivatives Decoded | Episode 1: Futures vs Options Explained
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/derivatives-decoded-episode-1-futures-vs-options-explained/videoshow/133651364.cms
+- Global Market: Eurozone manufacturing growth hits four-year high in August
+  Germany led the recovery, while France also expanded, although Italy and Spain remained under pressure. Improving confidence and easing input cost inflation offered further signs of a broader industrial recovery.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-manufacturing-growth-hits-four-year-high-in-august/articleshow/133674219.cms
 
-- Dividend alert! Last day to buy NTPC, GAIL among 13 stocks for dividend payouts. Do you own any?
-  Today is the last opportunity for investors to buy shares so that they are credited to their accounts by the record date (September 2) Under Sebi's T+1 settlement cycle, investors need to purchase a company's shares at least one
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-ntpc-gail-among-13-stocks-for-dividend-payouts-do-you-own-any/articleshow/133666153.cms
+- Apple’s 2,275% gain under Tim Cook is a tough act for John Ternus to follow
+  Apple CEO Tim Cook has handed over the reins to John Ternus. Cook succeeded Steve Jobs in 2011, as he diversified Apple beyond the iPhone.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/apples-2275-gain-under-tim-cook-is-a-tough-act-for-john-ternus-to-follow/articleshow/133673794.cms
 
-- Hy-Tech Engineers shares to list today; 66% GMP signals strong listing debut
-  The Rs 135.73-crore IPO was offered at a price of Rs 53 per share. The issue comprised a fresh issue of 1.13 crore shares worth Rs 60 crore and an
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hy-tech-engineers-shares-to-list-today-66-gmp-signals-strong-listing-debut/articleshow/133666138.cms
+- Global Market: UK 10-year gilt yields hit highest level since 2008 as oil prices stoke inflation fears
+  The 10-year gilt yield hit its highest level since 2008. The two-year yield rose to 4.59%.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-10-year-gilt-yields-hit-highest-level-since-2008-as-oil-prices-stoke-inflation-fears/articleshow/133673995.cms
 
-- Symbiotec Pharmalab shares to list today; GMP signals 19% listing gain
-  Symbiotec Pharmalab IPO plans to channel Rs 112.50 crore towards the prepayment and/or repayment, fully or partially
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/symbiotec-pharmalab-shares-to-list-today-gmp-signals-19-listing-gain/articleshow/133666090.cms
+- As GDP Grows, PM Says "Don't Travel Abroad Or Buy Gold, No Foreign Weddings" - NDTV
+  As GDP Grows, PM Says "Don't Travel Ab
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm9kR3hKUndqQ0ppYVdsZGfSAcIBQVVfeXFMTU5tSGN0Y1FORktDQUFJVXkzX2ctVzZkYVZNSE8yTzdxUnFiQkdQbWp6T25Eb2RyMXQ3TUZVWWhkVmZ0akc4T3hrWVlKaXJlaHhwaEZBbWdJSDJiUS1oc0wwb3E1eklxWERMTkI2eWItVlFhSGJoM3BOVjFNUWFBVnNEVnZuMGY3ZXBqaUI5RHQyWlNzU3Z1T2pxSnBDRURMQTBuMjR0MUhFbVBFcUJKX2x3NzlCTjZ3eHB3YzlGLU8zMVE?oc=5
 
-- "Doomsayers Doomed, India Bloomed": PM Modi Says GDP Growth "Exemplary" - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlfR3phcWR2bkV3Sm9SZUg2S01EMHBTam1QRkRfSmZURmFEN2xWOGt0c1ZjTHU5TkZjbnQ2QXBKM096c1JVZ0x5MXJ6a1pueWdBUTZsQ05rUW9qa1ZVMkFxaWZhdjRGWl
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlfR3phcWR2bkV3Sm9SZUg2S01EMHBTam1QRkRfSmZURmFEN2xWOGt0c1ZjTHU5TkZjbnQ2QXBKM096c1JVZ0x5MXJ6a1pueWdBUTZsQ05rUW9qa1ZVMkFxaWZhdjRGWlF6bEtYS29kSTVSWVhNa1BDX0ZuRERaSVB6LUI1WVJkTHhkMl9GMHl6X0lvVzNYdng2NTJRWU9uRFg4Y1BEdlhwY0hDbkppWl9BbkNyanNkZ1NObUx30gHGAUFVX3lxTE1SU1VyZjRzTVc5bEZrWXJDLWwyMnFBMGlnWE84aXZYQmNIbTg5TVJVY0dLQmdtcDNFbmN0WnEzdlMxWFVNYTBEbmpITkdwcWpoRURYNWxJSzd2OHdTQkg0RkFEaUlUMmg5cXRTZ2dWM3lZOWJXZnM0NDdDbW56UnRFUzJPOGpNVGZCSXRTZHZ0VW4tYTk1NmFScWxia1dIQXNmcGxnWm95Rm1wb0UyVkluUldEcTktZUg2TVRNRzdVWm1Jckczdw?oc=5
+- PM Modi's "Jhooth Ki Goonj" Attack At Rahul Gandhi After 7.8% GDP Growth - NDTV
+  PM Modi's "Jhooth Ki Goonj
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNTy1pSWxkcjFnVXQ4VWtCcmlmNkVEcC1MejZkdnpvcWpwZGJqZnV4eHVvTGJrY0VEeUhDZDdycGM4NVBqdTNKZVBKZUUtLXNMcHZQT0dQaVNvX2N1Z2szSHZTdl9zZ0EwVTJ6WHVZVEhwaURDcEU0ZF9XbEVuRERQS0ZsMHNDaWx0bVdnZm41MzF5bFpsNjRpNDBubktLTjNNaUFZRFhPR3hwelpRWkHSAbYBQVVfeXFMTkVHdWhnR19TNjk5dlJMaHFoUkhYekJsVUl3dU5TaklVNGVLVlQzNTZvc3lpRnM0dzFIWG5sM2xYNEpnclZCd0pNdnN4VmxDckdUXy1LcUFFVXh2Z2ZWTWpEQW11Q0JRZDZVMWhjc29UbWZNTFZmWFRIRTdWZGlRNk41VlliVW01Z0RYVW96b2Y1OFhKSllLQnB5R295dEp2WnRWa3luSXpfVHFOWHMwNlllWV9mX3c?oc=5
 
-- Sonia Gandhi: What will Congress leader's memoir reveal about India's most powerful political family? - BBC
-  Sonia Gandhi's memoir is expected to be released later this
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5
+- Why PM Modi is again asking Indians not to buy gold, travel or 'marry' abroad | India News - Hindustan Times
+  PM Modi is again asking Indians not to buy gold, travel or 'marry'
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQThhTEVxUnNOYm1ZNUJZSUNEOEZtUkZPWTN0ZXRsSW9fOVJhSzIwVmI0UFZTalowOHIxTzBXNFpOZGRrV29DdXR1YXFVcy1EME1DMGZWQlNucEo4cHptN1lualVNTlJCWW4xQS16TnNZaTg3Z0oyV0RmcmRKN0h5SmFzMy1FZl9CZS1XQjkzVlpZYWE2MDBjYWtFLWlZeHF4QVFwc1ZGeUtYX0p1ZlV6eGlGQWpKSDZsa3VzVG5iMXZucGJoalplZlFxRm5acUJIZ0Nn0gHYAUFVX3lxTE8taUh5NlhHLWliM242S2Z0djYyTHJUZDFiUE1MbHBEcmhCa1V6MzBLVmVxZHhwVDRXOHAwMU9LVFFaYXBRMG5vY1Q0QmFvOXFWZUlBWmRDeVU5aVNtVGIzRlpOZ0QwMnhyVVUycl9hYU9OSEgwTWhQZkZ6eHYybDlUR0dKWXRWaWhhYlpfV2lDWUM5cjhoTDNLQ1JKYzRuWVdVOHFzcTR4MGFrZldfMWFRTlZaMkl3c0lMS0dRdExWQjRSU3prSmZJZXFJV0R0UUt0SW41OVlrYw?oc=5
 
-- 'A particular issue': Penguin India on impasse over Sonia Gandhi memoir - The Times of India
-  'A particular issue': Penguin India on impasse over Sonia
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmpmS0FWRE5rTkhBR2ZQWWI5cXhLbjY3ZkpHZEJ5ZmRSVmVMWUl2SHBkQUxsaVpFS05fLW5CZ045S0dyMXIzSGt5QndWVm1WQzVGVWxSTjRLVF9HZEFQTjJ2Z3U2TGV4N2I2SU4xQ05aS0hadVR4WHBia1JOYUt1Z2RhZ2o1YVlBTExVZVI4U2NBV3k0di1lNFlLeU93STlQSjNWYlpkVGpMMHJnc1pJd1RjSlE4eUZSRHdVTnhvWDF6YjBCNUp0S3NVbkxrUVU1dmfSAdcBQVVfeXFMUGkzd1NmSUV5UWp6Z19CZTBYUmtfTWQtVVB1NnMwV2k3cEdPd0pyR0s4YlRtcUV4QWRyRnpSaVNBdTgxc2FvRlRKd1paUnFQdFdoWFUxb1JiVk16SDFZMVdFb0h6LVNhUFoxbUM1ZTQwZlE1N1AxYkM0d0FJX1pGM24xbXJVeVk0WHJVRktITjM3eTJqY0pVS3BWNXR0TU1VVmYxNWdjYm43TVlKQ2xEU0hIeC1sb1YxQnZEUFp3clNKaHlBVUE4b2RvOEpRX09OdmNVZkFTQWs?oc=5
+- 'No jurisdiction': India rejects 'illegal' Court of Arbitration's Indus Waters Treaty award - The Times of India
+  'No jurisdiction': India rejects 'illegal' Court of Arbitration
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY1A4Y1FKNjg3QzFFckxZdmQ1Mm5NUjNMcDRYd0QtQ3NRTXl3dll3b1RUV1NFdi1mT01DbzgxcC1OV1RTSkpicnBqYXlWUHVwQWR1dnY5a1R0a0tRcTlpRHZmWklHUVlyLVFzSU40MktraG8yS3N5UVZRbDJLSGxhNlcyWTFrYWMwMlVZU1cxNlVCTzgyYW16NXZHRFBUTXBYM2poT3lxOWhjNW9DTmU5Qkp6eXpQZ2x6YzhsWWhGSkktQVRyZVcwN1BWTm1hTm0zcmNxU3prR2QybE5sdjM5UFQ5cjBQWG_SAewBQVVfeXFMTThSVXlITGpnMjFYb2FWWVlQQ253YVBTOXUzS3ZISUNVY1dNT1dVUF8wX1RnS2V2Q0xMYWJZTzFGTC1qVTViX0NCb1lIc2habXl4UEdibVlGdFpJenlBOW9lamNXb3pZUlJwODJxS3pfMlNhSW03eUI3NWVZODNiQTVKbDg5SVAzaEUxS0NOR3Q2SGU1d3pRdWlKb2N3QjZYdUt4eWR6eVl5OUhmTjJoNzZvb0wxZUxjOU8ydGgzQ1QtSjJ2bDFJcG1sVDEtQlV1ZUpOZTg2NktVZFYwV1RJTXpCczZuZ083WGZ0STc?oc=5
 
-- "There's Pressure": Congress vs BJP As Penguin India Drops Sonia Gandhi's Memoir - NDTV
-  "There's Pressure": Congress vs BJP As Penguin
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjV2WXEzWDVvTDBsRmhSM2x2bFRjZ3J4OW9uRldKdmRjUU1ySlBNUk5IbnNDem5tR1hOeEdIeGw4b1Zqd1BsOFJBM0NIRVhnOTUzazgySndnQ0JXRnRrRlpHWlY3Z1llUlRMYzh1enI2QUJTblZOUGdyR1hYTlJZX2lMLURya1B3ZjZURWJPa3lhRWUtME5aQldCeXRGaHN6b0lKRHZ2VW1VbVdSYWFWS21vdGE1b0hmcUFNZHpzSGdMRXBpMVR3?oc=5
+- 'No Jurisdiction': India Rejects Hague Court's Indus Waters Treaty Ruling - NDTV
+  'No Jurisdiction': India Re
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGJEN3lxNzJDaVNCVC1MaXlhN2VpVk9nQVVLN3EzMl9lQUFkTmpKNFFsZFNvLWNLeUc5SjVYUzROZ1N4MUtVbDZIV1J2UnlsbV90b0VtTy02ZVdyc3dZME01bzhZUW9sQTB0RFIzUXRhVlpZc043aEhEM0pJU0RPRkxuak9VTms1YU50cElUYXBYYjhRd0dBNUdta2NhaHNFRUZSbEx6RGVzdEYtaHZiNmVEWGHSAbwBQVVfeXFMTmxKNk1CN0dpZGZpY0I5ck5jdy03SkJ1TzU2VWdyaEwwM19CWGM2ZXdEdEFoUm9Rb2JPd2FhbDhVTXlVb2F0cE5yS0x6R3lCenFVWEQ3dkZ1OFB6NkZhNmUzckJIbWdJajR0b1dyTnpadFRQeGJRYXZFYzd2U0dnOXgzQkw4Y3B5aVNmSmpIeEh1Q0xnNG5xX3Q4aDdXcmdlLWoydjV6aGRmdXFlcm9wWFVia2ZtUjd6VENDaHc?oc=5
 
-- Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil - cnbc.com
-  Indian PM Modi implores Putin to end Ukraine war amid U.S
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2xOMTZWRlBPVG9URC1jc01hN2Ytd2daYmJCS0lvYlJaOGs5U3Jwcm55ZXlBenpQcERvcUdLdERXTF95RmM2TThVXzNZSDZVWHdQdUp2UW1oMjVSRnlxZzRPenVmVmpsWnNmMFZIOV9IYUljSEVhcFJYOUZZaG5LOVlR0gGHAUFVX3lxTFBIT0hRTmZMMTQ2MnlLV2Y2UU1IYVRZZktxNl9PcVl2VURxWlRZVFQxN2s4RDRNT2JJa2F3VFJpQ08wZEhadTVzOFFPdHh5MDNwZUZQMC1mQ085X1hpZjJXSkxvVHFpM3NVWWF6blRQbkxBTTBaMGlkcVdZUEtqbXNVZFVSWnRUVQ?oc=5
+- NPCI To Launch Agentic Payments On UPI: Report
+  UPI Transactions Dips 2.4% To 19.6 Bn In September. NPCI reportedly looking to launch a framework which would see AI agents execute small-ticket digital
+  🔗 https://inc42.com/buzz/npci-to-launch-agentic-payments-on-upi-report/
 
-- Zepto’s New Game Plan, Layoffs At Zomato & More
-  Zepto’s New Game Plan, Layoffs At Zomato &amp; More.
-  🔗 https://inc42.com/buzz/zeptos-new-game-plan-layoffs-at-zomato-more/
+- Pernia’s Pop Up Shop Parent IPO: Issue Subscribed 20% On Day 2 So Far
+  Pernia’s Pop Up Shop parent Purple Style Labs’ initial public offering (IPO) continued to see steady investor interest.
+  🔗 https://inc42.com/buzz/pernias-pop-up-shop-parent-ipo-issue-subscribed-20-on-day-2-so-far/
 
-- Zenergize Bags $4 Mn To Scale Production Of Its EV Chargers
-  Clean tech startup Zenergize, which manufactures chargers for electric vehicles (EVs), has raised $4 Mn (nearly �
-  🔗 https://inc42.com/buzz/zenergize-bags-4-mn-to-boost-production-of-its-ev-chargers/
+- Niyo To Acquire Capital India’s RemitX Forex Business For ₹11.4 Cr
+  Niyo To Acquire Capital India’s RemitX Forex Business For ₹11.4 Cr.
+  🔗 https://inc42.com/buzz/niyo-to-acquire-capital-indias-remitx-forex-business-for-%e2%82%b911-4-cr/
 
-- Zepto’s Retention Play: Fewer Discounts, Premium Carts & A Paid Club
-  Before we turn the talk to Zepto’s IPO delay and how the company is looking to address the one problem&#82
-  🔗 https://inc42.com/features/zeptos-retention-play-fewer-discounts-premium-carts-a-paid-club/
+- Alteon Raises $2.5 Mn To Develop Long-Endurance Autonomous Aircraft
+  Bengaluru-based startup Alteon has raised $2.5 Mn (about ₹24 Cr) in a pre-seed round led by Lachy G
+  🔗 https://inc42.com/buzz/alteon-raises-2-5-mn-to-develop-long-endurance-autonomous-aircraft/
 
-- Exclusive: MS Dhoni Joins Edtech Startup SpeakX’s Cap Table
-  AI-based edtech startup SpeakX onboarded cricketer Mahendra Singh Dhoni as a strategic investor and brand ambassador.
-  🔗 https://inc42.com/buzz/exclusive-ms-dhoni-joins-edtech-startup-speakxs-cap-table/
+- From $3.5 Bn To $200 Mn: upGrad Completes Unacademy Acquisition
+  Edtech major upGrad has completed its acquisition of Unacademy in a deal valued at $200 million.
+  🔗 https://inc42.com/buzz/from-3-5-bn-to-200-mn-upgrad-completes-unacademy-acquisition/
 
-- BNP Paribas, Societe Generale & Millennium Sell Lenskart Shares Via ₹2,670 Cr Block Deals
-  BNP Paribas and Societe Generale and US-based hedge fund Millennium Management have offloaded omnichannel eyewear giant Lenskart.
-  🔗 https://inc42.com/buzz/bnp-paribas-societe-generale-millennium-sell-lenskart-shares-via-%e2%82%b92670-cr-block-deals/
+- As GDP Grows, PM Says "Don't Travel Abroad Or Buy Gold, No Foreign Weddings" - NDTV
+  As GDP Grows, PM Says "Don't Travel Ab
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm9kR3hKUndqQ0ppYVdsZGfSAcIBQVVfeXFMTU5tSGN0Y1FORktDQUFJVXkzX2ctVzZkYVZNSE8yTzdxUnFiQkdQbWp6T25Eb2RyMXQ3TUZVWWhkVmZ0akc4T3hrWVlKaXJlaHhwaEZBbWdJSDJiUS1oc0wwb3E1eklxWERMTkI2eWItVlFhSGJoM3BOVjFNUWFBVnNEVnZuMGY3ZXBqaUI5RHQyWlNzU3Z1T2pxSnBDRURMQTBuMjR0MUhFbVBFcUJKX2x3NzlCTjZ3eHB3YzlGLU8zMVE?oc=5
 
-- "Doomsayers Doomed, India Bloomed": PM Modi Says GDP Growth "Exemplary" - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlfR3phcWR2bkV3Sm9SZUg2S01EMHBTam1QRkRfSmZURmFEN2xWOGt0c1ZjTHU5TkZjbnQ2QXBKM096c1JVZ0x5MXJ6a1pueWdBUTZsQ05rUW9qa1ZVMkFxaWZhdjRGWl
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlfR3phcWR2bkV3Sm9SZUg2S01EMHBTam1QRkRfSmZURmFEN2xWOGt0c1ZjTHU5TkZjbnQ2QXBKM096c1JVZ0x5MXJ6a1pueWdBUTZsQ05rUW9qa1ZVMkFxaWZhdjRGWlF6bEtYS29kSTVSWVhNa1BDX0ZuRERaSVB6LUI1WVJkTHhkMl9GMHl6X0lvVzNYdng2NTJRWU9uRFg4Y1BEdlhwY0hDbkppWl9BbkNyanNkZ1NObUx30gHGAUFVX3lxTE1SU1VyZjRzTVc5bEZrWXJDLWwyMnFBMGlnWE84aXZYQmNIbTg5TVJVY0dLQmdtcDNFbmN0WnEzdlMxWFVNYTBEbmpITkdwcWpoRURYNWxJSzd2OHdTQkg0RkFEaUlUMmg5cXRTZ2dWM3lZOWJXZnM0NDdDbW56UnRFUzJPOGpNVGZCSXRTZHZ0VW4tYTk1NmFScWxia1dIQXNmcGxnWm95Rm1wb0UyVkluUldEcTktZUg2TVRNRzdVWm1Jckczdw?oc=5
+- PM Modi's "Jhooth Ki Goonj" Attack At Rahul Gandhi After 7.8% GDP Growth - NDTV
+  PM Modi's "Jhooth Ki Goonj
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNTy1pSWxkcjFnVXQ4VWtCcmlmNkVEcC1MejZkdnpvcWpwZGJqZnV4eHVvTGJrY0VEeUhDZDdycGM4NVBqdTNKZVBKZUUtLXNMcHZQT0dQaVNvX2N1Z2szSHZTdl9zZ0EwVTJ6WHVZVEhwaURDcEU0ZF9XbEVuRERQS0ZsMHNDaWx0bVdnZm41MzF5bFpsNjRpNDBubktLTjNNaUFZRFhPR3hwelpRWkHSAbYBQVVfeXFMTkVHdWhnR19TNjk5dlJMaHFoUkhYekJsVUl3dU5TaklVNGVLVlQzNTZvc3lpRnM0dzFIWG5sM2xYNEpnclZCd0pNdnN4VmxDckdUXy1LcUFFVXh2Z2ZWTWpEQW11Q0JRZDZVMWhjc29UbWZNTFZmWFRIRTdWZGlRNk41VlliVW01Z0RYVW96b2Y1OFhKSllLQnB5R295dEp2WnRWa3luSXpfVHFOWHMwNlllWV9mX3c?oc=5
 
-- Sonia Gandhi: What will Congress leader's memoir reveal about India's most powerful political family? - BBC
-  Sonia Gandhi's memoir is expected to be released later this
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5
+- Why PM Modi is again asking Indians not to buy gold, travel or 'marry' abroad | India News - Hindustan Times
+  PM Modi is again asking Indians not to buy gold, travel or 'marry'
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQThhTEVxUnNOYm1ZNUJZSUNEOEZtUkZPWTN0ZXRsSW9fOVJhSzIwVmI0UFZTalowOHIxTzBXNFpOZGRrV29DdXR1YXFVcy1EME1DMGZWQlNucEo4cHptN1lualVNTlJCWW4xQS16TnNZaTg3Z0oyV0RmcmRKN0h5SmFzMy1FZl9CZS1XQjkzVlpZYWE2MDBjYWtFLWlZeHF4QVFwc1ZGeUtYX0p1ZlV6eGlGQWpKSDZsa3VzVG5iMXZucGJoalplZlFxRm5acUJIZ0Nn0gHYAUFVX3lxTE8taUh5NlhHLWliM242S2Z0djYyTHJUZDFiUE1MbHBEcmhCa1V6MzBLVmVxZHhwVDRXOHAwMU9LVFFaYXBRMG5vY1Q0QmFvOXFWZUlBWmRDeVU5aVNtVGIzRlpOZ0QwMnhyVVUycl9hYU9OSEgwTWhQZkZ6eHYybDlUR0dKWXRWaWhhYlpfV2lDWUM5cjhoTDNLQ1JKYzRuWVdVOHFzcTR4MGFrZldfMWFRTlZaMkl3c0lMS0dRdExWQjRSU3prSmZJZXFJV0R0UUt0SW41OVlrYw?oc=5
 
-- 'A particular issue': Penguin India on impasse over Sonia Gandhi memoir - The Times of India
-  'A particular issue': Penguin India on impasse over Sonia
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmpmS0FWRE5rTkhBR2ZQWWI5cXhLbjY3ZkpHZEJ5ZmRSVmVMWUl2SHBkQUxsaVpFS05fLW5CZ045S0dyMXIzSGt5QndWVm1WQzVGVWxSTjRLVF9HZEFQTjJ2Z3U2TGV4N2I2SU4xQ05aS0hadVR4WHBia1JOYUt1Z2RhZ2o1YVlBTExVZVI4U2NBV3k0di1lNFlLeU93STlQSjNWYlpkVGpMMHJnc1pJd1RjSlE4eUZSRHdVTnhvWDF6YjBCNUp0S3NVbkxrUVU1dmfSAdcBQVVfeXFMUGkzd1NmSUV5UWp6Z19CZTBYUmtfTWQtVVB1NnMwV2k3cEdPd0pyR0s4YlRtcUV4QWRyRnpSaVNBdTgxc2FvRlRKd1paUnFQdFdoWFUxb1JiVk16SDFZMVdFb0h6LVNhUFoxbUM1ZTQwZlE1N1AxYkM0d0FJX1pGM24xbXJVeVk0WHJVRktITjM3eTJqY0pVS3BWNXR0TU1VVmYxNWdjYm43TVlKQ2xEU0hIeC1sb1YxQnZEUFp3clNKaHlBVUE4b2RvOEpRX09OdmNVZkFTQWs?oc=5
+- 'No jurisdiction': India rejects 'illegal' Court of Arbitration's Indus Waters Treaty award - The Times of India
+  'No jurisdiction': India rejects 'illegal' Court of Arbitration
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY1A4Y1FKNjg3QzFFckxZdmQ1Mm5NUjNMcDRYd0QtQ3NRTXl3dll3b1RUV1NFdi1mT01DbzgxcC1OV1RTSkpicnBqYXlWUHVwQWR1dnY5a1R0a0tRcTlpRHZmWklHUVlyLVFzSU40MktraG8yS3N5UVZRbDJLSGxhNlcyWTFrYWMwMlVZU1cxNlVCTzgyYW16NXZHRFBUTXBYM2poT3lxOWhjNW9DTmU5Qkp6eXpQZ2x6YzhsWWhGSkktQVRyZVcwN1BWTm1hTm0zcmNxU3prR2QybE5sdjM5UFQ5cjBQWG_SAewBQVVfeXFMTThSVXlITGpnMjFYb2FWWVlQQ253YVBTOXUzS3ZISUNVY1dNT1dVUF8wX1RnS2V2Q0xMYWJZTzFGTC1qVTViX0NCb1lIc2habXl4UEdibVlGdFpJenlBOW9lamNXb3pZUlJwODJxS3pfMlNhSW03eUI3NWVZODNiQTVKbDg5SVAzaEUxS0NOR3Q2SGU1d3pRdWlKb2N3QjZYdUt4eWR6eVl5OUhmTjJoNzZvb0wxZUxjOU8ydGgzQ1QtSjJ2bDFJcG1sVDEtQlV1ZUpOZTg2NktVZFYwV1RJTXpCczZuZ083WGZ0STc?oc=5
 
-- "There's Pressure": Congress vs BJP As Penguin India Drops Sonia Gandhi's Memoir - NDTV
-  "There's Pressure": Congress vs BJP As Penguin
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjV2WXEzWDVvTDBsRmhSM2x2bFRjZ3J4OW9uRldKdmRjUU1ySlBNUk5IbnNDem5tR1hOeEdIeGw4b1Zqd1BsOFJBM0NIRVhnOTUzazgySndnQ0JXRnRrRlpHWlY3Z1llUlRMYzh1enI2QUJTblZOUGdyR1hYTlJZX2lMLURya1B3ZjZURWJPa3lhRWUtME5aQldCeXRGaHN6b0lKRHZ2VW1VbVdSYWFWS21vdGE1b0hmcUFNZHpzSGdMRXBpMVR3?oc=5
+- 'No Jurisdiction': India Rejects Hague Court's Indus Waters Treaty Ruling - NDTV
+  'No Jurisdiction': India Re
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGJEN3lxNzJDaVNCVC1MaXlhN2VpVk9nQVVLN3EzMl9lQUFkTmpKNFFsZFNvLWNLeUc5SjVYUzROZ1N4MUtVbDZIV1J2UnlsbV90b0VtTy02ZVdyc3dZME01bzhZUW9sQTB0RFIzUXRhVlpZc043aEhEM0pJU0RPRkxuak9VTms1YU50cElUYXBYYjhRd0dBNUdta2NhaHNFRUZSbEx6RGVzdEYtaHZiNmVEWGHSAbwBQVVfeXFMTmxKNk1CN0dpZGZpY0I5ck5jdy03SkJ1TzU2VWdyaEwwM19CWGM2ZXdEdEFoUm9Rb2JPd2FhbDhVTXlVb2F0cE5yS0x6R3lCenFVWEQ3dkZ1OFB6NkZhNmUzckJIbWdJajR0b1dyTnpadFRQeGJRYXZFYzd2U0dnOXgzQkw4Y3B5aVNmSmpIeEh1Q0xnNG5xX3Q4aDdXcmdlLWoydjV6aGRmdXFlcm9wWFVia2ZtUjd6VENDaHc?oc=5
 
-- Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil - cnbc.com
-  Indian PM Modi implores Putin to end Ukraine war amid U.S
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2xOMTZWRlBPVG9URC1jc01hN2Ytd2daYmJCS0lvYlJaOGs5U3Jwcm55ZXlBenpQcERvcUdLdERXTF95RmM2TThVXzNZSDZVWHdQdUp2UW1oMjVSRnlxZzRPenVmVmpsWnNmMFZIOV9IYUljSEVhcFJYOUZZaG5LOVlR0gGHAUFVX3lxTFBIT0hRTmZMMTQ2MnlLV2Y2UU1IYVRZZktxNl9PcVl2VURxWlRZVFQxN2s4RDRNT2JJa2F3VFJpQ08wZEhadTVzOFFPdHh5MDNwZUZQMC1mQ085X1hpZjJXSkxvVHFpM3NVWWF6blRQbkxBTTBaMGlkcVdZUEtqbXNVZFVSWnRUVQ?oc=5
+- As GDP Grows, PM Says "Don't Travel Abroad Or Buy Gold, No Foreign Weddings" - NDTV
+  As GDP Grows, PM Says "Don't Travel Ab
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm9kR3hKUndqQ0ppYVdsZGfSAcIBQVVfeXFMTU5tSGN0Y1FORktDQUFJVXkzX2ctVzZkYVZNSE8yTzdxUnFiQkdQbWp6T25Eb2RyMXQ3TUZVWWhkVmZ0akc4T3hrWVlKaXJlaHhwaEZBbWdJSDJiUS1oc0wwb3E1eklxWERMTkI2eWItVlFhSGJoM3BOVjFNUWFBVnNEVnZuMGY3ZXBqaUI5RHQyWlNzU3Z1T2pxSnBDRURMQTBuMjR0MUhFbVBFcUJKX2x3NzlCTjZ3eHB3YzlGLU8zMVE?oc=5
 
-- "Doomsayers Doomed, India Bloomed": PM Modi Says GDP Growth "Exemplary" - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlfR3phcWR2bkV3Sm9SZUg2S01EMHBTam1QRkRfSmZURmFEN2xWOGt0c1ZjTHU5TkZjbnQ2QXBKM096c1JVZ0x5MXJ6a1pueWdBUTZsQ05rUW9qa1ZVMkFxaWZhdjRGWl
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDlfR3phcWR2bkV3Sm9SZUg2S01EMHBTam1QRkRfSmZURmFEN2xWOGt0c1ZjTHU5TkZjbnQ2QXBKM096c1JVZ0x5MXJ6a1pueWdBUTZsQ05rUW9qa1ZVMkFxaWZhdjRGWlF6bEtYS29kSTVSWVhNa1BDX0ZuRERaSVB6LUI1WVJkTHhkMl9GMHl6X0lvVzNYdng2NTJRWU9uRFg4Y1BEdlhwY0hDbkppWl9BbkNyanNkZ1NObUx30gHGAUFVX3lxTE1SU1VyZjRzTVc5bEZrWXJDLWwyMnFBMGlnWE84aXZYQmNIbTg5TVJVY0dLQmdtcDNFbmN0WnEzdlMxWFVNYTBEbmpITkdwcWpoRURYNWxJSzd2OHdTQkg0RkFEaUlUMmg5cXRTZ2dWM3lZOWJXZnM0NDdDbW56UnRFUzJPOGpNVGZCSXRTZHZ0VW4tYTk1NmFScWxia1dIQXNmcGxnWm95Rm1wb0UyVkluUldEcTktZUg2TVRNRzdVWm1Jckczdw?oc=5
+- PM Modi's "Jhooth Ki Goonj" Attack At Rahul Gandhi After 7.8% GDP Growth - NDTV
+  PM Modi's "Jhooth Ki Goonj
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNTy1pSWxkcjFnVXQ4VWtCcmlmNkVEcC1MejZkdnpvcWpwZGJqZnV4eHVvTGJrY0VEeUhDZDdycGM4NVBqdTNKZVBKZUUtLXNMcHZQT0dQaVNvX2N1Z2szSHZTdl9zZ0EwVTJ6WHVZVEhwaURDcEU0ZF9XbEVuRERQS0ZsMHNDaWx0bVdnZm41MzF5bFpsNjRpNDBubktLTjNNaUFZRFhPR3hwelpRWkHSAbYBQVVfeXFMTkVHdWhnR19TNjk5dlJMaHFoUkhYekJsVUl3dU5TaklVNGVLVlQzNTZvc3lpRnM0dzFIWG5sM2xYNEpnclZCd0pNdnN4VmxDckdUXy1LcUFFVXh2Z2ZWTWpEQW11Q0JRZDZVMWhjc29UbWZNTFZmWFRIRTdWZGlRNk41VlliVW01Z0RYVW96b2Y1OFhKSllLQnB5R295dEp2WnRWa3luSXpfVHFOWHMwNlllWV9mX3c?oc=5
 
-- Sonia Gandhi: What will Congress leader's memoir reveal about India's most powerful political family? - BBC
-  Sonia Gandhi's memoir is expected to be released later this
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5
+- Why PM Modi is again asking Indians not to buy gold, travel or 'marry' abroad | India News - Hindustan Times
+  PM Modi is again asking Indians not to buy gold, travel or 'marry'
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQThhTEVxUnNOYm1ZNUJZSUNEOEZtUkZPWTN0ZXRsSW9fOVJhSzIwVmI0UFZTalowOHIxTzBXNFpOZGRrV29DdXR1YXFVcy1EME1DMGZWQlNucEo4cHptN1lualVNTlJCWW4xQS16TnNZaTg3Z0oyV0RmcmRKN0h5SmFzMy1FZl9CZS1XQjkzVlpZYWE2MDBjYWtFLWlZeHF4QVFwc1ZGeUtYX0p1ZlV6eGlGQWpKSDZsa3VzVG5iMXZucGJoalplZlFxRm5acUJIZ0Nn0gHYAUFVX3lxTE8taUh5NlhHLWliM242S2Z0djYyTHJUZDFiUE1MbHBEcmhCa1V6MzBLVmVxZHhwVDRXOHAwMU9LVFFaYXBRMG5vY1Q0QmFvOXFWZUlBWmRDeVU5aVNtVGIzRlpOZ0QwMnhyVVUycl9hYU9OSEgwTWhQZkZ6eHYybDlUR0dKWXRWaWhhYlpfV2lDWUM5cjhoTDNLQ1JKYzRuWVdVOHFzcTR4MGFrZldfMWFRTlZaMkl3c0lMS0dRdExWQjRSU3prSmZJZXFJV0R0UUt0SW41OVlrYw?oc=5
 
-- 'A particular issue': Penguin India on impasse over Sonia Gandhi memoir - The Times of India
-  'A particular issue': Penguin India on impasse over Sonia
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmpmS0FWRE5rTkhBR2ZQWWI5cXhLbjY3ZkpHZEJ5ZmRSVmVMWUl2SHBkQUxsaVpFS05fLW5CZ045S0dyMXIzSGt5QndWVm1WQzVGVWxSTjRLVF9HZEFQTjJ2Z3U2TGV4N2I2SU4xQ05aS0hadVR4WHBia1JOYUt1Z2RhZ2o1YVlBTExVZVI4U2NBV3k0di1lNFlLeU93STlQSjNWYlpkVGpMMHJnc1pJd1RjSlE4eUZSRHdVTnhvWDF6YjBCNUp0S3NVbkxrUVU1dmfSAdcBQVVfeXFMUGkzd1NmSUV5UWp6Z19CZTBYUmtfTWQtVVB1NnMwV2k3cEdPd0pyR0s4YlRtcUV4QWRyRnpSaVNBdTgxc2FvRlRKd1paUnFQdFdoWFUxb1JiVk16SDFZMVdFb0h6LVNhUFoxbUM1ZTQwZlE1N1AxYkM0d0FJX1pGM24xbXJVeVk0WHJVRktITjM3eTJqY0pVS3BWNXR0TU1VVmYxNWdjYm43TVlKQ2xEU0hIeC1sb1YxQnZEUFp3clNKaHlBVUE4b2RvOEpRX09OdmNVZkFTQWs?oc=5
+- 'No jurisdiction': India rejects 'illegal' Court of Arbitration's Indus Waters Treaty award - The Times of India
+  'No jurisdiction': India rejects 'illegal' Court of Arbitration
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY1A4Y1FKNjg3QzFFckxZdmQ1Mm5NUjNMcDRYd0QtQ3NRTXl3dll3b1RUV1NFdi1mT01DbzgxcC1OV1RTSkpicnBqYXlWUHVwQWR1dnY5a1R0a0tRcTlpRHZmWklHUVlyLVFzSU40MktraG8yS3N5UVZRbDJLSGxhNlcyWTFrYWMwMlVZU1cxNlVCTzgyYW16NXZHRFBUTXBYM2poT3lxOWhjNW9DTmU5Qkp6eXpQZ2x6YzhsWWhGSkktQVRyZVcwN1BWTm1hTm0zcmNxU3prR2QybE5sdjM5UFQ5cjBQWG_SAewBQVVfeXFMTThSVXlITGpnMjFYb2FWWVlQQ253YVBTOXUzS3ZISUNVY1dNT1dVUF8wX1RnS2V2Q0xMYWJZTzFGTC1qVTViX0NCb1lIc2habXl4UEdibVlGdFpJenlBOW9lamNXb3pZUlJwODJxS3pfMlNhSW03eUI3NWVZODNiQTVKbDg5SVAzaEUxS0NOR3Q2SGU1d3pRdWlKb2N3QjZYdUt4eWR6eVl5OUhmTjJoNzZvb0wxZUxjOU8ydGgzQ1QtSjJ2bDFJcG1sVDEtQlV1ZUpOZTg2NktVZFYwV1RJTXpCczZuZ083WGZ0STc?oc=5
 
-- "There's Pressure": Congress vs BJP As Penguin India Drops Sonia Gandhi's Memoir - NDTV
-  "There's Pressure": Congress vs BJP As Penguin
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjV2WXEzWDVvTDBsRmhSM2x2bFRjZ3J4OW9uRldKdmRjUU1ySlBNUk5IbnNDem5tR1hOeEdIeGw4b1Zqd1BsOFJBM0NIRVhnOTUzazgySndnQ0JXRnRrRlpHWlY3Z1llUlRMYzh1enI2QUJTblZOUGdyR1hYTlJZX2lMLURya1B3ZjZURWJPa3lhRWUtME5aQldCeXRGaHN6b0lKRHZ2VW1VbVdSYWFWS21vdGE1b0hmcUFNZHpzSGdMRXBpMVR3?oc=5
-
-- Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil - cnbc.com
-  Indian PM Modi implores Putin to end Ukraine war amid U.S
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2xOMTZWRlBPVG9URC1jc01hN2Ytd2daYmJCS0lvYlJaOGs5U3Jwcm55ZXlBenpQcERvcUdLdERXTF95RmM2TThVXzNZSDZVWHdQdUp2UW1oMjVSRnlxZzRPenVmVmpsWnNmMFZIOV9IYUljSEVhcFJYOUZZaG5LOVlR0gGHAUFVX3lxTFBIT0hRTmZMMTQ2MnlLV2Y2UU1IYVRZZktxNl9PcVl2VURxWlRZVFQxN2s4RDRNT2JJa2F3VFJpQ08wZEhadTVzOFFPdHh5MDNwZUZQMC1mQ085X1hpZjJXSkxvVHFpM3NVWWF6blRQbkxBTTBaMGlkcVdZUEtqbXNVZFVSWnRUVQ?oc=5
+- 'No Jurisdiction': India Rejects Hague Court's Indus Waters Treaty Ruling - NDTV
+  'No Jurisdiction': India Re
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGJEN3lxNzJDaVNCVC1MaXlhN2VpVk9nQVVLN3EzMl9lQUFkTmpKNFFsZFNvLWNLeUc5SjVYUzROZ1N4MUtVbDZIV1J2UnlsbV90b0VtTy02ZVdyc3dZME01bzhZUW9sQTB0RFIzUXRhVlpZc043aEhEM0pJU0RPRkxuak9VTms1YU50cElUYXBYYjhRd0dBNUdta2NhaHNFRUZSbEx6RGVzdEYtaHZiNmVEWGHSAbwBQVVfeXFMTmxKNk1CN0dpZGZpY0I5ck5jdy03SkJ1TzU2VWdyaEwwM19CWGM2ZXdEdEFoUm9Rb2JPd2FhbDhVTXlVb2F0cE5yS0x6R3lCenFVWEQ3dkZ1OFB6NkZhNmUzckJIbWdJajR0b1dyTnpadFRQeGJRYXZFYzd2U0dnOXgzQkw4Y3B5aVNmSmpIeEh1Q0xnNG5xX3Q4aDdXcmdlLWoydjV6aGRmdXFlcm9wWFVia2ZtUjd6VENDaHc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-01 03:11:28 UTC_
+_Last updated: 2026-09-01 11:02:10 UTC_
