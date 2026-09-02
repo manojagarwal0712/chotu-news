@@ -1,184 +1,204 @@
 # 📰 Daily News Summaries
 
+- 'Can remove Pak from world picture': Pakistan PMO crops Modi out of SCO pic, gets warned | India News - Hindustan Times
+  'Can remove Pak from world picture': Pakistan PMO crops Modi out of SCO pic
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWWtWVUpnZ0VuSmdNUHoyXzZGelBub2JJZUhSNmRWWnViUjU0VHdfdHhnZnVWdTNqcm9kWUlBRnF4THprTmU4VjJsMjV2dU1abHlZNV9JbWhkZ0VGQ3VBdUtrLV85MGpGNDEtazI3a0dzWlNEWnRsNE1idFFDZEZncDZrcTBlUnJQOFJqemlQSTF3blBrb0V4SXYtV25tVVRWS2huVElUbVNzMjNJYzNwR1NtNS1Oa3pLZERwWnI1dHh1T253ckc1SzU5dVBTVEJLX3EyeE9qQjJxdVVMUVdpSdIB5gFBVV95cUxQZ0I2Mm5PenhuWWtTOXMwOGc4RzRXUWMzV19VOC1oZ3gxMVNCaVV6MmxTTHk0aV84SmhVZjNUR2EwQkRicXl3VmV6MDFDaGl5dG5OVGtvS0w1Y2lvTWdNc3ZlYXZiZGE2SVRscC1OOGR5ZDdlZDBZMDUyVHRxaWFZN2Fta2s1eGE1QURqeXNUQWFsX3duUXhrNUd1RE5IalZ4bWp4QUc0SzRac1RJNlVFZWpBTHZRMnB0clFYTHVmc3B5ZGNiaGJoMWh6eE1VWl9vN3pkclNsNTRVM1l0UWZqME1PdFJKZw?oc=5
+
 - As GDP Grows, PM Says "Don't Travel Abroad Or Buy Gold, No Foreign Weddings" - NDTV
   As GDP Grows, PM Says "Don't Travel Ab
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm9kR3hKUndqQ0ppYVdsZGfSAcIBQVVfeXFMTU5tSGN0Y1FORktDQUFJVXkzX2ctVzZkYVZNSE8yTzdxUnFiQkdQbWp6T25Eb2RyMXQ3TUZVWWhkVmZ0akc4T3hrWVlKaXJlaHhwaEZBbWdJSDJiUS1oc0wwb3E1eklxWERMTkI2eWItVlFhSGJoM3BOVjFNUWFBVnNEVnZuMGY3ZXBqaUI5RHQyWlNzU3Z1T2pxSnBDRURMQTBuMjR0MUhFbVBFcUJKX2x3NzlCTjZ3eHB3YzlGLU8zMVE?oc=5
 
-- India's GDP grows 7.8% in Q1: Factors powering the economy despite global turmoil - The Times of India
-  India's GDP grows 7.8% in Q1: Factors powering
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeng5MG9YTU5qNDk0VlBVa1dMcGdTajFZR1ZDRDZGYTN0aHRKMHJKTlJxUHhZV0hyU25DaGNwNjU2MFRXNEI0SDhOemV5NE5XR2MxdkFVUG5XRngzQXdLSS1kOW9RVTJfODlleTRmMG0tbDRUYVBhSWZCOG0xNnpEX0g4R2YzdERFZmQwZFNFTFAzbTliQkYzaXp6Uk0xdkU0Mzk1MDJnMWZjSUlJRk81dk43QnRJSmptSk9hS0lRcWdYMnQ2VTJXc0pQYkdUVFlVdWpNRUlHT0pva1RmZGJTVXppb3hjRmx3UlpTbEVkQlJKVTlkVWMw0gH8AUFVX3lxTFA3QXZYRG1QMUs1VTlJT3hiS2JORGVPZWYwbkgyZWtXRmFxTnZXSmpzZ1hMeWVxd250aGExZUlvM0tHQkNZMVZGeVV1YXFwZ1phbGxXZHBNbFlud3BMSGRPaVZuZWFmNVNWcFlUa2NFa0QySWRZSG8wLTljVTNLUXo1eHZpSG9PS2RaM2Jadlp3ZjIwY3gtWGdGX1o1TGJUbDNWenhCck92OEd6Yk5uOGJfdVd1U0c2ZDBlTGpUU2lFQjBzV2M3aFFsTWRTU3VTRm42eFc3NThrTjhYUnE1NkNKeVNFM0VQeVBMdVFrNGZpTW1YR3pJcHhCSDhIZQ?oc=5
+- PM Modi Leaves For Home After SCO Summit In Kyrgyzstan - NDTV
+  PM Modi leaves for home after SCO
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaklVU1VKSFdZVEdScUplbVczRFpvMVU0bUI3T0hRcHJRbmxfUmNKUzYwRFJjaHktRWZ5S2RaUzIwN2NTRHdVYU04TWlCemhmS1ltSzJaamFOUWxXeC0xTE1NcVRmc0d4M2dLYlZyTzFnLTVIeUhid1RZVXJyWWZ2ZnFMbkRzTE51RDhTbWdvSHBxel96U2ZSUnVkcFpkRGdSRTdNcWZ5NNIBrwFBVV95cUxPMkhVYXpVV0s0SlFKQjdiQUpjaWx5UXF3bFZmXzBWLXBiSVp5UlBUZEJXU0I2M0FsME1SME9vM1lORHRmQk5Jd2UyZWpZNU9EMHlTUnJFS0QtbVlyVHVYN0ZsOWpRRmRiLWRaVDNrZUNJdnNLRE8yUm85TklJMUtCVmVvRVo0U0NBMk5GeEJ0dlV3ekZocDFmLWJBcGE0bEFCZ3gzbGM1dWtKdENfdGY0?oc=5
 
-- India’s Growth Beat Suggests Economy on Cusp of Investment Boom - bloomberg.com
-  India’s Growth Beat Suggests
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGJLYVRFN2w1M3ZPVTA2Q1NoSkROZWQ3WV9nbGpQdjNwczhUeF91Y0tZMGp1eHpPTlUyZF9mWlBXWlJZbEZKOXpkNGlLd0RhaFdGOEZSN1Q1UlVuY3hMSEN3eEU4MFBnS1cwNXZGbzdWM3NoRnhCaEVfbGdXbkJQOEhlS0ItVXNnR2ZsOTNxNERMQzk4clFBaWFlWHZHbFI0a1FMRDduMlZGcGVIbzJOR1U2QXE?oc=5
+- Breaking news live updates, September 2: Japanese credit rating agency upgrades India's sovereign rating to A- from BBB+ - The Times of India
+  Japanese credit rating agency upgrades India's sovereign rating to A- from BBB+
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1R3Q0FZSm1YTEpFTXpmTWw4SDN6NmY5OEd0ZHIzVWRYLWxEdjRyVTNtd1lsRXdwOEtOakxFTG5FTmNYWWluam1NWWJjWUFmcUl5dEluc2dGc1I2aHJNUEllMFdCcDNpcDlmNHIyeGRNOTlVaDFqOHgtSmQzbEdHTWIzSkIxS19zNDJNTmhRamVzLU56SldCN0ZFb3NaaGdHMzZHV1Vn0gGrAUFVX3lxTE1nejJIa1B1YTdhNWEza05PaVRLdkhoaDZYcEpKQ0dQSnBuRklGX2FmX2MtdExiWTRVcTNJeF92SFlMOFVjMmlzaUNSTE5URGJGTlAxbS1RUUFUVEI2N1ZwellfMWlIS0ZDa2tiYTk5Yll2UnlRRTFwT29QdWNCZDZUOVNqVmpjckIwVFNTRFVFM1FCdk9qMVlUNUdhOEtneDFCWnpaZ3NvQ0JfWQ?oc=5
 
-- Odisha: Why Dara Singh, murderer of Christian missionary Graham Staines and his sons, may walk free in India - BBC
-  Dara Singh is accused of murdering Graham Staines and his sons in India.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ektOa1JLenlGbU5KNExDVlduWGF1RTR3LXd3bU1HdTZZVlRsLS1ZbkdZZkU2WFRadEFzSzhJZUdLUEFjWGN0cnc5T1ozMGZSbTdDMFJ6OWpXdw?oc=5
+- Watch: ‘Unsafe’ Rajasthan govt school building demolished after CJP campaign - The Times of India
+  Rajasthan govt school building demolished after C
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPanZGVms0VS0zUFRoM0h2SzI5TGhFSXB5cnNsTXVHN1Zkbnk4OVJDUURWR09JOTZTZUZuUE55VklMR0lOVWFoMzBrVS1iNmVBRjgyc0ZwaXo2aUJKazd1MENjd21SYVItSC1fdm0tMmVDbktGMjNsT1NZYzdwZmUtN0tWWUdLTTlPT0pDOUFfRVdGc3JNQWU5a0VIUVJ6S1Z1S0Y2cTZXRnpKRWVHR080X1gxcXBUR2J6QjZmU3ZKdW9GcFNacDZDUHlza3NUQ3VPU2lVVUJuVzTSAd4BQVVfeXFMTmNPWmNQWVBDX0dWeVNNYWdVRG9LaVo0ZWMyNV9rQlR0eU92RUJHalRVT0hoSjJSbVQ3ck80MEdwRzQ0dkpDQWJpMjk3M0ZHNWt2LW1UemR1RDA3a1BLNjk2cW9CeUdtLUxrVWN6VVJ4VWgxaWZhWlZlUGlULUg5SnZCTU83MF9nYzBURE5yeEhtbDg0Vk1qRnM5akVUU0VDQ3JxT2FCTy1rLWZtUXNRN3B6OVhpR2hyRG9wVGZtNzdJVC1aUnhHdGNhUjMwcjRYV2ZnM2dnb2Vkb0I3c3Fn?oc=5
 
-- Oracle layoffs: The '6 am email' didn't come on September 1, and employees across US and India are now 'w - The Times of India
-  The Times of India reports that Oracle has laid off thousands of workers. The company says the layoffs are
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWWVhXzM1akNDVV9wUEZkbWpjUV9LdGY0RmlPU3dMVjM1clBpSXUwTldRbUhiNTltSVl5ZU8zdmFoTHVLcGhhWFRCTzlJUGdLRjVYeVZISEw1TWIyeWw0dlpqbFQ2SW55Nm1sZHVkNVVoR3UxSklkVjQwMHpCWTg3endWT2htQmFES1kzR2xibzRVcG9JVzZmWFdwcW1hQTZ5RXgzc3cyOHJvZDZZWHN5VndHZkpHVzVkczlWZFp1YWdYODhjLThWSW5OY3dBMVhSc2FWM2x5clBhYjNwYWI1N2Z4ZGQtNW5NMF9INmdnZU0tQ3U4OVJRcFh4LWp4TXhqVWRpV1FzbV96SVEyVUY1WHZJSHdKbmZHMWlQanR5UHVodXpOcEdwUVJR0gGvAkFVX3lxTE9aRUNHblZFaHU3YWxxdW43dlhmcHNtQnFuWGZvNURSSzZEcVRaWlhMY2tsN2EwWGRoNGVPTXFLV1NneHpUaUR3Y1hoZHhFcjdwaTM3ZHl2VUl5QVl3Y1lfeTUtYUIwT0Z0aktHZnlwNi1lZVJJd01MMWFsZl9yMEJ6YXh5N2s1LXQyVi1MRXhyUTRGQ28yeVlJSWFfNzl5M2ZDR0dHZ2NmR2xqS0NoczltZmZmRGhUU3psMWxZQWwzSzVzTUxxMk5ZUVR3RHBCUEp3TDV0eGprVmlkRE9fQVZDeVltNWFrVjJ0R3RRQk54WWxMQmhSWGRMcWJlSWl5Q2FVSkVSbXMzcHlhSk5LMFVDQUlQY2h1SGtxaTIwYU11RjVFMWtLTmEteU1hMnpmSQ?oc=5
+- Andhra University plans Centres of Excellence in quantum technology, AI and semiconductors - The Hindu
+  Andhra University plans Centres of Excellence in quantum technology
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVnRiOEpvNnVSbDFrS3RnbUlxcl9FdEZVR3lLamlFVElZamhRT0dKV2xPNEt2VGNWeEE0TjRfVkRreC0zaG0wWEEzaXNXZGNzUlU5eUJjN29wZkg3LXNfWERQZU9uYVNTOGU4RGJKVkhhM0xtN3RyQUcyd3JUdFRQZHQzcjlMaS1aU2h5ZkJBWmI3Tm9ZZjZoY3pGZTZWUk9KbFhMWkx6aWxDd21GTWJMR0hXaWRlOVItRXFDOWtXdnVYWC1DUEFuVndNdW5RWEZKLWlEZlhXSmY2OTVEMEx5RkdLY1B6Z2ZyTXNRaURmXy11alBxc0HSAfwBQVVfeXFMTnkyRzNEOTROTnEwQXNyOFFRUjZCTGZFMUt2VTJTdVVhMGpzN0ZSNEhmdGxGMjNXZVhST1BvZ0QtUXJZaXIxRFJSNnhjVjR1eS1zTEZXRExJSk1RMUdzOU5CNExGZkpBUjl5ZkhINFdVSWducGdGdkdWa3UzRzhzaXlJeHBKN0RyT0tJYndxZy04NGw4SUp5VzZSdi12dUFXd3A1eVJULVBlTEJXNF9CbDdpSVUyTGVtblFtUWRFaVZyVmlaZk5rVjE0emFHY0FjUXVwX0FHaTNCRmVsWHZLTllvclM3eGRmalhReWNOdVpMUWxxdF9LenM3VzhN?oc=5
 
-- TVS Motor makes global picks for growth and leadership
-  TVS Motor is increasingly looking outward for its next phase of growth. Aiming a larger global share and looking to revive its iconic British brand Norton. More strategic roles are being led from overseas, even as the core execution team
-  🔗 https://www.livemint.com/companies/news/tvs-motor-ceo-global-leaders-export-growth-norton-11788267344933.html
+- Metso to supply key minerals processing technologies for a copper project in Asia Pacific - Cision News
+  Metso to supply key minerals processing technologies for a copper project in
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQak9Kb2FwMjN0Z09pb25FSmFvYS15WFl4bjRfdS1sMnM2MjJSaW5vWkJ3ckJjcXh5SzZGVnFkNmRfWk1mNU40OGtvVjktbFVhbG5oblJLRkZQT1dKcC03SWtDV0dRWWFkM054ZG83YVhRWkN1TmpvNU1ETVF3cERvYXBlUFc3eDQtWHByWmM4NmhxWGEtQ3diM1Vnb1l2cDUwekhLLTdBdGdYdzREWXlUT1Ric0QzUHV5ZUFOVGJLUXR1UFVBbTZvRjlIb0dDSm91OS1xeHl3X0E4UQ?oc=5
 
-- An idle laptop = a day's leave: Wipro logs into an activity monitor
-  A workday without logging into a company-provided laptop could now cost a Wipro employee a day’s leave. The IT firm is rolling out a tool to track digital activity as it
-  🔗 https://www.livemint.com/companies/wipro-installs-employee-productivity-tool-on-company-issued-laptops-11788171055386.html
+- Pune, German cities explore partnership in mobility, waste management, technology | Hindustan Times - Hindustan Times
+  Pune, German cities explore partnership in mobility, waste management
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWXZteExVOWpMU2hMOWVnV2dBMVRqMlpya3l0QUtKbWZzSzUtOGlyejA3WkwwTGljTlZnWmZfbVJVcDRqRlVZN2JNbTdWM2FvaVZNVTJ5elN2Y0JfY2lMUE5aS2l4NUZCTFZmUzkxN2stRWlwNUpHOHI5V3hrYi1XMkpfbHNRMl9WZElpQmxzcFVoM256S19FTGFKdXpaOE9zWDBJSXQwaUFsLV9mcHh6YXVsOGZUeU0xNUUtSmtFeEx3OWFVem8wQjFkUGFWZ3Q2RzlWOFpjbEhXUmhqbGhLU9IB5gFBVV95cUxQdU82LUJFUlB6LUpJZVMtelQyd0R3enNSbDZLNlNTaWZBemNVLUF6a3RjWlRIbEJQcnhELWRzQ2liTDBOTGc3S2lPS0tlUW1zYXNSakJLd1ltZ0I5cUszVFBVTGhzZXRFZlk1NUJkeW1jenluVmdWTUFIVGpncGNJWFFpNTliSEhRcnM3ZVVTaEstcUJzM3g5SFJCV3RqR3IybUpXRkZ6MTdTRXlFRWQxSU1IY083UFVBLVZlZC1Bb2VGZWF2cnJBMHFrZGVIaDFBMEllcDdkYWYwRHRrVG5LYWN6N2JQdw?oc=5
 
-- OVL in talks with PDVSA for $500 million dividend payout in cash or oil
-   ONGC Videsh may soon be able to access $500 million in dividends stuck in Venezuela due to US sanctions. State-run firm initiating talks with authorities in the Latin American nation.
-  🔗 https://www.livemint.com/companies/ongc-videsh-venezuela-dividend-payout-11788263113752.html
+- John Ternus succeeds Tim Cook as Apple CEO after 15 years - Al Jazeera
+  John Ternus succeeds Tim Cook as Apple CEO
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPaTF2SVk0VFhNXzZtUjlTNndnOHI2T3l0U1dhWDJIMnlWdHJVQXRMdjh4bmRRZEZxUVpRSmRmRHgyZkwzWGN3UEt6VVg5TjlMYmhlT1ppckxSMFVXbHFNelJuU2txajBKUE1HTGNpcjc1c1J5dWFWN2pBVnBFdnplQnVER0VXcS1XSlBsUFlQTEd0TERIenFOQmZWd1RERG5iM2fSAacBQVVfeXFMTjVMbnNXVXhOTlVUWUVDV3BETUtUVU9MU3c5TXp6V3Z5aVdZSFZYWnQ1eVJwNGc2a0dMUmRnTUdZV1hXMW1GLXJZcmhIS2hrRFpuVmhkRng5WnVNNF9SWHVPclhZdDgwVEJVUWJsMlpJLWpsZ3VOdEtfaWV1anNPUTJJY0d3dDRJMWsyQVJRZGRkbndsUzFpSVZndW5aTjZKeHhtSkM1VG8?oc=5
 
-- SEC Preps Plan to Widen Investor Access to Private Markets
-  US Securities and Exchange Commission is eyeing a plan to expand access for retail investors to private markets.
-  🔗 https://www.livemint.com/companies/sec-preps-plan-to-widen-investor-access-to-private-markets-11788289291191.html
+- Dell Technologies Boosts Fiscal Year Outlook by $25 Billion as Server Revenue Surges - wsj.com
+  Dell Technologies Boosts Fiscal Year Outlook by $25
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQMjhMMTN2ZXlVcVNLOGE4MTlpWFlLd2JWaFRPNU1waFRuWUJfbnpibzIyM25wT2xhOWtad1M4WVVoQVRIRF9PU2R4SnFLTUtaSG1MeVZiYlpvRkdaTnBVd0NWaXg2VW5RT0NkSnZhWG9wMmpXOFM4RUZuYkRKVjFmRUFYT3pGMHJyaWoyNjhzMmhhWFhWa2FlX0lNaV93UW1VRzNnZWFvSW1DRjUzb2REREFpNHoxbG9WRi1zVXhTaHh6WTBFWEZpUzRB?oc=5
 
-- Nestle agrees $1 billion sale of vitamins, minerals and supplements business to Yellow Wood
-  The deal includes seven brands — Nature's Bounty, Osteo Bi-Flex, E
-  🔗 https://www.livemint.com/companies/nestle-agrees-1-billion-sale-of-vitamins-minerals-and-supplements-business-to-yellow-wood-11788284728805.html
+- Happiest Minds' CEO, MD rule out layoffs after merger announcement with ITC Infotech; say deal to boost talent pool
+  Happiest Minds Technologies will merge with ITC Infotech. The combined entity will have over 19,000 employees. The merger is focused on expanding talent and capabilities.
+  🔗 https://www.livemint.com/companies/news/happiest-minds-ceo-md-rule-out-layoffs-after-merger-announcement-with-itc-infotech-says-deal-to-boost-talent-pool-11788337110555.html
 
-- Buy or sell: Gift Nifty signals tepid start | Vaishali Parekh recommends three stocks to buy today —2 September 2026
-   Vaishali Parekh recommends three stocks to buy today — M
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-tepid-start-vaishali-parekh-recommends-three-stocks-to-buy-today-2-september-2026-11788311936863.html
+- RXIL weighs insurers, mutual funds to deepen MSME financing
+  Rising transaction volumes are prompting the TReDS platform to explore
+  🔗 https://www.livemint.com/companies/news/rxil-weighs-insurers-mutual-funds-to-deepen-msme-financing-11788235432562.html
 
-- Crude oil price ascends after fresh US strikes, WTI above $91/bbl, Brent above $96/bbl
-  Brent crude futures rose 87 cents, or 0.92%, to $95.52 a barrel
-  🔗 https://www.livemint.com/market/commodities/crude-oil-price-ascends-after-fresh-us-strikes-wti-above-91-bbl-brent-above-96bbl-11788313107096.html
+- Mint Explainer: Can NITI Aayog clear the bottlenecks holding back India’s deep-tech startups?
+  NITI Aayog's upcoming study aims to address critical gaps in patient capital and infrastructure to help India's 4,200
+  🔗 https://www.livemint.com/companies/start-ups/niti-aayog-deep-tech-startups-challenges-11788320293931.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 2 September
-  The Indian stock market is expected to start flat on September 1. The Nifty 50 closed at 24,055.80, below 24,100. Analysts predict volatility,
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-2-september-11788311875376.html
+- Adani Group's listed companies report drop in headcount as jobs get outsourced to vendors
+  The number of people employed with nine listed Adani companies dropped in FY26 as the group moved towards deeper vendor integration. Including the vendor workforce, the &
+  🔗 https://www.livemint.com/companies/news/adani-group-listed-companies-headcount-outsourcing-jobs-vendors-11788253647002.html
 
-- Stocks to watch today: Reason why these shares are in focus for Wednesday's trading session | Full list
-  Sensex and Nifty closed marginally lower on Tuesday. Concerns over elevated crude oil prices and renewed tensions between the US and Iran weighed on
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-today-reason-why-these-shares-are-in-focus-for-wednesdays-trading-session-full-list-11788311231011.html
+- Cybersecurity infra worth $1 trillion isn't ready for AI; Palo Alto CEO says tech is forcing companies to modernise
+  Palo Alto Networks CEO Nikesh Arora said AI is forcing companies to modernise nearly $1 trillion of cybersecurity
+  🔗 https://www.livemint.com/companies/news/cybersecurity-infra-worth-1-trillion-isnt-ready-for-ai-palo-alto-ceo-says-tech-is-forcing-companies-to-modernise-11788324515920.html
 
-- Stock market today: Gift Nifty signals a negative start amid rising yields; 8 stocks to buy on Wednesday, 2 September
-  Rising global bond yields and escalating US-Iran tensions loom. Analysts suggest a cautious approach with stock-specific strategies.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-signals-a-negative-start-amid-rising-yields-8-stocks-to-buy-on-wednesday-2-september-11788312282518.html
+- Bharti Airtel Share Price Target 2026: 'Highest ARPU' - Buy for 40% returns, says Axis Securities | Rationale explained
+  Bharti Airtel is projected to reach a target price of  ₹2,530 by Axis Securities. The company's growth is bolstered by
+  🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-share-price-target-2026-highest-arpu-buy-for-40-returns-says-axis-securities-rationale-explained-11788341579255.html
+
+- Stock Market prediction tomorrow, September 3: What will happen to Sensex, Nifty, Bank Nifty, KOSPI, Nikkei on Thursday
+  The Indian stock market fell for the third consecutive session, with Nifty 50 down 0.80% at 23,863. Rising oil prices and geopolitical tensions
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-september-3-what-will-happen-to-sensex-nifty-bank-nifty-kospi-nikkei-on-thursday-11788342601997.html
+
+- Microcap stock Nukleus Office Solutions rise over 7% despite weak trends on Dalal Street
+  Nukleus Office Solutions share price opened at  ₹184 apiece today. The stock touched an intraday
+  🔗 https://www.livemint.com/market/stock-market-news/microcap-stock-nukleus-office-solutions-rise-over-7-despite-weak-trends-on-dalal-street-11788339391795.html
+
+- August sales: Hero MotoCorp’s weak show no reason to ring alarm bells on auto sector slowdown
+  The key takeaway from August sales volume numbers for investors is that demand for commercial vehicles has been stronger than that
+  🔗 https://www.livemint.com/market/mark-to-market/august-auto-sales-maruti-tata-mahindra-tvs-motor-11788333468302.html
+
+- Gold stock: Why Augmont Enterprises is shining despite PM Modi 'avoid gold' appeal, and US-Iran tension?
+  Augmont Enterprises share price opened at  ₹869.80 apiece today, as compared to previous close of 
+  🔗 https://www.livemint.com/market/stock-market-news/gold-stock-why-augmont-enterprises-is-shining-despite-pm-modi-avoid-gold-appeal-and-us-iran-tension-11788335967894.html
+
+- Apple CEO John Ternus sends first memo to employees, teases ‘phenomenal’ 9 September launch
+  John Ternus officially becomes Apple CEO, succeeding Tim Cook as Executive Chairman. Johny Srouji is promoted to Chief Hardware Officer amid Apple's broader leadership
+  🔗 https://www.livemint.com/technology/apple-ceo-john-ternus-sends-first-memo-to-employees-teases-phenomenal-9-september-launch-11788336582720.html
+
+- iPhone 18 Pro colour leaks keep contradicting each other: Dark cherry or silver?
+  The iPhone 18 Pro and Pro Max colour leaks suggest Dark Cherry, Sky Blue and Black options replacing Cosmic Orange, Deep Blue and Silver. Apple's
+  🔗 https://www.livemint.com/technology/iphone-18-pro-colour-leaks-keep-contradicting-each-other-dark-cherry-or-silver-11788327613653.html
+
+- September 2026 Android drop: 5 features for making life easier - Remember where you put things, ease motion sickness
+  Google's September Android Drop includes new features. Gemini feature lets users remember item locations via Find Hub. Guided Vision accessibility for blind and low-vision users also added.
+  🔗 https://www.livemint.com/technology/tech-news/android-september-update-gemini-can-now-remember-where-you-put-things-motion-assist-and-more-11788324837780.html
+
+- Balancing capabilities and safeguards crucial for next-gen AI models, says Sam Altman
+  OpenAI CEO: It is more important than ever now for artificial intelligence capabilities and safeguards to advance together.
+  🔗 https://www.livemint.com/technology/balancing-capabilities-and-safeguards-crucial-for-next-gen-ai-models-says-sam-altman-11788318928195.html
 
 - Anthropic resumes external cyber tests after Claude AI hacks
   Anthropic resumes
   🔗 https://www.livemint.com/technology/anthropic-resumes-external-cyber-tests-after-claude-ai-hacks-11788312905495.html
 
-- Analysis-Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom
-  Power and cooling firms are riding the trillion-dollar
-  🔗 https://www.livemint.com/technology/analysisnot-just-nvidia-these-power-and-cooling-firms-are-riding-the-trillion-dollar-data-centre-boom-11788303901497.html
+- Global Market: Japan’s 3% bond yield barrier signals shift in global debt flows
+  Japan’s 10-year government bond yield crossing 3% is making domestic fixed-income assets increasingly
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-3-bond-yield-barrier-signals-shift-in-global-debt-flows/articleshow/133706038.cms
 
-- EU antitrust regulators quiz publishers on Googles AI search opt-out
-  EU antitrust regulators quiz publishers
-  🔗 https://www.livemint.com/technology/eu-antitrust-regulators-quiz-publishers-on-googles-ai-search-optout-11788296350874.html
+- BSE courts HFT firms to boost closing auction liquidity
+  BSE Ltd. is taking steps to engage traders in order to enhance day-end trading volumes after encountering liquidity challenges. The implementation of a new closing auction system has led to pronounced price fluctuations and diminished options turnover.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bse-courts-hft-firms-to-boost-closing-auction-liquidity/articleshow/133705695.cms
 
-- Redmi Note 17 Pro Max India launch teased: 10,000mAh battery, 100W charging and more
-  Redmi Note 17 Pro Max could launch in India on 15 September. Redmi has not confirmed the date.
-  🔗 https://www.livemint.com/technology/redmi-note-17-pro-max-india-launch-teased-10-000mah-battery-100w-charging-and-more-11788261909649.html
+- Global Market: European shares hover near one-month low as bond yields, oil prices surge
+  The STOXX 600 was broadly flat, while Germany’s 10-year bond yield hit its highest level since April 2011.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-shares-hover-near-one-month-low-as-bond-yields-oil-prices-surge/articleshow/133705634.cms
 
-- Apple iPhone 18: Leaked design, bigger battery, camera upgrades, price and launch date
-  iPhone 18 Pro and Pro Max are expected to launch on 9 September 2026. They will have a smaller Dynamic Island, under-display Face ID, variable-aperture camera
-  🔗 https://www.livemint.com/technology/gadgets/apple-iphone-18-leaked-design-bigger-battery-camera-upgrades-price-and-launch-date-11788248275653.html
+- Coal India arm Mahanadi Coalfields files IPO papers, plans OFS of up to 66 cr shares
+  Mahanadi Coalfields has filed its DRHP for an IPO comprising an OFS of up to 66.18 crore shares by promoter Coal India. The proposed listing will give investors direct exposure to
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/coal-india-arm-mahanadi-coalfields-files-drhp-for-ipo-ofs-up-to-66-18-crore-shares/articleshow/133705532.cms
 
-- Annu Projects IPO listing today: GMP signals caution ahead of market debut
-  The IPO opened for subscription on August 25 and closed on August 28, attracting an overall subscription of 2.93 times. Retail investors bid for 2.68 times the shares reserved for them, while the Qualified Institutional Buyers (
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/annu-projects-ipo-listing-today-gmp-signals-caution-ahead-of-market-debut/articleshow/133695261.cms
+- Can Apple shares extend Cook-era gains under new CEO John Ternus? Here’s what analysts say
+  Apple shares have delivered exceptional returns under Tim Cook, rising over 2,700% on a total-return basis. John Ternus inherits a mature business and will need to chart his own path for future growth.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/can-apple-shares-extend-cook-era-gains-under-new-ceo-john-ternus-heres-what-analysts-say/articleshow/133704328.cms
 
-- Oil Price Today (September 2): Crude oil nears $97 as war tensions escalate. Will it hit $100 again?
-  The U.S. says it carried out a series of airstrikes against targets in Iran overnight. It draws a response from Tehran in what is described as the most serious escalation
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-2-crude-oil-nears-97-as-war-tensions-escalate-will-it-hit-100-again/articleshow/133695425.cms
-
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-wipro-share-price-02-september-2026/liveblog/133695430.cms
-
-- Stocks in news: Reliance Industries, Wipro, Tata Motors, among 9 stocks that will be in focus today
-  The BSE Sensex ended at 76,944.28, lower by 12.99
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-wipro-tata-motors-among-9-stocks-that-will-be-in-focus-today/articleshow/133695276.cms
-
-- Welspun Corp, Perma-Pipe to invest Rs 1500 crore in Jordan pipe manufacturing JV
-  Welspun Corp and Perma-Pipe International Holdings are set to create a joint venture for pipe manufacturing in Jordan. This collaboration is designed to tackle key water and energy projects in the Levant region. The facilities will play a crucial
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-perma-pipe-to-invest-rs-1500-crore-in-jordan-pipe-manufacturing-jv/articleshow/133695216.cms
+- 'Can remove Pak from world picture': Pakistan PMO crops Modi out of SCO pic, gets warned | India News - Hindustan Times
+  'Can remove Pak from world picture': Pakistan PMO crops Modi out of SCO pic
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWWtWVUpnZ0VuSmdNUHoyXzZGelBub2JJZUhSNmRWWnViUjU0VHdfdHhnZnVWdTNqcm9kWUlBRnF4THprTmU4VjJsMjV2dU1abHlZNV9JbWhkZ0VGQ3VBdUtrLV85MGpGNDEtazI3a0dzWlNEWnRsNE1idFFDZEZncDZrcTBlUnJQOFJqemlQSTF3blBrb0V4SXYtV25tVVRWS2huVElUbVNzMjNJYzNwR1NtNS1Oa3pLZERwWnI1dHh1T253ckc1SzU5dVBTVEJLX3EyeE9qQjJxdVVMUVdpSdIB5gFBVV95cUxQZ0I2Mm5PenhuWWtTOXMwOGc4RzRXUWMzV19VOC1oZ3gxMVNCaVV6MmxTTHk0aV84SmhVZjNUR2EwQkRicXl3VmV6MDFDaGl5dG5OVGtvS0w1Y2lvTWdNc3ZlYXZiZGE2SVRscC1OOGR5ZDdlZDBZMDUyVHRxaWFZN2Fta2s1eGE1QURqeXNUQWFsX3duUXhrNUd1RE5IalZ4bWp4QUc0SzRac1RJNlVFZWpBTHZRMnB0clFYTHVmc3B5ZGNiaGJoMWh6eE1VWl9vN3pkclNsNTRVM1l0UWZqME1PdFJKZw?oc=5
 
 - As GDP Grows, PM Says "Don't Travel Abroad Or Buy Gold, No Foreign Weddings" - NDTV
   As GDP Grows, PM Says "Don't Travel Ab
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm9kR3hKUndqQ0ppYVdsZGfSAcIBQVVfeXFMTU5tSGN0Y1FORktDQUFJVXkzX2ctVzZkYVZNSE8yTzdxUnFiQkdQbWp6T25Eb2RyMXQ3TUZVWWhkVmZ0akc4T3hrWVlKaXJlaHhwaEZBbWdJSDJiUS1oc0wwb3E1eklxWERMTkI2eWItVlFhSGJoM3BOVjFNUWFBVnNEVnZuMGY3ZXBqaUI5RHQyWlNzU3Z1T2pxSnBDRURMQTBuMjR0MUhFbVBFcUJKX2x3NzlCTjZ3eHB3YzlGLU8zMVE?oc=5
 
-- India's GDP grows 7.8% in Q1: Factors powering the economy despite global turmoil - The Times of India
-  India's GDP grows 7.8% in Q1: Factors powering
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeng5MG9YTU5qNDk0VlBVa1dMcGdTajFZR1ZDRDZGYTN0aHRKMHJKTlJxUHhZV0hyU25DaGNwNjU2MFRXNEI0SDhOemV5NE5XR2MxdkFVUG5XRngzQXdLSS1kOW9RVTJfODlleTRmMG0tbDRUYVBhSWZCOG0xNnpEX0g4R2YzdERFZmQwZFNFTFAzbTliQkYzaXp6Uk0xdkU0Mzk1MDJnMWZjSUlJRk81dk43QnRJSmptSk9hS0lRcWdYMnQ2VTJXc0pQYkdUVFlVdWpNRUlHT0pva1RmZGJTVXppb3hjRmx3UlpTbEVkQlJKVTlkVWMw0gH8AUFVX3lxTFA3QXZYRG1QMUs1VTlJT3hiS2JORGVPZWYwbkgyZWtXRmFxTnZXSmpzZ1hMeWVxd250aGExZUlvM0tHQkNZMVZGeVV1YXFwZ1phbGxXZHBNbFlud3BMSGRPaVZuZWFmNVNWcFlUa2NFa0QySWRZSG8wLTljVTNLUXo1eHZpSG9PS2RaM2Jadlp3ZjIwY3gtWGdGX1o1TGJUbDNWenhCck92OEd6Yk5uOGJfdVd1U0c2ZDBlTGpUU2lFQjBzV2M3aFFsTWRTU3VTRm42eFc3NThrTjhYUnE1NkNKeVNFM0VQeVBMdVFrNGZpTW1YR3pJcHhCSDhIZQ?oc=5
+- PM Modi Leaves For Home After SCO Summit In Kyrgyzstan - NDTV
+  PM Modi leaves for home after SCO
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaklVU1VKSFdZVEdScUplbVczRFpvMVU0bUI3T0hRcHJRbmxfUmNKUzYwRFJjaHktRWZ5S2RaUzIwN2NTRHdVYU04TWlCemhmS1ltSzJaamFOUWxXeC0xTE1NcVRmc0d4M2dLYlZyTzFnLTVIeUhid1RZVXJyWWZ2ZnFMbkRzTE51RDhTbWdvSHBxel96U2ZSUnVkcFpkRGdSRTdNcWZ5NNIBrwFBVV95cUxPMkhVYXpVV0s0SlFKQjdiQUpjaWx5UXF3bFZmXzBWLXBiSVp5UlBUZEJXU0I2M0FsME1SME9vM1lORHRmQk5Jd2UyZWpZNU9EMHlTUnJFS0QtbVlyVHVYN0ZsOWpRRmRiLWRaVDNrZUNJdnNLRE8yUm85TklJMUtCVmVvRVo0U0NBMk5GeEJ0dlV3ekZocDFmLWJBcGE0bEFCZ3gzbGM1dWtKdENfdGY0?oc=5
 
-- India’s Growth Beat Suggests Economy on Cusp of Investment Boom - bloomberg.com
-  India’s Growth Beat Suggests
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGJLYVRFN2w1M3ZPVTA2Q1NoSkROZWQ3WV9nbGpQdjNwczhUeF91Y0tZMGp1eHpPTlUyZF9mWlBXWlJZbEZKOXpkNGlLd0RhaFdGOEZSN1Q1UlVuY3hMSEN3eEU4MFBnS1cwNXZGbzdWM3NoRnhCaEVfbGdXbkJQOEhlS0ItVXNnR2ZsOTNxNERMQzk4clFBaWFlWHZHbFI0a1FMRDduMlZGcGVIbzJOR1U2QXE?oc=5
+- Breaking news live updates, September 2: Japanese credit rating agency upgrades India's sovereign rating to A- from BBB+ - The Times of India
+  Japanese credit rating agency upgrades India's sovereign rating to A- from BBB+
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1R3Q0FZSm1YTEpFTXpmTWw4SDN6NmY5OEd0ZHIzVWRYLWxEdjRyVTNtd1lsRXdwOEtOakxFTG5FTmNYWWluam1NWWJjWUFmcUl5dEluc2dGc1I2aHJNUEllMFdCcDNpcDlmNHIyeGRNOTlVaDFqOHgtSmQzbEdHTWIzSkIxS19zNDJNTmhRamVzLU56SldCN0ZFb3NaaGdHMzZHV1Vn0gGrAUFVX3lxTE1nejJIa1B1YTdhNWEza05PaVRLdkhoaDZYcEpKQ0dQSnBuRklGX2FmX2MtdExiWTRVcTNJeF92SFlMOFVjMmlzaUNSTE5URGJGTlAxbS1RUUFUVEI2N1ZwellfMWlIS0ZDa2tiYTk5Yll2UnlRRTFwT29QdWNCZDZUOVNqVmpjckIwVFNTRFVFM1FCdk9qMVlUNUdhOEtneDFCWnpaZ3NvQ0JfWQ?oc=5
 
-- Odisha: Why Dara Singh, murderer of Christian missionary Graham Staines and his sons, may walk free in India - BBC
-  Dara Singh is accused of murdering Graham Staines and his sons in India.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ektOa1JLenlGbU5KNExDVlduWGF1RTR3LXd3bU1HdTZZVlRsLS1ZbkdZZkU2WFRadEFzSzhJZUdLUEFjWGN0cnc5T1ozMGZSbTdDMFJ6OWpXdw?oc=5
+- Watch: ‘Unsafe’ Rajasthan govt school building demolished after CJP campaign - The Times of India
+  Rajasthan govt school building demolished after C
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPanZGVms0VS0zUFRoM0h2SzI5TGhFSXB5cnNsTXVHN1Zkbnk4OVJDUURWR09JOTZTZUZuUE55VklMR0lOVWFoMzBrVS1iNmVBRjgyc0ZwaXo2aUJKazd1MENjd21SYVItSC1fdm0tMmVDbktGMjNsT1NZYzdwZmUtN0tWWUdLTTlPT0pDOUFfRVdGc3JNQWU5a0VIUVJ6S1Z1S0Y2cTZXRnpKRWVHR080X1gxcXBUR2J6QjZmU3ZKdW9GcFNacDZDUHlza3NUQ3VPU2lVVUJuVzTSAd4BQVVfeXFMTmNPWmNQWVBDX0dWeVNNYWdVRG9LaVo0ZWMyNV9rQlR0eU92RUJHalRVT0hoSjJSbVQ3ck80MEdwRzQ0dkpDQWJpMjk3M0ZHNWt2LW1UemR1RDA3a1BLNjk2cW9CeUdtLUxrVWN6VVJ4VWgxaWZhWlZlUGlULUg5SnZCTU83MF9nYzBURE5yeEhtbDg0Vk1qRnM5akVUU0VDQ3JxT2FCTy1rLWZtUXNRN3B6OVhpR2hyRG9wVGZtNzdJVC1aUnhHdGNhUjMwcjRYV2ZnM2dnb2Vkb0I3c3Fn?oc=5
 
-- Oracle layoffs: The '6 am email' didn't come on September 1, and employees across US and India are now 'w - The Times of India
-  The Times of India reports that Oracle has laid off thousands of workers. The company says the layoffs are
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWWVhXzM1akNDVV9wUEZkbWpjUV9LdGY0RmlPU3dMVjM1clBpSXUwTldRbUhiNTltSVl5ZU8zdmFoTHVLcGhhWFRCTzlJUGdLRjVYeVZISEw1TWIyeWw0dlpqbFQ2SW55Nm1sZHVkNVVoR3UxSklkVjQwMHpCWTg3endWT2htQmFES1kzR2xibzRVcG9JVzZmWFdwcW1hQTZ5RXgzc3cyOHJvZDZZWHN5VndHZkpHVzVkczlWZFp1YWdYODhjLThWSW5OY3dBMVhSc2FWM2x5clBhYjNwYWI1N2Z4ZGQtNW5NMF9INmdnZU0tQ3U4OVJRcFh4LWp4TXhqVWRpV1FzbV96SVEyVUY1WHZJSHdKbmZHMWlQanR5UHVodXpOcEdwUVJR0gGvAkFVX3lxTE9aRUNHblZFaHU3YWxxdW43dlhmcHNtQnFuWGZvNURSSzZEcVRaWlhMY2tsN2EwWGRoNGVPTXFLV1NneHpUaUR3Y1hoZHhFcjdwaTM3ZHl2VUl5QVl3Y1lfeTUtYUIwT0Z0aktHZnlwNi1lZVJJd01MMWFsZl9yMEJ6YXh5N2s1LXQyVi1MRXhyUTRGQ28yeVlJSWFfNzl5M2ZDR0dHZ2NmR2xqS0NoczltZmZmRGhUU3psMWxZQWwzSzVzTUxxMk5ZUVR3RHBCUEp3TDV0eGprVmlkRE9fQVZDeVltNWFrVjJ0R3RRQk54WWxMQmhSWGRMcWJlSWl5Q2FVSkVSbXMzcHlhSk5LMFVDQUlQY2h1SGtxaTIwYU11RjVFMWtLTmEteU1hMnpmSQ?oc=5
+- Quick Commerce Supply Chain Startup DocPharma Nets $2 Mn For Expansion
+  DocPharma has raised $2 Mn in a Pre-Series A funding round led by Equentis.
+  🔗 https://inc42.com/buzz/quick-commerce-supply-chain-startup-docpharma-nets-2-mn-for-expansion/
 
-- JioHotstar Rolls Out Services In The UK, Canada and Singapore
-   streaming giant JioHotstar today said that it is launching its services in the UK, Canada and Singapore.
-  🔗 https://inc42.com/buzz/jiohotstar-rolls-out-services-in-the-uk-canada-and-singapore/
+- Aeron Systems Raises ₹45 Cr To Scale Navigation, Weather-Monitoring Systems
+  Pune-based deeptech company Aeron Systems has raised ₹45 Cr (about $4.7 Mn)
+  🔗 https://inc42.com/buzz/aeron-systems-raises-%e2%82%b945-cr-to-scale-navigation-weather-monitoring-systems/
 
-- Oracle To Lay Off Another 3,000 Employees In India: Report
-  Big tech giant Oracle is preparing to lay off thousands of employees globally as part of a fresh round of cuts.
-  🔗 https://inc42.com/buzz/oracle-to-lay-off-another-3000-employees-in-india-report/
+- Pernia’s Pop-Up Shop Parent IPO Subscribed 37% On Final Bidding Day
+  Pernia’s Pop-Up Shop parent Purple Style Labs’ IPO entered its final day of bidding with overall investor demand remaining muted.
+  🔗 https://inc42.com/buzz/pernias-pop-up-shop-parent-ipo-subscribed-37-on-final-bidding-day/
 
-- Masters’ Union Secures University Status From Haryana Govt
-  The state government of Haryana has granted full university status to Gurugram-based Masters’ Union.
-  🔗 https://inc42.com/buzz/masters-union-secures-university-status-from-haryana-govt/
+- Byju Raveendran Offers Aakash Shares To Settle Qatar Holding’s $235 Mn Claim
+  BYJU’s founder Byju Raveendran has proposed relinquishing his claimed beneficial interest in 17.89 Mn shares of
+  🔗 https://inc42.com/buzz/byju-raveendran-offers-aakash-shares-to-settle-qatar-holdings-235-mn-claim/
 
-- InsuranceDekho + RenewBuy: Ankit Agrawal On Making Of A Pan-India Insurance Distribution Giant
-  Gurugram-based insurance distribution platforms InsuranceDekho and RenewBuy have completed their merger. The combined entity will operate under the
-  🔗 https://inc42.com/features/insurancedekho-renewbuy-ankit-agrawal-on-making-of-a-pan-india-insurance-distribution-giant/
+- Eutelsat OneWeb Seeks Urgent Security Nod To Launch Satcom Services In India: Report
+  Eutelsat OneWeb has sought the immediate grant of security approval for its low Earth orbit.
+  🔗 https://inc42.com/buzz/eutelsat-oneweb-seeks-urgent-security-nod-to-launch-satcom-services-in-india-report/
 
-- 30 Startups To Watch: Startups That Caught Our Eye In August 2026
-  August turned out to be yet another eventful month for the Indian startup ecosystem. The month marked multiple mega rounds.
-  🔗 https://inc42.com/startups/30-startups-to-watch-startups-that-caught-our-eye-in-august-2026/
-
-- As GDP Grows, PM Says "Don't Travel Abroad Or Buy Gold, No Foreign Weddings" - NDTV
-  As GDP Grows, PM Says "Don't Travel Ab
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm9kR3hKUndqQ0ppYVdsZGfSAcIBQVVfeXFMTU5tSGN0Y1FORktDQUFJVXkzX2ctVzZkYVZNSE8yTzdxUnFiQkdQbWp6T25Eb2RyMXQ3TUZVWWhkVmZ0akc4T3hrWVlKaXJlaHhwaEZBbWdJSDJiUS1oc0wwb3E1eklxWERMTkI2eWItVlFhSGJoM3BOVjFNUWFBVnNEVnZuMGY3ZXBqaUI5RHQyWlNzU3Z1T2pxSnBDRURMQTBuMjR0MUhFbVBFcUJKX2x3NzlCTjZ3eHB3YzlGLU8zMVE?oc=5
-
-- India's GDP grows 7.8% in Q1: Factors powering the economy despite global turmoil - The Times of India
-  India's GDP grows 7.8% in Q1: Factors powering
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeng5MG9YTU5qNDk0VlBVa1dMcGdTajFZR1ZDRDZGYTN0aHRKMHJKTlJxUHhZV0hyU25DaGNwNjU2MFRXNEI0SDhOemV5NE5XR2MxdkFVUG5XRngzQXdLSS1kOW9RVTJfODlleTRmMG0tbDRUYVBhSWZCOG0xNnpEX0g4R2YzdERFZmQwZFNFTFAzbTliQkYzaXp6Uk0xdkU0Mzk1MDJnMWZjSUlJRk81dk43QnRJSmptSk9hS0lRcWdYMnQ2VTJXc0pQYkdUVFlVdWpNRUlHT0pva1RmZGJTVXppb3hjRmx3UlpTbEVkQlJKVTlkVWMw0gH8AUFVX3lxTFA3QXZYRG1QMUs1VTlJT3hiS2JORGVPZWYwbkgyZWtXRmFxTnZXSmpzZ1hMeWVxd250aGExZUlvM0tHQkNZMVZGeVV1YXFwZ1phbGxXZHBNbFlud3BMSGRPaVZuZWFmNVNWcFlUa2NFa0QySWRZSG8wLTljVTNLUXo1eHZpSG9PS2RaM2Jadlp3ZjIwY3gtWGdGX1o1TGJUbDNWenhCck92OEd6Yk5uOGJfdVd1U0c2ZDBlTGpUU2lFQjBzV2M3aFFsTWRTU3VTRm42eFc3NThrTjhYUnE1NkNKeVNFM0VQeVBMdVFrNGZpTW1YR3pJcHhCSDhIZQ?oc=5
-
-- India’s Growth Beat Suggests Economy on Cusp of Investment Boom - bloomberg.com
-  India’s Growth Beat Suggests
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGJLYVRFN2w1M3ZPVTA2Q1NoSkROZWQ3WV9nbGpQdjNwczhUeF91Y0tZMGp1eHpPTlUyZF9mWlBXWlJZbEZKOXpkNGlLd0RhaFdGOEZSN1Q1UlVuY3hMSEN3eEU4MFBnS1cwNXZGbzdWM3NoRnhCaEVfbGdXbkJQOEhlS0ItVXNnR2ZsOTNxNERMQzk4clFBaWFlWHZHbFI0a1FMRDduMlZGcGVIbzJOR1U2QXE?oc=5
-
-- Odisha: Why Dara Singh, murderer of Christian missionary Graham Staines and his sons, may walk free in India - BBC
-  Dara Singh is accused of murdering Graham Staines and his sons in India.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ektOa1JLenlGbU5KNExDVlduWGF1RTR3LXd3bU1HdTZZVlRsLS1ZbkdZZkU2WFRadEFzSzhJZUdLUEFjWGN0cnc5T1ozMGZSbTdDMFJ6OWpXdw?oc=5
-
-- Oracle layoffs: The '6 am email' didn't come on September 1, and employees across US and India are now 'w - The Times of India
-  The Times of India reports that Oracle has laid off thousands of workers. The company says the layoffs are
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWWVhXzM1akNDVV9wUEZkbWpjUV9LdGY0RmlPU3dMVjM1clBpSXUwTldRbUhiNTltSVl5ZU8zdmFoTHVLcGhhWFRCTzlJUGdLRjVYeVZISEw1TWIyeWw0dlpqbFQ2SW55Nm1sZHVkNVVoR3UxSklkVjQwMHpCWTg3endWT2htQmFES1kzR2xibzRVcG9JVzZmWFdwcW1hQTZ5RXgzc3cyOHJvZDZZWHN5VndHZkpHVzVkczlWZFp1YWdYODhjLThWSW5OY3dBMVhSc2FWM2x5clBhYjNwYWI1N2Z4ZGQtNW5NMF9INmdnZU0tQ3U4OVJRcFh4LWp4TXhqVWRpV1FzbV96SVEyVUY1WHZJSHdKbmZHMWlQanR5UHVodXpOcEdwUVJR0gGvAkFVX3lxTE9aRUNHblZFaHU3YWxxdW43dlhmcHNtQnFuWGZvNURSSzZEcVRaWlhMY2tsN2EwWGRoNGVPTXFLV1NneHpUaUR3Y1hoZHhFcjdwaTM3ZHl2VUl5QVl3Y1lfeTUtYUIwT0Z0aktHZnlwNi1lZVJJd01MMWFsZl9yMEJ6YXh5N2s1LXQyVi1MRXhyUTRGQ28yeVlJSWFfNzl5M2ZDR0dHZ2NmR2xqS0NoczltZmZmRGhUU3psMWxZQWwzSzVzTUxxMk5ZUVR3RHBCUEp3TDV0eGprVmlkRE9fQVZDeVltNWFrVjJ0R3RRQk54WWxMQmhSWGRMcWJlSWl5Q2FVSkVSbXMzcHlhSk5LMFVDQUlQY2h1SGtxaTIwYU11RjVFMWtLTmEteU1hMnpmSQ?oc=5
+- 'Can remove Pak from world picture': Pakistan PMO crops Modi out of SCO pic, gets warned | India News - Hindustan Times
+  'Can remove Pak from world picture': Pakistan PMO crops Modi out of SCO pic
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWWtWVUpnZ0VuSmdNUHoyXzZGelBub2JJZUhSNmRWWnViUjU0VHdfdHhnZnVWdTNqcm9kWUlBRnF4THprTmU4VjJsMjV2dU1abHlZNV9JbWhkZ0VGQ3VBdUtrLV85MGpGNDEtazI3a0dzWlNEWnRsNE1idFFDZEZncDZrcTBlUnJQOFJqemlQSTF3blBrb0V4SXYtV25tVVRWS2huVElUbVNzMjNJYzNwR1NtNS1Oa3pLZERwWnI1dHh1T253ckc1SzU5dVBTVEJLX3EyeE9qQjJxdVVMUVdpSdIB5gFBVV95cUxQZ0I2Mm5PenhuWWtTOXMwOGc4RzRXUWMzV19VOC1oZ3gxMVNCaVV6MmxTTHk0aV84SmhVZjNUR2EwQkRicXl3VmV6MDFDaGl5dG5OVGtvS0w1Y2lvTWdNc3ZlYXZiZGE2SVRscC1OOGR5ZDdlZDBZMDUyVHRxaWFZN2Fta2s1eGE1QURqeXNUQWFsX3duUXhrNUd1RE5IalZ4bWp4QUc0SzRac1RJNlVFZWpBTHZRMnB0clFYTHVmc3B5ZGNiaGJoMWh6eE1VWl9vN3pkclNsNTRVM1l0UWZqME1PdFJKZw?oc=5
 
 - As GDP Grows, PM Says "Don't Travel Abroad Or Buy Gold, No Foreign Weddings" - NDTV
   As GDP Grows, PM Says "Don't Travel Ab
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm9kR3hKUndqQ0ppYVdsZGfSAcIBQVVfeXFMTU5tSGN0Y1FORktDQUFJVXkzX2ctVzZkYVZNSE8yTzdxUnFiQkdQbWp6T25Eb2RyMXQ3TUZVWWhkVmZ0akc4T3hrWVlKaXJlaHhwaEZBbWdJSDJiUS1oc0wwb3E1eklxWERMTkI2eWItVlFhSGJoM3BOVjFNUWFBVnNEVnZuMGY3ZXBqaUI5RHQyWlNzU3Z1T2pxSnBDRURMQTBuMjR0MUhFbVBFcUJKX2x3NzlCTjZ3eHB3YzlGLU8zMVE?oc=5
 
-- India's GDP grows 7.8% in Q1: Factors powering the economy despite global turmoil - The Times of India
-  India's GDP grows 7.8% in Q1: Factors powering
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeng5MG9YTU5qNDk0VlBVa1dMcGdTajFZR1ZDRDZGYTN0aHRKMHJKTlJxUHhZV0hyU25DaGNwNjU2MFRXNEI0SDhOemV5NE5XR2MxdkFVUG5XRngzQXdLSS1kOW9RVTJfODlleTRmMG0tbDRUYVBhSWZCOG0xNnpEX0g4R2YzdERFZmQwZFNFTFAzbTliQkYzaXp6Uk0xdkU0Mzk1MDJnMWZjSUlJRk81dk43QnRJSmptSk9hS0lRcWdYMnQ2VTJXc0pQYkdUVFlVdWpNRUlHT0pva1RmZGJTVXppb3hjRmx3UlpTbEVkQlJKVTlkVWMw0gH8AUFVX3lxTFA3QXZYRG1QMUs1VTlJT3hiS2JORGVPZWYwbkgyZWtXRmFxTnZXSmpzZ1hMeWVxd250aGExZUlvM0tHQkNZMVZGeVV1YXFwZ1phbGxXZHBNbFlud3BMSGRPaVZuZWFmNVNWcFlUa2NFa0QySWRZSG8wLTljVTNLUXo1eHZpSG9PS2RaM2Jadlp3ZjIwY3gtWGdGX1o1TGJUbDNWenhCck92OEd6Yk5uOGJfdVd1U0c2ZDBlTGpUU2lFQjBzV2M3aFFsTWRTU3VTRm42eFc3NThrTjhYUnE1NkNKeVNFM0VQeVBMdVFrNGZpTW1YR3pJcHhCSDhIZQ?oc=5
+- PM Modi Leaves For Home After SCO Summit In Kyrgyzstan - NDTV
+  PM Modi leaves for home after SCO
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaklVU1VKSFdZVEdScUplbVczRFpvMVU0bUI3T0hRcHJRbmxfUmNKUzYwRFJjaHktRWZ5S2RaUzIwN2NTRHdVYU04TWlCemhmS1ltSzJaamFOUWxXeC0xTE1NcVRmc0d4M2dLYlZyTzFnLTVIeUhid1RZVXJyWWZ2ZnFMbkRzTE51RDhTbWdvSHBxel96U2ZSUnVkcFpkRGdSRTdNcWZ5NNIBrwFBVV95cUxPMkhVYXpVV0s0SlFKQjdiQUpjaWx5UXF3bFZmXzBWLXBiSVp5UlBUZEJXU0I2M0FsME1SME9vM1lORHRmQk5Jd2UyZWpZNU9EMHlTUnJFS0QtbVlyVHVYN0ZsOWpRRmRiLWRaVDNrZUNJdnNLRE8yUm85TklJMUtCVmVvRVo0U0NBMk5GeEJ0dlV3ekZocDFmLWJBcGE0bEFCZ3gzbGM1dWtKdENfdGY0?oc=5
 
-- India’s Growth Beat Suggests Economy on Cusp of Investment Boom - bloomberg.com
-  India’s Growth Beat Suggests
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGJLYVRFN2w1M3ZPVTA2Q1NoSkROZWQ3WV9nbGpQdjNwczhUeF91Y0tZMGp1eHpPTlUyZF9mWlBXWlJZbEZKOXpkNGlLd0RhaFdGOEZSN1Q1UlVuY3hMSEN3eEU4MFBnS1cwNXZGbzdWM3NoRnhCaEVfbGdXbkJQOEhlS0ItVXNnR2ZsOTNxNERMQzk4clFBaWFlWHZHbFI0a1FMRDduMlZGcGVIbzJOR1U2QXE?oc=5
+- Breaking news live updates, September 2: Japanese credit rating agency upgrades India's sovereign rating to A- from BBB+ - The Times of India
+  Japanese credit rating agency upgrades India's sovereign rating to A- from BBB+
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1R3Q0FZSm1YTEpFTXpmTWw4SDN6NmY5OEd0ZHIzVWRYLWxEdjRyVTNtd1lsRXdwOEtOakxFTG5FTmNYWWluam1NWWJjWUFmcUl5dEluc2dGc1I2aHJNUEllMFdCcDNpcDlmNHIyeGRNOTlVaDFqOHgtSmQzbEdHTWIzSkIxS19zNDJNTmhRamVzLU56SldCN0ZFb3NaaGdHMzZHV1Vn0gGrAUFVX3lxTE1nejJIa1B1YTdhNWEza05PaVRLdkhoaDZYcEpKQ0dQSnBuRklGX2FmX2MtdExiWTRVcTNJeF92SFlMOFVjMmlzaUNSTE5URGJGTlAxbS1RUUFUVEI2N1ZwellfMWlIS0ZDa2tiYTk5Yll2UnlRRTFwT29QdWNCZDZUOVNqVmpjckIwVFNTRFVFM1FCdk9qMVlUNUdhOEtneDFCWnpaZ3NvQ0JfWQ?oc=5
 
-- Odisha: Why Dara Singh, murderer of Christian missionary Graham Staines and his sons, may walk free in India - BBC
-  Dara Singh is accused of murdering Graham Staines and his sons in India.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ektOa1JLenlGbU5KNExDVlduWGF1RTR3LXd3bU1HdTZZVlRsLS1ZbkdZZkU2WFRadEFzSzhJZUdLUEFjWGN0cnc5T1ozMGZSbTdDMFJ6OWpXdw?oc=5
+- Watch: ‘Unsafe’ Rajasthan govt school building demolished after CJP campaign - The Times of India
+  Rajasthan govt school building demolished after C
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPanZGVms0VS0zUFRoM0h2SzI5TGhFSXB5cnNsTXVHN1Zkbnk4OVJDUURWR09JOTZTZUZuUE55VklMR0lOVWFoMzBrVS1iNmVBRjgyc0ZwaXo2aUJKazd1MENjd21SYVItSC1fdm0tMmVDbktGMjNsT1NZYzdwZmUtN0tWWUdLTTlPT0pDOUFfRVdGc3JNQWU5a0VIUVJ6S1Z1S0Y2cTZXRnpKRWVHR080X1gxcXBUR2J6QjZmU3ZKdW9GcFNacDZDUHlza3NUQ3VPU2lVVUJuVzTSAd4BQVVfeXFMTmNPWmNQWVBDX0dWeVNNYWdVRG9LaVo0ZWMyNV9rQlR0eU92RUJHalRVT0hoSjJSbVQ3ck80MEdwRzQ0dkpDQWJpMjk3M0ZHNWt2LW1UemR1RDA3a1BLNjk2cW9CeUdtLUxrVWN6VVJ4VWgxaWZhWlZlUGlULUg5SnZCTU83MF9nYzBURE5yeEhtbDg0Vk1qRnM5akVUU0VDQ3JxT2FCTy1rLWZtUXNRN3B6OVhpR2hyRG9wVGZtNzdJVC1aUnhHdGNhUjMwcjRYV2ZnM2dnb2Vkb0I3c3Fn?oc=5
 
-- Oracle layoffs: The '6 am email' didn't come on September 1, and employees across US and India are now 'w - The Times of India
-  The Times of India reports that Oracle has laid off thousands of workers. The company says the layoffs are
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWWVhXzM1akNDVV9wUEZkbWpjUV9LdGY0RmlPU3dMVjM1clBpSXUwTldRbUhiNTltSVl5ZU8zdmFoTHVLcGhhWFRCTzlJUGdLRjVYeVZISEw1TWIyeWw0dlpqbFQ2SW55Nm1sZHVkNVVoR3UxSklkVjQwMHpCWTg3endWT2htQmFES1kzR2xibzRVcG9JVzZmWFdwcW1hQTZ5RXgzc3cyOHJvZDZZWHN5VndHZkpHVzVkczlWZFp1YWdYODhjLThWSW5OY3dBMVhSc2FWM2x5clBhYjNwYWI1N2Z4ZGQtNW5NMF9INmdnZU0tQ3U4OVJRcFh4LWp4TXhqVWRpV1FzbV96SVEyVUY1WHZJSHdKbmZHMWlQanR5UHVodXpOcEdwUVJR0gGvAkFVX3lxTE9aRUNHblZFaHU3YWxxdW43dlhmcHNtQnFuWGZvNURSSzZEcVRaWlhMY2tsN2EwWGRoNGVPTXFLV1NneHpUaUR3Y1hoZHhFcjdwaTM3ZHl2VUl5QVl3Y1lfeTUtYUIwT0Z0aktHZnlwNi1lZVJJd01MMWFsZl9yMEJ6YXh5N2s1LXQyVi1MRXhyUTRGQ28yeVlJSWFfNzl5M2ZDR0dHZ2NmR2xqS0NoczltZmZmRGhUU3psMWxZQWwzSzVzTUxxMk5ZUVR3RHBCUEp3TDV0eGprVmlkRE9fQVZDeVltNWFrVjJ0R3RRQk54WWxMQmhSWGRMcWJlSWl5Q2FVSkVSbXMzcHlhSk5LMFVDQUlQY2h1SGtxaTIwYU11RjVFMWtLTmEteU1hMnpmSQ?oc=5
+- 'Can remove Pak from world picture': Pakistan PMO crops Modi out of SCO pic, gets warned | India News - Hindustan Times
+  'Can remove Pak from world picture': Pakistan PMO crops Modi out of SCO pic
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWWtWVUpnZ0VuSmdNUHoyXzZGelBub2JJZUhSNmRWWnViUjU0VHdfdHhnZnVWdTNqcm9kWUlBRnF4THprTmU4VjJsMjV2dU1abHlZNV9JbWhkZ0VGQ3VBdUtrLV85MGpGNDEtazI3a0dzWlNEWnRsNE1idFFDZEZncDZrcTBlUnJQOFJqemlQSTF3blBrb0V4SXYtV25tVVRWS2huVElUbVNzMjNJYzNwR1NtNS1Oa3pLZERwWnI1dHh1T253ckc1SzU5dVBTVEJLX3EyeE9qQjJxdVVMUVdpSdIB5gFBVV95cUxQZ0I2Mm5PenhuWWtTOXMwOGc4RzRXUWMzV19VOC1oZ3gxMVNCaVV6MmxTTHk0aV84SmhVZjNUR2EwQkRicXl3VmV6MDFDaGl5dG5OVGtvS0w1Y2lvTWdNc3ZlYXZiZGE2SVRscC1OOGR5ZDdlZDBZMDUyVHRxaWFZN2Fta2s1eGE1QURqeXNUQWFsX3duUXhrNUd1RE5IalZ4bWp4QUc0SzRac1RJNlVFZWpBTHZRMnB0clFYTHVmc3B5ZGNiaGJoMWh6eE1VWl9vN3pkclNsNTRVM1l0UWZqME1PdFJKZw?oc=5
+
+- As GDP Grows, PM Says "Don't Travel Abroad Or Buy Gold, No Foreign Weddings" - NDTV
+  As GDP Grows, PM Says "Don't Travel Ab
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhKZHNyakJ1dUwtZTZqTWVMNFpiU05RTndNLXFWWDl2UEY1YlRwMDJsRHJvQ1M3STN6M0h1ajh0M2ZvTzc0VWM5ZlpGV3M0N1lJZ1JWQmR1ekxRd0dyeTdxU0piNmV5alVSMWd2R0NpLWRNR2JhWGdEZE0tenVvS09Ddmt0THJfdk1zWXlrUk1RUHZfRjdqaXA4SVNJWFdNOXZoNHdnSmFhbm9kR3hKUndqQ0ppYVdsZGfSAcIBQVVfeXFMTU5tSGN0Y1FORktDQUFJVXkzX2ctVzZkYVZNSE8yTzdxUnFiQkdQbWp6T25Eb2RyMXQ3TUZVWWhkVmZ0akc4T3hrWVlKaXJlaHhwaEZBbWdJSDJiUS1oc0wwb3E1eklxWERMTkI2eWItVlFhSGJoM3BOVjFNUWFBVnNEVnZuMGY3ZXBqaUI5RHQyWlNzU3Z1T2pxSnBDRURMQTBuMjR0MUhFbVBFcUJKX2x3NzlCTjZ3eHB3YzlGLU8zMVE?oc=5
+
+- PM Modi Leaves For Home After SCO Summit In Kyrgyzstan - NDTV
+  PM Modi leaves for home after SCO
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaklVU1VKSFdZVEdScUplbVczRFpvMVU0bUI3T0hRcHJRbmxfUmNKUzYwRFJjaHktRWZ5S2RaUzIwN2NTRHdVYU04TWlCemhmS1ltSzJaamFOUWxXeC0xTE1NcVRmc0d4M2dLYlZyTzFnLTVIeUhid1RZVXJyWWZ2ZnFMbkRzTE51RDhTbWdvSHBxel96U2ZSUnVkcFpkRGdSRTdNcWZ5NNIBrwFBVV95cUxPMkhVYXpVV0s0SlFKQjdiQUpjaWx5UXF3bFZmXzBWLXBiSVp5UlBUZEJXU0I2M0FsME1SME9vM1lORHRmQk5Jd2UyZWpZNU9EMHlTUnJFS0QtbVlyVHVYN0ZsOWpRRmRiLWRaVDNrZUNJdnNLRE8yUm85TklJMUtCVmVvRVo0U0NBMk5GeEJ0dlV3ekZocDFmLWJBcGE0bEFCZ3gzbGM1dWtKdENfdGY0?oc=5
+
+- Breaking news live updates, September 2: Japanese credit rating agency upgrades India's sovereign rating to A- from BBB+ - The Times of India
+  Japanese credit rating agency upgrades India's sovereign rating to A- from BBB+
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1R3Q0FZSm1YTEpFTXpmTWw4SDN6NmY5OEd0ZHIzVWRYLWxEdjRyVTNtd1lsRXdwOEtOakxFTG5FTmNYWWluam1NWWJjWUFmcUl5dEluc2dGc1I2aHJNUEllMFdCcDNpcDlmNHIyeGRNOTlVaDFqOHgtSmQzbEdHTWIzSkIxS19zNDJNTmhRamVzLU56SldCN0ZFb3NaaGdHMzZHV1Vn0gGrAUFVX3lxTE1nejJIa1B1YTdhNWEza05PaVRLdkhoaDZYcEpKQ0dQSnBuRklGX2FmX2MtdExiWTRVcTNJeF92SFlMOFVjMmlzaUNSTE5URGJGTlAxbS1RUUFUVEI2N1ZwellfMWlIS0ZDa2tiYTk5Yll2UnlRRTFwT29QdWNCZDZUOVNqVmpjckIwVFNTRFVFM1FCdk9qMVlUNUdhOEtneDFCWnpaZ3NvQ0JfWQ?oc=5
+
+- Watch: ‘Unsafe’ Rajasthan govt school building demolished after CJP campaign - The Times of India
+  Rajasthan govt school building demolished after C
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPanZGVms0VS0zUFRoM0h2SzI5TGhFSXB5cnNsTXVHN1Zkbnk4OVJDUURWR09JOTZTZUZuUE55VklMR0lOVWFoMzBrVS1iNmVBRjgyc0ZwaXo2aUJKazd1MENjd21SYVItSC1fdm0tMmVDbktGMjNsT1NZYzdwZmUtN0tWWUdLTTlPT0pDOUFfRVdGc3JNQWU5a0VIUVJ6S1Z1S0Y2cTZXRnpKRWVHR080X1gxcXBUR2J6QjZmU3ZKdW9GcFNacDZDUHlza3NUQ3VPU2lVVUJuVzTSAd4BQVVfeXFMTmNPWmNQWVBDX0dWeVNNYWdVRG9LaVo0ZWMyNV9rQlR0eU92RUJHalRVT0hoSjJSbVQ3ck80MEdwRzQ0dkpDQWJpMjk3M0ZHNWt2LW1UemR1RDA3a1BLNjk2cW9CeUdtLUxrVWN6VVJ4VWgxaWZhWlZlUGlULUg5SnZCTU83MF9nYzBURE5yeEhtbDg0Vk1qRnM5akVUU0VDQ3JxT2FCTy1rLWZtUXNRN3B6OVhpR2hyRG9wVGZtNzdJVC1aUnhHdGNhUjMwcjRYV2ZnM2dnb2Vkb0I3c3Fn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -200,13 +220,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Andhra University plans Centres of Excellence in quantum technology, AI and semiconductors - The Hindu
+  Andhra University plans Centres of Excellence in quantum technology
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVnRiOEpvNnVSbDFrS3RnbUlxcl9FdEZVR3lLamlFVElZamhRT0dKV2xPNEt2VGNWeEE0TjRfVkRreC0zaG0wWEEzaXNXZGNzUlU5eUJjN29wZkg3LXNfWERQZU9uYVNTOGU4RGJKVkhhM0xtN3RyQUcyd3JUdFRQZHQzcjlMaS1aU2h5ZkJBWmI3Tm9ZZjZoY3pGZTZWUk9KbFhMWkx6aWxDd21GTWJMR0hXaWRlOVItRXFDOWtXdnVYWC1DUEFuVndNdW5RWEZKLWlEZlhXSmY2OTVEMEx5RkdLY1B6Z2ZyTXNRaURmXy11alBxc0HSAfwBQVVfeXFMTnkyRzNEOTROTnEwQXNyOFFRUjZCTGZFMUt2VTJTdVVhMGpzN0ZSNEhmdGxGMjNXZVhST1BvZ0QtUXJZaXIxRFJSNnhjVjR1eS1zTEZXRExJSk1RMUdzOU5CNExGZkpBUjl5ZkhINFdVSWducGdGdkdWa3UzRzhzaXlJeHBKN0RyT0tJYndxZy04NGw4SUp5VzZSdi12dUFXd3A1eVJULVBlTEJXNF9CbDdpSVUyTGVtblFtUWRFaVZyVmlaZk5rVjE0emFHY0FjUXVwX0FHaTNCRmVsWHZLTllvclM3eGRmalhReWNOdVpMUWxxdF9LenM3VzhN?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Metso to supply key minerals processing technologies for a copper project in Asia Pacific - Cision News
+  Metso to supply key minerals processing technologies for a copper project in
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQak9Kb2FwMjN0Z09pb25FSmFvYS15WFl4bjRfdS1sMnM2MjJSaW5vWkJ3ckJjcXh5SzZGVnFkNmRfWk1mNU40OGtvVjktbFVhbG5oblJLRkZQT1dKcC03SWtDV0dRWWFkM054ZG83YVhRWkN1TmpvNU1ETVF3cERvYXBlUFc3eDQtWHByWmM4NmhxWGEtQ3diM1Vnb1l2cDUwekhLLTdBdGdYdzREWXlUT1Ric0QzUHV5ZUFOVGJLUXR1UFVBbTZvRjlIb0dDSm91OS1xeHl3X0E4UQ?oc=5
+
+- Pune, German cities explore partnership in mobility, waste management, technology | Hindustan Times - Hindustan Times
+  Pune, German cities explore partnership in mobility, waste management
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWXZteExVOWpMU2hMOWVnV2dBMVRqMlpya3l0QUtKbWZzSzUtOGlyejA3WkwwTGljTlZnWmZfbVJVcDRqRlVZN2JNbTdWM2FvaVZNVTJ5elN2Y0JfY2lMUE5aS2l4NUZCTFZmUzkxN2stRWlwNUpHOHI5V3hrYi1XMkpfbHNRMl9WZElpQmxzcFVoM256S19FTGFKdXpaOE9zWDBJSXQwaUFsLV9mcHh6YXVsOGZUeU0xNUUtSmtFeEx3OWFVem8wQjFkUGFWZ3Q2RzlWOFpjbEhXUmhqbGhLU9IB5gFBVV95cUxQdU82LUJFUlB6LUpJZVMtelQyd0R3enNSbDZLNlNTaWZBemNVLUF6a3RjWlRIbEJQcnhELWRzQ2liTDBOTGc3S2lPS0tlUW1zYXNSakJLd1ltZ0I5cUszVFBVTGhzZXRFZlk1NUJkeW1jenluVmdWTUFIVGpncGNJWFFpNTliSEhRcnM3ZVVTaEstcUJzM3g5SFJCV3RqR3IybUpXRkZ6MTdTRXlFRWQxSU1IY083UFVBLVZlZC1Bb2VGZWF2cnJBMHFrZGVIaDFBMEllcDdkYWYwRHRrVG5LYWN6N2JQdw?oc=5
+
+- John Ternus succeeds Tim Cook as Apple CEO after 15 years - Al Jazeera
+  John Ternus succeeds Tim Cook as Apple CEO
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPaTF2SVk0VFhNXzZtUjlTNndnOHI2T3l0U1dhWDJIMnlWdHJVQXRMdjh4bmRRZEZxUVpRSmRmRHgyZkwzWGN3UEt6VVg5TjlMYmhlT1ppckxSMFVXbHFNelJuU2txajBKUE1HTGNpcjc1c1J5dWFWN2pBVnBFdnplQnVER0VXcS1XSlBsUFlQTEd0TERIenFOQmZWd1RERG5iM2fSAacBQVVfeXFMTjVMbnNXVXhOTlVUWUVDV3BETUtUVU9MU3c5TXp6V3Z5aVdZSFZYWnQ1eVJwNGc2a0dMUmRnTUdZV1hXMW1GLXJZcmhIS2hrRFpuVmhkRng5WnVNNF9SWHVPclhZdDgwVEJVUWJsMlpJLWpsZ3VOdEtfaWV1anNPUTJJY0d3dDRJMWsyQVJRZGRkbndsUzFpSVZndW5aTjZKeHhtSkM1VG8?oc=5
+
+- Dell Technologies Boosts Fiscal Year Outlook by $25 Billion as Server Revenue Surges - wsj.com
+  Dell Technologies Boosts Fiscal Year Outlook by $25
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQMjhMMTN2ZXlVcVNLOGE4MTlpWFlLd2JWaFRPNU1waFRuWUJfbnpibzIyM25wT2xhOWtad1M4WVVoQVRIRF9PU2R4SnFLTUtaSG1MeVZiYlpvRkdaTnBVd0NWaXg2VW5RT0NkSnZhWG9wMmpXOFM4RUZuYkRKVjFmRUFYT3pGMHJyaWoyNjhzMmhhWFhWa2FlX0lNaV93UW1VRzNnZWFvSW1DRjUzb2REREFpNHoxbG9WRi1zVXhTaHh6WTBFWEZpUzRB?oc=5
 
 
-_Last updated: 2026-09-02 02:32:16 UTC_
+_Last updated: 2026-09-02 10:29:08 UTC_
