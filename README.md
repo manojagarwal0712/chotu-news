@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- NYC schools ban AI for students through 8th grade under sweeping new policy - ABC7 New York
-  NYC schools ban AI for students through 8th grade under sweeping
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2fSAaIBQVVfeXFMT0NYeUtoa0pSdVd3eERBVlJjcXREU2RRdHI2VXFuY2Vqd1NUdDdONUdpWTN3a0RJZFU0SXRhN2czSmpsNFVsc3pzalh5ODVMTl9mZ0lLYzYzWkRGNTJEcTdNZDh6VU9wSV90cFU3QzZKNkZqRVpncVpoR19xUzZfR1RtYlhUbjRVMHlMUjlZSi1UQWhueEQ3QVBERmtJQXJzNl93?oc=5
-
-- The Singularity Is Not What It Seems - The Atlantic
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnR5ZTZHdlB3SFBDeFh6ZW56QWV4QUZMLWpvT0M3dHl6RDJhX0FiR3pjTFJza3FfeHhhUUZZV1FhZTVQb1AtWlJlOEJNc0p0cXZtMGdwMENtVXU2ZjJJTU02NlVsVzVQb0xEWklxQWtXZWVzYUNHQ0tPVlYwN3p6dmhTQ3REcmV4aklVanROQQ?oc=5
-
 - Cochin University of Science and Technology decides to introduce industry-flexible curriculum - The Hindu
   Cochin University of Science and Technology decides to
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLVNKVFZVcXF0UEdjc3I1WUxqZERONEZCYzBuRkRxTDYyZ0RlWElfY05FempIZXk1V1BoRUtBcFdNTEZzek1zSlMzSV9CdXpsZ0JGU1M4QjdGeUkzbnczVTl5RUN0VXYzZ0VjQmpuRldVZVRxSHdGdjQ5YUJfUzRRYXJxajhmSEhDUU5mVFJIVEkwMTZ4VWkwc2o2WE00U2I0ZXlVb1Z3UFR0SG1LX2VvYUZnS29wMUNzOGRJeDNxZGx4UXZMQUlYMWRtZ0VvS3luQVZ2LWxaS21FWUlkb0VlNXpRVUtBeHBxSWdtSThPejDSAfcBQVVfeXFMT2xjaEZuWV9HMXpnOUxheUxmSGhJZmpyX2w2WDBBUVJYSHpuV2tBQVhTMFJpN19rZGxYM0xJNl8zYkxpTTMtSkdZc1ZKRjlwRFBuZjVMNEdiaEM3V1R6TDc1dzNnS19Jb1NrSU9tcTZISzdHSHVfNUp0RWt5clhvS2ptTGk4NzhYZlZtc09IcVMyMnZILWNWMUFDNEx3TWsxZzBfWEFLUU56SEdDalFuVjR5UWgtN01BOF9fR0hLVnBDZmRPWlk0cGdsQ1VHQUJKRXZVWEMwemF3VUNyX3ZPREQ3eFJ5UG0zMkNLTmRvUGpYdlY3U0g3cw?oc=5
 
-- EDNXT Bhopal 2026: Madhya Pradesh puts education, skills & technology at the heart of growth - ET Education
-  The state government is planning to build a new school in Bhopal
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxQM0s1ZklhSllsZGw0UEU4MldsdjUwdU04OEtwYjF1d0pRNWNxSkNuVEJVdkl1bmVLRTAxU0xXZG40TGp5ZjNQamxmeVRrVzFsaGtxSjF0dFBHZG9lSnB1Y0dDaUN2NEttVy14NmdZdGYyWV84TDBrdHg1UXVEMzRUNDBwSVE0N09Od0FWajFlakFZM3dVSVYtR3lwQWx3alB5WWF3U2xxRFFmMDNrejlaY0sxSWVFTmZtWWRyQlpReGdORVZpRG13RXZVak9ESnFhR2NpWXRlS21vLUFRMGpZR0tjSHVSN19QOEpMRnNhd0VzaXlIRGlLNEZSc9IBgAJBVV95cUxObk9Tc1hZOVR3ZS1fUmZlRjJ4Nm9OWEtUM1NHekhHUXVTU1Z3MS15U2VTaloyZkRIdVQ0X1NGM09sZGJZM1lPbjh0Wk83RHlyeHJHWDV3UThTUmR4OXo1Y2RIblQ4bXEtZGx0YUg1bkVSLXJtNUo4VXZ0QTUzeE5rQ0h0eWVZTGhlZy10cGRuZ3dGZ3l1TGo2NlREVExTR2FDZE1lV3NDNDNlblY4QmE0QTJyUTJyMkxTb0RjbjRlSEdCcEJ5S2Z1MWR4WUUtYkhMZm9PWXBFSkJTZXVwTUtrUmI1OVBjVGlrbFFBT0hvTUM1SE00UlJwekJjMlRNeG96?oc=5
+- In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules - nytimes.com
+  Google won't have to break up its ad tech business, court
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE54SXBLXzJKcERSbmdjRXIwRmF6ZTgyUkl6VmpWbjFTSGNzZlFwRW5VRE9STVJSVnFsVG5zT2JCREZRMnZUXzU5MkZvOTJudDUtRUkyOUFaY2xiVnR6SU9Sa05jN3RBQ1lhLTl4ZzFjN1Y0d3Zfd19oLXQ2R1BvSzg?oc=5
 
-- Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology - Reuters
-  Novartis signs deal worth up to $3.
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUNLeXg3N3k2RHR6T1ozbUI0MFd3ekE1YS1sNmxuWjZxeDhSZ1lDb1NqWXBsbXRaMktEcWV6b3dKREtyMEVCcy12dlI3cGtoVk1xYUFVbjVsNXVyclRIVXdvMFBWZG1UN21JLUZkcVpEZjdvbjRlU3YzUS1hd2xqYzJSZVFSZF9LVVBtY01Demh0U094NzE4a0xtaUNONHlqcTVqZWlybGdYYWlEVzlpaHFJZV80NkY2N1NQR1E2a1FIaFRwT3c?oc=5
+- Capability gap among MSME suppliers could slow India’s automotive technology shift: Study - HT Auto
+  Capability gap among MSME suppliers could slow India�
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWkdVNUx6WFAtT1NMeGpOVW1yaENmdUE5YWg1d2NMM1NXb1VSdXlfOFFWc3hROC15c09tUFJoVm9WV3FEZ2NCUVpOWVl4V01YTXRTbXB6MUM3OE1kMER6VzJIMTBZVFk3MVgtM3F1VzRsWUNKbGZoTE5UVEZrTi1xeG8tMk43dWF3QU9NMFFwa3FlcjNGVVZOLVFMenhEZW93WFAzRmxHcXFuSzJxMWlHNkpOU2Nnc2p6NHVwUEl0eE9VY3hqbFZJczRwLWUybU9SWjh0QjV1aW1tcXNQdTNRbjhFLTjSAeoBQVVfeXFMTi1rTVFQODc2UlJnYTVmM2R1R2xnejBkZEhZVnBZRlZWR3VXRV9FMHBFaU13MURtYXh3QXNGakNJOW5udmwyODVTLUlNWHN4OGNEMzZJVTR0Tk93OEctdVlLdmFQbXYteWRnbTFMc2RIbm5hZUQ1X3Y4ZThUbGExTjVWQUtCTGV6NU9YY2wwY3BkMGQtNDBPUXN2enhsYmgtSFVNc1FuYVpyMGxDTGRRYXk4UVJHY2F0VU5FOFRMdURBLVdzeE9OLUdWY0xPZmNqck5MelFnU0JvU1JZX3FVeWJKMFdlVGJPYnZ3?oc=5
+
+- From Technology Leader to Acclaimed Sci-Fi Author: The Extraordinary Journey of Sudhir R. Nambiar - TheWire.in
+  Sudhir R. Nambiar is the author
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNVFZDUzFtNjg1U0xLYldvNEQySUM3cUo1dV9UczFSNHZRdXUtUFFKU3VyT3NsTXhvblQ2dEhRVmFiR0NHUi1ILXVEVGhpMlhRNkljZzE0S0VhdjVLRnRpMlFnajB4b1BSekt3UjNoSmJpWXpkeG1OQWpJaGgwWGtTMlBpU2s1ZnhISlZsMHdVaC1sMjBMQ1Y1bWlhQjRoeEpRQnk0dWVqaElySnVLR3RkUkJoYkFKSFJaYTF4Z0dNNEkwd0FsaE5QN3ZDS1U5WXfSAdQBQVVfeXFMTjhad3FJVW5CMWgxSVFMNFRfRmpVN1c3NEtSVVpudWFDWUJoWWJWZjFXUDZwSHl1Nl82b1lMbmlRRVVyd1duSlBzMlZadWw0cTJRRy1KYm9vYjVpREFrQlRIZUgySFZnSTJvZ3RRMjNUVVBNSlZlOGpIR2VxeVM1VkdNLVRwR3gyTGMtQWxzbVVidmxCelhIbFIteXVWbExweks0bHlEcDQ3OXJQYlhsSl9zOTFkbGR6a3FZTzR4Q1hvM2Q4LWxtR2tFSXBBdkFrUjd3ejQ?oc=5
+
+- Wednesday briefing: ​What’s behind the global backlash against datacentres? - The Guardian
+  Wednesday briefing: ​What’s
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGdqUWNkN0E3VFhRUHpKS1JCWXcxWnBBV3dqZFBjMDNzenNDVktCdG0yV3h2Y0FEYmlPaEpBZ1dZVzF6OS13WkFJU0dFRW0tcXF3QlBZSWc2dUxwMG41SElYTmIxaHJ0TXJDRlNNNTRKREp3dlZYRmZ3b3p5R0dOQ0F2UW1uTV9ETXZYNUZIenVseVJoVG9qMXhnZExVZmUxM00weGFjMnJqQVZ4Y19WUU84Z0QxU0Qx?oc=5
+
+- AB InBev pours more into India, bets on states' policy push
+  The world’s top brewer is betting big on India, with Karnataka and Maharashtra showing how policy support can boost demand and investment. AB InBev, which has invested $1.5 bn since 2016
+  🔗 https://www.livemint.com/companies/news/ab-inbev-india-investment-plans-hoegaarden-corona-beer-made-in-india-11788342039095.html
 
 - Thoma Bravo explores $2 billion-plus sale of Foundation Software, sources say
   Thoma Bravo explores $2
@@ -36,29 +40,25 @@
   Alphabet Inc.’s Google doesn’t have to sell off its advertising exchange, a federal judge rules. The tech giant must make its ad tech tools work with those operated by rivals.
   🔗 https://www.livemint.com/companies/news/google-dodges-forced-adx-sale-as-us-judge-orders-changes-to-ad-tech-business-11788365935685.html
 
-- Hexaware names EXL's Vivek Jetley CEO as Srikrishna exits after 12 years
-  Ramakarthikeyan Srikrishna, 56, was among India's longest-serving CEOs. He oversaw Hexaware’s return to the stock exchanges in February last year.
-  🔗 https://www.livemint.com/companies/news/hexaware-technologies-appoints-vivek-jetley-as-ceo-designate-11788362883556.html
+- Buy or sell: Gift Nifty hints cautious start | Vaishali Parekh recommends three stocks to buy today — 3 September 2026
+   Vaishali Parekh recommends three stocks to buy today.
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-hints-cautious-start-vaishali-parekh-recommends-three-stocks-to-buy-today-3-september-2026-11788398999338.html
 
-- US yields ease from highs after data as crude prices eyed
-  TREASURIES-US yields ease
-  🔗 https://www.livemint.com/market/us-yields-ease-from-highs-after-data-as-crude-prices-eyed-11788375805189.html
+- Asian markets today: Nikkei 225, Kospi rise marginally amid US-Iran war uncertainty
+  South Korea’s Kospi advanced 0.86%, while the small-cap Kosdaq declined
+  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-225-kospi-rise-marginally-amid-us-iran-war-uncertainty-11788399271066.html
 
-- Gold rebounds over 1% as US dollar, yields pull back from highs
-  Gold rebounds over 1% as US
-  🔗 https://www.livemint.com/market/gold-rebounds-over-1-as-us-dollar-yields-pull-back-from-highs-11788374320488.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 3 September
+  Sensex and Nifty 50 are set to open higher on September 3, amid positive global cues. Support and resistance levels are critical for market recovery, say analysts.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-3-september-11788398628464.html
 
-- Wall St set to snap three-day losing streak as stocks reclaim some shine
-  Wall St set to snap three-day losing streak as
-  🔗 https://www.livemint.com/market/wall-st-set-to-snap-three-day-losing-streak-as-stocks-reclaim-some-shine-11788374259348.html
+- Oil Steadies After Rally as Trump Sees Short-Lived Iran Strikes
+  Oil steadies after a three-day rally as President Donald Trump said renewed attacks on Iran would be short-lived. US
+  🔗 https://www.livemint.com/market/oil-steadies-after-rally-as-trump-sees-short-lived-iran-strikes-11788399188419.html
 
-- Palo Alto Networks stock price news: Shares plunge 11% despite strong fiscal fourth quarter results
-  Palo Alto Networks shares dropped 11% to around $322 following
-  🔗 https://www.livemint.com/market/stock-market-news/palo-alto-networks-stock-price-news-shares-plunge-11-despite-strong-fiscal-fourth-quarter-results-11788370555808.html
-
-- Top stocks to watch tomorrow: Reason why these shares are in focus for Thursday's trading session | Full list
-  Indian investors will focus on RBL Bank, Power Grid, Paisalo Digital
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-tomorrow-reason-why-these-shares-are-in-focus-for-thursdays-trading-session-full-list-11788362646192.html
+- Oil prices edge lower on US-Iran war uncertainty; Brent at $95/bbl
+  Brent crude futures declined 43 cents, or 0.45%, to $95.20 a barrel. US West Texas Intermediate (
+  🔗 https://www.livemint.com/market/commodities/oil-prices-edge-lower-on-us-iran-war-uncertainty-brent-at-95bbl-11788398233165.html
 
 - Trump administration backs OpenAI in New York Times copyright case over training of chatbots
   Trump administration backs OpenAI in New York Times
@@ -80,45 +80,25 @@
   OpenAI CEO: It is more important than ever now for artificial intelligence capabilities and safeguards to advance together.
   🔗 https://www.livemint.com/technology/balancing-capabilities-and-safeguards-crucial-for-next-gen-ai-models-says-sam-altman-11788318928195.html
 
-- Bond market sell-off calms as oil price drops, and Burnham pledges ‘fiscal responsibility’ – as it happened - The Guardian
-  The Guardian reports on the sell-off in the British bond market. The
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFhzOXlmTk0zYmpocE5jb0VyQUF3WjdINGdHWDZQSFBhZWRMeXZnTE1GS1lVSzMwbGpkTnhfNWVQRFh5VEtEbGYtN1pmNFFLMG5iU29IenI0ZGxUdUhhMFgzUjFLQ3MzcHRrd1l3eGRnZFdsVHBEaEFQemRwQnJvQld1N1ZPV2JHWXlwWExKZURQekxINU1YTHdWTVpwdEJad045bHJwZGJ6MHJjcVFlMU14eHpJQUxHWWlUZFlsaHF3ZGpNOXc?oc=5
+- Purple Style Labs IPO allotment likely today. Check status, GMP and listing outlook
+  The retail portion was subscribed 1.66 times, while the QIB portion, excluding anchor investors, was booked 1.5 times. The company’s shares are expected to list on BSE and NSE on September 7.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/purple-style-labs-ipo-allotment-likely-today-check-status-gmp-and-listing-outlook/articleshow/133723301.cms
 
-- Europe’s bond markets are suffering a post-holiday shock - economist.com
-  Europe’s bond markets
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0Q4NVBfQnRVMFdqSHR4VC1QTUxOVm04R3B2RzRDOWExNUZqMm9iTl9WbXpza19haDYwclpjU3J4ZUF1Q1k3RlY2VXdDRWNPZ3d4QnBRM05QV2dDbml4Qm9rTUZ5czhweWstczJVSkpIUnZjcm9TSXFucnA5a241Q1NjTE5YWmFEUUltWjJvS2N6Y1ZBeE1TQ1dSbU0tUFNwaGlTcXY3SUExZTNlZHRUcjlKek8?oc=5
+- Oil Price Today (September 3): Crude oil flat at $96 as traders weigh fresh US-Iran attacks. What are experts saying?
+  Trump says U.S. forces have targeted Iran's radar and missile systems. He says the campaign against Iran will not continue for
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-3-crude-oil-flat-at-96-as-traders-weigh-fresh-us-iran-attacks-what-are-experts-saying/articleshow/133723351.cms
 
-- Stock Market Today: Dow, S&P 500 Open Higher; Global Bond Selloff Deepens — Live Updates - WSJ
-  Stock Market Today: Dow, S&amp;P 500 Open
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxObUtvTklVNGJKRzVNcXpfV2lTUGhLS2t3M3ZCaTRNbU96WnlrV2x0NkllZkdtemRWZlYwMllmMWE0eW4wT2VRamkwUEdzaG9BX0FETVJmd2RvbXJWWlRWWjdVU3gtM2dfdllnTTdha20yQVFSR1FTLWFFM09FbVpKaUM0YUN5alE?oc=5
+- Kwick Forensic Solutions shares to list today; GMP soars 87% ahead of debut
+  The IPO opened for subscription on August 27 and closed on August 31. The issue subscribed a staggering 289 times overall.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kwick-forensic-solutions-shares-to-list-today-gmp-soars-87-ahead-of-debut/articleshow/133723263.cms
 
-- Bull or bear market? AI spurs rethink of traditional market measures - Reuters
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnktR0puZFhQOEtHMGZJTG9TLW12Q19oMkItWlVXMFJIbzdycF9rWl9pOUxUeU01MzZBeXowQ2xrSmdoQTNMMDExQWstWkkwdUpicC01VkhxSEthcHZTUTRHbmUza3RXMWF5WFd2bkRkOWFvSWxpVFRxa2lRMzM0RzBmYzBOZnFJUVJEYnhLaEpIT3ZLYTU2Y2haLWdPV3FBUHVQSnpJSUhkRjVJT1R2aFd3MG5GUQ?oc=5
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-swiggy-adani-ports-share-price-03-september-2026/liveblog/133723288.cms
 
-- Stock Market Live Highlights: Sensex drops 373.93 points to settle at 76,570.35; Nifty down 141.35 points to 23,914.45 - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitgJBVV95cUxNbVF6TklkWVpjRFEzS2Fia2ZzTjJTbVJ6RHptTWZuTFJ2eUlHRzhiT09XdU5NalpmOGNNeE9vdk5xQmx1eWs5SDlWa0VBeXdWdXg5b24zWDZ6SF9aZzlqN1hsaGVCQUVCV3
-  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNbVF6TklkWVpjRFEzS2Fia2ZzTjJTbVJ6RHptTWZuTFJ2eUlHRzhiT09XdU5NalpmOGNNeE9vdk5xQmx1eWs5SDlWa0VBeXdWdXg5b24zWDZ6SF9aZzlqN1hsaGVCQUVCV3VsNXJrZUkwNERLZmJiai1xS1hzUDB5aFZQX2FPUnZRLWlEdlV3Y2Y2ZWdMMjFidlVBd1NEMlFGTFhCZEp6Q0gxckRFeVR0RnZwckxMZFhYZE1wcXh0TC1BUGhwVmMzSTd2bGtxTXRkN1g0RW54WC12S195dlN2Z09FX3BqbmxkRzdVSWJnd1Z4bldJZDR6QlZOMUR1bnhyeUVBSlNTWEMtR3pjN1ZQNFhhdElpN2gwaDc5SlFsR09heHhYUkxCNDJwaHQtZThIdlBwYkNB0gG7AkFVX3lxTE1keWFUM21fQ0p2N3pmeVRCbU43Y0VkYmFpT1dCTTRzTXdtTEtoVk9ScVc3akQ4NHVaZ0NWSWIwZXpyblVNaTQtTkQzcHRfWlFHUGFqOFhERFU3Zmc3bmxjLVBMYlNaMmpjc2M0UW1LR1hwZmNmaG95a1BTWWJReGxnRDNpaVFQWHB3NHdoMmJ6T2pjT1Z1ZmJ3aTV4UnVnNG5mRHVjS0JuSXhUSHM5YVB2Z29nOUt2VTRBVmxhMHJyYWpGMnJZQWFKM1VMX2FMVHFLdDNBUTFoTkN1NVFOeEdIOEd4aGRPclpnOXNEV3BYdy1RT1Aycl85blV0Q2ZUNnd3TTNIOFBGLWl3cDNBWjJELUtFYkVDcnBZYVRTNFctODBMRFV2THdtMWRYN3RnNlA2dnB0TlRIMWtkSQ?oc=5
-
-- China, US, India must compensate Nepal for flash floods: Khanal - Rediff
-  China, US, India must compensate Nepal
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTZSYjZrOXJXSzc5VU1vakRkanBtbHh2UXFQZF9Pc1NtOWkyaFFGXzNQOS02S2RUSUJHeDFKMWdPZjBNc0hhOUdXNHdza2tYUlZPU3A5ZlNKUy1zenhHNjlxNWNPQ3E5NmczOXhvcGhVVEpWLXh1c211b0N3MGl0N1dqS0tBeHI4bU81dG5TM3NuZGZhdnk4X1ZsUVdaVjNUdGxBUldNaHp2OXRk0gGvAUFVX3lxTE1iemM0WU5VajhQaHNZRmNkMnlOa251Q2doM1ZMZl9NdWNkVllVWVhZVlFxM2FIdkoxaDFmMXdYY1M4MUZOU2xnMEFDdkdZM1gtRzFfWXBwaFJIWlU4SE5FZmFITWRnRFM4elFkLVk1OFVOT2RYNWlUOUdxODRva0I5b2Y1aks5Y05jLUpuOEgxbkNIckUzZ1dCSTFGZVZBMVNZTUc4QnlJRmd4VE9BRG8?oc=5
-
-- 3 Killed, Over 16,000 Evacuated As Flood Situation Worsens In UP - NDTV
-  3 killed, Over 16,000 Evac
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNckhpdzFmbDFRVURJYlFOUmlxLXFGXzFsNEpvRHZldFJJRUxLOGdoSmlIYjN4QUI3XzMxOGN3OUdYOVFTa3NIbzhGNk05QmZ3dllkOUVFejJQUTR1RkF3RGR3alNjNVlfM2VUdkt3dVZreHpLM2dpWnBxZHVyeGNERjhHaURfQTBVZTlVRllBUlJNd2ZrNDBKajc5QWd3UWkwTjFjbXlDVdIBrwFBVV95cUxPdWRMMlVWSk9VelNMNFJxU1hCTEhGNzVzRVJDWkxhVmZWWkN3dmVXLUNXNnF2YmY5cTVmRzJ4WU5CdEh5Snl1dndnWVpVLURCQTlGRkplVVJ0RGphR3M3a2xGdm9WYmwwY0NnWWlYbHNiZ1pTalFKWU5NRXgyQktpdFpiTEdFXzRlVTkwd1VNNkZwOWtqNVUyR21TZUtPazNobTR6R0p3bS1DQjc0ell3?oc=5
-
-- '23 Silkyara 'rat miners' offer to join Nepal tunnel rescue - The Times of India
-  '23 Silkyara 'rat miners' offer to
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQk9qSlYzaU4xY0F6ZV9Nem5vbVdKVzZTWllyb3pNeGVOaXNfek5fRS1YSlFnb2dQNVdWaHk0R1ZuVk9rMUd6TXRQekdkNkxONUt1R2pFdllyOG5BV1Fod0REYlRsMFN0NlpGVXFNWmpMZDJZTlNnUkZFR1RSZ1MtdTItLTJFWVJ3VUI3TU1tOFEzNndELWEzNElULV9ld1Q2Qy0xSHBma0l6dWtHbGtDYUV1eHJpQ0tzQjJZZWRyb0E2d9IBxwFBVV95cUxNVmxybjlpVndsLU5uVDhYalp2aW5DTEotZWVQZEFfMm1Uc3cwaWl6YnZ3aFpFbVlHMXFxMWVOcU1UMnBjZEJtckRzY0RFcGVLX3d0empzWGxLbXhETDFUMlpuMVo4R04wRGRaQjhndUFLd2hidjY4YzNETWF3cDVSNGtaaWNmMzRNZjU1dktHenVzb0RJdHdFRFZYeUVubDNtUHllMGRnVWJvSXZRcExWeXBzeVExQnFHb1N6QXdIV2YzeXhzSnRV?oc=5
-
-- Why is India acquiring the Javelin anti-tank missile system? | Explained - The Hindu
-  The Javelin anti-tank missile system is
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNMjhWSDZ5OFQ5QlROanU1aEcyOTVNVlJySXZRZV9xOU1UXzNaelBxSTcwQmExc2lRcWx3SG1vU1hkUXRvRzY3VUNiVkJFY01wVGY2OGFSX1BDdmdhcV9RVWd6TXc0Z09MMDIzdjc1ZnpqdDJiWk1fSmp6anN4Vk94bkFRSDl3TEZKZFlvNTJ2Rl9yTnJVNFUzOVdMdmdnVEJaRDFyRzZnck85czV0UzQ3bmhiYmJKNUtNRzIxSFlvVDFoR2VFbkVJ0gHOAUFVX3lxTE1KZHpkUC1IRG81SFVCeWtSYkhvc09kRmFXWFZkTnZLTE5ZV0owcTdNRXZmQjJjdGcyTzd4NzN2a216UzFmMU5VWkU0QXp5MXQ5RDRNUU1XWHFGLVpMRTItcnlvN1Vaa2JWZnQzamZHdFZXZGdnUERpbjdNZnlKazlvS0REYUVEMW5ZM25zcDRwbTljYmxqRVk5aVlCczNlSnUtWVdJaGxWbnNqX3BJY05wcUx1b0NtWmZqbjZJbi1IV3YtUHRyTEVtbEk0cjRB?oc=5
-
-- India on board, SCO reiterates condemnation of Iran attacks - The Times of India
-  India on board, SCO reiterates condemnation of
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1VKZXFuR05NQmlwZ01DblNESnVPdTJPelphanZ2TlNOdG1xenVqb1pvQ2dBUzRsZW55dno0WjNZM1luX3dac1RGeXJ4cVFhWFJCTUozTjB2MVNJQUpuR3g3c2VKc0ZMNmVOWUhVNkJRQkRIWFNQdUF2SWxuVHRJZkJ0VENlYVJiYmxZN0JsSk1LMXd5UExYMWxSelFSQnR2SDZGaktKTC1wT1owcXF3X1R0SW1RUDBSd1BkN1J3c25tNUln0gHKAUFVX3lxTE5IaFZKMU1LODlMSWZuZXdJUlVXWHFzWnlPbUNncjZzN2ZXc1RMcW9aU25ZTDVlWjR5ZER4RW5nTHhQS3VmTWxGTjcxTW13ZEZIajZLRmJ2LTRmb2MwUFVJTF82aWNZYzFvTkVzVVpSWW55Rk5lN0NubVdLakdkM3N1U2lHNFhVUk5XV2JKaTg4TTEtbkpzTXkzeU5FUWlwWnZEcG0wVUo0T1dZY1M3NzJSVC1iaUVQQXlZM1pWSnhJbDlNMGN5dW11WVE?oc=5
+- Lumino Industries shares to debut today; 45% GMP signals strong listing buzz
+  The Rs 700-crore IPO was offered in a price band of Rs 78–Rs 82 per share. The issue comprised a fresh issue of Rs 500 crore, involving 6.10 crore shares, and an offer for sale (O
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lumino-industries-shares-to-debut-today-45-gmp-signals-strong-listing-buzz/articleshow/133723248.cms
 
 - Adobe Acquires Peak XV-Backed AI Martech Startup Rilo
   Software giant Adobe has acquired Peak XV Partners-backed martech startup Rilo for an undisclosed amount.
@@ -139,6 +119,26 @@
 - Flipkart Eyes Microdrama Entry Amid Diversification Push
   Flipkart is now looking to enter the entertainment business with short-form scripted shows, microdramas.
   🔗 https://inc42.com/buzz/flipkart-eyes-microdrama-entry-amid-diversification-push/
+
+- PM Modi's Water Push: "Jal Utsav", AI And Lessons From Other States - NDTV
+  PM Modi's Water Push: "Jal U
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmJBTjlNWGdpMHpMZ3pZNEFEd2x5MF9hUDkxWE5FbzlnaWc3eGZERGY5Rl9vbWJrVjg2ZlNFSC04TnJMeEQtZWxkbzhoZHJkay1pX1BOc0VPR3RtVUJ1Mk84YldraTZqUUthdmRxcktNWkFFemZ0X0tZbmpxVzJEYVZkLWxrZEt0LU1HUDItVFozaGFMMWRDd2RsM2dkSU91M05qZEN30gGuAUFVX3lxTE50RzZnQVFEdkV5ajlMUnNXWGdEVS1RdjFYbHNuWWVvTFVJMFRFbVd6a1JJalNpQ0hFOGY5SGplem15Umswa2xtcnpFTVhXUFdhR1JWYzdjWVpXMXlvR1FsTndWQTF3b3lrLVFrSjZZMk5ISUxHT21FS3RwZV9uOWRnRVVNODNSYklZZG0yUmdZOFFkazVmVFNWUjdUb1JOeHN1aU5aUnRWUmg5QWNmdw?oc=5
+
+- Odisha: Why Dara Singh, murderer of Christian missionary Graham Staines and his sons, may walk free in India - BBC
+  Dara Singh is accused of murdering Graham Staines and his sons in India.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ektOa1JLenlGbU5KNExDVlduWGF1RTR3LXd3bU1HdTZZVlRsLS1ZbkdZZkU2WFRadEFzSzhJZUdLUEFjWGN0cnc5T1ozMGZSbTdDMFJ6OWpXdw?oc=5
+
+- Why is India acquiring the Javelin anti-tank missile system? | Explained - The Hindu
+  The Javelin anti-tank missile system is
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNMjhWSDZ5OFQ5QlROanU1aEcyOTVNVlJySXZRZV9xOU1UXzNaelBxSTcwQmExc2lRcWx3SG1vU1hkUXRvRzY3VUNiVkJFY01wVGY2OGFSX1BDdmdhcV9RVWd6TXc0Z09MMDIzdjc1ZnpqdDJiWk1fSmp6anN4Vk94bkFRSDl3TEZKZFlvNTJ2Rl9yTnJVNFUzOVdMdmdnVEJaRDFyRzZnck85czV0UzQ3bmhiYmJKNUtNRzIxSFlvVDFoR2VFbkVJ0gHOAUFVX3lxTE1KZHpkUC1IRG81SFVCeWtSYkhvc09kRmFXWFZkTnZLTE5ZV0owcTdNRXZmQjJjdGcyTzd4NzN2a216UzFmMU5VWkU0QXp5MXQ5RDRNUU1XWHFGLVpMRTItcnlvN1Vaa2JWZnQzamZHdFZXZGdnUERpbjdNZnlKazlvS0REYUVEMW5ZM25zcDRwbTljYmxqRVk5aVlCczNlSnUtWVdJaGxWbnNqX3BJY05wcUx1b0NtWmZqbjZJbi1IV3YtUHRyTEVtbEk0cjRB?oc=5
+
+- Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 - The Indian Express
+  Today News Headlines for School Assembly, September 3, 2026: ISRO
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNRmFkbk52M0NnLU1BbWlfRVdoZUQ4REJfWU1KVkt3bmVGMjVMM0EwSmpzbnpXRmNCUC1vTi0wVURNRy12XzNKbnpxLUY5azRVZUNpUmJTLU16bEtQLTZSX1hGMmJLbTRuV2hGcXFnZ1Rub29lOVdVd1p3T2VUU2pocUJFU0J5Y1pVanhCNklWLUtScWVvSVdwejhoYkxLR1dGTEdydzdwbWU3bjVCVEUxMHpWdGtCRFZoTzJUY29MNTcxWWo4a1VJblFRRFlKc09wRDVIcjJXSlBCb2ExSXVPclNtOGM2NHhXdXQ0eE9rRWV5NXNMQkhocnI4ZUw3UkZDdXdqTnhoNkc3TnhXejhxTlVoWUhla1JHQ3fSAaACQVVfeXFMUE9hckFrLXp2M3FCTWlhYnU3UGtqbEFOemE1OGVFUFdnRDlJLVpwdDRLM2xXT2h2RnEwd3Y2MDB0MnE2NmNlQWhYM0VBVnhvYXp6eVNNeDNIaTNIX1puRHZ5TW9Ma3dlcGo4dEtaNnJyeDZYeVhCSy1YLVJZaDQtTmpsWmxmRWJlcUwteHUtS0F0REprQmhDbkJCUUlMM3JSVmc2Y3k3aGVMQmtaX1V6WnNoV1NJRzczSTJiRUVJQmVTOWRoSDlwb3pDaVcwcUJ3c2hJM3hzQS1XbXN1Y0FrRWt4VkFRZlVtYkpYYk41dUd0XzRWRWVrWkZ2R21hb2pENWdjR3kyQVZpV2xoaWZJNjZFM2NtQk5PdjI5Y3EzaXYy?oc=5
+
+- Evening news wrap: Operation Sindoor commander Jeetendra Mishra picked as Ram temple Trust CEO; Nepal see - The Times of India
+  Evening news wrap: Operation Sindoor commander Jeetendra Mishra picked as Ram
+  🔗 https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUkFHVjZXT2ViY2tvcjNyOFI1azdlYVI3QlgweEZlRmM0ZUxXdGxaU2RvdGt0UC1aUnhSYjJHcWxLU0NjRmtNY1QyM3UzTVM5aVRpbFpESXlJUi1GMGlDSXNnai1iMjVnOUYwQ1FzTWpzd1E1NmR5dzBpcFVCSWhrNHk1U1pMWFJDWThmWjg0eGc3bndiRWRGb2xaR2JtNTExc1dDVmVQa2FTVDY4U3VPWDdaaGNQeU8yUEFsY1hHRGRmenAweS1tMW4zR1ZhbVc1XzJCOTR2ZmVOSTkzVmhBZ0ZkZ2Jab0Y4UFo1eGUtcnMzd294eUoxeEw4ZDVpaTVpMjNaSXNILUVKMzNQT3J0ekZXS0F3TC04VGxpeXd6VV9wVnQxcWdlYUVlZlNSU1YzbW41WkVsWWlrLVZIZTJfdmctRnFiVTVH0gHOAkFVX3lxTE5qeGV4VnNVMjFFWFJ5MlhIY2VHcUtaZ212ZDNkc2R6TE9lNlVLRHJhaDJyMGhwRDhlZ2VDZVZzbjgtZ2RzdnlMbmEwb2FuUm96Y2h5V1FaeWx6REJBSUMxQUJZbHBTV185QnktZHdyWGdnMFBRU0d4MExzeTlvci10bV9tcEtzNHFGYUNOaVphVXZzMWFaNl9EQ1RFc2QtZEhnQzIzLWNPMGRUWU9tWV8xTlprcTdDOFFHOXFxT3l0cXE0Z3RvZklkMVpzN0hCWmtlVkc2dXlfRXFBVmJQcm9XUGJ2aGgtTHpxVGNFZDlpTmk2Q3VwTWxkTTY3cDNVYUJXOEtraDQ2LUtPdVRLME5kclpraVd4MUdRVWtRUTFCdlhNR3p0NmpteHRjamhQZTAxTExQSTlBc09vcHAyTUxfQUQwOGZab3lJVG1QbGc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-02 20:28:08 UTC_
+_Last updated: 2026-09-03 02:37:19 UTC_
