@@ -1,64 +1,92 @@
 # 📰 Daily News Summaries
 
-- Cochin University of Science and Technology decides to introduce industry-flexible curriculum - The Hindu
-  Cochin University of Science and Technology decides to
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLVNKVFZVcXF0UEdjc3I1WUxqZERONEZCYzBuRkRxTDYyZ0RlWElfY05FempIZXk1V1BoRUtBcFdNTEZzek1zSlMzSV9CdXpsZ0JGU1M4QjdGeUkzbnczVTl5RUN0VXYzZ0VjQmpuRldVZVRxSHdGdjQ5YUJfUzRRYXJxajhmSEhDUU5mVFJIVEkwMTZ4VWkwc2o2WE00U2I0ZXlVb1Z3UFR0SG1LX2VvYUZnS29wMUNzOGRJeDNxZGx4UXZMQUlYMWRtZ0VvS3luQVZ2LWxaS21FWUlkb0VlNXpRVUtBeHBxSWdtSThPejDSAfcBQVVfeXFMT2xjaEZuWV9HMXpnOUxheUxmSGhJZmpyX2w2WDBBUVJYSHpuV2tBQVhTMFJpN19rZGxYM0xJNl8zYkxpTTMtSkdZc1ZKRjlwRFBuZjVMNEdiaEM3V1R6TDc1dzNnS19Jb1NrSU9tcTZISzdHSHVfNUp0RWt5clhvS2ptTGk4NzhYZlZtc09IcVMyMnZILWNWMUFDNEx3TWsxZzBfWEFLUU56SEdDalFuVjR5UWgtN01BOF9fR0hLVnBDZmRPWlk0cGdsQ1VHQUJKRXZVWEMwemF3VUNyX3ZPREQ3eFJ5UG0zMkNLTmRvUGpYdlY3U0g3cw?oc=5
+- 'Don’t think India, Iran are making deal': Top Trump official on PM Modi meeting Masoud Pezeshkian | India News - hindustantimes.com
+  'Don't think India, Iran are making deal': Top Trump official on PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSERxTEU2ZkRvZlBMQzNrLWdmTUU2MnIxSUpzYmtvTG52VDJzS3pVWDZvNFMzNnViSmQzX3hudjZ6SVljZTFuSHVTM0hpdmF3V2VQSWEyTlo3VWdlNlpnVXFIWGpJdllOekhtVEZBX0ZSMnhVRURqOEdDU2hJdUh5QmpQTWFyNl9tODlqTHRmLXoxTXYybmxvQTBjZl9nTERDUzhCZ0xiOFg4LWZDODhGSXF2UkN5d2hyUmFLMEh4bzBPNW9nc3NGUnE4NVA5MktVWTk1eU5Kbi1yWmIwS01aeHZ5LWU2a0M0TjZ4by12NF9sU1VO0gH6AUFVX3lxTE5SVTJRZUVVLTVKdC1STVFyRF9qVExLQ3ZoYTUzdXBkbkxMMHA4RlktM2Q5cXVsLWt3bS1scEZoQnhxYUF4UjJveXBSRFBfTXZqclpZQmQ2RXppQjBpdFFDRkxGb3YyZ0NtenRyeUNFbDh0dENDUUpScXd0ODNOWGpnNnh6MlptUFQtejMtdUwwQV9OVnBpaTNxZnVzcVZHYlIzZkpZcVBHVkl6d0N0NzEtTnpvcFBFdER5U3o0VEpJWng1bE15S2RKMjFodU83Wl9mZ1NoSEYxeWZKcWw2Smdwc3pwdTh4WU4ydUJXWEZPSW5fd3Q5cWpfS2c?oc=5
 
-- In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules - nytimes.com
-  Google won't have to break up its ad tech business, court
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE54SXBLXzJKcERSbmdjRXIwRmF6ZTgyUkl6VmpWbjFTSGNzZlFwRW5VRE9STVJSVnFsVG5zT2JCREZRMnZUXzU5MkZvOTJudDUtRUkyOUFaY2xiVnR6SU9Sa05jN3RBQ1lhLTl4ZzFjN1Y0d3Zfd19oLXQ2R1BvSzg?oc=5
+- "Unbelievable Property": British Man Praises Taj Palace Mumbai, Says India's 5-Star Hotels Rival Dubai, UK - NDTV
+  "Unbelievable Property": British Man Praises Taj Palace
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPY085M3N1ZmhYNXlvdFdWWE5SanlGMUN0dkEwbEQ0ZjZzWnFlY3p5OUxNNlFOOWpIWHZTWi1Cb25NbHVPZ3BlWU1FemxKT0RMUXAxUWROS2hCQVdqSE9qeTQzb3g4ZnJHQ3plWjk5UUdzcGlQbGxDcWtoX0FCUEtqczNGOF9vcVdua2dfaUg4RkdaYXpXRTJZNjFRYVpYX28xTWtVeXNOMENfRTgw0gG0AUFVX3lxTE1BOXR2NXhZandxUURJTVJFZGM5ODlKd3R1aGdTNm14WF9yYXJFRGFoeHdHVHBQaXI0QlhQdmx6NXdKRC1BenhkbjM2ZC1RT2pVcVlkR1pxUzdkb2R0LXpBS1YzOENjbEFscVRwRTVIZHpiOFhaOVFJOVFsUG50WmVTcVhiX19uZGtRNlN0QWphZ0NzU28yWVJmdUQ4ZnFvMGNHaWhJcHBzdWZuZldabDRXYXZYUg?oc=5
 
-- Capability gap among MSME suppliers could slow India’s automotive technology shift: Study - HT Auto
-  Capability gap among MSME suppliers could slow India�
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWkdVNUx6WFAtT1NMeGpOVW1yaENmdUE5YWg1d2NMM1NXb1VSdXlfOFFWc3hROC15c09tUFJoVm9WV3FEZ2NCUVpOWVl4V01YTXRTbXB6MUM3OE1kMER6VzJIMTBZVFk3MVgtM3F1VzRsWUNKbGZoTE5UVEZrTi1xeG8tMk43dWF3QU9NMFFwa3FlcjNGVVZOLVFMenhEZW93WFAzRmxHcXFuSzJxMWlHNkpOU2Nnc2p6NHVwUEl0eE9VY3hqbFZJczRwLWUybU9SWjh0QjV1aW1tcXNQdTNRbjhFLTjSAeoBQVVfeXFMTi1rTVFQODc2UlJnYTVmM2R1R2xnejBkZEhZVnBZRlZWR3VXRV9FMHBFaU13MURtYXh3QXNGakNJOW5udmwyODVTLUlNWHN4OGNEMzZJVTR0Tk93OEctdVlLdmFQbXYteWRnbTFMc2RIbm5hZUQ1X3Y4ZThUbGExTjVWQUtCTGV6NU9YY2wwY3BkMGQtNDBPUXN2enhsYmgtSFVNc1FuYVpyMGxDTGRRYXk4UVJHY2F0VU5FOFRMdURBLVdzeE9OLUdWY0xPZmNqck5MelFnU0JvU1JZX3FVeWJKMFdlVGJPYnZ3?oc=5
+- India is ready to help end war in Ukraine, S. ⁠Jaishankar says - The Economic Times
+  India is ready to help end war in Ukraine, S.
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLWpDT0NrUlNybW4ySDVrSkFFN0xHbGxDZFJ6SV9PVXB5VGJhRUZ2QkpjSkU5N2haV3NLSHA1VERfdWVuS1FMQnY0WUVka1lnOGJKU0hoS2FSSmF4VzRFdkJia1R5UFJobXJCNUQxQlZUM3NiOGxtV3dtaGVhM2lWRHZpWWJSakU1M0d5SjNlbk9FTTQ5YXAtSkk0dDlRbG96ZDE1Qi1PQWNsZVZVdThPOEpIUVRwV0c3WEpuWmhRVXk5aTc4R3VwTjNjdnlEUdIBxwFBVV95cUxPVWMyXzBxNzh0WjlkOV91R2o4YVRoVlRnNmhJa2FVMG1RYWJrRE1STzFJUjVEVmFxRzJ4TFVfdkdWUDNjVFlJLU5vbVRISlE3TGROLXBKMjlOLS1SeWJVY3ZNRXMtdUlkeFltZ21nS2VBc1dNX0xVRVY3Z3F1bkY4VWd0TmpHRHEzUlUyYTA0b3RhdWxOYVRSRVhqdk5menZLQV9rN2R6Qjd6TXJoT3V1a3VBSVhiQVdwZWpNbFR1SFBsVk1MQ1NZ?oc=5
 
-- From Technology Leader to Acclaimed Sci-Fi Author: The Extraordinary Journey of Sudhir R. Nambiar - TheWire.in
-  Sudhir R. Nambiar is the author
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNVFZDUzFtNjg1U0xLYldvNEQySUM3cUo1dV9UczFSNHZRdXUtUFFKU3VyT3NsTXhvblQ2dEhRVmFiR0NHUi1ILXVEVGhpMlhRNkljZzE0S0VhdjVLRnRpMlFnajB4b1BSekt3UjNoSmJpWXpkeG1OQWpJaGgwWGtTMlBpU2s1ZnhISlZsMHdVaC1sMjBMQ1Y1bWlhQjRoeEpRQnk0dWVqaElySnVLR3RkUkJoYkFKSFJaYTF4Z0dNNEkwd0FsaE5QN3ZDS1U5WXfSAdQBQVVfeXFMTjhad3FJVW5CMWgxSVFMNFRfRmpVN1c3NEtSVVpudWFDWUJoWWJWZjFXUDZwSHl1Nl82b1lMbmlRRVVyd1duSlBzMlZadWw0cTJRRy1KYm9vYjVpREFrQlRIZUgySFZnSTJvZ3RRMjNUVVBNSlZlOGpIR2VxeVM1VkdNLVRwR3gyTGMtQWxzbVVidmxCelhIbFIteXVWbExweks0bHlEcDQ3OXJQYlhsSl9zOTFkbGR6a3FZTzR4Q1hvM2Q4LWxtR2tFSXBBdkFrUjd3ejQ?oc=5
+- EAM Jaishankar says India 'ready to help' end Russia-Ukraine war | India News - hindustantimes.com
+  EAM Jaishankar says India 'ready to
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaERzaWI4c2pHaHFUaGhsRnRRQmFTenpDWURXOEQ2SDJMOGZYQVU4R2dXQnU0MzlFeGt6OEd2SHgtdnhJNlEydjFyZ1dabE1sM2d4UzRZTHl0Mm96dUJnZU9TNGFHUFpfWUNTUzFjYWxaUTY2MWFUU0l2RWdudDlZWExmeTN6SC1pbDhCMnl3MFZLMnVGVUgySGZvU2VndXJ4SlBfeFFCVU5VeWdzNHh2QWhqMVRLdGFoeU5tck1zUXBUWVI3Z0poMTJrbFgtdUxTczhodnp5bjlhdk3SAeABQVVfeXFMTXhVcmVLQU5zY2pkZmdvVjA5YTRFcFF0VU85WnVvdGlOU3hlSy1fSWRXaFp5UGYxM0ZQTElRMlllbTJCajVuR3otNldaZ2NNTG9abXNxMFBFbVAxaEtLYm5hTHRUOUJpbjdwblI5RS1pbU5XQnRhSU9EYUpRaHkxeDRMR3dKamZRbVE1Z1RmcUJ0SF9wTU92TVFQbFRMUS1feVpqcFJwaXJsSjJrNm1sUEdpLXdDcTY3U25rTkVuV2REbTduZ3VuLVI1MTJ6VHRXcHpvckxFTTBkMFB6Mk5ZcGM?oc=5
 
-- Wednesday briefing: ​What’s behind the global backlash against datacentres? - The Guardian
-  Wednesday briefing: ​What’s
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGdqUWNkN0E3VFhRUHpKS1JCWXcxWnBBV3dqZFBjMDNzenNDVktCdG0yV3h2Y0FEYmlPaEpBZ1dZVzF6OS13WkFJU0dFRW0tcXF3QlBZSWc2dUxwMG41SElYTmIxaHJ0TXJDRlNNNTRKREp3dlZYRmZ3b3p5R0dOQ0F2UW1uTV9ETXZYNUZIenVseVJoVG9qMXhnZExVZmUxM00weGFjMnJqQVZ4Y19WUU84Z0QxU0Qx?oc=5
+- Why Nepal floods should worry India - BBC
+  Why Nepal floods should
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYTZlUGFTMjJFVFBkVlRoUGItYzZTWWI4QTRpdWhvbi1CUm9vZ1J3UlBGT0JRT3FUVkw4elZudkIwMFl6VlE1LXdabFNKSko2MzJ0RXEyYUJjdw?oc=5
 
-- AB InBev pours more into India, bets on states' policy push
-  The world’s top brewer is betting big on India, with Karnataka and Maharashtra showing how policy support can boost demand and investment. AB InBev, which has invested $1.5 bn since 2016
-  🔗 https://www.livemint.com/companies/news/ab-inbev-india-investment-plans-hoegaarden-corona-beer-made-in-india-11788342039095.html
+- L&T Technology Services Launches LTTS FARM to Power Engineering Intelligence-led Deep-Tech Innovation from Lab to Market - TheWire.in
+  L&amp;T Technology Services Launches LTTS FARM to
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSWIxLUJVT1o2UlUzbTE5YmtEbTdFb0tWbjNhOEcxcnVrenN1dWxyMkhoSnhHczhGQk9LRkt4ejNuWDFMSjkyTXFKMVotQm5EeG9WYjVQdWZsWU54S0otOVN5cHprZzlmVXc2aWUzbTVMY1BxS21TZE5FQkFvb1ZZcnFaVnREYUgyZC1JV3d5VUF0Y2xOM1BPLWNhNGpuWTM0em5sNU5rNTctdUJWc3IyZGxQUE1uZk9hdmJISW5GYkxBeld1WVZsSnFtNEE2WHpQNEp6cjNMSmNoa21RcjN5VGdtVFJQUktqTGE2aGlVRdIB9AFBVV95cUxONmFvMUxNenFWMW8xR0d2NzNCcGFKeG1pWTQ4amRSQmhUc0RGcmxmYl80bF95bmphdXd1bjNwMkVSckVHNjNpU1kzVW02djVUUUw3NkVYMW1pME9WX2tXYWJPcHFGc2o3TGxSY01rRzRUa2ozSWsxRVFJaGFkXzFfTWVJMExqbk5La0VTNjR2V3Z0VXFXTW8tNF9CQ2s5NkprV3BLMWRjZ2tTZUJFczR0aHYwSkxrWlZPVi14dXZfbUh0OUFyMklNTDNabG1RWVd4bzU5YkI0Qml5T2M1T0hpeGFqTGstQ0lCZ0NTMWxRa0NNVGw1?oc=5
 
-- Thoma Bravo explores $2 billion-plus sale of Foundation Software, sources say
-  Thoma Bravo explores $2
-  🔗 https://www.livemint.com/companies/thoma-bravo-explores-2-billion-plus-sale-of-foundation-software-sources-say-11788376664749.html
+- About the Assisted Reproductive Technology (Regulation) Act, 2021 - Vajiram & Ravi
+  About the Assisted Reproductive Technology (
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQOThOZEtPNnZnV2l1bjQ4ZF9SN1lPUFdzQy1Rc1h6V0JHS1R4QmlwY2hzcU1tYnJCc0N6WUhiVzZESDlibDVLanFJSTFiX0pKSnNoSzVMLVpTcGJTQk1WTmdnRE00TE5hcmJYZ09DYXlOVWVRZGR3MHpmMGZUd2VxWWJXMFB3Wkp2ZERHcV9ZbzdCaGpGcEllcEJ5VVg?oc=5
 
-- UVA’s Situational Awareness Bet Fueled Record Year Before Tumult
-  Situational Awareness lost more than two-thirds of its $45 billion in July. Most of the investors who took the
-  🔗 https://www.livemint.com/companies/uvas-situational-awareness-bet-fueled-record-year-before-tumult-11788376173508.html
+- Technology, data vital to strengthen healthcare system: Pathak | Hindustan Times - hindustantimes.com
+  Technology, data vital to strengthen healthcare system:
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0FvaEpVQWZMQmlERHlyb1BmeVRBcnRybjE2dUJrX3FEMzlwLTZDcXlhYmRzbU0xeUJOWjgzall2TXdjOEtPQjhhQ1JUUVlCaGk5dUVLWXkzVEZMTEVrM1VINVRuSy0zRjJjSkVSdUd0eHF6MnBma2owampSZkdQSEU5NGFPczg3a1E4UlhsRTExdk92YVc1WlllSUlCdmlGZ2ZIcUxIZFN0MkFSdTEwRGJJS0d6bE0wdzdkNFRxXzNBellIdkpXdGJBSHLSAdIBQVVfeXFMTTlfY09SdldvVkN3UDFVMVlBZlUtb05EUHBraFBCa05PNFlPRG9HVzBlZ1lWSjFBNEpmT1BNSzdOdGlINmRSRUlvQTFBYzhDb2l0NUVqRUJQOXQzajVwR2Fja1I4RTZUblJ3NW1PeVg3cjJGNFZPZFRTdjFKYWJhX1psdU9kSFZSa19MbWhLazBPTFBtRVB0TGs1LWtIYTBMcHJBTjBKLUtEa0F6TmpIS1V1TE5kRGpsNjJvelAwQW42NllheXdKN1lxdXBvM1BXYTVB?oc=5
 
-- Anthropic is back on Trump’s ‘right side’ after Pentagon feud, Lutnick says- What changed?
-  Anthropic is back on the Trump administration’s ‘right side�
-  🔗 https://www.livemint.com/companies/news/anthropic-is-back-on-trump-s-right-side-after-pentagon-feud-lutnick-says-what-changed-11788371020372.html
+- UN adopts Pakistan-led resolution on access to assistive technology - Dawn
+  UN adopts Pakistan-led resolution
+  🔗 https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BLThSUGRqaXdBMkR0SVR0bHNoZDNyNnB1eXQtTzk2TE1zOVhNc1diZTFHMHJZZ01lUk9lbGRFTnFScDVyanp6MdIBTkFVX3lxTE5ZY2J1eXgtSWZlak5yN1JjMW83Z1dTLXQtSzdnQ0w1ZERjS3hHWkVkUUQ4dGs4Wmxtc1NYNTZ6MnM3cFlyaHpMMXhkRzJUdw?oc=5
 
-- Google dodges forced AdX sale as US judge orders changes to ad tech business
-  Alphabet Inc.’s Google doesn’t have to sell off its advertising exchange, a federal judge rules. The tech giant must make its ad tech tools work with those operated by rivals.
-  🔗 https://www.livemint.com/companies/news/google-dodges-forced-adx-sale-as-us-judge-orders-changes-to-ad-tech-business-11788365935685.html
+- Through Children's Eyes - unicef.org
+  
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9oYjh6U3BPeVByMkktTy1TLXhhOWpWRTRmY3pyeDRtNGVUTkhXVlBLWmt2WlRSbUdCNDhWMTJkdVc2dlFLbkpsdnlZbTRKR1dpM1BtTmk5eG9RVkxkSkhOTmZvbkVWYWxUeGhOTE93QTU?oc=5
 
-- Buy or sell: Gift Nifty hints cautious start | Vaishali Parekh recommends three stocks to buy today — 3 September 2026
-   Vaishali Parekh recommends three stocks to buy today.
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-hints-cautious-start-vaishali-parekh-recommends-three-stocks-to-buy-today-3-september-2026-11788398999338.html
+- Uber faces backlash over ‘Parcel Mini 3W’ service, use of passenger autos for goods delivery in Bengaluru: Report
+  Gig workers threaten protests as they demand discontinuation of the service. Uber's new 'Parcel Mini 3W' service in Bengaluru faces
+  🔗 https://www.livemint.com/companies/news/uber-faces-backlash-over-parcel-mini-3w-service-use-of-passenger-autos-for-goods-delivery-in-bengaluru-report-11788424780602.html
 
-- Asian markets today: Nikkei 225, Kospi rise marginally amid US-Iran war uncertainty
-  South Korea’s Kospi advanced 0.86%, while the small-cap Kosdaq declined
-  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-225-kospi-rise-marginally-amid-us-iran-war-uncertainty-11788399271066.html
+- Kotak Alternate names Pushkar Jauhari as CEO for PE, VC arm
+  Pushkar Jauhari will lead investment strategy, fundraising, new investments, portfolio management
+  🔗 https://www.livemint.com/companies/news/kotak-alternate-names-pushkar-jauhari-as-ceo-for-pe-vc-arm-11788426081548.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 3 September
-  Sensex and Nifty 50 are set to open higher on September 3, amid positive global cues. Support and resistance levels are critical for market recovery, say analysts.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-3-september-11788398628464.html
+- Credlix crosses $1 bn in export financing for MSMEs, targets $10bn in five years
+  Moglix’s trade-financing arm has backed more than 1,000 MSME exporters across India, Mexico, the
+  🔗 https://www.livemint.com/companies/news/credlix-1-billion-export-financing-msmes-11788419090684.html
 
-- Oil Steadies After Rally as Trump Sees Short-Lived Iran Strikes
-  Oil steadies after a three-day rally as President Donald Trump said renewed attacks on Iran would be short-lived. US
-  🔗 https://www.livemint.com/market/oil-steadies-after-rally-as-trump-sees-short-lived-iran-strikes-11788399188419.html
+- Adani Group may raise debt through family-owned infra firm to refinance Ambuja Cement acquisition loan
+  The plan is still in the early stages of exploration and the quantum of debt to be
+  🔗 https://www.livemint.com/companies/news/adani-infra-debt-refinance-ambuja-acc-acquisition-11788418823609.html
 
-- Oil prices edge lower on US-Iran war uncertainty; Brent at $95/bbl
-  Brent crude futures declined 43 cents, or 0.45%, to $95.20 a barrel. US West Texas Intermediate (
-  🔗 https://www.livemint.com/market/commodities/oil-prices-edge-lower-on-us-iran-war-uncertainty-brent-at-95bbl-11788398233165.html
+- Uber exits Nigeria, Uganda with ‘immediate effect’ as part of global restructure; shuts down ops mid-rides
+  Uber said it was shutting down its services in the two African countries. The decision was made following a global review of its operations.
+  🔗 https://www.livemint.com/companies/news/uber-exits-nigeria-uganda-with-immediate-effect-as-part-of-global-restructure-shuts-down-ops-midrides-11788417232071.html
+
+- Stock market prediction for Sept 4: What will happen to Sensex, Nifty, Bank Nifty, KOSPI, Nikkei on Friday
+  Both key indices have extended their losing streak to a fourth consecutive session. The Nifty ended the session with a decline of 0.17%
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-sep-4-what-will-happen-to-sensex-nifty-bank-nifty-kospi-nikkei-on-friday-11788429732619.html
+
+- 1500% dividend stock alert! Check amount per share, record date, payment timeline and performance
+  GOCL Corporation announces an astonishing 1500% dividend, launching investor enthusiasm as it gears up for the FY
+  🔗 https://www.livemint.com/market/stock-market-news/1500-dividend-stock-alert-check-amount-per-share-record-date-payment-timeline-and-performance-11788425974870.html
+
+- 16% jump in share price of this firm after  ₹100 crore order from Tata Motors PV | Do you own any?
+  Autoline Industries shares surged nearly 16% in intraday trade on Thursday, September 16. The auto component maker secured a new business award from Tata
+  🔗 https://www.livemint.com/market/stock-market-news/autoline-industries-share-16-jump-in-share-price-of-this-firm-after-rs-100-cr-order-tata-motors-pv-do-you-own-11788425973818.html
+
+- Jindal Worldwide stock hits upper circuit - What's behind the share price jump?
+  Jindal Worldwide share price opened at  ₹40.52 per share on NSE today. The stock touched
+  🔗 https://www.livemint.com/market/stock-market-news/jindal-worldwide-stock-hits-upper-circuit-whats-behind-the-share-price-jump-11788425179568.html
+
+- 7:24 bonus share by small cap - Record date soon | Check expected trading date
+  Jonjua Overseas saw a 5% rise in shares on 3 September due to its upcoming 7:24 bonus share issue. The record date is 4 September 2026, and trading of
+  🔗 https://www.livemint.com/market/stock-market-news/724-bonus-share-by-small-cap-record-date-soon-check-expected-trading-date-11788425103064.html
+
+- Redmi 17 5G launched in India with massive 7,900mAh battery: Check price and specs
+  Xiaomi has launched the Redmi 17 5G in India. It features a 6.9-inch 120Hz display and Snapdragon 4 Gen 5 chipset
+  🔗 https://www.livemint.com/technology/redmi-17-5g-launched-in-india-with-massive-7-900mah-battery-check-price-and-specs-11788425769752.html
+
+- iPhone Ultra could get MagSafe support, but Xiaomi 18 Fold may beat Apple to market
+  Apple's foldable iPhone due out on 9 September. iPhone Ultra MagSafe support, iPhone Ultra vs Xiaomi 18 Fold comparison, iPhone 18 series launch
+  🔗 https://www.livemint.com/technology/iphone-ultra-could-get-magsafe-support-but-xiaomi-18-fold-may-beat-apple-to-market-11788413817116.html
 
 - Trump administration backs OpenAI in New York Times copyright case over training of chatbots
   Trump administration backs OpenAI in New York Times
@@ -72,73 +100,125 @@
   The iPhone 18 Pro and Pro Max colour leaks suggest Dark Cherry, Sky Blue and Black options replacing Cosmic Orange, Deep Blue and Silver. Apple's
   🔗 https://www.livemint.com/technology/iphone-18-pro-colour-leaks-keep-contradicting-each-other-dark-cherry-or-silver-11788327613653.html
 
-- September 2026 Android drop: 5 features for making life easier - Remember where you put things, ease motion sickness
-  Google's September Android Drop includes new features. Gemini feature lets users remember item locations via Find Hub. Guided Vision accessibility for blind and low-vision users also added.
-  🔗 https://www.livemint.com/technology/tech-news/android-september-update-gemini-can-now-remember-where-you-put-things-motion-assist-and-more-11788324837780.html
+- Dow rises nearly 300 points to snap three-day slide as Treasury yields cool - CNBC
+  Dow rises nearly 300 points to snap three-day
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9fYmc5aklBNDFsTzFfLUh5WkxJa2NmVFJ3ZFVhWkg0ZEVGazgzMDMxVWEyd3ZXSXo4QVB1UEl2TEtGenE1d3lGRW1NbTd0aklnOUhFN3VjSzY3a1lySUM1R1dXSzY1UkFCR3lQRkFOVllMSkhDc0U00gF8QVVfeXFMTXdGR0lqMFJJMXFuWWVRR0lqbDU0aTMwYzltbTlpWVpVeHRmV1ItZUtiT0lQeDRhNzNaSy0zRVQzQmtEa094X3lkS3hBMHloOXpXNERIdkNFclJCZWotNUEtUjBBZGwyYndVb2U3Y0c1UTJrMC16VHRJYklIMQ?oc=5
 
-- Balancing capabilities and safeguards crucial for next-gen AI models, says Sam Altman
-  OpenAI CEO: It is more important than ever now for artificial intelligence capabilities and safeguards to advance together.
-  🔗 https://www.livemint.com/technology/balancing-capabilities-and-safeguards-crucial-for-next-gen-ai-models-says-sam-altman-11788318928195.html
+- Stock Market Today: Bonds Stabilize as Oil Slips; Yen Jumps — Live Updates - WSJ
+  Stock Market Today: Bonds Stabilize as Oil Sl
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkh6R2NHVE1RTVR2dmduNEtRMWJBZEYyRFU1RDVEb3VocmFWRzE2bUw2SW1xekZpcXotTUFNM1I4Qklmc2VJT3o1TGtWYUdNbTVkcllZdDRnME9ZUEFGQnA0aWFYLVVjVmhsSHh0SjhyYmxSbnpWWUZCT3FrQ0kyQlBkekhFb2s?oc=5
 
-- Purple Style Labs IPO allotment likely today. Check status, GMP and listing outlook
-  The retail portion was subscribed 1.66 times, while the QIB portion, excluding anchor investors, was booked 1.5 times. The company’s shares are expected to list on BSE and NSE on September 7.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/purple-style-labs-ipo-allotment-likely-today-check-status-gmp-and-listing-outlook/articleshow/133723301.cms
+- Markets News, Sept. 2, 2026: Stocks Snap 3-Session Skid as Oil Prices, Bond Yields Remain Elevated; Nvidia, Dell Among Top Gainers - Investopedia
+  &nbsp;&ngt;<font color="#6f6f 6f
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1pRYnl2SFk2am02a0taMWJpR0QyNVBod3Z3MkdSM09ZMzJhODUzSWhXZVMtaldHN3RCN3BjX2h2bFNjRjJUYTYwZmJ1UThFYkJGVXVPX0hCN0hOc09CbW5lS1RJeFlJX0hoZExUR2QwVzREUXhGeUUtX2pxeEZ3dUVVa05jVGJBMTVmLVZlYjA?oc=5
 
-- Oil Price Today (September 3): Crude oil flat at $96 as traders weigh fresh US-Iran attacks. What are experts saying?
-  Trump says U.S. forces have targeted Iran's radar and missile systems. He says the campaign against Iran will not continue for
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-3-crude-oil-flat-at-96-as-traders-weigh-fresh-us-iran-attacks-what-are-experts-saying/articleshow/133723351.cms
+- Faisal Islam: Why bond market wildfire is keeping world leaders up at night - BBC
+  Faisal Islam: Why bond market wildfire is keeping
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MeHBiMWllS2w5c3huRU9ESjRmdDl4cUpjNk9zVWVLSkgyZHMyaDd6R3lMRHR0dU85dkt4bnFyY0xQczBGOUtNenVwNlBqR2FMXy00Tmg2dE9nUQ?oc=5
 
-- Kwick Forensic Solutions shares to list today; GMP soars 87% ahead of debut
-  The IPO opened for subscription on August 27 and closed on August 31. The issue subscribed a staggering 289 times overall.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kwick-forensic-solutions-shares-to-list-today-gmp-soars-87-ahead-of-debut/articleshow/133723263.cms
+- Japan’s borrowing costs hit 30-year high: what does it mean for global markets? - Financial Times
+  Japan’s borrowing costs hit 30-year high:
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPallLam1wWDhhMXlPaHdZU0dBeWNldkhnN2NMYXBYU0pWT1FGZno0RldBT2JpWmVWbFpwR1ZzNFRQODZOUWpGNURHY3FjNEQ4NUVlM2FtY2RFQTlHV0pmdVNrTzhaeGJGa0pFNTVOQmQ5bUl6VnlzRGN3bkJmd2UwNDUwZk8?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-swiggy-adani-ports-share-price-03-september-2026/liveblog/133723288.cms
+- Kanohar Electricals IPO to open September 8; price band fixed at Rs 601–632
+  Kanohar Electricals will launch its IPO on September 8 with a Rs 601–632 price band. The transformer maker plans to use proceeds
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/kanohar-electricals-ipo-to-open-september-8-price-band-fixed-at-rs-601632/articleshow/133732979.cms
 
-- Lumino Industries shares to debut today; 45% GMP signals strong listing buzz
-  The Rs 700-crore IPO was offered in a price band of Rs 78–Rs 82 per share. The issue comprised a fresh issue of Rs 500 crore, involving 6.10 crore shares, and an offer for sale (O
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lumino-industries-shares-to-debut-today-45-gmp-signals-strong-listing-buzz/articleshow/133723248.cms
+- Bitcoin consolidates around $77,000 as investors assess US interest-rate outlook
+  Bitcoin traded around $77,863 on Thursday as investors weighed improving risk sentiment against uncertainty over US interest rates and upcoming employment data. Analysts said key resistance levels remain crucial, with Bitcoin needing to reclaim
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-consolidates-around-77000-as-investors-assess-us-interest-rate-outlook/articleshow/133732929.cms
 
-- Adobe Acquires Peak XV-Backed AI Martech Startup Rilo
-  Software giant Adobe has acquired Peak XV Partners-backed martech startup Rilo for an undisclosed amount.
-  🔗 https://inc42.com/buzz/adobe-acquires-peak-xv-backed-ai-martech-startup-rilo/
+- Sensex falls 417 points, Nifty closes below 23,900 as market erases all morning gains. What lies ahead?
+  Both the Sensex and Nifty slipped on Thursday. Major corporations like Titan and ITC reported notable share price declines. Contrarily, the broader market displayed resilience.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-417-points-nifty-closes-below-23900-as-market-erases-all-morning-gains-what-lies-ahead/articleshow/133732889.cms
 
-- Alpha Wave Sells Pine Labs Stake Worth ₹550 Cr
-  Alpha Wave has now offloaded more than 3.5 Cr shares of fintech Pine Labs via a&#8230.
-  🔗 https://inc42.com/buzz/alpha-wave-sells-pine-labs-stake-worth-%e2%82%b9550-cr/
+- Glass Wall Systems announces IPO price band for issue opening on September 8. Check details
+  Glass Wall Systems has fixed its IPO price band at Rs 172-182 per share. The Rs 60 crore fresh issue and OFS of up to 2.02 crore shares will fund a glass processing unit.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/glass-wall-systems-announces-ipo-price-band-for-issue-opening-on-september-8-check-details/articleshow/133732867.cms
 
-- [Update] Pernia’s Pop-Up Shop Parent IPO Closes With 1.29X Oversubscription
-  Pernia’s Pop-Up Shop Parent IPO Subscribed 37% On Final Bidding Day.
-  🔗 https://inc42.com/buzz/pernias-pop-up-shop-parent-ipo-subscribed-37-on-final-bidding-day/
+- Global Market: European stocks rise as bond selloff eases; investors await U.S. jobs data
+  European stocks rebounded on Thursday, fueled by a respite in the global selloff of government bonds. While oil prices dipped, they remained high enough to keep inflation concerns alive.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-rise-as-bond-selloff-eases-investors-await-u-s-jobs-data/articleshow/133732839.cms
 
-- AI Infra Provider Yotta Eyes $1.5 Bn IPO By March 2027: Report
-  AI Infra Provider Yotta Eyes $1.5 Bn IPO By March 2027: Report.
-  🔗 https://inc42.com/buzz/ai-infra-provider-yotta-eyes-1-5-bn-ipo-by-march-2027-report/
+- 'Don’t think India, Iran are making deal': Top Trump official on PM Modi meeting Masoud Pezeshkian | India News - hindustantimes.com
+  'Don't think India, Iran are making deal': Top Trump official on PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSERxTEU2ZkRvZlBMQzNrLWdmTUU2MnIxSUpzYmtvTG52VDJzS3pVWDZvNFMzNnViSmQzX3hudjZ6SVljZTFuSHVTM0hpdmF3V2VQSWEyTlo3VWdlNlpnVXFIWGpJdllOekhtVEZBX0ZSMnhVRURqOEdDU2hJdUh5QmpQTWFyNl9tODlqTHRmLXoxTXYybmxvQTBjZl9nTERDUzhCZ0xiOFg4LWZDODhGSXF2UkN5d2hyUmFLMEh4bzBPNW9nc3NGUnE4NVA5MktVWTk1eU5Kbi1yWmIwS01aeHZ5LWU2a0M0TjZ4by12NF9sU1VO0gH6AUFVX3lxTE5SVTJRZUVVLTVKdC1STVFyRF9qVExLQ3ZoYTUzdXBkbkxMMHA4RlktM2Q5cXVsLWt3bS1scEZoQnhxYUF4UjJveXBSRFBfTXZqclpZQmQ2RXppQjBpdFFDRkxGb3YyZ0NtenRyeUNFbDh0dENDUUpScXd0ODNOWGpnNnh6MlptUFQtejMtdUwwQV9OVnBpaTNxZnVzcVZHYlIzZkpZcVBHVkl6d0N0NzEtTnpvcFBFdER5U3o0VEpJWng1bE15S2RKMjFodU83Wl9mZ1NoSEYxeWZKcWw2Smdwc3pwdTh4WU4ydUJXWEZPSW5fd3Q5cWpfS2c?oc=5
 
-- Flipkart Eyes Microdrama Entry Amid Diversification Push
-  Flipkart is now looking to enter the entertainment business with short-form scripted shows, microdramas.
-  🔗 https://inc42.com/buzz/flipkart-eyes-microdrama-entry-amid-diversification-push/
+- "Unbelievable Property": British Man Praises Taj Palace Mumbai, Says India's 5-Star Hotels Rival Dubai, UK - NDTV
+  "Unbelievable Property": British Man Praises Taj Palace
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPY085M3N1ZmhYNXlvdFdWWE5SanlGMUN0dkEwbEQ0ZjZzWnFlY3p5OUxNNlFOOWpIWHZTWi1Cb25NbHVPZ3BlWU1FemxKT0RMUXAxUWROS2hCQVdqSE9qeTQzb3g4ZnJHQ3plWjk5UUdzcGlQbGxDcWtoX0FCUEtqczNGOF9vcVdua2dfaUg4RkdaYXpXRTJZNjFRYVpYX28xTWtVeXNOMENfRTgw0gG0AUFVX3lxTE1BOXR2NXhZandxUURJTVJFZGM5ODlKd3R1aGdTNm14WF9yYXJFRGFoeHdHVHBQaXI0QlhQdmx6NXdKRC1BenhkbjM2ZC1RT2pVcVlkR1pxUzdkb2R0LXpBS1YzOENjbEFscVRwRTVIZHpiOFhaOVFJOVFsUG50WmVTcVhiX19uZGtRNlN0QWphZ0NzU28yWVJmdUQ4ZnFvMGNHaWhJcHBzdWZuZldabDRXYXZYUg?oc=5
 
-- PM Modi's Water Push: "Jal Utsav", AI And Lessons From Other States - NDTV
-  PM Modi's Water Push: "Jal U
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmJBTjlNWGdpMHpMZ3pZNEFEd2x5MF9hUDkxWE5FbzlnaWc3eGZERGY5Rl9vbWJrVjg2ZlNFSC04TnJMeEQtZWxkbzhoZHJkay1pX1BOc0VPR3RtVUJ1Mk84YldraTZqUUthdmRxcktNWkFFemZ0X0tZbmpxVzJEYVZkLWxrZEt0LU1HUDItVFozaGFMMWRDd2RsM2dkSU91M05qZEN30gGuAUFVX3lxTE50RzZnQVFEdkV5ajlMUnNXWGdEVS1RdjFYbHNuWWVvTFVJMFRFbVd6a1JJalNpQ0hFOGY5SGplem15Umswa2xtcnpFTVhXUFdhR1JWYzdjWVpXMXlvR1FsTndWQTF3b3lrLVFrSjZZMk5ISUxHT21FS3RwZV9uOWRnRVVNODNSYklZZG0yUmdZOFFkazVmVFNWUjdUb1JOeHN1aU5aUnRWUmg5QWNmdw?oc=5
+- India is ready to help end war in Ukraine, S. ⁠Jaishankar says - The Economic Times
+  India is ready to help end war in Ukraine, S.
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLWpDT0NrUlNybW4ySDVrSkFFN0xHbGxDZFJ6SV9PVXB5VGJhRUZ2QkpjSkU5N2haV3NLSHA1VERfdWVuS1FMQnY0WUVka1lnOGJKU0hoS2FSSmF4VzRFdkJia1R5UFJobXJCNUQxQlZUM3NiOGxtV3dtaGVhM2lWRHZpWWJSakU1M0d5SjNlbk9FTTQ5YXAtSkk0dDlRbG96ZDE1Qi1PQWNsZVZVdThPOEpIUVRwV0c3WEpuWmhRVXk5aTc4R3VwTjNjdnlEUdIBxwFBVV95cUxPVWMyXzBxNzh0WjlkOV91R2o4YVRoVlRnNmhJa2FVMG1RYWJrRE1STzFJUjVEVmFxRzJ4TFVfdkdWUDNjVFlJLU5vbVRISlE3TGROLXBKMjlOLS1SeWJVY3ZNRXMtdUlkeFltZ21nS2VBc1dNX0xVRVY3Z3F1bkY4VWd0TmpHRHEzUlUyYTA0b3RhdWxOYVRSRVhqdk5menZLQV9rN2R6Qjd6TXJoT3V1a3VBSVhiQVdwZWpNbFR1SFBsVk1MQ1NZ?oc=5
 
-- Odisha: Why Dara Singh, murderer of Christian missionary Graham Staines and his sons, may walk free in India - BBC
-  Dara Singh is accused of murdering Graham Staines and his sons in India.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ektOa1JLenlGbU5KNExDVlduWGF1RTR3LXd3bU1HdTZZVlRsLS1ZbkdZZkU2WFRadEFzSzhJZUdLUEFjWGN0cnc5T1ozMGZSbTdDMFJ6OWpXdw?oc=5
+- EAM Jaishankar says India 'ready to help' end Russia-Ukraine war | India News - hindustantimes.com
+  EAM Jaishankar says India 'ready to
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaERzaWI4c2pHaHFUaGhsRnRRQmFTenpDWURXOEQ2SDJMOGZYQVU4R2dXQnU0MzlFeGt6OEd2SHgtdnhJNlEydjFyZ1dabE1sM2d4UzRZTHl0Mm96dUJnZU9TNGFHUFpfWUNTUzFjYWxaUTY2MWFUU0l2RWdudDlZWExmeTN6SC1pbDhCMnl3MFZLMnVGVUgySGZvU2VndXJ4SlBfeFFCVU5VeWdzNHh2QWhqMVRLdGFoeU5tck1zUXBUWVI3Z0poMTJrbFgtdUxTczhodnp5bjlhdk3SAeABQVVfeXFMTXhVcmVLQU5zY2pkZmdvVjA5YTRFcFF0VU85WnVvdGlOU3hlSy1fSWRXaFp5UGYxM0ZQTElRMlllbTJCajVuR3otNldaZ2NNTG9abXNxMFBFbVAxaEtLYm5hTHRUOUJpbjdwblI5RS1pbU5XQnRhSU9EYUpRaHkxeDRMR3dKamZRbVE1Z1RmcUJ0SF9wTU92TVFQbFRMUS1feVpqcFJwaXJsSjJrNm1sUEdpLXdDcTY3U25rTkVuV2REbTduZ3VuLVI1MTJ6VHRXcHpvckxFTTBkMFB6Mk5ZcGM?oc=5
 
-- Why is India acquiring the Javelin anti-tank missile system? | Explained - The Hindu
-  The Javelin anti-tank missile system is
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNMjhWSDZ5OFQ5QlROanU1aEcyOTVNVlJySXZRZV9xOU1UXzNaelBxSTcwQmExc2lRcWx3SG1vU1hkUXRvRzY3VUNiVkJFY01wVGY2OGFSX1BDdmdhcV9RVWd6TXc0Z09MMDIzdjc1ZnpqdDJiWk1fSmp6anN4Vk94bkFRSDl3TEZKZFlvNTJ2Rl9yTnJVNFUzOVdMdmdnVEJaRDFyRzZnck85czV0UzQ3bmhiYmJKNUtNRzIxSFlvVDFoR2VFbkVJ0gHOAUFVX3lxTE1KZHpkUC1IRG81SFVCeWtSYkhvc09kRmFXWFZkTnZLTE5ZV0owcTdNRXZmQjJjdGcyTzd4NzN2a216UzFmMU5VWkU0QXp5MXQ5RDRNUU1XWHFGLVpMRTItcnlvN1Vaa2JWZnQzamZHdFZXZGdnUERpbjdNZnlKazlvS0REYUVEMW5ZM25zcDRwbTljYmxqRVk5aVlCczNlSnUtWVdJaGxWbnNqX3BJY05wcUx1b0NtWmZqbjZJbi1IV3YtUHRyTEVtbEk0cjRB?oc=5
+- Why Nepal floods should worry India - BBC
+  Why Nepal floods should
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYTZlUGFTMjJFVFBkVlRoUGItYzZTWWI4QTRpdWhvbi1CUm9vZ1J3UlBGT0JRT3FUVkw4elZudkIwMFl6VlE1LXdabFNKSko2MzJ0RXEyYUJjdw?oc=5
 
-- Today News Headlines for School Assembly, September 3, 2026: ISRO all set to launch satellite EOS-05 - The Indian Express
-  Today News Headlines for School Assembly, September 3, 2026: ISRO
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNRmFkbk52M0NnLU1BbWlfRVdoZUQ4REJfWU1KVkt3bmVGMjVMM0EwSmpzbnpXRmNCUC1vTi0wVURNRy12XzNKbnpxLUY5azRVZUNpUmJTLU16bEtQLTZSX1hGMmJLbTRuV2hGcXFnZ1Rub29lOVdVd1p3T2VUU2pocUJFU0J5Y1pVanhCNklWLUtScWVvSVdwejhoYkxLR1dGTEdydzdwbWU3bjVCVEUxMHpWdGtCRFZoTzJUY29MNTcxWWo4a1VJblFRRFlKc09wRDVIcjJXSlBCb2ExSXVPclNtOGM2NHhXdXQ0eE9rRWV5NXNMQkhocnI4ZUw3UkZDdXdqTnhoNkc3TnhXejhxTlVoWUhla1JHQ3fSAaACQVVfeXFMUE9hckFrLXp2M3FCTWlhYnU3UGtqbEFOemE1OGVFUFdnRDlJLVpwdDRLM2xXT2h2RnEwd3Y2MDB0MnE2NmNlQWhYM0VBVnhvYXp6eVNNeDNIaTNIX1puRHZ5TW9Ma3dlcGo4dEtaNnJyeDZYeVhCSy1YLVJZaDQtTmpsWmxmRWJlcUwteHUtS0F0REprQmhDbkJCUUlMM3JSVmc2Y3k3aGVMQmtaX1V6WnNoV1NJRzczSTJiRUVJQmVTOWRoSDlwb3pDaVcwcUJ3c2hJM3hzQS1XbXN1Y0FrRWt4VkFRZlVtYkpYYk41dUd0XzRWRWVrWkZ2R21hb2pENWdjR3kyQVZpV2xoaWZJNjZFM2NtQk5PdjI5Y3EzaXYy?oc=5
+- Everstone Capital-Backed Wingify Ropes In Ex-Dayforce Mehernaz Dalal As CFO
+  SaaS major Wingify has appointed former Dayforce APAC CFO Mehernaz Dalal as its new CFO. Dalal most recently has
+  🔗 https://inc42.com/buzz/everstone-capital-backed-wingify-ropes-in-ex-dayforce-mehernaz-dalal-as-cfo/
 
-- Evening news wrap: Operation Sindoor commander Jeetendra Mishra picked as Ram temple Trust CEO; Nepal see - The Times of India
-  Evening news wrap: Operation Sindoor commander Jeetendra Mishra picked as Ram
-  🔗 https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUkFHVjZXT2ViY2tvcjNyOFI1azdlYVI3QlgweEZlRmM0ZUxXdGxaU2RvdGt0UC1aUnhSYjJHcWxLU0NjRmtNY1QyM3UzTVM5aVRpbFpESXlJUi1GMGlDSXNnai1iMjVnOUYwQ1FzTWpzd1E1NmR5dzBpcFVCSWhrNHk1U1pMWFJDWThmWjg0eGc3bndiRWRGb2xaR2JtNTExc1dDVmVQa2FTVDY4U3VPWDdaaGNQeU8yUEFsY1hHRGRmenAweS1tMW4zR1ZhbVc1XzJCOTR2ZmVOSTkzVmhBZ0ZkZ2Jab0Y4UFo1eGUtcnMzd294eUoxeEw4ZDVpaTVpMjNaSXNILUVKMzNQT3J0ekZXS0F3TC04VGxpeXd6VV9wVnQxcWdlYUVlZlNSU1YzbW41WkVsWWlrLVZIZTJfdmctRnFiVTVH0gHOAkFVX3lxTE5qeGV4VnNVMjFFWFJ5MlhIY2VHcUtaZ212ZDNkc2R6TE9lNlVLRHJhaDJyMGhwRDhlZ2VDZVZzbjgtZ2RzdnlMbmEwb2FuUm96Y2h5V1FaeWx6REJBSUMxQUJZbHBTV185QnktZHdyWGdnMFBRU0d4MExzeTlvci10bV9tcEtzNHFGYUNOaVphVXZzMWFaNl9EQ1RFc2QtZEhnQzIzLWNPMGRUWU9tWV8xTlprcTdDOFFHOXFxT3l0cXE0Z3RvZklkMVpzN0hCWmtlVkc2dXlfRXFBVmJQcm9XUGJ2aGgtTHpxVGNFZDlpTmk2Q3VwTWxkTTY3cDNVYUJXOEtraDQ2LUtPdVRLME5kclpraVd4MUdRVWtRUTFCdlhNR3p0NmpteHRjamhQZTAxTExQSTlBc09vcHAyTUxfQUQwOGZab3lJVG1QbGc?oc=5
+- Simple Energy Catches The Mass-Market Wave
+  After years of chasing premium and performance-focused buyers, EV startups are now setting their sights on the mass market.
+  🔗 https://inc42.com/features/simple-energy-catches-the-mass-market-wave/
+
+- NCLT Orders Status Quo On BYJU’S Assets Sold For ₹16 Cr
+  The NCLT has directed the resolution professional (RP) of BYJU’s parent Think and Learn Pvt Ltd (TL
+  🔗 https://inc42.com/buzz/nclt-orders-status-quo-on-byjus-assets-sold-for-%e2%82%b916-cr/
+
+- D2C Smart Crib Brand Cradlewise Raises $12 Mn To Expand Product Portfolio
+  D2C smart crib brand Cradlewise has raised $12 Mn in a Series A funding round.
+  🔗 https://inc42.com/buzz/d2c-smart-crib-brand-cradlewise-raises-12-mn-to-expand-product-portfolio/
+
+- The Ayurveda Co Shuts Down After Overexpansion Derails Business
+  D2C ayurvedic beauty and personal care brand The Ayurveda Co (T.A.C) has shut down.
+  🔗 https://inc42.com/buzz/the-ayurveda-co-shuts-down-after-overexpansion-derails-business/
+
+- 'Don’t think India, Iran are making deal': Top Trump official on PM Modi meeting Masoud Pezeshkian | India News - hindustantimes.com
+  'Don't think India, Iran are making deal': Top Trump official on PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSERxTEU2ZkRvZlBMQzNrLWdmTUU2MnIxSUpzYmtvTG52VDJzS3pVWDZvNFMzNnViSmQzX3hudjZ6SVljZTFuSHVTM0hpdmF3V2VQSWEyTlo3VWdlNlpnVXFIWGpJdllOekhtVEZBX0ZSMnhVRURqOEdDU2hJdUh5QmpQTWFyNl9tODlqTHRmLXoxTXYybmxvQTBjZl9nTERDUzhCZ0xiOFg4LWZDODhGSXF2UkN5d2hyUmFLMEh4bzBPNW9nc3NGUnE4NVA5MktVWTk1eU5Kbi1yWmIwS01aeHZ5LWU2a0M0TjZ4by12NF9sU1VO0gH6AUFVX3lxTE5SVTJRZUVVLTVKdC1STVFyRF9qVExLQ3ZoYTUzdXBkbkxMMHA4RlktM2Q5cXVsLWt3bS1scEZoQnhxYUF4UjJveXBSRFBfTXZqclpZQmQ2RXppQjBpdFFDRkxGb3YyZ0NtenRyeUNFbDh0dENDUUpScXd0ODNOWGpnNnh6MlptUFQtejMtdUwwQV9OVnBpaTNxZnVzcVZHYlIzZkpZcVBHVkl6d0N0NzEtTnpvcFBFdER5U3o0VEpJWng1bE15S2RKMjFodU83Wl9mZ1NoSEYxeWZKcWw2Smdwc3pwdTh4WU4ydUJXWEZPSW5fd3Q5cWpfS2c?oc=5
+
+- "Unbelievable Property": British Man Praises Taj Palace Mumbai, Says India's 5-Star Hotels Rival Dubai, UK - NDTV
+  "Unbelievable Property": British Man Praises Taj Palace
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPY085M3N1ZmhYNXlvdFdWWE5SanlGMUN0dkEwbEQ0ZjZzWnFlY3p5OUxNNlFOOWpIWHZTWi1Cb25NbHVPZ3BlWU1FemxKT0RMUXAxUWROS2hCQVdqSE9qeTQzb3g4ZnJHQ3plWjk5UUdzcGlQbGxDcWtoX0FCUEtqczNGOF9vcVdua2dfaUg4RkdaYXpXRTJZNjFRYVpYX28xTWtVeXNOMENfRTgw0gG0AUFVX3lxTE1BOXR2NXhZandxUURJTVJFZGM5ODlKd3R1aGdTNm14WF9yYXJFRGFoeHdHVHBQaXI0QlhQdmx6NXdKRC1BenhkbjM2ZC1RT2pVcVlkR1pxUzdkb2R0LXpBS1YzOENjbEFscVRwRTVIZHpiOFhaOVFJOVFsUG50WmVTcVhiX19uZGtRNlN0QWphZ0NzU28yWVJmdUQ4ZnFvMGNHaWhJcHBzdWZuZldabDRXYXZYUg?oc=5
+
+- India is ready to help end war in Ukraine, S. ⁠Jaishankar says - The Economic Times
+  India is ready to help end war in Ukraine, S.
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLWpDT0NrUlNybW4ySDVrSkFFN0xHbGxDZFJ6SV9PVXB5VGJhRUZ2QkpjSkU5N2haV3NLSHA1VERfdWVuS1FMQnY0WUVka1lnOGJKU0hoS2FSSmF4VzRFdkJia1R5UFJobXJCNUQxQlZUM3NiOGxtV3dtaGVhM2lWRHZpWWJSakU1M0d5SjNlbk9FTTQ5YXAtSkk0dDlRbG96ZDE1Qi1PQWNsZVZVdThPOEpIUVRwV0c3WEpuWmhRVXk5aTc4R3VwTjNjdnlEUdIBxwFBVV95cUxPVWMyXzBxNzh0WjlkOV91R2o4YVRoVlRnNmhJa2FVMG1RYWJrRE1STzFJUjVEVmFxRzJ4TFVfdkdWUDNjVFlJLU5vbVRISlE3TGROLXBKMjlOLS1SeWJVY3ZNRXMtdUlkeFltZ21nS2VBc1dNX0xVRVY3Z3F1bkY4VWd0TmpHRHEzUlUyYTA0b3RhdWxOYVRSRVhqdk5menZLQV9rN2R6Qjd6TXJoT3V1a3VBSVhiQVdwZWpNbFR1SFBsVk1MQ1NZ?oc=5
+
+- EAM Jaishankar says India 'ready to help' end Russia-Ukraine war | India News - hindustantimes.com
+  EAM Jaishankar says India 'ready to
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaERzaWI4c2pHaHFUaGhsRnRRQmFTenpDWURXOEQ2SDJMOGZYQVU4R2dXQnU0MzlFeGt6OEd2SHgtdnhJNlEydjFyZ1dabE1sM2d4UzRZTHl0Mm96dUJnZU9TNGFHUFpfWUNTUzFjYWxaUTY2MWFUU0l2RWdudDlZWExmeTN6SC1pbDhCMnl3MFZLMnVGVUgySGZvU2VndXJ4SlBfeFFCVU5VeWdzNHh2QWhqMVRLdGFoeU5tck1zUXBUWVI3Z0poMTJrbFgtdUxTczhodnp5bjlhdk3SAeABQVVfeXFMTXhVcmVLQU5zY2pkZmdvVjA5YTRFcFF0VU85WnVvdGlOU3hlSy1fSWRXaFp5UGYxM0ZQTElRMlllbTJCajVuR3otNldaZ2NNTG9abXNxMFBFbVAxaEtLYm5hTHRUOUJpbjdwblI5RS1pbU5XQnRhSU9EYUpRaHkxeDRMR3dKamZRbVE1Z1RmcUJ0SF9wTU92TVFQbFRMUS1feVpqcFJwaXJsSjJrNm1sUEdpLXdDcTY3U25rTkVuV2REbTduZ3VuLVI1MTJ6VHRXcHpvckxFTTBkMFB6Mk5ZcGM?oc=5
+
+- Why Nepal floods should worry India - BBC
+  Why Nepal floods should
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYTZlUGFTMjJFVFBkVlRoUGItYzZTWWI4QTRpdWhvbi1CUm9vZ1J3UlBGT0JRT3FUVkw4elZudkIwMFl6VlE1LXdabFNKSko2MzJ0RXEyYUJjdw?oc=5
+
+- 'Don’t think India, Iran are making deal': Top Trump official on PM Modi meeting Masoud Pezeshkian | India News - hindustantimes.com
+  'Don't think India, Iran are making deal': Top Trump official on PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSERxTEU2ZkRvZlBMQzNrLWdmTUU2MnIxSUpzYmtvTG52VDJzS3pVWDZvNFMzNnViSmQzX3hudjZ6SVljZTFuSHVTM0hpdmF3V2VQSWEyTlo3VWdlNlpnVXFIWGpJdllOekhtVEZBX0ZSMnhVRURqOEdDU2hJdUh5QmpQTWFyNl9tODlqTHRmLXoxTXYybmxvQTBjZl9nTERDUzhCZ0xiOFg4LWZDODhGSXF2UkN5d2hyUmFLMEh4bzBPNW9nc3NGUnE4NVA5MktVWTk1eU5Kbi1yWmIwS01aeHZ5LWU2a0M0TjZ4by12NF9sU1VO0gH6AUFVX3lxTE5SVTJRZUVVLTVKdC1STVFyRF9qVExLQ3ZoYTUzdXBkbkxMMHA4RlktM2Q5cXVsLWt3bS1scEZoQnhxYUF4UjJveXBSRFBfTXZqclpZQmQ2RXppQjBpdFFDRkxGb3YyZ0NtenRyeUNFbDh0dENDUUpScXd0ODNOWGpnNnh6MlptUFQtejMtdUwwQV9OVnBpaTNxZnVzcVZHYlIzZkpZcVBHVkl6d0N0NzEtTnpvcFBFdER5U3o0VEpJWng1bE15S2RKMjFodU83Wl9mZ1NoSEYxeWZKcWw2Smdwc3pwdTh4WU4ydUJXWEZPSW5fd3Q5cWpfS2c?oc=5
+
+- "Unbelievable Property": British Man Praises Taj Palace Mumbai, Says India's 5-Star Hotels Rival Dubai, UK - NDTV
+  "Unbelievable Property": British Man Praises Taj Palace
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPY085M3N1ZmhYNXlvdFdWWE5SanlGMUN0dkEwbEQ0ZjZzWnFlY3p5OUxNNlFOOWpIWHZTWi1Cb25NbHVPZ3BlWU1FemxKT0RMUXAxUWROS2hCQVdqSE9qeTQzb3g4ZnJHQ3plWjk5UUdzcGlQbGxDcWtoX0FCUEtqczNGOF9vcVdua2dfaUg4RkdaYXpXRTJZNjFRYVpYX28xTWtVeXNOMENfRTgw0gG0AUFVX3lxTE1BOXR2NXhZandxUURJTVJFZGM5ODlKd3R1aGdTNm14WF9yYXJFRGFoeHdHVHBQaXI0QlhQdmx6NXdKRC1BenhkbjM2ZC1RT2pVcVlkR1pxUzdkb2R0LXpBS1YzOENjbEFscVRwRTVIZHpiOFhaOVFJOVFsUG50WmVTcVhiX19uZGtRNlN0QWphZ0NzU28yWVJmdUQ4ZnFvMGNHaWhJcHBzdWZuZldabDRXYXZYUg?oc=5
+
+- India is ready to help end war in Ukraine, S. ⁠Jaishankar says - The Economic Times
+  India is ready to help end war in Ukraine, S.
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLWpDT0NrUlNybW4ySDVrSkFFN0xHbGxDZFJ6SV9PVXB5VGJhRUZ2QkpjSkU5N2haV3NLSHA1VERfdWVuS1FMQnY0WUVka1lnOGJKU0hoS2FSSmF4VzRFdkJia1R5UFJobXJCNUQxQlZUM3NiOGxtV3dtaGVhM2lWRHZpWWJSakU1M0d5SjNlbk9FTTQ5YXAtSkk0dDlRbG96ZDE1Qi1PQWNsZVZVdThPOEpIUVRwV0c3WEpuWmhRVXk5aTc4R3VwTjNjdnlEUdIBxwFBVV95cUxPVWMyXzBxNzh0WjlkOV91R2o4YVRoVlRnNmhJa2FVMG1RYWJrRE1STzFJUjVEVmFxRzJ4TFVfdkdWUDNjVFlJLU5vbVRISlE3TGROLXBKMjlOLS1SeWJVY3ZNRXMtdUlkeFltZ21nS2VBc1dNX0xVRVY3Z3F1bkY4VWd0TmpHRHEzUlUyYTA0b3RhdWxOYVRSRVhqdk5menZLQV9rN2R6Qjd6TXJoT3V1a3VBSVhiQVdwZWpNbFR1SFBsVk1MQ1NZ?oc=5
+
+- EAM Jaishankar says India 'ready to help' end Russia-Ukraine war | India News - hindustantimes.com
+  EAM Jaishankar says India 'ready to
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaERzaWI4c2pHaHFUaGhsRnRRQmFTenpDWURXOEQ2SDJMOGZYQVU4R2dXQnU0MzlFeGt6OEd2SHgtdnhJNlEydjFyZ1dabE1sM2d4UzRZTHl0Mm96dUJnZU9TNGFHUFpfWUNTUzFjYWxaUTY2MWFUU0l2RWdudDlZWExmeTN6SC1pbDhCMnl3MFZLMnVGVUgySGZvU2VndXJ4SlBfeFFCVU5VeWdzNHh2QWhqMVRLdGFoeU5tck1zUXBUWVI3Z0poMTJrbFgtdUxTczhodnp5bjlhdk3SAeABQVVfeXFMTXhVcmVLQU5zY2pkZmdvVjA5YTRFcFF0VU85WnVvdGlOU3hlSy1fSWRXaFp5UGYxM0ZQTElRMlllbTJCajVuR3otNldaZ2NNTG9abXNxMFBFbVAxaEtLYm5hTHRUOUJpbjdwblI5RS1pbU5XQnRhSU9EYUpRaHkxeDRMR3dKamZRbVE1Z1RmcUJ0SF9wTU92TVFQbFRMUS1feVpqcFJwaXJsSjJrNm1sUEdpLXdDcTY3U25rTkVuV2REbTduZ3VuLVI1MTJ6VHRXcHpvckxFTTBkMFB6Mk5ZcGM?oc=5
+
+- Why Nepal floods should worry India - BBC
+  Why Nepal floods should
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYTZlUGFTMjJFVFBkVlRoUGItYzZTWWI4QTRpdWhvbi1CUm9vZ1J3UlBGT0JRT3FUVkw4elZudkIwMFl6VlE1LXdabFNKSko2MzJ0RXEyYUJjdw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-03 02:37:19 UTC_
+_Last updated: 2026-09-03 10:37:09 UTC_
