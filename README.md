@@ -1,224 +1,104 @@
 # 📰 Daily News Summaries
 
-- 'Don’t think India, Iran are making deal': Top Trump official on PM Modi meeting Masoud Pezeshkian | India News - hindustantimes.com
-  'Don't think India, Iran are making deal': Top Trump official on PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSERxTEU2ZkRvZlBMQzNrLWdmTUU2MnIxSUpzYmtvTG52VDJzS3pVWDZvNFMzNnViSmQzX3hudjZ6SVljZTFuSHVTM0hpdmF3V2VQSWEyTlo3VWdlNlpnVXFIWGpJdllOekhtVEZBX0ZSMnhVRURqOEdDU2hJdUh5QmpQTWFyNl9tODlqTHRmLXoxTXYybmxvQTBjZl9nTERDUzhCZ0xiOFg4LWZDODhGSXF2UkN5d2hyUmFLMEh4bzBPNW9nc3NGUnE4NVA5MktVWTk1eU5Kbi1yWmIwS01aeHZ5LWU2a0M0TjZ4by12NF9sU1VO0gH6AUFVX3lxTE5SVTJRZUVVLTVKdC1STVFyRF9qVExLQ3ZoYTUzdXBkbkxMMHA4RlktM2Q5cXVsLWt3bS1scEZoQnhxYUF4UjJveXBSRFBfTXZqclpZQmQ2RXppQjBpdFFDRkxGb3YyZ0NtenRyeUNFbDh0dENDUUpScXd0ODNOWGpnNnh6MlptUFQtejMtdUwwQV9OVnBpaTNxZnVzcVZHYlIzZkpZcVBHVkl6d0N0NzEtTnpvcFBFdER5U3o0VEpJWng1bE15S2RKMjFodU83Wl9mZ1NoSEYxeWZKcWw2Smdwc3pwdTh4WU4ydUJXWEZPSW5fd3Q5cWpfS2c?oc=5
+- HDB region emerging as promising tech, manufacturing, investment corridor: Karnataka Minister - The Hindu
+  HDB region emerging as promising tech, manufacturing,
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPdS1jSmNkRVNZMEZ4T1A1Yklwb0htd01oTlNwUEYtUzVJMVBzUFhNSUdJSzdaRDN2UTJ2aUVSVTBORm5LYWhTNFU2S25jU1RILXdIc3lka2dEaGNuQTZROGstWnVxLWRPNDBJbjVYZ1B6SU9aY0R2SDRVSmpnY3lXLWZmcEpfU1d4eXIyalgwVnhETnpWSWt2WjRWUEFOdERIb0Fza0hocU5IZGFxYXBPRW1vM2RDZmMyck9NVkdYZDNvX1cyV0libzhweXNnLW5WSlg0cF9nRWFGT3pnRnV4RGFWZ1A2dkFlT0FEZ2tpWmQwalprejFFc3lfaHlmX1E2MThDM1pUTjVhN19L0gGTAkFVX3lxTE1vZ0dKdG4zM0paT1JFblNTWnc4cVo5WVlfWlgyWG95VGd3MDBMTGx4QkRSUWtwSjNWeWlja2QwVDF4aFdHeTJkX2cyVXNjUFVzY3ZwUnF1WkhjdmRVdW13aU5yVExuRU5yY1BtdGhiSURyNE5uTGtFZjF3TExhd2xRYzJQbDlFbjFLb0x5d0RVSVNxV1pfTGpNeWQzXzdJS2NCdEs2ZE5hNDJPaFo3VVE4Q3o3ZTZHc2ZsbzNRaFZjekU4NFF5cjdVeWpESHkySXN2SUxFNVNHNFNYcVFoNWVrQ19QTXpFWXVhVU55MkV2VXRKTXQ5S1VRLXJPRV9uZUxIdVFzM05STWlGcHhkSEE3Z1hF?oc=5
 
-- India News Highlights, 3 September 2026| TMC MPs get time till September 22 to respond to defection petition - The Indian Express
-  TMC MPs get time till September 22 to respond to defection petition.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNS1ES3RjeWdaSEhUZEI5ZUVmSnpnWURZNHJwVzFkQVhzVUdKSjFlakRaa3RZOVFaZXZTMTJJM0tianRXTVU3a255Nl9sX2dPbi1iWkpjNy1qaHNDcVMyeGVGbG1kanZ5X0lqb3JUeW9XUklBb0htRExpTzQ2a2NtejVwMXNwYlJXRWVDWWdINmlfSGRDaUR4SnJrbUlHVzc4REVndG1KZHBiUDFJN3A5alQ1SWktWm1oQ2RPbWNzaXNnUWtRRFJkeWFYZC11YzU2ZkYteTZXb2RJNExpLUdzM1RhTjdMVjBHUkHSAfABQVVfeXFMUEpkT1ZCODZSWUlkZ1RWYS1HaUdDZ3Bma3dMZDlmUkVSMmMyYVp0Q1JoekxiTXdpdkdCWl8xOE1QWXUxYVA3cmE0eDhJS09xYmw0alNPTFlKMGRORkk1RFFGbzZsYU45dW9lZTBtcE1GYU9zNU1iY0xzT0lHc3Y5OUhCcWd1bUxkOVZ5NnFzc19UWERkU1g1aFp0cmZIZklTUDlYRVlQVDQwVGVtNEdUY3c2T3JwMGE4QlluckFjSGNYRF9rZlJTcWd5U2hVMlVyajI4a2E0eVY0OW54Wi0ybzNlMnNxdW5NVk9mSzZlRUJF?oc=5
+- South Florida teens are using pizza and technology to fight hunger in America: Delivered 25,000 slices to - The Times of India
+  South Florida teens are using pizza and technology to fight hunger in America. Delivered 25,
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOeEozcTlOMjE0TEQxQk5Ld28xZy1rdmlTczRYdXdWbEcyM1NiV1FTbFIyZmtjNjRDSFhwU3JPOTMtNnpJSngwUDh5ajhTbTBTbi1FTDBMU2V6M1JvT0hNb3NFNmktRzBHS0NidkVXV2JPdDVjQU1fZjdHeWNYaC12NTU5UERwMG42bnpieUhkV0YyY3hRaGxDZ2VYZVJKQlQ2aVJQVHlZYmtvSlR0MjEwZmpuUFFEYmNFLVZGVHBLQWJ0VXJZN2lvZWJVLXBlZzJVNFpPc0JVVDFZQzNVTENrdk5QTDFfSGpPeXBHMFVHRS1LWWliVmVnaXZZS3J1MmJKMDR3YnJWTGphXzJHaXBnVGlaTHkwbENMeU1j0gGgAkFVX3lxTE1ndHNfQVprOU9VN042cWJjaUZmX01KdVFPWVh1ZHhkWk1aUllNNFlOam9TWUNjT0dFTkNWZU1PYU9wblVsQS1TZ3pkWVpxX0Z0OTNvajlVUGNYYkN4eXMxcHBrUTVJX3BIRjdRS0R3eGFMUGVaam10Wk5NNWlhZEdOYl9YS3JzdDBRMW44bkFFcUs0aGRscVlHUlVGNExIOUhMejB5S1lIbWZFLVlLMVZsWFdXNDA2V1Q0VjdmRVEzNUZOQ01PLWgtbmpUbXNWOW1lUTNvS3Q5c0JENDdpODEyUkp0d1dCMHFDTWs0cjBYSkdtMEE1SmZFLVhhQ1kxMGdvV0dXd2hfR1pnMm5TR2Z0M2x2OHRvY0Rhb2FVWDhNVw?oc=5
 
-- 100% chance of El Nino lasting till Feb next year, India may see warmer winter | India News - hindustantimes.com
-  100% chance of El Nino lasting till Feb next year, India may see
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUGZGZzBiSThCRWU1QzFFMU1lWkFMUjVwNnBLS3BaWlBNdERVV0Q5el9rT2dNSTdqR0hRVTNLNjhPcHhXZXFzVGVlQlAyWlk5M05UZ3NyTTNOSWdIbjhmdUlXQlVYNDVHWjVCTUI4bGdJY05UR3FFUHlLZUdDZ0FHYWRFeHJvQzZCdkJqQmtYa052RE43eUV2bGtQWFJKRGlOT2o1V1FwREp6bTdpazY2c0lZMGp6Sy1PMTd1X05pYzE1QzFCQS1QdFNTUkdhOXQtSTlLTW1aUDhYUDdIOTd6aUh0NEdQRGFjOUxjb011RWJ6U19uYW5qbHRrdXBqNjFhVDF2a09KMljSAY4CQVVfeXFMTjkwUXdpTHZWb2lfZ05qb0pEa1liZkZ1U3gyQVpPT00ydVlJSGdhTGJvcVZndzJIM09iaFAzSTFpTFk4LTN4RlFQeVZabEtLSFAwUHF0bkZxd1gxT0dOdmlGZFl1cFJfNjRiWlRBUThiU1BpbWx0NDhkeHJiaGZ2cVJsR3pkQWFYemVfcXRZR0U2MmR0ZHpRMEJWTUVjM0RZWGtVb2VBTjhYT29KVzBReFJ3T1RxYUxxVEhaR0RVeEtNOElvM3RtSFQ1Tmt4SDZBN2pEQjhjOEMtbFZlaWhyQ2tkQk9MaE05cnFrM1NuYWFiRkd0OTRma2JNNzlLbWE5VHBTbUFDcnE1cWxyTmd3?oc=5
+- In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules - nytimes.com
+  Google won't have to break up its ad tech business, court
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE54SXBLXzJKcERSbmdjRXIwRmF6ZTgyUkl6VmpWbjFTSGNzZlFwRW5VRE9STVJSVnFsVG5zT2JCREZRMnZUXzU5MkZvOTJudDUtRUkyOUFaY2xiVnR6SU9Sa05jN3RBQ1lhLTl4ZzFjN1Y0d3Zfd19oLXQ2R1BvSzg?oc=5
 
-- Govt reveals when it will seal India-US deal: ‘Waiting for comparative tariff advantage’ | India News - hindustantimes.com
-  Govt reveals when it will seal India-US deal: ‘
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSmZIOE9YNHktUGhWS3AyRnkxTWZtVml1MXlocUhQOGljYlJBMzc4QVptU0xhZjZaQ3Y5ZlhUNTVJRHJUZ0pXSXA2X3hQaFRXeGlURE9Na1NCZlJOT0NESlpCaGQwdG01TllZNmVVS3ZMMnhsN3o5R1pBU1UxT0ZIanRBSUx2Zmx5THh6aVZuVk5oR0hWSlRBT0phQTdGc04tT0FjaWdfZll5aVhMVXJEeEhFSHlkWEpiUy1qNzVMdDE5ekxraDVfdnIzRE41eTBhWHNwZGNRM01CY2dGcFFqZmJR0gHnAUFVX3lxTE1RM0lvVmVfdGYzTVJZeW90ZGpIYTh5SGItMUFoQnNFaUt0ek95d1pObmxEdC05Y0RlTGwzcXhiQlBRaW5tZENCUTRTSzVqeEdKalZULUZCSEdHdkJIWGtDaUZ1OGNvOFdES0NoeVdDX0M3N0dNdk1acnNQeXdELURyRjB5Ni01UXhIY1JTY3ZmaTdEbktNR2RWOElMalQ4WERDa0pyLTJrRlY3VFZkNVdWTkZld2t4SnhmSlg5TzRpS3RiczY0SFktcHQtVVhEY29HNEMzUDhDNm5uQVJqUkRIUjNBUnc5WQ?oc=5
-
-- Can 'Naughty Boy' Help Redeem ISRO's 'Lost' Sheen? Big Launch Tonight - NDTV
-  'Naughty Boy' will be the first
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnRjTEpOOVUyWk16aXpoVUlHaFByWFNVRklmeEF0VGNRRTJZVnlPYUNOZVlxUFlEeHM5UXpkckRTd1BqWlJpOGpOVGQ2OUpydmoxSlk1RjUycThWb1NubjNGVnVZU3ZjRGNkSDRYby1KRGx4V0tHaDFtZHdxUHkzeTFHcWVraTdaeDBqanhBT2dZRWtkMExYeDlxY2ZqVVpWbjVOSW0xT1U2R3hpaEdmcXU5MljSAbwBQVVfeXFMTVp6cDlGTDRKN0RkaWZTQl9lTVBQXzVsUzUxWElILVpIWU9rdkVXRkdhck9zUE55ek5qY0lxTmRzdnF6UVZPSll4ZWZGMi05MENtRUNJVnVSRmx0WEdwY1JsVGhGQ1lScGJrb0xtZ3BXTkwyeEhodG9EREszUmVXUHZkUHppaTIyS3dBSWVRY3p1YW9KaFU0eUV4ZXB0VTlHQWpRbDE5clUtYWFLZ3VGZmJnaWwxdE03WDNJUUY?oc=5
-
-- BASF accuses Apple of infringing patents behind Face ID technology - The Economic Times
-  BASF accuses Apple of infringing patents behind Face
-  🔗 https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUWEtYWpwT0dnU3JoR1JGamlWY0pGMGZ4VjhZSjlWVjBwRk9WaWVpQThZMUFoYzc1SExrWFZtb2RRZ0FKQjMxX3B1VkhRSVd5Y0loWTVVLUR0TjlQMTk1SXctemtiMHdKN1JhRjg1NUY5X1FMWHdHQmVBT3VNOVlrcEJ6QUxXVmkwWXpLZ3F5c2t3T01kYUJpOHRiVmhWQVdxalliUGVveUY4MVdQcTVuQzZQMndnM2JNT0VhZFhvMU16VVNIQUFnWE1lOGlYRS1ycnNCOXVQcFRLWWhreFdFMzlMOFZCMVExUjRfSTlVM09CaVNNeWIwSUJFZTZlZjVxRWNBYm00Z2xKRE5UMy14bjUteVF0ZEdBT01BckxvTFUwdEdTVk54dDREZTRib1ZRWFpaeGMzTlhuM2xwMFltOUdQNE1yckRfX0NfeVJEd1NDdw?oc=5
-
-- HDB region emerging as technology and advanced manufacturing hub, says KDEM CEO - The Hindu
-  HDB region emerging as technology and advanced manufacturing hub,
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxORDlZcDVMY0J3ZjF4bGNhcUlUVk9tTDgxckx3ZlJOc3RhelN0NXB0cDU1UHZxejNLN1NMaU91XzJvMHp2eEFrLTJZSE0xLTlsMlprRTM2bVU0bzMyMmFzdEZrYmFYaGEzMG85bDRJRVBuRFgzQUdNSlNud29XTUxXVUtXekIxYnMwdkg5RFRFZ1lOYU1oTXp3WEhuVGdrX2dnZHlyTjE0S0dfS0pWR0x3MS1LYV9CdFp2Z2JMZFFYZUFVU1pZcGFreHNJVHBOM1NWeGlXRnA2WVAxckZzaWk5RtIB5wFBVV95cUxOOGtoWU1SMWNyT19kbHFuOEFMRVh1OVBETHlUdXZZdGQxV1JfVXVxTkduZWxGdXd5LWlsS0c4ZFlNTFB4d1FhamcwalpJZXdUajVlT1V6MDJUelFISXRJN1pLWHRpQ0k5QlRvQkdaOWtKWHNROGJCOVdEUmlDV2ZMMzI3TGVndW5URmR6aDlaMzJ2UXROSGFheUp3MkxzRnVwMjJoMDJ0WlZDRGg4WkJySFlSd184LXZpQS1WUVl2TF9jRGExLUdnUFFSU2NTTjFlSk0tdnVJNUQyNUsxZ1FZcVFHalhJdTA?oc=5
-
-- About the Assisted Reproductive Technology (Regulation) Act, 2021 - Vajiram & Ravi
-  About the Assisted Reproductive Technology (
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQOThOZEtPNnZnV2l1bjQ4ZF9SN1lPUFdzQy1Rc1h6V0JHS1R4QmlwY2hzcU1tYnJCc0N6WUhiVzZESDlibDVLanFJSTFiX0pKSnNoSzVMLVpTcGJTQk1WTmdnRE00TE5hcmJYZ09DYXlOVWVRZGR3MHpmMGZUd2VxWWJXMFB3Wkp2ZERHcV9ZbzdCaGpGcEllcEJ5VVg?oc=5
-
-- Nvidia Buys Hugging Face in $12.9 Billion Deal - The New York Times
-  &nbsp;&n.bsp;
-  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5
+- Adolescent Girls in the Digital Spaces: Technology-Facilitated GBV Risk Assessment (September 2026) - ReliefWeb
+  Adolescent Girls in the Digital Spaces: Technology-
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNdEo2eEdrX0trN0ljemZwbU1QRm5WRl9tYkhFTXE1amxzWTBNN3BrckkwVVU1a0NmcFVacV81OWNOcW5mRXp0dGd1Z01STU10UUFLZlV5Q1htU1dzMjV1T2JOWWpCWFRLQ0RMVVN6anhOTUFFZUtLTGlDWnNWUzNreDJ4SmlIcHVlLXlSNzEta1FkTl9aT0JManAyZEVYbkVnU0EtdnFjWHBjekVWQVZCQ0dGNThRUVREaEJscE1QcTExZWNF?oc=5
 
 - How AI plotted an interstellar journey to Alpha Centauri - MIT Technology Review
   How AI plotted an interstellar journey to Alpha Centauri
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3N0UC1MZGJFSEQzeEEwbThyM0lNM1V6NTBXVXNhTWxBUUxUeWw5YkhEelRXaDdCdUNLS0hBd3dJRmtMS094ZUlLRURoOUtZUUxZaEJsaEpQM2JjNTI3enY5WDVrd0t2QlRjanpXYUN0dXZZVkJUc1VkVTlLbFhSeGs5NGZuR0FWLXBkc2oxbUhSS0ZpdHfSAZsBQVVfeXFMTklmRWxtRDJ4Y1VRV2o2Wjc2T3RFTnZWU3I1bkxQZjFONkxuS3VaejRJYmk4emRKemNaRWNxTWxHTFUxTWw4Z0FRd0M0aWhUUlgzOHNNTWI5dG5VUHpYNkRFSGZlcVFYV2pRUThqdjQ0ZEtpdThvTEZCRU1pQ3B2emJqdG1vWDA1ZmlpanpHLTkxRzRiSkQtX0tyOVE?oc=5
 
-- Why is Jensen Huang-led Nvidia acquiring AI platform Hugging Face for $12.9 billion? Here's what we know
-  Chipmaker Nvidia is acquiring AI platform Hugging Face for $12.9 billion. Nvidia is seeking to strengthen its position
-  🔗 https://www.livemint.com/companies/news/why-is-jensen-huang-led-nvidia-acquiring-ai-platform-hugging-face-for-12-9-billion-heres-what-we-know-11788488318681.html
+- India GDP: Q1 growth defies oil shock but data faces credibility questions - bbc.com
+  India GDP: Q1 growth defies oil shock
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybS1BMjM5bndaZmFDVFlZRDhlTGoxMVNfeGJVOV9PYzZxUjUwcnhHbS1nMVNrcno3NUg3dEhpMG1WZURjYzBaWlk1WkhKMDJnWDBwekpNY3B1UQ?oc=5
 
-- Volkswagen board approves 50,000 additional job cuts, on top of 50,000 already under way
-  Volkswagen says it will cut around 50,000 positions worldwide. This is in addition to a 50,00-job reduction already under way
-  🔗 https://www.livemint.com/companies/news/volkswagen-says-board-approves-overhaul-that-calls-for-50-000-additional-job-cuts-11788483540994.html
+- A strong El Nino is inevitable — history shows its effects will hit hardest in 2027 | Hindustan Times - Hindustan Times
+  A strong El Nino is inevitable. History shows its effects will hit hardest in 2027
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUGZGZzBiSThCRWU1QzFFMU1lWkFMUjVwNnBLS3BaWlBNdERVV0Q5el9rT2dNSTdqR0hRVTNLNjhPcHhXZXFzVGVlQlAyWlk5M05UZ3NyTTNOSWdIbjhmdUlXQlVYNDVHWjVCTUI4bGdJY05UR3FFUHlLZUdDZ0FHYWRFeHJvQzZCdkJqQmtYa052RE43eUV2bGtQWFJKRGlOT2o1V1FwREp6bTdpazY2c0lZMGp6Sy1PMTd1X05pYzE1QzFCQS1QdFNTUkdhOXQtSTlLTW1aUDhYUDdIOTd6aUh0NEdQRGFjOUxjb011RWJ6U19uYW5qbHRrdXBqNjFhVDF2a09KMljSAY4CQVVfeXFMTjkwUXdpTHZWb2lfZ05qb0pEa1liZkZ1U3gyQVpPT00ydVlJSGdhTGJvcVZndzJIM09iaFAzSTFpTFk4LTN4RlFQeVZabEtLSFAwUHF0bkZxd1gxT0dOdmlGZFl1cFJfNjRiWlRBUThiU1BpbWx0NDhkeHJiaGZ2cVJsR3pkQWFYemVfcXRZR0U2MmR0ZHpRMEJWTUVjM0RZWGtVb2VBTjhYT29KVzBReFJ3T1RxYUxxVEhaR0RVeEtNOElvM3RtSFQ1Tmt4SDZBN2pEQjhjOEMtbFZlaWhyQ2tkQk9MaE05cnFrM1NuYWFiRkd0OTRma2JNNzlLbWE5VHBTbUFDcnE1cWxyTmd3?oc=5
 
-- Carrefour changes India playbook, eyes 50 stores in second innings
-  Carrefour has re-entered the Indian market after a decade, adopting a new
-  🔗 https://www.livemint.com/companies/news/carrefour-changes-india-playbook-eyes-50-stores-in-second-innings-expansion-quick-commerce-ecommerce-11788436547181.html
+- India Probe Links US Mercenary, 14 Ukrainians To Drone Attack In Myanmar - NDTV
+  India Probe Links US Mercenary, 14 Ukrainians To Drone
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkZWdHlsb3VuWlBZVW5vMmt3NTdHT2Y5OGNPdjNPTFBfbHROTUdIVzFUbnBIdV91RU5XaTlsQ2pFWEpVZXhlNU9OSHlHSDJ1SFlWeHJaVG9tUVkzZkVQdXZLZXdxRFJjTEMzcmRnRzBNV1hWdG10RUl5a0tOYWdRYzFRWVVwTkFMSTFhUE9YSVlvLXJLdjJSOWxoeU1mM3NFU2NVWEZkbWNoeGltVjhDSHhES3d3b0VGREFXOU9lTHlnQXfSAcsBQVVfeXFMTllqb3RBNzhiQThMSXNvd0FxVlBxcEx0allQQzdXSnpGVVNzTWZXa1RObXpKbjkxOUpYb3ZHQzRsZmpkbVBCVDdRV1Q5c1loNkVZQkFlV0VmNEVSbmkwUkUxeEd2V3JfdVRGc2E2RnQxSW45blZWWElhcmtBLTkzazFfZnl6ZldNelhjWERYV0JUUmFXcGxReVhNenRnUFFFQ1U4SzgxYUdQQTlvVVY3cktQYzVaZEE4VG5zbnp0TmRQd3d5U2xXODVHVzQ?oc=5
 
-- PI Industries bets on innovation-led growth as agrochem headwinds mount
-  PI Industries aims to offset earnings declines by shifting from contract manufacturing to proprietary R&amp
-  🔗 https://www.livemint.com/companies/news/pi-industries-bets-on-innovation-led-growth-as-agrochem-headwinds-mount-11788426176987.html
+- Seatbelt sign off, hydraulic failure, pilot tests positive for psychoactive substance: What Air India Phu - The Times of India
+  Pilot tests positive for psychoactive substance: What Air India Phu says.
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNWUNteExWZ1RaYmNtd1dJU3ZocTJoVTRNZnpnR2JGNVV5dXRZOEZWNmhTblJsdmR4MkJGX0F5bnZvd2wtcy1TZHBrR1BKWGZOR3JrUFRGaTNrUXhWbDR0aVVfODdRZ1JTWm94cjB3dzFHX093bEowX2ItZkFiN2tudXdQaGZpRnhXR3ZqQzlmZ3dUdnh3TDE3UEFuVXlGcV8zU0luRzlsTWY2VG5POURtT3JGMmdXVHRXbFNSb0dGMnZJclhDSmlnbHQ3SXJKYzNmOUNNTmpFa25tMEYzbE4wUHNfVklsUEphN2huYkEwbzZ6YlRlS3k4dWFpd0FFdFdhQS1HLW9rUXl3bUV0a092dmlJVdIBmAJBVV95cUxPV3VieDlWNF9ldzBwVGE0dHZZTHVDSFJ1NXdVcWY5RGg2YlFQUEJNdktnQ3BVRXhjWjFYNUNrc3lfYVBaSE9OdUEyOXhCSEZyTm41cEpCV3FHM0ZJcC04dldnN0d6N0RTNFZTVm9zWkNpQnpoQkFENEtxbmxlX01wYVcyR01YNG9IbkptbG1qUXhfSVNaeHJTMW9CWmp3eWl4R1k2OWhJcGNFN0FQRDE0OXJ2ei1OZUpEZ19YY3dkN0NBVE1CT1NZNzFCWk1aUzItQWRxVVowM0hWNmN3VUZmd2U0aEJlMFJBUk9wcDQxb09vVjBRcFg4cGYxYXRmSmIzLXVRdlQtb3JINV9sTG1iN09LaG5oTEky?oc=5
 
-- In ease of biz push, govt rewriting the corporate compliance rulebook
-  India plans to rewrite its corporate compliance playbook to boost ease of doing business. Government's consultations also cover use of AI and automation to speed up filings and scrutiny.
-  🔗 https://www.livemint.com/companies/news/ease-of-doing-business-push-corporate-affairs-ministry-compliance-rulebook-msme-ai-11788428976387.html
-
-- Will Nifty 50 slip towards the July low of 23,600?
-  A bearish candlestick pattern indicates selling pressure. Key support is at 23,786, while reclaiming 24,025–24,051 may
-  🔗 https://www.livemint.com/market/stock-market-news/will-nifty-50-slip-towards-the-july-low-of-23600-11788486944535.html
-
-- Low valuation, strong growth: Is this transformer stock charged up for success?
-  A record  ₹6,630 crore order book and a new nuclear deal haven't
-  🔗 https://www.livemint.com/market/stock-market-news/taril-share-price-taril-stock-transformers-11788437112730.html
-
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 4 September
-  Indian stock market set to open positively on September 4. Sensex and Nifty 50 recovering slightly after recent losses. Key support levels for Nifty remain at 23,800
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-september-11788483624805.html
-
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today —4 September 2026
-  Sumeet Bagadia recommends five breakout stocks to buy today. Kirloskar Oil Engines, Morepen Laboratories
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-4-september-2026-11788450839284.html
-
-- ESDS Software Solution IPO listing today: GMP at  ₹247; Share price prediction ahead of NSE, BSE debut
-  ESDS Software Solution IPO is set to list today at 10:00 IST. The IPO price is  ₹429, with an estimated listing price of 
-  🔗 https://www.livemint.com/market/ipo/esds-software-solution-ipo-listing-today-gmp-at-rs-247-share-price-prediction-ahead-of-nse-bse-debut-11788482263014.html
-
-- OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny
-  OpenAI commits $1 billion
-  🔗 https://www.livemint.com/technology/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny-11788471790655.html
-
-- ChatGPT, Claude, Grok experience outages globally, users report errors, failed attempts | Here's what happened
-  Users worldwide reported issues with major generative AI platforms. Outages began in the evening (IST), with over 2,800 ChatGPT complaints in India and 35,000 in the
-  🔗 https://www.livemint.com/technology/apps/chatgpt-claude-grok-experience-outages-users-report-errors-11788448566410.html
-
-- iPhone 18 series leaks: Dynamic Island, battery, A20 Pro chip and foldable details
-  The latest iPhone 18 Pro leak reveals details about the Dynamic Island, the iPhone Pro Max's battery capacity, and the A20 Pro chip built on a 2nm process. Reports also highlight the iPhone 18 event on September 9
-  🔗 https://www.livemint.com/technology/iphone-18-series-leaks-dynamic-island-battery-a20-pro-chip-and-foldable-details-11788435678847.html
-
-- WhatsApp bill payments explained: How to pay electricity, gas and other bills
-  WhatsApp is rolling out a Bill Payments feature via Bharat Connect (BBPS) It will let Android and iOS users in India pay electricity, gas, water, FASTag,
-  🔗 https://www.livemint.com/technology/whatsapp-bill-payments-explained-how-to-pay-electricity-gas-and-other-bills-11788428352947.html
-
-- Redmi 17 5G launched in India with massive 7,900mAh battery: Check price and specs
-  Xiaomi has launched the Redmi 17 5G in India. It features a 6.9-inch 120Hz display and Snapdragon 4 Gen 5 chipset
-  🔗 https://www.livemint.com/technology/redmi-17-5g-launched-in-india-with-massive-7-900mah-battery-check-price-and-specs-11788425769752.html
-
-- S&P 500 posts back-to-back gains as Treasury yields retreat - CNBC
-  P 500 posts back-to-
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5
+- After Gen Z, India’s Gen Alpha rises, demanding education reforms - Al Jazeera
+  Al Jazeera reports that India's new generation of
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3VLSnR6bnBFaU8yMHVjMW1OcjF4aGVCcnozUU5kYV9oTDlRUHEtbkhJLUJuNDcyOUxwZlg2QU5odEhhenRkNlVDVWE3c1h4VUJfdFJFWmlMTkRPQkpxSzdlY3Bjc2F6Z1p1RUxaWWVzX0dDa2VoWk0wT0VQcFB4WHdQOXVIZ1lkUU5RakhPZUkyX19RRVpnS2FQOGxVS1M2NVlaVNIBqgFBVV95cUxPZUdHMzBqUGZBMFk0UjVPaDJYc2dTdGgyVGdudFZqQ05RQ0tyUmJ3cnN3Q1gzMjhSVFRFejN1ZXRvdHVtdlZiQmdJeHlieUJVUEczOEVxTV9kNVJzRmdLMVozZWNwQUplblZYWHZrM3lBQnl0X3A2T3NTTzhCZzIyU0VXTDI1WmRpYTFvd0pQRkdBS1R5OXNxeHJiX0VFZ1cycHhCLTZKaWF0Zw?oc=5
 
 - Stock Market News, Sept. 3, 2026: Stocks Climb After Fed Official Says He Could Back Rate Hold - WSJ
   The WSJ reports that a top Fed official says he could back a rate
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkh6R2NHVE1RTVR2dmduNEtRMWJBZEYyRFU1RDVEb3VocmFWRzE2bUw2SW1xekZpcXotTUFNM1I4Qklmc2VJT3o1TGtWYUdNbTVkcllZdDRnME9ZUEFGQnA0aWFYLVVjVmhsSHh0SjhyYmxSbnpWWUZCT3FrQ0kyQlBkekhFb2s?oc=5
 
-- Wall Street ends sharply higher as Waller remarks ease rate hike fears - Reuters
-  Wall Street ends sharply higher as Waller remarks ease
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzRxMTJxTk80aFlHOHU2WkVVbjhCeDhJVGNiVXFqSUg0cGhIUjY3d2hBTWQtUGVvMTJXMUVjaVJwc1lnTW9OMUp1ZjhiUjFfVlVTbk44Z1c2WTdqOVYwUUMzbVhVbHk5Tnk4V3ZoVWtvdHdBMDJDV1V2dEVRanc1UGc1ZlExN3VFTUpTTzBDcUVRZWN6Qlh0STQzb0ZqUmVlbWk4YWwzOA?oc=5
+- Stock futures are little changed as traders await August jobs report: Live updates - CNBC
+  Stock futures are little changed as traders await August jobs report
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1mNWp4VDc2ak1DN1JLX3cteTNHNlZVVFhrbl9tajVGNEpTSTR6bm9rWDJDcW5GbVhLQmktLWhqdUpMb0Q4Z1hhdW9LcjNGVk5kQkJkX29EUUFGWGI5VVhhN1Z0azc1WjlnMERMd3FDLUFVNzFLMHA40gF8QVVfeXFMTVVoemFpTmFxdjFvOGJsc1pRYk95LWh4R1VoNGdvNno4aG9SNmphZnVWTExaaGhIUnpra0ZtUUNMVXVWYWhHUUg0RUJ5OTA0OVVsb2YtZXp5Qno0TlVrd29Gd2lKVXhjU2prMkpFMnpkM2xacFRpTzVNMWJiNA?oc=5
 
-- CNBC Daily Open: Washington's house is divided over interest rates - CNBC
-  CNBC Daily Open: Washington's
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQUlh2Q1FJLW5vSDNKMXVNelVvb2pXdUNaeXExR3ZWNjFMcEJVTGpjQWJIR2daU0pZRE0xN05Nd2dwbllITjV1Wl9RVjh3R3VQNDVrTkIwX0VuaGZHYkEweG9uQ1VrYVdGeDBVZkIxUHVfZ1ZqdUZFYjJHazBlNjBrSVMyTDJpUFAzczZrRDJMVm4tZTJTdzBWVHNERy1GbTNkZ3Jz0gGoAUFVX3lxTE8tck94ZlVKTmtWOHNzdzQ1R2RGWE5DOUJmYjI2WHI3SXJrYjUzTTFITlRzTGNDekFYMzRCdDJUNkVmY1pLRENiWlZfMzNpbExtQVhpeDNuWUVKR2x5NlhLNkhvbmlycE11OENUMk1ELW5OeWY1ekE1X3VmZlFJTU5mRUpUcnV5VGZLbE1PTHYyUWx0MW95djJtQ2hsb2JuNjhrbXdyZVc3Ug?oc=5
+- Stocks Rise as Fed Hike Bets Ease, Dollar Steadies: Markets Wrap - Bloomberg.com
+  Stocks Rise as Fed Hike Bets
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktoYVRBb3N2SC1rN2s4X05rbWgtWE0xeFRDak9DOXV5Zlppd2Rsbml6bXJObVNkNjJuS1I4UzdxUG5XV1pqd3JPUUFxUWUzU1E1TmlSeVdZeFNzN3NNVjVPVE5qYmZHYUppMFdfVG1aV2NscTlvTnQyNGJyTDA5QUJNLUF3U1l0dmJ0d2ZPcFVtbV9a?oc=5
 
-- The bond market rout is global. Here’s what’s driving it - CNN
-  The bond market rout is global. Here
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE0xY2pJRlVWWEFqZVFNb0hrVEUwSmRCZzBtMXVXVExDeFA1ZkFNVXpWV3RGdUZCa1JZNjJ2OVVIbkRERlF0aG1qWTMyQXF6ZjY4eXZfSmlKUmp3TFBudDZkbGFyUjVoUTVCX0JPbXhIZ3NwUmNSOWc?oc=5
+- Stock markets rebound in early trade after 4 days of slump; Sensex jumps over 530 points - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbUMwSTV2VGRtT21vSUI1MWFtN2V2cUFKZHJ0MlhNZkREQ3V6cnJrQWVEeUotQmw1emVzQ0xUR0hyaHIxaHk1dGxKTlIzOGhQOVh2T3lhU3lfcU5jeGIxS01naGFGXzBwdT
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbUMwSTV2VGRtT21vSUI1MWFtN2V2cUFKZHJ0MlhNZkREQ3V6cnJrQWVEeUotQmw1emVzQ0xUR0hyaHIxaHk1dGxKTlIzOGhQOVh2T3lhU3lfcU5jeGIxS01naGFGXzBwdTBmcGx0LVZHR0JVUldQbjY0aUl2cVpzdnlYbjdQN1lwVEczaVhtVjlVbkYyX2NhVkJpVzNRSS1zV2FqeVRFdDdxNDdxMUpia21DeUtOcFVvMXpLZFJTd01rTzc5bHZEeWJrLXJzckh4a1VDWDZnNHlFb0UtaWc4bXhXQdIB6gFBVV95cUxOb3VWLVJMcFF1TVBIOURHU2NXaEZtbUdibmtNbmhWTmtvZTBJN2J0RUtqaXFKM1JwX0l0N0hja2lpeDNXRkx5M0Y3NGlCRUFrQ1U4NWdxQWtfZTBZYVZwTkdBSHZOQkJPOThDa1lLN1d4SEVsYUlpZmFKelJGeWo1ZXhIcEMyTjNodlFHTDFJRFBDYTUzM0puM2VoRXNBYkpkaGt0ckJrUS10X2lPVHFPV2JMcEpydHZDMlhlOXhBQnRoQ2Nzbm5rX3djS1B4VlRqM1V0YjFXdk1qak9IVE40T3VGcDJ5eGRpWHc?oc=5
 
-- Positive Breakout: These 7 stocks cross above their 200 DMAs
-  The 200-day DMA is a widely followed indicator used by traders and investors to assess a stock’s broader trend. When a stock trades above its 200- day moving average
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-7-stocks-cross-above-their-200-dmas/slideshow/133749691.cms
+- Why has the Philippine peso plunged to a record low? - Al Jazeera
+  Why has the Philippine peso plunged to a
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQRjgxXzJSUGtvNXRLWTVCSk5sbDFHWGRqMzVMazBXQ0VjVlpzQnJ2bWpIYThSaUlGejJ1UUpSU1k2d3BMWk53MUlTdGk2MmY5blljb2dEekpiOTdXN2dZell4N1p3clJGY0JGQkVkOUcyaGFhRUJiMi1fbVk2Wkk3Mzdkdmk0bTJXeXMxVWJuTXVjb0laaWxhTmE3VdIBoAFBVV95cUxPTDRHakdEcGptVUxJTWZWMk8weWJQcjhSeGRLZFMwa0NMeGV2Qk5SdWRrbEprVjBfYVdGTzRXaVNCbldxVEtaN1NIbzYwd1RZMjFUdlhYUEY2ZzZnOEswV2JyUTZ0SUU2aVJLeDRkT2J5VGZNODlPX2Jma2wxdFBKSHd2bHo2ZUlCUG9RTTJmODJ3T00wbEJNdEhkem56VV9s?oc=5
 
-- Oil Price Today (September 4): Crude oil at $96, set for a 7% weekly surge as Iran, US exchange attacks. What’s next?
-  The latest US attacks have resulted in the most intense clashes between the two countries since July. The conflict began with US-Israeli strikes at the end of February.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-4-crude-oil-at-96-set-for-a-7-weekly-surge-as-iran-us-exchange-attacks-whats-next/articleshow/133749625.cms
+- Bitcoin climbs nearly 4% to $81,000 as ETF inflows, strategy buying support rally
+  Bitcoin climbs above $81,000, supported by U.S. spot ETF inflows and renewed buying by Strategy. Experts remained broadly bullish but flagged stretched momentum, with Bitcoin’s daily and hourly
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-climbs-nearly-4-to-81000-as-etf-inflows-strategy-buying-support-rally/articleshow/133758181.cms
 
-- Yen headed for strongest week in a month, dollar flat ahead of payroll data
-  The Japanese yen appreciated considerably against the US dollar. Traders are anticipating a potential interest rate hike from the Bank of Japan. Meanwhile, the broader currency markets are gearing up for important US payroll data releases.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-headed-for-strongest-week-in-a-month-dollar-flat-ahead-of-payroll-data/articleshow/133749603.cms
+- Global Market: Bank of England’s Pill says early rate hike could limit future inflation pressure
+  Bank of England Chief Economist Huw Pill said an early interest rate hike could help contain rising inflation pressures. Pill, who backed a rate increase in July, warned that delaying action could allow temporary price pressures to become more persistent
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bank-of-englands-pill-says-early-rate-hike-could-limit-future-inflation-pressure/articleshow/133758101.cms
 
-- Oil set for steepest weekly gain since mid-July over intensifying US-Iran tensions
-  The renewed hostilities between the U.S. and Iran have heightened fears regarding regional stability, resulting in violent confrontations. Meanwhile, Iran is actively adding to its inventory of non-compliant vessels in the strategically crucial Strait of Horm
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-set-for-steepest-weekly-gain-since-mid-july-over-intensifying-us-iran-tensions/articleshow/133749581.cms
+- Retail investors raise stakes in 10 stocks for two straight quarters; shares rally up to 80% in CY26
+  10 BSE 500 stocks stood out with CY26 gains ranging from 21% to 80%. RR Kabel, Sai Life Sciences and Emmvee Photovoltaic Power led the way. Retail investors increased their holdings in 98 B
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-raise-stakes-in-10-stocks-for-two-straight-quarters-shares-rally-up-to-80-in-cy26/slideshow/133758088.cms
 
-- Largecaps lag mid and smallcaps as rising input costs squeeze margins
-  Large-cap firms saw operating margins contract significantly year-on-year. Mid- and small-cap companies experienced lesser margin contractions amid rising costs.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/midcap-small-cap-outperform-large-caps-on-margins-amid-rising-input-costs/articleshow/133749438.cms
+- Global Market: European shares edge lower as investors await US jobs data
+  Volkswagen shares jumped 6% after the automaker unveiled a restructuring plan involving 50,000 job cuts. Rising oil prices amid Middle East tensions added to inflation concerns. Banking and chemical stocks weighed on the broader market.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-lower-as-investors-await-us-jobs-data/articleshow/133757815.cms
 
-- 'Don’t think India, Iran are making deal': Top Trump official on PM Modi meeting Masoud Pezeshkian | India News - hindustantimes.com
-  'Don't think India, Iran are making deal': Top Trump official on PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSERxTEU2ZkRvZlBMQzNrLWdmTUU2MnIxSUpzYmtvTG52VDJzS3pVWDZvNFMzNnViSmQzX3hudjZ6SVljZTFuSHVTM0hpdmF3V2VQSWEyTlo3VWdlNlpnVXFIWGpJdllOekhtVEZBX0ZSMnhVRURqOEdDU2hJdUh5QmpQTWFyNl9tODlqTHRmLXoxTXYybmxvQTBjZl9nTERDUzhCZ0xiOFg4LWZDODhGSXF2UkN5d2hyUmFLMEh4bzBPNW9nc3NGUnE4NVA5MktVWTk1eU5Kbi1yWmIwS01aeHZ5LWU2a0M0TjZ4by12NF9sU1VO0gH6AUFVX3lxTE5SVTJRZUVVLTVKdC1STVFyRF9qVExLQ3ZoYTUzdXBkbkxMMHA4RlktM2Q5cXVsLWt3bS1scEZoQnhxYUF4UjJveXBSRFBfTXZqclpZQmQ2RXppQjBpdFFDRkxGb3YyZ0NtenRyeUNFbDh0dENDUUpScXd0ODNOWGpnNnh6MlptUFQtejMtdUwwQV9OVnBpaTNxZnVzcVZHYlIzZkpZcVBHVkl6d0N0NzEtTnpvcFBFdER5U3o0VEpJWng1bE15S2RKMjFodU83Wl9mZ1NoSEYxeWZKcWw2Smdwc3pwdTh4WU4ydUJXWEZPSW5fd3Q5cWpfS2c?oc=5
+- Market chaos after CAS: What exactly is Sebi reviewing and will it stop expiry-day wild swings?
+  Sebi’s review of derivative settlement price methodology could reduce sharp expiry-day swings linked to the Closing Auction Session (CAS) Analysts expect the regulator to consider delinking derivative settlements from CAS closing prices.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-chaos-after-cas-what-exactly-is-sebi-reviewing-and-will-it-stop-expiry-day-wild-swings/articleshow/133757024.cms
 
-- India News Highlights, 3 September 2026| TMC MPs get time till September 22 to respond to defection petition - The Indian Express
-  TMC MPs get time till September 22 to respond to defection petition.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNS1ES3RjeWdaSEhUZEI5ZUVmSnpnWURZNHJwVzFkQVhzVUdKSjFlakRaa3RZOVFaZXZTMTJJM0tianRXTVU3a255Nl9sX2dPbi1iWkpjNy1qaHNDcVMyeGVGbG1kanZ5X0lqb3JUeW9XUklBb0htRExpTzQ2a2NtejVwMXNwYlJXRWVDWWdINmlfSGRDaUR4SnJrbUlHVzc4REVndG1KZHBiUDFJN3A5alQ1SWktWm1oQ2RPbWNzaXNnUWtRRFJkeWFYZC11YzU2ZkYteTZXb2RJNExpLUdzM1RhTjdMVjBHUkHSAfABQVVfeXFMUEpkT1ZCODZSWUlkZ1RWYS1HaUdDZ3Bma3dMZDlmUkVSMmMyYVp0Q1JoekxiTXdpdkdCWl8xOE1QWXUxYVA3cmE0eDhJS09xYmw0alNPTFlKMGRORkk1RFFGbzZsYU45dW9lZTBtcE1GYU9zNU1iY0xzT0lHc3Y5OUhCcWd1bUxkOVZ5NnFzc19UWERkU1g1aFp0cmZIZklTUDlYRVlQVDQwVGVtNEdUY3c2T3JwMGE4QlluckFjSGNYRF9rZlJTcWd5U2hVMlVyajI4a2E0eVY0OW54Wi0ybzNlMnNxdW5NVk9mSzZlRUJF?oc=5
+- OpenAI Rolls Out GPT-6 Astra, Its ‘Most Capable Model’ Yet
+  OpenAI has launched GPT-6 Astra, its latest frontier model, in a bid to push into AI systems.
+  🔗 https://inc42.com/buzz/openai-rolls-out-gpt-6-astra-its-most-capable-model-yet/
 
-- 100% chance of El Nino lasting till Feb next year, India may see warmer winter | India News - hindustantimes.com
-  100% chance of El Nino lasting till Feb next year, India may see
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUGZGZzBiSThCRWU1QzFFMU1lWkFMUjVwNnBLS3BaWlBNdERVV0Q5el9rT2dNSTdqR0hRVTNLNjhPcHhXZXFzVGVlQlAyWlk5M05UZ3NyTTNOSWdIbjhmdUlXQlVYNDVHWjVCTUI4bGdJY05UR3FFUHlLZUdDZ0FHYWRFeHJvQzZCdkJqQmtYa052RE43eUV2bGtQWFJKRGlOT2o1V1FwREp6bTdpazY2c0lZMGp6Sy1PMTd1X05pYzE1QzFCQS1QdFNTUkdhOXQtSTlLTW1aUDhYUDdIOTd6aUh0NEdQRGFjOUxjb011RWJ6U19uYW5qbHRrdXBqNjFhVDF2a09KMljSAY4CQVVfeXFMTjkwUXdpTHZWb2lfZ05qb0pEa1liZkZ1U3gyQVpPT00ydVlJSGdhTGJvcVZndzJIM09iaFAzSTFpTFk4LTN4RlFQeVZabEtLSFAwUHF0bkZxd1gxT0dOdmlGZFl1cFJfNjRiWlRBUThiU1BpbWx0NDhkeHJiaGZ2cVJsR3pkQWFYemVfcXRZR0U2MmR0ZHpRMEJWTUVjM0RZWGtVb2VBTjhYT29KVzBReFJ3T1RxYUxxVEhaR0RVeEtNOElvM3RtSFQ1Tmt4SDZBN2pEQjhjOEMtbFZlaWhyQ2tkQk9MaE05cnFrM1NuYWFiRkd0OTRma2JNNzlLbWE5VHBTbUFDcnE1cWxyTmd3?oc=5
+- Medulance Raises ₹24 Cr To Expand Emergency Response Network
+  Healthtech startup Medulance has raised ₹24 Cr ($2.5 Mn) in its Series A funding round.
+  🔗 https://inc42.com/buzz/medulance-raises-%e2%82%b924-cr-to-expand-emergency-response-network/
 
-- Govt reveals when it will seal India-US deal: ‘Waiting for comparative tariff advantage’ | India News - hindustantimes.com
-  Govt reveals when it will seal India-US deal: ‘
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSmZIOE9YNHktUGhWS3AyRnkxTWZtVml1MXlocUhQOGljYlJBMzc4QVptU0xhZjZaQ3Y5ZlhUNTVJRHJUZ0pXSXA2X3hQaFRXeGlURE9Na1NCZlJOT0NESlpCaGQwdG01TllZNmVVS3ZMMnhsN3o5R1pBU1UxT0ZIanRBSUx2Zmx5THh6aVZuVk5oR0hWSlRBT0phQTdGc04tT0FjaWdfZll5aVhMVXJEeEhFSHlkWEpiUy1qNzVMdDE5ekxraDVfdnIzRE41eTBhWHNwZGNRM01CY2dGcFFqZmJR0gHnAUFVX3lxTE1RM0lvVmVfdGYzTVJZeW90ZGpIYTh5SGItMUFoQnNFaUt0ek95d1pObmxEdC05Y0RlTGwzcXhiQlBRaW5tZENCUTRTSzVqeEdKalZULUZCSEdHdkJIWGtDaUZ1OGNvOFdES0NoeVdDX0M3N0dNdk1acnNQeXdELURyRjB5Ni01UXhIY1JTY3ZmaTdEbktNR2RWOElMalQ4WERDa0pyLTJrRlY3VFZkNVdWTkZld2t4SnhmSlg5TzRpS3RiczY0SFktcHQtVVhEY29HNEMzUDhDNm5uQVJqUkRIUjNBUnc5WQ?oc=5
+- WhatsApp Takes On PhonePe, Google Pay With Bill Payments In India
+  WhatsApp takes on PhonePe, Google Pay With Bill Payments In India. Users can find, manage, and pay household and utility bills.
+  🔗 https://inc42.com/buzz/whatsapp-takes-on-phonepe-google-pay-with-bill-payments-in-india/
 
-- Can 'Naughty Boy' Help Redeem ISRO's 'Lost' Sheen? Big Launch Tonight - NDTV
-  'Naughty Boy' will be the first
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnRjTEpOOVUyWk16aXpoVUlHaFByWFNVRklmeEF0VGNRRTJZVnlPYUNOZVlxUFlEeHM5UXpkckRTd1BqWlJpOGpOVGQ2OUpydmoxSlk1RjUycThWb1NubjNGVnVZU3ZjRGNkSDRYby1KRGx4V0tHaDFtZHdxUHkzeTFHcWVraTdaeDBqanhBT2dZRWtkMExYeDlxY2ZqVVpWbjVOSW0xT1U2R3hpaEdmcXU5MljSAbwBQVVfeXFMTVp6cDlGTDRKN0RkaWZTQl9lTVBQXzVsUzUxWElILVpIWU9rdkVXRkdhck9zUE55ek5qY0lxTmRzdnF6UVZPSll4ZWZGMi05MENtRUNJVnVSRmx0WEdwY1JsVGhGQ1lScGJrb0xtZ3BXTkwyeEhodG9EREszUmVXUHZkUHppaTIyS3dBSWVRY3p1YW9KaFU0eUV4ZXB0VTlHQWpRbDE5clUtYWFLZ3VGZmJnaWwxdE03WDNJUUY?oc=5
+- PhysicsWallah Shares Jump 6% As Motilal Oswal Sets ₹200 Target
+  Shares of edtech major PhysicsWallah jumped as much as 6% to touch an intraday high of ₹127.80
+  🔗 https://inc42.com/buzz/physicswallah-shares-jump-6-as-motilal-oswal-sets-%e2%82%b9200-target/
 
-- Leanwatts Bags $2 Mn To Build Portable EV Chargers In India
-  Clean tech startup Leanwatts, which manufactures EV chargers, has raised $2 Mn (around ₹18 Cr) in its
-  🔗 https://inc42.com/buzz/leanwatts-bags-2-mn-to-build-portable-ev-chargers-in-india/
-
-- RentoMojo’s FY26 Profit Zooms 142% YoY To ₹104 Cr, Revenue Up 46%
-  IPO-bound furniture and appliance rental startup RentoMojo’s restated profit after tax (PAT) surged nearly 142% ₹104.2 Cr
-  🔗 https://inc42.com/buzz/rentomojos-fy26-profit-zooms-142-yoy-to-%e2%82%b9104-cr-revenue-up-46/
-
-- Cars24 Trims FY26 Net Loss By 19% YoY To ₹441 Cr, Revenue Slides 18%
-  Cars24 managed to trim its net loss for the fiscal year FY26 by 18.7% to ₹441.1 Cr&#8230.
-  🔗 https://inc42.com/buzz/cars24-trims-fy26-net-loss-by-19-yoy-to-%e2%82%b9441-cr-revenue-slides-18/
-
-- Ultrahuman Bags $70 Mn To Build An Integrated Healthtech Platform
-  Smart ring maker Ultrahuman has raised $70 Mn (nearly ₹662 Cr) &#8230.
-  🔗 https://inc42.com/buzz/ultrahuman-bags-70-mn-to-build-an-integrated-healthtech-platform/
-
-- RentoMojo Files RHP, Trims OFS Component To 2.7 Cr Shares
-  Furniture and appliance rental startup RentoMojo has filed its red&#8230;.
-  🔗 https://inc42.com/buzz/rentomojo-files-rhp-trims-ofs-to-2-7-cr-shares/
-
-- 'Don’t think India, Iran are making deal': Top Trump official on PM Modi meeting Masoud Pezeshkian | India News - hindustantimes.com
-  'Don't think India, Iran are making deal': Top Trump official on PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSERxTEU2ZkRvZlBMQzNrLWdmTUU2MnIxSUpzYmtvTG52VDJzS3pVWDZvNFMzNnViSmQzX3hudjZ6SVljZTFuSHVTM0hpdmF3V2VQSWEyTlo3VWdlNlpnVXFIWGpJdllOekhtVEZBX0ZSMnhVRURqOEdDU2hJdUh5QmpQTWFyNl9tODlqTHRmLXoxTXYybmxvQTBjZl9nTERDUzhCZ0xiOFg4LWZDODhGSXF2UkN5d2hyUmFLMEh4bzBPNW9nc3NGUnE4NVA5MktVWTk1eU5Kbi1yWmIwS01aeHZ5LWU2a0M0TjZ4by12NF9sU1VO0gH6AUFVX3lxTE5SVTJRZUVVLTVKdC1STVFyRF9qVExLQ3ZoYTUzdXBkbkxMMHA4RlktM2Q5cXVsLWt3bS1scEZoQnhxYUF4UjJveXBSRFBfTXZqclpZQmQ2RXppQjBpdFFDRkxGb3YyZ0NtenRyeUNFbDh0dENDUUpScXd0ODNOWGpnNnh6MlptUFQtejMtdUwwQV9OVnBpaTNxZnVzcVZHYlIzZkpZcVBHVkl6d0N0NzEtTnpvcFBFdER5U3o0VEpJWng1bE15S2RKMjFodU83Wl9mZ1NoSEYxeWZKcWw2Smdwc3pwdTh4WU4ydUJXWEZPSW5fd3Q5cWpfS2c?oc=5
-
-- India News Highlights, 3 September 2026| TMC MPs get time till September 22 to respond to defection petition - The Indian Express
-  TMC MPs get time till September 22 to respond to defection petition.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNS1ES3RjeWdaSEhUZEI5ZUVmSnpnWURZNHJwVzFkQVhzVUdKSjFlakRaa3RZOVFaZXZTMTJJM0tianRXTVU3a255Nl9sX2dPbi1iWkpjNy1qaHNDcVMyeGVGbG1kanZ5X0lqb3JUeW9XUklBb0htRExpTzQ2a2NtejVwMXNwYlJXRWVDWWdINmlfSGRDaUR4SnJrbUlHVzc4REVndG1KZHBiUDFJN3A5alQ1SWktWm1oQ2RPbWNzaXNnUWtRRFJkeWFYZC11YzU2ZkYteTZXb2RJNExpLUdzM1RhTjdMVjBHUkHSAfABQVVfeXFMUEpkT1ZCODZSWUlkZ1RWYS1HaUdDZ3Bma3dMZDlmUkVSMmMyYVp0Q1JoekxiTXdpdkdCWl8xOE1QWXUxYVA3cmE0eDhJS09xYmw0alNPTFlKMGRORkk1RFFGbzZsYU45dW9lZTBtcE1GYU9zNU1iY0xzT0lHc3Y5OUhCcWd1bUxkOVZ5NnFzc19UWERkU1g1aFp0cmZIZklTUDlYRVlQVDQwVGVtNEdUY3c2T3JwMGE4QlluckFjSGNYRF9rZlJTcWd5U2hVMlVyajI4a2E0eVY0OW54Wi0ybzNlMnNxdW5NVk9mSzZlRUJF?oc=5
-
-- 100% chance of El Nino lasting till Feb next year, India may see warmer winter | India News - hindustantimes.com
-  100% chance of El Nino lasting till Feb next year, India may see
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUGZGZzBiSThCRWU1QzFFMU1lWkFMUjVwNnBLS3BaWlBNdERVV0Q5el9rT2dNSTdqR0hRVTNLNjhPcHhXZXFzVGVlQlAyWlk5M05UZ3NyTTNOSWdIbjhmdUlXQlVYNDVHWjVCTUI4bGdJY05UR3FFUHlLZUdDZ0FHYWRFeHJvQzZCdkJqQmtYa052RE43eUV2bGtQWFJKRGlOT2o1V1FwREp6bTdpazY2c0lZMGp6Sy1PMTd1X05pYzE1QzFCQS1QdFNTUkdhOXQtSTlLTW1aUDhYUDdIOTd6aUh0NEdQRGFjOUxjb011RWJ6U19uYW5qbHRrdXBqNjFhVDF2a09KMljSAY4CQVVfeXFMTjkwUXdpTHZWb2lfZ05qb0pEa1liZkZ1U3gyQVpPT00ydVlJSGdhTGJvcVZndzJIM09iaFAzSTFpTFk4LTN4RlFQeVZabEtLSFAwUHF0bkZxd1gxT0dOdmlGZFl1cFJfNjRiWlRBUThiU1BpbWx0NDhkeHJiaGZ2cVJsR3pkQWFYemVfcXRZR0U2MmR0ZHpRMEJWTUVjM0RZWGtVb2VBTjhYT29KVzBReFJ3T1RxYUxxVEhaR0RVeEtNOElvM3RtSFQ1Tmt4SDZBN2pEQjhjOEMtbFZlaWhyQ2tkQk9MaE05cnFrM1NuYWFiRkd0OTRma2JNNzlLbWE5VHBTbUFDcnE1cWxyTmd3?oc=5
-
-- Govt reveals when it will seal India-US deal: ‘Waiting for comparative tariff advantage’ | India News - hindustantimes.com
-  Govt reveals when it will seal India-US deal: ‘
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSmZIOE9YNHktUGhWS3AyRnkxTWZtVml1MXlocUhQOGljYlJBMzc4QVptU0xhZjZaQ3Y5ZlhUNTVJRHJUZ0pXSXA2X3hQaFRXeGlURE9Na1NCZlJOT0NESlpCaGQwdG01TllZNmVVS3ZMMnhsN3o5R1pBU1UxT0ZIanRBSUx2Zmx5THh6aVZuVk5oR0hWSlRBT0phQTdGc04tT0FjaWdfZll5aVhMVXJEeEhFSHlkWEpiUy1qNzVMdDE5ekxraDVfdnIzRE41eTBhWHNwZGNRM01CY2dGcFFqZmJR0gHnAUFVX3lxTE1RM0lvVmVfdGYzTVJZeW90ZGpIYTh5SGItMUFoQnNFaUt0ek95d1pObmxEdC05Y0RlTGwzcXhiQlBRaW5tZENCUTRTSzVqeEdKalZULUZCSEdHdkJIWGtDaUZ1OGNvOFdES0NoeVdDX0M3N0dNdk1acnNQeXdELURyRjB5Ni01UXhIY1JTY3ZmaTdEbktNR2RWOElMalQ4WERDa0pyLTJrRlY3VFZkNVdWTkZld2t4SnhmSlg5TzRpS3RiczY0SFktcHQtVVhEY29HNEMzUDhDNm5uQVJqUkRIUjNBUnc5WQ?oc=5
-
-- Can 'Naughty Boy' Help Redeem ISRO's 'Lost' Sheen? Big Launch Tonight - NDTV
-  'Naughty Boy' will be the first
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnRjTEpOOVUyWk16aXpoVUlHaFByWFNVRklmeEF0VGNRRTJZVnlPYUNOZVlxUFlEeHM5UXpkckRTd1BqWlJpOGpOVGQ2OUpydmoxSlk1RjUycThWb1NubjNGVnVZU3ZjRGNkSDRYby1KRGx4V0tHaDFtZHdxUHkzeTFHcWVraTdaeDBqanhBT2dZRWtkMExYeDlxY2ZqVVpWbjVOSW0xT1U2R3hpaEdmcXU5MljSAbwBQVVfeXFMTVp6cDlGTDRKN0RkaWZTQl9lTVBQXzVsUzUxWElILVpIWU9rdkVXRkdhck9zUE55ek5qY0lxTmRzdnF6UVZPSll4ZWZGMi05MENtRUNJVnVSRmx0WEdwY1JsVGhGQ1lScGJrb0xtZ3BXTkwyeEhodG9EREszUmVXUHZkUHppaTIyS3dBSWVRY3p1YW9KaFU0eUV4ZXB0VTlHQWpRbDE5clUtYWFLZ3VGZmJnaWwxdE03WDNJUUY?oc=5
-
-- 'Don’t think India, Iran are making deal': Top Trump official on PM Modi meeting Masoud Pezeshkian | India News - hindustantimes.com
-  'Don't think India, Iran are making deal': Top Trump official on PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSERxTEU2ZkRvZlBMQzNrLWdmTUU2MnIxSUpzYmtvTG52VDJzS3pVWDZvNFMzNnViSmQzX3hudjZ6SVljZTFuSHVTM0hpdmF3V2VQSWEyTlo3VWdlNlpnVXFIWGpJdllOekhtVEZBX0ZSMnhVRURqOEdDU2hJdUh5QmpQTWFyNl9tODlqTHRmLXoxTXYybmxvQTBjZl9nTERDUzhCZ0xiOFg4LWZDODhGSXF2UkN5d2hyUmFLMEh4bzBPNW9nc3NGUnE4NVA5MktVWTk1eU5Kbi1yWmIwS01aeHZ5LWU2a0M0TjZ4by12NF9sU1VO0gH6AUFVX3lxTE5SVTJRZUVVLTVKdC1STVFyRF9qVExLQ3ZoYTUzdXBkbkxMMHA4RlktM2Q5cXVsLWt3bS1scEZoQnhxYUF4UjJveXBSRFBfTXZqclpZQmQ2RXppQjBpdFFDRkxGb3YyZ0NtenRyeUNFbDh0dENDUUpScXd0ODNOWGpnNnh6MlptUFQtejMtdUwwQV9OVnBpaTNxZnVzcVZHYlIzZkpZcVBHVkl6d0N0NzEtTnpvcFBFdER5U3o0VEpJWng1bE15S2RKMjFodU83Wl9mZ1NoSEYxeWZKcWw2Smdwc3pwdTh4WU4ydUJXWEZPSW5fd3Q5cWpfS2c?oc=5
-
-- India News Highlights, 3 September 2026| TMC MPs get time till September 22 to respond to defection petition - The Indian Express
-  TMC MPs get time till September 22 to respond to defection petition.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNS1ES3RjeWdaSEhUZEI5ZUVmSnpnWURZNHJwVzFkQVhzVUdKSjFlakRaa3RZOVFaZXZTMTJJM0tianRXTVU3a255Nl9sX2dPbi1iWkpjNy1qaHNDcVMyeGVGbG1kanZ5X0lqb3JUeW9XUklBb0htRExpTzQ2a2NtejVwMXNwYlJXRWVDWWdINmlfSGRDaUR4SnJrbUlHVzc4REVndG1KZHBiUDFJN3A5alQ1SWktWm1oQ2RPbWNzaXNnUWtRRFJkeWFYZC11YzU2ZkYteTZXb2RJNExpLUdzM1RhTjdMVjBHUkHSAfABQVVfeXFMUEpkT1ZCODZSWUlkZ1RWYS1HaUdDZ3Bma3dMZDlmUkVSMmMyYVp0Q1JoekxiTXdpdkdCWl8xOE1QWXUxYVA3cmE0eDhJS09xYmw0alNPTFlKMGRORkk1RFFGbzZsYU45dW9lZTBtcE1GYU9zNU1iY0xzT0lHc3Y5OUhCcWd1bUxkOVZ5NnFzc19UWERkU1g1aFp0cmZIZklTUDlYRVlQVDQwVGVtNEdUY3c2T3JwMGE4QlluckFjSGNYRF9rZlJTcWd5U2hVMlVyajI4a2E0eVY0OW54Wi0ybzNlMnNxdW5NVk9mSzZlRUJF?oc=5
-
-- 100% chance of El Nino lasting till Feb next year, India may see warmer winter | India News - hindustantimes.com
-  100% chance of El Nino lasting till Feb next year, India may see
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUGZGZzBiSThCRWU1QzFFMU1lWkFMUjVwNnBLS3BaWlBNdERVV0Q5el9rT2dNSTdqR0hRVTNLNjhPcHhXZXFzVGVlQlAyWlk5M05UZ3NyTTNOSWdIbjhmdUlXQlVYNDVHWjVCTUI4bGdJY05UR3FFUHlLZUdDZ0FHYWRFeHJvQzZCdkJqQmtYa052RE43eUV2bGtQWFJKRGlOT2o1V1FwREp6bTdpazY2c0lZMGp6Sy1PMTd1X05pYzE1QzFCQS1QdFNTUkdhOXQtSTlLTW1aUDhYUDdIOTd6aUh0NEdQRGFjOUxjb011RWJ6U19uYW5qbHRrdXBqNjFhVDF2a09KMljSAY4CQVVfeXFMTjkwUXdpTHZWb2lfZ05qb0pEa1liZkZ1U3gyQVpPT00ydVlJSGdhTGJvcVZndzJIM09iaFAzSTFpTFk4LTN4RlFQeVZabEtLSFAwUHF0bkZxd1gxT0dOdmlGZFl1cFJfNjRiWlRBUThiU1BpbWx0NDhkeHJiaGZ2cVJsR3pkQWFYemVfcXRZR0U2MmR0ZHpRMEJWTUVjM0RZWGtVb2VBTjhYT29KVzBReFJ3T1RxYUxxVEhaR0RVeEtNOElvM3RtSFQ1Tmt4SDZBN2pEQjhjOEMtbFZlaWhyQ2tkQk9MaE05cnFrM1NuYWFiRkd0OTRma2JNNzlLbWE5VHBTbUFDcnE1cWxyTmd3?oc=5
-
-- Govt reveals when it will seal India-US deal: ‘Waiting for comparative tariff advantage’ | India News - hindustantimes.com
-  Govt reveals when it will seal India-US deal: ‘
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSmZIOE9YNHktUGhWS3AyRnkxTWZtVml1MXlocUhQOGljYlJBMzc4QVptU0xhZjZaQ3Y5ZlhUNTVJRHJUZ0pXSXA2X3hQaFRXeGlURE9Na1NCZlJOT0NESlpCaGQwdG01TllZNmVVS3ZMMnhsN3o5R1pBU1UxT0ZIanRBSUx2Zmx5THh6aVZuVk5oR0hWSlRBT0phQTdGc04tT0FjaWdfZll5aVhMVXJEeEhFSHlkWEpiUy1qNzVMdDE5ekxraDVfdnIzRE41eTBhWHNwZGNRM01CY2dGcFFqZmJR0gHnAUFVX3lxTE1RM0lvVmVfdGYzTVJZeW90ZGpIYTh5SGItMUFoQnNFaUt0ek95d1pObmxEdC05Y0RlTGwzcXhiQlBRaW5tZENCUTRTSzVqeEdKalZULUZCSEdHdkJIWGtDaUZ1OGNvOFdES0NoeVdDX0M3N0dNdk1acnNQeXdELURyRjB5Ni01UXhIY1JTY3ZmaTdEbktNR2RWOElMalQ4WERDa0pyLTJrRlY3VFZkNVdWTkZld2t4SnhmSlg5TzRpS3RiczY0SFktcHQtVVhEY29HNEMzUDhDNm5uQVJqUkRIUjNBUnc5WQ?oc=5
-
-- Can 'Naughty Boy' Help Redeem ISRO's 'Lost' Sheen? Big Launch Tonight - NDTV
-  'Naughty Boy' will be the first
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnRjTEpOOVUyWk16aXpoVUlHaFByWFNVRklmeEF0VGNRRTJZVnlPYUNOZVlxUFlEeHM5UXpkckRTd1BqWlJpOGpOVGQ2OUpydmoxSlk1RjUycThWb1NubjNGVnVZU3ZjRGNkSDRYby1KRGx4V0tHaDFtZHdxUHkzeTFHcWVraTdaeDBqanhBT2dZRWtkMExYeDlxY2ZqVVpWbjVOSW0xT1U2R3hpaEdmcXU5MljSAbwBQVVfeXFMTVp6cDlGTDRKN0RkaWZTQl9lTVBQXzVsUzUxWElILVpIWU9rdkVXRkdhck9zUE55ek5qY0lxTmRzdnF6UVZPSll4ZWZGMi05MENtRUNJVnVSRmx0WEdwY1JsVGhGQ1lScGJrb0xtZ3BXTkwyeEhodG9EREszUmVXUHZkUHppaTIyS3dBSWVRY3p1YW9KaFU0eUV4ZXB0VTlHQWpRbDE5clUtYWFLZ3VGZmJnaWwxdE03WDNJUUY?oc=5
+- RentoMojo Sets Price Band At ₹384-₹404 For ₹1,256 Cr IPO
+  Furniture and appliance rental company RentoMojo has set a price band of ₹384-₹404 per share for its upcoming IPO.
+  🔗 https://inc42.com/buzz/rentomojo-sets-price-band-at-%e2%82%b9384-%e2%82%b9404-for-%e2%82%b91256-cr-ipo/
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +120,5 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2026-09-04 02:35:11 UTC_
+_Last updated: 2026-09-04 10:25:58 UTC_
