@@ -1,44 +1,76 @@
 # 📰 Daily News Summaries
 
-- ‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? - The Guardian
-  ‘We’re plausibly close to crossing the line
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5
-
-- Volvo Cars Kosice Plant Gets Dürr Final Assembly Technology - Autocar Professional
-  Volvo Cars Kosice Plant Gets D
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPUlFqcWVqZUJWQ0FybURRUFJfNUJDak1rVWlsY1hoSWc0YlloTWNPWHB2VlRPUlNuNDhCU1FlNGJqYWppY01EQ25Ib1FxeTZ2aUtiNWhlcVZMQm1zLXU5M3pSanQ2TmdMb1hEZkp5cmF5OHVXTXA5VldCdHM2SWdydGV5bXZYczBGVFlZU0c5WHdBZFZDRHdWOGI1b3MyQdIBpgFBVV95cUxOQ0RlZFVMVWZMYUdveXRxeE1xYnJrRndNU0U2c1hYVkZfZGFOQkYwcjg1ajdZbGdYaTQ3a2FXak16ZXg2NUN0TTNBVUloNHJjQktqOGtob1RXcEM3X2FORVQ0MmRVSGRwZ1AyY1MxMlVKYVZtaU5qaEhXSEQ0Nk9jU2ZxVVhYNmtla0FISUoxNFFBMTIwUHN3R2FFbHZsVE1LbU9tNTNn?oc=5
-
-- Teachers' Day 2026: President Droupadi Murmu Urges Teachers To Use Technology In Education - NDTV
-  Teachers' Day 2026: President Droupadi
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOM1pjMDBLV3JSdkpvV3dPZzZydEd3a3hKamRtLXd0T0d6dDhGcEVhdTduei1rT2QwSktxUzV4d1dTT2cxd1hDRlRVU0Z6S0NtTFZvQktNYjI3TlF2dExBTEpqQUpZX2c4bHg3Nmx5ZXdEQUQ1My1OajIxaHRTbG9HM1J1a0dSMTMzc0xOZjVvbS1aX0c5eFB5VTN1QVJYc3I2TUx2VXpHTUxwSFYzWnU1c0h4c2ItbzB0NHVCTUJOaU93aWpJcXA00gHPAUFVX3lxTE9uV0lDemdTRElaYlNXYmgzZlp0QUxHVnNJOXM5a2NqV3FNZDN6blh6dE5GcGxxd3BOUWdCdnZsVENYX2RreFNUelVpMnh0T3JXc09yVFZnc2dSSHJGLVotZ3pZdkQxaUxFRDZKTU1PbFJZSkJuYVNDR181SHJLbW5FYkFYV0xjc2Q5VTltOEx5UW1hcHhqSlRFU0JaOVlXS1pJdlFZd3V1TXFnX3gwZmlOWE9yQkctRU5BaFJWbnNQRnVNajgyVXRrWkp4YWYzaw?oc=5
-
-- 30 years in technology: Anil Chakravarthy’s journey from Bengaluru and IIT-MIT to becoming Adobe’s next C - The Times of India
-  Anil Chakravarthy is the co-founder and CTO of Adobe. He
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxNSHowbDRBdGpiREp3THJ4SXdzU3prbE16b3Z1Q0hfVlJQY0RjNWZldUVPdGpmME1PM3lqY1NIVnVIbmFURkVEcjZhWGtVUGlTXzYxVzdQLVowNUprWVJDTUxxMHZ6WUdNMEdFYzI4SldrajYzdXkwQXFDTk9NcWFrLUZaMjJja3htdVdVektOMmIxM2s2Z1dDbXVhdUxwVzJONE5MYUNMSS1mQjdBem8zUm5qSDdSOUFRYWZOQ1lOUmtQUG1BZFpBV1FMRG1zd1BtYjJ6RXE1WldPWTVEWWdYZVZmY2g5cEpudTNRMXh6V0ZTd3U3U2E0RVBjYzZsT0dEVGVONG1MZmdPOWhPRFHSAZMCQVVfeXFMUDM3TFQ4a0o4dHNIT1hNN2Q1NE9nQVZSLXNIcjVNQkd3ZVRPdUJoQWhNaVViR19LaDlDY0tialF2M25xVWRqaHNneF9NeTJyTzRtMXFCOFFuSGppbVNnYkZwVjFtbUFJdkZDLWNlcDRTRVZ0VjdmNkVsRGJ0UmtaSUx5T2Nlc1BPQmRZZ0ZhVjJVbkpQeEQ2bjdOSVVKM216ODlnZVZZRUp1ODhUb0o5dThrcEo2UE5aM2d2RUNsajZiS19aeElpX0YtTkVpYWx1RDkwT0RFRG1kcVg5SU01bXZKTVE0X2RBRGtoamRMZm5kVVBHTnVGRFBrVHVxeXl6M0VNU0V2X2duWkdoaHltUklJSkE?oc=5
-
-- NFRA Forms Advisory Panel on Audit Quality & Technology - Rediff MoneyWiz
-  "Rediff MoneyWiz" is
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHVOdEJtOUZJREhNRkVjczBGOG1IUTZfZG1EelFjSEtvS01JYmgwU3RxTzByUEN1cE9NS2VHZ1ItRnpjX2dWYkpkc3labi04UWVZSElVSjNXcW9JZ1ctaW9DR0ZYYzY3aG15SHlqNjEwZUZDTHRyUEJPX0dQaXZjWXRfY2RCYjdCaFdMNjFGdWNMakdubHBhRGxhcHJHb0s3TF9kSFAtOXrSAa4BQVVfeXFMT3ZyTG1PU0tnZlJ0MjFMZTlhcTkxZEpGcTZLS2c0SjZZQkNuQ2V1WWdidi1qZDl4aXZSNXBBUGlEWG94clFZOUl4M2RldVVFVG5yV1RoNXNjNTBkVk9RakhQSjE0cUotQnJXM0ZwOXY5QlRsSE5HUExEU0dnVmNSNGZIU1UtU3A1aEtra2dzdjJmaHQ2ZDFVTFFjd2pRYWpEWjNXamlHLV9wcnFKUzhB?oc=5
-
 - India moves to buy 5 more S-400s after Op Sindoor success; Russia sends cost proposal | India News - Hindustan Times
   India moves to buy 5 more S-400s after Op Sindoor success. Russia
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0plUGptVjhtNGpwU2NLODFCUS1RQzBfSlAyUXVTN1RibVhFYjdzNXN0UEhCWjRfTWRDbHlOMlRReENsVVBhN3pVRHFaQ3BkdGk5TUF0VGdXZExYNUZ4ZGtXMk5VS2MtM25vTGZBeF9udWJaZG8zaHM4VlpzNnM1OGRFTWcxbmVXWkZBUG1lVmlnejR6SDZfSklUSGdrdHd4d2lVVWdjLThMMHVscFk4RzFhcFJlNnk3dkZMMHAwUnhMX09WWVZnbXFrRUVLZTY2b3ZnWkE4MklVdXFlam9oTNIB5gFBVV95cUxNOFZhbWhMYVRhWmxreWRGZTlPUExBNlZ3ajdSVHlTVW1VeFFsOUpBS2RlVXc4TVhRZDJRalE5eGg0S2o5c0VCZDRKRS0zMFJEWm1FTzhiWG00aV9xTGVjRThFLUk5Y0t6eFMxNHg5eXlQTTVWUGdkQjgzWlJjZXhYNUZiRHdnS0x2VnRuTXpTMno0VmJGa2E2SnljQ3N4NTdlS3IwSTFvQW1uWm5zWENackJMUTdJT3I3SmtuN2xRUnRrZE5tdGlGeWx0UGpOTGNmNWs0dk5KNm4wd0ROVk1Gd2J6ekEydw?oc=5
 
-- NDTV's Global Impact: UN Declares November 27 Day Against Child Marriage - NDTV
-  NDTV's Global Impact: UN Declares
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxORkk3ajJGU1ItLXg0TVpQeFlPMG9xOUtoQ2pFNEZHU3Zvazc4VlJsN295b0tKanVnU0xaUGZWamVhZVZIVHlsMW5qM0Ewdlk0UkpNNEJxV0p3di16SVotTW1SSi15d0s1bko4M1V0N3U5clFFclRMOFRqaEUzZjhTUXl5T3AzVUJEU3lEdjhsc0pEZFhfV3BsR1BsTnBXN2p6WWJmeU13Y0RselRjRndOctIBuAFBVV95cUxORDRTYmpxeFhWX1Jtc1BFSkMxbThLcGp6QzZKbWhuYUVDRVJRQXJiaWg0OFQtZ25ZRlg2OG5fcV9HZy15X0s4TXY2MHJDNlJRYklvc3VUZjJZX19iS0FMNHAzR1dCRGdJYTRUcGVySV9GQ08xOEU2NVZab1BQbFhBT3lOT2hPc3Z0UmlneHJPcktOZkhWSUh3cXRGWWdEYU9VZEpOZ0JlXzBoS05idExiYVZPclE0SzBR?oc=5
+- PM Modi Back At Shri Ram College, 13 Years After "Glass Full" Speech Launched His National Bid - NDTV
+  PM Modi Back At Shri Ram College, 13 Years After "Glass Full
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdkdpeHFNMU5EdjlNVXNTN3hXU0g3dnZqUlNBYU13cm1HbV9XOU8yRUFQZVNCRnpWWEgwZkxJS2phYUtKTXY3TzVlNGhsY0MzNkltUTZKRUI5VThjbHQ4T1pJOGhLRENXTERvd09wVzdQUlkwYTI4Vk1sR2lsVkxJMGdMQ3ZOcGdlN0FwMnAzVVZSbWU2YWdKWGtlaFJhMkRPXzZfSF93LXhjVU1NX1labWw2dTdRMzJKRjlBYTVoSHYtaHF3YnBXaHVUNE1SNTk1YmIwYUVMNTNqeWxTcDN2bmNDOFF6VmRmR25remtR0gH2AUFVX3lxTE1lbHZ5TFNRSFA1TVR6TnRtVUdJVEVKd3NuZ1pvbkZGQzV5N3lyY1NQS3plMnE0MU5KVW5BT3pPaUtXbmxqbk9ZcXk1d0syS2Q0bEFyelUtd2NtbE84cWlkaWdEaFd4UnhlT3dxNnF4b3NTMU5DazdsRFhwX08yNkV5Y2I2eVRZdHI1QjNjNFB0V3pETmQ4T2NzS09RZUxDeXpWZUpxa3l3VEh3cUdxMXVFeTZVM2tlUDc4bDVSQnlDalhETzROc3l3d3R3TExDSll3cU1lcThoVXNkT29KbV9zUm1oS1RuMDh3Mmg4OFBzVGtKUFdmUQ?oc=5
 
-- India needs stronger MSME supply chain, say experts - The Hindu
-  India needs stronger MSME supply chain
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNblVMaE4wMjNTcnhLQ0NUODczWkJtUkNaclN0UzBkdjRZaURRcHRxbmpUUnVnVUNtcl9IRHN6d0NBaGctQkRBUGI0aWgxYXY0ZWUyMTdKekRmMGdGd3VYQm5PQ1ZqODhaVmtyMXlJU3F6LWdUSTg4RlM2a3RfZG0xU1Z0bTg1Qzh4RlhmUlU2WUpUY1RXcmlGeWNyTG1NU3ZkOGc1SzduUDRhbkhxRGI3N0xtNE5MUzExRTl4MdIBwwFBVV95cUxPTlJUWEtIb0Q2YWdtZEgzNWNJTHdIUThWOUIwV0w4N1pvM1BNazkzZXVFOENuZ1FiMjYxbTNTdEVrMW50VEEyR2U5dXJOOWZjcmNBQ1lpalhtYS0yaWNMazh2UGxNdDZVMjBrQW5CdXROS0szZkFOaG1ISF9DWENsVFpuWWJhMlJMRXNoMHEwUGlERHpoc24zeHhDQmpBLThEUnFMMnlBU2lISGRPLWQ3RmhaaTdoU0loQnNkUkJTRzY1ZkE?oc=5
+- PM Modi takes Delhi Metro to reach SRCC for college's centenary celebrations | WATCH | India News - Hindustan Times
+  PM Modi takes Delhi Metro to reach SRCC for college's centenary celebrations.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWWxYS045SnBNMmJmVDZPMUdDMmxORWZ0dGhNcEdoNUt5b1RHa2puV0lscjdIOGY0bFFqZlp0WjZ0RmE0bXljMzI4NV9lUEJhdmlUdDR3Vk94RGtnU3ZrQmJjVUpsZU1MdElFVVhKLWpNTkdfc1Y5NTA5NVlDa0xqOUt3QTNNZ3J1TW12WDJCcGdCdHU1WXNLcTR6dFRjNG1jUkRHTGR2Tjl5WTIySGdGSlItTnNYcEZUbjk3TjBCUzVnbmQtcGZTVUk1V0Z6SGFTc1FSTXcwUmY3UjhKS1hEOEFaOE7SAeoBQVVfeXFMUHdyZU95dEFyM2FkU213UGxTb1lWZ3VvTDlRRVhscDdZdnE2d0d2bjlMSl9rWFdPTDdZSDl3UlRPQmJZQWhVMkZXaEw5VWpCU0h1aGhIQ1c5Q0hkWlVWZVZDYVVxa0pzZTBkREFaT21rams2bE5wSlpEaldYeXJmQWRsblE0MUxaYl9QUVRta2dvQmdMaVdDcGtoZWVfdmt5TW5GMmFrLVN0cDZSdkh3QnFsTGpqai1rcW5vcEozY05zZFFQcV9OejU4cWw2MElTT0dqeXJTbjB6MkZHOWNlSlBiWHUwaVhKYkln?oc=5
 
-- Productivity to drive 35% of India's future manufacturing output: KPMG - The Economic Times
-  Productivity to drive 35% of India's future
-  🔗 https://news.google.com/rss/articles/CBMixwJBVV95cUxObVd1UGFfU3JPaWxFSEhjRFh1UktWV3NBSXBIMDllU2xTbzNlMjVscnozZkhJSkhjRTVJUVA3aTZfT3UwaEU1QWFoUVlUX0s5ZS0zcjROTm8wZHVWaW54bk1BNHpWSjBmN2lodXFuSmd3X1h6eDl5M3RKY1UtSEVZRWhidjZ1MTZqYlA2REtHY0ZjV3ZSUGs1YzlhVm1PbVNmdElPVUxxY1AxZ2NieklsYjJlZHBJRXVzQ0gwQ0NVSm1RRmNMRjBwMzdrZ0JHVjlnbklJOVhHcjBWbHhoMWFneV9UZTQ3WTMxLUl2aG5ZUnpob2dUbnBMMDNXOFBkZjdUcTJzMF94RnZscmQxaEdXcVlwWUVzSk8xZTg4Y1c1eUVxR3hyQXU2Uk9oWE9SRnIxdzhpa3NmcWJ1NFlJOVNDeHZJd09TRmvSAeMBQVVfeXFMUE1nWXZxQkdsT0FJQVNRZTQ3LVBjMzd4Mkk5VW1uanZHMHdhWUZxU0twS2dxSW5YM0ZkSXRnTDVlT0JOYzNGUmVqUkNoWjM0RVlZZlBjYkU4a1pieUUyZVlnY005MlN6U3EyZWk4MTNJTmxnWDhJdEtPMGhsNi1Zc1dBSmJicUk5R3lCUmFXalZkMFo2dW14M3REcFRBdmdxeDZaSzhSaTVhUmZaLUotWVZ5b2NxME1fQzRPdUhNOUVoUTRwMXVfRVBFSldfUl9ReG1tZXBzMTF1MHd6T244UUlXUXc?oc=5
+- India votes in favour of UNGA resolution endorsing new world map - The Hindu
+  India votes in favour of UNGA resolution endorsing new
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOY3BTTEI4UnFkckZtQlNrbFlkaUowUWlWbzNqdHFpNlhMNmxkWGVzX2wzeWdBUmw2QXdjS2plbkpXdmlhQUsyajZRVFIxbmpuT2x0R0tCQkFnNkVwX0plbmlaZWhpQ0RzMFgzV3pJY1RBdW1JbU51WG9aWHdwSjFUSzZqejJuWXV0aGgycDZkTF9VUHBJYXM3ZjBvSEYyRGd1ZlotaEVmYmsteGdvM1hoU0cwcjBDaW9paGwxUFBCN3ZReExfQnBr0gHOAUFVX3lxTE02Si1KLVp0Ri1saW5qR3hlcE8yazlUazFtT0ItNVZxTjJ6ZDJ4XzdjTXpCbkRjVW9uMjBkRzRncVBrRERPX3dJWm1Ock9sQ0I0RlBrTk96Y29TZEFla2FLakNaSXlVX24tX2RWM2t5NWF2czRXdEFQLXRTQlBZbVFuZEE4Z213dklXN09ZUzluZTNUWW5nS2dpLWFTeWI1MkRMVkQyMjhPVGxKREFUWGNsUEtNUmVqVVRfdXFIZFg3Z1JqY2VTSTVxQnBhV0pn?oc=5
 
-- Maharashtra gives taxi and tuk-tuk drivers a year to learn Marathi language - BBC
-  Maharashtra gives taxi and tuk-t
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE05SmxXRmU2dE0zVEVTNFNad2FFWm5vZnA0RDZDNmZDRUFJT3Zwb0lkMkhNdGNGcmFIMkUzS013N01iYk5wcDZLS1ZkeHNYcFhTSmNNWFFzck1idw?oc=5
+- Air India sacks Delhi-Phuket flight pilot who tested positive for drugs - The Hindu
+  Air India sacks Delhi-Phuket flight pilot
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZHZfM29OUVpQS2FIeTJkejFETWEteHdPOHg5SHNmUktKUzI0TF9CRFZoNzBiTkw0amF3bDBDVG9qWFcyTlBBM3Fib1lHRXVKNVJjR2pSVnFEVVY3TGVMN0hOSGdzSDhrR05aaTVkRHg1NGRXY2VaQlRCRU5YQkI0SkRkX1lTajNxYTYtUTlXQkd3a1E0OU5wbXVMeUpod2x3a0UzMFlhLVFxWjU0T2hKWVVKNXQ1OHRyOUpGNTI3SFRQV1d3aVVuWUQxWG5CUE52aXI0NkdrcjdwTi13WHU5eUY5b011czRxdFRXS25UVGzSAfcBQVVfeXFMUFo0UTNncG5qYWxFb2lvRVNCTUN5dnliNnhQa1dqd3EydmRacUhzVmozZmxLTUtkRW9qT2VxRmJMclU5RldsXy1DdEdqUkpqejkzRmdXVEpIQXBrTzJqWkdlb1ItOFNLMWtnRTZJVC13dGI2ckpPbkVtTGFvd1cxWHcyZHZXc0dMT1I2NUJ6OWI0c2lMV2syaGVXeTZ3WmdaVDBIYm9FLU9VbTNCYXlZQ3N0TFRXZEtXWkw0OGtiMDlsZmpzNy1ROXZPbHZ2NUlqQ250QV9HVW9CcGY5R1BUbF82N2N1bi1pdFc2TnlnanlteGozQlpVWQ?oc=5
+
+- ‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? - The Guardian
+  ‘We’re plausibly close to crossing the line
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5
+
+- Has Technology Sucked the Soul Out of Football? - TheWire.in
+  Has Technology Sucked the Soul
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXZpVWdaRDUzQzRTS21naDhRaWtwOU1vdGt5UEszYnVGNnhuM2hvd1JpVjhMQ2MxOU84QmkyOUxtYWNqLXJCaEFNZ29KNmFfOGVZSHpDQUloTEF1cUNyWkdJT1RwUmZhY3lnbTNTV2tfcnItenpyeWxtZFpKdTFaWGZtUURzWWh00gGOAUFVX3lxTE9yZUpIZlA5UE9vdVlMdkVjekxnc1hTU1BlaGhJMVI0dUFXYktXV3Y0Y0xmYXl6Snd4RGU2SFJsLUtQSFhJSEg2RnpPMWVraUE1QTJNQzZVM25lODdNMDJ3eGZiWDRnSHc1eWRJVjBsb19yYmM5aDF3VzhudE5aZ3hNMGYxZTR3dzZ1cnFOVnc?oc=5
+
+- Indonesian minister: China's technology brings opportunities - news.cgtn.com
+  Indonesian minister
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzkxSjI3N1kxT19KWmNkWl9wcFNmalhVMkJ3eU5sUnd3NDZDUWJGdUtnR0pia1cyMVRuakRMcmY2V3R4Y0pBMkxrWE03WlpUN0VmSlF5UFNpWFY4S0NhR1JscHBDNU9IaXhrcjB2WG5IbDk2NHNpV0hrMlBRdjRFUHQ5dTFvTHlTaWFWVFVHM3lkUmZNY3dKUUdQcHVlR3phdXNoclpXNGVMTXRqaVdhUmFMMHFQaHRm?oc=5
+
+- In 2020, Cincinnati mixed 4,290 pounds of recycled plastic, equal to 71,000 retail bags, into a 2,885-squ - timesofindia.indiatimes.com
+  In 2020, Cincinnati mixed 4,290 pounds of recycled plastic, equal to
+  🔗 https://news.google.com/rss/articles/CBMiugJBVV95cUxOOVhnbllWdWJJdDJMZ2hTREpMNi1vSXJQVzAxenpoekJDOXlRdUJUODJVYnhUekEzdGdTYnpWZWU4TW1rTUJhclE4dmJtSC1KMnJOZlZWZkVaMW9aVm9VMWdtRS12TDZwcjBOX2I1QzhzYnZ6WmpZN2JBWWJScnB6d0pLdC02SktKdFZvZEZpeFozRVlhOVRDRnQ3NDNPMmVnQlBHdlppTVdXYnZzTmpXMndsZFA0cGR2NTNleVQ2M1FIb1NLVWxMblpsa1BpSXRxSnNJNGdMNnJSRUhfTGxhdTZrcHlJa2c1aWFkYUxTcUdtRGpWbjhYaTNWVTRnZEdSY3NnSjVyT1dUcTY5V09qNjZUSVJlOTJWcUFEdGpSMWlqWE5EdklTSGYyeUJTU29BZ2xEQmRKMTdUUdIBvwJBVV95cUxNT3YybXlyMEJnaWc4TndxWDdqWE9qYXNkZkNKWW56RVQyN0lZTlV6UWZROElMQ25vcF84c2thR2ZiSnI1bzNJZDZuc0pTU3UwdmFZWU41TnNhUm13RS15VHZjUGhXUTlSSTN1OTFLbDNBN1BISXhHWm9GbWJvSk0zelp6YktBTFM3V3BaVjRlZHVyeHI5MmpGWlZ5VmNHNnNtNjA0aU5oaVNEb1NkLVlFVTg2Unpfd1Rpdkx1TEVKdEdmWWFXblhYbUs5UlNiYTloTjU0WlhnVXhjRnhSd1RqanloYzFTTDI1RXRjNFZsVENlWmlJWGNlak1udUJ4V18tdlNNOEljRFB3UFQ4NGFaN09iT0VwamhaVDRibmctZmpvazJxcnZWUVI5dDN0VkRDemE4T2pjb1RMa3pHZnVV?oc=5
+
+- IIIT-H launches Centre for Educational Technology and Learning Sciences - Telangana Today
+  IIIT-H launches Centre for Educational
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0dRdEQtcG1WczhiN3VfV0JKeVNScGk2RnVaUXhjYS1GSUZMWXlkZklXcmNZYkozVy0wdkdiZUdwLUhob1dYSXBobTIyUE1vN2VKc3d5YmptTGx3RVRsSWlSNGtTOE12R05MNEQ2blJ2Y05CeXJIQ1lHRWdudmdUcTYwTFpqc1RGQVBibHZwNzVZWGtyUmR1c1dsZ1B4dFE?oc=5
+
+- Who’ll be next Tata Sons Chairman? TV Narendran or Saurabh Agarwal? But, NSE’s Ashish Chauhan emerges as dark horse
+  Narendran has emerged as the frontrunner among internal candidates. Agrawal is also in the reckoning with his investment-banking and capital-allocation experience. Chauhan, a veteran of India
+  🔗 https://www.livemint.com/companies/news/wholl-be-next-tata-sons-chairman-tv-narendran-or-saurabh-agarwal-but-nse-s-ashish-chauhan-emerges-as-dark-horse-11788614697874.html
+
+- TCS’s HyperVault to build 1GW AI data centre in Telangana's Hyderabad: Inside  ₹70,000 crore ‘historic’ project
+  TCS's HyperVault AI Data Center will create an AI-focused facility in Hyderabad with a 1 GW capacity. The project promises job creation and aims to become a leading AI
+  🔗 https://www.livemint.com/companies/tcss-hypervault-to-build-1gw-ai-data-centre-in-telanganas-hyderabad-inside-70-000-crore-historic-project-11788610018101.html
+
+- Jaguar Land Rover layoffs: Tata-owned carmaker announces 4,000 job cuts, says ‘we must adapt’ - What we know
+  The British carmaker has told employees and trade union partners that it is opening a voluntary redundancy
+  🔗 https://www.livemint.com/companies/news/jaguar-land-rover-layoffs-tata-owned-carmaker-announces-4-000-job-cuts-says-we-must-adapt-what-we-know-11788608182559.html
+
+- Subhash Chandra’s troubles mount: CBI files FIR alleging net worth ‘inflation’ to secure  ₹980 cr loan from LICHFL
+  CBI has filed an FIR against Subhash Chandra, alleging his net worth was inflated to secure  �
+  🔗 https://www.livemint.com/companies/people/subhash-chandra-s-troubles-mount-cbi-files-fir-over-alleged-net-worth-inflation-to-secure-rs-980-cr-loan-from-lichfl-11788603370946.html
+
+- PUBG-fame Krafton to invest another $250 million in India as it expands beyond gaming
+  Krafton plans to invest an additional $250 million in India over the next few years. The South Korean gaming company has backed numerous startups.
+  🔗 https://www.livemint.com/companies/news/pubgfame-krafton-to-invest-another-250-million-in-india-as-it-expands-beyond-gaming-11788575428581.html
+
+- American Farmers Sell Into Long-Hoped-for Crop Price Rally
+  Punishing temperatures swept across the US Midwest this week, prompting another round of heat advisories. For America’s farmers, the sweltering conditions
+  🔗 https://www.livemint.com/market/american-farmers-sell-into-long-hoped-for-crop-price-rally-11788612158852.html
+
+- 7.8% GDP is good news but why skyrocketing KOSPI, Nikkei, Taiwan remain a major concern for Sensex, Nifty | Explained
+  The key benchmark indices of the Indian stock market, Nifty 50, registered an 8.60% loss in
+  🔗 https://www.livemint.com/market/stock-market-news/78-gdp-is-good-news-but-why-skyrocketing-kospi-nikkei-taiwan-remain-a-major-concern-for-sensex-nifty-explained-11788603071280.html
+
+- Stocks to watch | LIC gets RBI approval to acquire up to 9.99% stake in ICICI Bank
+  ICICI Bank received the RBI's letter on Friday, approving the LIC application to
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-lic-gets-rbi-approval-to-acquire-up-to-9-99-stake-in-icici-bank-11788605077824.html
 
 - Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy for short term
   Mehul Kothari of Anand Rathi recommends three shares to buy for short term.
@@ -48,41 +80,37 @@
   SBI and Bank of Baroda are among the four listed companies that have offered to offload their share
   🔗 https://www.livemint.com/market/stock-market-news/nse-ipo-ahead-of-mega-rs-30k-cr-issue-should-you-buy-sbi-bank-of-baroda-shares-what-investors-should-do-11788589785827.html
 
-- NSE IPO: Latest GMP price, expected date of opening, allotment to listing | All facts and news that you must know
-  According to IPO Watch, NSE shares are available at a premium of
-  🔗 https://www.livemint.com/market/ipo/nse-ipo-latest-gmp-price-expected-date-of-opening-allotment-to-listing-all-facts-and-news-that-you-must-know-11788584640136.html
+- While Big Tech chased AI, Apple built something else – Its biggest product wave yet | What’s coming in 2026 and beyond
+  Apple is set for a major product launch as John Ternus takes over as CEO. Key products include a foldable iPhone, updated Apple Watches, and new MacBooks.
+  🔗 https://www.livemint.com/technology/gadgets/while-big-tech-chased-ai-apple-built-something-else-its-biggest-product-wave-yet-what-s-coming-in-2026-and-beyond-11788606088429.html
 
-- Top 3 stocks to buy with target price, stop-loss: Expert Sumeet Bagadia shares recommendations for Monday, 7 Sept 2026
-  Sumeet Bagadia recommends three stocks to buy on Monday. Tata Steel,
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-7-september-2026-11788580369064.html
+- iPhone 17 gets massive discount on Flipkart: Here's how buyers can get the deal under  ₹54,000
+  The iPhone 17 (256GB) is priced at  ₹82,900 but can be purchased for  ⁹53,817 on Flipk
+  🔗 https://www.livemint.com/technology/iphone-17-gets-massive-discount-on-flipkart-heres-how-buyers-can-get-the-deal-under-54000-11788605766447.html
 
-- Dollar deluge from FCNR push to test RBI's liquidity drain toolkit
-  RBI's dollar mobilization drive has far exceeded expectations, drawing $136.4 billion. But the inflows have also sloshed the banking system with liquidity.
-  🔗 https://www.livemint.com/market/dollar-deluge-fcnr-liquidity-rbi-mesures-foreign-reserves-market-rupee-11788517231526.html
+- Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement
+  Seattle Times, News
+  🔗 https://www.livemint.com/technology/tech-news/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-11788578229143.html
 
-- ‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true? - The Guardian
-  ‘We’re plausibly close to crossing the line
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5
+- Rogue OpenAI agents turn German website into message board for other bots: Report
+  A group of rogue OpenAI agents took control of a German website this spring. They turned it into a message board for other AI agents.
+  🔗 https://www.livemint.com/technology/rogue-openai-agents-turn-german-website-into-message-board-for-other-bots-report-11788576523223.html
 
-- Volvo Cars Kosice Plant Gets Dürr Final Assembly Technology - Autocar Professional
-  Volvo Cars Kosice Plant Gets D
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPUlFqcWVqZUJWQ0FybURRUFJfNUJDak1rVWlsY1hoSWc0YlloTWNPWHB2VlRPUlNuNDhCU1FlNGJqYWppY01EQ25Ib1FxeTZ2aUtiNWhlcVZMQm1zLXU5M3pSanQ2TmdMb1hEZkp5cmF5OHVXTXA5VldCdHM2SWdydGV5bXZYczBGVFlZU0c5WHdBZFZDRHdWOGI1b3MyQdIBpgFBVV95cUxOQ0RlZFVMVWZMYUdveXRxeE1xYnJrRndNU0U2c1hYVkZfZGFOQkYwcjg1ajdZbGdYaTQ3a2FXak16ZXg2NUN0TTNBVUloNHJjQktqOGtob1RXcEM3X2FORVQ0MmRVSGRwZ1AyY1MxMlVKYVZtaU5qaEhXSEQ0Nk9jU2ZxVVhYNmtla0FISUoxNFFBMTIwUHN3R2FFbHZsVE1LbU9tNTNn?oc=5
+- iPhone 18 Pro, smart glasses &amp; more: Apple’s expected launches on Sept 9, late 2026 &amp; 2027 under CEO John Ternus
+  Apple is expected to unveil a major lineup of products across September 9, late 2026 and 2027. The iPhone 18 Pro among the key launches anticipated at its September event. It is also expected to introduce smart glasses and other
+  🔗 https://www.livemint.com/technology/iphone-18-pro-smart-glasses-more-apple-s-launch-checklist-for-september-9-late-2026-and-2027-under-ceo-john-ter-11788535495991.html
 
-- Teachers' Day 2026: President Droupadi Murmu Urges Teachers To Use Technology In Education - NDTV
-  Teachers' Day 2026: President Droupadi
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOM1pjMDBLV3JSdkpvV3dPZzZydEd3a3hKamRtLXd0T0d6dDhGcEVhdTduei1rT2QwSktxUzV4d1dTT2cxd1hDRlRVU0Z6S0NtTFZvQktNYjI3TlF2dExBTEpqQUpZX2c4bHg3Nmx5ZXdEQUQ1My1OajIxaHRTbG9HM1J1a0dSMTMzc0xOZjVvbS1aX0c5eFB5VTN1QVJYc3I2TUx2VXpHTUxwSFYzWnU1c0h4c2ItbzB0NHVCTUJOaU93aWpJcXA00gHPAUFVX3lxTE9uV0lDemdTRElaYlNXYmgzZlp0QUxHVnNJOXM5a2NqV3FNZDN6blh6dE5GcGxxd3BOUWdCdnZsVENYX2RreFNUelVpMnh0T3JXc09yVFZnc2dSSHJGLVotZ3pZdkQxaUxFRDZKTU1PbFJZSkJuYVNDR181SHJLbW5FYkFYV0xjc2Q5VTltOEx5UW1hcHhqSlRFU0JaOVlXS1pJdlFZd3V1TXFnX3gwZmlOWE9yQkctRU5BaFJWbnNQRnVNajgyVXRrWkp4YWYzaw?oc=5
+- Tata Motors launches tender offer for Iveco Group; deal values company at €3.82 billion
+  Tata Motors launches a €14.1-per-share cash tender offer for Iveco Group. Deal targets full acquisition and delisting, amid strong Tata Motors commercial vehicle
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-launches-tender-offer-for-iveco-group-deal-values-company-at-3-82-billion/articleshow/133798356.cms
 
-- 30 years in technology: Anil Chakravarthy’s journey from Bengaluru and IIT-MIT to becoming Adobe’s next C - The Times of India
-  Anil Chakravarthy is the co-founder and CTO of Adobe. He
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxNSHowbDRBdGpiREp3THJ4SXdzU3prbE16b3Z1Q0hfVlJQY0RjNWZldUVPdGpmME1PM3lqY1NIVnVIbmFURkVEcjZhWGtVUGlTXzYxVzdQLVowNUprWVJDTUxxMHZ6WUdNMEdFYzI4SldrajYzdXkwQXFDTk9NcWFrLUZaMjJja3htdVdVektOMmIxM2s2Z1dDbXVhdUxwVzJONE5MYUNMSS1mQjdBem8zUm5qSDdSOUFRYWZOQ1lOUmtQUG1BZFpBV1FMRG1zd1BtYjJ6RXE1WldPWTVEWWdYZVZmY2g5cEpudTNRMXh6V0ZTd3U3U2E0RVBjYzZsT0dEVGVONG1MZmdPOWhPRFHSAZMCQVVfeXFMUDM3TFQ4a0o4dHNIT1hNN2Q1NE9nQVZSLXNIcjVNQkd3ZVRPdUJoQWhNaVViR19LaDlDY0tialF2M25xVWRqaHNneF9NeTJyTzRtMXFCOFFuSGppbVNnYkZwVjFtbUFJdkZDLWNlcDRTRVZ0VjdmNkVsRGJ0UmtaSUx5T2Nlc1BPQmRZZ0ZhVjJVbkpQeEQ2bjdOSVVKM216ODlnZVZZRUp1ODhUb0o5dThrcEo2UE5aM2d2RUNsajZiS19aeElpX0YtTkVpYWx1RDkwT0RFRG1kcVg5SU01bXZKTVE0X2RBRGtoamRMZm5kVVBHTnVGRFBrVHVxeXl6M0VNU0V2X2duWkdoaHltUklJSkE?oc=5
+- FIIs are coming back: Can Indian stocks sustain buying for 3rd consecutive month in September?
+  HSBC estimates up to $25 billion could enter India if global funds restore neutral allocations. August FPI inflows exceeding $3.2 billion. Consumer Services, Financials and Healthcare led buying.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-are-coming-back-can-indian-stocks-sustain-buying-for-3rd-consecutive-month-in-september/articleshow/133798249.cms
 
-- NFRA Forms Advisory Panel on Audit Quality & Technology - Rediff MoneyWiz
-  "Rediff MoneyWiz" is
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHVOdEJtOUZJREhNRkVjczBGOG1IUTZfZG1EelFjSEtvS01JYmgwU3RxTzByUEN1cE9NS2VHZ1ItRnpjX2dWYkpkc3labi04UWVZSElVSjNXcW9JZ1ctaW9DR0ZYYzY3aG15SHlqNjEwZUZDTHRyUEJPX0dQaXZjWXRfY2RCYjdCaFdMNjFGdWNMakdubHBhRGxhcHJHb0s3TF9kSFAtOXrSAa4BQVVfeXFMT3ZyTG1PU0tnZlJ0MjFMZTlhcTkxZEpGcTZLS2c0SjZZQkNuQ2V1WWdidi1qZDl4aXZSNXBBUGlEWG94clFZOUl4M2RldVVFVG5yV1RoNXNjNTBkVk9RakhQSjE0cUotQnJXM0ZwOXY5QlRsSE5HUExEU0dnVmNSNGZIU1UtU3A1aEtra2dzdjJmaHQ2ZDFVTFFjd2pRYWpEWjNXamlHLV9wcnFKUzhB?oc=5
-
-- Who will succeed N Chandrasekaran? 3 names emerge in Tata Sons chairman race
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/who-will-succeed-n-chandrasekaran-3-names-emerge-in-tata-sons-chairman-race/videoshow/133795419.cms
+- ITC’s tobacco business is going cheap but Kotak Institutional Equities thinks market has it wrong
+  Kotak Securities estimates ITC’s tobacco business is valued at just 11X forward earnings. The brokerage sees stronger growth in non-tobacco
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/itcs-tobacco-business-is-going-cheap-but-kotak-institutional-equities-thinks-market-has-it-wrong/articleshow/133796628.cms
 
 - FII money trail: Where did overseas investors put money in second half of August after $3 billion inflow?
   Foreign portfolio investors poured over $3.2 billion into Indian equities in August. Consumer Services led buying, followed by Financial Services and Healthcare. Telecom and Power continued facing
@@ -92,13 +120,33 @@
   Former Tata Technologies CEO Patrick McGoldrick sold shares worth Rs 165 crore. He offloaded 21 lakh shares, reducing his stake to 0.62 percent. Mutual funds and asset management firms acquired these shares at Rs 785 each.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/former-tata-technologies-ceo-mcgoldrick-sells-shares-worth-rs-165-crore/articleshow/133794536.cms
 
-- Bitcoin trades at $79,000, next week’s US inflation data to test rate-cut hopes and crypto valuations
-  Bitcoin hovered near $79,000 as investors awaited US inflation data for clues on Federal Reserve policy. Softer inflation could revive rate-cut hopes, while hotter data may reinforce higher-for-longer expectations.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-at-79000-next-weeks-us-inflation-data-to-test-rate-cut-hopes-and-crypto-valuations/articleshow/133794377.cms
+- India moves to buy 5 more S-400s after Op Sindoor success; Russia sends cost proposal | India News - Hindustan Times
+  India moves to buy 5 more S-400s after Op Sindoor success. Russia
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0plUGptVjhtNGpwU2NLODFCUS1RQzBfSlAyUXVTN1RibVhFYjdzNXN0UEhCWjRfTWRDbHlOMlRReENsVVBhN3pVRHFaQ3BkdGk5TUF0VGdXZExYNUZ4ZGtXMk5VS2MtM25vTGZBeF9udWJaZG8zaHM4VlpzNnM1OGRFTWcxbmVXWkZBUG1lVmlnejR6SDZfSklUSGdrdHd4d2lVVWdjLThMMHVscFk4RzFhcFJlNnk3dkZMMHAwUnhMX09WWVZnbXFrRUVLZTY2b3ZnWkE4MklVdXFlam9oTNIB5gFBVV95cUxNOFZhbWhMYVRhWmxreWRGZTlPUExBNlZ3ajdSVHlTVW1VeFFsOUpBS2RlVXc4TVhRZDJRalE5eGg0S2o5c0VCZDRKRS0zMFJEWm1FTzhiWG00aV9xTGVjRThFLUk5Y0t6eFMxNHg5eXlQTTVWUGdkQjgzWlJjZXhYNUZiRHdnS0x2VnRuTXpTMno0VmJGa2E2SnljQ3N4NTdlS3IwSTFvQW1uWm5zWENackJMUTdJT3I3SmtuN2xRUnRrZE5tdGlGeWx0UGpOTGNmNWs0dk5KNm4wd0ROVk1Gd2J6ekEydw?oc=5
 
-- Abu Dhabi Investment Portfolio: 10 stocks rally up to 107% in CY26
-  ADIA’s Indian equity portfolio gained 2% in CY26 to Rs 3,792 crore. Paras Defence led gains, while Firstsource Solutions, DOMS
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/abu-dhabi-investment-portfolio-10-stocks-rally-up-to-107-in-cy26/slideshow/133794196.cms
+- PM Modi Back At Shri Ram College, 13 Years After "Glass Full" Speech Launched His National Bid - NDTV
+  PM Modi Back At Shri Ram College, 13 Years After "Glass Full
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdkdpeHFNMU5EdjlNVXNTN3hXU0g3dnZqUlNBYU13cm1HbV9XOU8yRUFQZVNCRnpWWEgwZkxJS2phYUtKTXY3TzVlNGhsY0MzNkltUTZKRUI5VThjbHQ4T1pJOGhLRENXTERvd09wVzdQUlkwYTI4Vk1sR2lsVkxJMGdMQ3ZOcGdlN0FwMnAzVVZSbWU2YWdKWGtlaFJhMkRPXzZfSF93LXhjVU1NX1labWw2dTdRMzJKRjlBYTVoSHYtaHF3YnBXaHVUNE1SNTk1YmIwYUVMNTNqeWxTcDN2bmNDOFF6VmRmR25remtR0gH2AUFVX3lxTE1lbHZ5TFNRSFA1TVR6TnRtVUdJVEVKd3NuZ1pvbkZGQzV5N3lyY1NQS3plMnE0MU5KVW5BT3pPaUtXbmxqbk9ZcXk1d0syS2Q0bEFyelUtd2NtbE84cWlkaWdEaFd4UnhlT3dxNnF4b3NTMU5DazdsRFhwX08yNkV5Y2I2eVRZdHI1QjNjNFB0V3pETmQ4T2NzS09RZUxDeXpWZUpxa3l3VEh3cUdxMXVFeTZVM2tlUDc4bDVSQnlDalhETzROc3l3d3R3TExDSll3cU1lcThoVXNkT29KbV9zUm1oS1RuMDh3Mmg4OFBzVGtKUFdmUQ?oc=5
+
+- PM Modi takes Delhi Metro to reach SRCC for college's centenary celebrations | WATCH | India News - Hindustan Times
+  PM Modi takes Delhi Metro to reach SRCC for college's centenary celebrations.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWWxYS045SnBNMmJmVDZPMUdDMmxORWZ0dGhNcEdoNUt5b1RHa2puV0lscjdIOGY0bFFqZlp0WjZ0RmE0bXljMzI4NV9lUEJhdmlUdDR3Vk94RGtnU3ZrQmJjVUpsZU1MdElFVVhKLWpNTkdfc1Y5NTA5NVlDa0xqOUt3QTNNZ3J1TW12WDJCcGdCdHU1WXNLcTR6dFRjNG1jUkRHTGR2Tjl5WTIySGdGSlItTnNYcEZUbjk3TjBCUzVnbmQtcGZTVUk1V0Z6SGFTc1FSTXcwUmY3UjhKS1hEOEFaOE7SAeoBQVVfeXFMUHdyZU95dEFyM2FkU213UGxTb1lWZ3VvTDlRRVhscDdZdnE2d0d2bjlMSl9rWFdPTDdZSDl3UlRPQmJZQWhVMkZXaEw5VWpCU0h1aGhIQ1c5Q0hkWlVWZVZDYVVxa0pzZTBkREFaT21rams2bE5wSlpEaldYeXJmQWRsblE0MUxaYl9QUVRta2dvQmdMaVdDcGtoZWVfdmt5TW5GMmFrLVN0cDZSdkh3QnFsTGpqai1rcW5vcEozY05zZFFQcV9OejU4cWw2MElTT0dqeXJTbjB6MkZHOWNlSlBiWHUwaVhKYkln?oc=5
+
+- India votes in favour of UNGA resolution endorsing new world map - The Hindu
+  India votes in favour of UNGA resolution endorsing new
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOY3BTTEI4UnFkckZtQlNrbFlkaUowUWlWbzNqdHFpNlhMNmxkWGVzX2wzeWdBUmw2QXdjS2plbkpXdmlhQUsyajZRVFIxbmpuT2x0R0tCQkFnNkVwX0plbmlaZWhpQ0RzMFgzV3pJY1RBdW1JbU51WG9aWHdwSjFUSzZqejJuWXV0aGgycDZkTF9VUHBJYXM3ZjBvSEYyRGd1ZlotaEVmYmsteGdvM1hoU0cwcjBDaW9paGwxUFBCN3ZReExfQnBr0gHOAUFVX3lxTE02Si1KLVp0Ri1saW5qR3hlcE8yazlUazFtT0ItNVZxTjJ6ZDJ4XzdjTXpCbkRjVW9uMjBkRzRncVBrRERPX3dJWm1Ock9sQ0I0RlBrTk96Y29TZEFla2FLakNaSXlVX24tX2RWM2t5NWF2czRXdEFQLXRTQlBZbVFuZEE4Z213dklXN09ZUzluZTNUWW5nS2dpLWFTeWI1MkRMVkQyMjhPVGxKREFUWGNsUEtNUmVqVVRfdXFIZFg3Z1JqY2VTSTVxQnBhV0pn?oc=5
+
+- Air India sacks Delhi-Phuket flight pilot who tested positive for drugs - The Hindu
+  Air India sacks Delhi-Phuket flight pilot
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZHZfM29OUVpQS2FIeTJkejFETWEteHdPOHg5SHNmUktKUzI0TF9CRFZoNzBiTkw0amF3bDBDVG9qWFcyTlBBM3Fib1lHRXVKNVJjR2pSVnFEVVY3TGVMN0hOSGdzSDhrR05aaTVkRHg1NGRXY2VaQlRCRU5YQkI0SkRkX1lTajNxYTYtUTlXQkd3a1E0OU5wbXVMeUpod2x3a0UzMFlhLVFxWjU0T2hKWVVKNXQ1OHRyOUpGNTI3SFRQV1d3aVVuWUQxWG5CUE52aXI0NkdrcjdwTi13WHU5eUY5b011czRxdFRXS25UVGzSAfcBQVVfeXFMUFo0UTNncG5qYWxFb2lvRVNCTUN5dnliNnhQa1dqd3EydmRacUhzVmozZmxLTUtkRW9qT2VxRmJMclU5RldsXy1DdEdqUkpqejkzRmdXVEpIQXBrTzJqWkdlb1ItOFNLMWtnRTZJVC13dGI2ckpPbkVtTGFvd1cxWHcyZHZXc0dMT1I2NUJ6OWI0c2lMV2syaGVXeTZ3WmdaVDBIYm9FLU9VbTNCYXlZQ3N0TFRXZEtXWkw0OGtiMDlsZmpzNy1ROXZPbHZ2NUlqQ250QV9HVW9CcGY5R1BUbF82N2N1bi1pdFc2TnlnanlteGozQlpVWQ?oc=5
+
+- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
+  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to a billion dollar company.
+  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
+
+- ESDS Listing Pushes New-Age Tech Stocks’ Market Cap Past $170 Bn
+  The first week of September was marked by stake sales by institutional investors, fresh ESOP allotments, and continued momentum in tech stocks.
+  🔗 https://inc42.com/buzz/esds-listing-pushes-new-age-tech-stocks-market-cap-past-170-bn/
 
 - From Ultrahuman To Comet — Indian Startups Raised Over $177 Mn This Week
   India’s startup funding market opened September on a softer note, extending its decline for a second straight week. Between August&#8230;
@@ -112,33 +160,45 @@
   SaaS startup Meritto’s parent NoPaperForms has filed its updated draft red herring prospectus (UDRHP
   🔗 https://inc42.com/buzz/meritto-parent-nopaperforms-files-updated-drhp-for-%e2%82%b9375-cr-ipo/
 
-- SUGAR Cosmetics Raises ₹145 Cr From A91 At A Near 80% Valuation Cut
-  D2C beauty and personal brand SUGAR Cosmetics has raised $15.3 million in a fresh equity round.
-  🔗 https://inc42.com/buzz/sugar-cosmetics-raises-%e2%82%b9145-cr-from-a91-at-a-near-80-valuation-cut/
+- India moves to buy 5 more S-400s after Op Sindoor success; Russia sends cost proposal | India News - Hindustan Times
+  India moves to buy 5 more S-400s after Op Sindoor success. Russia
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0plUGptVjhtNGpwU2NLODFCUS1RQzBfSlAyUXVTN1RibVhFYjdzNXN0UEhCWjRfTWRDbHlOMlRReENsVVBhN3pVRHFaQ3BkdGk5TUF0VGdXZExYNUZ4ZGtXMk5VS2MtM25vTGZBeF9udWJaZG8zaHM4VlpzNnM1OGRFTWcxbmVXWkZBUG1lVmlnejR6SDZfSklUSGdrdHd4d2lVVWdjLThMMHVscFk4RzFhcFJlNnk3dkZMMHAwUnhMX09WWVZnbXFrRUVLZTY2b3ZnWkE4MklVdXFlam9oTNIB5gFBVV95cUxNOFZhbWhMYVRhWmxreWRGZTlPUExBNlZ3ajdSVHlTVW1VeFFsOUpBS2RlVXc4TVhRZDJRalE5eGg0S2o5c0VCZDRKRS0zMFJEWm1FTzhiWG00aV9xTGVjRThFLUk5Y0t6eFMxNHg5eXlQTTVWUGdkQjgzWlJjZXhYNUZiRHdnS0x2VnRuTXpTMno0VmJGa2E2SnljQ3N4NTdlS3IwSTFvQW1uWm5zWENackJMUTdJT3I3SmtuN2xRUnRrZE5tdGlGeWx0UGpOTGNmNWs0dk5KNm4wd0ROVk1Gd2J6ekEydw?oc=5
 
-- Inside Urban Company’s Marketplace Model: What It Earns From Every Booking
-  Urban Company pioneered the home services model in the Indian startup ecosystem and completely changed the game.
-  🔗 https://inc42.com/features/inside-urban-companys-marketplace-model-what-it-keeps-from-every-booking/
+- PM Modi Back At Shri Ram College, 13 Years After "Glass Full" Speech Launched His National Bid - NDTV
+  PM Modi Back At Shri Ram College, 13 Years After "Glass Full
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdkdpeHFNMU5EdjlNVXNTN3hXU0g3dnZqUlNBYU13cm1HbV9XOU8yRUFQZVNCRnpWWEgwZkxJS2phYUtKTXY3TzVlNGhsY0MzNkltUTZKRUI5VThjbHQ4T1pJOGhLRENXTERvd09wVzdQUlkwYTI4Vk1sR2lsVkxJMGdMQ3ZOcGdlN0FwMnAzVVZSbWU2YWdKWGtlaFJhMkRPXzZfSF93LXhjVU1NX1labWw2dTdRMzJKRjlBYTVoSHYtaHF3YnBXaHVUNE1SNTk1YmIwYUVMNTNqeWxTcDN2bmNDOFF6VmRmR25remtR0gH2AUFVX3lxTE1lbHZ5TFNRSFA1TVR6TnRtVUdJVEVKd3NuZ1pvbkZGQzV5N3lyY1NQS3plMnE0MU5KVW5BT3pPaUtXbmxqbk9ZcXk1d0syS2Q0bEFyelUtd2NtbE84cWlkaWdEaFd4UnhlT3dxNnF4b3NTMU5DazdsRFhwX08yNkV5Y2I2eVRZdHI1QjNjNFB0V3pETmQ4T2NzS09RZUxDeXpWZUpxa3l3VEh3cUdxMXVFeTZVM2tlUDc4bDVSQnlDalhETzROc3l3d3R3TExDSll3cU1lcThoVXNkT29KbV9zUm1oS1RuMDh3Mmg4OFBzVGtKUFdmUQ?oc=5
+
+- PM Modi takes Delhi Metro to reach SRCC for college's centenary celebrations | WATCH | India News - Hindustan Times
+  PM Modi takes Delhi Metro to reach SRCC for college's centenary celebrations.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWWxYS045SnBNMmJmVDZPMUdDMmxORWZ0dGhNcEdoNUt5b1RHa2puV0lscjdIOGY0bFFqZlp0WjZ0RmE0bXljMzI4NV9lUEJhdmlUdDR3Vk94RGtnU3ZrQmJjVUpsZU1MdElFVVhKLWpNTkdfc1Y5NTA5NVlDa0xqOUt3QTNNZ3J1TW12WDJCcGdCdHU1WXNLcTR6dFRjNG1jUkRHTGR2Tjl5WTIySGdGSlItTnNYcEZUbjk3TjBCUzVnbmQtcGZTVUk1V0Z6SGFTc1FSTXcwUmY3UjhKS1hEOEFaOE7SAeoBQVVfeXFMUHdyZU95dEFyM2FkU213UGxTb1lWZ3VvTDlRRVhscDdZdnE2d0d2bjlMSl9rWFdPTDdZSDl3UlRPQmJZQWhVMkZXaEw5VWpCU0h1aGhIQ1c5Q0hkWlVWZVZDYVVxa0pzZTBkREFaT21rams2bE5wSlpEaldYeXJmQWRsblE0MUxaYl9QUVRta2dvQmdMaVdDcGtoZWVfdmt5TW5GMmFrLVN0cDZSdkh3QnFsTGpqai1rcW5vcEozY05zZFFQcV9OejU4cWw2MElTT0dqeXJTbjB6MkZHOWNlSlBiWHUwaVhKYkln?oc=5
+
+- India votes in favour of UNGA resolution endorsing new world map - The Hindu
+  India votes in favour of UNGA resolution endorsing new
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOY3BTTEI4UnFkckZtQlNrbFlkaUowUWlWbzNqdHFpNlhMNmxkWGVzX2wzeWdBUmw2QXdjS2plbkpXdmlhQUsyajZRVFIxbmpuT2x0R0tCQkFnNkVwX0plbmlaZWhpQ0RzMFgzV3pJY1RBdW1JbU51WG9aWHdwSjFUSzZqejJuWXV0aGgycDZkTF9VUHBJYXM3ZjBvSEYyRGd1ZlotaEVmYmsteGdvM1hoU0cwcjBDaW9paGwxUFBCN3ZReExfQnBr0gHOAUFVX3lxTE02Si1KLVp0Ri1saW5qR3hlcE8yazlUazFtT0ItNVZxTjJ6ZDJ4XzdjTXpCbkRjVW9uMjBkRzRncVBrRERPX3dJWm1Ock9sQ0I0RlBrTk96Y29TZEFla2FLakNaSXlVX24tX2RWM2t5NWF2czRXdEFQLXRTQlBZbVFuZEE4Z213dklXN09ZUzluZTNUWW5nS2dpLWFTeWI1MkRMVkQyMjhPVGxKREFUWGNsUEtNUmVqVVRfdXFIZFg3Z1JqY2VTSTVxQnBhV0pn?oc=5
+
+- Air India sacks Delhi-Phuket flight pilot who tested positive for drugs - The Hindu
+  Air India sacks Delhi-Phuket flight pilot
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZHZfM29OUVpQS2FIeTJkejFETWEteHdPOHg5SHNmUktKUzI0TF9CRFZoNzBiTkw0amF3bDBDVG9qWFcyTlBBM3Fib1lHRXVKNVJjR2pSVnFEVVY3TGVMN0hOSGdzSDhrR05aaTVkRHg1NGRXY2VaQlRCRU5YQkI0SkRkX1lTajNxYTYtUTlXQkd3a1E0OU5wbXVMeUpod2x3a0UzMFlhLVFxWjU0T2hKWVVKNXQ1OHRyOUpGNTI3SFRQV1d3aVVuWUQxWG5CUE52aXI0NkdrcjdwTi13WHU5eUY5b011czRxdFRXS25UVGzSAfcBQVVfeXFMUFo0UTNncG5qYWxFb2lvRVNCTUN5dnliNnhQa1dqd3EydmRacUhzVmozZmxLTUtkRW9qT2VxRmJMclU5RldsXy1DdEdqUkpqejkzRmdXVEpIQXBrTzJqWkdlb1ItOFNLMWtnRTZJVC13dGI2ckpPbkVtTGFvd1cxWHcyZHZXc0dMT1I2NUJ6OWI0c2lMV2syaGVXeTZ3WmdaVDBIYm9FLU9VbTNCYXlZQ3N0TFRXZEtXWkw0OGtiMDlsZmpzNy1ROXZPbHZ2NUlqQ250QV9HVW9CcGY5R1BUbF82N2N1bi1pdFc2TnlnanlteGozQlpVWQ?oc=5
 
 - India moves to buy 5 more S-400s after Op Sindoor success; Russia sends cost proposal | India News - Hindustan Times
   India moves to buy 5 more S-400s after Op Sindoor success. Russia
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0plUGptVjhtNGpwU2NLODFCUS1RQzBfSlAyUXVTN1RibVhFYjdzNXN0UEhCWjRfTWRDbHlOMlRReENsVVBhN3pVRHFaQ3BkdGk5TUF0VGdXZExYNUZ4ZGtXMk5VS2MtM25vTGZBeF9udWJaZG8zaHM4VlpzNnM1OGRFTWcxbmVXWkZBUG1lVmlnejR6SDZfSklUSGdrdHd4d2lVVWdjLThMMHVscFk4RzFhcFJlNnk3dkZMMHAwUnhMX09WWVZnbXFrRUVLZTY2b3ZnWkE4MklVdXFlam9oTNIB5gFBVV95cUxNOFZhbWhMYVRhWmxreWRGZTlPUExBNlZ3ajdSVHlTVW1VeFFsOUpBS2RlVXc4TVhRZDJRalE5eGg0S2o5c0VCZDRKRS0zMFJEWm1FTzhiWG00aV9xTGVjRThFLUk5Y0t6eFMxNHg5eXlQTTVWUGdkQjgzWlJjZXhYNUZiRHdnS0x2VnRuTXpTMno0VmJGa2E2SnljQ3N4NTdlS3IwSTFvQW1uWm5zWENackJMUTdJT3I3SmtuN2xRUnRrZE5tdGlGeWx0UGpOTGNmNWs0dk5KNm4wd0ROVk1Gd2J6ekEydw?oc=5
 
-- NDTV's Global Impact: UN Declares November 27 Day Against Child Marriage - NDTV
-  NDTV's Global Impact: UN Declares
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxORkk3ajJGU1ItLXg0TVpQeFlPMG9xOUtoQ2pFNEZHU3Zvazc4VlJsN295b0tKanVnU0xaUGZWamVhZVZIVHlsMW5qM0Ewdlk0UkpNNEJxV0p3di16SVotTW1SSi15d0s1bko4M1V0N3U5clFFclRMOFRqaEUzZjhTUXl5T3AzVUJEU3lEdjhsc0pEZFhfV3BsR1BsTnBXN2p6WWJmeU13Y0RselRjRndOctIBuAFBVV95cUxORDRTYmpxeFhWX1Jtc1BFSkMxbThLcGp6QzZKbWhuYUVDRVJRQXJiaWg0OFQtZ25ZRlg2OG5fcV9HZy15X0s4TXY2MHJDNlJRYklvc3VUZjJZX19iS0FMNHAzR1dCRGdJYTRUcGVySV9GQ08xOEU2NVZab1BQbFhBT3lOT2hPc3Z0UmlneHJPcktOZkhWSUh3cXRGWWdEYU9VZEpOZ0JlXzBoS05idExiYVZPclE0SzBR?oc=5
+- PM Modi Back At Shri Ram College, 13 Years After "Glass Full" Speech Launched His National Bid - NDTV
+  PM Modi Back At Shri Ram College, 13 Years After "Glass Full
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdkdpeHFNMU5EdjlNVXNTN3hXU0g3dnZqUlNBYU13cm1HbV9XOU8yRUFQZVNCRnpWWEgwZkxJS2phYUtKTXY3TzVlNGhsY0MzNkltUTZKRUI5VThjbHQ4T1pJOGhLRENXTERvd09wVzdQUlkwYTI4Vk1sR2lsVkxJMGdMQ3ZOcGdlN0FwMnAzVVZSbWU2YWdKWGtlaFJhMkRPXzZfSF93LXhjVU1NX1labWw2dTdRMzJKRjlBYTVoSHYtaHF3YnBXaHVUNE1SNTk1YmIwYUVMNTNqeWxTcDN2bmNDOFF6VmRmR25remtR0gH2AUFVX3lxTE1lbHZ5TFNRSFA1TVR6TnRtVUdJVEVKd3NuZ1pvbkZGQzV5N3lyY1NQS3plMnE0MU5KVW5BT3pPaUtXbmxqbk9ZcXk1d0syS2Q0bEFyelUtd2NtbE84cWlkaWdEaFd4UnhlT3dxNnF4b3NTMU5DazdsRFhwX08yNkV5Y2I2eVRZdHI1QjNjNFB0V3pETmQ4T2NzS09RZUxDeXpWZUpxa3l3VEh3cUdxMXVFeTZVM2tlUDc4bDVSQnlDalhETzROc3l3d3R3TExDSll3cU1lcThoVXNkT29KbV9zUm1oS1RuMDh3Mmg4OFBzVGtKUFdmUQ?oc=5
 
-- India needs stronger MSME supply chain, say experts - The Hindu
-  India needs stronger MSME supply chain
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNblVMaE4wMjNTcnhLQ0NUODczWkJtUkNaclN0UzBkdjRZaURRcHRxbmpUUnVnVUNtcl9IRHN6d0NBaGctQkRBUGI0aWgxYXY0ZWUyMTdKekRmMGdGd3VYQm5PQ1ZqODhaVmtyMXlJU3F6LWdUSTg4RlM2a3RfZG0xU1Z0bTg1Qzh4RlhmUlU2WUpUY1RXcmlGeWNyTG1NU3ZkOGc1SzduUDRhbkhxRGI3N0xtNE5MUzExRTl4MdIBwwFBVV95cUxPTlJUWEtIb0Q2YWdtZEgzNWNJTHdIUThWOUIwV0w4N1pvM1BNazkzZXVFOENuZ1FiMjYxbTNTdEVrMW50VEEyR2U5dXJOOWZjcmNBQ1lpalhtYS0yaWNMazh2UGxNdDZVMjBrQW5CdXROS0szZkFOaG1ISF9DWENsVFpuWWJhMlJMRXNoMHEwUGlERHpoc24zeHhDQmpBLThEUnFMMnlBU2lISGRPLWQ3RmhaaTdoU0loQnNkUkJTRzY1ZkE?oc=5
+- PM Modi takes Delhi Metro to reach SRCC for college's centenary celebrations | WATCH | India News - Hindustan Times
+  PM Modi takes Delhi Metro to reach SRCC for college's centenary celebrations.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWWxYS045SnBNMmJmVDZPMUdDMmxORWZ0dGhNcEdoNUt5b1RHa2puV0lscjdIOGY0bFFqZlp0WjZ0RmE0bXljMzI4NV9lUEJhdmlUdDR3Vk94RGtnU3ZrQmJjVUpsZU1MdElFVVhKLWpNTkdfc1Y5NTA5NVlDa0xqOUt3QTNNZ3J1TW12WDJCcGdCdHU1WXNLcTR6dFRjNG1jUkRHTGR2Tjl5WTIySGdGSlItTnNYcEZUbjk3TjBCUzVnbmQtcGZTVUk1V0Z6SGFTc1FSTXcwUmY3UjhKS1hEOEFaOE7SAeoBQVVfeXFMUHdyZU95dEFyM2FkU213UGxTb1lWZ3VvTDlRRVhscDdZdnE2d0d2bjlMSl9rWFdPTDdZSDl3UlRPQmJZQWhVMkZXaEw5VWpCU0h1aGhIQ1c5Q0hkWlVWZVZDYVVxa0pzZTBkREFaT21rams2bE5wSlpEaldYeXJmQWRsblE0MUxaYl9QUVRta2dvQmdMaVdDcGtoZWVfdmt5TW5GMmFrLVN0cDZSdkh3QnFsTGpqai1rcW5vcEozY05zZFFQcV9OejU4cWw2MElTT0dqeXJTbjB6MkZHOWNlSlBiWHUwaVhKYkln?oc=5
 
-- Productivity to drive 35% of India's future manufacturing output: KPMG - The Economic Times
-  Productivity to drive 35% of India's future
-  🔗 https://news.google.com/rss/articles/CBMixwJBVV95cUxObVd1UGFfU3JPaWxFSEhjRFh1UktWV3NBSXBIMDllU2xTbzNlMjVscnozZkhJSkhjRTVJUVA3aTZfT3UwaEU1QWFoUVlUX0s5ZS0zcjROTm8wZHVWaW54bk1BNHpWSjBmN2lodXFuSmd3X1h6eDl5M3RKY1UtSEVZRWhidjZ1MTZqYlA2REtHY0ZjV3ZSUGs1YzlhVm1PbVNmdElPVUxxY1AxZ2NieklsYjJlZHBJRXVzQ0gwQ0NVSm1RRmNMRjBwMzdrZ0JHVjlnbklJOVhHcjBWbHhoMWFneV9UZTQ3WTMxLUl2aG5ZUnpob2dUbnBMMDNXOFBkZjdUcTJzMF94RnZscmQxaEdXcVlwWUVzSk8xZTg4Y1c1eUVxR3hyQXU2Uk9oWE9SRnIxdzhpa3NmcWJ1NFlJOVNDeHZJd09TRmvSAeMBQVVfeXFMUE1nWXZxQkdsT0FJQVNRZTQ3LVBjMzd4Mkk5VW1uanZHMHdhWUZxU0twS2dxSW5YM0ZkSXRnTDVlT0JOYzNGUmVqUkNoWjM0RVlZZlBjYkU4a1pieUUyZVlnY005MlN6U3EyZWk4MTNJTmxnWDhJdEtPMGhsNi1Zc1dBSmJicUk5R3lCUmFXalZkMFo2dW14M3REcFRBdmdxeDZaSzhSaTVhUmZaLUotWVZ5b2NxME1fQzRPdUhNOUVoUTRwMXVfRVBFSldfUl9ReG1tZXBzMTF1MHd6T244UUlXUXc?oc=5
+- India votes in favour of UNGA resolution endorsing new world map - The Hindu
+  India votes in favour of UNGA resolution endorsing new
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOY3BTTEI4UnFkckZtQlNrbFlkaUowUWlWbzNqdHFpNlhMNmxkWGVzX2wzeWdBUmw2QXdjS2plbkpXdmlhQUsyajZRVFIxbmpuT2x0R0tCQkFnNkVwX0plbmlaZWhpQ0RzMFgzV3pJY1RBdW1JbU51WG9aWHdwSjFUSzZqejJuWXV0aGgycDZkTF9VUHBJYXM3ZjBvSEYyRGd1ZlotaEVmYmsteGdvM1hoU0cwcjBDaW9paGwxUFBCN3ZReExfQnBr0gHOAUFVX3lxTE02Si1KLVp0Ri1saW5qR3hlcE8yazlUazFtT0ItNVZxTjJ6ZDJ4XzdjTXpCbkRjVW9uMjBkRzRncVBrRERPX3dJWm1Ock9sQ0I0RlBrTk96Y29TZEFla2FLakNaSXlVX24tX2RWM2t5NWF2czRXdEFQLXRTQlBZbVFuZEE4Z213dklXN09ZUzluZTNUWW5nS2dpLWFTeWI1MkRMVkQyMjhPVGxKREFUWGNsUEtNUmVqVVRfdXFIZFg3Z1JqY2VTSTVxQnBhV0pn?oc=5
 
-- Maharashtra gives taxi and tuk-tuk drivers a year to learn Marathi language - BBC
-  Maharashtra gives taxi and tuk-t
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE05SmxXRmU2dE0zVEVTNFNad2FFWm5vZnA0RDZDNmZDRUFJT3Zwb0lkMkhNdGNGcmFIMkUzS013N01iYk5wcDZLS1ZkeHNYcFhTSmNNWFFzck1idw?oc=5
+- Air India sacks Delhi-Phuket flight pilot who tested positive for drugs - The Hindu
+  Air India sacks Delhi-Phuket flight pilot
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZHZfM29OUVpQS2FIeTJkejFETWEteHdPOHg5SHNmUktKUzI0TF9CRFZoNzBiTkw0amF3bDBDVG9qWFcyTlBBM3Fib1lHRXVKNVJjR2pSVnFEVVY3TGVMN0hOSGdzSDhrR05aaTVkRHg1NGRXY2VaQlRCRU5YQkI0SkRkX1lTajNxYTYtUTlXQkd3a1E0OU5wbXVMeUpod2x3a0UzMFlhLVFxWjU0T2hKWVVKNXQ1OHRyOUpGNTI3SFRQV1d3aVVuWUQxWG5CUE52aXI0NkdrcjdwTi13WHU5eUY5b011czRxdFRXS25UVGzSAfcBQVVfeXFMUFo0UTNncG5qYWxFb2lvRVNCTUN5dnliNnhQa1dqd3EydmRacUhzVmozZmxLTUtkRW9qT2VxRmJMclU5RldsXy1DdEdqUkpqejkzRmdXVEpIQXBrTzJqWkdlb1ItOFNLMWtnRTZJVC13dGI2ckpPbkVtTGFvd1cxWHcyZHZXc0dMT1I2NUJ6OWI0c2lMV2syaGVXeTZ3WmdaVDBIYm9FLU9VbTNCYXlZQ3N0TFRXZEtXWkw0OGtiMDlsZmpzNy1ROXZPbHZ2NUlqQ250QV9HVW9CcGY5R1BUbF82N2N1bi1pdFc2TnlnanlteGozQlpVWQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-05 09:53:47 UTC_
+_Last updated: 2026-09-05 14:29:56 UTC_
