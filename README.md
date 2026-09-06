@@ -1,44 +1,12 @@
 # 📰 Daily News Summaries
 
-- India votes in favour of UN resolution on equal-area world map - News On AIR
-  India votes in favour of UN resolution on equal-area
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNQnctVUxLbTRmSll3MXQ4UUluR0tOU3NYQzBNdmFuZHRvZnJtOUpjY1dJLUhfT01tU0RBUjBpYkFOeTJ1Wk9ZZ0htNkNyVHNnYjZPaXNjbFFHX0RSb3FKLU5jenZBU08xQldzWUlwbTJ5amItOWtYajRld3BvQUlwOE1xRjFpNExhYUVSMGk4dU1UZw?oc=5
+- Taj at Delhi Airport, Ritz-Carlton in Hyderabad: Inside Chalet Hotels’ expansion plan to reach 5,500 rooms by FY30
+  Chalet Hotels Ltd aims to reach 5,500 hotel keys by FY30. It is transitioning from a pure asset-ownership model
+  🔗 https://www.livemint.com/companies/news/taj-at-delhi-airport-ritz-carlton-in-hyderabad-inside-chalet-hotels-expansion-plan-to-reach-5-500-rooms-by-fy30-11788717105115.html
 
-- India Appears Smaller In World Map Than It Really Is. Here's Why - NDTV
-  India Appears Smaller In World Map Than It Really
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2xmMjFrN0hHT2l1U3FQd1hqQTN5YWZxX29iMnBiLTJkUmg1N3JpTnJFdU84RUhjVkJxVHJzckJyZGEyOHZtQWFhZVkwYlpSSDRFa0RMSVZ4WnpTQnhmWl9UNG94OXZkOHNQeUx6Sk16a2tkY1JOR1FQNVdzLWR3amhMTjBRbVdCOXU0Ungzd0p1NXhJc2ZZUWRGcVlUQTdIZkc5STdB0gGuAUFVX3lxTE1FVzJRWElzb0ZZWE9MWW5RN1pqWER1ZGpqQXNYOVBLVmI1Zl9FUWNZdTFkM3JXYzV1XzE2a1VTZXdoSnlTODRPMHlSNUphMTkyTlptNkppSlFhbkxWay1nLUVEVkJwc3pCMFhHdEdZYUstWEVkQ0RJWXJCS0FrMm91X28yeWpsZ0VpT25peGdiOXpFY0hKZmEyZlpQbnMyS1Z2S2VPem1ydERJenhXQQ?oc=5
-
-- UN-backed proposed world map must depict J-K, Ladakh as per India's official map: MEA - thehindu.com
-  UN-backed proposed world map must depict J-K,
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDdpT3NlZHAzZGdqWlJYVnp2YUJMRWpBNnJLazVmTEU4WTBOZnlncEhzX00xaU84S3JDRDFwREFlSGlYVV9CYXBSZ0FZVjVaRTFfcEllSDBIM0RaR2lHNnEyQnc3MGo3UndROGhaU0cwelBpdmRvQWowOEpGUkRTY3h1WGdBRHg2QlNvYVE5VEd5Mm1DbVVuUEFpSVRTcnBXQnRHQjY4SHk4ZVBLZ01NTjJLaDhFZlBFY2pmbnJJWmotY2ZxQjFJMFRoRDhiVDJ4UHpEdFhQUEnSAd8BQVVfeXFMTkVxM3FDcGcwV09wbEQ3ZEloVWstUEo4NU51NDViXzA3cUNSVnI1NXF1cDVoRlR2d1NiLUR2eERlc2l0alRibXg3Zk9lZWN5eTY5T1VreE1BZ25UVDR1eHFYSUZoX1VBWlBUYUxXQUh4cVVZU19GaUY1RXFHX3VjYmN5QlV0eHhZNnpLelRqV0RfNWVjSGdvMzlFR0JXaEhVLVFCUTI3d21XSjdsSDNEenpyMjJhNTd0UUJmalJiOXNOblZQUEdEMGQ5Z01FR2ZCRUNXYTNRVG0yV3ZWS2cyRQ?oc=5
-
-- Delhi Building Collapse LIVE Updates: 1 Dead, 2 Critical After Delhi Building Collapses, Rescue Ops Continue - NDTV
-  1 dead, 2 critical after Delhi Building Collapses, Rescue Ops Continue
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZUJQX1BaTW1sOFdERWh1N3ZvdWtrUE90SlJ4VXhDQVpXa2ZweXd5ek1kQzgyT1N5UXp4cmN6akVYQVBvODlTZ0hENDRjbmRVSzMweDlybUs0NXR5UzFDcTA2QnpmU3FVR3lsRUFzQ3ZsUEtLSGFwVjJfMU9QMmNVai00YkN6V3pNdXI4anRiSlNpVTRnRmVQdGdzdGJYZGotRzNOeEFUSlk3SUE4QTBuWGNjdWxObXdzdzBZVEpKZk5kMXFqcTJtVGlxclM0UUNMQy1rVi1pX0ozQ3BiX1Y3M0p30gHqAUFVX3lxTE5XSGdGbF9NSWxLWmY2WlNUX0J6VTBKcGh5T0lRbHZkVWJpRHRqN19ONjZGN1hCSHFwYUdrb0NVLVc2YWRjSDZZY1pMbUZQX1B2WHhjT29qRVJwVnFVNFBlQ1NjNm1ReWRZUlNwdnNWOHJnVy1lazIyVUlaMTVRNDU3Yl9IUUZvaVdpLW11VUtLeERRMEdaTl9tX3FUUVZsemViVzJxdkRnSUdxWnJRbm01OWRHNXY2MndkSjhmZElNYWhLSlZ0cGRJTE1GbHpfUnZua3pwNWxOV3Nsb1QzTWhKYV9vVE5kbHE0dw?oc=5
-
-- Dozens feared trapped in collapsed building in Delhi - BBC
-  Dozens feared trapped in collapsed
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yeU9NTGotRVZ4RjZYSG5XOERwdXBGaHpJSmlRWC1GMGNNOVVQS2NmaTN0Z043RW5SdGdUaldPRDdlTWx5S2lwYllob1g5RWcydzJRb1RLRU15QQ?oc=5
-
-- I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI - The Guardian
-  I’m a father of three who studies the impact of artificial intelligence: this is what parents
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5
-
-- Google data centre in Visakhapatnam will use air-cooling technology: MP - thehindu.com
-  Google data centre in Visakhapat
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQci0tSzFSSHpITlNyNk1YQml2UEQtRzNtMTNidHlsZ2RhVnYzYm5pODU0dHBMVHpINVV5N2lGcFJ1eWFIRGdfc1dFX0M0azRfQzJZNkVlMWpaVU80N1JpWGRUQUVsY2pXX2dFcVhwbWVEUWxXTVF5T3NqQXZOUzl0R3VGYzRDSENwbmhzZjI5TGxJeTZBUkpzWGt6UjVuQTU4Sk1zSUhuVTdvblVQUDBjMmdrbU0zOVAtR1duLV9HUVNJOWN4QVhkdmF5STZUeGgyS2tRN1pxWlVreEUx0gHjAUFVX3lxTE45QmNuMG1OVFVaY290ZS1xcWlmaEU2T09sS0FEMlVMWW5DSHBralNwMGVIRTlaUmxfUHc2V0xkVFctSEpLUk5FX3M2OHlHZmNLbU9mTXo4WG90TDB0dFU0SjUyc3BUSy0zdVdqM2NmQmxPUGpTQmtOdjlKU3VlazNTbUREYWxZbEJXamZDRW1OWFlheTU1NS1jT2NHSUZmYmY1TWE3V1JSdXpqR1NMSDFwWTlCclg2b1VNazB6TzcxQmJCaTlVc2hlZGJKa2RlMGFsOFM5M2lZdURLNTVTWGhGTS1R?oc=5
-
-- IIT Kharagpur healthcare hub moves to self-sustaining model after 20+ technology transfers - ET Education
-  IIT Kharagpur healthcare hub moves to self-
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaEU3b09sd2lUR2lMUXhvdGh0emtFWjdnVVpyR2JmblRNTGFxN2ticEh6WEtBY0tiZ3lYRmVGSGdFSm5STHl4TENNMUdqZ2VTN1AtVVRZNGdCM2FWWmdwTEc0U05mSlFkZnJzRGp3WWI1X2lHTVo4d1czLThFbGQ1eEpuWjF6bmpWWGlld1RZbFVLR0N3LWo0OFlvOTJRV2NoWFdVS2x1NkNkRWpBQ2d3ekZfT24zQTN6d1REc3hhUEZ0Z2daU2FDVXBUZ2FtOE5MRVZ6UUNjeFdhTHlfQ3ZFaXNDMmp2R205MFN3VllnUG1hZ9IB9wFBVV95cUxObV93SDlHN2tBc29YRG5GaHM1bm5VM1EtNFh6UG8yMWtQaHg0NUZGNmxGa1JyYWh5ZlFOampuVGpYck13MzBfekNCbDZLa2RkR011RGtIeEMxMTJvLW1HOHlhaU85SngtOURzVEt4bmVxaGNvZncyb0VhRklCbmFsbnJLRnItS2tuRml0WF8wd29aRTZFNFVZTC1PdGV1WHVBNmVPX3NRbUZPMnFTOWpnSmF3akdOWXVwa3FXemRKMmFObjJVcTNYZzltMFFGdGJJYWJrRVNpZUYyMmxSNVBpVWpGWmczYzdheUszaE12S3BNN1NKSDlF?oc=5
-
-- Has Technology Sucked the Soul Out of Football? - thewire.in
-  Has Technology Sucked the Soul
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5qMnVkdWZldmZlYl9xX3ZfdTdkNmdLaEdBdHlvYUw2MWNYakpTeXVxOF9MdzB3OExUN0l1RE1IaHhfQW43VkI2cXF6OVdhTUdrRGVIWHRnM1ZsNndnamFVNGV2UlNKNE9qMXFpRE1xcWtHcWtnWVNEMGg4VdIBjgFBVV95cUxPcmVKSGZQOVBPb3VZTHZFY3pMZ3NYU1NQZWhoSTFSNHVBV2JLV1d2NGNMZmF5ekp3eERlNkhSbC1LUEhYSUhINkZ6TzFla2lBNUEyTUM2VTNuZTg3TTAyd3hmYlg0Z0h3NXlkSVYwbG9fcmJjOWgxd1c4bnROWmd4TTBmMWU0d3c2dXJxTlZ3?oc=5
-
-- Amkette: Four Decades of Evolving with Technology, Guided by One Purpose - 91mobiles.com
-  Amkette: Four Decades of Ev
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3Q1RUJ2cXVCblJmdkQxNUdLSWNnbkRfcDJXaTZxT2FDM1M1YjFaTlRFdlN4X0VPa1htd3JTREIzOG9zZnJxZ1RaZ2xtYWRzcktDV0lyOFRLa0JMaGZPUzNWdnFTWUdLUW5PQUZBM3VPUmlyelM2cXpWc0xmMWEyT3VfOElrcXI5Z2dLU0Q3N21vS2p6eFpPNVJka2owYWpCc00w0gGoAUFVX3lxTE0xTHVrTkRreGoxNnZaUzllRjVyblFRWWpDRm55WE1ZYmZCUlYyZjR1WnB2SGdWV18ya0huRTNkVXpONHoyaGxSLXpSd0xGYjFiRWlvM2tnQUp4bTlaVEF3cE5oUG5ldWF1aVFfVEV2Umt2YUYzWTRZS2lIYnhQbTVMSjFaUDljWmxuZU11X1BDTnZOblNTclZYUENxNGZoeXF0Y1RoSXVRcg?oc=5
+- 'Speculative and factually incorrect': NSE denies Ashishkumar Chauhan being considered for Tata Sons chairman post
+  Chauhan called the reports entirely baseless. He said he remains focused on NSE’s planned IPO and his responsibilities at the exchange.
+  🔗 https://www.livemint.com/companies/people/speculative-and-factually-incorrect-nse-denies-ashishkumar-chauhan-being-considered-for-tata-sons-chairman-post-11788707471704.html
 
 - NCR's gourmet grocer Modern Bazaar halves store count amid q-comm push, internal woes
   Modern Bazaar is downsizing its store network due to the rise of quick commerce, and deepening financial and management trouble. While restructuring for profitability, the chain aims to adapt to changing consumer preferences
@@ -52,13 +20,9 @@
   IFAC's top executives call for rapid tech adoption
   🔗 https://www.livemint.com/companies/news/ai-in-auditing-accounting-profession-ifac-11788684430480.html
 
-- UK business minister to meet Jaguar Land Rover CEO over job cuts
-  UK business minister to meet Jaguar Land Rover CEO over
-  🔗 https://www.livemint.com/companies/uk-business-minister-to-meet-jaguar-land-rover-ceo-over-job-cuts-11788690016607.html
-
-- SBI to hire 12,000 employees, add 250 branches in FY27, says State Bank of India's chairman CS Setty
-  State Bank of India intends to hire about 12,000 employees and add around 250 new branches to its network.
-  🔗 https://www.livemint.com/companies/news/sbi-to-hire-12-000-employees-add-250-branches-in-fy27-says-state-bank-of-indias-chairman-cs-setty-11788678529774.html
+- Wall Street Week Ahead: US inflation data and Oracle earnings in focus
+  The market will closely track the latest Consumer Price Index (CPI) and Producer Price index (PPI
+  🔗 https://www.livemint.com/market/wall-street-week-ahead-us-inflation-data-and-oracle-earnings-in-focus-11788715708966.html
 
 - Expert View: Selective buying under the shell of Homruz &amp; supply constraints, says Vinod Nair
   Q1 was not affected to an extent in terms of both GDP and Corporate earnings. Investors
@@ -75,10 +39,6 @@
 - Top stocks in focus on Monday: Why investors should watch RVNL, Mazagon Dock, Tata Motors shares - Know news, triggers
   Rail Vikas Nigam (RVNL), Lupin, Tata Motors,
   🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-on-monday-why-investors-watch-rvnl-mazagon-dock-tata-motors-shares-know-news-triggers-11788692544285.html
-
-- OPEC  Sticks With Plan to Keep Oil Output Quotas Unchanged
-  OPEC nations stuck with their plan to keep oil production quotas unchanged. Iran war continues to shutter vast swathes of
-  🔗 https://www.livemint.com/market/opec-sticks-with-plan-to-keep-oil-output-quotas-unchanged-11788696280747.html
 
 - AI adoption surges, but companies still struggle to turn productivity gains into profits: McKinsey
   Nearly nine in 10 respondents to McKinsey’s 2026 Global Survey on AI said their organisations regularly use AI in at least one business function. The share reporting enterprise-wide scaling rose to 44 per cent from 38 per cent a
@@ -100,26 +60,6 @@
   Apple is set for a major product launch as John Ternus takes over as CEO. Key products include a foldable iPhone, updated Apple Watches, and new MacBooks.
   🔗 https://www.livemint.com/technology/gadgets/while-big-tech-chased-ai-apple-built-something-else-its-biggest-product-wave-yet-what-s-coming-in-2026-and-beyond-11788606088429.html
 
-- Ahead of Market: 10 things that will decide stock market action on Monday - economictimes.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdHp0bDJPZ09ZcGMwQ3Vna0FlVzA1UFdGM0ZycHUwMm5vRXVxOWRpbDFocG5HMG1obWQtTFM3Y2ZCT0dJVnl0M1JQOHRySV9IZUhfbFA4QkRqZWZ0T1puT3pUbWxfdXVPRH
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdHp0bDJPZ09ZcGMwQ3Vna0FlVzA1UFdGM0ZycHUwMm5vRXVxOWRpbDFocG5HMG1obWQtTFM3Y2ZCT0dJVnl0M1JQOHRySV9IZUhfbFA4QkRqZWZ0T1puT3pUbWxfdXVPRHcwVUxSdUtQNVhfNjJrNTFwVDFUckR5VkpoOER4U0RZLXFDVTUzYTJQODlXY2NxVFkxalNlaExQejEyRzREN1NoVHFnOG16Uk9XX2hOcHNLNkZ3Tm42QkItcVhZWmdDbk54NEJwMGdrcEo5VDNJQmhnelczNEtr0gHkAUFVX3lxTFA0cW8tR19qRTZNLXRUN05HZjJMRkhnNzFuMWhEMGZ4cE5qeXJndEM4b0R1T0hpU2Uwbk14OExmS1VrT1RlNE1rMXhldTRZb0plNnNtTTUxYXVQd2FhM0Z6QmQwRVcyNTNqeGhpcHdfaVBMZWlPS3N5eTNpQWhiSWI3TU5XY19oTVpyVDVhMHNKQ0JOQ2Q4RVNxcmt6SFFlZVhoZGx4MzVISmduODNkZ1hwSkdOSHZfSnZpRHJXdzlXcVV4N0dMbTNaUGxaamVFODBWekpLYmJ6M1MxMXp5dXdyTU1oSw?oc=5
-
-- The gloves are starting to come off in markets - Financial Times
-  The gloves are starting to come off in
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTFrZnM5VVVRWXN4bWwxajZDaEJSV3JUQkFyeTQtam1NbVZMcTdnMmowQU1qUXBlZ3FGdmtVNXpQQWFmZ0xjeDFtWktIZldWbXNBZjRLNUVSazVuMWJVNXREcmRGRF9vRHdvelBnRkMwRUV5aFZjN1N6VmhKU25CUEhVZG0?oc=5
-
-- Sugar market's round trip: Sugar ex-mill prices erase entire rally, back to ₹43 from ₹70 per kg - ChiniMandi
-  Sugar market's round trip: Sugar ex-mill prices erase entire rally
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnNQSFlyTWc1UEVQQ25xb3RIOVYzNkc0eWEtTjV6VWlVVGdWWl9mUVJoQVlIbWU4aWxPQnh6NGctX3Nfdzd3Z2gydXYzdmViRlF2X2FBa2lhVzBvUUVhcmZrbVBSSjNoYUcyZm94NWZIV1lHUzRyaWNqd3RTby1xeWZWaTMxUzVBWUUyV0JWa0dJczgxajFjUDdFZW1FZVVOMm9sZ29FRkR0Mmdua1lia2xqMmtvVFo2QWQ2ZEFvMEJOYnNrQlM0NjVZd2xhbXBvTUE?oc=5
-
-- GIFT IFSC funds see retail rush amid outperforming global markets - The Indian Express
-  The Indian Express reports on the retail rush in the
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWpEUHBIMHg4b1BfaXB5QlFGcWZWUFd5a0Vid0dPSl9RQ0tnRjR2dW5WUnU5dXI1bVJkdk5xcF9za0R2NmxveUo0QzUwX0dvbk5QdVlkNElfV3NDVTEtSW9BX1dZQWdzVDlYU3M2UEk5QUVYaDBLYm1CdnRnMkpRSmpfalA4LXhhVkpMUmFLTm5TNUh2SDJuSnA4QXhOU04wcjdPYks2UHpNdUhCZEhpNElBWnJ4RTd3T1HSAcABQVVfeXFMTkRPWDdGS3d3YS04SGhXSDFJaElLa0xad2t6QXlFeU4xSkRvc1RsVnlDZGFHYnRJTEN3a3NjbEhUMy13X25ZeUxmbVp1aTFuMl95VnlvMlA0bVB5WHBEU2Q4Y01xcTRsd1JYYlktN2pOM3NPdDByMXpGQzNLdHBIOGo1NFdKalhzSTcwcDNDVGlVVHppeDRQd285eUNBb3VuZmpNTTRnYTVYcUFZc2tTcFFiNnp6ZGhpUGlyYTVzRTVE?oc=5
-
-- 'Dr. Doom' Nouriel Roubini lays out the 4 things he's worried about in the US economy - Business Insider
-  'Dr. Doom' Nouriel Roubini lays out the 4
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPVy1YUDByNjBSQnVUanE0NDBySzR6djhYNE9SbVB6c2ROU0lXdmFhWkk1UjZ3UG1hUmtGTXBYUFdZamRRUDdxeGdHeUVKd19DQUpIU1NWTllpVmtiQV9VeE85UW9qcmtDSFk2VS12UmJSTWZtTEk5cmZuSHpBUDhaVENqX3FUSkM2SjlpSURPRWZQOXBvRG1PNS0tcUJPQQ?oc=5
-
 - Market Trading Guide: Emcure Pharma among 2 stock recommendations for Monday
   
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-emcure-pharma-among-2-stock-recommendations-for-monday/slideshow/133835557.cms
@@ -139,26 +79,6 @@
 - One month of CAS: How 4 expiry days turned into a 6,000-point Sensex scare for investors
   Sebi's latest initiative, the Closing Auction Session, has introduced complexities for Sensex options traders. Sharp movements seen during the auction period have caused significant agitation among traders.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/one-month-of-cas-how-4-expiry-days-turned-into-a-6000-point-sensex-scare-for-investors/articleshow/133832524.cms
-
-- India votes in favour of UN resolution on equal-area world map - News On AIR
-  India votes in favour of UN resolution on equal-area
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNQnctVUxLbTRmSll3MXQ4UUluR0tOU3NYQzBNdmFuZHRvZnJtOUpjY1dJLUhfT01tU0RBUjBpYkFOeTJ1Wk9ZZ0htNkNyVHNnYjZPaXNjbFFHX0RSb3FKLU5jenZBU08xQldzWUlwbTJ5amItOWtYajRld3BvQUlwOE1xRjFpNExhYUVSMGk4dU1UZw?oc=5
-
-- India Appears Smaller In World Map Than It Really Is. Here's Why - NDTV
-  India Appears Smaller In World Map Than It Really
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2xmMjFrN0hHT2l1U3FQd1hqQTN5YWZxX29iMnBiLTJkUmg1N3JpTnJFdU84RUhjVkJxVHJzckJyZGEyOHZtQWFhZVkwYlpSSDRFa0RMSVZ4WnpTQnhmWl9UNG94OXZkOHNQeUx6Sk16a2tkY1JOR1FQNVdzLWR3amhMTjBRbVdCOXU0Ungzd0p1NXhJc2ZZUWRGcVlUQTdIZkc5STdB0gGuAUFVX3lxTE1FVzJRWElzb0ZZWE9MWW5RN1pqWER1ZGpqQXNYOVBLVmI1Zl9FUWNZdTFkM3JXYzV1XzE2a1VTZXdoSnlTODRPMHlSNUphMTkyTlptNkppSlFhbkxWay1nLUVEVkJwc3pCMFhHdEdZYUstWEVkQ0RJWXJCS0FrMm91X28yeWpsZ0VpT25peGdiOXpFY0hKZmEyZlpQbnMyS1Z2S2VPem1ydERJenhXQQ?oc=5
-
-- UN-backed proposed world map must depict J-K, Ladakh as per India's official map: MEA - thehindu.com
-  UN-backed proposed world map must depict J-K,
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDdpT3NlZHAzZGdqWlJYVnp2YUJMRWpBNnJLazVmTEU4WTBOZnlncEhzX00xaU84S3JDRDFwREFlSGlYVV9CYXBSZ0FZVjVaRTFfcEllSDBIM0RaR2lHNnEyQnc3MGo3UndROGhaU0cwelBpdmRvQWowOEpGUkRTY3h1WGdBRHg2QlNvYVE5VEd5Mm1DbVVuUEFpSVRTcnBXQnRHQjY4SHk4ZVBLZ01NTjJLaDhFZlBFY2pmbnJJWmotY2ZxQjFJMFRoRDhiVDJ4UHpEdFhQUEnSAd8BQVVfeXFMTkVxM3FDcGcwV09wbEQ3ZEloVWstUEo4NU51NDViXzA3cUNSVnI1NXF1cDVoRlR2d1NiLUR2eERlc2l0alRibXg3Zk9lZWN5eTY5T1VreE1BZ25UVDR1eHFYSUZoX1VBWlBUYUxXQUh4cVVZU19GaUY1RXFHX3VjYmN5QlV0eHhZNnpLelRqV0RfNWVjSGdvMzlFR0JXaEhVLVFCUTI3d21XSjdsSDNEenpyMjJhNTd0UUJmalJiOXNOblZQUEdEMGQ5Z01FR2ZCRUNXYTNRVG0yV3ZWS2cyRQ?oc=5
-
-- Delhi Building Collapse LIVE Updates: 1 Dead, 2 Critical After Delhi Building Collapses, Rescue Ops Continue - NDTV
-  1 dead, 2 critical after Delhi Building Collapses, Rescue Ops Continue
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZUJQX1BaTW1sOFdERWh1N3ZvdWtrUE90SlJ4VXhDQVpXa2ZweXd5ek1kQzgyT1N5UXp4cmN6akVYQVBvODlTZ0hENDRjbmRVSzMweDlybUs0NXR5UzFDcTA2QnpmU3FVR3lsRUFzQ3ZsUEtLSGFwVjJfMU9QMmNVai00YkN6V3pNdXI4anRiSlNpVTRnRmVQdGdzdGJYZGotRzNOeEFUSlk3SUE4QTBuWGNjdWxObXdzdzBZVEpKZk5kMXFqcTJtVGlxclM0UUNMQy1rVi1pX0ozQ3BiX1Y3M0p30gHqAUFVX3lxTE5XSGdGbF9NSWxLWmY2WlNUX0J6VTBKcGh5T0lRbHZkVWJpRHRqN19ONjZGN1hCSHFwYUdrb0NVLVc2YWRjSDZZY1pMbUZQX1B2WHhjT29qRVJwVnFVNFBlQ1NjNm1ReWRZUlNwdnNWOHJnVy1lazIyVUlaMTVRNDU3Yl9IUUZvaVdpLW11VUtLeERRMEdaTl9tX3FUUVZsemViVzJxdkRnSUdxWnJRbm01OWRHNXY2MndkSjhmZElNYWhLSlZ0cGRJTE1GbHpfUnZua3pwNWxOV3Nsb1QzTWhKYV9vVE5kbHE0dw?oc=5
-
-- Dozens feared trapped in collapsed building in Delhi - BBC
-  Dozens feared trapped in collapsed
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yeU9NTGotRVZ4RjZYSG5XOERwdXBGaHpJSmlRWC1GMGNNOVVQS2NmaTN0Z043RW5SdGdUaldPRDdlTWx5S2lwYllob1g5RWcydzJRb1RLRU15QQ?oc=5
 
 - Indian Startup IPO Tracker 2026
   Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
@@ -180,45 +100,25 @@
   Travel and lifestyle brand Mokobara has raised about $18 million in a Series C funding round.
   🔗 https://inc42.com/buzz/d2c-luggage-brand-mokobara-bags-%e2%82%b9170-cr/
 
-- India votes in favour of UN resolution on equal-area world map - News On AIR
-  India votes in favour of UN resolution on equal-area
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNQnctVUxLbTRmSll3MXQ4UUluR0tOU3NYQzBNdmFuZHRvZnJtOUpjY1dJLUhfT01tU0RBUjBpYkFOeTJ1Wk9ZZ0htNkNyVHNnYjZPaXNjbFFHX0RSb3FKLU5jenZBU08xQldzWUlwbTJ5amItOWtYajRld3BvQUlwOE1xRjFpNExhYUVSMGk4dU1UZw?oc=5
+- 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
+  'Win against India damaged us a lot': Mohammad Yousuf explains
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
+
+- UN-backed proposed world map must depict J-K, Ladakh as per India's official map: MEA - The Hindu
+  UN-backed proposed world map must depict J-K, Lad
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDdpT3NlZHAzZGdqWlJYVnp2YUJMRWpBNnJLazVmTEU4WTBOZnlncEhzX00xaU84S3JDRDFwREFlSGlYVV9CYXBSZ0FZVjVaRTFfcEllSDBIM0RaR2lHNnEyQnc3MGo3UndROGhaU0cwelBpdmRvQWowOEpGUkRTY3h1WGdBRHg2QlNvYVE5VEd5Mm1DbVVuUEFpSVRTcnBXQnRHQjY4SHk4ZVBLZ01NTjJLaDhFZlBFY2pmbnJJWmotY2ZxQjFJMFRoRDhiVDJ4UHpEdFhQUEnSAd8BQVVfeXFMTkVxM3FDcGcwV09wbEQ3ZEloVWstUEo4NU51NDViXzA3cUNSVnI1NXF1cDVoRlR2d1NiLUR2eERlc2l0alRibXg3Zk9lZWN5eTY5T1VreE1BZ25UVDR1eHFYSUZoX1VBWlBUYUxXQUh4cVVZU19GaUY1RXFHX3VjYmN5QlV0eHhZNnpLelRqV0RfNWVjSGdvMzlFR0JXaEhVLVFCUTI3d21XSjdsSDNEenpyMjJhNTd0UUJmalJiOXNOblZQUEdEMGQ5Z01FR2ZCRUNXYTNRVG0yV3ZWS2cyRQ?oc=5
 
 - India Appears Smaller In World Map Than It Really Is. Here's Why - NDTV
   India Appears Smaller In World Map Than It Really
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2xmMjFrN0hHT2l1U3FQd1hqQTN5YWZxX29iMnBiLTJkUmg1N3JpTnJFdU84RUhjVkJxVHJzckJyZGEyOHZtQWFhZVkwYlpSSDRFa0RMSVZ4WnpTQnhmWl9UNG94OXZkOHNQeUx6Sk16a2tkY1JOR1FQNVdzLWR3amhMTjBRbVdCOXU0Ungzd0p1NXhJc2ZZUWRGcVlUQTdIZkc5STdB0gGuAUFVX3lxTE1FVzJRWElzb0ZZWE9MWW5RN1pqWER1ZGpqQXNYOVBLVmI1Zl9FUWNZdTFkM3JXYzV1XzE2a1VTZXdoSnlTODRPMHlSNUphMTkyTlptNkppSlFhbkxWay1nLUVEVkJwc3pCMFhHdEdZYUstWEVkQ0RJWXJCS0FrMm91X28yeWpsZ0VpT25peGdiOXpFY0hKZmEyZlpQbnMyS1Z2S2VPem1ydERJenhXQQ?oc=5
 
-- UN-backed proposed world map must depict J-K, Ladakh as per India's official map: MEA - thehindu.com
-  UN-backed proposed world map must depict J-K,
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDdpT3NlZHAzZGdqWlJYVnp2YUJMRWpBNnJLazVmTEU4WTBOZnlncEhzX00xaU84S3JDRDFwREFlSGlYVV9CYXBSZ0FZVjVaRTFfcEllSDBIM0RaR2lHNnEyQnc3MGo3UndROGhaU0cwelBpdmRvQWowOEpGUkRTY3h1WGdBRHg2QlNvYVE5VEd5Mm1DbVVuUEFpSVRTcnBXQnRHQjY4SHk4ZVBLZ01NTjJLaDhFZlBFY2pmbnJJWmotY2ZxQjFJMFRoRDhiVDJ4UHpEdFhQUEnSAd8BQVVfeXFMTkVxM3FDcGcwV09wbEQ3ZEloVWstUEo4NU51NDViXzA3cUNSVnI1NXF1cDVoRlR2d1NiLUR2eERlc2l0alRibXg3Zk9lZWN5eTY5T1VreE1BZ25UVDR1eHFYSUZoX1VBWlBUYUxXQUh4cVVZU19GaUY1RXFHX3VjYmN5QlV0eHhZNnpLelRqV0RfNWVjSGdvMzlFR0JXaEhVLVFCUTI3d21XSjdsSDNEenpyMjJhNTd0UUJmalJiOXNOblZQUEdEMGQ5Z01FR2ZCRUNXYTNRVG0yV3ZWS2cyRQ?oc=5
+- UN-backed world map must depict Jammu & Kashmir and Ladakh as per India's official map: MEA - The Economic Times
+  UN-backed world map must depict Jammu & Kashmir and Ladakh as per
+  🔗 https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTjNSc3pYelZ5MlhIZWF5QW1GeTNnR0tlX3YzNXhCZ2JtWlhZYkFCYlRHUHBNR1VscVVDWnY1d0lTZE5IdFR2QXhydEkxYmF2TlJldk5PLUxIUjRWUnNKcjRtVXV5dnpRVjVLZEV4MHFGdWxRZEpmTkpQQVIwc2pid1N1Sll0cE5KdWlwQzBxN2JIbFFBWnRRa192YjhEWmlSMGV6NGtfZ3FKSWI4cWdkSkhkSFB1N0ZIbWV6Yi1zODg3M0MwOVpkTEMydUl5cHJibzhvQ001UTlCVjU4TEJCQUZ5YWFhMUxOZnhXUm1MdXQ3TzFLMWVUV3ktTVBNR0V4dDJySGx1dTRJbURNcnBBV01NUkpRSHpPb1dRbEc3bmQ2SUFUcHp4N3VNcG1RbTY4dkNGT09iQld1RjIycmFCbllWeUtJLVRGcno3cFlad2rSAewBQVVfeXFMT19iZHJWRE1BcmUyMXAtZ0NBb0MxSXp4Si1HancxUWZWYm4zN2xqRTNHR0gzbFZzeXdlZUlaRWl1ci02YlN2TklTOXhKTVBFbTdUNjl0MkhyMUQ0VDJJZkNaZ0x4YXhGa01vaWcxNG1zdjdMelpZQ1VPdjNHWWF2OEpVR0RjNFR3WU9TTjI3UUJPSHZsN09VRklvSFdSVDM4X0JlbTFnRWt1VmpRclhpNXIzYXROLW5uSGp0bWgtc0xzWGxFNXEwdlJxb19EZkNQeVY1UjBLd0JJNk5Pekl5X1p2SnhINWNhLVh0NVo?oc=5
 
-- Delhi Building Collapse LIVE Updates: 1 Dead, 2 Critical After Delhi Building Collapses, Rescue Ops Continue - NDTV
-  1 dead, 2 critical after Delhi Building Collapses, Rescue Ops Continue
+- Delhi Building Collapse LIVE Updates: Case Against Building Owner, PM Modi Condoles Deaths - NDTV
+  Delhi Building Collapse LIVE Updates: Case Against Building
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZUJQX1BaTW1sOFdERWh1N3ZvdWtrUE90SlJ4VXhDQVpXa2ZweXd5ek1kQzgyT1N5UXp4cmN6akVYQVBvODlTZ0hENDRjbmRVSzMweDlybUs0NXR5UzFDcTA2QnpmU3FVR3lsRUFzQ3ZsUEtLSGFwVjJfMU9QMmNVai00YkN6V3pNdXI4anRiSlNpVTRnRmVQdGdzdGJYZGotRzNOeEFUSlk3SUE4QTBuWGNjdWxObXdzdzBZVEpKZk5kMXFqcTJtVGlxclM0UUNMQy1rVi1pX0ozQ3BiX1Y3M0p30gHqAUFVX3lxTE5XSGdGbF9NSWxLWmY2WlNUX0J6VTBKcGh5T0lRbHZkVWJpRHRqN19ONjZGN1hCSHFwYUdrb0NVLVc2YWRjSDZZY1pMbUZQX1B2WHhjT29qRVJwVnFVNFBlQ1NjNm1ReWRZUlNwdnNWOHJnVy1lazIyVUlaMTVRNDU3Yl9IUUZvaVdpLW11VUtLeERRMEdaTl9tX3FUUVZsemViVzJxdkRnSUdxWnJRbm01OWRHNXY2MndkSjhmZElNYWhLSlZ0cGRJTE1GbHpfUnZua3pwNWxOV3Nsb1QzTWhKYV9vVE5kbHE0dw?oc=5
-
-- Dozens feared trapped in collapsed building in Delhi - BBC
-  Dozens feared trapped in collapsed
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yeU9NTGotRVZ4RjZYSG5XOERwdXBGaHpJSmlRWC1GMGNNOVVQS2NmaTN0Z043RW5SdGdUaldPRDdlTWx5S2lwYllob1g5RWcydzJRb1RLRU15QQ?oc=5
-
-- India votes in favour of UN resolution on equal-area world map - News On AIR
-  India votes in favour of UN resolution on equal-area
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNQnctVUxLbTRmSll3MXQ4UUluR0tOU3NYQzBNdmFuZHRvZnJtOUpjY1dJLUhfT01tU0RBUjBpYkFOeTJ1Wk9ZZ0htNkNyVHNnYjZPaXNjbFFHX0RSb3FKLU5jenZBU08xQldzWUlwbTJ5amItOWtYajRld3BvQUlwOE1xRjFpNExhYUVSMGk4dU1UZw?oc=5
-
-- India Appears Smaller In World Map Than It Really Is. Here's Why - NDTV
-  India Appears Smaller In World Map Than It Really
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2xmMjFrN0hHT2l1U3FQd1hqQTN5YWZxX29iMnBiLTJkUmg1N3JpTnJFdU84RUhjVkJxVHJzckJyZGEyOHZtQWFhZVkwYlpSSDRFa0RMSVZ4WnpTQnhmWl9UNG94OXZkOHNQeUx6Sk16a2tkY1JOR1FQNVdzLWR3amhMTjBRbVdCOXU0Ungzd0p1NXhJc2ZZUWRGcVlUQTdIZkc5STdB0gGuAUFVX3lxTE1FVzJRWElzb0ZZWE9MWW5RN1pqWER1ZGpqQXNYOVBLVmI1Zl9FUWNZdTFkM3JXYzV1XzE2a1VTZXdoSnlTODRPMHlSNUphMTkyTlptNkppSlFhbkxWay1nLUVEVkJwc3pCMFhHdEdZYUstWEVkQ0RJWXJCS0FrMm91X28yeWpsZ0VpT25peGdiOXpFY0hKZmEyZlpQbnMyS1Z2S2VPem1ydERJenhXQQ?oc=5
-
-- UN-backed proposed world map must depict J-K, Ladakh as per India's official map: MEA - thehindu.com
-  UN-backed proposed world map must depict J-K,
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDdpT3NlZHAzZGdqWlJYVnp2YUJMRWpBNnJLazVmTEU4WTBOZnlncEhzX00xaU84S3JDRDFwREFlSGlYVV9CYXBSZ0FZVjVaRTFfcEllSDBIM0RaR2lHNnEyQnc3MGo3UndROGhaU0cwelBpdmRvQWowOEpGUkRTY3h1WGdBRHg2QlNvYVE5VEd5Mm1DbVVuUEFpSVRTcnBXQnRHQjY4SHk4ZVBLZ01NTjJLaDhFZlBFY2pmbnJJWmotY2ZxQjFJMFRoRDhiVDJ4UHpEdFhQUEnSAd8BQVVfeXFMTkVxM3FDcGcwV09wbEQ3ZEloVWstUEo4NU51NDViXzA3cUNSVnI1NXF1cDVoRlR2d1NiLUR2eERlc2l0alRibXg3Zk9lZWN5eTY5T1VreE1BZ25UVDR1eHFYSUZoX1VBWlBUYUxXQUh4cVVZU19GaUY1RXFHX3VjYmN5QlV0eHhZNnpLelRqV0RfNWVjSGdvMzlFR0JXaEhVLVFCUTI3d21XSjdsSDNEenpyMjJhNTd0UUJmalJiOXNOblZQUEdEMGQ5Z01FR2ZCRUNXYTNRVG0yV3ZWS2cyRQ?oc=5
-
-- Delhi Building Collapse LIVE Updates: 1 Dead, 2 Critical After Delhi Building Collapses, Rescue Ops Continue - NDTV
-  1 dead, 2 critical after Delhi Building Collapses, Rescue Ops Continue
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZUJQX1BaTW1sOFdERWh1N3ZvdWtrUE90SlJ4VXhDQVpXa2ZweXd5ek1kQzgyT1N5UXp4cmN6akVYQVBvODlTZ0hENDRjbmRVSzMweDlybUs0NXR5UzFDcTA2QnpmU3FVR3lsRUFzQ3ZsUEtLSGFwVjJfMU9QMmNVai00YkN6V3pNdXI4anRiSlNpVTRnRmVQdGdzdGJYZGotRzNOeEFUSlk3SUE4QTBuWGNjdWxObXdzdzBZVEpKZk5kMXFqcTJtVGlxclM0UUNMQy1rVi1pX0ozQ3BiX1Y3M0p30gHqAUFVX3lxTE5XSGdGbF9NSWxLWmY2WlNUX0J6VTBKcGh5T0lRbHZkVWJpRHRqN19ONjZGN1hCSHFwYUdrb0NVLVc2YWRjSDZZY1pMbUZQX1B2WHhjT29qRVJwVnFVNFBlQ1NjNm1ReWRZUlNwdnNWOHJnVy1lazIyVUlaMTVRNDU3Yl9IUUZvaVdpLW11VUtLeERRMEdaTl9tX3FUUVZsemViVzJxdkRnSUdxWnJRbm01OWRHNXY2MndkSjhmZElNYWhLSlZ0cGRJTE1GbHpfUnZua3pwNWxOV3Nsb1QzTWhKYV9vVE5kbHE0dw?oc=5
-
-- Dozens feared trapped in collapsed building in Delhi - BBC
-  Dozens feared trapped in collapsed
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yeU9NTGotRVZ4RjZYSG5XOERwdXBGaHpJSmlRWC1GMGNNOVVQS2NmaTN0Z043RW5SdGdUaldPRDdlTWx5S2lwYllob1g5RWcydzJRb1RLRU15QQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +140,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI - The Guardian
+  I’m a father of three who studies the impact of artificial intelligence: this is what parents
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- This Tiny E-Reader Is the Single Best Piece of Technology in Years - The Atlantic
+  This Tiny E-Reader Is the Single Best Piece of
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3ZwTGlHdU1MVGhEUnlLbDd6c3BJaHV3VDMxX2pFRVdMb0ZJS19xY2RaZ1o0cGVpWVA2S0JReXJZYWduTHVXYmFEaG81UXFGYlNHTHR3UzFpNkdrdTNRcHhBNm1JNnlvdTdBczdETG93eDJDR2JjTUN3WHNOQlk2UkhNd3FuT1JHOWJySWRCUzhnQW0xVlhR?oc=5
+
+- How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips - The New York Times
+  How a Blacklisted Chinese Tech Giant Kept Buying America�
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5
+
+- Google data centre in Visakhapatnam will use air-cooling technology: MP - The Hindu
+  Google data centre in Visakhapatnam
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQci0tSzFSSHpITlNyNk1YQml2UEQtRzNtMTNidHlsZ2RhVnYzYm5pODU0dHBMVHpINVV5N2lGcFJ1eWFIRGdfc1dFX0M0azRfQzJZNkVlMWpaVU80N1JpWGRUQUVsY2pXX2dFcVhwbWVEUWxXTVF5T3NqQXZOUzl0R3VGYzRDSENwbmhzZjI5TGxJeTZBUkpzWGt6UjVuQTU4Sk1zSUhuVTdvblVQUDBjMmdrbU0zOVAtR1duLV9HUVNJOWN4QVhkdmF5STZUeGgyS2tRN1pxWlVreEUx0gHjAUFVX3lxTE45QmNuMG1OVFVaY290ZS1xcWlmaEU2T09sS0FEMlVMWW5DSHBralNwMGVIRTlaUmxfUHc2V0xkVFctSEpLUk5FX3M2OHlHZmNLbU9mTXo4WG90TDB0dFU0SjUyc3BUSy0zdVdqM2NmQmxPUGpTQmtOdjlKU3VlazNTbUREYWxZbEJXamZDRW1OWFlheTU1NS1jT2NHSUZmYmY1TWE3V1JSdXpqR1NMSDFwWTlCclg2b1VNazB6TzcxQmJCaTlVc2hlZGJKa2RlMGFsOFM5M2lZdURLNTVTWGhGTS1R?oc=5
+
+- IIT Kharagpur healthcare hub moves to self-sustaining model after 20+ technology transfers - ET Education
+  IIT Kharagpur healthcare hub moves to self-
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaEU3b09sd2lUR2lMUXhvdGh0emtFWjdnVVpyR2JmblRNTGFxN2ticEh6WEtBY0tiZ3lYRmVGSGdFSm5STHl4TENNMUdqZ2VTN1AtVVRZNGdCM2FWWmdwTEc0U05mSlFkZnJzRGp3WWI1X2lHTVo4d1czLThFbGQ1eEpuWjF6bmpWWGlld1RZbFVLR0N3LWo0OFlvOTJRV2NoWFdVS2x1NkNkRWpBQ2d3ekZfT24zQTN6d1REc3hhUEZ0Z2daU2FDVXBUZ2FtOE5MRVZ6UUNjeFdhTHlfQ3ZFaXNDMmp2R205MFN3VllnUG1hZ9IB9wFBVV95cUxObV93SDlHN2tBc29YRG5GaHM1bm5VM1EtNFh6UG8yMWtQaHg0NUZGNmxGa1JyYWh5ZlFOampuVGpYck13MzBfekNCbDZLa2RkR011RGtIeEMxMTJvLW1HOHlhaU85SngtOURzVEt4bmVxaGNvZncyb0VhRklCbmFsbnJLRnItS2tuRml0WF8wd29aRTZFNFVZTC1PdGV1WHVBNmVPX3NRbUZPMnFTOWpnSmF3akdOWXVwa3FXemRKMmFObjJVcTNYZzltMFFGdGJJYWJrRVNpZUYyMmxSNVBpVWpGWmczYzdheUszaE12S3BNN1NKSDlF?oc=5
 
 
-_Last updated: 2026-09-06 14:51:42 UTC_
+_Last updated: 2026-09-06 19:57:21 UTC_
