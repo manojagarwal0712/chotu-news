@@ -1,44 +1,84 @@
 # 📰 Daily News Summaries
 
-- Taj at Delhi Airport, Ritz-Carlton in Hyderabad: Inside Chalet Hotels’ expansion plan to reach 5,500 rooms by FY30
-  Chalet Hotels Ltd aims to reach 5,500 hotel keys by FY30. It is transitioning from a pure asset-ownership model
-  🔗 https://www.livemint.com/companies/news/taj-at-delhi-airport-ritz-carlton-in-hyderabad-inside-chalet-hotels-expansion-plan-to-reach-5-500-rooms-by-fy30-11788717105115.html
+- 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
+  'Win against India damaged us a lot': Mohammad Yousuf explains
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
 
-- 'Speculative and factually incorrect': NSE denies Ashishkumar Chauhan being considered for Tata Sons chairman post
-  Chauhan called the reports entirely baseless. He said he remains focused on NSE’s planned IPO and his responsibilities at the exchange.
-  🔗 https://www.livemint.com/companies/people/speculative-and-factually-incorrect-nse-denies-ashishkumar-chauhan-being-considered-for-tata-sons-chairman-post-11788707471704.html
+- UN-backed proposed world map must depict J-K, Ladakh as per India's official map: MEA - The Hindu
+  UN-backed proposed world map must depict J-K, Lad
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDdpT3NlZHAzZGdqWlJYVnp2YUJMRWpBNnJLazVmTEU4WTBOZnlncEhzX00xaU84S3JDRDFwREFlSGlYVV9CYXBSZ0FZVjVaRTFfcEllSDBIM0RaR2lHNnEyQnc3MGo3UndROGhaU0cwelBpdmRvQWowOEpGUkRTY3h1WGdBRHg2QlNvYVE5VEd5Mm1DbVVuUEFpSVRTcnBXQnRHQjY4SHk4ZVBLZ01NTjJLaDhFZlBFY2pmbnJJWmotY2ZxQjFJMFRoRDhiVDJ4UHpEdFhQUEnSAd8BQVVfeXFMTkVxM3FDcGcwV09wbEQ3ZEloVWstUEo4NU51NDViXzA3cUNSVnI1NXF1cDVoRlR2d1NiLUR2eERlc2l0alRibXg3Zk9lZWN5eTY5T1VreE1BZ25UVDR1eHFYSUZoX1VBWlBUYUxXQUh4cVVZU19GaUY1RXFHX3VjYmN5QlV0eHhZNnpLelRqV0RfNWVjSGdvMzlFR0JXaEhVLVFCUTI3d21XSjdsSDNEenpyMjJhNTd0UUJmalJiOXNOblZQUEdEMGQ5Z01FR2ZCRUNXYTNRVG0yV3ZWS2cyRQ?oc=5
 
-- NCR's gourmet grocer Modern Bazaar halves store count amid q-comm push, internal woes
-  Modern Bazaar is downsizing its store network due to the rise of quick commerce, and deepening financial and management trouble. While restructuring for profitability, the chain aims to adapt to changing consumer preferences
-  🔗 https://www.livemint.com/companies/news/ncr-supermarket-modern-bazaar-stores-close-q-comm-grocery-retail-11788629614673.html
+- India Appears Smaller In World Map Than It Really Is. Here's Why - NDTV
+  India Appears Smaller In World Map Than It Really
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2xmMjFrN0hHT2l1U3FQd1hqQTN5YWZxX29iMnBiLTJkUmg1N3JpTnJFdU84RUhjVkJxVHJzckJyZGEyOHZtQWFhZVkwYlpSSDRFa0RMSVZ4WnpTQnhmWl9UNG94OXZkOHNQeUx6Sk16a2tkY1JOR1FQNVdzLWR3amhMTjBRbVdCOXU0Ungzd0p1NXhJc2ZZUWRGcVlUQTdIZkc5STdB0gGuAUFVX3lxTE1FVzJRWElzb0ZZWE9MWW5RN1pqWER1ZGpqQXNYOVBLVmI1Zl9FUWNZdTFkM3JXYzV1XzE2a1VTZXdoSnlTODRPMHlSNUphMTkyTlptNkppSlFhbkxWay1nLUVEVkJwc3pCMFhHdEdZYUstWEVkQ0RJWXJCS0FrMm91X28yeWpsZ0VpT25peGdiOXpFY0hKZmEyZlpQbnMyS1Z2S2VPem1ydERJenhXQQ?oc=5
 
-- RPG Life Sciences bets on China-plus 1, goes on an API buying spree
-  The Harsh Goenka group is spending to build a drug-ingredients business. It is
-  🔗 https://www.livemint.com/companies/rpg-life-sciences-bets-on-china-plus-1-goes-on-an-api-buying-spree-pharma-healthcare-medicine-generic-11788660657183.html
+- UN-backed map must depict India's territory accurately: Govt - The Times of India
+  UN-backed map must depict India's territory
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2xzUWM0dHNGYnFLTkYydndybjd0OVRVV0x2SDBHNnNYXzRMZU5aek5obndZRnFVSkFiM2NUTndubkdVbWVJbDBZQmozMVV4ZV8zMDRBYVVJejg5MFdkUTdLM25JaG5sZmdLSGZjUUE0WGYtZWVOeXJFOFFMQlhKbXlnVGR6TC00SGo1UGNYT0dHZEhlZXkwN3c0RWZSMWJ4ZmdBZDdoWk45X084ci1IT1hUMEdfNTgtUnpIMTZDcHhkTG500gHKAUFVX3lxTE5WUkVMMnJJNnVuYU5pbFg5a1JZSjMwdGw0QVZvLTVFQ250TGNnTkdyWk5rOUdGXy0zZTFoaGk3U2JnOUt1Q18yMFVPeDRiSy1YbzA5NFZudWtDX2pwckl2YWhHNTl1TGpJZGNDaUN2bEhoMHpFdHBHcmRvdjlHMHdtX0djTmdGRlQ4RXd1dmhiSHlCZVA4cjAxU0czZUUwdFlkQlE0MDZ6VmZ2ZDJWRVBkVHVlZFJjemRJbnZqczNudHBNdmhpeUZDd0E?oc=5
 
-- AI fears have faded, but auditors must retain human edge: IFAC's top executives
-  IFAC's top executives call for rapid tech adoption
-  🔗 https://www.livemint.com/companies/news/ai-in-auditing-accounting-profession-ifac-11788684430480.html
+- Singapore must never allow prejudice against any community: PM Wong on anti-Indian abuse - The Hindu
+  Singapore must never allow prejudice against any community: PM Wong
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY1pIbUxQZzBVVHdjX0Z2b3ZobG1IM2xxMW0xSmxjZW9Fazc5WlE5aHVsOW4ya0lCbVRLMm52Um5WaHdDbEpQWmxtNGdTbTdMSXZ3M3BIR1R4enNlLVB4R1A0eWdmem1XeHo4YTduWVRPdmpMOUtsbllEdXc0MzlOUi13SmozTHNJNE9RVjR0ekhVZXhzM0VyaFJTaERXaGNzdW52YlB2MkJIMElUcGhKaVNBNXVHRG9jMmgydHRTa1djOXB5NEFZVXlNOEpVZDZxX2Rqbkp2dUtZbGNNR09xUDVMNEVmd9IB7AFBVV95cUxPVlRBSGY4UXZZUEFWZk81ZmxaMHR5QWdYQm1qY1E2UTcyNVg2NEUyUUJVQXVfSlgxeHk2Y2ozWUVVcElka0gwYUdycGJoNDFZWXZyRzlmZFo3UGJ6Yk1ZVzZ0NzQwUE82d1pOY3hWbmdpM3hnbWRaT0ZFYkktd1VvbG5kM09sRTJ4bnlwcGdWYnVjWUI1XzBIMl9ySTltRDdBMUpUbDl6OTUyeXhkRlZUUEgwVXZrUVRObFRiRWJ3NE9TeUFlVEVuakpUZGN5VlNGc214Z1huUmpSb2o5dVlIWXpTOGgxaUhGZnFxLQ?oc=5
 
-- Wall Street Week Ahead: US inflation data and Oracle earnings in focus
-  The market will closely track the latest Consumer Price Index (CPI) and Producer Price index (PPI
-  🔗 https://www.livemint.com/market/wall-street-week-ahead-us-inflation-data-and-oracle-earnings-in-focus-11788715708966.html
+- I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI - The Guardian
+  I’m a father of three who studies the impact of artificial intelligence: this is what parents
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5
 
-- Expert View: Selective buying under the shell of Homruz &amp; supply constraints, says Vinod Nair
-  Q1 was not affected to an extent in terms of both GDP and Corporate earnings. Investors
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-selective-buying-under-the-shell-of-homruz-supply-constraints-says-vinod-nair-11788698810002.html
+- How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips - The New York Times
+  How a Blacklisted Chinese Tech Giant Kept Buying America�
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5
 
-- NSE IPO to US-Iran war: 3 reasons why Sensex, Nifty may see a flat-to-weak start on Monday | Indian markets outlook
-  Sensex, Nifty and other Dalal Street indices are expected to witness selling pressure after escalation in
-  🔗 https://www.livemint.com/market/stock-market-news/nse-ipo-to-us-iran-war-3-reasons-why-sensex-nifty-may-see-a-flat-to-weak-start-on-monday-indian-markets-outlook-11788695794967.html
+- This Tiny E-Reader Is the Single Best Piece of Technology in Years - The Atlantic
+  This Tiny E-Reader Is the Single Best Piece of
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3ZwTGlHdU1MVGhEUnlLbDd6c3BJaHV3VDMxX2pFRVdMb0ZJS19xY2RaZ1o0cGVpWVA2S0JReXJZYWduTHVXYmFEaG81UXFGYlNHTHR3UzFpNkdrdTNRcHhBNm1JNnlvdTdBczdETG93eDJDR2JjTUN3WHNOQlk2UkhNd3FuT1JHOWJySWRCUzhnQW0xVlhR?oc=5
 
-- Stock market new rules 2026: At NSE, pre-open session will be different from Monday - What has changed now?
-  Under the new framework, the order-entry period will be divided into phases. Market orders will be
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-new-rules-2026-at-nse-pre-open-session-will-be-different-from-monday-what-has-changed-now-11788696168228.html
+- IIT Kharagpur healthcare hub moves to self-sustaining model after 20+ technology transfers - ET Education
+  IIT Kharagpur healthcare hub moves to self-
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaEU3b09sd2lUR2lMUXhvdGh0emtFWjdnVVpyR2JmblRNTGFxN2ticEh6WEtBY0tiZ3lYRmVGSGdFSm5STHl4TENNMUdqZ2VTN1AtVVRZNGdCM2FWWmdwTEc0U05mSlFkZnJzRGp3WWI1X2lHTVo4d1czLThFbGQ1eEpuWjF6bmpWWGlld1RZbFVLR0N3LWo0OFlvOTJRV2NoWFdVS2x1NkNkRWpBQ2d3ekZfT24zQTN6d1REc3hhUEZ0Z2daU2FDVXBUZ2FtOE5MRVZ6UUNjeFdhTHlfQ3ZFaXNDMmp2R205MFN3VllnUG1hZ9IB9wFBVV95cUxObV93SDlHN2tBc29YRG5GaHM1bm5VM1EtNFh6UG8yMWtQaHg0NUZGNmxGa1JyYWh5ZlFOampuVGpYck13MzBfekNCbDZLa2RkR011RGtIeEMxMTJvLW1HOHlhaU85SngtOURzVEt4bmVxaGNvZncyb0VhRklCbmFsbnJLRnItS2tuRml0WF8wd29aRTZFNFVZTC1PdGV1WHVBNmVPX3NRbUZPMnFTOWpnSmF3akdOWXVwa3FXemRKMmFObjJVcTNYZzltMFFGdGJJYWJrRVNpZUYyMmxSNVBpVWpGWmczYzdheUszaE12S3BNN1NKSDlF?oc=5
 
-- Top stocks in focus on Monday: Why investors should watch RVNL, Mazagon Dock, Tata Motors shares - Know news, triggers
-  Rail Vikas Nigam (RVNL), Lupin, Tata Motors,
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-on-monday-why-investors-watch-rvnl-mazagon-dock-tata-motors-shares-know-news-triggers-11788692544285.html
+- Social Impact Summit: How technology can bridge India's education divide - The Economic Times
+  The Economic Times: How technology can bridge India's
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQndqY0xXMTlhSGJMbW8tbnZjamhGbTNydjB2eHlrNzJhNG5tXzQ5SGoySVpkN1FDYmo4R2ktaVlSLXpiNmhhNldKdmZINDNpYWRFdGFwRV9BRVk4S0dsZjVOQzQ5MkxGamNnckxLbU8yX1NWYVpxclVrZUI0N21iWXBMT3p0SU9GX2hqb3hTSW1HelhfMzN1Z2k3ZVg2NmFHc1pHWkdNOUMySXpLYnBfMDA4OFVOd0tuRVdwZVBobWRqS0c0NnlveXhvcjFzbFZ6TjQ2M3R2eXliRk5yNnZqcXNjZ2lISndiZkHSAe8BQVVfeXFMTnByd3J3NUJNVjl4RFM5UVpvZnd6c2JHSEhaOVdiQWhtRm5PQkpaS3gwSWJGZHR3T1R2bkFzY3VFWWEwQ0tUQUVrWEFoV1kyNEVleEsxQzZzeTNvWFJXdEZhMGFwWV9iMmNudzZfNVNuVkpVUGtZM1VjdnVnY09WbUstZmVEQmVEOVljWjlCQ3NtM2I0elN5VGNUZG9WT3Naazd5eUtUSDBjYkt1NjlaRk5DU3VrYXRsSW5TcDNYZllEYzZkZHQ5Znlxa2VCTkJldDE0NXlJSVVXWlhITEt4NzJwQ1hTbGpGa1pWN0hiZlU?oc=5
+
+- Nike’s S&amp;P 100 exit: Strategic blunders, fierce rivals, and the road to recovery, according to experts
+  Nike will still remain in the broader S&amp;amp;P 500, but its removal from
+  🔗 https://www.livemint.com/companies/nikes-s-p-100-exit-strategic-blunders-fierce-rivals-and-the-road-to-recovery-according-to-experts-11788742976902.html
+
+- Coforge confident of hitting $5 billion revenue target well before FY30, brushes off AI deflation fears
+  CEO Sudhir Singh expects organic growth to keep top-line expansion on track despite industry price wars and governance pushback
+  🔗 https://www.livemint.com/companies/news/coforge-ceo-sudhir-singh-interview-ai-revenue-target-11788685575295.html
+
+- Inside Rashesh Shah’s plan to incubate and scale Edelweiss businesses
+  Shah cited the case of Nuvama Wealth Management, a company that got listed in 2023, where Edelweiss shareholders received 30% of
+  🔗 https://www.livemint.com/companies/news/edelweiss-group-chairman-rashesh-shah-new-business-listing-plans-11788678191214.html
+
+- Amara Raja joins Indian groups monetizing family-owned brands
+  The payment was equivalent to 0.05% of the company’s revenue and 0.8% of its net profit. Amara Raja Energy &amp;amp; Mobility Ltd paid  ₹6.
+  🔗 https://www.livemint.com/companies/news/amara-raja-energy-mobility-royalty-revenue-to-promoter-family-11788688391432.html
+
+- An email throws up fresh questions on Tata Sons' clean chit to top exec
+  A previously unreported email detailing Tata Sons group company secretary Suprakash Mukhopadhyay's role in soliciting an investment for his family's wealth-advisory business raises
+  🔗 https://www.livemint.com/companies/news/tata-trusts-tata-sons-group-company-secretary-suprakash-mukhopadhyay-11788684881220.html
+
+- Japan’s Nikkei Gains as Tech Tailwinds Help Balance Macro Nerves
+  The Nikkei 225 climbed as tech stocks followed their US peers higher. Gains on the broader Topix were smaller as concerns about the
+  🔗 https://www.livemint.com/market/japans-nikkei-gains-as-tech-tailwinds-help-balance-macro-nerves-11788747439076.html
+
+- How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India
+  Gift Nifty was trading around the 23,985 level, down nearly 62.60 points from the Nifty
+  🔗 https://www.livemint.com/market/stock-market-news/how-asian-markets-crude-will-impact-sensex-nifty-what-gift-nifty-nikkei-kospi-taiwan-index-signals-for-india-11788743678408.html
+
+- Japanese Stocks Advance as Tech, Chip Shares Follow US Peers
+  Japanese stocks rose, driven by tech and chip shares, following a surge in AI and semiconductor-related names in the US on
+  🔗 https://www.livemint.com/market/japanese-stocks-advance-as-tech-chip-shares-follow-us-peers-11788746161070.html
+
+- Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy
+  The Indian stock market is expected to open lower on 7 September. Experts suggest a cautious approach, with immediate resistance and support levels outlined.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-sensex-nifty-50-crude-oil-to-gold-eight-stocks-to-buy-11788742075083.html
+
+- Australian shares tread water as energy stocks counter gold slump
+  Australian shares tread water as energy
+  🔗 https://www.livemint.com/market/australian-shares-tread-water-as-energy-stocks-counter-gold-slump-11788744456578.html
 
 - AI adoption surges, but companies still struggle to turn productivity gains into profits: McKinsey
   Nearly nine in 10 respondents to McKinsey’s 2026 Global Survey on AI said their organisations regularly use AI in at least one business function. The share reporting enterprise-wide scaling rose to 44 per cent from 38 per cent a
@@ -60,25 +100,69 @@
   Apple is set for a major product launch as John Ternus takes over as CEO. Key products include a foldable iPhone, updated Apple Watches, and new MacBooks.
   🔗 https://www.livemint.com/technology/gadgets/while-big-tech-chased-ai-apple-built-something-else-its-biggest-product-wave-yet-what-s-coming-in-2026-and-beyond-11788606088429.html
 
-- Market Trading Guide: Emcure Pharma among 2 stock recommendations for Monday
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-emcure-pharma-among-2-stock-recommendations-for-monday/slideshow/133835557.cms
+- The gloves are starting to come off in markets - Financial Times
+  The gloves are starting to come off in
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTFrZnM5VVVRWXN4bWwxajZDaEJSV3JUQkFyeTQtam1NbVZMcTdnMmowQU1qUXBlZ3FGdmtVNXpQQWFmZ0xjeDFtWktIZldWbXNBZjRLNUVSazVuMWJVNXREcmRGRF9vRHdvelBnRkMwRUV5aFZjN1N6VmhKU25CUEhVZG0?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Sensex rose 363 points and Nifty closed below 23,898. Investors monitored global market cues, US economic data, and inflation reports.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133834844.cms
+- Stock Market Today: Nasdaq Posts Back-To-Back Gains; Tesla, SpaceX Rise As Cybercab Event Nears (Live Coverage) - Investor's Business Daily
+  Stock Market Today: Nasdaq Posts Back-To-Back Gains; Tesla
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1lTSk5mc0tnZExqbWpTd1BYS1dnemo1Tzg0ZTFMdU5FVjZmTlpldDRGZnEtaXV2QXVJZ0ZNT0tqaW8xZlZUMkREbTVETC00dm8zR2podUFQREwzT250eXJFRWhHVDV1ajVYSjRaSVB3Z0JUUUdzVkVQb2ZaSnZaaFdRTkIzUUpzMnVkVGQ5OC1Ga3h1WWFxa0NRSmprS2JaQzRTSmh3Z1BMcmExRjB4ODdNd1g2VUpJ?oc=5
 
-- MCX electricity futures clock record Rs 245 crore turnover as OI touches all-time high
-  MCX electricity futures celebrated a milestone on September 4, reaching a historic turnover of Rs 245 crore. This surge reflects a robust market interest and expanded initiatives for managing price risks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcx-electricity-futures-clock-record-rs-245-crore-turnover-as-oi-touches-all-time-high/articleshow/133834763.cms
+- Positive Breakout: These 5 stocks cross above their 200 DMAs - The Economic Times
+  The Economic Times: These 5 stocks cross above their
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOGMwNWhuS3c2bjd1MUM2a2QyTjQ5T0pmSnUxYkFVM0MxbVVBczE5VkdPenVKM0g2LXZiZlhfNlpvSDdmVkZHNFB0VFN4c2tRV1FxNzJwRlozWUhZb1BXN2hleUhjeW9nQV9vZWF1TzdlUk9Qb2ZMZ1poa1lWcGxJM09aUFlzLUxwdVBHdVI4cHd4M09SdmQ4ZWRTUXlZVkhST3o0dFpiSGpHNXJCWXFzU2l3X1hPNm9VMDc5VlRHd3ZBRENFQzYwaWdRZ3ZTNF9lWkN4aEluTQ?oc=5
 
-- 16 IPOs on investors' radar next week. GMPs signal up to 38% returns
-  A total of 16 IPOs across mainboard and SME segments are scheduled to launch next week, including Rentomojo and Kanohar Electricals. Grey market premium trends signal positive
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/16-ipos-on-investors-radar-next-week-gmps-signal-up-to-38-returns/slideshow/133833526.cms
+- Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets - CNBC
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOcGtDcDVaREoxQzFxVG1INXhHRmVnV2x0XzF1bmNDS2plclpiY0FSR2FzWFhscEhvb2hEaFZ5N1hlTFBOLWlodTBpbExKRm55aFd5eDFwRjlUZVhNaFhiTGdGQkZiTHYxY2ktMVdKcUdBdzkzbkpvQkIyTEd4Y2c3aG5Pb9IBiAFBVV95cUxOQ0RZenZlQm1vblVaUXBtR3B6ektHZndOWWd5a1E5Q0p4VmdCTGt2NFBrb2pXWUxCQ01XZ2Q0aHJoZC1OMjk2Vzg5VTQ4aXJ4QTFCd3dvRFMzZW1ScXdzei1ERVNVaFY5aE9PMXdZYW1lMFREZjhwZUJILTVYTW1JcFhVa0h1anZv?oc=5
 
-- One month of CAS: How 4 expiry days turned into a 6,000-point Sensex scare for investors
-  Sebi's latest initiative, the Closing Auction Session, has introduced complexities for Sensex options traders. Sharp movements seen during the auction period have caused significant agitation among traders.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/one-month-of-cas-how-4-expiry-days-turned-into-a-6000-point-sensex-scare-for-investors/articleshow/133832524.cms
+- Sugar market's round trip: Sugar ex-mill prices erase entire rally, back to ₹43 from ₹70 per kg - chinimandi.com
+  Sugar market's round trip: Sugar ex-mill prices erase entire rally
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnNQSFlyTWc1UEVQQ25xb3RIOVYzNkc0eWEtTjV6VWlVVGdWWl9mUVJoQVlIbWU4aWxPQnh6NGctX3Nfdzd3Z2gydXYzdmViRlF2X2FBa2lhVzBvUUVhcmZrbVBSSjNoYUcyZm94NWZIV1lHUzRyaWNqd3RTby1xeWZWaTMxUzVBWUUyV0JWa0dJczgxajFjUDdFZW1FZVVOMm9sZ29FRkR0Mmdua1lia2xqMmtvVFo2QWQ2ZEFvMEJOYnNrQlM0NjVZd2xhbXBvTUE?oc=5
+
+- Dollar gets little lift from boost in Fed hike expectations
+  The dollar faced pressure on Monday as Middle East tensions fueled inflation concerns. Global central banks may tighten policy together, impacting currency markets. Traders are pricing in a Federal Reserve rate hike, awaiting inflation data.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-gets-little-lift-from-boost-in-fed-hike-expectations/articleshow/133859405.cms
+
+- BlackRock to JPMorgan bet on EM as turmoil seizes global bonds
+   Emerging market government bonds are outperforming developed markets. Funds from JPMorgan and BlackRock find an edge in developing economies' debt. These markets offer income and stability during global bond market volatility.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/blackrock-to-jpmorgan-bet-on-em-as-turmoil-seizes-global-bonds/articleshow/133858995.cms
+
+- Can Prasol Chemicals IPO deliver long-term growth for high-risk investors?
+  Prasol Chemicals plans an IPO to raise funds for debt repayment and expansion. The company's revenue and profits have shown significant growth in recent years.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/can-prasol-chemicals-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133858218.cms
+
+- Demutualisation: The driver behind stock exchange IPOs
+  The National Stock Exchange has successfully gained regulatory approval for its forthcoming initial public offering. The listing will showcase the substantial worth of financial exchange operators in India.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/demutualisation-the-driver-behind-stock-exchange-ipos/articleshow/133857836.cms
+
+- Global Market Today: Asian stocks open higher, oil rises after attacks
+  Asian stock markets saw gains thanks to a rise in US technology stocks on Friday. Oil prices also increased following tanker attacks between Iran and the US in the Strait of Hormuz. Investors are now keenly awaiting US inflation data that will
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-higher-oil-rises-after-attacks/articleshow/133857975.cms
+
+- 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
+  'Win against India damaged us a lot': Mohammad Yousuf explains
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
+
+- UN-backed proposed world map must depict J-K, Ladakh as per India's official map: MEA - The Hindu
+  UN-backed proposed world map must depict J-K, Lad
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDdpT3NlZHAzZGdqWlJYVnp2YUJMRWpBNnJLazVmTEU4WTBOZnlncEhzX00xaU84S3JDRDFwREFlSGlYVV9CYXBSZ0FZVjVaRTFfcEllSDBIM0RaR2lHNnEyQnc3MGo3UndROGhaU0cwelBpdmRvQWowOEpGUkRTY3h1WGdBRHg2QlNvYVE5VEd5Mm1DbVVuUEFpSVRTcnBXQnRHQjY4SHk4ZVBLZ01NTjJLaDhFZlBFY2pmbnJJWmotY2ZxQjFJMFRoRDhiVDJ4UHpEdFhQUEnSAd8BQVVfeXFMTkVxM3FDcGcwV09wbEQ3ZEloVWstUEo4NU51NDViXzA3cUNSVnI1NXF1cDVoRlR2d1NiLUR2eERlc2l0alRibXg3Zk9lZWN5eTY5T1VreE1BZ25UVDR1eHFYSUZoX1VBWlBUYUxXQUh4cVVZU19GaUY1RXFHX3VjYmN5QlV0eHhZNnpLelRqV0RfNWVjSGdvMzlFR0JXaEhVLVFCUTI3d21XSjdsSDNEenpyMjJhNTd0UUJmalJiOXNOblZQUEdEMGQ5Z01FR2ZCRUNXYTNRVG0yV3ZWS2cyRQ?oc=5
+
+- India Appears Smaller In World Map Than It Really Is. Here's Why - NDTV
+  India Appears Smaller In World Map Than It Really
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2xmMjFrN0hHT2l1U3FQd1hqQTN5YWZxX29iMnBiLTJkUmg1N3JpTnJFdU84RUhjVkJxVHJzckJyZGEyOHZtQWFhZVkwYlpSSDRFa0RMSVZ4WnpTQnhmWl9UNG94OXZkOHNQeUx6Sk16a2tkY1JOR1FQNVdzLWR3amhMTjBRbVdCOXU0Ungzd0p1NXhJc2ZZUWRGcVlUQTdIZkc5STdB0gGuAUFVX3lxTE1FVzJRWElzb0ZZWE9MWW5RN1pqWER1ZGpqQXNYOVBLVmI1Zl9FUWNZdTFkM3JXYzV1XzE2a1VTZXdoSnlTODRPMHlSNUphMTkyTlptNkppSlFhbkxWay1nLUVEVkJwc3pCMFhHdEdZYUstWEVkQ0RJWXJCS0FrMm91X28yeWpsZ0VpT25peGdiOXpFY0hKZmEyZlpQbnMyS1Z2S2VPem1ydERJenhXQQ?oc=5
+
+- UN-backed map must depict India's territory accurately: Govt - The Times of India
+  UN-backed map must depict India's territory
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2xzUWM0dHNGYnFLTkYydndybjd0OVRVV0x2SDBHNnNYXzRMZU5aek5obndZRnFVSkFiM2NUTndubkdVbWVJbDBZQmozMVV4ZV8zMDRBYVVJejg5MFdkUTdLM25JaG5sZmdLSGZjUUE0WGYtZWVOeXJFOFFMQlhKbXlnVGR6TC00SGo1UGNYT0dHZEhlZXkwN3c0RWZSMWJ4ZmdBZDdoWk45X084ci1IT1hUMEdfNTgtUnpIMTZDcHhkTG500gHKAUFVX3lxTE5WUkVMMnJJNnVuYU5pbFg5a1JZSjMwdGw0QVZvLTVFQ250TGNnTkdyWk5rOUdGXy0zZTFoaGk3U2JnOUt1Q18yMFVPeDRiSy1YbzA5NFZudWtDX2pwckl2YWhHNTl1TGpJZGNDaUN2bEhoMHpFdHBHcmRvdjlHMHdtX0djTmdGRlQ4RXd1dmhiSHlCZVA4cjAxU0czZUUwdFlkQlE0MDZ6VmZ2ZDJWRVBkVHVlZFJjemRJbnZqczNudHBNdmhpeUZDd0E?oc=5
+
+- Singapore must never allow prejudice against any community: PM Wong on anti-Indian abuse - The Hindu
+  Singapore must never allow prejudice against any community: PM Wong
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY1pIbUxQZzBVVHdjX0Z2b3ZobG1IM2xxMW0xSmxjZW9Fazc5WlE5aHVsOW4ya0lCbVRLMm52Um5WaHdDbEpQWmxtNGdTbTdMSXZ3M3BIR1R4enNlLVB4R1A0eWdmem1XeHo4YTduWVRPdmpMOUtsbllEdXc0MzlOUi13SmozTHNJNE9RVjR0ekhVZXhzM0VyaFJTaERXaGNzdW52YlB2MkJIMElUcGhKaVNBNXVHRG9jMmgydHRTa1djOXB5NEFZVXlNOEpVZDZxX2Rqbkp2dUtZbGNNR09xUDVMNEVmd9IB7AFBVV95cUxPVlRBSGY4UXZZUEFWZk81ZmxaMHR5QWdYQm1qY1E2UTcyNVg2NEUyUUJVQXVfSlgxeHk2Y2ozWUVVcElka0gwYUdycGJoNDFZWXZyRzlmZFo3UGJ6Yk1ZVzZ0NzQwUE82d1pOY3hWbmdpM3hnbWRaT0ZFYkktd1VvbG5kM09sRTJ4bnlwcGdWYnVjWUI1XzBIMl9ySTltRDdBMUpUbDl6OTUyeXhkRlZUUEgwVXZrUVRObFRiRWJ3NE9TeUFlVEVuakpUZGN5VlNGc214Z1huUmpSb2o5dVlIWXpTOGgxaUhGZnFxLQ?oc=5
+
+- Zerodha Moves To The Other Side Of The IPO Table
+  Zerodha does not want to go public itself. But it wants to be involved in almost everything that happens when.
+  🔗 https://inc42.com/features/zerodha-moves-to-the-other-side-of-the-ipo-table/
 
 - Indian Startup IPO Tracker 2026
   Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
@@ -96,9 +180,25 @@
   Tata Consultancy Services’ (TCS) data centre subsidiary, HyperVault, and its partners will invest up to ₹70
   🔗 https://inc42.com/buzz/tcs-hypervault-to-invest-%e2%82%b970000-cr-to-set-up-ai-data-centre-in-hyderabad/
 
-- D2C Luggage Brand Mokobara Bags ₹170 Cr
-  Travel and lifestyle brand Mokobara has raised about $18 million in a Series C funding round.
-  🔗 https://inc42.com/buzz/d2c-luggage-brand-mokobara-bags-%e2%82%b9170-cr/
+- 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
+  'Win against India damaged us a lot': Mohammad Yousuf explains
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
+
+- UN-backed proposed world map must depict J-K, Ladakh as per India's official map: MEA - The Hindu
+  UN-backed proposed world map must depict J-K, Lad
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDdpT3NlZHAzZGdqWlJYVnp2YUJMRWpBNnJLazVmTEU4WTBOZnlncEhzX00xaU84S3JDRDFwREFlSGlYVV9CYXBSZ0FZVjVaRTFfcEllSDBIM0RaR2lHNnEyQnc3MGo3UndROGhaU0cwelBpdmRvQWowOEpGUkRTY3h1WGdBRHg2QlNvYVE5VEd5Mm1DbVVuUEFpSVRTcnBXQnRHQjY4SHk4ZVBLZ01NTjJLaDhFZlBFY2pmbnJJWmotY2ZxQjFJMFRoRDhiVDJ4UHpEdFhQUEnSAd8BQVVfeXFMTkVxM3FDcGcwV09wbEQ3ZEloVWstUEo4NU51NDViXzA3cUNSVnI1NXF1cDVoRlR2d1NiLUR2eERlc2l0alRibXg3Zk9lZWN5eTY5T1VreE1BZ25UVDR1eHFYSUZoX1VBWlBUYUxXQUh4cVVZU19GaUY1RXFHX3VjYmN5QlV0eHhZNnpLelRqV0RfNWVjSGdvMzlFR0JXaEhVLVFCUTI3d21XSjdsSDNEenpyMjJhNTd0UUJmalJiOXNOblZQUEdEMGQ5Z01FR2ZCRUNXYTNRVG0yV3ZWS2cyRQ?oc=5
+
+- India Appears Smaller In World Map Than It Really Is. Here's Why - NDTV
+  India Appears Smaller In World Map Than It Really
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2xmMjFrN0hHT2l1U3FQd1hqQTN5YWZxX29iMnBiLTJkUmg1N3JpTnJFdU84RUhjVkJxVHJzckJyZGEyOHZtQWFhZVkwYlpSSDRFa0RMSVZ4WnpTQnhmWl9UNG94OXZkOHNQeUx6Sk16a2tkY1JOR1FQNVdzLWR3amhMTjBRbVdCOXU0Ungzd0p1NXhJc2ZZUWRGcVlUQTdIZkc5STdB0gGuAUFVX3lxTE1FVzJRWElzb0ZZWE9MWW5RN1pqWER1ZGpqQXNYOVBLVmI1Zl9FUWNZdTFkM3JXYzV1XzE2a1VTZXdoSnlTODRPMHlSNUphMTkyTlptNkppSlFhbkxWay1nLUVEVkJwc3pCMFhHdEdZYUstWEVkQ0RJWXJCS0FrMm91X28yeWpsZ0VpT25peGdiOXpFY0hKZmEyZlpQbnMyS1Z2S2VPem1ydERJenhXQQ?oc=5
+
+- UN-backed map must depict India's territory accurately: Govt - The Times of India
+  UN-backed map must depict India's territory
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2xzUWM0dHNGYnFLTkYydndybjd0OVRVV0x2SDBHNnNYXzRMZU5aek5obndZRnFVSkFiM2NUTndubkdVbWVJbDBZQmozMVV4ZV8zMDRBYVVJejg5MFdkUTdLM25JaG5sZmdLSGZjUUE0WGYtZWVOeXJFOFFMQlhKbXlnVGR6TC00SGo1UGNYT0dHZEhlZXkwN3c0RWZSMWJ4ZmdBZDdoWk45X084ci1IT1hUMEdfNTgtUnpIMTZDcHhkTG500gHKAUFVX3lxTE5WUkVMMnJJNnVuYU5pbFg5a1JZSjMwdGw0QVZvLTVFQ250TGNnTkdyWk5rOUdGXy0zZTFoaGk3U2JnOUt1Q18yMFVPeDRiSy1YbzA5NFZudWtDX2pwckl2YWhHNTl1TGpJZGNDaUN2bEhoMHpFdHBHcmRvdjlHMHdtX0djTmdGRlQ4RXd1dmhiSHlCZVA4cjAxU0czZUUwdFlkQlE0MDZ6VmZ2ZDJWRVBkVHVlZFJjemRJbnZqczNudHBNdmhpeUZDd0E?oc=5
+
+- Singapore must never allow prejudice against any community: PM Wong on anti-Indian abuse - The Hindu
+  Singapore must never allow prejudice against any community: PM Wong
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY1pIbUxQZzBVVHdjX0Z2b3ZobG1IM2xxMW0xSmxjZW9Fazc5WlE5aHVsOW4ya0lCbVRLMm52Um5WaHdDbEpQWmxtNGdTbTdMSXZ3M3BIR1R4enNlLVB4R1A0eWdmem1XeHo4YTduWVRPdmpMOUtsbllEdXc0MzlOUi13SmozTHNJNE9RVjR0ekhVZXhzM0VyaFJTaERXaGNzdW52YlB2MkJIMElUcGhKaVNBNXVHRG9jMmgydHRTa1djOXB5NEFZVXlNOEpVZDZxX2Rqbkp2dUtZbGNNR09xUDVMNEVmd9IB7AFBVV95cUxPVlRBSGY4UXZZUEFWZk81ZmxaMHR5QWdYQm1qY1E2UTcyNVg2NEUyUUJVQXVfSlgxeHk2Y2ozWUVVcElka0gwYUdycGJoNDFZWXZyRzlmZFo3UGJ6Yk1ZVzZ0NzQwUE82d1pOY3hWbmdpM3hnbWRaT0ZFYkktd1VvbG5kM09sRTJ4bnlwcGdWYnVjWUI1XzBIMl9ySTltRDdBMUpUbDl6OTUyeXhkRlZUUEgwVXZrUVRObFRiRWJ3NE9TeUFlVEVuakpUZGN5VlNGc214Z1huUmpSb2o5dVlIWXpTOGgxaUhGZnFxLQ?oc=5
 
 - 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
   'Win against India damaged us a lot': Mohammad Yousuf explains
@@ -112,13 +212,13 @@
   India Appears Smaller In World Map Than It Really
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2xmMjFrN0hHT2l1U3FQd1hqQTN5YWZxX29iMnBiLTJkUmg1N3JpTnJFdU84RUhjVkJxVHJzckJyZGEyOHZtQWFhZVkwYlpSSDRFa0RMSVZ4WnpTQnhmWl9UNG94OXZkOHNQeUx6Sk16a2tkY1JOR1FQNVdzLWR3amhMTjBRbVdCOXU0Ungzd0p1NXhJc2ZZUWRGcVlUQTdIZkc5STdB0gGuAUFVX3lxTE1FVzJRWElzb0ZZWE9MWW5RN1pqWER1ZGpqQXNYOVBLVmI1Zl9FUWNZdTFkM3JXYzV1XzE2a1VTZXdoSnlTODRPMHlSNUphMTkyTlptNkppSlFhbkxWay1nLUVEVkJwc3pCMFhHdEdZYUstWEVkQ0RJWXJCS0FrMm91X28yeWpsZ0VpT25peGdiOXpFY0hKZmEyZlpQbnMyS1Z2S2VPem1ydERJenhXQQ?oc=5
 
-- UN-backed world map must depict Jammu & Kashmir and Ladakh as per India's official map: MEA - The Economic Times
-  UN-backed world map must depict Jammu & Kashmir and Ladakh as per
-  🔗 https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTjNSc3pYelZ5MlhIZWF5QW1GeTNnR0tlX3YzNXhCZ2JtWlhZYkFCYlRHUHBNR1VscVVDWnY1d0lTZE5IdFR2QXhydEkxYmF2TlJldk5PLUxIUjRWUnNKcjRtVXV5dnpRVjVLZEV4MHFGdWxRZEpmTkpQQVIwc2pid1N1Sll0cE5KdWlwQzBxN2JIbFFBWnRRa192YjhEWmlSMGV6NGtfZ3FKSWI4cWdkSkhkSFB1N0ZIbWV6Yi1zODg3M0MwOVpkTEMydUl5cHJibzhvQ001UTlCVjU4TEJCQUZ5YWFhMUxOZnhXUm1MdXQ3TzFLMWVUV3ktTVBNR0V4dDJySGx1dTRJbURNcnBBV01NUkpRSHpPb1dRbEc3bmQ2SUFUcHp4N3VNcG1RbTY4dkNGT09iQld1RjIycmFCbllWeUtJLVRGcno3cFlad2rSAewBQVVfeXFMT19iZHJWRE1BcmUyMXAtZ0NBb0MxSXp4Si1HancxUWZWYm4zN2xqRTNHR0gzbFZzeXdlZUlaRWl1ci02YlN2TklTOXhKTVBFbTdUNjl0MkhyMUQ0VDJJZkNaZ0x4YXhGa01vaWcxNG1zdjdMelpZQ1VPdjNHWWF2OEpVR0RjNFR3WU9TTjI3UUJPSHZsN09VRklvSFdSVDM4X0JlbTFnRWt1VmpRclhpNXIzYXROLW5uSGp0bWgtc0xzWGxFNXEwdlJxb19EZkNQeVY1UjBLd0JJNk5Pekl5X1p2SnhINWNhLVh0NVo?oc=5
+- UN-backed map must depict India's territory accurately: Govt - The Times of India
+  UN-backed map must depict India's territory
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2xzUWM0dHNGYnFLTkYydndybjd0OVRVV0x2SDBHNnNYXzRMZU5aek5obndZRnFVSkFiM2NUTndubkdVbWVJbDBZQmozMVV4ZV8zMDRBYVVJejg5MFdkUTdLM25JaG5sZmdLSGZjUUE0WGYtZWVOeXJFOFFMQlhKbXlnVGR6TC00SGo1UGNYT0dHZEhlZXkwN3c0RWZSMWJ4ZmdBZDdoWk45X084ci1IT1hUMEdfNTgtUnpIMTZDcHhkTG500gHKAUFVX3lxTE5WUkVMMnJJNnVuYU5pbFg5a1JZSjMwdGw0QVZvLTVFQ250TGNnTkdyWk5rOUdGXy0zZTFoaGk3U2JnOUt1Q18yMFVPeDRiSy1YbzA5NFZudWtDX2pwckl2YWhHNTl1TGpJZGNDaUN2bEhoMHpFdHBHcmRvdjlHMHdtX0djTmdGRlQ4RXd1dmhiSHlCZVA4cjAxU0czZUUwdFlkQlE0MDZ6VmZ2ZDJWRVBkVHVlZFJjemRJbnZqczNudHBNdmhpeUZDd0E?oc=5
 
-- Delhi Building Collapse LIVE Updates: Case Against Building Owner, PM Modi Condoles Deaths - NDTV
-  Delhi Building Collapse LIVE Updates: Case Against Building
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZUJQX1BaTW1sOFdERWh1N3ZvdWtrUE90SlJ4VXhDQVpXa2ZweXd5ek1kQzgyT1N5UXp4cmN6akVYQVBvODlTZ0hENDRjbmRVSzMweDlybUs0NXR5UzFDcTA2QnpmU3FVR3lsRUFzQ3ZsUEtLSGFwVjJfMU9QMmNVai00YkN6V3pNdXI4anRiSlNpVTRnRmVQdGdzdGJYZGotRzNOeEFUSlk3SUE4QTBuWGNjdWxObXdzdzBZVEpKZk5kMXFqcTJtVGlxclM0UUNMQy1rVi1pX0ozQ3BiX1Y3M0p30gHqAUFVX3lxTE5XSGdGbF9NSWxLWmY2WlNUX0J6VTBKcGh5T0lRbHZkVWJpRHRqN19ONjZGN1hCSHFwYUdrb0NVLVc2YWRjSDZZY1pMbUZQX1B2WHhjT29qRVJwVnFVNFBlQ1NjNm1ReWRZUlNwdnNWOHJnVy1lazIyVUlaMTVRNDU3Yl9IUUZvaVdpLW11VUtLeERRMEdaTl9tX3FUUVZsemViVzJxdkRnSUdxWnJRbm01OWRHNXY2MndkSjhmZElNYWhLSlZ0cGRJTE1GbHpfUnZua3pwNWxOV3Nsb1QzTWhKYV9vVE5kbHE0dw?oc=5
+- Singapore must never allow prejudice against any community: PM Wong on anti-Indian abuse - The Hindu
+  Singapore must never allow prejudice against any community: PM Wong
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY1pIbUxQZzBVVHdjX0Z2b3ZobG1IM2xxMW0xSmxjZW9Fazc5WlE5aHVsOW4ya0lCbVRLMm52Um5WaHdDbEpQWmxtNGdTbTdMSXZ3M3BIR1R4enNlLVB4R1A0eWdmem1XeHo4YTduWVRPdmpMOUtsbllEdXc0MzlOUi13SmozTHNJNE9RVjR0ekhVZXhzM0VyaFJTaERXaGNzdW52YlB2MkJIMElUcGhKaVNBNXVHRG9jMmgydHRTa1djOXB5NEFZVXlNOEpVZDZxX2Rqbkp2dUtZbGNNR09xUDVMNEVmd9IB7AFBVV95cUxPVlRBSGY4UXZZUEFWZk81ZmxaMHR5QWdYQm1qY1E2UTcyNVg2NEUyUUJVQXVfSlgxeHk2Y2ozWUVVcElka0gwYUdycGJoNDFZWXZyRzlmZFo3UGJ6Yk1ZVzZ0NzQwUE82d1pOY3hWbmdpM3hnbWRaT0ZFYkktd1VvbG5kM09sRTJ4bnlwcGdWYnVjWUI1XzBIMl9ySTltRDdBMUpUbDl6OTUyeXhkRlZUUEgwVXZrUVRObFRiRWJ3NE9TeUFlVEVuakpUZGN5VlNGc214Z1huUmpSb2o5dVlIWXpTOGgxaUhGZnFxLQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -140,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI - The Guardian
-  I’m a father of three who studies the impact of artificial intelligence: this is what parents
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- This Tiny E-Reader Is the Single Best Piece of Technology in Years - The Atlantic
-  This Tiny E-Reader Is the Single Best Piece of
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3ZwTGlHdU1MVGhEUnlLbDd6c3BJaHV3VDMxX2pFRVdMb0ZJS19xY2RaZ1o0cGVpWVA2S0JReXJZYWduTHVXYmFEaG81UXFGYlNHTHR3UzFpNkdrdTNRcHhBNm1JNnlvdTdBczdETG93eDJDR2JjTUN3WHNOQlk2UkhNd3FuT1JHOWJySWRCUzhnQW0xVlhR?oc=5
-
-- How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips - The New York Times
-  How a Blacklisted Chinese Tech Giant Kept Buying America�
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5
-
-- Google data centre in Visakhapatnam will use air-cooling technology: MP - The Hindu
-  Google data centre in Visakhapatnam
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQci0tSzFSSHpITlNyNk1YQml2UEQtRzNtMTNidHlsZ2RhVnYzYm5pODU0dHBMVHpINVV5N2lGcFJ1eWFIRGdfc1dFX0M0azRfQzJZNkVlMWpaVU80N1JpWGRUQUVsY2pXX2dFcVhwbWVEUWxXTVF5T3NqQXZOUzl0R3VGYzRDSENwbmhzZjI5TGxJeTZBUkpzWGt6UjVuQTU4Sk1zSUhuVTdvblVQUDBjMmdrbU0zOVAtR1duLV9HUVNJOWN4QVhkdmF5STZUeGgyS2tRN1pxWlVreEUx0gHjAUFVX3lxTE45QmNuMG1OVFVaY290ZS1xcWlmaEU2T09sS0FEMlVMWW5DSHBralNwMGVIRTlaUmxfUHc2V0xkVFctSEpLUk5FX3M2OHlHZmNLbU9mTXo4WG90TDB0dFU0SjUyc3BUSy0zdVdqM2NmQmxPUGpTQmtOdjlKU3VlazNTbUREYWxZbEJXamZDRW1OWFlheTU1NS1jT2NHSUZmYmY1TWE3V1JSdXpqR1NMSDFwWTlCclg2b1VNazB6TzcxQmJCaTlVc2hlZGJKa2RlMGFsOFM5M2lZdURLNTVTWGhGTS1R?oc=5
-
-- IIT Kharagpur healthcare hub moves to self-sustaining model after 20+ technology transfers - ET Education
-  IIT Kharagpur healthcare hub moves to self-
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaEU3b09sd2lUR2lMUXhvdGh0emtFWjdnVVpyR2JmblRNTGFxN2ticEh6WEtBY0tiZ3lYRmVGSGdFSm5STHl4TENNMUdqZ2VTN1AtVVRZNGdCM2FWWmdwTEc0U05mSlFkZnJzRGp3WWI1X2lHTVo4d1czLThFbGQ1eEpuWjF6bmpWWGlld1RZbFVLR0N3LWo0OFlvOTJRV2NoWFdVS2x1NkNkRWpBQ2d3ekZfT24zQTN6d1REc3hhUEZ0Z2daU2FDVXBUZ2FtOE5MRVZ6UUNjeFdhTHlfQ3ZFaXNDMmp2R205MFN3VllnUG1hZ9IB9wFBVV95cUxObV93SDlHN2tBc29YRG5GaHM1bm5VM1EtNFh6UG8yMWtQaHg0NUZGNmxGa1JyYWh5ZlFOampuVGpYck13MzBfekNCbDZLa2RkR011RGtIeEMxMTJvLW1HOHlhaU85SngtOURzVEt4bmVxaGNvZncyb0VhRklCbmFsbnJLRnItS2tuRml0WF8wd29aRTZFNFVZTC1PdGV1WHVBNmVPX3NRbUZPMnFTOWpnSmF3akdOWXVwa3FXemRKMmFObjJVcTNYZzltMFFGdGJJYWJrRVNpZUYyMmxSNVBpVWpGWmczYzdheUszaE12S3BNN1NKSDlF?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-06 19:57:21 UTC_
+_Last updated: 2026-09-07 02:28:54 UTC_
