@@ -1,44 +1,84 @@
 # 📰 Daily News Summaries
 
-- Tata Motors’ Jaguar Land Rover aims to reduce costs by  ₹21,700 crore by laying off 4,000 jobs
-  Jaguar Land Rover plans to cut up to 4,000 jobs in the UK. UK government has refused financial
-  🔗 https://www.livemint.com/companies/news/tata-motors-jaguar-land-rover-to-lay-off-4-000-jobs-reduce-costs-by-21-700-crore-11788777549404.html
+- New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught between “Indian line” and “Chinese line” - The Hindu
+  New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVNpQ2pBYlZfWEhfbEVMS1RUODNycDQ5YVJia0l6ZXZnNEV1OW5NTlVKQTFzaHZ6Qi03WlFDQk1GcWxORWVheDBnLUZpeDIzU3AwS3FvNW01U0VXbk9sLUJqdHhYZTkxNzZuc0R0THU3Yl9kb280Y25Pbmtja3ltZUQ4YWkwRzJZUU1NUHZPU3dzRGZnbTdlZEhLMVFhWkRDd0ZESWx5NWJWZ0x0ZWJFS3llcUhsZTJTNVlRT0dtOW5pdThNX2doaTJHRzV5SE10dWt6YndqcWhqcG1MOXpTQTlaeDIxVjhMZE9HbzQ1Uk81ZS0yc2RKSzZ0TWNtd9IBhAJBVV95cUxON2F4SmpoNUJjNXd5cjNsQWc5dlMwNUNYZkQ1N1ltd0RsZFR2bEF6S0RDQXZpNHcyVEVWa2RiN3VQOXBvc0s1cmRMNjUzM3NTOUFtd0I0QTBnSnVSVjhOUmhYWUJvdzBITVlSTW81ZWYyc2I2R3pPRzlEZlFQcEN4T1RCbDN0UC0zSHdPMXlWOTVzeHNWMV9lRjQ0VU1xY1lWbzBVd09GRTdPWUdHWlBybndBVEw3cmpiYjZoaG1xWFl2LTFyQWp4bTF0QUZ2SGxtamhkM0dRTzhfMkFkaDh2eU1DRlZ1TmlxYmdwa2RtLXNuU0FsRGhwNTI4X1NidkdQT3lYNQ?oc=5
 
-- HerSpace raises $50 million from Gray Matters Capital to expand worker housing
-  The Bengaluru-based company plans to deploy the capital across southern India as manufacturers grapple with
-  🔗 https://www.livemint.com/companies/start-ups/herspace-manufacturing-raises-50-million-gray-matters-capital-11788770709275.html
+- 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
+  'Win against India damaged us a lot': Mohammad Yousuf explains
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
 
-- Who is Suprakash Mukhopadhyay? Tata Sons' top exec facing fresh heat over alleged involvement in family business
-  Tata Sons' Group Company Secretary, Suprakash Mukhopadhyay, facing scrutiny
-  🔗 https://www.livemint.com/companies/people/who-is-suprakash-mukhopadhyay-tata-sons-top-exec-facing-fresh-heat-over-alleged-involvement-in-family-business-11788772067600.html
+- Tennis: India’s Karan Singh clinches singles title at ITF Men’s World Tour - News On AIR
+  India’s Karan Singh clinches singles title at
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ZOZ2RVbE5ZUHpjVHRkdTcxTmxSYnRUVW5xN3Q5a095YWNTdS1zQmtfRkozTXdxSy0zbnV6Y3F4Z01NT2hBc1FkT25Lc1p2dFozNmswUTh6VHRheTRYR0l2OE9pdExET041LWlsX1pqbDdYTVp5Z2E0T0pDWFk5UU1WLXZ5c1RlTU9vYnhBYlM0VHhjTEFKNFBCTXZjQQ?oc=5
 
-- Tata Capital Healthcare Fund expects more IPO candidates from its latest  ₹2,500 crore fund
-  Tata Capital Healthcare Fund aims to exit over half of its portfolio companies from its new  ₹2,500 crore fund via IPOs. The firm is raising ticket sizes while targeting
-  🔗 https://www.livemint.com/companies/news/tata-capital-healthcare-fund-ipo-exits-rs-2500-crore-fund-11788763641627.html
+- Collapsed Delhi Hostel's Rent Agreement Left Owner With Zero Responsibility - ndtv.com
+  Collapsed Delhi Hostel's Rent Agreement
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS2l0OFBYampONUk4SHpBZ0pCTU9wRHRkbjFTMHRaN09kRGZBMHdpZlJVcWoyWmtLeHJlRkQtVDAzd3BzZjBlOGIxeGg3bVBMeHg4Tmpkc1pyWDA1Um1MVmQyTUtpUDRyRGdZWFRldTlGYlM2MVp2RzRMV0RxSEVtbzN4c1FpNEUtR1MwUEM3aURfaE5SWlRQOEZvUFlzQjRUcm9zbTBQR2FvUWhTci1jc1F2R3BKMmxFVThMYzU0RVRPSTRuZXladWY2ay1xcXQ1Z05YRWowMXJnU0JNSlJuatIB6AFBVV95cUxNT0s1RkJUYWpXNlgwNnRjanhBZktncVZMbVVVSWp3UWVFR3F5S3k5Tld2RjRIM2tOYXRrQ0RyOWo5Qi1hZlNIU1h2M2d2ckg1c3ZpaFdwZzdmR3RJRzRVd3pMMGxBR1ltSzAtODJRRmZyT1hHNnJ5aEZpWFo3cVpiMlRVdjltSWpWUDlja2huWFZGOFAzaTBHZjd6RGZlZkhKU09PbXgxMWJITVZNMVJkTU1rWHBfV1dPN3A0NzF6V2NkRDd3SEFnMi0ySXBKUjdiT0R1c1M4alRXZDlxWFZ3ZGtpWU9pcDdU?oc=5
 
-- Nua raises $50 million Series C from Peak XV, Filter Capital
-  Nua will deploy the fresh capital towards brand building,
-  🔗 https://www.livemint.com/companies/start-ups/nua-raises-50-million-series-c-funding-women-wellness-11788768200054.html
+- India teams search for survivors after Delhi building collapse kills six - Al Jazeera
+  India teams search for survivors after Delhi building collapse kills
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOenRhRFFkcGxsTHNPeGp5UFpaUFl6SzdKbGc4RnR1b3pRUW1KazExUldwdHUwVFNqSk84N1BYYjRIa1ZkZE1nM1ZDSHVTWUNzVnBLMDIwRGQ4aDFteEtIeWxMNVpXcVA3WmNVYVR2TmN1ZVRTb1RpdG1Bc0M0b3JJT2stZURxa09KTF9DTHBYSXVVa0k1S3lzdWh6czNVWDNRcEw4T1lLRW91aDRkNE1nTGFn0gG3AUFVX3lxTE5DMnVWd0otelMwN1ljelZxVGtqOVVrTjVpSmhObmlRYjBNbWxjZ1hXcDVfTkFxUjI4YnBUaUhZVGUwcDAwYW1oMnN0bjZsakJFeG9yeDBHckNIQ2Q4MmNCeWh4eGcxX202Y0pJU21xNE0zTDZ1V2ZuNks3TWVQYjJ3MUdBbFF1TFFNWFY5bmV4cXJ3TnZqTEhybGZlYWtuS2s5d0pkWkpieTZkU3hKY0FwaHNsZDlMUQ?oc=5
 
-- Over 100% returns in 6 months | Multibagger defence stock hits 52-week high ahead of board meeting to discuss fundraise
-  Raymond shares have delivered strong multibagger returns of 103% over the last six months. The stock hit a 52-week low of  ₹320.40 on 30 March this year
-  🔗 https://www.livemint.com/market/stock-market-news/over-100-returns-in-6-months-multibagger-defence-stock-hits-52-week-high-ahead-of-board-meeting-to-discuss-fundraise-11788775799102.html
+- OpenAI chief scientist warns no-one is prepared for consequences of AI - BBC
+  OpenAI chief scientist warns no-one is
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5
 
-- Gold Prediction: Will Gold prices fall further? Experts reveal key levels for investors to watch
-  Gold prices fell 0.7% today as positive US jobs data increased rate hike expectations. geopolitical tensions and high oil prices provide counterbalance.
-  🔗 https://www.livemint.com/market/commodities/gold-prediction-will-gold-prices-fall-further-experts-reveal-key-levels-for-investors-to-watch-11788776900146.html
+- This Tiny E-Reader Is the Single Best Piece of Technology in Years - The Atlantic
+  This Tiny E-Reader Is the Single Best Piece of
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3ZwTGlHdU1MVGhEUnlLbDd6c3BJaHV3VDMxX2pFRVdMb0ZJS19xY2RaZ1o0cGVpWVA2S0JReXJZYWduTHVXYmFEaG81UXFGYlNHTHR3UzFpNkdrdTNRcHhBNm1JNnlvdTdBczdETG93eDJDR2JjTUN3WHNOQlk2UkhNd3FuT1JHOWJySWRCUzhnQW0xVlhR?oc=5
 
-- Stock Market prediction tomorrow: Sensex, Nifty outlook for Tuesday | Kospi, Taiwan Index, Nikkei cues to watch
-  Nifty 50 dropped 0.57%, and Sensex fell 0.5%. Technology stocks led losses, while pharmaceutical stocks gained slightly.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-tuesday-kospi-taiwan-index-nikkei-cues-to-watch-11788773810533.html
+- PeopleWorks Marks Four Decades in HR Technology, Reinforcing the Depth and Scale Behind Indias Hire-to-Retire HRMS Leadership - TheWire.in
+  PeopleWorks Marks Four Decades in HR Technology, Reinforcing the Depth and
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxObFZqdlBDZ0JuYWp3LTBQcDEzbGg2ZHdhczdvMTY3Q2NBSlFkNDlib1hMY1FxMFFTeWFqLU4tU3h1dHFGVUZfLU5pc2FrZmQxQ2tYOXNaZGFidUxYRzJCVlg2Qlg1NllnS1ZDTloycEY2ekJic1BKQ1J4bjlZQVN6TUNQTlU1SDh3NXVlbmhUWDRaUEJGSzRmVzNubkJQc3RCaHl5aU8zTTZ1cVhpY251R2IySjdHR0I0czBGUTRfMFdnc1I1UlAyZllEa1BlX0pUd0xRbzlPSEp6cVFxdEJqUGlZTWN4QmFTS3pqNDQ3WXoxWVVoSFHSAfsBQVVfeXFMUEdFVVJPeWczbnh2VlJPNlV0NFZBY1JKNHB2UURfT0Y4aHN1c01pell6OXBZcm9YMkl5WkVoZ2VIRzh5ckRHbUZDM1FEYVRUSmY5Um9IQzNXYUhfeEdtQmxPR1l4eER2LUt3VUdlVVdaNFlYUl9Rb3UwTUpYNlZabkdHa1lwQ2tVM3czMEpNUTc0VzdpRHA5MzlkMEYtT09yZHR6dFlLaXZhazU1QVlJcUhlUm5iUnh4bklnTGdaVFFlZFRRMS1IZHROM252eExfdFhIb2VObnNsMTZsYzRYdGRmbWlPLXlKQWJmYlJpSnFLOHNpeWlOc0REejA?oc=5
 
-- Penny stock under 10 rupees Nandan Denim jumps 9% despite stock market sell-off
-  Nandan Denim's penny stock surged 9% to  ₹3.08 on September 7. Despite recent gains, the stock is down 13% over the past year
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-10-rupees-nandan-denim-jumps-9-despite-stock-market-selloff-11788774193408.html
+- Nagaland empowering youth with drone technology - The Times of India
+  Nagaland empowering youth with
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzBKXzFfYUVBSzZROG5rQWp1UE1NckNKbXoweldSdVktYlFOUjJGazhELWx3S09Zai04M1oxQW9ub0h3Mmg1Z2JsaUYyWktDbzVEUE5nTEN6eEJfTHFhcWNBbVpSQlczakJVWTRUVlhNWTNRbTlfbEVuZVBDeU0zVFlCR2tDNmNtZEJUbm9xWmRucnlUVll6NjhEZFVsMTJvSzZYek9OYjliZVcxRFp1NWROWXZscVMzbHNpdExNaTnSAcYBQVVfeXFMTUdLVllGVnM3cTF2ZzRCcXVZN0RPd0lyRy0zU2k0aWthckNwclNEUjJBNE52Z1pzdElNcnBwVktPQzdFOGREa3RGU1M2UUlJLU9xbTMtLU1LOVpoWDEyWDQyN0lnWWIxLWRuSmh4YXhJWWJqbUgyV0Y1bmdjRzFqMV9oNUVkODctcUVSYlU0Sk9DTXhfR183NkM3T25TbTg3cENCcllObDl2WUdZelpfVHVzMFdtZVl2RUVkMThIR0EtaktKVHhB?oc=5
 
-- L&amp;T plans to raise up to  ₹500 crore via tokenized bonds after REC's success, marking new era for debt markets
-  Tokenized bonds are conventional debt securities whose ownership and transaction records are maintained
-  🔗 https://www.livemint.com/market/bonds/lt-rec-tokenized-bonds-bond-markets-blockchain-rbi-sebi-11788771885850.html
+- India is where the future of technology is being imagined, developed and led: Samsung CEO - The New Indian Express
+  India is where the future of technology is being imagined, developed and led: Samsung
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0dUemx4TG1xVS15RXVZMzNyTDY2cUdFSnE3XzRmZVRhcmxVaVRlVHBCY2NDcmJrSllXUHpONXhWTUxYbVZyNWJ2a0hiTkFyaEs5U3NmeTdYMFh4YXc5TWRXMUpCNDZoaWFGYnl2bXA1TzM2X1YwV28xOGZjUzlDV3c0VE5QSUVKOXF5em5ua0VoZ2VQZ0lhOEtlMXcwcUtNMUFzN2liN01ocWxrTmF2cmVxWFlzcWd2aER3SUhlc1RuZEM4X0FESGpKMHR1d0JSLU0tRFpuY0jSAeYBQVVfeXFMT0VRTE9PMlpNREtxTFZkMy11TXNLXzFqbXhZdGcwN0FONHh0ZXNlbGc3cEZnYjRoeXMtVE96cG9JQ3FMbmlDcW1ocS1qS2VFM2lqSDVIWmFVNmxnc1J1b3hOanhRZElGbVJoODR4cS1qdFhWbDd4RkpxU0xBMzR4SGVtaFBjeF92TkFtdEpTZmE3OTFpSDduSEtrUG53bWtHS1hGLVpsaVlacXNWX3lmWTJFMFo4bXB2RGpXVWdfc25xWDRLOUthNGlPb2p3QkhScnJUZGk4WEswMmVRbnAyeXBwMUJhZFE?oc=5
+
+- Swiggy picks 3.2% stake in Udaan, sells B2B arm for  ₹500 crore
+  Swiggy will swap its entire holding in Lynk Logistics for shares in Udaan’s parent and separately
+  🔗 https://www.livemint.com/companies/news/swiggy-picks-3-2-stake-in-udaan-sells-b2b-arm-for-500-crore-11788782732922.html
+
+- First female administrator in the Panama Canals history takes the helm
+  First female administrator in Panama Canal
+  🔗 https://www.livemint.com/companies/first-female-administrator-in-the-panama-canals-history-takes-the-helm-11788786380138.html
+
+- Mint Explainer | The post-Tim Cook Apple: Can John Ternus fill the big shoes?
+  Apple’s new head will have
+  🔗 https://www.livemint.com/companies/news/tim-cook-apple-ternus-11788778945936.html
+
+- HRV Pharma bets  ₹150 crore on peptides, high-potency oncology APIs
+  HRV is changing its business model from using available manufacturing capacity to underwriting specialised capacity.
+  🔗 https://www.livemint.com/companies/news/hrv-pharma-bets-150-crore-on-peptides-high-potency-oncology-apis-11788774695787.html
+
+- Arnya, IPO-bound Casagrand form  ₹750 cr south India-focused residential platform
+  Arnya Real Estate Fund III-Preferred Capital, a Category II alternative investment fund
+  🔗 https://www.livemint.com/companies/news/arnya-casagrand-rs-750-crore-equity-platform-residential-projects-11788771613590.html
+
+- Adani Power share price: Company makes ESG-related announcement; what investors need to know
+  Adani Power reported an improved ESG score of 66 from N
+  🔗 https://www.livemint.com/market/stock-market-news/adani-power-share-price-company-makes-esg-related-announcement-what-investors-need-to-know-11788798405262.html
+
+- Over 160% rally in 2026: This EMS stock ends 7% higher; key triggers explained
+  Avalon Technologies shares rose 7% to  ₹2,352 following Nomura's bullish outlook. The proposed joint venture with Zollner is expected to enhance growth
+  🔗 https://www.livemint.com/market/over-160-rally-in-2026-this-ems-stock-ends-7-higher-key-triggers-explained-11788796557452.html
+
+- Top stocks in focus tomorrow: Investors must watch Adani Power, Swiggy, Shiprocket shares on Tuesday, 8 Sept | Triggers
+   Container Corporation of India, Swiggy, BCPL Railway Infrastructure, Adani Power, Rajputana Stainless,
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-adani-power-swiggy-shiprocket-shares-on-tuesday-8-sept-triggers-11788790989089.html
+
+- Jio Platforms said to target IPO in November, roadshows from next week
+  Jio Platforms is targeting a November IPO in its discussions with banks. Details, including size,
+  🔗 https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-details-listing-date-share-price-size-valuation-11788790657127.html
+
+- AI penny stock under  ₹10 hits 5% upper circuit as IndiaAI Mission boosts infrastructure demand
+  Empower India Limited's shares hit a 5% upper circuit as the company expands
+  🔗 https://www.livemint.com/market/stock-market-news/ai-penny-stock-under-rs-10-hits-5-upper-circuit-as-indiaai-mission-boosts-infrastructure-demand-11788788720965.html
 
 - AI may accelerate anti-competitive practices in digital markets: CCI chief
    AI may accelerate anti-
@@ -60,65 +100,45 @@
   The iPhone 17 Pro and Pro Max are now up to £150 cheaper, while the iPhone Air 512GB gets a £200 discount in the UK. The iPhone 18 is expected to be released on September 9
   🔗 https://www.livemint.com/technology/apple-hasnt-launched-the-iphone-18-yet-but-iphone-17-prices-are-already-falling-check-discounts-11788755989437.html
 
-- European stocks fall and Asia-Pacific markets rise as investors assess renewed Middle East hostilities - CNBC
-  European stocks fall and Asia-Pacific markets rise as investors assess
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9DZWtOQkk1ZVBEaXhYWDhfSkdkV2RsNm9RV3pCZWtkVXBrNzV0QzNrVTJ5Q05aeG02VUZmdm51UVV3TklMWXg2TGVFb3ctWXEtYndobEI0dnJzdE9PaHFxZ1RpaENoTGgzMGFFc1plZ0d2Q1ZLcFZv0gF8QVVfeXFMTmV2b1B1TWM5MUR6SlFJOGFHa2g5UFpreXpJZFlqeE9qbVlpSm1Oa3pFaGZ2U21Yd0lxVDlWNmRrSzBINXZ2emZIVHFvSnVLSzg5Y050dUxVUUhLcjVaTjJDdFIzSFhWaTViVThaVUtqVmxZMmFvZHB1UlVRcQ?oc=5
+- European stocks mixed and Asia-Pacific markets rise as investors assess renewed Middle East hostilities - CNBC
+  European stocks mixed and Asia-Pacific markets rise as investors assess
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9DZWtOQkk1ZVBEaXhYWDhfSkdkV2RsNm9RV3pCZWtkVXBrNzV0QzNrVTJ5Q05aeG02VUZmdm51UVV3TklMWXg2TGVFb3ctWXEtYndobEI0dnJzdE9PaHFxZ1RpaENoTGgzMGFFc1plZ0d2Q1ZLcFZv?oc=5
 
-- Buying the smallcap rally? Bear market’s biggest losers crash further in 2026 after falling up to 80% - The Economic Times
-  The Economic Times reports that the U.S. stock market is on the verge of
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOLS15cHM0WUdzM21hZmhOOHBLSTRCOC1ma3RYTk9KODQ3amJ0UEd1djJFRkFrSkcwV1dyZzNSSDhmbFhTWUswNWFuXzNUcDBmZm9tSkRZWThWUmNlYnNVeU9tWXp6QXJnd2FILTltRVE5b2tjR0dEWkVoMHNzWElrOGYwSmhZeDhlNnRMVjFCT2hNeWpDdXZpdnVDdm5SeDE3MWN4UW9nejJ1eGtsRlBEbnVOUkhlZ3JEYUwtNk54c1ZpaDJzSkdQYjE2VW0wUDIwcVZ4U2p5TnozRWJ6TElWWFBBaHZPeWFlS3lPZ2p0UjVjVkl6aE9lNGNFSG9nN3VyZlHSAYcCQVVfeXFMUFVCRFBaMm9aN1g4WXZFM2VPU2V0aEJGTlpVODNKQ0drQ2NkNEc3YzlGMktvWlZhUEVXWU1LMnNJcUV6NmRidDNINzlLTWNRUkZzNWxrelljakZEU2NpcmZIc2dCRjZLYlBPUlo0bF9XS1E3SXN4QzNQTWVmNHR0X2VCX3hCLXJjNDlteGViYkItekVNVTM2bnlCcl9Gd3FkMVdUa1l4Z0oyOXhsenRKUndpY3hvOHNLd05zRm1rcUF5WGZDSWxNRWdQTkFQclprMVp3OVJkdmY5NE1LS2JhMG9VSURDMEE2M0Q1QjBJa0FDNXA0UjJRMDVzYlhXN3FDSEt1dmJrMVE?oc=5
+- Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets - CNBC
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOcGtDcDVaREoxQzFxVG1INXhHRmVnV2x0XzF1bmNDS2plclpiY0FSR2FzWFhscEhvb2hEaFZ5N1hlTFBOLWlodTBpbExKRm55aFd5eDFwRjlUZVhNaFhiTGdGQkZiTHYxY2ktMVdKcUdBdzkzbkpvQkIyTEd4Y2c3aG5Pb9IBiAFBVV95cUxOQ0RZenZlQm1vblVaUXBtR3B6ektHZndOWWd5a1E5Q0p4VmdCTGt2NFBrb2pXWUxCQ01XZ2Q0aHJoZC1OMjk2Vzg5VTQ4aXJ4QTFCd3dvRFMzZW1ScXdzei1ERVNVaFY5aE9PMXdZYW1lMFREZjhwZUJILTVYTW1JcFhVa0h1anZv?oc=5
 
-- The bond market had a whirlwind week. Where these traders see buying opportunities - CNBC
-  The bond market had a whirlwind week. Where these traders
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNeklIRnBoMV9QMWJBU1pwM0pVMnVEY1JaYUhjTVdvR3NHSkhWUmJ3UFpJbTUyYzdKdjBkdGhIMl9jSzM0d1JTcVR0R3FpSHN3aUt0b2VsY19JRXZxSS01VUVoTlFuczNURTRMaVVhREVzdUlHbzN2d21GVHJrQ1JfN214am1mUUIzd0ZGTVFzTWlLVUkwRVpaaFcwQVBELXYwQXlSTWsySDZfd1h4WUtzZHhZekthMjJ3aXc?oc=5
+- European shares subdued as surging crude sharpens focus on ECB rate path - The Economic Times
+  European shares subdued as surging crude sharpens focus on ECB rate
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaG9oZk5FV1o5Tl9xRVloTlNLWVNWS2Rsdk02X0s0THhqQ3AzNjVadWZjUFNnZW5odFBScURsNGt5ZHJvRlp2bkkxUW1RRnZLbmtTRWJZVlJSSU1xZDd5OERBM05GS0hiLXY5N3ItZVg2c2t4VVU0N0RxOEwwckpIdm9qY09uWDdzZW8wNTl3N25RMklfZDUxS3JlWjEwQ0VkUjlWNndpTUpBS0JUczlqSzBDUDAzbVk0VThJZXRZdzg4UzR4LUhDTEFxTDVkZWgyeGN2WHVDOG5SdUIwTGtSR2t6eld0NEtyaVBxX29qSdIB6AFBVV95cUxPRThieHpnMDA0ZmpsNlNrQUh3MVVNYzFPZWFNS3VRd1hleEx2bFJoNnl4Ylp0N3Q4WnVDZThkT292VkEzLXZNU18tVUNod0hiYmUzUkZSSWViOS1kN3VqdXVQcUtseFdBZm9pbjBEMFFnOHZxMzU0UTdLaXBxYVVrWC1NaG4ydWd2Wnh1cXRNNW5MRENxUWRleFdGNmFvV2EwckhSOGVOOUE5QXl3N2hlS2EtRWlJQkpSenhpeG5tRWpFWkpZM2liUFM3NHQwR3N1eHRKaXhQbVlGdDZzWEVBRU80bUJzR1JG?oc=5
 
-- Sensex settles 400 pts lower, Nifty ends below 23,800: US-Iran tensions among key factors behind market... - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZmQ0QzNleF9ZS2ZockFNVEYwT1E0UFB5b0xvMDZWdVhvS2Z5ZXo5N2x0UEo3eWpBUkxIRmxzTTV2SHVjZWhPa0FpalcwWGNfZlo3M1ZlMFRLWlZ2ejVPb2JUd0x0WDhGdG
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZmQ0QzNleF9ZS2ZockFNVEYwT1E0UFB5b0xvMDZWdVhvS2Z5ZXo5N2x0UEo3eWpBUkxIRmxzTTV2SHVjZWhPa0FpalcwWGNfZlo3M1ZlMFRLWlZ2ejVPb2JUd0x0WDhGdGV0RzQ5WURHMU5WSEwweFBkLTdQV3N1WjdzTGl6WGo0TG5RdFU0ZmhYRmNLMk40ZXJUMHc1UmVNNVhTWExLZllIUUhmTFV0czhBWUU3ZDRPM0gzUG1oSTh5b2ZCT0Rzd0ZjdWxtbHBhTTh5Zm0wMF9TZHNzR3ZEM1JqLWlnNTk5ZmhIYmhMZGnSAfYBQVVfeXFMUGpDT1JYZlFSaVNfOTFoQnlqMnZfanFHaG5zdzgtV3gwX2V0UlpyMjdFMlZLaEhBMjYyRWcxODMzMU5BNVU0UHNmSy1UbmZxb2ItUm52Vm4yckNsajJTcVdhZGlBUk9CWnNtNjV0NTFfc0xqcXhNWUlBU05qMzlYVnJzdW4wQWVmYzNxblBzSHJUcl8xVmpPclVqRjJySzlFekZmU1o1TnVSdzFaQnIyS3BaQkNUUVhoTERFaDZzVWJiUmxDNHJuTllIcWJkbm1MdVJxX3FGdTNMR2s5MkRxWlJRcTg4UGlPN1hnUXl5MkVkMFVxVHZB?oc=5
+- What are bond markets up to? - The Economist
+  The Economist asks: What
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0ZVX2FqZ0RkSDhHOHpnNFZHbUdwb2Y2Ul9UeU1MMzFjcGJZbVZnY1NsWk5RdjM5VTc2T1lCcld2RlJySzY5QV8zc0J0UkhXcWxWV2QxSVVxWDhNcVBUZ3Ztak11ZEZhWmhhREJGVHRvb2tNaXdkTm5ZQm0zSENfMExZLVgyYVlmb3hFU1JFblRGOFFLMTNB?oc=5
 
-- Hyundai Motor India expects 30% sales to come from rural markets in 3-4 years: MD & CEO - ET BrandEquity
-  Hyundai Motor India expects 30% sales to come from rural markets in 3-
-  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxPVUdmbjF5cjFzOEcwN0taczJUcHkwaUtrNUoxQXpjMlpySktpZFAwbXlpeG5yb2lLNmhWaFNLenpWS0ZMQzd2ekw2OUE2YWZXX21JcHg2WTltLUJmMjhaMzZqMzJsVWRHcU95VElFQl9qMFpGdUVsLXBxZFVHNGdJa0NRaTloZ0R4TWxHX2dOamRqaFJka1NHNl8zWTBVY3U4YmYza0FoTkUybUNRU2RjLWNqaE9uVEljV2t3dE5BSGdkX3MwQmljMlc5SWczamx1TWsxa0VtRUJxRE9HS2FTTXpzY1JMNFUteWk0aFAzb3huVjl4NHBWamdQM3pfeF82TzBNTjJEeXlKOFVrVVFKNU9uQ09nempsOVpZV253UjlyTHBPWGItQ0VfRlpIZzhLMkxNTm9KNFJjQU44VXJlQzZR0gH_AUFVX3lxTE1oN1NoMXdsQW1DbUpvdlpHTkphQ0lDcGI2Vjg3MWphWDFveDVjX2Y1czBnZFIwNkRSSWhUNFBmM1NJem8tVWk4WGtsSjE1clROVzRCMmFDZmhmeHdnUFBlWm1YbFB6dGVURlB1NmotSy1mZWtqWkhvOVZOcHdWR3dSYTZkTzZuWHJBMVNfZmpxQW5yTUxkS3VRbXU5TWlhNnhyM3N4OEpjTGpoNnNqOUhObThjc2JEUnpodGNMUlBYV2NKNi1QdU82U0VmaGFFbFpNMk5pemcwSUhya2ZkSGJCbWl1S0dnaGNPUFdQMmQyUVluT1JMRm5CYjhIMEpQNA?oc=5
+- Markets decline amid West Asia conflict, concerns over possible U.S. interest-rate hike - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQalQyc1Q4SUpQdk40eGRTZzh6b2tFNGo1SVVvZXdWRnM5eEwySXoxNm43RDhVX2g5cGhFYlZiTGMtQzlCVi1VTVVKZ0lTYUFxT2VlVk54YmJjdUlkbUpwVFdGUnpuNWtfV1
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQalQyc1Q4SUpQdk40eGRTZzh6b2tFNGo1SVVvZXdWRnM5eEwySXoxNm43RDhVX2g5cGhFYlZiTGMtQzlCVi1VTVVKZ0lTYUFxT2VlVk54YmJjdUlkbUpwVFdGUnpuNWtfV1ZONTFZQ2VwZnNkZGxrTTB3Skh0SFNDWmszdUxob0lDLVItM0JFeVVVMXFDSEwzeHozQlZUTDVLaTBUUHBCZzdfdnFwcUtPWnNaRVA0NGFGbVhrbHNNblJQSWpuT2xFZXh1MFFncWNJTkY5LUJSY0F4LVpsX3dB0gHmAUFVX3lxTFB2cTNwZEJJYlZkcUc4YnRodTRUN0thRUtkVXVFdnlDXzdUQzI1dUppdlE5MS1sZ2Y4WDZ0Q1lhZG91OFhqcllZWnM0Z1FXNXpJSVNVbE9haU5PUzctZ3IzYldqQkZRSGlBTFVYRi1QLUxZSTV2XzVtQzlnNTBtRGsxdmFvRHJWTWk1Z0ppY0xxNHBRWTZaa2NLMGRnSktwY1QtWFloYTQxUW5qVmpnLTNJdm9CYXdVdXFqaHRPdndxNXJqdjVQYl9VOVN0TTB1V2Q5ZWFVVEN5cTJQMmZObVpnTzZRWml3?oc=5
 
-- Arnya Realestates, Casagrand Premier to raise Rs 750 cr equity fund
-  Arnya Realestates and Casagrand Premier Builder plan to raise over Rs 750 crore through a Category II AIF. The fund will invest Rs 75-200 crore across 8-10 projects, offering institutional
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/arnya-realestates-casagrand-premier-to-raise-rs-750-cr-equity-fund/articleshow/133877735.cms
+- Prasol Chemicals mobilises Rs 150 cr from anchor investors ahead of IPO
+  The speciality chemicals maker allocated shares at Rs 676 each to investors including Tata Mutual Fund, Kotak Mahindra Mutual Fund and Aditya Birla Sun Life Insurance.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/prasol-chemicals-mobilises-rs-150-cr-from-anchor-investors-ahead-of-ipo/articleshow/133889916.cms
 
-- Rupee ends flat, hemmed in by RBI intervention, oil pangs
-  Rising oil prices and concerns over energy flows also influenced currency markets. The Reserve Bank of India sold dollars to maintain the rupee's value.
-  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-ends-flat-hemmed-in-by-rbi-intervention-oil-pangs/articleshow/133876884.cms
+- Taiwan's Wistron raises $1.5 billion in global share sale to fund raw material purchases
+  Wistron will use the proceeds to buy raw materials in foreign currencies. The Taiwanese company is also expanding production, including a $700 million AI systems plant in Texas.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/taiwans-wistron-raises-1-5-billion-in-global-share-sale-to-fund-raw-material-purchases/articleshow/133889813.cms
 
-- FIIs raise stakes in 9 midcap stocks for four straight quarters; shares surge up to 70% in a year
-  FIIs steadily increased their holdings in around 15 BSE midcap
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-raise-stakes-in-9-midcap-stocks-for-four-straight-quarters-shares-surge-up-to-70-in-a-year/slideshow/133876469.cms
+- European shares subdued as surging crude sharpens focus on ECB rate path
+  European shares closed largely flat as higher oil prices and renewed US-Iran tensions raised inflation concerns. Investors also raised bets on further ECB rate hikes, including a possible December move.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-subdued-as-surging-crude-sharpens-focus-on-ecb-rate-path/articleshow/133889738.cms
 
-- Bitcoin near $80,000, Ethereum at $2,500 as crypto market absorbs U.S. rate expectations
-  Bitcoin traded near $80,000 while Ether held close to $2,500 on Monday. Despite macroeconomic pressures and rising yields, continuous spot ETF inflows and steady institutional interest helped support market
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-80000-ethereum-at-2500-as-crypto-market-absorbs-u-s-rate-expectations/articleshow/133875649.cms
+- Copper prices scale fresh record high as focus turns to tight supplies outside US
+  LME copper touched $14,533 a metric ton, surpassing its January peak. Falling Shanghai stocks and strong US inventories highlighted the growing divergence in global copper supplies.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-price-touches-record-high-focus-on-tight-supplies-outside-us/articleshow/133889161.cms
 
-- ECB rate decision: Five key questions for markets as energy prices fuel inflation fears
-  The European Central Bank is widely expected to raise its deposit rate by 25 basis points to 2.5%. While the September hike is largely priced in, markets will focus on the ECB's guidance on further rate increases.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ecb-rate-decision-five-key-questions-for-markets-as-energy-prices-fuel-inflation-fears/articleshow/133875550.cms
-
-- Upstox Launches US Stock Investing After IFSCA Nod
-  Online stockbroking platform Upstox has launched US stock investing on its platform, weeks after receiving approval from the International Financial&#8230; Association.
-  🔗 https://inc42.com/buzz/upstox-launches-us-stock-investing-after-ifsca-nod/
-
-- NoPaperForms DRHP: A Look At Shareholding Pattern & Key Executives
-  Education-focused SaaS platform Meritto’s parent NoPaperForms filed its updated draft IPO papers.
-  🔗 https://inc42.com/buzz/nopaperforms-drhp-a-look-at-shareholding-pattern-key-executives/
-
-- Navana.ai Raises ₹40 Cr To Scale Voice AI Platform
-  Voice AI startup Navana.ai has raised $4.2 million in a Series A funding round.
-  🔗 https://inc42.com/buzz/navana-ai-raises-%e2%82%b940-cr-to-scale-voice-ai-platform/
-
-- D2C Pet Food Startup Lickicious Raises ₹19 Cr To Expand Operations
-  D2C pet food startup Lickicious has raised ₹19 Cr (about $2.1 Mn) through mix of equity and institutional debt.
-  🔗 https://inc42.com/buzz/d2c-pet-food-startup-lickicious-raises-%e2%82%b919-cr-to-expand-operations/
-
-- ISRO Rules Out Privatisation, Says Spacetech Startups Will Expand Ecosystem
-  The Indian Space Research Organisation (ISRO) has dismissed concerns that the Centre’s push to expand private participation in the space.
-  🔗 https://inc42.com/buzz/isro-rules-out-privatisation-says-spacetech-startups-will-expand-ecosystem/
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Sensex and Nifty extended their four-week losing streak as rising oil prices and US-Iran tensions weighed on sentiment. Analysts flagged downside risks from supply disruptions and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133888719.cms
 
 - New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught between “Indian line” and “Chinese line” - The Hindu
   New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught
@@ -128,17 +148,77 @@
   'Win against India damaged us a lot': Mohammad Yousuf explains
   🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
 
-- From Dog Walk Row To Delhi Tragedy: IAS Officer Sanjeev Khirwar In Spotlight - NDTV
-  The IAS Officer Sanjeev Khirwar was
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmZrUGZxXzh1T2JEVWw3LVlCYnVneHQ1dnhCNjBPT0xqUlEzT1ZfWm8zMV9faGdOTUtzU0JzUFEya25vbnU4Z2RQUGN2Q2tnRmNScXBic1Y2ekxpa19DS3hpR1MxM0ZOTWltTTRrYVhPeDFnbDN3ejR1bE9XdlloZVJHV3NSUF9mWlBUcDZkcjVWcG9HSloxemRtb3didWtMUXZwMzNwVzZSMm5fNFR1Tkc0Y3BPcWhmeUdFWTVsYlRHXzlicnZYSzVR0gHSAUFVX3lxTFBZUEFNbVZBRzhIUEJ0WGFkNUdMS2g0eTJzNm00eGVOODJ5VHlFZFpuOGl3NWpPWG1TckJ6UFdJQlBSd0pFS1NBYlZzVkg5MGo4cWszM2pZS0tPU09mZlg3VlBzYmVsQzJIT0FrNDhiSUVzbUgwR1JNQ3J6RHhGaFpSQjRUNTlpRUpfMG9CRi1ZeTZqcVNQT3BYRVNNNTJPX2c4cXg3R0hFZWRCT19yVXdkbG5HY2RvR04ydjNFRzJNY0hNY3VtRnVHN28yWFVWUVpxQQ?oc=5
+- Tennis: India’s Karan Singh clinches singles title at ITF Men’s World Tour - News On AIR
+  India’s Karan Singh clinches singles title at
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ZOZ2RVbE5ZUHpjVHRkdTcxTmxSYnRUVW5xN3Q5a095YWNTdS1zQmtfRkozTXdxSy0zbnV6Y3F4Z01NT2hBc1FkT25Lc1p2dFozNmswUTh6VHRheTRYR0l2OE9pdExET041LWlsX1pqbDdYTVp5Z2E0T0pDWFk5UU1WLXZ5c1RlTU9vYnhBYlM0VHhjTEFKNFBCTXZjQQ?oc=5
 
-- Delhi Building Collapse LIVE Updates: Owner Of The Building Which Collapsed In Delhi Detained In Rajasthan - NDTV
-  The owner of the building which collapsed in Delhi is in Rajasthan
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZUJQX1BaTW1sOFdERWh1N3ZvdWtrUE90SlJ4VXhDQVpXa2ZweXd5ek1kQzgyT1N5UXp4cmN6akVYQVBvODlTZ0hENDRjbmRVSzMweDlybUs0NXR5UzFDcTA2QnpmU3FVR3lsRUFzQ3ZsUEtLSGFwVjJfMU9QMmNVai00YkN6V3pNdXI4anRiSlNpVTRnRmVQdGdzdGJYZGotRzNOeEFUSlk3SUE4QTBuWGNjdWxObXdzdzBZVEpKZk5kMXFqcTJtVGlxclM0UUNMQy1rVi1pX0ozQ3BiX1Y3M0p30gHqAUFVX3lxTE5XSGdGbF9NSWxLWmY2WlNUX0J6VTBKcGh5T0lRbHZkVWJpRHRqN19ONjZGN1hCSHFwYUdrb0NVLVc2YWRjSDZZY1pMbUZQX1B2WHhjT29qRVJwVnFVNFBlQ1NjNm1ReWRZUlNwdnNWOHJnVy1lazIyVUlaMTVRNDU3Yl9IUUZvaVdpLW11VUtLeERRMEdaTl9tX3FUUVZsemViVzJxdkRnSUdxWnJRbm01OWRHNXY2MndkSjhmZElNYWhLSlZ0cGRJTE1GbHpfUnZua3pwNWxOV3Nsb1QzTWhKYV9vVE5kbHE0dw?oc=5
+- Collapsed Delhi Hostel's Rent Agreement Left Owner With Zero Responsibility - ndtv.com
+  Collapsed Delhi Hostel's Rent Agreement
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS2l0OFBYampONUk4SHpBZ0pCTU9wRHRkbjFTMHRaN09kRGZBMHdpZlJVcWoyWmtLeHJlRkQtVDAzd3BzZjBlOGIxeGg3bVBMeHg4Tmpkc1pyWDA1Um1MVmQyTUtpUDRyRGdZWFRldTlGYlM2MVp2RzRMV0RxSEVtbzN4c1FpNEUtR1MwUEM3aURfaE5SWlRQOEZvUFlzQjRUcm9zbTBQR2FvUWhTci1jc1F2R3BKMmxFVThMYzU0RVRPSTRuZXladWY2ay1xcXQ1Z05YRWowMXJnU0JNSlJuatIB6AFBVV95cUxNT0s1RkJUYWpXNlgwNnRjanhBZktncVZMbVVVSWp3UWVFR3F5S3k5Tld2RjRIM2tOYXRrQ0RyOWo5Qi1hZlNIU1h2M2d2ckg1c3ZpaFdwZzdmR3RJRzRVd3pMMGxBR1ltSzAtODJRRmZyT1hHNnJ5aEZpWFo3cVpiMlRVdjltSWpWUDlja2huWFZGOFAzaTBHZjd6RGZlZkhKU09PbXgxMWJITVZNMVJkTU1rWHBfV1dPN3A0NzF6V2NkRDd3SEFnMi0ySXBKUjdiT0R1c1M4alRXZDlxWFZ3ZGtpWU9pcDdU?oc=5
 
-- 6 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi - NDTV
-  6 dead, several Feared Trapped After
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlFHSEFwRDd3THB2OXF3NlgycHF4a0luVTUwOWlMeVhJQ3VXby13cm5lalFDS2pGampkVUtpZDNGWGtvUG1WcXAwQ1NHTjhrMS1iRlZHTkg5WUpwNjJPZS1HZGdkRDc0YS1NbFI5SEhOdHM4RE9JSE1uRDhXNHFZSE1wQ1VtV1p2Y0pkMVJhaURWVDhaclJySXVna2lENlR1bjl4bkowZ9IBrwFBVV95cUxQc05jeU1xY2Q4R1pqbW9rRVJRY0d0cmJyUmZCX0RGSUdmeWVEVTRzZENFUEJpWDVxUDdPMW5PeHVXbkhnanNRYUhDVWxHbEpwTlZ5dHpncVFpcnphdFlKNVAyb2JyYWtGZk1NVHdFMG5ycUVTNG9IdHVya3BPSS1yTDR1MzJoUWRPYU1vZWVfVjJ3T3VyNnpNZWZ4YmhYd1hVRzMtN2RxM2xqUkY5dTJz?oc=5
+- India teams search for survivors after Delhi building collapse kills six - Al Jazeera
+  India teams search for survivors after Delhi building collapse kills
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOenRhRFFkcGxsTHNPeGp5UFpaUFl6SzdKbGc4RnR1b3pRUW1KazExUldwdHUwVFNqSk84N1BYYjRIa1ZkZE1nM1ZDSHVTWUNzVnBLMDIwRGQ4aDFteEtIeWxMNVpXcVA3WmNVYVR2TmN1ZVRTb1RpdG1Bc0M0b3JJT2stZURxa09KTF9DTHBYSXVVa0k1S3lzdWh6czNVWDNRcEw4T1lLRW91aDRkNE1nTGFn0gG3AUFVX3lxTE5DMnVWd0otelMwN1ljelZxVGtqOVVrTjVpSmhObmlRYjBNbWxjZ1hXcDVfTkFxUjI4YnBUaUhZVGUwcDAwYW1oMnN0bjZsakJFeG9yeDBHckNIQ2Q4MmNCeWh4eGcxX202Y0pJU21xNE0zTDZ1V2ZuNks3TWVQYjJ3MUdBbFF1TFFNWFY5bmV4cXJ3TnZqTEhybGZlYWtuS2s5d0pkWkpieTZkU3hKY0FwaHNsZDlMUQ?oc=5
+
+- AI Adoption Could Create New Competition Risks In Digital Markets: CCI Chief
+  CCI chairperson Ravneet Kaur has reportedly warned that AI could amplify anti-competitive practices in digital markets.
+  🔗 https://inc42.com/buzz/ai-adoption-could-create-new-competition-risks-in-digital-markets-cci-chief/
+
+- Dronetech Startup AITMC’s FY26 Profit Remains Flat At ₹14.2 Cr, Revenue Up 26%
+  Dronetech startup AVPL International parent AITMC Ventures reported a net profit of ₹14.2 Cr in the fiscal year FY
+  🔗 https://inc42.com/buzz/dronetech-startup-aitmcs-fy26-profit-remains-flat-at-%e2%82%b914-2-cr-revenue-up-26/
+
+- Shiprocket Trims Q1 Loss By 24% YoY To ₹13.7 Cr, Revenue Surges 34%
+  Shiprocket managed to cut its net loss for the June quarter (Q1 FY27) by 24% to&#8230.
+  🔗 https://inc42.com/buzz/shiprocket-trims-q1-loss-by-24-yoy-to-%e2%82%b913-7-cr-revenue-surges-34/
+
+- Deepinder Goyal’s Temple Takes First Step Towards Validating Its Wearable
+  Deepinder Goyal’s wearable startup Temple has released its first validation study, with researchers finding that its proprietary brain flow metric works.
+  🔗 https://inc42.com/buzz/deepinder-goyals-temple-takes-first-step-towards-validating-its-wearable/
+
+- Swiggy To Sell Lynk To Udaan For ₹500 Cr, Pick Up 3.2% Stake In B2B Unicorn
+  Swiggy has entered a share acquisition agreement with B2B ecommerce unicorn Udaan to acquire Swiggy-owned retail chain Lynk.
+  🔗 https://inc42.com/buzz/swiggy-to-sell-lynk-to-udaan-for-%e2%82%b9500-cr-pick-up-3-2-stake-in-b2b-unicorn/
+
+- New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught between “Indian line” and “Chinese line” - The Hindu
+  New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVNpQ2pBYlZfWEhfbEVMS1RUODNycDQ5YVJia0l6ZXZnNEV1OW5NTlVKQTFzaHZ6Qi03WlFDQk1GcWxORWVheDBnLUZpeDIzU3AwS3FvNW01U0VXbk9sLUJqdHhYZTkxNzZuc0R0THU3Yl9kb280Y25Pbmtja3ltZUQ4YWkwRzJZUU1NUHZPU3dzRGZnbTdlZEhLMVFhWkRDd0ZESWx5NWJWZ0x0ZWJFS3llcUhsZTJTNVlRT0dtOW5pdThNX2doaTJHRzV5SE10dWt6YndqcWhqcG1MOXpTQTlaeDIxVjhMZE9HbzQ1Uk81ZS0yc2RKSzZ0TWNtd9IBhAJBVV95cUxON2F4SmpoNUJjNXd5cjNsQWc5dlMwNUNYZkQ1N1ltd0RsZFR2bEF6S0RDQXZpNHcyVEVWa2RiN3VQOXBvc0s1cmRMNjUzM3NTOUFtd0I0QTBnSnVSVjhOUmhYWUJvdzBITVlSTW81ZWYyc2I2R3pPRzlEZlFQcEN4T1RCbDN0UC0zSHdPMXlWOTVzeHNWMV9lRjQ0VU1xY1lWbzBVd09GRTdPWUdHWlBybndBVEw3cmpiYjZoaG1xWFl2LTFyQWp4bTF0QUZ2SGxtamhkM0dRTzhfMkFkaDh2eU1DRlZ1TmlxYmdwa2RtLXNuU0FsRGhwNTI4X1NidkdQT3lYNQ?oc=5
+
+- 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
+  'Win against India damaged us a lot': Mohammad Yousuf explains
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
+
+- Tennis: India’s Karan Singh clinches singles title at ITF Men’s World Tour - News On AIR
+  India’s Karan Singh clinches singles title at
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ZOZ2RVbE5ZUHpjVHRkdTcxTmxSYnRUVW5xN3Q5a095YWNTdS1zQmtfRkozTXdxSy0zbnV6Y3F4Z01NT2hBc1FkT25Lc1p2dFozNmswUTh6VHRheTRYR0l2OE9pdExET041LWlsX1pqbDdYTVp5Z2E0T0pDWFk5UU1WLXZ5c1RlTU9vYnhBYlM0VHhjTEFKNFBCTXZjQQ?oc=5
+
+- Collapsed Delhi Hostel's Rent Agreement Left Owner With Zero Responsibility - ndtv.com
+  Collapsed Delhi Hostel's Rent Agreement
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS2l0OFBYampONUk4SHpBZ0pCTU9wRHRkbjFTMHRaN09kRGZBMHdpZlJVcWoyWmtLeHJlRkQtVDAzd3BzZjBlOGIxeGg3bVBMeHg4Tmpkc1pyWDA1Um1MVmQyTUtpUDRyRGdZWFRldTlGYlM2MVp2RzRMV0RxSEVtbzN4c1FpNEUtR1MwUEM3aURfaE5SWlRQOEZvUFlzQjRUcm9zbTBQR2FvUWhTci1jc1F2R3BKMmxFVThMYzU0RVRPSTRuZXladWY2ay1xcXQ1Z05YRWowMXJnU0JNSlJuatIB6AFBVV95cUxNT0s1RkJUYWpXNlgwNnRjanhBZktncVZMbVVVSWp3UWVFR3F5S3k5Tld2RjRIM2tOYXRrQ0RyOWo5Qi1hZlNIU1h2M2d2ckg1c3ZpaFdwZzdmR3RJRzRVd3pMMGxBR1ltSzAtODJRRmZyT1hHNnJ5aEZpWFo3cVpiMlRVdjltSWpWUDlja2huWFZGOFAzaTBHZjd6RGZlZkhKU09PbXgxMWJITVZNMVJkTU1rWHBfV1dPN3A0NzF6V2NkRDd3SEFnMi0ySXBKUjdiT0R1c1M4alRXZDlxWFZ3ZGtpWU9pcDdU?oc=5
+
+- India teams search for survivors after Delhi building collapse kills six - Al Jazeera
+  India teams search for survivors after Delhi building collapse kills
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOenRhRFFkcGxsTHNPeGp5UFpaUFl6SzdKbGc4RnR1b3pRUW1KazExUldwdHUwVFNqSk84N1BYYjRIa1ZkZE1nM1ZDSHVTWUNzVnBLMDIwRGQ4aDFteEtIeWxMNVpXcVA3WmNVYVR2TmN1ZVRTb1RpdG1Bc0M0b3JJT2stZURxa09KTF9DTHBYSXVVa0k1S3lzdWh6czNVWDNRcEw4T1lLRW91aDRkNE1nTGFn0gG3AUFVX3lxTE5DMnVWd0otelMwN1ljelZxVGtqOVVrTjVpSmhObmlRYjBNbWxjZ1hXcDVfTkFxUjI4YnBUaUhZVGUwcDAwYW1oMnN0bjZsakJFeG9yeDBHckNIQ2Q4MmNCeWh4eGcxX202Y0pJU21xNE0zTDZ1V2ZuNks3TWVQYjJ3MUdBbFF1TFFNWFY5bmV4cXJ3TnZqTEhybGZlYWtuS2s5d0pkWkpieTZkU3hKY0FwaHNsZDlMUQ?oc=5
+
+- New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught between “Indian line” and “Chinese line” - The Hindu
+  New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVNpQ2pBYlZfWEhfbEVMS1RUODNycDQ5YVJia0l6ZXZnNEV1OW5NTlVKQTFzaHZ6Qi03WlFDQk1GcWxORWVheDBnLUZpeDIzU3AwS3FvNW01U0VXbk9sLUJqdHhYZTkxNzZuc0R0THU3Yl9kb280Y25Pbmtja3ltZUQ4YWkwRzJZUU1NUHZPU3dzRGZnbTdlZEhLMVFhWkRDd0ZESWx5NWJWZ0x0ZWJFS3llcUhsZTJTNVlRT0dtOW5pdThNX2doaTJHRzV5SE10dWt6YndqcWhqcG1MOXpTQTlaeDIxVjhMZE9HbzQ1Uk81ZS0yc2RKSzZ0TWNtd9IBhAJBVV95cUxON2F4SmpoNUJjNXd5cjNsQWc5dlMwNUNYZkQ1N1ltd0RsZFR2bEF6S0RDQXZpNHcyVEVWa2RiN3VQOXBvc0s1cmRMNjUzM3NTOUFtd0I0QTBnSnVSVjhOUmhYWUJvdzBITVlSTW81ZWYyc2I2R3pPRzlEZlFQcEN4T1RCbDN0UC0zSHdPMXlWOTVzeHNWMV9lRjQ0VU1xY1lWbzBVd09GRTdPWUdHWlBybndBVEw3cmpiYjZoaG1xWFl2LTFyQWp4bTF0QUZ2SGxtamhkM0dRTzhfMkFkaDh2eU1DRlZ1TmlxYmdwa2RtLXNuU0FsRGhwNTI4X1NidkdQT3lYNQ?oc=5
+
+- 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
+  'Win against India damaged us a lot': Mohammad Yousuf explains
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
+
+- Tennis: India’s Karan Singh clinches singles title at ITF Men’s World Tour - News On AIR
+  India’s Karan Singh clinches singles title at
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ZOZ2RVbE5ZUHpjVHRkdTcxTmxSYnRUVW5xN3Q5a095YWNTdS1zQmtfRkozTXdxSy0zbnV6Y3F4Z01NT2hBc1FkT25Lc1p2dFozNmswUTh6VHRheTRYR0l2OE9pdExET041LWlsX1pqbDdYTVp5Z2E0T0pDWFk5UU1WLXZ5c1RlTU9vYnhBYlM0VHhjTEFKNFBCTXZjQQ?oc=5
+
+- Collapsed Delhi Hostel's Rent Agreement Left Owner With Zero Responsibility - ndtv.com
+  Collapsed Delhi Hostel's Rent Agreement
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS2l0OFBYampONUk4SHpBZ0pCTU9wRHRkbjFTMHRaN09kRGZBMHdpZlJVcWoyWmtLeHJlRkQtVDAzd3BzZjBlOGIxeGg3bVBMeHg4Tmpkc1pyWDA1Um1MVmQyTUtpUDRyRGdZWFRldTlGYlM2MVp2RzRMV0RxSEVtbzN4c1FpNEUtR1MwUEM3aURfaE5SWlRQOEZvUFlzQjRUcm9zbTBQR2FvUWhTci1jc1F2R3BKMmxFVThMYzU0RVRPSTRuZXladWY2ay1xcXQ1Z05YRWowMXJnU0JNSlJuatIB6AFBVV95cUxNT0s1RkJUYWpXNlgwNnRjanhBZktncVZMbVVVSWp3UWVFR3F5S3k5Tld2RjRIM2tOYXRrQ0RyOWo5Qi1hZlNIU1h2M2d2ckg1c3ZpaFdwZzdmR3RJRzRVd3pMMGxBR1ltSzAtODJRRmZyT1hHNnJ5aEZpWFo3cVpiMlRVdjltSWpWUDlja2huWFZGOFAzaTBHZjd6RGZlZkhKU09PbXgxMWJITVZNMVJkTU1rWHBfV1dPN3A0NzF6V2NkRDd3SEFnMi0ySXBKUjdiT0R1c1M4alRXZDlxWFZ3ZGtpWU9pcDdU?oc=5
+
+- India teams search for survivors after Delhi building collapse kills six - Al Jazeera
+  India teams search for survivors after Delhi building collapse kills
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOenRhRFFkcGxsTHNPeGp5UFpaUFl6SzdKbGc4RnR1b3pRUW1KazExUldwdHUwVFNqSk84N1BYYjRIa1ZkZE1nM1ZDSHVTWUNzVnBLMDIwRGQ4aDFteEtIeWxMNVpXcVA3WmNVYVR2TmN1ZVRTb1RpdG1Bc0M0b3JJT2stZURxa09KTF9DTHBYSXVVa0k1S3lzdWh6czNVWDNRcEw4T1lLRW91aDRkNE1nTGFn0gG3AUFVX3lxTE5DMnVWd0otelMwN1ljelZxVGtqOVVrTjVpSmhObmlRYjBNbWxjZ1hXcDVfTkFxUjI4YnBUaUhZVGUwcDAwYW1oMnN0bjZsakJFeG9yeDBHckNIQ2Q4MmNCeWh4eGcxX202Y0pJU21xNE0zTDZ1V2ZuNks3TWVQYjJ3MUdBbFF1TFFNWFY5bmV4cXJ3TnZqTEhybGZlYWtuS2s5d0pkWkpieTZkU3hKY0FwaHNsZDlMUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-07 11:24:59 UTC_
+_Last updated: 2026-09-07 17:07:37 UTC_
