@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught between “Indian line” and “Chinese line” - The Hindu
-  New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVNpQ2pBYlZfWEhfbEVMS1RUODNycDQ5YVJia0l6ZXZnNEV1OW5NTlVKQTFzaHZ6Qi03WlFDQk1GcWxORWVheDBnLUZpeDIzU3AwS3FvNW01U0VXbk9sLUJqdHhYZTkxNzZuc0R0THU3Yl9kb280Y25Pbmtja3ltZUQ4YWkwRzJZUU1NUHZPU3dzRGZnbTdlZEhLMVFhWkRDd0ZESWx5NWJWZ0x0ZWJFS3llcUhsZTJTNVlRT0dtOW5pdThNX2doaTJHRzV5SE10dWt6YndqcWhqcG1MOXpTQTlaeDIxVjhMZE9HbzQ1Uk81ZS0yc2RKSzZ0TWNtd9IBhAJBVV95cUxON2F4SmpoNUJjNXd5cjNsQWc5dlMwNUNYZkQ1N1ltd0RsZFR2bEF6S0RDQXZpNHcyVEVWa2RiN3VQOXBvc0s1cmRMNjUzM3NTOUFtd0I0QTBnSnVSVjhOUmhYWUJvdzBITVlSTW81ZWYyc2I2R3pPRzlEZlFQcEN4T1RCbDN0UC0zSHdPMXlWOTVzeHNWMV9lRjQ0VU1xY1lWbzBVd09GRTdPWUdHWlBybndBVEw3cmpiYjZoaG1xWFl2LTFyQWp4bTF0QUZ2SGxtamhkM0dRTzhfMkFkaDh2eU1DRlZ1TmlxYmdwa2RtLXNuU0FsRGhwNTI4X1NidkdQT3lYNQ?oc=5
-
 - 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
   'Win against India damaged us a lot': Mohammad Yousuf explains
   🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
 
-- Tennis: India’s Karan Singh clinches singles title at ITF Men’s World Tour - News On AIR
-  India’s Karan Singh clinches singles title at
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ZOZ2RVbE5ZUHpjVHRkdTcxTmxSYnRUVW5xN3Q5a095YWNTdS1zQmtfRkozTXdxSy0zbnV6Y3F4Z01NT2hBc1FkT25Lc1p2dFozNmswUTh6VHRheTRYR0l2OE9pdExET041LWlsX1pqbDdYTVp5Z2E0T0pDWFk5UU1WLXZ5c1RlTU9vYnhBYlM0VHhjTEFKNFBCTXZjQQ?oc=5
+- A day after India’s UN map remarks, Pakistan provokes again over Jammu and Kashmir | India News - Hindustan Times
+  A day after India’s UN map remarks, Pakistan provokes again over
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMmdIZXRoZ0hHSFJoMHQ0QzN5eWtxTEhrS1AxX0I5X1hWdDZTSDhkdGZXSGlvdUV1a2lrdlFZTWFJaTViLW1TclNoNm51dlVKNTBneGJURmJ2dmt1QWozVEJCZkJjbHM0VWkweTdGY282dU5Ra2ZsWXpUSHRpWHBIWEtUd1FoY3JkZkJrUnJXTWFGbkJQMWRnbWxHUEY1UW5IYU1XY3RkWnRaZW43WnFRMXZRTEFEWnJKdjdSVVVFa3gzeWJ6S0VtNGxzNGZmZ3l0Mmlac0pkM0U4VVd0dnpoX0J0UjJlQTRWc01lU1M3M1ZxX0lkeUHSAfsBQVVfeXFMTmhwMDZYSnlkSC1IMWlNYXZ2RzI5R2RON3ZHS0E0dnpoY0RyNUh2cnhzX1VFankyZHdyWDlBWUx6NFd2aDY1TGRTNlpzWW1iUDN4MllrcFRkNWhGZ1ZlMEk3MG9TQXBUUWhhVXpMbUE0WF8wM2tsOWVpTkV4dTMwWmRrLUt6WUtwYW93c1piUld3TTFJWWVlTlBiRzBjT3hONWFwSzdlREQ3XzZZUGVOcklDN1hlaGdXM3ZWbkxVeWhNYnhuRTdNSkoyUEZramZxTVZLZVdNZ2Y4dWVGZ1dseEdFaDMzUngwYThuYnpUeUYwTzZDbUV0TWs1cFE?oc=5
 
-- Collapsed Delhi Hostel's Rent Agreement Left Owner With Zero Responsibility - ndtv.com
-  Collapsed Delhi Hostel's Rent Agreement
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS2l0OFBYampONUk4SHpBZ0pCTU9wRHRkbjFTMHRaN09kRGZBMHdpZlJVcWoyWmtLeHJlRkQtVDAzd3BzZjBlOGIxeGg3bVBMeHg4Tmpkc1pyWDA1Um1MVmQyTUtpUDRyRGdZWFRldTlGYlM2MVp2RzRMV0RxSEVtbzN4c1FpNEUtR1MwUEM3aURfaE5SWlRQOEZvUFlzQjRUcm9zbTBQR2FvUWhTci1jc1F2R3BKMmxFVThMYzU0RVRPSTRuZXladWY2ay1xcXQ1Z05YRWowMXJnU0JNSlJuatIB6AFBVV95cUxNT0s1RkJUYWpXNlgwNnRjanhBZktncVZMbVVVSWp3UWVFR3F5S3k5Tld2RjRIM2tOYXRrQ0RyOWo5Qi1hZlNIU1h2M2d2ckg1c3ZpaFdwZzdmR3RJRzRVd3pMMGxBR1ltSzAtODJRRmZyT1hHNnJ5aEZpWFo3cVpiMlRVdjltSWpWUDlja2huWFZGOFAzaTBHZjd6RGZlZkhKU09PbXgxMWJITVZNMVJkTU1rWHBfV1dPN3A0NzF6V2NkRDd3SEFnMi0ySXBKUjdiT0R1c1M4alRXZDlxWFZ3ZGtpWU9pcDdU?oc=5
+- Manipur Singer Beaten To Death For Objecting To Drinking Outside Delhi Home - NDTV
+  Manipur Singer Beaten To Death For Object
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzVzYjJRbUpVUXhrRHFuNTB5MUZOcjR4bFpTa1RYYlI4TWQ2Y1lTREZTU0JLOWFSMjVWUXNkdV9iNkVuaV9XdG5GVERBenNYRGRPSFVxZ0ZVeTdlemQ0YjliRUplcU9GQ0k4QmE5MUJWdXFhenJicmR1QktZSzFjbk5ESUhUX1NXZ212WkpaZ2xpRXJ0NjRoTXl1YzdsMUxzRG1vRF9PV0VEdjQ3bVo3NGF6VXFxdzjSAb8BQVVfeXFMTkZUZUNuZURjbVdrTTVsUWp5X2ZSNVg2UXlsYjBpTGRlRk1mZU5naW53dTRudkpXMVpoMm9pUEtINEtHNHRRVTNhWE96RDk4ZkJwazVYSkwyVGx2aEZCdnRyOGxVUHVueXp2U3Z3SUNwSEJjMVRCRl82YXBVN1Yzc3RlY055cEVqcDcteWJvQll3cVplNWRfZnYtWEx2X2lsVERqQXljSWhIR2NHZGRGamdjTm5QNU83V1ZKakxZeUk?oc=5
 
-- India teams search for survivors after Delhi building collapse kills six - Al Jazeera
-  India teams search for survivors after Delhi building collapse kills
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOenRhRFFkcGxsTHNPeGp5UFpaUFl6SzdKbGc4RnR1b3pRUW1KazExUldwdHUwVFNqSk84N1BYYjRIa1ZkZE1nM1ZDSHVTWUNzVnBLMDIwRGQ4aDFteEtIeWxMNVpXcVA3WmNVYVR2TmN1ZVRTb1RpdG1Bc0M0b3JJT2stZURxa09KTF9DTHBYSXVVa0k1S3lzdWh6czNVWDNRcEw4T1lLRW91aDRkNE1nTGFn0gG3AUFVX3lxTE5DMnVWd0otelMwN1ljelZxVGtqOVVrTjVpSmhObmlRYjBNbWxjZ1hXcDVfTkFxUjI4YnBUaUhZVGUwcDAwYW1oMnN0bjZsakJFeG9yeDBHckNIQ2Q4MmNCeWh4eGcxX202Y0pJU21xNE0zTDZ1V2ZuNks3TWVQYjJ3MUdBbFF1TFFNWFY5bmV4cXJ3TnZqTEhybGZlYWtuS2s5d0pkWkpieTZkU3hKY0FwaHNsZDlMUQ?oc=5
+- Satya Niketan: Rescuers dig through debris as seven dead in building collapse in Delhi - BBC
+  Seven dead in building collapse in Delhi, India.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yeU9NTGotRVZ4RjZYSG5XOERwdXBGaHpJSmlRWC1GMGNNOVVQS2NmaTN0Z043RW5SdGdUaldPRDdlTWx5S2lwYllob1g5RWcydzJRb1RLRU15QQ?oc=5
 
-- OpenAI chief scientist warns no-one is prepared for consequences of AI - BBC
-  OpenAI chief scientist warns no-one is
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5
+- New UN map depicts Arunachal, Aksai Chin as territories caught between Indian, Chinese ‘unspecified’ claim lines - The Hindu
+  New UN map depicts Arunachal, Aksai Chin as territories
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVNpQ2pBYlZfWEhfbEVMS1RUODNycDQ5YVJia0l6ZXZnNEV1OW5NTlVKQTFzaHZ6Qi03WlFDQk1GcWxORWVheDBnLUZpeDIzU3AwS3FvNW01U0VXbk9sLUJqdHhYZTkxNzZuc0R0THU3Yl9kb280Y25Pbmtja3ltZUQ4YWkwRzJZUU1NUHZPU3dzRGZnbTdlZEhLMVFhWkRDd0ZESWx5NWJWZ0x0ZWJFS3llcUhsZTJTNVlRT0dtOW5pdThNX2doaTJHRzV5SE10dWt6YndqcWhqcG1MOXpTQTlaeDIxVjhMZE9HbzQ1Uk81ZS0yc2RKSzZ0TWNtd9IBhAJBVV95cUxON2F4SmpoNUJjNXd5cjNsQWc5dlMwNUNYZkQ1N1ltd0RsZFR2bEF6S0RDQXZpNHcyVEVWa2RiN3VQOXBvc0s1cmRMNjUzM3NTOUFtd0I0QTBnSnVSVjhOUmhYWUJvdzBITVlSTW81ZWYyc2I2R3pPRzlEZlFQcEN4T1RCbDN0UC0zSHdPMXlWOTVzeHNWMV9lRjQ0VU1xY1lWbzBVd09GRTdPWUdHWlBybndBVEw3cmpiYjZoaG1xWFl2LTFyQWp4bTF0QUZ2SGxtamhkM0dRTzhfMkFkaDh2eU1DRlZ1TmlxYmdwa2RtLXNuU0FsRGhwNTI4X1NidkdQT3lYNQ?oc=5
 
 - This Tiny E-Reader Is the Single Best Piece of Technology in Years - The Atlantic
   This Tiny E-Reader Is the Single Best Piece of
   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3ZwTGlHdU1MVGhEUnlLbDd6c3BJaHV3VDMxX2pFRVdMb0ZJS19xY2RaZ1o0cGVpWVA2S0JReXJZYWduTHVXYmFEaG81UXFGYlNHTHR3UzFpNkdrdTNRcHhBNm1JNnlvdTdBczdETG93eDJDR2JjTUN3WHNOQlk2UkhNd3FuT1JHOWJySWRCUzhnQW0xVlhR?oc=5
 
+- Scientists say AI may soon help humans to talk to animals and birds, but the risk is ... - The Times of India
+  Scientists say AI may soon help humans to talk to animals and birds, but the risk is ...
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMkNueTQzS1ZWOVhiNnNYY2NmSEtrakRGRnZiN1NJa1dzMkd3dDVucWpkLXRLMXRKSkxNU0QwTVNjcGs3SVVsdms2V1Bwd2RjVG5YelRXNnpQSE01RG9QdVBPNVp6UXZac1NaUW04MVhrdmxsX3VPTG93RFNRd3FsdnpQc1E1dkh2Sk9yY0lWckVIcnZkQmlNdzQtVDE2WUtvU1FudjJHM1Y3QWdtYW5nODc5YXI0REdBSnF5d2toVE4tTlVkbTNRdUhjdmVjbVAxbzROdFc2N3dxb3hxMHI4ek1feVRwT1ZwcHE0Qk9xVUJfVDR3NGZQQXZtd9IBgAJBVV95cUxPR0VkTmNOX2NHRHJLS2RjTWZscVdJeE1WMjZadWhSN2N3d2ExbG03N1A3MVdMdk4xWGJPTnlxb292NkxoMC0wd0Nab2tiRlFxc05nTlZsbDFfeWNOdkZjTm1PSldVand1c3lMMEdieDFoZnlMU05PRV9XdjFRTXdjQm5URndiRFRMSVJiWGVfTU1DNkYwOUtCXzNaZmwwWG1zWlh3RnhrMWJ2WHpMX193aU1xZEdCMUVMOWZaZnZkanlud25GQkd4RnMwNms1OUFZNGtjRFYyWGphdExtQUZhcFFldFRmeUVhMXU0a3RCVzVKTktzOVl5WnVYYk1iOEVU?oc=5
+
 - PeopleWorks Marks Four Decades in HR Technology, Reinforcing the Depth and Scale Behind Indias Hire-to-Retire HRMS Leadership - TheWire.in
   PeopleWorks Marks Four Decades in HR Technology, Reinforcing the Depth and
   🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxObFZqdlBDZ0JuYWp3LTBQcDEzbGg2ZHdhczdvMTY3Q2NBSlFkNDlib1hMY1FxMFFTeWFqLU4tU3h1dHFGVUZfLU5pc2FrZmQxQ2tYOXNaZGFidUxYRzJCVlg2Qlg1NllnS1ZDTloycEY2ekJic1BKQ1J4bjlZQVN6TUNQTlU1SDh3NXVlbmhUWDRaUEJGSzRmVzNubkJQc3RCaHl5aU8zTTZ1cVhpY251R2IySjdHR0I0czBGUTRfMFdnc1I1UlAyZllEa1BlX0pUd0xRbzlPSEp6cVFxdEJqUGlZTWN4QmFTS3pqNDQ3WXoxWVVoSFHSAfsBQVVfeXFMUEdFVVJPeWczbnh2VlJPNlV0NFZBY1JKNHB2UURfT0Y4aHN1c01pell6OXBZcm9YMkl5WkVoZ2VIRzh5ckRHbUZDM1FEYVRUSmY5Um9IQzNXYUhfeEdtQmxPR1l4eER2LUt3VUdlVVdaNFlYUl9Rb3UwTUpYNlZabkdHa1lwQ2tVM3czMEpNUTc0VzdpRHA5MzlkMEYtT09yZHR6dFlLaXZhazU1QVlJcUhlUm5iUnh4bklnTGdaVFFlZFRRMS1IZHROM252eExfdFhIb2VObnNsMTZsYzRYdGRmbWlPLXlKQWJmYlJpSnFLOHNpeWlOc0REejA?oc=5
 
-- Nagaland empowering youth with drone technology - The Times of India
-  Nagaland empowering youth with
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzBKXzFfYUVBSzZROG5rQWp1UE1NckNKbXoweldSdVktYlFOUjJGazhELWx3S09Zai04M1oxQW9ub0h3Mmg1Z2JsaUYyWktDbzVEUE5nTEN6eEJfTHFhcWNBbVpSQlczakJVWTRUVlhNWTNRbTlfbEVuZVBDeU0zVFlCR2tDNmNtZEJUbm9xWmRucnlUVll6NjhEZFVsMTJvSzZYek9OYjliZVcxRFp1NWROWXZscVMzbHNpdExNaTnSAcYBQVVfeXFMTUdLVllGVnM3cTF2ZzRCcXVZN0RPd0lyRy0zU2k0aWthckNwclNEUjJBNE52Z1pzdElNcnBwVktPQzdFOGREa3RGU1M2UUlJLU9xbTMtLU1LOVpoWDEyWDQyN0lnWWIxLWRuSmh4YXhJWWJqbUgyV0Y1bmdjRzFqMV9oNUVkODctcUVSYlU0Sk9DTXhfR183NkM3T25TbTg3cENCcllObDl2WUdZelpfVHVzMFdtZVl2RUVkMThIR0EtaktKVHhB?oc=5
-
 - India is where the future of technology is being imagined, developed and led: Samsung CEO - The New Indian Express
   India is where the future of technology is being imagined, developed and led: Samsung
   🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0dUemx4TG1xVS15RXVZMzNyTDY2cUdFSnE3XzRmZVRhcmxVaVRlVHBCY2NDcmJrSllXUHpONXhWTUxYbVZyNWJ2a0hiTkFyaEs5U3NmeTdYMFh4YXc5TWRXMUpCNDZoaWFGYnl2bXA1TzM2X1YwV28xOGZjUzlDV3c0VE5QSUVKOXF5em5ua0VoZ2VQZ0lhOEtlMXcwcUtNMUFzN2liN01ocWxrTmF2cmVxWFlzcWd2aER3SUhlc1RuZEM4X0FESGpKMHR1d0JSLU0tRFpuY0jSAeYBQVVfeXFMT0VRTE9PMlpNREtxTFZkMy11TXNLXzFqbXhZdGcwN0FONHh0ZXNlbGc3cEZnYjRoeXMtVE96cG9JQ3FMbmlDcW1ocS1qS2VFM2lqSDVIWmFVNmxnc1J1b3hOanhRZElGbVJoODR4cS1qdFhWbDd4RkpxU0xBMzR4SGVtaFBjeF92TkFtdEpTZmE3OTFpSDduSEtrUG53bWtHS1hGLVpsaVlacXNWX3lmWTJFMFo4bXB2RGpXVWdfc25xWDRLOUthNGlPb2p3QkhScnJUZGk4WEswMmVRbnAyeXBwMUJhZFE?oc=5
+
+- NIIST, RRII join hands to address technological challenges in rubber sector - ThePrint
+  NIIST, RRII join hands to address
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOQnNYN1F0cWhWNEtlSFNJR0g0S2JxSWY4Y2JFZEQzMVVTU09xLV80b0Y5Ym85SDFKU3hvRnpFMVBkdERnakRLdjNWdnVXTjhpVU8ybDRzOFRvNXZWOXJOVzVMLXZ0TURWT25CdjJaTHRzS19fUTM0bkFpYmp3OGlQemV1Y1JzU0lKOXVRNnlvZGVTZnJ2V0xrQ1FPUDJFRFdyVk9uQUtraFNhWW1qSWfSAbMBQVVfeXFMTkxUZmw4MHYyLW5tQjd4d0hCS1FWYkE5U1VhbkMteEN3Y040c1ViaDhjYVR4QWpHUlQ1a3VqTDRlMGtKZmxNWXd1dDdpbUozYlZuNjE3Z3dJNDJXdlhrbk9seDVwZWNpSnBxWGtFZ09feVQwM2x5eVcwR3BvNXEtZ2c3QnUteFl4TlQxMU1Ed1p5U01UZWFyaEJkSHU1ZVRaZjR5MFNxeHZmSnhzSFlNcnZ2MzQ?oc=5
+
+- Federal investigators probe Amazon cargo jets fiery runway crash that killed 5 in Miami
+  Federal investigators probe Amazon cargo jet's fiery runway
+  🔗 https://www.livemint.com/companies/federal-investigators-probe-amazon-cargo-jets-fiery-runway-crash-that-killed-5-in-miami-11788808625477.html
+
+- AI delays, memory crunch, new Huawei &amp; Xiaomi foldables: Headaches hanging over John Ternus’ first Apple event on Sept 9
+  John Ternus is set to succeed Tim Cook as Apple CEO. His first major test will be the September 9 launch of the iPhone 18 Pro.
+  🔗 https://www.livemint.com/companies/people/ai-delays-memory-crunch-new-huawei-xiaomi-foldables-headaches-hanging-over-john-ternus-first-apple-event-on-se-11788801382943.html
+
+- ‘Better than the best’: Chandrasekaran lays down Air India’s turnaround priorities as Tewolde takes charge
+  Air India’s Tewolde takes charge
+  🔗 https://www.livemint.com/companies/people/better-than-the-best-chandrasekaran-lays-down-air-india-s-turnaround-priorities-as-tewolde-takes-charge-11788798537290.html
 
 - Swiggy picks 3.2% stake in Udaan, sells B2B arm for  ₹500 crore
   Swiggy will swap its entire holding in Lynk Logistics for shares in Udaan’s parent and separately
@@ -48,17 +60,9 @@
   First female administrator in Panama Canal
   🔗 https://www.livemint.com/companies/first-female-administrator-in-the-panama-canals-history-takes-the-helm-11788786380138.html
 
-- Mint Explainer | The post-Tim Cook Apple: Can John Ternus fill the big shoes?
-  Apple’s new head will have
-  🔗 https://www.livemint.com/companies/news/tim-cook-apple-ternus-11788778945936.html
-
-- HRV Pharma bets  ₹150 crore on peptides, high-potency oncology APIs
-  HRV is changing its business model from using available manufacturing capacity to underwriting specialised capacity.
-  🔗 https://www.livemint.com/companies/news/hrv-pharma-bets-150-crore-on-peptides-high-potency-oncology-apis-11788774695787.html
-
-- Arnya, IPO-bound Casagrand form  ₹750 cr south India-focused residential platform
-  Arnya Real Estate Fund III-Preferred Capital, a Category II alternative investment fund
-  🔗 https://www.livemint.com/companies/news/arnya-casagrand-rs-750-crore-equity-platform-residential-projects-11788771613590.html
+- Pernod Ricard India IPO: Four banks appointed as advisors for proposed mega issue: Report
+  Pernod Ricard has engaged four investment banks for a potential IPO of its India unit. The IPO's size and structure remain undecided, with ongoing discussions regarding its strategic value.
+  🔗 https://www.livemint.com/market/stock-market-news/pernod-ricard-india-ipo-four-banks-appointed-as-advisors-for-proposed-mega-issue-report-11788802980330.html
 
 - Adani Power share price: Company makes ESG-related announcement; what investors need to know
   Adani Power reported an improved ESG score of 66 from N
@@ -68,17 +72,13 @@
   Avalon Technologies shares rose 7% to  ₹2,352 following Nomura's bullish outlook. The proposed joint venture with Zollner is expected to enhance growth
   🔗 https://www.livemint.com/market/over-160-rally-in-2026-this-ems-stock-ends-7-higher-key-triggers-explained-11788796557452.html
 
-- Top stocks in focus tomorrow: Investors must watch Adani Power, Swiggy, Shiprocket shares on Tuesday, 8 Sept | Triggers
+- Top stocks in focus today: Investors must watch Adani Power, Swiggy, Shiprocket shares on Tuesday, 8 Sept | Triggers
    Container Corporation of India, Swiggy, BCPL Railway Infrastructure, Adani Power, Rajputana Stainless,
   🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-adani-power-swiggy-shiprocket-shares-on-tuesday-8-sept-triggers-11788790989089.html
 
 - Jio Platforms said to target IPO in November, roadshows from next week
   Jio Platforms is targeting a November IPO in its discussions with banks. Details, including size,
   🔗 https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-details-listing-date-share-price-size-valuation-11788790657127.html
-
-- AI penny stock under  ₹10 hits 5% upper circuit as IndiaAI Mission boosts infrastructure demand
-  Empower India Limited's shares hit a 5% upper circuit as the company expands
-  🔗 https://www.livemint.com/market/stock-market-news/ai-penny-stock-under-rs-10-hits-5-upper-circuit-as-indiaai-mission-boosts-infrastructure-demand-11788788720965.html
 
 - AI may accelerate anti-competitive practices in digital markets: CCI chief
    AI may accelerate anti-
@@ -100,25 +100,29 @@
   The iPhone 17 Pro and Pro Max are now up to £150 cheaper, while the iPhone Air 512GB gets a £200 discount in the UK. The iPhone 18 is expected to be released on September 9
   🔗 https://www.livemint.com/technology/apple-hasnt-launched-the-iphone-18-yet-but-iphone-17-prices-are-already-falling-check-discounts-11788755989437.html
 
-- European stocks mixed and Asia-Pacific markets rise as investors assess renewed Middle East hostilities - CNBC
-  European stocks mixed and Asia-Pacific markets rise as investors assess
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9DZWtOQkk1ZVBEaXhYWDhfSkdkV2RsNm9RV3pCZWtkVXBrNzV0QzNrVTJ5Q05aeG02VUZmdm51UVV3TklMWXg2TGVFb3ctWXEtYndobEI0dnJzdE9PaHFxZ1RpaENoTGgzMGFFc1plZ0d2Q1ZLcFZv?oc=5
+- European stocks close mixed and Asia-Pacific markets rise as investors assess renewed Middle East hostilities - CNBC
+  European stocks close mixed and Asia-Pacific markets rise as investors assess
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9DZWtOQkk1ZVBEaXhYWDhfSkdkV2RsNm9RV3pCZWtkVXBrNzV0QzNrVTJ5Q05aeG02VUZmdm51UVV3TklMWXg2TGVFb3ctWXEtYndobEI0dnJzdE9PaHFxZ1RpaENoTGgzMGFFc1plZ0d2Q1ZLcFZv0gF8QVVfeXFMTmV2b1B1TWM5MUR6SlFJOGFHa2g5UFpreXpJZFlqeE9qbVlpSm1Oa3pFaGZ2U21Yd0lxVDlWNmRrSzBINXZ2emZIVHFvSnVLSzg5Y050dUxVUUhLcjVaTjJDdFIzSFhWaTViVThaVUtqVmxZMmFvZHB1UlVRcQ?oc=5
 
-- Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets - CNBC
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOcGtDcDVaREoxQzFxVG1INXhHRmVnV2x0XzF1bmNDS2plclpiY0FSR2FzWFhscEhvb2hEaFZ5N1hlTFBOLWlodTBpbExKRm55aFd5eDFwRjlUZVhNaFhiTGdGQkZiTHYxY2ktMVdKcUdBdzkzbkpvQkIyTEd4Y2c3aG5Pb9IBiAFBVV95cUxOQ0RZenZlQm1vblVaUXBtR3B6ektHZndOWWd5a1E5Q0p4VmdCTGt2NFBrb2pXWUxCQ01XZ2Q0aHJoZC1OMjk2Vzg5VTQ4aXJ4QTFCd3dvRFMzZW1ScXdzei1ERVNVaFY5aE9PMXdZYW1lMFREZjhwZUJILTVYTW1JcFhVa0h1anZv?oc=5
+- European Stocks Dip as Oil Rise Offsets Tech Gains: Markets Wrap - bloomberg.com
+  European Stocks Dip as Oil Rise Offsets
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOTG0yNmpRcVhUMEtpTlVEZFoxaE9DVS0yX0hRbTQyamFBQW9JejQyNnhfdEFGRGJhc1Y0dlhsTkt3M2NwN2JSaUN4dTFJUDRCZlNkWTVSdzI4QW1ZRDVhUUVYZzBFZnB0RDFmZFBZR0Vnb3BzcXJzMVYwSU53YUpqS0lDelBpd2JiempVcnNnXzVpVWE2?oc=5
 
-- European shares subdued as surging crude sharpens focus on ECB rate path - The Economic Times
-  European shares subdued as surging crude sharpens focus on ECB rate
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaG9oZk5FV1o5Tl9xRVloTlNLWVNWS2Rsdk02X0s0THhqQ3AzNjVadWZjUFNnZW5odFBScURsNGt5ZHJvRlp2bkkxUW1RRnZLbmtTRWJZVlJSSU1xZDd5OERBM05GS0hiLXY5N3ItZVg2c2t4VVU0N0RxOEwwckpIdm9qY09uWDdzZW8wNTl3N25RMklfZDUxS3JlWjEwQ0VkUjlWNndpTUpBS0JUczlqSzBDUDAzbVk0VThJZXRZdzg4UzR4LUhDTEFxTDVkZWgyeGN2WHVDOG5SdUIwTGtSR2t6eld0NEtyaVBxX29qSdIB6AFBVV95cUxPRThieHpnMDA0ZmpsNlNrQUh3MVVNYzFPZWFNS3VRd1hleEx2bFJoNnl4Ylp0N3Q4WnVDZThkT292VkEzLXZNU18tVUNod0hiYmUzUkZSSWViOS1kN3VqdXVQcUtseFdBZm9pbjBEMFFnOHZxMzU0UTdLaXBxYVVrWC1NaG4ydWd2Wnh1cXRNNW5MRENxUWRleFdGNmFvV2EwckhSOGVOOUE5QXl3N2hlS2EtRWlJQkpSenhpeG5tRWpFWkpZM2liUFM3NHQwR3N1eHRKaXhQbVlGdDZzWEVBRU80bUJzR1JG?oc=5
-
-- What are bond markets up to? - The Economist
-  The Economist asks: What
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0ZVX2FqZ0RkSDhHOHpnNFZHbUdwb2Y2Ul9UeU1MMzFjcGJZbVZnY1NsWk5RdjM5VTc2T1lCcld2RlJySzY5QV8zc0J0UkhXcWxWV2QxSVVxWDhNcVBUZ3Ztak11ZEZhWmhhREJGVHRvb2tNaXdkTm5ZQm0zSENfMExZLVgyYVlmb3hFU1JFblRGOFFLMTNB?oc=5
+- Americans Without College Degrees Are Having One of the Best Job Markets in Years - WSJ
+  Americans Without College Degrees Are Having One of the Best Job
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0t5YnhYWGlnbXBXY3htcU9xX2RZWU9TRVVlYzZzOHRVYlh3WVhETXJGLVg3a2lFajVweHZJMVhIQ1pCbkpuTmY1bDZqUnppYmNoQVYwRFE2VVZtWTlQUWV3MEh4LUtoVEtlVHNYSDctdjA0OE5zT0RZUXRsbk82enBvUFNlWkgzU2dXeTBhTVlJRFpkb2ppdjZjMTE2Ui1KVWtnb2daZ1NPbzl4TmFPT3BVaGtvV1NONXJHeWZhWlRWRC1uSmdN?oc=5
 
 - Markets decline amid West Asia conflict, concerns over possible U.S. interest-rate hike - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQalQyc1Q4SUpQdk40eGRTZzh6b2tFNGo1SVVvZXdWRnM5eEwySXoxNm43RDhVX2g5cGhFYlZiTGMtQzlCVi1VTVVKZ0lTYUFxT2VlVk54YmJjdUlkbUpwVFdGUnpuNWtfV1
+  Markets decline amid West Asia conflict, concerns over possible
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQalQyc1Q4SUpQdk40eGRTZzh6b2tFNGo1SVVvZXdWRnM5eEwySXoxNm43RDhVX2g5cGhFYlZiTGMtQzlCVi1VTVVKZ0lTYUFxT2VlVk54YmJjdUlkbUpwVFdGUnpuNWtfV1ZONTFZQ2VwZnNkZGxrTTB3Skh0SFNDWmszdUxob0lDLVItM0JFeVVVMXFDSEwzeHozQlZUTDVLaTBUUHBCZzdfdnFwcUtPWnNaRVA0NGFGbVhrbHNNblJQSWpuT2xFZXh1MFFncWNJTkY5LUJSY0F4LVpsX3dB0gHmAUFVX3lxTFB2cTNwZEJJYlZkcUc4YnRodTRUN0thRUtkVXVFdnlDXzdUQzI1dUppdlE5MS1sZ2Y4WDZ0Q1lhZG91OFhqcllZWnM0Z1FXNXpJSVNVbE9haU5PUzctZ3IzYldqQkZRSGlBTFVYRi1QLUxZSTV2XzVtQzlnNTBtRGsxdmFvRHJWTWk1Z0ppY0xxNHBRWTZaa2NLMGRnSktwY1QtWFloYTQxUW5qVmpnLTNJdm9CYXdVdXFqaHRPdndxNXJqdjVQYl9VOVN0TTB1V2Q5ZWFVVEN5cTJQMmZObVpnTzZRWml3?oc=5
+
+- Sensex settles 400 pts lower, Nifty ends below 23,800: US-Iran tensions among key factors behind market... - Moneycontrol.com
+  Sensex settles 400 pts lower, Nifty ends below 23,800
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZmQ0QzNleF9ZS2ZockFNVEYwT1E0UFB5b0xvMDZWdVhvS2Z5ZXo5N2x0UEo3eWpBUkxIRmxzTTV2SHVjZWhPa0FpalcwWGNfZlo3M1ZlMFRLWlZ2ejVPb2JUd0x0WDhGdGV0RzQ5WURHMU5WSEwweFBkLTdQV3N1WjdzTGl6WGo0TG5RdFU0ZmhYRmNLMk40ZXJUMHc1UmVNNVhTWExLZllIUUhmTFV0czhBWUU3ZDRPM0gzUG1oSTh5b2ZCT0Rzd0ZjdWxtbHBhTTh5Zm0wMF9TZHNzR3ZEM1JqLWlnNTk5ZmhIYmhMZGnSAfYBQVVfeXFMUGpDT1JYZlFSaVNfOTFoQnlqMnZfanFHaG5zdzgtV3gwX2V0UlpyMjdFMlZLaEhBMjYyRWcxODMzMU5BNVU0UHNmSy1UbmZxb2ItUm52Vm4yckNsajJTcVdhZGlBUk9CWnNtNjV0NTFfc0xqcXhNWUlBU05qMzlYVnJzdW4wQWVmYzNxblBzSHJUcl8xVmpPclVqRjJySzlFekZmU1o1TnVSdzFaQnIyS3BaQkNUUVhoTERFaDZzVWJiUmxDNHJuTllIcWJkbm1MdVJxX3FGdTNMR2s5MkRxWlJRcTg4UGlPN1hnUXl5MkVkMFVxVHZB?oc=5
+
+- RBI easing drives Indian companies’ $7.70 billion overseas borrowing
+  Indian companies filed proposals worth $7.70 billion for external commercial borrowings in July. This marked a significant 27% growth over the previous month's figures.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-easing-drives-indian-companies-7-70-billion-overseas-borrowing/articleshow/133890574.cms
 
 - Prasol Chemicals mobilises Rs 150 cr from anchor investors ahead of IPO
   The speciality chemicals maker allocated shares at Rs 676 each to investors including Tata Mutual Fund, Kotak Mahindra Mutual Fund and Aditya Birla Sun Life Insurance.
@@ -136,29 +140,25 @@
   LME copper touched $14,533 a metric ton, surpassing its January peak. Falling Shanghai stocks and strong US inventories highlighted the growing divergence in global copper supplies.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-price-touches-record-high-focus-on-tight-supplies-outside-us/articleshow/133889161.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Sensex and Nifty extended their four-week losing streak as rising oil prices and US-Iran tensions weighed on sentiment. Analysts flagged downside risks from supply disruptions and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133888719.cms
-
-- New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught between “Indian line” and “Chinese line” - The Hindu
-  New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVNpQ2pBYlZfWEhfbEVMS1RUODNycDQ5YVJia0l6ZXZnNEV1OW5NTlVKQTFzaHZ6Qi03WlFDQk1GcWxORWVheDBnLUZpeDIzU3AwS3FvNW01U0VXbk9sLUJqdHhYZTkxNzZuc0R0THU3Yl9kb280Y25Pbmtja3ltZUQ4YWkwRzJZUU1NUHZPU3dzRGZnbTdlZEhLMVFhWkRDd0ZESWx5NWJWZ0x0ZWJFS3llcUhsZTJTNVlRT0dtOW5pdThNX2doaTJHRzV5SE10dWt6YndqcWhqcG1MOXpTQTlaeDIxVjhMZE9HbzQ1Uk81ZS0yc2RKSzZ0TWNtd9IBhAJBVV95cUxON2F4SmpoNUJjNXd5cjNsQWc5dlMwNUNYZkQ1N1ltd0RsZFR2bEF6S0RDQXZpNHcyVEVWa2RiN3VQOXBvc0s1cmRMNjUzM3NTOUFtd0I0QTBnSnVSVjhOUmhYWUJvdzBITVlSTW81ZWYyc2I2R3pPRzlEZlFQcEN4T1RCbDN0UC0zSHdPMXlWOTVzeHNWMV9lRjQ0VU1xY1lWbzBVd09GRTdPWUdHWlBybndBVEw3cmpiYjZoaG1xWFl2LTFyQWp4bTF0QUZ2SGxtamhkM0dRTzhfMkFkaDh2eU1DRlZ1TmlxYmdwa2RtLXNuU0FsRGhwNTI4X1NidkdQT3lYNQ?oc=5
-
 - 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
   'Win against India damaged us a lot': Mohammad Yousuf explains
   🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
 
-- Tennis: India’s Karan Singh clinches singles title at ITF Men’s World Tour - News On AIR
-  India’s Karan Singh clinches singles title at
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ZOZ2RVbE5ZUHpjVHRkdTcxTmxSYnRUVW5xN3Q5a095YWNTdS1zQmtfRkozTXdxSy0zbnV6Y3F4Z01NT2hBc1FkT25Lc1p2dFozNmswUTh6VHRheTRYR0l2OE9pdExET041LWlsX1pqbDdYTVp5Z2E0T0pDWFk5UU1WLXZ5c1RlTU9vYnhBYlM0VHhjTEFKNFBCTXZjQQ?oc=5
+- A day after India’s UN map remarks, Pakistan provokes again over Jammu and Kashmir | India News - Hindustan Times
+  A day after India’s UN map remarks, Pakistan provokes again over
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMmdIZXRoZ0hHSFJoMHQ0QzN5eWtxTEhrS1AxX0I5X1hWdDZTSDhkdGZXSGlvdUV1a2lrdlFZTWFJaTViLW1TclNoNm51dlVKNTBneGJURmJ2dmt1QWozVEJCZkJjbHM0VWkweTdGY282dU5Ra2ZsWXpUSHRpWHBIWEtUd1FoY3JkZkJrUnJXTWFGbkJQMWRnbWxHUEY1UW5IYU1XY3RkWnRaZW43WnFRMXZRTEFEWnJKdjdSVVVFa3gzeWJ6S0VtNGxzNGZmZ3l0Mmlac0pkM0U4VVd0dnpoX0J0UjJlQTRWc01lU1M3M1ZxX0lkeUHSAfsBQVVfeXFMTmhwMDZYSnlkSC1IMWlNYXZ2RzI5R2RON3ZHS0E0dnpoY0RyNUh2cnhzX1VFankyZHdyWDlBWUx6NFd2aDY1TGRTNlpzWW1iUDN4MllrcFRkNWhGZ1ZlMEk3MG9TQXBUUWhhVXpMbUE0WF8wM2tsOWVpTkV4dTMwWmRrLUt6WUtwYW93c1piUld3TTFJWWVlTlBiRzBjT3hONWFwSzdlREQ3XzZZUGVOcklDN1hlaGdXM3ZWbkxVeWhNYnhuRTdNSkoyUEZramZxTVZLZVdNZ2Y4dWVGZ1dseEdFaDMzUngwYThuYnpUeUYwTzZDbUV0TWs1cFE?oc=5
 
-- Collapsed Delhi Hostel's Rent Agreement Left Owner With Zero Responsibility - ndtv.com
-  Collapsed Delhi Hostel's Rent Agreement
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS2l0OFBYampONUk4SHpBZ0pCTU9wRHRkbjFTMHRaN09kRGZBMHdpZlJVcWoyWmtLeHJlRkQtVDAzd3BzZjBlOGIxeGg3bVBMeHg4Tmpkc1pyWDA1Um1MVmQyTUtpUDRyRGdZWFRldTlGYlM2MVp2RzRMV0RxSEVtbzN4c1FpNEUtR1MwUEM3aURfaE5SWlRQOEZvUFlzQjRUcm9zbTBQR2FvUWhTci1jc1F2R3BKMmxFVThMYzU0RVRPSTRuZXladWY2ay1xcXQ1Z05YRWowMXJnU0JNSlJuatIB6AFBVV95cUxNT0s1RkJUYWpXNlgwNnRjanhBZktncVZMbVVVSWp3UWVFR3F5S3k5Tld2RjRIM2tOYXRrQ0RyOWo5Qi1hZlNIU1h2M2d2ckg1c3ZpaFdwZzdmR3RJRzRVd3pMMGxBR1ltSzAtODJRRmZyT1hHNnJ5aEZpWFo3cVpiMlRVdjltSWpWUDlja2huWFZGOFAzaTBHZjd6RGZlZkhKU09PbXgxMWJITVZNMVJkTU1rWHBfV1dPN3A0NzF6V2NkRDd3SEFnMi0ySXBKUjdiT0R1c1M4alRXZDlxWFZ3ZGtpWU9pcDdU?oc=5
+- Manipur Singer Beaten To Death For Objecting To Drinking Outside Delhi Home - NDTV
+  Manipur Singer Beaten To Death For Object
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzVzYjJRbUpVUXhrRHFuNTB5MUZOcjR4bFpTa1RYYlI4TWQ2Y1lTREZTU0JLOWFSMjVWUXNkdV9iNkVuaV9XdG5GVERBenNYRGRPSFVxZ0ZVeTdlemQ0YjliRUplcU9GQ0k4QmE5MUJWdXFhenJicmR1QktZSzFjbk5ESUhUX1NXZ212WkpaZ2xpRXJ0NjRoTXl1YzdsMUxzRG1vRF9PV0VEdjQ3bVo3NGF6VXFxdzjSAb8BQVVfeXFMTkZUZUNuZURjbVdrTTVsUWp5X2ZSNVg2UXlsYjBpTGRlRk1mZU5naW53dTRudkpXMVpoMm9pUEtINEtHNHRRVTNhWE96RDk4ZkJwazVYSkwyVGx2aEZCdnRyOGxVUHVueXp2U3Z3SUNwSEJjMVRCRl82YXBVN1Yzc3RlY055cEVqcDcteWJvQll3cVplNWRfZnYtWEx2X2lsVERqQXljSWhIR2NHZGRGamdjTm5QNU83V1ZKakxZeUk?oc=5
 
-- India teams search for survivors after Delhi building collapse kills six - Al Jazeera
-  India teams search for survivors after Delhi building collapse kills
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOenRhRFFkcGxsTHNPeGp5UFpaUFl6SzdKbGc4RnR1b3pRUW1KazExUldwdHUwVFNqSk84N1BYYjRIa1ZkZE1nM1ZDSHVTWUNzVnBLMDIwRGQ4aDFteEtIeWxMNVpXcVA3WmNVYVR2TmN1ZVRTb1RpdG1Bc0M0b3JJT2stZURxa09KTF9DTHBYSXVVa0k1S3lzdWh6czNVWDNRcEw4T1lLRW91aDRkNE1nTGFn0gG3AUFVX3lxTE5DMnVWd0otelMwN1ljelZxVGtqOVVrTjVpSmhObmlRYjBNbWxjZ1hXcDVfTkFxUjI4YnBUaUhZVGUwcDAwYW1oMnN0bjZsakJFeG9yeDBHckNIQ2Q4MmNCeWh4eGcxX202Y0pJU21xNE0zTDZ1V2ZuNks3TWVQYjJ3MUdBbFF1TFFNWFY5bmV4cXJ3TnZqTEhybGZlYWtuS2s5d0pkWkpieTZkU3hKY0FwaHNsZDlMUQ?oc=5
+- Satya Niketan: Rescuers dig through debris as seven dead in building collapse in Delhi - BBC
+  Seven dead in building collapse in Delhi, India.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yeU9NTGotRVZ4RjZYSG5XOERwdXBGaHpJSmlRWC1GMGNNOVVQS2NmaTN0Z043RW5SdGdUaldPRDdlTWx5S2lwYllob1g5RWcydzJRb1RLRU15QQ?oc=5
+
+- New UN map depicts Arunachal, Aksai Chin as territories caught between Indian, Chinese ‘unspecified’ claim lines - The Hindu
+  New UN map depicts Arunachal, Aksai Chin as territories
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVNpQ2pBYlZfWEhfbEVMS1RUODNycDQ5YVJia0l6ZXZnNEV1OW5NTlVKQTFzaHZ6Qi03WlFDQk1GcWxORWVheDBnLUZpeDIzU3AwS3FvNW01U0VXbk9sLUJqdHhYZTkxNzZuc0R0THU3Yl9kb280Y25Pbmtja3ltZUQ4YWkwRzJZUU1NUHZPU3dzRGZnbTdlZEhLMVFhWkRDd0ZESWx5NWJWZ0x0ZWJFS3llcUhsZTJTNVlRT0dtOW5pdThNX2doaTJHRzV5SE10dWt6YndqcWhqcG1MOXpTQTlaeDIxVjhMZE9HbzQ1Uk81ZS0yc2RKSzZ0TWNtd9IBhAJBVV95cUxON2F4SmpoNUJjNXd5cjNsQWc5dlMwNUNYZkQ1N1ltd0RsZFR2bEF6S0RDQXZpNHcyVEVWa2RiN3VQOXBvc0s1cmRMNjUzM3NTOUFtd0I0QTBnSnVSVjhOUmhYWUJvdzBITVlSTW81ZWYyc2I2R3pPRzlEZlFQcEN4T1RCbDN0UC0zSHdPMXlWOTVzeHNWMV9lRjQ0VU1xY1lWbzBVd09GRTdPWUdHWlBybndBVEw3cmpiYjZoaG1xWFl2LTFyQWp4bTF0QUZ2SGxtamhkM0dRTzhfMkFkaDh2eU1DRlZ1TmlxYmdwa2RtLXNuU0FsRGhwNTI4X1NidkdQT3lYNQ?oc=5
 
 - AI Adoption Could Create New Competition Risks In Digital Markets: CCI Chief
   CCI chairperson Ravneet Kaur has reportedly warned that AI could amplify anti-competitive practices in digital markets.
@@ -180,45 +180,45 @@
   Swiggy has entered a share acquisition agreement with B2B ecommerce unicorn Udaan to acquire Swiggy-owned retail chain Lynk.
   🔗 https://inc42.com/buzz/swiggy-to-sell-lynk-to-udaan-for-%e2%82%b9500-cr-pick-up-3-2-stake-in-b2b-unicorn/
 
-- New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught between “Indian line” and “Chinese line” - The Hindu
-  New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught
+- 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
+  'Win against India damaged us a lot': Mohammad Yousuf explains
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
+
+- A day after India’s UN map remarks, Pakistan provokes again over Jammu and Kashmir | India News - Hindustan Times
+  A day after India’s UN map remarks, Pakistan provokes again over
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMmdIZXRoZ0hHSFJoMHQ0QzN5eWtxTEhrS1AxX0I5X1hWdDZTSDhkdGZXSGlvdUV1a2lrdlFZTWFJaTViLW1TclNoNm51dlVKNTBneGJURmJ2dmt1QWozVEJCZkJjbHM0VWkweTdGY282dU5Ra2ZsWXpUSHRpWHBIWEtUd1FoY3JkZkJrUnJXTWFGbkJQMWRnbWxHUEY1UW5IYU1XY3RkWnRaZW43WnFRMXZRTEFEWnJKdjdSVVVFa3gzeWJ6S0VtNGxzNGZmZ3l0Mmlac0pkM0U4VVd0dnpoX0J0UjJlQTRWc01lU1M3M1ZxX0lkeUHSAfsBQVVfeXFMTmhwMDZYSnlkSC1IMWlNYXZ2RzI5R2RON3ZHS0E0dnpoY0RyNUh2cnhzX1VFankyZHdyWDlBWUx6NFd2aDY1TGRTNlpzWW1iUDN4MllrcFRkNWhGZ1ZlMEk3MG9TQXBUUWhhVXpMbUE0WF8wM2tsOWVpTkV4dTMwWmRrLUt6WUtwYW93c1piUld3TTFJWWVlTlBiRzBjT3hONWFwSzdlREQ3XzZZUGVOcklDN1hlaGdXM3ZWbkxVeWhNYnhuRTdNSkoyUEZramZxTVZLZVdNZ2Y4dWVGZ1dseEdFaDMzUngwYThuYnpUeUYwTzZDbUV0TWs1cFE?oc=5
+
+- Manipur Singer Beaten To Death For Objecting To Drinking Outside Delhi Home - NDTV
+  Manipur Singer Beaten To Death For Object
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzVzYjJRbUpVUXhrRHFuNTB5MUZOcjR4bFpTa1RYYlI4TWQ2Y1lTREZTU0JLOWFSMjVWUXNkdV9iNkVuaV9XdG5GVERBenNYRGRPSFVxZ0ZVeTdlemQ0YjliRUplcU9GQ0k4QmE5MUJWdXFhenJicmR1QktZSzFjbk5ESUhUX1NXZ212WkpaZ2xpRXJ0NjRoTXl1YzdsMUxzRG1vRF9PV0VEdjQ3bVo3NGF6VXFxdzjSAb8BQVVfeXFMTkZUZUNuZURjbVdrTTVsUWp5X2ZSNVg2UXlsYjBpTGRlRk1mZU5naW53dTRudkpXMVpoMm9pUEtINEtHNHRRVTNhWE96RDk4ZkJwazVYSkwyVGx2aEZCdnRyOGxVUHVueXp2U3Z3SUNwSEJjMVRCRl82YXBVN1Yzc3RlY055cEVqcDcteWJvQll3cVplNWRfZnYtWEx2X2lsVERqQXljSWhIR2NHZGRGamdjTm5QNU83V1ZKakxZeUk?oc=5
+
+- Satya Niketan: Rescuers dig through debris as seven dead in building collapse in Delhi - BBC
+  Seven dead in building collapse in Delhi, India.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yeU9NTGotRVZ4RjZYSG5XOERwdXBGaHpJSmlRWC1GMGNNOVVQS2NmaTN0Z043RW5SdGdUaldPRDdlTWx5S2lwYllob1g5RWcydzJRb1RLRU15QQ?oc=5
+
+- New UN map depicts Arunachal, Aksai Chin as territories caught between Indian, Chinese ‘unspecified’ claim lines - The Hindu
+  New UN map depicts Arunachal, Aksai Chin as territories
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVNpQ2pBYlZfWEhfbEVMS1RUODNycDQ5YVJia0l6ZXZnNEV1OW5NTlVKQTFzaHZ6Qi03WlFDQk1GcWxORWVheDBnLUZpeDIzU3AwS3FvNW01U0VXbk9sLUJqdHhYZTkxNzZuc0R0THU3Yl9kb280Y25Pbmtja3ltZUQ4YWkwRzJZUU1NUHZPU3dzRGZnbTdlZEhLMVFhWkRDd0ZESWx5NWJWZ0x0ZWJFS3llcUhsZTJTNVlRT0dtOW5pdThNX2doaTJHRzV5SE10dWt6YndqcWhqcG1MOXpTQTlaeDIxVjhMZE9HbzQ1Uk81ZS0yc2RKSzZ0TWNtd9IBhAJBVV95cUxON2F4SmpoNUJjNXd5cjNsQWc5dlMwNUNYZkQ1N1ltd0RsZFR2bEF6S0RDQXZpNHcyVEVWa2RiN3VQOXBvc0s1cmRMNjUzM3NTOUFtd0I0QTBnSnVSVjhOUmhYWUJvdzBITVlSTW81ZWYyc2I2R3pPRzlEZlFQcEN4T1RCbDN0UC0zSHdPMXlWOTVzeHNWMV9lRjQ0VU1xY1lWbzBVd09GRTdPWUdHWlBybndBVEw3cmpiYjZoaG1xWFl2LTFyQWp4bTF0QUZ2SGxtamhkM0dRTzhfMkFkaDh2eU1DRlZ1TmlxYmdwa2RtLXNuU0FsRGhwNTI4X1NidkdQT3lYNQ?oc=5
 
 - 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
   'Win against India damaged us a lot': Mohammad Yousuf explains
   🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
 
-- Tennis: India’s Karan Singh clinches singles title at ITF Men’s World Tour - News On AIR
-  India’s Karan Singh clinches singles title at
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ZOZ2RVbE5ZUHpjVHRkdTcxTmxSYnRUVW5xN3Q5a095YWNTdS1zQmtfRkozTXdxSy0zbnV6Y3F4Z01NT2hBc1FkT25Lc1p2dFozNmswUTh6VHRheTRYR0l2OE9pdExET041LWlsX1pqbDdYTVp5Z2E0T0pDWFk5UU1WLXZ5c1RlTU9vYnhBYlM0VHhjTEFKNFBCTXZjQQ?oc=5
+- A day after India’s UN map remarks, Pakistan provokes again over Jammu and Kashmir | India News - Hindustan Times
+  A day after India’s UN map remarks, Pakistan provokes again over
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMmdIZXRoZ0hHSFJoMHQ0QzN5eWtxTEhrS1AxX0I5X1hWdDZTSDhkdGZXSGlvdUV1a2lrdlFZTWFJaTViLW1TclNoNm51dlVKNTBneGJURmJ2dmt1QWozVEJCZkJjbHM0VWkweTdGY282dU5Ra2ZsWXpUSHRpWHBIWEtUd1FoY3JkZkJrUnJXTWFGbkJQMWRnbWxHUEY1UW5IYU1XY3RkWnRaZW43WnFRMXZRTEFEWnJKdjdSVVVFa3gzeWJ6S0VtNGxzNGZmZ3l0Mmlac0pkM0U4VVd0dnpoX0J0UjJlQTRWc01lU1M3M1ZxX0lkeUHSAfsBQVVfeXFMTmhwMDZYSnlkSC1IMWlNYXZ2RzI5R2RON3ZHS0E0dnpoY0RyNUh2cnhzX1VFankyZHdyWDlBWUx6NFd2aDY1TGRTNlpzWW1iUDN4MllrcFRkNWhGZ1ZlMEk3MG9TQXBUUWhhVXpMbUE0WF8wM2tsOWVpTkV4dTMwWmRrLUt6WUtwYW93c1piUld3TTFJWWVlTlBiRzBjT3hONWFwSzdlREQ3XzZZUGVOcklDN1hlaGdXM3ZWbkxVeWhNYnhuRTdNSkoyUEZramZxTVZLZVdNZ2Y4dWVGZ1dseEdFaDMzUngwYThuYnpUeUYwTzZDbUV0TWs1cFE?oc=5
 
-- Collapsed Delhi Hostel's Rent Agreement Left Owner With Zero Responsibility - ndtv.com
-  Collapsed Delhi Hostel's Rent Agreement
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS2l0OFBYampONUk4SHpBZ0pCTU9wRHRkbjFTMHRaN09kRGZBMHdpZlJVcWoyWmtLeHJlRkQtVDAzd3BzZjBlOGIxeGg3bVBMeHg4Tmpkc1pyWDA1Um1MVmQyTUtpUDRyRGdZWFRldTlGYlM2MVp2RzRMV0RxSEVtbzN4c1FpNEUtR1MwUEM3aURfaE5SWlRQOEZvUFlzQjRUcm9zbTBQR2FvUWhTci1jc1F2R3BKMmxFVThMYzU0RVRPSTRuZXladWY2ay1xcXQ1Z05YRWowMXJnU0JNSlJuatIB6AFBVV95cUxNT0s1RkJUYWpXNlgwNnRjanhBZktncVZMbVVVSWp3UWVFR3F5S3k5Tld2RjRIM2tOYXRrQ0RyOWo5Qi1hZlNIU1h2M2d2ckg1c3ZpaFdwZzdmR3RJRzRVd3pMMGxBR1ltSzAtODJRRmZyT1hHNnJ5aEZpWFo3cVpiMlRVdjltSWpWUDlja2huWFZGOFAzaTBHZjd6RGZlZkhKU09PbXgxMWJITVZNMVJkTU1rWHBfV1dPN3A0NzF6V2NkRDd3SEFnMi0ySXBKUjdiT0R1c1M4alRXZDlxWFZ3ZGtpWU9pcDdU?oc=5
+- Manipur Singer Beaten To Death For Objecting To Drinking Outside Delhi Home - NDTV
+  Manipur Singer Beaten To Death For Object
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzVzYjJRbUpVUXhrRHFuNTB5MUZOcjR4bFpTa1RYYlI4TWQ2Y1lTREZTU0JLOWFSMjVWUXNkdV9iNkVuaV9XdG5GVERBenNYRGRPSFVxZ0ZVeTdlemQ0YjliRUplcU9GQ0k4QmE5MUJWdXFhenJicmR1QktZSzFjbk5ESUhUX1NXZ212WkpaZ2xpRXJ0NjRoTXl1YzdsMUxzRG1vRF9PV0VEdjQ3bVo3NGF6VXFxdzjSAb8BQVVfeXFMTkZUZUNuZURjbVdrTTVsUWp5X2ZSNVg2UXlsYjBpTGRlRk1mZU5naW53dTRudkpXMVpoMm9pUEtINEtHNHRRVTNhWE96RDk4ZkJwazVYSkwyVGx2aEZCdnRyOGxVUHVueXp2U3Z3SUNwSEJjMVRCRl82YXBVN1Yzc3RlY055cEVqcDcteWJvQll3cVplNWRfZnYtWEx2X2lsVERqQXljSWhIR2NHZGRGamdjTm5QNU83V1ZKakxZeUk?oc=5
 
-- India teams search for survivors after Delhi building collapse kills six - Al Jazeera
-  India teams search for survivors after Delhi building collapse kills
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOenRhRFFkcGxsTHNPeGp5UFpaUFl6SzdKbGc4RnR1b3pRUW1KazExUldwdHUwVFNqSk84N1BYYjRIa1ZkZE1nM1ZDSHVTWUNzVnBLMDIwRGQ4aDFteEtIeWxMNVpXcVA3WmNVYVR2TmN1ZVRTb1RpdG1Bc0M0b3JJT2stZURxa09KTF9DTHBYSXVVa0k1S3lzdWh6czNVWDNRcEw4T1lLRW91aDRkNE1nTGFn0gG3AUFVX3lxTE5DMnVWd0otelMwN1ljelZxVGtqOVVrTjVpSmhObmlRYjBNbWxjZ1hXcDVfTkFxUjI4YnBUaUhZVGUwcDAwYW1oMnN0bjZsakJFeG9yeDBHckNIQ2Q4MmNCeWh4eGcxX202Y0pJU21xNE0zTDZ1V2ZuNks3TWVQYjJ3MUdBbFF1TFFNWFY5bmV4cXJ3TnZqTEhybGZlYWtuS2s5d0pkWkpieTZkU3hKY0FwaHNsZDlMUQ?oc=5
+- Satya Niketan: Rescuers dig through debris as seven dead in building collapse in Delhi - BBC
+  Seven dead in building collapse in Delhi, India.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yeU9NTGotRVZ4RjZYSG5XOERwdXBGaHpJSmlRWC1GMGNNOVVQS2NmaTN0Z043RW5SdGdUaldPRDdlTWx5S2lwYllob1g5RWcydzJRb1RLRU15QQ?oc=5
 
-- New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught between “Indian line” and “Chinese line” - The Hindu
-  New UN map depicts Arunachal Pradesh and Aksai Chin as territories caught
+- New UN map depicts Arunachal, Aksai Chin as territories caught between Indian, Chinese ‘unspecified’ claim lines - The Hindu
+  New UN map depicts Arunachal, Aksai Chin as territories
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcVNpQ2pBYlZfWEhfbEVMS1RUODNycDQ5YVJia0l6ZXZnNEV1OW5NTlVKQTFzaHZ6Qi03WlFDQk1GcWxORWVheDBnLUZpeDIzU3AwS3FvNW01U0VXbk9sLUJqdHhYZTkxNzZuc0R0THU3Yl9kb280Y25Pbmtja3ltZUQ4YWkwRzJZUU1NUHZPU3dzRGZnbTdlZEhLMVFhWkRDd0ZESWx5NWJWZ0x0ZWJFS3llcUhsZTJTNVlRT0dtOW5pdThNX2doaTJHRzV5SE10dWt6YndqcWhqcG1MOXpTQTlaeDIxVjhMZE9HbzQ1Uk81ZS0yc2RKSzZ0TWNtd9IBhAJBVV95cUxON2F4SmpoNUJjNXd5cjNsQWc5dlMwNUNYZkQ1N1ltd0RsZFR2bEF6S0RDQXZpNHcyVEVWa2RiN3VQOXBvc0s1cmRMNjUzM3NTOUFtd0I0QTBnSnVSVjhOUmhYWUJvdzBITVlSTW81ZWYyc2I2R3pPRzlEZlFQcEN4T1RCbDN0UC0zSHdPMXlWOTVzeHNWMV9lRjQ0VU1xY1lWbzBVd09GRTdPWUdHWlBybndBVEw3cmpiYjZoaG1xWFl2LTFyQWp4bTF0QUZ2SGxtamhkM0dRTzhfMkFkaDh2eU1DRlZ1TmlxYmdwa2RtLXNuU0FsRGhwNTI4X1NidkdQT3lYNQ?oc=5
-
-- 'Win against India damaged us a lot': Mohammad Yousuf explains Pakistan cricket's decline - The Times of India
-  'Win against India damaged us a lot': Mohammad Yousuf explains
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnB4aWlpZEQwcGZmVkNMTkJQRTE5Q3Y0NlhRb1RUVU9LZjJFRDdmRG9UbDh5aHMzWm9jT1dWMDc1alFtZzdxWmVuYnFpZmtDMzBQdVhQYVFIOGNCOVYtcjRQNXRkdkhRY3NOalpGUlFpNHBzamZGYjlNTUp1Zmt4M2tnQXJsWUNEMGlkekdZdFhISkk3RjFZYS14ZWx3dHhod2M1Ui1sT1pXdno4Q3c4YTItTVU2RkJOSm1zSFhjRnZtTXkxdVJQRXFkMExDVk1vb245OVliZkg5aHlhQmVJejJiS25tV0k1TkxsNHl6ZTR6Y3JEUTFxTzA4WdIBgAJBVV95cUxONTEtRENuTUJkZk1PNTVYeXQ5QkxBUWJNM283OEszdmctdFkzakJ6UVFad3ZYdnJ4TkFGYUlXOF9lQUN1RmpyMWMyM3l5Wkt6aTdpd05jeGVDUkhrMzFibTB3TDhOd1JvOV9RSUx2ODZlNGlWb1VvTEhwUlNlNUJBeFhLdWNQVUdNTnJzRXFOSjNyd0ZCb25FRDNRQmFKWHlsczB4V3RSNWJQRlIwTVV4SFJKNElQc29Ca2ZqeEFZSmpSWUNkaFNJbFpSbGg5dklCOHlUQWFGVGRUTkZpVTZFc0FqQWNqci1HR09ZSXlfN3AxZFM2aklxcGhHdlJmR3RR?oc=5
-
-- Tennis: India’s Karan Singh clinches singles title at ITF Men’s World Tour - News On AIR
-  India’s Karan Singh clinches singles title at
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ZOZ2RVbE5ZUHpjVHRkdTcxTmxSYnRUVW5xN3Q5a095YWNTdS1zQmtfRkozTXdxSy0zbnV6Y3F4Z01NT2hBc1FkT25Lc1p2dFozNmswUTh6VHRheTRYR0l2OE9pdExET041LWlsX1pqbDdYTVp5Z2E0T0pDWFk5UU1WLXZ5c1RlTU9vYnhBYlM0VHhjTEFKNFBCTXZjQQ?oc=5
-
-- Collapsed Delhi Hostel's Rent Agreement Left Owner With Zero Responsibility - ndtv.com
-  Collapsed Delhi Hostel's Rent Agreement
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS2l0OFBYampONUk4SHpBZ0pCTU9wRHRkbjFTMHRaN09kRGZBMHdpZlJVcWoyWmtLeHJlRkQtVDAzd3BzZjBlOGIxeGg3bVBMeHg4Tmpkc1pyWDA1Um1MVmQyTUtpUDRyRGdZWFRldTlGYlM2MVp2RzRMV0RxSEVtbzN4c1FpNEUtR1MwUEM3aURfaE5SWlRQOEZvUFlzQjRUcm9zbTBQR2FvUWhTci1jc1F2R3BKMmxFVThMYzU0RVRPSTRuZXladWY2ay1xcXQ1Z05YRWowMXJnU0JNSlJuatIB6AFBVV95cUxNT0s1RkJUYWpXNlgwNnRjanhBZktncVZMbVVVSWp3UWVFR3F5S3k5Tld2RjRIM2tOYXRrQ0RyOWo5Qi1hZlNIU1h2M2d2ckg1c3ZpaFdwZzdmR3RJRzRVd3pMMGxBR1ltSzAtODJRRmZyT1hHNnJ5aEZpWFo3cVpiMlRVdjltSWpWUDlja2huWFZGOFAzaTBHZjd6RGZlZkhKU09PbXgxMWJITVZNMVJkTU1rWHBfV1dPN3A0NzF6V2NkRDd3SEFnMi0ySXBKUjdiT0R1c1M4alRXZDlxWFZ3ZGtpWU9pcDdU?oc=5
-
-- India teams search for survivors after Delhi building collapse kills six - Al Jazeera
-  India teams search for survivors after Delhi building collapse kills
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOenRhRFFkcGxsTHNPeGp5UFpaUFl6SzdKbGc4RnR1b3pRUW1KazExUldwdHUwVFNqSk84N1BYYjRIa1ZkZE1nM1ZDSHVTWUNzVnBLMDIwRGQ4aDFteEtIeWxMNVpXcVA3WmNVYVR2TmN1ZVRTb1RpdG1Bc0M0b3JJT2stZURxa09KTF9DTHBYSXVVa0k1S3lzdWh6czNVWDNRcEw4T1lLRW91aDRkNE1nTGFn0gG3AUFVX3lxTE5DMnVWd0otelMwN1ljelZxVGtqOVVrTjVpSmhObmlRYjBNbWxjZ1hXcDVfTkFxUjI4YnBUaUhZVGUwcDAwYW1oMnN0bjZsakJFeG9yeDBHckNIQ2Q4MmNCeWh4eGcxX202Y0pJU21xNE0zTDZ1V2ZuNks3TWVQYjJ3MUdBbFF1TFFNWFY5bmV4cXJ3TnZqTEhybGZlYWtuS2s5d0pkWkpieTZkU3hKY0FwaHNsZDlMUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-07 17:07:37 UTC_
+_Last updated: 2026-09-07 21:05:20 UTC_
