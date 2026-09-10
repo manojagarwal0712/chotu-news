@@ -1,64 +1,72 @@
 # 📰 Daily News Summaries
 
-- Apple Watch’s new AI features are normalizing the idea that technology is always listening - TechCrunch
-  Apple Watch’s new AI features are normalizing the
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNkR3SzVtSXFOcEpOMmwtTHlrTEpJdTB2d0pNY3JVY0dKUVp1R21rMmg0eU4yak5yM1lZTGVvazJzbl9Da3Z6VWl2Y1ZvN2hOaDI3NTQ1VFNIN2d4NWh3SjF3QlVGWnA0WUZMUXJuYk5KMjlLcTdBQXFSV3JPeEliUXhpeXk3WFkzWnJLdVd5V0tvUmlDWnotZFBYb1Fnb0p2XzljWGFXRmREREVUM0hMYk5SbkEwV2t6SFpKeWl6VXJ1QQ?oc=5
+- China Ends Suspense, Xi Jinping To Visit India For BRICS Summit - NDTV
+  China Ends Suspense, Xi Jinping To Visit
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGhLYjI0X0lhZTh6RHpQVTJqU3lwUDdIS25KZUUtTVdOSXM1T2FQQXJxNWRHN2dqejdITVgxdVRNNzFMaDBpMHo1cFdTdXNhQmVaSGl0QjBoQnJZWUR2Nnp2RGN1VFR1OTBNODYzWm00YWs2cmp0STdIckJ6RFg1NjFpcjZzcDlQZkpoaWVKTnpQQ1BLdWRfXzhTeW5OcU9xVW1mUlJhak85Q2RMdTFJ0gG3AUFVX3lxTE9JazFVZEFZUXB2UTc0c2dpNzYyOWlZNGx5NGFOOUdmcFFCcVA5ajNPRlN2NlVvQTV1R1N3SXZkUXZCRmZIN203eGNhcjRMLXZGYnY2NlNzRWVnd2JwZ2I3SEVHUFZ3Xzk5cXl2WGpmRGNrNVZob2dmQllEa0ZlVmtWMzluZmFEVXh0UWgzbVBpUWhtSUE5VHQwMUszbmZacG1JYjFGczFxMWl1aUpSRkdaa0ZjdGxoVQ?oc=5
 
-- AI could kill all humans in next decade, warn experts: but how seriously should we take them? - The Guardian
-  The Guardian reports that AI could kill all humans in next decade, warn experts.
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5
+- China confirms Xi Jinping's India visit for Brics summit on September 12-13, first trip in 7 years - The Times of India
+  China confirms Xi Jinping's India visit for Brics summit on September 12-13. First
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNTRCRXNyMUkzNmlyNFhjT3k4dFZrOWhUbXZJYkdxejRwYU1jNFVkaWRNbVlWNHB1LUVnT0ZyUVNLTmxfMVpmZ1g5bVVBdjB3Q3NVb1J6SXM1aVBHeHlXbGlVcmNRbXVCTGZmeENrVldkT2RuNWpyR1FCWkxXNzlmbWtLT1lEV2hyRXdpR3B4cmo0NUhOZktrV2Q0SUtscHJ6WTU3SjRPSnVacFVRdG4zTEdqQUVhLUk4REJVQ2pKQ0M2Zm1fbU5NcFd2d1ZUT1NsQ2pLTE9nZGExalRuZF9xa0U4YXV6YjlocTQzaGtERzNkdUw5NXg00gH8AUFVX3lxTFAxUlBxWTlzMTdkblZIcG4zajlZZnBhRlFRaV9iTEZFUDhrbE9wMVAwQkR2STNSaXpMUXNhRWRqdlM4LTRfT0xXUE1HdUFMUGItNkZVZ3ZncGx6cS1maEFqUWxFS3k1WGgwZnJ4dm40QmVPaWV6emg4MlktZHJDbXFBUGdTdXFaQ3hIbDJ3ZVNRUkVEeFFSdW1sMjVXSVQxODNfVE9PSF9seDY2OXhlWlJiek1QaUd4aUZzZE9MbHFTRU4xM1F1aEczS0pBb2JfRExTUGtrZm9aaEtsdjk2NUx0YWpaMXFEMWtWUFZ6M1drTEZvMUtrWUFxRzRyag?oc=5
 
-- UK needs new laws for AI in healthcare, says watchdog - BBC
-  UK needs new laws for AI in healthcare
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mTkNGYlZ4Wm53OGNVaVRQMkJFZTg4TGQxcDFOeEwySnE0bFZRay1YSUM0aGkwSUpmWkxHcGdnd0JNdjcyX29IZk41N0Vfdjd2bWw0a0xzSWlMUQ?oc=5
+- China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda - The Hindu
+  China confirms Xi to visit India after 7 year gap; trade,
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMnVULXF4dDRFUkFlNnRGbkdnT280MGp1YTU5MThDaW1IbnNGUExxSkRBZTZqb203UlZZTTZZbXJFUjFibXJvbzZTMGNKU0ZMOHlOd0Q3SXgtdnJ3ZEpvOWRCWlNmMkdKQjdhZzdOVU9PMnhsZm1IQ0NCRldiU2ctLTlmbGxMV05CVnowNUh1OVR1RXR5MDFKaUNpZldmR2p3ajFqRnlwRm80Q2ptVHh6blNWME9fV1c1SjJIQnc1WnFXMzE0dzJ5TUFaTldLTXd4RTJfT9IB2wFBVV95cUxOSTJZLVlWRHFRQi00cUg0VVBRUkIxOUFoNnJVQ3BtS21QT0RRUHFhTGszSC1XMXVKaUZ6X3dfU2NOV0ZhQ3VBczJyS0daMnd6X2ZCajIyOFJyNy1yMXI4WENLXzBCZk0xOWU4dzNrUWVFVHhKMUZmbnpCVC1vTHRNazBnYWZ0NlY5VldoSEsyV05SZzBrZ3pEZXowS3pTN1UxaDJNU29jcWFYM3dCSlFYVWVhRERjRk03SHBfOHZDckRwNHFLbHhNd1RDUEhCNFFrc0F3V2hJOExaRkE?oc=5
 
-- India has potential to lead photonics tech, industry to grow 4x to $10 bn by 2031, says association - telecom.economictimes.indiatimes.com
-  India has potential to lead photonics tech, industry to grow 4x to $
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcURUYkhnd2s5Mm0zWW5tYk5XcWUyOXRWRjBiNGVzRXgwWjI1UnBNSExpMDV6eUJ5U1piYTlxOUJ0aUZQTnlKQ1RIbXRnQ2huY0RwaXgwSVFjOGVpMk9QY1g4TUJiVXVUTUs2MWxKSTlWZmxRLXdNQXRGdE5Zb0NSMUJPUXFRdlRMMnZBVVoxWFVES3JWeEYtakJJb3BnRkRocTR6SGlHcXp5UVYyakpxejhYa0lUcWRlRWZ6VlJLTl9NM0xqU3loenpDSUh6U1JUVUZMUmk0SW8xQjEzTnFCM3U3ZFc4VXU1dnNxNHIwbVNJM1HSAfgBQVVfeXFMTjgtQ2xGZkMxc19tRTFzclhURXRMXzhZU2VaWEotWGxPbmRneC05UGdnMDdYTmotbWhPUmdoYVZaTWJwa09iUDNobFVwUnVrS0J5bDFvVnJMV3A3Ql9WZ244aVlZOXM0T0Rnc0pLYmdSYm5SUVpjMk1lVVVnZll4ZkFZbkRiUEdJZ1JQQkZKdjBpeHNGUm1vYjF3eHJVNUhiS1Z4MnB5N2xWU0ZZSUV5V3M4ZENMaFhLWWxBV2N4QW5DOUNyS1NycUswbFBqRF9iMDRUX3RESENXXzdrNkJwVjhicUVHZXJteUJnM3ExbW5uS291VlpfWVY?oc=5
+- Bhoti language push: Ladakh delegation submits resolution to chief secretary - The Times of India
+  Bhoti language push: Ladakh delegation submits
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR05zeERaT3VRZVZiRjFaM1UtZjVPbzc4Ynl5R0pmb0Z4WndOekZyaUNtVFFXSnFSN3R1ZWZnLUt5bG5OR0RvOE5zVjczZElUaVpRWXMtQWE5NlVoVjU2VTJqT2I3SjlkNkpKa2JwOEpzQ1lrTk9zeEZsVl9vZzg2S1BRSTY2S0xtT281STdZMkwwWDR0dGJnbnRxUlFoTklqcEVfR2hOc0tMcG5YOGFpRDh5MjBqMnNHOGRGcnpiZG1ya2ZPYWhwZ0c0Y0JkLW5VYlN4eF9xcTNWSlnSAeABQVVfeXFMTU9pXzJrVUoyWXdZRWV3Y3czcWNpb21nMzVUYW9OeDlLb09CZWM5UjZFUWtXX2V1WnFrNzNVUVBNeEQ2QlZoR3NQYktjNXNOWmN4X0UwUjJsS2ZHbkYzejU1eHU5LU5nSGpjTDFMY09iZ1Jrc1ZxeVF5QmJUYUprLVYyTkR2NGFvYW9CRmJiMHNCa3M2SENyQmwtTEZOVzlrd0JQSFhrVGtSVS1faHRQaDZKSkt1cEpjXy1CV0Y1d21QY1BSbXREVzBmNWU1RGduTXhGRG1HWXVtcmhLd2dRS28?oc=5
 
-- MSD Opens 2.5 Lakh Sq Ft Technology Centre in Hyderabad as Telangana Pushes Life Sciences Beyond Manufacturing - analyticsindiamag.com
-  MSD Opens 2.5 Lakh Sq Ft Technology Centre in
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxORW1odHJTSzJEdDdlUEVqNFhpMWdQNlIyRW14M2pMX2NRakVZUjJtWEdFZFlKcW4tSnVEaG9rQ0ZEdGtqOUYzLUR4STRYaHQyTGtQZzBiSnpHbUN5cDk1d3Z5eDBFMU5uQnF5RW5TeHZ6TDZhV3hzMkQxcC1mREhaSDhRYzZFT0VyU0dkejlRS3VDM3BDQ2lWMGVGLXIwdnBQS0REOGpuNTN3ZEF5UFRzN1BqVDBnTklwd2xoMnA2MUlXeFdfVEdrS2c0ektjWUdLdEk0djdWVXZsa2lJbmtVTw?oc=5
+- Nitin Gadkari ‘ashamed’, says will skip Mumbai-Goa highway opening - The Indian Express
+  Nitin Gadkari ‘ashamed
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGN5MVNNd29FMVl4a2JUS0N1XzcwVGJyQnNYbWhPOWNvT24zajNNb08zRTZ4b3E4TDBPWG11Q19MZzNBOFktWWlBS2dadWZRMHRCM254ZzVMSVBPcjJmV0Y2Y1pMNGlZUXAzSEVDQzY5RGNxaDN5ckhEWmU5TnNINkF1TWVETWRtSk5Yc3BhaXd2WldNVEVKSnoyX3Z2eGZxX3JhbkVBWjA3ZGZJbUtXbEFjUElUWTRuVFRYV21UQmlUdEZiTDVN0gHOAUFVX3lxTE01Y2JEM1FXelVydHp1ZjNieGtydVUzTlFCMk9pTXVkc1UxcTZ2anFQaEg4dWRMQjBpYWRLbEd4NkY3S0JnOV9qM3hIX3hkNlFWMEo4NGhtVlJHcFJPdFg3MkFUMjRDX0V2Z1Q2VUUtWEdqYThfM3hWZHNRVDFILTNPUldwdzhWTlNEVkd6WUwtaGp4SFJ1LTE0NC1uWEhBM0RoaGd0M1pJcU5OZWluaC1UbTVyalRwWjQ3NzM1ZVpVSXpobnJvSHFEeEFpYVR3?oc=5
 
-- Delhi High Court restrains startup Beco from running ads against HUL products
-  The advertising campaign allegedly linked Hindustan Unilever
-  🔗 https://www.livemint.com/companies/news/hul-surf-excel-vim-beco-ad-campaign-delhi-high-court-11789029097101.html
+- International flights from Navi Mumbai gets a fee waiver boost
+  An airline already flying to Dubai from CSMIA can now launch Navi Mumbai-Dubai flights and still qualify for the
+  🔗 https://www.livemint.com/companies/news/international-flights-from-navi-mumbai-gets-a-fee-waiver-boost-11789049550324.html
 
-- Varun Beverages’ Kiva Spirits in advanced talks to acquire spirits maker Alcobrew for  ₹2,000-2,500 crore
-  Varun Beverages is seeking to enhance its alcoholic beverage portfolio. The deal would provide Kiva with established liquor brands and
-  🔗 https://www.livemint.com/companies/news/varun-beverages-kiva-spirits-alcobrew-acquisition-11788974351052.html
+- Adyen steps up India expansion after licence approval, plans to grow local team
+  Adyen plans to expand its local product, commercial and operations teams as it targets Indian
+  🔗 https://www.livemint.com/companies/news/adyen-steps-up-india-expansion-after-licence-approval-plans-to-grow-local-team-11789038518286.html
 
-- Qualcomm takes aim at India’s payments device market
-  Qualcomm has introduced a new affordable integrated payments device. It combines a point-of
-  🔗 https://www.livemint.com/companies/news/qualcomm-new-payment-device-pos-qr-soundbox-india-11789016324809.html
+- HDFC Bank wins all seven Bahrain cases over Credit Suisse AT1 bonds
+  HDFC Bank said the Bahrain court found that the investors had failed to provide sufficient admissible evidence.
+  🔗 https://www.livemint.com/companies/news/hdfc-bank-wins-all-seven-bahrain-cases-over-credit-suisse-at1-bonds-11789043137629.html
 
-- Michael Dell overtakes Jeff Bezos to become the world's third-richest person — Check their net worth
-  Michael Dell began 2026 ranked 13th globally with an estimated fortune of $141 billion. Since the start of the year, his
-  🔗 https://www.livemint.com/companies/people/michael-dell-overtakes-jeff-bezos-to-become-the-worlds-third-richest-person-check-their-net-worth-11789003198644.html
+- JSW-Volkswagen Group potential India deal: Cost cuts, exports and control at centre of talks, says report
+  JSW Group and Volkswagen Group are reportedly negotiating a potential partnership in India. JSW aims to cut production expenses by 50%, while Volkswagen assesses its decision-making
+  🔗 https://www.livemint.com/companies/news/jsw-volkswagen-group-potential-india-deal-cost-cuts-exports-and-control-at-centre-of-talks-says-report-11789043077410.html
 
-- Swish raises $24 million to expand quick food delivery network
-  Bertelsmann India Investments joins existing backers as Swish expands
-  🔗 https://www.livemint.com/companies/start-ups/swish-raises-24-million-to-expand-quick-food-delivery-network-11788961808550.html
+- Greenwave Circularity raises $31.5 mn from Development Bank of Austria
+  The company plans to use the funding to develop its integrated
+  🔗 https://www.livemint.com/companies/news/greenwave-circularity-raises-31-5-mn-from-development-bank-of-austria-11789031739940.html
 
-- Nuvama says 'Buy' Marico; check 12-month price target, stock performance, shareholding pattern
-  Nuvama Wealth Management recommends investors to buy Marico shares. Forecasts significant growth driven by a pivot towards premium products
-  🔗 https://www.livemint.com/market/stock-market-news/nuvama-says-buy-marico-check-12-month-price-target-stock-performance-shareholding-pattern-11788952174352.html
+- Why are big chip stocks under pressure? SK Hynix, AMD, Intel, Nvidia fall up to 6.5%; is the AI rally losing steam?
+  SK Hynix, Micron, and AMD faced declines of up to 6% on September 10. Escalated tensions in West Asia and a surprising increase in August's Producer Price
+  🔗 https://www.livemint.com/market/stock-market-news/why-are-big-chip-stocks-under-pressure-sk-hynix-amd-intel-nvidia-fall-up-to-6-5-is-the-ai-rally-losing-steam-11789050327575.html
 
-- Over 18% dip in YTD | Delhi-based realty company is bullish on this beaten-down stock — do you own?
-  The stock has remained under pressure in the near term, declining 3.95% over
-  🔗 https://www.livemint.com/market/stock-market-news/over-18-dip-in-ytd-delhi-based-realty-company-is-bullish-on-this-beaten-down-stock-do-you-own-11789026385961.html
+- India’s CAS liquidity concerns not unique, says Sebi chief
+  Sebi chief pointed to other markets
+  🔗 https://www.livemint.com/market/stock-market-news/indias-cas-liquidity-concerns-not-unique-says-sebi-chief-11789044778671.html
 
-- SBI Mutual Fund raises stake in sugar stock EID Parry to 9.13% | Check stock performance
-  SBI Mutual Fund increased its stake in EID Parry India Limited to
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-mutual-fund-raises-stake-in-sugar-stock-eid-parry-to-9-13-check-stock-performance-11789028725313.html
+- Top stocks in focus tomorrow: Investors must watch Fino Payments, KIMS, Texmaco Rail shares on Fri, 11 Sept | Triggers
+  On September 11, Indian investors will focus on companies like Texmaco Rail, Sterlite Technologies, Poonawalla Fincorp, and Fino Payments Bank. The
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-fino-payments-kims-texmaco-rail-shares-on-fri-11-sept-triggers-11789037727262.html
 
-- NSE IPO shrinks as Morgan Stanley, other investors cut stake sales
-  The NSE would now be offloading around a 5.1%
-  🔗 https://www.livemint.com/market/ipo/nse-ipo-shrinks-as-morgan-stanley-other-investors-cut-stake-sales-11789023066875.html
+- Brent crude tops $105 a barrel as tanker attacks intensify in Middle East; Saudi output cut fuels concerns
+  Saudi Arabia reported a significant drop in production. Brent crude rose to about $106 a barrel, while WTI jumped to $95.39.
+  🔗 https://www.livemint.com/market/stock-market-news/brent-crude-tops-105-a-barrel-as-tanker-attacks-intensify-in-middle-east-saudi-output-cut-fuels-concerns-11789044497665.html
 
-- Swiggy, Jindal Steel among stocks to buy | Kotak Securities' expert bullish on 3 shares for short term | Do you own any?
-  Kotak Securities' Amol Athawale identifies three stocks that traders should consider in the short term. With specific targets and strategic stop-loss levels
-  🔗 https://www.livemint.com/market/stock-market-news/swiggy-jindal-steel-among-stocks-to-buy-kotak-securities-expert-bullish-on-3-shares-for-short-term-do-you-own-any-11789026733235.html
+- Wall Street slumps as Brent crude climbs above $105, wholesale inflation rises
+  The Dow Jones Industrial Average fell 0.60%, the S
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-slumps-as-brent-crude-climbs-above-105-wholesale-inflation-rises-11789045482327.html
+
+- What gaming tech firm ARC raised in pre-seed funding led by Chimera VC, MIXI Global Investments
+  ARC X1 is a portable console powered by its proprietary OWL OS. It is targeting white-label gaming hardware with an in-house stack.
+  🔗 https://www.livemint.com/technology/what-gaming-tech-firm-arc-raised-in-pre-seed-funding-led-by-chimera-vc-mixi-global-investments-11789041546622.html
+
+- Samsung claims Galaxy Z Fold 8 as world's lightest fold but how it compares with Apple Duo — find out
+  Samsung claims the Galaxy Z Fold 8 is the world’s lightest book-style foldable at 201 grams. Apple’
+  🔗 https://www.livemint.com/technology/samsung-claims-galaxy-z-fold-8-as-worlds-lightest-fold-but-how-it-compares-with-apple-duo-find-out-11789037462080.html
 
 - Apple iPhone Duo has a familiar shape: Does it bring back the BlackBerry Passport nostalgia?
   The iPhone Duo is drawing unexpected comparisons to a cult classic from a bygone era
@@ -72,53 +80,57 @@
   iPhone 18 Pro uses more recycled materials than its predecessor. New thermal management system and longer battery life.
   🔗 https://www.livemint.com/technology/iphone-18-pro-vs-iphone-17-pro-what-has-changed-from-colour-options-ios-camera-battery-price-to-chipset-11789015440741.html
 
-- Apple iPhone Duo price in India: Check 256GB to 2TB prices, EMI, offers, specifications
-  Apple's first foldable iPhone Duo starts at  ₹2,99,900 in India. The device features a 7.6-inch inner
-  🔗 https://www.livemint.com/technology/apple-iphone-duo-price-in-india-check-256gb-to-2tb-prices-emi-offers-specifications-11789020249034.html
+- Market Trading Guide: Finolex Cables among 3 stock recommendations for Friday
+  Analysts recommend Finolex Cables, Jindal Saw and Emmvee Photovoltaic Power. They cite bullish breakouts, strong momentum, technical indicators and upside
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-finolex-cables-among-3-stock-recommendations-for-friday/slideshow/134016773.cms
 
-- ‘Reheating leftovers’: Samsung, Motorola crash Apple’s iPhone Duo launch with memes and teasers
-  Samsung's social media strategy has long relied on poking
-  🔗 https://www.livemint.com/technology/tech-news/reheating-leftovers-samsung-motorola-crash-apple-s-iphone-duo-launch-with-memes-and-teasers-11789018638219.html
+- OBPPs pitch investor protection fund for retail bond investors
+  Online bond platforms are advocating for the creation of a new investor protection fund. Conversations have included the possibility of a universal premium, which would be connected to the issuer's credit risk.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/obpps-pitch-investor-protection-fund-for-retail-bond-investors/articleshow/134015416.cms
 
-- Dow tumbles 400 points, posting 3-day slide as rates jump and Brent crude tops $101 - CNBC
-  Dow tumbles 400 points, posting 3-day slide as
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVWZhUUhTR016OG10ZS0zRG9YYjZUcUNQSVZJbkZzbFVvREpTSzg3NXI3Ry1US085NDRndjRzRFp3Z0NBdm10ek1OWTNuSjVyV1h0c2V2ampsQTJOSURMSGhqWWJ1YzhVODFSYkZiQXJKTUloaVY00gF8QVVfeXFMTjdLSXBKbXFzdFRiVWdzVzY1LXdRS3B2ZFY0Rl9ZNGZTTkhYRW9US25pQmhHVXR2eUE4VmNkS3o0blJFMDZMWjYtaElOS2NoQnNzdE82UUhhbXFwWTJDbVBxQnBVRVU3VnV3dFgtV1lJRV83Q2NFaS1BZVlCLQ?oc=5
+- Brooks Automation confidentially files for US IPO
+  Brooks Automation confidentially files for an initial public offering in the U.S. The firm specializes in automation and contamination-control solutions across various industries.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/brooks-automation-confidentially-files-for-us-ipo/articleshow/134014763.cms
 
-- Markets News, Sept. 9, 2026: Stocks Finish Lower for 3rd Straight Session; 10-Year Treasury Yield Hits Highest Level Since 2023; Oil Tops $100 a Barrel - Investopedia
-  Markets News, Sept. 9, 2026: Stocks Finish Lower for 3rd Straight Session; 10-
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmhISUJQUlNsT0xacGpFSFNmOGZUZ1lVX0x2bEluUnFIVERuV2RnTUgyaFJPY3NYbHc0bzk4Z1RpWjdIV1FFRHZvZTdyaWF6NGdkc3hOUnIyVjhNd0hib1FNaWFfTTlGaXJsRDRLS29pNVMyakx3d011MXBlUF9maFVJUUNBeV9RRGhsVzhZMnA?oc=5
+- US producer inflation tops expectations as diesel costs jump
+  US wholesale inflation picked up more than expected in August, government data showed Thursday. Higher energy costs in the month -- particularly for diesel -- as the US war with Iran continued.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-producer-inflation-tops-expectations-as-diesel-costs-jump/articleshow/134014612.cms
 
-- Stock Market Today: Dow Futures Gain, What to Watch — Live Updates - WSJ
-  The Dow Jones Industrial Average is up 0.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2dUYUJhakx0Z1hEUkZHcVRrV0Z0bTVSZTlJaUdZS1hCeDExelZHUVZ4N0hkYkl3Z0hvVVpGLTJRV2pqT19XZTIwQ0dSdl9lRDY3TkY5NmNPcXdkZHhBR0hTVHBfVklZZVlYekltSk93TURSQXc4QVlEcE42NHlTUkIxdnd0R28?oc=5
+- US stocks today: US stocks slip as oil tops $100, putting inflation back in focus
+  US stocks declined on Thursday as investors grew cautious about inflation. Oil prices climbed above $100 a barrel, fueling further inflation worries. Markets now await key US inflation data due on Thursday and Friday.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-openslower-after-hotter-than-expected-producer-inflation-data/articleshow/134012655.cms
 
-- Stocks Tick Higher Ahead of ECB, Tech Earnings: Markets Wrap - Bloomberg.com
-  Stocks Tick Higher Ahead of ECB,
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDNPY1UtR3dhUVBsYWhkc21iVFB1VmptOUFuVlhGdHgtZ0Zpb29KZVBUbHk0Sl9ZNnNIYmxMLWNQU25kT0ZMSVIzMkVZQUFub3R2WnQ3NV9mT29Id1lYVml0MF9qcFFPSzg1cndWWEltOWVLQUd3blRKMHM2eHVMSnFTc3dva3ZIOGVxV2RzWnF3Qnl5?oc=5
+- China Ends Suspense, Xi Jinping To Visit India For BRICS Summit - NDTV
+  China Ends Suspense, Xi Jinping To Visit
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGhLYjI0X0lhZTh6RHpQVTJqU3lwUDdIS25KZUUtTVdOSXM1T2FQQXJxNWRHN2dqejdITVgxdVRNNzFMaDBpMHo1cFdTdXNhQmVaSGl0QjBoQnJZWUR2Nnp2RGN1VFR1OTBNODYzWm00YWs2cmp0STdIckJ6RFg1NjFpcjZzcDlQZkpoaWVKTnpQQ1BLdWRfXzhTeW5OcU9xVW1mUlJhak85Q2RMdTFJ0gG3AUFVX3lxTE9JazFVZEFZUXB2UTc0c2dpNzYyOWlZNGx5NGFOOUdmcFFCcVA5ajNPRlN2NlVvQTV1R1N3SXZkUXZCRmZIN203eGNhcjRMLXZGYnY2NlNzRWVnd2JwZ2I3SEVHUFZ3Xzk5cXl2WGpmRGNrNVZob2dmQllEa0ZlVmtWMzluZmFEVXh0UWgzbVBpUWhtSUE5VHQwMUszbmZacG1JYjFGczFxMWl1aUpSRkdaa0ZjdGxoVQ?oc=5
 
-- Nervy markets await ECB rate hike, US inflation data - TradingView
-  Nervy markets await ECB rate
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOanhpX1R2T3RndkJDNnNoNmJfUFpmUGFrNGlyOFBQSDdzb1dQdVZHTTVjUnZYa29Gc3VGSVhRYU01YVpyZHlOWnVmaURGNXdpZUdDR2pBRk1xd0M2c01RSS1PS2hHb3lFbDFaRWJCX0o2NTlXa1Nwb2VMUmtIbC0xWjFXQzRnQ29wSm81bGpxdmJjU3ItS01FZ0EyWkVtX1ZzVTRYbjVPdmR2TzBLMHlJRUhSOENxbURQY0QyTVRn?oc=5
+- China confirms Xi Jinping's India visit for Brics summit on September 12-13, first trip in 7 years - The Times of India
+  China confirms Xi Jinping's India visit for Brics summit on September 12-13. First
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNTRCRXNyMUkzNmlyNFhjT3k4dFZrOWhUbXZJYkdxejRwYU1jNFVkaWRNbVlWNHB1LUVnT0ZyUVNLTmxfMVpmZ1g5bVVBdjB3Q3NVb1J6SXM1aVBHeHlXbGlVcmNRbXVCTGZmeENrVldkT2RuNWpyR1FCWkxXNzlmbWtLT1lEV2hyRXdpR3B4cmo0NUhOZktrV2Q0SUtscHJ6WTU3SjRPSnVacFVRdG4zTEdqQUVhLUk4REJVQ2pKQ0M2Zm1fbU5NcFd2d1ZUT1NsQ2pLTE9nZGExalRuZF9xa0U4YXV6YjlocTQzaGtERzNkdUw5NXg00gH8AUFVX3lxTFAxUlBxWTlzMTdkblZIcG4zajlZZnBhRlFRaV9iTEZFUDhrbE9wMVAwQkR2STNSaXpMUXNhRWRqdlM4LTRfT0xXUE1HdUFMUGItNkZVZ3ZncGx6cS1maEFqUWxFS3k1WGgwZnJ4dm40QmVPaWV6emg4MlktZHJDbXFBUGdTdXFaQ3hIbDJ3ZVNRUkVEeFFSdW1sMjVXSVQxODNfVE9PSF9seDY2OXhlWlJiek1QaUd4aUZzZE9MbHFTRU4xM1F1aEczS0pBb2JfRExTUGtrZm9aaEtsdjk2NUx0YWpaMXFEMWtWUFZ6M1drTEZvMUtrWUFxRzRyag?oc=5
 
-- Copper price's record rally highlights global mining-smelting mismatch, IPCPA says
-  Copper prices are soaring to unprecedented levels, driven by a significant global supply imbalance. While mining operations struggle to meet demand, smelting capabilities are rapidly increasing.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/copper-prices-record-rally-highlights-global-mining-smelting-mismatch-ipcpa-says/articleshow/134003955.cms
+- China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda - The Hindu
+  China confirms Xi to visit India after 7 year gap; trade,
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMnVULXF4dDRFUkFlNnRGbkdnT280MGp1YTU5MThDaW1IbnNGUExxSkRBZTZqb203UlZZTTZZbXJFUjFibXJvbzZTMGNKU0ZMOHlOd0Q3SXgtdnJ3ZEpvOWRCWlNmMkdKQjdhZzdOVU9PMnhsZm1IQ0NCRldiU2ctLTlmbGxMV05CVnowNUh1OVR1RXR5MDFKaUNpZldmR2p3ajFqRnlwRm80Q2ptVHh6blNWME9fV1c1SjJIQnc1WnFXMzE0dzJ5TUFaTldLTXd4RTJfT9IB2wFBVV95cUxOSTJZLVlWRHFRQi00cUg0VVBRUkIxOUFoNnJVQ3BtS21QT0RRUHFhTGszSC1XMXVKaUZ6X3dfU2NOV0ZhQ3VBczJyS0daMnd6X2ZCajIyOFJyNy1yMXI4WENLXzBCZk0xOWU4dzNrUWVFVHhKMUZmbnpCVC1vTHRNazBnYWZ0NlY5VldoSEsyV05SZzBrZ3pEZXowS3pTN1UxaDJNU29jcWFYM3dCSlFYVWVhRERjRk03SHBfOHZDckRwNHFLbHhNd1RDUEhCNFFrc0F3V2hJOExaRkE?oc=5
 
-- Can IndiGo shares fly again amid soaring oil prices? Ambit remains bullish but lists 5 key risks
-  InterGlobe Aviation shares have fallen 8% in a month as oil prices topped $100. Ambit retains its Buy call, citing IndiGo’s market-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/can-indigo-shares-fly-again-amid-soaring-oil-prices-ambit-remains-bullish-but-lists-5-key-risks/articleshow/134003917.cms
+- Bhoti language push: Ladakh delegation submits resolution to chief secretary - The Times of India
+  Bhoti language push: Ladakh delegation submits
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR05zeERaT3VRZVZiRjFaM1UtZjVPbzc4Ynl5R0pmb0Z4WndOekZyaUNtVFFXSnFSN3R1ZWZnLUt5bG5OR0RvOE5zVjczZElUaVpRWXMtQWE5NlVoVjU2VTJqT2I3SjlkNkpKa2JwOEpzQ1lrTk9zeEZsVl9vZzg2S1BRSTY2S0xtT281STdZMkwwWDR0dGJnbnRxUlFoTklqcEVfR2hOc0tMcG5YOGFpRDh5MjBqMnNHOGRGcnpiZG1ya2ZPYWhwZ0c0Y0JkLW5VYlN4eF9xcTNWSlnSAeABQVVfeXFMTU9pXzJrVUoyWXdZRWV3Y3czcWNpb21nMzVUYW9OeDlLb09CZWM5UjZFUWtXX2V1WnFrNzNVUVBNeEQ2QlZoR3NQYktjNXNOWmN4X0UwUjJsS2ZHbkYzejU1eHU5LU5nSGpjTDFMY09iZ1Jrc1ZxeVF5QmJUYUprLVYyTkR2NGFvYW9CRmJiMHNCa3M2SENyQmwtTEZOVzlrd0JQSFhrVGtSVS1faHRQaDZKSkt1cEpjXy1CV0Y1d21QY1BSbXREVzBmNWU1RGduTXhGRG1HWXVtcmhLd2dRS28?oc=5
 
-- CAS swing: Sensex closes 138 pts higher, Nifty above 23,450 as market reverses losses despite soaring oil prices. What’s ahead?
-  Sensex and Nifty erase intraday losses to close positively on Thursday. Power Grid and Axis Bank surge by nearly two percent, contributing to upward momentum.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cas-swing-sensex-closes-138-pts-higher-nifty-above-23450-as-market-reverses-losses-despite-soaring-oil-prices-whats-ahead/articleshow/134003708.cms
+- Nitin Gadkari ‘ashamed’, says will skip Mumbai-Goa highway opening - The Indian Express
+  Nitin Gadkari ‘ashamed
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGN5MVNNd29FMVl4a2JUS0N1XzcwVGJyQnNYbWhPOWNvT24zajNNb08zRTZ4b3E4TDBPWG11Q19MZzNBOFktWWlBS2dadWZRMHRCM254ZzVMSVBPcjJmV0Y2Y1pMNGlZUXAzSEVDQzY5RGNxaDN5ckhEWmU5TnNINkF1TWVETWRtSk5Yc3BhaXd2WldNVEVKSnoyX3Z2eGZxX3JhbkVBWjA3ZGZJbUtXbEFjUElUWTRuVFRYV21UQmlUdEZiTDVN0gHOAUFVX3lxTE01Y2JEM1FXelVydHp1ZjNieGtydVUzTlFCMk9pTXVkc1UxcTZ2anFQaEg4dWRMQjBpYWRLbEd4NkY3S0JnOV9qM3hIX3hkNlFWMEo4NGhtVlJHcFJPdFg3MkFUMjRDX0V2Z1Q2VUUtWEdqYThfM3hWZHNRVDFILTNPUldwdzhWTlNEVkd6WUwtaGp4SFJ1LTE0NC1uWEhBM0RoaGd0M1pJcU5OZWluaC1UbTVyalRwWjQ3NzM1ZVpVSXpobnJvSHFEeEFpYVR3?oc=5
 
-- Global Market: European shares edge higher ahead of ECB rate decision
-  European shares edged higher after their sharpest one-day decline in two months. Investors awaited an expected ECB rate hike and Christine Lagarde’s comments on inflation.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-ahead-of-ecb-rate-decision/articleshow/134001720.cms
+- Delhi HC Restrains Beco’s ‘War On What’s Hidden’ Ads Targeting HUL Products
+  Delhi High Court (HC) has restrained D2C brand Beco parent entity Kwick Living from continuing its “War on What’
+  🔗 https://inc42.com/buzz/delhi-hc-restrains-becos-war-on-whats-hidden-ads-targeting-hul-products/
 
-- Explained: Why US ETFs listed in India are trading at steep 65% premiums over the iNAV. Should you worry?
-  India-listed US ETFs are trading at steep premiums to their indicative NAVs, with some reaching 65%. The divergence appears driven by limited supply due to overseas investment caps, strong demand for US equities.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/explained-why-us-etfs-listed-in-india-are-trading-at-steep-65-premiums-over-the-inav-should-you-worry/articleshow/134001531.cms
+- Enterprise AI Is Learning To Charge For Work, And Owning The Outcomes Becomes The Contest
+  The most consequential change in enterprise AI this year is not a model release, it is a change in what.
+  🔗 https://inc42.com/resources/enterprise-ai-is-learning-to-charge-for-work-and-owning-the-outcomes-becomes-the-contest/
+
+- Startups, Small Businesses Will Drive Job Creation In AI Era: Nandan Nilekani
+  Startups, Small Businesses Will Drive Job Creation In AI Era: Nandan Nilekani.
+  🔗 https://inc42.com/buzz/startups-small-businesses-will-drive-job-creation-in-ai-era-nandan-nilekani/
 
 - Another Day, Another Upper Circuit: ESDS Now Up 269% From IPO Price
   The seemingly unstoppable rally in ESDS Software Solution continued today, with the stock hitting the upper circuit for the fifth time.
@@ -128,37 +140,73 @@
   D2C fashion and accessories startup Theater has raised ₹75 Cr (around $7.8 Mn) in Series A funding round.
   🔗 https://inc42.com/buzz/d2c-fashion-startup-bags-%e2%82%b975-cr-to-expand-offline/
 
-- RentoMojo IPO Subscribed 2.82X On Day 2 So Far, NII Portion Booked 6.13X
-  RentoMojo’s IPO was subscribed 2.82X on the second day of bidding.
-  🔗 https://inc42.com/buzz/rentomojo-ipo-subscribed-2-82x-on-day-2-so-far-nii-portion-booked-6-13x/
+- China Ends Suspense, Xi Jinping To Visit India For BRICS Summit - NDTV
+  China Ends Suspense, Xi Jinping To Visit
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGhLYjI0X0lhZTh6RHpQVTJqU3lwUDdIS25KZUUtTVdOSXM1T2FQQXJxNWRHN2dqejdITVgxdVRNNzFMaDBpMHo1cFdTdXNhQmVaSGl0QjBoQnJZWUR2Nnp2RGN1VFR1OTBNODYzWm00YWs2cmp0STdIckJ6RFg1NjFpcjZzcDlQZkpoaWVKTnpQQ1BLdWRfXzhTeW5OcU9xVW1mUlJhak85Q2RMdTFJ0gG3AUFVX3lxTE9JazFVZEFZUXB2UTc0c2dpNzYyOWlZNGx5NGFOOUdmcFFCcVA5ajNPRlN2NlVvQTV1R1N3SXZkUXZCRmZIN203eGNhcjRMLXZGYnY2NlNzRWVnd2JwZ2I3SEVHUFZ3Xzk5cXl2WGpmRGNrNVZob2dmQllEa0ZlVmtWMzluZmFEVXh0UWgzbVBpUWhtSUE5VHQwMUszbmZacG1JYjFGczFxMWl1aUpSRkdaa0ZjdGxoVQ?oc=5
 
-- Swish Raises $24 Mn To Expand Quick Food Delivery Network
-  Quick food delivery startup Swish has raised $24 Mn (about ₹228.4 Cr) in a funding round led by Bertelsmann.
-  🔗 https://inc42.com/buzz/swish-raises-24-mn-to-expand-quick-food-delivery-network/
+- China confirms Xi Jinping's India visit for Brics summit on September 12-13, first trip in 7 years - The Times of India
+  China confirms Xi Jinping's India visit for Brics summit on September 12-13. First
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNTRCRXNyMUkzNmlyNFhjT3k4dFZrOWhUbXZJYkdxejRwYU1jNFVkaWRNbVlWNHB1LUVnT0ZyUVNLTmxfMVpmZ1g5bVVBdjB3Q3NVb1J6SXM1aVBHeHlXbGlVcmNRbXVCTGZmeENrVldkT2RuNWpyR1FCWkxXNzlmbWtLT1lEV2hyRXdpR3B4cmo0NUhOZktrV2Q0SUtscHJ6WTU3SjRPSnVacFVRdG4zTEdqQUVhLUk4REJVQ2pKQ0M2Zm1fbU5NcFd2d1ZUT1NsQ2pLTE9nZGExalRuZF9xa0U4YXV6YjlocTQzaGtERzNkdUw5NXg00gH8AUFVX3lxTFAxUlBxWTlzMTdkblZIcG4zajlZZnBhRlFRaV9iTEZFUDhrbE9wMVAwQkR2STNSaXpMUXNhRWRqdlM4LTRfT0xXUE1HdUFMUGItNkZVZ3ZncGx6cS1maEFqUWxFS3k1WGgwZnJ4dm40QmVPaWV6emg4MlktZHJDbXFBUGdTdXFaQ3hIbDJ3ZVNRUkVEeFFSdW1sMjVXSVQxODNfVE9PSF9seDY2OXhlWlJiek1QaUd4aUZzZE9MbHFTRU4xM1F1aEczS0pBb2JfRExTUGtrZm9aaEtsdjk2NUx0YWpaMXFEMWtWUFZ6M1drTEZvMUtrWUFxRzRyag?oc=5
 
-- GFF 2026 Highlights, The Estate Planning Question & More
-  Global Fintech Fest 2026 Kicks Off Indian startups basked in the spotlight as the Global FintTech Festival 2026 kicked off.
-  🔗 https://inc42.com/buzz/gff-2026-highlights-the-estate-planning-question-more/
+- China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda - The Hindu
+  China confirms Xi to visit India after 7 year gap; trade,
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMnVULXF4dDRFUkFlNnRGbkdnT280MGp1YTU5MThDaW1IbnNGUExxSkRBZTZqb203UlZZTTZZbXJFUjFibXJvbzZTMGNKU0ZMOHlOd0Q3SXgtdnJ3ZEpvOWRCWlNmMkdKQjdhZzdOVU9PMnhsZm1IQ0NCRldiU2ctLTlmbGxMV05CVnowNUh1OVR1RXR5MDFKaUNpZldmR2p3ajFqRnlwRm80Q2ptVHh6blNWME9fV1c1SjJIQnc1WnFXMzE0dzJ5TUFaTldLTXd4RTJfT9IB2wFBVV95cUxOSTJZLVlWRHFRQi00cUg0VVBRUkIxOUFoNnJVQ3BtS21QT0RRUHFhTGszSC1XMXVKaUZ6X3dfU2NOV0ZhQ3VBczJyS0daMnd6X2ZCajIyOFJyNy1yMXI4WENLXzBCZk0xOWU4dzNrUWVFVHhKMUZmbnpCVC1vTHRNazBnYWZ0NlY5VldoSEsyV05SZzBrZ3pEZXowS3pTN1UxaDJNU29jcWFYM3dCSlFYVWVhRERjRk03SHBfOHZDckRwNHFLbHhNd1RDUEhCNFFrc0F3V2hJOExaRkE?oc=5
 
-- Xi's India visit to help diplomatic thaw, but business ties bound by suspicion - reuters.com
-  Xi's India visit to help diplomatic thaw, but
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5
+- Bhoti language push: Ladakh delegation submits resolution to chief secretary - The Times of India
+  Bhoti language push: Ladakh delegation submits
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR05zeERaT3VRZVZiRjFaM1UtZjVPbzc4Ynl5R0pmb0Z4WndOekZyaUNtVFFXSnFSN3R1ZWZnLUt5bG5OR0RvOE5zVjczZElUaVpRWXMtQWE5NlVoVjU2VTJqT2I3SjlkNkpKa2JwOEpzQ1lrTk9zeEZsVl9vZzg2S1BRSTY2S0xtT281STdZMkwwWDR0dGJnbnRxUlFoTklqcEVfR2hOc0tMcG5YOGFpRDh5MjBqMnNHOGRGcnpiZG1ya2ZPYWhwZ0c0Y0JkLW5VYlN4eF9xcTNWSlnSAeABQVVfeXFMTU9pXzJrVUoyWXdZRWV3Y3czcWNpb21nMzVUYW9OeDlLb09CZWM5UjZFUWtXX2V1WnFrNzNVUVBNeEQ2QlZoR3NQYktjNXNOWmN4X0UwUjJsS2ZHbkYzejU1eHU5LU5nSGpjTDFMY09iZ1Jrc1ZxeVF5QmJUYUprLVYyTkR2NGFvYW9CRmJiMHNCa3M2SENyQmwtTEZOVzlrd0JQSFhrVGtSVS1faHRQaDZKSkt1cEpjXy1CV0Y1d21QY1BSbXREVzBmNWU1RGduTXhGRG1HWXVtcmhLd2dRS28?oc=5
 
-- China Keeps Up Suspense Over Xi's India Visit 48 Hours Ahead Of BRICS Summit - NDTV
-  China Keeps Up Suspense Over Xi's India Visit 48
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUh3alBWTXp3eHNnTUFuS3NBZFQyNmtocFJwZUwxVkRGUmEtZFppREoyQ3paY29kLTZCeTFjSHI1YmI0MkRuZjV0Q2FqMGdxLW9JdDRaOFozOGtHM01iWWc0ODFjcXFzM0NieDVMalN5eE5zazZyZzNfanNuRTMyLTg4QklxLU5RX05QOUg3R2NiZE1RbVVnN3o1Tzd6QUdSa0FkVENiZ2E0VVIzR3hva09kQktMeFHSAb8BQVVfeXFMT2ZwVXltU0x4MGh3UlRPb0hkS0stdXZyUF9TZm9xdU5VQWdOc2ludHo5V0hVVDlQZXV6X3F1Q3hGOHZUR3Z0Mnk2RU5EQzdjeWtsRVk5ZDlETG9NM05Vcl9TM1dBbFA1UjlwbGctVWZXLXpXcVcyV1Z0bm9CUzZWQlZ3ZHZyUmVRT1dmLUs4MlFpMGwwd25OeGpLdzl2ZXBtSzcwLXdvZElwU2FVazdzWUQyVXo3ZmdrRU5GZi01RWM?oc=5
+- Nitin Gadkari ‘ashamed’, says will skip Mumbai-Goa highway opening - The Indian Express
+  Nitin Gadkari ‘ashamed
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGN5MVNNd29FMVl4a2JUS0N1XzcwVGJyQnNYbWhPOWNvT24zajNNb08zRTZ4b3E4TDBPWG11Q19MZzNBOFktWWlBS2dadWZRMHRCM254ZzVMSVBPcjJmV0Y2Y1pMNGlZUXAzSEVDQzY5RGNxaDN5ckhEWmU5TnNINkF1TWVETWRtSk5Yc3BhaXd2WldNVEVKSnoyX3Z2eGZxX3JhbkVBWjA3ZGZJbUtXbEFjUElUWTRuVFRYV21UQmlUdEZiTDVN0gHOAUFVX3lxTE01Y2JEM1FXelVydHp1ZjNieGtydVUzTlFCMk9pTXVkc1UxcTZ2anFQaEg4dWRMQjBpYWRLbEd4NkY3S0JnOV9qM3hIX3hkNlFWMEo4NGhtVlJHcFJPdFg3MkFUMjRDX0V2Z1Q2VUUtWEdqYThfM3hWZHNRVDFILTNPUldwdzhWTlNEVkd6WUwtaGp4SFJ1LTE0NC1uWEhBM0RoaGd0M1pJcU5OZWluaC1UbTVyalRwWjQ3NzM1ZVpVSXpobnJvSHFEeEFpYVR3?oc=5
 
 - China Ends Suspense, Xi Jinping To Visit India For BRICS Summit - NDTV
   China Ends Suspense, Xi Jinping To Visit
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGhLYjI0X0lhZTh6RHpQVTJqU3lwUDdIS25KZUUtTVdOSXM1T2FQQXJxNWRHN2dqejdITVgxdVRNNzFMaDBpMHo1cFdTdXNhQmVaSGl0QjBoQnJZWUR2Nnp2RGN1VFR1OTBNODYzWm00YWs2cmp0STdIckJ6RFg1NjFpcjZzcDlQZkpoaWVKTnpQQ1BLdWRfXzhTeW5OcU9xVW1mUlJhak85Q2RMdTFJ0gG3AUFVX3lxTE9JazFVZEFZUXB2UTc0c2dpNzYyOWlZNGx5NGFOOUdmcFFCcVA5ajNPRlN2NlVvQTV1R1N3SXZkUXZCRmZIN203eGNhcjRMLXZGYnY2NlNzRWVnd2JwZ2I3SEVHUFZ3Xzk5cXl2WGpmRGNrNVZob2dmQllEa0ZlVmtWMzluZmFEVXh0UWgzbVBpUWhtSUE5VHQwMUszbmZacG1JYjFGczFxMWl1aUpSRkdaa0ZjdGxoVQ?oc=5
 
-- Make govt sites user-friendly, PM Modi tells mantris - The Times of India
-  The Times of India reported that PM Modi
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUlQeEJQZDhXNVk2LWk1dXh4UER5RkNnZzB0VUUtbHc2cHlCa3ZwXy1JZ1N3YXBPNm9Ba3RkbVBLeURiaW9qVFpSc0hTQXJkam5wZ1NqdDhXUlZueVRodXd1YmVTdDFUNElkZTdEeGZScTRIcjhvNVVFZVprMGVWREVJOEF0VkQxWHRxVUtORkhfeVBtTUlpQ3lLaTdNUlBWRnFMUmJyR3ZBVWZzUnNUVnRqR291Rm5UMHFz0gHAAUFVX3lxTE9wTlI3Rm0zZTl0bUJYOXllNmdxRDZSVzFKSW5GSWJ1MHYxMGdXeWlON0FpT0lqdThxS0dKeGJRakpZX09sQ2t5cktqX19YM3Zxa202WWVlOUt3VkpNa2xYa0ZabnQ0Q0NxVktPNTJIZlNKX3hTT2U1WnY2Zm0zSXZqcEhuTHE3YTBDZWpzdXlzSDNrNEx2UFJNQklXZUpQQU1LSWw1a0V1T1B1OGhXTExIV0lSWDc2Wkl6YzlFQXA2eA?oc=5
+- China confirms Xi Jinping's India visit for Brics summit on September 12-13, first trip in 7 years - The Times of India
+  China confirms Xi Jinping's India visit for Brics summit on September 12-13. First
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNTRCRXNyMUkzNmlyNFhjT3k4dFZrOWhUbXZJYkdxejRwYU1jNFVkaWRNbVlWNHB1LUVnT0ZyUVNLTmxfMVpmZ1g5bVVBdjB3Q3NVb1J6SXM1aVBHeHlXbGlVcmNRbXVCTGZmeENrVldkT2RuNWpyR1FCWkxXNzlmbWtLT1lEV2hyRXdpR3B4cmo0NUhOZktrV2Q0SUtscHJ6WTU3SjRPSnVacFVRdG4zTEdqQUVhLUk4REJVQ2pKQ0M2Zm1fbU5NcFd2d1ZUT1NsQ2pLTE9nZGExalRuZF9xa0U4YXV6YjlocTQzaGtERzNkdUw5NXg00gH8AUFVX3lxTFAxUlBxWTlzMTdkblZIcG4zajlZZnBhRlFRaV9iTEZFUDhrbE9wMVAwQkR2STNSaXpMUXNhRWRqdlM4LTRfT0xXUE1HdUFMUGItNkZVZ3ZncGx6cS1maEFqUWxFS3k1WGgwZnJ4dm40QmVPaWV6emg4MlktZHJDbXFBUGdTdXFaQ3hIbDJ3ZVNRUkVEeFFSdW1sMjVXSVQxODNfVE9PSF9seDY2OXhlWlJiek1QaUd4aUZzZE9MbHFTRU4xM1F1aEczS0pBb2JfRExTUGtrZm9aaEtsdjk2NUx0YWpaMXFEMWtWUFZ6M1drTEZvMUtrWUFxRzRyag?oc=5
 
-- Before PM Modi's Event, Fake PMO Official, Man With Gun Detained In Mumbai - NDTV
-  Before PM Modi's Event, Fake PMO Official,
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0RQMDN2czlIMGJhMXhjajhyY0x3ei1pVlhwYnRYVnZhaGhrTF9wQlFpQTRLU1g0YkFXMURTYjQybkdGaHNUNk5BbnQ1UjhXeDNVc0JMX09tSnlmaXpmSmJjYnA4TjlzbFdEU2d1aHhpaDlxbU51bWtIdnYxckp2SFNfZm4xVE14clRrVE50cjFqWC1CSHFKalV2bjRXcnVOQTZpNNIBrAFBVV95cUxQc3RmbTExLXl6WThHSEJWUDZDSkJZeDVCWVdnQVU0TlhySzhRdXlORHJMR0RpVW9rOUlXRjNHMzZtNjZlc2V3Wm5vMFVkai0yM3J5cEIxTEtTcXdKczI5RnVQWW9VQnhobVk2a3ctbkZmY1phYUd2MnFuN1ctY0lhTldVSVJBV3hNYmpseG9kaUtDXzRLdHlLX2JWM255R3JjZi1NRVYzbFd0bzMt?oc=5
+- China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda - The Hindu
+  China confirms Xi to visit India after 7 year gap; trade,
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMnVULXF4dDRFUkFlNnRGbkdnT280MGp1YTU5MThDaW1IbnNGUExxSkRBZTZqb203UlZZTTZZbXJFUjFibXJvbzZTMGNKU0ZMOHlOd0Q3SXgtdnJ3ZEpvOWRCWlNmMkdKQjdhZzdOVU9PMnhsZm1IQ0NCRldiU2ctLTlmbGxMV05CVnowNUh1OVR1RXR5MDFKaUNpZldmR2p3ajFqRnlwRm80Q2ptVHh6blNWME9fV1c1SjJIQnc1WnFXMzE0dzJ5TUFaTldLTXd4RTJfT9IB2wFBVV95cUxOSTJZLVlWRHFRQi00cUg0VVBRUkIxOUFoNnJVQ3BtS21QT0RRUHFhTGszSC1XMXVKaUZ6X3dfU2NOV0ZhQ3VBczJyS0daMnd6X2ZCajIyOFJyNy1yMXI4WENLXzBCZk0xOWU4dzNrUWVFVHhKMUZmbnpCVC1vTHRNazBnYWZ0NlY5VldoSEsyV05SZzBrZ3pEZXowS3pTN1UxaDJNU29jcWFYM3dCSlFYVWVhRERjRk03SHBfOHZDckRwNHFLbHhNd1RDUEhCNFFrc0F3V2hJOExaRkE?oc=5
+
+- Bhoti language push: Ladakh delegation submits resolution to chief secretary - The Times of India
+  Bhoti language push: Ladakh delegation submits
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR05zeERaT3VRZVZiRjFaM1UtZjVPbzc4Ynl5R0pmb0Z4WndOekZyaUNtVFFXSnFSN3R1ZWZnLUt5bG5OR0RvOE5zVjczZElUaVpRWXMtQWE5NlVoVjU2VTJqT2I3SjlkNkpKa2JwOEpzQ1lrTk9zeEZsVl9vZzg2S1BRSTY2S0xtT281STdZMkwwWDR0dGJnbnRxUlFoTklqcEVfR2hOc0tMcG5YOGFpRDh5MjBqMnNHOGRGcnpiZG1ya2ZPYWhwZ0c0Y0JkLW5VYlN4eF9xcTNWSlnSAeABQVVfeXFMTU9pXzJrVUoyWXdZRWV3Y3czcWNpb21nMzVUYW9OeDlLb09CZWM5UjZFUWtXX2V1WnFrNzNVUVBNeEQ2QlZoR3NQYktjNXNOWmN4X0UwUjJsS2ZHbkYzejU1eHU5LU5nSGpjTDFMY09iZ1Jrc1ZxeVF5QmJUYUprLVYyTkR2NGFvYW9CRmJiMHNCa3M2SENyQmwtTEZOVzlrd0JQSFhrVGtSVS1faHRQaDZKSkt1cEpjXy1CV0Y1d21QY1BSbXREVzBmNWU1RGduTXhGRG1HWXVtcmhLd2dRS28?oc=5
+
+- Nitin Gadkari ‘ashamed’, says will skip Mumbai-Goa highway opening - The Indian Express
+  Nitin Gadkari ‘ashamed
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGN5MVNNd29FMVl4a2JUS0N1XzcwVGJyQnNYbWhPOWNvT24zajNNb08zRTZ4b3E4TDBPWG11Q19MZzNBOFktWWlBS2dadWZRMHRCM254ZzVMSVBPcjJmV0Y2Y1pMNGlZUXAzSEVDQzY5RGNxaDN5ckhEWmU5TnNINkF1TWVETWRtSk5Yc3BhaXd2WldNVEVKSnoyX3Z2eGZxX3JhbkVBWjA3ZGZJbUtXbEFjUElUWTRuVFRYV21UQmlUdEZiTDVN0gHOAUFVX3lxTE01Y2JEM1FXelVydHp1ZjNieGtydVUzTlFCMk9pTXVkc1UxcTZ2anFQaEg4dWRMQjBpYWRLbEd4NkY3S0JnOV9qM3hIX3hkNlFWMEo4NGhtVlJHcFJPdFg3MkFUMjRDX0V2Z1Q2VUUtWEdqYThfM3hWZHNRVDFILTNPUldwdzhWTlNEVkd6WUwtaGp4SFJ1LTE0NC1uWEhBM0RoaGd0M1pJcU5OZWluaC1UbTVyalRwWjQ3NzM1ZVpVSXpobnJvSHFEeEFpYVR3?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-10 10:29:02 UTC_
+_Last updated: 2026-09-10 15:46:09 UTC_
