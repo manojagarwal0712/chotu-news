@@ -1,5 +1,37 @@
 # 📰 Daily News Summaries
 
+- Apple Watch’s new AI features are normalizing the idea that technology is always listening - TechCrunch
+  Apple Watch’s new AI features are normalizing the
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNkR3SzVtSXFOcEpOMmwtTHlrTEpJdTB2d0pNY3JVY0dKUVp1R21rMmg0eU4yak5yM1lZTGVvazJzbl9Da3Z6VWl2Y1ZvN2hOaDI3NTQ1VFNIN2d4NWh3SjF3QlVGWnA0WUZMUXJuYk5KMjlLcTdBQXFSV3JPeEliUXhpeXk3WFkzWnJLdVd5V0tvUmlDWnotZFBYb1Fnb0p2XzljWGFXRmREREVUM0hMYk5SbkEwV2t6SFpKeWl6VXJ1QQ?oc=5
+
+- “We proved there are no sacred cows in technology”: Island founder says the company can be worth tens of billions - calcalistech.com
+  “We proved there are no sacred cows in technology”: Island founder says the
+  🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBqVUE4RlphNGtxODNoc2J3d0tqOU1SNWJWYXVTV1htVmIwRm5nYVgzVUxHdl95RXZha2U0MkdXUFEwSElMX1pYSFZPQmx2Qm5xVVJyV1VySTc1OHdNRnpsM1RMLTJXRnkzOFE?oc=5
+
+- New technology may bring more 9/11 victims' families closure - BBC
+  New technology may bring more 9/
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDWndKVUM0V3pFWHI0WnppZ2VtZ2FkREpTejBWNnRuS09Bd1FQUUxLSXVSRjRpTm41QzRIUkppMk9IM3o5Wk9ZOGpBbUlmTjM3Z1FiQXFQRHotQQ?oc=5
+
+- ZPC Selects Lummus Technology for World's Largest PDH Unit - PR Newswire
+  ZPC Selects Lummus Technology
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPdkVqTDlVTkowRVY4V2ZlTDA3c0NORHFQMmQ4Njducm9VS1E5Ym9jZ3lSUndIRnpDUFRDZkV1VVZ0WlQ4MnFQclZGOW5HaVZ5bVJLLWpvRWJiX0ZZc19zX1JieC1Bd2cyNmswV0RfTGl3aXFMRjF3a3locmRfUExldHNCUnRxb05DWjlYdEktZmZ0aExfS0NkMUpVVWp5VktaWk5BcS0tM3RkWjREV0cyTjAxQQ?oc=5
+
+- MSD Opens 2.5 Lakh Sq Ft Technology Centre in Hyderabad as Telangana Pushes Life Sciences Beyond Manufacturing - analyticsindiamag.com
+  MSD Opens 2.5 Lakh Sq Ft Technology Centre in
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxORW1odHJTSzJEdDdlUEVqNFhpMWdQNlIyRW14M2pMX2NRakVZUjJtWEdFZFlKcW4tSnVEaG9rQ0ZEdGtqOUYzLUR4STRYaHQyTGtQZzBiSnpHbUN5cDk1d3Z5eDBFMU5uQnF5RW5TeHZ6TDZhV3hzMkQxcC1mREhaSDhRYzZFT0VyU0dkejlRS3VDM3BDQ2lWMGVGLXIwdnBQS0REOGpuNTN3ZEF5UFRzN1BqVDBnTklwd2xoMnA2MUlXeFdfVEdrS2c0ektjWUdLdEk0djdWVXZsa2lJbmtVTw?oc=5
+
+- Ceat bets on dual-brand strategy after acquiring Camso
+  Ceat aims to target customers who purchase tyres across categories and cross-sell its and Camso's products.
+  🔗 https://www.livemint.com/companies/news/ceat-tyres-dual-brand-strategy-camso-acquisition-arnab-banerjee-11789036742497.html
+
+- Where there’s a will, there’s a whey: HUL bets Horlicks can catch up in protein race
+  HUL is expanding Horlicks beyond its traditional children’s base into adult lifestyle nutrition. The company is leveraging brand trust and mass pricing to tap India's underpen
+  🔗 https://www.livemint.com/companies/news/horlicks-protein-shake-hindustan-unilever-11789040422266.html
+
+- Experts call for intense evaluation of boards as Coforge chairman exits under a cloud
+  Bhatt's resignation from Coforge has put the spotlight on India's board practices. The Sebi-mandated exercise is often a formality rather than a rigorous assessment. Some advisory firms
+  🔗 https://www.livemint.com/companies/news/coforge-chairman-op-bhatt-resignation-corporate-governance-in-india-11789026227593.html
+
 - NSE Downsizes India IPO, Showing Mounting Valuation Concern
   National Stock Exchange of India Ltd. has downsized its initial public offering. The move is a sign of rising concern over the willingness of investors to buy into the deal.
   🔗 https://www.livemint.com/companies/nse-downsizes-india-ipo-showing-mounting-valuation-concern-11789065021652.html
@@ -8,97 +40,89 @@
   Kothari, who has spent nearly 30 years
   🔗 https://www.livemint.com/companies/news/kotak-mahindra-bank-s-head-of-commercial-banking-manish-kothari-quits-11789056768699.html
 
-- International flights from Navi Mumbai gets a fee waiver boost
-  An airline already flying to Dubai from CSMIA can now launch Navi Mumbai-Dubai flights and still qualify for the
-  🔗 https://www.livemint.com/companies/news/international-flights-from-navi-mumbai-gets-a-fee-waiver-boost-11789049550324.html
+- Elevated food inflation means upside risks loom for FY27 inflation projections: IDFC First Bank’s Sen Gupta
+   weak monsoon, driven by strong El Niño conditions, has left reservoir levels below average and kharif sowing slightly behind.
+  🔗 https://www.livemint.com/market/mark-to-market/elevated-food-inflation-means-upside-risks-loom-for-inflation-projections-idfc-first-bank-s-sen-gupta-11789032797253.html
 
-- Adyen steps up India expansion after licence approval, plans to grow local team
-  Adyen plans to expand its local product, commercial and operations teams as it targets Indian
-  🔗 https://www.livemint.com/companies/news/adyen-steps-up-india-expansion-after-licence-approval-plans-to-grow-local-team-11789038518286.html
+- Breakout stocks to buy: Sumeet Bagadia recommends five shares to buy today —11 September 2026
+  Blue Star, Redington, Manappuram Finance, Clean Science and Technology, and Atul
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-sumeet-bagadia-recommends-five-shares-to-buy-today-11-september-2026-11789055863643.html
 
-- HDFC Bank wins all seven Bahrain cases over Credit Suisse AT1 bonds
-  HDFC Bank said the Bahrain court found that the investors had failed to provide sufficient admissible evidence.
-  🔗 https://www.livemint.com/companies/news/hdfc-bank-wins-all-seven-bahrain-cases-over-credit-suisse-at1-bonds-11789043137629.html
+- Nifty halts losing streak; Is a short-term reversal possible?
+  On the daily chart, the index formed a green candle with a long lower shadow, suggesting
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-halts-losing-streak-is-a-short-term-reversal-possible-11789056903100.html
 
-- Is copper a new gold? Experts unveil this strategy to make money
-  Strong demand and tariff speculation keep copper at the forefront. Concerns over rising manufacturing costs amid the impending US midterm elections.
-  🔗 https://www.livemint.com/market/stock-market-news/is-copper-a-new-gold-experts-unveil-this-strategy-to-make-money-11789059703371.html
+- How Asian markets, crude will impact Sensex, Nifty 50: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India
+  The Indian stock market is expected to open lower on 11 September 2026. Investor sentiment remains cautious following recent global market declines and geopolitical tensions.
+  🔗 https://www.livemint.com/market/stock-market-news/how-asian-markets-crude-will-impact-sensex-nifty-50-what-gift-nifty-nikkei-kospi-taiwan-index-signals-for-india-11789089499149.html
 
-- SEBI says closing auction session is here to stay: What it means for stock market investors
-  SEBI will maintain the closing auction session (CAS) but is reworking its settlement price determination for derivatives. Chairman Tuhin Kanta Pandey noted that
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-says-closing-auction-session-is-here-to-stay-what-it-means-for-stock-market-investors-11789056505925.html
+- NSE IPO: Price band set at  ₹1,700-1,785 per share; check key dates, issue details
+  NSE IPO price band has been set at  ₹1,700 to  ⁹1,.785 per share. subscriptions opening on 17 September and closing on 21 September. Anchor
+  🔗 https://www.livemint.com/market/ipo/nse-ipo-price-band-set-at-rs-1-700-1-785-per-share-check-key-dates-issue-details-11789087370238.html
 
-- Oracle shares fall over 3% ahead of earnings as AI spending in focus
-  Wall Street analysts forecast robust quarterly growth for Oracle. It is expected to report an approximately 30% increase in earnings per share for its
-  🔗 https://www.livemint.com/market/stock-market-news/oracle-shares-fall-over-3-ahead-of-earnings-as-ai-spending-in-focus-11789055560625.html
+- The iPhone Duo is a Gen-Z dream, even at $2,000
+  The iPhone Duo has some game-changing features on that front. The phone
+  🔗 https://www.livemint.com/technology/the-iphone-duo-is-a-gen-z-dream-even-at-2000-11789088185979.html
 
-- Why are big chip stocks under pressure? SK Hynix, AMD, Intel, Nvidia fall up to 6.5%; is the AI rally losing steam?
-  SK Hynix, Micron, and AMD faced declines of up to 6% on September 10. Escalated tensions in West Asia and a surprising increase in August's Producer Price
-  🔗 https://www.livemint.com/market/stock-market-news/why-are-big-chip-stocks-under-pressure-sk-hynix-amd-intel-nvidia-fall-up-to-6-5-is-the-ai-rally-losing-steam-11789050327575.html
+- Analysis-Apple’s foldable iPhone poses a $1,999 question: Who is it for?
+  Apple’s foldable
+  🔗 https://www.livemint.com/technology/analysisapples-foldable-iphone-poses-a-1-999-question-who-is-it-for-11789083661209.html
 
-- India’s CAS liquidity concerns not unique, says Sebi chief
-  Sebi chief pointed to other markets
-  🔗 https://www.livemint.com/market/stock-market-news/indias-cas-liquidity-concerns-not-unique-says-sebi-chief-11789044778671.html
+- Anthropic says it blocked misuse of its AI that could have supported biological weapons
+  Anthropic says it blocked misuse of its
+  🔗 https://www.livemint.com/technology/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons-11789073499236.html
 
-- GTA 6 limited edition PS5 controller: Where to buy, price and pre-order details ahead of 19 November release
-  The DualSense controllers will launch on November 19. Pre-orders start September 10, with limited availability.
-  🔗 https://www.livemint.com/technology/gta-6-limited-edition-ps5-controller-where-to-buy-price-and-pre-order-details-ahead-of-19-november-release-11789060860418.html
+- California governor signs laws aimed at protecting kids from risks of social media, AI chatbots
+  California governor signs laws aimed at protecting kids from risks
+  🔗 https://www.livemint.com/technology/california-governor-signs-laws-aimed-at-protecting-kids-from-risks-of-social-media-ai-chatbots-11789073069003.html
 
-- iPhone 17 prices raised: Why are older models' prices increasing; how will it affect future buyers? Explained
-  Apple has increased prices for several iPhone models in India following the launch of the iPhone 18 Pro. The iPhone 17’s price rose to   ₹99,900 and other models
-  🔗 https://www.livemint.com/technology/iphone-17-prices-raised-why-are-older-models-prices-increasing-how-will-it-affect-future-buyers-explained-11789055304344.html
+- Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models
+  Anthropic disrupts
+  🔗 https://www.livemint.com/technology/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-11789071905671.html
 
-- Throwback to how Steve Jobs introduced the 1st iPhone in 2007 as Ternus' iPhone Duo becomes Apple's biggest design leap
-  Steve Jobs introduced the original iPhone in a keynote that became one of technology's finest moments. John Ternus unveiled Apple's
-  🔗 https://www.livemint.com/technology/throwback-to-how-steve-jobs-introduced-the-1st-iphone-in-2007-as-ternus-iphone-duo-becomes-apples-biggest-design-leap-11789053541845.html
-
-- What gaming tech firm ARC raised in pre-seed funding led by Chimera VC, MIXI Global Investments
-  ARC X1 is a portable console powered by its proprietary OWL OS. It is targeting white-label gaming hardware with an in-house stack.
-  🔗 https://www.livemint.com/technology/what-gaming-tech-firm-arc-raised-in-pre-seed-funding-led-by-chimera-vc-mixi-global-investments-11789041546622.html
-
-- Samsung claims Galaxy Z Fold 8 as world's lightest fold but how it compares with Apple Duo — find out
-  Samsung claims the Galaxy Z Fold 8 is the world’s lightest book-style foldable at 201 grams. Apple’
-  🔗 https://www.livemint.com/technology/samsung-claims-galaxy-z-fold-8-as-worlds-lightest-fold-but-how-it-compares-with-apple-duo-find-out-11789037462080.html
-
-- Stocks retreat as U.S. oil prices top $100, threatening economy: Live updates - CNBC
-  U.S. oil prices top $100, threatening economy: Live updates. Dow, Nasdaq Open Lower; Bond Yields Jump as Oil Prices Climb.
+- Dow tumbles 300 points to notch 4-day drop as Treasury yields and oil prices surge - CNBC
+  U.S. Indexes Extend Losing Streak; Oil Prices, Treasury Yields Surge. Dow tumbles 300 points to notch 4-day drop.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1nZjEwdFhFYzdKY2ppVDA2ZzU3OGl1S2c0Vl83ZWYwOURBU2ppWEQzQWk2ZVVMZmRVRG9OQnJlSFYzWEtkZC1YQ2R1Q0RIdFpJb0tlWmVST3Y2VUpIQ3BScXY3Mnl3YTdhTl9RVXpVcjNWaFI5TE5B0gF8QVVfeXFMUGMwZzI5N1JJSFVENkNxY19DWE5aUm9RMHlldVl5MzJ5RnppUkozclVyOUlETUNveDZMd3RZbHBucG9LN3FTdUlhejBxM1c2R3R6ZE9tUTZlSkdfQnUyZjlaczh2OEt3MUZWVzdoZGFRaXgyZDhLX0lSUld1eQ?oc=5
 
-- Markets live: US Treasury yields rise to session highs after Scott Bessent’s buyback operation undershoots target - Financial Times
-  Markets live: US Treasury yields rise to session highs after Scott Bess
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUt4STZLajFRZnctWWZIWnM5MnlmTC0tRW52eWFtWHhUcnNnMkxKWm5sSkhvaHkyRjd4VC03ZUtPRDNYRzFMY3RodUxXSUR5aFFjMUQ3bjlFMjhTbTFFRW9nMkIwMTRlemtiWExPWW94Ti1mT2tyRTJGNDY1Z0tHUjVqV0Y?oc=5
+- Stock Market News, Sept. 10, 2026: Bond Yields Jump as Oil Climbs - WSJ
+  The WSJ published a story on bond yields on
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2dUYUJhakx0Z1hEUkZHcVRrV0Z0bTVSZTlJaUdZS1hCeDExelZHUVZ4N0hkYkl3Z0hvVVpGLTJRV2pqT19XZTIwQ0dSdl9lRDY3TkY5NmNPcXdkZHhBR0hTVHBfVklZZVlYekltSk93TURSQXc4QVlEcE42NHlTUkIxdnd0R28?oc=5
 
-- Markets dip as oil and bond yields climb - BBC
-  Markets dip as oil and
-  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5RXFqbWx0RmdLaGZwRUJGQURtR2dSVjdpVWpkSUNyVUtUaGZseDF4RWVjZmNSbnRaWldrQUVMaG40M1J6ZUtCZDh5ODJneE12cVRyb3lUQjg?oc=5
+- First Tick: Top global cues to watch in today's trade - Moneycontrol.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQNEFLNzVnMndhSGk0MUMzYllCRkI3NVZMZDQ4U01FVEt3bkNvOFhQMFQ0WjNDUEFzTDNlZ0hDbDR3cVJCRnBiUzRLYmpzTlhnM0hJS25sM2JDbkh1R1pjeVJhSEVvNmxjb2hramJ1SUszSU5MRHRMeVhyMU1TYlh3ellxQ1U3VmxfZV9iRVQ4dlVIMlpIdEhsa3ozU1Z3M0tWMGJWSUlaZzRuSmpoOW1ZNHBlcGhhZUM3bzdrOENn?oc=5
 
-- Takaichi Sanae's big-spending plans are unnerving markets - The Economist
-  Takaichi Sanae's
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlp2bkZ1V2NWRVR4RTRud1g5TmRhQ0VsdzNyR0wwVXRYTG1ta0tCWWNlMmdCdzdaT3YxRTNoaGY0aHoxZjQ4MWtRUUg1bG5pNGRsMnJtS2QzMEdBOVo5VG1PY0Y0OV81YkRMTWExNVpVZEUtOTBTMERXcS14S0t4S1VhZnczLU9RTFdIY3pXMm9LSVNLQXc5LWwtWmVpZTA?oc=5
+- Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot - CNBC
+  Chinese Nvidia rival Enflame soars 206% on stock market debut
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3NRZnFyUlUzaHZKaEZCV19MVjJ6U0tHRnh3eXc1NzBTRWk0U3VYOEZrSlJLaWdxdWRaaFh1MXVpbjRzb3lKNzBtY0NrQ3ZabmxKNXdWVHJaeW5Pb1ZHemIyTmtwQ2RxMTBWRXVfUjBxZjhoRzNWSjFtWDlPYUpTNFZRVlBEZF9YOWdXdEdzMETSAZYBQVVfeXFMT2gyeDQ0M2xEdTM5MFh5MHdoYUd6elJxSUxVYTdQaGtpdkgxelRnRUpCYTczQzN3dDRHc0kzaHBDdnNJTGdCOXk4eXlhOWdBbHgzVjFfRF9Nc19pblI3MnZmOVBqUmRIMlNET3R1SGUwaUl2Y3hnVi1RdmcxLU1GbUNzdDdJeF9fdXZVcnBkTkJpazB0XzlB?oc=5
 
-- Markets rebound after three-day decline; Sensex gains on buying in HDFC, Axis Bank - The Hindu
-  Markets rebound after three-day decline; Sensex gains
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa3FGNzhDV3JMMFdOay0xc08tTTc4Y09vTFZ3MjNaWXplN1llTmFhMGR2NFRjSFJOZklLQzFXRkZMa0Q0SzFVWWtjNGhtOFZsYmpWNE1aQ0xaX2JfRTJzMXZWcnNxeFN4TFpnMm1DaWNjUlBUVTZCeXhqc3BzVFRHZVpnNXNHZFM3Si1ONDBpX0FaQm80TzkyRGRyNklMTWFRc3lXY2phZnIxRG9ITTRLc2M4X3U2UFY3NXdKVkN6eTdhM0xzNEZ6Um95dVV3V1c2LWR6bGk4ZnZod9IB4AFBVV95cUxQbnVNWnlwYzlnVGlFRVNseDF1dUFHcUFRUlM0LVpFY09BWW9OZUNZZkdRRkxpOW9iN2FLbHJsUXlhb0FRWDk2WEtYTURmM3VhQVZCak1Lb1hPVmpmV2lpSWVuRGctOTlaVktseTU0UWNscm03TVRIcVNUWWJxNjQzZVoxNGd0WTRSRG1HZVdjd051ZkNkaU81Sjkwd014REJ6UnBjcnpMZWFpQnNXUFJrZE94bXVKaFh2M2NlUU1JZGR0bVlDRWVSUDFVTVB6blYwNmp5MHdNQzNpQmV5cGdBQw?oc=5
+- Dollar rises, euro slips after ECB rate increase - Reuters
+  The dollar rose against the
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOYU50UmRVNmIyeFBOSmd6azlDeDMxNlh1S0cycHpnYjU4NERYWjhoN2diSmthTngzdWZScmFTdldrTGtUcTh3SDFKbVIySmU2TUx3cnMtOEdKMnFkV3J1d3pYRmdvZDVWb2VPSXNjcG52cEVPTGtLNF9UT1BFSnJ3WlUzOXNuU1FwZmNSdGVTdV9Na1h6M3dPVGVtU0ttYlBlRWc0S1Q0Rl9HSmVCNlZaZXhjMVc0OUduMk1mOGRqVkxjY0d2SGhRbWJsUQ?oc=5
 
-- US bond yields climb to multi-year highs as oil surge revives bets on higher Fed rates
-  US Treasury yields hit multiyear highs as a sharp rise in oil prices revived inflation concerns. The 10-year yield approached 5%, while rising government debt supply and fiscal worries added pressure.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bond-yields-climb-as-oil-surge-revives-bets-on-higher-fed-rates/articleshow/134023668.cms
+- Positive Breakout: These 6 stocks cross above their 200 DMAs
+  As long as a stock's price remains above its 200-day moving average on the daily timeframe, it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-stocks-cross-above-their-200-dmas/slideshow/134040748.cms
 
-- Oil surges 5%, Brent and US crude both over $100 on more tanker attacks
-  Brent hit $106.60 while WTI crossed $100. Rising Chinese demand and tighter OPEC output are adding to market pressure.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-5-brent-and-us-crude-both-over-100-on-more-tanker-attacks/articleshow/134023313.cms
+- Oil Price Today (September 11): Crude oil soars 13% this week, set to close week above $100 after 4 months. What are experts saying?
+  Oil prices have surged towards $100 a barrel due to rising tensions in the Middle East. Recent attacks have threatened shipping routes. Analysts warn that if threats escalate, oil prices could spike to $120 a barrel.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-11-crude-oil-soars-13-this-week-closes-week-above-100-after-4-months-what-are-experts-saying/articleshow/134040529.cms
 
-- Hotter producer prices strengthen bets on a Fed rate hike
-  US producer prices rose, increasing rate hike expectations. Traders now price a seventy percent chance of a quarter-point increase next week. Consumer inflation data due Friday will further influence the central bank's decision.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/hotter-producer-prices-strengthen-bets-on-a-fed-rate-hike/articleshow/134020373.cms
+- Gold lingers near one-week low ahead of US CPI data
+  U.S. consumer price index data set to be unveiled later today. Speculation swirls around a potential increase in borrowing costs by the Federal Reserve in its next meeting.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-week-low-ahead-of-us-cpi-data/articleshow/134040389.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Sensex and Nifty reversed losses during the closing auction. Crude above $102, weak global cues and rising yields kept sentiment cautious. Nifty formed a hammer and stocks
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134018556.cms
+- Dollar holds gains, yen slips as Mideast energy shock deepens
+  The dollar stands firm near its weekly highs, whereas the yen is on a downward trajectory. Producer prices in the U.S. ticked up as expected, further strengthening the dollar's performance. Brent crude futures have risen past the $
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-gains-yen-slips-as-mideast-energy-shock-deepens/articleshow/134040305.cms
 
-- Will Bitcoin touch $400,000 by 2030? Coinbase CEO Brian Armstrong answers
-  Coinbase CEO Brian Armstrong predicts Bitcoin could reach $400,000 by 2030. He believes the cryptocurrency has hit its market bottom following a year-long downturn. upcoming halving events and regulatory updates are
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/will-bitcoin-touch-400000-by-2030-coinbase-ceo-brian-armstrong-answers/articleshow/134018361.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-canara-bank-vodafone-idea-share-price-11-september-2026/liveblog/134039705.cms
+
+- PhonePe Shuts Down Engineering Office In The US: Report
+  Fintech major PhonePe has reportedly shut down its engineering office in the US, winding down a four year-old team.
+  🔗 https://inc42.com/buzz/phonepe-shuts-down-engineering-office-in-the-us-report/
 
 - Govt Tightens Ecommerce Rules Ahead Of The Festive Season
   The Centre has amended the ecommerce rules to curb dark patterns on online marketplaces and quick commerce platforms.
@@ -116,29 +140,25 @@
   After a plethora of new product launches and innovation showcases on day one, the second day of the Global Fintech conference saw a number of
   🔗 https://inc42.com/buzz/gff-2026-fintech-ai-partnerships-take-the-centre-stage-on-day-2/
 
-- VinFast Plans Two India-Specific EVs In Strategic Reset: Report
-  Weeks after suspending production of select cars in India, Vietnamese EV maker VinFast is now reportedly eyeing the development of an electric car.
-  🔗 https://inc42.com/buzz/vinfast-plans-two-india-specific-evs-in-strategic-reset-report/
+- No Gains For India From BRICS, Says P Chidambaram. BJP's 'Naraaz Phupha' Jibe - NDTV
+  No Gains For India From BRICS, Says P
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHRPX0c0QkdWZmtXalFCOTJCQy1zRS1fQ0pJMy1Kb2hXZUxPc0VpdzhCUElzLWp0UVZVZGZvYk9pLWJFb0dFVUYxemxwUzZ0eFpwLWx2R1MzNWxPcEZBbTVPeVR3UXA3MDFyMzJ2NV93RnF1bTRZYjdvaEFUVE95bUlzVlRBdXVuWmtJSDBrVUMxekFkSDQxT3JnUllwcnI2UmxXdFhYclJMTWhVbnBlb3pHZ01nNXdlakd3bnZKMNIBxwFBVV95cUxPRDFsemJZMVhvNjh6cWJMVEoxTjJTR3EzcmNmZ1lMTTJJV0J5MHpHWDlmVTVLa3o1NldsbS1OdmZWdG02ejdoY0pJYjU3UkthVTBXN2FLMGN0NTdJbjVzY1QwQ2hfSk5YMWFjNWhHNEV6Q0lLUmNYdENYYXpQQ3BIeFZJQUlNenZNS0c5NUtzeXI4TC1JeHo5emw2dzNoZ1I2TlpkQ0FpazE4Z1lId1kzUlpJMXU3TGRwaDNIem5xcnNkTkZhT0ln?oc=5
 
-- China Ends Suspense, Xi Jinping To Visit India For BRICS Summit - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGhLYjI0X0lhZTh6RHpQVTJqU3lwUDdIS25KZUUtTVdOSXM1T2FQQXJxNWRHN2dqejdITVgxdVRNNzFMaDBpMHo1cFdTdXNhQmVaSGl0QjBoQnJZWUR2Nnp2RGN1VFR1OT
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGhLYjI0X0lhZTh6RHpQVTJqU3lwUDdIS25KZUUtTVdOSXM1T2FQQXJxNWRHN2dqejdITVgxdVRNNzFMaDBpMHo1cFdTdXNhQmVaSGl0QjBoQnJZWUR2Nnp2RGN1VFR1OTBNODYzWm00YWs2cmp0STdIckJ6RFg1NjFpcjZzcDlQZkpoaWVKTnpQQ1BLdWRfXzhTeW5OcU9xVW1mUlJhak85Q2RMdTFJ0gG3AUFVX3lxTE9JazFVZEFZUXB2UTc0c2dpNzYyOWlZNGx5NGFOOUdmcFFCcVA5ajNPRlN2NlVvQTV1R1N3SXZkUXZCRmZIN203eGNhcjRMLXZGYnY2NlNzRWVnd2JwZ2I3SEVHUFZ3Xzk5cXl2WGpmRGNrNVZob2dmQllEa0ZlVmtWMzluZmFEVXh0UWgzbVBpUWhtSUE5VHQwMUszbmZacG1JYjFGczFxMWl1aUpSRkdaa0ZjdGxoVQ?oc=5
+- China confirms Xi to visit India after 7 year gap; trade, normalisation on agenda - The Hindu
+  China confirms Xi to visit India after 7 year gap; trade,
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMnVULXF4dDRFUkFlNnRGbkdnT280MGp1YTU5MThDaW1IbnNGUExxSkRBZTZqb203UlZZTTZZbXJFUjFibXJvbzZTMGNKU0ZMOHlOd0Q3SXgtdnJ3ZEpvOWRCWlNmMkdKQjdhZzdOVU9PMnhsZm1IQ0NCRldiU2ctLTlmbGxMV05CVnowNUh1OVR1RXR5MDFKaUNpZldmR2p3ajFqRnlwRm80Q2ptVHh6blNWME9fV1c1SjJIQnc1WnFXMzE0dzJ5TUFaTldLTXd4RTJfT9IB2wFBVV95cUxOSTJZLVlWRHFRQi00cUg0VVBRUkIxOUFoNnJVQ3BtS21QT0RRUHFhTGszSC1XMXVKaUZ6X3dfU2NOV0ZhQ3VBczJyS0daMnd6X2ZCajIyOFJyNy1yMXI4WENLXzBCZk0xOWU4dzNrUWVFVHhKMUZmbnpCVC1vTHRNazBnYWZ0NlY5VldoSEsyV05SZzBrZ3pEZXowS3pTN1UxaDJNU29jcWFYM3dCSlFYVWVhRERjRk03SHBfOHZDckRwNHFLbHhNd1RDUEhCNFFrc0F3V2hJOExaRkE?oc=5
 
-- Centre ready to fulfil Ladakh's aspirations, asks for 'patience' - The Times of India
-  Centre ready to fulfil Ladakh's aspirations,
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQYW9raXh4bC1QZEtnOWdwTlIyWlN0d3JJeFJ4b0cweXI0WmNaVm9WRjAxT1o1OFNXMENnczhpWllMUlBPY3RVXzUwQVk1aUpIVjktc2JDWnE0VmZ3MXJDaHdsQXMycjI0dzgzRHU3ZmhzVTByNXFrODVINVN5Qnl3LWprSmN5ZmRrTGdCT25TVFlQaGVhM2NrWHFMTk1JQlhXTV9XclpXM091ZmRJY3FZMTdRS2s3MHNJb2t2M3pxWWtaZ0hHSHA00gHMAUFVX3lxTFAzakxCbDl2TXhkcGMzRGo5dkVtMG1wU2d0eXZ3dHd6OTlsb1VlLVA1M25yRkNkaWVKbXFpMTNIN29LVmZiMlk5Wk5OdE9RLURWd3cxcWpNUDRhckdwcWUxU0phMFNMYzlFWTBuUFVpRGhOYzFIZFg1SDdzQnRvSkdJelJ0WExtVzdzb3RCUENBU2lmQ0tnSV96OGNEeGF4dDZXQTU2cXM2MHNPSXg0NXFyQTZ6enQ3YXZmVzV1RlFFelRmVjVnaFVtQ1pMUw?oc=5
+- China Keeps Up Suspense Over Xi's India Visit 48 Hours Ahead Of BRICS Summit - NDTV
+  China Keeps Up Suspense Over Xi's India Visit 48
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUh3alBWTXp3eHNnTUFuS3NBZFQyNmtocFJwZUwxVkRGUmEtZFppREoyQ3paY29kLTZCeTFjSHI1YmI0MkRuZjV0Q2FqMGdxLW9JdDRaOFozOGtHM01iWWc0ODFjcXFzM0NieDVMalN5eE5zazZyZzNfanNuRTMyLTg4QklxLU5RX05QOUg3R2NiZE1RbVVnN3o1Tzd6QUdSa0FkVENiZ2E0VVIzR3hva09kQktMeFHSAb8BQVVfeXFMT2ZwVXltU0x4MGh3UlRPb0hkS0stdXZyUF9TZm9xdU5VQWdOc2ludHo5V0hVVDlQZXV6X3F1Q3hGOHZUR3Z0Mnk2RU5EQzdjeWtsRVk5ZDlETG9NM05Vcl9TM1dBbFA1UjlwbGctVWZXLXpXcVcyV1Z0bm9CUzZWQlZ3ZHZyUmVRT1dmLUs4MlFpMGwwd25OeGpLdzl2ZXBtSzcwLXdvZElwU2FVazdzWUQyVXo3ZmdrRU5GZi01RWM?oc=5
 
-- ET 40 Under 40 2026: Meet the 40 young leaders shaping India's future - The Economic Times
-  The Economic Times published an article on the 40 young leaders shaping India
-  🔗 https://news.google.com/rss/articles/CBMizwJBVV95cUxOck81ZHNGLUdvSWVpcWJ1eGcyNEgzUTRJYVRTZHFJUEdlNzFoT1lNcUdyTUc3Nzk2VEwzRnZDMEJjdVotQ0o5QUQ5Yk9JOEpTd3JyLUV5YVl1S0hZSXZZRHhJTU9ocGRYSE9NalpOR0VEbkIxbHVZMGdhTzBtTWdCOHlpTWpSamw1VkNrUFpYQzRkSmFqOEZLV2VHVmJ1aFIxTUpkcmdMZnhPN2dfZF9oWVFOLV9NZTBDV2ZNYnBaVUR3aTdQRzJGT3ZYdklGY3NKVGFDcUFCVV91ejNWMG1MQXFvSHFhS0VpMngzM1lvUmVvRUJudG9Sbm5FYVcwX0c0ajI0UGUtTFphazZnWFhsdGIzRE05akkyQ241dFhjbElvV2lsNTUtTlBKd3ZZV0xaQUh6enloSTcxRkNPeGVRUHM4MU1tanUteXBVeHA2Z9IB6wFBVV95cUxQWGRnMkVTUVI1WXMxX0oydHJoak53amV6a1dRX0pIaTBvSmd2eHdrcUpyZTR4c212RFVUQmM3TEdCdEhZUHBIZEtZSld5VTE4OWwybW44YmZGelNVSl9qbU8zTmxobkk1U19NWk56R0YwbGRZVkducGUwNmpxRW1XN0M4OTEtb2NMbDNzYzdXSFpfNUptMnhoempBT0U2OXY1V21PQ3ZKZkpEd2I4UkdUc3dJSS0zUHZ6OEdsYWZ4MlFxQWpEalZnbm1aSzdlMVJnM0RSbVJYc2JLSURQdmRPWUNFNkJvZEZTeVBn?oc=5
+- China confirms Xi Jinping's India visit for Brics summit on September 12-13, first trip in 7 years - timesofindia.indiatimes.com
+  China confirms Xi Jinping's India visit for Brics summit on September 12-
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNTRCRXNyMUkzNmlyNFhjT3k4dFZrOWhUbXZJYkdxejRwYU1jNFVkaWRNbVlWNHB1LUVnT0ZyUVNLTmxfMVpmZ1g5bVVBdjB3Q3NVb1J6SXM1aVBHeHlXbGlVcmNRbXVCTGZmeENrVldkT2RuNWpyR1FCWkxXNzlmbWtLT1lEV2hyRXdpR3B4cmo0NUhOZktrV2Q0SUtscHJ6WTU3SjRPSnVacFVRdG4zTEdqQUVhLUk4REJVQ2pKQ0M2Zm1fbU5NcFd2d1ZUT1NsQ2pLTE9nZGExalRuZF9xa0U4YXV6YjlocTQzaGtERzNkdUw5NXg00gH8AUFVX3lxTFAxUlBxWTlzMTdkblZIcG4zajlZZnBhRlFRaV9iTEZFUDhrbE9wMVAwQkR2STNSaXpMUXNhRWRqdlM4LTRfT0xXUE1HdUFMUGItNkZVZ3ZncGx6cS1maEFqUWxFS3k1WGgwZnJ4dm40QmVPaWV6emg4MlktZHJDbXFBUGdTdXFaQ3hIbDJ3ZVNRUkVEeFFSdW1sMjVXSVQxODNfVE9PSF9seDY2OXhlWlJiek1QaUd4aUZzZE9MbHFTRU4xM1F1aEczS0pBb2JfRExTUGtrZm9aaEtsdjk2NUx0YWpaMXFEMWtWUFZ6M1drTEZvMUtrWUFxRzRyag?oc=5
 
-- Nitin Gadkari ‘ashamed’, says will skip Mumbai-Goa highway opening - The Indian Express
-  Nitin Gadkari ‘ashamed
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGN5MVNNd29FMVl4a2JUS0N1XzcwVGJyQnNYbWhPOWNvT24zajNNb08zRTZ4b3E4TDBPWG11Q19MZzNBOFktWWlBS2dadWZRMHRCM254ZzVMSVBPcjJmV0Y2Y1pMNGlZUXAzSEVDQzY5RGNxaDN5ckhEWmU5TnNINkF1TWVETWRtSk5Yc3BhaXd2WldNVEVKSnoyX3Z2eGZxX3JhbkVBWjA3ZGZJbUtXbEFjUElUWTRuVFRYV21UQmlUdEZiTDVN0gHOAUFVX3lxTE01Y2JEM1FXelVydHp1ZjNieGtydVUzTlFCMk9pTXVkc1UxcTZ2anFQaEg4dWRMQjBpYWRLbEd4NkY3S0JnOV9qM3hIX3hkNlFWMEo4NGhtVlJHcFJPdFg3MkFUMjRDX0V2Z1Q2VUUtWEdqYThfM3hWZHNRVDFILTNPUldwdzhWTlNEVkd6WUwtaGp4SFJ1LTE0NC1uWEhBM0RoaGd0M1pJcU5OZWluaC1UbTVyalRwWjQ3NzM1ZVpVSXpobnJvSHFEeEFpYVR3?oc=5
-
-- Trump moves to end 60-day H-1B grace period, Indian tech workers most exposed - India Today
-  India Today: H-1B workers in India are
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV0VoZVU4ckhILTFGc0FlNjg2MGJqbkgzNEtrSXFISEgwUy1CUmZWREdyaFppU0pORS1MU2l2R2I4WXNxdE9uVE9rdDRwY0FDaFo3V1Y0ZXhzZVR2ZWFKNk1RSjVsNUxkb0dZWVRkWXF6a01jSzBoZk94bzl0dVlzdlVndGdpZXRXeko0LXFpVUlFa29oVVZKTkZ6eGNsakc4dnpmbklhREhMak1BN2pabGh6QmYtcERWN1lISklIYWhraDdKTmNtYV92c2dtZURXVE1EaWFNSUlUdjhsclRhSkZQVkI2UdIB6wFBVV95cUxQenlmZUJiME5URDl2U3BGRWtjRjhDbmhmU04taGhiZ2xsdjI0bHVLajVta083Q215U1lYd2pBMXc0UEl5NHhnZTNyVDl0bHNMM2xXTU5iTnl1aU14RFA1TVpBaFdpZDl6MmRPdXNSc1FrazJJOVdXTEdocWRhUkU0eGpXUEcyZG8tMXE0c1dpb1I0VklZaWx0SFpzN3BIcVRicVplekJSQUpia0JnR2xNT2VUNkpQWlhPczBhNk5yU1FUWXlodl84dVlrTF9WeVA4MHNwNlRZdENUNVFGWHk2RDFkbUR3cVdaWU5N?oc=5
+- Faith travels first class: India’s spiritual tourism - The Hindu
+  The Hindu reports on India's
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjEzS21FX2dJRlJacG9BQkxldDFyNnlwa1A0SjhEbk4xRWZZTjJHS2VzZ3BDRzRIeGlqQ1F1SlJMOUJBMTg2UUM2OC1Hdm1LSnRaUFRfdUlISnRVRmZSMG8xbEctQmFKaDd2WFBkOFhjNE15MXBsaE1lVF85c2xfallPTnVXTVpxbkNFTklvdmZITFdFalJfajB4Y3FVd3BkRDJTSVdyN1BoNm5weXpNRFF1dmhWRHk4ek5wY0x30gHEAUFVX3lxTE5lX1oxSVBJaHFINHhlQzFyTjZXR1N3MFdwMEs0SlF6Q013bVlEYzd3Z3hkQVk4eU5lbG81djEtbDczcTVLSzFrZTZGclBubFRSOWxhOGVMR3dZUk9fSk1PQzVKWmd5eExWY0JyYUlzaVZVRkRxYkhDVjZlMmFXNjZrZEtmMkprSUhCM0tVdW40STBWN1VOSmI3d01WRVJIbGNpXzAtY0kwWVFHbi1DMTZMano3dlA2TVZJd19uZGU1WDBGSms?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-10 20:24:19 UTC_
+_Last updated: 2026-09-11 02:37:15 UTC_
