@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- Indian landlady in Canada held after tenant’s ‘harassment’ over barbecue use | India News - Hindustan Times
-  Indian landlady in Canada held after tenant’s �
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0hSVkFwT3ZoZUtlZ3UwSTJPMmVJSXJtMm84Ym5sd3RFa3VYTTgtMzNJT283YVlIWFVUSGNOT2JsenFvUG4zLWtwZm9vUFVrd3NvTkgzMmstTE5HRzJZQmRKUVdGT1J2V250LXVOcTdhRzZuVTJsOFJIUWYzLTZsYVNMZWw4S3dCcGR3YzdaRnRLZHBCbjJRLUFZWlBmS1YzSVF5YlFHN0tuSXFuSnlXUWVoTENXT2ViMldCcXlpbEsyVkRSQjBhWDBla2gyMEZlVzBPZldoZUpiT0FfeU5QZ3JGcmRZdncxVFHSAe8BQVVfeXFMTXRlRlE4UDdCQUVwbTNoN1hCT1gtMGVObzJORTluUFl0Z0F6cXA2cXkzdDk0NGRobWtRVE9LNjNsRFVtU1hXOU9YYjVkS1U1aWw0U0RBTkoxbmNxTE1wLVlvcTNONnR2cDlyaldLY1dpQkl6TmpSLUpEbEFNSkhMRnhvakFrVUpvVDFfLUFNczFZWEpEZUZPWHZFSGZZU0RrUXU5a0c2SGVIVzZ3LXlvQ010X1Q2b1Z0MC1IekF3LVJ2M3JUVzFGM0VRM1E5N0lrVzRqUE5DTTgzakdBQk4yMGVIZmhSZjEzWWhDWjJ4cVU?oc=5
+- Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations - The Guardian
+  <ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNW
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNWFOdXl0Q1ZFWnp0RlNvVGZCYU92aFBocjJBZGY1QUZTbXpFclhpVFNqQTNxTmNvZ0dyZE5WQQ?oc=5
 
-- BRICS red carpet sparks anger in India’s capital - Al Jazeera
-  BRICS red carpet sparks anger in
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1hhRlVCSXIzaVlvTHF5VDgwNENUOFFvcmNEaGF3Y1ZVWUEyRGdaTnFTMzFkLUhNZ2tGUmF0aU5fVUtoVGtYcWRDZU1YaTJjV1ZZNWlOc0pVV3pVRGlfUlFMbGcxWWJQU2dQVkNhNFRQZjctRnR0ZEJJZGQ2VmpKVDV2VFpuMmFPM2dnNEszcEc1YnUtazgtYTMyNmdRQWPSAaQBQVVfeXFMTW4tSHdhOGhvNEVsSTllMEJWVGZHS19PRDBBNDFSdGh3U2ZKb2hFdVJPMTJuYXA3UlpuR0l3NEZUU1JRM01acjc1Y0g5amRZa1RmNG5QUTdQYWRxX1M1RmJuY3BwQkEtRThOLU5UOFFDTDhBeVdaTTh6SVE4MWt0WFlfVjVtaXNQZnFYOXR2cVNkNDQ3aWZQcGFoc0Z2c280bFpXeVU?oc=5
+- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
+  Latest News, India News, Breaking News, Business
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHBET2R1X2JfMXE1TTVZWkI0ZWw1S2ZGYy1FSklrUXhiczl3Um1NVlJNQW5jTVNDa2x6cTlzcWdwTmZ4WlZfbFVMcFNiOUthMjFsRG0yUkFNQVVaMTdyM2JjRnFBOElQX0E4NzBJem5Yazg2Uk5ORF9JSDhrNzRDUHlUVUd0Z0dPU3k2cU1PSTBieVU?oc=5
 
-- "Can Learn From Each Other's Strengths": Xi At Bilateral Meet With PM Modi - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm1pQ1hrYkZEeHI2ckxabVRKOWlTQ3RDcmtsdDd3bE1JUWMtV1l6RmVlUXAyckduR29KMmJvUWo2NVp6YzBzZ29JVWdyc2ozUUN0cHFaSDFzNmRlQ0N0NVNXVzNpTE9KWW
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm1pQ1hrYkZEeHI2ckxabVRKOWlTQ3RDcmtsdDd3bE1JUWMtV1l6RmVlUXAyckduR29KMmJvUWo2NVp6YzBzZ29JVWdyc2ozUUN0cHFaSDFzNmRlQ0N0NVNXVzNpTE9KWWI5MThEb082em5OWkVFUlZlVUMwaVRha0JXNVprX3Ruc3VUeVBSSExzcmJfSUxvTEFoTGx5bm5MUnMxS1huYkV0ajc2d0RfZtIBuAFBVV95cUxNOGtveDBCdU9VY3dWY1VYNm1LVUxiTTZXR1FJV00tSkVhZWtKMmJOcXk1SmlROVVCRlJtbk9EM0Znejdsd0ZJRVRJd3dfYXB5SWxEX2VWZmtCTjByU3B0R0tfYkdaMldWZ3FJYjRMWmw5NXZmSnNRUkpHSzBQa3E0RmEwZ3czbFpjNTZLNzh2eVlENW1zeHBxZHR4WXlyQUp1a2o0LXVZTHFEMGFyZWUwMU9wS3pnR1Y3?oc=5
+- Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace - CNBC
+  Tehran won’t surrender to the U.S., Iranian President
+  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWG1rRDBBeUJRNi1OQmszREdIeUE3YWRMWldYYVNDemVjMEpTbkR1TThTMmZLX3psemM4LTg0dTdVU3Fiakl6Z3BlNG00Xy1WQVBYYlRhSVNfXzI1dlVZaE41R0IwQWhwaXlQOGh4ZjZxb3daRFHSAXtBVV95cUxONUtpU3A1MkpLNlA3OVJOU1V4VF9PZnlVektDZ19IR2dyTnRiTXZudUJ2bllsaE55SFR5ZWZLVmxYNGhBd1o0Q0Y1TldDSjB3TzlQNUFrYXQ0QjhGQ3dnMFhDUHA0VXEyTVV4VVR1bWtGRkNvdWV4M2llVWs?oc=5
 
-- Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
-  Pilot found dead at 5-Star
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
+- PM Modi, Iran's Pezeshkian Hand-In-Hand: India's Picture Perfect Diplomacy - NDTV
+  PM Modi, Iran's Pez
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPTl9VazZWbGNjdmNaVHN3MUZERWdVcHlBOEZKeGlndXFEOEtQSF9VUXM0VUQwZGw3UmhaZFFqOWFpMHFpaUUzakVGTHQ0dVlVcmNydmxubjRvWVJNMmVkejlQWTN5am9JS0NldDlQQ2pCYjdZUEV5dE9NV0FEczBQNHNLb21XUG5peVFOOFdZbzlyTVE4cUQ1T1FVMldjNlNxRVFyckpLS3dmSXhwRG1CZHZrNTNiRHJPV2xSSUlSYXpqQmVEMzdPb21B0gHSAUFVX3lxTFA0LVZDSjA4Q0ttRTZnTF9VNkdWSE1aVDE4YlRROTFLa2pTNk5JaW1pWlYyQllCRkswSkVkaFRYTF9WNElWSDg4T3ZqTExnZEkwc1hld3pCd2VPTnlOMjQ0X0RtdnlPSmZmQmowUDJFd1pmVHZxbDg5LW9INWE5eVE2TnlnaDY0UXZEY2N1T3ZZeEZwMGp2M3pxX01lRUJBY2UtSlpqeDRFSWRNTzZvNWg0d2ZmY1FFQUZYUHBNUm9ZeHVuZmNORlcybEhlSWpPMEFfZw?oc=5
 
-- BRICS Summit 2026 LIVE updates: Modi-Xi bilateral talk concludes - The Hindu
-  The Hindu reports that the two leaders will
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENTY1WU9WS04ybjlMQlE1S1A3VTNldzJ1WmF6aER4ZUV6MEhkSm1Oc2s5bndFR3FGRF9fQnRvX1d1YjJyLUh3QmJzRy14YVpUTDFIY0pSZ0p0UE5iUXlVWGw1RDNGYk9VdEQwVzBDNFFkOXE1RDl5cmlUSXltQTY40gHmAUFVX3lxTE1qc240c01FRW5Nc0lMTko3ZDdtcjBpNEUyMFIyMjEtOXU1WktkSWtVVC00SDZad0hkLWdrd3IteUFQMFBZUHNTWExDOWNQV0g4RzZ2OTlOY2ZDbzY4LTJ2SmtrcFdpNFdYMVJWX1lkZXV1QmM3NDBzdDlybVNFQWxPMmhaanRVVDh6WnRGbXNiVTM3NDdMWDRIR2ExaTNKU2xiTE1EeDNPZktaQ1JXSDVBZDhjTXl5dk1uN0ZOaThTaTNhaWthZFFTalZFZW51VTBWbERybG80VGJDNzJTNS1Tbi05QzF3?oc=5
+- 'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off on Brics joint statement - The Times of India
+  'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNG5GbVlnVWVWYWhNR0VLMUlheVNLN3RnS1VBSUxkLWh4T1RJQmJDZWg5ZXg4OVZzd2dSNVZKeGtrTGllRlRLbmhXWWdtc1dsaER2U1o4aVBaMWhCd21JcjlpVG80aDVNTjJsR1BKTW1JNFp1LVU4VUVNNG8tUVloUUstVm1qVVRQYzloelh0VFRjeTVCNm5JemcyWWlSelZRYnVxcWVxc2U2eEYzWWNaeW1lODc5UkhjbktyNmJnaXcxajhUZmE1VGN3VTVaNi1FSndlZVJCZk5YRXV2OGtpU3hyYzZram5tbl8xX0ZTYlBodm5C0gH6AUFVX3lxTE92N3pRRzdsNU9wY2Rybjd0ZVIycnVHWDJWckFmS0ZraEMySjdYZW14ejR3WDM1eU9ET0E3d1NyTlRhSzNkN18wQnVOTHJKMGNtbTVJNExDd1djNmVTMlJUN0VkQ21McXEwTHpGSGpPOThFOEVtcmd3YWlJNElycXhFMVZneGhaUjdCamcwTDhwTzg1SHRoaEQxVnlkb3hLQmNHVTF3U25iVnBOb2JNWE5Ba3BaT0xrVTA2alNMT2VxM3pYYk5MUFVjVm1kaEd2dlZOZUFENWp3M2JxNkdVdXROTHcxcjJwc1VZNGEyVmhtbE11RWQ2VXd3amc?oc=5
 
-- Urban life rests on invisible, extraordinary technology - economist.com
-  Urban life rests on invisible
+- Urban life rests on invisible, extraordinary technology - The Economist
+  The Economist looks at how technology
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOMTRHSTBlTl92bXhzcVBJUkxfQWpQcWNvZkp4U29pb3ZJaTJyOU5IVEVNZlRIejVxTElzN2s4a3NMZFUzSzNRUGdnR05BYXlXOWlRWHpUOFl4SDVZcEJybUdabENXSHNHbWhJOWNzUFpISno4QThibG1oai04VDNUZy1XNEN1Z0xpNGg4RU1nVzk0RUNsSTYxaDF3MXFQMTNf?oc=5
 
-- Inside the Snowballing Conversations at A.I. Companies About a Doomsday - The New York Times
-  The New York Times reports on conversations at A.
+- Apple Watch’s new AI features are normalizing the idea that technology is always listening - TechCrunch
+  Apple Watch’s new AI features are normalizing the
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNkR3SzVtSXFOcEpOMmwtTHlrTEpJdTB2d0pNY3JVY0dKUVp1R21rMmg0eU4yak5yM1lZTGVvazJzbl9Da3Z6VWl2Y1ZvN2hOaDI3NTQ1VFNIN2d4NWh3SjF3QlVGWnA0WUZMUXJuYk5KMjlLcTdBQXFSV3JPeEliUXhpeXk3WFkzWnJLdVd5V0tvUmlDWnotZFBYb1Fnb0p2XzljWGFXRmREREVUM0hMYk5SbkEwV2t6SFpKeWl6VXJ1QQ?oc=5
+
+- Anthropic boss Dario Amodei calls for AI development to slow down - BBC
+  Anthropic boss Dario Amodei
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrRjBnT05YelZFQXM0ejVFa0VZUDdYWENTbHowbzJSVmxwZWFpWEw2NFh4NHpjU01Ubi1jM21FQjhfWl82Z3JsczNTQnFIVFpkOWQyTXhQVzlGZw?oc=5
+
+- Inside the Discussions at AI Companies Over a Superintelligence Doomsday - The New York Times
+  Inside the Discussions at AI Companies Over a Superintelligence
   🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5
 
-- Rochester Institute of Technology addresses U.S. visa challenges through campuses abroad - The Hindu
-  Rochester Institute of Technology addresses U.S
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGQ5ajBTSzAwY3JUZUY5eERnZXZSRkNJdmR6MzV0VW5uVjlEbkJFbmM4RkZqRFpuZnh4SWdOYVRzZ1I5cFFVOWlTU2J3RzBwb1c3cFZmWmNPSU1Lbzgxek5IS3FRZ3ZEYzdILW1Pcjh0b0ZTWnFMSjhiRG5rdmJuVVB4MFdmRG00YnVrVUdIYUtBTC1xY0xXMExkdmZoV1h5NGptTVZuZkJDS3lXdzVQQ1p3NXlJanpFeElyV0VMU1pCOWFfWW9Vek82ZXQyMnplTWxlNUJaS0vSAd8BQVVfeXFMTnVDczJEbHpFZTFxSkI1Q2RFX0NDZi14R0tBbVZLekg3YW4yTU9obUNTR00tX1ZGTnVtcUx2X0VySmlZeHpuMmtmWlozQ09zMm96XzA2cllkeHdLVjVYMUtCdWhDVGR3bkFXVVlVRUpJLUNZQjlJU1dBUnpZZmlyV29KbDNFbGtPdU95VENleF9HeUtKRDZFeDdsS004dWlFeW1oQll1bklHV2JCTWRHMWxLU2t1VUF5Q1NaRVQtcjVPLS1YWXRVWDR6Z2NDYjY5S3JzU3NWQUtLN3JhZzJMNA?oc=5
+- Anthropic CEO Dario Amodei calls on AI firms to slow pace of development, gets backing from Sam Altman & - The Times of India
+  Anthropic CEO Dario Amodei calls on AI firms to slow pace of development.
+  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxNQk40VXA3Y0UxQlZyS3VyRV9pZ0JlaDZ4RVlZa25SRm0yZWhpZmwzWnIxZEI1MGN5WjRpUS1DSUhMYWtWQzRDYndLZmNxNXM1bllySEliRksxZlptdlBpaHlhT0VDYlM1ZTA0SFViTXVzQmh2UGhYQTlZdlpXanZWa3o1N0pTTFNoLWpDOHAzbE50NnExbHNGYktmcUpfWGgzMlRwbGJnNUdSa054Ykw0YzgtV3B6aXJyZ3E3dHczZEJZc2xuRUVKYTZoRGdLN2V0RnltcWVrUjlBN3A4Q0gzbEpTcEVDcVpPWU5SWktTdk1UNEZ5UmtFYVEzdl9HdzcxUl8xTV9BcUlydXpsdWNLenFLbWE1UkZuRmwxVThn0gGjAkFVX3lxTFBkWmQtZEpYaFc5TWg3SFl3QlR3dDdKUW0ySjZvOGY0d0luN1BWeDFfdU04RU8wMkp3NFdmNUxNam15WjRUUWFqemVMdUJtSFBQWDFNUG93bW5ZVTBoMmM4OTVTYWFwS1F2T1hGNXY5R2dQaXdRMjF4dkpSMUZqUlZmcUJoNHl2MEtmNXJvNC05TVhUaUJqMHJ3WF9GMmRlR2VubThlRXJSWUJPcU9vWnhXYWF4R2VWNi01VDNrbFprZnBLSHdiVXhmZUd3Q2RzUDFBalUzT1hXNjhXM0NERDZDaDVLWWl4SmE3QWdWTnlHZllOY1VtNWdQRkJYT05XR25fUFhDMkJONHZYUng2LVd1eElsVldRUDlWS25lMXA1ZWdhRQ?oc=5
 
-- IIT Ropar, Army Air Defence College Sign MoA to Award MTech Defence Technology to Army Officers - telegraphindia.com
-  IIT Ropar, Army Air Defence College Sign MoA to
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbHNPRnBMdXdQZ1ZTMjI2bFpHUzU2NjNTYmo1Tk5FTDR2TTRrVlZudWpWQllnaUhhc0hHUF9YeHJuZmN0YWVPeXVPaExrTlNWSG1JczY0NWljT2RWRDRUUnl6cUtOTEhtUjhOaEtmVGVnQ1FxRmtQdDNvT0VRZDNSa2xxUEtrTEhTRXYySW1JT1FrMXB5cTdWSkV6UVNaUGVmel9XN1ZlbHpzTHNjak1GSWsxdUFFMEFUU0pMZlpzbWdPWWJMWDlIRG5UT3JfOVlMbmd6WFIxT19PXy1LakHSAeMBQVVfeXFMT0tFUUktd2Z2X2RTVG93QVFiUzlCNGIxTjR6OVh3UzJ4ZVlIZHJFR1pfVWJ5aklUVW1Xb0ZWakNST2xydXJqclYtYkhYV0FTeDhEUGNBMktVWEo1ZlpoUkxKUTF5TThFVDV2aE1seTg3V0RvTXpUajY5dnE1aWZQWTNkVDVuMDUyTWk2RGQyY1JJcXg1alN0VFlJanQ0eWFaMmdqZEh6Sk1YclRSaFA2M0VYN3VHSGpwd0syVjAxZUNHZXFEeW54Q2V0cGRESC1nMHZyckdSbEtTNGQ5cFFIUmVBdDA?oc=5
-
-- ‘Give each major Indian written language the chance to shine as a way of expressing new ideas, especially in science and tech’ - Down To Earth
-  ‘Give each major Indian written language the chance to shine as a way of expressing new ideas, especially in
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSWZrWXI3aUlqaExoYy00a05DWW5ySmVhdnVHMEdvMzh5VlBOWkQtb0JUN0FIeXhLWHFPck5rZVZTVnI0Y0pIc1Nsc3RYR0dzdHoyMjZpYWQ2RnNtc01hUWdoalFjZENYVnZaQ1cyRnVxdGFsempIa3Q4N2RmT3dEbWNDejIyOGpMSHVmT3g0bWpnUFgyblVEVFRNLWFjTHAza1RqeUVpQy1UdnVjNEZaaXBsdzBxa25JZ192UVNfRTVVMUhVQkw0emRxRktGdjVVWENwbFAyRXI2LUliUzhQNlBVdWp6X0luNHN1REJZZ1JfOGlKN3BhMXZR0gGHAkFVX3lxTFB6UVhwblh1YTAzSEpHS3o2bGwzTXgyQjVxUE1DcWVmTEZabHVRb3dwVV9kaDlWV095a2ZsNXR2eUFxX0tjVzI2R19LcGlZNUNVeUtOTEprYnBRQTFOc3ZtWUxuMDI4cU8tWUZBMVhYUXB2M1lQY2lINDgzWjdsdXJYLWNsUC1RWnB1VTMyaW9NenZrZlVna2k3Z1V5MjNTUUNyeldtazhTT3RCcGxTVHV4NXN2NGN0alVFQjVSWk9rdVVCUDZseGU5c1VpUE5Cd3UxRllnaG9LcjRwRUt0eVB4ZEt2N2NORnEzdndTaXV3Zjl5X1VzVWQ3RE5zdm1CUk4zSGdpdV9J?oc=5
+- From smartphone to luxury tech: Why Apple may be pushing the iPhone further upmarket
+  Apple's iPhone 18 launch skipped the standard model entirely. With the $1,999 iPhone Duo foldable and
+  🔗 https://www.livemint.com/companies/from-smartphone-to-luxury-tech-iphone-duo-iphone-18-pro-why-apple-may-be-pushing-the-iphone-further-upmarket-11789221620065.html
 
 - Who is Jimmy Tata? HDFC Bank appoints Chief Credit Officer as Executive Director for 3 years
   Jimmy Tata has been appointed as a HDFC's Whole-time Director, pending RBI approval. V Srinivasa Rangan's reappointment was also
@@ -53,12 +57,12 @@
   🔗 https://www.livemint.com/companies/news/oracle-is-betting-big-on-ai-and-debt-now-larry-ellison-could-cash-in-7-5-billion-11789216263158.html
 
 - Suspense ends! Tata Sons to go for public listing, directs RBI - Know how it will impact Shapoorji Pallonji group
-  RBI has denied Tata Sons' request to voluntarily surrender its registration as an NBFC. Tata Sons remains classified as an upper-layer NBFC due to asset size exceeding  ₹
+  RBI has denied Tata Sons' request to voluntarily surrender its NBFC registration. This requires compliance with upper
   🔗 https://www.livemint.com/companies/news/rbi-rejects-tata-sons-deregistration-bid-listing-requirement-stays-11789218797955.html
 
-- Big Tech is pouring billions into AI, but Apple is taking a different innovation bet | Can it sustain growth without AI?
-  Apple is investing $6.8 billion compared to its rivals' billions. Apple aims to leverage existing capabilities and customer base.
-  🔗 https://www.livemint.com/companies/news/big-tech-is-pouring-billions-into-ai-but-apple-is-taking-a-different-innovation-bet-can-it-sustain-growth-without-ai-11788962978252.html
+- Sebi on Closing Auction Session after review: Latest update - New CAS rules | Top 5 things; what they mean for investors
+  Sebi proposed 5 major changes to the settlement price determination for derivatives on expiry days.
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-on-closing-auction-session-after-review-latest-update-new-cas-rules-top-5-things-what-they-mean-for-investors-11789213325153.html
 
 - Energy Markets Signal Winter Crisis and Rising Interest Rates
   The surge in oil, gas and diesel prices is forcing central banks and governments to reassess the impact
@@ -76,9 +80,13 @@
   India’s markets regulator proposed sweeping changes to the closing auction system. The move was prompted by sharp price swings and liquidity concerns.
   🔗 https://www.livemint.com/market/indias-sebi-seeks-major-changes-to-unpopular-auction-system-11789203494288.html
 
-- NSE IPO: No more India’s biggest! From DRHP to RHP | Price, size to stake sale — Top 5 changes to know for investors
-  The exchange has reduced its offer from around 14.89 crore to 12,64,36,650 leading to reduction
-  🔗 https://www.livemint.com/market/ipo/nse-ipo-no-more-india-s-biggest-from-drhp-to-rhp-price-size-to-stake-sale-top-5-changes-to-know-for-investors-11789196880367.html
+- 'Must slow the pace down': Anthropic CEO Dario Amodei calls for AI industry to slow down or risk losing control
+  Amodei argues that AI could raise the quality of life but along with its advantages
+  🔗 https://www.livemint.com/technology/must-slow-the-pace-down-anthropic-ceo-dario-amodei-calls-for-ai-industry-to-slow-down-or-risk-losing-control-11789229416944.html
+
+- Anthropic CEO urges AI companies to slow model development amid fears over misuse
+  Anthropic CEO urges AI companies to
+  🔗 https://www.livemint.com/technology/anthropic-ceo-urges-ai-companies-to-slow-model-development-amid-fears-over-misuse-11789226398278.html
 
 - BRICS leaders call for wider AI access, stronger global cooperation for tech safety, risk mitigation
   BRICS leaders call for wider AI access, stronger
@@ -92,13 +100,25 @@
    PlayStation reportedly withdrew from Hideo Kojima's Physint over concerns about rising costs, missed deadlines, profitability and exclusivity
   🔗 https://www.livemint.com/technology/sony-playstation-dropped-hideo-kojimas-physint-over-budget-concerns-and-missed-deadlines-report-11789160735421.html
 
-- Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says
-  Users in Houthi-held Yemen tried
-  🔗 https://www.livemint.com/technology/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says-11789152172996.html
+- Dow rises 500 points to snap 4-day slide as oil cools, traders look past inflation report: Live updates - CNBC
+  The Dow rose 500 points to snap 4-day slide as oil cools,
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE83bDk1cW5ZeENGMDhRcU5zRzhWX1c4ekdSRlJXcWRxTlZ3dzUxTVY4WVdlMmd3RDcxUGJ1ODgxZTd1UnZHdHcyS1VrTlV4NHdaS3dEWlpDVDEzVFMtTENOb2dIOThDQWx2ci0xekQxczdnazNtbnJ30gF8QVVfeXFMTVB0OHYyRENzdjdtVUFoel9GNkY4MVBmWXh5Y01wdUZVeEZtVC1UMi1rWEhtN05XbkYyOTBsdXJVVDVOVzMwTl90Q2ZjdkI4S25yNHM1UFRtX0tSZVNTQ1U3RFVjQlhaZWpEZFk4Qjd5enRGNlBaLXBQWEhmQQ?oc=5
 
-- Sitharaman calls for stronger AI safeguards without stifling innovation
-  Sitharaman said the rapid rise of agentic AI is creating risks that cannot be left for society
-  🔗 https://www.livemint.com/technology/sitharaman-calls-for-stronger-ai-safeguards-without-stifling-innovation-11789125942439.html
+- A veteran economist tells us why he sees a recession and a stock crash by the end of 2027 - Business Insider
+  A veteran economist tells us why he sees a recession and a stock crash by the end of
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1NNNE5KRzJyTWxFU2wwYkZiMGZIWUF6SFpuMlhwbThHajI0SVFmSUU5bTNsU09XQURRYVdRaTlkRVp5UjZ4eXZoNU9TblhNUWllMW5MTF9XODg0dEFrWnVJN2pvallaY25XQUtzYnQ4aXpGOU9mdlUwTDF6MjMxRDZISGFzaV9LT3FEUERya0RZZzQ0OXYwU2dtSi0?oc=5
+
+- What a Fed Rate Hike Could Mean for US Stocks - Goldman Sachs
+  Goldman Sachs: What a Fed
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTBLZmZzeFJtcjY1dVRma3NsTVBuTU1JSjFNbTdVdDUyWFFLNWcxaVV6QkJ1OVd2NWFfal8waFRBdHpnNl9VQXpybzBjU1h3eG9NSjAzWVo1dUNybDZyVHRnWjEyYVc2a21KdEdHaWFVWF9RTkMtNmJPanlLam8zMHp3SjBVZ29tZG04NGdxZnlHWjB2TzFoQ2Ftaw?oc=5
+
+- Senior living market can grow into a $10.1 bn prospect: ASLI-JLL - thehindu.com
+  Senior living market can grow into a $10
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMktOQmtQVWg2NS0xWGJYc29mRnd6N2lzTzI5YlZYb3VTcnhKT3h3cWZ6M1QtbjFkLTNwN0ROV1NYRFl5cTVhTDFrOG1jT3RoMUlUd2dRRnBDbU9uZmNFNjF0Y09FMmFNWFFEckJMNGZPdXFUZkJVdWVSQUJLcU9qLU04eUxzYklIaGJ2R0tRVnNWaFFtSW01cG5oMV9IV3dCejR1a2wxcXVMc1B3VWh2ajJjX0xhNzFGZXJDbnFVYjBtZ9IByAFBVV95cUxPX2hEajJQNXpBNFBpRXowQnFsTUphcTAwdExxczlsOGt4aDZlYkhxRjFQc1lGTGlSb3VqV0c2alRIdV9XWDlsVHpibENKeHFrS292bTJxbkd3LWk3SmFHb1dERktzMkFwX1RDRmxoTjhwek04ZzVfTTB2QW5iWVRmTkEwUk1VZTM1X1g4RnJGYjk3dUxqdkxSRk5CYXhycEV4enAtVVpmZE40cGFvVkgzcnQ4SzdKWHpTOVdOejZCODk0ck9GRlR5eQ?oc=5
+
+- President Xi says BRICS world's most influential platform for emerging markets' cooperation - news.cgtn.com
+  President Xi says BRICS world's most influential platform
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0huN01lMkNzSXFBTVZpN20zTmxwMExvb21MNU9yNmZVNFI5d280aTlBNGx4RlRNbk5mSndZcklkQjlsUFZia2VNSm5KWm1ZelVSU2ZIcVlkSXZRYWU4UkRrdmpKcDc1LUhaS1NJOHNjaktWWHlJV2dFQlVHN09BbjY5VWtFMV9INVF2QXVrZlNSZDRWY2NVYw?oc=5
 
 - HDFC Bank submits two candidates to RBI for next CEO
   HDFC Bank has submitted names of two candidates to Reserve Bank of India. Bank is India's largest private lender.
@@ -120,25 +140,29 @@
   Bitcoin is currently hovering around $77,000 after a slight retreat from $78,000. Global crypto market capitalization has seen a marginal rise to $2.73 trillion. Investors are keeping a close watch on the upcoming FOM
   🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-at-77000-mark-as-profit-taking-weighs-on-market-september-fomc-meeting-to-act-as-next-catalyst/articleshow/134119011.cms
 
-- Indian landlady in Canada held after tenant’s ‘harassment’ over barbecue use | India News - Hindustan Times
-  Indian landlady in Canada held after tenant’s �
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0hSVkFwT3ZoZUtlZ3UwSTJPMmVJSXJtMm84Ym5sd3RFa3VYTTgtMzNJT283YVlIWFVUSGNOT2JsenFvUG4zLWtwZm9vUFVrd3NvTkgzMmstTE5HRzJZQmRKUVdGT1J2V250LXVOcTdhRzZuVTJsOFJIUWYzLTZsYVNMZWw4S3dCcGR3YzdaRnRLZHBCbjJRLUFZWlBmS1YzSVF5YlFHN0tuSXFuSnlXUWVoTENXT2ViMldCcXlpbEsyVkRSQjBhWDBla2gyMEZlVzBPZldoZUpiT0FfeU5QZ3JGcmRZdncxVFHSAe8BQVVfeXFMTXRlRlE4UDdCQUVwbTNoN1hCT1gtMGVObzJORTluUFl0Z0F6cXA2cXkzdDk0NGRobWtRVE9LNjNsRFVtU1hXOU9YYjVkS1U1aWw0U0RBTkoxbmNxTE1wLVlvcTNONnR2cDlyaldLY1dpQkl6TmpSLUpEbEFNSkhMRnhvakFrVUpvVDFfLUFNczFZWEpEZUZPWHZFSGZZU0RrUXU5a0c2SGVIVzZ3LXlvQ010X1Q2b1Z0MC1IekF3LVJ2M3JUVzFGM0VRM1E5N0lrVzRqUE5DTTgzakdBQk4yMGVIZmhSZjEzWWhDWjJ4cVU?oc=5
+- Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations - The Guardian
+  <ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNW
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNWFOdXl0Q1ZFWnp0RlNvVGZCYU92aFBocjJBZGY1QUZTbXpFclhpVFNqQTNxTmNvZ0dyZE5WQQ?oc=5
 
-- BRICS red carpet sparks anger in India’s capital - Al Jazeera
-  BRICS red carpet sparks anger in
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1hhRlVCSXIzaVlvTHF5VDgwNENUOFFvcmNEaGF3Y1ZVWUEyRGdaTnFTMzFkLUhNZ2tGUmF0aU5fVUtoVGtYcWRDZU1YaTJjV1ZZNWlOc0pVV3pVRGlfUlFMbGcxWWJQU2dQVkNhNFRQZjctRnR0ZEJJZGQ2VmpKVDV2VFpuMmFPM2dnNEszcEc1YnUtazgtYTMyNmdRQWPSAaQBQVVfeXFMTW4tSHdhOGhvNEVsSTllMEJWVGZHS19PRDBBNDFSdGh3U2ZKb2hFdVJPMTJuYXA3UlpuR0l3NEZUU1JRM01acjc1Y0g5amRZa1RmNG5QUTdQYWRxX1M1RmJuY3BwQkEtRThOLU5UOFFDTDhBeVdaTTh6SVE4MWt0WFlfVjVtaXNQZnFYOXR2cVNkNDQ3aWZQcGFoc0Z2c280bFpXeVU?oc=5
+- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
+  Latest News, India News, Breaking News, Business
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHBET2R1X2JfMXE1TTVZWkI0ZWw1S2ZGYy1FSklrUXhiczl3Um1NVlJNQW5jTVNDa2x6cTlzcWdwTmZ4WlZfbFVMcFNiOUthMjFsRG0yUkFNQVVaMTdyM2JjRnFBOElQX0E4NzBJem5Yazg2Uk5ORF9JSDhrNzRDUHlUVUd0Z0dPU3k2cU1PSTBieVU?oc=5
 
-- "Can Learn From Each Other's Strengths": Xi At Bilateral Meet With PM Modi - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm1pQ1hrYkZEeHI2ckxabVRKOWlTQ3RDcmtsdDd3bE1JUWMtV1l6RmVlUXAyckduR29KMmJvUWo2NVp6YzBzZ29JVWdyc2ozUUN0cHFaSDFzNmRlQ0N0NVNXVzNpTE9KWW
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm1pQ1hrYkZEeHI2ckxabVRKOWlTQ3RDcmtsdDd3bE1JUWMtV1l6RmVlUXAyckduR29KMmJvUWo2NVp6YzBzZ29JVWdyc2ozUUN0cHFaSDFzNmRlQ0N0NVNXVzNpTE9KWWI5MThEb082em5OWkVFUlZlVUMwaVRha0JXNVprX3Ruc3VUeVBSSExzcmJfSUxvTEFoTGx5bm5MUnMxS1huYkV0ajc2d0RfZtIBuAFBVV95cUxNOGtveDBCdU9VY3dWY1VYNm1LVUxiTTZXR1FJV00tSkVhZWtKMmJOcXk1SmlROVVCRlJtbk9EM0Znejdsd0ZJRVRJd3dfYXB5SWxEX2VWZmtCTjByU3B0R0tfYkdaMldWZ3FJYjRMWmw5NXZmSnNRUkpHSzBQa3E0RmEwZ3czbFpjNTZLNzh2eVlENW1zeHBxZHR4WXlyQUp1a2o0LXVZTHFEMGFyZWUwMU9wS3pnR1Y3?oc=5
+- Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace - CNBC
+  Tehran won’t surrender to the U.S., Iranian President
+  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWG1rRDBBeUJRNi1OQmszREdIeUE3YWRMWldYYVNDemVjMEpTbkR1TThTMmZLX3psemM4LTg0dTdVU3Fiakl6Z3BlNG00Xy1WQVBYYlRhSVNfXzI1dlVZaE41R0IwQWhwaXlQOGh4ZjZxb3daRFHSAXtBVV95cUxONUtpU3A1MkpLNlA3OVJOU1V4VF9PZnlVektDZ19IR2dyTnRiTXZudUJ2bllsaE55SFR5ZWZLVmxYNGhBd1o0Q0Y1TldDSjB3TzlQNUFrYXQ0QjhGQ3dnMFhDUHA0VXEyTVV4VVR1bWtGRkNvdWV4M2llVWs?oc=5
 
-- Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
-  Pilot found dead at 5-Star
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
+- PM Modi, Iran's Pezeshkian Hand-In-Hand: India's Picture Perfect Diplomacy - NDTV
+  PM Modi, Iran's Pez
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPTl9VazZWbGNjdmNaVHN3MUZERWdVcHlBOEZKeGlndXFEOEtQSF9VUXM0VUQwZGw3UmhaZFFqOWFpMHFpaUUzakVGTHQ0dVlVcmNydmxubjRvWVJNMmVkejlQWTN5am9JS0NldDlQQ2pCYjdZUEV5dE9NV0FEczBQNHNLb21XUG5peVFOOFdZbzlyTVE4cUQ1T1FVMldjNlNxRVFyckpLS3dmSXhwRG1CZHZrNTNiRHJPV2xSSUlSYXpqQmVEMzdPb21B0gHSAUFVX3lxTFA0LVZDSjA4Q0ttRTZnTF9VNkdWSE1aVDE4YlRROTFLa2pTNk5JaW1pWlYyQllCRkswSkVkaFRYTF9WNElWSDg4T3ZqTExnZEkwc1hld3pCd2VPTnlOMjQ0X0RtdnlPSmZmQmowUDJFd1pmVHZxbDg5LW9INWE5eVE2TnlnaDY0UXZEY2N1T3ZZeEZwMGp2M3pxX01lRUJBY2UtSlpqeDRFSWRNTzZvNWg0d2ZmY1FFQUZYUHBNUm9ZeHVuZmNORlcybEhlSWpPMEFfZw?oc=5
 
-- BRICS Summit 2026 LIVE updates: Modi-Xi bilateral talk concludes - The Hindu
-  The Hindu reports that the two leaders will
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENTY1WU9WS04ybjlMQlE1S1A3VTNldzJ1WmF6aER4ZUV6MEhkSm1Oc2s5bndFR3FGRF9fQnRvX1d1YjJyLUh3QmJzRy14YVpUTDFIY0pSZ0p0UE5iUXlVWGw1RDNGYk9VdEQwVzBDNFFkOXE1RDl5cmlUSXltQTY40gHmAUFVX3lxTE1qc240c01FRW5Nc0lMTko3ZDdtcjBpNEUyMFIyMjEtOXU1WktkSWtVVC00SDZad0hkLWdrd3IteUFQMFBZUHNTWExDOWNQV0g4RzZ2OTlOY2ZDbzY4LTJ2SmtrcFdpNFdYMVJWX1lkZXV1QmM3NDBzdDlybVNFQWxPMmhaanRVVDh6WnRGbXNiVTM3NDdMWDRIR2ExaTNKU2xiTE1EeDNPZktaQ1JXSDVBZDhjTXl5dk1uN0ZOaThTaTNhaWthZFFTalZFZW51VTBWbERybG80VGJDNzJTNS1Tbi05QzF3?oc=5
+- 'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off on Brics joint statement - The Times of India
+  'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNG5GbVlnVWVWYWhNR0VLMUlheVNLN3RnS1VBSUxkLWh4T1RJQmJDZWg5ZXg4OVZzd2dSNVZKeGtrTGllRlRLbmhXWWdtc1dsaER2U1o4aVBaMWhCd21JcjlpVG80aDVNTjJsR1BKTW1JNFp1LVU4VUVNNG8tUVloUUstVm1qVVRQYzloelh0VFRjeTVCNm5JemcyWWlSelZRYnVxcWVxc2U2eEYzWWNaeW1lODc5UkhjbktyNmJnaXcxajhUZmE1VGN3VTVaNi1FSndlZVJCZk5YRXV2OGtpU3hyYzZram5tbl8xX0ZTYlBodm5C0gH6AUFVX3lxTE92N3pRRzdsNU9wY2Rybjd0ZVIycnVHWDJWckFmS0ZraEMySjdYZW14ejR3WDM1eU9ET0E3d1NyTlRhSzNkN18wQnVOTHJKMGNtbTVJNExDd1djNmVTMlJUN0VkQ21McXEwTHpGSGpPOThFOEVtcmd3YWlJNElycXhFMVZneGhaUjdCamcwTDhwTzg1SHRoaEQxVnlkb3hLQmNHVTF3U25iVnBOb2JNWE5Ba3BaT0xrVTA2alNMT2VxM3pYYk5MUFVjVm1kaEd2dlZOZUFENWp3M2JxNkdVdXROTHcxcjJwc1VZNGEyVmhtbE11RWQ2VXd3amc?oc=5
+
+- ESDS Soars 92% To Lead New-Age Tech Stocks This Week, MDR Hopes Lift Fintechs
+  New-age tech stocks delivered a mixed performance this week as weakness in the broader equity market kept investor sentiment cautious.
+  🔗 https://inc42.com/buzz/esds-soars-92-to-lead-new-age-tech-stocks-this-week-mdr-hopes-lift-fintechs/
 
 - WestBridge-Backed Way2News Restrained From Using AppsForBharat’s Confidential Data
   A Bengaluru commercial court has temporarily restrained hyperlocal news startup Way2News from using confidential information and intellectual property.
@@ -156,49 +180,45 @@
   NPCI’s consolidated net profit fell 32.4% to ₹989.4 Cr in the financial year ended&#8230;.
   🔗 https://inc42.com/buzz/npcis-fy26-profit-drops-32-yoy-to-%e2%82%b9989-cr-as-tax-outgo-bhim-loss-surge/
 
-- From Pixxel To Swish — Indian Startups Raised Over $321.9 Mn This Week
-  Between September 7 and September 11, Indian startups raised $321.9 million.
-  🔗 https://inc42.com/buzz/from-pixxel-to-swish-indian-startups-raised-over-321-9-mn-this-week/
+- Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations - The Guardian
+  <ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNW
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNWFOdXl0Q1ZFWnp0RlNvVGZCYU92aFBocjJBZGY1QUZTbXpFclhpVFNqQTNxTmNvZ0dyZE5WQQ?oc=5
 
-- Indian landlady in Canada held after tenant’s ‘harassment’ over barbecue use | India News - Hindustan Times
-  Indian landlady in Canada held after tenant’s �
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0hSVkFwT3ZoZUtlZ3UwSTJPMmVJSXJtMm84Ym5sd3RFa3VYTTgtMzNJT283YVlIWFVUSGNOT2JsenFvUG4zLWtwZm9vUFVrd3NvTkgzMmstTE5HRzJZQmRKUVdGT1J2V250LXVOcTdhRzZuVTJsOFJIUWYzLTZsYVNMZWw4S3dCcGR3YzdaRnRLZHBCbjJRLUFZWlBmS1YzSVF5YlFHN0tuSXFuSnlXUWVoTENXT2ViMldCcXlpbEsyVkRSQjBhWDBla2gyMEZlVzBPZldoZUpiT0FfeU5QZ3JGcmRZdncxVFHSAe8BQVVfeXFMTXRlRlE4UDdCQUVwbTNoN1hCT1gtMGVObzJORTluUFl0Z0F6cXA2cXkzdDk0NGRobWtRVE9LNjNsRFVtU1hXOU9YYjVkS1U1aWw0U0RBTkoxbmNxTE1wLVlvcTNONnR2cDlyaldLY1dpQkl6TmpSLUpEbEFNSkhMRnhvakFrVUpvVDFfLUFNczFZWEpEZUZPWHZFSGZZU0RrUXU5a0c2SGVIVzZ3LXlvQ010X1Q2b1Z0MC1IekF3LVJ2M3JUVzFGM0VRM1E5N0lrVzRqUE5DTTgzakdBQk4yMGVIZmhSZjEzWWhDWjJ4cVU?oc=5
+- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
+  Latest News, India News, Breaking News, Business
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHBET2R1X2JfMXE1TTVZWkI0ZWw1S2ZGYy1FSklrUXhiczl3Um1NVlJNQW5jTVNDa2x6cTlzcWdwTmZ4WlZfbFVMcFNiOUthMjFsRG0yUkFNQVVaMTdyM2JjRnFBOElQX0E4NzBJem5Yazg2Uk5ORF9JSDhrNzRDUHlUVUd0Z0dPU3k2cU1PSTBieVU?oc=5
 
-- BRICS red carpet sparks anger in India’s capital - Al Jazeera
-  BRICS red carpet sparks anger in
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1hhRlVCSXIzaVlvTHF5VDgwNENUOFFvcmNEaGF3Y1ZVWUEyRGdaTnFTMzFkLUhNZ2tGUmF0aU5fVUtoVGtYcWRDZU1YaTJjV1ZZNWlOc0pVV3pVRGlfUlFMbGcxWWJQU2dQVkNhNFRQZjctRnR0ZEJJZGQ2VmpKVDV2VFpuMmFPM2dnNEszcEc1YnUtazgtYTMyNmdRQWPSAaQBQVVfeXFMTW4tSHdhOGhvNEVsSTllMEJWVGZHS19PRDBBNDFSdGh3U2ZKb2hFdVJPMTJuYXA3UlpuR0l3NEZUU1JRM01acjc1Y0g5amRZa1RmNG5QUTdQYWRxX1M1RmJuY3BwQkEtRThOLU5UOFFDTDhBeVdaTTh6SVE4MWt0WFlfVjVtaXNQZnFYOXR2cVNkNDQ3aWZQcGFoc0Z2c280bFpXeVU?oc=5
+- Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace - CNBC
+  Tehran won’t surrender to the U.S., Iranian President
+  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWG1rRDBBeUJRNi1OQmszREdIeUE3YWRMWldYYVNDemVjMEpTbkR1TThTMmZLX3psemM4LTg0dTdVU3Fiakl6Z3BlNG00Xy1WQVBYYlRhSVNfXzI1dlVZaE41R0IwQWhwaXlQOGh4ZjZxb3daRFHSAXtBVV95cUxONUtpU3A1MkpLNlA3OVJOU1V4VF9PZnlVektDZ19IR2dyTnRiTXZudUJ2bllsaE55SFR5ZWZLVmxYNGhBd1o0Q0Y1TldDSjB3TzlQNUFrYXQ0QjhGQ3dnMFhDUHA0VXEyTVV4VVR1bWtGRkNvdWV4M2llVWs?oc=5
 
-- "Can Learn From Each Other's Strengths": Xi At Bilateral Meet With PM Modi - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm1pQ1hrYkZEeHI2ckxabVRKOWlTQ3RDcmtsdDd3bE1JUWMtV1l6RmVlUXAyckduR29KMmJvUWo2NVp6YzBzZ29JVWdyc2ozUUN0cHFaSDFzNmRlQ0N0NVNXVzNpTE9KWW
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm1pQ1hrYkZEeHI2ckxabVRKOWlTQ3RDcmtsdDd3bE1JUWMtV1l6RmVlUXAyckduR29KMmJvUWo2NVp6YzBzZ29JVWdyc2ozUUN0cHFaSDFzNmRlQ0N0NVNXVzNpTE9KWWI5MThEb082em5OWkVFUlZlVUMwaVRha0JXNVprX3Ruc3VUeVBSSExzcmJfSUxvTEFoTGx5bm5MUnMxS1huYkV0ajc2d0RfZtIBuAFBVV95cUxNOGtveDBCdU9VY3dWY1VYNm1LVUxiTTZXR1FJV00tSkVhZWtKMmJOcXk1SmlROVVCRlJtbk9EM0Znejdsd0ZJRVRJd3dfYXB5SWxEX2VWZmtCTjByU3B0R0tfYkdaMldWZ3FJYjRMWmw5NXZmSnNRUkpHSzBQa3E0RmEwZ3czbFpjNTZLNzh2eVlENW1zeHBxZHR4WXlyQUp1a2o0LXVZTHFEMGFyZWUwMU9wS3pnR1Y3?oc=5
+- PM Modi, Iran's Pezeshkian Hand-In-Hand: India's Picture Perfect Diplomacy - NDTV
+  PM Modi, Iran's Pez
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPTl9VazZWbGNjdmNaVHN3MUZERWdVcHlBOEZKeGlndXFEOEtQSF9VUXM0VUQwZGw3UmhaZFFqOWFpMHFpaUUzakVGTHQ0dVlVcmNydmxubjRvWVJNMmVkejlQWTN5am9JS0NldDlQQ2pCYjdZUEV5dE9NV0FEczBQNHNLb21XUG5peVFOOFdZbzlyTVE4cUQ1T1FVMldjNlNxRVFyckpLS3dmSXhwRG1CZHZrNTNiRHJPV2xSSUlSYXpqQmVEMzdPb21B0gHSAUFVX3lxTFA0LVZDSjA4Q0ttRTZnTF9VNkdWSE1aVDE4YlRROTFLa2pTNk5JaW1pWlYyQllCRkswSkVkaFRYTF9WNElWSDg4T3ZqTExnZEkwc1hld3pCd2VPTnlOMjQ0X0RtdnlPSmZmQmowUDJFd1pmVHZxbDg5LW9INWE5eVE2TnlnaDY0UXZEY2N1T3ZZeEZwMGp2M3pxX01lRUJBY2UtSlpqeDRFSWRNTzZvNWg0d2ZmY1FFQUZYUHBNUm9ZeHVuZmNORlcybEhlSWpPMEFfZw?oc=5
 
-- Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
-  Pilot found dead at 5-Star
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
+- 'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off on Brics joint statement - The Times of India
+  'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNG5GbVlnVWVWYWhNR0VLMUlheVNLN3RnS1VBSUxkLWh4T1RJQmJDZWg5ZXg4OVZzd2dSNVZKeGtrTGllRlRLbmhXWWdtc1dsaER2U1o4aVBaMWhCd21JcjlpVG80aDVNTjJsR1BKTW1JNFp1LVU4VUVNNG8tUVloUUstVm1qVVRQYzloelh0VFRjeTVCNm5JemcyWWlSelZRYnVxcWVxc2U2eEYzWWNaeW1lODc5UkhjbktyNmJnaXcxajhUZmE1VGN3VTVaNi1FSndlZVJCZk5YRXV2OGtpU3hyYzZram5tbl8xX0ZTYlBodm5C0gH6AUFVX3lxTE92N3pRRzdsNU9wY2Rybjd0ZVIycnVHWDJWckFmS0ZraEMySjdYZW14ejR3WDM1eU9ET0E3d1NyTlRhSzNkN18wQnVOTHJKMGNtbTVJNExDd1djNmVTMlJUN0VkQ21McXEwTHpGSGpPOThFOEVtcmd3YWlJNElycXhFMVZneGhaUjdCamcwTDhwTzg1SHRoaEQxVnlkb3hLQmNHVTF3U25iVnBOb2JNWE5Ba3BaT0xrVTA2alNMT2VxM3pYYk5MUFVjVm1kaEd2dlZOZUFENWp3M2JxNkdVdXROTHcxcjJwc1VZNGEyVmhtbE11RWQ2VXd3amc?oc=5
 
-- BRICS Summit 2026 LIVE updates: Modi-Xi bilateral talk concludes - The Hindu
-  The Hindu reports that the two leaders will
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENTY1WU9WS04ybjlMQlE1S1A3VTNldzJ1WmF6aER4ZUV6MEhkSm1Oc2s5bndFR3FGRF9fQnRvX1d1YjJyLUh3QmJzRy14YVpUTDFIY0pSZ0p0UE5iUXlVWGw1RDNGYk9VdEQwVzBDNFFkOXE1RDl5cmlUSXltQTY40gHmAUFVX3lxTE1qc240c01FRW5Nc0lMTko3ZDdtcjBpNEUyMFIyMjEtOXU1WktkSWtVVC00SDZad0hkLWdrd3IteUFQMFBZUHNTWExDOWNQV0g4RzZ2OTlOY2ZDbzY4LTJ2SmtrcFdpNFdYMVJWX1lkZXV1QmM3NDBzdDlybVNFQWxPMmhaanRVVDh6WnRGbXNiVTM3NDdMWDRIR2ExaTNKU2xiTE1EeDNPZktaQ1JXSDVBZDhjTXl5dk1uN0ZOaThTaTNhaWthZFFTalZFZW51VTBWbERybG80VGJDNzJTNS1Tbi05QzF3?oc=5
+- Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations - The Guardian
+  <ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNW
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNWFOdXl0Q1ZFWnp0RlNvVGZCYU92aFBocjJBZGY1QUZTbXpFclhpVFNqQTNxTmNvZ0dyZE5WQQ?oc=5
 
-- Indian landlady in Canada held after tenant’s ‘harassment’ over barbecue use | India News - Hindustan Times
-  Indian landlady in Canada held after tenant’s �
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0hSVkFwT3ZoZUtlZ3UwSTJPMmVJSXJtMm84Ym5sd3RFa3VYTTgtMzNJT283YVlIWFVUSGNOT2JsenFvUG4zLWtwZm9vUFVrd3NvTkgzMmstTE5HRzJZQmRKUVdGT1J2V250LXVOcTdhRzZuVTJsOFJIUWYzLTZsYVNMZWw4S3dCcGR3YzdaRnRLZHBCbjJRLUFZWlBmS1YzSVF5YlFHN0tuSXFuSnlXUWVoTENXT2ViMldCcXlpbEsyVkRSQjBhWDBla2gyMEZlVzBPZldoZUpiT0FfeU5QZ3JGcmRZdncxVFHSAe8BQVVfeXFMTXRlRlE4UDdCQUVwbTNoN1hCT1gtMGVObzJORTluUFl0Z0F6cXA2cXkzdDk0NGRobWtRVE9LNjNsRFVtU1hXOU9YYjVkS1U1aWw0U0RBTkoxbmNxTE1wLVlvcTNONnR2cDlyaldLY1dpQkl6TmpSLUpEbEFNSkhMRnhvakFrVUpvVDFfLUFNczFZWEpEZUZPWHZFSGZZU0RrUXU5a0c2SGVIVzZ3LXlvQ010X1Q2b1Z0MC1IekF3LVJ2M3JUVzFGM0VRM1E5N0lrVzRqUE5DTTgzakdBQk4yMGVIZmhSZjEzWWhDWjJ4cVU?oc=5
+- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
+  Latest News, India News, Breaking News, Business
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHBET2R1X2JfMXE1TTVZWkI0ZWw1S2ZGYy1FSklrUXhiczl3Um1NVlJNQW5jTVNDa2x6cTlzcWdwTmZ4WlZfbFVMcFNiOUthMjFsRG0yUkFNQVVaMTdyM2JjRnFBOElQX0E4NzBJem5Yazg2Uk5ORF9JSDhrNzRDUHlUVUd0Z0dPU3k2cU1PSTBieVU?oc=5
 
-- BRICS red carpet sparks anger in India’s capital - Al Jazeera
-  BRICS red carpet sparks anger in
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1hhRlVCSXIzaVlvTHF5VDgwNENUOFFvcmNEaGF3Y1ZVWUEyRGdaTnFTMzFkLUhNZ2tGUmF0aU5fVUtoVGtYcWRDZU1YaTJjV1ZZNWlOc0pVV3pVRGlfUlFMbGcxWWJQU2dQVkNhNFRQZjctRnR0ZEJJZGQ2VmpKVDV2VFpuMmFPM2dnNEszcEc1YnUtazgtYTMyNmdRQWPSAaQBQVVfeXFMTW4tSHdhOGhvNEVsSTllMEJWVGZHS19PRDBBNDFSdGh3U2ZKb2hFdVJPMTJuYXA3UlpuR0l3NEZUU1JRM01acjc1Y0g5amRZa1RmNG5QUTdQYWRxX1M1RmJuY3BwQkEtRThOLU5UOFFDTDhBeVdaTTh6SVE4MWt0WFlfVjVtaXNQZnFYOXR2cVNkNDQ3aWZQcGFoc0Z2c280bFpXeVU?oc=5
+- Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace - CNBC
+  Tehran won’t surrender to the U.S., Iranian President
+  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWG1rRDBBeUJRNi1OQmszREdIeUE3YWRMWldYYVNDemVjMEpTbkR1TThTMmZLX3psemM4LTg0dTdVU3Fiakl6Z3BlNG00Xy1WQVBYYlRhSVNfXzI1dlVZaE41R0IwQWhwaXlQOGh4ZjZxb3daRFHSAXtBVV95cUxONUtpU3A1MkpLNlA3OVJOU1V4VF9PZnlVektDZ19IR2dyTnRiTXZudUJ2bllsaE55SFR5ZWZLVmxYNGhBd1o0Q0Y1TldDSjB3TzlQNUFrYXQ0QjhGQ3dnMFhDUHA0VXEyTVV4VVR1bWtGRkNvdWV4M2llVWs?oc=5
 
-- "Can Learn From Each Other's Strengths": Xi At Bilateral Meet With PM Modi - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm1pQ1hrYkZEeHI2ckxabVRKOWlTQ3RDcmtsdDd3bE1JUWMtV1l6RmVlUXAyckduR29KMmJvUWo2NVp6YzBzZ29JVWdyc2ozUUN0cHFaSDFzNmRlQ0N0NVNXVzNpTE9KWW
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm1pQ1hrYkZEeHI2ckxabVRKOWlTQ3RDcmtsdDd3bE1JUWMtV1l6RmVlUXAyckduR29KMmJvUWo2NVp6YzBzZ29JVWdyc2ozUUN0cHFaSDFzNmRlQ0N0NVNXVzNpTE9KWWI5MThEb082em5OWkVFUlZlVUMwaVRha0JXNVprX3Ruc3VUeVBSSExzcmJfSUxvTEFoTGx5bm5MUnMxS1huYkV0ajc2d0RfZtIBuAFBVV95cUxNOGtveDBCdU9VY3dWY1VYNm1LVUxiTTZXR1FJV00tSkVhZWtKMmJOcXk1SmlROVVCRlJtbk9EM0Znejdsd0ZJRVRJd3dfYXB5SWxEX2VWZmtCTjByU3B0R0tfYkdaMldWZ3FJYjRMWmw5NXZmSnNRUkpHSzBQa3E0RmEwZ3czbFpjNTZLNzh2eVlENW1zeHBxZHR4WXlyQUp1a2o0LXVZTHFEMGFyZWUwMU9wS3pnR1Y3?oc=5
+- PM Modi, Iran's Pezeshkian Hand-In-Hand: India's Picture Perfect Diplomacy - NDTV
+  PM Modi, Iran's Pez
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPTl9VazZWbGNjdmNaVHN3MUZERWdVcHlBOEZKeGlndXFEOEtQSF9VUXM0VUQwZGw3UmhaZFFqOWFpMHFpaUUzakVGTHQ0dVlVcmNydmxubjRvWVJNMmVkejlQWTN5am9JS0NldDlQQ2pCYjdZUEV5dE9NV0FEczBQNHNLb21XUG5peVFOOFdZbzlyTVE4cUQ1T1FVMldjNlNxRVFyckpLS3dmSXhwRG1CZHZrNTNiRHJPV2xSSUlSYXpqQmVEMzdPb21B0gHSAUFVX3lxTFA0LVZDSjA4Q0ttRTZnTF9VNkdWSE1aVDE4YlRROTFLa2pTNk5JaW1pWlYyQllCRkswSkVkaFRYTF9WNElWSDg4T3ZqTExnZEkwc1hld3pCd2VPTnlOMjQ0X0RtdnlPSmZmQmowUDJFd1pmVHZxbDg5LW9INWE5eVE2TnlnaDY0UXZEY2N1T3ZZeEZwMGp2M3pxX01lRUJBY2UtSlpqeDRFSWRNTzZvNWg0d2ZmY1FFQUZYUHBNUm9ZeHVuZmNORlcybEhlSWpPMEFfZw?oc=5
 
-- Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
-  Pilot found dead at 5-Star
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
-
-- BRICS Summit 2026 LIVE updates: Modi-Xi bilateral talk concludes - The Hindu
-  The Hindu reports that the two leaders will
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENTY1WU9WS04ybjlMQlE1S1A3VTNldzJ1WmF6aER4ZUV6MEhkSm1Oc2s5bndFR3FGRF9fQnRvX1d1YjJyLUh3QmJzRy14YVpUTDFIY0pSZ0p0UE5iUXlVWGw1RDNGYk9VdEQwVzBDNFFkOXE1RDl5cmlUSXltQTY40gHmAUFVX3lxTE1qc240c01FRW5Nc0lMTko3ZDdtcjBpNEUyMFIyMjEtOXU1WktkSWtVVC00SDZad0hkLWdrd3IteUFQMFBZUHNTWExDOWNQV0g4RzZ2OTlOY2ZDbzY4LTJ2SmtrcFdpNFdYMVJWX1lkZXV1QmM3NDBzdDlybVNFQWxPMmhaanRVVDh6WnRGbXNiVTM3NDdMWDRIR2ExaTNKU2xiTE1EeDNPZktaQ1JXSDVBZDhjTXl5dk1uN0ZOaThTaTNhaWthZFFTalZFZW51VTBWbERybG80VGJDNzJTNS1Tbi05QzF3?oc=5
+- 'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off on Brics joint statement - The Times of India
+  'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNG5GbVlnVWVWYWhNR0VLMUlheVNLN3RnS1VBSUxkLWh4T1RJQmJDZWg5ZXg4OVZzd2dSNVZKeGtrTGllRlRLbmhXWWdtc1dsaER2U1o4aVBaMWhCd21JcjlpVG80aDVNTjJsR1BKTW1JNFp1LVU4VUVNNG8tUVloUUstVm1qVVRQYzloelh0VFRjeTVCNm5JemcyWWlSelZRYnVxcWVxc2U2eEYzWWNaeW1lODc5UkhjbktyNmJnaXcxajhUZmE1VGN3VTVaNi1FSndlZVJCZk5YRXV2OGtpU3hyYzZram5tbl8xX0ZTYlBodm5C0gH6AUFVX3lxTE92N3pRRzdsNU9wY2Rybjd0ZVIycnVHWDJWckFmS0ZraEMySjdYZW14ejR3WDM1eU9ET0E3d1NyTlRhSzNkN18wQnVOTHJKMGNtbTVJNExDd1djNmVTMlJUN0VkQ21McXEwTHpGSGpPOThFOEVtcmd3YWlJNElycXhFMVZneGhaUjdCamcwTDhwTzg1SHRoaEQxVnlkb3hLQmNHVTF3U25iVnBOb2JNWE5Ba3BaT0xrVTA2alNMT2VxM3pYYk5MUFVjVm1kaEd2dlZOZUFENWp3M2JxNkdVdXROTHcxcjJwc1VZNGEyVmhtbE11RWQ2VXd3amc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-12 15:03:59 UTC_
+_Last updated: 2026-09-12 20:06:38 UTC_
