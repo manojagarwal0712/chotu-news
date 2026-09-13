@@ -1,27 +1,27 @@
 # 📰 Daily News Summaries
 
-- Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations - The Guardian
-  <ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNW
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNWFOdXl0Q1ZFWnp0RlNvVGZCYU92aFBocjJBZGY1QUZTbXpFclhpVFNqQTNxTmNvZ0dyZE5WQQ?oc=5
+- BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENT
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENTY1WU9WS04ybjlMQlE1S1A3VTNldzJ1WmF6aER4ZUV6MEhkSm1Oc2s5bndFR3FGRF9fQnRvX1d1YjJyLUh3QmJzRy14YVpUTDFIY0pSZ0p0UE5iUXlVWGw1RDNGYk9VdEQwVzBDNFFkOXE1RDl5cmlUSXltQTY40gHmAUFVX3lxTE1qc240c01FRW5Nc0lMTko3ZDdtcjBpNEUyMFIyMjEtOXU1WktkSWtVVC00SDZad0hkLWdrd3IteUFQMFBZUHNTWExDOWNQV0g4RzZ2OTlOY2ZDbzY4LTJ2SmtrcFdpNFdYMVJWX1lkZXV1QmM3NDBzdDlybVNFQWxPMmhaanRVVDh6WnRGbXNiVTM3NDdMWDRIR2ExaTNKU2xiTE1EeDNPZktaQ1JXSDVBZDhjTXl5dk1uN0ZOaThTaTNhaWthZFFTalZFZW51VTBWbERybG80VGJDNzJTNS1Tbi05QzF3?oc=5
 
-- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
-  Latest News, India News, Breaking News, Business
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHBET2R1X2JfMXE1TTVZWkI0ZWw1S2ZGYy1FSklrUXhiczl3Um1NVlJNQW5jTVNDa2x6cTlzcWdwTmZ4WlZfbFVMcFNiOUthMjFsRG0yUkFNQVVaMTdyM2JjRnFBOElQX0E4NzBJem5Yazg2Uk5ORF9JSDhrNzRDUHlUVUd0Z0dPU3k2cU1PSTBieVU?oc=5
+- Bangladesh says reviewing 101 pacts signed with India: 'Outcome very very soon' | India News - Hindustan Times
+  Bangladesh says reviewing 101 pacts signed with India: 'Out
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMXo5WFhTWDhvc2VEWDVxdkdwU2phSEFQcEl4VlMxdVRkQW9EejFLVzhlMFR0N1I2WURuZGVSRlJZWTVEcGVQOGVva3ZZajVob05lVjZZTTJCNXR5SUQydU9HMWExNE5qYkx1SUlQUHZhSkhwdGpRVEVOQjdBMk1vWDM2S0FRQkFGUk9GdVRxeklkUmEtTGFPZ2stUWdldm9DZmNQMkRtTDFFY0tidmRDc0R2X2VqQlM3dFlJdmhkUVJQMV9pOHctNmZpZWV4dFltRXZDQkxLYVZ6VW50TmNYbldsWVNDNS1XLUHSAe8BQVVfeXFMT1RDZ2tmU1huLVZmOXVTR1Z4UFJsN1ZxVzhhUmRSRE1rMUl0c05USXJyeFBWT3dMWkhKSklKOTAzcXBCQ1l5N2M2WUh4bU9yc3gyallUYUFXaC1KcXNaaFNKVVVCRUszTUlNeDJ4ZnpRNjVfSUk2bnBWemlPR0F2NVVOT3JrdmVSekE2NEpGOHNLWjA2cWRwSjdHTTYtSTdSeVRZTVFULXFFV01IVXBSNkhDaE90cThBT0sxbnJVQnpTc1VYUGZhRjdUZl9CeEp0dzMwZkdodk9ucWdtNEN5Z2lxMHUydm01RzZzaHZ5RHM?oc=5
 
-- Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace - CNBC
-  Tehran won’t surrender to the U.S., Iranian President
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWG1rRDBBeUJRNi1OQmszREdIeUE3YWRMWldYYVNDemVjMEpTbkR1TThTMmZLX3psemM4LTg0dTdVU3Fiakl6Z3BlNG00Xy1WQVBYYlRhSVNfXzI1dlVZaE41R0IwQWhwaXlQOGh4ZjZxb3daRFHSAXtBVV95cUxONUtpU3A1MkpLNlA3OVJOU1V4VF9PZnlVektDZ19IR2dyTnRiTXZudUJ2bllsaE55SFR5ZWZLVmxYNGhBd1o0Q0Y1TldDSjB3TzlQNUFrYXQ0QjhGQ3dnMFhDUHA0VXEyTVV4VVR1bWtGRkNvdWV4M2llVWs?oc=5
+- Before 9/11, India Was On Osama Bin Laden's Hit List, CIA Documents Reveal - NDTV
+  Before 9/11, India Was On Osama Bin Laden
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3JXaXlJeVdmWDVpdm1oLXF4aFk2NGFscE1DQmdoZkk4c3o4M255Sk16aURqRm9YdXQ5d1dYLWd5RTRueGFfdFpsY2N0eTYxdXF3YlNsZUd0SGpDcFJRMm1Fd3FOTVpSZXVIWHJMQW5haTcxTnU3Y1VlOVp0MGVBWmFnQ21mdkZZTFlONlZsZkdVbXNwYVRmR0QtWEczdWpYeHhEWHp2cTV5Q2RPeFlvYjJ5eHlzTUdnVlJYZHk4VlFuajl0NU51ckhSNm1FZmRB0gHYAUFVX3lxTFBab0taTXNaeGd0cXl5d2J1Ti0yaW1zNHhZYjFKenVZX0tpWXQyX3dLcUVPYXdHRE9iVDV2N042TkVWVi1Pb2VFdGJiTzQ0ekdpVjFpLTE2Q29OR3J3ODRwTFJIS1k3aGtiR2ZlR0t0T3htMEVlWWozNXRjZFFya2UzbVVMSjluNVNsS2Y2c1o4QklXZDZsZlp6cHo3Y3dadFRLWDZFQ1l6NGZJaWtHWUJqVDVob2E5ckxRRUlwWjJrU3ZsaTZXdHpacEZPTlpjeEdJbjI3VWRVdA?oc=5
 
-- PM Modi, Iran's Pezeshkian Hand-In-Hand: India's Picture Perfect Diplomacy - NDTV
-  PM Modi, Iran's Pez
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPTl9VazZWbGNjdmNaVHN3MUZERWdVcHlBOEZKeGlndXFEOEtQSF9VUXM0VUQwZGw3UmhaZFFqOWFpMHFpaUUzakVGTHQ0dVlVcmNydmxubjRvWVJNMmVkejlQWTN5am9JS0NldDlQQ2pCYjdZUEV5dE9NV0FEczBQNHNLb21XUG5peVFOOFdZbzlyTVE4cUQ1T1FVMldjNlNxRVFyckpLS3dmSXhwRG1CZHZrNTNiRHJPV2xSSUlSYXpqQmVEMzdPb21B0gHSAUFVX3lxTFA0LVZDSjA4Q0ttRTZnTF9VNkdWSE1aVDE4YlRROTFLa2pTNk5JaW1pWlYyQllCRkswSkVkaFRYTF9WNElWSDg4T3ZqTExnZEkwc1hld3pCd2VPTnlOMjQ0X0RtdnlPSmZmQmowUDJFd1pmVHZxbDg5LW9INWE5eVE2TnlnaDY0UXZEY2N1T3ZZeEZwMGp2M3pxX01lRUJBY2UtSlpqeDRFSWRNTzZvNWg0d2ZmY1FFQUZYUHBNUm9ZeHVuZmNORlcybEhlSWpPMEFfZw?oc=5
+- Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
+  Former Air India Pilot Found Dead At 5-Star Hotel
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
 
-- 'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off on Brics joint statement - The Times of India
-  'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNG5GbVlnVWVWYWhNR0VLMUlheVNLN3RnS1VBSUxkLWh4T1RJQmJDZWg5ZXg4OVZzd2dSNVZKeGtrTGllRlRLbmhXWWdtc1dsaER2U1o4aVBaMWhCd21JcjlpVG80aDVNTjJsR1BKTW1JNFp1LVU4VUVNNG8tUVloUUstVm1qVVRQYzloelh0VFRjeTVCNm5JemcyWWlSelZRYnVxcWVxc2U2eEYzWWNaeW1lODc5UkhjbktyNmJnaXcxajhUZmE1VGN3VTVaNi1FSndlZVJCZk5YRXV2OGtpU3hyYzZram5tbl8xX0ZTYlBodm5C0gH6AUFVX3lxTE92N3pRRzdsNU9wY2Rybjd0ZVIycnVHWDJWckFmS0ZraEMySjdYZW14ejR3WDM1eU9ET0E3d1NyTlRhSzNkN18wQnVOTHJKMGNtbTVJNExDd1djNmVTMlJUN0VkQ21McXEwTHpGSGpPOThFOEVtcmd3YWlJNElycXhFMVZneGhaUjdCamcwTDhwTzg1SHRoaEQxVnlkb3hLQmNHVTF3U25iVnBOb2JNWE5Ba3BaT0xrVTA2alNMT2VxM3pYYk5MUFVjVm1kaEd2dlZOZUFENWp3M2JxNkdVdXROTHcxcjJwc1VZNGEyVmhtbE11RWQ2VXd3amc?oc=5
+- ‘Room locked from inside’: Air India captain found dead in Delhi hotel; brother alerted staff | India News - Hindustan Times
+  ‘Room locked from inside’: Air India captain found dead in Delhi hotel
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTTU1SWpHRFY2TWNzcEtEb2RiUnNJU3Fta0EwMzlxYjVIQ3dGNk54cUdHdXNDdXN5TnFLbVpoNGdnc2J5cEhxWDZuRXRJd0VnSk1jRWFUZzIwQU9xNS1zcmxiR3l3YUdVMGlMc0xJR2JEVl9pSDd0aEpZSVNvVzJtUEdoZ0MzVGdzYjhLWEE2QXI2aEFrNlZGQUJJRnhrUERDZjRvcGs1SjE4eUI4MUN5X25LMUM2OVcybXpJLU5OYlRmUXFKOGJoR2YwTTdPc0ExTjNsaERBekppSFZxeWpfYlRFLXZnVjTSAewBQVVfeXFMUDFXM0J2ZmswNzBLZl9FQktOSUE2UEg3NHJDMUV4cFBXTkNocXFleTVuOVh0MWVMWUR5d0Rtc2lkU182Uk50OU5waS1hdmE0Wk14RkVoSlQwdXd3ZlUyYW1WcVBBUU8zS0ZxdjRxaExsVWNMNGNTLXY2Qk13ZDNqTHZ6VWw3eXFONFdRQUtuZ2lFM2ZkY0ZaSktBSE5pTXNyRGVia1lRWVB6bm0weDZMUU1hZGdvRnh6SzVqZ1dTTE1nN3Y1ek5jWnY0cTBTaDZJZEt0bHIwdUpfTjZPT3EyVzRlUzFoOE5WVkltMWM?oc=5
 
-- Urban life rests on invisible, extraordinary technology - The Economist
-  The Economist looks at how technology
+- Urban life rests on invisible, extraordinary technology - economist.com
+  Urban life rests on invisible
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOMTRHSTBlTl92bXhzcVBJUkxfQWpQcWNvZkp4U29pb3ZJaTJyOU5IVEVNZlRIejVxTElzN2s4a3NMZFUzSzNRUGdnR05BYXlXOWlRWHpUOFl4SDVZcEJybUdabENXSHNHbWhJOWNzUFpISno4QThibG1oai04VDNUZy1XNEN1Z0xpNGg4RU1nVzk0RUNsSTYxaDF3MXFQMTNf?oc=5
 
 - Apple Watch’s new AI features are normalizing the idea that technology is always listening - TechCrunch
@@ -36,9 +36,17 @@
   Inside the Discussions at AI Companies Over a Superintelligence
   🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5
 
-- Anthropic CEO Dario Amodei calls on AI firms to slow pace of development, gets backing from Sam Altman & - The Times of India
-  Anthropic CEO Dario Amodei calls on AI firms to slow pace of development.
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxNQk40VXA3Y0UxQlZyS3VyRV9pZ0JlaDZ4RVlZa25SRm0yZWhpZmwzWnIxZEI1MGN5WjRpUS1DSUhMYWtWQzRDYndLZmNxNXM1bllySEliRksxZlptdlBpaHlhT0VDYlM1ZTA0SFViTXVzQmh2UGhYQTlZdlpXanZWa3o1N0pTTFNoLWpDOHAzbE50NnExbHNGYktmcUpfWGgzMlRwbGJnNUdSa054Ykw0YzgtV3B6aXJyZ3E3dHczZEJZc2xuRUVKYTZoRGdLN2V0RnltcWVrUjlBN3A4Q0gzbEpTcEVDcVpPWU5SWktTdk1UNEZ5UmtFYVEzdl9HdzcxUl8xTV9BcUlydXpsdWNLenFLbWE1UkZuRmwxVThn0gGjAkFVX3lxTFBkWmQtZEpYaFc5TWg3SFl3QlR3dDdKUW0ySjZvOGY0d0luN1BWeDFfdU04RU8wMkp3NFdmNUxNam15WjRUUWFqemVMdUJtSFBQWDFNUG93bW5ZVTBoMmM4OTVTYWFwS1F2T1hGNXY5R2dQaXdRMjF4dkpSMUZqUlZmcUJoNHl2MEtmNXJvNC05TVhUaUJqMHJ3WF9GMmRlR2VubThlRXJSWUJPcU9vWnhXYWF4R2VWNi01VDNrbFprZnBLSHdiVXhmZUd3Q2RzUDFBalUzT1hXNjhXM0NERDZDaDVLWWl4SmE3QWdWTnlHZllOY1VtNWdQRkJYT05XR25fUFhDMkJONHZYUng2LVd1eElsVldRUDlWS25lMXA1ZWdhRQ?oc=5
+- Top AI leaders unite to warn the technology is advancing too fast - The Washington Post
+  Top AI leaders unite to warn the technology is advancing too fast
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5
+
+- Tata Sons faces IPO deadline with RBI decision. What happens next?
+  Tata Group is said to be “most certainly” expected to challenge the
+  🔗 https://www.livemint.com/companies/news/rbi-tata-sons-ipo-listing-tata-trusts-noel-tata-11789227983193.html
+
+- OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety
+  OpenAI won’t go public in this year as the artificial intelligence company focuses on addressing safety-related concerns around the
+  🔗 https://www.livemint.com/companies/openais-altman-says-no-ipo-in-2026-firm-to-prioritize-safety-11789245963661.html
 
 - From smartphone to luxury tech: Why Apple may be pushing the iPhone further upmarket
   Apple's iPhone 18 launch skipped the standard model entirely. With the $1,999 iPhone Duo foldable and
@@ -52,13 +60,9 @@
   Zomato introduces a cash-on-delivery fee, increasing costs for customers paying in cash. The fee varies based on order value and other factors. Rivals like Swiggy do not impose
   🔗 https://www.livemint.com/companies/news/paying-cash-for-zomato-orders-you-may-now-have-to-pay-a-separate-fee-all-you-need-to-know-11789211057442.html
 
-- Oracle is betting big on AI and debt. Now Larry Ellison could cash in $7.5 billion
-  Oracle is ramping up AI spending and debt as founder Larry Ellison adopts a plan to sell
-  🔗 https://www.livemint.com/companies/news/oracle-is-betting-big-on-ai-and-debt-now-larry-ellison-could-cash-in-7-5-billion-11789216263158.html
-
-- Suspense ends! Tata Sons to go for public listing, directs RBI - Know how it will impact Shapoorji Pallonji group
-  RBI has denied Tata Sons' request to voluntarily surrender its NBFC registration. This requires compliance with upper
-  🔗 https://www.livemint.com/companies/news/rbi-rejects-tata-sons-deregistration-bid-listing-requirement-stays-11789218797955.html
+- Korea Tests Global Investor Appetite With Longer Trading Hours
+  South Korea’s main stock exchange is extending into evening sessions to tap what it hopes will be sustained demand
+  🔗 https://www.livemint.com/market/korea-tests-global-investor-appetite-with-longer-trading-hours-11789261530232.html
 
 - Sebi on Closing Auction Session after review: Latest update - New CAS rules | Top 5 things; what they mean for investors
   Sebi proposed 5 major changes to the settlement price determination for derivatives on expiry days.
@@ -75,10 +79,6 @@
 - Best stocks to Buy: Axis Bank, Dr Reddy’s Labs, Indus Towers - Sumeet Bagadia recommends for Tuesday | Target, stop-loss
   Sumeet Bagadia gives buying range, targets and stop-loss
   🔗 https://www.livemint.com/market/stock-market-news/best-stocks-to-buy-axis-bank-dr-reddy-s-labs-indus-towers-sumeet-bagadia-recommends-for-tuesday-target-stoploss-11789202101181.html
-
-- India’s SEBI Seeks Major Changes to Unpopular Auction System
-  India’s markets regulator proposed sweeping changes to the closing auction system. The move was prompted by sharp price swings and liquidity concerns.
-  🔗 https://www.livemint.com/market/indias-sebi-seeks-major-changes-to-unpopular-auction-system-11789203494288.html
 
 - 'Must slow the pace down': Anthropic CEO Dario Amodei calls for AI industry to slow down or risk losing control
   Amodei argues that AI could raise the quality of life but along with its advantages
@@ -104,21 +104,21 @@
   The Dow rose 500 points to snap 4-day slide as oil cools,
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE83bDk1cW5ZeENGMDhRcU5zRzhWX1c4ekdSRlJXcWRxTlZ3dzUxTVY4WVdlMmd3RDcxUGJ1ODgxZTd1UnZHdHcyS1VrTlV4NHdaS3dEWlpDVDEzVFMtTENOb2dIOThDQWx2ci0xekQxczdnazNtbnJ30gF8QVVfeXFMTVB0OHYyRENzdjdtVUFoel9GNkY4MVBmWXh5Y01wdUZVeEZtVC1UMi1rWEhtN05XbkYyOTBsdXJVVDVOVzMwTl90Q2ZjdkI4S25yNHM1UFRtX0tSZVNTQ1U3RFVjQlhaZWpEZFk4Qjd5enRGNlBaLXBQWEhmQQ?oc=5
 
-- A veteran economist tells us why he sees a recession and a stock crash by the end of 2027 - Business Insider
-  A veteran economist tells us why he sees a recession and a stock crash by the end of
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1NNNE5KRzJyTWxFU2wwYkZiMGZIWUF6SFpuMlhwbThHajI0SVFmSUU5bTNsU09XQURRYVdRaTlkRVp5UjZ4eXZoNU9TblhNUWllMW5MTF9XODg0dEFrWnVJN2pvallaY25XQUtzYnQ4aXpGOU9mdlUwTDF6MjMxRDZISGFzaV9LT3FEUERya0RZZzQ0OXYwU2dtSi0?oc=5
+- Stock market today: Dow, S&P 500, Nasdaq end losing week on a high note as Fed rate-hike bets jump - Yahoo Finance
+  Stock market today: Dow, S&amp;P 500, Nasdaq end losing week
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1l2WkJJQVE0M0JYMHZxNXo3RnRpU1dsckQ5WmdTa3J6MnVKd0IwSVJMbi1DUl9yVDItZnpSam9kTkFpZGl5RmRhRnVxSHo1Unc3UjRBQlg3Vk9OUXZqcWpyUkVldWJtYzlGekU0MG5Ob09Wbl9DdC1KSHpCX3NoWUwtMFJ1YmswREdUdjhNVVdYQXdjRFJxaHdiYWZnRWwtX0lWVmN1Wkl2UFZwVjFvX2R2Ykt6NjkyNko3VXFMeUVsZw?oc=5
 
-- What a Fed Rate Hike Could Mean for US Stocks - Goldman Sachs
-  Goldman Sachs: What a Fed
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTBLZmZzeFJtcjY1dVRma3NsTVBuTU1JSjFNbTdVdDUyWFFLNWcxaVV6QkJ1OVd2NWFfal8waFRBdHpnNl9VQXpybzBjU1h3eG9NSjAzWVo1dUNybDZyVHRnWjEyYVc2a21KdEdHaWFVWF9RTkMtNmJPanlLam8zMHp3SjBVZ29tZG04NGdxZnlHWjB2TzFoQ2Ftaw?oc=5
-
-- Senior living market can grow into a $10.1 bn prospect: ASLI-JLL - thehindu.com
-  Senior living market can grow into a $10
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMktOQmtQVWg2NS0xWGJYc29mRnd6N2lzTzI5YlZYb3VTcnhKT3h3cWZ6M1QtbjFkLTNwN0ROV1NYRFl5cTVhTDFrOG1jT3RoMUlUd2dRRnBDbU9uZmNFNjF0Y09FMmFNWFFEckJMNGZPdXFUZkJVdWVSQUJLcU9qLU04eUxzYklIaGJ2R0tRVnNWaFFtSW01cG5oMV9IV3dCejR1a2wxcXVMc1B3VWh2ajJjX0xhNzFGZXJDbnFVYjBtZ9IByAFBVV95cUxPX2hEajJQNXpBNFBpRXowQnFsTUphcTAwdExxczlsOGt4aDZlYkhxRjFQc1lGTGlSb3VqV0c2alRIdV9XWDlsVHpibENKeHFrS292bTJxbkd3LWk3SmFHb1dERktzMkFwX1RDRmxoTjhwek04ZzVfTTB2QW5iWVRmTkEwUk1VZTM1X1g4RnJGYjk3dUxqdkxSRk5CYXhycEV4enAtVVpmZE40cGFvVkgzcnQ4SzdKWHpTOVdOejZCODk0ck9GRlR5eQ?oc=5
+- The Many Signs of Madness in Markets - Bloomberg.com
+  The Many Signs of Madness
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUo0S2JJQnJDSWNxczVFYVFwajFvc19ZZGR2NTVzUTRtSy1kSnFsdHUxMkNJb1pTRW5ocU1GTUxpSU02MDZsMGFKR0hrWGVoMElRQlhKR0ZzcEJGYTFGNkE2NGNZZnQ4Tzl1R0tzSzFkTnVkeDY0LVNMMFhwb2wtWkZnT2hsbDlmRnNXdVYtX2dMR3dq?oc=5
 
 - President Xi says BRICS world's most influential platform for emerging markets' cooperation - news.cgtn.com
   President Xi says BRICS world's most influential platform
   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0huN01lMkNzSXFBTVZpN20zTmxwMExvb21MNU9yNmZVNFI5d280aTlBNGx4RlRNbk5mSndZcklkQjlsUFZia2VNSm5KWm1ZelVSU2ZIcVlkSXZRYWU4UkRrdmpKcDc1LUhaS1NJOHNjaktWWHlJV2dFQlVHN09BbjY5VWtFMV9INVF2QXVrZlNSZDRWY2NVYw?oc=5
+
+- BRICS backs carbon market cooperation while opposing unilateral CBAM - Down To Earth
+  BRICS backs carbon market cooperation while opposing unilateral
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWlsbkJrSXFVZlpWOFQzNkt1YTRPVFc0VWxYSnhDNE9aLWV0VHcyMGdyTFFsc3ZrTU05MTNWb3pGcEstQS1lOFVabjl1SnJyQW1lSUlKN2MtUm84WFFWUm1BQktvZFdkS1h2clRud2dJYnl5TVFBanJpOUxmMExZWkRQUnR1SU5nUkNKUEJRVFV4aHhRemF1QVBaTlBxY3hJTzN0bnhIVTBKUDNGZWhzTTI5TFnSAcIBQVVfeXFMT0dxTXQtNF9HM1BtdDR5Qko5SW82Qlc3YWp4S0VySjlFTzlKYjQ2N1I4MlZaZTdyemxLWTN0bUxyY0xQY2c2WEQxdW5NQkV0dUpMd2gtWTlsUTBES01raXJydEtQbk9sRDR1T1Rpa1FOQjNXdm5LRk5fMTFTYkJtT2dwblVPZFI4Y2pqVDQtUzJoSHRjYy0xakNrZDFjbTRVNFI2ZXZWcFVxSm1ITUR4Xy1pZ0RuMU5FS0VVSEJLT1I3T0E?oc=5
 
 - HDFC Bank submits two candidates to RBI for next CEO
   HDFC Bank has submitted names of two candidates to Reserve Bank of India. Bank is India's largest private lender.
@@ -140,25 +140,33 @@
   Bitcoin is currently hovering around $77,000 after a slight retreat from $78,000. Global crypto market capitalization has seen a marginal rise to $2.73 trillion. Investors are keeping a close watch on the upcoming FOM
   🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-at-77000-mark-as-profit-taking-weighs-on-market-september-fomc-meeting-to-act-as-next-catalyst/articleshow/134119011.cms
 
-- Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations - The Guardian
-  <ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNW
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNWFOdXl0Q1ZFWnp0RlNvVGZCYU92aFBocjJBZGY1QUZTbXpFclhpVFNqQTNxTmNvZ0dyZE5WQQ?oc=5
+- BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENT
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENTY1WU9WS04ybjlMQlE1S1A3VTNldzJ1WmF6aER4ZUV6MEhkSm1Oc2s5bndFR3FGRF9fQnRvX1d1YjJyLUh3QmJzRy14YVpUTDFIY0pSZ0p0UE5iUXlVWGw1RDNGYk9VdEQwVzBDNFFkOXE1RDl5cmlUSXltQTY40gHmAUFVX3lxTE1qc240c01FRW5Nc0lMTko3ZDdtcjBpNEUyMFIyMjEtOXU1WktkSWtVVC00SDZad0hkLWdrd3IteUFQMFBZUHNTWExDOWNQV0g4RzZ2OTlOY2ZDbzY4LTJ2SmtrcFdpNFdYMVJWX1lkZXV1QmM3NDBzdDlybVNFQWxPMmhaanRVVDh6WnRGbXNiVTM3NDdMWDRIR2ExaTNKU2xiTE1EeDNPZktaQ1JXSDVBZDhjTXl5dk1uN0ZOaThTaTNhaWthZFFTalZFZW51VTBWbERybG80VGJDNzJTNS1Tbi05QzF3?oc=5
 
-- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
-  Latest News, India News, Breaking News, Business
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHBET2R1X2JfMXE1TTVZWkI0ZWw1S2ZGYy1FSklrUXhiczl3Um1NVlJNQW5jTVNDa2x6cTlzcWdwTmZ4WlZfbFVMcFNiOUthMjFsRG0yUkFNQVVaMTdyM2JjRnFBOElQX0E4NzBJem5Yazg2Uk5ORF9JSDhrNzRDUHlUVUd0Z0dPU3k2cU1PSTBieVU?oc=5
+- Bangladesh says reviewing 101 pacts signed with India: 'Outcome very very soon' | India News - Hindustan Times
+  Bangladesh says reviewing 101 pacts signed with India: 'Out
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMXo5WFhTWDhvc2VEWDVxdkdwU2phSEFQcEl4VlMxdVRkQW9EejFLVzhlMFR0N1I2WURuZGVSRlJZWTVEcGVQOGVva3ZZajVob05lVjZZTTJCNXR5SUQydU9HMWExNE5qYkx1SUlQUHZhSkhwdGpRVEVOQjdBMk1vWDM2S0FRQkFGUk9GdVRxeklkUmEtTGFPZ2stUWdldm9DZmNQMkRtTDFFY0tidmRDc0R2X2VqQlM3dFlJdmhkUVJQMV9pOHctNmZpZWV4dFltRXZDQkxLYVZ6VW50TmNYbldsWVNDNS1XLUHSAe8BQVVfeXFMT1RDZ2tmU1huLVZmOXVTR1Z4UFJsN1ZxVzhhUmRSRE1rMUl0c05USXJyeFBWT3dMWkhKSklKOTAzcXBCQ1l5N2M2WUh4bU9yc3gyallUYUFXaC1KcXNaaFNKVVVCRUszTUlNeDJ4ZnpRNjVfSUk2bnBWemlPR0F2NVVOT3JrdmVSekE2NEpGOHNLWjA2cWRwSjdHTTYtSTdSeVRZTVFULXFFV01IVXBSNkhDaE90cThBT0sxbnJVQnpTc1VYUGZhRjdUZl9CeEp0dzMwZkdodk9ucWdtNEN5Z2lxMHUydm01RzZzaHZ5RHM?oc=5
 
-- Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace - CNBC
-  Tehran won’t surrender to the U.S., Iranian President
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWG1rRDBBeUJRNi1OQmszREdIeUE3YWRMWldYYVNDemVjMEpTbkR1TThTMmZLX3psemM4LTg0dTdVU3Fiakl6Z3BlNG00Xy1WQVBYYlRhSVNfXzI1dlVZaE41R0IwQWhwaXlQOGh4ZjZxb3daRFHSAXtBVV95cUxONUtpU3A1MkpLNlA3OVJOU1V4VF9PZnlVektDZ19IR2dyTnRiTXZudUJ2bllsaE55SFR5ZWZLVmxYNGhBd1o0Q0Y1TldDSjB3TzlQNUFrYXQ0QjhGQ3dnMFhDUHA0VXEyTVV4VVR1bWtGRkNvdWV4M2llVWs?oc=5
+- Before 9/11, India Was On Osama Bin Laden's Hit List, CIA Documents Reveal - NDTV
+  Before 9/11, India Was On Osama Bin Laden
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3JXaXlJeVdmWDVpdm1oLXF4aFk2NGFscE1DQmdoZkk4c3o4M255Sk16aURqRm9YdXQ5d1dYLWd5RTRueGFfdFpsY2N0eTYxdXF3YlNsZUd0SGpDcFJRMm1Fd3FOTVpSZXVIWHJMQW5haTcxTnU3Y1VlOVp0MGVBWmFnQ21mdkZZTFlONlZsZkdVbXNwYVRmR0QtWEczdWpYeHhEWHp2cTV5Q2RPeFlvYjJ5eHlzTUdnVlJYZHk4VlFuajl0NU51ckhSNm1FZmRB0gHYAUFVX3lxTFBab0taTXNaeGd0cXl5d2J1Ti0yaW1zNHhZYjFKenVZX0tpWXQyX3dLcUVPYXdHRE9iVDV2N042TkVWVi1Pb2VFdGJiTzQ0ekdpVjFpLTE2Q29OR3J3ODRwTFJIS1k3aGtiR2ZlR0t0T3htMEVlWWozNXRjZFFya2UzbVVMSjluNVNsS2Y2c1o4QklXZDZsZlp6cHo3Y3dadFRLWDZFQ1l6NGZJaWtHWUJqVDVob2E5ckxRRUlwWjJrU3ZsaTZXdHpacEZPTlpjeEdJbjI3VWRVdA?oc=5
 
-- PM Modi, Iran's Pezeshkian Hand-In-Hand: India's Picture Perfect Diplomacy - NDTV
-  PM Modi, Iran's Pez
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPTl9VazZWbGNjdmNaVHN3MUZERWdVcHlBOEZKeGlndXFEOEtQSF9VUXM0VUQwZGw3UmhaZFFqOWFpMHFpaUUzakVGTHQ0dVlVcmNydmxubjRvWVJNMmVkejlQWTN5am9JS0NldDlQQ2pCYjdZUEV5dE9NV0FEczBQNHNLb21XUG5peVFOOFdZbzlyTVE4cUQ1T1FVMldjNlNxRVFyckpLS3dmSXhwRG1CZHZrNTNiRHJPV2xSSUlSYXpqQmVEMzdPb21B0gHSAUFVX3lxTFA0LVZDSjA4Q0ttRTZnTF9VNkdWSE1aVDE4YlRROTFLa2pTNk5JaW1pWlYyQllCRkswSkVkaFRYTF9WNElWSDg4T3ZqTExnZEkwc1hld3pCd2VPTnlOMjQ0X0RtdnlPSmZmQmowUDJFd1pmVHZxbDg5LW9INWE5eVE2TnlnaDY0UXZEY2N1T3ZZeEZwMGp2M3pxX01lRUJBY2UtSlpqeDRFSWRNTzZvNWg0d2ZmY1FFQUZYUHBNUm9ZeHVuZmNORlcybEhlSWpPMEFfZw?oc=5
+- Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
+  Former Air India Pilot Found Dead At 5-Star Hotel
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
 
-- 'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off on Brics joint statement - The Times of India
-  'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNG5GbVlnVWVWYWhNR0VLMUlheVNLN3RnS1VBSUxkLWh4T1RJQmJDZWg5ZXg4OVZzd2dSNVZKeGtrTGllRlRLbmhXWWdtc1dsaER2U1o4aVBaMWhCd21JcjlpVG80aDVNTjJsR1BKTW1JNFp1LVU4VUVNNG8tUVloUUstVm1qVVRQYzloelh0VFRjeTVCNm5JemcyWWlSelZRYnVxcWVxc2U2eEYzWWNaeW1lODc5UkhjbktyNmJnaXcxajhUZmE1VGN3VTVaNi1FSndlZVJCZk5YRXV2OGtpU3hyYzZram5tbl8xX0ZTYlBodm5C0gH6AUFVX3lxTE92N3pRRzdsNU9wY2Rybjd0ZVIycnVHWDJWckFmS0ZraEMySjdYZW14ejR3WDM1eU9ET0E3d1NyTlRhSzNkN18wQnVOTHJKMGNtbTVJNExDd1djNmVTMlJUN0VkQ21McXEwTHpGSGpPOThFOEVtcmd3YWlJNElycXhFMVZneGhaUjdCamcwTDhwTzg1SHRoaEQxVnlkb3hLQmNHVTF3U25iVnBOb2JNWE5Ba3BaT0xrVTA2alNMT2VxM3pYYk5MUFVjVm1kaEd2dlZOZUFENWp3M2JxNkdVdXROTHcxcjJwc1VZNGEyVmhtbE11RWQ2VXd3amc?oc=5
+- ‘Room locked from inside’: Air India captain found dead in Delhi hotel; brother alerted staff | India News - Hindustan Times
+  ‘Room locked from inside’: Air India captain found dead in Delhi hotel
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTTU1SWpHRFY2TWNzcEtEb2RiUnNJU3Fta0EwMzlxYjVIQ3dGNk54cUdHdXNDdXN5TnFLbVpoNGdnc2J5cEhxWDZuRXRJd0VnSk1jRWFUZzIwQU9xNS1zcmxiR3l3YUdVMGlMc0xJR2JEVl9pSDd0aEpZSVNvVzJtUEdoZ0MzVGdzYjhLWEE2QXI2aEFrNlZGQUJJRnhrUERDZjRvcGs1SjE4eUI4MUN5X25LMUM2OVcybXpJLU5OYlRmUXFKOGJoR2YwTTdPc0ExTjNsaERBekppSFZxeWpfYlRFLXZnVjTSAewBQVVfeXFMUDFXM0J2ZmswNzBLZl9FQktOSUE2UEg3NHJDMUV4cFBXTkNocXFleTVuOVh0MWVMWUR5d0Rtc2lkU182Uk50OU5waS1hdmE0Wk14RkVoSlQwdXd3ZlUyYW1WcVBBUU8zS0ZxdjRxaExsVWNMNGNTLXY2Qk13ZDNqTHZ6VWw3eXFONFdRQUtuZ2lFM2ZkY0ZaSktBSE5pTXNyRGVia1lRWVB6bm0weDZMUU1hZGdvRnh6SzVqZ1dTTE1nN3Y1ek5jWnY0cTBTaDZJZEt0bHIwdUpfTjZPT3EyVzRlUzFoOE5WVkltMWM?oc=5
+
+- PM Modi Bats For A Cross-Border Corridor For BRICS Startups
+  Prime Minister (PM) Narendra Modi has urged the BRICS (Brazil, Russia, India, China and South Africa) nations to set up
+  🔗 https://inc42.com/buzz/pm-modi-bats-for-a-cross-border-corridor-for-brics-startups/
+
+- After Sam Altman, Anthropic’s Dario Amodei Calls For Pacing AI Development
+  Anthropic’s Dario Amodei Calls For Pacing AI Development. Sam Altman said that OpenAI was open to slowing the development of AI systems.
+  🔗 https://inc42.com/buzz/after-sam-altman-anthropics-dario-amodei-calls-for-pacing-ai-development/
 
 - ESDS Soars 92% To Lead New-Age Tech Stocks This Week, MDR Hopes Lift Fintechs
   New-age tech stocks delivered a mixed performance this week as weakness in the broader equity market kept investor sentiment cautious.
@@ -172,53 +180,45 @@
   For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
   🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
 
-- Zomato Starts Charging Cash-On-Delivery Customers Up To ₹21 Extra
-  Eternal’s food delivery arm Zomato has begun charging an additional ‘Pay on delivery’ fee on some cash-on-delivery orders.
-  🔗 https://inc42.com/buzz/zomato-starts-charging-cash-on-delivery-customers-up-to-%e2%82%b921-extra/
+- BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENT
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENTY1WU9WS04ybjlMQlE1S1A3VTNldzJ1WmF6aER4ZUV6MEhkSm1Oc2s5bndFR3FGRF9fQnRvX1d1YjJyLUh3QmJzRy14YVpUTDFIY0pSZ0p0UE5iUXlVWGw1RDNGYk9VdEQwVzBDNFFkOXE1RDl5cmlUSXltQTY40gHmAUFVX3lxTE1qc240c01FRW5Nc0lMTko3ZDdtcjBpNEUyMFIyMjEtOXU1WktkSWtVVC00SDZad0hkLWdrd3IteUFQMFBZUHNTWExDOWNQV0g4RzZ2OTlOY2ZDbzY4LTJ2SmtrcFdpNFdYMVJWX1lkZXV1QmM3NDBzdDlybVNFQWxPMmhaanRVVDh6WnRGbXNiVTM3NDdMWDRIR2ExaTNKU2xiTE1EeDNPZktaQ1JXSDVBZDhjTXl5dk1uN0ZOaThTaTNhaWthZFFTalZFZW51VTBWbERybG80VGJDNzJTNS1Tbi05QzF3?oc=5
 
-- NPCI’s FY26 Profit Drops 32% YoY To ₹989 Cr As Tax Outgo, BHIM Loss Surge
-  NPCI’s consolidated net profit fell 32.4% to ₹989.4 Cr in the financial year ended&#8230;.
-  🔗 https://inc42.com/buzz/npcis-fy26-profit-drops-32-yoy-to-%e2%82%b9989-cr-as-tax-outgo-bhim-loss-surge/
+- Bangladesh says reviewing 101 pacts signed with India: 'Outcome very very soon' | India News - Hindustan Times
+  Bangladesh says reviewing 101 pacts signed with India: 'Out
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMXo5WFhTWDhvc2VEWDVxdkdwU2phSEFQcEl4VlMxdVRkQW9EejFLVzhlMFR0N1I2WURuZGVSRlJZWTVEcGVQOGVva3ZZajVob05lVjZZTTJCNXR5SUQydU9HMWExNE5qYkx1SUlQUHZhSkhwdGpRVEVOQjdBMk1vWDM2S0FRQkFGUk9GdVRxeklkUmEtTGFPZ2stUWdldm9DZmNQMkRtTDFFY0tidmRDc0R2X2VqQlM3dFlJdmhkUVJQMV9pOHctNmZpZWV4dFltRXZDQkxLYVZ6VW50TmNYbldsWVNDNS1XLUHSAe8BQVVfeXFMT1RDZ2tmU1huLVZmOXVTR1Z4UFJsN1ZxVzhhUmRSRE1rMUl0c05USXJyeFBWT3dMWkhKSklKOTAzcXBCQ1l5N2M2WUh4bU9yc3gyallUYUFXaC1KcXNaaFNKVVVCRUszTUlNeDJ4ZnpRNjVfSUk2bnBWemlPR0F2NVVOT3JrdmVSekE2NEpGOHNLWjA2cWRwSjdHTTYtSTdSeVRZTVFULXFFV01IVXBSNkhDaE90cThBT0sxbnJVQnpTc1VYUGZhRjdUZl9CeEp0dzMwZkdodk9ucWdtNEN5Z2lxMHUydm01RzZzaHZ5RHM?oc=5
 
-- Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations - The Guardian
-  <ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNW
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNWFOdXl0Q1ZFWnp0RlNvVGZCYU92aFBocjJBZGY1QUZTbXpFclhpVFNqQTNxTmNvZ0dyZE5WQQ?oc=5
+- Before 9/11, India Was On Osama Bin Laden's Hit List, CIA Documents Reveal - NDTV
+  Before 9/11, India Was On Osama Bin Laden
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3JXaXlJeVdmWDVpdm1oLXF4aFk2NGFscE1DQmdoZkk4c3o4M255Sk16aURqRm9YdXQ5d1dYLWd5RTRueGFfdFpsY2N0eTYxdXF3YlNsZUd0SGpDcFJRMm1Fd3FOTVpSZXVIWHJMQW5haTcxTnU3Y1VlOVp0MGVBWmFnQ21mdkZZTFlONlZsZkdVbXNwYVRmR0QtWEczdWpYeHhEWHp2cTV5Q2RPeFlvYjJ5eHlzTUdnVlJYZHk4VlFuajl0NU51ckhSNm1FZmRB0gHYAUFVX3lxTFBab0taTXNaeGd0cXl5d2J1Ti0yaW1zNHhZYjFKenVZX0tpWXQyX3dLcUVPYXdHRE9iVDV2N042TkVWVi1Pb2VFdGJiTzQ0ekdpVjFpLTE2Q29OR3J3ODRwTFJIS1k3aGtiR2ZlR0t0T3htMEVlWWozNXRjZFFya2UzbVVMSjluNVNsS2Y2c1o4QklXZDZsZlp6cHo3Y3dadFRLWDZFQ1l6NGZJaWtHWUJqVDVob2E5ckxRRUlwWjJrU3ZsaTZXdHpacEZPTlpjeEdJbjI3VWRVdA?oc=5
 
-- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
-  Latest News, India News, Breaking News, Business
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHBET2R1X2JfMXE1TTVZWkI0ZWw1S2ZGYy1FSklrUXhiczl3Um1NVlJNQW5jTVNDa2x6cTlzcWdwTmZ4WlZfbFVMcFNiOUthMjFsRG0yUkFNQVVaMTdyM2JjRnFBOElQX0E4NzBJem5Yazg2Uk5ORF9JSDhrNzRDUHlUVUd0Z0dPU3k2cU1PSTBieVU?oc=5
+- Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
+  Former Air India Pilot Found Dead At 5-Star Hotel
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
 
-- Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace - CNBC
-  Tehran won’t surrender to the U.S., Iranian President
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWG1rRDBBeUJRNi1OQmszREdIeUE3YWRMWldYYVNDemVjMEpTbkR1TThTMmZLX3psemM4LTg0dTdVU3Fiakl6Z3BlNG00Xy1WQVBYYlRhSVNfXzI1dlVZaE41R0IwQWhwaXlQOGh4ZjZxb3daRFHSAXtBVV95cUxONUtpU3A1MkpLNlA3OVJOU1V4VF9PZnlVektDZ19IR2dyTnRiTXZudUJ2bllsaE55SFR5ZWZLVmxYNGhBd1o0Q0Y1TldDSjB3TzlQNUFrYXQ0QjhGQ3dnMFhDUHA0VXEyTVV4VVR1bWtGRkNvdWV4M2llVWs?oc=5
+- ‘Room locked from inside’: Air India captain found dead in Delhi hotel; brother alerted staff | India News - Hindustan Times
+  ‘Room locked from inside’: Air India captain found dead in Delhi hotel
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTTU1SWpHRFY2TWNzcEtEb2RiUnNJU3Fta0EwMzlxYjVIQ3dGNk54cUdHdXNDdXN5TnFLbVpoNGdnc2J5cEhxWDZuRXRJd0VnSk1jRWFUZzIwQU9xNS1zcmxiR3l3YUdVMGlMc0xJR2JEVl9pSDd0aEpZSVNvVzJtUEdoZ0MzVGdzYjhLWEE2QXI2aEFrNlZGQUJJRnhrUERDZjRvcGs1SjE4eUI4MUN5X25LMUM2OVcybXpJLU5OYlRmUXFKOGJoR2YwTTdPc0ExTjNsaERBekppSFZxeWpfYlRFLXZnVjTSAewBQVVfeXFMUDFXM0J2ZmswNzBLZl9FQktOSUE2UEg3NHJDMUV4cFBXTkNocXFleTVuOVh0MWVMWUR5d0Rtc2lkU182Uk50OU5waS1hdmE0Wk14RkVoSlQwdXd3ZlUyYW1WcVBBUU8zS0ZxdjRxaExsVWNMNGNTLXY2Qk13ZDNqTHZ6VWw3eXFONFdRQUtuZ2lFM2ZkY0ZaSktBSE5pTXNyRGVia1lRWVB6bm0weDZMUU1hZGdvRnh6SzVqZ1dTTE1nN3Y1ek5jWnY0cTBTaDZJZEt0bHIwdUpfTjZPT3EyVzRlUzFoOE5WVkltMWM?oc=5
 
-- PM Modi, Iran's Pezeshkian Hand-In-Hand: India's Picture Perfect Diplomacy - NDTV
-  PM Modi, Iran's Pez
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPTl9VazZWbGNjdmNaVHN3MUZERWdVcHlBOEZKeGlndXFEOEtQSF9VUXM0VUQwZGw3UmhaZFFqOWFpMHFpaUUzakVGTHQ0dVlVcmNydmxubjRvWVJNMmVkejlQWTN5am9JS0NldDlQQ2pCYjdZUEV5dE9NV0FEczBQNHNLb21XUG5peVFOOFdZbzlyTVE4cUQ1T1FVMldjNlNxRVFyckpLS3dmSXhwRG1CZHZrNTNiRHJPV2xSSUlSYXpqQmVEMzdPb21B0gHSAUFVX3lxTFA0LVZDSjA4Q0ttRTZnTF9VNkdWSE1aVDE4YlRROTFLa2pTNk5JaW1pWlYyQllCRkswSkVkaFRYTF9WNElWSDg4T3ZqTExnZEkwc1hld3pCd2VPTnlOMjQ0X0RtdnlPSmZmQmowUDJFd1pmVHZxbDg5LW9INWE5eVE2TnlnaDY0UXZEY2N1T3ZZeEZwMGp2M3pxX01lRUJBY2UtSlpqeDRFSWRNTzZvNWg0d2ZmY1FFQUZYUHBNUm9ZeHVuZmNORlcybEhlSWpPMEFfZw?oc=5
+- BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENT
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENTY1WU9WS04ybjlMQlE1S1A3VTNldzJ1WmF6aER4ZUV6MEhkSm1Oc2s5bndFR3FGRF9fQnRvX1d1YjJyLUh3QmJzRy14YVpUTDFIY0pSZ0p0UE5iUXlVWGw1RDNGYk9VdEQwVzBDNFFkOXE1RDl5cmlUSXltQTY40gHmAUFVX3lxTE1qc240c01FRW5Nc0lMTko3ZDdtcjBpNEUyMFIyMjEtOXU1WktkSWtVVC00SDZad0hkLWdrd3IteUFQMFBZUHNTWExDOWNQV0g4RzZ2OTlOY2ZDbzY4LTJ2SmtrcFdpNFdYMVJWX1lkZXV1QmM3NDBzdDlybVNFQWxPMmhaanRVVDh6WnRGbXNiVTM3NDdMWDRIR2ExaTNKU2xiTE1EeDNPZktaQ1JXSDVBZDhjTXl5dk1uN0ZOaThTaTNhaWthZFFTalZFZW51VTBWbERybG80VGJDNzJTNS1Tbi05QzF3?oc=5
 
-- 'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off on Brics joint statement - The Times of India
-  'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNG5GbVlnVWVWYWhNR0VLMUlheVNLN3RnS1VBSUxkLWh4T1RJQmJDZWg5ZXg4OVZzd2dSNVZKeGtrTGllRlRLbmhXWWdtc1dsaER2U1o4aVBaMWhCd21JcjlpVG80aDVNTjJsR1BKTW1JNFp1LVU4VUVNNG8tUVloUUstVm1qVVRQYzloelh0VFRjeTVCNm5JemcyWWlSelZRYnVxcWVxc2U2eEYzWWNaeW1lODc5UkhjbktyNmJnaXcxajhUZmE1VGN3VTVaNi1FSndlZVJCZk5YRXV2OGtpU3hyYzZram5tbl8xX0ZTYlBodm5C0gH6AUFVX3lxTE92N3pRRzdsNU9wY2Rybjd0ZVIycnVHWDJWckFmS0ZraEMySjdYZW14ejR3WDM1eU9ET0E3d1NyTlRhSzNkN18wQnVOTHJKMGNtbTVJNExDd1djNmVTMlJUN0VkQ21McXEwTHpGSGpPOThFOEVtcmd3YWlJNElycXhFMVZneGhaUjdCamcwTDhwTzg1SHRoaEQxVnlkb3hLQmNHVTF3U25iVnBOb2JNWE5Ba3BaT0xrVTA2alNMT2VxM3pYYk5MUFVjVm1kaEd2dlZOZUFENWp3M2JxNkdVdXROTHcxcjJwc1VZNGEyVmhtbE11RWQ2VXd3amc?oc=5
+- Bangladesh says reviewing 101 pacts signed with India: 'Outcome very very soon' | India News - Hindustan Times
+  Bangladesh says reviewing 101 pacts signed with India: 'Out
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMXo5WFhTWDhvc2VEWDVxdkdwU2phSEFQcEl4VlMxdVRkQW9EejFLVzhlMFR0N1I2WURuZGVSRlJZWTVEcGVQOGVva3ZZajVob05lVjZZTTJCNXR5SUQydU9HMWExNE5qYkx1SUlQUHZhSkhwdGpRVEVOQjdBMk1vWDM2S0FRQkFGUk9GdVRxeklkUmEtTGFPZ2stUWdldm9DZmNQMkRtTDFFY0tidmRDc0R2X2VqQlM3dFlJdmhkUVJQMV9pOHctNmZpZWV4dFltRXZDQkxLYVZ6VW50TmNYbldsWVNDNS1XLUHSAe8BQVVfeXFMT1RDZ2tmU1huLVZmOXVTR1Z4UFJsN1ZxVzhhUmRSRE1rMUl0c05USXJyeFBWT3dMWkhKSklKOTAzcXBCQ1l5N2M2WUh4bU9yc3gyallUYUFXaC1KcXNaaFNKVVVCRUszTUlNeDJ4ZnpRNjVfSUk2bnBWemlPR0F2NVVOT3JrdmVSekE2NEpGOHNLWjA2cWRwSjdHTTYtSTdSeVRZTVFULXFFV01IVXBSNkhDaE90cThBT0sxbnJVQnpTc1VYUGZhRjdUZl9CeEp0dzMwZkdodk9ucWdtNEN5Z2lxMHUydm01RzZzaHZ5RHM?oc=5
 
-- Xi Jinping gets red carpet at Brics summit amid thaw in India-China relations - The Guardian
-  <ol><li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNW
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQc0tmX1NkZ2tPcFg0SXJpWThVWlc2dGlGY2RwZHpjMUQzWjNUaU94ekZ3R3VKVDI1eTVpNl84N3N3RGIxZzlQNExrSmxZQkM5aENFS0RXQWM0c1NRYTIyeDVRY050RUdqNWFOdXl0Q1ZFWnp0RlNvVGZCYU92aFBocjJBZGY1QUZTbXpFclhpVFNqQTNxTmNvZ0dyZE5WQQ?oc=5
+- Before 9/11, India Was On Osama Bin Laden's Hit List, CIA Documents Reveal - NDTV
+  Before 9/11, India Was On Osama Bin Laden
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3JXaXlJeVdmWDVpdm1oLXF4aFk2NGFscE1DQmdoZkk4c3o4M255Sk16aURqRm9YdXQ5d1dYLWd5RTRueGFfdFpsY2N0eTYxdXF3YlNsZUd0SGpDcFJRMm1Fd3FOTVpSZXVIWHJMQW5haTcxTnU3Y1VlOVp0MGVBWmFnQ21mdkZZTFlONlZsZkdVbXNwYVRmR0QtWEczdWpYeHhEWHp2cTV5Q2RPeFlvYjJ5eHlzTUdnVlJYZHk4VlFuajl0NU51ckhSNm1FZmRB0gHYAUFVX3lxTFBab0taTXNaeGd0cXl5d2J1Ti0yaW1zNHhZYjFKenVZX0tpWXQyX3dLcUVPYXdHRE9iVDV2N042TkVWVi1Pb2VFdGJiTzQ0ekdpVjFpLTE2Q29OR3J3ODRwTFJIS1k3aGtiR2ZlR0t0T3htMEVlWWozNXRjZFFya2UzbVVMSjluNVNsS2Y2c1o4QklXZDZsZlp6cHo3Y3dadFRLWDZFQ1l6NGZJaWtHWUJqVDVob2E5ckxRRUlwWjJrU3ZsaTZXdHpacEZPTlpjeEdJbjI3VWRVdA?oc=5
 
-- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
-  Latest News, India News, Breaking News, Business
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHBET2R1X2JfMXE1TTVZWkI0ZWw1S2ZGYy1FSklrUXhiczl3Um1NVlJNQW5jTVNDa2x6cTlzcWdwTmZ4WlZfbFVMcFNiOUthMjFsRG0yUkFNQVVaMTdyM2JjRnFBOElQX0E4NzBJem5Yazg2Uk5ORF9JSDhrNzRDUHlUVUd0Z0dPU3k2cU1PSTBieVU?oc=5
+- Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
+  Former Air India Pilot Found Dead At 5-Star Hotel
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
 
-- Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace - CNBC
-  Tehran won’t surrender to the U.S., Iranian President
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWG1rRDBBeUJRNi1OQmszREdIeUE3YWRMWldYYVNDemVjMEpTbkR1TThTMmZLX3psemM4LTg0dTdVU3Fiakl6Z3BlNG00Xy1WQVBYYlRhSVNfXzI1dlVZaE41R0IwQWhwaXlQOGh4ZjZxb3daRFHSAXtBVV95cUxONUtpU3A1MkpLNlA3OVJOU1V4VF9PZnlVektDZ19IR2dyTnRiTXZudUJ2bllsaE55SFR5ZWZLVmxYNGhBd1o0Q0Y1TldDSjB3TzlQNUFrYXQ0QjhGQ3dnMFhDUHA0VXEyTVV4VVR1bWtGRkNvdWV4M2llVWs?oc=5
-
-- PM Modi, Iran's Pezeshkian Hand-In-Hand: India's Picture Perfect Diplomacy - NDTV
-  PM Modi, Iran's Pez
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPTl9VazZWbGNjdmNaVHN3MUZERWdVcHlBOEZKeGlndXFEOEtQSF9VUXM0VUQwZGw3UmhaZFFqOWFpMHFpaUUzakVGTHQ0dVlVcmNydmxubjRvWVJNMmVkejlQWTN5am9JS0NldDlQQ2pCYjdZUEV5dE9NV0FEczBQNHNLb21XUG5peVFOOFdZbzlyTVE4cUQ1T1FVMldjNlNxRVFyckpLS3dmSXhwRG1CZHZrNTNiRHJPV2xSSUlSYXpqQmVEMzdPb21B0gHSAUFVX3lxTFA0LVZDSjA4Q0ttRTZnTF9VNkdWSE1aVDE4YlRROTFLa2pTNk5JaW1pWlYyQllCRkswSkVkaFRYTF9WNElWSDg4T3ZqTExnZEkwc1hld3pCd2VPTnlOMjQ0X0RtdnlPSmZmQmowUDJFd1pmVHZxbDg5LW9INWE5eVE2TnlnaDY0UXZEY2N1T3ZZeEZwMGp2M3pxX01lRUJBY2UtSlpqeDRFSWRNTzZvNWg0d2ZmY1FFQUZYUHBNUm9ZeHVuZmNORlcybEhlSWpPMEFfZw?oc=5
-
-- 'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off on Brics joint statement - The Times of India
-  'Talks till 4am': How India got rivals Iran, Saudi Arabia & UAE to sign off
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNG5GbVlnVWVWYWhNR0VLMUlheVNLN3RnS1VBSUxkLWh4T1RJQmJDZWg5ZXg4OVZzd2dSNVZKeGtrTGllRlRLbmhXWWdtc1dsaER2U1o4aVBaMWhCd21JcjlpVG80aDVNTjJsR1BKTW1JNFp1LVU4VUVNNG8tUVloUUstVm1qVVRQYzloelh0VFRjeTVCNm5JemcyWWlSelZRYnVxcWVxc2U2eEYzWWNaeW1lODc5UkhjbktyNmJnaXcxajhUZmE1VGN3VTVaNi1FSndlZVJCZk5YRXV2OGtpU3hyYzZram5tbl8xX0ZTYlBodm5C0gH6AUFVX3lxTE92N3pRRzdsNU9wY2Rybjd0ZVIycnVHWDJWckFmS0ZraEMySjdYZW14ejR3WDM1eU9ET0E3d1NyTlRhSzNkN18wQnVOTHJKMGNtbTVJNExDd1djNmVTMlJUN0VkQ21McXEwTHpGSGpPOThFOEVtcmd3YWlJNElycXhFMVZneGhaUjdCamcwTDhwTzg1SHRoaEQxVnlkb3hLQmNHVTF3U25iVnBOb2JNWE5Ba3BaT0xrVTA2alNMT2VxM3pYYk5MUFVjVm1kaEd2dlZOZUFENWp3M2JxNkdVdXROTHcxcjJwc1VZNGEyVmhtbE11RWQ2VXd3amc?oc=5
+- ‘Room locked from inside’: Air India captain found dead in Delhi hotel; brother alerted staff | India News - Hindustan Times
+  ‘Room locked from inside’: Air India captain found dead in Delhi hotel
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTTU1SWpHRFY2TWNzcEtEb2RiUnNJU3Fta0EwMzlxYjVIQ3dGNk54cUdHdXNDdXN5TnFLbVpoNGdnc2J5cEhxWDZuRXRJd0VnSk1jRWFUZzIwQU9xNS1zcmxiR3l3YUdVMGlMc0xJR2JEVl9pSDd0aEpZSVNvVzJtUEdoZ0MzVGdzYjhLWEE2QXI2aEFrNlZGQUJJRnhrUERDZjRvcGs1SjE4eUI4MUN5X25LMUM2OVcybXpJLU5OYlRmUXFKOGJoR2YwTTdPc0ExTjNsaERBekppSFZxeWpfYlRFLXZnVjTSAewBQVVfeXFMUDFXM0J2ZmswNzBLZl9FQktOSUE2UEg3NHJDMUV4cFBXTkNocXFleTVuOVh0MWVMWUR5d0Rtc2lkU182Uk50OU5waS1hdmE0Wk14RkVoSlQwdXd3ZlUyYW1WcVBBUU8zS0ZxdjRxaExsVWNMNGNTLXY2Qk13ZDNqTHZ6VWw3eXFONFdRQUtuZ2lFM2ZkY0ZaSktBSE5pTXNyRGVia1lRWVB6bm0weDZMUU1hZGdvRnh6SzVqZ1dTTE1nN3Y1ek5jWnY0cTBTaDZJZEt0bHIwdUpfTjZPT3EyVzRlUzFoOE5WVkltMWM?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-12 20:06:38 UTC_
+_Last updated: 2026-09-13 02:43:48 UTC_
