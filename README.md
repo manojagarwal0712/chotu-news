@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- Elivaas looks beyond individual holiday homes for growth
-  Elicaas has launched a  �
-  🔗 https://www.livemint.com/companies/news/elivaas-looks-beyond-individual-holiday-homes-for-growth-11789318511139.html
+- Xi's 5-point action plan for Brics may see red flags go up in India - The Times of India
+  Xi's 5-point action plan for Brics may see red flags go
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXNaYVUyRTZDU2dXdi1Gemo2RjZQb3JCcEQ2eFJIMG4zck5ld0RPNktiN0labGVwM2VRRGVWN1lmbUtjVlc0QmdlRGd0ZHpfQWJnbXJjN0F2ekJ4V2FPbUxsclExX29uVy1qMmtmalBmLU5mSF8xdVJtTmJyVzI4MWFnektERlBVR3VCUi1XRVB1OUpWcFdEelozekM3WUJsLUdZV3pITE5ibEphV2ZYWXJadGRGOUM3NzRXMHNrWmR6TVdEOFp3LTdDUlpWNWPSAdQBQVVfeXFMT2hPU0xSeVpHUEl3UGRzZW9iQVBYV2R2N3BXdWs4NVY2N1VLemVmTHBXQktJWlV6QkRMaTk1S2taZzZxSmNvc0F5aW5GSzZER1BpTEZ6Uk9QTlBNQm5PZTY4YmNQX3NEWTZ4eFk0Qmw1aklPVUZuN2VUVGNSYVZRbEdsQ0o3S3AzVkxPSVcwN25GMkdDeTRvYTRoM19IdFl1ZEJ2UFNlVGRUd0dqMnhTY1VFZzdXNW9rS0w0UFE0czN0R2ljNGhlUUJDWUszZnFZYXM1bjg?oc=5
 
-- Tata Sons under IPO pressure: Noel faces biggest crisis amid RBI push for public listing
-  RBI's IPO mandate poses unprecedented challenge for Tata Sons. Chairman Noel Tata faces biggest crisis as India
-  🔗 https://www.livemint.com/companies/news/tata-sons-under-ipo-pressure-noel-faces-biggest-crisis-amid-rbis-regulatory-push-for-public-listing-11789377205627.html
+- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
+  PM Modi Pauses BRICS Speech To Check On
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
 
-- Inside Nvidia's exit interviews: Why CEO Jensen Huang doesn't hold back on startup dreams
-  Jensen Huang counsels outgoing staff with a mix of blunt business critique, personal concern, and,
-  🔗 https://www.livemint.com/companies/people/inside-nvidias-exit-interviews-why-ceo-jensen-huang-doesnt-hold-back-on-startup-dreams-11789372882769.html
+- Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy | India News - Hindustan Times
+  Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZGIyeG1GSlVTZFpQSnZud1lpLVJvRTV0RVhKRW5oN1oxOElxcWpPazAwblZJTjdiN2hrcnZzZFVFZ1ZkdmY0SWtaNzZHR2EtbldldTFtWmdiZFBBclhkNzlVcmtKSzYwZmZOWTdOUWJkZEROOWlNbzVXT2hMd2NJWFo4bmd1T204SVBlX2VHN3Q3U0VkOUtXcEZDR29XQTd0VUdBN1NIVU1rQzN1Y2RrbDUtNEUxcWwxMlJMY05PcEZvY3NUSU5jVzU5VUlKcGpHM1g0c051YnNpcEtKVHh0azlRTS1heU03XzRRcUN2VkNkbXNpU1BSWXFSQdIBgAJBVV95cUxPZFR1R0xjN3pELUFLcTh5YnpuM3dyTnl2S2w2R1VqRzBsWl9WY2hKN21yTmluMEZzU2FaTlZrTUM5ZjVqYjUtUzg2SkJjNUJVZkdNMWZzVjlIYnJaT2dqSWFCWHg2VVpINkJBV29BektibWVCSVdvUWdyQm5GNW84dmtGa1lLTnVkX3RCWk55YVNtakxCQnExZEZDQzZ1dDYtcXdvekE1RExzb0I4d1FZeF9lYWxIOFVWRXV1T3M5dmlWckRoemlpTWc5X0pMNUp4QW00czJLYXdESlZ5aTBGRjB2UDZuWTBtbnhTM1hsaGNXbFJULXRVd1MxMVJZeGFI?oc=5
 
-- Ahead of festive season, Amazon goes big on operations network expansion, to add 150 delivery stations
-  Amazon India has announced its biggest-ever operations network expansion ahead of the festive season. The company will also create 1.6 lakh temporary jobs to meet the anticipated surge in demand.
-  🔗 https://www.livemint.com/companies/news/ahead-of-the-festive-season-amazon-goes-big-with-operations-network-expansion-to-add-150-delivery-stations-11789374989066.html
+- Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
+  Former Air India Pilot Found Dead At 5-Star Hotel
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
 
-- InsuranceDekho co-founders Ankit Agrawal, Ish Babbar express intent to step down
-  InsuranceDekho just completed one of the largest mergers in the segment with RenewBuy
-  🔗 https://www.livemint.com/companies/insurancedekho-ipo-founders-exit-renewbuy-merger-pre-ipo-funding-11789370937465.html
+- Air India pilot dies during Delhi layover - The Times of India
+  Air India pilot dies during Delhi layover
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2ZBOUxzYUFzRC1panBaRXZ5aTBYTjJVbjltOWFsTGt5akQ4b2JZRDRma1pqeGlqMzRGN2t0QUVoNHVUSDA0NEtQVnRrdmNlVjNQSnJjSzRobFRfN0pwSmFPdF9zbG5pTy1xMmplTHFyckw1dGEtQzk3WWk5OF9Wc1pFX0FnclFtenp5dHp4a0VFTXFuUmNOdEM0cUlWRmpvYVV0Z2xTSzZ3R2F6bnfSAbMBQVVfeXFMUENSODFTLWtPLUZ5RkI0cno0c0NnQ2NTOFh3YjVxWVVWRVZiQWFRWXFNZDM0RmN6ZmE3emlJLWVXUlU2NVhSZkFaaG5TMmxFMVJDZUJYeHA2czczWVViSnVYOXdCYTVlTGNmLUoybURrTHJ6Ul9ZTUxUcWRJSXduTDhFTkJLSGE4MFVXSENpSTNtSmZfRDJ5T0dZZWJfT2xacmRfUGJHbFF5NjlmMUk1NTdSS3c?oc=5
 
-- ₹2.33 to  ₹279.70: Multibagger penny stock turns  ₹1 lakh into  ₹1.20 crore in four years
-  Multibagger stock has delivered over 165% return in Y
-  🔗 https://www.livemint.com/market/stock-market-news/233-to-279-70-multibagger-penny-stock-cupid-turns-1-lakh-into-1-20-crore-in-four-years-11789378469222.html
+- 10-year Treasury yield hits highest level since 2023 as US Federal Reserve decision looms
+  The US 10-year Treasury yield rose to 5%, its highest since October 2023. The Federal Reserve may increase interest rates, with a 90% chance of a hike.
+  🔗 https://www.livemint.com/market/stock-market-news/10year-treasury-yield-hits-highest-level-since-2023-as-us-federal-reserve-decision-looms-11789400968499.html
 
-- Japanese stocks: Nikkei 225 sell-off deepens as AI slowdown concerns hits chip stocks; should investors worry?
-  Japanese stocks dropped significantly on September 14, influenced by global market weakness and rising oil prices. The Nikkei 225 fell 0.9%, led by
-  🔗 https://www.livemint.com/market/stock-market-news/japanese-stocks-nikkei-225-sell-off-deepens-as-ai-slowdown-concerns-hits-chip-stocks-should-investors-worry-11789380854099.html
+- US market crash: Nvidia, Intel among chip stocks plunging up to 9.5% as AI slowdown fears hit Wall Street
+  Major US chip stocks faced selling pressure on September 14. The Nasdaq dropped 1.7% as investors anticipated a Federal Reserve rate hike.
+  🔗 https://www.livemint.com/market/stock-market-news/us-market-crash-nvidia-intel-among-chip-stocks-plunging-up-to-9-5-as-ai-slowdown-fears-hit-wall-street-11789395371565.html
 
-- Expert view: See long-term potential across AI, data infra, manufacturing, healthcare, says VSURE MD, CEO
-  Anish Maheshwari, MD and CEO, VSURE Investment Affairs, sees substantial long-term potential across AI and
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-see-long-term-potential-across-ai-data-infra-manufacturing-healthcare-says-vsure-md-ceo-11789381143848.html
+- Top stocks in focus tomorrow: Investors must watch HDFC Bank, HCL Tech, Sun Pharma shares on Tue, 15 Sept | Triggers
+  On September 15, Indian stock market investors will focus on HCL Technologies, KEC International, and HDFC Bank amid important announcements. Key highlights involve HCL's new AI partnership
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-hdfc-bank-hcl-tech-sun-pharma-shares-on-tue-15-sept-triggers-11789391805059.html
 
-- Gold Falls as Traders Eye Impact of Higher Oil on Fed Rate Path
-  Gold fell as continued disruptions to oil supplies from the Middle East reinforced bets on a series of Federal
-  🔗 https://www.livemint.com/market/gold-falls-as-traders-eye-impact-of-higher-oil-on-fed-rate-path-11789381368276.html
+- Stock Market prediction tomorrow: Sensex, Nifty outlook for Tue | Kospi, Taiwan Index, Nikkei cues to watch | 15 Sept
+  Sensex and Nifty 50 are expected to open flat as global markets face declines. Rising tensions in the Middle East and the upcoming US Federal Reserve meeting further influence market caution
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-tue-kospi-taiwan-index-nikkei-cues-to-watch-15-sept-11789387045689.html
 
-- EaseMyTrip co-founder Nishant Pitti pledges 34.51 cr shares to Motilal Oswal Fin Services; check penny stock performance
-  Easy Trip Planners co-founder Nishant Pitti pledged 34.51
-  🔗 https://www.livemint.com/market/stock-market-news/easemytrip-co-founder-nishant-pitti-pledges-34-51-crore-shares-to-motilal-oswal-check-travel-stocks-performance-11789377257232.html
+- GMM Pfaudler share price target: Buy rating, 39% upside - Check rationale behind recommendation by InCred Equities
+  MGM Pfaudler Limited's stock is projected to rise 39% after a 77% increase in three months. Key factors include
+  🔗 https://www.livemint.com/market/stock-market-news/gmm-pfaudler-share-price-target-buy-rating-39-upside-check-rationale-behind-recommendation-by-incred-equities-11789387758447.html
+
+- Apple's latest surprise? iPhone maker is reportedly developing game controllers for its handsets under Beats brand
+  The controllers, codenamed T6502 and T1057, could feature D-pads, thumbsticks,
+  🔗 https://www.livemint.com/technology/apples-latest-surprise-iphone-maker-is-reportedly-developing-game-controllers-for-its-handsets-under-beats-brand-11789385255854.html
 
 - iBRICS Summit 2026: New charter aims to boost digital assets and cross-border payments
   The inaugural iBRICS Summit 2026 in New Delhi concluded with the signing of the DART Charter. It aims to integrate systems like India's UPI and Brazil's Pix, reducing reliance on
@@ -56,129 +60,85 @@
   Croma is offering the iPhone 17 Pro 256GB at an effective price of  ₹69,990 with exchange benefits, bank cashback and an additional exchange
   🔗 https://www.livemint.com/technology/iphone-17-pro-256gb-price-slashed-to-rs-69-990-at-croma-check-exchange-offer-11789360822208.html
 
-- OpenAI agents not proof AI is out of control, need stronger guardrails: NITI Aayog’s Debjani Ghosh
-  Focus should be on strengthening human capabilities to develop AI safely, says Debjani Ghosh, Distinguished Fellow at NITI Aayog. Recent concerns around OpenAI agents should not be seen as
-  🔗 https://www.livemint.com/technology/openai-agents-not-proof-ai-is-out-of-control-need-stronger-guardrails-niti-aayog-s-debjani-ghosh-11789360925422.html
+- Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5% - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5%. Oil Surges as Saudi Pipeline Closed.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVdLdTJrbjFlX2lQWjdXaDUtM2w0aWExVXpzMmdOeGFyRXVOaWRLS0RLUG5qcVhOd2F6bjNfR2gxSDNOMWgxOWhxcVg5b01BZWg3VXAyUkQxczZNOXFMUmU2bmh4eFNJMmRoSDI0dmRGRVpVRVk2R2FzY1RQWXVQZ1I3dURRbzZYSHZBUnNLMHUxR2ZfQWNRR0NaNlN2Nm1YUzVnWDF1a1EwOUl3SVEw?oc=5
 
-- Quote of the day by David Swensen: "The underlying driving force behind market timing decisions seems to be emotional — fear, greed, chasing performance — buying something after it has gone up, disappointment, and sales after something has declined."
-  Emotional biases, such as fear, greed, and performance chasing, often drive poor market timing decisions. Investors should rely on disciplined, long-term strategies.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-david-swensen-the-underlying-driving-force-behind-market-timing-decisions-seems-to-be-emotional-fear-greed-chasing-performance-buying-something-after-it-has-gone-up-disappointment-and-sales-after-something-has-declined-/articleshow/134239482.cms
+- The stock market could do something strange this week after the Fed decision - CNBC
+  The stock market could do something strange this week after the
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUhkdHZiUktsdjZjY3FfajRSb0hGa2NWbDNNY1I3NWtja2JIZThIVUFtbXFibTk3WUVDOElvUnJjQjRXWnFsdkJBaTBvdUctSVU3bEdsOHJRTGFsSldDbkhMaVFoeGVGamdsTTRnX0JlRjljYkJUclZuZ1RXWFktNURCRElHOXVfRkJwNzVUcHBWRm1pSDRLVjgtXzVqcXZGVUNRYW9zUGltWmtPakxHSVlQNNIBuAFBVV95cUxQeHYzcFk4dHBpdjJOWnNLdWYySy1RZGV1T3RXSWlhZC1uaS1WQlZkRDBpdGxJUGJCRnFtaWFUYWdMZkhQSFBNWmtSeTNOemE1VEppNnJ1WktjMjdJdWt3OUhRYkltSGV3anI1RFNSRXlCaXlwZmVTUTc3dHpiYXZBb3paZUZiamRmbVd4UGZEOTBTOVY5bzZOYkppR25uZXpfRUh4MHZXRUl2RFBSTWU2bm00NUp0dUlV?oc=5
 
-- Will Wall Street crash today? Nasdaq futures tumble nearly 2% as AI stocks plunge
-  Nasdaq futures fell as OpenAI and Anthropic leaders urged slower AI development for safety. Investor Michael Burry criticized these warnings, labeling them self-serving hype
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/will-wall-street-crash-today-nasdaq-futures-tumble-nearly-2-as-ai-stocks-plunge/articleshow/134238659.cms
+- 10-year Treasury yield hits 5%, critical threshold for US economy and markets - CNN
+  10-year Treasury yield hits 5%, critical threshold
+  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE91dmcwS01EcUI0YWxEZ3JjZFJKSXlPUXVVNE12b3NMd0FtX0p5ckVmRHhEdTNYMUpNSVVfT0ZqVjNkZUhkTWVrSGloV2dJY3JhYWw5bEtrZy0xd3NXTVdJbXR0RFllMEJCbWRyOHFkOXdpR0Fzb0E?oc=5
 
-- Can Rs 6.6 lakh crore in potential PSU divestments bring FPIs back to Indian markets? Axis Capital explains
-   Axis Capital says faster government divestments could expand India’s investable equity pool. A 15% reduction in government ownership could raise about Rs 6.6 lakh crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/can-rs-6-6-lakh-crore-in-potential-psu-divestments-bring-fpis-back-to-indian-markets-axis-capital-explains/articleshow/134238379.cms
+- 10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week - CNBC
+  10-year Treasury yield hits 5% for first time since 2023 as traders
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPSndBSmExY1RzSTFnUW9obDdobFVSMkJyM183MGxPUnE3dWpIVFJEazdKb2M3djRrYzBNWXNEbVVjWE5RYzRNaF8xNFVYeWhOb1FJR3hjaVpFNXdjSVdZV0d3LWRwYVlPaEFzOGQ0TjdaTGdqTUFraDJIeE11U19CbnB3bUd2WHZMU3fSAY8BQVVfeXFMTXpkM2ZfRmduOHB1cVV1Y3lSODV4ckhYRmJvZ3hZcGJrd2swbU1GdjJCTllyZDZmejU3MEFOWlRMYmJJU3UzdmRqcWlLVWg3YTk0dEE2aGEzUXItTVIxUU9reVY2TUZOa1hSRjF0cGlablpBWGIwMnBXMWsyRUNrcVJDY00ya1JpQ3MyS29BVlU?oc=5
 
-- BofA turns bullish on Nifty after 2 years, cautious on small, midcaps. Here's what it expects now
-  BofA Securities has turned constructive on the Nifty after two years. It sees 12% upside to 26,200 by December 2026. It also turned cautious on small- and midcaps.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bofa-turns-bullish-on-nifty-after-2-years-cautious-on-small-midcaps-heres-what-it-expects-now/articleshow/134237764.cms
+- A 5% Treasury Yield Is Raising New Risks for Markets, Economy - Bloomberg.com
+  A 5% Treasury Yield Is Raising
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSjgtREVUcTBVWlQwcTgtdEg1YnFCOFRqQkt3S0FXclJwZVdJSUZEaXBCbjkzVmM5UWdKX09GSDh5Q18zT0JjaWoycjJteV9XUHAtYnQ0R3lFYmZPWEVocmNWYjRpcXFmRFU4NmF1MU1oM3FCYnppWTJ2Ql9LSHc2MU40STdoazlKYTA2MXdrWkNSekUtbmd0YmtpR1JnaDVtWjZNLW5oZnhqWl91T1hn?oc=5
 
-- PMS tracker: 5 portfolios deliver double-digit returns in August
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pms-tracker-5-portfolios-deliver-double-digit-returns-in-august/slideshow/134237719.cms
+- US Senate Republicans release new crypto bill text ahead of critical vote
+  US Senate Republicans have released a revised version of the Clarity Act. The crypto bill faces a key procedural vote on Tuesday. Its passage remains uncertain as Democrats weigh ethics safeguards.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/us-senate-republicans-release-new-crypto-bill-text-ahead-of-critical-vote/articleshow/134244934.cms
 
-- BRICS meets in India: What’s on the agenda, why it matters - Al Jazeera
-  BRICS meets in India: What’s
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
+- Crypto data firm Kaiko secures $110 million funding round led by S&amp;P Global
+  Kaiko has raised $110 million in a funding round led by S&amp;P Global. BNP Paribas, Nasdaq, Royal Bank of Canada and other investors also participating. Kaiko plans to strengthen its data
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/crypto-data-firm-kaiko-secures-110-million-funding-round-led-by-sp-global/articleshow/134244840.cms
 
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Sensex and Nifty closed lower, while weak breadth, foreign outflows and geopolitical risks kept bears in control.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134243986.cms
 
-- Nepal floods: The Himalayas are melting faster - and India's economy is 'at risk' - BBC
-  The Himalayas are melting faster than previously thought. The
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HSXNuM2xtN1IyaUhITXI3VVFqMENUNXlCUXZlRnBvVDlqSUZaOTZmR1ZNaVN6cTdzQm5ZY3hNZlRDa0FYTm10YUQ2cV9xeWxoRUxvM0kydzFtdw?oc=5
+- Gold, silver prices retreat as oil prices surge, inflation and rate-hike concerns mount
+  Gold and silver prices declined on September 14, 2026. Oil prices rose 4% due to supply fears amid Middle East tensions.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-retreat-as-oil-prices-surge-inflation-and-rate-hike-concerns-mount/articleshow/134243425.cms
 
-- 'We should not play Pakistan': World Cup winner reacts after India refuse Asia Cup trophy from Mohsin Naq - The Times of India
-  'We should not play Pakistan': World Cup winner reacts after India refuse Asia Cup trophy.
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxNa2N1SGRFc2o0X2FnOWR4NENYNGRrdG5pNWNEbzdJRDV4eXhiMzRpYXpGeHNabDhvaXlSMHo2RmthTldjNGJvR1RpMEV0elBDd1lMLXdkNnRZVmowM0FkamNoalJUcFZMZGxVMjB6eXBxVXJ2TW1sbm8zN2FMeFRVNVN3UXBtdTFST0Mtd2pyakNIMUhQZERjT0lfVXJYaHBqQzVfb1ZURzJHQ3g5Z19MOXlEd2ZVdWJMUFpET0hCbGQtRzlWNmNacEo3eTdkOXZlWWJldDFMa0pKMjlCRG9nd1ViXzdfTjF3dG1sMGozOUYwdkk2TDlTZS1QclpnMF9naGh5OWE2d2ZLRlcwZXFJYmFQUTfSAZoCQVVfeXFMTURLT0hGMWljWFVtME9hczRqZTg5NFQ0VGVIcUpOWUxER1JTNnp6RW4zQWVmMXctWUtsU2tmN0lGYWVzMGF5a1dhSDI2Z1V5V0xWdzR3dm10S0lsMHBRNnlyRUlJTVN0Q21mSExpMWNnRFlfRDB6VzZFeXZRZkhUb1d1UjhPcFV5ZE1FcG0waFlfR25lMGY1LVE3T2ZqQk1ST2Zqb0NBR2pWMF9tTnN0bldscVRpaEs3bkotQlRtaG1pRi1tdW53d2EzbldvejRlLVpIdHlwS0pSeUc5eTlaMThUck9CVWtPRHJJcFhNTzNZTGxWRk1Fa05IMm1rNWZjMW1nU2xNY1BQY3pxakdqc1MxeHRybDFXSmRB?oc=5
+- Bond market shock: 10-year US Treasury yield tops 5% as oil spike puts Federal Reserve on rate-hike path
+  US bond yields climbed significantly on Monday, surpassing 5%. Crude oil prices jumped, reviving inflation concerns among investors. Investors now await the Fed's policy decision on Wednesday.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bond-market-shock-10-year-us-yield-tops-5-as-oil-at-108-puts-fed-on-rate-hike-path/articleshow/134242764.cms
 
-- India wins record eighth Women’s Asia Cup title, President Murmu congratulates team - News On AIR
-  India wins record eighth Women's Asia Cup title, President Mur
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPblJISF82ejdPTk1lNkZ0b2xhdEI3aXVRQ01ldFdTWVZSUktzWDQ0Nnd5dE5EVFhGRml4b21MbDNkN2lSNTloVTZpeUljLWRCSC1YUU9BaXdlZ0xwYzJ1QmdyQzAyNWN1b0lsM2lpeWxPY3JPamZJd2NnRkF2SUZGeXRRNmUxNVpmbC1xWFBrcm85MTFINlJmVnVpLUR2WXdVSHBseFJMOEc4VUE?oc=5
-
-- FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
-  The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
-  🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
-
-- Google Picks Four Indian Startups As Part Of AI For The Planet Accelerator
-  Google has picked four Indian startups as part of its debut AI focused accelerator ‘Google DeepMind Accelerator: AI’
-  🔗 https://inc42.com/buzz/google-picks-four-indian-startups-as-part-of-ai-for-the-planet-accelerator/
-
-- Lenskart Increases AjnaLens Stake To Over 9% To Deepen Smart Glasses Push
-  Lenskart has increased its stake in extended reality (XR) startup AjnaLens’ parent Dimension NXG with an ₹8 Cr investment to&#8230;
-  🔗 https://inc42.com/buzz/lenskart-increases-ajnalens-stake-to-over-9-to-deepen-smart-glasses-push/
-
-- Zomato’s Latest Fee, Weekly Funding Rundown & More
-  Now, Zomato To Charge A COD Fee.
-  🔗 https://inc42.com/buzz/zomatos-latest-fee-weekly-funding-rundown-more/
-
-- RentoMojo’s Post-IPO Test: Can The Flywheel Keep Going?
-  One blockbuster listing after another is keeping India’s startup IPO market buzzing. After Shiprocket’S strong debut last month, ESDS extended.
-  🔗 https://inc42.com/features/rentomojos-post-ipo-test-can-the-flywheel-keep-going/
-
-- BRICS meets in India: What’s on the agenda, why it matters - Al Jazeera
-  BRICS meets in India: What’s
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
+- Xi's 5-point action plan for Brics may see red flags go up in India - The Times of India
+  Xi's 5-point action plan for Brics may see red flags go
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXNaYVUyRTZDU2dXdi1Gemo2RjZQb3JCcEQ2eFJIMG4zck5ld0RPNktiN0labGVwM2VRRGVWN1lmbUtjVlc0QmdlRGd0ZHpfQWJnbXJjN0F2ekJ4V2FPbUxsclExX29uVy1qMmtmalBmLU5mSF8xdVJtTmJyVzI4MWFnektERlBVR3VCUi1XRVB1OUpWcFdEelozekM3WUJsLUdZV3pITE5ibEphV2ZYWXJadGRGOUM3NzRXMHNrWmR6TVdEOFp3LTdDUlpWNWPSAdQBQVVfeXFMT2hPU0xSeVpHUEl3UGRzZW9iQVBYV2R2N3BXdWs4NVY2N1VLemVmTHBXQktJWlV6QkRMaTk1S2taZzZxSmNvc0F5aW5GSzZER1BpTEZ6Uk9QTlBNQm5PZTY4YmNQX3NEWTZ4eFk0Qmw1aklPVUZuN2VUVGNSYVZRbEdsQ0o3S3AzVkxPSVcwN25GMkdDeTRvYTRoM19IdFl1ZEJ2UFNlVGRUd0dqMnhTY1VFZzdXNW9rS0w0UFE0czN0R2ljNGhlUUJDWUszZnFZYXM1bjg?oc=5
 
 - Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
   PM Modi Pauses BRICS Speech To Check On
   🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
 
-- Nepal floods: The Himalayas are melting faster - and India's economy is 'at risk' - BBC
-  The Himalayas are melting faster than previously thought. The
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HSXNuM2xtN1IyaUhITXI3VVFqMENUNXlCUXZlRnBvVDlqSUZaOTZmR1ZNaVN6cTdzQm5ZY3hNZlRDa0FYTm10YUQ2cV9xeWxoRUxvM0kydzFtdw?oc=5
+- Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy | India News - Hindustan Times
+  Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZGIyeG1GSlVTZFpQSnZud1lpLVJvRTV0RVhKRW5oN1oxOElxcWpPazAwblZJTjdiN2hrcnZzZFVFZ1ZkdmY0SWtaNzZHR2EtbldldTFtWmdiZFBBclhkNzlVcmtKSzYwZmZOWTdOUWJkZEROOWlNbzVXT2hMd2NJWFo4bmd1T204SVBlX2VHN3Q3U0VkOUtXcEZDR29XQTd0VUdBN1NIVU1rQzN1Y2RrbDUtNEUxcWwxMlJMY05PcEZvY3NUSU5jVzU5VUlKcGpHM1g0c051YnNpcEtKVHh0azlRTS1heU03XzRRcUN2VkNkbXNpU1BSWXFSQdIBgAJBVV95cUxPZFR1R0xjN3pELUFLcTh5YnpuM3dyTnl2S2w2R1VqRzBsWl9WY2hKN21yTmluMEZzU2FaTlZrTUM5ZjVqYjUtUzg2SkJjNUJVZkdNMWZzVjlIYnJaT2dqSWFCWHg2VVpINkJBV29BektibWVCSVdvUWdyQm5GNW84dmtGa1lLTnVkX3RCWk55YVNtakxCQnExZEZDQzZ1dDYtcXdvekE1RExzb0I4d1FZeF9lYWxIOFVWRXV1T3M5dmlWckRoemlpTWc5X0pMNUp4QW00czJLYXdESlZ5aTBGRjB2UDZuWTBtbnhTM1hsaGNXbFJULXRVd1MxMVJZeGFI?oc=5
 
-- 'We should not play Pakistan': World Cup winner reacts after India refuse Asia Cup trophy from Mohsin Naq - The Times of India
-  'We should not play Pakistan': World Cup winner reacts after India refuse Asia Cup trophy.
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxNa2N1SGRFc2o0X2FnOWR4NENYNGRrdG5pNWNEbzdJRDV4eXhiMzRpYXpGeHNabDhvaXlSMHo2RmthTldjNGJvR1RpMEV0elBDd1lMLXdkNnRZVmowM0FkamNoalJUcFZMZGxVMjB6eXBxVXJ2TW1sbm8zN2FMeFRVNVN3UXBtdTFST0Mtd2pyakNIMUhQZERjT0lfVXJYaHBqQzVfb1ZURzJHQ3g5Z19MOXlEd2ZVdWJMUFpET0hCbGQtRzlWNmNacEo3eTdkOXZlWWJldDFMa0pKMjlCRG9nd1ViXzdfTjF3dG1sMGozOUYwdkk2TDlTZS1QclpnMF9naGh5OWE2d2ZLRlcwZXFJYmFQUTfSAZoCQVVfeXFMTURLT0hGMWljWFVtME9hczRqZTg5NFQ0VGVIcUpOWUxER1JTNnp6RW4zQWVmMXctWUtsU2tmN0lGYWVzMGF5a1dhSDI2Z1V5V0xWdzR3dm10S0lsMHBRNnlyRUlJTVN0Q21mSExpMWNnRFlfRDB6VzZFeXZRZkhUb1d1UjhPcFV5ZE1FcG0waFlfR25lMGY1LVE3T2ZqQk1ST2Zqb0NBR2pWMF9tTnN0bldscVRpaEs3bkotQlRtaG1pRi1tdW53d2EzbldvejRlLVpIdHlwS0pSeUc5eTlaMThUck9CVWtPRHJJcFhNTzNZTGxWRk1Fa05IMm1rNWZjMW1nU2xNY1BQY3pxakdqc1MxeHRybDFXSmRB?oc=5
+- Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
+  Former Air India Pilot Found Dead At 5-Star Hotel
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
 
-- India wins record eighth Women’s Asia Cup title, President Murmu congratulates team - News On AIR
-  India wins record eighth Women's Asia Cup title, President Mur
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPblJISF82ejdPTk1lNkZ0b2xhdEI3aXVRQ01ldFdTWVZSUktzWDQ0Nnd5dE5EVFhGRml4b21MbDNkN2lSNTloVTZpeUljLWRCSC1YUU9BaXdlZ0xwYzJ1QmdyQzAyNWN1b0lsM2lpeWxPY3JPamZJd2NnRkF2SUZGeXRRNmUxNVpmbC1xWFBrcm85MTFINlJmVnVpLUR2WXdVSHBseFJMOEc4VUE?oc=5
+- Air India pilot dies during Delhi layover - The Times of India
+  Air India pilot dies during Delhi layover
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2ZBOUxzYUFzRC1panBaRXZ5aTBYTjJVbjltOWFsTGt5akQ4b2JZRDRma1pqeGlqMzRGN2t0QUVoNHVUSDA0NEtQVnRrdmNlVjNQSnJjSzRobFRfN0pwSmFPdF9zbG5pTy1xMmplTHFyckw1dGEtQzk3WWk5OF9Wc1pFX0FnclFtenp5dHp4a0VFTXFuUmNOdEM0cUlWRmpvYVV0Z2xTSzZ3R2F6bnfSAbMBQVVfeXFMUENSODFTLWtPLUZ5RkI0cno0c0NnQ2NTOFh3YjVxWVVWRVZiQWFRWXFNZDM0RmN6ZmE3emlJLWVXUlU2NVhSZkFaaG5TMmxFMVJDZUJYeHA2czczWVViSnVYOXdCYTVlTGNmLUoybURrTHJ6Ul9ZTUxUcWRJSXduTDhFTkJLSGE4MFVXSENpSTNtSmZfRDJ5T0dZZWJfT2xacmRfUGJHbFF5NjlmMUk1NTdSS3c?oc=5
 
-- BRICS meets in India: What’s on the agenda, why it matters - Al Jazeera
-  BRICS meets in India: What’s
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
+- Xi's 5-point action plan for Brics may see red flags go up in India - The Times of India
+  Xi's 5-point action plan for Brics may see red flags go
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXNaYVUyRTZDU2dXdi1Gemo2RjZQb3JCcEQ2eFJIMG4zck5ld0RPNktiN0labGVwM2VRRGVWN1lmbUtjVlc0QmdlRGd0ZHpfQWJnbXJjN0F2ekJ4V2FPbUxsclExX29uVy1qMmtmalBmLU5mSF8xdVJtTmJyVzI4MWFnektERlBVR3VCUi1XRVB1OUpWcFdEelozekM3WUJsLUdZV3pITE5ibEphV2ZYWXJadGRGOUM3NzRXMHNrWmR6TVdEOFp3LTdDUlpWNWPSAdQBQVVfeXFMT2hPU0xSeVpHUEl3UGRzZW9iQVBYV2R2N3BXdWs4NVY2N1VLemVmTHBXQktJWlV6QkRMaTk1S2taZzZxSmNvc0F5aW5GSzZER1BpTEZ6Uk9QTlBNQm5PZTY4YmNQX3NEWTZ4eFk0Qmw1aklPVUZuN2VUVGNSYVZRbEdsQ0o3S3AzVkxPSVcwN25GMkdDeTRvYTRoM19IdFl1ZEJ2UFNlVGRUd0dqMnhTY1VFZzdXNW9rS0w0UFE0czN0R2ljNGhlUUJDWUszZnFZYXM1bjg?oc=5
 
 - Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
   PM Modi Pauses BRICS Speech To Check On
   🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
 
-- Nepal floods: The Himalayas are melting faster - and India's economy is 'at risk' - BBC
-  The Himalayas are melting faster than previously thought. The
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HSXNuM2xtN1IyaUhITXI3VVFqMENUNXlCUXZlRnBvVDlqSUZaOTZmR1ZNaVN6cTdzQm5ZY3hNZlRDa0FYTm10YUQ2cV9xeWxoRUxvM0kydzFtdw?oc=5
+- Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy | India News - Hindustan Times
+  Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZGIyeG1GSlVTZFpQSnZud1lpLVJvRTV0RVhKRW5oN1oxOElxcWpPazAwblZJTjdiN2hrcnZzZFVFZ1ZkdmY0SWtaNzZHR2EtbldldTFtWmdiZFBBclhkNzlVcmtKSzYwZmZOWTdOUWJkZEROOWlNbzVXT2hMd2NJWFo4bmd1T204SVBlX2VHN3Q3U0VkOUtXcEZDR29XQTd0VUdBN1NIVU1rQzN1Y2RrbDUtNEUxcWwxMlJMY05PcEZvY3NUSU5jVzU5VUlKcGpHM1g0c051YnNpcEtKVHh0azlRTS1heU03XzRRcUN2VkNkbXNpU1BSWXFSQdIBgAJBVV95cUxPZFR1R0xjN3pELUFLcTh5YnpuM3dyTnl2S2w2R1VqRzBsWl9WY2hKN21yTmluMEZzU2FaTlZrTUM5ZjVqYjUtUzg2SkJjNUJVZkdNMWZzVjlIYnJaT2dqSWFCWHg2VVpINkJBV29BektibWVCSVdvUWdyQm5GNW84dmtGa1lLTnVkX3RCWk55YVNtakxCQnExZEZDQzZ1dDYtcXdvekE1RExzb0I4d1FZeF9lYWxIOFVWRXV1T3M5dmlWckRoemlpTWc5X0pMNUp4QW00czJLYXdESlZ5aTBGRjB2UDZuWTBtbnhTM1hsaGNXbFJULXRVd1MxMVJZeGFI?oc=5
 
-- 'We should not play Pakistan': World Cup winner reacts after India refuse Asia Cup trophy from Mohsin Naq - The Times of India
-  'We should not play Pakistan': World Cup winner reacts after India refuse Asia Cup trophy.
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxNa2N1SGRFc2o0X2FnOWR4NENYNGRrdG5pNWNEbzdJRDV4eXhiMzRpYXpGeHNabDhvaXlSMHo2RmthTldjNGJvR1RpMEV0elBDd1lMLXdkNnRZVmowM0FkamNoalJUcFZMZGxVMjB6eXBxVXJ2TW1sbm8zN2FMeFRVNVN3UXBtdTFST0Mtd2pyakNIMUhQZERjT0lfVXJYaHBqQzVfb1ZURzJHQ3g5Z19MOXlEd2ZVdWJMUFpET0hCbGQtRzlWNmNacEo3eTdkOXZlWWJldDFMa0pKMjlCRG9nd1ViXzdfTjF3dG1sMGozOUYwdkk2TDlTZS1QclpnMF9naGh5OWE2d2ZLRlcwZXFJYmFQUTfSAZoCQVVfeXFMTURLT0hGMWljWFVtME9hczRqZTg5NFQ0VGVIcUpOWUxER1JTNnp6RW4zQWVmMXctWUtsU2tmN0lGYWVzMGF5a1dhSDI2Z1V5V0xWdzR3dm10S0lsMHBRNnlyRUlJTVN0Q21mSExpMWNnRFlfRDB6VzZFeXZRZkhUb1d1UjhPcFV5ZE1FcG0waFlfR25lMGY1LVE3T2ZqQk1ST2Zqb0NBR2pWMF9tTnN0bldscVRpaEs3bkotQlRtaG1pRi1tdW53d2EzbldvejRlLVpIdHlwS0pSeUc5eTlaMThUck9CVWtPRHJJcFhNTzNZTGxWRk1Fa05IMm1rNWZjMW1nU2xNY1BQY3pxakdqc1MxeHRybDFXSmRB?oc=5
+- Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
+  Former Air India Pilot Found Dead At 5-Star Hotel
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
 
-- India wins record eighth Women’s Asia Cup title, President Murmu congratulates team - News On AIR
-  India wins record eighth Women's Asia Cup title, President Mur
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPblJISF82ejdPTk1lNkZ0b2xhdEI3aXVRQ01ldFdTWVZSUktzWDQ0Nnd5dE5EVFhGRml4b21MbDNkN2lSNTloVTZpeUljLWRCSC1YUU9BaXdlZ0xwYzJ1QmdyQzAyNWN1b0lsM2lpeWxPY3JPamZJd2NnRkF2SUZGeXRRNmUxNVpmbC1xWFBrcm85MTFINlJmVnVpLUR2WXdVSHBseFJMOEc4VUE?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Air India pilot dies during Delhi layover - The Times of India
+  Air India pilot dies during Delhi layover
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2ZBOUxzYUFzRC1panBaRXZ5aTBYTjJVbjltOWFsTGt5akQ4b2JZRDRma1pqeGlqMzRGN2t0QUVoNHVUSDA0NEtQVnRrdmNlVjNQSnJjSzRobFRfN0pwSmFPdF9zbG5pTy1xMmplTHFyckw1dGEtQzk3WWk5OF9Wc1pFX0FnclFtenp5dHp4a0VFTXFuUmNOdEM0cUlWRmpvYVV0Z2xTSzZ3R2F6bnfSAbMBQVVfeXFMUENSODFTLWtPLUZ5RkI0cno0c0NnQ2NTOFh3YjVxWVVWRVZiQWFRWXFNZDM0RmN6ZmE3emlJLWVXUlU2NVhSZkFaaG5TMmxFMVJDZUJYeHA2czczWVViSnVYOXdCYTVlTGNmLUoybURrTHJ6Ul9ZTUxUcWRJSXduTDhFTkJLSGE4MFVXSENpSTNtSmZfRDJ5T0dZZWJfT2xacmRfUGJHbFF5NjlmMUk1NTdSS3c?oc=5
 
 - Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
   PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
@@ -189,4 +149,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-14 11:34:28 UTC_
+_Last updated: 2026-09-14 17:30:24 UTC_
