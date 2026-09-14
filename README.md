@@ -1,84 +1,76 @@
 # 📰 Daily News Summaries
 
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
-
-- BRICS meets in India: What’s on the agenda, why it matters - aljazeera.com
-  BRICS meets in India: What’
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
-
-- India to begin their 3-match T-20I series against Afghanistan in New Delhi today - News On AIR
-  India to begin their 3-match T-20I series against
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOV21lend1Qi1qelBVQ2FBcTk2VllOMEo5MTRjQWpkVFhTWjZYOWV3RFhETVNTaE5RUGpfaUw1T1pSNnJPYVZPU3NLWm5jU1ktclJhMUozQ2NLeE9iR0E0LWQyQ3pHTjQ1MHdqMi1XeG1NVUlZNllFVmVxUUNqSkJ1aEdULXU1R1BKRzdCTG0zZ2tBRGRkMXZmTUpxaVc?oc=5
-
-- World Test Championship points table: Where does India stand after England's 3-0 whitewash of Pakistan? - The Times of India
-  The Times of India published a report on England's 3-0 whitewash
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNZHFCazREX3h6WXFGX0dDdkdjTkNpTlBKb05tMExVU1B4OUxQeEdPZlItUzJZdnQwdThpcjZKZm9XLU5XQXI1cUxER3hFNHMtVi1JQmwtMTdZTHNIUjl3WjJOWnBDS1AzV09XSHJ2NGtRR19uVUVKU1AyZjQ3X3I5U2JDVUVmdkU4VEN6SVYwTE8xbU9ZN2lkc0daSF84RTdaWG1YQS1PR3A4QzJ5OHByWTV2ZnN6YmN5TjVUUTZRVndSU0VFR3RQd2dCQnNkQWF6TnNxWGlQQ3ZXdHEyRlIxbGtiVkpuTGc1QkxiSng0T21CNklkV3pPU01vVFpMUm4zRDhqR19nYkpRZmVlTUFR0gGUAkFVX3lxTE8zWkx1UkRTWFNkaEI4UWRlVllvazhHMVU0c0VhRVktXy02cjNVV3c1SzVFamxaMlNCYVFsMjVtRHVVN0NVVHZMOVZ2U1VSN3A0cjZjOGFpX1RhbUhheDhUQU52N0FqcVNOQTFhZEMyMTdzVEwyYmplQ3gwbENsdGdtUS1FTm42NTRyMl9yYTRRT0tWTGR2Sl9WOGFURVJPZFI3NXEzR3F6dEptSTU1MkhnWElBUXRfMnJhS1FVZlg3UXNMN091a2tHUzdBcUdMeDlpcmNaVXkydmNoYll3YXZWVHBqTnI2UkFIN2NlTnVrTC16THhHS0Z3ZmY3V1ZtOHVRWFVQRjNId3RRckd3Q1RxUkVjYw?oc=5
-
-- India cruise to record-extending eighth Women's Asia Cup title - ICC
-  India cruise to record-extending
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWF5YUR2bDhrNGFaOTVWbkFRSzluR29GTWNxUmhWamo5VVp1YmczUmMzamh4MXUtVVEtT0w2dThDLXM3M2NkLWtESUhxVmdETEdPRVpJOHJERExxWU9SMWZ4YUVxQmlsOUt5NXk2TlRGcG4yT3J4ZkktV0tQZFhzU2ZmbVZDaHlXU000QXMzdjBIeFZRUGZNeWV6Yw?oc=5
-
-- AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC - BBC
-  AI staff 'genuinely frightened' for
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkFTZ25QYzR0R0V3UnUteU9DTl9KZzRRd0ZKMjhYS0tqVUFDYjlLaFYtSW45eVpjeGg3Q0EybnlKQ1JLUWZiQ25DTVBYUjJlVEhGeVQtR1JuQQ?oc=5
-
 - What are the five pros and cons of artificial intelligence? - aljazeera.com
   What are the five pros and cons of
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkJUcjZydEhPb3Itel9PUVFhWFpZcm5GRE1UYUhQQWxRYjdLbmp0RTg4T050Q0N3UGtral9HSFEzc2NXcWFnd3FwOUhPS0tpc0k4cXFZOHJuWHJ1TUYzN1ItMUNxMGRDbDNiMlZYV205eERMTk9uUjg3NzJleUdYOG0zSEIzU2RHTDZCRjROMU9qZW14MXh1SnU1MlFrWkkt0gGmAUFVX3lxTE1PXy1fNFdzYUxKLUVpWWN0RjhGaEp4ZnJXOFVEOGZ6RkxYb0NKUDR5SkliWmZTSXpYR3U1RFdVc0ZPM0FuVll2cF9lbnRpcTN5ZWVWbm1mTVdobklyaVlqUGdRSlFaMEg5SVNTa1AyR25HN0pOUHptdnVmY01JQmRDZUxUbTV1OXl1Z2JjRDI5UXBRR1N5MzJqZWRHd1gxN1ZZZ1U2cHc?oc=5
 
-- ‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown - The Guardian
-  &nbsp; ‘Too little, too late’
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbFlIUXp6SmlMdy1VLWU1OXpsdzBCMmpEMm1lZWU3R19IR0VkOFpXdVo2cmRkRGJFN2I0a0MxS080OHk3TE0wN0NxN1BCTDJjM2NBRDdLTS1BWVFYTXNMTjI1aVcyT3Z4aVJUVkd3MTkxNlBSbktsZDc2M0k3RmQ0cmc1ZEpWRmxVTnhiNW5KMU56LUwycGpqTk1ZaWlydldGLTBhTDg5ZldITlg3cEZLUXM2R2RuZ2VaTHczQlJTM0tKblVjZU9tWTVtZHFnNVptSFZN?oc=5
+- OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development - The Guardian
+  OpenAI boss and Elon Musk back calls to put brakes on �
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5
 
 - Weaponising critical minerals, technology can hinder progress, warns PM Modi at BRICS summit - Scroll.in
   'Weaponising critical minerals, technology can hinder progress,'
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ25QNzM3ZkpYLW16MEdGaTQ5SnNHRE85Z2lRUGJDYzRkdFFGaTJlcW9QNWNsY0c2QzlELXFibGVBY2ZWcUhkbGhhUFNIMHY1aGliNGJoc0lLRzN1RmRraFg2X1R0cjRZZHc0aTQzVmVfMXExdFREbXc4dmRXbFV5SnV2NGMycEZtQW5tdl9aMVJGUkFheThQRmw5amhRQ2JsMGd6Z1ZuS1pEOU5fMmo1VFRhTjZoSnBmU080dXgyX3jSAcYBQVVfeXFMUC1aci1iWDBHT2cyelA3WFFiZTJPTWZjek1odHR6MWlMRlR0QVBoYmNnVi1kWUtuQXdYaEllUmJyaTFzM0ZydllHa2kwNzNGaWdZRDZ0NkVGQ1duNldqc1JDX3JZbmhyallzUUNXaFJpTHhMLTB3TUw2dWgxT0g4a0NyZC1iRzVkcFY0SmVDcGlZWElWZVRuaXNERFBFSEhydGJQNEd5MFRyUWJ1UUtxN1RwdzNFWGxaYXU5NVg4Ml9mc1VrSFFn?oc=5
 
-- PM Modi flags ‘weaponisation’ of technology, minerals at Brics outreach session | India News - Hindustan Times
-  PM Modi flags ‘weaponisation’ of technology, minerals
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxONnFJT05zNHRUMjBXNl9SZ1JBUUVBZnJYOGxtaTdUMWs2NHJnT2h5S2NfR0JCbjFLcUZzZmt3TFBUNVVQbFdETG0yV2pncFI1eUVSZVhhYXNLSHRmZTdoZUtIOUdwbmsyX2ZNSXBDcm4tSV9GdVpsU2l1ZU5OUE9TSG0ycFVUZFRUUHVmR053WWJTdkxUallORTRUY3ZXMGtVcW8tMDkxQm9HbTVlNlZIUzdjSDBuOWhOS0FIdjRaNUVveEVlNmVLSllTaG5DTlZxUXM1NEpn0gHbAUFVX3lxTE84NGlISzZaVmlra3JDR0VtZncyZUxUZGN2TUplNDN1aXRRemQxVnI1b2MxQVY1OTJVdXIwVjZiOWxIZHZPX3pJejJucFc2STBBRW1wLTRKYTY4YUdTT091ZjNoY0owZGlVa0FJcTU2cjRydWE0RlJGclR0VGRVcDlZVHR3RGtMOU02UmRXczNKeHNRdVV5OXNTRzBNd3pjeHNIbC10UjVBTFZpSHY1TmJPR3hzZXE3TGRGNjlSUzJ3R2IwQTFJNTRkSmtxUkhQTjVrQVhoN1VzWXJiOA?oc=5
+- PM Modi flags ‘weaponisation’ of technology, critical minerals at Brics Summit 2026: 'Hinders shared progress' | India News - hindustantimes.com
+  PM Modi flags ‘weaponisation’ of technology, critical minerals at Br
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPV3BTQmZEQTNoemhxQlVfbUZKbktPSWtWTXVkOGlHR1FMV2Z5dVEyTGE2UGR6QjhocTUxRVhYRHpXczhDcTlLWG1IbUhITzJ0S0o1VzZIVHRBdVV3TTlJRjFhbkpNNW93VEZhcnJiUTROY1NFUWtjYUpvaGZDa0c4TnRvaUhLQUVfNDd6bUJjOWRlMDBmbEhXTi1uMEppWXVPZjNBWFdjZVVUc2toV3JfUHdILWVpOEdPMGZ4UXFYM1pjVml6c0pMYXpkR21nWGtockJuclk1OVFWejdUS09rS244bEVSOXROU0FOdUgyM2xabU5fUFBOaFRoQdIBgAJBVV95cUxPNldEaDRxZXhQaWhSRHRfUWw3N1BORzhuYnotWXpkcTBMdzRPTGhPdmY1Z2lpUWg1d0pMX1o4OHkyRHFNNzc1OFprQkxUTG42VXhiY2J2cThLaEhiUnFKTnRWUVY2aEhEeVdKa2lJcmpZcFNydlYtSldXYXJCUGhSR3JRaUtGdDA2Nk9DZV9HUDBMc0dpVkVvUFV0Zm81V2NWVUl1SEFxSk51OFlaTEMya25lZW9MSFhWWUNHQ2Nrdk4yN0EwOU1sY0JiZDk0Sl8wc0pVNFF4c3BvMGl4UC1mNWFVa2pxME5WRjJzT1hyWWl1cVRHZk1pQ3VreFp2LU4x?oc=5
 
-- Anthropic picks Nasdaq for potential IPO, report says; October listing in focus
-  Anthropic is reportedly set to choose Nasdaq for its potential IPO. AI company
-  🔗 https://www.livemint.com/companies/news/anthropic-picks-nasdaq-for-potential-ipo-report-says-october-listing-in-focus-11789316902621.html
+- Day two of BRICS Summit: PM Modi warns of ‘weaponisation’ of tech and critical minerals - The Hindu
+  PM Modi warns of ‘weaponisation’ of tech and critical
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPUXExbkNiRkdoUHZHMTZRSWFzamVNWVRJTFNMbjdRaWJvVWpjRHdHdDZTaUcycGRfRzhrOUpWazBMSEF2NVVYX09jNXhSQmZNem1tWm5qVEVfWDRpN0Etd0I2RzRaT2VlWjdSeTlNeERkU3I1aENqTi1yWTdOVTQtVVVLWjBQclZvQTctdV92aGdIamEzUG92dmctakZwdGtyYXdUWHlpMmlxaUlRZmNndU51Z0YzWE9rbGJIam8wbEQ3eW4wOE9HcGNHbUtXUdIB1AFBVV95cUxPdjNpWXhieV9KYXVmWDRWeVc3aEFQVUVzcnMyZlZaM0h3amJqUDdpOV9BOEJIQ05wVTk5T193NG9CbHViTXp4Xzd0YXpKdFFvS2hFUlAweFo3S1ppWll5NFo0T2Q4T1BULVZ5RFRkWHVkLUhuVm1MNnRUME9jVHMtY2ZucEx0LTZUQlRXTUFpcFc5MnlYZ3BfdGdVUC1Nd25HcWdTbnRGS2hmU3h5cDdaamdQT01rb2ZicjcwUWxMMl8zcjdVN3RNMDFGQV8yZmdYNWhvNw?oc=5
 
-- Unacademy, Astrotalk, Noise founders back Triptii Dimri-led startup Peep Beauty in  ₹12 crore pre-seed funding round
-  Triptii Dimri has joined D2C beauty startup Peep Beauty as co-founder and investor. Her investment came in the  ₹
-  🔗 https://www.livemint.com/companies/news/unacademy-astrotalk-noise-founders-back-triptii-dimri-led-startup-peep-beauty-in-rs-12-crore-pre-seed-funding-round-11789313283932.html
+- RBI's Tata Sons listing push may be a lifeline for SP Group — if it comes in time
+  The Shapoorji Pallonji Group sees a potential solution through a Tata Sons listing. Liquidity issues persist, complicating settlement talks over its minority stake.
+  🔗 https://www.livemint.com/companies/rbi-tata-sons-ipo-listing-impact-on-shapoorji-pallonji-group-debt-11789296937772.html
 
-- Florida AG files lawsuit against Netflix over ‘big tech surveillance’ of kids; what did streaming platform say?
-  Florida Attorney General James Uthmeier filed a lawsuit against Netflix. The case adds to Florida’s growing legal push against major technology companies.
-  🔗 https://www.livemint.com/companies/news/florida-ag-files-lawsuit-against-netflix-over-big-tech-surveillance-of-kids-what-did-streaming-platform-say-11789298373179.html
+- IT firms recycle regular software jobs with AI labels
+  Much of what is being advertised as ‘AI work’ remains rooted in traditional technology roles, albeit with the use of AI tools.
+  🔗 https://www.livemint.com/companies/news/ai-impact-on-it-sector-jobs-in-india-11788773413028.html
 
-- PwC US and PwC India form joint venture to scale India consulting for global clients
-  Jointly owned and governed by both firms, the unified platform aims to break down legacy silos and position PwC India as a global consulting
-  🔗 https://www.livemint.com/companies/news/pwcindiapwcusjointventureconsultingadvisorybigfouraidisruption-11789294842877.html
+- Test looms for Tata Sons board meet amid division in Tata Trusts
+  Noel Tata wants to keep Tata Sons private. Venu Srinivasan wants a Tata Sons IPO
+  🔗 https://www.livemint.com/companies/news/tata-sons-board-meeting-ipo-listing-discussion-tata-trusts-noel-tata-11789307136577.html
 
-- Flipkart tests ‘Eat-In’ food delivery service in Bengaluru: What is it? Benefits and more explained
-   Flipkart is piloting its food delivery service, Eat In, for employees in Bengaluru. It is developing Eat In in partnership with the Open Network for Digital
-  🔗 https://www.livemint.com/companies/news/flipkart-tests-eat-in-food-delivery-service-in-bengaluru-what-is-it-benefits-and-more-explained-11789292689105.html
+- India’s beer boom gets a premium twist as drinkers trade up
+   brewers see premium and super-premium brands as the next engine of growth
+  🔗 https://www.livemint.com/companies/news/indias-beer-boom-gets-a-premium-twist-as-drinkers-trade-up-alcohol-market-spirits-11789236602300.html
 
-- Wall Street Week Ahead: Markets brace for Federal Reserve rate decision
-   Fed officials will also release updated projections covering US economic growth, inflation and
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-markets-brace-for-federal-reserve-rate-decision-11789319721849.html
+- Yes to Shanghvi, no to Tata: Why RBI did not follow its precedent set in 2023
+  Like Shanghvi Finance, Tata Sons too paid off all its borrowings and applied to surrender its NBFC licence
+  🔗 https://www.livemint.com/companies/news/tata-sons-ipo-listing-shanghvi-finance-rbi-upper-layer-nbfc-list-11789283397025.html
 
-- Bessent Doubles Down on House of the Rising Sun
-  U.S. Treasury Secretary Scott Bessent describes himself as the top US bond salesman. He's rapidly becoming the top Japan salesman, as well. Not only does he profess to know what that country's central bank will do,
-  🔗 https://www.livemint.com/market/bessent-doubles-down-on-house-of-the-rising-sun-11789324052601.html
+- Important day today for South Korea stock markets - Timings changing from Monday | Know reason
+  The extended hours will enhance market accessibility and flexibility for investors. The Kospi index has risen nearly 99% over the past year, despite recent declines.
+  🔗 https://www.livemint.com/market/stock-market-news/important-day-today-for-south-korea-stock-markets-timings-changing-from-monday-know-reason-11789351900615.html
 
-- Penny stock under  ₹10: Nearly 170% up in 6 months — FMCG share declares expansion of overseas business
-  Penny stock under 10 ru
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-nearly-170-up-in-6-months-fmcg-share-declares-expansion-of-overseas-business-11789311265556.html
+- Tata Sons IPO news | Why is it getting difficult for Tata Group's holding company to stay private?
+  Tata Sons IPO News: Tata Group holding company faces mounting pressure to go public. RBI rejects its plea to
+  🔗 https://www.livemint.com/market/ipo/tata-sons-ipo-news-why-is-it-getting-difficult-for-tata-groups-holding-company-to-stay-private-11789349656909.html
 
-- Small-cap multibagger stock: 135% return in YTD | Defence subsidiary wins  ₹33 crore aerospace order
-  Small-cap multibagger stock has surged from
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-multibagger-stock-135-return-in-ytd-defence-subsidiary-wins-rs-33-crore-aerospace-order-11789305522331.html
+- Upcoming IPOs: GMP comparison | NSE IPO, SS Retail IPO to Hero Motors IPO - Grey market winner is?
+  This week sees around five IPOs opening for subscription, with nearly 10 listings following. The NSE's IPO will start on 17 September, raising an estimated  ₹21,
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-gmp-comparison-nse-ipo-ss-retail-ipo-to-hero-motors-ipo-grey-market-winner-is-11789348906997.html
 
-- Vodafone Idea shares up over 60% in 6 months — Will stock soar more? Guide for stock market investors
-  Vodafone Idea share price has risen from  �
-  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-shares-up-over-60-in-6-months-will-stock-soar-more-guide-for-stock-market-investors-11789299288345.html
+- Gold prices dip as oil-driven inflation concerns weigh
+  Gold prices dip
+  🔗 https://www.livemint.com/market/gold-prices-dip-as-oil-driven-inflation-concerns-weigh-11789350698466.html
+
+- Australian shares inch higher as healthcare and staples gain
+  Australian shares inch higher as
+  🔗 https://www.livemint.com/market/australian-shares-inch-higher-as-healthcare-and-staples-gain-11789349782860.html
+
+- Japans Nikkei slumps as AI leaders raise safety concerns; Topix gains
+  Japan's Nikkei sl
+  🔗 https://www.livemint.com/technology/japans-nikkei-slumps-as-ai-leaders-raise-safety-concerns-topix-gains-11789350698978.html
+
+- Jacob Coxon, who set of debate on slowing AI development, advocates for kill switch for AI systems
+  Coxon advocated for measures to put in effect the slowdown including the possibility of a 'kill switch'
+  🔗 https://www.livemint.com/technology/jacob-coxon-who-set-of-debate-on-slowing-ai-development-advocates-for-kill-switch-for-ai-systems-11789345158042.html
+
+- Microsoft CEO Satya Nadella backs need for evaluators for AI systems amid slowdown debate
+  Microsoft CEO Satya Nadella urged strict human control and deliberate pacing in AI development. His comments follow Anthropic CEO Dario Amodei's proposal to slow AI progress and use independent
+  🔗 https://www.livemint.com/technology/microsoft-ceo-satya-nadella-backs-need-for-evaluators-for-ai-systems-amid-slowdown-debate-11789343509587.html
 
 - Chinese President Xi announces open-source AI ecosystem in 5-point BRICS plan
   Chinese President Xi announces open-
@@ -88,77 +80,29 @@
   The speedometer currently appears when navigation is active, while support without a set destination is still rolling out. Google has explained why the speedometer is missing
   🔗 https://www.livemint.com/technology/apps/google-maps-speedometer-missing-on-android-auto-here-s-why-11789293200191.html
 
-- DeepMind AI safety researcher Josh Engels resigns, warns of superintelligence risks
-  Google DeepMind researcher Josh Engels left the company's AGI safety team to join independent AI-evaluation group METR. Engels believes there is a “terrifying chance” that AI systems could cause
-  🔗 https://www.livemint.com/technology/deepmind-ai-safety-researcher-josh-engels-resigns-warns-of-superintelligence-risks-11789292295646.html
+- Nifty oversold, IT poised for pullback: Anand James on what traders should do next
+  Nifty continues to give the feeling of a range trading market, primarily because
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/nifty-oversold-it-poised-for-pullback-anand-james-on-what-traders-should-do-next/articleshow/134230830.cms
 
-- iPhone 18 Pro and Pro Max camera: What’s new with variable aperture and pro controls
-  Apple’s iPhone 18 Pro and Pro Max introduce a 48MP main camera with a new physical variable aperture and four aperture settings. The Camera app also gets Pro controls
-  🔗 https://www.livemint.com/technology/iphone-18-pro-and-pro-max-camera-what-s-new-with-variable-aperture-and-pro-controls-11789289885918.html
+- Oil Price Today (September 14): Crude oil jumps 3% to near $108/barrel as Middle East tensions escalate. What are analysts warning?
+  Oil prices experienced a significant spike on Monday, approaching $108 per barrel. Recent attacks on vessels in the Gulf have left global energy markets uneasy. Experts foresee oil prices potentially climbing to $120 if threats persist.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-14-crude-oil-jumps-3-to-near-108/barrel-as-middle-east-tensions-escalate-what-are-analysts-warning/articleshow/134230842.cms
 
-- Beijing bans drone possession in the city after earlier moves to tighten rules
-  Beijing bans drone possession in the city
-  🔗 https://www.livemint.com/technology/beijing-bans-drone-possession-in-the-city-after-earlier-moves-to-tighten-rules-11789287553151.html
+- Macquarie completes Maple InvIT stake buyout
+  MAM and La Caisse will jointly hold controlling stakes in Maple�
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/macquarie-completes-maple-invit-stake-buyout/articleshow/134230644.cms
 
-- India stocks log fifth weekly loss as oil fears grip markets - Reuters
-  India stocks log fifth weekly loss as oil fears
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMEI5a2VhM0MzYVlMTWQwRWRxeWI2TjlIbkVLX0NteDdFbmg0c2JhRjl5dHczYzRySnF0Y0MwNzlhcnJSOFNpaHJORVROU2EtTGUyN21weTJvbzBqV3k2NFlLOHp0MTNuNDdTMjd6RU9OQVc5MXk2RUlWUldVSDZ4VVk1UXRkQTlhTWtNQWNpQnpGQkd5cXpUQU5mejZPTTNnYUVpNWd5RFc?oc=5
+- Gold prices dip as oil-driven inflation concerns weigh
+  Consumer prices saw a notable rise in August, further solidifying expectations of increased rates. As higher interest rates typically reduce gold's allure, other precious metals also faced downturns.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-as-oil-driven-inflation-concerns-weigh/articleshow/134230613.cms
 
-- US Fed, Inflation, Oil to Drive Markets in Holiday Week - Rediff MoneyWiz
-  "Rediff MoneyWiz" is a
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXBXNW13eTFwVEZGbFFTbzd3aGV0M0F3bkZBckpib2RlR1RtVExxdVdlUnI1b2hROXBjVHVjbVN5ejJnd0pSUUx0ektqZjZUdTNLeTJ0ZzFETU5paU1YUGlOUm42X2szcXZNNjRpQldkYmdBU0MxNFRuLTdTa2FBTU1QamxJYjY5UFF6cm9rR0JXX0pxV2RKZUFIOVhVVjNKRVFSRG9SLWbSAa4BQVVfeXFMTmdtVDBGbWpZSFdFaVZpYjVibk9DOFgweHBiLS1HX2hEbTg0UUJhV0NCRlJpNDVpeFJMTTRCajRUdGxnOXluMHJURjYySmdCMUdsaDE5R1RYaC11d0p1UHJybDNmN2F2eVR2TlBPakRXSFVJRFEyeHlvdVg4eHY2V0RPNElHckRPVXhpdWh0ZDVNRTd5b1NaZHNLcktZemtubi1wUzNWVlFmakpVZmJR?oc=5
+- Dollar steady, yen near 7-month high ahead of Fed, BOJ meetings
+  The dollar maintained its stability as the yen approached a peak not seen in seven months this week. Investors are keenly watching for a possible rate increase following the latest consumer price indices.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-steady-yen-near-7-month-high-ahead-of-fed-boj-meetings/articleshow/134230598.cms
 
-- Dalal Street Week Ahead: FOMC, oil prices, Iran war, bond yields, inflation, NSE IPO among 10 key factors... - Moneycontrol.com
-  The NSE IPO among 10 key factors in the week ahead. Oil prices,
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPMllJNDVfaC1Na09hU3BYSE5HZUk5WlFZaFRhUVljVFBqYzktTXNQdGpuTlJfNzJpSmtKZDZOYm1ucjNnelZldWEyTjdYRG84S3VvbzhpYkdxZk9ZSzNacFdjNUVSUm1hXzNmNGdBWjlmcUdSYkF1Tk02UF9xSHB3dWpKbFZIZWh0ckx0M21KRWNBZ211dW1JQ2dLMHVCMzdBZFI1eWRKb2NCdm81RXYzaHRmOVNsWVJTeV9kcFRYYlI0aHVFWHVCTDhWUlFPM2EwYjhzMm1HX2Q4MkpUOHM3NndZeTMwa0ZLYjUyWmVOdVFlX1l2a21YY1NxaURpdmUxZVVF0gGIAkFVX3lxTE95TWdReENzTExTZkQxc0Q4RmtRb21TRDg5Y0d5UkotT1ZXX2VNOUppMFc0ZElObXNjMllwM2hnNUlRTVpvTWxQZ2FaazZNM29Rd2Zjdy1kYjJ1VldkcTMwcVdvVmFJLWp1Rnp2NnhrbkxvRlZDWFZJSmxzNzRHa1hXTU1zZEoySi00N29BRTVRSGtFOWNOWUlmOWk3d3ctb0xFRU5tV3FNb2o4Rzk0dERybFJPSjM2WWZ6STh3OUlzLU1QMEJQQy11bGY0c1FmbHV4V2pMZXFvQ3hvY2tfQmdtTDZDNGhZaFdUZmhaQ2g5TFpLdndDcTNCWEFsQ3NVTjhXSjR3QjU5aQ?oc=5
-
-- Bessent dared the markets to ‘bet against’ him. Bond traders did — and appear to be winning. - NBC News
-  Bessent dared the markets to ‘bet against’ him. Bond
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWNEMVd3T01FcU85RHVabm9KNWk3dVFRVUZQMm5DQXNxc1ZwbGduMkFqNWZyOWJhT0o4eU5GY2s1OTB1cUtSNFAxNF9QVTl4Q2hMZ2hvRDZrZkozSDFzYkR2UUJSM2x6YWV6cmpmb0kxLW92QXdILUN3N0xlTGR4YS13?oc=5
-
-- Markets bustle with last-minute Vinayaka Chavithi shoppers - The Hindu
-  The Hindu reports that Vinay
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnluVXJPb09VQ2V1cGJNeUtHWEpPR2wwbFgycU5WeERtSTdmMF9QQ3FlWTR4OWVoM3RTSkd1TGtDRm5SbjA1X2hMVnRqdGgtRUFrLThXZnVOaDVtRTZ4bDFXZjc2bXUzUFdJYzJGZ1Zxc1ktNUxSc1QzTm1NOW1WRlZwdFdHVW1sSkhhUWxJbFcyVHRqa2pSd21KcUZEYzA4d3FGZHpiakJhX29Bblc1bWhBQXphZFMwRUxUT214eDNmZGo1Q1lBTNIBzwFBVV95cUxONlBsZlY5STVnWkwtSEhCb3RGYUdYOWYtVXotU3Bhcmp1RHdMeDljdERid29ZckRucDVRNFNxR1pfMi02ZHAwUE94OEdjTDBWOWpRWEVhQW83SlZIMTlsVG5jREFxakZWR0w4cFJ2VHlib3FrSUw3bGljUHIxZkZ1TlpGLWphWFl3Q2NrWlBGQUI0eGNjQ19SMjh4UWQ0dGJEVlB2ZW5SUkt1N0JVdFZ5WGZLLUJvWkZzbGl0bHE3dFpIT1IwQ0MtbmYzZGljTEE?oc=5
-
-- How Warren Buffett's 'big error' may finally be paying off after a decade
-  Warren Buffett's $37 billion acquisition of Precision Castparts was once acknowledged as an expensive mistake. Supply shortages and GE Aerospace’s rival acquisition have reportedly
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-warren-buffetts-big-error-may-finally-be-paying-off-after-a-decade/articleshow/134192774.cms
-
-- Oriental Insurance hopes to turn corner in FY27 assisted by NSE stake dilution
-  Oriental Insurance Company projects a profitable turnaround by 2026-27. The company plans to offer close to 49.57 lakh shares in this process.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/oriental-insurance-hopes-to-turn-corner-in-fy27-assisted-by-nse-stake-dilution/articleshow/134191606.cms
-
-- ETMarkets Smart Talk| From floor trading to AI algos: Why India’s retail traders are entering the automation era, says Shruti Jain
-  AI-powered algorithmic trading is becoming increasingly accessible to Indian retail investors. Arihant Capital’s Shruti Jain explains how automation can improve execution, reduce emotional
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/etmarkets-smart-talk-from-floor-trading-to-ai-algos-why-indias-retail-traders-are-entering-the-automation-era-says-shruti-jain/articleshow/134188329.cms
-
-- Inside NSE IPO journey: Why India's largest exchange took 10 long years to reach Dalal Street
-  NSE is finally set to enter the public markets with its IPO. The issue will be entirely an offer for sale, allowing existing shareholders to sell their stakes without raising fresh capital.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/inside-nse-ipo-journey-why-indias-largest-exchange-took-10-long-years-to-reach-dalal-street/articleshow/134188204.cms
-
-- Nifty may rebound to 23,800; Rupak De picks Apollo, Laurus Labs and Eternal for the week
-  Three stocks have emerged as top technical picks for the week. Apollo, Laurus Labs and Eternal show positive chart setups. Apollo is expected to move towards Rs 450.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/nifty-may-rebound-to-23800-rupak-de-picks-apollo-laurus-labs-and-eternal-for-the-week/articleshow/134186964.cms
-
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
-
-- BRICS meets in India: What’s on the agenda, why it matters - aljazeera.com
-  BRICS meets in India: What’
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
-
-- India to begin their 3-match T-20I series against Afghanistan in New Delhi today - News On AIR
-  India to begin their 3-match T-20I series against
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOV21lend1Qi1qelBVQ2FBcTk2VllOMEo5MTRjQWpkVFhTWjZYOWV3RFhETVNTaE5RUGpfaUw1T1pSNnJPYVZPU3NLWm5jU1ktclJhMUozQ2NLeE9iR0E0LWQyQ3pHTjQ1MHdqMi1XeG1NVUlZNllFVmVxUUNqSkJ1aEdULXU1R1BKRzdCTG0zZ2tBRGRkMXZmTUpxaVc?oc=5
-
-- World Test Championship points table: Where does India stand after England's 3-0 whitewash of Pakistan? - The Times of India
-  The Times of India published a report on England's 3-0 whitewash
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNZHFCazREX3h6WXFGX0dDdkdjTkNpTlBKb05tMExVU1B4OUxQeEdPZlItUzJZdnQwdThpcjZKZm9XLU5XQXI1cUxER3hFNHMtVi1JQmwtMTdZTHNIUjl3WjJOWnBDS1AzV09XSHJ2NGtRR19uVUVKU1AyZjQ3X3I5U2JDVUVmdkU4VEN6SVYwTE8xbU9ZN2lkc0daSF84RTdaWG1YQS1PR3A4QzJ5OHByWTV2ZnN6YmN5TjVUUTZRVndSU0VFR3RQd2dCQnNkQWF6TnNxWGlQQ3ZXdHEyRlIxbGtiVkpuTGc1QkxiSng0T21CNklkV3pPU01vVFpMUm4zRDhqR19nYkpRZmVlTUFR0gGUAkFVX3lxTE8zWkx1UkRTWFNkaEI4UWRlVllvazhHMVU0c0VhRVktXy02cjNVV3c1SzVFamxaMlNCYVFsMjVtRHVVN0NVVHZMOVZ2U1VSN3A0cjZjOGFpX1RhbUhheDhUQU52N0FqcVNOQTFhZEMyMTdzVEwyYmplQ3gwbENsdGdtUS1FTm42NTRyMl9yYTRRT0tWTGR2Sl9WOGFURVJPZFI3NXEzR3F6dEptSTU1MkhnWElBUXRfMnJhS1FVZlg3UXNMN091a2tHUzdBcUdMeDlpcmNaVXkydmNoYll3YXZWVHBqTnI2UkFIN2NlTnVrTC16THhHS0Z3ZmY3V1ZtOHVRWFVQRjNId3RRckd3Q1RxUkVjYw?oc=5
-
-- India cruise to record-extending eighth Women's Asia Cup title - ICC
-  India cruise to record-extending
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWF5YUR2bDhrNGFaOTVWbkFRSzluR29GTWNxUmhWamo5VVp1YmczUmMzamh4MXUtVVEtT0w2dThDLXM3M2NkLWtESUhxVmdETEdPRVpJOHJERExxWU9SMWZ4YUVxQmlsOUt5NXk2TlRGcG4yT3J4ZkktV0tQZFhzU2ZmbVZDaHlXU000QXMzdjBIeFZRUGZNeWV6Yw?oc=5
+- RentoMojo’s Post-IPO Test: Can The Flywheel Keep Going?
+  One blockbuster listing after another is keeping India’s startup IPO market buzzing. After Shiprocket’S strong debut last month, ESDS extended.
+  🔗 https://inc42.com/features/rentomojos-post-ipo-test-can-the-flywheel-keep-going/
 
 - Indian Startup IPO Tracker 2026
   Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
@@ -176,49 +120,25 @@
   Anthropic’s Dario Amodei Calls For Pacing AI Development. Sam Altman said that OpenAI was open to slowing the development of AI systems.
   🔗 https://inc42.com/buzz/after-sam-altman-anthropics-dario-amodei-calls-for-pacing-ai-development/
 
-- ESDS Soars 92% To Lead New-Age Tech Stocks This Week, MDR Hopes Lift Fintechs
-  New-age tech stocks delivered a mixed performance this week as weakness in the broader equity market kept investor sentiment cautious.
-  🔗 https://inc42.com/buzz/esds-soars-92-to-lead-new-age-tech-stocks-this-week-mdr-hopes-lift-fintechs/
-
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
-
 - BRICS meets in India: What’s on the agenda, why it matters - aljazeera.com
   BRICS meets in India: What’
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
 
-- India to begin their 3-match T-20I series against Afghanistan in New Delhi today - News On AIR
-  India to begin their 3-match T-20I series against
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOV21lend1Qi1qelBVQ2FBcTk2VllOMEo5MTRjQWpkVFhTWjZYOWV3RFhETVNTaE5RUGpfaUw1T1pSNnJPYVZPU3NLWm5jU1ktclJhMUozQ2NLeE9iR0E0LWQyQ3pHTjQ1MHdqMi1XeG1NVUlZNllFVmVxUUNqSkJ1aEdULXU1R1BKRzdCTG0zZ2tBRGRkMXZmTUpxaVc?oc=5
-
-- World Test Championship points table: Where does India stand after England's 3-0 whitewash of Pakistan? - The Times of India
-  The Times of India published a report on England's 3-0 whitewash
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNZHFCazREX3h6WXFGX0dDdkdjTkNpTlBKb05tMExVU1B4OUxQeEdPZlItUzJZdnQwdThpcjZKZm9XLU5XQXI1cUxER3hFNHMtVi1JQmwtMTdZTHNIUjl3WjJOWnBDS1AzV09XSHJ2NGtRR19uVUVKU1AyZjQ3X3I5U2JDVUVmdkU4VEN6SVYwTE8xbU9ZN2lkc0daSF84RTdaWG1YQS1PR3A4QzJ5OHByWTV2ZnN6YmN5TjVUUTZRVndSU0VFR3RQd2dCQnNkQWF6TnNxWGlQQ3ZXdHEyRlIxbGtiVkpuTGc1QkxiSng0T21CNklkV3pPU01vVFpMUm4zRDhqR19nYkpRZmVlTUFR0gGUAkFVX3lxTE8zWkx1UkRTWFNkaEI4UWRlVllvazhHMVU0c0VhRVktXy02cjNVV3c1SzVFamxaMlNCYVFsMjVtRHVVN0NVVHZMOVZ2U1VSN3A0cjZjOGFpX1RhbUhheDhUQU52N0FqcVNOQTFhZEMyMTdzVEwyYmplQ3gwbENsdGdtUS1FTm42NTRyMl9yYTRRT0tWTGR2Sl9WOGFURVJPZFI3NXEzR3F6dEptSTU1MkhnWElBUXRfMnJhS1FVZlg3UXNMN091a2tHUzdBcUdMeDlpcmNaVXkydmNoYll3YXZWVHBqTnI2UkFIN2NlTnVrTC16THhHS0Z3ZmY3V1ZtOHVRWFVQRjNId3RRckd3Q1RxUkVjYw?oc=5
-
-- India cruise to record-extending eighth Women's Asia Cup title - ICC
-  India cruise to record-extending
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWF5YUR2bDhrNGFaOTVWbkFRSzluR29GTWNxUmhWamo5VVp1YmczUmMzamh4MXUtVVEtT0w2dThDLXM3M2NkLWtESUhxVmdETEdPRVpJOHJERExxWU9SMWZ4YUVxQmlsOUt5NXk2TlRGcG4yT3J4ZkktV0tQZFhzU2ZmbVZDaHlXU000QXMzdjBIeFZRUGZNeWV6Yw?oc=5
-
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
+- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - ndtv.com
   PM Modi Pauses BRICS Speech To Check On
   🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
 
-- BRICS meets in India: What’s on the agenda, why it matters - aljazeera.com
-  BRICS meets in India: What’
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
+- India wins record eighth Women’s Asia Cup title, President Murmu congratulates team - newsonair.gov.in
+  India wins record eighth Women's Asia Cup title.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPblJISF82ejdPTk1lNkZ0b2xhdEI3aXVRQ01ldFdTWVZSUktzWDQ0Nnd5dE5EVFhGRml4b21MbDNkN2lSNTloVTZpeUljLWRCSC1YUU9BaXdlZ0xwYzJ1QmdyQzAyNWN1b0lsM2lpeWxPY3JPamZJd2NnRkF2SUZGeXRRNmUxNVpmbC1xWFBrcm85MTFINlJmVnVpLUR2WXdVSHBseFJMOEc4VUE?oc=5
 
-- India to begin their 3-match T-20I series against Afghanistan in New Delhi today - News On AIR
-  India to begin their 3-match T-20I series against
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOV21lend1Qi1qelBVQ2FBcTk2VllOMEo5MTRjQWpkVFhTWjZYOWV3RFhETVNTaE5RUGpfaUw1T1pSNnJPYVZPU3NLWm5jU1ktclJhMUozQ2NLeE9iR0E0LWQyQ3pHTjQ1MHdqMi1XeG1NVUlZNllFVmVxUUNqSkJ1aEdULXU1R1BKRzdCTG0zZ2tBRGRkMXZmTUpxaVc?oc=5
+- ‘We can’t receive the trophy from him’: Why India snubbed Mohsin Naqvi again at Women’s Asia Cup, Devajit - The Times of India
+  India snubbed Mohsin Naqvi again at Women’s Asia Cup, Dev
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxNNzVUX1RHenZXRGZiX2hHd29wanlXUTcyWjRXYVBSVEpKQXJZb3J0bmlmem9GNTFwdUpnWHc5ZGtBWG9HSk1NNkkxb0tOR0lZUnltNUlBZE84M0RFTTBDNzhGUjdvSXFnZ3dWbWRMU1I2aUJzNDNTRDBRSUFkbWF0ZjNVSWE3MmFTUEN6cXRwUWpzdnJHNkQyUC0xbmRneWNmTVdoVXZmSm9IUS1KNEVHQURJeHNOb3VlN1FQUUxaXzExdVM4UlR3am1DdXJBU25FN0VSMkdrNTBvLWdDTW1OVy1PVWhBX2JWazNZbVMxUV9QajFRRnd3a20yS0x5QkNQV2JjWmw4SVRvN0o5YmdIWUlxOGVtSDBh0gGeAkFVX3lxTE9LSTJLdmlwZWRRVXI0SzFJZkFpLWFaU0piajBzMlpWbS01bHg4MGItNk9USzdqcGt6cUlaSjZ0SXVEbkh6TjJBN0JCbU82eHUxVFo0QTZuSkRTM1hfUlpHeEM3eTFaMllFSEZjQmo4VVlDd19fN29xRzRfWVBISXdPbi1fUHhYSFRzTjRUTDd5NUxUME1uZWRDdXctbkl4UjJ2SVk0ZjBNekRHdklTVGdKeTctMWJFRDU4NjMycTBTejRDUEJ6X20wdzdDTkYya21aTEtDcnVyVjhZVWEwb0xhUnY1b29ublFBakV2UTBfemJ1eS0yekVGWDRlbmhGVk02SGp0WWVVSExzNXZkaE1hSmV4LWFHSDRPYjJzRFE?oc=5
 
-- World Test Championship points table: Where does India stand after England's 3-0 whitewash of Pakistan? - The Times of India
-  The Times of India published a report on England's 3-0 whitewash
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNZHFCazREX3h6WXFGX0dDdkdjTkNpTlBKb05tMExVU1B4OUxQeEdPZlItUzJZdnQwdThpcjZKZm9XLU5XQXI1cUxER3hFNHMtVi1JQmwtMTdZTHNIUjl3WjJOWnBDS1AzV09XSHJ2NGtRR19uVUVKU1AyZjQ3X3I5U2JDVUVmdkU4VEN6SVYwTE8xbU9ZN2lkc0daSF84RTdaWG1YQS1PR3A4QzJ5OHByWTV2ZnN6YmN5TjVUUTZRVndSU0VFR3RQd2dCQnNkQWF6TnNxWGlQQ3ZXdHEyRlIxbGtiVkpuTGc1QkxiSng0T21CNklkV3pPU01vVFpMUm4zRDhqR19nYkpRZmVlTUFR0gGUAkFVX3lxTE8zWkx1UkRTWFNkaEI4UWRlVllvazhHMVU0c0VhRVktXy02cjNVV3c1SzVFamxaMlNCYVFsMjVtRHVVN0NVVHZMOVZ2U1VSN3A0cjZjOGFpX1RhbUhheDhUQU52N0FqcVNOQTFhZEMyMTdzVEwyYmplQ3gwbENsdGdtUS1FTm42NTRyMl9yYTRRT0tWTGR2Sl9WOGFURVJPZFI3NXEzR3F6dEptSTU1MkhnWElBUXRfMnJhS1FVZlg3UXNMN091a2tHUzdBcUdMeDlpcmNaVXkydmNoYll3YXZWVHBqTnI2UkFIN2NlTnVrTC16THhHS0Z3ZmY3V1ZtOHVRWFVQRjNId3RRckd3Q1RxUkVjYw?oc=5
-
-- India cruise to record-extending eighth Women's Asia Cup title - ICC
-  India cruise to record-extending
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWF5YUR2bDhrNGFaOTVWbkFRSzluR29GTWNxUmhWamo5VVp1YmczUmMzamh4MXUtVVEtT0w2dThDLXM3M2NkLWtESUhxVmdETEdPRVpJOHJERExxWU9SMWZ4YUVxQmlsOUt5NXk2TlRGcG4yT3J4ZkktV0tQZFhzU2ZmbVZDaHlXU000QXMzdjBIeFZRUGZNeWV6Yw?oc=5
+- Women’s T20 Asia Cup: India to face defending champions Sri Lanka in final today - newsonair.gov.in
+  Women's T20 Asia Cup: India to face defending champions
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXRLaVRjd1pSVmNUMnNWUXk4bXZJTGtJU2F0ZzJqRmRWSU1Kc1Z6dXhYWVRvVTQ0eHhOQnB0Q2wtM09RdUVDczBSandWLTE1WWtpcGxXeHZLWVNjTUdZUktTTUFrbXgzTWNydzVVVHBxVGRZUWZxWm5WaVpELUt1NzByVEh4Y1dGalBDUl9XdGkycEd2OXdaYjl1VnE4UHRUVFU0MFdn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-13 20:12:43 UTC_
+_Last updated: 2026-09-14 02:59:35 UTC_
