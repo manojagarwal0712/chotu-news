@@ -4,41 +4,81 @@
   Xi's 5-point action plan for Brics may see red flags go
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXNaYVUyRTZDU2dXdi1Gemo2RjZQb3JCcEQ2eFJIMG4zck5ld0RPNktiN0labGVwM2VRRGVWN1lmbUtjVlc0QmdlRGd0ZHpfQWJnbXJjN0F2ekJ4V2FPbUxsclExX29uVy1qMmtmalBmLU5mSF8xdVJtTmJyVzI4MWFnektERlBVR3VCUi1XRVB1OUpWcFdEelozekM3WUJsLUdZV3pITE5ibEphV2ZYWXJadGRGOUM3NzRXMHNrWmR6TVdEOFp3LTdDUlpWNWPSAdQBQVVfeXFMT2hPU0xSeVpHUEl3UGRzZW9iQVBYV2R2N3BXdWs4NVY2N1VLemVmTHBXQktJWlV6QkRMaTk1S2taZzZxSmNvc0F5aW5GSzZER1BpTEZ6Uk9QTlBNQm5PZTY4YmNQX3NEWTZ4eFk0Qmw1aklPVUZuN2VUVGNSYVZRbEdsQ0o3S3AzVkxPSVcwN25GMkdDeTRvYTRoM19IdFl1ZEJ2UFNlVGRUd0dqMnhTY1VFZzdXNW9rS0w0UFE0czN0R2ljNGhlUUJDWUszZnFZYXM1bjg?oc=5
 
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
+- BRICS meets in India: What’s on the agenda, why it matters - Al Jazeera
+  BRICS meets in India: What’s
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
 
-- Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy | India News - Hindustan Times
-  Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy.
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZGIyeG1GSlVTZFpQSnZud1lpLVJvRTV0RVhKRW5oN1oxOElxcWpPazAwblZJTjdiN2hrcnZzZFVFZ1ZkdmY0SWtaNzZHR2EtbldldTFtWmdiZFBBclhkNzlVcmtKSzYwZmZOWTdOUWJkZEROOWlNbzVXT2hMd2NJWFo4bmd1T204SVBlX2VHN3Q3U0VkOUtXcEZDR29XQTd0VUdBN1NIVU1rQzN1Y2RrbDUtNEUxcWwxMlJMY05PcEZvY3NUSU5jVzU5VUlKcGpHM1g0c051YnNpcEtKVHh0azlRTS1heU03XzRRcUN2VkNkbXNpU1BSWXFSQdIBgAJBVV95cUxPZFR1R0xjN3pELUFLcTh5YnpuM3dyTnl2S2w2R1VqRzBsWl9WY2hKN21yTmluMEZzU2FaTlZrTUM5ZjVqYjUtUzg2SkJjNUJVZkdNMWZzVjlIYnJaT2dqSWFCWHg2VVpINkJBV29BektibWVCSVdvUWdyQm5GNW84dmtGa1lLTnVkX3RCWk55YVNtakxCQnExZEZDQzZ1dDYtcXdvekE1RExzb0I4d1FZeF9lYWxIOFVWRXV1T3M5dmlWckRoemlpTWc5X0pMNUp4QW00czJLYXdESlZ5aTBGRjB2UDZuWTBtbnhTM1hsaGNXbFJULXRVd1MxMVJZeGFI?oc=5
+- Jethmalani: Why wasn't FIR slapped on Varma? - The Times of India
+  Jethmalani: Why wasn't
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPam83Wjl6Z1dNNGE5RUtwbmFac3hqQTFmRnlIaUFFa1FDUGhiUUJJOFd4N1poa21EOGttdURRczNIRzd5dE80SzlDbzFWWmJXeHJMcWdmaS1ORnNQSXBYSDNhbDRYSDlybC13Zmt5MmlQYnZ6bnVPVTNzUWc5am5ZaUx0ZDlNWnpDRFBtUFdiZ0Z3d2pMazhXOEZ4VV9zeE9hOTJ6WXN5eVhXQVhMMlHSAbMBQVVfeXFMT3F0azN6bVFEMnpzV3JRcjcyQk1PUUpfcXQ4RDVub3QtT0hacGluSURzSUdnenJfWkNqblRMTDRCZTNpc1BBd2NOLUhMSmJkdGo5aWt2cWVCYzl6ZW5IMWNRSlRObW9mRGNzTDRQbWxxZkJFNkdwMWJFS2Z6Nk8zSm11QjVVcDRDN3NtbXJFUnBCd3BzUVc1OFIwdXdENnBpQUc3dzRrNE1GaEpTUWlZQzFENTg?oc=5
 
-- Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
-  Former Air India Pilot Found Dead At 5-Star Hotel
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
+- "She Didn't Stop, He Hit Her Bike": Rider Posts New Gurugram Hit-And-Run Clip - NDTV
+  "She Didn't Stop, He Hit Her Bike":
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFVrNGo2WFpaMmRUQXFzT1I0OS0tUGxaVWV2Q1Z2aE00UjVwejNzaDM4TmJMdHM0Ty0xZDMwcTdDckZwYmI2bWRGQ0k2SjlUSEp0LUVKM1lNNW5FZ2hKMFQxdXZRQnM0dXRfNTlZTnhMX0lmNmdVSndCcEhBSXdIaE9hM2NLY1RDRktDbHlWZjJENmdkZm9FZFkxUnVaUzY4ODlFdm5qU1ExWHFKclBCSUV2S1hYQnVjLUYtS1BKSjgtY085NDA3cDY2ZTVSTnlzSE1GcDVGZkJGUWQ0bWJ5Tkg1ZndjZ9IB7gFBVV95cUxQcWxIN3dzNVhkcmhaSmkydktVeDVKa2Y3ZFdDSWxTTnlObnFnQktaenJrT01lVmNKckxHSDJIR2xRLXAtN0RHMVJJMkhmb0hzMm9MamN4dmxlWGV2VEUxdkR1QVhUX19IX0c4XzQ4RHJRYmJDU3haWjBRSExRdV81LXlSMmV0YnV2d18xNkFYYU1jM09FbzNJMExlMHBzcWlOanFIb29WeC1hMng3QjhNREVOQ3gtbkxNSHJOS2p6cUcxZUZmemhCX2JyeTN2MDd0TkN4aERXbkxUR1BQbDFkSWJBNDFzc0lUOVA4c3J3?oc=5
 
-- Air India pilot dies during Delhi layover - The Times of India
-  Air India pilot dies during Delhi layover
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2ZBOUxzYUFzRC1panBaRXZ5aTBYTjJVbjltOWFsTGt5akQ4b2JZRDRma1pqeGlqMzRGN2t0QUVoNHVUSDA0NEtQVnRrdmNlVjNQSnJjSzRobFRfN0pwSmFPdF9zbG5pTy1xMmplTHFyckw1dGEtQzk3WWk5OF9Wc1pFX0FnclFtenp5dHp4a0VFTXFuUmNOdEM0cUlWRmpvYVV0Z2xTSzZ3R2F6bnfSAbMBQVVfeXFMUENSODFTLWtPLUZ5RkI0cno0c0NnQ2NTOFh3YjVxWVVWRVZiQWFRWXFNZDM0RmN6ZmE3emlJLWVXUlU2NVhSZkFaaG5TMmxFMVJDZUJYeHA2czczWVViSnVYOXdCYTVlTGNmLUoybURrTHJ6Ul9ZTUxUcWRJSXduTDhFTkJLSGE4MFVXSENpSTNtSmZfRDJ5T0dZZWJfT2xacmRfUGJHbFF5NjlmMUk1NTdSS3c?oc=5
+- Nepal floods: The Himalayas are melting faster - and India's economy is 'at risk' - BBC
+  The Himalayas are melting faster than previously thought. The
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HSXNuM2xtN1IyaUhITXI3VVFqMENUNXlCUXZlRnBvVDlqSUZaOTZmR1ZNaVN6cTdzQm5ZY3hNZlRDa0FYTm10YUQ2cV9xeWxoRUxvM0kydzFtdw?oc=5
+
+- Dutch start-up completes funding round for encrypted silicon technology - Financial Times
+  Dutch start-up completes funding round for
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2I3MUxLWHNfV0NRZjZzZU1zWFRnVUNhdEdyYWdDeEM5NUYtMk9fTXhremYzMk51dGZCT3ZhTkJ3aHh1TThrdmdnb3JtdnFpS09mMWdNSU5RZVo0R0VVVGJpSENQXzVzeVkxREdfa0FtLU8xc2JyWjEyN2ZzQV9MVHBYY2k?oc=5
+
+- VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the Future of Food & Beverage Technology - PR Newswire
+  VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPZHRsZHVnQU44ZklidEhOdWtHQUNSZWhpdDZLaHBrVmtmbi1VYWRxNDViZFRiSDJFRGhYd2tXbjdFSk1vOURiSXVjSGIyWkxSRHNXZExTRFlFYUxLQ05vQzVyTkVIZVZRTHI2ejBVM2ZLYkViM01FTVBESk4wNHZjTUlTZGNoZFQ3U3U1LXJmaEFvNGEwWVJ0ZGJkYWtBY2xlamRTWlI5Tk9yVzRGcjJTNTIySm5QNk0tNjNvWnBqeGVPY2pVdTAxQW1nU2M0S0dPZzB4S1d3cGcwbjd5UFZLRTBISFNKVHpJdWpDYU1qelNqMWlETDFoeEZyaEc4TVow?oc=5
+
+- China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule - The New York Times
+  China’s Top Spy Chief Warns A.I.
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnliOXZJeEJxZVNWd1RHbjdRam5qeXN4Y25OUTlkODQzd29SSkFadDhFanBNY0J5UnlxM29GY3R0R1c3amVfb1FldzdYZW5sclJBdDNYc2l0TjM2NGVmU2MwWDlsUF9MUGVjMld2ZU52Rnltd3dmbUx5WUZYSFpaOHd1Mm5zVUR5YUF0TQ?oc=5
+
+- AI CEOs say they need to slow the pace of development. But will they? - The Guardian
+  AI CEOs say they need to slow the pace of development. But
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE5XQlp1T0FKUFNtVnFFME44cGFabC1iYlp4YXVWaWtXaWtfR0l3b1FRbEh1NTd2RmxjazNmcGIzX1lJQm1Ub2pMNDR3R0VYbG8tUGpOUXFuTUZXQWpiSERMOUdscExGZS05NzA3cWtmZWFjODFRZzg3YlFEWWNEQQ?oc=5
+
+- Why are there concerns AI could threaten humanity, and how real are they? - BBC
+  The BBC asks why there are concerns AI could threaten humanity
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE15WE1hRGNTMU9hcE9fYV91WmhYYUZQeHhNZnZHbFFqeVEtaG1GSmxqbG9XUjcyaTFBcXJGN19RSDR1NDZSd0tXZDJCVUJEaXdSbl92TU5KWFpidw?oc=5
+
+- German Minister Has ‘Constructive’ Orcel Talk on Commerzbank
+  German Finance Minister Lars Klingbeil gave a cautiously positive readout from his meeting with UniCredit SpA Chief Executive Officer Andrea Orcel. He outlined the demands he wants
+  🔗 https://www.livemint.com/companies/german-minister-has-constructive-orcel-talk-on-commerzbank-11789412443108.html
+
+- In HDFC Bank CEO race, ICICI Life Insurance veteran is frontrunner: Who is Anup Bagchi?
+  HDFC Bank said its board has forwarded two names recommended by the
+  🔗 https://www.livemint.com/companies/people/in-hdfc-bank-ceo-race-icici-life-insurance-veteran-is-frontrunner-who-is-anup-bagchi-11789408010778.html
+
+- HDFC Bank proposes Kaizad Bharucha and Anup Bhagchi as CEO candidates to RBI, reports reveal — Here's all we know
+  HDFC Bank has proposed two CEO candidates to the RBI. Kaizad Bharucha, Deputy MD, and Anup Bagchi, MD of ICIC
+  🔗 https://www.livemint.com/companies/people/hdfc-bank-proposes-kaizad-bharucha-dmd-anup-bhagchi-icici-prulife-ceo-candidates-reports-rbi-replace-sashidhar-jagdishan-11789405991248.html
+
+- ‘Today is your last working day’: Oracle starts fresh layoffs as artificial intelligence spending rises
+  Oracle is reportedly initiating another round of job cuts. Notification emails indicated immediate terminations
+  🔗 https://www.livemint.com/companies/news/today-is-your-last-working-day-oracle-starts-fresh-layoffs-as-artificial-intelligence-spending-rises-11789406615012.html
+
+- Who is Kaizad Bharucha? HDFC's Deputy Managing Director, who is among frontrunners to succeed CEO Sashidhar Jagdishan
+  HDFC Bank CEO, MD Sashidhar Jagdishan will retire on October 26, 2026. Reportedly, HD
+  🔗 https://www.livemint.com/companies/people/who-is-kaizad-bharucha-hdfcs-deputy-managing-director-who-is-among-frontrunners-to-succeed-ceo-sashidhar-jagdishan-11789392560059.html
+
+- Emerging-Market Assets Fall as Oil Surge, AI Jitters Dent Mood
+  Emerging-market assets fell at the start of a key week for global markets. Concerns over the pace of artificial-intelligence development weighed on currencies and stocks.
+  🔗 https://www.livemint.com/market/emergingmarket-assets-fall-as-oil-surge-ai-jitters-dent-mood-11789418890064.html
+
+- BHEL approves  ₹65 crore further investment in NTPC joint venture NBPPL
+  The investment aims to be completed in FY2026-27, and no regulatory approvals are needed. BHEL will retain a 50% shareholding in NBPPL.
+  🔗 https://www.livemint.com/market/stock-market-news/bhel-approves-rs-65-crore-further-investment-in-ntpc-joint-venture-nbppl-11789408978841.html
+
+- Global AI stocks fall as industry chiefs call for slowing development
+  Global AI stocks fall as industry
+  🔗 https://www.livemint.com/market/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development-11789410675140.html
+
+- Infosys, Wipro ADRs surge up to 6%: What it means for Indian IT stocks on Tuesday
+  Indian IT ADRs like Infosys and Wipro gain amidst a US tech sell-off. Investor sentiment shifts post AI
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-wipro-adrs-surge-up-to-6-what-it-means-for-indian-it-stocks-on-tuesday-11789404651598.html
 
 - 10-year Treasury yield hits highest level since 2023 as US Federal Reserve decision looms
   The US 10-year Treasury yield rose to 5%, its highest since October 2023. The Federal Reserve may increase interest rates, with a 90% chance of a hike.
   🔗 https://www.livemint.com/market/stock-market-news/10year-treasury-yield-hits-highest-level-since-2023-as-us-federal-reserve-decision-looms-11789400968499.html
-
-- US market crash: Nvidia, Intel among chip stocks plunging up to 9.5% as AI slowdown fears hit Wall Street
-  Major US chip stocks faced selling pressure on September 14. The Nasdaq dropped 1.7% as investors anticipated a Federal Reserve rate hike.
-  🔗 https://www.livemint.com/market/stock-market-news/us-market-crash-nvidia-intel-among-chip-stocks-plunging-up-to-9-5-as-ai-slowdown-fears-hit-wall-street-11789395371565.html
-
-- Top stocks in focus tomorrow: Investors must watch HDFC Bank, HCL Tech, Sun Pharma shares on Tue, 15 Sept | Triggers
-  On September 15, Indian stock market investors will focus on HCL Technologies, KEC International, and HDFC Bank amid important announcements. Key highlights involve HCL's new AI partnership
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-hdfc-bank-hcl-tech-sun-pharma-shares-on-tue-15-sept-triggers-11789391805059.html
-
-- Stock Market prediction tomorrow: Sensex, Nifty outlook for Tue | Kospi, Taiwan Index, Nikkei cues to watch | 15 Sept
-  Sensex and Nifty 50 are expected to open flat as global markets face declines. Rising tensions in the Middle East and the upcoming US Federal Reserve meeting further influence market caution
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-tue-kospi-taiwan-index-nikkei-cues-to-watch-15-sept-11789387045689.html
-
-- GMM Pfaudler share price target: Buy rating, 39% upside - Check rationale behind recommendation by InCred Equities
-  MGM Pfaudler Limited's stock is projected to rise 39% after a 77% increase in three months. Key factors include
-  🔗 https://www.livemint.com/market/stock-market-news/gmm-pfaudler-share-price-target-buy-rating-39-upside-check-rationale-behind-recommendation-by-incred-equities-11789387758447.html
 
 - Apple's latest surprise? iPhone maker is reportedly developing game controllers for its handsets under Beats brand
   The controllers, codenamed T6502 and T1057, could feature D-pads, thumbsticks,
@@ -60,25 +100,17 @@
   Croma is offering the iPhone 17 Pro 256GB at an effective price of  ₹69,990 with exchange benefits, bank cashback and an additional exchange
   🔗 https://www.livemint.com/technology/iphone-17-pro-256gb-price-slashed-to-rs-69-990-at-croma-check-exchange-offer-11789360822208.html
 
-- Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5% - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5%. Oil Surges as Saudi Pipeline Closed.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVdLdTJrbjFlX2lQWjdXaDUtM2w0aWExVXpzMmdOeGFyRXVOaWRLS0RLUG5qcVhOd2F6bjNfR2gxSDNOMWgxOWhxcVg5b01BZWg3VXAyUkQxczZNOXFMUmU2bmh4eFNJMmRoSDI0dmRGRVpVRVk2R2FzY1RQWXVQZ1I3dURRbzZYSHZBUnNLMHUxR2ZfQWNRR0NaNlN2Nm1YUzVnWDF1a1EwOUl3SVEw?oc=5
+- US stocks today: US stocks end lower as AI slowdown fears hit chipmakers
+  US stocks ended lower as Nvidia and other chipmakers fell after AI leaders raised safety concerns and called for slower development. Rising Treasury yields, with the 10-year briefly crossing 5%, and higher oil prices added to
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-lower-as-ai-slowdown-fears-hit-chipmakers/articleshow/134247627.cms
 
-- The stock market could do something strange this week after the Fed decision - CNBC
-  The stock market could do something strange this week after the
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUhkdHZiUktsdjZjY3FfajRSb0hGa2NWbDNNY1I3NWtja2JIZThIVUFtbXFibTk3WUVDOElvUnJjQjRXWnFsdkJBaTBvdUctSVU3bEdsOHJRTGFsSldDbkhMaVFoeGVGamdsTTRnX0JlRjljYkJUclZuZ1RXWFktNURCRElHOXVfRkJwNzVUcHBWRm1pSDRLVjgtXzVqcXZGVUNRYW9zUGltWmtPakxHSVlQNNIBuAFBVV95cUxQeHYzcFk4dHBpdjJOWnNLdWYySy1RZGV1T3RXSWlhZC1uaS1WQlZkRDBpdGxJUGJCRnFtaWFUYWdMZkhQSFBNWmtSeTNOemE1VEppNnJ1WktjMjdJdWt3OUhRYkltSGV3anI1RFNSRXlCaXlwZmVTUTc3dHpiYXZBb3paZUZiamRmbVd4UGZEOTBTOVY5bzZOYkppR25uZXpfRUh4MHZXRUl2RFBSTWU2bm00NUp0dUlV?oc=5
+- CVC-backed Bamboo Insurance targets $3.24 billion valuation in US IPO
+  Bamboo Insurance is targeting a valuation of up to $3.24 billion in its US IPO. Selling shareholders seeking to raise as much as $700 million. The residential property insurer plans to offer 35 million shares at $
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/cvc-backed-bamboo-insurance-targets-3-24-billion-valuation-in-us-ipo/articleshow/134246642.cms
 
-- 10-year Treasury yield hits 5%, critical threshold for US economy and markets - CNN
-  10-year Treasury yield hits 5%, critical threshold
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE91dmcwS01EcUI0YWxEZ3JjZFJKSXlPUXVVNE12b3NMd0FtX0p5ckVmRHhEdTNYMUpNSVVfT0ZqVjNkZUhkTWVrSGloV2dJY3JhYWw5bEtrZy0xd3NXTVdJbXR0RFllMEJCbWRyOHFkOXdpR0Fzb0E?oc=5
-
-- 10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week - CNBC
-  10-year Treasury yield hits 5% for first time since 2023 as traders
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPSndBSmExY1RzSTFnUW9obDdobFVSMkJyM183MGxPUnE3dWpIVFJEazdKb2M3djRrYzBNWXNEbVVjWE5RYzRNaF8xNFVYeWhOb1FJR3hjaVpFNXdjSVdZV0d3LWRwYVlPaEFzOGQ0TjdaTGdqTUFraDJIeE11U19CbnB3bUd2WHZMU3fSAY8BQVVfeXFMTXpkM2ZfRmduOHB1cVV1Y3lSODV4ckhYRmJvZ3hZcGJrd2swbU1GdjJCTllyZDZmejU3MEFOWlRMYmJJU3UzdmRqcWlLVWg3YTk0dEE2aGEzUXItTVIxUU9reVY2TUZOa1hSRjF0cGlablpBWGIwMnBXMWsyRUNrcVJDY00ya1JpQ3MyS29BVlU?oc=5
-
-- A 5% Treasury Yield Is Raising New Risks for Markets, Economy - Bloomberg.com
-  A 5% Treasury Yield Is Raising
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSjgtREVUcTBVWlQwcTgtdEg1YnFCOFRqQkt3S0FXclJwZVdJSUZEaXBCbjkzVmM5UWdKX09GSDh5Q18zT0JjaWoycjJteV9XUHAtYnQ0R3lFYmZPWEVocmNWYjRpcXFmRFU4NmF1MU1oM3FCYnppWTJ2Ql9LSHc2MU40STdoazlKYTA2MXdrWkNSekUtbmd0YmtpR1JnaDVtWjZNLW5oZnhqWl91T1hn?oc=5
+- Copper price hits three-week low as inventories rise and dollar strengthens
+  Copper prices fell to a three-week low below $14,000 a ton. Copper has now dropped 6.2% from last week's record high.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-hits-three-week-low-as-inventories-rise-and-dollar-strengthens/articleshow/134245729.cms
 
 - US Senate Republicans release new crypto bill text ahead of critical vote
   US Senate Republicans have released a revised version of the Clarity Act. The crypto bill faces a key procedural vote on Tuesday. Its passage remains uncertain as Democrats weigh ethics safeguards.
@@ -88,65 +120,85 @@
   Kaiko has raised $110 million in a funding round led by S&amp;P Global. BNP Paribas, Nasdaq, Royal Bank of Canada and other investors also participating. Kaiko plans to strengthen its data
   🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/crypto-data-firm-kaiko-secures-110-million-funding-round-led-by-sp-global/articleshow/134244840.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Sensex and Nifty closed lower, while weak breadth, foreign outflows and geopolitical risks kept bears in control.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134243986.cms
+- Xi's 5-point action plan for Brics may see red flags go up in India - The Times of India
+  Xi's 5-point action plan for Brics may see red flags go
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXNaYVUyRTZDU2dXdi1Gemo2RjZQb3JCcEQ2eFJIMG4zck5ld0RPNktiN0labGVwM2VRRGVWN1lmbUtjVlc0QmdlRGd0ZHpfQWJnbXJjN0F2ekJ4V2FPbUxsclExX29uVy1qMmtmalBmLU5mSF8xdVJtTmJyVzI4MWFnektERlBVR3VCUi1XRVB1OUpWcFdEelozekM3WUJsLUdZV3pITE5ibEphV2ZYWXJadGRGOUM3NzRXMHNrWmR6TVdEOFp3LTdDUlpWNWPSAdQBQVVfeXFMT2hPU0xSeVpHUEl3UGRzZW9iQVBYV2R2N3BXdWs4NVY2N1VLemVmTHBXQktJWlV6QkRMaTk1S2taZzZxSmNvc0F5aW5GSzZER1BpTEZ6Uk9QTlBNQm5PZTY4YmNQX3NEWTZ4eFk0Qmw1aklPVUZuN2VUVGNSYVZRbEdsQ0o3S3AzVkxPSVcwN25GMkdDeTRvYTRoM19IdFl1ZEJ2UFNlVGRUd0dqMnhTY1VFZzdXNW9rS0w0UFE0czN0R2ljNGhlUUJDWUszZnFZYXM1bjg?oc=5
 
-- Gold, silver prices retreat as oil prices surge, inflation and rate-hike concerns mount
-  Gold and silver prices declined on September 14, 2026. Oil prices rose 4% due to supply fears amid Middle East tensions.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-retreat-as-oil-prices-surge-inflation-and-rate-hike-concerns-mount/articleshow/134243425.cms
+- BRICS meets in India: What’s on the agenda, why it matters - Al Jazeera
+  BRICS meets in India: What’s
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
 
-- Bond market shock: 10-year US Treasury yield tops 5% as oil spike puts Federal Reserve on rate-hike path
-  US bond yields climbed significantly on Monday, surpassing 5%. Crude oil prices jumped, reviving inflation concerns among investors. Investors now await the Fed's policy decision on Wednesday.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bond-market-shock-10-year-us-yield-tops-5-as-oil-at-108-puts-fed-on-rate-hike-path/articleshow/134242764.cms
+- Jethmalani: Why wasn't FIR slapped on Varma? - The Times of India
+  Jethmalani: Why wasn't
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPam83Wjl6Z1dNNGE5RUtwbmFac3hqQTFmRnlIaUFFa1FDUGhiUUJJOFd4N1poa21EOGttdURRczNIRzd5dE80SzlDbzFWWmJXeHJMcWdmaS1ORnNQSXBYSDNhbDRYSDlybC13Zmt5MmlQYnZ6bnVPVTNzUWc5am5ZaUx0ZDlNWnpDRFBtUFdiZ0Z3d2pMazhXOEZ4VV9zeE9hOTJ6WXN5eVhXQVhMMlHSAbMBQVVfeXFMT3F0azN6bVFEMnpzV3JRcjcyQk1PUUpfcXQ4RDVub3QtT0hacGluSURzSUdnenJfWkNqblRMTDRCZTNpc1BBd2NOLUhMSmJkdGo5aWt2cWVCYzl6ZW5IMWNRSlRObW9mRGNzTDRQbWxxZkJFNkdwMWJFS2Z6Nk8zSm11QjVVcDRDN3NtbXJFUnBCd3BzUVc1OFIwdXdENnBpQUc3dzRrNE1GaEpTUWlZQzFENTg?oc=5
+
+- "She Didn't Stop, He Hit Her Bike": Rider Posts New Gurugram Hit-And-Run Clip - NDTV
+  "She Didn't Stop, He Hit Her Bike":
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFVrNGo2WFpaMmRUQXFzT1I0OS0tUGxaVWV2Q1Z2aE00UjVwejNzaDM4TmJMdHM0Ty0xZDMwcTdDckZwYmI2bWRGQ0k2SjlUSEp0LUVKM1lNNW5FZ2hKMFQxdXZRQnM0dXRfNTlZTnhMX0lmNmdVSndCcEhBSXdIaE9hM2NLY1RDRktDbHlWZjJENmdkZm9FZFkxUnVaUzY4ODlFdm5qU1ExWHFKclBCSUV2S1hYQnVjLUYtS1BKSjgtY085NDA3cDY2ZTVSTnlzSE1GcDVGZkJGUWQ0bWJ5Tkg1ZndjZ9IB7gFBVV95cUxQcWxIN3dzNVhkcmhaSmkydktVeDVKa2Y3ZFdDSWxTTnlObnFnQktaenJrT01lVmNKckxHSDJIR2xRLXAtN0RHMVJJMkhmb0hzMm9MamN4dmxlWGV2VEUxdkR1QVhUX19IX0c4XzQ4RHJRYmJDU3haWjBRSExRdV81LXlSMmV0YnV2d18xNkFYYU1jM09FbzNJMExlMHBzcWlOanFIb29WeC1hMng3QjhNREVOQ3gtbkxNSHJOS2p6cUcxZUZmemhCX2JyeTN2MDd0TkN4aERXbkxUR1BQbDFkSWJBNDFzc0lUOVA4c3J3?oc=5
+
+- Nepal floods: The Himalayas are melting faster - and India's economy is 'at risk' - BBC
+  The Himalayas are melting faster than previously thought. The
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HSXNuM2xtN1IyaUhITXI3VVFqMENUNXlCUXZlRnBvVDlqSUZaOTZmR1ZNaVN6cTdzQm5ZY3hNZlRDa0FYTm10YUQ2cV9xeWxoRUxvM0kydzFtdw?oc=5
 
 - Xi's 5-point action plan for Brics may see red flags go up in India - The Times of India
   Xi's 5-point action plan for Brics may see red flags go
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXNaYVUyRTZDU2dXdi1Gemo2RjZQb3JCcEQ2eFJIMG4zck5ld0RPNktiN0labGVwM2VRRGVWN1lmbUtjVlc0QmdlRGd0ZHpfQWJnbXJjN0F2ekJ4V2FPbUxsclExX29uVy1qMmtmalBmLU5mSF8xdVJtTmJyVzI4MWFnektERlBVR3VCUi1XRVB1OUpWcFdEelozekM3WUJsLUdZV3pITE5ibEphV2ZYWXJadGRGOUM3NzRXMHNrWmR6TVdEOFp3LTdDUlpWNWPSAdQBQVVfeXFMT2hPU0xSeVpHUEl3UGRzZW9iQVBYV2R2N3BXdWs4NVY2N1VLemVmTHBXQktJWlV6QkRMaTk1S2taZzZxSmNvc0F5aW5GSzZER1BpTEZ6Uk9QTlBNQm5PZTY4YmNQX3NEWTZ4eFk0Qmw1aklPVUZuN2VUVGNSYVZRbEdsQ0o3S3AzVkxPSVcwN25GMkdDeTRvYTRoM19IdFl1ZEJ2UFNlVGRUd0dqMnhTY1VFZzdXNW9rS0w0UFE0czN0R2ljNGhlUUJDWUszZnFZYXM1bjg?oc=5
 
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
+- BRICS meets in India: What’s on the agenda, why it matters - Al Jazeera
+  BRICS meets in India: What’s
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
 
-- Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy | India News - Hindustan Times
-  Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy.
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZGIyeG1GSlVTZFpQSnZud1lpLVJvRTV0RVhKRW5oN1oxOElxcWpPazAwblZJTjdiN2hrcnZzZFVFZ1ZkdmY0SWtaNzZHR2EtbldldTFtWmdiZFBBclhkNzlVcmtKSzYwZmZOWTdOUWJkZEROOWlNbzVXT2hMd2NJWFo4bmd1T204SVBlX2VHN3Q3U0VkOUtXcEZDR29XQTd0VUdBN1NIVU1rQzN1Y2RrbDUtNEUxcWwxMlJMY05PcEZvY3NUSU5jVzU5VUlKcGpHM1g0c051YnNpcEtKVHh0azlRTS1heU03XzRRcUN2VkNkbXNpU1BSWXFSQdIBgAJBVV95cUxPZFR1R0xjN3pELUFLcTh5YnpuM3dyTnl2S2w2R1VqRzBsWl9WY2hKN21yTmluMEZzU2FaTlZrTUM5ZjVqYjUtUzg2SkJjNUJVZkdNMWZzVjlIYnJaT2dqSWFCWHg2VVpINkJBV29BektibWVCSVdvUWdyQm5GNW84dmtGa1lLTnVkX3RCWk55YVNtakxCQnExZEZDQzZ1dDYtcXdvekE1RExzb0I4d1FZeF9lYWxIOFVWRXV1T3M5dmlWckRoemlpTWc5X0pMNUp4QW00czJLYXdESlZ5aTBGRjB2UDZuWTBtbnhTM1hsaGNXbFJULXRVd1MxMVJZeGFI?oc=5
+- Jethmalani: Why wasn't FIR slapped on Varma? - The Times of India
+  Jethmalani: Why wasn't
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPam83Wjl6Z1dNNGE5RUtwbmFac3hqQTFmRnlIaUFFa1FDUGhiUUJJOFd4N1poa21EOGttdURRczNIRzd5dE80SzlDbzFWWmJXeHJMcWdmaS1ORnNQSXBYSDNhbDRYSDlybC13Zmt5MmlQYnZ6bnVPVTNzUWc5am5ZaUx0ZDlNWnpDRFBtUFdiZ0Z3d2pMazhXOEZ4VV9zeE9hOTJ6WXN5eVhXQVhMMlHSAbMBQVVfeXFMT3F0azN6bVFEMnpzV3JRcjcyQk1PUUpfcXQ4RDVub3QtT0hacGluSURzSUdnenJfWkNqblRMTDRCZTNpc1BBd2NOLUhMSmJkdGo5aWt2cWVCYzl6ZW5IMWNRSlRObW9mRGNzTDRQbWxxZkJFNkdwMWJFS2Z6Nk8zSm11QjVVcDRDN3NtbXJFUnBCd3BzUVc1OFIwdXdENnBpQUc3dzRrNE1GaEpTUWlZQzFENTg?oc=5
 
-- Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
-  Former Air India Pilot Found Dead At 5-Star Hotel
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
+- "She Didn't Stop, He Hit Her Bike": Rider Posts New Gurugram Hit-And-Run Clip - NDTV
+  "She Didn't Stop, He Hit Her Bike":
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFVrNGo2WFpaMmRUQXFzT1I0OS0tUGxaVWV2Q1Z2aE00UjVwejNzaDM4TmJMdHM0Ty0xZDMwcTdDckZwYmI2bWRGQ0k2SjlUSEp0LUVKM1lNNW5FZ2hKMFQxdXZRQnM0dXRfNTlZTnhMX0lmNmdVSndCcEhBSXdIaE9hM2NLY1RDRktDbHlWZjJENmdkZm9FZFkxUnVaUzY4ODlFdm5qU1ExWHFKclBCSUV2S1hYQnVjLUYtS1BKSjgtY085NDA3cDY2ZTVSTnlzSE1GcDVGZkJGUWQ0bWJ5Tkg1ZndjZ9IB7gFBVV95cUxQcWxIN3dzNVhkcmhaSmkydktVeDVKa2Y3ZFdDSWxTTnlObnFnQktaenJrT01lVmNKckxHSDJIR2xRLXAtN0RHMVJJMkhmb0hzMm9MamN4dmxlWGV2VEUxdkR1QVhUX19IX0c4XzQ4RHJRYmJDU3haWjBRSExRdV81LXlSMmV0YnV2d18xNkFYYU1jM09FbzNJMExlMHBzcWlOanFIb29WeC1hMng3QjhNREVOQ3gtbkxNSHJOS2p6cUcxZUZmemhCX2JyeTN2MDd0TkN4aERXbkxUR1BQbDFkSWJBNDFzc0lUOVA4c3J3?oc=5
 
-- Air India pilot dies during Delhi layover - The Times of India
-  Air India pilot dies during Delhi layover
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2ZBOUxzYUFzRC1panBaRXZ5aTBYTjJVbjltOWFsTGt5akQ4b2JZRDRma1pqeGlqMzRGN2t0QUVoNHVUSDA0NEtQVnRrdmNlVjNQSnJjSzRobFRfN0pwSmFPdF9zbG5pTy1xMmplTHFyckw1dGEtQzk3WWk5OF9Wc1pFX0FnclFtenp5dHp4a0VFTXFuUmNOdEM0cUlWRmpvYVV0Z2xTSzZ3R2F6bnfSAbMBQVVfeXFMUENSODFTLWtPLUZ5RkI0cno0c0NnQ2NTOFh3YjVxWVVWRVZiQWFRWXFNZDM0RmN6ZmE3emlJLWVXUlU2NVhSZkFaaG5TMmxFMVJDZUJYeHA2czczWVViSnVYOXdCYTVlTGNmLUoybURrTHJ6Ul9ZTUxUcWRJSXduTDhFTkJLSGE4MFVXSENpSTNtSmZfRDJ5T0dZZWJfT2xacmRfUGJHbFF5NjlmMUk1NTdSS3c?oc=5
+- Nepal floods: The Himalayas are melting faster - and India's economy is 'at risk' - BBC
+  The Himalayas are melting faster than previously thought. The
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HSXNuM2xtN1IyaUhITXI3VVFqMENUNXlCUXZlRnBvVDlqSUZaOTZmR1ZNaVN6cTdzQm5ZY3hNZlRDa0FYTm10YUQ2cV9xeWxoRUxvM0kydzFtdw?oc=5
 
 - Xi's 5-point action plan for Brics may see red flags go up in India - The Times of India
   Xi's 5-point action plan for Brics may see red flags go
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXNaYVUyRTZDU2dXdi1Gemo2RjZQb3JCcEQ2eFJIMG4zck5ld0RPNktiN0labGVwM2VRRGVWN1lmbUtjVlc0QmdlRGd0ZHpfQWJnbXJjN0F2ekJ4V2FPbUxsclExX29uVy1qMmtmalBmLU5mSF8xdVJtTmJyVzI4MWFnektERlBVR3VCUi1XRVB1OUpWcFdEelozekM3WUJsLUdZV3pITE5ibEphV2ZYWXJadGRGOUM3NzRXMHNrWmR6TVdEOFp3LTdDUlpWNWPSAdQBQVVfeXFMT2hPU0xSeVpHUEl3UGRzZW9iQVBYV2R2N3BXdWs4NVY2N1VLemVmTHBXQktJWlV6QkRMaTk1S2taZzZxSmNvc0F5aW5GSzZER1BpTEZ6Uk9QTlBNQm5PZTY4YmNQX3NEWTZ4eFk0Qmw1aklPVUZuN2VUVGNSYVZRbEdsQ0o3S3AzVkxPSVcwN25GMkdDeTRvYTRoM19IdFl1ZEJ2UFNlVGRUd0dqMnhTY1VFZzdXNW9rS0w0UFE0czN0R2ljNGhlUUJDWUszZnFZYXM1bjg?oc=5
 
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
+- BRICS meets in India: What’s on the agenda, why it matters - Al Jazeera
+  BRICS meets in India: What’s
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWV1VGFyMThUTDNJOW9MRVpqUk9tTXU1blpCckpCcWxXbENqUkh2aUItSEJSeVVNeHlfWWFDODJZYnktY19INFZESjVxdzZGM2l5a2oyWVA3QjVzbFNtRWxMMVJkdTJIYkZGVUU2SnlFVjc2U1NlSjJXSnlkSFZBWEx2UncxdXJhTzhlTE1yZG9sQzNOcXR6SE52Q3bSAaIBQVVfeXFMTTVrZG0yN0Q1RjJpOTBvSU5WT2c4elYyTnp4NXN1V21mYjZTbDNZMmd0cUtnWlR4TW1uRzlCMnZ3ZFRlaW9tbHJYd0FZSVR5cHNNekt5clB2d3dBLVloY2hNXzBvX29NaWdfeFRPM3lNNW52djlhTEJSRVQxelFlNFdFbkFnVU5seHIyYXZyd1Q0c3NkOEFRUkFQOXljSFNoZXVn?oc=5
 
-- Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy | India News - Hindustan Times
-  Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy.
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZGIyeG1GSlVTZFpQSnZud1lpLVJvRTV0RVhKRW5oN1oxOElxcWpPazAwblZJTjdiN2hrcnZzZFVFZ1ZkdmY0SWtaNzZHR2EtbldldTFtWmdiZFBBclhkNzlVcmtKSzYwZmZOWTdOUWJkZEROOWlNbzVXT2hMd2NJWFo4bmd1T204SVBlX2VHN3Q3U0VkOUtXcEZDR29XQTd0VUdBN1NIVU1rQzN1Y2RrbDUtNEUxcWwxMlJMY05PcEZvY3NUSU5jVzU5VUlKcGpHM1g0c051YnNpcEtKVHh0azlRTS1heU03XzRRcUN2VkNkbXNpU1BSWXFSQdIBgAJBVV95cUxPZFR1R0xjN3pELUFLcTh5YnpuM3dyTnl2S2w2R1VqRzBsWl9WY2hKN21yTmluMEZzU2FaTlZrTUM5ZjVqYjUtUzg2SkJjNUJVZkdNMWZzVjlIYnJaT2dqSWFCWHg2VVpINkJBV29BektibWVCSVdvUWdyQm5GNW84dmtGa1lLTnVkX3RCWk55YVNtakxCQnExZEZDQzZ1dDYtcXdvekE1RExzb0I4d1FZeF9lYWxIOFVWRXV1T3M5dmlWckRoemlpTWc5X0pMNUp4QW00czJLYXdESlZ5aTBGRjB2UDZuWTBtbnhTM1hsaGNXbFJULXRVd1MxMVJZeGFI?oc=5
+- Jethmalani: Why wasn't FIR slapped on Varma? - The Times of India
+  Jethmalani: Why wasn't
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPam83Wjl6Z1dNNGE5RUtwbmFac3hqQTFmRnlIaUFFa1FDUGhiUUJJOFd4N1poa21EOGttdURRczNIRzd5dE80SzlDbzFWWmJXeHJMcWdmaS1ORnNQSXBYSDNhbDRYSDlybC13Zmt5MmlQYnZ6bnVPVTNzUWc5am5ZaUx0ZDlNWnpDRFBtUFdiZ0Z3d2pMazhXOEZ4VV9zeE9hOTJ6WXN5eVhXQVhMMlHSAbMBQVVfeXFMT3F0azN6bVFEMnpzV3JRcjcyQk1PUUpfcXQ4RDVub3QtT0hacGluSURzSUdnenJfWkNqblRMTDRCZTNpc1BBd2NOLUhMSmJkdGo5aWt2cWVCYzl6ZW5IMWNRSlRObW9mRGNzTDRQbWxxZkJFNkdwMWJFS2Z6Nk8zSm11QjVVcDRDN3NtbXJFUnBCd3BzUVc1OFIwdXdENnBpQUc3dzRrNE1GaEpTUWlZQzFENTg?oc=5
 
-- Former Air India Pilot Found Dead At 5-Star Hotel In Delhi's Vasant Kunj - NDTV
-  Former Air India Pilot Found Dead At 5-Star Hotel
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVBSMUE4V0RKZmVzbnpfR215dUc3Y3FzZV83SWVRbkJsNkYzRWotaWhHbHo3b3UxcWRNS3BFNVZRa0JRVEVKekM5bjdBTzV5UGJxZThBQlJ2eDR4bkRBSUJ0Y3hWMHdBQnRZcnVHSDhkTVp1ZUdwenF3RVNoSHFTTGlhNFNfQkpCN2w0NHpxMExvd3RTaVNTMnJQdHB4Qkl1dXVheEJXeW7SAbABQVVfeXFMUG9yXzJlTWhVOU92UDgyZHRYeU5pNTgweEJsb21DdlYxSEJEQVV0VFIzdDBfdEdSLUtRMVI3VGswN29mekE3b2NMUjZLX0xBdzJPVVJ3TFVESTJLcS1xY3prWlJzdmNPcDBHZjB3MjUtV1hxUGJvWHNvODZENjBxZ2trY2RnaEQ2dVItdEw5anI0T3BtNmNyVThodVE3a216ZHY0X2s3eXRPSmMzWi1BblE?oc=5
+- "She Didn't Stop, He Hit Her Bike": Rider Posts New Gurugram Hit-And-Run Clip - NDTV
+  "She Didn't Stop, He Hit Her Bike":
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFVrNGo2WFpaMmRUQXFzT1I0OS0tUGxaVWV2Q1Z2aE00UjVwejNzaDM4TmJMdHM0Ty0xZDMwcTdDckZwYmI2bWRGQ0k2SjlUSEp0LUVKM1lNNW5FZ2hKMFQxdXZRQnM0dXRfNTlZTnhMX0lmNmdVSndCcEhBSXdIaE9hM2NLY1RDRktDbHlWZjJENmdkZm9FZFkxUnVaUzY4ODlFdm5qU1ExWHFKclBCSUV2S1hYQnVjLUYtS1BKSjgtY085NDA3cDY2ZTVSTnlzSE1GcDVGZkJGUWQ0bWJ5Tkg1ZndjZ9IB7gFBVV95cUxQcWxIN3dzNVhkcmhaSmkydktVeDVKa2Y3ZFdDSWxTTnlObnFnQktaenJrT01lVmNKckxHSDJIR2xRLXAtN0RHMVJJMkhmb0hzMm9MamN4dmxlWGV2VEUxdkR1QVhUX19IX0c4XzQ4RHJRYmJDU3haWjBRSExRdV81LXlSMmV0YnV2d18xNkFYYU1jM09FbzNJMExlMHBzcWlOanFIb29WeC1hMng3QjhNREVOQ3gtbkxNSHJOS2p6cUcxZUZmemhCX2JyeTN2MDd0TkN4aERXbkxUR1BQbDFkSWJBNDFzc0lUOVA4c3J3?oc=5
 
-- Air India pilot dies during Delhi layover - The Times of India
-  Air India pilot dies during Delhi layover
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2ZBOUxzYUFzRC1panBaRXZ5aTBYTjJVbjltOWFsTGt5akQ4b2JZRDRma1pqeGlqMzRGN2t0QUVoNHVUSDA0NEtQVnRrdmNlVjNQSnJjSzRobFRfN0pwSmFPdF9zbG5pTy1xMmplTHFyckw1dGEtQzk3WWk5OF9Wc1pFX0FnclFtenp5dHp4a0VFTXFuUmNOdEM0cUlWRmpvYVV0Z2xTSzZ3R2F6bnfSAbMBQVVfeXFMUENSODFTLWtPLUZ5RkI0cno0c0NnQ2NTOFh3YjVxWVVWRVZiQWFRWXFNZDM0RmN6ZmE3emlJLWVXUlU2NVhSZkFaaG5TMmxFMVJDZUJYeHA2czczWVViSnVYOXdCYTVlTGNmLUoybURrTHJ6Ul9ZTUxUcWRJSXduTDhFTkJLSGE4MFVXSENpSTNtSmZfRDJ5T0dZZWJfT2xacmRfUGJHbFF5NjlmMUk1NTdSS3c?oc=5
+- Nepal floods: The Himalayas are melting faster - and India's economy is 'at risk' - BBC
+  The Himalayas are melting faster than previously thought. The
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HSXNuM2xtN1IyaUhITXI3VVFqMENUNXlCUXZlRnBvVDlqSUZaOTZmR1ZNaVN6cTdzQm5ZY3hNZlRDa0FYTm10YUQ2cV9xeWxoRUxvM0kydzFtdw?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Dutch start-up completes funding round for encrypted silicon technology - Financial Times
+  Dutch start-up completes funding round for
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2I3MUxLWHNfV0NRZjZzZU1zWFRnVUNhdEdyYWdDeEM5NUYtMk9fTXhremYzMk51dGZCT3ZhTkJ3aHh1TThrdmdnb3JtdnFpS09mMWdNSU5RZVo0R0VVVGJpSENQXzVzeVkxREdfa0FtLU8xc2JyWjEyN2ZzQV9MVHBYY2k?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the Future of Food & Beverage Technology - PR Newswire
+  VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPZHRsZHVnQU44ZklidEhOdWtHQUNSZWhpdDZLaHBrVmtmbi1VYWRxNDViZFRiSDJFRGhYd2tXbjdFSk1vOURiSXVjSGIyWkxSRHNXZExTRFlFYUxLQ05vQzVyTkVIZVZRTHI2ejBVM2ZLYkViM01FTVBESk4wNHZjTUlTZGNoZFQ3U3U1LXJmaEFvNGEwWVJ0ZGJkYWtBY2xlamRTWlI5Tk9yVzRGcjJTNTIySm5QNk0tNjNvWnBqeGVPY2pVdTAxQW1nU2M0S0dPZzB4S1d3cGcwbjd5UFZLRTBISFNKVHpJdWpDYU1qelNqMWlETDFoeEZyaEc4TVow?oc=5
+
+- China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule - The New York Times
+  China’s Top Spy Chief Warns A.I.
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnliOXZJeEJxZVNWd1RHbjdRam5qeXN4Y25OUTlkODQzd29SSkFadDhFanBNY0J5UnlxM29GY3R0R1c3amVfb1FldzdYZW5sclJBdDNYc2l0TjM2NGVmU2MwWDlsUF9MUGVjMld2ZU52Rnltd3dmbUx5WUZYSFpaOHd1Mm5zVUR5YUF0TQ?oc=5
+
+- AI CEOs say they need to slow the pace of development. But will they? - The Guardian
+  AI CEOs say they need to slow the pace of development. But
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE5XQlp1T0FKUFNtVnFFME44cGFabC1iYlp4YXVWaWtXaWtfR0l3b1FRbEh1NTd2RmxjazNmcGIzX1lJQm1Ub2pMNDR3R0VYbG8tUGpOUXFuTUZXQWpiSERMOUdscExGZS05NzA3cWtmZWFjODFRZzg3YlFEWWNEQQ?oc=5
+
+- Why are there concerns AI could threaten humanity, and how real are they? - BBC
+  The BBC asks why there are concerns AI could threaten humanity
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE15WE1hRGNTMU9hcE9fYV91WmhYYUZQeHhNZnZHbFFqeVEtaG1GSmxqbG9XUjcyaTFBcXJGN19RSDR1NDZSd0tXZDJCVUJEaXdSbl92TU5KWFpidw?oc=5
 
 
-_Last updated: 2026-09-14 17:30:24 UTC_
+_Last updated: 2026-09-14 21:23:20 UTC_
