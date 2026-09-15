@@ -1,244 +1,204 @@
 # 📰 Daily News Summaries
 
-- Why cash continues to thrive even as India's digital payments grow - BBC
-  Why cash continues to thrive even as India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmOHNhenZrX05RWjg4U1pLX251RkhOUWxoV0p3UUZGQ19oaFJuTFNMdUplV1c0bHluY25sekRPR0p4YnJkMmZPTVhTNFNnMDdQRGlkWWw3a0RuUQ?oc=5
+- Viral hit-and-run raises road rage questions in India - Al Jazeera
+  Viral hit-and-run
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVlVRzZmXzhyQXFKNy05X0xVdHZNaVYwWE5uVnVIWGViN2k4N3JGdUs3MjI2LWRaRWl1NUVsVy1ua1BoMVdyNzkzYVlsUHdXLWJ4MFRUeHBHMWRhTlJZZkxzTWFxT2U0TTlRTXJ1ek5sUFZPbEVkSTVqenNiRlh0eVQxWGtNMGVadUFmdlRkcFZ2QkV2VDFyUHowc29DbE5GUnhCNkJJQdIBrAFBVV95cUxQcDR1Y0lLRUdaOHZOTmhFeldGaGtYdjBWRXV1b2VCQXlnWEktOFcweTN6bUs0dTZ0NkxmOFN0UFdWYWJkT3Y5bHZEVDdJSE1WbXllUm42NFNHWlEzeEt5NUJRTUQyMlM3dHNaZW9tTEQweVp2MGJvUnUtTm9RSzA2bXdoZWc4RTZkWHI5UGtXTG9QbHdra2VWbDFjR3JkUzFwTlhDMUhvWXhHZ1BL?oc=5
 
 - Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
   PM Modi Pauses BRICS Speech To Check On
   🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
 
-- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
-  Latest News, India News, Breaking News, Business
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWt4T3FUWHM3ZmgycGFQazhvZFhoRWszMDJ5OTNxdWNRR3E3emMzaW9zQ1FMZ1NOUkhtRmRyMmdMM2JVTFhfa0pmWmNzUjlJMnIyUXhSSUtOTG92MlZ1ZjVlZWNCNHZfSDdfdTlPaE9xamNWZnJ6YlFSZm01WVBqa1BiLUlyZlM0R2RGZnlyQzVTX2c?oc=5
+- Large Road Presence, Small Sales: Breaking Down The Big-Bike Market In India - NDTV
+  Large Road Presence, Small Sales: Breaking Down The
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEZRMjRWdDdmNVRzSy1wN3ZfcU1jXzhWU1pFVy03cTh6T3BadUkwMGZoQkZZRjhtaWRva3BreVVXcktkbkdXdTZjSnVFSXd6MzRORk9KbFZvRm9pczJRTHBaX2VJYVBhakR0eFN6SDVHX1F2SnJaUDYxVFM1ZXkzb01IQUQyd1dmNXZWMUpjcEphMTUwc05DSHpWYnEyMXU2bUNmZTRLWDl0UTh5elJzUHc1eEh1d9IBvgFBVV95cUxOYjk5ME9rMHhYZVZxWW5xSmd6cGlMcnhGLTVtMTZDR1I0Y2FnR01OQkdSMkk4eEdzWHRPNEpZLVQybUZsXzJXeEdXZHhITThHMW5XZjh4MFIyellNZTBaSDJPbHpXeTFqN2E4dFVlWXV3Uno5Sjk3WjI4M1BGREZLcFNEUTRuempOdC1LdmNPdU90clJCaWViaHNLcXVHTGZtQ2RVRWo0cUpUUlF1M1BrUUo1RWdCU0NXc1FJZ3ln?oc=5
+
+- UPI Charges To Be 0.4% For Some Payments Above Rs 2,000. Free For Consumers - NDTV
+  UPI Charges To Be 0.4% For Some Payments
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWg1dHFDaW15bGVWOUc3elF1S05qaWJoc2lpVmVKZ3JPZElZdTMxWUlYYndUdzlucjJteWpySE1xS0ZtU2V2VlB2S0xYR1VfU0hnQTM4Rjd6a2c3VlpIeWdmRWFZVU1tUjMwQU5wRTBoU1dxR3E4OGdyV2FMWGpsN3Z6cVRWYkVUWjhENEp6eTBQZzl2M0pFUDhTeTI5MWNrcDlKMEQzN0dwWFRmcGJwSm92X3JHMW1ibFY1WXhQR1_SAcgBQVVfeXFMTllSbVpNeVV5cU4yNXdjUzBha1htZnVvRUI3dlJnY1JlcWxUYXFCU1hoZERqV01NYktmdXk5dl9md3BBWG5nX2FKZVdaaWM4UnRRRjVSdHBsUTRLTVVVNlZxYlZVVE1MUy1KcXBKMW5vVzFKODVlTUE5NENzVGtKM2xreHdGUkQ3dkpZOWtmZ2JCN2EyT3E4NG9QZ2UzZlpxelBZTmpyRDlBX3FLNnVYT3RkaGhTQ3lsa3VtX3BRNGVSbEdPYjM1aTc?oc=5
 
 - India opens door to fees on large payments made via UPI system - Reuters
   India opens door to fees on large payments made via
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmQyVk1kNXdDa2h2Z09feEpiU0ZHSTZoNmNRbUtsSkNCQ0F1eVRscnR4eWtIU3ZvOXZoeFQ1S1VnRmh2RTZHWkZzcG14Q1lQbHBwRHcwREFrSG1ZZnU3dEFPUmFVNXJCbWE2VEVEVWl3Uk44RkVJYjVlMExrQzlfSHZlQzB5M0FqN3BMSXI3bGlTdG9kR3Y4bktyVWpfZmJn?oc=5
 
-- U.S. lawmaker submits amendment naming India in Russia sanctions act - The Hindu
-  U.S. lawmaker submits amendment naming
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaG9MWW5zYjVRVDR1NWRqRl8xX2sxRGJOc1NHWGVZanhXbDlMTkFyOVB6dVFJQkpvSnFVZEdMUzZJako5Z21Dc2RkejN6a3RfRkRXSVRGOVNzQ0J4NDg1RklXQXMyd1FkV21ZZGt3TlJhWG1vdG5jSGwzQk5uVXZER2t5bHBOWWtWYWo5dWpkSy1qYi05UWdCbHpWWU41SF8xcFowQmZLcVdhQVhWRFJXRzNRNDBrcUpsTXl2Y2hud1huRE9IMDJ3Q3hB0gHQAUFVX3lxTE1nWVlMTGd2cXVrZnoyaEJxX0szOGRDelFJRGNYWmNsdEtwUC1WbVVSWEFYMk9VWXlheVBHWHFQSnl1S1FEcjBkN3h4U1pkS3l2TjJtaV9yVEVmRHJ0X2NPQjJ1RHBTNFhSMmZkakpZdGZhd09aN0pSdWs1UjdZUFU1aEZGajBMNThzMWg2OW9FV0FEaGJlMTREQW5vRnJtenRDZ0VjWHNKNENiNERyZXJnb0phVWUyamRSbWE2RklHQTBKYVowYVNrVDR3VDBWZHU?oc=5
-
-- Titan SKINN gets in the game for pricier perfumes
-  Titan sees room for SKINN to move consumers up the price ladder. Company increasing premium launches and expanding
-  🔗 https://www.livemint.com/companies/news/titan-skinn-premium-perfumes-india-premium-products-11789448499017.html
-
-- SC refuses to quash Delhi HC order against former NSE CEO Chitra Ramkrishna on corruption charges
-  Chitra Ramkrishna's plea against her prosecution under the Prevention of Corruption Act was dismissed by the Supreme Court. The High Court's ruling was deemed correct
-  🔗 https://www.livemint.com/companies/people/sc-refuses-to-quash-delhi-hc-order-against-former-nse-ceo-chitra-ramkrishna-on-corruption-charges-11789461001301.html
-
-- Delhi High Court seeks OpenAI’s reply on ANI plea to stop ChatGPT from using its content
-  A division bench has asked OpenAI to respond to ANI’s appeal challenging a single-jud
-  🔗 https://www.livemint.com/companies/news/delhi-high-court-openai-copyright-lawsuit-ani-plea-stop-chatgpt-from-using-content-11789457353087.html
-
-- Air India board meets in Mumbai as Tewolde Gebremariam set to take charge, new CEO's salary structure in focus
-  Air India's board is meeting in Mumbai as CEO Campbell Wilson prepares to step down. Incoming CEO Tewolde Gebremariam is expected to take charge later this
-  🔗 https://www.livemint.com/companies/news/air-india-board-meets-in-mumbai-as-tewolde-gebremariam-set-to-take-charge-new-ceos-salary-structure-in-focusstory-11789458909459.html
-
-- Jefferies calls Zerodha's Nikhil Kamath ‘YouTube podcaster’, investor spots bigger shift
-  A Jefferies research note reportedly cited Nikhil Kamath’s WTF Podcast as a source for insights on India's travel sector.
-  🔗 https://www.livemint.com/companies/people/jefferies-calls-zerodhas-nikhil-kamath-youtube-podcaster-investor-spots-bigger-shift-11789458187242.html
-
-- Stock futures slip as 10-year Treasury yield breaches 5% mark: Live updates - CNBC
-  Stock futures slip as 10-year Treasury yield breaches
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9yenZ5YXYzaWh0UWdSejh4VXhxdmVlOHNHSVdnR1lySU1QeVpGZnBWdmw0ZlNodXF0MGNjMDRJV2I3djJNQXoyTk5DTVlRclE5c0FjNmlkVW9wemxWT0RoRFRSU3pVRHN0and3ZkluZS14eE1lcGc00gF8QVVfeXFMT3JnVjBXOXp4Yk5YY2dTRXNqTHNhZnVwWXFnb3RXNUw5dDBIWHctdktybDNwR0tyZlBZRzNPaVFkOVk3bGhmeWhtVnZBSkJzMVBIcFpXV295ZG5MMXY5VG9UWTNQS2xzNWdaNEZhTlJkYnBISzJXaGo5S3V0NQ?oc=5
-
-- 10-year Treasury yield hits 5%, critical threshold for US economy and markets - CNN
-  10-year Treasury yield hits 5%, critical threshold
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE91dmcwS01EcUI0YWxEZ3JjZFJKSXlPUXVVNE12b3NMd0FtX0p5ckVmRHhEdTNYMUpNSVVfT0ZqVjNkZUhkTWVrSGloV2dJY3JhYWw5bEtrZy0xd3NXTVdJbXR0RFllMEJCbWRyOHFkOXdpR0Fzb0E?oc=5
-
-- Ten-year Treasury yield hits highest since global financial crisis - Financial Times
-  Ten-year Treasury yield hits highest since
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkFXQVZYTHlqVDctU2ZDTTBLWVEycHpiUFI0SWd6TFVZbDNZQVJiVGxHcG9mNmR4NnVYLUd1U3o0bTl4UkZCRG8ya01SdndPa2dOOXZacXJBYTBLSlVNNXUtclpldHREZVhYX25CakNVMVNfWmdBSjRldlJUOU1nRlY1ZHY?oc=5
-
-- Stock Market LIVE Updates, Sensex Today: Sensex Drops 600 Points, Tech Stocks In Focus - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZk9kelUyWnRyeGRuYS1SMDhaOTEzZmRhZ2ktR3ZrOGRpMTY1S1JLQXVwZXpSWk5SVk92ZWNadnJ4LU1XZkhnM19DenJwakJrUU1sS0tkZDhiRV92d0FZZEpkMWcySGdQdH
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZk9kelUyWnRyeGRuYS1SMDhaOTEzZmRhZ2ktR3ZrOGRpMTY1S1JLQXVwZXpSWk5SVk92ZWNadnJ4LU1XZkhnM19DenJwakJrUU1sS0tkZDhiRV92d0FZZEpkMWcySGdQdHFWazdubjU1Ym5KRE9EUGNyVllrY2kxNGFoZDZweUM1YWpCUFpwNTRodTZ4LUhqcUNsVjFTaFFEcmhKdzhlMkhCYy1TY2V5dlZyTFczNXJ3VlF0cFpPTU5EUzdWVEZLemV0OGdNM3lCMC1Z0gHbAUFVX3lxTE9DY2JsZXZ3N0hVNTF3Mm9QQmNnUHctNGQ1YXl5cDhDZkxjdG1GRW9fRFNGOFBhSkxlbVd2NlRDcEd0TXJYT0dIU1o3RHc0d245dXFTWlVEdFJrYWZ1S0ZiT3JHVl9XNTZtNEJIYjVoX21LaUR2bllPcjIzdk1pZmVEOHM0V0ZNRi11aW9fTS14bk5YbXRFVUhjeUtTeGhSUjBaUWpwdE1vdzc3ZlYybUlDSDZvc3VsRXplNkZFX1JreUF1S0xrWmxBYjhEU2c1NUJaUVJZV1pfR2JKSQ?oc=5
-
-- Bitcoin slips as Clarity Act odds fade: Crypto Markets Today - coindesk.com
-  Bitcoin slips as Clarity Act odds fade
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGR0U0plYnJ2WG91N2k0NGpiSTl0NnY2d0ZlcXRtNm9lWnlHYUhrRm8xcEd4ZDZMMGI2NlpkSElXREhhaFNibGs1anNnNTNhbDJuVGdLVFpLSWpUNzFvVnZyUnotalFsb3hoQVN0eE1nYXhUaVA4ZEhsTHhuYTZTdkdJWDVIZ2lPdmVGc3dJeTVzc1hDYkVIX2ZYNjJRNGhhR2Jnb2lNN3ZsWHJlcllTOF96SHhHdw?oc=5
-
-- OpenAI urges UK lawmakers to rein in technology amid growing safety fears - theguardian.com
-  OpenAI urges UK lawmakers to rein in technology amid
+- OpenAI urges UK lawmakers to rein in technology amid growing safety fears - The Guardian
+  OpenAI urges UK lawmakers to rein in technology amid growing
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUg4LUJwelRmLTNXSzNpUFJOSTJKMWlPYVNLeW9mc01ScF9jMmlEeUFsOGRmSER6STRvd0Y4YVFCV04xNUltMkdYQVZBQjAzLWczQzFuclpkOXB5c3FZTEVIc2syaEg4REhhMlVnelh6ZnhYd1ZzYmk3WVFSdTB1Z1NRYnhmajhvbVI3dlZ6MmxPc2dhMURVdlRNbjM3RFBrcnF5bnFyQ1FpcW5id1Jv?oc=5
+
+- Who should own the knowledge that underpins AI technology? - The Conversation
+  Who should own the knowledge that underpins
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNczRVNEpNVzdCRGtlVXRfWkRCRUpPald0T1NFN0ZkTkhOVGFHVWI4VHZaQnQtSGx6SHNZZG5Qb3hzaE80eWd1Q21HNnJoc0xoYWI2SmxWeUF5UENVcnhRZk15WDM2NUkyaXFGZi0xdTVTeHBjMHB2c1lKTmluZGE5blZwVUxxdTR0OEdNVjVoQm84RW5ERGZv?oc=5
 
 - MediaTek launches new mobile chip using TSMC's most advanced technology - Reuters
   MediaTek launches new mobile chip using
   🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVlcUMzUkQ4NXk1QVkxeFc0NTBCenZSWTExWDJkeS1CaE1hamtXNHZmbmZHc2tKVXZSUGhOSGdCUnVTSGdxMTJPWm1vcmVRazl3Vm1fR2RPSU1heVFtRjBtUm4zWTkxYk1tM1J3ZmpyRW5RRXFIT1BJU1djQzBUeExSeTRZNEhnck84ek1zYTVOb2l5R2JzVmhvU20tMXVROWpuRmFDYjhyWDVkbThtQXlfQW4yZWhGa1lOUkJXV0VlcVNvTXl0Xw?oc=5
 
-- AI getting more powerful 'by the day' and kill switch should be required, tech boss tells BBC - bbc.co.uk
-  AI getting more powerful 'by the day' and kill switch should be required
-  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwOU5MVjhuWkZBYU5KMGdjSEFuNklXUDdVSjZ5Z1JFc1RoTUctTFNkQmkzb3lyWWtBS3JDUkduVjZ3NVpxS0RBdDZKN0dwajlWWVc3cFNLVEQ?oc=5
+- Indosol Solar ties up with Australian university to enhance solar technology - The Hindu
+  Indosol Solar ties up with Australian university to
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkhTSEplaExUWHd1WkJHTm13Mm1NajlCd3RNeTREMy1HMmJGeUlVeEFRMWRrQ0NIY0RlVWJiUzV5S3REdllhclNFdGZSMDkzaldUZnNORlpyNmVYNzZUTFg3bGU2SFVfN3N0c1Y5OHFQeU5tVVVuUXZ4ajRDRS1pNUtGZjdhRlZwSmxoa0drQnVBUWU3OFJiWndSZ3Q2NkMtYzlOTUFYclJzOG1VNVptZlV4Mk9HVl9UdktDSDhKczIyeFlXN0kyaEVQVE5MMFZQRFFjWFR4UDRFMHFkTG9tVHZJQnDSAesBQVVfeXFMTTFQOGEyY0JxQVM3MGRkanB5d1ZWRmN4bENvMnNadURUbmF2aThuVTV1MDctSXJyY2RaN1hkQjQ5NXBWZ20tb01VMEhFUkpCd19LbHpjWXg4UmN0b3BXUm1sYUdMYmhCcFVTcnVBLTV0M0tpMzV5XzFVbEVnbnkwbnNUMW9VU1BuZnYxQXk1bUxSbXFqS1V4LXhqd1JjeV9zU0V0RnhvbmE0eEFoelZxYi14Mkg3amxGWWl4RHlYYXJlVjRVQTdPY3ZxWWd6dkhaVkRQZmUwNUtmYWlmZWM4eEhacFg0NEFrSUlmbw?oc=5
 
-- Why a decade of doomsday warnings failed to slow the AI race - theguardian.com
-  Why a decade of doomsday warnings failed to slow
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE92d2RPRE5TRkowQkN2bUQxdTAyZHlLUFYyTTI3RjFCZGEtaC1OZHNXWGFkR0dWR3BoLVN0T2VCMnR6Rm9tY1kwZ29yY0xGWmhfLUQ4aEJkWW83Uk1PdTB6SHNnTUxINy0xT0w5RTNCV2dYYnRBamx4ZmZqTQ?oc=5
+- Employee of China's OpenAI and Anthropic rival, DeepSeek, writes a 'sentimental letter' on AI; says: Huma - The Times of India
+  Employee of China's OpenAI and Anthropic rival, DeepSeek, writes
+  🔗 https://news.google.com/rss/articles/CBMi-AJBVV95cUxQQkJ5bGxFNk9LenpUdVVUNVVDWFgtZHBWNnZjNFpiN3QwV0JKSVR5a3BQSzBSWU13ZEN0Z1gtSXNYcGdMeXZwcnlJbDhjdkZpWWdGWnVHamp0QkNBcnQtdjEwRmt2eElsVDlEY1JmNTNxc2tmTkh3MG1HZFEtbDY4SUZHTkhXRl8tbjlrZ1dvYnRUUGkydVFYNTc2U2NZY1U1dmJNMkxuNV9tLXVvZGRWVWM0VUZyc0RsMjdnNkYxTVBIVHRRcXFZa1B6cl9mazE3X1JCem83ZkRKWW13Wk1FZVpxamlEbFFKZzJieGpGemdGRUNQMHh4WnhSaEZHMEluTUcyTXJJTHRwRmxzWFZOaVQxWjVQQ2RTWWFIdHl5OW1vTFpFa0pnX3NlWnNRNnVKRU5DY3MtUHA0VUZfQldlclNpcnVjX3p6aFF0Q1VJRDlNUUtybzltLXVYYUcwVHB4X0c5UGdRRlZ0YzVPVUVBdWF0WEF3cmk10gH-AkFVX3lxTFBhZVNCNTJRV3ZoV3UtdkxxZTdONzhQQkk5d25tSjRFN1d1ZkRXYm5hdWVrTnV3MFNSdVNsZEItQVV3MmV2SS0wb2JfdHhzNGNkWEhkTVN4cWFDeVlyU0pSekFhYjNIMHloc1Q5NTZVVG1iVnNyZlBhRHUtSjRfQkRKOV9ZMWJRZUVHMVNrcVRpTkdKSW9wZEwtekpGMzd4bVpBZndiYkxRY1RjQjF3a3ZMcGx2VFg2X21DcVZlZk92V2NRNVB3Qmc4ci10eDEwZHJlbXBPR2N1OTN5RlY3RTVJZm9sSEZzUFJOdWhVYno4N0x5SDRCdXdabVBzem1XTnl0YzJ5bWU0SzhEcFdrcVdhZ0pwelZqSE5tQ2hnZVZCelVWVm5PQnpISTdQWTJjdmdOZ05sV1RVS0xLUlA4UUsyZTFYMy1nSEtsX2gyQ2FJejhuRHVhVTliOEVPdGJocUNnUy1yLUVUV2FIVDA0SnViZ3c1LWRQTmI3LXhmZ1E?oc=5
 
-- AI stocks slide after top industry CEOs call for slowdown of technology’s development - CNN
-  AI stocks slide after top industry CEOs call for slowdown of
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHJmWGFlbi0wbEpac3BRV0M0b1JVVGZuNGtxdzFlYnZzM2FvaEZjaHowMXFBZWlndGRhVXRmYndaQ3hFQXpJLUNrTU1qTklLZFpLbWdQSjZpUk9jSFNXR0hCOGdZNU41S3pSWHI3U2lUa3RjZ1FIYU1pN3hvbnF4dV9PREdvTVplaTFrR2Q4ejdrbmZpdVNtOUNfSQ?oc=5
+- US 10-year Treasury yield rises to highest since 2007 as Fed rate hike bets strengthen
+  The US 10-year Treasury yield has reached 5.041%, the highest since July 2007. Rising crude oil prices bolster expectations for a Federal Reserve rate hike.
+  🔗 https://www.livemint.com/market/stock-market-news/us-10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-bets-strengthen-11789480161708.html
 
-- Stock futures slip as 10-year Treasury yield breaches 5% mark: Live updates - CNBC
-  Stock futures slip as 10-year Treasury yield breaches
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9yenZ5YXYzaWh0UWdSejh4VXhxdmVlOHNHSVdnR1lySU1QeVpGZnBWdmw0ZlNodXF0MGNjMDRJV2I3djJNQXoyTk5DTVlRclE5c0FjNmlkVW9wemxWT0RoRFRSU3pVRHN0and3ZkluZS14eE1lcGc00gF8QVVfeXFMT3JnVjBXOXp4Yk5YY2dTRXNqTHNhZnVwWXFnb3RXNUw5dDBIWHctdktybDNwR0tyZlBZRzNPaVFkOVk3bGhmeWhtVnZBSkJzMVBIcFpXV295ZG5MMXY5VG9UWTNQS2xzNWdaNEZhTlJkYnBISzJXaGo5S3V0NQ?oc=5
+- Wall Street drops as oil prices, Treasury yields rise
+  The S&amp;amp;P 500 fell 0.4%. The Dow Jones Industrial Average was down
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-drops-as-oil-prices-treasury-yields-rise-11789479701198.html
 
-- 10-year Treasury yield hits 5%, critical threshold for US economy and markets - CNN
-  10-year Treasury yield hits 5%, critical threshold
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE91dmcwS01EcUI0YWxEZ3JjZFJKSXlPUXVVNE12b3NMd0FtX0p5ckVmRHhEdTNYMUpNSVVfT0ZqVjNkZUhkTWVrSGloV2dJY3JhYWw5bEtrZy0xd3NXTVdJbXR0RFllMEJCbWRyOHFkOXdpR0Fzb0E?oc=5
+- Top stocks in focus tomorrow: Investors must watch NBCC, BHEL, Bharat Forge shares on Wed, 16 Sept | Triggers
+  Investors will monitor companies such as Tata Communications and Aurobindo Pharma due to various business updates.
+  🔗 https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-nbcc-bhel-bharat-forge-shares-on-wed-16-sept-triggers-11789478026874.html
 
-- Ten-year Treasury yield hits highest since global financial crisis - Financial Times
-  Ten-year Treasury yield hits highest since
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkFXQVZYTHlqVDctU2ZDTTBLWVEycHpiUFI0SWd6TFVZbDNZQVJiVGxHcG9mNmR4NnVYLUd1U3o0bTl4UkZCRG8ya01SdndPa2dOOXZacXJBYTBLSlVNNXUtclpldHREZVhYX25CakNVMVNfWmdBSjRldlJUOU1nRlY1ZHY?oc=5
+- US Senate to vote on Clarity Act, decide fate of landmark crypto bill — All we know
+  The US Senate will vote on the Clarity Act, aimed at creating a regulatory framework for cryptocurrency. Despite industry support and investment, it remains uncertain if the bill will secure the
+  🔗 https://www.livemint.com/market/cryptocurrency/us-senate-to-vote-clarity-act-decide-fate-of-landmark-cryptocurrency-bill-regulatory-framework-democrats-banking-details-11789477744958.html
 
-- Stock Market LIVE Updates, Sensex Today: Sensex Drops 600 Points, Tech Stocks In Focus - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZk9kelUyWnRyeGRuYS1SMDhaOTEzZmRhZ2ktR3ZrOGRpMTY1S1JLQXVwZXpSWk5SVk92ZWNadnJ4LU1XZkhnM19DenJwakJrUU1sS0tkZDhiRV92d0FZZEpkMWcySGdQdH
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZk9kelUyWnRyeGRuYS1SMDhaOTEzZmRhZ2ktR3ZrOGRpMTY1S1JLQXVwZXpSWk5SVk92ZWNadnJ4LU1XZkhnM19DenJwakJrUU1sS0tkZDhiRV92d0FZZEpkMWcySGdQdHFWazdubjU1Ym5KRE9EUGNyVllrY2kxNGFoZDZweUM1YWpCUFpwNTRodTZ4LUhqcUNsVjFTaFFEcmhKdzhlMkhCYy1TY2V5dlZyTFczNXJ3VlF0cFpPTU5EUzdWVEZLemV0OGdNM3lCMC1Z0gHbAUFVX3lxTE9DY2JsZXZ3N0hVNTF3Mm9QQmNnUHctNGQ1YXl5cDhDZkxjdG1GRW9fRFNGOFBhSkxlbVd2NlRDcEd0TXJYT0dIU1o3RHc0d245dXFTWlVEdFJrYWZ1S0ZiT3JHVl9XNTZtNEJIYjVoX21LaUR2bllPcjIzdk1pZmVEOHM0V0ZNRi11aW9fTS14bk5YbXRFVUhjeUtTeGhSUjBaUWpwdE1vdzc3ZlYybUlDSDZvc3VsRXplNkZFX1JreUF1S0xrWmxBYjhEU2c1NUJaUVJZV1pfR2JKSQ?oc=5
+- 350% rally in 3 years, multibagger pharma stock to be in focus on Wednesday | Key details from filing
+  Sudarshan Pharma Industries is under due diligence for acquiring a 9.50% stake in MedTherapy Biotechnology. The acquisition aims to enhance its US market
+  🔗 https://www.livemint.com/market/stock-market-news/350-rally-in-3-years-multibagger-pharma-stock-to-be-in-focus-on-wednesday-key-details-from-filing-11789475168235.html
 
-- Bitcoin slips as Clarity Act odds fade: Crypto Markets Today - coindesk.com
-  Bitcoin slips as Clarity Act odds fade
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGR0U0plYnJ2WG91N2k0NGpiSTl0NnY2d0ZlcXRtNm9lWnlHYUhrRm8xcEd4ZDZMMGI2NlpkSElXREhhaFNibGs1anNnNTNhbDJuVGdLVFpLSWpUNzFvVnZyUnotalFsb3hoQVN0eE1nYXhUaVA4ZEhsTHhuYTZTdkdJWDVIZ2lPdmVGc3dJeTVzc1hDYkVIX2ZYNjJRNGhhR2Jnb2lNN3ZsWHJlcllTOF96SHhHdw?oc=5
-
-- Bitcoin trades near $77,000 range as investors await US Fed’s September rate decision
-  Bitcoin trades near $77,000 as investors await the US Federal Reserve’s September policy decision. Elevated bond yields, macroeconomic uncertainty and ETF outflows
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-77000-range-as-investors-await-us-feds-september-rate-decision/articleshow/134258854.cms
-
-- Valuation Check: 9 midcap stocks trading well above Industry PE
-  Eight NSE midcap stocks, excluding banking and financial companies, are trading at trailing twelve-month (TTM) P/E ratios above their respective industry averages. Aster DM Quality Care leads with
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/valuation-check-9-midcap-stocks-trading-well-above-industry-pe/slideshow/134258841.cms
-
-- Global Market: Bank of Korea signals caution ahead after split rate vote
-  The Bank of Korea’s August rate hike exposed a growing policy divide. One policymaker voted against the increase and favouring a pause.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bank-of-korea-signals-caution-ahead-after-split-rate-vote/articleshow/134258330.cms
-
-- Sensex crashes over 1,400 pts from day’s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout
-  Indian markets faced a notable downturn, witnessing significant erosion of capitalisation. Factors like climbing US bond yields and escalating oil prices heightened inflation fears.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-down-today-sensex-crashes-over-1300-pts-from-days-high-nifty-below-23200-5-triggers-behind-rs-7l-cr-wipeout/articleshow/134257556.cms
-
-- Global Market: Morgan Stanley turns hawkish, sees two Fed rate hikes in 2026
-  Morgan Stanley expects the US Federal Reserve and European Central Bank to raise interest rates further. The brokerage sees additional Fed hikes this year and another ECB increase in December.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-morgan-stanley-turns-hawkish-sees-two-fed-rate-hikes-in-2026/articleshow/134257695.cms
-
-- Why cash continues to thrive even as India's digital payments grow - BBC
-  Why cash continues to thrive even as India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmOHNhenZrX05RWjg4U1pLX251RkhOUWxoV0p3UUZGQ19oaFJuTFNMdUplV1c0bHluY25sekRPR0p4YnJkMmZPTVhTNFNnMDdQRGlkWWw3a0RuUQ?oc=5
-
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
-
-- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
-  Latest News, India News, Breaking News, Business
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWt4T3FUWHM3ZmgycGFQazhvZFhoRWszMDJ5OTNxdWNRR3E3emMzaW9zQ1FMZ1NOUkhtRmRyMmdMM2JVTFhfa0pmWmNzUjlJMnIyUXhSSUtOTG92MlZ1ZjVlZWNCNHZfSDdfdTlPaE9xamNWZnJ6YlFSZm01WVBqa1BiLUlyZlM0R2RGZnlyQzVTX2c?oc=5
-
-- India opens door to fees on large payments made via UPI system - Reuters
-  India opens door to fees on large payments made via
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmQyVk1kNXdDa2h2Z09feEpiU0ZHSTZoNmNRbUtsSkNCQ0F1eVRscnR4eWtIU3ZvOXZoeFQ1S1VnRmh2RTZHWkZzcG14Q1lQbHBwRHcwREFrSG1ZZnU3dEFPUmFVNXJCbWE2VEVEVWl3Uk44RkVJYjVlMExrQzlfSHZlQzB5M0FqN3BMSXI3bGlTdG9kR3Y4bktyVWpfZmJn?oc=5
-
-- U.S. lawmaker submits amendment naming India in Russia sanctions act - The Hindu
-  U.S. lawmaker submits amendment naming
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaG9MWW5zYjVRVDR1NWRqRl8xX2sxRGJOc1NHWGVZanhXbDlMTkFyOVB6dVFJQkpvSnFVZEdMUzZJako5Z21Dc2RkejN6a3RfRkRXSVRGOVNzQ0J4NDg1RklXQXMyd1FkV21ZZGt3TlJhWG1vdG5jSGwzQk5uVXZER2t5bHBOWWtWYWo5dWpkSy1qYi05UWdCbHpWWU41SF8xcFowQmZLcVdhQVhWRFJXRzNRNDBrcUpsTXl2Y2hud1huRE9IMDJ3Q3hB0gHQAUFVX3lxTE1nWVlMTGd2cXVrZnoyaEJxX0szOGRDelFJRGNYWmNsdEtwUC1WbVVSWEFYMk9VWXlheVBHWHFQSnl1S1FEcjBkN3h4U1pkS3l2TjJtaV9yVEVmRHJ0X2NPQjJ1RHBTNFhSMmZkakpZdGZhd09aN0pSdWs1UjdZUFU1aEZGajBMNThzMWg2OW9FV0FEaGJlMTREQW5vRnJtenRDZ0VjWHNKNENiNERyZXJnb0phVWUyamRSbWE2RklHQTBKYVowYVNrVDR3VDBWZHU?oc=5
-
-- NODWIN Gaming Launches Sports Vertical, Ex-Adidas Executive Gurbaksh Virdi To Lead
-  IPO-bound NODWIN Gaming launches sports vertical. Ex-Adidas Executive Gurbaksh Virdi to lead.
-  🔗 https://inc42.com/buzz/nodwin-gaming-launches-sports-vertical-ex-adidas-executive-gurbaksh-virdi-to-lead/
-
-- Flam Bags $40 Mn To Offer Immersive Content To Enterprises
-  AI-powered content platform Flam has raised $40 Mn (around ₹383 Cr), via a mix of primary and secondary deals.
-  🔗 https://inc42.com/buzz/flam-bags-40-mn-to-offer-immersive-content-to-enterprises/
-
-- Kids’ Nutrition Brands Face A Familiar Struggle
-  Kids want a bar of chocolate, but parents want a healthier snacking option.
-  🔗 https://inc42.com/features/kids-nutrition-brands-face-a-familiar-struggle/
-
-- Meta Agrees To Report CSAM Cases To Indian Authorities Amid Govt Scrutiny
-  Social media major Meta has agreed to report instances of child sexual abuse to the appropriate law enforcement agencies in India.
-  🔗 https://inc42.com/buzz/meta-agrees-to-report-csam-cases-to-indian-authorities-amid-govt-scrutiny/
-
-- Apple’s Siri AI Gambit, Moneyview Trims IPO Size & More
-  Apple’s rebuilt Siri AI has now finally arrived with iOS 27.
-  🔗 https://inc42.com/buzz/apples-siri-ai-gambit-moneyview-trims-ipo-size-more/
-
-- Why cash continues to thrive even as India's digital payments grow - BBC
-  Why cash continues to thrive even as India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmOHNhenZrX05RWjg4U1pLX251RkhOUWxoV0p3UUZGQ19oaFJuTFNMdUplV1c0bHluY25sekRPR0p4YnJkMmZPTVhTNFNnMDdQRGlkWWw3a0RuUQ?oc=5
-
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
-
-- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
-  Latest News, India News, Breaking News, Business
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWt4T3FUWHM3ZmgycGFQazhvZFhoRWszMDJ5OTNxdWNRR3E3emMzaW9zQ1FMZ1NOUkhtRmRyMmdMM2JVTFhfa0pmWmNzUjlJMnIyUXhSSUtOTG92MlZ1ZjVlZWNCNHZfSDdfdTlPaE9xamNWZnJ6YlFSZm01WVBqa1BiLUlyZlM0R2RGZnlyQzVTX2c?oc=5
-
-- India opens door to fees on large payments made via UPI system - Reuters
-  India opens door to fees on large payments made via
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmQyVk1kNXdDa2h2Z09feEpiU0ZHSTZoNmNRbUtsSkNCQ0F1eVRscnR4eWtIU3ZvOXZoeFQ1S1VnRmh2RTZHWkZzcG14Q1lQbHBwRHcwREFrSG1ZZnU3dEFPUmFVNXJCbWE2VEVEVWl3Uk44RkVJYjVlMExrQzlfSHZlQzB5M0FqN3BMSXI3bGlTdG9kR3Y4bktyVWpfZmJn?oc=5
-
-- U.S. lawmaker submits amendment naming India in Russia sanctions act - The Hindu
-  U.S. lawmaker submits amendment naming
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaG9MWW5zYjVRVDR1NWRqRl8xX2sxRGJOc1NHWGVZanhXbDlMTkFyOVB6dVFJQkpvSnFVZEdMUzZJako5Z21Dc2RkejN6a3RfRkRXSVRGOVNzQ0J4NDg1RklXQXMyd1FkV21ZZGt3TlJhWG1vdG5jSGwzQk5uVXZER2t5bHBOWWtWYWo5dWpkSy1qYi05UWdCbHpWWU41SF8xcFowQmZLcVdhQVhWRFJXRzNRNDBrcUpsTXl2Y2hud1huRE9IMDJ3Q3hB0gHQAUFVX3lxTE1nWVlMTGd2cXVrZnoyaEJxX0szOGRDelFJRGNYWmNsdEtwUC1WbVVSWEFYMk9VWXlheVBHWHFQSnl1S1FEcjBkN3h4U1pkS3l2TjJtaV9yVEVmRHJ0X2NPQjJ1RHBTNFhSMmZkakpZdGZhd09aN0pSdWs1UjdZUFU1aEZGajBMNThzMWg2OW9FV0FEaGJlMTREQW5vRnJtenRDZ0VjWHNKNENiNERyZXJnb0phVWUyamRSbWE2RklHQTBKYVowYVNrVDR3VDBWZHU?oc=5
-
-- Why cash continues to thrive even as India's digital payments grow - BBC
-  Why cash continues to thrive even as India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmOHNhenZrX05RWjg4U1pLX251RkhOUWxoV0p3UUZGQ19oaFJuTFNMdUplV1c0bHluY25sekRPR0p4YnJkMmZPTVhTNFNnMDdQRGlkWWw3a0RuUQ?oc=5
-
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
-
-- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
-  Latest News, India News, Breaking News, Business
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWt4T3FUWHM3ZmgycGFQazhvZFhoRWszMDJ5OTNxdWNRR3E3emMzaW9zQ1FMZ1NOUkhtRmRyMmdMM2JVTFhfa0pmWmNzUjlJMnIyUXhSSUtOTG92MlZ1ZjVlZWNCNHZfSDdfdTlPaE9xamNWZnJ6YlFSZm01WVBqa1BiLUlyZlM0R2RGZnlyQzVTX2c?oc=5
-
-- India opens door to fees on large payments made via UPI system - Reuters
-  India opens door to fees on large payments made via
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmQyVk1kNXdDa2h2Z09feEpiU0ZHSTZoNmNRbUtsSkNCQ0F1eVRscnR4eWtIU3ZvOXZoeFQ1S1VnRmh2RTZHWkZzcG14Q1lQbHBwRHcwREFrSG1ZZnU3dEFPUmFVNXJCbWE2VEVEVWl3Uk44RkVJYjVlMExrQzlfSHZlQzB5M0FqN3BMSXI3bGlTdG9kR3Y4bktyVWpfZmJn?oc=5
-
-- U.S. lawmaker submits amendment naming India in Russia sanctions act - The Hindu
-  U.S. lawmaker submits amendment naming
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaG9MWW5zYjVRVDR1NWRqRl8xX2sxRGJOc1NHWGVZanhXbDlMTkFyOVB6dVFJQkpvSnFVZEdMUzZJako5Z21Dc2RkejN6a3RfRkRXSVRGOVNzQ0J4NDg1RklXQXMyd1FkV21ZZGt3TlJhWG1vdG5jSGwzQk5uVXZER2t5bHBOWWtWYWo5dWpkSy1qYi05UWdCbHpWWU41SF8xcFowQmZLcVdhQVhWRFJXRzNRNDBrcUpsTXl2Y2hud1huRE9IMDJ3Q3hB0gHQAUFVX3lxTE1nWVlMTGd2cXVrZnoyaEJxX0szOGRDelFJRGNYWmNsdEtwUC1WbVVSWEFYMk9VWXlheVBHWHFQSnl1S1FEcjBkN3h4U1pkS3l2TjJtaV9yVEVmRHJ0X2NPQjJ1RHBTNFhSMmZkakpZdGZhd09aN0pSdWs1UjdZUFU1aEZGajBMNThzMWg2OW9FV0FEaGJlMTREQW5vRnJtenRDZ0VjWHNKNENiNERyZXJnb0phVWUyamRSbWE2RklHQTBKYVowYVNrVDR3VDBWZHU?oc=5
-
-- Why cash continues to thrive even as India's digital payments grow - BBC
-  Why cash continues to thrive even as India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmOHNhenZrX05RWjg4U1pLX251RkhOUWxoV0p3UUZGQ19oaFJuTFNMdUplV1c0bHluY25sekRPR0p4YnJkMmZPTVhTNFNnMDdQRGlkWWw3a0RuUQ?oc=5
-
-- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
-  PM Modi Pauses BRICS Speech To Check On
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
-
-- Latest News, India News, Breaking News, Business, Bollywood, Cricket, Videos & Photos - NDTV
-  Latest News, India News, Breaking News, Business
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWt4T3FUWHM3ZmgycGFQazhvZFhoRWszMDJ5OTNxdWNRR3E3emMzaW9zQ1FMZ1NOUkhtRmRyMmdMM2JVTFhfa0pmWmNzUjlJMnIyUXhSSUtOTG92MlZ1ZjVlZWNCNHZfSDdfdTlPaE9xamNWZnJ6YlFSZm01WVBqa1BiLUlyZlM0R2RGZnlyQzVTX2c?oc=5
-
-- India opens door to fees on large payments made via UPI system - Reuters
-  India opens door to fees on large payments made via
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmQyVk1kNXdDa2h2Z09feEpiU0ZHSTZoNmNRbUtsSkNCQ0F1eVRscnR4eWtIU3ZvOXZoeFQ1S1VnRmh2RTZHWkZzcG14Q1lQbHBwRHcwREFrSG1ZZnU3dEFPUmFVNXJCbWE2VEVEVWl3Uk44RkVJYjVlMExrQzlfSHZlQzB5M0FqN3BMSXI3bGlTdG9kR3Y4bktyVWpfZmJn?oc=5
-
-- U.S. lawmaker submits amendment naming India in Russia sanctions act - The Hindu
-  U.S. lawmaker submits amendment naming
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaG9MWW5zYjVRVDR1NWRqRl8xX2sxRGJOc1NHWGVZanhXbDlMTkFyOVB6dVFJQkpvSnFVZEdMUzZJako5Z21Dc2RkejN6a3RfRkRXSVRGOVNzQ0J4NDg1RklXQXMyd1FkV21ZZGt3TlJhWG1vdG5jSGwzQk5uVXZER2t5bHBOWWtWYWo5dWpkSy1qYi05UWdCbHpWWU41SF8xcFowQmZLcVdhQVhWRFJXRzNRNDBrcUpsTXl2Y2hud1huRE9IMDJ3Q3hB0gHQAUFVX3lxTE1nWVlMTGd2cXVrZnoyaEJxX0szOGRDelFJRGNYWmNsdEtwUC1WbVVSWEFYMk9VWXlheVBHWHFQSnl1S1FEcjBkN3h4U1pkS3l2TjJtaV9yVEVmRHJ0X2NPQjJ1RHBTNFhSMmZkakpZdGZhd09aN0pSdWs1UjdZUFU1aEZGajBMNThzMWg2OW9FV0FEaGJlMTREQW5vRnJtenRDZ0VjWHNKNENiNERyZXJnb0phVWUyamRSbWE2RklHQTBKYVowYVNrVDR3VDBWZHU?oc=5
-
-- OpenAI urges UK lawmakers to rein in technology amid growing safety fears - theguardian.com
-  OpenAI urges UK lawmakers to rein in technology amid
+- OpenAI urges UK lawmakers to rein in technology amid growing safety fears - The Guardian
+  OpenAI urges UK lawmakers to rein in technology amid growing
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUg4LUJwelRmLTNXSzNpUFJOSTJKMWlPYVNLeW9mc01ScF9jMmlEeUFsOGRmSER6STRvd0Y4YVFCV04xNUltMkdYQVZBQjAzLWczQzFuclpkOXB5c3FZTEVIc2syaEg4REhhMlVnelh6ZnhYd1ZzYmk3WVFSdTB1Z1NRYnhmajhvbVI3dlZ6MmxPc2dhMURVdlRNbjM3RFBrcnF5bnFyQ1FpcW5id1Jv?oc=5
+
+- Who should own the knowledge that underpins AI technology? - The Conversation
+  Who should own the knowledge that underpins
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNczRVNEpNVzdCRGtlVXRfWkRCRUpPald0T1NFN0ZkTkhOVGFHVWI4VHZaQnQtSGx6SHNZZG5Qb3hzaE80eWd1Q21HNnJoc0xoYWI2SmxWeUF5UENVcnhRZk15WDM2NUkyaXFGZi0xdTVTeHBjMHB2c1lKTmluZGE5blZwVUxxdTR0OEdNVjVoQm84RW5ERGZv?oc=5
 
 - MediaTek launches new mobile chip using TSMC's most advanced technology - Reuters
   MediaTek launches new mobile chip using
   🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVlcUMzUkQ4NXk1QVkxeFc0NTBCenZSWTExWDJkeS1CaE1hamtXNHZmbmZHc2tKVXZSUGhOSGdCUnVTSGdxMTJPWm1vcmVRazl3Vm1fR2RPSU1heVFtRjBtUm4zWTkxYk1tM1J3ZmpyRW5RRXFIT1BJU1djQzBUeExSeTRZNEhnck84ek1zYTVOb2l5R2JzVmhvU20tMXVROWpuRmFDYjhyWDVkbThtQXlfQW4yZWhGa1lOUkJXV0VlcVNvTXl0Xw?oc=5
 
-- AI getting more powerful 'by the day' and kill switch should be required, tech boss tells BBC - bbc.co.uk
-  AI getting more powerful 'by the day' and kill switch should be required
-  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwOU5MVjhuWkZBYU5KMGdjSEFuNklXUDdVSjZ5Z1JFc1RoTUctTFNkQmkzb3lyWWtBS3JDUkduVjZ3NVpxS0RBdDZKN0dwajlWWVc3cFNLVEQ?oc=5
+- Indosol Solar ties up with Australian university to enhance solar technology - The Hindu
+  Indosol Solar ties up with Australian university to
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkhTSEplaExUWHd1WkJHTm13Mm1NajlCd3RNeTREMy1HMmJGeUlVeEFRMWRrQ0NIY0RlVWJiUzV5S3REdllhclNFdGZSMDkzaldUZnNORlpyNmVYNzZUTFg3bGU2SFVfN3N0c1Y5OHFQeU5tVVVuUXZ4ajRDRS1pNUtGZjdhRlZwSmxoa0drQnVBUWU3OFJiWndSZ3Q2NkMtYzlOTUFYclJzOG1VNVptZlV4Mk9HVl9UdktDSDhKczIyeFlXN0kyaEVQVE5MMFZQRFFjWFR4UDRFMHFkTG9tVHZJQnDSAesBQVVfeXFMTTFQOGEyY0JxQVM3MGRkanB5d1ZWRmN4bENvMnNadURUbmF2aThuVTV1MDctSXJyY2RaN1hkQjQ5NXBWZ20tb01VMEhFUkpCd19LbHpjWXg4UmN0b3BXUm1sYUdMYmhCcFVTcnVBLTV0M0tpMzV5XzFVbEVnbnkwbnNUMW9VU1BuZnYxQXk1bUxSbXFqS1V4LXhqd1JjeV9zU0V0RnhvbmE0eEFoelZxYi14Mkg3amxGWWl4RHlYYXJlVjRVQTdPY3ZxWWd6dkhaVkRQZmUwNUtmYWlmZWM4eEhacFg0NEFrSUlmbw?oc=5
 
-- Why a decade of doomsday warnings failed to slow the AI race - theguardian.com
-  Why a decade of doomsday warnings failed to slow
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE92d2RPRE5TRkowQkN2bUQxdTAyZHlLUFYyTTI3RjFCZGEtaC1OZHNXWGFkR0dWR3BoLVN0T2VCMnR6Rm9tY1kwZ29yY0xGWmhfLUQ4aEJkWW83Uk1PdTB6SHNnTUxINy0xT0w5RTNCV2dYYnRBamx4ZmZqTQ?oc=5
+- Employee of China's OpenAI and Anthropic rival, DeepSeek, writes a 'sentimental letter' on AI; says: Huma - The Times of India
+  Employee of China's OpenAI and Anthropic rival, DeepSeek, writes
+  🔗 https://news.google.com/rss/articles/CBMi-AJBVV95cUxQQkJ5bGxFNk9LenpUdVVUNVVDWFgtZHBWNnZjNFpiN3QwV0JKSVR5a3BQSzBSWU13ZEN0Z1gtSXNYcGdMeXZwcnlJbDhjdkZpWWdGWnVHamp0QkNBcnQtdjEwRmt2eElsVDlEY1JmNTNxc2tmTkh3MG1HZFEtbDY4SUZHTkhXRl8tbjlrZ1dvYnRUUGkydVFYNTc2U2NZY1U1dmJNMkxuNV9tLXVvZGRWVWM0VUZyc0RsMjdnNkYxTVBIVHRRcXFZa1B6cl9mazE3X1JCem83ZkRKWW13Wk1FZVpxamlEbFFKZzJieGpGemdGRUNQMHh4WnhSaEZHMEluTUcyTXJJTHRwRmxzWFZOaVQxWjVQQ2RTWWFIdHl5OW1vTFpFa0pnX3NlWnNRNnVKRU5DY3MtUHA0VUZfQldlclNpcnVjX3p6aFF0Q1VJRDlNUUtybzltLXVYYUcwVHB4X0c5UGdRRlZ0YzVPVUVBdWF0WEF3cmk10gH-AkFVX3lxTFBhZVNCNTJRV3ZoV3UtdkxxZTdONzhQQkk5d25tSjRFN1d1ZkRXYm5hdWVrTnV3MFNSdVNsZEItQVV3MmV2SS0wb2JfdHhzNGNkWEhkTVN4cWFDeVlyU0pSekFhYjNIMHloc1Q5NTZVVG1iVnNyZlBhRHUtSjRfQkRKOV9ZMWJRZUVHMVNrcVRpTkdKSW9wZEwtekpGMzd4bVpBZndiYkxRY1RjQjF3a3ZMcGx2VFg2X21DcVZlZk92V2NRNVB3Qmc4ci10eDEwZHJlbXBPR2N1OTN5RlY3RTVJZm9sSEZzUFJOdWhVYno4N0x5SDRCdXdabVBzem1XTnl0YzJ5bWU0SzhEcFdrcVdhZ0pwelZqSE5tQ2hnZVZCelVWVm5PQnpISTdQWTJjdmdOZ05sV1RVS0xLUlA4UUsyZTFYMy1nSEtsX2gyQ2FJejhuRHVhVTliOEVPdGJocUNnUy1yLUVUV2FIVDA0SnViZ3c1LWRQTmI3LXhmZ1E?oc=5
 
-- AI stocks slide after top industry CEOs call for slowdown of technology’s development - CNN
-  AI stocks slide after top industry CEOs call for slowdown of
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHJmWGFlbi0wbEpac3BRV0M0b1JVVGZuNGtxdzFlYnZzM2FvaEZjaHowMXFBZWlndGRhVXRmYndaQ3hFQXpJLUNrTU1qTklLZFpLbWdQSjZpUk9jSFNXR0hCOGdZNU41S3pSWHI3U2lUa3RjZ1FIYU1pN3hvbnF4dV9PREdvTVplaTFrR2Q4ejdrbmZpdVNtOUNfSQ?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Indian markets reversed morning gains to plunge over 1% on Tuesday. Nifty breached 23,231 support, while 2,824 NSE stocks declined.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134268234.cms
+
+- Market Trading Guide: Acme Solar,  Bharat Dynamics among 5 stock recommendations for Wednesday
+  Domestic markets face pressure from high crude oil prices, rising bond yields and foreign outflows. Bharat Dynamics faces a bearish outlook after breaking key support levels.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-acme-solar-bharat-dynamics-among-5-stock-recommendations-for-wednesday/slideshow/134267881.cms
+
+- US Treasury secretary Scott Bessent says rising bond yields due to 'global issues'
+  US Treasury Secretary Scott Bessent emphasized global challenges as the backdrop for increasing bond yields. The event was marked by protests advocating for the cessation of sanctions against Iran, momentarily disrupting the discussion.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-secretary-scott-bessent-says-rising-bond-yields-due-to-global-issues/articleshow/134267418.cms
+
+- Digital lending platform Fibe gets Sebi nod to launch IPO
+  Social Worth Technologies, the parent company of Fibe, has obtained the necessary approval from Sebi for its initial public offering. The venture aims to raise Rs 750 crore through a fresh share issue.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/digital-lending-platform-fibe-gets-sebi-nod-to-launch-ipo/articleshow/134267101.cms
+
+- New charges on UPI payments: Here's what you will be charged for stock market investments
+  UPI payments for capital market transactions will attract a nominal 0.02% Merchant Discount Rate, capped at Rs 300. The fee covers mutual funds, securities, brokers and dealers
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/new-charges-on-upi-payments-heres-what-you-will-be-charged-for-stock-market-investments/articleshow/134266721.cms
+
+- CCPA Penalises Rapido Over ‘Advanced Tipping’ Prompts
+  The Central Consumer Protection Authority (CCPA) has imposed a penalty of ₹10 Lakh on ride unicorn Rapido.
+  🔗 https://inc42.com/buzz/ccpa-penalises-rapido-over-advanced-tipping-prompts/
+
+- Rebel Foods Cuts FY26 Loss By 16% To ₹282 Cr, Revenue Jumps 21%
+  Rebel Foods managed to cut its net loss for the fiscal year FY26 by 16.3% to ₹281.8 Cr&#
+  🔗 https://inc42.com/buzz/rebel-foods-cuts-fy26-loss-by-16-to-%e2%82%b9282-cr-revenue-jumps-21/
+
+- Novastar Partners Backs Pre-Seed Stage Focused VC Firm AJVC
+  Novastar Partners has made its maiden India bet by investing an undisclosed sum in Aviral Bhatnagar-led venture capital.
+  🔗 https://inc42.com/buzz/novastar-partners-backs-pre-seed-stage-focused-vc-firm-ajvc/
+
+- NPCI Sets 0.4% MDR On P2M UPI Transactions Over ₹2,000
+  After months of anticipation, UPI operator National Payments Corporation of India (NPCI) has introduced the merchant discount rate (MDR) fees.
+  🔗 https://inc42.com/buzz/npci-sets-0-4-mdr-on-p2m-upi-transactions-over-%e2%82%b92000/
+
+- Delhi HC Asks RBI To Mediate PayU’s Dispute With Banks, Visa
+  The Delhi High Court has asked the RBI to mediate a dispute involving Prosus-backed fintech platform PayU Payments, YES Bank and Visa.
+  🔗 https://inc42.com/buzz/delhi-hc-asks-rbi-to-mediate-payus-dispute-with-banks-visa/
+
+- Viral hit-and-run raises road rage questions in India - Al Jazeera
+  Viral hit-and-run
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVlVRzZmXzhyQXFKNy05X0xVdHZNaVYwWE5uVnVIWGViN2k4N3JGdUs3MjI2LWRaRWl1NUVsVy1ua1BoMVdyNzkzYVlsUHdXLWJ4MFRUeHBHMWRhTlJZZkxzTWFxT2U0TTlRTXJ1ek5sUFZPbEVkSTVqenNiRlh0eVQxWGtNMGVadUFmdlRkcFZ2QkV2VDFyUHowc29DbE5GUnhCNkJJQdIBrAFBVV95cUxQcDR1Y0lLRUdaOHZOTmhFeldGaGtYdjBWRXV1b2VCQXlnWEktOFcweTN6bUs0dTZ0NkxmOFN0UFdWYWJkT3Y5bHZEVDdJSE1WbXllUm42NFNHWlEzeEt5NUJRTUQyMlM3dHNaZW9tTEQweVp2MGJvUnUtTm9RSzA2bXdoZWc4RTZkWHI5UGtXTG9QbHdra2VWbDFjR3JkUzFwTlhDMUhvWXhHZ1BL?oc=5
+
+- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
+  PM Modi Pauses BRICS Speech To Check On
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
+
+- Large Road Presence, Small Sales: Breaking Down The Big-Bike Market In India - NDTV
+  Large Road Presence, Small Sales: Breaking Down The
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEZRMjRWdDdmNVRzSy1wN3ZfcU1jXzhWU1pFVy03cTh6T3BadUkwMGZoQkZZRjhtaWRva3BreVVXcktkbkdXdTZjSnVFSXd6MzRORk9KbFZvRm9pczJRTHBaX2VJYVBhakR0eFN6SDVHX1F2SnJaUDYxVFM1ZXkzb01IQUQyd1dmNXZWMUpjcEphMTUwc05DSHpWYnEyMXU2bUNmZTRLWDl0UTh5elJzUHc1eEh1d9IBvgFBVV95cUxOYjk5ME9rMHhYZVZxWW5xSmd6cGlMcnhGLTVtMTZDR1I0Y2FnR01OQkdSMkk4eEdzWHRPNEpZLVQybUZsXzJXeEdXZHhITThHMW5XZjh4MFIyellNZTBaSDJPbHpXeTFqN2E4dFVlWXV3Uno5Sjk3WjI4M1BGREZLcFNEUTRuempOdC1LdmNPdU90clJCaWViaHNLcXVHTGZtQ2RVRWo0cUpUUlF1M1BrUUo1RWdCU0NXc1FJZ3ln?oc=5
+
+- UPI Charges To Be 0.4% For Some Payments Above Rs 2,000. Free For Consumers - NDTV
+  UPI Charges To Be 0.4% For Some Payments
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWg1dHFDaW15bGVWOUc3elF1S05qaWJoc2lpVmVKZ3JPZElZdTMxWUlYYndUdzlucjJteWpySE1xS0ZtU2V2VlB2S0xYR1VfU0hnQTM4Rjd6a2c3VlpIeWdmRWFZVU1tUjMwQU5wRTBoU1dxR3E4OGdyV2FMWGpsN3Z6cVRWYkVUWjhENEp6eTBQZzl2M0pFUDhTeTI5MWNrcDlKMEQzN0dwWFRmcGJwSm92X3JHMW1ibFY1WXhQR1_SAcgBQVVfeXFMTllSbVpNeVV5cU4yNXdjUzBha1htZnVvRUI3dlJnY1JlcWxUYXFCU1hoZERqV01NYktmdXk5dl9md3BBWG5nX2FKZVdaaWM4UnRRRjVSdHBsUTRLTVVVNlZxYlZVVE1MUy1KcXBKMW5vVzFKODVlTUE5NENzVGtKM2xreHdGUkQ3dkpZOWtmZ2JCN2EyT3E4NG9QZ2UzZlpxelBZTmpyRDlBX3FLNnVYT3RkaGhTQ3lsa3VtX3BRNGVSbEdPYjM1aTc?oc=5
+
+- India opens door to fees on large payments made via UPI system - Reuters
+  India opens door to fees on large payments made via
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmQyVk1kNXdDa2h2Z09feEpiU0ZHSTZoNmNRbUtsSkNCQ0F1eVRscnR4eWtIU3ZvOXZoeFQ1S1VnRmh2RTZHWkZzcG14Q1lQbHBwRHcwREFrSG1ZZnU3dEFPUmFVNXJCbWE2VEVEVWl3Uk44RkVJYjVlMExrQzlfSHZlQzB5M0FqN3BMSXI3bGlTdG9kR3Y4bktyVWpfZmJn?oc=5
+
+- Viral hit-and-run raises road rage questions in India - Al Jazeera
+  Viral hit-and-run
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVlVRzZmXzhyQXFKNy05X0xVdHZNaVYwWE5uVnVIWGViN2k4N3JGdUs3MjI2LWRaRWl1NUVsVy1ua1BoMVdyNzkzYVlsUHdXLWJ4MFRUeHBHMWRhTlJZZkxzTWFxT2U0TTlRTXJ1ek5sUFZPbEVkSTVqenNiRlh0eVQxWGtNMGVadUFmdlRkcFZ2QkV2VDFyUHowc29DbE5GUnhCNkJJQdIBrAFBVV95cUxQcDR1Y0lLRUdaOHZOTmhFeldGaGtYdjBWRXV1b2VCQXlnWEktOFcweTN6bUs0dTZ0NkxmOFN0UFdWYWJkT3Y5bHZEVDdJSE1WbXllUm42NFNHWlEzeEt5NUJRTUQyMlM3dHNaZW9tTEQweVp2MGJvUnUtTm9RSzA2bXdoZWc4RTZkWHI5UGtXTG9QbHdra2VWbDFjR3JkUzFwTlhDMUhvWXhHZ1BL?oc=5
+
+- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
+  PM Modi Pauses BRICS Speech To Check On
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
+
+- Large Road Presence, Small Sales: Breaking Down The Big-Bike Market In India - NDTV
+  Large Road Presence, Small Sales: Breaking Down The
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEZRMjRWdDdmNVRzSy1wN3ZfcU1jXzhWU1pFVy03cTh6T3BadUkwMGZoQkZZRjhtaWRva3BreVVXcktkbkdXdTZjSnVFSXd6MzRORk9KbFZvRm9pczJRTHBaX2VJYVBhakR0eFN6SDVHX1F2SnJaUDYxVFM1ZXkzb01IQUQyd1dmNXZWMUpjcEphMTUwc05DSHpWYnEyMXU2bUNmZTRLWDl0UTh5elJzUHc1eEh1d9IBvgFBVV95cUxOYjk5ME9rMHhYZVZxWW5xSmd6cGlMcnhGLTVtMTZDR1I0Y2FnR01OQkdSMkk4eEdzWHRPNEpZLVQybUZsXzJXeEdXZHhITThHMW5XZjh4MFIyellNZTBaSDJPbHpXeTFqN2E4dFVlWXV3Uno5Sjk3WjI4M1BGREZLcFNEUTRuempOdC1LdmNPdU90clJCaWViaHNLcXVHTGZtQ2RVRWo0cUpUUlF1M1BrUUo1RWdCU0NXc1FJZ3ln?oc=5
+
+- UPI Charges To Be 0.4% For Some Payments Above Rs 2,000. Free For Consumers - NDTV
+  UPI Charges To Be 0.4% For Some Payments
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWg1dHFDaW15bGVWOUc3elF1S05qaWJoc2lpVmVKZ3JPZElZdTMxWUlYYndUdzlucjJteWpySE1xS0ZtU2V2VlB2S0xYR1VfU0hnQTM4Rjd6a2c3VlpIeWdmRWFZVU1tUjMwQU5wRTBoU1dxR3E4OGdyV2FMWGpsN3Z6cVRWYkVUWjhENEp6eTBQZzl2M0pFUDhTeTI5MWNrcDlKMEQzN0dwWFRmcGJwSm92X3JHMW1ibFY1WXhQR1_SAcgBQVVfeXFMTllSbVpNeVV5cU4yNXdjUzBha1htZnVvRUI3dlJnY1JlcWxUYXFCU1hoZERqV01NYktmdXk5dl9md3BBWG5nX2FKZVdaaWM4UnRRRjVSdHBsUTRLTVVVNlZxYlZVVE1MUy1KcXBKMW5vVzFKODVlTUE5NENzVGtKM2xreHdGUkQ3dkpZOWtmZ2JCN2EyT3E4NG9QZ2UzZlpxelBZTmpyRDlBX3FLNnVYT3RkaGhTQ3lsa3VtX3BRNGVSbEdPYjM1aTc?oc=5
+
+- India opens door to fees on large payments made via UPI system - Reuters
+  India opens door to fees on large payments made via
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmQyVk1kNXdDa2h2Z09feEpiU0ZHSTZoNmNRbUtsSkNCQ0F1eVRscnR4eWtIU3ZvOXZoeFQ1S1VnRmh2RTZHWkZzcG14Q1lQbHBwRHcwREFrSG1ZZnU3dEFPUmFVNXJCbWE2VEVEVWl3Uk44RkVJYjVlMExrQzlfSHZlQzB5M0FqN3BMSXI3bGlTdG9kR3Y4bktyVWpfZmJn?oc=5
+
+- Viral hit-and-run raises road rage questions in India - Al Jazeera
+  Viral hit-and-run
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVlVRzZmXzhyQXFKNy05X0xVdHZNaVYwWE5uVnVIWGViN2k4N3JGdUs3MjI2LWRaRWl1NUVsVy1ua1BoMVdyNzkzYVlsUHdXLWJ4MFRUeHBHMWRhTlJZZkxzTWFxT2U0TTlRTXJ1ek5sUFZPbEVkSTVqenNiRlh0eVQxWGtNMGVadUFmdlRkcFZ2QkV2VDFyUHowc29DbE5GUnhCNkJJQdIBrAFBVV95cUxQcDR1Y0lLRUdaOHZOTmhFeldGaGtYdjBWRXV1b2VCQXlnWEktOFcweTN6bUs0dTZ0NkxmOFN0UFdWYWJkT3Y5bHZEVDdJSE1WbXllUm42NFNHWlEzeEt5NUJRTUQyMlM3dHNaZW9tTEQweVp2MGJvUnUtTm9RSzA2bXdoZWc4RTZkWHI5UGtXTG9QbHdra2VWbDFjR3JkUzFwTlhDMUhvWXhHZ1BL?oc=5
+
+- Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping - NDTV
+  PM Modi Pauses BRICS Speech To Check On
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQWh5RFR6VXZYUzBiTTI1WE5YcV9JRnR1WG9nUXNGRmgwSTNZUktJRUhnM0s5WW14Qlg2WmxsbjdCNUN2X1hwOTdBWG5YOHdyaE9LTnBTZS1zczllY0FJX3VoX0xqZ0daM0ZxZnVDZ2FoQTRpazJ0ZUpMd2tWVlFlYzJBaHczM0kxZmFjMFV3d3lLeTVObTRCRWRLQzZiV3pqc1hXZXpaSm5MOXYzbUdzM2pVamsyR2ExTVM2X3dxdnY0d0JOa2ljU0pEaTV6RkotZld1NjBBRdIB3wFBVV95cUxQODF4XzduMlBPM1Y5eDE3blFaYjVGTTdzWjNMc045TENRcXpPMUFUVWZ0cHNFZVZDVDVxaW1MWEVvbDZUR0Zkek1ITXZtZndTYlBYX0k2Yjh1eFhiRHJjdlRTVTEzNFI0N1BQTGRsZkpHY2czSkdNd1dmZG1Eb1NWUE13bTFTQUh5MFJ1WThEaVY3d0liMm9aTllIbG9NWnRqUW1HYUtPek1HNnFsZ0JZYnlrZ1FKdVczSUdLWVhPSXRQSVRIaEg2TWpnS0NFSG9Jb2lyaTFiUUhoV1V2Z0U0?oc=5
+
+- Large Road Presence, Small Sales: Breaking Down The Big-Bike Market In India - NDTV
+  Large Road Presence, Small Sales: Breaking Down The
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEZRMjRWdDdmNVRzSy1wN3ZfcU1jXzhWU1pFVy03cTh6T3BadUkwMGZoQkZZRjhtaWRva3BreVVXcktkbkdXdTZjSnVFSXd6MzRORk9KbFZvRm9pczJRTHBaX2VJYVBhakR0eFN6SDVHX1F2SnJaUDYxVFM1ZXkzb01IQUQyd1dmNXZWMUpjcEphMTUwc05DSHpWYnEyMXU2bUNmZTRLWDl0UTh5elJzUHc1eEh1d9IBvgFBVV95cUxOYjk5ME9rMHhYZVZxWW5xSmd6cGlMcnhGLTVtMTZDR1I0Y2FnR01OQkdSMkk4eEdzWHRPNEpZLVQybUZsXzJXeEdXZHhITThHMW5XZjh4MFIyellNZTBaSDJPbHpXeTFqN2E4dFVlWXV3Uno5Sjk3WjI4M1BGREZLcFNEUTRuempOdC1LdmNPdU90clJCaWViaHNLcXVHTGZtQ2RVRWo0cUpUUlF1M1BrUUo1RWdCU0NXc1FJZ3ln?oc=5
+
+- UPI Charges To Be 0.4% For Some Payments Above Rs 2,000. Free For Consumers - NDTV
+  UPI Charges To Be 0.4% For Some Payments
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWg1dHFDaW15bGVWOUc3elF1S05qaWJoc2lpVmVKZ3JPZElZdTMxWUlYYndUdzlucjJteWpySE1xS0ZtU2V2VlB2S0xYR1VfU0hnQTM4Rjd6a2c3VlpIeWdmRWFZVU1tUjMwQU5wRTBoU1dxR3E4OGdyV2FMWGpsN3Z6cVRWYkVUWjhENEp6eTBQZzl2M0pFUDhTeTI5MWNrcDlKMEQzN0dwWFRmcGJwSm92X3JHMW1ibFY1WXhQR1_SAcgBQVVfeXFMTllSbVpNeVV5cU4yNXdjUzBha1htZnVvRUI3dlJnY1JlcWxUYXFCU1hoZERqV01NYktmdXk5dl9md3BBWG5nX2FKZVdaaWM4UnRRRjVSdHBsUTRLTVVVNlZxYlZVVE1MUy1KcXBKMW5vVzFKODVlTUE5NENzVGtKM2xreHdGUkQ3dkpZOWtmZ2JCN2EyT3E4NG9QZ2UzZlpxelBZTmpyRDlBX3FLNnVYT3RkaGhTQ3lsa3VtX3BRNGVSbEdPYjM1aTc?oc=5
+
+- India opens door to fees on large payments made via UPI system - Reuters
+  India opens door to fees on large payments made via
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmQyVk1kNXdDa2h2Z09feEpiU0ZHSTZoNmNRbUtsSkNCQ0F1eVRscnR4eWtIU3ZvOXZoeFQ1S1VnRmh2RTZHWkZzcG14Q1lQbHBwRHcwREFrSG1ZZnU3dEFPUmFVNXJCbWE2VEVEVWl3Uk44RkVJYjVlMExrQzlfSHZlQzB5M0FqN3BMSXI3bGlTdG9kR3Y4bktyVWpfZmJn?oc=5
+
+- OpenAI urges UK lawmakers to rein in technology amid growing safety fears - The Guardian
+  OpenAI urges UK lawmakers to rein in technology amid growing
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUg4LUJwelRmLTNXSzNpUFJOSTJKMWlPYVNLeW9mc01ScF9jMmlEeUFsOGRmSER6STRvd0Y4YVFCV04xNUltMkdYQVZBQjAzLWczQzFuclpkOXB5c3FZTEVIc2syaEg4REhhMlVnelh6ZnhYd1ZzYmk3WVFSdTB1Z1NRYnhmajhvbVI3dlZ6MmxPc2dhMURVdlRNbjM3RFBrcnF5bnFyQ1FpcW5id1Jv?oc=5
+
+- Who should own the knowledge that underpins AI technology? - The Conversation
+  Who should own the knowledge that underpins
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNczRVNEpNVzdCRGtlVXRfWkRCRUpPald0T1NFN0ZkTkhOVGFHVWI4VHZaQnQtSGx6SHNZZG5Qb3hzaE80eWd1Q21HNnJoc0xoYWI2SmxWeUF5UENVcnhRZk15WDM2NUkyaXFGZi0xdTVTeHBjMHB2c1lKTmluZGE5blZwVUxxdTR0OEdNVjVoQm84RW5ERGZv?oc=5
+
+- MediaTek launches new mobile chip using TSMC's most advanced technology - Reuters
+  MediaTek launches new mobile chip using
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVlcUMzUkQ4NXk1QVkxeFc0NTBCenZSWTExWDJkeS1CaE1hamtXNHZmbmZHc2tKVXZSUGhOSGdCUnVTSGdxMTJPWm1vcmVRazl3Vm1fR2RPSU1heVFtRjBtUm4zWTkxYk1tM1J3ZmpyRW5RRXFIT1BJU1djQzBUeExSeTRZNEhnck84ek1zYTVOb2l5R2JzVmhvU20tMXVROWpuRmFDYjhyWDVkbThtQXlfQW4yZWhGa1lOUkJXV0VlcVNvTXl0Xw?oc=5
+
+- Indosol Solar ties up with Australian university to enhance solar technology - The Hindu
+  Indosol Solar ties up with Australian university to
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkhTSEplaExUWHd1WkJHTm13Mm1NajlCd3RNeTREMy1HMmJGeUlVeEFRMWRrQ0NIY0RlVWJiUzV5S3REdllhclNFdGZSMDkzaldUZnNORlpyNmVYNzZUTFg3bGU2SFVfN3N0c1Y5OHFQeU5tVVVuUXZ4ajRDRS1pNUtGZjdhRlZwSmxoa0drQnVBUWU3OFJiWndSZ3Q2NkMtYzlOTUFYclJzOG1VNVptZlV4Mk9HVl9UdktDSDhKczIyeFlXN0kyaEVQVE5MMFZQRFFjWFR4UDRFMHFkTG9tVHZJQnDSAesBQVVfeXFMTTFQOGEyY0JxQVM3MGRkanB5d1ZWRmN4bENvMnNadURUbmF2aThuVTV1MDctSXJyY2RaN1hkQjQ5NXBWZ20tb01VMEhFUkpCd19LbHpjWXg4UmN0b3BXUm1sYUdMYmhCcFVTcnVBLTV0M0tpMzV5XzFVbEVnbnkwbnNUMW9VU1BuZnYxQXk1bUxSbXFqS1V4LXhqd1JjeV9zU0V0RnhvbmE0eEFoelZxYi14Mkg3amxGWWl4RHlYYXJlVjRVQTdPY3ZxWWd6dkhaVkRQZmUwNUtmYWlmZWM4eEhacFg0NEFrSUlmbw?oc=5
+
+- Employee of China's OpenAI and Anthropic rival, DeepSeek, writes a 'sentimental letter' on AI; says: Huma - The Times of India
+  Employee of China's OpenAI and Anthropic rival, DeepSeek, writes
+  🔗 https://news.google.com/rss/articles/CBMi-AJBVV95cUxQQkJ5bGxFNk9LenpUdVVUNVVDWFgtZHBWNnZjNFpiN3QwV0JKSVR5a3BQSzBSWU13ZEN0Z1gtSXNYcGdMeXZwcnlJbDhjdkZpWWdGWnVHamp0QkNBcnQtdjEwRmt2eElsVDlEY1JmNTNxc2tmTkh3MG1HZFEtbDY4SUZHTkhXRl8tbjlrZ1dvYnRUUGkydVFYNTc2U2NZY1U1dmJNMkxuNV9tLXVvZGRWVWM0VUZyc0RsMjdnNkYxTVBIVHRRcXFZa1B6cl9mazE3X1JCem83ZkRKWW13Wk1FZVpxamlEbFFKZzJieGpGemdGRUNQMHh4WnhSaEZHMEluTUcyTXJJTHRwRmxzWFZOaVQxWjVQQ2RTWWFIdHl5OW1vTFpFa0pnX3NlWnNRNnVKRU5DY3MtUHA0VUZfQldlclNpcnVjX3p6aFF0Q1VJRDlNUUtybzltLXVYYUcwVHB4X0c5UGdRRlZ0YzVPVUVBdWF0WEF3cmk10gH-AkFVX3lxTFBhZVNCNTJRV3ZoV3UtdkxxZTdONzhQQkk5d25tSjRFN1d1ZkRXYm5hdWVrTnV3MFNSdVNsZEItQVV3MmV2SS0wb2JfdHhzNGNkWEhkTVN4cWFDeVlyU0pSekFhYjNIMHloc1Q5NTZVVG1iVnNyZlBhRHUtSjRfQkRKOV9ZMWJRZUVHMVNrcVRpTkdKSW9wZEwtekpGMzd4bVpBZndiYkxRY1RjQjF3a3ZMcGx2VFg2X21DcVZlZk92V2NRNVB3Qmc4ci10eDEwZHJlbXBPR2N1OTN5RlY3RTVJZm9sSEZzUFJOdWhVYno4N0x5SDRCdXdabVBzem1XTnl0YzJ5bWU0SzhEcFdrcVdhZ0pwelZqSE5tQ2hnZVZCelVWVm5PQnpISTdQWTJjdmdOZ05sV1RVS0xLUlA4UUsyZTFYMy1nSEtsX2gyQ2FJejhuRHVhVTliOEVPdGJocUNnUy1yLUVUV2FIVDA0SnViZ3c1LWRQTmI3LXhmZ1E?oc=5
 
 
-_Last updated: 2026-09-15 10:56:59 UTC_
+_Last updated: 2026-09-15 16:08:38 UTC_
