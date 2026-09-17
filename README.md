@@ -1,44 +1,84 @@
 # 📰 Daily News Summaries
 
-- Brookfield to invest $600 million in ACME's green molecules business
-  The structured equity investment will fund four green ammonia and methanol projects across India and Oman.
-  🔗 https://www.livemint.com/companies/brookfield-to-invest-600-million-in-acmes-green-molecules-business-11789632928291.html
+- U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others - The Hindu
+  U.S. House passes Russia sanctions bill seeking to impose up to 100
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
 
-- Tata Trusts chairman to challenge N Chandrasekaran's 5-yr extension as Tata Sons Chairman: Report
-  Tata Trusts chairman Noel Tata is likely to challenge N Chandrasekaran's 5-year extension as Tata Sons chairman. This follows the board's approval of the reappointment.
-  🔗 https://www.livemint.com/companies/news/tata-trusts-chairman-to-challenge-n-chandrasekarans-5-yr-extension-as-tata-sons-chairman-report-11789637870998.html
+- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
+  "Will Protect Trade, Economic Interests":
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
 
-- Orange Health bets on offline centres for growth, plans radiology and wearables
-  In June, the Bengaluru-based company raised $30 million in its Series C funding round led by Iron Pillar. The digital-first company's offline push comes at a
-  🔗 https://www.livemint.com/companies/news/orange-health-bets-on-offline-centres-for-growth-plans-radiology-and-wearables-11789564012212.html
+- Congress says U.S. law on Russian oil purchase is an ‘affront’ to India’s sovereignty - The Hindu
+  Congress says U.S. law on Russian oil purchase is an
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFJtaTBZcXBrZkIwSndmajZnRExYOVZmS2dzUk5ENGlaeEcyVWV1ODhVb2QyaHZ1SXZubFAtSWd0bjNsR1U1WnRKbVhEUVhaRlM3VkJFb3J5am11Z2UwX1ZBYjluUUlreGdQNDA3T1J5NVZ3eXFGNlBoeWNfUExaN3o4R0s2WEJLUGRaSThjVlA5d2pscGduRU9ldXlENDUyUFR6NVZYemtFN0xLMTAyX2dJd2wtMlN5NjI1X0cwVjFBaWloMWxDanJCX09TUzNqeW9FR3pn0gHcAUFVX3lxTE8xZzNMVGwwbzRxLTFPNTBDdl93SExKaTFkelVCQWlCNjdhZ0gyWjFURWRhdkFRdnp2WnNyaHh5ZVYzLXVlN0tvVzZMOGd5ZlpqMlN0bnZaQm94OF9IWXgwR0VvbEZIcjFqTUVEYVpuMnE0cmhiYlI3azFEaVdLcGtzUXBHYUZXeW1PY21kOEV3Q0RIRktLUGVWZ2lpay1BSG1GcVBKU1pSRzRhUldUcnVySDhfSXRlbHFrN01SaW1FQ1FuMTVIemJLdDhMVC11WGlLUzdOSGVweXhjOUk?oc=5
 
-- FSSAI expands labelling crackdown on Dabur, orders audit of 27 product lines: Report
-  The regulator has required scientific evidence for these claims while urging compliance to ensure consumer safety. The FSSAI intensified its scrutiny of Dabur India,
-  🔗 https://www.livemint.com/companies/news/fssai-expands-labelling-crackdown-on-dabur-orders-audit-of-27-product-lines-11789636952928.html
+- ‘Fake alert’: MEA denies reports of world leaders falling sick after BRICS Summit | India News - hindustantimes.com
+  ‘Fake alert’: MEA denies reports of world leaders
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmw1Z3NCSi12RlItRUxFRk5OZDBMdUZSSlhCZ1pQUDF5NmNxQXpmRXM3d1RacWM4MlBTY3phWmE2OHo5S2FRMEVkRDk5NHVrMzc0NExwbHI0dC0xcElmeGdnYVo1VHVWYS1QZldaWE1tcU10SE5Cblo4SmVSRnNlSmRjdWlGWXhGS2hWcFJiWWNfaERGNm1VUGV4MUs3a3VrMUdnSUZpeW4wLXdkaFA4Ry1Fd3JQT2xhUDh6NmdrbnVJRE1rTEFwSjA5aUJDX1dyYTktTDZneXVzS1YyLWZLTmlyclFGelpuU2ROT9IB8gFBVV95cUxNdU9MU0Q0b2FXOG96Q0xWY2FadVlwLXR0Z0ZSV05GOEdaNllocFFZUG9sb0xHNDFxNTAtamlPMlBQdnZ3Z2NBWkdwdEJncF9DcXdVTnF5OVlVUERxeGV5NjEyQWtzS015SUJ4ZTVqY2JRRkc5a1RqMHJ2T0JXYUV5MXNrUURRVG9OY2dGY01rN29PbEdjUWVCRGh4X2kya2dWNDhTZDBLZG9OLWp0Z01xVGZrcXF2WXlHYVM3T0piNGhWS1RfZERmVmRkTDBJcXFRNi04dUxHMWhRLXo3QTQyc0JxenpxVUhhZzhOOTk2aFgwdw?oc=5
 
-- Tata Sons board meeting outcome today: Decision reversal! N Chandrasekharan gets 5-yr extension - Eyes on IPO?
-  The board of Tata Sons has approved a fresh five-year
-  🔗 https://www.livemint.com/companies/news/tata-sons-board-meeting-outcome-today-decision-reversal-n-chandrasekharan-gets-5-yr-extension-eyes-on-ipo-11789636936582.html
+- Why Noel Tata Is Opposing N Chandrasekaran's Return As Tata Sons Chairman - NDTV
+  N Chandrasekaran's return as Tata Sons
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2d6cEx6ZEszWEZPbWgwMVNCdVJZaDZ3RndYMHhuN0pYR3VOY1VDa3ZadkpRNk5tdkxWYVV5QnpEYmRBcW9nQlF6UlRTM2pJcVpmZVlKUlR4V3gxX05DVjU0dFFKUTlFUFU4YUlqaXFRRDA5TUo4T0NlY2lBXzRYSjdHQzZfdHFDUGdhVG5iNS1kYVdIczFKNnpkZS1XUzRuMXd2N1Iwd2pvVEIybC01bdIBuAFBVV95cUxQNVRQMnZubkh4b0hVcXdpLTVyNjNwN25GWWFUbjdyQlpIR21RZjZxRnNjV0pHOXNNcTFCd29CN1Z4bG9XbnRyMXhqck5vVEsybDMwblJNeGZwM0NKMlZvOHdjVXBZZGRZT2JjYS1XR2tja1B2aUVsTmhXRGdnQW4zNnVzdjMwU250c0lveWFoNlN6cTdqSlZrYVk1SkZQd3JRRXNnUmFELVZqbjZrSVJRZ3FNd1lqbjhF?oc=5
 
-- EXCLUSIVE | Should you start allocating funds to virtual assets? JioBlackRock MD-CEO Sid Swaminathan answers
-  JioBlackRock MD-CEO advised diversification of one's portfolio
-  🔗 https://www.livemint.com/market/stock-market-news/exclusive-should-you-start-allocating-funds-to-virtual-assets-jioblackrock-md-ceo-sid-swaminathan-answers-11789636698976.html
+- IIIT-B, TCA sign LoI to deepen tech cooperation - The Hindu
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTZaNHFONTVBbHZfdm0ybEMwOGFjeWgxNTFURnRxcFFaU1lwRmpqcWhWVlJaZjVKT0tud0J5aHBkT1UzQThvZEQ0cFRQY05Bc1NtYnV2dG1TNjZRak5PQ2lMQlBFTHdSdTJLOTczSW5BRWc4dWpHd3BxakR3ZWxOTTRITTFIWU8xV2kwZHBvX244d3VKeE5Bb2lJMUpON3JMMUY2YlVCSWdib0VXWUVHN2hvbW1QQdIBvAFBVV95cUxNSW5NaHd3Tm9CQmpDemFpUnBNWTJDRHBMYVlqaldXdWZlTzdOQUpHWE4wVWFWMmJWMjJfMEVQYTd0N1J6SkZ1b1VMODJzSjFCQy0tNWFaMHRrakg3aDNHbmphMkVzbUVCYm1UWjVBdjB1Tl95Zm5qV2FlbTRfbXRyN29xSzlGR2hENzFQYnBTbnd2V0hscGlGUnNLUXhZUVY1S2tCa2EweEpjbk9UWTBqd052eFpQQlJtb3lGeg?oc=5
 
-- Tata Sons IPO soon? Listing approved by Board as Chairman N Chandrasekaran to stay on for 5 more years: Report
-  Tata Sons Pvt. approved going public and asked Chairman Natarajan Chandrasekaran to extend his term for five more years. This decision comes amid internal disputes and regulatory pressure for
-  🔗 https://www.livemint.com/market/ipo/tata-sons-ipo-soon-listing-approved-by-board-as-chairman-n-chandrasekaran-to-stay-on-for-5-more-years-report-11789640325693.html
+- OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times
+  OpenAI Discloses Six New Incidents of
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5
 
-- Polycab stock may get relief in Q2 amid rising competition fears
-  Polycab may stay relatively insulated from Ultravolt’s entry for now. Firm copper prices and advance purchases ahead of expected price hikes could give Q2
-  🔗 https://www.livemint.com/market/mark-to-market/polycab-stock-may-get-relief-in-q2-amid-rising-competition-fears-11789636582681.html
+- King Charles opens AI summit with plea to get a grip on technology ‘before it’s too late’ - cnn.com
+  King Charles opens AI summit with plea to get a grip on technology.
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1kek5KMkc2M2hlNk5mX0p6THNNN0VfUlR0VGNmSklGTzJRSW1sV05OWGUtVW1LVmNZTk1uUDBLZlBoNi1YMEJDZVlWTTZGaEJ6SDlWVzRsVjlRWnpvRHI2UEtMeVV6WUFGSFlEM1VpbjI?oc=5
 
-- Stock Market prediction tomorrow: Sensex, Nifty outlook for Fri | Kospi, Taiwan Index, Nikkei cues to watch | 18 Sept
-  The Indian stock market saw modest gains despite the US Federal Reserve's rate hike. Both key indices remained below Tuesday's highs, marking a potential sixth week of losses.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-fri-kospi-taiwan-index-nikkei-cues-to-watch-18-sept-11789637497727.html
+- King Charles warns of 'existential danger' of AI falling into wrong hands - BBC
+  King Charles warns of 'existential danger' of
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpUERUTFlJcVdzQ29mV3ZQQ3F4LXVlVUxCMzYxSFdzLVZoZ2REOUgwVjFtRFJrMWJJWlR1empqVHJfTDVCaGtJaFJrRDg4cWo4STBYalo5ZDE4Sms?oc=5
 
-- Tata Group stocks on fire after N Chandrasekharan 5-yr term - Tata Chemicals, TIC, Tata Motors PV, Tata Teleservices
-  Tata Group stocks increased by up to 13.5% on September 17 after the Tata Sons board renewed N. Chandrasekaran's five
-  🔗 https://www.livemint.com/market/stock-market-news/tata-group-stocks-on-fire-after-n-chandrasekharan-5-yr-term-tata-chemicals-tic-tata-motors-pv-tata-teleservices-11789637658991.html
+- King Charles warns AI leaders of existential risks if technology falls into wrong hands - Reuters
+  King Charles warns AI leaders of existential risks if technology falls into
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtbUd4TWFBZFhmZHZMYXZuV0E3NUZoZzZ2LUtOWE00UHpmVkVObEhmOENPS2IzN0J6dkZYZlYxYXFQcExiTEZSSXd1WkUtV3lvX2xQaDZFYzUxQS1aeERURmtaT2RpTE42U1RKYlc2ZndZSHFNU0IzZUwwd3ZRTk9wQy1xTmQtcXlDUDBJUS05RHBwUk8wakpkX19tUkpjSklDcldBMktQM29sUFZjS2hPSFdxQnRLU0FpaDd2SC1pZC1sQ0dfaG5aY3NEcHQwYjM0?oc=5
+
+- Sebi bars Kore Digital, three top execs from capital markets over alleged fraud
+  The markets regulator has ordered a forensic audit after a preliminary probe revealed alleged revenue inflation of over  
+  🔗 https://www.livemint.com/companies/news/sebi-bars-kore-digital-three-top-execs-from-capital-markets-over-alleged-fraud-11789653081860.html
+
+- RBI FAQs may pave way for Tata Son's listing
+  RBI’s latest clarification leaves Tata Sons with little room to rely on
+  🔗 https://www.livemint.com/companies/news/rbi-faqs-may-pave-way-for-tata-sons-listing-decision-11789645529279.html
+
+- Oil India to invest  ₹15,000 crore over next three years to explore offshore deepwater blocks: CMD
+  The announcement comes about a month after the Union cabinet approved a national offshore exploration scheme with an out
+  🔗 https://www.livemint.com/companies/oil-india-to-invest-15-000-crore-over-next-three-years-to-explore-offshore-deepwater-blocks-cmd-11789652879876.html
+
+- Direct selling platform Oriflame will resist quick commerce
+  The Swedish beauty brand is digitizing its direct-selling model and expanding its
+  🔗 https://www.livemint.com/companies/news/direct-selling-platform-oriflame-will-resist-quick-commerce-swedish-beauty-and-wellness-brand-ceo-kenneth-benaim-campbel-11789639027798.html
+
+- Drama at Tata Sons: Chandra gets fresh term; Tata Trusts calls it 'illegal'
+  Tata Sons board relied on a resolution sent in by Tata Trusts last year to grant an extension. Noel Tata had voiced his objection to Chandrase
+  🔗 https://www.livemint.com/companies/natarajan-chandrasekaran-tata-sons-chairman-noel-tata-trusts-tata-sons-ipo-listing-11789642339116.html
+
+- Up 1565% in six years: Small-cap stock to be in focus on Friday after  ₹484 crore order win
+  The order is part of expanding railway lines in the Khurda Road Division, to be completed in 1,095 days. GPT Infraprojects is attracting investor attention after securing a  �
+  🔗 https://www.livemint.com/market/stock-market-news/up-1565-in-six-years-small-cap-stock-to-be-in-focus-on-friday-after-rs-484-crore-order-win-11789655149552.html
+
+- Top stocks in focus tomorrow: Investors must watch Wipro, Bharat Electronics, DMart shares on Fri, 18 Sept | Triggers
+  The market demonstrated modest gains on September 17, with the Nifty 50 up 0.23%. Investors will track developments from companies such as Bharat Electronics and Oil India.
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-wipro-bharat-electronics-dmart-shares-on-fri-18-sept-triggers-11789641035492.html
+
+- NSE IPO GMP latest price today, subscription status Day 1: Response by investors, grey market signals for listing gains
+  NSE IPO received healthy investor interest on its first day. Retail investors showed substantial participation. anchor investors included major firms like Goldman Sachs. The IPO is expected to list on September 24.
+  🔗 https://www.livemint.com/market/stock-market-news/nse-ipo-gmp-latest-price-today-subscription-status-day-1-response-by-investors-grey-market-signals-for-listing-gains-11789650725117.html
+
+- Wall Street climbs as falling oil prices, bond yields lift market sentiment
+  The Dow Jones Industrial Average rose 0.82%, the S
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-climbs-as-retreating-oil-prices-boost-investor-sentiments-11789653176183.html
+
+- Puravankara shares jump 4%, extend rally to second day. Why is the realty stock rebounding?
+  Shares of Puravankara rose nearly 4% to  ₹218 following the acquisition of redevelopment rights for three societies in Goregaon West.
+  🔗 https://www.livemint.com/market/stock-market-news/puravankara-shares-jump-4-extend-rally-to-second-day-why-is-the-realty-stock-rebounding-11789649609740.html
 
 - BGMI 4.6 update: India’s first original character Kiaraa launch date, story, boss fight and rewards
   The BGMI 4.6 update arrives on September 16. Kiaraa will become available from October 8, 2026.
@@ -60,105 +100,153 @@
   Samsung has started the stable One UI 9 rollout for the Galaxy S26, S26+ and S26 Ultra. The update introduces new Galaxy AI features, including My Fan
   🔗 https://www.livemint.com/technology/samsung-one-ui-9-rollout-begins-galaxy-s26-series-gets-android-17-update-with-new-ai-features-11789617299321.html
 
-- Stock futures rise after Fed's rate hike spurs a market sell-off: Live updates - CNBC
-  Stock futures rise after Fed's rate hike spurs a
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE16dXpjUG95TlVORmlaMUtvNmc3bHFhdTJCZ0N0U2l0dmZ4aUdaVDkyUkdfSmhGeHlBYXpsM2M1Q09RaE1QQy0xcFgxSVh4WnpvaHdIZ09obUswQW1hazlveGZXdHdNRHd3Z0NsU2QtZ3ZLdjJseW840gF8QVVfeXFMT2ZLZ0VzbzhySFJObURPVVRsTmx2aHZNamZFcGY1TFVQQUd5cGh0U2h1OU8yQm9mcDFlUDJlVHAwQTVEdG50OW16ejFiRG5iQzBxX3RQMFJ2eVFrZ1FpeDhUY2F3dWtjSEkweXFuT1dUbDl5R1dsTHJaMHRTTw?oc=5
-
-- Stock Market News, Sept. 16, 2026: Dow Falls More Than 600 Points After Fed Raises Key Interest Rate - WSJ
-  The Dow fell more than 600 points after the Fed raised its key interest rate.
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQUE5oTVluRXJXSEZFTGp6UUpwcjluaGhVUlpsbGJ1WnFnVU05MDhSNDMwT3ZleW5fQnhia1ZYbFZ0SzN3dFNkSzRnV1lxbUpyREtpSnZlYndsRFM1RW5GeW1WcTdvRnZfNVh1TXAzWWVBVEZPZnAtYm9JLXNick5YZA?oc=5
-
-- Dow drops 600 points as Fed rate hike and Warsh's inflation talk unnerve investors: Live updates - CNBC
-  Dow drops 600 points as Fed rate hike and Warsh's inflation
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE93dm9pVTkxd0Y4Wk5sZUI4dTNRY1MyLV9RVDBuYm1pckV4WmU2TUR2azJvcUs0ZUZLSUZwbE4xNFFGUWJ5OGN5YjFub1NuZ015aVNKUTJMUmY2YzlTLWg0MFhaREI1Y1JwYjBTd1BCWVZYT3pnRmFN0gF8QVVfeXFMTVRqZWVyaXIwbEgwZTdhOW9IcXZGS2tVaUxZUHkycFFDUnhJNzU3QzhrR0ttcGlPNGljM0xEbnFjOVExQ0E4SDZZaEVpTnRVT1NEQU9rSm1XdGNhYm5tRS0yWThSQmh5T0RwUzU3dlpLT19JR0JvNTgzUkxHbQ?oc=5
-
-- Sensex Today | Stock Market Highlights: Sensex ends marginally lower, Nifty holds above 23,250 after CAS; realty, pharma rise over 1.5% - Moneycontrol.com
-  Sensex ends marginally lower, Nifty holds above 23,250 after CAS. Realty,
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxONXdTQzU5YWdVY0swQi00TXFYZlVnZ3F2bzMtampocUwwLWwzZTIyVGo2OGo4VDNEeTEwU3NjU0RwQWhadXcyWENRVklEVmtBNUFCOHBNLTFkeFNTcG9fVjZCTno1MFJzMEJPN0RBUlBaQ3l0cEpxLWlDT2VRWF9xRDdma0pfaktYc2tMZmRqVTdSaEk1dmRENm5fYk9SdkEwNS1oTV9TX00wVXR5UTJFTWM0dnV3TnpFYkFpazdSSEl0LS1sVTMyVDN6bnBkSkVHTklfZ1k3ZGFwRndYaHNqbmVGSThGd2VpVUszTHlRdTlUWGVHdUZtRWVUTGl2TU5zT0FsWkxXVldfV0dTdjVMNVF5V24zNHhPbmZDWVFwQVlkZk3SAagCQVVfeXFMTjNPWnNrbndyTzJ2d0RUdkpXalRrR01zWnFiZk1BZ2V3ekRGSmkzRUUzaW5TdnpWZVVoYV9mQndTSWxhbHI1aGhoQ1J6cHAweWpOdEtPSEZaSXJFRTk3UDBPajlEbjJ4WFd3X3YzR3N4WjJGM0RLUWlZLUZVMTYxdXFaWWwwY0JnZG1mS1oxSU5mNUEzNkE2TTI1eTcxalEtUlVldUtqM2ZXU0NLMzZOMk1vZXpzVXZTTnZnclQxeThjSFFqd053b1dkWDM0ZTNVS0xrVkt6SXNzcWExcmJxdFJTMy1XaHZDbmZDZWJvT253M1AyZEFPM3ZGRlhHVER5c2xsZ1RTeFVuMFdiY19VNVVIZzRtV2gzbUdRU0ZGMUV6bU8xd0NLQUw?oc=5
-
-- Stock Market Today: Dow Futures Climb, What to Watch — Live Updates - WSJ
-  The Dow is expected to open higher on Tuesday
+- Stock Market Today: Dow, Nasdaq Open Higher as Markets Retrace Post-Fed Moves — Live Updates - WSJ
+  Dow futures rally 600 points, boosted by declining oil and yields as traders attempt Fed sell-off rebound. Dow, S&amp;P 500 and Nasdaq rise as tech rallies; oil prices, Treasury yields ease.
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0xZSVJqTXZQbGtfdVhsT2xNNmFONzJETlQ4bGZhNWZIbEVmR1d2U0tydUp5eElIdF9MLTkyalZZMGt3TU04QVduOTEyUkphTlctaGpWQ1htSjZfcl93djhONVJKakRxY0JYV01jVUxyRFBpaEZJYWVTYmxNUVFSZ0twZ0QxZEE?oc=5
 
-- Emami announces share buyback worth Rs 282 crore at 29% premium. Here's what you need to know
-  Emami announced a Rs 282 crore share buyback at Rs 475 per share. The FMCG company will repurchase up to 59.36 lakh shares through the open market
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/emami-announces-share-buyback-worth-rs-282-crore-at-29-premium-heres-what-you-need-to-know/articleshow/134308368.cms
+- FTSE 100 Live: Pound and Stocks Stronger as Traders Await BOE Decision - Bloomberg.com
+  FTSE 100 Live: Pound and Stocks
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxOQ3lLWFFwdzhmdUpvNURKZ2RaQk1jVlBfU01LM1hZVXlMQmF5MXgyckthRWJBSFJnY3BnM0JMV2pJZ2hmRkpScXBsRHc3X2ozaXZwOFpfbGJycVNUekxkWlRXZkQxdmh2dEJwNWQwQWNKejJqM0VoM2NPelV4QXEtN0s1MEN6LXdfSmhUS29EcFZiWksxOFJadGlHVnZZU19vZ2RKV0ZxVExQVlYzdmVDU3VYVVV3R1VYcHhKeUUxZDk4TmlwR2YyeGpRYmFJVFJ1ZDFsU21jU29ERXlYX29zYWZEb2lMR29yTTUxZGVhNG1RcHBVMGptUk1OQ3dueGdkOVBnSmdESGNtd2xUWVVRTm5kUjlqUQ?oc=5
 
-- Global Market: European shares advance as investors await Bank of England decision
-  The STOXX 600 and DAX gained 0.5%, led by travel and technology stocks. Energy shares declined, while investors awaited the Bank of England’s interest-rate decision.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-advance-as-investors-await-bank-of-england-decision/articleshow/134308123.cms
+- India’s online retail market set to cross $90 billion in CY26: Redseer - The Hindu
+  India’s online retail market set to cross $
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQSkVZUWZyTFJ2T0RhOFlCWmo3ekRzdHVaX3JIWjZzNmo4NGd4d2RtRkc2VnFwbkNmR3BqY01VbUVTTV9haGRlc09sREs5NGdUODNORFpVN19uc1dkaGFyNjU2T2N2UnluUXVVbFFUdzNDb0xuUkRoWmNUZy02R1R1bHgzcGFaLVNoOGxNcGZlNWJzQk1sOE1tX25Eb1U2YnFidGFEcWJWd0hZUTZ5T25KQlBmUDhFSWxVc0ZCOUpEcEdLelFub0c5UGdn0gHQAUFVX3lxTE9tS2JkVzFzV2VxVTNMb0MzTXlxSW9qYlVoemNybDlmN3hMWkJjREZGQ1UySU1ZNXJUYTR2eGtVcndDYXNnakJzcmtvSVVPdWEzM1VpX2htOGdCbVp2LWExeG1Pc0p3NzdtV0VlWGpNODRzUEdkcUdoaXRPYWRnZFF2bmdhLWZRb3FnTkJMNTlyVDNMU1VZc3F2UmYtM1M2cXpMME0zQXMxTjZabHhuNEgwc2xkQUNBNTZUSjBMNUo1V0pfT29XaEFRY1BWcnpEZmc?oc=5
 
-- Up to 152X return! Rentomojo IPO delivers eye-popping gains to Nitish Mittersain, other early backers
-  Nazara Technologies founder Nitish Mittersain set to clock a 152X return on his investment based on the IPO’s upper price band. Several other early backers, including Accel India, Madison India and Rajeev Ch
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/up-to-152x-return-rentomojo-ipo-delivers-eye-popping-gains-to-nitish-mittersain-other-early-backers/articleshow/134307877.cms
+- Markets are waking up to the rich world’s reckless borrowing - The Economist
+  Markets are waking up to the rich world
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNUktWdnY0XzRJUGpMeWNjLV8zcm1aQVZVMDVSQkVZRElYWHRvNUJTTDRjMDBlREtBOGpObEpjSzlBaVk5eFM4LXRkazdiYmJoc0lhUFQyZzZFaEdMT1phY1R3Y19YZDBNcExoWFk5VHhXTnJDU1M3QUk3SkpZcVBtaVB1d0RkTWRvQkhXbkJkUnI2cGFoaTc3UU9XQ1NLS01vblVMMUhIZw?oc=5
 
-- TCS, Tata Chemicals, other group stocks zoom up to 14% on Tata Sons IPO nod, N Chandra’s term extension
-  Tata Sons has granted Chairman N Chandrasekaran a five-year extension. This announcement spurred a surge in several Tata group stocks, particularly Tata Chemicals and Tata Investment Corporation.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-tata-chemicals-other-group-stocks-rally-up-to-14-as-tata-sons-approves-n-chandras-tenure-extension-prepares-for-ipo/articleshow/134307500.cms
+- Markets to close at 9pm as govt reintroduces austerity measures for fuel conservation - dawn.com
+  Markets to close at 9pm as govt reintrodu
+  🔗 https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HcF9RbGVRUlF1czNZdlZBdmlJcUJZSHpsRnJqOWxmZ0JqN25GQ1cxMDIzR0s3RkNNbURsdTZWS1lBTnh5d1U3etIBTkFVX3lxTE5QTTdNU2dMb3hNR0JuZXpBNTZYeDRGU2Fwa0MxaVpqM3lrc0haYllBQS1OX3VoZXFaSWpSZjZleFcwaUhvWXRQOW1xN1F0dw?oc=5
 
-- RBI withdraws $5.2 billion via first net open market debt sale in 9 years
-  The Reserve Bank of India has taken steps to absorb liquidity from the banking sector by selling bonds worth 500 billion rupees. This strategic move included the sale of securities with maturation dates slated between fiscal 2029 and fiscal 2032.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/rbi-withdraws-5-2-billion-via-first-net-open-market-debt-sale-in-9-years/articleshow/134307114.cms
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Mid- and small-caps outperformed, with capital goods, industrial, defence, power and healthcare stocks attracting buying interest. Sensex slipped 22 points after sharp volatility during the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134316208.cms
 
-- OpenAI & Anthropic Want To Pace Frontier AI, But Who Sets The Rules?
-  In July this year, OpenAI’s models were being tested in a controlled cybersecurity environment.
-  🔗 https://inc42.com/features/openai-anthropic-want-to-pace-frontier-ai-but-who-sets-the-rules/
+- Sebi bars Kore Digital promoters over alleged Rs 541 crore revenue misstatement
+  Sebi restrained Kore Digital and three key executives. Regulator also blocked main-board migration and ordered a forensic audit of company records.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-kore-digital-promoters-over-alleged-rs-541-crore-revenue-misstatement/articleshow/134316145.cms
 
-- Practo Leadership Reshuffle: Jagnoor Singh Replaces Cofounder Shashank ND As CEO
-  Healthtech startup Practo has overhauled its top leadership, appointing former COO Jagnoor Singh as CEO. Cofounder and former CEO Shashank ND has been replaced by Singh.
-  🔗 https://inc42.com/buzz/practo-leadership-reshuffle-jagnoor-singh-replaces-cofounder-shashank-nd-as-ceo/
+- Fed builds credibility, but hawkish turn leaves investors edgy
+  The Federal Reserve has raised interest rates for the first time since 2023. The move marks a shift towards a hawkish stance on inflation management. Investors have been bracing for more potential rate increases.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-builds-credibility-but-hawkish-turn-leaves-investors-edgy/articleshow/134314932.cms
 
-- RentoMojo Makes Strong Market Debut, Lists At Nearly 19% Premium
-  Furniture and appliance rental startup RentoMojo made a strong stock market debut, with its shares listing at a premium of nearly 19%.
-  🔗 https://inc42.com/buzz/rentomojo-makes-strong-market-debut-lists-at-nearly-19-premium/
+- CoreWeave launches $3 billion convertible debt sale
+  CoreWeave is set to secure $3 billion via convertible debt offerings. In conjunction with this, they have initiated an at-the-market stock sale program to generate extra capital.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-launches-3-billion-convertible-debt-sale/articleshow/134314906.cms
 
-- Clean Label Brands Vs FSSAI, PhonePe Eyes 2027 IPO & More
-  The Clean Label Credibility Test. India’s clean-label boom is facing its toughest test yet.
-  🔗 https://inc42.com/buzz/clean-label-brands-vs-fssai-phonepe-eyes-2027-ipo-more/
-
-- Peak XV Partners Sells Groww Shares Worth ₹1,756.2 Cr
-  VC firm Peak XV Partners has sold 9.17 Cr shares of fintech major Groww in a bulk deal today.
-  🔗 https://inc42.com/buzz/peak-xv-partners-sells-groww-shares-worth-%e2%82%b91756-2-cr/
-
-- ‘Fake alert’: MEA denies reports of world leaders falling sick after BRICS Summit | India News - Hindustan Times
-  ‘Fake alert’: MEA denies reports of world leaders falling
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmw1Z3NCSi12RlItRUxFRk5OZDBMdUZSSlhCZ1pQUDF5NmNxQXpmRXM3d1RacWM4MlBTY3phWmE2OHo5S2FRMEVkRDk5NHVrMzc0NExwbHI0dC0xcElmeGdnYVo1VHVWYS1QZldaWE1tcU10SE5Cblo4SmVSRnNlSmRjdWlGWXhGS2hWcFJiWWNfaERGNm1VUGV4MUs3a3VrMUdnSUZpeW4wLXdkaFA4Ry1Fd3JQT2xhUDh6NmdrbnVJRE1rTEFwSjA5aUJDX1dyYTktTDZneXVzS1YyLWZLTmlyclFGelpuU2ROT9IB8gFBVV95cUxNdU9MU0Q0b2FXOG96Q0xWY2FadVlwLXR0Z0ZSV05GOEdaNllocFFZUG9sb0xHNDFxNTAtamlPMlBQdnZ3Z2NBWkdwdEJncF9DcXdVTnF5OVlVUERxeGV5NjEyQWtzS015SUJ4ZTVqY2JRRkc5a1RqMHJ2T0JXYUV5MXNrUURRVG9OY2dGY01rN29PbEdjUWVCRGh4X2kya2dWNDhTZDBLZG9OLWp0Z01xVGZrcXF2WXlHYVM3T0piNGhWS1RfZERmVmRkTDBJcXFRNi04dUxHMWhRLXo3QTQyc0JxenpxVUhhZzhOOTk2aFgwdw?oc=5
+- US stocks today: US stocks rise as oil prices ease pressure after Fed rate hike
+  US stocks advanced on Thursday following a decline in oil prices. Federal Reserve's recent interest rate hike also influenced market movements. Technology stocks regained some of their earlier losses during the trading session.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-easing-oil-prices-boost-fed-hike-relief/articleshow/134313818.cms
 
 - U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others - The Hindu
   U.S. House passes Russia sanctions bill seeking to impose up to 100
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
 
-- India warns new US tariffs over Russian oil could impact ties - Al Jazeera
-  India warns new US tariffs over Russian oil could impact
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMl9PcjVlYklaOEduZmFaQTc4UTYydWlqdzRhWkI5SGl6YTl5blRoY042TWJidktWNDFfTmo1NHFTYU1MVVVVSXozUkVMcWVWRWZBTExJZzVhZ2hzeGJTNFBDdjZ1YzZ5cHdsRFc5T1U5WDlZdDduUE01MmMyTkZyQ3U2ZDFGb0Yya1I5U0FINW5xMzNOOUhnbVByU054WmNjYjFqZ9IBqgFBVV95cUxNQURNRGtuanJNa3FsVEZWdWJHT1BuQTN2NUJVVm11RUFnemZfbDlnN2h0NFFUU2l4dWNYNGduSGtQV28wYUQ1X3l3cGl6NU9BVFU1WXRlMl9uMDQzOU0wVzdGR3JKVHA4TzB3dW03TXpmZ2JKTFJlbzRzZU9EWGcyTEQ3djdFWFBQeHRab2duTlRfcUxWbjBZWm1oa3BBa0xBeVR4ZlJCWkhJQQ?oc=5
+- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
+  "Will Protect Trade, Economic Interests":
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
 
-- India faces 100% tariff threat over Russian oil after US House vote - BBC
-  India faces 100% tariff threat over Russian oil after
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5
+- Congress says U.S. law on Russian oil purchase is an ‘affront’ to India’s sovereignty - The Hindu
+  Congress says U.S. law on Russian oil purchase is an
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFJtaTBZcXBrZkIwSndmajZnRExYOVZmS2dzUk5ENGlaeEcyVWV1ODhVb2QyaHZ1SXZubFAtSWd0bjNsR1U1WnRKbVhEUVhaRlM3VkJFb3J5am11Z2UwX1ZBYjluUUlreGdQNDA3T1J5NVZ3eXFGNlBoeWNfUExaN3o4R0s2WEJLUGRaSThjVlA5d2pscGduRU9ldXlENDUyUFR6NVZYemtFN0xLMTAyX2dJd2wtMlN5NjI1X0cwVjFBaWloMWxDanJCX09TUzNqeW9FR3pn0gHcAUFVX3lxTE8xZzNMVGwwbzRxLTFPNTBDdl93SExKaTFkelVCQWlCNjdhZ0gyWjFURWRhdkFRdnp2WnNyaHh5ZVYzLXVlN0tvVzZMOGd5ZlpqMlN0bnZaQm94OF9IWXgwR0VvbEZIcjFqTUVEYVpuMnE0cmhiYlI3azFEaVdLcGtzUXBHYUZXeW1PY21kOEV3Q0RIRktLUGVWZ2lpay1BSG1GcVBKU1pSRzRhUldUcnVySDhfSXRlbHFrN01SaW1FQ1FuMTVIemJLdDhMVC11WGlLUzdOSGVweXhjOUk?oc=5
 
-- 510 NCC cadets from across south India trek Tirumala hills in eight-day AP TREK-I expedition at Tirupati - The Hindu
-  510 NCC cadets from across south India trek Tirumala hills in eight
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNdC1JcG5fNUhYclJNTlZSbnNjR09tMjVza3pkQ3R0MWQ1emRDZXVvMndWR3praDE3eXpJU2FYcC1QUGFPU2FxNTIzY3V1QTBvNkJpQ2ZHbDA5TmJHalowYnAxN1RhUUMyeHlQTnZhX0tiSGNYdWdBR2JPLUZVZlJhNWRfM2hpR0FLaml6cVpZZ0p2cmY4aEdVYTM5dmhZejBkYnllYkJCZ3A3LVFNSmQtdDRSblpqYjJLUGhXOGgtUGVJd1JJVWFkckVsbzV2OElvZjVTYXJ4SEV2VE1VcVVldnRUMHZ2RjV0azhCcXRKV2JVcllEdDZmQ0RJT2hkVU52bHhUb0xoTVJkUdIBkAJBVV95cUxNdTRidkJIRkN3YlZwU0NJSFVSOHVzNG9nVERUVVpSdHVMckVrMDhBQnJqYWozcXJEcUN5YVBwVjdrQ3JwdnZydDVIcFBwNVRQYmVFWDJ5aldkRDhsVk9fZFN0aDEzZndNRlNmaGlOa19uZGVIOXMxN3JLRC0wMmxienl5MzROeVN6M2dzNGtFbDVYRWxmVnZJNVNKVnViNm9FUURQQ2d4UTI4VmFNNTdXVXg5UTZuRWVBbE1VUWI1VEtSWkNibHVBQVR1SG0wMy1FalNHejRlcndDX0dNd0w4RVVaYm1VUkRJQ3pzZXVVcURvMVdEb2dtSXY5cFh2cFFuUTRSbHVNb2dySVdCbERMcg?oc=5
-
-- ‘Fake alert’: MEA denies reports of world leaders falling sick after BRICS Summit | India News - Hindustan Times
-  ‘Fake alert’: MEA denies reports of world leaders falling
+- ‘Fake alert’: MEA denies reports of world leaders falling sick after BRICS Summit | India News - hindustantimes.com
+  ‘Fake alert’: MEA denies reports of world leaders
   🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmw1Z3NCSi12RlItRUxFRk5OZDBMdUZSSlhCZ1pQUDF5NmNxQXpmRXM3d1RacWM4MlBTY3phWmE2OHo5S2FRMEVkRDk5NHVrMzc0NExwbHI0dC0xcElmeGdnYVo1VHVWYS1QZldaWE1tcU10SE5Cblo4SmVSRnNlSmRjdWlGWXhGS2hWcFJiWWNfaERGNm1VUGV4MUs3a3VrMUdnSUZpeW4wLXdkaFA4Ry1Fd3JQT2xhUDh6NmdrbnVJRE1rTEFwSjA5aUJDX1dyYTktTDZneXVzS1YyLWZLTmlyclFGelpuU2ROT9IB8gFBVV95cUxNdU9MU0Q0b2FXOG96Q0xWY2FadVlwLXR0Z0ZSV05GOEdaNllocFFZUG9sb0xHNDFxNTAtamlPMlBQdnZ3Z2NBWkdwdEJncF9DcXdVTnF5OVlVUERxeGV5NjEyQWtzS015SUJ4ZTVqY2JRRkc5a1RqMHJ2T0JXYUV5MXNrUURRVG9OY2dGY01rN29PbEdjUWVCRGh4X2kya2dWNDhTZDBLZG9OLWp0Z01xVGZrcXF2WXlHYVM3T0piNGhWS1RfZERmVmRkTDBJcXFRNi04dUxHMWhRLXo3QTQyc0JxenpxVUhhZzhOOTk2aFgwdw?oc=5
+
+- Why Noel Tata Is Opposing N Chandrasekaran's Return As Tata Sons Chairman - NDTV
+  N Chandrasekaran's return as Tata Sons
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2d6cEx6ZEszWEZPbWgwMVNCdVJZaDZ3RndYMHhuN0pYR3VOY1VDa3ZadkpRNk5tdkxWYVV5QnpEYmRBcW9nQlF6UlRTM2pJcVpmZVlKUlR4V3gxX05DVjU0dFFKUTlFUFU4YUlqaXFRRDA5TUo4T0NlY2lBXzRYSjdHQzZfdHFDUGdhVG5iNS1kYVdIczFKNnpkZS1XUzRuMXd2N1Iwd2pvVEIybC01bdIBuAFBVV95cUxQNVRQMnZubkh4b0hVcXdpLTVyNjNwN25GWWFUbjdyQlpIR21RZjZxRnNjV0pHOXNNcTFCd29CN1Z4bG9XbnRyMXhqck5vVEsybDMwblJNeGZwM0NKMlZvOHdjVXBZZGRZT2JjYS1XR2tja1B2aUVsTmhXRGdnQW4zNnVzdjMwU250c0lveWFoNlN6cTdqSlZrYVk1SkZQd3JRRXNnUmFELVZqbjZrSVJRZ3FNd1lqbjhF?oc=5
+
+- MDR On UPI Is Here, But Who Foots The Bill?
+  UPI is one of the cheapest ways for Indian merchants to collect digital payments.
+  🔗 https://inc42.com/features/mdr-on-upi-is-here-but-who-foots-the-bill/
+
+- SEBI Greenlights Kuku Technologies’ ₹3,500 Cr IPO
+  Markets regulator SEBI has greenlit the proposed listing of audio OTT startup Kuku Technologies.
+  🔗 https://inc42.com/buzz/sebi-greenlights-kuku-fms-%e2%82%b93500-cr-ipo/
+
+- Bombay Shaving Company Revises ‘Switch4’ Ad Post Delhi High Court Direction
+  Bombay Shaving Company (BSC) founder Shantanu Deshpande said the company has revised its Switch4 advertisement.
+  🔗 https://inc42.com/buzz/bombay-shaving-company-revises-switch4-ad-post-delhi-high-court-direction/
+
+- DealShare Hunts For One Last Deal, Will It Find Any Takers?
+  “DealShare is today an empty vessel with $90 Mn in cash,” an investor who is aware of the company says.
+  🔗 https://inc42.com/features/dealshare-hunts-for-one-last-deal-will-it-find-any-takers/
+
+- India Gets ₹1 Lakh Cr Investment Commitments Under Semicon 2.0: Vaishnaw
+  Under the recently approved Semicon 2.0 mission, the Central government is seeing investment commitments worth approximately ₹1 Lakh Cr.
+  🔗 https://inc42.com/buzz/india-gets-%e2%82%b91-lakh-cr-investment-commitments-under-semicon-2-0-vaishnaw/
 
 - U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others - The Hindu
   U.S. House passes Russia sanctions bill seeking to impose up to 100
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
 
-- India warns new US tariffs over Russian oil could impact ties - Al Jazeera
-  India warns new US tariffs over Russian oil could impact
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMl9PcjVlYklaOEduZmFaQTc4UTYydWlqdzRhWkI5SGl6YTl5blRoY042TWJidktWNDFfTmo1NHFTYU1MVVVVSXozUkVMcWVWRWZBTExJZzVhZ2hzeGJTNFBDdjZ1YzZ5cHdsRFc5T1U5WDlZdDduUE01MmMyTkZyQ3U2ZDFGb0Yya1I5U0FINW5xMzNOOUhnbVByU054WmNjYjFqZ9IBqgFBVV95cUxNQURNRGtuanJNa3FsVEZWdWJHT1BuQTN2NUJVVm11RUFnemZfbDlnN2h0NFFUU2l4dWNYNGduSGtQV28wYUQ1X3l3cGl6NU9BVFU1WXRlMl9uMDQzOU0wVzdGR3JKVHA4TzB3dW03TXpmZ2JKTFJlbzRzZU9EWGcyTEQ3djdFWFBQeHRab2duTlRfcUxWbjBZWm1oa3BBa0xBeVR4ZlJCWkhJQQ?oc=5
+- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
+  "Will Protect Trade, Economic Interests":
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
 
-- India faces 100% tariff threat over Russian oil after US House vote - BBC
-  India faces 100% tariff threat over Russian oil after
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5
+- Congress says U.S. law on Russian oil purchase is an ‘affront’ to India’s sovereignty - The Hindu
+  Congress says U.S. law on Russian oil purchase is an
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFJtaTBZcXBrZkIwSndmajZnRExYOVZmS2dzUk5ENGlaeEcyVWV1ODhVb2QyaHZ1SXZubFAtSWd0bjNsR1U1WnRKbVhEUVhaRlM3VkJFb3J5am11Z2UwX1ZBYjluUUlreGdQNDA3T1J5NVZ3eXFGNlBoeWNfUExaN3o4R0s2WEJLUGRaSThjVlA5d2pscGduRU9ldXlENDUyUFR6NVZYemtFN0xLMTAyX2dJd2wtMlN5NjI1X0cwVjFBaWloMWxDanJCX09TUzNqeW9FR3pn0gHcAUFVX3lxTE8xZzNMVGwwbzRxLTFPNTBDdl93SExKaTFkelVCQWlCNjdhZ0gyWjFURWRhdkFRdnp2WnNyaHh5ZVYzLXVlN0tvVzZMOGd5ZlpqMlN0bnZaQm94OF9IWXgwR0VvbEZIcjFqTUVEYVpuMnE0cmhiYlI3azFEaVdLcGtzUXBHYUZXeW1PY21kOEV3Q0RIRktLUGVWZ2lpay1BSG1GcVBKU1pSRzRhUldUcnVySDhfSXRlbHFrN01SaW1FQ1FuMTVIemJLdDhMVC11WGlLUzdOSGVweXhjOUk?oc=5
 
-- 510 NCC cadets from across south India trek Tirumala hills in eight-day AP TREK-I expedition at Tirupati - The Hindu
-  510 NCC cadets from across south India trek Tirumala hills in eight
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNdC1JcG5fNUhYclJNTlZSbnNjR09tMjVza3pkQ3R0MWQ1emRDZXVvMndWR3praDE3eXpJU2FYcC1QUGFPU2FxNTIzY3V1QTBvNkJpQ2ZHbDA5TmJHalowYnAxN1RhUUMyeHlQTnZhX0tiSGNYdWdBR2JPLUZVZlJhNWRfM2hpR0FLaml6cVpZZ0p2cmY4aEdVYTM5dmhZejBkYnllYkJCZ3A3LVFNSmQtdDRSblpqYjJLUGhXOGgtUGVJd1JJVWFkckVsbzV2OElvZjVTYXJ4SEV2VE1VcVVldnRUMHZ2RjV0azhCcXRKV2JVcllEdDZmQ0RJT2hkVU52bHhUb0xoTVJkUdIBkAJBVV95cUxNdTRidkJIRkN3YlZwU0NJSFVSOHVzNG9nVERUVVpSdHVMckVrMDhBQnJqYWozcXJEcUN5YVBwVjdrQ3JwdnZydDVIcFBwNVRQYmVFWDJ5aldkRDhsVk9fZFN0aDEzZndNRlNmaGlOa19uZGVIOXMxN3JLRC0wMmxienl5MzROeVN6M2dzNGtFbDVYRWxmVnZJNVNKVnViNm9FUURQQ2d4UTI4VmFNNTdXVXg5UTZuRWVBbE1VUWI1VEtSWkNibHVBQVR1SG0wMy1FalNHejRlcndDX0dNd0w4RVVaYm1VUkRJQ3pzZXVVcURvMVdEb2dtSXY5cFh2cFFuUTRSbHVNb2dySVdCbERMcg?oc=5
+- ‘Fake alert’: MEA denies reports of world leaders falling sick after BRICS Summit | India News - hindustantimes.com
+  ‘Fake alert’: MEA denies reports of world leaders
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmw1Z3NCSi12RlItRUxFRk5OZDBMdUZSSlhCZ1pQUDF5NmNxQXpmRXM3d1RacWM4MlBTY3phWmE2OHo5S2FRMEVkRDk5NHVrMzc0NExwbHI0dC0xcElmeGdnYVo1VHVWYS1QZldaWE1tcU10SE5Cblo4SmVSRnNlSmRjdWlGWXhGS2hWcFJiWWNfaERGNm1VUGV4MUs3a3VrMUdnSUZpeW4wLXdkaFA4Ry1Fd3JQT2xhUDh6NmdrbnVJRE1rTEFwSjA5aUJDX1dyYTktTDZneXVzS1YyLWZLTmlyclFGelpuU2ROT9IB8gFBVV95cUxNdU9MU0Q0b2FXOG96Q0xWY2FadVlwLXR0Z0ZSV05GOEdaNllocFFZUG9sb0xHNDFxNTAtamlPMlBQdnZ3Z2NBWkdwdEJncF9DcXdVTnF5OVlVUERxeGV5NjEyQWtzS015SUJ4ZTVqY2JRRkc5a1RqMHJ2T0JXYUV5MXNrUURRVG9OY2dGY01rN29PbEdjUWVCRGh4X2kya2dWNDhTZDBLZG9OLWp0Z01xVGZrcXF2WXlHYVM3T0piNGhWS1RfZERmVmRkTDBJcXFRNi04dUxHMWhRLXo3QTQyc0JxenpxVUhhZzhOOTk2aFgwdw?oc=5
+
+- Why Noel Tata Is Opposing N Chandrasekaran's Return As Tata Sons Chairman - NDTV
+  N Chandrasekaran's return as Tata Sons
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2d6cEx6ZEszWEZPbWgwMVNCdVJZaDZ3RndYMHhuN0pYR3VOY1VDa3ZadkpRNk5tdkxWYVV5QnpEYmRBcW9nQlF6UlRTM2pJcVpmZVlKUlR4V3gxX05DVjU0dFFKUTlFUFU4YUlqaXFRRDA5TUo4T0NlY2lBXzRYSjdHQzZfdHFDUGdhVG5iNS1kYVdIczFKNnpkZS1XUzRuMXd2N1Iwd2pvVEIybC01bdIBuAFBVV95cUxQNVRQMnZubkh4b0hVcXdpLTVyNjNwN25GWWFUbjdyQlpIR21RZjZxRnNjV0pHOXNNcTFCd29CN1Z4bG9XbnRyMXhqck5vVEsybDMwblJNeGZwM0NKMlZvOHdjVXBZZGRZT2JjYS1XR2tja1B2aUVsTmhXRGdnQW4zNnVzdjMwU250c0lveWFoNlN6cTdqSlZrYVk1SkZQd3JRRXNnUmFELVZqbjZrSVJRZ3FNd1lqbjhF?oc=5
+
+- U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others - The Hindu
+  U.S. House passes Russia sanctions bill seeking to impose up to 100
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
+
+- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
+  "Will Protect Trade, Economic Interests":
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
+
+- Congress says U.S. law on Russian oil purchase is an ‘affront’ to India’s sovereignty - The Hindu
+  Congress says U.S. law on Russian oil purchase is an
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFJtaTBZcXBrZkIwSndmajZnRExYOVZmS2dzUk5ENGlaeEcyVWV1ODhVb2QyaHZ1SXZubFAtSWd0bjNsR1U1WnRKbVhEUVhaRlM3VkJFb3J5am11Z2UwX1ZBYjluUUlreGdQNDA3T1J5NVZ3eXFGNlBoeWNfUExaN3o4R0s2WEJLUGRaSThjVlA5d2pscGduRU9ldXlENDUyUFR6NVZYemtFN0xLMTAyX2dJd2wtMlN5NjI1X0cwVjFBaWloMWxDanJCX09TUzNqeW9FR3pn0gHcAUFVX3lxTE8xZzNMVGwwbzRxLTFPNTBDdl93SExKaTFkelVCQWlCNjdhZ0gyWjFURWRhdkFRdnp2WnNyaHh5ZVYzLXVlN0tvVzZMOGd5ZlpqMlN0bnZaQm94OF9IWXgwR0VvbEZIcjFqTUVEYVpuMnE0cmhiYlI3azFEaVdLcGtzUXBHYUZXeW1PY21kOEV3Q0RIRktLUGVWZ2lpay1BSG1GcVBKU1pSRzRhUldUcnVySDhfSXRlbHFrN01SaW1FQ1FuMTVIemJLdDhMVC11WGlLUzdOSGVweXhjOUk?oc=5
+
+- ‘Fake alert’: MEA denies reports of world leaders falling sick after BRICS Summit | India News - hindustantimes.com
+  ‘Fake alert’: MEA denies reports of world leaders
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmw1Z3NCSi12RlItRUxFRk5OZDBMdUZSSlhCZ1pQUDF5NmNxQXpmRXM3d1RacWM4MlBTY3phWmE2OHo5S2FRMEVkRDk5NHVrMzc0NExwbHI0dC0xcElmeGdnYVo1VHVWYS1QZldaWE1tcU10SE5Cblo4SmVSRnNlSmRjdWlGWXhGS2hWcFJiWWNfaERGNm1VUGV4MUs3a3VrMUdnSUZpeW4wLXdkaFA4Ry1Fd3JQT2xhUDh6NmdrbnVJRE1rTEFwSjA5aUJDX1dyYTktTDZneXVzS1YyLWZLTmlyclFGelpuU2ROT9IB8gFBVV95cUxNdU9MU0Q0b2FXOG96Q0xWY2FadVlwLXR0Z0ZSV05GOEdaNllocFFZUG9sb0xHNDFxNTAtamlPMlBQdnZ3Z2NBWkdwdEJncF9DcXdVTnF5OVlVUERxeGV5NjEyQWtzS015SUJ4ZTVqY2JRRkc5a1RqMHJ2T0JXYUV5MXNrUURRVG9OY2dGY01rN29PbEdjUWVCRGh4X2kya2dWNDhTZDBLZG9OLWp0Z01xVGZrcXF2WXlHYVM3T0piNGhWS1RfZERmVmRkTDBJcXFRNi04dUxHMWhRLXo3QTQyc0JxenpxVUhhZzhOOTk2aFgwdw?oc=5
+
+- Why Noel Tata Is Opposing N Chandrasekaran's Return As Tata Sons Chairman - NDTV
+  N Chandrasekaran's return as Tata Sons
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2d6cEx6ZEszWEZPbWgwMVNCdVJZaDZ3RndYMHhuN0pYR3VOY1VDa3ZadkpRNk5tdkxWYVV5QnpEYmRBcW9nQlF6UlRTM2pJcVpmZVlKUlR4V3gxX05DVjU0dFFKUTlFUFU4YUlqaXFRRDA5TUo4T0NlY2lBXzRYSjdHQzZfdHFDUGdhVG5iNS1kYVdIczFKNnpkZS1XUzRuMXd2N1Iwd2pvVEIybC01bdIBuAFBVV95cUxQNVRQMnZubkh4b0hVcXdpLTVyNjNwN25GWWFUbjdyQlpIR21RZjZxRnNjV0pHOXNNcTFCd29CN1Z4bG9XbnRyMXhqck5vVEsybDMwblJNeGZwM0NKMlZvOHdjVXBZZGRZT2JjYS1XR2tja1B2aUVsTmhXRGdnQW4zNnVzdjMwU250c0lveWFoNlN6cTdqSlZrYVk1SkZQd3JRRXNnUmFELVZqbjZrSVJRZ3FNd1lqbjhF?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-17 10:59:42 UTC_
+_Last updated: 2026-09-17 16:09:05 UTC_
