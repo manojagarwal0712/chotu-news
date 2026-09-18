@@ -4,41 +4,49 @@
   U.S. House passes Russia sanctions Bill seeking to impose up to 100
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
 
-- India warns new US tariffs over Russian oil could impact ties - Al Jazeera
-  India warns new US tariffs over Russian oil could impact
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMl9PcjVlYklaOEduZmFaQTc4UTYydWlqdzRhWkI5SGl6YTl5blRoY042TWJidktWNDFfTmo1NHFTYU1MVVVVSXozUkVMcWVWRWZBTExJZzVhZ2hzeGJTNFBDdjZ1YzZ5cHdsRFc5T1U5WDlZdDduUE01MmMyTkZyQ3U2ZDFGb0Yya1I5U0FINW5xMzNOOUhnbVByU054WmNjYjFqZ9IBqgFBVV95cUxNQURNRGtuanJNa3FsVEZWdWJHT1BuQTN2NUJVVm11RUFnemZfbDlnN2h0NFFUU2l4dWNYNGduSGtQV28wYUQ1X3l3cGl6NU9BVFU1WXRlMl9uMDQzOU0wVzdGR3JKVHA4TzB3dW03TXpmZ2JKTFJlbzRzZU9EWGcyTEQ3djdFWFBQeHRab2duTlRfcUxWbjBZWm1oa3BBa0xBeVR4ZlJCWkhJQQ?oc=5
+- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
+  "Will Protect Trade, Economic Interests":
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
 
 - India faces 100% tariff threat over Russian oil after US House vote - BBC
   India faces 100% tariff threat over Russian oil after
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5
 
-- India Sends 47 Lakh Litres Of Diesel To Bangladesh via Friendship Pipeline - NDTV
-  India Sends 47 Lakh Litres Of Diesel
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
+- El Niño puts India on track for its driest monsoon since 2009 - The Economic Times
+  El Niño puts India on track for its driest monsoon
+  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxNNUV3Y0JjUHpwdUdCZXA1bGpqTnRWdWF3VExLeE5McWpJeUkzNWNMM0J5dFN0a0RGZEJTam9Kd3c3MVBCdmNSR3dSRzhSWUx5Q0JHS0tFbHhOOHlvT01YRXdCemlnR1hHUmw2aG5reWNhb3c1cFFYX3ZmQnhZWjBuUjh0YnMtVmhoTnRLaFlyX3I2SzJubnc1VkNDVjhORXJqZGhWdlhvZEhXa1lxV3VjZWRxb054X1Y0MGQ0dU9IU3pMQ2R1Zm9zX21wM3VIdEdKSE9TLWIyRmkzN3dPQ05SZnFtOFBNRlBWZnJLbnk5U096U0tUZ3VoUU90RGNhRmRvWERYdzBmLWZWRWN0VEJZMkdKWDZraHp0THdEMnFqbUs4SUFRclhjTDlJTm8?oc=5
 
-- 2 Jaish terrorists killed in Udhampur - The Times of India
-  2 Jaish terrorists killed in U
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTTRVMjNCSjRQWHdQSy12eFlpZ3oxZkNteHltYmdZdzhDZGx0RjZiai1CaEtveDU0ZS0yVzFuZjZlQ3hGZzVzdEt1enhWOU1wWW5wY0EyQmZUdDJ6YlAzTVRmNnRFTi16RWs5VEl5V0NGY3E5QndZd3FUNVJKOTA3cmtQRHExYTlsNXlMUGgtZmJCR0tjMVJpMGhIUUlfTE8tYThqMUZmTGLSAa4BQVVfeXFMTlNlYnFpQnRweHFyQ3FoWTBWNnlpMmFIaW0xcUdHQmlIYmRLTTk5cUJoWEM4QTBlNHZrZG1tZzNVNmdEUzNnQ3ZhSEItSXdUMmpxRUZJWmdFV2p3d0xLQWRjNjFybjRCRlBXSG5FaF9mU2FEd0wyTlRxY044SzVvUUhZSGtSV3BBamJMWmFrbmtsMzR6MmowMWc0ajBGLW0ya1ZPMW00VzBwZDlwZ3Bn?oc=5
+- Nepal asks India to support reconstruction after floods — Kathmandu Post - UA.NEWS
+  Nepal asks India to support reconstruction after
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZYSTNmTGxmVXZFd2tmbDVVZTBiSXJGNmdmUWV3dXNxNmlfeXlBUjNXVHo2TGEyYk5MVWJKUldvd0plTVY2TTJLajlDXzE0UUNmd1d0LVFUb0NnQldoVTlncXBNSnFHLW5JUzdFY3hzdk4wWFd6Vld5UXUzVXdndkRibFBySnI2MUdwYVgyM21ZRUVMeUo3cS1Wd0hrQQ?oc=5
 
-- OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - nytimes.com
-  OpenAI Discloses Six New
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5
-
-- King Charles opens AI summit with plea to get a grip on technology ‘before it’s too late’ - cnn.com
-  King Charles opens AI summit with plea to get a grip on technology.
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1kek5KMkc2M2hlNk5mX0p6THNNN0VfUlR0VGNmSklGTzJRSW1sV05OWGUtVW1LVmNZTk1uUDBLZlBoNi1YMEJDZVlWTTZGaEJ6SDlWVzRsVjlRWnpvRHI2UEtMeVV6WUFGSFlEM1VpbjI?oc=5
+- OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system - The Guardian
+  OpenAI reveals cases of ‘concerning’ AI
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2xHb1VzUHk1ZUZJTWhQOXdsM0RKOXduMDI2a29fN3RmTFhTX3VIVGdyZmhaQWZsWTJzbG9hZUkwVGhrMGNiMTh6VjEwNWp4SlJSR1hsMTYxUXFOSDdDZDlJUWxza1NQZi1XbzRRd1RuYUloRHV4OHhYVDRnS1BkaGJWYTk5T0JjRzBDeGpqMFhRWjZLOEtPeUY0blRTSEtabTNoTDJJRUtqSzE5M3FCZHZaTElWVVhOaGZOT09GNHM?oc=5
 
 - King Charles warns of 'existential danger' of AI falling into wrong hands - BBC
   King Charles warns of 'existential danger' of
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpUERUTFlJcVdzQ29mV3ZQQ3F4LXVlVUxCMzYxSFdzLVZoZ2REOUgwVjFtRFJrMWJJWlR1empqVHJfTDVCaGtJaFJrRDg4cWo4STBYalo5ZDE4Sms?oc=5
 
-- King Charles warns AI leaders of existential risks if technology falls into wrong hands - Reuters
-  King Charles warns AI leaders of existential risks if technology falls into
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3VtbUd4TWFBZFhmZHZMYXZuV0E3NUZoZzZ2LUtOWE00UHpmVkVObEhmOENPS2IzN0J6dkZYZlYxYXFQcExiTEZSSXd1WkUtV3lvX2xQaDZFYzUxQS1aeERURmtaT2RpTE42U1RKYlc2ZndZSHFNU0IzZUwwd3ZRTk9wQy1xTmQtcXlDUDBJUS05RHBwUk8wakpkX19tUkpjSklDcldBMktQM29sUFZjS2hPSFdxQnRLU0FpaDd2SC1pZC1sQ0dfaG5aY3NEcHQwYjM0?oc=5
+- Mineral extraction to metals production: India’s technology pivot for competitiveness - kpmg.com
+  The Indian government is looking to
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGdVYW9tQ1ZBNTVISjRvWkxkWXlWcTdIQWRQVzVGazJnVlhEaVFTUnlIc2pEbzNEdWMxOXBZVHBBcS1tMFFFRlo5cW81OGJ4WU1WV3Z2NGMyNkxMb1hIQTBtOHd3QWVGcGJ5eWZBeFJEMTZQY0ZFOFh3bi1WSjQzS3EyUVBQWHF2TkNOaHVJWHZtTFFVRWtlbFk2Z0hhTDdtZk1jYUU0em5DNHJON2FPSDRuQmRtdUpYWTV0ckt2cWJpcDUtaFg0?oc=5
 
-- Albanese government considers ‘world-leading’ ban on smart glasses in public offices and buildings - The Guardian
-  Albanese government considers ‘world-leading’
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSXN2MmxBaXBWWjhqU2pnSHdXdTgxVmI2SUhSYm5PeWM4T2ZCZ25kaHBLalJUSWc4am1Genh0TlpJVG5JVmdWVEhLSGJBZHQ4QXl3M2VMRFN6amMzaXFHUnVBLXBJTXo2MlpXUFEzaXdWTFhYNXJHbkdhaHQ2X0JuV01EelNBSzNOOFItZGlvNHlCRXZzYUd0NFprWGVaT3o1OUdHWkFGUkEyNmNjOFI4cDJnWUtjQmJIZ0E4LWVPYTFXMlFzYW5JUy1lQ24xOERLbUcyTzI2RzdkS1VralFj?oc=5
+- AIIMS transfers AI-based mammography technology to BPL Technologies - ThePrint
+  AIIMS transfers AI-
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1ctR0s3dG43TkpCOU5Ya0FHeFZqM1BuTUZOZGtOaUtNMkFhZ19jZy1MTWJ4MnB5ellUTW5UQkNFaWp6d1hXVmpTNW03REhVa0Q1QTVNa0prek9NeUxqWEVjOTBRZ0tDTGVQa01DZUgzVENQNlFWYWwwaGZ3UVJ4TVBWVlRnd0ZqWFRjNDFMMHVHRVN6Rzc1RE93UVhtelJmYkVOLdIBqgFBVV95cUxNbjlndU41RWpBOXVsTGl5SnpZTnVnbWNabnRIcUxxNnlLUC1lR1VQMllEaFVNQ3R2Y2JrOF9RdEhkZXhFTlBocG1OMVZtTVQwZ0pZV2xJR3lKX0g5SEwzN1o1dHJzWU4tZ3RDTTVzb29qY0cyb0h3MXVaUDRKMFlyaXlxNXlFX3dLYkFQMlJ0eVNqbDJadHBFOWVpSzdJek9keTV3Mk5mOGZBdw?oc=5
+
+- Adidas cuts jobs in India technology team - Reuters
+  Adidas cuts jobs in
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1NiMlFJUXFTSm9DR0lVSU54WlNlU28yMEFpc2hOWXlQZDRsMUYyR29uZldtVWF4aFRsUDB6bF9RanY0aUE2dl9Nb0t5V2xDQnhYLUw0T3VoNzY5UzhDMW1nQzlLeUVFNjhDZk50OXYyeE1KaFNfSERSaW91MEtfM2lvcGRWcktnQVdOX0JzUQ?oc=5
+
+- Ammann betting on India as global manufacturing and export hub: CEO Schneider
+  Swiss road-equipment maker aims to expand exports from its Gujarat plant to Europe, emerging markets and potentially the US.
+  🔗 https://www.livemint.com/companies/news/ammann-betting-on-india-as-global-manufacturing-and-export-hub-swiss-road-equipment-maker-hans-christian-schneider-11789640034750.html
+
+- Noel Tata outvoted as Tata Sons board backs IPO and Chandrasekaran extension
+  Noel Tata submitted his written statement to be included in the meeting records
+  🔗 https://www.livemint.com/companies/news/tata-sons-chairman-natarajan-chandrasekaran-noel-tata-trusts-tata-sons-ipo-listing-11789651170924.html
 
 - Putin Signs Decree to Seize Control of Nestle Assets in Russia
   Russia seized control of the local assets of Swiss food giant Nestle SA and French supermarket chain Auchan.
@@ -52,113 +60,105 @@
   Greenbase 2.0 will develop 5 million sq. ft across 215 acres
   🔗 https://www.livemint.com/companies/news/hiranandani-goes-solo-with-industrial-platform-greenbase-2-0-expansion-warehousing-logistics-acquisition-11789648884521.html
 
-- The six people sitting on the board of Tata Sons
-  Tata Sons is the holding Tata Group company commanding India's largest conglomerate
-  🔗 https://www.livemint.com/companies/the-six-people-sitting-on-the-board-of-tata-sons-11789655006347.html
+- October Fed hike possible, but Warsh may hesitate before mid-terms, says Standard Chartered's Englander
+  Standard Chartered’s Steve Englander expects one more US rate hike this year. He sees the RBI raising rates by 50 bps
+  🔗 https://www.livemint.com/market/mark-to-market/october-fed-hike-possible-but-warsh-may-hesitate-before-mid-terms-says-standard-chartereds-steve-englander-11789641227405.html
 
-- Noel Tata threatens to veto Tata Sons listing, wants three-year window from RBI
-  Noel Tata said Chandrasekaran had assured the board in September 2025 and February 2026 that the company was taking all necessary steps to keep it private.
-  🔗 https://www.livemint.com/companies/news/noel-tata-tata-sons-ipo-listing-rbi-tata-trusts-11789655138356.html
+- Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy
+  The Indian stock market is expected to open quietly on September 18, following mixed global cues. Analysts suggest monitoring key resistance and support levels as geopolitical concerns persist.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-sensex-nifty-50-crude-oil-and-gold-eight-stocks-to-buy-11789693227632.html
 
-- Treasuries Gain as Oil Retreat Shores Up Confidence in Warsh Fed
-  US Treasuries rose as oil price declines and gains for UK government bonds reinforced improving sentiment after the Federal Reserve
-  🔗 https://www.livemint.com/market/treasuries-gain-as-oil-retreat-shores-up-confidence-in-warsh-fed-11789674560152.html
+- Chandan Taparia of Motilal Oswal recommends 3 stocks to buy: Laurus Labs, BHEL, HDFC Life; check stop-loss, target price
+  The Indian stock market is set to open flat on September 18, with mixed global cues. Nifty 50 is staying within a range, while Bank N
+  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-18-september-2026-11789691542699.html
 
-- World stocks rebound, Treasury yields retreat after Fed, BoE decisions
-  World stocks rebound, Treasury yields retreat after Fed
-  🔗 https://www.livemint.com/market/world-stocks-rebound-treasury-yields-retreat-after-fed-boe-decisions-11789672358825.html
+- Mutual funds are avoiding big trades in India's new closing auction — here's why
+  Mutual funds are limiting the trades they route through the auction. They prefer transactions where an adverse execution price would have a
+  🔗 https://www.livemint.com/market/closing-auction-session-impact-mutual-fund-11789629779208.html
 
-- US yields ease with oil prices, profit-taking
-  TREASURIES
-  🔗 https://www.livemint.com/market/us-yields-ease-with-oil-prices-profittaking-11789671806169.html
+- Fed hike tests domestic muscle. Can markets hold the line?
+  DIIs bought in all 10 previous Fed rate-hike months marked by foreign selling. Nifty fell
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-impact-india-stock-market-sensex-nifty-11789636477904.html
 
-- JP Morgan Analysts Unsure How to Model Oil as Iran War Drags On
-  The path to the end of the Iran war is increasingly impossible to predict, JPMorgan Chase &amp; Co. analysts say.
-  🔗 https://www.livemint.com/market/jp-morgan-analysts-unsure-how-to-model-oil-as-iran-war-drags-on-11789670394518.html
+- Anthropic flags AI systems self-improvement; bats for greater transparency in development of models
+  Anthropic has laid out a framework for rules on how a frontier lab could ensure the release of safe
+  🔗 https://www.livemint.com/technology/anthropic-flags-ai-systems-self-improvement-bats-for-greater-transparency-in-development-of-models-11789693559990.html
 
-- Rentomojo, Kanohar Electricals: Both IPOs make strong debut after stellar subscription; how shares performed
-  Rentomojo and Kanohar Electricals debuted on the Indian stock market this week. Both IPOs attracted significant investor interest.
-  🔗 https://www.livemint.com/market/stock-market-news/rentomojo-kanohar-electricals-both-ipos-make-strong-debut-after-stellar-subscription-how-shares-performed-11789665278165.html
+- OpenAI flags concerning new AI behavior and vows to track it more closely
+  OpenAI flags concerning new AI behavior and
+  🔗 https://www.livemint.com/technology/openai-flags-concerning-new-ai-behavior-and-vows-to-track-it-more-closely-11789685946106.html
+
+- Anthropic says Claude now leads a quarter of work building its next AI models
+  Anthropic says Claude now leads a quarter of
+  🔗 https://www.livemint.com/technology/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models-11789683004514.html
+
+- OpenAI, Microsoft executives quotes on AI training threaten copyright defense, news outlets argue
+  OpenAI, Microsoft executives' quotes on AI training threaten
+  🔗 https://www.livemint.com/technology/openai-microsoft-executives-quotes-on-ai-training-threaten-copyright-defense-news-outlets-argue-11789681359473.html
 
 - iPhone 18 Pro goes on sale in India today—You can now get it delivered via Blinkit
   Customers who have not been able to secure the new iPhones through Apple’s online store or other
   🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-goes-on-sale-in-india-today-you-can-now-get-it-delivered-in-minutes-via-blinkit-11789674814679.html
 
-- BGMI 4.6 update: India’s first original character Kiaraa launch date, story, boss fight and rewards
-  The BGMI 4.6 update arrives on September 16. Kiaraa will become available from October 8, 2026.
-  🔗 https://www.livemint.com/technology/bgmi-4-6-update-india-s-first-original-character-kiaraa-launch-date-story-boss-fight-and-rewards-11789635482987.html
-
-- Hyderabad leads emergence of India’s new data centre hubs
-  By end-2030, Hyderabad and other emerging hubs are expected to see a six-fold rise in data
-  🔗 https://www.livemint.com/technology/india-data-centre-capacity-hyderabad-dholera-ai-google-adani-11789615527566.html
-
-- Semicon India 2026: PM Modi says India taking steps to become preferred Semiconductor manufacturing
-  PM Modi inaugurated SEMICON India 2026 at Yashobhoomi in New Delhi on September 17. The three-day event focuses on India�
-  🔗 https://www.livemint.com/technology/semicon-india-2026-pm-modi-inaugurates-semiconductor-event-in-delhi-600-exhibitors-to-showcase-latest-tech-11789624007357.html
-
-- Samsung launches new AI fridge in India that recommends recipes; check Bespoke AI lineup and prices
-  Samsung India unveiled its 2026 Bespoke AI lineup led by a Family Hub Refrigerator with Google Gemini AI Vision. New WindFree Pro and Infinite Cassette ACs offer AI energy savings up
-  🔗 https://www.livemint.com/technology/samsung-launches-new-ai-fridge-in-india-that-recommends-recipes-check-bespoke-ai-lineup-and-prices-11789621850749.html
-
-- Stocks rise, lifted by falling oil and yields as market attempts comeback after Fed sell-off: Live updates - cnbc.com
-  &nbsp;&ngt;<font color="#6f6
+- Stocks surge as oil and bond yields retreat, recovering from Fed-induced sell-off - CNBC
+  Stocks surge as oil and bond yields retreat,
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE16dXpjUG95TlVORmlaMUtvNmc3bHFhdTJCZ0N0U2l0dmZ4aUdaVDkyUkdfSmhGeHlBYXpsM2M1Q09RaE1QQy0xcFgxSVh4WnpvaHdIZ09obUswQW1hazlveGZXdHdNRHd3Z0NsU2QtZ3ZLdjJseW840gF8QVVfeXFMT2ZLZ0VzbzhySFJObURPVVRsTmx2aHZNamZFcGY1TFVQQUd5cGh0U2h1OU8yQm9mcDFlUDJlVHAwQTVEdG50OW16ejFiRG5iQzBxX3RQMFJ2eVFrZ1FpeDhUY2F3dWtjSEkweXFuT1dUbDl5R1dsTHJaMHRTTw?oc=5
 
-- Stock Market Today: Dow, Nasdaq Open Higher as Markets Retrace Post-Fed Moves — Live Updates - WSJ
-  Stock Market Today: Dow, Nasdaq Open Higher as Markets Ret
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0xZSVJqTXZQbGtfdVhsT2xNNmFONzJETlQ4bGZhNWZIbEVmR1d2U0tydUp5eElIdF9MLTkyalZZMGt3TU04QVduOTEyUkphTlctaGpWQ1htSjZfcl93djhONVJKakRxY0JYV01jVUxyRFBpaEZJYWVTYmxNUVFSZ0twZ0QxZEE?oc=5
+- Stocks, Bonds Rise After Fed-Day Drop as Oil Falls: Markets Wrap - Bloomberg.com
+  Stocks, Bonds Rise After Fed-Day
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFRnQlJfRDhmdldORkxzSjFTSnVZbXh4QTNfUXhnTTU1RnlXODJKNHZ0cHREMW94MFJjdDZ2bVdkRkRIX0RFMmpiYTJVUW93bkM2S2p6b2ppQU9FVVJFUlBNQkZYZ2ZtM3ZXbXNPQWYtRlk3VDdNX05IS2VnVXloMkt3SjVHV1FiQmdRb1RFRnhpdjI2?oc=5
 
-- Stock Market Today: Major Indexes Close Sharply Higher, Led by Tech Stocks, as Bond Yields, Oil Prices Drop - Investopedia
-  Stock Market Today: Major Indexes Close Sharply Higher, Led by Tech St
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXAwWEhfQ3NjM2hPQVNCWXZibnBnb19fSk14c2hhTXNzTVBQaXlwVUZDMXNnVmJBcVBJVkpId2w1WHZKVmQ2Q1p2VGJjaVR0eVpUVGRiUWxvZ1F5TEd1ZXVrUkUxY1RndkxYNy1LWGNBQlpRMjdEcU42NDg1LUJZakxsbmhxWEZfVzM4RnZHNjg?oc=5
+- Markets News, Sep. 16, 2026: Fed Chair Warsh Warns About Inflation After U.S. Central Bank Raises Interest Rates; Stocks Close Lower - Investopedia
+  The U.S. Central Bank Raises Interest Rates; Stocks Close Lower.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNbi1KQkliQlZaUmF1bnlNWGVVVDNZbGlVRTk5QWF2VVduLXdqV0JkTWFQd0VPWmE4ZTVJOXZoNGV5amJPWDFKOTQtVWFpejFlWGlvNVlMcWFYX0JzWm03WmdrTExwbDJQdVFjYTZBZXZWNW9rdWJ5YnJzdWVUd0Y5LU1NMjU1Sl9CZ2ZwaWJ1MWY?oc=5
+
+- Stocks Gain as Markets Retrace Post-Fed Moves - wsj.com
+  Stocks Gain as Markets
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPeldsTHlCcnB3M2w2Rld4RVluS2Q0WFdRaVlCMTluMWc0WkhhLXJOM0JkSC1EQ3FNekMyOXRzMXEzTnpJRmJkZUFTVXE1Mklyanh2SUZVVTZSMHdIaTJsR19SY2dfc2M1TERFOUlKTWhXVk1wRjdjUnIxNlQ3WjhLYjdyM3ZTaGY3UnNacUFIYlhxRC1HR2FsQUdKR09OSmZHUVF4WkxIMzNqVXY3OHJhTVlvNA?oc=5
 
 - Trump to sign Russia sanctions bill; India-US ties, energy market on edge - Rediff
   Rediff.com is a news site that focuses
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQby1ZU3dmanY2eTRuM0Z0R2ZReDZfOVQ1T2NRZWRKeGM4cy1jMEZvOXRTa0xfaGJfRjA4VHBXb1QwdzlxV21DaV9FNHBHZG9FMTZGRzNXMjlQSWtfRXhzNE8wcHdsQnpKLVNtSzA4RUhwNU1VTU15RkhEZzNrbGtYUnA0azN1b0tla3A0VmlWamhHd1EyWHV1OEIya2xNZGpUVnJHQkNaRFo0cDQwYlh3YV9ZNFhDdF9KZHZj0gG-AUFVX3lxTE15Zl9lOHVhUGVBT2VHVVB1dnBJT2RwcGlwaXpPQWxLa0d4S2hqbHk1MW5mX0o0VnowYUNCT1ZxV0NENjZoUmNlSUllbFpxQnp2RUdDazR6amhsQmd6d21TbnBOZXFkQVo5d2lDRkFRM2ROMnZZd2c4eDR6Z3NSSExNVVNxN3JNVC1DREdMSHlFNmR0ZWRobFJ0THoxSW1DeWwzeEVIUXhnNEdDUVJKT29uUGhzUVhlTFRobGR2anc?oc=5
 
-- FTSE 100 Live: Pound and Stocks Stronger as Traders Await BOE Decision - bloomberg.com
-  FTSE 100 Live: Pound and Stocks
-  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxOQ3lLWFFwdzhmdUpvNURKZ2RaQk1jVlBfU01LM1hZVXlMQmF5MXgyckthRWJBSFJnY3BnM0JMV2pJZ2hmRkpScXBsRHc3X2ozaXZwOFpfbGJycVNUekxkWlRXZkQxdmh2dEJwNWQwQWNKejJqM0VoM2NPelV4QXEtN0s1MEN6LXdfSmhUS29EcFZiWksxOFJadGlHVnZZU19vZ2RKV0ZxVExQVlYzdmVDU3VYVVV3R1VYcHhKeUUxZDk4TmlwR2YyeGpRYmFJVFJ1ZDFsU21jU29ERXlYX29zYWZEb2lMR29yTTUxZGVhNG1RcHBVMGptUk1OQ3dueGdkOVBnSmdESGNtd2xUWVVRTm5kUjlqUQ?oc=5
+- Last day to bid! Jindal Supreme IPO closes today: Subscription tops 31 times, GMP at 27%; should you subscribe?
+  Retail investors have shown particularly strong interest, with the portion reserved for them subscribed 39.74 times
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/last-day-to-bid-jindal-supreme-ipo-closes-today-subscription-tops-31-times-gmp-at-27-should-you-subscribe/articleshow/134324046.cms
 
-- US stocks today: US stocks rebound as tech rally gains momentum on easing oil, yields
-  The Nasdaq gained 1.66%, while the S&amp;P 500 rose 1.14%. The Dow added 0.61%, despite lingering inflation and rate hike concerns.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-rebound-as-tech-rally-gains-momentum-on-easing-oil-yields/articleshow/134320980.cms
+- Government seeks long-term funds to boost infrastructure work
+  India is grappling with a funding shortfall as long-term liabilities are rapidly decreasing. With bank deposits and debts maturing in less than three years, crucial infrastructure projects requiring decades of support are at risk. Insurance and pension products are proposed to
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/government-seeks-long-term-funds-to-boost-infrastructure-work-addressing-potential-financial-gaps/articleshow/134324071.cms
 
-- US Treasuries rally as oil cools and confidence in Fed’s Warsh grows
-  The 10-year yield dropped to 4.95%, snapping an eight-day rise. Investors weighed the possibility of further rate hikes after the Fed's latest decision.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasuries-rally-as-oil-cools-and-confidence-in-feds-warsh-grows/articleshow/134320229.cms
+- Positive Breakout: These 11 stocks cross above 200 DMAs
+  As long as a stock's price remains above its 200-day moving average on the daily timeframe, it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-11-stocks-cross-above-200-dmas/slideshow/134324187.cms
 
-- US mortgage rates brush 7%, weighing on buyers, sellers and further straining a bleak housing market
-  The average 30-year fixed mortgage rate rose to 6.95%, its highest level since January 2025. Higher borrowing costs are squeezing affordability, delaying purchases.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-mortgage-rates-brush-7-weighing-on-buyers-sellers-and-further-straining-a-bleak-housing-market/articleshow/134319374.cms
+- SS Retail IPO Day 3: Subscription surpasses 6 times; GMP hints at 19% listing premium; check key details inside
+  The IPO, a book-built issue worth Rs 500 crore, comprises a fresh issue of 85.08 lakh shares aggregating to Rs 360 crore and an
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ss-retail-ipo-day-3-subscription-surpasses-6-times-gmp-hints-at-19-listing-premium-check-key-details-inside/articleshow/134323936.cms
 
-- SEC gives tokenized stock trading platforms five-year regulatory relief
-  The US SEC has granted a five-year exemption to platforms offering tokenized stocks. The move could bring crypto platforms deeper into traditional equity markets.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sec-gives-tokenized-stock-trading-platforms-five-year-regulatory-relief/articleshow/134317750.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Mid- and small-caps outperformed, with capital goods, industrial, defence, power and healthcare stocks attracting buying interest. Sensex slipped 22 points after sharp volatility during the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134316208.cms
+- Oil Price Today (September 18): Crude oil falls below $104, down for third session. What are experts saying?
+  Saudi Arabia and Yemen's Iran-backed Houthis exchanged fresh strikes across their border on Thursday, widening the conflict's regional footprint.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-18-crude-oil-falls-below-104-down-for-third-session-what-are-experts-saying/articleshow/134323992.cms
 
 - U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others - The Hindu
   U.S. House passes Russia sanctions Bill seeking to impose up to 100
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
 
-- India warns new US tariffs over Russian oil could impact ties - Al Jazeera
-  India warns new US tariffs over Russian oil could impact
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMl9PcjVlYklaOEduZmFaQTc4UTYydWlqdzRhWkI5SGl6YTl5blRoY042TWJidktWNDFfTmo1NHFTYU1MVVVVSXozUkVMcWVWRWZBTExJZzVhZ2hzeGJTNFBDdjZ1YzZ5cHdsRFc5T1U5WDlZdDduUE01MmMyTkZyQ3U2ZDFGb0Yya1I5U0FINW5xMzNOOUhnbVByU054WmNjYjFqZ9IBqgFBVV95cUxNQURNRGtuanJNa3FsVEZWdWJHT1BuQTN2NUJVVm11RUFnemZfbDlnN2h0NFFUU2l4dWNYNGduSGtQV28wYUQ1X3l3cGl6NU9BVFU1WXRlMl9uMDQzOU0wVzdGR3JKVHA4TzB3dW03TXpmZ2JKTFJlbzRzZU9EWGcyTEQ3djdFWFBQeHRab2duTlRfcUxWbjBZWm1oa3BBa0xBeVR4ZlJCWkhJQQ?oc=5
+- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
+  "Will Protect Trade, Economic Interests":
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
 
 - India faces 100% tariff threat over Russian oil after US House vote - BBC
   India faces 100% tariff threat over Russian oil after
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5
 
-- India Sends 47 Lakh Litres Of Diesel To Bangladesh via Friendship Pipeline - NDTV
-  India Sends 47 Lakh Litres Of Diesel
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
+- El Niño puts India on track for its driest monsoon since 2009 - The Economic Times
+  El Niño puts India on track for its driest monsoon
+  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxNNUV3Y0JjUHpwdUdCZXA1bGpqTnRWdWF3VExLeE5McWpJeUkzNWNMM0J5dFN0a0RGZEJTam9Kd3c3MVBCdmNSR3dSRzhSWUx5Q0JHS0tFbHhOOHlvT01YRXdCemlnR1hHUmw2aG5reWNhb3c1cFFYX3ZmQnhZWjBuUjh0YnMtVmhoTnRLaFlyX3I2SzJubnc1VkNDVjhORXJqZGhWdlhvZEhXa1lxV3VjZWRxb054X1Y0MGQ0dU9IU3pMQ2R1Zm9zX21wM3VIdEdKSE9TLWIyRmkzN3dPQ05SZnFtOFBNRlBWZnJLbnk5U096U0tUZ3VoUU90RGNhRmRvWERYdzBmLWZWRWN0VEJZMkdKWDZraHp0THdEMnFqbUs4SUFRclhjTDlJTm8?oc=5
 
-- 2 Jaish terrorists killed in Udhampur - The Times of India
-  2 Jaish terrorists killed in U
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTTRVMjNCSjRQWHdQSy12eFlpZ3oxZkNteHltYmdZdzhDZGx0RjZiai1CaEtveDU0ZS0yVzFuZjZlQ3hGZzVzdEt1enhWOU1wWW5wY0EyQmZUdDJ6YlAzTVRmNnRFTi16RWs5VEl5V0NGY3E5QndZd3FUNVJKOTA3cmtQRHExYTlsNXlMUGgtZmJCR0tjMVJpMGhIUUlfTE8tYThqMUZmTGLSAa4BQVVfeXFMTlNlYnFpQnRweHFyQ3FoWTBWNnlpMmFIaW0xcUdHQmlIYmRLTTk5cUJoWEM4QTBlNHZrZG1tZzNVNmdEUzNnQ3ZhSEItSXdUMmpxRUZJWmdFV2p3d0xLQWRjNjFybjRCRlBXSG5FaF9mU2FEd0wyTlRxY044SzVvUUhZSGtSV3BBamJMWmFrbmtsMzR6MmowMWc0ajBGLW0ya1ZPMW00VzBwZDlwZ3Bn?oc=5
+- Nepal asks India to support reconstruction after floods — Kathmandu Post - UA.NEWS
+  Nepal asks India to support reconstruction after
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZYSTNmTGxmVXZFd2tmbDVVZTBiSXJGNmdmUWV3dXNxNmlfeXlBUjNXVHo2TGEyYk5MVWJKUldvd0plTVY2TTJLajlDXzE0UUNmd1d0LVFUb0NnQldoVTlncXBNSnFHLW5JUzdFY3hzdk4wWFd6Vld5UXUzVXdndkRibFBySnI2MUdwYVgyM21ZRUVMeUo3cS1Wd0hrQQ?oc=5
 
 - Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue
    NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares.
@@ -184,41 +184,41 @@
   U.S. House passes Russia sanctions Bill seeking to impose up to 100
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
 
-- India warns new US tariffs over Russian oil could impact ties - Al Jazeera
-  India warns new US tariffs over Russian oil could impact
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMl9PcjVlYklaOEduZmFaQTc4UTYydWlqdzRhWkI5SGl6YTl5blRoY042TWJidktWNDFfTmo1NHFTYU1MVVVVSXozUkVMcWVWRWZBTExJZzVhZ2hzeGJTNFBDdjZ1YzZ5cHdsRFc5T1U5WDlZdDduUE01MmMyTkZyQ3U2ZDFGb0Yya1I5U0FINW5xMzNOOUhnbVByU054WmNjYjFqZ9IBqgFBVV95cUxNQURNRGtuanJNa3FsVEZWdWJHT1BuQTN2NUJVVm11RUFnemZfbDlnN2h0NFFUU2l4dWNYNGduSGtQV28wYUQ1X3l3cGl6NU9BVFU1WXRlMl9uMDQzOU0wVzdGR3JKVHA4TzB3dW03TXpmZ2JKTFJlbzRzZU9EWGcyTEQ3djdFWFBQeHRab2duTlRfcUxWbjBZWm1oa3BBa0xBeVR4ZlJCWkhJQQ?oc=5
+- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
+  "Will Protect Trade, Economic Interests":
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
 
 - India faces 100% tariff threat over Russian oil after US House vote - BBC
   India faces 100% tariff threat over Russian oil after
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5
 
-- India Sends 47 Lakh Litres Of Diesel To Bangladesh via Friendship Pipeline - NDTV
-  India Sends 47 Lakh Litres Of Diesel
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
+- El Niño puts India on track for its driest monsoon since 2009 - The Economic Times
+  El Niño puts India on track for its driest monsoon
+  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxNNUV3Y0JjUHpwdUdCZXA1bGpqTnRWdWF3VExLeE5McWpJeUkzNWNMM0J5dFN0a0RGZEJTam9Kd3c3MVBCdmNSR3dSRzhSWUx5Q0JHS0tFbHhOOHlvT01YRXdCemlnR1hHUmw2aG5reWNhb3c1cFFYX3ZmQnhZWjBuUjh0YnMtVmhoTnRLaFlyX3I2SzJubnc1VkNDVjhORXJqZGhWdlhvZEhXa1lxV3VjZWRxb054X1Y0MGQ0dU9IU3pMQ2R1Zm9zX21wM3VIdEdKSE9TLWIyRmkzN3dPQ05SZnFtOFBNRlBWZnJLbnk5U096U0tUZ3VoUU90RGNhRmRvWERYdzBmLWZWRWN0VEJZMkdKWDZraHp0THdEMnFqbUs4SUFRclhjTDlJTm8?oc=5
 
-- 2 Jaish terrorists killed in Udhampur - The Times of India
-  2 Jaish terrorists killed in U
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTTRVMjNCSjRQWHdQSy12eFlpZ3oxZkNteHltYmdZdzhDZGx0RjZiai1CaEtveDU0ZS0yVzFuZjZlQ3hGZzVzdEt1enhWOU1wWW5wY0EyQmZUdDJ6YlAzTVRmNnRFTi16RWs5VEl5V0NGY3E5QndZd3FUNVJKOTA3cmtQRHExYTlsNXlMUGgtZmJCR0tjMVJpMGhIUUlfTE8tYThqMUZmTGLSAa4BQVVfeXFMTlNlYnFpQnRweHFyQ3FoWTBWNnlpMmFIaW0xcUdHQmlIYmRLTTk5cUJoWEM4QTBlNHZrZG1tZzNVNmdEUzNnQ3ZhSEItSXdUMmpxRUZJWmdFV2p3d0xLQWRjNjFybjRCRlBXSG5FaF9mU2FEd0wyTlRxY044SzVvUUhZSGtSV3BBamJMWmFrbmtsMzR6MmowMWc0ajBGLW0ya1ZPMW00VzBwZDlwZ3Bn?oc=5
+- Nepal asks India to support reconstruction after floods — Kathmandu Post - UA.NEWS
+  Nepal asks India to support reconstruction after
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZYSTNmTGxmVXZFd2tmbDVVZTBiSXJGNmdmUWV3dXNxNmlfeXlBUjNXVHo2TGEyYk5MVWJKUldvd0plTVY2TTJLajlDXzE0UUNmd1d0LVFUb0NnQldoVTlncXBNSnFHLW5JUzdFY3hzdk4wWFd6Vld5UXUzVXdndkRibFBySnI2MUdwYVgyM21ZRUVMeUo3cS1Wd0hrQQ?oc=5
 
 - U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others - The Hindu
   U.S. House passes Russia sanctions Bill seeking to impose up to 100
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
 
-- India warns new US tariffs over Russian oil could impact ties - Al Jazeera
-  India warns new US tariffs over Russian oil could impact
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMl9PcjVlYklaOEduZmFaQTc4UTYydWlqdzRhWkI5SGl6YTl5blRoY042TWJidktWNDFfTmo1NHFTYU1MVVVVSXozUkVMcWVWRWZBTExJZzVhZ2hzeGJTNFBDdjZ1YzZ5cHdsRFc5T1U5WDlZdDduUE01MmMyTkZyQ3U2ZDFGb0Yya1I5U0FINW5xMzNOOUhnbVByU054WmNjYjFqZ9IBqgFBVV95cUxNQURNRGtuanJNa3FsVEZWdWJHT1BuQTN2NUJVVm11RUFnemZfbDlnN2h0NFFUU2l4dWNYNGduSGtQV28wYUQ1X3l3cGl6NU9BVFU1WXRlMl9uMDQzOU0wVzdGR3JKVHA4TzB3dW03TXpmZ2JKTFJlbzRzZU9EWGcyTEQ3djdFWFBQeHRab2duTlRfcUxWbjBZWm1oa3BBa0xBeVR4ZlJCWkhJQQ?oc=5
+- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
+  "Will Protect Trade, Economic Interests":
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
 
 - India faces 100% tariff threat over Russian oil after US House vote - BBC
   India faces 100% tariff threat over Russian oil after
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5
 
-- India Sends 47 Lakh Litres Of Diesel To Bangladesh via Friendship Pipeline - NDTV
-  India Sends 47 Lakh Litres Of Diesel
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
+- El Niño puts India on track for its driest monsoon since 2009 - The Economic Times
+  El Niño puts India on track for its driest monsoon
+  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxNNUV3Y0JjUHpwdUdCZXA1bGpqTnRWdWF3VExLeE5McWpJeUkzNWNMM0J5dFN0a0RGZEJTam9Kd3c3MVBCdmNSR3dSRzhSWUx5Q0JHS0tFbHhOOHlvT01YRXdCemlnR1hHUmw2aG5reWNhb3c1cFFYX3ZmQnhZWjBuUjh0YnMtVmhoTnRLaFlyX3I2SzJubnc1VkNDVjhORXJqZGhWdlhvZEhXa1lxV3VjZWRxb054X1Y0MGQ0dU9IU3pMQ2R1Zm9zX21wM3VIdEdKSE9TLWIyRmkzN3dPQ05SZnFtOFBNRlBWZnJLbnk5U096U0tUZ3VoUU90RGNhRmRvWERYdzBmLWZWRWN0VEJZMkdKWDZraHp0THdEMnFqbUs4SUFRclhjTDlJTm8?oc=5
 
-- 2 Jaish terrorists killed in Udhampur - The Times of India
-  2 Jaish terrorists killed in U
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTTRVMjNCSjRQWHdQSy12eFlpZ3oxZkNteHltYmdZdzhDZGx0RjZiai1CaEtveDU0ZS0yVzFuZjZlQ3hGZzVzdEt1enhWOU1wWW5wY0EyQmZUdDJ6YlAzTVRmNnRFTi16RWs5VEl5V0NGY3E5QndZd3FUNVJKOTA3cmtQRHExYTlsNXlMUGgtZmJCR0tjMVJpMGhIUUlfTE8tYThqMUZmTGLSAa4BQVVfeXFMTlNlYnFpQnRweHFyQ3FoWTBWNnlpMmFIaW0xcUdHQmlIYmRLTTk5cUJoWEM4QTBlNHZrZG1tZzNVNmdEUzNnQ3ZhSEItSXdUMmpxRUZJWmdFV2p3d0xLQWRjNjFybjRCRlBXSG5FaF9mU2FEd0wyTlRxY044SzVvUUhZSGtSV3BBamJMWmFrbmtsMzR6MmowMWc0ajBGLW0ya1ZPMW00VzBwZDlwZ3Bn?oc=5
+- Nepal asks India to support reconstruction after floods — Kathmandu Post - UA.NEWS
+  Nepal asks India to support reconstruction after
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZYSTNmTGxmVXZFd2tmbDVVZTBiSXJGNmdmUWV3dXNxNmlfeXlBUjNXVHo2TGEyYk5MVWJKUldvd0plTVY2TTJLajlDXzE0UUNmd1d0LVFUb0NnQldoVTlncXBNSnFHLW5JUzdFY3hzdk4wWFd6Vld5UXUzVXdndkRibFBySnI2MUdwYVgyM21ZRUVMeUo3cS1Wd0hrQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-17 20:56:40 UTC_
+_Last updated: 2026-09-18 02:48:53 UTC_
