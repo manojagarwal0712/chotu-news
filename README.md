@@ -1,252 +1,224 @@
 # 📰 Daily News Summaries
 
-- U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others - The Hindu
-  U.S. House passes Russia sanctions Bill seeking to impose up to 100
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
+- India Sends 47 Lakh Litres Of Diesel To Bangladesh via Friendship Pipeline - NDTV
+  India Sends 47 Lakh Litres Of Diesel
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
 
-- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
-  "Will Protect Trade, Economic Interests":
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
+- Asian Games 2026 India schedule today, September 18: Women’s cricket team, soft tennis campaigns start - olympics.com
+  Asian Games 2026 India schedule today, September 18: Women�
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDNkRWNyMXhYYmppdWxwNnNkR203NVEyR3FmQjd5ODBmTnFhZXhNd2I5SnFKc0dRcUhvVm1MQ19tSTVXOElLdFZQUUpOZzFNZy1ITEF4X2M2RzB1OWZlajYzZ05SOFBieUpmRF9JZ3dNREl2STh0RU9rUzJDMnpqTWxSdThaWGZWMlNz?oc=5
 
-- India faces 100% tariff threat over Russian oil after US House vote - BBC
-  India faces 100% tariff threat over Russian oil after
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5
+- India's hospital boom is improving access but pricing millions out of critical care - BBC
+  India's hospital boom is improving access but pricing millions out
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSmE3YUI1X2R4ZWwxcXBBQ19Kck5iS3F1cV9xakZ4YjJBamMzWTl2emlhRnozaFQ2RHB6WV9vUGNzWC1oMlk1Y1c4cVlvWG4tRnROODhGcmpVZw?oc=5
 
-- El Niño puts India on track for its driest monsoon since 2009 - The Economic Times
-  El Niño puts India on track for its driest monsoon
-  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxNNUV3Y0JjUHpwdUdCZXA1bGpqTnRWdWF3VExLeE5McWpJeUkzNWNMM0J5dFN0a0RGZEJTam9Kd3c3MVBCdmNSR3dSRzhSWUx5Q0JHS0tFbHhOOHlvT01YRXdCemlnR1hHUmw2aG5reWNhb3c1cFFYX3ZmQnhZWjBuUjh0YnMtVmhoTnRLaFlyX3I2SzJubnc1VkNDVjhORXJqZGhWdlhvZEhXa1lxV3VjZWRxb054X1Y0MGQ0dU9IU3pMQ2R1Zm9zX21wM3VIdEdKSE9TLWIyRmkzN3dPQ05SZnFtOFBNRlBWZnJLbnk5U096U0tUZ3VoUU90RGNhRmRvWERYdzBmLWZWRWN0VEJZMkdKWDZraHp0THdEMnFqbUs4SUFRclhjTDlJTm8?oc=5
+- Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide at tea stall in Haridwar - The Times of India
+  Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYktKa0U5MWxlWV9xSGhaRUpiYUZFQ3dUVFl3eEF6Yk1YWFhHbnBnVUg2SjRCNGN5ZVdVMWdRMlRFZmpGUHNVM2VCRjl6bXltaVRWanVMYVhZOEtnam94RW5mdXFjNXdxdFdEd1VBLW9meWxaaWZvdFNDY0E5YXd6UFNrRkFkeWN2YmMtLUtQZEtYdVZEaWFnRGRoZWR6aTB2RHphS1BabUxRNENFM2RhekZSa2hWQl82WjY1Zkd6UWNWcWw1VVZLekxXekw2SFNDQjdoSF85SWwtQTVK0gHiAUFVX3lxTFBUN2pjRldxak1VMnBqVWdpY2l5V2pDSTFXUWxQYVR1LWEyRGFEemZBajhIYzRsVlhEYlM1Vkt2ZElzSWsyS3lEUF9YT0hOS1lqZDF2Y0oySlluQW91RzZGeGI1VDdiS2hUZ2o4ZzIyZnlMU3pnN0FrQkpRWkVBREVLemxNLWthMktORFNUbW16YmJ3ekJDTVV5U1EyMUFYQ2lDRWFhTkpDMGRXNFFMV2JMNndkd3ZfTG1rejBvRWFYdU1PTWV1N2hGOHlmWjBKdXNjX3FkdG5Mb2RGZ3ZaN3VRUXc?oc=5
 
-- Nepal asks India to support reconstruction after floods — Kathmandu Post - UA.NEWS
-  Nepal asks India to support reconstruction after
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZYSTNmTGxmVXZFd2tmbDVVZTBiSXJGNmdmUWV3dXNxNmlfeXlBUjNXVHo2TGEyYk5MVWJKUldvd0plTVY2TTJLajlDXzE0UUNmd1d0LVFUb0NnQldoVTlncXBNSnFHLW5JUzdFY3hzdk4wWFd6Vld5UXUzVXdndkRibFBySnI2MUdwYVgyM21ZRUVMeUo3cS1Wd0hrQQ?oc=5
+- Gukesh Drops Under 2700 As India Beats Indonesia - chess.com
+  Gukesh drops under 27
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5Zb3huempUTTZKaTA0bHVsWmhUTDBVajV0b3FLWVItTjQ1Y2hScTJTLXR5blFsNXRQdWJqX1FMUnlTNFphQ2xkaDgxVlh5YnBUUmZIWThjRFJ4WWJiRVZ4UUdhcUJPamFSRU05ajNfdW9qMXA0VXM4cw?oc=5
 
-- OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system - The Guardian
-  OpenAI reveals cases of ‘concerning’ AI
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2xHb1VzUHk1ZUZJTWhQOXdsM0RKOXduMDI2a29fN3RmTFhTX3VIVGdyZmhaQWZsWTJzbG9hZUkwVGhrMGNiMTh6VjEwNWp4SlJSR1hsMTYxUXFOSDdDZDlJUWxza1NQZi1XbzRRd1RuYUloRHV4OHhYVDRnS1BkaGJWYTk5T0JjRzBDeGpqMFhRWjZLOEtPeUY0blRTSEtabTNoTDJJRUtqSzE5M3FCZHZaTElWVVhOaGZOT09GNHM?oc=5
-
-- King Charles warns of 'existential danger' of AI falling into wrong hands - BBC
-  King Charles warns of 'existential danger' of
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpUERUTFlJcVdzQ29mV3ZQQ3F4LXVlVUxCMzYxSFdzLVZoZ2REOUgwVjFtRFJrMWJJWlR1empqVHJfTDVCaGtJaFJrRDg4cWo4STBYalo5ZDE4Sms?oc=5
-
-- Mineral extraction to metals production: India’s technology pivot for competitiveness - kpmg.com
-  The Indian government is looking to
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGdVYW9tQ1ZBNTVISjRvWkxkWXlWcTdIQWRQVzVGazJnVlhEaVFTUnlIc2pEbzNEdWMxOXBZVHBBcS1tMFFFRlo5cW81OGJ4WU1WV3Z2NGMyNkxMb1hIQTBtOHd3QWVGcGJ5eWZBeFJEMTZQY0ZFOFh3bi1WSjQzS3EyUVBQWHF2TkNOaHVJWHZtTFFVRWtlbFk2Z0hhTDdtZk1jYUU0em5DNHJON2FPSDRuQmRtdUpYWTV0ckt2cWJpcDUtaFg0?oc=5
-
-- AIIMS transfers AI-based mammography technology to BPL Technologies - ThePrint
+- AIIMS transfers AI-based mammography technology to BPL Technologies - health.economictimes.indiatimes.com
   AIIMS transfers AI-
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1ctR0s3dG43TkpCOU5Ya0FHeFZqM1BuTUZOZGtOaUtNMkFhZ19jZy1MTWJ4MnB5ellUTW5UQkNFaWp6d1hXVmpTNW03REhVa0Q1QTVNa0prek9NeUxqWEVjOTBRZ0tDTGVQa01DZUgzVENQNlFWYWwwaGZ3UVJ4TVBWVlRnd0ZqWFRjNDFMMHVHRVN6Rzc1RE93UVhtelJmYkVOLdIBqgFBVV95cUxNbjlndU41RWpBOXVsTGl5SnpZTnVnbWNabnRIcUxxNnlLUC1lR1VQMllEaFVNQ3R2Y2JrOF9RdEhkZXhFTlBocG1OMVZtTVQwZ0pZV2xJR3lKX0g5SEwzN1o1dHJzWU4tZ3RDTTVzb29qY0cyb0h3MXVaUDRKMFlyaXlxNXlFX3dLYkFQMlJ0eVNqbDJadHBFOWVpSzdJek9keTV3Mk5mOGZBdw?oc=5
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclhlQmZIWnRWYjZ3ZzZMSlptZkxzMkxPZk9LZjRzVUVsMmxLbUpwcjI0bXhQTktDbm1tY0JNTGo1aUxWQUswM2Jpd2RJS1RaVmRKQTI2enlhd1hqOUhhcHJNNWJDa1lQSXBGZnRueUo3UFRXdDJqWDVlTUs5aUNSLUd4Q2k1TWhEcWhEdFZBZ3ZwdjR1ZGtWUldsNEcyeGp2WWd6aGdFYVJsd3l4cHJ4YUJaTmtwTkVmZTVwX01UWm5OWnpQeW1jSWlqc3kyT1M10gHWAUFVX3lxTE1TS2ZPd05va2NlcWxpQmJYdlFxc3JzTXF4d1lfQWxZT3B2dTBKeGdIN2k4QTU2Xy0zVHZkYi1EMkgwS2liOVBxdm0zdGctREIxZnFNbjA5dzA3RmtYN2VBeWRjV09seEZYeWo1N19kRlNmYXNvM2xLbWRXOUxTaHZoZ0RnVmkzTGJjQjZVTUFENFVZYzJ0MFVkTkFOeXZSX19TWHF0eU13N3U4eVVicDMyX2piT25IbE5RRzdUNjFIZlNDTEJ3RTB1cXZETnFDNFZTQUdvckE?oc=5
 
-- Adidas cuts jobs in India technology team - Reuters
-  Adidas cuts jobs in
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1NiMlFJUXFTSm9DR0lVSU54WlNlU28yMEFpc2hOWXlQZDRsMUYyR29uZldtVWF4aFRsUDB6bF9RanY0aUE2dl9Nb0t5V2xDQnhYLUw0T3VoNzY5UzhDMW1nQzlLeUVFNjhDZk50OXYyeE1KaFNfSERSaW91MEtfM2lvcGRWcktnQVdOX0JzUQ?oc=5
+- PM shares an article highlighting India Post’s transformation into a modern, technology-driven and professionally managed institution - PM India
+  PM shares an article highlighting India Post’s transformation into a modern,
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOSnhVcW1KdUM1cG5OdkdyejlDWGRONnB4VHppVktkNlMxVFRJdFl2ZU5lclRHdXV3TlJjWFA3OGpCazR3OE5UZk9hREhNcDZlOTl2VDlERUMxLVprb3k3Z1c0UVo5aG03bFpnUDByb2E3WlJvN1dCVVh0dnFDMnVHWjA5V3BnZVU0OW5KdERHenROZ0pIcFRmbE96OEVRb3IydWZSTm8yZ0JTUk40LUxTZXhsS3lZMDNLcVhneHc4SXpwMnNxc0xmVFNCaGxpYjE3TVJPREZZU2lza251ZkoyOWhQM1lfcVlLenFKWEo0MklKWWgxRlpzQURBT2NuMmw2dnY0WjdB?oc=5
 
-- Ammann betting on India as global manufacturing and export hub: CEO Schneider
-  Swiss road-equipment maker aims to expand exports from its Gujarat plant to Europe, emerging markets and potentially the US.
-  🔗 https://www.livemint.com/companies/news/ammann-betting-on-india-as-global-manufacturing-and-export-hub-swiss-road-equipment-maker-hans-christian-schneider-11789640034750.html
+- Albanese government considers ‘world-leading’ ban on smart glasses in public offices and buildings - The Guardian
+  Albanese government considers ‘world-leading’
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSXN2MmxBaXBWWjhqU2pnSHdXdTgxVmI2SUhSYm5PeWM4T2ZCZ25kaHBLalJUSWc4am1Genh0TlpJVG5JVmdWVEhLSGJBZHQ4QXl3M2VMRFN6amMzaXFHUnVBLXBJTXo2MlpXUFEzaXdWTFhYNXJHbkdhaHQ2X0JuV01EelNBSzNOOFItZGlvNHlCRXZzYUd0NFprWGVaT3o1OUdHWkFGUkEyNmNjOFI4cDJnWUtjQmJIZ0E4LWVPYTFXMlFzYW5JUy1lQ24xOERLbUcyTzI2RzdkS1VralFj?oc=5
 
-- Noel Tata outvoted as Tata Sons board backs IPO and Chandrasekaran extension
-  Noel Tata submitted his written statement to be included in the meeting records
-  🔗 https://www.livemint.com/companies/news/tata-sons-chairman-natarajan-chandrasekaran-noel-tata-trusts-tata-sons-ipo-listing-11789651170924.html
+- Is China Loosening It's Grip On LFP Technology Controls? - Saur Energy
+  Is China Loosening It's Grip
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk53cGdIcDZ6N0V4ZGcwaXVXdVlKSUQzVnkxcVVBeUpqdWxwejhSM2dPRlY3UU81bkdFLTBCa1RWSDc4bWJTTUUwNW9xSjBLTlhNcHZLalk1RGlnMld2TFV2TEpWZnBqa3FzQU9lV3lHZjZCb1kycUtnaUJoeTFnT3FicG1yR1B4S3lrREV0VHZRUGc0ekJudnJsSzVudFF0bjNkUnloZ0dkTnBI?oc=5
 
-- Putin Signs Decree to Seize Control of Nestle Assets in Russia
-  Russia seized control of the local assets of Swiss food giant Nestle SA and French supermarket chain Auchan.
-  🔗 https://www.livemint.com/companies/putin-signs-decree-to-seize-control-of-nestle-assets-in-russia-11789672358062.html
+- It's time to end the polarising hyperbole about AI - thenationalnews.com
+  It's time to end the polar
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmZyZUJpcGJlR2RlNGtNYl9uNW1EcVlmRk9Qb0VYWGMtN1VFbWdiNDhRRkFzOEE3RXNFRFd6djNMLTE5LXFaN3I2YWxZcjFGUkpWVmpSaE1JdW1WXzE0NGloM2haencydmF5OUpCbGJjUGZnQnA5OEZwYnZydGxvbWVHeUltR1RPWm5oTXEzWS1na1d1bkpvcHZCekV4dTlK?oc=5
 
-- Why Noel is challenging tie-breaker vote that backed Chandra’s reappointment
-  A majority vote of the Tata Trustees' nominees is needed to appoint or reappoint a
-  🔗 https://www.livemint.com/companies/why-noel-is-challenging-tie-breaker-vote-that-backed-chandra-s-reappointment-11789662810437.html
+- SEMICON India 2026: India’s chip ambitions draw $12 billion | Which companies are investing?
+  India secured $12 billion in investment commitments from various global and domestic investors.
+  🔗 https://www.livemint.com/companies/news/semicon-india-2026-india-s-chip-ambitions-draw-12-billion-which-companies-are-investing-11789724927418.html
 
-- Hiranandani goes solo with industrial platform Greenbase 2.0 expansion
-  Greenbase 2.0 will develop 5 million sq. ft across 215 acres
-  🔗 https://www.livemint.com/companies/news/hiranandani-goes-solo-with-industrial-platform-greenbase-2-0-expansion-warehousing-logistics-acquisition-11789648884521.html
+- Tata Sons board backs Chandrasekaran’s extension—but how will they win over shareholders?
+  Chandrasekaran’s appointment as a director on the Tata Sons board won't get majority
+  🔗 https://www.livemint.com/companies/news/tata-sons-board-chandrasekaran-extension-shareholders-tata-trusts-sir-dorabji-tata-trust-sir-ratan-tata-trust-noel-tata-11789712154485.html
 
-- October Fed hike possible, but Warsh may hesitate before mid-terms, says Standard Chartered's Englander
-  Standard Chartered’s Steve Englander expects one more US rate hike this year. He sees the RBI raising rates by 50 bps
-  🔗 https://www.livemint.com/market/mark-to-market/october-fed-hike-possible-but-warsh-may-hesitate-before-mid-terms-says-standard-chartereds-steve-englander-11789641227405.html
+- Shapoorji Mistry urges Tata Trusts to back Tata Sons listing
+  Shapoorji Pallonji Group chair Shapoorji Mistry urges Tata Trusts to back a
+  🔗 https://www.livemint.com/companies/news/shapoorji-pallonji-tata-sons-listing-11789711001205.html
 
-- Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy
-  The Indian stock market is expected to open quietly on September 18, following mixed global cues. Analysts suggest monitoring key resistance and support levels as geopolitical concerns persist.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-sensex-nifty-50-crude-oil-and-gold-eight-stocks-to-buy-11789693227632.html
+- After Fundamentum, AdvaRisk draws interest from Anicut for $20 mn round; early backers eye exit
+  The round, which is expected to close in the next 15-20 days, will include both primary and secondary share sales. Sprout Venture
+  🔗 https://www.livemint.com/companies/news/icici-bank-backed-advarisk-fundamentum-fraud-detection-company-india-startup-funding-11789698821905.html
 
-- Chandan Taparia of Motilal Oswal recommends 3 stocks to buy: Laurus Labs, BHEL, HDFC Life; check stop-loss, target price
-  The Indian stock market is set to open flat on September 18, with mixed global cues. Nifty 50 is staying within a range, while Bank N
-  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-18-september-2026-11789691542699.html
+- SP Group Chairman Shapoor Mistry backs RBI move on Tata Sons, says listing can boost accountability
+  The move could mark a turning point for transparency and accountability at the Tata group's holding
+  🔗 https://www.livemint.com/companies/news/sp-group-chairman-shapoor-mistry-backs-rbi-move-on-tata-sons-says-listing-can-boost-accountability-11789710481565.html
 
-- Mutual funds are avoiding big trades in India's new closing auction — here's why
-  Mutual funds are limiting the trades they route through the auction. They prefer transactions where an adverse execution price would have a
-  🔗 https://www.livemint.com/market/closing-auction-session-impact-mutual-fund-11789629779208.html
+- Adani Energy vs CESC vs Tata Power vs NTPC vs Power Grid: Which stock has more upside? Target price by PL Capital
+  Adani Energy, Coal India, Tata Power, NTPC, and Power Grid are set to benefit from upcoming power transmission projects. According to PL Capital, CESC is expected to deliver the highest return
+  🔗 https://www.livemint.com/market/stock-market-news/adani-energy-vs-cesc-vs-tata-power-vs-ntpc-vs-power-grid-which-stock-has-more-upside-target-price-by-pl-capital-11789725460017.html
 
-- Fed hike tests domestic muscle. Can markets hold the line?
-  DIIs bought in all 10 previous Fed rate-hike months marked by foreign selling. Nifty fell
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-impact-india-stock-market-sensex-nifty-11789636477904.html
+- Small-cap stock under  ₹50 jumps over 7% following stock market rebound
+  Bhatia Communications &amp;amp; Retail shares rose over 7% as market indices rallied. The stock gained 66.60% YTD and reported a 90
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-over-7-following-stock-market-rebound-11789718408882.html
+
+- Should you buy or sell IDFC First Bank, PVR INOX, Titan shares? Here's what Religare Broking's Ajit Mishra suggests
+  The broader structure remains cautious following the recent correction. Ajit Mishra, SVP of Research at Religare Broking,
+  🔗 https://www.livemint.com/market/stock-market-news/should-you-buy-or-sell-idfc-first-bank-pvr-inox-titan-shares-heres-what-religare-brokings-ajit-mishra-suggests-11789717900551.html
+
+- Beyond Tata Sons listing boost, Tata Chemicals investors face earnings pressure
+   weak global soda ash prices and rising costs could delay an earnings recovery. A potential value unlock from Tata Sons
+  🔗 https://www.livemint.com/market/mark-to-market/rbi-tata-sons-listing-tata-chemicals-shares-soda-ash-earnings-11789715166120.html
+
+- Nestle India share price falls 3%: FSSAI takes legal action over 3 baby products
+  The regulator filed cases regarding three products, following laboratory tests failing to meet Biotin requirements. Nestle India's shares fell around 3% on September
+  🔗 https://www.livemint.com/market/stock-market-news/nestle-india-share-price-falls-3-fssai-takes-legal-action-over-3-baby-products-11789718539721.html
+
+- iPhone 18 Pro price in India: How to buy the 256GB model under  ₹1 lakh
+  iPhone 18 Pro (256GB) is priced at  ₹164,900 in India. Flipkart shows a deal price of
+  🔗 https://www.livemint.com/technology/iphone-18-pro-price-in-india-how-to-buy-the-256gb-model-under-1-lakh-11789714885307.html
+
+- SEMICON India 2026 Day 2 live updates: PM Modi launches commercial production at Suchi semicon’s Surat plant
+  SEMICON India 2026 Day 2 focuses on India’s shift from semiconductor policy announcements to commercial chip production and ecosystem development. ASML and industry
+  🔗 https://www.livemint.com/technology/semicon-india-2026-day-2-live-updates-india-shifts-focus-from-semiconductor-policy-to-commercial-production-11789709711171.html
+
+- India has ‘building blocks’ for semiconductor growth, must bridge knowledge, market gaps: L&T Semiconductor Tech CEO
+  India has the building blocks to strengthen its position in the semiconductor industry. L&amp;T Semiconductor Technologies CEO Sandeep Kumar said artificial intelligence (AI) is not a hype but a reality.
+  🔗 https://www.livemint.com/technology/india-has-building-blocks-for-semiconductor-growth-must-bridge-knowledge-market-gaps-l-t-semiconductor-tech-ceo-11789708579964.html
+
+- iPhone 18 Pro, Pro Max sale begins in India; fans call launch a ‘festival’, queues form across cities
+  Long queues at stores across Bengaluru, Noida and Maharashtra. Several buyers arrived hours early, with some travelling from other cities.
+  🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-pro-max-sale-begins-in-india-as-fans-call-launch-a-festival-queues-form-across-cities-11789703821553.html
 
 - Anthropic flags AI systems self-improvement; bats for greater transparency in development of models
   Anthropic has laid out a framework for rules on how a frontier lab could ensure the release of safe
   🔗 https://www.livemint.com/technology/anthropic-flags-ai-systems-self-improvement-bats-for-greater-transparency-in-development-of-models-11789693559990.html
 
-- OpenAI flags concerning new AI behavior and vows to track it more closely
-  OpenAI flags concerning new AI behavior and
-  🔗 https://www.livemint.com/technology/openai-flags-concerning-new-ai-behavior-and-vows-to-track-it-more-closely-11789685946106.html
-
-- Anthropic says Claude now leads a quarter of work building its next AI models
-  Anthropic says Claude now leads a quarter of
-  🔗 https://www.livemint.com/technology/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models-11789683004514.html
-
-- OpenAI, Microsoft executives quotes on AI training threaten copyright defense, news outlets argue
-  OpenAI, Microsoft executives' quotes on AI training threaten
-  🔗 https://www.livemint.com/technology/openai-microsoft-executives-quotes-on-ai-training-threaten-copyright-defense-news-outlets-argue-11789681359473.html
-
-- iPhone 18 Pro goes on sale in India today—You can now get it delivered via Blinkit
-  Customers who have not been able to secure the new iPhones through Apple’s online store or other
-  🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-goes-on-sale-in-india-today-you-can-now-get-it-delivered-in-minutes-via-blinkit-11789674814679.html
-
 - Stocks surge as oil and bond yields retreat, recovering from Fed-induced sell-off - CNBC
   Stocks surge as oil and bond yields retreat,
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE16dXpjUG95TlVORmlaMUtvNmc3bHFhdTJCZ0N0U2l0dmZ4aUdaVDkyUkdfSmhGeHlBYXpsM2M1Q09RaE1QQy0xcFgxSVh4WnpvaHdIZ09obUswQW1hazlveGZXdHdNRHd3Z0NsU2QtZ3ZLdjJseW840gF8QVVfeXFMT2ZLZ0VzbzhySFJObURPVVRsTmx2aHZNamZFcGY1TFVQQUd5cGh0U2h1OU8yQm9mcDFlUDJlVHAwQTVEdG50OW16ejFiRG5iQzBxX3RQMFJ2eVFrZ1FpeDhUY2F3dWtjSEkweXFuT1dUbDl5R1dsTHJaMHRTTw?oc=5
 
-- Stocks, Bonds Rise After Fed-Day Drop as Oil Falls: Markets Wrap - Bloomberg.com
-  Stocks, Bonds Rise After Fed-Day
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFRnQlJfRDhmdldORkxzSjFTSnVZbXh4QTNfUXhnTTU1RnlXODJKNHZ0cHREMW94MFJjdDZ2bVdkRkRIX0RFMmpiYTJVUW93bkM2S2p6b2ppQU9FVVJFUlBNQkZYZ2ZtM3ZXbXNPQWYtRlk3VDdNX05IS2VnVXloMkt3SjVHV1FiQmdRb1RFRnhpdjI2?oc=5
+- Asian Stocks to Gain on Lower Oil, US Bonds Rally: Markets Wrap - Bloomberg.com
+  Asian Stocks to Gain on Lower Oil, US
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNVkhCUmZUbEVkMjdzcDFsQ2h6UVpQeDN4dGJwcWZNYVlCUEdzX1hZd2dnZm5lS2JYZkdQdzRsZElhekhLdjlGcEVIbGxoYVhjVXlhU2FFbG1kUmttd2MtWXhFNDdIMUJMUm1ydTlwTldwVzVKRXlVNEhIcTFFN21HWktLdGhIeVAwRTR5anUzZXNzZjRr?oc=5
 
-- Markets News, Sep. 16, 2026: Fed Chair Warsh Warns About Inflation After U.S. Central Bank Raises Interest Rates; Stocks Close Lower - Investopedia
-  The U.S. Central Bank Raises Interest Rates; Stocks Close Lower.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNbi1KQkliQlZaUmF1bnlNWGVVVDNZbGlVRTk5QWF2VVduLXdqV0JkTWFQd0VPWmE4ZTVJOXZoNGV5amJPWDFKOTQtVWFpejFlWGlvNVlMcWFYX0JzWm03WmdrTExwbDJQdVFjYTZBZXZWNW9rdWJ5YnJzdWVUd0Y5LU1NMjU1Sl9CZ2ZwaWJ1MWY?oc=5
+- India's Tata Group firms shed $3.2 billion in market value amid holding company rift - Reuters
+  India's Tata Group firms shed $3.2 billion in
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEttOWpoeVczdXB3dE1nam9wZDFEUVlneXd6SzZ2djFTaGlhVWJVOGVhaVkyTFZveFZ5c2xHNjNmWWV6YzBUaFM1ODBUUUxpdXZiU0NVZTBWN0Q1MzRjNWhlY253aWVWQTd0QWNqVHB3RkFXamI3NU9lM05pRnEzMnZDRlY2RUFVNzNyWlc4R3RtVEhBb3o5UkZINWdvWHlldVNiZXR4ZjJsb0xhS1duQ1JibGJ5UQ?oc=5
 
-- Stocks Gain as Markets Retrace Post-Fed Moves - wsj.com
-  Stocks Gain as Markets
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPeldsTHlCcnB3M2w2Rld4RVluS2Q0WFdRaVlCMTluMWc0WkhhLXJOM0JkSC1EQ3FNekMyOXRzMXEzTnpJRmJkZUFTVXE1Mklyanh2SUZVVTZSMHdIaTJsR19SY2dfc2M1TERFOUlKTWhXVk1wRjdjUnIxNlQ3WjhLYjdyM3ZTaGY3UnNacUFIYlhxRC1HR2FsQUdKR09OSmZHUVF4WkxIMzNqVXY3OHJhTVlvNA?oc=5
+- Sensex up 250 pts, Nifty near 23,350: Positive global cues among key factors behind market rise - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnE0cDFwRUZid1VJMEZiSU9aNW9FZ2VlSm1MV2gwX185bEdfWUx5OW96UFhyTXZEbnVTQXF4dXUzMXF2RmE1NmQtTVl0TjJzY3R2d201alJFRHlpQkk5VFRra1N5Znc4LW
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnE0cDFwRUZid1VJMEZiSU9aNW9FZ2VlSm1MV2gwX185bEdfWUx5OW96UFhyTXZEbnVTQXF4dXUzMXF2RmE1NmQtTVl0TjJzY3R2d201alJFRHlpQkk5VFRra1N5Znc4LWZfd0g0TVZrTG5sRFNWaDBXcTRBVDF1VHF5WTluWUlzVkdfaERJUHMyNkhRd3hLVmZKeGFQdHhaUFh6TUNpbVZ6a1NCUkJ4ckJ4UHNsRWVEVnNzVk40bVBkb3pvVm9LUURUVEpNRGd6Mkw4UkRBWDA4a3JtTjNpSjdyWEZzZU55RVh6VVEwSmTSAfYBQVVfeXFMT3JFTWFEYzVYUzM3LW9ST0N6Vlctd3hlYjlxWDNNeloxX3N5QU1CX2gxTkRDZk9fZGJQZzJicmFvV19UZG5oWG5vMTdJQ0Q1X3d3MW5sa282Y1VBVUc4N19rZlMwR1ZnNjR0X2ZrYnRFRk02aVRGZXNxaEF5a0doSDlaZGFRZ2t1Sm55eXpaMGpLRTN3SWYyajdXZjVxZ01lWTB5YXZrWHhQNGw0bjFjLWR4RFFrbE54S2FfQmlqWEs2dmcyWFloNTZ0VlJ0TmRTMmFCNFZic1dVbjdBaV9FT3ZaNVhHamhsUUk1MnU4TkRyNXpNVUx3?oc=5
 
-- Trump to sign Russia sanctions bill; India-US ties, energy market on edge - Rediff
-  Rediff.com is a news site that focuses
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQby1ZU3dmanY2eTRuM0Z0R2ZReDZfOVQ1T2NRZWRKeGM4cy1jMEZvOXRTa0xfaGJfRjA4VHBXb1QwdzlxV21DaV9FNHBHZG9FMTZGRzNXMjlQSWtfRXhzNE8wcHdsQnpKLVNtSzA4RUhwNU1VTU15RkhEZzNrbGtYUnA0azN1b0tla3A0VmlWamhHd1EyWHV1OEIya2xNZGpUVnJHQkNaRFo0cDQwYlh3YV9ZNFhDdF9KZHZj0gG-AUFVX3lxTE15Zl9lOHVhUGVBT2VHVVB1dnBJT2RwcGlwaXpPQWxLa0d4S2hqbHk1MW5mX0o0VnowYUNCT1ZxV0NENjZoUmNlSUllbFpxQnp2RUdDazR6amhsQmd6d21TbnBOZXFkQVo5d2lDRkFRM2ROMnZZd2c4eDR6Z3NSSExNVVNxN3JNVC1DREdMSHlFNmR0ZWRobFJ0THoxSW1DeWwzeEVIUXhnNEdDUVJKT29uUGhzUVhlTFRobGR2anc?oc=5
+- India breaks into top 30 transparent real estate markets, ranks 26th globally - The Economic Times
+  India breaks into top 30 transparent real estate markets, ranks 26
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTG5ORkY5TUZTalNOcUpYT0ZHLTlaWnVDNTVPZXFVRmt4bno4WmJIcWVuU25ZeUg5OEJOQXpVYzZpMHYwc1lJQzB1dVp3NUpfLTRGTUNoYkwzdDltLXJ0OTByNUtvU01Cb3lQdVRuVVRzTUR1MWdUVmFiczdMR3ptbG9aMG9nVG1YMzdvTWRuSzZpMnA5ci1iQ2RPUmJ0T1dnc2lhdjVENzV6NUZJeVoxQnZmbTNIakI5VkFLQXA4TjBXWDlLUm9oNHAwbUl6VGdmZW9zWE9OcDFVck8wa3JpQlVLZFEyaDF0LUVvRUpIbE9odjN2MnVoWnpRQzlka2M?oc=5
 
-- Last day to bid! Jindal Supreme IPO closes today: Subscription tops 31 times, GMP at 27%; should you subscribe?
-  Retail investors have shown particularly strong interest, with the portion reserved for them subscribed 39.74 times
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/last-day-to-bid-jindal-supreme-ipo-closes-today-subscription-tops-31-times-gmp-at-27-should-you-subscribe/articleshow/134324046.cms
+- Bitcoin holds near $77K despite hawkish Fed, CLARITY Act setback and weak ETF demand. Here is what experts say
+  Bitcoin held near $77,000 despite hawkish Federal Reserve, weak crypto ETF flows and a Senate setback for the CLARITY Act. Experts said the cryptocurrency remains in a cautious recovery phase.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-holds-near-77k-despite-hawkish-fed-clarity-act-setback-and-weak-etf-demand-here-is-what-experts-say/articleshow/134330927.cms
 
-- Government seeks long-term funds to boost infrastructure work
-  India is grappling with a funding shortfall as long-term liabilities are rapidly decreasing. With bank deposits and debts maturing in less than three years, crucial infrastructure projects requiring decades of support are at risk. Insurance and pension products are proposed to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/government-seeks-long-term-funds-to-boost-infrastructure-work-addressing-potential-financial-gaps/articleshow/134324071.cms
+- Global Market: European shares edge lower as telecom stocks weigh
+  STOXX 600 slips 0.2% as telecommunications and food stocks weigh on benchmark. Technology stocks rose 0.9%, limiting losses, while energy shares declined amid weaker oil prices.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-lower-as-telecom-stocks-weigh/articleshow/134330715.cms
 
-- Positive Breakout: These 11 stocks cross above 200 DMAs
-  As long as a stock's price remains above its 200-day moving average on the daily timeframe, it
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-11-stocks-cross-above-200-dmas/slideshow/134324187.cms
+- Nestle India shares slip nearly 3% after FSSAI initiates legal action over infant nutrition products
+  Nestle India shares fell on Friday after FSSAI initiated three adjudication cases over alleged violations. The regulator flagged promotional claims on NAN Excella Pro Stage 1 and Lactogen Pro 1.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nestle-india-shares-slip-nearly-3-after-fssai-initiates-legal-action-over-infant-nutrition-products/articleshow/134330393.cms
 
-- SS Retail IPO Day 3: Subscription surpasses 6 times; GMP hints at 19% listing premium; check key details inside
-  The IPO, a book-built issue worth Rs 500 crore, comprises a fresh issue of 85.08 lakh shares aggregating to Rs 360 crore and an
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ss-retail-ipo-day-3-subscription-surpasses-6-times-gmp-hints-at-19-listing-premium-check-key-details-inside/articleshow/134323936.cms
+- India enters top 30 most transparent real estate markets, ranks 26th globally: JLL GRETI 2026
+  India has climbed five spots to 26th globally in JLL’s 2026 Global Real Estate Transparency Index. The improvement was driven by regulatory reforms, REIT expansion, stronger transaction transparency and sustainability disclosures.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/india-enters-top-30-most-transparent-real-estate-markets-ranks-26th-globally-jll-greti-2026/articleshow/134330217.cms
 
-- Oil Price Today (September 18): Crude oil falls below $104, down for third session. What are experts saying?
-  Saudi Arabia and Yemen's Iran-backed Houthis exchanged fresh strikes across their border on Thursday, widening the conflict's regional footprint.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-18-crude-oil-falls-below-104-down-for-third-session-what-are-experts-saying/articleshow/134323992.cms
+- US Market: Nike’s position in Dow Jones index comes under pressure
+  Nike faces growing speculation over its future in the Dow after being removed from the S&amp;P 100. Its weak share performance, low price and declining market value have raised
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-nikes-position-in-dow-jones-index-comes-under-pressure/articleshow/134329444.cms
 
-- U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others - The Hindu
-  U.S. House passes Russia sanctions Bill seeking to impose up to 100
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
+- India Sends 47 Lakh Litres Of Diesel To Bangladesh via Friendship Pipeline - NDTV
+  India Sends 47 Lakh Litres Of Diesel
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
 
-- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
-  "Will Protect Trade, Economic Interests":
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
+- Asian Games 2026 India schedule today, September 18: Women’s cricket team, soft tennis campaigns start - olympics.com
+  Asian Games 2026 India schedule today, September 18: Women�
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDNkRWNyMXhYYmppdWxwNnNkR203NVEyR3FmQjd5ODBmTnFhZXhNd2I5SnFKc0dRcUhvVm1MQ19tSTVXOElLdFZQUUpOZzFNZy1ITEF4X2M2RzB1OWZlajYzZ05SOFBieUpmRF9JZ3dNREl2STh0RU9rUzJDMnpqTWxSdThaWGZWMlNz?oc=5
 
-- India faces 100% tariff threat over Russian oil after US House vote - BBC
-  India faces 100% tariff threat over Russian oil after
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5
+- India's hospital boom is improving access but pricing millions out of critical care - BBC
+  India's hospital boom is improving access but pricing millions out
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSmE3YUI1X2R4ZWwxcXBBQ19Kck5iS3F1cV9xakZ4YjJBamMzWTl2emlhRnozaFQ2RHB6WV9vUGNzWC1oMlk1Y1c4cVlvWG4tRnROODhGcmpVZw?oc=5
 
-- El Niño puts India on track for its driest monsoon since 2009 - The Economic Times
-  El Niño puts India on track for its driest monsoon
-  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxNNUV3Y0JjUHpwdUdCZXA1bGpqTnRWdWF3VExLeE5McWpJeUkzNWNMM0J5dFN0a0RGZEJTam9Kd3c3MVBCdmNSR3dSRzhSWUx5Q0JHS0tFbHhOOHlvT01YRXdCemlnR1hHUmw2aG5reWNhb3c1cFFYX3ZmQnhZWjBuUjh0YnMtVmhoTnRLaFlyX3I2SzJubnc1VkNDVjhORXJqZGhWdlhvZEhXa1lxV3VjZWRxb054X1Y0MGQ0dU9IU3pMQ2R1Zm9zX21wM3VIdEdKSE9TLWIyRmkzN3dPQ05SZnFtOFBNRlBWZnJLbnk5U096U0tUZ3VoUU90RGNhRmRvWERYdzBmLWZWRWN0VEJZMkdKWDZraHp0THdEMnFqbUs4SUFRclhjTDlJTm8?oc=5
+- Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide at tea stall in Haridwar - The Times of India
+  Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYktKa0U5MWxlWV9xSGhaRUpiYUZFQ3dUVFl3eEF6Yk1YWFhHbnBnVUg2SjRCNGN5ZVdVMWdRMlRFZmpGUHNVM2VCRjl6bXltaVRWanVMYVhZOEtnam94RW5mdXFjNXdxdFdEd1VBLW9meWxaaWZvdFNDY0E5YXd6UFNrRkFkeWN2YmMtLUtQZEtYdVZEaWFnRGRoZWR6aTB2RHphS1BabUxRNENFM2RhekZSa2hWQl82WjY1Zkd6UWNWcWw1VVZLekxXekw2SFNDQjdoSF85SWwtQTVK0gHiAUFVX3lxTFBUN2pjRldxak1VMnBqVWdpY2l5V2pDSTFXUWxQYVR1LWEyRGFEemZBajhIYzRsVlhEYlM1Vkt2ZElzSWsyS3lEUF9YT0hOS1lqZDF2Y0oySlluQW91RzZGeGI1VDdiS2hUZ2o4ZzIyZnlMU3pnN0FrQkpRWkVBREVLemxNLWthMktORFNUbW16YmJ3ekJDTVV5U1EyMUFYQ2lDRWFhTkpDMGRXNFFMV2JMNndkd3ZfTG1rejBvRWFYdU1PTWV1N2hGOHlmWjBKdXNjX3FkdG5Mb2RGZ3ZaN3VRUXc?oc=5
 
-- Nepal asks India to support reconstruction after floods — Kathmandu Post - UA.NEWS
-  Nepal asks India to support reconstruction after
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZYSTNmTGxmVXZFd2tmbDVVZTBiSXJGNmdmUWV3dXNxNmlfeXlBUjNXVHo2TGEyYk5MVWJKUldvd0plTVY2TTJLajlDXzE0UUNmd1d0LVFUb0NnQldoVTlncXBNSnFHLW5JUzdFY3hzdk4wWFd6Vld5UXUzVXdndkRibFBySnI2MUdwYVgyM21ZRUVMeUo3cS1Wd0hrQQ?oc=5
+- Gukesh Drops Under 2700 As India Beats Indonesia - chess.com
+  Gukesh drops under 27
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5Zb3huempUTTZKaTA0bHVsWmhUTDBVajV0b3FLWVItTjQ1Y2hScTJTLXR5blFsNXRQdWJqX1FMUnlTNFphQ2xkaDgxVlh5YnBUUmZIWThjRFJ4WWJiRVZ4UUdhcUJPamFSRU05ajNfdW9qMXA0VXM4cw?oc=5
+
+- Asiana Fund, JC Capital Launch ₹1,000 Cr Fund To Back Deeptech Startups
+  Asiana Fund, the investment platform of the Dani Family Office, and Taiwan-based VC firm JC Capital have launched the ₹1,000&#8230;
+  🔗 https://inc42.com/buzz/asiana-fund-jc-capital-launch-%e2%82%b91000-cr-fund-to-back-deeptech-startups/
+
+- India Needs Hundreds Of Chip Companies To Build Global Ecosystem: L&T Semicon CEO
+  “India will need hundreds of semiconductor companies to build a globally competitive chip ecosystem,” says L&amp;T Semicon CEO.
+  🔗 https://inc42.com/buzz/india-needs-hundreds-of-chip-companies-to-build-global-ecosystem-lt-semicon-ceo/
+
+- Apple Pay May Launch In India Next Month With Axis Bank Partnership: Report
+  Apple is eyeing the launch of its payments service Apple Pay in India as early as next month.
+  🔗 https://inc42.com/buzz/apple-pay-may-launch-in-india-next-month-with-axis-bank-partnership-report/
+
+- UPI’s MDR Era, SEMICON India Day 1 Highlights & More
+  UPI transformed digital payments by making them virtually free. From October 15, this&#8230;;
+  🔗 https://inc42.com/buzz/upis-mdr-era-semicon-india-day-1-highlights-more/
 
 - Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue
    NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares.
   🔗 https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/
 
-- MDR On UPI Is Here, But Who Foots The Bill?
-  UPI is one of the cheapest ways for Indian merchants to collect digital payments.
-  🔗 https://inc42.com/features/mdr-on-upi-is-here-but-who-foots-the-bill/
+- India Sends 47 Lakh Litres Of Diesel To Bangladesh via Friendship Pipeline - NDTV
+  India Sends 47 Lakh Litres Of Diesel
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
 
-- SEBI Greenlights Kuku Technologies’ ₹3,500 Cr IPO
-  Markets regulator SEBI has greenlit the proposed listing of audio OTT startup Kuku Technologies.
-  🔗 https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/
+- Asian Games 2026 India schedule today, September 18: Women’s cricket team, soft tennis campaigns start - olympics.com
+  Asian Games 2026 India schedule today, September 18: Women�
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDNkRWNyMXhYYmppdWxwNnNkR203NVEyR3FmQjd5ODBmTnFhZXhNd2I5SnFKc0dRcUhvVm1MQ19tSTVXOElLdFZQUUpOZzFNZy1ITEF4X2M2RzB1OWZlajYzZ05SOFBieUpmRF9JZ3dNREl2STh0RU9rUzJDMnpqTWxSdThaWGZWMlNz?oc=5
 
-- Bombay Shaving Company Revises ‘Switch4’ Ad Post Delhi High Court Direction
-  Bombay Shaving Company (BSC) founder Shantanu Deshpande said the company has revised its Switch4 advertisement.
-  🔗 https://inc42.com/buzz/bombay-shaving-company-revises-switch4-ad-post-delhi-high-court-direction/
+- India's hospital boom is improving access but pricing millions out of critical care - BBC
+  India's hospital boom is improving access but pricing millions out
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSmE3YUI1X2R4ZWwxcXBBQ19Kck5iS3F1cV9xakZ4YjJBamMzWTl2emlhRnozaFQ2RHB6WV9vUGNzWC1oMlk1Y1c4cVlvWG4tRnROODhGcmpVZw?oc=5
 
-- DealShare Hunts For One Last Deal; Will It Find Any Takers?
-  “DealShare is today an empty vessel with $90 Mn in cash.” That’s how an investor who is aware of the deal says.
-  🔗 https://inc42.com/features/dealshare-hunts-for-one-last-deal-will-it-find-any-takers/
+- Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide at tea stall in Haridwar - The Times of India
+  Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYktKa0U5MWxlWV9xSGhaRUpiYUZFQ3dUVFl3eEF6Yk1YWFhHbnBnVUg2SjRCNGN5ZVdVMWdRMlRFZmpGUHNVM2VCRjl6bXltaVRWanVMYVhZOEtnam94RW5mdXFjNXdxdFdEd1VBLW9meWxaaWZvdFNDY0E5YXd6UFNrRkFkeWN2YmMtLUtQZEtYdVZEaWFnRGRoZWR6aTB2RHphS1BabUxRNENFM2RhekZSa2hWQl82WjY1Zkd6UWNWcWw1VVZLekxXekw2SFNDQjdoSF85SWwtQTVK0gHiAUFVX3lxTFBUN2pjRldxak1VMnBqVWdpY2l5V2pDSTFXUWxQYVR1LWEyRGFEemZBajhIYzRsVlhEYlM1Vkt2ZElzSWsyS3lEUF9YT0hOS1lqZDF2Y0oySlluQW91RzZGeGI1VDdiS2hUZ2o4ZzIyZnlMU3pnN0FrQkpRWkVBREVLemxNLWthMktORFNUbW16YmJ3ekJDTVV5U1EyMUFYQ2lDRWFhTkpDMGRXNFFMV2JMNndkd3ZfTG1rejBvRWFYdU1PTWV1N2hGOHlmWjBKdXNjX3FkdG5Mb2RGZ3ZaN3VRUXc?oc=5
 
-- U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others - The Hindu
-  U.S. House passes Russia sanctions Bill seeking to impose up to 100
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
+- Gukesh Drops Under 2700 As India Beats Indonesia - chess.com
+  Gukesh drops under 27
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5Zb3huempUTTZKaTA0bHVsWmhUTDBVajV0b3FLWVItTjQ1Y2hScTJTLXR5blFsNXRQdWJqX1FMUnlTNFphQ2xkaDgxVlh5YnBUUmZIWThjRFJ4WWJiRVZ4UUdhcUJPamFSRU05ajNfdW9qMXA0VXM4cw?oc=5
 
-- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
-  "Will Protect Trade, Economic Interests":
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
+- India Sends 47 Lakh Litres Of Diesel To Bangladesh via Friendship Pipeline - NDTV
+  India Sends 47 Lakh Litres Of Diesel
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
 
-- India faces 100% tariff threat over Russian oil after US House vote - BBC
-  India faces 100% tariff threat over Russian oil after
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5
+- Asian Games 2026 India schedule today, September 18: Women’s cricket team, soft tennis campaigns start - olympics.com
+  Asian Games 2026 India schedule today, September 18: Women�
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDNkRWNyMXhYYmppdWxwNnNkR203NVEyR3FmQjd5ODBmTnFhZXhNd2I5SnFKc0dRcUhvVm1MQ19tSTVXOElLdFZQUUpOZzFNZy1ITEF4X2M2RzB1OWZlajYzZ05SOFBieUpmRF9JZ3dNREl2STh0RU9rUzJDMnpqTWxSdThaWGZWMlNz?oc=5
 
-- El Niño puts India on track for its driest monsoon since 2009 - The Economic Times
-  El Niño puts India on track for its driest monsoon
-  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxNNUV3Y0JjUHpwdUdCZXA1bGpqTnRWdWF3VExLeE5McWpJeUkzNWNMM0J5dFN0a0RGZEJTam9Kd3c3MVBCdmNSR3dSRzhSWUx5Q0JHS0tFbHhOOHlvT01YRXdCemlnR1hHUmw2aG5reWNhb3c1cFFYX3ZmQnhZWjBuUjh0YnMtVmhoTnRLaFlyX3I2SzJubnc1VkNDVjhORXJqZGhWdlhvZEhXa1lxV3VjZWRxb054X1Y0MGQ0dU9IU3pMQ2R1Zm9zX21wM3VIdEdKSE9TLWIyRmkzN3dPQ05SZnFtOFBNRlBWZnJLbnk5U096U0tUZ3VoUU90RGNhRmRvWERYdzBmLWZWRWN0VEJZMkdKWDZraHp0THdEMnFqbUs4SUFRclhjTDlJTm8?oc=5
+- India's hospital boom is improving access but pricing millions out of critical care - BBC
+  India's hospital boom is improving access but pricing millions out
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSmE3YUI1X2R4ZWwxcXBBQ19Kck5iS3F1cV9xakZ4YjJBamMzWTl2emlhRnozaFQ2RHB6WV9vUGNzWC1oMlk1Y1c4cVlvWG4tRnROODhGcmpVZw?oc=5
 
-- Nepal asks India to support reconstruction after floods — Kathmandu Post - UA.NEWS
-  Nepal asks India to support reconstruction after
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZYSTNmTGxmVXZFd2tmbDVVZTBiSXJGNmdmUWV3dXNxNmlfeXlBUjNXVHo2TGEyYk5MVWJKUldvd0plTVY2TTJLajlDXzE0UUNmd1d0LVFUb0NnQldoVTlncXBNSnFHLW5JUzdFY3hzdk4wWFd6Vld5UXUzVXdndkRibFBySnI2MUdwYVgyM21ZRUVMeUo3cS1Wd0hrQQ?oc=5
+- Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide at tea stall in Haridwar - The Times of India
+  Surinder Koli, acquitted in 2006 Nithari serial killings case, dies by suicide
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYktKa0U5MWxlWV9xSGhaRUpiYUZFQ3dUVFl3eEF6Yk1YWFhHbnBnVUg2SjRCNGN5ZVdVMWdRMlRFZmpGUHNVM2VCRjl6bXltaVRWanVMYVhZOEtnam94RW5mdXFjNXdxdFdEd1VBLW9meWxaaWZvdFNDY0E5YXd6UFNrRkFkeWN2YmMtLUtQZEtYdVZEaWFnRGRoZWR6aTB2RHphS1BabUxRNENFM2RhekZSa2hWQl82WjY1Zkd6UWNWcWw1VVZLekxXekw2SFNDQjdoSF85SWwtQTVK0gHiAUFVX3lxTFBUN2pjRldxak1VMnBqVWdpY2l5V2pDSTFXUWxQYVR1LWEyRGFEemZBajhIYzRsVlhEYlM1Vkt2ZElzSWsyS3lEUF9YT0hOS1lqZDF2Y0oySlluQW91RzZGeGI1VDdiS2hUZ2o4ZzIyZnlMU3pnN0FrQkpRWkVBREVLemxNLWthMktORFNUbW16YmJ3ekJDTVV5U1EyMUFYQ2lDRWFhTkpDMGRXNFFMV2JMNndkd3ZfTG1rejBvRWFYdU1PTWV1N2hGOHlmWjBKdXNjX3FkdG5Mb2RGZ3ZaN3VRUXc?oc=5
 
-- U.S. House passes Russia sanctions Bill seeking to impose up to 100% tariffs on India, others - The Hindu
-  U.S. House passes Russia sanctions Bill seeking to impose up to 100
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5
-
-- "Will Protect Trade, Economic Interests": India On US' Russia Sanctions Bill - NDTV
-  "Will Protect Trade, Economic Interests":
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkd5MnJzMFY4Q3RYSmFUZWNIMnVOb016ZFowY1ZwZUFWODk3Nl8xUlBXV2FERWFyTGJrRnZKUy1OWHBsREliMkFhSkYwTktyd0MyRms2QkxxZ0JoS2dlcEFFR1htVGoxSTZEdmJlSExNRlJMR1IxMnFodmNjcUdQM2daZUNHbXZaS0I4aHlrQ1R2c3BWSXBzdVdTU0ZHOXlPZWEzRDdURE9iWVZfeWlhS1BWYmNrNThIRXY1MmxCVUVLTGstZ3JrRNIB0AFBVV95cUxOLXIwUUhoZDQ5RWlxWG1lWXdDaHFMUmxmT2NrVmtfeFpUWnRUWW5KYThLM3B4aEtCMU4xRTNMQWVYSGZhZ0N3elhQMXNUb2k2R3BjamRvRTdtNXZjV0NTSnlBbFFkY1JWTm5adHJVM09KSHotUkRhWDZaWkdWTE1kMzB3TG5YYmlUaG9kd1cwZHFPQVpYRzhra1RBWHZZWllGUXM1dTdhLV9laUEwYTd0WHVHSG02RDFnOGJnSURsUTI1Z0hnc2Y2SDhKNUJUOW9L?oc=5
-
-- India faces 100% tariff threat over Russian oil after US House vote - BBC
-  India faces 100% tariff threat over Russian oil after
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5
-
-- El Niño puts India on track for its driest monsoon since 2009 - The Economic Times
-  El Niño puts India on track for its driest monsoon
-  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxNNUV3Y0JjUHpwdUdCZXA1bGpqTnRWdWF3VExLeE5McWpJeUkzNWNMM0J5dFN0a0RGZEJTam9Kd3c3MVBCdmNSR3dSRzhSWUx5Q0JHS0tFbHhOOHlvT01YRXdCemlnR1hHUmw2aG5reWNhb3c1cFFYX3ZmQnhZWjBuUjh0YnMtVmhoTnRLaFlyX3I2SzJubnc1VkNDVjhORXJqZGhWdlhvZEhXa1lxV3VjZWRxb054X1Y0MGQ0dU9IU3pMQ2R1Zm9zX21wM3VIdEdKSE9TLWIyRmkzN3dPQ05SZnFtOFBNRlBWZnJLbnk5U096U0tUZ3VoUU90RGNhRmRvWERYdzBmLWZWRWN0VEJZMkdKWDZraHp0THdEMnFqbUs4SUFRclhjTDlJTm8?oc=5
-
-- Nepal asks India to support reconstruction after floods — Kathmandu Post - UA.NEWS
-  Nepal asks India to support reconstruction after
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZYSTNmTGxmVXZFd2tmbDVVZTBiSXJGNmdmUWV3dXNxNmlfeXlBUjNXVHo2TGEyYk5MVWJKUldvd0plTVY2TTJLajlDXzE0UUNmd1d0LVFUb0NnQldoVTlncXBNSnFHLW5JUzdFY3hzdk4wWFd6Vld5UXUzVXdndkRibFBySnI2MUdwYVgyM21ZRUVMeUo3cS1Wd0hrQQ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Gukesh Drops Under 2700 As India Beats Indonesia - chess.com
+  Gukesh drops under 27
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5Zb3huempUTTZKaTA0bHVsWmhUTDBVajV0b3FLWVItTjQ1Y2hScTJTLXR5blFsNXRQdWJqX1FMUnlTNFphQ2xkaDgxVlh5YnBUUmZIWThjRFJ4WWJiRVZ4UUdhcUJPamFSRU05ajNfdW9qMXA0VXM4cw?oc=5
 
 
-_Last updated: 2026-09-18 02:48:53 UTC_
+_Last updated: 2026-09-18 10:29:48 UTC_
