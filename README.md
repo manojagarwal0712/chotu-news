@@ -4,43 +4,51 @@
   India Sends 47 Lakh Litres Of Diesel
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
 
-- Fraternity must be India’s foremost goal, says former Supreme Court judge - thehindu.com
-  Fraternity must be India's foremost goal,
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNE04UmszeV9UN2ZRLWxBWXdtOFVTS2VMREVuRjVqelJzenh0THZMZlJ4V2FhTlNpT1R2bzBIOHg4U29FcGVJUG1oVTRvWEZjMWxLbTFhUUJhWUh0Qmd5UzMtNDM1N0ZvY25iYWJMRHo2ZEhPVHUtb3hsNWJBTUZvVF9sVjZzRGhtaVRaODVFOGpyVVEtQTB3bDE2MmJSNnJkcnNyQVFXWmpHSWI1dUdORkJ2YlNPWEt2bm5kSm1ScTBmVUU4Qk5TUjk4NUU4cnp6V05oUnN4emdCRTBhaVHSAeQBQVVfeXFMTld1OXVoMlFXdWVxSUVVM21lOWNQQTJrbE5JSGJQWUN3bDJpcXUyMm52NWdaMURDT2xDSFozc215ZUNyM1pOTzQ0Vko3UnRGZHNabktjRmFvckFVcFc5RjRHM3ZBcFZJNFcxdERpanc5SHFVY2JqRkdWeVR6RV9waGxyc3VfNkhGY0N6eFFhbkVpSlZLLVVFRWRMUlE5LVNYX0k4WEFHaVRoLWhnbTFvSmZ1Uk9ibEF2cUZ5aGJmVnZySlItZU1lTVV0a3RIWDB6OEZxR09SU1cwNWc0SHFtREhoUjJ4?oc=5
-
-- Indian Missions in Bahrain, Kuwait, UAE mark Seva Pakhwada with various community initiatives - newsonair.gov.in
-  Indian Missions in Bahrain, Kuwait, UAE mark Seva
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanMwcWZfYVN3b3NVQm5URW9CcXdOY0JERWR6RDB0WkRjcGZvT2R4U19rcG96VjRheFo0RG8yZ0dGOGxGWGxNekpHTFlFbTZhS3NHbmY0SlRtLXgyak0ySWFmZUg1OG1NQ3hHMlpSdENwaWdVbk5uZ1I0a1JSWFpRSjNTQWpaZ1ZVNXBHUnZkUF8wS29tUWYxMGN5YWJsYUE3TmFaRXZteVRud0xlNmVpUWlXMDFVT1hs?oc=5
-
-- Talks held with more than 20 companies at SEMICON India for investments in State, says M.B. Patil - thehindu.com
-  Talks held with more than 20 companies at SEMICON India for investments
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUXRKMk9FeDdESDJITjFyOHM4OHdnYVdXQVNYX2hrMWlGMV9hQ3JRaDNNdFZ4MnFGN0hrWmtKblhyM0NSLUc2d2Mxc1FHMm9FQms2RlhTX3RoZTVYc2ZuNTR4bU9vUWJYWkhUTlVXNU45d1VCVjFkbE13VzhjVzZ6azBBb2dTMUhnSWhjTzZFUkV5Q3JYY1hCWTkxemhoRjFqT1hRZVJiaU1iR1E1S1I5Tzk5a3lZb3ZXdFpiM3Flc0t0Ql9aOUIyNlhVTjlNTTJsTWtZLUo4TDZiZVdCZDIzRW5ON2lvWFExVW94RmMySmhqalBvdWfSAfwBQVVfeXFMUFYzTElpMUdYUmRyRWJmQUlJU3VFN0pDNE9icTREVHp0UzJQNUhKREdtMkEzbDc4d3ZXV3lJeFNRNTM5RUExOUQxX244dmtxYjNJTDdPWVdBVmNlczVRQTNoTzFDYXVBeTVfZmVrMzJwWWpFR21oQWw2Sk4xQTVtMUhleTRabEhuVWZwNHNJQnc4TkJkRlA1cjdxUjhIaGhjNWF4LUVld0VHWW1PRjN4Ri10aUxkT1htLWNkYUZnc3lNeVVlMjNhU2Z5MmZWOU1pZFhrWGNaVHA2bU1LbmFvT09HQ0o3eDJjMWVzai05LS0tYjRyVFFXS3dSWlAw?oc=5
+- Kathmandu-Bound Air India Flight Returns To Delhi Over Suspected Tech Issue - NDTV
+  Kathmandu-Bound Air India Flight
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2FtMW13d2VpY0JOX0JzSWhYNlZSZkVwTTZ3T1N4aU1qMXZjdDRGa1RyRngzYjU2cWd3Uk1ZTXNKcEptMEc4VkZZckE4d2s0cXpFYzBfakZfSENiRFBDSXc0NzlPM3dZekhpbHJucV8ya193TG4yaUlkdUphSE9TTnJsWEtCejZKdnBSTmhPa2Q0em1VVF96MnFCc2VFQU54M05ObU03V3NUcnRrbGlybmgtVFFBMjDSAb8BQVVfeXFMTmg1ay1Vd1Y4RjR5SGlZZ1IyYWZOSDBWdFNtLUstZWZOYUJ0cG9MSk1CNjhVcDRuTEpzSnM4MV9sSjZXZmZvdGctMkliZlIxcWI0Tm1fcUNxUVJ0MlRlWmJEandlZG5WQkREbzhIX2JFaTlMcnNXVDhPM0xZMV9RTmNqbUZpNFdIeFVnSEFuMlpUZGczWDBqNG1LQWFaMjVyQld2c1IxenhRSjZSNW1EcE5BbDBTYlpZRWg4Zi1nSFk?oc=5
 
 - Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt - BBC
   Tata Sons: India's corporate crown braces
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZakVDeHJOZmlpVEFMX3hwNFdEZ2dPWDJUYWtLU3dyaVhNRkVzTFB0Z09BdnA0MmdYYzF1enZXZUhfR2VhNk5lRDljNUR3M0FXU283c0NiTkpqSWc?oc=5
 
+- Noel Tata Issues Another Statement, Speaks Out Against Tata Sons' IPO - NDTV
+  Noel Tata Issues Another Statement, Speaks
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzdKTnFBejdnY2pjRjF3bVFDLVFpT2lUejYzaUs3Y245aUdpbENaRzlodTc0MnhOMWRoMnJpTi1uc21xSVhiaklCWWd0Ul9hZFVPLWN6d1RldVVqQTRYdHIwdVRSVzBMVGtKbGRxRVB4ai1SZW1EeE5PcmhzU2FQc1NMZFk5Z0todGlrQUQ2YlkwUGh5Z0otSUdyOWowSUEyUGwtZ0twamUwT3pnajF1LW9BVjQ2V040Skg5bFVWVFU5UdIBygFBVV95cUxPS1ZtQksxUEFYRkRmZWw4TFkxbl9uV3VmMjl1YjBZb1ZVLXRWa0lrcS1DSjRTZUlXSGo1bmdMTmlIR01XX0ZzM09VaUlVcjMxczdVZ0hkbG9RUHRNM0pkRDNNekNVeHB1RW1vclpHR2I0cHY2d1o3MXFMd3hnVWM2aTlqc255cktSYVNzTDdxVjBoWjZOUWhBVXhkS0NpdjdsX2dUY2pST0sxVzF5b2RNekNoaGYtNFhLdUFjdGdvd0tTWmtmY0t0djFB?oc=5
+
+- N Chandrasekaran’s advice to Indian graduates: ‘Keep pace, or get outdated’ - thehindubusinessline.com
+  N Chandrasekaran’s advice
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxORDB3U2ZHY1Zrdy1peklrOWFwMHFvcnpBVFpiTmhiWFRxcDJ5MUlzN3NBREVobnVSOTU3ZE91WWFyUjNnWU00T0dSVFVSRS01dzgxQXVtWVVIVlQya2ltczh5WFdnVE9nT0RQT0JneG52b0RhVVh2TlVhVi1sWWZTYlZVLWhGWDNQMkh3Mlhwek5fWHAxdEpnMk1PYW9ZMDFmLXV3ZGVLZS03bEhwT2ZDOFd0NHZfWUtjU3dDMUwtRzZQLWpMX3h5WGFUQ3nSAdMBQVVfeXFMT2pRQjFNYmNjdzJJQzBkRlY0UjJpWE9SSUdtZ0c2MHRaN3hFWjhLTzhYbTlHV1ltV3B1X2JUcEtaUmdBbkdaM0pfdUltMjFNQWJmR2ZxeUFEaFN2eDJDQWpZUm14b29fRldyQ2xzZ2hvX2pVRkVVOU52TGNoNVpmcHcyMzRPVW9DcWROUExZVXB4ODFsZEZYM2VMTnBPQ0NjMTcxeUhXNlFkVW1Eak42Q3FKQ085aTBVNS1paXA5NE9ybEZMMFR5THZHaTdIQ2hRXzNfaw?oc=5
+
 - Gemini AI Hacked Three Companies in a Testing Breakout, Google Says - The New York Times
   Gemini AI Hacked Three Companies in a Testing Break
   🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5
 
-- Disney Names AI Executive as First-Ever Chief Technology Officer - Bloomberg.com
-  Disney Names AI Executive as First-
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5
+- Technology should assist mankind and not diminish its dignity, says HC judge - The Hindu
+  Technology should assist mankind and not diminish its dignity, says
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM25BSnU2a0psWUlhM1padFAyRlRmd05uNG42eERlT2lpN3h2YmVZR2FuVUNJbWZjODhZQWhYYjN6VUFua0hkRC1vd2pDcW9IWmR1d0hHc3NQVjdSWnpvaDF5VVVKQV9tb05UMHhFT3JzZ3dJcVFSb1BrQ0xSM1FFdjJKUm9xMmdZSWtlTldlUDBHeDhCVlFwWFlldVdndWpmcldVTjBEWGhhNEZ2dkVwdTg1eWNkRWFsZHFJWUJsYlNrc3hLcC1VX25FOWRJN3hrYzVRZnVoQXVjTXBZU3V5VtIB5wFBVV95cUxPUTI1UGJXbTNtMXB6SDZpU0paSlhsVVJsTk03WjlMSnZYeGZnYXRsSW94MGRRQ1lRMUNwMHVXYVVxd2hNZ3BxTGVEZkV5ZzZBNGlvTkUtdldaek5yaktwRG9OTWJJNWZNMFVrY2pkdnJDUDdWU2YyeVJKNVZaOTlWWmd1eEJ5bkNUb2J2RU5tRVdLVnQ0Rl9zNzljTW1IcDBvZF9GWWtmcF8xb0dxUGRuY1FxWVhBYlpvcDhnc3RsbHlBcm84dXdhcWh5Z3pFT012Z0lqOF9UYm9qMkdWSUlqSnRaMndaSUE?oc=5
 
-- Disney names Character.AI's Karandeep Anand its first tech chief - ET BrandEquity
-  Disney names Character.AI's Karande
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeTcwQlB0N1NBNjkyZDdCQUxjZkZZdEhLRFZLTU9pQ1NzRC1GemdIc2JfUjA2cUYxWGpCNnhkQWZVSzNqTHlMSFlVR1NSRjJJdGJsUDYtQWpfZ3VrM3NRQ0NyeHd1alZheHNHejNNYk8yNEd5OE4yMEpneVpqbWtadkliQWpRY0ZuMWJWdFVScDE2NVJBb2EyVnlwMHVDeGNWdVlsT0VPUWIzN0kyOVR1Um5jZXVod2lNTUtsV0d1OWZIYnVsaGdVWE1PemtpOVFKcUdWTUJva0RFUGVBUHfSAeMBQVVfeXFMUDlCYmYwbUVJbFNvandzdkFtOUpGaHZZNWVpUUVNN0dZTWdNVWlRUkJJdm5LclByY2pveWpIdnMwOVlQQndSQ2ZudjBsa3cyWnI1LWpHRWJ4M01RVFJPQU1aT3YyWmt3R01IRWRMSFVCNUtDLUhJbm5JTTVRVGRReEtrRkpyQ3RTSkFLeWNoVzlzNWZQNHhuV05USUUyODVzTkhvd25mNzQtMkF0UzU1NFRDSDlQVjBlc2VQUWZhUFRfVkdjMG9MUS1SYlRGSnJuaXRvelg1N0hIMHhnSWhXRzV3eEU?oc=5
+- Who is Karandeep Anand, Disney's newly-appointed chief technology officer - The Times of India
+  Karandeep Anand, Disney's newly-
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUi10LWNEaW1tYW91LV93SUVMUzhFMUZ4bEJvTXFmdFJCOFJxbzMxc2hkaUJkcExIREpLS1Rxd2xkcUdwNUZ1a05KY2tVbm9uSVYwSnVWS09nSGNiemdzQldyZjB1SXMzQUFhTHZ2TGNOS0ZVYTlMOXExSFMwS0FCdlF4N1hOU2NwQVRzOE9FenAtd3FSRTQ4UW9wQ1ZjVGdMc0tCTEJtZEp4cHg1c3NtRFJMVFlza2lZenlZdDZqWUZtUW11bUpkZmlUQWpvRzZhYi1tb28tZTJCUdIB3wFBVV95cUxPRGtkSkcycEs2VzY3dFhiWGwtX0lrbjFHZlB3Q1V0ejQ4ck8zTVZRN1B3NEVNeTR4cVNnSlFKc21MUmJGMWZEcm1xRTQxT3JOV3lxYk5qZXdTOUY4NlhXSWVoVlVVNmJxQlhTZ0dJQkVUUXh6WnpvNXA5SEh3a3RxTF9kcDJmSF8tU291QThzVlJjZFRlNzVMQjZ4V0g3RUw3b3BNLUxzbkhiTnliNHlWeHp2aFB4ZHV1ZlVtSTRrTjRvLWIyMlZsT2ZhNWxUVVdEc1dtMUE0VEh0cTdZSTdv?oc=5
+
+- Disney Hires First-Ever Chief Technology Officer - The Hollywood Reporter
+  Disney Hires First-Ever
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1ZiLU5uRzJuNm1ZTTY5QWNYNF9lazVTQkRCaXVjM1lFUG9VSnI5NVJ2ZEdsU0J1QmJpMjBzVGs5YVExNEQyMzNLMUxYb1ZqNUVfNDVGUWJfa2Q3WFJ2d3Y0Vkp4WVBBVTREb1JkQjhEWjU2QUU1YzlrNUkwVDFTSmt4NWI3Ny1tVlA4X3VlUHlseGRGUWl3enZfVnM?oc=5
 
 - The Walt Disney Company Names Karandeep Anand to Newly Created Role of Chief Technology Officer - The Walt Disney Company
   The Walt Disney Company Names Karandeep Anand to Newly Created Role of Chief
   🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRhYThjUUZNdEd2RVR1Unp3M0VDLXBuaF9yVF9HclhqODRJRENhNmI2eGhGMWJDUnFMSDB0MnpwQjkwTE9xMTAxZ2x1Z1JNN0xsenVoY0NnYzhhMm5qbW04TkFZNllKckJSeEVDM040ZldsTGJUb3ViRUpNckRob29RdUJkZw?oc=5
 
-- Why Europe has been absent from the great AI safety debate - The Guardian
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE1BZl9TdlVqMGl4d3p2TVJkQTlkQURDY0ZteHFiVm9FbWlGbDFERGV0ZWxvQ1NmZW8yU1c3WG5KRDZQeC12YzhNdjJCc3ZOR1hmeXNaakR2VnROYzJRcUdvLTRpLVFMYkNNa0t0a0ZjWTNMY2FFVHZkUE9KNVNjWUE?oc=5
+- Alibaba, Meituan units in trouble? China antitrust probe follows Trip.com’s $776 million penalty
+  China investigates Alibaba and Meituan units over suspected unfair competition.
+  🔗 https://www.livemint.com/companies/news/alibaba-meituan-units-in-trouble-china-antitrust-probe-follows-trip-com-s-776-million-penalty-11789834813094.html
 
-- Paramount-Warner merger: California and 11 states could settle lawsuit blocking $110 billion acquisition — Report
+- Who is Robert Kraft? What is his net worth? Patriots owner’s fortune in the spotlight after Macklemore’s $1M challenge
+  Kraft's donation pledge comes amid controversy surrounding Macklemore’s removal from
+  🔗 https://www.livemint.com/news/trends/who-is-robert-kraft-what-is-his-net-worth-patriots-owner-s-fortune-in-the-spotlight-after-macklemore-s-1m-challenge-11789832139008.html
+
+- Paramount-Warner merger: California and 11 states could settle lawsuit blocking $110 billion acquisition this weekend
   A settlement would potentially remove one of the major legal obstacles to the acquisition. The precise impact would depend
   🔗 https://www.livemint.com/companies/news/paramountwarner-merger-california-and-11-states-could-settle-lawsuit-blocking-110-billion-acquisition-report-11789828816137.html
 
@@ -51,14 +59,6 @@
 - Porsche layoffs: 4,100 more positions at risk on top of 9,000 already planned
    Volkswagen's restructuring could lead to job cuts at Porsche. Over 4,000 positions at risk
   🔗 https://www.livemint.com/companies/news/porsche-layoffs-4-100-more-positions-at-risk-on-top-of-9-000-already-planned-11789820994526.html
-
-- Who is Karandeep Anand? The Character.AI CEO now joining Disney as its first CTO
-  Karandeep Anand will oversee enterprise technology and AI. He previously led Character.AI and has extensive experience at Microsoft and Facebook.
-  🔗 https://www.livemint.com/companies/people/who-is-karandeep-anand-the-character-ai-ceo-now-joining-disney-as-its-first-cto-11789814678363.html
-
-- Blackstone sees India nearing tipping point for foreign capital
-  India's human capital combined with U.S. financial capital can
-  🔗 https://www.livemint.com/companies/people/blackstone-sees-india-nearing-tipping-point-for-foreign-capital-11789813536602.html
 
 - ITC stock: 360 ONE maintains BUY, sees 68% upside; here’s why brokerage is bullish
   ITC navigates weakened cigarette volumes due to tax changes but is offsetting losses with price hikes and improving margins. 360 ONE maintains a BUY rating, predicting an upside of 68% with a target
@@ -80,6 +80,18 @@
    FSSAI has launched three adjudication cases against Nestle India for compliance issues with its infant nutrition products. Despite recent stock pressure, Nestle maintained that its products comply with
   🔗 https://www.livemint.com/market/stock-market-news/nestle-india-issues-clarification-why-fmcg-stock-plunged-whats-fssai-baby-formula-row-why-it-matters-to-consumers-11789794974681.html
 
+- Trump says he will appoint a new AI adviser, without providing details
+  Trump says he will appoint a new
+  🔗 https://www.livemint.com/technology/trump-says-he-will-appoint-a-new-ai-adviser-without-providing-details-11789842927744.html
+
+- iPhone Duo hinge needed extensive engineering, reveals Apple VP ahead of October 23 sale: ‘Feel solid, like a car door'
+  Apple has introduced its first foldable smartphone, the iPhone Duo. VP Tom Marieb detailed the engineering behind its hinge and durability.
+  🔗 https://www.livemint.com/technology/iphone-duo-hinge-needed-extensive-engineering-reveals-apple-vp-ahead-of-october-23-sale-feel-solid-like-a-car-door-11789825808070.html
+
+- Android Auto gets Google Maps avatar customisation; Gemini-powered destination info coming soon?
+  Google Maps for Android Auto now allows users to customize their driving avatar directly on their car display. This feature, previously limited to smartphones, is part of a server-side update.
+  🔗 https://www.livemint.com/technology/android-auto-gets-google-maps-avatar-customisation-gemini-powered-destination-info-coming-soon-11789837047100.html
+
 - Indias youth-driven talent will build next Qualcomms, Intels from here in coming years: Vaishnaw
   India's youth-driven talent will build next
   🔗 https://www.livemint.com/technology/indias-youth-driven-talent-will-build-next-qualcomms-intels-from-here-in-coming-years-vaishnaw-11789819997399.html
@@ -87,38 +99,6 @@
 - Telehealth companies keep exposing their customers medical data. What should they do?
   Telehealth companies keep exposing their customers
   🔗 https://www.livemint.com/technology/telehealth-companies-keep-exposing-their-customers-medical-data-what-should-they-do-11789819323158.html
-
-- Will AI models achieve the ability to improve autonomously? Leading labs say the scenario is near
-  Leading labs say the scenario is near. Will AI
-  🔗 https://www.livemint.com/technology/will-ai-models-achieve-the-ability-to-improve-autonomously-leading-labs-say-the-scenario-is-near-11789812081843.html
-
-- Anthropic, OpenAI, SpaceXAI, Google face federal antitrust lawsuit over calls to slowdown AI development
-  Leading artificial intelligence companies Anthropic, OpenAI, SpaceXAI, and Google face allegations of collusion. Calls emerged for a coordinated slowdown in AI development.
-  🔗 https://www.livemint.com/technology/anthropic-openai-spacexai-google-face-federal-antitrust-lawsuit-over-calls-to-slowdown-ai-development-11789791351245.html
-
-- Google’s Gemini breaks out of test environment to hack three external firms: Report
-  Google's Gemini hacked three companies in the first known breakout. The model accessed the internet and breached external systems.
-  🔗 https://www.livemint.com/technology/googles-gemini-breaks-out-of-test-environment-to-hack-three-external-firms-report-11789785729332.html
-
-- S&P 500 Falls as Treasury Yields Resume Advance: Markets Wrap - Bloomberg.com
-  P 500 Falls as Treasury Yields
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNVkhCUmZUbEVkMjdzcDFsQ2h6UVpQeDN4dGJwcWZNYVlCUEdzX1hZd2dnZm5lS2JYZkdQdzRsZElhekhLdjlGcEVIbGxoYVhjVXlhU2FFbG1kUmttd2MtWXhFNDdIMUJMUm1ydTlwTldwVzVKRXlVNEhIcTFFN21HWktLdGhIeVAwRTR5anUzZXNzZjRr?oc=5
-
-- Baazex Launches Explore More. Trade Smarter. Campaign as FSA-Licensed Broker Widens Access to 1,000+ Global Markets - TheWire.in
-  Baazex Launches Explore More. Trade Smarter. Campaign as
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPblVhejVuQjNLaUp0bV9td1VpY3Z3X2R3WUI3WlpDbktqZ1VsNGE1R0pGV3BzVTNIZFFmRTlKU2ZlVUVrajU2TlAxVlo1ZzRZTkxsREZabWcwcm5KWTMxRjJDbmY2eG5fMGhBMDJOZWFRRmhVNzNxRGVJbEk3ZUw4RGZvdjJHQXphMkI3QzFTQTJkNkxQU2FPNW95dEg2Q0pqdGdzaVNxTldwQVcwc2FaSUhlNUdTSWkzX1FTS3l0bDlBWFgtU05jNGd4dDd4cmt5ZFVUb2wybDR5eHVmT1BNdV9halbSAeoBQVVfeXFMTWZXem5TSWFQTUlRSndsNmV6WmVoNUdOQmV3MGhUd014dkZrRV9xVXNfdjFMNm5qa1ZkMTlUTDFkYU5QR0FSVG9MOW5reUx1R08zVkJRaklfMTJjMzNKSG96ODFZOC10N3dSLWI3OVNKOUFya0tnSmZBdC1Vdm5oSHJ1eUJJZkxIeV9mdXRmZ1g2REVPc3pPTGlOZV95TnI4RnNXQWY3S0UyRVBqNVp2VVE5OWd3R09OZzJMYU01Mzkza3hQel94XzVvMnpFbENyN3hoN01pU2RKbDVGTlFZbDFaNmM4bFV2NURR?oc=5
-
-- India ranks first in business climate among 41 global markets: Swedish Chamber survey - newsonair.gov.in
-  India ranks first in business climate among 41 global markets.
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQOExiQk8wNHNSZ2l0b211UmFaNi1sb2xtRC0xSEkwa2FQZlA3UUdiQi0ySlE0dHloZ2xjQThpUUY5ckVJV2RHMWNTUTZVRk1abEZVV3UtTWxJQ2hFMXVtVWdweHJJNFRxTGl1NFZtYjMwcjJYbjV2MWlFRE92XzlIYWFyc3l3TWROcEVtaF91ZW1jYkdta24w?oc=5
-
-- Markets are waking up to the rich world’s reckless borrowing - The Economist
-  Markets are waking up to the rich world
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNUktWdnY0XzRJUGpMeWNjLV8zcm1aQVZVMDVSQkVZRElYWHRvNUJTTDRjMDBlREtBOGpObEpjSzlBaVk5eFM4LXRkazdiYmJoc0lhUFQyZzZFaEdMT1phY1R3Y19YZDBNcExoWFk5VHhXTnJDU1M3QUk3SkpZcVBtaVB1d0RkTWRvQkhXbkJkUnI2cGFoaTc3UU9XQ1NLS01vblVMMUhIZw?oc=5
-
-- Two-Year U.S. Treasury Yield Reaches New Multi-Year High - WSJ
-  Two-Year U.S
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxObWdZelU2d3JvOUc2QTVSQUt0Wk1pTnhkX0c3NF9DU0JUcFpYdWF3Ty1NNlFabDJXbF9IZENjNVI3aUVVTzRsekh4V24yTlZaX2wzVEhaMFRQc3FPUklPRlJPNnNCT1E0SmJCWl9FZHE5Qy1ZZEN3Y2NJWGpQaThRdmtfekZHbzl5bzI2NVpLMHJQUDZUVlR0U2owaEhvNHhDdDc3Ug?oc=5
 
 - Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone?
   Nifty enters the week in a corrective, range-bound setup. 23,000–23,100 emerging as crucial support and 23,500 as the first resistance. Weak momentum indicators and subdued volatility suggest cautious trading
@@ -144,21 +124,21 @@
   India Sends 47 Lakh Litres Of Diesel
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
 
-- Fraternity must be India’s foremost goal, says former Supreme Court judge - thehindu.com
-  Fraternity must be India's foremost goal,
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNE04UmszeV9UN2ZRLWxBWXdtOFVTS2VMREVuRjVqelJzenh0THZMZlJ4V2FhTlNpT1R2bzBIOHg4U29FcGVJUG1oVTRvWEZjMWxLbTFhUUJhWUh0Qmd5UzMtNDM1N0ZvY25iYWJMRHo2ZEhPVHUtb3hsNWJBTUZvVF9sVjZzRGhtaVRaODVFOGpyVVEtQTB3bDE2MmJSNnJkcnNyQVFXWmpHSWI1dUdORkJ2YlNPWEt2bm5kSm1ScTBmVUU4Qk5TUjk4NUU4cnp6V05oUnN4emdCRTBhaVHSAeQBQVVfeXFMTld1OXVoMlFXdWVxSUVVM21lOWNQQTJrbE5JSGJQWUN3bDJpcXUyMm52NWdaMURDT2xDSFozc215ZUNyM1pOTzQ0Vko3UnRGZHNabktjRmFvckFVcFc5RjRHM3ZBcFZJNFcxdERpanc5SHFVY2JqRkdWeVR6RV9waGxyc3VfNkhGY0N6eFFhbkVpSlZLLVVFRWRMUlE5LVNYX0k4WEFHaVRoLWhnbTFvSmZ1Uk9ibEF2cUZ5aGJmVnZySlItZU1lTVV0a3RIWDB6OEZxR09SU1cwNWc0SHFtREhoUjJ4?oc=5
-
-- Indian Missions in Bahrain, Kuwait, UAE mark Seva Pakhwada with various community initiatives - newsonair.gov.in
-  Indian Missions in Bahrain, Kuwait, UAE mark Seva
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanMwcWZfYVN3b3NVQm5URW9CcXdOY0JERWR6RDB0WkRjcGZvT2R4U19rcG96VjRheFo0RG8yZ0dGOGxGWGxNekpHTFlFbTZhS3NHbmY0SlRtLXgyak0ySWFmZUg1OG1NQ3hHMlpSdENwaWdVbk5uZ1I0a1JSWFpRSjNTQWpaZ1ZVNXBHUnZkUF8wS29tUWYxMGN5YWJsYUE3TmFaRXZteVRud0xlNmVpUWlXMDFVT1hs?oc=5
-
-- Talks held with more than 20 companies at SEMICON India for investments in State, says M.B. Patil - thehindu.com
-  Talks held with more than 20 companies at SEMICON India for investments
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUXRKMk9FeDdESDJITjFyOHM4OHdnYVdXQVNYX2hrMWlGMV9hQ3JRaDNNdFZ4MnFGN0hrWmtKblhyM0NSLUc2d2Mxc1FHMm9FQms2RlhTX3RoZTVYc2ZuNTR4bU9vUWJYWkhUTlVXNU45d1VCVjFkbE13VzhjVzZ6azBBb2dTMUhnSWhjTzZFUkV5Q3JYY1hCWTkxemhoRjFqT1hRZVJiaU1iR1E1S1I5Tzk5a3lZb3ZXdFpiM3Flc0t0Ql9aOUIyNlhVTjlNTTJsTWtZLUo4TDZiZVdCZDIzRW5ON2lvWFExVW94RmMySmhqalBvdWfSAfwBQVVfeXFMUFYzTElpMUdYUmRyRWJmQUlJU3VFN0pDNE9icTREVHp0UzJQNUhKREdtMkEzbDc4d3ZXV3lJeFNRNTM5RUExOUQxX244dmtxYjNJTDdPWVdBVmNlczVRQTNoTzFDYXVBeTVfZmVrMzJwWWpFR21oQWw2Sk4xQTVtMUhleTRabEhuVWZwNHNJQnc4TkJkRlA1cjdxUjhIaGhjNWF4LUVld0VHWW1PRjN4Ri10aUxkT1htLWNkYUZnc3lNeVVlMjNhU2Z5MmZWOU1pZFhrWGNaVHA2bU1LbmFvT09HQ0o3eDJjMWVzai05LS0tYjRyVFFXS3dSWlAw?oc=5
+- Kathmandu-Bound Air India Flight Returns To Delhi Over Suspected Tech Issue - NDTV
+  Kathmandu-Bound Air India Flight
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2FtMW13d2VpY0JOX0JzSWhYNlZSZkVwTTZ3T1N4aU1qMXZjdDRGa1RyRngzYjU2cWd3Uk1ZTXNKcEptMEc4VkZZckE4d2s0cXpFYzBfakZfSENiRFBDSXc0NzlPM3dZekhpbHJucV8ya193TG4yaUlkdUphSE9TTnJsWEtCejZKdnBSTmhPa2Q0em1VVF96MnFCc2VFQU54M05ObU03V3NUcnRrbGlybmgtVFFBMjDSAb8BQVVfeXFMTmg1ay1Vd1Y4RjR5SGlZZ1IyYWZOSDBWdFNtLUstZWZOYUJ0cG9MSk1CNjhVcDRuTEpzSnM4MV9sSjZXZmZvdGctMkliZlIxcWI0Tm1fcUNxUVJ0MlRlWmJEandlZG5WQkREbzhIX2JFaTlMcnNXVDhPM0xZMV9RTmNqbUZpNFdIeFVnSEFuMlpUZGczWDBqNG1LQWFaMjVyQld2c1IxenhRSjZSNW1EcE5BbDBTYlpZRWg4Zi1nSFk?oc=5
 
 - Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt - BBC
   Tata Sons: India's corporate crown braces
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZakVDeHJOZmlpVEFMX3hwNFdEZ2dPWDJUYWtLU3dyaVhNRkVzTFB0Z09BdnA0MmdYYzF1enZXZUhfR2VhNk5lRDljNUR3M0FXU283c0NiTkpqSWc?oc=5
+
+- Noel Tata Issues Another Statement, Speaks Out Against Tata Sons' IPO - NDTV
+  Noel Tata Issues Another Statement, Speaks
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzdKTnFBejdnY2pjRjF3bVFDLVFpT2lUejYzaUs3Y245aUdpbENaRzlodTc0MnhOMWRoMnJpTi1uc21xSVhiaklCWWd0Ul9hZFVPLWN6d1RldVVqQTRYdHIwdVRSVzBMVGtKbGRxRVB4ai1SZW1EeE5PcmhzU2FQc1NMZFk5Z0todGlrQUQ2YlkwUGh5Z0otSUdyOWowSUEyUGwtZ0twamUwT3pnajF1LW9BVjQ2V040Skg5bFVWVFU5UdIBygFBVV95cUxPS1ZtQksxUEFYRkRmZWw4TFkxbl9uV3VmMjl1YjBZb1ZVLXRWa0lrcS1DSjRTZUlXSGo1bmdMTmlIR01XX0ZzM09VaUlVcjMxczdVZ0hkbG9RUHRNM0pkRDNNekNVeHB1RW1vclpHR2I0cHY2d1o3MXFMd3hnVWM2aTlqc255cktSYVNzTDdxVjBoWjZOUWhBVXhkS0NpdjdsX2dUY2pST0sxVzF5b2RNekNoaGYtNFhLdUFjdGdvd0tTWmtmY0t0djFB?oc=5
+
+- N Chandrasekaran’s advice to Indian graduates: ‘Keep pace, or get outdated’ - thehindubusinessline.com
+  N Chandrasekaran’s advice
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxORDB3U2ZHY1Zrdy1peklrOWFwMHFvcnpBVFpiTmhiWFRxcDJ5MUlzN3NBREVobnVSOTU3ZE91WWFyUjNnWU00T0dSVFVSRS01dzgxQXVtWVVIVlQya2ltczh5WFdnVE9nT0RQT0JneG52b0RhVVh2TlVhVi1sWWZTYlZVLWhGWDNQMkh3Mlhwek5fWHAxdEpnMk1PYW9ZMDFmLXV3ZGVLZS03bEhwT2ZDOFd0NHZfWUtjU3dDMUwtRzZQLWpMX3h5WGFUQ3nSAdMBQVVfeXFMT2pRQjFNYmNjdzJJQzBkRlY0UjJpWE9SSUdtZ0c2MHRaN3hFWjhLTzhYbTlHV1ltV3B1X2JUcEtaUmdBbkdaM0pfdUltMjFNQWJmR2ZxeUFEaFN2eDJDQWpZUm14b29fRldyQ2xzZ2hvX2pVRkVVOU52TGNoNVpmcHcyMzRPVW9DcWROUExZVXB4ODFsZEZYM2VMTnBPQ0NjMTcxeUhXNlFkVW1Eak42Q3FKQ085aTBVNS1paXA5NE9ybEZMMFR5THZHaTdIQ2hRXzNfaw?oc=5
 
 - Innov8’s FY26 Profit Zooms Multifold To ₹13.7 Cr, Revenue Crosses ₹200 Cr Mark
   Premium flexible workspace operator Innov8 Workspaces sharply improved its profitability in the fiscal year FY26. Innov8 is rapidly expanding the network.
@@ -184,61 +164,69 @@
   India Sends 47 Lakh Litres Of Diesel
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
 
-- Fraternity must be India’s foremost goal, says former Supreme Court judge - thehindu.com
-  Fraternity must be India's foremost goal,
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNE04UmszeV9UN2ZRLWxBWXdtOFVTS2VMREVuRjVqelJzenh0THZMZlJ4V2FhTlNpT1R2bzBIOHg4U29FcGVJUG1oVTRvWEZjMWxLbTFhUUJhWUh0Qmd5UzMtNDM1N0ZvY25iYWJMRHo2ZEhPVHUtb3hsNWJBTUZvVF9sVjZzRGhtaVRaODVFOGpyVVEtQTB3bDE2MmJSNnJkcnNyQVFXWmpHSWI1dUdORkJ2YlNPWEt2bm5kSm1ScTBmVUU4Qk5TUjk4NUU4cnp6V05oUnN4emdCRTBhaVHSAeQBQVVfeXFMTld1OXVoMlFXdWVxSUVVM21lOWNQQTJrbE5JSGJQWUN3bDJpcXUyMm52NWdaMURDT2xDSFozc215ZUNyM1pOTzQ0Vko3UnRGZHNabktjRmFvckFVcFc5RjRHM3ZBcFZJNFcxdERpanc5SHFVY2JqRkdWeVR6RV9waGxyc3VfNkhGY0N6eFFhbkVpSlZLLVVFRWRMUlE5LVNYX0k4WEFHaVRoLWhnbTFvSmZ1Uk9ibEF2cUZ5aGJmVnZySlItZU1lTVV0a3RIWDB6OEZxR09SU1cwNWc0SHFtREhoUjJ4?oc=5
-
-- Indian Missions in Bahrain, Kuwait, UAE mark Seva Pakhwada with various community initiatives - newsonair.gov.in
-  Indian Missions in Bahrain, Kuwait, UAE mark Seva
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanMwcWZfYVN3b3NVQm5URW9CcXdOY0JERWR6RDB0WkRjcGZvT2R4U19rcG96VjRheFo0RG8yZ0dGOGxGWGxNekpHTFlFbTZhS3NHbmY0SlRtLXgyak0ySWFmZUg1OG1NQ3hHMlpSdENwaWdVbk5uZ1I0a1JSWFpRSjNTQWpaZ1ZVNXBHUnZkUF8wS29tUWYxMGN5YWJsYUE3TmFaRXZteVRud0xlNmVpUWlXMDFVT1hs?oc=5
-
-- Talks held with more than 20 companies at SEMICON India for investments in State, says M.B. Patil - thehindu.com
-  Talks held with more than 20 companies at SEMICON India for investments
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUXRKMk9FeDdESDJITjFyOHM4OHdnYVdXQVNYX2hrMWlGMV9hQ3JRaDNNdFZ4MnFGN0hrWmtKblhyM0NSLUc2d2Mxc1FHMm9FQms2RlhTX3RoZTVYc2ZuNTR4bU9vUWJYWkhUTlVXNU45d1VCVjFkbE13VzhjVzZ6azBBb2dTMUhnSWhjTzZFUkV5Q3JYY1hCWTkxemhoRjFqT1hRZVJiaU1iR1E1S1I5Tzk5a3lZb3ZXdFpiM3Flc0t0Ql9aOUIyNlhVTjlNTTJsTWtZLUo4TDZiZVdCZDIzRW5ON2lvWFExVW94RmMySmhqalBvdWfSAfwBQVVfeXFMUFYzTElpMUdYUmRyRWJmQUlJU3VFN0pDNE9icTREVHp0UzJQNUhKREdtMkEzbDc4d3ZXV3lJeFNRNTM5RUExOUQxX244dmtxYjNJTDdPWVdBVmNlczVRQTNoTzFDYXVBeTVfZmVrMzJwWWpFR21oQWw2Sk4xQTVtMUhleTRabEhuVWZwNHNJQnc4TkJkRlA1cjdxUjhIaGhjNWF4LUVld0VHWW1PRjN4Ri10aUxkT1htLWNkYUZnc3lNeVVlMjNhU2Z5MmZWOU1pZFhrWGNaVHA2bU1LbmFvT09HQ0o3eDJjMWVzai05LS0tYjRyVFFXS3dSWlAw?oc=5
+- Kathmandu-Bound Air India Flight Returns To Delhi Over Suspected Tech Issue - NDTV
+  Kathmandu-Bound Air India Flight
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2FtMW13d2VpY0JOX0JzSWhYNlZSZkVwTTZ3T1N4aU1qMXZjdDRGa1RyRngzYjU2cWd3Uk1ZTXNKcEptMEc4VkZZckE4d2s0cXpFYzBfakZfSENiRFBDSXc0NzlPM3dZekhpbHJucV8ya193TG4yaUlkdUphSE9TTnJsWEtCejZKdnBSTmhPa2Q0em1VVF96MnFCc2VFQU54M05ObU03V3NUcnRrbGlybmgtVFFBMjDSAb8BQVVfeXFMTmg1ay1Vd1Y4RjR5SGlZZ1IyYWZOSDBWdFNtLUstZWZOYUJ0cG9MSk1CNjhVcDRuTEpzSnM4MV9sSjZXZmZvdGctMkliZlIxcWI0Tm1fcUNxUVJ0MlRlWmJEandlZG5WQkREbzhIX2JFaTlMcnNXVDhPM0xZMV9RTmNqbUZpNFdIeFVnSEFuMlpUZGczWDBqNG1LQWFaMjVyQld2c1IxenhRSjZSNW1EcE5BbDBTYlpZRWg4Zi1nSFk?oc=5
 
 - Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt - BBC
   Tata Sons: India's corporate crown braces
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZakVDeHJOZmlpVEFMX3hwNFdEZ2dPWDJUYWtLU3dyaVhNRkVzTFB0Z09BdnA0MmdYYzF1enZXZUhfR2VhNk5lRDljNUR3M0FXU283c0NiTkpqSWc?oc=5
+
+- Noel Tata Issues Another Statement, Speaks Out Against Tata Sons' IPO - NDTV
+  Noel Tata Issues Another Statement, Speaks
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzdKTnFBejdnY2pjRjF3bVFDLVFpT2lUejYzaUs3Y245aUdpbENaRzlodTc0MnhOMWRoMnJpTi1uc21xSVhiaklCWWd0Ul9hZFVPLWN6d1RldVVqQTRYdHIwdVRSVzBMVGtKbGRxRVB4ai1SZW1EeE5PcmhzU2FQc1NMZFk5Z0todGlrQUQ2YlkwUGh5Z0otSUdyOWowSUEyUGwtZ0twamUwT3pnajF1LW9BVjQ2V040Skg5bFVWVFU5UdIBygFBVV95cUxPS1ZtQksxUEFYRkRmZWw4TFkxbl9uV3VmMjl1YjBZb1ZVLXRWa0lrcS1DSjRTZUlXSGo1bmdMTmlIR01XX0ZzM09VaUlVcjMxczdVZ0hkbG9RUHRNM0pkRDNNekNVeHB1RW1vclpHR2I0cHY2d1o3MXFMd3hnVWM2aTlqc255cktSYVNzTDdxVjBoWjZOUWhBVXhkS0NpdjdsX2dUY2pST0sxVzF5b2RNekNoaGYtNFhLdUFjdGdvd0tTWmtmY0t0djFB?oc=5
+
+- N Chandrasekaran’s advice to Indian graduates: ‘Keep pace, or get outdated’ - thehindubusinessline.com
+  N Chandrasekaran’s advice
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxORDB3U2ZHY1Zrdy1peklrOWFwMHFvcnpBVFpiTmhiWFRxcDJ5MUlzN3NBREVobnVSOTU3ZE91WWFyUjNnWU00T0dSVFVSRS01dzgxQXVtWVVIVlQya2ltczh5WFdnVE9nT0RQT0JneG52b0RhVVh2TlVhVi1sWWZTYlZVLWhGWDNQMkh3Mlhwek5fWHAxdEpnMk1PYW9ZMDFmLXV3ZGVLZS03bEhwT2ZDOFd0NHZfWUtjU3dDMUwtRzZQLWpMX3h5WGFUQ3nSAdMBQVVfeXFMT2pRQjFNYmNjdzJJQzBkRlY0UjJpWE9SSUdtZ0c2MHRaN3hFWjhLTzhYbTlHV1ltV3B1X2JUcEtaUmdBbkdaM0pfdUltMjFNQWJmR2ZxeUFEaFN2eDJDQWpZUm14b29fRldyQ2xzZ2hvX2pVRkVVOU52TGNoNVpmcHcyMzRPVW9DcWROUExZVXB4ODFsZEZYM2VMTnBPQ0NjMTcxeUhXNlFkVW1Eak42Q3FKQ085aTBVNS1paXA5NE9ybEZMMFR5THZHaTdIQ2hRXzNfaw?oc=5
 
 - India Sends 47 Lakh Litres Of Diesel To Bangladesh via Friendship Pipeline - NDTV
   India Sends 47 Lakh Litres Of Diesel
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnAzbmIzRHZwTVBWM1lhY21DbjdJOE96TDZfTjM1cUo0aXlXSWFkSUZ3Z2dxRnpiWlhvSjhCSC00UVNhRXY5Rzk5azRoWl9RRkg2QnZpSWs4TkpkRE13dmkyWGtmd2k5cmpTRXYzTTdfSGxhUl9ydE1OaS1Nd3AwUERMZWs5N2lzdUhpSU9vM1ZBLWtKTnJPUzJvQzM5WDVEdG01c0w0X0N4X2ROUk9mRFZZaHBIUdIBvgFBVV95cUxNcGtZSFdya25QdjZ6TDIxa0EtUWpIT0Y2R2xhMUx4QTg0RjAweTh5LVo2aHVfdlEwTko2Qkd5bmdERlJXNDEyNkhCSVpKY3pkb1ZGekp1OW5ndnVWdHZTU1pNQ2RCQzExZy0tODR3ZlBTYTNNbDBWSlV0MGU1SVh3TG50SkZvcHdLV2NiYmptZmxGMUozR28xOE1TanVBZS15clUyRGw4QnZuMjdrTTljRzQ5bVNNNnJwY2N6VEF3?oc=5
 
-- Fraternity must be India’s foremost goal, says former Supreme Court judge - thehindu.com
-  Fraternity must be India's foremost goal,
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNE04UmszeV9UN2ZRLWxBWXdtOFVTS2VMREVuRjVqelJzenh0THZMZlJ4V2FhTlNpT1R2bzBIOHg4U29FcGVJUG1oVTRvWEZjMWxLbTFhUUJhWUh0Qmd5UzMtNDM1N0ZvY25iYWJMRHo2ZEhPVHUtb3hsNWJBTUZvVF9sVjZzRGhtaVRaODVFOGpyVVEtQTB3bDE2MmJSNnJkcnNyQVFXWmpHSWI1dUdORkJ2YlNPWEt2bm5kSm1ScTBmVUU4Qk5TUjk4NUU4cnp6V05oUnN4emdCRTBhaVHSAeQBQVVfeXFMTld1OXVoMlFXdWVxSUVVM21lOWNQQTJrbE5JSGJQWUN3bDJpcXUyMm52NWdaMURDT2xDSFozc215ZUNyM1pOTzQ0Vko3UnRGZHNabktjRmFvckFVcFc5RjRHM3ZBcFZJNFcxdERpanc5SHFVY2JqRkdWeVR6RV9waGxyc3VfNkhGY0N6eFFhbkVpSlZLLVVFRWRMUlE5LVNYX0k4WEFHaVRoLWhnbTFvSmZ1Uk9ibEF2cUZ5aGJmVnZySlItZU1lTVV0a3RIWDB6OEZxR09SU1cwNWc0SHFtREhoUjJ4?oc=5
-
-- Indian Missions in Bahrain, Kuwait, UAE mark Seva Pakhwada with various community initiatives - newsonair.gov.in
-  Indian Missions in Bahrain, Kuwait, UAE mark Seva
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanMwcWZfYVN3b3NVQm5URW9CcXdOY0JERWR6RDB0WkRjcGZvT2R4U19rcG96VjRheFo0RG8yZ0dGOGxGWGxNekpHTFlFbTZhS3NHbmY0SlRtLXgyak0ySWFmZUg1OG1NQ3hHMlpSdENwaWdVbk5uZ1I0a1JSWFpRSjNTQWpaZ1ZVNXBHUnZkUF8wS29tUWYxMGN5YWJsYUE3TmFaRXZteVRud0xlNmVpUWlXMDFVT1hs?oc=5
-
-- Talks held with more than 20 companies at SEMICON India for investments in State, says M.B. Patil - thehindu.com
-  Talks held with more than 20 companies at SEMICON India for investments
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUXRKMk9FeDdESDJITjFyOHM4OHdnYVdXQVNYX2hrMWlGMV9hQ3JRaDNNdFZ4MnFGN0hrWmtKblhyM0NSLUc2d2Mxc1FHMm9FQms2RlhTX3RoZTVYc2ZuNTR4bU9vUWJYWkhUTlVXNU45d1VCVjFkbE13VzhjVzZ6azBBb2dTMUhnSWhjTzZFUkV5Q3JYY1hCWTkxemhoRjFqT1hRZVJiaU1iR1E1S1I5Tzk5a3lZb3ZXdFpiM3Flc0t0Ql9aOUIyNlhVTjlNTTJsTWtZLUo4TDZiZVdCZDIzRW5ON2lvWFExVW94RmMySmhqalBvdWfSAfwBQVVfeXFMUFYzTElpMUdYUmRyRWJmQUlJU3VFN0pDNE9icTREVHp0UzJQNUhKREdtMkEzbDc4d3ZXV3lJeFNRNTM5RUExOUQxX244dmtxYjNJTDdPWVdBVmNlczVRQTNoTzFDYXVBeTVfZmVrMzJwWWpFR21oQWw2Sk4xQTVtMUhleTRabEhuVWZwNHNJQnc4TkJkRlA1cjdxUjhIaGhjNWF4LUVld0VHWW1PRjN4Ri10aUxkT1htLWNkYUZnc3lNeVVlMjNhU2Z5MmZWOU1pZFhrWGNaVHA2bU1LbmFvT09HQ0o3eDJjMWVzai05LS0tYjRyVFFXS3dSWlAw?oc=5
+- Kathmandu-Bound Air India Flight Returns To Delhi Over Suspected Tech Issue - NDTV
+  Kathmandu-Bound Air India Flight
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2FtMW13d2VpY0JOX0JzSWhYNlZSZkVwTTZ3T1N4aU1qMXZjdDRGa1RyRngzYjU2cWd3Uk1ZTXNKcEptMEc4VkZZckE4d2s0cXpFYzBfakZfSENiRFBDSXc0NzlPM3dZekhpbHJucV8ya193TG4yaUlkdUphSE9TTnJsWEtCejZKdnBSTmhPa2Q0em1VVF96MnFCc2VFQU54M05ObU03V3NUcnRrbGlybmgtVFFBMjDSAb8BQVVfeXFMTmg1ay1Vd1Y4RjR5SGlZZ1IyYWZOSDBWdFNtLUstZWZOYUJ0cG9MSk1CNjhVcDRuTEpzSnM4MV9sSjZXZmZvdGctMkliZlIxcWI0Tm1fcUNxUVJ0MlRlWmJEandlZG5WQkREbzhIX2JFaTlMcnNXVDhPM0xZMV9RTmNqbUZpNFdIeFVnSEFuMlpUZGczWDBqNG1LQWFaMjVyQld2c1IxenhRSjZSNW1EcE5BbDBTYlpZRWg4Zi1nSFk?oc=5
 
 - Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt - BBC
   Tata Sons: India's corporate crown braces
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZakVDeHJOZmlpVEFMX3hwNFdEZ2dPWDJUYWtLU3dyaVhNRkVzTFB0Z09BdnA0MmdYYzF1enZXZUhfR2VhNk5lRDljNUR3M0FXU283c0NiTkpqSWc?oc=5
 
-- Gemini AI Hacked Three Companies in a Testing Breakout, Google Says - The New York Times
-  Gemini AI Hacked Three Companies in a Testing Break
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5
+- Noel Tata Issues Another Statement, Speaks Out Against Tata Sons' IPO - NDTV
+  Noel Tata Issues Another Statement, Speaks
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzdKTnFBejdnY2pjRjF3bVFDLVFpT2lUejYzaUs3Y245aUdpbENaRzlodTc0MnhOMWRoMnJpTi1uc21xSVhiaklCWWd0Ul9hZFVPLWN6d1RldVVqQTRYdHIwdVRSVzBMVGtKbGRxRVB4ai1SZW1EeE5PcmhzU2FQc1NMZFk5Z0todGlrQUQ2YlkwUGh5Z0otSUdyOWowSUEyUGwtZ0twamUwT3pnajF1LW9BVjQ2V040Skg5bFVWVFU5UdIBygFBVV95cUxPS1ZtQksxUEFYRkRmZWw4TFkxbl9uV3VmMjl1YjBZb1ZVLXRWa0lrcS1DSjRTZUlXSGo1bmdMTmlIR01XX0ZzM09VaUlVcjMxczdVZ0hkbG9RUHRNM0pkRDNNekNVeHB1RW1vclpHR2I0cHY2d1o3MXFMd3hnVWM2aTlqc255cktSYVNzTDdxVjBoWjZOUWhBVXhkS0NpdjdsX2dUY2pST0sxVzF5b2RNekNoaGYtNFhLdUFjdGdvd0tTWmtmY0t0djFB?oc=5
 
-- Disney Names AI Executive as First-Ever Chief Technology Officer - Bloomberg.com
-  Disney Names AI Executive as First-
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5
+- N Chandrasekaran’s advice to Indian graduates: ‘Keep pace, or get outdated’ - thehindubusinessline.com
+  N Chandrasekaran’s advice
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxORDB3U2ZHY1Zrdy1peklrOWFwMHFvcnpBVFpiTmhiWFRxcDJ5MUlzN3NBREVobnVSOTU3ZE91WWFyUjNnWU00T0dSVFVSRS01dzgxQXVtWVVIVlQya2ltczh5WFdnVE9nT0RQT0JneG52b0RhVVh2TlVhVi1sWWZTYlZVLWhGWDNQMkh3Mlhwek5fWHAxdEpnMk1PYW9ZMDFmLXV3ZGVLZS03bEhwT2ZDOFd0NHZfWUtjU3dDMUwtRzZQLWpMX3h5WGFUQ3nSAdMBQVVfeXFMT2pRQjFNYmNjdzJJQzBkRlY0UjJpWE9SSUdtZ0c2MHRaN3hFWjhLTzhYbTlHV1ltV3B1X2JUcEtaUmdBbkdaM0pfdUltMjFNQWJmR2ZxeUFEaFN2eDJDQWpZUm14b29fRldyQ2xzZ2hvX2pVRkVVOU52TGNoNVpmcHcyMzRPVW9DcWROUExZVXB4ODFsZEZYM2VMTnBPQ0NjMTcxeUhXNlFkVW1Eak42Q3FKQ085aTBVNS1paXA5NE9ybEZMMFR5THZHaTdIQ2hRXzNfaw?oc=5
 
-- Disney names Character.AI's Karandeep Anand its first tech chief - ET BrandEquity
-  Disney names Character.AI's Karande
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeTcwQlB0N1NBNjkyZDdCQUxjZkZZdEhLRFZLTU9pQ1NzRC1GemdIc2JfUjA2cUYxWGpCNnhkQWZVSzNqTHlMSFlVR1NSRjJJdGJsUDYtQWpfZ3VrM3NRQ0NyeHd1alZheHNHejNNYk8yNEd5OE4yMEpneVpqbWtadkliQWpRY0ZuMWJWdFVScDE2NVJBb2EyVnlwMHVDeGNWdVlsT0VPUWIzN0kyOVR1Um5jZXVod2lNTUtsV0d1OWZIYnVsaGdVWE1PemtpOVFKcUdWTUJva0RFUGVBUHfSAeMBQVVfeXFMUDlCYmYwbUVJbFNvandzdkFtOUpGaHZZNWVpUUVNN0dZTWdNVWlRUkJJdm5LclByY2pveWpIdnMwOVlQQndSQ2ZudjBsa3cyWnI1LWpHRWJ4M01RVFJPQU1aT3YyWmt3R01IRWRMSFVCNUtDLUhJbm5JTTVRVGRReEtrRkpyQ3RTSkFLeWNoVzlzNWZQNHhuV05USUUyODVzTkhvd25mNzQtMkF0UzU1NFRDSDlQVjBlc2VQUWZhUFRfVkdjMG9MUS1SYlRGSnJuaXRvelg1N0hIMHhnSWhXRzV3eEU?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- The Walt Disney Company Names Karandeep Anand to Newly Created Role of Chief Technology Officer - The Walt Disney Company
-  The Walt Disney Company Names Karandeep Anand to Newly Created Role of Chief
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRhYThjUUZNdEd2RVR1Unp3M0VDLXBuaF9yVF9HclhqODRJRENhNmI2eGhGMWJDUnFMSDB0MnpwQjkwTE9xMTAxZ2x1Z1JNN0xsenVoY0NnYzhhMm5qbW04TkFZNllKckJSeEVDM040ZldsTGJUb3ViRUpNckRob29RdUJkZw?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Why Europe has been absent from the great AI safety debate - The Guardian
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE1BZl9TdlVqMGl4d3p2TVJkQTlkQURDY0ZteHFiVm9FbWlGbDFERGV0ZWxvQ1NmZW8yU1c3WG5KRDZQeC12YzhNdjJCc3ZOR1hmeXNaakR2VnROYzJRcUdvLTRpLVFMYkNNa0t0a0ZjWTNMY2FFVHZkUE9KNVNjWUE?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-19 15:16:37 UTC_
+_Last updated: 2026-09-19 19:58:11 UTC_
