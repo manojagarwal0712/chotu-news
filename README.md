@@ -1,24 +1,72 @@
 # 📰 Daily News Summaries
 
-- Serum Institute emerges as early backer of Yotta
-  Adar Poonawalla's Serum
-  🔗 https://www.livemint.com/companies/news/yotta-data-services-fundraise-serum-institute-250-crore-11789875417541.html
+- Mum's viral barefoot race sparks debate over India's education crisis - BBC
+  Mum's viral barefoot race sparks
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE43T1ViTmMtMERZNnFFYTRwTmltSm1VTmdGT212REx0ZDRNajQtRGxWa0tHbGNMODBiRm4zbTRHb2hBTWI5R2ozTUZzeURwOVZCUnJIQW1IbnJnbnM?oc=5
 
-- Tata Trusts hires top lawyer Abhishek Singhvi as drawn out legal battle looms: Shareholder rights cannot be ‘nullified’
-  Top lawyer Abhishek Singhvi appointed as legal representative of Tata Trusts. Here's what he said about the ongoing dispute.
-  🔗 https://www.livemint.com/companies/tata-trusts-hires-top-lawyer-abhishek-singhvi-as-drawn-out-legal-battle-looms-shareholder-rights-cannot-be-nullified-11789891893821.html
+- Sabotage Attempts On India's Semiconductor Push? What Ashwini Vaishnaw Said - ndtv.com
+  A look at what Ashw
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDlpUFBfQ0FMVnZGaE4yV2N5WFFCM0JvYklUcDExak1HaUZ2YkJjZU52VERvSWUwM3U5VF91NVd2eGRxSXF4a0pBZ3h3anZHVklnNUZ6N3A3d0trWGE4VHpnNjY0N19HRTNUak5zeWd2cUlHb3ZWc2YzX2RpbnMtSm5qemMwTlhWUzMxc1FsaEJlZzhOQ0Q0SUZyeTBGbm1CaE1UNGd6WnZNcXJuX3ZsX2djeGHSAbwBQVVfeXFMTTd0cTFDV0w1ZUVhU3ZmZDJubERmc3hpSFRVT3JLdHRwNnE3Z3RncC1KREw1Ukx1ZExnRUNTVUpYYzBYbktiWHJ5Q0xnRlQwLThQSFBjRFp3YUd1M0xKNEFyZUhueWFsTkpxN2RRNE5ibzZ2V29OUHg3cXpkVmVGZ0pfT2J5Q0h3Y1R2Qm5VU3FPSnh0MFYxWG83Zm8xdmRKZDlLenB1Tzh0NlZ5eFFueTRKalZ5YVJQMllveTg?oc=5
 
-- Paramount Settlement Talks Include Promise to Stay in California
-  Settlement talks between Paramount Skydance Corp. and California officials over the lawsuit challenging the Warner Bros. Discovery Inc. acquisition have included
-  🔗 https://www.livemint.com/companies/paramount-settlement-talks-include-promise-to-stay-in-california-11789854789916.html
+- India's semiconductor push targets chips for cars, TVs, power infra: Vaishnaw - thehindu.com
+  India's semiconductor push targets chips for cars
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQWk1FNVR4QTFVZ2JCNEYwcG1od2Z6aEgwNnZPZDVtYWlrY3I2LWxON3JJNllPZlVtY1ZKWVhib2pCWnJxdzctaWVMM3ZfTGtHUlBrMzhSR2JmRk5pS200THJsdHo3azlSMTBoQTFqUmdKaFN1cWc4MHNmOVN0ZUU5ZFpKem1heV9pMHd3M3hwOXJmSEJ1dDcwZ1N4Z2pkWFdCVmMxV3B4YXFoTFdWSTlfU0JraEpYbDF0d25QWGRid3lNMlk4aWc4UlpmWWPSAdMBQVVfeXFMTVRLalE5czJkNC1MblNrNVkyY2RyaF9UaTU2YUwtelJ6NnRua1U1b0xTQ3MyTlJZbzVnYi1wcjhQSWJBZzZBa0RRWC1KaFM1eVU3blVFVHBublFvSTBrYU9JSXJGcXV5M2ppejloNUlSRXl3SGJXdkg1aEVvUndackctNFd1VGRmYWlVWUI0aFkxN3gxaWlKeFJOMjNjUXp1OXV3STFJTmkzXzAxQzNFWm85X3QtdVcwc1ZDbEdiQkdJVjRrTHhOajIxRGtHQTJaUFZOcw?oc=5
 
-- Alibaba, Meituan units in trouble? China antitrust probe follows Trip.com’s $776 million penalty
-  China investigates Alibaba and Meituan units over suspected unfair competition.
-  🔗 https://www.livemint.com/companies/news/alibaba-meituan-units-in-trouble-china-antitrust-probe-follows-trip-com-s-776-million-penalty-11789834813094.html
+- SEMICON India 2026 concludes successfully at Yashobhoomi in New Delhi - News On AIR
+  SEMICON India 2026 concludes successfully at
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1N5X3lIdmRmVG9oWngtVGI1b2FwR0t4VmxGQVFBOHFkU1ZvcjlHWVhyRmRuLWpTd01BZmRpZVdRQlhONFhxaFpvaUs4TFpmaDFWdGsteVl4WTY2T0Z5X3VESnNDcnBxRVNDX0xxWTlrTjFoak9ab1hrWnNDd01ReVpubHY4a1NoT1Y1NENGcHNrNDVnN0FnT1BIOA?oc=5
 
-- Who is Robert Kraft? What is his net worth? Patriots owner’s fortune in the spotlight after Macklemore’s $1M challenge
-  Kraft's donation pledge comes amid controversy surrounding Macklemore’s removal from
-  🔗 https://www.livemint.com/news/trends/who-is-robert-kraft-what-is-his-net-worth-patriots-owner-s-fortune-in-the-spotlight-after-macklemore-s-1m-challenge-11789832139008.html
+- India at Asian Games 2026, Day 1: Elavenil Valarivan on target, women’s team enters cricket final - as it happened - olympics.com
+  India's women's team enter cricket final - as it happened at Asian Games 2026.
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
+
+- Why the global panic over AI is not a crisis over technology - The Times of India
+  Why the global panic over AI is not a crisis over technology.
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVGhkZ012YkdROGxDTVNZakhESEtvektTd2txU1NJU19FWDlnekh1T0ZBS0Nac25yRWZJZ1poNDF5d2gwdk1VSnNISjA1a1lFaXQ2UkEtVkNkckhQUWZ1a25LY3lGRGN3bTlsNWx6SjhFWW02WU5JSGFESnAyUkJVcnFJaFFGODJFX2xnOVQ5amZTRWZaSmJ2MEw2LVh4bC1LaTlPSjVyRGJ0dTV0Vl91eHc2RFlLQU4tNVdmUVlvWGNoSHF5N05vcHpnUi1Rb1NDZlN6cWtpV1RLV1RPcUdxdTJxVGF1QW1uRDYzQ0VB0gHzAUFVX3lxTFBHWjZaN0Jka0gxc2RHYnRTODcwZ0ozdXVOZHZZRTEwUWFDalVJV2stU1FNU1VYS19USHFpTFFDSnFyYXYwX3VDZ254Q3ZQY0YzeVdtMVJnQVlZTXBPNDdXaGJ0Ql9CNHJaSGJ4YjU5QXdvU1VWc1RoTHlYZXdDc0MydFgweklPTFNad1NtV1hYUk5oSlhCWjM3dF80ZU9SeFRSMHNoRGJmclVEUzRhYnVMYnVhblJndE9BUV9Obkd0SlZiQlVlb0kwVmtUUi12TVdzRzNxQ0dqN1VaS2ZLNE8zMzRMeGxWaGlud3FCMDJBVG5vSQ?oc=5
+
+- Tirupati teenager receives US grant for innovative agriculture technology - thehindu.com
+  Tirupati teenager receives US
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOUZfZEVJVVJiWGpSN1ZFdFNmcXZHb3VwYUpLT0cxN2JwQlJubjRiaXVINjdaNDNNSXRKU0ZhT1Izb2lLOU12bHpvdFJkN21NYUJGQWp1NjAxTDlSc3dBdjhQQVdJTWh0NTdXWjhfY0RvUGFKWmZTMnh5WnJqS2NHNjhLUjNnZS1Rc1NFcVZGQXNEX0dyb0V2eGg0R2xid0hSY0FfSkdSY0dCQVYtbzBBUkdfRktjR0diTTVBT240QmJDT2lrYjhsSF9JSGpPUjd0UDRhMDVBSFZvOG1jQlBYatIB5wFBVV95cUxPQklLWFlzbWFnQ09kYldxSGFqNTgzbjRxRHVIMXpLWTgtcE02YkNKY2w0TDg3V3ZEYzg3MmxSQVl4WHpzN1ZSVFJSN1lCdnpHWFg1OGFEVldRMm1BRzhpMG5DeDQ2WEdrNE5VejRNSUh5S0hUd0lPc015eXBXWnVnbjdseTRGbTl3NWFDTWpud1pXbDNxZkw2dVBxNy1LRjBNTUNTamNWU2JIWVUwNVR2a2E5RTZHcUlRUE1PVXJGX1czbkxrcDBfcUU2SGd6REJNZjlaZjVHS3B1Q3VwV3NraDNYTzVlT00?oc=5
+
+- Trump says US will form 'AI Force' and appoint an artificial intelligence tsar - BBC
+  Trump says US will form 'AI Force' and appoint
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EY3VnMXl3UWxCSEdXd19kVUx1UDAzdS0xY2RrdFh6NWRINDRXb29xNjdPLW5CMDRQbE9TdHMtMXY4MC1yb01kcHpwSlNLQVI0TndKaVM1Q2xFWmM?oc=5
+
+- Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow - The Guardian
+  Trump to create ‘AI Force’ to monitor technology as
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVXE5YTI5dDR5YjNpVHIzYnhMQ3huclFnajVuczZBaU40U2RqQkFXMFVOVXJJTWo5SzlVN0tQMkhvdm84bDJMa2lkc2NKbDlHWVFlX2c4VzFyVmFqdFdzbkdqMDNBSXE0N3ZHR3BKdVBzcG44emoxcA?oc=5
+
+- Trump announces ‘AI Force’ as alarm grows over technology’s advance - Financial Times
+  Trump announces ‘AI Force’ as
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnI1bkctd2tpejBkREdEanR1Y2EyQ3FTeGc1SmNFekQybUFDeHQ1NDVLYUZKVUNvRGdsSDRwWHZ6bVQ2aHptNXhRUGJpRjJtZk5WN2lGNFpkWm1qRW9FZ3BHNGk4ZmdscnNqXzRYTlQyR0dSc3N5V196VHo5cDIxN2ZTXzY?oc=5
+
+- Titan sees ‘serious sluggishness’ in sub- ₹1,000 watches as premium demand surges
+  Titan sees weak demand for sub- ₹1,000 watches
+  🔗 https://www.livemint.com/companies/news/titan-sees-serious-sluggishness-in-sub-1-000-watches-as-premium-demand-surges-11789911967578.html
+
+- Tata Trusts-Tata Sons row: Mehli Mistry objects to possibility of education trust bearing legal expenses
+  Mehli Mistry of the Tata Education and Development Trust has opposed using trust funds for legal expenses in the dispute between Tata Trusts
+  🔗 https://www.livemint.com/companies/news/tata-trusts-tata-sons-row-mehli-mistry-objects-to-possibility-of-education-trust-bearing-legal-expenses-11789904000707.html
+
+- Tata Trusts rejects board's claim on Chandrasekaran vote, cites governing rules
+  Tata Trusts says Tata Sons had previously defended these same voting rights in the Cyrus M
+  🔗 https://www.livemint.com/companies/news/tata-trusts-tata-sons-board-vote-chairman-natarajan-chandrasekaran-11789904772356.html
+
+- Tata Sons chairman vote: Chandrasekaran reappointment ‘void ab initio’; Tata Trusts says resolution 'not validly passed'
+  Tata Trusts said N Chandrasekaran’s reappointment as Tata Sons chairman is invalid because both Trust-nominated directors were required to approve it. Noel Tata opposed
+  🔗 https://www.livemint.com/companies/news/tata-sons-chairman-vote-chandrasekaran-reappointment-void-ab-initio-tata-trusts-says-resolution-not-validly-passed-11789904818737.html
+
+- Micron workers demand 15% of operating profit as AI boom lifts chip earnings, point to Samsung, SK Hynix
+  Micron Technology faces labor unrest as employees reject a proposed bonus. Workers demand a one-time bonus equivalent to 83 months' salary and quarterly bonus distributions.
+  🔗 https://www.livemint.com/companies/news/micron-workers-demand-15-of-operating-profit-as-ai-boom-lifts-chip-earnings-point-to-samsung-sk-hynix-11789897628988.html
+
+- Gold price prediction: Will US-Iran war, crude oil rates impact yellow metal rates? Check technical outlook
+  Gold is expected to remain highly sensitive to movements in Treasury yields, the US dollar and inflation data.
+  🔗 https://www.livemint.com/market/commodities/gold-price-prediction-will-us-iran-war-crude-oil-rates-impact-yellow-metal-rates-check-technical-outlook-11789900773882.html
+
+- Top stocks in focus tomorrow: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers
+  Mazagon Dock, Rail Vikas Nigam (RVNL), Kalyan Jewell
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-mazagon-dock-rvnl-nestle-india-shares-to-move-sensex-nifty-monday-21-sept-triggers-11789897835796.html
 
 - Dividends, stock splits alert! Corporate actions this week: IRCTC, BEML, Dixon Tech and more - Record dates, full list
   More than 170 companies have set record dates for dividends and stock splits during the week.
@@ -32,13 +80,9 @@
   Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
   🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-on-monday-when-market-opens-dlf-pn-gadgil-jewellers-hpcl-stop-loss-target-by-ganesh-dongre-11789887141838.html
 
-- Top stocks to buy under  ₹100: Equitas Small, Meghmani Organics, Filatex by Sumeet Bagadia; check stop-loss, target price
-  Sumeet Bagadia shares his outlook for the market in the coming with, along with the three stocks under
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-under-100-equitas-small-meghmani-organics-filatex-by-sumeet-bagadia-check-stop-loss-target-price-11789883488386.html
-
-- India Equity Strategy by Jefferies with 2030 Targets: Top 6 themes - Space, Semiconductors, Aerospace, and 3 others
-  India's semiconductor ambitions are moving from plans to actual execution, with around
-  🔗 https://www.livemint.com/market/stock-market-news/india-equity-strategy-by-jefferies-with-2030-targets-top-6-themes-space-semiconductors-aerospace-and-3-others-11789879754848.html
+- Samsung Galaxy S25 and S25 FE prices teased ahead of Flipkart Big Billion Days Sale 2026: How much can buyers save?
+   Flipkart's Big Billion Days Sale starts October 9. Galaxy S25 and S25 FE may
+  🔗 https://www.livemint.com/technology/samsung-galaxy-s25-and-s25-fe-prices-teased-ahead-of-flipkart-big-billion-days-sale-2026-how-much-can-buyers-save-11789901830956.html
 
 - AI-to-AI communication could change how ads are bought and sold: Report
   Artificial intelligence could change the way advertisements are bought and sold. It could enable automated communication between systems, reducing manual coordination.
@@ -56,9 +100,37 @@
   Trump says he will appoint a new
   🔗 https://www.livemint.com/technology/trump-says-he-will-appoint-a-new-ai-adviser-without-providing-details-11789842927744.html
 
-- iPhone Duo hinge needed extensive engineering, reveals Apple VP ahead of October 23 sale: ‘Feel solid, like a car door'
-  Apple has introduced its first foldable smartphone, the iPhone Duo. VP Tom Marieb detailed the engineering behind its hinge and durability.
-  🔗 https://www.livemint.com/technology/iphone-duo-hinge-needed-extensive-engineering-reveals-apple-vp-ahead-of-october-23-sale-feel-solid-like-a-car-door-11789825808070.html
+- Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
+  The Economic Times: 10 things that will decide stock market action on
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaXBSZzFvWEJoWUd6WTJvWDR6d1JhTUpiRGQyUGJTRUZVZGR0dHNwR01MR3ZWREY3NG56TFVXZlNNcVl3alNuNU5oWkFBMU4wamlkcGEtYmt5VzdsZ1B2UlJiZlA1TURfSm5hLTB2Q2VZb3lNZS1meHZ0Mkw0TTNmY2Z6bThxRmlRYTJGOEpsU0cwYTYzSE1iRWhFYVpNLTVSZktSMjd0NU9iODdUYnJfWlp6bUwya3RlWG91dUJJRHVJNzNlZDllQnVoOW5aT0x2dHRXa3BDTE13Y0tkTmFj?oc=5
+
+- Stock Market News, Sept. 14, 2026: 10-Year Treasury Yield Touches 5%, Pushed by Oil Surge - WSJ
+  The WSJ reports that 10-Year Treasury Yield Touches
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5
+
+- India's exports to core BRICS markets surge 34% in April-August; China leads - thehindu.com
+  India's exports to core BRICS markets surge 34
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUV9vWGFpS3dQN3l0WnFxdzNZRE1aM0VGRjk3a0w3dzZjQzkwUlBDMUI5VkxzUjhOWWhuVDlPQ1lFSVdNSEhjWFp5NjdEUEdLWGF4b25HN1Z2cldCa1c2cXFialdWX21RcHN3YU45MDlFTjlWUjhRSFJyTUxsc011VmstZHJkR3FKRllYN3pfdVluNmZ0SVgxTEZWLXBOcDM0Qmg1amlFY1Z1WENCMzRWWGROMWtaMGkzRXpVWFljR29UblZtUkJtMjJiQnTSAdMBQVVfeXFMUEtKNVdzQ0VnVnhnNkR4bEhoZ2M2X0lYVEFlcDdhUC1FSklfT1pFZVRyNnEzdjVmdlpWZWdBTTllbWxUTnJmbjNScnhTal9tdHdPaU1TMU1CTEppOW5HRU1pb1hZaTNYUWM4aFA4UWstZEhqSFVqMVpyRUF3YXRqREx2dThBbUNLeGlEMFN0VXczbVN6Y1RCak1QYVFjaW1HOXRQMFRldHZ0MTU1VjV2Y2cydVdrZTdNc3J2Q1A4SVlwMUxvWDZqdG5uOWhsSjV6ZlJwZw?oc=5
+
+- China goes shopping in India as exports jump 39% and BRICS trade picks up - The Economic Times
+  China goes shopping in India as exports jump 39% and BRICS trade
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWxzWDlEa3NrLUJBWk96aFhCTTdDallPY3d0ZkVIMXhCejhZT0ZCZ2ZCLUdkZWlFRGxoN2xvRU9YRG1FOWJjTjNfQ3lfTTZpM2N0b0JXMnpKYVFXemFPU2lHMG44VWVvbGxsYUI4Ty1VNXVWZWhpWWxiUFlTVmp1OXNTd3RuaENMU1hTUmZjMU01N1hHTmpzVDN5Mkh3eTVTOWxnbUYyMU9abHYyb3Z4YkFPUVd1bGxCRG9BNmtuNmt4Q2c0NVo4ck5nVk9fOXdqdDUzd2RQRTljNS02Y1EwUUwtTWRoR2Yx0gHuAUFVX3lxTE9uWjREellGOEFzWWFrZ0pyUVkxbUxCWk1xNVZvLWhmSzNoYWl2eUd0ai1INllfYjFMTV9oRWtwSVNQNXRQQjc5LUlaMHVXTThzOWtzcWx4V0Q3dElTZVpYZTZqTmRsMFk5VUw0YkZJNFRJbmZIeVNJVUVBeWFpaW9TYmlRem55emF6YVN0anJwUkRNTWtVRUQ1RHpLQnJJRW9WV2N3ellvMkliV3JLQjVINlY2akhJVGlXSS1wVjF1ZjR3N2tmWDRQci10OUI3NGM5c3gyTUtiYS12eTd5cFBONi1BMUNZSVRMNXkwYWc?oc=5
+
+- India's exports to core BRICS markets surge 34% in April-August 2026-27; China leads - Deccan Herald
+  India's exports to core BRICS markets surge 34% in
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2N6dHlYNjRadlV6a2U4U19JM3dWRFBuMEJicW5EVVJWc3B0S0xOVFlHbU5hb0dYYkNwZTJTUXh3bGM3ck5neDBuWlBwQkpFbXBGaG1yaU5PTjExOU1pSEJTeUl1X2x3YzZaQjRadlNTa0hyOVhhMHlha1hjaFZsZUVrSXJfRWgyVl95QmVMV3gxZHhlQTg4YXhwdF9GX3pGV0JnSWplNUtiWkg0N29JTHR5a0d1R3BZUXIzVVZYUUFJdEZtMkE?oc=5
+
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  Sensex slipped 0.03%, while broader markets outperformed. Nifty gained 0.33% as moderation in crude and global yields supported sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134367341.cms
+
+- SME IPO: Liqvd Digital India issue to open on Sep 23; price band fixed at Rs 51-54
+  Liqvd Digital India is gearing up for its Rs 39-crore initial public offering, set to open for subscription on September 23. The funds will be directed towards acquiring a video content production hub.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sme-ipo-liqvd-digital-india-issue-to-open-on-sep-23-price-band-fixed-at-rs-51-54/articleshow/134367283.cms
+
+- Gold likely to stay range-bound next week as dollar, West Asia tensions guide market: Analysts
+  After a week dominated by monetary policy and geopolitical developments, investors will turn their focus to a fresh batch of economic data. Mid-month manufacturing and services
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-likely-to-stay-range-bound-next-week-as-dollar-west-asia-tensions-guide-market-analysts/articleshow/134367215.cms
 
 - Market Trading Guide: Acme Solar, Medanta among 5 stock recommendations for Monday
   Analysts have identified five stocks, including ACME Solar, Medanta, Tilaknagar Industries, Uno Minda and PWL,
@@ -67,38 +139,6 @@
 - ETMarkets Smart Talk | India may see 50 bps of rate hikes in 2026 as Fed tightens: Garima Kapoor
   The Fed's latest rate hike could constrain the RBI’s policy flexibility. Elara Securities’ Garima Kapoor expects 25-50 bps of RBI hikes in
   🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-india-may-see-50-bps-of-rate-hikes-in-2026-as-fed-tightens-garima-kapoor/articleshow/134365623.cms
-
-- Rs 23,000 crore outflows! Is the September FII rout indicating a worse end to 2026?
-  Foreign investors have resumed selling Indian equities in September. FPI outflows crossing Rs 23,000 crore through September 19. Higher crude prices, elevated US bond yields, geopolitical risks
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-23000-crore-outflows-is-the-september-fii-rout-indicating-a-worse-end-to-2026/articleshow/134365561.cms
-
-- Rs 4,169 crore IPO rush this week: 19 issues to open for subscription; NSE to lead 12 listings
-  India’s primary market is set for a busy week, with 19 IPOs aiming to raise around Rs 4,169 crore. The week will also see 12 listings, including
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/rs-4169-crore-ipo-rush-this-week-19-issues-to-open-for-subscription-nse-to-lead-12-listings/articleshow/134364576.cms
-
-- NSE GMP falls to its lowest level since the IPO announcement. What’s next for the mega issue?
-  NSE IPO’s grey market premium has fallen from Rs 192 to around Rs 58. The decline comes despite the Rs 22,562-crore issue crossing full subscription on
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-gmp-falls-to-its-lowest-level-since-the-ipo-announcement-is-the-listing-pop-fading/articleshow/134364080.cms
-
-- China goes shopping in India as exports jump 39% and BRICS trade picks up - The Economic Times
-  China goes shopping in India as exports jump 39% and BRICS trade
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWxzWDlEa3NrLUJBWk96aFhCTTdDallPY3d0ZkVIMXhCejhZT0ZCZ2ZCLUdkZWlFRGxoN2xvRU9YRG1FOWJjTjNfQ3lfTTZpM2N0b0JXMnpKYVFXemFPU2lHMG44VWVvbGxsYUI4Ty1VNXVWZWhpWWxiUFlTVmp1OXNTd3RuaENMU1hTUmZjMU01N1hHTmpzVDN5Mkh3eTVTOWxnbUYyMU9abHYyb3Z4YkFPUVd1bGxCRG9BNmtuNmt4Q2c0NVo4ck5nVk9fOXdqdDUzd2RQRTljNS02Y1EwUUwtTWRoR2Yx0gHuAUFVX3lxTE9uWjREellGOEFzWWFrZ0pyUVkxbUxCWk1xNVZvLWhmSzNoYWl2eUd0ai1INllfYjFMTV9oRWtwSVNQNXRQQjc5LUlaMHVXTThzOWtzcWx4V0Q3dElTZVpYZTZqTmRsMFk5VUw0YkZJNFRJbmZIeVNJVUVBeWFpaW9TYmlRem55emF6YVN0anJwUkRNTWtVRUQ1RHpLQnJJRW9WV2N3ellvMkliV3JLQjVINlY2akhJVGlXSS1wVjF1ZjR3N2tmWDRQci10OUI3NGM5c3gyTUtiYS12eTd5cFBONi1BMUNZSVRMNXkwYWc?oc=5
-
-- India's exports to core BRICS markets surge 34% in April-August; China leads - The Hindu
-  India's exports to core BRICS markets surge 34%
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUV9vWGFpS3dQN3l0WnFxdzNZRE1aM0VGRjk3a0w3dzZjQzkwUlBDMUI5VkxzUjhOWWhuVDlPQ1lFSVdNSEhjWFp5NjdEUEdLWGF4b25HN1Z2cldCa1c2cXFialdWX21RcHN3YU45MDlFTjlWUjhRSFJyTUxsc011VmstZHJkR3FKRllYN3pfdVluNmZ0SVgxTEZWLXBOcDM0Qmg1amlFY1Z1WENCMzRWWGROMWtaMGkzRXpVWFljR29UblZtUkJtMjJiQnTSAdMBQVVfeXFMUEtKNVdzQ0VnVnhnNkR4bEhoZ2M2X0lYVEFlcDdhUC1FSklfT1pFZVRyNnEzdjVmdlpWZWdBTTllbWxUTnJmbjNScnhTal9tdHdPaU1TMU1CTEppOW5HRU1pb1hZaTNYUWM4aFA4UWstZEhqSFVqMVpyRUF3YXRqREx2dThBbUNLeGlEMFN0VXczbVN6Y1RCak1QYVFjaW1HOXRQMFRldHZ0MTU1VjV2Y2cydVdrZTdNc3J2Q1A4SVlwMUxvWDZqdG5uOWhsSjV6ZlJwZw?oc=5
-
-- India’s exports to China surge 39% in April-August 2026-27, core BRICS shipments up 34% - Moneycontrol.com
-  India’s exports to China surge 39% in April
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb19kMWJSVU00N0VNMENoM0N6VE1pVGg2TnkxSUg1SHdIOUdBRk9pak12MmY0WUczQlM0dzRNSmEtWVRMMzcwaS15WWpFWXJSS0YxRkhXSG9OOXk0ZndLamtTWWFGaHEtbGlybV9WMFRlcVgtMGhHTEtyb3ZXT01OSGM4eXg5Q1dHV1JWTHllbmtDMEdpczVZS1ZtM3JWTGJ4UEY4clVqNlhTTXpzQ0lSdzM3VVRzRE43cks5TDdfOWpaeDBvYjNxekExbzVSV0trRlF5SdIB2gFBVV95cUxNY3RqUWZ0OGNHeGtTZkdNNnBNSFQ4M0dJQTNuaExUVUJlRUI3WnRZYllzSDNMajNZZ1NWSWZSSWZJLUkzTlU0NUhqQWJBZXZUWWh6SERvQmJzcmFSVXhscENrT2tFWUFfXzctbFZ0bGVHZ2dmVUdwajJsN3h1NU0xVU9MZ3o3WXFpdnpVdkcweWEwdkdmWWN0LV9rcXYwN1I0dTZLbkdLV0RKdERSak5JNV9vWUZlbW5oZVZQM2RJcmQ3czNiaTRIb09QWDBrX1ZXNUJkZk1zYnl1UQ?oc=5
-
-- India-Japan defence ties take flight as air chiefs fly Tejas together during Veer Guardian 2026 - The Times of India
-  India-Japan defence ties take flight as air chiefs fly Tejas together during Ve
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa1JKYll5SklSMFRTREViTURneGlFa2NFOEpVR1FXREZzb0JGTFM3N2hoeVU5Z0Z5dURHa0lyQ1J1c0paT1ZqcV9BYVU5OTlHc2ZScjNKZm5tbFNaci1CanlIdXNnakVSUk1DdEhXanh2U2NDNWQ4V01MZWUtQzJyaXhIV3NEVjk0SXBiZENEdEFmWmRicDBkUEpLVXZhcnlvRWR4TTRlNUUwTkJaZ1hWYlBrSzdfRG53SHJxaFcxZFZuNW51WWV6V2k3UjdXdEJPdm9pLXdXTFZxY0JjZUwtekVEUEN0U3puZnZPb3JmNzNYSTZ6ejVaWjRqZThjaTDSAYQCQVVfeXFMTnJISHZreUlKcnFwX1ZqblFZdzFJQUtoV1MxV2dBUzFvLUw3Zmk1a0Qwb2llb2tUaWFGdlpKMTBKYlVDY2MwcVlBSlM0QklxNXNoTU1xMWtjdks2Smx4Tzg5VDZlaUR0RFhvSC1FVjMyb2RqMHVOYjY5Rk15cDBJejg3bW5kdlFIWUlFa29qcTBBb1pKOGRXbEZIT3ZCZXVBMDNKZW1FQVRBZVZlMlRuT0piakF6X0lBNlVJbTQ1cjBPeHhDMkVYRF9qaUI1VmhUS1F5anVNaWZhbExRT3hLUGx6Nk9mQUlFdVMyejByNko4STdJQmMtY2lrWExnV1h2QTh0TXk?oc=5
-
-- Asian Games 2026 live, September 20: Know India scores, updates and results from Day 1 - olympics.com
-  Asian Games 2026 live, September 20: Know India scores,
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
 
 - India’s Spacetech Gold Rush Is Here, But What’s Making Investors Jittery?
   The Indian spacetech ecosystem is entering its most critical phase yet. After years of experimentation and ambition, spacettech startups must start commercialising.
@@ -120,73 +160,65 @@
   For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to a billion dollar company.
   🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
 
-- China goes shopping in India as exports jump 39% and BRICS trade picks up - The Economic Times
-  China goes shopping in India as exports jump 39% and BRICS trade
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWxzWDlEa3NrLUJBWk96aFhCTTdDallPY3d0ZkVIMXhCejhZT0ZCZ2ZCLUdkZWlFRGxoN2xvRU9YRG1FOWJjTjNfQ3lfTTZpM2N0b0JXMnpKYVFXemFPU2lHMG44VWVvbGxsYUI4Ty1VNXVWZWhpWWxiUFlTVmp1OXNTd3RuaENMU1hTUmZjMU01N1hHTmpzVDN5Mkh3eTVTOWxnbUYyMU9abHYyb3Z4YkFPUVd1bGxCRG9BNmtuNmt4Q2c0NVo4ck5nVk9fOXdqdDUzd2RQRTljNS02Y1EwUUwtTWRoR2Yx0gHuAUFVX3lxTE9uWjREellGOEFzWWFrZ0pyUVkxbUxCWk1xNVZvLWhmSzNoYWl2eUd0ai1INllfYjFMTV9oRWtwSVNQNXRQQjc5LUlaMHVXTThzOWtzcWx4V0Q3dElTZVpYZTZqTmRsMFk5VUw0YkZJNFRJbmZIeVNJVUVBeWFpaW9TYmlRem55emF6YVN0anJwUkRNTWtVRUQ1RHpLQnJJRW9WV2N3ellvMkliV3JLQjVINlY2akhJVGlXSS1wVjF1ZjR3N2tmWDRQci10OUI3NGM5c3gyTUtiYS12eTd5cFBONi1BMUNZSVRMNXkwYWc?oc=5
+- Mum's viral barefoot race sparks debate over India's education crisis - BBC
+  Mum's viral barefoot race sparks
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE43T1ViTmMtMERZNnFFYTRwTmltSm1VTmdGT212REx0ZDRNajQtRGxWa0tHbGNMODBiRm4zbTRHb2hBTWI5R2ozTUZzeURwOVZCUnJIQW1IbnJnbnM?oc=5
 
-- India's exports to core BRICS markets surge 34% in April-August; China leads - The Hindu
-  India's exports to core BRICS markets surge 34%
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUV9vWGFpS3dQN3l0WnFxdzNZRE1aM0VGRjk3a0w3dzZjQzkwUlBDMUI5VkxzUjhOWWhuVDlPQ1lFSVdNSEhjWFp5NjdEUEdLWGF4b25HN1Z2cldCa1c2cXFialdWX21RcHN3YU45MDlFTjlWUjhRSFJyTUxsc011VmstZHJkR3FKRllYN3pfdVluNmZ0SVgxTEZWLXBOcDM0Qmg1amlFY1Z1WENCMzRWWGROMWtaMGkzRXpVWFljR29UblZtUkJtMjJiQnTSAdMBQVVfeXFMUEtKNVdzQ0VnVnhnNkR4bEhoZ2M2X0lYVEFlcDdhUC1FSklfT1pFZVRyNnEzdjVmdlpWZWdBTTllbWxUTnJmbjNScnhTal9tdHdPaU1TMU1CTEppOW5HRU1pb1hZaTNYUWM4aFA4UWstZEhqSFVqMVpyRUF3YXRqREx2dThBbUNLeGlEMFN0VXczbVN6Y1RCak1QYVFjaW1HOXRQMFRldHZ0MTU1VjV2Y2cydVdrZTdNc3J2Q1A4SVlwMUxvWDZqdG5uOWhsSjV6ZlJwZw?oc=5
+- Sabotage Attempts On India's Semiconductor Push? What Ashwini Vaishnaw Said - ndtv.com
+  A look at what Ashw
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDlpUFBfQ0FMVnZGaE4yV2N5WFFCM0JvYklUcDExak1HaUZ2YkJjZU52VERvSWUwM3U5VF91NVd2eGRxSXF4a0pBZ3h3anZHVklnNUZ6N3A3d0trWGE4VHpnNjY0N19HRTNUak5zeWd2cUlHb3ZWc2YzX2RpbnMtSm5qemMwTlhWUzMxc1FsaEJlZzhOQ0Q0SUZyeTBGbm1CaE1UNGd6WnZNcXJuX3ZsX2djeGHSAbwBQVVfeXFMTTd0cTFDV0w1ZUVhU3ZmZDJubERmc3hpSFRVT3JLdHRwNnE3Z3RncC1KREw1Ukx1ZExnRUNTVUpYYzBYbktiWHJ5Q0xnRlQwLThQSFBjRFp3YUd1M0xKNEFyZUhueWFsTkpxN2RRNE5ibzZ2V29OUHg3cXpkVmVGZ0pfT2J5Q0h3Y1R2Qm5VU3FPSnh0MFYxWG83Zm8xdmRKZDlLenB1Tzh0NlZ5eFFueTRKalZ5YVJQMllveTg?oc=5
 
-- India’s exports to China surge 39% in April-August 2026-27, core BRICS shipments up 34% - Moneycontrol.com
-  India’s exports to China surge 39% in April
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb19kMWJSVU00N0VNMENoM0N6VE1pVGg2TnkxSUg1SHdIOUdBRk9pak12MmY0WUczQlM0dzRNSmEtWVRMMzcwaS15WWpFWXJSS0YxRkhXSG9OOXk0ZndLamtTWWFGaHEtbGlybV9WMFRlcVgtMGhHTEtyb3ZXT01OSGM4eXg5Q1dHV1JWTHllbmtDMEdpczVZS1ZtM3JWTGJ4UEY4clVqNlhTTXpzQ0lSdzM3VVRzRE43cks5TDdfOWpaeDBvYjNxekExbzVSV0trRlF5SdIB2gFBVV95cUxNY3RqUWZ0OGNHeGtTZkdNNnBNSFQ4M0dJQTNuaExUVUJlRUI3WnRZYllzSDNMajNZZ1NWSWZSSWZJLUkzTlU0NUhqQWJBZXZUWWh6SERvQmJzcmFSVXhscENrT2tFWUFfXzctbFZ0bGVHZ2dmVUdwajJsN3h1NU0xVU9MZ3o3WXFpdnpVdkcweWEwdkdmWWN0LV9rcXYwN1I0dTZLbkdLV0RKdERSak5JNV9vWUZlbW5oZVZQM2RJcmQ3czNiaTRIb09QWDBrX1ZXNUJkZk1zYnl1UQ?oc=5
+- India's semiconductor push targets chips for cars, TVs, power infra: Vaishnaw - thehindu.com
+  India's semiconductor push targets chips for cars
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQWk1FNVR4QTFVZ2JCNEYwcG1od2Z6aEgwNnZPZDVtYWlrY3I2LWxON3JJNllPZlVtY1ZKWVhib2pCWnJxdzctaWVMM3ZfTGtHUlBrMzhSR2JmRk5pS200THJsdHo3azlSMTBoQTFqUmdKaFN1cWc4MHNmOVN0ZUU5ZFpKem1heV9pMHd3M3hwOXJmSEJ1dDcwZ1N4Z2pkWFdCVmMxV3B4YXFoTFdWSTlfU0JraEpYbDF0d25QWGRid3lNMlk4aWc4UlpmWWPSAdMBQVVfeXFMTVRLalE5czJkNC1MblNrNVkyY2RyaF9UaTU2YUwtelJ6NnRua1U1b0xTQ3MyTlJZbzVnYi1wcjhQSWJBZzZBa0RRWC1KaFM1eVU3blVFVHBublFvSTBrYU9JSXJGcXV5M2ppejloNUlSRXl3SGJXdkg1aEVvUndackctNFd1VGRmYWlVWUI0aFkxN3gxaWlKeFJOMjNjUXp1OXV3STFJTmkzXzAxQzNFWm85X3QtdVcwc1ZDbEdiQkdJVjRrTHhOajIxRGtHQTJaUFZOcw?oc=5
 
-- India-Japan defence ties take flight as air chiefs fly Tejas together during Veer Guardian 2026 - The Times of India
-  India-Japan defence ties take flight as air chiefs fly Tejas together during Ve
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa1JKYll5SklSMFRTREViTURneGlFa2NFOEpVR1FXREZzb0JGTFM3N2hoeVU5Z0Z5dURHa0lyQ1J1c0paT1ZqcV9BYVU5OTlHc2ZScjNKZm5tbFNaci1CanlIdXNnakVSUk1DdEhXanh2U2NDNWQ4V01MZWUtQzJyaXhIV3NEVjk0SXBiZENEdEFmWmRicDBkUEpLVXZhcnlvRWR4TTRlNUUwTkJaZ1hWYlBrSzdfRG53SHJxaFcxZFZuNW51WWV6V2k3UjdXdEJPdm9pLXdXTFZxY0JjZUwtekVEUEN0U3puZnZPb3JmNzNYSTZ6ejVaWjRqZThjaTDSAYQCQVVfeXFMTnJISHZreUlKcnFwX1ZqblFZdzFJQUtoV1MxV2dBUzFvLUw3Zmk1a0Qwb2llb2tUaWFGdlpKMTBKYlVDY2MwcVlBSlM0QklxNXNoTU1xMWtjdks2Smx4Tzg5VDZlaUR0RFhvSC1FVjMyb2RqMHVOYjY5Rk15cDBJejg3bW5kdlFIWUlFa29qcTBBb1pKOGRXbEZIT3ZCZXVBMDNKZW1FQVRBZVZlMlRuT0piakF6X0lBNlVJbTQ1cjBPeHhDMkVYRF9qaUI1VmhUS1F5anVNaWZhbExRT3hLUGx6Nk9mQUlFdVMyejByNko4STdJQmMtY2lrWExnV1h2QTh0TXk?oc=5
+- SEMICON India 2026 concludes successfully at Yashobhoomi in New Delhi - News On AIR
+  SEMICON India 2026 concludes successfully at
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1N5X3lIdmRmVG9oWngtVGI1b2FwR0t4VmxGQVFBOHFkU1ZvcjlHWVhyRmRuLWpTd01BZmRpZVdRQlhONFhxaFpvaUs4TFpmaDFWdGsteVl4WTY2T0Z5X3VESnNDcnBxRVNDX0xxWTlrTjFoak9ab1hrWnNDd01ReVpubHY4a1NoT1Y1NENGcHNrNDVnN0FnT1BIOA?oc=5
 
-- Asian Games 2026 live, September 20: Know India scores, updates and results from Day 1 - olympics.com
-  Asian Games 2026 live, September 20: Know India scores,
+- India at Asian Games 2026, Day 1: Elavenil Valarivan on target, women’s team enters cricket final - as it happened - olympics.com
+  India's women's team enter cricket final - as it happened at Asian Games 2026.
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
 
-- China goes shopping in India as exports jump 39% and BRICS trade picks up - The Economic Times
-  China goes shopping in India as exports jump 39% and BRICS trade
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWxzWDlEa3NrLUJBWk96aFhCTTdDallPY3d0ZkVIMXhCejhZT0ZCZ2ZCLUdkZWlFRGxoN2xvRU9YRG1FOWJjTjNfQ3lfTTZpM2N0b0JXMnpKYVFXemFPU2lHMG44VWVvbGxsYUI4Ty1VNXVWZWhpWWxiUFlTVmp1OXNTd3RuaENMU1hTUmZjMU01N1hHTmpzVDN5Mkh3eTVTOWxnbUYyMU9abHYyb3Z4YkFPUVd1bGxCRG9BNmtuNmt4Q2c0NVo4ck5nVk9fOXdqdDUzd2RQRTljNS02Y1EwUUwtTWRoR2Yx0gHuAUFVX3lxTE9uWjREellGOEFzWWFrZ0pyUVkxbUxCWk1xNVZvLWhmSzNoYWl2eUd0ai1INllfYjFMTV9oRWtwSVNQNXRQQjc5LUlaMHVXTThzOWtzcWx4V0Q3dElTZVpYZTZqTmRsMFk5VUw0YkZJNFRJbmZIeVNJVUVBeWFpaW9TYmlRem55emF6YVN0anJwUkRNTWtVRUQ1RHpLQnJJRW9WV2N3ellvMkliV3JLQjVINlY2akhJVGlXSS1wVjF1ZjR3N2tmWDRQci10OUI3NGM5c3gyTUtiYS12eTd5cFBONi1BMUNZSVRMNXkwYWc?oc=5
+- Mum's viral barefoot race sparks debate over India's education crisis - BBC
+  Mum's viral barefoot race sparks
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE43T1ViTmMtMERZNnFFYTRwTmltSm1VTmdGT212REx0ZDRNajQtRGxWa0tHbGNMODBiRm4zbTRHb2hBTWI5R2ozTUZzeURwOVZCUnJIQW1IbnJnbnM?oc=5
 
-- India's exports to core BRICS markets surge 34% in April-August; China leads - The Hindu
-  India's exports to core BRICS markets surge 34%
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUV9vWGFpS3dQN3l0WnFxdzNZRE1aM0VGRjk3a0w3dzZjQzkwUlBDMUI5VkxzUjhOWWhuVDlPQ1lFSVdNSEhjWFp5NjdEUEdLWGF4b25HN1Z2cldCa1c2cXFialdWX21RcHN3YU45MDlFTjlWUjhRSFJyTUxsc011VmstZHJkR3FKRllYN3pfdVluNmZ0SVgxTEZWLXBOcDM0Qmg1amlFY1Z1WENCMzRWWGROMWtaMGkzRXpVWFljR29UblZtUkJtMjJiQnTSAdMBQVVfeXFMUEtKNVdzQ0VnVnhnNkR4bEhoZ2M2X0lYVEFlcDdhUC1FSklfT1pFZVRyNnEzdjVmdlpWZWdBTTllbWxUTnJmbjNScnhTal9tdHdPaU1TMU1CTEppOW5HRU1pb1hZaTNYUWM4aFA4UWstZEhqSFVqMVpyRUF3YXRqREx2dThBbUNLeGlEMFN0VXczbVN6Y1RCak1QYVFjaW1HOXRQMFRldHZ0MTU1VjV2Y2cydVdrZTdNc3J2Q1A4SVlwMUxvWDZqdG5uOWhsSjV6ZlJwZw?oc=5
+- Sabotage Attempts On India's Semiconductor Push? What Ashwini Vaishnaw Said - ndtv.com
+  A look at what Ashw
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDlpUFBfQ0FMVnZGaE4yV2N5WFFCM0JvYklUcDExak1HaUZ2YkJjZU52VERvSWUwM3U5VF91NVd2eGRxSXF4a0pBZ3h3anZHVklnNUZ6N3A3d0trWGE4VHpnNjY0N19HRTNUak5zeWd2cUlHb3ZWc2YzX2RpbnMtSm5qemMwTlhWUzMxc1FsaEJlZzhOQ0Q0SUZyeTBGbm1CaE1UNGd6WnZNcXJuX3ZsX2djeGHSAbwBQVVfeXFMTTd0cTFDV0w1ZUVhU3ZmZDJubERmc3hpSFRVT3JLdHRwNnE3Z3RncC1KREw1Ukx1ZExnRUNTVUpYYzBYbktiWHJ5Q0xnRlQwLThQSFBjRFp3YUd1M0xKNEFyZUhueWFsTkpxN2RRNE5ibzZ2V29OUHg3cXpkVmVGZ0pfT2J5Q0h3Y1R2Qm5VU3FPSnh0MFYxWG83Zm8xdmRKZDlLenB1Tzh0NlZ5eFFueTRKalZ5YVJQMllveTg?oc=5
 
-- India’s exports to China surge 39% in April-August 2026-27, core BRICS shipments up 34% - Moneycontrol.com
-  India’s exports to China surge 39% in April
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb19kMWJSVU00N0VNMENoM0N6VE1pVGg2TnkxSUg1SHdIOUdBRk9pak12MmY0WUczQlM0dzRNSmEtWVRMMzcwaS15WWpFWXJSS0YxRkhXSG9OOXk0ZndLamtTWWFGaHEtbGlybV9WMFRlcVgtMGhHTEtyb3ZXT01OSGM4eXg5Q1dHV1JWTHllbmtDMEdpczVZS1ZtM3JWTGJ4UEY4clVqNlhTTXpzQ0lSdzM3VVRzRE43cks5TDdfOWpaeDBvYjNxekExbzVSV0trRlF5SdIB2gFBVV95cUxNY3RqUWZ0OGNHeGtTZkdNNnBNSFQ4M0dJQTNuaExUVUJlRUI3WnRZYllzSDNMajNZZ1NWSWZSSWZJLUkzTlU0NUhqQWJBZXZUWWh6SERvQmJzcmFSVXhscENrT2tFWUFfXzctbFZ0bGVHZ2dmVUdwajJsN3h1NU0xVU9MZ3o3WXFpdnpVdkcweWEwdkdmWWN0LV9rcXYwN1I0dTZLbkdLV0RKdERSak5JNV9vWUZlbW5oZVZQM2RJcmQ3czNiaTRIb09QWDBrX1ZXNUJkZk1zYnl1UQ?oc=5
+- India's semiconductor push targets chips for cars, TVs, power infra: Vaishnaw - thehindu.com
+  India's semiconductor push targets chips for cars
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQWk1FNVR4QTFVZ2JCNEYwcG1od2Z6aEgwNnZPZDVtYWlrY3I2LWxON3JJNllPZlVtY1ZKWVhib2pCWnJxdzctaWVMM3ZfTGtHUlBrMzhSR2JmRk5pS200THJsdHo3azlSMTBoQTFqUmdKaFN1cWc4MHNmOVN0ZUU5ZFpKem1heV9pMHd3M3hwOXJmSEJ1dDcwZ1N4Z2pkWFdCVmMxV3B4YXFoTFdWSTlfU0JraEpYbDF0d25QWGRid3lNMlk4aWc4UlpmWWPSAdMBQVVfeXFMTVRLalE5czJkNC1MblNrNVkyY2RyaF9UaTU2YUwtelJ6NnRua1U1b0xTQ3MyTlJZbzVnYi1wcjhQSWJBZzZBa0RRWC1KaFM1eVU3blVFVHBublFvSTBrYU9JSXJGcXV5M2ppejloNUlSRXl3SGJXdkg1aEVvUndackctNFd1VGRmYWlVWUI0aFkxN3gxaWlKeFJOMjNjUXp1OXV3STFJTmkzXzAxQzNFWm85X3QtdVcwc1ZDbEdiQkdJVjRrTHhOajIxRGtHQTJaUFZOcw?oc=5
 
-- India-Japan defence ties take flight as air chiefs fly Tejas together during Veer Guardian 2026 - The Times of India
-  India-Japan defence ties take flight as air chiefs fly Tejas together during Ve
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa1JKYll5SklSMFRTREViTURneGlFa2NFOEpVR1FXREZzb0JGTFM3N2hoeVU5Z0Z5dURHa0lyQ1J1c0paT1ZqcV9BYVU5OTlHc2ZScjNKZm5tbFNaci1CanlIdXNnakVSUk1DdEhXanh2U2NDNWQ4V01MZWUtQzJyaXhIV3NEVjk0SXBiZENEdEFmWmRicDBkUEpLVXZhcnlvRWR4TTRlNUUwTkJaZ1hWYlBrSzdfRG53SHJxaFcxZFZuNW51WWV6V2k3UjdXdEJPdm9pLXdXTFZxY0JjZUwtekVEUEN0U3puZnZPb3JmNzNYSTZ6ejVaWjRqZThjaTDSAYQCQVVfeXFMTnJISHZreUlKcnFwX1ZqblFZdzFJQUtoV1MxV2dBUzFvLUw3Zmk1a0Qwb2llb2tUaWFGdlpKMTBKYlVDY2MwcVlBSlM0QklxNXNoTU1xMWtjdks2Smx4Tzg5VDZlaUR0RFhvSC1FVjMyb2RqMHVOYjY5Rk15cDBJejg3bW5kdlFIWUlFa29qcTBBb1pKOGRXbEZIT3ZCZXVBMDNKZW1FQVRBZVZlMlRuT0piakF6X0lBNlVJbTQ1cjBPeHhDMkVYRF9qaUI1VmhUS1F5anVNaWZhbExRT3hLUGx6Nk9mQUlFdVMyejByNko4STdJQmMtY2lrWExnV1h2QTh0TXk?oc=5
+- SEMICON India 2026 concludes successfully at Yashobhoomi in New Delhi - News On AIR
+  SEMICON India 2026 concludes successfully at
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1N5X3lIdmRmVG9oWngtVGI1b2FwR0t4VmxGQVFBOHFkU1ZvcjlHWVhyRmRuLWpTd01BZmRpZVdRQlhONFhxaFpvaUs4TFpmaDFWdGsteVl4WTY2T0Z5X3VESnNDcnBxRVNDX0xxWTlrTjFoak9ab1hrWnNDd01ReVpubHY4a1NoT1Y1NENGcHNrNDVnN0FnT1BIOA?oc=5
 
-- Asian Games 2026 live, September 20: Know India scores, updates and results from Day 1 - olympics.com
-  Asian Games 2026 live, September 20: Know India scores,
+- India at Asian Games 2026, Day 1: Elavenil Valarivan on target, women’s team enters cricket final - as it happened - olympics.com
+  India's women's team enter cricket final - as it happened at Asian Games 2026.
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Mum's viral barefoot race sparks debate over India's education crisis - BBC
+  Mum's viral barefoot race sparks
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE43T1ViTmMtMERZNnFFYTRwTmltSm1VTmdGT212REx0ZDRNajQtRGxWa0tHbGNMODBiRm4zbTRHb2hBTWI5R2ozTUZzeURwOVZCUnJIQW1IbnJnbnM?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Sabotage Attempts On India's Semiconductor Push? What Ashwini Vaishnaw Said - ndtv.com
+  A look at what Ashw
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDlpUFBfQ0FMVnZGaE4yV2N5WFFCM0JvYklUcDExak1HaUZ2YkJjZU52VERvSWUwM3U5VF91NVd2eGRxSXF4a0pBZ3h3anZHVklnNUZ6N3A3d0trWGE4VHpnNjY0N19HRTNUak5zeWd2cUlHb3ZWc2YzX2RpbnMtSm5qemMwTlhWUzMxc1FsaEJlZzhOQ0Q0SUZyeTBGbm1CaE1UNGd6WnZNcXJuX3ZsX2djeGHSAbwBQVVfeXFMTTd0cTFDV0w1ZUVhU3ZmZDJubERmc3hpSFRVT3JLdHRwNnE3Z3RncC1KREw1Ukx1ZExnRUNTVUpYYzBYbktiWHJ5Q0xnRlQwLThQSFBjRFp3YUd1M0xKNEFyZUhueWFsTkpxN2RRNE5ibzZ2V29OUHg3cXpkVmVGZ0pfT2J5Q0h3Y1R2Qm5VU3FPSnh0MFYxWG83Zm8xdmRKZDlLenB1Tzh0NlZ5eFFueTRKalZ5YVJQMllveTg?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- India's semiconductor push targets chips for cars, TVs, power infra: Vaishnaw - thehindu.com
+  India's semiconductor push targets chips for cars
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQWk1FNVR4QTFVZ2JCNEYwcG1od2Z6aEgwNnZPZDVtYWlrY3I2LWxON3JJNllPZlVtY1ZKWVhib2pCWnJxdzctaWVMM3ZfTGtHUlBrMzhSR2JmRk5pS200THJsdHo3azlSMTBoQTFqUmdKaFN1cWc4MHNmOVN0ZUU5ZFpKem1heV9pMHd3M3hwOXJmSEJ1dDcwZ1N4Z2pkWFdCVmMxV3B4YXFoTFdWSTlfU0JraEpYbDF0d25QWGRid3lNMlk4aWc4UlpmWWPSAdMBQVVfeXFMTVRLalE5czJkNC1MblNrNVkyY2RyaF9UaTU2YUwtelJ6NnRua1U1b0xTQ3MyTlJZbzVnYi1wcjhQSWJBZzZBa0RRWC1KaFM1eVU3blVFVHBublFvSTBrYU9JSXJGcXV5M2ppejloNUlSRXl3SGJXdkg1aEVvUndackctNFd1VGRmYWlVWUI0aFkxN3gxaWlKeFJOMjNjUXp1OXV3STFJTmkzXzAxQzNFWm85X3QtdVcwc1ZDbEdiQkdJVjRrTHhOajIxRGtHQTJaUFZOcw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- SEMICON India 2026 concludes successfully at Yashobhoomi in New Delhi - News On AIR
+  SEMICON India 2026 concludes successfully at
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1N5X3lIdmRmVG9oWngtVGI1b2FwR0t4VmxGQVFBOHFkU1ZvcjlHWVhyRmRuLWpTd01BZmRpZVdRQlhONFhxaFpvaUs4TFpmaDFWdGsteVl4WTY2T0Z5X3VESnNDcnBxRVNDX0xxWTlrTjFoak9ab1hrWnNDd01ReVpubHY4a1NoT1Y1NENGcHNrNDVnN0FnT1BIOA?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India at Asian Games 2026, Day 1: Elavenil Valarivan on target, women’s team enters cricket final - as it happened - olympics.com
+  India's women's team enter cricket final - as it happened at Asian Games 2026.
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
 
 
-_Last updated: 2026-09-20 10:31:38 UTC_
+_Last updated: 2026-09-20 15:21:14 UTC_
