@@ -1,44 +1,12 @@
 # 📰 Daily News Summaries
 
-- US bought nearly $120 billion of India’s software services in FY26, share rose to 54.1% - Moneycontrol.com
-  US bought nearly $120 billion of India’s software services
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWE1Rbk1zeUJBdEdqNFpaSlRsVU5ST3B3ODlsaUhmWXRHaURhTVFtWXNzWEJ1ZHcxV3J4VWFqZUQwSkxVZXFYaE1JNWY5eXN0OHhvakhESTV5WEJjdWJ1SmR0Rm9PSU0tcHB3NVhUbm9qRDlvWW5nV1pncThKYkZnLV9Xd2JfRENvZTJ1WGFZODBEUDZ1dHdUel81eklJaWl3dVV1a3BPWDJNYnM0Q2hTM1ZIbFBmOVlnUzdHOEdWRXFteVlJS1g4UllFeWZwV2MtZ0xuRnZtaTPSAd4BQVVfeXFMTlFaUzBCdTd1REc3c2JlVkFhcThKc3J2em1DNUNLWmg4Vml3NnhTazBEQXVOOFVDN2JjVGE0YTA4RkdHX1RsQlNWX25taHVDNW9pTC1UcjQ1TGZITW15YXNXWXJDckRxdFItZjlfdEdlMTR5NXJXZm9oZklXM2NDYndLQlNyV3g5WF9wOWZBMDEwRzJmYW9wSXV6ZjU5dnpvTXY1M2lHTXVkYU5KNWstcF9BQjNhanNaNzhwZS0xY0VDbmJzV1d2SFNoaERSbTA0Y0xFbXBwLU1EVXFZSEVn?oc=5
+- Serum Institute emerges as early backer of Yotta
+  Adar Poonawalla's Serum
+  🔗 https://www.livemint.com/companies/news/yotta-data-services-fundraise-serum-institute-250-crore-11789875417541.html
 
-- Asian Games 2026 Live Updates: India eye medals in teqball, shooting; hockey, cricket campaigns begin - The Times of India
-  Asian Games 2026 Live Updates: India eye medals in teqball, shooting
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTlEtQWxFTGl4b0FtVF9pd0t2OWZJUnlQNnA0Ym5OeEVuREpkTjhkV29rZVNodmJPa19mQ3I0dVY1el8wMEl1YVhSNC1nVDYyNXFZTVdqNVBYeTlmLWpvYjJGVWE5d0kzMlVIVG5Uc1pqU3V1dnVtZGJvQWdBYURIcjVDVVoteVF0cHRSMks0cXU2dlRNNXlmZk9nTk1FMUFEeFdVUEgwZ2pVN2dKWTZJd0lpei1BaDVvczlOeHliOUtIbEU3SUZSaDhHQ2hFT1lXaUV0ZmR2alhTN1RSVEJGbGhXRnhFdGdLTzFBQzdnaXlUNlFELVQyTm930gH_AUFVX3lxTE03Q3V3LVRxaWJGdWZKbmtSbUZjNUhwbkRvM0hEbnRIaGJpQ18wRS1iLV9lWEhzeE40ZlJSS0ZqWTc5N0d6X3M0elRoRkgxR0ZCMF9qd0hsZ2FfTS1IQzJMN2R1Tm5KZ2hjODk5N3g4S0NacUFac1I4Ynd4U2tINnYtalhBSkdiWUN4SHFDQVphVURiMVIxR0otb2otQkJwZ2RQeTRaNGRYRjk1cC1qSVRoXzZEOVBMV05FM05IdHhDSEY3TWd4SDFfQUlzYkF4cHRHUmNnNFp5dzdENnZPaFBLUTZXZXJZNlRVTEo1QktZUG1ySThORWkwbnlsMHJJcw?oc=5
-
-- Asian Games Live, September 20: India hockey, cricket teams in action today — Catch latest scores and news - Sportstar
-  Asian Games Live, September 20: India hockey, cricket teams in action today.
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXdFZ2N3N3lsSXFmUEJPRHN2V1l0SGpWSHhsMnNTOTBqVUFPRzRtaWM1aVo5aHJDTEItQkpKNkQ4Y3ZVR1VqZENYV3laanE4cnAwcHFzRER3WTd4SWhRd0JiRkdNZVk5ZmxQNmFmdy1JbE9CUDFPNlg3a21YblpfbzlMSkUyaDhPMkJVMHhzbGYxaDF3M0o5Zk9XU09CWkhXQWJiUmRoVjQ5eEJwLVZVYURpVFoyR2dXUXBCMVZWcnRNWGpEYm45NndUUDRVUQ?oc=5
-
-- Asian Games 2026 live, September 20: Know India scores, updates and results from Day 1 - olympics.com
-  Asian Games 2026 live, September 20: Know India scores,
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
-
-- India remains the fastest draw in flood relief to Nepal: 141.5 tonnes of aid rushed after flash floods | India News - Hindustan Times
-  India remains the fastest draw in flood relief to Nepal. 141.5 tonnes of aid rushed after flash
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzhnS2plSjFvZE1QdnhGSk9wajZXLTVQdXh0TUVYQUMwQlNPVmpGNWx2RkExa1pzdWc5NXpMYVlNUmR0TF9SRVNUNkprT2xrWXlLNENpSXhlN2dxUlJiSS1pNUJaTXBET191dmdBNUd6OW5scXZCTFpaVWtCcTdNbUtpLVZqZC11c3J4b0p4SmlSUXlUUnJMaTBQeUxnU0ZPMXdGaFdvQ0szUnROMEZYdndaUm44SGhkMmlvRU9IVEhXX0hJNjBRWllfQ1VsQUtDZFpIY28zSTI3RTJkZHVBbHlsU3lNRmdhTjNFQXlPc0IzVlM2UHE00gH8AUFVX3lxTFA5cnRaanpjcXRFSkdFTVV5LXFQYUFlQV9UZENZYUVnOUF2RDdoc0NCOGNpSjI3MGs0MVdGYUdLM3FaM2doMHo4aFN0Nldab3J1OXI0QjVhdzBxWGVLTjhMdktBU2s3S0VHWUlCNElNMGNjYmFPYXN5c1o2SV9hc1RQVXJRMXNTc1kzWnR4Wm9OWTVnMXlWOEJXb2NiQ0RwWFdNcDM0WWZHTGI2QkhIV2NSckdzWFQ5VklzVXVLdXE2RjBoUXQ2SUExTzBSaDF5Qjk3a0NQcHpyWEFLNFJjbm8xNFR1d3oyUGxvd2pHZURRZjNvVTB0QmJVNWVFTA?oc=5
-
-- BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology - The Hindu
-  BSNL deputy general manager urges engineering students to embrace AI, robotics
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNMHNmSGJ2TjQzSlJzT3JPQ3VzMFpFaWZUUWVXczlaaDBRSkV0dUNWTDFXbW9QRDdqYURmR2tVWnRPNFlIYlJONFp0WVhrNGNHWjJxY0x3blZjR1VjbVVTU2Q2NlFvM2NlcGV2aDlfNDhKeTN4dURqdGRScFNSdkVxRUNfOHBWX0NXbEtwaGZFQ1lfSjBQTHlwQlhhd1ZLX3g3NDdHUTY3V29kY0N5Y2lFcnNrOGRQUlZnc3NEVDNaQllFT003QUNPWW45SEdabWdKUms2c2kwOTF2V2RkU0dnQTRmaGlNSXNfX1dCSzg0TUpBd3U1LVdnaHFxVlJmWXFaeGdlaNIBiwJBVV95cUxQcHRVNGwzWTA4TXIwLVNwaGM5UWFOYlJ5TjU4SmJoZWpfSzdpcl90Y1ltNE5CUHViVXRmVERBX09aa01SREpwM1BfNEVSd1E3X2g5TzcwSW5QRU1kNTNPNjlMdnNiU0xTbVp6OFUwaGdzaGlEVnktOHh1ZE5RaENtXzFhdEk2QWdnYlVtelFYSWp4VzB3aGZ1NUNrM0Rrc3pKcVlRSnVUaE1wTjVZcmNYdWVRMExwUWg1eEpLbGlJcVFKRzhhNXBUcUNGbXEybDdrRzNWYVUwRDBnaWpDbTVGanV1TTMtQkl0TmJ4cnpXcVZfUGl6TjZuNS1LdFE0NEMxR0MwRjFJTjlVOU0?oc=5
-
-- Disney Names AI Executive as First-Ever Chief Technology Officer - Bloomberg.com
-  Disney Names AI Executive as First-
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDBJMEI1TVo4YmV6ay1MYndVQmJtS2w1ZnJpeUthOGZaQUlHNEt1TnpOZUZRZ1c2dnZKSDhkblB2Q2ZYbXpUZUJxUk5MTktRVzBxNVdCQ3diSnFpaExvVEJsbmVoMy1jSUkteW4wTnduSjNaTWRjczZweDk3MDhreTQ2eDJENlMyTTkzcDNIeGFrenZsSUFia28wTWVHZjRCYWxLOGdMQndXUFAwc0NWRWZ6UDJMZw?oc=5
-
-- Who is Karandeep Anand, Disney's newly-appointed chief technology officer - The Times of India
-  Karandeep Anand, Disney's newly-
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUi10LWNEaW1tYW91LV93SUVMUzhFMUZ4bEJvTXFmdFJCOFJxbzMxc2hkaUJkcExIREpLS1Rxd2xkcUdwNUZ1a05KY2tVbm9uSVYwSnVWS09nSGNiemdzQldyZjB1SXMzQUFhTHZ2TGNOS0ZVYTlMOXExSFMwS0FCdlF4N1hOU2NwQVRzOE9FenAtd3FSRTQ4UW9wQ1ZjVGdMc0tCTEJtZEp4cHg1c3NtRFJMVFlza2lZenlZdDZqWUZtUW11bUpkZmlUQWpvRzZhYi1tb28tZTJCUdIB3wFBVV95cUxPRGtkSkcycEs2VzY3dFhiWGwtX0lrbjFHZlB3Q1V0ejQ4ck8zTVZRN1B3NEVNeTR4cVNnSlFKc21MUmJGMWZEcm1xRTQxT3JOV3lxYk5qZXdTOUY4NlhXSWVoVlVVNmJxQlhTZ0dJQkVUUXh6WnpvNXA5SEh3a3RxTF9kcDJmSF8tU291QThzVlJjZFRlNzVMQjZ4V0g3RUw3b3BNLUxzbkhiTnliNHlWeHp2aFB4ZHV1ZlVtSTRrTjRvLWIyMlZsT2ZhNWxUVVdEc1dtMUE0VEh0cTdZSTdv?oc=5
-
-- The Walt Disney Company Names Karandeep Anand to Newly Created Role of Chief Technology Officer - The Walt Disney Company
-  The Walt Disney Company Names Karandeep Anand to Newly Created Role of Chief
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkRhYThjUUZNdEd2RVR1Unp3M0VDLXBuaF9yVF9HclhqODRJRENhNmI2eGhGMWJDUnFMSDB0MnpwQjkwTE9xMTAxZ2x1Z1JNN0xsenVoY0NnYzhhMm5qbW04TkFZNllKckJSeEVDM040ZldsTGJUb3ViRUpNckRob29RdUJkZw?oc=5
-
-- Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow - theguardian.com
-  Trump to create ‘AI Force’ to monitor technology
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVXE5YTI5dDR5YjNpVHIzYnhMQ3huclFnajVuczZBaU40U2RqQkFXMFVOVXJJTWo5SzlVN0tQMkhvdm84bDJMa2lkc2NKbDlHWVFlX2c4VzFyVmFqdFdzbkdqMDNBSXE0N3ZHR3BKdVBzcG44emoxcA?oc=5
+- Tata Trusts hires top lawyer Abhishek Singhvi as drawn out legal battle looms: Shareholder rights cannot be ‘nullified’
+  Top lawyer Abhishek Singhvi appointed as legal representative of Tata Trusts. Here's what he said about the ongoing dispute.
+  🔗 https://www.livemint.com/companies/tata-trusts-hires-top-lawyer-abhishek-singhvi-as-drawn-out-legal-battle-looms-shareholder-rights-cannot-be-nullified-11789891893821.html
 
 - Paramount Settlement Talks Include Promise to Stay in California
   Settlement talks between Paramount Skydance Corp. and California officials over the lawsuit challenging the Warner Bros. Discovery Inc. acquisition have included
@@ -52,33 +20,33 @@
   Kraft's donation pledge comes amid controversy surrounding Macklemore’s removal from
   🔗 https://www.livemint.com/news/trends/who-is-robert-kraft-what-is-his-net-worth-patriots-owner-s-fortune-in-the-spotlight-after-macklemore-s-1m-challenge-11789832139008.html
 
-- Paramount-Warner merger: California and 11 states could settle lawsuit blocking $110 billion acquisition this weekend
-  A settlement would potentially remove one of the major legal obstacles to the acquisition. The precise impact would depend
-  🔗 https://www.livemint.com/companies/news/paramountwarner-merger-california-and-11-states-could-settle-lawsuit-blocking-110-billion-acquisition-report-11789828816137.html
+- Dividends, stock splits alert! Corporate actions this week: IRCTC, BEML, Dixon Tech and more - Record dates, full list
+  More than 170 companies have set record dates for dividends and stock splits during the week.
+  🔗 https://www.livemint.com/market/stock-market-news/dividends-stock-splits-alert-corporate-actions-this-week-irctc-beml-dixon-tech-and-more-record-dates-full-list-11789890298929.html
 
-- Netflix stock tumbles: Wells Fargo cuts target, says streamer giant needs ‘breakout hits'
-  Netflix is facing a massive challenge: convincing investors that it can keep producing blockbuster shows.
-  🔗 https://www.livemint.com/companies/news/netflix-stock-tumbles-wells-fargo-cuts-target-says-streamer-giant-needs-breakout-hits-11789824110933.html
+- Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints
+  The yen is vulnerable to sharp moves and further declines over the next week. A three-day holiday in Japan set to reduce trading liquidity. Investors disappointed that the central bank didn’t offer
+  🔗 https://www.livemint.com/market/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints-11789892890813.html
 
-- ITC stock: 360 ONE maintains BUY, sees 68% upside; here’s why brokerage is bullish
-  ITC navigates weakened cigarette volumes due to tax changes but is offsetting losses with price hikes and improving margins. 360 ONE maintains a BUY rating, predicting an upside of 68% with a target
-  🔗 https://www.livemint.com/market/stock-market-news/itc-stock-360-one-maintains-buy-sees-65-upside-here-s-why-brokerage-is-bullish-11789814022662.html
+- Top stocks to buy on Monday when market opens: DLF, PN Gadgil Jewellers, HPCL - Stop-loss, target by Ganesh Dongre
+  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-on-monday-when-market-opens-dlf-pn-gadgil-jewellers-hpcl-stop-loss-target-by-ganesh-dongre-11789887141838.html
 
-- IPO GMP compared: SS Retail, Hero Motors, Jindal Supreme - allotment soon, how to check status online, subscription
-  The Jindal Supreme IPO achieved 177x subscription, raising  ₹124.88 crore. Hero Motors and SS Retail IPOs also saw strong interest, with substantial subscription figures and
-  🔗 https://www.livemint.com/market/ipo/ipo-gmp-compared-ss-retail-hero-motors-jindal-supreme-allotment-soon-how-to-check-status-online-subscription-11789811154721.html
+- Top stocks to buy under  ₹100: Equitas Small, Meghmani Organics, Filatex by Sumeet Bagadia; check stop-loss, target price
+  Sumeet Bagadia shares his outlook for the market in the coming with, along with the three stocks under
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-under-100-equitas-small-meghmani-organics-filatex-by-sumeet-bagadia-check-stop-loss-target-price-11789883488386.html
 
-- Top stocks to buy under  ₹200: Castrol, NHPC, Vikram Solar - 3 shares by Anand Rathi‘s Mehul Kothari; target, stop-loss
-  Kothari warns that a close below 55,500 may lead to increased selling pressure. He sees 57,000 as a key resistance for Bank Nifty. Recommended stocks under 
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-under-rs-200-castrol-nhpc-vikram-solar-3-shares-by-anand-rathi-s-mehul-kothari-target-stoploss-11789809341916.html
+- India Equity Strategy by Jefferies with 2030 Targets: Top 6 themes - Space, Semiconductors, Aerospace, and 3 others
+  India's semiconductor ambitions are moving from plans to actual execution, with around
+  🔗 https://www.livemint.com/market/stock-market-news/india-equity-strategy-by-jefferies-with-2030-targets-top-6-themes-space-semiconductors-aerospace-and-3-others-11789879754848.html
 
-- Salesforce stock falls over 8% in 4 sessions despite $63 bn revenue target, but UBS raised outlook price - Here’s why
-  Salesforce aims for $63 billion in revenue by fiscal 2030, surpassing analyst estimates. UBS has increased its price target for Salesforce.
-  🔗 https://www.livemint.com/market/stock-market-news/salesforce-stock-falls-over-8-in-4-sessions-despite-63-bn-revenue-target-but-ubs-raised-outlook-price-here-s-why-11789799817285.html
+- AI-to-AI communication could change how ads are bought and sold: Report
+  Artificial intelligence could change the way advertisements are bought and sold. It could enable automated communication between systems, reducing manual coordination.
+  🔗 https://www.livemint.com/technology/aitoai-communication-could-change-how-ads-are-bought-and-sold-report-11789885296164.html
 
-- Nestle India issues clarification: Why FMCG stock plunged? What's FSSAI baby formula row; why it matters to consumers?
-   FSSAI has launched three adjudication cases against Nestle India for compliance issues with its infant nutrition products. Despite recent stock pressure, Nestle maintained that its products comply with
-  🔗 https://www.livemint.com/market/stock-market-news/nestle-india-issues-clarification-why-fmcg-stock-plunged-whats-fssai-baby-formula-row-why-it-matters-to-consumers-11789794974681.html
+- McKinsey report shows productivity decline in 30% of companies using agentic AI
+  In nearly 30 per cent of companies, productivity fell after teams began using agentic artificial intelligence tools, according to McKinsey.
+  🔗 https://www.livemint.com/technology/tech-news/mckinsey-report-shows-productivity-decline-in-30-of-companies-using-agentic-ai-11789881025363.html
 
 - Only four countries lead global AI adoption by 20%, muting hiring in tech and services: Goldman Sachs
   AI adoption rates among major developed economies range from 15–20 per cent. France, the US, the Netherlands, and the UK are at the top end
@@ -92,73 +60,57 @@
   Apple has introduced its first foldable smartphone, the iPhone Duo. VP Tom Marieb detailed the engineering behind its hinge and durability.
   🔗 https://www.livemint.com/technology/iphone-duo-hinge-needed-extensive-engineering-reveals-apple-vp-ahead-of-october-23-sale-feel-solid-like-a-car-door-11789825808070.html
 
-- Android Auto gets Google Maps avatar customisation; Gemini-powered destination info coming soon?
-  Google Maps for Android Auto now allows users to customize their driving avatar directly on their car display. This feature, previously limited to smartphones, is part of a server-side update.
-  🔗 https://www.livemint.com/technology/android-auto-gets-google-maps-avatar-customisation-gemini-powered-destination-info-coming-soon-11789837047100.html
+- Market Trading Guide: Acme Solar, Medanta among 5 stock recommendations for Monday
+  Analysts have identified five stocks, including ACME Solar, Medanta, Tilaknagar Industries, Uno Minda and PWL,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-acme-solar-medanta-among-5-stock-recommendations-for-monday/slideshow/134365873.cms
 
-- Indias youth-driven talent will build next Qualcomms, Intels from here in coming years: Vaishnaw
-  India's youth-driven talent will build next
-  🔗 https://www.livemint.com/technology/indias-youth-driven-talent-will-build-next-qualcomms-intels-from-here-in-coming-years-vaishnaw-11789819997399.html
+- ETMarkets Smart Talk | India may see 50 bps of rate hikes in 2026 as Fed tightens: Garima Kapoor
+  The Fed's latest rate hike could constrain the RBI’s policy flexibility. Elara Securities’ Garima Kapoor expects 25-50 bps of RBI hikes in
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-india-may-see-50-bps-of-rate-hikes-in-2026-as-fed-tightens-garima-kapoor/articleshow/134365623.cms
 
-- Dow falls Friday and posts worst week since March as Treasury yields rise: Live updates - CNBC
-  Dow falls Friday and posts worst week since March as Treasury yields
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0zb1FPNjVUSjZxQjBrLTQtUmxMUk1DZVlPcmMyZDk4cy10VXJ1djlDNVJKUVRJcUdQN0t1N1VMZl9pNUdNT3ZLRXpyZkhESDRjdlR0T2EwUFYzSEVyR3ZsaEQzbTlUVno5UzRBTTJCckt4N09xb1h30gF8QVVfeXFMTkNJQ1JtdXJ5cnhhZnB4OERzOFBZS0tkaFNCLTR5TUVGR1VwWEM2cEVKT2dNN0RXRW9BNXJwYl9oN00wSm14b196ZEZoMnpoOVc5NDB6T2UwQ21yV2pVYzZFRWFlTC1YRE1SeC1wLVhEMWU2VGZ1eUZVel9IbA?oc=5
+- Rs 23,000 crore outflows! Is the September FII rout indicating a worse end to 2026?
+  Foreign investors have resumed selling Indian equities in September. FPI outflows crossing Rs 23,000 crore through September 19. Higher crude prices, elevated US bond yields, geopolitical risks
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-23000-crore-outflows-is-the-september-fii-rout-indicating-a-worse-end-to-2026/articleshow/134365561.cms
 
-- S&P 500 Falls as Treasury Yields Resume Advance: Markets Wrap - Bloomberg.com
-  P 500 Falls as Treasury Yields
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNVkhCUmZUbEVkMjdzcDFsQ2h6UVpQeDN4dGJwcWZNYVlCUEdzX1hZd2dnZm5lS2JYZkdQdzRsZElhekhLdjlGcEVIbGxoYVhjVXlhU2FFbG1kUmttd2MtWXhFNDdIMUJMUm1ydTlwTldwVzVKRXlVNEhIcTFFN21HWktLdGhIeVAwRTR5anUzZXNzZjRr?oc=5
+- Rs 4,169 crore IPO rush this week: 19 issues to open for subscription; NSE to lead 12 listings
+  India’s primary market is set for a busy week, with 19 IPOs aiming to raise around Rs 4,169 crore. The week will also see 12 listings, including
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/rs-4169-crore-ipo-rush-this-week-19-issues-to-open-for-subscription-nse-to-lead-12-listings/articleshow/134364576.cms
 
-- Markets News, Sep. 18, 2026: Dow, S&P 500 End Lower for Week; US 10-Year Yield Hits 5%; Oil Slips - Investopedia
-  Markets News, Sep. 18, 2026: Dow, S&amp;
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ3BqRVcyZjF2OTdaalFNbTFWY1hiczcyazlRQ2FnRGtIb1NmeXluMFN1WVVnSERvQmhVa3FTNE8wbExFNFBWRnVTbWVmUFhnczRnOVNPWldqeHRBc2JYRk9iOGZaOWw3dVo4UTQ3VnVIU3c4anIwTWgwVUd0cjJfRlNQd3I1LTVGT1dxWmtjNjk?oc=5
+- NSE GMP falls to its lowest level since the IPO announcement. What’s next for the mega issue?
+  NSE IPO’s grey market premium has fallen from Rs 192 to around Rs 58. The decline comes despite the Rs 22,562-crore issue crossing full subscription on
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-gmp-falls-to-its-lowest-level-since-the-ipo-announcement-is-the-listing-pop-fading/articleshow/134364080.cms
 
-- Markets are waking up to the rich world’s reckless borrowing - The Economist
-  Markets are waking up to the rich world
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNUktWdnY0XzRJUGpMeWNjLV8zcm1aQVZVMDVSQkVZRElYWHRvNUJTTDRjMDBlREtBOGpObEpjSzlBaVk5eFM4LXRkazdiYmJoc0lhUFQyZzZFaEdMT1phY1R3Y19YZDBNcExoWFk5VHhXTnJDU1M3QUk3SkpZcVBtaVB1d0RkTWRvQkhXbkJkUnI2cGFoaTc3UU9XQ1NLS01vblVMMUhIZw?oc=5
+- China goes shopping in India as exports jump 39% and BRICS trade picks up - The Economic Times
+  China goes shopping in India as exports jump 39% and BRICS trade
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWxzWDlEa3NrLUJBWk96aFhCTTdDallPY3d0ZkVIMXhCejhZT0ZCZ2ZCLUdkZWlFRGxoN2xvRU9YRG1FOWJjTjNfQ3lfTTZpM2N0b0JXMnpKYVFXemFPU2lHMG44VWVvbGxsYUI4Ty1VNXVWZWhpWWxiUFlTVmp1OXNTd3RuaENMU1hTUmZjMU01N1hHTmpzVDN5Mkh3eTVTOWxnbUYyMU9abHYyb3Z4YkFPUVd1bGxCRG9BNmtuNmt4Q2c0NVo4ck5nVk9fOXdqdDUzd2RQRTljNS02Y1EwUUwtTWRoR2Yx0gHuAUFVX3lxTE9uWjREellGOEFzWWFrZ0pyUVkxbUxCWk1xNVZvLWhmSzNoYWl2eUd0ai1INllfYjFMTV9oRWtwSVNQNXRQQjc5LUlaMHVXTThzOWtzcWx4V0Q3dElTZVpYZTZqTmRsMFk5VUw0YkZJNFRJbmZIeVNJVUVBeWFpaW9TYmlRem55emF6YVN0anJwUkRNTWtVRUQ1RHpLQnJJRW9WV2N3ellvMkliV3JLQjVINlY2akhJVGlXSS1wVjF1ZjR3N2tmWDRQci10OUI3NGM5c3gyTUtiYS12eTd5cFBONi1BMUNZSVRMNXkwYWc?oc=5
 
-- India ranks first in business climate among 41 global markets: Swedish Chamber survey - News On AIR
-  India ranks first in business climate among 41 global markets: Swedish Chamber
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQOExiQk8wNHNSZ2l0b211UmFaNi1sb2xtRC0xSEkwa2FQZlA3UUdiQi0ySlE0dHloZ2xjQThpUUY5ckVJV2RHMWNTUTZVRk1abEZVV3UtTWxJQ2hFMXVtVWdweHJJNFRxTGl1NFZtYjMwcjJYbjV2MWlFRE92XzlIYWFyc3l3TWROcEVtaF91ZW1jYkdta24w?oc=5
+- India's exports to core BRICS markets surge 34% in April-August; China leads - The Hindu
+  India's exports to core BRICS markets surge 34%
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUV9vWGFpS3dQN3l0WnFxdzNZRE1aM0VGRjk3a0w3dzZjQzkwUlBDMUI5VkxzUjhOWWhuVDlPQ1lFSVdNSEhjWFp5NjdEUEdLWGF4b25HN1Z2cldCa1c2cXFialdWX21RcHN3YU45MDlFTjlWUjhRSFJyTUxsc011VmstZHJkR3FKRllYN3pfdVluNmZ0SVgxTEZWLXBOcDM0Qmg1amlFY1Z1WENCMzRWWGROMWtaMGkzRXpVWFljR29UblZtUkJtMjJiQnTSAdMBQVVfeXFMUEtKNVdzQ0VnVnhnNkR4bEhoZ2M2X0lYVEFlcDdhUC1FSklfT1pFZVRyNnEzdjVmdlpWZWdBTTllbWxUTnJmbjNScnhTal9tdHdPaU1TMU1CTEppOW5HRU1pb1hZaTNYUWM4aFA4UWstZEhqSFVqMVpyRUF3YXRqREx2dThBbUNLeGlEMFN0VXczbVN6Y1RCak1QYVFjaW1HOXRQMFRldHZ0MTU1VjV2Y2cydVdrZTdNc3J2Q1A4SVlwMUxvWDZqdG5uOWhsSjV6ZlJwZw?oc=5
 
-- Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone?
-  Nifty enters the week in a corrective, range-bound setup. 23,000–23,100 emerging as crucial support and 23,500 as the first resistance. Weak momentum indicators and subdued volatility suggest cautious trading
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-defend-the-23000-support-zone/articleshow/134351910.cms
+- India’s exports to China surge 39% in April-August 2026-27, core BRICS shipments up 34% - Moneycontrol.com
+  India’s exports to China surge 39% in April
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb19kMWJSVU00N0VNMENoM0N6VE1pVGg2TnkxSUg1SHdIOUdBRk9pak12MmY0WUczQlM0dzRNSmEtWVRMMzcwaS15WWpFWXJSS0YxRkhXSG9OOXk0ZndLamtTWWFGaHEtbGlybV9WMFRlcVgtMGhHTEtyb3ZXT01OSGM4eXg5Q1dHV1JWTHllbmtDMEdpczVZS1ZtM3JWTGJ4UEY4clVqNlhTTXpzQ0lSdzM3VVRzRE43cks5TDdfOWpaeDBvYjNxekExbzVSV0trRlF5SdIB2gFBVV95cUxNY3RqUWZ0OGNHeGtTZkdNNnBNSFQ4M0dJQTNuaExUVUJlRUI3WnRZYllzSDNMajNZZ1NWSWZSSWZJLUkzTlU0NUhqQWJBZXZUWWh6SERvQmJzcmFSVXhscENrT2tFWUFfXzctbFZ0bGVHZ2dmVUdwajJsN3h1NU0xVU9MZ3o3WXFpdnpVdkcweWEwdkdmWWN0LV9rcXYwN1I0dTZLbkdLV0RKdERSak5JNV9vWUZlbW5oZVZQM2RJcmQ3czNiaTRIb09QWDBrX1ZXNUJkZk1zYnl1UQ?oc=5
 
-- Bank of India MF CIO Alok Singh sees banks poised for a re-rating. Here’s what could trigger it
-  Bank of India Mutual Fund CIO Alok Singh sees scope for banks to re-rate. He expects policy announcements and stronger business numbers to ease concerns around NIMs and FCNR flows.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/bank-of-india-mf-cio-alok-singh-sees-banks-poised-for-a-re-rating-heres-what-could-trigger-it/articleshow/134351586.cms
-
-- Bitcoin reclaims $80,000, Ethereum nears $2,620 despite hawkish Fed, CLARITY Act setback
-  Bitcoin reclaims $80,000 and Ethereum approaches $2,620. Improving risk sentiment, cooling oil prices and short liquidations supported the rebound. ETF outflows, elevated rates and regulatory uncertainty remain key factors shaping the
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-reclaims-80000-ethereum-nears-2620-despite-hawkish-fed-clarity-act-setback/articleshow/134351470.cms
-
-- Warren Buffett sounds alarm as stock market warning returns for only second time in 155 years
-  The S&amp;P 500’s CAPE ratio approaches levels seen only during periods of extreme valuations. While elevated readings can signal weaker long-term returns, they do not predict near-term crashes. Buffett�
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-sounds-alarm-as-stock-market-warning-returns-for-only-second-time-in-155-years/articleshow/134351304.cms
-
-- HFCL, Polycab India among 7 companies that are Goldman Sachs’ AI enablers. See full list
-  Goldman Sachs has identified seven Indian companies as AI enablers. It cited their role in supporting power, data centre
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hfcl-polycab-india-among-7-companies-that-are-goldman-sachs-ai-enablers-see-full-list/slideshow/134349968.cms
-
-- US bought nearly $120 billion of India’s software services in FY26, share rose to 54.1% - Moneycontrol.com
-  US bought nearly $120 billion of India’s software services
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWE1Rbk1zeUJBdEdqNFpaSlRsVU5ST3B3ODlsaUhmWXRHaURhTVFtWXNzWEJ1ZHcxV3J4VWFqZUQwSkxVZXFYaE1JNWY5eXN0OHhvakhESTV5WEJjdWJ1SmR0Rm9PSU0tcHB3NVhUbm9qRDlvWW5nV1pncThKYkZnLV9Xd2JfRENvZTJ1WGFZODBEUDZ1dHdUel81eklJaWl3dVV1a3BPWDJNYnM0Q2hTM1ZIbFBmOVlnUzdHOEdWRXFteVlJS1g4UllFeWZwV2MtZ0xuRnZtaTPSAd4BQVVfeXFMTlFaUzBCdTd1REc3c2JlVkFhcThKc3J2em1DNUNLWmg4Vml3NnhTazBEQXVOOFVDN2JjVGE0YTA4RkdHX1RsQlNWX25taHVDNW9pTC1UcjQ1TGZITW15YXNXWXJDckRxdFItZjlfdEdlMTR5NXJXZm9oZklXM2NDYndLQlNyV3g5WF9wOWZBMDEwRzJmYW9wSXV6ZjU5dnpvTXY1M2lHTXVkYU5KNWstcF9BQjNhanNaNzhwZS0xY0VDbmJzV1d2SFNoaERSbTA0Y0xFbXBwLU1EVXFZSEVn?oc=5
-
-- Asian Games 2026 Live Updates: India eye medals in teqball, shooting; hockey, cricket campaigns begin - The Times of India
-  Asian Games 2026 Live Updates: India eye medals in teqball, shooting
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTlEtQWxFTGl4b0FtVF9pd0t2OWZJUnlQNnA0Ym5OeEVuREpkTjhkV29rZVNodmJPa19mQ3I0dVY1el8wMEl1YVhSNC1nVDYyNXFZTVdqNVBYeTlmLWpvYjJGVWE5d0kzMlVIVG5Uc1pqU3V1dnVtZGJvQWdBYURIcjVDVVoteVF0cHRSMks0cXU2dlRNNXlmZk9nTk1FMUFEeFdVUEgwZ2pVN2dKWTZJd0lpei1BaDVvczlOeHliOUtIbEU3SUZSaDhHQ2hFT1lXaUV0ZmR2alhTN1RSVEJGbGhXRnhFdGdLTzFBQzdnaXlUNlFELVQyTm930gH_AUFVX3lxTE03Q3V3LVRxaWJGdWZKbmtSbUZjNUhwbkRvM0hEbnRIaGJpQ18wRS1iLV9lWEhzeE40ZlJSS0ZqWTc5N0d6X3M0elRoRkgxR0ZCMF9qd0hsZ2FfTS1IQzJMN2R1Tm5KZ2hjODk5N3g4S0NacUFac1I4Ynd4U2tINnYtalhBSkdiWUN4SHFDQVphVURiMVIxR0otb2otQkJwZ2RQeTRaNGRYRjk1cC1qSVRoXzZEOVBMV05FM05IdHhDSEY3TWd4SDFfQUlzYkF4cHRHUmNnNFp5dzdENnZPaFBLUTZXZXJZNlRVTEo1QktZUG1ySThORWkwbnlsMHJJcw?oc=5
-
-- Asian Games Live, September 20: India hockey, cricket teams in action today — Catch latest scores and news - Sportstar
-  Asian Games Live, September 20: India hockey, cricket teams in action today.
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXdFZ2N3N3lsSXFmUEJPRHN2V1l0SGpWSHhsMnNTOTBqVUFPRzRtaWM1aVo5aHJDTEItQkpKNkQ4Y3ZVR1VqZENYV3laanE4cnAwcHFzRER3WTd4SWhRd0JiRkdNZVk5ZmxQNmFmdy1JbE9CUDFPNlg3a21YblpfbzlMSkUyaDhPMkJVMHhzbGYxaDF3M0o5Zk9XU09CWkhXQWJiUmRoVjQ5eEJwLVZVYURpVFoyR2dXUXBCMVZWcnRNWGpEYm45NndUUDRVUQ?oc=5
+- India-Japan defence ties take flight as air chiefs fly Tejas together during Veer Guardian 2026 - The Times of India
+  India-Japan defence ties take flight as air chiefs fly Tejas together during Ve
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa1JKYll5SklSMFRTREViTURneGlFa2NFOEpVR1FXREZzb0JGTFM3N2hoeVU5Z0Z5dURHa0lyQ1J1c0paT1ZqcV9BYVU5OTlHc2ZScjNKZm5tbFNaci1CanlIdXNnakVSUk1DdEhXanh2U2NDNWQ4V01MZWUtQzJyaXhIV3NEVjk0SXBiZENEdEFmWmRicDBkUEpLVXZhcnlvRWR4TTRlNUUwTkJaZ1hWYlBrSzdfRG53SHJxaFcxZFZuNW51WWV6V2k3UjdXdEJPdm9pLXdXTFZxY0JjZUwtekVEUEN0U3puZnZPb3JmNzNYSTZ6ejVaWjRqZThjaTDSAYQCQVVfeXFMTnJISHZreUlKcnFwX1ZqblFZdzFJQUtoV1MxV2dBUzFvLUw3Zmk1a0Qwb2llb2tUaWFGdlpKMTBKYlVDY2MwcVlBSlM0QklxNXNoTU1xMWtjdks2Smx4Tzg5VDZlaUR0RFhvSC1FVjMyb2RqMHVOYjY5Rk15cDBJejg3bW5kdlFIWUlFa29qcTBBb1pKOGRXbEZIT3ZCZXVBMDNKZW1FQVRBZVZlMlRuT0piakF6X0lBNlVJbTQ1cjBPeHhDMkVYRF9qaUI1VmhUS1F5anVNaWZhbExRT3hLUGx6Nk9mQUlFdVMyejByNko4STdJQmMtY2lrWExnV1h2QTh0TXk?oc=5
 
 - Asian Games 2026 live, September 20: Know India scores, updates and results from Day 1 - olympics.com
   Asian Games 2026 live, September 20: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
 
-- India remains the fastest draw in flood relief to Nepal: 141.5 tonnes of aid rushed after flash floods | India News - Hindustan Times
-  India remains the fastest draw in flood relief to Nepal. 141.5 tonnes of aid rushed after flash
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzhnS2plSjFvZE1QdnhGSk9wajZXLTVQdXh0TUVYQUMwQlNPVmpGNWx2RkExa1pzdWc5NXpMYVlNUmR0TF9SRVNUNkprT2xrWXlLNENpSXhlN2dxUlJiSS1pNUJaTXBET191dmdBNUd6OW5scXZCTFpaVWtCcTdNbUtpLVZqZC11c3J4b0p4SmlSUXlUUnJMaTBQeUxnU0ZPMXdGaFdvQ0szUnROMEZYdndaUm44SGhkMmlvRU9IVEhXX0hJNjBRWllfQ1VsQUtDZFpIY28zSTI3RTJkZHVBbHlsU3lNRmdhTjNFQXlPc0IzVlM2UHE00gH8AUFVX3lxTFA5cnRaanpjcXRFSkdFTVV5LXFQYUFlQV9UZENZYUVnOUF2RDdoc0NCOGNpSjI3MGs0MVdGYUdLM3FaM2doMHo4aFN0Nldab3J1OXI0QjVhdzBxWGVLTjhMdktBU2s3S0VHWUlCNElNMGNjYmFPYXN5c1o2SV9hc1RQVXJRMXNTc1kzWnR4Wm9OWTVnMXlWOEJXb2NiQ0RwWFdNcDM0WWZHTGI2QkhIV2NSckdzWFQ5VklzVXVLdXE2RjBoUXQ2SUExTzBSaDF5Qjk3a0NQcHpyWEFLNFJjbm8xNFR1d3oyUGxvd2pHZURRZjNvVTB0QmJVNWVFTA?oc=5
+- India’s Spacetech Gold Rush Is Here, But What’s Making Investors Jittery?
+  The Indian spacetech ecosystem is entering its most critical phase yet. After years of experimentation and ambition, spacettech startups must start commercialising.
+  🔗 https://inc42.com/features/indias-spacetech-gold-rush-is-here-but-whats-making-investors-jumpy/
+
+- The UPI Shake-Up Begins
+  A customer scans a QR code at a neighbourhood shop, enters a passcode and the payment is done. Similarly, a&#8230; a&
+  🔗 https://inc42.com/features/the-upi-shake-up-begins/
+
+- How CubeAPM Plans To Take On Datadog And New Relic In The AI Observability Race
+  When Vineet Chirania was scaling his train-ticket booking startup, Trainman, a decade ago, he encountered a problem that would eventually cost him his company.
+  🔗 https://inc42.com/startups/how-cubeapm-plans-to-take-on-datadog-and-new-relic-with-its-80-cheaper-ai-observability-stack/
 
 - Innov8’s FY26 Profit Zooms Multifold To ₹13.7 Cr, Revenue Crosses ₹200 Cr Mark
   Premium flexible workspace operator Innov8 Workspaces sharply improved its profitability in the fiscal year FY26. Innov8 is rapidly expanding the network.
@@ -168,57 +120,45 @@
   For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to a billion dollar company.
   🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
 
-- New-Age Tech Stocks: Kissht & MobiKwik Rally, Zappfresh Hits Record Low This Week
-  New-Age Tech Stocks: Kissht &amp; MobiKwik Rally, Zappfresh Hits Record Low This Week.
-  🔗 https://inc42.com/buzz/new-age-tech-stocks-kissht-mobikwik-rally-zappfresh-hits-record-low-this-week/
+- China goes shopping in India as exports jump 39% and BRICS trade picks up - The Economic Times
+  China goes shopping in India as exports jump 39% and BRICS trade
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWxzWDlEa3NrLUJBWk96aFhCTTdDallPY3d0ZkVIMXhCejhZT0ZCZ2ZCLUdkZWlFRGxoN2xvRU9YRG1FOWJjTjNfQ3lfTTZpM2N0b0JXMnpKYVFXemFPU2lHMG44VWVvbGxsYUI4Ty1VNXVWZWhpWWxiUFlTVmp1OXNTd3RuaENMU1hTUmZjMU01N1hHTmpzVDN5Mkh3eTVTOWxnbUYyMU9abHYyb3Z4YkFPUVd1bGxCRG9BNmtuNmt4Q2c0NVo4ck5nVk9fOXdqdDUzd2RQRTljNS02Y1EwUUwtTWRoR2Yx0gHuAUFVX3lxTE9uWjREellGOEFzWWFrZ0pyUVkxbUxCWk1xNVZvLWhmSzNoYWl2eUd0ai1INllfYjFMTV9oRWtwSVNQNXRQQjc5LUlaMHVXTThzOWtzcWx4V0Q3dElTZVpYZTZqTmRsMFk5VUw0YkZJNFRJbmZIeVNJVUVBeWFpaW9TYmlRem55emF6YVN0anJwUkRNTWtVRUQ1RHpLQnJJRW9WV2N3ellvMkliV3JLQjVINlY2akhJVGlXSS1wVjF1ZjR3N2tmWDRQci10OUI3NGM5c3gyTUtiYS12eTd5cFBONi1BMUNZSVRMNXkwYWc?oc=5
 
-- FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
-  The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
-  🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
+- India's exports to core BRICS markets surge 34% in April-August; China leads - The Hindu
+  India's exports to core BRICS markets surge 34%
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUV9vWGFpS3dQN3l0WnFxdzNZRE1aM0VGRjk3a0w3dzZjQzkwUlBDMUI5VkxzUjhOWWhuVDlPQ1lFSVdNSEhjWFp5NjdEUEdLWGF4b25HN1Z2cldCa1c2cXFialdWX21RcHN3YU45MDlFTjlWUjhRSFJyTUxsc011VmstZHJkR3FKRllYN3pfdVluNmZ0SVgxTEZWLXBOcDM0Qmg1amlFY1Z1WENCMzRWWGROMWtaMGkzRXpVWFljR29UblZtUkJtMjJiQnTSAdMBQVVfeXFMUEtKNVdzQ0VnVnhnNkR4bEhoZ2M2X0lYVEFlcDdhUC1FSklfT1pFZVRyNnEzdjVmdlpWZWdBTTllbWxUTnJmbjNScnhTal9tdHdPaU1TMU1CTEppOW5HRU1pb1hZaTNYUWM4aFA4UWstZEhqSFVqMVpyRUF3YXRqREx2dThBbUNLeGlEMFN0VXczbVN6Y1RCak1QYVFjaW1HOXRQMFRldHZ0MTU1VjV2Y2cydVdrZTdNc3J2Q1A4SVlwMUxvWDZqdG5uOWhsSjV6ZlJwZw?oc=5
 
-- From Flam To VerifAIX — Indian Startups Raised About $59 Mn This Week
-  While the introduction of MDR on UPI dominated India’s new-age tech discourse this week, startup funding fell sharply.
-  🔗 https://inc42.com/buzz/from-flam-to-verifaix-indian-startups-raised-about-59-mn-this-week/
+- India’s exports to China surge 39% in April-August 2026-27, core BRICS shipments up 34% - Moneycontrol.com
+  India’s exports to China surge 39% in April
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb19kMWJSVU00N0VNMENoM0N6VE1pVGg2TnkxSUg1SHdIOUdBRk9pak12MmY0WUczQlM0dzRNSmEtWVRMMzcwaS15WWpFWXJSS0YxRkhXSG9OOXk0ZndLamtTWWFGaHEtbGlybV9WMFRlcVgtMGhHTEtyb3ZXT01OSGM4eXg5Q1dHV1JWTHllbmtDMEdpczVZS1ZtM3JWTGJ4UEY4clVqNlhTTXpzQ0lSdzM3VVRzRE43cks5TDdfOWpaeDBvYjNxekExbzVSV0trRlF5SdIB2gFBVV95cUxNY3RqUWZ0OGNHeGtTZkdNNnBNSFQ4M0dJQTNuaExUVUJlRUI3WnRZYllzSDNMajNZZ1NWSWZSSWZJLUkzTlU0NUhqQWJBZXZUWWh6SERvQmJzcmFSVXhscENrT2tFWUFfXzctbFZ0bGVHZ2dmVUdwajJsN3h1NU0xVU9MZ3o3WXFpdnpVdkcweWEwdkdmWWN0LV9rcXYwN1I0dTZLbkdLV0RKdERSak5JNV9vWUZlbW5oZVZQM2RJcmQ3czNiaTRIb09QWDBrX1ZXNUJkZk1zYnl1UQ?oc=5
 
-- US bought nearly $120 billion of India’s software services in FY26, share rose to 54.1% - Moneycontrol.com
-  US bought nearly $120 billion of India’s software services
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWE1Rbk1zeUJBdEdqNFpaSlRsVU5ST3B3ODlsaUhmWXRHaURhTVFtWXNzWEJ1ZHcxV3J4VWFqZUQwSkxVZXFYaE1JNWY5eXN0OHhvakhESTV5WEJjdWJ1SmR0Rm9PSU0tcHB3NVhUbm9qRDlvWW5nV1pncThKYkZnLV9Xd2JfRENvZTJ1WGFZODBEUDZ1dHdUel81eklJaWl3dVV1a3BPWDJNYnM0Q2hTM1ZIbFBmOVlnUzdHOEdWRXFteVlJS1g4UllFeWZwV2MtZ0xuRnZtaTPSAd4BQVVfeXFMTlFaUzBCdTd1REc3c2JlVkFhcThKc3J2em1DNUNLWmg4Vml3NnhTazBEQXVOOFVDN2JjVGE0YTA4RkdHX1RsQlNWX25taHVDNW9pTC1UcjQ1TGZITW15YXNXWXJDckRxdFItZjlfdEdlMTR5NXJXZm9oZklXM2NDYndLQlNyV3g5WF9wOWZBMDEwRzJmYW9wSXV6ZjU5dnpvTXY1M2lHTXVkYU5KNWstcF9BQjNhanNaNzhwZS0xY0VDbmJzV1d2SFNoaERSbTA0Y0xFbXBwLU1EVXFZSEVn?oc=5
-
-- Asian Games 2026 Live Updates: India eye medals in teqball, shooting; hockey, cricket campaigns begin - The Times of India
-  Asian Games 2026 Live Updates: India eye medals in teqball, shooting
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTlEtQWxFTGl4b0FtVF9pd0t2OWZJUnlQNnA0Ym5OeEVuREpkTjhkV29rZVNodmJPa19mQ3I0dVY1el8wMEl1YVhSNC1nVDYyNXFZTVdqNVBYeTlmLWpvYjJGVWE5d0kzMlVIVG5Uc1pqU3V1dnVtZGJvQWdBYURIcjVDVVoteVF0cHRSMks0cXU2dlRNNXlmZk9nTk1FMUFEeFdVUEgwZ2pVN2dKWTZJd0lpei1BaDVvczlOeHliOUtIbEU3SUZSaDhHQ2hFT1lXaUV0ZmR2alhTN1RSVEJGbGhXRnhFdGdLTzFBQzdnaXlUNlFELVQyTm930gH_AUFVX3lxTE03Q3V3LVRxaWJGdWZKbmtSbUZjNUhwbkRvM0hEbnRIaGJpQ18wRS1iLV9lWEhzeE40ZlJSS0ZqWTc5N0d6X3M0elRoRkgxR0ZCMF9qd0hsZ2FfTS1IQzJMN2R1Tm5KZ2hjODk5N3g4S0NacUFac1I4Ynd4U2tINnYtalhBSkdiWUN4SHFDQVphVURiMVIxR0otb2otQkJwZ2RQeTRaNGRYRjk1cC1qSVRoXzZEOVBMV05FM05IdHhDSEY3TWd4SDFfQUlzYkF4cHRHUmNnNFp5dzdENnZPaFBLUTZXZXJZNlRVTEo1QktZUG1ySThORWkwbnlsMHJJcw?oc=5
-
-- Asian Games Live, September 20: India hockey, cricket teams in action today — Catch latest scores and news - Sportstar
-  Asian Games Live, September 20: India hockey, cricket teams in action today.
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXdFZ2N3N3lsSXFmUEJPRHN2V1l0SGpWSHhsMnNTOTBqVUFPRzRtaWM1aVo5aHJDTEItQkpKNkQ4Y3ZVR1VqZENYV3laanE4cnAwcHFzRER3WTd4SWhRd0JiRkdNZVk5ZmxQNmFmdy1JbE9CUDFPNlg3a21YblpfbzlMSkUyaDhPMkJVMHhzbGYxaDF3M0o5Zk9XU09CWkhXQWJiUmRoVjQ5eEJwLVZVYURpVFoyR2dXUXBCMVZWcnRNWGpEYm45NndUUDRVUQ?oc=5
+- India-Japan defence ties take flight as air chiefs fly Tejas together during Veer Guardian 2026 - The Times of India
+  India-Japan defence ties take flight as air chiefs fly Tejas together during Ve
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa1JKYll5SklSMFRTREViTURneGlFa2NFOEpVR1FXREZzb0JGTFM3N2hoeVU5Z0Z5dURHa0lyQ1J1c0paT1ZqcV9BYVU5OTlHc2ZScjNKZm5tbFNaci1CanlIdXNnakVSUk1DdEhXanh2U2NDNWQ4V01MZWUtQzJyaXhIV3NEVjk0SXBiZENEdEFmWmRicDBkUEpLVXZhcnlvRWR4TTRlNUUwTkJaZ1hWYlBrSzdfRG53SHJxaFcxZFZuNW51WWV6V2k3UjdXdEJPdm9pLXdXTFZxY0JjZUwtekVEUEN0U3puZnZPb3JmNzNYSTZ6ejVaWjRqZThjaTDSAYQCQVVfeXFMTnJISHZreUlKcnFwX1ZqblFZdzFJQUtoV1MxV2dBUzFvLUw3Zmk1a0Qwb2llb2tUaWFGdlpKMTBKYlVDY2MwcVlBSlM0QklxNXNoTU1xMWtjdks2Smx4Tzg5VDZlaUR0RFhvSC1FVjMyb2RqMHVOYjY5Rk15cDBJejg3bW5kdlFIWUlFa29qcTBBb1pKOGRXbEZIT3ZCZXVBMDNKZW1FQVRBZVZlMlRuT0piakF6X0lBNlVJbTQ1cjBPeHhDMkVYRF9qaUI1VmhUS1F5anVNaWZhbExRT3hLUGx6Nk9mQUlFdVMyejByNko4STdJQmMtY2lrWExnV1h2QTh0TXk?oc=5
 
 - Asian Games 2026 live, September 20: Know India scores, updates and results from Day 1 - olympics.com
   Asian Games 2026 live, September 20: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
 
-- India remains the fastest draw in flood relief to Nepal: 141.5 tonnes of aid rushed after flash floods | India News - Hindustan Times
-  India remains the fastest draw in flood relief to Nepal. 141.5 tonnes of aid rushed after flash
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzhnS2plSjFvZE1QdnhGSk9wajZXLTVQdXh0TUVYQUMwQlNPVmpGNWx2RkExa1pzdWc5NXpMYVlNUmR0TF9SRVNUNkprT2xrWXlLNENpSXhlN2dxUlJiSS1pNUJaTXBET191dmdBNUd6OW5scXZCTFpaVWtCcTdNbUtpLVZqZC11c3J4b0p4SmlSUXlUUnJMaTBQeUxnU0ZPMXdGaFdvQ0szUnROMEZYdndaUm44SGhkMmlvRU9IVEhXX0hJNjBRWllfQ1VsQUtDZFpIY28zSTI3RTJkZHVBbHlsU3lNRmdhTjNFQXlPc0IzVlM2UHE00gH8AUFVX3lxTFA5cnRaanpjcXRFSkdFTVV5LXFQYUFlQV9UZENZYUVnOUF2RDdoc0NCOGNpSjI3MGs0MVdGYUdLM3FaM2doMHo4aFN0Nldab3J1OXI0QjVhdzBxWGVLTjhMdktBU2s3S0VHWUlCNElNMGNjYmFPYXN5c1o2SV9hc1RQVXJRMXNTc1kzWnR4Wm9OWTVnMXlWOEJXb2NiQ0RwWFdNcDM0WWZHTGI2QkhIV2NSckdzWFQ5VklzVXVLdXE2RjBoUXQ2SUExTzBSaDF5Qjk3a0NQcHpyWEFLNFJjbm8xNFR1d3oyUGxvd2pHZURRZjNvVTB0QmJVNWVFTA?oc=5
+- China goes shopping in India as exports jump 39% and BRICS trade picks up - The Economic Times
+  China goes shopping in India as exports jump 39% and BRICS trade
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWxzWDlEa3NrLUJBWk96aFhCTTdDallPY3d0ZkVIMXhCejhZT0ZCZ2ZCLUdkZWlFRGxoN2xvRU9YRG1FOWJjTjNfQ3lfTTZpM2N0b0JXMnpKYVFXemFPU2lHMG44VWVvbGxsYUI4Ty1VNXVWZWhpWWxiUFlTVmp1OXNTd3RuaENMU1hTUmZjMU01N1hHTmpzVDN5Mkh3eTVTOWxnbUYyMU9abHYyb3Z4YkFPUVd1bGxCRG9BNmtuNmt4Q2c0NVo4ck5nVk9fOXdqdDUzd2RQRTljNS02Y1EwUUwtTWRoR2Yx0gHuAUFVX3lxTE9uWjREellGOEFzWWFrZ0pyUVkxbUxCWk1xNVZvLWhmSzNoYWl2eUd0ai1INllfYjFMTV9oRWtwSVNQNXRQQjc5LUlaMHVXTThzOWtzcWx4V0Q3dElTZVpYZTZqTmRsMFk5VUw0YkZJNFRJbmZIeVNJVUVBeWFpaW9TYmlRem55emF6YVN0anJwUkRNTWtVRUQ1RHpLQnJJRW9WV2N3ellvMkliV3JLQjVINlY2akhJVGlXSS1wVjF1ZjR3N2tmWDRQci10OUI3NGM5c3gyTUtiYS12eTd5cFBONi1BMUNZSVRMNXkwYWc?oc=5
 
-- US bought nearly $120 billion of India’s software services in FY26, share rose to 54.1% - Moneycontrol.com
-  US bought nearly $120 billion of India’s software services
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWE1Rbk1zeUJBdEdqNFpaSlRsVU5ST3B3ODlsaUhmWXRHaURhTVFtWXNzWEJ1ZHcxV3J4VWFqZUQwSkxVZXFYaE1JNWY5eXN0OHhvakhESTV5WEJjdWJ1SmR0Rm9PSU0tcHB3NVhUbm9qRDlvWW5nV1pncThKYkZnLV9Xd2JfRENvZTJ1WGFZODBEUDZ1dHdUel81eklJaWl3dVV1a3BPWDJNYnM0Q2hTM1ZIbFBmOVlnUzdHOEdWRXFteVlJS1g4UllFeWZwV2MtZ0xuRnZtaTPSAd4BQVVfeXFMTlFaUzBCdTd1REc3c2JlVkFhcThKc3J2em1DNUNLWmg4Vml3NnhTazBEQXVOOFVDN2JjVGE0YTA4RkdHX1RsQlNWX25taHVDNW9pTC1UcjQ1TGZITW15YXNXWXJDckRxdFItZjlfdEdlMTR5NXJXZm9oZklXM2NDYndLQlNyV3g5WF9wOWZBMDEwRzJmYW9wSXV6ZjU5dnpvTXY1M2lHTXVkYU5KNWstcF9BQjNhanNaNzhwZS0xY0VDbmJzV1d2SFNoaERSbTA0Y0xFbXBwLU1EVXFZSEVn?oc=5
+- India's exports to core BRICS markets surge 34% in April-August; China leads - The Hindu
+  India's exports to core BRICS markets surge 34%
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUV9vWGFpS3dQN3l0WnFxdzNZRE1aM0VGRjk3a0w3dzZjQzkwUlBDMUI5VkxzUjhOWWhuVDlPQ1lFSVdNSEhjWFp5NjdEUEdLWGF4b25HN1Z2cldCa1c2cXFialdWX21RcHN3YU45MDlFTjlWUjhRSFJyTUxsc011VmstZHJkR3FKRllYN3pfdVluNmZ0SVgxTEZWLXBOcDM0Qmg1amlFY1Z1WENCMzRWWGROMWtaMGkzRXpVWFljR29UblZtUkJtMjJiQnTSAdMBQVVfeXFMUEtKNVdzQ0VnVnhnNkR4bEhoZ2M2X0lYVEFlcDdhUC1FSklfT1pFZVRyNnEzdjVmdlpWZWdBTTllbWxUTnJmbjNScnhTal9tdHdPaU1TMU1CTEppOW5HRU1pb1hZaTNYUWM4aFA4UWstZEhqSFVqMVpyRUF3YXRqREx2dThBbUNLeGlEMFN0VXczbVN6Y1RCak1QYVFjaW1HOXRQMFRldHZ0MTU1VjV2Y2cydVdrZTdNc3J2Q1A4SVlwMUxvWDZqdG5uOWhsSjV6ZlJwZw?oc=5
 
-- Asian Games 2026 Live Updates: India eye medals in teqball, shooting; hockey, cricket campaigns begin - The Times of India
-  Asian Games 2026 Live Updates: India eye medals in teqball, shooting
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTlEtQWxFTGl4b0FtVF9pd0t2OWZJUnlQNnA0Ym5OeEVuREpkTjhkV29rZVNodmJPa19mQ3I0dVY1el8wMEl1YVhSNC1nVDYyNXFZTVdqNVBYeTlmLWpvYjJGVWE5d0kzMlVIVG5Uc1pqU3V1dnVtZGJvQWdBYURIcjVDVVoteVF0cHRSMks0cXU2dlRNNXlmZk9nTk1FMUFEeFdVUEgwZ2pVN2dKWTZJd0lpei1BaDVvczlOeHliOUtIbEU3SUZSaDhHQ2hFT1lXaUV0ZmR2alhTN1RSVEJGbGhXRnhFdGdLTzFBQzdnaXlUNlFELVQyTm930gH_AUFVX3lxTE03Q3V3LVRxaWJGdWZKbmtSbUZjNUhwbkRvM0hEbnRIaGJpQ18wRS1iLV9lWEhzeE40ZlJSS0ZqWTc5N0d6X3M0elRoRkgxR0ZCMF9qd0hsZ2FfTS1IQzJMN2R1Tm5KZ2hjODk5N3g4S0NacUFac1I4Ynd4U2tINnYtalhBSkdiWUN4SHFDQVphVURiMVIxR0otb2otQkJwZ2RQeTRaNGRYRjk1cC1qSVRoXzZEOVBMV05FM05IdHhDSEY3TWd4SDFfQUlzYkF4cHRHUmNnNFp5dzdENnZPaFBLUTZXZXJZNlRVTEo1QktZUG1ySThORWkwbnlsMHJJcw?oc=5
+- India’s exports to China surge 39% in April-August 2026-27, core BRICS shipments up 34% - Moneycontrol.com
+  India’s exports to China surge 39% in April
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb19kMWJSVU00N0VNMENoM0N6VE1pVGg2TnkxSUg1SHdIOUdBRk9pak12MmY0WUczQlM0dzRNSmEtWVRMMzcwaS15WWpFWXJSS0YxRkhXSG9OOXk0ZndLamtTWWFGaHEtbGlybV9WMFRlcVgtMGhHTEtyb3ZXT01OSGM4eXg5Q1dHV1JWTHllbmtDMEdpczVZS1ZtM3JWTGJ4UEY4clVqNlhTTXpzQ0lSdzM3VVRzRE43cks5TDdfOWpaeDBvYjNxekExbzVSV0trRlF5SdIB2gFBVV95cUxNY3RqUWZ0OGNHeGtTZkdNNnBNSFQ4M0dJQTNuaExUVUJlRUI3WnRZYllzSDNMajNZZ1NWSWZSSWZJLUkzTlU0NUhqQWJBZXZUWWh6SERvQmJzcmFSVXhscENrT2tFWUFfXzctbFZ0bGVHZ2dmVUdwajJsN3h1NU0xVU9MZ3o3WXFpdnpVdkcweWEwdkdmWWN0LV9rcXYwN1I0dTZLbkdLV0RKdERSak5JNV9vWUZlbW5oZVZQM2RJcmQ3czNiaTRIb09QWDBrX1ZXNUJkZk1zYnl1UQ?oc=5
 
-- Asian Games Live, September 20: India hockey, cricket teams in action today — Catch latest scores and news - Sportstar
-  Asian Games Live, September 20: India hockey, cricket teams in action today.
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXdFZ2N3N3lsSXFmUEJPRHN2V1l0SGpWSHhsMnNTOTBqVUFPRzRtaWM1aVo5aHJDTEItQkpKNkQ4Y3ZVR1VqZENYV3laanE4cnAwcHFzRER3WTd4SWhRd0JiRkdNZVk5ZmxQNmFmdy1JbE9CUDFPNlg3a21YblpfbzlMSkUyaDhPMkJVMHhzbGYxaDF3M0o5Zk9XU09CWkhXQWJiUmRoVjQ5eEJwLVZVYURpVFoyR2dXUXBCMVZWcnRNWGpEYm45NndUUDRVUQ?oc=5
+- India-Japan defence ties take flight as air chiefs fly Tejas together during Veer Guardian 2026 - The Times of India
+  India-Japan defence ties take flight as air chiefs fly Tejas together during Ve
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa1JKYll5SklSMFRTREViTURneGlFa2NFOEpVR1FXREZzb0JGTFM3N2hoeVU5Z0Z5dURHa0lyQ1J1c0paT1ZqcV9BYVU5OTlHc2ZScjNKZm5tbFNaci1CanlIdXNnakVSUk1DdEhXanh2U2NDNWQ4V01MZWUtQzJyaXhIV3NEVjk0SXBiZENEdEFmWmRicDBkUEpLVXZhcnlvRWR4TTRlNUUwTkJaZ1hWYlBrSzdfRG53SHJxaFcxZFZuNW51WWV6V2k3UjdXdEJPdm9pLXdXTFZxY0JjZUwtekVEUEN0U3puZnZPb3JmNzNYSTZ6ejVaWjRqZThjaTDSAYQCQVVfeXFMTnJISHZreUlKcnFwX1ZqblFZdzFJQUtoV1MxV2dBUzFvLUw3Zmk1a0Qwb2llb2tUaWFGdlpKMTBKYlVDY2MwcVlBSlM0QklxNXNoTU1xMWtjdks2Smx4Tzg5VDZlaUR0RFhvSC1FVjMyb2RqMHVOYjY5Rk15cDBJejg3bW5kdlFIWUlFa29qcTBBb1pKOGRXbEZIT3ZCZXVBMDNKZW1FQVRBZVZlMlRuT0piakF6X0lBNlVJbTQ1cjBPeHhDMkVYRF9qaUI1VmhUS1F5anVNaWZhbExRT3hLUGx6Nk9mQUlFdVMyejByNko4STdJQmMtY2lrWExnV1h2QTh0TXk?oc=5
 
 - Asian Games 2026 live, September 20: Know India scores, updates and results from Day 1 - olympics.com
   Asian Games 2026 live, September 20: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
-
-- India remains the fastest draw in flood relief to Nepal: 141.5 tonnes of aid rushed after flash floods | India News - Hindustan Times
-  India remains the fastest draw in flood relief to Nepal. 141.5 tonnes of aid rushed after flash
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzhnS2plSjFvZE1QdnhGSk9wajZXLTVQdXh0TUVYQUMwQlNPVmpGNWx2RkExa1pzdWc5NXpMYVlNUmR0TF9SRVNUNkprT2xrWXlLNENpSXhlN2dxUlJiSS1pNUJaTXBET191dmdBNUd6OW5scXZCTFpaVWtCcTdNbUtpLVZqZC11c3J4b0p4SmlSUXlUUnJMaTBQeUxnU0ZPMXdGaFdvQ0szUnROMEZYdndaUm44SGhkMmlvRU9IVEhXX0hJNjBRWllfQ1VsQUtDZFpIY28zSTI3RTJkZHVBbHlsU3lNRmdhTjNFQXlPc0IzVlM2UHE00gH8AUFVX3lxTFA5cnRaanpjcXRFSkdFTVV5LXFQYUFlQV9UZENZYUVnOUF2RDdoc0NCOGNpSjI3MGs0MVdGYUdLM3FaM2doMHo4aFN0Nldab3J1OXI0QjVhdzBxWGVLTjhMdktBU2s3S0VHWUlCNElNMGNjYmFPYXN5c1o2SV9hc1RQVXJRMXNTc1kzWnR4Wm9OWTVnMXlWOEJXb2NiQ0RwWFdNcDM0WWZHTGI2QkhIV2NSckdzWFQ5VklzVXVLdXE2RjBoUXQ2SUExTzBSaDF5Qjk3a0NQcHpyWEFLNFJjbm8xNFR1d3oyUGxvd2pHZURRZjNvVTB0QmJVNWVFTA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-20 02:59:25 UTC_
+_Last updated: 2026-09-20 10:31:38 UTC_
