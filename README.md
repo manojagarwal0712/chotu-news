@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘Stop Vizag Data Centers’ Instagram account blocked in India - The Hindu
-  ‘Stop Vizag Data Centers�
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlUxd3ZUVWt4TktBc3RiT09NQUY0QU1VaFFaejI2SVlBLXE1elA3ZURJYXBPbDJlV0lIc2RaRlRld0M1RWRkTGp6LWN0b3JxSGNRcFFMWjdNcnRSMDgxYnVZTHZGVUxnVlZQNGlSM1ZXUnZkTlFjQmJTYkRxMzRuNXdGWVVKTk1LVTJzb29qVnhybEFoZnhYOEpMUmpZN0N3ZGxGZzB0VnZ1VmdnYko4MXlYSTBHQ2g1UmZMcnlpM3g5MFY2RHU3dmFaa3bSAdMBQVVfeXFMTnZzMUVZU3p5T0x3SnBHRllaY293VHpsNkZMZU1ydTBWNWgwaDVxbjNqWEtGOU1yZUtTaGN3WXlsTEFWQkM0d3ktVndsQkZ0ckdWeEF4dkZncGtYVXg4bDJTdTNMYXVSdWpFa2VIQXNLaEpobHEzNWxIQUhNdEdBS0FzVFNhTjRnYWZTM2J4Q0FheWtHQlJhbGNncWlZeGVwNTV5V18xRWxqSkJlMU5TMTR2UFFXRi1DMG50TnRCUDFJTXN0RHdCcnBveHJmYVNLOUF4bw?oc=5
-
-- Mum's viral barefoot race sparks debate over India's education crisis - bbc.com
-  Mum's viral barefoot race sparks
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE43T1ViTmMtMERZNnFFYTRwTmltSm1VTmdGT212REx0ZDRNajQtRGxWa0tHbGNMODBiRm4zbTRHb2hBTWI5R2ozTUZzeURwOVZCUnJIQW1IbnJnbnM?oc=5
-
-- CCTV Footage Shows Moment Telangana Neurosurgeon's Car Hit Divider, Burst Into Flames - NDTV
-  CCTV Footage Shows Moment Telangana Neuro
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRvQlR1LS15UWVwOGZTSjVqWU1kLVRxTEd3RXlkbklzQy1fRWc3R0U4b3BmcC1TRXhQVmRvbFd2TEZoTlZ5SFg1cWpkT3NUM0dsQWhSbUZpM2drckp1RW1OdTlOQTZTNEptUFNlTWdZTHdPTl9rekZNRGZrWHl4d2hHengtMEZnY2xtXzczMHFrUTV3MlB4VUgzQ3hRWjNBeXpYb0VqNE5INmV6RWY3bUxZOUM0cnpSU29wU0N0VHBuUdIBygFBVV95cUxOckNVTmxIZklTeFhBOVNueWlfUWU1cXQyNE1LenJVV0FmSi1wblZHaUFmYVBWSHNRbEFPUjdsMUNmWmxuZ2M5ZDlSek5IOHFGcHNaNmZCX0c4ZHpvTTZHR3lqTE5zZFVWQkg1aUxpVzducWhxN29lalVkNjRGMjg2cmZRcUVvbVFsVklhNDF6dUZ6MFB3RVlnWDFxZ1RqRFpyZHRHTEx6T3JYWEo4T1ROSmFtWGtKRU1kRTJicFh3R1BFSHB2bnc1d2xR?oc=5
+- Asian Games 2026 Day 2 Live: India bag first medal of the day as men’s 10m air rifle team clinches silver - The Times of India
+  Indian men's 10m air rifle team win silver at Asian Games 2026.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVlVlenJXU3dTT08yc3I0Um1ob0xhclppLUFCazU4b2l4Ty1YNVZxVlNlUTBHc3lFOWtBQUdmbWFBd2lHaDF0QWxONXdmRmtTQXFzOWtkS20yMXhXbDFVZ3NkajlvZElfSzJRQWg1R2hYQjdxc3JZYUVIZGlkWFBzbUp5bkt4cUJHTzJ2cDFzV0dNcURUbzI2QThrVHdvVTdQaHlFZndkWUE0MERKNThiaWRBV1Vnajd4UTR6X0o0QnlkOVdoQ1pnV1BMUmVwZm02WnJiNE43TkZPbFpURkRtY3BhOGowMGZWN2tqT0pJUF9admh1YjZiczhB0gH_AUFVX3lxTE1uY1JvVzY5QTkxZnRVbkpJU3J1Skc1d3h0Nmp1ZTVZMnN4TlZFc193NmRITW0wWHgzOFJTazJfQUtMeF96RWVCQ1F1SzVuWmRyQjB0OVY0ajZoZnZfem5Hc3hmLUxQaHl6Zm1vbHFPMk1mOVlYbjAyZFBUQU1SODBtODhNWWsxZldHMVNQa1dXZjF0T0VhRjhuLVJzMVFzOGx5c05sdWNPdFpyX2VXRGwtMTJaQ1k3ZDR4Qi1iTzlvZk1RbFdaUXQ5MnJzM0FiaXp1aHhaVjZRd3ZUay1mRGE5S3JINi0wWGVRUlEzREhvTjdmRDZkZUN1dWRkeE1rUQ?oc=5
 
 - India at Asian Games 2026, Day 1: Elavenil Valarivan on target, women’s team enters cricket final - as it happened - olympics.com
   India's women's team enter cricket final - as it happened at Asian Games 2026.
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
 
-- Asian Games Highlights, September 20: India wins two silver in shooting; India reaches women's cricket final; Iran thrashes India in table tennis — Scores and news - Sportstar
-  India won two silver medals in shooting. India reached women's cricket final. Iran thrashed India in table tennis.
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXdFZ2N3N3lsSXFmUEJPRHN2V1l0SGpWSHhsMnNTOTBqVUFPRzRtaWM1aVo5aHJDTEItQkpKNkQ4Y3ZVR1VqZENYV3laanE4cnAwcHFzRER3WTd4SWhRd0JiRkdNZVk5ZmxQNmFmdy1JbE9CUDFPNlg3a21YblpfbzlMSkUyaDhPMkJVMHhzbGYxaDF3M0o5Zk9XU09CWkhXQWJiUmRoVjQ5eEJwLVZVYURpVFoyR2dXUXBCMVZWcnRNWGpEYm45NndUUDRVUdIB1AFBVV95cUxOTDQ0Z0ZUbXNsc0RkMUlaNmt3U3ktUjAwMi1TMW1ib3RYMWQ4V2pUMnB0dVVzeEhWWnJMb3lRbUkxWXVRczB0TWJxTHVXQkhwOU1tMDlDdzR5U3dPVmUtMWdsWFc4OWRVTHlNSklmcnEyaTdTMFRZOFpVN2JjRWFWYVpGMGdZWTZIbTdFTGZtd05EOW9tdG1MRG9KNWwycGZFRE9ZeGtndzhsemxrNks0QmpnYkJVWEQ4WEI5a21fbk8zZm9fNG9YVlZQaFRuME01WFlpZA?oc=5
+- Asian Games 2026: Indian women's table tennis team blanks Pakistan, reaches quarters - The Economic Times
+  Indian women's table tennis team blanks Pakistan, reaches quarters
+  🔗 https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVkk4NnJQY1d1ZWEzM01XOEJ6UmJQeWdpUW1TdWJVR1FxRV92WkRqQUpnX1VGakZydWs0bWdueDJLRUU3Mjh6ZVB2cS1rZUJwZHNKbnNQVERUdlFLU29qY3JsM0VVcXUzOEYxV0VSaWU2RWt5WGhnTkZ1QVJvUFBueEN5TDZEUG1BZGRxVF9LRXlJb0djNmNzTlRxWXVxVG1sS3lzMVFEVWtNM20yV2FkMU1FTHIzd3pkc1JES0F6SWZuU3lIUU9rUTVwX1RsNUpaRVVVVzlCQk1mRV9PUnRlYWx4Ry1oS2Z3UEkwNjZsTFdWZXJGSC1XNmZvTDlGcU5LX2RCanZOQ2ZIMUM5aTQ0ME94QUtpVnFQNU05SHFCQTlUX01iY3VMaENCeWF2UTZZWUJITVpOMWVWMzhPYmd1d0dIYms3MWNZVXdTV0tPNk9OdF8wUDlqQ0p3NNIB9wFBVV95cUxOWnNpdGdsbnRVNHFRTjhOam9JMjliQXJQZWJRQjFRb3BWZ2VMMndrNVRYa3hweXpoMVJIY1pJdGJXeE5oSzdEWmFXbkwweDRQVk9jTEVrQy1wUTVBU2RTVkJtcFFOcTdhTk91dWU0eUd0eWc3b1ZCa0MtcjBqT2wzWXZQMlQ0SWltYlc2TUgyMVVtcTJJS0RfMUR2UnZsajc5Y0xncDV1TUxvb2xGbEVET1V6Nlg3akpld1NxSHQzNEltLTBVYXJvUVE1UW1yTWlrc0dkVWdKd3BqYW1uMUI2NTV5eFBCM3g1Z1I4cW02UWZSdDFxbXlR?oc=5
+
+- Why a new Pakistan-China border pact has irked India - bbc.com
+  Why a new Pakistan-China border
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDaE9lR01JYURhcnBDS3ZTdzl0QklYR2Q0bXplZlk1V0Zma19tTVZGWXJtQ0pkVmI0VlhXbnNWNy1fMnVkcGh1a3M2eUpGWjdKTENMRW10RlhmZ0U?oc=5
+
+- CCTV Footage Shows Moment Telangana Neurosurgeon's Car Hit Divider, Burst Into Flames - NDTV
+  CCTV Footage Shows Moment Telangana Neuro
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRvQlR1LS15UWVwOGZTSjVqWU1kLVRxTEd3RXlkbklzQy1fRWc3R0U4b3BmcC1TRXhQVmRvbFd2TEZoTlZ5SFg1cWpkT3NUM0dsQWhSbUZpM2drckp1RW1OdTlOQTZTNEptUFNlTWdZTHdPTl9rekZNRGZrWHl4d2hHengtMEZnY2xtXzczMHFrUTV3MlB4VUgzQ3hRWjNBeXpYb0VqNE5INmV6RWY3bUxZOUM0cnpSU29wU0N0VHBuUdIBygFBVV95cUxOckNVTmxIZklTeFhBOVNueWlfUWU1cXQyNE1LenJVV0FmSi1wblZHaUFmYVBWSHNRbEFPUjdsMUNmWmxuZ2M5ZDlSek5IOHFGcHNaNmZCX0c4ZHpvTTZHR3lqTE5zZFVWQkg1aUxpVzducWhxN29lalVkNjRGMjg2cmZRcUVvbVFsVklhNDF6dUZ6MFB3RVlnWDFxZ1RqRFpyZHRHTEx6T3JYWEo4T1ROSmFtWGtKRU1kRTJicFh3R1BFSHB2bnc1d2xR?oc=5
 
 - Why the global panic over AI is not a crisis over technology - The Times of India
   Why the global panic over AI is not a crisis over technology.
@@ -32,53 +32,53 @@
   Gemini
   🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTFBrSVZ2WVo2cG5oQkRnZHc3bGZ0c3gydkFyQllmNkcxbUJkMk1YSzJ0TElncm5VQ24xZGJqYVA5T0h2XzhUV0tuSWp2dHhVcUtzWUJSRzVIV3FEQlRWUmV3dWdjQjFXTGRMRjdta3oyRW5kRWs?oc=5
 
-- Trump says US will form 'AI Force' and appoint an artificial intelligence tsar - bbc.com
-  Trump says US will form 'AI Force' and appoint
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EY3VnMXl3UWxCSEdXd19kVUx1UDAzdS0xY2RrdFh6NWRINDRXb29xNjdPLW5CMDRQbE9TdHMtMXY4MC1yb01kcHpwSlNLQVI0TndKaVM1Q2xFWmM?oc=5
-
 - India has the technology to end extreme hunger now. It’s a question of public will - ThePrint
   India has the technology to end extreme hunger now. It’
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxObWVJc2R3VmM5NGRtcGdOQzV1Rkt4dWZqRHhPNDVqU0FJMVl4cFJUNUpobW1lZVRqS1RValcwLWFCSzZoLVl2X3dWbXJrU3dEMHVFcGp0bGVKcmFjRy1hQzNFdGEtTVhGU1d3aS0yUWlYMDRlSXlhSFByZ3VOOGNTb2R1dW1QTFHSAYwBQVVfeXFMTkM0UEpISmd4clRnM2xjZVdGVGw5ZHZUMGpPZnNJc3dSbGREMS1SNGExeHp2azVKb25LN1d2NlNSX01XV2g2TzNCSDJKMm1kalF3dEtOT1BTQVhVeEV0Z09lUTltWkhlMDFwQnBIdmtlb2c3Tm5pV25IZzdPaUk1bjh2OTFUemZtWS0yUTA?oc=5
 
-- UBS CEO Ermotti warns against harsh capital rules ahead of vote
-  UBS CEO Ermotti warns against
-  🔗 https://www.livemint.com/companies/ubs-ceo-ermotti-warns-against-harsh-capital-rules-ahead-of-vote-11789932725827.html
+- Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow - The Guardian
+  Trump to create ‘AI Force’ to monitor technology as
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVXE5YTI5dDR5YjNpVHIzYnhMQ3huclFnajVuczZBaU40U2RqQkFXMFVOVXJJTWo5SzlVN0tQMkhvdm84bDJMa2lkc2NKbDlHWVFlX2c4VzFyVmFqdFdzbkdqMDNBSXE0N3ZHR3BKdVBzcG44emoxcA?oc=5
 
-- Volvo Cars appoints Skoda Auto boss Klaus Zellmer as CEO, to replace Håkan Samuelsson: When will he take charge?
-  Klaus Zellmer, previously CEO of Skoda Auto, will transition by Oct. 1, 2027. He will replace Håkan Samuelsson, who will step down
-  🔗 https://www.livemint.com/companies/news/volvo-cars-appoints-skoda-auto-boss-klaus-zellmer-as-ceo-to-replace-h-kan-samuelsson-when-will-he-take-charge-11789927951213.html
+- Samara Capital acquires stake in ARC and Calyx to build logistics platform
+  The promoters and the firm holding almost equal stakes in the new entity. The private equity (PE
+  🔗 https://www.livemint.com/companies/start-ups/samara-capital-arc-calyx-logistics-platform-rs-1200-crore-11789902774973.html
 
-- Tata Sons listing is the real flashpoint, not Chandrasekaran’s reappointment, says Harish Salve: Report
-  Senior advocate Harish Salve, advisor to N Chandrasekaran, said the Tata Trusts-Tata Sons dispute has shifted from concerns over listing to the chairman�
-  🔗 https://www.livemint.com/companies/news/tata-sons-listing-is-the-real-flashpoint-not-chandrasekaran-s-reappointment-says-harish-salve-report-11789924532329.html
+- Mitrankur Majumdar takes over Infosys CEO designate's old shoes
+  Infosys appoints Mitrankur Majumdar to lead its $2.7 billion Services, Utilities,
+  🔗 https://www.livemint.com/companies/news/mitrankur-majumdar-takes-over-infosys-ceo-designates-old-shoes-11789896399307.html
 
-- Titan sees ‘serious sluggishness’ in sub- ₹1,000 watches as premium demand surges
-  Titan sees weak demand for sub- ₹1,000 watches
-  🔗 https://www.livemint.com/companies/news/titan-sees-serious-sluggishness-in-sub-1-000-watches-as-premium-demand-surges-11789911967578.html
+- Sudipto Sarkar: the lawyer at the centre of the Tata Sons chairman dispute
+  The Tata Sons dispute now places Sarkar’s latest legal advice in the spotlight. The contents and
+  🔗 https://www.livemint.com/companies/news/tata-sons-chairman-reappointment-legal-dispute-sudipto-sarkar-dy-chandrachud-11789896528257.html
 
-- Tata Trusts-Tata Sons row: Mehli Mistry objects to possibility of education trust bearing legal expenses
-  Mehli Mistry of the Tata Education and Development Trust has opposed using trust funds for legal expenses in the dispute between Tata Trusts
-  🔗 https://www.livemint.com/companies/news/tata-trusts-tata-sons-row-mehli-mistry-objects-to-possibility-of-education-trust-bearing-legal-expenses-11789904000707.html
+- Nilon’s explores majority stake sale at up to  ₹1,200 crore valuation
+  Existing investors are exploring a partial or full stake sale. The exact terms of the
+  🔗 https://www.livemint.com/companies/news/nilons-pickle-stake-sale-valuation-11789875343543.html
 
-- Gold price prediction: Will US-Iran war, crude oil rates impact yellow metal rates? Check technical outlook
-  Gold is expected to remain highly sensitive to movements in Treasury yields, the US dollar and inflation data.
-  🔗 https://www.livemint.com/market/commodities/gold-price-prediction-will-us-iran-war-crude-oil-rates-impact-yellow-metal-rates-check-technical-outlook-11789900773882.html
+- Kotak banker eyed for CEO role calls for shift from loans to bonds
+  Banks should churn their portfolios, says Paritosh Kashyap, a veteran of the $43-billion private lender. Kashy
+  🔗 https://www.livemint.com/companies/news/kotak-mahindra-bank-ceo-candidates-paritosh-kashyap-11789884688915.html
 
-- Top stocks in focus tomorrow: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers
-  Mazagon Dock, Rail Vikas Nigam (RVNL), Kalyan Jewell
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-mazagon-dock-rvnl-nestle-india-shares-to-move-sensex-nifty-monday-21-sept-triggers-11789897835796.html
+- Tata stocks crashed on Friday; investors lost over  ₹52k crore - Will shares bounce back today amid boardroom battle?
+  Tata Group stocks are likely to remain susceptible to headline-driven volatility, says Sachdeva.
+  🔗 https://www.livemint.com/market/stock-market-news/tata-stocks-crashed-on-friday-investors-lost-over-52k-crore-will-shares-bounce-back-today-amid-boardroom-battle-11789953995568.html
 
-- Dividends, stock splits alert! Corporate actions this week: IRCTC, BEML, Dixon Tech and more - Record dates, full list
-  More than 170 companies have set record dates for dividends and stock splits during the week.
-  🔗 https://www.livemint.com/market/stock-market-news/dividends-stock-splits-alert-corporate-actions-this-week-irctc-beml-dixon-tech-and-more-record-dates-full-list-11789890298929.html
+- Oil Slumps for Fourth Day With Diplomacy and Hormuz in Focus
+  Oil fell for a fourth day, set for the longest losing run since June. Traders tracked diplomatic efforts to end the US-Iran war and signs that
+  🔗 https://www.livemint.com/market/oil-slumps-for-fourth-day-with-diplomacy-and-hormuz-in-focus-11789954897676.html
 
-- Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints
-  The yen is vulnerable to sharp moves and further declines over the next week. A three-day holiday in Japan set to reduce trading liquidity. Investors disappointed that the central bank didn’t offer
-  🔗 https://www.livemint.com/market/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints-11789892890813.html
+- How Asian markets, crude will impact Sensex, Nifty today: What GIFT Nifty, Nikkei, Kospi, Taiwan signals for India
+  Gift Nifty was trading around the 23,320 level, down nearly 58.50 points from the Nifty
+  🔗 https://www.livemint.com/market/stock-market-news/how-asian-markets-crude-will-impact-sensex-nifty-today-what-gift-nifty-nikkei-kospi-taiwan-signals-for-india-11789951725306.html
 
-- Top stocks to buy on Monday when market opens: DLF, PN Gadgil Jewellers, HPCL - Stop-loss, target by Ganesh Dongre
-  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-on-monday-when-market-opens-dlf-pn-gadgil-jewellers-hpcl-stop-loss-target-by-ganesh-dongre-11789887141838.html
+- Australian shares edge lower as banks and miners drag
+  Australian shares edge lower as
+  🔗 https://www.livemint.com/market/australian-shares-edge-lower-as-banks-and-miners-drag-11789953362484.html
+
+- History shows Nifty has rebounded after six consecutive weeks of decline; Will it repeat this time?
+  The index extended its losing streak to the sixth consecutive week, marking one of the longest correction phases in recent times. Despite this recovery
+  🔗 https://www.livemint.com/market/stock-market-news/history-shows-nifty-has-rebounded-after-six-consecutive-weeks-of-decline-will-it-repeat-this-time-11789951283719.html
 
 - Samsung Galaxy S25 and S25 FE prices teased ahead of Flipkart Big Billion Days Sale 2026: How much can buyers save?
    Flipkart's Big Billion Days Sale starts October 9. Galaxy S25 and S25 FE may
@@ -100,65 +100,69 @@
   Trump says he will appoint a new
   🔗 https://www.livemint.com/technology/trump-says-he-will-appoint-a-new-ai-adviser-without-providing-details-11789842927744.html
 
-- AI’s Wobbly House of Cards Puts Markets and US Economy at Risk - bloomberg.com
-  AI’s Wobbly House of Cards
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUIzTWFrSUtlVXdxeVFicV9kTjY4bnlHa295MjlFVlYyYzQ4VGp4NXBPbWlLM2RDUkdocWZ3VHU0R0lKTTFtWElhbHMtQXdhREZLc203d3dpMzI4UTFSUGN2em5QM2ZQMC1aZkZrMUx5YUNTZXJmbE90dmxSNVVrTVpUYXFoOTFUT1VZRWx3ZWNjOENjSzNYdWJFeGtLZlBGTnZWS0Q4aFd0MWxORTA5dWIxdw?oc=5
+- Stock futures rise slightly after Dow posts third straight losing week: Live updates - cnbc.com
+  Stock futures rise slightly after Dow posts third straight losing week
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9PV3BMZGlwWktIQVdmYWdJMWl3eVJHMUFfR2pPNUQ3dVk5OVROd2ZYQ3BzNEdSbElpSW5UREJmLVJxbVdJUzdITzNTM2QyM3FlV1hlZUp6anc5MFd6cEtPeW84WWNzZHZGaXVjd0Q3STRJRUFERmFN0gF8QVVfeXFMT1JBRmVDRWpaTXhKZDhZSTVWbllXZ3dZNzVhQVlPdjExaXNsY3daUVF1ZmFIOFNsQlJzeXpTc0plejhnNGhvRjdaZWlyYlp5QlFmMVFncmZvNEJNQjNUZTdLUldiMWJfS2JMYm5YaUJaNWRHekNLX1FqeXl6dw?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
-  Ahead of Market: 10 things that will decide stock market action
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaXBSZzFvWEJoWUd6WTJvWDR6d1JhTUpiRGQyUGJTRUZVZGR0dHNwR01MR3ZWREY3NG56TFVXZlNNcVl3alNuNU5oWkFBMU4wamlkcGEtYmt5VzdsZ1B2UlJiZlA1TURfSm5hLTB2Q2VZb3lNZS1meHZ0Mkw0TTNmY2Z6bThxRmlRYTJGOEpsU0cwYTYzSE1iRWhFYVpNLTVSZktSMjd0NU9iODdUYnJfWlp6bUwya3RlWG91dUJJRHVJNzNlZDllQnVoOW5aT0x2dHRXa3BDTE13Y0tkTmFj0gHkAUFVX3lxTE9TNTFJY3Zpb0ZSbXVGT3RWMjFuQXAyQUdHOWdGcUc3OVVwenhBQ3hHako2MEZwV2U3b254RXAwbUlIYmpDN0hFNUZTVXBTT0VudGZXeVcyclRKY19vSnB1TnJXRTVnWF90VVNWM0RHLWtqV3pUSzREQW0wLUhsRGFCN2lXbnc0SjI3WjlZVFVCRzE3WE1vb1ZCQU1hWmVaamVPcTZDdmRrRXV6SjZwMjRIalduZGVEZnFkT1p3NXV4Y1VyS0VZTzdrYUZpQlhfdjFSbXhaWDA4ajdtWmd4TE9HUTFCXw?oc=5
-
-- Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView
-  Stock market prediction for tomorrow: Sensex, Nifty outlook. What GIFT
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUF9yc1dtakp4OG9GOWJ6elRVNVFvTGRRRHVBWUhMaXpXblE4dWtOckpWcHExRmYxTHZ3RTdveV92VW5LcXExa081eVlwT0kzSjh0eFlZVzJVQ0lkWllCaHRQc25fQkFnSmVfMkxhaDN1V3hDYjNTamwyWGVhR1ExUGxWd3JyZzZOQlBta1BjQ0lRR1NxYTU4dm9PaE5NSUd3RTNhdlRwQ2hkUnp3emUySUJ0a0ttOFdrdXlMTGVvaGE5dURoXzhZMy13WnR1eTRSZWJDazluOXRmSlRhM0FKVVlwVG95ZXJGUGt0c21hbEZnczBpUjRhLVhmTQ?oc=5
-
-- Dalal Street Week Ahead: US-China summit, oil prices, bond yields, flash PMIs, NSE listing among 10 key... - Moneycontrol.com
-  " target="_blank">Dalal Street Week Ahead: US
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNbk9oWkt5NFpTRnhZdXg2bDJQaUlhSWtQSHRMNFhFVTl3U3M3bTJ4dHR2RjJNMzhzZnU3VjVzak54Z3pfN21Ma3ptd2lOY3RhOWh0c1pzOW1DR09uMy1NSjY5VVdPdDAycHFkck9ieTZ2enlYekpKai1LYnpjU1JvdmRZOVg3M3pvTUtGNTVoS1QySjlQeU9jME9FNmlwby1zUWpEZzZHbGswSEU0amxRSkg2bkFIdThqV1FLaWxKeUlKS2JxNm52NmJKcWxGRHVZQ2cxZWFBN0pkeGhTeGhhSFJka2dlVC1Fem9EenJlUGluU09uN1dLZDBhWlU4Ql9wd2plUWFoMlR0cTVR0gGSAkFVX3lxTE8zSkRZU2NaUEs0MFA3RVZsRkhGYVNfS2R5bTJqbVp3TjhZMUw4UkpaMGJQWk44WlZJSDFRRDliWEFFSVdjYTFYNThJdFhrZVNWdk12Y2VkNWlTWHZLN0NnaXRBa3ppYU40MWZ2MUhKcTBmcXhpVzVCZHNmSTlock92Q0JvOVRaWVJqVi1wTXNlUllyWlJEVUpwcEpZSkpXSHpxbDlCTXVqNjkzWHpqSXRobFlVQXdHS3RyTTgwRWN6emZnOHpsdGp0VndfcVcwaFB2TG8wTW1KdlBRY0c2bzBsQjB3UUZkVWpBWDVreHdXc1pXTjV1NFRISVQtcmZWaHF0WlY4TVVsS2JDVkNmWkNSMUE?oc=5
+- US Stock Futures Up Ahead of Talks, Dollar Steady: Markets Wrap - Bloomberg.com
+  US Stock Futures Up Ahead of Talks,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONWk0czlDZlZ6UFZXeFRWaEtxd3J5Z295dlFNOTJKelkxcE1jVEJWWU0tMl9nRUo5RmNHNUhodFdwWGVKNjJYREQ1Y3B2d1JnT2RZSTVOMnNXbU93MWNWN2doM05LSUgzVWd0NU93MldhRUduSEJaX1BqdmxuMzFGZmNEYm1GbmEyWFctalFDU2RuSVhYUzhWQTdmSnFtR1Y5WXdJZjhLaUplaVFubXRfWlJR?oc=5
 
 - India's exports to core BRICS markets surge 34% in April-August; China leads - The Hindu
   India's exports to core BRICS markets surge 34%
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUV9vWGFpS3dQN3l0WnFxdzNZRE1aM0VGRjk3a0w3dzZjQzkwUlBDMUI5VkxzUjhOWWhuVDlPQ1lFSVdNSEhjWFp5NjdEUEdLWGF4b25HN1Z2cldCa1c2cXFialdWX21RcHN3YU45MDlFTjlWUjhRSFJyTUxsc011VmstZHJkR3FKRllYN3pfdVluNmZ0SVgxTEZWLXBOcDM0Qmg1amlFY1Z1WENCMzRWWGROMWtaMGkzRXpVWFljR29UblZtUkJtMjJiQnTSAdMBQVVfeXFMUEtKNVdzQ0VnVnhnNkR4bEhoZ2M2X0lYVEFlcDdhUC1FSklfT1pFZVRyNnEzdjVmdlpWZWdBTTllbWxUTnJmbjNScnhTal9tdHdPaU1TMU1CTEppOW5HRU1pb1hZaTNYUWM4aFA4UWstZEhqSFVqMVpyRUF3YXRqREx2dThBbUNLeGlEMFN0VXczbVN6Y1RCak1QYVFjaW1HOXRQMFRldHZ0MTU1VjV2Y2cydVdrZTdNc3J2Q1A4SVlwMUxvWDZqdG5uOWhsSjV6ZlJwZw?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Sensex slipped 0.03%, while broader markets outperformed. Nifty gained 0.33% as moderation in crude and global yields supported sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134367341.cms
+- Shopping rush: Markets and malls across Kolkata get into Puja groove despite rainy spell - telegraphindia.com
+  Shopping rush: Markets and malls across Kolkata get
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOVRVM3Ezb3c0ZWJLT1BFQWZqUEMtWU5GRzUwTU9rTWs1R3ZyNWFqSW5DUXVqSjYtQ0xOd2tqbWtwM0s1UkU1bEJRUktTVWZ6Ty1WeERvbDVXRG9kOVFxU2YxeDZtc1RqblJTUUpSTEYxM2VTQTZUbzFiM1JNV2lCVW5URTFEWEtSelQxSUF6VzVRS1VFZG5iSXRSRnc2alFBc1NmTTg4RTg5Y3VDMDJ5ZVJwcl8yeVBHWi1XLTRzcGcyVGRqdGtlSzRpdTBrNlgxRXVydjV2a2hUa2dRd3h3bWdyTmg5Q3RET01v0gHwAUFVX3lxTE9vM2Z6OGUzSVVURUtMY3Z0N25qYUFqdFZuMFVTUG92WnFoNUJ3WjIzNGlERUJFT3hCVjFlbWNUWF9paEtRN3BHc0tMQTROVmkzbm8wRWFnMEd6UE9uZFBHNEg2NHQxUC1idHZkRE9pOTdyVlV1RUtEV2RyRDlnYXdZS1paaVRLMlR5SjVGQ05JUEMycXh0TnZGYV84NzZDSEdLSDVoeE1JWTBQUmhWNFJ4VzVTd1dadU11bWM0bG02dTRLd2RLNkFwTUJNYUZqVHVKOW8yVUpYNjQ4ZWF4ZllDTXFsT2o5T3dtZzVfUk10UA?oc=5
 
-- SME IPO: Liqvd Digital India issue to open on Sep 23; price band fixed at Rs 51-54
-  Liqvd Digital India is gearing up for its Rs 39-crore initial public offering, set to open for subscription on September 23. The funds will be directed towards acquiring a video content production hub.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sme-ipo-liqvd-digital-india-issue-to-open-on-sep-23-price-band-fixed-at-rs-51-54/articleshow/134367283.cms
+- Tech leads shares higher in Asia as oil slips - Reuters
+  Tech leads shares higher in Asia as
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQUUdXdXVKYkpsa2JoQmRNeVpVWWhwb1pIVmUwcUl0QVRFVEFjRDJtREJPbXJWaXVEc0NQSWZZUlhwTl80T3h4eGM1dE9oaXRsWlVueWx0MWt3YXlWbV9PYkZDWVVPb1ZveThvalZfWnBvQ2J5Sjg1UkNOQmU5eDdWN0FvVQ?oc=5
 
-- Gold likely to stay range-bound next week as dollar, West Asia tensions guide market: Analysts
-  After a week dominated by monetary policy and geopolitical developments, investors will turn their focus to a fresh batch of economic data. Mid-month manufacturing and services
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-likely-to-stay-range-bound-next-week-as-dollar-west-asia-tensions-guide-market-analysts/articleshow/134367215.cms
+- Nifty hovers near 23,000 floor as analysts predict uncertain market trends ahead
+  The Nifty index has extended its losing streak, testing key support levels. Recent recovery indicates demand, but the broader trend remains under pressure. Experts suggest specific options strategies and stock picks for the week.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-hovers-near-23000-floor-as-analysts-predict-uncertain-market-trends-ahead/articleshow/134377996.cms
 
-- Market Trading Guide: Acme Solar, Medanta among 5 stock recommendations for Monday
-  Analysts have identified five stocks, including ACME Solar, Medanta, Tilaknagar Industries, Uno Minda and PWL,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-acme-solar-medanta-among-5-stock-recommendations-for-monday/slideshow/134365873.cms
+- Three SME IPOs open for subscription today: Check price band, lot size and key details
+  Vivekanand Cotspin IPO is a Rs 22.20-crore book-built issue. FX Multitech IPO is worth Rs 45.24 crore. Robokid
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/three-sme-ipos-open-for-subscription-today-check-price-band-lot-size-and-key-details/articleshow/134378161.cms
 
-- ETMarkets Smart Talk | India may see 50 bps of rate hikes in 2026 as Fed tightens: Garima Kapoor
-  The Fed's latest rate hike could constrain the RBI’s policy flexibility. Elara Securities’ Garima Kapoor expects 25-50 bps of RBI hikes in
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-india-may-see-50-bps-of-rate-hikes-in-2026-as-fed-tightens-garima-kapoor/articleshow/134365623.cms
+- Oil Price Today (September 21): Crude oil falls for 4th day, below $102. What’s triggering the fall?
+  Brent crude futures fell $2.16 cents, or 2.1%, to $101.70 a barrel after settling 0.91% lower on Friday. US West
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-21-crude-oil-falls-for-4th-day-below-102-whats-triggering-the-fall/articleshow/134378118.cms
 
-- ‘Stop Vizag Data Centers’ Instagram account blocked in India - The Hindu
-  ‘Stop Vizag Data Centers�
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlUxd3ZUVWt4TktBc3RiT09NQUY0QU1VaFFaejI2SVlBLXE1elA3ZURJYXBPbDJlV0lIc2RaRlRld0M1RWRkTGp6LWN0b3JxSGNRcFFMWjdNcnRSMDgxYnVZTHZGVUxnVlZQNGlSM1ZXUnZkTlFjQmJTYkRxMzRuNXdGWVVKTk1LVTJzb29qVnhybEFoZnhYOEpMUmpZN0N3ZGxGZzB0VnZ1VmdnYko4MXlYSTBHQ2g1UmZMcnlpM3g5MFY2RHU3dmFaa3bSAdMBQVVfeXFMTnZzMUVZU3p5T0x3SnBHRllaY293VHpsNkZMZU1ydTBWNWgwaDVxbjNqWEtGOU1yZUtTaGN3WXlsTEFWQkM0d3ktVndsQkZ0ckdWeEF4dkZncGtYVXg4bDJTdTNMYXVSdWpFa2VIQXNLaEpobHEzNWxIQUhNdEdBS0FzVFNhTjRnYWZTM2J4Q0FheWtHQlJhbGNncWlZeGVwNTV5V18xRWxqSkJlMU5TMTR2UFFXRi1DMG50TnRCUDFJTXN0RHdCcnBveHJmYVNLOUF4bw?oc=5
+- Positive Breakout: These 12 midcap stocks cross above their 200 DMAs
+  As long as a stock's price remains above its 200-day moving average on the daily timeframe, it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-12-midcap-stocks-cross-above-their-200-dmas/slideshow/134378090.cms
 
-- Mum's viral barefoot race sparks debate over India's education crisis - bbc.com
-  Mum's viral barefoot race sparks
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE43T1ViTmMtMERZNnFFYTRwTmltSm1VTmdGT212REx0ZDRNajQtRGxWa0tHbGNMODBiRm4zbTRHb2hBTWI5R2ozTUZzeURwOVZCUnJIQW1IbnJnbnM?oc=5
+- Volatile yen draws intervention watch, other currencies subdued
+  Reports suggest that Japanese officials are conducting rate checks. This comes as major central banks, including the Federal Reserve and European Central Bank, have recently raised interest rates.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/volatile-yen-draws-intervention-watch-other-currencies-subdued/articleshow/134378010.cms
 
-- CCTV Footage Shows Moment Telangana Neurosurgeon's Car Hit Divider, Burst Into Flames - NDTV
-  CCTV Footage Shows Moment Telangana Neuro
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRvQlR1LS15UWVwOGZTSjVqWU1kLVRxTEd3RXlkbklzQy1fRWc3R0U4b3BmcC1TRXhQVmRvbFd2TEZoTlZ5SFg1cWpkT3NUM0dsQWhSbUZpM2drckp1RW1OdTlOQTZTNEptUFNlTWdZTHdPTl9rekZNRGZrWHl4d2hHengtMEZnY2xtXzczMHFrUTV3MlB4VUgzQ3hRWjNBeXpYb0VqNE5INmV6RWY3bUxZOUM0cnpSU29wU0N0VHBuUdIBygFBVV95cUxOckNVTmxIZklTeFhBOVNueWlfUWU1cXQyNE1LenJVV0FmSi1wblZHaUFmYVBWSHNRbEFPUjdsMUNmWmxuZ2M5ZDlSek5IOHFGcHNaNmZCX0c4ZHpvTTZHR3lqTE5zZFVWQkg1aUxpVzducWhxN29lalVkNjRGMjg2cmZRcUVvbVFsVklhNDF6dUZ6MFB3RVlnWDFxZ1RqRFpyZHRHTEx6T3JYWEo4T1ROSmFtWGtKRU1kRTJicFh3R1BFSHB2bnc1d2xR?oc=5
+- Asian Games 2026 Day 2 Live: India bag first medal of the day as men’s 10m air rifle team clinches silver - The Times of India
+  Indian men's 10m air rifle team win silver at Asian Games 2026.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVlVlenJXU3dTT08yc3I0Um1ob0xhclppLUFCazU4b2l4Ty1YNVZxVlNlUTBHc3lFOWtBQUdmbWFBd2lHaDF0QWxONXdmRmtTQXFzOWtkS20yMXhXbDFVZ3NkajlvZElfSzJRQWg1R2hYQjdxc3JZYUVIZGlkWFBzbUp5bkt4cUJHTzJ2cDFzV0dNcURUbzI2QThrVHdvVTdQaHlFZndkWUE0MERKNThiaWRBV1Vnajd4UTR6X0o0QnlkOVdoQ1pnV1BMUmVwZm02WnJiNE43TkZPbFpURkRtY3BhOGowMGZWN2tqT0pJUF9admh1YjZiczhB0gH_AUFVX3lxTE1uY1JvVzY5QTkxZnRVbkpJU3J1Skc1d3h0Nmp1ZTVZMnN4TlZFc193NmRITW0wWHgzOFJTazJfQUtMeF96RWVCQ1F1SzVuWmRyQjB0OVY0ajZoZnZfem5Hc3hmLUxQaHl6Zm1vbHFPMk1mOVlYbjAyZFBUQU1SODBtODhNWWsxZldHMVNQa1dXZjF0T0VhRjhuLVJzMVFzOGx5c05sdWNPdFpyX2VXRGwtMTJaQ1k3ZDR4Qi1iTzlvZk1RbFdaUXQ5MnJzM0FiaXp1aHhaVjZRd3ZUay1mRGE5S3JINi0wWGVRUlEzREhvTjdmRDZkZUN1dWRkeE1rUQ?oc=5
 
 - India at Asian Games 2026, Day 1: Elavenil Valarivan on target, women’s team enters cricket final - as it happened - olympics.com
   India's women's team enter cricket final - as it happened at Asian Games 2026.
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
 
-- Asian Games Highlights, September 20: India wins two silver in shooting; India reaches women's cricket final; Iran thrashes India in table tennis — Scores and news - Sportstar
-  India won two silver medals in shooting. India reached women's cricket final. Iran thrashed India in table tennis.
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXdFZ2N3N3lsSXFmUEJPRHN2V1l0SGpWSHhsMnNTOTBqVUFPRzRtaWM1aVo5aHJDTEItQkpKNkQ4Y3ZVR1VqZENYV3laanE4cnAwcHFzRER3WTd4SWhRd0JiRkdNZVk5ZmxQNmFmdy1JbE9CUDFPNlg3a21YblpfbzlMSkUyaDhPMkJVMHhzbGYxaDF3M0o5Zk9XU09CWkhXQWJiUmRoVjQ5eEJwLVZVYURpVFoyR2dXUXBCMVZWcnRNWGpEYm45NndUUDRVUdIB1AFBVV95cUxOTDQ0Z0ZUbXNsc0RkMUlaNmt3U3ktUjAwMi1TMW1ib3RYMWQ4V2pUMnB0dVVzeEhWWnJMb3lRbUkxWXVRczB0TWJxTHVXQkhwOU1tMDlDdzR5U3dPVmUtMWdsWFc4OWRVTHlNSklmcnEyaTdTMFRZOFpVN2JjRWFWYVpGMGdZWTZIbTdFTGZtd05EOW9tdG1MRG9KNWwycGZFRE9ZeGtndzhsemxrNks0QmpnYkJVWEQ4WEI5a21fbk8zZm9fNG9YVlZQaFRuME01WFlpZA?oc=5
+- Asian Games 2026: Indian women's table tennis team blanks Pakistan, reaches quarters - The Economic Times
+  Indian women's table tennis team blanks Pakistan, reaches quarters
+  🔗 https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVkk4NnJQY1d1ZWEzM01XOEJ6UmJQeWdpUW1TdWJVR1FxRV92WkRqQUpnX1VGakZydWs0bWdueDJLRUU3Mjh6ZVB2cS1rZUJwZHNKbnNQVERUdlFLU29qY3JsM0VVcXUzOEYxV0VSaWU2RWt5WGhnTkZ1QVJvUFBueEN5TDZEUG1BZGRxVF9LRXlJb0djNmNzTlRxWXVxVG1sS3lzMVFEVWtNM20yV2FkMU1FTHIzd3pkc1JES0F6SWZuU3lIUU9rUTVwX1RsNUpaRVVVVzlCQk1mRV9PUnRlYWx4Ry1oS2Z3UEkwNjZsTFdWZXJGSC1XNmZvTDlGcU5LX2RCanZOQ2ZIMUM5aTQ0ME94QUtpVnFQNU05SHFCQTlUX01iY3VMaENCeWF2UTZZWUJITVpOMWVWMzhPYmd1d0dIYms3MWNZVXdTV0tPNk9OdF8wUDlqQ0p3NNIB9wFBVV95cUxOWnNpdGdsbnRVNHFRTjhOam9JMjliQXJQZWJRQjFRb3BWZ2VMMndrNVRYa3hweXpoMVJIY1pJdGJXeE5oSzdEWmFXbkwweDRQVk9jTEVrQy1wUTVBU2RTVkJtcFFOcTdhTk91dWU0eUd0eWc3b1ZCa0MtcjBqT2wzWXZQMlQ0SWltYlc2TUgyMVVtcTJJS0RfMUR2UnZsajc5Y0xncDV1TUxvb2xGbEVET1V6Nlg3akpld1NxSHQzNEltLTBVYXJvUVE1UW1yTWlrc0dkVWdKd3BqYW1uMUI2NTV5eFBCM3g1Z1I4cW02UWZSdDFxbXlR?oc=5
+
+- Why a new Pakistan-China border pact has irked India - bbc.com
+  Why a new Pakistan-China border
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDaE9lR01JYURhcnBDS3ZTdzl0QklYR2Q0bXplZlk1V0Zma19tTVZGWXJtQ0pkVmI0VlhXbnNWNy1fMnVkcGh1a3M2eUpGWjdKTENMRW10RlhmZ0U?oc=5
+
+- CCTV Footage Shows Moment Telangana Neurosurgeon's Car Hit Divider, Burst Into Flames - NDTV
+  CCTV Footage Shows Moment Telangana Neuro
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRvQlR1LS15UWVwOGZTSjVqWU1kLVRxTEd3RXlkbklzQy1fRWc3R0U4b3BmcC1TRXhQVmRvbFd2TEZoTlZ5SFg1cWpkT3NUM0dsQWhSbUZpM2drckp1RW1OdTlOQTZTNEptUFNlTWdZTHdPTl9rekZNRGZrWHl4d2hHengtMEZnY2xtXzczMHFrUTV3MlB4VUgzQ3hRWjNBeXpYb0VqNE5INmV6RWY3bUxZOUM0cnpSU29wU0N0VHBuUdIBygFBVV95cUxOckNVTmxIZklTeFhBOVNueWlfUWU1cXQyNE1LenJVV0FmSi1wblZHaUFmYVBWSHNRbEFPUjdsMUNmWmxuZ2M5ZDlSek5IOHFGcHNaNmZCX0c4ZHpvTTZHR3lqTE5zZFVWQkg1aUxpVzducWhxN29lalVkNjRGMjg2cmZRcUVvbVFsVklhNDF6dUZ6MFB3RVlnWDFxZ1RqRFpyZHRHTEx6T3JYWEo4T1ROSmFtWGtKRU1kRTJicFh3R1BFSHB2bnc1d2xR?oc=5
+
+- Kissht, Ola Electric & More: Why Listed Startups Keep Going Back To The Well
+  Digital lending platform Kissht is back in the public markets for the first time in four months.
+  🔗 https://inc42.com/features/kissht-ola-electric-more-why-listed-startups-keep-going-back-to-the-well/
 
 - India’s Spacetech Gold Rush Is Here, But What’s Making Investors Jittery?
   The Indian spacetech ecosystem is entering its most critical phase yet. After years of experimentation and ambition, spacettech startups must start commercialising.
@@ -176,49 +180,45 @@
   When Vineet Chirania was scaling his train-ticket booking startup, Trainman, a decade ago, he encountered a problem that would eventually cost him his company.
   🔗 https://inc42.com/startups/how-cubeapm-plans-to-take-on-datadog-and-new-relic-with-its-80-cheaper-ai-observability-stack/
 
-- Innov8’s FY26 Profit Zooms Multifold To ₹13.7 Cr, Revenue Crosses ₹200 Cr Mark
-  Premium flexible workspace operator Innov8 Workspaces sharply improved its profitability in the fiscal year FY26. Innov8 is rapidly expanding the network.
-  🔗 https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/
-
-- ‘Stop Vizag Data Centers’ Instagram account blocked in India - The Hindu
-  ‘Stop Vizag Data Centers�
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlUxd3ZUVWt4TktBc3RiT09NQUY0QU1VaFFaejI2SVlBLXE1elA3ZURJYXBPbDJlV0lIc2RaRlRld0M1RWRkTGp6LWN0b3JxSGNRcFFMWjdNcnRSMDgxYnVZTHZGVUxnVlZQNGlSM1ZXUnZkTlFjQmJTYkRxMzRuNXdGWVVKTk1LVTJzb29qVnhybEFoZnhYOEpMUmpZN0N3ZGxGZzB0VnZ1VmdnYko4MXlYSTBHQ2g1UmZMcnlpM3g5MFY2RHU3dmFaa3bSAdMBQVVfeXFMTnZzMUVZU3p5T0x3SnBHRllaY293VHpsNkZMZU1ydTBWNWgwaDVxbjNqWEtGOU1yZUtTaGN3WXlsTEFWQkM0d3ktVndsQkZ0ckdWeEF4dkZncGtYVXg4bDJTdTNMYXVSdWpFa2VIQXNLaEpobHEzNWxIQUhNdEdBS0FzVFNhTjRnYWZTM2J4Q0FheWtHQlJhbGNncWlZeGVwNTV5V18xRWxqSkJlMU5TMTR2UFFXRi1DMG50TnRCUDFJTXN0RHdCcnBveHJmYVNLOUF4bw?oc=5
-
-- Mum's viral barefoot race sparks debate over India's education crisis - bbc.com
-  Mum's viral barefoot race sparks
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE43T1ViTmMtMERZNnFFYTRwTmltSm1VTmdGT212REx0ZDRNajQtRGxWa0tHbGNMODBiRm4zbTRHb2hBTWI5R2ozTUZzeURwOVZCUnJIQW1IbnJnbnM?oc=5
-
-- CCTV Footage Shows Moment Telangana Neurosurgeon's Car Hit Divider, Burst Into Flames - NDTV
-  CCTV Footage Shows Moment Telangana Neuro
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRvQlR1LS15UWVwOGZTSjVqWU1kLVRxTEd3RXlkbklzQy1fRWc3R0U4b3BmcC1TRXhQVmRvbFd2TEZoTlZ5SFg1cWpkT3NUM0dsQWhSbUZpM2drckp1RW1OdTlOQTZTNEptUFNlTWdZTHdPTl9rekZNRGZrWHl4d2hHengtMEZnY2xtXzczMHFrUTV3MlB4VUgzQ3hRWjNBeXpYb0VqNE5INmV6RWY3bUxZOUM0cnpSU29wU0N0VHBuUdIBygFBVV95cUxOckNVTmxIZklTeFhBOVNueWlfUWU1cXQyNE1LenJVV0FmSi1wblZHaUFmYVBWSHNRbEFPUjdsMUNmWmxuZ2M5ZDlSek5IOHFGcHNaNmZCX0c4ZHpvTTZHR3lqTE5zZFVWQkg1aUxpVzducWhxN29lalVkNjRGMjg2cmZRcUVvbVFsVklhNDF6dUZ6MFB3RVlnWDFxZ1RqRFpyZHRHTEx6T3JYWEo4T1ROSmFtWGtKRU1kRTJicFh3R1BFSHB2bnc1d2xR?oc=5
+- Asian Games 2026 Day 2 Live: India bag first medal of the day as men’s 10m air rifle team clinches silver - The Times of India
+  Indian men's 10m air rifle team win silver at Asian Games 2026.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVlVlenJXU3dTT08yc3I0Um1ob0xhclppLUFCazU4b2l4Ty1YNVZxVlNlUTBHc3lFOWtBQUdmbWFBd2lHaDF0QWxONXdmRmtTQXFzOWtkS20yMXhXbDFVZ3NkajlvZElfSzJRQWg1R2hYQjdxc3JZYUVIZGlkWFBzbUp5bkt4cUJHTzJ2cDFzV0dNcURUbzI2QThrVHdvVTdQaHlFZndkWUE0MERKNThiaWRBV1Vnajd4UTR6X0o0QnlkOVdoQ1pnV1BMUmVwZm02WnJiNE43TkZPbFpURkRtY3BhOGowMGZWN2tqT0pJUF9admh1YjZiczhB0gH_AUFVX3lxTE1uY1JvVzY5QTkxZnRVbkpJU3J1Skc1d3h0Nmp1ZTVZMnN4TlZFc193NmRITW0wWHgzOFJTazJfQUtMeF96RWVCQ1F1SzVuWmRyQjB0OVY0ajZoZnZfem5Hc3hmLUxQaHl6Zm1vbHFPMk1mOVlYbjAyZFBUQU1SODBtODhNWWsxZldHMVNQa1dXZjF0T0VhRjhuLVJzMVFzOGx5c05sdWNPdFpyX2VXRGwtMTJaQ1k3ZDR4Qi1iTzlvZk1RbFdaUXQ5MnJzM0FiaXp1aHhaVjZRd3ZUay1mRGE5S3JINi0wWGVRUlEzREhvTjdmRDZkZUN1dWRkeE1rUQ?oc=5
 
 - India at Asian Games 2026, Day 1: Elavenil Valarivan on target, women’s team enters cricket final - as it happened - olympics.com
   India's women's team enter cricket final - as it happened at Asian Games 2026.
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
 
-- Asian Games Highlights, September 20: India wins two silver in shooting; India reaches women's cricket final; Iran thrashes India in table tennis — Scores and news - Sportstar
-  India won two silver medals in shooting. India reached women's cricket final. Iran thrashed India in table tennis.
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXdFZ2N3N3lsSXFmUEJPRHN2V1l0SGpWSHhsMnNTOTBqVUFPRzRtaWM1aVo5aHJDTEItQkpKNkQ4Y3ZVR1VqZENYV3laanE4cnAwcHFzRER3WTd4SWhRd0JiRkdNZVk5ZmxQNmFmdy1JbE9CUDFPNlg3a21YblpfbzlMSkUyaDhPMkJVMHhzbGYxaDF3M0o5Zk9XU09CWkhXQWJiUmRoVjQ5eEJwLVZVYURpVFoyR2dXUXBCMVZWcnRNWGpEYm45NndUUDRVUdIB1AFBVV95cUxOTDQ0Z0ZUbXNsc0RkMUlaNmt3U3ktUjAwMi1TMW1ib3RYMWQ4V2pUMnB0dVVzeEhWWnJMb3lRbUkxWXVRczB0TWJxTHVXQkhwOU1tMDlDdzR5U3dPVmUtMWdsWFc4OWRVTHlNSklmcnEyaTdTMFRZOFpVN2JjRWFWYVpGMGdZWTZIbTdFTGZtd05EOW9tdG1MRG9KNWwycGZFRE9ZeGtndzhsemxrNks0QmpnYkJVWEQ4WEI5a21fbk8zZm9fNG9YVlZQaFRuME01WFlpZA?oc=5
+- Asian Games 2026: Indian women's table tennis team blanks Pakistan, reaches quarters - The Economic Times
+  Indian women's table tennis team blanks Pakistan, reaches quarters
+  🔗 https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVkk4NnJQY1d1ZWEzM01XOEJ6UmJQeWdpUW1TdWJVR1FxRV92WkRqQUpnX1VGakZydWs0bWdueDJLRUU3Mjh6ZVB2cS1rZUJwZHNKbnNQVERUdlFLU29qY3JsM0VVcXUzOEYxV0VSaWU2RWt5WGhnTkZ1QVJvUFBueEN5TDZEUG1BZGRxVF9LRXlJb0djNmNzTlRxWXVxVG1sS3lzMVFEVWtNM20yV2FkMU1FTHIzd3pkc1JES0F6SWZuU3lIUU9rUTVwX1RsNUpaRVVVVzlCQk1mRV9PUnRlYWx4Ry1oS2Z3UEkwNjZsTFdWZXJGSC1XNmZvTDlGcU5LX2RCanZOQ2ZIMUM5aTQ0ME94QUtpVnFQNU05SHFCQTlUX01iY3VMaENCeWF2UTZZWUJITVpOMWVWMzhPYmd1d0dIYms3MWNZVXdTV0tPNk9OdF8wUDlqQ0p3NNIB9wFBVV95cUxOWnNpdGdsbnRVNHFRTjhOam9JMjliQXJQZWJRQjFRb3BWZ2VMMndrNVRYa3hweXpoMVJIY1pJdGJXeE5oSzdEWmFXbkwweDRQVk9jTEVrQy1wUTVBU2RTVkJtcFFOcTdhTk91dWU0eUd0eWc3b1ZCa0MtcjBqT2wzWXZQMlQ0SWltYlc2TUgyMVVtcTJJS0RfMUR2UnZsajc5Y0xncDV1TUxvb2xGbEVET1V6Nlg3akpld1NxSHQzNEltLTBVYXJvUVE1UW1yTWlrc0dkVWdKd3BqYW1uMUI2NTV5eFBCM3g1Z1I4cW02UWZSdDFxbXlR?oc=5
 
-- ‘Stop Vizag Data Centers’ Instagram account blocked in India - The Hindu
-  ‘Stop Vizag Data Centers�
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlUxd3ZUVWt4TktBc3RiT09NQUY0QU1VaFFaejI2SVlBLXE1elA3ZURJYXBPbDJlV0lIc2RaRlRld0M1RWRkTGp6LWN0b3JxSGNRcFFMWjdNcnRSMDgxYnVZTHZGVUxnVlZQNGlSM1ZXUnZkTlFjQmJTYkRxMzRuNXdGWVVKTk1LVTJzb29qVnhybEFoZnhYOEpMUmpZN0N3ZGxGZzB0VnZ1VmdnYko4MXlYSTBHQ2g1UmZMcnlpM3g5MFY2RHU3dmFaa3bSAdMBQVVfeXFMTnZzMUVZU3p5T0x3SnBHRllaY293VHpsNkZMZU1ydTBWNWgwaDVxbjNqWEtGOU1yZUtTaGN3WXlsTEFWQkM0d3ktVndsQkZ0ckdWeEF4dkZncGtYVXg4bDJTdTNMYXVSdWpFa2VIQXNLaEpobHEzNWxIQUhNdEdBS0FzVFNhTjRnYWZTM2J4Q0FheWtHQlJhbGNncWlZeGVwNTV5V18xRWxqSkJlMU5TMTR2UFFXRi1DMG50TnRCUDFJTXN0RHdCcnBveHJmYVNLOUF4bw?oc=5
-
-- Mum's viral barefoot race sparks debate over India's education crisis - bbc.com
-  Mum's viral barefoot race sparks
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE43T1ViTmMtMERZNnFFYTRwTmltSm1VTmdGT212REx0ZDRNajQtRGxWa0tHbGNMODBiRm4zbTRHb2hBTWI5R2ozTUZzeURwOVZCUnJIQW1IbnJnbnM?oc=5
+- Why a new Pakistan-China border pact has irked India - bbc.com
+  Why a new Pakistan-China border
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDaE9lR01JYURhcnBDS3ZTdzl0QklYR2Q0bXplZlk1V0Zma19tTVZGWXJtQ0pkVmI0VlhXbnNWNy1fMnVkcGh1a3M2eUpGWjdKTENMRW10RlhmZ0U?oc=5
 
 - CCTV Footage Shows Moment Telangana Neurosurgeon's Car Hit Divider, Burst Into Flames - NDTV
   CCTV Footage Shows Moment Telangana Neuro
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRvQlR1LS15UWVwOGZTSjVqWU1kLVRxTEd3RXlkbklzQy1fRWc3R0U4b3BmcC1TRXhQVmRvbFd2TEZoTlZ5SFg1cWpkT3NUM0dsQWhSbUZpM2drckp1RW1OdTlOQTZTNEptUFNlTWdZTHdPTl9rekZNRGZrWHl4d2hHengtMEZnY2xtXzczMHFrUTV3MlB4VUgzQ3hRWjNBeXpYb0VqNE5INmV6RWY3bUxZOUM0cnpSU29wU0N0VHBuUdIBygFBVV95cUxOckNVTmxIZklTeFhBOVNueWlfUWU1cXQyNE1LenJVV0FmSi1wblZHaUFmYVBWSHNRbEFPUjdsMUNmWmxuZ2M5ZDlSek5IOHFGcHNaNmZCX0c4ZHpvTTZHR3lqTE5zZFVWQkg1aUxpVzducWhxN29lalVkNjRGMjg2cmZRcUVvbVFsVklhNDF6dUZ6MFB3RVlnWDFxZ1RqRFpyZHRHTEx6T3JYWEo4T1ROSmFtWGtKRU1kRTJicFh3R1BFSHB2bnc1d2xR?oc=5
 
+- Asian Games 2026 Day 2 Live: India bag first medal of the day as men’s 10m air rifle team clinches silver - The Times of India
+  Indian men's 10m air rifle team win silver at Asian Games 2026.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVlVlenJXU3dTT08yc3I0Um1ob0xhclppLUFCazU4b2l4Ty1YNVZxVlNlUTBHc3lFOWtBQUdmbWFBd2lHaDF0QWxONXdmRmtTQXFzOWtkS20yMXhXbDFVZ3NkajlvZElfSzJRQWg1R2hYQjdxc3JZYUVIZGlkWFBzbUp5bkt4cUJHTzJ2cDFzV0dNcURUbzI2QThrVHdvVTdQaHlFZndkWUE0MERKNThiaWRBV1Vnajd4UTR6X0o0QnlkOVdoQ1pnV1BMUmVwZm02WnJiNE43TkZPbFpURkRtY3BhOGowMGZWN2tqT0pJUF9admh1YjZiczhB0gH_AUFVX3lxTE1uY1JvVzY5QTkxZnRVbkpJU3J1Skc1d3h0Nmp1ZTVZMnN4TlZFc193NmRITW0wWHgzOFJTazJfQUtMeF96RWVCQ1F1SzVuWmRyQjB0OVY0ajZoZnZfem5Hc3hmLUxQaHl6Zm1vbHFPMk1mOVlYbjAyZFBUQU1SODBtODhNWWsxZldHMVNQa1dXZjF0T0VhRjhuLVJzMVFzOGx5c05sdWNPdFpyX2VXRGwtMTJaQ1k3ZDR4Qi1iTzlvZk1RbFdaUXQ5MnJzM0FiaXp1aHhaVjZRd3ZUay1mRGE5S3JINi0wWGVRUlEzREhvTjdmRDZkZUN1dWRkeE1rUQ?oc=5
+
 - India at Asian Games 2026, Day 1: Elavenil Valarivan on target, women’s team enters cricket final - as it happened - olympics.com
   India's women's team enter cricket final - as it happened at Asian Games 2026.
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUdPWmtOVFhXeXB6SFBycVNjangzeHExZGRWUmhGdUJ1NnVPZnlSSlI3RXQtMW5lQWRoaGp6ZGhsSXBqNE1YZjlMUXpua1doVzRWWkQweFhMX3o5SFhJN3p5d2FrdEZnOUFYR005blZSTlh1WDB3bUpzTE5mNFFLNWlCdVFvSW9tRkdLSjBfRmVkNDlITnVyeUV2UU8?oc=5
 
-- Asian Games Highlights, September 20: India wins two silver in shooting; India reaches women's cricket final; Iran thrashes India in table tennis — Scores and news - Sportstar
-  India won two silver medals in shooting. India reached women's cricket final. Iran thrashed India in table tennis.
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXdFZ2N3N3lsSXFmUEJPRHN2V1l0SGpWSHhsMnNTOTBqVUFPRzRtaWM1aVo5aHJDTEItQkpKNkQ4Y3ZVR1VqZENYV3laanE4cnAwcHFzRER3WTd4SWhRd0JiRkdNZVk5ZmxQNmFmdy1JbE9CUDFPNlg3a21YblpfbzlMSkUyaDhPMkJVMHhzbGYxaDF3M0o5Zk9XU09CWkhXQWJiUmRoVjQ5eEJwLVZVYURpVFoyR2dXUXBCMVZWcnRNWGpEYm45NndUUDRVUdIB1AFBVV95cUxOTDQ0Z0ZUbXNsc0RkMUlaNmt3U3ktUjAwMi1TMW1ib3RYMWQ4V2pUMnB0dVVzeEhWWnJMb3lRbUkxWXVRczB0TWJxTHVXQkhwOU1tMDlDdzR5U3dPVmUtMWdsWFc4OWRVTHlNSklmcnEyaTdTMFRZOFpVN2JjRWFWYVpGMGdZWTZIbTdFTGZtd05EOW9tdG1MRG9KNWwycGZFRE9ZeGtndzhsemxrNks0QmpnYkJVWEQ4WEI5a21fbk8zZm9fNG9YVlZQaFRuME01WFlpZA?oc=5
+- Asian Games 2026: Indian women's table tennis team blanks Pakistan, reaches quarters - The Economic Times
+  Indian women's table tennis team blanks Pakistan, reaches quarters
+  🔗 https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVkk4NnJQY1d1ZWEzM01XOEJ6UmJQeWdpUW1TdWJVR1FxRV92WkRqQUpnX1VGakZydWs0bWdueDJLRUU3Mjh6ZVB2cS1rZUJwZHNKbnNQVERUdlFLU29qY3JsM0VVcXUzOEYxV0VSaWU2RWt5WGhnTkZ1QVJvUFBueEN5TDZEUG1BZGRxVF9LRXlJb0djNmNzTlRxWXVxVG1sS3lzMVFEVWtNM20yV2FkMU1FTHIzd3pkc1JES0F6SWZuU3lIUU9rUTVwX1RsNUpaRVVVVzlCQk1mRV9PUnRlYWx4Ry1oS2Z3UEkwNjZsTFdWZXJGSC1XNmZvTDlGcU5LX2RCanZOQ2ZIMUM5aTQ0ME94QUtpVnFQNU05SHFCQTlUX01iY3VMaENCeWF2UTZZWUJITVpOMWVWMzhPYmd1d0dIYms3MWNZVXdTV0tPNk9OdF8wUDlqQ0p3NNIB9wFBVV95cUxOWnNpdGdsbnRVNHFRTjhOam9JMjliQXJQZWJRQjFRb3BWZ2VMMndrNVRYa3hweXpoMVJIY1pJdGJXeE5oSzdEWmFXbkwweDRQVk9jTEVrQy1wUTVBU2RTVkJtcFFOcTdhTk91dWU0eUd0eWc3b1ZCa0MtcjBqT2wzWXZQMlQ0SWltYlc2TUgyMVVtcTJJS0RfMUR2UnZsajc5Y0xncDV1TUxvb2xGbEVET1V6Nlg3akpld1NxSHQzNEltLTBVYXJvUVE1UW1yTWlrc0dkVWdKd3BqYW1uMUI2NTV5eFBCM3g1Z1I4cW02UWZSdDFxbXlR?oc=5
+
+- Why a new Pakistan-China border pact has irked India - bbc.com
+  Why a new Pakistan-China border
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDaE9lR01JYURhcnBDS3ZTdzl0QklYR2Q0bXplZlk1V0Zma19tTVZGWXJtQ0pkVmI0VlhXbnNWNy1fMnVkcGh1a3M2eUpGWjdKTENMRW10RlhmZ0U?oc=5
+
+- CCTV Footage Shows Moment Telangana Neurosurgeon's Car Hit Divider, Burst Into Flames - NDTV
+  CCTV Footage Shows Moment Telangana Neuro
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlRvQlR1LS15UWVwOGZTSjVqWU1kLVRxTEd3RXlkbklzQy1fRWc3R0U4b3BmcC1TRXhQVmRvbFd2TEZoTlZ5SFg1cWpkT3NUM0dsQWhSbUZpM2drckp1RW1OdTlOQTZTNEptUFNlTWdZTHdPTl9rekZNRGZrWHl4d2hHengtMEZnY2xtXzczMHFrUTV3MlB4VUgzQ3hRWjNBeXpYb0VqNE5INmV6RWY3bUxZOUM0cnpSU29wU0N0VHBuUdIBygFBVV95cUxOckNVTmxIZklTeFhBOVNueWlfUWU1cXQyNE1LenJVV0FmSi1wblZHaUFmYVBWSHNRbEFPUjdsMUNmWmxuZ2M5ZDlSek5IOHFGcHNaNmZCX0c4ZHpvTTZHR3lqTE5zZFVWQkg1aUxpVzducWhxN29lalVkNjRGMjg2cmZRcUVvbVFsVklhNDF6dUZ6MFB3RVlnWDFxZ1RqRFpyZHRHTEx6T3JYWEo4T1ROSmFtWGtKRU1kRTJicFh3R1BFSHB2bnc1d2xR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-20 20:13:30 UTC_
+_Last updated: 2026-09-21 02:56:51 UTC_
