@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Made In India, Sold To China: What's Behind 40% Surge In Electronics Exports - NDTV
-  Made In India, Sold To China: What's Behind
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnpZZTRSbjcwVjRWSFNOTXRNUDktY0dMY0E5N3RzcmY3QkYwZHEyajV4Q0NZRktVS19ITXdwT3BrU2t5WFZ0RDhLMmhzWlNDTkZVT2xKdXZyT1Q5UnNjaEpSbTlZdHk2V0t6c3d3emZOOGNIcWFVczJwaFlDalVDa0gtdm1FTGs3eDY4RFB2enZtQW9vbHc2bE9oUjI2cDdQeDJZ0gGrAUFVX3lxTE9nWk5WdGNDUnNSWXZrRUNPQ1VDNEJRbVdVYzVNU3hnN1M1Q18xNkRkWGVHYzNZaXdhcWNuLXVFTTgtN1ZmUThOSWM2SjVoTk4xYUxhUWNhVnZIbV9SdlZXTjVMb0tGejVNQ1p5TWNLQmZCU1NUMWE1dXZKMnhsSXAtWW1Kcm15VVh6RDd5MzJHdDBSczNpZEFtRjNlQ2pQTEc4Y3ptdndIdDFyNA?oc=5
-
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
   "Dead Economy": Annamalai M
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+
+- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
+  Why the legality of the Japan-India wide
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
+
+- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
+  Bihar molestation case: India outrage after assault of teen girl
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
 
 - Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
   Packed schedule for Jaishankar at UN as India
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
 
-- Pakistan must take credible action on crossborder terror before world believes it: MEA - The Times of India
-  Pakistan must take credible action on crossborder terror before world believes it:
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTGtncXF4dXVBN1gweF9QZkUtWU52XzF6aVAwUktSZUcweUZRcC0wU2dSWXVWZWZXSFZlS015QW5weVBwQWxRakg1c3JkbFNLcEpuNHA3RVNyWTROdXJONnhXS1hRZWRudXRFbGdxMWMwOVMwV2Rod0UzTEF2M0VQQ0t0NFRWXzU2YVVGRElpSDIxbnNCUFMtU0ZNYzVQNVB1SFhuaHA3VnBBc1NjQUpRbnNHU0ItUGR3VEtwaHhGY1NUVkdhLVNGeDZoQV9sRVBvVzFlVUVWeXE1YjFDWkRHT0FzOUVWZXBM0gHuAUFVX3lxTE9aaDF4bzZkc3VaQXNheV9LcDR5U3Q3eDZEdFctZnBwWnEzdTZyc0l3ZlloZkI3TE4tWm56dXJUY3BiX3hpdVBaMjVRTjVSNXZZMFdQWVpKSTBoUFdMSnRXb3IxdlJjSVZpLUllbEJONGF1NHNDT3E3aHpPc0EwUy14Tk9IRUx6aUF5X0lObUlYNGdOUjhNRV9hTlduS0doUldJME5XcW1sY3hSTE4yc3lEMm1FN1EwbE53OFZyRHJaN2FtZzZWb0I1Wi04Zy01cmpUcTFXY0JKc3c3OVJCUlFNaUpUdWZyREI4OHpvYWc?oc=5
+- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
+  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
 
-- At UNGA, Trump reiterates he ended India-Pakistan war: ‘Shehbaz thanked me for saving 30 million lives’ | India News - Hindustan Times
-  At UNGA, Trump reiterates he ended India-Pakistan war: ‘Sheh
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb1NCTkR3cmhSRGhJUzZnd0dkNmNGRXpodkVFbmcxY2lpS0NlRVdqaUZXcWVGQjNWZFFoTUNzZlVldUxJSU1nT1FHVWlkLVRrMjk3Y3llRDNWR0FmNHV6SDZJT2hrZ3FOYTJOOW82QmhzbGUwQnh3X2pLdE1ibGZnUF93cFgzOTZOMzNJeDVIcXFYejRuakpRcXIxdVh2STJ6aFNOa3Nid1ZsZUp0VVlyVGNOVEl2c2VNY2hfSmxEQXhySGF2ZzVkRExINUNoeF9BeUkwR3RWclNzd1hSRDd4TFAzYmFYcHhEb2ZhUk9ZN2h6d9IB9wFBVV95cUxOVkJEVHhURGJUNWZhTmtyZ0hzUlU0OEFVejNtZDFjekRGUmpZNWI3QjJjelpwZWRCZlZxckRoMDJfaURFdEJLQ3BubHh4OTZONlZKYTJDMHdHSF80WEh2MmFwT2ZVQjc1UTR6WW1jT3hnMk41bmFzVkV1MHRMTm1jTnFUUlBESFBQcXFabnNadkpLczg5VkNsZVJKdzZYWUZzbW84WGc0OVFnUTZ3cG45VnVvZ3dyZ2cwRWp1UGRGbVkwTzlxaS1tdmRsV0toMWwxSHZuMjZOYnZlTEdpUC1CdWkxRXJLN2d5NmFoM1FadWNhMTNvLXZB?oc=5
+- Don’t be fooled by this summer of AI hype - MIT Technology Review
+  Don't be fooled by this summer of AI
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOalMwd0FqRGVxX01sTWdkVXpUOFF1ZDN0dWpIaXNHRFlzYTVZSFdpcVlVRzY3XzV6ZWctZmk3LVM3b0o0dFJpdldJQ0l2a1ZaUldLcUo5NzV0SXpnajYtbDctYTFVenJRM2xFb0hsWm5wbG1xUzRDczNhbTJDaVVRdnQ5Z0tTNmI5MXfSAY8BQVVfeXFMT2xqNWpqRWsxS2d5b3dXTk13SFJnS0tSdDhoNmM5VlZObmpIcXd1bjNuWERhVS04TS1iM3NyWUF2czZfbjRkTXB5MkI4aU92WEI3QU5HSm4zMTZOOTdWYmJTWWhtNF93S2xndmo0MUhmUkNjSjVjVDBmMHFUT240UW84bkNNeUo2N0JSdUp2b00?oc=5
 
 - Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them? - The Guardian
   Using AI to ‘talk to animals’ might make us feel clever – but what, if
   🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3VTdGE4dmMwUC1vUDZnUTNvUjlLX2ZTWFZfNEN2eWk2eW1VQ0lRRHNxWXBYbW9lcHhRdl9kS08xNEE0MHVWZS04M2ZuZktYQVM2YUh1RmVMYjQ0MkJDdDdfNHloNlJfM2s4S0RjVldHbW03cFB2eVRXNFNoc081ZzdfTGpVbkdnWHpSVFd4eTdubm9YUjBSTjdiVQ?oc=5
 
+- Brad Carson on Oversight of AI Technology - C-SPAN
+  Brad Carson on Oversight of
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWVCZ1YtSENHY2tjYmdmUFpQdlFTaFpVZFF4TnpmblJfZzJELWpRakFMajJ3RXRid21xZHBOdEVhNGlHdnhya2luUWtpLWF6X1lDdGNhckpsMTZERThobnhPQzcyVUlod2xTTndGR1JIdjk3Ym9PdnhuNGo2ZkNfMTR3V2dOZWFXY0ZuRWp1cHVNT1ZOdU9UN3VJRWlQbkU?oc=5
+
+- Microchip Technology Completes Acquisition of Hailo - Microchip Technology
+  Microchip Technology Comple
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPV183NnJTTFZncXliZkN1VTRQdnlxYko1R0dZTmRYR1V6SlBQbzZvemYtZ0QzYnhLSGhheUJJQWpHM3JqWVJnUkZia3NfblgxVThtaFo0WHM3elM3VGV2Vmc0SFZQSXA4WDV4R2c0TUItMDd0YVMtVkRVckp5YkxLdjIzd001ellQMG5hSXBfUVh4ekNiWmxIMUdydlNmNHJjcERHUHV4OF8zUEMwcnVxVDdlOG5QQQ?oc=5
+
 - Starbucks Technology to open new hub in Chennai, India - Starbucks
   Starbucks Technology to open new hub
   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5
 
-- Why India’s Technology Pioneers Sit on Sai University’s Board, and the Significance of N. Chandrasekaran’s Honorary Doctorate - TheWire.in
-  N. Chandrasekaran was awarded an Honorary Doctorate by Sai
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd3FZbGc5Yk1lN1BZS1Y5cVBrdmdMbEhmRFQ2YUJnM2FtWEJtWTFGWmU3ZWNYNUtKcXhjWm5WY2ZYdjBqNk1Ia09LRHkwLUZtQTFrcTFOaHRwS0hkZEFQejRhQVM3NHpTS0RJQmc2Wng4dVNmdjljUmd0WDNzbVFPMmlYb0hYWHkwdlZpUjk5bHdyWnFCWHY4dmV3akJhd2xkR2xqamczZGdFdXBINlVRd18wb0VzZW5aVzZnbDdoN3RwQ3lyUFZscnpQaTI1NzUtb1pjMllVU0sxaHhPc1o0TFRfMWVabEdvVmNxR2ZFWHPSAfYBQVVfeXFMTkRQWVJhQ3dYSjdBYWtSd0UzaFhUaUVzMGpPdlhVWXIzTElVRExkQVJkckt2QzB5c1lKRFJ2OUQ0R2JOLTYzWkJTWVIyR2NxQXhFaHo2bF8zbjVjVmNjNGJsd2duMGo0ZXZBdnN0SHQ4dmw0NjVUS3Z2Ylhid09OOHFHcmlCSlJVYjMwbWZhUXhXcUVOeGFPY3F4VUlwM1ZTT3BEZGg1eWtpcmw3UUR2ZDZ4cFQtdWtKLVBianI5RGFIa3lSVkhlWE1FbTl4S2Z5ZjJMZFJFdWFhWVBLNDVRQVYwQzRNYUVVcjBFaXlpd1JFM2s0SjlR?oc=5
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
+  "Dead Economy": Annamalai M
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
 
-- Why the global panic over AI is not a crisis over technology - The Times of India
-  Why the global panic over AI is not a crisis over technology.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGxPYzRxYUc4MzZoY0FGRlFHZmpQNWxSTEZUQjMtbTJ3d2FmTy1iRjZ0Q3YzY0RjZFZBVnd5NjFXQVVqMHlyTTZBck1CSUtBWnI3djVKcnVVb0xsWUhpVjRVTDJueVI2OEE1anJBQ2lqb1FHb09rWkhIUDBiTWxzbzFkN0hwT05naFloRF9CcmdGVXM2VTI3UUphaVJPcFdJYW1wanJfU3J1cGNaUWNaR3BRTHJNRFZRV1Rvc2x4a3NXRVFwRF9ONTRQS2VDWnZHSkpqeERtRjRXQdIB3wFBVV95cUxPcXYzR3k1ZEVDX3hiWlRYZUY5bjlaWDQ5NDNXcEJzS3NMMThnbmNQUmFVUWZubUp2blkxaUZxc2JjNEZRWDVyQ19RbFEwNkgybjFzdVpkcHptdVJzclBDbG1SaXZadmYtaUJiM2pEcE8yN0RiQjByLXZvUDl4WDI2OVItNkxTdDJVTnZ0ZEJoTzI2Nk1RNTRGX21NMElKM0YweE5tLU9LcVJwWkFWbEV6UVBpc1cwbk9OdkVZcDNnUFFhNkIwVWt1akQ1enFIRmgtVzl2MEtkbE9Xd0QxZHFJ?oc=5
+- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
+  Why the legality of the Japan-India wide
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
 
-- Gorilla Technology Group at Water Tower Research Virtual Insights Conference: AI push - Investing.com India
-  Gorilla Technology Group at Water Tower Research Virtual Ins
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOF9hbUFkSW9WZDlGUkU0b2hmQmFoa29YZVZjeWQtRk5idzJxbXBLdjFhZjEwOUk1eEJsWUZmd3MzVHY3aG1CVXh1TTh3c3RNYVNuRk9CV29nSjJCU2FhY3hHZmpJbU9leWhQSlJMaFZHREVhNHpGZjFYNkZldjk0Mk5CbVhySVBNWERhcGZyVEkyQUhpaFZKd3hYTjFWNTlRRWNVV1ZZLTBzcmFfWFpJM3ZOR0tVZEE1Mzg3REROcTljdGhiMGEwVU1wenNPSlgyOGNKWExLV3FVaGFPQWc?oc=5
+- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
+  Bihar molestation case: India outrage after assault of teen girl
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
 
-- CCI clears L’Oréal India's acquisition of Bare Anatomy maker Innovist: All you need to know
-  As part of the proposed transaction, Innovist’s founding team will remain responsible for running the business
-  🔗 https://www.livemint.com/companies/news/cci-clears-l-or-al-indias-acquisition-of-bare-anatomy-maker-innovist-all-you-need-to-know-11790081555179.html
+- Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
+  Packed schedule for Jaishankar at UN as India
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
 
-- Kylian Mbappe dumps Nike after 20 years for On: Football star gets equity, not just endorsement cheque; check details
-  Nike had been with Kylian Mbappe since 2006, when he was still a child. He chose not to renew once that deal expired this summer. On has confirmed the contract is
-  🔗 https://www.livemint.com/companies/news/kylian-mbappe-dumps-nike-after-20-years-for-on-football-star-gets-equity-not-just-endorsement-cheque-check-details-11790085380175.html
+- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
+  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
 
-- Chandrasekaran family's TVS link surfaces as Srinivasan judges his term
-  Family members of Tata Sons chairman N Chandrasekaran hold business relations with TVS Motor Co. Ltd. Venu Srinivasan, who recently
-  🔗 https://www.livemint.com/companies/news/tat-sons-chandrasekaran-family-tvs-link-went-undisclosed-venu-srinivasan-judged-his-term-11790084628035.html
+- Nasdaq climbs to fresh all-time high; S&P 500 is little changed as traders monitor Middle East tensions: Live updates - CNBC
+  Nasdaq climbs to fresh all-time high; S&amp;P 500
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBRd2pYcnJRNEl1Q2pSVC1KRGh6anprbmd3eEtVUU52amNUY29wWFJyR0dWYkxnZ2Q1ZDUtZnFMVl9XNmZVVFNoS2lUSll5X25Ha1hka1ZYQUVKUTQ4Qm1ib0NzSEhPX3c2Y1czV0xGSzlKZWhBZkcw0gF8QVVfeXFMT2xqbHVMN21IMHgtZGp3VFRGajI2cTZfemNnUTZhcDNQWVZnMlg4T1c0QWMyNjRHdjZGa3o5VjhxUHRhUlBtUkVZQ2I5ZzRUREYxRlZ1NjVHSTRhZS1wNXlybTM2QWt0cjZud0h6R0R3VlZDNjNVdVFydFA1dw?oc=5
 
-- ‘I raised funding’ is new ‘I got placed’: How Shark Tank is changing B-school ambitions | Masters' Union Gurugram story
-  The Gurugram-based business school said 22% of its 2026 cohort chose to pursue entrepreneurship instead of taking
-  🔗 https://www.livemint.com/companies/news/i-raised-funding-is-new-i-got-placed-how-shark-tank-is-changing-b-school-ambitions-masters-union-gurugram-story-11790084576284.html
+- Stocks, Bonds Climb as Oil Falls on US-Iran Hopes: Markets Wrap - Bloomberg.com
+  Stocks, Bonds Climb as Oil Falls
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONWk0czlDZlZ6UFZXeFRWaEtxd3J5Z295dlFNOTJKelkxcE1jVEJWWU0tMl9nRUo5RmNHNUhodFdwWGVKNjJYREQ1Y3B2d1JnT2RZSTVOMnNXbU93MWNWN2doM05LSUgzVWd0NU93MldhRUduSEJaX1BqdmxuMzFGZmNEYm1GbmEyWFctalFDU2RuSVhYUzhWQTdmSnFtR1Y5WXdJZjhLaUplaVFubXRfWlJR?oc=5
 
-- Meet Africa’s richest person: Here is why he has hired Engineers India for a  ₹4,302 crore project
-  Aliko Dangote, Africa's richest person, is building a new $450 million refinery
-  🔗 https://www.livemint.com/companies/news/meet-africa-s-richest-person-here-is-why-he-has-hired-engineers-india-for-a-4-302-crore-project-11790085349235.html
+- Stock Market News, Sept. 21, 2026: Nasdaq Rises to Record as Oil-Price Drop Unlocks Rally - WSJ
+  The WSJ looks at the future of the stock market. The
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNam9GTktGNDJ3TmRkQW9Fbk51TWJadS1aVnNEYUwydEgwb0NCLVQ2NHJjQ19aTUloUVJWSk9wVklRcmxhMVFBTDFCV2RQRHFNRy1RNVFMcHM4T2wxVjB5dlVjMGZmdXBkTmNVNFZxb0NpRTg1aGFEeWx3amk2MndtVTRIQVpKaVk?oc=5
 
-- Why NSE IPO became India's 2nd-largest, not biggest: MD-CEO Ashishkumar Chauhan explains | Exclusive
-  The National Stock Exchange's IPO, initially projected as India's largest, concluded at  $22,562 crore. Despite this, demand was substantial,
-  🔗 https://www.livemint.com/market/stock-market-news/why-nse-ipo-became-indias-2nd-largest-not-biggest-md-ceo-ashishkumar-chauhan-explains-exclusive-11790085447077.html
+- Data centres are straining the insurance market - The Economist
+  Data centres are straining the
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDdNODNCOE1CQ1Z1NlV1WkJYT2VpM1lmZnNrVEVMN0J0WXRIVTlpV2RIOUdRMlo2WWMzUHM5aTFCY19ud29RX3FHX0lPZUNpZWZsOHVIMFJSVlIxTFZETkFQUnpVYlNSSDJyamZMSmNzQXFYQjgxejhNUkNyREViXzc1dk1iMjItNjhHbEFCQmdZQV84QWJidS1FOXktT3VkTmljVk9rY0lNUQ?oc=5
 
-- Top breakout stocks to buy tomorrow: Swiggy, Welspun, Finolex, Vishal Mega Mart, Carborundum by Sumeet Bagadia | Targets
-  Stocks like Swiggy and Finolex Cables show strong bullish structures. Sumeet Bagadia of Choice Broking identifies five key stocks for investors
-  🔗 https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-swiggy-welspun-finolex-vishal-mega-mart-carborundum-by-sumeet-bagadia-targets-11790089705944.html
+- SEBI says Adani firms paid 15 million rupees to settle disclosure violations - Reuters
+  SEBI says Adani firms paid 15 million ru
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUhDaEhyeUU5NDlpRVJ4TTZBWmZZSkZkOGR5elpHN3pLU0lFbGxHVzJkdDlnTFRIbHBSOGJCVl9STXZ2d0QtQ1FwSWFSeUFZZHBfWEFsM3FZeUt0eG1rdER5d1d3SDB2TzFSLXVjeXFyTjFaYmNKTS0yYUFjbTI4Wm1yQlBDbEw4R0RQVEpTV1ZhTkxIeDhMLTJIVGJGU3N3dGJoTng2U19JM0tWbDNvMEt3cXJmV2xOQ2lxMDlYQmo?oc=5
 
-- Binance invests $100 million in Circle, signs five-year USDC deal
-  Binance investing $100 million in Circle. Deal aims to expand USDC usage, which has around $75 billion in circulation.
-  🔗 https://www.livemint.com/market/stock-market-news/binance-invests-100-million-in-circle-signs-five-year-usdc-deal-11790087542601.html
-
-- Top stocks in focus tomorrow: Investors must watch HCL Tech, Persistent, Adani Group shares on Wed, 23 Sept | Triggers
-  Indian investors are set to monitor key companies on September 23. SUGS Lloyd, HCL Technologies
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-hcl-tech-persistent-systems-shares-on-wed-23-sept-triggers-11790085181173.html
-
-- Wall Street mixed as oil prices retreat on hopes of US-Iran breakthrough
-  The S&amp;amp;P 500 was virtually unchanged, the Dow Jones Industrial Average was down 0
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-extends-gains-as-oil-prices-retreat-on-hopes-of-us-iran-breakthrough-11790085064437.html
+- Microsoft to give DARPA hands-on access to quantum system at new Maryland site
+  Microsoft to give DARPA hands-on access
+  🔗 https://www.livemint.com/technology/microsoft-to-give-darpa-hands-on-access-to-quantum-system-at-new-maryland-site-11790107251937.html
 
 - Googlebook laptops launched with Gemini AI, OLED display and Android app support: Check price and features
   Googlebook is a new laptop category designed around Gemini Intelligence and Android connectivity. The laptops offer features such as Magic Pointer, Rambler, Cast My Apps, native Android apps and up
@@ -96,29 +100,29 @@
   Chinese technology giant Alibaba Group on Tuesday launched a new artificial intelligence (AI) chip. It described the chip as “the most powerful AI chip in China,”
   🔗 https://www.livemint.com/technology/alibaba-launches-new-ai-chip-ceo-eddie-wu-calls-it-most-powerful-in-china-expansion-plans-ahead-11790058162539.html
 
-- ERP at ‘structural inflection point’ as AI shifts focus to workflow execution: Report
-  Artificial intelligence (AI) will likely widen the gap between execution-focused platforms and traditional application vendors. Next enterprise resource planning (ERP) cycle likely to favour companies that can translate AI-driven intelligence
-  🔗 https://www.livemint.com/technology/erp-at-structural-inflection-point-as-ai-shifts-focus-to-workflow-execution-report-11790053861990.html
-
-- Stock futures are little changed after S&P 500 posts best day since early August: Live updates - cnbc.com
-  Stock futures are little changed after S&amp;P 500 posts best day since early August: Live updates. Oil Sinks Below $100 — Live Updates.
+- Nasdaq climbs to fresh all-time high; S&P 500 is little changed as traders monitor Middle East tensions: Live updates - CNBC
+  Nasdaq climbs to fresh all-time high; S&amp;P 500
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBRd2pYcnJRNEl1Q2pSVC1KRGh6anprbmd3eEtVUU52amNUY29wWFJyR0dWYkxnZ2Q1ZDUtZnFMVl9XNmZVVFNoS2lUSll5X25Ha1hka1ZYQUVKUTQ4Qm1ib0NzSEhPX3c2Y1czV0xGSzlKZWhBZkcw0gF8QVVfeXFMT2xqbHVMN21IMHgtZGp3VFRGajI2cTZfemNnUTZhcDNQWVZnMlg4T1c0QWMyNjRHdjZGa3o5VjhxUHRhUlBtUkVZQ2I5ZzRUREYxRlZ1NjVHSTRhZS1wNXlybTM2QWt0cjZud0h6R0R3VlZDNjNVdVFydFA1dw?oc=5
 
-- World’s biggest derivatives exchange finally set for $46bn market debut - Financial Times
-  World’s biggest derivatives exchange finally set
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWxqMjFRWUtaaXRYVS1IOUZkNGRYSFVXM0YyQU9GUURPRXQwU3ZQdU5qYUpmdnQ1Um1sd01TMHFSRThIczZ2QVZWb3RWNC1UMnJzTFFjTmViMkFybW14MU5TRUkweTY1SXZtaFhJc1BUMnJBa05XWkNVVjFYMzhmYk5rd0s?oc=5
+- Stocks, Bonds Climb as Oil Falls on US-Iran Hopes: Markets Wrap - Bloomberg.com
+  Stocks, Bonds Climb as Oil Falls
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONWk0czlDZlZ6UFZXeFRWaEtxd3J5Z295dlFNOTJKelkxcE1jVEJWWU0tMl9nRUo5RmNHNUhodFdwWGVKNjJYREQ1Y3B2d1JnT2RZSTVOMnNXbU93MWNWN2doM05LSUgzVWd0NU93MldhRUduSEJaX1BqdmxuMzFGZmNEYm1GbmEyWFctalFDU2RuSVhYUzhWQTdmSnFtR1Y5WXdJZjhLaUplaVFubXRfWlJR?oc=5
 
-- Market for Disagreement and Road Rage in Kerala - Centre for Public Policy Research (CPPR)
-  Market for Disagreement and Road Rage in Kerala.
-  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE54Yjl2U1VZMnhrajVLUkUzWDFmWmxmUlJvVWZUZFJiLXN1d1NERGs1RUppMTdZOGxia21QVUZySWJia2pmVGF3cExtREtfN28xUHJwS2tyMm1qQ1VXZmU0cXRLTnlIUEV2NUpDX0xMa0VsaFE?oc=5
+- Stock Market News, Sept. 21, 2026: Nasdaq Rises to Record as Oil-Price Drop Unlocks Rally - WSJ
+  The WSJ looks at the future of the stock market. The
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNam9GTktGNDJ3TmRkQW9Fbk51TWJadS1aVnNEYUwydEgwb0NCLVQ2NHJjQ19aTUloUVJWSk9wVklRcmxhMVFBTDFCV2RQRHFNRy1RNVFMcHM4T2wxVjB5dlVjMGZmdXBkTmNVNFZxb0NpRTg1aGFEeWx3amk2MndtVTRIQVpKaVk?oc=5
 
-- Daily Sugar Market Update By Vizzie – 22/09/2026 - ChiniMandi
-  Daily Sugar Market Update By V
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE1TRzBWbG5QSnhSR0t0U0xTSjlidlhtdGJPeG11cnQ0WW50WU1RRWhmUTkxN0pxSGNpZ0I1eDZ4aUhRekhYT0xReVhwRmhZZDBlXzVEaTVrdldmS1pSWE5WWFlPeUVvTC1LYU5qd2N3eGhlOWl3MnBmcFZBbnh3U3c?oc=5
+- Data centres are straining the insurance market - The Economist
+  Data centres are straining the
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDdNODNCOE1CQ1Z1NlV1WkJYT2VpM1lmZnNrVEVMN0J0WXRIVTlpV2RIOUdRMlo2WWMzUHM5aTFCY19ud29RX3FHX0lPZUNpZWZsOHVIMFJSVlIxTFZETkFQUnpVYlNSSDJyamZMSmNzQXFYQjgxejhNUkNyREViXzc1dk1iMjItNjhHbEFCQmdZQV84QWJidS1FOXktT3VkTmljVk9rY0lNUQ?oc=5
 
-- UFlex Egypt plant: UFlex Asepto’s Egypt Bet: 12 Billion Packs, Global Markets - The Economic Times Video | ET Tv - The Economic Times
-  UFlex Egypt plant: UFlex Asepto’s Egypt Bet: 12
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOa1k4V0JwUkpmWG1tN0Zwa0xseDhQb25hQUY1c3pQQWJPM0lCWE9nWUhqeWM3ZXlXbEdla0dta1hTS000TEhBakx1UHJna0RRdGR4UlFsV290SE5lRXRWRS1UQ0hLdUpiX2N5eFFjX05YdzExdlZCQWRTVXNwcDVXZ0k0ZXlWMWRqX3BTVTY2dS1rRWFzc05RRjhNUlBqVUJnQXZBdnYtWmktdnlOMmU4Z1JhYUhUSnN1S2V4bTU5MEFjUmdGYzBB?oc=5
+- SEBI says Adani firms paid 15 million rupees to settle disclosure violations - Reuters
+  SEBI says Adani firms paid 15 million ru
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUhDaEhyeUU5NDlpRVJ4TTZBWmZZSkZkOGR5elpHN3pLU0lFbGxHVzJkdDlnTFRIbHBSOGJCVl9STXZ2d0QtQ1FwSWFSeUFZZHBfWEFsM3FZeUt0eG1rdER5d1d3SDB2TzFSLXVjeXFyTjFaYmNKTS0yYUFjbTI4Wm1yQlBDbEw4R0RQVEpTV1ZhTkxIeDhMLTJIVGJGU3N3dGJoTng2U19JM0tWbDNvMEt3cXJmV2xOQ2lxMDlYQmo?oc=5
+
+- US economy firming as inflation risks persist, says Richmond Fed’s Tom Barkin
+  The Federal Reserve raised interest rates last week to address rising price pressures. The US economy demonstrates resilience with strong consumer spending and growth beyond technology sectors. Various sectors, including defense and manufacturing, are experiencing positive developments.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-economy-firming-as-inflation-risks-persist-says-richmond-feds-tom-barkin/articleshow/134418821.cms
 
 - Ahead of Market: 10 things that will decide stock market action on Wednesday
   Sensex falls 330 points and Nifty closes lower after sharp volatility during the closing auction session. F&amp;O expiry, foreign outflows, geopolitical uncertainty, IT
@@ -136,29 +140,25 @@
   Falling crude oil prices and Brent slipping below $100 a barrel helped Indian markets recover from intraday lows. Analysts highlighted BlueStone Jewellery, JSW Infrastructure and Fin
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-finolex-cables-among-3-stock-recommendations-for-wednesday/slideshow/134415805.cms
 
-- RHI Magnesita block deal: Dalmia Bharat refractories divests 11.11% stake for Rs 826 crore; SBI MF, Bandhan MF among buyers
-  Dalmia Bharat Refractories sold 2.29 crore RHI Magnesita India shares, or 11.11% of equity. SBI Mutual Fund led
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rhi-magnesita-block-deal-dalmia-bharat-refractories-divests-11-11-stake-for-rs-826-crore-sbi-mf-bandhan-mf-among-buyers/articleshow/134415677.cms
-
-- Made In India, Sold To China: What's Behind 40% Surge In Electronics Exports - NDTV
-  Made In India, Sold To China: What's Behind
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnpZZTRSbjcwVjRWSFNOTXRNUDktY0dMY0E5N3RzcmY3QkYwZHEyajV4Q0NZRktVS19ITXdwT3BrU2t5WFZ0RDhLMmhzWlNDTkZVT2xKdXZyT1Q5UnNjaEpSbTlZdHk2V0t6c3d3emZOOGNIcWFVczJwaFlDalVDa0gtdm1FTGs3eDY4RFB2enZtQW9vbHc2bE9oUjI2cDdQeDJZ0gGrAUFVX3lxTE9nWk5WdGNDUnNSWXZrRUNPQ1VDNEJRbVdVYzVNU3hnN1M1Q18xNkRkWGVHYzNZaXdhcWNuLXVFTTgtN1ZmUThOSWM2SjVoTk4xYUxhUWNhVnZIbV9SdlZXTjVMb0tGejVNQ1p5TWNLQmZCU1NUMWE1dXZKMnhsSXAtWW1Kcm15VVh6RDd5MzJHdDBSczNpZEFtRjNlQ2pQTEc4Y3ptdndIdDFyNA?oc=5
-
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
   "Dead Economy": Annamalai M
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+
+- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
+  Why the legality of the Japan-India wide
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
+
+- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
+  Bihar molestation case: India outrage after assault of teen girl
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
 
 - Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
   Packed schedule for Jaishankar at UN as India
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
 
-- Pakistan must take credible action on crossborder terror before world believes it: MEA - The Times of India
-  Pakistan must take credible action on crossborder terror before world believes it:
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTGtncXF4dXVBN1gweF9QZkUtWU52XzF6aVAwUktSZUcweUZRcC0wU2dSWXVWZWZXSFZlS015QW5weVBwQWxRakg1c3JkbFNLcEpuNHA3RVNyWTROdXJONnhXS1hRZWRudXRFbGdxMWMwOVMwV2Rod0UzTEF2M0VQQ0t0NFRWXzU2YVVGRElpSDIxbnNCUFMtU0ZNYzVQNVB1SFhuaHA3VnBBc1NjQUpRbnNHU0ItUGR3VEtwaHhGY1NUVkdhLVNGeDZoQV9sRVBvVzFlVUVWeXE1YjFDWkRHT0FzOUVWZXBM0gHuAUFVX3lxTE9aaDF4bzZkc3VaQXNheV9LcDR5U3Q3eDZEdFctZnBwWnEzdTZyc0l3ZlloZkI3TE4tWm56dXJUY3BiX3hpdVBaMjVRTjVSNXZZMFdQWVpKSTBoUFdMSnRXb3IxdlJjSVZpLUllbEJONGF1NHNDT3E3aHpPc0EwUy14Tk9IRUx6aUF5X0lObUlYNGdOUjhNRV9hTlduS0doUldJME5XcW1sY3hSTE4yc3lEMm1FN1EwbE53OFZyRHJaN2FtZzZWb0I1Wi04Zy01cmpUcTFXY0JKc3c3OVJCUlFNaUpUdWZyREI4OHpvYWc?oc=5
-
-- At UNGA, Trump reiterates he ended India-Pakistan war: ‘Shehbaz thanked me for saving 30 million lives’ | India News - Hindustan Times
-  At UNGA, Trump reiterates he ended India-Pakistan war: ‘Sheh
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb1NCTkR3cmhSRGhJUzZnd0dkNmNGRXpodkVFbmcxY2lpS0NlRVdqaUZXcWVGQjNWZFFoTUNzZlVldUxJSU1nT1FHVWlkLVRrMjk3Y3llRDNWR0FmNHV6SDZJT2hrZ3FOYTJOOW82QmhzbGUwQnh3X2pLdE1ibGZnUF93cFgzOTZOMzNJeDVIcXFYejRuakpRcXIxdVh2STJ6aFNOa3Nid1ZsZUp0VVlyVGNOVEl2c2VNY2hfSmxEQXhySGF2ZzVkRExINUNoeF9BeUkwR3RWclNzd1hSRDd4TFAzYmFYcHhEb2ZhUk9ZN2h6d9IB9wFBVV95cUxOVkJEVHhURGJUNWZhTmtyZ0hzUlU0OEFVejNtZDFjekRGUmpZNWI3QjJjelpwZWRCZlZxckRoMDJfaURFdEJLQ3BubHh4OTZONlZKYTJDMHdHSF80WEh2MmFwT2ZVQjc1UTR6WW1jT3hnMk41bmFzVkV1MHRMTm1jTnFUUlBESFBQcXFabnNadkpLczg5VkNsZVJKdzZYWUZzbW84WGc0OVFnUTZ3cG45VnVvZ3dyZ2cwRWp1UGRGbVkwTzlxaS1tdmRsV0toMWwxSHZuMjZOYnZlTEdpUC1CdWkxRXJLN2d5NmFoM1FadWNhMTNvLXZB?oc=5
+- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
+  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
 
 - Mastercard Exits Pine Labs Via ₹934 Cr Bulk Deal
   Mastercard has exited the company by selling its entire 4.31% stake through a bulk deal.
@@ -180,73 +180,85 @@
   Walmart-backed PhonePe has received in-principle approval from the Central Bank of the UAE (CBUAE) for two payment licences.
   🔗 https://inc42.com/buzz/ipo-bound-phonepe-secures-in-principle-nod-for-uae-payments-business/
 
-- Made In India, Sold To China: What's Behind 40% Surge In Electronics Exports - NDTV
-  Made In India, Sold To China: What's Behind
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnpZZTRSbjcwVjRWSFNOTXRNUDktY0dMY0E5N3RzcmY3QkYwZHEyajV4Q0NZRktVS19ITXdwT3BrU2t5WFZ0RDhLMmhzWlNDTkZVT2xKdXZyT1Q5UnNjaEpSbTlZdHk2V0t6c3d3emZOOGNIcWFVczJwaFlDalVDa0gtdm1FTGs3eDY4RFB2enZtQW9vbHc2bE9oUjI2cDdQeDJZ0gGrAUFVX3lxTE9nWk5WdGNDUnNSWXZrRUNPQ1VDNEJRbVdVYzVNU3hnN1M1Q18xNkRkWGVHYzNZaXdhcWNuLXVFTTgtN1ZmUThOSWM2SjVoTk4xYUxhUWNhVnZIbV9SdlZXTjVMb0tGejVNQ1p5TWNLQmZCU1NUMWE1dXZKMnhsSXAtWW1Kcm15VVh6RDd5MzJHdDBSczNpZEFtRjNlQ2pQTEc4Y3ptdndIdDFyNA?oc=5
-
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
   "Dead Economy": Annamalai M
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+
+- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
+  Why the legality of the Japan-India wide
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
+
+- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
+  Bihar molestation case: India outrage after assault of teen girl
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
 
 - Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
   Packed schedule for Jaishankar at UN as India
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
 
-- Pakistan must take credible action on crossborder terror before world believes it: MEA - The Times of India
-  Pakistan must take credible action on crossborder terror before world believes it:
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTGtncXF4dXVBN1gweF9QZkUtWU52XzF6aVAwUktSZUcweUZRcC0wU2dSWXVWZWZXSFZlS015QW5weVBwQWxRakg1c3JkbFNLcEpuNHA3RVNyWTROdXJONnhXS1hRZWRudXRFbGdxMWMwOVMwV2Rod0UzTEF2M0VQQ0t0NFRWXzU2YVVGRElpSDIxbnNCUFMtU0ZNYzVQNVB1SFhuaHA3VnBBc1NjQUpRbnNHU0ItUGR3VEtwaHhGY1NUVkdhLVNGeDZoQV9sRVBvVzFlVUVWeXE1YjFDWkRHT0FzOUVWZXBM0gHuAUFVX3lxTE9aaDF4bzZkc3VaQXNheV9LcDR5U3Q3eDZEdFctZnBwWnEzdTZyc0l3ZlloZkI3TE4tWm56dXJUY3BiX3hpdVBaMjVRTjVSNXZZMFdQWVpKSTBoUFdMSnRXb3IxdlJjSVZpLUllbEJONGF1NHNDT3E3aHpPc0EwUy14Tk9IRUx6aUF5X0lObUlYNGdOUjhNRV9hTlduS0doUldJME5XcW1sY3hSTE4yc3lEMm1FN1EwbE53OFZyRHJaN2FtZzZWb0I1Wi04Zy01cmpUcTFXY0JKc3c3OVJCUlFNaUpUdWZyREI4OHpvYWc?oc=5
+- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
+  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
 
-- At UNGA, Trump reiterates he ended India-Pakistan war: ‘Shehbaz thanked me for saving 30 million lives’ | India News - Hindustan Times
-  At UNGA, Trump reiterates he ended India-Pakistan war: ‘Sheh
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb1NCTkR3cmhSRGhJUzZnd0dkNmNGRXpodkVFbmcxY2lpS0NlRVdqaUZXcWVGQjNWZFFoTUNzZlVldUxJSU1nT1FHVWlkLVRrMjk3Y3llRDNWR0FmNHV6SDZJT2hrZ3FOYTJOOW82QmhzbGUwQnh3X2pLdE1ibGZnUF93cFgzOTZOMzNJeDVIcXFYejRuakpRcXIxdVh2STJ6aFNOa3Nid1ZsZUp0VVlyVGNOVEl2c2VNY2hfSmxEQXhySGF2ZzVkRExINUNoeF9BeUkwR3RWclNzd1hSRDd4TFAzYmFYcHhEb2ZhUk9ZN2h6d9IB9wFBVV95cUxOVkJEVHhURGJUNWZhTmtyZ0hzUlU0OEFVejNtZDFjekRGUmpZNWI3QjJjelpwZWRCZlZxckRoMDJfaURFdEJLQ3BubHh4OTZONlZKYTJDMHdHSF80WEh2MmFwT2ZVQjc1UTR6WW1jT3hnMk41bmFzVkV1MHRMTm1jTnFUUlBESFBQcXFabnNadkpLczg5VkNsZVJKdzZYWUZzbW84WGc0OVFnUTZ3cG45VnVvZ3dyZ2cwRWp1UGRGbVkwTzlxaS1tdmRsV0toMWwxSHZuMjZOYnZlTEdpUC1CdWkxRXJLN2d5NmFoM1FadWNhMTNvLXZB?oc=5
-
-- Made In India, Sold To China: What's Behind 40% Surge In Electronics Exports - NDTV
-  Made In India, Sold To China: What's Behind
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnpZZTRSbjcwVjRWSFNOTXRNUDktY0dMY0E5N3RzcmY3QkYwZHEyajV4Q0NZRktVS19ITXdwT3BrU2t5WFZ0RDhLMmhzWlNDTkZVT2xKdXZyT1Q5UnNjaEpSbTlZdHk2V0t6c3d3emZOOGNIcWFVczJwaFlDalVDa0gtdm1FTGs3eDY4RFB2enZtQW9vbHc2bE9oUjI2cDdQeDJZ0gGrAUFVX3lxTE9nWk5WdGNDUnNSWXZrRUNPQ1VDNEJRbVdVYzVNU3hnN1M1Q18xNkRkWGVHYzNZaXdhcWNuLXVFTTgtN1ZmUThOSWM2SjVoTk4xYUxhUWNhVnZIbV9SdlZXTjVMb0tGejVNQ1p5TWNLQmZCU1NUMWE1dXZKMnhsSXAtWW1Kcm15VVh6RDd5MzJHdDBSczNpZEFtRjNlQ2pQTEc4Y3ptdndIdDFyNA?oc=5
-
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
   "Dead Economy": Annamalai M
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+
+- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
+  Why the legality of the Japan-India wide
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
+
+- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
+  Bihar molestation case: India outrage after assault of teen girl
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
 
 - Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
   Packed schedule for Jaishankar at UN as India
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
 
-- Pakistan must take credible action on crossborder terror before world believes it: MEA - The Times of India
-  Pakistan must take credible action on crossborder terror before world believes it:
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTGtncXF4dXVBN1gweF9QZkUtWU52XzF6aVAwUktSZUcweUZRcC0wU2dSWXVWZWZXSFZlS015QW5weVBwQWxRakg1c3JkbFNLcEpuNHA3RVNyWTROdXJONnhXS1hRZWRudXRFbGdxMWMwOVMwV2Rod0UzTEF2M0VQQ0t0NFRWXzU2YVVGRElpSDIxbnNCUFMtU0ZNYzVQNVB1SFhuaHA3VnBBc1NjQUpRbnNHU0ItUGR3VEtwaHhGY1NUVkdhLVNGeDZoQV9sRVBvVzFlVUVWeXE1YjFDWkRHT0FzOUVWZXBM0gHuAUFVX3lxTE9aaDF4bzZkc3VaQXNheV9LcDR5U3Q3eDZEdFctZnBwWnEzdTZyc0l3ZlloZkI3TE4tWm56dXJUY3BiX3hpdVBaMjVRTjVSNXZZMFdQWVpKSTBoUFdMSnRXb3IxdlJjSVZpLUllbEJONGF1NHNDT3E3aHpPc0EwUy14Tk9IRUx6aUF5X0lObUlYNGdOUjhNRV9hTlduS0doUldJME5XcW1sY3hSTE4yc3lEMm1FN1EwbE53OFZyRHJaN2FtZzZWb0I1Wi04Zy01cmpUcTFXY0JKc3c3OVJCUlFNaUpUdWZyREI4OHpvYWc?oc=5
+- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
+  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
 
-- At UNGA, Trump reiterates he ended India-Pakistan war: ‘Shehbaz thanked me for saving 30 million lives’ | India News - Hindustan Times
-  At UNGA, Trump reiterates he ended India-Pakistan war: ‘Sheh
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb1NCTkR3cmhSRGhJUzZnd0dkNmNGRXpodkVFbmcxY2lpS0NlRVdqaUZXcWVGQjNWZFFoTUNzZlVldUxJSU1nT1FHVWlkLVRrMjk3Y3llRDNWR0FmNHV6SDZJT2hrZ3FOYTJOOW82QmhzbGUwQnh3X2pLdE1ibGZnUF93cFgzOTZOMzNJeDVIcXFYejRuakpRcXIxdVh2STJ6aFNOa3Nid1ZsZUp0VVlyVGNOVEl2c2VNY2hfSmxEQXhySGF2ZzVkRExINUNoeF9BeUkwR3RWclNzd1hSRDd4TFAzYmFYcHhEb2ZhUk9ZN2h6d9IB9wFBVV95cUxOVkJEVHhURGJUNWZhTmtyZ0hzUlU0OEFVejNtZDFjekRGUmpZNWI3QjJjelpwZWRCZlZxckRoMDJfaURFdEJLQ3BubHh4OTZONlZKYTJDMHdHSF80WEh2MmFwT2ZVQjc1UTR6WW1jT3hnMk41bmFzVkV1MHRMTm1jTnFUUlBESFBQcXFabnNadkpLczg5VkNsZVJKdzZYWUZzbW84WGc0OVFnUTZ3cG45VnVvZ3dyZ2cwRWp1UGRGbVkwTzlxaS1tdmRsV0toMWwxSHZuMjZOYnZlTEdpUC1CdWkxRXJLN2d5NmFoM1FadWNhMTNvLXZB?oc=5
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
+  "Dead Economy": Annamalai M
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
+  Why the legality of the Japan-India wide
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
+  Bihar molestation case: India outrage after assault of teen girl
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
+  Packed schedule for Jaishankar at UN as India
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
+  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Don’t be fooled by this summer of AI hype - MIT Technology Review
+  Don't be fooled by this summer of AI
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOalMwd0FqRGVxX01sTWdkVXpUOFF1ZDN0dWpIaXNHRFlzYTVZSFdpcVlVRzY3XzV6ZWctZmk3LVM3b0o0dFJpdldJQ0l2a1ZaUldLcUo5NzV0SXpnajYtbDctYTFVenJRM2xFb0hsWm5wbG1xUzRDczNhbTJDaVVRdnQ5Z0tTNmI5MXfSAY8BQVVfeXFMT2xqNWpqRWsxS2d5b3dXTk13SFJnS0tSdDhoNmM5VlZObmpIcXd1bjNuWERhVS04TS1iM3NyWUF2czZfbjRkTXB5MkI4aU92WEI3QU5HSm4zMTZOOTdWYmJTWWhtNF93S2xndmo0MUhmUkNjSjVjVDBmMHFUT240UW84bkNNeUo2N0JSdUp2b00?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them? - The Guardian
+  Using AI to ‘talk to animals’ might make us feel clever – but what, if
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3VTdGE4dmMwUC1vUDZnUTNvUjlLX2ZTWFZfNEN2eWk2eW1VQ0lRRHNxWXBYbW9lcHhRdl9kS08xNEE0MHVWZS04M2ZuZktYQVM2YUh1RmVMYjQ0MkJDdDdfNHloNlJfM2s4S0RjVldHbW03cFB2eVRXNFNoc081ZzdfTGpVbkdnWHpSVFd4eTdubm9YUjBSTjdiVQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Brad Carson on Oversight of AI Technology - C-SPAN
+  Brad Carson on Oversight of
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWVCZ1YtSENHY2tjYmdmUFpQdlFTaFpVZFF4TnpmblJfZzJELWpRakFMajJ3RXRid21xZHBOdEVhNGlHdnhya2luUWtpLWF6X1lDdGNhckpsMTZERThobnhPQzcyVUlod2xTTndGR1JIdjk3Ym9PdnhuNGo2ZkNfMTR3V2dOZWFXY0ZuRWp1cHVNT1ZOdU9UN3VJRWlQbkU?oc=5
+
+- Microchip Technology Completes Acquisition of Hailo - Microchip Technology
+  Microchip Technology Comple
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPV183NnJTTFZncXliZkN1VTRQdnlxYko1R0dZTmRYR1V6SlBQbzZvemYtZ0QzYnhLSGhheUJJQWpHM3JqWVJnUkZia3NfblgxVThtaFo0WHM3elM3VGV2Vmc0SFZQSXA4WDV4R2c0TUItMDd0YVMtVkRVckp5YkxLdjIzd001ellQMG5hSXBfUVh4ekNiWmxIMUdydlNmNHJjcERHUHV4OF8zUEMwcnVxVDdlOG5QQQ?oc=5
+
+- Starbucks Technology to open new hub in Chennai, India - Starbucks
+  Starbucks Technology to open new hub
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5
 
 
-_Last updated: 2026-09-22 16:17:53 UTC_
+_Last updated: 2026-09-22 20:50:36 UTC_
