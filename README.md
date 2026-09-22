@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
-  "Dead Economy": Annamalai M
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+- Made In India, Sold To China: What's Behind 40% Surge In Electronics Exports - NDTV
+  Made In India, Sold To China: What's Behind
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnpZZTRSbjcwVjRWSFNOTXRNUDktY0dMY0E5N3RzcmY3QkYwZHEyajV4Q0NZRktVS19ITXdwT3BrU2t5WFZ0RDhLMmhzWlNDTkZVT2xKdXZyT1Q5UnNjaEpSbTlZdHk2V0t6c3d3emZOOGNIcWFVczJwaFlDalVDa0gtdm1FTGs3eDY4RFB2enZtQW9vbHc2bE9oUjI2cDdQeDJZ0gGrAUFVX3lxTE9nWk5WdGNDUnNSWXZrRUNPQ1VDNEJRbVdVYzVNU3hnN1M1Q18xNkRkWGVHYzNZaXdhcWNuLXVFTTgtN1ZmUThOSWM2SjVoTk4xYUxhUWNhVnZIbV9SdlZXTjVMb0tGejVNQ1p5TWNLQmZCU1NUMWE1dXZKMnhsSXAtWW1Kcm15VVh6RDd5MzJHdDBSczNpZEFtRjNlQ2pQTEc4Y3ptdndIdDFyNA?oc=5
 
-- Asian Games 2026 Day 3 Live Updates: Elavenil Valarivan, Parth Mane in action in 10m Air Rifle Mixed Team qualification - The Times of India
-  Asian Games 2026 Day 3 Live Updates: Elavenil Valarivan, Parth Mane in action
+- Asian Games 2026 Day 4 Live Updates: India play Sri Lanka in men's hockey; men's badminton team assured of medal - The Times of India
+  Asian Games 2026 Day 4 Live Updates: India play Sri Lanka in men's hockey; men's bad
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMVZEdElLeVRzX1JXY3UzQkUyaWJXMmFWRlk3aG1HaUhkUUpJTTFvSjlGSmQ5elV0Ty1VVDJlQ0dZVHpzZGx5UW1TTlVRWGc1ZU1IR3pMV0xOdk45cEpiaDdzSWxJaGVReWUybUEzWWl3RW8yV2pmMUFodl90U0JuZFY4N0lFOHVla3JqTE5mU1pWUFlOZEw1OTF5dnVCQnZvel90ejZGOGc0T3RWTV9KX2gxTWtlY2EtNHBlMy1PY2pPb0htaXltWEp3UF84d2E5djRPUzUtRUtFR3NBT1UyQjk2SUdxanYxZHlWUWtaalZMT1BidDZ0eG9B0gH_AUFVX3lxTFAwMDhmeXdNWkdPVFFpTDYtQnJjemlKOFFTVDNNV2I0Y1JuXzd1WHVJU1Q0cjhtaHNKQktTTU43UkFTT0JWaTZyODJfSTRCTWZaZ2s3c1MwVTVSQkFJdFgtMjFiUWEwaHlISkhUM3hfcDVuYzN4R3NpTnRzMUwwQnF1UG93YlY5WXpEOGVOaTVlUUxsM2JzZ25HNWVHbHJwYU5ORFA2TnU1UFZtMV9WQWFwb1R0VXNKS0hKRHlsODZyckt6YkxKdFJ5MzJFMUIzVTR3czFXSGV4NnJsMjBrV3Q0NmxZWExsc24xbHVxOThmTjZmODlLRjhxM2lmcEkzTQ?oc=5
 
-- India at Asian Games 2026, Day 2: Himanshu Dhillon, Rudrankksh Patil hit their marks; Suchika Tariyal creates MMA history - as it happened - olympics.com
-  India's men's boxing team reached the quarter-finals of the Asian Games for the first time. India
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1RFdnVoemhGY28tWlFSX2NZdDY2ZU85RFJMZ25NbUZnM0hOMzhxMUlMSE5NOTk2MnM4LXVwOVFxNEh5SmdOemFnOWgyS0t0WGR2SGU0TzA2NUt0dkdMZXRHTVppX05zWEJLVFZFMVhCOFhSSDE2TFpaNERQOFVlSm0yekFVUEMzV2wzQXVWVmlzZE56ZXpJWlBaNmk?oc=5
+- Asian Games 2026: India medals tally and winners list - full table - olympics.com
+  Asian Games 2026: India medals tally and winners
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXlVcmQ3dDlCaEs2VGxzYmJpajRXal95UmhwQmU3cjB4LWh5Z1hSQk5ZTXMyU2RsTjBrSXlxZWFkWE9RNzVLcm0xMXdvVGoxQjNWQ1lXeUU3ank5Vld0OUFydnAxT0VQMFpTcHlxR2VLdlk3cnBFblNyLU1VYkFCMlp5SDFkTjRsb0l1N1ZoRQ?oc=5
 
-- Asian Games 2026 Day 4, Live Updates: India's Parth-Elavenil qualify for 10m air rifle mixed team final, Sindhu loses to Yamaguchi in team quarterfinals — Scores and news - Sportstar
-  India's Parth-Elavenil qualify for 10m air rifle mixed team final, Sindhu loses to Yamaguchi in
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTG00UGRoSlByRGd1ZFhEOWxiNlFLQzlYMnN0QWJhNFVGUWJOMXl1NTBEdjh6bG1ySVZfZDBOQWtvV0lXX2c2bklDREI2Y0MxMnVrZjZ2TFRkSndSVXAxeTc0c1dGOUxaSDBieExDVHg1d0RkZ1p3bS1pcFUxNnExc1VPaFJaeDNEUzBQeGVxOVRyVF96NWhibW5NdDdsNTlmOXA0SHVGQnltWlZGUWgwZUZqbXB5V0pXaUdKTFBIUlNETjd1SThBQUJ0MFViZFXSAdYBQVVfeXFMTnpsMmpQWDl5aXBlU09Dd2RJcnByeXRiVTROS21sX0k3MG4wQnBPel90NzJLSkl3Y0F5d1UzamZjYUxBY0Jjdm1hc3RfR0k0eUJlNEdXQ195Yjg4b3llYUlSLTFlOVJxVXZhTnVJelZ1REl2b045WXVHdlpiSFZTdzJCZUNjZ1dUTDBKR0kxVkVPckFsbE9BY2doNEJrMHlVT3NILW54WGZpdXp4cU13Zy1TZlMyYlI5SEVfdUp5T2N2UmN0bmM2ZEpUUXZENkRSRXY2U3IxUQ?oc=5
+- India eliminated in women’s badminton team quarterfinals at Asian Games 2026 - The News Mill
+  India eliminated in women's badminton team quarterfinals
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnVXOVlhYWRadTlCejJWT1ZDMVhBNWJnUElnaGZuZ3RKd1hjVGtMQVRXd3FDTDhYc1JXVE0yUjhZR21TcEoyc1hUazlURFNzSmFtTW9TXzVCZUg1bzlqLTZsdDU4MmpwVFg5NVBuVXRTeFd5dFNUSXdRSGgxa193MTJsSFNHOVBVTnVmS2NOS3MtZzdMLW90a2JUVDUya0ZQVE84MGx4MEZxZ2RC?oc=5
 
-- Google to report child abuse content directly to Indian authorities - The Hindu
-  Google to report child abuse content directly to Indian
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQeW9aMGc2VXRJcGRjWTNLdlBiclZpS2RTaFBCRnBMWDdldUF3Tzh1TktoRzdhYkVPNGl6czNlMnoweERSanFsemR3bURxVUlIeHNoNHZ1LUlfOGhUbTJ5MDBqVWgxUXRfeW5EbGNDUTRHM3BncmJqTS10bGREb2g0c0ZTaHVQUmNrRmNRYy0tSnN1dEx2V3Z5MVdrcGRaUFZIYW1zNVlpaTd0YnE5emJYWWx2eUJMMXc2LUJJWG1KSVJxd0lR0gHLAUFVX3lxTE5sWXJSOGxjdV95dVM3YmJLQU40UEV3ZjBHQTJQNDBSbkFRai1maEJLR2ZlQXFNczdNazNELTJyYlZNTXVqZHNINi1OelZRODZsdGl0Tkxjbjh5MG00cW5FSkw0dGFKbFNNX0RuTUo1VU11OWFVSzlMUnppbTNxWnRfZmNIbG1DUWx1OWd2amljVU1HQ1Rkdk9XQ1NudXRRcDdyQ2pRQXJGQUNQN1NSR3REQmk0blpLakpleE9zdVd5dVZHZFhTdl84NmRJ?oc=5
+- Key Accused In Bihar Shocker Shot In Police Encounter, Taken To Hospital - NDTV
+  Key Accused In Bihar Shocker Shot In Police
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYk5RdVpyWnoyTWduTUgyc3NLNzk5TzJOdzZUTXNVbDd1VXQyaXJ5OUd2U3QzY3NpQ1c0VTlFazA3bHA5X1JabEY3RjI4ZVhQX2F1RmU2YW5UMTk4WGRIM3gyZEI5bHRjN3BlSzZvbVVndFJuYVoyeTAxRm01UnZkX0d4SV9RY0xnMEZGQWpFWHpZR1lUcWwwSVpfOFVEZ1NodnF6aFkydllKS2FzQS16cXhMZXBGejBRYlHSAcIBQVVfeXFMUDc0UmNLOTNud1AzZEZVRE90Mmlia1ZWems3UFlPTkczTjQyYmZTY0tRMlJoZkxTS21pNDcxS0NyamtwaDRJVjc4N0xtMC1IQm05MVF5c3FEYWpacHVnNTM3eHV2UmpCVXNkR09CSE41c3VhQXM2bVJaWGJFYmxfTmlybjZSZkVUU011RmJCUEZNRUZmaFQzMW1GZDNmdmJfQkhGRmN4SWdLNHRhd0hMTVhqUHdUV2ZIRm8tbHp4RmlvZnc?oc=5
 
 - Starbucks Technology to open new hub in Chennai, India - Starbucks
   Starbucks Technology to open new hub
   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5
 
-- Can the US win the AI cold war with China? - Al Jazeera
-  Can the US win the AI cold war with
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQeTdoRU1yZzloRDFHakd5b1ExSzNNV05ObVNRWklYX2Rab0lwTEZrOVZrbmRHN2thd0d0Z0lfZ1VZNnJrSF80eUpZLS0yWjlmZHdabUE0djg1cW5UUFViOEpqc3dKUWc5RHcyQXZPUGgtSVJma1RGck5PM21XbVg0azNRTjRYT3VDeHdEUnJCa9IBlAFBVV95cUxPalBwQW45c3lNVmFwd0h4ZEU5X1VURTVCQkgzXzRaamt1TVBfcjBLMUNpUFpzVlVFVG1vTlpqV1YtbzFPQk5ZX2dVSDl5QUJkWlBvM0hHeW9CalNoWlM3ckpmejdGYnBCTXZLcWJuMTdxYXAyTW50SEN0OGd1VHp0T2NtVXRlTGhTbzJWb2NjT1Z4OWpv?oc=5
+- Realme 16 Pro Harry Potter Edition debuts with quadra light-sensing color-changing technology - GSMArena.com news - GSMArena.com
+  Realme 16 Pro Harry Potter Edition debuts with quadra light
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0tpbklSUnRDR0h6VU9iVS1mUmd3MEQtTDZ3NVRUYnBaMFR6SGNDVDluY2NmYmFvUTRfVmNiN0ZPX2RCTEdPakJwbnEyMmNFbElyQ3JjRm90NDFyR1RpaDRXUTFOY01PY3RUYTYzc2VQa2dpdFJ5a0NMc1MwUHBCdGxyN2ZBcVFTaVpFMnh2azhtZU12RDhfM0o5RVlJaThTaFVZT09fd05Icl95UkxtckotRWlMc3lTdVFLLVA1cE5WekRWSEFMZk9NY9IBxwFBVV95cUxNTlJ4Sy1lWVZzRzRickNYU283a3hTYnVLam9keFdsdktHcE1kcW5sQzNFRnhuSWxLNUktNGxEQkFmLTdkZE0yeFhqX1N5bG1vVWpCTWg4cXdaTlBKSHFCbzlVS2swbjRYcFdCa2I2X2sxdEs1czFqMU9qVnI5Z3BfMGg3Qm5YcmlxZGVaanlzV0NuQVFKVHBlNVp6amFtbzFHZzhNblY1VUxJMHRJNDRqRmNRRy0xTXBVV0FCVzJNV2N4Q3NydHlv?oc=5
 
-- Why the global panic over AI is not a crisis over technology - The Times of India
-  Why the global panic over AI is not a crisis over technology.
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVGhkZ012YkdROGxDTVNZakhESEtvektTd2txU1NJU19FWDlnekh1T0ZBS0Nac25yRWZJZ1poNDF5d2gwdk1VSnNISjA1a1lFaXQ2UkEtVkNkckhQUWZ1a25LY3lGRGN3bTlsNWx6SjhFWW02WU5JSGFESnAyUkJVcnFJaFFGODJFX2xnOVQ5amZTRWZaSmJ2MEw2LVh4bC1LaTlPSjVyRGJ0dTV0Vl91eHc2RFlLQU4tNVdmUVlvWGNoSHF5N05vcHpnUi1Rb1NDZlN6cWtpV1RLV1RPcUdxdTJxVGF1QW1uRDYzQ0VB0gHzAUFVX3lxTFBHWjZaN0Jka0gxc2RHYnRTODcwZ0ozdXVOZHZZRTEwUWFDalVJV2stU1FNU1VYS19USHFpTFFDSnFyYXYwX3VDZ254Q3ZQY0YzeVdtMVJnQVlZTXBPNDdXaGJ0Ql9CNHJaSGJ4YjU5QXdvU1VWc1RoTHlYZXdDc0MydFgweklPTFNad1NtV1hYUk5oSlhCWjM3dF80ZU9SeFRSMHNoRGJmclVEUzRhYnVMYnVhblJndE9BUV9Obkd0SlZiQlVlb0kwVmtUUi12TVdzRzNxQ0dqN1VaS2ZLNE8zMzRMeGxWaGlud3FCMDJBVG5vSQ?oc=5
+- 20 countries propose global oversight body to manage AI dangers - Al Jazeera
+  20 countries propose global oversight body to manage AI
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnhhVFBIT21GTkdUdllHZmxsbUU5Z1o1a2xqZXJMbHZaUm5ZR2ZLeDFmQklESE9oSktuQ09DYWlvZnM0a2lzSXpYS3U1WWVVNjY0WnhKa1RzbVBXWEUzLWtOcVNJTHdJSTk2MFo5d3FjODZMMHJQQjhlM29oRFZRc1ZvNnNrVk45bnF4Z0trQUl2cGxjY0JJdmp4ZGN0alhKbzBVS0JjQ29SYkXSAbABQVVfeXFMUHdORl91TVY4UFFqZjVsZHdOZHFJdDdIcjhUSjF5WnBrQ2Z4QnBvZXltNlp6SFpXSzdsTHIzeU1lWXdSd09rSzFkQWVIdlc2b0Nvb0xqeGhPSnZtUjctV1VEVHJQZ0ZaRjNqWFM0VlE1QWsxc2psdTJhQTN5c1F4RG12UFVvYUF5dEtWOURtX2RrUk9Fbi1PTUZVeDRHeThKQ2RtSVlWeGtTY0ZicnZMMEk?oc=5
 
-- Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030 | AI (artificial intelligence) - theguardian.com
-  Nvidia boss says there is ‘0% chance’ AI destroys
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ?oc=5
+- Ligent Technologies to Debut After $727 Million in Hong Kong IPO - Bloomberg.com
+  Ligent Technologies to Debut After $727
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTlBeWFydWdZOWlLM004TmNzUFNpOTVWby1LMk9UUi1fVG5zd2lIWXlkeElXajNsU2hQZm5GSUkweVFRVmJzOGRPQ3gwNU5ZS3BRVkpqSEdpYzVOU3F6QW1zSDZTVllmZWFvbk9aWDNvcGROTmRmMUVhNnBUajhEU1BUazlhZ3RFZE9wajlQZ1MzVHFiTjVPYnZjblNUaEcxbzdqVnNFaW81SURWYnN4THhObGU?oc=5
 
-- Marvell Technology Stock Price Targets Are Rising - What's the Best MRVL Play? - Barchart.com
-  Marvell Technology Stock Price Targets Are Rising - What
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnhUaHBjRHpkcEtCMkZEdEpnYjJrQmtuYzFIc016MXViUXNnTlQ4bVJTX2o5Y25TLU90Z29XbElkR3BOXzRDekFzXzZwSnhKcWM4OHFjaW5iMVdFTG9NMDcwQkZCVVZseGN0aEFuZ2c2SHBjeXpaa1JwYTR2MkZvVENKd3Nqd3JmV0ZQRERDTmFCdzh4S25DVDhWYURBTUJ2dGNUOGxNSG9BSDdjTE11blRocXN0YTQ1bzRF?oc=5
+- Microchip Technology Completes Acquisition of Hailo - Microchip Technology
+  Microchip Technology Comple
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPV183NnJTTFZncXliZkN1VTRQdnlxYko1R0dZTmRYR1V6SlBQbzZvemYtZ0QzYnhLSGhheUJJQWpHM3JqWVJnUkZia3NfblgxVThtaFo0WHM3elM3VGV2Vmc0SFZQSXA4WDV4R2c0TUItMDd0YVMtVkRVckp5YkxLdjIzd001ellQMG5hSXBfUVh4ekNiWmxIMUdydlNmNHJjcERHUHV4OF8zUEMwcnVxVDdlOG5QQQ?oc=5
 
-- RIL's Jio-bp curbs diesel fills as West Asia war strains supplies
-  Jio-bp has capped diesel sales at 50 litres per fill and limited pumps' daily sales. The prolonged West Asia war disrupts supplies and keeps oil prices high.
-  🔗 https://www.livemint.com/news/jio-bp-caps-diesel-sales-50-litres-global-west-asia-oil-supply-disruptions-11789987291672.html
+- Tata Group conflict: JPMorganChase CEO Jamie Dimon hails N Chandrasekaran, flags board tensions
+  Jamie Dimon commented on the Tata Group board dispute. He highlighted India's economic growth but stressed the need for consistent regulations
+  🔗 https://www.livemint.com/companies/news/tata-group-conflict-jpmorganchase-ceo-jamie-dimon-hails-n-chandrasekaran-flags-board-tensions-11790072666279.html
 
-- Why Policybazaar-backed PB Health is doubling down on hospitals
-   PB Fintech is planning to invest  ₹10,000 crore to build
-  🔗 https://www.livemint.com/companies/why-policybazaar-backed-pb-health-is-doubling-down-on-hospitals-11789988705523.html
+- Sajjan Jindal’s new challenge: selling Ampstar electric trucks to fellow industrialists
+  Jindal is betting  ₹2,000 crore that industrial customers will make electric trucks commercially
+  🔗 https://www.livemint.com/companies/news/jsw-greentech-ampstar-electric-trucks-buses-sajjan-jindal-11790058648199.html
 
-- A year after Nayara blip, Microsoft promises Indian clients full sovereign cloud and data control
-  The tech giant will grant Indian clients complete legal and technical authority over their cloud data. It will shield operations from overseas sanction-
-  🔗 https://www.livemint.com/companies/news/a-year-after-nayara-blip-microsoft-promises-indian-clients-full-sovereign-cloud-and-data-control-11789999144448.html
+- PhonePe expands to UAE: Fintech gets in-principle nod for 2 payment licences | What it means
+  PhonePe has received in-principle approval from the UAE central bank for two licences covering retail payments, card schemes and stored value facilities. The f
+  🔗 https://www.livemint.com/companies/news/phonepe-expands-to-uae-fintech-gets-in-principle-nod-for-2-payment-licences-what-it-means-11790067151094.html
 
-- UPI MDR to pinch retailers with bigger baskets, while sparing others
-  The MDR could pressure margins for retailers with larger baskets
-  🔗 https://www.livemint.com/companies/upi-mdr-charge-impact-retailers-e-commerce-companies-above-2000-11789973148560.html
+- Puravankara enters national capital region with  ₹5,200-cr Greater Noida project
+   Puravankara's entry into NCR comes after Mumbai-based luxury home developer Oberoi Realty Ltd recently made a strong debut in Gurugram. Oberoi
+  🔗 https://www.livemint.com/companies/news/puravankara-enters-national-capital-region-with-rs-5200-cr-greater-noida-project-11790056326524.html
 
-- Distressed Software Firm Symplr to Get Injection From Private Equity Backers
-  Private equity backers to Symplr Software have agreed to inject the firm with around $175 million of preferred equity.
-  🔗 https://www.livemint.com/companies/distressed-software-firm-symplr-to-get-injection-from-private-equity-backers-11790018320216.html
+- Mark Zuckerberg adds $25 billion to his fortune in a day as Meta doubles down on AI
+  Mark Zuckerberg’s estimated net worth jumped by $25 billion in a single day. The rally came after Wells Fargo raised its price target on Meta.
+  🔗 https://www.livemint.com/companies/people/mark-zuckerberg-adds-25-billion-to-his-fortune-in-a-day-as-meta-doubles-down-on-ai-11790056394633.html
 
-- NSE IPO allotment today: Check status online by PAN number, GMP, listing share price prediction; over  ₹90k crore demand
-  Investors can check their allotment status after the basis of allotment is
-  🔗 https://www.livemint.com/market/nse-ipo-allotment-today-check-status-online-by-pan-number-gmp-listing-share-price-prediction-over-90k-crore-demand-11790042423709.html
+- Stock Market prediction tomorrow: Sensex, Nifty outlook for Wed | Kospi, Taiwan Index, Nikkei cues to watch | 23 Sept
+  Technology and FMCG sectors dragged down benchmarks. Brent crude dropped amidst discussions for reopening the Strait of Hormuz. Investor caution prevails amid market uncertainties.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-wed-kospi-taiwan-index-nikkei-cues-to-watch-23-sept-11790070424595.html
 
-- Paytm is looking beyond payments. What it means for the stock
-  Stronger profits, tighter spending and a push into wealth products are reshaping Paytm’s
-  🔗 https://www.livemint.com/market/stock-market-news/paytm-is-looking-beyond-payments-what-it-means-for-the-stock-11789987671394.html
+- IPO GMPs: Adroit Industries IPO, Swastika Infra IPO to Elevate Campuses IPO | What grey market hints ahead of opening?
+  On September 23, the primary market launches four IPOs. ArMee Infotech, Swastika Infra, Adroit Industries, and Elevate Campuses
+  🔗 https://www.livemint.com/market/ipo/ipo-gmps-adroit-industries-ipo-swastika-infra-ipo-to-elevate-campuses-ipo-what-grey-market-hints-ahead-of-opening-11790068098306.html
 
-- Pine Labs block deal: Why Mastercard Asia-Pacific is selling its entire stake for  ₹890 crore - What should investors do?
-  The block deal could create some near-term supply pressure and volatility in the stock. According to Sugandha Sach
-  🔗 https://www.livemint.com/market/stock-market-news/pine-labs-block-deal-why-mastercard-asia-pacific-is-selling-its-entire-stake-for-890-crore-what-should-investors-do-11790040091701.html
+- 75% rally in 6 months! PC Jeweller share price zooms over 6% | Here's why
+  PC Jeweller Limited shares rose 6.10% after it announced clearing outstanding debts with consortium banks. The company aims for a
+  🔗 https://www.livemint.com/market/stock-market-news/75-rally-in-6-months-pc-jeweller-share-price-zooms-over-6-heres-why-11790068413091.html
 
-- Bitcoin Jumps to Over $84,000 After ETF Flows Turn Positive
-  Bitcoin rises by more than 3.7% to over $84,000 in early Europe trading Monday.
-  🔗 https://www.livemint.com/market/bitcoin-jumps-to-over-84-000-after-etf-flows-turn-positive-11790041281714.html
+- Can Tata Capital stay ahead of rising funding costs?
+  Tata Capital says it expects AUM to grow 23-25% this year. Retail and SMEs account for 85-87% of its portfolio.
+  🔗 https://www.livemint.com/market/mark-to-market/tata-capital-share-price-margin-pressure-rbi-rates-11790062281655.html
 
-- Prop Shops Pull Back From NSE’s $2 Trillion Derivatives Market
-  Proprietary traders’ share of equity derivatives turnover has fallen to the lowest level in almost four years. Problems with the closing auction mechanism add to an increasingly restrictive trading
-  🔗 https://www.livemint.com/market/prop-shops-pull-back-from-nse-s-2-trillion-derivatives-market-11790040120720.html
+- Gold has surged. Are miners the next way to play it?
+  Fund managers see structural support for gold from central bank buying, fiscal and geopolitical risks, and tight mine supply. They
+  🔗 https://www.livemint.com/market/commodities/gold-has-surged-are-miners-the-next-way-to-play-it-11790003809123.html
 
-- Google fined $463 million for breaching EU rule on location data
-  Google fined $463 million for
-  🔗 https://www.livemint.com/technology/google-fined-463-million-for-breaching-eu-rule-on-location-data-11790037428264.html
+- Nothing to spin off CMF as standalone Indian business; Optiemus to acquire 51.1% controlling stake; details here
+   CMF is expanding its partnership with Optiemus to turn CMF into an independent, majority Indian-owned smartphone brand. The manufacturing, ownership and R&
+  🔗 https://www.livemint.com/technology/nothing-to-spin-off-cmf-as-standalone-indian-business-optiemus-to-acquire-51-1-controlling-stake-details-here-11790066359387.html
 
-- ‘CMF becomes Indian’: Carl Pei announces Nothing’s India spin-off with local R&amp;D and global ambitions
-   CMF will spin out into a standalone, majority Indian-owned company. Nothing will retain a stake and provide engineering, software, supplier and global brand support as CMF expands its device portfolio.
-  🔗 https://www.livemint.com/technology/cmf-becomes-indian-carl-pei-announces-nothing-s-india-spin-off-with-local-r-d-and-global-ambitions-11789989929260.html
+- OnePlus N6 Lite 4G with 7,000mAh battery, 120Hz display launched in India: Check price, specs
+  The smartphone is powered by the Unisoc T7250 chipset with 4GB RAM and 64GB storage, expandable via microSD. It has a 6
+  🔗 https://www.livemint.com/technology/oneplus-n6-lite-4g-with-7-000mah-battery-120hz-display-launched-in-india-check-price-specs-11790064342282.html
 
-- From ‘Make in India’ to ‘Engineer in India’: Nothing CEO Carl Pei makes his case
-   CMF CEO Carl Pei says India can become a global electronics hub. He announced that CMF will become a standalone, majority-Indian-owned company. The company aims to produce 100 million phones a year.
-  🔗 https://www.livemint.com/technology/from-make-in-india-to-engineer-in-india-nothing-ceo-carl-pei-makes-his-case-11789985546599.html
+- Alibaba launches new AI chip, CEO Eddie Wu calls it ‘most powerful’ in China; expansion plans ahead
+  Chinese technology giant Alibaba Group on Tuesday launched a new artificial intelligence (AI) chip. It described the chip as “the most powerful AI chip in China,”
+  🔗 https://www.livemint.com/technology/alibaba-launches-new-ai-chip-ceo-eddie-wu-calls-it-most-powerful-in-china-expansion-plans-ahead-11790058162539.html
 
-- Xiaomi 18 Pro series launch date confirmed: New privacy display and Starry River Blue colour teased
-  Xiaomi 18 Pro series launch in China on September 23, featuring a hardware-level privacy display, Super Pixel 2.0 panel, 200MP Leica cameras, and up to 8
-  🔗 https://www.livemint.com/technology/xiaomi-18-pro-series-launch-date-confirmed-new-privacy-display-and-starry-river-blue-colour-teased-11789978409110.html
+- ERP at ‘structural inflection point’ as AI shifts focus to workflow execution: Report
+  Artificial intelligence (AI) will likely widen the gap between execution-focused platforms and traditional application vendors. Next enterprise resource planning (ERP) cycle likely to favour companies that can translate AI-driven intelligence
+  🔗 https://www.livemint.com/technology/erp-at-structural-inflection-point-as-ai-shifts-focus-to-workflow-execution-report-11790053861990.html
 
-- Microsoft’s new India cloud region to use effectively “zero water” for cooling: Microsoft India President
-  Microsoft’s new India South Central cloud region will use effectively zero water for cooling and is being built to handle AI workloads from day one.
-  🔗 https://www.livemint.com/technology/microsofts-new-india-cloud-region-to-use-effectively-zero-water-for-cooling-microsoft-india-president-11789972413401.html
+- iPhone 20 Pro leak hints at larger displays, quad-curved glass for Apple’s 20th anniversary
+  The 2027 models are also tipped to get a quad-curved, near bezel-free design and a much smaller Dynamic Island or punch-hole cutout.
+  🔗 https://www.livemint.com/technology/iphone-20-pro-leak-hints-at-larger-displays-quad-curved-glass-for-apple-s-20th-anniversary-11790050322363.html
 
-- Stock Market News, Sept. 21, 2026: Nasdaq Rises to Record as Oil-Price Drop Unlocks Rally - WSJ
-  The WSJ looks at the future of the stock market. The
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNam9GTktGNDJ3TmRkQW9Fbk51TWJadS1aVnNEYUwydEgwb0NCLVQ2NHJjQ19aTUloUVJWSk9wVklRcmxhMVFBTDFCV2RQRHFNRy1RNVFMcHM4T2wxVjB5dlVjMGZmdXBkTmNVNFZxb0NpRTg1aGFEeWx3amk2MndtVTRIQVpKaVk?oc=5
+- Nasdaq jumps 2% to close at a record, buoyed by surge in AI stocks, as well as cooling oil and yields - cnbc.com
+  Nasdaq jumps 2% to close at a record, buoyed by surge in AI stocks
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9PV3BMZGlwWktIQVdmYWdJMWl3eVJHMUFfR2pPNUQ3dVk5OVROd2ZYQ3BzNEdSbElpSW5UREJmLVJxbVdJUzdITzNTM2QyM3FlV1hlZUp6anc5MFd6cEtPeW84WWNzZHZGaXVjd0Q3STRJRUFERmFN0gF8QVVfeXFMT1JBRmVDRWpaTXhKZDhZSTVWbllXZ3dZNzVhQVlPdjExaXNsY3daUVF1ZmFIOFNsQlJzeXpTc0plejhnNGhvRjdaZWlyYlp5QlFmMVFncmZvNEJNQjNUZTdLUldiMWJfS2JMYm5YaUJaNWRHekNLX1FqeXl6dw?oc=5
 
-- Stocks, Bonds Climb as Oil Falls on US-Iran Hopes: Markets Wrap - Bloomberg.com
-  Stocks, Bonds Climb as Oil Falls
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONWk0czlDZlZ6UFZXeFRWaEtxd3J5Z295dlFNOTJKelkxcE1jVEJWWU0tMl9nRUo5RmNHNUhodFdwWGVKNjJYREQ1Y3B2d1JnT2RZSTVOMnNXbU93MWNWN2doM05LSUgzVWd0NU93MldhRUduSEJaX1BqdmxuMzFGZmNEYm1GbmEyWFctalFDU2RuSVhYUzhWQTdmSnFtR1Y5WXdJZjhLaUplaVFubXRfWlJR?oc=5
+- Stock Market Today: Dow Futures Dip, What to Watch — Live Updates - WSJ
+  The Dow futures market is down on the day.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQbC1wY25QY0ZlNXdTZGJpQ1BjbUR4TDd5dU8yR1BZU2FfTEQzSkVPa0JJckN4dHI2eVpxS3lCVzZ4U19CY1ZMSnFBTEhraFFMcWpBR1dvMWNDbU5BTDhfQnczM2VIYlkzVVRkM2hzM2Y0MGpLS3UtcHVCcTYwZ3VJMld0cDdYODQ?oc=5
 
-- Stock futures are little changed after S&P 500 posts best day since early August: Live updates - cnbc.com
-  Stock futures little changed after S&amp;P 500 posts best day
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBRd2pYcnJRNEl1Q2pSVC1KRGh6anprbmd3eEtVUU52amNUY29wWFJyR0dWYkxnZ2Q1ZDUtZnFMVl9XNmZVVFNoS2lUSll5X25Ha1hka1ZYQUVKUTQ4Qm1ib0NzSEhPX3c2Y1czV0xGSzlKZWhBZkcw0gF8QVVfeXFMT2xqbHVMN21IMHgtZGp3VFRGajI2cTZfemNnUTZhcDNQWVZnMlg4T1c0QWMyNjRHdjZGa3o5VjhxUHRhUlBtUkVZQ2I5ZzRUREYxRlZ1NjVHSTRhZS1wNXlybTM2QWt0cjZud0h6R0R3VlZDNjNVdVFydFA1dw?oc=5
+- US Stocks Hold AI Gains as Brent Slips Below $98: Markets Wrap - Bloomberg.com
+  US Stocks Hold AI Gains as Brent Sl
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmVxRzlDSS1YVllGMmZuY29YWDUxZzZnSnlxTm1leVV2Z1Y0LVA2NkZrWHJNN0JxWXo0ampuSGE4LWUxdm9XY1J4ZEhxSmRSdWFPTFZ1WVlJVkRFOF9rLWJ3ekdQQXJVSnUtRFYtQUhzc0ZGUzVYOGZiMjhpWERyWTV6d2tZaGFDbFpKNHBBRUFiaGYw?oc=5
 
-- Market Watchdog in India Taps AI in Growing Fight Against Fraud - Bloomberg.com
-  Market Watchdog in India Taps AI in
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkMtaEF0S3MwR244NWJtbVZjcFg5OFNwTUlTWmxyYVFuR0wwanhJa0FKR0g4c0hadUtzZHNHUE1YNE1KSGpxMUVtZUdxOGJFT1EwYlE5N0FQNjRCc19MeDRZOUVOVnRkc0JaUXZIakVLZ2xGVXhDck5JWVpoTGIweWxQelpNTE9TN3o5SEQtellyMFU0MUlXOVdsenE1UVNFWUdTcW40WkIxU0F0?oc=5
+- Sensex, Nifty prediction today: How Asian markets, crude will impact Indian markets? GIFT Nifty, KOSPI, Taiwan signals - TradingView
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTk1GSTRzU0ZudUZVTkVseF9nU1ZyYndiVkRCZTdKSVlQOHBqQ0JHNTFzV3dpeGNKS3BPa2R1VDcxR056YlUxYXdwLVAwMVhsXzlDTi1nMk83b1FRd2VHamlFaFJaQTBuNE
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTk1GSTRzU0ZudUZVTkVseF9nU1ZyYndiVkRCZTdKSVlQOHBqQ0JHNTFzV3dpeGNKS3BPa2R1VDcxR056YlUxYXdwLVAwMVhsXzlDTi1nMk83b1FRd2VHamlFaFJaQTBuNE5aWTN3bUJBZ1M5RE1qT0ZmWlgyeEFqT3k5U21CS1hvTnMzOVd3YnBCMmliSDJieFRNZW5fdm9fRUtmQ0hSaU9pb1ZBYzRwQ0VmekY5VWk4aVNGb2lFN09yN1pZb0FITjlNYmxSNVlTQW9VVjlYTVZsT1BTU2FFRmF6a2JONFpCRWtrSkg3T0dIZjlaTjJZdDVybElxdw?oc=5
 
-- All the signs say another financial crisis is coming. Here’s why we need to prepare for it now | Larry Elliott - theguardian.com
-  All the signs say another financial crisis is coming. Here’s why we need to prepare
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXc4X3ZzakNPWnplbGNyRHNTSkFhMXF3SXBEZlJ6VENXMFRuZHFyU2N1U3hVYU9YTlNQMEYwS08zdl9vbmxnOWtQMkQwaTJmMnlnNEJSbnBwUVkweW0wekJ0blVpYXlUTmQ5NGVmcU5nYXRfRzdZekQ5dUM0QVJDYmFBX1Zmd2RCVGg5ejJrOXNXT2lQdGFRSUFTYWEzN0xubi11YkNqWUs4QQ?oc=5
+- World’s biggest derivatives exchange finally set for $46bn market debut - Financial Times
+  World’s biggest derivatives exchange finally set
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWxqMjFRWUtaaXRYVS1IOUZkNGRYSFVXM0YyQU9GUURPRXQwU3ZQdU5qYUpmdnQ1Um1sd01TMHFSRThIczZ2QVZWb3RWNC1UMnJzTFFjTmViMkFybW14MU5TRUkweTY1SXZtaFhJc1BUMnJBa05XWkNVVjFYMzhmYk5rd0s?oc=5
 
-- Two SME IPOs open for subscription today: Anand Seamless and Himalaya Nutravedics — check key details
-  The two companies are looking to raise a combined Rs 52.02 crore through their respective SME IPOs. Both issues are entirely fresh issues, with the proceeds earmarked for a
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/two-sme-ipos-open-for-subscription-today-anand-seamless-and-himalaya-nutravedics-check-key-details/articleshow/134400532.cms
+- Rupee sways with oil and intervention cues, keeping traders light-footed
+  Iran has offered to reopen the Strait of Hormuz, a key energy artery, if the US eases military pressure
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sways-with-oil-and-intervention-cues-keeping-traders-light-footed/articleshow/134409474.cms
 
-- A record run! NSE IPO draws Rs 90,000 crore demand, takes subscription crown among India’s 5 largest offerings
-  The Rs 22,561.57 crore public issue is the second-largest IPO in India by issue size after Hyundai Motor India. It received bids for 50,58,11,384 shares against 8,86,42,911 shares
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/a-record-run-nse-ipo-draws-rs-90000-crore-demand-takes-subscription-crown-among-indias-5-largest-offerings/articleshow/134400565.cms
+- CAS chaos: Nifty’s indicative price drops 1% in seconds to fall below 23,150 on F&amp;O expiry day, Sensex closes 330 pts lower
+  Sensex dropped 330 points and Nifty witnessed a sharp closing-auction swing on expiry day. Broader markets also declined, while IT stocks weakened and realty gained. Market breadth turned negative, with 1
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-niftys-indicative-price-drops-1-in-seconds-to-fall-below-23150-on-fo-expiry-day-sensex-closes-330-pts-lower/articleshow/134409443.cms
 
-- Negative Breakout: These 9 stocks cross below their 200 DMAs
-  The 200 DMA is a widely used technical indicator that helps traders assess
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/134400524.cms
+- LIC said to lead bidding in NSE’s Rs 22,800 crore India IPO
+  LIC emerged as the largest bidder in NSE’s ₹22,800 crore IPO. ICICI Prudential and Quant Mutual Fund also made bids. Despite cautious retail participation (
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/lic-said-to-lead-bidding-in-nses-rs-22800-crore-india-ipo/articleshow/134409250.cms
 
-- Oil Price Today (September 22): Crude oil snaps 4-day fall, hovers near $101 on potential US-Iran talk. What’s next?
-  US West Texas Intermediate (WTI) crude for October, which expires on Tuesday, gained 41 cents, or 0.43%, to $96 a
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-22-crude-oil-snaps-4-day-fall-hovers-near-101-on-potential-us-iran-talk-whats-next/articleshow/134400423.cms
+- Sebi sees potential for Rs 2 lakh crore IPO fundraising as fresh capital gains prominence
+  SEBI Chairman Tuhin Kanta Pandey said India could raise up to Rs 2 lakh crore through IPOs. He highlighted reforms simplifying market access, rising corporate bond issuance, growing domestic investor participation.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-sees-potential-for-rs-2-lakh-crore-ipo-fundraising-as-fresh-capital-gains-prominence/articleshow/134409191.cms
 
-- Gold ticks up on easing Treasury yields, but rate outlook weighs
-  Gold prices saw a slight increase on Tuesday as US Treasury yields eased. Higher interest rate expectations, however, capped the precious metal's gains. Other precious metals like silver, platinum, and palladium also experienced upward price movements.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-ticks-up-on-easing-treasury-yields-but-rate-outlook-weighs/articleshow/134400382.cms
+- NSE pays 20 banks Rs 186 crore in fees for India IPO
+  The National Stock Exchange paid ₹186 crore to 20 advisory banks for its $2.4 billion IPO. At 0.82% of the total issue, the fee structure remains well
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-pays-20-banks-186-crore-rupees-in-fees-for-india-ipo/articleshow/134409071.cms
 
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
-  "Dead Economy": Annamalai M
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+- Made In India, Sold To China: What's Behind 40% Surge In Electronics Exports - NDTV
+  Made In India, Sold To China: What's Behind
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnpZZTRSbjcwVjRWSFNOTXRNUDktY0dMY0E5N3RzcmY3QkYwZHEyajV4Q0NZRktVS19ITXdwT3BrU2t5WFZ0RDhLMmhzWlNDTkZVT2xKdXZyT1Q5UnNjaEpSbTlZdHk2V0t6c3d3emZOOGNIcWFVczJwaFlDalVDa0gtdm1FTGs3eDY4RFB2enZtQW9vbHc2bE9oUjI2cDdQeDJZ0gGrAUFVX3lxTE9nWk5WdGNDUnNSWXZrRUNPQ1VDNEJRbVdVYzVNU3hnN1M1Q18xNkRkWGVHYzNZaXdhcWNuLXVFTTgtN1ZmUThOSWM2SjVoTk4xYUxhUWNhVnZIbV9SdlZXTjVMb0tGejVNQ1p5TWNLQmZCU1NUMWE1dXZKMnhsSXAtWW1Kcm15VVh6RDd5MzJHdDBSczNpZEFtRjNlQ2pQTEc4Y3ptdndIdDFyNA?oc=5
 
-- Asian Games 2026 Day 3 Live Updates: Elavenil Valarivan, Parth Mane in action in 10m Air Rifle Mixed Team qualification - The Times of India
-  Asian Games 2026 Day 3 Live Updates: Elavenil Valarivan, Parth Mane in action
+- Asian Games 2026 Day 4 Live Updates: India play Sri Lanka in men's hockey; men's badminton team assured of medal - The Times of India
+  Asian Games 2026 Day 4 Live Updates: India play Sri Lanka in men's hockey; men's bad
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMVZEdElLeVRzX1JXY3UzQkUyaWJXMmFWRlk3aG1HaUhkUUpJTTFvSjlGSmQ5elV0Ty1VVDJlQ0dZVHpzZGx5UW1TTlVRWGc1ZU1IR3pMV0xOdk45cEpiaDdzSWxJaGVReWUybUEzWWl3RW8yV2pmMUFodl90U0JuZFY4N0lFOHVla3JqTE5mU1pWUFlOZEw1OTF5dnVCQnZvel90ejZGOGc0T3RWTV9KX2gxTWtlY2EtNHBlMy1PY2pPb0htaXltWEp3UF84d2E5djRPUzUtRUtFR3NBT1UyQjk2SUdxanYxZHlWUWtaalZMT1BidDZ0eG9B0gH_AUFVX3lxTFAwMDhmeXdNWkdPVFFpTDYtQnJjemlKOFFTVDNNV2I0Y1JuXzd1WHVJU1Q0cjhtaHNKQktTTU43UkFTT0JWaTZyODJfSTRCTWZaZ2s3c1MwVTVSQkFJdFgtMjFiUWEwaHlISkhUM3hfcDVuYzN4R3NpTnRzMUwwQnF1UG93YlY5WXpEOGVOaTVlUUxsM2JzZ25HNWVHbHJwYU5ORFA2TnU1UFZtMV9WQWFwb1R0VXNKS0hKRHlsODZyckt6YkxKdFJ5MzJFMUIzVTR3czFXSGV4NnJsMjBrV3Q0NmxZWExsc24xbHVxOThmTjZmODlLRjhxM2lmcEkzTQ?oc=5
 
-- India at Asian Games 2026, Day 2: Himanshu Dhillon, Rudrankksh Patil hit their marks; Suchika Tariyal creates MMA history - as it happened - olympics.com
-  India's men's boxing team reached the quarter-finals of the Asian Games for the first time. India
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1RFdnVoemhGY28tWlFSX2NZdDY2ZU85RFJMZ25NbUZnM0hOMzhxMUlMSE5NOTk2MnM4LXVwOVFxNEh5SmdOemFnOWgyS0t0WGR2SGU0TzA2NUt0dkdMZXRHTVppX05zWEJLVFZFMVhCOFhSSDE2TFpaNERQOFVlSm0yekFVUEMzV2wzQXVWVmlzZE56ZXpJWlBaNmk?oc=5
+- Asian Games 2026: India medals tally and winners list - full table - olympics.com
+  Asian Games 2026: India medals tally and winners
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXlVcmQ3dDlCaEs2VGxzYmJpajRXal95UmhwQmU3cjB4LWh5Z1hSQk5ZTXMyU2RsTjBrSXlxZWFkWE9RNzVLcm0xMXdvVGoxQjNWQ1lXeUU3ank5Vld0OUFydnAxT0VQMFpTcHlxR2VLdlk3cnBFblNyLU1VYkFCMlp5SDFkTjRsb0l1N1ZoRQ?oc=5
 
-- Asian Games 2026 Day 4, Live Updates: India's Parth-Elavenil qualify for 10m air rifle mixed team final, Sindhu loses to Yamaguchi in team quarterfinals — Scores and news - Sportstar
-  India's Parth-Elavenil qualify for 10m air rifle mixed team final, Sindhu loses to Yamaguchi in
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTG00UGRoSlByRGd1ZFhEOWxiNlFLQzlYMnN0QWJhNFVGUWJOMXl1NTBEdjh6bG1ySVZfZDBOQWtvV0lXX2c2bklDREI2Y0MxMnVrZjZ2TFRkSndSVXAxeTc0c1dGOUxaSDBieExDVHg1d0RkZ1p3bS1pcFUxNnExc1VPaFJaeDNEUzBQeGVxOVRyVF96NWhibW5NdDdsNTlmOXA0SHVGQnltWlZGUWgwZUZqbXB5V0pXaUdKTFBIUlNETjd1SThBQUJ0MFViZFXSAdYBQVVfeXFMTnpsMmpQWDl5aXBlU09Dd2RJcnByeXRiVTROS21sX0k3MG4wQnBPel90NzJLSkl3Y0F5d1UzamZjYUxBY0Jjdm1hc3RfR0k0eUJlNEdXQ195Yjg4b3llYUlSLTFlOVJxVXZhTnVJelZ1REl2b045WXVHdlpiSFZTdzJCZUNjZ1dUTDBKR0kxVkVPckFsbE9BY2doNEJrMHlVT3NILW54WGZpdXp4cU13Zy1TZlMyYlI5SEVfdUp5T2N2UmN0bmM2ZEpUUXZENkRSRXY2U3IxUQ?oc=5
+- India eliminated in women’s badminton team quarterfinals at Asian Games 2026 - The News Mill
+  India eliminated in women's badminton team quarterfinals
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnVXOVlhYWRadTlCejJWT1ZDMVhBNWJnUElnaGZuZ3RKd1hjVGtMQVRXd3FDTDhYc1JXVE0yUjhZR21TcEoyc1hUazlURFNzSmFtTW9TXzVCZUg1bzlqLTZsdDU4MmpwVFg5NVBuVXRTeFd5dFNUSXdRSGgxa193MTJsSFNHOVBVTnVmS2NOS3MtZzdMLW90a2JUVDUya0ZQVE84MGx4MEZxZ2RC?oc=5
 
-- Google to report child abuse content directly to Indian authorities - The Hindu
-  Google to report child abuse content directly to Indian
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQeW9aMGc2VXRJcGRjWTNLdlBiclZpS2RTaFBCRnBMWDdldUF3Tzh1TktoRzdhYkVPNGl6czNlMnoweERSanFsemR3bURxVUlIeHNoNHZ1LUlfOGhUbTJ5MDBqVWgxUXRfeW5EbGNDUTRHM3BncmJqTS10bGREb2g0c0ZTaHVQUmNrRmNRYy0tSnN1dEx2V3Z5MVdrcGRaUFZIYW1zNVlpaTd0YnE5emJYWWx2eUJMMXc2LUJJWG1KSVJxd0lR0gHLAUFVX3lxTE5sWXJSOGxjdV95dVM3YmJLQU40UEV3ZjBHQTJQNDBSbkFRai1maEJLR2ZlQXFNczdNazNELTJyYlZNTXVqZHNINi1OelZRODZsdGl0Tkxjbjh5MG00cW5FSkw0dGFKbFNNX0RuTUo1VU11OWFVSzlMUnppbTNxWnRfZmNIbG1DUWx1OWd2amljVU1HQ1Rkdk9XQ1NudXRRcDdyQ2pRQXJGQUNQN1NSR3REQmk0blpLakpleE9zdVd5dVZHZFhTdl84NmRJ?oc=5
+- Key Accused In Bihar Shocker Shot In Police Encounter, Taken To Hospital - NDTV
+  Key Accused In Bihar Shocker Shot In Police
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYk5RdVpyWnoyTWduTUgyc3NLNzk5TzJOdzZUTXNVbDd1VXQyaXJ5OUd2U3QzY3NpQ1c0VTlFazA3bHA5X1JabEY3RjI4ZVhQX2F1RmU2YW5UMTk4WGRIM3gyZEI5bHRjN3BlSzZvbVVndFJuYVoyeTAxRm01UnZkX0d4SV9RY0xnMEZGQWpFWHpZR1lUcWwwSVpfOFVEZ1NodnF6aFkydllKS2FzQS16cXhMZXBGejBRYlHSAcIBQVVfeXFMUDc0UmNLOTNud1AzZEZVRE90Mmlia1ZWems3UFlPTkczTjQyYmZTY0tRMlJoZkxTS21pNDcxS0NyamtwaDRJVjc4N0xtMC1IQm05MVF5c3FEYWpacHVnNTM3eHV2UmpCVXNkR09CSE41c3VhQXM2bVJaWGJFYmxfTmlybjZSZkVUU011RmJCUEZNRUZmaFQzMW1GZDNmdmJfQkhGRmN4SWdLNHRhd0hMTVhqUHdUV2ZIRm8tbHp4RmlvZnc?oc=5
 
-- Snapdeal Parent AceVector’s FY26: Loss Declines 64% YoY To ₹46 Cr
-  Snapdeal Parent Ace Vector’s FY26: Loss Falls 64% YoY To ₹46 Cr.
-  🔗 https://inc42.com/buzz/snapdeal-parent-acevectors-fy26-loss-declines-64-yoy-to-%e2%82%b946-cr/
+- ED Chargesheets EaseMyTrip Cofounder Nishant Pitti In Mahadev Betting Case
+  The Enforcement Directorate has chargesheeted EaseMyTrip cofounder and chairman Nishant Pitti in the Mahadev online betting app money laundering.
+  🔗 https://inc42.com/buzz/ed-chargesheets-easemytrip-cofounder-nishant-pitti-in-mahadev-betting-case/
 
-- ADIA Sells Lenskart Shares Worth ₹2,390.6 Cr
-  Early investor Abu Dhabi Investment Authority (ADIA) today offloaded 3.5 Cr shares of Lenskart.
-  🔗 https://inc42.com/buzz/adia-sells-lenskart-shares-worth-%e2%82%b92390-6-cr/
+- Now, Google Agrees To Report Child Abuse Content To Indian Authorities: Report
+  After Meta, tech giant Google has reportedly has agreed to report child abuse content hosted on its platforms.
+  🔗 https://inc42.com/buzz/now-google-agrees-to-report-child-abuse-content-to-indian-authorities-report/
 
-- Nothing To Spin Off CMF As A Standalone Indian Business
-  Nothing is spinning off its sub-brand CMF&#8230;.
-  🔗 https://inc42.com/buzz/nothing-to-spin-off-cmf-as-a-standalone-indian-business/
+- Captain Fresh’s Revenue Jumps 52% To ₹5,169 Cr In FY26
+  IPO-bound B2B seafood brand Captain Fresh crossed the ₹5,000 Cr revenue mark in FY26, while its adjusted EBITDA nearly tripled.
+  🔗 https://inc42.com/buzz/captain-freshs-revenue-jumps-52-to-%e2%82%b95169-cr-in-fy26/
 
-- Veefin Receives In-Principle Approval From BSE For Mainboard Migration
-  Fintech SaaS company Veefin Solutions has secured an in-principle approval from the BSE’s Internal Regulatory Oversight and Review Group.
-  🔗 https://inc42.com/buzz/veefin-receives-in-principle-approval-from-bse-for-mainboard-migration/
+- Furlenco Eyes ₹1,200 Cr IPO At ₹7,000 Cr Valuation: Report
+  Furniture and appliance rental startup Furlenco is reportedly gearing up for a&#8230;.
+  🔗 https://inc42.com/buzz/furlenco-eyes-%e2%82%b91200-cr-ipo-at-%e2%82%b97000-cr-valuation-report/
 
-- Snapdeal Parent AceVector Files RHP, Trims OFS To 4.16 Cr Shares
-  Snapdeal-parent Ace Vector Ltd has filed its red herring prospectus (RHP) with the Securities and Exchange Board of India (SEBI), nearly&#8230.
-  🔗 https://inc42.com/buzz/snapdeal-parent-acevector-files-rhp-trims-ofs-to-4-16-cr-shares/
+- Spinny Confidentially Files IPO Papers, Eyes Up To ₹3,000 Cr Issue
+  Used-car marketplace Spinny has pre-filed IPO papers with the Securities and Exchange Board of India (SEBI), sources told Inc42.
+  🔗 https://inc42.com/buzz/spinny-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b93000-cr-issue/
 
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
-  "Dead Economy": Annamalai M
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+- Made In India, Sold To China: What's Behind 40% Surge In Electronics Exports - NDTV
+  Made In India, Sold To China: What's Behind
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnpZZTRSbjcwVjRWSFNOTXRNUDktY0dMY0E5N3RzcmY3QkYwZHEyajV4Q0NZRktVS19ITXdwT3BrU2t5WFZ0RDhLMmhzWlNDTkZVT2xKdXZyT1Q5UnNjaEpSbTlZdHk2V0t6c3d3emZOOGNIcWFVczJwaFlDalVDa0gtdm1FTGs3eDY4RFB2enZtQW9vbHc2bE9oUjI2cDdQeDJZ0gGrAUFVX3lxTE9nWk5WdGNDUnNSWXZrRUNPQ1VDNEJRbVdVYzVNU3hnN1M1Q18xNkRkWGVHYzNZaXdhcWNuLXVFTTgtN1ZmUThOSWM2SjVoTk4xYUxhUWNhVnZIbV9SdlZXTjVMb0tGejVNQ1p5TWNLQmZCU1NUMWE1dXZKMnhsSXAtWW1Kcm15VVh6RDd5MzJHdDBSczNpZEFtRjNlQ2pQTEc4Y3ptdndIdDFyNA?oc=5
 
-- Asian Games 2026 Day 3 Live Updates: Elavenil Valarivan, Parth Mane in action in 10m Air Rifle Mixed Team qualification - The Times of India
-  Asian Games 2026 Day 3 Live Updates: Elavenil Valarivan, Parth Mane in action
+- Asian Games 2026 Day 4 Live Updates: India play Sri Lanka in men's hockey; men's badminton team assured of medal - The Times of India
+  Asian Games 2026 Day 4 Live Updates: India play Sri Lanka in men's hockey; men's bad
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMVZEdElLeVRzX1JXY3UzQkUyaWJXMmFWRlk3aG1HaUhkUUpJTTFvSjlGSmQ5elV0Ty1VVDJlQ0dZVHpzZGx5UW1TTlVRWGc1ZU1IR3pMV0xOdk45cEpiaDdzSWxJaGVReWUybUEzWWl3RW8yV2pmMUFodl90U0JuZFY4N0lFOHVla3JqTE5mU1pWUFlOZEw1OTF5dnVCQnZvel90ejZGOGc0T3RWTV9KX2gxTWtlY2EtNHBlMy1PY2pPb0htaXltWEp3UF84d2E5djRPUzUtRUtFR3NBT1UyQjk2SUdxanYxZHlWUWtaalZMT1BidDZ0eG9B0gH_AUFVX3lxTFAwMDhmeXdNWkdPVFFpTDYtQnJjemlKOFFTVDNNV2I0Y1JuXzd1WHVJU1Q0cjhtaHNKQktTTU43UkFTT0JWaTZyODJfSTRCTWZaZ2s3c1MwVTVSQkFJdFgtMjFiUWEwaHlISkhUM3hfcDVuYzN4R3NpTnRzMUwwQnF1UG93YlY5WXpEOGVOaTVlUUxsM2JzZ25HNWVHbHJwYU5ORFA2TnU1UFZtMV9WQWFwb1R0VXNKS0hKRHlsODZyckt6YkxKdFJ5MzJFMUIzVTR3czFXSGV4NnJsMjBrV3Q0NmxZWExsc24xbHVxOThmTjZmODlLRjhxM2lmcEkzTQ?oc=5
 
-- India at Asian Games 2026, Day 2: Himanshu Dhillon, Rudrankksh Patil hit their marks; Suchika Tariyal creates MMA history - as it happened - olympics.com
-  India's men's boxing team reached the quarter-finals of the Asian Games for the first time. India
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1RFdnVoemhGY28tWlFSX2NZdDY2ZU85RFJMZ25NbUZnM0hOMzhxMUlMSE5NOTk2MnM4LXVwOVFxNEh5SmdOemFnOWgyS0t0WGR2SGU0TzA2NUt0dkdMZXRHTVppX05zWEJLVFZFMVhCOFhSSDE2TFpaNERQOFVlSm0yekFVUEMzV2wzQXVWVmlzZE56ZXpJWlBaNmk?oc=5
+- Asian Games 2026: India medals tally and winners list - full table - olympics.com
+  Asian Games 2026: India medals tally and winners
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXlVcmQ3dDlCaEs2VGxzYmJpajRXal95UmhwQmU3cjB4LWh5Z1hSQk5ZTXMyU2RsTjBrSXlxZWFkWE9RNzVLcm0xMXdvVGoxQjNWQ1lXeUU3ank5Vld0OUFydnAxT0VQMFpTcHlxR2VLdlk3cnBFblNyLU1VYkFCMlp5SDFkTjRsb0l1N1ZoRQ?oc=5
 
-- Asian Games 2026 Day 4, Live Updates: India's Parth-Elavenil qualify for 10m air rifle mixed team final, Sindhu loses to Yamaguchi in team quarterfinals — Scores and news - Sportstar
-  India's Parth-Elavenil qualify for 10m air rifle mixed team final, Sindhu loses to Yamaguchi in
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTG00UGRoSlByRGd1ZFhEOWxiNlFLQzlYMnN0QWJhNFVGUWJOMXl1NTBEdjh6bG1ySVZfZDBOQWtvV0lXX2c2bklDREI2Y0MxMnVrZjZ2TFRkSndSVXAxeTc0c1dGOUxaSDBieExDVHg1d0RkZ1p3bS1pcFUxNnExc1VPaFJaeDNEUzBQeGVxOVRyVF96NWhibW5NdDdsNTlmOXA0SHVGQnltWlZGUWgwZUZqbXB5V0pXaUdKTFBIUlNETjd1SThBQUJ0MFViZFXSAdYBQVVfeXFMTnpsMmpQWDl5aXBlU09Dd2RJcnByeXRiVTROS21sX0k3MG4wQnBPel90NzJLSkl3Y0F5d1UzamZjYUxBY0Jjdm1hc3RfR0k0eUJlNEdXQ195Yjg4b3llYUlSLTFlOVJxVXZhTnVJelZ1REl2b045WXVHdlpiSFZTdzJCZUNjZ1dUTDBKR0kxVkVPckFsbE9BY2doNEJrMHlVT3NILW54WGZpdXp4cU13Zy1TZlMyYlI5SEVfdUp5T2N2UmN0bmM2ZEpUUXZENkRSRXY2U3IxUQ?oc=5
+- India eliminated in women’s badminton team quarterfinals at Asian Games 2026 - The News Mill
+  India eliminated in women's badminton team quarterfinals
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnVXOVlhYWRadTlCejJWT1ZDMVhBNWJnUElnaGZuZ3RKd1hjVGtMQVRXd3FDTDhYc1JXVE0yUjhZR21TcEoyc1hUazlURFNzSmFtTW9TXzVCZUg1bzlqLTZsdDU4MmpwVFg5NVBuVXRTeFd5dFNUSXdRSGgxa193MTJsSFNHOVBVTnVmS2NOS3MtZzdMLW90a2JUVDUya0ZQVE84MGx4MEZxZ2RC?oc=5
 
-- Google to report child abuse content directly to Indian authorities - The Hindu
-  Google to report child abuse content directly to Indian
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQeW9aMGc2VXRJcGRjWTNLdlBiclZpS2RTaFBCRnBMWDdldUF3Tzh1TktoRzdhYkVPNGl6czNlMnoweERSanFsemR3bURxVUlIeHNoNHZ1LUlfOGhUbTJ5MDBqVWgxUXRfeW5EbGNDUTRHM3BncmJqTS10bGREb2g0c0ZTaHVQUmNrRmNRYy0tSnN1dEx2V3Z5MVdrcGRaUFZIYW1zNVlpaTd0YnE5emJYWWx2eUJMMXc2LUJJWG1KSVJxd0lR0gHLAUFVX3lxTE5sWXJSOGxjdV95dVM3YmJLQU40UEV3ZjBHQTJQNDBSbkFRai1maEJLR2ZlQXFNczdNazNELTJyYlZNTXVqZHNINi1OelZRODZsdGl0Tkxjbjh5MG00cW5FSkw0dGFKbFNNX0RuTUo1VU11OWFVSzlMUnppbTNxWnRfZmNIbG1DUWx1OWd2amljVU1HQ1Rkdk9XQ1NudXRRcDdyQ2pRQXJGQUNQN1NSR3REQmk0blpLakpleE9zdVd5dVZHZFhTdl84NmRJ?oc=5
+- Key Accused In Bihar Shocker Shot In Police Encounter, Taken To Hospital - NDTV
+  Key Accused In Bihar Shocker Shot In Police
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYk5RdVpyWnoyTWduTUgyc3NLNzk5TzJOdzZUTXNVbDd1VXQyaXJ5OUd2U3QzY3NpQ1c0VTlFazA3bHA5X1JabEY3RjI4ZVhQX2F1RmU2YW5UMTk4WGRIM3gyZEI5bHRjN3BlSzZvbVVndFJuYVoyeTAxRm01UnZkX0d4SV9RY0xnMEZGQWpFWHpZR1lUcWwwSVpfOFVEZ1NodnF6aFkydllKS2FzQS16cXhMZXBGejBRYlHSAcIBQVVfeXFMUDc0UmNLOTNud1AzZEZVRE90Mmlia1ZWems3UFlPTkczTjQyYmZTY0tRMlJoZkxTS21pNDcxS0NyamtwaDRJVjc4N0xtMC1IQm05MVF5c3FEYWpacHVnNTM3eHV2UmpCVXNkR09CSE41c3VhQXM2bVJaWGJFYmxfTmlybjZSZkVUU011RmJCUEZNRUZmaFQzMW1GZDNmdmJfQkhGRmN4SWdLNHRhd0hMTVhqUHdUV2ZIRm8tbHp4RmlvZnc?oc=5
 
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
-  "Dead Economy": Annamalai M
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+- Made In India, Sold To China: What's Behind 40% Surge In Electronics Exports - NDTV
+  Made In India, Sold To China: What's Behind
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnpZZTRSbjcwVjRWSFNOTXRNUDktY0dMY0E5N3RzcmY3QkYwZHEyajV4Q0NZRktVS19ITXdwT3BrU2t5WFZ0RDhLMmhzWlNDTkZVT2xKdXZyT1Q5UnNjaEpSbTlZdHk2V0t6c3d3emZOOGNIcWFVczJwaFlDalVDa0gtdm1FTGs3eDY4RFB2enZtQW9vbHc2bE9oUjI2cDdQeDJZ0gGrAUFVX3lxTE9nWk5WdGNDUnNSWXZrRUNPQ1VDNEJRbVdVYzVNU3hnN1M1Q18xNkRkWGVHYzNZaXdhcWNuLXVFTTgtN1ZmUThOSWM2SjVoTk4xYUxhUWNhVnZIbV9SdlZXTjVMb0tGejVNQ1p5TWNLQmZCU1NUMWE1dXZKMnhsSXAtWW1Kcm15VVh6RDd5MzJHdDBSczNpZEFtRjNlQ2pQTEc4Y3ptdndIdDFyNA?oc=5
 
-- Asian Games 2026 Day 3 Live Updates: Elavenil Valarivan, Parth Mane in action in 10m Air Rifle Mixed Team qualification - The Times of India
-  Asian Games 2026 Day 3 Live Updates: Elavenil Valarivan, Parth Mane in action
+- Asian Games 2026 Day 4 Live Updates: India play Sri Lanka in men's hockey; men's badminton team assured of medal - The Times of India
+  Asian Games 2026 Day 4 Live Updates: India play Sri Lanka in men's hockey; men's bad
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMVZEdElLeVRzX1JXY3UzQkUyaWJXMmFWRlk3aG1HaUhkUUpJTTFvSjlGSmQ5elV0Ty1VVDJlQ0dZVHpzZGx5UW1TTlVRWGc1ZU1IR3pMV0xOdk45cEpiaDdzSWxJaGVReWUybUEzWWl3RW8yV2pmMUFodl90U0JuZFY4N0lFOHVla3JqTE5mU1pWUFlOZEw1OTF5dnVCQnZvel90ejZGOGc0T3RWTV9KX2gxTWtlY2EtNHBlMy1PY2pPb0htaXltWEp3UF84d2E5djRPUzUtRUtFR3NBT1UyQjk2SUdxanYxZHlWUWtaalZMT1BidDZ0eG9B0gH_AUFVX3lxTFAwMDhmeXdNWkdPVFFpTDYtQnJjemlKOFFTVDNNV2I0Y1JuXzd1WHVJU1Q0cjhtaHNKQktTTU43UkFTT0JWaTZyODJfSTRCTWZaZ2s3c1MwVTVSQkFJdFgtMjFiUWEwaHlISkhUM3hfcDVuYzN4R3NpTnRzMUwwQnF1UG93YlY5WXpEOGVOaTVlUUxsM2JzZ25HNWVHbHJwYU5ORFA2TnU1UFZtMV9WQWFwb1R0VXNKS0hKRHlsODZyckt6YkxKdFJ5MzJFMUIzVTR3czFXSGV4NnJsMjBrV3Q0NmxZWExsc24xbHVxOThmTjZmODlLRjhxM2lmcEkzTQ?oc=5
 
-- India at Asian Games 2026, Day 2: Himanshu Dhillon, Rudrankksh Patil hit their marks; Suchika Tariyal creates MMA history - as it happened - olympics.com
-  India's men's boxing team reached the quarter-finals of the Asian Games for the first time. India
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1RFdnVoemhGY28tWlFSX2NZdDY2ZU85RFJMZ25NbUZnM0hOMzhxMUlMSE5NOTk2MnM4LXVwOVFxNEh5SmdOemFnOWgyS0t0WGR2SGU0TzA2NUt0dkdMZXRHTVppX05zWEJLVFZFMVhCOFhSSDE2TFpaNERQOFVlSm0yekFVUEMzV2wzQXVWVmlzZE56ZXpJWlBaNmk?oc=5
+- Asian Games 2026: India medals tally and winners list - full table - olympics.com
+  Asian Games 2026: India medals tally and winners
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXlVcmQ3dDlCaEs2VGxzYmJpajRXal95UmhwQmU3cjB4LWh5Z1hSQk5ZTXMyU2RsTjBrSXlxZWFkWE9RNzVLcm0xMXdvVGoxQjNWQ1lXeUU3ank5Vld0OUFydnAxT0VQMFpTcHlxR2VLdlk3cnBFblNyLU1VYkFCMlp5SDFkTjRsb0l1N1ZoRQ?oc=5
 
-- Asian Games 2026 Day 4, Live Updates: India's Parth-Elavenil qualify for 10m air rifle mixed team final, Sindhu loses to Yamaguchi in team quarterfinals — Scores and news - Sportstar
-  India's Parth-Elavenil qualify for 10m air rifle mixed team final, Sindhu loses to Yamaguchi in
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTG00UGRoSlByRGd1ZFhEOWxiNlFLQzlYMnN0QWJhNFVGUWJOMXl1NTBEdjh6bG1ySVZfZDBOQWtvV0lXX2c2bklDREI2Y0MxMnVrZjZ2TFRkSndSVXAxeTc0c1dGOUxaSDBieExDVHg1d0RkZ1p3bS1pcFUxNnExc1VPaFJaeDNEUzBQeGVxOVRyVF96NWhibW5NdDdsNTlmOXA0SHVGQnltWlZGUWgwZUZqbXB5V0pXaUdKTFBIUlNETjd1SThBQUJ0MFViZFXSAdYBQVVfeXFMTnpsMmpQWDl5aXBlU09Dd2RJcnByeXRiVTROS21sX0k3MG4wQnBPel90NzJLSkl3Y0F5d1UzamZjYUxBY0Jjdm1hc3RfR0k0eUJlNEdXQ195Yjg4b3llYUlSLTFlOVJxVXZhTnVJelZ1REl2b045WXVHdlpiSFZTdzJCZUNjZ1dUTDBKR0kxVkVPckFsbE9BY2doNEJrMHlVT3NILW54WGZpdXp4cU13Zy1TZlMyYlI5SEVfdUp5T2N2UmN0bmM2ZEpUUXZENkRSRXY2U3IxUQ?oc=5
+- India eliminated in women’s badminton team quarterfinals at Asian Games 2026 - The News Mill
+  India eliminated in women's badminton team quarterfinals
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnVXOVlhYWRadTlCejJWT1ZDMVhBNWJnUElnaGZuZ3RKd1hjVGtMQVRXd3FDTDhYc1JXVE0yUjhZR21TcEoyc1hUazlURFNzSmFtTW9TXzVCZUg1bzlqLTZsdDU4MmpwVFg5NVBuVXRTeFd5dFNUSXdRSGgxa193MTJsSFNHOVBVTnVmS2NOS3MtZzdMLW90a2JUVDUya0ZQVE84MGx4MEZxZ2RC?oc=5
 
-- Google to report child abuse content directly to Indian authorities - The Hindu
-  Google to report child abuse content directly to Indian
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQeW9aMGc2VXRJcGRjWTNLdlBiclZpS2RTaFBCRnBMWDdldUF3Tzh1TktoRzdhYkVPNGl6czNlMnoweERSanFsemR3bURxVUlIeHNoNHZ1LUlfOGhUbTJ5MDBqVWgxUXRfeW5EbGNDUTRHM3BncmJqTS10bGREb2g0c0ZTaHVQUmNrRmNRYy0tSnN1dEx2V3Z5MVdrcGRaUFZIYW1zNVlpaTd0YnE5emJYWWx2eUJMMXc2LUJJWG1KSVJxd0lR0gHLAUFVX3lxTE5sWXJSOGxjdV95dVM3YmJLQU40UEV3ZjBHQTJQNDBSbkFRai1maEJLR2ZlQXFNczdNazNELTJyYlZNTXVqZHNINi1OelZRODZsdGl0Tkxjbjh5MG00cW5FSkw0dGFKbFNNX0RuTUo1VU11OWFVSzlMUnppbTNxWnRfZmNIbG1DUWx1OWd2amljVU1HQ1Rkdk9XQ1NudXRRcDdyQ2pRQXJGQUNQN1NSR3REQmk0blpLakpleE9zdVd5dVZHZFhTdl84NmRJ?oc=5
+- Key Accused In Bihar Shocker Shot In Police Encounter, Taken To Hospital - NDTV
+  Key Accused In Bihar Shocker Shot In Police
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYk5RdVpyWnoyTWduTUgyc3NLNzk5TzJOdzZUTXNVbDd1VXQyaXJ5OUd2U3QzY3NpQ1c0VTlFazA3bHA5X1JabEY3RjI4ZVhQX2F1RmU2YW5UMTk4WGRIM3gyZEI5bHRjN3BlSzZvbVVndFJuYVoyeTAxRm01UnZkX0d4SV9RY0xnMEZGQWpFWHpZR1lUcWwwSVpfOFVEZ1NodnF6aFkydllKS2FzQS16cXhMZXBGejBRYlHSAcIBQVVfeXFMUDc0UmNLOTNud1AzZEZVRE90Mmlia1ZWems3UFlPTkczTjQyYmZTY0tRMlJoZkxTS21pNDcxS0NyamtwaDRJVjc4N0xtMC1IQm05MVF5c3FEYWpacHVnNTM3eHV2UmpCVXNkR09CSE41c3VhQXM2bVJaWGJFYmxfTmlybjZSZkVUU011RmJCUEZNRUZmaFQzMW1GZDNmdmJfQkhGRmN4SWdLNHRhd0hMTVhqUHdUV2ZIRm8tbHp4RmlvZnc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,5 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-_Last updated: 2026-09-22 02:57:56 UTC_
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2026-09-22 10:52:12 UTC_
