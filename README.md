@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
+  "Dead Economy": Annamalai M
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+
+- Indian Seafarer Killed After Torpedoes Strike Ship Off Oman Coast - NDTV
+  Indian Seafarer Killed After Torpedoes
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXhwSjk0bEZrTG9pcGRFSnVsbkVXU3liZkw4NEwxNmhJOUh1MHkwOXlONm13SEdDVm1qRm9pUEhhZ1JoNVhfeVNYOEI5aG1rQ09iQTdiZ0QyZlpLYUw5RTRKMGpwY3VJdU1vTFdvNHRTZTBwak41SGc1S2xVTDcyZDYxSHNOa0N6VE9CLVpjWGRkOFBlTHJDbF9tSjFaU1B6elZmT25uclVDZ9IBsgFBVV95cUxQOVRZbTNJVDVXc2pCTVJhb05ZcTYtb0FEeEo4RHRaYTVKU3M0QUd0dDRyYXV1NjFmdXd4eUZNdzJycWlHYkhJd0lON0JGSVYyb0JTTExsd2ZOX3p0aUd1OFc1MV8xTHBxaEtBZE51NWFvNTdfWUFZb0w1NXJ2OTR6bFJ1dzZ2dXQyWlhUblRNdlQxbHNsOVVfUHNvcmFOWC1nWnRhYjlNcTAyZTFzZnFORXl3?oc=5
+
 - Asian Games 2026: India medals tally and winners list - full table - olympics.com
   Asian Games 2026: India medals tally and winners
   🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXlVcmQ3dDlCaEs2VGxzYmJpajRXal95UmhwQmU3cjB4LWh5Z1hSQk5ZTXMyU2RsTjBrSXlxZWFkWE9RNzVLcm0xMXdvVGoxQjNWQ1lXeUU3ank5Vld0OUFydnAxT0VQMFpTcHlxR2VLdlk3cnBFblNyLU1VYkFCMlp5SDFkTjRsb0l1N1ZoRQ?oc=5
 
-- India at Asian Games: Live updates from Day 4 action on September 23, 2026 in Aichi-Nagoya - espn.in
-  India will compete in the 2026 Asian Games in Aichi-N
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYmRBLVhzS1lsREhDd3ZfVElLVWVXQWRXNHQ2Z1lLVHgzME5vcEdjM3lJN2pxWHE0dHI1dXBGTXhueWFSWFE4aTR6cC1INjJCSV94T2RDc2lzMnhBZXFXcFhjOW81NnVKdGFHM3N3cC1QT2x5YlBQdTNfam9qcGpBOWs4a2l6eWVwR2otTy16SXl1eWNGQmdwRXZDUW9yaUphUTJMY2xtLU42WElNbW5EZjhtbEpFQzRBNTZydTVhNlN0Rk1mdWxFcktRWWZnRGlCOGtBcnFoaGY3blppdUlQOExmZFZjQ0Zvb1E?oc=5
-
-- Asian Games 2026 Day 4 Live Updates: Roshibina Devi storms into 60kg Wushu final, to fight for gold tomorrow - The Times of India
-  Asian Games 2026 Day 4 Live Updates: Roshibina Devi storms into 60kg Wushu
+- Asian Games 2026 Day 4 highlights: Mirabai Chanu wins silver, India clinch two skeet bronzes on action-packed Wednesday - The Times of India
+  The Times of India reports that Mirabai Chanu won silver in the women's skeet
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbmtTbE15aFMxZVlrd3pUVFNyRVlVdjdUR3huc1drMVB3LURPSk5kQ2VjYi14TVd3VW5wMjQ5eTd4Mmo2VHBDVXV5U2RZbFpRM3hEN1M1eFNWWkxSUjZQR0NYUmxpTDFaU0NuTUwwRTdmZEdsNDd4elVCQ1BWQTEzcDgzelZ3d2VsanJidEotSVVwaDY0OENzdGpDZ0FoZWRFNXFNZm1CanB4MjlPc1ItS2RfallTNVRCUDZjVEI0eFJaWDZ5R3l2N0dLTnJqajNSQ3VHM1RHVXRhVWlsQ2F6aTVldnYtN1ZpZGkyWmdxTHRvaEJSeC1rd01B0gH_AUFVX3lxTFBtRE9LaGJDMDFxTjFKQW80NlJzTWJpMnhvUWlQVW9xNy1WUmhTUjg4SXc4cTFYcFpKSDZ5S0NWaWROY2pjZFIybWtoVUQ5Ymk2QkFpZWFBVlBzNnE2WVpwRjlKT2RjaEE5ZGFqRjZ4N2xzeHNWWndVZlhNVHNOVDhSdGlSeW9EZHM0Vnd2NkVHcmp5RzJKRzQ5c2F2R05WSzl5VGVib0FuUDJaT0V5OG9aRFhiTkRuaWg0eXNXQ1BNOWFncXo0QmhPbWhIbWZ4WjNjbDhIdG9leXRnQ0Y1OVlOUXN0czNRMHN4aUVqcGtVeVFOV180Ml9tYURTNnFXRQ?oc=5
 
-- Renewables: Grid shortages are forcing India to produce and waste green energy - BBC
-  Renewables: Grid shortages are forcing India to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oYWZXTGJsNGVxcWRpaWw1bUxSdGVaSDh6aWxlRUhYNkg4MnlxRUJ2ajRzTHl0ajRIZk9Kd1FUSk9Xalc1NGV5aTBkS0RteXZPMGZxNWEwRExyUQ?oc=5
+- India storm past Sri Lanka 16-1 to make it two wins in a row at Asian Games - Hockey India
+  India storm past Sri Lanka 16-1 to make it two wins in a row
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1oyUXk3R0lSbG9SbVoteTlCeXNxeGdMOWFrdkZNaU9xVnNuakJWNnBjbExPSFE5SnhqaXNxczVLaTJpYjF1MzNWcXp3U2FTeDdUbHQzYTdSNGR4LS1fRHVPSlFBVFhGTlJvNldoaUJLVzUzLVUxMGFlWmVGeHpzdE9xeldfVHJyZW1keFJheWV4OUlicG5CZUNtYjJMc3hZZ3VoQWZ6Y0VlTTZL?oc=5
 
-- Africa's Richest Man Hires India-Owned Firm For $16 Billion Kenya Refinery - NDTV
-  Africa's Richest Man Hires India
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWNTdzNNQ2RKUV9ZMGdDYVNhanppMUdPQ1dGUmUzbUhMbVFRWDVTbzk0NWdUZ1RnUkM4clRaZVA1a0pUUkVqY3A1S3lPSkxwcmlYR1pOM19XN0dZNVQ1SEs4X2ZyRC1ObkFfa3BEYk5BTzlyNUxnRk5SUG9PVzMxZTh3Mkw4MEVXUS1EckdseDNBVGxtckhaM2h1WktCd1U5SFlzTUpfaGdkSDlGdDEyTnhBb9IBuwFBVV95cUxNYnp6d2pGaFRmLTIwbUJFSmpmR0FYVlZoNG15Vi1ZQTNVNHNEZ3F3T1pzQlAxaElzeFl3V0hubkJ3QXVfc2JKREN3SDNOeVdzY3JJMlFfU0RfMnN1SnQzcDMwYU5WaUpaTGJPNXJ4Rm5wRmwySTFORGRzNXdBV2V6bkdsNUxNa2RXbG1XYmJFZFVtSmhMeHIwVFg5R3BEMTVWSGFYeWxJZGxfZWhBbnpfSnFRYjVuUTVoSmVR?oc=5
+- Don’t be fooled by this summer of AI hype - technologyreview.com
+  Don't be fooled by this summer
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOalMwd0FqRGVxX01sTWdkVXpUOFF1ZDN0dWpIaXNHRFlzYTVZSFdpcVlVRzY3XzV6ZWctZmk3LVM3b0o0dFJpdldJQ0l2a1ZaUldLcUo5NzV0SXpnajYtbDctYTFVenJRM2xFb0hsWm5wbG1xUzRDczNhbTJDaVVRdnQ5Z0tTNmI5MXc?oc=5
 
-- How India's 320 Kmph Bullet Train Will Change Tracks Without A Jolt. Technology Explained - NDTV
-  How India's 320 Kmph Bullet Train Will Change Tracks Without
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQdXFaOTA4UlBGazExMUVCaEdDSlljX0Nra091YlByUkNiTGpMSTNfMlJ5aFR2aUZ4OHVOdnhhTEIxTkVDNUd4cjJEOFZITFcxWWNnbTMtUV9qdmNvT1Zqb0JUOXduQndVX0REUUU3MlowV2xfYUwtMzF0VEdBYWNEU20weTdHNGRjTkZJMnBVVkJ4S1lBQ25LSzlYOFhTTVJNcmJmcXg4OVBJZjM2WnR1Z21sVkJzSDk4ZG5QZnBJc3l1RHROZE800gHPAUFVX3lxTE43QlpVZ1ducy1hWGNFMEtmbzRoVzBfWXVQZUJNcHo5aWRfSEJMNnJOYkdUZGpLX1RVZ3RCaEtISFFzMHRlb2RtN3MyX0pkZ25UVjB4TUgyRDVxMDhTM1I4aEhmSkVuLXZkdjl1RkJocFl4aGhSbVh0T2FpLUVpM0pfeHdzc0hoV1RGYXJOcmRaOU8tSDcyRUxIQjJ4cjBtTDdMa1NsRTNuZEktQ2xQOFB3c2hnMWxONzhNcDJrLTlZTFRFOTJLaDlvVEtIYmJLdw?oc=5
+- Prosus names AI and technology leaders building the next chapter - Prosus
+  Prosus is an artificial intelligence company.
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUhXemhJUFpxaUR5dC1ETDdzUW9BZTNseURHVFFqVW5uQ1VmcVdTVnVrVEhGUkRma094Z0d3SUxuSGo4U3RNeVhfMno1TlYzaThaenFPdm1RODAxZ1VHMjk1ci1MNTdaZC1yQVIwb1NRbWUxekN3NVZrZ19vcWZ3YW1xM0Fyd1hqRjA1QmRGRzJkWGEwbzVGWHFiYmxyNkRXUDhJMUlNemxPZw?oc=5
 
-- Trump wants AI to be called 'super intelligence'. Will it work? - BBC
-  Trump wants AI to be called 'super intelligence
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZUZJX1V6VHhqMi13UWVncGxhZEhQMW1IMHBPVk1fWEdObG1rcHF1cXlWTjNJVk54NVZjaGVrd2wxV3BBX1FvVWJNTEFkUnZQTHdPNlI3ZzYwNkE?oc=5
+- AI leaders to brief UN amid warnings the technology could slip beyond human control - Reuters
+  AI leaders to brief UN amid warnings the technology could slip beyond
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5
 
-- Starbucks Technology to open new hub in Chennai, India - about.starbucks.com
+- Anudhaban Summit Champions Global Research Collaboration and India’s Emerging Technology Landscape - TheWire.in
+  Anudhaban Summit Champions Global Research Collabor
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa2lBSE55RzZuR1lWZERQSFBGNFh0b1pXeUJwUXZlUzhuc1ZRZmVTUGI2N2pfZDd3WHFCNkpTTFlzYTBGeG1JTE5YYURKUFpZRkZraUdHUWczNEU4T2dSVkJJM0h5TzkzVDFZU2N1NFg3dkM3Ymc1V2t4d21Hdlc3VEUxS1U2UEotS3hXNVFSbXZ2T1Zua01vbEVOd0xoRUZIQmJqdk5IOF9BNDJ2Mm9DcFl4blpuZkZUZGRuVDJCOEZ5Q0hSUThLWU01bUdtMC1LM3fSAdcBQVVfeXFMT1gzUl9KNk1IQWpQQlVBdDZ6TGhrc3l0OEdUS0pzVXNoeW05VEttMGdGSXBtTHNVTGhoUjhPOFRjVlMycWFOWmNSUFFuRzA2VnhqVE54Qm5BUEh5MG9PZy0xWWJyT2xFblNDSXh6b3NaWXNrYU9VbnZPelVuY0U4ZUN4MDdlNDNFRkZnUjIwQUhha1VjVjNIcDZlZDVTNllDa0JLNk0zUVplRTZiblMwY0pEYTdXNGhuM2JkekVSaDUwVF9hajdHeGNiS0Rwb3NsUHFUTjM0UTQ?oc=5
+
+- Starbucks Technology to open new hub in Chennai, India - Starbucks
   Starbucks Technology to open new hub
   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5
 
-- Don’t be fooled by this summer of AI hype - MIT Technology Review
-  Don't be fooled by this summer of AI
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOalMwd0FqRGVxX01sTWdkVXpUOFF1ZDN0dWpIaXNHRFlzYTVZSFdpcVlVRzY3XzV6ZWctZmk3LVM3b0o0dFJpdldJQ0l2a1ZaUldLcUo5NzV0SXpnajYtbDctYTFVenJRM2xFb0hsWm5wbG1xUzRDczNhbTJDaVVRdnQ5Z0tTNmI5MXfSAY8BQVVfeXFMT2xqNWpqRWsxS2d5b3dXTk13SFJnS0tSdDhoNmM5VlZObmpIcXd1bjNuWERhVS04TS1iM3NyWUF2czZfbjRkTXB5MkI4aU92WEI3QU5HSm4zMTZOOTdWYmJTWWhtNF93S2xndmo0MUhmUkNjSjVjVDBmMHFUT240UW84bkNNeUo2N0JSdUp2b00?oc=5
+- Amazon to rehire laid-off workers for AI roles: ‘A lot has changed since you were….’
+   recruiter from Amazon's AI agent organisation contacted former employees last month about available roles.
+  🔗 https://www.livemint.com/companies/news/amazon-to-rehire-laid-off-workers-for-ai-roles-a-lot-has-changed-since-you-were-11790175007889.html
 
-- Technology cannot replace teacher, but it will change role of teacher: J&K L-G - ET Education
-  Technology cannot replace teacher, but it will change role of teacher
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb19Ia0RqRXdYdl91NkZQU25URHpCcDZSdS1mSjRwbEZwLXlvRTBoejRLTmJBaVlqNVdYODBHOE04VE82aVh5QVBtaWNCMTlZYm9YOWRqb0pEdWpadG1VNFliZFcwQmUtYVFyVVhjMnJlVjNlN2V0bjJ2dUc0bE90a2pUcXVyay1fWjR5YUl1UEhJMXBwWkQ0elp5TXFLWTdFSEtqSjB2QmFsNDd6UDNqRE5vQl82U3I3RVRzckp3Wjl1ajhmTFoza2xKcUJmS3FMWXdTTEdqOGJ4SjNyZFVj0gHkAUFVX3lxTFBTc0JZQ0ZBcS1HYnlpQkhjazdHMUlqNWNEeWJvZWxkcktOM1FrckRKT2dBdUU0cVJVbWo0djkzX21wOEVNZ3FuQ2I3UGVOSnFFVDV1b1o4eWZfUTRIUmcwanNmRm5Qb2RlZkxXNzNyc08xdk5tYUg3Q3laeE9lYmt5NkVaTDh5TXhFZ3k0Q3F0S3dIM3V3TENsd0NBcXdvVkl1RDFPVU9RRkhyS1NxTE9HZXpYNTNzbEYtT1g3RW1EbnJJSnQtTnRwbVBBWUlITDFaU3B4YjJpeG1VYjJ2dFpRa0FjSg?oc=5
+- Byju’s parent Think &amp; Learn, Aakash settle rights issue before NCLT Bengaluru
+  Think &amp;amp; Learn Private Limited and Aakash Educational Services Limited have settled their dispute. This was communicated by Senior Advocates representing both parties during a tribunal hearing
+  🔗 https://www.livemint.com/companies/news/byjus-parent-think-learn-aakash-reach-settlement-over-rights-issue-before-nclt-after-legal-battle-what-led-to-d-11790167107059.html
 
-- L&amp;G layoffs: London-based company to cut 10% of workforce, or about 1,000 jobs, by mid-2027
-  L&amp;amp;G is seeking to reduce its workforce in efforts to improve efficiency. CEO António Sim
-  🔗 https://www.livemint.com/companies/lg-layoffs-london-based-company-to-cut-10-of-workforce-or-about-1-000-jobs-by-mid2027-11790156779040.html
+- Duty-free shops can’t claim blanket exemption from Indian laws: Bombay HC
+  Adani Group-backed Mumbai Travel Retail and Flemingo Dutyfree Shop argued that Indian drug authorities could not take action against them
+  🔗 https://www.livemint.com/companies/news/bombay-hc-ruling-duty-free-shops-adani-subject-to-india-regulatory-laws-customs-barrier-11790168199016.html
 
-- Zoho bets on AI to rewrite the enterprise software playbook
-  Zoho’s Zia Chat puts an AI interface across its 60-plus applications.
-  🔗 https://www.livemint.com/companies/news/zoho-bets-on-ai-to-rewrite-the-enterprise-software-playbook-11790148192525.html
+- Multiples targets industrials as new investment frontier
+  Multiples Alternate Asset Management is moving into the industrial and precision manufacturing sectors for the first time. The PE firm is investing via its $885 million Fund IV as it also shows keen interest in
+  🔗 https://www.livemint.com/companies/pe-firm-multiples-targets-industrials-new-investment-frontier-fund-vi-ai-technology-11790159336484.html
 
-- Supernova in talks to raise $15–20 million from Vertex Ventures, Verlinvest
-  The Bengaluru-based AI English-learning startup has about $15 million in annual recurring revenue
-  🔗 https://www.livemint.com/companies/supernova-in-talks-to-raise-15-20-million-from-vertex-ventures-verlinvest-11790151494506.html
+- Salesforce missed OpenAI. Its $50 million Anthropic bet is now worth $5 billion
+  Salesforce's $50 million investment in AI company Anthropic has surged to around $5 billion. The partnership aligns with Salesforce's
+  🔗 https://www.livemint.com/companies/news/salesforce-missed-openai-its-50-million-anthropic-bet-is-now-worth-5-billion-11790164533797.html
 
-- Hurun Rich List 2026: Gautam Adani reclaims top spot as AI adds 15 new entrants, India gets 27 billionaires
-  Gautam Adani and family have reclaimed the top spot on the M3M Hurun India Rich List 2026. India’s dollar billionaire count rose
-  🔗 https://www.livemint.com/companies/people/hurun-rich-list-2026-gautam-adani-reclaims-top-spot-as-ai-adds-15-new-entrants-india-gets-27-billionaires-11790153652856.html
+- Top stocks in focus tomorrow: Investors must watch GHCL, Max Estates, Bharat Dynamics shares on Thu, 24 Sept | Triggers
+  Key companies in the spotlight for investors on September 24 include Sheetal Universal and GHCL. Other highlights include Motilal Oswal's custodial approval and
+  🔗 https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-ghcl-max-estates-bharat-dynamics-shares-on-thu-24-sept-triggers-11790174249617.html
 
-- DGCA carrying out SpiceJet scrutiny amid flight delays, salary woes — ‘Don't want lapse in safety’
-  The civil aviation ministry faces inherent limitations in intervening in the affairs of a privately run carrier.
-  🔗 https://www.livemint.com/companies/news/dgca-carrying-out-spicejet-scrutiny-amid-flight-delays-salary-woes-dont-want-lapse-in-safety-11790147779396.html
+- Sedemac Mechatronics block deal: A91, Xponentia, HDFC Life likely to offload 10% stake: Report
+  Sedemac Mechatronics Ltd may see trading activity as investors plan to sell a stake in a block deal. Up to 44.3 lakh shares or 10% equity could be sold
+  🔗 https://www.livemint.com/market/stock-market-news/sedemac-mechatronics-block-deal-a91-xponentia-hdfc-life-likely-to-offload-10-stake-report-11790175988672.html
 
-- Stylam Industries gets BUY from ICICI Direct; 21% upside seen — check price target
-  Stylam Industries is expanding with a new facility and a BUY rating from ICICI Direct. The company shows strong growth potential, driven by capacity expansion and
-  🔗 https://www.livemint.com/market/stock-market-news/stylam-industries-gets-buy-from-icici-direct-22-upside-seen-check-share-price-target-11790155437131.html
+- Wall Street slips as oil and bond yields rise, Trump-Xi meet in focus
+  The S&amp;amp;P 500 declined 0.1%, while the
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-slips-as-oil-and-bond-yields-rise-trump-xi-meet-in-focus-11790171977214.html
 
-- Kellton Tech declares fundraise through rights issue; price, record date, other update you should know
-  Kellton Tech Solutions Limited shares rose after the board announced a rights issue for fundraising.
-  🔗 https://www.livemint.com/market/stock-market-news/kellton-tech-declares-fundraise-through-rights-issue-price-record-date-other-update-you-should-know-11790157684189.html
+- Shapoorji Pallonji seeks additional funding amid Tata Sons IPO uncertainty: Report
+  Shapoorji Pallonji Group seeks 35 billion rupees to meet debt obligations. Group exploring options to monetize its stake in Tata Sons. In talks with lenders,
+  🔗 https://www.livemint.com/market/stock-market-news/shapoorji-pallonji-seeks-additional-funding-amid-tata-sons-ipo-uncertainty-report-11790171339046.html
 
-- ITC, Godfrey Phillips shares rise up to 2% | What’s driving the rally?
-  ITC and Godfrey Phillips shares rose by 2% on September 23 after ITC increased Gold Flake Premium cigarette prices. This marks an 8% hike, contributing to a 17.4
-  🔗 https://www.livemint.com/market/stock-market-news/itc-godfrey-phillips-shares-rise-up-to-2-what-s-driving-the-rally-11790156166882.html
-
-- Advertising margin holds the key to Meesho’s profitability
-   logistics margin expansion can bring Meesho to Ebitda breakeven. scaling ad monetization will be
-  🔗 https://www.livemint.com/market/mark-to-market/advertising-margin-holds-the-key-to-meesho-s-profitability-11790152742587.html
-
-- AI Rally, Weaker Yen Set the Stage for Japan’s Market Return
-  Japanese stocks look poised to catch up with a global AI-led rally. A weaker yen keeps currency intervention risk
-  🔗 https://www.livemint.com/market/ai-rally-weaker-yen-set-the-stage-for-japan-s-market-return-11790156324727.html
+- Sebi weighs margin changes for longer-dated derivatives
+  Sebi may review margin requirements for longer-dated derivatives. Sebi seeks to broaden India’
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-stock-futures-options-derivatives-index-options-11790168119720.html
 
 - FBI hacked? ShinyHunters claims brazen theft of sensitive agent data — what the cybercriminal group wants
   ShinyHunters claims it breached the FBI and stole sensitive data. Group says it accessed terabytes of information through an Oracle PeopleSoft server.
@@ -100,165 +100,153 @@
   OpenAI has called on the United States to lead efforts to establish global technical standards for frontier artificial intelligence.
   🔗 https://www.livemint.com/technology/openai-seeks-us-led-framework-for-global-frontier-ai-standards-says-us-well-positioned-to-lead-11790131687520.html
 
-- Stock futures mixed after Nasdaq Composite posts fresh record: Live updates - CNBC
-  Stock futures mixed after Nasdaq Composite posts fresh
+- Stock Market Today: Major Indexes Slip in Early Trading as Oil Prices, Treasury Yields Rise - investopedia.com
+  Stock Market Today: Major Indexes Slip in Early Trading as Oil
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDVlSWhBbFlRQXQ1Z0UxUnpqYjd4blRZRmhOWTZCTTl5bVhhQlJsNW5LTmZpV3o0bzVlTzVRdFRZLVlYQl9OWFlWTkNna2lRQXo0RHlFc0RldF9aaGVuQ3hrcnBMSnRjd1pyUkkxTXdsMVZKZU5lZ3p5MnVBclB0ZGRPc0wxejRXQ1FqNU1xZF8?oc=5
+
+- Stock Market News, Sept. 21, 2026: Nasdaq Rises to Record as Oil-Price Drop Unlocks Rally - WSJ
+  The WSJ looks at the future of the stock market. The
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNam9GTktGNDJ3TmRkQW9Fbk51TWJadS1aVnNEYUwydEgwb0NCLVQ2NHJjQ19aTUloUVJWSk9wVklRcmxhMVFBTDFCV2RQRHFNRy1RNVFMcHM4T2wxVjB5dlVjMGZmdXBkTmNVNFZxb0NpRTg1aGFEeWx3amk2MndtVTRIQVpKaVk?oc=5
+
+- Stock futures edge lower after Nasdaq posts fresh record: Live updates - CNBC
+  Stock futures edge lower after Nasdaq posts fresh
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE00VzhGUlU1QW9UTWpKMjZBZTJMZHcwUnB1NEs2eFJaT1FjWkI5LW9QZXEyZWpwNDBvYUVPMHBpM0FKQjVvb0dvSkVkSW5UVWduTjRYU1l5WkFQenF5ZVh2NWo2cVZDWlJIN0JsdHhJMXFVVGZtNGxZ0gF8QVVfeXFMT3R0cmRNcXl3RkMwVklPZE9IcnNvOEhYTV93YmlQT1dtcWVtODhrVmdaY3ZPRllnYktPSWRDckN0eW1MYVhuaTYxVHpJZ1dGUUd5NHRTb2VKbXFSR0FpQUppaGQ3ODhxd3dQOUNOc0VsbVAxU3dwbzRubWVmcQ?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Sensex Jumps 400 Points Amid Mixed Global Cues - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcThZNzd3VTJ5ZmhGMUpQQmpMZzZKZUw4RlFNaXU0aURGUFA2c2tEYzlYcTFGamhUcjY1dVlFWjJzbjBjT1Y5Q3B1d2hITUZoclJOejFhcVQ4dWVZeVF0Zi1zdFFkbEtBd2
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcThZNzd3VTJ5ZmhGMUpQQmpMZzZKZUw4RlFNaXU0aURGUFA2c2tEYzlYcTFGamhUcjY1dVlFWjJzbjBjT1Y5Q3B1d2hITUZoclJOejFhcVQ4dWVZeVF0Zi1zdFFkbEtBd2pxQjVXdF81bld5MnNRNExYRkpZTG9oNzBWUGZ4cEZTdEJQeGFNSUdSdnpERDE2cElSOGtZZG1QbHMyR00td3dzemhIbWttZmlqRFBpVUdSS1dJcEhaN3ZHWmVMRkFRTEtjSG5GbGVteWfSAdoBQVVfeXFMTWpGbWt2VlloTE1LOGdhQk5KVUR5eFdJNTZfeVpqR1RrTzhyWl9xZUxyRE1fX0h6UTltVmVlNERRUTNjMW5mMkVCaEN5MDRjZ1JtNzZuanFydnk2VnFjSFlvZDhObU1Fb3JEYktZMHRTMGNFYzdsSmh4SlRuYUQzcFJDcUxPSzV6M1FaT3JKam9PS0JoMkdKSXZKVmZyN1U0Wm9tdEdHMHFLMEpoeDQ3d2tveWpuQ0xCNEhrSUE0bW5teFViRndNTmVIZW9Uekp0N1dRUzZCTF9FQlE?oc=5
+- World Bank’s Banga Says Data Centers Aren’t for Emerging Markets - Bloomberg
+  World Bank’s Banga says
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWx5S1AxQV9aUmZJdjNjNXRpVVZ0V1d6NkdodmcyMVAyWVl0VUZ2MzFoQndaNEo5VHlTX3JqV0p4azRrdzlfVDVoQ2RPdEt6TEVLYW80ZnZvRTJKeGFCbXRlNVZxOEFtRlZfZHhHekFaSjNNZGZyblN0N3VVSEF3UlZ3a3Rjb0xsLUpWZm5YcWliX2xPZzhwZWlGbEFLU0Q0Znd5YllVTlgySWJ3VVlBV083R2VfQQ?oc=5
 
-- Stock Market Today: Dollar Climbs, European Diesel Futures Jump on Possible U.S. Export Ban — Live Updates - WSJ
-  The WSJ reports on possible U.S. diesel export ban.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzA0Y3M1aDgybkFJcEdvV2ZOdmdoTU1fWjhLd3JtMm1ENlBFRGNndVJ1Ylcwd3pBZ2ZiRDNqckpaNVBYRENLNlNZQ2lhLVlHbnVYZ0g3SWwxQS1zMTlRQmUycFFxaXpZZkVPM2NZbTMyVkF5bXd1T3F2WklHQ3pSdG8zQ29faGM?oc=5
+- Rupee slips as dollar gets Fed hike expectations tailwind - Reuters
+  Rupee slips as dollar gets Fed
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVNmdlVNbHl0UDFJQll5ckV0NHkzNXZVTmhvdlVPNk1Bci1RSXJRV2RRc3FVRm4zTlNONm15dlNZOFhNTzlOYVFnVWJQUUJmWnMzZnJCdzV6RV9OblJldlBZMExybTBaVDk2X0VVbXVYNHVTNy1wcWF4TzdiVXZNbXBSYnpYZjhsVzNjZTJhWF8zR183OXBCX0lWMm1TamR5WjRJSjhrMWZ2UQ?oc=5
 
-- Dollar at 2-month highs as markets weigh rate hikes, Iran diplomacy - Reuters
-  Dollar at 2-month highs as markets
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ09vVklTVy1TeFR1N3AzZE9MUHJnb0dWeTVVUXJOS1N1dE1lT0ZSX1BSZ3RnMzVoVTdXTHhldmxGZkhCYkVTaHRMLWFrU2FUQVJhbzZHWld6TnZ5OFdXTGNDWXNUbTl1NE9qSmV5a3ZiQ0FUa3laZUdZVjRZZmNwazFoNDlKVHlkdEVQdzVLM01pb3M0S0x2VkFqN0dJRzhOLVZkenlmQzNxTVRVVm9reFRUN1psM1ZkbW1ycUhYU0VMM28?oc=5
+- 10-year US Treasury yields surges over 5.05% to 19-year high
+  The 10-year US Treasury yield climbed to 5.058%, its highest level since July 2007. Fresh services and manufacturing data raised concerns about further Federal Reserve rate hikes
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/10-year-us-treasury-yields-surges-over-5-05-to-19-year-high/articleshow/134441042.cms
 
-- Data centres are straining the insurance market - The Economist
-  Data centres are straining the
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDdNODNCOE1CQ1Z1NlV1WkJYT2VpM1lmZnNrVEVMN0J0WXRIVTlpV2RIOUdRMlo2WWMzUHM5aTFCY19ud29RX3FHX0lPZUNpZWZsOHVIMFJSVlIxTFZETkFQUnpVYlNSSDJyamZMSmNzQXFYQjgxejhNUkNyREViXzc1dk1iMjItNjhHbEFCQmdZQV84QWJidS1FOXktT3VkTmljVk9rY0lNUQ?oc=5
+- Sedemac Mechatronics block deal: HDFC Life, A91 to offload 10% stake worth Rs 1,329 crore
+  Sedemac Mechatronics may see a block deal of up to 44.3 lakh shares, representing 10% equity. The reported Rs 3,000 floor price is
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sedemac-mechatronics-block-deal-hdfc-life-a91-to-offload-10-stake-worth-rs-1329-crore/articleshow/134440898.cms
 
-- Kotak Alternate Asset Managers closes yield &amp; growth fund at Rs 5,000 crore, raises entire corpus from domestic investors
-  Kotak Alternate Asset Managers has closed its Kotak Yield &amp; Growth Fund at Rs 5,000 crore. The Category II AIF attracted institutional investors, family
-  🔗 https://economictimes.indiatimes.com/markets/aif-pms/kotak-alternate-asset-managers-closes-yield-growth-fund-at-rs-5000-crore-raises-entire-corpus-from-domestic-investors/articleshow/134431967.cms
+- US 30-year mortgage rate tops 7%, hits 2-year high
+  The average 30-year mortgage rate reached 7.12%, its highest since May 2024. This rise follows the recent Federal Reserve interest rate hike aimed at controlling inflation.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-30-year-mortgage-rate-tops-7-hits-2-year-high/articleshow/134440833.cms
 
-- Whirlpool of India stock soars 20% to hit upper circuit on promoter stake sale buzz
-  Whirlpool of India shares surged 20% to hit the upper circuit at Rs 865.35. Reports indicated promoter Whirlpool Mauritius may sell its entire remaining 39.76% stake.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/whirlpool-of-india-stock-soars-20-to-hit-upper-circuit-on-promoter-stake-sale-buzz/articleshow/134431708.cms
+- HSBC lifts STOXX 600 year-end target on stronger earnings outlook
+  HSBC has revised its target for the STOXX 600 index upwards to 680 points. The forecast for the FTSE 100 index has been adjusted to 11,390 points, buoyed by positive market trends.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/hsbc-lifts-stoxx-600-year-end-target-on-stronger-earnings-outlook/articleshow/134440690.cms
 
-- Global Market: UK business growth cools as inflation pressures build in September
-  Services PMI fell to a three-month low while inflationary pressures intensified. Manufacturing improved modestly, but overall growth remained subdued.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-uk-business-growth-cools-as-inflation-pressures-build-in-september/articleshow/134431615.cms
+- Rupee snaps four-day winning streak, ends at 95.74 per dollar
+  The Indian rupee ended a four-day winning streak, weakening 15 paise to 95.74 per dollar. Easing crude supply concerns offered early support, while markets increasingly priced in
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-snaps-four-day-winning-streak-ends-at-95-74-per-dollar/articleshow/134440663.cms
 
-- Global Market: Singapore's US stock trading push struggles to attract investors
-  Singapore’s attempt to boost US stock trading during Asian hours has seen subdued volumes. It highlights challenges from competing products, limited
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-singapores-us-stock-trading-push-struggles-to-attract-investors/articleshow/134431213.cms
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
+  "Dead Economy": Annamalai M
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
 
-- Snapdeal IPO: GMP, price band among 10 things to know about AceVector public offer
-  Ace Vector, the parent company of Snapdeal, will launch its IPO on September 25 with a price band of Rs 30–32 per share. The issue comprises a fresh issue of Rs 287 crore and an OFS of up to
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/snapdeal-ipo-gmp-price-band-among-10-things-to-know-about-acevector-public-offer/articleshow/134430825.cms
-
-- Asian Games 2026: India medals tally and winners list - full table - olympics.com
-  Asian Games 2026: India medals tally and winners
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXlVcmQ3dDlCaEs2VGxzYmJpajRXal95UmhwQmU3cjB4LWh5Z1hSQk5ZTXMyU2RsTjBrSXlxZWFkWE9RNzVLcm0xMXdvVGoxQjNWQ1lXeUU3ank5Vld0OUFydnAxT0VQMFpTcHlxR2VLdlk3cnBFblNyLU1VYkFCMlp5SDFkTjRsb0l1N1ZoRQ?oc=5
-
-- India at Asian Games: Live updates from Day 4 action on September 23, 2026 in Aichi-Nagoya - espn.in
-  India will compete in the 2026 Asian Games in Aichi-N
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYmRBLVhzS1lsREhDd3ZfVElLVWVXQWRXNHQ2Z1lLVHgzME5vcEdjM3lJN2pxWHE0dHI1dXBGTXhueWFSWFE4aTR6cC1INjJCSV94T2RDc2lzMnhBZXFXcFhjOW81NnVKdGFHM3N3cC1QT2x5YlBQdTNfam9qcGpBOWs4a2l6eWVwR2otTy16SXl1eWNGQmdwRXZDUW9yaUphUTJMY2xtLU42WElNbW5EZjhtbEpFQzRBNTZydTVhNlN0Rk1mdWxFcktRWWZnRGlCOGtBcnFoaGY3blppdUlQOExmZFZjQ0Zvb1E?oc=5
-
-- Asian Games 2026 Day 4 Live Updates: Roshibina Devi storms into 60kg Wushu final, to fight for gold tomorrow - The Times of India
-  Asian Games 2026 Day 4 Live Updates: Roshibina Devi storms into 60kg Wushu
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbmtTbE15aFMxZVlrd3pUVFNyRVlVdjdUR3huc1drMVB3LURPSk5kQ2VjYi14TVd3VW5wMjQ5eTd4Mmo2VHBDVXV5U2RZbFpRM3hEN1M1eFNWWkxSUjZQR0NYUmxpTDFaU0NuTUwwRTdmZEdsNDd4elVCQ1BWQTEzcDgzelZ3d2VsanJidEotSVVwaDY0OENzdGpDZ0FoZWRFNXFNZm1CanB4MjlPc1ItS2RfallTNVRCUDZjVEI0eFJaWDZ5R3l2N0dLTnJqajNSQ3VHM1RHVXRhVWlsQ2F6aTVldnYtN1ZpZGkyWmdxTHRvaEJSeC1rd01B0gH_AUFVX3lxTFBtRE9LaGJDMDFxTjFKQW80NlJzTWJpMnhvUWlQVW9xNy1WUmhTUjg4SXc4cTFYcFpKSDZ5S0NWaWROY2pjZFIybWtoVUQ5Ymk2QkFpZWFBVlBzNnE2WVpwRjlKT2RjaEE5ZGFqRjZ4N2xzeHNWWndVZlhNVHNOVDhSdGlSeW9EZHM0Vnd2NkVHcmp5RzJKRzQ5c2F2R05WSzl5VGVib0FuUDJaT0V5OG9aRFhiTkRuaWg0eXNXQ1BNOWFncXo0QmhPbWhIbWZ4WjNjbDhIdG9leXRnQ0Y1OVlOUXN0czNRMHN4aUVqcGtVeVFOV180Ml9tYURTNnFXRQ?oc=5
-
-- Renewables: Grid shortages are forcing India to produce and waste green energy - BBC
-  Renewables: Grid shortages are forcing India to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oYWZXTGJsNGVxcWRpaWw1bUxSdGVaSDh6aWxlRUhYNkg4MnlxRUJ2ajRzTHl0ajRIZk9Kd1FUSk9Xalc1NGV5aTBkS0RteXZPMGZxNWEwRExyUQ?oc=5
-
-- Africa's Richest Man Hires India-Owned Firm For $16 Billion Kenya Refinery - NDTV
-  Africa's Richest Man Hires India
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWNTdzNNQ2RKUV9ZMGdDYVNhanppMUdPQ1dGUmUzbUhMbVFRWDVTbzk0NWdUZ1RnUkM4clRaZVA1a0pUUkVqY3A1S3lPSkxwcmlYR1pOM19XN0dZNVQ1SEs4X2ZyRC1ObkFfa3BEYk5BTzlyNUxnRk5SUG9PVzMxZTh3Mkw4MEVXUS1EckdseDNBVGxtckhaM2h1WktCd1U5SFlzTUpfaGdkSDlGdDEyTnhBb9IBuwFBVV95cUxNYnp6d2pGaFRmLTIwbUJFSmpmR0FYVlZoNG15Vi1ZQTNVNHNEZ3F3T1pzQlAxaElzeFl3V0hubkJ3QXVfc2JKREN3SDNOeVdzY3JJMlFfU0RfMnN1SnQzcDMwYU5WaUpaTGJPNXJ4Rm5wRmwySTFORGRzNXdBV2V6bkdsNUxNa2RXbG1XYmJFZFVtSmhMeHIwVFg5R3BEMTVWSGFYeWxJZGxfZWhBbnpfSnFRYjVuUTVoSmVR?oc=5
-
-- Fintech Startup Zype’s Owner Easy Platform Turns Profitable In FY26, Posts ₹5.3 Cr PAT
-  Fintech Startup Zype Owner Easy Platform Turns Profitable In FY26, Posts ₹5.3 Cr PAT. Easy Platform Services owns and operates digital lending startup Zype.
-  🔗 https://inc42.com/buzz/fintech-startup-zypes-owner-easy-platform-turns-profitable-in-fy26-posts-%e2%82%b95-3-cr-pat/
-
-- [Update] Ultraviolette Raises $85 Mn To Scale EV Production
-  Electric two-wheeler startup Ultraviolette Automotive has raised $85 Mn (about ₹813 Cr) in a&#
-  🔗 https://inc42.com/buzz/exclusive-ultraviolette-to-raise-inr-373-cr-as-manufacturing-facility-bigga-takes-shape/
-
-- Anthropic Launches Claude Opus 5.5, Touts 40% Lower Running Costs
-  Anthropic has launched Claude Opus 5.5, its latest flagship AI model. It touting stronger performance, lower running costs, faster output.
-  🔗 https://inc42.com/buzz/anthropic-launches-claude-opus-5-5-touts-40-lower-running-costs/
-
-- Gupshup’s AI Rebuild: Can It Stay Ahead Of The Platforms It Runs On?
-  For a company that started out sending SMSes, Gupshup has spent nearly two decades learning one thing: how businesses talk.
-  🔗 https://inc42.com/features/gupshup-ai-rebuild-can-it-stay-ahead-of-the-platforms-it-runs-on/
-
-- The AGI Shift
-  Imagine handing an AI agent a task you would normally give to a junior employee: open the company’s software, find.
-  🔗 https://inc42.com/features/the-agi-shift/
+- Indian Seafarer Killed After Torpedoes Strike Ship Off Oman Coast - NDTV
+  Indian Seafarer Killed After Torpedoes
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXhwSjk0bEZrTG9pcGRFSnVsbkVXU3liZkw4NEwxNmhJOUh1MHkwOXlONm13SEdDVm1qRm9pUEhhZ1JoNVhfeVNYOEI5aG1rQ09iQTdiZ0QyZlpLYUw5RTRKMGpwY3VJdU1vTFdvNHRTZTBwak41SGc1S2xVTDcyZDYxSHNOa0N6VE9CLVpjWGRkOFBlTHJDbF9tSjFaU1B6elZmT25uclVDZ9IBsgFBVV95cUxQOVRZbTNJVDVXc2pCTVJhb05ZcTYtb0FEeEo4RHRaYTVKU3M0QUd0dDRyYXV1NjFmdXd4eUZNdzJycWlHYkhJd0lON0JGSVYyb0JTTExsd2ZOX3p0aUd1OFc1MV8xTHBxaEtBZE51NWFvNTdfWUFZb0w1NXJ2OTR6bFJ1dzZ2dXQyWlhUblRNdlQxbHNsOVVfUHNvcmFOWC1nWnRhYjlNcTAyZTFzZnFORXl3?oc=5
 
 - Asian Games 2026: India medals tally and winners list - full table - olympics.com
   Asian Games 2026: India medals tally and winners
   🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXlVcmQ3dDlCaEs2VGxzYmJpajRXal95UmhwQmU3cjB4LWh5Z1hSQk5ZTXMyU2RsTjBrSXlxZWFkWE9RNzVLcm0xMXdvVGoxQjNWQ1lXeUU3ank5Vld0OUFydnAxT0VQMFpTcHlxR2VLdlk3cnBFblNyLU1VYkFCMlp5SDFkTjRsb0l1N1ZoRQ?oc=5
 
-- India at Asian Games: Live updates from Day 4 action on September 23, 2026 in Aichi-Nagoya - espn.in
-  India will compete in the 2026 Asian Games in Aichi-N
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYmRBLVhzS1lsREhDd3ZfVElLVWVXQWRXNHQ2Z1lLVHgzME5vcEdjM3lJN2pxWHE0dHI1dXBGTXhueWFSWFE4aTR6cC1INjJCSV94T2RDc2lzMnhBZXFXcFhjOW81NnVKdGFHM3N3cC1QT2x5YlBQdTNfam9qcGpBOWs4a2l6eWVwR2otTy16SXl1eWNGQmdwRXZDUW9yaUphUTJMY2xtLU42WElNbW5EZjhtbEpFQzRBNTZydTVhNlN0Rk1mdWxFcktRWWZnRGlCOGtBcnFoaGY3blppdUlQOExmZFZjQ0Zvb1E?oc=5
-
-- Asian Games 2026 Day 4 Live Updates: Roshibina Devi storms into 60kg Wushu final, to fight for gold tomorrow - The Times of India
-  Asian Games 2026 Day 4 Live Updates: Roshibina Devi storms into 60kg Wushu
+- Asian Games 2026 Day 4 highlights: Mirabai Chanu wins silver, India clinch two skeet bronzes on action-packed Wednesday - The Times of India
+  The Times of India reports that Mirabai Chanu won silver in the women's skeet
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbmtTbE15aFMxZVlrd3pUVFNyRVlVdjdUR3huc1drMVB3LURPSk5kQ2VjYi14TVd3VW5wMjQ5eTd4Mmo2VHBDVXV5U2RZbFpRM3hEN1M1eFNWWkxSUjZQR0NYUmxpTDFaU0NuTUwwRTdmZEdsNDd4elVCQ1BWQTEzcDgzelZ3d2VsanJidEotSVVwaDY0OENzdGpDZ0FoZWRFNXFNZm1CanB4MjlPc1ItS2RfallTNVRCUDZjVEI0eFJaWDZ5R3l2N0dLTnJqajNSQ3VHM1RHVXRhVWlsQ2F6aTVldnYtN1ZpZGkyWmdxTHRvaEJSeC1rd01B0gH_AUFVX3lxTFBtRE9LaGJDMDFxTjFKQW80NlJzTWJpMnhvUWlQVW9xNy1WUmhTUjg4SXc4cTFYcFpKSDZ5S0NWaWROY2pjZFIybWtoVUQ5Ymk2QkFpZWFBVlBzNnE2WVpwRjlKT2RjaEE5ZGFqRjZ4N2xzeHNWWndVZlhNVHNOVDhSdGlSeW9EZHM0Vnd2NkVHcmp5RzJKRzQ5c2F2R05WSzl5VGVib0FuUDJaT0V5OG9aRFhiTkRuaWg0eXNXQ1BNOWFncXo0QmhPbWhIbWZ4WjNjbDhIdG9leXRnQ0Y1OVlOUXN0czNRMHN4aUVqcGtVeVFOV180Ml9tYURTNnFXRQ?oc=5
 
-- Renewables: Grid shortages are forcing India to produce and waste green energy - BBC
-  Renewables: Grid shortages are forcing India to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oYWZXTGJsNGVxcWRpaWw1bUxSdGVaSDh6aWxlRUhYNkg4MnlxRUJ2ajRzTHl0ajRIZk9Kd1FUSk9Xalc1NGV5aTBkS0RteXZPMGZxNWEwRExyUQ?oc=5
+- India storm past Sri Lanka 16-1 to make it two wins in a row at Asian Games - Hockey India
+  India storm past Sri Lanka 16-1 to make it two wins in a row
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1oyUXk3R0lSbG9SbVoteTlCeXNxeGdMOWFrdkZNaU9xVnNuakJWNnBjbExPSFE5SnhqaXNxczVLaTJpYjF1MzNWcXp3U2FTeDdUbHQzYTdSNGR4LS1fRHVPSlFBVFhGTlJvNldoaUJLVzUzLVUxMGFlWmVGeHpzdE9xeldfVHJyZW1keFJheWV4OUlicG5CZUNtYjJMc3hZZ3VoQWZ6Y0VlTTZL?oc=5
 
-- Africa's Richest Man Hires India-Owned Firm For $16 Billion Kenya Refinery - NDTV
-  Africa's Richest Man Hires India
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWNTdzNNQ2RKUV9ZMGdDYVNhanppMUdPQ1dGUmUzbUhMbVFRWDVTbzk0NWdUZ1RnUkM4clRaZVA1a0pUUkVqY3A1S3lPSkxwcmlYR1pOM19XN0dZNVQ1SEs4X2ZyRC1ObkFfa3BEYk5BTzlyNUxnRk5SUG9PVzMxZTh3Mkw4MEVXUS1EckdseDNBVGxtckhaM2h1WktCd1U5SFlzTUpfaGdkSDlGdDEyTnhBb9IBuwFBVV95cUxNYnp6d2pGaFRmLTIwbUJFSmpmR0FYVlZoNG15Vi1ZQTNVNHNEZ3F3T1pzQlAxaElzeFl3V0hubkJ3QXVfc2JKREN3SDNOeVdzY3JJMlFfU0RfMnN1SnQzcDMwYU5WaUpaTGJPNXJ4Rm5wRmwySTFORGRzNXdBV2V6bkdsNUxNa2RXbG1XYmJFZFVtSmhMeHIwVFg5R3BEMTVWSGFYeWxJZGxfZWhBbnpfSnFRYjVuUTVoSmVR?oc=5
+- BYJU’S Settles Rights Issue Dispute With Aakash
+  BYJU has reportedly reached a settlement with Aakash Educational Services Limited (AESL) over the dispute over the latter’s rights issue
+  🔗 https://inc42.com/buzz/byjus-settles-rights-issue-dispute-with-aakash/
+
+- Zelio E-Mobility To Raise ₹168 Cr Via Preferential Issue
+  Electric vehicle (EV) manufacturer Zelio E-Mobility’s board of directors approved a proposal today to raise up to �
+  🔗 https://inc42.com/buzz/zelio-e-mobility-to-raise-%e2%82%b9168-cr-via-preferential-issue/
+
+- Multiples Leads $150 Mn Funding Round In Brahma AI
+  Multiples Alternate Asset Management has led a $150 Mn funding round in Prime Focus-backed AI audiovisual content platform Brahma AI.
+  🔗 https://inc42.com/buzz/multiples-leads-150-mn-funding-round-in-brahma-ai/
+
+- Captain Fresh’s FY26 Profit Halves To ₹20 Cr Despite 52% YoY Revenue Jump
+  IPO-bound B2B seafood brand Captain Fresh’s consolidated net profit declined 54% to ₹19.6 Cr in the financial year ended March.
+  🔗 https://inc42.com/buzz/captain-freshs-revenue-jumps-52-to-%e2%82%b95169-cr-in-fy26/
+
+- Thank You, Partners, For Powering The Third Edition Of Inc42’s D2C Retreat
+  More than 70 founders, ₹30,000 Cr in collective revenue and three days on a private island. Those numbers might tell&#8230; how successful Inc42 is.
+  🔗 https://inc42.com/buzz/thank-you-partners-for-powering-the-third-edition-of-inc42s-d2c-retreat/
+
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
+  "Dead Economy": Annamalai M
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+
+- Indian Seafarer Killed After Torpedoes Strike Ship Off Oman Coast - NDTV
+  Indian Seafarer Killed After Torpedoes
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXhwSjk0bEZrTG9pcGRFSnVsbkVXU3liZkw4NEwxNmhJOUh1MHkwOXlONm13SEdDVm1qRm9pUEhhZ1JoNVhfeVNYOEI5aG1rQ09iQTdiZ0QyZlpLYUw5RTRKMGpwY3VJdU1vTFdvNHRTZTBwak41SGc1S2xVTDcyZDYxSHNOa0N6VE9CLVpjWGRkOFBlTHJDbF9tSjFaU1B6elZmT25uclVDZ9IBsgFBVV95cUxQOVRZbTNJVDVXc2pCTVJhb05ZcTYtb0FEeEo4RHRaYTVKU3M0QUd0dDRyYXV1NjFmdXd4eUZNdzJycWlHYkhJd0lON0JGSVYyb0JTTExsd2ZOX3p0aUd1OFc1MV8xTHBxaEtBZE51NWFvNTdfWUFZb0w1NXJ2OTR6bFJ1dzZ2dXQyWlhUblRNdlQxbHNsOVVfUHNvcmFOWC1nWnRhYjlNcTAyZTFzZnFORXl3?oc=5
 
 - Asian Games 2026: India medals tally and winners list - full table - olympics.com
   Asian Games 2026: India medals tally and winners
   🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXlVcmQ3dDlCaEs2VGxzYmJpajRXal95UmhwQmU3cjB4LWh5Z1hSQk5ZTXMyU2RsTjBrSXlxZWFkWE9RNzVLcm0xMXdvVGoxQjNWQ1lXeUU3ank5Vld0OUFydnAxT0VQMFpTcHlxR2VLdlk3cnBFblNyLU1VYkFCMlp5SDFkTjRsb0l1N1ZoRQ?oc=5
 
-- India at Asian Games: Live updates from Day 4 action on September 23, 2026 in Aichi-Nagoya - espn.in
-  India will compete in the 2026 Asian Games in Aichi-N
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYmRBLVhzS1lsREhDd3ZfVElLVWVXQWRXNHQ2Z1lLVHgzME5vcEdjM3lJN2pxWHE0dHI1dXBGTXhueWFSWFE4aTR6cC1INjJCSV94T2RDc2lzMnhBZXFXcFhjOW81NnVKdGFHM3N3cC1QT2x5YlBQdTNfam9qcGpBOWs4a2l6eWVwR2otTy16SXl1eWNGQmdwRXZDUW9yaUphUTJMY2xtLU42WElNbW5EZjhtbEpFQzRBNTZydTVhNlN0Rk1mdWxFcktRWWZnRGlCOGtBcnFoaGY3blppdUlQOExmZFZjQ0Zvb1E?oc=5
-
-- Asian Games 2026 Day 4 Live Updates: Roshibina Devi storms into 60kg Wushu final, to fight for gold tomorrow - The Times of India
-  Asian Games 2026 Day 4 Live Updates: Roshibina Devi storms into 60kg Wushu
+- Asian Games 2026 Day 4 highlights: Mirabai Chanu wins silver, India clinch two skeet bronzes on action-packed Wednesday - The Times of India
+  The Times of India reports that Mirabai Chanu won silver in the women's skeet
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbmtTbE15aFMxZVlrd3pUVFNyRVlVdjdUR3huc1drMVB3LURPSk5kQ2VjYi14TVd3VW5wMjQ5eTd4Mmo2VHBDVXV5U2RZbFpRM3hEN1M1eFNWWkxSUjZQR0NYUmxpTDFaU0NuTUwwRTdmZEdsNDd4elVCQ1BWQTEzcDgzelZ3d2VsanJidEotSVVwaDY0OENzdGpDZ0FoZWRFNXFNZm1CanB4MjlPc1ItS2RfallTNVRCUDZjVEI0eFJaWDZ5R3l2N0dLTnJqajNSQ3VHM1RHVXRhVWlsQ2F6aTVldnYtN1ZpZGkyWmdxTHRvaEJSeC1rd01B0gH_AUFVX3lxTFBtRE9LaGJDMDFxTjFKQW80NlJzTWJpMnhvUWlQVW9xNy1WUmhTUjg4SXc4cTFYcFpKSDZ5S0NWaWROY2pjZFIybWtoVUQ5Ymk2QkFpZWFBVlBzNnE2WVpwRjlKT2RjaEE5ZGFqRjZ4N2xzeHNWWndVZlhNVHNOVDhSdGlSeW9EZHM0Vnd2NkVHcmp5RzJKRzQ5c2F2R05WSzl5VGVib0FuUDJaT0V5OG9aRFhiTkRuaWg0eXNXQ1BNOWFncXo0QmhPbWhIbWZ4WjNjbDhIdG9leXRnQ0Y1OVlOUXN0czNRMHN4aUVqcGtVeVFOV180Ml9tYURTNnFXRQ?oc=5
 
-- Renewables: Grid shortages are forcing India to produce and waste green energy - BBC
-  Renewables: Grid shortages are forcing India to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oYWZXTGJsNGVxcWRpaWw1bUxSdGVaSDh6aWxlRUhYNkg4MnlxRUJ2ajRzTHl0ajRIZk9Kd1FUSk9Xalc1NGV5aTBkS0RteXZPMGZxNWEwRExyUQ?oc=5
+- India storm past Sri Lanka 16-1 to make it two wins in a row at Asian Games - Hockey India
+  India storm past Sri Lanka 16-1 to make it two wins in a row
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1oyUXk3R0lSbG9SbVoteTlCeXNxeGdMOWFrdkZNaU9xVnNuakJWNnBjbExPSFE5SnhqaXNxczVLaTJpYjF1MzNWcXp3U2FTeDdUbHQzYTdSNGR4LS1fRHVPSlFBVFhGTlJvNldoaUJLVzUzLVUxMGFlWmVGeHpzdE9xeldfVHJyZW1keFJheWV4OUlicG5CZUNtYjJMc3hZZ3VoQWZ6Y0VlTTZL?oc=5
 
-- Africa's Richest Man Hires India-Owned Firm For $16 Billion Kenya Refinery - NDTV
-  Africa's Richest Man Hires India
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWNTdzNNQ2RKUV9ZMGdDYVNhanppMUdPQ1dGUmUzbUhMbVFRWDVTbzk0NWdUZ1RnUkM4clRaZVA1a0pUUkVqY3A1S3lPSkxwcmlYR1pOM19XN0dZNVQ1SEs4X2ZyRC1ObkFfa3BEYk5BTzlyNUxnRk5SUG9PVzMxZTh3Mkw4MEVXUS1EckdseDNBVGxtckhaM2h1WktCd1U5SFlzTUpfaGdkSDlGdDEyTnhBb9IBuwFBVV95cUxNYnp6d2pGaFRmLTIwbUJFSmpmR0FYVlZoNG15Vi1ZQTNVNHNEZ3F3T1pzQlAxaElzeFl3V0hubkJ3QXVfc2JKREN3SDNOeVdzY3JJMlFfU0RfMnN1SnQzcDMwYU5WaUpaTGJPNXJ4Rm5wRmwySTFORGRzNXdBV2V6bkdsNUxNa2RXbG1XYmJFZFVtSmhMeHIwVFg5R3BEMTVWSGFYeWxJZGxfZWhBbnpfSnFRYjVuUTVoSmVR?oc=5
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
+  "Dead Economy": Annamalai M
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+
+- Indian Seafarer Killed After Torpedoes Strike Ship Off Oman Coast - NDTV
+  Indian Seafarer Killed After Torpedoes
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXhwSjk0bEZrTG9pcGRFSnVsbkVXU3liZkw4NEwxNmhJOUh1MHkwOXlONm13SEdDVm1qRm9pUEhhZ1JoNVhfeVNYOEI5aG1rQ09iQTdiZ0QyZlpLYUw5RTRKMGpwY3VJdU1vTFdvNHRTZTBwak41SGc1S2xVTDcyZDYxSHNOa0N6VE9CLVpjWGRkOFBlTHJDbF9tSjFaU1B6elZmT25uclVDZ9IBsgFBVV95cUxQOVRZbTNJVDVXc2pCTVJhb05ZcTYtb0FEeEo4RHRaYTVKU3M0QUd0dDRyYXV1NjFmdXd4eUZNdzJycWlHYkhJd0lON0JGSVYyb0JTTExsd2ZOX3p0aUd1OFc1MV8xTHBxaEtBZE51NWFvNTdfWUFZb0w1NXJ2OTR6bFJ1dzZ2dXQyWlhUblRNdlQxbHNsOVVfUHNvcmFOWC1nWnRhYjlNcTAyZTFzZnFORXl3?oc=5
 
 - Asian Games 2026: India medals tally and winners list - full table - olympics.com
   Asian Games 2026: India medals tally and winners
   🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXlVcmQ3dDlCaEs2VGxzYmJpajRXal95UmhwQmU3cjB4LWh5Z1hSQk5ZTXMyU2RsTjBrSXlxZWFkWE9RNzVLcm0xMXdvVGoxQjNWQ1lXeUU3ank5Vld0OUFydnAxT0VQMFpTcHlxR2VLdlk3cnBFblNyLU1VYkFCMlp5SDFkTjRsb0l1N1ZoRQ?oc=5
 
-- India at Asian Games: Live updates from Day 4 action on September 23, 2026 in Aichi-Nagoya - espn.in
-  India will compete in the 2026 Asian Games in Aichi-N
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYmRBLVhzS1lsREhDd3ZfVElLVWVXQWRXNHQ2Z1lLVHgzME5vcEdjM3lJN2pxWHE0dHI1dXBGTXhueWFSWFE4aTR6cC1INjJCSV94T2RDc2lzMnhBZXFXcFhjOW81NnVKdGFHM3N3cC1QT2x5YlBQdTNfam9qcGpBOWs4a2l6eWVwR2otTy16SXl1eWNGQmdwRXZDUW9yaUphUTJMY2xtLU42WElNbW5EZjhtbEpFQzRBNTZydTVhNlN0Rk1mdWxFcktRWWZnRGlCOGtBcnFoaGY3blppdUlQOExmZFZjQ0Zvb1E?oc=5
-
-- Asian Games 2026 Day 4 Live Updates: Roshibina Devi storms into 60kg Wushu final, to fight for gold tomorrow - The Times of India
-  Asian Games 2026 Day 4 Live Updates: Roshibina Devi storms into 60kg Wushu
+- Asian Games 2026 Day 4 highlights: Mirabai Chanu wins silver, India clinch two skeet bronzes on action-packed Wednesday - The Times of India
+  The Times of India reports that Mirabai Chanu won silver in the women's skeet
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbmtTbE15aFMxZVlrd3pUVFNyRVlVdjdUR3huc1drMVB3LURPSk5kQ2VjYi14TVd3VW5wMjQ5eTd4Mmo2VHBDVXV5U2RZbFpRM3hEN1M1eFNWWkxSUjZQR0NYUmxpTDFaU0NuTUwwRTdmZEdsNDd4elVCQ1BWQTEzcDgzelZ3d2VsanJidEotSVVwaDY0OENzdGpDZ0FoZWRFNXFNZm1CanB4MjlPc1ItS2RfallTNVRCUDZjVEI0eFJaWDZ5R3l2N0dLTnJqajNSQ3VHM1RHVXRhVWlsQ2F6aTVldnYtN1ZpZGkyWmdxTHRvaEJSeC1rd01B0gH_AUFVX3lxTFBtRE9LaGJDMDFxTjFKQW80NlJzTWJpMnhvUWlQVW9xNy1WUmhTUjg4SXc4cTFYcFpKSDZ5S0NWaWROY2pjZFIybWtoVUQ5Ymk2QkFpZWFBVlBzNnE2WVpwRjlKT2RjaEE5ZGFqRjZ4N2xzeHNWWndVZlhNVHNOVDhSdGlSeW9EZHM0Vnd2NkVHcmp5RzJKRzQ5c2F2R05WSzl5VGVib0FuUDJaT0V5OG9aRFhiTkRuaWg0eXNXQ1BNOWFncXo0QmhPbWhIbWZ4WjNjbDhIdG9leXRnQ0Y1OVlOUXN0czNRMHN4aUVqcGtVeVFOV180Ml9tYURTNnFXRQ?oc=5
 
-- Renewables: Grid shortages are forcing India to produce and waste green energy - BBC
-  Renewables: Grid shortages are forcing India to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oYWZXTGJsNGVxcWRpaWw1bUxSdGVaSDh6aWxlRUhYNkg4MnlxRUJ2ajRzTHl0ajRIZk9Kd1FUSk9Xalc1NGV5aTBkS0RteXZPMGZxNWEwRExyUQ?oc=5
+- India storm past Sri Lanka 16-1 to make it two wins in a row at Asian Games - Hockey India
+  India storm past Sri Lanka 16-1 to make it two wins in a row
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1oyUXk3R0lSbG9SbVoteTlCeXNxeGdMOWFrdkZNaU9xVnNuakJWNnBjbExPSFE5SnhqaXNxczVLaTJpYjF1MzNWcXp3U2FTeDdUbHQzYTdSNGR4LS1fRHVPSlFBVFhGTlJvNldoaUJLVzUzLVUxMGFlWmVGeHpzdE9xeldfVHJyZW1keFJheWV4OUlicG5CZUNtYjJMc3hZZ3VoQWZ6Y0VlTTZL?oc=5
 
-- Africa's Richest Man Hires India-Owned Firm For $16 Billion Kenya Refinery - NDTV
-  Africa's Richest Man Hires India
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWNTdzNNQ2RKUV9ZMGdDYVNhanppMUdPQ1dGUmUzbUhMbVFRWDVTbzk0NWdUZ1RnUkM4clRaZVA1a0pUUkVqY3A1S3lPSkxwcmlYR1pOM19XN0dZNVQ1SEs4X2ZyRC1ObkFfa3BEYk5BTzlyNUxnRk5SUG9PVzMxZTh3Mkw4MEVXUS1EckdseDNBVGxtckhaM2h1WktCd1U5SFlzTUpfaGdkSDlGdDEyTnhBb9IBuwFBVV95cUxNYnp6d2pGaFRmLTIwbUJFSmpmR0FYVlZoNG15Vi1ZQTNVNHNEZ3F3T1pzQlAxaElzeFl3V0hubkJ3QXVfc2JKREN3SDNOeVdzY3JJMlFfU0RfMnN1SnQzcDMwYU5WaUpaTGJPNXJ4Rm5wRmwySTFORGRzNXdBV2V6bkdsNUxNa2RXbG1XYmJFZFVtSmhMeHIwVFg5R3BEMTVWSGFYeWxJZGxfZWhBbnpfSnFRYjVuUTVoSmVR?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- How India's 320 Kmph Bullet Train Will Change Tracks Without A Jolt. Technology Explained - NDTV
-  How India's 320 Kmph Bullet Train Will Change Tracks Without
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQdXFaOTA4UlBGazExMUVCaEdDSlljX0Nra091YlByUkNiTGpMSTNfMlJ5aFR2aUZ4OHVOdnhhTEIxTkVDNUd4cjJEOFZITFcxWWNnbTMtUV9qdmNvT1Zqb0JUOXduQndVX0REUUU3MlowV2xfYUwtMzF0VEdBYWNEU20weTdHNGRjTkZJMnBVVkJ4S1lBQ25LSzlYOFhTTVJNcmJmcXg4OVBJZjM2WnR1Z21sVkJzSDk4ZG5QZnBJc3l1RHROZE800gHPAUFVX3lxTE43QlpVZ1ducy1hWGNFMEtmbzRoVzBfWXVQZUJNcHo5aWRfSEJMNnJOYkdUZGpLX1RVZ3RCaEtISFFzMHRlb2RtN3MyX0pkZ25UVjB4TUgyRDVxMDhTM1I4aEhmSkVuLXZkdjl1RkJocFl4aGhSbVh0T2FpLUVpM0pfeHdzc0hoV1RGYXJOcmRaOU8tSDcyRUxIQjJ4cjBtTDdMa1NsRTNuZEktQ2xQOFB3c2hnMWxONzhNcDJrLTlZTFRFOTJLaDlvVEtIYmJLdw?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Trump wants AI to be called 'super intelligence'. Will it work? - BBC
-  Trump wants AI to be called 'super intelligence
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZUZJX1V6VHhqMi13UWVncGxhZEhQMW1IMHBPVk1fWEdObG1rcHF1cXlWTjNJVk54NVZjaGVrd2wxV3BBX1FvVWJNTEFkUnZQTHdPNlI3ZzYwNkE?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Starbucks Technology to open new hub in Chennai, India - about.starbucks.com
-  Starbucks Technology to open new hub
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Don’t be fooled by this summer of AI hype - MIT Technology Review
-  Don't be fooled by this summer of AI
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOalMwd0FqRGVxX01sTWdkVXpUOFF1ZDN0dWpIaXNHRFlzYTVZSFdpcVlVRzY3XzV6ZWctZmk3LVM3b0o0dFJpdldJQ0l2a1ZaUldLcUo5NzV0SXpnajYtbDctYTFVenJRM2xFb0hsWm5wbG1xUzRDczNhbTJDaVVRdnQ5Z0tTNmI5MXfSAY8BQVVfeXFMT2xqNWpqRWsxS2d5b3dXTk13SFJnS0tSdDhoNmM5VlZObmpIcXd1bjNuWERhVS04TS1iM3NyWUF2czZfbjRkTXB5MkI4aU92WEI3QU5HSm4zMTZOOTdWYmJTWWhtNF93S2xndmo0MUhmUkNjSjVjVDBmMHFUT240UW84bkNNeUo2N0JSdUp2b00?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Technology cannot replace teacher, but it will change role of teacher: J&K L-G - ET Education
-  Technology cannot replace teacher, but it will change role of teacher
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb19Ia0RqRXdYdl91NkZQU25URHpCcDZSdS1mSjRwbEZwLXlvRTBoejRLTmJBaVlqNVdYODBHOE04VE82aVh5QVBtaWNCMTlZYm9YOWRqb0pEdWpadG1VNFliZFcwQmUtYVFyVVhjMnJlVjNlN2V0bjJ2dUc0bE90a2pUcXVyay1fWjR5YUl1UEhJMXBwWkQ0elp5TXFLWTdFSEtqSjB2QmFsNDd6UDNqRE5vQl82U3I3RVRzckp3Wjl1ajhmTFoza2xKcUJmS3FMWXdTTEdqOGJ4SjNyZFVj0gHkAUFVX3lxTFBTc0JZQ0ZBcS1HYnlpQkhjazdHMUlqNWNEeWJvZWxkcktOM1FrckRKT2dBdUU0cVJVbWo0djkzX21wOEVNZ3FuQ2I3UGVOSnFFVDV1b1o4eWZfUTRIUmcwanNmRm5Qb2RlZkxXNzNyc08xdk5tYUg3Q3laeE9lYmt5NkVaTDh5TXhFZ3k0Q3F0S3dIM3V3TENsd0NBcXdvVkl1RDFPVU9RRkhyS1NxTE9HZXpYNTNzbEYtT1g3RW1EbnJJSnQtTnRwbVBBWUlITDFaU3B4YjJpeG1VYjJ2dFpRa0FjSg?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-23 10:41:52 UTC_
+_Last updated: 2026-09-23 16:01:43 UTC_
