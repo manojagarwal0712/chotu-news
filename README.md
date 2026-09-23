@@ -1,32 +1,36 @@
 # 📰 Daily News Summaries
 
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
   "Dead Economy": Annamalai M
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
 
-- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
-  Why the legality of the Japan-India wide
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
+- Asian Games: Indian rower Balraj Panwar qualifies for Men’s Singles sculls finals - News On AIR
+  Asian Games: Indian rower Balraj Panwar qualifies
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0hWNGRybGt3Yzk1d2VfYm51UVN6dHBUWk9OUm1sOFZZcWV5ZDh4SEV3Tl9LZUU0TGZ0VlMxb291NkJUYVRhZ3VmUFoxdXlKOUhDMThhRlp1d1hNamdGMlBxa2pJYjdxc1hhUHRzSngtVV95VkgyMnJIejBHcEZjVFBpMjgzY0pvRDhhMnNQLThXam14VUlVWElwZ2pYRXl4a19XLXRrZFE?oc=5
 
-- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
-  Bihar molestation case: India outrage after assault of teen girl
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
+- No Punishment For Not Singing Vande Mataram: Supreme Court To Centre - NDTV
+  No Punishment For Not Singing Vande
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQekxIT0xNeEE3Y2l3a25ocUhpZkpsZUpIMWtuVEZnNHh2NjJsUHJES2p3MU5MNnRnT18zVldkRGFfZkE0UUM0b2FCY1dWazJxTVN2aVFHNG9oX3JjcXFVaVZpV1hLUHBqTmZSa2lULUMxaUM3d0U2U0pHNkd3ekQxekViYmtmd19WeS1YRlU0djhFdEZVV1ZWWF9DLUNYWDJkNC1qeDlRT3p0dnVM0gG0AUFVX3lxTE1QV1F4SFRHMUp2c09QaVVaX3k4MmhNMDFDYXlzZHlSWGo2bkdBSHlaWWFHcW9KR3p4SnZ3RFdOQlNTR0pIZ245UjZhdVNEQTlQcmhCck9zRThEdzhoOU1DTFQ0ZVdsVGNIU1BIbnBVbVVsTzlyeFBUYmlRTDRxRWpiM1BqUm9KdjBGZFhPT1E0REVNVVhkVEo5UVA3cW9CY2owQUdBRFBvcVdUZS0xWmtBLU15Sw?oc=5
 
-- Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
-  Packed schedule for Jaishankar at UN as India
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
+- Asian Games 2026 live, September 23: Know India scores, updates and results from Day 4 - olympics.com
+  Asian Games 2026 live, September 23: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPcEtrdkRJTXV1NGdON0ZFd1hKV1drRDhlRGgtUmMxaWlXRnNpVV9kVUZvdUtjM0wzQzdyYUJ5SWxRaTAyQVd6eXFsY0xNZWZKcVdBeXQxU25NRGV6Zlk5Qk9FWlBnZmlJYUtic3hOTGdXRWRJaGRaeHpPR2ZkWF9RTUk2a0hVak1nNzVoVDlBYXRTOUhoVDB3VFhRaF8?oc=5
 
-- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
-  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
+- Asian Games 2026 Day 4 Live Updates: Manu Bhaker in 10m air pistol final shortly, Mirabai Chanu also in action soon - The Times of India
+  Asian Games 2026 Day 4 Live Updates: Manu Bhaker in 10m air pistol final shortly. Mir
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbmtTbE15aFMxZVlrd3pUVFNyRVlVdjdUR3huc1drMVB3LURPSk5kQ2VjYi14TVd3VW5wMjQ5eTd4Mmo2VHBDVXV5U2RZbFpRM3hEN1M1eFNWWkxSUjZQR0NYUmxpTDFaU0NuTUwwRTdmZEdsNDd4elVCQ1BWQTEzcDgzelZ3d2VsanJidEotSVVwaDY0OENzdGpDZ0FoZWRFNXFNZm1CanB4MjlPc1ItS2RfallTNVRCUDZjVEI0eFJaWDZ5R3l2N0dLTnJqajNSQ3VHM1RHVXRhVWlsQ2F6aTVldnYtN1ZpZGkyWmdxTHRvaEJSeC1rd01B0gH_AUFVX3lxTFBtRE9LaGJDMDFxTjFKQW80NlJzTWJpMnhvUWlQVW9xNy1WUmhTUjg4SXc4cTFYcFpKSDZ5S0NWaWROY2pjZFIybWtoVUQ5Ymk2QkFpZWFBVlBzNnE2WVpwRjlKT2RjaEE5ZGFqRjZ4N2xzeHNWWndVZlhNVHNOVDhSdGlSeW9EZHM0Vnd2NkVHcmp5RzJKRzQ5c2F2R05WSzl5VGVib0FuUDJaT0V5OG9aRFhiTkRuaWg0eXNXQ1BNOWFncXo0QmhPbWhIbWZ4WjNjbDhIdG9leXRnQ0Y1OVlOUXN0czNRMHN4aUVqcGtVeVFOV180Ml9tYURTNnFXRQ?oc=5
+
+- Data centres: Developers hope fibre optics will cut power use - BBC
+  Data centres: Developers hope fibre optics will
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UY0dVM0ZHemNGZ1NvejdfOS1HNDRNRFp6RVFlWS1TVGI4dzVQUE5YWWNyc3VONnVWTEk0S2cxNUZLNUQ2WGlSZjJueUpaZGY0a044Si13ZUFMdw?oc=5
 
 - Don’t be fooled by this summer of AI hype - MIT Technology Review
   Don't be fooled by this summer of AI
   🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOalMwd0FqRGVxX01sTWdkVXpUOFF1ZDN0dWpIaXNHRFlzYTVZSFdpcVlVRzY3XzV6ZWctZmk3LVM3b0o0dFJpdldJQ0l2a1ZaUldLcUo5NzV0SXpnajYtbDctYTFVenJRM2xFb0hsWm5wbG1xUzRDczNhbTJDaVVRdnQ5Z0tTNmI5MXfSAY8BQVVfeXFMT2xqNWpqRWsxS2d5b3dXTk13SFJnS0tSdDhoNmM5VlZObmpIcXd1bjNuWERhVS04TS1iM3NyWUF2czZfbjRkTXB5MkI4aU92WEI3QU5HSm4zMTZOOTdWYmJTWWhtNF93S2xndmo0MUhmUkNjSjVjVDBmMHFUT240UW84bkNNeUo2N0JSdUp2b00?oc=5
 
-- Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them? - The Guardian
-  Using AI to ‘talk to animals’ might make us feel clever – but what, if
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3VTdGE4dmMwUC1vUDZnUTNvUjlLX2ZTWFZfNEN2eWk2eW1VQ0lRRHNxWXBYbW9lcHhRdl9kS08xNEE0MHVWZS04M2ZuZktYQVM2YUh1RmVMYjQ0MkJDdDdfNHloNlJfM2s4S0RjVldHbW03cFB2eVRXNFNoc081ZzdfTGpVbkdnWHpSVFd4eTdubm9YUjBSTjdiVQ?oc=5
+- Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030 | AI (artificial intelligence) - The Guardian
+  Nvidia boss says there is ‘0% chance’ AI destroys the
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ?oc=5
 
 - Brad Carson on Oversight of AI Technology - C-SPAN
   Brad Carson on Oversight of
@@ -36,129 +40,65 @@
   Microchip Technology Comple
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPV183NnJTTFZncXliZkN1VTRQdnlxYko1R0dZTmRYR1V6SlBQbzZvemYtZ0QzYnhLSGhheUJJQWpHM3JqWVJnUkZia3NfblgxVThtaFo0WHM3elM3VGV2Vmc0SFZQSXA4WDV4R2c0TUItMDd0YVMtVkRVckp5YkxLdjIzd001ellQMG5hSXBfUVh4ekNiWmxIMUdydlNmNHJjcERHUHV4OF8zUEMwcnVxVDdlOG5QQQ?oc=5
 
-- Starbucks Technology to open new hub in Chennai, India - Starbucks
-  Starbucks Technology to open new hub
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5
-
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
-  "Dead Economy": Annamalai M
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
-
-- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
-  Why the legality of the Japan-India wide
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
-
-- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
-  Bihar molestation case: India outrage after assault of teen girl
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
-
-- Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
-  Packed schedule for Jaishankar at UN as India
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
-
-- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
-  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
-
-- Nasdaq climbs to fresh all-time high; S&P 500 is little changed as traders monitor Middle East tensions: Live updates - CNBC
-  Nasdaq climbs to fresh all-time high; S&amp;P 500
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBRd2pYcnJRNEl1Q2pSVC1KRGh6anprbmd3eEtVUU52amNUY29wWFJyR0dWYkxnZ2Q1ZDUtZnFMVl9XNmZVVFNoS2lUSll5X25Ha1hka1ZYQUVKUTQ4Qm1ib0NzSEhPX3c2Y1czV0xGSzlKZWhBZkcw0gF8QVVfeXFMT2xqbHVMN21IMHgtZGp3VFRGajI2cTZfemNnUTZhcDNQWVZnMlg4T1c0QWMyNjRHdjZGa3o5VjhxUHRhUlBtUkVZQ2I5ZzRUREYxRlZ1NjVHSTRhZS1wNXlybTM2QWt0cjZud0h6R0R3VlZDNjNVdVFydFA1dw?oc=5
-
-- Stocks, Bonds Climb as Oil Falls on US-Iran Hopes: Markets Wrap - Bloomberg.com
-  Stocks, Bonds Climb as Oil Falls
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONWk0czlDZlZ6UFZXeFRWaEtxd3J5Z295dlFNOTJKelkxcE1jVEJWWU0tMl9nRUo5RmNHNUhodFdwWGVKNjJYREQ1Y3B2d1JnT2RZSTVOMnNXbU93MWNWN2doM05LSUgzVWd0NU93MldhRUduSEJaX1BqdmxuMzFGZmNEYm1GbmEyWFctalFDU2RuSVhYUzhWQTdmSnFtR1Y5WXdJZjhLaUplaVFubXRfWlJR?oc=5
+- Stock futures are little changed after Nasdaq Composite posts fresh record: Live updates - CNBC
+  Stock futures are little changed after Nasdaq Composite posts fresh
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE00VzhGUlU1QW9UTWpKMjZBZTJMZHcwUnB1NEs2eFJaT1FjWkI5LW9QZXEyZWpwNDBvYUVPMHBpM0FKQjVvb0dvSkVkSW5UVWduTjRYU1l5WkFQenF5ZVh2NWo2cVZDWlJIN0JsdHhJMXFVVGZtNGxZ0gF8QVVfeXFMT3R0cmRNcXl3RkMwVklPZE9IcnNvOEhYTV93YmlQT1dtcWVtODhrVmdaY3ZPRllnYktPSWRDckN0eW1MYVhuaTYxVHpJZ1dGUUd5NHRTb2VKbXFSR0FpQUppaGQ3ODhxd3dQOUNOc0VsbVAxU3dwbzRubWVmcQ?oc=5
 
 - Stock Market News, Sept. 21, 2026: Nasdaq Rises to Record as Oil-Price Drop Unlocks Rally - WSJ
   The WSJ looks at the future of the stock market. The
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNam9GTktGNDJ3TmRkQW9Fbk51TWJadS1aVnNEYUwydEgwb0NCLVQ2NHJjQ19aTUloUVJWSk9wVklRcmxhMVFBTDFCV2RQRHFNRy1RNVFMcHM4T2wxVjB5dlVjMGZmdXBkTmNVNFZxb0NpRTg1aGFEeWx3amk2MndtVTRIQVpKaVk?oc=5
 
-- Data centres are straining the insurance market - The Economist
-  Data centres are straining the
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDdNODNCOE1CQ1Z1NlV1WkJYT2VpM1lmZnNrVEVMN0J0WXRIVTlpV2RIOUdRMlo2WWMzUHM5aTFCY19ud29RX3FHX0lPZUNpZWZsOHVIMFJSVlIxTFZETkFQUnpVYlNSSDJyamZMSmNzQXFYQjgxejhNUkNyREViXzc1dk1iMjItNjhHbEFCQmdZQV84QWJidS1FOXktT3VkTmljVk9rY0lNUQ?oc=5
+- Asian Stocks Set to Extend Gains as Tech Rallies: Markets Wrap - Bloomberg.com
+  Asian Stocks Set to Extend Gains as
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPYkZzWldIZ1luZ21BUTFGOER1Q19LdUZ6alBnWDg1elR4QzRRYnc2dU1zOElONTN3b21DOG1JM256bmVSR1U4VTlOLTZVc3IyMm5SMHpZNXhoc1lmcFdZVnZ4dS1mUTFXOWlLb2dHQ3NVUDB4Q2puUzQtSWcweS02QkVXMXVZYm1pcGFvSVluX1hUSElK?oc=5
 
-- SEBI says Adani firms paid 15 million rupees to settle disclosure violations - Reuters
-  SEBI says Adani firms paid 15 million ru
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUhDaEhyeUU5NDlpRVJ4TTZBWmZZSkZkOGR5elpHN3pLU0lFbGxHVzJkdDlnTFRIbHBSOGJCVl9STXZ2d0QtQ1FwSWFSeUFZZHBfWEFsM3FZeUt0eG1rdER5d1d3SDB2TzFSLXVjeXFyTjFaYmNKTS0yYUFjbTI4Wm1yQlBDbEw4R0RQVEpTV1ZhTkxIeDhMLTJIVGJGU3N3dGJoTng2U19JM0tWbDNvMEt3cXJmV2xOQ2lxMDlYQmo?oc=5
+- Dollar holds near 2-month high as markets weigh rate hikes, Iran diplomacy - CNBC
+  The dollar holds near 2-month high as markets
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNUXhJVHpLOEZ0bFFvSlVUdVJyYkZPVThKQ290WUpfbkN1eVZ3WDc3QVVMVE9GNFBXWThfVktHNHdaNzNIZGZtd2U0WE9uUU5XUi1oZ0NCUmNGWU94cTV5QTlWaVZJcTVvMWVmTnljWVVFcERqLWdZZnlLeWRwS3JaYlVGV0FqQjN2MTdLVHNkeXloTF85MnVIOHIwckZncWc5MFHSAacBQVVfeXFMTWtTWlpCSGpMbWxhdUtDdHhYam9Vc3Vrd2tyUEFHNTg4Qjl6M3ZQVXE0LWhKY3VjN2Y5NGRYeEdBZjVpSlhxZnFWSmxRUzJEemxTczNVT3JOcUhGeGp2R1lRNHdzLUUwQW5BWXFNbXQwdm40WXk5aERDenROSXBCNmtscVRjbnBsa1c5bEJMZjJ2NDI4X2tzNXBXclBkeVZxZDItNVVaSUU?oc=5
 
-- Microsoft to give DARPA hands-on access to quantum system at new Maryland site
-  Microsoft to give DARPA hands-on access
-  🔗 https://www.livemint.com/technology/microsoft-to-give-darpa-hands-on-access-to-quantum-system-at-new-maryland-site-11790107251937.html
+- Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints at negative start; US markets mixed, Asia gains - Moneycontrol.com
+  "Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints at
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPcGtremJIWlAwWTZMYnVxUFlrbkZoRGR1RThhM01JbzRXTTdUZFlMQ2NFQ1llSFJpb1NaeGgwM29VaE1sSU4wX2M1SmZxaHJvSWVnaFkyQk1IclJfVURscWNXVENkTHhlLVdRSHUxVFZzaTNGYzB3aXJncDlxSE9Hdk16bjZEQmh1M0RMZGd4ZWtUNGxIR3pOMlJGVVVlR3draWhRbFdDbkpITWsydHFKcXhJRTdDU1V2VlRfMGZMYzJtUTFHTk1hWVRvRGdlTnlfNlhKekl2N2Y5VzdOVE1tR19hQUdPYlAzNWJMVm44WEptNmJPUlpmbGJBMGJ4Z0JXaG9KSXVJWG9oUDBPdzdpU1Z6b0hhZHpBTEkxQmpJRFFlWmfSAagCQVVfeXFMTTM5R0dCbmNSZU5BQ3hTbnlnMkh0VXdpQlIzVEx5R3BDSTRidXlKLVB5SWhTQ0wzZjFJNk1CVkFyYkF5eGY0TGs0YUJvMi1FMGhUX3o2WDZ2ZDJyYjFZMnQ0MVFFNThlVlY1VDR0WVQzUmViNUk0aUdmMFdBX2haZEwweXFwdDdDeEs3cUF6UTlIOVZiMFFORWt3cEVad3o0RHh3X19xVHlLMTd6ZTl0eXRQRGpLX1FaUHRINVpmc2RFWWVNTXVWS2JDcEtVTk82aWxCMkZsaWZwWm1yYkM1N1lJZTRxSjZTYlBmYXM0TkZkOTJGQzBLS3pjb3h2ZjFqVG9ONGlWME1vZzJ1UnVkaGxrbzYzSjgxZ2QwcFE2MkRKYVktYUMxQzM?oc=5
 
-- Googlebook laptops launched with Gemini AI, OLED display and Android app support: Check price and features
-  Googlebook is a new laptop category designed around Gemini Intelligence and Android connectivity. The laptops offer features such as Magic Pointer, Rambler, Cast My Apps, native Android apps and up
-  🔗 https://www.livemint.com/technology/googlebook-laptops-launched-with-gemini-ai-oled-displays-and-android-app-support-check-price-and-features-11790074918625.html
+- Adroit Industries IPO opens today; GMP signals 25% listing gains — Check key details
+  Adroit Industries IPO is a book-built issue worth Rs 150.71 crore. The public issue comprises a fresh issue of 98.97 lakh shares aggregating to Rs 132.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/adroit-industries-ipo-opens-today-gmp-signals-25-listing-gains-check-key-details/articleshow/134424393.cms
 
-- Nothing to spin off CMF as standalone Indian business; Optiemus to acquire 51.1% controlling stake; details here
-   CMF is expanding its partnership with Optiemus to turn CMF into an independent, majority Indian-owned smartphone brand. The manufacturing, ownership and R&
-  🔗 https://www.livemint.com/technology/nothing-to-spin-off-cmf-as-standalone-indian-business-optiemus-to-acquire-51-1-controlling-stake-details-here-11790066359387.html
+- SS Retail shares to list today: GMP signals 35% listing gains; Check key details
+  SS Retail IPO comprised a fresh issue of 85.08 lakh shares aggregating to Rs 360 crore and an offer for sale (OFS) of 33.02 lakh shares worth Rs 140 crore. The company had fixed the IPO price band
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ss-retail-shares-to-list-today-gmp-signals-35-listing-gains-check-key-details/articleshow/134424347.cms
 
-- OnePlus N6 Lite 4G with 7,000mAh battery, 120Hz display launched in India: Check price, specs
-  The smartphone is powered by the Unisoc T7250 chipset with 4GB RAM and 64GB storage, expandable via microSD. It has a 6
-  🔗 https://www.livemint.com/technology/oneplus-n6-lite-4g-with-7-000mah-battery-120hz-display-launched-in-india-check-price-specs-11790064342282.html
+- ArMee Infotech IPO opens today: Check GMP, price band, issue details. Should you subscribe?
+  The Rs 300-crore public issue will remain open for investors until September 25. The allotment is expected to be finalised on September 28, while the company's shares are tentatively
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/armee-infotech-ipo-opens-today-check-gmp-price-band-issue-details-should-you-subscribe/articleshow/134424262.cms
 
-- Alibaba launches new AI chip, CEO Eddie Wu calls it ‘most powerful’ in China; expansion plans ahead
-  Chinese technology giant Alibaba Group on Tuesday launched a new artificial intelligence (AI) chip. It described the chip as “the most powerful AI chip in China,”
-  🔗 https://www.livemint.com/technology/alibaba-launches-new-ai-chip-ceo-eddie-wu-calls-it-most-powerful-in-china-expansion-plans-ahead-11790058162539.html
+- Hero Motors shares to list today. Check GMP ahead of debut
+  The Rs 1,000 crore Hero Motors IPO was a book-built issue. The IPO was priced in the range of Rs 79–Rs 84 per share, with a minimum lot size of 178 shares.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hero-motors-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134424218.cms
 
-- Nasdaq climbs to fresh all-time high; S&P 500 is little changed as traders monitor Middle East tensions: Live updates - CNBC
-  Nasdaq climbs to fresh all-time high; S&amp;P 500
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBRd2pYcnJRNEl1Q2pSVC1KRGh6anprbmd3eEtVUU52amNUY29wWFJyR0dWYkxnZ2Q1ZDUtZnFMVl9XNmZVVFNoS2lUSll5X25Ha1hka1ZYQUVKUTQ4Qm1ib0NzSEhPX3c2Y1czV0xGSzlKZWhBZkcw0gF8QVVfeXFMT2xqbHVMN21IMHgtZGp3VFRGajI2cTZfemNnUTZhcDNQWVZnMlg4T1c0QWMyNjRHdjZGa3o5VjhxUHRhUlBtUkVZQ2I5ZzRUREYxRlZ1NjVHSTRhZS1wNXlybTM2QWt0cjZud0h6R0R3VlZDNjNVdVFydFA1dw?oc=5
+- Oil Price Today (September 23): Crude oil below $100 on hopes of US-Iran talks. What did Trump say?
+  Brent crude futures fell 7 cents, or 0.07%, to $99.18 a barrel.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-23-crude-oil-below-100-on-hopes-of-us-iran-talks-what-did-trump-say/articleshow/134424196.cms
 
-- Stocks, Bonds Climb as Oil Falls on US-Iran Hopes: Markets Wrap - Bloomberg.com
-  Stocks, Bonds Climb as Oil Falls
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONWk0czlDZlZ6UFZXeFRWaEtxd3J5Z295dlFNOTJKelkxcE1jVEJWWU0tMl9nRUo5RmNHNUhodFdwWGVKNjJYREQ1Y3B2d1JnT2RZSTVOMnNXbU93MWNWN2doM05LSUgzVWd0NU93MldhRUduSEJaX1BqdmxuMzFGZmNEYm1GbmEyWFctalFDU2RuSVhYUzhWQTdmSnFtR1Y5WXdJZjhLaUplaVFubXRfWlJR?oc=5
-
-- Stock Market News, Sept. 21, 2026: Nasdaq Rises to Record as Oil-Price Drop Unlocks Rally - WSJ
-  The WSJ looks at the future of the stock market. The
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNam9GTktGNDJ3TmRkQW9Fbk51TWJadS1aVnNEYUwydEgwb0NCLVQ2NHJjQ19aTUloUVJWSk9wVklRcmxhMVFBTDFCV2RQRHFNRy1RNVFMcHM4T2wxVjB5dlVjMGZmdXBkTmNVNFZxb0NpRTg1aGFEeWx3amk2MndtVTRIQVpKaVk?oc=5
-
-- Data centres are straining the insurance market - The Economist
-  Data centres are straining the
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDdNODNCOE1CQ1Z1NlV1WkJYT2VpM1lmZnNrVEVMN0J0WXRIVTlpV2RIOUdRMlo2WWMzUHM5aTFCY19ud29RX3FHX0lPZUNpZWZsOHVIMFJSVlIxTFZETkFQUnpVYlNSSDJyamZMSmNzQXFYQjgxejhNUkNyREViXzc1dk1iMjItNjhHbEFCQmdZQV84QWJidS1FOXktT3VkTmljVk9rY0lNUQ?oc=5
-
-- SEBI says Adani firms paid 15 million rupees to settle disclosure violations - Reuters
-  SEBI says Adani firms paid 15 million ru
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUhDaEhyeUU5NDlpRVJ4TTZBWmZZSkZkOGR5elpHN3pLU0lFbGxHVzJkdDlnTFRIbHBSOGJCVl9STXZ2d0QtQ1FwSWFSeUFZZHBfWEFsM3FZeUt0eG1rdER5d1d3SDB2TzFSLXVjeXFyTjFaYmNKTS0yYUFjbTI4Wm1yQlBDbEw4R0RQVEpTV1ZhTkxIeDhMLTJIVGJGU3N3dGJoTng2U19JM0tWbDNvMEt3cXJmV2xOQ2lxMDlYQmo?oc=5
-
-- US economy firming as inflation risks persist, says Richmond Fed’s Tom Barkin
-  The Federal Reserve raised interest rates last week to address rising price pressures. The US economy demonstrates resilience with strong consumer spending and growth beyond technology sectors. Various sectors, including defense and manufacturing, are experiencing positive developments.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-economy-firming-as-inflation-risks-persist-says-richmond-feds-tom-barkin/articleshow/134418821.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Sensex falls 330 points and Nifty closes lower after sharp volatility during the closing auction session. F&amp;O expiry, foreign outflows, geopolitical uncertainty, IT
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134415960.cms
-
-- Hill-house backed Elevate Campuses raises Rs 945-crore anchor book
-  Hillhouse-backed Elevate Campuses raised Rs 945 crore from 20 anchor investors. The amount represents 60% of its QIB allocation ahead of its Rs 2
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/hill-house-backed-elevate-campuses-raises-rs-945-crore-anchor-book/articleshow/134415850.cms
-
-- Runwal Enterprises sets IPO price band at Rs 290-305 per share
-  Runwal Enterprises has set its IPO price band at Rs 290-305 per share. The Mumbai-focused developer has 88.37 million square feet of developable area across residential and non
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/runwal-enterprises-sets-ipo-price-band-at-rs-290-305-per-share/articleshow/134415812.cms
-
-- Market Trading Guide: Finolex Cables among 3 stock recommendations for Wednesday
-  Falling crude oil prices and Brent slipping below $100 a barrel helped Indian markets recover from intraday lows. Analysts highlighted BlueStone Jewellery, JSW Infrastructure and Fin
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-finolex-cables-among-3-stock-recommendations-for-wednesday/slideshow/134415805.cms
-
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
   "Dead Economy": Annamalai M
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
 
-- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
-  Why the legality of the Japan-India wide
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
+- Asian Games: Indian rower Balraj Panwar qualifies for Men’s Singles sculls finals - News On AIR
+  Asian Games: Indian rower Balraj Panwar qualifies
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0hWNGRybGt3Yzk1d2VfYm51UVN6dHBUWk9OUm1sOFZZcWV5ZDh4SEV3Tl9LZUU0TGZ0VlMxb291NkJUYVRhZ3VmUFoxdXlKOUhDMThhRlp1d1hNamdGMlBxa2pJYjdxc1hhUHRzSngtVV95VkgyMnJIejBHcEZjVFBpMjgzY0pvRDhhMnNQLThXam14VUlVWElwZ2pYRXl4a19XLXRrZFE?oc=5
 
-- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
-  Bihar molestation case: India outrage after assault of teen girl
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
+- No Punishment For Not Singing Vande Mataram: Supreme Court To Centre - NDTV
+  No Punishment For Not Singing Vande
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQekxIT0xNeEE3Y2l3a25ocUhpZkpsZUpIMWtuVEZnNHh2NjJsUHJES2p3MU5MNnRnT18zVldkRGFfZkE0UUM0b2FCY1dWazJxTVN2aVFHNG9oX3JjcXFVaVZpV1hLUHBqTmZSa2lULUMxaUM3d0U2U0pHNkd3ekQxekViYmtmd19WeS1YRlU0djhFdEZVV1ZWWF9DLUNYWDJkNC1qeDlRT3p0dnVM0gG0AUFVX3lxTE1QV1F4SFRHMUp2c09QaVVaX3k4MmhNMDFDYXlzZHlSWGo2bkdBSHlaWWFHcW9KR3p4SnZ3RFdOQlNTR0pIZ245UjZhdVNEQTlQcmhCck9zRThEdzhoOU1DTFQ0ZVdsVGNIU1BIbnBVbVVsTzlyeFBUYmlRTDRxRWpiM1BqUm9KdjBGZFhPT1E0REVNVVhkVEo5UVA3cW9CY2owQUdBRFBvcVdUZS0xWmtBLU15Sw?oc=5
 
-- Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
-  Packed schedule for Jaishankar at UN as India
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
+- Asian Games 2026 live, September 23: Know India scores, updates and results from Day 4 - olympics.com
+  Asian Games 2026 live, September 23: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPcEtrdkRJTXV1NGdON0ZFd1hKV1drRDhlRGgtUmMxaWlXRnNpVV9kVUZvdUtjM0wzQzdyYUJ5SWxRaTAyQVd6eXFsY0xNZWZKcVdBeXQxU25NRGV6Zlk5Qk9FWlBnZmlJYUtic3hOTGdXRWRJaGRaeHpPR2ZkWF9RTUk2a0hVak1nNzVoVDlBYXRTOUhoVDB3VFhRaF8?oc=5
 
-- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
-  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
+- Asian Games 2026 Day 4 Live Updates: Manu Bhaker in 10m air pistol final shortly, Mirabai Chanu also in action soon - The Times of India
+  Asian Games 2026 Day 4 Live Updates: Manu Bhaker in 10m air pistol final shortly. Mir
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbmtTbE15aFMxZVlrd3pUVFNyRVlVdjdUR3huc1drMVB3LURPSk5kQ2VjYi14TVd3VW5wMjQ5eTd4Mmo2VHBDVXV5U2RZbFpRM3hEN1M1eFNWWkxSUjZQR0NYUmxpTDFaU0NuTUwwRTdmZEdsNDd4elVCQ1BWQTEzcDgzelZ3d2VsanJidEotSVVwaDY0OENzdGpDZ0FoZWRFNXFNZm1CanB4MjlPc1ItS2RfallTNVRCUDZjVEI0eFJaWDZ5R3l2N0dLTnJqajNSQ3VHM1RHVXRhVWlsQ2F6aTVldnYtN1ZpZGkyWmdxTHRvaEJSeC1rd01B0gH_AUFVX3lxTFBtRE9LaGJDMDFxTjFKQW80NlJzTWJpMnhvUWlQVW9xNy1WUmhTUjg4SXc4cTFYcFpKSDZ5S0NWaWROY2pjZFIybWtoVUQ5Ymk2QkFpZWFBVlBzNnE2WVpwRjlKT2RjaEE5ZGFqRjZ4N2xzeHNWWndVZlhNVHNOVDhSdGlSeW9EZHM0Vnd2NkVHcmp5RzJKRzQ5c2F2R05WSzl5VGVib0FuUDJaT0V5OG9aRFhiTkRuaWg0eXNXQ1BNOWFncXo0QmhPbWhIbWZ4WjNjbDhIdG9leXRnQ0Y1OVlOUXN0czNRMHN4aUVqcGtVeVFOV180Ml9tYURTNnFXRQ?oc=5
 
 - Mastercard Exits Pine Labs Via ₹934 Cr Bulk Deal
   Mastercard has exited the company by selling its entire 4.31% stake through a bulk deal.
@@ -180,85 +120,73 @@
   Walmart-backed PhonePe has received in-principle approval from the Central Bank of the UAE (CBUAE) for two payment licences.
   🔗 https://inc42.com/buzz/ipo-bound-phonepe-secures-in-principle-nod-for-uae-payments-business/
 
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
   "Dead Economy": Annamalai M
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
 
-- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
-  Why the legality of the Japan-India wide
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
+- Asian Games: Indian rower Balraj Panwar qualifies for Men’s Singles sculls finals - News On AIR
+  Asian Games: Indian rower Balraj Panwar qualifies
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0hWNGRybGt3Yzk1d2VfYm51UVN6dHBUWk9OUm1sOFZZcWV5ZDh4SEV3Tl9LZUU0TGZ0VlMxb291NkJUYVRhZ3VmUFoxdXlKOUhDMThhRlp1d1hNamdGMlBxa2pJYjdxc1hhUHRzSngtVV95VkgyMnJIejBHcEZjVFBpMjgzY0pvRDhhMnNQLThXam14VUlVWElwZ2pYRXl4a19XLXRrZFE?oc=5
 
-- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
-  Bihar molestation case: India outrage after assault of teen girl
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
+- No Punishment For Not Singing Vande Mataram: Supreme Court To Centre - NDTV
+  No Punishment For Not Singing Vande
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQekxIT0xNeEE3Y2l3a25ocUhpZkpsZUpIMWtuVEZnNHh2NjJsUHJES2p3MU5MNnRnT18zVldkRGFfZkE0UUM0b2FCY1dWazJxTVN2aVFHNG9oX3JjcXFVaVZpV1hLUHBqTmZSa2lULUMxaUM3d0U2U0pHNkd3ekQxekViYmtmd19WeS1YRlU0djhFdEZVV1ZWWF9DLUNYWDJkNC1qeDlRT3p0dnVM0gG0AUFVX3lxTE1QV1F4SFRHMUp2c09QaVVaX3k4MmhNMDFDYXlzZHlSWGo2bkdBSHlaWWFHcW9KR3p4SnZ3RFdOQlNTR0pIZ245UjZhdVNEQTlQcmhCck9zRThEdzhoOU1DTFQ0ZVdsVGNIU1BIbnBVbVVsTzlyeFBUYmlRTDRxRWpiM1BqUm9KdjBGZFhPT1E0REVNVVhkVEo5UVA3cW9CY2owQUdBRFBvcVdUZS0xWmtBLU15Sw?oc=5
 
-- Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
-  Packed schedule for Jaishankar at UN as India
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
+- Asian Games 2026 live, September 23: Know India scores, updates and results from Day 4 - olympics.com
+  Asian Games 2026 live, September 23: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPcEtrdkRJTXV1NGdON0ZFd1hKV1drRDhlRGgtUmMxaWlXRnNpVV9kVUZvdUtjM0wzQzdyYUJ5SWxRaTAyQVd6eXFsY0xNZWZKcVdBeXQxU25NRGV6Zlk5Qk9FWlBnZmlJYUtic3hOTGdXRWRJaGRaeHpPR2ZkWF9RTUk2a0hVak1nNzVoVDlBYXRTOUhoVDB3VFhRaF8?oc=5
 
-- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
-  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
+- Asian Games 2026 Day 4 Live Updates: Manu Bhaker in 10m air pistol final shortly, Mirabai Chanu also in action soon - The Times of India
+  Asian Games 2026 Day 4 Live Updates: Manu Bhaker in 10m air pistol final shortly. Mir
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbmtTbE15aFMxZVlrd3pUVFNyRVlVdjdUR3huc1drMVB3LURPSk5kQ2VjYi14TVd3VW5wMjQ5eTd4Mmo2VHBDVXV5U2RZbFpRM3hEN1M1eFNWWkxSUjZQR0NYUmxpTDFaU0NuTUwwRTdmZEdsNDd4elVCQ1BWQTEzcDgzelZ3d2VsanJidEotSVVwaDY0OENzdGpDZ0FoZWRFNXFNZm1CanB4MjlPc1ItS2RfallTNVRCUDZjVEI0eFJaWDZ5R3l2N0dLTnJqajNSQ3VHM1RHVXRhVWlsQ2F6aTVldnYtN1ZpZGkyWmdxTHRvaEJSeC1rd01B0gH_AUFVX3lxTFBtRE9LaGJDMDFxTjFKQW80NlJzTWJpMnhvUWlQVW9xNy1WUmhTUjg4SXc4cTFYcFpKSDZ5S0NWaWROY2pjZFIybWtoVUQ5Ymk2QkFpZWFBVlBzNnE2WVpwRjlKT2RjaEE5ZGFqRjZ4N2xzeHNWWndVZlhNVHNOVDhSdGlSeW9EZHM0Vnd2NkVHcmp5RzJKRzQ5c2F2R05WSzl5VGVib0FuUDJaT0V5OG9aRFhiTkRuaWg0eXNXQ1BNOWFncXo0QmhPbWhIbWZ4WjNjbDhIdG9leXRnQ0Y1OVlOUXN0czNRMHN4aUVqcGtVeVFOV180Ml9tYURTNnFXRQ?oc=5
 
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
+- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - NDTV
   "Dead Economy": Annamalai M
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
 
-- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
-  Why the legality of the Japan-India wide
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
+- Asian Games: Indian rower Balraj Panwar qualifies for Men’s Singles sculls finals - News On AIR
+  Asian Games: Indian rower Balraj Panwar qualifies
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0hWNGRybGt3Yzk1d2VfYm51UVN6dHBUWk9OUm1sOFZZcWV5ZDh4SEV3Tl9LZUU0TGZ0VlMxb291NkJUYVRhZ3VmUFoxdXlKOUhDMThhRlp1d1hNamdGMlBxa2pJYjdxc1hhUHRzSngtVV95VkgyMnJIejBHcEZjVFBpMjgzY0pvRDhhMnNQLThXam14VUlVWElwZ2pYRXl4a19XLXRrZFE?oc=5
 
-- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
-  Bihar molestation case: India outrage after assault of teen girl
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
+- No Punishment For Not Singing Vande Mataram: Supreme Court To Centre - NDTV
+  No Punishment For Not Singing Vande
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQekxIT0xNeEE3Y2l3a25ocUhpZkpsZUpIMWtuVEZnNHh2NjJsUHJES2p3MU5MNnRnT18zVldkRGFfZkE0UUM0b2FCY1dWazJxTVN2aVFHNG9oX3JjcXFVaVZpV1hLUHBqTmZSa2lULUMxaUM3d0U2U0pHNkd3ekQxekViYmtmd19WeS1YRlU0djhFdEZVV1ZWWF9DLUNYWDJkNC1qeDlRT3p0dnVM0gG0AUFVX3lxTE1QV1F4SFRHMUp2c09QaVVaX3k4MmhNMDFDYXlzZHlSWGo2bkdBSHlaWWFHcW9KR3p4SnZ3RFdOQlNTR0pIZ245UjZhdVNEQTlQcmhCck9zRThEdzhoOU1DTFQ0ZVdsVGNIU1BIbnBVbVVsTzlyeFBUYmlRTDRxRWpiM1BqUm9KdjBGZFhPT1E0REVNVVhkVEo5UVA3cW9CY2owQUdBRFBvcVdUZS0xWmtBLU15Sw?oc=5
 
-- Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
-  Packed schedule for Jaishankar at UN as India
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
+- Asian Games 2026 live, September 23: Know India scores, updates and results from Day 4 - olympics.com
+  Asian Games 2026 live, September 23: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPcEtrdkRJTXV1NGdON0ZFd1hKV1drRDhlRGgtUmMxaWlXRnNpVV9kVUZvdUtjM0wzQzdyYUJ5SWxRaTAyQVd6eXFsY0xNZWZKcVdBeXQxU25NRGV6Zlk5Qk9FWlBnZmlJYUtic3hOTGdXRWRJaGRaeHpPR2ZkWF9RTUk2a0hVak1nNzVoVDlBYXRTOUhoVDB3VFhRaF8?oc=5
 
-- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
-  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
+- Asian Games 2026 Day 4 Live Updates: Manu Bhaker in 10m air pistol final shortly, Mirabai Chanu also in action soon - The Times of India
+  Asian Games 2026 Day 4 Live Updates: Manu Bhaker in 10m air pistol final shortly. Mir
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbmtTbE15aFMxZVlrd3pUVFNyRVlVdjdUR3huc1drMVB3LURPSk5kQ2VjYi14TVd3VW5wMjQ5eTd4Mmo2VHBDVXV5U2RZbFpRM3hEN1M1eFNWWkxSUjZQR0NYUmxpTDFaU0NuTUwwRTdmZEdsNDd4elVCQ1BWQTEzcDgzelZ3d2VsanJidEotSVVwaDY0OENzdGpDZ0FoZWRFNXFNZm1CanB4MjlPc1ItS2RfallTNVRCUDZjVEI0eFJaWDZ5R3l2N0dLTnJqajNSQ3VHM1RHVXRhVWlsQ2F6aTVldnYtN1ZpZGkyWmdxTHRvaEJSeC1rd01B0gH_AUFVX3lxTFBtRE9LaGJDMDFxTjFKQW80NlJzTWJpMnhvUWlQVW9xNy1WUmhTUjg4SXc4cTFYcFpKSDZ5S0NWaWROY2pjZFIybWtoVUQ5Ymk2QkFpZWFBVlBzNnE2WVpwRjlKT2RjaEE5ZGFqRjZ4N2xzeHNWWndVZlhNVHNOVDhSdGlSeW9EZHM0Vnd2NkVHcmp5RzJKRzQ5c2F2R05WSzl5VGVib0FuUDJaT0V5OG9aRFhiTkRuaWg0eXNXQ1BNOWFncXo0QmhPbWhIbWZ4WjNjbDhIdG9leXRnQ0Y1OVlOUXN0czNRMHN4aUVqcGtVeVFOV180Ml9tYURTNnFXRQ?oc=5
 
-- "Dead Economy": Annamalai Mocks Vijay's London Trip, Says India Is Bigger - ndtv.com
-  "Dead Economy": Annamalai M
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRmbWpEVXFzb2hnWGo1bnQ0eGF4MVdOZjE2UFlNbW9IaXJUclhSTUE4TVFEc3ljTVVXTldtelA3Rkk2bGVRWkZEYkJNZnJSX0hDeGQ4YlFtRjVLZU1ZRDViTWFUTXd3b3ZCdEhkWm9IS1RSTVpaX0JaODBFOVVnRFVfRFVnSmdzaFNqZFB5R1pZMm80NTRJUDNtLVV3WlczX2xWdHhlR1NveVpVamfSAbYBQVVfeXFMUDJGM2F0MnVGREg2eDlMMWNaNGxVYnkwTW5MQ2tkbTd6aFVpN0RtTjRsajJLX3VZc1BHUzdBZmtXZjR4eE1zT3d3Rm93LTdibmhsaWFqbUpxYnNKMGxzdk1uc1RWZU9JRmRQSFhVV19OS3dXdmxZald6OEhndHBUTUNQRHM5SmJOaUw5T01mNElJUW9naWxNaVpSUHptYnI4YWFKQkdaUlY4ZHhHd1FldDZRaGpyanc?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Why the legality of the Japan-India wide call shouldn't be debated - Cricbuzz
-  Why the legality of the Japan-India wide
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2tYcllqQy1yRzdkMlZuVDdaSHU0cWhiQkhQbjBfODU5V0lUZXZCLUMzZGQxVjNXUWVCY2tlOHBIUzE5cVpsSFJLQ2o2Z1RzcWNIQnJVZzNlSGZrMzY0Q0RGSnQ4Vzdramdmc1NqZ1lVb0czeG5QOTdyMHIteDkxOFI3T1BuOTZIc0NwakttREtEZ2ZWNHdlVVdXbGhBOWtFS2tfeXdSTUVtRjZZazNn?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Bihar molestation case: India outrage after assault of teen girl and her friend in Jamui - BBC
-  Bihar molestation case: India outrage after assault of teen girl
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yV1dYUzVhTGdfdHp5TGZ6UTdYaDRhVTZ2TGl6VHlFR1JfSGdzbVJKQXF3RXBUUHpNRmZzUWVZRG51N3pYZnUwc2xTUkFkdmZPVjlQRWJJQnpfYlE?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Packed schedule for Jaishankar at UN as India campaigns for Security Council election - The Hindu
-  Packed schedule for Jaishankar at UN as India
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0NjTTgwbHBTLTBLZTlwWWpXNF9nYVI2bU5tMW82NWVoSDdBTXNsR0diS2J0TmRZVlc1SG90clRNejRVRUdMZDNpY3lLbnlROTFLeEt1MkJzRk9IR0tPYmd6V1o2SGNJZlZDTnBQSFVkc3loZzFweDk4ZExfdnBEZ0dHLVF1QWtiOWF1bVJUYXRCQ3NNbFF1U0dPZHFnUnlqRF9DMlUzeTJNTi1YRl9QYV9GX0dadjBUaHBHMjhTYzRuaG5UREZ4TlNDLTRuRXp2SVpiWFRldkxHd2c00gHjAUFVX3lxTE1hT0Y5QlZWLU1tYXNPY094bTB5QWlQaVdpREZ3SkQzbjVXdHJUTFd5WWhEc3RHUHBua0YzYlgzREJVVVU4d0xwSjJJUlpRNkNlaUpwZU5XcnBrWWdyU2JhTkZsUUFTM3JWUmV2RnNVckVrcUkxY0pZN1k1N1A3YnN6dkV5MFZ6WWVmQXRuMWlGMWxwT1poc2VTUEsyaVZrUWhLZUFYcnZpVkgyNGhGNkdmZllNcVhYeUVxOWhEeko1T0lEcjhHeVpfdEdlbHpvSlJRU1JHMFJDaVNTZGVnRW9oYWxF?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- India-Japan Air Forces Conclude Veer Guardian 2026 Exercise at Jodhpur Air Force Station - News On AIR
-  India-Japan Air Forces Conclude Veer Guardian 2026 Exercise
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUMzMFZBREpRZW9UWElyTkhzV1FTSGx5Mi1ieGVSVllDcDdrZDZJX3Awc2lCbVNPQlI5dm9ZQVhYOUN5aWtlUHZ6YzZyWEliNnNJM2k3dXZ4RUJ6TXV5S2xmZ0dXMzNPR0hPdDVVTjZ3dy1COFZnanBhMnYzZGJuTkQ4dVZkNDNQNExrNE1KbnpubUtIT212LUFhU1owaWduSjZuTkRRWDFGTUdoNmFCQVBjN2s?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Don’t be fooled by this summer of AI hype - MIT Technology Review
-  Don't be fooled by this summer of AI
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOalMwd0FqRGVxX01sTWdkVXpUOFF1ZDN0dWpIaXNHRFlzYTVZSFdpcVlVRzY3XzV6ZWctZmk3LVM3b0o0dFJpdldJQ0l2a1ZaUldLcUo5NzV0SXpnajYtbDctYTFVenJRM2xFb0hsWm5wbG1xUzRDczNhbTJDaVVRdnQ5Z0tTNmI5MXfSAY8BQVVfeXFMT2xqNWpqRWsxS2d5b3dXTk13SFJnS0tSdDhoNmM5VlZObmpIcXd1bjNuWERhVS04TS1iM3NyWUF2czZfbjRkTXB5MkI4aU92WEI3QU5HSm4zMTZOOTdWYmJTWWhtNF93S2xndmo0MUhmUkNjSjVjVDBmMHFUT240UW84bkNNeUo2N0JSdUp2b00?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them? - The Guardian
-  Using AI to ‘talk to animals’ might make us feel clever – but what, if
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3VTdGE4dmMwUC1vUDZnUTNvUjlLX2ZTWFZfNEN2eWk2eW1VQ0lRRHNxWXBYbW9lcHhRdl9kS08xNEE0MHVWZS04M2ZuZktYQVM2YUh1RmVMYjQ0MkJDdDdfNHloNlJfM2s4S0RjVldHbW03cFB2eVRXNFNoc081ZzdfTGpVbkdnWHpSVFd4eTdubm9YUjBSTjdiVQ?oc=5
-
-- Brad Carson on Oversight of AI Technology - C-SPAN
-  Brad Carson on Oversight of
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWVCZ1YtSENHY2tjYmdmUFpQdlFTaFpVZFF4TnpmblJfZzJELWpRakFMajJ3RXRid21xZHBOdEVhNGlHdnhya2luUWtpLWF6X1lDdGNhckpsMTZERThobnhPQzcyVUlod2xTTndGR1JIdjk3Ym9PdnhuNGo2ZkNfMTR3V2dOZWFXY0ZuRWp1cHVNT1ZOdU9UN3VJRWlQbkU?oc=5
-
-- Microchip Technology Completes Acquisition of Hailo - Microchip Technology
-  Microchip Technology Comple
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPV183NnJTTFZncXliZkN1VTRQdnlxYko1R0dZTmRYR1V6SlBQbzZvemYtZ0QzYnhLSGhheUJJQWpHM3JqWVJnUkZia3NfblgxVThtaFo0WHM3elM3VGV2Vmc0SFZQSXA4WDV4R2c0TUItMDd0YVMtVkRVckp5YkxLdjIzd001ellQMG5hSXBfUVh4ekNiWmxIMUdydlNmNHJjcERHUHV4OF8zUEMwcnVxVDdlOG5QQQ?oc=5
-
-- Starbucks Technology to open new hub in Chennai, India - Starbucks
-  Starbucks Technology to open new hub
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPSl9lU0tkbl9ndlFGcDhvUUhHZ3hVcmJUVTc5MWFuRk5uTHFYeDlBeEdpTTRta1c3ODVxVUhTeC00N2NEU1RyTlp6SkNGYkhBRGtuZnh4bW84RTlBTjdlQ3JmZnZpUE5XM094QS1TVS1oREFWc2RCeWhIZmxSVENPaDN0UG93d0VQRGlwdjdXcXZOWkZzU0VuLQ?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-22 20:50:36 UTC_
+_Last updated: 2026-09-23 02:57:11 UTC_
