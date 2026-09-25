@@ -1,224 +1,164 @@
 # 📰 Daily News Summaries
 
-- Asian Games 2026 live, September 25: Know India scores, updates and results from Day 6 - olympics.com
-  Asian Games 2026 live, September 25: Know India scores,
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWY1Z1Utam5IRzNLaFhfZ2RKYUNONGhqY2NnSmhIa19PTjZ0V0F5LVFVak1fWFhHZWgtMUN3NW9yUTJpdUtBVDdJVHF4UHVYRmZoVUtGRFh1R1FqbHlJN2REY0NQYmVMSWw0MzdzMHBKdlNDUFlGd3M4aXZHNk9zUnZKWVY2cktwbGdLSUZKUnVMOUFqUkFib0I0bko?oc=5
-
-- Asian Games 2026 Day 6 Live Updates: Medal race gathers pace; India gear up for crucial day 6 in Nagoya - The Times of India
-  Asian Games 2026 Day 6 Live Updates: Medal race gathers pace; India gear up for crucial day 6
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZi16LUFZTHVUUXhLVzRqZW1QLTJ0dkctN050Nlp4UEdWamxaZmdVbGVGOEdiWllPQjF5LXRxVFhiN3hGUDVOZExWNzFOSFdCY29zTjRhNzZ3ZS04NjlHS2U2ZVRYdTlsMzRxcnFqenRqV1JDcEp5NmRwZHU5NUdCZzhYTjVpOVdERHdWcjFVNGQwWFd6RlZiOG9YdFJod2owcW5xQ3Z2d3d4RUhic2g0Uzc1Q2V0VkFEOGlVRVoyRlpua3VyMUVUWEJVaFBwNmV1dHlIN2Q5bFFna1RHMHM4T0NNRmJRcDZZVFd3QjR2b2dlVjFBcjBpVnVB0gH_AUFVX3lxTE9TLWdzSHRHb0dJcGhQWVUzTTVPODBvanN1bWJiWWpQN1NNR2pkdDBfaHhKV0NFc3llQkhVM3lLbDMtV2RUUlh2SjFYM09jcVN1cXhsSkppYk5LOF84cXBSTFBTLXNJQkRnT2ljazJDUHI1b1lyUHZ1dXhoVy1ac3JFQVBOdzA2Uzc3LXdMWGRxVkNHdl8zQ3RLeHY0MUR3V0hTbzhEd2haVmxjcHE1REFwR2p4ZG9HLTJCZjR0dEh5Wm9YcmlxOWNGZ0JLMndxWVFsMFdGa2h2SEo5OTJ1aEE4dXNnM0dLcVo5QTFLeHJtUGdjQlZtdUk4VjFUbVByWQ?oc=5
-
-- Asian Games: India wins silver medals in mixed relay race and Wushu; Seema Kumari bags historic Bronze in 10,000m - News On AIR
-  India wins silver medals in mixed relay race and Wushu. Seema Kumari bags historic
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDR4b0tMNThWLXdnX1JEWGlNRVJQMFdfNWdEZmxkbVBLZVY1ZExjN1pPNWpNLXFOV0pCem44bFMtWEtkWmpZMzBHNm5LaHpWa2J2eXBwZ2lqOGVSdnhDYUtCTTNrQWZJQWF2N3d1TTRRVjBjTUlnUlFteEZMeTZNNjdRVG84SnlKU3A4Tmw1X3lBUVlPWkJQZzgweC1SLUdtbTJRQXROa0Y5bTk1eVNvaldtQlJob1BlN3NqZGdRYkxFMkYxTU42MTJBZFQ4MmFWLXc?oc=5
-
-- Union Minister Piyush Goyal highlights India’s expanding engagement with global economy at 13th PAFI Annual Forum 2026 in New Delhi - News On AIR
-  Union Minister Piyush Goyal highlights India’s expanding engagement with global economy at 13th
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPajhNQ3dGQUNXNVJqNzBsUUxDMVFrZ1pFOHM3aEJUSngzRFd4S2d1NGxUQ0dScEZBVWJMRUxhZWlpOTA1ekY5ZEltX2MxRTkwUzh3Rl9EOEY5MEMxZlJQbkV1b0NlTmF2b3FfMTF6aFVKdkVvekdkdTVJbEl4MnBNY3hkQnduWFF1RjMzSkhGQ2hnWjBKeld2bFNtTm1XNm9OX2NJd3kxMlhQYVJOdGtJNFJVZE50TDdfN3FUNXNMZFFLLURYakFScHd0TEhVTlVLQVRMQnV0LXFvU0ZiUXNaVVh5dVdocGRkNnNQdQ?oc=5
-
-- CEC Gyanesh Kumar: Why India's Election Commission is in the eye of a storm - again - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKNEFqamZyMkFXQjBaMFFFQVpRTTMyXzE2OWhoR2l1S1MwSFlWeXJOSzBTdGViQjB4S1NDQnRxY2V5WG9abWRjR2R1RWM2aWczTWZ3UFdqZjZDOXc?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKNEFqamZyMkFXQjBaMFFFQVpRTTMyXzE2OWhoR2l1S1MwSFlWeXJOSzBTdGViQjB4S1NDQnRxY2V5WG9abWRjR2R1RWM2aWczTWZ3UFdqZjZDOXc?oc=5
-
 - Microsoft strengthens its commitment to the Middle East by investing in technology, digital resilience, and people - The Official Microsoft Blog
   Microsoft strengthens its commitment to the Middle East by investing in technology, digital resilience, and
   🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQUtBUUh0T3ZmSDBDcTdjZ0tZcFlDMThDd0hhNXhsT1JkNHdraDlhOXhHbmhXOU5IYkxtMzZsY05NQ3hsRTZHSWl0Skx4eGlhdVlKZDlhbHgwQ1RpcWVzTUtCb250UjFJcGU5eHRtZ1hrUWx4S0VDNTVodU5iOUhkODh2MjNiZXE2cWw1amxGWEtlb1NEMVRZUjZlR08tS0lNd1hCWURmaEtNWkpMclRZZkZVS1VuYUpicWhPQWdnVDh2M2h6eG5lVW1FLXMxY215S0h1U1RhS2ZmcnRRNUQtYno1QnVjcXRGQVZBcFZ6Mm94Y1ozeFVVRHJB?oc=5
 
-- Smart glasses are already causing havoc in India - technologyreview.com
-  Smart glasses are already causing havoc
+- GCCs cut thousands of jobs even as India takes on bigger global mandates - Moneycontrol.com
+  GCCs cut thousands of jobs even as India takes
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNcU84V01fNWRCdkhmMWhsNktEUHUtaFlPd0pHNG9ZcWxnWks5My1CQlplVG9nRDh1MTVNU01NVkpHMFZKd05qSFRGRmlNVW5LZkE0ZjhsNzFJZ0RmM21NamthM1JEN1FCbHdVZ2piTFpJMDVDRlg2Yl9Kd1VPTU4wTmtTTlVGR3pJeWdPR0FRY1c5emx3WUdLRDE3dkJNNDNLWmRtNWpHTXFNSVBia3VTMFY5QWVqbTZOV2JLU1E0eHFMYURORmpHaHdpYVpHLTDSAdQBQVVfeXFMTWhQTHowSFZnVWlXU3Q1R3Zpd1hyWF9HMzZRcVNqS3lpNl9pb1hoTGVkZmNXemx0djhFVGtHbk96WGxRQjEzbkN6UERVSkM3cEFMdkVJbHhsNGJOcmxSTWxfekNSYkEwV1lIcVpjVzZBelo0SV9KcEdjYV82YmdrWUVJdmxiTUdrX1ppSWg0T1c4VUttLVRzc2NqMXpxczctbVdJZG9ERnZDOWx6Yy16b1h5VkROTEpRemJvM2NHOTAyRC1wSGFoaHEzdjByd0xaY28xbmo?oc=5
+
+- Keystone Enters Bengaluru as AI Blurs the Lines Between Technology, Law & Competition - analyticsindiamag.com
+  Keystone Enters Bengaluru as AI Blurs the
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQT1hRaU5QR0Q4Y1hrb3hLVlZfbFRqQWQzMWRnd0FOSWFnQmMtcUtqNENJcDJZVWFkNTVRLWprZ3RlYzJYaW9GRlBxZm5SajlEa2Q3WlRYM1djdDFLanZSYnRJVWlqaHRSM3htV1ROZUZvallSZ1V4bmJBaTRxaHZzcWdiSmwwUnpqZzRyeGdCd0ZhT2QwOHFRVERpc0ZHckxzMzdScGFXb20wbWFPRjZvX19BbVlndW5abEpjdnFhN1dHLTl1?oc=5
+
+- Smart glasses are already causing havoc in India - MIT Technology Review
+  Smart glasses are already causing havoc in India
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlZiak1vNUxTcVIwdU5QNEc3LUduQXFvYlkwbTgzVk9JQUVxdW55Q3IyMS1EeDZIRy1ja2lSS2V2VFhRZDdkWTRVSDZjdXdJd191Tlo0cllFQTZwRDNWV1loaGYwYUVyZ2VyeFg5eUpjcDNUeUJfVUkyd1JleVVrTHBpemnSAYoBQVVfeXFMT3VtOS1RUG5naUVaemt4M1BOMGFZUGdlMkxkMTJ3UnR5dlFvSDdTbWV1dENrWEtQTHFDSWxKemUwSVNkT3djS0RFYTgwanFJZUllVHRTY09MNHZiRzdLaE1qN2JfdGdYNnlHR2dqOVRWT2REdmtfb092SkZIdGo1bllqYWZKUUxEZ3dR?oc=5
 
-- How an OpenAI ‘agent’ hacked Australia’s Medicare and what that means - Al Jazeera
-  How an OpenAI ‘agent’ hacked
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxONl9vVjh2ZFRreXEwZDRnTWI4V1gxN3VYdnhjelZCMWNXc1doUzY4RjJfNTI5SE5ZRTBXUjhGQ3Nzd2VlRFlJU1FISm44M0s1YmhCWEJmYkI4WkIzZHhybDFiTTNNSlJieEhoTlRPM2ozUGRyYWptTXlUbmFlUmpJNDliekg2SmR1VTN5ekcycFJXenY4VjhDTzloQVVTbVJFX1R1elRSM2hpalXSAbABQVVfeXFMTm5tOC1adzczZ0NRYzlTRGFJQXNyb1djVjJwWF9FVW9QM09zUjV1U0E1UnhOeTFNQlpTMDZtUjJTYkIwSEJuTVU5RzIxNl95dVRwTlNVTFV0emwxYS1QcDhjQ1RGbzkyOHV3NUFTMTU0SnNfcDR4OVJyLUN3b1h0WFU2anRueXN4VXVXS2hCbGNySDUxQzhZUVpyR0k2dTYyWENyR3pWYlNCZlpBNXhza00?oc=5
+- Odisha’s First HCL GUVI AI Hub Inaugurated at Nalanda Institute of Technology - orissadiary.com
+  Odisha’s First HCL GU
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOeDl1Tnh2NWpRUHNNdDZ0b2NNUW9JcHBMeUZxWHowel9Zd0lFRnU4N0p1ZktNbHJqN3ZhdzVLTExWZU9VeHpsVUgzYWh5V2RmbEtPWUNJM21KcE9kYThDVmJjSGFYNzZlZ2xQcUNlWFN3bXdRVGdzOVhpUjJERC03eGpoS0U1U1JuQTliMURyWTJxUE90d3RESlFjcDVpYktVeWZr?oc=5
 
-- India’s Data Centre Boom is Creating Jobs Beyond Technology Roles: Report - analyticsindiamag.com
-  India’s Data Centre Boom is Creating
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb2o4RlhNMWdDTlhyTmJOQk9LVGZaLWpMeThKU21OUU9FeXNSbjZiLVVyM0ZBX0JQMGRzckdxVXd6YlBLbG5scmgyQkFVSVdiWU5ndmV1aWIwVWl4WEpKMzg5Y0o1TDZvR1dGRFBnYlBJQVRDcUo2WDVhT0FyWktYVFZmMk4yUzFLYWFQWHI0NUF4V1VPRmJnRGFnWlByTnFnSWYwSlRIMm96ZHVvTkE?oc=5
+- Paramount+ is going the YouTube, TikTok and Netflix way: What David Ellison is changing before WBD takeover
+  Paramount+ plans to introduce new features, including a free tier and interactive ads. Changes aim to emulate Netflix and YouTube, as Paramount addresses a rise in subscriber cancellations
+  🔗 https://www.livemint.com/companies/news/paramount-is-going-the-youtube-tiktok-and-netflix-way-what-david-ellison-is-changing-before-wbd-takeover-11790331740288.html
 
-- How Japan’s Shinkansen technology will help India’s bullet train switch tracks at 320 kmph - ThePrint
-  How Japan’s Shinkansen technology will help India
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnVoejFUWk5MWDRoVFQ4QlFtRVN3ZFJncjRERThRZWJhVFIxaFRiWTZNZTBJM0hKNy1HaFllQW9FXzI2VTFtcml2ejJOQmxtb2NPSTlnWlNaZmtwQUNyekpXZTA4OGtUZkZxem4ybWczaEtybjRiNzJnbGRzMFZ2TVIxMWFJdXY1Smw0b254VGJVeHZRUGItX3B30gGfAUFVX3lxTE1aUDE4QzFMTGg0aTN2bThMb1E1WlBVZjJZV0lhRllGTHhrZE1CdDBUNXFmbHpUZmN3ZE1hS0Zza29RUHQ5WnN4R0Zrak03TTNsRENqeS1aQnJzTVhQX3ZLdW9CU3RVZllUYmczVVRSWi1iVTRwQzRaRnc4eTBXSjBIa1B5ZUxmSkFQOHA2RzNwamozN2FDSnBrU3pTMDBwQQ?oc=5
+- True North picks up $50-60 mn stake in IPO-bound InMobi
+  Details of the valuation were not available as the investment
+  🔗 https://www.livemint.com/companies/true-north-50-60-mn-dollar-stake-purchase-inmobi-11790306593402.html
 
-- Fintechs bet on AI agents to retain merchants as acquisition costs rise and margins thin
-   Merchants using AI agents have seen
-  🔗 https://www.livemint.com/companies/news/fintechs-ai-agents-merchants-acquisition-costs-margins-thin-11790214588042.html
+- Delhi HC issues notice to Riju Ravindran on Byju’s Alpha plea to enforce  ₹8 crore DIFC court order
+  Byju’s Alpha is seeking to recover $840,000 in legal costs from Ravindran
+  🔗 https://www.livemint.com/companies/news/delhi-hc-issues-notice-to-riju-ravindran-on-byju-s-alpha-plea-to-enforce-8-crore-difc-court-order-11790325765370.html
 
-- Tata clash has biz families revisiting governance, control
-  Family-business advisers and lawyers say the 17 September episode is prompting promoters to revisit their Trust and LLP structures.
-  🔗 https://www.livemint.com/companies/news/tata-sons-board-clash-family-business-control-governance-legal-structure-11790248657730.html
+- Tata Trusts vs Tata Sons: What are Articles of Association at the centre of Chandrasekaran row?
+  The dispute over N Chandrasekaran’s third term hinges on Articles 104B, 118 and 121 of the company
+  🔗 https://www.livemint.com/companies/news/tata-trusts-vs-tata-sons-what-are-articles-of-association-at-the-centre-of-chandrasekaran-row-11790322115913.html
 
-- Anant Raj plans  ₹25,000 crore data centre bet without fresh funding
-  Anant Raj is an exception among companies investing in India’s fast-growing data centre market. Large technology firms and homegrown conglomerates have announced plans to
-  🔗 https://www.livemint.com/companies/news/anant-raj-plans-25-000-crore-data-centre-bet-without-fresh-funding-11790255035152.html
+- Solara in talks to raise $20-25 million led by Faering Capital
+  Hyderabad-based D2C home and kitchen brand turned profitable in FY25. The
+  🔗 https://www.livemint.com/companies/start-ups/solara-in-talks-to-raise-20-25-million-led-by-faering-capital-11790187257903.html
 
-- Adani Realty plans Mumbai luxury push with Goregaon, Bandra projects
-  The developer plans premium and ultra-luxury launches in Goregaon and Bandra.
-  🔗 https://www.livemint.com/companies/news/adani-realty-plans-mumbai-luxury-push-with-goregaon-bandra-projects-11790071514846.html
+- Four-day upper circuit streak drives this small-cap stock up 74%; here’s the key trigger behind the jump
+  Cubex Tubings has seen its shares hit an upper circuit limit, reflecting investor confidence, with a 74% gain over four days. The small-cap stock's market cap
+  🔗 https://www.livemint.com/market/stock-market-news/fourday-upper-circuit-streak-drives-this-small-cap-stock-up-74-here-s-the-key-trigger-behind-the-jump-11790331573614.html
 
-- Ingram Micro bets on small businesses to drive India growth
-   Ingram Micro says it has all the elements to
-  🔗 https://www.livemint.com/companies/news/ingram-micro-bets-on-small-businesses-to-drive-india-growth-11790258682503.html
+- Upcoming dividend stocks: SAIL, IGL, NMDC among 3 PSU stocks with record dates ahead- Check yield, ROE, stock return
+  SAIL, IGL, and NMDC are set to pay dividends by the end of September and October. Investors need to hold the stocks before record dates to qualify for payouts.
+  🔗 https://www.livemint.com/market/stock-market-news/upcoming-dividend-stocks-sail-igl-nmdc-among-3-psu-stocks-with-record-dates-ahead-check-yield-roe-stock-return-11790330679880.html
 
-- Nifty earnings estimates ambitious but a weak rupee doesn’t complicate outlook: Nuvama’s Prateek Parekh
-   weak rupee acts as a net positive for earnings by boosting export-heavy sectors. But it presents challenges for consumer
-  🔗 https://www.livemint.com/market/mark-to-market/fy27-nifty-earnings-estimates-are-ambitious-but-a-weaker-rupee-doesn-t-complicate-outlook-11790247618134.html
+- SEBI board clears a number of reforms; expands FPI access to commodity derivatives, relaxes advertising norms
+  The SEBI board has approved significant reforms to enhance market participation. The reforms include unified ad rules, expanded access for
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-board-clears-a-number-of-reforms-expands-fpi-access-to-commodity-derivatives-relaxes-advertising-norms-11790329323491.html
 
-- Gold price outlook: Gold set for a weekly loss, but can it rebound? Check 2026 forecast
-  Gold prices are pressured by rising yields and a stronger dollar. Short-term volatility is expected, but analysts remain optimistic about long-term prospects.
-  🔗 https://www.livemint.com/market/commodities/gold-price-outlook-gold-set-for-a-weekly-loss-but-can-it-rebound-check-2026-forecast-11790300099835.html
+- IPO GMPs: Orient Cables IPO to German Green Steel IPO | What grey market hints on Day 1?
+  Four IPOs are set to open for public subscription on 25 September. The IPOs span real estate, steel, networking, and digital commerce, closing on 29 September.
+  🔗 https://www.livemint.com/market/ipo/ipo-gmps-orient-cables-ipo-to-german-green-steel-ipo-what-grey-market-hints-on-day-1-11790329123256.html
 
-- Surging US Yields Push Spreads With Asia Toward Extremes
-  Treasury yields have pushed yield gaps with emerging Asia bonds toward record levels. The surge in Treasury yields has pushed yield
-  🔗 https://www.livemint.com/market/surging-us-yields-push-spreads-with-asia-toward-extremes-11790299941202.html
+- JPMorgan CEO Jamie Dimon warns Trump against punishing India; gives this advice on Russian oil imports
+  JPMorgan CEO Jamie Dimon emphasized the bank's commitment to India, citing economic growth and strong ties with US. He advocated for dialogue over potential tariffs on Indian oil
+  🔗 https://www.livemint.com/market/stock-market-news/jpmorgan-ceo-jamie-dimon-warns-trump-against-punishing-india-gives-this-advice-on-russian-oil-imports-11790326652038.html
 
-- Rate-sensitive stocks to watch after the Fed hike
-  Domestic rate-sensitive counters and debt-heavy sectors face valuation scrutiny
-  🔗 https://www.livemint.com/market/stock-market-news/us-federal-reserve-fed-rate-hike-rate-sensitive-stocks-11790251770744.html
+- Apple’s next big launch: Touchscreen MacBook, Apple TV 4K and smart home hub reportedly coming soon
+  Apple is reportedly developing a redesigned MacBook Pro with OLED touchscreen. New Apple TV 4K with AI-powered Siri, and a long-rumoured
+  🔗 https://www.livemint.com/technology/apples-next-big-launch-touchscreen-macbook-apple-tv-4k-and-smart-home-hub-reportedly-coming-soon-11790330176111.html
 
-- Sensex, Nifty 50 prediction today: Stock market outlook for 25 Sept 2026 | GIFT Nifty, Nikkei, Taiwan cues to watch
-  Gift Nifty was trading around the 23,110 level, up around 13 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-prediction-today-stock-market-outlook-for-25-sept-2026-gift-nifty-nikkei-taiwan-cues-to-watch-11790270854462.html
+- Australia steps up response to AI after OpenAI bot breaches health system database
+  Australia steps up response to AI after OpenAI
+  🔗 https://www.livemint.com/technology/australia-steps-up-response-to-ai-after-openai-bot-breaches-health-system-database-11790316218414.html
+
+- PS6 vs Xbox Helix: What the leaked 40 vs 56 TFLOPS specs mean
+  Leaked AMD RDNA 5 GPU specs suggest 40 TFLOPS for PS6 and 56 TFLops for Xbox. Here’s what the reported specs could mean.
+  🔗 https://www.livemint.com/technology/ps6-vs-xbox-helix-what-the-leaked-40-vs-56-tflops-specs-mean-11790312756157.html
+
+- 'One small step for TPUs': Google CEO Sundar Pichai announces Project Suncatcher to test AI compute in Space
+  Project Suncatcher is a long-term, research moonshot exploring whether space
+  🔗 https://www.livemint.com/technology/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space-11790309041454.html
 
 - Analysis-Oracle, Blue Owl project delay sends ripples through AI financing, sources say
   Oracle, Blue Owl project delay 
   🔗 https://www.livemint.com/technology/analysisoracle-blue-owl-project-delay-sends-ripples-through-ai-financing-sources-say-11790290849254.html
 
-- YouTube gets 30+ new features: AI editing tool to help creators; custom feeds, shorts series and more coming for users
-  The new tools are intended to give viewers greater control over the content they consume while helping creators produce, manage and earn
-  🔗 https://www.livemint.com/technology/youtube-gets-30-new-features-ai-editing-tool-to-help-creators-custom-feeds-shorts-series-and-more-coming-for-users-11790245559585.html
+- Global Market: Airbus shares fall after quality flaw found in hundreds of A321neo jets
+  Airbus shares fell after the company disclosed a quality issue affecting hundreds of A321neo aircraft. The planemaker has identified a repair
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-airbus-shares-fall-after-quality-flaw-found-in-hundreds-of-a321neo-jets/articleshow/134482831.cms
 
-- LinkedIn rolls out new tools to tackle fake profiles, false work histories and impersonation
-   LinkedIn introduces new tools to tackle fake profiles, false work histories and impersonation. New features let verified users vouch for colleagues.
-  🔗 https://www.livemint.com/technology/apps/linkedin-rolls-out-new-tools-to-tackle-fake-profiles-false-work-histories-and-impersonation-11790235917975.html
+- Explained: What really drives the rupee? Decoding the forces behind currency moves
+  The rupee’s decline over the past four years reflects a complex interplay of fundamentals, RBI intervention and market sentiment. A Bank of Baroda analysis finds no single dominant driver, with RBI spot and forward operations emerging as significant
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/explained-what-really-drives-the-rupee-decoding-the-forces-behind-currency-moves/articleshow/134482274.cms
 
-- Meta unveils $1,299 VR glasses with eye tracking, hologram calls and AI features: All you need to know
-  The Meta VR Glasses feature eye tracking, hand controls, virtual screens and hologram video calls. The company also announced Muse Charm, a pocket-sized device
-  🔗 https://www.livemint.com/technology/meta-unveils-1-299-vr-glasses-with-eye-tracking-hologram-calls-and-ai-features-all-you-need-to-know-11790220108779.html
+- Rupee soothed by intervention, surge in forward premiums tipped to cool
+  The Indian rupee strengthened slightly against the dollar as oil prices declined and the central bank intervened. Oil prices fell about 2%, remaining above $100 per barrel amid ongoing geopolitical tensions.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-soothed-by-intervention-surge-in-forward-premiums-tipped-to-cool/articleshow/134482310.cms
 
-- Australias prime minister criticizes OpenAI over government website security breach
-  Australia's prime minister critic
-  🔗 https://www.livemint.com/technology/australias-prime-minister-criticizes-openai-over-government-website-security-breach-11790211186516.html
+- Global Market: VLCC rates hit record as Saudi crude flows jump
+  Saudi Arabia’s increased crude shipments through the Strait of Hormuz have pushed ship-to-ship transfer operations in the Gulf of Oman to
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-vlcc-rates-hit-record-as-saudi-crude-flows-jump/articleshow/134482091.cms
 
-- Dow falls for a third day as bond yields hit fresh highs: Live updates - CNBC
-  Dow falls for a third day as bond yields hit fresh highs: Live updates. Oil Rally Fuels Treasury Volatility: Markets Wrap.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSThnZGdDMlpreHVoQ2NfOEs2blNBWnhLZWZyZjUzUVdhT0JwTjBQMDJ0b1F4cFRiaW1icDNTNHpSdEFLVmpKM2MxT3Voa25WSUxwY1RsYno3UU5qTG1Ec09mU3lveEFYUTk5VVFTbDdXQU9PT2xj0gF8QVVfeXFMT3hBNUw4aTh3Q1VGT1RZUXZ2RUtmamZLZXd6TGRkVExWQmVFVWw0RHJPNnBxMjJMcXREZF93enk1VFdkMGEwS21ZX21GbG54QWVqZ3hQZFgzZ3VockF0enVCdkhQYkhNbk1VNndtNFIxY2F2bnRNZHYxLVdCaA?oc=5
+- $500 billion flywheel! Macquarie lists 3 drivers for strong growth in capital market stocks, lists top picks
+  Macquarie projects a robust growth trajectory for India's capital market sector between fiscal years 2026 to 2030. This optimistic outlook hinges on a notable redirection of household savings towards market-based financial products. Key growth drivers identified are financial
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/500-billion-flywheel-macquarie-lists-3-drivers-for-strong-growth-in-capital-market-stocks-lists-top-picks/articleshow/134480879.cms
 
-- Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dm
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5
+- Dextr AI Raises $6.7 Mn To Build AI Agents For Hospitality Industry
+  Hospitality-focused AI startup Dextr AI has raised $6.7 Mn in a seed funding round led by Elevation.
+  🔗 https://inc42.com/buzz/dextr-ai-raises-6-7-mn-to-build-ai-agents-for-hospitality-industry/
 
-- NSE becomes world's sixth largest bourse with $47 billion m-cap - The Economic Times
-  NSE becomes world's sixth largest bourse with
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOXlFR2lhVnA5bjZBb3VlNGlwVnFqMjI3NWVTcFJzbjU4LWJNUHRaSWhORkxVUzJwbk42MERTSHlYdHlRMXZrWXlDUDhxcVFYak1pZ3hkeDJ5Y0FnZTloTm5Fajd5eXd1TmJMbVcxc1FiN3RMMDV1a0pVa2xwLTdWa3J0WkQ5d2FTYlBaajFrbEhYUGNmWlFXN1BXRGtQM2YzRVRzYlR0TmQyQS12a0IwMXdhc05Hd2ZPWUk2ZEZtUl9OT1lBaFQ3dmt0T2p1U2Fk0gHWAUFVX3lxTE5fZS1FZXlhV0FpUnRZN3l3c3VkdFlXMldwdnU0dk1VWHlTd3NVb1Z1Mk5lSDlmZnlLQlEwd1Z0em80RUtyWHNDX0h1SGVRT1NZcTVNYWlBY3J0eEVYa3RwaUtrM1ZMTjNKam9VQkEyNkRjbm5pQjdSNDQ1QTRpc3V0TEVqajZNOXd3dHlkX05vTXFycWVMbjVVWGJiZXlPV2lpaFFyTHpiM0RZNzJ6T2t2VWVORGptYzRsWldMTy1HYkhXM3JKUnVsOXZxa0FEZGxFaERBN1E?oc=5
+- Rivet Bags $10.5 Mn From Peak XV, Others To Scale Dating Platform In US
+  Rivet has raised $10.5 Mn (about ₹100.6 Cr) in seed funding.
+  🔗 https://inc42.com/buzz/rivet-bags-10-5-mn-from-peak-xv-others-to-scale-dating-platform-in-us/
 
-- Why Markets May Be Pricing in Too Many Fed Rate Hikes - Goldman Sachs
-  Goldman Sachs says markets are pricing in too many
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnZVbHFSUTVHelRPMkJNanJzLUlXV2FuWWFEWEVzY2JSZFl0QzZfQkthYng2Y001NXB5Q3JoVjREck9IMzlxeTU4STBDNGFnM1dOTjZFeUx2aHc4RWxFZkRscjQzTWJKOGJVNUl1OWtIQWJSTklTa3RZZHo4NnBMQzFYc3N2alB4aE1sMHNaWGRxT2hEYUxpYVFSUGdidWlfVDRFTWI2ZURZanFyZmFqQw?oc=5
+- How Astrobase Is Building The Base For Tomorrow’s Medium-Lift Rockets
+  In June 2026, three spacetech startups became the first cohort to receive funds selected under the Indian National Space Promotion.
+  🔗 https://inc42.com/startups/how-astrobase-is-building-the-base-for-tomorrows-medium-lift-rockets/
 
-- Payments, partnerships and market access: Gaurav Shisodia on what it takes to scale across borders - peoplematters.in
-  Gaurav Shisodia is the founder and CEO of
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNVRhbTBIdHozNlVxMVVNdENVWkgydjhucVQyLUpoR0lQNkk4ci1nV1BFVkxIZU5FX3BxcmdDbUEtMkh6VnBHNmJNNW5pbkRhUWF6ZHRUN2RONkhSLUhOcEpXTjVjSUxuS0RRSlh5N1pKNkxNcFdkSE1pLWlUSWl2R2tEU2Z5Y2MtcVlNSUVoOWwxelo1ZFRBeXBqSjJnUzM2MVFaVTdyMzlWTFNDU1ZwRzNoMnB1MUppNFZSbnFZNkd2Wm9TM1VodWJkbElUY1EyWnlvb0tRUERldXM2X1VvY0JR?oc=5
+- AceVector IPO Subscribed 9% On Day 1 So Far, Retail Investors Lead Bidding
+  Snapdeal parent Ace Vector’s ₹420 Cr IPO was subscribed 9% as of 14:12 IST on the first day of bidding.
+  🔗 https://inc42.com/buzz/acevector-ipo-subscribed-9-on-day-1-so-far-retail-investors-lead-bidding/
 
-- Dollar set for weekly gains as yields surge, Fed bets build
-  The dollar has achieved consecutive weekly gains for the first time in over three months. Anticipations of additional rate hikes from the Federal Reserve are enhancing the currency's strength. Meanwhile, the Japanese yen falters as market participants scrutinize the
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-set-for-weekly-gains-as-yields-surge-fed-bets-build/articleshow/134473522.cms
+- Exclusive: CodeKarma In Talks To Raise $6 Mn From Prosus, Accel
+  Enterprise tech startup CodeKarma is in talks to raise $5 Mn to $6 Mn in a fresh funding round.
+  🔗 https://inc42.com/buzz/codekarma-in-talks-to-raise-6-mn-from-prosus-accel/
 
-- Varmora Granito IPO allotment likely today: Flat GMP signals muted listing. Here’s how to check status
-  The Rs 708-crore Varmora Granito IPO is expected to finalise its share allotment today. Investors will be able to check online whether they have been allotted shares. The company’s stock is tent
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/varmora-granito-ipo-allotment-likely-today-flat-gmp-signals-muted-listing-heres-how-to-check-status/articleshow/134473395.cms
+- India at Asian Games: Live updates from Day 6 action on September 25, 2026 in Aichi-Nagoya - ESPN India
+  India will be competing in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU1BCREc5YzdOcklkcjI3YTcyQ1MycjJESUdhM2NkRHVXa0xNS1JWb2Y4V1lwcnRRQy15b0xIWklHNThhdUhkZ0U4R3dhNkpnMWx4NnZENmZJMDBMVUZ4WFZFanJNcVlyRFRya21rMjJwbEctLW9UclJBbmhHZW5ES1FtRHdBVVFERGRTT29tMGxVckQxRTRKN241Tk90dGRrM3pVRnZ1ZUtHdXc5VFJJaklzaXZiU2p3SDFTUW12eXVDQ1NmUDE2SjBDaENmYU8xNWFkYmhjZW1STkZSWVBPZmN6UmQ4UDdnbkE?oc=5
 
-- 5 SME IPOs open for subscription today, September 25: Check issue size, price band, lot size and key dates
-  Himalayan Solar has the largest issue size at Rs 68.03 crore, followed by Bench Mark Infotech Services at Rs 42.44 crore. Three of the IPOs — Shree TNB Polymers, Dudani Retail and
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/5-sme-ipos-open-for-subscription-today-september-25-check-issue-size-price-band-lot-size-and-key-dates/articleshow/134473313.cms
+- Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema - BBC
+  Angh by Theja Rio at Toronto: The Indian film
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5
 
-- Orient Cables IPO opens today: GMP signals 19% listing gain; check key details
-  Orient Cables IPO is a book-built issue comprising a fresh issue of 1.18 crore shares worth Rs 320 crore and an offer for sale (O
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/orient-cables-ipo-opens-today-gmp-signals-19-listing-gain-check-key-details/articleshow/134473285.cms
+- "If Questions Are Being Raised...": Chirag Paswan To Poll Body Chief - NDTV
+  "If Questions Are Being Raised...":
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzBnbTlLLVFjN3NabnRVUFVmelZYTUx4OEVJWTd1SW9rVXd5MEJVLTBTYklOUjdxbWcydzNNSXZZRHk3c0g3S3l3elNhdWllZ0EzU2xzamV6bDJYVmlzX1o5YzI4akkzV2FBUmVNN0cyQ0xTQ0loUy01MFNXSDNwWnIxRDYtX082RVlMdjNmNXNJeUt6ZUNuNVJyYlBWTmtsOW42NnRXMktnSkdteGUxRUYtZS1PMjEybGtwTzhnR1NnQjdVeWZRVlZvUWs1VHRRc2JWNdIB3AFBVV95cUxOLWRhMkNCcVp2Mm9ERktqbjNNa0VBa2hXczdObllTSmFPM3lIejNqWkRfeGZieG5mMlJIekVFcUI2bmV3a2c2UmxzOUJvTHpfWE5IVDh4bnZ5dmdDZy1hN0dDRVFwTU13UTFLTEwzNEs0b2phOHFaQ1pxUHNBVHVLdnRSamI3WjJQS0RLR2JlSnZmMVBJTERTUUhMX0s5MjY2SXg0ay1FWE00S1pRbE5VcUtCcjFUdU1wb1RqM1lKRzMwd0VDUnhVQWNrbjFEczB5bWlucllYTXJYcndj?oc=5
 
-- Runwal Enterprises IPO opens today: Check GMP and key details. Should you subscribe?
-  The Rs 499.83 crore Runwal Enterprises IPO is entirely a fresh issue
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/runwal-enterprises-ipo-opens-today-check-gmp-and-key-details-should-you-subscribe/articleshow/134473268.cms
+- Asian Games 2026 India schedule today, September 25: Gulveer Singh to run for medal; kabaddi teams eye finals - olympics.com
+  Asian Games 2026 India schedule today, September 25: Gulveer Singh to
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOczczQjlGdmZJY29CSXE1MTB6LUQxbEdmempqVWFLMFcyTURMbHB0VkNVZHVJcmFURFh4OGRaTTFMemJxSXpybmhTMnNEbExNc0JleUlyZkFmNERWODhxUWlvYTVrbWdlM2xvczlTS2hibW9lNU8xQnJLQ2VzVlU4T1VNUnMxZFdwS1pLeHc1Y2prbDJQ?oc=5
 
-- Asian Games 2026 live, September 25: Know India scores, updates and results from Day 6 - olympics.com
-  Asian Games 2026 live, September 25: Know India scores,
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWY1Z1Utam5IRzNLaFhfZ2RKYUNONGhqY2NnSmhIa19PTjZ0V0F5LVFVak1fWFhHZWgtMUN3NW9yUTJpdUtBVDdJVHF4UHVYRmZoVUtGRFh1R1FqbHlJN2REY0NQYmVMSWw0MzdzMHBKdlNDUFlGd3M4aXZHNk9zUnZKWVY2cktwbGdLSUZKUnVMOUFqUkFib0I0bko?oc=5
+- Tata v Tata: What’s behind India’s big boardroom brawl? - Al Jazeera
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmJNQWsxRlVqeW1WV1dxQ2xranR0M2NaYldERTNzUTlOc1pIdFh4YlZrTEhqaE1FSzZobFl4dy1XR2VQRHpsMWRVRnFBRGZpaGc0cWo2NEtUTThoZ29DekJvT2NLT2RFWlRQYXlrUGFWQU1ZM0gteTg5aFRJS3lxOTNzYktWQjhMS2RBV2tJZmxPdGpiYy1j0gGcAUFVX3lxTE1TWHdBdXpwOGI5d05YWjczQldyeHFUc1RqcWNwMUVmdzFNbnNyWjg0TzI0cHdKTlQ0VDhlN2M2Zm1OQVJiSGNPSjNKbm9Fc1VoNG5MWUpLaThJak9mNmg4TVlldDgyMndfb2tFZFlWbkFlc1hoanp5NmtKSUFYMUUzRjU3VHd5MHlCUkczY0huUnVsUDBJdTRfSzZSaQ?oc=5
 
-- Asian Games 2026 Day 6 Live Updates: Medal race gathers pace; India gear up for crucial day 6 in Nagoya - The Times of India
-  Asian Games 2026 Day 6 Live Updates: Medal race gathers pace; India gear up for crucial day 6
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZi16LUFZTHVUUXhLVzRqZW1QLTJ0dkctN050Nlp4UEdWamxaZmdVbGVGOEdiWllPQjF5LXRxVFhiN3hGUDVOZExWNzFOSFdCY29zTjRhNzZ3ZS04NjlHS2U2ZVRYdTlsMzRxcnFqenRqV1JDcEp5NmRwZHU5NUdCZzhYTjVpOVdERHdWcjFVNGQwWFd6RlZiOG9YdFJod2owcW5xQ3Z2d3d4RUhic2g0Uzc1Q2V0VkFEOGlVRVoyRlpua3VyMUVUWEJVaFBwNmV1dHlIN2Q5bFFna1RHMHM4T0NNRmJRcDZZVFd3QjR2b2dlVjFBcjBpVnVB0gH_AUFVX3lxTE9TLWdzSHRHb0dJcGhQWVUzTTVPODBvanN1bWJiWWpQN1NNR2pkdDBfaHhKV0NFc3llQkhVM3lLbDMtV2RUUlh2SjFYM09jcVN1cXhsSkppYk5LOF84cXBSTFBTLXNJQkRnT2ljazJDUHI1b1lyUHZ1dXhoVy1ac3JFQVBOdzA2Uzc3LXdMWGRxVkNHdl8zQ3RLeHY0MUR3V0hTbzhEd2haVmxjcHE1REFwR2p4ZG9HLTJCZjR0dEh5Wm9YcmlxOWNGZ0JLMndxWVFsMFdGa2h2SEo5OTJ1aEE4dXNnM0dLcVo5QTFLeHJtUGdjQlZtdUk4VjFUbVByWQ?oc=5
+- India at Asian Games: Live updates from Day 6 action on September 25, 2026 in Aichi-Nagoya - ESPN India
+  India will be competing in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU1BCREc5YzdOcklkcjI3YTcyQ1MycjJESUdhM2NkRHVXa0xNS1JWb2Y4V1lwcnRRQy15b0xIWklHNThhdUhkZ0U4R3dhNkpnMWx4NnZENmZJMDBMVUZ4WFZFanJNcVlyRFRya21rMjJwbEctLW9UclJBbmhHZW5ES1FtRHdBVVFERGRTT29tMGxVckQxRTRKN241Tk90dGRrM3pVRnZ1ZUtHdXc5VFJJaklzaXZiU2p3SDFTUW12eXVDQ1NmUDE2SjBDaENmYU8xNWFkYmhjZW1STkZSWVBPZmN6UmQ4UDdnbkE?oc=5
 
-- Asian Games: India wins silver medals in mixed relay race and Wushu; Seema Kumari bags historic Bronze in 10,000m - News On AIR
-  India wins silver medals in mixed relay race and Wushu. Seema Kumari bags historic
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDR4b0tMNThWLXdnX1JEWGlNRVJQMFdfNWdEZmxkbVBLZVY1ZExjN1pPNWpNLXFOV0pCem44bFMtWEtkWmpZMzBHNm5LaHpWa2J2eXBwZ2lqOGVSdnhDYUtCTTNrQWZJQWF2N3d1TTRRVjBjTUlnUlFteEZMeTZNNjdRVG84SnlKU3A4Tmw1X3lBUVlPWkJQZzgweC1SLUdtbTJRQXROa0Y5bTk1eVNvaldtQlJob1BlN3NqZGdRYkxFMkYxTU42MTJBZFQ4MmFWLXc?oc=5
+- Angh by Theja Rio at Toronto: The Indian film taking Nagaland to global cinema - BBC
+  Angh by Theja Rio at Toronto: The Indian film
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiVmdDWUVqSGxCSUV1dnhQcUoySDdob2N5T3JueWQ5SHd2NE1rSllmcDZVaE9VeDFRWVNMOWxnWXhjQ2VCejNwcjNkN3JXeEtlaVNPRW16aVhoeW8?oc=5
 
-- Union Minister Piyush Goyal highlights India’s expanding engagement with global economy at 13th PAFI Annual Forum 2026 in New Delhi - News On AIR
-  Union Minister Piyush Goyal highlights India’s expanding engagement with global economy at 13th
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPajhNQ3dGQUNXNVJqNzBsUUxDMVFrZ1pFOHM3aEJUSngzRFd4S2d1NGxUQ0dScEZBVWJMRUxhZWlpOTA1ekY5ZEltX2MxRTkwUzh3Rl9EOEY5MEMxZlJQbkV1b0NlTmF2b3FfMTF6aFVKdkVvekdkdTVJbEl4MnBNY3hkQnduWFF1RjMzSkhGQ2hnWjBKeld2bFNtTm1XNm9OX2NJd3kxMlhQYVJOdGtJNFJVZE50TDdfN3FUNXNMZFFLLURYakFScHd0TEhVTlVLQVRMQnV0LXFvU0ZiUXNaVVh5dVdocGRkNnNQdQ?oc=5
+- "If Questions Are Being Raised...": Chirag Paswan To Poll Body Chief - NDTV
+  "If Questions Are Being Raised...":
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzBnbTlLLVFjN3NabnRVUFVmelZYTUx4OEVJWTd1SW9rVXd5MEJVLTBTYklOUjdxbWcydzNNSXZZRHk3c0g3S3l3elNhdWllZ0EzU2xzamV6bDJYVmlzX1o5YzI4akkzV2FBUmVNN0cyQ0xTQ0loUy01MFNXSDNwWnIxRDYtX082RVlMdjNmNXNJeUt6ZUNuNVJyYlBWTmtsOW42NnRXMktnSkdteGUxRUYtZS1PMjEybGtwTzhnR1NnQjdVeWZRVlZvUWs1VHRRc2JWNdIB3AFBVV95cUxOLWRhMkNCcVp2Mm9ERktqbjNNa0VBa2hXczdObllTSmFPM3lIejNqWkRfeGZieG5mMlJIekVFcUI2bmV3a2c2UmxzOUJvTHpfWE5IVDh4bnZ5dmdDZy1hN0dDRVFwTU13UTFLTEwzNEs0b2phOHFaQ1pxUHNBVHVLdnRSamI3WjJQS0RLR2JlSnZmMVBJTERTUUhMX0s5MjY2SXg0ay1FWE00S1pRbE5VcUtCcjFUdU1wb1RqM1lKRzMwd0VDUnhVQWNrbjFEczB5bWlucllYTXJYcndj?oc=5
 
-- CEC Gyanesh Kumar: Why India's Election Commission is in the eye of a storm - again - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKNEFqamZyMkFXQjBaMFFFQVpRTTMyXzE2OWhoR2l1S1MwSFlWeXJOSzBTdGViQjB4S1NDQnRxY2V5WG9abWRjR2R1RWM2aWczTWZ3UFdqZjZDOXc?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKNEFqamZyMkFXQjBaMFFFQVpRTTMyXzE2OWhoR2l1S1MwSFlWeXJOSzBTdGViQjB4S1NDQnRxY2V5WG9abWRjR2R1RWM2aWczTWZ3UFdqZjZDOXc?oc=5
+- Asian Games 2026 India schedule today, September 25: Gulveer Singh to run for medal; kabaddi teams eye finals - olympics.com
+  Asian Games 2026 India schedule today, September 25: Gulveer Singh to
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOczczQjlGdmZJY29CSXE1MTB6LUQxbEdmempqVWFLMFcyTURMbHB0VkNVZHVJcmFURFh4OGRaTTFMemJxSXpybmhTMnNEbExNc0JleUlyZkFmNERWODhxUWlvYTVrbWdlM2xvczlTS2hibW9lNU8xQnJLQ2VzVlU4T1VNUnMxZFdwS1pLeHc1Y2prbDJQ?oc=5
 
-- The Insurance Shuffle, Moneyview IPO Day 1 & More
-  IRDAI Resets Insurtech’s Economics The IRDAI has proposed a radical overhaul of the insurance tech sector.
-  🔗 https://inc42.com/buzz/the-insurance-shuffle-moneyview-ipo-day-1-more/
-
-- Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report
-  Ecommerce giant Amazon India reportedly plans to invest $3 Bn to expand its quick commerce business, Amazon Now.
-  🔗 https://inc42.com/buzz/amazon-india-to-invest-3-bn-in-quick-commerce-arm-by-2030-report/
-
-- TPG Exits FirstCry With ₹202 Cr Bulk Deal
-  Private equity (PE) giant TPG has exited omnichannel kids wear giant FirstCry through a ₹202 Cr bulk deal.
-  🔗 https://inc42.com/buzz/tpg-exits-firstcry-with-%e2%82%b9202-cr-bulk-deal/
-
-- Rio Health Raises $4.5 Mn To Scale Its Quick Pharmacy Network
-  Rio Health has raised $4.5 Mn (around ₹43 Cr) in a pre-Series A funding round.
-  🔗 https://inc42.com/buzz/rio-health-raises-4-5-mn-to-scale-its-quick-pharmacy-network/
-
-- ESDS Q1: Profit Increases 14% YoY To ₹29.3 Cr, Revenue Up 7%
-  Recently-listed enterprise cloud and AI company ESDS Software Solution’s net profit for the ended June 30, 2026 (Q1 FY27)
-  🔗 https://inc42.com/buzz/esds-q1-profit-increases-14-yoy-to-%e2%82%b929-3-cr-revenue-up-7/
-
-- Asian Games 2026 live, September 25: Know India scores, updates and results from Day 6 - olympics.com
-  Asian Games 2026 live, September 25: Know India scores,
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWY1Z1Utam5IRzNLaFhfZ2RKYUNONGhqY2NnSmhIa19PTjZ0V0F5LVFVak1fWFhHZWgtMUN3NW9yUTJpdUtBVDdJVHF4UHVYRmZoVUtGRFh1R1FqbHlJN2REY0NQYmVMSWw0MzdzMHBKdlNDUFlGd3M4aXZHNk9zUnZKWVY2cktwbGdLSUZKUnVMOUFqUkFib0I0bko?oc=5
-
-- Asian Games 2026 Day 6 Live Updates: Medal race gathers pace; India gear up for crucial day 6 in Nagoya - The Times of India
-  Asian Games 2026 Day 6 Live Updates: Medal race gathers pace; India gear up for crucial day 6
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZi16LUFZTHVUUXhLVzRqZW1QLTJ0dkctN050Nlp4UEdWamxaZmdVbGVGOEdiWllPQjF5LXRxVFhiN3hGUDVOZExWNzFOSFdCY29zTjRhNzZ3ZS04NjlHS2U2ZVRYdTlsMzRxcnFqenRqV1JDcEp5NmRwZHU5NUdCZzhYTjVpOVdERHdWcjFVNGQwWFd6RlZiOG9YdFJod2owcW5xQ3Z2d3d4RUhic2g0Uzc1Q2V0VkFEOGlVRVoyRlpua3VyMUVUWEJVaFBwNmV1dHlIN2Q5bFFna1RHMHM4T0NNRmJRcDZZVFd3QjR2b2dlVjFBcjBpVnVB0gH_AUFVX3lxTE9TLWdzSHRHb0dJcGhQWVUzTTVPODBvanN1bWJiWWpQN1NNR2pkdDBfaHhKV0NFc3llQkhVM3lLbDMtV2RUUlh2SjFYM09jcVN1cXhsSkppYk5LOF84cXBSTFBTLXNJQkRnT2ljazJDUHI1b1lyUHZ1dXhoVy1ac3JFQVBOdzA2Uzc3LXdMWGRxVkNHdl8zQ3RLeHY0MUR3V0hTbzhEd2haVmxjcHE1REFwR2p4ZG9HLTJCZjR0dEh5Wm9YcmlxOWNGZ0JLMndxWVFsMFdGa2h2SEo5OTJ1aEE4dXNnM0dLcVo5QTFLeHJtUGdjQlZtdUk4VjFUbVByWQ?oc=5
-
-- Asian Games: India wins silver medals in mixed relay race and Wushu; Seema Kumari bags historic Bronze in 10,000m - News On AIR
-  India wins silver medals in mixed relay race and Wushu. Seema Kumari bags historic
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDR4b0tMNThWLXdnX1JEWGlNRVJQMFdfNWdEZmxkbVBLZVY1ZExjN1pPNWpNLXFOV0pCem44bFMtWEtkWmpZMzBHNm5LaHpWa2J2eXBwZ2lqOGVSdnhDYUtCTTNrQWZJQWF2N3d1TTRRVjBjTUlnUlFteEZMeTZNNjdRVG84SnlKU3A4Tmw1X3lBUVlPWkJQZzgweC1SLUdtbTJRQXROa0Y5bTk1eVNvaldtQlJob1BlN3NqZGdRYkxFMkYxTU42MTJBZFQ4MmFWLXc?oc=5
-
-- Union Minister Piyush Goyal highlights India’s expanding engagement with global economy at 13th PAFI Annual Forum 2026 in New Delhi - News On AIR
-  Union Minister Piyush Goyal highlights India’s expanding engagement with global economy at 13th
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPajhNQ3dGQUNXNVJqNzBsUUxDMVFrZ1pFOHM3aEJUSngzRFd4S2d1NGxUQ0dScEZBVWJMRUxhZWlpOTA1ekY5ZEltX2MxRTkwUzh3Rl9EOEY5MEMxZlJQbkV1b0NlTmF2b3FfMTF6aFVKdkVvekdkdTVJbEl4MnBNY3hkQnduWFF1RjMzSkhGQ2hnWjBKeld2bFNtTm1XNm9OX2NJd3kxMlhQYVJOdGtJNFJVZE50TDdfN3FUNXNMZFFLLURYakFScHd0TEhVTlVLQVRMQnV0LXFvU0ZiUXNaVVh5dVdocGRkNnNQdQ?oc=5
-
-- CEC Gyanesh Kumar: Why India's Election Commission is in the eye of a storm - again - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKNEFqamZyMkFXQjBaMFFFQVpRTTMyXzE2OWhoR2l1S1MwSFlWeXJOSzBTdGViQjB4S1NDQnRxY2V5WG9abWRjR2R1RWM2aWczTWZ3UFdqZjZDOXc?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKNEFqamZyMkFXQjBaMFFFQVpRTTMyXzE2OWhoR2l1S1MwSFlWeXJOSzBTdGViQjB4S1NDQnRxY2V5WG9abWRjR2R1RWM2aWczTWZ3UFdqZjZDOXc?oc=5
-
-- Asian Games 2026 live, September 25: Know India scores, updates and results from Day 6 - olympics.com
-  Asian Games 2026 live, September 25: Know India scores,
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWY1Z1Utam5IRzNLaFhfZ2RKYUNONGhqY2NnSmhIa19PTjZ0V0F5LVFVak1fWFhHZWgtMUN3NW9yUTJpdUtBVDdJVHF4UHVYRmZoVUtGRFh1R1FqbHlJN2REY0NQYmVMSWw0MzdzMHBKdlNDUFlGd3M4aXZHNk9zUnZKWVY2cktwbGdLSUZKUnVMOUFqUkFib0I0bko?oc=5
-
-- Asian Games 2026 Day 6 Live Updates: Medal race gathers pace; India gear up for crucial day 6 in Nagoya - The Times of India
-  Asian Games 2026 Day 6 Live Updates: Medal race gathers pace; India gear up for crucial day 6
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZi16LUFZTHVUUXhLVzRqZW1QLTJ0dkctN050Nlp4UEdWamxaZmdVbGVGOEdiWllPQjF5LXRxVFhiN3hGUDVOZExWNzFOSFdCY29zTjRhNzZ3ZS04NjlHS2U2ZVRYdTlsMzRxcnFqenRqV1JDcEp5NmRwZHU5NUdCZzhYTjVpOVdERHdWcjFVNGQwWFd6RlZiOG9YdFJod2owcW5xQ3Z2d3d4RUhic2g0Uzc1Q2V0VkFEOGlVRVoyRlpua3VyMUVUWEJVaFBwNmV1dHlIN2Q5bFFna1RHMHM4T0NNRmJRcDZZVFd3QjR2b2dlVjFBcjBpVnVB0gH_AUFVX3lxTE9TLWdzSHRHb0dJcGhQWVUzTTVPODBvanN1bWJiWWpQN1NNR2pkdDBfaHhKV0NFc3llQkhVM3lLbDMtV2RUUlh2SjFYM09jcVN1cXhsSkppYk5LOF84cXBSTFBTLXNJQkRnT2ljazJDUHI1b1lyUHZ1dXhoVy1ac3JFQVBOdzA2Uzc3LXdMWGRxVkNHdl8zQ3RLeHY0MUR3V0hTbzhEd2haVmxjcHE1REFwR2p4ZG9HLTJCZjR0dEh5Wm9YcmlxOWNGZ0JLMndxWVFsMFdGa2h2SEo5OTJ1aEE4dXNnM0dLcVo5QTFLeHJtUGdjQlZtdUk4VjFUbVByWQ?oc=5
-
-- Asian Games: India wins silver medals in mixed relay race and Wushu; Seema Kumari bags historic Bronze in 10,000m - News On AIR
-  India wins silver medals in mixed relay race and Wushu. Seema Kumari bags historic
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDR4b0tMNThWLXdnX1JEWGlNRVJQMFdfNWdEZmxkbVBLZVY1ZExjN1pPNWpNLXFOV0pCem44bFMtWEtkWmpZMzBHNm5LaHpWa2J2eXBwZ2lqOGVSdnhDYUtCTTNrQWZJQWF2N3d1TTRRVjBjTUlnUlFteEZMeTZNNjdRVG84SnlKU3A4Tmw1X3lBUVlPWkJQZzgweC1SLUdtbTJRQXROa0Y5bTk1eVNvaldtQlJob1BlN3NqZGdRYkxFMkYxTU42MTJBZFQ4MmFWLXc?oc=5
-
-- Union Minister Piyush Goyal highlights India’s expanding engagement with global economy at 13th PAFI Annual Forum 2026 in New Delhi - News On AIR
-  Union Minister Piyush Goyal highlights India’s expanding engagement with global economy at 13th
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPajhNQ3dGQUNXNVJqNzBsUUxDMVFrZ1pFOHM3aEJUSngzRFd4S2d1NGxUQ0dScEZBVWJMRUxhZWlpOTA1ekY5ZEltX2MxRTkwUzh3Rl9EOEY5MEMxZlJQbkV1b0NlTmF2b3FfMTF6aFVKdkVvekdkdTVJbEl4MnBNY3hkQnduWFF1RjMzSkhGQ2hnWjBKeld2bFNtTm1XNm9OX2NJd3kxMlhQYVJOdGtJNFJVZE50TDdfN3FUNXNMZFFLLURYakFScHd0TEhVTlVLQVRMQnV0LXFvU0ZiUXNaVVh5dVdocGRkNnNQdQ?oc=5
-
-- CEC Gyanesh Kumar: Why India's Election Commission is in the eye of a storm - again - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKNEFqamZyMkFXQjBaMFFFQVpRTTMyXzE2OWhoR2l1S1MwSFlWeXJOSzBTdGViQjB4S1NDQnRxY2V5WG9abWRjR2R1RWM2aWczTWZ3UFdqZjZDOXc?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKNEFqamZyMkFXQjBaMFFFQVpRTTMyXzE2OWhoR2l1S1MwSFlWeXJOSzBTdGViQjB4S1NDQnRxY2V5WG9abWRjR2R1RWM2aWczTWZ3UFdqZjZDOXc?oc=5
+- Tata v Tata: What’s behind India’s big boardroom brawl? - Al Jazeera
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmJNQWsxRlVqeW1WV1dxQ2xranR0M2NaYldERTNzUTlOc1pIdFh4YlZrTEhqaE1FSzZobFl4dy1XR2VQRHpsMWRVRnFBRGZpaGc0cWo2NEtUTThoZ29DekJvT2NLT2RFWlRQYXlrUGFWQU1ZM0gteTg5aFRJS3lxOTNzYktWQjhMS2RBV2tJZmxPdGpiYy1j0gGcAUFVX3lxTE1TWHdBdXpwOGI5d05YWjczQldyeHFUc1RqcWNwMUVmdzFNbnNyWjg0TzI0cHdKTlQ0VDhlN2M2Zm1OQVJiSGNPSjNKbm9Fc1VoNG5MWUpLaThJak9mNmg4TVlldDgyMndfb2tFZFlWbkFlc1hoanp5NmtKSUFYMUUzRjU3VHd5MHlCUkczY0huUnVsUDBJdTRfSzZSaQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-25 03:03:26 UTC_
+_Last updated: 2026-09-25 11:02:23 UTC_
