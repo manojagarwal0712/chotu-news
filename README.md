@@ -1,44 +1,72 @@
 # 📰 Daily News Summaries
 
-- India's Savage 'Osama' Reply To Pak PM's UN Bluster; ‘Repeating Lies Won’t Make It True’ - The Times of India
-  India's Savage 'Osama' Reply To Pak PM's UN Bluster.
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMC11S3ZuMWFRVThzRFlkYXJfVDVlUnBLT2FlaWxHcW54X3BLLVB4enk3anF2c1NTY1dSMWZKcWI4NWU1NFhOSnZqbW9nV2Z4dDBhNXlhSDRURUZyTjZBUDZNX21rNGhrcGt6RzJvdzhBdFRVSElTellzdnhucEwxU3V6dmh6RkpIWWpjc2VMYnFHV1ZxOVhtV1hWbXR1M0thODlFZVJMT3gyMHJ4Tko0Z0l5dzRCX19PUlQtUVRTTkxJdHVwcnlYS05iYzdkY2JSNDRJVVRqa1ZKbXdKNklHbjNkQkhWUGPSAewBQVVfeXFMTXE2dEdXZmgtOVVZYzJYTjNua2xEQlJvWHpFTGZQOENSa3lRS2FSNnBXTFR5MlVOUEpZRW9Yd0kwYlhxUC1QNklZXzlWY1dyY0lUUzNELS03S2hXVTU5QTIta2h5bjRHNEV4ODl4R0RkWlU0UDNZODZoSWlNbDkzalozLVFtUWpOdHl4Wmh1RHRhMDEyek94SGxmSWlYb040OF9EUlM1blVvOThPSE1USWJSVk9JU19Va0kzV2prUTdUMHIyMHI2YUcwMnd2SWZkWWdpMmxWdE01bkhZLUlGX0FWTzk3LWNGbktYMGg?oc=5
+- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
+  ‘Shaken faith’:
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
 
-- "Terrorist Country Asking Me?" S Jaishankar Rips Into Pak Journalist's Question - NDTV
-  "Terrorist Country Asking Me?" S
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV9aQnNVMWpwc2I1UGNUVWhiel9sUV9rT3NIRXVvMlBaLTc1OGF4d003SGhSeWEtMklTak05SHByVDk3eWRERkFfMGFxS3lXR01DdGJ5cHhoenZpZVU5QkFvdkJ4VDdVekNfOEY0QVlHcFR4NWQ3TmxwNW1pbThZdXpqaFgtc2FYNXNjM2NjV1lGYnpOU0otaGFwY1F3S3JyeFpyODlPc01tN015WEo4eXAwZ091S2vSAb8BQVVfeXFMTW9ub3dpN3J5U3Y1eHFCLWhYUTZueDY0RVdIUGw4cDdnWlM4TXp2elJfOG9zSkphSlRnV3VYQTd3TDhfM28tbUptby0xMUlzOFNxOXBIbFhSVFZfLTYxMnJoamtkMXdBLWNWY0ZuN0VDaUJhUFYxWjFJdzBjY0JZSDM0dFp0eURlM1N0YU5kcHJOa21rcmJBT1EzbzVwcThwRVlSUGl1SHdCV3dHNlBJTk95Y1JDSmNwOGlZczJpSE0?oc=5
+- "Ask India, Ask Pakistan": Balen Shah's Attack On "Broken" Global Order At UN - NDTV
+  "Ask India, Ask Pakistan": Balen Shah's
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2xnejFKeU1lY0w4OWQyT3A2ZE5Uck9hemplbWtENy1sR0I1TTltZEpqY2VLUDdsLTlBM0lac2RVZWFNckhaRmZ3ZmdUb2hueVhxeGRvUTVBSjZUNmVvY2EtZ3FXNEVSMXprZEw3YTEzZ2xDT2lWVlU3eVBuY3paeFJqeWpSMlVZQjZwSHdZVUJMQTdEaW1NX3VlRXpYekI0WnFWdVNubG9zM1QwMU1N0gG3AUFVX3lxTE50aVQ2RlZCeThQQUlHanNrSWViUlNOZU8wMEVhbXJWUW1TQnRwenlvbUg1ekE5YzJGNVZ0WlYxd2IzODI1Q29PWXNyNEZVS2ZRbTBURnFYcmZUa2RnU01YWklJSnJQX3l3RVc1bFZVV0JDTExxTERJa29oTGlfQVFHVFlxUkdnaDg3TENIQjRiMWFiZUItT20xTFc0Q0hjOEhlQkdfOVJEMVF4Wk9iVDQxU3BEdHRmcw?oc=5
 
-- Terrorism will have consequences: India warns Pak PM at UNGA - Rediff
-  &nbsp;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTTVFUUZtZW5WWDRLM0FTNmNDaXN2dm9lZ21kU2dpcWxFTlhKcGxYMzFxNXR4N1V1T3BqQmJ3QVFQcUZ4SWJwX2ZjTjczeHU2M0c0U2lLVTh3NEtLOThLNVNsdW1qQlBPOEhtNm1FTGtnbmU4OG83aUxwMTdMT3AxNHU4a0NOX2Y1Z3F0ZFpxM3BlS0RHMEludHpWRlRlSEpGSERrdW5faUVVYlXSAa4BQVVfeXFMUHdzd0JObHhaS0hCMl9XSmF0bE9kTHBWWWx3MUNsTHUyNklPXzBzN2trajM1ZkZDVTVZa3VzdjhDaFI1OElWeFJIRlNrd2dMdksyY2liMldjbko5WXEySzFtbWstc053cldxUjFBVlNXYkpLTWo0YXBHNVdjN2hYcVBrVjFjbEhEaVNXN3drRjNfcTA4VUpVSnQtM1U5cUMtXzdYOUZ4c3o5RzVQMXN3?oc=5
-
-- India at Asian Games: Live updates from Day 7 action on September 26, 2026 in Aichi-Nagoya - ESPN India
-  India will compete in the men's team event at the 2026 Asian Games
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxORERJUEx5S1Y1dzN3OVFwLTFITDBMQ3ZiZXFHM2JDRmVMRF9zQVZMTXlRWFMyUEdGVnRLNFJNZlp0NzJzUXBwc1Z1RDA3M3V6VkxYM25PUldmc1R3VU5tWGY5QnI0ajFrX1V6MjBnckEwcjZsWm9UMHdmQ2lGX3h1Zk9RWERSUVRid0M2dEJJYzZxR0VzYXlMa25WYlUybGljc0wyR2w5SWJkM3F4cXViZms0RGZHYmIybzZtQkRRVXpERWpTdlJoaElkbVNjY0JRR2NYcm0wUnRqN2wxUFMwMm9Zb3dUczZYeFE?oc=5
-
-- Asian Games 2026 Day 7 Live Updates: India surge clear of Iran in Kabaddi final after Rahul’s sensational tackle - The Times of India
-  The Times of India reports on the incident. India beat Iran in Kabaddi final after
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVEJIN0Z3alRYbV91eXFUTkFUNUVHMjF2U0RqbmJ6c0l4anRSa3IxTWo1YUZrTU9KQ1RoMVBSVWRESTlLeUxtNXpWTWtrZmNXNTdiY25ldE90ckstNEFINWhEWlZKVlFXMG1kM2s0Z1RrejVfNmlKU3dMbHdaMDNSX2t5MG42RkJpLWZHVzR2LVlocl93Y1dyZm1vV1lBTEstUUIyWUpfeHJROUpxM1M0aUNrMG12WFF4NnljM3R5ekdQaURLN243NTJOTWJvd2pIQnJKRXNWMmxIaE5TeVdxLXp5MUdpUGlXdmM0ZmhyTDg3aGJhNkctcUF30gH_AUFVX3lxTFAwS21EV0FJY193MloxZDRYX2RISC1JVjZTM1dacFRZNUt0cDVSN3Q4cEtnMTVWeldyekkxOHFIUWpqSjNFMm9aVXFjTEp3U01DLTliWmszWGlTT3NkNzdHOFZweUlmdkkyc3FFR1VnMkozRjU5UWhBQjZvVUhWT1VxQkxPSXJ2VHlKeTRHdEtEajZ2QU1kNHdvNnFLdHFFRzlPNVBaVzhsOERlSjg2bDJLbjJHa19KX0d6S05XZXZhSzQ2STR4TlFHUEUwSWxPS19aQ3FDMG9GS3YyUWhMSzBRUDBmU2xuOGxidjZuS3R5S2xvYll2MThFaXZMT0I0VQ?oc=5
+- India news: New Delhi, Islamabad trade accusations at UN General Assembly - DW.com
+  India and Pakistan trade accusations at UN General Assembly
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnBsRk9WalNoYmdRZW44emU1SFNTU1pPalB5TUx2UXFLVnRFMkt0LWdIbEMtYWU4UTVrVEJ2SV9NTlI2SU01MHdfTTBQZVk3eG9IbVhHRXNxakh0OHNHTkkxYUJmZWRwYWFaQWN1aldnZUpsMDRMRmpGYUxXamxZN1QydHo4Z1lPelp5aXVPWjRKa1loUHhIQ2hWcFVoN1FhRzUySlNINzRRRk0?oc=5
 
 - India's Savage 'Osama' Reply To Pak PM's UN Bluster; ‘Repeating Lies Won’t Make It True’ - The Times of India
   India's Savage 'Osama' Reply To Pak PM's UN Bluster.
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMC11S3ZuMWFRVThzRFlkYXJfVDVlUnBLT2FlaWxHcW54X3BLLVB4enk3anF2c1NTY1dSMWZKcWI4NWU1NFhOSnZqbW9nV2Z4dDBhNXlhSDRURUZyTjZBUDZNX21rNGhrcGt6RzJvdzhBdFRVSElTellzdnhucEwxU3V6dmh6RkpIWWpjc2VMYnFHV1ZxOVhtV1hWbXR1M0thODlFZVJMT3gyMHJ4Tko0Z0l5dzRCX19PUlQtUVRTTkxJdHVwcnlYS05iYzdkY2JSNDRJVVRqa1ZKbXdKNklHbjNkQkhWUGPSAewBQVVfeXFMTXE2dEdXZmgtOVVZYzJYTjNua2xEQlJvWHpFTGZQOENSa3lRS2FSNnBXTFR5MlVOUEpZRW9Yd0kwYlhxUC1QNklZXzlWY1dyY0lUUzNELS03S2hXVTU5QTIta2h5bjRHNEV4ODl4R0RkWlU0UDNZODZoSWlNbDkzalozLVFtUWpOdHl4Wmh1RHRhMDEyek94SGxmSWlYb040OF9EUlM1blVvOThPSE1USWJSVk9JU19Va0kzV2prUTdUMHIyMHI2YUcwMnd2SWZkWWdpMmxWdE01bkhZLUlGX0FWTzk3LWNGbktYMGg?oc=5
 
-- "Terrorist Country Asking Me?" S Jaishankar Rips Into Pak Journalist's Question - NDTV
-  "Terrorist Country Asking Me?" S
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV9aQnNVMWpwc2I1UGNUVWhiel9sUV9rT3NIRXVvMlBaLTc1OGF4d003SGhSeWEtMklTak05SHByVDk3eWRERkFfMGFxS3lXR01DdGJ5cHhoenZpZVU5QkFvdkJ4VDdVekNfOEY0QVlHcFR4NWQ3TmxwNW1pbThZdXpqaFgtc2FYNXNjM2NjV1lGYnpOU0otaGFwY1F3S3JyeFpyODlPc01tN015WEo4eXAwZ091S2vSAb8BQVVfeXFMTW9ub3dpN3J5U3Y1eHFCLWhYUTZueDY0RVdIUGw4cDdnWlM4TXp2elJfOG9zSkphSlRnV3VYQTd3TDhfM28tbUptby0xMUlzOFNxOXBIbFhSVFZfLTYxMnJoamtkMXdBLWNWY0ZuN0VDaUJhUFYxWjFJdzBjY0JZSDM0dFp0eURlM1N0YU5kcHJOa21rcmJBT1EzbzVwcThwRVlSUGl1SHdCV3dHNlBJTk95Y1JDSmNwOGlZczJpSE0?oc=5
+- Tamil Nadu among pronounced drought hotspots as South Peninsular India sees strongest drought trend: study - The Hindu
+  Tamil Nadu among pronounced drought hotspots as South Peninsular India
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQS2RJZXUwVloyMHoycG9zVHBTejFSWFFfV1ZTWHVjSl9pRmJxejdKSF9PWUFOTmF3X2RYbTNnbjR6cldiMzE2WmZEMHA5a01YNmhxQzZhVDJRTDQzREp4RXhHcGtxeUhOOExwV0Q2aUtsc0JVUnJrYkpUbTlDSVhfd2w4ZHhFTnlUM3gtOW9qdFUxSmtsRzlUTUZsaXhlYzc2Y1R3NWVwYzlYVzBzU3ZMNnZHLVNGNktGM1N0S2tIODVINEdvZ3V4SXFOckE1eVZDMHBIalhJMThvVzFnUE93QmtJOUx6bVpPYk1oQjBKeENHLUJmQnJyRkFXNGNJa0o5aDhrR2RB0gGMAkFVX3lxTE1BU1pwTG5OZVJSd0NjRDNfRmtYaF9NT0Mwc0V5cnB4OFpHUHVNWmtNamtMcXJweFBnTEI1RmpOYWg2S0ZQZG1aLVRHRDM5S2dsaEtFM1AzaExvVGpnTjhleHhRQUpvM3pmRWI3VEJONlBqMU5UVURvbDNpME8yZk9pR1pxWks2RTZ2Q1d4dUxObmtXeVp4Wk5adVMwUHZiam5RT1lFMzN6Q21TVVZkWGpXWW0yX0wyS0hfYm9lMHhvWlpoRXFPY3M3N2Z3WTlXR1R4WlZPU1RoVGw1cGJKMW5ZdUVFMTZuS1A3TFhCdzhpTFNub21xRGI4NGhtWEpQZkZLXzAwbFBCRDB3MnI?oc=5
 
-- Terrorism will have consequences: India warns Pak PM at UNGA - Rediff
-  &nbsp;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTTVFUUZtZW5WWDRLM0FTNmNDaXN2dm9lZ21kU2dpcWxFTlhKcGxYMzFxNXR4N1V1T3BqQmJ3QVFQcUZ4SWJwX2ZjTjczeHU2M0c0U2lLVTh3NEtLOThLNVNsdW1qQlBPOEhtNm1FTGtnbmU4OG83aUxwMTdMT3AxNHU4a0NOX2Y1Z3F0ZFpxM3BlS0RHMEludHpWRlRlSEpGSERrdW5faUVVYlXSAa4BQVVfeXFMUHdzd0JObHhaS0hCMl9XSmF0bE9kTHBWWWx3MUNsTHUyNklPXzBzN2trajM1ZkZDVTVZa3VzdjhDaFI1OElWeFJIRlNrd2dMdksyY2liMldjbko5WXEySzFtbWstc053cldxUjFBVlNXYkpLTWo0YXBHNVdjN2hYcVBrVjFjbEhEaVNXN3drRjNfcTA4VUpVSnQtM1U5cUMtXzdYOUZ4c3o5RzVQMXN3?oc=5
+- Minister urges police constables to serve responsibly, embrace technology - The Hindu
+  Minister urges police constables to serve
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOclA4WHhwXzRNdl84WGduemhtNk50U1lUc2JvYXhpQldMNDJOeGRkOTFrMWdXTmgtM1l5bDcxWW0zUzdXTnczcnBXakp1QnozTngxVlhOazBBWHVYS1ZLRDh6aEdldEFiZW90VGNlbDJTdVpLTVJKSFFDWTFySy0yNm81VlNCZXZIZl9OeGZETEVTVTgxZ25FWmpBNnUxVUg1b0VUZE9IYlFmOGd5SWx3NzdxYWlWaXpkTEdLOVpBbm1HTkZFWmowR3JqVEJxZjlXeTgteWctTUM4c2dNbVVj0gHmAUFVX3lxTE5mSDBOTWR6Q1BQOUF1c3RjX1ZjaUg1OUpSSHg4bUs5aDhkdEJLdXlJMC11cWc3cjYzeFZNT21hUWhwWGQ1UjlUc0ZBeVhRMVNUVUdPT3dZNG5aQzJsYmpfSlU5cEJiMXIzNG1DU1dlN2FtTC1SanZQQko2bDIzckhJYnN3djFMQTlQM2pOZTJZUzJkb0gtbmY0bmhLMW1DcGRjWlFhUm8wRTI2OTh0dGdKamU3Q0dfMjVKYnBwRGJGanl2S1R5ekdxcC1HMloybUJyYml2UWtDcjZHaDBCZjRrRUxib0R3?oc=5
 
-- India at Asian Games: Live updates from Day 7 action on September 26, 2026 in Aichi-Nagoya - ESPN India
-  India will compete in the men's team event at the 2026 Asian Games
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxORERJUEx5S1Y1dzN3OVFwLTFITDBMQ3ZiZXFHM2JDRmVMRF9zQVZMTXlRWFMyUEdGVnRLNFJNZlp0NzJzUXBwc1Z1RDA3M3V6VkxYM25PUldmc1R3VU5tWGY5QnI0ajFrX1V6MjBnckEwcjZsWm9UMHdmQ2lGX3h1Zk9RWERSUVRid0M2dEJJYzZxR0VzYXlMa25WYlUybGljc0wyR2w5SWJkM3F4cXViZms0RGZHYmIybzZtQkRRVXpERWpTdlJoaElkbVNjY0JRR2NYcm0wUnRqN2wxUFMwMm9Zb3dUczZYeFE?oc=5
+- SRMIST holds national techno-management fest Aaruush ’26 - The Hindu
+  SRMIST holds national techno
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1JEUGhDN0xkaW9CbkhOVExTckhoQTJTbjdFRVBmR0VnNFEyS0hxbXlQcno4RUZKcFY2bWdtQTlVaVlIWFJFSHA3emE2Ykpab3YwOVoya2Y2cXROWW5obG5ERXZvQlRZU0Q2UElfUExvNmNJOExTUEh6elhJTDl0ZEgzcXpIUTJVT2NxTEpvRWVsMk9qU1dpZlhmcWctcGJxOEdIRG5id09iMkpqZjBsX2V0OVp3Snk3U0FMQ9IBwwFBVV95cUxPbXRxSVdRUmNtYnV2N3B1OHdzU2NEMC01b1hvMlczUFBmSjZOQmpMRlc2VWs2ak9IY1JUN1dHbmVOeFByNDl0bzQ4MGJ6S3RtSW9vSDlIcXdnZXZvRjFsdE5GWGQyWE1Ba3loSEVSaWNBTkppcmxmdEsya0pQYjFrLVJrckZHRk1xd01veUFuWllYR19Uc0lNczhOQkRPWXAtSzJjZjJiZ3RiT1o1Z1hWSmpBNUdnY3htcm5TYzNMMHhFNG8?oc=5
 
-- Asian Games 2026 Day 7 Live Updates: India surge clear of Iran in Kabaddi final after Rahul’s sensational tackle - The Times of India
-  The Times of India reports on the incident. India beat Iran in Kabaddi final after
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVEJIN0Z3alRYbV91eXFUTkFUNUVHMjF2U0RqbmJ6c0l4anRSa3IxTWo1YUZrTU9KQ1RoMVBSVWRESTlLeUxtNXpWTWtrZmNXNTdiY25ldE90ckstNEFINWhEWlZKVlFXMG1kM2s0Z1RrejVfNmlKU3dMbHdaMDNSX2t5MG42RkJpLWZHVzR2LVlocl93Y1dyZm1vV1lBTEstUUIyWUpfeHJROUpxM1M0aUNrMG12WFF4NnljM3R5ekdQaURLN243NTJOTWJvd2pIQnJKRXNWMmxIaE5TeVdxLXp5MUdpUGlXdmM0ZmhyTDg3aGJhNkctcUF30gH_AUFVX3lxTFAwS21EV0FJY193MloxZDRYX2RISC1JVjZTM1dacFRZNUt0cDVSN3Q4cEtnMTVWeldyekkxOHFIUWpqSjNFMm9aVXFjTEp3U01DLTliWmszWGlTT3NkNzdHOFZweUlmdkkyc3FFR1VnMkozRjU5UWhBQjZvVUhWT1VxQkxPSXJ2VHlKeTRHdEtEajZ2QU1kNHdvNnFLdHFFRzlPNVBaVzhsOERlSjg2bDJLbjJHa19KX0d6S05XZXZhSzQ2STR4TlFHUEUwSWxPS19aQ3FDMG9GS3YyUWhMSzBRUDBmU2xuOGxidjZuS3R5S2xvYll2MThFaXZMT0I0VQ?oc=5
+- OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - The New York Times
+  OpenAI’s A.I. Went Rogue
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5
+
+- OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity - The Guardian
+  OpenAI says agents leaked 53 images from ChatGPT users in latest
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5
+
+- OpenAI Says Its Models May Have Interfered With Government Sites - bloomberg.com
+  OpenAI says its models may have
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzFWcjVQTHVBRkRRbDF6cWFCT0xzdk5MOV9Cb3VtSUdQR0JleV9NdGtjTXY3Yml4RWo3RzYwMWxlSVZXOEQ0TWZ3ZXdneFZ5SjMtTGRRWXRaQUs5cURobExiZjBaS2V3WElremxmaHg0WXJiMlpBSS00RlN2VkhsU2dSQWJGdW1jdlIyZjdLb1lLRDNpalFLNzBSdkhGUzF5bzJ4ZWNvMDJ3ZEpRT1pPc3cxcUMyQQ?oc=5
+
+- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
+  ‘Shaken faith’:
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
+
+- "Ask India, Ask Pakistan": Balen Shah's Attack On "Broken" Global Order At UN - NDTV
+  "Ask India, Ask Pakistan": Balen Shah's
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2xnejFKeU1lY0w4OWQyT3A2ZE5Uck9hemplbWtENy1sR0I1TTltZEpqY2VLUDdsLTlBM0lac2RVZWFNckhaRmZ3ZmdUb2hueVhxeGRvUTVBSjZUNmVvY2EtZ3FXNEVSMXprZEw3YTEzZ2xDT2lWVlU3eVBuY3paeFJqeWpSMlVZQjZwSHdZVUJMQTdEaW1NX3VlRXpYekI0WnFWdVNubG9zM1QwMU1N0gG3AUFVX3lxTE50aVQ2RlZCeThQQUlHanNrSWViUlNOZU8wMEVhbXJWUW1TQnRwenlvbUg1ekE5YzJGNVZ0WlYxd2IzODI1Q29PWXNyNEZVS2ZRbTBURnFYcmZUa2RnU01YWklJSnJQX3l3RVc1bFZVV0JDTExxTERJa29oTGlfQVFHVFlxUkdnaDg3TENIQjRiMWFiZUItT20xTFc0Q0hjOEhlQkdfOVJEMVF4Wk9iVDQxU3BEdHRmcw?oc=5
+
+- India news: New Delhi, Islamabad trade accusations at UN General Assembly - DW.com
+  India and Pakistan trade accusations at UN General Assembly
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnBsRk9WalNoYmdRZW44emU1SFNTU1pPalB5TUx2UXFLVnRFMkt0LWdIbEMtYWU4UTVrVEJ2SV9NTlI2SU01MHdfTTBQZVk3eG9IbVhHRXNxakh0OHNHTkkxYUJmZWRwYWFaQWN1aldnZUpsMDRMRmpGYUxXamxZN1QydHo4Z1lPelp5aXVPWjRKa1loUHhIQ2hWcFVoN1FhRzUySlNINzRRRk0?oc=5
+
+- India's Savage 'Osama' Reply To Pak PM's UN Bluster; ‘Repeating Lies Won’t Make It True’ - The Times of India
+  India's Savage 'Osama' Reply To Pak PM's UN Bluster.
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMC11S3ZuMWFRVThzRFlkYXJfVDVlUnBLT2FlaWxHcW54X3BLLVB4enk3anF2c1NTY1dSMWZKcWI4NWU1NFhOSnZqbW9nV2Z4dDBhNXlhSDRURUZyTjZBUDZNX21rNGhrcGt6RzJvdzhBdFRVSElTellzdnhucEwxU3V6dmh6RkpIWWpjc2VMYnFHV1ZxOVhtV1hWbXR1M0thODlFZVJMT3gyMHJ4Tko0Z0l5dzRCX19PUlQtUVRTTkxJdHVwcnlYS05iYzdkY2JSNDRJVVRqa1ZKbXdKNklHbjNkQkhWUGPSAewBQVVfeXFMTXE2dEdXZmgtOVVZYzJYTjNua2xEQlJvWHpFTGZQOENSa3lRS2FSNnBXTFR5MlVOUEpZRW9Yd0kwYlhxUC1QNklZXzlWY1dyY0lUUzNELS03S2hXVTU5QTIta2h5bjRHNEV4ODl4R0RkWlU0UDNZODZoSWlNbDkzalozLVFtUWpOdHl4Wmh1RHRhMDEyek94SGxmSWlYb040OF9EUlM1blVvOThPSE1USWJSVk9JU19Va0kzV2prUTdUMHIyMHI2YUcwMnd2SWZkWWdpMmxWdE01bkhZLUlGX0FWTzk3LWNGbktYMGg?oc=5
+
+- Tamil Nadu among pronounced drought hotspots as South Peninsular India sees strongest drought trend: study - The Hindu
+  Tamil Nadu among pronounced drought hotspots as South Peninsular India
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQS2RJZXUwVloyMHoycG9zVHBTejFSWFFfV1ZTWHVjSl9pRmJxejdKSF9PWUFOTmF3X2RYbTNnbjR6cldiMzE2WmZEMHA5a01YNmhxQzZhVDJRTDQzREp4RXhHcGtxeUhOOExwV0Q2aUtsc0JVUnJrYkpUbTlDSVhfd2w4ZHhFTnlUM3gtOW9qdFUxSmtsRzlUTUZsaXhlYzc2Y1R3NWVwYzlYVzBzU3ZMNnZHLVNGNktGM1N0S2tIODVINEdvZ3V4SXFOckE1eVZDMHBIalhJMThvVzFnUE93QmtJOUx6bVpPYk1oQjBKeENHLUJmQnJyRkFXNGNJa0o5aDhrR2RB0gGMAkFVX3lxTE1BU1pwTG5OZVJSd0NjRDNfRmtYaF9NT0Mwc0V5cnB4OFpHUHVNWmtNamtMcXJweFBnTEI1RmpOYWg2S0ZQZG1aLVRHRDM5S2dsaEtFM1AzaExvVGpnTjhleHhRQUpvM3pmRWI3VEJONlBqMU5UVURvbDNpME8yZk9pR1pxWks2RTZ2Q1d4dUxObmtXeVp4Wk5adVMwUHZiam5RT1lFMzN6Q21TVVZkWGpXWW0yX0wyS0hfYm9lMHhvWlpoRXFPY3M3N2Z3WTlXR1R4WlZPU1RoVGw1cGJKMW5ZdUVFMTZuS1A3TFhCdzhpTFNub21xRGI4NGhtWEpQZkZLXzAwbFBCRDB3MnI?oc=5
+
+- ‘India’s drone leader’: Buy Ideaforge stock for 27% upside, says Ashika Securities - check share price target
+   Ideaforge is set to capitalize on India's  ₹200 billion drone procurement pipeline. Ashika estimates substantial revenue growth and improved EBITDA margins.
+  🔗 https://www.livemint.com/market/stock-market-news/drone-stock-ideaforge-gets-buy-rating-ashika-sees-27-upside-check-target-price-11790422161462.html
+
+- After NSE IPO exchange debut, Macquarie calls stock ‘The Dominator’ - here’s why | Check share price target
+  Macquarie projects 12% revenue CAGR for NSE from FY26 to FY30. The brokerage anticipates significant growth in non-transaction revenues, driven by data and
+  🔗 https://www.livemint.com/market/stock-market-news/after-nse-ipo-exchange-debut-macquarie-calls-stock-the-dominator-here-s-why-check-share-price-target-11790419480001.html
 
 - Nifty 50 target: Will it hit 25,000 this year? Market experts weigh in on what could drive the recovery
   Achieving the 25,000 mark on the Nifty requires positive global cues, stronger corporate earnings, and manageable crude oil prices. The index
@@ -52,13 +80,13 @@
   Market uncertainty could trigger a rotation towards gold and silver, especially with current challenges in equities. Key opportunities in the Indian market lie in Pharma, Metals, and
   🔗 https://www.livemint.com/market/stock-market-news/expert-view-stock-selection-crucial-says-hitesh-tailor-of-choice-broking-reveals-3-sectors-with-strong-technicals-11790409800130.html
 
-- Adroit Industries, ArMee Infotech, Swastika Infra, Elevate Campuses: Check GMP, full subscription ahead of allotment
-  Adroit Industries and ArMee Infotech are moving to allotment. The allotment status will be finalized on September 28, with shares expected in demat accounts by September 29.
-  🔗 https://www.livemint.com/market/ipo/adroit-industries-armee-infotech-swastika-infra-elevate-campuses-check-ipo-gmp-full-subscription-ahead-of-allotment-11790406651184.html
+- Minister urges police constables to serve responsibly, embrace technology - The Hindu
+  Minister urges police constables to serve
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOclA4WHhwXzRNdl84WGduemhtNk50U1lUc2JvYXhpQldMNDJOeGRkOTFrMWdXTmgtM1l5bDcxWW0zUzdXTnczcnBXakp1QnozTngxVlhOazBBWHVYS1ZLRDh6aEdldEFiZW90VGNlbDJTdVpLTVJKSFFDWTFySy0yNm81VlNCZXZIZl9OeGZETEVTVTgxZ25FWmpBNnUxVUg1b0VUZE9IYlFmOGd5SWx3NzdxYWlWaXpkTEdLOVpBbm1HTkZFWmowR3JqVEJxZjlXeTgteWctTUM4c2dNbVVj0gHmAUFVX3lxTE5mSDBOTWR6Q1BQOUF1c3RjX1ZjaUg1OUpSSHg4bUs5aDhkdEJLdXlJMC11cWc3cjYzeFZNT21hUWhwWGQ1UjlUc0ZBeVhRMVNUVUdPT3dZNG5aQzJsYmpfSlU5cEJiMXIzNG1DU1dlN2FtTC1SanZQQko2bDIzckhJYnN3djFMQTlQM2pOZTJZUzJkb0gtbmY0bmhLMW1DcGRjWlFhUm8wRTI2OTh0dGdKamU3Q0dfMjVKYnBwRGJGanl2S1R5ekdxcC1HMloybUJyYml2UWtDcjZHaDBCZjRrRUxib0R3?oc=5
 
-- Stocks to buy for long term: Vedanta Iron and Steel, Vedanta Oil and Gas or Vedanta Power: Which is better? Target, SL
-  Experts believe all these three Vedanta Group stocks are better suited to your portfolio from the fundamental perspective.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-vedanta-iron-and-steel-vedanta-oil-and-gas-or-vedanta-power-which-is-better-target-sl-11790398619797.html
+- SRMIST holds national techno-management fest Aaruush ’26 - The Hindu
+  SRMIST holds national techno
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1JEUGhDN0xkaW9CbkhOVExTckhoQTJTbjdFRVBmR0VnNFEyS0hxbXlQcno4RUZKcFY2bWdtQTlVaVlIWFJFSHA3emE2Ykpab3YwOVoya2Y2cXROWW5obG5ERXZvQlRZU0Q2UElfUExvNmNJOExTUEh6elhJTDl0ZEgzcXpIUTJVT2NxTEpvRWVsMk9qU1dpZlhmcWctcGJxOEdIRG5id09iMkpqZjBsX2V0OVp3Snk3U0FMQ9IBwwFBVV95cUxPbXRxSVdRUmNtYnV2N3B1OHdzU2NEMC01b1hvMlczUFBmSjZOQmpMRlc2VWs2ak9IY1JUN1dHbmVOeFByNDl0bzQ4MGJ6S3RtSW9vSDlIcXdnZXZvRjFsdE5GWGQyWE1Ba3loSEVSaWNBTkppcmxmdEsya0pQYjFrLVJrckZHRk1xd01veUFuWllYR19Uc0lNczhOQkRPWXAtSzJjZjJiZ3RiT1o1Z1hWSmpBNUdnY3htcm5TYzNMMHhFNG8?oc=5
 
 - OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - The New York Times
   OpenAI’s A.I. Went Rogue
@@ -68,17 +96,33 @@
   OpenAI says agents leaked 53 images from ChatGPT users in latest
   🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5
 
-- Novo Nordisk to Pay Up to $1.3 Billion for Nanexa’s Drug Delivery Technology - WSJ
-  Novo Nordisk to pay up to $1.
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcE9Zd3F0bkt2Y2NaLWx3MTk0UDFQRGE4bG4xWXFqV3dBbmRfYzVsSVgzMy1wdC02Qm9GSjVrTVpMemc5Q0pMcVh5aXUxOS1waVBFVUVqX0tSV0xhWUlqaFZQSnN4YjJqUWlzdnNfZ0pUX3pvbXBUTENNMEFIVmppRDBmUnducC1OSnRDNzNsdzJrcklKU2VQOXduN3dSS0VEaF9lVVpYdEhSZmN6WDlkSGdIelphdjVK?oc=5
-
-- Waymo Self-Driving Taxi Review | Making peace with autonomous driving technology - The Hindu
-  The Hindu has published an article on Waymo's
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2RsM2VOMkR6UjM3c0xxZE81bkRieUFTZE83UzNQRmlFdm11RTNnaTk3cGYyd1Iwbm0zMzZXbnAwMUhJUU9HNWJ1M0U0clF2VzhueUdVdll4anpabW1BbllfVnBENlVWNWJQeEphQ1VGWmhOX2FBTFA3T1c2dXFvajdYNHNvdk9HV0NmYjFDcmNtNWZwdnItZnM3NVFuOVRMRk5GcW1yUmdfb2I0c1U5Wko4andub0RsLW04N0M1S3ZURXp6NHZJdnBfYUdqNC03dmVmY3EtNjN3WUHSAeIBQVVfeXFMT1NjOVVwRHR1SmhZLV9IN2lVS1p6SUptcVhjZzN1al9nUFBDVVVibkY2dXhlWGNMdElSb2hQdDNLMEhRNkJKZVBrTk40WW9vbmhjWUs0REVkQnhxOEY0WnBOTHV6dHRVUDVzQzlMTXp0WF9tRkRPalMxMzhGME1kU2N3Ni1qbl8wSWMxc2hlYk9fMjBoazU5bDR0R3d2eEdzZmV3c3JUcF9IYS1RaC1yZnlpOTZmckliWlhlanNfTVI0R3pwZVFyamFaZzd3OXNKeWNuY191Q3llVjQydXk0XzJIdw?oc=5
-
-- OpenAI Says Its Models May Have Interfered With Government Sites - Bloomberg.com
+- OpenAI Says Its Models May Have Interfered With Government Sites - bloomberg.com
   OpenAI says its models may have
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzFWcjVQTHVBRkRRbDF6cWFCT0xzdk5MOV9Cb3VtSUdQR0JleV9NdGtjTXY3Yml4RWo3RzYwMWxlSVZXOEQ0TWZ3ZXdneFZ5SjMtTGRRWXRaQUs5cURobExiZjBaS2V3WElremxmaHg0WXJiMlpBSS00RlN2VkhsU2dSQWJGdW1jdlIyZjdLb1lLRDNpalFLNzBSdkhGUzF5bzJ4ZWNvMDJ3ZEpRT1pPc3cxcUMyQQ?oc=5
+
+- Bond Selloff Fades as Oil Cools, Lifting Stocks: Markets Wrap - bloomberg.com
+  Bond Selloff Fades as Oil
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlBZR1YyS3BQNENjZGszSURuWXlKTnVyb0l0d3JudlVHSEdrdW5ZeUlQaDFYVl85SDI1SzNYWlZ3Q2hiMWtfbXhUVFlDYzJHbjZfQTRfY2VlX3NOdlJRYlI4dHFrVjltZ1V6WU1Nbko0RkVBUTRjR3FTZTFXMnF6VDVnZXFVOVJPWUhkSHZUSlpBQ3py?oc=5
+
+- US court rules against Kalshi, says states can regulate prediction markets - Al Jazeera
+  &nbsp;<font color="#6f
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOTkJJZUhQcjNoZ21VWkxwNy0tN0hwbzREM0M3bnpQcUE1d0EyeW9DaG1BMl9yMUx3SjB6eWJ3ZV93bWNHeWRkb09ZQm5KTlBpSUdFNjAtZDh2LXlOY19QQVlBMTA0eTlWbHR2UDNaUkhaTmc0ZncwMVRCQW9vNUVCRE1EaUtDbmhQakxPb0VkN1NONFRRbktGSURFZTJPVEYyN3dMRDFLZjEtelF2Nkk2ZzBTd2TSAboBQVVfeXFMUGRwNGxZWi02UXl5TkxLNGhHeU0xSlREeE5XdnFSdTVaeGNURkJrdS1INk9LTVlOX3JBUHJUTVBOZHVZeDR4MG5iU3VtYWVPY25DRWdBR21ETXhpQ3VjTUhtTEE3Xzk1T3NMeVpuUHA5RlNmTnNxMWJ5YThYVVVMbjl2aUtnbVRudy1QU2JsTjhLLU1CcjhWU2JwUENrenhQQTFVeEw4Q0hHZDFnWHMzZXY4ZzlmbEZ4clJB?oc=5
+
+- He left studies after Class 12, suffered 1992 stock market scam; now Dinesh Thakkar owns an entire ₹711 c - The Times of India
+  He left studies after Class 12, suffered 1992 stock market scam; now Dinesh Thakkar
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxNc1c1bnp0UUlPckw4Z0NwbVpkdHZhU3RZQ012QU9rOEp5VXAtbHJrYTVWNVVGd0U5a2ZjeU81OHQzMWRGYzZYQkp6Y2ZNbUJrOEhKajA1ZnNiYzBPVG9XTnhxM05aUl9nMV9BWkhVSnVBMWFBZzVBcjlFWEpQSkVOZmMwWWlMVW5mVEcxb0kydGcydThkb3NSR1BROHVlOXExTjVYclBVMDlnU1FfaHV4T0lhMUVxYWF6bG9PTFU5LVZLcGJiT3hZRjMtYWJ4MEdwQ3M0d2M2T2UwVzNwd1dLUkZORWh1bWhYTldoMEpsOFV4d2dya1l2cXV3bFk1a0RxbEFjWF9hSDVKMEJ4amg2enIyWXdyM3FZWDNvS0NEbnREdmlBcndkWUJmQUhQTmlB0gG2AkFVX3lxTE5vLWpvQXVKV3VBbXd1eW9HbUdnU25vRlZEZDJvMDBiZ2o1WDJmUm1pUDNmdnhITFVLOXU3M3RibFVkeTRNYVpGVnpELVlmSnJSbFZzNDhIblNZN0R0SHRZd041aHFxUnB3SWpxYmZ4N3AxTVZQYVVKU255Qy16eFExcldUUUF1Z3RPRU1Hb2Nxald6V0N2Qk1TUzhQT2wxaUxxajNyMHUtWHV0NjRsUmIzckxuWk1WY1J4SzJjY01jRFJfWXJvN21RWUNBb3pGTXdXcEhNcVAwS2hKNl9vWW1yem9RWjhoNG1pTW5zUWp3QVYtSUE3dEtEMndWWHJKWmdJWFpiS25XRUdFMWRVOEdwYXlydU1vRU1NbWRoX1NyaU5SamtPSDRLRmNvenZSLXI1WnR0RXc?oc=5
+
+- Sikkim hosts four national platforms to connect Northeast startups with markets - ThePrint
+  Sikkim hosts four national platforms to connect
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0tuMm4xY2M2enpxRHlmdFZjSlR4ZWlMclhQRDZueHl0am1kMVRVNWhVRG44eURWbXFQVHdDcDF3WVJFazUtOUVtek90QzMzUVE3NHhOUW5veVVVbzRuXzBGY1pOVlJBODRDaG9MUWl4ME9TbmJiSU1vNHFmaU1zN29KczY1bTJPNElYMlpObzEyYVZoYTEzcDNpRHBFaFRDdUpPMjdTLWxFNzdLU3ltc1NGLUTSAboBQVVfeXFMT1RvdC01czAwSXlKMUVBMEM0ZUxCWWNCVW5uOFRHY3FrVVFCS1pHck56MGsxeS1FZllkbmlOZnQwUWJUX05vaG1IYkhZNi1NbElTVUFFQjNuelk3NGVUbllPUjdpYnZmUXQ3eW5IRE5VRmc3VGlGbnJlczBZYWdLaC1naU5hRWluQklORzJuX3RNd0JON0NSdkdNVEhuc3F4T1B0ZUgxMkNrUkdiMXB6QWhEazdaZS1fRm1B?oc=5
+
+- Stocks to buy: Macquarie initiates Outperform rating on these 4 capital market stocks. Do you own any? - The Economic Times
+  Macquarie initiates Outperform rating on these 4 capital market stocks.
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxQcUltNDYzdDdwMmN0d0l0dDNrUkUwMlVvaXJtelBZRlFPSm9wb0lrS0NsSDlmaXZRQlBKcEkxRm4wTU9vc1o2TzlheU45bHJaZkRMSzVrQmhWNTNuSWdUYTBSai1mT21QSmNSeWRaV294eHNFYjBUZjlnNTZabjhZZE9JNzZQRllZbm9hb19kMlBVd1B3dlJPNlBWWlF3amFXUHF6SHBvZTI0OE1YVHFrT3NIMWtMcEt0M2tVZXp4U0NfMjhmbjZnSlZjSGdlSXFsVm5yS2RjMllSUGtqWlVnSjBqa3Z3NUhpbEJyOVlyOENOM3EwajdxSG5xanNVM2VWeW1JajRoRjJiV0ZtdTI5MjlBY1dObkdzWUE?oc=5
+
+- Same playbook, different numbers: Why FPI selling may not be the story it looks like
+  Indian equities extended their losing streak as elevated crude, US Treasury yields, geopolitical risks and FPI selling weighed on sentiment. However, foreign investors continued backing IPOs, selectively buying debt and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/same-playbook-different-numbers-why-fpi-selling-may-not-be-the-story-it-looks-like/articleshow/134503513.cms
 
 - J Infratech files IPO papers; eyes Rs 600 cr via fresh issue
   The IPO includes a fresh issue and an offer for sale by its promoters. Proceeds from the IPO will support working capital and repay borrowings. The Haryana-based firm focuses on infrastructure projects such as roads and bridges.
@@ -96,9 +140,37 @@
   Nifty extended its losing streak to seven weeks, falling 0.88% to 23,140.50. The 23,000–23,200 zone
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-at-key-23000-support-can-bulls-trigger-a-technical-rebound/articleshow/134500890.cms
 
-- FIIs, MFs raise stakes in 10 stocks; shares gain up to 40% in 3 months
-  FIIs and mutual funds raised holdings in several Nifty 500 stocks during the June 2026 quarter. Seven stocks
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-10-stocks-shares-gain-up-to-40-in-3-months/slideshow/134500775.cms
+- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
+  ‘Shaken faith’:
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
+
+- "Ask India, Ask Pakistan": Balen Shah's Attack On "Broken" Global Order At UN - NDTV
+  "Ask India, Ask Pakistan": Balen Shah's
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2xnejFKeU1lY0w4OWQyT3A2ZE5Uck9hemplbWtENy1sR0I1TTltZEpqY2VLUDdsLTlBM0lac2RVZWFNckhaRmZ3ZmdUb2hueVhxeGRvUTVBSjZUNmVvY2EtZ3FXNEVSMXprZEw3YTEzZ2xDT2lWVlU3eVBuY3paeFJqeWpSMlVZQjZwSHdZVUJMQTdEaW1NX3VlRXpYekI0WnFWdVNubG9zM1QwMU1N0gG3AUFVX3lxTE50aVQ2RlZCeThQQUlHanNrSWViUlNOZU8wMEVhbXJWUW1TQnRwenlvbUg1ekE5YzJGNVZ0WlYxd2IzODI1Q29PWXNyNEZVS2ZRbTBURnFYcmZUa2RnU01YWklJSnJQX3l3RVc1bFZVV0JDTExxTERJa29oTGlfQVFHVFlxUkdnaDg3TENIQjRiMWFiZUItT20xTFc0Q0hjOEhlQkdfOVJEMVF4Wk9iVDQxU3BEdHRmcw?oc=5
+
+- India news: New Delhi, Islamabad trade accusations at UN General Assembly - DW.com
+  India and Pakistan trade accusations at UN General Assembly
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnBsRk9WalNoYmdRZW44emU1SFNTU1pPalB5TUx2UXFLVnRFMkt0LWdIbEMtYWU4UTVrVEJ2SV9NTlI2SU01MHdfTTBQZVk3eG9IbVhHRXNxakh0OHNHTkkxYUJmZWRwYWFaQWN1aldnZUpsMDRMRmpGYUxXamxZN1QydHo4Z1lPelp5aXVPWjRKa1loUHhIQ2hWcFVoN1FhRzUySlNINzRRRk0?oc=5
+
+- India's Savage 'Osama' Reply To Pak PM's UN Bluster; ‘Repeating Lies Won’t Make It True’ - The Times of India
+  India's Savage 'Osama' Reply To Pak PM's UN Bluster.
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMC11S3ZuMWFRVThzRFlkYXJfVDVlUnBLT2FlaWxHcW54X3BLLVB4enk3anF2c1NTY1dSMWZKcWI4NWU1NFhOSnZqbW9nV2Z4dDBhNXlhSDRURUZyTjZBUDZNX21rNGhrcGt6RzJvdzhBdFRVSElTellzdnhucEwxU3V6dmh6RkpIWWpjc2VMYnFHV1ZxOVhtV1hWbXR1M0thODlFZVJMT3gyMHJ4Tko0Z0l5dzRCX19PUlQtUVRTTkxJdHVwcnlYS05iYzdkY2JSNDRJVVRqa1ZKbXdKNklHbjNkQkhWUGPSAewBQVVfeXFMTXE2dEdXZmgtOVVZYzJYTjNua2xEQlJvWHpFTGZQOENSa3lRS2FSNnBXTFR5MlVOUEpZRW9Yd0kwYlhxUC1QNklZXzlWY1dyY0lUUzNELS03S2hXVTU5QTIta2h5bjRHNEV4ODl4R0RkWlU0UDNZODZoSWlNbDkzalozLVFtUWpOdHl4Wmh1RHRhMDEyek94SGxmSWlYb040OF9EUlM1blVvOThPSE1USWJSVk9JU19Va0kzV2prUTdUMHIyMHI2YUcwMnd2SWZkWWdpMmxWdE01bkhZLUlGX0FWTzk3LWNGbktYMGg?oc=5
+
+- Tamil Nadu among pronounced drought hotspots as South Peninsular India sees strongest drought trend: study - The Hindu
+  Tamil Nadu among pronounced drought hotspots as South Peninsular India
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQS2RJZXUwVloyMHoycG9zVHBTejFSWFFfV1ZTWHVjSl9pRmJxejdKSF9PWUFOTmF3X2RYbTNnbjR6cldiMzE2WmZEMHA5a01YNmhxQzZhVDJRTDQzREp4RXhHcGtxeUhOOExwV0Q2aUtsc0JVUnJrYkpUbTlDSVhfd2w4ZHhFTnlUM3gtOW9qdFUxSmtsRzlUTUZsaXhlYzc2Y1R3NWVwYzlYVzBzU3ZMNnZHLVNGNktGM1N0S2tIODVINEdvZ3V4SXFOckE1eVZDMHBIalhJMThvVzFnUE93QmtJOUx6bVpPYk1oQjBKeENHLUJmQnJyRkFXNGNJa0o5aDhrR2RB0gGMAkFVX3lxTE1BU1pwTG5OZVJSd0NjRDNfRmtYaF9NT0Mwc0V5cnB4OFpHUHVNWmtNamtMcXJweFBnTEI1RmpOYWg2S0ZQZG1aLVRHRDM5S2dsaEtFM1AzaExvVGpnTjhleHhRQUpvM3pmRWI3VEJONlBqMU5UVURvbDNpME8yZk9pR1pxWks2RTZ2Q1d4dUxObmtXeVp4Wk5adVMwUHZiam5RT1lFMzN6Q21TVVZkWGpXWW0yX0wyS0hfYm9lMHhvWlpoRXFPY3M3N2Z3WTlXR1R4WlZPU1RoVGw1cGJKMW5ZdUVFMTZuS1A3TFhCdzhpTFNub21xRGI4NGhtWEpQZkZLXzAwbFBCRDB3MnI?oc=5
+
+- Ride-Hailing Fear: Inside Bharat Taxi Coercion Allegations In Gujarat
+  “I wanted to reach my hotel and did not feel comfortable cancelling the ride at midnight, but they were not,” she said.
+  🔗 https://inc42.com/buzz/ride-hailing-fear-inside-bharat-taxi-coercion-allegations-in-gujarat/
+
+- True North Acquires Minority Stake in IPO-Bound InMobi
+  Private equity firm True North has reportedly acquired a minority stake worth around $50-60 Mn in IPO-bound adtech startup InMobi.
+  🔗 https://inc42.com/buzz/true-north-acquires-minority-stake-in-ipo-bound-inmobi/
+
+- IIT Madras, Unicorn India Ventures Mark First Close Of Fund I At ₹450 Cr
+  IIT Madras and Unicorn India Ventures have announced the first close of their deeptech-focused IITM&#8230.
+  🔗 https://inc42.com/buzz/iit-madras-unicorn-india-ventures-mark-first-close-of-fund-i-at-%e2%82%b9450-cr/
 
 - FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
   The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
@@ -108,57 +180,73 @@
   Contract manufacturing company Aequs’ board has approved a fund raise of up to ₹650 Cr via a preferential issue.
   🔗 https://inc42.com/buzz/aequs-to-raise-%e2%82%b9650-cr-via-preferential-issue-to-bolster-manufacturing-capacity/
 
-- From Ultraviolette Automotive To GalaxEye — Indian Startups Raised Over $203 Mn This Week
-  Funding activity remained strong as Indian startups raised a combined $203.4 Mn across 21 deals.
-  🔗 https://inc42.com/buzz/from-ultraviolette-automotive-to-galaxeye-indian-startups-raised-over-203-mn-this-week/
+- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
+  ‘Shaken faith’:
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
 
-- How Pine Labs Shifted Gears: From PoS Devices To An AI-Powered Fintech Stack
-  In 1998, the newly incorporated Pine Labs was helping petrol pumps accept payments and manage loyalty programmes. Nearly three decades later, the company has shifted its focus from PoS devices to an AI-Powered
-  🔗 https://inc42.com/features/how-pine-labs-shifted-gears-from-pos-devices-to-an-ai-powered-fintech-stack/
+- "Ask India, Ask Pakistan": Balen Shah's Attack On "Broken" Global Order At UN - NDTV
+  "Ask India, Ask Pakistan": Balen Shah's
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2xnejFKeU1lY0w4OWQyT3A2ZE5Uck9hemplbWtENy1sR0I1TTltZEpqY2VLUDdsLTlBM0lac2RVZWFNckhaRmZ3ZmdUb2hueVhxeGRvUTVBSjZUNmVvY2EtZ3FXNEVSMXprZEw3YTEzZ2xDT2lWVlU3eVBuY3paeFJqeWpSMlVZQjZwSHdZVUJMQTdEaW1NX3VlRXpYekI0WnFWdVNubG9zM1QwMU1N0gG3AUFVX3lxTE50aVQ2RlZCeThQQUlHanNrSWViUlNOZU8wMEVhbXJWUW1TQnRwenlvbUg1ekE5YzJGNVZ0WlYxd2IzODI1Q29PWXNyNEZVS2ZRbTBURnFYcmZUa2RnU01YWklJSnJQX3l3RVc1bFZVV0JDTExxTERJa29oTGlfQVFHVFlxUkdnaDg3TENIQjRiMWFiZUItT20xTFc0Q0hjOEhlQkdfOVJEMVF4Wk9iVDQxU3BEdHRmcw?oc=5
 
-- [Update] AceVector IPO Subscribed 23% On Day 1, Retail Quota Booked 62%
-  Snapdeal parent AceVector’s ₹420 Cr IPO was subscribed 23% at the end of the day.
-  🔗 https://inc42.com/buzz/acevector-ipo-subscribed-9-on-day-1-so-far-retail-investors-lead-bidding/
-
-- India's Savage 'Osama' Reply To Pak PM's UN Bluster; ‘Repeating Lies Won’t Make It True’ - The Times of India
-  India's Savage 'Osama' Reply To Pak PM's UN Bluster.
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMC11S3ZuMWFRVThzRFlkYXJfVDVlUnBLT2FlaWxHcW54X3BLLVB4enk3anF2c1NTY1dSMWZKcWI4NWU1NFhOSnZqbW9nV2Z4dDBhNXlhSDRURUZyTjZBUDZNX21rNGhrcGt6RzJvdzhBdFRVSElTellzdnhucEwxU3V6dmh6RkpIWWpjc2VMYnFHV1ZxOVhtV1hWbXR1M0thODlFZVJMT3gyMHJ4Tko0Z0l5dzRCX19PUlQtUVRTTkxJdHVwcnlYS05iYzdkY2JSNDRJVVRqa1ZKbXdKNklHbjNkQkhWUGPSAewBQVVfeXFMTXE2dEdXZmgtOVVZYzJYTjNua2xEQlJvWHpFTGZQOENSa3lRS2FSNnBXTFR5MlVOUEpZRW9Yd0kwYlhxUC1QNklZXzlWY1dyY0lUUzNELS03S2hXVTU5QTIta2h5bjRHNEV4ODl4R0RkWlU0UDNZODZoSWlNbDkzalozLVFtUWpOdHl4Wmh1RHRhMDEyek94SGxmSWlYb040OF9EUlM1blVvOThPSE1USWJSVk9JU19Va0kzV2prUTdUMHIyMHI2YUcwMnd2SWZkWWdpMmxWdE01bkhZLUlGX0FWTzk3LWNGbktYMGg?oc=5
-
-- "Terrorist Country Asking Me?" S Jaishankar Rips Into Pak Journalist's Question - NDTV
-  "Terrorist Country Asking Me?" S
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV9aQnNVMWpwc2I1UGNUVWhiel9sUV9rT3NIRXVvMlBaLTc1OGF4d003SGhSeWEtMklTak05SHByVDk3eWRERkFfMGFxS3lXR01DdGJ5cHhoenZpZVU5QkFvdkJ4VDdVekNfOEY0QVlHcFR4NWQ3TmxwNW1pbThZdXpqaFgtc2FYNXNjM2NjV1lGYnpOU0otaGFwY1F3S3JyeFpyODlPc01tN015WEo4eXAwZ091S2vSAb8BQVVfeXFMTW9ub3dpN3J5U3Y1eHFCLWhYUTZueDY0RVdIUGw4cDdnWlM4TXp2elJfOG9zSkphSlRnV3VYQTd3TDhfM28tbUptby0xMUlzOFNxOXBIbFhSVFZfLTYxMnJoamtkMXdBLWNWY0ZuN0VDaUJhUFYxWjFJdzBjY0JZSDM0dFp0eURlM1N0YU5kcHJOa21rcmJBT1EzbzVwcThwRVlSUGl1SHdCV3dHNlBJTk95Y1JDSmNwOGlZczJpSE0?oc=5
-
-- Terrorism will have consequences: India warns Pak PM at UNGA - Rediff
-  &nbsp;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTTVFUUZtZW5WWDRLM0FTNmNDaXN2dm9lZ21kU2dpcWxFTlhKcGxYMzFxNXR4N1V1T3BqQmJ3QVFQcUZ4SWJwX2ZjTjczeHU2M0c0U2lLVTh3NEtLOThLNVNsdW1qQlBPOEhtNm1FTGtnbmU4OG83aUxwMTdMT3AxNHU4a0NOX2Y1Z3F0ZFpxM3BlS0RHMEludHpWRlRlSEpGSERrdW5faUVVYlXSAa4BQVVfeXFMUHdzd0JObHhaS0hCMl9XSmF0bE9kTHBWWWx3MUNsTHUyNklPXzBzN2trajM1ZkZDVTVZa3VzdjhDaFI1OElWeFJIRlNrd2dMdksyY2liMldjbko5WXEySzFtbWstc053cldxUjFBVlNXYkpLTWo0YXBHNVdjN2hYcVBrVjFjbEhEaVNXN3drRjNfcTA4VUpVSnQtM1U5cUMtXzdYOUZ4c3o5RzVQMXN3?oc=5
-
-- India at Asian Games: Live updates from Day 7 action on September 26, 2026 in Aichi-Nagoya - ESPN India
-  India will compete in the men's team event at the 2026 Asian Games
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxORERJUEx5S1Y1dzN3OVFwLTFITDBMQ3ZiZXFHM2JDRmVMRF9zQVZMTXlRWFMyUEdGVnRLNFJNZlp0NzJzUXBwc1Z1RDA3M3V6VkxYM25PUldmc1R3VU5tWGY5QnI0ajFrX1V6MjBnckEwcjZsWm9UMHdmQ2lGX3h1Zk9RWERSUVRid0M2dEJJYzZxR0VzYXlMa25WYlUybGljc0wyR2w5SWJkM3F4cXViZms0RGZHYmIybzZtQkRRVXpERWpTdlJoaElkbVNjY0JRR2NYcm0wUnRqN2wxUFMwMm9Zb3dUczZYeFE?oc=5
-
-- Asian Games 2026 Day 7 Live Updates: India surge clear of Iran in Kabaddi final after Rahul’s sensational tackle - The Times of India
-  The Times of India reports on the incident. India beat Iran in Kabaddi final after
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVEJIN0Z3alRYbV91eXFUTkFUNUVHMjF2U0RqbmJ6c0l4anRSa3IxTWo1YUZrTU9KQ1RoMVBSVWRESTlLeUxtNXpWTWtrZmNXNTdiY25ldE90ckstNEFINWhEWlZKVlFXMG1kM2s0Z1RrejVfNmlKU3dMbHdaMDNSX2t5MG42RkJpLWZHVzR2LVlocl93Y1dyZm1vV1lBTEstUUIyWUpfeHJROUpxM1M0aUNrMG12WFF4NnljM3R5ekdQaURLN243NTJOTWJvd2pIQnJKRXNWMmxIaE5TeVdxLXp5MUdpUGlXdmM0ZmhyTDg3aGJhNkctcUF30gH_AUFVX3lxTFAwS21EV0FJY193MloxZDRYX2RISC1JVjZTM1dacFRZNUt0cDVSN3Q4cEtnMTVWeldyekkxOHFIUWpqSjNFMm9aVXFjTEp3U01DLTliWmszWGlTT3NkNzdHOFZweUlmdkkyc3FFR1VnMkozRjU5UWhBQjZvVUhWT1VxQkxPSXJ2VHlKeTRHdEtEajZ2QU1kNHdvNnFLdHFFRzlPNVBaVzhsOERlSjg2bDJLbjJHa19KX0d6S05XZXZhSzQ2STR4TlFHUEUwSWxPS19aQ3FDMG9GS3YyUWhMSzBRUDBmU2xuOGxidjZuS3R5S2xvYll2MThFaXZMT0I0VQ?oc=5
+- India news: New Delhi, Islamabad trade accusations at UN General Assembly - DW.com
+  India and Pakistan trade accusations at UN General Assembly
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnBsRk9WalNoYmdRZW44emU1SFNTU1pPalB5TUx2UXFLVnRFMkt0LWdIbEMtYWU4UTVrVEJ2SV9NTlI2SU01MHdfTTBQZVk3eG9IbVhHRXNxakh0OHNHTkkxYUJmZWRwYWFaQWN1aldnZUpsMDRMRmpGYUxXamxZN1QydHo4Z1lPelp5aXVPWjRKa1loUHhIQ2hWcFVoN1FhRzUySlNINzRRRk0?oc=5
 
 - India's Savage 'Osama' Reply To Pak PM's UN Bluster; ‘Repeating Lies Won’t Make It True’ - The Times of India
   India's Savage 'Osama' Reply To Pak PM's UN Bluster.
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMC11S3ZuMWFRVThzRFlkYXJfVDVlUnBLT2FlaWxHcW54X3BLLVB4enk3anF2c1NTY1dSMWZKcWI4NWU1NFhOSnZqbW9nV2Z4dDBhNXlhSDRURUZyTjZBUDZNX21rNGhrcGt6RzJvdzhBdFRVSElTellzdnhucEwxU3V6dmh6RkpIWWpjc2VMYnFHV1ZxOVhtV1hWbXR1M0thODlFZVJMT3gyMHJ4Tko0Z0l5dzRCX19PUlQtUVRTTkxJdHVwcnlYS05iYzdkY2JSNDRJVVRqa1ZKbXdKNklHbjNkQkhWUGPSAewBQVVfeXFMTXE2dEdXZmgtOVVZYzJYTjNua2xEQlJvWHpFTGZQOENSa3lRS2FSNnBXTFR5MlVOUEpZRW9Yd0kwYlhxUC1QNklZXzlWY1dyY0lUUzNELS03S2hXVTU5QTIta2h5bjRHNEV4ODl4R0RkWlU0UDNZODZoSWlNbDkzalozLVFtUWpOdHl4Wmh1RHRhMDEyek94SGxmSWlYb040OF9EUlM1blVvOThPSE1USWJSVk9JU19Va0kzV2prUTdUMHIyMHI2YUcwMnd2SWZkWWdpMmxWdE01bkhZLUlGX0FWTzk3LWNGbktYMGg?oc=5
 
-- "Terrorist Country Asking Me?" S Jaishankar Rips Into Pak Journalist's Question - NDTV
-  "Terrorist Country Asking Me?" S
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV9aQnNVMWpwc2I1UGNUVWhiel9sUV9rT3NIRXVvMlBaLTc1OGF4d003SGhSeWEtMklTak05SHByVDk3eWRERkFfMGFxS3lXR01DdGJ5cHhoenZpZVU5QkFvdkJ4VDdVekNfOEY0QVlHcFR4NWQ3TmxwNW1pbThZdXpqaFgtc2FYNXNjM2NjV1lGYnpOU0otaGFwY1F3S3JyeFpyODlPc01tN015WEo4eXAwZ091S2vSAb8BQVVfeXFMTW9ub3dpN3J5U3Y1eHFCLWhYUTZueDY0RVdIUGw4cDdnWlM4TXp2elJfOG9zSkphSlRnV3VYQTd3TDhfM28tbUptby0xMUlzOFNxOXBIbFhSVFZfLTYxMnJoamtkMXdBLWNWY0ZuN0VDaUJhUFYxWjFJdzBjY0JZSDM0dFp0eURlM1N0YU5kcHJOa21rcmJBT1EzbzVwcThwRVlSUGl1SHdCV3dHNlBJTk95Y1JDSmNwOGlZczJpSE0?oc=5
+- Tamil Nadu among pronounced drought hotspots as South Peninsular India sees strongest drought trend: study - The Hindu
+  Tamil Nadu among pronounced drought hotspots as South Peninsular India
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQS2RJZXUwVloyMHoycG9zVHBTejFSWFFfV1ZTWHVjSl9pRmJxejdKSF9PWUFOTmF3X2RYbTNnbjR6cldiMzE2WmZEMHA5a01YNmhxQzZhVDJRTDQzREp4RXhHcGtxeUhOOExwV0Q2aUtsc0JVUnJrYkpUbTlDSVhfd2w4ZHhFTnlUM3gtOW9qdFUxSmtsRzlUTUZsaXhlYzc2Y1R3NWVwYzlYVzBzU3ZMNnZHLVNGNktGM1N0S2tIODVINEdvZ3V4SXFOckE1eVZDMHBIalhJMThvVzFnUE93QmtJOUx6bVpPYk1oQjBKeENHLUJmQnJyRkFXNGNJa0o5aDhrR2RB0gGMAkFVX3lxTE1BU1pwTG5OZVJSd0NjRDNfRmtYaF9NT0Mwc0V5cnB4OFpHUHVNWmtNamtMcXJweFBnTEI1RmpOYWg2S0ZQZG1aLVRHRDM5S2dsaEtFM1AzaExvVGpnTjhleHhRQUpvM3pmRWI3VEJONlBqMU5UVURvbDNpME8yZk9pR1pxWks2RTZ2Q1d4dUxObmtXeVp4Wk5adVMwUHZiam5RT1lFMzN6Q21TVVZkWGpXWW0yX0wyS0hfYm9lMHhvWlpoRXFPY3M3N2Z3WTlXR1R4WlZPU1RoVGw1cGJKMW5ZdUVFMTZuS1A3TFhCdzhpTFNub21xRGI4NGhtWEpQZkZLXzAwbFBCRDB3MnI?oc=5
 
-- Terrorism will have consequences: India warns Pak PM at UNGA - Rediff
-  &nbsp;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTTVFUUZtZW5WWDRLM0FTNmNDaXN2dm9lZ21kU2dpcWxFTlhKcGxYMzFxNXR4N1V1T3BqQmJ3QVFQcUZ4SWJwX2ZjTjczeHU2M0c0U2lLVTh3NEtLOThLNVNsdW1qQlBPOEhtNm1FTGtnbmU4OG83aUxwMTdMT3AxNHU4a0NOX2Y1Z3F0ZFpxM3BlS0RHMEludHpWRlRlSEpGSERrdW5faUVVYlXSAa4BQVVfeXFMUHdzd0JObHhaS0hCMl9XSmF0bE9kTHBWWWx3MUNsTHUyNklPXzBzN2trajM1ZkZDVTVZa3VzdjhDaFI1OElWeFJIRlNrd2dMdksyY2liMldjbko5WXEySzFtbWstc053cldxUjFBVlNXYkpLTWo0YXBHNVdjN2hYcVBrVjFjbEhEaVNXN3drRjNfcTA4VUpVSnQtM1U5cUMtXzdYOUZ4c3o5RzVQMXN3?oc=5
+- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
+  ‘Shaken faith’:
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
 
-- India at Asian Games: Live updates from Day 7 action on September 26, 2026 in Aichi-Nagoya - ESPN India
-  India will compete in the men's team event at the 2026 Asian Games
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxORERJUEx5S1Y1dzN3OVFwLTFITDBMQ3ZiZXFHM2JDRmVMRF9zQVZMTXlRWFMyUEdGVnRLNFJNZlp0NzJzUXBwc1Z1RDA3M3V6VkxYM25PUldmc1R3VU5tWGY5QnI0ajFrX1V6MjBnckEwcjZsWm9UMHdmQ2lGX3h1Zk9RWERSUVRid0M2dEJJYzZxR0VzYXlMa25WYlUybGljc0wyR2w5SWJkM3F4cXViZms0RGZHYmIybzZtQkRRVXpERWpTdlJoaElkbVNjY0JRR2NYcm0wUnRqN2wxUFMwMm9Zb3dUczZYeFE?oc=5
+- "Ask India, Ask Pakistan": Balen Shah's Attack On "Broken" Global Order At UN - NDTV
+  "Ask India, Ask Pakistan": Balen Shah's
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2xnejFKeU1lY0w4OWQyT3A2ZE5Uck9hemplbWtENy1sR0I1TTltZEpqY2VLUDdsLTlBM0lac2RVZWFNckhaRmZ3ZmdUb2hueVhxeGRvUTVBSjZUNmVvY2EtZ3FXNEVSMXprZEw3YTEzZ2xDT2lWVlU3eVBuY3paeFJqeWpSMlVZQjZwSHdZVUJMQTdEaW1NX3VlRXpYekI0WnFWdVNubG9zM1QwMU1N0gG3AUFVX3lxTE50aVQ2RlZCeThQQUlHanNrSWViUlNOZU8wMEVhbXJWUW1TQnRwenlvbUg1ekE5YzJGNVZ0WlYxd2IzODI1Q29PWXNyNEZVS2ZRbTBURnFYcmZUa2RnU01YWklJSnJQX3l3RVc1bFZVV0JDTExxTERJa29oTGlfQVFHVFlxUkdnaDg3TENIQjRiMWFiZUItT20xTFc0Q0hjOEhlQkdfOVJEMVF4Wk9iVDQxU3BEdHRmcw?oc=5
 
-- Asian Games 2026 Day 7 Live Updates: India surge clear of Iran in Kabaddi final after Rahul’s sensational tackle - The Times of India
-  The Times of India reports on the incident. India beat Iran in Kabaddi final after
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVEJIN0Z3alRYbV91eXFUTkFUNUVHMjF2U0RqbmJ6c0l4anRSa3IxTWo1YUZrTU9KQ1RoMVBSVWRESTlLeUxtNXpWTWtrZmNXNTdiY25ldE90ckstNEFINWhEWlZKVlFXMG1kM2s0Z1RrejVfNmlKU3dMbHdaMDNSX2t5MG42RkJpLWZHVzR2LVlocl93Y1dyZm1vV1lBTEstUUIyWUpfeHJROUpxM1M0aUNrMG12WFF4NnljM3R5ekdQaURLN243NTJOTWJvd2pIQnJKRXNWMmxIaE5TeVdxLXp5MUdpUGlXdmM0ZmhyTDg3aGJhNkctcUF30gH_AUFVX3lxTFAwS21EV0FJY193MloxZDRYX2RISC1JVjZTM1dacFRZNUt0cDVSN3Q4cEtnMTVWeldyekkxOHFIUWpqSjNFMm9aVXFjTEp3U01DLTliWmszWGlTT3NkNzdHOFZweUlmdkkyc3FFR1VnMkozRjU5UWhBQjZvVUhWT1VxQkxPSXJ2VHlKeTRHdEtEajZ2QU1kNHdvNnFLdHFFRzlPNVBaVzhsOERlSjg2bDJLbjJHa19KX0d6S05XZXZhSzQ2STR4TlFHUEUwSWxPS19aQ3FDMG9GS3YyUWhMSzBRUDBmU2xuOGxidjZuS3R5S2xvYll2MThFaXZMT0I0VQ?oc=5
+- India news: New Delhi, Islamabad trade accusations at UN General Assembly - DW.com
+  India and Pakistan trade accusations at UN General Assembly
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnBsRk9WalNoYmdRZW44emU1SFNTU1pPalB5TUx2UXFLVnRFMkt0LWdIbEMtYWU4UTVrVEJ2SV9NTlI2SU01MHdfTTBQZVk3eG9IbVhHRXNxakh0OHNHTkkxYUJmZWRwYWFaQWN1aldnZUpsMDRMRmpGYUxXamxZN1QydHo4Z1lPelp5aXVPWjRKa1loUHhIQ2hWcFVoN1FhRzUySlNINzRRRk0?oc=5
+
+- India's Savage 'Osama' Reply To Pak PM's UN Bluster; ‘Repeating Lies Won’t Make It True’ - The Times of India
+  India's Savage 'Osama' Reply To Pak PM's UN Bluster.
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMC11S3ZuMWFRVThzRFlkYXJfVDVlUnBLT2FlaWxHcW54X3BLLVB4enk3anF2c1NTY1dSMWZKcWI4NWU1NFhOSnZqbW9nV2Z4dDBhNXlhSDRURUZyTjZBUDZNX21rNGhrcGt6RzJvdzhBdFRVSElTellzdnhucEwxU3V6dmh6RkpIWWpjc2VMYnFHV1ZxOVhtV1hWbXR1M0thODlFZVJMT3gyMHJ4Tko0Z0l5dzRCX19PUlQtUVRTTkxJdHVwcnlYS05iYzdkY2JSNDRJVVRqa1ZKbXdKNklHbjNkQkhWUGPSAewBQVVfeXFMTXE2dEdXZmgtOVVZYzJYTjNua2xEQlJvWHpFTGZQOENSa3lRS2FSNnBXTFR5MlVOUEpZRW9Yd0kwYlhxUC1QNklZXzlWY1dyY0lUUzNELS03S2hXVTU5QTIta2h5bjRHNEV4ODl4R0RkWlU0UDNZODZoSWlNbDkzalozLVFtUWpOdHl4Wmh1RHRhMDEyek94SGxmSWlYb040OF9EUlM1blVvOThPSE1USWJSVk9JU19Va0kzV2prUTdUMHIyMHI2YUcwMnd2SWZkWWdpMmxWdE01bkhZLUlGX0FWTzk3LWNGbktYMGg?oc=5
+
+- Tamil Nadu among pronounced drought hotspots as South Peninsular India sees strongest drought trend: study - The Hindu
+  Tamil Nadu among pronounced drought hotspots as South Peninsular India
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQS2RJZXUwVloyMHoycG9zVHBTejFSWFFfV1ZTWHVjSl9pRmJxejdKSF9PWUFOTmF3X2RYbTNnbjR6cldiMzE2WmZEMHA5a01YNmhxQzZhVDJRTDQzREp4RXhHcGtxeUhOOExwV0Q2aUtsc0JVUnJrYkpUbTlDSVhfd2w4ZHhFTnlUM3gtOW9qdFUxSmtsRzlUTUZsaXhlYzc2Y1R3NWVwYzlYVzBzU3ZMNnZHLVNGNktGM1N0S2tIODVINEdvZ3V4SXFOckE1eVZDMHBIalhJMThvVzFnUE93QmtJOUx6bVpPYk1oQjBKeENHLUJmQnJyRkFXNGNJa0o5aDhrR2RB0gGMAkFVX3lxTE1BU1pwTG5OZVJSd0NjRDNfRmtYaF9NT0Mwc0V5cnB4OFpHUHVNWmtNamtMcXJweFBnTEI1RmpOYWg2S0ZQZG1aLVRHRDM5S2dsaEtFM1AzaExvVGpnTjhleHhRQUpvM3pmRWI3VEJONlBqMU5UVURvbDNpME8yZk9pR1pxWks2RTZ2Q1d4dUxObmtXeVp4Wk5adVMwUHZiam5RT1lFMzN6Q21TVVZkWGpXWW0yX0wyS0hfYm9lMHhvWlpoRXFPY3M3N2Z3WTlXR1R4WlZPU1RoVGw1cGJKMW5ZdUVFMTZuS1A3TFhCdzhpTFNub21xRGI4NGhtWEpQZkZLXzAwbFBCRDB3MnI?oc=5
+
+- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
+  ‘Shaken faith’:
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
+
+- "Ask India, Ask Pakistan": Balen Shah's Attack On "Broken" Global Order At UN - NDTV
+  "Ask India, Ask Pakistan": Balen Shah's
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2xnejFKeU1lY0w4OWQyT3A2ZE5Uck9hemplbWtENy1sR0I1TTltZEpqY2VLUDdsLTlBM0lac2RVZWFNckhaRmZ3ZmdUb2hueVhxeGRvUTVBSjZUNmVvY2EtZ3FXNEVSMXprZEw3YTEzZ2xDT2lWVlU3eVBuY3paeFJqeWpSMlVZQjZwSHdZVUJMQTdEaW1NX3VlRXpYekI0WnFWdVNubG9zM1QwMU1N0gG3AUFVX3lxTE50aVQ2RlZCeThQQUlHanNrSWViUlNOZU8wMEVhbXJWUW1TQnRwenlvbUg1ekE5YzJGNVZ0WlYxd2IzODI1Q29PWXNyNEZVS2ZRbTBURnFYcmZUa2RnU01YWklJSnJQX3l3RVc1bFZVV0JDTExxTERJa29oTGlfQVFHVFlxUkdnaDg3TENIQjRiMWFiZUItT20xTFc0Q0hjOEhlQkdfOVJEMVF4Wk9iVDQxU3BEdHRmcw?oc=5
+
+- India news: New Delhi, Islamabad trade accusations at UN General Assembly - DW.com
+  India and Pakistan trade accusations at UN General Assembly
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnBsRk9WalNoYmdRZW44emU1SFNTU1pPalB5TUx2UXFLVnRFMkt0LWdIbEMtYWU4UTVrVEJ2SV9NTlI2SU01MHdfTTBQZVk3eG9IbVhHRXNxakh0OHNHTkkxYUJmZWRwYWFaQWN1aldnZUpsMDRMRmpGYUxXamxZN1QydHo4Z1lPelp5aXVPWjRKa1loUHhIQ2hWcFVoN1FhRzUySlNINzRRRk0?oc=5
+
+- India's Savage 'Osama' Reply To Pak PM's UN Bluster; ‘Repeating Lies Won’t Make It True’ - The Times of India
+  India's Savage 'Osama' Reply To Pak PM's UN Bluster.
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMC11S3ZuMWFRVThzRFlkYXJfVDVlUnBLT2FlaWxHcW54X3BLLVB4enk3anF2c1NTY1dSMWZKcWI4NWU1NFhOSnZqbW9nV2Z4dDBhNXlhSDRURUZyTjZBUDZNX21rNGhrcGt6RzJvdzhBdFRVSElTellzdnhucEwxU3V6dmh6RkpIWWpjc2VMYnFHV1ZxOVhtV1hWbXR1M0thODlFZVJMT3gyMHJ4Tko0Z0l5dzRCX19PUlQtUVRTTkxJdHVwcnlYS05iYzdkY2JSNDRJVVRqa1ZKbXdKNklHbjNkQkhWUGPSAewBQVVfeXFMTXE2dEdXZmgtOVVZYzJYTjNua2xEQlJvWHpFTGZQOENSa3lRS2FSNnBXTFR5MlVOUEpZRW9Yd0kwYlhxUC1QNklZXzlWY1dyY0lUUzNELS03S2hXVTU5QTIta2h5bjRHNEV4ODl4R0RkWlU0UDNZODZoSWlNbDkzalozLVFtUWpOdHl4Wmh1RHRhMDEyek94SGxmSWlYb040OF9EUlM1blVvOThPSE1USWJSVk9JU19Va0kzV2prUTdUMHIyMHI2YUcwMnd2SWZkWWdpMmxWdE01bkhZLUlGX0FWTzk3LWNGbktYMGg?oc=5
+
+- Tamil Nadu among pronounced drought hotspots as South Peninsular India sees strongest drought trend: study - The Hindu
+  Tamil Nadu among pronounced drought hotspots as South Peninsular India
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQS2RJZXUwVloyMHoycG9zVHBTejFSWFFfV1ZTWHVjSl9pRmJxejdKSF9PWUFOTmF3X2RYbTNnbjR6cldiMzE2WmZEMHA5a01YNmhxQzZhVDJRTDQzREp4RXhHcGtxeUhOOExwV0Q2aUtsc0JVUnJrYkpUbTlDSVhfd2w4ZHhFTnlUM3gtOW9qdFUxSmtsRzlUTUZsaXhlYzc2Y1R3NWVwYzlYVzBzU3ZMNnZHLVNGNktGM1N0S2tIODVINEdvZ3V4SXFOckE1eVZDMHBIalhJMThvVzFnUE93QmtJOUx6bVpPYk1oQjBKeENHLUJmQnJyRkFXNGNJa0o5aDhrR2RB0gGMAkFVX3lxTE1BU1pwTG5OZVJSd0NjRDNfRmtYaF9NT0Mwc0V5cnB4OFpHUHVNWmtNamtMcXJweFBnTEI1RmpOYWg2S0ZQZG1aLVRHRDM5S2dsaEtFM1AzaExvVGpnTjhleHhRQUpvM3pmRWI3VEJONlBqMU5UVURvbDNpME8yZk9pR1pxWks2RTZ2Q1d4dUxObmtXeVp4Wk5adVMwUHZiam5RT1lFMzN6Q21TVVZkWGpXWW0yX0wyS0hfYm9lMHhvWlpoRXFPY3M3N2Z3WTlXR1R4WlZPU1RoVGw1cGJKMW5ZdUVFMTZuS1A3TFhCdzhpTFNub21xRGI4NGhtWEpQZkZLXzAwbFBCRDB3MnI?oc=5
+
+- Minister urges police constables to serve responsibly, embrace technology - The Hindu
+  Minister urges police constables to serve
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOclA4WHhwXzRNdl84WGduemhtNk50U1lUc2JvYXhpQldMNDJOeGRkOTFrMWdXTmgtM1l5bDcxWW0zUzdXTnczcnBXakp1QnozTngxVlhOazBBWHVYS1ZLRDh6aEdldEFiZW90VGNlbDJTdVpLTVJKSFFDWTFySy0yNm81VlNCZXZIZl9OeGZETEVTVTgxZ25FWmpBNnUxVUg1b0VUZE9IYlFmOGd5SWx3NzdxYWlWaXpkTEdLOVpBbm1HTkZFWmowR3JqVEJxZjlXeTgteWctTUM4c2dNbVVj0gHmAUFVX3lxTE5mSDBOTWR6Q1BQOUF1c3RjX1ZjaUg1OUpSSHg4bUs5aDhkdEJLdXlJMC11cWc3cjYzeFZNT21hUWhwWGQ1UjlUc0ZBeVhRMVNUVUdPT3dZNG5aQzJsYmpfSlU5cEJiMXIzNG1DU1dlN2FtTC1SanZQQko2bDIzckhJYnN3djFMQTlQM2pOZTJZUzJkb0gtbmY0bmhLMW1DcGRjWlFhUm8wRTI2OTh0dGdKamU3Q0dfMjVKYnBwRGJGanl2S1R5ekdxcC1HMloybUJyYml2UWtDcjZHaDBCZjRrRUxib0R3?oc=5
+
+- SRMIST holds national techno-management fest Aaruush ’26 - The Hindu
+  SRMIST holds national techno
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1JEUGhDN0xkaW9CbkhOVExTckhoQTJTbjdFRVBmR0VnNFEyS0hxbXlQcno4RUZKcFY2bWdtQTlVaVlIWFJFSHA3emE2Ykpab3YwOVoya2Y2cXROWW5obG5ERXZvQlRZU0Q2UElfUExvNmNJOExTUEh6elhJTDl0ZEgzcXpIUTJVT2NxTEpvRWVsMk9qU1dpZlhmcWctcGJxOEdIRG5id09iMkpqZjBsX2V0OVp3Snk3U0FMQ9IBwwFBVV95cUxPbXRxSVdRUmNtYnV2N3B1OHdzU2NEMC01b1hvMlczUFBmSjZOQmpMRlc2VWs2ak9IY1JUN1dHbmVOeFByNDl0bzQ4MGJ6S3RtSW9vSDlIcXdnZXZvRjFsdE5GWGQyWE1Ba3loSEVSaWNBTkppcmxmdEsya0pQYjFrLVJrckZHRk1xd01veUFuWllYR19Uc0lNczhOQkRPWXAtSzJjZjJiZ3RiT1o1Z1hWSmpBNUdnY3htcm5TYzNMMHhFNG8?oc=5
 
 - OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - The New York Times
   OpenAI’s A.I. Went Rogue
@@ -168,17 +256,9 @@
   OpenAI says agents leaked 53 images from ChatGPT users in latest
   🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5
 
-- Novo Nordisk to Pay Up to $1.3 Billion for Nanexa’s Drug Delivery Technology - WSJ
-  Novo Nordisk to pay up to $1.
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcE9Zd3F0bkt2Y2NaLWx3MTk0UDFQRGE4bG4xWXFqV3dBbmRfYzVsSVgzMy1wdC02Qm9GSjVrTVpMemc5Q0pMcVh5aXUxOS1waVBFVUVqX0tSV0xhWUlqaFZQSnN4YjJqUWlzdnNfZ0pUX3pvbXBUTENNMEFIVmppRDBmUnducC1OSnRDNzNsdzJrcklKU2VQOXduN3dSS0VEaF9lVVpYdEhSZmN6WDlkSGdIelphdjVK?oc=5
-
-- Waymo Self-Driving Taxi Review | Making peace with autonomous driving technology - The Hindu
-  The Hindu has published an article on Waymo's
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2RsM2VOMkR6UjM3c0xxZE81bkRieUFTZE83UzNQRmlFdm11RTNnaTk3cGYyd1Iwbm0zMzZXbnAwMUhJUU9HNWJ1M0U0clF2VzhueUdVdll4anpabW1BbllfVnBENlVWNWJQeEphQ1VGWmhOX2FBTFA3T1c2dXFvajdYNHNvdk9HV0NmYjFDcmNtNWZwdnItZnM3NVFuOVRMRk5GcW1yUmdfb2I0c1U5Wko4andub0RsLW04N0M1S3ZURXp6NHZJdnBfYUdqNC03dmVmY3EtNjN3WUHSAeIBQVVfeXFMT1NjOVVwRHR1SmhZLV9IN2lVS1p6SUptcVhjZzN1al9nUFBDVVVibkY2dXhlWGNMdElSb2hQdDNLMEhRNkJKZVBrTk40WW9vbmhjWUs0REVkQnhxOEY0WnBOTHV6dHRVUDVzQzlMTXp0WF9tRkRPalMxMzhGME1kU2N3Ni1qbl8wSWMxc2hlYk9fMjBoazU5bDR0R3d2eEdzZmV3c3JUcF9IYS1RaC1yZnlpOTZmckliWlhlanNfTVI0R3pwZVFyamFaZzd3OXNKeWNuY191Q3llVjQydXk0XzJIdw?oc=5
-
-- OpenAI Says Its Models May Have Interfered With Government Sites - Bloomberg.com
+- OpenAI Says Its Models May Have Interfered With Government Sites - bloomberg.com
   OpenAI says its models may have
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzFWcjVQTHVBRkRRbDF6cWFCT0xzdk5MOV9Cb3VtSUdQR0JleV9NdGtjTXY3Yml4RWo3RzYwMWxlSVZXOEQ0TWZ3ZXdneFZ5SjMtTGRRWXRaQUs5cURobExiZjBaS2V3WElremxmaHg0WXJiMlpBSS00RlN2VkhsU2dSQWJGdW1jdlIyZjdLb1lLRDNpalFLNzBSdkhGUzF5bzJ4ZWNvMDJ3ZEpRT1pPc3cxcUMyQQ?oc=5
 
 
-_Last updated: 2026-09-26 10:42:52 UTC_
+_Last updated: 2026-09-26 15:38:22 UTC_
