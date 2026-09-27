@@ -1,44 +1,12 @@
 # 📰 Daily News Summaries
 
-- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
-  ‘Shaken faith’:
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
+- Could Boeing 737 MAX software glitch disrupt navigation feature? Here's what company says on automated flight guidance
+  Boeing flagged a 737 MAX software glitch that could cause an automated navigation feature to fail during landing
+  🔗 https://www.livemint.com/companies/news/could-boeing-737-max-software-glitch-disrupt-navigation-feature-heres-what-company-says-on-automated-flight-guidance-11790475449584.html
 
-- Nationwide SIR Order Was Unanimous, Upheld By Top Court: Poll Body Amid Gyanesh Kumar Row - NDTV
-  Nationwide SIR Order Was Unanimous, Upheld By Top
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVlON3pEMVNaWFl4NlBxa3BHbUtuM1VIbG13azI3X2dlbXloR2trTVRnbFAzVEpBbW90dFRaTDZvNmFZQTRrZGpqU2gtajdsSDZWZnFfTVA5dHRiQmdKcHhZNU1rU0J1RmU2V3NhcHRBRWQwS1Q5dWtDbjhSZXJrY3BnbWZuc2hiTUpOMnhiU1Fzdzl6TjRjZjBCS2c2Q0IyTGhHWktTZ29QQWNvOU9PemFub0ZQTHZfMC1WUk54MEt6RXFUazlv0gHPAUFVX3lxTFB6Y3RZNEhlMWJLOU1GdnVuX003ek5uUDQ5aGtiTGNkNlRNdUFIS1NtM1lmZGVPTFpUaTNWNTExTjhqVUJWbHItZlJLcUtfQVZBeDg1QmhOUk1JcnQ5QmZPVmYyRWFWRGQxWm51SUtLRnVFaVBITFJsRlVhMVh4U25UU2JZc1JpbnZ4NlpRb3otSkJNMGVlQ3ZFQzJlOE1jLTJjTUVMN3pYcWFROVB5MlJpRGJzbXdwWVNHZUJWVjM0VXA1Nnp2TUNjeEdIbDRhcw?oc=5
-
-- Mamata vows Opposition unity on demands for removal of CEC Gyanesh Kumar - The Hindu
-  Mamata vows Opposition unity on demands for removal of
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmVVeEhhR2t0SzJDVEpRZ0J5aTB5RWdESldfY2psX1ZPdHhJRGdQMHlCWDVyd0FfNmxHakRKaFJlYk0wclUtUE50dHNKanVOLVBDcVZkazNrdHpIYXZLbmFBVnNpRTFQNzVBdUpyOVpkY3FfZV9lWWpoODNyNlZCaU9fSnoyU0VfSHREeGI1cXU3T2VOWTZneHNYN01NUEpmN3ZWeGdxeVJ2WkEzbkRwcHhrYzIyaHhUZVN1Vy1xdWVBWnhVNU9hUHF3X1pQV0nSAdYBQVVfeXFMTURFMkNEOTU1ZTB1Z2dzSWhQT3JVZzQtbVBWUThUaGthbk1mbURCQVVOTmpsc005YlgySzJTOUFnQVJfRjhDUDVkWlFYbGsxWFI3OXVuN0NlWmFrUUhudlkxNWJ0UWNucDRHOTZGdVZHOEpIU2NzVlhMOWs2NWJfZEJvNVFUbzVULU5uRzg5Z21Id2c0QnA5NlBkb0FrRjJCU2t6aWtXcHZGamJjYS1tU1p0Y0MzQlRHU2dtYUVLLUZNb2hfMmN2RHAwQkMtazZSZEhyYjVYUQ?oc=5
-
-- India news: New Delhi, Islamabad trade accusations at UN General Assembly - DW.com
-  India and Pakistan trade accusations at UN General Assembly
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnBsRk9WalNoYmdRZW44emU1SFNTU1pPalB5TUx2UXFLVnRFMkt0LWdIbEMtYWU4UTVrVEJ2SV9NTlI2SU01MHdfTTBQZVk3eG9IbVhHRXNxakh0OHNHTkkxYUJmZWRwYWFaQWN1aldnZUpsMDRMRmpGYUxXamxZN1QydHo4Z1lPelp5aXVPWjRKa1loUHhIQ2hWcFVoN1FhRzUySlNINzRRRk0?oc=5
-
-- "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
-  "Terror Will Have Consequences": India Hits
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
-
-- US jury says Apple owes record $5.7 billion in haptic technology patent case - Reuters
-  US jury says Apple owes record $5.7 billion
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5
-
-- Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics - CNBC
-  Apple faces $5.7 billion patent infringement verdict over
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1VOZW5BcW9ncDVQMDlmZ3FZNmxvcXlYZGQ2MzV2TEVTWUt3MWlJQUN0dFB3enlhZHN3SjlXMzFJanpGdk44b2ZkcXRwX1hBNURSeEZwVmZKQzZpcVVkOWpmNjROTExtWW9XVVZUSnRBVy04aDFxejdGOGpMaWFjZkw4MlQyMEFwYnJKcGRmdmlVZFXSAZgBQVVfeXFMUDVnNVVadXhlSXJ0c2l5MHRPNXhFVWJhM3pXMlBZVTh6NWJubmNGT1RJN0NjdnBoYlM4N0ZLdHBDRUUxUk9wNHFsdGZfQXBVajVMMHo2akpjYm5CMHlHSEZfWVBfRzd2NUtKQnZPNDh6T1AtWThwdUQ0aE1VOU1NR1h3RjhFVmRKUFU5VkI4ajlNb09Kcjk5TVE?oc=5
-
-- US jury says Apple owes record $5.7 billion in iPhone, Apple Watch haptic technology patent case - Moneycontrol.com
-  US jury says Apple owes record $5.7 billion in iPhone,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRVhVZGV6ZDQ3OGJ5UmZoT3pPLWxBLVFCazU1T2FaTTdnNnFxVkRHWUxnUHdfVlFLQVM0blM3Z0tyZm5TMGlGX3pWRzAySTJQd1E4R3BlYXR4OFg5eWt5bmhLRUhHN05JOVRVbEUzS0UzYl9HbW1PUWpBSmpDVlZpSHQ3NXlmdDRfZHFVT3MxekluS3hlM092eWZ0Z0oxMjVhRGs4NDlCU1J2Rjhid1NHV21RTkNJYTdXVzVacmlfcDN6ZTRHRjhqNGJCMFV5aml2a1htX29LajJQRGpwZTFGYmRMdWRBZ9IB6wFBVV95cUxNZWdNdWdDMHREREpMOVdzV0R5MTJVN3Vlb3VRQ3BRd3pOQ0ZRNUVVRG9ETEdfSGg3a3VjbWN0bVk0Yzh6WXF2dEQzT1pyOVpiZUNGMDhCTXdQVjVyeU1FdEhGZjhKbzJGMmxQUnBnRnNkakFubENXR0ZiNElwVXlUT21GTTk5VE53VU5EOHNYUnlyWE5ldUF3WmYzSVdyVG1PX3ItVnNQWDBiNGhBRmg0RDdKSm8zSHpwUDI1dWpKdXpNUWR2SVBSSVFFeDdTTHZNOWJyVmRLaUY0WGhSdVRuZGZFclhYVEgza0xR?oc=5
-
-- OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - nytimes.com
-  OpenAI’s A.I
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5
-
-- How technology-enabled public-private partnerships can unlock India’s scholarship promise - The Hindu
-  How technology-enabled public-private partnerships
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYWxmc3FTMWttTXBmN3Fsd0tlLWtJSDFjNFJKQ2VULUhQX0JZTG9zcWhYQlBBQWgtVnZOUlplMk5ScHRJYm43c1NIbTVNcERKVFZDdVdYSHFPMF9PcHMxSThuNnNudUtrR1FUaThpOXY2SHNQaFd3NHZ4TGxVQUJDUkJvdEV4RUU4ZWpqSl9yeWNGQTNPdDlWWlZ2dEIzVUhVRng1bmhCajNnd1I5TlNRaFVTb2ZkUkZiSi1KWWVxU0RTS0Jla2E0Z2lXQ3p1NmdvOUxtc0ZfMDBGVmvSAeIBQVVfeXFMTVZuNnBnMldrRXhJYUF4LWZLLTJlcEk2SENzRFhhYnZ2LVlnM1VzWjBYU1c1eThxN0ROa0F2R055cDZ3cTFHemtFa2RKUUJENk9zX3EwRGJmQnhSb2lPM0lQQ25ROS0wYjdYclRoNVpvbFh2cFpwRHh2eEc2QkFBUlphRGlaODREVW40WDV5cjVieHBwZk1EYTFHMTluQnZsc2RuVEpxSnh3MG1BLXBNajQ5ZE5kNjYtQ0JtekxPbDM5UDZWZ1ViWTg0b1M4Qlluc3IxY2FXWFVaQ0ZidmhJWks2QQ?oc=5
+- China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight
+  China's consumer stocks are trapped in a lost decade. Under the shadow
+  🔗 https://www.livemint.com/companies/chinas-consumer-stocks-face-lost-decade-as-ai-steals-spotlight-11790468488047.html
 
 - Why your  ₹100 meal costs  ₹250 online and how Rapido wants to change that
   Rapido launched its food delivery app Ownly in
@@ -51,14 +19,6 @@
 - Vitol Told Bank Radiant Contracts With CFO’s Signature Were Fake
   Vitol Group told Deutsche Bank AG in early August that contracts with Radiant World purportedly signed by Vitol’s chief financial
   🔗 https://www.livemint.com/companies/vitol-told-bank-radiant-contracts-with-cfo-s-signature-were-fake-11790365108447.html
-
-- Converse pauses social media ads after CEO apology over racism outrage: Report ahead of Nike's earnings announcement
-  The ad evoking the Ku Klux Klan caused outrage. This decision comes amid a prolonged sales decline.
-  🔗 https://www.livemint.com/companies/news/converse-pauses-social-media-ads-after-ceo-apology-over-racism-outrage-report-ahead-of-nikes-earnings-announcement-11790358925524.html
-
-- Fortis loses Supreme Court challenge against forensic audit in Daiichi-Singh brothers case
-  The dispute goes back to the sale of Ranbaxy Laboratories by the Singh brothers to Daiichi Sankyo in 2008. The case is linked to a 
-  🔗 https://www.livemint.com/companies/news/fortis-loses-supreme-court-challenge-against-forensic-audit-in-3-500-crore-daiichi-case-11790353428336.html
 
 - Rate Market Fear Gauge Is Warning for Corporates: Credit Weekly
   Corporate bonds have been relatively resilient amid a global government bond sell
@@ -80,6 +40,10 @@
   The payout represents 800% of the equity share’s face value of Re 1. The dividend is scheduled to be paid on or before October 24, 2026, according to the board meeting outcome.
   🔗 https://www.livemint.com/market/stock-market-news/rs-8-interim-dividend-declared-check-company-record-date-payment-date-11790411316866.html
 
+- Hyperscaler cloud revenues projected to top USD 1 trillion by 2030 amid AI, digital asset convergence: Report
+  Cloud revenues could exceed USD 1 trillion annually by 2030, according to a BlackRock report. This is driven by expanding demand for computing resources required to train and run artificial intelligence (AI) systems.
+  🔗 https://www.livemint.com/technology/hyperscaler-cloud-revenues-projected-to-top-usd-1-trillion-by-2030-amid-ai-digital-asset-convergence-report-11790477745714.html
+
 - China and the US agree to set up a new AI safety channel, and to keep talking on trade, military
   China and the US agree to set up a new AI safety channel, and
   🔗 https://www.livemint.com/technology/china-and-the-us-agree-to-set-up-a-new-ai-safety-channel-and-to-keep-talking-on-trade-military-11790419688675.html
@@ -96,29 +60,25 @@
   The Oppo F35 5G and F35 Pro 5G are tipped to launch in India on October 5. The phones are expected to feature 8,000mAh batteries, 80W fast charging
   🔗 https://www.livemint.com/technology/oppo-f35-5g-f35-pro-5g-india-launch-date-leaked-check-expected-price-specs-and-features-11790338162522.html
 
-- NYT reports OpenAIs agents meddled with US Govt sites, Sam Altman commits to more transparency
-  The incident involving the Commerce Department and the S.E.C. were confirmed by OpenAI, which said
-  🔗 https://www.livemint.com/technology/nyt-reports-openais-agents-meddled-with-us-govt-sites-sam-altman-commits-to-more-transparency-11790385479699.html
+- Nearly 7 billion litres without a market: Ethanol glut in India fuels search for new buyers - The Economic Times
+  Nearly 7 billion litres without a market: Ethanol glut in India fuels search for
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZHMzQjhBbnVLNkNXWmhRTmZWLVpFVkViRWR3QUdtalBqSUpwSjFJaGlTdWFmSGoyLXdLUGJUS2NabkZIYnVaclpOZktEc0ZFMkw3TUxQTXI2MUlFN2xhSk1xdWZvejRzaWk5bnNWMGNPZ1ZOMWN2SUlyaFB3Y01qQ2hrczRGVURUcDFvNEZDcWQ1eVo3X1h3cHhoNkZSbXNqWENtQTNBaktCdVY2b0VKa3dHM1dEOVJlZXNkUVNMWjNpbTBIeE9adXg1Wl9WRzBvMjljYlVDS0dvZHlsOVhjdUZMV25DcnRpRC1ETmU5UUw2c1ZoY2xN0gH8AUFVX3lxTFBwLUMzMnZjTC1vZGpKSWdoSGtfNTh1MjRBRFhWc0U2Skc5N2liNXg1aExvQWptazNobW9wb0hNWTl6UE9qMVlTNC1rWEk4STFpZWVfQnNIUVlYU2hPb2VaRm96TkhiMFdEc25zdDkwdkZMUVZ2bG0wQUViMHVVYkIxbUJIY1I1Qm9sZjVscGs4UFlLa1oxdm13QURKd3I4bGFGOHZueHJaWVQwbHE1ZlJnOUJnOVZiNU5BUUdXTGducnR4Ym00RmVuYUdTTmp6UmlDU3J2c1dUdjVUSzdHUGZzUjJWcTZsLW5aVy15ZlRRMFJoUHNJYzYzSzZXdA?oc=5
 
-- Bond Selloff Fades as Oil Cools, Lifting Stocks: Markets Wrap - Bloomberg
-  Bond Selloff Fades as Oil
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlBZR1YyS3BQNENjZGszSURuWXlKTnVyb0l0d3JudlVHSEdrdW5ZeUlQaDFYVl85SDI1SzNYWlZ3Q2hiMWtfbXhUVFlDYzJHbjZfQTRfY2VlX3NOdlJRYlI4dHFrVjltZ1V6WU1Nbko0RkVBUTRjR3FTZTFXMnF6VDVnZXFVOVJPWUhkSHZUSlpBQ3py?oc=5
+- Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows - CNBC
+  The price of diamonds has fallen to record lows. Diamonds
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXByaXlwa3lFOFZZSllOUFFCMzNMWjVleWowb0lPakpCTnZuTTBLdGcwUFZnY3hWVnVFXzdXUnk3UzE0S2xaTG55UE1ROTNiWE9ITlZDaXd2YTBwLWlCeTMwYjVaNnU0WFNXTkJjdEpRYmt5Vm1zb2dlYkdGZFUtWEYtRzZqMEdlUkNBbXBNNUVtOHVROWfSAZsBQVVfeXFMTnRGQThHVUt4NHROYjRkdW8zR05IdmlOaDkyd3NtRzdiZGNqc2V6ZEhXRnhITTY3VVpXOEY3OVJPYVJhTS1rZE0zRzlraVlxeWdGMk1YZVRORmVqMHpNSnZIYTRBQ3Y1VmtvYm81UWpDTUtaOVZXZWNEUUV6b09rR1VTcE9JTkpCVFBVZnhPLVB0dTBYVG1OWk5CbGs?oc=5
 
-- US court rules against Kalshi, says states can regulate prediction markets - Al Jazeera
-  &nbsp;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOTkJJZUhQcjNoZ21VWkxwNy0tN0hwbzREM0M3bnpQcUE1d0EyeW9DaG1BMl9yMUx3SjB6eWJ3ZV93bWNHeWRkb09ZQm5KTlBpSUdFNjAtZDh2LXlOY19QQVlBMTA0eTlWbHR2UDNaUkhaTmc0ZncwMVRCQW9vNUVCRE1EaUtDbmhQakxPb0VkN1NONFRRbktGSURFZTJPVEYyN3dMRDFLZjEtelF2Nkk2ZzBTd2TSAboBQVVfeXFMUGRwNGxZWi02UXl5TkxLNGhHeU0xSlREeE5XdnFSdTVaeGNURkJrdS1INk9LTVlOX3JBUHJUTVBOZHVZeDR4MG5iU3VtYWVPY25DRWdBR21ETXhpQ3VjTUhtTEE3Xzk1T3NMeVpuUHA5RlNmTnNxMWJ5YThYVVVMbjl2aUtnbVRudy1QU2JsTjhLLU1CcjhWU2JwUENrenhQQTFVeEw4Q0hHZDFnWHMzZXY4ZzlmbEZ4clJB?oc=5
-
-- Same playbook, different numbers: Why FPI selling may not be the story it looks like - The Economic Times
-  The Economic Times reports that FPI may not be selling as much as
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbnhoNnB4ZGhHZ3lnelBUeGFsQkYwMjZiVm9kSUNmMU5Cc0RFTzkwMEFmMHZlSXR1dlZTM0JoM29PbUZ6MUVHbjJDUnNqMlhXUGRwcmkzSmV0SWtQbVNBX1djRUtpOTFhdGRJa0pfNEhWUXFYb2J4YjJFOU5UZ19PVXZZT3R0QUxOeTFRNUNGaTVxZEtIVEdsZEdRUmwwSWt6UXhMTGpOc0NNRVkzLXVXUHZXSDh0NVBQQ1RxOXB2bF8yVGRUQm5SZkpwZnZNRUswZVRONVd0Zm1uSWxkN2hLdjZnaDZIMEgzRDlwR9IB8gFBVV95cUxQXy1MWk1hUXl4TndJWm8zejByREViUWNNVG9oQmtBTG9HNWJadHM3UWI0Tmx2SXN1X1lXTjRwb2lDbGFUbzJucUlCUWtTVXktelFqT3ZneXJmaS11b0h3M1JGeDQ2TktsQ0p0QXRxZDAyTHhMVGxVSDlTMGo3TExKcFd2OEIxejB3RmVGblprd0R3YnNTOHlXb2Y3ZF96MlFLQUNPMG5LZVZQNXpSOUFIYS1BcjVydEJkWlFrT3N5WWI2clJoQjdKbUs2R3Fxbm9wdk1CbHlEUUhtRWI5a2N5ZHZpSGZacE53YVU3UjJlWlpvZw?oc=5
-
-- Dow falls for a third day as bond yields hit fresh highs: Live updates - CNBC
-  Dow falls for a third day as bond yields hit fresh
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1kSThnZGdDMlpreHVoQ2NfOEs2blNBWnhLZWZyZjUzUVdhT0JwTjBQMDJ0b1F4cFRiaW1icDNTNHpSdEFLVmpKM2MxT3Voa25WSUxwY1RsYno3UU5qTG1Ec09mU3lveEFYUTk5VVFTbDdXQU9PT2xj0gF8QVVfeXFMT3hBNUw4aTh3Q1VGT1RZUXZ2RUtmamZLZXd6TGRkVExWQmVFVWw0RHJPNnBxMjJMcXREZF93enk1VFdkMGEwS21ZX21GbG54QWVqZ3hQZFgzZ3VockF0enVCdkhQYkhNbk1VNndtNFIxY2F2bnRNZHYxLVdCaA?oc=5
+- Markets News, Sept. 25, 2026: Indexes Close Higher, Post Weekly Gains as Treasury Yields, Oil Prices Slip; Dow Snaps 3-Week Skid - investopedia.com
+  The Dow Jones Industrial Average closed down for the third week in a row on Friday.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHNxRkxPdjA3emZBOXJPTVBLV1didmpXU29iRUNCYXZaV0V4TnJrQkV2bDQ3QVVlSmpoaXVPbHpXeVBESWJQcXUyc2xNUHNkTjc1QnhrdGNCOFV1R1ItSks0V09zZDM3eDFTZmJuaG9Ua0FCRnZPRlVCM05YS3RpejFSUDRqSlpuT04tVUlvR0w?oc=5
 
 - Sikkim hosts four national platforms to connect Northeast startups with markets - ThePrint
   Sikkim hosts four national platforms to connect
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0tuMm4xY2M2enpxRHlmdFZjSlR4ZWlMclhQRDZueHl0am1kMVRVNWhVRG44eURWbXFQVHdDcDF3WVJFazUtOUVtek90QzMzUVE3NHhOUW5veVVVbzRuXzBGY1pOVlJBODRDaG9MUWl4ME9TbmJiSU1vNHFmaU1zN29KczY1bTJPNElYMlpObzEyYVZoYTEzcDNpRHBFaFRDdUpPMjdTLWxFNzdLU3ltc1NGLUTSAboBQVVfeXFMT1RvdC01czAwSXlKMUVBMEM0ZUxCWWNCVW5uOFRHY3FrVVFCS1pHck56MGsxeS1FZllkbmlOZnQwUWJUX05vaG1IYkhZNi1NbElTVUFFQjNuelk3NGVUbllPUjdpYnZmUXQ3eW5IRE5VRmc3VGlGbnJlczBZYWdLaC1naU5hRWluQklORzJuX3RNd0JON0NSdkdNVEhuc3F4T1B0ZUgxMkNrUkdiMXB6QWhEazdaZS1fRm1B?oc=5
+
+- US seeks bigger share of India’s energy market as Trump pressures New Delhi over Russian oil - telegraphindia.com
+  US seeks bigger share of India’s energy market as Trump pressures
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaGdwaXZfQm9FRVd1TUo3VWtEaVpqNy1GNURXM0FVdkJlZ0hpbkdiWTFydkdvTUIxVHhmTDZheXMxOGVILXZJbnlRQXZCMzhLSFB0bDBrWjVnc3A1dHdPdHdSOU54YWFPZDFZa2RQMkhpc19PMXJoOVA0ZzR5V09KRlpoblhldEFYM2Y4RmhsalR0WXVCVjZKMWEzS2J4eUFoN2NVX21kSm1DZmlYV2pEc3IzZEN3OFVsT242SXhDUEhKaUdWNHQ3Zk1zRWNZbHR1RzI2SUFyZ9IB3AFBVV95cUxPdFdLVGwwMElIaWRXa1JzZ0JsVUJEVHlOQk1HeUJYWWNjYXBMbGdpOXdxUWlYTUZ3V3JFMzlULWVSbVlfS2lxZjREQlpkTS0xZGMtb01uQTdTanh0dVBTZFFjTHVSS0R4b2hqX3ZWQ0lBUGQxcjlvUnZwNDI5bHhDNUNqeDVsV04xNkxRa0JmUUdZeC1iOVN5cGU4MS13S3VvWjltRW9Pc1FaUUZSUTE0V1o5UEZvSi1zdFI5YnNvdFdEOHJ6YnJ1UzIyWmg4WER5X0N1RkpmbFhIM0Nl?oc=5
 
 - Same playbook, different numbers: Why FPI selling may not be the story it looks like
   Indian equities extended their losing streak as elevated crude, US Treasury yields, geopolitical risks and FPI selling weighed on sentiment. However, foreign investors continued backing IPOs, selectively buying debt and
@@ -140,26 +100,6 @@
   Nifty extended its losing streak to seven weeks, falling 0.88% to 23,140.50. The 23,000–23,200 zone
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-at-key-23000-support-can-bulls-trigger-a-technical-rebound/articleshow/134500890.cms
 
-- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
-  ‘Shaken faith’:
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
-
-- Nationwide SIR Order Was Unanimous, Upheld By Top Court: Poll Body Amid Gyanesh Kumar Row - NDTV
-  Nationwide SIR Order Was Unanimous, Upheld By Top
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVlON3pEMVNaWFl4NlBxa3BHbUtuM1VIbG13azI3X2dlbXloR2trTVRnbFAzVEpBbW90dFRaTDZvNmFZQTRrZGpqU2gtajdsSDZWZnFfTVA5dHRiQmdKcHhZNU1rU0J1RmU2V3NhcHRBRWQwS1Q5dWtDbjhSZXJrY3BnbWZuc2hiTUpOMnhiU1Fzdzl6TjRjZjBCS2c2Q0IyTGhHWktTZ29QQWNvOU9PemFub0ZQTHZfMC1WUk54MEt6RXFUazlv0gHPAUFVX3lxTFB6Y3RZNEhlMWJLOU1GdnVuX003ek5uUDQ5aGtiTGNkNlRNdUFIS1NtM1lmZGVPTFpUaTNWNTExTjhqVUJWbHItZlJLcUtfQVZBeDg1QmhOUk1JcnQ5QmZPVmYyRWFWRGQxWm51SUtLRnVFaVBITFJsRlVhMVh4U25UU2JZc1JpbnZ4NlpRb3otSkJNMGVlQ3ZFQzJlOE1jLTJjTUVMN3pYcWFROVB5MlJpRGJzbXdwWVNHZUJWVjM0VXA1Nnp2TUNjeEdIbDRhcw?oc=5
-
-- Mamata vows Opposition unity on demands for removal of CEC Gyanesh Kumar - The Hindu
-  Mamata vows Opposition unity on demands for removal of
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmVVeEhhR2t0SzJDVEpRZ0J5aTB5RWdESldfY2psX1ZPdHhJRGdQMHlCWDVyd0FfNmxHakRKaFJlYk0wclUtUE50dHNKanVOLVBDcVZkazNrdHpIYXZLbmFBVnNpRTFQNzVBdUpyOVpkY3FfZV9lWWpoODNyNlZCaU9fSnoyU0VfSHREeGI1cXU3T2VOWTZneHNYN01NUEpmN3ZWeGdxeVJ2WkEzbkRwcHhrYzIyaHhUZVN1Vy1xdWVBWnhVNU9hUHF3X1pQV0nSAdYBQVVfeXFMTURFMkNEOTU1ZTB1Z2dzSWhQT3JVZzQtbVBWUThUaGthbk1mbURCQVVOTmpsc005YlgySzJTOUFnQVJfRjhDUDVkWlFYbGsxWFI3OXVuN0NlWmFrUUhudlkxNWJ0UWNucDRHOTZGdVZHOEpIU2NzVlhMOWs2NWJfZEJvNVFUbzVULU5uRzg5Z21Id2c0QnA5NlBkb0FrRjJCU2t6aWtXcHZGamJjYS1tU1p0Y0MzQlRHU2dtYUVLLUZNb2hfMmN2RHAwQkMtazZSZEhyYjVYUQ?oc=5
-
-- India news: New Delhi, Islamabad trade accusations at UN General Assembly - DW.com
-  India and Pakistan trade accusations at UN General Assembly
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnBsRk9WalNoYmdRZW44emU1SFNTU1pPalB5TUx2UXFLVnRFMkt0LWdIbEMtYWU4UTVrVEJ2SV9NTlI2SU01MHdfTTBQZVk3eG9IbVhHRXNxakh0OHNHTkkxYUJmZWRwYWFaQWN1aldnZUpsMDRMRmpGYUxXamxZN1QydHo4Z1lPelp5aXVPWjRKa1loUHhIQ2hWcFVoN1FhRzUySlNINzRRRk0?oc=5
-
-- "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
-  "Terror Will Have Consequences": India Hits
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
-
 - New-Age Tech Stocks: Insurtech Sell-Off Drags Combined M-Cap Down By $3.6 Bn This Week
   New-age tech stocks saw a sharp sell-off in PB Fintech and Turtlemint following IRDAI’s proposed commission.
   🔗 https://inc42.com/buzz/new-age-tech-stocks-insurtech-sell-off-drags-combined-m-cap-down-by-3-6-bn-this-week/
@@ -179,46 +119,6 @@
 - FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
   The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
   🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
-
-- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
-  ‘Shaken faith’:
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
-
-- Nationwide SIR Order Was Unanimous, Upheld By Top Court: Poll Body Amid Gyanesh Kumar Row - NDTV
-  Nationwide SIR Order Was Unanimous, Upheld By Top
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVlON3pEMVNaWFl4NlBxa3BHbUtuM1VIbG13azI3X2dlbXloR2trTVRnbFAzVEpBbW90dFRaTDZvNmFZQTRrZGpqU2gtajdsSDZWZnFfTVA5dHRiQmdKcHhZNU1rU0J1RmU2V3NhcHRBRWQwS1Q5dWtDbjhSZXJrY3BnbWZuc2hiTUpOMnhiU1Fzdzl6TjRjZjBCS2c2Q0IyTGhHWktTZ29QQWNvOU9PemFub0ZQTHZfMC1WUk54MEt6RXFUazlv0gHPAUFVX3lxTFB6Y3RZNEhlMWJLOU1GdnVuX003ek5uUDQ5aGtiTGNkNlRNdUFIS1NtM1lmZGVPTFpUaTNWNTExTjhqVUJWbHItZlJLcUtfQVZBeDg1QmhOUk1JcnQ5QmZPVmYyRWFWRGQxWm51SUtLRnVFaVBITFJsRlVhMVh4U25UU2JZc1JpbnZ4NlpRb3otSkJNMGVlQ3ZFQzJlOE1jLTJjTUVMN3pYcWFROVB5MlJpRGJzbXdwWVNHZUJWVjM0VXA1Nnp2TUNjeEdIbDRhcw?oc=5
-
-- Mamata vows Opposition unity on demands for removal of CEC Gyanesh Kumar - The Hindu
-  Mamata vows Opposition unity on demands for removal of
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmVVeEhhR2t0SzJDVEpRZ0J5aTB5RWdESldfY2psX1ZPdHhJRGdQMHlCWDVyd0FfNmxHakRKaFJlYk0wclUtUE50dHNKanVOLVBDcVZkazNrdHpIYXZLbmFBVnNpRTFQNzVBdUpyOVpkY3FfZV9lWWpoODNyNlZCaU9fSnoyU0VfSHREeGI1cXU3T2VOWTZneHNYN01NUEpmN3ZWeGdxeVJ2WkEzbkRwcHhrYzIyaHhUZVN1Vy1xdWVBWnhVNU9hUHF3X1pQV0nSAdYBQVVfeXFMTURFMkNEOTU1ZTB1Z2dzSWhQT3JVZzQtbVBWUThUaGthbk1mbURCQVVOTmpsc005YlgySzJTOUFnQVJfRjhDUDVkWlFYbGsxWFI3OXVuN0NlWmFrUUhudlkxNWJ0UWNucDRHOTZGdVZHOEpIU2NzVlhMOWs2NWJfZEJvNVFUbzVULU5uRzg5Z21Id2c0QnA5NlBkb0FrRjJCU2t6aWtXcHZGamJjYS1tU1p0Y0MzQlRHU2dtYUVLLUZNb2hfMmN2RHAwQkMtazZSZEhyYjVYUQ?oc=5
-
-- India news: New Delhi, Islamabad trade accusations at UN General Assembly - DW.com
-  India and Pakistan trade accusations at UN General Assembly
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnBsRk9WalNoYmdRZW44emU1SFNTU1pPalB5TUx2UXFLVnRFMkt0LWdIbEMtYWU4UTVrVEJ2SV9NTlI2SU01MHdfTTBQZVk3eG9IbVhHRXNxakh0OHNHTkkxYUJmZWRwYWFaQWN1aldnZUpsMDRMRmpGYUxXamxZN1QydHo4Z1lPelp5aXVPWjRKa1loUHhIQ2hWcFVoN1FhRzUySlNINzRRRk0?oc=5
-
-- "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
-  "Terror Will Have Consequences": India Hits
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
-
-- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
-  ‘Shaken faith’:
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
-
-- Nationwide SIR Order Was Unanimous, Upheld By Top Court: Poll Body Amid Gyanesh Kumar Row - NDTV
-  Nationwide SIR Order Was Unanimous, Upheld By Top
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVlON3pEMVNaWFl4NlBxa3BHbUtuM1VIbG13azI3X2dlbXloR2trTVRnbFAzVEpBbW90dFRaTDZvNmFZQTRrZGpqU2gtajdsSDZWZnFfTVA5dHRiQmdKcHhZNU1rU0J1RmU2V3NhcHRBRWQwS1Q5dWtDbjhSZXJrY3BnbWZuc2hiTUpOMnhiU1Fzdzl6TjRjZjBCS2c2Q0IyTGhHWktTZ29QQWNvOU9PemFub0ZQTHZfMC1WUk54MEt6RXFUazlv0gHPAUFVX3lxTFB6Y3RZNEhlMWJLOU1GdnVuX003ek5uUDQ5aGtiTGNkNlRNdUFIS1NtM1lmZGVPTFpUaTNWNTExTjhqVUJWbHItZlJLcUtfQVZBeDg1QmhOUk1JcnQ5QmZPVmYyRWFWRGQxWm51SUtLRnVFaVBITFJsRlVhMVh4U25UU2JZc1JpbnZ4NlpRb3otSkJNMGVlQ3ZFQzJlOE1jLTJjTUVMN3pYcWFROVB5MlJpRGJzbXdwWVNHZUJWVjM0VXA1Nnp2TUNjeEdIbDRhcw?oc=5
-
-- Mamata vows Opposition unity on demands for removal of CEC Gyanesh Kumar - The Hindu
-  Mamata vows Opposition unity on demands for removal of
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmVVeEhhR2t0SzJDVEpRZ0J5aTB5RWdESldfY2psX1ZPdHhJRGdQMHlCWDVyd0FfNmxHakRKaFJlYk0wclUtUE50dHNKanVOLVBDcVZkazNrdHpIYXZLbmFBVnNpRTFQNzVBdUpyOVpkY3FfZV9lWWpoODNyNlZCaU9fSnoyU0VfSHREeGI1cXU3T2VOWTZneHNYN01NUEpmN3ZWeGdxeVJ2WkEzbkRwcHhrYzIyaHhUZVN1Vy1xdWVBWnhVNU9hUHF3X1pQV0nSAdYBQVVfeXFMTURFMkNEOTU1ZTB1Z2dzSWhQT3JVZzQtbVBWUThUaGthbk1mbURCQVVOTmpsc005YlgySzJTOUFnQVJfRjhDUDVkWlFYbGsxWFI3OXVuN0NlWmFrUUhudlkxNWJ0UWNucDRHOTZGdVZHOEpIU2NzVlhMOWs2NWJfZEJvNVFUbzVULU5uRzg5Z21Id2c0QnA5NlBkb0FrRjJCU2t6aWtXcHZGamJjYS1tU1p0Y0MzQlRHU2dtYUVLLUZNb2hfMmN2RHAwQkMtazZSZEhyYjVYUQ?oc=5
-
-- India news: New Delhi, Islamabad trade accusations at UN General Assembly - DW.com
-  India and Pakistan trade accusations at UN General Assembly
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnBsRk9WalNoYmdRZW44emU1SFNTU1pPalB5TUx2UXFLVnRFMkt0LWdIbEMtYWU4UTVrVEJ2SV9NTlI2SU01MHdfTTBQZVk3eG9IbVhHRXNxakh0OHNHTkkxYUJmZWRwYWFaQWN1aldnZUpsMDRMRmpGYUxXamxZN1QydHo4Z1lPelp5aXVPWjRKa1loUHhIQ2hWcFVoN1FhRzUySlNINzRRRk0?oc=5
-
-- "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
-  "Terror Will Have Consequences": India Hits
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +149,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-26 20:36:57 UTC_
+_Last updated: 2026-09-27 03:12:51 UTC_
