@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
+- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
+  ‘Shaken faith’:
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
+
 - "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
   "Terror Will Have Consequences": India Hits
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
-
-- India at Asian Games: Highlights from Day 8 action as Sarvesh, Ancy, Abhay, Anahat win silvers; Parul, Tejaswin, Harita win bronze; two medals confirmed - ESPN India
-  India's medal tally at Asian Games stands at 12. Sarvesh, Ancy, Abhay, An
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbjZvb0c3YWJrWm1uSHlnSTFPRE5kYTJZSEQ0bXE3QUlqVG5kRF9rTjBMdzdCZkY4bHZ5QTl2NWhDNlhyQWNQbXR5VC1mcmhlZE11LVI3WUF1V0R6MlBXS1MwT01KclJ3TWlnRDZyWEg1SDQtcmN5dm5wVXNLMHF5d0l0dVp5TUJpYVV4ZkQwclVKaGVaUTRkbmxyY01icUFtNkNZSlpGdVNRWTJtYWVDWVdLWkM5c0JvRHdlMUJCTUJkbEFWRHpFZ1ZGMVo5MElMVnpxVnk2aDdCQTBSRDI1SFhBSFdYRVI3dVE?oc=5
-
-- Asian Games 2026 Day 9 Live Updates: Manu Bhaker, Esha Singh and Rahi Sarnobat in women's 25m pistol qualification; India's medal tally stands at 37 - The Times of India
-  India's medal tally stands at 37 for the Asian Games 2026.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQak5HZHBoOE5OaC0wbjE4TFUyRTl3YktOM280OThkMjBXY3NDMUl5UEQ5Q0lyTmNxSnFRUkhhNFExRFhrWnlJOHhHLWxHbnUtLXNSaFVrXzZMNlVnd2p3bzNaWlY5X2dCQlFFZzdaSDZ6U2c2cFlsa3VfNDVTZ1ktbVRHU01meklkVUQzNGtYLUs3bnVoZ1VUVkNLYXJsVXBxclU3UUJfbXdSa2lUUE1hMFRxa2Fhd09GdFctSHpjTjJlQXpRdVB6WHNVMTFQRkxuZXJ5bVd2azhSSlNaYUdUaGtqVlREUXlneXVDbXkxWTlCNWpOZ01RZkwzX3VqNWt5NnfSAYcCQVVfeXFMTlBId25BZ2s1cTFHSENsbXlUQm5jbkRudkRfdVpCYTJTY1Q5OFdITnEzWU14WjRIaFBKc3QwQnVhdTRIdVU5ZXllSjBQN2VKMlcwVS1senNJTWRTNUZhbG5WZEtsaHB4bTNHTE1tSmVGMnhYcHlkQ3JlR3ZCQVYzaEd5b0hpWGVmeTZwTTVrc0owZWR4OUFwalhWVTNYOUhFbE1jVnRTSHh4VnpUbGdoQmdPMlV2Szg1Mk1HX0J0ZDBoR3NjMnQ1QlhrWFk1UldacGVGdldNLVlHcjBLQWViaXBvalNVVEhsVE5fMlpOVWZldEVld0tGbXBKNjhJcU9rLWw1Tm42ZnM?oc=5
 
 - Asian Games 2026 live, September 28: Know India scores, updates and results from Day 9 - olympics.com
   Asian Games 2026 live, September 28: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjdpZEhNSXM2YmRMUWxGU0EyeUx0OFFHNlNCNTJFR1FyNWVZTHFJY3Fwa2FkTXJyTjJNYXFrc1RfOVBxdmQxMFpHWE9NVDY2d1pURTFTVHFqZzNPQU51OGNOOFJ2WXNRaHJUZENuUDRXSlpSV19pUDN3RXVFQVgxcmpQTXpPdzNteXJsdm8yZ3ZrVHROUFowNlJWN0U?oc=5
 
-- India sends life-saving medicines to Afghanistan as humanitarian aid - News On AIR
-  India sends life-saving medicines to Afghanistan as
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0k2bTdTMWk1VnRtSnVhMUNfRXhrckhDQzBYb1Y0U1pvenc5X0NTSDlrVTVKWHZYTjJPanF6bEdndzVac0JTampqVVNBbkNSazk0NzdYR0RjbFNsZTd2dFNlanBwdjBaYmlUMTdaUnQwYlFIdmZieUp6Wi1KTHFDZ3lDa2pBZFdRQ2FhUndUV243ZzBxSnBZRmt3?oc=5
+- India at Asian Games: Live updates from Day 9 action on September 28, 2026 in Aichi-Nagoya - ESPN India
+  India will be competing in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSlZ4OXE1NjlGWEFjaHNQUXJxbkF5cFJZTWZiU1NiUDlnSHNfR0JlVlQ1cmNud2FRUXpmbDZfMkkzal81Z2pleTZwZERIbS1rcktCZXRMeXpaM0ItUzRneWdsNzFTMUYyOG0zX1pkcEdkN0xUUy1LeTdnZ0huTHM4LVlxNVdZbVNfWFFOemNrUUM1LUVwN3YtMjN6WXlqdUpOaXhsWmNUVTRDbk1vSjVId2lyTGRYU0hwWEg2aU40WkR2NWxoZlpMeEVQdzJoVXpvaG56c0x1VXFSZzN5b0hFTUNZRzlYWGlINVE?oc=5
 
-- US jury says Apple owes record $5.7 billion in haptic technology patent case - reuters.com
-  US jury says Apple owes record $5.7 billion
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5
+- Tukaram Mundhe: Why some Indian civil servants become heroes for doing their jobs - bbc.com
+  Tukaram Mundhe: Why some Indian civil servants
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KN1pTMFAxYkxMN052U01TVjcweE1RWGNXNk9kTERiRWN0cUhZRnJQckhQOEFYY3J0bklFTzluMS1STTJMNnlFSmJlb2ZxNjVpZkVGanhhVDZsUGs?oc=5
 
-- Belagavi: Technology Business Incubator inaugurated at Visvesvaraya Technological University - The Hindu
-  Belagavi: Technology Business Incub
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxONXpfcFA1bDdkMS1SOVlqbGh5QmNKdXU5UUs2Q0xjc21XTXlEbm5IVEZTdXBSMTVvQVJHeGhMSGEyc19Mb3ozTEJpQ2FwaE9qNjd4eUc0T0VmOXBOTjNGdmIwXzUyOGRrNUt3SzNzTF9TS1hkY3RjdVRkWWpaejIzczAxUm4taVBwYkxVSGpibWtoS1lQTVFqdmFRUGNqUdIBpAFBVV95cUxOaTVqT1l4MDFtQ1VBLXVMZGQyNXM1UUhYczI0VWFPM2lIWEl0dk1qb1ZyNWVITVNKbEdCSy1qQzdJb1l4ZVBMWkdqRlZnVTk1ekM4SWpVYkhYOHlnZUM2a1M3S1l3NkY1Z3hReW1Db1h3eFVGcUoxRHV1SHVlY05ZemVGQU9JcWdCRkFzanRRZ2VxWGc1QXFnMWg5S2UyY3EyWFJ0Xw?oc=5
+- As A.I. Accelerates, Governments Are Increasingly Being Left Behind - The New York Times
+  As A.I. Accelerates, Governments Are
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5
 
-- OpenAI’s Systems Meddled With U.S. Government Sites After Going Rogue - nytimes.com
-  OpenAI’s Systems Medd
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5
+- Apple ordered to pay $5.7bn in haptic tech patent case - bbc.com
+  Apple ordered to pay $5.7
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YaU1QRjJWdFh3YnVMYjY2Um14SFhVbWpubjdPN0VWZXZpN3ExaUNWZVNud1FQM2phaUpFdU40NmdVUUpiS3g1b2hXSU5YTHk4Sm0zTVZ0TUdiYlk?oc=5
 
-- Video | NDTV Defence Summit 2026 | Army Chief's Big Message On Future Warfare, Technology & Soldiers - NDTV
-  The Army Chief of Staff spoke at the NDTV Defence Summit 2026
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVpuOG42SFBfTmJTaTgwbjVHUF9tcWVNU3JTMkl1Q2loQm5OU0xJZlhSVmN1V3RSX0VISmlVbWVPVmJSNmtzR0dpMlNNYVVULTk0aWtmdm5idk16M2Q3bkJ4aUxFTlNQRGI0ckZqNHoyRmZHaGtLQmh2WDZoY3BUamQxbUxFbGlhcUNKWkY3aTBEWnN1SHp2aHpXLW1OSkZ2VDJRVGowM0dPWFBlRVA5QzlFRzByMnVHZlVwUF9sbw?oc=5
+- Bengaluru's BMTC buses to get ADAS - The Hindu
+  Bengaluru's
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTkJlQmxBZUhQTXlpU09Od2NJTDhqaV96WmJoekdzdHdWYl9yekE4TS1lRlBvUmlTQXFLRWNydzl1WXpmdWxUYUhlV21tbDI5ZEQzX09ydWFXMktDNEVPWFE0ZDB5OWtUTDUtUHZLTEpxRVY2MGo0UzhrZWg2WEx4dDYwVl85VWxDeVlXSXpnRW5DdFhEa0RIaFpnTC01SGdMODI2WEtna2t1ZVBLTUFGdWVKTGl4VVBteWxmUmQ5VEdqOWIwNnBvazZPdXdTYnhScl83enBpdTZQZDRrX2U3OExJX1M2LTZ1OWtKRGQyblTSAfcBQVVfeXFMTmYxdkthVGJzRlhzdkgwZ01Ga29PMmNkVHhvWXFWbWFTeTlGZWlrZjdMc19iZXlDRnJtME4xdllOWUs4MEc3N2R3RUZBX2Y0ZldjbUJSaUlwM3oyaUViN2g3QXRienQ3RjAtSFY1VXFSaXoyM2k2czkteThVdUJCY0ZRanloN3djeXg0cTVsRUxhd1REcGRtWmhnZWJJUWc2RDhlQWF6bElPS1VHR2hMQUVxSkgxd1RtQmpRaEJ3VUxxdkVpSFpoVUpsT2lyM3d4RUxQRGNfbjhqeTA1UjRvMVBUTVVVTkMyU1RoWnZudm1Mel9ENkM1Yw?oc=5
 
-- ‘Charming and disarming’ … how Meta’s technology-packed Muse harnesses the power of cuteness - The Guardian
-  ‘Charming and disarming’ … how Meta
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMkxjMVYxVTlxdXdiNGdkclRoclBsNm5LRDNNX0NQNldmaE9BeGdVZlFNY0JUaTdSY3ZJZ2QxdHhPZWVsaXJZUFlqNXNaZExSeGdUMFVDRnN1TXZvWWdSTFhLY2JPdTBPQ0gwUkd2YmhWVEZQUEpkc1UxeE9fd0w1RTJxMklhVVhIWm4telVZMy1Yczg3YXBEaHAtdDhMWVRGM1lkYk90ZGJGV3NGTUIwcFlfUE9IYnRGclIzX1E2c3JOTGh6WThHR0FhVkRpb1FC?oc=5
+- Suzuki Charts Technology Strategy: Hybrid, Better Turbo, CNG, and More - CarWale
+  Suzuki Charts Technology Strategy:
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUJMc2FqZFpSZlFWSTFsNWx2emhqNHpCOGZDSWt2YURPMFQxZkQzODE1ZkRjMmU2aFdTbFEyT1lXT01hU1JNbFpnMWNEYVE4VGJPX0N1ZnFGeGZnSmd6MTNuWS1UR09MUjZIRnUxOHBYX1ZVQkFNbU10ZmlyOUNQWFNNNmx5ME1hMWRCUHJiSUZoZzJPWjVjWEQ0RUQ?oc=5
 
-- Tailwinds under-appreciated, India can absorb global shocks and grow: DBS Bank group chief economist Taimur Baig
-  DBS chief economist Taimur Baig says India and the global economy are coping better with shocks than many believe. Strong
-  🔗 https://www.livemint.com/companies/people/tailwinds-under-appreciated-india-can-absorb-global-shocks-and-grow-dbs-bank-group-chief-economist-taimur-baig-11790507179154.html
+- V Edition International Conference On Law, Technology & Artificial Intelligence: Towards Ethical,... - Live Law
+  V Edition International Conference On Law, Technology & Artificial Intelligence
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPQnNrQ3N3dmxUeUQ0Wlg2WElPT2U0LUtWWGRxLU1QX2thTlRuM1VldDltLTRldEcxLUJUeXd4cVN6Ujl6Mi11ejdsRWxwcGxVM1JSMHJtS1pzU1Yta2d5MjBwcmJsNWpiM3pIWUEwOElQa3E3MWFqVzk4a2RZMHpCUzhZTVpyUTk3X29ja3dDTzFpS08yYi1zRVQ3ellrQTBpamJKMHEtQlQ3bWkyYXl4NnpuMHVTWXlhXzFoeGdMT1AxdldMakxVZWkyZ056cDhoQWliZ0tENFFPcGljUDVhdVY4SlM5NGZMVjN1U2FXeVdCOXRULVJ5UnRtVXRkY0p3NzBV0gGIAkFVX3lxTFA4OXEweVZaZGEzcTNTTkh3bUFaVkxRS2ZHN3pPSjVyaEZwbXl3dzVScmg0NmVDM2hxdEpKWnNNaWJ5UjM1YUhQcVNzeURTSU9kdDlCX2R6Qm93ZkpkSWFYVjF0SHVzdmhCSjhpQ1cwbjVWdmtvODJ2aFFzU2pSbGxDeUZ6bXhZd09KZ0hQWUM0WU96M2FKSUl5eGlSU2QtdkFOaTZBNnlyRm1XUTFBc1JCTjlOYVhkbGJteDdqT01tdEZGWm9URzEwNmpTdTNWczVwOWxWTTJQUEdBZjdaRnl2Z2Fua2NHNG9XM3l5dzFGWVgxQXlUREtEeFJzVzBPSEdfQVJaRWRJSw?oc=5
 
-- Why Byju’s Aakash stake matters to creditors—and why cashing out won’t be easy
-  The terms of the settlement between Byju's and Aakash have not been disclosed. It leaves creditors with a key question: how much of A
-  🔗 https://www.livemint.com/companies/news/byjus-aakash-institute-insolvency-dispute-11790322698608.html
+- SpaceX Starship Flight 14: Why today’s launch matters for SpaceX, Starlink and Elon Musk’s Moon ambitions
+  SpaceX's Starship is set to attempt its first orbital launch on Monday. A successful launch could support broader goals, including lunar missions.
+  🔗 https://www.livemint.com/companies/news/spacex-starship-flight-14-why-today-s-launch-matters-for-spacex-starlink-and-elon-musk-s-moon-ambitions-11790593786190.html
 
-- Walmart says its not using personal information to set prices as it expands digital shelf labels
-  Walmart says it's not using personal information to set
-  🔗 https://www.livemint.com/companies/walmart-says-its-not-using-personal-information-to-set-prices-as-it-expands-digital-shelf-labels-11790539344317.html
+- Inherited turbulence: how Tata’s fragile budget bet tests Air India’s new boss
+  Tata Group is scaling Air India Express at breakneck speed, but the balance sheet is cracking under the strain. Incoming Air India chief Tewolde
+  🔗 https://www.livemint.com/companies/news/tewolde-gebremariam-air-india-express-tata-group-turnaround-11790588015970.html
 
-- Anthropic CEO Amodei to Meet Trump With AI Safety Concern Rising
-  Anthropic PBC Chief Executive Officer Dario Amodei is set to have dinner with President Donald Trump on Sunday.
-  🔗 https://www.livemint.com/companies/anthropic-ceo-amodei-to-meet-trump-with-ai-safety-concern-rising-11790536308195.html
+- High sugar, salt or fat? Your packaged food may soon carry a ‘warning symbol’
+  The FSSAI proposed adopting a red hexagonal warning label for packaged food products high in nutrients
+  🔗 https://www.livemint.com/companies/news/high-sugar-salt-or-fat-your-packaged-food-may-soon-carry-a-warning-symbol-11790586125263.html
 
-- Apple faces $5.7 billion hit over tech that makes iPhones ‘tap’ back - All you need to know
-  Apple faces more than $5.7 billion in damages after a US jury found it infringed two
-  🔗 https://www.livemint.com/companies/news/apple-faces-5-7-billion-hit-over-tech-that-makes-iphones-tap-back-all-you-need-to-know-11790524791143.html
+- Deciphering Tata Boardroom Battle: 5 imp questions on Veto, listing, Noel, Chandra, Singhvi-Salve entry answered | Excl
+  Tata Trusts retained senior counsel Abhishek Manu Singhvi, while Tata Sons is advised by Harish
+  🔗 https://www.livemint.com/companies/deciphering-tata-boardroom-battle-5-imp-questions-on-veto-listing-noel-chandra-singhvi-salve-entry-answered-excl-11790586833310.html
 
-- Global Funds End Underweight Position on China After Four Years
-  Global fund managers are dialing back their long-running retreat from Chinese
-  🔗 https://www.livemint.com/market/global-funds-end-underweight-position-on-china-after-four-years-11790564581419.html
+- MakeMyTrip introduces ‘Price Drop Protection’ for flyers: What is it? How does it work?
+  Price Drop Protection is an opt-in assurance feature available for both domestic and international flight book
+  🔗 https://www.livemint.com/companies/news/makemytrip-introduces-price-drop-protection-for-flyers-what-is-it-how-does-it-work-11790582833361.html
 
-- Top stocks in focus today: Investors must watch Power Grid, Cupid, SAIL shares on Monday, 28 Sept | Triggers
-  SAIL, Power Grid, KPI Green Energy, Godrej Properties, Zydus Lifesci
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-today-investors-must-watch-power-grid-cupid-sail-shares-on-monday-28-sept-triggers-11790558892670.html
+- Govt vs private banks dividend comparison: SBI, HDFC, ICICI, PNB, BoB, Axis, Canara - Which bank tops the yield chart?
+  Bank stocks often enjoy investors' attention. Here's a comparison of top four private and government banks and
+  🔗 https://www.livemint.com/market/stock-market-news/govt-vs-private-banks-dividend-comparison-sbi-hdfc-icici-pnb-bob-axis-canara-which-bank-tops-the-yield-chart-11790595950547.html
 
-- Wheat falls as markets monitor Black Sea export prospects
-  Wheat falls as
-  🔗 https://www.livemint.com/market/wheat-falls-as-markets-monitor-black-sea-export-prospects-11790558644308.html
+- This jewellery stock stages major turnaround, rebounds over 400% in three years; what’s behind the rally?
+  PC Jeweller's stock has rallied significantly, driven by debt repayment and strong financial performance. The company achieved debt-free status, improving its balance sheet
+  🔗 https://www.livemint.com/market/stock-market-news/this-jewellery-stock-stages-major-turnaround-rebounds-over-400-in-three-years-what-s-behind-the-rally-11790595739684.html
 
-- Sensex, Nifty 50 prediction today: Stock market outlook for Monday, 28 Sept - GIFT Nifty, Kospi, Nikkei signals
-  Gift Nifty was trading around the 23,161.50 level, down nearly 25.20 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-prediction-today-stock-market-outlook-for-monday-28-sept-gift-nifty-kospi-nikkei-signals-11790556532034.html
+- Should you consider global stocks as Nifty struggles to give returns? Key factors behind poor show; road map by experts
+  Experts emphasize the importance of geographical diversification in investment portfolios. With international markets showcasing growth, understanding when and what to invest in globally could be key to asset performance.
+  🔗 https://www.livemint.com/market/stock-market-news/should-you-consider-global-stocks-as-nifty-struggles-to-give-returns-key-factors-behind-poor-show-road-map-by-experts-11790593301146.html
 
-- Stock recommendations for 28 September from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 28 September. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-28-september-from-marketsmith-india-11790556576032.html
+- Top 2 stocks to buy or sell tomorrow: Laurus Labs, Indus Towers by Chandan Taparia - Check stop-loss, targets
+  The BSE Sensex was down 1,124.02 points (1.52%) and the NSE Nifty down 360.25 points ( 1.56
+  🔗 https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-or-sell-tomorrow-laurus-labs-indus-towers-by-chandan-taparia-check-stop-loss-targets-11790594465913.html
+
+- IPO frenzy attracts FPIs, even as stock selling hits  ₹25,682 crore in September: Will trend continue? Experts weigh in
+  FPIs sold large-cap stocks, they increasingly invested in mid- and small-sized stocks. FPI outflows totaled  ₹2,41
+  🔗 https://www.livemint.com/market/stock-market-news/ipo-frenzy-attracts-fpis-even-as-stock-selling-hits-rs-25-682-crore-in-september-will-trend-continue-experts-weigh-in-11790590623609.html
+
+- iPhone 17, iPhone 16 Flipkart Big Billion Days 2026 sale: Expected prices, bank offers, exchange deals
+   Flipkart Big Billion Days 2026 is expected to bring major discounts on the Apple iPhone 17 and iPhone 16, with additional bank and exchange offers. The iPhone 17 has been teased at a price in the 
+  🔗 https://www.livemint.com/technology/iphone-17-iphone-16-flipkart-big-billion-days-2026-sale-expected-prices-bank-offers-exchange-deals-11790579337028.html
+
+- iPhone 18 Pro Max vs Galaxy S26 Ultra camera: Key differences in zoom, video and more
+  iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra camera comparison. Check the key differences in camera hardware,
+  🔗 https://www.livemint.com/technology/iphone-18-pro-max-vs-galaxy-s26-ultra-camera-key-differences-in-zoom-video-and-more-11790576259317.html
 
 - AI adoption set to accelerate, but data centres may not deliver comparable job gains: WEF
   Artificial intelligence adoption is expected to accelerate globally over the next 12 months. Concerns persist over the ability of data-centre investment to generate comparable employment.
@@ -92,133 +100,125 @@
    WhatsApp is reportedly testing a redesigned Android bottom navigation bar. Spotted in beta version 2.26.38.10, the bar features
   🔗 https://www.livemint.com/technology/whatsapp-android-app-users-may-soon-get-an-iphone-like-navigation-makeover-with-tabs-and-controls-redesigned-report-11790502398641.html
 
-- AI integration, digital platforms steer growth across Indias expanding tourism landscape
-  Artificial intelligence and digital platforms are increasingly steering the Indian tourism sector. They are driving more personalised and
-  🔗 https://www.livemint.com/technology/ai-integration-digital-platforms-steer-growth-across-indias-expanding-tourism-landscape-11790493781275.html
-
-- When AI agents go rogue: Australia breach offers warning for countries like India
-  Australia breach offers warning for countries like India
-  🔗 https://www.livemint.com/technology/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india-11790481067426.html
-
-- Oil Up, Stock Futures Slip as Iran Offer Rejected: Markets Wrap - Bloomberg
-  Oil Up, Stock Futures Slip as Iran
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGEzeTM5UEZjTzRrYWs4T0hyTTAtRVpvWkJ3UFhUVUNxNF9fQTZBM0JHcHh2WFk4MlFQemNVM1RWMW9RQUh0ZUlEZlYwZ21obEJnRXVjOE5QM2ZFYVEtbHNVNmZ4bUdCRU9FaDRUa3Y3VGpsVHk2MzU1LVU2TmJSY3dGR05mdUhsQ2lnZGQzVndvR1dr?oc=5
-
-- The Bond Market Is Getting Closer to Sounding Alarm on Economy - Bloomberg
-  The Bond Market Is Getting Closer to Sound
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTFrYzFvbDRlX0l0RU82NG1VZElManl5VkJCNk9FbUNfakVQaDlqYVZFWjUzWHpOWlJIeEtTRUw0bVZDN09XbzJEY2wwZmRWQ3hVaUhEaWpRNl9XSFFJTlN0QVg0aVd0NUhNcGdPWXdoVnh1MHhsYUFMRXFETElzS1E1eWdZWWFzaFhORzdSZXVWQlNhWE9zbTNkS09MWnBpQUNZS3JoUTRZTFd3ZWhWVUtKWQ?oc=5
-
-- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Lower Amid Mixed Global Cues - NDTV
-  Stock Market LIVE Updates: Sensex Today: Markets Likely To Open
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZjRoQ1pKYzVTYTNXaWFWS1FjZnI3QV9iVk5wTUtiTUU1OWxUdEF0S015Q0hycWhHdzNRQ1dYd1FoWVJldVgtV1F6bjVveXJJLThob0Ftc2JFUEtxMlp2MXhzMmR6QjRUMTl4dVIxUUlZTmo3eG1ncGhwZS1IdThocms0ajNORXlHVzZxbTlMWFd6Z2EtcWU1VGRlRDBPYjB3WjVBak81Vlh2M0dGNTJNb3JnX3BYOVdNY2xUS2tGT1ZzSDY4RHpuQ3hSbmY5Y2h3VkhtT3FISk1ibllhZzg2V2ZEVUg0SW1K0gHwAUFVX3lxTE1xVVNLSEJ3Vnl4RzNCZ3ltZlBZM29LTHZSbDYyZ0FWMjlzNWZfdzVSbVlXZ3dMYi1fcmVKQ1FTUk1WSVdiQldVNndVb0x6WmswLV9TVXRIb1JndlBRZzFaNXFFWmZSUUJMT29VaFVQdlZjZVJRRVdGWXcyQnp3UEVBREtFcDZXNW9udTR6eHlRSVVYNUJGeWR2XzhLamlUUGwtaWpOaGwtand1X2NGQUNOYklsLTQxanR0TW9yQ0xFeEM3ZGd1LXRWR0dranFvUkZXODg5SVg5OW5aZllnYlhwQ0RGV2RxbjMxMko2c2t2Uw?oc=5
-
-- Stock futures slip after winning week on Wall Street: Live updates - CNBC
-  Stock futures slip after winning week on Wall Street
+- Nasdaq futures down 1% after winning week on Wall Street: Live updates - CNBC
+  Nasdaq futures down 1% after winning week
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBfcHBSWXRJblRwTG9LU2FTa2padU81clRCNUE5aVFMSHRsMEVXNWVKd1RINFM2VjhCSFNyOUVEVTBFTkgxeG5NSVBPWXZnWkE5Zi1fWTE1c042R2diaGNaUG52Qm1Zbjc5TVlSdTRWRlFKQ21laXJF0gF8QVVfeXFMUF9sSmc0eVlfc0psUWhFVUc3WVNwWFZlSldzSUtXamRDd0VKQTRqRjMxSWNGSEdTZDJBWEVtS0JkVThUV1I5cVFCNHV4UjZxQVcwR09qRnRRVHBFeTR6Qk84WEY5Y05vZlNZNU5NQnYxV0ZTSlJsSi1VNkQtVw?oc=5
+
+- Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwgJBVV95cUxPQ3drbk9QbWRHcU9uVDJLU0EydWpPdVZRVE1rTEE5bFZadHZmUVJPeG9nUjVYWnVvSTkzNzFyNFo3TWhfN1lzX0ZScEVrSnZETUJ2MmtDaE1XYjc2TXo2a1p0UWZhcHprU1
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxPQ3drbk9QbWRHcU9uVDJLU0EydWpPdVZRVE1rTEE5bFZadHZmUVJPeG9nUjVYWnVvSTkzNzFyNFo3TWhfN1lzX0ZScEVrSnZETUJ2MmtDaE1XYjc2TXo2a1p0UWZhcHprU1lwM3V3YUNUVzlTc3l4UXdCLVExX3dLQTdRaGh5Rk0xUDQtR2lkY3Mxd29QSHNPRU5fRDFYRVBSbC03X2pFaGpnWlJ6MFZDUGlicHlPUUpXeDh4ZU94UWR5ZHNCZ0pydDdFdHZNSjgyRThId0JfSlcxVzFibmR3clVwQzllekZnLUJ1LTdZcHpsRkt1YzN0b1FBT2FkZF9zblJkRlIxdmZfdzNFSXllSDM3b19zME9xaXhlWGk0Qjd5TWwxdDJaenFsOE5iOUNOU2VKRkxYazExZVAxYWJuVVVn0gHHAkFVX3lxTE1EMGdQdWlWbVp5aUpTbEJmb0M5dWQ5X0xJYmNpTFJJVERpUDZkcVo5V1ZGeTNyR3VmYjUyUDF0bG1HVlBGQ21nNDBfU1RZRTdYTEZFTy11OXExZmNOdzRwQTFQNlBRcFZ6NVdDSFFkeWdkV1ZGdm14cXpoTTc5eFc2WkZnVTQ1SlZ3NmxCOWk1b1BWU3doODZadUV0c0tkQ0VCeERINlczUmlYWmJ2MjNoblhPeWtqa0NvU3ZRcGw4NlQ3Mk5GcTFlZDIzQlN4SWxiNE5Md0ctQVBmMklselFGekszWTlFM2JFN244eVJtOHctcnFCc0RVM0Z4OUlqVmctZ25xTDVnTTV4djlfc2U3T2pkeC0tajA2ZnVKRDk3eEJ2ZkNWSmZicmVEOXN0UHpfRkJQdlZMLTVveENMYmdJenM0UFRfRQ?oc=5
+
+- Ashish Kacholia, Mukul Agrawal see over 70x returns from ESDS Software Solution's rally - Moneycontrol.com
+  Moneycontrol.com is a leading provider of technology solutions
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQjEzajctSTV5X2hfeXptOEpaaTFJY2tLR0JESmE4ekRBR1lPYml4Y2o5T2JfbXpab1EyaDEyTWhaZGlDRk9aY2pGV1dZc2lZRzFDYWlLNllmcXJ6TDlOeDVoVlhoQlFFbkp0d054SU8wbFBIOHBFRjdMNDJJTTFfYUp6S2ZGck1DY2NEdkhyRTJXenFwTlVmeHlrUXVIMFpKdEI4UEkyWUZTUzNrcmdWbTltTVBCVVJkclZPUnpDcnpZYW1KNWNXYWdVZm85ZmxEZXN1ZkladzdObjl5Umk3dXhzYm1KZ9IB6wFBVV95cUxPQXAtbUtHb0Z1cGN0Wkw5bUpDcmk4Nk1wUjFValFjY1I0Q2F5SzZvSkRCT3lvX0hMXzVFSDctdV95NHhKX3pyS0tIZktQQURtRDdUSThKUVZDbk02dzI3a3lmTEJHRXI1dnV5bHMySXpGVVE4dXNhNkcxVV9FcGRkcDVNTWtWd0Q0eTQ0LWRMVGtyUHJ2TFo4SnpZN0lWMS1aZ2pseHdxNThhNzJ3WW5LelluVWVObGp6UjZLM28xU2EzZ2dxeDhUNkVVd0lTTEM5TjRxbWNucHNubF9IUjlCMmVKcFpQZDdNS0Vn?oc=5
+
+- Canadian stock futures slip as markets gear up for heavy-data week - Investing.com
+  Canadian stock futures slip as markets gear up for
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVhWWnQ2TXpqSExSU29GTUstZVZXV1ZDakFjVnhPajc5RDBFN1pNVjI1c3BRWkFhWDc3STlOOF9CeGJFRDlmZ0JwV1NscFFJb243eHRBbUkyM25TV2pWQkRFNDZ1Vi1RaE1QNVd3UFlWcTV6bVFHUTVIal9KNlNDUWZrOHZodi1nMm5rT0dkNkdBbDVwdll5M0pucU1PdERtY3pMWVZSc0tnSDJhZnNmNjRVRjJBNVdsSGozQl9Lcw?oc=5
 
 - World’s worst-performing market slashes minimum price for stocks - Financial Times
   World’s worst-performing
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVZPeW5MSjBpdTRTVlVIek4xM0xObEhxaURGdlk5R2VDWl9rajZ0bUM1ajlxc0haYzVqYy1jUWU1bWtiZEFHdzkxeWttaTNLWFp0X3NsSFY2VnNXQURuWFBRQTNvcWgxNHZDMmJSb0JtdFhnTHh2a1JNaTVkYV9ZckRqQUs?oc=5
 
-- SRIT India IPO opens today: GMP signals 12% premium; check key details
-  SRIT India IPO is a Rs 218.40-crore book-built issue. IPO has no
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/srit-india-ipo-opens-today-gmp-signals-12-premium-check-key-details/articleshow/134529928.cms
+- Nasdaq futures down 1% after winning week on Wall Street: Live updates - CNBC
+  Nasdaq futures down 1% after winning week
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBfcHBSWXRJblRwTG9LU2FTa2padU81clRCNUE5aVFMSHRsMEVXNWVKd1RINFM2VjhCSFNyOUVEVTBFTkgxeG5NSVBPWXZnWkE5Zi1fWTE1c042R2diaGNaUG52Qm1Zbjc5TVlSdTRWRlFKQ21laXJF0gF8QVVfeXFMUF9sSmc0eVlfc0psUWhFVUc3WVNwWFZlSldzSUtXamRDd0VKQTRqRjMxSWNGSEdTZDJBWEVtS0JkVThUV1I5cVFCNHV4UjZxQVcwR09qRnRRVHBFeTR6Qk84WEY5Y05vZlNZNU5NQnYxV0ZTSlJsSi1VNkQtVw?oc=5
 
-- Three SME IPOs set to list today: Robokidz, FX Multitech, Vivekanand Cotspin in focus
-  The three IPOs sought to raise around Rs 98.53 crore from investors. Among them, Vivekanand Cotspin raised Rs 22.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/three-sme-ipos-set-to-list-today-robokidz-fx-multitech-vivekanand-cotspin-in-focus/articleshow/134529973.cms
+- Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwgJBVV95cUxPQ3drbk9QbWRHcU9uVDJLU0EydWpPdVZRVE1rTEE5bFZadHZmUVJPeG9nUjVYWnVvSTkzNzFyNFo3TWhfN1lzX0ZScEVrSnZETUJ2MmtDaE1XYjc2TXo2a1p0UWZhcHprU1
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxPQ3drbk9QbWRHcU9uVDJLU0EydWpPdVZRVE1rTEE5bFZadHZmUVJPeG9nUjVYWnVvSTkzNzFyNFo3TWhfN1lzX0ZScEVrSnZETUJ2MmtDaE1XYjc2TXo2a1p0UWZhcHprU1lwM3V3YUNUVzlTc3l4UXdCLVExX3dLQTdRaGh5Rk0xUDQtR2lkY3Mxd29QSHNPRU5fRDFYRVBSbC03X2pFaGpnWlJ6MFZDUGlicHlPUUpXeDh4ZU94UWR5ZHNCZ0pydDdFdHZNSjgyRThId0JfSlcxVzFibmR3clVwQzllekZnLUJ1LTdZcHpsRkt1YzN0b1FBT2FkZF9zblJkRlIxdmZfdzNFSXllSDM3b19zME9xaXhlWGk0Qjd5TWwxdDJaenFsOE5iOUNOU2VKRkxYazExZVAxYWJuVVVn0gHHAkFVX3lxTE1EMGdQdWlWbVp5aUpTbEJmb0M5dWQ5X0xJYmNpTFJJVERpUDZkcVo5V1ZGeTNyR3VmYjUyUDF0bG1HVlBGQ21nNDBfU1RZRTdYTEZFTy11OXExZmNOdzRwQTFQNlBRcFZ6NVdDSFFkeWdkV1ZGdm14cXpoTTc5eFc2WkZnVTQ1SlZ3NmxCOWk1b1BWU3doODZadUV0c0tkQ0VCeERINlczUmlYWmJ2MjNoblhPeWtqa0NvU3ZRcGw4NlQ3Mk5GcTFlZDIzQlN4SWxiNE5Md0ctQVBmMklselFGekszWTlFM2JFN244eVJtOHctcnFCc0RVM0Z4OUlqVmctZ25xTDVnTTV4djlfc2U3T2pkeC0tajA2ZnVKRDk3eEJ2ZkNWSmZicmVEOXN0UHpfRkJQdlZMLTVveENMYmdJenM0UFRfRQ?oc=5
 
-- Four SME IPOs to open for subscription today: Check price band, lot size and key details
-  Acme Universal Safezone 9 is the largest issue at Rs 35.93 crore. Shree TNB Polymers at Rs 31.80 crore, Pind Hospitality at Rs 17.82 crore and
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/four-sme-ipos-to-open-for-subscription-today-check-price-band-lot-size-and-key-details/articleshow/134529913.cms
+- Ashish Kacholia, Mukul Agrawal see over 70x returns from ESDS Software Solution's rally - Moneycontrol.com
+  Moneycontrol.com is a leading provider of technology solutions
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQjEzajctSTV5X2hfeXptOEpaaTFJY2tLR0JESmE4ekRBR1lPYml4Y2o5T2JfbXpab1EyaDEyTWhaZGlDRk9aY2pGV1dZc2lZRzFDYWlLNllmcXJ6TDlOeDVoVlhoQlFFbkp0d054SU8wbFBIOHBFRjdMNDJJTTFfYUp6S2ZGck1DY2NEdkhyRTJXenFwTlVmeHlrUXVIMFpKdEI4UEkyWUZTUzNrcmdWbTltTVBCVVJkclZPUnpDcnpZYW1KNWNXYWdVZm85ZmxEZXN1ZkladzdObjl5Umk3dXhzYm1KZ9IB6wFBVV95cUxPQXAtbUtHb0Z1cGN0Wkw5bUpDcmk4Nk1wUjFValFjY1I0Q2F5SzZvSkRCT3lvX0hMXzVFSDctdV95NHhKX3pyS0tIZktQQURtRDdUSThKUVZDbk02dzI3a3lmTEJHRXI1dnV5bHMySXpGVVE4dXNhNkcxVV9FcGRkcDVNTWtWd0Q0eTQ0LWRMVGtyUHJ2TFo4SnpZN0lWMS1aZ2pseHdxNThhNzJ3WW5LelluVWVObGp6UjZLM28xU2EzZ2dxeDhUNkVVd0lTTEM5TjRxbWNucHNubF9IUjlCMmVKcFpQZDdNS0Vn?oc=5
 
-- Oil Price Today (September 28): Crude oil gains to $106 as Trump rejects Iran deal. Where are prices headed?
-  Brent crude futures rose $1.65, or 1.50%, to $106 a barrel. US
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-28-crude-oil-gains-to-106-as-trump-rejects-iran-deal-where-are-prices-headed/articleshow/134529904.cms
+- Canadian stock futures slip as markets gear up for heavy-data week - Investing.com
+  Canadian stock futures slip as markets gear up for
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVhWWnQ2TXpqSExSU29GTUstZVZXV1ZDakFjVnhPajc5RDBFN1pNVjI1c3BRWkFhWDc3STlOOF9CeGJFRDlmZ0JwV1NscFFJb243eHRBbUkyM25TV2pWQkRFNDZ1Vi1RaE1QNVd3UFlWcTV6bVFHUTVIal9KNlNDUWZrOHZodi1nMm5rT0dkNkdBbDVwdll5M0pucU1PdERtY3pMWVZSc0tnSDJhZnNmNjRVRjJBNVdsSGozQl9Lcw?oc=5
 
-- Positive Breakout: These 6 stocks cross above their 200 DMAs
-  As long as a stock's price remains above its 200-day moving average on the daily timeframe, it
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-stocks-cross-above-their-200-dmas/slideshow/134529896.cms
+- World’s worst-performing market slashes minimum price for stocks - Financial Times
+  World’s worst-performing
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVZPeW5MSjBpdTRTVlVIek4xM0xObEhxaURGdlk5R2VDWl9rajZ0bUM1ajlxc0haYzVqYy1jUWU1bWtiZEFHdzkxeWttaTNLWFp0X3NsSFY2VnNXQURuWFBRQTNvcWgxNHZDMmJSb0JtdFhnTHh2a1JNaTVkYV9ZckRqQUs?oc=5
 
-- "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
-  "Terror Will Have Consequences": India Hits
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
-
-- India at Asian Games: Highlights from Day 8 action as Sarvesh, Ancy, Abhay, Anahat win silvers; Parul, Tejaswin, Harita win bronze; two medals confirmed - ESPN India
-  India's medal tally at Asian Games stands at 12. Sarvesh, Ancy, Abhay, An
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbjZvb0c3YWJrWm1uSHlnSTFPRE5kYTJZSEQ0bXE3QUlqVG5kRF9rTjBMdzdCZkY4bHZ5QTl2NWhDNlhyQWNQbXR5VC1mcmhlZE11LVI3WUF1V0R6MlBXS1MwT01KclJ3TWlnRDZyWEg1SDQtcmN5dm5wVXNLMHF5d0l0dVp5TUJpYVV4ZkQwclVKaGVaUTRkbmxyY01icUFtNkNZSlpGdVNRWTJtYWVDWVdLWkM5c0JvRHdlMUJCTUJkbEFWRHpFZ1ZGMVo5MElMVnpxVnk2aDdCQTBSRDI1SFhBSFdYRVI3dVE?oc=5
-
-- Asian Games 2026 Day 9 Live Updates: Manu Bhaker, Esha Singh and Rahi Sarnobat in women's 25m pistol qualification; India's medal tally stands at 37 - The Times of India
-  India's medal tally stands at 37 for the Asian Games 2026.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQak5HZHBoOE5OaC0wbjE4TFUyRTl3YktOM280OThkMjBXY3NDMUl5UEQ5Q0lyTmNxSnFRUkhhNFExRFhrWnlJOHhHLWxHbnUtLXNSaFVrXzZMNlVnd2p3bzNaWlY5X2dCQlFFZzdaSDZ6U2c2cFlsa3VfNDVTZ1ktbVRHU01meklkVUQzNGtYLUs3bnVoZ1VUVkNLYXJsVXBxclU3UUJfbXdSa2lUUE1hMFRxa2Fhd09GdFctSHpjTjJlQXpRdVB6WHNVMTFQRkxuZXJ5bVd2azhSSlNaYUdUaGtqVlREUXlneXVDbXkxWTlCNWpOZ01RZkwzX3VqNWt5NnfSAYcCQVVfeXFMTlBId25BZ2s1cTFHSENsbXlUQm5jbkRudkRfdVpCYTJTY1Q5OFdITnEzWU14WjRIaFBKc3QwQnVhdTRIdVU5ZXllSjBQN2VKMlcwVS1senNJTWRTNUZhbG5WZEtsaHB4bTNHTE1tSmVGMnhYcHlkQ3JlR3ZCQVYzaEd5b0hpWGVmeTZwTTVrc0owZWR4OUFwalhWVTNYOUhFbE1jVnRTSHh4VnpUbGdoQmdPMlV2Szg1Mk1HX0J0ZDBoR3NjMnQ1QlhrWFk1UldacGVGdldNLVlHcjBLQWViaXBvalNVVEhsVE5fMlpOVWZldEVld0tGbXBKNjhJcU9rLWw1Tm42ZnM?oc=5
-
-- Asian Games 2026 live, September 28: Know India scores, updates and results from Day 9 - olympics.com
-  Asian Games 2026 live, September 28: Know India scores,
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjdpZEhNSXM2YmRMUWxGU0EyeUx0OFFHNlNCNTJFR1FyNWVZTHFJY3Fwa2FkTXJyTjJNYXFrc1RfOVBxdmQxMFpHWE9NVDY2d1pURTFTVHFqZzNPQU51OGNOOFJ2WXNRaHJUZENuUDRXSlpSV19pUDN3RXVFQVgxcmpQTXpPdzNteXJsdm8yZ3ZrVHROUFowNlJWN0U?oc=5
-
-- India sends life-saving medicines to Afghanistan as humanitarian aid - News On AIR
-  India sends life-saving medicines to Afghanistan as
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0k2bTdTMWk1VnRtSnVhMUNfRXhrckhDQzBYb1Y0U1pvenc5X0NTSDlrVTVKWHZYTjJPanF6bEdndzVac0JTampqVVNBbkNSazk0NzdYR0RjbFNsZTd2dFNlanBwdjBaYmlUMTdaUnQwYlFIdmZieUp6Wi1KTHFDZ3lDa2pBZFdRQ2FhUndUV243ZzBxSnBZRmt3?oc=5
-
-- The Bharat Taxi Row, Weekly Funding Rebounds & More
-  The arrival of Bharat Taxi promised zero commissions and empowered drivers. But its rollout has triggered a series of allegations.
-  🔗 https://inc42.com/buzz/the-bharat-taxi-row-weekly-funding-rebounds-more/
-
-- Policybazaar, Turtlemint Feel The Squeeze
-  Riya, 27, wants to buy her first family-floater health cover on Policybazaar. But before she sees a single price
-  🔗 https://inc42.com/features/policybazaar-turtlemint-feel-the-squeeze/
-
-- Indian Startup IPO Tracker 2026
-  Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
-  🔗 https://inc42.com/features/indian-startup-ipo-tracker-2026/
-
-- Spinny’s IPO Ride, But What’s Under The Hood?
-  Five years ago, CarTrade became one of the first digital auto marketplaces to test India’s public markets.
-  🔗 https://inc42.com/features/spinnys-ipo-ride-but-whats-under-the-hood/
-
-- New-Age Tech Stocks: Insurtech Sell-Off Drags Combined M-Cap Down By $3.6 Bn This Week
-  New-age tech stocks saw a sharp sell-off in PB Fintech and Turtlemint following IRDAI’s proposed commission.
-  🔗 https://inc42.com/buzz/new-age-tech-stocks-insurtech-sell-off-drags-combined-m-cap-down-by-3-6-bn-this-week/
+- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
+  ‘Shaken faith’:
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
 
 - "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
   "Terror Will Have Consequences": India Hits
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
 
-- India at Asian Games: Highlights from Day 8 action as Sarvesh, Ancy, Abhay, Anahat win silvers; Parul, Tejaswin, Harita win bronze; two medals confirmed - ESPN India
-  India's medal tally at Asian Games stands at 12. Sarvesh, Ancy, Abhay, An
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbjZvb0c3YWJrWm1uSHlnSTFPRE5kYTJZSEQ0bXE3QUlqVG5kRF9rTjBMdzdCZkY4bHZ5QTl2NWhDNlhyQWNQbXR5VC1mcmhlZE11LVI3WUF1V0R6MlBXS1MwT01KclJ3TWlnRDZyWEg1SDQtcmN5dm5wVXNLMHF5d0l0dVp5TUJpYVV4ZkQwclVKaGVaUTRkbmxyY01icUFtNkNZSlpGdVNRWTJtYWVDWVdLWkM5c0JvRHdlMUJCTUJkbEFWRHpFZ1ZGMVo5MElMVnpxVnk2aDdCQTBSRDI1SFhBSFdYRVI3dVE?oc=5
-
-- Asian Games 2026 Day 9 Live Updates: Manu Bhaker, Esha Singh and Rahi Sarnobat in women's 25m pistol qualification; India's medal tally stands at 37 - The Times of India
-  India's medal tally stands at 37 for the Asian Games 2026.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQak5HZHBoOE5OaC0wbjE4TFUyRTl3YktOM280OThkMjBXY3NDMUl5UEQ5Q0lyTmNxSnFRUkhhNFExRFhrWnlJOHhHLWxHbnUtLXNSaFVrXzZMNlVnd2p3bzNaWlY5X2dCQlFFZzdaSDZ6U2c2cFlsa3VfNDVTZ1ktbVRHU01meklkVUQzNGtYLUs3bnVoZ1VUVkNLYXJsVXBxclU3UUJfbXdSa2lUUE1hMFRxa2Fhd09GdFctSHpjTjJlQXpRdVB6WHNVMTFQRkxuZXJ5bVd2azhSSlNaYUdUaGtqVlREUXlneXVDbXkxWTlCNWpOZ01RZkwzX3VqNWt5NnfSAYcCQVVfeXFMTlBId25BZ2s1cTFHSENsbXlUQm5jbkRudkRfdVpCYTJTY1Q5OFdITnEzWU14WjRIaFBKc3QwQnVhdTRIdVU5ZXllSjBQN2VKMlcwVS1senNJTWRTNUZhbG5WZEtsaHB4bTNHTE1tSmVGMnhYcHlkQ3JlR3ZCQVYzaEd5b0hpWGVmeTZwTTVrc0owZWR4OUFwalhWVTNYOUhFbE1jVnRTSHh4VnpUbGdoQmdPMlV2Szg1Mk1HX0J0ZDBoR3NjMnQ1QlhrWFk1UldacGVGdldNLVlHcjBLQWViaXBvalNVVEhsVE5fMlpOVWZldEVld0tGbXBKNjhJcU9rLWw1Tm42ZnM?oc=5
-
 - Asian Games 2026 live, September 28: Know India scores, updates and results from Day 9 - olympics.com
   Asian Games 2026 live, September 28: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjdpZEhNSXM2YmRMUWxGU0EyeUx0OFFHNlNCNTJFR1FyNWVZTHFJY3Fwa2FkTXJyTjJNYXFrc1RfOVBxdmQxMFpHWE9NVDY2d1pURTFTVHFqZzNPQU51OGNOOFJ2WXNRaHJUZENuUDRXSlpSV19pUDN3RXVFQVgxcmpQTXpPdzNteXJsdm8yZ3ZrVHROUFowNlJWN0U?oc=5
 
-- India sends life-saving medicines to Afghanistan as humanitarian aid - News On AIR
-  India sends life-saving medicines to Afghanistan as
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0k2bTdTMWk1VnRtSnVhMUNfRXhrckhDQzBYb1Y0U1pvenc5X0NTSDlrVTVKWHZYTjJPanF6bEdndzVac0JTampqVVNBbkNSazk0NzdYR0RjbFNsZTd2dFNlanBwdjBaYmlUMTdaUnQwYlFIdmZieUp6Wi1KTHFDZ3lDa2pBZFdRQ2FhUndUV243ZzBxSnBZRmt3?oc=5
+- India at Asian Games: Live updates from Day 9 action on September 28, 2026 in Aichi-Nagoya - ESPN India
+  India will be competing in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSlZ4OXE1NjlGWEFjaHNQUXJxbkF5cFJZTWZiU1NiUDlnSHNfR0JlVlQ1cmNud2FRUXpmbDZfMkkzal81Z2pleTZwZERIbS1rcktCZXRMeXpaM0ItUzRneWdsNzFTMUYyOG0zX1pkcEdkN0xUUy1LeTdnZ0huTHM4LVlxNVdZbVNfWFFOemNrUUM1LUVwN3YtMjN6WXlqdUpOaXhsWmNUVTRDbk1vSjVId2lyTGRYU0hwWEg2aU40WkR2NWxoZlpMeEVQdzJoVXpvaG56c0x1VXFSZzN5b0hFTUNZRzlYWGlINVE?oc=5
+
+- Tukaram Mundhe: Why some Indian civil servants become heroes for doing their jobs - bbc.com
+  Tukaram Mundhe: Why some Indian civil servants
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KN1pTMFAxYkxMN052U01TVjcweE1RWGNXNk9kTERiRWN0cUhZRnJQckhQOEFYY3J0bklFTzluMS1STTJMNnlFSmJlb2ZxNjVpZkVGanhhVDZsUGs?oc=5
+
+- PB Fintech Sheds Over ₹34K Cr In M-Cap In 3 Sessions, Turtlemint Loses ₹1,549 Cr
+  Shares of insurtech companies Turtlemint and PB Fintech continued to spiral today, losing over ₹35,705 Cr in cumulative
+  🔗 https://inc42.com/buzz/pb-fintech-sheds-over-%e2%82%b934k-cr-in-m-cap-in-3-sessions-turtlemint-loses-%e2%82%b91549-cr/
+
+- Snapdeal Parent AceVector’s IPO Subscribed 96% On Day 2 So Far
+  Snapdeal parent Ace Vector’s ₹420 Cr IPO has been subscribed 96% as of 14:33 IST on the second
+  🔗 https://inc42.com/buzz/snapdeal-parent-acevectors-ipo-subscribed-96-on-day-2-so-far/
+
+- SC Refuses To Stay UPI MDR, Seeks Centre’s Response On ₹2,000 Threshold
+  The Supreme Court today refused to stay the Centre’s decision to introduce merchant discount rate (MDR) charges on select UPI&
+  🔗 https://inc42.com/buzz/sc-refuses-to-stay-upi-mdr-seeks-centres-response-on-%e2%82%b92000-threshold/
+
+- Moneyview IPO Oversubscribed 31.41X On Day 3 So Far
+  Moneyview’s IPO was oversubscribed 31.41X by 13:45 IST on the final day of bidding today.
+  🔗 https://inc42.com/buzz/moneyview-ipo-oversubscribed-31-41x-on-day-3-so-far/
+
+- ED Attaches Another ₹442 Cr Assets In Gameskraft’s RummyCulture Probe
+  The Enforcement Directorate (ED) has provisionally attached movable and immovable assets worth around ₹442.35 Cr in the money
+  🔗 https://inc42.com/buzz/ed-attaches-another-%e2%82%b9442-cr-assets-in-gameskrafts-rummyculture-probe/
+
+- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
+  ‘Shaken faith’:
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
 
 - "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
   "Terror Will Have Consequences": India Hits
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
 
-- India at Asian Games: Highlights from Day 8 action as Sarvesh, Ancy, Abhay, Anahat win silvers; Parul, Tejaswin, Harita win bronze; two medals confirmed - ESPN India
-  India's medal tally at Asian Games stands at 12. Sarvesh, Ancy, Abhay, An
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbjZvb0c3YWJrWm1uSHlnSTFPRE5kYTJZSEQ0bXE3QUlqVG5kRF9rTjBMdzdCZkY4bHZ5QTl2NWhDNlhyQWNQbXR5VC1mcmhlZE11LVI3WUF1V0R6MlBXS1MwT01KclJ3TWlnRDZyWEg1SDQtcmN5dm5wVXNLMHF5d0l0dVp5TUJpYVV4ZkQwclVKaGVaUTRkbmxyY01icUFtNkNZSlpGdVNRWTJtYWVDWVdLWkM5c0JvRHdlMUJCTUJkbEFWRHpFZ1ZGMVo5MElMVnpxVnk2aDdCQTBSRDI1SFhBSFdYRVI3dVE?oc=5
+- Asian Games 2026 live, September 28: Know India scores, updates and results from Day 9 - olympics.com
+  Asian Games 2026 live, September 28: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjdpZEhNSXM2YmRMUWxGU0EyeUx0OFFHNlNCNTJFR1FyNWVZTHFJY3Fwa2FkTXJyTjJNYXFrc1RfOVBxdmQxMFpHWE9NVDY2d1pURTFTVHFqZzNPQU51OGNOOFJ2WXNRaHJUZENuUDRXSlpSV19pUDN3RXVFQVgxcmpQTXpPdzNteXJsdm8yZ3ZrVHROUFowNlJWN0U?oc=5
 
-- Asian Games 2026 Day 9 Live Updates: Manu Bhaker, Esha Singh and Rahi Sarnobat in women's 25m pistol qualification; India's medal tally stands at 37 - The Times of India
-  India's medal tally stands at 37 for the Asian Games 2026.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQak5HZHBoOE5OaC0wbjE4TFUyRTl3YktOM280OThkMjBXY3NDMUl5UEQ5Q0lyTmNxSnFRUkhhNFExRFhrWnlJOHhHLWxHbnUtLXNSaFVrXzZMNlVnd2p3bzNaWlY5X2dCQlFFZzdaSDZ6U2c2cFlsa3VfNDVTZ1ktbVRHU01meklkVUQzNGtYLUs3bnVoZ1VUVkNLYXJsVXBxclU3UUJfbXdSa2lUUE1hMFRxa2Fhd09GdFctSHpjTjJlQXpRdVB6WHNVMTFQRkxuZXJ5bVd2azhSSlNaYUdUaGtqVlREUXlneXVDbXkxWTlCNWpOZ01RZkwzX3VqNWt5NnfSAYcCQVVfeXFMTlBId25BZ2s1cTFHSENsbXlUQm5jbkRudkRfdVpCYTJTY1Q5OFdITnEzWU14WjRIaFBKc3QwQnVhdTRIdVU5ZXllSjBQN2VKMlcwVS1senNJTWRTNUZhbG5WZEtsaHB4bTNHTE1tSmVGMnhYcHlkQ3JlR3ZCQVYzaEd5b0hpWGVmeTZwTTVrc0owZWR4OUFwalhWVTNYOUhFbE1jVnRTSHh4VnpUbGdoQmdPMlV2Szg1Mk1HX0J0ZDBoR3NjMnQ1QlhrWFk1UldacGVGdldNLVlHcjBLQWViaXBvalNVVEhsVE5fMlpOVWZldEVld0tGbXBKNjhJcU9rLWw1Tm42ZnM?oc=5
+- India at Asian Games: Live updates from Day 9 action on September 28, 2026 in Aichi-Nagoya - ESPN India
+  India will be competing in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSlZ4OXE1NjlGWEFjaHNQUXJxbkF5cFJZTWZiU1NiUDlnSHNfR0JlVlQ1cmNud2FRUXpmbDZfMkkzal81Z2pleTZwZERIbS1rcktCZXRMeXpaM0ItUzRneWdsNzFTMUYyOG0zX1pkcEdkN0xUUy1LeTdnZ0huTHM4LVlxNVdZbVNfWFFOemNrUUM1LUVwN3YtMjN6WXlqdUpOaXhsWmNUVTRDbk1vSjVId2lyTGRYU0hwWEg2aU40WkR2NWxoZlpMeEVQdzJoVXpvaG56c0x1VXFSZzN5b0hFTUNZRzlYWGlINVE?oc=5
+
+- Tukaram Mundhe: Why some Indian civil servants become heroes for doing their jobs - bbc.com
+  Tukaram Mundhe: Why some Indian civil servants
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KN1pTMFAxYkxMN052U01TVjcweE1RWGNXNk9kTERiRWN0cUhZRnJQckhQOEFYY3J0bklFTzluMS1STTJMNnlFSmJlb2ZxNjVpZkVGanhhVDZsUGs?oc=5
+
+- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - Al Jazeera
+  ‘Shaken faith’:
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
+
+- "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
+  "Terror Will Have Consequences": India Hits
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
 
 - Asian Games 2026 live, September 28: Know India scores, updates and results from Day 9 - olympics.com
   Asian Games 2026 live, September 28: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjdpZEhNSXM2YmRMUWxGU0EyeUx0OFFHNlNCNTJFR1FyNWVZTHFJY3Fwa2FkTXJyTjJNYXFrc1RfOVBxdmQxMFpHWE9NVDY2d1pURTFTVHFqZzNPQU51OGNOOFJ2WXNRaHJUZENuUDRXSlpSV19pUDN3RXVFQVgxcmpQTXpPdzNteXJsdm8yZ3ZrVHROUFowNlJWN0U?oc=5
 
-- India sends life-saving medicines to Afghanistan as humanitarian aid - News On AIR
-  India sends life-saving medicines to Afghanistan as
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPd0k2bTdTMWk1VnRtSnVhMUNfRXhrckhDQzBYb1Y0U1pvenc5X0NTSDlrVTVKWHZYTjJPanF6bEdndzVac0JTampqVVNBbkNSazk0NzdYR0RjbFNsZTd2dFNlanBwdjBaYmlUMTdaUnQwYlFIdmZieUp6Wi1KTHFDZ3lDa2pBZFdRQ2FhUndUV243ZzBxSnBZRmt3?oc=5
+- India at Asian Games: Live updates from Day 9 action on September 28, 2026 in Aichi-Nagoya - ESPN India
+  India will be competing in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSlZ4OXE1NjlGWEFjaHNQUXJxbkF5cFJZTWZiU1NiUDlnSHNfR0JlVlQ1cmNud2FRUXpmbDZfMkkzal81Z2pleTZwZERIbS1rcktCZXRMeXpaM0ItUzRneWdsNzFTMUYyOG0zX1pkcEdkN0xUUy1LeTdnZ0huTHM4LVlxNVdZbVNfWFFOemNrUUM1LUVwN3YtMjN6WXlqdUpOaXhsWmNUVTRDbk1vSjVId2lyTGRYU0hwWEg2aU40WkR2NWxoZlpMeEVQdzJoVXpvaG56c0x1VXFSZzN5b0hFTUNZRzlYWGlINVE?oc=5
+
+- Tukaram Mundhe: Why some Indian civil servants become heroes for doing their jobs - bbc.com
+  Tukaram Mundhe: Why some Indian civil servants
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KN1pTMFAxYkxMN052U01TVjcweE1RWGNXNk9kTERiRWN0cUhZRnJQckhQOEFYY3J0bklFTzluMS1STTJMNnlFSmJlb2ZxNjVpZkVGanhhVDZsUGs?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-28 03:10:50 UTC_
+_Last updated: 2026-09-28 12:43:51 UTC_
