@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - aljazeera.com
-  ‘Shaken faith’
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
+- Fat dogs of Delhi: The unusual election gripping the Indian capital - BBC
+  The unusual election gripping the Indian capital.
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ydjEwMGFTNHdadmM1N0REalhIZmpodEJPMHJsQ0JORHhXRE4tbWhmYTM5Q0E0b0pYZjhMSThRWExWSTBaQlZSd0tLNW9ZU3FuYk9VbHNHUEtMb0E?oc=5
 
-- "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
-  "Terror Will Have Consequences": India Hits
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
+- India In Talks With China For Alternate Route Amid Pak Airspace Ban: Sources - NDTV
+  India In Talks With China For Alternate Route Amid Pak Air
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNa21KTWVnWXVWclF6UkVncVJYMGRVMnFaUWpJTVNXYTV5LTdxNmFuMXJoczBpVnFUX204NllhN2hwaEtYd3RBc3RhNzZPVnVxR3NTXzdTVjRISWcyTXNaMnU1cVJNd2RZTElJZ3lDSEdOcXpNTGVseWhxWk9hWVNPb2l0YzBLVzJDTk9WSmpIcXdMbjZTOW4wTjJIc1BZc19kLVJDbXpoamJyaWZ1X2hFZzJ5SmpvME0?oc=5
+
+- INDIA bloc announces Odisha bandh on October 8 over new mining law, other issues - thehindu.com
+  India bloc announces Odisha bandh on October 8 over new
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFYtaVdXVnJVdm96eW8tQ2lieVk3NGg3MU1wVW1pRFRHQXhROVJRdmtIRFlLbF9rdEx4TnhoUmFnT05RZWJKemNIMmVMSjBhcjRTSmpOYlpoUXVhZWt4NU40ZlBONFlIQ2xweW8xNUMyeGhhWjk3N0ZCOUcxTzFBRTJTRU95ekwwaGFpNmc5X0FCT1V5MEQyZk5fOU9ab0tZNndhSWRGLTJLdlhkRW4zM3gzSk1lUDhCRVA1Q3ZRd1BFa1lEaHpsTWwyMVcwbHZkcFlHZ0h4OEhyRmFxN2fSAeQBQVVfeXFMTmZBbVdwSVlReEVEMmo4S3JNV1hYQlFZQlpEVElROW9DeVdCemVqSE45c1U0ajVWZFctRmFSN0pjSkxkWG8yYzEweEpyRHFlMmU1N0lxRVQ3TGlfcmF2NGtEOGNmbTA0OVBvNlp5V2owX1JKb3IwaGRiV2ItTnJHTHhwbm9vWk8xTzhTTEU1TjZwaUlqYmNpOXkwSEtDcG9UYUhoQWVDR3BETzlvZ016UUlvMzVQaGU5eXlWS0dta1IxUG5MYXFyZlJQQ2MxdUNETEhZVEdYajk1c3c5MVd5ZzRhOWlN?oc=5
+
+- India at Asian Games: Live updates from Day 10 action on September 29, 2026 in Aichi-Nagoya - ESPN India
+  India will be competing in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3RIUHhZOUlXRTc5RXNobmtfQlVuMVN2TW8xaVd6TTlVSE9NYzI0d1AzLWlDTXI4TnhjNkZPSlFPc0hvWE5pNzRCRWxnSzE5T1M0QVdrYUs0MGR4UGpnZVhuVEdaQThxOXFqcGJiNE55YVBzdkN2TW9wTzZRN2J3Z1FBcy02RjB5UjdRb1hWVXhnWFlGUXRLVTFlNUh1OHlqVE0wWVRWc2ZfZzh1djdSYW5vam1kZ1RuZDMwdkJWbU45TUp4RFgxWEtFREtJNzRDbHdvQnNGYWNUZVpFWWF6LVlkUkRhNktJMlE?oc=5
 
 - Asian Games 2026 live, September 29: Know India scores, updates and results from Day 10 - olympics.com
   Asian Games 2026 live, September 29: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQcGRmeXJpLXcxakt1SEUwWUpTRjFJOWNGNHFwV00ybVNPempLVHVYcVpkTnJoQUItbHhGOGc2R2o4NFRoa1cxcE16R3FmbERLRlJfR2sybXN5dkd1a1VfU1NOQklnc2hrVE1KWWpUd3ljcUUyd3lrS0xSaHdTRWJHemIxV0ZJREtVZE95a3dfUV9EVzNSRWJQUzBDbDE?oc=5
 
-- Dhaka begins search for missing Assam woman - The Times of India
-  The Times of India reported that the woman
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2ppd0lvdU5aWDJYM2ZKQng4MVBId1dUbVd0LUc4SkFvRC1jdTAyYl9MNXpfSkx6bm90M3RNc0tIMXVubjZ1VW1zWDZPM0pVRmUtbUlzQ1FSM3VkVndqeHRkOVVjSVNidjhTaHBEVFlFRVhqelBCWWZrR0FiUVN0OUNwd1l2c1FpQ2pHcTFNcTFaUnRYTC1tY01uNlFXZzM1MlR1N2JjX3h2Y0Q5bGhLLdIBtgFBVV95cUxQdUliaHdGV0RaTmZ6R2NhaVVuQ2EzQjRuU2xTNy1EQjVfeHhkTExYa0YxZVFTYnEwS3FQYlJOSnRtYU9OVUNPcGdkeXU5VFdsSUpVSktoNjlQZzdRUkJhU1hIMlFSeW8yYndtWU5kcXRYemFUbm9BYTY0QXZOQVJGWGw3djhKZWlJRlduUUhtZEFONkFLZ1pNN3RuZC1BRDlOM1Z5RmxUYnZIYkVTRTNPWmoxaVdNZw?oc=5
-
-- India's Essar Group To Build "Largest Steel Plant In US History": Trump - NDTV
-  India's Essar Group To Build "Larg
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDFzYkJ0NlJBU1d0ZDEteDB1RmdYOEVVcTdnQUFfZTFFSTd1dGxURXBJY1NWbXlNTktVMk53RFk1emFCQVMzSFpkVmhlWVo2SU4tM0xSUFZSc1lrNVdKZmNfRmlvZ0Jkc1Rkc2xlYlRaU19MR3VOcWowNHIzTWZwV2xPcTB0bldnUkRfdEZjV1lpQlYydlI4aDJXb01qaHZiWk1hc0RJZXlwLW1C0gG0AUFVX3lxTE5DSWdVVVJwV1YzWGZ3TkYtRVpseU83eEw4SW5vSmx2RmtOdmlzWTVjZkVXbkVmNWVRTWlQN015WVVqc29Cc0ExQ1NmZVRMQTllSzlLX05RWVVkQmtlR003bDBIMEdFdXNRb09ZaEswX3lrRVVSY28tZW0zNzIzbVNubEpOaHNkR2t1MThuRHhkMW50NkVkczlsWDZqd2JqS3Y3aDEtV2tvdm9PNWxMQnMxYnNaMA?oc=5
-
-- Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics - CNBC
-  Apple faces $5.7 billion patent infringement verdict over
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1VOZW5BcW9ncDVQMDlmZ3FZNmxvcXlYZGQ2MzV2TEVTWUt3MWlJQUN0dFB3enlhZHN3SjlXMzFJanpGdk44b2ZkcXRwX1hBNURSeEZwVmZKQzZpcVVkOWpmNjROTExtWW9XVVZUSnRBVy04aDFxejdGOGpMaWFjZkw4MlQyMEFwYnJKcGRmdmlVZFXSAZgBQVVfeXFMUDVnNVVadXhlSXJ0c2l5MHRPNXhFVWJhM3pXMlBZVTh6NWJubmNGT1RJN0NjdnBoYlM4N0ZLdHBDRUUxUk9wNHFsdGZfQXBVajVMMHo2akpjYm5CMHlHSEZfWVBfRzd2NUtKQnZPNDh6T1AtWThwdUQ0aE1VOU1NR1h3RjhFVmRKUFU5VkI4ajlNb09Kcjk5TVE?oc=5
+- As A.I. Accelerates, Governments Are Increasingly Being Left Behind - The New York Times
+  As A.I. Accelerates, Governments Are
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5
 
 - Apple ordered to pay $5.7bn in haptic tech patent case - BBC
   Apple ordered to pay $5.7
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YaU1QRjJWdFh3YnVMYjY2Um14SFhVbWpubjdPN0VWZXZpN3ExaUNWZVNud1FQM2phaUpFdU40NmdVUUpiS3g1b2hXSU5YTHk4Sm0zTVZ0TUdiYlk?oc=5
 
-- Apple owes record $5.7 billion in haptic technology patent case, US jury says - The Hindu
-  Apple owes record $5.7 billion in haptic technology
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVBXaW9fQm5pSkF2UV9TUUVuQTJsNXJQQ0RDQXZZZnMxTV9JcG1KMFNidk9RR1R4OW4tTlBITkJ6NDlqS0JCT2RJelBHa2hBZ2w0QThieS0wWmdvWlVoNklHSV9NWFE5RG1VZ3J0cERiN2tkM3ZnT05uSjloTjhsb3JrMl9WZXdrLWxxMFpSTUhpNmMyMklrUXFlMy16VGxualMzWUtwQkdVMEozWi1YaGlwN1ZCTnNWZE1NenU5QnV4MFRNR0tycVhxcXRrNzZ2c3BVd0RR0gHcAUFVX3lxTE4zRGVxRkJEN1FwazRYTlo4c0RISUtpWnU4OGctN1EtUE1ld3Mtb0VSSmNLNzcwRjZXbkNIWGJQX2stZS1SQi03eVRpamxFcnlKcF9UNENiQ2VzVkUzTmNEQ0FDRDJURmsyVzJKVVloVUo1OE14aEEza1hReDE3V1JhVHNWVVJYUHh0TTM1cW9XV0tseF85ckFiREtsd3JHVlFSQVh2eFZ0akRaVUpycXJDTkF5b0ZqLXM4WTFRU0JKQWp6XzU3SXFadEVjVVhCVG9wRFhid2YyZjVxZ3U?oc=5
+- US jury says Apple owes record $5.7 billion in haptic technology patent case - Reuters
+  US jury says Apple owes record $5.7 billion
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5
+
+- Why Apple Has Been Ordered To Pay $5.7 Billion In Haptic Technology Patent Case - NDTV
+  Apple has been ordered to pay $5.7 billion in
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDgyanNBYWNmdUF3OGNSOHNOWEk4WDloVFNjTXhKOFJ6ZHN5NlpiM0F4VWVpVDZsVXQ0VHBiTk1XQTJMcjZTQzk2ajhrYVRKdWQ5aFBUSUwzVFZXek1Xa3RkSndfblR6RllCQ1FISlhrRUZKMmtvV0gxUGtQcUFUNHB5V0tjS0l3ZDRYSGpwYXdEQ05PVU14TEtjZndldjNDMW50RExFRS1LdWFxM3UzLUZ4S3dqV284a3pB0gHDAUFVX3lxTE9GUmpFXzBhLWNUMV9mUzh6ZGVtWlJ3dWlhdjNDa09GaURtSzhhazFLYzA0T3hJcEVOdUxGU2FjR2pkYmtpQWpvOHFMdzhZMFlLbzVMTDlsa2l3NjBxQnBxbU9GOTNZOEFvdGlSQ25fNlJ0Vng4bWk3RGVkbXhfVWNkSy1KNUpZVklnSjM1RlJUb0tNcWZEN253Ym5DM0pka1IxQ3p2a1lEU3hNUGczcmx4NzVTcEpQNktLTnF3ai1UY2JYUQ?oc=5
 
 - AI godfathers warn of runaway ‘intelligence explosion’ - The Guardian
   &nbsp;&n
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5
 
-- OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns - The New York Times
-  OpenAI Says It Will Not Release Newest Astra A.I
-  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5
+- Subhash Chandra’s  ₹22,006 crore insolvency case: NCLAT issues notice over asset restraint
+  Essel Group Chairman Subhash Chandra has challenged an NCLT order restraining him from alienating assets during insolvency proceedings. The case involves
+  🔗 https://www.livemint.com/companies/news/subhash-chandra-s-22-006-crore-insolvency-case-nclat-issues-notice-over-asset-restraint-11790670253129.html
 
-- Tata Sons merger: What TCE and TESS bring to the table in Tata Trusts’ new plan
-  The proposed amalgamation dilutes the holding company's financial income with substantial operating revenue, thereby removing it from
-  🔗 https://www.livemint.com/companies/news/tata-sons-merger-what-tce-and-tess-bring-to-the-table-in-tata-trusts-new-plan-11790647082581.html
+- Carlyle-backed Highway Roop acquires Chamundi Die Cast to diversify auto components platform
+  The acquisition marks a strategic milestone in Highway Roop's journey towards an IPO.
+  🔗 https://www.livemint.com/companies/news/highway-roop-chamundi-die-cast-acquisition-carlyle-group-11790666681405.html
 
-- Why is Essar investing $18 billion in a US steel plant? Trump tariffs hold the answer
-  India's Essar Group plans to invest $18 billion in an integrated US steel operation. President Donald Trump has credited his 50% steel tariffs for the investment.
-  🔗 https://www.livemint.com/companies/news/why-is-essar-investing-18-billion-in-a-us-steel-plant-trump-tariffs-hold-the-answer-11790649263613.html
+- Delhi High Court sets aside FSSAI order asking Red Bull to drop ‘energy drink’ label
+  The court ruled that the food regulator failed to give the company a chance to present its stance.
+  🔗 https://www.livemint.com/companies/news/red-bull-energy-drink-fssai-order-delhi-high-court-11790667454077.html
 
-- Indian family offices, MFOs ramp up CXO hiring to build institutional capabilities
-  Executives are taking on roles that go beyond portfolio management for family offices. They are
-  🔗 https://www.livemint.com/companies/news/indian-family-offices-mfos-cxo-hiring-institutional-capabilities-11790563405712.html
+- Indian travel demand stays resilient despite global shocks: Booking.com’s Santosh Kumar
+  Indian travel demand remains strong despite global disruptions. Domestic accommodation searches up 20% and flight searches 25% in 2026.
+  🔗 https://www.livemint.com/companies/news/booking-com-india-travel-demand-domestic-outbound-2026-11790620622885.html
 
-- Table Space IPO faces Sebi challenge over promoter classification
-  The stake held by Amit Banerji, who died 19 months ago, has become the subject of a dispute between his mother, Sar
-  🔗 https://www.livemint.com/companies/news/tablespace-technologies-ipo-legal-dispute-11790488407207.html
+- GCC layoffs: Up to 30,000 jobs may go, but AI is creating a new hiring playbook | Explained
+  GCCs are elevating their global prominence. While certain operational roles are
+  🔗 https://www.livemint.com/companies/news/gcc-layoffs-up-to-30-000-jobs-may-go-but-ai-is-creating-a-new-hiring-playbook-explained-11790660197593.html
 
-- Jefferies quarterly profit jumps on deal surge, equities trading strength
-  Jefferies quarterly profit jumps on
-  🔗 https://www.livemint.com/companies/jefferies-quarterly-profit-jumps-on-deal-surge-equities-trading-strength-11790626663068.html
+- Top stocks to buy or sell in F&amp;O segment: Alkem Lab, KFin Tech, Amber Ent by Jay Thakkar - Check short-term targets
+  The Nifty 50 fell 0.28% to 22,716.2, while the Sensex slid 0.33%. indices have lost nearly 6% over seven weeks.
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-or-sell-in-f-o-segment-alkem-lab-kfin-tech-amber-ent-by-jay-thakkar-check-short-term-targets-11790681511028.html
 
-- Top stocks to buy for short term: M&amp;M, Engineers India and 1 other by Master Capital Services - Target price, stop loss
-  M&amp;amp;M, Engineers India, and Dr Reddy's Laboratories show strong potential for recovery.
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-m-m-engineers-india-dr-reddys-labs-check-target-price-for-up-to-11-upside-in-11790573842765.html
+- Small-cap pharma stock rallies 178% in 2026, extends winning run into fifth year; key factors behind rally
+  Cupid, a consumer wellness company, saw its shares surge 178% in 2026. This follows a 584% surge in 2025. The stock's recent rally has enhanced its market
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-pharma-stock-rallies-178-in-2026-extends-winning-run-into-fifth-year-key-factors-behind-rally-11790682114253.html
 
-- 56% returns in six months! Ola Electric Mobility to raise  ₹1,000 crore via rights issue | What we know so far?
-  The company board will meet on Monday, 5 October to consider, discuss and decide various matters in connection
-  🔗 https://www.livemint.com/market/stock-market-news/56-returns-in-six-months-ola-electric-mobility-to-raise-1-000-crore-via-rights-issue-what-we-know-so-far-11790647289047.html
+- This single stock made Rekha Jhunjhunwala richer by over  ₹1,000 crore in Q2FY27 so far - Should you buy it now?
+  Rekha Jhunjhunwala's stake in Titan has surged in value by over  ₹1,000 crore this quarter. Learn whether this stock is a good buy or if
+  🔗 https://www.livemint.com/market/stock-market-news/this-single-stock-made-rekha-jhunjhunwala-richer-by-over-1-000-crore-in-q2fy27-so-far-should-you-buy-it-now-11790675141489.html
 
-- Top stocks to watch today: Why IRFC, Ola, NCC, Tata stocks must be on radar? Full list for Tuesday, 29 September
-  Indian Railway Finance Corporation (IRFC), Tata Group stocks, Ola Electric Mobility, ITC, NCC, Zydus
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-why-irfc-ola-ncc-tata-stocks-must-be-on-radar-full-list-for-tuesday-29-september-11790645272995.html
+- Dividend growth stars beyond yield! Honda India, Majestic Auto, REC among 7 stocks raising payout - Who stands out?
+  Majestic Auto's dividends have risen significantly over three years, reaching  ₹60 per share
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-growth-stars-beyond-yield-honda-india-majestic-auto-rec-among-7-stocks-raising-payout-who-stands-out-11790677197389.html
 
-- Sensex, Nifty 50 prediction today: Stock market outlook for Tuesday, 29 Sept - GIFT Nifty, Kospi, Nikkei, Taiwan cues
-  Gift Nifty was trading around the 22,820 level, down nearly 4 points from the Nifty futures’ previous close. Stock market prediction for
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-prediction-today-stock-market-outlook-for-tuesday-29-sept-gift-nifty-kospi-nikkei-taiwan-cues-11790642406419.html
+- Rupee hits two-month low, slips past 96 | What does it mean for the Indian stock market?
+  The Indian rupee fell to  ₹96.1475 per dollar, a two-month low. Rising oil prices and foreign investor outflows are behind the fall.
+  🔗 https://www.livemint.com/market/stock-market-news/rupee-hits-two-month-low-slips-past-96-what-does-it-mean-for-the-indian-stock-market-11790673224939.html
 
-- Why the midterm elections matter for the stock market this year
-  Midterms are usually not something for investors to worry about. Yes, the political noise can drives volatility, but rarely
-  🔗 https://www.livemint.com/market/why-the-midterm-elections-matter-for-the-stock-market-this-year-11790643871948.html
+- Pebble Qore Ultra fitness band arrives with AI health insights and Body Age tracking: Price, features and sale date
+  Pebble Qore Ultra has been launched in India. It offers 24x7 health monitoring, 100+ sports modes and up to 15 days of battery life.
+  🔗 https://www.livemint.com/technology/pebble-qore-ultra-arrives-with-ai-health-insights-and-body-age-tracking-price-features-and-sale-date-11790680683475.html
 
-- CMF Watch 3 Pro review on World Heart Day: How good are its heart-rate and health-tracking features?
-  CMF Watch 3 Pro brings heart-rate, SpO₂, stress and sleep tracking to a Rs. 7,999 smartwatch. Dual-band GPS delivered reliable tracking during outdoor
-  🔗 https://www.livemint.com/technology/tech-reviews/cmf-watch-3-pro-review-on-world-heart-day-how-good-are-its-heart-rate-and-health-tracking-features-11790611312916.html
+- Nothing Headphone (1) Pro launched with triple drivers, 46dB ANC and 68-hour battery: Price, specs
+  Nothing has launched the Headphone (1) Pro at $399. It features a triple-driver setup with an xMEMS tweeter and Hi-Res Audio support
+  🔗 https://www.livemint.com/technology/nothing-headphone-1-pro-launched-with-triple-drivers-46db-anc-and-68-hour-battery-price-specs-11790678674852.html
 
-- OpenAI shelves new AI model release over safety concerns
-  OpenAI shelves new
-  🔗 https://www.livemint.com/technology/openai-shelves-new-ai-model-release-over-safety-concerns-11790642838654.html
+- Google challenges EU search-data order: What it means for privacy and searches
+  Google has challenged EU orders requiring it to share anonymised Search data with rivals. The company warns of privacy and security risks, while EU regulators say safeguards are in place.
+  🔗 https://www.livemint.com/technology/google-challenges-eu-search-data-order-what-it-means-for-privacy-and-searches-11790662008258.html
 
-- Exclusive-Anthropic warns AI may pose existential risks to humanity in IPO filing
-  Anthropic warns AI may pose
-  🔗 https://www.livemint.com/technology/exclusiveanthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing-11790641120485.html
+- OpenAI apologises for Australian government website hack by rogue AI agent, vows to ‘rebuild trust’
+  Sam Altman-led OpenAI has apologised for the hacking of an Australian government website by a rogue AI agent. The company has acknowledged shortcomings in its handling of the
+  🔗 https://www.livemint.com/technology/openai-apologises-for-australian-government-website-hack-by-rogue-ai-agent-vows-to-rebuild-trust-11790662099536.html
 
-- iPhone 17, iPhone 16 Flipkart Big Billion Days 2026 sale: Expected prices, bank offers, exchange deals
-   Flipkart Big Billion Days 2026 is expected to bring major discounts on the Apple iPhone 17 and iPhone 16, with additional bank and exchange offers. The iPhone 17 has been teased at a price in the 
-  🔗 https://www.livemint.com/technology/iphone-17-iphone-16-flipkart-big-billion-days-2026-sale-expected-prices-bank-offers-exchange-deals-11790579337028.html
+- Apple may change its iPhone launch cycle in 2027: iPhone 18 in Q1, iPhone 20 later
+  Apple could launch the standard iPhone 18 in early 2027, just months after the iPhone 18 Pro models arrived this month. The company may then skip the iPhone 19 name and
+  🔗 https://www.livemint.com/technology/gadgets/apple-may-change-its-iphone-launch-cycle-in-2027-iphone-18-in-q1-iphone-20-later-11790653638402.html
 
-- iPhone 18 Pro Max vs Galaxy S26 Ultra camera: Key differences in zoom, video and more
-  iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra camera comparison. Check the key differences in camera hardware,
-  🔗 https://www.livemint.com/technology/iphone-18-pro-max-vs-galaxy-s26-ultra-camera-key-differences-in-zoom-video-and-more-11790576259317.html
+- Stocks and Bonds Find Relief as Oil Prices Ease: Markets Wrap - Bloomberg.com
+  Stocks and Bonds Find Relief as Oil Prices
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQODhVaklOeWxwTzlmNzFhOVNJbklKakh1cnBSQWdqX2lEbWZldjlCOWhmaWEtb0FzaE9hTkV0SWpfVUR1cjlVNzROWUhlNDE2SnJmclFfWGRtT3FESmNrb05ENWxHZnJSYWswcHFPdGVpa3FPOTY5WjFzQmtubFd4OEY5MVBXMmtZUWhNN0Vzd3Npcm5S?oc=5
 
 - S&P 500 Falls as Inflation Worry Lifts Bond Yields: Markets Wrap - Bloomberg.com
-  P 500 Falls as Inflation Worry Lifts Bond Yields. Dow slides more than 300 points to start week.
+  P 500 Falls as Inflation Worry L
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGEzeTM5UEZjTzRrYWs4T0hyTTAtRVpvWkJ3UFhUVUNxNF9fQTZBM0JHcHh2WFk4MlFQemNVM1RWMW9RQUh0ZUlEZlYwZ21obEJnRXVjOE5QM2ZFYVEtbHNVNmZ4bUdCRU9FaDRUa3Y3VGpsVHk2MzU1LVU2TmJSY3dGR05mdUhsQ2lnZGQzVndvR1dr?oc=5
 
-- Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwgJBVV95cUxPQ3drbk9QbWRHcU9uVDJLU0EydWpPdVZRVE1rTEE5bFZadHZmUVJPeG9nUjVYWnVvSTkzNzFyNFo3TWhfN1lzX0ZScEVrSnZETUJ2MmtDaE1XYjc2TXo2a1p0UWZhcHprU1
-  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxPQ3drbk9QbWRHcU9uVDJLU0EydWpPdVZRVE1rTEE5bFZadHZmUVJPeG9nUjVYWnVvSTkzNzFyNFo3TWhfN1lzX0ZScEVrSnZETUJ2MmtDaE1XYjc2TXo2a1p0UWZhcHprU1lwM3V3YUNUVzlTc3l4UXdCLVExX3dLQTdRaGh5Rk0xUDQtR2lkY3Mxd29QSHNPRU5fRDFYRVBSbC03X2pFaGpnWlJ6MFZDUGlicHlPUUpXeDh4ZU94UWR5ZHNCZ0pydDdFdHZNSjgyRThId0JfSlcxVzFibmR3clVwQzllekZnLUJ1LTdZcHpsRkt1YzN0b1FBT2FkZF9zblJkRlIxdmZfdzNFSXllSDM3b19zME9xaXhlWGk0Qjd5TWwxdDJaenFsOE5iOUNOU2VKRkxYazExZVAxYWJuVVVn0gHHAkFVX3lxTE1EMGdQdWlWbVp5aUpTbEJmb0M5dWQ5X0xJYmNpTFJJVERpUDZkcVo5V1ZGeTNyR3VmYjUyUDF0bG1HVlBGQ21nNDBfU1RZRTdYTEZFTy11OXExZmNOdzRwQTFQNlBRcFZ6NVdDSFFkeWdkV1ZGdm14cXpoTTc5eFc2WkZnVTQ1SlZ3NmxCOWk1b1BWU3doODZadUV0c0tkQ0VCeERINlczUmlYWmJ2MjNoblhPeWtqa0NvU3ZRcGw4NlQ3Mk5GcTFlZDIzQlN4SWxiNE5Md0ctQVBmMklselFGekszWTlFM2JFN244eVJtOHctcnFCc0RVM0Z4OUlqVmctZ25xTDVnTTV4djlfc2U3T2pkeC0tajA2ZnVKRDk3eEJ2ZkNWSmZicmVEOXN0UHpfRkJQdlZMLTVveENMYmdJenM0UFRfRQ?oc=5
+- Stock Market Today: Oil in Focus, Bond Selloff Pauses, Dow Futures Slip — Live Updates - WSJ
+  Stock Market Today: Oil in Focus, Bond Selloff Pauses
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFhScTBzN3F1bVVrdWxnRk44RDZkMUpnSFVYQVpkUW5fMlh1aHlyX20xZVcySzl5WWltNldNTFFhWjRwYzlrd1hKVGtQRzBvYjhGSnNwM2NQcDRQV05uYnMwR3hiblJaakhFRzlqS0dJTlRQZHBXMGNfYWRkVGZnMEpiY0FqTE0?oc=5
 
-- Opinion | The Other Bond Market You Need to Worry About - The New York Times
-  The New York Times published an opinion piece on the bond market
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5iRERWSFRsbkRRTVJJM3A3UHh4blRnb0VqSW84ZTRHOENiVUgzdmt0aE52RzN6bzZBTDBKdzdIYXVrbG5sT1hRX2dRV291anpUajRSYmFxbnppLXNPNEIySUtiWEhJTlFOZEprN3FsMlVnSlkyblJ5aQ?oc=5
+- Stock market crash today: BSE Sensex continues to be in bear grip; Nifty50 below 22,600 - top reasons for - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxORm9sbGt4LWI0Qnc2ZTIyNm5MMVFFT0FXelZ0aTQta2ExTkZxbUZ0bW55RjFMVG9yNmZVczZSWFluQmpxNkxKRnpMdmJPUFNfRDFQSk1vVUVpMGpLdkp0V1c1RDd6Q1NEZU
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxORm9sbGt4LWI0Qnc2ZTIyNm5MMVFFT0FXelZ0aTQta2ExTkZxbUZ0bW55RjFMVG9yNmZVczZSWFluQmpxNkxKRnpMdmJPUFNfRDFQSk1vVUVpMGpLdkp0V1c1RDd6Q1NEZUFjQTJzT1VWaTNZTGYyOU45T0cxRWV4UUs0NER0Qm5ucWJxV0xyY2diTFJ5a2N0eWVWRElHZ081bFlNckRUNEpRbmZVYXRZaTA5TWxpUUltR3dsdEQ3VEMxMUkzZWNLZmlsTlRPWWV0dHBwQ2Q5MUlOcDNqVWhNS1RoSlhfYlg0X0hVR0k5R3VER3JjS2JBejJrWFJ0TFhYLTFLX2RBQkpaVDhtd2RJOFRn0gGXAkFVX3lxTE9YUFdsMTlDTl9lbkdfTE1VY0toUk10QmlBcWM0blRhdTBjU0RxV3Q4eWNyNDhpNmhFTGZvSFY2bHU2RVpMM0JzMGdsWFRKQWdPVTNpSkl2WXZHVHNuTXo5c2VDOHBuVXltMnVKT2c4UVprUHdodmd6QUF0ODN5MnQ4UW5sS3RCWjVTMGhZNVNNRjViWFkxek51M3hqUHd3SWJtVzVwMGx3LUNnV2xfLU5WLWk0UXZDYVFLWGtxdlprQl8xNVF0SmR5ZmZiLXFBNDd1YnBuRkJabWZNSDY4SVpseDZKZEZQV1JsbHdFdHJVMW43T0JmRGR1THNMcjVxbVFyUGZpdVN3X0lSTzRLVkE0UDBZeHlFbw?oc=5
 
-- Stocks wobble as bonds slump to monthly loss - Reuters
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVdQU2VNMWNudXUwMjk0YnFXekg0R3B3d1gxcHUtcmx1UU9pSEtXNGRZTjMwR29Qa0JhSFJmdmRIZUdpdzFJVXVrcEFyYWwzZ0xsV0J2QmlaLTZXb0FzY0Fpa2JqdGJrWG53Sk0zX3RYc1ZZYmZkWFZ4bHJkM0gtRWpkYw?oc=5
+- Bond selloff; Anthropic IPO prospectus reports - what’s moving markets - Investing.com
+  Investing.com: Bond selloff
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWRGWTh4RHM5T29tVjVXZkhwX1JsTlg4SE01dk1vM0k2SEZTZW92Nm5BeXNOWGpxbDk3WHNLR2ZMLXVvTDRMOXZ2SWFkYmpOb2ZaT3o5UWRFelpxVGRJTHpUbURNdWsyT21ocEZ2Z0F3bEJZaFU2N2Y2Y0dER2VhWTVXeWF4NXB0WTIzNDZOM0hGdTNkQmhyb19aOW9jWEluamtibzJMbmtWWGd4NUxYZWJVWmhZNjFxNUNr?oc=5
 
-- An Inversion of the US Yield Curve Becomes New Risk as Fed Hikes - Bloomberg.com
-  An Inversion of the US Yield Curve Becomes
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTFrYzFvbDRlX0l0RU82NG1VZElManl5VkJCNk9FbUNfakVQaDlqYVZFWjUzWHpOWlJIeEtTRUw0bVZDN09XbzJEY2wwZmRWQ3hVaUhEaWpRNl9XSFFJTlN0QVg0aVd0NUhNcGdPWXdoVnh1MHhsYUFMRXFETElzS1E1eWdZWWFzaFhORzdSZXVWQlNhWE9zbTNkS09MWnBpQUNZS3JoUTRZTFd3ZWhWVUtKWQ?oc=5
+- Cupid shares end 10% higher ahead of Nifty Smallcap 250 inclusion tomorrow. How much inflows can it see?
+  Cupid shares jumped 10% to Rs 291 after the company’s inclusion in the Nifty Smallcap 250 index, effective September 30. The stock has surged 250%
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-end-10-higher-ahead-of-nifty-smallcap-250-inclusion-tomorrow-how-much-inflows-can-it-see/articleshow/134564560.cms
 
-- Sun Pharma, Aurobindo Pharma, other stocks in focus as Trump exempts India from 100% tariffs on some speciality drugs
-  The US exempted India and 19 other countries from 100% tariffs on certain patented specialty pharmaceuticals and ingredients. Eligible products include rare-disease drugs, gene and cell therapies, and infertility treatments. Generic medicines remain outside the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-aurobindo-pharma-other-stocks-in-focus-as-trump-exempts-india-from-100-tariffs-on-some-speciality-drugs/articleshow/134555109.cms
+- Quote of the day by Irving Fisher: "A chief cause of crises, panics, runs on banks, etc., is that risks are not independently reckoned, but are a mere matter of imitation. A crisis is a time of general and forced liquidation"
+  Rising optimism can fuel credit and asset prices, while sudden fear can trigger forced liquidation. Economist Irving Fisher warned that investors copying one another can amplify financial risks.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-irving-fisher-a-chief-cause-of-crises-panics-runs-on-banks-etc-is-that-risks-are-not-independently-reckoned-but-are-a-mere-matter-of-imitation-a-crisis-is-a-time-of-general-and-forced-liquidation/articleshow/134564516.cms
 
-- Four SME IPOs open for subscription today: Check issue size, price band, lot size and key dates
-  Black Opal Consultants is the largest issue at Rs 55.08 crore. EverestIMS Technologies at Rs 48.46 crore, Vans Electroengine
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/four-sme-ipos-open-for-subscription-today-check-issue-size-price-band-lot-size-and-key-dates/articleshow/134555075.cms
+- Euro zone bond selloff hits pause, yields fall from multi-year highs
+  Rising global interest rates are driven by strong economic growth and elevated energy prices. Money markets are pricing in nearly four quarter-point hikes following previous increases over the summer.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-selloff-hits-pause-yields-fall-from-multi-year-highs/articleshow/134563785.cms
 
-- BSE set to enter Nifty 50 from tomorrow, IT major Wipro to exit. What shareholders must know?
-  BSE has been included in the Nifty 50 after its six-month average free-float market capitalisation came in at Rs 1,40,879 crore. This is at least 1.5 times the six-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bse-set-to-enter-nifty-50-from-tomorrow-it-major-wipro-to-exit-what-shareholders-must-know/articleshow/134554977.cms
+- Iran's currency hits new record low, as war erodes Iran's economic stability
+  The rial fell to a record low of 2.5 million rials for one US dollar. The currency has been on a downward trend since the onset of the war in February. This decline occurred just weeks after the rial reached
+  🔗 https://economictimes.indiatimes.com/markets/forex/irans-currency-hits-new-record-low-as-war-erodes-irans-economic-stability/articleshow/134563749.cms
 
-- Aegis Vopak Terminals among 3 stocks showing RSI trending up
-  Three Nifty500 stocks gained over 3% and featured in StockEdge’s RSI trending up scan on September
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aegis-vopak-terminals-among-3-stocks-showing-rsi-trending-up/slideshow/134554939.cms
+- Rupee ends nearly flat as traders remain glued to oil moves, RBI caps fall
+  The Indian rupee showed little change after reaching a two-month low in early trading. Crude oil prices significantly impacted the currency's movement, leading to a brief decline.
+  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-ends-nearly-flat-as-traders-remain-glued-to-oil-moves-rbi-caps-fall/articleshow/134563409.cms
 
-- Goldman Sachs sees Eternal achieving $1 billion EBITDA by FY29; raises target price
-  Goldman Sachs maintained a Buy rating on Eternal, formerly Zomato. The brokerage foresees Eternal hitting $1 billion EBITDA by FY29.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-sees-eternal-achieving-1-billion-ebitda-by-fy29-raises-target-price/articleshow/134554650.cms
+- Fat dogs of Delhi: The unusual election gripping the Indian capital - BBC
+  The unusual election gripping the Indian capital.
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ydjEwMGFTNHdadmM1N0REalhIZmpodEJPMHJsQ0JORHhXRE4tbWhmYTM5Q0E0b0pYZjhMSThRWExWSTBaQlZSd0tLNW9ZU3FuYk9VbHNHUEtMb0E?oc=5
 
-- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - aljazeera.com
-  ‘Shaken faith’
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
+- India In Talks With China For Alternate Route Amid Pak Airspace Ban: Sources - NDTV
+  India In Talks With China For Alternate Route Amid Pak Air
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNa21KTWVnWXVWclF6UkVncVJYMGRVMnFaUWpJTVNXYTV5LTdxNmFuMXJoczBpVnFUX204NllhN2hwaEtYd3RBc3RhNzZPVnVxR3NTXzdTVjRISWcyTXNaMnU1cVJNd2RZTElJZ3lDSEdOcXpNTGVseWhxWk9hWVNPb2l0YzBLVzJDTk9WSmpIcXdMbjZTOW4wTjJIc1BZc19kLVJDbXpoamJyaWZ1X2hFZzJ5SmpvME0?oc=5
 
-- "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
-  "Terror Will Have Consequences": India Hits
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
+- INDIA bloc announces Odisha bandh on October 8 over new mining law, other issues - thehindu.com
+  India bloc announces Odisha bandh on October 8 over new
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFYtaVdXVnJVdm96eW8tQ2lieVk3NGg3MU1wVW1pRFRHQXhROVJRdmtIRFlLbF9rdEx4TnhoUmFnT05RZWJKemNIMmVMSjBhcjRTSmpOYlpoUXVhZWt4NU40ZlBONFlIQ2xweW8xNUMyeGhhWjk3N0ZCOUcxTzFBRTJTRU95ekwwaGFpNmc5X0FCT1V5MEQyZk5fOU9ab0tZNndhSWRGLTJLdlhkRW4zM3gzSk1lUDhCRVA1Q3ZRd1BFa1lEaHpsTWwyMVcwbHZkcFlHZ0h4OEhyRmFxN2fSAeQBQVVfeXFMTmZBbVdwSVlReEVEMmo4S3JNV1hYQlFZQlpEVElROW9DeVdCemVqSE45c1U0ajVWZFctRmFSN0pjSkxkWG8yYzEweEpyRHFlMmU1N0lxRVQ3TGlfcmF2NGtEOGNmbTA0OVBvNlp5V2owX1JKb3IwaGRiV2ItTnJHTHhwbm9vWk8xTzhTTEU1TjZwaUlqYmNpOXkwSEtDcG9UYUhoQWVDR3BETzlvZ016UUlvMzVQaGU5eXlWS0dta1IxUG5MYXFyZlJQQ2MxdUNETEhZVEdYajk1c3c5MVd5ZzRhOWlN?oc=5
 
-- Asian Games 2026 live, September 29: Know India scores, updates and results from Day 10 - olympics.com
-  Asian Games 2026 live, September 29: Know India scores,
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQcGRmeXJpLXcxakt1SEUwWUpTRjFJOWNGNHFwV00ybVNPempLVHVYcVpkTnJoQUItbHhGOGc2R2o4NFRoa1cxcE16R3FmbERLRlJfR2sybXN5dkd1a1VfU1NOQklnc2hrVE1KWWpUd3ljcUUyd3lrS0xSaHdTRWJHemIxV0ZJREtVZE95a3dfUV9EVzNSRWJQUzBDbDE?oc=5
-
-- Dhaka begins search for missing Assam woman - The Times of India
-  The Times of India reported that the woman
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2ppd0lvdU5aWDJYM2ZKQng4MVBId1dUbVd0LUc4SkFvRC1jdTAyYl9MNXpfSkx6bm90M3RNc0tIMXVubjZ1VW1zWDZPM0pVRmUtbUlzQ1FSM3VkVndqeHRkOVVjSVNidjhTaHBEVFlFRVhqelBCWWZrR0FiUVN0OUNwd1l2c1FpQ2pHcTFNcTFaUnRYTC1tY01uNlFXZzM1MlR1N2JjX3h2Y0Q5bGhLLdIBtgFBVV95cUxQdUliaHdGV0RaTmZ6R2NhaVVuQ2EzQjRuU2xTNy1EQjVfeHhkTExYa0YxZVFTYnEwS3FQYlJOSnRtYU9OVUNPcGdkeXU5VFdsSUpVSktoNjlQZzdRUkJhU1hIMlFSeW8yYndtWU5kcXRYemFUbm9BYTY0QXZOQVJGWGw3djhKZWlJRlduUUhtZEFONkFLZ1pNN3RuZC1BRDlOM1Z5RmxUYnZIYkVTRTNPWmoxaVdNZw?oc=5
-
-- India's Essar Group To Build "Largest Steel Plant In US History": Trump - NDTV
-  India's Essar Group To Build "Larg
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDFzYkJ0NlJBU1d0ZDEteDB1RmdYOEVVcTdnQUFfZTFFSTd1dGxURXBJY1NWbXlNTktVMk53RFk1emFCQVMzSFpkVmhlWVo2SU4tM0xSUFZSc1lrNVdKZmNfRmlvZ0Jkc1Rkc2xlYlRaU19MR3VOcWowNHIzTWZwV2xPcTB0bldnUkRfdEZjV1lpQlYydlI4aDJXb01qaHZiWk1hc0RJZXlwLW1C0gG0AUFVX3lxTE5DSWdVVVJwV1YzWGZ3TkYtRVpseU83eEw4SW5vSmx2RmtOdmlzWTVjZkVXbkVmNWVRTWlQN015WVVqc29Cc0ExQ1NmZVRMQTllSzlLX05RWVVkQmtlR003bDBIMEdFdXNRb09ZaEswX3lrRVVSY28tZW0zNzIzbVNubEpOaHNkR2t1MThuRHhkMW50NkVkczlsWDZqd2JqS3Y3aDEtV2tvdm9PNWxMQnMxYnNaMA?oc=5
-
-- Retailers Against UPI, Startup IPO Sprint & More
-  Indian retailers are set to stage a nationwide “No UPI Day” on October 2.
-  🔗 https://inc42.com/buzz/retailers-against-upi-startup-ipo-sprint-more/
-
-- Amazon India FY26 Report Card: Loss Balloons 48% YoY, Revenue Inches Closer To ₹40,000 Cr
-  Amazon’s India businesses delivered a mixed performance in FY26. While revenues of its seller services, retail and pay businesses continued.
-  🔗 https://inc42.com/buzz/amazon-india-fy26-report-card-loss-balloons-48-yoy-revenue-inches-closer-to-%e2%82%b940000-cr/
-
-- Ola Electric’s Board Approves ₹1,000 Cr Rights Issue
-  Ola Electric’s board of directors have cleared a rights issue of partly paid-up equity shares amounting to an aggregate of&#8230
-  🔗 https://inc42.com/buzz/ola-electrics-board-approves-%e2%82%b91000-cr-rights-issue/
-
-- ‘No UPI Day’: Mobile, FMCG Retailers To Protest UPI MDR On October 2
-  Indian retail traders are gearing up for a nationwide protest against the proposed UPI MDR soon.
-  🔗 https://inc42.com/buzz/no-upi-day-mobile-fmcg-retailers-to-protest-upi-mdr-on-october-2/
-
-- Fintech Startups To Watch: Startups That Caught Our Eye In September
-  It was a busy month for India’s fintech ecosystem. SEBI issued final observations on the proposed&#8230;.
-  🔗 https://inc42.com/startups/fintech-startups-to-watch-startups-that-caught-our-eye-in-september/
-
-- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - aljazeera.com
-  ‘Shaken faith’
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
-
-- "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
-  "Terror Will Have Consequences": India Hits
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
+- India at Asian Games: Live updates from Day 10 action on September 29, 2026 in Aichi-Nagoya - ESPN India
+  India will be competing in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3RIUHhZOUlXRTc5RXNobmtfQlVuMVN2TW8xaVd6TTlVSE9NYzI0d1AzLWlDTXI4TnhjNkZPSlFPc0hvWE5pNzRCRWxnSzE5T1M0QVdrYUs0MGR4UGpnZVhuVEdaQThxOXFqcGJiNE55YVBzdkN2TW9wTzZRN2J3Z1FBcy02RjB5UjdRb1hWVXhnWFlGUXRLVTFlNUh1OHlqVE0wWVRWc2ZfZzh1djdSYW5vam1kZ1RuZDMwdkJWbU45TUp4RFgxWEtFREtJNzRDbHdvQnNGYWNUZVpFWWF6LVlkUkRhNktJMlE?oc=5
 
 - Asian Games 2026 live, September 29: Know India scores, updates and results from Day 10 - olympics.com
   Asian Games 2026 live, September 29: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQcGRmeXJpLXcxakt1SEUwWUpTRjFJOWNGNHFwV00ybVNPempLVHVYcVpkTnJoQUItbHhGOGc2R2o4NFRoa1cxcE16R3FmbERLRlJfR2sybXN5dkd1a1VfU1NOQklnc2hrVE1KWWpUd3ljcUUyd3lrS0xSaHdTRWJHemIxV0ZJREtVZE95a3dfUV9EVzNSRWJQUzBDbDE?oc=5
 
-- Dhaka begins search for missing Assam woman - The Times of India
-  The Times of India reported that the woman
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2ppd0lvdU5aWDJYM2ZKQng4MVBId1dUbVd0LUc4SkFvRC1jdTAyYl9MNXpfSkx6bm90M3RNc0tIMXVubjZ1VW1zWDZPM0pVRmUtbUlzQ1FSM3VkVndqeHRkOVVjSVNidjhTaHBEVFlFRVhqelBCWWZrR0FiUVN0OUNwd1l2c1FpQ2pHcTFNcTFaUnRYTC1tY01uNlFXZzM1MlR1N2JjX3h2Y0Q5bGhLLdIBtgFBVV95cUxQdUliaHdGV0RaTmZ6R2NhaVVuQ2EzQjRuU2xTNy1EQjVfeHhkTExYa0YxZVFTYnEwS3FQYlJOSnRtYU9OVUNPcGdkeXU5VFdsSUpVSktoNjlQZzdRUkJhU1hIMlFSeW8yYndtWU5kcXRYemFUbm9BYTY0QXZOQVJGWGw3djhKZWlJRlduUUhtZEFONkFLZ1pNN3RuZC1BRDlOM1Z5RmxUYnZIYkVTRTNPWmoxaVdNZw?oc=5
+- AceVector IPO Oversubscribed 2.59X On Day 3 So Far
+  Snapdeal parent AceVector’s ₹420 Cr IPO was oversubscribed 2.59X on the final day of bidding.
+  🔗 https://inc42.com/buzz/acevector-ipo-oversubscribed-2-59x-on-day-3-so-far/
 
-- India's Essar Group To Build "Largest Steel Plant In US History": Trump - NDTV
-  India's Essar Group To Build "Larg
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDFzYkJ0NlJBU1d0ZDEteDB1RmdYOEVVcTdnQUFfZTFFSTd1dGxURXBJY1NWbXlNTktVMk53RFk1emFCQVMzSFpkVmhlWVo2SU4tM0xSUFZSc1lrNVdKZmNfRmlvZ0Jkc1Rkc2xlYlRaU19MR3VOcWowNHIzTWZwV2xPcTB0bldnUkRfdEZjV1lpQlYydlI4aDJXb01qaHZiWk1hc0RJZXlwLW1C0gG0AUFVX3lxTE5DSWdVVVJwV1YzWGZ3TkYtRVpseU83eEw4SW5vSmx2RmtOdmlzWTVjZkVXbkVmNWVRTWlQN015WVVqc29Cc0ExQ1NmZVRMQTllSzlLX05RWVVkQmtlR003bDBIMEdFdXNRb09ZaEswX3lrRVVSY28tZW0zNzIzbVNubEpOaHNkR2t1MThuRHhkMW50NkVkczlsWDZqd2JqS3Y3aDEtV2tvdm9PNWxMQnMxYnNaMA?oc=5
+- Meet The Startups From Peak XV’s ‘Surge 12’
+  VC firm Peak XV Partners has launched the twelfth cohort of its accelerator and incubation programme, Surge.
+  🔗 https://inc42.com/buzz/meet-the-startups-from-peak-xvs-surge-12/
 
-- ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny? - aljazeera.com
-  ‘Shaken faith’
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaldvcTdVeU5wV1BUYTUxQUVtRXk3SnNtTFUyYnlqdjVORkROc3ZMXzR1QkJWNTk0TVBRckZoXzluR1Nzd19UaDFpSThZMThFZEdNOExtMHZDS3JUSWZCRHI2WE9TUW5adkc4VGZaejkyRElibk1ENllFdnlDcE40bE9NMEhZN1VyWE5TRjhwdnZOTGJORXMta0ZnR05nNHNFcElaNF9mZ2l1SmfSAbABQVVfeXFMT1hkOTBjRnVoeWcwVGZhOXBIazMzc2JCWXpsNnpLX2pmNFZuSEdOLU5rbDRFQUhsaGVCV1hQWGlKMjg2VnBWUElCSVNOZmZvNUdhWlNtOVlmUldQdWhNcVJqeUJubWhoMWtpbjRxXzZ0ZVg0UFZnUjNuOGJnUEZ1czQ5X2prUEZkRG5Gd21faVBlcVZfYTZEVE8zZVY2QW0wNXN5V1F3UjdaZ1prOE1ReWM?oc=5
+- CTO Summit 2026 Agenda: How India’s Tech Leaders Are Rebuilding Products, Teams & Systems For AI Era
+  There was a time when adding AI to a technology roadmap largely meant identifying a few use cases, running pilots.
+  🔗 https://inc42.com/buzz/cto-summit-2026-agenda-how-indias-tech-leaders-are-rebuilding-products-teams-systems-for-ai-era/
 
-- "Terror Will Have Consequences": India Hits Back At Shehbaz Sharif's UN Speech - NDTV
-  "Terror Will Have Consequences": India Hits
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjFDbHZsekNRNUIwTGNVRXZNV0I0eEVHdmxwc1dDYjNDX3I1TURYZzNzNEdNQm5MT0w1LWFBVVlqdVVqSTNoc215U0xmbmkxTkw2MzVjcXp3czhOVkFkemR3TnVMSkw1U1NBRUMtQ2o0aHBHTnp1TVNzVlRwSGxReGduRkNUcVZOWG9Ra1gteFhucVdBRTJ5REJIcC16YmU3T09pN2JfMFBCWnB5VEVWRi1tTnpJemNpV3R5aDFZSVJOODY5YXVVOUk2T3ROajVqYXBYRmY2dVV1WFQya0c2bnN30gHqAUFVX3lxTFBQaDNGaFcyTzZaUGNpQVdNeFRBYlM2ZHVGRDhuWEk2LUNLcWxaOV84bGpGZG9zOVlNeGRKdVFxcXJyaWNIWGxtWWx5Y1F5ZDJ3MThQNHprZE5qU3NoSUJJZzl2MWkxeTNkQU95cHo3TFZnUjYzTFFmS1ctcW5tS0ZkZWtoeGNtVVdpZjlkNGo0WWJoRXZrNUJBb3R1amRKTzl1NWZzTFBfUDBVcmF1NWYzT1ViWk1XUTJNZWRENmc3U1dnNUdKVFFXYl9ULUNnMmljNTlhOFZoa0xuR3B1aU9rdU9WeGFXbG1Jdw?oc=5
+- WEH Ventures Announces First Close Of ₹250 Cr Fund III
+  Seed-stage focused venture capital firm WEH Ventures announced the first close of its third fund.
+  🔗 https://inc42.com/buzz/weh-ventures-announces-first-close-of-%e2%82%b9250-cr-fund-iii/
+
+- ITC Completes Yoga Bar Acquisition For ₹645 Cr
+  FMCG major ITC has completed the acquisition of 100% of Sproutlife Foods, the parent of healthy snacking brand Yoga Bar.
+  🔗 https://inc42.com/buzz/itc-completes-yoga-bar-acquisition-for-%e2%82%b9645-cr/
+
+- Fat dogs of Delhi: The unusual election gripping the Indian capital - BBC
+  The unusual election gripping the Indian capital.
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ydjEwMGFTNHdadmM1N0REalhIZmpodEJPMHJsQ0JORHhXRE4tbWhmYTM5Q0E0b0pYZjhMSThRWExWSTBaQlZSd0tLNW9ZU3FuYk9VbHNHUEtMb0E?oc=5
+
+- India In Talks With China For Alternate Route Amid Pak Airspace Ban: Sources - NDTV
+  India In Talks With China For Alternate Route Amid Pak Air
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNa21KTWVnWXVWclF6UkVncVJYMGRVMnFaUWpJTVNXYTV5LTdxNmFuMXJoczBpVnFUX204NllhN2hwaEtYd3RBc3RhNzZPVnVxR3NTXzdTVjRISWcyTXNaMnU1cVJNd2RZTElJZ3lDSEdOcXpNTGVseWhxWk9hWVNPb2l0YzBLVzJDTk9WSmpIcXdMbjZTOW4wTjJIc1BZc19kLVJDbXpoamJyaWZ1X2hFZzJ5SmpvME0?oc=5
+
+- INDIA bloc announces Odisha bandh on October 8 over new mining law, other issues - thehindu.com
+  India bloc announces Odisha bandh on October 8 over new
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFYtaVdXVnJVdm96eW8tQ2lieVk3NGg3MU1wVW1pRFRHQXhROVJRdmtIRFlLbF9rdEx4TnhoUmFnT05RZWJKemNIMmVMSjBhcjRTSmpOYlpoUXVhZWt4NU40ZlBONFlIQ2xweW8xNUMyeGhhWjk3N0ZCOUcxTzFBRTJTRU95ekwwaGFpNmc5X0FCT1V5MEQyZk5fOU9ab0tZNndhSWRGLTJLdlhkRW4zM3gzSk1lUDhCRVA1Q3ZRd1BFa1lEaHpsTWwyMVcwbHZkcFlHZ0h4OEhyRmFxN2fSAeQBQVVfeXFMTmZBbVdwSVlReEVEMmo4S3JNV1hYQlFZQlpEVElROW9DeVdCemVqSE45c1U0ajVWZFctRmFSN0pjSkxkWG8yYzEweEpyRHFlMmU1N0lxRVQ3TGlfcmF2NGtEOGNmbTA0OVBvNlp5V2owX1JKb3IwaGRiV2ItTnJHTHhwbm9vWk8xTzhTTEU1TjZwaUlqYmNpOXkwSEtDcG9UYUhoQWVDR3BETzlvZ016UUlvMzVQaGU5eXlWS0dta1IxUG5MYXFyZlJQQ2MxdUNETEhZVEdYajk1c3c5MVd5ZzRhOWlN?oc=5
+
+- India at Asian Games: Live updates from Day 10 action on September 29, 2026 in Aichi-Nagoya - ESPN India
+  India will be competing in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3RIUHhZOUlXRTc5RXNobmtfQlVuMVN2TW8xaVd6TTlVSE9NYzI0d1AzLWlDTXI4TnhjNkZPSlFPc0hvWE5pNzRCRWxnSzE5T1M0QVdrYUs0MGR4UGpnZVhuVEdaQThxOXFqcGJiNE55YVBzdkN2TW9wTzZRN2J3Z1FBcy02RjB5UjdRb1hWVXhnWFlGUXRLVTFlNUh1OHlqVE0wWVRWc2ZfZzh1djdSYW5vam1kZ1RuZDMwdkJWbU45TUp4RFgxWEtFREtJNzRDbHdvQnNGYWNUZVpFWWF6LVlkUkRhNktJMlE?oc=5
 
 - Asian Games 2026 live, September 29: Know India scores, updates and results from Day 10 - olympics.com
   Asian Games 2026 live, September 29: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQcGRmeXJpLXcxakt1SEUwWUpTRjFJOWNGNHFwV00ybVNPempLVHVYcVpkTnJoQUItbHhGOGc2R2o4NFRoa1cxcE16R3FmbERLRlJfR2sybXN5dkd1a1VfU1NOQklnc2hrVE1KWWpUd3ljcUUyd3lrS0xSaHdTRWJHemIxV0ZJREtVZE95a3dfUV9EVzNSRWJQUzBDbDE?oc=5
 
-- Dhaka begins search for missing Assam woman - The Times of India
-  The Times of India reported that the woman
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2ppd0lvdU5aWDJYM2ZKQng4MVBId1dUbVd0LUc4SkFvRC1jdTAyYl9MNXpfSkx6bm90M3RNc0tIMXVubjZ1VW1zWDZPM0pVRmUtbUlzQ1FSM3VkVndqeHRkOVVjSVNidjhTaHBEVFlFRVhqelBCWWZrR0FiUVN0OUNwd1l2c1FpQ2pHcTFNcTFaUnRYTC1tY01uNlFXZzM1MlR1N2JjX3h2Y0Q5bGhLLdIBtgFBVV95cUxQdUliaHdGV0RaTmZ6R2NhaVVuQ2EzQjRuU2xTNy1EQjVfeHhkTExYa0YxZVFTYnEwS3FQYlJOSnRtYU9OVUNPcGdkeXU5VFdsSUpVSktoNjlQZzdRUkJhU1hIMlFSeW8yYndtWU5kcXRYemFUbm9BYTY0QXZOQVJGWGw3djhKZWlJRlduUUhtZEFONkFLZ1pNN3RuZC1BRDlOM1Z5RmxUYnZIYkVTRTNPWmoxaVdNZw?oc=5
+- Fat dogs of Delhi: The unusual election gripping the Indian capital - BBC
+  The unusual election gripping the Indian capital.
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ydjEwMGFTNHdadmM1N0REalhIZmpodEJPMHJsQ0JORHhXRE4tbWhmYTM5Q0E0b0pYZjhMSThRWExWSTBaQlZSd0tLNW9ZU3FuYk9VbHNHUEtMb0E?oc=5
 
-- India's Essar Group To Build "Largest Steel Plant In US History": Trump - NDTV
-  India's Essar Group To Build "Larg
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDFzYkJ0NlJBU1d0ZDEteDB1RmdYOEVVcTdnQUFfZTFFSTd1dGxURXBJY1NWbXlNTktVMk53RFk1emFCQVMzSFpkVmhlWVo2SU4tM0xSUFZSc1lrNVdKZmNfRmlvZ0Jkc1Rkc2xlYlRaU19MR3VOcWowNHIzTWZwV2xPcTB0bldnUkRfdEZjV1lpQlYydlI4aDJXb01qaHZiWk1hc0RJZXlwLW1C0gG0AUFVX3lxTE5DSWdVVVJwV1YzWGZ3TkYtRVpseU83eEw4SW5vSmx2RmtOdmlzWTVjZkVXbkVmNWVRTWlQN015WVVqc29Cc0ExQ1NmZVRMQTllSzlLX05RWVVkQmtlR003bDBIMEdFdXNRb09ZaEswX3lrRVVSY28tZW0zNzIzbVNubEpOaHNkR2t1MThuRHhkMW50NkVkczlsWDZqd2JqS3Y3aDEtV2tvdm9PNWxMQnMxYnNaMA?oc=5
+- India In Talks With China For Alternate Route Amid Pak Airspace Ban: Sources - NDTV
+  India In Talks With China For Alternate Route Amid Pak Air
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNa21KTWVnWXVWclF6UkVncVJYMGRVMnFaUWpJTVNXYTV5LTdxNmFuMXJoczBpVnFUX204NllhN2hwaEtYd3RBc3RhNzZPVnVxR3NTXzdTVjRISWcyTXNaMnU1cVJNd2RZTElJZ3lDSEdOcXpNTGVseWhxWk9hWVNPb2l0YzBLVzJDTk9WSmpIcXdMbjZTOW4wTjJIc1BZc19kLVJDbXpoamJyaWZ1X2hFZzJ5SmpvME0?oc=5
+
+- INDIA bloc announces Odisha bandh on October 8 over new mining law, other issues - thehindu.com
+  India bloc announces Odisha bandh on October 8 over new
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFYtaVdXVnJVdm96eW8tQ2lieVk3NGg3MU1wVW1pRFRHQXhROVJRdmtIRFlLbF9rdEx4TnhoUmFnT05RZWJKemNIMmVMSjBhcjRTSmpOYlpoUXVhZWt4NU40ZlBONFlIQ2xweW8xNUMyeGhhWjk3N0ZCOUcxTzFBRTJTRU95ekwwaGFpNmc5X0FCT1V5MEQyZk5fOU9ab0tZNndhSWRGLTJLdlhkRW4zM3gzSk1lUDhCRVA1Q3ZRd1BFa1lEaHpsTWwyMVcwbHZkcFlHZ0h4OEhyRmFxN2fSAeQBQVVfeXFMTmZBbVdwSVlReEVEMmo4S3JNV1hYQlFZQlpEVElROW9DeVdCemVqSE45c1U0ajVWZFctRmFSN0pjSkxkWG8yYzEweEpyRHFlMmU1N0lxRVQ3TGlfcmF2NGtEOGNmbTA0OVBvNlp5V2owX1JKb3IwaGRiV2ItTnJHTHhwbm9vWk8xTzhTTEU1TjZwaUlqYmNpOXkwSEtDcG9UYUhoQWVDR3BETzlvZ016UUlvMzVQaGU5eXlWS0dta1IxUG5MYXFyZlJQQ2MxdUNETEhZVEdYajk1c3c5MVd5ZzRhOWlN?oc=5
+
+- India at Asian Games: Live updates from Day 10 action on September 29, 2026 in Aichi-Nagoya - ESPN India
+  India will be competing in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX3RIUHhZOUlXRTc5RXNobmtfQlVuMVN2TW8xaVd6TTlVSE9NYzI0d1AzLWlDTXI4TnhjNkZPSlFPc0hvWE5pNzRCRWxnSzE5T1M0QVdrYUs0MGR4UGpnZVhuVEdaQThxOXFqcGJiNE55YVBzdkN2TW9wTzZRN2J3Z1FBcy02RjB5UjdRb1hWVXhnWFlGUXRLVTFlNUh1OHlqVE0wWVRWc2ZfZzh1djdSYW5vam1kZ1RuZDMwdkJWbU45TUp4RFgxWEtFREtJNzRDbHdvQnNGYWNUZVpFWWF6LVlkUkRhNktJMlE?oc=5
+
+- Asian Games 2026 live, September 29: Know India scores, updates and results from Day 10 - olympics.com
+  Asian Games 2026 live, September 29: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQcGRmeXJpLXcxakt1SEUwWUpTRjFJOWNGNHFwV00ybVNPempLVHVYcVpkTnJoQUItbHhGOGc2R2o4NFRoa1cxcE16R3FmbERLRlJfR2sybXN5dkd1a1VfU1NOQklnc2hrVE1KWWpUd3ljcUUyd3lrS0xSaHdTRWJHemIxV0ZJREtVZE95a3dfUV9EVzNSRWJQUzBDbDE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-29 03:49:33 UTC_
+_Last updated: 2026-09-29 12:02:49 UTC_
