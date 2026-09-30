@@ -4,121 +4,165 @@
   CEC Gyanesh Kumar has been in charge of the school since 2011. The school
   🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUFqM1gySVFZNlFkUHc4amtVaWQ3TlpoRTZBeDkyeW9VZFB0LUd4bGg3Uy1jN29zS0tucHZsN0xZRHZYMGNGamNkVlBQZ1Q2b2U2dk5ueUFXZlR6RUdwcjdjanpRTEplTkx6WUQyaGdKTEZ1M25hdUdzQjM0X3JsQURGajJRT2Q1YkwtaHlBQXhrQ2ZmTzc1WHFhekpWT0FEaWxYMzViOExBWlU3LUJZYjJNQkYyemt3WTBIM1h1Ul9GODFSVVpQb3AyS0ZWVmx5OFluR05vemxwX2l0MDhzS1NxTWNTZ9IB7AFBVV95cUxNZmZvUmxnTUdBaGJRRWRfa0Ria2puU293eklVODZnS3pVbGNEeWFYeFpfQ21CcVJyVVlYUVhHSWNjTUpvS3ZiOWhjX2pyQVlHMlc4bGxXR2drd1Bsb08xR1FONTdQaDdQR0g1U0wwVEtHRGFCRGMwSXNhR1pjNG5ZMnozOWJhT2F1V3RaQ1I2WHJqaEZtazJyWUZtYllEaGZjSlY3LUEwbnZ3aVV1czJ5T2VSOXd1VWFUNk5WRVV2d3dlTnpvOWk2TjJaMGJRZDcwbF9tWXI2bHUwamhtQ3NuQ1JqM25nRzNLSHdadQ?oc=5
 
-- 5 New Sites Added To India's UNESCO Tentative List For World Heritage - NDTV
-  5 New Sites Added To India's UNESCO Tentative
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNakx1aUhVOHZyVmhPMlhIenIwUEliT0FPT1pzRG0wMVJEUng0WmcxSWIwVzVhX21jRHMxdXZxM0tqeGJCSlBGMFNjc0FCTU45RjFaOU9SdmhXWVJPanBHOUFqTnQ0TnZzRDJDRWhZZ0tjUnRwOFU5WVRkMVFLYlFDVHpyT3lxTlg1Z1Z6NGtTaE9UMGNtazByVDM0ZVV0LWl1cnJuM3ZaMVljLW9lQmfSAbYBQVVfeXFMTzUxZl9yaTkyR1RoUmt4OUdxMERnaXdLYk9hX2NKUW9HYjQxU2JHaUk2UUVfblZHckFlQ3NfdmN3X29SS2dxekdnRW9ZNUxBRGJWb2ZrSkJtdFZSRS1SaFZERWoxeloxN2tTbFptclZXUi1NZUloNjI3ZGwwWXZCb0dOSUdINFRFbTNfX0xjQ3RQWG1sRFo2YkpCeGViNFk2a0Zra1pwLWN2Q2VhUDlJZ3hfclJQTnc?oc=5
+- Asian Games 2026 live, September 30: Know India scores, updates and results from Day 11 - olympics.com
+  Asian Games 2026 live, September 30: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0dSZHJEV2tVZDJiMTZ5cHJiMFZObHU2TWlmWlZSWEVKY1FSY0FzRmI4cWFpallSdkd4Z05lNURmMkZteWhoUFZFQTVqd1lSRTRqeWFaZ3htNTZHMFRzZEVndGNKY2VwSHVuZWxwdlM1Vm1hTGNUT3pEVEZDb1pJYWNXT1dMV0d1V2RMQWNvWVczTV9tcmJOWFZuRUg?oc=5
 
-- Rajasthan first State in northern India to complete digital identification of farmers - The Hindu
-  Rajasthan first State in northern India to complete
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkQyQUktNGpBYlktZi0tTU5sT2h5aU9IWnNRWHBnNldWaFN4azFwODBQc1VDbzgxV2RMMnh2LWdHSkRKOHJqUVJsSEw5UnJHdTBScHQ0dmhDRVFBdFJEeDFYLVAwQ0piZWVQVS1iQ21zLXdoV0hzUl9JaVlhRFp1UDlEY1dpMEJ2S2pZWm9TTnFUM3g0QU9uTG9zUGlKZFhoRGsxMUxxYkV0YzJlN0JtTEJobl9wc3BXVzE3ZWhxczZKcFVHNjBTdTJtS2FkNXR5amxPYmhmUmMzd1BsS0Z3OWM4ZVlqYW1QUEHSAfABQVVfeXFMUEtXZ29ZcmFPcTFPTXhrODhkdFV6N2pUZ3BRVzR5RE84cEhvbU1jTEVLdVd6LXh1bUVBdHRNbThuQUo3SHVKTmVtM0x2YWlYYlNmeVJFSEpnS2dibWoxOVl4WEFpOUl0ZU9kUWE2WVRuUl82eTNxaDN6c0tuYnBKZG5ZVnZNOE54OTM4T18zV3JvTVhNYXd0ZWRramVmZ2VDUVVabHFTZGJhT3g3TkNveHp3T1JYZnpRM1VKVzc0NU0teEtnQzR3MERDMGx6Q3dJLXkxb25CdG5hOVhrM1N1NWhENFUwS0JIT0ZpdlRJOXl1?oc=5
+- Asian Games 2026 Day 11 Live Updates: Gold medal match soon! India mixed compound team enters final; women’s archery team bags gold - timesofindia.indiatimes.com
+  Asian Games 2026 Day 11 Live Updates: Gold medal match soon! India mixed compound team enters final
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSDFVcjU2ajRoSDhLZWRFUUdLVm0tblpJNURvN2F0T0t6NVI5WTRLOVMyb2NrYnAzSVlydG9pX3ltbURkMmJrOWFSZmpoSGVuNTZIR3pUUnMxbUp5SmYteGF0b2Ixa0xXOXVLeGI1MFAxUHIzQ3ExSGg0c3ZmOWtrM1c3cUR4aUJqN3FwYmNPWGVIMmt2eEtaQ3lrMHAwYnBGdW1nNFFKRXl6R3pTcU51aGlKVllUTU9rVFpJRjhwbzJpVnV3WFRpQ09IZGJaUmF6Vkw1MHF6NjZoMHI1WkM4cjRLZEUtdWZYODFaVWpTT2lUN294djVURXNB0gH_AUFVX3lxTFBKYzBPeTc2MGdmS1ZwVXJyTnRGMzV0TmliV25vSTkxYjhnbWcwSkd2UmtfWXZvQ3J2ZHVvaFF0V1lacHN6bUFJNVN1RmlrNUd4a3FZWE1ja3o2NTBfVjN3SkxpaFZ5MGxPT1hMWWJ4X1JmUjM0UDRMVEMtLXdFazdURlI5SHBUazVrOFFza1NzVGtlTHdKc05xZFRBckZ3YU5PeWU1QUFORVZjeVNhRnBsM0EtaGNTWTZFQ1pzLXNBUEo5aWhtV3ZDUktOTzFkZHZVWUtJR1hCalJzbnpCZU9PMmV6a1RhTjAwdXM1clhtSUdDajY4NVgzUmVSeFFGTQ?oc=5
 
-- 15k Ladakh-grown Liliums set out for national flower markets - The Times of India
-  15k Ladakh-grown Liliums set
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnBwMmxfUURyXzdBeUlaVXViLU9fSG9SeEF6MnAxM2pzVG5QTlVuSmlKR3p1RF84RTlVcUk0SzF1TzhPbExZWEo1VGZadlM2emZkbzl2YzBVOWxoOGhTQy1JaWpaSjJRVzRIYk4wWmNsRmRUbldtSjhMc09uYnZkMGNBMzRXNzUxZVZyNkhNSHJCZUk3aFRKT29ybXFrRGNHc2hNNUcyMUg1UWpZOGJjNTRQUDlGSXhOM3Z2R2pZUFdiSWwtdHVN0gHMAUFVX3lxTE5uMjJyak5Pa282eEMtQTlzSHZlUTZnZnZJTjZnM0p5UWtaSGdRczVKbVBzQWJvYTZHYUlvek9paWd6T2k4X1pWOTZhUTU1NjR5LTBsN1JxVmJsWmFvc0dNMXdtRTNJQTNSVWpocnItTElSSVZIUGFMZlAwQUJ5M1k4OWJkY0FhcEN1VEtoWG51OXV1SmFoREVrSXllY0RTTGNMMWV3RzVzMkFaS05wczA3M2NfbGk1U1l6UkI0RWRNcUFKM01VYXpnNEU5aw?oc=5
+- Latest Hockey News and Updates - Hockey India
+  Hockey India
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeVNQU3VaQXBGUDJkaVZycDdGRldldEVVVjJtT25tM0ZxX09aVEtDUGpIZlM2U0k1QWx6RENkMDVjVERsNFpEZEE3MV9xOVM0WUpkTzhVMzB1TEFSSEdTaGdsZzFnZ0JNRmR4OFR0dExEOGJodXpqN0tUcWJoVDVOWWpsNDRUcDlZbDdoQTBWNjJQUXlHLU03elZUMTNVRHRKSmVJbkhjcDlLRHZzZjlsNjZWTno4SHdJbmFRTV93SXR6QzBYMnJNUmhYUFZFSGRFZHgzOHQzMXJRS3g2UlB0VGJpZFpZc2p0QWxKV0NIQXNDY1pOellEQQ?oc=5
 
-- INS Tarkash arrives at Mombasa for Operational Turnaround, strengthening India-Kenya maritime cooperation - News On AIR
-  INS Tarkash arrives at Mombasa for Operational
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXROOGFQbWMzbkFSYUpWMmVYZmRfdFBOYnhPaUlNN0ZnT3B6MmstQUxnLTVJZTY4Q1RNRkIyS1lsSkVFakZHYkdsdzc2bWZyOGRYb0N5andhMmdHNEM0dkt3TGkzR1BvWERtbV9oaUZFekhyWnM4d1B1dE9uaHFHOThDVFl2TTZEQXdPNm5mbVUxRWRxRHNVN1FxN1pyQThaU0ZTdkd0U0xFM25IS01NTTJBb0JYcmRaSG5KQkhiQ1lxQVpXdG11R1hR?oc=5
+- Wanting Father Around, Woman Preserves Body For 4 Years At Mumbai Daycare - NDTV
+  .com/news/2013/01
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOamUtZE51d091UmduYnZzb3dwX0lhb2JFMk9Ickw4d1FrMHJTNG5RMEQ0WjdUaGJxNkRuUF92Z0VPTlZoX3B0YkttemJUY0xudnFVVUotaFFYaGFoaEgyNVNGd1hwS2FWQ2tCTEdQMVd3YTFaOXpoWjhHTmoxT1FoUmRkQVVtalUtYTFVRGNIS2xvZGNEUm16S0tyd0loR3VtSnNvTWx4bG5qSVdvRkRkQzZ30gG6AUFVX3lxTFBvRUFsWGctQ2JCUWpHa1I2MUFJTWNlV2ZVRlFqSjRSVEUxNzAxbU45WWlzWXVjbFNlZUFjX0RfblZJRUoyQnAxUER1cnBYWlo1ODByN3BUM1Q4SUJ1MHhfMlgyZlV4U01VU0djRThmdW1pdTVxOGlYOTRtM1N5eTJfaGx5aWlWdWRkSDUyakRmbFdnbWxTZGp1LVk0MTl3Nk5vMGFEX1dldWdFeGExUlpkcGdTNHdzeWx6dw?oc=5
 
-- World Labs’ Fei-Fei Li Is Worth $1.6 Billion After AMD Deal
-  World Labs’ sale to Advanced Micro Devices Inc. caps a rapid ascent for the two-year-old AI startup. Co
-  🔗 https://www.livemint.com/companies/world-labs-fei-fei-li-is-worth-1-6-billion-after-amd-deal-11790707106751.html
+- Trump gathers with AI leaders and floats ‘self-regulation’ as the way to deal with the technology’s dangers - Yahoo Finance
+  Trump gathers with AI leaders and floats ‘self-regulation’ as the
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVGM1M0Q3OVg3TlR0QllZQkhiZHAzOWxaOFF6Z0JkTU1EbWFrUEFMYlhHajR3NkdjZEVDOFBMeVAzc09aalJJTVViUDNPWFJOMDY4VENuVlh0bGVBSXJ0MnZUZUtJSjVVRHdzUmFnSWNlZXI2T01JV3lWc3lfYmhDNXlFRWV6S2pTUDEzUWJEbnlzQUt1WTNkRzdoc2NGb0hPZ0sxcTA0N1BscGxIVDhhTFc5RDd2LVZQcWZ6U1g0OVpDZ2NqTi1YbmZnd2QyQ2FDNG9sSk5CR2lBSDNFN0pvdXFtT096UjMyVnU3X2Y3WXpGZw?oc=5
 
-- Hope RBI engages with us to find a solution to avoid Tata Sons listing: Noel Tata
-  Tata Trusts Chairman Noel Tata said the proposed reorganisation of Tata Sons complies with RBI guidelines. He urged the RBI to engage with Tata Trusts and find a solution to
-  🔗 https://www.livemint.com/companies/news/hope-rbi-engages-with-us-to-find-a-solution-to-avoid-tata-sons-listing-noel-tata-11790703512196.html
+- Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards - Al Jazeera
+  The White House announced plans to use artificial intelligence
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmkxaXdpblpjU0EzRG9nUUJTWGt2VE9EYzlWd2Nlak5SQ0xfMmRfVnBQTG8zTy1oRTByUHZxSXFSNzFVMFF6b3BtU3BGUy04bkxDcVh6YUQtNTdINk1rRnk0QzZMWlpvVFpLbGs5dEdpNk91YnpqTFphQkRTV0NwZlMwUnVjT2JlZUJYUVBsazM0bHBWY19Cd1FkVlVuQ2RFdGhqdG9B0gGrAUFVX3lxTE11LV9UV3QxeF9VMU9YZS1JUmotR24zNGc2UVVHUWxRMU53NnQ0eVl1clpaOWdSWlRuaVBhS1RPQVM0Wlk4ZU1xQkxvTjBGWFIweEd1Uzl4bEk0Q2ozVG95bXhOUWtzUFBVTHFpNzRUYmFZVE1kYl9iRDQ4bENCUm9sUkttcm5rR1BmT2I4aHZqZVBPYmpGOFYtZnZ2SXo4bnFPYU53X1J1WWpmRQ?oc=5
 
-- Who is Neeraj Jain? Bengaluru-based Social Alpha, which backed 450 startups, gets new CEO
-  Former PATH regional head to lead Social Alpha�
-  🔗 https://www.livemint.com/companies/news/who-is-neeraj-jain-bengaluru-based-social-alpha-which-backed-450-startups-gets-new-ceo-11790699009011.html
+- 'We can't stifle it': Trump says AI leaders 'have to self-police' AI technology - Fortune
+  'We can't stifle it': Trump says AI
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPaE03d3ZfeUZTQ2lPeVNUYWJ1RFUxU3NTZW43MW1Wa1I0bnhxNHgxRzVoS1dRTzRwaDBqVlkweXVqZl9VZ2VfaHR6VEEzaUcwbk9CQlBabHNNaTVRa1NjVHhEWWxvTkRJNmo1bWJpdGdvS0pXemxWbFNjU3BOSlFFVTQ5ck90VE04UHc?oc=5
 
-- WhatsApp Business users face new messaging charges from October 1: Will customers also pay?
-  WhatsApp has announced a new pricing structure for businesses using the WhatsApp Business Platform in India. The new
-  🔗 https://www.livemint.com/companies/news/whatsapp-business-users-face-new-messaging-charges-from-october-1-will-customers-also-pay-11790702433462.html
+- Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist - CNBC
+  Khanna to introduce AI safety bill with ban on 'rec
+  🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE12MUwtTy11dnBwd0xxdHROaXlFdmV3MWJaR1dRUGt6cHBCMjhneHhxZEpkTTdQdWRDWUFHY2RXc05HLW4zSDRSUmxGVE9vRWdRQldrb3JNbnFGRXlHeVdxdjdKZjFXR3gtU1HSAW9BVV95cUxQN01MRktKY1YwRVFEYllRUWxONTBfSkNTUEhHLUVXS2kzWjgySEVYS0M3Sk8tNDN2TmQ5WjA2d2lWTWVBTHoyVGJmSjlEZ1dKTkFuMWZ6WldSSFRUbkdqQmVwa0ZiOHFqN3NhczN3WXM?oc=5
 
-- CPP Investments invests  ₹3,000 cr in Prestige Hospitality Ventures
-  Canada Pension Plan Investment Board has acquired a 27% stake in Prestige Hospitality Ventures for  ₹3,000 crore. Prestige's withdrawal
-  🔗 https://www.livemint.com/companies/cpp-investments-invests-3-000-cr-prestige-hospitality-ventures-11790701463810.html
+- Google is a technology partner for the launch of America.gov. - blog.google
+  Google is a technology partner for the launch
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3dobGN6aGpsejJMdHlieHVQSlVNTTNQTEFjaTkxQzIwVjVndUtRcUpCd2hrNWh1alBZbTctTEUtWDI0SFloSzRHYTVESE5kbXdDT3JVdzZxdVZUWG9jaFZKcEJUYVZEVC1PNGVmV3E3NGdQUUJ6YkhZTm1HVzAyZGhtd05TWURmWjhheTNwS0F5MXVzUDFMUEhxVDB2T1JPUWktRUpGeG8?oc=5
 
-- OPEC  Likely to Stick With Plan for Steady Quotas, Delegates Say
-  OPEC is likely to stick with a plan to hold crude production quotas steady for next month, delegates say.
-  🔗 https://www.livemint.com/market/opec-likely-to-stick-with-plan-for-steady-quotas-delegates-say-11790715664930.html
+- Paramount’s $30 billion bond sale draws $109 billion demand for Warner Bros deal
+  Paramount is seeking to raise $32 billion from a financing package that includes $12.4 billion in junk bonds and $7.5 billion in loans. The offering has attracted demand exceeding expectations, with investors
+  🔗 https://www.livemint.com/companies/news/paramounts-30-billion-bond-sale-draws-109-billion-demand-for-warner-bros-deal-11790735235267.html
 
-- Oil prices settle down 2.5% on signs Middle East exports recovering
-  Oil prices settle down 2.
-  🔗 https://www.livemint.com/market/oil-prices-settle-down-2-5-on-signs-middle-east-exports-recovering-11790710347911.html
+- Why Noel Tata opposes Tata Sons listing: ‘150-year-old’ business model at stake
+   Noel Tata has opposed a proposed listing of Tata Sons. He says public shareholders could constrain the holding company's ability to support struggling
+  🔗 https://www.livemint.com/companies/news/why-noel-tata-opposes-tata-sons-listing-150-year-old-business-model-at-stake-11790733627039.html
 
-- Euro Falls to 16-Month Low as Hawkish Fed Bets Boost Dollar
-  The euro fell to its weakest level in 16 months as expectations that the Federal Reserve will further boost interest
-  🔗 https://www.livemint.com/market/euro-falls-to-16-month-low-as-hawkish-fed-bets-boost-dollar-11790707107261.html
+- Linux Laboratories raises $70 mn led by ChrysCapital and Tata Capital
+  The transaction comprises a combination of primary capital and a secondary share sale of Tata Capital Healthcare Fund II. ChrysCapital acquired
+  🔗 https://www.livemint.com/companies/news/linux-laboratories-raises-70-mn-led-by-chryscapital-and-tata-capital-11790692739434.html
 
-- ITC market cap slips below  ₹3.4 lakh crore after 34% fall in 2026. Good time to enter? Analysts weigh in
-  ITC's shares hit multi-year lows in 2026 due to investor concerns over rising commodity prices and excise
-  🔗 https://www.livemint.com/market/stock-market-news/itc-market-cap-slips-below-rs-3-4-lakh-crore-after-34-fall-in-2026-good-time-to-enter-analysts-weigh-in-11790705012153.html
+- Unlisted status gives Godrej Enterprises room to build for the long haul: Nyrika Holkar
+  The executive director of Godrej Enterprises Group sees structural parallels with the Tata Group. He warns that regulatory
+  🔗 https://www.livemint.com/companies/news/nyrika-holkar-godrej-enterprises-group-11790684034557.html
 
-- Nifty 50 prediction: Hammer formation hints short term trend reversal | Support, resistance for Sept 30
-  The Nifty 50 fell sharply by 1,618 points in September, reopening at a low of 22,569.65. Market breadth remained negative, but the hammer candlest
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-prediction-hammer-formation-hints-short-term-trend-reversal-support-resistance-for-sept-30-11790705638152.html
+- JSW plugs into China tech for its electric bus drive
+  The collaboration with CHTC Kinwin adds to JSW’s growing ties with Chinese auto companies
+  🔗 https://www.livemint.com/companies/news/chinese-jsw-jindal-electric-bus-push-chtc-kinwin-electric-commercial-vehicle-electric-bus-saic-jsw-mg-motor-india-11790678151514.html
+
+- China’s Two-Speed Economy Spurs Yawning Gap Between Stocks, Yuan
+  China's two-speed economy creating ever greater divergence in financial markets. Stocks and bond yields sinking to more than one-year lows
+  🔗 https://www.livemint.com/market/chinas-two-speed-economy-spurs-yawning-gap-between-stocks-yuan-11790739016795.html
+
+- Stock Market Today LIVE: Gift Nifty, US bond yield, crude, and gold rates hint at a relief rally for Nifty 50, Sensex
+  The Gift Nifty is trading below its previous close. COMEX crude oil prices have eased in the early morning
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-live-gift-nifty-us-bond-yield-crude-and-gold-rates-hint-at-a-relief-rally-for-nifty-50-sensex-11790736770386.html
+
+- These top 3 developments from US stock markets have a direct impact on Sensex, Nifty, Bank Nifty, Nifty IT
+  The Indian market is closely tracking developments on Wall Street as elevated US Treasury yields, oil prices and movements in technology stocks
+  🔗 https://www.livemint.com/market/stock-market-news/these-top-3-developments-from-us-stock-markets-have-a-direct-impact-on-sensex-nifty-bank-nifty-nifty-it-11790734384618.html
+
+- Top stocks to watch today: KPI Green, Tata Steel, NLC, NALCO shares in focus on Wednesday, 30 September | Full list
+  KPI Green, Tata Steel, Inox Green, Urban Company, Poonwalla Fincorp
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-kpi-green-tata-steel-nlc-nalco-shares-in-focus-on-wednesday-30-september-full-list-11790731759782.html
+
+- Mideast Crude Oil Flows Hit 98% of Pre-War Level, JPMorgan Says
+  Crude oil flows from the Middle East are almost back to pre-war levels despite continued risks
+  🔗 https://www.livemint.com/market/mideast-crude-oil-flows-hit-98-of-pre-war-level-jpmorgan-says-11790732517376.html
+
+- 'If we do this right, we can win safely': Tech Czars commit to safety standards for super-intelligence in meet with Trump
+  Trump and the AI czars signed a set of voluntary safety standards.
+  🔗 https://www.livemint.com/technology/if-we-do-this-right-we-can-win-safely-tech-czars-commit-to-safety-standards-for-super-intelligence-in-meet-with-trump-11790737785030.html
+
+- Trump-Tech czars sign 'morally binding' accord on super intelligence, tighter guardrails on cards
+  U.S. President Donald Trump and the chief executives of leading technology companies have signed a joint, "morally binding" accord. The accord commits to implement a comprehensive framework of "four layers of controls and audits" to govern the
+  🔗 https://www.livemint.com/technology/trumptech-czars-sign-morally-binding-accord-on-super-intelligence-tighter-guardrails-on-cards-11790737779681.html
+
+- Trump signs 'morally binding' agreement on Super Intelligence with tech czars
+  President Donald Trump signs "morally binding" agreement with technology executives. The agreement aims to guide the rapid evolution of artificial intelligence.
+  🔗 https://www.livemint.com/technology/trump-signs-morally-binding-agreement-on-super-intelligence-with-tech-czars-11790737779750.html
+
+- Chinas AI agents can lie and scheme - just like their US rivals
+  China's AI agents can lie and scheme
+  🔗 https://www.livemint.com/technology/chinas-ai-agents-can-lie-and-scheme-just-like-their-us-rivals-11790737747289.html
 
 - Trump vows to never stifle AI as he gathers with tech executives urging caution
   Trump gathers with tech executives urging caution on AI
   🔗 https://www.livemint.com/technology/trump-vows-to-never-stifle-ai-as-he-gathers-with-tech-executives-urging-caution-11790710895674.html
 
-- OpenAI CEO announces new AI agent and avoids mention of security concerns at developer conference
-  OpenAI CEO avoids mention of security concerns at developer
-  🔗 https://www.livemint.com/technology/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference-11790707971529.html
+- Markets News, Sept. 29, 2026: Stocks End Lower for 2nd Straight Day as Treasury Yields Rise Further; Oil Prices Slip - Investopedia
+  Markets News, Sept. 29, 2026: Stocks End Lower for 2nd
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQbW9sYnZxSzNHQmhBeTZEdWo5UW8yWjJwV1Z4cFh2T2d2U0xVRWlpY2FUaVUtUlVfRmtSQmV5bE53NFAxd042VkJ2SVpUVFhJTUNnMGpfMmlWcnl3Zkh1akplaWtXYW44OTZhZk02Y0JtekxCWVZFS19Rckw1RjFOWE5BTk5nZXZTRU9fTWl1Z0I?oc=5
 
-- At UN, developing nations call for bigger say in shaping AI future
-  At UN, developing nations call for bigger
-  🔗 https://www.livemint.com/technology/at-un-developing-nations-call-for-bigger-say-in-shaping-ai-future-11790706920129.html
+- Stocks Fall as Long-Term Yields Hit 24-Year High: Markets Wrap - Bloomberg.com
+  Stocks Fall as Long-Term Y
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQODhVaklOeWxwTzlmNzFhOVNJbklKakh1cnBSQWdqX2lEbWZldjlCOWhmaWEtb0FzaE9hTkV0SWpfVUR1cjlVNzROWUhlNDE2SnJmclFfWGRtT3FESmNrb05ENWxHZnJSYWswcHFPdGVpa3FPOTY5WjFzQmtubFd4OEY5MVBXMmtZUWhNN0Vzd3Npcm5S?oc=5
 
-- HMD Vibe2 Pro 5G first impressions: 120Hz display, 64MP camera and 6,000mAh battery
-  HMD Vibe2 Pro 5G has launched in India, starting at  ₹14,999. It features a 6.78-inch 120Hz FHD+ display, Dimensity 6
-  🔗 https://www.livemint.com/technology/hmd-vibe2-pro-5g-first-impressions-120hz-display-64mp-camera-and-6-000mah-battery-11790681172292.html
+- Stock futures inch higher as traders weather latest rise in Treasury yields: Live updates - CNBC
+  Stock futures inch higher as traders weather latest rise in Treasury yields
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9mT1J0cFBqQy1oclZ1Vi1mazZCcjh5NlhQWlloZ3BTbFVWdW1vYnJFYlZ4UGx2aFJwX0l3a0tMTHVKMkpjSW9tZ3NMWkE2TjBLRzRidlAyMVJ4LVlHVm40clhZWGRxWk8yMGdwUlRfamROdUJXT3hz0gF8QVVfeXFMT294cWNsT2RVb3Z1UUtXaWtlQlRQQUFqZmtmWDhKZHJ5N3c4QkZUWHQtN1BBeGp4OFViYm8wVWVUeGRHMXFZSVlZVkQycTlSU0toTkM3Q3IxZGpnWk1UY1RGQVNxNXZvYjViVWYzeUs4MWFPQTZORDczUkd5bQ?oc=5
 
-- Pebble Qore Ultra fitness band arrives with AI health insights and Body Age tracking: Price, features and sale date
-  Pebble Qore Ultra has been launched in India. It offers 24x7 health monitoring, 100+ sports modes and up to 15 days of battery life.
-  🔗 https://www.livemint.com/technology/pebble-qore-ultra-arrives-with-ai-health-insights-and-body-age-tracking-price-features-and-sale-date-11790680683475.html
+- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher, Asian Markets Gain - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUh5NkZKU2dhdDRUWXExcTBHWWhlWVBMZTk4dXk4dXN2bVJBc0h0a0ZjZ01NSmluUWNBcmRvZlJVVHVIRkNiZk8wTnlaMW9XMFltOEkzdVJ3ak1HdlhDMXp1b2N6OVVVRE
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUh5NkZKU2dhdDRUWXExcTBHWWhlWVBMZTk4dXk4dXN2bVJBc0h0a0ZjZ01NSmluUWNBcmRvZlJVVHVIRkNiZk8wTnlaMW9XMFltOEkzdVJ3ak1HdlhDMXp1b2N6OVVVREVoU3FGZkpDZDVXY0MwRmhhWUZFelAxdFNvRk9hUTNvY1VUamZXWEdYdGhFNjRtbXZ5bFQxcUctdERIaTFLaUdGU0VBaTljN0llXzhCbFlHZDdFamo0SklONVA1TGpFNDYtSjF3VG5sLVln0gHbAUFVX3lxTE80X0ZOOTFmUno4ME9BclJwVFNoMGo5NW1xcGRvc3ZIcW1tWlc4Mkh0Vy1FaG1GRXZNbUdBWm0zT1BudEJvT3l2czdRZGFJSkIyVlpKUlgzemVUNGxva1d4MGtsT2FvVFlFNTdEMlRreHhmbXRxUWJYRXZZalA5cXBpMGY5dVF2V2FpNVBZVGZGMTBrUVd2MExDbVA5SWlVTm90X254YTBnWWJjc3NzTmFfcWdOZHYzdGVsdzItSm5UR3NuUXd5Tk1WYzJnY1JEX0Q5WENJV2VVZnR0Zw?oc=5
 
-- US stocks: US market ends slightly lower as bond yields hold near multi-decade highs
-  US stocks closed slightly lower as consumer confidence fell to a significant low not seen in over 12 years. Reports indicated a decline in job openings and a pessimistic outlook from households regarding the economy.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-us-market-ends-slightly-lower-as-bond-yields-hold-near-multi-decade-highs/articleshow/134573718.cms
+- Seminar on boosting Wayanad coffee held - thehindu.com
+  Seminar on boosting
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSTN2UXlOYUFDNzVhY09qVm9HdFgzanc2Q3doZWRPbFgtbnJKQXNRek9VUmYxc1F3YkkyclY4RHNTeWpzWkU2RFhhU3hyX2tPaE5TNVZ6WDNwYmZIV3ZQNVpqVFk1R1dsaGQwbmxWOHZjMmtiRER6TkpPS0RQQ2k0NlNfS2tRRkVZaUdDRVNNYU9jcVVteTRPSzZsc1JqU0JKMm1iVm1wVU5XNm45ZXNQbzJJbllRY0h5MTNVSnpVOUMyQdIByAFBVV95cUxQaFktZUZoWkxTMGV4TGFUZnJEVGc0eDZSN21fakhBd21UeU03THFMSVhIN3dpWlRxRk9TOVN1MGhfbWhXMHJ5ZEFpVnA3Y1RRTUlSUzlvcDljU0FKZUNYbk4zbHFPcjhjejEzSTlUMVJucDVTNmxDNVZYb1M4R2dfd25DVExncnQ2UW53Nk41ZnZOWjNkUi1IS1hMRXUwU3ptNWw3TlBNaHVNTFVEWWRPYWwzbUhaTVF2cXRxSHgtcjlYUlpHNWQ5bQ?oc=5
 
-- Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'
-  Federal Reserve Bank of New York President John Williams said there could be one more interest rate increase before year-end. Williams projected that inflation might end the year at approximately 3.5% before returning to the Fed's target by 2028
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-not-urgent-says-john-williams-austan-goolsbee-warns-against-playing-with-fire/articleshow/134573558.cms
+- Kirloskar Oil Engines among 5 stocks with RSI trending up
+  Five Nifty500 stocks showed strengthening RSI momentum on September 29. Kirloskar Oil Engines, Cupid,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kirloskar-oil-engines-among-5-stocks-with-rsi-trending-up/slideshow/134579659.cms
 
-- Goldman Sachs, BNP Paribas divest over 68 lakh BSE shares worth Rs 2,186 crore ahead of Nifty 50 inclusion
-  Goldman Sachs and BNP Paribas divested 68.33 lakh shares of BSE. The combined sale amounted to approximately Rs 2,186.44 crore. BSE shares ended 3.31% higher at Rs 3,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-bnp-paribas-divest-over-68-lakh-bse-shares-worth-rs-2186-crore-ahead-of-nifty-50-inclusion/articleshow/134573364.cms
+- SIFs should be satellite holdings, not the core of portfolios: Morningstar CEO Kunal Kapoor
+  The new category could expand India’s managed-investment market and intensify competition. Investors should prioritise simplicity, diversification and cost discipline.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/sifs-should-be-satellite-holdings-not-the-core-of-portfolios-morningstar-ceo-kunal-kapoor/articleshow/134578699.cms
 
-- US 30-year Treasury yield tops 5.6%, reaching highest level since 2002
-  Yields on the 30-year US Treasury bond have risen to levels not seen since 2002. Rising energy prices are contributing to higher inflation and increased expectations for rate hikes.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-30-year-treasury-yield-tops-5-6-reaching-highest-level-since-2002/articleshow/134570770.cms
+- FIIs dump telecom for 8th straight month, outflows cross Rs 32,000 crore. Are stocks set for rebound?
+  Foreign portfolio investors have dumped Indian telecom stocks for the eighth consecutive month, pulling out over Rs 32,000 crore in CY26. Heavy 5G capex, delayed tariff hikes, and legal dues
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-telecom-for-8th-straight-month-outflows-cross-rs-32000-crore-are-stocks-set-for-rebound/articleshow/134578716.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Nifty’s indicative price plunged 2% in two seconds during the closing auction session on monthly expiry. Analysts cited crude volatility, high US Treasury yields
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134570219.cms
+- Bonus issue alert! Last day to buy these 2 microcap stocks for bonus share rewards. Do you own?
+   bonus issue consists of free shares distributed by a company from its reserves. Often seen as a sign of strong financial health
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-these-2-microcap-stocks-for-bonus-share-rewards-do-you-own/articleshow/134578227.cms
+
+- IPO allotment today: Orient Cables, German Green among 4 issues; check status, GMP and listing date
+  The IPOs were open for subscription from September 25 to September 29. The shares are scheduled to be listed on the
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-allotment-today-orient-cables-german-green-among-4-issues-check-status-gmp-and-listing-date/articleshow/134577904.cms
 
 - Today News Headlines for School Assembly, September 29, 2026: SC to hear plea against CEC Gyanesh Kumar’s functioning - The Indian Express
   CEC Gyanesh Kumar has been in charge of the school since 2011. The school
   🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUFqM1gySVFZNlFkUHc4amtVaWQ3TlpoRTZBeDkyeW9VZFB0LUd4bGg3Uy1jN29zS0tucHZsN0xZRHZYMGNGamNkVlBQZ1Q2b2U2dk5ueUFXZlR6RUdwcjdjanpRTEplTkx6WUQyaGdKTEZ1M25hdUdzQjM0X3JsQURGajJRT2Q1YkwtaHlBQXhrQ2ZmTzc1WHFhekpWT0FEaWxYMzViOExBWlU3LUJZYjJNQkYyemt3WTBIM1h1Ul9GODFSVVpQb3AyS0ZWVmx5OFluR05vemxwX2l0MDhzS1NxTWNTZ9IB7AFBVV95cUxNZmZvUmxnTUdBaGJRRWRfa0Ria2puU293eklVODZnS3pVbGNEeWFYeFpfQ21CcVJyVVlYUVhHSWNjTUpvS3ZiOWhjX2pyQVlHMlc4bGxXR2drd1Bsb08xR1FONTdQaDdQR0g1U0wwVEtHRGFCRGMwSXNhR1pjNG5ZMnozOWJhT2F1V3RaQ1I2WHJqaEZtazJyWUZtYllEaGZjSlY3LUEwbnZ3aVV1czJ5T2VSOXd1VWFUNk5WRVV2d3dlTnpvOWk2TjJaMGJRZDcwbF9tWXI2bHUwamhtQ3NuQ1JqM25nRzNLSHdadQ?oc=5
 
-- 5 New Sites Added To India's UNESCO Tentative List For World Heritage - NDTV
-  5 New Sites Added To India's UNESCO Tentative
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNakx1aUhVOHZyVmhPMlhIenIwUEliT0FPT1pzRG0wMVJEUng0WmcxSWIwVzVhX21jRHMxdXZxM0tqeGJCSlBGMFNjc0FCTU45RjFaOU9SdmhXWVJPanBHOUFqTnQ0TnZzRDJDRWhZZ0tjUnRwOFU5WVRkMVFLYlFDVHpyT3lxTlg1Z1Z6NGtTaE9UMGNtazByVDM0ZVV0LWl1cnJuM3ZaMVljLW9lQmfSAbYBQVVfeXFMTzUxZl9yaTkyR1RoUmt4OUdxMERnaXdLYk9hX2NKUW9HYjQxU2JHaUk2UUVfblZHckFlQ3NfdmN3X29SS2dxekdnRW9ZNUxBRGJWb2ZrSkJtdFZSRS1SaFZERWoxeloxN2tTbFptclZXUi1NZUloNjI3ZGwwWXZCb0dOSUdINFRFbTNfX0xjQ3RQWG1sRFo2YkpCeGViNFk2a0Zra1pwLWN2Q2VhUDlJZ3hfclJQTnc?oc=5
+- Asian Games 2026 live, September 30: Know India scores, updates and results from Day 11 - olympics.com
+  Asian Games 2026 live, September 30: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0dSZHJEV2tVZDJiMTZ5cHJiMFZObHU2TWlmWlZSWEVKY1FSY0FzRmI4cWFpallSdkd4Z05lNURmMkZteWhoUFZFQTVqd1lSRTRqeWFaZ3htNTZHMFRzZEVndGNKY2VwSHVuZWxwdlM1Vm1hTGNUT3pEVEZDb1pJYWNXT1dMV0d1V2RMQWNvWVczTV9tcmJOWFZuRUg?oc=5
 
-- Rajasthan first State in northern India to complete digital identification of farmers - The Hindu
-  Rajasthan first State in northern India to complete
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkQyQUktNGpBYlktZi0tTU5sT2h5aU9IWnNRWHBnNldWaFN4azFwODBQc1VDbzgxV2RMMnh2LWdHSkRKOHJqUVJsSEw5UnJHdTBScHQ0dmhDRVFBdFJEeDFYLVAwQ0piZWVQVS1iQ21zLXdoV0hzUl9JaVlhRFp1UDlEY1dpMEJ2S2pZWm9TTnFUM3g0QU9uTG9zUGlKZFhoRGsxMUxxYkV0YzJlN0JtTEJobl9wc3BXVzE3ZWhxczZKcFVHNjBTdTJtS2FkNXR5amxPYmhmUmMzd1BsS0Z3OWM4ZVlqYW1QUEHSAfABQVVfeXFMUEtXZ29ZcmFPcTFPTXhrODhkdFV6N2pUZ3BRVzR5RE84cEhvbU1jTEVLdVd6LXh1bUVBdHRNbThuQUo3SHVKTmVtM0x2YWlYYlNmeVJFSEpnS2dibWoxOVl4WEFpOUl0ZU9kUWE2WVRuUl82eTNxaDN6c0tuYnBKZG5ZVnZNOE54OTM4T18zV3JvTVhNYXd0ZWRramVmZ2VDUVVabHFTZGJhT3g3TkNveHp3T1JYZnpRM1VKVzc0NU0teEtnQzR3MERDMGx6Q3dJLXkxb25CdG5hOVhrM1N1NWhENFUwS0JIT0ZpdlRJOXl1?oc=5
+- Asian Games 2026 Day 11 Live Updates: Gold medal match soon! India mixed compound team enters final; women’s archery team bags gold - timesofindia.indiatimes.com
+  Asian Games 2026 Day 11 Live Updates: Gold medal match soon! India mixed compound team enters final
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSDFVcjU2ajRoSDhLZWRFUUdLVm0tblpJNURvN2F0T0t6NVI5WTRLOVMyb2NrYnAzSVlydG9pX3ltbURkMmJrOWFSZmpoSGVuNTZIR3pUUnMxbUp5SmYteGF0b2Ixa0xXOXVLeGI1MFAxUHIzQ3ExSGg0c3ZmOWtrM1c3cUR4aUJqN3FwYmNPWGVIMmt2eEtaQ3lrMHAwYnBGdW1nNFFKRXl6R3pTcU51aGlKVllUTU9rVFpJRjhwbzJpVnV3WFRpQ09IZGJaUmF6Vkw1MHF6NjZoMHI1WkM4cjRLZEUtdWZYODFaVWpTT2lUN294djVURXNB0gH_AUFVX3lxTFBKYzBPeTc2MGdmS1ZwVXJyTnRGMzV0TmliV25vSTkxYjhnbWcwSkd2UmtfWXZvQ3J2ZHVvaFF0V1lacHN6bUFJNVN1RmlrNUd4a3FZWE1ja3o2NTBfVjN3SkxpaFZ5MGxPT1hMWWJ4X1JmUjM0UDRMVEMtLXdFazdURlI5SHBUazVrOFFza1NzVGtlTHdKc05xZFRBckZ3YU5PeWU1QUFORVZjeVNhRnBsM0EtaGNTWTZFQ1pzLXNBUEo5aWhtV3ZDUktOTzFkZHZVWUtJR1hCalJzbnpCZU9PMmV6a1RhTjAwdXM1clhtSUdDajY4NVgzUmVSeFFGTQ?oc=5
 
-- 15k Ladakh-grown Liliums set out for national flower markets - The Times of India
-  15k Ladakh-grown Liliums set
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnBwMmxfUURyXzdBeUlaVXViLU9fSG9SeEF6MnAxM2pzVG5QTlVuSmlKR3p1RF84RTlVcUk0SzF1TzhPbExZWEo1VGZadlM2emZkbzl2YzBVOWxoOGhTQy1JaWpaSjJRVzRIYk4wWmNsRmRUbldtSjhMc09uYnZkMGNBMzRXNzUxZVZyNkhNSHJCZUk3aFRKT29ybXFrRGNHc2hNNUcyMUg1UWpZOGJjNTRQUDlGSXhOM3Z2R2pZUFdiSWwtdHVN0gHMAUFVX3lxTE5uMjJyak5Pa282eEMtQTlzSHZlUTZnZnZJTjZnM0p5UWtaSGdRczVKbVBzQWJvYTZHYUlvek9paWd6T2k4X1pWOTZhUTU1NjR5LTBsN1JxVmJsWmFvc0dNMXdtRTNJQTNSVWpocnItTElSSVZIUGFMZlAwQUJ5M1k4OWJkY0FhcEN1VEtoWG51OXV1SmFoREVrSXllY0RTTGNMMWV3RzVzMkFaS05wczA3M2NfbGk1U1l6UkI0RWRNcUFKM01VYXpnNEU5aw?oc=5
+- Latest Hockey News and Updates - Hockey India
+  Hockey India
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeVNQU3VaQXBGUDJkaVZycDdGRldldEVVVjJtT25tM0ZxX09aVEtDUGpIZlM2U0k1QWx6RENkMDVjVERsNFpEZEE3MV9xOVM0WUpkTzhVMzB1TEFSSEdTaGdsZzFnZ0JNRmR4OFR0dExEOGJodXpqN0tUcWJoVDVOWWpsNDRUcDlZbDdoQTBWNjJQUXlHLU03elZUMTNVRHRKSmVJbkhjcDlLRHZzZjlsNjZWTno4SHdJbmFRTV93SXR6QzBYMnJNUmhYUFZFSGRFZHgzOHQzMXJRS3g2UlB0VGJpZFpZc2p0QWxKV0NIQXNDY1pOellEQQ?oc=5
 
-- INS Tarkash arrives at Mombasa for Operational Turnaround, strengthening India-Kenya maritime cooperation - News On AIR
-  INS Tarkash arrives at Mombasa for Operational
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXROOGFQbWMzbkFSYUpWMmVYZmRfdFBOYnhPaUlNN0ZnT3B6MmstQUxnLTVJZTY4Q1RNRkIyS1lsSkVFakZHYkdsdzc2bWZyOGRYb0N5andhMmdHNEM0dkt3TGkzR1BvWERtbV9oaUZFekhyWnM4d1B1dE9uaHFHOThDVFl2TTZEQXdPNm5mbVUxRWRxRHNVN1FxN1pyQThaU0ZTdkd0U0xFM25IS01NTTJBb0JYcmRaSG5KQkhiQ1lxQVpXdG11R1hR?oc=5
+- Wanting Father Around, Woman Preserves Body For 4 Years At Mumbai Daycare - NDTV
+  .com/news/2013/01
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOamUtZE51d091UmduYnZzb3dwX0lhb2JFMk9Ickw4d1FrMHJTNG5RMEQ0WjdUaGJxNkRuUF92Z0VPTlZoX3B0YkttemJUY0xudnFVVUotaFFYaGFoaEgyNVNGd1hwS2FWQ2tCTEdQMVd3YTFaOXpoWjhHTmoxT1FoUmRkQVVtalUtYTFVRGNIS2xvZGNEUm16S0tyd0loR3VtSnNvTWx4bG5qSVdvRkRkQzZ30gG6AUFVX3lxTFBvRUFsWGctQ2JCUWpHa1I2MUFJTWNlV2ZVRlFqSjRSVEUxNzAxbU45WWlzWXVjbFNlZUFjX0RfblZJRUoyQnAxUER1cnBYWlo1ODByN3BUM1Q4SUJ1MHhfMlgyZlV4U01VU0djRThmdW1pdTVxOGlYOTRtM1N5eTJfaGx5aWlWdWRkSDUyakRmbFdnbWxTZGp1LVk0MTl3Nk5vMGFEX1dldWdFeGExUlpkcGdTNHdzeWx6dw?oc=5
+
+- Arivihan Nets $10.2 Mn To Scale Its AI Tutoring Platform
+  AI-driven edtech startup Arivihan raised $10.2 Mn (about ₹98 Cr) in its Series A
+  🔗 https://inc42.com/buzz/arivihan-nets-10-2-mn-to-scale-its-ai-tutoring-platform/
 
 - Will Amend IT Rules To Bar Under-18s From Social Media: Centre To SC
   The Centre has reportedly informed the Supreme Court (SC) that it plans to amend the IT Rules to prevent children.
@@ -136,49 +180,45 @@
   Investment advisory startup StockGro pre-filed its draft red herring prospectus (DRHP) with the Securities and Exchange Board of India for&#8230.
   🔗 https://inc42.com/buzz/stockgro-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b92500-cr-issue/
 
-- Meet The Startups From Peak XV’s ‘Surge 12’
-  VC firm Peak XV Partners has launched the twelfth cohort of its accelerator and incubation programme, Surge.
-  🔗 https://inc42.com/buzz/meet-the-startups-from-peak-xvs-surge-12/
+- Today News Headlines for School Assembly, September 29, 2026: SC to hear plea against CEC Gyanesh Kumar’s functioning - The Indian Express
+  CEC Gyanesh Kumar has been in charge of the school since 2011. The school
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUFqM1gySVFZNlFkUHc4amtVaWQ3TlpoRTZBeDkyeW9VZFB0LUd4bGg3Uy1jN29zS0tucHZsN0xZRHZYMGNGamNkVlBQZ1Q2b2U2dk5ueUFXZlR6RUdwcjdjanpRTEplTkx6WUQyaGdKTEZ1M25hdUdzQjM0X3JsQURGajJRT2Q1YkwtaHlBQXhrQ2ZmTzc1WHFhekpWT0FEaWxYMzViOExBWlU3LUJZYjJNQkYyemt3WTBIM1h1Ul9GODFSVVpQb3AyS0ZWVmx5OFluR05vemxwX2l0MDhzS1NxTWNTZ9IB7AFBVV95cUxNZmZvUmxnTUdBaGJRRWRfa0Ria2puU293eklVODZnS3pVbGNEeWFYeFpfQ21CcVJyVVlYUVhHSWNjTUpvS3ZiOWhjX2pyQVlHMlc4bGxXR2drd1Bsb08xR1FONTdQaDdQR0g1U0wwVEtHRGFCRGMwSXNhR1pjNG5ZMnozOWJhT2F1V3RaQ1I2WHJqaEZtazJyWUZtYllEaGZjSlY3LUEwbnZ3aVV1czJ5T2VSOXd1VWFUNk5WRVV2d3dlTnpvOWk2TjJaMGJRZDcwbF9tWXI2bHUwamhtQ3NuQ1JqM25nRzNLSHdadQ?oc=5
+
+- Asian Games 2026 live, September 30: Know India scores, updates and results from Day 11 - olympics.com
+  Asian Games 2026 live, September 30: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0dSZHJEV2tVZDJiMTZ5cHJiMFZObHU2TWlmWlZSWEVKY1FSY0FzRmI4cWFpallSdkd4Z05lNURmMkZteWhoUFZFQTVqd1lSRTRqeWFaZ3htNTZHMFRzZEVndGNKY2VwSHVuZWxwdlM1Vm1hTGNUT3pEVEZDb1pJYWNXT1dMV0d1V2RMQWNvWVczTV9tcmJOWFZuRUg?oc=5
+
+- Asian Games 2026 Day 11 Live Updates: Gold medal match soon! India mixed compound team enters final; women’s archery team bags gold - timesofindia.indiatimes.com
+  Asian Games 2026 Day 11 Live Updates: Gold medal match soon! India mixed compound team enters final
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSDFVcjU2ajRoSDhLZWRFUUdLVm0tblpJNURvN2F0T0t6NVI5WTRLOVMyb2NrYnAzSVlydG9pX3ltbURkMmJrOWFSZmpoSGVuNTZIR3pUUnMxbUp5SmYteGF0b2Ixa0xXOXVLeGI1MFAxUHIzQ3ExSGg0c3ZmOWtrM1c3cUR4aUJqN3FwYmNPWGVIMmt2eEtaQ3lrMHAwYnBGdW1nNFFKRXl6R3pTcU51aGlKVllUTU9rVFpJRjhwbzJpVnV3WFRpQ09IZGJaUmF6Vkw1MHF6NjZoMHI1WkM4cjRLZEUtdWZYODFaVWpTT2lUN294djVURXNB0gH_AUFVX3lxTFBKYzBPeTc2MGdmS1ZwVXJyTnRGMzV0TmliV25vSTkxYjhnbWcwSkd2UmtfWXZvQ3J2ZHVvaFF0V1lacHN6bUFJNVN1RmlrNUd4a3FZWE1ja3o2NTBfVjN3SkxpaFZ5MGxPT1hMWWJ4X1JmUjM0UDRMVEMtLXdFazdURlI5SHBUazVrOFFza1NzVGtlTHdKc05xZFRBckZ3YU5PeWU1QUFORVZjeVNhRnBsM0EtaGNTWTZFQ1pzLXNBUEo5aWhtV3ZDUktOTzFkZHZVWUtJR1hCalJzbnpCZU9PMmV6a1RhTjAwdXM1clhtSUdDajY4NVgzUmVSeFFGTQ?oc=5
+
+- Latest Hockey News and Updates - Hockey India
+  Hockey India
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeVNQU3VaQXBGUDJkaVZycDdGRldldEVVVjJtT25tM0ZxX09aVEtDUGpIZlM2U0k1QWx6RENkMDVjVERsNFpEZEE3MV9xOVM0WUpkTzhVMzB1TEFSSEdTaGdsZzFnZ0JNRmR4OFR0dExEOGJodXpqN0tUcWJoVDVOWWpsNDRUcDlZbDdoQTBWNjJQUXlHLU03elZUMTNVRHRKSmVJbkhjcDlLRHZzZjlsNjZWTno4SHdJbmFRTV93SXR6QzBYMnJNUmhYUFZFSGRFZHgzOHQzMXJRS3g2UlB0VGJpZFpZc2p0QWxKV0NIQXNDY1pOellEQQ?oc=5
+
+- Wanting Father Around, Woman Preserves Body For 4 Years At Mumbai Daycare - NDTV
+  .com/news/2013/01
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOamUtZE51d091UmduYnZzb3dwX0lhb2JFMk9Ickw4d1FrMHJTNG5RMEQ0WjdUaGJxNkRuUF92Z0VPTlZoX3B0YkttemJUY0xudnFVVUotaFFYaGFoaEgyNVNGd1hwS2FWQ2tCTEdQMVd3YTFaOXpoWjhHTmoxT1FoUmRkQVVtalUtYTFVRGNIS2xvZGNEUm16S0tyd0loR3VtSnNvTWx4bG5qSVdvRkRkQzZ30gG6AUFVX3lxTFBvRUFsWGctQ2JCUWpHa1I2MUFJTWNlV2ZVRlFqSjRSVEUxNzAxbU45WWlzWXVjbFNlZUFjX0RfblZJRUoyQnAxUER1cnBYWlo1ODByN3BUM1Q4SUJ1MHhfMlgyZlV4U01VU0djRThmdW1pdTVxOGlYOTRtM1N5eTJfaGx5aWlWdWRkSDUyakRmbFdnbWxTZGp1LVk0MTl3Nk5vMGFEX1dldWdFeGExUlpkcGdTNHdzeWx6dw?oc=5
 
 - Today News Headlines for School Assembly, September 29, 2026: SC to hear plea against CEC Gyanesh Kumar’s functioning - The Indian Express
   CEC Gyanesh Kumar has been in charge of the school since 2011. The school
   🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUFqM1gySVFZNlFkUHc4amtVaWQ3TlpoRTZBeDkyeW9VZFB0LUd4bGg3Uy1jN29zS0tucHZsN0xZRHZYMGNGamNkVlBQZ1Q2b2U2dk5ueUFXZlR6RUdwcjdjanpRTEplTkx6WUQyaGdKTEZ1M25hdUdzQjM0X3JsQURGajJRT2Q1YkwtaHlBQXhrQ2ZmTzc1WHFhekpWT0FEaWxYMzViOExBWlU3LUJZYjJNQkYyemt3WTBIM1h1Ul9GODFSVVpQb3AyS0ZWVmx5OFluR05vemxwX2l0MDhzS1NxTWNTZ9IB7AFBVV95cUxNZmZvUmxnTUdBaGJRRWRfa0Ria2puU293eklVODZnS3pVbGNEeWFYeFpfQ21CcVJyVVlYUVhHSWNjTUpvS3ZiOWhjX2pyQVlHMlc4bGxXR2drd1Bsb08xR1FONTdQaDdQR0g1U0wwVEtHRGFCRGMwSXNhR1pjNG5ZMnozOWJhT2F1V3RaQ1I2WHJqaEZtazJyWUZtYllEaGZjSlY3LUEwbnZ3aVV1czJ5T2VSOXd1VWFUNk5WRVV2d3dlTnpvOWk2TjJaMGJRZDcwbF9tWXI2bHUwamhtQ3NuQ1JqM25nRzNLSHdadQ?oc=5
 
-- 5 New Sites Added To India's UNESCO Tentative List For World Heritage - NDTV
-  5 New Sites Added To India's UNESCO Tentative
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNakx1aUhVOHZyVmhPMlhIenIwUEliT0FPT1pzRG0wMVJEUng0WmcxSWIwVzVhX21jRHMxdXZxM0tqeGJCSlBGMFNjc0FCTU45RjFaOU9SdmhXWVJPanBHOUFqTnQ0TnZzRDJDRWhZZ0tjUnRwOFU5WVRkMVFLYlFDVHpyT3lxTlg1Z1Z6NGtTaE9UMGNtazByVDM0ZVV0LWl1cnJuM3ZaMVljLW9lQmfSAbYBQVVfeXFMTzUxZl9yaTkyR1RoUmt4OUdxMERnaXdLYk9hX2NKUW9HYjQxU2JHaUk2UUVfblZHckFlQ3NfdmN3X29SS2dxekdnRW9ZNUxBRGJWb2ZrSkJtdFZSRS1SaFZERWoxeloxN2tTbFptclZXUi1NZUloNjI3ZGwwWXZCb0dOSUdINFRFbTNfX0xjQ3RQWG1sRFo2YkpCeGViNFk2a0Zra1pwLWN2Q2VhUDlJZ3hfclJQTnc?oc=5
+- Asian Games 2026 live, September 30: Know India scores, updates and results from Day 11 - olympics.com
+  Asian Games 2026 live, September 30: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0dSZHJEV2tVZDJiMTZ5cHJiMFZObHU2TWlmWlZSWEVKY1FSY0FzRmI4cWFpallSdkd4Z05lNURmMkZteWhoUFZFQTVqd1lSRTRqeWFaZ3htNTZHMFRzZEVndGNKY2VwSHVuZWxwdlM1Vm1hTGNUT3pEVEZDb1pJYWNXT1dMV0d1V2RMQWNvWVczTV9tcmJOWFZuRUg?oc=5
 
-- Rajasthan first State in northern India to complete digital identification of farmers - The Hindu
-  Rajasthan first State in northern India to complete
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkQyQUktNGpBYlktZi0tTU5sT2h5aU9IWnNRWHBnNldWaFN4azFwODBQc1VDbzgxV2RMMnh2LWdHSkRKOHJqUVJsSEw5UnJHdTBScHQ0dmhDRVFBdFJEeDFYLVAwQ0piZWVQVS1iQ21zLXdoV0hzUl9JaVlhRFp1UDlEY1dpMEJ2S2pZWm9TTnFUM3g0QU9uTG9zUGlKZFhoRGsxMUxxYkV0YzJlN0JtTEJobl9wc3BXVzE3ZWhxczZKcFVHNjBTdTJtS2FkNXR5amxPYmhmUmMzd1BsS0Z3OWM4ZVlqYW1QUEHSAfABQVVfeXFMUEtXZ29ZcmFPcTFPTXhrODhkdFV6N2pUZ3BRVzR5RE84cEhvbU1jTEVLdVd6LXh1bUVBdHRNbThuQUo3SHVKTmVtM0x2YWlYYlNmeVJFSEpnS2dibWoxOVl4WEFpOUl0ZU9kUWE2WVRuUl82eTNxaDN6c0tuYnBKZG5ZVnZNOE54OTM4T18zV3JvTVhNYXd0ZWRramVmZ2VDUVVabHFTZGJhT3g3TkNveHp3T1JYZnpRM1VKVzc0NU0teEtnQzR3MERDMGx6Q3dJLXkxb25CdG5hOVhrM1N1NWhENFUwS0JIT0ZpdlRJOXl1?oc=5
+- Asian Games 2026 Day 11 Live Updates: Gold medal match soon! India mixed compound team enters final; women’s archery team bags gold - timesofindia.indiatimes.com
+  Asian Games 2026 Day 11 Live Updates: Gold medal match soon! India mixed compound team enters final
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSDFVcjU2ajRoSDhLZWRFUUdLVm0tblpJNURvN2F0T0t6NVI5WTRLOVMyb2NrYnAzSVlydG9pX3ltbURkMmJrOWFSZmpoSGVuNTZIR3pUUnMxbUp5SmYteGF0b2Ixa0xXOXVLeGI1MFAxUHIzQ3ExSGg0c3ZmOWtrM1c3cUR4aUJqN3FwYmNPWGVIMmt2eEtaQ3lrMHAwYnBGdW1nNFFKRXl6R3pTcU51aGlKVllUTU9rVFpJRjhwbzJpVnV3WFRpQ09IZGJaUmF6Vkw1MHF6NjZoMHI1WkM4cjRLZEUtdWZYODFaVWpTT2lUN294djVURXNB0gH_AUFVX3lxTFBKYzBPeTc2MGdmS1ZwVXJyTnRGMzV0TmliV25vSTkxYjhnbWcwSkd2UmtfWXZvQ3J2ZHVvaFF0V1lacHN6bUFJNVN1RmlrNUd4a3FZWE1ja3o2NTBfVjN3SkxpaFZ5MGxPT1hMWWJ4X1JmUjM0UDRMVEMtLXdFazdURlI5SHBUazVrOFFza1NzVGtlTHdKc05xZFRBckZ3YU5PeWU1QUFORVZjeVNhRnBsM0EtaGNTWTZFQ1pzLXNBUEo5aWhtV3ZDUktOTzFkZHZVWUtJR1hCalJzbnpCZU9PMmV6a1RhTjAwdXM1clhtSUdDajY4NVgzUmVSeFFGTQ?oc=5
 
-- 15k Ladakh-grown Liliums set out for national flower markets - The Times of India
-  15k Ladakh-grown Liliums set
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnBwMmxfUURyXzdBeUlaVXViLU9fSG9SeEF6MnAxM2pzVG5QTlVuSmlKR3p1RF84RTlVcUk0SzF1TzhPbExZWEo1VGZadlM2emZkbzl2YzBVOWxoOGhTQy1JaWpaSjJRVzRIYk4wWmNsRmRUbldtSjhMc09uYnZkMGNBMzRXNzUxZVZyNkhNSHJCZUk3aFRKT29ybXFrRGNHc2hNNUcyMUg1UWpZOGJjNTRQUDlGSXhOM3Z2R2pZUFdiSWwtdHVN0gHMAUFVX3lxTE5uMjJyak5Pa282eEMtQTlzSHZlUTZnZnZJTjZnM0p5UWtaSGdRczVKbVBzQWJvYTZHYUlvek9paWd6T2k4X1pWOTZhUTU1NjR5LTBsN1JxVmJsWmFvc0dNMXdtRTNJQTNSVWpocnItTElSSVZIUGFMZlAwQUJ5M1k4OWJkY0FhcEN1VEtoWG51OXV1SmFoREVrSXllY0RTTGNMMWV3RzVzMkFaS05wczA3M2NfbGk1U1l6UkI0RWRNcUFKM01VYXpnNEU5aw?oc=5
+- Latest Hockey News and Updates - Hockey India
+  Hockey India
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeVNQU3VaQXBGUDJkaVZycDdGRldldEVVVjJtT25tM0ZxX09aVEtDUGpIZlM2U0k1QWx6RENkMDVjVERsNFpEZEE3MV9xOVM0WUpkTzhVMzB1TEFSSEdTaGdsZzFnZ0JNRmR4OFR0dExEOGJodXpqN0tUcWJoVDVOWWpsNDRUcDlZbDdoQTBWNjJQUXlHLU03elZUMTNVRHRKSmVJbkhjcDlLRHZzZjlsNjZWTno4SHdJbmFRTV93SXR6QzBYMnJNUmhYUFZFSGRFZHgzOHQzMXJRS3g2UlB0VGJpZFpZc2p0QWxKV0NIQXNDY1pOellEQQ?oc=5
 
-- INS Tarkash arrives at Mombasa for Operational Turnaround, strengthening India-Kenya maritime cooperation - News On AIR
-  INS Tarkash arrives at Mombasa for Operational
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXROOGFQbWMzbkFSYUpWMmVYZmRfdFBOYnhPaUlNN0ZnT3B6MmstQUxnLTVJZTY4Q1RNRkIyS1lsSkVFakZHYkdsdzc2bWZyOGRYb0N5andhMmdHNEM0dkt3TGkzR1BvWERtbV9oaUZFekhyWnM4d1B1dE9uaHFHOThDVFl2TTZEQXdPNm5mbVUxRWRxRHNVN1FxN1pyQThaU0ZTdkd0U0xFM25IS01NTTJBb0JYcmRaSG5KQkhiQ1lxQVpXdG11R1hR?oc=5
-
-- Today News Headlines for School Assembly, September 29, 2026: SC to hear plea against CEC Gyanesh Kumar’s functioning - The Indian Express
-  CEC Gyanesh Kumar has been in charge of the school since 2011. The school
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTUFqM1gySVFZNlFkUHc4amtVaWQ3TlpoRTZBeDkyeW9VZFB0LUd4bGg3Uy1jN29zS0tucHZsN0xZRHZYMGNGamNkVlBQZ1Q2b2U2dk5ueUFXZlR6RUdwcjdjanpRTEplTkx6WUQyaGdKTEZ1M25hdUdzQjM0X3JsQURGajJRT2Q1YkwtaHlBQXhrQ2ZmTzc1WHFhekpWT0FEaWxYMzViOExBWlU3LUJZYjJNQkYyemt3WTBIM1h1Ul9GODFSVVpQb3AyS0ZWVmx5OFluR05vemxwX2l0MDhzS1NxTWNTZ9IB7AFBVV95cUxNZmZvUmxnTUdBaGJRRWRfa0Ria2puU293eklVODZnS3pVbGNEeWFYeFpfQ21CcVJyVVlYUVhHSWNjTUpvS3ZiOWhjX2pyQVlHMlc4bGxXR2drd1Bsb08xR1FONTdQaDdQR0g1U0wwVEtHRGFCRGMwSXNhR1pjNG5ZMnozOWJhT2F1V3RaQ1I2WHJqaEZtazJyWUZtYllEaGZjSlY3LUEwbnZ3aVV1czJ5T2VSOXd1VWFUNk5WRVV2d3dlTnpvOWk2TjJaMGJRZDcwbF9tWXI2bHUwamhtQ3NuQ1JqM25nRzNLSHdadQ?oc=5
-
-- 5 New Sites Added To India's UNESCO Tentative List For World Heritage - NDTV
-  5 New Sites Added To India's UNESCO Tentative
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNakx1aUhVOHZyVmhPMlhIenIwUEliT0FPT1pzRG0wMVJEUng0WmcxSWIwVzVhX21jRHMxdXZxM0tqeGJCSlBGMFNjc0FCTU45RjFaOU9SdmhXWVJPanBHOUFqTnQ0TnZzRDJDRWhZZ0tjUnRwOFU5WVRkMVFLYlFDVHpyT3lxTlg1Z1Z6NGtTaE9UMGNtazByVDM0ZVV0LWl1cnJuM3ZaMVljLW9lQmfSAbYBQVVfeXFMTzUxZl9yaTkyR1RoUmt4OUdxMERnaXdLYk9hX2NKUW9HYjQxU2JHaUk2UUVfblZHckFlQ3NfdmN3X29SS2dxekdnRW9ZNUxBRGJWb2ZrSkJtdFZSRS1SaFZERWoxeloxN2tTbFptclZXUi1NZUloNjI3ZGwwWXZCb0dOSUdINFRFbTNfX0xjQ3RQWG1sRFo2YkpCeGViNFk2a0Zra1pwLWN2Q2VhUDlJZ3hfclJQTnc?oc=5
-
-- Rajasthan first State in northern India to complete digital identification of farmers - The Hindu
-  Rajasthan first State in northern India to complete
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkQyQUktNGpBYlktZi0tTU5sT2h5aU9IWnNRWHBnNldWaFN4azFwODBQc1VDbzgxV2RMMnh2LWdHSkRKOHJqUVJsSEw5UnJHdTBScHQ0dmhDRVFBdFJEeDFYLVAwQ0piZWVQVS1iQ21zLXdoV0hzUl9JaVlhRFp1UDlEY1dpMEJ2S2pZWm9TTnFUM3g0QU9uTG9zUGlKZFhoRGsxMUxxYkV0YzJlN0JtTEJobl9wc3BXVzE3ZWhxczZKcFVHNjBTdTJtS2FkNXR5amxPYmhmUmMzd1BsS0Z3OWM4ZVlqYW1QUEHSAfABQVVfeXFMUEtXZ29ZcmFPcTFPTXhrODhkdFV6N2pUZ3BRVzR5RE84cEhvbU1jTEVLdVd6LXh1bUVBdHRNbThuQUo3SHVKTmVtM0x2YWlYYlNmeVJFSEpnS2dibWoxOVl4WEFpOUl0ZU9kUWE2WVRuUl82eTNxaDN6c0tuYnBKZG5ZVnZNOE54OTM4T18zV3JvTVhNYXd0ZWRramVmZ2VDUVVabHFTZGJhT3g3TkNveHp3T1JYZnpRM1VKVzc0NU0teEtnQzR3MERDMGx6Q3dJLXkxb25CdG5hOVhrM1N1NWhENFUwS0JIT0ZpdlRJOXl1?oc=5
-
-- 15k Ladakh-grown Liliums set out for national flower markets - The Times of India
-  15k Ladakh-grown Liliums set
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnBwMmxfUURyXzdBeUlaVXViLU9fSG9SeEF6MnAxM2pzVG5QTlVuSmlKR3p1RF84RTlVcUk0SzF1TzhPbExZWEo1VGZadlM2emZkbzl2YzBVOWxoOGhTQy1JaWpaSjJRVzRIYk4wWmNsRmRUbldtSjhMc09uYnZkMGNBMzRXNzUxZVZyNkhNSHJCZUk3aFRKT29ybXFrRGNHc2hNNUcyMUg1UWpZOGJjNTRQUDlGSXhOM3Z2R2pZUFdiSWwtdHVN0gHMAUFVX3lxTE5uMjJyak5Pa282eEMtQTlzSHZlUTZnZnZJTjZnM0p5UWtaSGdRczVKbVBzQWJvYTZHYUlvek9paWd6T2k4X1pWOTZhUTU1NjR5LTBsN1JxVmJsWmFvc0dNMXdtRTNJQTNSVWpocnItTElSSVZIUGFMZlAwQUJ5M1k4OWJkY0FhcEN1VEtoWG51OXV1SmFoREVrSXllY0RTTGNMMWV3RzVzMkFaS05wczA3M2NfbGk1U1l6UkI0RWRNcUFKM01VYXpnNEU5aw?oc=5
-
-- INS Tarkash arrives at Mombasa for Operational Turnaround, strengthening India-Kenya maritime cooperation - News On AIR
-  INS Tarkash arrives at Mombasa for Operational
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOYXROOGFQbWMzbkFSYUpWMmVYZmRfdFBOYnhPaUlNN0ZnT3B6MmstQUxnLTVJZTY4Q1RNRkIyS1lsSkVFakZHYkdsdzc2bWZyOGRYb0N5andhMmdHNEM0dkt3TGkzR1BvWERtbV9oaUZFekhyWnM4d1B1dE9uaHFHOThDVFl2TTZEQXdPNm5mbVUxRWRxRHNVN1FxN1pyQThaU0ZTdkd0U0xFM25IS01NTTJBb0JYcmRaSG5KQkhiQ1lxQVpXdG11R1hR?oc=5
+- Wanting Father Around, Woman Preserves Body For 4 Years At Mumbai Daycare - NDTV
+  .com/news/2013/01
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOamUtZE51d091UmduYnZzb3dwX0lhb2JFMk9Ickw4d1FrMHJTNG5RMEQ0WjdUaGJxNkRuUF92Z0VPTlZoX3B0YkttemJUY0xudnFVVUotaFFYaGFoaEgyNVNGd1hwS2FWQ2tCTEdQMVd3YTFaOXpoWjhHTmoxT1FoUmRkQVVtalUtYTFVRGNIS2xvZGNEUm16S0tyd0loR3VtSnNvTWx4bG5qSVdvRkRkQzZ30gG6AUFVX3lxTFBvRUFsWGctQ2JCUWpHa1I2MUFJTWNlV2ZVRlFqSjRSVEUxNzAxbU45WWlzWXVjbFNlZUFjX0RfblZJRUoyQnAxUER1cnBYWlo1ODByN3BUM1Q4SUJ1MHhfMlgyZlV4U01VU0djRThmdW1pdTVxOGlYOTRtM1N5eTJfaGx5aWlWdWRkSDUyakRmbFdnbWxTZGp1LVk0MTl3Nk5vMGFEX1dldWdFeGExUlpkcGdTNHdzeWx6dw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-09-29 21:50:32 UTC_
+_Last updated: 2026-09-30 03:37:06 UTC_
