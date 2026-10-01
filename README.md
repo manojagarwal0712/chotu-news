@@ -1,252 +1,184 @@
 # 📰 Daily News Summaries
 
-- Gyanesh Kumar: India's election chief at the centre of a growing political storm - BBC
-  Gyanesh Kumar is India's election chief. He
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVREUHpxcWdSSFJ2dFplWmFmbUdVUmI0ZHNBQVVQMzczSjhsLVh4RTliQ2tDRkpleHdyaEFwUnBRbDdDQmxnT2o5Rm9SaVczZnNSSGxsb0dUdWM?oc=5
+- Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs - Al Jazeera
+  Modi’s India takes on Trump more
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRuTmJIVmd3ckNSZG02cXdicGMtdndHSDV1UnFhWGNBVWJyVDR1Q21pSEk5UVdmZ2JmZXhCMXZuVlc2WURrSGlVb0NFaVl4bUxMMVZyQmdzbnVlaUJ3R0JtWHI2bE1BclZkT1dGYTRab2dVbEpUQ3BCZ3JYR1llekxzb2QyTVVSLUNSanh3aVN3T3o4bjQtQjNpRG94NkRLcjdtLWEwTTPSAa4BQVVfeXFMTWhWOHA5dkNxLXRZM2xVSVp0LUNlSHVyejcwUzR3V3NfdWZvbHZuRENhd1hER3hKWEtVbHBVVGJqRmRmai1TcGkzZDJuYnF1RFE1V2p0YWhWOEtGU1pzdUxDM21KSElxZjRyV3BMRlY5TXhVZWVzNXJKeS1hZVNWZmJFazhRSTJUQUw1TGw4eERXU196dmpzRTQ2ZDB1QWkzVFpmeFdtU2VQbElJa1JB?oc=5
 
-- INDIA Meet On 'Op Gyanesh Kumar', Sources Reject Attacks On Poll Panel - NDTV
-  " target="_blank">INDIA Meet
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUmkwLTlIa2tmVGJjaHljN1dPS25sZmtUMHF0T0FWZ092RE1uaEZaY0JHSVpCRmhmUEptcE5lbmFtYUw4OVc2dGgyOWExeVlKb3B3ZU41WUxibGw0WFBfa3U5T0IzWVQ5TmZmczBTMklQamJsWXJmS0JiMVNjM3U4ZzVNbWVNZlA3SnNrbTZpaXdLdUZRcGV3aFZVRXhCR1BaNnB2M3FaNGNhSXUwRlVSQnFudjZGX3laTXJETVoyX3dkUmNZRzUxd093SWlhelQwdzloTVBHTFNkLVFr0gHkAUFVX3lxTE43Q1ZMN0hNeGtieVN5UFdmTkQ0RDk3Q0NaSWVYaEo1NmJlLWs5ZXFzOTFldWdmSjhwQXdSN2xEcWRnR2ZSWHpzVXFQMUlGdERIcmh1Z2ozVVloYjlaY2NKcXVMM3FLQUthc3BVUE9fUWZaV21GYlNmWFdCVER0SjF5ZlpwWG5NRmNXWXVXcE1tUERWNkxtXzlUVjV3R0RaYTRiTVNDN0U4aHVUTS1zdXFJNVRQemZwQ29nclkwbTVKeThVYXhNLUw3MGJlNVg4NWNtX1R4aGd5ZjVnLW9uV0tEeHFGMw?oc=5
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- INDIA bloc to launch nationwide campaign against CEC, SIR from October 2 - The Hindu
-  The Hindu reports that India bloc to launch nationwide campaign
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNSVZFWmxxMVZ4T0tGZHRnVm9kY3N0c2dyVWlIVEduR3A1OHZHem15QmMtMFBFSjhua0RhVTJCRTJCdFFONll4WVg5aVhMZ3BBcUtsd0R0OUhIZlhYZXhRYzNGVF82N08yUjkySjRUZnVKbTkzZmNCM05KV0ZFS0JSM0dlV3hnS3hTMWVjVmRMT1JQeFVackhLNEhPdWRNX2k2RG9nTGMzbUFmaTV6a1UyM2JQQVVMcG1qM3Z4cUwtVExOcnBSbm0tUXl30gHQAUFVX3lxTFBScVRtN2kwbUg0Yk1iREVZdm1Ec1pZczA1NFBZVTFRU1pwcXlMYWpBQ040T1RRLVY5b3BWX2hMZXpnZ1huN0RQOFczLWZEdFRlMEM0RUtFUHdCRXA5emtFbUUzOXVxY0hWdEhiWjAzVnI2S0poS3NBdGcwVFBla1BxSXpGYjZMems5WHFLLUd6YjR3ZUNrTWNyN3Q2R1BWWFJSTjU3QkhPdTlPRVNMcTFWd0QzSWtFTmoyeDZSS25wQzJoUTh1SDZHQVN0ck13M0o?oc=5
-
-- 3 Indian Relatives, On Way To US, 'Vanish'. Then Comes A Call From Ethiopia - NDTV
-  3 Indian Relatives, On Way To US, 'V
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHc5aDdlX2ZOYVlEUl9tV1FqcG1mZk04UDJsUWpBNy10dk5HbU13SUdocjJYZzZpV3V3eVN5aHVPSkJBRndvX2gyU3JkalRUWnNnTmltOUNCNG5ucWxQbVBENlZiS1lnb24tYkc5NTdCX2NTajJuZ3hPeWw2dUNKeXk1WW92a2NiTE9YUlZZYmlsS19HNzhOMHlYZ0RWV3ZQa21GRlFXN29SUDkwV1VrOdIBuAFBVV95cUxQVVVERnZQeTgxd0EwY3F4N3psYmRENkpQRjduT0JhSlNOWGtkMHZ1dkRoamd0N1JWZmk5eVF0XzFXQkkyUC1FZkt2cjZiZEd6NHRraGI1c2xNNURVd3lpeFhya2hRSzZTODFwaDZFVnpqdHZHSUEyQ0FqaHF6azZoUjhMQ0RhRzN6eWpMUjBmSFNISFEwSGowazg4NURwLURLMTlYZ0l6TTEwV0tJTzJOM0diSVdyMmxa?oc=5
+- India at Asian Games: Live updates from Day 12 action on October 1, 2026 in Aichi-Nagoya - espn.in
+  India will be competing in the 2026 Asian Games in Aichi-
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ1FhaHV5X1RTelplQ3k2TjdYbV9mVmh4VlBpbUVtaU1HVVhjR1o1aFYwLUI5eUdNNnJGb1c2VGphZndob2VLd1FxNHR6SzREOTR4cm1oVUgzdG9JYnBCaDM3RDBFekdEV0tIcGxJQTNMY0oweW9HVUhBSkRaZTJrTDUxN09BRThsMW1NcWUtYS14ak5CMVc2NXg4OG1MWWxqd25GOXFWYm9TY0ZxR1hpeThSbVFRLVFWd19qSnppNU1tZWdVRjBoQ0JqMjF5dEFIcWZsQWY0b0hpRmx1YkVFTjZkUnBqZw?oc=5
 
 - Asian Games 2026 live, October 1: Know India scores, updates and results from Day 12 - olympics.com
   Asian Games 2026 live, October 1: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVlpUEVJVHVXNUNaTXUxTW16dFphX2dVb3N1VE1TeWVZbUFDVFBhaUs0cGlOUUozZzE0M1pJcWhTV0V1cE9pNVhFXy1kVGc1M04xRzJFNEtULVV0YXlibUdlV0JBa1I5UTZhUVJxV2VJVFJPUGZHaFZ0dTVyZ1M4T3VZM045dUtuaGFSdmNlczVuckI2NTJTeQ?oc=5
 
-- NATO releases Quantum Technology roadmap - North Atlantic Treaty Organization | NATO
-  NATO releases Quantum Technology roadmap.
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUlmX2hnUUlsdl9mR2N0Y0JZMGFWV2szQ3A4UGpudXJVU0JXTTdLb05tU1NFVHNDY1lqUTlxaHlKdkV3b2w4OTZ4a2dyeVFSbExtVndDVGNOSjhGNk5xVDNOSDdOUVhmcGZkWVg0aEg4SFNWM1MyOG1wTEg4ZWpGSmFZbUl2anpOX29tQm9OMGFqWkFyOU1FekpVbjJudHE5X05XaHBmTHM?oc=5
+- Asian Games 2026 Day 12 Live Updates: India win men's squash team bronze; Nitesh Siwach wins historic Greco-Roman silver - The Times of India
+  Asian Games 2026 Day 12 Live Updates: India win men's squash team bronze. Nitesh
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXYxX29LWXJkWm9DbU5jT0NEeE9HWWlHMnp4V3dDU0N5bWZodGhDN3lqU1lHV0dlOV94NFhaN1B0SWVETS1DZTAxLTBUN3lWSU1lWEpYa1hwLWlTalJ0ZDBFQktqUHhfdDFNdXZOXy15cmE4SGZQcUJORUVMRk1YaTFmUkVFVVJGM0tXaTJvU0JtZjRLVVVBVmV4cXBsVFppTm5qVERVVVlpN09OMDZVTGlZMGU2aV9mcEpDNUZQNkw3M2xmRkxtcU5nNW40al9jUUdoOEE4NkZ4SDgtUmY2TGxNOTJCeUF4WUFBSk14QnduWG1lVnREZG5R?oc=5
 
-- New Innovation Is Required to Fund AI’s $6 Trillion Buildout - bain.com
-  New Innovation Is Required to Fund AI�
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmNJSUUwWlduc2VTOEpYdnhJcDVtN3BjbXpKN3gtMzdYOVVGbkpmVUlPelR6aERSNkhmbHBSdVdEaWxqV3Npd3VyVktsWkI5UERQbEFOc1NZQjZEVmoyVEdBdjNjaDkydW9DSWtyU0lFLUIzUHFXZVhrQVRZRTNIOFQ1YU1CVE42SW5Sb3huaHNUUk0zZ0FBanpYV0pWME9OWTJKNHNldEJPaDZ1SmZEN0RB?oc=5
+- Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist - CNBC
+  Khanna to introduce AI safety bill with ban on 'rec
+  🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE12MUwtTy11dnBwd0xxdHROaXlFdmV3MWJaR1dRUGt6cHBCMjhneHhxZEpkTTdQdWRDWUFHY2RXc05HLW4zSDRSUmxGVE9vRWdRQldrb3JNbnFGRXlHeVdxdjdKZjFXR3gtU1HSAW9BVV95cUxQN01MRktKY1YwRVFEYllRUWxONTBfSkNTUEhHLUVXS2kzWjgySEVYS0M3Sk8tNDN2TmQ5WjA2d2lWTWVBTHoyVGJmSjlEZ1dKTkFuMWZ6WldSSFRUbkdqQmVwa0ZiOHFqN3NhczN3WXM?oc=5
+
+- Warner Music Group Officially Opens New Technology and Engineering Hub in Bengaluru - Warner Music Group
+  Warner Music Group Officially Opens New Technology and Engineering
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1o4Z3gyN2FtaTlOWUZsTFVVRDJfU1c1WGNreTZOX1VSUWdPUUc5Uy1URHRMek5uVmQyVUs1OVFZYWdiSkRXcGEtLTU0VmwzeWFZbmNQdG4xcjdTVUE3RG1COW5TQW1qVWl5SDEzTWMxTzRQaTFkYXc4Ym5zd2JDMDdLUGJfRnk0d0dnQkpiODVTM0t1NzBpa1BqUFg5UmlXTmlVa2R4TnJuLU5I?oc=5
 
 - Pete Hegseth appoints Elon Musk to US taskforce on future of warfare - The Guardian
   Pete Hegseth appoints Elon Musk to
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOeWVWUURHU2J0am81ajBFNGh6MzduWkJWZ3ZQS1E1OHVxZVNlM1cyRmFiZzlXOTdMS0R2azNXdXFucks0NlFZYkNMRS1kUDBhSFVjcS1TNlJZaDZEM3FrelB2T2tCeWotbFdVWlJObHNHa194YXpmQmx1M2VlcHlwQ3EwMDNaX2I0eVM1dXVqQ0VYcjFpN0E?oc=5
 
-- Workday cuts 500 jobs as restructuring targets product and technology teams - People Matters - HR News
-  Workday cuts 500 jobs as restructuring targets product and technology teams.
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPX3VuaUh1VmU4YUZ3NEoxaXdEZUpfQVB5QlZ0Nk9sWHdySThIU24zQ0dJLTllUUZZMzRnZVNHNjF1U3hGTko3TFFBX09iVy1fdW9tWEoyMGlDbDJ6M2lkSmJyanNJQ3NZLUpDQkxkMzdtNkk1T2lrNXBOM2ZvSFBPU2Z1bDBxc0FaMEtjY0dKUklRS2dwdDR0TkZuOG1wOHlDNng2bnpONm4tb0dOdFBFWHRDbW5RMUdFOVg1Q0QxY1ZWblN3cTN3?oc=5
+- Krishna on stage: How technology is transforming mythological theatre in Hyderabad - The Hindu
+  The Hindu is a news website based in Hyderabad
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOEhuSTZzVURXRVQ1anNKbkxhaHIwRUJBYXFxTlIxWFFzajg1Q293R0x3NWF1bzNLbl9MMXNlWEl6cFVaQmx1cmJCSjlnVlFMRkNqTFkzckpnWXVYVkUwMnF3ZFlicXk2ajZoWUx1M3k4cVlialhCS2pJQXI5eWR2R1BJeEN6OWlncGc2dUtPaWJmY05CczFKOVhTckp2OVdfZEFmVUw1WkpMZk5tWklZWldodFVYSlJBd3NWcUNYYlhWVVB2T0lEQmdvbXRVdXc4dUttbXhlUUZwWnFmUGVSeHlB0gHoAUFVX3lxTE9CaTZ1Y08zam1IUklqZkV3aDVlM2M2NnNpVS12ZDlVMnBLQkNONzRVZkFlcHlnUlZxVms1bk5ZLTRkbllMOHk0VXNkdlhtbm9UUmFVRFZGaFFVaHpxa0o0MFBZbzdRbFpHOWN5VVZ0TkhjaU1Pd2FxcW54Mkota0ZmUDg1Yk13blhpVHBUalFIWVM1SmRBNXZBTTdvRENfWDdqb3pKVXo3QWJzUHZXMXVLdGYtS2VlTjlfd0lycVhvVnduZVpxeE1tQmRPd2o2OWU2LWtQcFNsZFJISXNfOTQ5b2lYOEc1S2Y?oc=5
 
-- Google is a technology partner for the launch of America.gov. - blog.google
-  Google is a technology partner for the launch
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3dobGN6aGpsejJMdHlieHVQSlVNTTNQTEFjaTkxQzIwVjVndUtRcUpCd2hrNWh1alBZbTctTEUtWDI0SFloSzRHYTVESE5kbXdDT3JVdzZxdVZUWG9jaFZKcEJUYVZEVC1PNGVmV3E3NGdQUUJ6YkhZTm1HVzAyZGhtd05TWURmWjhheTNwS0F5MXVzUDFMUEhxVDB2T1JPUWktRUpGeG8?oc=5
+- As skyscrapers stretch higher, KONE launches technology for cities reaching beyond 1km - Cision News
+  &nbsp;&ngt;&
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxObVhjZFZUMEhuRUt0VGRTbEotTzJBX0pXblBlaUJEU29EODl2UHdudXpRdHpzQzdkTjhqRHpfOVByUDM3RE5HcWZoQlgwc3NqS3RIcHBCRGR0b2J6VlJQT0ROTnRVOERuR3Nnaml3ZWhaN2RCVXpNYXlXYmZCa0Z5eVlUMXQwWUx5QWZ2Y3ZaNEJycjhtbDVENmkzN3VYMWxJY2J2UHFXa2Jxa3dITW9fb2hVS2c0cWtta2d4b3JzTFlYYVdWMVNrVzNB?oc=5
+
+- Noel Tata faces fresh challenge as two Tata Trusts vice-chairmen question restructuring plan, governance process
+  Noel Tata faces fresh challenges in the Tata Sons boardroom battle. SDTT vice-chairmen Srinivasan and Singh allege he advanced a restructuring plan without trustee consultation. S
+  🔗 https://www.livemint.com/companies/people/noel-tata-faces-fresh-challenge-as-two-tata-trusts-vice-chairmen-question-restructuring-plan-governance-process-11790851039601.html
+
+- 'If you don't know Ynon yet…': How Paramount's David Ellison introduced new co-CEO to employees, report reveals 'memo'
+  Paramount Skydance's David Ellison said that former Mattel Inc. chief Ynon Kreiz will be co-CEO of
+  🔗 https://www.livemint.com/companies/people/if-you-dont-know-ynon-yet-how-paramounts-david-ellison-introduced-new-co-ceo-to-employees-report-reveals-memo-11790846061301.html
+
+- Flydubai: 5 key facts about the UAE-based airline after Indian pilot Smit Machchhar foils alleged mid-air hijack attempt
+  Captain Smit Machchhar was stabbed by the co-pilot. The flight descended rapidly to land safely
+  🔗 https://www.livemint.com/companies/news/flydubai-5-key-facts-about-the-uae-based-airline-after-indian-pilot-smit-machchhar-foils-alleged-mid-air-hijack-attempt-11790835171699.html
+
+- Ravi, Shashi, Rewant Ruia net worth: Meet Essar family behind Trump’s ‘largest’ steel plant that has Russia link
+  Essar Group co-founder Ravi Ruia announced an $18 billion investment to build America
+  🔗 https://www.livemint.com/companies/people/ravi-shashi-rewant-ruia-net-worth-meet-essar-family-behind-trump-s-largest-steel-plant-that-has-russia-link-11790834185711.html
 
 - Alliance Insurance Brokers looks to raise up to  ₹900 crore in minority stake sale
   Alliance Insurance Brokers is looking to raise  ₹800-900 crore through a mix of primary and secondary
   🔗 https://www.livemint.com/companies/alliance-insurance-brokers-stake-sale-access-asset-managers-o3-capital-insurance-brokers-insurance-sector-11790820276188.html
 
-- Adani back at No. 1 with $112.7 billion; Ambani slips to second: What changed at India’s billionaire club
-  Gautam Adani has regained the title of India's richest, with a net worth of $112.7 billion. Mukesh Ambani fell to second at $86.3 billion.
-  🔗 https://www.livemint.com/companies/people/adani-back-at-no-1-with-112-7-billion-ambani-slips-to-second-what-changed-at-india-s-billionaire-club-11790818304572.html
+- Nifty IT crashes 11% in September: TCS, Infosys, Wipro among top losers — Can Q2 earnings spark a rebound?
+  The IT sector has been hit hard in September, with the Nifty IT index down 11%. High interest rates, global growth fears, and generative AI pressures have impacted technology spending. Investors are
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-it-crashes-11-in-september-tcs-infosys-wipro-among-top-losers-can-q2-earnings-spark-a-rebound-11790851695743.html
 
-- OpenAI sued after 700-agent AI swarm hacked Hugging Face: What lawsuit says
-  OpenAI faces a lawsuit from the nonprofit LASST after its AI agents gained unauthorized
-  🔗 https://www.livemint.com/companies/news/openai-sued-after-700-agent-ai-swarm-hacked-hugging-face-what-the-lawsuit-says-11790816097759.html
+- Accenture shares jump 20% in pre-market as Q4 earnings, 2027 outlook beat estimates
+  Accenture shares surged 20% to $220 amid strong Q4 results. Accenture reported $3.29 EPS and $18.7 billion revenue, exceeding forecasts.
+  🔗 https://www.livemint.com/market/stock-market-news/accenture-shares-jump-20-in-pre-market-as-q4-earnings-2027-outlook-beat-estimates-11790855697898.html
 
-- Big Four alumni build boutique consulting rivals, targeting startups, PE and VC firms
-  A new wave of mid-tier consulting firms is targeting startups, private equity and venture capital clients. They offer equity, independence and flat structures to lure senior
-  🔗 https://www.livemint.com/companies/news/big-four-consulting-services-boutique-fimrs-startups-pe-firms-vc-firms-11790734401022.html
+- Ace investor Shankar Sharma decodes market performance, highlights where money-making opportunities lie
+  Ace investor Shankar Sharma unpacks the Indian stock market's recent struggles. He urges investors to explore alternatives like fixed income.
+  🔗 https://www.livemint.com/market/stock-market-news/ace-investor-shankar-sharma-decodes-market-performance-highlights-where-money-making-opportunities-lie-11790853717563.html
 
-- Noel and son move to shield Trusts as Tata Sons tussle heats up
-  Noel Tata and son Neville have filed a bunch of caveats with the charitable trusts regulator against Venu Srinivasan’s complaints over Tata Trusts.
-  🔗 https://www.livemint.com/companies/news/tata-trusts-vs-tata-sons-venu-srinivasan-11790770650447.html
+- ₹1 lakh to  ₹40 lakh in 5 yrs! Small cap multibagger declares 2:1 bonus - Do you own? Record date, stock performance
+  GTV Engineering Limited's shares dropped 1% on October 1, yet recorded solid weekly gains. A 2:1 bonus share issue has been approved, with the record date
+  🔗 https://www.livemint.com/market/stock-market-news/rs-1-lakh-to-rs-40-lakh-in-5-yrs-small-cap-multibagger-declares-2-1-bonus-do-you-own-record-date-stock-performance-11790854289091.html
 
-- Stock market today LIVE: Gift Nifty, US bond yields, gold, crude oil rates hint at a gap-down start for Nifty, Sensex
-  The index is trading below yesterday's spot price and its previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-live-gift-nifty-us-bond-yields-gold-crude-oil-rates-hint-at-a-gap-down-start-for-nifty-sensex-11790823214707.html
+- PB Fintech shares crash 48% in 6 sessions; stock back to IPO price - Should investors change strategy?
+  PB Fintech shares dropped 8% to  ₹980 amid concerns over proposed insurance commission rule changes. This major sell-off affected mutual funds.
+  🔗 https://www.livemint.com/market/stock-market-news/pb-fintech-shares-crash-48-in-6-sessions-stock-back-to-ipo-price-should-investors-change-strategy-11790851358407.html
 
-- Moneyview IPO vs A-One Steels India IPO listing: Here's GMP comparison, listing share price prediction
-  Moneyview and A-One Steels India were open for subscription from September 24 to September 28. The share allotment for both issues finalised on
-  🔗 https://www.livemint.com/market/ipo/moneyview-ipo-vs-a-one-steels-india-ipo-listing-heres-gmp-comparison-share-price-prediction-11790820380664.html
+- Samsung Galaxy Tab S12 series launched in India, sale starts on October 7: Check price and specs
+  Both tablets feature 120Hz AMOLED displays, MediaTek Dimensity 9500 chips, Galaxy AI features and an S Pen in the box. Samsung has launched the Galaxy
+  🔗 https://www.livemint.com/technology/samsung-galaxy-tab-s12-series-launched-in-india-sale-starts-on-october-7-check-price-and-specs-11790852080983.html
 
-- Welspun Corp: What could drive the stock over the next 5 years
-  A 221% rally has lifted Welspun Corp sharply. Its order book, US and Saudi
-  🔗 https://www.livemint.com/market/stock-market-news/welspun-corp-what-could-drive-the-stock-over-the-next-5-years-11790770929239.html
+- WhatsApp Business Platform gets costlier from today: What Indian businesses need to know about new messaging charges
+  Indian businesses get 1,000 free service messages per phone number each month. After that, they will pay  ₹0.115 per delivered message.
+  🔗 https://www.livemint.com/technology/whatsapp-business-platform-gets-costlier-from-today-what-indian-businesses-need-to-know-about-new-messaging-charges-11790836512655.html
 
-- IPO Valuations Dip in India as Local Funds Flex Pricing Muscle
-  India’s domestic funds are driving a harder bargain on IPO pricing. They are using their growing clout to rein in val
-  🔗 https://www.livemint.com/market/ipo/ipo-valuations-dip-in-india-as-local-funds-flex-pricing-muscle-11790821171391.html
+- Google Fitbit Air launches in India: Screen-free tracker brings heart-rate, sleep, fitness monitoring
+  Google has launched the Fitbit Air in India at  ₹13,999. The screen-free tracker offers 24/7 heart rate monitoring, AFib alerts, SpO2
+  🔗 https://www.livemint.com/technology/gadgets/google-fitbit-air-launches-in-india-screen-free-tracker-brings-heart-rate-sleep-fitness-monitoring-11790826475526.html
 
-- Top stocks to watch today: Infosys, IRFC, Muthoot Finance among shares in focus on Thursday, 1 Oct | Full list
-  HDFC Bank, Acme Solar, Muthoot Finance, Jio Financial Services, IRFC among shares that
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-and-why-infosys-irfc-muthoot-finance-among-shares-in-focus-on-thursday-1-oct-full-list-11790817912219.html
+- AI agents tried to hack a Canadian government website, research firm says
+  AI agents tried to hack a Canadian
+  🔗 https://www.livemint.com/technology/ai-agents-tried-to-hack-a-canadian-government-website-research-firm-says-11790827226608.html
 
 - Axis and ICICI vs SBI: How Flipkart and Amazon are shaping India’s banking partnerships for 10% festive discounts
    Flipkart emphasises Axis and ICICI Bank offers, while Amazon features SBI for 10% instant savings.
   🔗 https://www.livemint.com/technology/axis-and-icici-vs-sbi-how-flipkart-and-amazon-are-shaping-india-s-banking-partnerships-for-10-festive-discounts-11790782352409.html
 
-- Apple Pay India launch in collaboration with Axis Bank: How to set it up on your iPhone? Check step-by-step guide
-  Apple has launched its Apple Pay service in India with Axis Bank. More banks may join by year-end. Check how to set-up Apple Pay on iPhone
-  🔗 https://www.livemint.com/technology/apple-pay-india-launch-in-collaboration-with-axis-bank-how-to-set-it-up-on-your-iphone-check-step-by-step-guide-11790774756916.html
+- Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs - Al Jazeera
+  Modi’s India takes on Trump more
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRuTmJIVmd3ckNSZG02cXdicGMtdndHSDV1UnFhWGNBVWJyVDR1Q21pSEk5UVdmZ2JmZXhCMXZuVlc2WURrSGlVb0NFaVl4bUxMMVZyQmdzbnVlaUJ3R0JtWHI2bE1BclZkT1dGYTRab2dVbEpUQ3BCZ3JYR1llekxzb2QyTVVSLUNSanh3aVN3T3o4bjQtQjNpRG94NkRLcjdtLWEwTTPSAa4BQVVfeXFMTWhWOHA5dkNxLXRZM2xVSVp0LUNlSHVyejcwUzR3V3NfdWZvbHZuRENhd1hER3hKWEtVbHBVVGJqRmRmai1TcGkzZDJuYnF1RFE1V2p0YWhWOEtGU1pzdUxDM21KSElxZjRyV3BMRlY5TXhVZWVzNXJKeS1hZVNWZmJFazhRSTJUQUw1TGw4eERXU196dmpzRTQ2ZDB1QWkzVFpmeFdtU2VQbElJa1JB?oc=5
 
-- iPhone Duo yield stuck at 60%: Apple's foldable faces production delays ahead of Oct 23 launch
-  Foxconn's final assembly yield reportedly just above 60%. Supply chain issues with foldable OLED panels and hinge components could limit initial availability.
-  🔗 https://www.livemint.com/technology/iphone-duo-yield-stuck-at-60-apples-foldable-faces-production-delays-ahead-of-oct-23-launch-11790753188518.html
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- 'If we do this right, we can win safely': Tech Czars commit to safety standards for super-intelligence in meet with Trump
-  Trump and the AI czars signed a set of voluntary safety standards.
-  🔗 https://www.livemint.com/technology/if-we-do-this-right-we-can-win-safely-tech-czars-commit-to-safety-standards-for-super-intelligence-in-meet-with-trump-11790737785030.html
-
-- Trump-Tech czars sign 'morally binding' accord on super intelligence, tighter guardrails on cards
-  U.S. President Donald Trump and the chief executives of leading technology companies have signed a joint, "morally binding" accord. The accord commits to implement a comprehensive framework of "four layers of controls and audits" to govern the
-  🔗 https://www.livemint.com/technology/trumptech-czars-sign-morally-binding-accord-on-super-intelligence-tighter-guardrails-on-cards-11790737779681.html
-
-- Stock Market News, Sept. 30, 2026: 10-Year Treasury Yield Rises to New 24-Year High - WSJ
-  The WSJ reports that the 10-year Treasury Yield
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnlmOHNxMElwZWFLb2pRei1URmtINlR1aS1PVWRPMmhEdmZPRnBBRFBaMXBGMjhPbE9fRVVoMnMtMFNVZ0NFd3I5dGk5c19oS1JUQy1QTGZQbTl3b3liUzJiSmlVd2Y4OTZkT2hYSDZVWnBiVmhOdmV6Qk5zMWtQd0RoWk5FRjA?oc=5
-
-- Stock futures rise as traders eye elevated Treasury yields, brace for jobs report due this week: Live updates - CNBC
-  Stock futures rise as traders eye elevated Treasury yields. brace for jobs report due this
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE93ZklidXJsMkhSOG1wdXNvSzlyV0pLZmFBcnd2WWdmQXhFSmxVYzVkM1lkeHI0d3pyQmxIZFBwSXBjeFctMHNGMUh5ZTNZT2RDTjF4RmFIamxETFZHdWpNRlVnSGhWQkY2Z1M4alRPV29IMXlnamVj0gF8QVVfeXFMTU13b1AxdktDTlg5TjFGdE1HTGhmU1kzOXlZWGhLN1pMLVZuLTR4WTRFME55ell3VjhhZEh1Y0JoUE8zejFxZHlLaDIxY25LcFFrQnVPWDlEU0d6TmlRUWpXMnRuTzAxQ0dleFIyM3FrR1RhMlAzSDVFSzFTaQ?oc=5
-
-- Stocks and Bonds Pause Ahead of US Data, Micron: Markets Wrap - bloomberg.com
-  Stocks and Bonds Pause Ahead of US
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1BTMzZVQ0JJLTF0VnV4LWV6S3l6OXFVZWVITnl6QmpHNmR0eDUwWWNBYTZ1b2xYNmhSLTRaUXk4cjlpcjQ5NkU4Ry1hdnI3ckQ1TXFkY0ZXNjdzMXVwTmZEYnRURmhEdUxXYWdvNl9lbXBDSmRyYzRpZEVzNWFlenAtMFQxMURBdkRKVS1jTUJDU3hL?oc=5
-
-- GIFT Nifty falls, signals gap down start for Sensex, Nifty; Asian markets subdued, FII selling weighs - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWkFKVVRGNVBQM1JTR0hPR0dHYkxNMFhBWDdIQXpLV1VobkxldW1nWWVDbGdYUUFvc3NNQ3lHSGlSSlJITXRrVXNhcF9GT19tckxxV2VGb1EtZnI2YU1hbkd6WDFDRHJzcV
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWkFKVVRGNVBQM1JTR0hPR0dHYkxNMFhBWDdIQXpLV1VobkxldW1nWWVDbGdYUUFvc3NNQ3lHSGlSSlJITXRrVXNhcF9GT19tckxxV2VGb1EtZnI2YU1hbkd6WDFDRHJzcVRFeUtaa1VRMkV4QkR3TUdQRXYzbUs5SzVicDZmc2ZaU3d4N3ZCZTBOaUI0NFJnYnBBMzIyU21wNW94WkowTS1aSnZpbzFoVFZvc0FTNGEwQXVTNnJmNm94VUVWUDlmb2w5bDEwQ2pDUUZlUnRYWlR4Y25naUstNWg3T3MxQjViSkREVDkxYUZHMU5D0gH6AUFVX3lxTE10TmJvN2drNmNjNnlfd0E5Mno3cGp5MkFtVDM2TGxLTGg2bmdLa2ltVGkwcVc2S1RlYU5MRUdQNEV3bjBHN2xjMk8tUmZ5aDNWTkoxcFdxYUJxSEdQRjZHWnlfZXRvN2FpMHJaX0cycEwtanpsbmRRbEVhcXJTTkFFYk1BRlF1RGpIcUN4MWxmcGxFLWVWU3AtX2NIeWs2TzN0cUtqRmJheUgxRkVvSldpT3R0WjI4bEFtaDlsdjd6aEVwZURXVEQ1bUc1NjNRYkIwYXdQdEFPN3FZTTJiMTY2VUZFeVlCS3Bva2psV2NYaWZxWjFCek1TS3c?oc=5
-
-- AI borrowers face tough sell in risky corners of US credit market - Reuters
-  AI borrowers face tough sell in risky corners of US
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDgzMm9MOFBWRnQzVE5TX2FjS0dlek94d3FaTnIwWFNSR2M5LW44X093SllVajZPUUYwenVTa0NlWS01WldkRnFxN25oUFNDYlI4QkdZNFlqQk81VjAtRlhCQjlSSFVkaEY0ZmVfeTZWXy1VQndrNTN4ODVSbDAzeFVTNDlERll6amRqNjQ3dTcxeE9kMWoyckRGZlp3WnBBMzY2UGRhM0ZCZkxyd0lsb0Y4NlQ5UQ?oc=5
-
-- Roopa Screen, Peshwa Wheat shares to list today; Roopa Screen commands 66% GMP
-  Two SME IPOs, Roopa Screen and Peshwa Wheat, are set to list on the BSE SME platform on October 1. The two IPOs raised a combined Rs 72.72 crore from investors
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/roopa-screen-peshwa-wheat-shares-to-list-today-roopa-screen-commands-66-gmp/articleshow/134607136.cms
-
-- Ircon International, Aegis Logistics among 6 stocks showing RSI trending up
-  Six Nifty 500 stocks, including Ircon International and Aegis Logistics, crossed above the 50 mark in the RSI trending up scan on 30 September. Based on StockEdge
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ircon-international-aegis-logistics-among-6-stocks-showing-rsi-trending-up/slideshow/134606960.cms
-
-- Predicting FII flows akin to predicting mood swings: DSP MF CIO Anish Tawakley
-  I would caution anyone against basing investing decisions based on flows for three reasons. At any point in time the market is influenced by multiple factors and it is impossible to attribute performance across those factors
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/predicting-fii-flows-akin-to-predicting-mood-swings-dsp-mf-cio-anish-tawakley/articleshow/134606737.cms
-
-- A-One Steels shares to list today: Check GMP ahead of debut
-  The Rs 405 crore public issue was a book-built offering comprising a fresh issue of 87.65 lakh shares worth Rs 355 crore and an offer for sale (
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/a-one-steels-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134606449.cms
-
-- Moneyview shares to list today; GMP signals 38% premium ahead of debut
-  The Rs 1,091.68 crore Moneyview IPO comprised a fresh issue of 22.06 crore shares aggregating to Rs 750 crore
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/moneyview-shares-to-list-today-gmp-signals-38-premium-ahead-of-debut/articleshow/134606409.cms
-
-- Gyanesh Kumar: India's election chief at the centre of a growing political storm - BBC
-  Gyanesh Kumar is India's election chief. He
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVREUHpxcWdSSFJ2dFplWmFmbUdVUmI0ZHNBQVVQMzczSjhsLVh4RTliQ2tDRkpleHdyaEFwUnBRbDdDQmxnT2o5Rm9SaVczZnNSSGxsb0dUdWM?oc=5
-
-- INDIA Meet On 'Op Gyanesh Kumar', Sources Reject Attacks On Poll Panel - NDTV
-  " target="_blank">INDIA Meet
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUmkwLTlIa2tmVGJjaHljN1dPS25sZmtUMHF0T0FWZ092RE1uaEZaY0JHSVpCRmhmUEptcE5lbmFtYUw4OVc2dGgyOWExeVlKb3B3ZU41WUxibGw0WFBfa3U5T0IzWVQ5TmZmczBTMklQamJsWXJmS0JiMVNjM3U4ZzVNbWVNZlA3SnNrbTZpaXdLdUZRcGV3aFZVRXhCR1BaNnB2M3FaNGNhSXUwRlVSQnFudjZGX3laTXJETVoyX3dkUmNZRzUxd093SWlhelQwdzloTVBHTFNkLVFr0gHkAUFVX3lxTE43Q1ZMN0hNeGtieVN5UFdmTkQ0RDk3Q0NaSWVYaEo1NmJlLWs5ZXFzOTFldWdmSjhwQXdSN2xEcWRnR2ZSWHpzVXFQMUlGdERIcmh1Z2ozVVloYjlaY2NKcXVMM3FLQUthc3BVUE9fUWZaV21GYlNmWFdCVER0SjF5ZlpwWG5NRmNXWXVXcE1tUERWNkxtXzlUVjV3R0RaYTRiTVNDN0U4aHVUTS1zdXFJNVRQemZwQ29nclkwbTVKeThVYXhNLUw3MGJlNVg4NWNtX1R4aGd5ZjVnLW9uV0tEeHFGMw?oc=5
-
-- INDIA bloc to launch nationwide campaign against CEC, SIR from October 2 - The Hindu
-  The Hindu reports that India bloc to launch nationwide campaign
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNSVZFWmxxMVZ4T0tGZHRnVm9kY3N0c2dyVWlIVEduR3A1OHZHem15QmMtMFBFSjhua0RhVTJCRTJCdFFONll4WVg5aVhMZ3BBcUtsd0R0OUhIZlhYZXhRYzNGVF82N08yUjkySjRUZnVKbTkzZmNCM05KV0ZFS0JSM0dlV3hnS3hTMWVjVmRMT1JQeFVackhLNEhPdWRNX2k2RG9nTGMzbUFmaTV6a1UyM2JQQVVMcG1qM3Z4cUwtVExOcnBSbm0tUXl30gHQAUFVX3lxTFBScVRtN2kwbUg0Yk1iREVZdm1Ec1pZczA1NFBZVTFRU1pwcXlMYWpBQ040T1RRLVY5b3BWX2hMZXpnZ1huN0RQOFczLWZEdFRlMEM0RUtFUHdCRXA5emtFbUUzOXVxY0hWdEhiWjAzVnI2S0poS3NBdGcwVFBla1BxSXpGYjZMems5WHFLLUd6YjR3ZUNrTWNyN3Q2R1BWWFJSTjU3QkhPdTlPRVNMcTFWd0QzSWtFTmoyeDZSS25wQzJoUTh1SDZHQVN0ck13M0o?oc=5
-
-- 3 Indian Relatives, On Way To US, 'Vanish'. Then Comes A Call From Ethiopia - NDTV
-  3 Indian Relatives, On Way To US, 'V
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHc5aDdlX2ZOYVlEUl9tV1FqcG1mZk04UDJsUWpBNy10dk5HbU13SUdocjJYZzZpV3V3eVN5aHVPSkJBRndvX2gyU3JkalRUWnNnTmltOUNCNG5ucWxQbVBENlZiS1lnb24tYkc5NTdCX2NTajJuZ3hPeWw2dUNKeXk1WW92a2NiTE9YUlZZYmlsS19HNzhOMHlYZ0RWV3ZQa21GRlFXN29SUDkwV1VrOdIBuAFBVV95cUxQVVVERnZQeTgxd0EwY3F4N3psYmRENkpQRjduT0JhSlNOWGtkMHZ1dkRoamd0N1JWZmk5eVF0XzFXQkkyUC1FZkt2cjZiZEd6NHRraGI1c2xNNURVd3lpeFhya2hRSzZTODFwaDZFVnpqdHZHSUEyQ0FqaHF6azZoUjhMQ0RhRzN6eWpMUjBmSFNISFEwSGowazg4NURwLURLMTlYZ0l6TTEwV0tJTzJOM0diSVdyMmxa?oc=5
+- India at Asian Games: Live updates from Day 12 action on October 1, 2026 in Aichi-Nagoya - espn.in
+  India will be competing in the 2026 Asian Games in Aichi-
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ1FhaHV5X1RTelplQ3k2TjdYbV9mVmh4VlBpbUVtaU1HVVhjR1o1aFYwLUI5eUdNNnJGb1c2VGphZndob2VLd1FxNHR6SzREOTR4cm1oVUgzdG9JYnBCaDM3RDBFekdEV0tIcGxJQTNMY0oweW9HVUhBSkRaZTJrTDUxN09BRThsMW1NcWUtYS14ak5CMVc2NXg4OG1MWWxqd25GOXFWYm9TY0ZxR1hpeThSbVFRLVFWd19qSnppNU1tZWdVRjBoQ0JqMjF5dEFIcWZsQWY0b0hpRmx1YkVFTjZkUnBqZw?oc=5
 
 - Asian Games 2026 live, October 1: Know India scores, updates and results from Day 12 - olympics.com
   Asian Games 2026 live, October 1: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVlpUEVJVHVXNUNaTXUxTW16dFphX2dVb3N1VE1TeWVZbUFDVFBhaUs0cGlOUUozZzE0M1pJcWhTV0V1cE9pNVhFXy1kVGc1M04xRzJFNEtULVV0YXlibUdlV0JBa1I5UTZhUVJxV2VJVFJPUGZHaFZ0dTVyZ1M4T3VZM045dUtuaGFSdmNlczVuckI2NTJTeQ?oc=5
 
-- Q3 Funding Crawls Up, Inc42’s CTO Summit 2026 & More
-  Startup Funding Up A Mere 5% YoY In Q3 Startup investors turned more selective in Q3 2026.
-  🔗 https://inc42.com/buzz/q3-funding-crawls-up-inc42s-cto-summit-2026-more/
+- Asian Games 2026 Day 12 Live Updates: India win men's squash team bronze; Nitesh Siwach wins historic Greco-Roman silver - The Times of India
+  Asian Games 2026 Day 12 Live Updates: India win men's squash team bronze. Nitesh
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXYxX29LWXJkWm9DbU5jT0NEeE9HWWlHMnp4V3dDU0N5bWZodGhDN3lqU1lHV0dlOV94NFhaN1B0SWVETS1DZTAxLTBUN3lWSU1lWEpYa1hwLWlTalJ0ZDBFQktqUHhfdDFNdXZOXy15cmE4SGZQcUJORUVMRk1YaTFmUkVFVVJGM0tXaTJvU0JtZjRLVVVBVmV4cXBsVFppTm5qVERVVVlpN09OMDZVTGlZMGU2aV9mcEpDNUZQNkw3M2xmRkxtcU5nNW40al9jUUdoOEE4NkZ4SDgtUmY2TGxNOTJCeUF4WUFBSk14QnduWG1lVnREZG5R?oc=5
 
-- Traders Call Off ‘No UPI Day’ Protest After Meeting FM Sitharaman
-  The All India Mobile Retailers Association (AIMRA) and the All India Consumer Products Distributors Federation (AICPDF) have called off their protest.
-  🔗 https://inc42.com/buzz/traders-call-off-no-upi-day-protest-after-meeting-fm-sitharaman/
+- E2W Registrations Rebound 12% MoM In September; Ather, Ola Lose Market Share
+  E2W Registrations Rebound 12% MoM In September; Ather, Ola Lose Market Share.
+  🔗 https://inc42.com/buzz/e2w-registrations-rebound-12-mom-in-september-ather-ola-lose-market-share/
 
-- TPG Sells More Shadowfax Shares Via ₹114 Cr Bulk Deal
-  Private equity (PE) giant TPG has now offloaded more shares of listed logistics giant Shadowfax.
-  🔗 https://inc42.com/buzz/tpg-sells-more-shadowfax-shares-via-%e2%82%b9114-cr-bulk-deal/
+- SBI Mutual Fund Doubles Down On Swiggy, Buys Stock Worth ₹300 Cr
+  SBI Mutual Fund, under its various schemes, acquired an additional 1.18 Cr equity shares of Swiggy.
+  🔗 https://inc42.com/buzz/sbi-mutual-fund-doubles-down-on-swiggy-buys-stock-worth-%e2%82%b9300-cr/
 
-- Cofounder Upasana Taku Picks Up 1.1 Lakh MobiKwik Shares
-  MobiKwik cofounder and chief financial officer (CFO) Upasana Taku has picked up 1.07 Lakh shares.
-  🔗 https://inc42.com/buzz/cofounder-upasana-taku-picks-up-1-1-lakh-mobikwik-shares/
+- Jio Financial Services, Allianz Pump ₹640 Cr Into General Insurance JV
+  Jio Financial Services (JFS) and German insurance major Allianz have cumulatively infused ₹640.1 Cr ($66.5
+  🔗 https://inc42.com/buzz/jio-financial-services-allianz-pump-%e2%82%b9640-cr-into-general-insurance-jv/
 
-- Building AI Products For Indian Users: The Challenge Of Scale, Access, And Cost
-  The challenge of taking AI products to millions of Indian users is making them.
-  🔗 https://inc42.com/buzz/building-ai-products-for-indian-users-the-challenge-of-scale-access-and-cost/
+- Google Unveils Gemini 4 Argon, Its Most Advanced AI Model Yet
+  Google unveils Gemini 4 Argon, Its Most Advanced AI Model Yet.
+  🔗 https://inc42.com/buzz/google-unveils-gemini-4-argon-its-most-advanced-ai-model-yet/
 
-- Gyanesh Kumar: India's election chief at the centre of a growing political storm - BBC
-  Gyanesh Kumar is India's election chief. He
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVREUHpxcWdSSFJ2dFplWmFmbUdVUmI0ZHNBQVVQMzczSjhsLVh4RTliQ2tDRkpleHdyaEFwUnBRbDdDQmxnT2o5Rm9SaVczZnNSSGxsb0dUdWM?oc=5
+- UPI Transactions Dip 2% MoM To 24.07 Bn In September
+  UPI Transactions Dip 2% MoM To 24.07 Bn In September.
+  🔗 https://inc42.com/buzz/upi-transactions-dip-2-mom-to-24-07-bn-in-september/
 
-- INDIA Meet On 'Op Gyanesh Kumar', Sources Reject Attacks On Poll Panel - NDTV
-  " target="_blank">INDIA Meet
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUmkwLTlIa2tmVGJjaHljN1dPS25sZmtUMHF0T0FWZ092RE1uaEZaY0JHSVpCRmhmUEptcE5lbmFtYUw4OVc2dGgyOWExeVlKb3B3ZU41WUxibGw0WFBfa3U5T0IzWVQ5TmZmczBTMklQamJsWXJmS0JiMVNjM3U4ZzVNbWVNZlA3SnNrbTZpaXdLdUZRcGV3aFZVRXhCR1BaNnB2M3FaNGNhSXUwRlVSQnFudjZGX3laTXJETVoyX3dkUmNZRzUxd093SWlhelQwdzloTVBHTFNkLVFr0gHkAUFVX3lxTE43Q1ZMN0hNeGtieVN5UFdmTkQ0RDk3Q0NaSWVYaEo1NmJlLWs5ZXFzOTFldWdmSjhwQXdSN2xEcWRnR2ZSWHpzVXFQMUlGdERIcmh1Z2ozVVloYjlaY2NKcXVMM3FLQUthc3BVUE9fUWZaV21GYlNmWFdCVER0SjF5ZlpwWG5NRmNXWXVXcE1tUERWNkxtXzlUVjV3R0RaYTRiTVNDN0U4aHVUTS1zdXFJNVRQemZwQ29nclkwbTVKeThVYXhNLUw3MGJlNVg4NWNtX1R4aGd5ZjVnLW9uV0tEeHFGMw?oc=5
+- Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs - Al Jazeera
+  Modi’s India takes on Trump more
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRuTmJIVmd3ckNSZG02cXdicGMtdndHSDV1UnFhWGNBVWJyVDR1Q21pSEk5UVdmZ2JmZXhCMXZuVlc2WURrSGlVb0NFaVl4bUxMMVZyQmdzbnVlaUJ3R0JtWHI2bE1BclZkT1dGYTRab2dVbEpUQ3BCZ3JYR1llekxzb2QyTVVSLUNSanh3aVN3T3o4bjQtQjNpRG94NkRLcjdtLWEwTTPSAa4BQVVfeXFMTWhWOHA5dkNxLXRZM2xVSVp0LUNlSHVyejcwUzR3V3NfdWZvbHZuRENhd1hER3hKWEtVbHBVVGJqRmRmai1TcGkzZDJuYnF1RFE1V2p0YWhWOEtGU1pzdUxDM21KSElxZjRyV3BMRlY5TXhVZWVzNXJKeS1hZVNWZmJFazhRSTJUQUw1TGw4eERXU196dmpzRTQ2ZDB1QWkzVFpmeFdtU2VQbElJa1JB?oc=5
 
-- INDIA bloc to launch nationwide campaign against CEC, SIR from October 2 - The Hindu
-  The Hindu reports that India bloc to launch nationwide campaign
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNSVZFWmxxMVZ4T0tGZHRnVm9kY3N0c2dyVWlIVEduR3A1OHZHem15QmMtMFBFSjhua0RhVTJCRTJCdFFONll4WVg5aVhMZ3BBcUtsd0R0OUhIZlhYZXhRYzNGVF82N08yUjkySjRUZnVKbTkzZmNCM05KV0ZFS0JSM0dlV3hnS3hTMWVjVmRMT1JQeFVackhLNEhPdWRNX2k2RG9nTGMzbUFmaTV6a1UyM2JQQVVMcG1qM3Z4cUwtVExOcnBSbm0tUXl30gHQAUFVX3lxTFBScVRtN2kwbUg0Yk1iREVZdm1Ec1pZczA1NFBZVTFRU1pwcXlMYWpBQ040T1RRLVY5b3BWX2hMZXpnZ1huN0RQOFczLWZEdFRlMEM0RUtFUHdCRXA5emtFbUUzOXVxY0hWdEhiWjAzVnI2S0poS3NBdGcwVFBla1BxSXpGYjZMems5WHFLLUd6YjR3ZUNrTWNyN3Q2R1BWWFJSTjU3QkhPdTlPRVNMcTFWd0QzSWtFTmoyeDZSS25wQzJoUTh1SDZHQVN0ck13M0o?oc=5
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- 3 Indian Relatives, On Way To US, 'Vanish'. Then Comes A Call From Ethiopia - NDTV
-  3 Indian Relatives, On Way To US, 'V
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHc5aDdlX2ZOYVlEUl9tV1FqcG1mZk04UDJsUWpBNy10dk5HbU13SUdocjJYZzZpV3V3eVN5aHVPSkJBRndvX2gyU3JkalRUWnNnTmltOUNCNG5ucWxQbVBENlZiS1lnb24tYkc5NTdCX2NTajJuZ3hPeWw2dUNKeXk1WW92a2NiTE9YUlZZYmlsS19HNzhOMHlYZ0RWV3ZQa21GRlFXN29SUDkwV1VrOdIBuAFBVV95cUxQVVVERnZQeTgxd0EwY3F4N3psYmRENkpQRjduT0JhSlNOWGtkMHZ1dkRoamd0N1JWZmk5eVF0XzFXQkkyUC1FZkt2cjZiZEd6NHRraGI1c2xNNURVd3lpeFhya2hRSzZTODFwaDZFVnpqdHZHSUEyQ0FqaHF6azZoUjhMQ0RhRzN6eWpMUjBmSFNISFEwSGowazg4NURwLURLMTlYZ0l6TTEwV0tJTzJOM0diSVdyMmxa?oc=5
-
-- Asian Games 2026 live, October 1: Know India scores, updates and results from Day 12 - olympics.com
-  Asian Games 2026 live, October 1: Know India scores,
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVlpUEVJVHVXNUNaTXUxTW16dFphX2dVb3N1VE1TeWVZbUFDVFBhaUs0cGlOUUozZzE0M1pJcWhTV0V1cE9pNVhFXy1kVGc1M04xRzJFNEtULVV0YXlibUdlV0JBa1I5UTZhUVJxV2VJVFJPUGZHaFZ0dTVyZ1M4T3VZM045dUtuaGFSdmNlczVuckI2NTJTeQ?oc=5
-
-- Gyanesh Kumar: India's election chief at the centre of a growing political storm - BBC
-  Gyanesh Kumar is India's election chief. He
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVREUHpxcWdSSFJ2dFplWmFmbUdVUmI0ZHNBQVVQMzczSjhsLVh4RTliQ2tDRkpleHdyaEFwUnBRbDdDQmxnT2o5Rm9SaVczZnNSSGxsb0dUdWM?oc=5
-
-- INDIA Meet On 'Op Gyanesh Kumar', Sources Reject Attacks On Poll Panel - NDTV
-  " target="_blank">INDIA Meet
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUmkwLTlIa2tmVGJjaHljN1dPS25sZmtUMHF0T0FWZ092RE1uaEZaY0JHSVpCRmhmUEptcE5lbmFtYUw4OVc2dGgyOWExeVlKb3B3ZU41WUxibGw0WFBfa3U5T0IzWVQ5TmZmczBTMklQamJsWXJmS0JiMVNjM3U4ZzVNbWVNZlA3SnNrbTZpaXdLdUZRcGV3aFZVRXhCR1BaNnB2M3FaNGNhSXUwRlVSQnFudjZGX3laTXJETVoyX3dkUmNZRzUxd093SWlhelQwdzloTVBHTFNkLVFr0gHkAUFVX3lxTE43Q1ZMN0hNeGtieVN5UFdmTkQ0RDk3Q0NaSWVYaEo1NmJlLWs5ZXFzOTFldWdmSjhwQXdSN2xEcWRnR2ZSWHpzVXFQMUlGdERIcmh1Z2ozVVloYjlaY2NKcXVMM3FLQUthc3BVUE9fUWZaV21GYlNmWFdCVER0SjF5ZlpwWG5NRmNXWXVXcE1tUERWNkxtXzlUVjV3R0RaYTRiTVNDN0U4aHVUTS1zdXFJNVRQemZwQ29nclkwbTVKeThVYXhNLUw3MGJlNVg4NWNtX1R4aGd5ZjVnLW9uV0tEeHFGMw?oc=5
-
-- INDIA bloc to launch nationwide campaign against CEC, SIR from October 2 - The Hindu
-  The Hindu reports that India bloc to launch nationwide campaign
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNSVZFWmxxMVZ4T0tGZHRnVm9kY3N0c2dyVWlIVEduR3A1OHZHem15QmMtMFBFSjhua0RhVTJCRTJCdFFONll4WVg5aVhMZ3BBcUtsd0R0OUhIZlhYZXhRYzNGVF82N08yUjkySjRUZnVKbTkzZmNCM05KV0ZFS0JSM0dlV3hnS3hTMWVjVmRMT1JQeFVackhLNEhPdWRNX2k2RG9nTGMzbUFmaTV6a1UyM2JQQVVMcG1qM3Z4cUwtVExOcnBSbm0tUXl30gHQAUFVX3lxTFBScVRtN2kwbUg0Yk1iREVZdm1Ec1pZczA1NFBZVTFRU1pwcXlMYWpBQ040T1RRLVY5b3BWX2hMZXpnZ1huN0RQOFczLWZEdFRlMEM0RUtFUHdCRXA5emtFbUUzOXVxY0hWdEhiWjAzVnI2S0poS3NBdGcwVFBla1BxSXpGYjZMems5WHFLLUd6YjR3ZUNrTWNyN3Q2R1BWWFJSTjU3QkhPdTlPRVNMcTFWd0QzSWtFTmoyeDZSS25wQzJoUTh1SDZHQVN0ck13M0o?oc=5
-
-- 3 Indian Relatives, On Way To US, 'Vanish'. Then Comes A Call From Ethiopia - NDTV
-  3 Indian Relatives, On Way To US, 'V
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHc5aDdlX2ZOYVlEUl9tV1FqcG1mZk04UDJsUWpBNy10dk5HbU13SUdocjJYZzZpV3V3eVN5aHVPSkJBRndvX2gyU3JkalRUWnNnTmltOUNCNG5ucWxQbVBENlZiS1lnb24tYkc5NTdCX2NTajJuZ3hPeWw2dUNKeXk1WW92a2NiTE9YUlZZYmlsS19HNzhOMHlYZ0RWV3ZQa21GRlFXN29SUDkwV1VrOdIBuAFBVV95cUxQVVVERnZQeTgxd0EwY3F4N3psYmRENkpQRjduT0JhSlNOWGtkMHZ1dkRoamd0N1JWZmk5eVF0XzFXQkkyUC1FZkt2cjZiZEd6NHRraGI1c2xNNURVd3lpeFhya2hRSzZTODFwaDZFVnpqdHZHSUEyQ0FqaHF6azZoUjhMQ0RhRzN6eWpMUjBmSFNISFEwSGowazg4NURwLURLMTlYZ0l6TTEwV0tJTzJOM0diSVdyMmxa?oc=5
+- India at Asian Games: Live updates from Day 12 action on October 1, 2026 in Aichi-Nagoya - espn.in
+  India will be competing in the 2026 Asian Games in Aichi-
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ1FhaHV5X1RTelplQ3k2TjdYbV9mVmh4VlBpbUVtaU1HVVhjR1o1aFYwLUI5eUdNNnJGb1c2VGphZndob2VLd1FxNHR6SzREOTR4cm1oVUgzdG9JYnBCaDM3RDBFekdEV0tIcGxJQTNMY0oweW9HVUhBSkRaZTJrTDUxN09BRThsMW1NcWUtYS14ak5CMVc2NXg4OG1MWWxqd25GOXFWYm9TY0ZxR1hpeThSbVFRLVFWd19qSnppNU1tZWdVRjBoQ0JqMjF5dEFIcWZsQWY0b0hpRmx1YkVFTjZkUnBqZw?oc=5
 
 - Asian Games 2026 live, October 1: Know India scores, updates and results from Day 12 - olympics.com
   Asian Games 2026 live, October 1: Know India scores,
   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVlpUEVJVHVXNUNaTXUxTW16dFphX2dVb3N1VE1TeWVZbUFDVFBhaUs0cGlOUUozZzE0M1pJcWhTV0V1cE9pNVhFXy1kVGc1M04xRzJFNEtULVV0YXlibUdlV0JBa1I5UTZhUVJxV2VJVFJPUGZHaFZ0dTVyZ1M4T3VZM045dUtuaGFSdmNlczVuckI2NTJTeQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Asian Games 2026 Day 12 Live Updates: India win men's squash team bronze; Nitesh Siwach wins historic Greco-Roman silver - The Times of India
+  Asian Games 2026 Day 12 Live Updates: India win men's squash team bronze. Nitesh
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXYxX29LWXJkWm9DbU5jT0NEeE9HWWlHMnp4V3dDU0N5bWZodGhDN3lqU1lHV0dlOV94NFhaN1B0SWVETS1DZTAxLTBUN3lWSU1lWEpYa1hwLWlTalJ0ZDBFQktqUHhfdDFNdXZOXy15cmE4SGZQcUJORUVMRk1YaTFmUkVFVVJGM0tXaTJvU0JtZjRLVVVBVmV4cXBsVFppTm5qVERVVVlpN09OMDZVTGlZMGU2aV9mcEpDNUZQNkw3M2xmRkxtcU5nNW40al9jUUdoOEE4NkZ4SDgtUmY2TGxNOTJCeUF4WUFBSk14QnduWG1lVnREZG5R?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs - Al Jazeera
+  Modi’s India takes on Trump more
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRuTmJIVmd3ckNSZG02cXdicGMtdndHSDV1UnFhWGNBVWJyVDR1Q21pSEk5UVdmZ2JmZXhCMXZuVlc2WURrSGlVb0NFaVl4bUxMMVZyQmdzbnVlaUJ3R0JtWHI2bE1BclZkT1dGYTRab2dVbEpUQ3BCZ3JYR1llekxzb2QyTVVSLUNSanh3aVN3T3o4bjQtQjNpRG94NkRLcjdtLWEwTTPSAa4BQVVfeXFMTWhWOHA5dkNxLXRZM2xVSVp0LUNlSHVyejcwUzR3V3NfdWZvbHZuRENhd1hER3hKWEtVbHBVVGJqRmRmai1TcGkzZDJuYnF1RFE1V2p0YWhWOEtGU1pzdUxDM21KSElxZjRyV3BMRlY5TXhVZWVzNXJKeS1hZVNWZmJFazhRSTJUQUw1TGw4eERXU196dmpzRTQ2ZDB1QWkzVFpmeFdtU2VQbElJa1JB?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India at Asian Games: Live updates from Day 12 action on October 1, 2026 in Aichi-Nagoya - espn.in
+  India will be competing in the 2026 Asian Games in Aichi-
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ1FhaHV5X1RTelplQ3k2TjdYbV9mVmh4VlBpbUVtaU1HVVhjR1o1aFYwLUI5eUdNNnJGb1c2VGphZndob2VLd1FxNHR6SzREOTR4cm1oVUgzdG9JYnBCaDM3RDBFekdEV0tIcGxJQTNMY0oweW9HVUhBSkRaZTJrTDUxN09BRThsMW1NcWUtYS14ak5CMVc2NXg4OG1MWWxqd25GOXFWYm9TY0ZxR1hpeThSbVFRLVFWd19qSnppNU1tZWdVRjBoQ0JqMjF5dEFIcWZsQWY0b0hpRmx1YkVFTjZkUnBqZw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Asian Games 2026 live, October 1: Know India scores, updates and results from Day 12 - olympics.com
+  Asian Games 2026 live, October 1: Know India scores,
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVlpUEVJVHVXNUNaTXUxTW16dFphX2dVb3N1VE1TeWVZbUFDVFBhaUs0cGlOUUozZzE0M1pJcWhTV0V1cE9pNVhFXy1kVGc1M04xRzJFNEtULVV0YXlibUdlV0JBa1I5UTZhUVJxV2VJVFJPUGZHaFZ0dTVyZ1M4T3VZM045dUtuaGFSdmNlczVuckI2NTJTeQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Asian Games 2026 Day 12 Live Updates: India win men's squash team bronze; Nitesh Siwach wins historic Greco-Roman silver - The Times of India
+  Asian Games 2026 Day 12 Live Updates: India win men's squash team bronze. Nitesh
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXYxX29LWXJkWm9DbU5jT0NEeE9HWWlHMnp4V3dDU0N5bWZodGhDN3lqU1lHV0dlOV94NFhaN1B0SWVETS1DZTAxLTBUN3lWSU1lWEpYa1hwLWlTalJ0ZDBFQktqUHhfdDFNdXZOXy15cmE4SGZQcUJORUVMRk1YaTFmUkVFVVJGM0tXaTJvU0JtZjRLVVVBVmV4cXBsVFppTm5qVERVVVlpN09OMDZVTGlZMGU2aV9mcEpDNUZQNkw3M2xmRkxtcU5nNW40al9jUUdoOEE4NkZ4SDgtUmY2TGxNOTJCeUF4WUFBSk14QnduWG1lVnREZG5R?oc=5
 
 
-_Last updated: 2026-10-01 03:42:41 UTC_
+_Last updated: 2026-10-01 12:19:06 UTC_
