@@ -1,5 +1,49 @@
 # 📰 Daily News Summaries
 
+- Gyanesh Kumar: CJP, or Cockroach Janta Party, calls for protests against election chief - BBC
+  Gyanesh Kumar: CJP, or Cockroach
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lXy1PQk0wX29IUjkxVG1HR1BYZ0R1c1RPNEwzQzd1VndsWlhrb2JLR0FhYWg1RmpqX01FMTlzOGZ1RUF1X3JUTDJUbHRRMUtGSWlfQXQ0c3dHNGc?oc=5
+
+- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
+  India news: Delhi protesters turn up heat on election chief
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
+
+- India’s Cockroach movement launches new protests over changes to voter roll - theguardian.com
+  India's Cockroach movement launches new protests over
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
+
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
+
+- India standardises names of 28 places in Ladakh - The Hindu
+  India standardises names of 28 places
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPV29NUlhOM2xhTXlMNW11MkZ5SnM3V2hGV1dPRUV2bW9ELXFmN0ZoaF9BUmJvTC1vZDliX2piRjl5ZFVIYnBrNkx3dWtkbExoQkZuWDg2WW00Q0E5Vk9IQ25lMkFYa0lBemZXem5NSWpBUmtqcEtYZ3B1dkhOU0loTnF1R0RyZ0VaeDhCWEN1bko0NERabGN1SjZkeWotSFlJZkV2VTRlX1pOY3QwR0t5WlNHSdIBugFBVV95cUxQNVgxT1BDdmoxaGx4Mm4wZnJlRDNvVHVxMXVxZlN3UXNDbkdma3h5RXlJQW9uRU9qdmYtck43RlZUWVEyRmtlVzJKaVJ1RTlHWml5eC1UajNoVkl2cUVkR25ubXdYT2hRNkdPa3Z4bU55d1NIaWJSZVlkRDE1TjdQUFljdTFaT0tJY0stdGQ5R3RfQVlqMldveC1FajJ3a0t6c3l4M0daQzBybndoUGdzVTNrRWRvLW5GR0E?oc=5
+
+- NATO releases Quantum Technology roadmap - North Atlantic Treaty Organization | NATO
+  NATO releases Quantum Technology roadmap.
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUlmX2hnUUlsdl9mR2N0Y0JZMGFWV2szQ3A4UGpudXJVU0JXTTdLb05tU1NFVHNDY1lqUTlxaHlKdkV3b2w4OTZ4a2dyeVFSbExtVndDVGNOSjhGNk5xVDNOSDdOUVhmcGZkWVg0aEg4SFNWM1MyOG1wTEg4ZWpGSmFZbUl2anpOX29tQm9OMGFqWkFyOU1FekpVbjJudHE5X05XaHBmTHM?oc=5
+
+- Comcast's NBCUniversal cuts streaming technology jobs - Reuters
+  Comcast's NBC
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXBTS3lLLXduM0Q5MV9lTVlZOFBuRnJtMHdnY29hTzVic0F3WnBJbldBUEdwSjU1WGZtNVdFcTh5eHJDeFBVVm5sRUFSeHJZbk9HTGR3bllGREc3V1ZwUENCSEh0cEhveENMTEE0UTM3RG40QlhkZF9razhLRDFfMmJqRzBHX0dwWUZBSEw4WkxxNXpwR0w5Mnl2d041cDJqaW8yb0hra3E?oc=5
+
+- Don’t be fooled—LLMs don’t reason - MIT Technology Review
+  Don't be fooled—
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMdIBkgFBVV95cUxOcmZ3aHQyTV9vS2Vld2t6UkkzdS16UkZGWGJvZkEzdVZQRFdtS29RVnEtVFNueFo0cHpVM19MQUltUWdoWFRWWEh0RlpFLVFqb3kxb0ZBUkVYcU5aa0dVZlMxNUdFb0lVRlJWSDhoWnozWHFvaTZTNXY4d3F0UHpfbUowaVdpSFFDbm0xc3JCYkRTdw?oc=5
+
+- Tshwane University of Technology Oval, Pretoria details, matches, stats - Cricbuzz
+  Tshwane University of Technology
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQbjUyUmtIQVplWk4wMnFOeEpyQmJ5R2g1N1FzOU1Ha2Qxb212YnRMc0ViSWJrZFQxUWIwTC1RanFHbG5ESTl1MHg2TWU1Slh2eWNKSWpWR3NKTEZPYTdyUktNd2pfUHpZZ2R2em1FVUc0SC1oTy1sYzRHdnNtazdROVRCeTNDTWlSOWgzdS1ZYmhHTlo4M2NkOEVkRWlza0x6bi12WGRkaDVxem5OcWJidjBkc2NNQWUwRlcwNzAtZ2tSWTJVWWc?oc=5
+
+- Why is Credo Technology stock surging today? - Investing.com India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW14NjJyZ0U0MEx5Ykk2Z1RFNWYzb19ZTlc5MXFaNGxyejY0dUpjTFNkUURVR196Ri1FV1NCYTIyaTdIRWdJVmNjejRjTllpbHdjSjBpZzhDZ201eFd4Z1FjaDRRLXFFX2Z2aC1hOFdUS0N2OURfbnBlVHhXRi0tbHpaeWtIQUhzSWppeWJkTWl4RnNoanZSN2FSenJiY243ZURtVXA1aw?oc=5
+
+- Boeing 737 Max Glitch Found Not to Be Safety Issue by FAA
+  A software glitch affecting Boeing Co. 737 Max aircraft was determined not to pose a safety risk by a Federal Aviation Administration panel.
+  🔗 https://www.livemint.com/companies/boeing-737-max-glitch-found-not-to-be-safety-issue-by-faa-11790968332246.html
+
 - Skyroot Aerospace CEO Pawan Kumar Chandana named in TIME100 Next 2026- Who is he? All about ‘Elon Musk of India’
   Pawan Kumar Chandana, Skyroot Aerospace co-founder and CEO, has been named
   🔗 https://www.livemint.com/companies/people/pawan-kumar-chandana-skyroot-aerospace-time100-next-2026-who-is-he-all-about-the-elon-musk-of-india-isro-11790956114241.html
@@ -16,9 +60,13 @@
   Reliance will invest  ₹1 lakh crore in Andhra Pradesh to set up CB
   🔗 https://www.livemint.com/companies/reliances-andhra-pradesh-massive-cbg-push-could-create-3-lakh-jobs-and-60-000-crore-in-state-revenue-11790950600765.html
 
-- David Ellison reveals new name for Paramount-Warner Bros. Discovery company: Skydance
-  The announcement comes less than two weeks after Paramount settled an antitrust lawsuit with a group of state attorneys general that sought to
-  🔗 https://www.livemint.com/companies/david-ellison-reveals-new-name-for-paramount-warner-bros-discovery-company-skydance-11790946632501.html
+- US yields rise, reversing initial reaction to weak jobs report
+  U.S. yields rise,
+  🔗 https://www.livemint.com/market/us-yields-rise-reversing-initial-reaction-to-weak-jobs-report-11790969678755.html
+
+- Nasdaq climbs to record after softer jobs data cools rate-hike expectations
+  Nasdaq climbs to record after softer jobs data
+  🔗 https://www.livemint.com/market/nasdaq-climbs-to-record-after-softer-jobs-data-cools-rate-hike-expectations-11790966315922.html
 
 - Sumeet Bagadia's top 3 stocks to buy: HDFC Life, Cummins India, CG Power | Target, stoploss, Nifty, Bank Nifty outlook
    Historically, in 2008, Nifty declined for seven consecutive weeks before witnessing a five
@@ -31,14 +79,6 @@
 - Vaishali Parekh's top 3 stocks to buy: CG Power, Graphite India, Bectors Food | Target, stop-loss, market outlook
    Vaishali Parekh believes the Nifty 50 index would have the crucial support near the 22200 zone.
   🔗 https://www.livemint.com/market/stock-market-news/vaishali-parekhs-top-3-stocks-to-buy-cg-power-graphite-india-bectors-food-target-stop-loss-market-outlook-11790945576103.html
-
-- With Anup Bagchi as CEO, a deep-dive into how bank stocks fared after top boss changes - Yes, RBL, IndusInd, HDFC Bank
-  Anup Bagchi's appointment as HDFC Bank's CEO signals a crucial leadership change. Here
-  🔗 https://www.livemint.com/market/stock-market-news/as-hdfc-bank-names-anup-bagchi-as-ceo-heres-how-bank-stocks-fared-after-past-ceo-changes-yes-bank-rbl-to-indusind-11790942528070.html
-
-- Experts' view: Why would bears cheer Nifty's breakdown below 22,000?
-  The Nifty 50 index may break below 22,000 because this is the first time there is no GoI commentary
-  🔗 https://www.livemint.com/market/stock-market-news/experts-view-why-would-bears-cheer-niftys-breakdown-below-22000-11790938909647.html
 
 - Nothing Phone (4a), Phone (4a) Pro, Phone (4b) get Flipkart Big Billion Days offers: Prices, bank discounts and more
   The Phone (4a) will get its best-ever offer, while the Phone ( 4b) will be available at its lowest-ever effective price of  ₹27,999. Nothing
@@ -60,6 +100,34 @@
   California AG Bonta issues
   🔗 https://www.livemint.com/technology/california-ag-bonta-issues-subpoena-to-openai-over-ai-cybersecurity-risks-11790880178823.html
 
+- Stocks rise after soft jobs data; Nasdaq hits record led by Nvidia: Live updates - CNBC
+  The Nasdaq hit a record high on Friday. The Nas
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw?oc=5
+
+- Stock market today: Dow, S&P 500, Nasdaq rally as Fed rate-hike expectations fade, tech gains - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq rally as
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTW4zeUoxak9vX3NlMFVEZWE1U2ZxZFE4VUFRX1FTRWI2T004aUZWZWw2b0FnZlJUTnZ1UEtpeVNfczhIaS1FcElOUVJxb2tRSWFyd3Y0U0xJMjgzMW1YUlplQ09nemhSaHhPMy1WdDVnZFpZbkMycEpYN1hYLXNybkxfR1pIRU85VENnSlRnNllSQ3pUX090d2lkR3gxcVAxdk81ZGRHT05LSk9CRUJBbE9WRTJHcW91UDVySWZyMkRvMG9VaFZxbA?oc=5
+
+- US job growth undershoots expectations in September, but labor market remains stable - Reuters
+  US job growth undershoots expectations in September,
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5
+
+- Men are losing ground in the labor market. Here's why - CNBC
+  Men are losing ground in the labor market
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWTZjU3cweHlhVGFFWmZ1dmtTdVhZRW9BVVR6ZjFLTE8wbFpaaEhZbWN0TUVMa2paWUs0bHFZNnBuQWRzUWRZbjlEbnQ0SjhIN2tNdW0taGsyRW1LM19sNGJJMF95NklYbW9VRzBkbWZ3em_SAXhBVV95cUxPejU0NDBTWHlrR1dhMkhnbzduaHEtS3B2b1VYY1FVNmhNWTJtbnh2TmN3LTVfSDBxb1BENFJuenNzUUFrVHdhYjljVEh2eDZYN1Y1MzQxV0FYblFoVUotUW94cHhiZk5iaS14U05jOUhjR0s3LU9XWEk?oc=5
+
+- Stock Market Today: Dow Opens Higher, Yields Fall as Hiring Softens — Live Updates - WSJ
+  Stock Market Today: Dow Opens Higher, Yields
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOYklfWV9YNlgtMEEtRFBhOGZraFRydkdFNXM0ckxSTXR1dDdCbGVqSE1RWUVxYk1oRURPM2hfeHJqajZpcGMzdXhFY3RYTEFtX2ZfNkZfaEx6ZHM3YzUtQXBkOVBiMks1LTBYbFZtSGlvUmNvd1VXNWE0ZTYzYlRZekdjOXc?oc=5
+
+- Nasdaq rises 1%, Dow, S&amp;P close higher as weak jobs data tempers rate hike bets
+  Nonfarm payrolls rose by only 29,000, significantly below economists' forecasts of 90,000. The S&amp;P 500 real estate index and small-cap Russell 2000 gained approximately 1% due to reassessed Fed rate
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-rises-1-dow-sp-close-higher-as-weak-jobs-data-tempers-rate-hike-bets/articleshow/134646508.cms
+
+- Fed officials give hints on rate decision as markets cut October rate hike odds
+   markets sharply reduced hike odds, though persistent inflation and upcoming consumer price data could shape the Federal Reserve’s policy decision.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms
+
 - Why US stocks are rising: Nasdaq hits record after weaker jobs data cools rate-hike bets; Nike shares drop on forecast
   US stocks rose after disappointing jobs data emerged. Lower Treasury yields and declining oil prices contributed to the positive market sentiment. Notable gains were observed in semiconductor stocks, with Nvidia reaching an intraday record high.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-rising-nasdaq-hits-record-after-weaker-jobs-data-cools-rate-hike-bets-nike-shares-drop-on-forecast/articleshow/134642197.cms
@@ -72,15 +140,27 @@
   Last month, the US economy added only 29,000 jobs. The unemployment rate rose to 4.2%, indicating a slight deterioration in the labor market. Traders decreased expectations for another Federal Reserve interest rate hike.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bets-on-us-federal-reserve-rate-hike-in-october-fall-as-job-market-cools/articleshow/134640792.cms
 
-- Nike's struggles test investor confidence in CEO Hill's turnaround effort
-  Nike announced job cuts and projected further declines in sales and profit. Nike is also contending with performance issues in its markets, particularly in China.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nikes-struggles-test-investor-confidence-in-ceo-hills-turnaround-effort/articleshow/134641576.cms
+- Gyanesh Kumar: CJP, or Cockroach Janta Party, calls for protests against election chief - BBC
+  Gyanesh Kumar: CJP, or Cockroach
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lXy1PQk0wX29IUjkxVG1HR1BYZ0R1c1RPNEwzQzd1VndsWlhrb2JLR0FhYWg1RmpqX01FMTlzOGZ1RUF1X3JUTDJUbHRRMUtGSWlfQXQ0c3dHNGc?oc=5
 
-- Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq rises over 1% to hit record on softer jobs data; Europe to release diesel reserves
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-talks-brent-crude-oil-inflation-treasury-bond-yields-fed-rate-hike-earnings-forecast-jobs-nike-nvidia-amd-moderna-ai-chip-stock-price-news-2-october-2026/liveblog/134639271.cms
+- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
+  India news: Delhi protesters turn up heat on election chief
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
 
-- Can BorderPlus Is Turning India’s Talent Surplus Into A Global Workforce?
+- India’s Cockroach movement launches new protests over changes to voter roll - theguardian.com
+  India's Cockroach movement launches new protests over
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
+
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
+
+- India standardises names of 28 places in Ladakh - The Hindu
+  India standardises names of 28 places
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPV29NUlhOM2xhTXlMNW11MkZ5SnM3V2hGV1dPRUV2bW9ELXFmN0ZoaF9BUmJvTC1vZDliX2piRjl5ZFVIYnBrNkx3dWtkbExoQkZuWDg2WW00Q0E5Vk9IQ25lMkFYa0lBemZXem5NSWpBUmtqcEtYZ3B1dkhOU0loTnF1R0RyZ0VaeDhCWEN1bko0NERabGN1SjZkeWotSFlJZkV2VTRlX1pOY3QwR0t5WlNHSdIBugFBVV95cUxQNVgxT1BDdmoxaGx4Mm4wZnJlRDNvVHVxMXVxZlN3UXNDbkdma3h5RXlJQW9uRU9qdmYtck43RlZUWVEyRmtlVzJKaVJ1RTlHWml5eC1UajNoVkl2cUVkR25ubXdYT2hRNkdPa3Z4bU55d1NIaWJSZVlkRDE1TjdQUFljdTFaT0tJY0stdGQ5R3RfQVlqMldveC1FajJ3a0t6c3l4M0daQzBybndoUGdzVTNrRWRvLW5GR0E?oc=5
+
+- How BorderPlus Is Turning India’s Talent Surplus Into A Global Workforce
   A decade ago, the biggest demographic concern gripping the globe was population overgrowth. Cut to 2026, and the demographic worry&#8230; is population growth
   🔗 https://inc42.com/startups/can-borderplus-is-turning-indias-talent-surplus-into-a-global-workforce/
 
@@ -99,6 +179,46 @@
 - TakeMe2Space, SatLeo, EON Space Labs Launch Payloads Aboard SpaceX Falcon 9
   Indian spacetech startups TakeMe2Space, SatLeo Labs, and EON Space Labs sent AI computing and Earth observation technologies into orbit aboard SpaceX Falcon 9.
   🔗 https://inc42.com/buzz/takeme2space-satleo-eon-space-labs-launch-payloads-aboard-spacex-falcon-9/
+
+- Gyanesh Kumar: CJP, or Cockroach Janta Party, calls for protests against election chief - BBC
+  Gyanesh Kumar: CJP, or Cockroach
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lXy1PQk0wX29IUjkxVG1HR1BYZ0R1c1RPNEwzQzd1VndsWlhrb2JLR0FhYWg1RmpqX01FMTlzOGZ1RUF1X3JUTDJUbHRRMUtGSWlfQXQ0c3dHNGc?oc=5
+
+- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
+  India news: Delhi protesters turn up heat on election chief
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
+
+- India’s Cockroach movement launches new protests over changes to voter roll - theguardian.com
+  India's Cockroach movement launches new protests over
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
+
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
+
+- India standardises names of 28 places in Ladakh - The Hindu
+  India standardises names of 28 places
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPV29NUlhOM2xhTXlMNW11MkZ5SnM3V2hGV1dPRUV2bW9ELXFmN0ZoaF9BUmJvTC1vZDliX2piRjl5ZFVIYnBrNkx3dWtkbExoQkZuWDg2WW00Q0E5Vk9IQ25lMkFYa0lBemZXem5NSWpBUmtqcEtYZ3B1dkhOU0loTnF1R0RyZ0VaeDhCWEN1bko0NERabGN1SjZkeWotSFlJZkV2VTRlX1pOY3QwR0t5WlNHSdIBugFBVV95cUxQNVgxT1BDdmoxaGx4Mm4wZnJlRDNvVHVxMXVxZlN3UXNDbkdma3h5RXlJQW9uRU9qdmYtck43RlZUWVEyRmtlVzJKaVJ1RTlHWml5eC1UajNoVkl2cUVkR25ubXdYT2hRNkdPa3Z4bU55d1NIaWJSZVlkRDE1TjdQUFljdTFaT0tJY0stdGQ5R3RfQVlqMldveC1FajJ3a0t6c3l4M0daQzBybndoUGdzVTNrRWRvLW5GR0E?oc=5
+
+- Gyanesh Kumar: CJP, or Cockroach Janta Party, calls for protests against election chief - BBC
+  Gyanesh Kumar: CJP, or Cockroach
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lXy1PQk0wX29IUjkxVG1HR1BYZ0R1c1RPNEwzQzd1VndsWlhrb2JLR0FhYWg1RmpqX01FMTlzOGZ1RUF1X3JUTDJUbHRRMUtGSWlfQXQ0c3dHNGc?oc=5
+
+- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
+  India news: Delhi protesters turn up heat on election chief
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
+
+- India’s Cockroach movement launches new protests over changes to voter roll - theguardian.com
+  India's Cockroach movement launches new protests over
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
+
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
+
+- India standardises names of 28 places in Ladakh - The Hindu
+  India standardises names of 28 places
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPV29NUlhOM2xhTXlMNW11MkZ5SnM3V2hGV1dPRUV2bW9ELXFmN0ZoaF9BUmJvTC1vZDliX2piRjl5ZFVIYnBrNkx3dWtkbExoQkZuWDg2WW00Q0E5Vk9IQ25lMkFYa0lBemZXem5NSWpBUmtqcEtYZ3B1dkhOU0loTnF1R0RyZ0VaeDhCWEN1bko0NERabGN1SjZkeWotSFlJZkV2VTRlX1pOY3QwR0t5WlNHSdIBugFBVV95cUxQNVgxT1BDdmoxaGx4Mm4wZnJlRDNvVHVxMXVxZlN3UXNDbkdma3h5RXlJQW9uRU9qdmYtck43RlZUWVEyRmtlVzJKaVJ1RTlHWml5eC1UajNoVkl2cUVkR25ubXdYT2hRNkdPa3Z4bU55d1NIaWJSZVlkRDE1TjdQUFljdTFaT0tJY0stdGQ5R3RfQVlqMldveC1FajJ3a0t6c3l4M0daQzBybndoUGdzVTNrRWRvLW5GR0E?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -120,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- NATO releases Quantum Technology roadmap - North Atlantic Treaty Organization | NATO
-  NATO releases Quantum Technology roadmap.
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUlmX2hnUUlsdl9mR2N0Y0JZMGFWV2szQ3A4UGpudXJVU0JXTTdLb05tU1NFVHNDY1lqUTlxaHlKdkV3b2w4OTZ4a2dyeVFSbExtVndDVGNOSjhGNk5xVDNOSDdOUVhmcGZkWVg0aEg4SFNWM1MyOG1wTEg4ZWpGSmFZbUl2anpOX29tQm9OMGFqWkFyOU1FekpVbjJudHE5X05XaHBmTHM?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Don’t be fooled—LLMs don’t reason - MIT Technology Review
-  Don't be fooled—
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMdIBkgFBVV95cUxOcmZ3aHQyTV9vS2Vld2t6UkkzdS16UkZGWGJvZkEzdVZQRFdtS29RVnEtVFNueFo0cHpVM19MQUltUWdoWFRWWEh0RlpFLVFqb3kxb0ZBUkVYcU5aa0dVZlMxNUdFb0lVRlJWSDhoWnozWHFvaTZTNXY4d3F0UHpfbUowaVdpSFFDbm0xc3JCYkRTdw?oc=5
-
-- Comcast's NBCUniversal cuts streaming technology jobs - Reuters
-  Comcast's NBC
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXBTS3lLLXduM0Q5MV9lTVlZOFBuRnJtMHdnY29hTzVic0F3WnBJbldBUEdwSjU1WGZtNVdFcTh5eHJDeFBVVm5sRUFSeHJZbk9HTGR3bllGREc3V1ZwUENCSEh0cEhveENMTEE0UTM3RG40QlhkZF9razhLRDFfMmJqRzBHX0dwWUZBSEw4WkxxNXpwR0w5Mnl2d041cDJqaW8yb0hra3E?oc=5
-
-- China’s Push Into A.I. Has Led to a Problem: Too Much Usage - The New York Times
-  China’s Push Into A.I. Has Led to
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE9WUVhoQVNBcExzYkF5TlZFMDNiMml6U2FsTkVsUm1wRV9WVGFwaGh1SWZjX2N0VW5aWW9kYVFIbGFLZ0lUZmVFSFp6bFEyWl9HdEUtMS1GYjF2bG10LVFJSXY4VERlNm0zZVg4eXkzcmQxUm5UY0E?oc=5
-
-- Nitin Gadkari-led ministry backs IIT technology of using waste plastic in bitumen for national highways; - The Times of India
-  The Gadled ministry backs IIT's technology of using waste plastic in bitumen
-  🔗 https://news.google.com/rss/articles/CBMiiwNBVV95cUxNT2lsRFNEdGxhQ2lNR3RvQ1lpNEx1Q3FuRXVGR2t1T2lFYU9TVS1UNk9ueGI0ajZIT2RPWjhkYlZWNVBYY19naHA0a05XTlhncVBudFVRZjR0ZlBLOEM3Y0ZVOUFCa2FQUDY2aHFzaHdmQUhNRmVadllsUXNvY01KLWh5bmVBakwxWmp0bVRxemt4UXdFN0F1TkNGazcyT0U3MVg4b2FNa29uWno1cVpCZ1JrY19DcXVKMWVaX1pZLWhoU2JETjM5Z2FLWnJRNlJ3cUFyVW01QzJqTkNwNXJTRXhQeDd5cDdJZ0pXaDJOcFZXWlBOWi1OQkMtTi12eUk5V0dpVkRuVmZOM3hIOFZKRUN3NW92eUYwS25tQmJqbVpzRHEzaHB5OGNObG82cGE1aFJDRFF1bjJ5Rk9ZSWxNVnVrYjNFc1JyM1I5TFdPS2hjbDZWUnJkeUtHOUUzU1pKUmRUenNHM3FxdnNRLUNoczFiTHRFdWdhdUZyN0RHVEN1dFJjaWt6clBjc9IBkANBVV95cUxNUFpBaGdUX0MxX0NpOHhTNmVBX21CQ3VQWGJ3WExhN1NWM1hoTW51bnlfdjF3VHRGOUM0cXhIX3RjRkFLcm01NnBwTUZiZC13eFN3T1JVd0FYc2dGemRKNHR3UnJxSi0zdmU3S2FTbERmVzhsTzg1T3JaSmY4cWZ0WG9wOXdpb1lhR3FfSlVNM3VfQUdTazkzenRfX2FuUVlFbnNiNkJsZVh1S0R4bktMRUdRQzhPWno2X1BnUDhfM0Y1S3pZMWVRZkVyRjRIYkNiTFZQeUtLa2dHYVBISmlRM2NMOTFMckUwZUh6bXlYTF9ONVlZUXc1VUhFOC1ielpmTk1UUV9CbkhOQ0JRaVNwM3dOSzB5MHZqUVhuMm9tRjRucnFTeWx4em52T2ZLZko3R0Y5LVBNeTVXVUUteGpKQUMzYlZHemEzNUdvOXZ5aC0wa085Z21xeHVEMXFiZk9hbWFOZmY3bnQzWkZENzBXbmxGbHpURldaTlNlZ0RSb2JlZWJJbDBFbm1YWEQwVEEw?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-02 17:19:20 UTC_
+_Last updated: 2026-10-02 21:47:07 UTC_
