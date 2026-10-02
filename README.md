@@ -1,5 +1,25 @@
 # 📰 Daily News Summaries
 
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
+
+- India at Asian Games: Live updates from Day 13 action on October 2, 2026 in Aichi-Nagoya - espn.in
+  India will compete in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaDltODFzNVdLbGs3SG5QeDZfWGpHZ2gyTmhwTXBZWGVRZmpUVmtsQzRUbC1CUEZ3ajBMcHI1MnVVSFBScXhpczcxMjBnQkIzLWVkN19FSm5mZGQwalZ3bnVhcTlGV1VraDAwVmcxOE1KNEhHOWJ2OWh6QmhNbEJaWVFlcnBnMGFFbGZmOHRMYjd6U2lkZW1xOU1wTHpxUFF2aTNsRFRGRWtsSkFRR2RYdWoyWE5nY3lMUXd5VldGMWdjWFpRM1p5YjZHR1plbV9kTnBlOFEycnNsdHpVX1YzM0UtSVhwZw?oc=5
+
+- Asian Games 2026 Day 13 Live Updates: 15 golds! Ankush Panghal, Sujeet Kalkal clinch gold in boxing and wrestling; add to India's haul of 75 medals; IND 1-0 ahead in hockey final - The Times of India
+  Asian Games 2026 Day 13 Live Updates: 15 golds! Ankush Panghal, Sujeet Kalkal clinch gold in boxing and wrestling; add
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZUtmd0ZFLTllTW5Zc2JlbjVyamNLemdoVVBjU194SEUyZ2RQeFJaZGlNWXpCS3VxZXM3d0Q3TXZIUVlRcG9TZ0ExNGdIdmNYQ3JxRlFyZHdaQUx6R0tuX3Z5cG11UUFVblJOaHo0ZUR6QlJNcm5UenNWdjlaUU1Sc1UwSDZ2SFZ3UFYxY095bDM2WGIwRjU0MXdxeHFkeWtBT01PR2pCdWo0b0taQk5iUlJKbWM1a0hDc0Q1NmhaRTFMMTlqRDR2LWtZOUFQMGdfa3V0amdnZERDbDUwYTlGbEhSdHRFTHRpeVZrSFV4OWxHdHdsdkE3eC1R?oc=5
+
+- India's Asian Games 2026 schedule today, October 2: Gold and LA 2028 quotas on offer in hockey, archery - olympics.com
+  India's Asian Games 2026 schedule today, October 2: Gold and LA 20
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNYm55WE5sT2FXd1lLNHJBM0FoeUtfUlNQRXJTSWVGZ1Jicl9BYU1XRVpycjA5VG5XLXZ5cFJpVlRJSjhIYUhRQ2IzYURxeHFBV2xDWnk4bXZhX1YtdGhGQUR2TFhQWFBtdjNEOHFXLWc1MTZabG5zdTB3Yld6RWRRUTRrdWxmS3FyYmtBRmlkVnM?oc=5
+
+- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
+  India news: Delhi protesters turn up heat on election chief
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
+
 - NATO releases Quantum Technology roadmap - North Atlantic Treaty Organization | NATO
   NATO releases Quantum Technology roadmap.
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUlmX2hnUUlsdl9mR2N0Y0JZMGFWV2szQ3A4UGpudXJVU0JXTTdLb05tU1NFVHNDY1lqUTlxaHlKdkV3b2w4OTZ4a2dyeVFSbExtVndDVGNOSjhGNk5xVDNOSDdOUVhmcGZkWVg0aEg4SFNWM1MyOG1wTEg4ZWpGSmFZbUl2anpOX29tQm9OMGFqWkFyOU1FekpVbjJudHE5X05XaHBmTHM?oc=5
@@ -8,97 +28,109 @@
   Khanna to introduce AI safety bill with ban on 'rec
   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE12MUwtTy11dnBwd0xxdHROaXlFdmV3MWJaR1dRUGt6cHBCMjhneHhxZEpkTTdQdWRDWUFHY2RXc05HLW4zSDRSUmxGVE9vRWdRQldrb3JNbnFGRXlHeVdxdjdKZjFXR3gtU1HSAW9BVV95cUxQN01MRktKY1YwRVFEYllRUWxONTBfSkNTUEhHLUVXS2kzWjgySEVYS0M3Sk8tNDN2TmQ5WjA2d2lWTWVBTHoyVGJmSjlEZ1dKTkFuMWZ6WldSSFRUbkdqQmVwa0ZiOHFqN3NhczN3WXM?oc=5
 
-- Tshwane University of Technology Oval, Pretoria details, matches, stats - Cricbuzz
-  Tshwane University of Technology
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQbjUyUmtIQVplWk4wMnFOeEpyQmJ5R2g1N1FzOU1Ha2Qxb212YnRMc0ViSWJrZFQxUWIwTC1RanFHbG5ESTl1MHg2TWU1Slh2eWNKSWpWR3NKTEZPYTdyUktNd2pfUHpZZ2R2em1FVUc0SC1oTy1sYzRHdnNtazdROVRCeTNDTWlSOWgzdS1ZYmhHTlo4M2NkOEVkRWlza0x6bi12WGRkaDVxem5OcWJidjBkc2NNQWUwRlcwNzAtZ2tSWTJVWWc?oc=5
-
 - An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan - MIT Technology Review
   An AI “mind-reading” tool can reconstruct what you
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWRLcnc5eWdkYi04UjJQRDhHTmZoQkZaZzFROHBZQkFZeTdsa0RBVEx6TVRRWTlXUjdRREdScHdlNlEwT0lLNGJqNEVVYzdOajduVjE4OHBFeWdwTmlWN2xqUWVnT1pObUlKMHNITVlsaTdHOHJ3clV6Ynp3bXQzTENKcUZhZXdLUkY2M1JubF9xLWJKRjBqNk1lVEJUNHBTN0FWN29R0gGrAUFVX3lxTE1vNldkVFl6MjNUR2dCWW9EMDYzcDJCaVdIbmJYQnNCM2drall5d25mYzJodDZzdXhfNzhOSkFqcVMya0dVWHFZRFpmNGVPRXVObWxvNG5Oc1pMakhWQzBYZmx2MjdqMnBaTkpCcDFiVUhudjRrWWJub2FuT1EyS2kyN2V0bjlaOHg5SGg5SUc2UGItYWs4cjNuSzh4VkZUU1dLcXg1R0V1UTg0QQ?oc=5
+
+- Tshwane University of Technology Oval, Pretoria details, matches, stats - Cricbuzz
+  Tshwane University of Technology
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQbjUyUmtIQVplWk4wMnFOeEpyQmJ5R2g1N1FzOU1Ha2Qxb212YnRMc0ViSWJrZFQxUWIwTC1RanFHbG5ESTl1MHg2TWU1Slh2eWNKSWpWR3NKTEZPYTdyUktNd2pfUHpZZ2R2em1FVUc0SC1oTy1sYzRHdnNtazdROVRCeTNDTWlSOWgzdS1ZYmhHTlo4M2NkOEVkRWlza0x6bi12WGRkaDVxem5OcWJidjBkc2NNQWUwRlcwNzAtZ2tSWTJVWWc?oc=5
 
 - Nitin Gadkari-led ministry backs IIT technology of using waste plastic in bitumen for national highways; - The Times of India
   The Gadled ministry backs IIT's technology of using waste plastic in bitumen
   🔗 https://news.google.com/rss/articles/CBMiiwNBVV95cUxNT2lsRFNEdGxhQ2lNR3RvQ1lpNEx1Q3FuRXVGR2t1T2lFYU9TVS1UNk9ueGI0ajZIT2RPWjhkYlZWNVBYY19naHA0a05XTlhncVBudFVRZjR0ZlBLOEM3Y0ZVOUFCa2FQUDY2aHFzaHdmQUhNRmVadllsUXNvY01KLWh5bmVBakwxWmp0bVRxemt4UXdFN0F1TkNGazcyT0U3MVg4b2FNa29uWno1cVpCZ1JrY19DcXVKMWVaX1pZLWhoU2JETjM5Z2FLWnJRNlJ3cUFyVW01QzJqTkNwNXJTRXhQeDd5cDdJZ0pXaDJOcFZXWlBOWi1OQkMtTi12eUk5V0dpVkRuVmZOM3hIOFZKRUN3NW92eUYwS25tQmJqbVpzRHEzaHB5OGNObG82cGE1aFJDRFF1bjJ5Rk9ZSWxNVnVrYjNFc1JyM1I5TFdPS2hjbDZWUnJkeUtHOUUzU1pKUmRUenNHM3FxdnNRLUNoczFiTHRFdWdhdUZyN0RHVEN1dFJjaWt6clBjc9IBkANBVV95cUxNUFpBaGdUX0MxX0NpOHhTNmVBX21CQ3VQWGJ3WExhN1NWM1hoTW51bnlfdjF3VHRGOUM0cXhIX3RjRkFLcm01NnBwTUZiZC13eFN3T1JVd0FYc2dGemRKNHR3UnJxSi0zdmU3S2FTbERmVzhsTzg1T3JaSmY4cWZ0WG9wOXdpb1lhR3FfSlVNM3VfQUdTazkzenRfX2FuUVlFbnNiNkJsZVh1S0R4bktMRUdRQzhPWno2X1BnUDhfM0Y1S3pZMWVRZkVyRjRIYkNiTFZQeUtLa2dHYVBISmlRM2NMOTFMckUwZUh6bXlYTF9ONVlZUXc1VUhFOC1ielpmTk1UUV9CbkhOQ0JRaVNwM3dOSzB5MHZqUVhuMm9tRjRucnFTeWx4em52T2ZLZko3R0Y5LVBNeTVXVUUteGpKQUMzYlZHemEzNUdvOXZ5aC0wa085Z21xeHVEMXFiZk9hbWFOZmY3bnQzWkZENzBXbmxGbHpURldaTlNlZ0RSb2JlZWJJbDBFbm1YWEQwVEEw?oc=5
 
-- Delta CEO chooses Amazon’s Project Leo over Starlink, Elon Musk warns Ed Bastian ‘will lose his job’
-  Delta Chief Executive Officer Ed Bastian is in SpaceX CEO Elon Musk’s sights for choosing Amazon.com
-  🔗 https://www.livemint.com/companies/news/delta-ceo-chooses-amazon-s-project-leo-over-starlink-elon-musk-warns-ed-bastian-will-lose-his-job-11790910585258.html
+- IPO GMP compared: Vishal Nirmiti vs Nityas Gems and Jewellery - Key dates, subscription status, listing price prediction
+  Vishal Nirmiti IPO is 57% subscribed, while Nityas Gems has a higher subscription of 69%. Both IPOs opened on 30 September and close on 5 October. Vishal's IPO GMP is
+  🔗 https://www.livemint.com/market/ipo/ipo-gmp-compared-vishal-nirmiti-vs-nityas-gems-and-jewellery-key-dates-subscription-status-listing-price-prediction-11790936475450.html
 
-- NBCUniversal cuts hundreds of streaming tech jobs: What’s behind Comcast’s latest layoffs?
-  Most of the cuts are at Sky, Comcast's European media arm. A person briefed on the change said some US-based workers at NBCU will
-  🔗 https://www.livemint.com/companies/news/nbcuniversal-cuts-hundreds-of-streaming-tech-jobs-what-s-behind-comcast-s-latest-layoffs-11790906291604.html
+- Vedanta firms dividend comparison: Which firm is real king? Vedanta Iron, Vedanta Oil &amp; Gas, or Vedanta Aluminium?
+  Vedanta Limited's dividend history includes 49 payouts since 2001. Post-demerger
+  🔗 https://www.livemint.com/market/stock-market-news/vedanta-firms-dividend-comparison-which-firm-is-real-king-vedanta-iron-vedanta-oil-gas-or-vedanta-aluminium-11790935606361.html
 
-- Boeing averts strike as engineers ratify deal: 32% pay hike over 4 years, 10% immediate raise | What the contract offers
-  Boeing's white-collar workers ratified a new contract, avoiding a labor disruption and aiding the certification of delayed aircraft. The Society of Professional Engineering Employees in Aerospace reported a 67
-  🔗 https://www.livemint.com/companies/news/boeing-averts-strike-as-engineers-ratify-deal-32-pay-hike-over-4-years-10-immediate-raise-what-the-contract-offers-11790904955036.html
+- IREDA share price falls from  ₹310 to  ₹111 | Govt decision on top management; what exchange filing said
+  Shares of Indian Renewable Energy Development Agency (IREDA) have been on a downtrend over the last two years. The stock has fallen
+  🔗 https://www.livemint.com/market/stock-market-news/ireda-share-price-falls-from-310-to-111-govt-decision-on-top-management-what-exchange-filing-said-11790935256296.html
 
-- Gurugram coffee startup crosses  ₹1 crore in first-month revenue, plans 100+ stores by 2027
-  Gurugram-based coffee startup, SORRY SUGAR, offers monk fruit
-  🔗 https://www.livemint.com/companies/start-ups/gurugram-coffee-startup-crosses-rs-1-crore-in-first-month-revenue-plans-100-stores-by-2027-11790876163198.html
+- Only 9% up since last MD but Jefferies sees 10% more in Kotak Mahindra Bank shares after Anup Saha's appointment
+  Kotak Mahindra Bank shares have rallied from 
+  🔗 https://www.livemint.com/market/stock-market-news/only-9-up-since-last-md-but-jefferies-sees-10-more-in-kotak-mahindra-bank-shares-after-anup-sahas-appointment-11790933668092.html
 
-- Growth, deposits and faster decisions await new CEO Anup Saha at Kotak Bank
-  Kotak Mahindra Bank has picked insider Anup Saha as its next chief executive officer. Saha
-  🔗 https://www.livemint.com/companies/news/growth-deposits-and-faster-decisions-await-new-ceo-anup-saha-at-kotak-bank-11790857092801.html
+- IPO News: 4 companies, including Carlsberg beer, get nod from SEBI —what is the issue size for each?
+  Four companies, including Carlsberg India's unit, have received regulatory observations from Sebi for their IPOs. This includes TMC Transformers, Ujin Pharma, and
+  🔗 https://www.livemint.com/market/ipo/ipo-news-4-companies-including-carlsberg-beer-get-nod-from-sebi-what-is-the-issue-size-for-each-11790932544984.html
 
-- HDFC Bank shares: Will stock finally reward its investors after Anup Bagchi as new MD-CEO?
-  HDFC Bank appoints Anup Bagchi as MD and CEO after RBI approval. He will succeed Sashidhar Jagdishan on October 27, 2026
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-will-stock-finally-reward-its-investors-after-anup-bagchi-as-new-mdceo-11790904893039.html
+- NATO releases Quantum Technology roadmap - North Atlantic Treaty Organization | NATO
+  NATO releases Quantum Technology roadmap.
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUlmX2hnUUlsdl9mR2N0Y0JZMGFWV2szQ3A4UGpudXJVU0JXTTdLb05tU1NFVHNDY1lqUTlxaHlKdkV3b2w4OTZ4a2dyeVFSbExtVndDVGNOSjhGNk5xVDNOSDdOUVhmcGZkWVg0aEg4SFNWM1MyOG1wTEg4ZWpGSmFZbUl2anpOX29tQm9OMGFqWkFyOU1FekpVbjJudHE5X05XaHBmTHM?oc=5
 
-- Stock market holiday: BSE, NSE closed today | Gandhi Jayanti, 2nd October 2026; how Sensex, Nifty fared on Thursday
-  Indian stock market will be closed on October 2 for Mahatma Gandhi Jayanti. Trading suspended in major segments including equity and derivatives. Upcoming holidays include
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-bse-nse-closed-today-gandhi-jayanti-2nd-october-2026-how-sensex-nifty-fared-on-thursday-11790875225418.html
+- Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist - CNBC
+  Khanna to introduce AI safety bill with ban on 'rec
+  🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE12MUwtTy11dnBwd0xxdHROaXlFdmV3MWJaR1dRUGt6cHBCMjhneHhxZEpkTTdQdWRDWUFHY2RXc05HLW4zSDRSUmxGVE9vRWdRQldrb3JNbnFGRXlHeVdxdjdKZjFXR3gtU1HSAW9BVV95cUxQN01MRktKY1YwRVFEYllRUWxONTBfSkNTUEhHLUVXS2kzWjgySEVYS0M3Sk8tNDN2TmQ5WjA2d2lWTWVBTHoyVGJmSjlEZ1dKTkFuMWZ6WldSSFRUbkdqQmVwa0ZiOHFqN3NhczN3WXM?oc=5
 
-- H1 digest: New capex proposals rise, but momentum plunges in September quarter
-  Headline project announcements jumped 33% in the first half of fiscal year 2027. A sharp decline
-  🔗 https://www.livemint.com/market/h1-digest-new-proposals-rise-in-the-first-half-but-momentum-plunges-in-the-september-quarter-11790847170840.html
+- An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan - MIT Technology Review
+  An AI “mind-reading” tool can reconstruct what you
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWRLcnc5eWdkYi04UjJQRDhHTmZoQkZaZzFROHBZQkFZeTdsa0RBVEx6TVRRWTlXUjdRREdScHdlNlEwT0lLNGJqNEVVYzdOajduVjE4OHBFeWdwTmlWN2xqUWVnT1pObUlKMHNITVlsaTdHOHJ3clV6Ynp3bXQzTENKcUZhZXdLUkY2M1JubF9xLWJKRjBqNk1lVEJUNHBTN0FWN29R0gGrAUFVX3lxTE1vNldkVFl6MjNUR2dCWW9EMDYzcDJCaVdIbmJYQnNCM2drall5d25mYzJodDZzdXhfNzhOSkFqcVMya0dVWHFZRFpmNGVPRXVObWxvNG5Oc1pMakhWQzBYZmx2MjdqMnBaTkpCcDFiVUhudjRrWWJub2FuT1EyS2kyN2V0bjlaOHg5SGg5SUc2UGItYWs4cjNuSzh4VkZUU1dLcXg1R0V1UTg0QQ?oc=5
 
-- Where could PB Fintech share price be in the next five years?
-   PB Fintech has crashed after Irdai released a consultation paper proposing changes to insurance distribution economics. Here, we examine the implications and where the stock could be
-  🔗 https://www.livemint.com/market/stock-market-news/where-could-pb-fintech-share-price-be-in-the-next-five-years-11790853370279.html
+- Tshwane University of Technology Oval, Pretoria details, matches, stats - Cricbuzz
+  Tshwane University of Technology
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQbjUyUmtIQVplWk4wMnFOeEpyQmJ5R2g1N1FzOU1Ha2Qxb212YnRMc0ViSWJrZFQxUWIwTC1RanFHbG5ESTl1MHg2TWU1Slh2eWNKSWpWR3NKTEZPYTdyUktNd2pfUHpZZ2R2em1FVUc0SC1oTy1sYzRHdnNtazdROVRCeTNDTWlSOWgzdS1ZYmhHTlo4M2NkOEVkRWlza0x6bi12WGRkaDVxem5OcWJidjBkc2NNQWUwRlcwNzAtZ2tSWTJVWWc?oc=5
 
-- Brokerages weigh new charges, mandates as UPI MDR set to take effect
-  NPCI has said UPI charges should not be passed on to consumers. Brokerages are looking for ways to protect their margins
-  🔗 https://www.livemint.com/market/brokerages-weigh-new-charges-mandates-as-upi-mdr-set-to-take-effect-11790841248280.html
+- Nitin Gadkari-led ministry backs IIT technology of using waste plastic in bitumen for national highways; - The Times of India
+  The Gadled ministry backs IIT's technology of using waste plastic in bitumen
+  🔗 https://news.google.com/rss/articles/CBMiiwNBVV95cUxNT2lsRFNEdGxhQ2lNR3RvQ1lpNEx1Q3FuRXVGR2t1T2lFYU9TVS1UNk9ueGI0ajZIT2RPWjhkYlZWNVBYY19naHA0a05XTlhncVBudFVRZjR0ZlBLOEM3Y0ZVOUFCa2FQUDY2aHFzaHdmQUhNRmVadllsUXNvY01KLWh5bmVBakwxWmp0bVRxemt4UXdFN0F1TkNGazcyT0U3MVg4b2FNa29uWno1cVpCZ1JrY19DcXVKMWVaX1pZLWhoU2JETjM5Z2FLWnJRNlJ3cUFyVW01QzJqTkNwNXJTRXhQeDd5cDdJZ0pXaDJOcFZXWlBOWi1OQkMtTi12eUk5V0dpVkRuVmZOM3hIOFZKRUN3NW92eUYwS25tQmJqbVpzRHEzaHB5OGNObG82cGE1aFJDRFF1bjJ5Rk9ZSWxNVnVrYjNFc1JyM1I5TFdPS2hjbDZWUnJkeUtHOUUzU1pKUmRUenNHM3FxdnNRLUNoczFiTHRFdWdhdUZyN0RHVEN1dFJjaWt6clBjc9IBkANBVV95cUxNUFpBaGdUX0MxX0NpOHhTNmVBX21CQ3VQWGJ3WExhN1NWM1hoTW51bnlfdjF3VHRGOUM0cXhIX3RjRkFLcm01NnBwTUZiZC13eFN3T1JVd0FYc2dGemRKNHR3UnJxSi0zdmU3S2FTbERmVzhsTzg1T3JaSmY4cWZ0WG9wOXdpb1lhR3FfSlVNM3VfQUdTazkzenRfX2FuUVlFbnNiNkJsZVh1S0R4bktMRUdRQzhPWno2X1BnUDhfM0Y1S3pZMWVRZkVyRjRIYkNiTFZQeUtLa2dHYVBISmlRM2NMOTFMckUwZUh6bXlYTF9ONVlZUXc1VUhFOC1ielpmTk1UUV9CbkhOQ0JRaVNwM3dOSzB5MHZqUVhuMm9tRjRucnFTeWx4em52T2ZLZko3R0Y5LVBNeTVXVUUteGpKQUMzYlZHemEzNUdvOXZ5aC0wa085Z21xeHVEMXFiZk9hbWFOZmY3bnQzWkZENzBXbmxGbHpURldaTlNlZ0RSb2JlZWJJbDBFbm1YWEQwVEEw?oc=5
 
-- Feds Cook sees AI inflationary push as a top 2027 risk
-  Fed's Cook sees AI inflation
-  🔗 https://www.livemint.com/technology/feds-cook-sees-ai-inflationary-push-as-a-top-2027-risk-11790887301700.html
+- S&P 500 closes higher to start October as Treasury yields retreat from multiyear highs: Live updates - CNBC
+  S&amp;P 500 closes higher to start October as Treasury yields
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE93ZklidXJsMkhSOG1wdXNvSzlyV0pLZmFBcnd2WWdmQXhFSmxVYzVkM1lkeHI0d3pyQmxIZFBwSXBjeFctMHNGMUh5ZTNZT2RDTjF4RmFIamxETFZHdWpNRlVnSGhWQkY2Z1M4alRPV29IMXlnamVj0gF8QVVfeXFMTU13b1AxdktDTlg5TjFGdE1HTGhmU1kzOXlZWGhLN1pMLVZuLTR4WTRFME55ell3VjhhZEh1Y0JoUE8zejFxZHlLaDIxY25LcFFrQnVPWDlEU0d6TmlRUWpXMnRuTzAxQ0dleFIyM3FrR1RhMlAzSDVFSzFTaQ?oc=5
 
-- California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks
-  California AG Bonta issues
-  🔗 https://www.livemint.com/technology/california-ag-bonta-issues-subpoena-to-openai-over-ai-cybersecurity-risks-11790880178823.html
+- Stock market today: Dow, S&P 500, Nasdaq stage comeback as Treasury yields fall, chip stocks gain - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq stage comeback as
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUW1SdnZIaGtFb1lNWHNpaXFsQ0gyUVhIZ3djcEV2YzlCVExrcFNhMG9ObXZQZDgxQk1ReVd6TGhaY2hUbmhLQ2xMSUx5S2lyYi15dXEtd2hkR2I0Yy1kdFVvQXZNeUl4cTlJZ1NkdzlHWkxhMXMwaVZEcE9DMVcwVnItcXRIOExzenBEeEFMc1NSa1NnUFk5T0xpWm9KaE45Ni1vMTVkdEk?oc=5
 
-- Temasek comfortable with current AI spending levels, executive says
-  Temasek comfortable with current AI
-  🔗 https://www.livemint.com/technology/temasek-comfortable-with-current-ai-spending-levels-executive-says-11790879676861.html
+- Putin says Russia won't supply diesel to global markets until sanctions are lifted - Reuters
+  Putin says Russia won't supply diesel to global markets until
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERSQ3BpdEdRdW9yS05wbDZGOVBaY1hNZ3RNclV0U0NzYlFlVkhiQUU0MXhXc2MzQjFNWFlaLUlYbHdtSTBnaHN2NGFNY2pxOUFJN3RQdjBCMHhMRkNZYTY4emE2ZXBDNm01Q2NwQWxvOHBwWE9iNW1acVMwZzFyY0dEUFVhMG84S3MyaUlUcC05bGRicmtaNExkbk45bWoxdTdvdnpBaTc5cW0tOVJuX2FfbWlUTlB0M2hVSm9KX2E3aWE2M2NpeHB3?oc=5
 
-- JioBharat 4G phone at  ₹1,499: How the 10th anniversary offer can bring effective price down to  ₹299
-  Under the anniversary offer, eligible JioBharat 4G phones can be purchased for  ₹1,499. Customers will also receive six months of complimentary recharge benefits
-  🔗 https://www.livemint.com/technology/jiobharat-4g-phone-at-rs-1-499-how-the-10th-anniversary-offer-can-bring-effective-price-down-to-rs-299-11790874916805.html
+- Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report - CoinDesk
+  . Bitcoin, gold and tech futures edge higher as markets
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDd0Z09tVDRtc2cxZU1rdEhmM1VzWGJqTThYZFpHMThzZEJTdE9TckJxeEc1OEZ2MWxubzlRRHE5aU13bURyR2FuNnppcllHZnRyM3hOTzFoSVMzRmFIZnJIOXRrQXBiTU9DQjZXNEdYdWlZVFdSZmNCXzNCZzF4d0pLNGUyd1A5SVl0cGRLMXF0U0lkX0dnZmxKVlZmU0NEUWxwT1JHT1pBaU9DT2VkSFNpcFJQRXlhdlNqaVJiTTRtd080MnBJ?oc=5
 
-- Samsung Galaxy Tab S12 series launched in India, sale starts on October 7: Check price and specs
-  Both tablets feature 120Hz AMOLED displays, MediaTek Dimensity 9500 chips, Galaxy AI features and an S Pen in the box. Samsung has launched the Galaxy
-  🔗 https://www.livemint.com/technology/samsung-galaxy-tab-s12-series-launched-in-india-sale-starts-on-october-7-check-price-and-specs-11790852080983.html
+- Markets In Red: Why Investors Should Manage Money Better, Not Just Trade More - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNSU9jR3lOcmUyTUtTbGdxY1BIOWpXdWs1Vzl5amVfeVgyRjUzb1pnUHU2ck11alBQSzhtZXF6bS0xWmhUREYwbDZOMUZyNUI2SWpVa2xEUzI1OXZqYUJZTlNtZk45X3dIdlRWZTRURkVmYXpOMWxaWG1BaXdETzNCLUUzN09xQ1Y1dzU3V2ExcnFXTzNYUXJZb1JkNGh6VFp1YVBMQU44UEtseC1ZQUNiU1MyT0p6a2RwYVgtMHdR0gHGAUFVX3lxTE1wQnJTMFptSVdwR3o3bkxHSjg1bmNxQnZJdnlBbmt3ZkduMkdBOVJkcWJKaDFCXzdsTUlSZVRpZ3BpX1dwTUlSVTl2d19wcGxVS0ktLTZZeDFrZ25US3NUbGQ1azgyTDlZNWJZdFk5aWJsU2dTYnpYN2l0ZXdrS3pzV08taVEyM2NsT19GYWVGT084dkFGS2NFR0U4QUJiSThRay1vLTlndlM4eFppQlktOWcyc2l5VDBIMTlWU1NmTUZzRHFUQQ?oc=5
 
-- US Treasury yield hits the Highest Since 2002 at 5.34%
-  The yield on the 10-year Treasury note has surged past its 2007 high. At the same time, 30-year US bonds have hit a 24-year peak this week.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/us-treasury-yield-hits-the-highest-since-2002-at-5-34/articleshow/134631069.cms
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- D-Street logs longest spell of week slump in 25 years
-  The Sensex and Nifty experienced prolonged declines, surpassing previous downturns witnessed during the Covid pandemic. Foreign investors continued to withdraw their investments amidst rising crude oil prices, negatively impacting the rupee's value. Analysts suggest
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/d-street-logs-longest-spell-of-week-slump-in-25-years/articleshow/134630946.cms
+- India at Asian Games: Live updates from Day 13 action on October 2, 2026 in Aichi-Nagoya - espn.in
+  India will compete in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaDltODFzNVdLbGs3SG5QeDZfWGpHZ2gyTmhwTXBZWGVRZmpUVmtsQzRUbC1CUEZ3ajBMcHI1MnVVSFBScXhpczcxMjBnQkIzLWVkN19FSm5mZGQwalZ3bnVhcTlGV1VraDAwVmcxOE1KNEhHOWJ2OWh6QmhNbEJaWVFlcnBnMGFFbGZmOHRMYjd6U2lkZW1xOU1wTHpxUFF2aTNsRFRGRWtsSkFRR2RYdWoyWE5nY3lMUXd5VldGMWdjWFpRM1p5YjZHR1plbV9kTnBlOFEycnNsdHpVX1YzM0UtSVhwZw?oc=5
 
-- Sri Lotus shares rally 29% in a month. Can luxury and redevelopment sustain the momentum?
-  Sri Lotus Developers &amp; Realty has seen a remarkable 29% increase in shares. This boost is attributed to the anticipation surrounding their luxury initiatives and redevelopment projects, which promise robust pre-sales and profit margins.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sri-lotus-shares-rally-29-in-a-month-can-luxury-and-redevelopment-sustain-the-momentum/articleshow/134630924.cms
+- Asian Games 2026 Day 13 Live Updates: 15 golds! Ankush Panghal, Sujeet Kalkal clinch gold in boxing and wrestling; add to India's haul of 75 medals; IND 1-0 ahead in hockey final - The Times of India
+  Asian Games 2026 Day 13 Live Updates: 15 golds! Ankush Panghal, Sujeet Kalkal clinch gold in boxing and wrestling; add
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZUtmd0ZFLTllTW5Zc2JlbjVyamNLemdoVVBjU194SEUyZ2RQeFJaZGlNWXpCS3VxZXM3d0Q3TXZIUVlRcG9TZ0ExNGdIdmNYQ3JxRlFyZHdaQUx6R0tuX3Z5cG11UUFVblJOaHo0ZUR6QlJNcm5UenNWdjlaUU1Sc1UwSDZ2SFZ3UFYxY095bDM2WGIwRjU0MXdxeHFkeWtBT01PR2pCdWo0b0taQk5iUlJKbWM1a0hDc0Q1NmhaRTFMMTlqRDR2LWtZOUFQMGdfa3V0amdnZERDbDUwYTlGbEhSdHRFTHRpeVZrSFV4OWxHdHdsdkE3eC1R?oc=5
 
-- FPIs pull record Rs 3 lakh crore from Indian equities in 9 months. More pain ahead?
-  Foreign portfolio investors have divested a staggering amount exceeding ₹3 lakh crore from Indian equities within the initial nine months of 2026. This marks a record outflow, largely driven by rising US bond yields and ongoing geopolitical
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-record-rs-3-lakh-crore-from-indian-equities-in-9-months-more-pain-ahead/articleshow/134630889.cms
+- India's Asian Games 2026 schedule today, October 2: Gold and LA 2028 quotas on offer in hockey, archery - olympics.com
+  India's Asian Games 2026 schedule today, October 2: Gold and LA 20
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNYm55WE5sT2FXd1lLNHJBM0FoeUtfUlNQRXJTSWVGZ1Jicl9BYU1XRVpycjA5VG5XLXZ5cFJpVlRJSjhIYUhRQ2IzYURxeHFBV2xDWnk4bXZhX1YtdGhGQUR2TFhQWFBtdjNEOHFXLWc1MTZabG5zdTB3Yld6RWRRUTRrdWxmS3FyYmtBRmlkVnM?oc=5
 
-- Vishakha Renewables files IPO papers, eyes Rs 1,250 crore
-  Vishakha Renewables, founded by Gautam Adani that specializes in solar components, has submitted its Draft Red Herring Prospectus. The firm aims to secure ₹1,250 crore through an initial public offering
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/vishakha-renewables-files-ipo-papers-eyes-rs-1250-crore/articleshow/134630791.cms
+- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
+  India news: Delhi protesters turn up heat on election chief
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
+
+- ideaForge Faces ₹109 Cr GST Demand, Penalty Over Alleged Tax Underpayment
+  Drone maker ideaForge Technology has received a GST demand and penalty order totalling ₹109.2 Cr over alleged tax underpayment.
+  🔗 https://inc42.com/buzz/ideaforge-faces-%e2%82%b9109-cr-gst-demand-penalty-over-alleged-tax-underpayment/
+
+- Inside ixigo’s Full-Stack Model: How Trains, Flights And Buses Are Funding Its Next Bets
+  Everything ixigo has done since it started off in 2007 can be called a stepping stone to get to where it is today.
+  🔗 https://inc42.com/features/inside-ixigos-full-stack-model-how-trains-flights-and-buses-are-funding-its-next-bets/
+
+- TakeMe2Space, SatLeo, EON Space Labs Launch Payloads Aboard SpaceX Falcon 9
+  Indian spacetech startups TakeMe2Space, SatLeo Labs, and EON Space Labs sent AI computing and Earth observation technologies into orbit aboard SpaceX Falcon 9.
+  🔗 https://inc42.com/buzz/takeme2space-satleo-eon-space-labs-launch-payloads-aboard-spacex-falcon-9/
 
 - Researchers Flag AI Overreach, Moneyview’s Bumper IPO & More
   OpenAI’s Codex possibly solved the Navier-Stokes equations in days. But mathematician Tristan Buckmaster&#8230; says it could have taken days.
@@ -108,37 +140,45 @@
   Fintech soonicorn Niyo’s parent, Finnew Solutions Pvt Ltd, slashed its consolidated net loss by 58.1% to ₹32.6
   🔗 https://inc42.com/buzz/niyo-fy26-revenue-zooms-80-yoy-to-%e2%82%b9158-cr-loss-narrows-58/
 
-- Seeds Fincap Raises ₹100 Cr To Scale Lending Tech Capabilities
-  Delhi NCR-based NBFC Seeds Fincap raised more than ₹100 Cr ($10.4 Mn) in a Series B funding round led by&#82
-  🔗 https://inc42.com/buzz/seeds-fincap-raises-%e2%82%b9100-cr-to-scale-lending-tech-capabilities/
+- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
+  Sonia Gandhi's Surprise Entry At INDIA Bl
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- Researchers Make AI Their Confidant, But Can’t Afford To Let Their Guard Down
-  Imagine spending a decade trying to solve one of mathematics’ hardest problems. You finally make progress only to see an error in the code.
-  🔗 https://inc42.com/features/researchers-make-ai-their-confidant-but-cant-afford-to-let-their-guard-down/
+- India at Asian Games: Live updates from Day 13 action on October 2, 2026 in Aichi-Nagoya - espn.in
+  India will compete in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaDltODFzNVdLbGs3SG5QeDZfWGpHZ2gyTmhwTXBZWGVRZmpUVmtsQzRUbC1CUEZ3ajBMcHI1MnVVSFBScXhpczcxMjBnQkIzLWVkN19FSm5mZGQwalZ3bnVhcTlGV1VraDAwVmcxOE1KNEhHOWJ2OWh6QmhNbEJaWVFlcnBnMGFFbGZmOHRMYjd6U2lkZW1xOU1wTHpxUFF2aTNsRFRGRWtsSkFRR2RYdWoyWE5nY3lMUXd5VldGMWdjWFpRM1p5YjZHR1plbV9kTnBlOFEycnNsdHpVX1YzM0UtSVhwZw?oc=5
 
-- Fresh Bus’ FY26  Revenue More Than Doubles To ₹63.5; Net Loss Widens 33%
-  Fresh Bus reported a 2.4X jump in its FY26 operating revenue to ₹63.5 Cr from&#8230;.
-  🔗 https://inc42.com/buzz/fresh-bus-fy26-revenue-more-than-doubles-to-%e2%82%b963-5-net-loss-widens-33/
+- Asian Games 2026 Day 13 Live Updates: 15 golds! Ankush Panghal, Sujeet Kalkal clinch gold in boxing and wrestling; add to India's haul of 75 medals; IND 1-0 ahead in hockey final - The Times of India
+  Asian Games 2026 Day 13 Live Updates: 15 golds! Ankush Panghal, Sujeet Kalkal clinch gold in boxing and wrestling; add
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZUtmd0ZFLTllTW5Zc2JlbjVyamNLemdoVVBjU194SEUyZ2RQeFJaZGlNWXpCS3VxZXM3d0Q3TXZIUVlRcG9TZ0ExNGdIdmNYQ3JxRlFyZHdaQUx6R0tuX3Z5cG11UUFVblJOaHo0ZUR6QlJNcm5UenNWdjlaUU1Sc1UwSDZ2SFZ3UFYxY095bDM2WGIwRjU0MXdxeHFkeWtBT01PR2pCdWo0b0taQk5iUlJKbWM1a0hDc0Q1NmhaRTFMMTlqRDR2LWtZOUFQMGdfa3V0amdnZERDbDUwYTlGbEhSdHRFTHRpeVZrSFV4OWxHdHdsdkE3eC1R?oc=5
+
+- India's Asian Games 2026 schedule today, October 2: Gold and LA 2028 quotas on offer in hockey, archery - olympics.com
+  India's Asian Games 2026 schedule today, October 2: Gold and LA 20
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNYm55WE5sT2FXd1lLNHJBM0FoeUtfUlNQRXJTSWVGZ1Jicl9BYU1XRVpycjA5VG5XLXZ5cFJpVlRJSjhIYUhRQ2IzYURxeHFBV2xDWnk4bXZhX1YtdGhGQUR2TFhQWFBtdjNEOHFXLWc1MTZabG5zdTB3Yld6RWRRUTRrdWxmS3FyYmtBRmlkVnM?oc=5
+
+- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
+  India news: Delhi protesters turn up heat on election chief
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
 
 - Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
   Sonia Gandhi's Surprise Entry At INDIA Bl
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- Asian Games 2026 live, October 2: Know India scores, updates and results from Day 13 - olympics.com
-  Asian Games 2026 live, October 2: Know India scores,
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1V1ejg5eFVXZ1dMMlRjUWRnNzFFTUNiaHR0dE9LWVk3QnV5T1ZCanZVbjFpRFlqSnQ5cmlEN3hnR01fLXpLbGtRMWo4MHYyRDdRMTVGdkE0V2lTRWRPcl9TRWxvR1Rtbm1wLXdhMFJfQXlCckxpRUpuSmlQc3VFdW1Nb3R6aG4ybmdLcmpZaWhTMEpXYTZzbg?oc=5
+- India at Asian Games: Live updates from Day 13 action on October 2, 2026 in Aichi-Nagoya - espn.in
+  India will compete in the 2026 Asian Games in Aichi-N
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaDltODFzNVdLbGs3SG5QeDZfWGpHZ2gyTmhwTXBZWGVRZmpUVmtsQzRUbC1CUEZ3ajBMcHI1MnVVSFBScXhpczcxMjBnQkIzLWVkN19FSm5mZGQwalZ3bnVhcTlGV1VraDAwVmcxOE1KNEhHOWJ2OWh6QmhNbEJaWVFlcnBnMGFFbGZmOHRMYjd6U2lkZW1xOU1wTHpxUFF2aTNsRFRGRWtsSkFRR2RYdWoyWE5nY3lMUXd5VldGMWdjWFpRM1p5YjZHR1plbV9kTnBlOFEycnNsdHpVX1YzM0UtSVhwZw?oc=5
 
-- Asian Games 2026 Day 13 Live Updates: Kumkum, Dhiraj face Japan in recurve mixed team semifinal; Priya, Rajat Ruhal lose in Round of 16 in Wrestling - The Times of India
-  Asian Games 2026 Day 13 Live Updates: Kumkum, Dhiraj face Japan in recurve mixed team semifinal.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZUtmd0ZFLTllTW5Zc2JlbjVyamNLemdoVVBjU194SEUyZ2RQeFJaZGlNWXpCS3VxZXM3d0Q3TXZIUVlRcG9TZ0ExNGdIdmNYQ3JxRlFyZHdaQUx6R0tuX3Z5cG11UUFVblJOaHo0ZUR6QlJNcm5UenNWdjlaUU1Sc1UwSDZ2SFZ3UFYxY095bDM2WGIwRjU0MXdxeHFkeWtBT01PR2pCdWo0b0taQk5iUlJKbWM1a0hDc0Q1NmhaRTFMMTlqRDR2LWtZOUFQMGdfa3V0amdnZERDbDUwYTlGbEhSdHRFTHRpeVZrSFV4OWxHdHdsdkE3eC1R0gH_AUFVX3lxTE40TUEweDJya0lzZjVDeXZtQWNmWVVQdkI0MFByeVJCU1o4YzlsRF9FQ1lybHRzOVloaTkzSjJKUzdfYldBZ1lLVUdhR2UxVFU5ZkxWYXB0UWt1cWdtbmp6RVZDa1FheS1SYXdCYWFGSVlBTFZzZ1ZNTzBUd0YwWUpza0lfSFZ4ZC1pS1JHR2NGanpXdkR1RjNsU3kzT2NtUFo5Wk9kalc5MEI1VWNldnFCakxTLUpkVG5iWUg3eVhuSjB4NmNaUExHblo3a0g1NGJLajlMaVZoamF4UTBVdE8yTTJLYXpsOU9teVZzaDAtdG95dnJUODRtUmtybktJOA?oc=5
+- Asian Games 2026 Day 13 Live Updates: 15 golds! Ankush Panghal, Sujeet Kalkal clinch gold in boxing and wrestling; add to India's haul of 75 medals; IND 1-0 ahead in hockey final - The Times of India
+  Asian Games 2026 Day 13 Live Updates: 15 golds! Ankush Panghal, Sujeet Kalkal clinch gold in boxing and wrestling; add
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZUtmd0ZFLTllTW5Zc2JlbjVyamNLemdoVVBjU194SEUyZ2RQeFJaZGlNWXpCS3VxZXM3d0Q3TXZIUVlRcG9TZ0ExNGdIdmNYQ3JxRlFyZHdaQUx6R0tuX3Z5cG11UUFVblJOaHo0ZUR6QlJNcm5UenNWdjlaUU1Sc1UwSDZ2SFZ3UFYxY095bDM2WGIwRjU0MXdxeHFkeWtBT01PR2pCdWo0b0taQk5iUlJKbWM1a0hDc0Q1NmhaRTFMMTlqRDR2LWtZOUFQMGdfa3V0amdnZERDbDUwYTlGbEhSdHRFTHRpeVZrSFV4OWxHdHdsdkE3eC1R?oc=5
 
-- Asian Games 2026 Live Updates Day 14: India wins first-ever gold in women's team recurve archery; Kumkum-Dhiraj reach mixed team final; Sujeet through to 65kg wrestling quarterfinals - Sportstar
-  India wins first-ever gold in women's team recurve archery. Kumkum-Dhiraj reach
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR0pjMkt5Zk4wTWlnWHZZc3dFOVd1Ty1BenVXRkpzS2tMakdmQnBQX2pkVDZyRVFZMUhPSnlma1hGY1h4WGUwWkZqazhZalNQZzQ0Q1NtaFh1MjYxSTIwVlpkNnl4cTZITENVRVZpYnA0ajZnTXM0S2xQalVUNWlGMUg0dnFNQjkzdGxwcUpiLTc5aXVoWFVNSm5BSG81ZU5DQkdfalVDYlZ0bzNNcVpISVNObWpJVmxVWW45STVuN3VIc0FxY1FGZU5WQmxJaUJfVE1EdUlySEg1S25LZEHSAeQBQVVfeXFMT1RlaXp1OTNsZmk2T09lS09XN0RqTnJuZVdkeEgxV3ppS0lKUkx1MEo2LUF0X09VTHlYczdHU1hqeFVUX25RSW5kRGpFRENMMTN3U2pOLXl2bHFZWTZLcHRDLWFhZDZmRFEzeXo1cW9UbW5ITlNUN01PTUNiT2RpbVMyYVVZNmU1Q3pwN0NCNGY0eTJxdGJRMVBvWlVXWXBzNjF3c2MtSUpHendkMHdwdjBKaFU3TmlhamZKY3VRR2UyV1JqM052Skpac1h2QkYtZDBsWFBQNW1KbUhwQ093OHRYMEhs?oc=5
+- India's Asian Games 2026 schedule today, October 2: Gold and LA 2028 quotas on offer in hockey, archery - olympics.com
+  India's Asian Games 2026 schedule today, October 2: Gold and LA 20
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNYm55WE5sT2FXd1lLNHJBM0FoeUtfUlNQRXJTSWVGZ1Jicl9BYU1XRVpycjA5VG5XLXZ5cFJpVlRJSjhIYUhRQ2IzYURxeHFBV2xDWnk4bXZhX1YtdGhGQUR2TFhQWFBtdjNEOHFXLWc1MTZabG5zdTB3Yld6RWRRUTRrdWxmS3FyYmtBRmlkVnM?oc=5
 
-- Prediction: India vs. West Indies 3rd ODI lineups and pitch report for Mullanpur clash — Who do you think will win? - Yahoo Sports
-  India take on West Indies in third ODI at Mullanpur. India have won the last two
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQMnFfSUE0cUhyMTMtRHZ4N3B2REV4LVZtTGtHSlVnQ1pCMnJTOHFaMTdXQ1YzZm9UVFlUR3JiLUZ0N1JuQV9WSlQyQ0ptVFNVRjFMWXEtbElBQ3VuQUxUQlFyNDVoMkNRSnV4N3ZFM3J2T3RidXhEUmc4V3J4V1F2VmtXQk5jUXc?oc=5
+- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
+  India news: Delhi protesters turn up heat on election chief
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-02 03:42:15 UTC_
+_Last updated: 2026-10-02 11:48:28 UTC_
