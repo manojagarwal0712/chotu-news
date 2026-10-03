@@ -1,64 +1,64 @@
 # 📰 Daily News Summaries
 
 - Gyanesh Kumar: CJP, or Cockroach Janta Party, calls for protests against election chief - BBC
-  Gyanesh Kumar: CJP, or Cockroach
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lXy1PQk0wX29IUjkxVG1HR1BYZ0R1c1RPNEwzQzd1VndsWlhrb2JLR0FhYWg1RmpqX01FMTlzOGZ1RUF1X3JUTDJUbHRRMUtGSWlfQXQ0c3dHNGc?oc=5" target="_bla
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lXy1PQk0wX29IUjkxVG1HR1BYZ0R1c1RPNEwzQzd1VndsWlhrb2JLR0FhYWg1RmpqX01FMTlzOGZ1RUF1X3JUTDJUbHRRMUtGSWlfQXQ0c3dHNGc?oc=5
-
-- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
-  India news: Delhi protesters turn up heat on election chief
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
-
-- India’s Cockroach movement launches new protests over changes to voter roll - theguardian.com
-  India's Cockroach movement launches new protests over
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
 
 - Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
   Sonia Gandhi's Surprise Entry At INDIA Bl
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- India standardises names of 28 places in Ladakh - The Hindu
-  India standardises names of 28 places
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPV29NUlhOM2xhTXlMNW11MkZ5SnM3V2hGV1dPRUV2bW9ELXFmN0ZoaF9BUmJvTC1vZDliX2piRjl5ZFVIYnBrNkx3dWtkbExoQkZuWDg2WW00Q0E5Vk9IQ25lMkFYa0lBemZXem5NSWpBUmtqcEtYZ3B1dkhOU0loTnF1R0RyZ0VaeDhCWEN1bko0NERabGN1SjZkeWotSFlJZkV2VTRlX1pOY3QwR0t5WlNHSdIBugFBVV95cUxQNVgxT1BDdmoxaGx4Mm4wZnJlRDNvVHVxMXVxZlN3UXNDbkdma3h5RXlJQW9uRU9qdmYtck43RlZUWVEyRmtlVzJKaVJ1RTlHWml5eC1UajNoVkl2cUVkR25ubXdYT2hRNkdPa3Z4bU55d1NIaWJSZVlkRDE1TjdQUFljdTFaT0tJY0stdGQ5R3RfQVlqMldveC1FajJ3a0t6c3l4M0daQzBybndoUGdzVTNrRWRvLW5GR0E?oc=5
+- India at Asian Games 2026, Day 13: Six golds, an LA 2028 quota and a comeback for the ages - as it happened - olympics.com
+  India won six golds on Day 13 of the Asian Games. The team is aiming to qualify for the
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1V1ejg5eFVXZ1dMMlRjUWRnNzFFTUNiaHR0dE9LWVk3QnV5T1ZCanZVbjFpRFlqSnQ5cmlEN3hnR01fLXpLbGtRMWo4MHYyRDdRMTVGdkE0V2lTRWRPcl9TRWxvR1Rtbm1wLXdhMFJfQXlCckxpRUpuSmlQc3VFdW1Nb3R6aG4ybmdLcmpZaWhTMEpXYTZzbg?oc=5
 
-- NATO releases Quantum Technology roadmap - North Atlantic Treaty Organization | NATO
-  NATO releases Quantum Technology roadmap.
+- Asian Games 2026 Day 14 Live Updates: 17-year-old Kumkum Mohod clinches historic recurve archery gold medal - The Times of India
+  17-year-old Kumkum Mohod clinches historic recurve ar
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbFE4Q0h1RGtGYnhMNkZvdjFSU0NoUTlCZTVUMFN0YmJQSkRnQ0s5QnFjX0dDVjVzM1M3QTh3N19jemRSR3h1Q1ZJWGZhcWZwSzJuQTdnSl9lVUkyeEctNXo5ZDNrUkJWeXgtRjk5Wk9NZTVsWVY5b1ZSamtPS0tqLU1nWDNER1ZVbS1hbW56QjRmUzA4aWJHUWNlRFFWZ1NwR3BybURlU1E1QWpEYjRYQXNPZWhjbTBVZC1ab28wWEY3dEhPYXlqejZPX2dLbXBaTGEzN2phczlMRF9CRGFPUzhqVUdGXzRoUHdZMzZXbE5zZU1EWFdDeFdR0gH_AUFVX3lxTE1KLUFodXp5ZHJCWms1ZjdCUDBubDBKSk9ad2k4LVJQX0lwaW94ZmxBc01TNjIxcHI0TWRMWWhDd0ppUTVPcnJwbHpIVFVqRTd2OWNfckxidU9FaTVvV1hGa0NncUNyN0ZaOHBRUTVNNVV1czNDNVNmTHF4LTRtdklWOTFqaUdDNFA5TzBya2JkbGhuRF9mYjJwTFU1Ti1oeWpvOU1ZdmlIRHdFel9DZ1ZjRkFRVDhZNFNkbDZQUmhUczZNVVdjc083TURRcnFRZWJEN1pyMjdtak50bVZfRzFnTWFsdDBSYVNYRldxNUlwMjRvUDlxdEZRYlEtSmhqMA?oc=5
+
+- Asian Games 2026 Live Updates Day 15: India's Kumkum wins historic gold in recurve individual archery; Deepak Punia reaches 97kg wrestling semifinals; Pranavi Urs sole leader in golf - Sportstar
+  Asian Games 2026 Live Updates Day 15: India's Kumkum wins historic gold in recurve individual archery. Deep
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQ0t5MXVxMjVfUkdvWGZVeXhEc0N5QlNnM0I4TGc1eFRGcEZYQ1JXS3hMbElNcXlRdzB6cXlQMTk0ZmdoTlhRMlRjMUd2V0dsZXNVaW4tT2dEeHZRdmdCNUtZdll2Z3o0TktZYUswd0hpTkRWZ0o3Uno3b1JRQlJRSXhiSm5MR05CaWpYTVFFbHJYOEVwWk9ZVm9HVGxtZmhJRkdkMWpmaWxsa0JySkxiMkhXRHJ4QnkycHdvZkZwbnJvX2xhQ19QbkFBMmd5R0RvcDhMdXF6c21wbDI5Qkx6dXhRSTBpQ29sQnpBSkxHMFBsRlc1cm01b3FJcjnSAYMCQVVfeXFMTTdZWGtSbkRzd3dGWF9MTzcwZXo5T2NlU0trNy1sVXppdEd0MURjRUREb2NtTlVpX0tZVkNobkpZUXg0UjJBbHMtdUJYSk5TcXA2c0tIcEtaWW9maHRON0NoTVRTbnozZ2pSTUlhLWpyY0hFRGhFMlhyRlFFRzY5LXhkTGRiZ3l3TUFMaE8wWUEtdTJwaUliOUc2bnAtdVV5bzVOSGFHYWNjNy1pYjRCWkNPNFI0VE1ESlBvdWxyZmQtUUFDTlVYOFRkeHpQaE8yaTlzWFdLMlVqWmNRYlFkVlByYWZmbDBQOGw3U2VpYjBlaXZlUlNMWWRJNmU4Y0IyYmxVaw?oc=5
+
+- NATO releases Quantum Technology roadmap - nato.int
+  NATO releases
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUlmX2hnUUlsdl9mR2N0Y0JZMGFWV2szQ3A4UGpudXJVU0JXTTdLb05tU1NFVHNDY1lqUTlxaHlKdkV3b2w4OTZ4a2dyeVFSbExtVndDVGNOSjhGNk5xVDNOSDdOUVhmcGZkWVg0aEg4SFNWM1MyOG1wTEg4ZWpGSmFZbUl2anpOX29tQm9OMGFqWkFyOU1FekpVbjJudHE5X05XaHBmTHM?oc=5
+
+- From BeiDou to AI: How technology helps keep holiday travel safe and efficient - news.cgtn.com
+  From BeiDou to AI: How technology helps keep holiday
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHhONENEcV94NHVEYkRYQl9yMlVEV3RqSnZ0dVNPTV8wTHVQa1ZxaFFLTUtHNEhRSktwQVFWbnVJLWpXWVF3SmNSN1BSdVpmck1Cd3ZXeGhTWW5VTHp2SE5NMzRoNGZ2Zi05ekFwRXp5X2dJQ2pJbFQwdTE1Z1cySzhMYVV1bVZ1dzJldTVwbHpLcGdadGk5aFRncGdwODZCMENhbTl5T1VtOTRDNDJmX3VRS2dLbm8?oc=5
 
 - Comcast's NBCUniversal cuts streaming technology jobs - Reuters
   Comcast's NBC
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXBTS3lLLXduM0Q5MV9lTVlZOFBuRnJtMHdnY29hTzVic0F3WnBJbldBUEdwSjU1WGZtNVdFcTh5eHJDeFBVVm5sRUFSeHJZbk9HTGR3bllGREc3V1ZwUENCSEh0cEhveENMTEE0UTM3RG40QlhkZF9razhLRDFfMmJqRzBHX0dwWUZBSEw4WkxxNXpwR0w5Mnl2d041cDJqaW8yb0hra3E?oc=5
 
+- NASA SmallSats Launch to Advance Science, Technology, Orbital Operations - NASA (.gov)
+  NASA SmallSats Launch to Advance Science
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZHFFdWVGQTl4bU50bUVzdzFoTWxtd0g2QVJwUVdrR2JlNFFVVHpHeWlSa2owVmhCRzc1ZkdDUFZab2RUX0c2NWVSamwwRWtINmJWT3Vid2tSTjNpM01MX1VyNEU0NmVMU1pqUUNMNllqQXRlTXNfSTZuZ19KRlUteGk4Zk4xdS1wM1ZFM3NPU09VTENpeWhsUXB6TGQyVjJfU1h3S2Y4ZmctRjAtTEhjbmpsY013NlNkdUtmTlZ2V3B0ZWc?oc=5
+
 - Don’t be fooled—LLMs don’t reason - MIT Technology Review
   Don't be fooled—
   🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMdIBkgFBVV95cUxOcmZ3aHQyTV9vS2Vld2t6UkkzdS16UkZGWGJvZkEzdVZQRFdtS29RVnEtVFNueFo0cHpVM19MQUltUWdoWFRWWEh0RlpFLVFqb3kxb0ZBUkVYcU5aa0dVZlMxNUdFb0lVRlJWSDhoWnozWHFvaTZTNXY4d3F0UHpfbUowaVdpSFFDbm0xc3JCYkRTdw?oc=5
 
-- Tshwane University of Technology Oval, Pretoria details, matches, stats - Cricbuzz
-  Tshwane University of Technology
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQbjUyUmtIQVplWk4wMnFOeEpyQmJ5R2g1N1FzOU1Ha2Qxb212YnRMc0ViSWJrZFQxUWIwTC1RanFHbG5ESTl1MHg2TWU1Slh2eWNKSWpWR3NKTEZPYTdyUktNd2pfUHpZZ2R2em1FVUc0SC1oTy1sYzRHdnNtazdROVRCeTNDTWlSOWgzdS1ZYmhHTlo4M2NkOEVkRWlza0x6bi12WGRkaDVxem5OcWJidjBkc2NNQWUwRlcwNzAtZ2tSWTJVWWc?oc=5
+- Nvidia wants AI chips to become fungible asset, but Wall Street isn’t convinced yet | Here's why
+  Nvidia aims to establish its AI chips as durable assets for long-term financing. Wall Street remains cautious, doubting their value over time. The company seeks to use GPUs as collateral
+  🔗 https://www.livemint.com/companies/news/nvidia-wants-ai-chips-to-become-fungible-asset-but-wall-street-isn-t-convinced-yet-heres-why-11790993905084.html
 
-- Why is Credo Technology stock surging today? - Investing.com India
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW14NjJyZ0U0MEx5Ykk2Z1RFNWYzb19ZTlc5MXFaNGxyejY0dUpjTFNkUURVR196Ri1FV1NCYTIyaTdIRWdJVmNjejRjTllpbHdjSjBpZzhDZ201eFd4Z1FjaDRRLXFFX2Z2aC1hOFdUS0N2OURfbnBlVHhXRi0tbHpaeWtIQUhzSWppeWJkTWl4RnNoanZSN2FSenJiY243ZURtVXA1aw?oc=5
+- Paramount-Warner Bros merger: David Ellison names combined company Skydance
+  Paramount Skydance CEO David Ellison says the combined company will retain Paramount and Warner Bros as distinct entertainment brands.
+  🔗 https://www.livemint.com/companies/people/paramountwarner-bros-merger-david-ellison-names-combined-company-skydance-11790994449359.html
 
-- Boeing 737 Max Glitch Found Not to Be Safety Issue by FAA
-  A software glitch affecting Boeing Co. 737 Max aircraft was determined not to pose a safety risk by a Federal Aviation Administration panel.
-  🔗 https://www.livemint.com/companies/boeing-737-max-glitch-found-not-to-be-safety-issue-by-faa-11790968332246.html
+- Jensen Huang's net worth crosses $200 billion, becomes world's 7th-richest person as Nvidia shares hit record
+  Jensen Huang's fortune increased by $3.4 billion, positioning him as the seventh-richest person globally. His company's shares reached an all-time high of $237.
+  🔗 https://www.livemint.com/companies/news/jensen-huangs-net-worth-crosses-200-billion-becomes-worlds-7th-richest-person-as-nvidia-shares-hit-record-11790990983761.html
 
-- Skyroot Aerospace CEO Pawan Kumar Chandana named in TIME100 Next 2026- Who is he? All about ‘Elon Musk of India’
-  Pawan Kumar Chandana, Skyroot Aerospace co-founder and CEO, has been named
-  🔗 https://www.livemint.com/companies/people/pawan-kumar-chandana-skyroot-aerospace-time100-next-2026-who-is-he-all-about-the-elon-musk-of-india-isro-11790956114241.html
+- Boeing 737 Max 10 certification gets boost as FAA says 'software glitch not a safety issue' | 4 key things to know
+  Boeing’s 737 Max 10 certification is bolstered by the FAA's finding that a
+  🔗 https://www.livemint.com/companies/news/boeing-737-max-10-certification-gets-boost-as-faa-says-software-glitch-not-a-safety-issue-4-key-things-to-know-11790988879982.html
 
-- From cars to mining trucks — BEML’s 60-ton electric mining truck marks India’s EV shift into heavy industry
-  The launch marks the company’s latest move to bring electric mobility technology to
-  🔗 https://www.livemint.com/companies/news/from-cars-to-mining-trucks-beml-s-60-ton-electric-mining-truck-marks-india-s-ev-shift-into-heavy-industry-11790952550374.html
-
-- Anthropic warns government views of its AI could affect business ahead of IPO
-  Anthropic has warned that government attitudes towards the company and its AI technology could hurt its business. The company is preparing for a potential IPO that could value it
-  🔗 https://www.livemint.com/companies/news/anthropic-warns-government-views-of-its-ai-could-affect-business-ahead-of-ipo-11790952178018.html
-
-- Reliance's Andhra Pradesh massive CBG push could create 3 lakh jobs and  ₹60,000 crore in state revenue
-  Reliance will invest  ₹1 lakh crore in Andhra Pradesh to set up CB
-  🔗 https://www.livemint.com/companies/reliances-andhra-pradesh-massive-cbg-push-could-create-3-lakh-jobs-and-60-000-crore-in-state-revenue-11790950600765.html
+- Yeast protein gains ground as brands seek alternatives to costly whey
+  The shift comes as whey protein, a key ingredient in conventional supplements, becomes more expensive. Industry executives said wheyprotein powder now costs more
+  🔗 https://www.livemint.com/companies/yeast-protein-gains-ground-brands-hul-hindustan-unilever-horlicks-costly-whey-11790830187324.html
 
 - US yields rise, reversing initial reaction to weak jobs report
   U.S. yields rise,
@@ -100,65 +100,25 @@
   California AG Bonta issues
   🔗 https://www.livemint.com/technology/california-ag-bonta-issues-subpoena-to-openai-over-ai-cybersecurity-risks-11790880178823.html
 
-- Stocks rise after soft jobs data; Nasdaq hits record led by Nvidia: Live updates - CNBC
-  The Nasdaq hit a record high on Friday. The Nas
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw?oc=5
+- AI earnings shield US stocks, but bond risks rise: Jefferies' Wood
+  Rising bond yields and geopolitical tensions are beginning to impact investor sentiment negatively. Analysts are concerned about the sustainability of the AI capex cycle and its expected returns. G7 government bonds are entering a structural bear market.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-earnings-shield-us-stocks-but-bond-risks-rise-jefferies-wood/articleshow/134650285.cms
 
-- Stock market today: Dow, S&P 500, Nasdaq rally as Fed rate-hike expectations fade, tech gains - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq rally as
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTW4zeUoxak9vX3NlMFVEZWE1U2ZxZFE4VUFRX1FTRWI2T004aUZWZWw2b0FnZlJUTnZ1UEtpeVNfczhIaS1FcElOUVJxb2tRSWFyd3Y0U0xJMjgzMW1YUlplQ09nemhSaHhPMy1WdDVnZFpZbkMycEpYN1hYLXNybkxfR1pIRU85VENnSlRnNllSQ3pUX090d2lkR3gxcVAxdk81ZGRHT05LSk9CRUJBbE9WRTJHcW91UDVySWZyMkRvMG9VaFZxbA?oc=5
+- Largecaps face investor apathy, mid and smallcaps fuel euphoria: Kotak Institutional Equities
+  Investor sentiment towards large-cap stocks is currently apathetic, despite improved valuations in the market. Small and mid-cap sectors attract retail investors due to their potential for quick returns. The ongoing West Asia conflict and declining stock prices
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/large-caps-face-investor-apathy-mid-and-small-caps-fuel-euphoria/articleshow/134650331.cms
 
-- US job growth undershoots expectations in September, but labor market remains stable - Reuters
-  US job growth undershoots expectations in September,
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmltMmFiSHRscEo3QjJKNWdUYW5QM3NIVVM5OEhtOFMzekduZlEyTHA3amZSM3VvVmF1V3hZeWtLdDJ5TVdIQ0gzaVl6WlhBZm9hUDFDQXZKTF9RN3ZEWHlFZGZpMENOQUpoRVM4RXpaOFJCa2tZa1ZibmRhTzVObHJOTG1zaFdobmhrSDl3VXNJRmhiRzF1NnE5a1VIMmdPV2dnUE13M1dIbXpNdVE?oc=5
+- Bajaj Finance set to mop up Rs 17,500 crore via QIP, warrants
+  Bajaj Finance intends to raise ₹17,500 crore through share sales and warrants to fuel its growth. This marks the first major fundraising effort since the previous capital raise in November 2023. The company's board approved plans
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-set-to-mop-up-rs-17500-crore-via-qip-warrants/articleshow/134650449.cms
 
-- Men are losing ground in the labor market. Here's why - CNBC
-  Men are losing ground in the labor market
-  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWTZjU3cweHlhVGFFWmZ1dmtTdVhZRW9BVVR6ZjFLTE8wbFpaaEhZbWN0TUVMa2paWUs0bHFZNnBuQWRzUWRZbjlEbnQ0SjhIN2tNdW0taGsyRW1LM19sNGJJMF95NklYbW9VRzBkbWZ3em_SAXhBVV95cUxPejU0NDBTWHlrR1dhMkhnbzduaHEtS3B2b1VYY1FVNmhNWTJtbnh2TmN3LTVfSDBxb1BENFJuenNzUUFrVHdhYjljVEh2eDZYN1Y1MzQxV0FYblFoVUotUW94cHhiZk5iaS14U05jOUhjR0s3LU9XWEk?oc=5
+- More than half of mid-to-large cap companies fail to deliver returns in 2026
+  More than half of India's mid-to-large tier companies have faced losses in 2026. Eight companies have experienced significant market cap erosion. Foreign portfolio investors have sold a substantial amount of Indian equities.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/more-than-half-of-mid-to-large-cap-companies-fail-to-deliver-returns-in-2026/articleshow/134650512.cms
 
-- Stock Market Today: Dow Opens Higher, Yields Fall as Hiring Softens — Live Updates - WSJ
-  Stock Market Today: Dow Opens Higher, Yields
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOYklfWV9YNlgtMEEtRFBhOGZraFRydkdFNXM0ckxSTXR1dDdCbGVqSE1RWUVxYk1oRURPM2hfeHJqajZpcGMzdXhFY3RYTEFtX2ZfNkZfaEx6ZHM3YzUtQXBkOVBiMks1LTBYbFZtSGlvUmNvd1VXNWE0ZTYzYlRZekdjOXc?oc=5
-
-- Nasdaq rises 1%, Dow, S&amp;P close higher as weak jobs data tempers rate hike bets
-  Nonfarm payrolls rose by only 29,000, significantly below economists' forecasts of 90,000. The S&amp;P 500 real estate index and small-cap Russell 2000 gained approximately 1% due to reassessed Fed rate
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-rises-1-dow-sp-close-higher-as-weak-jobs-data-tempers-rate-hike-bets/articleshow/134646508.cms
-
-- Fed officials give hints on rate decision as markets cut October rate hike odds
-   markets sharply reduced hike odds, though persistent inflation and upcoming consumer price data could shape the Federal Reserve’s policy decision.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms
-
-- Why US stocks are rising: Nasdaq hits record after weaker jobs data cools rate-hike bets; Nike shares drop on forecast
-  US stocks rose after disappointing jobs data emerged. Lower Treasury yields and declining oil prices contributed to the positive market sentiment. Notable gains were observed in semiconductor stocks, with Nvidia reaching an intraday record high.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-rising-nasdaq-hits-record-after-weaker-jobs-data-cools-rate-hike-bets-nike-shares-drop-on-forecast/articleshow/134642197.cms
-
-- Sleepless on Wall Street: All-night stock exchanges coming soon
-  The changes aim to cater to growing foreign investor interest and compete with crypto markets. However, concerns about market liquidity and increased risks during these hours are prevalent among institutional investors.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sleepless-on-wall-street-all-night-stock-exchanges-coming-soon/articleshow/134642205.cms
-
-- Bets on US Federal Reserve rate hike in October fall as job market cools
-  Last month, the US economy added only 29,000 jobs. The unemployment rate rose to 4.2%, indicating a slight deterioration in the labor market. Traders decreased expectations for another Federal Reserve interest rate hike.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bets-on-us-federal-reserve-rate-hike-in-october-fall-as-job-market-cools/articleshow/134640792.cms
-
-- Gyanesh Kumar: CJP, or Cockroach Janta Party, calls for protests against election chief - BBC
-  Gyanesh Kumar: CJP, or Cockroach
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lXy1PQk0wX29IUjkxVG1HR1BYZ0R1c1RPNEwzQzd1VndsWlhrb2JLR0FhYWg1RmpqX01FMTlzOGZ1RUF1X3JUTDJUbHRRMUtGSWlfQXQ0c3dHNGc?oc=5
-
-- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
-  India news: Delhi protesters turn up heat on election chief
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
-
-- India’s Cockroach movement launches new protests over changes to voter roll - theguardian.com
-  India's Cockroach movement launches new protests over
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
-
-- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
-  Sonia Gandhi's Surprise Entry At INDIA Bl
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
-
-- India standardises names of 28 places in Ladakh - The Hindu
-  India standardises names of 28 places
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPV29NUlhOM2xhTXlMNW11MkZ5SnM3V2hGV1dPRUV2bW9ELXFmN0ZoaF9BUmJvTC1vZDliX2piRjl5ZFVIYnBrNkx3dWtkbExoQkZuWDg2WW00Q0E5Vk9IQ25lMkFYa0lBemZXem5NSWpBUmtqcEtYZ3B1dkhOU0loTnF1R0RyZ0VaeDhCWEN1bko0NERabGN1SjZkeWotSFlJZkV2VTRlX1pOY3QwR0t5WlNHSdIBugFBVV95cUxQNVgxT1BDdmoxaGx4Mm4wZnJlRDNvVHVxMXVxZlN3UXNDbkdma3h5RXlJQW9uRU9qdmYtck43RlZUWVEyRmtlVzJKaVJ1RTlHWml5eC1UajNoVkl2cUVkR25ubXdYT2hRNkdPa3Z4bU55d1NIaWJSZVlkRDE1TjdQUFljdTFaT0tJY0stdGQ5R3RfQVlqMldveC1FajJ3a0t6c3l4M0daQzBybndoUGdzVTNrRWRvLW5GR0E?oc=5
+- Anthropic targets mega-IPO before Thanksgiving Holiday
+  Anthropic PBC is expected to start marketing its initial public offering around November 9. The company's trading debut could occur before Thanksgiving, which is on November 26.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/anthropic-targets-mega-ipo-before-thanksgiving-holiday/articleshow/134650730.cms
 
 - How BorderPlus Is Turning India’s Talent Surplus Into A Global Workforce
   A decade ago, the biggest demographic concern gripping the globe was population overgrowth. Cut to 2026, and the demographic worry&#8230; is population growth
@@ -179,46 +139,6 @@
 - TakeMe2Space, SatLeo, EON Space Labs Launch Payloads Aboard SpaceX Falcon 9
   Indian spacetech startups TakeMe2Space, SatLeo Labs, and EON Space Labs sent AI computing and Earth observation technologies into orbit aboard SpaceX Falcon 9.
   🔗 https://inc42.com/buzz/takeme2space-satleo-eon-space-labs-launch-payloads-aboard-spacex-falcon-9/
-
-- Gyanesh Kumar: CJP, or Cockroach Janta Party, calls for protests against election chief - BBC
-  Gyanesh Kumar: CJP, or Cockroach
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lXy1PQk0wX29IUjkxVG1HR1BYZ0R1c1RPNEwzQzd1VndsWlhrb2JLR0FhYWg1RmpqX01FMTlzOGZ1RUF1X3JUTDJUbHRRMUtGSWlfQXQ0c3dHNGc?oc=5
-
-- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
-  India news: Delhi protesters turn up heat on election chief
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
-
-- India’s Cockroach movement launches new protests over changes to voter roll - theguardian.com
-  India's Cockroach movement launches new protests over
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
-
-- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
-  Sonia Gandhi's Surprise Entry At INDIA Bl
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
-
-- India standardises names of 28 places in Ladakh - The Hindu
-  India standardises names of 28 places
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPV29NUlhOM2xhTXlMNW11MkZ5SnM3V2hGV1dPRUV2bW9ELXFmN0ZoaF9BUmJvTC1vZDliX2piRjl5ZFVIYnBrNkx3dWtkbExoQkZuWDg2WW00Q0E5Vk9IQ25lMkFYa0lBemZXem5NSWpBUmtqcEtYZ3B1dkhOU0loTnF1R0RyZ0VaeDhCWEN1bko0NERabGN1SjZkeWotSFlJZkV2VTRlX1pOY3QwR0t5WlNHSdIBugFBVV95cUxQNVgxT1BDdmoxaGx4Mm4wZnJlRDNvVHVxMXVxZlN3UXNDbkdma3h5RXlJQW9uRU9qdmYtck43RlZUWVEyRmtlVzJKaVJ1RTlHWml5eC1UajNoVkl2cUVkR25ubXdYT2hRNkdPa3Z4bU55d1NIaWJSZVlkRDE1TjdQUFljdTFaT0tJY0stdGQ5R3RfQVlqMldveC1FajJ3a0t6c3l4M0daQzBybndoUGdzVTNrRWRvLW5GR0E?oc=5
-
-- Gyanesh Kumar: CJP, or Cockroach Janta Party, calls for protests against election chief - BBC
-  Gyanesh Kumar: CJP, or Cockroach
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lXy1PQk0wX29IUjkxVG1HR1BYZ0R1c1RPNEwzQzd1VndsWlhrb2JLR0FhYWg1RmpqX01FMTlzOGZ1RUF1X3JUTDJUbHRRMUtGSWlfQXQ0c3dHNGc?oc=5
-
-- India news: Delhi protesters turn up heat on election chief, police tightens security - DW.com
-  India news: Delhi protesters turn up heat on election chief
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2YzZkZZSUlnbTk1ajVkaEtXXzFyLTExRkIyVV9MU2x4eFpCUWxrRHVValdWd3lDR2plLXdpNTJLbVFKNG1kSDFxRjZDWHZyQ1JuYkhtSF9va3B6SEcwSnhFOFRaVDRGeFhRTldETFR1Ry14OUNWNW81YTRIMGVfTWZnU045REhCUWtuZXlYNzN3LTU2Rmk5am5NTEZqLUdoX0VIYl9qSVpzMkYxMklGemQwZlZMUlpyUEhJ?oc=5
-
-- India’s Cockroach movement launches new protests over changes to voter roll - theguardian.com
-  India's Cockroach movement launches new protests over
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
-
-- Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
-  Sonia Gandhi's Surprise Entry At INDIA Bl
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
-
-- India standardises names of 28 places in Ladakh - The Hindu
-  India standardises names of 28 places
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPV29NUlhOM2xhTXlMNW11MkZ5SnM3V2hGV1dPRUV2bW9ELXFmN0ZoaF9BUmJvTC1vZDliX2piRjl5ZFVIYnBrNkx3dWtkbExoQkZuWDg2WW00Q0E5Vk9IQ25lMkFYa0lBemZXem5NSWpBUmtqcEtYZ3B1dkhOU0loTnF1R0RyZ0VaeDhCWEN1bko0NERabGN1SjZkeWotSFlJZkV2VTRlX1pOY3QwR0t5WlNHSdIBugFBVV95cUxQNVgxT1BDdmoxaGx4Mm4wZnJlRDNvVHVxMXVxZlN3UXNDbkdma3h5RXlJQW9uRU9qdmYtck43RlZUWVEyRmtlVzJKaVJ1RTlHWml5eC1UajNoVkl2cUVkR25ubXdYT2hRNkdPa3Z4bU55d1NIaWJSZVlkRDE1TjdQUFljdTFaT0tJY0stdGQ5R3RfQVlqMldveC1FajJ3a0t6c3l4M0daQzBybndoUGdzVTNrRWRvLW5GR0E?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-02 21:47:07 UTC_
+_Last updated: 2026-10-03 03:26:17 UTC_
