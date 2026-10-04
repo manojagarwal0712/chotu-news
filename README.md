@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- India: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation - dw.com
-  India: Cockroach Janta Party announces Delhi march for October 10
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGczVlZIQ29wWWlFSTJ6VVc1RDV5bS05cmNEYUNDNW4xdFRBYWtpVEtKZWZWSk5uV0JtdmNqS1p2S0RzQ2FIXzU0ZzF5YjBPVDZRanU4QnJrak1mV2JRY2Vfb0k5eXdNb2lNZUpXdnhIc29TeWRzOFd4U3ZZUUR1VlkyYWNWaV9VanZyR25BVkRtb3RoYkxDREViOHlSY1lvMndwQl9Lc01DeG02NHF2VE1SSTZDdFhkTDAtSGtyakRvR2JFc0FKaTl3UXFSSFVISzdZLS1HYnlJc3c?oc=5
-
-- Indian authorities clamp down as ‘cockroach’ movement launches new protests - Al Jazeera
-  Indian authorities clamp down as ‘cockroach
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNODk0TEdEa3p4WjB5UXoySkdoN3JOSXIxeE1VSnFjeVNaYVh6ekVZV212R2tjT3ZSRVV5bE0xcXcxZ2Q1WWMtVUFsOFFUMWVmR2xVaXpTakptclhzWjRQRGJOQTh2VlJZYmE3RXFaSk5kZkVfRTZjVHhTcWZ5d0M0N0FJaTBxSF9BdlFERmpPSkJ1ZGdXempYZm9UQTF6WXBIejgwenNSOF95TTYybGd2amJzSmbSAboBQVVfeXFMT3lMSWVDSUFSMGY3QlZwT2lzeG9hVFJ5NjE0QzZVTk4xaThQZTZheEFxbVZIZVRYcFo3MGtwUnpZUzNWXzQ5a0s2LXdkT1RnX0xiV0psTVpQUXlyazdROUhSeGV1MlBxaFZqalJBc09ISGluV2dvbmtPMVJwM1JaanhhVHJYOEpXWnpIczBFd2ZydzduVnFsQ2hWZXRKY09XWmxyMGcta0RKdmZZM3ZoeTVuYlR4WGN3by1B?oc=5
-
-- India’s Cockroach movement launches new protests over changes to voter roll - The Guardian
-  India’s Cockroach movement launches new protests
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
+- Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs - Al Jazeera
+  Modi’s India takes on Trump more
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRuTmJIVmd3ckNSZG02cXdicGMtdndHSDV1UnFhWGNBVWJyVDR1Q21pSEk5UVdmZ2JmZXhCMXZuVlc2WURrSGlVb0NFaVl4bUxMMVZyQmdzbnVlaUJ3R0JtWHI2bE1BclZkT1dGYTRab2dVbEpUQ3BCZ3JYR1llekxzb2QyTVVSLUNSanh3aVN3T3o4bjQtQjNpRG94NkRLcjdtLWEwTTPSAa4BQVVfeXFMTWhWOHA5dkNxLXRZM2xVSVp0LUNlSHVyejcwUzR3V3NfdWZvbHZuRENhd1hER3hKWEtVbHBVVGJqRmRmai1TcGkzZDJuYnF1RFE1V2p0YWhWOEtGU1pzdUxDM21KSElxZjRyV3BMRlY5TXhVZWVzNXJKeS1hZVNWZmJFazhRSTJUQUw1TGw4eERXU196dmpzRTQ2ZDB1QWkzVFpmeFdtU2VQbElJa1JB?oc=5
 
 - Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
   Sonia Gandhi's Surprise Entry At INDIA Bl
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- India summons Pak envoy to register strong protest over continued facilitation of illegal cross-border infiltration - News On AIR
-  India summons Pak envoy to register strong protest over continued facilitation of illegal cross
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRV9GeEtRQWtwRVdVcks1NDB3V1JUdXdoV2ZSZWdDMFU2S094Mjd3QWxicGplMGF3LWxrSHFwamR0aU9QVVIzbmh0NF9peEVqbnRyNnlnYWlmZGtkd2lJaHd0enc3dWgtLUhlNGZPTW43Sk0tX3BIVnBQZG1ZcEFyT2EtREZGS2hxS0p0VjRYZElWMkN4cXpqdFhRN1lPUmQzY191TEp6OEM0UjR2SWVWSDJMRmc0LVVqMnlGSVlZSWxiRk1wMDRDR3NFYnpHUGFQUkhHRTJwRFE?oc=5
+- India-backed project clears nearly 198,000 sq m of mine-contaminated land in Cambodia - The Economic Times
+  India-backed project clears nearly 198,000 sq m of
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNlVBY0RBN0JNNXdQUE9YVDNPMnJqcmE1WUdIRHRscTZWa0FYMmVyQUEyX3k0YXpsUjRRMGxQYWRscnY3OVpfZm9kUDdtNEZCVDRQc0k4akNVNXcxNUVkTnp6WXNpelMtNWF2ZFVXd0VOZkRXems0ajN3YzBoY3plb0ZEdFBZNERmRzcxRF9YLXk4MEJZOTV6SjNBZHcyUjNGRmpCMnhRdlpzUjJjY3BmNk5TemNNTWY2RktlRklUczRZcUNVb3pDUWE3aXd4VThaZFEzZk9CcU5JYTFOLWhhTzNwbWtyM09SSU13WDVDZ9IB6AFBVV95cUxOU3JvdnZ3UWhHWXI0d1NGUVlSdlh0UnNNLXp2RnJoVTFHOWs1eWZHdm9lQW1qU1owSEE4amZDWG1jcHpDVzI5WU1HZlg0Z0pwcGlWRFhhd3Yxdl8yM1Z2bXEtYW1mWmt3VFdqTVpsNHJldGo3UEpEb05SYS1CVHRvM3BDWlp6NkhFMG5Cb2wweVJmWnlJYnA0b1BwVUktLWpLZkJxWlRmak0tLUk4b2NTUlMxTElETzRfTWtxQm1idHdKcUFXNUNvWlRNdzFLWW5LbUtOLXh0QnBCMGN4QjMtSHNDUzZkOEgw?oc=5
 
-- Don’t be fooled—LLMs don’t reason - MIT Technology Review
-  Don't be fooled—
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMdIBkgFBVV95cUxOcmZ3aHQyTV9vS2Vld2t6UkkzdS16UkZGWGJvZkEzdVZQRFdtS29RVnEtVFNueFo0cHpVM19MQUltUWdoWFRWWEh0RlpFLVFqb3kxb0ZBUkVYcU5aa0dVZlMxNUdFb0lVRlJWSDhoWnozWHFvaTZTNXY4d3F0UHpfbUowaVdpSFFDbm0xc3JCYkRTdw?oc=5
+- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
+  Asian Games 2026 Conclude in Nagoya; India Fin
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
 
-- I Quit OpenAI Because Its Culture Is Broken - The Atlantic
-  I Quit OpenAI Because Its Culture
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5
+- India's Nuclear Punch: Atom Bombs Backed By Long-Range Missiles - NDTV
+  India's Nuclear Punch: Atom Bombs
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNOEl1Rmhtc1ZTdW1QbDJWVEtpVUVDUVVwNVVfSXBvcFFVbi02Rkt2U0xLSTlKSmx5aEtuN3ZSYkozSDlPSlpYRGl1MDIzY19wUEJ5U24zUDRBbkVxa1ZRUVFwMENtNUZpXzhRNVY5LTJFeGpZM0pQSlFEc1BrcEtqOGFObmpkNlhpdk5uWk1TbU52Z3FOdVJHQ2xXRDcyZGJXZjgxetIBrAFBVV95cUxPbWFualJsU0JGeWZtT3dERDgxYXNDYzVrU3E2QzFKb3lKbDFfMVU0RTFhWWdwWWFRRlRsdjBPaXVLZWl3WWIxTUZfUmFCb3l6MHktZ0QtaXBSQklGaHU3U1lwT2U5OTZIUEU3OUJya0pvOTU1ZS15d1hUQ1VOR1hIczludmR4d0ZqWDNyTmplN2IwYTJXd05PQ3N6WnBTTXRSLWJUbjdXWXhnWW5n?oc=5
+
+- OpenAI safety leader quits, warning AI company’s culture is ‘broken’ - The Guardian
+  OpenAI safety leader quits, warning AI
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5
 
 - ‘AI’s success is based on effective bundling of technology with human judgment, leadership, execution’ - The Hindu
   ‘AI’s success is based on effective bundling
   🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTC0tanVLSTQ5NURVQ0xlbG9RSDE1aWVuTmdfTkthOUtxZzRGLTZuSThEUDkweUwxMDk4bHZ4T1dkQTFFRnZxVmRmWUNCc2dIaEpBUXctTEVZWWtveVU4MlZUczdrRFo4OGVOcGk2aGZpOFgzVl9mQ0FBaVpTclREa3Z1SDgyZXMxRzZxMlk0SXE3V1RKWFFpeEV3bFRkSlNVaFVwSmVoYzdBUEtqU2N1Zm53Y01veF9ENzRRMGhGMU14X2p1bEZDcER2b2tyQm9lLU9vVW5GR25Zcmwyb1F3dHNvU2dVR2NsZnpiS25TclZ4amktYS1j0gH-AUFVX3lxTE9xNXFCeGpKcUltakY3UnJza1NuUUVtSU9oSVZkS0RTZldzX29WN1o4c3ljakpkb0FEQUUwdDRhVkVTclBmb2k4bjdQMjd6TlkydlpTTGFnQW0zNXdXSjF2STFtZVAxdDA0MU1JcElyMjJyRWdQUThBRVJZX0ZER0R5Q25SUFRVSFEwNmpya0JXeHg4RW5ZWnZNSjJLT2N1X2lKNXg5b3F0a3ZVN01GclBveTNaS3JacFhieU85cVpLZ2kxVXJUcTlVemJSTHJQdkxqMy1WTmZfcFlCNzlMNVN2a3lVRmxBTGhKSUFhRnVqSGJHS0JMU2pMVjVJSkVR?oc=5
 
+- Don’t be fooled—LLMs don’t reason - MIT Technology Review
+  Don't be fooled—
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMQ?oc=5
+
 - RBI remains wary of crypto, backs blockchain technology and tokenisation: Governor Malhotra - Telegraph India
   RBI remains wary of crypto, backs blockchain technology and
   🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnQxZFdON2tQeTRYWjhMXzFFbzZxbk9ZTTlJR0JGNVBlWDl1enFULXV2OThNUGFta1hBY1Nyb3FCNUhGaFJFNE1MOE9uVnVEZ1VMYWFybTljWDFuWU9uQXA4NDhvTUxtM2FfeDlibFE1T0p1ZWxtSXR0M3hKbmZmdmRNcnlCX0VTNEZXNFZ2aERHYm81bE5CcWFoR3B0T3I4M0F6MjVMR0VWdEg2WHpsLU5WVDlPeXV4ZEpkSkU3cXl6OG9maXV4N3FrVVBiZk13UlNhQWppR07SAd4BQVVfeXFMT1RjWU5JUEIxWHRHMUdSeFlBVk5JY2tLVUNiZDRPaXVIbjJQTVVPY2FZMnV2RzBYREdNam4wY1JLMDh0eGRGVV9JWVRGVjB5N1U0aWZqQWFxTWdweFZvOVJXMzAwUzBldzEtbnkzT0RXRGVvSUxITG9zTHRNdEQ2WGdMTFB0eTBqWkNmamNWbWpCZ1FGOUZ0WU5rTl81WEo2Sy1wa1JoNGt4VVJxTmFUSFdmZkZ2OWw0LUVrTUpIdFQ5VjVZLThHS0ZCUnFMNE55eGxwMllFWmN6ODBWSEt3?oc=5
 
-- America wants to wean itself off Chinese technology. Will the pain pay off? - CNN
-  America wants to wean itself off Chinese technology. Will
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5FdC1PMHlQaVA5ckY2UkNyWVVEREt2X0FTMHhfdUM5WEdxZ0RWbFlYeWZYNy1uY2xyRzE2NEJud1lNaHNCQW1LUkJVWVZzZFhOekh4aHVDamwtMGdGR2c0SDF0Q3AybnUxZS1adHppdE9kOVJ5SWJEdGVHOA?oc=5
+- Exclusive | New AI Czar Unveils Goals, Members of White House Task Force - WSJ
+  The White House announced a new Artificial Intelligence Czar on
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5
+
+- Lockheed Martin’s India expansion plan hinges on $10.5bn military aircraft bid: Which firms are competing for project?
+  Lockheed Martin plans to expand its manufacturing in India if it wins a $10.5 billion contract for 60 medium transport aircraft. It has partnered with Tata Advanced Systems and aims to deliver 12 aircraft initially
+  🔗 https://www.livemint.com/companies/news/lockheed-martin-s-india-expansion-plan-hinges-on-10-5bn-military-aircraft-bid-which-firms-are-competing-for-project-11791107461403.html
+
+- South Korean president orders probe into data leaks across financial industry
+  South Korean president orders probe into
+  🔗 https://www.livemint.com/companies/south-korean-president-orders-probe-into-data-leaks-across-financial-industry-11791094811850.html
 
 - Industrial marketplace Pneucons disables UPI on orders from Oct 10, co-founder says ‘MDR ate 94% of our margins’
   Starting October 10, Pneucons will discontinue UPI payments. Government imposed a 0.4% MDR charge on orders over 
@@ -52,33 +60,33 @@
   The planned separation will allow Lemon Tree to focus on asset-light hotel management, franchising and branding. Fleur
   🔗 https://www.livemint.com/companies/news/fleur-to-deploy-1-bn-as-lemon-tree-splits-ownership-management-businesses-11790835711651.html
 
-- Intesa Says Paschi Bid to Lapse If Holders Back Rival Deals
-  Intesa Sanpaolo SpA said its offer for Banca Monte dei Paschi di Siena SpA will lapse if Paschi shareholders back either of
-  🔗 https://www.livemint.com/companies/intesa-says-paschi-bid-to-lapse-if-holders-back-rival-deals-11791060153350.html
+- LTM, Cyient, Zen, Birlasoft share price target, stop-loss - IT stocks to buy for over 32% returns ahead of Q2 results
+  The brokerage has retained a positive stance on most of the IT stocks. Larsen &amp;amp; Toubro Technology Services (LTTS), Mphasis
+  🔗 https://www.livemint.com/market/stock-market-news/ltm-cyient-zen-birlasoft-share-price-target-stop-loss-it-stocks-to-buy-for-over-32-returns-ahead-of-q2-results-11791111110434.html
 
-- Meta’s AI Data Center tax strategy that saves billions - Report
-  The debate over Meta's strategy comes down to whether its massive AI infrastructure projects represent genuine experimentation for tax purposes or simply the construction and
-  🔗 https://www.livemint.com/companies/news/metas-ai-data-center-tax-strategy-that-saves-billions-report-11791052337598.html
+- Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene
+  The Nifty 50 finished lower for the eight straight week on
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-bank-nifty-prediction-what-will-happen-in-the-indian-stock-market-on-monday-3-reasons-tell-the-scene-11791107343487.html
 
-- HDFC Bank gets new MD-CEO; stock is Jefferies India's top pick — 22% upside despite 27% dip in YTD | Target price, ratio
-  HDFC Bank ADR price to touch $28/share at NYSE, as appointment of Anup Bagchi as the new CEO and MD is a
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-gets-new-md-ceo-stock-is-jefferies-indias-top-pick-22-upside-despite-27-dip-in-ytd-target-price-ratio-11791043530085.html
+- Tata Comms, Siemens, Aadhar Housing, Styrenix, Sudarshan — Top 5 stocks to buy on Monday | Target, SL by Sumeet Bagadia
+  Nifty 50 index is approaching its near-term support at 22,200. Sumeet
+  🔗 https://www.livemint.com/market/stock-market-news/top-5-breakout-stocks-to-buy-enrin-aadhar-hfc-styrenix-tata-comm-sudarschem-by-sumeet-bagadia-target-stoploss-11791105297463.html
 
-- Upcoming dividend, stock split, bonus shares this week: NMDC, PH Capital, MoldTek, GTV and others - Record date, ratio
-  15 companies have set record dates for corporate actions attracting investor interest. Upcoming dividend, bonus issue, stock split this week
-  🔗 https://www.livemint.com/market/upcoming-dividend-stock-split-bonus-shares-this-week-nmdc-ph-capital-moldtek-gtv-and-others-record-date-ratio-11790967535671.html
+- TCS, Tech Mahindra, Coforge, Mphasis: IT stocks picks and investment ideas after Accenture results ahead of Q2 earnings
+  Brokerage firm Choice Broking has identified Indian IT stocks as
+  🔗 https://www.livemint.com/market/stock-market-news/tcs-tech-mahindra-coforge-mphasis-it-stocks-picks-and-investment-ideas-after-accenture-results-ahead-of-q2-earnings-11791106363192.html
 
-- Chinese savers want to invest in US stocks. Now there’s an easier way.
-  Beijing is cracking down on unlicensed offshore trading while opening controlled channels into global
-  🔗 https://www.livemint.com/market/stock-market-news/chinese-savers-want-to-invest-in-us-stocks-now-there-s-an-easier-way-11791080630692.html
+- CAS update: Sebi gets 20k comments on Closing Auction Session, Timings, Derivates Contracts Settlement Methodologies
+  SEBI had received around 20,000 comments by 7 pm on October 3, the deadline for submitting feedback on its consultation paper
+  🔗 https://www.livemint.com/market/stock-market-news/cas-update-sebi-gets-20k-comments-on-closing-auction-session-timings-derivates-contracts-settlement-methodologies-11791103696405.html
 
-- Tanvi Exports files for IPO: 5 key highlights from gold jewellery maker’s DRHP
-  Rajkot-based gold jewellery
-  🔗 https://www.livemint.com/market/tanvi-exports-files-for-ipo-5-key-highlights-from-gold-jewellery-maker-s-drhp-11791050208188.html
+- India needs its own AI safety framework, not a copy of US pact: Industry experts
+  India needs its own AI safety framework, not a
+  🔗 https://www.livemint.com/technology/india-needs-its-own-ai-safety-framework-not-a-copy-of-us-pact-industry-experts-11791108098849.html
 
-- Sebi gets 3,500+ comments on Closing Auction Session rules: Circular likely soon, says Tuhin Kanta Pandey
-  Capital markets regulator to review feedback on CAS,
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-gets-3-500-comments-on-closing-auction-session-rules-circular-likely-soon-says-tuhin-kanta-pandey-11791029104228.html
+- ‘Unconstitutional’: Advocacy group condemns BitChat's removal from India App Store on govt order, lists four demands
+  Jack Dorsey said Apple removed Bitchat from the India App Store following a takedown demand from the Ministry of Electronics and Information Technology.
+  🔗 https://www.livemint.com/technology/unconstitutional-advocacy-group-condemns-bitchats-removal-from-india-app-store-on-govt-order-lists-four-demands-11791092700220.html
 
 - Trump names intelligence chief Clayton as AI czar, to head task force, WSJ reports
   Trump names intelligence chief Clayton as AI czar
@@ -92,53 +100,69 @@
   Dorsey shared a screenshot of Apple's notice on X, stating that the "government of
   🔗 https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html
 
-- Deepinder Goyal teases six Temple variants: Full list of colours, launch date, pre-order details and more
-  Deepinder Goyal has revealed six colours for Temple. Pre-orders are expected next week, with early-access users getting priority.
-  🔗 https://www.livemint.com/technology/tech-news/deepinder-goyal-teases-six-temple-variants-colours-launch-date-pre-order-details-and-more-11791039096690.html
+- Meet the Gen-Z High Rollers Dominating the Prediction Markets - WSJ
+  Meet the Gen-Z High Roll
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5ELWZ1SHVfTHFSUVVSdnJWVUdCSHJ1YWZpbnNFUEJfdERSSXdGSDJaZzVkQzBXaW9JWXU1OTlMcU1wMkhjT0pTWk5QLWdNcWRtZk0tbmhNZFRGcnM2QkJoZ0o4cVlEdjlaS0xyeEZDaEFDWHYybGp4VDFpSQ?oc=5
 
-- Worried about who your teen is talking to on WhatsApp? Messaging platform rolls out parental controls: Details
-  The move comes at a time when Meta's products are facing intense scrutiny over the harm they cause to children and young people.
-  🔗 https://www.livemint.com/technology/tech-news/worried-about-who-your-teen-is-talking-to-on-whatsapp-messaging-platform-rolls-out-parental-controls-details-11791015190457.html
+- Markets News, Oct. 2, 2026: Indexes Rise Friday After Weak Jobs Report; Nasdaq Hits New High; Dow, S&P 500 Book Weekly Losses - Investopedia
+  Markets News, Oct. 2, 2026: Indexes Rise Friday After Weak Jobs Report;
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPMEJuNVE2REp1MHZBTDFDWXprRkhJTDVFNWVIdGVwdTZFR0dCeTBrRTZ3Z05GeHNaX05ZTEsyaTRfSVJfLS1fa1BsZ01INXVOc09KZ0paR3QtTmxFbm1MS3ZZOFYxMWNvWGNJRFNBRnhmaElZMmlwbmw1S2NYYjNyV2dQbUlYNGNDZ3QzQ1dpM1A?oc=5
 
-- 7 investing lessons from Jim Leitner for building the right market mindset
-  Leitner believes investors should remain open to new ideas and recognise
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/7-investing-lessons-from-jim-leitner-for-building-the-right-market-mindset/articleshow/134657619.cms
+- Stocks Climb as Calm Prevails Before Payrolls: Markets Wrap - Bloomberg.com
+  Stocks Climb as Calm Prev
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUFiYWRiZGVNU3JRMmxjQlYySldmWGgzdHVtbmxoaGpzRVRzdkVFYVVVT0w1OGg2bHZwWHVGdEc3UTduZW95UTNxYnZzM3g4d1F4Q0Vnc2ZTcFBULUt6SkxBUWhGS0NfTFlrMTMxZVJsLTVXU3F2bWc4cFRmNWVqWFg5SmZGeXA3NDFyTHh0N3NMck9CYmxnRUJwazlVNXdndzZuVy16Z3JLSDIyZXRWNmlR?oc=5
 
-- D-Mart Q2 revenue rises 18% to Rs 19,206 cr; store count at 518
-  Avenue Supermarts has achieved an impressive 18.4% growth in standalone revenue for the second quarter of 2026. This also reflects a 4.7% increase from the preceding quarter's revenue of Rs 18,343
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/d-mart-q2-revenue-rise-18-pc-to-rs-19206-cr-store-count-at-518/articleshow/134656472.cms
+- Stocks remain under the thrall of higher yields and higher oil. Here's what's ahead - cnbc.com
+  Stocks remain under the thrall of higher yields and higher
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzhsUm14Qkd4eGFMUnZCSmxQVUV0U3h4cW1QeER2elYwd2hFSmpIeXVVSjd4ZzEzWjZucGp5aFlfQmJYR2QydEtFYUktYVV1bzFzYzQySVk1a0VhcFM0OVRRQW92MWkwWTZBZW5OdnBSd0tGNXZZa1p4LVBVaEdOY0hXZ3g4Zl9naW1Cbjdn?oc=5
 
-- Sebi examining position limits for non-agri contracts to boost liquidity
-  Sebi is investigating position limits for non-agricultural contracts to improve market liquidity and depth. Chairman Tuhin Kanta Pandey has highlighted the importance of phased physical settlement for agricultural commodities.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/articleshow/134656225.cms
+- Eight-week losing streak : RBI rate hike, crude prices and TCS results to test markets - Telegraph India
+  " target="_blank">Eight-week losing streak : RBI
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSXE3T0Vkd01QQnZnRjVBbzRMOTVidklBMUtHaC1Ja0RQcXM1THNoSkRFMjg5SGlUYTFCOS1FOEZUYzNUdzdDZGxLQnM5QWc1Q0tyUEtXemNnblVLVWNoSEJWX21uSXNPbzVxbi1VX0lZWmhuSHJjWC0yY2NOSjhUNE1WX0F4NXlXOERvdWItNTRpdWdDSEtwbFItYXltLVlxYVNfaTlIZXRUM2JrZC1maS1lU2IzTnJrTl9OT1FpLUNaUkpPOEJwZjBNdnBrbkY00gHWAUFVX3lxTE1aLUluN2Y5bHJzWDgzOHUyMUMtaDlSMk04NzNyQnhnbkVQM0hFSHNaWElxVjU1Ti1NYVB1RlhlZkxjSm9iTTJTOU1IVUNnbGo5NExoT1pRVGNPT0FwdTlHZGM2S0J2MklVT3MzMWx0LTgtX045NnNsc0hOSmM0bmN5QWdjYUpjRkZ0cFBhbU16U3lLaFZ1S0I5QURob1NHYUpCU21OYzQ3cnBhQW1uSmNLNTllUFp6cmFhbEl1SFVHcHdyQTBHUlBjVkZWNlRLWTRWSFdscEE?oc=5
 
-- Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high
-  The Nifty's modest violation of its 200-week moving average. This is the first breach of this long-term average since March 2020. The 22,600 area is particularly important over the coming days.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-oversold-nifty-may-rebound-as-volatility-stays-high/articleshow/134654990.cms
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  Sensex and Nifty extended losses for a fourth session as heavy FII selling, surging bond yields and elevated crude prices rattled investors. The selloff erased Rs 5 lakh crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134673452.cms
 
-- Cube Highways Trust secures Rs.1,150 crore through AAA-rated NCDs
-   Cube Highways Trust has triumphantly secured Rs. 1,150 crore by issuing senior secured NCDs. Major institutional players, Axis Bank Limited and ICICI Bank Limited were pivotal investors in this transaction.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-secures-rs-1150-crore-through-aaa-rated-ncds/articleshow/134655392.cms
+- Valuations of IT stocks already capture most of AI disruption risk: Chintan Haria
+  The Nifty IT index’s 25% fall in 2026 may have already priced in much of the threat from AI. Chintan Haria of ICICI Prudential
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/valuations-of-it-stocks-already-capture-most-of-ai-disruption-risk-chintan-haria/articleshow/134673144.cms
 
-- India: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation - dw.com
-  India: Cockroach Janta Party announces Delhi march for October 10
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGczVlZIQ29wWWlFSTJ6VVc1RDV5bS05cmNEYUNDNW4xdFRBYWtpVEtKZWZWSk5uV0JtdmNqS1p2S0RzQ2FIXzU0ZzF5YjBPVDZRanU4QnJrak1mV2JRY2Vfb0k5eXdNb2lNZUpXdnhIc29TeWRzOFd4U3ZZUUR1VlkyYWNWaV9VanZyR25BVkRtb3RoYkxDREViOHlSY1lvMndwQl9Lc01DeG02NHF2VE1SSTZDdFhkTDAtSGtyakRvR2JFc0FKaTl3UXFSSFVISzdZLS1HYnlJc3c?oc=5
+- RBI may hike repo rate by 25 bps as inflation and oil risks mount: Sunil Sanghai
+  The RBI could raise the repo rate by 25 basis points in October and signal further tightening. Strong reserves and a manageable current account provide crucial buffers.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-bps-as-inflation-and-oil-risks-mount-sunil-sanghai/articleshow/134672762.cms
 
-- Indian authorities clamp down as ‘cockroach’ movement launches new protests - Al Jazeera
-  Indian authorities clamp down as ‘cockroach
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNODk0TEdEa3p4WjB5UXoySkdoN3JOSXIxeE1VSnFjeVNaYVh6ekVZV212R2tjT3ZSRVV5bE0xcXcxZ2Q1WWMtVUFsOFFUMWVmR2xVaXpTakptclhzWjRQRGJOQTh2VlJZYmE3RXFaSk5kZkVfRTZjVHhTcWZ5d0M0N0FJaTBxSF9BdlFERmpPSkJ1ZGdXempYZm9UQTF6WXBIejgwenNSOF95TTYybGd2amJzSmbSAboBQVVfeXFMT3lMSWVDSUFSMGY3QlZwT2lzeG9hVFJ5NjE0QzZVTk4xaThQZTZheEFxbVZIZVRYcFo3MGtwUnpZUzNWXzQ5a0s2LXdkT1RnX0xiV0psTVpQUXlyazdROUhSeGV1MlBxaFZqalJBc09ISGluV2dvbmtPMVJwM1JaanhhVHJYOEpXWnpIczBFd2ZydzduVnFsQ2hWZXRKY09XWmxyMGcta0RKdmZZM3ZoeTVuYlR4WGN3by1B?oc=5
+- IT Q2 Preview: Muted growth, steady margins likely; deal conversion, AI deflation in focus
+  India's leading IT firms are projected to exhibit modest revenue growth and stable margins. Analysts anticipate that discretionary spending will remain constrained due to geopolitical issues affecting client budgets.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/it-q2-preview-muted-growth-steady-margins-likely-deal-conversion-ai-deflation-in-focus/articleshow/134672682.cms
 
-- India’s Cockroach movement launches new protests over changes to voter roll - The Guardian
-  India’s Cockroach movement launches new protests
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
+- IPO bonanza: 29 companies to list this week; GMPs signal returns of up to 59%
+  Vans Electroengineerings signalling a potential 59% gain, while several companies indicate flat debuts.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ipo-bonanza-29-companies-to-list-this-week-gmps-signal-returns-of-up-to-59/slideshow/134672937.cms
+
+- Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs - Al Jazeera
+  Modi’s India takes on Trump more
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRuTmJIVmd3ckNSZG02cXdicGMtdndHSDV1UnFhWGNBVWJyVDR1Q21pSEk5UVdmZ2JmZXhCMXZuVlc2WURrSGlVb0NFaVl4bUxMMVZyQmdzbnVlaUJ3R0JtWHI2bE1BclZkT1dGYTRab2dVbEpUQ3BCZ3JYR1llekxzb2QyTVVSLUNSanh3aVN3T3o4bjQtQjNpRG94NkRLcjdtLWEwTTPSAa4BQVVfeXFMTWhWOHA5dkNxLXRZM2xVSVp0LUNlSHVyejcwUzR3V3NfdWZvbHZuRENhd1hER3hKWEtVbHBVVGJqRmRmai1TcGkzZDJuYnF1RFE1V2p0YWhWOEtGU1pzdUxDM21KSElxZjRyV3BMRlY5TXhVZWVzNXJKeS1hZVNWZmJFazhRSTJUQUw1TGw4eERXU196dmpzRTQ2ZDB1QWkzVFpmeFdtU2VQbElJa1JB?oc=5
 
 - Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
   Sonia Gandhi's Surprise Entry At INDIA Bl
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- India summons Pak envoy to register strong protest over continued facilitation of illegal cross-border infiltration - News On AIR
-  India summons Pak envoy to register strong protest over continued facilitation of illegal cross
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRV9GeEtRQWtwRVdVcks1NDB3V1JUdXdoV2ZSZWdDMFU2S094Mjd3QWxicGplMGF3LWxrSHFwamR0aU9QVVIzbmh0NF9peEVqbnRyNnlnYWlmZGtkd2lJaHd0enc3dWgtLUhlNGZPTW43Sk0tX3BIVnBQZG1ZcEFyT2EtREZGS2hxS0p0VjRYZElWMkN4cXpqdFhRN1lPUmQzY191TEp6OEM0UjR2SWVWSDJMRmc0LVVqMnlGSVlZSWxiRk1wMDRDR3NFYnpHUGFQUkhHRTJwRFE?oc=5
+- India-backed project clears nearly 198,000 sq m of mine-contaminated land in Cambodia - The Economic Times
+  India-backed project clears nearly 198,000 sq m of
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNlVBY0RBN0JNNXdQUE9YVDNPMnJqcmE1WUdIRHRscTZWa0FYMmVyQUEyX3k0YXpsUjRRMGxQYWRscnY3OVpfZm9kUDdtNEZCVDRQc0k4akNVNXcxNUVkTnp6WXNpelMtNWF2ZFVXd0VOZkRXems0ajN3YzBoY3plb0ZEdFBZNERmRzcxRF9YLXk4MEJZOTV6SjNBZHcyUjNGRmpCMnhRdlpzUjJjY3BmNk5TemNNTWY2RktlRklUczRZcUNVb3pDUWE3aXd4VThaZFEzZk9CcU5JYTFOLWhhTzNwbWtyM09SSU13WDVDZ9IB6AFBVV95cUxOU3JvdnZ3UWhHWXI0d1NGUVlSdlh0UnNNLXp2RnJoVTFHOWs1eWZHdm9lQW1qU1owSEE4amZDWG1jcHpDVzI5WU1HZlg0Z0pwcGlWRFhhd3Yxdl8yM1Z2bXEtYW1mWmt3VFdqTVpsNHJldGo3UEpEb05SYS1CVHRvM3BDWlp6NkhFMG5Cb2wweVJmWnlJYnA0b1BwVUktLWpLZkJxWlRmak0tLUk4b2NTUlMxTElETzRfTWtxQm1idHdKcUFXNUNvWlRNdzFLWW5LbUtOLXh0QnBCMGN4QjMtSHNDUzZkOEgw?oc=5
+
+- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
+  Asian Games 2026 Conclude in Nagoya; India Fin
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
+
+- India's Nuclear Punch: Atom Bombs Backed By Long-Range Missiles - NDTV
+  India's Nuclear Punch: Atom Bombs
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNOEl1Rmhtc1ZTdW1QbDJWVEtpVUVDUVVwNVVfSXBvcFFVbi02Rkt2U0xLSTlKSmx5aEtuN3ZSYkozSDlPSlpYRGl1MDIzY19wUEJ5U24zUDRBbkVxa1ZRUVFwMENtNUZpXzhRNVY5LTJFeGpZM0pQSlFEc1BrcEtqOGFObmpkNlhpdk5uWk1TbU52Z3FOdVJHQ2xXRDcyZGJXZjgxetIBrAFBVV95cUxPbWFualJsU0JGeWZtT3dERDgxYXNDYzVrU3E2QzFKb3lKbDFfMVU0RTFhWWdwWWFRRlRsdjBPaXVLZWl3WWIxTUZfUmFCb3l6MHktZ0QtaXBSQklGaHU3U1lwT2U5OTZIUEU3OUJya0pvOTU1ZS15d1hUQ1VOR1hIczludmR4d0ZqWDNyTmplN2IwYTJXd05PQ3N6WnBTTXRSLWJUbjdXWXhnWW5n?oc=5
+
+- Is Apple Pay’s India Entry Too Late?
+  The past fortnight has brought several developments around Apple in India. The iPhone 18 Pro and Apple’s foldable iPhone Duo;
+  🔗 https://inc42.com/features/is-apple-pays-india-entry-too-late/
 
 - Jack Dorsey’s Bitchat Goes Offline In India, Apple Cites MeitY Order
   Bitchat, the decentralised messaging platform founded by Twitter (now X) cofounder Jack Dorsey, has been removed from Google Play Store.
@@ -156,49 +180,45 @@
   For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
   🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
 
-- Skin In The Game: Why Banks Are Taking Stakes In AI Labs
-  Rogo, a US-based financial-services AI startup, raised $30 Mn this month.
-  🔗 https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/
-
-- India: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation - dw.com
-  India: Cockroach Janta Party announces Delhi march for October 10
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGczVlZIQ29wWWlFSTJ6VVc1RDV5bS05cmNEYUNDNW4xdFRBYWtpVEtKZWZWSk5uV0JtdmNqS1p2S0RzQ2FIXzU0ZzF5YjBPVDZRanU4QnJrak1mV2JRY2Vfb0k5eXdNb2lNZUpXdnhIc29TeWRzOFd4U3ZZUUR1VlkyYWNWaV9VanZyR25BVkRtb3RoYkxDREViOHlSY1lvMndwQl9Lc01DeG02NHF2VE1SSTZDdFhkTDAtSGtyakRvR2JFc0FKaTl3UXFSSFVISzdZLS1HYnlJc3c?oc=5
-
-- Indian authorities clamp down as ‘cockroach’ movement launches new protests - Al Jazeera
-  Indian authorities clamp down as ‘cockroach
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNODk0TEdEa3p4WjB5UXoySkdoN3JOSXIxeE1VSnFjeVNaYVh6ekVZV212R2tjT3ZSRVV5bE0xcXcxZ2Q1WWMtVUFsOFFUMWVmR2xVaXpTakptclhzWjRQRGJOQTh2VlJZYmE3RXFaSk5kZkVfRTZjVHhTcWZ5d0M0N0FJaTBxSF9BdlFERmpPSkJ1ZGdXempYZm9UQTF6WXBIejgwenNSOF95TTYybGd2amJzSmbSAboBQVVfeXFMT3lMSWVDSUFSMGY3QlZwT2lzeG9hVFJ5NjE0QzZVTk4xaThQZTZheEFxbVZIZVRYcFo3MGtwUnpZUzNWXzQ5a0s2LXdkT1RnX0xiV0psTVpQUXlyazdROUhSeGV1MlBxaFZqalJBc09ISGluV2dvbmtPMVJwM1JaanhhVHJYOEpXWnpIczBFd2ZydzduVnFsQ2hWZXRKY09XWmxyMGcta0RKdmZZM3ZoeTVuYlR4WGN3by1B?oc=5
-
-- India’s Cockroach movement launches new protests over changes to voter roll - The Guardian
-  India’s Cockroach movement launches new protests
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
+- Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs - Al Jazeera
+  Modi’s India takes on Trump more
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRuTmJIVmd3ckNSZG02cXdicGMtdndHSDV1UnFhWGNBVWJyVDR1Q21pSEk5UVdmZ2JmZXhCMXZuVlc2WURrSGlVb0NFaVl4bUxMMVZyQmdzbnVlaUJ3R0JtWHI2bE1BclZkT1dGYTRab2dVbEpUQ3BCZ3JYR1llekxzb2QyTVVSLUNSanh3aVN3T3o4bjQtQjNpRG94NkRLcjdtLWEwTTPSAa4BQVVfeXFMTWhWOHA5dkNxLXRZM2xVSVp0LUNlSHVyejcwUzR3V3NfdWZvbHZuRENhd1hER3hKWEtVbHBVVGJqRmRmai1TcGkzZDJuYnF1RFE1V2p0YWhWOEtGU1pzdUxDM21KSElxZjRyV3BMRlY5TXhVZWVzNXJKeS1hZVNWZmJFazhRSTJUQUw1TGw4eERXU196dmpzRTQ2ZDB1QWkzVFpmeFdtU2VQbElJa1JB?oc=5
 
 - Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
   Sonia Gandhi's Surprise Entry At INDIA Bl
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- India summons Pak envoy to register strong protest over continued facilitation of illegal cross-border infiltration - News On AIR
-  India summons Pak envoy to register strong protest over continued facilitation of illegal cross
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRV9GeEtRQWtwRVdVcks1NDB3V1JUdXdoV2ZSZWdDMFU2S094Mjd3QWxicGplMGF3LWxrSHFwamR0aU9QVVIzbmh0NF9peEVqbnRyNnlnYWlmZGtkd2lJaHd0enc3dWgtLUhlNGZPTW43Sk0tX3BIVnBQZG1ZcEFyT2EtREZGS2hxS0p0VjRYZElWMkN4cXpqdFhRN1lPUmQzY191TEp6OEM0UjR2SWVWSDJMRmc0LVVqMnlGSVlZSWxiRk1wMDRDR3NFYnpHUGFQUkhHRTJwRFE?oc=5
+- India-backed project clears nearly 198,000 sq m of mine-contaminated land in Cambodia - The Economic Times
+  India-backed project clears nearly 198,000 sq m of
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNlVBY0RBN0JNNXdQUE9YVDNPMnJqcmE1WUdIRHRscTZWa0FYMmVyQUEyX3k0YXpsUjRRMGxQYWRscnY3OVpfZm9kUDdtNEZCVDRQc0k4akNVNXcxNUVkTnp6WXNpelMtNWF2ZFVXd0VOZkRXems0ajN3YzBoY3plb0ZEdFBZNERmRzcxRF9YLXk4MEJZOTV6SjNBZHcyUjNGRmpCMnhRdlpzUjJjY3BmNk5TemNNTWY2RktlRklUczRZcUNVb3pDUWE3aXd4VThaZFEzZk9CcU5JYTFOLWhhTzNwbWtyM09SSU13WDVDZ9IB6AFBVV95cUxOU3JvdnZ3UWhHWXI0d1NGUVlSdlh0UnNNLXp2RnJoVTFHOWs1eWZHdm9lQW1qU1owSEE4amZDWG1jcHpDVzI5WU1HZlg0Z0pwcGlWRFhhd3Yxdl8yM1Z2bXEtYW1mWmt3VFdqTVpsNHJldGo3UEpEb05SYS1CVHRvM3BDWlp6NkhFMG5Cb2wweVJmWnlJYnA0b1BwVUktLWpLZkJxWlRmak0tLUk4b2NTUlMxTElETzRfTWtxQm1idHdKcUFXNUNvWlRNdzFLWW5LbUtOLXh0QnBCMGN4QjMtSHNDUzZkOEgw?oc=5
 
-- India: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation - dw.com
-  India: Cockroach Janta Party announces Delhi march for October 10
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGczVlZIQ29wWWlFSTJ6VVc1RDV5bS05cmNEYUNDNW4xdFRBYWtpVEtKZWZWSk5uV0JtdmNqS1p2S0RzQ2FIXzU0ZzF5YjBPVDZRanU4QnJrak1mV2JRY2Vfb0k5eXdNb2lNZUpXdnhIc29TeWRzOFd4U3ZZUUR1VlkyYWNWaV9VanZyR25BVkRtb3RoYkxDREViOHlSY1lvMndwQl9Lc01DeG02NHF2VE1SSTZDdFhkTDAtSGtyakRvR2JFc0FKaTl3UXFSSFVISzdZLS1HYnlJc3c?oc=5
+- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
+  Asian Games 2026 Conclude in Nagoya; India Fin
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
 
-- Indian authorities clamp down as ‘cockroach’ movement launches new protests - Al Jazeera
-  Indian authorities clamp down as ‘cockroach
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNODk0TEdEa3p4WjB5UXoySkdoN3JOSXIxeE1VSnFjeVNaYVh6ekVZV212R2tjT3ZSRVV5bE0xcXcxZ2Q1WWMtVUFsOFFUMWVmR2xVaXpTakptclhzWjRQRGJOQTh2VlJZYmE3RXFaSk5kZkVfRTZjVHhTcWZ5d0M0N0FJaTBxSF9BdlFERmpPSkJ1ZGdXempYZm9UQTF6WXBIejgwenNSOF95TTYybGd2amJzSmbSAboBQVVfeXFMT3lMSWVDSUFSMGY3QlZwT2lzeG9hVFJ5NjE0QzZVTk4xaThQZTZheEFxbVZIZVRYcFo3MGtwUnpZUzNWXzQ5a0s2LXdkT1RnX0xiV0psTVpQUXlyazdROUhSeGV1MlBxaFZqalJBc09ISGluV2dvbmtPMVJwM1JaanhhVHJYOEpXWnpIczBFd2ZydzduVnFsQ2hWZXRKY09XWmxyMGcta0RKdmZZM3ZoeTVuYlR4WGN3by1B?oc=5
+- India's Nuclear Punch: Atom Bombs Backed By Long-Range Missiles - NDTV
+  India's Nuclear Punch: Atom Bombs
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNOEl1Rmhtc1ZTdW1QbDJWVEtpVUVDUVVwNVVfSXBvcFFVbi02Rkt2U0xLSTlKSmx5aEtuN3ZSYkozSDlPSlpYRGl1MDIzY19wUEJ5U24zUDRBbkVxa1ZRUVFwMENtNUZpXzhRNVY5LTJFeGpZM0pQSlFEc1BrcEtqOGFObmpkNlhpdk5uWk1TbU52Z3FOdVJHQ2xXRDcyZGJXZjgxetIBrAFBVV95cUxPbWFualJsU0JGeWZtT3dERDgxYXNDYzVrU3E2QzFKb3lKbDFfMVU0RTFhWWdwWWFRRlRsdjBPaXVLZWl3WWIxTUZfUmFCb3l6MHktZ0QtaXBSQklGaHU3U1lwT2U5OTZIUEU3OUJya0pvOTU1ZS15d1hUQ1VOR1hIczludmR4d0ZqWDNyTmplN2IwYTJXd05PQ3N6WnBTTXRSLWJUbjdXWXhnWW5n?oc=5
 
-- India’s Cockroach movement launches new protests over changes to voter roll - The Guardian
-  India’s Cockroach movement launches new protests
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck1xSU5vMGJCWVdEMHZMM21vZ3dmZVBFV1lHcjJkUVJnMlZKczBBWU5zRDRWa0NpU01qRHk4NFlibkJuVnJWNU5pOTdxU0R3bEVZRzVnNFVyVUhYSlhqMHEwYXl2eTlSMmJLaFBxc3VNNEZsWVUydXVWdWJEWV8yeXRaaExzOWlYcW9oS3QzTjgzejBLSjZmVHFNWG1ya1U3YUpWcmhZYUw?oc=5
+- Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs - Al Jazeera
+  Modi’s India takes on Trump more
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFRuTmJIVmd3ckNSZG02cXdicGMtdndHSDV1UnFhWGNBVWJyVDR1Q21pSEk5UVdmZ2JmZXhCMXZuVlc2WURrSGlVb0NFaVl4bUxMMVZyQmdzbnVlaUJ3R0JtWHI2bE1BclZkT1dGYTRab2dVbEpUQ3BCZ3JYR1llekxzb2QyTVVSLUNSanh3aVN3T3o4bjQtQjNpRG94NkRLcjdtLWEwTTPSAa4BQVVfeXFMTWhWOHA5dkNxLXRZM2xVSVp0LUNlSHVyejcwUzR3V3NfdWZvbHZuRENhd1hER3hKWEtVbHBVVGJqRmRmai1TcGkzZDJuYnF1RFE1V2p0YWhWOEtGU1pzdUxDM21KSElxZjRyV3BMRlY5TXhVZWVzNXJKeS1hZVNWZmJFazhRSTJUQUw1TGw4eERXU196dmpzRTQ2ZDB1QWkzVFpmeFdtU2VQbElJa1JB?oc=5
 
 - Sonia Gandhi's Surprise Entry At INDIA Bloc Meet Sets Off Seating Scramble - NDTV
   Sonia Gandhi's Surprise Entry At INDIA Bl
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZOWnRicDZTN1lCZW5VYUlYN0t2bXduYVFVa2JDb19PYXhOSXNUOVNFR1prM2VoakVsXzF5aWZ1T3ZFbHk5ZUsyeHpUSXVUdmwxZ1lraUpvWjRUal9ZcWgyMUk2NnQ1R1lCY1gwdEhWbndPcGc0YURubTBvbVVGTG9TakxfVmotSWJOVnVVNkNsYzdKRElXdXRyUUR6d2pVOVFzQnNLR0FhUE1vSTZhY2FCU1bSAbwBQVVfeXFMUHRZNHUxakZPeUlNdTNYYjNJd2RWS3ZERnJPUHhOdERPMTc1Z1hIaTdrWGczemQwekMyd1JWcTR2ZlFWMlpsTkV3YkMzeFpmNTh6aHpqSDFVNno1X19TVkxSbzNaVV9xdmNzeEUzWUdSTmFJdHBqWWR0dXF0MzRHZWRnODdtNWk4dXlFb1F5MlhkMW5hNXl6cUZObUdjSXZEQlJnN2M2WkVNTDEtZVZnbmxCUDVmUF9HZkZscWY?oc=5
 
-- India summons Pak envoy to register strong protest over continued facilitation of illegal cross-border infiltration - News On AIR
-  India summons Pak envoy to register strong protest over continued facilitation of illegal cross
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRV9GeEtRQWtwRVdVcks1NDB3V1JUdXdoV2ZSZWdDMFU2S094Mjd3QWxicGplMGF3LWxrSHFwamR0aU9QVVIzbmh0NF9peEVqbnRyNnlnYWlmZGtkd2lJaHd0enc3dWgtLUhlNGZPTW43Sk0tX3BIVnBQZG1ZcEFyT2EtREZGS2hxS0p0VjRYZElWMkN4cXpqdFhRN1lPUmQzY191TEp6OEM0UjR2SWVWSDJMRmc0LVVqMnlGSVlZSWxiRk1wMDRDR3NFYnpHUGFQUkhHRTJwRFE?oc=5
+- India-backed project clears nearly 198,000 sq m of mine-contaminated land in Cambodia - The Economic Times
+  India-backed project clears nearly 198,000 sq m of
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNlVBY0RBN0JNNXdQUE9YVDNPMnJqcmE1WUdIRHRscTZWa0FYMmVyQUEyX3k0YXpsUjRRMGxQYWRscnY3OVpfZm9kUDdtNEZCVDRQc0k4akNVNXcxNUVkTnp6WXNpelMtNWF2ZFVXd0VOZkRXems0ajN3YzBoY3plb0ZEdFBZNERmRzcxRF9YLXk4MEJZOTV6SjNBZHcyUjNGRmpCMnhRdlpzUjJjY3BmNk5TemNNTWY2RktlRklUczRZcUNVb3pDUWE3aXd4VThaZFEzZk9CcU5JYTFOLWhhTzNwbWtyM09SSU13WDVDZ9IB6AFBVV95cUxOU3JvdnZ3UWhHWXI0d1NGUVlSdlh0UnNNLXp2RnJoVTFHOWs1eWZHdm9lQW1qU1owSEE4amZDWG1jcHpDVzI5WU1HZlg0Z0pwcGlWRFhhd3Yxdl8yM1Z2bXEtYW1mWmt3VFdqTVpsNHJldGo3UEpEb05SYS1CVHRvM3BDWlp6NkhFMG5Cb2wweVJmWnlJYnA0b1BwVUktLWpLZkJxWlRmak0tLUk4b2NTUlMxTElETzRfTWtxQm1idHdKcUFXNUNvWlRNdzFLWW5LbUtOLXh0QnBCMGN4QjMtSHNDUzZkOEgw?oc=5
+
+- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
+  Asian Games 2026 Conclude in Nagoya; India Fin
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
+
+- India's Nuclear Punch: Atom Bombs Backed By Long-Range Missiles - NDTV
+  India's Nuclear Punch: Atom Bombs
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNOEl1Rmhtc1ZTdW1QbDJWVEtpVUVDUVVwNVVfSXBvcFFVbi02Rkt2U0xLSTlKSmx5aEtuN3ZSYkozSDlPSlpYRGl1MDIzY19wUEJ5U24zUDRBbkVxa1ZRUVFwMENtNUZpXzhRNVY5LTJFeGpZM0pQSlFEc1BrcEtqOGFObmpkNlhpdk5uWk1TbU52Z3FOdVJHQ2xXRDcyZGJXZjgxetIBrAFBVV95cUxPbWFualJsU0JGeWZtT3dERDgxYXNDYzVrU3E2QzFKb3lKbDFfMVU0RTFhWWdwWWFRRlRsdjBPaXVLZWl3WWIxTUZfUmFCb3l6MHktZ0QtaXBSQklGaHU3U1lwT2U5OTZIUEU3OUJya0pvOTU1ZS15d1hUQ1VOR1hIczludmR4d0ZqWDNyTmplN2IwYTJXd05PQ3N6WnBTTXRSLWJUbjdXWXhnWW5n?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-04 03:54:16 UTC_
+_Last updated: 2026-10-04 11:44:25 UTC_
