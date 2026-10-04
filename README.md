@@ -1,5 +1,45 @@
 # 📰 Daily News Summaries
 
+- Indian police accused of sexual harassment against journalists at protest - bbc.com
+  Indian police accused of sexual harassment against journalists
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vS2lXaUpqQXlka2VobFBfQjI5REVCQmx6RDJURHJ4dVdfR1lfaUxkRTJhVEdHVEsyNlJ3U1ZnOVNVNmplLVZYXzlGMzRwa3c0OTRmZlVKVlJzOEk?oc=5
+
+- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - dw.com
+  India news: Police order probe amid sexual harassment allegations against officers
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFIzSEg3am12MXFkN3hVbDZQUWgxVlRqNXE4aU9qS2dWeFNlTDUwTl9idl82VHI3Ml91aWlxT0QyMENGdlh2TEQzcm5FTXdwLUNLbjFsMlowb2tVRkdxVmQydXVHUlVDb3hiSFNHNGV0ZU4zOGV0WVhPRHhlTEJLa0J3YXdJejhUMTR4ZWp4TFNFbFNTeGFmQ1A0WXA3Y0NhakRjSHl0Y2pvSTNRamIydTVmdVlwTU40d0pfLXp4UnZwbzVRWHY1dzkxM3BXLXM?oc=5
+
+- INDIA bloc to protest outside CEO’s office on Wednesday - The Hindu
+  India bloc to protest outside CEO's office
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3VtUXNTVGd3YnNyNlFFUW1oSmNqcUswTTRtSldFbWVLWnBpNUxFRlpzQ0U1Y0o4dlZiNHhXeWp3aThTZzhWdDJublpmMUZjUTRPbmE2MnZhbDNlc0RIS0FFMWN0d2JVVGpnV0VockNZMjNwRmJpVFplZWg3Q2d0dW1hWXdYV2FlUlp3U1Y5Y2s3emtscDBlNkxIb2lPanozWXZIb29oZE5XVU50TmVnN0o5dnB5UUNQ0gG_AUFVX3lxTE5EQkloSGdQMDBpVkk1cTZCZG5lQ2QwbENsM3J2Y0trYUQzaDQzREFVd1RLN0RYVy1HLVFJbWNiWDZCYVZLWTZQTWlDTTRIY2k0NTNpMlhrV2FrTXY4WkdOWEZVRHE3eldBdU5UdU1PdmRHNnN3LWxGM0lXcTFtZDA2ckIwTTlGWjNvN1lIQllnVk5TTFZVN3BBR2VkRnF2Q3NkOUVsUmtKZHVodnNOT25lRV92VDNPeVlzQV9NN0VV?oc=5
+
+- 'Strikes At Heart Of Constitution': Top Court Judge On Mass Deletion Of Voters - NDTV
+  'Strikes At Heart Of Constitution': Top Court Judge
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMkg2c0c1SkpGVTJNMDhNRTVDRUlFYS1pZFljelFlNmpIX19XMzFYQjB4V0J3WklQUVhOd2V4cVpDbDFjLVVkMVhNZFdEMXFjR2FXTEh3U2owZGJqbDBqbkhFbW1BR29VLUpTTDBjb1dNdFpSSHV1bmVkanZnaHdVcnJPOXhIQWF6QlBJZXRvaG9CMDUzUC1QRWtJcUxkYm10cVplOFBoQXIzSHROTkNxU1FXbkZCaUdNOHhHa2RFNldaanhFdGxDam1ib3FyQ0hBQUxxbFFjb29KTTlsb2Ywazg3UEdFRkh0dVdlNdIB9AFBVV95cUxOQ29uMDUxMzY3WjFJbEtOaS1ZcjZhSE56bXhmS0F1a1R4LU83dzRydVZkSWRlUVBlZ3hQb2tQM2dncVMzR1pYSHRvMzJaLWduUmtjQXB6MzlBTlVGY0tJX0NPWmgza2VwV0tPVTNaVEViMHBvaUt0aTdWNzY4UXJZRFNfak5PMWE1dFNUVi1aQThKaExxT3RSZ19ySkdPbTdRRUY0NV9rdllSNVpoUEFRUi1JMzFaakIzY3doN1g1c0lqQS1nUE9Zd3Q3ckxIOEdvVzlFT2R5TmRseGZLSlByS0JkZHJjQ0hQZ19wcEVNT3JKZ1Vv?oc=5
+
+- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
+  Asian Games 2026 Conclude in Nagoya; India Fin
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
+
+- I Quit OpenAI Because Its Culture Is Broken - The Atlantic
+  I Quit OpenAI Because Its Culture
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5
+
+- Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy - Reuters
+  Ukraine believes Russia shared jet-drone technology
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5
+
+- The AI industry is booming. Women are getting left behind - The Guardian
+  The AI industry is booming. Women are getting
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOejNZa0EtcE1VWVdTcnFEc3RzanFlaExaNVVHZEtUSkdLRWRiaVNDdmIxZWZRQWhKZHk4SklyLUtGZngtMGp0N1ZURXBMdmZCZnNOTGU3VkE4Q05yQ1gzel9CRkFYd1h0WmF1WWEwVnVkcVYwN2pzR3FUNWJseVQ5Rw?oc=5
+
+- Don’t be fooled—LLMs don’t reason - MIT Technology Review
+  Don't be fooled—
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMdIBkgFBVV95cUxOcmZ3aHQyTV9vS2Vld2t6UkkzdS16UkZGWGJvZkEzdVZQRFdtS29RVnEtVFNueFo0cHpVM19MQUltUWdoWFRWWEh0RlpFLVFqb3kxb0ZBUkVYcU5aa0dVZlMxNUdFb0lVRlJWSDhoWnozWHFvaTZTNXY4d3F0UHpfbUowaVdpSFFDbm0xc3JCYkRTdw?oc=5
+
+- Exclusive | New AI Czar Unveils Goals, Members of White House Task Force - WSJ
+  The White House announced a new Artificial Intelligence Czar on
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5
+
 - Cinepolis adds four more screens in Faridabad as its big-screen expansion continues across Delhi-NCR
   Cinepolis India has opened a four-screen multiplex at Amolik’s City Life Mall in Faridabad. The move
   🔗 https://www.livemint.com/companies/news/cinepolis-adds-four-more-screens-in-faridabad-as-its-big-screen-expansion-continues-across-delhincr-11791122362351.html
@@ -64,21 +104,21 @@
   Meet the Gen-Z High Roll
   🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5ELWZ1SHVfTHFSUVVSdnJWVUdCSHJ1YWZpbnNFUEJfdERSSXdGSDJaZzVkQzBXaW9JWXU1OTlMcU1wMkhjT0pTWk5QLWdNcWRtZk0tbmhNZFRGcnM2QkJoZ0o4cVlEdjlaS0xyeEZDaEFDWHYybGp4VDFpSQ?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq rally as Fed rate-hike expectations fade, tech gains - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq rally as
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTW4zeUoxak9vX3NlMFVEZWE1U2ZxZFE4VUFRX1FTRWI2T004aUZWZWw2b0FnZlJUTnZ1UEtpeVNfczhIaS1FcElOUVJxb2tRSWFyd3Y0U0xJMjgzMW1YUlplQ09nemhSaHhPMy1WdDVnZFpZbkMycEpYN1hYLXNybkxfR1pIRU85VENnSlRnNllSQ3pUX090d2lkR3gxcVAxdk81ZGRHT05LSk9CRUJBbE9WRTJHcW91UDVySWZyMkRvMG9VaFZxbA?oc=5
-
-- Trade Setup for October 5: Top 15 things to know before the opening bell - Moneycontrol.com
-  The top 15 things to know before the opening bell.
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEFxcTdoaFJvLW80SkF6ZU40ZG1sSXlLSmxaR0JkdVlwdml6Mkl1ZTFybWtMWkJmbjlfLUxfdlItX1lUTWNBekxFSkwyQTdEM3RqQk96QW9wQTdyMVlKeVMydGp2ZFdKaTZzeHVWRGc3aDdkb3cyQ1Etb3hJODF3RXZNS2YxM29KVkJwcG16MmM4RGtUZWdtQ3BOc1pkNHdGa2UzV1VFenMzdlNmeXBadnEwblVKdWI4bkdCekpVRnEwYUdaWXdnRTZxRWk1YkVTOFHSAdcBQVVfeXFMTndPM2QwRmhtZmN4OEM2ZW1Gc2pMSGN6UGpGUzNsQXVZQmd5WWI0a09pZmNBS255aXo2eExrV1VMU2JtUjd2MVg4VTRwT3dLNEczVHF0SEV4YjdZR2JVcU1fYV93ZnJxNkxyeGtCQnBGSjJkTXNkMGtzYnctWkVwSEZKcV9oLTBxYkctbjJldEFZYmQ0bmJPSUllVEY3SzR5ZFQwR1FPSFlmZGd2UEtZdkdUMDJLTVl3MFJUYjBSVTZaUG51Y1Y1N1hfXzJRTjVKUlRlQWRwTWM?oc=5
-
 - Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
   Ahead of Market: 10 things that will decide stock market action
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQak5mZHZ6UzdxbXl1MXpQeTFKSlBRYmExbUxfaHB0aDZ1TlFjTkxVMGVBU3cySGhtQ1JGcTY2MF84V0RmNnhwa1NYU3l0RlR3OU9VY3o3Z213VjhBWkd1emJ3RGl2emRsOXNQRE1UZUptbnkxeWJzZWxKbkNKMzhndmp1bTBHN0FvdFByYlBGQ3AwbUlBajdKbWZ6dGw1T1hPY1lrck0xQ1VETVZ2YUdObzFqT000WFZjaTJUNk1zaXpqdTVkaFh6NGtiQnZiQmR4V1JrcGd3MHlEaExoWjFj0gHkAUFVX3lxTE1JWWZ0Wm85MWdOcjR5TjBqQ1djQUdTSllCTkxjRngxRGQ1cW9aVjFhUENtMnpocEI4R25Rcjk2QkdLbkNXOTNRTkNEWDczNmFoc2xkTlhJalFkZkt1RGNDa3BOTGxvQUZ0QzhoUVJoZGhUaThNOVJPQmxkb1RXV2dyQ0NJZ1RDYThwMnd4Nnk1QUd2b29aLUVSX0RkUVhWcjFrYWJRakgyN0hBakpNdklLUWxDVDhZV3B3bWJ1a0pGWTYwNnZYNnJfMWZuWHJrOUZWSEpETU9MS2hvTzUzRlpwVzZXYw?oc=5
 
+- What to Expect in Markets This Week: Investors Prep for Earnings Season; Delta, Pepsi Report - Investopedia
+  What to Expect in Markets This Week: Investors Prep for Earnings
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOR08tUDI0VlVFa2ZGRW1WZmhXUFFDNmlNWHIzR2Rfa3hLVDUxSHVzeVNZalFhdmJFdDJOZzFOLXJrX0gwVG9IekFiN2pxeUJ3aE9Lb0ttNDA5MUp5N2VZMTllc0duZmtXME1HdC1TQ2prZTVQTk9RaHM2d0l0dXNITzJ6UTlpM0o5QzMzaXAxVmJ3dlN4ZWt3dExzbEdobXByZ0lOcEgyUVBSb2FMMGtEbENwaU9JbnNuZDI1UVJfY2lISElPUXc?oc=5
+
 - Eight-week losing streak : RBI rate hike, crude prices and TCS results to test markets - Telegraph India
   " target="_blank">Eight-week losing streak : RBI
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSXE3T0Vkd01QQnZnRjVBbzRMOTVidklBMUtHaC1Ja0RQcXM1THNoSkRFMjg5SGlUYTFCOS1FOEZUYzNUdzdDZGxLQnM5QWc1Q0tyUEtXemNnblVLVWNoSEJWX21uSXNPbzVxbi1VX0lZWmhuSHJjWC0yY2NOSjhUNE1WX0F4NXlXOERvdWItNTRpdWdDSEtwbFItYXltLVlxYVNfaTlIZXRUM2JrZC1maS1lU2IzTnJrTl9OT1FpLUNaUkpPOEJwZjBNdnBrbkY00gHWAUFVX3lxTE1aLUluN2Y5bHJzWDgzOHUyMUMtaDlSMk04NzNyQnhnbkVQM0hFSHNaWElxVjU1Ti1NYVB1RlhlZkxjSm9iTTJTOU1IVUNnbGo5NExoT1pRVGNPT0FwdTlHZGM2S0J2MklVT3MzMWx0LTgtX045NnNsc0hOSmM0bmN5QWdjYUpjRkZ0cFBhbU16U3lLaFZ1S0I5QURob1NHYUpCU21OYzQ3cnBhQW1uSmNLNTllUFp6cmFhbEl1SFVHcHdyQTBHUlBjVkZWNlRLWTRWSFdscEE?oc=5
+
+- Dalal Street Week Ahead: RBI policy, Q2 earnings, FOMC minutes, bond yields, oil prices among 10 key... - Moneycontrol.com
+  Dalal Street Week Ahead: RBI policy, Q2 earnings, F
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYXVfbl9mQWJHZU5BWVlkcXJpRnRtRUc5UHdrYV9ITGkyLUxjV0s5cHFCalIxSjNlTElyVURrR0RQVVQzSXFRRjVLZE1BdmRBUGk0LWh3R1JfaVJHc2pScHA4VU9oVWUxcUEwQm0zRXhmc2lFUk5pOW0wUjlPMXItX3FOaFpoNHdsR2wyY1N4QzltM3Q4YmFXbklTMHVSS19MNXR2Wi1SWUFCWUZFaVVvUGFvLWUxX011cWFwWHpoajZwYy1FallPMVNGM29UVGVUVnBLR2lRRjdLTlBObUF6ZVF2TFJRMGxBNmYyQ0lmU3hJNFc5UlM5Ujl6RTlCamd1bDc0X0gzZnPSAY4CQVVfeXFMTUFsS2NUMGN0VXVjTjFYVHJBcGNZenhJLURIYmZqTnQ1Q1Nabmp5eFFVYmM0ako3dk5YQU9vNnhpNmtZaFhZaW4zM01rYUI4TEFTQi1JV0hWSUo2bU1SbVF2TmxBazN0OHZUc3FRUG91UUs5SER2TXpSVHdsT0Z2ODlvemdXMWwzYU1XR2RKZ2VIblZQaXJRMWNGNmluREpIal9fTG83MXNpbUY0ZVc4U1ktWjhYamNjeXV6anMtT1RxWWNENTl5UnJxU2tIeXJkeVBaY1c0TDluRnFKamgtRmV3c0UzeVdzZzJ1MUtEQzh6bmllTTZXT1UwLXZMYWlLay02SnI3QVl2ZWhXMHV3?oc=5
 
 - Ahead of Market: 10 things that will decide stock market action on Monday
   Sensex and Nifty extended losses for a fourth session as heavy FII selling, surging bond yields and elevated crude prices rattled investors. The selloff erased Rs 5 lakh crore
@@ -120,33 +160,65 @@
   New-age tech stocks remained under pressure this week, with 47 stocks declining. benchmark indices recorded their eighth consecutive weekly decline.
   🔗 https://inc42.com/buzz/new-age-tech-stocks-extend-slide-turtlemint-slumps-another-20-this-week/
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Indian police accused of sexual harassment against journalists at protest - bbc.com
+  Indian police accused of sexual harassment against journalists
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vS2lXaUpqQXlka2VobFBfQjI5REVCQmx6RDJURHJ4dVdfR1lfaUxkRTJhVEdHVEsyNlJ3U1ZnOVNVNmplLVZYXzlGMzRwa3c0OTRmZlVKVlJzOEk?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - dw.com
+  India news: Police order probe amid sexual harassment allegations against officers
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFIzSEg3am12MXFkN3hVbDZQUWgxVlRqNXE4aU9qS2dWeFNlTDUwTl9idl82VHI3Ml91aWlxT0QyMENGdlh2TEQzcm5FTXdwLUNLbjFsMlowb2tVRkdxVmQydXVHUlVDb3hiSFNHNGV0ZU4zOGV0WVhPRHhlTEJLa0J3YXdJejhUMTR4ZWp4TFNFbFNTeGFmQ1A0WXA3Y0NhakRjSHl0Y2pvSTNRamIydTVmdVlwTU40d0pfLXp4UnZwbzVRWHY1dzkxM3BXLXM?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- INDIA bloc to protest outside CEO’s office on Wednesday - The Hindu
+  India bloc to protest outside CEO's office
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3VtUXNTVGd3YnNyNlFFUW1oSmNqcUswTTRtSldFbWVLWnBpNUxFRlpzQ0U1Y0o4dlZiNHhXeWp3aThTZzhWdDJublpmMUZjUTRPbmE2MnZhbDNlc0RIS0FFMWN0d2JVVGpnV0VockNZMjNwRmJpVFplZWg3Q2d0dW1hWXdYV2FlUlp3U1Y5Y2s3emtscDBlNkxIb2lPanozWXZIb29oZE5XVU50TmVnN0o5dnB5UUNQ0gG_AUFVX3lxTE5EQkloSGdQMDBpVkk1cTZCZG5lQ2QwbENsM3J2Y0trYUQzaDQzREFVd1RLN0RYVy1HLVFJbWNiWDZCYVZLWTZQTWlDTTRIY2k0NTNpMlhrV2FrTXY4WkdOWEZVRHE3eldBdU5UdU1PdmRHNnN3LWxGM0lXcTFtZDA2ckIwTTlGWjNvN1lIQllnVk5TTFZVN3BBR2VkRnF2Q3NkOUVsUmtKZHVodnNOT25lRV92VDNPeVlzQV9NN0VV?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- 'Strikes At Heart Of Constitution': Top Court Judge On Mass Deletion Of Voters - NDTV
+  'Strikes At Heart Of Constitution': Top Court Judge
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMkg2c0c1SkpGVTJNMDhNRTVDRUlFYS1pZFljelFlNmpIX19XMzFYQjB4V0J3WklQUVhOd2V4cVpDbDFjLVVkMVhNZFdEMXFjR2FXTEh3U2owZGJqbDBqbkhFbW1BR29VLUpTTDBjb1dNdFpSSHV1bmVkanZnaHdVcnJPOXhIQWF6QlBJZXRvaG9CMDUzUC1QRWtJcUxkYm10cVplOFBoQXIzSHROTkNxU1FXbkZCaUdNOHhHa2RFNldaanhFdGxDam1ib3FyQ0hBQUxxbFFjb29KTTlsb2Ywazg3UEdFRkh0dVdlNdIB9AFBVV95cUxOQ29uMDUxMzY3WjFJbEtOaS1ZcjZhSE56bXhmS0F1a1R4LU83dzRydVZkSWRlUVBlZ3hQb2tQM2dncVMzR1pYSHRvMzJaLWduUmtjQXB6MzlBTlVGY0tJX0NPWmgza2VwV0tPVTNaVEViMHBvaUt0aTdWNzY4UXJZRFNfak5PMWE1dFNUVi1aQThKaExxT3RSZ19ySkdPbTdRRUY0NV9rdllSNVpoUEFRUi1JMzFaakIzY3doN1g1c0lqQS1nUE9Zd3Q3ckxIOEdvVzlFT2R5TmRseGZLSlByS0JkZHJjQ0hQZ19wcEVNT3JKZ1Vv?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
+  Asian Games 2026 Conclude in Nagoya; India Fin
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Indian police accused of sexual harassment against journalists at protest - bbc.com
+  Indian police accused of sexual harassment against journalists
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vS2lXaUpqQXlka2VobFBfQjI5REVCQmx6RDJURHJ4dVdfR1lfaUxkRTJhVEdHVEsyNlJ3U1ZnOVNVNmplLVZYXzlGMzRwa3c0OTRmZlVKVlJzOEk?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - dw.com
+  India news: Police order probe amid sexual harassment allegations against officers
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFIzSEg3am12MXFkN3hVbDZQUWgxVlRqNXE4aU9qS2dWeFNlTDUwTl9idl82VHI3Ml91aWlxT0QyMENGdlh2TEQzcm5FTXdwLUNLbjFsMlowb2tVRkdxVmQydXVHUlVDb3hiSFNHNGV0ZU4zOGV0WVhPRHhlTEJLa0J3YXdJejhUMTR4ZWp4TFNFbFNTeGFmQ1A0WXA3Y0NhakRjSHl0Y2pvSTNRamIydTVmdVlwTU40d0pfLXp4UnZwbzVRWHY1dzkxM3BXLXM?oc=5
+
+- INDIA bloc to protest outside CEO’s office on Wednesday - The Hindu
+  India bloc to protest outside CEO's office
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3VtUXNTVGd3YnNyNlFFUW1oSmNqcUswTTRtSldFbWVLWnBpNUxFRlpzQ0U1Y0o4dlZiNHhXeWp3aThTZzhWdDJublpmMUZjUTRPbmE2MnZhbDNlc0RIS0FFMWN0d2JVVGpnV0VockNZMjNwRmJpVFplZWg3Q2d0dW1hWXdYV2FlUlp3U1Y5Y2s3emtscDBlNkxIb2lPanozWXZIb29oZE5XVU50TmVnN0o5dnB5UUNQ0gG_AUFVX3lxTE5EQkloSGdQMDBpVkk1cTZCZG5lQ2QwbENsM3J2Y0trYUQzaDQzREFVd1RLN0RYVy1HLVFJbWNiWDZCYVZLWTZQTWlDTTRIY2k0NTNpMlhrV2FrTXY4WkdOWEZVRHE3eldBdU5UdU1PdmRHNnN3LWxGM0lXcTFtZDA2ckIwTTlGWjNvN1lIQllnVk5TTFZVN3BBR2VkRnF2Q3NkOUVsUmtKZHVodnNOT25lRV92VDNPeVlzQV9NN0VV?oc=5
+
+- 'Strikes At Heart Of Constitution': Top Court Judge On Mass Deletion Of Voters - NDTV
+  'Strikes At Heart Of Constitution': Top Court Judge
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMkg2c0c1SkpGVTJNMDhNRTVDRUlFYS1pZFljelFlNmpIX19XMzFYQjB4V0J3WklQUVhOd2V4cVpDbDFjLVVkMVhNZFdEMXFjR2FXTEh3U2owZGJqbDBqbkhFbW1BR29VLUpTTDBjb1dNdFpSSHV1bmVkanZnaHdVcnJPOXhIQWF6QlBJZXRvaG9CMDUzUC1QRWtJcUxkYm10cVplOFBoQXIzSHROTkNxU1FXbkZCaUdNOHhHa2RFNldaanhFdGxDam1ib3FyQ0hBQUxxbFFjb29KTTlsb2Ywazg3UEdFRkh0dVdlNdIB9AFBVV95cUxOQ29uMDUxMzY3WjFJbEtOaS1ZcjZhSE56bXhmS0F1a1R4LU83dzRydVZkSWRlUVBlZ3hQb2tQM2dncVMzR1pYSHRvMzJaLWduUmtjQXB6MzlBTlVGY0tJX0NPWmgza2VwV0tPVTNaVEViMHBvaUt0aTdWNzY4UXJZRFNfak5PMWE1dFNUVi1aQThKaExxT3RSZ19ySkdPbTdRRUY0NV9rdllSNVpoUEFRUi1JMzFaakIzY3doN1g1c0lqQS1nUE9Zd3Q3ckxIOEdvVzlFT2R5TmRseGZLSlByS0JkZHJjQ0hQZ19wcEVNT3JKZ1Vv?oc=5
+
+- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
+  Asian Games 2026 Conclude in Nagoya; India Fin
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
+
+- Indian police accused of sexual harassment against journalists at protest - bbc.com
+  Indian police accused of sexual harassment against journalists
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vS2lXaUpqQXlka2VobFBfQjI5REVCQmx6RDJURHJ4dVdfR1lfaUxkRTJhVEdHVEsyNlJ3U1ZnOVNVNmplLVZYXzlGMzRwa3c0OTRmZlVKVlJzOEk?oc=5
+
+- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - dw.com
+  India news: Police order probe amid sexual harassment allegations against officers
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFIzSEg3am12MXFkN3hVbDZQUWgxVlRqNXE4aU9qS2dWeFNlTDUwTl9idl82VHI3Ml91aWlxT0QyMENGdlh2TEQzcm5FTXdwLUNLbjFsMlowb2tVRkdxVmQydXVHUlVDb3hiSFNHNGV0ZU4zOGV0WVhPRHhlTEJLa0J3YXdJejhUMTR4ZWp4TFNFbFNTeGFmQ1A0WXA3Y0NhakRjSHl0Y2pvSTNRamIydTVmdVlwTU40d0pfLXp4UnZwbzVRWHY1dzkxM3BXLXM?oc=5
+
+- INDIA bloc to protest outside CEO’s office on Wednesday - The Hindu
+  India bloc to protest outside CEO's office
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3VtUXNTVGd3YnNyNlFFUW1oSmNqcUswTTRtSldFbWVLWnBpNUxFRlpzQ0U1Y0o4dlZiNHhXeWp3aThTZzhWdDJublpmMUZjUTRPbmE2MnZhbDNlc0RIS0FFMWN0d2JVVGpnV0VockNZMjNwRmJpVFplZWg3Q2d0dW1hWXdYV2FlUlp3U1Y5Y2s3emtscDBlNkxIb2lPanozWXZIb29oZE5XVU50TmVnN0o5dnB5UUNQ0gG_AUFVX3lxTE5EQkloSGdQMDBpVkk1cTZCZG5lQ2QwbENsM3J2Y0trYUQzaDQzREFVd1RLN0RYVy1HLVFJbWNiWDZCYVZLWTZQTWlDTTRIY2k0NTNpMlhrV2FrTXY4WkdOWEZVRHE3eldBdU5UdU1PdmRHNnN3LWxGM0lXcTFtZDA2ckIwTTlGWjNvN1lIQllnVk5TTFZVN3BBR2VkRnF2Q3NkOUVsUmtKZHVodnNOT25lRV92VDNPeVlzQV9NN0VV?oc=5
+
+- 'Strikes At Heart Of Constitution': Top Court Judge On Mass Deletion Of Voters - NDTV
+  'Strikes At Heart Of Constitution': Top Court Judge
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMkg2c0c1SkpGVTJNMDhNRTVDRUlFYS1pZFljelFlNmpIX19XMzFYQjB4V0J3WklQUVhOd2V4cVpDbDFjLVVkMVhNZFdEMXFjR2FXTEh3U2owZGJqbDBqbkhFbW1BR29VLUpTTDBjb1dNdFpSSHV1bmVkanZnaHdVcnJPOXhIQWF6QlBJZXRvaG9CMDUzUC1QRWtJcUxkYm10cVplOFBoQXIzSHROTkNxU1FXbkZCaUdNOHhHa2RFNldaanhFdGxDam1ib3FyQ0hBQUxxbFFjb29KTTlsb2Ywazg3UEdFRkh0dVdlNdIB9AFBVV95cUxOQ29uMDUxMzY3WjFJbEtOaS1ZcjZhSE56bXhmS0F1a1R4LU83dzRydVZkSWRlUVBlZ3hQb2tQM2dncVMzR1pYSHRvMzJaLWduUmtjQXB6MzlBTlVGY0tJX0NPWmgza2VwV0tPVTNaVEViMHBvaUt0aTdWNzY4UXJZRFNfak5PMWE1dFNUVi1aQThKaExxT3RSZ19ySkdPbTdRRUY0NV9rdllSNVpoUEFRUi1JMzFaakIzY3doN1g1c0lqQS1nUE9Zd3Q3ckxIOEdvVzlFT2R5TmRseGZLSlByS0JkZHJjQ0hQZ19wcEVNT3JKZ1Vv?oc=5
+
+- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
+  Asian Games 2026 Conclude in Nagoya; India Fin
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
 
 
-_Last updated: 2026-10-04 16:22:09 UTC_
+_Last updated: 2026-10-04 20:50:38 UTC_
