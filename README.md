@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Indian police accused of sexual harassment against journalists at protest - bbc.com
-  Indian police accused of sexual harassment against journalists
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vS2lXaUpqQXlka2VobFBfQjI5REVCQmx6RDJURHJ4dVdfR1lfaUxkRTJhVEdHVEsyNlJ3U1ZnOVNVNmplLVZYXzlGMzRwa3c0OTRmZlVKVlJzOEk?oc=5
+- Mass protests demanding poll chief resignation shake India for third day - Al Jazeera
+  Mass protests demanding poll chief resignation shake India for third
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJwd2dSZzU5TnpqWU1pVUY1MFlPZC1FTHZzWVhVaG5aWDJmSml6VXVWbkFGb3JrWUNmWlJfUFF5T2ZLTGtISWFNc19rRFRUQ2VNeHNGU0NlbmpsaHNPUEwzSGc2RFdiZE5kQmNOWXBGcl9PRGtPTlNqZ29GU0RTSDZnQzFLc3Fralk1OHR0VzQ1WTY3dTlZT0hDRmdsQ3RYMlNTanBTT0NuTUJnSW9CNGszd9IBuAFBVV95cUxNRWRzR0ROUEVoYzlqOUlOaUptMG93QzVTQW9nbTFjbFI3eGIwNl9pNEhjUG0ta253YVc1MUpHRDIzWmhNQmhvOUREbFZHcUJtem96am5SaDg1OU4xR3hVaklZeU1vOW1wX29USUNySkMyeDFMcDFWaWF4blpwUTlaUVNreGhWZ1hlbXRGVUVqVnNGLUYtZXg0RDFjYTZ6VXIzUDE2dTEtWDdGVGxhcHZCaGd6bkxiS3Fv?oc=5
 
-- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - dw.com
+- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - DW.com
   India news: Police order probe amid sexual harassment allegations against officers
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFIzSEg3am12MXFkN3hVbDZQUWgxVlRqNXE4aU9qS2dWeFNlTDUwTl9idl82VHI3Ml91aWlxT0QyMENGdlh2TEQzcm5FTXdwLUNLbjFsMlowb2tVRkdxVmQydXVHUlVDb3hiSFNHNGV0ZU4zOGV0WVhPRHhlTEJLa0J3YXdJejhUMTR4ZWp4TFNFbFNTeGFmQ1A0WXA3Y0NhakRjSHl0Y2pvSTNRamIydTVmdVlwTU40d0pfLXp4UnZwbzVRWHY1dzkxM3BXLXM?oc=5
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGczVlZIQ29wWWlFSTJ6VVc1RDV5bS05cmNEYUNDNW4xdFRBYWtpVEtKZWZWSk5uV0JtdmNqS1p2S0RzQ2FIXzU0ZzF5YjBPVDZRanU4QnJrak1mV2JRY2Vfb0k5eXdNb2lNZUpXdnhIc29TeWRzOFd4U3ZZUUR1VlkyYWNWaV9VanZyR25BVkRtb3RoYkxDREViOHlSY1lvMndwQl9Lc01DeG02NHF2VE1SSTZDdFhkTDAtSGtyakRvR2JFc0FKaTl3UXFSSFVISzdZLS1HYnlJc3c?oc=5
 
-- INDIA bloc to protest outside CEO’s office on Wednesday - The Hindu
-  India bloc to protest outside CEO's office
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3VtUXNTVGd3YnNyNlFFUW1oSmNqcUswTTRtSldFbWVLWnBpNUxFRlpzQ0U1Y0o4dlZiNHhXeWp3aThTZzhWdDJublpmMUZjUTRPbmE2MnZhbDNlc0RIS0FFMWN0d2JVVGpnV0VockNZMjNwRmJpVFplZWg3Q2d0dW1hWXdYV2FlUlp3U1Y5Y2s3emtscDBlNkxIb2lPanozWXZIb29oZE5XVU50TmVnN0o5dnB5UUNQ0gG_AUFVX3lxTE5EQkloSGdQMDBpVkk1cTZCZG5lQ2QwbENsM3J2Y0trYUQzaDQzREFVd1RLN0RYVy1HLVFJbWNiWDZCYVZLWTZQTWlDTTRIY2k0NTNpMlhrV2FrTXY4WkdOWEZVRHE3eldBdU5UdU1PdmRHNnN3LWxGM0lXcTFtZDA2ckIwTTlGWjNvN1lIQllnVk5TTFZVN3BBR2VkRnF2Q3NkOUVsUmtKZHVodnNOT25lRV92VDNPeVlzQV9NN0VV?oc=5
+- Protests intensify in India over demands for election chief to quit - reuters.com
+  Protests intensify in India over demands for election
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR?oc=5
 
-- 'Strikes At Heart Of Constitution': Top Court Judge On Mass Deletion Of Voters - NDTV
-  'Strikes At Heart Of Constitution': Top Court Judge
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMkg2c0c1SkpGVTJNMDhNRTVDRUlFYS1pZFljelFlNmpIX19XMzFYQjB4V0J3WklQUVhOd2V4cVpDbDFjLVVkMVhNZFdEMXFjR2FXTEh3U2owZGJqbDBqbkhFbW1BR29VLUpTTDBjb1dNdFpSSHV1bmVkanZnaHdVcnJPOXhIQWF6QlBJZXRvaG9CMDUzUC1QRWtJcUxkYm10cVplOFBoQXIzSHROTkNxU1FXbkZCaUdNOHhHa2RFNldaanhFdGxDam1ib3FyQ0hBQUxxbFFjb29KTTlsb2Ywazg3UEdFRkh0dVdlNdIB9AFBVV95cUxOQ29uMDUxMzY3WjFJbEtOaS1ZcjZhSE56bXhmS0F1a1R4LU83dzRydVZkSWRlUVBlZ3hQb2tQM2dncVMzR1pYSHRvMzJaLWduUmtjQXB6MzlBTlVGY0tJX0NPWmgza2VwV0tPVTNaVEViMHBvaUt0aTdWNzY4UXJZRFNfak5PMWE1dFNUVi1aQThKaExxT3RSZ19ySkdPbTdRRUY0NV9rdllSNVpoUEFRUi1JMzFaakIzY3doN1g1c0lqQS1nUE9Zd3Q3ckxIOEdvVzlFT2R5TmRseGZLSlByS0JkZHJjQ0hQZ19wcEVNT3JKZ1Vv?oc=5
+- Canon in talks with those engaged in key chip projects in India, plans local service centres - electronics.economictimes.indiatimes.com
+  Canon in talks with those engaged in key chip projects in India.
+  🔗 https://news.google.com/rss/articles/CBMiugJBVV95cUxPQmdfMS1Ob1poMFNTaDZ3TjU4c1NwTDhSNmRua0poUkJRRHBtd0NjX0Z0QWhVbjA0c3U2MWxjckRnMlRlMDRSX0R1dTRTNjNnallKY3EwWklPTm9RTDg0LS1UOElYZDJQVnFiQnFJejhSUVd5NklRYlM5ai1lQ2t1MDlvczdKX0FwaHVWUENLTUpxcWFlak9LRDVBZUdPMGZKcUhoWXFtQTNaa2pmdG9EWlFDVnpxYTktZ1JoaUhLRzRlZzVNRXZpS0F1SEs4R2otWGxTSUtYejJkYXVSUjJreUludThuTUFNUDc5Y1N5SXhKbTRuWDZXbU9LWXFPNkk0UGZ6UGZ1VGptNnVEM1ZMWlZ6dWJOeGZxaDJqWEJQZnREdkx1UEJaRjR2dU9TRVN6WGxMNFNnQ2M0Z9IBiAJBVV95cUxPQkJxUWtrV3JYenE5Q2FiNnhIRGJWY3VoblBOZjhrSjVydkVISlpaVGl4cUFQZlJRa2Y5b3ZodC1xeVdVcnJJd3hKTFhmZm1WUjZ4MmwyWF9pSThCZWRPejQ5bS1yb0k1UnhycW9sQ1RkVk51MGVfM2dkaU1sTGd5cHYyMEFQRUE4NjcyV3N3Qm9jNmtiMmFWNkVnMTdqd1NyN3dhNWw5RVRZZk1zY0RYX3VzVjlWUVRXdlJSRDBIUHVkdU91OVM2TTZiUGRvWTNNa3JySzl3VENxR0RKSDRtdC03ZVZjRFlmb1lzc2ZiTFlCMGhiekVOVV9uWlo4Wk5FWHhzb2JZZ1c?oc=5
 
-- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
-  Asian Games 2026 Conclude in Nagoya; India Fin
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
+- Indian Economy Is Growing Fast. Why Aren't Stock Market Returns Keeping Up? - NDTV
+  Indian economy is growing fast. Why aren't stock
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUJtb0NqSkp5blAxWVdXTmpWWUNCb0k4dG55U290NWs5RVZXVkNqTXMtbE54X2oxNmZfLVcydk5vSUVhaTkxZFJQTkNMTlE4ZVJTWGdaMGVEZnVReFlZZU1QSF9QdzdqTFg5aGZWRnNXXzc4eU9uZ3lENk0teEF3YjlINTRlQi1qUE14Y0c5X1hZazR2ZVY4MTFOMjZiV0hGbFpiRkYxYnAyaGJLYTRQTVBNZ0ZWNVHSAb8BQVVfeXFMTXpmZXpqRmFOVmxEY3ZBY1pCU3dfYnNzVndyRC1NUkpPeWFHM0hNVDY3UXBLNmItZGJQR0pDSHJ2czl1c3FhWEVON2hCNE9EcFdaeU5MbTl4bHhGOVIxdFdibzVfb2d6NXF5dEhiak1tb2RlNnppMnc5TEJ5aVpvZ3ZYTFZ1WmZIVGNpeWx4SW4zOUxDb1ZrUjNrakdxeWlBYjFjTlN0QW11UFJYU0lscTdzM2FidUxRN3dETV83NmM?oc=5
+
+- The AI industry is booming. Women are getting left behind - theguardian.com
+  The AI industry is booming. Women are
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOejNZa0EtcE1VWVdTcnFEc3RzanFlaExaNVVHZEtUSkdLRWRiaVNDdmIxZWZRQWhKZHk4SklyLUtGZngtMGp0N1ZURXBMdmZCZnNOTGU3VkE4Q05yQ1gzel9CRkFYd1h0WmF1WWEwVnVkcVYwN2pzR3FUNWJseVQ5Rw?oc=5
 
 - I Quit OpenAI Because Its Culture Is Broken - The Atlantic
   I Quit OpenAI Because Its Culture
   🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5
 
-- Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy - Reuters
-  Ukraine believes Russia shared jet-drone technology
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5
-
-- The AI industry is booming. Women are getting left behind - The Guardian
-  The AI industry is booming. Women are getting
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOejNZa0EtcE1VWVdTcnFEc3RzanFlaExaNVVHZEtUSkdLRWRiaVNDdmIxZWZRQWhKZHk4SklyLUtGZngtMGp0N1ZURXBMdmZCZnNOTGU3VkE4Q05yQ1gzel9CRkFYd1h0WmF1WWEwVnVkcVYwN2pzR3FUNWJseVQ5Rw?oc=5
+- Elon Musk rebrands SpaceXAI following Trump directive - foxbusiness.com
+  Elon Musk rebr
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOMWs2amQzUGhmcDdna2lfTjBlckl3alhCcExSN3oxZzJZbkxnUU9sZUJ4SG1uclZJQ3BRUVluc3JMaU1BZUx4enlaSXZod3RnTUp4bmlqNDVKZnpaVUdyelBJYzctQjdrRUxTVm5Zcm9xUjIxUTlDVm9EdUh4VW16WGdwbU0weTZOc2FDSVFGdXgzUFZ0b2Vr0gGcAUFVX3lxTFBrandJaTNtWW1rMU5KOHJXYzBiYlVTZ01BUjZTV1NiV3VvWXJLTnJxUm5kOGdOeHRVRG9zdlpXR3J2eTdJeU51RGtPa3NwYzZ5UUM4dWxyTzRDYTdERXU1TmgwYVZfSlg3elZBWVdyUk16cG9XYUdxZlBIeTJFRGZ4QmpVZEpqZUVtZEk3LV9wbFZvc1NUdGd5d2pUbA?oc=5
 
 - Don’t be fooled—LLMs don’t reason - MIT Technology Review
   Don't be fooled—
   🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVZOVnBJRFRTdktGbTR2ZEc2ckFRLWkybHg4SXFnaDloZDItSHU3WFZpWE00RF9VbnpSLVp5V2RqdUNTdW9LZzlDdmNvRFRUbXl1ZEx4WkwzejE3aEJvalpGUE9sZ3JaSTdiRVpmNmpxOUUyZkpjcno2X2ViOFZwdk9JTHgyOTJXVHhEMdIBkgFBVV95cUxOcmZ3aHQyTV9vS2Vld2t6UkkzdS16UkZGWGJvZkEzdVZQRFdtS29RVnEtVFNueFo0cHpVM19MQUltUWdoWFRWWEh0RlpFLVFqb3kxb0ZBUkVYcU5aa0dVZlMxNUdFb0lVRlJWSDhoWnozWHFvaTZTNXY4d3F0UHpfbUowaVdpSFFDbm0xc3JCYkRTdw?oc=5
 
-- Exclusive | New AI Czar Unveils Goals, Members of White House Task Force - WSJ
-  The White House announced a new Artificial Intelligence Czar on
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5
+- Video | Tech360 At NDTV YUVA: The Future Of AI, Work & Technology - NDTV
+  Video | Tech360 At NDTV YUVA:
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQTVhpU05hMzRCbjM5UGVZVjlqYndqa0J6OWVfcnJ6bmxBWk53Q042M3dXZ01oOWN1VFFTZTJicUotcjRXWTU3eHdkUVIxc1E4VTJzVnBLRlZRakpGTHl2SUg2MUxmUVl1bnp4cFpnVG81YUVjM2d6X2I2TFk0cDBSekhSR0JzMGttN0lCcDFYMEFKZw?oc=5
 
-- Cinepolis adds four more screens in Faridabad as its big-screen expansion continues across Delhi-NCR
-  Cinepolis India has opened a four-screen multiplex at Amolik’s City Life Mall in Faridabad. The move
-  🔗 https://www.livemint.com/companies/news/cinepolis-adds-four-more-screens-in-faridabad-as-its-big-screen-expansion-continues-across-delhincr-11791122362351.html
+- Accenture to return less to shareholders as acquisition spending rises
+  Accenture’s capital-allocation decisions matter to Indian IT services firms, which tend to track the
+  🔗 https://www.livemint.com/companies/news/accenture-dividend-share-buyback-11791124709181.html
 
-- Airbus flags A330 jets for stray tools: Why airlines are being asked to inspect aircraft
-  Airbus SE has requested airlines to conduct extra checks on A330neo aircraft. This reportedly affects A330s
-  🔗 https://www.livemint.com/companies/news/airbus-flags-a330-jets-for-stray-tools-why-airlines-are-being-asked-to-inspect-aircraft-11791122440507.html
+- Greenko founders-backed AM Intelligence orders 20,000 Nvidia GPUs in $4 billion deal
+  Greenko-backed AM Intelligence has committed $4 billion to buy 20,000 Nvidia Vera Rubin GPUs.
+  🔗 https://www.livemint.com/companies/greenko-founders-backed-am-intelligence-orders-20-000-nvidia-gpus-in-4-billion-deal-11791119927528.html
 
-- Haldia Petrochemicals-arm Adperma plans public listing, downstream expansion, says MD Navanit Narayan
-  Haldia Petrochemicals subsidiary Adperma is considering an initial public
-  🔗 https://www.livemint.com/companies/haldia-petrochemicals-arm-adperma-plans-public-listing-downstream-expansion-says-md-navanit-narayan-11791107995535.html
+- 38 years after Ahmedabad crash, Air India seeks fast hearing on compensation formula
+  Victims argue that awards should reflect actual economic loss, including income and future earning capacity, as well as inflation.
+  🔗 https://www.livemint.com/companies/news/air-india-indian-airlines-ahmedabad-plane-crash-1988-11791105382662.html
 
-- IndiaTech seeks rethink of turnover-linked gig worker social security levy
-  Under the Code on Social Security, 2020, aggregators are required to contribute 1-2% of annual turnover towards social security.
-  🔗 https://www.livemint.com/companies/indiatech-seeks-rethink-of-turnover-linked-gig-worker-social-security-levy-11791099731540.html
+- Tata's Assam chip unit is almost ready, and a non-China supply chain is in place
+  Tata aims to ensure India's flagship semiconductor venture remains resilient against potential trade blockades, retaliatory
+  🔗 https://www.livemint.com/companies/news/tata-electronics-assam-semiconductor-chip-plant-11791089738819.html
 
-- DLF sells out maiden senior living project Aureva in Gurugram for  ₹1,985 cr
-  Average ticket size of an apartment at The Aureva is  ₹11.5 crore. Each residence is complemented by three parking spaces and access
-  🔗 https://www.livemint.com/companies/dlf-sells-out-maiden-senior-living-project-aureva-in-gurugram-for-rs-1985-crore-11791098745562.html
+- Intesa Says Its Paschi Bid Backed by Top Shareholder Delfin
+  Intesa Sanpaolo said its sweetened offer for Banca Monte dei Paschi di Siena has won the backing of the bank’
+  🔗 https://www.livemint.com/companies/intesa-says-its-paschi-bid-backed-by-top-shareholder-delfin-11791146849159.html
 
-- Why Oil Is Still Stuck Near $100 a Barrel
-  
-  🔗 https://www.livemint.com/market/why-oil-is-still-stuck-near-100-a-barrel-11791121957103.html
+- Stock market today LIVE: Gift Nifty signals relief rally for Sensex, Nifty | RBI MPC, IT, HDFC Bank, OMC stocks in focus
+  The Gift Nifty live chart is signalling around 200 points gap-up opening for the
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-live-gift-nifty-signals-relief-rally-for-sensex-nifty-rbi-mpc-it-hdfc-bank-omc-stocks-in-focus-11791169559540.html
 
-- Top stocks to watch tomorrow: HDFC Bank, Yes Bank, RVNL, Bajaj Finance shares in focus on Monday, 5 Oct | Full list
-  HDFC Bank, Yes Bank, Bajaj Finance, DLF, IDBI Bank are among the shares that will
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-tomorrow-hdfc-bank-yes-bank-rvnl-bajaj-finance-shares-in-focus-on-monday-5-oct-full-list-11791113905735.html
+- IPO GMP comparison: Vishal Nirmiti vs Nityas Gems &amp; Jewellery | Here's allotment date, listing share price prediction
+  The allotment status for both the Vishal Nirmiti IPO and Nityas Gems &
+  🔗 https://www.livemint.com/market/ipo/ipo-gmp-comparison-vishal-nirmiti-vs-nityas-gems-jewellery-heres-allotment-listing-share-price-prediction-11791168068520.html
 
-- LTM, Cyient, Zen, Birlasoft share price target, stop-loss - IT stocks to buy for over 32% returns ahead of Q2 results
-  The brokerage has retained a positive stance on most of the IT stocks. Larsen &amp;amp; Toubro Technology Services (LTTS), Mphasis
-  🔗 https://www.livemint.com/market/stock-market-news/ltm-cyient-zen-birlasoft-share-price-target-stop-loss-it-stocks-to-buy-for-over-32-returns-ahead-of-q2-results-11791111110434.html
+- Saudis Slash Oil Prices to Asia in Battle for Market Share
+  Saudi Aramco has cut prices for its benchmark oil grade to Asia to a six-year low. Persian Gulf producers race for market share
+  🔗 https://www.livemint.com/market/saudis-slash-oil-prices-to-asia-in-battle-for-market-share-11791170751462.html
 
-- Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene
-  The Nifty 50 finished lower for the eight straight week on
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-bank-nifty-prediction-what-will-happen-in-the-indian-stock-market-on-monday-3-reasons-tell-the-scene-11791107343487.html
+- SEBI’s investor awareness campaign grabs investors’ attention | Here's social media post by BSE, NSE, MCX, CSDL &amp; NSDL
+  The teaser campaign played out through a series of conversational quote-posts on X. The Association of Mutual Funds in India (
+  🔗 https://www.livemint.com/market/stock-market-news/sebis-investor-awareness-campaign-grabs-investors-attention-heres-social-media-post-by-bse-nse-mcx-csdl-11791165733372.html
 
-- Tata Comms, Siemens, Aadhar Housing, Styrenix, Sudarshan — Top 5 stocks to buy on Monday | Target, SL by Sumeet Bagadia
-  Nifty 50 index is approaching its near-term support at 22,200. Sumeet
-  🔗 https://www.livemint.com/market/stock-market-news/top-5-breakout-stocks-to-buy-enrin-aadhar-hfc-styrenix-tata-comm-sudarschem-by-sumeet-bagadia-target-stoploss-11791105297463.html
+- Top pick: Despite negative YTD return, Jefferies India says buy this hotel stock for 15% upside; Target price, rationale
+  Jefferies India has given a target price of  ₹965, up 15% against
+  🔗 https://www.livemint.com/market/stock-market-news/top-pick-despite-negative-ytd-return-jefferies-india-says-buy-this-hotel-stock-for-15-upside-target-price-rationale-11791119094520.html
+
+- OpenAIs Altman says AI benefits warrant accepting some risks
+  OpenAI's Altman
+  🔗 https://www.livemint.com/technology/openais-altman-says-ai-benefits-warrant-accepting-some-risks-11791153079526.html
 
 - Does Temple 'stick to your skin'? Can you bathe with it, swim with it? Eternal's Deepinder Goyal answers
   Temple's Grip replacement is recommended every two to three days. Users can wear it during various activities, including showering.
@@ -96,49 +100,73 @@
   Trump names intelligence chief Clayton as AI czar
   🔗 https://www.livemint.com/technology/trump-names-intelligence-chief-clayton-as-ai-czar-to-head-task-force-wsj-reports-11791079624946.html
 
-- Bitchat removed from India Apple store: Why Twitter co-founder Jack Dorsey's app has been taken down?
-  Bitchat was created and launched by Twitter co-founder Jack Dorsey. The application allowed offline messaging which
-  🔗 https://www.livemint.com/technology/apps/bitchat-removed-from-india-apple-store-why-twitter-co-founder-jack-dorseys-app-has-been-taken-down-11791050095828.html
-
-- Meet the Gen-Z High Rollers Dominating the Prediction Markets - WSJ
-  Meet the Gen-Z High Roll
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5ELWZ1SHVfTHFSUVVSdnJWVUdCSHJ1YWZpbnNFUEJfdERSSXdGSDJaZzVkQzBXaW9JWXU1OTlMcU1wMkhjT0pTWk5QLWdNcWRtZk0tbmhNZFRGcnM2QkJoZ0o4cVlEdjlaS0xyeEZDaEFDWHYybGp4VDFpSQ?oc=5
-
-- Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
-  Ahead of Market: 10 things that will decide stock market action
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQak5mZHZ6UzdxbXl1MXpQeTFKSlBRYmExbUxfaHB0aDZ1TlFjTkxVMGVBU3cySGhtQ1JGcTY2MF84V0RmNnhwa1NYU3l0RlR3OU9VY3o3Z213VjhBWkd1emJ3RGl2emRsOXNQRE1UZUptbnkxeWJzZWxKbkNKMzhndmp1bTBHN0FvdFByYlBGQ3AwbUlBajdKbWZ6dGw1T1hPY1lrck0xQ1VETVZ2YUdObzFqT000WFZjaTJUNk1zaXpqdTVkaFh6NGtiQnZiQmR4V1JrcGd3MHlEaExoWjFj0gHkAUFVX3lxTE1JWWZ0Wm85MWdOcjR5TjBqQ1djQUdTSllCTkxjRngxRGQ1cW9aVjFhUENtMnpocEI4R25Rcjk2QkdLbkNXOTNRTkNEWDczNmFoc2xkTlhJalFkZkt1RGNDa3BOTGxvQUZ0QzhoUVJoZGhUaThNOVJPQmxkb1RXV2dyQ0NJZ1RDYThwMnd4Nnk1QUd2b29aLUVSX0RkUVhWcjFrYWJRakgyN0hBakpNdklLUWxDVDhZV3B3bWJ1a0pGWTYwNnZYNnJfMWZuWHJrOUZWSEpETU9MS2hvTzUzRlpwVzZXYw?oc=5
+- Asian Shares Rise as Fed Bets Ease, Bonds Edge Up: Markets Wrap - Bloomberg.com
+  Asian Shares Rise as Fed Bets Ease,
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJDUVRzYUlBRnk5dlZhbXFrZWxWRFBaOGFpSFM2VFpramhJU0NITWVsSW96SkZKNVpicWxCNFg4d0FlVWNHTk84ZWFQTUQyMVdaRnFLUWN5WE1raElPU0xDbkZxeWdEODhIZFlpNk8tTG9fdHRuaGRYRHhtbkxudXZMZnFtczZXZTVCQ2QyX1BVX2NGX3dCOUJEZ04tNHJub3EzbWdOYjV5N1NhYWd2M1Z3aw?oc=5
 
 - What to Expect in Markets This Week: Investors Prep for Earnings Season; Delta, Pepsi Report - Investopedia
   What to Expect in Markets This Week: Investors Prep for Earnings
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOR08tUDI0VlVFa2ZGRW1WZmhXUFFDNmlNWHIzR2Rfa3hLVDUxSHVzeVNZalFhdmJFdDJOZzFOLXJrX0gwVG9IekFiN2pxeUJ3aE9Lb0ttNDA5MUp5N2VZMTllc0duZmtXME1HdC1TQ2prZTVQTk9RaHM2d0l0dXNITzJ6UTlpM0o5QzMzaXAxVmJ3dlN4ZWt3dExzbEdobXByZ0lOcEgyUVBSb2FMMGtEbENwaU9JbnNuZDI1UVJfY2lISElPUXc?oc=5
 
-- Eight-week losing streak : RBI rate hike, crude prices and TCS results to test markets - Telegraph India
-  " target="_blank">Eight-week losing streak : RBI
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSXE3T0Vkd01QQnZnRjVBbzRMOTVidklBMUtHaC1Ja0RQcXM1THNoSkRFMjg5SGlUYTFCOS1FOEZUYzNUdzdDZGxLQnM5QWc1Q0tyUEtXemNnblVLVWNoSEJWX21uSXNPbzVxbi1VX0lZWmhuSHJjWC0yY2NOSjhUNE1WX0F4NXlXOERvdWItNTRpdWdDSEtwbFItYXltLVlxYVNfaTlIZXRUM2JrZC1maS1lU2IzTnJrTl9OT1FpLUNaUkpPOEJwZjBNdnBrbkY00gHWAUFVX3lxTE1aLUluN2Y5bHJzWDgzOHUyMUMtaDlSMk04NzNyQnhnbkVQM0hFSHNaWElxVjU1Ti1NYVB1RlhlZkxjSm9iTTJTOU1IVUNnbGo5NExoT1pRVGNPT0FwdTlHZGM2S0J2MklVT3MzMWx0LTgtX045NnNsc0hOSmM0bmN5QWdjYUpjRkZ0cFBhbU16U3lLaFZ1S0I5QURob1NHYUpCU21OYzQ3cnBhQW1uSmNLNTllUFp6cmFhbEl1SFVHcHdyQTBHUlBjVkZWNlRLWTRWSFdscEE?oc=5
+- Indian Economy Is Growing Fast. Why Aren't Stock Market Returns Keeping Up? - NDTV
+  Indian economy is growing fast. Why aren't stock
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUJtb0NqSkp5blAxWVdXTmpWWUNCb0k4dG55U290NWs5RVZXVkNqTXMtbE54X2oxNmZfLVcydk5vSUVhaTkxZFJQTkNMTlE4ZVJTWGdaMGVEZnVReFlZZU1QSF9QdzdqTFg5aGZWRnNXXzc4eU9uZ3lENk0teEF3YjlINTRlQi1qUE14Y0c5X1hZazR2ZVY4MTFOMjZiV0hGbFpiRkYxYnAyaGJLYTRQTVBNZ0ZWNVHSAb8BQVVfeXFMTXpmZXpqRmFOVmxEY3ZBY1pCU3dfYnNzVndyRC1NUkpPeWFHM0hNVDY3UXBLNmItZGJQR0pDSHJ2czl1c3FhWEVON2hCNE9EcFdaeU5MbTl4bHhGOVIxdFdibzVfb2d6NXF5dEhiak1tb2RlNnppMnc5TEJ5aVpvZ3ZYTFZ1WmZIVGNpeWx4SW4zOUxDb1ZrUjNrakdxeWlBYjFjTlN0QW11UFJYU0lscTdzM2FidUxRN3dETV83NmM?oc=5
 
-- Dalal Street Week Ahead: RBI policy, Q2 earnings, FOMC minutes, bond yields, oil prices among 10 key... - Moneycontrol.com
-  Dalal Street Week Ahead: RBI policy, Q2 earnings, F
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYXVfbl9mQWJHZU5BWVlkcXJpRnRtRUc5UHdrYV9ITGkyLUxjV0s5cHFCalIxSjNlTElyVURrR0RQVVQzSXFRRjVLZE1BdmRBUGk0LWh3R1JfaVJHc2pScHA4VU9oVWUxcUEwQm0zRXhmc2lFUk5pOW0wUjlPMXItX3FOaFpoNHdsR2wyY1N4QzltM3Q4YmFXbklTMHVSS19MNXR2Wi1SWUFCWUZFaVVvUGFvLWUxX011cWFwWHpoajZwYy1FallPMVNGM29UVGVUVnBLR2lRRjdLTlBObUF6ZVF2TFJRMGxBNmYyQ0lmU3hJNFc5UlM5Ujl6RTlCamd1bDc0X0gzZnPSAY4CQVVfeXFMTUFsS2NUMGN0VXVjTjFYVHJBcGNZenhJLURIYmZqTnQ1Q1Nabmp5eFFVYmM0ako3dk5YQU9vNnhpNmtZaFhZaW4zM01rYUI4TEFTQi1JV0hWSUo2bU1SbVF2TmxBazN0OHZUc3FRUG91UUs5SER2TXpSVHdsT0Z2ODlvemdXMWwzYU1XR2RKZ2VIblZQaXJRMWNGNmluREpIal9fTG83MXNpbUY0ZVc4U1ktWjhYamNjeXV6anMtT1RxWWNENTl5UnJxU2tIeXJkeVBaY1c0TDluRnFKamgtRmV3c0UzeVdzZzJ1MUtEQzh6bmllTTZXT1UwLXZMYWlLay02SnI3QVl2ZWhXMHV3?oc=5
+- Watch Homin Lee: Equity Markets Can Manage Yield Rise - Bloomberg.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlkwR3JZb3A0VmdvWnNTT1lvZkJsR0hnOHltQ215ZTZEcl9mNFBJQ1poTUdnNlVwMk1aTmF2M1Bjd0xodzhGUFNtZUJoNG5BTXpISzhGMHMweHhWdXV0ZF9DaGhjUk5sazl2SFoxNWJzNDNsX0ZRLXRZall5VVNpYndNM1k5dUJ6UlZGZmdGbnQ2S1BGUm1ubXVTV3BWZzR4ZEhF?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Sensex and Nifty extended losses for a fourth session as heavy FII selling, surging bond yields and elevated crude prices rattled investors. The selloff erased Rs 5 lakh crore
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134673452.cms
+- Markets bet on RBI rate hike as inflation pressure builds - reuters.com
+  Markets bet on RBI rate hike as
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2ZLWG5udy12czJna0lwTVJkMDRYRktHekNjMmFyTlN3OXI2SVBFNXMyc2VTTUJ5SDU3QzUzOWVVamVYTjBmc3E4UUtCMHhMM18wTVJFak8xMG1fMUJfaDlBbVAycXMtd0xjbFB5YTltMUNKQ1BjY0pnR0lab2ZteHFTaVlqOHpBSmstZVpxWjdlS1F3UG1RTHI3ZEtvNmZG?oc=5
 
-- Valuations of IT stocks already capture most of AI disruption risk: Chintan Haria
-  The Nifty IT index’s 25% fall in 2026 may have already priced in much of the threat from AI. Chintan Haria of ICICI Prudential
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/valuations-of-it-stocks-already-capture-most-of-ai-disruption-risk-chintan-haria/articleshow/134673144.cms
+- TCS, Infosys and other IT stocks in focus after Accenture Q4 revenue, outlook beat estimates
+  Indian IT stocks including TCS and Infosys are in focus following Accenture's strong Q4 results and above-estimate revenue guidance. While the outlook signals potential recovery in discretionary technology spending, analysts warn that Indian
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-and-other-it-stocks-in-focus-after-accenture-q4-revenue-outlook-beat-estimates/articleshow/134684693.cms
 
-- RBI may hike repo rate by 25 bps as inflation and oil risks mount: Sunil Sanghai
-  The RBI could raise the repo rate by 25 basis points in October and signal further tightening. Strong reserves and a manageable current account provide crucial buffers.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-bps-as-inflation-and-oil-risks-mount-sunil-sanghai/articleshow/134672762.cms
+- Orient Cables shares to list today; GMP signals 45% premium over issue price
+  Orient Cables IPO was a book-built issue comprising a fresh issue of 1.18 crore shares worth Rs 320 crore and an offer for sale (
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/orient-cables-shares-to-list-today-gmp-signals-45-premium-over-issue-price/articleshow/134684081.cms
 
-- IT Q2 Preview: Muted growth, steady margins likely; deal conversion, AI deflation in focus
-  India's leading IT firms are projected to exhibit modest revenue growth and stable margins. Analysts anticipate that discretionary spending will remain constrained due to geopolitical issues affecting client budgets.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/it-q2-preview-muted-growth-steady-margins-likely-deal-conversion-ai-deflation-in-focus/articleshow/134672682.cms
+- AceVector shares to list today; Check GMP ahead of debut
+  The Rs 420-crore public issue was priced in the range of Rs 30–32 per share, with the upper end of the price band at Rs 32. The issue comprised a fresh issue of 8.97 crore shares aggregating
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/acevector-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/134684039.cms
 
-- IPO bonanza: 29 companies to list this week; GMPs signal returns of up to 59%
-  Vans Electroengineerings signalling a potential 59% gain, while several companies indicate flat debuts.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ipo-bonanza-29-companies-to-list-this-week-gmps-signal-returns-of-up-to-59/slideshow/134672937.cms
+- Vishal Nirmiti IPO Day 3: GMP at 9%; Check subscription, key details and analyst view
+  In the grey market, the IPO is currently commanding a premium of Rs 20, or 9.09%, over the upper end
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-day-3-gmp-at-9-check-subscription-key-details-and-analyst-view/articleshow/134684003.cms
+
+- Will Nifty's 8-week losing streak trigger a relief rally but the big bottom isn't in yet
+  Only 12% of NSE 500 stocks are trading above their 20-day moving averages. Yet medium- and long-term breadth is not as depressed, suggesting that any rebound may be a short-covering rally.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/will-niftys-8-week-losing-streak-trigger-a-relief-rally-but-the-big-bottom-isnt-in-yet/articleshow/134683940.cms
+
+- Mass protests demanding poll chief resignation shake India for third day - Al Jazeera
+  Mass protests demanding poll chief resignation shake India for third
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJwd2dSZzU5TnpqWU1pVUY1MFlPZC1FTHZzWVhVaG5aWDJmSml6VXVWbkFGb3JrWUNmWlJfUFF5T2ZLTGtISWFNc19rRFRUQ2VNeHNGU0NlbmpsaHNPUEwzSGc2RFdiZE5kQmNOWXBGcl9PRGtPTlNqZ29GU0RTSDZnQzFLc3Fralk1OHR0VzQ1WTY3dTlZT0hDRmdsQ3RYMlNTanBTT0NuTUJnSW9CNGszd9IBuAFBVV95cUxNRWRzR0ROUEVoYzlqOUlOaUptMG93QzVTQW9nbTFjbFI3eGIwNl9pNEhjUG0ta253YVc1MUpHRDIzWmhNQmhvOUREbFZHcUJtem96am5SaDg1OU4xR3hVaklZeU1vOW1wX29USUNySkMyeDFMcDFWaWF4blpwUTlaUVNreGhWZ1hlbXRGVUVqVnNGLUYtZXg0RDFjYTZ6VXIzUDE2dTEtWDdGVGxhcHZCaGd6bkxiS3Fv?oc=5
+
+- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - DW.com
+  India news: Police order probe amid sexual harassment allegations against officers
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGczVlZIQ29wWWlFSTJ6VVc1RDV5bS05cmNEYUNDNW4xdFRBYWtpVEtKZWZWSk5uV0JtdmNqS1p2S0RzQ2FIXzU0ZzF5YjBPVDZRanU4QnJrak1mV2JRY2Vfb0k5eXdNb2lNZUpXdnhIc29TeWRzOFd4U3ZZUUR1VlkyYWNWaV9VanZyR25BVkRtb3RoYkxDREViOHlSY1lvMndwQl9Lc01DeG02NHF2VE1SSTZDdFhkTDAtSGtyakRvR2JFc0FKaTl3UXFSSFVISzdZLS1HYnlJc3c?oc=5
+
+- Protests intensify in India over demands for election chief to quit - reuters.com
+  Protests intensify in India over demands for election
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR?oc=5
+
+- Canon in talks with those engaged in key chip projects in India, plans local service centres - electronics.economictimes.indiatimes.com
+  Canon in talks with those engaged in key chip projects in India.
+  🔗 https://news.google.com/rss/articles/CBMiugJBVV95cUxPQmdfMS1Ob1poMFNTaDZ3TjU4c1NwTDhSNmRua0poUkJRRHBtd0NjX0Z0QWhVbjA0c3U2MWxjckRnMlRlMDRSX0R1dTRTNjNnallKY3EwWklPTm9RTDg0LS1UOElYZDJQVnFiQnFJejhSUVd5NklRYlM5ai1lQ2t1MDlvczdKX0FwaHVWUENLTUpxcWFlak9LRDVBZUdPMGZKcUhoWXFtQTNaa2pmdG9EWlFDVnpxYTktZ1JoaUhLRzRlZzVNRXZpS0F1SEs4R2otWGxTSUtYejJkYXVSUjJreUludThuTUFNUDc5Y1N5SXhKbTRuWDZXbU9LWXFPNkk0UGZ6UGZ1VGptNnVEM1ZMWlZ6dWJOeGZxaDJqWEJQZnREdkx1UEJaRjR2dU9TRVN6WGxMNFNnQ2M0Z9IBiAJBVV95cUxPQkJxUWtrV3JYenE5Q2FiNnhIRGJWY3VoblBOZjhrSjVydkVISlpaVGl4cUFQZlJRa2Y5b3ZodC1xeVdVcnJJd3hKTFhmZm1WUjZ4MmwyWF9pSThCZWRPejQ5bS1yb0k1UnhycW9sQ1RkVk51MGVfM2dkaU1sTGd5cHYyMEFQRUE4NjcyV3N3Qm9jNmtiMmFWNkVnMTdqd1NyN3dhNWw5RVRZZk1zY0RYX3VzVjlWUVRXdlJSRDBIUHVkdU91OVM2TTZiUGRvWTNNa3JySzl3VENxR0RKSDRtdC03ZVZjRFlmb1lzc2ZiTFlCMGhiekVOVV9uWlo4Wk5FWHhzb2JZZ1c?oc=5
+
+- Indian Economy Is Growing Fast. Why Aren't Stock Market Returns Keeping Up? - NDTV
+  Indian economy is growing fast. Why aren't stock
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUJtb0NqSkp5blAxWVdXTmpWWUNCb0k4dG55U290NWs5RVZXVkNqTXMtbE54X2oxNmZfLVcydk5vSUVhaTkxZFJQTkNMTlE4ZVJTWGdaMGVEZnVReFlZZU1QSF9QdzdqTFg5aGZWRnNXXzc4eU9uZ3lENk0teEF3YjlINTRlQi1qUE14Y0c5X1hZazR2ZVY4MTFOMjZiV0hGbFpiRkYxYnAyaGJLYTRQTVBNZ0ZWNVHSAb8BQVVfeXFMTXpmZXpqRmFOVmxEY3ZBY1pCU3dfYnNzVndyRC1NUkpPeWFHM0hNVDY3UXBLNmItZGJQR0pDSHJ2czl1c3FhWEVON2hCNE9EcFdaeU5MbTl4bHhGOVIxdFdibzVfb2d6NXF5dEhiak1tb2RlNnppMnc5TEJ5aVpvZ3ZYTFZ1WmZIVGNpeWx4SW4zOUxDb1ZrUjNrakdxeWlBYjFjTlN0QW11UFJYU0lscTdzM2FidUxRN3dETV83NmM?oc=5
+
+- The Rise Of Bank-Built AI, Weekly Funding Rundown & More
+  Banking’s AI Investment Playbook. No longer content with buying AI tools, banks are moving to co-build and invest.
+  🔗 https://inc42.com/buzz/the-rise-of-bank-built-ai-weekly-funding-rundown-more/
+
+- Snapdeal Makes It To D-Street, But Where’s The Moat?
+  One of India’s earliest ecommerce marketplaces has finally trotted onto D-Street. After a relatively muted 4.93X
+  🔗 https://inc42.com/features/snapdeal-makes-it-to-d-street-but-wheres-the-moat/
 
 - Indian Startup IPO Tracker 2026
   Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
@@ -152,73 +180,73 @@
   Bitchat, the decentralised messaging platform founded by Twitter (now X) cofounder Jack Dorsey, has been removed from Google Play Store.
   🔗 https://inc42.com/buzz/jack-dorseys-bitchat-goes-offline-in-india-apple-cites-meity-order/
 
-- IPO-Bound Kuku Technologies Turns Profitable In FY26, Revenue Surges 6X To ₹1,484 Cr
-  Kuku Technologies Limited, parent company of audio OTT platform Kuku FM and microdrama app Kuku TV, swung into the black.
-  🔗 https://inc42.com/buzz/ipo-bound-kuku-technologies-turns-profitable-in-fy26-revenue-surges-6x-to-%e2%82%b91484-cr/
+- Mass protests demanding poll chief resignation shake India for third day - Al Jazeera
+  Mass protests demanding poll chief resignation shake India for third
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJwd2dSZzU5TnpqWU1pVUY1MFlPZC1FTHZzWVhVaG5aWDJmSml6VXVWbkFGb3JrWUNmWlJfUFF5T2ZLTGtISWFNc19rRFRUQ2VNeHNGU0NlbmpsaHNPUEwzSGc2RFdiZE5kQmNOWXBGcl9PRGtPTlNqZ29GU0RTSDZnQzFLc3Fralk1OHR0VzQ1WTY3dTlZT0hDRmdsQ3RYMlNTanBTT0NuTUJnSW9CNGszd9IBuAFBVV95cUxNRWRzR0ROUEVoYzlqOUlOaUptMG93QzVTQW9nbTFjbFI3eGIwNl9pNEhjUG0ta253YVc1MUpHRDIzWmhNQmhvOUREbFZHcUJtem96am5SaDg1OU4xR3hVaklZeU1vOW1wX29USUNySkMyeDFMcDFWaWF4blpwUTlaUVNreGhWZ1hlbXRGVUVqVnNGLUYtZXg0RDFjYTZ6VXIzUDE2dTEtWDdGVGxhcHZCaGd6bkxiS3Fv?oc=5
 
-- New-Age Tech Stocks Extend Slide, Turtlemint Slumps Another 20% This Week
-  New-age tech stocks remained under pressure this week, with 47 stocks declining. benchmark indices recorded their eighth consecutive weekly decline.
-  🔗 https://inc42.com/buzz/new-age-tech-stocks-extend-slide-turtlemint-slumps-another-20-this-week/
-
-- Indian police accused of sexual harassment against journalists at protest - bbc.com
-  Indian police accused of sexual harassment against journalists
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vS2lXaUpqQXlka2VobFBfQjI5REVCQmx6RDJURHJ4dVdfR1lfaUxkRTJhVEdHVEsyNlJ3U1ZnOVNVNmplLVZYXzlGMzRwa3c0OTRmZlVKVlJzOEk?oc=5
-
-- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - dw.com
+- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - DW.com
   India news: Police order probe amid sexual harassment allegations against officers
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFIzSEg3am12MXFkN3hVbDZQUWgxVlRqNXE4aU9qS2dWeFNlTDUwTl9idl82VHI3Ml91aWlxT0QyMENGdlh2TEQzcm5FTXdwLUNLbjFsMlowb2tVRkdxVmQydXVHUlVDb3hiSFNHNGV0ZU4zOGV0WVhPRHhlTEJLa0J3YXdJejhUMTR4ZWp4TFNFbFNTeGFmQ1A0WXA3Y0NhakRjSHl0Y2pvSTNRamIydTVmdVlwTU40d0pfLXp4UnZwbzVRWHY1dzkxM3BXLXM?oc=5
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGczVlZIQ29wWWlFSTJ6VVc1RDV5bS05cmNEYUNDNW4xdFRBYWtpVEtKZWZWSk5uV0JtdmNqS1p2S0RzQ2FIXzU0ZzF5YjBPVDZRanU4QnJrak1mV2JRY2Vfb0k5eXdNb2lNZUpXdnhIc29TeWRzOFd4U3ZZUUR1VlkyYWNWaV9VanZyR25BVkRtb3RoYkxDREViOHlSY1lvMndwQl9Lc01DeG02NHF2VE1SSTZDdFhkTDAtSGtyakRvR2JFc0FKaTl3UXFSSFVISzdZLS1HYnlJc3c?oc=5
 
-- INDIA bloc to protest outside CEO’s office on Wednesday - The Hindu
-  India bloc to protest outside CEO's office
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3VtUXNTVGd3YnNyNlFFUW1oSmNqcUswTTRtSldFbWVLWnBpNUxFRlpzQ0U1Y0o4dlZiNHhXeWp3aThTZzhWdDJublpmMUZjUTRPbmE2MnZhbDNlc0RIS0FFMWN0d2JVVGpnV0VockNZMjNwRmJpVFplZWg3Q2d0dW1hWXdYV2FlUlp3U1Y5Y2s3emtscDBlNkxIb2lPanozWXZIb29oZE5XVU50TmVnN0o5dnB5UUNQ0gG_AUFVX3lxTE5EQkloSGdQMDBpVkk1cTZCZG5lQ2QwbENsM3J2Y0trYUQzaDQzREFVd1RLN0RYVy1HLVFJbWNiWDZCYVZLWTZQTWlDTTRIY2k0NTNpMlhrV2FrTXY4WkdOWEZVRHE3eldBdU5UdU1PdmRHNnN3LWxGM0lXcTFtZDA2ckIwTTlGWjNvN1lIQllnVk5TTFZVN3BBR2VkRnF2Q3NkOUVsUmtKZHVodnNOT25lRV92VDNPeVlzQV9NN0VV?oc=5
+- Protests intensify in India over demands for election chief to quit - reuters.com
+  Protests intensify in India over demands for election
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR?oc=5
 
-- 'Strikes At Heart Of Constitution': Top Court Judge On Mass Deletion Of Voters - NDTV
-  'Strikes At Heart Of Constitution': Top Court Judge
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMkg2c0c1SkpGVTJNMDhNRTVDRUlFYS1pZFljelFlNmpIX19XMzFYQjB4V0J3WklQUVhOd2V4cVpDbDFjLVVkMVhNZFdEMXFjR2FXTEh3U2owZGJqbDBqbkhFbW1BR29VLUpTTDBjb1dNdFpSSHV1bmVkanZnaHdVcnJPOXhIQWF6QlBJZXRvaG9CMDUzUC1QRWtJcUxkYm10cVplOFBoQXIzSHROTkNxU1FXbkZCaUdNOHhHa2RFNldaanhFdGxDam1ib3FyQ0hBQUxxbFFjb29KTTlsb2Ywazg3UEdFRkh0dVdlNdIB9AFBVV95cUxOQ29uMDUxMzY3WjFJbEtOaS1ZcjZhSE56bXhmS0F1a1R4LU83dzRydVZkSWRlUVBlZ3hQb2tQM2dncVMzR1pYSHRvMzJaLWduUmtjQXB6MzlBTlVGY0tJX0NPWmgza2VwV0tPVTNaVEViMHBvaUt0aTdWNzY4UXJZRFNfak5PMWE1dFNUVi1aQThKaExxT3RSZ19ySkdPbTdRRUY0NV9rdllSNVpoUEFRUi1JMzFaakIzY3doN1g1c0lqQS1nUE9Zd3Q3ckxIOEdvVzlFT2R5TmRseGZLSlByS0JkZHJjQ0hQZ19wcEVNT3JKZ1Vv?oc=5
+- Canon in talks with those engaged in key chip projects in India, plans local service centres - electronics.economictimes.indiatimes.com
+  Canon in talks with those engaged in key chip projects in India.
+  🔗 https://news.google.com/rss/articles/CBMiugJBVV95cUxPQmdfMS1Ob1poMFNTaDZ3TjU4c1NwTDhSNmRua0poUkJRRHBtd0NjX0Z0QWhVbjA0c3U2MWxjckRnMlRlMDRSX0R1dTRTNjNnallKY3EwWklPTm9RTDg0LS1UOElYZDJQVnFiQnFJejhSUVd5NklRYlM5ai1lQ2t1MDlvczdKX0FwaHVWUENLTUpxcWFlak9LRDVBZUdPMGZKcUhoWXFtQTNaa2pmdG9EWlFDVnpxYTktZ1JoaUhLRzRlZzVNRXZpS0F1SEs4R2otWGxTSUtYejJkYXVSUjJreUludThuTUFNUDc5Y1N5SXhKbTRuWDZXbU9LWXFPNkk0UGZ6UGZ1VGptNnVEM1ZMWlZ6dWJOeGZxaDJqWEJQZnREdkx1UEJaRjR2dU9TRVN6WGxMNFNnQ2M0Z9IBiAJBVV95cUxPQkJxUWtrV3JYenE5Q2FiNnhIRGJWY3VoblBOZjhrSjVydkVISlpaVGl4cUFQZlJRa2Y5b3ZodC1xeVdVcnJJd3hKTFhmZm1WUjZ4MmwyWF9pSThCZWRPejQ5bS1yb0k1UnhycW9sQ1RkVk51MGVfM2dkaU1sTGd5cHYyMEFQRUE4NjcyV3N3Qm9jNmtiMmFWNkVnMTdqd1NyN3dhNWw5RVRZZk1zY0RYX3VzVjlWUVRXdlJSRDBIUHVkdU91OVM2TTZiUGRvWTNNa3JySzl3VENxR0RKSDRtdC03ZVZjRFlmb1lzc2ZiTFlCMGhiekVOVV9uWlo4Wk5FWHhzb2JZZ1c?oc=5
 
-- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
-  Asian Games 2026 Conclude in Nagoya; India Fin
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
+- Indian Economy Is Growing Fast. Why Aren't Stock Market Returns Keeping Up? - NDTV
+  Indian economy is growing fast. Why aren't stock
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUJtb0NqSkp5blAxWVdXTmpWWUNCb0k4dG55U290NWs5RVZXVkNqTXMtbE54X2oxNmZfLVcydk5vSUVhaTkxZFJQTkNMTlE4ZVJTWGdaMGVEZnVReFlZZU1QSF9QdzdqTFg5aGZWRnNXXzc4eU9uZ3lENk0teEF3YjlINTRlQi1qUE14Y0c5X1hZazR2ZVY4MTFOMjZiV0hGbFpiRkYxYnAyaGJLYTRQTVBNZ0ZWNVHSAb8BQVVfeXFMTXpmZXpqRmFOVmxEY3ZBY1pCU3dfYnNzVndyRC1NUkpPeWFHM0hNVDY3UXBLNmItZGJQR0pDSHJ2czl1c3FhWEVON2hCNE9EcFdaeU5MbTl4bHhGOVIxdFdibzVfb2d6NXF5dEhiak1tb2RlNnppMnc5TEJ5aVpvZ3ZYTFZ1WmZIVGNpeWx4SW4zOUxDb1ZrUjNrakdxeWlBYjFjTlN0QW11UFJYU0lscTdzM2FidUxRN3dETV83NmM?oc=5
 
-- Indian police accused of sexual harassment against journalists at protest - bbc.com
-  Indian police accused of sexual harassment against journalists
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vS2lXaUpqQXlka2VobFBfQjI5REVCQmx6RDJURHJ4dVdfR1lfaUxkRTJhVEdHVEsyNlJ3U1ZnOVNVNmplLVZYXzlGMzRwa3c0OTRmZlVKVlJzOEk?oc=5
+- Mass protests demanding poll chief resignation shake India for third day - Al Jazeera
+  Mass protests demanding poll chief resignation shake India for third
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJwd2dSZzU5TnpqWU1pVUY1MFlPZC1FTHZzWVhVaG5aWDJmSml6VXVWbkFGb3JrWUNmWlJfUFF5T2ZLTGtISWFNc19rRFRUQ2VNeHNGU0NlbmpsaHNPUEwzSGc2RFdiZE5kQmNOWXBGcl9PRGtPTlNqZ29GU0RTSDZnQzFLc3Fralk1OHR0VzQ1WTY3dTlZT0hDRmdsQ3RYMlNTanBTT0NuTUJnSW9CNGszd9IBuAFBVV95cUxNRWRzR0ROUEVoYzlqOUlOaUptMG93QzVTQW9nbTFjbFI3eGIwNl9pNEhjUG0ta253YVc1MUpHRDIzWmhNQmhvOUREbFZHcUJtem96am5SaDg1OU4xR3hVaklZeU1vOW1wX29USUNySkMyeDFMcDFWaWF4blpwUTlaUVNreGhWZ1hlbXRGVUVqVnNGLUYtZXg0RDFjYTZ6VXIzUDE2dTEtWDdGVGxhcHZCaGd6bkxiS3Fv?oc=5
 
-- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - dw.com
+- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - DW.com
   India news: Police order probe amid sexual harassment allegations against officers
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFIzSEg3am12MXFkN3hVbDZQUWgxVlRqNXE4aU9qS2dWeFNlTDUwTl9idl82VHI3Ml91aWlxT0QyMENGdlh2TEQzcm5FTXdwLUNLbjFsMlowb2tVRkdxVmQydXVHUlVDb3hiSFNHNGV0ZU4zOGV0WVhPRHhlTEJLa0J3YXdJejhUMTR4ZWp4TFNFbFNTeGFmQ1A0WXA3Y0NhakRjSHl0Y2pvSTNRamIydTVmdVlwTU40d0pfLXp4UnZwbzVRWHY1dzkxM3BXLXM?oc=5
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGczVlZIQ29wWWlFSTJ6VVc1RDV5bS05cmNEYUNDNW4xdFRBYWtpVEtKZWZWSk5uV0JtdmNqS1p2S0RzQ2FIXzU0ZzF5YjBPVDZRanU4QnJrak1mV2JRY2Vfb0k5eXdNb2lNZUpXdnhIc29TeWRzOFd4U3ZZUUR1VlkyYWNWaV9VanZyR25BVkRtb3RoYkxDREViOHlSY1lvMndwQl9Lc01DeG02NHF2VE1SSTZDdFhkTDAtSGtyakRvR2JFc0FKaTl3UXFSSFVISzdZLS1HYnlJc3c?oc=5
 
-- INDIA bloc to protest outside CEO’s office on Wednesday - The Hindu
-  India bloc to protest outside CEO's office
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3VtUXNTVGd3YnNyNlFFUW1oSmNqcUswTTRtSldFbWVLWnBpNUxFRlpzQ0U1Y0o4dlZiNHhXeWp3aThTZzhWdDJublpmMUZjUTRPbmE2MnZhbDNlc0RIS0FFMWN0d2JVVGpnV0VockNZMjNwRmJpVFplZWg3Q2d0dW1hWXdYV2FlUlp3U1Y5Y2s3emtscDBlNkxIb2lPanozWXZIb29oZE5XVU50TmVnN0o5dnB5UUNQ0gG_AUFVX3lxTE5EQkloSGdQMDBpVkk1cTZCZG5lQ2QwbENsM3J2Y0trYUQzaDQzREFVd1RLN0RYVy1HLVFJbWNiWDZCYVZLWTZQTWlDTTRIY2k0NTNpMlhrV2FrTXY4WkdOWEZVRHE3eldBdU5UdU1PdmRHNnN3LWxGM0lXcTFtZDA2ckIwTTlGWjNvN1lIQllnVk5TTFZVN3BBR2VkRnF2Q3NkOUVsUmtKZHVodnNOT25lRV92VDNPeVlzQV9NN0VV?oc=5
+- Protests intensify in India over demands for election chief to quit - reuters.com
+  Protests intensify in India over demands for election
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGR6ODMtN0dvb3BUbWlIdzJZVGx2ZnlGZDlHc3VVQVZ0d1dRaEVJcjZVdGJjeTN5QUYwNUFGMHZlbWV1ZS1ONkpSUzJ4c2VMTTdBQnJxWkszRnBQdi1XU0pKX0FnVlJKS1VYaDRid21KNmxCaHNmb2RsQlRYUHRfRTl6dnFXOHlLWU5zMlcxSkdrYnVHdVBhSzcyNDVxel9YSXlTajVlWFdkazJyRFduYmtR?oc=5
 
-- 'Strikes At Heart Of Constitution': Top Court Judge On Mass Deletion Of Voters - NDTV
-  'Strikes At Heart Of Constitution': Top Court Judge
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMkg2c0c1SkpGVTJNMDhNRTVDRUlFYS1pZFljelFlNmpIX19XMzFYQjB4V0J3WklQUVhOd2V4cVpDbDFjLVVkMVhNZFdEMXFjR2FXTEh3U2owZGJqbDBqbkhFbW1BR29VLUpTTDBjb1dNdFpSSHV1bmVkanZnaHdVcnJPOXhIQWF6QlBJZXRvaG9CMDUzUC1QRWtJcUxkYm10cVplOFBoQXIzSHROTkNxU1FXbkZCaUdNOHhHa2RFNldaanhFdGxDam1ib3FyQ0hBQUxxbFFjb29KTTlsb2Ywazg3UEdFRkh0dVdlNdIB9AFBVV95cUxOQ29uMDUxMzY3WjFJbEtOaS1ZcjZhSE56bXhmS0F1a1R4LU83dzRydVZkSWRlUVBlZ3hQb2tQM2dncVMzR1pYSHRvMzJaLWduUmtjQXB6MzlBTlVGY0tJX0NPWmgza2VwV0tPVTNaVEViMHBvaUt0aTdWNzY4UXJZRFNfak5PMWE1dFNUVi1aQThKaExxT3RSZ19ySkdPbTdRRUY0NV9rdllSNVpoUEFRUi1JMzFaakIzY3doN1g1c0lqQS1nUE9Zd3Q3ckxIOEdvVzlFT2R5TmRseGZLSlByS0JkZHJjQ0hQZ19wcEVNT3JKZ1Vv?oc=5
+- Canon in talks with those engaged in key chip projects in India, plans local service centres - electronics.economictimes.indiatimes.com
+  Canon in talks with those engaged in key chip projects in India.
+  🔗 https://news.google.com/rss/articles/CBMiugJBVV95cUxPQmdfMS1Ob1poMFNTaDZ3TjU4c1NwTDhSNmRua0poUkJRRHBtd0NjX0Z0QWhVbjA0c3U2MWxjckRnMlRlMDRSX0R1dTRTNjNnallKY3EwWklPTm9RTDg0LS1UOElYZDJQVnFiQnFJejhSUVd5NklRYlM5ai1lQ2t1MDlvczdKX0FwaHVWUENLTUpxcWFlak9LRDVBZUdPMGZKcUhoWXFtQTNaa2pmdG9EWlFDVnpxYTktZ1JoaUhLRzRlZzVNRXZpS0F1SEs4R2otWGxTSUtYejJkYXVSUjJreUludThuTUFNUDc5Y1N5SXhKbTRuWDZXbU9LWXFPNkk0UGZ6UGZ1VGptNnVEM1ZMWlZ6dWJOeGZxaDJqWEJQZnREdkx1UEJaRjR2dU9TRVN6WGxMNFNnQ2M0Z9IBiAJBVV95cUxPQkJxUWtrV3JYenE5Q2FiNnhIRGJWY3VoblBOZjhrSjVydkVISlpaVGl4cUFQZlJRa2Y5b3ZodC1xeVdVcnJJd3hKTFhmZm1WUjZ4MmwyWF9pSThCZWRPejQ5bS1yb0k1UnhycW9sQ1RkVk51MGVfM2dkaU1sTGd5cHYyMEFQRUE4NjcyV3N3Qm9jNmtiMmFWNkVnMTdqd1NyN3dhNWw5RVRZZk1zY0RYX3VzVjlWUVRXdlJSRDBIUHVkdU91OVM2TTZiUGRvWTNNa3JySzl3VENxR0RKSDRtdC03ZVZjRFlmb1lzc2ZiTFlCMGhiekVOVV9uWlo4Wk5FWHhzb2JZZ1c?oc=5
 
-- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
-  Asian Games 2026 Conclude in Nagoya; India Fin
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
+- Indian Economy Is Growing Fast. Why Aren't Stock Market Returns Keeping Up? - NDTV
+  Indian economy is growing fast. Why aren't stock
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUJtb0NqSkp5blAxWVdXTmpWWUNCb0k4dG55U290NWs5RVZXVkNqTXMtbE54X2oxNmZfLVcydk5vSUVhaTkxZFJQTkNMTlE4ZVJTWGdaMGVEZnVReFlZZU1QSF9QdzdqTFg5aGZWRnNXXzc4eU9uZ3lENk0teEF3YjlINTRlQi1qUE14Y0c5X1hZazR2ZVY4MTFOMjZiV0hGbFpiRkYxYnAyaGJLYTRQTVBNZ0ZWNVHSAb8BQVVfeXFMTXpmZXpqRmFOVmxEY3ZBY1pCU3dfYnNzVndyRC1NUkpPeWFHM0hNVDY3UXBLNmItZGJQR0pDSHJ2czl1c3FhWEVON2hCNE9EcFdaeU5MbTl4bHhGOVIxdFdibzVfb2d6NXF5dEhiak1tb2RlNnppMnc5TEJ5aVpvZ3ZYTFZ1WmZIVGNpeWx4SW4zOUxDb1ZrUjNrakdxeWlBYjFjTlN0QW11UFJYU0lscTdzM2FidUxRN3dETV83NmM?oc=5
 
-- Indian police accused of sexual harassment against journalists at protest - bbc.com
-  Indian police accused of sexual harassment against journalists
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vS2lXaUpqQXlka2VobFBfQjI5REVCQmx6RDJURHJ4dVdfR1lfaUxkRTJhVEdHVEsyNlJ3U1ZnOVNVNmplLVZYXzlGMzRwa3c0OTRmZlVKVlJzOEk?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- India news: Police order probe amid sexual harassment allegations against officers at Delhi protest - dw.com
-  India news: Police order probe amid sexual harassment allegations against officers
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFIzSEg3am12MXFkN3hVbDZQUWgxVlRqNXE4aU9qS2dWeFNlTDUwTl9idl82VHI3Ml91aWlxT0QyMENGdlh2TEQzcm5FTXdwLUNLbjFsMlowb2tVRkdxVmQydXVHUlVDb3hiSFNHNGV0ZU4zOGV0WVhPRHhlTEJLa0J3YXdJejhUMTR4ZWp4TFNFbFNTeGFmQ1A0WXA3Y0NhakRjSHl0Y2pvSTNRamIydTVmdVlwTU40d0pfLXp4UnZwbzVRWHY1dzkxM3BXLXM?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- INDIA bloc to protest outside CEO’s office on Wednesday - The Hindu
-  India bloc to protest outside CEO's office
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3VtUXNTVGd3YnNyNlFFUW1oSmNqcUswTTRtSldFbWVLWnBpNUxFRlpzQ0U1Y0o4dlZiNHhXeWp3aThTZzhWdDJublpmMUZjUTRPbmE2MnZhbDNlc0RIS0FFMWN0d2JVVGpnV0VockNZMjNwRmJpVFplZWg3Q2d0dW1hWXdYV2FlUlp3U1Y5Y2s3emtscDBlNkxIb2lPanozWXZIb29oZE5XVU50TmVnN0o5dnB5UUNQ0gG_AUFVX3lxTE5EQkloSGdQMDBpVkk1cTZCZG5lQ2QwbENsM3J2Y0trYUQzaDQzREFVd1RLN0RYVy1HLVFJbWNiWDZCYVZLWTZQTWlDTTRIY2k0NTNpMlhrV2FrTXY4WkdOWEZVRHE3eldBdU5UdU1PdmRHNnN3LWxGM0lXcTFtZDA2ckIwTTlGWjNvN1lIQllnVk5TTFZVN3BBR2VkRnF2Q3NkOUVsUmtKZHVodnNOT25lRV92VDNPeVlzQV9NN0VV?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- 'Strikes At Heart Of Constitution': Top Court Judge On Mass Deletion Of Voters - NDTV
-  'Strikes At Heart Of Constitution': Top Court Judge
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMkg2c0c1SkpGVTJNMDhNRTVDRUlFYS1pZFljelFlNmpIX19XMzFYQjB4V0J3WklQUVhOd2V4cVpDbDFjLVVkMVhNZFdEMXFjR2FXTEh3U2owZGJqbDBqbkhFbW1BR29VLUpTTDBjb1dNdFpSSHV1bmVkanZnaHdVcnJPOXhIQWF6QlBJZXRvaG9CMDUzUC1QRWtJcUxkYm10cVplOFBoQXIzSHROTkNxU1FXbkZCaUdNOHhHa2RFNldaanhFdGxDam1ib3FyQ0hBQUxxbFFjb29KTTlsb2Ywazg3UEdFRkh0dVdlNdIB9AFBVV95cUxOQ29uMDUxMzY3WjFJbEtOaS1ZcjZhSE56bXhmS0F1a1R4LU83dzRydVZkSWRlUVBlZ3hQb2tQM2dncVMzR1pYSHRvMzJaLWduUmtjQXB6MzlBTlVGY0tJX0NPWmgza2VwV0tPVTNaVEViMHBvaUt0aTdWNzY4UXJZRFNfak5PMWE1dFNUVi1aQThKaExxT3RSZ19ySkdPbTdRRUY0NV9rdllSNVpoUEFRUi1JMzFaakIzY3doN1g1c0lqQS1nUE9Zd3Q3ckxIOEdvVzlFT2R5TmRseGZLSlByS0JkZHJjQ0hQZ19wcEVNT3JKZ1Vv?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR
-  Asian Games 2026 Conclude in Nagoya; India Fin
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-04 20:50:38 UTC_
+_Last updated: 2026-10-05 03:39:32 UTC_
