@@ -1,244 +1,244 @@
 # 📰 Daily News Summaries
 
-- Trade: How India became dangerously addicted to Chinese imports - BBC
-  The BBC looks at how India became
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?oc=5
-
-- Little room for ‘giving and taking’: India’s finance minister flags trade impasse with the U.S. - CNBC
-  India's finance minister flags trade impasse with the U.S
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5
-
-- FM Nirmala Sitharaman hails India | Akashvani News - News On AIR
-  FM Nirmala Sitharaman ha
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXFwR1lPWnVnblQ5NnRrTTVLbmZqX1hodERtVEhrSENrTDFyZmJvUFgtSGxtbVdseTR5NDBGVGh0YzdwcG1HX01fX0JCNGtNaE5US0lVLVRDTzNNM2I0VEVTQl85QV8wMi1vc3dDQ3NZSG1GQU9abjZYLXAzVUQ1YUdiRzJOLV9hODhfeUZCWXgyQmNVamlibg?oc=5
-
 - Wall Street's $10 Billion India Hospital Bet Sparks A Fight Over Bills - NDTV
   Wall Street's $10 Billion India Hospital Bet Sparks
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlhHWXNrQnBLNjgxNndwdmctRnd1aXJWaUZwbkJHNVItZVotZTZOR0ktejgzeVhmY05jNVVUMkxJaUNENE9IMk85M1M5MTFXVVBELWNyTFBvUnJtRE1Jck5yaFMzUXVmWkVMOWUtZFE3bTZ6dklJYXI5TkoyQWxEejRVTkZ6LUt6aFhHRVczQXhDRHJrWGkxa0JkSW5IWl9Wd0h4VWd5dUNObEVmeG5JT1hB0gG6AUFVX3lxTE1wTUZudlZWQlExT0dwRnhKUFBXSXJnN2RjTTBxN3lnNk1kNnZYMGpIUFNUckRJTmNxTU5yNFJ1MzVvUW92X2d6TXJ5S3g2eEtDSTRwbXRid3J4MU9VQll3TnZEUkI5RVh1SFpwWGQzaUI1UzZTZVN4MGtqQ002TW4tdkJWOFpyQlZvdDB2UVdaUGpzRU43b1BHQkNSR09odm9OUThkRmpEVjN3ZGViVGlzcTk2RWRRN0FFdw?oc=5
 
-- Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st T20I - Yahoo Sports
-  Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjY0YlJCczJDamtzX1dvTU9WeHZmakdJcUVVdFFYUndUbEZNVU9rSUdQTC1DanZjQk00SjB3akpFeW9IbDA1ZENtZUlOUGpQN005Smlja1ZJa1F2azc5elFYdW9YNGVMeG5iNEE2RS03VV80QWtfTmM0MGp1bnRPdVE5ajNqenI0eWc?oc=5
+- Live-in relationships in India: What legal rights do partners have? FAQs explained - The Times of India
+  Live-in relationships in India: What legal rights do partners have
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkN1aEpkODFIUTJyUE1fS2xVZld6TGp1d0d0RHQ5Z3FFY29JT0o4eWh4RDNhOFFpalBDMzlZSUZiMGxxTThoUEZ4NGI2UVBLWlhzT0w4N1NIcTA3b3FDQjhuTi1zd3plTXBDLUdHeExtbDZqaHJ6TVc4Y3M0TnlDZzVPWEFzbGJVTGgtenBpczdDWWVnZk9Kb0J4QXR5VmhHVUw2aXdxMElwX2xaUzBFa0VsS0ZiZnNSSU1rVkZ4VGZmOG1tOVpQTlg2NU5iYVJ0Y1FmdHNHV0d0ZDZ2ZmZtbmx3WmJDamdu0gHuAUFVX3lxTE43S0hKR21BRmxyRDVWM1VZa0tmUnZ3NzJ6NXEtZmZVNHczM2ZGZGNvZmdncU92YU5samc5dXd0V0E1ejdQMVVBVVEtbXdPMUxGTkhwSGJXLS1uc2p0UXhkR2RoNmNUTlpfX0k2bXdPZ0phUl9sa3FGNGY0WlRBSkt6NEN2UEhRSldhWS01ZmJVRUhWWVpQcXdYT0ZDdUJRSC1EaFhXaW1mUFh3Vnl2c0Q4RXdrSlB2b2JDT2huY0dlYmt1NnN3TjdzelhMTTEtZkgwcG1uRVh3QmpSWm9TXzc2Uy11NlUtZkg5cHFfS2c?oc=5
 
-- America wants to wean itself off Chinese technology. Will the pain pay off? - CNN
-  America wants to wean itself off Chinese technology. Will
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5FdC1PMHlQaVA5ckY2UkNyWVVEREt2X0FTMHhfdUM5WEdxZ0RWbFlYeWZYNy1uY2xyRzE2NEJud1lNaHNCQW1LUkJVWVZzZFhOekh4aHVDamwtMGdGR2c0SDF0Q3AybnUxZS1adHppdE9kOVJ5SWJEdGVHOA?oc=5
-
-- Microsoft co-founder Bill Gates says technology has truly stunned him only three times in his life, and t - The Times of India
-  Microsoft co-founder says technology has truly stunned him only three times in his life.
-  🔗 https://news.google.com/rss/articles/CBMi3gJBVV95cUxQQk5uWVcxY05fd2ZkV3R2T3J1SFJTS3dEcXduaGxSZFUwWHdjbURoVUxFQW1qU3RFTGpIZnlnNk50VGhVRlBPOENlYUxSSWhELXRlRlNWRWFpWU80clhGQTR4YU9rSURqTEVFRG9rdWUxZlo4bmlHMkZ4eHE5TnNZSG9OSDgxckZNWnYtT1M5TjUtanluV1FKSnpkTjlEcG95S3JRZmNRZEhTM3l1NUVoUTdGaWhXbnI5LUplMUxnLTlnRkhrbloyNzZ2UE9DUW43RnBmWmVBUjJvV0NHVHpqS1czenpwV1ZaTm1hS05XS0w2MDh4bnNNWU0zT1lFWDY3NVRjMm1FZzdBRW5wS21VNVA2UDI3S0dXTk1rdGdEYTJPeHZGTzV6bmJXX3VHX3hQVjdPcFV6YlNLNW1tWGExQUdhYThDbEg4enZIZnQxaE9HYVE0aGx5YXBxM3hnZ9IB4wJBVV95cUxPTXNUMjBzekdlcENnSzFCLUgxNnhFT2g4Y0ZWUDRNdThHeU1MbmVuWUFYU2ZhdzlheHhHZDFpYTBRb081aTVIRzhTelVMb1ZkNnFYUTRzdUJEc0YyTTUyVWk2Y1dnNHJoZjY2dWpJN0lsMlVSR0V1OG5mZUk5QWh1aDVVaGphYmkxUjZwLXo2cFZvcmQyVDJuZzBMa3RzcjhLMmlSRy1tZF9GU1pDRHVHYnFubk10YkZMa1QxY09kYTc1UjdjUTdlU1NHSFl3ckdOWVFZb2s0eHVCZThwalhFU25VWWhnZ2RqM2Q4UlFITlBmLXRyZlRIaThROWRZYm5LYXFPN0s4bzJqLWt3QkM0LUw1ZWFJU2x2Zk9mUkk3LVZLNVBzcGx5TDhzQmpfYmEwWGNZeUxRTTdWU2p0bXJZeEZyZDJlckpZS0JNYm9zME80dnM1dDlwVk0xNnlMZ2JiLWJN?oc=5
-
-- Accept ‘bad things’ in return for benefits of AI, says Sam Altman - The Guardian
-  Sam Altman: We should accept ‘bad things
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPdllLLU13dGI0Z1I5Q3dod3JORXF1b1JfVTJ4TnBYNFpLT0RHNDU0b1hTWUZzbEdueWN4YXphb3B4OVlxQmw5MEFuVkZQa3FHcDhtU25ZVTM3YlFjVHFSRUk3bFZqblBhM0E5WjU1ZHdYVHRpWV9ZRk96bmxkMG9BNWxCZVVlWjNIV0ZGZ0lCQUg4clozcVlV?oc=5
-
-- I use technology to give students a voice and become critical digital citizens. - blog.google
-  I use technology to give students a voice and become critical
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNeS0yR2V5QWV4TzlpU2xvVGR0ZnBZV0R2SzRyRDd5Tk1wTTFjNFVNcFNUVDRxVVFuT1VTbmZzWkYwUVoxOEs2eVlzTkI4WGRuRDVlc3ZPakFHQTF6ZUIxVWkzcWlsVm1YSHp4X1R6YXRaLUNVbW9neGZUaXcwNkc5NXNYaWxpRERKTm9XVg?oc=5
-
-- New technology advances understanding of eye pressure and glaucoma - Medical Xpress
-  New technology advances understanding of eye pressure and
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVo3aHFaWUhKb3JkczNNbFY0UGhfdUJreWpMSjIxekdNZkJjZW1GOEduXzZNaTlqYjQyWkpuSDZGZVVOVHVxRzlGMUNlOXlTc2wwRjJ4el9qc1B5Z0lLZm9QWkg2QVMwSzVFNXd1Nm9tS3J6NXZxel91Q29zZ3M1bHozVGJOY0xkRjdSU2tn?oc=5
-
-- Netherlands wants Tata Steel to stay, but demands cleaner steelmaking
-  Netherlands wants Tata Steel to retain steelmaking at IJmuiden. Cleaner operations are a condition as talks over
-  🔗 https://www.livemint.com/companies/tata-steel-netherlands-ijmuiden-green-steel-steelmaking-decarbonization-electric-arc-furnaces-government-aid-11791215933836.html
-
-- LIV Golf in line to get initial investment as it tries to emerge from bankruptcy
-  LIV Golf in line to get initial investment as
-  🔗 https://www.livemint.com/companies/liv-golf-in-line-to-get-initial-investment-as-it-tries-to-emerge-from-bankruptcy-11791258735595.html
-
-- FBI removes Accenture contractor for alleged involvement in a data breach that exposed details of thousands of employees
-  The Federal Bureau of Investigation removed an Accenture contractor on Monday over their role in a damaging data breach. The breach exposed sensitive personal details of thousands of bureau employees
-  🔗 https://www.livemint.com/companies/news/fbi-removes-accenture-contractor-for-alleged-involvement-in-a-data-breach-that-exposed-details-of-thousands-of-employees-11791257121089.html
-
-- Elon Musk is a trillionaire again: What factors added to his $1 trillion fortune? A look at the top 10 billionaires
-  Musk's net worth was reported at $1 trillion, up $65.3 billion, or 6.66%, from the last trading day.
-  🔗 https://www.livemint.com/companies/people/elon-musk-is-a-trillionaire-again-what-factors-added-to-his-1-trillion-fortune-a-look-at-the-top-10-billionaires-11791246886495.html
-
-- Noel, three SDTT trustees slam Venu, Vijay over listing ‘epiphanies’, accuse them of breaching fiduciary duties
-  SDTT is the largest shareholder of Tata Sons, owning 27.98% in the holding company. The letter also signals the balance of power in SDTT, with four trustees ranged against two.
-  🔗 https://www.livemint.com/companies/tata-trusts-vs-venu-srinivasan-vijay-singh-tata-sons-listing-11791209202245.html
-
-- Nifty Expiry Today Prediction 6 Oct: Where is the index headed? Key support, resistance, and trading strategy
-  The Nifty index shows signs of recovery after heavy selling, supported by improved global cues and easing crude oil concerns. However, key resistance levels at 22,700-22
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-expiry-today-prediction-6-oct-where-is-the-index-headed-key-support-resistance-and-trading-strategy-11791257301878.html
-
-- Equity Deals Cool in Europe as Higher Rates Hinder Offerings
-  After a bumper first half for European equity offerings, business has become tougher for the region�
-  🔗 https://www.livemint.com/market/equity-deals-cool-in-europe-as-higher-rates-hinder-offerings-11791258742196.html
-
-- Mutual Funds', FPI favourite Tata Group stock hits upper circuit after Q2 update - Can it rise more? Experts decode
-  Trent share price opened at  ₹2,800 and surged 10% to the upper price band. It later extended gains, touching an intraday high
-  🔗 https://www.livemint.com/market/stock-market-news/mutual-funds-fpi-favourite-tata-group-stock-jumps-10-to-hit-upper-circuit-after-q2-business-update-11791257821506.html
-
-- IPO GMP comparison: Nityas Gems &amp; Jewellery, Vishal Nirmiti allotment in focus | Listing share price prediction
-  The shares of both Nityas Gems &amp;amp; Jewellery and Vishal Nirmiti are likely to be listed on
-  🔗 https://www.livemint.com/market/ipo/ipo-gmp-comparison-nityas-gems-jewellery-vishal-nirmiti-allotment-in-focus-listing-share-price-prediction-11791254102916.html
-
-- RBI MPC meeting October 2026: 25 bps repo rate hike on Oct 7? Impact on Sensex, Nifty, bank stocks decoded by experts
-  Market expects interest rate unchanged, interest rate hike by 25 BPS, or interest rate increase by more than 25 B PS.
-  🔗 https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-decoded-how-different-outcomes-may-impact-the-indian-stock-market-11791218169610.html
-
-- South Koreas Lee says AI appears to have been used in bank hacks
-  South Korea's Lee says AI appears to
-  🔗 https://www.livemint.com/technology/south-koreas-lee-says-ai-appears-to-have-been-used-in-bank-hacks-11791252872583.html
-
-- Can Temple check if pilots are fit to fly? Deepinder Goyal suggests Air Force could use it too
-  Temple, a wearable, is designed to collect information on blood flow to the brain
-  🔗 https://www.livemint.com/technology/can-temple-check-if-pilots-are-fit-to-fly-deepinder-goyal-suggests-air-force-could-use-it-too-11791194370436.html
-
-- OPPO F35 Pro and F35 launched in India with 8,000mAh battery: Price, specs and sale date
-  OPPO has launched the F35 Pro 5G and F35 5G in India. Both smartphones feature an 8,000mAh
-  🔗 https://www.livemint.com/technology/oppo-f35-pro-and-f35-launched-in-india-with-8-000mah-battery-price-specs-and-sale-date-11791193052129.html
-
-- Flipkart Big Billion Days 2026: Are 1.0,000mAh batteries the new smartphone must-have?
-   Flipkart Big Billion Days 2026 begins October 8 with discounts and offers on smartphones. Here are the Realme, P
-  🔗 https://www.livemint.com/technology/flipkart-big-billion-days-2026-are-1-0-000mah-batteries-the-new-smartphone-musthave-11791184817363.html
-
-- Your student ID can get you free Gemini AI, Photoshop and more: How to claim
-  Students in India can use their student ID to access free or discounted services from companies such as Google, Spotify, Apple, IndiGo, Adobe, Samsung and GitHub
-  🔗 https://www.livemint.com/technology/your-student-id-can-get-you-free-gemini-ai-photoshop-and-more-how-to-claim-11791181296434.html
+- Not part of INDIA bloc, BJD issues long clarification - The Hindu
+  Not part of INDIA bloc, B
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUozdy1uNi1BYnJVc093YW9TbG1jTVJoVVY5Q2U4M3VQUFRSME1RU0J2OUZUOFNhYWh0YzlzdzhPV3hXNy1RUk1UVGkyTVYtTUI1TkdtVHZHQk0yS3hUU1RaSF9STk9oQV9qVUdaMkl5b0t3c2pQWkV5ZXdfNDFkYnVMY3g4YkctT2xBMWpySUd2TWU1ZXotSV9ESGF5VjB0NWJ4OC03enNESVpiQWRDa2YxYnk1MWlVUFHSAcABQVVfeXFMUDV0dEFfT2FkS1lDNDNWYV9CWmZ1RTdYdzdEblhiaWZEUnJSSUdpU0Y0XzN3dWZYb3Q1cWFRZktROEVRMUowYlJTMHpKZkk4cGRUMGkxR1VRdWhlNlhNZ0xWaWdCc0UtSkVWVWgyNVFzNGVXdGFGSDlmVUE4STV6SFYwTW1INks4ZUNZN01FT1NyMWQ0S2Y0LVY4LXZKeEg1eGdld0FlS0xyU2ZOT3ZoNHpUZy1ucml6SnBXaVVjM18z?oc=5
 
 - Five reasons India's stock market is sinking even when its economy is growing - BBC
   Five reasons India's stock market is sinking even when its
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
 
-- Stock Market Today Live Updates: Markets end in green; Sensex gains 473 points, Nifty rises 134 points - The Times of India
-  The Sensex gained 473 points, Nifty rises 134 points.
-  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxPNmNJcUdxV1hoQVJhMVMzSElvZUtyWG1YYkh2ZVBCbUNVcFAzUW9TOUgwVDlrdHdUQ2hWNjJkdWtkRnNrUGZXMnJ1Y0V0SW8xSGs4M2t3a2NHWmFHVXVWUXQ0Y2JBeHdTWlpMWWF5Szc1OUo2cjBrMTBfMG1jejIyejVRU2lvOHF4d2NPQUhJajl6cHR4b1praUxpQXk1WWhQcFdwRE1nTHhUeHdTbXE3cjFLTkg4STBNNVJRWlkxbW43LUNGZXQ0SUNSNmhHTEVjRTB1b3FoSC15cnhqTHZwczFsaFdKZWMxakZtdnNxS2U5QWdLd3Fyc2l2cWMwaXFZTWdQREVoXzFuZmp0YmcweVY5RU5SbkE1WUZPMXMtVlhPaS1qRlFxYTI0ZmE0VXc5Rk43btIBugJBVV95cUxOYVFBU0NWN2JMUDFqNndOdGE4QlkwdndZaVZGOHUtYUl5dUVHOFNtMW1XUGpzekI3TV80WkFwdENackVHLWdTNEhxTWpSbEk0Z2VzZzAzUFJMdzV1SmthOGxOVTlWajc5THl2eU5nMnNlWlB3T01nUlk5eThLaDVBc3lfUXVKTlh3RkdDRkNaY0pENnpBWURTVGNXdU9iekE5NE03QUh5TnhmRHN5cUdkZ3FhMXNoY0k4TWVlemdJY2FOUW96Z2hqQ01UUFhURDYyT3RocWRYOVpERmk5cGlVOWE0clJ5Ync2NHRRMm9xQVYtRzBHNEdGZDlUczNvZEwzQ2ttdGIxZXg2VjZGVWw0LTdGWVBsRGYzNlFrdnBwUDE0dkVzMDJLWTFtdTNhR1dVQXlDU0FMcFNxZw?oc=5
+- Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5
 
-- Stock Market Today Live Updates: Will NSE Nifty50, BSE Sensex extend previous session's gains? - The Times of India
-  The Times of India is a leading newspaper in India. It is based in
-  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxNTk91QWdlWk50QkhrOF9IRmhzR01GUnJ3bC0wRURIbERyQjY0Vy05bmhvbnlQenRpZnRZNlE2aHc0VXpTc09pY21lVlI2anhkY2dKcmd0SlZIeVhDbGN1SWlTUEVtb0MzWmlCbS0wa0ZBb0lBM2tYcnBsUEpnMEN5SllSTHBpdGZ4SW1kNnFWZlgzeF9LT19iTFhLSWlWVEVIVG5FY3Z0ZzBfUnFrV3JLdW1rRExqaVMyVjI0cW82UUpZa1Y3R3NmeHM0Y3JSLU12RV9PREoyTzhQZmVVdExnTGZFVHlxeUJWSFpxSTRMNFdXcm92Z016TGtHb2cxSzZIbkNrMjhJUk83TWc5c25ES1R0eFlOSTVHY3JEV3ZoYTY3UmE0OV9HcDdRNUQ2WFZKVTdkQ9IBugJBVV95cUxQY3pfZDhza01JSWV3Q3pYdUtiVUJFY0M2TWNWc0xsRDFuV2RTdi1TU3p4Tk1ENG1mal9vYy16ZHUwZG03NHpBa0RkWWNyWUVQa1o2LXNTVk9ZUG9WM2JINml0YU9rQmgwdzVzbUlITEpiVkJxZUFvdU9ncUh4WVlnVUkxMnhuLVZfQ242M2RoWVUtekRMUTVyc0hIYzVqWF9JcjAzRUVyRFdWYWM5YmU5VVp0bjg3OWZ6SXAtRlFZbC1SckhOWER6Z2FjaF9nVWdRellnRnlhbGFXWGJNcjVYTG9lY2lvLVBIOHRkaFRibkVnZHEwdmpkbjJ4T093MWJKa0kzMlA5SkZWcGRjeUdMeEZrNThaWWVINEd0bzVWb2dUMXdFOFV2aUVfREE4SEYyVjlybnUxdkJYQQ?oc=5
+- AI expert Gary Marcus warns 'reckless' technology could lead to deaths as he calls for more regulation - Fox Business
+  CNN.com's John Sutter reports on Fox Business' coverage of
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNVU9sV3ZyMHZpajNZZEdJXy04SWdqLWdvd1BXLW81NVZNajF6VXlBaDBpSnZFM3BPUTNwS01WcmZ2QmpXXzZ2ckg2bTlBSHdrMzNJOUdIeElJX0pXMnhWQ29tMDRZeWFhQ2RaZmNBaFNGVWFpYzhyUEZLOTJzY0hHSmd6MUpqT2V3TEZvSXBFRjBnYWNWcmZsNjBEaVMyeVhicHpxWlZ5d3hxRm5kQXNfRzZEa2zSAboBQVVfeXFMTmZBTkJqMU9YV084V05Ed05GMXFjY1lWa3BDNF83dUJzbFpxR1VjWU94dkRSb2dYRkU2anRaeWdTdDJka0lGZ1dVUW9RSFFTWmpKY2VNY1NMRFRLOEwySVg3aVBVdnljd05mT3dvSzVzTzlsLUV5bXZ4ZXNKT1lBMDc5ZlhiRGdSMmtyemt2OUNfLTA2MU4tc3NnNUhlVXBobVVXcDNfR09Rb0hNbnBKNzRKY28zOUFib2d3?oc=5
 
-- Markets News, Oct. 5, 2026: Nasdaq Closes at Record as AI-Tied Stocks Rise; S&P 500, Dow Gain; Treasury Yields Surge to Highest Level Since 2002 - Investopedia
-  The Dow Jones Industrial Average closed at a record high on October 5, 2026. The S&amp;P
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmdhcm5tbTZJRnBPNmwyNk5PR1l6eG5lQTlzY25rQjlWN19LZC1RNEFkVDE4UlNsc05TTkIwLXY3MVNLQk1XMC1pb25VZ29SVzZBQnpkZTZIaUp3Y1lEXzBfdFFsa3pEMVhXbjJKeTByTUlxU3lmM0ZINlVvNWtnajVyZ1EwRlBudVJuTi1GeUo?oc=5
+- Intelligence Everywhere: Inside Europe’s Next Technology Era - Euronews.com
+  Euronews.com
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2NRWFg5VG1SWlZNdTZJSXVweFc2QmcwcWs3V3ZOQjIwS1RYOE93NFhwLWRqcUlTNTNldklCdVQ5Mzh2RHMyOFBhRWc1TFlYUnhzMWd6Z0NVbVpzdnJLbTJpWXlNS00zTkZGb21lQUUyYkdadkJ3amFMUXJ5clgwbFNzWXNYUmtsX2RFdlU3VWxTRTRQSXJFaTNn?oc=5
 
-- Stock Market News, Oct. 5, 2026: 10-Year Yield Rises; Nasdaq Jumps to New High - WSJ
-  Stock Market News, Oct. 5, 2026: 10
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3NQQk5xNzUwYnp3OXVHcUQxLTBXOWJpNEl5VXRpT1M3SGg4R18wdlN2U1dvNzB5dVVISWNEN3BBQ1hqa2xaU1RSdHRzZ3BPWGlYMXVhemk0WERlWHlMX0FOSGdiazhPc0VVd0tTQ2J4dmU3czR2emVzWW10MFRtNVBTYnBBblU?oc=5
+- India, Switzerland sign key agreements on visas, defence and technology - The Hindu
+  India, Switzerland sign key agreements on visas,
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhHR25rbGlRb3J2YW1ZbVE5RjlJUGZOVDFVT0JIQ0JfTTZSRGdpMUh4aEpSZ0pfbUlPenBxZ1dXcGUtbk9XVmY4bWFaQmxDaW4wdTAtYUZRM1c4b2drdDdJemZkMG5veGxONmhrZDI2aFNkQ1F5X0J1a19HcHZkcnpnc1hUZUJhNzMtNllsQS1LeGczb1dZUUNFbEMxZUhiSDBrUUh1N2N5V0NxcHBuSTU4VlRyZHJIQU1sU0hB0gHEAUFVX3lxTE14WVNNWEhFZXJiTmVQdUh6aHQxR2lURVd3dllYY3prSUVpbDJLTEVlemxnaXlkc2tnY0h0QTJreHNVWE9QcWxTUTNJRzVRTkc2UXVnTVlOQjBKTThiVjN0MVVTQk5aVTd1WkgwNVNEeXJpeEt4SzBtbjJuazh4UlE1U1F2OVdOczEzSHhGbkFPRG9FZ3F1YTJDanc4NUgtcFZIY1FWcThZSTFab2NHUFRHUTYwQkpCNlpFMl85V0dkTTRYZXk?oc=5
 
-- Ujjivan Small Finance Bank among 4 stocks with sharp rise in futures open interest
-  Four NSE F&amp;O stocks recorded a rise of over 15% in futures open interest on October 5. Anand Rathi Wealth
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ujjivan-small-finance-bank-among-4-stocks-with-sharp-rise-in-futures-open-interest/slideshow/134722509.cms
+- Accept ‘bad things’ in return for benefits of AI, says Sam Altman - The Guardian
+  Sam Altman: We should accept ‘bad things
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPdllLLU13dGI0Z1I5Q3dod3JORXF1b1JfVTJ4TnBYNFpLT0RHNDU0b1hTWUZzbEdueWN4YXphb3B4OVlxQmw5MEFuVkZQa3FHcDhtU25ZVTM3YlFjVHFSRUk3bFZqblBhM0E5WjU1ZHdYVHRpWV9ZRk96bmxkMG9BNWxCZVVlWjNIV0ZGZ0lCQUg4clozcVlV?oc=5
 
-- Kotak Mahindra Bank shares jump 4% as Q2 net advances rise 25% YoY, deposits up 23%
-  Kotak Mahindra Bank's net advances increased 25% year-on-year to Rs 5.77 lakh crore in Q2 FY27. CASA deposits reached Rs 2.49 lakh crore, reflecting an 11% growth
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-in-focus-as-q2-net-advances-rise-25-yoy-deposits-up-23/articleshow/134722284.cms
+- Quantum Technology – India’s Readiness, Global Position and Key Imperatives - Nasscom
+  Quantum Technology – India’s
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHdNVE9UQUtkUVJvR3NwdnZ0b1lnZktuUV9YY3lxdDZjbEVQT2FzZHYyU0NjYnMxSXV6TWEweEpKMnhSZEN4NEQxbjZrUktqa1NmY0tkRm94SjFBUWhndlNNRWx0NlpMSWd4cTVVQURhaDRZRk9Pa1AwTjhmLUozblZwcktZaVFpbjNNeWxzU1JlTnlNQTN6RkY4ZGFCcTVIT0l3cjJzN2xYVTFiam9FS082MUNJX2hPX2ZDM24zVC14UQ?oc=5
 
-- Axis Bank shares in focus after Q2 biz update shows 23% rise in gross advances to Rs 13.8 lakh crore
-   Axis Bank reported a 22.7% YoY rise in gross advances to Rs 13.846 lakh crore in Q2. Total deposits grew 20.7 per cent
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-shares-in-focus-after-q2-biz-update-shows-23-rise-in-gross-advances-to-rs-13-8-lakh-crore/articleshow/134722331.cms
+- India’s cybersecurity startups face a new hurdle: proving they can protect customers
+   Enterprises are moving beyond security certifications to scrutinize how cybersecurity startups protect data, control access and
+  🔗 https://www.livemint.com/companies/start-ups/cybersecurity-startups-enterprise-security-checks-11791263076605.html
 
-- SP Group unit raises $460 million in rupee debt to repay loans
-  Eqyizen Investment, a subsidiary of the Shapoorji Pallonji Group, has successfully secured 44.5 billion rupees through the issuance of zero-coupon rupee bonds. These bonds will mature in July 20
-  🔗 https://economictimes.indiatimes.com/markets/bonds/sp-group-unit-raises-460-million-in-rupee-debt-to-repay-loans/articleshow/134722257.cms
+- RPSG Group weighs 15-20% stake sale in IPL team Lucknow Super Giants
+  RPSG is seeking a valuation of $1.5 billion to $2 billion for the
+  🔗 https://www.livemint.com/companies/rpsg-group-stake-sale-ipl-franchise-lucknow-super-giants-11791265884438.html
 
-- Shah Investor's Home shares to list today; GMP indicates 10% potential listing gain
-  Shah Investor's Home shares are scheduled to list on the BSE and NSE today, October 6. The Rs 90.17 crore IPO was subscribed 38.12 times overall.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/shah-investors-home-shares-to-list-today-gmp-indicates-10-potential-listing-gain/articleshow/134722163.cms
+- Campa, PepsiCo and Monster win Delhi court relief against FSSAI 'energy drink' label ban
+  Delhi court put on hold food regulator's order to stop Campa, PepsiCo and Monster Beverage from using ‘energy drink’ label
+  🔗 https://www.livemint.com/companies/news/campa-v-fssai-reliance-wins-delhi-court-relief-against-energy-drink-label-ban-11791279066471.html
 
-- Trade: How India became dangerously addicted to Chinese imports - BBC
-  The BBC looks at how India became
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?oc=5
+- Trump’s $100,000 H-1B fee hits legal hurdle
+  Indian technology firms rely on H-1B visas to deploy skilled workers in the US. Two district courts have blocked
+  🔗 https://www.livemint.com/companies/h1b-visa-fee-trump-indian-it-companies-11791203653112.html
 
-- Little room for ‘giving and taking’: India’s finance minister flags trade impasse with the U.S. - CNBC
-  India's finance minister flags trade impasse with the U.S
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5
+- Defence manufacturing startup Sanlayan in talks to raise $35-40 million at $200 million valuation
+  Sanlayan has begun raising $35-40 million at a targeted valuation of $150-200 million
+  🔗 https://www.livemint.com/companies/sanlayan-fundraise-defence-manufacturing-startup-11790839385837.html
 
-- FM Nirmala Sitharaman hails India | Akashvani News - News On AIR
-  FM Nirmala Sitharaman ha
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXFwR1lPWnVnblQ5NnRrTTVLbmZqX1hodERtVEhrSENrTDFyZmJvUFgtSGxtbVdseTR5NDBGVGh0YzdwcG1HX01fX0JCNGtNaE5US0lVLVRDTzNNM2I0VEVTQl85QV8wMi1vc3dDQ3NZSG1GQU9abjZYLXAzVUQ1YUdiRzJOLV9hODhfeUZCWXgyQmNVamlibg?oc=5
+- RBI MPC interest rate decision in focus: Can a 25 bps hike trigger a market sell-off?
+  The Reserve Bank of India prepares for a potential 25 basis points rate hike. Analysts weigh in on how this decision could influence banking stocks and the broader economy.
+  🔗 https://www.livemint.com/market/stock-market-news/rbi-mpc-interest-rate-decision-in-focus-can-a-25-bps-hike-trigger-a-market-selloff-11791284684306.html
+
+- TajGVK Hotels shares: Stock down 26% in 1 year, but Monarch sees 49% upside - Here's why | Check share price target
+  Monarch Research projects TAJGVK's revenue and EPS to grow at 26.4% and 15.4%. Valued at 8
+  🔗 https://www.livemint.com/market/stock-market-news/tajgvk-hotels-shares-stock-down-26-in-1-year-but-monarch-sees-49-upside-heres-why-check-share-price-target-11791277730643.html
+
+- Hang Seng index rallies 1%, extends gains for second day as tech stocks support sentiment - What to watch next
+  The Hang Seng Index rose 1% on October 6, driven by strong tech stock performance amid pressure on rate-sensitive sectors. Key Asian markets showed mixed results, while oil prices declined following
+  🔗 https://www.livemint.com/market/stock-market-news/hang-seng-index-rallies-1-extends-gains-for-second-day-as-tech-stocks-support-sentiment-what-to-watch-next-11791285576037.html
+
+- Can IPO buzz boost CDSL and NSDL Q2 earnings? What the stocks investors need to know
+  Strong IPO activity is expected to boost CDSL and NSDL's earnings in Q2 FY27. Analysts highlight the importance of consistent
+  🔗 https://www.livemint.com/market/stock-market-news/can-ipo-buzz-boost-cdsl-and-nsdl-q2-earnings-what-the-stocks-investors-need-to-know-11791284891478.html
+
+- Why Kotak Mahindra Bank shares are outperforming Nifty 50 and Bank Nifty in the last two months? Experts explain
+  Kotak Mahindra Bank outperformed despite market decline, gaining 10% over two months. Analysts see positive catalysts, including a new CEO and better earnings expectations.
+  🔗 https://www.livemint.com/market/stock-market-news/why-kotak-mahindra-bank-shares-are-outperforming-nifty-50-and-bank-nifty-in-the-last-two-months-experts-explain-11791281103828.html
+
+- World Bank says India should scale small AI applications instead of betting heavily on frontier models
+  India should focus on expanding the use of existing artificial intelligence applications across the economy, says Vincent Belinga, Senior Economist at the World Bank.
+  🔗 https://www.livemint.com/technology/world-bank-says-india-should-scale-small-ai-applications-instead-of-betting-heavily-on-frontier-models-11791283874808.html
+
+- India among top 10 emerging markets in AI readiness; private AI investment triples: World Bank
+  India among top 10 emerging markets in AI readiness;
+  🔗 https://www.livemint.com/technology/india-among-top-10-emerging-markets-in-ai-readiness-private-ai-investment-triples-world-bank-11791283557375.html
+
+- UK watchdog opens first Online Safety Act probe into Meta
+  UK watchdog
+  🔗 https://www.livemint.com/technology/uk-watchdog-opens-first-online-safety-act-probe-into-meta-11791283557022.html
+
+- Vivo V80 launched in India with Zeiss cameras, 7,200mAh battery: Check specs, price and sale date
+  Vivo has launched the V80 and S2 FE in India. The V80 starts at  ₹62,999 and features Zeiss cameras, a 7,200mAh battery and a Snapdragon 7 Gen 4 chipset
+  🔗 https://www.livemint.com/technology/vivo-v80-launched-in-india-with-zeiss-cameras-7-200mah-battery-check-specs-price-and-sale-date-11791276620933.html
+
+- Is era of affordable smartphones ending? HMD India CEO warns prices may stay high till 2027
+  HMD India CEO Ravi Kunwar said rising memory and component costs, partly driven by AI demand, could keep smartphone prices elevated through the end of 2027. The company
+  🔗 https://www.livemint.com/technology/is-era-of-affordable-smartphones-ending-hmd-india-ceo-warns-prices-may-stay-high-till-2027-11791268377725.html
+
+- Stock futures rise after Nasdaq hits new record high: Live updates - CNBC
+  Stock futures rise after Nasdaq hits new record
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE54SDBCVUlsR19iZW9vcGFvN3dtT1hLbDEwdGM0S2xkZ2pXam96MjdpaUp4RW5acS1YZWVMYlZmRVVOZ3BtVk42TklUTTg0VFlLUkVyRUl0aFVzbVBISW5DQWRkMHNEakdlUXEtOGg1RkRuemFWM3hB0gF8QVVfeXFMTmVlVWdLbGJqQklwY1NYVkNua3A3SHFvRnFjaVFjVGtrUTJTZVo3Q2R4aWxkSEFCXzg4dVh1MTJPZHdDV0dGWmd3VHlCdTgwUWhDWmhVbjZiMXBwU0hiQ3ZNa01Ic1V5SmZwSk05N21TSWNMU09SM1ItMExoLQ?oc=5
+
+- Stock market today: Dow, S&P 500, Nasdaq rise as tech rallies, investors shrug off bond market caution - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq rise as tech rallies
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMXlteVhsbnJDQXg3Z2lNdHNXWUlnelJHbEd6SGJSeDA5elNabWlJWXZfMFFDck1GTEQ4VEhOb2ttM3U5bThhMVl3d05NenhqaFhBOWpfZm5yb0diQmhib3RiTlRrMmxkVzNMNDVwT0ptaVFrMkVnVmk0T2g5WnVud3lrZE1Ick9Nck56SDdac3NXaERCMTV1SkdUTzVrd185M0gyWll5dUgxbHpheHE1QzI2NWRwOFcwVDFxYXM5cXlaNWNKVUQyWFc4MUZvMjJwZ0tfblIyV1FmbjN1a1FjNUhyaFEyZw?oc=5
+
+- Stock Market Today: S&P Futures Rise, Putting New Record In Sight — Live Updates - WSJ
+  Stock Market Today: S&amp;P Futures Rise
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0g3Vl9oNWVWc0JnemQ3U2xLOXJ0SDZZSVljcEtiaExTRTgtTzB1a3puLURIQjJJSmJvbG1XbE9jVWlKSTdfWFpSblZIUzhiTkVITkFpcm1XT1NMVVVQVHRZaXJoejh4UG5HaDRWQWNHclgtUmIxX1g2czJ3SUhFZEVlSGtrR1U?oc=5
+
+- Five reasons India's stock market is sinking even when its economy is growing - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
+
+- Live: Gilts Jump as FTSE 100 Heads for Third Day of Gains - Bloomberg.com
+  The FTSE 100 is up 1.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOVkphbjA5WWV0SE0zOHBiU2daSmE0VF9QUW52S1F4TFJ1YmpGc3VXWndodEQ1RTlzRHZyZGJ0dGJpci0tTU50bEtpLWRCR2dJenVqUjFVa1FtVGxmRzVvUU5ld28xSi1zVExNUVNXRV92SmltajV5MTFab2FSeW5YeGdWZk5NSWRIQTBJTnhHTnpESmpYTFEzSktpbFJ2Z1hDUGRnNW55dkdOOFJhbjBGdzYzZThEV1E3OVFEYk1tTjFmdTlIX0h4SFpzZklpalhpbGlYcVNtQUpudk5IbEl1Vk9GSVR2Y2dCZlZTYVBWaDNfSlpvdVJPeFhseDdSSnVaMU9leU9rMDdvdWxxeGlR?oc=5
+
+- ET Alpha Wealth Summit 2.0: Where is smart money moving amid global market churn?
+  Two back-to-back sessions will explore where long-term capital is moving. Family offices and institutions are putting money to work across private credit, venture debt and co-investments.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-where-is-smart-money-moving-amid-global-market-churn/articleshow/134739429.cms
+
+- HFCL among 4 stocks hitting 52-week highs; rallied up to 15% in a month
+  HFCL, Aether Industries, Aditya Infotech and BHEL hit fresh
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hfcl-among-4-stocks-hitting-52-week-highs-rallied-up-to-15-in-a-month/slideshow/134740315.cms
+
+- Indian bonds rangebound as traders await a hawkish RBI verdict
+  The benchmark 6.94% 2036 bond yield decreased slightly. Many economists predict the Reserve Bank of India will raise its key policy rate by 25 basis points.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rangebound-as-traders-await-a-hawkish-rbi-verdict/articleshow/134739826.cms
+
+- Market wrap: Trent, BSE, Coal India, Tech Mahindra top gainers and losers on Nifty and Sensex on Tuesday
+  Franklin India Small Cap Fund crossed Rs 14,000 crore in AUM. A Rs 10,000 monthly SIP grew to nearly Rs 1.94 crore over 20 years.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-trent-bse-coal-india-tech-mahindra-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134739696.cms
+
+- Reliance Industries shares gain 3% as JIO IPO inches closer; Jefferies increases weight in conglomerate
+  Reliance Industries is preparing for the IPO of Jio Platforms scheduled to launch on October 21. Jefferies has raised its weight on Reliance Industries due to attractive valuations.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-gain-3-as-jio-ipo-inches-closer-jefferies-increases-weight-in-conglomerate/articleshow/134738865.cms
 
 - Wall Street's $10 Billion India Hospital Bet Sparks A Fight Over Bills - NDTV
   Wall Street's $10 Billion India Hospital Bet Sparks
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlhHWXNrQnBLNjgxNndwdmctRnd1aXJWaUZwbkJHNVItZVotZTZOR0ktejgzeVhmY05jNVVUMkxJaUNENE9IMk85M1M5MTFXVVBELWNyTFBvUnJtRE1Jck5yaFMzUXVmWkVMOWUtZFE3bTZ6dklJYXI5TkoyQWxEejRVTkZ6LUt6aFhHRVczQXhDRHJrWGkxa0JkSW5IWl9Wd0h4VWd5dUNObEVmeG5JT1hB0gG6AUFVX3lxTE1wTUZudlZWQlExT0dwRnhKUFBXSXJnN2RjTTBxN3lnNk1kNnZYMGpIUFNUckRJTmNxTU5yNFJ1MzVvUW92X2d6TXJ5S3g2eEtDSTRwbXRid3J4MU9VQll3TnZEUkI5RVh1SFpwWGQzaUI1UzZTZVN4MGtqQ002TW4tdkJWOFpyQlZvdDB2UVdaUGpzRU43b1BHQkNSR09odm9OUThkRmpEVjN3ZGViVGlzcTk2RWRRN0FFdw?oc=5
 
-- Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st T20I - Yahoo Sports
-  Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjY0YlJCczJDamtzX1dvTU9WeHZmakdJcUVVdFFYUndUbEZNVU9rSUdQTC1DanZjQk00SjB3akpFeW9IbDA1ZENtZUlOUGpQN005Smlja1ZJa1F2azc5elFYdW9YNGVMeG5iNEE2RS03VV80QWtfTmM0MGp1bnRPdVE5ajNqenI0eWc?oc=5
+- Live-in relationships in India: What legal rights do partners have? FAQs explained - The Times of India
+  Live-in relationships in India: What legal rights do partners have
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkN1aEpkODFIUTJyUE1fS2xVZld6TGp1d0d0RHQ5Z3FFY29JT0o4eWh4RDNhOFFpalBDMzlZSUZiMGxxTThoUEZ4NGI2UVBLWlhzT0w4N1NIcTA3b3FDQjhuTi1zd3plTXBDLUdHeExtbDZqaHJ6TVc4Y3M0TnlDZzVPWEFzbGJVTGgtenBpczdDWWVnZk9Kb0J4QXR5VmhHVUw2aXdxMElwX2xaUzBFa0VsS0ZiZnNSSU1rVkZ4VGZmOG1tOVpQTlg2NU5iYVJ0Y1FmdHNHV0d0ZDZ2ZmZtbmx3WmJDamdu0gHuAUFVX3lxTE43S0hKR21BRmxyRDVWM1VZa0tmUnZ3NzJ6NXEtZmZVNHczM2ZGZGNvZmdncU92YU5samc5dXd0V0E1ejdQMVVBVVEtbXdPMUxGTkhwSGJXLS1uc2p0UXhkR2RoNmNUTlpfX0k2bXdPZ0phUl9sa3FGNGY0WlRBSkt6NEN2UEhRSldhWS01ZmJVRUhWWVpQcXdYT0ZDdUJRSC1EaFhXaW1mUFh3Vnl2c0Q4RXdrSlB2b2JDT2huY0dlYmt1NnN3TjdzelhMTTEtZkgwcG1uRVh3QmpSWm9TXzc2Uy11NlUtZkg5cHFfS2c?oc=5
 
-- Founder Salaries Tracker FY26: How Much Did India’s Startup Founders Earn?
-  Sixteen founders across 10 new-age tech companies earned a combined ₹43.4 Cr in fixed remuneration in FY26, up 8
-  🔗 https://inc42.com/features/founder-salaries-tracker-fy26-how-much-did-indias-startup-founders-earn/
+- Not part of INDIA bloc, BJD issues long clarification - The Hindu
+  Not part of INDIA bloc, B
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUozdy1uNi1BYnJVc093YW9TbG1jTVJoVVY5Q2U4M3VQUFRSME1RU0J2OUZUOFNhYWh0YzlzdzhPV3hXNy1RUk1UVGkyTVYtTUI1TkdtVHZHQk0yS3hUU1RaSF9STk9oQV9qVUdaMkl5b0t3c2pQWkV5ZXdfNDFkYnVMY3g4YkctT2xBMWpySUd2TWU1ZXotSV9ESGF5VjB0NWJ4OC03enNESVpiQWRDa2YxYnk1MWlVUFHSAcABQVVfeXFMUDV0dEFfT2FkS1lDNDNWYV9CWmZ1RTdYdzdEblhiaWZEUnJSSUdpU0Y0XzN3dWZYb3Q1cWFRZktROEVRMUowYlJTMHpKZkk4cGRUMGkxR1VRdWhlNlhNZ0xWaWdCc0UtSkVWVWgyNVFzNGVXdGFGSDlmVUE4STV6SFYwTW1INks4ZUNZN01FT1NyMWQ0S2Y0LVY4LXZKeEg1eGdld0FlS0xyU2ZOT3ZoNHpUZy1ucml6SnBXaVVjM18z?oc=5
 
-- Snapdeal’s Weak Listing, Founders Pledge Stakes & More
-  Snapdeal parent Ace vector listed at&#8230;. Shares of the Snapdeal parent listed at &#8220;.
-  🔗 https://inc42.com/buzz/snapdeals-weak-listing-founders-pledge-stakes-more/
+- Five reasons India's stock market is sinking even when its economy is growing - BBC
+  Five reasons India's stock market is sinking even when its
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
 
-- Beyond Appliances Raises ₹110 Cr To Expand Product Portfolio, Boost Manufacturing
-  Beyond Appliances has raised $10.4 million in a Series B funding round led by Fireside.
-  🔗 https://inc42.com/buzz/beyond-appliances-raises-%e2%82%b9110-cr-to-expand-product-portfolio-boost-manufacturing/
+- Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5
 
-- RentoMojo Q1: Profit Tanks 39% YoY To ₹7.8 Cr, Revenue Zooms 51%
-  Furniture and appliance rental startup RentoMojo’s consolidated net profit tanked&#8230; in its first financial disclosure.
-  🔗 https://inc42.com/buzz/rentomojo-q1-profit-tanks-39-yoy-to-%e2%82%b97-8-cr-revenue-zooms-51/
+- Thank You, Partners, For Making Inc42’s CTO Summit 2026 A Success
+  On September 30, Inc42 hosted the inaugural edition of the CTO Summit 2026 at JW Marriott, Bengaluru.
+  🔗 https://inc42.com/buzz/thank-you-partners-for-making-inc42s-cto-summit-2026-a-success/
 
-- Marico Acquires Additional Stake In Plix For ₹1,012 Cr, To Complete Buyout By July 2027
-  Marico has acquired an additional 24.09% stake in plant-based nutrition and personal care brand Plix for ₹1,012.
-  🔗 https://inc42.com/buzz/marico-acquires-additional-stake-in-plix-for-%e2%82%b91012-cr-to-complete-buyout-by-july-2027/
+- Exclusive: Ahead Of IPO, StockGro Looks To Raise ₹110 Cr From Existing Backers
+  Invest tech startup StockGro, which pre-filed its IPO papers last week, is looking to raise around $10.4 million.
+  🔗 https://inc42.com/buzz/exclusive-ahead-of-ipo-stockgro-looks-to-raise-%e2%82%b9110-cr-from-existing-backers/
 
-- Trade: How India became dangerously addicted to Chinese imports - BBC
-  The BBC looks at how India became
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?oc=5
+- Cabinet Clears ₹10,000 Cr SME Fund To Back Manufacturing, Tech Focused SMEs
+  The Union Cabinet, chaired by Prime Minister Narendra Modi, has approved the government’s ₹10,000 Cr SME Growth
+  🔗 https://inc42.com/buzz/cabinet-clears-%e2%82%b910000-cr-sme-fund-to-back-manufacturing-tech-focused-smes/
 
-- Little room for ‘giving and taking’: India’s finance minister flags trade impasse with the U.S. - CNBC
-  India's finance minister flags trade impasse with the U.S
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5
+- Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO
+  Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO.
+  🔗 https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/
 
-- FM Nirmala Sitharaman hails India | Akashvani News - News On AIR
-  FM Nirmala Sitharaman ha
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXFwR1lPWnVnblQ5NnRrTTVLbmZqX1hodERtVEhrSENrTDFyZmJvUFgtSGxtbVdseTR5NDBGVGh0YzdwcG1HX01fX0JCNGtNaE5US0lVLVRDTzNNM2I0VEVTQl85QV8wMi1vc3dDQ3NZSG1GQU9abjZYLXAzVUQ1YUdiRzJOLV9hODhfeUZCWXgyQmNVamlibg?oc=5
-
-- Wall Street's $10 Billion India Hospital Bet Sparks A Fight Over Bills - NDTV
-  Wall Street's $10 Billion India Hospital Bet Sparks
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlhHWXNrQnBLNjgxNndwdmctRnd1aXJWaUZwbkJHNVItZVotZTZOR0ktejgzeVhmY05jNVVUMkxJaUNENE9IMk85M1M5MTFXVVBELWNyTFBvUnJtRE1Jck5yaFMzUXVmWkVMOWUtZFE3bTZ6dklJYXI5TkoyQWxEejRVTkZ6LUt6aFhHRVczQXhDRHJrWGkxa0JkSW5IWl9Wd0h4VWd5dUNObEVmeG5JT1hB0gG6AUFVX3lxTE1wTUZudlZWQlExT0dwRnhKUFBXSXJnN2RjTTBxN3lnNk1kNnZYMGpIUFNUckRJTmNxTU5yNFJ1MzVvUW92X2d6TXJ5S3g2eEtDSTRwbXRid3J4MU9VQll3TnZEUkI5RVh1SFpwWGQzaUI1UzZTZVN4MGtqQ002TW4tdkJWOFpyQlZvdDB2UVdaUGpzRU43b1BHQkNSR09odm9OUThkRmpEVjN3ZGViVGlzcTk2RWRRN0FFdw?oc=5
-
-- Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st T20I - Yahoo Sports
-  Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjY0YlJCczJDamtzX1dvTU9WeHZmakdJcUVVdFFYUndUbEZNVU9rSUdQTC1DanZjQk00SjB3akpFeW9IbDA1ZENtZUlOUGpQN005Smlja1ZJa1F2azc5elFYdW9YNGVMeG5iNEE2RS03VV80QWtfTmM0MGp1bnRPdVE5ajNqenI0eWc?oc=5
-
-- Trade: How India became dangerously addicted to Chinese imports - BBC
-  The BBC looks at how India became
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?oc=5
-
-- Little room for ‘giving and taking’: India’s finance minister flags trade impasse with the U.S. - CNBC
-  India's finance minister flags trade impasse with the U.S
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5
-
-- FM Nirmala Sitharaman hails India | Akashvani News - News On AIR
-  FM Nirmala Sitharaman ha
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXFwR1lPWnVnblQ5NnRrTTVLbmZqX1hodERtVEhrSENrTDFyZmJvUFgtSGxtbVdseTR5NDBGVGh0YzdwcG1HX01fX0JCNGtNaE5US0lVLVRDTzNNM2I0VEVTQl85QV8wMi1vc3dDQ3NZSG1GQU9abjZYLXAzVUQ1YUdiRzJOLV9hODhfeUZCWXgyQmNVamlibg?oc=5
+- Dronetech Startup AITMC Files UDRHP For A Fresh Issue IPO
+  Dronetech and skill development startup AITMC Ventures has filed its UDRHP with SEBI for an IPO comprising a fresh issue.
+  🔗 https://inc42.com/buzz/dronetech-startup-aitmc-files-udrhp-for-a-fresh-issue-ipo/
 
 - Wall Street's $10 Billion India Hospital Bet Sparks A Fight Over Bills - NDTV
   Wall Street's $10 Billion India Hospital Bet Sparks
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlhHWXNrQnBLNjgxNndwdmctRnd1aXJWaUZwbkJHNVItZVotZTZOR0ktejgzeVhmY05jNVVUMkxJaUNENE9IMk85M1M5MTFXVVBELWNyTFBvUnJtRE1Jck5yaFMzUXVmWkVMOWUtZFE3bTZ6dklJYXI5TkoyQWxEejRVTkZ6LUt6aFhHRVczQXhDRHJrWGkxa0JkSW5IWl9Wd0h4VWd5dUNObEVmeG5JT1hB0gG6AUFVX3lxTE1wTUZudlZWQlExT0dwRnhKUFBXSXJnN2RjTTBxN3lnNk1kNnZYMGpIUFNUckRJTmNxTU5yNFJ1MzVvUW92X2d6TXJ5S3g2eEtDSTRwbXRid3J4MU9VQll3TnZEUkI5RVh1SFpwWGQzaUI1UzZTZVN4MGtqQ002TW4tdkJWOFpyQlZvdDB2UVdaUGpzRU43b1BHQkNSR09odm9OUThkRmpEVjN3ZGViVGlzcTk2RWRRN0FFdw?oc=5
 
-- Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st T20I - Yahoo Sports
-  Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjY0YlJCczJDamtzX1dvTU9WeHZmakdJcUVVdFFYUndUbEZNVU9rSUdQTC1DanZjQk00SjB3akpFeW9IbDA1ZENtZUlOUGpQN005Smlja1ZJa1F2azc5elFYdW9YNGVMeG5iNEE2RS03VV80QWtfTmM0MGp1bnRPdVE5ajNqenI0eWc?oc=5
+- Live-in relationships in India: What legal rights do partners have? FAQs explained - The Times of India
+  Live-in relationships in India: What legal rights do partners have
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkN1aEpkODFIUTJyUE1fS2xVZld6TGp1d0d0RHQ5Z3FFY29JT0o4eWh4RDNhOFFpalBDMzlZSUZiMGxxTThoUEZ4NGI2UVBLWlhzT0w4N1NIcTA3b3FDQjhuTi1zd3plTXBDLUdHeExtbDZqaHJ6TVc4Y3M0TnlDZzVPWEFzbGJVTGgtenBpczdDWWVnZk9Kb0J4QXR5VmhHVUw2aXdxMElwX2xaUzBFa0VsS0ZiZnNSSU1rVkZ4VGZmOG1tOVpQTlg2NU5iYVJ0Y1FmdHNHV0d0ZDZ2ZmZtbmx3WmJDamdu0gHuAUFVX3lxTE43S0hKR21BRmxyRDVWM1VZa0tmUnZ3NzJ6NXEtZmZVNHczM2ZGZGNvZmdncU92YU5samc5dXd0V0E1ejdQMVVBVVEtbXdPMUxGTkhwSGJXLS1uc2p0UXhkR2RoNmNUTlpfX0k2bXdPZ0phUl9sa3FGNGY0WlRBSkt6NEN2UEhRSldhWS01ZmJVRUhWWVpQcXdYT0ZDdUJRSC1EaFhXaW1mUFh3Vnl2c0Q4RXdrSlB2b2JDT2huY0dlYmt1NnN3TjdzelhMTTEtZkgwcG1uRVh3QmpSWm9TXzc2Uy11NlUtZkg5cHFfS2c?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Not part of INDIA bloc, BJD issues long clarification - The Hindu
+  Not part of INDIA bloc, B
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUozdy1uNi1BYnJVc093YW9TbG1jTVJoVVY5Q2U4M3VQUFRSME1RU0J2OUZUOFNhYWh0YzlzdzhPV3hXNy1RUk1UVGkyTVYtTUI1TkdtVHZHQk0yS3hUU1RaSF9STk9oQV9qVUdaMkl5b0t3c2pQWkV5ZXdfNDFkYnVMY3g4YkctT2xBMWpySUd2TWU1ZXotSV9ESGF5VjB0NWJ4OC03enNESVpiQWRDa2YxYnk1MWlVUFHSAcABQVVfeXFMUDV0dEFfT2FkS1lDNDNWYV9CWmZ1RTdYdzdEblhiaWZEUnJSSUdpU0Y0XzN3dWZYb3Q1cWFRZktROEVRMUowYlJTMHpKZkk4cGRUMGkxR1VRdWhlNlhNZ0xWaWdCc0UtSkVWVWgyNVFzNGVXdGFGSDlmVUE4STV6SFYwTW1INks4ZUNZN01FT1NyMWQ0S2Y0LVY4LXZKeEg1eGdld0FlS0xyU2ZOT3ZoNHpUZy1ucml6SnBXaVVjM18z?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Five reasons India's stock market is sinking even when its economy is growing - BBC
+  Five reasons India's stock market is sinking even when its
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Wall Street's $10 Billion India Hospital Bet Sparks A Fight Over Bills - NDTV
+  Wall Street's $10 Billion India Hospital Bet Sparks
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlhHWXNrQnBLNjgxNndwdmctRnd1aXJWaUZwbkJHNVItZVotZTZOR0ktejgzeVhmY05jNVVUMkxJaUNENE9IMk85M1M5MTFXVVBELWNyTFBvUnJtRE1Jck5yaFMzUXVmWkVMOWUtZFE3bTZ6dklJYXI5TkoyQWxEejRVTkZ6LUt6aFhHRVczQXhDRHJrWGkxa0JkSW5IWl9Wd0h4VWd5dUNObEVmeG5JT1hB0gG6AUFVX3lxTE1wTUZudlZWQlExT0dwRnhKUFBXSXJnN2RjTTBxN3lnNk1kNnZYMGpIUFNUckRJTmNxTU5yNFJ1MzVvUW92X2d6TXJ5S3g2eEtDSTRwbXRid3J4MU9VQll3TnZEUkI5RVh1SFpwWGQzaUI1UzZTZVN4MGtqQ002TW4tdkJWOFpyQlZvdDB2UVdaUGpzRU43b1BHQkNSR09odm9OUThkRmpEVjN3ZGViVGlzcTk2RWRRN0FFdw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Live-in relationships in India: What legal rights do partners have? FAQs explained - The Times of India
+  Live-in relationships in India: What legal rights do partners have
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkN1aEpkODFIUTJyUE1fS2xVZld6TGp1d0d0RHQ5Z3FFY29JT0o4eWh4RDNhOFFpalBDMzlZSUZiMGxxTThoUEZ4NGI2UVBLWlhzT0w4N1NIcTA3b3FDQjhuTi1zd3plTXBDLUdHeExtbDZqaHJ6TVc4Y3M0TnlDZzVPWEFzbGJVTGgtenBpczdDWWVnZk9Kb0J4QXR5VmhHVUw2aXdxMElwX2xaUzBFa0VsS0ZiZnNSSU1rVkZ4VGZmOG1tOVpQTlg2NU5iYVJ0Y1FmdHNHV0d0ZDZ2ZmZtbmx3WmJDamdu0gHuAUFVX3lxTE43S0hKR21BRmxyRDVWM1VZa0tmUnZ3NzJ6NXEtZmZVNHczM2ZGZGNvZmdncU92YU5samc5dXd0V0E1ejdQMVVBVVEtbXdPMUxGTkhwSGJXLS1uc2p0UXhkR2RoNmNUTlpfX0k2bXdPZ0phUl9sa3FGNGY0WlRBSkt6NEN2UEhRSldhWS01ZmJVRUhWWVpQcXdYT0ZDdUJRSC1EaFhXaW1mUFh3Vnl2c0Q4RXdrSlB2b2JDT2huY0dlYmt1NnN3TjdzelhMTTEtZkgwcG1uRVh3QmpSWm9TXzc2Uy11NlUtZkg5cHFfS2c?oc=5
+
+- Not part of INDIA bloc, BJD issues long clarification - The Hindu
+  Not part of INDIA bloc, B
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUozdy1uNi1BYnJVc093YW9TbG1jTVJoVVY5Q2U4M3VQUFRSME1RU0J2OUZUOFNhYWh0YzlzdzhPV3hXNy1RUk1UVGkyTVYtTUI1TkdtVHZHQk0yS3hUU1RaSF9STk9oQV9qVUdaMkl5b0t3c2pQWkV5ZXdfNDFkYnVMY3g4YkctT2xBMWpySUd2TWU1ZXotSV9ESGF5VjB0NWJ4OC03enNESVpiQWRDa2YxYnk1MWlVUFHSAcABQVVfeXFMUDV0dEFfT2FkS1lDNDNWYV9CWmZ1RTdYdzdEblhiaWZEUnJSSUdpU0Y0XzN3dWZYb3Q1cWFRZktROEVRMUowYlJTMHpKZkk4cGRUMGkxR1VRdWhlNlhNZ0xWaWdCc0UtSkVWVWgyNVFzNGVXdGFGSDlmVUE4STV6SFYwTW1INks4ZUNZN01FT1NyMWQ0S2Y0LVY4LXZKeEg1eGdld0FlS0xyU2ZOT3ZoNHpUZy1ucml6SnBXaVVjM18z?oc=5
+
+- Five reasons India's stock market is sinking even when its economy is growing - BBC
+  Five reasons India's stock market is sinking even when its
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
+
+- Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5
+
+- Wall Street's $10 Billion India Hospital Bet Sparks A Fight Over Bills - NDTV
+  Wall Street's $10 Billion India Hospital Bet Sparks
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlhHWXNrQnBLNjgxNndwdmctRnd1aXJWaUZwbkJHNVItZVotZTZOR0ktejgzeVhmY05jNVVUMkxJaUNENE9IMk85M1M5MTFXVVBELWNyTFBvUnJtRE1Jck5yaFMzUXVmWkVMOWUtZFE3bTZ6dklJYXI5TkoyQWxEejRVTkZ6LUt6aFhHRVczQXhDRHJrWGkxa0JkSW5IWl9Wd0h4VWd5dUNObEVmeG5JT1hB0gG6AUFVX3lxTE1wTUZudlZWQlExT0dwRnhKUFBXSXJnN2RjTTBxN3lnNk1kNnZYMGpIUFNUckRJTmNxTU5yNFJ1MzVvUW92X2d6TXJ5S3g2eEtDSTRwbXRid3J4MU9VQll3TnZEUkI5RVh1SFpwWGQzaUI1UzZTZVN4MGtqQ002TW4tdkJWOFpyQlZvdDB2UVdaUGpzRU43b1BHQkNSR09odm9OUThkRmpEVjN3ZGViVGlzcTk2RWRRN0FFdw?oc=5
+
+- Live-in relationships in India: What legal rights do partners have? FAQs explained - The Times of India
+  Live-in relationships in India: What legal rights do partners have
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkN1aEpkODFIUTJyUE1fS2xVZld6TGp1d0d0RHQ5Z3FFY29JT0o4eWh4RDNhOFFpalBDMzlZSUZiMGxxTThoUEZ4NGI2UVBLWlhzT0w4N1NIcTA3b3FDQjhuTi1zd3plTXBDLUdHeExtbDZqaHJ6TVc4Y3M0TnlDZzVPWEFzbGJVTGgtenBpczdDWWVnZk9Kb0J4QXR5VmhHVUw2aXdxMElwX2xaUzBFa0VsS0ZiZnNSSU1rVkZ4VGZmOG1tOVpQTlg2NU5iYVJ0Y1FmdHNHV0d0ZDZ2ZmZtbmx3WmJDamdu0gHuAUFVX3lxTE43S0hKR21BRmxyRDVWM1VZa0tmUnZ3NzJ6NXEtZmZVNHczM2ZGZGNvZmdncU92YU5samc5dXd0V0E1ejdQMVVBVVEtbXdPMUxGTkhwSGJXLS1uc2p0UXhkR2RoNmNUTlpfX0k2bXdPZ0phUl9sa3FGNGY0WlRBSkt6NEN2UEhRSldhWS01ZmJVRUhWWVpQcXdYT0ZDdUJRSC1EaFhXaW1mUFh3Vnl2c0Q4RXdrSlB2b2JDT2huY0dlYmt1NnN3TjdzelhMTTEtZkgwcG1uRVh3QmpSWm9TXzc2Uy11NlUtZkg5cHFfS2c?oc=5
+
+- Not part of INDIA bloc, BJD issues long clarification - The Hindu
+  Not part of INDIA bloc, B
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUozdy1uNi1BYnJVc093YW9TbG1jTVJoVVY5Q2U4M3VQUFRSME1RU0J2OUZUOFNhYWh0YzlzdzhPV3hXNy1RUk1UVGkyTVYtTUI1TkdtVHZHQk0yS3hUU1RaSF9STk9oQV9qVUdaMkl5b0t3c2pQWkV5ZXdfNDFkYnVMY3g4YkctT2xBMWpySUd2TWU1ZXotSV9ESGF5VjB0NWJ4OC03enNESVpiQWRDa2YxYnk1MWlVUFHSAcABQVVfeXFMUDV0dEFfT2FkS1lDNDNWYV9CWmZ1RTdYdzdEblhiaWZEUnJSSUdpU0Y0XzN3dWZYb3Q1cWFRZktROEVRMUowYlJTMHpKZkk4cGRUMGkxR1VRdWhlNlhNZ0xWaWdCc0UtSkVWVWgyNVFzNGVXdGFGSDlmVUE4STV6SFYwTW1INks4ZUNZN01FT1NyMWQ0S2Y0LVY4LXZKeEg1eGdld0FlS0xyU2ZOT3ZoNHpUZy1ucml6SnBXaVVjM18z?oc=5
+
+- Five reasons India's stock market is sinking even when its economy is growing - BBC
+  Five reasons India's stock market is sinking even when its
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
+
+- Gyanesh Kumar: Police detain opposition leaders in Delhi demanding election commission chief's resignation - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5
 
 - Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
   PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-06 04:27:35 UTC_
+_Last updated: 2026-10-06 12:40:38 UTC_
