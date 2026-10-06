@@ -4,21 +4,21 @@
   The BBC looks at how India became
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?oc=5
 
-- Trump cites Indian election that didn't happen to call U.S. electoral process ‘corrupt’ - The Hindu
-  The Hindu reports that the president-elect was referring to
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0kzbllrdEM3OGdKdGRCNGo1bXlYNUFERkxXbFNQc1RQUjM3TnRSeFNXMTR3ZWVMZHV3VDJlNXNxTnp4aE43dUdVWVpnbkpiMFZSQ1NOaGU4MzhVdzZWWEFGeTZPbFZnZElvb0I5dlJoZjJGSWRhbFlTZ1dyZ2tQSk5lUGx3bW1CSDJnTjNrdTliREFXU2RyOVI2QWdkeHlHUkVwWjJjUUp4bkJfZ1Vqa3NMS01BOFFnZ3BHZW05NEl6Sk5lYmVLLUxBZWYwRmh5RFZmX2xzNXczWG96M1pr0gHmAUFVX3lxTFBMT24zdzFPVDhMakhib3kzek16d2hLYzl6MTB6TG5wTVFfZUNEeUxnTlNkV3JOSG9FUU9EMFhoUndjbTNIelM4Um9OQl96bEI5Rm1FT3JZMHVRU2wya25hOFdHLVlyN3lTOE01X3lmYndXZEt1cUl2dXpnelowdkJ5V0gtcDNTZ3ZmNXUwQVViaUdlVHluaGpSMFoxZmYzbTNJeWszZTMzTXN6bnAtRWxiSmNZVEVPTGR2RDFhcUZPeFRlQW43RENBTEtPNXJFUEwxX3h2LXJaYXA5T2poRzUzLTdkUzJB?oc=5
+- Little room for ‘giving and taking’: India’s finance minister flags trade impasse with the U.S. - CNBC
+  India's finance minister flags trade impasse with the U.S
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5
 
-- Trump's Big Praise For India In Embarrassing Brazil Poll Gaffe - NDTV
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWhTV0JtMDZfSVM3VGpISTI1RE1CWjlONnJVYTRYUVZ1Sm5ocmV0V0dBM3ctSkh1Q0tBM0ZlQ3IybkhfNjhPSm05clF1V3ZMYW1vX2xSYXEzV0ZicHZ2anlhWkxpVjI0RXJpbGpyME9FX1Z4UVczSjJRZkdTTmdTVTdDejZMUldsOGpaOW5oSUstQzlUdnlieHZ2d1laSzRyRm5pSVc4NnBuT0J3NjdxU0lKQk_SAbwBQVVfeXFMTkdCSEpKRXowYlg0R1NGMWRCV3lLeExBbGs5NVNGS3piaXZaQW1jNzlfb254Y2p3V0t4RHhSbnpnODdtRkdybTliNjMxcVBGajZ3SW5oNXJhQ1MzV2Z5ZEhTQTRYb0d2enJZUkVSeG16VlNabTZmS0ZfbWxYWEJUcEJEUGQ0SnpzR3Qxa2cyb294OTB5V0JUOF84Wjl4WG50MlV0YVE1LU05dDZneDNOUTBFbEVXV3dUWDFsVHk?oc=5
+- FM Nirmala Sitharaman hails India | Akashvani News - News On AIR
+  FM Nirmala Sitharaman ha
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXFwR1lPWnVnblQ5NnRrTTVLbmZqX1hodERtVEhrSENrTDFyZmJvUFgtSGxtbVdseTR5NDBGVGh0YzdwcG1HX01fX0JCNGtNaE5US0lVLVRDTzNNM2I0VEVTQl85QV8wMi1vc3dDQ3NZSG1GQU9abjZYLXAzVUQ1YUdiRzJOLV9hODhfeUZCWXgyQmNVamlibg?oc=5
 
-- Trump confuses Brazil polls with India: 'US voting corrupt' - Rediff
-  Trump confuses Brazil polls
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPbm84clZ6OGp3S0h3ZTNVRThLUDBrSFYxLWZrVmVhanNPczdXdlJ0QVlpdkpKMWtqUU8tYlB0MEh1NWYtVjZPSmhmWXJYMTBCMGtKdEdXSG9QWkppaFZQbWJyMkl5TzlxVUZhTVVtRTFEU3RsYzczUkw5YWJNUXdCcGt4MlBneC1ZSXlvVjFRc0lLVTVDTm1UTGN2LWR6N3hQVTN3X3JOVVcxbUlh0gGvAUFVX3lxTE9mY2xUNEEyNW1fcld2SzlzdHZPVmJiMy1aUXpnM1FuMnk1VGxNNmo3Y0ZtY21WbjI5ajZTcERtS0JfX0VSQklKaTQ2THNYbWkwd2V3MzlkVmc2WkhFaGdVeVZNT1NRT01FazkzY04wTE9sd3BhdlptYkYzV1pFdUNRZVlmRXBkNHdwbVg4Z1F0Y2RiSW12UTI4LTRjenhuSk1McWVDOXFLQ1ZOS0dYRjg?oc=5
+- Wall Street's $10 Billion India Hospital Bet Sparks A Fight Over Bills - NDTV
+  Wall Street's $10 Billion India Hospital Bet Sparks
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlhHWXNrQnBLNjgxNndwdmctRnd1aXJWaUZwbkJHNVItZVotZTZOR0ktejgzeVhmY05jNVVUMkxJaUNENE9IMk85M1M5MTFXVVBELWNyTFBvUnJtRE1Jck5yaFMzUXVmWkVMOWUtZFE3bTZ6dklJYXI5TkoyQWxEejRVTkZ6LUt6aFhHRVczQXhDRHJrWGkxa0JkSW5IWl9Wd0h4VWd5dUNObEVmeG5JT1hB0gG6AUFVX3lxTE1wTUZudlZWQlExT0dwRnhKUFBXSXJnN2RjTTBxN3lnNk1kNnZYMGpIUFNUckRJTmNxTU5yNFJ1MzVvUW92X2d6TXJ5S3g2eEtDSTRwbXRid3J4MU9VQll3TnZEUkI5RVh1SFpwWGQzaUI1UzZTZVN4MGtqQ002TW4tdkJWOFpyQlZvdDB2UVdaUGpzRU43b1BHQkNSR09odm9OUThkRmpEVjN3ZGViVGlzcTk2RWRRN0FFdw?oc=5
 
-- Nifty: Five reasons India's markets are sinking even when its economy is growing - BBC
-  The Indian stock market has been in free-fall since
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
+- Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st T20I - Yahoo Sports
+  Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjY0YlJCczJDamtzX1dvTU9WeHZmakdJcUVVdFFYUndUbEZNVU9rSUdQTC1DanZjQk00SjB3akpFeW9IbDA1ZENtZUlOUGpQN005Smlja1ZJa1F2azc5elFYdW9YNGVMeG5iNEE2RS03VV80QWtfTmM0MGp1bnRPdVE5ajNqenI0eWc?oc=5
 
 - America wants to wean itself off Chinese technology. Will the pain pay off? - CNN
   America wants to wean itself off Chinese technology. Will
@@ -32,53 +32,57 @@
   Sam Altman: We should accept ‘bad things
   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPdllLLU13dGI0Z1I5Q3dod3JORXF1b1JfVTJ4TnBYNFpLT0RHNDU0b1hTWUZzbEdueWN4YXphb3B4OVlxQmw5MEFuVkZQa3FHcDhtU25ZVTM3YlFjVHFSRUk3bFZqblBhM0E5WjU1ZHdYVHRpWV9ZRk96bmxkMG9BNWxCZVVlWjNIV0ZGZ0lCQUg4clozcVlV?oc=5
 
+- I use technology to give students a voice and become critical digital citizens. - blog.google
+  I use technology to give students a voice and become critical
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNeS0yR2V5QWV4TzlpU2xvVGR0ZnBZV0R2SzRyRDd5Tk1wTTFjNFVNcFNUVDRxVVFuT1VTbmZzWkYwUVoxOEs2eVlzTkI4WGRuRDVlc3ZPakFHQTF6ZUIxVWkzcWlsVm1YSHp4X1R6YXRaLUNVbW9neGZUaXcwNkc5NXNYaWxpRERKTm9XVg?oc=5
+
 - New technology advances understanding of eye pressure and glaucoma - Medical Xpress
   New technology advances understanding of eye pressure and
   🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVo3aHFaWUhKb3JkczNNbFY0UGhfdUJreWpMSjIxekdNZkJjZW1GOEduXzZNaTlqYjQyWkpuSDZGZVVOVHVxRzlGMUNlOXlTc2wwRjJ4el9qc1B5Z0lLZm9QWkg2QVMwSzVFNXd1Nm9tS3J6NXZxel91Q29zZ3M1bHozVGJOY0xkRjdSU2tn?oc=5
 
-- Honda plans highway test of tech that charges moving trucks - Fox Business
-  Honda plans highway test of tech that charges
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFlhU0dqM2R4NDNMN2ZiSXgzY0p1eUd6U1dPenR2RGRvNXBsR1I1T0RMTnlrLW5Nd2drcE1UUkV2V0JmUWZGc25NazJVcDZtZ1ZJUXNPSlVZdkQyRHc5NmoxOFFvZ2xyZ29aamxFOTFkVVZLM3l3MnY3TUxHbV9aWTlkM0pzRGE0V3J3NzBvczJtaUUy0gGaAUFVX3lxTFBNZVF4QkZiejAwQUtOeFJGRDk5UjYzd00wTzNvSzZuZHJmenpQUWdFcVVESXRtS0UwSWRNRm9ETDg5NVlLWHRWb1BSdWlGTGFaUFNLVDJQb3pvY1RubGpVdVpPdjNhRU55OUVzSlFEUzl4RlVqc2luVnJPckpUVTVZaE1nNFpNWTBBaDJXTkxhSDdCVFNIVUgxeHc?oc=5
+- Netherlands wants Tata Steel to stay, but demands cleaner steelmaking
+  Netherlands wants Tata Steel to retain steelmaking at IJmuiden. Cleaner operations are a condition as talks over
+  🔗 https://www.livemint.com/companies/tata-steel-netherlands-ijmuiden-green-steel-steelmaking-decarbonization-electric-arc-furnaces-government-aid-11791215933836.html
 
-- San Diego Sues AppLovin Over Explicit Ads Shown to Kids’ Devices
-  San Diego County has filed a lawsuit against mobile advertising technology company AppLovin Corp.
-  🔗 https://www.livemint.com/companies/san-diego-sues-applovin-over-explicit-ads-shown-to-kids-devices-11791231847677.html
+- LIV Golf in line to get initial investment as it tries to emerge from bankruptcy
+  LIV Golf in line to get initial investment as
+  🔗 https://www.livemint.com/companies/liv-golf-in-line-to-get-initial-investment-as-it-tries-to-emerge-from-bankruptcy-11791258735595.html
 
-- Charity commissioner seeks reply from Tata Trusts over trustees’ complaints
-  The Charity Commissioner gave the trust until 12 October to reply, according to an executive familiar with the matter.
-  🔗 https://www.livemint.com/companies/charity-commissioner-seeks-reply-from-tata-trusts-over-trustees-complaints-11791214316002.html
+- FBI removes Accenture contractor for alleged involvement in a data breach that exposed details of thousands of employees
+  The Federal Bureau of Investigation removed an Accenture contractor on Monday over their role in a damaging data breach. The breach exposed sensitive personal details of thousands of bureau employees
+  🔗 https://www.livemint.com/companies/news/fbi-removes-accenture-contractor-for-alleged-involvement-in-a-data-breach-that-exposed-details-of-thousands-of-employees-11791257121089.html
 
-- Huawei, Qualcomm sign multi-year patent deal covering 5G, AI and computing
-  Huawei and Qualcomm sign a multi-year patent deal covering 5G, AI, computing
-  🔗 https://www.livemint.com/companies/news/huawei-qualcomm-sign-multi-year-patent-deal-covering-5g-ai-and-computing-11791217773325.html
+- Elon Musk is a trillionaire again: What factors added to his $1 trillion fortune? A look at the top 10 billionaires
+  Musk's net worth was reported at $1 trillion, up $65.3 billion, or 6.66%, from the last trading day.
+  🔗 https://www.livemint.com/companies/people/elon-musk-is-a-trillionaire-again-what-factors-added-to-his-1-trillion-fortune-a-look-at-the-top-10-billionaires-11791246886495.html
 
-- Cognizant targets mid-sized firms as AI pressures big outsourcing deals
-  Cognizant's move follows similar moves by Accenture and HCLTech
-  🔗 https://www.livemint.com/companies/news/cognizant-targets-mid-sized-firms-as-ai-pressures-big-outsourcing-deals-11791208286115.html
+- Noel, three SDTT trustees slam Venu, Vijay over listing ‘epiphanies’, accuse them of breaching fiduciary duties
+  SDTT is the largest shareholder of Tata Sons, owning 27.98% in the holding company. The letter also signals the balance of power in SDTT, with four trustees ranged against two.
+  🔗 https://www.livemint.com/companies/tata-trusts-vs-venu-srinivasan-vijay-singh-tata-sons-listing-11791209202245.html
 
-- Who is Sanjeev Moghe? Axis Bank Group Head resigns after 8 years; read his resignation letter: ‘I leave with a...’
-  The bank acknowledged his contributions during his tenure in a formal disclosure.
-  🔗 https://www.livemint.com/companies/people/who-is-sanjeev-moghe-axis-bank-group-head-resigns-after-8-years-read-his-resignation-letter-i-leave-with-a-11791207532154.html
+- Nifty Expiry Today Prediction 6 Oct: Where is the index headed? Key support, resistance, and trading strategy
+  The Nifty index shows signs of recovery after heavy selling, supported by improved global cues and easing crude oil concerns. However, key resistance levels at 22,700-22
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-expiry-today-prediction-6-oct-where-is-the-index-headed-key-support-resistance-and-trading-strategy-11791257301878.html
 
-- Top stocks to buy for short term: Experts suggest Aditya Infotech, Thyrocare, MIDHANI and 3 others - Check target price
-  As the Nifty 50 rebounds amidst declining crude prices, experts highlight six promising stocks to consider for the short term. With potential target prices and key stop-loss levels, discover
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-experts-suggest-aditya-infotech-thyrocare-midhani-and-3-others-check-target-price-11791213973615.html
+- Equity Deals Cool in Europe as Higher Rates Hinder Offerings
+  After a bumper first half for European equity offerings, business has become tougher for the region�
+  🔗 https://www.livemint.com/market/equity-deals-cool-in-europe-as-higher-rates-hinder-offerings-11791258742196.html
 
-- TSX ends slightly higher as tech shares rally
-  
-  🔗 https://www.livemint.com/market/tsx-ends-slightly-higher-as-tech-shares-rally-11791234260332.html
+- Mutual Funds', FPI favourite Tata Group stock hits upper circuit after Q2 update - Can it rise more? Experts decode
+  Trent share price opened at  ₹2,800 and surged 10% to the upper price band. It later extended gains, touching an intraday high
+  🔗 https://www.livemint.com/market/stock-market-news/mutual-funds-fpi-favourite-tata-group-stock-jumps-10-to-hit-upper-circuit-after-q2-business-update-11791257821506.html
 
-- Nasdaq notches record high close as investors focus on earnings
-  Nasdaq notches record high close as
-  🔗 https://www.livemint.com/market/nasdaq-notches-record-high-close-as-investors-focus-on-earnings-11791230548797.html
+- IPO GMP comparison: Nityas Gems &amp; Jewellery, Vishal Nirmiti allotment in focus | Listing share price prediction
+  The shares of both Nityas Gems &amp;amp; Jewellery and Vishal Nirmiti are likely to be listed on
+  🔗 https://www.livemint.com/market/ipo/ipo-gmp-comparison-nityas-gems-jewellery-vishal-nirmiti-allotment-in-focus-listing-share-price-prediction-11791254102916.html
 
-- Dollar Extends Relentless Rally Even as Cracks Start to Emerge
-  The dollar neared its strongest levels this year as fiscal strains and renewed political uncertainty in Europe boosted its haven appeal. The run of gains stoked concerns
-  🔗 https://www.livemint.com/market/dollar-extends-relentless-rally-even-as-cracks-start-to-emerge-11791229382934.html
+- RBI MPC meeting October 2026: 25 bps repo rate hike on Oct 7? Impact on Sensex, Nifty, bank stocks decoded by experts
+  Market expects interest rate unchanged, interest rate hike by 25 BPS, or interest rate increase by more than 25 B PS.
+  🔗 https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-decoded-how-different-outcomes-may-impact-the-indian-stock-market-11791218169610.html
 
-- Treasuries Slump Pushes Long-End Yields to Fresh 24-Year Highs
-  Treasuries came under renewed pressure Monday, pushing longer-dated yields
-  🔗 https://www.livemint.com/market/treasuries-slump-pushes-long-end-yields-to-fresh-24-year-highs-11791226688187.html
+- South Koreas Lee says AI appears to have been used in bank hacks
+  South Korea's Lee says AI appears to
+  🔗 https://www.livemint.com/technology/south-koreas-lee-says-ai-appears-to-have-been-used-in-bank-hacks-11791252872583.html
 
 - Can Temple check if pilots are fit to fly? Deepinder Goyal suggests Air Force could use it too
   Temple, a wearable, is designed to collect information on blood flow to the brain
@@ -96,69 +100,77 @@
   Students in India can use their student ID to access free or discounted services from companies such as Google, Spotify, Apple, IndiGo, Adobe, Samsung and GitHub
   🔗 https://www.livemint.com/technology/your-student-id-can-get-you-free-gemini-ai-photoshop-and-more-how-to-claim-11791181296434.html
 
-- Norway to propose temporary ban on AI glasses in some public places
-  Norway to propose temporary ban on
-  🔗 https://www.livemint.com/technology/norway-to-propose-temporary-ban-on-ai-glasses-in-some-public-places-11791183552609.html
-
-- Nasdaq closes at fresh record as tech shares rise and traders look past higher yields - CNBC
-  Nasdaq closes at fresh record as tech shares rise and traders
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE14VDVsamdsUnFobnR2dUhqeUtZLU55WEdZS0RzN2lfc3FrRFVkSThpUUhZY0tPWC1aYlhRaGZWZjB5emNuX0s2MElWZWxib1o4YmVfM1FxTlVWdWlvdlhDc0MwNndMVTIzVkw1VHgtem02cE1qMHJB0gF8QVVfeXFMUHJkb21SZF96VE41OFdxSDB6aDZtUURVcC13NXZpLUtHZVdmZ3ZwaFVNX2pmSVFXS2hmbS1JWjk0RlZ0azY0M3Atc3dWVVg0bHJ4dkVsbHpaY285cXJIOEVrUVhYYTU0bm1DWjlKb01DdjhQVnk1NERMb3I2QQ?oc=5
-
-- Stock Market Today: Dow Slips, Dollar Strengthens as Investors Look for Safety — Live Updates - WSJ
-  Stock Market Today: Dow Slips, Dollar Strengthens as
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3NQQk5xNzUwYnp3OXVHcUQxLTBXOWJpNEl5VXRpT1M3SGg4R18wdlN2U1dvNzB5dVVISWNEN3BBQ1hqa2xaU1RSdHRzZ3BPWGlYMXVhemk0WERlWHlMX0FOSGdiazhPc0VVd0tTQ2J4dmU3czR2emVzWW10MFRtNVBTYnBBblU?oc=5
+- Five reasons India's stock market is sinking even when its economy is growing - BBC
+  Five reasons India's stock market is sinking even when its
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
 
 - Stock Market Today Live Updates: Markets end in green; Sensex gains 473 points, Nifty rises 134 points - The Times of India
   The Sensex gained 473 points, Nifty rises 134 points.
   🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxPNmNJcUdxV1hoQVJhMVMzSElvZUtyWG1YYkh2ZVBCbUNVcFAzUW9TOUgwVDlrdHdUQ2hWNjJkdWtkRnNrUGZXMnJ1Y0V0SW8xSGs4M2t3a2NHWmFHVXVWUXQ0Y2JBeHdTWlpMWWF5Szc1OUo2cjBrMTBfMG1jejIyejVRU2lvOHF4d2NPQUhJajl6cHR4b1praUxpQXk1WWhQcFdwRE1nTHhUeHdTbXE3cjFLTkg4STBNNVJRWlkxbW43LUNGZXQ0SUNSNmhHTEVjRTB1b3FoSC15cnhqTHZwczFsaFdKZWMxakZtdnNxS2U5QWdLd3Fyc2l2cWMwaXFZTWdQREVoXzFuZmp0YmcweVY5RU5SbkE1WUZPMXMtVlhPaS1qRlFxYTI0ZmE0VXc5Rk43btIBugJBVV95cUxOYVFBU0NWN2JMUDFqNndOdGE4QlkwdndZaVZGOHUtYUl5dUVHOFNtMW1XUGpzekI3TV80WkFwdENackVHLWdTNEhxTWpSbEk0Z2VzZzAzUFJMdzV1SmthOGxOVTlWajc5THl2eU5nMnNlWlB3T01nUlk5eThLaDVBc3lfUXVKTlh3RkdDRkNaY0pENnpBWURTVGNXdU9iekE5NE03QUh5TnhmRHN5cUdkZ3FhMXNoY0k4TWVlemdJY2FOUW96Z2hqQ01UUFhURDYyT3RocWRYOVpERmk5cGlVOWE0clJ5Ync2NHRRMm9xQVYtRzBHNEdGZDlUczNvZEwzQ2ttdGIxZXg2VjZGVWw0LTdGWVBsRGYzNlFrdnBwUDE0dkVzMDJLWTFtdTNhR1dVQXlDU0FMcFNxZw?oc=5
 
-- Nifty: Five reasons India's markets are sinking even when its economy is growing - BBC
-  The Indian stock market has been in free-fall since
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
+- Stock Market Today Live Updates: Will NSE Nifty50, BSE Sensex extend previous session's gains? - The Times of India
+  The Times of India is a leading newspaper in India. It is based in
+  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxNTk91QWdlWk50QkhrOF9IRmhzR01GUnJ3bC0wRURIbERyQjY0Vy05bmhvbnlQenRpZnRZNlE2aHc0VXpTc09pY21lVlI2anhkY2dKcmd0SlZIeVhDbGN1SWlTUEVtb0MzWmlCbS0wa0ZBb0lBM2tYcnBsUEpnMEN5SllSTHBpdGZ4SW1kNnFWZlgzeF9LT19iTFhLSWlWVEVIVG5FY3Z0ZzBfUnFrV3JLdW1rRExqaVMyVjI0cW82UUpZa1Y3R3NmeHM0Y3JSLU12RV9PREoyTzhQZmVVdExnTGZFVHlxeUJWSFpxSTRMNFdXcm92Z016TGtHb2cxSzZIbkNrMjhJUk83TWc5c25ES1R0eFlOSTVHY3JEV3ZoYTY3UmE0OV9HcDdRNUQ2WFZKVTdkQ9IBugJBVV95cUxQY3pfZDhza01JSWV3Q3pYdUtiVUJFY0M2TWNWc0xsRDFuV2RTdi1TU3p4Tk1ENG1mal9vYy16ZHUwZG03NHpBa0RkWWNyWUVQa1o2LXNTVk9ZUG9WM2JINml0YU9rQmgwdzVzbUlITEpiVkJxZUFvdU9ncUh4WVlnVUkxMnhuLVZfQ242M2RoWVUtekRMUTVyc0hIYzVqWF9JcjAzRUVyRFdWYWM5YmU5VVp0bjg3OWZ6SXAtRlFZbC1SckhOWER6Z2FjaF9nVWdRellnRnlhbGFXWGJNcjVYTG9lY2lvLVBIOHRkaFRibkVnZHEwdmpkbjJ4T093MWJKa0kzMlA5SkZWcGRjeUdMeEZrNThaWWVINEd0bzVWb2dUMXdFOFV2aUVfREE4SEYyVjlybnUxdkJYQQ?oc=5
 
-- Closing Bell: Nifty above 22,500, Sensex gains 473 pts; media, banks shine, pharma drags - Moneycontrol.com
-  The Sensex gains 473 pts; media, banks shine
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPQ2RCVkhBMW91d2lmQVlHelEzM2lKWGlZWlpaaW45aDQtVGM4SGRoS0ZJV2hYRnNGcFBfT1BkTFlBLVhIMDc4UVM0OTRlWk01S01aSjh3cUN2aGJLU3RXaXByVmJRVWRMdVlIN2sxdUc4WnlBV1NXbFgtTE5JTVg0Ml8yWDc4aU5zRmMyR3UtTXlVQXZ0YmcwdXZTWnRWZThfMmhESVFJZ0cyZlo5UTRkR0taQzFjOEloV20tMTRQSVVqdy00ay15cXlXbEs2MEFibGF3MFJzY2ZMNHRETVVSV005QXdxR2NHLTk1eWhLYlN3dDc5NVpfWlZLcHQxQkF4Y1JPaDE1OWdXQ0FvaUR0UUVDdl85UHpXRW5SQTVvUk9ZUkHSAagCQVVfeXFMUEtwb0E3Y2dhNDk5TG85SWdZMEtUeTdmNXFoWmNxLU94bnl0dzRqVzhSMDhNOVhLUzgwR3gwR1BidDVJbU15VmM4ZXFnTnprNUZORXNyb0lGUzROMGdjWW1YZ2tQR2tuMVNZV0xQTThGMUkyemItdU8yVHZwRDZIMWRwc29STXRzVGtwQ1BOaUhPazBxLWc1WklnLWNuZWQ1QXRoZXQ0T3FkQjgtWnB5RkFzYjRfMW1JZTNHWnljRm1vUTdwXzR3Q2k4RTlOMW91eEtZMFBqLVNhSWFya1Rjd2RYVWtqRnlILVIxUWk4eE1GUjlPbnpKVXBKV2VvZTVzRkt5VUpjeGUweUp3MXkxdDNJTUlHcUQyWE9vSmVoalpkRG5fSEpZTlI?oc=5
+- Markets News, Oct. 5, 2026: Nasdaq Closes at Record as AI-Tied Stocks Rise; S&P 500, Dow Gain; Treasury Yields Surge to Highest Level Since 2002 - Investopedia
+  The Dow Jones Industrial Average closed at a record high on October 5, 2026. The S&amp;P
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmdhcm5tbTZJRnBPNmwyNk5PR1l6eG5lQTlzY25rQjlWN19LZC1RNEFkVDE4UlNsc05TTkIwLXY3MVNLQk1XMC1pb25VZ29SVzZBQnpkZTZIaUp3Y1lEXzBfdFFsa3pEMVhXbjJKeTByTUlxU3lmM0ZINlVvNWtnajVyZ1EwRlBudVJuTi1GeUo?oc=5
 
-- US stocks: Nasdaq gains 1% at close as investors focus on earnings
-  The Nasdaq Composite has hit an all-time high, driven by impressive performances from tech giants Nvidia and Microsoft. Oil prices have dipped, attributed to rising crude exports from the Middle East and backing from the Group of Seven nations.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-dow-close-1-higher-as-investors-focus-on-earnings/articleshow/134716734.cms
+- Stock Market News, Oct. 5, 2026: 10-Year Yield Rises; Nasdaq Jumps to New High - WSJ
+  Stock Market News, Oct. 5, 2026: 10
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3NQQk5xNzUwYnp3OXVHcUQxLTBXOWJpNEl5VXRpT1M3SGg4R18wdlN2U1dvNzB5dVVISWNEN3BBQ1hqa2xaU1RSdHRzZ3BPWGlYMXVhemk0WERlWHlMX0FOSGdiazhPc0VVd0tTQ2J4dmU3czR2emVzWW10MFRtNVBTYnBBblU?oc=5
 
-- Euro hits 17-month low as French debt fears, US inflation lift dollar
-  The euro reached a 17-month low against the dollar due to worries over France's budget deficit. Bonds from more indebted countries faced selling pressure, while German government debt remained favored.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/euro-hits-17-month-low-as-french-debt-fears-us-inflation-lift-dollar/articleshow/134716587.cms
+- Ujjivan Small Finance Bank among 4 stocks with sharp rise in futures open interest
+  Four NSE F&amp;O stocks recorded a rise of over 15% in futures open interest on October 5. Anand Rathi Wealth
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ujjivan-small-finance-bank-among-4-stocks-with-sharp-rise-in-futures-open-interest/slideshow/134722509.cms
 
-- French bond contagion fears are rattling the euro
-  The value of the euro has declined significantly as French borrowing costs increase. Investors are shifting from French bonds to safer German debts. Analysts predict that the euro may test lower thresholds if fiscal issues persist in Europe.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/french-bond-contagion-fears-are-rattling-the-euro/articleshow/134714445.cms
+- Kotak Mahindra Bank shares jump 4% as Q2 net advances rise 25% YoY, deposits up 23%
+  Kotak Mahindra Bank's net advances increased 25% year-on-year to Rs 5.77 lakh crore in Q2 FY27. CASA deposits reached Rs 2.49 lakh crore, reflecting an 11% growth
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-in-focus-as-q2-net-advances-rise-25-yoy-deposits-up-23/articleshow/134722284.cms
 
-- PTC shares soar nearly 34% after Schneider Electric agrees to $22.6 billion buyout
-  Schneider Electric agrees to acquire PTC for $22.6 billion in cash. PTC's board approved the offer, which represents a significant premium compared to its recent share price.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ptc-shares-soar-nearly-34-after-schneider-electric-agrees-to-22-6-billion-buyout/articleshow/134714341.cms
+- Axis Bank shares in focus after Q2 biz update shows 23% rise in gross advances to Rs 13.8 lakh crore
+   Axis Bank reported a 22.7% YoY rise in gross advances to Rs 13.846 lakh crore in Q2. Total deposits grew 20.7 per cent
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-shares-in-focus-after-q2-biz-update-shows-23-rise-in-gross-advances-to-rs-13-8-lakh-crore/articleshow/134722331.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Indian equities rebounded on Monday after eight consecutive weekly losses. Sensex rose 473 points and Nifty gained 134 points. Softer US jobs data and lower crude prices supported sentiment
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134711920.cms
+- SP Group unit raises $460 million in rupee debt to repay loans
+  Eqyizen Investment, a subsidiary of the Shapoorji Pallonji Group, has successfully secured 44.5 billion rupees through the issuance of zero-coupon rupee bonds. These bonds will mature in July 20
+  🔗 https://economictimes.indiatimes.com/markets/bonds/sp-group-unit-raises-460-million-in-rupee-debt-to-repay-loans/articleshow/134722257.cms
+
+- Shah Investor's Home shares to list today; GMP indicates 10% potential listing gain
+  Shah Investor's Home shares are scheduled to list on the BSE and NSE today, October 6. The Rs 90.17 crore IPO was subscribed 38.12 times overall.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/shah-investors-home-shares-to-list-today-gmp-indicates-10-potential-listing-gain/articleshow/134722163.cms
 
 - Trade: How India became dangerously addicted to Chinese imports - BBC
   The BBC looks at how India became
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?oc=5
 
-- Trump cites Indian election that didn't happen to call U.S. electoral process ‘corrupt’ - The Hindu
-  The Hindu reports that the president-elect was referring to
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0kzbllrdEM3OGdKdGRCNGo1bXlYNUFERkxXbFNQc1RQUjM3TnRSeFNXMTR3ZWVMZHV3VDJlNXNxTnp4aE43dUdVWVpnbkpiMFZSQ1NOaGU4MzhVdzZWWEFGeTZPbFZnZElvb0I5dlJoZjJGSWRhbFlTZ1dyZ2tQSk5lUGx3bW1CSDJnTjNrdTliREFXU2RyOVI2QWdkeHlHUkVwWjJjUUp4bkJfZ1Vqa3NMS01BOFFnZ3BHZW05NEl6Sk5lYmVLLUxBZWYwRmh5RFZmX2xzNXczWG96M1pr0gHmAUFVX3lxTFBMT24zdzFPVDhMakhib3kzek16d2hLYzl6MTB6TG5wTVFfZUNEeUxnTlNkV3JOSG9FUU9EMFhoUndjbTNIelM4Um9OQl96bEI5Rm1FT3JZMHVRU2wya25hOFdHLVlyN3lTOE01X3lmYndXZEt1cUl2dXpnelowdkJ5V0gtcDNTZ3ZmNXUwQVViaUdlVHluaGpSMFoxZmYzbTNJeWszZTMzTXN6bnAtRWxiSmNZVEVPTGR2RDFhcUZPeFRlQW43RENBTEtPNXJFUEwxX3h2LXJaYXA5T2poRzUzLTdkUzJB?oc=5
+- Little room for ‘giving and taking’: India’s finance minister flags trade impasse with the U.S. - CNBC
+  India's finance minister flags trade impasse with the U.S
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5
 
-- Trump's Big Praise For India In Embarrassing Brazil Poll Gaffe - NDTV
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWhTV0JtMDZfSVM3VGpISTI1RE1CWjlONnJVYTRYUVZ1Sm5ocmV0V0dBM3ctSkh1Q0tBM0ZlQ3IybkhfNjhPSm05clF1V3ZMYW1vX2xSYXEzV0ZicHZ2anlhWkxpVjI0RXJpbGpyME9FX1Z4UVczSjJRZkdTTmdTVTdDejZMUldsOGpaOW5oSUstQzlUdnlieHZ2d1laSzRyRm5pSVc4NnBuT0J3NjdxU0lKQk_SAbwBQVVfeXFMTkdCSEpKRXowYlg0R1NGMWRCV3lLeExBbGs5NVNGS3piaXZaQW1jNzlfb254Y2p3V0t4RHhSbnpnODdtRkdybTliNjMxcVBGajZ3SW5oNXJhQ1MzV2Z5ZEhTQTRYb0d2enJZUkVSeG16VlNabTZmS0ZfbWxYWEJUcEJEUGQ0SnpzR3Qxa2cyb294OTB5V0JUOF84Wjl4WG50MlV0YVE1LU05dDZneDNOUTBFbEVXV3dUWDFsVHk?oc=5
+- FM Nirmala Sitharaman hails India | Akashvani News - News On AIR
+  FM Nirmala Sitharaman ha
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXFwR1lPWnVnblQ5NnRrTTVLbmZqX1hodERtVEhrSENrTDFyZmJvUFgtSGxtbVdseTR5NDBGVGh0YzdwcG1HX01fX0JCNGtNaE5US0lVLVRDTzNNM2I0VEVTQl85QV8wMi1vc3dDQ3NZSG1GQU9abjZYLXAzVUQ1YUdiRzJOLV9hODhfeUZCWXgyQmNVamlibg?oc=5
 
-- Trump confuses Brazil polls with India: 'US voting corrupt' - Rediff
-  Trump confuses Brazil polls
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPbm84clZ6OGp3S0h3ZTNVRThLUDBrSFYxLWZrVmVhanNPczdXdlJ0QVlpdkpKMWtqUU8tYlB0MEh1NWYtVjZPSmhmWXJYMTBCMGtKdEdXSG9QWkppaFZQbWJyMkl5TzlxVUZhTVVtRTFEU3RsYzczUkw5YWJNUXdCcGt4MlBneC1ZSXlvVjFRc0lLVTVDTm1UTGN2LWR6N3hQVTN3X3JOVVcxbUlh0gGvAUFVX3lxTE9mY2xUNEEyNW1fcld2SzlzdHZPVmJiMy1aUXpnM1FuMnk1VGxNNmo3Y0ZtY21WbjI5ajZTcERtS0JfX0VSQklKaTQ2THNYbWkwd2V3MzlkVmc2WkhFaGdVeVZNT1NRT01FazkzY04wTE9sd3BhdlptYkYzV1pFdUNRZVlmRXBkNHdwbVg4Z1F0Y2RiSW12UTI4LTRjenhuSk1McWVDOXFLQ1ZOS0dYRjg?oc=5
+- Wall Street's $10 Billion India Hospital Bet Sparks A Fight Over Bills - NDTV
+  Wall Street's $10 Billion India Hospital Bet Sparks
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlhHWXNrQnBLNjgxNndwdmctRnd1aXJWaUZwbkJHNVItZVotZTZOR0ktejgzeVhmY05jNVVUMkxJaUNENE9IMk85M1M5MTFXVVBELWNyTFBvUnJtRE1Jck5yaFMzUXVmWkVMOWUtZFE3bTZ6dklJYXI5TkoyQWxEejRVTkZ6LUt6aFhHRVczQXhDRHJrWGkxa0JkSW5IWl9Wd0h4VWd5dUNObEVmeG5JT1hB0gG6AUFVX3lxTE1wTUZudlZWQlExT0dwRnhKUFBXSXJnN2RjTTBxN3lnNk1kNnZYMGpIUFNUckRJTmNxTU5yNFJ1MzVvUW92X2d6TXJ5S3g2eEtDSTRwbXRid3J4MU9VQll3TnZEUkI5RVh1SFpwWGQzaUI1UzZTZVN4MGtqQ002TW4tdkJWOFpyQlZvdDB2UVdaUGpzRU43b1BHQkNSR09odm9OUThkRmpEVjN3ZGViVGlzcTk2RWRRN0FFdw?oc=5
 
-- Nifty: Five reasons India's markets are sinking even when its economy is growing - BBC
-  The Indian stock market has been in free-fall since
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
+- Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st T20I - Yahoo Sports
+  Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjY0YlJCczJDamtzX1dvTU9WeHZmakdJcUVVdFFYUndUbEZNVU9rSUdQTC1DanZjQk00SjB3akpFeW9IbDA1ZENtZUlOUGpQN005Smlja1ZJa1F2azc5elFYdW9YNGVMeG5iNEE2RS03VV80QWtfTmM0MGp1bnRPdVE5ajNqenI0eWc?oc=5
+
+- Founder Salaries Tracker FY26: How Much Did India’s Startup Founders Earn?
+  Sixteen founders across 10 new-age tech companies earned a combined ₹43.4 Cr in fixed remuneration in FY26, up 8
+  🔗 https://inc42.com/features/founder-salaries-tracker-fy26-how-much-did-indias-startup-founders-earn/
+
+- Snapdeal’s Weak Listing, Founders Pledge Stakes & More
+  Snapdeal parent Ace vector listed at&#8230;. Shares of the Snapdeal parent listed at &#8220;.
+  🔗 https://inc42.com/buzz/snapdeals-weak-listing-founders-pledge-stakes-more/
+
+- Beyond Appliances Raises ₹110 Cr To Expand Product Portfolio, Boost Manufacturing
+  Beyond Appliances has raised $10.4 million in a Series B funding round led by Fireside.
+  🔗 https://inc42.com/buzz/beyond-appliances-raises-%e2%82%b9110-cr-to-expand-product-portfolio-boost-manufacturing/
 
 - RentoMojo Q1: Profit Tanks 39% YoY To ₹7.8 Cr, Revenue Zooms 51%
   Furniture and appliance rental startup RentoMojo’s consolidated net profit tanked&#8230; in its first financial disclosure.
@@ -168,37 +180,45 @@
   Marico has acquired an additional 24.09% stake in plant-based nutrition and personal care brand Plix for ₹1,012.
   🔗 https://inc42.com/buzz/marico-acquires-additional-stake-in-plix-for-%e2%82%b91012-cr-to-complete-buyout-by-july-2027/
 
-- Meet The Most Active Startup Investors Of Q3 2026
-  India’s startup funding market remained selective in the third quarter of 2026. Investors backing fewer startups even as the&#8230;
-  🔗 https://inc42.com/buzz/meet-the-most-active-startup-investors-of-q3-2026/
+- Trade: How India became dangerously addicted to Chinese imports - BBC
+  The BBC looks at how India became
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?oc=5
 
-- Flipkart Acquires Minority Stake In Travel Tech Startup TravClan To Scale Offerings
-  Walmart-owned Flipkart picked up a minority stake in Delhi-based B2B travel tech startup TravClan.
-  🔗 https://inc42.com/buzz/flipkart-acquires-minority-stake-in-travel-tech-startup-travclan-to-scale-offerings/
+- Little room for ‘giving and taking’: India’s finance minister flags trade impasse with the U.S. - CNBC
+  India's finance minister flags trade impasse with the U.S
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5
 
-- [Update] Snapdeal Parent AceVector Ends Market Debut 18.5% Below Issue Price
-  Snapdeal parent AceVector’s shares closed their maiden trading session at ₹26.10.
-  🔗 https://inc42.com/buzz/snapdeal-parent-acevector-lists-at-11-6-discount-on-bse/
+- FM Nirmala Sitharaman hails India | Akashvani News - News On AIR
+  FM Nirmala Sitharaman ha
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXFwR1lPWnVnblQ5NnRrTTVLbmZqX1hodERtVEhrSENrTDFyZmJvUFgtSGxtbVdseTR5NDBGVGh0YzdwcG1HX01fX0JCNGtNaE5US0lVLVRDTzNNM2I0VEVTQl85QV8wMi1vc3dDQ3NZSG1GQU9abjZYLXAzVUQ1YUdiRzJOLV9hODhfeUZCWXgyQmNVamlibg?oc=5
+
+- Wall Street's $10 Billion India Hospital Bet Sparks A Fight Over Bills - NDTV
+  Wall Street's $10 Billion India Hospital Bet Sparks
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlhHWXNrQnBLNjgxNndwdmctRnd1aXJWaUZwbkJHNVItZVotZTZOR0ktejgzeVhmY05jNVVUMkxJaUNENE9IMk85M1M5MTFXVVBELWNyTFBvUnJtRE1Jck5yaFMzUXVmWkVMOWUtZFE3bTZ6dklJYXI5TkoyQWxEejRVTkZ6LUt6aFhHRVczQXhDRHJrWGkxa0JkSW5IWl9Wd0h4VWd5dUNObEVmeG5JT1hB0gG6AUFVX3lxTE1wTUZudlZWQlExT0dwRnhKUFBXSXJnN2RjTTBxN3lnNk1kNnZYMGpIUFNUckRJTmNxTU5yNFJ1MzVvUW92X2d6TXJ5S3g2eEtDSTRwbXRid3J4MU9VQll3TnZEUkI5RVh1SFpwWGQzaUI1UzZTZVN4MGtqQ002TW4tdkJWOFpyQlZvdDB2UVdaUGpzRU43b1BHQkNSR09odm9OUThkRmpEVjN3ZGViVGlzcTk2RWRRN0FFdw?oc=5
+
+- Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st T20I - Yahoo Sports
+  Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjY0YlJCczJDamtzX1dvTU9WeHZmakdJcUVVdFFYUndUbEZNVU9rSUdQTC1DanZjQk00SjB3akpFeW9IbDA1ZENtZUlOUGpQN005Smlja1ZJa1F2azc5elFYdW9YNGVMeG5iNEE2RS03VV80QWtfTmM0MGp1bnRPdVE5ajNqenI0eWc?oc=5
 
 - Trade: How India became dangerously addicted to Chinese imports - BBC
   The BBC looks at how India became
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJRWdza2k1UXdtLVMydmk3Ti05VVhOOG1VeWlBWl9wT1JNQ3BJcmRIWWUwZXhDRnphY2NFejl1VVl3dk9hUXpsc1F5NG8tZG9xaXd6NDJjX09BVEE?oc=5
 
-- Trump cites Indian election that didn't happen to call U.S. electoral process ‘corrupt’ - The Hindu
-  The Hindu reports that the president-elect was referring to
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0kzbllrdEM3OGdKdGRCNGo1bXlYNUFERkxXbFNQc1RQUjM3TnRSeFNXMTR3ZWVMZHV3VDJlNXNxTnp4aE43dUdVWVpnbkpiMFZSQ1NOaGU4MzhVdzZWWEFGeTZPbFZnZElvb0I5dlJoZjJGSWRhbFlTZ1dyZ2tQSk5lUGx3bW1CSDJnTjNrdTliREFXU2RyOVI2QWdkeHlHUkVwWjJjUUp4bkJfZ1Vqa3NMS01BOFFnZ3BHZW05NEl6Sk5lYmVLLUxBZWYwRmh5RFZmX2xzNXczWG96M1pr0gHmAUFVX3lxTFBMT24zdzFPVDhMakhib3kzek16d2hLYzl6MTB6TG5wTVFfZUNEeUxnTlNkV3JOSG9FUU9EMFhoUndjbTNIelM4Um9OQl96bEI5Rm1FT3JZMHVRU2wya25hOFdHLVlyN3lTOE01X3lmYndXZEt1cUl2dXpnelowdkJ5V0gtcDNTZ3ZmNXUwQVViaUdlVHluaGpSMFoxZmYzbTNJeWszZTMzTXN6bnAtRWxiSmNZVEVPTGR2RDFhcUZPeFRlQW43RENBTEtPNXJFUEwxX3h2LXJaYXA5T2poRzUzLTdkUzJB?oc=5
+- Little room for ‘giving and taking’: India’s finance minister flags trade impasse with the U.S. - CNBC
+  India's finance minister flags trade impasse with the U.S
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5
 
-- Trump's Big Praise For India In Embarrassing Brazil Poll Gaffe - NDTV
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWhTV0JtMDZfSVM3VGpISTI1RE1CWjlONnJVYTRYUVZ1Sm5ocmV0V0dBM3ctSkh1Q0tBM0ZlQ3IybkhfNjhPSm05clF1V3ZMYW1vX2xSYXEzV0ZicHZ2anlhWkxpVjI0RXJpbGpyME9FX1Z4UVczSjJRZkdTTmdTVTdDejZMUldsOGpaOW5oSUstQzlUdnlieHZ2d1laSzRyRm5pSVc4NnBuT0J3NjdxU0lKQk_SAbwBQVVfeXFMTkdCSEpKRXowYlg0R1NGMWRCV3lLeExBbGs5NVNGS3piaXZaQW1jNzlfb254Y2p3V0t4RHhSbnpnODdtRkdybTliNjMxcVBGajZ3SW5oNXJhQ1MzV2Z5ZEhTQTRYb0d2enJZUkVSeG16VlNabTZmS0ZfbWxYWEJUcEJEUGQ0SnpzR3Qxa2cyb294OTB5V0JUOF84Wjl4WG50MlV0YVE1LU05dDZneDNOUTBFbEVXV3dUWDFsVHk?oc=5
+- FM Nirmala Sitharaman hails India | Akashvani News - News On AIR
+  FM Nirmala Sitharaman ha
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXFwR1lPWnVnblQ5NnRrTTVLbmZqX1hodERtVEhrSENrTDFyZmJvUFgtSGxtbVdseTR5NDBGVGh0YzdwcG1HX01fX0JCNGtNaE5US0lVLVRDTzNNM2I0VEVTQl85QV8wMi1vc3dDQ3NZSG1GQU9abjZYLXAzVUQ1YUdiRzJOLV9hODhfeUZCWXgyQmNVamlibg?oc=5
 
-- Trump confuses Brazil polls with India: 'US voting corrupt' - Rediff
-  Trump confuses Brazil polls
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPbm84clZ6OGp3S0h3ZTNVRThLUDBrSFYxLWZrVmVhanNPczdXdlJ0QVlpdkpKMWtqUU8tYlB0MEh1NWYtVjZPSmhmWXJYMTBCMGtKdEdXSG9QWkppaFZQbWJyMkl5TzlxVUZhTVVtRTFEU3RsYzczUkw5YWJNUXdCcGt4MlBneC1ZSXlvVjFRc0lLVTVDTm1UTGN2LWR6N3hQVTN3X3JOVVcxbUlh0gGvAUFVX3lxTE9mY2xUNEEyNW1fcld2SzlzdHZPVmJiMy1aUXpnM1FuMnk1VGxNNmo3Y0ZtY21WbjI5ajZTcERtS0JfX0VSQklKaTQ2THNYbWkwd2V3MzlkVmc2WkhFaGdVeVZNT1NRT01FazkzY04wTE9sd3BhdlptYkYzV1pFdUNRZVlmRXBkNHdwbVg4Z1F0Y2RiSW12UTI4LTRjenhuSk1McWVDOXFLQ1ZOS0dYRjg?oc=5
+- Wall Street's $10 Billion India Hospital Bet Sparks A Fight Over Bills - NDTV
+  Wall Street's $10 Billion India Hospital Bet Sparks
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlhHWXNrQnBLNjgxNndwdmctRnd1aXJWaUZwbkJHNVItZVotZTZOR0ktejgzeVhmY05jNVVUMkxJaUNENE9IMk85M1M5MTFXVVBELWNyTFBvUnJtRE1Jck5yaFMzUXVmWkVMOWUtZFE3bTZ6dklJYXI5TkoyQWxEejRVTkZ6LUt6aFhHRVczQXhDRHJrWGkxa0JkSW5IWl9Wd0h4VWd5dUNObEVmeG5JT1hB0gG6AUFVX3lxTE1wTUZudlZWQlExT0dwRnhKUFBXSXJnN2RjTTBxN3lnNk1kNnZYMGpIUFNUckRJTmNxTU5yNFJ1MzVvUW92X2d6TXJ5S3g2eEtDSTRwbXRid3J4MU9VQll3TnZEUkI5RVh1SFpwWGQzaUI1UzZTZVN4MGtqQ002TW4tdkJWOFpyQlZvdDB2UVdaUGpzRU43b1BHQkNSR09odm9OUThkRmpEVjN3ZGViVGlzcTk2RWRRN0FFdw?oc=5
 
-- Nifty: Five reasons India's markets are sinking even when its economy is growing - BBC
-  The Indian stock market has been in free-fall since
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
+- Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st T20I - Yahoo Sports
+  Lucknow weather forecast for India vs. West Indies: Chances of rain, average temperature
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjY0YlJCczJDamtzX1dvTU9WeHZmakdJcUVVdFFYUndUbEZNVU9rSUdQTC1DanZjQk00SjB3akpFeW9IbDA1ZENtZUlOUGpQN005Smlja1ZJa1F2azc5elFYdW9YNGVMeG5iNEE2RS03VV80QWtfTmM0MGp1bnRPdVE5ajNqenI0eWc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-05 23:40:01 UTC_
+_Last updated: 2026-10-06 04:27:35 UTC_
