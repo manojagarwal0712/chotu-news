@@ -1,224 +1,252 @@
 # 📰 Daily News Summaries
 
-- MiG-25 Kargil Jet: Edge Of Space, Mach 2.4: Flying India's Most Secret Jet Over Pakistan - NDTV
-  MiG-25 Kargil Jet: Edge Of Space,
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkNXM0Y5VzB6OXhUUGRST2RoNmpNdFdSQVM4Rml3ZVd4S1VLamhydDMyTFdBcGpod2ZfWTUyU1dQZGpBbFBxRnFDRDN6TkUyellwT09IX0l3UTJmdk5RZ1I1V0U0bVRLank3R3FOZk9XUHZTLThQU1RGbndTVU1ka19XblNoX0htQ3hiSjZVWGFUTDRWaFk0UVFjekxXQ2ZLQ0lITVBQeW5kNWd3RXpxWXVYb2c5UklLa3Fz?oc=5
+- Rahul Gandhi: Delhi police detain opposition leader demanding CEC Gyanesh Kumar's resignation - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5
 
-- Rahul, Priyanka Gandhi Detained During Sit-In Against Gyanesh Kumar. Released - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTdXTThUUTR1d2VNT2kyNXZyOEtBSFc5NVk1UFJhM2VhaDBMU0lhWjNaTTF0elpkSm4tdjNDOUNDZ2stRHNPSFJUR0ctdzc3bm9Wa2FYRjFXWlo0TjIwTU1FRjMzeXlJQ0
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTdXTThUUTR1d2VNT2kyNXZyOEtBSFc5NVk1UFJhM2VhaDBMU0lhWjNaTTF0elpkSm4tdjNDOUNDZ2stRHNPSFJUR0ctdzc3bm9Wa2FYRjFXWlo0TjIwTU1FRjMzeXlJQ0prZGRFamdTRml0TllnenJTVjRDZlpVaUxJMHZQQktpOFJmcHViVzEzWk1ldUZjeC1GVEhVR0V3YkJRU0JzQnI1eU1ONHZuMVhjVWZYd9IBvgFBVV95cUxNdDJNYS1RUG1WRkhJa2VvaFdCSTgzOE5LaGFaZFk4YllLT2g3ZXJnWTVJQWEyM0JpLVNKRFVSQ3RseWRkdzBZVGtFcXJnY3ZRdkpLdzlNeUNsbWozVnZHbW1MMXZaVXpIbkFlVVpvMFQyZUhWQzRYQTRWRW5kR19UZFZQd09jdzZGM2ljbVVhRnlYSGZIdHVMT3lUalBVRTgzbXhPQ1gxNHNMZjBmS3RTckF1eU1FUUhDTXZmTTlR?oc=5
+- RBI raises rates amid rising inflation and global risks outlook - BBC
+  RBI raises rates amid rising inflation and
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HaFhnN1dxaGRKTU9oOTNhRnA1SFZJaDczMDYxZ09TMUNfaHNUX21TcEx0RXI1eVNHMHR0UmMxRXczZnFNdXRFX0lXd0RLVDJhemN6UjExTXY4YnM?oc=5
 
-- As the US government wants to change the clock 'forever', researchers in Canada warn; call it a 'time bom - The Times of India
-  As the US government wants to change the clock 'forever', researchers in Canada warn; call it
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQa2RIQ2V1Vl9TQjFlODZaY2Vhb1oyelNCb0cxWnRITmNmcC16VEQzSjk5WHZ3SHVZT0czS0hEYmt0eVBiTnpSY3ZIdG5QdFdmV1U2SEwzV1NLUjM3TVptZ1ByeTJJRHJLRGV0OWEyMDBLQW9kb0RtYVM3ZGppQy1RWjlLQlVlbWFHVVExbDNibmVtU0REUmdTVTBQbncyaHhoUlNoMG9GR2g1UW5IcUl5V2hLTnExejJRVDBmVWl6dTNHeXVxQ2U3c2s0QkpuSzF3bFhVNzd1WlM2V3NSWjd3MjNMMmxBQm44TU00SjkyeGpWYVVDamhkM2FmTkVSWHFwZVY3ZjZZMmZuTnFKQjBVRWR2NVZBajlY0gGeAkFVX3lxTFBPdVBjWlQ5a0duT1RrczE4Y2M4bEdiNUhEQWtNV21pYlF5WjFQRXJVREJHeVkwcGg0am5ZWk5FRGRycEx0WHdfNE1tYWNqMFl0cndoR3VodnNvejM2TzV4clJ1WFV2eF9PZXI5QlZWVml4WlEzSUhUWUZHNG9EUFJLNFg0N05rUmQ5WXFESEhSdk9KT0o0MnlvcmVya0UyNS1ackF0RDdfakQ1dWJDR1JaVnFBT2NkN0pYM3JVWGsyS0pPWC1RRzB0UGRtblRSWmhWdUpzblJkdmtWSTJ0TVRaZVJJVzVSYU9HZVZObHdoejM5TV9Qc2FiYmhvd3BEQ2RNZFZGV0RLNEZYVkV2dVp4YnNHUXp2aFlyeF9wS3c?oc=5
+- 3-storey building collapses in Delhi's Seemapuri, several feared trapped - The Times of India
+  3-storey building collapses in Delhi's Se
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRmV6SUtGUzdCa2lScGhLWWVLcUUybTVhaFVQdGtvZTlHRS1ZY2hIUHRlM21OalVmSW5SbkpsS2tLekZYb0ZyWHAxbHh6NFFGbnQwYlBTWVBPcTRQZy14X1VCTUJ5eXM5OHdPVFlHQzdIdkRLTGtuLTJxRmZxOHZCaEk3OGloN0JXYXdFX2tOSEtGZ05FNERSZEZZOUFHaXVFVkxjLVNMU0FYcXB0OVJtTmRCU0o0a3RSMnBSaDB4UEc4SVQ0REtycDZLSkozRS1NZFROS1doemxMRVpuMC1qU2pEaEliZDFQSFl1StIB8gFBVV95cUxPcXc0MlJXNlozdm9FZ19QOE0yNHljX1c5TGlDakdtMlBsTTFBSFhCbkluSlUxcHZwVUZ5NmtQM01QV3BpY092NjRmT2w3S0U4TlozSldsMHBVREl3V1lKRFJRN1FXWUZjMHJ2bFZvRm9aQ0xCVFFRQVVyMkN2VGplaEVHVm53YWd3c05DdWtndi1FZUhHdG10d05ieTI3U1g5aFVnY053emY4bnE2M2E2OHEtZkg1X2FQVjRGODdzVnU2Y3B2NDFMV1gxeGtDaGUzYkZLbnN6bnExTlRxek1qakZNN0ZzamVYYXZpM0FxNkMyUQ?oc=5
 
-- RBI MPC Meeting October 2026 Live Updates: Will Sanjay Malhotra announce a 25 basis points repo rate hike today? - The Times of India
-  RBI MPC Meeting October 2026 Live Updates: Will Sanjay Malhotra announce a 25
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNXZRbnZIenVyZkhxc1JkenNZRXM1WVZhakF1alhzYW41d1FFQWZZSF9aUzluOTdSSWVLekp1a1lYM2Y1Q2k5M2tILVhkX3dWVUV1OTNDT2VjYWY4NTBjdmM0UnZaS0M4dnFBOUpqSVhrX21uRWZVdVp4ZmdLUjljTjZVTXo2TEptZ2s1UmtubUQ5T1VjY3kwbFZ6ekVSZ3J2cWJfd1dYcmJtNjB2ZEY4XzRvbFcwNV9mSTdkVEl2QXJZUXp1YzlxbVlQQXFzTTVVa2JWb18yT2F1NWlMdVZCTzd4dDZJTm1ORHgydkZranlGT3VCb01LU1NENmg0cC16NE1PLTRDU1M0Rk1IMHYxYmdvZm1jMFR3ZVJSWG5ZcXhaZ0NnYlk1QlBiVGhjS25hT0ZXcVUxQmFvM2xjM1BJRXFKZlpSVjYwQUp4MVNPRVd1dTTSAdgCQVVfeXFMUDNjMGlYc0NXS3E0VmJ4Vk5HTWVNaFNWOWRtUkJfRDdWeFRicS1nQkg2bzVIQWg1TXJPUktxNjhYdGNUdVRPSUJBTGxhVURSeHJKYVBDV3VCMzNPakZEX3RnZkhEc1BDWk5Wamg1QlZxY2JfYUZ0NjhDUGY5cUljdGFJaVdyRDRfc0VqZzBvWUlrWXRiTmpJLVkyY09aMDJJZ2NoM2J2VGlxSHlSNFlld2llYlpGSVo4OWl5RThaZWdWcHg3aXBUbFF2OUE3ZzNpWUU4UWFCXzF0VHdnRE5RTFBfQURPUC1wcWJaWDlXc1VuY1RFaDI3YTA1T2V6Sm5nNExOOGNGN2NVT2gzMElKU2VZLUNHS21ReG1XNXcxYlk4bVdFOWJUTEVPTXZKOXVwOG4zSVRlN0tTdlRiaXNjR3FjRV9pbXdtVDUyNkxPdVpEU3F1dGtmWjE?oc=5
+- Many Trapped As 5-Storey Building Collapses In Delhi Month After Hostel Tragedy - NDTV
+  Many Trapped As 5-Storey Building Coll
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0V0M2NBT0VoTWRwVGw2Z2dkN2FURjgyRGdJeFVsZV9JNnVMRV9Ia0g2TlFzMU90aVNYUHBXMU5pQjEwdHg5NEJCNXNkNDFKdTVCRGh3a21iYzFuNTF1bHFfY2VmM1NDak9sOVBVLTZrRThTT2VXdHBxbnAxQl9aMUxVV28zeEtlWW4yMlBvR20wZWsxM3BkTGowMWN1cUhYVlptZzBTLWN6R3JBazBHV2pDZV9hZTZnQU1ySHlzYzVhRWJWS2ZtTUNjRTdacmJEcWtSR9IB3AFBVV95cUxQa2o0QVRJNEdfMVJ1amdxUjVVSklBR2l3R1g2anVxaG1XUl9haHpTc1ZLMTFTcXpIRTZmNzNVRHJrMEMxcWQ0OTFqMEVXbjVicmluWmo5cWNJbk5LcXhobUZpbnctV204bUh0bjFfMDZ1VXJyamxfOXczdzg3Y1VLRE4xUEdqUUl3ZFU5N0lpM2VFa09haEg0VGpjZWNMM09sMkxRazFGVzRHVF9MdjhEZW9tV0NCaHAwZWgtalBSR08yNHJKMWlHTEdJcl9FVlRyZExzNnc5RGtZUVJV?oc=5
 
-- PM Modi Visits Shri Vinayak Mandir In Delhi To Mark 25 Years In Public Office - NDTV
-  PM Modi Visits Shri Vinayak Mandir In Delhi
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQMjF2YW5tSGtUNkZjV3lPLWNacnlHNlhtbUNrOUx5M2x4M2Q2c1piWDBVMjVXRmpEMGRhZlRSd0g2V0V3NFJnek5ZNzBxZHpNODduLUNxOWR0a3BncUVYSm0wcm91UXc0bEw0eEhlUVhoYkpqR2FiUkNYM0ktbDM1M01iV2c0OE94d00zYzl1c2FPcFdxbW1MVkZuSkNfZUtvQm5NTm16UFhPcjNyX2phNFJBWTNtZVFQT2fSAcIBQVVfeXFMTUpkY1FuRG5EQXlmNVdCU2Y5dHp3QzAzbXNWWFdrUkNlSXNFdnNXdThhdzJOczZfTXFxaW5lS0d5aXdzakhJQzhNS0txdEpSMWpDQ1dlZVlmMFlmcmFzc2ExYnQ3VWVsdFdRS3dSd3FNT1Eycm5RdmpNSkxYZHphVDRHbnZKeWwyU0xTUE5WVXBtUS1hWUJIUlZVSld3cWFILUg2UzY5ejY1aFhZOEk5SElmWFdYYkhHOXUweC12Q09TOEE?oc=5
+- 4-storey residential building collapses in Delhi's Seemapuri, several feared trapped | India News - Hindustan Times
+  4-storey residential building collapses in Delhi's Seem
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbUdGT1h2a3o2b24zN3k3QV9JLVVzclUxSzRGc0lBLUw3SWN6NDFUR24yeDItV2lVS1lNSjhJUHU0a2JqMDNLVGtVdl9zYllmRE5RVm5oMnR0X2ltWExFMjBvSDM3UkJORzdnSGtZSDJYWDVMY1ZrZGlJUTBKRUJRTFJEMHp0eXcwemx0a0Qxdld0TGJQYmpZYTR2VzlYVDJPckxRamV6eFhqdjBVa0hldUp3WXZpVFdmU2cxS0RDdEZfZnNCZnBsUlo3YUJoNlBxTy1CWFZyclJFRGRVNG5QbXB5SExBSXFqdkFj0gHwAUFVX3lxTE9CMm1LQ2oxd2llWUUySUV1MmZBNWxBUmIwSk9ObGxHSHlaSWItcTZlYXNvaktfcnpFaUJvZE02YjdJMzVYTm9rRW5feTJZdld1cmR6Mm5tU1c3cDFSWUExZ2hqdm5qLWZRUXl5Z0Y5QWxieXpPRzRWTE1LaDlvRWVmVGc5ckp3R2t6MGFXRGlaY2JWQUlaNTlWcjZMYkZRTUhibms4S1NONHBaaEZKWWdCMkJCYm1xQkxtR0VVdVJCcGNxeVk5a05sM040R3NGNzNwSEZQRVktLWc4NE5zZm1BZlg3NW9pUHpjTVVEUUZLSA?oc=5
 
-- AI expert Gary Marcus warns 'reckless' technology could lead to deaths as he calls for more regulation - Fox Business
-  CNN.com's John Sutter reports on Fox Business' coverage of
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNVU9sV3ZyMHZpajNZZEdJXy04SWdqLWdvd1BXLW81NVZNajF6VXlBaDBpSnZFM3BPUTNwS01WcmZ2QmpXXzZ2ckg2bTlBSHdrMzNJOUdIeElJX0pXMnhWQ29tMDRZeWFhQ2RaZmNBaFNGVWFpYzhyUEZLOTJzY0hHSmd6MUpqT2V3TEZvSXBFRjBnYWNWcmZsNjBEaVMyeVhicHpxWlZ5d3hxRm5kQXNfRzZEa2zSAboBQVVfeXFMTmZBTkJqMU9YV084V05Ed05GMXFjY1lWa3BDNF83dUJzbFpxR1VjWU94dkRSb2dYRkU2anRaeWdTdDJka0lGZ1dVUW9RSFFTWmpKY2VNY1NMRFRLOEwySVg3aVBVdnljd05mT3dvSzVzTzlsLUV5bXZ4ZXNKT1lBMDc5ZlhiRGdSMmtyemt2OUNfLTA2MU4tc3NnNUhlVXBobVVXcDNfR09Rb0hNbnBKNzRKY28zOUFib2d3?oc=5
+- Scientists who put faith in technology less likely to take climate action - The Guardian
+  Scientists who put faith in technology less likely to take climate
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5
 
 - Citi hired a new chief technology officer from UBS - eFinancialCareers
   Citi hired a new chief technology
   🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQX2xsMGo5UE4yanZ6ZGJnY0NwNDBTSU9mRWtvMy0teVJIQ1RUSzNQRGc2YkExOGhiYTFLcUVxbHlBMTVBdWg0b1ZheEJQbGxmTV9ENlpfSTQ1a0YzRE9Xejk3MFJPNzV6RXl0QktKOGR2RHRIU0VyM2xtR2dqUC10TUU3WF9RcGQ5M1BQWDNrdURuNk0?oc=5
 
-- Iceland courts India for geothermal, CCUS, ‘carbon-to-stone’ technologies - The Hindu
-  Iceland courts India for geothermal
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNRG1KMVUwblMyT3NzbTIzMXZ5MXRQazVTMEctTEJlOE5ycTg0MGF6N21NSm4tTl9uWUJJZHF2aDFQejdiTlFhVm5yTThJSlBQbHVtQ0xJeVFqWWhjYXNZWVNxMW1DUTQzZVZyZExtNkY0OGNKeWplc2Y5U085bnhtUTZDZ1NlM1dZSW9Bc0VNLW5KMGNJclBwNVpzT0NtbXhVbEFZblM5YlJJekFRQXQteGNLR3pWak5MakVmcHJ0N3pZcEdNanYwc2hxMEjSAdMBQVVfeXFMUGlRaDRGY0NNTDAyaFZTeVp5VXBoaExuRUEyY0dGaEdRODBlNDlDcVpWdThjc1FNYUFaVktlaTc2TnZqSXU4Rm1GSXhFM084ZE9MLVZyM0tPTTNEdFZtbUFyZ1V2SHh4T0E4RHJLYkJGVXV2UEpBdmE1Y2JpYVpScFZyM24xR05vcUVhamtCQ1lyeDJRTVpOVzZGaElQd2F4QVZlZUVpUjNyWmRsMlV6YVBEVjBEN1JMQlZpdGF6R09EcnEzbmh1b2RpVUZxdXYtbXVIZw?oc=5
+- Metanoia, Aethertek, and TechPhosis Team Up to Drive 6G FR3 Technology in India - TheWire.in
+  Metanoia, Aethertek, and TechPhosis Team
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOc29OUzExVXk2YkFVVkVBclNuN2tZS21rdGMyWDVCXzMyVHNpWnRQTl9DNkQycnlfMnd4MTZCUlBjWDlTenNucEhkU3FHYXlZU3pxNE40aEwzUUVyRWdLcS15b1MtbWMwWVkxdV9DTm1mbDRjUG03TkxZMi1MRkVzamZnMzJkQ2MxdnhDTWc2LVlXNHk3dURZbWlGZjZzOEZiVklBWTFobVRWanl3SlQxS0pJd1dic2vSAbwBQVVfeXFMUE9NMWRUTV85ZVdfM1ZpcU85VGVRQ0V5Um1fdkRKaUpEU3VyQ1ROM0wzdm5SbU1UV3FzTUhGNXF1Ym9uVjljUl9PR0dmWG53MXI4dEg1R2VOSmlEX0RZZnFsaVdVWTRONm81SW1mbDYwelc5MGlXblRibWhzdGtXbERRQ2dfUER0VTVPOGI3b3hUZ2xydzJaSmZiNkdYNzI5NnlLT0hwVDIwOWs0UHFMazZDY003dkl0aHU5Vnc?oc=5
 
-- US Solar Panel Makers Try to Catch China With a Big Leap in Technology - The New York Times
-  US Solar Panel Makers Try to Catch China With a Big Leap in Technology
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXg5WXJhQ29jY2xtUGRWdndidTNUdFlCRi16c201RGpyM0VwdHZvNGN4Y2l0el9ubmxnc0x5dWtmd2JRR01GRHRjSFNuMk9aeXYtYzNvTDR6MW1HWUtNT3E4ZEpZT1lXMW4zT00xRG9UbGI4OHNNbkdUMjFzdHdBWmNKUWhzUWpabDhSMXg5ckZkWVFTRWE5SkVBclA?oc=5
+- EmbeddingGemma 2: an open, lightweight multimodal embedding model - blog.google
+  EmbeddingGemma
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZnFld2xRdDVNUloweENSSVlzYXVZQ1ZUM2F3RXFFdl8yOHhudlZiUnkxdEJBcEtaWnJYcFh3UnI5QkFnbWRpVldxa1RjYTQzNVFhUzZHaE1OZllLWUoyVjZvLWhudjlZdTEzdkJWZW5TUTBHZGhkMS1KemlhbjkzaWVtN1BxQ2RHcGJn?oc=5
 
-- Hyundai Motor Group Presents Future Mobility Vision, Electrification and Hydrogen Technologies at Aachen Colloquium 2026 - hyundai.com
-  Hyundai Motor Group Presents Future Mobility Vision, Electrification and Hyd
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE82Rm9ac0JleFRCLUJ0cGRranVtc2VRRE9XSjY2R2tmQjFISFU5SE1wb2NRNWdFT3g0ZHZpX0tGTEx1R0V3S1RqMWNFakFPN1EzdUJvRGRJd05pTHJ4Vm5pcVVpR2tZQi1PcWpWenY2ZUM?oc=5
+- Valeo Presents Breakthrough Aluminum Cooling Technology for Data Centers at OCP Global Summit 2026 and reaches significant durability milestones - Valeo
+  Valeo Presents Breakthrough Aluminum Cooling Technology for Data Centers at OCP Global
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS3NHRGJ0eFlFWXVBTWxLUkxyYWxtMHNoWEFvZzVvamhXUVNIS09Wb182dXFlOU9uV1l6bHM3c1dDM0hnUk5Sem1RYW5mWFZzZFpyZXVKdEtYRnZpQzdEbzNKS3lGS0RxRjRCU251WE14eFRXMDRLRXVmcG9RNzlUWkVGaGZmeU4xTUwydkVvVEFRczZCc3ZuNUFaM1VFM251Y0kzR2tKandSR2Q0R3ZmMDBDUG10XzFPd2FOdTN5OERIX0ZMU3Ytd1I4YXR2MTluNW9jYmI3a011LURTR1BDRzJ0ZGJvV3VoUkkyUU1iTzA5WW91bkF3c3R5UlMzRTg?oc=5
 
-- From Harry Potter to CNN: What Paramount Skydance gets after $110 billion Warner Bros deal | 5 key things to know
-  The closing followed settlements with a coalition of US states and a Hollywood writers union. It removed the main legal barriers to one of
-  🔗 https://www.livemint.com/companies/news/from-harry-potter-to-cnn-what-paramount-skydance-gets-after-110-billion-warner-bros-deal-5-key-things-to-know-11791340167787.html
+- Cashfree in talks to raise $80-100 million
+  Existing investor Krafton Inc. is
+  🔗 https://www.livemint.com/companies/start-ups/cashfree-in-talks-to-raise-80-100-million-11791298397253.html
 
-- TCS Q2 earnings: Five things to watch as Tata boardroom fight adds to scrutiny
-  TCS’s second-quarter results will offer clues on demand, AI revenue, data-centre
-  🔗 https://www.livemint.com/companies/news/tcs-q2-earnings-five-things-to-watch-as-tata-boardroom-fight-adds-to-scrutiny-11791297435743.html
+- Flipkart's ex-employees press Walmart for ‘fair’ ESOP treatment ahead of IPO: Report
+   Flipkart's ex-employees have approached Walmart's board, seeking fair treatment for their vested ESOPs. Over 30,000 employees
+  🔗 https://www.livemint.com/companies/news/flipkart-employees-press-walmart-for-fair-esop-treatment-ahead-of-ipo-report-11791367371832.html
 
-- SpaceX’s $40 billion AI bet: Elon Musk turns to banks and investors for Nvidia chips
-  Elon Musk announced 110,000 Nvidia GB200 chips and 440,000 GB300s for Colossus 2, with plans for an additional 660,000. SpaceX seeks $40 billion in
-  🔗 https://www.livemint.com/companies/people/spacexs-40-billion-ai-bet-elon-musk-turns-to-banks-and-investors-for-nvidia-chips-11791335088153.html
+- HubSpot lays off 660 workers, offers 20 weeks’ base pay and job-search support
+  HubSpot has maintained its revenue and non-GAAP operating income forecasts for both the third quarter of fiscal 2026 and
+  🔗 https://www.livemint.com/companies/hubspot-lays-off-660-workers-offers-20-weeks-base-pay-and-job-search-support-11791368967592.html
 
-- Wizz Financial bets on India with cross-border fintech push, eyes 2029 IPO
-  The company is expanding beyond remittances into payments, lending and wealth management as it seeks to make
-  🔗 https://www.livemint.com/companies/news/wizz-financial-bets-on-india-with-cross-border-fintech-push-eyes-2029-ipo-11791284761761.html
+- Alcobev value growth hinges on what people drink, not just how much: ISWAI’s Sanjit Padhi
+  Rising incomes and premiumization are driving market value. But shifts toward categories like beer and rigid state pricing controls
+  🔗 https://www.livemint.com/companies/news/india-alcohol-market-growth-beer-spirits-premiumization-iswai-sanjit-padhi-11791363726826.html
 
-- L&amp;T Realty targets 150 million sq ft portfolio by 2031 with focus on luxury housing
-  The developer plans to double its footprint over five years through premium residential projects while consolidating group real
-  🔗 https://www.livemint.com/companies/news/lt-realty-targets-150-million-sq-ft-portfolio-by-2031-with-focus-on-luxury-housing-11791272333172.html
+- Airtel introduces new postpaid plans, hikes prices by 3-11%
+  Airtel said that the users will be able to enjoy an international trip with free roaming every year with these new postpaid plans.
+  🔗 https://www.livemint.com/companies/news/ahead-of-jio-ipo-airtel-introduces-new-postpaid-plans-hikes-prices-by-311-11791352737739.html
 
-- IDFC First Bank share: 30% rally in 6 months! Experts see more upside after Q2FY27 business update | Target, stop-loss
-   IDFC First Bank reported strong Q2FY27 business with 30
-  🔗 https://www.livemint.com/market/stock-market-news/idfc-first-bank-share-30-rally-in-6-months-experts-see-more-upside-after-q2fy27-business-update-target-stoploss-11791341519819.html
+- FMCG Q2FY27 preview: 6 stocks HDFC Sec likes; Honasa, Nestlé, Emami, Bikaji, Britannia, Godrej Consumer - check targets
+  HSIE Research maintains an underweight stance due to weak earnings visibility. Indian FMCG companies face a mixed Q2FY27 earnings season.
+  🔗 https://www.livemint.com/market/stock-market-news/fmcg-q2fy27-preview-6-stocks-hdfc-sec-likes-honasa-nestl-emami-bikaji-britannia-godrej-consumer-check-targets-11791369704771.html
 
-- Korean Investors Suffer $1.7 Billion Losses From Leveraged ETFs
-  Retail investors are estimated to have lost 2.3 trillion won ($1.7 billion) from leveraged exchange-traded products tracking South Korea’s two chipmaking giants
-  🔗 https://www.livemint.com/market/korean-investors-suffer-1-7-billion-losses-from-leveraged-etfs-11791343758938.html
+- Top 2 stocks to buy for short-term: Bank of Maharashtra, Usha Martin by Nagaraj Shetti - Check stop loss, targets
+  Indian stock markets ended a two-day streak as RBI raised the repo rate by 25 basis points to 5.5%. The rupee hit a five-month low, while bond yields rose
+  🔗 https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-bank-of-maharashtra-usha-martin-by-nagaraj-shetti-check-stop-loss-targets-11791372175624.html
 
-- Stock split, spin-off, share buyback: Last chance to buy these stocks today ahead of record date - Details here
-  Shares of Bhagyanagar India, Shankara Buildpro, and Shardul Securities will remain in
-  🔗 https://www.livemint.com/market/stock-market-news/stock-split-spin-off-share-buyback-last-chance-to-buy-these-three-stocks-today-ahead-of-record-date-details-here-11791341166607.html
+- Nifty 50 and RBI MPC rate hikes: Does a rising interest rate always trigger a market correction? What history suggests
+  The RBI MPC raised the repo rate by 25 basis points to 5.5%, marking its first hike in four years amid inflation concerns. While the Sensex and Nifty fell post-ann
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-and-rbi-mpc-rate-hikes-does-a-rising-interest-rate-always-trigger-a-market-correction-what-history-suggests-11791366766643.html
 
-- Top stocks to watch today: Inox Green, Meesho, Titan, Ola Electric shares in focus on Wednesday, 7 October | Full list
-  Inox Green Energy, Meesho, Titan, Ola Electric, Asian Paints, HCL Tech
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-inox-wind-meesho-titan-ola-electric-shares-in-focus-on-wednesday-7-october-full-list-11791337997622.html
+- Jane Street gets SEBI trade logs as regulator presses firm on manipulation allegations: Report
+  SEBI informed a local court that it shared trade logs with Jane Street Group. Jane Street seeks more documents to defend against claims of influencing index prices for profit.
+  🔗 https://www.livemint.com/market/stock-market-news/jane-street-gets-sebi-trade-logs-as-regulator-presses-firm-on-manipulation-allegations-11791370824226.html
 
-- Stock market outlook today, 7 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Nikkei, Kospi, Taiwan cues
-  Gift Nifty was trading around the 22,760.50 level, down nearly 35 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-7-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-nikkei-kospitaiwan-cue-11791335357616.html
+- RBI signals more rate hikes ahead: Could 7.25% yield level become a near-term market reference point?
+  Global yields have risen sharply as the rate-hike cycle has started. There are concerns over rising fiscal deficit which is also
+  🔗 https://www.livemint.com/market/bonds/rbi-signals-more-rate-hikes-ahead-could-7-25-yield-level-become-a-near-term-market-reference-point-11791367990093.html
+
+- After Samsung, Google hikes Pixel 10a price; Here's how much it costs now in India
+  Google Pixel 10a was launched earlier this year at a price of  ₹49,999 in India
+  🔗 https://www.livemint.com/technology/after-samsung-google-hikes-pixel-10a-price-heres-how-much-it-costs-now-in-india-11791369410178.html
+
+- 5 gaming smartphones under  ₹50,000: Best phones for BGMI, COD Mobile and more
+  Here are five options for BGMI, COD Mobile and Genshin Impact, featuring powerful processors, high-refresh-
+  🔗 https://www.livemint.com/technology/5-gaming-smartphones-under-50-000-best-phones-for-bgmi-cod-mobile-and-more-11791369001556.html
+
+- Can you play GTA 6 on PC this November? Xbox clarifies cloud streaming plans ahead of launch
+  GTA 6 will be available to PC players through Xbox Cloud Gaming at launch. Original report said Microsoft had secured exclusive streaming rights for the game.
+  🔗 https://www.livemint.com/technology/can-you-play-gta-6-on-pc-this-november-xbox-clarifies-cloud-streaming-plans-ahead-of-launch-11791353218775.html
+
+- Smart glasses privacy concerns grow: Norway, Australia, UK and US curb Meta Ray-Ban use
+  Norway, Australia, the UK and the US are considering or enforcing restrictions on camera-equipped smart glasses in public and sensitive spaces. Meta Ray-Ban smart glasses are raising privacy concerns because
+  🔗 https://www.livemint.com/ai/smart-glasses-privacy-concerns-grow-norway-australia-uk-and-us-curb-meta-ray-ban-use-11791345229200.html
 
 - McDonalds sued over AI tool that recommends prices to US franchisees
   McDonald's sued over AI
   🔗 https://www.livemint.com/technology/mcdonalds-sued-over-ai-tool-that-recommends-prices-to-us-franchisees-11791317028736.html
 
-- UP govt aims to establish Lucknow among Indias leading AI innovation cities: Yogi Adityanath
-  UP govt aims to establish Lucknow among
-  🔗 https://www.livemint.com/technology/up-govt-aims-to-establish-lucknow-among-indias-leading-ai-innovation-cities-yogi-adityanath-11791296987020.html
+- Stock market today: Dow, S&P 500, Nasdaq futures fall after tech rally - Yahoo Finance
+  The Dow, S&amp;P 500, Nas
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzdzeXVFbkMwaXViZjI2SHhUTnR6V2lmRkxTcEh2ZVd2cFJNR0tvOWpfajVRWDlHSXVqeVd6ZWdUTTBOUXpiSDQxQUdPLUtaa3oySVRaazVVd25TN1ZBNEtrT3pfaXI1UUNjaGQ4OW1VVC1XTXh3OENieG42UUxmWDR5ZGZROGFEdDVab015WTBPUmpFYnhOSEdINHhZbWZtUnFtTHByNXZhTWRLWXM0?oc=5
 
-- Tablet shipments decline 3.8 pc YoY, hit by memory price inflation: Report
-   Tablet shipments decline 3.8 pc
-  🔗 https://www.livemint.com/technology/tablet-shipments-decline-3-8-pc-yoy-hit-by-memory-price-inflation-report-11791295924492.html
+- Stock Market Today: Futures Slip After S&P 500, Nasdaq Close at Records; Treasury Yields, Oil Prices Rise - Investopedia
+  Stock Market Today: Futures Slip After S&amp;P 500,
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ0k4b0MwdjJLZy1uREZSVmN0RnpZblRTbXdxa3JOVDhLNjBRNFowdlFsbXRDd0o3ZEY2ZHNXaWJiS2NYLWRQaU1wSXZrRVd0UkJ2SW1ZU1UzQVNqeUNFOEZMWXRjeWljeG9Mcl9YNTRVRl9MeGhOdnFqNWItYjlIbHk5SkN5U2owUUNwM1NCZ1c?oc=5
 
-- Frances Mistral announces new AI model
-  France's
-  🔗 https://www.livemint.com/technology/frances-mistral-announces-new-ai-model-11791291755261.html
+- Stock Market Today: S&P 500, Nasdaq Futures Retreat After Record Highs — Live Updates - WSJ
+  Stock Market Today: S&amp;P 500, Nas
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2lHZVNpMXR1TEt6VjhHNTZqbldCdmJncHA1WDZ1TXJ2TUdSbklFTmlVWnFoODM2Yy05RTJBVUQ0QU5VeG1zZlVTRFczSkdtVVlTNzRfNkpXWXBLQ2JwQ2FNVUVRUGZyTjJ3djdaUGgtdGhPOW9LVHZJcHVRMDhpVjhKUFEtV1U?oc=5
 
-- Poco X8 Power review: Great battery life and striking design, but does it justify  ₹35,999 price tag?
-  Poco X8 Power has a 1.5K 120Hz AMOLED display, IP69K protection, 100W charging and a distinctive vegan leather design. 10,
-  🔗 https://www.livemint.com/technology/tech-reviews/poco-x8-power-review-great-battery-life-and-striking-design-but-does-it-justify-rs-35-999-price-tag-11791286562301.html
+- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 429 pts lower, Nifty near 22,600; Hindalco drops 3%, Infy 2% - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUVdxNDNINElTOHhPRzFkaGVrNllTZVRvVnRvdGFnVmlJcVNmUExBYXlWVUxtcFNkLXlUWTZQbVlwdFRramNJYkhDMlZRbk40aDBWR1dvUTBrRWVScy1qMTdFdWJzUmJXbE
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUVdxNDNINElTOHhPRzFkaGVrNllTZVRvVnRvdGFnVmlJcVNmUExBYXlWVUxtcFNkLXlUWTZQbVlwdFRramNJYkhDMlZRbk40aDBWR1dvUTBrRWVScy1qMTdFdWJzUmJXbExXdURQc0Z4QjRTZ2ptMWZqUUxZcFBkQWVvSGVIbWNpT0ZTY3gtWS1RRFlBbFBDX2hkWVBtei1JcDM2VTVPd0VDVzNmNzhKdVF3c0syMWtFMi1fWW8zNUJiMUVmNnNwUEpsR2M4T3VZZENlbmV3MUFSdzRaSXhIcTQ4ZFhacjlKSW9lSy1EVWo3VmNfWFlfWUtKTHU3U1V4ajB1a3pSZ3pqRTDSAZACQVVfeXFMT0RhUEVuTTUtV1VyZVNvRWVaWUhSZk9UdlRJcDF2aTNpNm5Lc3dodXpCcUlmbGdzLVo2bXh5LXJOd2hxOUs4MS1jRk13U3lOYVdoYjZ5cEIzVTdJeXg4aFNpeGl1TmpVZ0w0cGQyLUFUR3E5SnB6ZmZBeE5DQzUtWGNzNUk5Tl9wQzZNano3TkVnUXplS25raEVoTFF5S3htSUxLa0F4WDNHWHR1LWkzMUo1cldrX1h6c1dqYlhkTU5VUDlhWkFNMXNxMW9mV0w0azFFbFN0NlhSMnA1ZUk2NEtzMG9GdWd3a3E4TG5tRVhFVVhBdXNiSXVQVGVRMFhWdEluUE9fR2tRQ25BaXk4RUk?oc=5
 
-- S&P 500 posts first close above 7,800, boosted by tech gains and cooler yields - CNBC
-  S&amp;P 500 posts first close above 7,800, boosted by tech gains and cooler yields.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE54SDBCVUlsR19iZW9vcGFvN3dtT1hLbDEwdGM0S2xkZ2pXam96MjdpaUp4RW5acS1YZWVMYlZmRVVOZ3BtVk42TklUTTg0VFlLUkVyRUl0aFVzbVBISW5DQWRkMHNEakdlUXEtOGg1RkRuemFWM3hB0gF8QVVfeXFMTmVlVWdLbGJqQklwY1NYVkNua3A3SHFvRnFjaVFjVGtrUTJTZVo3Q2R4aWxkSEFCXzg4dVh1MTJPZHdDV0dGWmd3VHlCdTgwUWhDWmhVbjZiMXBwU0hiQ3ZNa01Ic1V5SmZwSk05N21TSWNMU09SM1ItMExoLQ?oc=5
+- India RBI chief says markets can be irrational as rupee returns near record lows - Reuters
+  RBI chief says markets can be irrational as rupee returns
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZUZKREQzQnlwZUJibmI2dHpQRklRV3hWQldzMlBDeHVvRjJtVTNxampseS1vYzV1am5meUdWb1ZRR0Zpa1JNeGkybGtrbFRqc2N5X0Ntb0VJNjhZNHVhS2o1V180UUJQVzdxNkhJU2xTdktjRkstVGFCRkVuUGFMaW1uWkJZRkxSX2RWQ3o1SEpFYmgwck1rR1RxR3ZhbGtHWk1CS2lHdUhiWU13WW9pVnhiazBlV3NGX0E?oc=5
 
-- Five reasons India's stock market is sinking even when its economy is growing - BBC
-  Five reasons India's stock market is sinking even when its
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5
+- ET Alpha Wealth Summit 2.0: The ideas, trends and opportunities shaping future of wealth creation
+  Alpha Wealth Summit 2.0 brings together leading investors, wealth managers and family-office professionals to decode the forces shaping the next investment cycle. From global capital flows, private credit and alternatives to family offices, GIFT City,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-the-ideas-trends-and-opportunities-shaping-future-of-wealth-creation/articleshow/134765522.cms
 
-- GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty ahead of RBI policy; Asian markets decline - Moneycontrol.com
-  Nifty falls 100 pts, signals weak start for Sensex, Nifty ahead
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd0o4d2tXQ0JpZXNhY3UwQ0VFdnl2UHpjQlpvUk9wSm1Zb19pY1VLQVFZT3lkRjRVamR1cUYxb0xwNEViX21veFFoanYyLXlIUHVoUXRwRDRpckt5SjlOWTU1RjBHSE04cUI2aGN3Z2VvUUFqYmNxLTZxckViWWhvM2s5Ri1iWkMtNUpYREpSVkJvdTJpeGVLX2dWZFFXSzI2MHdjYzRKcHJIbEFLMy10Y2tuZ3hybHZWVzlCSTA4ZkY2aGRHQXUxRUd1eDZQOVc4T1VQQm1ORVgyNFBweWtYQVQwTEpaY2VBTnlTTVdwS3JsZ3VFcXV5aWpSUdIBgAJBVV95cUxQNU5JU2J5VVJXNjg0Vk9fWFNzbXAxaEdHTHZvV19oYTdmcm0yWkQzRnJxSmtzYTVtdk9MbFpDN0dlUzhLX2FhQUhRMXllTVlXVDZhQmdBdEplVTJ6bTdEbTZKMThvNlNlOFpfalFOQXRGWHlzUWphRGVSdk9GZmhpTDJiZ1A4T3UxSkpvWE9JZFF4dXlzNEZha29lXzVsQjJmdF8zeE03MFF0OXFWSkExdlJUNWQtTVdDaC1tSEl6dm9SejhUREJKX3lwVHJaYUhzTlRxbUNnMTd2blAwVW92T1hGMS1xZmxUaGt5YWZxa2NvNkdZZlY5SFRqeHhoM3JB?oc=5
+- India bonds tumble after RBI's first rate hike in nearly four years
+  In a bid to combat inflation, the Reserve Bank of India has increased the key interest rate to 5.5%. This decision has led to a notable dip in Indian government bonds in the market.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-after-rbis-first-rate-hike-in-nearly-four-years/articleshow/134765724.cms
 
-- Sensex Today | Stock Market LIVE Updates: Sensex gains, Nifty down at pre-open; Titan, Asian Paints, Apollo Tyres in focus - Moneycontrol.com
-  The Nifty down at pre-open; Titan, Asian Paints, Apollo Tyres
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPbnotWFowYW95bVpVbXNzaG1zaEpON1VJOHhSbVkzZlM2eHM4TElrMGN4SkwwZ1I4Q09pSEcyTFlwVnVUTUxKbXdlNDFJWDh6RHFKNlFqR1ZLVXZUSmhGWEhfM09mWGZTaUdfb21ubFNxN3ViQ0I5UkY2RGRJbkwxR1RzOURjSkpVYlktS0R1MXRQOHRNVUQySmV1WXg3T3B6SmZHamRpYnVwMnZJZklRRHJZNzlpSkFqZ21WYi1yQS1LaFVGMExXZThNUm03SnJ1aGRqaElUYTczRlc1WDhfRVZtcldnRTNEUlVNcDI5dnZfdklnYTg5UG5LTk51QUNiMlppaEVtbmx5UWs1ejJqZm51dmU5eTZ6QWFIT2xVY0Y3RDjSAagCQVVfeXFMTlY2LTg3YTdpVElhNFhmT2E1cXNhb2RlY0NybFFaMjVFOHJLOEMtWlN2a3NhMXE4aDB0WW5fYnVnWXlFOFpfRHRVUkxlRWlBdlBYZVkxbzRRdmhZTGROU0lKLVR4emlObWhSNmdqWkUteFJFdGRtSzFHWTNya1JETmNYbWNzWGRhMGRTNG1ybFhEc2ZScE9zS1VYSnpCbVI0bWFwYVZtRDYyaDVOQmk5V3kzbDNMOFY3SmpBcGdQcHpEblpMSDlxbmhyNEFoQWdRT0M5SzhKV0dBRDd5Y2ZxQ1lHdkg1VVFKekZrU1FDaGwwdFNwVzREOFlxdm9RZUpXLWhsTDZsS2t5b1V1VlM5ZlRzdkxZWi1DVDZNNU4zRXZzenFyRUpadVA?oc=5
+- Saurabh Mukherjea’s Marcellus ties up with VanEck to widen global investment offerings for Indian investors
+  Marcellus Investment Managers has partnered with VanEck to expand its global investment offering for Indian investors through a multi-asset strategy. The portfolio will span global equity and bond ETFs, commodities and real
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/saurabh-mukherjeas-marcellus-ties-up-with-vaneck-to-widen-global-investment-offerings-for-indian-investors/articleshow/134765427.cms
 
-- Dollar holds losses as markets await Fed minutes, speakers - Reuters
-  Dollar holds losses as markets await
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnY5bzdPR0xZNUZ6VEJzWUhMVmJQZEI0bzY0cHpWV21LdHRFeDlIWkxnMURDYVFDVU9nZEVPYU9TNWNNV3NvWUE5MlJPaUVXT2VqaGJQQVFwNmtHWE5nNUF2SU5Ob3dmYVlSOENZVmRBc3lVUjFMM1NYYlBfLUJ6ZzJaU0FQQlQwMkh0cXlrZEItc0ZKeC1YLXdOd2wzRWxHeUlSUDg4STVVQTVGdmc?oc=5
+- ‘Only bullish corner’: Nithin Kamath flags ‘full-on party’ in IPOs amid broader market weakness
+  67.2% of 125 IPOs listed between October 2025 and September 2026 traded above issue prices, with median returns of 24.7%.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/only-bullish-corner-nithin-kamath-flags-full-on-party-in-ipos-amid-broader-market-weakness/articleshow/134765380.cms
 
-- Kalyan Jewellers shares in focus as Q2 revenue grows 26% YoY, jeweller records 20% same-store-sales growth
-  Kalyan Jewellers reported over 26% consolidated revenue growth in Q2 FY27. International revenue rose 18%, while its lifestyle brand Candere grew 64%.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-in-focus-as-q2-revenue-grows-26-yoy-jeweller-records-20-same-store-sales-growth/articleshow/134754963.cms
+- Market wrap: Kotak Bank, Bharti Airtel, Titan Company, Adani Ent top gainers and losers on Nifty and Sensex on Wednesday
+  The Nifty and Sensex fell 0.76% and 0.59% respectively. Titan Company, Adani Enterprises and Hindalco led losses. Kotak Bank and Bharti Airtel topped gainers.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-kotak-bank-bharti-airtel-titan-company-adani-ent-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/134765160.cms
 
-- RBI to hike repo rate by 25 bps? These rate sensitive sectors will be in focus on Wednesday
-  The central bank widely expected to raise the repo rate by 25 bps to 5.50%. Markets will track its inflation outlook and future rate guidance.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-to-hike-repo-rate-by-25-bps-these-rate-sensitive-sectors-will-be-in-focus-on-wednesday/articleshow/134754911.cms
+- Rahul Gandhi: Delhi police detain opposition leader demanding CEC Gyanesh Kumar's resignation - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5
 
-- Urban Company among 6 stocks showing RSI trending up
-  Six Nifty500 stocks that gained over 6% featured in StockEdge’s RSI Trending Up scan on
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/urban-company-among-6-stocks-showing-rsi-trending-up/slideshow/134754853.cms
+- RBI raises rates amid rising inflation and global risks outlook - BBC
+  RBI raises rates amid rising inflation and
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HaFhnN1dxaGRKTU9oOTNhRnA1SFZJaDczMDYxZ09TMUNfaHNUX21TcEx0RXI1eVNHMHR0UmMxRXczZnFNdXRFX0lXd0RLVDJhemN6UjExTXY4YnM?oc=5
 
-- Oil Price Today (October 7): Crude oil rises to $101, up 45% in 3 months. Two reasons behind Wednesday’s surge
-  Brent futures gained 93 cents, or 0.92%, to $101.51, while US
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-7-crude-oil-rises-to-101-up-45-in-3-months-two-reasons-behind-wednesdays-surge/articleshow/134754015.cms
+- 3-storey building collapses in Delhi's Seemapuri, several feared trapped - The Times of India
+  3-storey building collapses in Delhi's Se
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRmV6SUtGUzdCa2lScGhLWWVLcUUybTVhaFVQdGtvZTlHRS1ZY2hIUHRlM21OalVmSW5SbkpsS2tLekZYb0ZyWHAxbHh6NFFGbnQwYlBTWVBPcTRQZy14X1VCTUJ5eXM5OHdPVFlHQzdIdkRLTGtuLTJxRmZxOHZCaEk3OGloN0JXYXdFX2tOSEtGZ05FNERSZEZZOUFHaXVFVkxjLVNMU0FYcXB0OVJtTmRCU0o0a3RSMnBSaDB4UEc4SVQ0REtycDZLSkozRS1NZFROS1doemxMRVpuMC1qU2pEaEliZDFQSFl1StIB8gFBVV95cUxPcXc0MlJXNlozdm9FZ19QOE0yNHljX1c5TGlDakdtMlBsTTFBSFhCbkluSlUxcHZwVUZ5NmtQM01QV3BpY092NjRmT2w3S0U4TlozSldsMHBVREl3V1lKRFJRN1FXWUZjMHJ2bFZvRm9aQ0xCVFFRQVVyMkN2VGplaEVHVm53YWd3c05DdWtndi1FZUhHdG10d05ieTI3U1g5aFVnY053emY4bnE2M2E2OHEtZkg1X2FQVjRGODdzVnU2Y3B2NDFMV1gxeGtDaGUzYkZLbnN6bnExTlRxek1qakZNN0ZzamVYYXZpM0FxNkMyUQ?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-titan-hcltech-share-price-07-october-2026/liveblog/134753791.cms
+- Many Trapped As 5-Storey Building Collapses In Delhi Month After Hostel Tragedy - NDTV
+  Many Trapped As 5-Storey Building Coll
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0V0M2NBT0VoTWRwVGw2Z2dkN2FURjgyRGdJeFVsZV9JNnVMRV9Ia0g2TlFzMU90aVNYUHBXMU5pQjEwdHg5NEJCNXNkNDFKdTVCRGh3a21iYzFuNTF1bHFfY2VmM1NDak9sOVBVLTZrRThTT2VXdHBxbnAxQl9aMUxVV28zeEtlWW4yMlBvR20wZWsxM3BkTGowMWN1cUhYVlptZzBTLWN6R3JBazBHV2pDZV9hZTZnQU1ySHlzYzVhRWJWS2ZtTUNjRTdacmJEcWtSR9IB3AFBVV95cUxQa2o0QVRJNEdfMVJ1amdxUjVVSklBR2l3R1g2anVxaG1XUl9haHpTc1ZLMTFTcXpIRTZmNzNVRHJrMEMxcWQ0OTFqMEVXbjVicmluWmo5cWNJbk5LcXhobUZpbnctV204bUh0bjFfMDZ1VXJyamxfOXczdzg3Y1VLRE4xUEdqUUl3ZFU5N0lpM2VFa09haEg0VGpjZWNMM09sMkxRazFGVzRHVF9MdjhEZW9tV0NCaHAwZWgtalBSR08yNHJKMWlHTEdJcl9FVlRyZExzNnc5RGtZUVJV?oc=5
 
-- MiG-25 Kargil Jet: Edge Of Space, Mach 2.4: Flying India's Most Secret Jet Over Pakistan - NDTV
-  MiG-25 Kargil Jet: Edge Of Space,
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkNXM0Y5VzB6OXhUUGRST2RoNmpNdFdSQVM4Rml3ZVd4S1VLamhydDMyTFdBcGpod2ZfWTUyU1dQZGpBbFBxRnFDRDN6TkUyellwT09IX0l3UTJmdk5RZ1I1V0U0bVRLank3R3FOZk9XUHZTLThQU1RGbndTVU1ka19XblNoX0htQ3hiSjZVWGFUTDRWaFk0UVFjekxXQ2ZLQ0lITVBQeW5kNWd3RXpxWXVYb2c5UklLa3Fz?oc=5
+- 4-storey residential building collapses in Delhi's Seemapuri, several feared trapped | India News - Hindustan Times
+  4-storey residential building collapses in Delhi's Seem
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbUdGT1h2a3o2b24zN3k3QV9JLVVzclUxSzRGc0lBLUw3SWN6NDFUR24yeDItV2lVS1lNSjhJUHU0a2JqMDNLVGtVdl9zYllmRE5RVm5oMnR0X2ltWExFMjBvSDM3UkJORzdnSGtZSDJYWDVMY1ZrZGlJUTBKRUJRTFJEMHp0eXcwemx0a0Qxdld0TGJQYmpZYTR2VzlYVDJPckxRamV6eFhqdjBVa0hldUp3WXZpVFdmU2cxS0RDdEZfZnNCZnBsUlo3YUJoNlBxTy1CWFZyclJFRGRVNG5QbXB5SExBSXFqdkFj0gHwAUFVX3lxTE9CMm1LQ2oxd2llWUUySUV1MmZBNWxBUmIwSk9ObGxHSHlaSWItcTZlYXNvaktfcnpFaUJvZE02YjdJMzVYTm9rRW5feTJZdld1cmR6Mm5tU1c3cDFSWUExZ2hqdm5qLWZRUXl5Z0Y5QWxieXpPRzRWTE1LaDlvRWVmVGc5ckp3R2t6MGFXRGlaY2JWQUlaNTlWcjZMYkZRTUhibms4S1NONHBaaEZKWWdCMkJCYm1xQkxtR0VVdVJCcGNxeVk5a05sM040R3NGNzNwSEZQRVktLWc4NE5zZm1BZlg3NW9pUHpjTVVEUUZLSA?oc=5
 
-- Rahul, Priyanka Gandhi Detained During Sit-In Against Gyanesh Kumar. Released - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTdXTThUUTR1d2VNT2kyNXZyOEtBSFc5NVk1UFJhM2VhaDBMU0lhWjNaTTF0elpkSm4tdjNDOUNDZ2stRHNPSFJUR0ctdzc3bm9Wa2FYRjFXWlo0TjIwTU1FRjMzeXlJQ0
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTdXTThUUTR1d2VNT2kyNXZyOEtBSFc5NVk1UFJhM2VhaDBMU0lhWjNaTTF0elpkSm4tdjNDOUNDZ2stRHNPSFJUR0ctdzc3bm9Wa2FYRjFXWlo0TjIwTU1FRjMzeXlJQ0prZGRFamdTRml0TllnenJTVjRDZlpVaUxJMHZQQktpOFJmcHViVzEzWk1ldUZjeC1GVEhVR0V3YkJRU0JzQnI1eU1ONHZuMVhjVWZYd9IBvgFBVV95cUxNdDJNYS1RUG1WRkhJa2VvaFdCSTgzOE5LaGFaZFk4YllLT2g3ZXJnWTVJQWEyM0JpLVNKRFVSQ3RseWRkdzBZVGtFcXJnY3ZRdkpLdzlNeUNsbWozVnZHbW1MMXZaVXpIbkFlVVpvMFQyZUhWQzRYQTRWRW5kR19UZFZQd09jdzZGM2ljbVVhRnlYSGZIdHVMT3lUalBVRTgzbXhPQ1gxNHNMZjBmS3RTckF1eU1FUUhDTXZmTTlR?oc=5
+- Lumio Raises $12 Mn To Scale Consumer Electronics Portfolio
+  Lumio raised $12 Mn (around ₹102.5 Cr) in a Series A funding round led by Blume Ventures.
+  🔗 https://inc42.com/buzz/lumio-raises-12-mn-to-scale-consumer-electronics-portfolio/
 
-- As the US government wants to change the clock 'forever', researchers in Canada warn; call it a 'time bom - The Times of India
-  As the US government wants to change the clock 'forever', researchers in Canada warn; call it
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQa2RIQ2V1Vl9TQjFlODZaY2Vhb1oyelNCb0cxWnRITmNmcC16VEQzSjk5WHZ3SHVZT0czS0hEYmt0eVBiTnpSY3ZIdG5QdFdmV1U2SEwzV1NLUjM3TVptZ1ByeTJJRHJLRGV0OWEyMDBLQW9kb0RtYVM3ZGppQy1RWjlLQlVlbWFHVVExbDNibmVtU0REUmdTVTBQbncyaHhoUlNoMG9GR2g1UW5IcUl5V2hLTnExejJRVDBmVWl6dTNHeXVxQ2U3c2s0QkpuSzF3bFhVNzd1WlM2V3NSWjd3MjNMMmxBQm44TU00SjkyeGpWYVVDamhkM2FmTkVSWHFwZVY3ZjZZMmZuTnFKQjBVRWR2NVZBajlY0gGeAkFVX3lxTFBPdVBjWlQ5a0duT1RrczE4Y2M4bEdiNUhEQWtNV21pYlF5WjFQRXJVREJHeVkwcGg0am5ZWk5FRGRycEx0WHdfNE1tYWNqMFl0cndoR3VodnNvejM2TzV4clJ1WFV2eF9PZXI5QlZWVml4WlEzSUhUWUZHNG9EUFJLNFg0N05rUmQ5WXFESEhSdk9KT0o0MnlvcmVya0UyNS1ackF0RDdfakQ1dWJDR1JaVnFBT2NkN0pYM3JVWGsyS0pPWC1RRzB0UGRtblRSWmhWdUpzblJkdmtWSTJ0TVRaZVJJVzVSYU9HZVZObHdoejM5TV9Qc2FiYmhvd3BEQ2RNZFZGV0RLNEZYVkV2dVp4YnNHUXp2aFlyeF9wS3c?oc=5
+- Selling Intelligence Was the Warm-Up For AI. Owning Vertical Markets May Be The Play
+  Selling Intelligence Was the Warm-Up For AI. Owning Vertical Markets May Be The Play.
+  🔗 https://inc42.com/resources/selling-intelligence-was-the-warm-up-for-ai-owning-vertical-markets-may-be-the-play/
 
-- RBI MPC Meeting October 2026 Live Updates: Will Sanjay Malhotra announce a 25 basis points repo rate hike today? - The Times of India
-  RBI MPC Meeting October 2026 Live Updates: Will Sanjay Malhotra announce a 25
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNXZRbnZIenVyZkhxc1JkenNZRXM1WVZhakF1alhzYW41d1FFQWZZSF9aUzluOTdSSWVLekp1a1lYM2Y1Q2k5M2tILVhkX3dWVUV1OTNDT2VjYWY4NTBjdmM0UnZaS0M4dnFBOUpqSVhrX21uRWZVdVp4ZmdLUjljTjZVTXo2TEptZ2s1UmtubUQ5T1VjY3kwbFZ6ekVSZ3J2cWJfd1dYcmJtNjB2ZEY4XzRvbFcwNV9mSTdkVEl2QXJZUXp1YzlxbVlQQXFzTTVVa2JWb18yT2F1NWlMdVZCTzd4dDZJTm1ORHgydkZranlGT3VCb01LU1NENmg0cC16NE1PLTRDU1M0Rk1IMHYxYmdvZm1jMFR3ZVJSWG5ZcXhaZ0NnYlk1QlBiVGhjS25hT0ZXcVUxQmFvM2xjM1BJRXFKZlpSVjYwQUp4MVNPRVd1dTTSAdgCQVVfeXFMUDNjMGlYc0NXS3E0VmJ4Vk5HTWVNaFNWOWRtUkJfRDdWeFRicS1nQkg2bzVIQWg1TXJPUktxNjhYdGNUdVRPSUJBTGxhVURSeHJKYVBDV3VCMzNPakZEX3RnZkhEc1BDWk5Wamg1QlZxY2JfYUZ0NjhDUGY5cUljdGFJaVdyRDRfc0VqZzBvWUlrWXRiTmpJLVkyY09aMDJJZ2NoM2J2VGlxSHlSNFlld2llYlpGSVo4OWl5RThaZWdWcHg3aXBUbFF2OUE3ZzNpWUU4UWFCXzF0VHdnRE5RTFBfQURPUC1wcWJaWDlXc1VuY1RFaDI3YTA1T2V6Sm5nNExOOGNGN2NVT2gzMElKU2VZLUNHS21ReG1XNXcxYlk4bVdFOWJUTEVPTXZKOXVwOG4zSVRlN0tTdlRiaXNjR3FjRV9pbXdtVDUyNkxPdVpEU3F1dGtmWjE?oc=5
+- Why Growth Stage Startup Funding Outpaced Late Stage Investments In Q3
+  While the funding trends in the Indian startup ecosystem have been showing signs of stability over the past few months.
+  🔗 https://inc42.com/buzz/why-growth-stage-startup-funding-outpaced-late-stage-investments-in-q3/
 
-- PM Modi Visits Shri Vinayak Mandir In Delhi To Mark 25 Years In Public Office - NDTV
-  PM Modi Visits Shri Vinayak Mandir In Delhi
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQMjF2YW5tSGtUNkZjV3lPLWNacnlHNlhtbUNrOUx5M2x4M2Q2c1piWDBVMjVXRmpEMGRhZlRSd0g2V0V3NFJnek5ZNzBxZHpNODduLUNxOWR0a3BncUVYSm0wcm91UXc0bEw0eEhlUVhoYkpqR2FiUkNYM0ktbDM1M01iV2c0OE94d00zYzl1c2FPcFdxbW1MVkZuSkNfZUtvQm5NTm16UFhPcjNyX2phNFJBWTNtZVFQT2fSAcIBQVVfeXFMTUpkY1FuRG5EQXlmNVdCU2Y5dHp3QzAzbXNWWFdrUkNlSXNFdnNXdThhdzJOczZfTXFxaW5lS0d5aXdzakhJQzhNS0txdEpSMWpDQ1dlZVlmMFlmcmFzc2ExYnQ3VWVsdFdRS3dSd3FNT1Eycm5RdmpNSkxYZHphVDRHbnZKeWwyU0xTUE5WVXBtUS1hWUJIUlZVSld3cWFILUg2UzY5ejY1aFhZOEk5SElmWFdYYkhHOXUweC12Q09TOEE?oc=5
+- Desible.ai Raises ₹32 Cr To Build AI Operating Layer For BFSI
+  Voice AI startup Desible.ai has raised ₹32 Cr (around $3.7 Mn)
+  🔗 https://inc42.com/buzz/desible-ai-raises-%e2%82%b932-cr-to-build-ai-operating-layer-for-bfsi/
 
-- OpenAI Agents Go Rogue, FYDY Eyes $12 Mn & More
-  OpenAI is under fresh scrutiny over its “rogue” agents. Wikimedia Foundation claims that the AI juggernaut’s.
-  🔗 https://inc42.com/buzz/openai-agents-go-rogue-fydy-eyes-12-mn-more/
+- Sunfox Technologies Bags $7 Mn To Scale Cardiac Diagnostics Platform Spandan
+  Dehradun-based medtech startup Sunfox Technologies has raised $7 Mn (around ₹67 Cr) in Series A funding round.
+  🔗 https://inc42.com/buzz/sunfox-technologies-bags-7-mn-to-scale-cardiac-diagnostics-platform-spandan/
 
-- The Case For Evals In A Multi-Model World
-  Another day and another new model grabs the limelight. Product teams scramble to see how it can be used for.
-  🔗 https://inc42.com/features/the-case-for-evals-in-a-multi-model-world/
+- Rahul Gandhi: Delhi police detain opposition leader demanding CEC Gyanesh Kumar's resignation - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5
 
-- Go All-Electric By July 2027: Maharashtra Govt To Bike Taxi Aggregators
-  The Maharashtra government has reportedly directed all bike taxi aggregators, including Rapido, Uber and Ola, to transition to an all-electric.
-  🔗 https://inc42.com/buzz/go-all-electric-by-july-2027-maharashtra-govt-to-bike-taxi-aggregators/
+- RBI raises rates amid rising inflation and global risks outlook - BBC
+  RBI raises rates amid rising inflation and
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HaFhnN1dxaGRKTU9oOTNhRnA1SFZJaDczMDYxZ09TMUNfaHNUX21TcEx0RXI1eVNHMHR0UmMxRXczZnFNdXRFX0lXd0RLVDJhemN6UjExTXY4YnM?oc=5
 
-- TPG Offloads More Shadowfax Shares Via ₹115 Cr Bulk Deal
-  TPG continues to dilute its shareholding in Shadowfax. Private equity giant has now sold more shares of the company.
-  🔗 https://inc42.com/buzz/tpg-offloads-more-shadowfax-shares-via-%e2%82%b9115-cr-bulk-deal/
+- 3-storey building collapses in Delhi's Seemapuri, several feared trapped - The Times of India
+  3-storey building collapses in Delhi's Se
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRmV6SUtGUzdCa2lScGhLWWVLcUUybTVhaFVQdGtvZTlHRS1ZY2hIUHRlM21OalVmSW5SbkpsS2tLekZYb0ZyWHAxbHh6NFFGbnQwYlBTWVBPcTRQZy14X1VCTUJ5eXM5OHdPVFlHQzdIdkRLTGtuLTJxRmZxOHZCaEk3OGloN0JXYXdFX2tOSEtGZ05FNERSZEZZOUFHaXVFVkxjLVNMU0FYcXB0OVJtTmRCU0o0a3RSMnBSaDB4UEc4SVQ0REtycDZLSkozRS1NZFROS1doemxMRVpuMC1qU2pEaEliZDFQSFl1StIB8gFBVV95cUxPcXc0MlJXNlozdm9FZ19QOE0yNHljX1c5TGlDakdtMlBsTTFBSFhCbkluSlUxcHZwVUZ5NmtQM01QV3BpY092NjRmT2w3S0U4TlozSldsMHBVREl3V1lKRFJRN1FXWUZjMHJ2bFZvRm9aQ0xCVFFRQVVyMkN2VGplaEVHVm53YWd3c05DdWtndi1FZUhHdG10d05ieTI3U1g5aFVnY053emY4bnE2M2E2OHEtZkg1X2FQVjRGODdzVnU2Y3B2NDFMV1gxeGtDaGUzYkZLbnN6bnExTlRxek1qakZNN0ZzamVYYXZpM0FxNkMyUQ?oc=5
 
-- Insurance Brokers Oppose IRDAI Reforms, Project 70% Revenue Loss
-  The Insurance Brokers Association of India (IBAI) has said that the Insurance Regulatory and Development Authority of India’s (IRDAI) recently&#82
-  🔗 https://inc42.com/buzz/insurance-brokers-oppose-irdai-reforms-project-70-revenue-loss/
+- Many Trapped As 5-Storey Building Collapses In Delhi Month After Hostel Tragedy - NDTV
+  Many Trapped As 5-Storey Building Coll
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0V0M2NBT0VoTWRwVGw2Z2dkN2FURjgyRGdJeFVsZV9JNnVMRV9Ia0g2TlFzMU90aVNYUHBXMU5pQjEwdHg5NEJCNXNkNDFKdTVCRGh3a21iYzFuNTF1bHFfY2VmM1NDak9sOVBVLTZrRThTT2VXdHBxbnAxQl9aMUxVV28zeEtlWW4yMlBvR20wZWsxM3BkTGowMWN1cUhYVlptZzBTLWN6R3JBazBHV2pDZV9hZTZnQU1ySHlzYzVhRWJWS2ZtTUNjRTdacmJEcWtSR9IB3AFBVV95cUxQa2o0QVRJNEdfMVJ1amdxUjVVSklBR2l3R1g2anVxaG1XUl9haHpTc1ZLMTFTcXpIRTZmNzNVRHJrMEMxcWQ0OTFqMEVXbjVicmluWmo5cWNJbk5LcXhobUZpbnctV204bUh0bjFfMDZ1VXJyamxfOXczdzg3Y1VLRE4xUEdqUUl3ZFU5N0lpM2VFa09haEg0VGpjZWNMM09sMkxRazFGVzRHVF9MdjhEZW9tV0NCaHAwZWgtalBSR08yNHJKMWlHTEdJcl9FVlRyZExzNnc5RGtZUVJV?oc=5
 
-- MiG-25 Kargil Jet: Edge Of Space, Mach 2.4: Flying India's Most Secret Jet Over Pakistan - NDTV
-  MiG-25 Kargil Jet: Edge Of Space,
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkNXM0Y5VzB6OXhUUGRST2RoNmpNdFdSQVM4Rml3ZVd4S1VLamhydDMyTFdBcGpod2ZfWTUyU1dQZGpBbFBxRnFDRDN6TkUyellwT09IX0l3UTJmdk5RZ1I1V0U0bVRLank3R3FOZk9XUHZTLThQU1RGbndTVU1ka19XblNoX0htQ3hiSjZVWGFUTDRWaFk0UVFjekxXQ2ZLQ0lITVBQeW5kNWd3RXpxWXVYb2c5UklLa3Fz?oc=5
+- 4-storey residential building collapses in Delhi's Seemapuri, several feared trapped | India News - Hindustan Times
+  4-storey residential building collapses in Delhi's Seem
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbUdGT1h2a3o2b24zN3k3QV9JLVVzclUxSzRGc0lBLUw3SWN6NDFUR24yeDItV2lVS1lNSjhJUHU0a2JqMDNLVGtVdl9zYllmRE5RVm5oMnR0X2ltWExFMjBvSDM3UkJORzdnSGtZSDJYWDVMY1ZrZGlJUTBKRUJRTFJEMHp0eXcwemx0a0Qxdld0TGJQYmpZYTR2VzlYVDJPckxRamV6eFhqdjBVa0hldUp3WXZpVFdmU2cxS0RDdEZfZnNCZnBsUlo3YUJoNlBxTy1CWFZyclJFRGRVNG5QbXB5SExBSXFqdkFj0gHwAUFVX3lxTE9CMm1LQ2oxd2llWUUySUV1MmZBNWxBUmIwSk9ObGxHSHlaSWItcTZlYXNvaktfcnpFaUJvZE02YjdJMzVYTm9rRW5feTJZdld1cmR6Mm5tU1c3cDFSWUExZ2hqdm5qLWZRUXl5Z0Y5QWxieXpPRzRWTE1LaDlvRWVmVGc5ckp3R2t6MGFXRGlaY2JWQUlaNTlWcjZMYkZRTUhibms4S1NONHBaaEZKWWdCMkJCYm1xQkxtR0VVdVJCcGNxeVk5a05sM040R3NGNzNwSEZQRVktLWc4NE5zZm1BZlg3NW9pUHpjTVVEUUZLSA?oc=5
 
-- Rahul, Priyanka Gandhi Detained During Sit-In Against Gyanesh Kumar. Released - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTdXTThUUTR1d2VNT2kyNXZyOEtBSFc5NVk1UFJhM2VhaDBMU0lhWjNaTTF0elpkSm4tdjNDOUNDZ2stRHNPSFJUR0ctdzc3bm9Wa2FYRjFXWlo0TjIwTU1FRjMzeXlJQ0
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTdXTThUUTR1d2VNT2kyNXZyOEtBSFc5NVk1UFJhM2VhaDBMU0lhWjNaTTF0elpkSm4tdjNDOUNDZ2stRHNPSFJUR0ctdzc3bm9Wa2FYRjFXWlo0TjIwTU1FRjMzeXlJQ0prZGRFamdTRml0TllnenJTVjRDZlpVaUxJMHZQQktpOFJmcHViVzEzWk1ldUZjeC1GVEhVR0V3YkJRU0JzQnI1eU1ONHZuMVhjVWZYd9IBvgFBVV95cUxNdDJNYS1RUG1WRkhJa2VvaFdCSTgzOE5LaGFaZFk4YllLT2g3ZXJnWTVJQWEyM0JpLVNKRFVSQ3RseWRkdzBZVGtFcXJnY3ZRdkpLdzlNeUNsbWozVnZHbW1MMXZaVXpIbkFlVVpvMFQyZUhWQzRYQTRWRW5kR19UZFZQd09jdzZGM2ljbVVhRnlYSGZIdHVMT3lUalBVRTgzbXhPQ1gxNHNMZjBmS3RTckF1eU1FUUhDTXZmTTlR?oc=5
+- Rahul Gandhi: Delhi police detain opposition leader demanding CEC Gyanesh Kumar's resignation - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RlpvWXExcE5PeWlrLWE5Nlg2eHV6SlhDQXRGR1BwNzJ4SWlwckU3dEo3ZEpYUFd5Y1hpcFNNS0lBbEYwbktEVDJZeFduRk14UVBKdnNUa3Y3d3c?oc=5
 
-- As the US government wants to change the clock 'forever', researchers in Canada warn; call it a 'time bom - The Times of India
-  As the US government wants to change the clock 'forever', researchers in Canada warn; call it
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQa2RIQ2V1Vl9TQjFlODZaY2Vhb1oyelNCb0cxWnRITmNmcC16VEQzSjk5WHZ3SHVZT0czS0hEYmt0eVBiTnpSY3ZIdG5QdFdmV1U2SEwzV1NLUjM3TVptZ1ByeTJJRHJLRGV0OWEyMDBLQW9kb0RtYVM3ZGppQy1RWjlLQlVlbWFHVVExbDNibmVtU0REUmdTVTBQbncyaHhoUlNoMG9GR2g1UW5IcUl5V2hLTnExejJRVDBmVWl6dTNHeXVxQ2U3c2s0QkpuSzF3bFhVNzd1WlM2V3NSWjd3MjNMMmxBQm44TU00SjkyeGpWYVVDamhkM2FmTkVSWHFwZVY3ZjZZMmZuTnFKQjBVRWR2NVZBajlY0gGeAkFVX3lxTFBPdVBjWlQ5a0duT1RrczE4Y2M4bEdiNUhEQWtNV21pYlF5WjFQRXJVREJHeVkwcGg0am5ZWk5FRGRycEx0WHdfNE1tYWNqMFl0cndoR3VodnNvejM2TzV4clJ1WFV2eF9PZXI5QlZWVml4WlEzSUhUWUZHNG9EUFJLNFg0N05rUmQ5WXFESEhSdk9KT0o0MnlvcmVya0UyNS1ackF0RDdfakQ1dWJDR1JaVnFBT2NkN0pYM3JVWGsyS0pPWC1RRzB0UGRtblRSWmhWdUpzblJkdmtWSTJ0TVRaZVJJVzVSYU9HZVZObHdoejM5TV9Qc2FiYmhvd3BEQ2RNZFZGV0RLNEZYVkV2dVp4YnNHUXp2aFlyeF9wS3c?oc=5
+- RBI raises rates amid rising inflation and global risks outlook - BBC
+  RBI raises rates amid rising inflation and
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HaFhnN1dxaGRKTU9oOTNhRnA1SFZJaDczMDYxZ09TMUNfaHNUX21TcEx0RXI1eVNHMHR0UmMxRXczZnFNdXRFX0lXd0RLVDJhemN6UjExTXY4YnM?oc=5
 
-- RBI MPC Meeting October 2026 Live Updates: Will Sanjay Malhotra announce a 25 basis points repo rate hike today? - The Times of India
-  RBI MPC Meeting October 2026 Live Updates: Will Sanjay Malhotra announce a 25
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNXZRbnZIenVyZkhxc1JkenNZRXM1WVZhakF1alhzYW41d1FFQWZZSF9aUzluOTdSSWVLekp1a1lYM2Y1Q2k5M2tILVhkX3dWVUV1OTNDT2VjYWY4NTBjdmM0UnZaS0M4dnFBOUpqSVhrX21uRWZVdVp4ZmdLUjljTjZVTXo2TEptZ2s1UmtubUQ5T1VjY3kwbFZ6ekVSZ3J2cWJfd1dYcmJtNjB2ZEY4XzRvbFcwNV9mSTdkVEl2QXJZUXp1YzlxbVlQQXFzTTVVa2JWb18yT2F1NWlMdVZCTzd4dDZJTm1ORHgydkZranlGT3VCb01LU1NENmg0cC16NE1PLTRDU1M0Rk1IMHYxYmdvZm1jMFR3ZVJSWG5ZcXhaZ0NnYlk1QlBiVGhjS25hT0ZXcVUxQmFvM2xjM1BJRXFKZlpSVjYwQUp4MVNPRVd1dTTSAdgCQVVfeXFMUDNjMGlYc0NXS3E0VmJ4Vk5HTWVNaFNWOWRtUkJfRDdWeFRicS1nQkg2bzVIQWg1TXJPUktxNjhYdGNUdVRPSUJBTGxhVURSeHJKYVBDV3VCMzNPakZEX3RnZkhEc1BDWk5Wamg1QlZxY2JfYUZ0NjhDUGY5cUljdGFJaVdyRDRfc0VqZzBvWUlrWXRiTmpJLVkyY09aMDJJZ2NoM2J2VGlxSHlSNFlld2llYlpGSVo4OWl5RThaZWdWcHg3aXBUbFF2OUE3ZzNpWUU4UWFCXzF0VHdnRE5RTFBfQURPUC1wcWJaWDlXc1VuY1RFaDI3YTA1T2V6Sm5nNExOOGNGN2NVT2gzMElKU2VZLUNHS21ReG1XNXcxYlk4bVdFOWJUTEVPTXZKOXVwOG4zSVRlN0tTdlRiaXNjR3FjRV9pbXdtVDUyNkxPdVpEU3F1dGtmWjE?oc=5
+- 3-storey building collapses in Delhi's Seemapuri, several feared trapped - The Times of India
+  3-storey building collapses in Delhi's Se
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRmV6SUtGUzdCa2lScGhLWWVLcUUybTVhaFVQdGtvZTlHRS1ZY2hIUHRlM21OalVmSW5SbkpsS2tLekZYb0ZyWHAxbHh6NFFGbnQwYlBTWVBPcTRQZy14X1VCTUJ5eXM5OHdPVFlHQzdIdkRLTGtuLTJxRmZxOHZCaEk3OGloN0JXYXdFX2tOSEtGZ05FNERSZEZZOUFHaXVFVkxjLVNMU0FYcXB0OVJtTmRCU0o0a3RSMnBSaDB4UEc4SVQ0REtycDZLSkozRS1NZFROS1doemxMRVpuMC1qU2pEaEliZDFQSFl1StIB8gFBVV95cUxPcXc0MlJXNlozdm9FZ19QOE0yNHljX1c5TGlDakdtMlBsTTFBSFhCbkluSlUxcHZwVUZ5NmtQM01QV3BpY092NjRmT2w3S0U4TlozSldsMHBVREl3V1lKRFJRN1FXWUZjMHJ2bFZvRm9aQ0xCVFFRQVVyMkN2VGplaEVHVm53YWd3c05DdWtndi1FZUhHdG10d05ieTI3U1g5aFVnY053emY4bnE2M2E2OHEtZkg1X2FQVjRGODdzVnU2Y3B2NDFMV1gxeGtDaGUzYkZLbnN6bnExTlRxek1qakZNN0ZzamVYYXZpM0FxNkMyUQ?oc=5
 
-- PM Modi Visits Shri Vinayak Mandir In Delhi To Mark 25 Years In Public Office - NDTV
-  PM Modi Visits Shri Vinayak Mandir In Delhi
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQMjF2YW5tSGtUNkZjV3lPLWNacnlHNlhtbUNrOUx5M2x4M2Q2c1piWDBVMjVXRmpEMGRhZlRSd0g2V0V3NFJnek5ZNzBxZHpNODduLUNxOWR0a3BncUVYSm0wcm91UXc0bEw0eEhlUVhoYkpqR2FiUkNYM0ktbDM1M01iV2c0OE94d00zYzl1c2FPcFdxbW1MVkZuSkNfZUtvQm5NTm16UFhPcjNyX2phNFJBWTNtZVFQT2fSAcIBQVVfeXFMTUpkY1FuRG5EQXlmNVdCU2Y5dHp3QzAzbXNWWFdrUkNlSXNFdnNXdThhdzJOczZfTXFxaW5lS0d5aXdzakhJQzhNS0txdEpSMWpDQ1dlZVlmMFlmcmFzc2ExYnQ3VWVsdFdRS3dSd3FNT1Eycm5RdmpNSkxYZHphVDRHbnZKeWwyU0xTUE5WVXBtUS1hWUJIUlZVSld3cWFILUg2UzY5ejY1aFhZOEk5SElmWFdYYkhHOXUweC12Q09TOEE?oc=5
+- Many Trapped As 5-Storey Building Collapses In Delhi Month After Hostel Tragedy - NDTV
+  Many Trapped As 5-Storey Building Coll
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0V0M2NBT0VoTWRwVGw2Z2dkN2FURjgyRGdJeFVsZV9JNnVMRV9Ia0g2TlFzMU90aVNYUHBXMU5pQjEwdHg5NEJCNXNkNDFKdTVCRGh3a21iYzFuNTF1bHFfY2VmM1NDak9sOVBVLTZrRThTT2VXdHBxbnAxQl9aMUxVV28zeEtlWW4yMlBvR20wZWsxM3BkTGowMWN1cUhYVlptZzBTLWN6R3JBazBHV2pDZV9hZTZnQU1ySHlzYzVhRWJWS2ZtTUNjRTdacmJEcWtSR9IB3AFBVV95cUxQa2o0QVRJNEdfMVJ1amdxUjVVSklBR2l3R1g2anVxaG1XUl9haHpTc1ZLMTFTcXpIRTZmNzNVRHJrMEMxcWQ0OTFqMEVXbjVicmluWmo5cWNJbk5LcXhobUZpbnctV204bUh0bjFfMDZ1VXJyamxfOXczdzg3Y1VLRE4xUEdqUUl3ZFU5N0lpM2VFa09haEg0VGpjZWNMM09sMkxRazFGVzRHVF9MdjhEZW9tV0NCaHAwZWgtalBSR08yNHJKMWlHTEdJcl9FVlRyZExzNnc5RGtZUVJV?oc=5
 
-- MiG-25 Kargil Jet: Edge Of Space, Mach 2.4: Flying India's Most Secret Jet Over Pakistan - NDTV
-  MiG-25 Kargil Jet: Edge Of Space,
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkNXM0Y5VzB6OXhUUGRST2RoNmpNdFdSQVM4Rml3ZVd4S1VLamhydDMyTFdBcGpod2ZfWTUyU1dQZGpBbFBxRnFDRDN6TkUyellwT09IX0l3UTJmdk5RZ1I1V0U0bVRLank3R3FOZk9XUHZTLThQU1RGbndTVU1ka19XblNoX0htQ3hiSjZVWGFUTDRWaFk0UVFjekxXQ2ZLQ0lITVBQeW5kNWd3RXpxWXVYb2c5UklLa3Fz?oc=5
+- 4-storey residential building collapses in Delhi's Seemapuri, several feared trapped | India News - Hindustan Times
+  4-storey residential building collapses in Delhi's Seem
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbUdGT1h2a3o2b24zN3k3QV9JLVVzclUxSzRGc0lBLUw3SWN6NDFUR24yeDItV2lVS1lNSjhJUHU0a2JqMDNLVGtVdl9zYllmRE5RVm5oMnR0X2ltWExFMjBvSDM3UkJORzdnSGtZSDJYWDVMY1ZrZGlJUTBKRUJRTFJEMHp0eXcwemx0a0Qxdld0TGJQYmpZYTR2VzlYVDJPckxRamV6eFhqdjBVa0hldUp3WXZpVFdmU2cxS0RDdEZfZnNCZnBsUlo3YUJoNlBxTy1CWFZyclJFRGRVNG5QbXB5SExBSXFqdkFj0gHwAUFVX3lxTE9CMm1LQ2oxd2llWUUySUV1MmZBNWxBUmIwSk9ObGxHSHlaSWItcTZlYXNvaktfcnpFaUJvZE02YjdJMzVYTm9rRW5feTJZdld1cmR6Mm5tU1c3cDFSWUExZ2hqdm5qLWZRUXl5Z0Y5QWxieXpPRzRWTE1LaDlvRWVmVGc5ckp3R2t6MGFXRGlaY2JWQUlaNTlWcjZMYkZRTUhibms4S1NONHBaaEZKWWdCMkJCYm1xQkxtR0VVdVJCcGNxeVk5a05sM040R3NGNzNwSEZQRVktLWc4NE5zZm1BZlg3NW9pUHpjTVVEUUZLSA?oc=5
 
-- Rahul, Priyanka Gandhi Detained During Sit-In Against Gyanesh Kumar. Released - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTdXTThUUTR1d2VNT2kyNXZyOEtBSFc5NVk1UFJhM2VhaDBMU0lhWjNaTTF0elpkSm4tdjNDOUNDZ2stRHNPSFJUR0ctdzc3bm9Wa2FYRjFXWlo0TjIwTU1FRjMzeXlJQ0
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTdXTThUUTR1d2VNT2kyNXZyOEtBSFc5NVk1UFJhM2VhaDBMU0lhWjNaTTF0elpkSm4tdjNDOUNDZ2stRHNPSFJUR0ctdzc3bm9Wa2FYRjFXWlo0TjIwTU1FRjMzeXlJQ0prZGRFamdTRml0TllnenJTVjRDZlpVaUxJMHZQQktpOFJmcHViVzEzWk1ldUZjeC1GVEhVR0V3YkJRU0JzQnI1eU1ONHZuMVhjVWZYd9IBvgFBVV95cUxNdDJNYS1RUG1WRkhJa2VvaFdCSTgzOE5LaGFaZFk4YllLT2g3ZXJnWTVJQWEyM0JpLVNKRFVSQ3RseWRkdzBZVGtFcXJnY3ZRdkpLdzlNeUNsbWozVnZHbW1MMXZaVXpIbkFlVVpvMFQyZUhWQzRYQTRWRW5kR19UZFZQd09jdzZGM2ljbVVhRnlYSGZIdHVMT3lUalBVRTgzbXhPQ1gxNHNMZjBmS3RTckF1eU1FUUhDTXZmTTlR?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- As the US government wants to change the clock 'forever', researchers in Canada warn; call it a 'time bom - The Times of India
-  As the US government wants to change the clock 'forever', researchers in Canada warn; call it
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQa2RIQ2V1Vl9TQjFlODZaY2Vhb1oyelNCb0cxWnRITmNmcC16VEQzSjk5WHZ3SHVZT0czS0hEYmt0eVBiTnpSY3ZIdG5QdFdmV1U2SEwzV1NLUjM3TVptZ1ByeTJJRHJLRGV0OWEyMDBLQW9kb0RtYVM3ZGppQy1RWjlLQlVlbWFHVVExbDNibmVtU0REUmdTVTBQbncyaHhoUlNoMG9GR2g1UW5IcUl5V2hLTnExejJRVDBmVWl6dTNHeXVxQ2U3c2s0QkpuSzF3bFhVNzd1WlM2V3NSWjd3MjNMMmxBQm44TU00SjkyeGpWYVVDamhkM2FmTkVSWHFwZVY3ZjZZMmZuTnFKQjBVRWR2NVZBajlY0gGeAkFVX3lxTFBPdVBjWlQ5a0duT1RrczE4Y2M4bEdiNUhEQWtNV21pYlF5WjFQRXJVREJHeVkwcGg0am5ZWk5FRGRycEx0WHdfNE1tYWNqMFl0cndoR3VodnNvejM2TzV4clJ1WFV2eF9PZXI5QlZWVml4WlEzSUhUWUZHNG9EUFJLNFg0N05rUmQ5WXFESEhSdk9KT0o0MnlvcmVya0UyNS1ackF0RDdfakQ1dWJDR1JaVnFBT2NkN0pYM3JVWGsyS0pPWC1RRzB0UGRtblRSWmhWdUpzblJkdmtWSTJ0TVRaZVJJVzVSYU9HZVZObHdoejM5TV9Qc2FiYmhvd3BEQ2RNZFZGV0RLNEZYVkV2dVp4YnNHUXp2aFlyeF9wS3c?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- RBI MPC Meeting October 2026 Live Updates: Will Sanjay Malhotra announce a 25 basis points repo rate hike today? - The Times of India
-  RBI MPC Meeting October 2026 Live Updates: Will Sanjay Malhotra announce a 25
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNXZRbnZIenVyZkhxc1JkenNZRXM1WVZhakF1alhzYW41d1FFQWZZSF9aUzluOTdSSWVLekp1a1lYM2Y1Q2k5M2tILVhkX3dWVUV1OTNDT2VjYWY4NTBjdmM0UnZaS0M4dnFBOUpqSVhrX21uRWZVdVp4ZmdLUjljTjZVTXo2TEptZ2s1UmtubUQ5T1VjY3kwbFZ6ekVSZ3J2cWJfd1dYcmJtNjB2ZEY4XzRvbFcwNV9mSTdkVEl2QXJZUXp1YzlxbVlQQXFzTTVVa2JWb18yT2F1NWlMdVZCTzd4dDZJTm1ORHgydkZranlGT3VCb01LU1NENmg0cC16NE1PLTRDU1M0Rk1IMHYxYmdvZm1jMFR3ZVJSWG5ZcXhaZ0NnYlk1QlBiVGhjS25hT0ZXcVUxQmFvM2xjM1BJRXFKZlpSVjYwQUp4MVNPRVd1dTTSAdgCQVVfeXFMUDNjMGlYc0NXS3E0VmJ4Vk5HTWVNaFNWOWRtUkJfRDdWeFRicS1nQkg2bzVIQWg1TXJPUktxNjhYdGNUdVRPSUJBTGxhVURSeHJKYVBDV3VCMzNPakZEX3RnZkhEc1BDWk5Wamg1QlZxY2JfYUZ0NjhDUGY5cUljdGFJaVdyRDRfc0VqZzBvWUlrWXRiTmpJLVkyY09aMDJJZ2NoM2J2VGlxSHlSNFlld2llYlpGSVo4OWl5RThaZWdWcHg3aXBUbFF2OUE3ZzNpWUU4UWFCXzF0VHdnRE5RTFBfQURPUC1wcWJaWDlXc1VuY1RFaDI3YTA1T2V6Sm5nNExOOGNGN2NVT2gzMElKU2VZLUNHS21ReG1XNXcxYlk4bVdFOWJUTEVPTXZKOXVwOG4zSVRlN0tTdlRiaXNjR3FjRV9pbXdtVDUyNkxPdVpEU3F1dGtmWjE?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- PM Modi Visits Shri Vinayak Mandir In Delhi To Mark 25 Years In Public Office - NDTV
-  PM Modi Visits Shri Vinayak Mandir In Delhi
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQMjF2YW5tSGtUNkZjV3lPLWNacnlHNlhtbUNrOUx5M2x4M2Q2c1piWDBVMjVXRmpEMGRhZlRSd0g2V0V3NFJnek5ZNzBxZHpNODduLUNxOWR0a3BncUVYSm0wcm91UXc0bEw0eEhlUVhoYkpqR2FiUkNYM0ktbDM1M01iV2c0OE94d00zYzl1c2FPcFdxbW1MVkZuSkNfZUtvQm5NTm16UFhPcjNyX2phNFJBWTNtZVFQT2fSAcIBQVVfeXFMTUpkY1FuRG5EQXlmNVdCU2Y5dHp3QzAzbXNWWFdrUkNlSXNFdnNXdThhdzJOczZfTXFxaW5lS0d5aXdzakhJQzhNS0txdEpSMWpDQ1dlZVlmMFlmcmFzc2ExYnQ3VWVsdFdRS3dSd3FNT1Eycm5RdmpNSkxYZHphVDRHbnZKeWwyU0xTUE5WVXBtUS1hWUJIUlZVSld3cWFILUg2UzY5ejY1aFhZOEk5SElmWFdYYkhHOXUweC12Q09TOEE?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-07 03:53:42 UTC_
+_Last updated: 2026-10-07 12:33:53 UTC_
