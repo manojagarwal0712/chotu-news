@@ -1,252 +1,244 @@
 # 📰 Daily News Summaries
 
+- CEC row LIVE updates: Left groups demand end of police intimidation and detention ahead of Jantar Mantar protests - The Hindu
+  CEC row LIVE updates: Left groups demand end of police intimidation and detention ahead of
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQVEJHTFRLcjVfT3VOamM1ZThCRW5PbWUwbnB0SWFaQno1ellIMkp3eVZWcVR4S3UtX2FFNElWLWpvLWNjS2Y1WHgybGxibjdtOWFzYlZ6THFMYXItQWtDLUlRS0M2OVBDaWZpVWtqS1FLSTFzZmxJNlZDOV9kY04zZjh6VnZJYjM5YWRQQmxyTlc4ZXNXSVNVTmVjY1M2SGhqQ1B4UVllbnFoS09tTmc4Q2xldEVkWVdBbFEzUXdIa3h5RWtGb2I3N25nNHhSMllRR0tUNU9LZ2YtQmowOXJYbzlWYVJUWTBhSV9jVlFBZ2NuVVlqV3VEMXJYd2NPT3VIVmw5SzF30gGMAkFVX3lxTE16bUlkT011cXdhNjN5bnR0Vjg4SkV6TGtTOTF4cHlnNm5Qcl9YWHFUSUdQWTQxRUxhbGQ4YVZrS0U3Nlk2aGphcHEwWVI4TUJZT0ZBZnJGMzQ3YWpCWmVYWnZXUjRRN3dVaHVWYV84LTBOdUJGWUpkYTdFWm92dGZvamxNRHB4a0lkOG9ybTdLUEdBcmlJMjQxZEhQbzhKcEN5VmpONC01TENmSURfRjBBd3dfVXhFNG1OT1JqLUxLcEpLMDJXLWlKUDcxOHBpVFR3X0QwWWV4SE1GaF9RS3ZOTzBqcDNtWWVNeWlIOE5jaTRRaUwyZGpGMGZYN0FMMnNXZ240aW05T0RNVTc?oc=5
+
+- India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest - The Guardian
+  India’s ‘Cockroach’ party accuses
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUZEYXdwVE1FVWd1bWNyNmRnQWE4OHA2cFZCVTRoVEtvMFVGVDFiakoxNTVfUjlEeGllTXh4MTFScnpWdjR2alNpUmtXRzFKU1M2c2R1a28yZWZwUF9veUZ0YWtBLW90RmI4cmdPTExwbDNCdlF2QnY1el92T2RKdTdCZ1A5YXhtYXhNcDdEa1lZSno3YkpyYjBEWHhoQktqQjV4anVkWUEwOGo5Z3Zv?oc=5
+
+- Meet India's feisty Gen Z protester who is taking on Modi - BBC
+  Meet India's feisty Gen Z protester
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE56cE5iY2YyZXFxRFpVelU4VmNzX1REajlDR184bUdkY3VLcmx6QktwbEhPTFAwU2thVlIyZEhBaDdHZ0prRkwtSmUzLU1XdE1SUVpWREZhUXlmRUk?oc=5
+
 - Gaza war sped up India’s shift towards Israel under Modi - Al Jazeera
   Gaza war sped up India’s shift
   🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmdGajd3aHNkbER6RWNGN1VMVVRLUENnaGhESWRZOWRVR2FtUDVyX3ZLLWJSbkFheUFiYTNvYUQtMzZMakhlYnhTZmRlR1ZldzE2VlhEVUgyTG5xRVhhSTVXUnNHVVZNZXlTUU5xTGdlREM1ZktYaUVFaWwwWXNOeWYwS19OT2RUTnpXRDQ2MkVDQWE0c0NNeUNINTN5cC1FdHfSAacBQVVfeXFMUDB3djJ1VERjdnVrZEswUzMxQ0JLRGg1Y0dxQk54VHBnWU1ERFQ1aDhidXgtb3didzlhNXRvcmhRR0hpNGJ2SmVXSnplY3JGbjBrQmhISlRIRnhSTTZPUzR0VFZWTk5oWXN2dVVHT0Y5b3FJY09KdlpRSkRONEE2UzE2X2ZQRWFlbHUyV0JVZVFGODV5czVHdGg1ZUNVXzhKckV3Q09WWk0?oc=5
 
-- INDIA Bloc Protest Highlights: INDIA Bloc Protesters Meet At Delhi Cafe To Discuss Forward Strategy - NDTV
-  The Indian National Congress (ICC) is protesting in Delhi.
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOdzVGWEIzcXBwRktSQ01xWFVlUnZQX29SRTExMFI5bVNGdXp5UjdCLVU3N3pvR2REcm1wTUp3NUJJQzlLaWNGMW15VHp2alVrZmJaQ1JjSVBrd0JaSkVza09DZHpkcXZONFM1VHdIWE5uajRfcXYzTW9pdzVHd2tlcDcwaGxEUWg0SDBHT2xTSGYxMldoM3RveFMxaTNmYWZqM25FendReXpyZE1TVVBmbURPT3E2bGZxRU00VkVhbWhHaXNoYzRPbXZ6MEFKNDVWWlRVbFFmZUszcVBCdmpVWDlocDZweUFKNXJZdDQwTVZlaGlocFdFTWRZQzFOTzdneGEyUjVQYTJNMFJTV0k3eE9FdGZFLVJ2S3I4?oc=5
+- Clean Energy, EV: Japan Plans To Invest $100 Billion In India Over 10 Years - NDTV
+  Japan plans to invest $100 billion in India over 10 years
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2FJUnhVQnNqd0hnSnIxTGxMQkZkMDFTdmdFLWp3WEFIRlFMN2dwaHl6SW1WbUtYWE1PNlVlN3NPd1dhUWhVTjBrU3p4Yk1LOURTSVpyanZoMWFpRVFNdUdWNTBTTWd3SFFvRHEzTXpVVlJIOTR2UWpMbHUzQldnRFRWYU5YM3pVZmtPeTBNTVhBMlJZZWxtWWZaRjlCc1lhMEJvR1dBc0ZQSkRtN3o3WVVxONIBuwFBVV95cUxQYXJMenZXYnhfRUxmcHVOcFVHQjJYTkpvT3hZSDRMWHRsUDUtUllNMU9TMDNGOXpQeW9hV2c5dnZVdHNkTHhvcDlzaHVaQW5iOGx2b1RFSmJqX1pRa0U0ZER1TWJqcW1IYTgza05ZMUQ3bzZzeWo1M3hjV2VmMEFUOWlTYXBSU0RGOEpsbWtJT05vWFBnUlBfVGZvVVpHOFVtcmVIN0xlTVMzeHg2SFRfM3ZldVB6Rm9FY1dz?oc=5
 
-- "Not Being Allowed To Protest": Rahul Gandhi As Opposition Heads To Rajghat - NDTV
-  "Not Being Allowed To Protest": Rahul Gandhi
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcVJUZnNTT01Pam01N0Vfb1RJTEVHLU42R2R5cXdHSmItQXZERm5tcHRJenJ1LU9OUTMwRGFZbE41QzFtZWozNmNYU3hhOURiazUwS1UzaTNlQWtjT05wUURzSk55d0RqSzlHV214c0dkdGwzYkVtWFdsZTk2eHV5VG9tdlRXTVM0RkFqNEtFcFNIbldLbkpZYThsbGJzd3RsUzNtWmRfWExzMWpaeXlJUE8xdUlXc05YckdHR3hPNk16UEM5aEVkMUhtaGNaall5NXN1Skhn0gHeAUFVX3lxTFBUeFJwZDM5NnNQeXBScXZRY0NNbjlHR3NuUHlKZlhIT3RoVWtfSUFMRzBjTFBVb29lZTFDalJfWlRiWUJxNkJZcXlld1ZDN2N4SUZyTXNwazBQRkw2ZmQtSXVrUzlUWHFiYkVnZi15SGsweXNTaDNnZDRpSFotT0pSaUgwY1JjaWZ2OVJXWFJtdUtWMHpVY09XYjh2cS0xenlteDJGOW1RSS1mUHNYNXpEa2I5N3g3TVNaeDRTTUJsWWNxOGVKWXdyNDVTbmlTUFpvdHd6NmRmemw5WE9IZw?oc=5
-
-- CEC row LIVE updates: INDIA bloc leaders likely to march towards Rashtrapati Bhavan today - The Hindu
-  CEC row LIVE updates: INDIA bloc leaders likely to march
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQVEJHTFRLcjVfT3VOamM1ZThCRW5PbWUwbnB0SWFaQno1ellIMkp3eVZWcVR4S3UtX2FFNElWLWpvLWNjS2Y1WHgybGxibjdtOWFzYlZ6THFMYXItQWtDLUlRS0M2OVBDaWZpVWtqS1FLSTFzZmxJNlZDOV9kY04zZjh6VnZJYjM5YWRQQmxyTlc4ZXNXSVNVTmVjY1M2SGhqQ1B4UVllbnFoS09tTmc4Q2xldEVkWVdBbFEzUXdIa3h5RWtGb2I3N25nNHhSMllRR0tUNU9LZ2YtQmowOXJYbzlWYVJUWTBhSV9jVlFBZ2NuVVlqV3VEMXJYd2NPT3VIVmw5SzF30gGMAkFVX3lxTE16bUlkT011cXdhNjN5bnR0Vjg4SkV6TGtTOTF4cHlnNm5Qcl9YWHFUSUdQWTQxRUxhbGQ4YVZrS0U3Nlk2aGphcHEwWVI4TUJZT0ZBZnJGMzQ3YWpCWmVYWnZXUjRRN3dVaHVWYV84LTBOdUJGWUpkYTdFWm92dGZvamxNRHB4a0lkOG9ybTdLUEdBcmlJMjQxZEhQbzhKcEN5VmpONC01TENmSURfRjBBd3dfVXhFNG1OT1JqLUxLcEpLMDJXLWlKUDcxOHBpVFR3X0QwWWV4SE1GaF9RS3ZOTzBqcDNtWWVNeWlIOE5jaTRRaUwyZGpGMGZYN0FMMnNXZ240aW05T0RNVTc?oc=5
-
-- ‘UNGA revitalisation must be part of broader UN reforms’: India at UNGA plenary - The Economic Times Video | ET Tv - The Economic Times
-  ‘UNGA revitalisation must be part of broader UN reforms’: India at UNGA pl
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS29TbWl6MDR0SldjclNSajlWcC03TXlFUEFlUS15a1dCMm9pa0RjTHBFTGU2TFBfUG1SSjA5eEh6S2lHNU9CMWlxd0Q1VHNiTzFtd01xVzJGOEc0cTdCeGlDVUw3NlhuSmk3azR2U3JLVnpobmpyS1pQbW5Qay13V2lMWVh5WTE0Tll0NndyM3A3emJsN2FDeloyVjMwZ1JBUXhPR0JPNkY3M2JGRGEyeGVnU0Z1TUo1LS16cm9DY0tVMEFfeUNSVHFtbEZ6dW9VdzE3T3NhY0VadEt2VWR5X25UMA?oc=5
+- U.N. Warns Against Technology Used to Read Citizens’ Minds - The New York Times
+  U.N. Warns Against Technology Used to
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5
 
 - Scientists who put faith in technology less likely to take climate action - The Guardian
   Scientists who put faith in technology less likely to take climate
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5
 
-- US Suspends Visa Program for Tech Firms Including Microsoft - Bloomberg.com
-  US Suspends Visa Program for Tech
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNeERzSGlLb0YxN1hWdUR3RmtHUTV3ZXRJZUJLR1RsdVF1TWx1alJuT2xWZDRyZ2ZpX2Z3OC1oaTIxMm5VMnBmYzJYcXJIaXgyVV9GYVVfRElZSmZsU2hHeV9qZ196c1BiSGdMejRWNUxiZjNvbG5sY1Nrd0hOUFJEUkdHSW1URm1KeDVrLVNRVy0tZ2FTSGE1OGl2d3h1azltRVpJaS1vZXJGNUJKam9v?oc=5
+- Ferrari’s chairman is bullish on AI. He’s less certain how businesses will cash in - CNBC
+  Ferrari’s chairman is bullish on AI.
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE8wTVMzSEl6eEdTNWhMYUJuOEIwb0Fvbmw3UXo2aFV3SUtGd2RkUjVGN3ZLS1dOdi1lU3VPRU1jYkhJeGJSU3BlTklOOG5PX0JkQlFEQ2I4aWhPaG1YWlctYUVlb2ZaMlNYYUtOTEJvR014R3l6QUVwRnhR0gF_QVVfeXFMTm9xMEZ6SHhZR0RPUmh6aTBHdU9MVHhaelBEeWF1djBVVU9TNUlBUjhiWjV1Ri1vdnEyNnRHWU9OclY1d1pxTDRMTTRwTFFwcV8xbzFVVjZ1RUF5TkgzMjg1a0tOVDhDeWNkTlp6R1laRUhrMEs0NUVrSmk0VkJqVQ?oc=5
 
-- Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power Electronics Technology to AI Data Centers - Rimac Newsroom
-  Rimac Technology and ECOBLOX Partner to Bring Rimac Battery and Power
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdE45bEhCSWRUOWNUUTc5SXdKb1hEZ0ItWldGSmRhOFh2NTFrTUgxRDRMZzI5VFpicld1eUdHeE9wczlxQWhULTd3ak9FSXl3RGJXODEtZ2VabEMwaUw3VWZ4dWRJMnA4MnNkWGFFcjZlcHM5NHRMM3FTVEFfMnozZU95N1FjeGlrWDQycF9qYVJ0SU11LWdoc3Y2dmJ4RkY0LXE5R2x6TWtmcVBLWXBWNTBLWTJYWElvRGIyV0I2bE9tMlNVQnVJbVdfMlNHWUI2VlVxaFg5UWVqdWsx?oc=5
+- 72 lakh teachers trained to use technology to identify students with disabilities - The Hindu
+  72 lakh teachers trained to use technology to identify students with
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQN19ta3p6VGVJa1N4RnZRY3RDZFZ5T2h1SC1nQnl0ckEwemphbXNrSzdVMHZLRmdJRlNUeUtPTFROajVLV0lGeGhGWG50ZGhJSXNXY1VaTG1qNVduZXpNTXp4cE1INEN2dmVrcmxmejJQNThyZ2FuelRLTHduNVg0TWZQeExWal9TcFVXNjE3emw4bEtlanhCUmZ1TVlIMlRuMDV0VElPOUJ4XzZfNHAyYmVkLVlFNlBLMmZJczdjN19jeF8wMWRZ0gHOAUFVX3lxTE56WkQ1TnFKUHNCS0lMX0FBcnRrR0pFYVI0UklSaElRWEdsS1Y5M1puNk5ubjNTWmNfeExMQnRMRXFtX0wzdHg4MlZ1YnVITDdxMGp1aU8tT2dFSHhoenNFanM3Mk5uSlA1c05vUGVaMC1qejcxZTlicUlpem1BaDBydURQMEFYWXdUT2dkQ056WXBXSldrYzlGMnV5OXRUNXhpNXMxN251Tm4wVXZ2Nk92QUdPMXo3WVlSY1VNZXdDS0R2M0hSaHBIeGt4TmN3?oc=5
 
-- Andhra Pradesh to adopt technology to promote tourist destinations, improve visitor experience - The Hindu
-  Andhra Pradesh to adopt technology to promote tourist destinations.
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR3JjX1FlaVVUQ3JwbDFZb01ZcVlCZkRxWmxpbU94Y1kzcHNMWlRibHBqUlprYmhMQndkRXpGUklWYTlHNUZsOUgtVXJKS0FqTXZDZ0pTRDRXZ2FtTlNrdWxaWVlUOTVBTjhTQ2VZWkxfQ21oOGo0ZkxQRmpkZnJNQ3E2QlFPR0ZGUTRIUkhtdURJenFncTlsT19nVWRxcUd2dzdfNnFFX0FxMVN1ZTVVRUp3MDBkMGVqRTVMUGhGNzBRMHo3MmE0cFNFWHI4NlR6ZEdvVzVBVTR4cTRPdTkxV1ZlLXJXWk5KWWlrQ09XQ2JBQ0xTaDVjTjVjVdIBggJBVV95cUxQaDA1dWg1S1Z4dW1aYmY0QlY1cnA3eXlIZ0QtR3VaRU0xc0wya3ZkWFVYaElhYlA4ck52M2ZSSmlWNWZfa25CM1I4YnVYVWxpdEVDZU8tM1dfd0k4V29mbkJnT2RBVzhLV3hHUnp0Njl1Z3FfUk5EWlgtSjhGalllaEY1MEE3TjYxbmM2NlN4ay1UNGFZUmRDSVMzSF9lMUdnQVNXYnlQRFFUSFFELWJ4d0Q3ZkE5NmZrSVl1b0lJVUVpMnpVMndZOFpmaENkUmR2RG5VZmxDZWprQjRpOXVWcS0wcF9razBXTmFVVVpMYmJfckZ6RVQ0MFFPQWdHVmQzUkE?oc=5
+- White House blocks Microsoft from foreign worker hiring programme - BBC
+  White House blocks Microsoft from foreign worker
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KN3ZtVzExUms3R3puMmE5OEJXLVVnY0hlaDNVWGkyM0pIblJ6N2xSRURPa2ppaUlhRVJpOWN0REc1bFVIdmlTSUcyVkFUTWh1dWVrenhXcmdGYXc?oc=5
 
-- ATM’s ‘dying technology’ problem may come to trouble data centres, as these engineers may increasingly ‘d - The Times of India
-  ATM’s ‘dying technology’ problem may come to trouble
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQSlZ6ODREaWU3amY4aG9pd3lreWp4enJYbW5QZ053LXRTN2hVRjFiaU5sS3Fndl83bEREcHR6RmRmNDU4NGUyc211UEhwRG1JNHUzTXRNQmprMnRCbGE2Q1V3eVhKVDJuMGZLYjNsRFhJZzZLNU12WXhzajFCMUVISENmZV9oZ3lqNTB1VC1XcnoxeWU2em9SVFE1QWIyV2RTZU9IdlNFTTFvNFVFTkMzd0FIMW1UQUxRaHFYZG1fOV8wQW5RY18wb2ZhelpzSm02WW55dHduazYyZEVIM21LWGhnUE0zZzBVa2VBMlJ5ZThOMUVLSmQ5NkVzT1JRSVZrRExJcHc2YWRPZXpDOEVMRlJaZ1ZndlhfS2Fv0gGgAkFVX3lxTFBPVFJ0VmV4akJKdDRUSzRPVUlfendmR0F4UDE5VmxpUkN6OTdHRXZxMFRfZHVIcDVqcXJGeWdlSTY0UjJKcmgzTms3d2Nkc1YzWE5DRnh5R3hiQXdvU0hUVndpVWlSeWNrV2FCWC1lU0x0Z1FGSWcwU3pXYjZsTTFMRld1YXpuRl92elEyN3hrVHdwbUdpeFQyQ1VRYmZmdjhQQmRzYUVCVTlUeWd2WDJhNnVVVnlkXzZRc2t6TENrWW1BNmt1eGlzeWZlNFFaRUFZZThDbXNnWWlKR1dmcVo4c0M0eGN2dENWOWdRaE1aNl9OeVRfQjJHd2F3Z3lTZEJzajR1UFNPQmVzV2RlRGkta0lhNjZCZTNqb09hWWRqeA?oc=5
+- POP partners with LazyPay to launch POPchop: How the new 'pay in instalments' feature works and who can use it
+  POP has launched a buy-now-pay-later feature developed with Lazy
+  🔗 https://www.livemint.com/companies/news/pop-partners-with-lazypay-to-launch-popchop-how-the-new-pay-in-instalments-feature-works-and-who-can-use-it-11791536540526.html
 
-- TCS' first reaction to US green card suspension: ‘We don’t expect an impact as…’
-  TCS says it will comply with any US Department of Labor directive on the suspension of the PERM green card program. The company said its US hiring focuses on local talent and that the suspension is unlikely
-  🔗 https://www.livemint.com/companies/news/tcs-first-reaction-to-us-green-card-suspension-we-don-t-expect-an-impact-as-11791516509213.html
+- SAP India challenges order to restore software services to Nayara Energy
+  The German tech giant is contesting a Delhi High Court ruling that barred it from citing EU sanctions against Russian owner Rosneft.
+  🔗 https://www.livemint.com/companies/news/sap-india-nayara-energy-delhi-high-court-11791532108416.html
 
-- Differences among daughter, son emerge in the TVS family
-  TVS heirs Lakshmi Venu and Venu Sudarshan have a dispute over ownership and family assets. Lakshmi’s side says a 2024 agreement only covered brand rights, not a financial settlement. Their mother
-  🔗 https://www.livemint.com/companies/india-tvs-motor-family-venu-srinivasan-mallika-lakshmi-sudarshan-differences-emerge-family-split-11791483377562.html
+- Investors cheer TCS Q2 report card despite slowest growth in three years
+  The company’s shares surged nearly 6% on Friday as investors backed its strategy to prioritize
+  🔗 https://www.livemint.com/companies/news/tcs-share-price-tcs-q2-results-tata-consultancy-services-11791529102759.html
 
-- OpenAI’s revenue run rate is $20 billion lower than reported: Why it matters for the Anthropic IPO race
-  OpenAI’s September annualised revenue was nearly $50 billion, below media reports of about $70 billion. Anthropic
-  🔗 https://www.livemint.com/companies/news/openais-revenue-run-rate-is-20-billion-lower-than-reported-why-it-matters-for-the-anthropic-ipo-race-11791510627896.html
+- Flipkart said to weigh $2 bn Esop buyout for current employees in early 2027 amid IPO uncertainty
+  Former employees to be considered in
+  🔗 https://www.livemint.com/companies/news/flipkart-full-esop-buyout-current-employees-walmart-ipo-delay-11791522691855.html
 
-- United Airlines CEO Scott Kirby’s daily routine: 8.5 hours of sleep, 3 hours of reading and a 5-minute lunch
-  United Airlines CEO Scott Kirby, 59, says he sleeps for 8.5 hours. He also reads for three hours daily and limits meetings to four hours. Kirby also averages more than
-  🔗 https://www.livemint.com/companies/people/united-airlines-ceo-scott-kirby-s-daily-routine-8-5-hours-of-sleep-3-hours-of-reading-and-a-5-minute-lunch-11791510280550.html
+- LinkedIn overhauls employee bonuses: What changes from 2027
+  LinkedIn will base bonuses on individual performance starting in fiscal year 2027. The company will replace its current formula that gives equal weight
+  🔗 https://www.livemint.com/companies/news/linkedin-overhauls-employee-bonuses-what-changes-from-2027-11791527816065.html
 
-- Microsoft says ‘vast majority’ of US employees are Americans, defends H-1B hiring amid green card freeze
-  Microsoft says most US employees are American and 80% of about 6,000 recent H-1B applications were for existing employees.
-  🔗 https://www.livemint.com/companies/news/microsoft-says-vast-majority-of-us-employees-are-americans-defends-h-1b-hiring-amid-green-card-freeze-11791507669592.html
+- Airtel Money IPO: London’s biggest listing in 5 years makes debut — Check how shares performed post-listing
+  Airtel Money debuted on the London Stock Exchange in its largest IPO in five years. The African fintech business serves 53 million monthly users across 13 countries and reported $1.35 billion in
+  🔗 https://www.livemint.com/market/stock-market-news/airtel-money-ipo-london-s-biggest-listing-in-5-years-makes-debut-check-how-shares-performed-postlisting-11791546228190.html
 
-- TCS shares surge 5% after D-Street cheers strong Q2 results - Should you book profit or invest more? Experts' suggestion
-  TCS shares gained up to 4.7% after the company reported quarterly profit growth of 15% and revenue growth of 11%. Annualised AI revenue reached $3.1 billion, and the
-  🔗 https://www.livemint.com/market/stock-market-news/tcs-shares-surge-5-after-d-street-cheers-strong-q2-results-should-you-book-profit-or-invest-more-experts-suggestion-11791518071788.html
+- After TCS  ₹12 dividend, all eyes on Infosys Q2 results, dividend; date, time, earnings schedule, yield, stock report
+  Infosys will announce its Q2FY27 results on October 23, after a two
+  🔗 https://www.livemint.com/market/stock-market-news/after-tcs-rs-12-dividend-all-eyes-on-infosys-q2-results-dividend-date-time-earnings-schedule-yield-stock-report-11791541571896.html
 
-- Nifty 50 at 18-month low — Sensex at 32-month low; experts recommend these large-cap ETFs for up to 18% gain in 6 months
-  Nifty 50 at 18-month low: Experts believe the 50-
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-at-18-month-low-sensex-at-32-month-low-experts-recommend-these-large-cap-etfs-for-up-to-18-gain-in-6-months-11791515400668.html
+- Sun TV share price: Why IPL team value is the new trigger; Elara sees 45% upside - Check target price
+  Elara Securities retained its buy rating on Sun TV and raised its target price. The brokerage’s valuation includes Sun TV's cash-generative media business and benchmarks from recent IP
+  🔗 https://www.livemint.com/market/stock-market-news/sun-tv-share-price-why-ipl-team-value-is-the-new-trigger-elara-sees-45-upside-check-target-price-11791541233052.html
 
-- KEC International shares: 51% down in 2026 but jumps 5% today after this order; can stock rise further? Experts view
-  KEC International share price opened at  ₹357.25 against its previous close of 
-  🔗 https://www.livemint.com/market/stock-market-news/kec-international-shares-51-down-in-2026-but-jumps-5-today-after-this-order-can-stock-rise-further-experts-view-11791518043817.html
+- Adani Power shares rise despite US-based FPI GQG Partners trimming stake in Gautam Adani-led company
+  Adani Power shares finished in
+  🔗 https://www.livemint.com/market/stock-market-news/adani-power-shares-rise-despite-us-based-fpi-gqg-partners-trimming-stake-in-gautam-adani-led-company-11791542076904.html
 
-- ₹5 dividend vs  ₹34 last year: Why Vedanta's dividend payout story has fundamentally changed?
-  The company’s board of directors approved an interim dividend of  ₹5 per equity share with a face value of 
-  🔗 https://www.livemint.com/market/stock-market-news/5-dividend-vs-34-last-year-why-vedantas-dividend-payout-story-has-fundamentally-changed-11791514735703.html
+- Up 70% in 2026, yet Choice sees another 22% rally; initiates coverage with ‘Buy’. Check target price and stop-loss
+  Choice International Equities initiated coverage of Rishabh Instruments with a Buy rating. It cited demand for measurement and automation products, new product lines, and a
+  🔗 https://www.livemint.com/market/stock-market-news/up-70-in-2026-yet-choice-sees-another-22-rally-initiates-coverage-with-buy-check-target-price-and-stoploss-11791535537550.html
 
-- Copper Set for Weekly Gain on China’s Return and Supply Concerns
-  Copper headed for a weekly gain, as signs of Chinese demand and possible supply disruption
-  🔗 https://www.livemint.com/market/copper-set-for-weekly-gain-on-china-s-return-and-supply-concerns-11791514977519.html
+- Amazon launches Alexa Tablet 8, Tablet 11 and Tablet 12 Pro with Google Play Store access: Price, key specs and more
+  Amazon launches the Alexa Tablet 8, Tablet 11 and Tablet 12 Pro. The tablets have Google Play Store access, Android support and built-in Alexa+ AI. The lineup starts at $229.99.
+  🔗 https://www.livemint.com/technology/amazon-launches-alexa-tablet-8-tablet-11-and-tablet-12-pro-with-google-play-store-access-price-key-specs-11791539715660.html
 
-- Apple october launch events: Home Hub, Touchscreen OLED MacBook Pro and OLED iPad Mini tipped
-  Apple is expected to unveil a new smart home hub, a refreshed HomePod mini and an updated Apple TV at its 13 October event. Bloomberg’s Mark Gurman reports that Apple could introduce its first touchscreen OLED MacBook Pro and
-  🔗 https://www.livemint.com/technology/apple-october-launch-events-home-hub-touchscreen-oled-macbook-pro-and-oled-ipad-mini-tipped-11791517094819.html
+- Starlink row: Scindia says India will let customers choose their satellite internet provider
+  Starlink, Jio and OneWeb can launch satellite internet services in India after meeting security requirements and
+  🔗 https://www.livemint.com/technology/starlink-row-scindia-says-india-will-let-customers-choose-their-satellite-internet-provider-11791528086630.html
 
-- Chinese developer makes ARTEX AI agent closed-source after Korean bank hack
-  Chinese developer makes ARTEX AI
-  🔗 https://www.livemint.com/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-11791510804166.html
+- GTA 6 leaks: Cyberleek reveals gameplay clips, map details and Lucia footage ahead of November 19 launch
+  A leaker called Cyberleek has shared over 24 minutes of alleged GTA 6 gameplay, map crops and a Lucia Caminos intro. Authenticity
+  🔗 https://www.livemint.com/technology/gta-6-leaks-cyberleek-reveals-gameplay-clips-map-details-and-lucia-footage-ahead-of-november-19-launch-11791519902099.html
 
-- Jio’s 1,600-satellite LEO network: 23 ground stations, remote area coverage and more
-  Reliance Jio has showcased its proposed 1,600-satellite Low Earth Orbit network. The planned constellation, supported by 23 ground stations, aims to provide connectivity across remote villages
-  🔗 https://www.livemint.com/technology/jios-1-600-satellite-leo-network-23-ground-stations-remote-area-coverage-and-more-11791457201362.html
+- MORNING BID EUROPE-Feeding the AI beast
+  .
+  🔗 https://www.livemint.com/technology/morning-bid-europe-feeding-the-ai-beast-11791520282214.html
 
-- Temple is unlike any smartwatch: Why Deepinder Goyal’s  ₹1 lakh Brain Flow tech wearable is sparking buzz
-  Deepinder Goyal’s Temple is an unusual wearable that sits on the side of the head instead of the wrist. It uses BrainFlow tech to track blood-flow-related signals. The device could cost around
-  🔗 https://www.livemint.com/technology/temple-is-unlike-any-smartwatch-why-deepinder-goyal-s-rs-1-lakh-brain-flow-tech-wearable-is-sparking-buzz-11791454487510.html
-
-- ‘Cyber fraud does not respect borders’: PM Modi seeks global mechanism at IMC 2026
-  PM Narendra Modi has called for a global mechanism to tackle cross-border cyber fraud and deepfake threats. He also highlighted India's digital governance and
-  🔗 https://www.livemint.com/technology/cyber-fraud-does-not-respect-borders-pm-modi-seeks-global-mechanism-at-imc-2026-11791451279537.html
+- South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals
+  South Korea, Japan buffeted by hacks
+  🔗 https://www.livemint.com/technology/south-korea-japan-buffeted-by-hacks-as-ai-lowers-bar-for-cybercriminals-11791519656868.html
 
 - Stock Market News, Oct. 8, 2026: Oil Rises, Nasdaq Slips on Fresh Tanker Attack - WSJ
   The WSJ looks at the future of the stock market.
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPRXZ4MHZha2h5MTVsV0UxVGxlcFFqZ1lvWUk3VkNxbkd3RHVRNXRRVGZfbVItMXRJa3VTbUhDa1lUM0llR0Y0eVFBRFBoSVNSMjhNR3VmNGNfVndmWm9RNnFhR2MtU20wS015RV91QmFGQ0o2LTVmRGxvX1ZRdm9Wa1Y0SXQyN0U?oc=5
 
-- Stock market today: Oil rises, Nasdaq leads Dow, S&P 500 lower as chip stocks sell off - Yahoo Finance
-  The Nasdaq leads Dow, S&amp;P 500 lower as chip
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1hvWl9DMFlrdWI3MDJRYjRqb2hyeTI1eWVDSTBucWpWb2xRNTVFdk5PY0pHMWcxQ3djT2hkOHRpNks2cmEwQU5hT1F5SklzN1hTMi1maUJpN0pIaE9iaWlFS3BqcU9IbXRqYnBwaHR2NnF6Ujl1TVhKb2tzVmdRZUVHUmY0WWY3STZYLWcwaXpvQjlNTXhTbmQxdWV3Z3ZKNXcyNjgxaXVPeUdscXc?oc=5
-
-- Stock futures are little changed after OpenAI's revenue report prompts tech sector turmoil: Live updates - CNBC
-  Stock futures are little changed after OpenAI's revenue report prompts tech
+- Stock futures rise as tech shares rebound following sell-off: Live updates - CNBC
+  Stock futures rise as tech shares rebound following sell
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5nSVM4THI4YlFUdXYtTTJyX3ZJamZOSWdDa3owRkpVU3FHWEVzZ3NJcTBoSkt6YVluWW1jaFlGeVB0Q1pMdGk5Z2Y3UVpwZjJ0WjlHdFppQnBMQVRjT2lLTGFBTklzelhYSFVQdEJJejAxOHRpMGVn0gF8QVVfeXFMTThPS25hbl9MZ0p2cGw3Nm5Pby1vTml4OE5aUHo0N204RTVnOWN6Z24tX2FQVUhjY3hHN0xxUURlQ1dkSnh3bVE2NEM5SWRrQXFNUzlVUVl3UzdDVm1rQVJCaVVDSVFsSER1ZFlXUDRkRlNpeUloQzFsbHpQWA?oc=5
 
-- Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility - CNBC
-  Nvidia-backed Aussie AI firm Firm
-  🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9tMmdLRHRyeDk3OGFjdHA2YkJjREFLZDNxNENsWFdpN3cyOW1xQTRkRUtvY1YybXg4UzVwNUw4R1hUTFFDVVFibTRIX1RVZTc3MGZzWTN6ZmxNWndfcFpyVVZXRFNLV2tuSEHSAW9BVV95cUxORUQtcGkxbXJITWdJV2NCbUtWbEliczgzdHhTbWVXX2Z4blcxdy04TmxseUZYOXh2ZjlCYmY4b0FKZ2sydnZaLVJvcENoVll3MXN5aktLRkdWWkRORU5xbGtHQzFyQzFnLTBCSzBJRVE?oc=5
+- Stocks Bounce as Oil Slips and AI Jitters Subside: Markets Wrap - Bloomberg.com
+  Stocks Bounce as Oil Slips and AI
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVdSbk1NMk9oczQxR1FzUXBRcVJuVlRWZExIbS1LQmh1am1NQ1J4ZzZEbXpaVHhVWU5FcHAtODFZYUQ1UkpZSTM0XzI2amdDa0dyTXlQVXNZbXdjcTRZd1pVSzhyRV9FbjM3cXpVeGwzY1I4WGFoZUN4VjQ2Rml2NzZfOGc2QmlPUUY0bGYtd3ZoUk53?oc=5
 
-- Nvidia-backed AI data centre firm scraps mega stock market listing - BBC
-  Nvidia-backed AI data centre firm
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wdmJBcVhNX2h2UWN5a1k3eElWRFZzYnVRcXd5RmZ6YVhhbUQxa1RrMjBlVkx3bkstTmw2M0FsTHlCNTJwbFpUVFdJQlMtd09SdF9fTHRYM2lOdTA?oc=5
+- Stock Market Highlights, Sensex Today: Sensex Closes 879 Points Higher, Investors' Wealth Increases By Rs 3.6 Lakh Crore - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOa0lwOXd3UWlTQUF0QTRtbWExcnVyaVMtSkR2czEyZWx0bzJpMk9FVnVLeEFOX2w4VG5Cak03bHJsV3FVeW5Tb0c1TnBmUmlqblVFMVhPQ1YxLTBjV1lwaHFoc1hhR0o0U0
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOa0lwOXd3UWlTQUF0QTRtbWExcnVyaVMtSkR2czEyZWx0bzJpMk9FVnVLeEFOX2w4VG5Cak03bHJsV3FVeW5Tb0c1TnBmUmlqblVFMVhPQ1YxLTBjV1lwaHFoc1hhR0o0U0RmdjBwV1JVRGFQWUoySVN5aTN4Q0NiTnVmSWNDenU0MWxLNi1ZMzdtOWliZFNfbHE0U0UzQnJSZ3JjZFRTNzBEYVJHWEtFWW5kT3Y4bGNJOXdMQ1E2V3NRTnRuTU5XcjJlNXpxSk3SAdcBQVVfeXFMTTVOTmp4em5EN1hUa2E4VEpZcnhDM1FsSjBxYXo0Ykx0U3dGUHZ4V2M1WHRFNC15MVN4UTBwd1JULVJFUVNuS2JHQ0M4YXVWVG93Y1pSd2Nzb0JKLUQwRVkzZDNHRW5kQ2hnbTFxRVFWLVgwZ2JfaFM1cEhJeVNLRUxNVHczZnJWTUlLMC1obC1obU5QekE0cS0wYUZlVUlkX2JjWTJMeE15b2ZCdHd4UHlpTnNkZktUbk9rUk9HYUc1cUNEZHVSbDllbjNsQldwQno2MU1yMmc?oc=5
 
-- Global Market: Japan’s Nikkei falls as AI concerns, global bond market stress weigh
-  SoftBank Group led losses, while Nomura Research Institute gained. Japan’s Nikkei 225 fell 1.06% as elevated global borrowing costs and rising oil prices weighed on investor sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-as-ai-concerns-global-bond-market-stress-weigh/articleshow/134805613.cms
+- NBA Commissioner Adam Silver on the 2026 China Games, NBA Europe plans and prediction markets - CNBC
+  NBA Commissioner Adam Silver on the 2026 China Games, NBA Europe
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzZWVFNCLUVlMGQ4aDJRbW9jTjJ1NDI0d0pWLXVONlJHamVpWnhra3FiNDlSU05uSmJ0M0RGVnJjb0xEbUszTmRPZjBWcndyWG14NTBlT3pRWUZKcjBVYTZLNmxWRjFtX0F1eUdUQlpvS0ZCUHo1TkJzdDhmeWhINXdSQ0VfMmYwRndhLWVfUFRwZUJScXlaTlpFc0xOVVAwcDR1Rzk1b3I1Vlp4Z0lhNzYtaVE0bllqNUR1ei1ZOHlNcDRJUFl5anI5SFJqeG9h?oc=5
 
-- ITC shares in focus after Rajiv Jain-backed GQG sells stake worth Rs 9,395 crore. What’s ahead after 30% crash in 2026
-  ITC shares will be in focus after Rajiv Jain-backed GQG sold shares worth Rs 9,395 crore. Cigarette tax hikes, inflation and rising oil prices weighed on performance.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-in-focus-after-rajiv-jain-backed-gqg-sells-stake-worth-rs-9395-crore-whats-ahead-after-30-crash-in-2026/articleshow/134805494.cms
+- Reissued bonds account for nearly 66% of state borrowings in H1 FY27: Report
+  In recent years, states have made a substantial impact on their finances by reissuing bonds. This trend, particularly pronounced over the last two years, illustrates an increased involvement from state governments. Coupled with the Reserve Bank of India's
+  🔗 https://economictimes.indiatimes.com/markets/bonds/reissued-bonds-account-for-nearly-66-of-state-borrowings-in-h1-fy27-report/articleshow/134833291.cms
 
-- ITC among 4 F&amp;O stocks with a sharp rise in futures open interest
-  Four NSE F&amp;O stocks recorded over 10% growth in futures open interest on October 8.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/itc-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134805371.cms
+- Market wrap: ITC, TCS, BSE, RIL top gainers and losers on Nifty and Sensex on Friday
+  The Nifty 50 surged by 288.65 points, closing at 22,520.45, while the Sensex jumped 879.09 points. A total of 2,182 out of 3,684 stocks climbed higher, reflecting renewed
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-itc-tcs-bse-ril-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134832178.cms
 
-- TCS, Wipro, other IT stocks will be in focus on Friday: Here are 3 important triggers to watch
-  TCS's Q2 net profit rose 15% to Rs 13,884 crore. Additional triggers include the US suspending the PERM green card programme. OpenAI revising its annualised revenue forecast down to $50 billion.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-will-be-in-focus-on-friday-here-are-3-important-triggers-to-watch/articleshow/134805016.cms
+- Airtel Money makes London Stock Exchange debut
+  The offer price was set at £1.96 per share, with trading beginning conditionally. Initial trading reflected a slight increase as shares were valued at about £2.00 before easing.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/airtel-money-makes-muted-london-trading-debut/articleshow/134832118.cms
 
-- Jio Financial Services Share Price Live Updates: Jio Financial Services Trading Volume Overview
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-09-oct-2026/liveblog/134805015.cms
+- Cupid among 7 stocks that hit 52-week highs; rallied up to 30% in a month
+  Seven stocks from the BSE 1000 index hit fresh 52-week highs as the Sensex rallied 879 points. Cupid led the list with a 31
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cupid-among-7-stocks-that-hit-52-week-highs-rallied-up-to-30-in-a-month/slideshow/134831735.cms
+
+- Reliance Jio IPO: Likely price band for India's biggest listing revealed. Check details
+  Jio Platforms has set a price band of Rs 1,065-1,119 for its upcoming IPO. The company plans to raise between Rs 28,755 crore and Rs 30,213 crore
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-likely-price-band-range-for-indias-biggest-listing-revealed-check-details/articleshow/134831025.cms
+
+- CEC row LIVE updates: Left groups demand end of police intimidation and detention ahead of Jantar Mantar protests - The Hindu
+  CEC row LIVE updates: Left groups demand end of police intimidation and detention ahead of
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQVEJHTFRLcjVfT3VOamM1ZThCRW5PbWUwbnB0SWFaQno1ellIMkp3eVZWcVR4S3UtX2FFNElWLWpvLWNjS2Y1WHgybGxibjdtOWFzYlZ6THFMYXItQWtDLUlRS0M2OVBDaWZpVWtqS1FLSTFzZmxJNlZDOV9kY04zZjh6VnZJYjM5YWRQQmxyTlc4ZXNXSVNVTmVjY1M2SGhqQ1B4UVllbnFoS09tTmc4Q2xldEVkWVdBbFEzUXdIa3h5RWtGb2I3N25nNHhSMllRR0tUNU9LZ2YtQmowOXJYbzlWYVJUWTBhSV9jVlFBZ2NuVVlqV3VEMXJYd2NPT3VIVmw5SzF30gGMAkFVX3lxTE16bUlkT011cXdhNjN5bnR0Vjg4SkV6TGtTOTF4cHlnNm5Qcl9YWHFUSUdQWTQxRUxhbGQ4YVZrS0U3Nlk2aGphcHEwWVI4TUJZT0ZBZnJGMzQ3YWpCWmVYWnZXUjRRN3dVaHVWYV84LTBOdUJGWUpkYTdFWm92dGZvamxNRHB4a0lkOG9ybTdLUEdBcmlJMjQxZEhQbzhKcEN5VmpONC01TENmSURfRjBBd3dfVXhFNG1OT1JqLUxLcEpLMDJXLWlKUDcxOHBpVFR3X0QwWWV4SE1GaF9RS3ZOTzBqcDNtWWVNeWlIOE5jaTRRaUwyZGpGMGZYN0FMMnNXZ240aW05T0RNVTc?oc=5
+
+- India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest - The Guardian
+  India’s ‘Cockroach’ party accuses
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUZEYXdwVE1FVWd1bWNyNmRnQWE4OHA2cFZCVTRoVEtvMFVGVDFiakoxNTVfUjlEeGllTXh4MTFScnpWdjR2alNpUmtXRzFKU1M2c2R1a28yZWZwUF9veUZ0YWtBLW90RmI4cmdPTExwbDNCdlF2QnY1el92T2RKdTdCZ1A5YXhtYXhNcDdEa1lZSno3YkpyYjBEWHhoQktqQjV4anVkWUEwOGo5Z3Zv?oc=5
+
+- Meet India's feisty Gen Z protester who is taking on Modi - BBC
+  Meet India's feisty Gen Z protester
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE56cE5iY2YyZXFxRFpVelU4VmNzX1REajlDR184bUdkY3VLcmx6QktwbEhPTFAwU2thVlIyZEhBaDdHZ0prRkwtSmUzLU1XdE1SUVpWREZhUXlmRUk?oc=5
 
 - Gaza war sped up India’s shift towards Israel under Modi - Al Jazeera
   Gaza war sped up India’s shift
   🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmdGajd3aHNkbER6RWNGN1VMVVRLUENnaGhESWRZOWRVR2FtUDVyX3ZLLWJSbkFheUFiYTNvYUQtMzZMakhlYnhTZmRlR1ZldzE2VlhEVUgyTG5xRVhhSTVXUnNHVVZNZXlTUU5xTGdlREM1ZktYaUVFaWwwWXNOeWYwS19OT2RUTnpXRDQ2MkVDQWE0c0NNeUNINTN5cC1FdHfSAacBQVVfeXFMUDB3djJ1VERjdnVrZEswUzMxQ0JLRGg1Y0dxQk54VHBnWU1ERFQ1aDhidXgtb3didzlhNXRvcmhRR0hpNGJ2SmVXSnplY3JGbjBrQmhISlRIRnhSTTZPUzR0VFZWTk5oWXN2dVVHT0Y5b3FJY09KdlpRSkRONEE2UzE2X2ZQRWFlbHUyV0JVZVFGODV5czVHdGg1ZUNVXzhKckV3Q09WWk0?oc=5
 
-- INDIA Bloc Protest Highlights: INDIA Bloc Protesters Meet At Delhi Cafe To Discuss Forward Strategy - NDTV
-  The Indian National Congress (ICC) is protesting in Delhi.
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOdzVGWEIzcXBwRktSQ01xWFVlUnZQX29SRTExMFI5bVNGdXp5UjdCLVU3N3pvR2REcm1wTUp3NUJJQzlLaWNGMW15VHp2alVrZmJaQ1JjSVBrd0JaSkVza09DZHpkcXZONFM1VHdIWE5uajRfcXYzTW9pdzVHd2tlcDcwaGxEUWg0SDBHT2xTSGYxMldoM3RveFMxaTNmYWZqM25FendReXpyZE1TVVBmbURPT3E2bGZxRU00VkVhbWhHaXNoYzRPbXZ6MEFKNDVWWlRVbFFmZUszcVBCdmpVWDlocDZweUFKNXJZdDQwTVZlaGlocFdFTWRZQzFOTzdneGEyUjVQYTJNMFJTV0k3eE9FdGZFLVJ2S3I4?oc=5
+- Clean Energy, EV: Japan Plans To Invest $100 Billion In India Over 10 Years - NDTV
+  Japan plans to invest $100 billion in India over 10 years
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2FJUnhVQnNqd0hnSnIxTGxMQkZkMDFTdmdFLWp3WEFIRlFMN2dwaHl6SW1WbUtYWE1PNlVlN3NPd1dhUWhVTjBrU3p4Yk1LOURTSVpyanZoMWFpRVFNdUdWNTBTTWd3SFFvRHEzTXpVVlJIOTR2UWpMbHUzQldnRFRWYU5YM3pVZmtPeTBNTVhBMlJZZWxtWWZaRjlCc1lhMEJvR1dBc0ZQSkRtN3o3WVVxONIBuwFBVV95cUxQYXJMenZXYnhfRUxmcHVOcFVHQjJYTkpvT3hZSDRMWHRsUDUtUllNMU9TMDNGOXpQeW9hV2c5dnZVdHNkTHhvcDlzaHVaQW5iOGx2b1RFSmJqX1pRa0U0ZER1TWJqcW1IYTgza05ZMUQ3bzZzeWo1M3hjV2VmMEFUOWlTYXBSU0RGOEpsbWtJT05vWFBnUlBfVGZvVVpHOFVtcmVIN0xlTVMzeHg2SFRfM3ZldVB6Rm9FY1dz?oc=5
 
-- "Not Being Allowed To Protest": Rahul Gandhi As Opposition Heads To Rajghat - NDTV
-  "Not Being Allowed To Protest": Rahul Gandhi
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcVJUZnNTT01Pam01N0Vfb1RJTEVHLU42R2R5cXdHSmItQXZERm5tcHRJenJ1LU9OUTMwRGFZbE41QzFtZWozNmNYU3hhOURiazUwS1UzaTNlQWtjT05wUURzSk55d0RqSzlHV214c0dkdGwzYkVtWFdsZTk2eHV5VG9tdlRXTVM0RkFqNEtFcFNIbldLbkpZYThsbGJzd3RsUzNtWmRfWExzMWpaeXlJUE8xdUlXc05YckdHR3hPNk16UEM5aEVkMUhtaGNaall5NXN1Skhn0gHeAUFVX3lxTFBUeFJwZDM5NnNQeXBScXZRY0NNbjlHR3NuUHlKZlhIT3RoVWtfSUFMRzBjTFBVb29lZTFDalJfWlRiWUJxNkJZcXlld1ZDN2N4SUZyTXNwazBQRkw2ZmQtSXVrUzlUWHFiYkVnZi15SGsweXNTaDNnZDRpSFotT0pSaUgwY1JjaWZ2OVJXWFJtdUtWMHpVY09XYjh2cS0xenlteDJGOW1RSS1mUHNYNXpEa2I5N3g3TVNaeDRTTUJsWWNxOGVKWXdyNDVTbmlTUFpvdHd6NmRmemw5WE9IZw?oc=5
+- How Arrowhead Is Using Voice AI To Fix The Gaps In Enterprise Sales And Support
+  For years, enterprises hired thousands of human executives to sell loans, answer customer queries and recover abandoned sales. Yet, even&#8230; Arrowhead abandoned call analytics in favor of
+  🔗 https://inc42.com/startups/how-arrowhead-is-using-voice-ai-to-fix-the-gaps-in-enterprise-sales-and-support/
 
-- CEC row LIVE updates: INDIA bloc leaders likely to march towards Rashtrapati Bhavan today - The Hindu
-  CEC row LIVE updates: INDIA bloc leaders likely to march
+- Amazon Layoffs: At Least 100 Employees In India Hit By Latest Global Job Cuts
+  Ecommerce giant Amazon has reportedly laid off at least 100 employees in India.
+  🔗 https://inc42.com/buzz/amazon-layoffs-at-least-100-employees-in-india-hit-by-latest-global-job-cuts/
+
+- Anthropic Bans ‘Cruel’ Behaviour Towards AI Models, Tightens Rules On AI Misuse
+  Anthropic has updated its usage policy to introduce restrictions on ‘sustained and needless abusive behaviour’ towards its AI models.
+  🔗 https://inc42.com/buzz/anthropic-bans-cruel-behaviour-towards-ai-models-tightens-rules-on-ai-misuse/
+
+- Indian AI Startup Funding Surges 265% YoY In Q3, Will Momentum Continue?
+  Indian AI Startup Funding Surges 265% YoY In Q3, Will Momentum Continue?
+  🔗 https://inc42.com/features/indian-ai-startup-funding-surges-265-yoy-in-q3-will-momentum-continue/
+
+- NeoGrowth Raises ₹85 Cr To Expand Digital Lending Capabilities
+  MSME-focused lending platform NeoGrowth has secured $8.8 million in a mix of debt and equity round.
+  🔗 https://inc42.com/buzz/neogrowth-raises-%e2%82%b985-cr-to-expand-digital-lending-capabilities/
+
+- CEC row LIVE updates: Left groups demand end of police intimidation and detention ahead of Jantar Mantar protests - The Hindu
+  CEC row LIVE updates: Left groups demand end of police intimidation and detention ahead of
   🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQVEJHTFRLcjVfT3VOamM1ZThCRW5PbWUwbnB0SWFaQno1ellIMkp3eVZWcVR4S3UtX2FFNElWLWpvLWNjS2Y1WHgybGxibjdtOWFzYlZ6THFMYXItQWtDLUlRS0M2OVBDaWZpVWtqS1FLSTFzZmxJNlZDOV9kY04zZjh6VnZJYjM5YWRQQmxyTlc4ZXNXSVNVTmVjY1M2SGhqQ1B4UVllbnFoS09tTmc4Q2xldEVkWVdBbFEzUXdIa3h5RWtGb2I3N25nNHhSMllRR0tUNU9LZ2YtQmowOXJYbzlWYVJUWTBhSV9jVlFBZ2NuVVlqV3VEMXJYd2NPT3VIVmw5SzF30gGMAkFVX3lxTE16bUlkT011cXdhNjN5bnR0Vjg4SkV6TGtTOTF4cHlnNm5Qcl9YWHFUSUdQWTQxRUxhbGQ4YVZrS0U3Nlk2aGphcHEwWVI4TUJZT0ZBZnJGMzQ3YWpCWmVYWnZXUjRRN3dVaHVWYV84LTBOdUJGWUpkYTdFWm92dGZvamxNRHB4a0lkOG9ybTdLUEdBcmlJMjQxZEhQbzhKcEN5VmpONC01TENmSURfRjBBd3dfVXhFNG1OT1JqLUxLcEpLMDJXLWlKUDcxOHBpVFR3X0QwWWV4SE1GaF9RS3ZOTzBqcDNtWWVNeWlIOE5jaTRRaUwyZGpGMGZYN0FMMnNXZ240aW05T0RNVTc?oc=5
 
-- ‘UNGA revitalisation must be part of broader UN reforms’: India at UNGA plenary - The Economic Times Video | ET Tv - The Economic Times
-  ‘UNGA revitalisation must be part of broader UN reforms’: India at UNGA pl
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS29TbWl6MDR0SldjclNSajlWcC03TXlFUEFlUS15a1dCMm9pa0RjTHBFTGU2TFBfUG1SSjA5eEh6S2lHNU9CMWlxd0Q1VHNiTzFtd01xVzJGOEc0cTdCeGlDVUw3NlhuSmk3azR2U3JLVnpobmpyS1pQbW5Qay13V2lMWVh5WTE0Tll0NndyM3A3emJsN2FDeloyVjMwZ1JBUXhPR0JPNkY3M2JGRGEyeGVnU0Z1TUo1LS16cm9DY0tVMEFfeUNSVHFtbEZ6dW9VdzE3T3NhY0VadEt2VWR5X25UMA?oc=5
+- India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest - The Guardian
+  India’s ‘Cockroach’ party accuses
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUZEYXdwVE1FVWd1bWNyNmRnQWE4OHA2cFZCVTRoVEtvMFVGVDFiakoxNTVfUjlEeGllTXh4MTFScnpWdjR2alNpUmtXRzFKU1M2c2R1a28yZWZwUF9veUZ0YWtBLW90RmI4cmdPTExwbDNCdlF2QnY1el92T2RKdTdCZ1A5YXhtYXhNcDdEa1lZSno3YkpyYjBEWHhoQktqQjV4anVkWUEwOGo5Z3Zv?oc=5
 
-- India’s Satcom Battlefield, RBI’s New FEMA Rules & More
-  India’s Satcom War Heats Up. A major tussle has erupted between Elon Musk and the Centre.
-  🔗 https://inc42.com/buzz/indias-satcom-battlefield-rbis-new-fema-rules-more/
-
-- VinFast Signs Deals To Set Up 50 E-Motorcycle Showrooms Across India
-  VinFast To Set Up 50 E-Motorcycle Showrooms Across India.
-  🔗 https://inc42.com/buzz/vinfast-signs-deals-to-set-up-50-e-motorcycle-showrooms-across-india/
-
-- NABVENTURES Marks First Close Of ₹1,500 Cr Fund At ₹450 Cr
-  NABVENTURES, the venture capital arm of the National Bank for Agriculture and Rural Development (NABARD), has announced the first close.
-  🔗 https://inc42.com/buzz/nabventures-marks-first-close-of-%e2%82%b91500-cr-fund-at-%e2%82%b9450-cr/
-
-- Govt To Release Consultation Paper On AI Regulation: Vaishnaw
-  Digital Platforms Must Rethink Revenue Share Models For Creators : Ashwini Vaishnaw.
-  🔗 https://inc42.com/buzz/govt-to-release-consultation-paper-on-ai-regulation-vaishnaw/
-
-- D2C Lifestyle Brand DailyObjects Raises ₹332 Cr To Expand Offline Presence
-  D2C lifestyle startup DailyObjects has raised ₹332 Cr ($34.3 Mn) in Series C funding round.
-  🔗 https://inc42.com/buzz/d2c-lifestyle-brand-dailyobjects-raises-%e2%82%b9332-cr-to-expand-offline-presence/
+- Meet India's feisty Gen Z protester who is taking on Modi - BBC
+  Meet India's feisty Gen Z protester
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE56cE5iY2YyZXFxRFpVelU4VmNzX1REajlDR184bUdkY3VLcmx6QktwbEhPTFAwU2thVlIyZEhBaDdHZ0prRkwtSmUzLU1XdE1SUVpWREZhUXlmRUk?oc=5
 
 - Gaza war sped up India’s shift towards Israel under Modi - Al Jazeera
   Gaza war sped up India’s shift
   🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmdGajd3aHNkbER6RWNGN1VMVVRLUENnaGhESWRZOWRVR2FtUDVyX3ZLLWJSbkFheUFiYTNvYUQtMzZMakhlYnhTZmRlR1ZldzE2VlhEVUgyTG5xRVhhSTVXUnNHVVZNZXlTUU5xTGdlREM1ZktYaUVFaWwwWXNOeWYwS19OT2RUTnpXRDQ2MkVDQWE0c0NNeUNINTN5cC1FdHfSAacBQVVfeXFMUDB3djJ1VERjdnVrZEswUzMxQ0JLRGg1Y0dxQk54VHBnWU1ERFQ1aDhidXgtb3didzlhNXRvcmhRR0hpNGJ2SmVXSnplY3JGbjBrQmhISlRIRnhSTTZPUzR0VFZWTk5oWXN2dVVHT0Y5b3FJY09KdlpRSkRONEE2UzE2X2ZQRWFlbHUyV0JVZVFGODV5czVHdGg1ZUNVXzhKckV3Q09WWk0?oc=5
 
-- INDIA Bloc Protest Highlights: INDIA Bloc Protesters Meet At Delhi Cafe To Discuss Forward Strategy - NDTV
-  The Indian National Congress (ICC) is protesting in Delhi.
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOdzVGWEIzcXBwRktSQ01xWFVlUnZQX29SRTExMFI5bVNGdXp5UjdCLVU3N3pvR2REcm1wTUp3NUJJQzlLaWNGMW15VHp2alVrZmJaQ1JjSVBrd0JaSkVza09DZHpkcXZONFM1VHdIWE5uajRfcXYzTW9pdzVHd2tlcDcwaGxEUWg0SDBHT2xTSGYxMldoM3RveFMxaTNmYWZqM25FendReXpyZE1TVVBmbURPT3E2bGZxRU00VkVhbWhHaXNoYzRPbXZ6MEFKNDVWWlRVbFFmZUszcVBCdmpVWDlocDZweUFKNXJZdDQwTVZlaGlocFdFTWRZQzFOTzdneGEyUjVQYTJNMFJTV0k3eE9FdGZFLVJ2S3I4?oc=5
+- Clean Energy, EV: Japan Plans To Invest $100 Billion In India Over 10 Years - NDTV
+  Japan plans to invest $100 billion in India over 10 years
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2FJUnhVQnNqd0hnSnIxTGxMQkZkMDFTdmdFLWp3WEFIRlFMN2dwaHl6SW1WbUtYWE1PNlVlN3NPd1dhUWhVTjBrU3p4Yk1LOURTSVpyanZoMWFpRVFNdUdWNTBTTWd3SFFvRHEzTXpVVlJIOTR2UWpMbHUzQldnRFRWYU5YM3pVZmtPeTBNTVhBMlJZZWxtWWZaRjlCc1lhMEJvR1dBc0ZQSkRtN3o3WVVxONIBuwFBVV95cUxQYXJMenZXYnhfRUxmcHVOcFVHQjJYTkpvT3hZSDRMWHRsUDUtUllNMU9TMDNGOXpQeW9hV2c5dnZVdHNkTHhvcDlzaHVaQW5iOGx2b1RFSmJqX1pRa0U0ZER1TWJqcW1IYTgza05ZMUQ3bzZzeWo1M3hjV2VmMEFUOWlTYXBSU0RGOEpsbWtJT05vWFBnUlBfVGZvVVpHOFVtcmVIN0xlTVMzeHg2SFRfM3ZldVB6Rm9FY1dz?oc=5
 
-- "Not Being Allowed To Protest": Rahul Gandhi As Opposition Heads To Rajghat - NDTV
-  "Not Being Allowed To Protest": Rahul Gandhi
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcVJUZnNTT01Pam01N0Vfb1RJTEVHLU42R2R5cXdHSmItQXZERm5tcHRJenJ1LU9OUTMwRGFZbE41QzFtZWozNmNYU3hhOURiazUwS1UzaTNlQWtjT05wUURzSk55d0RqSzlHV214c0dkdGwzYkVtWFdsZTk2eHV5VG9tdlRXTVM0RkFqNEtFcFNIbldLbkpZYThsbGJzd3RsUzNtWmRfWExzMWpaeXlJUE8xdUlXc05YckdHR3hPNk16UEM5aEVkMUhtaGNaall5NXN1Skhn0gHeAUFVX3lxTFBUeFJwZDM5NnNQeXBScXZRY0NNbjlHR3NuUHlKZlhIT3RoVWtfSUFMRzBjTFBVb29lZTFDalJfWlRiWUJxNkJZcXlld1ZDN2N4SUZyTXNwazBQRkw2ZmQtSXVrUzlUWHFiYkVnZi15SGsweXNTaDNnZDRpSFotT0pSaUgwY1JjaWZ2OVJXWFJtdUtWMHpVY09XYjh2cS0xenlteDJGOW1RSS1mUHNYNXpEa2I5N3g3TVNaeDRTTUJsWWNxOGVKWXdyNDVTbmlTUFpvdHd6NmRmemw5WE9IZw?oc=5
-
-- CEC row LIVE updates: INDIA bloc leaders likely to march towards Rashtrapati Bhavan today - The Hindu
-  CEC row LIVE updates: INDIA bloc leaders likely to march
+- CEC row LIVE updates: Left groups demand end of police intimidation and detention ahead of Jantar Mantar protests - The Hindu
+  CEC row LIVE updates: Left groups demand end of police intimidation and detention ahead of
   🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQVEJHTFRLcjVfT3VOamM1ZThCRW5PbWUwbnB0SWFaQno1ellIMkp3eVZWcVR4S3UtX2FFNElWLWpvLWNjS2Y1WHgybGxibjdtOWFzYlZ6THFMYXItQWtDLUlRS0M2OVBDaWZpVWtqS1FLSTFzZmxJNlZDOV9kY04zZjh6VnZJYjM5YWRQQmxyTlc4ZXNXSVNVTmVjY1M2SGhqQ1B4UVllbnFoS09tTmc4Q2xldEVkWVdBbFEzUXdIa3h5RWtGb2I3N25nNHhSMllRR0tUNU9LZ2YtQmowOXJYbzlWYVJUWTBhSV9jVlFBZ2NuVVlqV3VEMXJYd2NPT3VIVmw5SzF30gGMAkFVX3lxTE16bUlkT011cXdhNjN5bnR0Vjg4SkV6TGtTOTF4cHlnNm5Qcl9YWHFUSUdQWTQxRUxhbGQ4YVZrS0U3Nlk2aGphcHEwWVI4TUJZT0ZBZnJGMzQ3YWpCWmVYWnZXUjRRN3dVaHVWYV84LTBOdUJGWUpkYTdFWm92dGZvamxNRHB4a0lkOG9ybTdLUEdBcmlJMjQxZEhQbzhKcEN5VmpONC01TENmSURfRjBBd3dfVXhFNG1OT1JqLUxLcEpLMDJXLWlKUDcxOHBpVFR3X0QwWWV4SE1GaF9RS3ZOTzBqcDNtWWVNeWlIOE5jaTRRaUwyZGpGMGZYN0FMMnNXZ240aW05T0RNVTc?oc=5
 
-- ‘UNGA revitalisation must be part of broader UN reforms’: India at UNGA plenary - The Economic Times Video | ET Tv - The Economic Times
-  ‘UNGA revitalisation must be part of broader UN reforms’: India at UNGA pl
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS29TbWl6MDR0SldjclNSajlWcC03TXlFUEFlUS15a1dCMm9pa0RjTHBFTGU2TFBfUG1SSjA5eEh6S2lHNU9CMWlxd0Q1VHNiTzFtd01xVzJGOEc0cTdCeGlDVUw3NlhuSmk3azR2U3JLVnpobmpyS1pQbW5Qay13V2lMWVh5WTE0Tll0NndyM3A3emJsN2FDeloyVjMwZ1JBUXhPR0JPNkY3M2JGRGEyeGVnU0Z1TUo1LS16cm9DY0tVMEFfeUNSVHFtbEZ6dW9VdzE3T3NhY0VadEt2VWR5X25UMA?oc=5
+- India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest - The Guardian
+  India’s ‘Cockroach’ party accuses
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUZEYXdwVE1FVWd1bWNyNmRnQWE4OHA2cFZCVTRoVEtvMFVGVDFiakoxNTVfUjlEeGllTXh4MTFScnpWdjR2alNpUmtXRzFKU1M2c2R1a28yZWZwUF9veUZ0YWtBLW90RmI4cmdPTExwbDNCdlF2QnY1el92T2RKdTdCZ1A5YXhtYXhNcDdEa1lZSno3YkpyYjBEWHhoQktqQjV4anVkWUEwOGo5Z3Zv?oc=5
+
+- Meet India's feisty Gen Z protester who is taking on Modi - BBC
+  Meet India's feisty Gen Z protester
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE56cE5iY2YyZXFxRFpVelU4VmNzX1REajlDR184bUdkY3VLcmx6QktwbEhPTFAwU2thVlIyZEhBaDdHZ0prRkwtSmUzLU1XdE1SUVpWREZhUXlmRUk?oc=5
 
 - Gaza war sped up India’s shift towards Israel under Modi - Al Jazeera
   Gaza war sped up India’s shift
   🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmdGajd3aHNkbER6RWNGN1VMVVRLUENnaGhESWRZOWRVR2FtUDVyX3ZLLWJSbkFheUFiYTNvYUQtMzZMakhlYnhTZmRlR1ZldzE2VlhEVUgyTG5xRVhhSTVXUnNHVVZNZXlTUU5xTGdlREM1ZktYaUVFaWwwWXNOeWYwS19OT2RUTnpXRDQ2MkVDQWE0c0NNeUNINTN5cC1FdHfSAacBQVVfeXFMUDB3djJ1VERjdnVrZEswUzMxQ0JLRGg1Y0dxQk54VHBnWU1ERFQ1aDhidXgtb3didzlhNXRvcmhRR0hpNGJ2SmVXSnplY3JGbjBrQmhISlRIRnhSTTZPUzR0VFZWTk5oWXN2dVVHT0Y5b3FJY09KdlpRSkRONEE2UzE2X2ZQRWFlbHUyV0JVZVFGODV5czVHdGg1ZUNVXzhKckV3Q09WWk0?oc=5
 
-- INDIA Bloc Protest Highlights: INDIA Bloc Protesters Meet At Delhi Cafe To Discuss Forward Strategy - NDTV
-  The Indian National Congress (ICC) is protesting in Delhi.
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOdzVGWEIzcXBwRktSQ01xWFVlUnZQX29SRTExMFI5bVNGdXp5UjdCLVU3N3pvR2REcm1wTUp3NUJJQzlLaWNGMW15VHp2alVrZmJaQ1JjSVBrd0JaSkVza09DZHpkcXZONFM1VHdIWE5uajRfcXYzTW9pdzVHd2tlcDcwaGxEUWg0SDBHT2xTSGYxMldoM3RveFMxaTNmYWZqM25FendReXpyZE1TVVBmbURPT3E2bGZxRU00VkVhbWhHaXNoYzRPbXZ6MEFKNDVWWlRVbFFmZUszcVBCdmpVWDlocDZweUFKNXJZdDQwTVZlaGlocFdFTWRZQzFOTzdneGEyUjVQYTJNMFJTV0k3eE9FdGZFLVJ2S3I4?oc=5
+- Clean Energy, EV: Japan Plans To Invest $100 Billion In India Over 10 Years - NDTV
+  Japan plans to invest $100 billion in India over 10 years
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2FJUnhVQnNqd0hnSnIxTGxMQkZkMDFTdmdFLWp3WEFIRlFMN2dwaHl6SW1WbUtYWE1PNlVlN3NPd1dhUWhVTjBrU3p4Yk1LOURTSVpyanZoMWFpRVFNdUdWNTBTTWd3SFFvRHEzTXpVVlJIOTR2UWpMbHUzQldnRFRWYU5YM3pVZmtPeTBNTVhBMlJZZWxtWWZaRjlCc1lhMEJvR1dBc0ZQSkRtN3o3WVVxONIBuwFBVV95cUxQYXJMenZXYnhfRUxmcHVOcFVHQjJYTkpvT3hZSDRMWHRsUDUtUllNMU9TMDNGOXpQeW9hV2c5dnZVdHNkTHhvcDlzaHVaQW5iOGx2b1RFSmJqX1pRa0U0ZER1TWJqcW1IYTgza05ZMUQ3bzZzeWo1M3hjV2VmMEFUOWlTYXBSU0RGOEpsbWtJT05vWFBnUlBfVGZvVVpHOFVtcmVIN0xlTVMzeHg2SFRfM3ZldVB6Rm9FY1dz?oc=5
 
-- "Not Being Allowed To Protest": Rahul Gandhi As Opposition Heads To Rajghat - NDTV
-  "Not Being Allowed To Protest": Rahul Gandhi
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcVJUZnNTT01Pam01N0Vfb1RJTEVHLU42R2R5cXdHSmItQXZERm5tcHRJenJ1LU9OUTMwRGFZbE41QzFtZWozNmNYU3hhOURiazUwS1UzaTNlQWtjT05wUURzSk55d0RqSzlHV214c0dkdGwzYkVtWFdsZTk2eHV5VG9tdlRXTVM0RkFqNEtFcFNIbldLbkpZYThsbGJzd3RsUzNtWmRfWExzMWpaeXlJUE8xdUlXc05YckdHR3hPNk16UEM5aEVkMUhtaGNaall5NXN1Skhn0gHeAUFVX3lxTFBUeFJwZDM5NnNQeXBScXZRY0NNbjlHR3NuUHlKZlhIT3RoVWtfSUFMRzBjTFBVb29lZTFDalJfWlRiWUJxNkJZcXlld1ZDN2N4SUZyTXNwazBQRkw2ZmQtSXVrUzlUWHFiYkVnZi15SGsweXNTaDNnZDRpSFotT0pSaUgwY1JjaWZ2OVJXWFJtdUtWMHpVY09XYjh2cS0xenlteDJGOW1RSS1mUHNYNXpEa2I5N3g3TVNaeDRTTUJsWWNxOGVKWXdyNDVTbmlTUFpvdHd6NmRmemw5WE9IZw?oc=5
+- U.N. Warns Against Technology Used to Read Citizens’ Minds - The New York Times
+  U.N. Warns Against Technology Used to
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5
 
-- CEC row LIVE updates: INDIA bloc leaders likely to march towards Rashtrapati Bhavan today - The Hindu
-  CEC row LIVE updates: INDIA bloc leaders likely to march
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQVEJHTFRLcjVfT3VOamM1ZThCRW5PbWUwbnB0SWFaQno1ellIMkp3eVZWcVR4S3UtX2FFNElWLWpvLWNjS2Y1WHgybGxibjdtOWFzYlZ6THFMYXItQWtDLUlRS0M2OVBDaWZpVWtqS1FLSTFzZmxJNlZDOV9kY04zZjh6VnZJYjM5YWRQQmxyTlc4ZXNXSVNVTmVjY1M2SGhqQ1B4UVllbnFoS09tTmc4Q2xldEVkWVdBbFEzUXdIa3h5RWtGb2I3N25nNHhSMllRR0tUNU9LZ2YtQmowOXJYbzlWYVJUWTBhSV9jVlFBZ2NuVVlqV3VEMXJYd2NPT3VIVmw5SzF30gGMAkFVX3lxTE16bUlkT011cXdhNjN5bnR0Vjg4SkV6TGtTOTF4cHlnNm5Qcl9YWHFUSUdQWTQxRUxhbGQ4YVZrS0U3Nlk2aGphcHEwWVI4TUJZT0ZBZnJGMzQ3YWpCWmVYWnZXUjRRN3dVaHVWYV84LTBOdUJGWUpkYTdFWm92dGZvamxNRHB4a0lkOG9ybTdLUEdBcmlJMjQxZEhQbzhKcEN5VmpONC01TENmSURfRjBBd3dfVXhFNG1OT1JqLUxLcEpLMDJXLWlKUDcxOHBpVFR3X0QwWWV4SE1GaF9RS3ZOTzBqcDNtWWVNeWlIOE5jaTRRaUwyZGpGMGZYN0FMMnNXZ240aW05T0RNVTc?oc=5
+- Scientists who put faith in technology less likely to take climate action - The Guardian
+  Scientists who put faith in technology less likely to take climate
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM29FZVN6eWY2UjR6eVVNeFFsakVXVUY2bFZ5Uk5NQUdfUkZKZlZSaEZEaU5jQ1ZHQzdaLWx1REhRTTd3Zko5Nnl1N0pLaDFZREFRTFo1ZWU0WWpUN2FmZFFvTHVCMFBlUjJxNlpLeUptYnpDZHJrbkNHOXFfeUxsbnR1WTJWZ200UHktUzd6N0J2VnU2cG1LX0xmUDNNOFdLX29Pcml3dmQwZXc?oc=5
 
-- ‘UNGA revitalisation must be part of broader UN reforms’: India at UNGA plenary - The Economic Times Video | ET Tv - The Economic Times
-  ‘UNGA revitalisation must be part of broader UN reforms’: India at UNGA pl
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS29TbWl6MDR0SldjclNSajlWcC03TXlFUEFlUS15a1dCMm9pa0RjTHBFTGU2TFBfUG1SSjA5eEh6S2lHNU9CMWlxd0Q1VHNiTzFtd01xVzJGOEc0cTdCeGlDVUw3NlhuSmk3azR2U3JLVnpobmpyS1pQbW5Qay13V2lMWVh5WTE0Tll0NndyM3A3emJsN2FDeloyVjMwZ1JBUXhPR0JPNkY3M2JGRGEyeGVnU0Z1TUo1LS16cm9DY0tVMEFfeUNSVHFtbEZ6dW9VdzE3T3NhY0VadEt2VWR5X25UMA?oc=5
+- Ferrari’s chairman is bullish on AI. He’s less certain how businesses will cash in - CNBC
+  Ferrari’s chairman is bullish on AI.
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE8wTVMzSEl6eEdTNWhMYUJuOEIwb0Fvbmw3UXo2aFV3SUtGd2RkUjVGN3ZLS1dOdi1lU3VPRU1jYkhJeGJSU3BlTklOOG5PX0JkQlFEQ2I4aWhPaG1YWlctYUVlb2ZaMlNYYUtOTEJvR014R3l6QUVwRnhR0gF_QVVfeXFMTm9xMEZ6SHhZR0RPUmh6aTBHdU9MVHhaelBEeWF1djBVVU9TNUlBUjhiWjV1Ri1vdnEyNnRHWU9OclY1d1pxTDRMTTRwTFFwcV8xbzFVVjZ1RUF5TkgzMjg1a0tOVDhDeWNkTlp6R1laRUhrMEs0NUVrSmk0VkJqVQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- 72 lakh teachers trained to use technology to identify students with disabilities - The Hindu
+  72 lakh teachers trained to use technology to identify students with
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQN19ta3p6VGVJa1N4RnZRY3RDZFZ5T2h1SC1nQnl0ckEwemphbXNrSzdVMHZLRmdJRlNUeUtPTFROajVLV0lGeGhGWG50ZGhJSXNXY1VaTG1qNVduZXpNTXp4cE1INEN2dmVrcmxmejJQNThyZ2FuelRLTHduNVg0TWZQeExWal9TcFVXNjE3emw4bEtlanhCUmZ1TVlIMlRuMDV0VElPOUJ4XzZfNHAyYmVkLVlFNlBLMmZJczdjN19jeF8wMWRZ0gHOAUFVX3lxTE56WkQ1TnFKUHNCS0lMX0FBcnRrR0pFYVI0UklSaElRWEdsS1Y5M1puNk5ubjNTWmNfeExMQnRMRXFtX0wzdHg4MlZ1YnVITDdxMGp1aU8tT2dFSHhoenNFanM3Mk5uSlA1c05vUGVaMC1qejcxZTlicUlpem1BaDBydURQMEFYWXdUT2dkQ056WXBXSldrYzlGMnV5OXRUNXhpNXMxN251Tm4wVXZ2Nk92QUdPMXo3WVlSY1VNZXdDS0R2M0hSaHBIeGt4TmN3?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- White House blocks Microsoft from foreign worker hiring programme - BBC
+  White House blocks Microsoft from foreign worker
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KN3ZtVzExUms3R3puMmE5OEJXLVVnY0hlaDNVWGkyM0pIblJ6N2xSRURPa2ppaUlhRVJpOWN0REc1bFVIdmlTSUcyVkFUTWh1dWVrenhXcmdGYXc?oc=5
 
 
-_Last updated: 2026-10-09 04:12:48 UTC_
+_Last updated: 2026-10-09 12:30:36 UTC_
