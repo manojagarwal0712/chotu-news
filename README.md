@@ -1,44 +1,12 @@
 # 📰 Daily News Summaries
 
-- Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWMGV3My1wWF80ejNxLWZBVmZNb21Pd3E1dUxCNmR4bEwxRnFkUVFKLVhaZDBGblota3d2RU1EOTVUdzVNamVQV2pwem9XR1lMZnlvWGJlaHRZVVE?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWMGV3My1wWF80ejNxLWZBVmZNb21Pd3E1dUxCNmR4bEwxRnFkUVFKLVhaZDBGblota3d2RU1EOTVUdzVNamVQV2pwem9XR1lMZnlvWGJlaHRZVVE?oc=5
+- Persistent to squeeze out existing Nagarro shareholders en route to become seventh-largest
+  Persistent Systems has crossed the 90% ownership threshold in Nagarro. This gives it the right to squeeze out minority shareholders
+  🔗 https://www.livemint.com/companies/persistent-to-squeeze-out-existing-nagarro-shareholders-en-route-to-become-seventhlargest-11791620781979.html
 
-- On Starlink Row, Musk's "Is Ambani Real Boss Of India" Question - NDTV
-  On Starlink Row, Musk's "Is
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHpWTWVtbTkwTGpJNE8tOHZjNlY4QnNVMFJELXRVS3dMZWpPcmJQUnZITXdWaFRCcG1tTmprbUVWdGl0ak1MQ3pmdHBPYl9LWU1Fa1dRVHU4dkROLTZNdkdzTXNzd0xWaFkxT1FHMjExSFVyamhzaElET21sRG00RUJIbzNDM0VSTW9lcmRKZ282NDV4TENnTW92SmtEdDlwaHZueVJYOEdYem9ybjRLWVB0T3hQbzBqQ1hpOUJ30gHGAUFVX3lxTE5zLXZ4djZGWDlETk12S3RaXzBSZ2RkSkI0clVYdHFmVXdFNGhrRy1hUWw0M2ZIQmZKVW9HbWxTbU1hUml3b2xBd1c5UnF2S2d4YVF6dU00NzEtSlpReUJ1Z1JaRHRqdU1JN0s3LUFVbFNRRzlFNzFVNjZnSHNaeE1pVnVFS3R4OVRNUVNtVC1lSmVsZnpNczhYOXYzQ2llQjF1dDYwbS1IR244RXhMUkN2eERlNGtpZ3NOMWg2WmdOODZLRHRqZw?oc=5
-
-- Starlink: Why Elon Musk is taking on Mukesh Ambani and Jio over satellite internet - BBC
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yeXN6YkROVGN4ZEpISXlicm9HUjZUZGZoYW1ZYjFlR2NDNVZtTjBBLXhHWGxwNlhvQ05YTHl6NG9YVFpSU3F5Qml2MHVscnZtUlhCeGxkb3J6RTQ?oc=5
-
-- Dear Prime Minister Ambani, accept my apologies: Elon Musk - The Times of India
-  "Dear Prime Minister Ambani, accept my apologies
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnN2ZS00Ukc4ZFFQVnJtT3kxZXRGNlVmWVp1N1VJa1psdnEzM3VqekkzcG1sRDVyV1VwczBzMWRLOV9HX0tFeV95Skx0TGZLVXpTbjBNak41UHNnblJVOHk5VmQ5LTNWSTd0SVZ4M09yYmt4VHZfLVlma0VUS3YxYW1rZ0ZDeUIxUTlnTnRRc0o5ZFVYcHB5dGpLaE1KVVNURlNjb2JqLVM4M0g1Ulo1RlpCZjRrcXh3VG4tMXNhOURxZ9IBxwFBVV95cUxOanVJN253aGhEaU9CVUptQ3VXOEtBTnRTMU5odldyQXpiRGZOVkRqdV9KbjRvRVhSY3ltaUdvc0IyRzRpM24yWWM2RVE0TjVMRGZEMXNpWVBuc3ZjYWdBTmc0TS11VjAtWTcxMVRQQUZubEQzU1BBWk0wTUlYS3g1WWZfUktkcmd2RVN2S01OdFpneENHLWdqd2dFUGhOdGthWG9ZcnVXanhYeC00ZjRzNkhKRjl6LXBscFBYZkx6VjlteFU0NnQw?oc=5
-
-- India's TCS senior staff will miss out on variable pay for September quarter, memo shows - Reuters
-  India's TCS senior staff will miss out on variable pay for
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWxHNzNJUF9FTlpsWm1aWU1SNDlZa2otRXVveFhzeHN3NXF0NnRfdUpVQTJBd25xZ2x3d0hld21TalhQT2o4V1E3WllFYV9qMFZQclFKNGlMeU85c3E2Y0VRbVhMYVRaQktuX2MyamN0VlFkTExmUjhyWXMzem4yWXk1bGRVMmNSRGtWa0M1aGgweEtfSFQycFItdHZBUmNNdHJsaWpSc3BwaTBieE15LTNuZXlZWFcwdnlFWFh5VGtSM2M1cHc?oc=5
-
-- U.N. Warns Against Technology Used to Read Citizens’ Minds - The New York Times
-  U.N. Warns Against Technology Used to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3NBQlZGYXp5Zzc5MmVRQm9RbmM5VUY4VVA1V3M5cTgzVjdNM3UyNTg5ajNaY1JrNndFeUNaaEwtSkRlNzRJNUcyWUo3UXAtVndSbmdlaWZzVUZpc1Y1VTM1UDlwLXRJaldKYWhYa1NZTXN2RldNenQxOWpIQWZGcDFFVUcza3RzdjcwNHZlZw?oc=5
-
-- Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90 - MIT News
-  Margaret Hamilton, computing pioneer who led software development for the Apollo program
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE10TGFYS3RlcVRrbURhOENrTkIwRHBVbV9OYkh3ZWd3c0FUTTBjX0JhSU1rTU1BLVI4eUVlNmFscHM2RV9IcjRYZk9UWUVMdG1PVU9Uc2pmYmVTaGRuM3REZEJ6NFBjMmxZRG1rdFF1SEg4R0ZmM3lhREJfVQ?oc=5
-
-- Forrester’s 2026 Technology Strategy Impact And Enterprise Architecture Awards Winners For NA - Forrester
-  Forrester’s 2026 Technology Strategy
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWt6RmRfWUhzS0FiU25CMmlTa1ZBejlaNTdnU1kxS3E2X1UzcWdGRjJiZUZ5dXhUdVA4OWNzOEpBMU1Qd3NIeVhpNW5kVFhVMktJV3JTM0pMMVdWMURIMG9CMzE5eHYyYnRKSXlHNmxQZEtSdUFGanZXX1EtaERCOVpyNTFoWkRDM2NTSm42ZFV4SkgzUmltMmw0ektoZmV0VzktQUdwNFZ2dzFqcjA4eDFqRDlERlBidGlPMm45bHFkMjg?oc=5
-
-- The power beneath connectivity: India's path to telecom technology leadership - kpmg.com
-  The power beneath connectivity: India's path
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlotRkRiTl9zaHRmb1BoX1Q1SGdBNkFkeGZBZ2hlSlZxeVRHVzlBbUFJdXVNQU9BOWozcUc3a2JXUmZIWjM5X3Z4bE4wem1LbGQ1VWNZeF90QzNiWUZ1dnFtY3RyaW5BZFJTYUdqNVZuNXpTZ3lFLWlpZ2g0V3o4eXk0UDlkYTlKZWkxbWhVN1RPT0I2VTBSRF93bWpVUmZrSS1nNWxRenVMcEtBR3p0aHQyYTJEMkMxZTJVUg?oc=5
-
-- US green card freeze could push more technology work to India, but impact remains uncertain - The New Indian Express
-  US green card freeze could push more technology work to India, but impact remains uncertain
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZkMwX1RNc3draE95cVpBM2Q3U21tbEUzcG1OeGtfMm92cG5QN2VlWUhDZHc3M2ZtYW51TUU4aG5JQzRvb05yeHVqa3N5clF6NXV2dG1KeTk4eVZIR2VOMUVRRFB1MHdtQkVFQVd1QXNCdUoxbWpwLTh1R2ktaHB5enlmVEVLSFNPRW8tQzFZUmRIZEk5TGxfNW9BNlpacEg1S1gydlNmcEFVc0JDM0Q2UXVfa2llNjFJWTd1TFhWcVllZkppMzlxeV9ZR1ZvY0Myc0tIZk5CQWk5NlN50gHqAUFVX3lxTE0zT3hob3VQUUFNS29qLWVUOHRBRU81RHZZQWpKbEE1aVFkdDJvX3lhNXVXaHBhdHpONXFOX3dFWXV4bnh4MzhMUnpVSUVxRVlZVVhnMmVrSEFwNkhiV0sxWnlTT3FEMGxCMkptQ2tGSi15dTFzSEVJQmx2d1M4T3NmaDdBbTRqR3ZkS0RoTm9ab0lNdXFoLW1Xa0I1NVFydW14ZkUwX1p2SkFyODBsMzk1OURfcGJ0VzlIUlE2b01rQUxHb0RLVG42b203RzViU1V1RE5KaXhmcW9rcWFpOUZEaldkdERETmczdw?oc=5
+- After 'Prime Minister' jibe, Elon Musk doubles down on attack against Ambani - What his latest post on X said
+  Jyotiraditya Scindia rejected monopoly claims, saying licensed operators can begin services once spectrum is assigned and security conditions are met. Elon Musk renewed his
+  🔗 https://www.livemint.com/companies/people/after-prime-minister-jibe-elon-musk-doubles-down-on-attack-against-ambani-what-his-latest-post-on-x-said-11791606648793.html
 
 - Zetwerk eyes  ₹27,000 crore IPO valuation as over 30 investors weigh anchor book
   Abu Dhabi Investment Authority (ADIA), Norway's central bank, Goldman Sachs, SBI and HDFC are among more than 30 foreign and domestic investors considering participation
@@ -52,33 +20,29 @@
   A private-jet broker that set out to revolutionize luxury travel faces several lawsuits from customers.
   🔗 https://www.livemint.com/companies/privatejet-broker-faces-customer-lawsuits-over-halted-flights-11791571175583.html
 
-- Netflix layoffs on cards? Streaming giant plans to cut 5% of workforce as early as next week, says report
-  Netflix is reportedly preparing to cut about 5% of its workforce. The company has expanded into live events, podcasts and games.
-  🔗 https://www.livemint.com/companies/news/netflix-layoffs-on-cards-streaming-giant-plans-to-cut-5-of-workforce-as-early-as-next-week-says-report-11791568522049.html
+- Why market cap of India's top 20 stocks dipped from 44% to 27% since 2020? Chris Wood of Jefferies explains
+  Smaller stocks have continued to outperform the big caps this year in spite of higher valuations, says
+  🔗 https://www.livemint.com/market/stock-market-news/why-nifty-sensex-under-pressure-despite-resilient-indian-economy-chris-wood-of-jefferies-explains-11791625227421.html
 
-- 5% GST on Ola, Uber, Swiggy, Zomato, Amazon and Flipkart regardless of business model: Report
-  GST Council had endorsed a uniform tax treatment for operators, regardless of how their businesses are structured,
-  🔗 https://www.livemint.com/companies/news/5-gst-on-ola-uber-swiggy-zomato-amazon-and-flipkart-regardless-of-business-model-report-11791567413508.html
+- Avenue Supermarts Q2 Results: DMart parent net profit jumps 8.5% to  ₹742.98 crore, revenue up 18%
+  Avenue Supermarts reported an 8.5% year-on-year rise in consolidated
+  🔗 https://www.livemint.com/market/stock-market-news/avenue-supermarts-q2-results-dmart-parent-net-profit-jumps-8-5-to-rs-742-98-crore-revneue-up-18-11791626484306.html
 
-- Is HAL stock priced for perfection? What to expect over the next 5 years
-  A robust  ₹2.54-trillion order pipeline underpins long
-  🔗 https://www.livemint.com/market/stock-market-news/hal-share-price-hal-stock-analysis-hindustan-aeronautics-11791541161616.html
+- Dividend kings of Railway shares: IRFC vs RVNL vs IRCTC vs RITES vs CONCOR - Which PSU stock wins the crown?
+  For dividend-focused investors comparing railway PSUs, RITES had
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-kings-of-railway-shares-irfc-vs-rvnl-vs-irctc-vs-rites-vs-concor-which-psu-stock-wins-the-crown-11791615271148.html
 
-- CME feeder cattle hit 3-month peak after corn price plunge
-  CME feeder cattle
-  🔗 https://www.livemint.com/market/cme-feeder-cattle-hit-3-month-peak-after-corn-price-plunge-11791582473869.html
+- Down 21% in 3 months, but HDFC Securities sees 66% upside in this property stock - check target price, rationale
+  HDFC Securities maintains a buy rating on Sobha, setting a target price of  ₹1,930. Record first-half presales,
+  🔗 https://www.livemint.com/market/stock-market-news/down-21-in-3-months-but-hdfc-securities-sees-66-upside-in-this-property-stock-check-target-price-rationale-11791622041810.html
 
-- TSX posts biggest gain in five weeks as rate hike bets recede
-  
-  🔗 https://www.livemint.com/market/tsx-posts-biggest-gain-in-five-weeks-as-rate-hike-bets-recede-11791578853104.html
+- RBI opens special USD window for these 3 state-run OMCs; facility in effect from Oct 12 - What it means for INR support?
+  RBI has opened a special window for these 3 Oil PSUs to get the US dollar from the designated banks instead of the open market.
+  🔗 https://www.livemint.com/market/commodities/rbi-opens-special-usd-window-for-these-3-state-run-omcs-facility-in-effect-from-oct-12-what-it-means-for-inr-support-11791620603159.html
 
-- Treasuries Slip on Inflation Worry as Energy Costs Stay High
-  Treasuries slipped at the end of the week as still-elevated energy costs stoked concern
-  🔗 https://www.livemint.com/market/treasuries-slip-on-inflation-worry-as-energy-costs-stay-high-11791575735690.html
-
-- Hurricane Isaias Shuts Almost Three-Quarters of Gulf Oil Output
-  Nearly three-quarters of oil production in the region shut in. Hurricane Isai
-  🔗 https://www.livemint.com/market/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output-11791575609353.html
+- Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites
+  Artificial intelligence company Anthropic has restricted live internet access across its internal evaluations. The company discovered instances of its Claude models bypassing safeguards, exploiting software vulnerabilities and
+  🔗 https://www.livemint.com/technology/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites-11791628683049.html
 
 - Anthropic AI model submits false homicide tip to police website
   Anthropic AI model
@@ -96,69 +60,57 @@
   A leaker called Cyberleek has shared over 24 minutes of alleged GTA 6 gameplay, map crops and a Lucia Caminos intro. Authenticity
   🔗 https://www.livemint.com/technology/gta-6-leaks-cyberleek-reveals-gameplay-clips-map-details-and-lucia-footage-ahead-of-november-19-launch-11791519902099.html
 
-- MORNING BID EUROPE-Feeding the AI beast
-  .
-  🔗 https://www.livemint.com/technology/morning-bid-europe-feeding-the-ai-beast-11791520282214.html
+- Industrial, warehousing space leasing hits record 59.1 mn sq ft in top 24 cities in Jan-Sep: Savills
+  From January to September, leasing of industrial and warehousing spaces surged across major cities in India. Tier-I cities alone accounted for 47.2 million sq ft of leasing. Fresh supply increased to 68.9 millionsq ft, signaling
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/industrial-warehousing-space-leasing-hits-record-59-1-mn-sq-ft-in-top-24-cities-in-jan-sep-savills/articleshow/134853108.cms
 
-- Dow rises 400 points on Friday as Wall Street scores winning week: Live updates - CNBC
-  Dow rises 400 points on Friday as Wall Street scores winning
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5nSVM4THI4YlFUdXYtTTJyX3ZJamZOSWdDa3owRkpVU3FHWEVzZ3NJcTBoSkt6YVluWW1jaFlGeVB0Q1pMdGk5Z2Y3UVpwZjJ0WjlHdFppQnBMQVRjT2lLTGFBTklzelhYSFVQdEJJejAxOHRpMGVn0gF8QVVfeXFMTThPS25hbl9MZ0p2cGw3Nm5Pby1vTml4OE5aUHo0N204RTVnOWN6Z24tX2FQVUhjY3hHN0xxUURlQ1dkSnh3bVE2NEM5SWRrQXFNUzlVUVl3UzdDVm1rQVJCaVVDSVFsSER1ZFlXUDRkRlNpeUloQzFsbHpQWA?oc=5
+- BPTP sells 150 apartments in its new housing project at Faridabad
+  BPTP Ltd has sold 150 luxury apartments in Faridabad, translating to a total revenue of Rs 150 crore. Their housing development, dubbed 'SkyNest', has accumulated around Rs 750 crore in sales thus far.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/bptp-sells-150-apartments-in-its-new-housing-project-at-faridabad/articleshow/134853093.cms
 
-- Stock Market News, Oct. 9, 2026: Stocks Rise as Tech Shakes Off Thursday Selloff - WSJ
-  The WSJ looks at how tech companies will react to a
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHZKd1dONWRQcmhia0FBdXNzSVdNOC00d0lsS19DcjM1QW50OEU3ci16N2VrVGcySkZhRVFlZDhua1dEdE1NS0w3TjRRTlZsMU83Q0xxNktrVWk3Ukg5aHNJZ0FtaTZtVzRmWjR5Z0szcFpXVVdVd3lKWHZHanNNbjY5VzVkQ00?oc=5
+- Adani Green Energy H1 Update: Operational capacity rises 24% YoY to 20,763 MW, energy sales jump 32%
+  Adani Green Energy reported a 24% year-on-year rise in operational capacity to 20,763 MW in H1FY27. The company added 4,083 MW of greenfield capacity and expanded its battery storage
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-h1-update-operational-capacity-rises-24-yoy-to-20763-mw-energy-sales-jump-32/articleshow/134852554.cms
 
-- U.S. lifts sanctions on sale of Russian diesel in global markets - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW5lTTVIbE5YSzhxY1g4UmtYWldDVzFuaHNZOGx2RUJPSWh4WDdVNHhmRFNBWFVlbTY1aHBBcGpNdWE2VnJTWGxEd2daMjBIVHducm5laWpwNFF4U0VnYkFMeWI5eDdzT1
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW5lTTVIbE5YSzhxY1g4UmtYWldDVzFuaHNZOGx2RUJPSWh4WDdVNHhmRFNBWFVlbTY1aHBBcGpNdWE2VnJTWGxEd2daMjBIVHducm5laWpwNFF4U0VnYkFMeWI5eDdzT1JDN05jcEdlSzNzdzdJaTJnd1BFVWRFSjJCVExHUFU1aUx4anRQemJwTFpTMHZKSGNwNGh1NnQyU2FmLWdKbGVCRjQzeE5rVFBFcW1nYUEtOE9LV3BVeG0wNnpV0gHLAUFVX3lxTFA2UXkzbnh4MUlOTGJQQ2ZiME1TUk1fWU1EajFoUndRQnRzSTRwYzVuMG5Db3JFWElJVkVBMHF0ejF3Rk9helprNjBZRTZqbm5QZnRYVTQ4TkN6enBEX3JaRlZ6cmJSMnZJX0w1RkRlREE5a2lMemFoTmkzWEJhY01VMVhMRTBHZDhpc09mYVMxNXBiQ0d0QVlrV05CNy10WU8wUDM3OVN2Q2d2YUI0V1NqQlB3TGlZb1JYc0VqNVhsaHR4YjhuQWV0R3pV?oc=5
+- DMart Q2 Results: Cons profit rises nearly 9% YoY to Rs 743 crore, revenue jumps 18%
+  Avenue Supermarts reported an 8.5% year-on-year rise in consolidated net profit to Rs 743 crore in Q2FY27. The company opened 15 new stores during the quarter, taking its total to 5
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q2-results-cons-profit-rises-nearly-9-yoy-to-rs-743-crore-revenue-jumps-18/articleshow/134851993.cms
 
-- Stock Market Highlights, Sensex Today: Sensex Closes 879 Points Higher, Investors' Wealth Increases By Rs 3.6 Lakh Crore - NDTV
-  Stock Market Highlights, Sensex Today: Sensex Closes 879 Points Higher
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOa0lwOXd3UWlTQUF0QTRtbWExcnVyaVMtSkR2czEyZWx0bzJpMk9FVnVLeEFOX2w4VG5Cak03bHJsV3FVeW5Tb0c1TnBmUmlqblVFMVhPQ1YxLTBjV1lwaHFoc1hhR0o0U0RmdjBwV1JVRGFQWUoySVN5aTN4Q0NiTnVmSWNDenU0MWxLNi1ZMzdtOWliZFNfbHE0U0UzQnJSZ3JjZFRTNzBEYVJHWEtFWW5kT3Y4bGNJOXdMQ1E2V3NRTnRuTU5XcjJlNXpxSk3SAdcBQVVfeXFMTTVOTmp4em5EN1hUa2E4VEpZcnhDM1FsSjBxYXo0Ykx0U3dGUHZ4V2M1WHRFNC15MVN4UTBwd1JULVJFUVNuS2JHQ0M4YXVWVG93Y1pSd2Nzb0JKLUQwRVkzZDNHRW5kQ2hnbTFxRVFWLVgwZ2JfaFM1cEhJeVNLRUxNVHczZnJWTUlLMC1obC1obU5QekE0cS0wYUZlVUlkX2JjWTJMeE15b2ZCdHd4UHlpTnNkZktUbk9rUk9HYUc1cUNEZHVSbDllbjNsQldwQno2MU1yMmc?oc=5
+- Bitcoin reclaims $82,500 as improved ETF flows lift market sentiment. Here is what experts say
+  Bitcoin reclaimed $82,500 on Saturday after hitting a nearly three-week low earlier in the week. Experts flagged institutional outflows, US-Iran tensions and AI-related security concerns as risks.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-reclaims-82500-as-improved-etf-flows-lift-market-sentiment-here-is-what-experts-say/articleshow/134852150.cms
 
-- The countries most threatened by turbulent bond markets - The Economist
-  The countries most threatened by turbulent bond
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQemZPTlh5bERBWHdGTGRNXzNNeUhKb3J6NlpHcnctMExDSWgxRDlsQzM2NEZucXVPZmlkbmhHVS1lUUsyV3FwOElhVjltMmlGUWtsUndHVDhfbUhCWVR1YXhNbHVreHhZcHVyUmlIaGEwWEdYa21ROVV1aGRPSGJQZ0dVSlVMczZlcTVpVjFYQ0ZxVVJwREdpWkVwamV0T2oxVldv?oc=5
+- ‘How can you stop these kids?’ Indian capital on lockdown before protests - Al Jazeera
+  ‘How can you stop these kids?’
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3pKNTA5U0FvcURRVldFQlN1TnlTWDl3RU41ckw0ZmFOWkVQWlc2NUt6UGpXZXlVMV9HZURBcXI3NlFmNnFIcms4elMzTGRLWXY1VEdGN3BkMzk2a3NTTmxINjAyczBzeDllNGd2aDRQeVVBZ0dtZmxWdTYtLVU5T01BWlJTZ3JpZS04SUE5a0JDaUY3VmJPWkl5OGc1a1FEWG9SX09GRXctTWhuTjQ4c25B0gG3AUFVX3lxTE5iMFhPREN5dWNaMXhjSG5kRjVNbnduTWYxcmh3bTNjMkdURVh1OUJTa2JYUXhsNWQ5b3JfTW1TUk5ETFZ5c082UldGMkxTYnR2a25XSVpmcDlfYURrdzM4VEp0VDBMYVl4SU9QQjd4RUxhWGxpTk5ETDNyNTBRUHpCT2F3cms4UHZEamxXWHpkcnFkN0xIcWRPUkdkWHFoSzlxMEVlcHN0Yl9ZU2xwcTdhY0lieEZlWQ?oc=5
 
-- US stocks:  US market posts weekly gains with earnings, inflation data on tap
-  Wall Street finished strong on Friday, fueled by optimism ahead of the third-quarter earnings reports. Analysts predict a notable growth in S&amp;P 500 earnings year-over-year.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms
+- India to deploy thousands of security forces in Delhi for protest over poll chief - Reuters
+  India to deploy thousands of security forces in Delhi for protest over
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3Y0OVJCem1ZWlNZeHdtdlBzUzBkOGI3My1pNUsxUmxveW5PS1NHamdnLWg1dUMtaXNXME9pLXR0ZVQ3WnlFY3lpSjBmMklvaV93ZkNlMl9SOUZqNUctTEtOTzRhbGhHOTNrSEdFY1g5cFhYODN0eWF3VUowT2JROW9BU3ppenZVQmtzbVNkaG9MMWFwekZ1Ry1PcHpMUmJpSWN3emt3NUNqb254VlBQdTZUbw?oc=5
 
-- Gold, silver boom puts US bank trading revenues on track for record $5 billion
-  JPMorgan Chase reported approximately $700 million in profits from trading gold, silver, and other metals. Deutsche Bank also returned to bullion trading, earning more than $200 million in the same period. Analysts predict that banks will
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms
+- 'India Is Not A Banana Republic': BJP Attacks Congress, CJP Amid Protest Crackdown - NDTV
+  'India Is Not A Banana Republic': BJP Attacks Congress
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNREFhRzVzeW16RFI0Vl9YOTZBa0xISHpSQ3o2YlJoYmFVdHpUcDRQVS1idng1c0k4T2lvU2ZSVk5nNEZFRlBVLXZCMHhaeEtKc1ZaS0ozY01uNFZIQjh0WERGMGNDZU1yQ3dIZVNEQlZ6Q25KSzVwYVdPcUVpeVVNR0taRHNJZ2tod2hLUGRRN09TVzZCd3RtblRCTXdsRXV2OVFkVXI1dmV2UlI2a2R2dnBOU3NxTFliVnFxclF0STBhRnRNazVqY3VkLVIyMXpIY0VfMmxMQWY2eDBLRmVwV2VoOGcwR1lvaXMxddIB9AFBVV95cUxNUzEwR2hFRWN3V1lETlUzTER1aVpXeHpZdlVtRVpPeU9wY1RrT1RtLUxZVTlmakJfSmlJbW4teW5vZDItN1Q3d2trSDlJSG5nWTk0aHVIOVgzYTNDX1NIT18tNFd5MlctWmN2c2NxRjViak5KbTFESUtqcGlrNjF1NEpYRHpsVTljdzE2THE2V0ZWWFNsZzUtcDVOcy1mV3VBMEpmY01wblBGMTU2b25KaXJjNjl5U25NXzU4UWdpQ2lVT2ZMVXhGOEhybDNHNUVYNnJkTUhIb1VQbS1YZEc5SmpvTDVSdTE5R01fZGpJbEZOdTdY?oc=5
 
-- US bull market nears fourth anniversary, but narrow rally raises risks
-  The ongoing US stock bull market is nearing its fourth anniversary with strong corporate earnings and low volatility. Investor concerns are rising due to the disparity between benchmark indices and the performance of individual stocks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bull-market-nears-fourth-anniversary-but-narrow-rally-raises-risks/articleshow/134839055.cms
+- India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera
+  India protest live: ‘Cockroach
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFh3OXM2ZTFtXzA3b1U5OTc2cmZXb1hsaTVtcndObVliQUZHaWxHZ3NNeWhzb2VjVVF5TlJfSmhuYjd6UW1UcUxyYUVneC1WVDBFaUZJRHhMaGhpSWdBelRmR01JUngtbk96Mi00WXZIbW5EQjN5OG5jWksyRkcxZ25JQ0txUFh5cGFWQ1A2WE4yS3JWX3lVbnlWSWJwT0l0SFlJY283ejJ6Vlk2WEg5Q1B0TllMVklzZ2Q3MGo1M2LSAcYBQVVfeXFMTjB1UGViQjJCQm14S19HaEpfR1h1NV80OVhLUjhrVkVjWnBiMW50Q0xta2VYQXZ2bVotangzS3RsMWtBcXRGMEhhTUlqS01Sd1cwaHZkNlBvZG9sczE4emEteHhuNlZoNWVsNkFrR0l2YlZacGdYTVJESTNjOXRPTlVtdGdOeXFHZ25BQm5QTW4zampLQkRUQ3V5cU5XNk1STVBydmlDZUsydTJRcm9QUnp0STBHS0RBY0RlWG5FYy1yQ2ZKaDNR?oc=5
 
-- Anthem Biosciences block deal: Portsmouth Technologies sells 30 lakh shares worth Rs 250 crore
-  Portsmouth Technologies LLC executed a block deal selling 30 lakh shares of Anthem Biosciences. The shares were sold at Rs 833 each, totaling Rs 249.90 crore. Following this transaction, Portsmouth's estimated stake in the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/anthem-biosciences-block-deal-portsmouth-technologies-sells-30-lakh-shares-worth-rs-250-crore/articleshow/134838383.cms
+- Meet India's feisty Gen Z protester who is taking on Modi - BBC
+  Meet India's feisty Gen Z protester
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE56cE5iY2YyZXFxRFpVelU4VmNzX1REajlDR184bUdkY3VLcmx6QktwbEhPTFAwU2thVlIyZEhBaDdHZ0prRkwtSmUzLU1XdE1SUVpWREZhUXlmRUk?oc=5
 
-- Poonawalla Fincorp Q2 profit surges fivefold as income rises
-  Poonawalla Fincorp reported a substantial increase in net profit for the second quarter, rising over fivefold. New loan products accounted for a notable percentage of disbursements during this period.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-surges-fivefold-as-income-rises/articleshow/134838286.cms
+- D2C Brand Nat Habit Raises ₹142 Cr To Scale Offline Expansion
+  D2C personal care brand Nat Habit has raised ₹142 Cr (around $14.7 Mn) in an all-primary funding round.
+  🔗 https://inc42.com/buzz/d2c-brand-nat-habit-raises-%e2%82%b9142-cr-to-scale-offline-expansion/
 
-- Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWMGV3My1wWF80ejNxLWZBVmZNb21Pd3E1dUxCNmR4bEwxRnFkUVFKLVhaZDBGblota3d2RU1EOTVUdzVNamVQV2pwem9XR1lMZnlvWGJlaHRZVVE?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWMGV3My1wWF80ejNxLWZBVmZNb21Pd3E1dUxCNmR4bEwxRnFkUVFKLVhaZDBGblota3d2RU1EOTVUdzVNamVQV2pwem9XR1lMZnlvWGJlaHRZVVE?oc=5
+- OpenAI, Anthropic Prepare For Backlash Over Potential AI Catastrophe: Report
+  OpenAI, Anthropic, and other AI companies are reportedly preparing for the public and political backlash that could follow a catastrophic AI failure.
+  🔗 https://inc42.com/buzz/openai-anthropic-prepare-for-backlash-over-potential-ai-catastrophe-report/
 
-- On Starlink Row, Musk's "Is Ambani Real Boss Of India" Question - NDTV
-  On Starlink Row, Musk's "Is
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHpWTWVtbTkwTGpJNE8tOHZjNlY4QnNVMFJELXRVS3dMZWpPcmJQUnZITXdWaFRCcG1tTmprbUVWdGl0ak1MQ3pmdHBPYl9LWU1Fa1dRVHU4dkROLTZNdkdzTXNzd0xWaFkxT1FHMjExSFVyamhzaElET21sRG00RUJIbzNDM0VSTW9lcmRKZ282NDV4TENnTW92SmtEdDlwaHZueVJYOEdYem9ybjRLWVB0T3hQbzBqQ1hpOUJ30gHGAUFVX3lxTE5zLXZ4djZGWDlETk12S3RaXzBSZ2RkSkI0clVYdHFmVXdFNGhrRy1hUWw0M2ZIQmZKVW9HbWxTbU1hUml3b2xBd1c5UnF2S2d4YVF6dU00NzEtSlpReUJ1Z1JaRHRqdU1JN0s3LUFVbFNRRzlFNzFVNjZnSHNaeE1pVnVFS3R4OVRNUVNtVC1lSmVsZnpNczhYOXYzQ2llQjF1dDYwbS1IR244RXhMUkN2eERlNGtpZ3NOMWg2WmdOODZLRHRqZw?oc=5
-
-- Starlink: Why Elon Musk is taking on Mukesh Ambani and Jio over satellite internet - BBC
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yeXN6YkROVGN4ZEpISXlicm9HUjZUZGZoYW1ZYjFlR2NDNVZtTjBBLXhHWGxwNlhvQ05YTHl6NG9YVFpSU3F5Qml2MHVscnZtUlhCeGxkb3J6RTQ?oc=5
-
-- Dear Prime Minister Ambani, accept my apologies: Elon Musk - The Times of India
-  "Dear Prime Minister Ambani, accept my apologies
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnN2ZS00Ukc4ZFFQVnJtT3kxZXRGNlVmWVp1N1VJa1psdnEzM3VqekkzcG1sRDVyV1VwczBzMWRLOV9HX0tFeV95Skx0TGZLVXpTbjBNak41UHNnblJVOHk5VmQ5LTNWSTd0SVZ4M09yYmt4VHZfLVlma0VUS3YxYW1rZ0ZDeUIxUTlnTnRRc0o5ZFVYcHB5dGpLaE1KVVNURlNjb2JqLVM4M0g1Ulo1RlpCZjRrcXh3VG4tMXNhOURxZ9IBxwFBVV95cUxOanVJN253aGhEaU9CVUptQ3VXOEtBTnRTMU5odldyQXpiRGZOVkRqdV9KbjRvRVhSY3ltaUdvc0IyRzRpM24yWWM2RVE0TjVMRGZEMXNpWVBuc3ZjYWdBTmc0TS11VjAtWTcxMVRQQUZubEQzU1BBWk0wTUlYS3g1WWZfUktkcmd2RVN2S01OdFpneENHLWdqd2dFUGhOdGthWG9ZcnVXanhYeC00ZjRzNkhKRjl6LXBscFBYZkx6VjlteFU0NnQw?oc=5
-
-- India's TCS senior staff will miss out on variable pay for September quarter, memo shows - Reuters
-  India's TCS senior staff will miss out on variable pay for
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWxHNzNJUF9FTlpsWm1aWU1SNDlZa2otRXVveFhzeHN3NXF0NnRfdUpVQTJBd25xZ2x3d0hld21TalhQT2o4V1E3WllFYV9qMFZQclFKNGlMeU85c3E2Y0VRbVhMYVRaQktuX2MyamN0VlFkTExmUjhyWXMzem4yWXk1bGRVMmNSRGtWa0M1aGgweEtfSFQycFItdHZBUmNNdHJsaWpSc3BwaTBieE15LTNuZXlZWFcwdnlFWFh5VGtSM2M1cHc?oc=5
+- From DailyObjects To StockGro — Indian Startups Raised About $123 Mn This Week
+  Indian startup funding fell 47.4% in the first week of October. 25 startups raised $122.9 Mn between October 5&#8230;.
+  🔗 https://inc42.com/buzz/from-dailyobjects-to-stockgro-indian-startups-raised-about-123-mn-this-week/
 
 - Peak XV Sells Awfis Shares Via ₹30 Cr Bulk Deal
   Early backer Peak XV Partners has sold 12.2 Lakh shares of coworking space provider Awfis in a bulk deal.
@@ -168,57 +120,25 @@
   OTPless has roped in former BharatPe executive Geetanshu Singla as its new chief technology officer.
   🔗 https://inc42.com/buzz/otpless-ropes-in-ex-bharatpe-exec-geetanshu-singla-as-new-cto/
 
-- Govt Orders Suspension Of Internet Services in New Delhi Amid Protests
-  The Ministry of Home Affairs (MHA) approved a 24-hour suspension of mobile internet services in New Delhi.
-  🔗 https://inc42.com/buzz/govt-orders-suspension-of-internet-services-in-new-delhi-amid-protests/
+- ‘How can you stop these kids?’ Indian capital on lockdown before protests - Al Jazeera
+  ‘How can you stop these kids?’
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3pKNTA5U0FvcURRVldFQlN1TnlTWDl3RU41ckw0ZmFOWkVQWlc2NUt6UGpXZXlVMV9HZURBcXI3NlFmNnFIcms4elMzTGRLWXY1VEdGN3BkMzk2a3NTTmxINjAyczBzeDllNGd2aDRQeVVBZ0dtZmxWdTYtLVU5T01BWlJTZ3JpZS04SUE5a0JDaUY3VmJPWkl5OGc1a1FEWG9SX09GRXctTWhuTjQ4c25B0gG3AUFVX3lxTE5iMFhPREN5dWNaMXhjSG5kRjVNbnduTWYxcmh3bTNjMkdURVh1OUJTa2JYUXhsNWQ5b3JfTW1TUk5ETFZ5c082UldGMkxTYnR2a25XSVpmcDlfYURrdzM4VEp0VDBMYVl4SU9QQjd4RUxhWGxpTk5ETDNyNTBRUHpCT2F3cms4UHZEamxXWHpkcnFkN0xIcWRPUkdkWHFoSzlxMEVlcHN0Yl9ZU2xwcTdhY0lieEZlWQ?oc=5
 
-- Bewakoof’s FY26 Net Loss Jumps Nearly 20% To ₹87.4 Cr; Revenue Crosses ₹200 Cr Mark
-  After improving its bottom line performance in the fiscal year FY25, D2C fashion brand Bewakoof reversed the trend.
-  🔗 https://inc42.com/buzz/bewakoofs-fy26-net-loss-jumps-nearly-20-to-%e2%82%b987-4-cr-revenue-crosses-%e2%82%b9200-cr-mark/
+- India to deploy thousands of security forces in Delhi for protest over poll chief - Reuters
+  India to deploy thousands of security forces in Delhi for protest over
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3Y0OVJCem1ZWlNZeHdtdlBzUzBkOGI3My1pNUsxUmxveW5PS1NHamdnLWg1dUMtaXNXME9pLXR0ZVQ3WnlFY3lpSjBmMklvaV93ZkNlMl9SOUZqNUctTEtOTzRhbGhHOTNrSEdFY1g5cFhYODN0eWF3VUowT2JROW9BU3ppenZVQmtzbVNkaG9MMWFwekZ1Ry1PcHpMUmJpSWN3emt3NUNqb254VlBQdTZUbw?oc=5
 
-- Payments Vs Lending: The Tale Of Paytm’s Two Engines
-  Paytm began as a digital wallet, became a payments behemoth on the back of that and then built up the bank.
-  🔗 https://inc42.com/features/payments-vs-lending-the-tale-of-paytms-two-engines/
+- 'India Is Not A Banana Republic': BJP Attacks Congress, CJP Amid Protest Crackdown - NDTV
+  'India Is Not A Banana Republic': BJP Attacks Congress
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNREFhRzVzeW16RFI0Vl9YOTZBa0xISHpSQ3o2YlJoYmFVdHpUcDRQVS1idng1c0k4T2lvU2ZSVk5nNEZFRlBVLXZCMHhaeEtKc1ZaS0ozY01uNFZIQjh0WERGMGNDZU1yQ3dIZVNEQlZ6Q25KSzVwYVdPcUVpeVVNR0taRHNJZ2tod2hLUGRRN09TVzZCd3RtblRCTXdsRXV2OVFkVXI1dmV2UlI2a2R2dnBOU3NxTFliVnFxclF0STBhRnRNazVqY3VkLVIyMXpIY0VfMmxMQWY2eDBLRmVwV2VoOGcwR1lvaXMxddIB9AFBVV95cUxNUzEwR2hFRWN3V1lETlUzTER1aVpXeHpZdlVtRVpPeU9wY1RrT1RtLUxZVTlmakJfSmlJbW4teW5vZDItN1Q3d2trSDlJSG5nWTk0aHVIOVgzYTNDX1NIT18tNFd5MlctWmN2c2NxRjViak5KbTFESUtqcGlrNjF1NEpYRHpsVTljdzE2THE2V0ZWWFNsZzUtcDVOcy1mV3VBMEpmY01wblBGMTU2b25KaXJjNjl5U25NXzU4UWdpQ2lVT2ZMVXhGOEhybDNHNUVYNnJkTUhIb1VQbS1YZEc5SmpvTDVSdTE5R01fZGpJbEZOdTdY?oc=5
 
-- Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWMGV3My1wWF80ejNxLWZBVmZNb21Pd3E1dUxCNmR4bEwxRnFkUVFKLVhaZDBGblota3d2RU1EOTVUdzVNamVQV2pwem9XR1lMZnlvWGJlaHRZVVE?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWMGV3My1wWF80ejNxLWZBVmZNb21Pd3E1dUxCNmR4bEwxRnFkUVFKLVhaZDBGblota3d2RU1EOTVUdzVNamVQV2pwem9XR1lMZnlvWGJlaHRZVVE?oc=5
+- India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera
+  India protest live: ‘Cockroach
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFh3OXM2ZTFtXzA3b1U5OTc2cmZXb1hsaTVtcndObVliQUZHaWxHZ3NNeWhzb2VjVVF5TlJfSmhuYjd6UW1UcUxyYUVneC1WVDBFaUZJRHhMaGhpSWdBelRmR01JUngtbk96Mi00WXZIbW5EQjN5OG5jWksyRkcxZ25JQ0txUFh5cGFWQ1A2WE4yS3JWX3lVbnlWSWJwT0l0SFlJY283ejJ6Vlk2WEg5Q1B0TllMVklzZ2Q3MGo1M2LSAcYBQVVfeXFMTjB1UGViQjJCQm14S19HaEpfR1h1NV80OVhLUjhrVkVjWnBiMW50Q0xta2VYQXZ2bVotangzS3RsMWtBcXRGMEhhTUlqS01Sd1cwaHZkNlBvZG9sczE4emEteHhuNlZoNWVsNkFrR0l2YlZacGdYTVJESTNjOXRPTlVtdGdOeXFHZ25BQm5QTW4zampLQkRUQ3V5cU5XNk1STVBydmlDZUsydTJRcm9QUnp0STBHS0RBY0RlWG5FYy1yQ2ZKaDNR?oc=5
 
-- On Starlink Row, Musk's "Is Ambani Real Boss Of India" Question - NDTV
-  On Starlink Row, Musk's "Is
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHpWTWVtbTkwTGpJNE8tOHZjNlY4QnNVMFJELXRVS3dMZWpPcmJQUnZITXdWaFRCcG1tTmprbUVWdGl0ak1MQ3pmdHBPYl9LWU1Fa1dRVHU4dkROLTZNdkdzTXNzd0xWaFkxT1FHMjExSFVyamhzaElET21sRG00RUJIbzNDM0VSTW9lcmRKZ282NDV4TENnTW92SmtEdDlwaHZueVJYOEdYem9ybjRLWVB0T3hQbzBqQ1hpOUJ30gHGAUFVX3lxTE5zLXZ4djZGWDlETk12S3RaXzBSZ2RkSkI0clVYdHFmVXdFNGhrRy1hUWw0M2ZIQmZKVW9HbWxTbU1hUml3b2xBd1c5UnF2S2d4YVF6dU00NzEtSlpReUJ1Z1JaRHRqdU1JN0s3LUFVbFNRRzlFNzFVNjZnSHNaeE1pVnVFS3R4OVRNUVNtVC1lSmVsZnpNczhYOXYzQ2llQjF1dDYwbS1IR244RXhMUkN2eERlNGtpZ3NOMWg2WmdOODZLRHRqZw?oc=5
-
-- Starlink: Why Elon Musk is taking on Mukesh Ambani and Jio over satellite internet - BBC
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yeXN6YkROVGN4ZEpISXlicm9HUjZUZGZoYW1ZYjFlR2NDNVZtTjBBLXhHWGxwNlhvQ05YTHl6NG9YVFpSU3F5Qml2MHVscnZtUlhCeGxkb3J6RTQ?oc=5
-
-- Dear Prime Minister Ambani, accept my apologies: Elon Musk - The Times of India
-  "Dear Prime Minister Ambani, accept my apologies
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnN2ZS00Ukc4ZFFQVnJtT3kxZXRGNlVmWVp1N1VJa1psdnEzM3VqekkzcG1sRDVyV1VwczBzMWRLOV9HX0tFeV95Skx0TGZLVXpTbjBNak41UHNnblJVOHk5VmQ5LTNWSTd0SVZ4M09yYmt4VHZfLVlma0VUS3YxYW1rZ0ZDeUIxUTlnTnRRc0o5ZFVYcHB5dGpLaE1KVVNURlNjb2JqLVM4M0g1Ulo1RlpCZjRrcXh3VG4tMXNhOURxZ9IBxwFBVV95cUxOanVJN253aGhEaU9CVUptQ3VXOEtBTnRTMU5odldyQXpiRGZOVkRqdV9KbjRvRVhSY3ltaUdvc0IyRzRpM24yWWM2RVE0TjVMRGZEMXNpWVBuc3ZjYWdBTmc0TS11VjAtWTcxMVRQQUZubEQzU1BBWk0wTUlYS3g1WWZfUktkcmd2RVN2S01OdFpneENHLWdqd2dFUGhOdGthWG9ZcnVXanhYeC00ZjRzNkhKRjl6LXBscFBYZkx6VjlteFU0NnQw?oc=5
-
-- India's TCS senior staff will miss out on variable pay for September quarter, memo shows - Reuters
-  India's TCS senior staff will miss out on variable pay for
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWxHNzNJUF9FTlpsWm1aWU1SNDlZa2otRXVveFhzeHN3NXF0NnRfdUpVQTJBd25xZ2x3d0hld21TalhQT2o4V1E3WllFYV9qMFZQclFKNGlMeU85c3E2Y0VRbVhMYVRaQktuX2MyamN0VlFkTExmUjhyWXMzem4yWXk1bGRVMmNSRGtWa0M1aGgweEtfSFQycFItdHZBUmNNdHJsaWpSc3BwaTBieE15LTNuZXlZWFcwdnlFWFh5VGtSM2M1cHc?oc=5
-
-- Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWMGV3My1wWF80ejNxLWZBVmZNb21Pd3E1dUxCNmR4bEwxRnFkUVFKLVhaZDBGblota3d2RU1EOTVUdzVNamVQV2pwem9XR1lMZnlvWGJlaHRZVVE?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWMGV3My1wWF80ejNxLWZBVmZNb21Pd3E1dUxCNmR4bEwxRnFkUVFKLVhaZDBGblota3d2RU1EOTVUdzVNamVQV2pwem9XR1lMZnlvWGJlaHRZVVE?oc=5
-
-- On Starlink Row, Musk's "Is Ambani Real Boss Of India" Question - NDTV
-  On Starlink Row, Musk's "Is
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHpWTWVtbTkwTGpJNE8tOHZjNlY4QnNVMFJELXRVS3dMZWpPcmJQUnZITXdWaFRCcG1tTmprbUVWdGl0ak1MQ3pmdHBPYl9LWU1Fa1dRVHU4dkROLTZNdkdzTXNzd0xWaFkxT1FHMjExSFVyamhzaElET21sRG00RUJIbzNDM0VSTW9lcmRKZ282NDV4TENnTW92SmtEdDlwaHZueVJYOEdYem9ybjRLWVB0T3hQbzBqQ1hpOUJ30gHGAUFVX3lxTE5zLXZ4djZGWDlETk12S3RaXzBSZ2RkSkI0clVYdHFmVXdFNGhrRy1hUWw0M2ZIQmZKVW9HbWxTbU1hUml3b2xBd1c5UnF2S2d4YVF6dU00NzEtSlpReUJ1Z1JaRHRqdU1JN0s3LUFVbFNRRzlFNzFVNjZnSHNaeE1pVnVFS3R4OVRNUVNtVC1lSmVsZnpNczhYOXYzQ2llQjF1dDYwbS1IR244RXhMUkN2eERlNGtpZ3NOMWg2WmdOODZLRHRqZw?oc=5
-
-- Starlink: Why Elon Musk is taking on Mukesh Ambani and Jio over satellite internet - BBC
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yeXN6YkROVGN4ZEpISXlicm9HUjZUZGZoYW1ZYjFlR2NDNVZtTjBBLXhHWGxwNlhvQ05YTHl6NG9YVFpSU3F5Qml2MHVscnZtUlhCeGxkb3J6RTQ?oc=5
-
-- Dear Prime Minister Ambani, accept my apologies: Elon Musk - The Times of India
-  "Dear Prime Minister Ambani, accept my apologies
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnN2ZS00Ukc4ZFFQVnJtT3kxZXRGNlVmWVp1N1VJa1psdnEzM3VqekkzcG1sRDVyV1VwczBzMWRLOV9HX0tFeV95Skx0TGZLVXpTbjBNak41UHNnblJVOHk5VmQ5LTNWSTd0SVZ4M09yYmt4VHZfLVlma0VUS3YxYW1rZ0ZDeUIxUTlnTnRRc0o5ZFVYcHB5dGpLaE1KVVNURlNjb2JqLVM4M0g1Ulo1RlpCZjRrcXh3VG4tMXNhOURxZ9IBxwFBVV95cUxOanVJN253aGhEaU9CVUptQ3VXOEtBTnRTMU5odldyQXpiRGZOVkRqdV9KbjRvRVhSY3ltaUdvc0IyRzRpM24yWWM2RVE0TjVMRGZEMXNpWVBuc3ZjYWdBTmc0TS11VjAtWTcxMVRQQUZubEQzU1BBWk0wTUlYS3g1WWZfUktkcmd2RVN2S01OdFpneENHLWdqd2dFUGhOdGthWG9ZcnVXanhYeC00ZjRzNkhKRjl6LXBscFBYZkx6VjlteFU0NnQw?oc=5
-
-- India's TCS senior staff will miss out on variable pay for September quarter, memo shows - Reuters
-  India's TCS senior staff will miss out on variable pay for
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWxHNzNJUF9FTlpsWm1aWU1SNDlZa2otRXVveFhzeHN3NXF0NnRfdUpVQTJBd25xZ2x3d0hld21TalhQT2o4V1E3WllFYV9qMFZQclFKNGlMeU85c3E2Y0VRbVhMYVRaQktuX2MyamN0VlFkTExmUjhyWXMzem4yWXk1bGRVMmNSRGtWa0M1aGgweEtfSFQycFItdHZBUmNNdHJsaWpSc3BwaTBieE15LTNuZXlZWFcwdnlFWFh5VGtSM2M1cHc?oc=5
+- Meet India's feisty Gen Z protester who is taking on Modi - BBC
+  Meet India's feisty Gen Z protester
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE56cE5iY2YyZXFxRFpVelU4VmNzX1REajlDR184bUdkY3VLcmx6QktwbEhPTFAwU2thVlIyZEhBaDdHZ0prRkwtSmUzLU1XdE1SUVpWREZhUXlmRUk?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-10 03:56:25 UTC_
+_Last updated: 2026-10-10 11:47:56 UTC_
