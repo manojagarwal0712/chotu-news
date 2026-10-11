@@ -1,9 +1,5 @@
 # 📰 Daily News Summaries
 
-- India’s ‘Cockroach’ leaders released from detention after police crackdown - Al Jazeera
-  India’s ‘Cock
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNWGp5bTN6SWFLOFZzRUh1dW91ZFFvQUh6a0ZsVGJ0QXRrUzVabE1zeWc1VmJpSVhzR1hpdjR4cWhoVmxnNjMwZk9RM0J2YmtVcERyMk1PaFlQUi1DTnlqNk9hcFU3UUhzZllwLVJ5MW1WWDJnQm5yWnBNY1JOcFZ1U01RUFphSl9qWEVYSTZIOU9MNUdDSTZMSHJRR3FYUdIBowFBVV95cUxNaGdET2tqRll6Q2U3d3JaMTJRcmtadlI5aVp2MExsRWR1bm83b3FxWkFhYkh1VkxGRzhCNWQ0Z0VJS3QwLXhwYUh1YXRyVTJtX1k2TmRWUkY5UVJqaHcwSENzSTYzQzBRWXh6a0t0NEN1d3d2V0NQUWJKTXpFREc0alRVNDRZaTJPSDljY0tFMnJ3Vk5MV1hiUjlFWmtOSWluTDA0?oc=5
-
 - India: UN rights office urges release of ‘arbitrarily detained’ protesters - UN News
   India: UN rights office urges release of �
   🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fUktvUnlfYl82c1hBZVpRY09GQmN4UElfLUN0ZlhUQXA3eGo3ZlpKdlg1LU9ncE4xUHhZX0VIeWMwa2NKRFdvUWtUWU84SVczbHIwNXAySQ?oc=5
@@ -12,33 +8,49 @@
   "Unwarranted Interference":
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXdtTFFLeUZ0UURtRVlDLVVYajBFM0tFY1dUTzRmVVJaS2xzLWk0LUYweDItc2tMcVRYbnFIeGtnNzNvdDIwem43Z25OQXc2WllJM0p2emlRejNuLWtBbWNTZWxOdDdTLVV2YlpyOHowLTdOb3F6c3czczNzWUtRWHk3Z280eVJUdzNZYkw3VnJPdUJGbVZyQU8yNlhMT3ZwMWVlLU1KdlNfZTJROWfSAbYBQVVfeXFMTkZ2VlR4YXZhcXJvTDN0eV9CTURkZV8zb1NWUnI3Nnp6N0s4c040TmNRaUtsVkpjdTJWZTJYenhZN3htVG0tRGQyc2g5c1E3Z0J2ZUktOU5rc2NlcV9yOFFOV25iM3RCZHVRTXEySm1HYklwM3pYb1c0aXp0ZXlPdFRhLTZqNWJsYkw1Z1RSVm1mSks3YzVvc3BPWDdnc3EwbHptNmRfeEdraktZbUZLNnFTXzNtVVE?oc=5
 
-- Chhattisgarh cabinet congratulates PM Modi on completing 25 years as head of government - The Times of India
-  Chhattisgarh cabinet congratulates PM Modi on completing 25 years
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORk5aRXlMWnZ4a2ZzcEYydjJiWVFhdGZBR1JlUVRZOU9NZGJkTVU1YTRwV2pfMnhpc3gtdU1fSDR5emZ4dTJib3BGSW1Ia0pmVFpUb3VpTFFYc3E5YmdsTzJhQ3cxd0lsTGxEVmQtdjlvOUNUa0xycnFGZWc1RWZUeDd0TlhtMVZfNEJPNENKWVNFN0ozRFV6MHdTNEZSUHFBUzNtTVZoejFPRWh2MlhlNVRpcXM4YjFuWV9aSE10U29ocEtxM1A3Y2UxZm5wY05MM3o5RUtUQXZiMUEwU1hNcU5n0gHnAUFVX3lxTE1KT3lyMlR0X2U4SDMxX2xWVzRDRWZNZEhHY3EtVzdRcWR1cjdhUTY3eDNJUENHV1A5eHR6aHl1S0tQOW9YaEwyT2c0b0xic0MtUTExclptWWlYQ1hpRTdRSzNneG15QkhkTlg1cmtWend6VEhsVTZpVGRBY0w4LUFuMFlrY2x1U2pCaVRXa1FoNkRaVmdjRy1fLTd6N3l6Rk9aTXAxTTFweThTR1p3aEFJZUtsOHR5TjRsS1BzQ2dGMElLemR3dE0wN1RUb09OVkNIUGJMVlQ5UEtPd1hKMzYtSDBoQThMVQ?oc=5
+- India rejects UN rights body’s remarks on New Delhi events; Cites ‘double standards and unwarranted interference in its internal affairs | Akashvani News - News On AIR
+  India rejects UN rights body’s remarks on New Delhi events. Cites ‘double standards and unwarranted
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGZEelFodHE0YU1RUDdWN0kzN0gyQ1FjN05IMUhGZkFGOFM4ZFE5X3l5RXBaMjRQTmdtUDJzM2JSY2I5WjFjQm5LZEtEN0E2YTFXT0N1bFlvTE1aNjNsZi11UlE3alduQ29XLU9wUnA5emExTEt5YTV1U1lFWTlNZndqczFKZWJFbHQ5RXp3dTdKYlZnNXZhdG82a2p0ZXVLdmlBd1hVcVY?oc=5
 
-- Steve Smith scripts history, breaks Joe Root's Test record in first Test vs South Africa - The Times of India
-  Steve Smith scripts history, breaks Joe Root's Test record in first Test vs South
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb05pLTNqRm50VHFlSlJ3d0k3ZC15a1pXTldKc19TeWJyaEJfcl9veU9JZWRZQ2hGaTB6S2dMRkRJcHViMVZCYm84bzFRQmc5MnBteTUtSzRiRndhbE5EWFZyUDc4ZC1WYmNCU0pkMmZQcjVrX0NhaXFlSWVEa2JvYUxIeExwOEdCcWl1azU2TkJEaTg4WWRzbldIX2dJd0MxTVFuZE1McVRWS1pLU3RnVk9JVEtIckVIeGFfMXFmcGhWRXpFalRaZ0xZbFVWZUJ1MHdxUERHQmNvWnYwbXNfTVM0ajhjakNiWFJpakE3ME9kM3JacDE1WEw2dHbSAYICQVVfeXFMT0xIVVNMc0hFVHJnalNOWWc1NUpJTWdyN2wtWXNKdFpGNk8tLXFLN0JLamF0XzI0amgxN1U0MTBxcUNBMlJnU0pDTk5fSkpadDUweXFabk1GLUtPUGJwZFFrUE1DRDFfcUJzUzJMdzl0OFU4Z2xpSUExMDVQVlVxSS1IZkg1TVNZVWpkaVA5TlQ1T0hJTXRpSWhKNEFhZmhLWm1jYjJaUk1UZVNlUTdrX0FhVTBkbmdleUtTVXhGVGQwUTluMHFtYkxBVlBwTFBHWUhsOTc5R1F0WUotYklBeURKTmttb1E0M25BWHJMaTNYSXgwaWNodk9vdnZiNDBGMnJn?oc=5
+- Anantha Nageswaran releases ‘white paper’ on AI, automation, and India’s workforce - The Hindu
+  Anantha Nageswaran releases ‘white
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2M5aGVpY05ETVFMUjFBeHVFUV9WOEFhR3JlN1hjcm9zX3lqZlBJT21GYnd4ektMY3ZOYVl1NGp2STdBNnZILWR6ZlhrT3pMOTdSUktkc0NqZUc1UGRtOEtST1FkMlRTVEN3N2NIckJYem1naEljSUI0cm1CVzFEUEtEeS0wT2tpaDl1eW9Sai1ySUJxcDkyMGh4Yl9QYWZaY0NzbEVQZGozaEpaenc4Zk52RUd0WFdEQzlTTXhGNURhYk1TUlhLRWMwUjBRTGV6dkstSlFMcEpmMmJ1amNMbNIB5wFBVV95cUxNRVc5SzI1NldaeExCZjQydDNjOWFDNm1TSzliSHFKTnA3d0ZLSzZ2WHFFSGUtWGtBaWctcElhcDNfSlFFU2g2Rng1NnlVSEFYbEo4WndfUmFZQWlrUW5DTTctN0FfSHZFRUIyVTdOOWpXNU5acWQzeFlmT3Z1a3JQaFB2eGh4M3J2TU5rNDB3UHJXRnE3UFV2TE5iYUVFSVFXa3Y2Tkp2aGRZWFFobWozNnkza2phRkVEWl8yMVRiVWRiUnZyWUJTZmttSDNydk92NjBFanQ5VVlHbHN1S3pHVGw2WF8zTWM?oc=5
 
-- King warns malicious online actors are evolving tactics - BBC
-  King warns malicious online actors are
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE95MS1ybm1iZG9QZWhWbm5pcEx0cHZLTm9udExWa0d6Vng3SmRBQ2x3QUlPWWxDMTZpdWJOUVBvY0Y1OGJac0NEMHRrUnNNNDJXdWZJdnFJWldXU28?oc=5
+- Indian National Dies After Riyadh Airport Attack; Death Toll Rises to 13 - News On AIR
+  Indian National Dies After Riyadh Airport Attack; Death Toll R
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPdkFQVUxNMHMxdTM4WlBNeDl5NFBHR2piaHBTendlSWlTeGRRWGxhdk5xSktyclM0cmhIMmwzaDdDdWJwNUNVLTdFRG05LXRYRUtpcUlKZ3NoS2d0OXUzMnJBRk5LcXpxbVU1OXF0Vnp4T3FjYVlGUW5PWkVUenJFUVBNemdrOFNXVkFwbXlTUUFKUC1HXzVmU0N3ZU03QQ?oc=5
+
+- AI is creating a 'human premium' for art made by people. But will it hold? - BBC
+  AI is creating a 'human premium' for art made by people
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE82U3g1TEhGeGhWTHJYYnlYeGR2SHJiWHVieWYwei0teDJRSDdodVVmN2lnNnNEel92a1RXei1mMy11Nm5LX1ZkRHNGZzczbzNXd29RM3FGY3IyeUU?oc=5
+
+- IIT Madras invites applications for Executive MBA Degree - Indian Institute of Technology Madras
+  IIT Madras invites applications for Executive MBA Degree
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTJfT3EyZUFhVGpPdEtnR2E3SEl4MndCRlFsSUljcXlSYnRLWm1pRk9kRUZuZi02Mkk0eU12RFljRi1mT0xGLWsyY2tnTXFnVDZ3ZTdPM3hraUw4ajVzTVQzVmlyazhETWprNVNjUUsxa2d6VlhYSlgwWXF4X0dwc1RtUS1NV3g1SkpuOGVDaG5SY2JWMXQ0X0I0YzMzRzZELWRZMEpwYnk0TlJrRHVYSlpWSGt0Zw?oc=5
 
 - Stubble Burning On The Rise Again: Can Tech Prevent Another Smog Crisis In Delhi-NCR? - NDTV
   " target="_blank">Stubble Burning On
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYTBwdk0tQ2dHX2RfcE1pVUtZUl9wbjZTbS1uNHV1MVppYVFpbUZoNFdTZXRMSWd6c1RTYlZZMEZvLXd1WENHOWpXQU9hQWUxcXVOTmRUQ2g0XzZMVzV2WVBiamItX093T1VjNmlNTVFQR0g0VExSUm1KN1JnSGRxd1Bzdi1ycTIwSVNFRnRmR19zckhuSDNuTm4waVp2dXZmSVJMS2FFelF5REs1dzlvRklHMVdDXzUtR0lXSEJqM3nSAcgBQVVfeXFMT2c1eGxjcF8teGIyd0k4Q1ExZjVaUkpJMzhOUzI5dmhjRmRadHZ6SlJXdDNlLW9iT1Vhc0pDSHRaUTJfbE1QZXdHdGd4eEcyOUZxdURObnN2Q2dkVEpYMjhjaHh1Ylo4Ym1MdWJ5aWM3Yzg3ZnVkOFdIUDBZOWZrUnFRSnB1UWJDYlpselNQSTJyTHA0ODlnRlE4R1hUdHNVYlJqMlhGRUQ3RFZzU0RCVzJhcENqbWNmYTRPUXgxdU44cWZZQTl2cE0?oc=5
 
+- UK school ditches technology, shifts from screen to pen and paper for learning - WION
+  UK school ditches technology, shifts from screen to pen
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGZZWjFVWmFtd1d4SjBwM1REcEF4c2pubW8yS1k5SldLU2RtVlNMaTRBWmZaY0ZndUlKS1RNekx0RVNjcEd1UUVUREFvQ0NBVXNmc090NEROcm5pcVBwZGN2QnBzNW1VcVNaQi1mdmZzV291Z0VuUDBhMEdOQTJ4ZjZ4NW5RX2dyRkdsMk9uUHBBVkpIWHRoeU8wYW5qR2Y5WmUydTZqNnZXTHJFcXA0SC05NjExaW04amhidHlNY0NSQdIBxwFBVV95cUxOWHBEMGhVYUZiZDNGc1VNRUJFNlR3RmxTU0lINlJjMnFXMXMyTTFSc2RlNWFXNmVlTlBQSWRkS0Y3Zjd4RTVnYTBSU1FsTFo1SFlTSm1tRWI0NzA2RTlYVC00WnkzY2g0OXkxOU5ORXhPQmRKZUhOblJiS0hTaEhwLWVjaXVRU1dwRURpaE9FTGxVeURfZmpsLUNTbXFtQzhWemtHT2gzcC1pZW9JVy03U0JIbTd0bDVRNDdDRmdGeUtmWmN6QTE0?oc=5
+
 - A washing-machine-sized NASA supported spacecraft will approach four defunct satellites and rocket bodies - The Times of India
   A washing-machine-sized NASA supported spacecraft will approach four satellites and
   🔗 https://news.google.com/rss/articles/CBMigANBVV95cUxPeFNYY1M3TEpOMVdPTzFVNmw0dzYxdVg1M2pGX3BiZnlrT0YwQXhKTEp4Zy1pUVFhSUtyenJpTUlaWHJJSUZndnhLRzBTMFdmRjlJNGxnOEJYOVpPQzJWMV9tN2VaV2JEbWZZd3gyWGhyMm1tZzRlR2FKSEt1eEpoeGtlaDg0LV81VFZ1OVktd09RVTNkSzRMOGNJLTM1UTZvVkV2N2QtVkI5aGhXRmhFRmhhbTd2enNtODVEZW1BRWJVU01XY2hENF9mLVNkVmpTZV9ET3g1QXV0MGpxX29aYUtjMzZuWWV0QkJsY2t4dTRlYTF3NlEyWVI3Nk1fWFJGT3lxbGZobTJpaVlWeUtWNnlUVTlIeVd1ZjZTa2lFQTNLSEZtQUJkc3BBR3RYWnN3bzNwTkpvdnliZkxuRi1MTHZSajJfZkpMWDF5b0lheXJsN3ZUOTdmajVQd1ptUWhmVVVLNlBzU1Q2RXVldVFHbmt4WUd0a1JxNTFUT0tlV03SAYYDQVVfeXFMTXRRSzlKeVhaNHNxa3lrNE9uQ2l0a1BpQWl2dzFBLWwtcHR4T280eGc5ODUxWFN6a3BmdFB6ZEpORXJSMGI0YVhrd0ktem9KcHpvTFdfeWM3ZXFhZGg1enlfN3Y0NWY3MnJsMHNZZjJlVGVyVmtFSWY1ak5DU0ZSR2FGLWNEY0FCNTVKQUprS214aGkwSDdOTHdONlJZb0hOUi1IX0thcWlDXzg1ajlkc3dkejByYzY2b3h6UHVJT1RpNFVna2RLQzVLa3Q4dmlkcG81MFV1WGZNcmp0RFdPemNNRlQ0cU1pU3hNMUZwMzZPN3VWY053anN2b2pqdVJpakd0WEF4TzNtSV9xSDJRY004a0UzVUF5V1BnVldTZV9RVWtzMzhvTHpqMTQzTENIbmhEdjBoc2RaU2UwdkREU2FzeVBVb1V1QTlvRk5qU1VNYzlsR3RvMDJOYlUyMGZYaGZlR0REMWhLS3dvbmRGZUNXa0lvaDhzU0Nja0RzUzVPeDQ5aW5n?oc=5
 
-- Tripura CM urges police to adopt AI-based technology for better traffic management - ThePrint
-  Tripura CM urges police to adopt AI-
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdWszR0RDTTJsYVhxbWlhYlJzbk1yWXp6UEIyNldVcnBpbWF4aGZhc0VNVzJBNmVxNXVncWs1eUJMMzVxamFJYnZMOEprR0VXUXVQU3hmaGtsX0JSYnU1eHhvY2lZVmN4dGQyV1d6bGlPTHdJclZGbWVna1NMOWt6UnpfdDY0aTF6R3diek1sM2lrbE9McmdkdFJjaHlLRXZ0OTB6NzdHS1gtdnViMzIwdS1aMDVYRHNI0gG-AUFVX3lxTE1lUm1SUUdWRDM0MDJzYUU3eHhTWThiUkc5RnBrc2gtMl94dVJDdi1iUTBZWWgxeVRxLWZnSWY2WHU0MkhoYzFXQTI5b0k2ZmtoM0txWTdYNEkzQ0Nuc0MzS24xajMzYkV5UjFIVUJGYThibjN2S0JhWlJrd25pbmFhR1VQRzRlZ3RSRC0xTW5DNXB3ODVCQlkyZ3lMZGEwYm5maGowYTVKUXFrenA4dlFxZ1ZMbjE0Y0s3OFpULUE?oc=5
+- Flipkart's former employees petition to include 20,000-30,000 of group's ex-staff in ESOP buyout: Report
+  Former Flipkart executives have launched a petition to get around 20,000-30,000 other former employees of the e-commerce platform to push
+  🔗 https://www.livemint.com/companies/news/flipkarts-former-employees-petition-to-include-20-000-30-000-of-groups-ex-staff-in-esop-buyout-report-11791729129614.html
 
-- Vyomkesh Tiwari named vice president, technology at Nielsen - Indian Television Dot Com
-  Vyomkesh Tiwari named
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEJlM1FvZkFOMjUtQzdUM1JiZXZPOEZ6MmFRNndpUTJ2ZjJfakFBWkdmOVdwZWJxUFpJdW53ZkRxQUhaQmluRjZ1MkJmSXdTWTAzakV0NGRrRkRIcHBPMmdRcklBUnhLMTJESkxtVDlYX0dvTjN5QzJnSmk5N1ZWZGh3OFBDb2R2cnRIUXdUU2Y3bTdKVG1F?oc=5
+- Jio-bp raises petrol price by  ₹5 per litre, diesel up  ₹3
+  This is the first time Jio-bp has raised prices this year. Other fuel retailers have raised prices
+  🔗 https://www.livemint.com/companies/news/jiobp-raises-petrol-price-diesel-price-reliance-nayara-omc-11791723147887.html
+
+- Nvidia's paid lunches vs Google's free buffets: Are stock perks the new Big Tech benefit?
+  Big Tech companies are changing their employee perks. From Google's free buffets to Nvidia's paid
+  🔗 https://www.livemint.com/companies/news/nvidias-paid-lunches-vs-googles-free-buffets-are-stock-perks-the-new-big-tech-benefit-11791722034271.html
 
 - Etihad Airways commercial chief Arik De exits after five-year stint, leaves key post vacant
   Arik De highlighted the scale of Etihad’s financial transformation and the growth in its revenue
@@ -48,37 +60,25 @@
    Milky Mist identifies itself as “India's fastest-growing packaged food company’
   🔗 https://www.livemint.com/companies/news/milky-mist-denies-fssai-inquiry-on-its-paneer-products-here-s-what-tamil-nadu-based-dairy-products-company-said-11791711100651.html
 
-- Aditya Birla unit seeks  ₹14,500 crore in loans, says report; here's why it needs the funds
-  Aditya Birla Renewables is seeking $1.5 billion in rupee loans from Indian banks.
-  🔗 https://www.livemint.com/companies/news/aditya-birla-unit-seeks-14-500-crore-in-loans-says-report-heres-why-it-needs-the-funds-11791702020254.html
+- Arab Spring, Hong Kong protests, Greece anti-austerity unrest: How historic mass protests shook stock markets?
+  Mass protests in Egypt, Hong Kong, and Greece coincided with sharp stock market declines. Egypt’s benchmark index fell 10.5% in January 2011. Hong Kong’
+  🔗 https://www.livemint.com/market/stock-market-news/arab-spring-hong-kong-protests-greece-anti-austerity-unrest-how-historic-mass-protests-shook-stock-markets-11791736652123.html
 
-- ‘Competition would greatly benefit average Indian’: Elon Musk takes a fresh swipe at Ambani over Starlink’s entry
-  SpaceX and Tesla CEO pointed out the “absurd hypocrisy” over “de facto
-  🔗 https://www.livemint.com/companies/people/competition-would-greatly-benefit-average-indian-elon-musk-takes-a-fresh-swipe-at-ambani-over-starlink-s-entry-11791689732466.html
+- Food delivery stock to buy: Eternal shares - 36% returns in 6 months by Zomato parent | 22% more upside ahead?
+  Eternal shares have gained nearly 36% in six months. Analysts cite quick-commerce growth, stronger customer retention and improved efficiency. Joindre Capital rates the
+  🔗 https://www.livemint.com/market/stock-market-news/food-delivery-stock-to-buy-eternal-shares-36-returns-in-6-months-by-zomato-parent-22-more-upside-ahead-11791726764938.html
 
-- Elon Musk's SpaceX ambition grows: From being ‘worth more than Earth’ to ‘orders of magnitude’ beyond the global economy
-  Tesla and SpaceX chief executive said he could see a path for SpaceX to reach a valuation far beyond the economic output generated worldwide.
-  🔗 https://www.livemint.com/companies/people/elon-musks-spacex-ambition-grows-from-being-worth-more-than-earth-to-orders-of-magnitude-beyond-the-global-economy-11791666095893.html
+- EV stock to buy: Ather Energy shares - 130% returns in a year, Bank of Baroda Caps sees 19% more upside | Target price
+  Ather Energy shares have risen sharply since listing in May 2025. BOBCAPS sees further upside and expects the company’s planned move into
+  🔗 https://www.livemint.com/market/stock-market-news/ev-stock-to-buy-ather-energy-shares-134-returns-in-a-year-bank-of-baroda-caps-sees-19-more-upside-target-price-11791724539573.html
 
-- Hitachi Energy vs CG Power vs Siemens Energy: Which power stock offers best returns? Check target prices
-  Brokerage forecasts for Q2 FY27 point to growth across the three companies. Hitachi Energy is expected to post a 17% EBITDA margin and  ₹77
-  🔗 https://www.livemint.com/market/stock-market-news/hitachi-energy-vs-cg-power-vs-siemens-energy-which-power-stock-offers-best-returns-check-target-prices-11791717480656.html
+- Ola Electric  ₹1k cr rights issue: Check dates, per share price, face value, premium, record date, ratio - Details
+  The issue is scheduled to open October 22 and close October 30. Shareholders holding stock on October 13, 2026, will be eligible for two rights shares for every 25 shares held.
+  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-rs-1k-cr-rights-issue-check-dates-per-share-price-face-value-premium-record-date-ratio-details-11791723054877.html
 
-- Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch?
-  After snapping their longest weekly losing streak in 25 yrs, the Nifty 50 and Sensex face a crucial test in the coming week. Technical analysts identify key support and resistance levels.
-  🔗 https://www.livemint.com/market/stock-market-news/market-strategy-where-are-nifty-50-sensex-bank-nifty-headed-this-week-top-things-investors-should-watch-11791713354067.html
-
-- Markets with Bertie | What if the AI bubble has already burst?
-  Bertie expects the AI bubble to burst after reading warnings on excessive investment. Vik argues that markets already repriced many AI stocks and that the bubble may deflate gradually.
-  🔗 https://www.livemint.com/market/stock-market-news/ai-bubble-burst-bertie-excessive-investment-public-opposition-data-centres-rising-interest-rates-stocks-11791704738597.html
-
-- Top 3 stocks to buy: Bharti Airtel, ITC, PNB by Ganesh Dongre of Anand Rathi | Target price, stop-loss, Nifty outlook
-  22,000–21,700 remains a crucial support zone for the key
-  🔗 https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-bharti-airtel-itc-pnb-by-ganesh-dongre-of-anand-rathi-target-price-stop-loss-nifty-outlook-11791709861173.html
-
-- Dividend stock or dividend trap? Top 3 checks that could make or break your stock pick | Expert weighs in
-  Dividend yield can help identify income stocks, but it should not be the sole basis for investment. Investors should assess dividend durability,
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stock-or-dividend-trap-top-3-checks-that-could-make-or-break-your-stock-pick-expert-weighs-in-11791711723385.html
+- Dividend record date stocks this week: TCS, Vedanta, Anand Rathi Wealth shares - check dates, amount and payment details
+  Vedanta, TCS and Anand Rathi Wealth have announced interim dividends. Vedanta and TCS set October 14 as the record date,
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-record-date-stocks-this-week-tcs-vedanta-anand-rathi-wealth-shares-check-dates-amount-and-payment-details-11791720954556.html
 
 - Tiny cooler on your phone? OnePlus is making it happen with Ice Card Mini; here’s how the pocketable accessory works
   The Ice Card Mini is a compact magnetic cooler designed to reduce phone heat during gaming. Weighing 50 grams, it attaches to a phone
@@ -100,27 +100,27 @@
   Venezuela's interim President Delcy Rodriguez has authorised Elon Musk's SpaceX-operated satellite internet service Starlink.
   🔗 https://www.livemint.com/technology/venezuela-authorises-musks-starlink-to-operate-in-country-11791644535437.html
 
-- Stock Market News, Oct. 9, 2026: Stocks Rise as Tech Shakes Off Thursday Selloff - WSJ
-  The WSJ looks at how tech companies will react to a
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHZKd1dONWRQcmhia0FBdXNzSVdNOC00d0lsS19DcjM1QW50OEU3ci16N2VrVGcySkZhRVFlZDhua1dEdE1NS0w3TjRRTlZsMU83Q0xxNktrVWk3Ukg5aHNJZ0FtaTZtVzRmWjR5Z0szcFpXVVdVd3lKWHZHanNNbjY5VzVkQ00?oc=5
+- Inflation data, IT earnings, crude oil to steer stock markets this week, say experts - The Times of India
+  Inflation data, IT earnings, crude oil to steer stock markets this week
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPN2t5cS1Qa1lKSFZHRERYX2I3TlVYTktJTXhLT1o2LU44azl4aXI0blhJYmpObzU5dFUzbFRtQmw4M1RQaVl6N1hTT005M0h0LUFaUWJKblZCRTlSa2VDWHFQam05d3BrM2NCQkx2NnFpRjZlandBY1F4OEZOMkVaZm5sOEdudFVuQlNDR19NcUozMk5KVnM1eVNoa1gwd1FEXy0tRlh1a2xtY2VzLTN0NGdTYzUxYkhxWWs1dXo4WHdXdEpVVkpuT3lCQkxrN2Nyd2dwa0JEUG94NUw0RnVfQ2pmalBiOEFVeFQ0R2tXdC1QejR3RFJUTjVWWdIBgAJBVV95cUxNVkdocFJtMkJaSVoxTE1QVlVYMXdWNlpGdjhwaWlRamN5azJiMmwyNzczNVJfWk1vcy1HbGx4N3loOWVuaTk1ZWdiOHFsY3ZPdGtSY0o5ZkZqX2dwb3dQMTl6X1RyeGFQazNUZDh4Vk03eFVVSnR3MjZBUjhaRldfTmxldEJfSGUzaVFqY3pWV21LTjhvNHpMMThzOEJza3g1VUlJc3hwRjJUVi1XMTVYakVZb1pfWl9yekFHSzFUUE5lT0ZEVnhPczlmcmNERHlfRHJGLV9pcENJWjM3SlZFNlFHY1pmNW1jOUo0dm1VQkFGZDRrempTUi1hVkNaM3JO?oc=5
+
+- Q2 earnings, inflation data, oil prices to guide stock markets this week: Analysts - Moneycontrol.com
+  Q2 earnings, inflation data, oil prices to guide
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUERfWE4zNmFyemFrUGtNdmVvNWdQbUMwb2M3WEdfbnhlNDVTdTFhclFEWnNhMURYSHpyLWt4MUx3b19ic29lQmtWUjFXT3FsS3NOV21mTy12bE9MU0s5dU1TeVFUWEp1NWl1NUI3eXUtb2NQMzg0MWUxOVFsejRTSlJWeXFhVE1GNVBQR0hPanZIRDBhS0tWS1g3dWM2aXpDeEZEOEV5QVZxV3lLM1ptSmx0QzA0YXVVZnRWVC1lc1JDX3UyZk0yREtyZzlVVWk3eUNrNi1HNEJRMlRK0gHiAUFVX3lxTE9MRDR4VXJNTDlKTEV1eU9IM2xhQmJDNmZyMUNaZEVMTHlMN3Z1QzVFNXJROXhrNFRzLWNkR0czVGZIRnYzMFNhSVlzT0dreWtHaTFBbFZvRnQ3UGpfdDlmTXpScmhEUVYzLVk1M1JCSDIxUW5JajVfWjBDMFhpU25IY0x4bXFLRDVTZGdWaVlSZEM4Z3NsaTF4cmZzNEV6NGZ0UWtiZXQ3eTFoUmozYUwzMHpta19obUQ3V2p3SllfeFBVMEtSNnN5TmNOUnJLUE1WSURodU5IdE96ME5vV0JhT1E?oc=5
+
+- What will drive stock markets this week? - Rediff
+  What will drive stock markets
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWGwtWGtRVUZiRlMydTNxMjRhNEtOblM1OTRCVm5KSEF3eDJSNDQzMmpIRDh3VzNxSjNZLVRIbm5feHVfTDZudHMyQXI2bkJQcTRZTzd1bm5QYm9OakNRSEV2bkNRVkxsdV8xX3BtWWU0Q283Qnd2SGN3a2xwZDl2TnItczVxLWRyREVCZGtNc3VKVUoweEV6endaVVVfR2JuSW1uUkNtYS1ZM1RlMU5yaWJPZ1RleXlJd0lpMUJsUHE?oc=5
 
 - The countries most threatened by turbulent bond markets - The Economist
   The countries most threatened by turbulent bond
   🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQemZPTlh5bERBWHdGTGRNXzNNeUhKb3J6NlpHcnctMExDSWgxRDlsQzM2NEZucXVPZmlkbmhHVS1lUUsyV3FwOElhVjltMmlGUWtsUndHVDhfbUhCWVR1YXhNbHVreHhZcHVyUmlIaGEwWEdYa21ROVV1aGRPSGJQZ0dVSlVMczZlcTVpVjFYQ0ZxVVJwREdpWkVwamV0T2oxVldv?oc=5
 
-- Trump says Russia to supply diesel to US and global markets - Reuters
-  Trump says Russia to supply diesel to US and
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5
-
-- Dow rises 400 points on Friday as Wall Street scores winning week: Live updates - CNBC
-  Dow rises 400 points on Friday as Wall Street scores winning
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5nSVM4THI4YlFUdXYtTTJyX3ZJamZOSWdDa3owRkpVU3FHWEVzZ3NJcTBoSkt6YVluWW1jaFlGeVB0Q1pMdGk5Z2Y3UVpwZjJ0WjlHdFppQnBMQVRjT2lLTGFBTklzelhYSFVQdEJJejAxOHRpMGVn0gF8QVVfeXFMTThPS25hbl9MZ0p2cGw3Nm5Pby1vTml4OE5aUHo0N204RTVnOWN6Z24tX2FQVUhjY3hHN0xxUURlQ1dkSnh3bVE2NEM5SWRrQXFNUzlVUVl3UzdDVm1rQVJCaVVDSVFsSER1ZFlXUDRkRlNpeUloQzFsbHpQWA?oc=5
-
 - 8 emerging markets to consider in 2027: HSBC - Investing.com
   8 emerging markets to consider in
   🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1c4NXE5aVVfOXE2Vi1XSHJRR01PWGdVajdFQTNJX2FncEF4SVgzUGhxdXkyaERPVlRPMzNKNWVhN24zVElfZlZCTTJQVTBDZ0ZnTnJiaUhtWkIzWHpLYUVmUlZfaFRNbW1QMVdQWDdEQ1R6WV81bFBzVlFMdHRTV1FxZDRQc01vZC1KSGdJQmViWmZzbU1aT2NZZjRBQzcybEE?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
+- Ahead of Market: 10 things that will decide D-Street action on Monday
   Sensex and Nifty snapped their eight-week losing streak on Friday. The rebound added more than Rs 4 lakh crore to BSE-listed companies’ market capitalisation.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134869422.cms
 
@@ -140,10 +140,6 @@
   Edelweiss Mutual Fund MD and CEO Radhika Gupta says investors should approach Specialised Investment Funds (SIFs) with clear portfolio goals. She highlighted their tax efficiency and importance of understanding derivatives-based strategies.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-what-do-shah-rukh-khan-and-sifs-have-in-common-radhika-gupta-explains/articleshow/134866717.cms
 
-- India’s ‘Cockroach’ leaders released from detention after police crackdown - Al Jazeera
-  India’s ‘Cock
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNWGp5bTN6SWFLOFZzRUh1dW91ZFFvQUh6a0ZsVGJ0QXRrUzVabE1zeWc1VmJpSVhzR1hpdjR4cWhoVmxnNjMwZk9RM0J2YmtVcERyMk1PaFlQUi1DTnlqNk9hcFU3UUhzZllwLVJ5MW1WWDJnQm5yWnBNY1JOcFZ1U01RUFphSl9qWEVYSTZIOU9MNUdDSTZMSHJRR3FYUdIBowFBVV95cUxNaGdET2tqRll6Q2U3d3JaMTJRcmtadlI5aVp2MExsRWR1bm83b3FxWkFhYkh1VkxGRzhCNWQ0Z0VJS3QwLXhwYUh1YXRyVTJtX1k2TmRWUkY5UVJqaHcwSENzSTYzQzBRWXh6a0t0NEN1d3d2V0NQUWJKTXpFREc0alRVNDRZaTJPSDljY0tFMnJ3Vk5MV1hiUjlFWmtOSWluTDA0?oc=5
-
 - India: UN rights office urges release of ‘arbitrarily detained’ protesters - UN News
   India: UN rights office urges release of �
   🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fUktvUnlfYl82c1hBZVpRY09GQmN4UElfLUN0ZlhUQXA3eGo3ZlpKdlg1LU9ncE4xUHhZX0VIeWMwa2NKRFdvUWtUWU84SVczbHIwNXAySQ?oc=5
@@ -152,13 +148,17 @@
   "Unwarranted Interference":
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXdtTFFLeUZ0UURtRVlDLVVYajBFM0tFY1dUTzRmVVJaS2xzLWk0LUYweDItc2tMcVRYbnFIeGtnNzNvdDIwem43Z25OQXc2WllJM0p2emlRejNuLWtBbWNTZWxOdDdTLVV2YlpyOHowLTdOb3F6c3czczNzWUtRWHk3Z280eVJUdzNZYkw3VnJPdUJGbVZyQU8yNlhMT3ZwMWVlLU1KdlNfZTJROWfSAbYBQVVfeXFMTkZ2VlR4YXZhcXJvTDN0eV9CTURkZV8zb1NWUnI3Nnp6N0s4c040TmNRaUtsVkpjdTJWZTJYenhZN3htVG0tRGQyc2g5c1E3Z0J2ZUktOU5rc2NlcV9yOFFOV25iM3RCZHVRTXEySm1HYklwM3pYb1c0aXp0ZXlPdFRhLTZqNWJsYkw1Z1RSVm1mSks3YzVvc3BPWDdnc3EwbHptNmRfeEdraktZbUZLNnFTXzNtVVE?oc=5
 
-- Chhattisgarh cabinet congratulates PM Modi on completing 25 years as head of government - The Times of India
-  Chhattisgarh cabinet congratulates PM Modi on completing 25 years
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORk5aRXlMWnZ4a2ZzcEYydjJiWVFhdGZBR1JlUVRZOU9NZGJkTVU1YTRwV2pfMnhpc3gtdU1fSDR5emZ4dTJib3BGSW1Ia0pmVFpUb3VpTFFYc3E5YmdsTzJhQ3cxd0lsTGxEVmQtdjlvOUNUa0xycnFGZWc1RWZUeDd0TlhtMVZfNEJPNENKWVNFN0ozRFV6MHdTNEZSUHFBUzNtTVZoejFPRWh2MlhlNVRpcXM4YjFuWV9aSE10U29ocEtxM1A3Y2UxZm5wY05MM3o5RUtUQXZiMUEwU1hNcU5n0gHnAUFVX3lxTE1KT3lyMlR0X2U4SDMxX2xWVzRDRWZNZEhHY3EtVzdRcWR1cjdhUTY3eDNJUENHV1A5eHR6aHl1S0tQOW9YaEwyT2c0b0xic0MtUTExclptWWlYQ1hpRTdRSzNneG15QkhkTlg1cmtWend6VEhsVTZpVGRBY0w4LUFuMFlrY2x1U2pCaVRXa1FoNkRaVmdjRy1fLTd6N3l6Rk9aTXAxTTFweThTR1p3aEFJZUtsOHR5TjRsS1BzQ2dGMElLemR3dE0wN1RUb09OVkNIUGJMVlQ5UEtPd1hKMzYtSDBoQThMVQ?oc=5
+- India rejects UN rights body’s remarks on New Delhi events; Cites ‘double standards and unwarranted interference in its internal affairs | Akashvani News - News On AIR
+  India rejects UN rights body’s remarks on New Delhi events. Cites ‘double standards and unwarranted
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGZEelFodHE0YU1RUDdWN0kzN0gyQ1FjN05IMUhGZkFGOFM4ZFE5X3l5RXBaMjRQTmdtUDJzM2JSY2I5WjFjQm5LZEtEN0E2YTFXT0N1bFlvTE1aNjNsZi11UlE3alduQ29XLU9wUnA5emExTEt5YTV1U1lFWTlNZndqczFKZWJFbHQ5RXp3dTdKYlZnNXZhdG82a2p0ZXVLdmlBd1hVcVY?oc=5
 
-- Steve Smith scripts history, breaks Joe Root's Test record in first Test vs South Africa - The Times of India
-  Steve Smith scripts history, breaks Joe Root's Test record in first Test vs South
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb05pLTNqRm50VHFlSlJ3d0k3ZC15a1pXTldKc19TeWJyaEJfcl9veU9JZWRZQ2hGaTB6S2dMRkRJcHViMVZCYm84bzFRQmc5MnBteTUtSzRiRndhbE5EWFZyUDc4ZC1WYmNCU0pkMmZQcjVrX0NhaXFlSWVEa2JvYUxIeExwOEdCcWl1azU2TkJEaTg4WWRzbldIX2dJd0MxTVFuZE1McVRWS1pLU3RnVk9JVEtIckVIeGFfMXFmcGhWRXpFalRaZ0xZbFVWZUJ1MHdxUERHQmNvWnYwbXNfTVM0ajhjakNiWFJpakE3ME9kM3JacDE1WEw2dHbSAYICQVVfeXFMT0xIVVNMc0hFVHJnalNOWWc1NUpJTWdyN2wtWXNKdFpGNk8tLXFLN0JLamF0XzI0amgxN1U0MTBxcUNBMlJnU0pDTk5fSkpadDUweXFabk1GLUtPUGJwZFFrUE1DRDFfcUJzUzJMdzl0OFU4Z2xpSUExMDVQVlVxSS1IZkg1TVNZVWpkaVA5TlQ1T0hJTXRpSWhKNEFhZmhLWm1jYjJaUk1UZVNlUTdrX0FhVTBkbmdleUtTVXhGVGQwUTluMHFtYkxBVlBwTFBHWUhsOTc5R1F0WUotYklBeURKTmttb1E0M25BWHJMaTNYSXgwaWNodk9vdnZiNDBGMnJn?oc=5
+- Anantha Nageswaran releases ‘white paper’ on AI, automation, and India’s workforce - The Hindu
+  Anantha Nageswaran releases ‘white
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2M5aGVpY05ETVFMUjFBeHVFUV9WOEFhR3JlN1hjcm9zX3lqZlBJT21GYnd4ektMY3ZOYVl1NGp2STdBNnZILWR6ZlhrT3pMOTdSUktkc0NqZUc1UGRtOEtST1FkMlRTVEN3N2NIckJYem1naEljSUI0cm1CVzFEUEtEeS0wT2tpaDl1eW9Sai1ySUJxcDkyMGh4Yl9QYWZaY0NzbEVQZGozaEpaenc4Zk52RUd0WFdEQzlTTXhGNURhYk1TUlhLRWMwUjBRTGV6dkstSlFMcEpmMmJ1amNMbNIB5wFBVV95cUxNRVc5SzI1NldaeExCZjQydDNjOWFDNm1TSzliSHFKTnA3d0ZLSzZ2WHFFSGUtWGtBaWctcElhcDNfSlFFU2g2Rng1NnlVSEFYbEo4WndfUmFZQWlrUW5DTTctN0FfSHZFRUIyVTdOOWpXNU5acWQzeFlmT3Z1a3JQaFB2eGh4M3J2TU5rNDB3UHJXRnE3UFV2TE5iYUVFSVFXa3Y2Tkp2aGRZWFFobWozNnkza2phRkVEWl8yMVRiVWRiUnZyWUJTZmttSDNydk92NjBFanQ5VVlHbHN1S3pHVGw2WF8zTWM?oc=5
+
+- Indian National Dies After Riyadh Airport Attack; Death Toll Rises to 13 - News On AIR
+  Indian National Dies After Riyadh Airport Attack; Death Toll R
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPdkFQVUxNMHMxdTM4WlBNeDl5NFBHR2piaHBTendlSWlTeGRRWGxhdk5xSktyclM0cmhIMmwzaDdDdWJwNUNVLTdFRG05LXRYRUtpcUlKZ3NoS2d0OXUzMnJBRk5LcXpxbVU1OXF0Vnp4T3FjYVlGUW5PWkVUenJFUVBNemdrOFNXVkFwbXlTUUFKUC1HXzVmU0N3ZU03QQ?oc=5
 
 - Swiggy, Zomato Have A New Fight On Their Hands
   For years, Swiggy and Zomato have ruled the Indian foodtech sector with an iron fist, building vast restaurant networks.
@@ -180,9 +180,25 @@
   D2C personal care brand Nat Habit has raised ₹142 Cr (around $14.7 Mn) in an all-primary funding round.
   🔗 https://inc42.com/buzz/d2c-brand-nat-habit-raises-%e2%82%b9142-cr-to-scale-offline-expansion/
 
-- India’s ‘Cockroach’ leaders released from detention after police crackdown - Al Jazeera
-  India’s ‘Cock
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNWGp5bTN6SWFLOFZzRUh1dW91ZFFvQUh6a0ZsVGJ0QXRrUzVabE1zeWc1VmJpSVhzR1hpdjR4cWhoVmxnNjMwZk9RM0J2YmtVcERyMk1PaFlQUi1DTnlqNk9hcFU3UUhzZllwLVJ5MW1WWDJnQm5yWnBNY1JOcFZ1U01RUFphSl9qWEVYSTZIOU9MNUdDSTZMSHJRR3FYUdIBowFBVV95cUxNaGdET2tqRll6Q2U3d3JaMTJRcmtadlI5aVp2MExsRWR1bm83b3FxWkFhYkh1VkxGRzhCNWQ0Z0VJS3QwLXhwYUh1YXRyVTJtX1k2TmRWUkY5UVJqaHcwSENzSTYzQzBRWXh6a0t0NEN1d3d2V0NQUWJKTXpFREc0alRVNDRZaTJPSDljY0tFMnJ3Vk5MV1hiUjlFWmtOSWluTDA0?oc=5
+- India: UN rights office urges release of ‘arbitrarily detained’ protesters - UN News
+  India: UN rights office urges release of �
+  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fUktvUnlfYl82c1hBZVpRY09GQmN4UElfLUN0ZlhUQXA3eGo3ZlpKdlg1LU9ncE4xUHhZX0VIeWMwa2NKRFdvUWtUWU84SVczbHIwNXAySQ?oc=5
+
+- "Unwarranted Interference": India Slams UN's Remarks On Delhi Detentions - NDTV
+  "Unwarranted Interference":
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXdtTFFLeUZ0UURtRVlDLVVYajBFM0tFY1dUTzRmVVJaS2xzLWk0LUYweDItc2tMcVRYbnFIeGtnNzNvdDIwem43Z25OQXc2WllJM0p2emlRejNuLWtBbWNTZWxOdDdTLVV2YlpyOHowLTdOb3F6c3czczNzWUtRWHk3Z280eVJUdzNZYkw3VnJPdUJGbVZyQU8yNlhMT3ZwMWVlLU1KdlNfZTJROWfSAbYBQVVfeXFMTkZ2VlR4YXZhcXJvTDN0eV9CTURkZV8zb1NWUnI3Nnp6N0s4c040TmNRaUtsVkpjdTJWZTJYenhZN3htVG0tRGQyc2g5c1E3Z0J2ZUktOU5rc2NlcV9yOFFOV25iM3RCZHVRTXEySm1HYklwM3pYb1c0aXp0ZXlPdFRhLTZqNWJsYkw1Z1RSVm1mSks3YzVvc3BPWDdnc3EwbHptNmRfeEdraktZbUZLNnFTXzNtVVE?oc=5
+
+- India rejects UN rights body’s remarks on New Delhi events; Cites ‘double standards and unwarranted interference in its internal affairs | Akashvani News - News On AIR
+  India rejects UN rights body’s remarks on New Delhi events. Cites ‘double standards and unwarranted
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGZEelFodHE0YU1RUDdWN0kzN0gyQ1FjN05IMUhGZkFGOFM4ZFE5X3l5RXBaMjRQTmdtUDJzM2JSY2I5WjFjQm5LZEtEN0E2YTFXT0N1bFlvTE1aNjNsZi11UlE3alduQ29XLU9wUnA5emExTEt5YTV1U1lFWTlNZndqczFKZWJFbHQ5RXp3dTdKYlZnNXZhdG82a2p0ZXVLdmlBd1hVcVY?oc=5
+
+- Anantha Nageswaran releases ‘white paper’ on AI, automation, and India’s workforce - The Hindu
+  Anantha Nageswaran releases ‘white
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2M5aGVpY05ETVFMUjFBeHVFUV9WOEFhR3JlN1hjcm9zX3lqZlBJT21GYnd4ektMY3ZOYVl1NGp2STdBNnZILWR6ZlhrT3pMOTdSUktkc0NqZUc1UGRtOEtST1FkMlRTVEN3N2NIckJYem1naEljSUI0cm1CVzFEUEtEeS0wT2tpaDl1eW9Sai1ySUJxcDkyMGh4Yl9QYWZaY0NzbEVQZGozaEpaenc4Zk52RUd0WFdEQzlTTXhGNURhYk1TUlhLRWMwUjBRTGV6dkstSlFMcEpmMmJ1amNMbNIB5wFBVV95cUxNRVc5SzI1NldaeExCZjQydDNjOWFDNm1TSzliSHFKTnA3d0ZLSzZ2WHFFSGUtWGtBaWctcElhcDNfSlFFU2g2Rng1NnlVSEFYbEo4WndfUmFZQWlrUW5DTTctN0FfSHZFRUIyVTdOOWpXNU5acWQzeFlmT3Z1a3JQaFB2eGh4M3J2TU5rNDB3UHJXRnE3UFV2TE5iYUVFSVFXa3Y2Tkp2aGRZWFFobWozNnkza2phRkVEWl8yMVRiVWRiUnZyWUJTZmttSDNydk92NjBFanQ5VVlHbHN1S3pHVGw2WF8zTWM?oc=5
+
+- Indian National Dies After Riyadh Airport Attack; Death Toll Rises to 13 - News On AIR
+  Indian National Dies After Riyadh Airport Attack; Death Toll R
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPdkFQVUxNMHMxdTM4WlBNeDl5NFBHR2piaHBTendlSWlTeGRRWGxhdk5xSktyclM0cmhIMmwzaDdDdWJwNUNVLTdFRG05LXRYRUtpcUlKZ3NoS2d0OXUzMnJBRk5LcXpxbVU1OXF0Vnp4T3FjYVlGUW5PWkVUenJFUVBNemdrOFNXVkFwbXlTUUFKUC1HXzVmU0N3ZU03QQ?oc=5
 
 - India: UN rights office urges release of ‘arbitrarily detained’ protesters - UN News
   India: UN rights office urges release of �
@@ -192,33 +208,17 @@
   "Unwarranted Interference":
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXdtTFFLeUZ0UURtRVlDLVVYajBFM0tFY1dUTzRmVVJaS2xzLWk0LUYweDItc2tMcVRYbnFIeGtnNzNvdDIwem43Z25OQXc2WllJM0p2emlRejNuLWtBbWNTZWxOdDdTLVV2YlpyOHowLTdOb3F6c3czczNzWUtRWHk3Z280eVJUdzNZYkw3VnJPdUJGbVZyQU8yNlhMT3ZwMWVlLU1KdlNfZTJROWfSAbYBQVVfeXFMTkZ2VlR4YXZhcXJvTDN0eV9CTURkZV8zb1NWUnI3Nnp6N0s4c040TmNRaUtsVkpjdTJWZTJYenhZN3htVG0tRGQyc2g5c1E3Z0J2ZUktOU5rc2NlcV9yOFFOV25iM3RCZHVRTXEySm1HYklwM3pYb1c0aXp0ZXlPdFRhLTZqNWJsYkw1Z1RSVm1mSks3YzVvc3BPWDdnc3EwbHptNmRfeEdraktZbUZLNnFTXzNtVVE?oc=5
 
-- Chhattisgarh cabinet congratulates PM Modi on completing 25 years as head of government - The Times of India
-  Chhattisgarh cabinet congratulates PM Modi on completing 25 years
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORk5aRXlMWnZ4a2ZzcEYydjJiWVFhdGZBR1JlUVRZOU9NZGJkTVU1YTRwV2pfMnhpc3gtdU1fSDR5emZ4dTJib3BGSW1Ia0pmVFpUb3VpTFFYc3E5YmdsTzJhQ3cxd0lsTGxEVmQtdjlvOUNUa0xycnFGZWc1RWZUeDd0TlhtMVZfNEJPNENKWVNFN0ozRFV6MHdTNEZSUHFBUzNtTVZoejFPRWh2MlhlNVRpcXM4YjFuWV9aSE10U29ocEtxM1A3Y2UxZm5wY05MM3o5RUtUQXZiMUEwU1hNcU5n0gHnAUFVX3lxTE1KT3lyMlR0X2U4SDMxX2xWVzRDRWZNZEhHY3EtVzdRcWR1cjdhUTY3eDNJUENHV1A5eHR6aHl1S0tQOW9YaEwyT2c0b0xic0MtUTExclptWWlYQ1hpRTdRSzNneG15QkhkTlg1cmtWend6VEhsVTZpVGRBY0w4LUFuMFlrY2x1U2pCaVRXa1FoNkRaVmdjRy1fLTd6N3l6Rk9aTXAxTTFweThTR1p3aEFJZUtsOHR5TjRsS1BzQ2dGMElLemR3dE0wN1RUb09OVkNIUGJMVlQ5UEtPd1hKMzYtSDBoQThMVQ?oc=5
+- India rejects UN rights body’s remarks on New Delhi events; Cites ‘double standards and unwarranted interference in its internal affairs | Akashvani News - News On AIR
+  India rejects UN rights body’s remarks on New Delhi events. Cites ‘double standards and unwarranted
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGZEelFodHE0YU1RUDdWN0kzN0gyQ1FjN05IMUhGZkFGOFM4ZFE5X3l5RXBaMjRQTmdtUDJzM2JSY2I5WjFjQm5LZEtEN0E2YTFXT0N1bFlvTE1aNjNsZi11UlE3alduQ29XLU9wUnA5emExTEt5YTV1U1lFWTlNZndqczFKZWJFbHQ5RXp3dTdKYlZnNXZhdG82a2p0ZXVLdmlBd1hVcVY?oc=5
 
-- Steve Smith scripts history, breaks Joe Root's Test record in first Test vs South Africa - The Times of India
-  Steve Smith scripts history, breaks Joe Root's Test record in first Test vs South
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb05pLTNqRm50VHFlSlJ3d0k3ZC15a1pXTldKc19TeWJyaEJfcl9veU9JZWRZQ2hGaTB6S2dMRkRJcHViMVZCYm84bzFRQmc5MnBteTUtSzRiRndhbE5EWFZyUDc4ZC1WYmNCU0pkMmZQcjVrX0NhaXFlSWVEa2JvYUxIeExwOEdCcWl1azU2TkJEaTg4WWRzbldIX2dJd0MxTVFuZE1McVRWS1pLU3RnVk9JVEtIckVIeGFfMXFmcGhWRXpFalRaZ0xZbFVWZUJ1MHdxUERHQmNvWnYwbXNfTVM0ajhjakNiWFJpakE3ME9kM3JacDE1WEw2dHbSAYICQVVfeXFMT0xIVVNMc0hFVHJnalNOWWc1NUpJTWdyN2wtWXNKdFpGNk8tLXFLN0JLamF0XzI0amgxN1U0MTBxcUNBMlJnU0pDTk5fSkpadDUweXFabk1GLUtPUGJwZFFrUE1DRDFfcUJzUzJMdzl0OFU4Z2xpSUExMDVQVlVxSS1IZkg1TVNZVWpkaVA5TlQ1T0hJTXRpSWhKNEFhZmhLWm1jYjJaUk1UZVNlUTdrX0FhVTBkbmdleUtTVXhGVGQwUTluMHFtYkxBVlBwTFBHWUhsOTc5R1F0WUotYklBeURKTmttb1E0M25BWHJMaTNYSXgwaWNodk9vdnZiNDBGMnJn?oc=5
+- Anantha Nageswaran releases ‘white paper’ on AI, automation, and India’s workforce - The Hindu
+  Anantha Nageswaran releases ‘white
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2M5aGVpY05ETVFMUjFBeHVFUV9WOEFhR3JlN1hjcm9zX3lqZlBJT21GYnd4ektMY3ZOYVl1NGp2STdBNnZILWR6ZlhrT3pMOTdSUktkc0NqZUc1UGRtOEtST1FkMlRTVEN3N2NIckJYem1naEljSUI0cm1CVzFEUEtEeS0wT2tpaDl1eW9Sai1ySUJxcDkyMGh4Yl9QYWZaY0NzbEVQZGozaEpaenc4Zk52RUd0WFdEQzlTTXhGNURhYk1TUlhLRWMwUjBRTGV6dkstSlFMcEpmMmJ1amNMbNIB5wFBVV95cUxNRVc5SzI1NldaeExCZjQydDNjOWFDNm1TSzliSHFKTnA3d0ZLSzZ2WHFFSGUtWGtBaWctcElhcDNfSlFFU2g2Rng1NnlVSEFYbEo4WndfUmFZQWlrUW5DTTctN0FfSHZFRUIyVTdOOWpXNU5acWQzeFlmT3Z1a3JQaFB2eGh4M3J2TU5rNDB3UHJXRnE3UFV2TE5iYUVFSVFXa3Y2Tkp2aGRZWFFobWozNnkza2phRkVEWl8yMVRiVWRiUnZyWUJTZmttSDNydk92NjBFanQ5VVlHbHN1S3pHVGw2WF8zTWM?oc=5
 
-- India’s ‘Cockroach’ leaders released from detention after police crackdown - Al Jazeera
-  India’s ‘Cock
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNWGp5bTN6SWFLOFZzRUh1dW91ZFFvQUh6a0ZsVGJ0QXRrUzVabE1zeWc1VmJpSVhzR1hpdjR4cWhoVmxnNjMwZk9RM0J2YmtVcERyMk1PaFlQUi1DTnlqNk9hcFU3UUhzZllwLVJ5MW1WWDJnQm5yWnBNY1JOcFZ1U01RUFphSl9qWEVYSTZIOU9MNUdDSTZMSHJRR3FYUdIBowFBVV95cUxNaGdET2tqRll6Q2U3d3JaMTJRcmtadlI5aVp2MExsRWR1bm83b3FxWkFhYkh1VkxGRzhCNWQ0Z0VJS3QwLXhwYUh1YXRyVTJtX1k2TmRWUkY5UVJqaHcwSENzSTYzQzBRWXh6a0t0NEN1d3d2V0NQUWJKTXpFREc0alRVNDRZaTJPSDljY0tFMnJ3Vk5MV1hiUjlFWmtOSWluTDA0?oc=5
-
-- India: UN rights office urges release of ‘arbitrarily detained’ protesters - UN News
-  India: UN rights office urges release of �
-  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fUktvUnlfYl82c1hBZVpRY09GQmN4UElfLUN0ZlhUQXA3eGo3ZlpKdlg1LU9ncE4xUHhZX0VIeWMwa2NKRFdvUWtUWU84SVczbHIwNXAySQ?oc=5
-
-- "Unwarranted Interference": India Slams UN's Remarks On Delhi Detentions - NDTV
-  "Unwarranted Interference":
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXdtTFFLeUZ0UURtRVlDLVVYajBFM0tFY1dUTzRmVVJaS2xzLWk0LUYweDItc2tMcVRYbnFIeGtnNzNvdDIwem43Z25OQXc2WllJM0p2emlRejNuLWtBbWNTZWxOdDdTLVV2YlpyOHowLTdOb3F6c3czczNzWUtRWHk3Z280eVJUdzNZYkw3VnJPdUJGbVZyQU8yNlhMT3ZwMWVlLU1KdlNfZTJROWfSAbYBQVVfeXFMTkZ2VlR4YXZhcXJvTDN0eV9CTURkZV8zb1NWUnI3Nnp6N0s4c040TmNRaUtsVkpjdTJWZTJYenhZN3htVG0tRGQyc2g5c1E3Z0J2ZUktOU5rc2NlcV9yOFFOV25iM3RCZHVRTXEySm1HYklwM3pYb1c0aXp0ZXlPdFRhLTZqNWJsYkw1Z1RSVm1mSks3YzVvc3BPWDdnc3EwbHptNmRfeEdraktZbUZLNnFTXzNtVVE?oc=5
-
-- Chhattisgarh cabinet congratulates PM Modi on completing 25 years as head of government - The Times of India
-  Chhattisgarh cabinet congratulates PM Modi on completing 25 years
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxORk5aRXlMWnZ4a2ZzcEYydjJiWVFhdGZBR1JlUVRZOU9NZGJkTVU1YTRwV2pfMnhpc3gtdU1fSDR5emZ4dTJib3BGSW1Ia0pmVFpUb3VpTFFYc3E5YmdsTzJhQ3cxd0lsTGxEVmQtdjlvOUNUa0xycnFGZWc1RWZUeDd0TlhtMVZfNEJPNENKWVNFN0ozRFV6MHdTNEZSUHFBUzNtTVZoejFPRWh2MlhlNVRpcXM4YjFuWV9aSE10U29ocEtxM1A3Y2UxZm5wY05MM3o5RUtUQXZiMUEwU1hNcU5n0gHnAUFVX3lxTE1KT3lyMlR0X2U4SDMxX2xWVzRDRWZNZEhHY3EtVzdRcWR1cjdhUTY3eDNJUENHV1A5eHR6aHl1S0tQOW9YaEwyT2c0b0xic0MtUTExclptWWlYQ1hpRTdRSzNneG15QkhkTlg1cmtWend6VEhsVTZpVGRBY0w4LUFuMFlrY2x1U2pCaVRXa1FoNkRaVmdjRy1fLTd6N3l6Rk9aTXAxTTFweThTR1p3aEFJZUtsOHR5TjRsS1BzQ2dGMElLemR3dE0wN1RUb09OVkNIUGJMVlQ5UEtPd1hKMzYtSDBoQThMVQ?oc=5
-
-- Steve Smith scripts history, breaks Joe Root's Test record in first Test vs South Africa - The Times of India
-  Steve Smith scripts history, breaks Joe Root's Test record in first Test vs South
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb05pLTNqRm50VHFlSlJ3d0k3ZC15a1pXTldKc19TeWJyaEJfcl9veU9JZWRZQ2hGaTB6S2dMRkRJcHViMVZCYm84bzFRQmc5MnBteTUtSzRiRndhbE5EWFZyUDc4ZC1WYmNCU0pkMmZQcjVrX0NhaXFlSWVEa2JvYUxIeExwOEdCcWl1azU2TkJEaTg4WWRzbldIX2dJd0MxTVFuZE1McVRWS1pLU3RnVk9JVEtIckVIeGFfMXFmcGhWRXpFalRaZ0xZbFVWZUJ1MHdxUERHQmNvWnYwbXNfTVM0ajhjakNiWFJpakE3ME9kM3JacDE1WEw2dHbSAYICQVVfeXFMT0xIVVNMc0hFVHJnalNOWWc1NUpJTWdyN2wtWXNKdFpGNk8tLXFLN0JLamF0XzI0amgxN1U0MTBxcUNBMlJnU0pDTk5fSkpadDUweXFabk1GLUtPUGJwZFFrUE1DRDFfcUJzUzJMdzl0OFU4Z2xpSUExMDVQVlVxSS1IZkg1TVNZVWpkaVA5TlQ1T0hJTXRpSWhKNEFhZmhLWm1jYjJaUk1UZVNlUTdrX0FhVTBkbmdleUtTVXhGVGQwUTluMHFtYkxBVlBwTFBHWUhsOTc5R1F0WUotYklBeURKTmttb1E0M25BWHJMaTNYSXgwaWNodk9vdnZiNDBGMnJn?oc=5
+- Indian National Dies After Riyadh Airport Attack; Death Toll Rises to 13 - News On AIR
+  Indian National Dies After Riyadh Airport Attack; Death Toll R
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPdkFQVUxNMHMxdTM4WlBNeDl5NFBHR2piaHBTendlSWlTeGRRWGxhdk5xSktyclM0cmhIMmwzaDdDdWJwNUNVLTdFRG05LXRYRUtpcUlKZ3NoS2d0OXUzMnJBRk5LcXpxbVU1OXF0Vnp4T3FjYVlGUW5PWkVUenJFUVBNemdrOFNXVkFwbXlTUUFKUC1HXzVmU0N3ZU03QQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-11 12:01:29 UTC_
+_Last updated: 2026-10-11 17:27:58 UTC_
