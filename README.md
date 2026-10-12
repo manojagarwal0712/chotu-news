@@ -1,144 +1,124 @@
 # 📰 Daily News Summaries
 
-- Stubble Burning On The Rise Again: Can Tech Prevent Another Smog Crisis In Delhi-NCR? - NDTV
-  " target="_blank">Stubble Burning On
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYTBwdk0tQ2dHX2RfcE1pVUtZUl9wbjZTbS1uNHV1MVppYVFpbUZoNFdTZXRMSWd6c1RTYlZZMEZvLXd1WENHOWpXQU9hQWUxcXVOTmRUQ2g0XzZMVzV2WVBiamItX093T1VjNmlNTVFQR0g0VExSUm1KN1JnSGRxd1Bzdi1ycTIwSVNFRnRmR19zckhuSDNuTm4waVp2dXZmSVJMS2FFelF5REs1dzlvRklHMVdDXzUtR0lXSEJqM3nSAcgBQVVfeXFMT2c1eGxjcF8teGIyd0k4Q1ExZjVaUkpJMzhOUzI5dmhjRmRadHZ6SlJXdDNlLW9iT1Vhc0pDSHRaUTJfbE1QZXdHdGd4eEcyOUZxdURObnN2Q2dkVEpYMjhjaHh1Ylo4Ym1MdWJ5aWM3Yzg3ZnVkOFdIUDBZOWZrUnFRSnB1UWJDYlpselNQSTJyTHA0ODlnRlE4R1hUdHNVYlJqMlhGRUQ3RFZzU0RCVzJhcENqbWNmYTRPUXgxdU44cWZZQTl2cE0?oc=5
+- UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts - The Guardian
+  UK to strengthen cyber defences as minister calls for AI firms to increase safety
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFpoZ1QxOWVmSkdqblhxbndMUjAyZUtFbWpIcHFnU0Q0SHNJMms1UkVLOVhmUHVDUXpIQmhmSVpoRWE5TTNHRFFXNkNSbmVhTXpFaEk3ZkU2TTk3VWt1Wk1xZE9iVkZiT0JzNDlkRXlUZEI0U0I5ZXl3aUpJWDBXN1RmaUcwYTJiZ2hNb3U0bFBoaHhvR2Z4eTI5LWNYYTRTYXJPQU56QQ?oc=5
 
-- IIT Madras invites applications for Executive MBA Degree - Indian Institute of Technology Madras
-  IIT Madras invites applications for Executive MBA Degree
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTJfT3EyZUFhVGpPdEtnR2E3SEl4MndCRlFsSUljcXlSYnRLWm1pRk9kRUZuZi02Mkk0eU12RFljRi1mT0xGLWsyY2tnTXFnVDZ3ZTdPM3hraUw4ajVzTVQzVmlyazhETWprNVNjUUsxa2d6VlhYSlgwWXF4X0dwc1RtUS1NV3g1SkpuOGVDaG5SY2JWMXQ0X0I0YzMzRzZELWRZMEpwYnk0TlJrRHVYSlpWSGt0Zw?oc=5
+- Stellantis and Tata Motors Sign Partnership For Technology and Product Collaboration - CarWale
+  Stellantis and Tata Motors Sign Partnership For
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ1FTNFNfeDRsWHM3Q1p2SGt0alcwTlk4YUxhRnU4SmNVdHh6MWFTVmo3dUxyS1FrQnhOaWQ1OFo0SndHRllPOFQ0NjhQWmRBTlJfNmFuNTRvbHNrY3dJYkRyQnFIc2FLYVlvVVhoV3lWTC1Gb3llREF1dmtPSTE1UlBIMUdkQXJnX1JDbE1XLWVDTUZTUGIzeXN4U0x5Wm9ZZ0UyUDlrbGNYd3p5T2VWR1plU3Y?oc=5
 
-- Three-day Technology and Innovation Conference AWTIS 2026 concludes in Pune - The Times of India
-  Three-day Technology and Innovation Conference AWTIS 20
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdTd6SlFqRkZDaFZyclB5U01wSTRzeTBpdEtCSjkwdDE5cDYtZFhvX2ctLV83U2xQZllNMUZUQXFsSk4xTHNjUEl2RUlPeGtzYTdGN1lSSlJMRUNfdGt5TGNlTXVwdHdmZS1hd3NkYmhrNGJCQ0JJSE5nWkgwdU4tLUtZM2xpdk9mTFhGUHhSck9zMUNubU9kTU5Gd2ZuLVM5cDFuMDVkZnlvNE1ld1N0eEVsejFFaml4b0UtZUx4TWdjYm1HSWYteTkzV1lXUm5Jakpib3h6THYtbnNLX0VzUNIB5gFBVV95cUxQbzlMUTlULVZENHVqT3pQUF8wVWw3WWNoRUZQY3pGZE93NzlUdEJmdTdyTEtybnF2TUZSU0JkUWdXYXpoQ250VXBFZ0h5M0FZTUFvSkxrZk5aS1V2MWZlRFJkcjgwRDc4WTNvWTVTYnRCLXA1WEhVaFZ4R2tNTEtJYjRhdVl6eEVVQjNaeUtDZ1FYVXR3dlFJVjU4b3B3X3QtQmRBcUNvRFdZTFU2T2d6OW5tUk9ZRktXUndFbDVTN1hNa3NXR0UtcDJYUUFUcC1zZzc2MGc0aktFOEdUSHUyLWVDb0loQQ?oc=5
+- NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year - CNBC
+  NBA commissioner Adam Silver says league could introduce ‘smart ball’
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1QzVjhkQ0RwZWhTYWZJNFktdTFJaVA5ZkdPMHcxYXZYX2d1cWFuZ0ZhbE1jek0yeUZjdHdyTTFoOVV0YUJDemwwZEpTdVBiNUxCYThua19EQTJEa1hmalB2c21KbDREbGx0NENBaWMyR2FCb3RlTUJGS3BLeTdFTVVtMTJncnNrSWI3REU2bk8zS3puZ1BCaUh4ZHpMQkdoVFZkR1E1Z9IBrAFBVV95cUxNclh4Mmphd0x6a0QzNHpkbW9Od0dBUDVpemE5VnpITkNJZm1yV2VRLTJ5SzIxeGFlNUNxLWpCTUJZZFNXVWRSUThZSkRqcm1FX280d0FmRE5hU2dzNFJUQWlpZWRUN3JGOHduZVZ0aWE5SG5DV0xaTVhMZE1MbXhEVnRRYi1vS1RaMnBFN29fTXQzaGhoMTlncjNObDVBemo4Z1VqcDBBLV9sUXF1?oc=5
 
-- From drones to defence: Deeptech startup Yaanendriya bets on homegrown autonomy technology - Deccan Herald
-  The Deeptech startup Yaanendriya
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT0I1UkNWbVRFNkJyOGlaMWV5OXppN1NTdFVhQ1hwb2tsaW15cEkxWDhrNlpCQkw4OVZWejl3UlA2YnhxLW5NRnNwYXM4cF9yVmpfMjVZQVphaDRqMlFvSzB5MVRCeElyX1dQcWtrdk1xeVB4RkVzUV9oaW1wVzVGYWhjNGR5djc3TlZJTmI0dzBWVDVKZFNCSjI0dThETTZDdmQxUTB4XzVZZFJubE5fNUVuU0NUNXlrLVJkQzBkUVIxb3gtekFhRjNxVXYxcUh4RUVDZmp1WnhRU2ct0gHvAUFVX3lxTE9ZUFRweG1lV3JtcDA2TEhJN3Vmc1BaRFVjQlh4d2pJZnI2Z1VZNTBHbkRXd0ZoZF95cnd1NmotOXN1OGoxeVl4LXRsZTBYNkFVM0c3c0stbXdoN2YxRjJSQVEzcWVYc1gtZldET1dLRVBvaUxSZFphR19rLXBUMkpGNVdPZllobnMwZVVLRHB6WnBkVkpOZnRnNDF0NDZwaDZhZWFLN09rRy1veG81cVdKLWFUTEJpRW9vVkswOUpNRFJiY2lyWGNLenpNcFVWUWlJV0c1YXRDeEtTdnVDMEZHUjBQalJqcWlRV0ZMUWhZ?oc=5
+- L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory - TheWire.in
+  L&amp;T Technology Services Launches EI Lab for
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdF9BcGY2YXBOY1RMdXRDdkFZSG5lQmg4dWxaMzBXUWc2NUNiMVN1a2RNQ2QwSWJXcUNSS0NlX1RmRkJPZVIxX2RYb2FsOXZlU1NicFhsQjI5MktxNXJ0TTJQUWRKTFpYZ0Z4ak8xazhqaVRmbnE3RFcxNWlSSDVDWEF0eXAxaXRMbmUxQVluVmR6eU5tRmlEcFpNUEZLOWN6SjlKN0hsQk4xdURZcmI2Ylc2VHl4YjYySldZYTV2RDdSdHA5YWhleDdwUGtlYjBIaGNJM0hTU1k2UFJOUkZjTUNFel9TSFQyZllEak1n0gHzAUFVX3lxTFB0RWg3SWdFUFJPLVI0R21KLU5vT194MXFzSUxSMVVSdHhmUGVvREVrNjNZLXBxZlVyTFlIZzlfXzdHR2wtWWsyYWRqeTJaaHVtSUJPS3VqTTlXWXlGR3FwQzlDY3ZBY1ZxZC1nSTRzZng3amg2dWRGN0pkSGtyVXRmd3JPTXJDTEJXWjBPX0VrSklSNHpucUl5ZzI3V1k3Q1k2bDYyNjZTdGpzTHQtMTFEbGFkVlpoVm9GdWdfQnN3SXM2XzhqYUg5YUZKUm9qcWJXWDl3eGNZaXJXdzEzWjJudUJoTTBBdDJSSVFPMmVvbjdfMA?oc=5
 
-- UK school ditches technology, shifts from screen to pen and paper for learning - WION
-  UK school ditches technology, shifts from screen to pen
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGZZWjFVWmFtd1d4SjBwM1REcEF4c2pubW8yS1k5SldLU2RtVlNMaTRBWmZaY0ZndUlKS1RNekx0RVNjcEd1UUVUREFvQ0NBVXNmc090NEROcm5pcVBwZGN2QnBzNW1VcVNaQi1mdmZzV291Z0VuUDBhMEdOQTJ4ZjZ4NW5RX2dyRkdsMk9uUHBBVkpIWHRoeU8wYW5qR2Y5WmUydTZqNnZXTHJFcXA0SC05NjExaW04amhidHlNY0NSQdIBxwFBVV95cUxOWHBEMGhVYUZiZDNGc1VNRUJFNlR3RmxTU0lINlJjMnFXMXMyTTFSc2RlNWFXNmVlTlBQSWRkS0Y3Zjd4RTVnYTBSU1FsTFo1SFlTSm1tRWI0NzA2RTlYVC00WnkzY2g0OXkxOU5ORXhPQmRKZUhOblJiS0hTaEhwLWVjaXVRU1dwRURpaE9FTGxVeURfZmpsLUNTbXFtQzhWemtHT2gzcC1pZW9JVy03U0JIbTd0bDVRNDdDRmdGeUtmWmN6QTE0?oc=5
+- L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory - ThePrint
+  T Technology Services Launches EI Lab for Manufacturing and Operations,
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdWpqN2tOREhqbjQ3SmFsZnI5anBJeDFIQml4bjdQSHRlbWtJajFsenRQTkd3b2FfWTgtdjR4N2ZXbWJWbzRGUUZBMkFxSTRmOFlpX1pXX09iSzdOWXN3THdLZEE0QTRRbHdFcTRvb0dLMnZPSmRWZFdZVEZTeWxJOElmVjBPdHdPbl9RdENFaEhGaWhlVTFWTm52bTVuTDBtNzZOaTl1c0VXMlJPeE8zZXJYeWtCVTRzWmVVSnJDc2I1djI5bF90TWhUemxRTDduazhWTUlrNXRvT3E0QWt6T3J1OXFFa3h0dmVfZnBuY3lQU203WUVqb3NR0gH_AUFVX3lxTE5WYU5VbzdNczVZVVlUUW90WkRmbEFER1ZVeFVPb3picTFZY2dvRzkyUXdmTmExdHZCSE9SWmd4T2xhd0JWWFcwVXdrYmJ5VTBsMGJuNUFNSUxKZWxTdHpBZHkwZW9WVk5sRzFXTkFDQm9LdDFmZm50Z2J3bUtRM2xJb2V2dUxWOHczV3hQeHMtVHRsZG1lSHNNYUdXNmUwcFlLcmhsZHEwUnRJa2c2VXM2N3NTRm1sX3NMcGR0dUl6aTB4T1dyNVh0MmZod0JMN041THotamdGa1VkTGVyRThSc2N2N25mUVM5bVhvUkdWcUhsZ3VwZzI5dmEtcXBGaw?oc=5
 
-- TSMC expected to report sixth straight quarter of record profit thanks to AI boom
-  TSMC expected to report sixth straight quarter of record profit
-  🔗 https://www.livemint.com/companies/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-11791771103421.html
+- HCLTech Q2 Results: Revenue up 11.5% but misses estimates, net profit up 21.2%
+  HCLTech Q2 Results 2026-27: Consolidated
+  🔗 https://www.livemint.com/companies/company-results/hcltech-q2-results-202627-11791811434426.html
 
-- Tata Motors sweetens Iveco offer as key investors hold out
-  The tender offer has attracted acceptances for just 28.4% of the shares. Less than
-  🔗 https://www.livemint.com/companies/tata-motors-iveco-acquisition-deal-status-11791713827262.html
+- LinkedIn posts about ‘women executives’ land McKinsey partner in trouble; leadership role taken away
+  McKinsey removed senior partner Chris Bradley from his leadership roles after reviewing his LinkedIn comments questioning the glass
+  🔗 https://www.livemint.com/companies/news/linkedin-posts-about-women-executives-land-mckinsey-partner-in-trouble-leadership-role-taken-away-11791806374206.html
 
-- Supply-chain shifts, policy push fuel India’s manufacturing startup boom
-  India's manufacturing startups have seen a surge in investor interest. Funding jumped from $164 million in 2020 when the pandemic arrived to $1.92 billion in 2026.
-  🔗 https://www.livemint.com/companies/supplychain-shifts-policy-push-fuel-india-s-manufacturing-startup-boom-11791710198682.html
+- Eight out of 10 new TCS hires will need to have AI skills: What is its share of AI-led work in overall revenue?
+  TCS says 80% of future hires will have digital and AI skills. 25-30% of its 4,500 Q2 hires specialising purely in AI. AI-led work reached 10
+  🔗 https://www.livemint.com/companies/news/eight-out-of-10-new-tcs-hires-will-need-to-have-ai-skills-what-is-its-share-of-ai-led-work-in-overall-revenue-11791804159477.html
 
-- Encalm looks beyond airport lounges to build  ₹5,000 crore hospitality business
-  Airport hospitality currently generates about 90% of Encalm’s revenue. The expansion also marks an attempt to reduce its dependence on airports operated by the GMR Group.
-  🔗 https://www.livemint.com/companies/news/encalm-looks-beyond-airport-lounges-to-build-5-000-crore-hospitality-business-11791693514617.html
+- Reliance’s Jio convention centre construction delay: SC directs MMRDA to deposit  ₹646 cr
+  The lease of the BKC land required Reliance to complete construction of the Jio World Convention Centre within four years. The
+  🔗 https://www.livemint.com/companies/news/reliance-jio-convention-centre-construction-mmrda-11791802539461.html
 
-- McKinsey Strips Partner of Leadership Role Over LinkedIn Posts
-  McKinsey &amp; Co. removed a senior partner from his leadership role at the firm’s research arm. He
-  🔗 https://www.livemint.com/companies/mckinsey-strips-partner-of-leadership-role-over-linkedin-posts-11791750274628.html
+- Biotech startup PopVax begins human trials of fridge-stable covid vaccine
+  PopVax's PVX-001 is designed to remain stable at 2-8°
+  🔗 https://www.livemint.com/companies/start-ups/biotech-startup-popvaxs-fridge-safe-mrna-covid-vaccine-enters-clinic-11791795561277.html
 
-- Stubble Burning On The Rise Again: Can Tech Prevent Another Smog Crisis In Delhi-NCR? - NDTV
-  " target="_blank">Stubble Burning On
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYTBwdk0tQ2dHX2RfcE1pVUtZUl9wbjZTbS1uNHV1MVppYVFpbUZoNFdTZXRMSWd6c1RTYlZZMEZvLXd1WENHOWpXQU9hQWUxcXVOTmRUQ2g0XzZMVzV2WVBiamItX093T1VjNmlNTVFQR0g0VExSUm1KN1JnSGRxd1Bzdi1ycTIwSVNFRnRmR19zckhuSDNuTm4waVp2dXZmSVJMS2FFelF5REs1dzlvRklHMVdDXzUtR0lXSEJqM3nSAcgBQVVfeXFMT2c1eGxjcF8teGIyd0k4Q1ExZjVaUkpJMzhOUzI5dmhjRmRadHZ6SlJXdDNlLW9iT1Vhc0pDSHRaUTJfbE1QZXdHdGd4eEcyOUZxdURObnN2Q2dkVEpYMjhjaHh1Ylo4Ym1MdWJ5aWM3Yzg3ZnVkOFdIUDBZOWZrUnFRSnB1UWJDYlpselNQSTJyTHA0ODlnRlE4R1hUdHNVYlJqMlhGRUQ3RFZzU0RCVzJhcENqbWNmYTRPUXgxdU44cWZZQTl2cE0?oc=5
+- Top stocks in focus tomorrow: Investors must watch HCL Tech, RBL Bank, Azad Engineering shares on Tue, 13 Oct | Triggers
+  HCL Technologies, RBL Bank, and several others report quarterly results, contract wins, and leadership changes. HCL reported higher revenue and strong AI growth, while
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-hcl-tech-rbl-bank-azad-engineering-shares-on-tue-13-oct-triggers-11791810566254.html
 
-- IIT Madras invites applications for Executive MBA Degree - Indian Institute of Technology Madras
-  IIT Madras invites applications for Executive MBA Degree
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTJfT3EyZUFhVGpPdEtnR2E3SEl4MndCRlFsSUljcXlSYnRLWm1pRk9kRUZuZi02Mkk0eU12RFljRi1mT0xGLWsyY2tnTXFnVDZ3ZTdPM3hraUw4ajVzTVQzVmlyazhETWprNVNjUUsxa2d6VlhYSlgwWXF4X0dwc1RtUS1NV3g1SkpuOGVDaG5SY2JWMXQ0X0I0YzMzRzZELWRZMEpwYnk0TlJrRHVYSlpWSGt0Zw?oc=5
+- New trend in town! Click, try, buy - How Titan, Bluestone, Kalyan Jewellers are betting big on omnichannel for shopping
+  Titan, Bluestone and Kalyan Jewellers
+  🔗 https://www.livemint.com/market/stock-market-news/new-trend-in-town-click-try-buy-how-titan-bluestone-kalyan-jewellers-are-betting-big-on-omnichannel-for-shopping-11791810169256.html
 
-- Three-day Technology and Innovation Conference AWTIS 2026 concludes in Pune - The Times of India
-  Three-day Technology and Innovation Conference AWTIS 20
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdTd6SlFqRkZDaFZyclB5U01wSTRzeTBpdEtCSjkwdDE5cDYtZFhvX2ctLV83U2xQZllNMUZUQXFsSk4xTHNjUEl2RUlPeGtzYTdGN1lSSlJMRUNfdGt5TGNlTXVwdHdmZS1hd3NkYmhrNGJCQ0JJSE5nWkgwdU4tLUtZM2xpdk9mTFhGUHhSck9zMUNubU9kTU5Gd2ZuLVM5cDFuMDVkZnlvNE1ld1N0eEVsejFFaml4b0UtZUx4TWdjYm1HSWYteTkzV1lXUm5Jakpib3h6THYtbnNLX0VzUNIB5gFBVV95cUxQbzlMUTlULVZENHVqT3pQUF8wVWw3WWNoRUZQY3pGZE93NzlUdEJmdTdyTEtybnF2TUZSU0JkUWdXYXpoQ250VXBFZ0h5M0FZTUFvSkxrZk5aS1V2MWZlRFJkcjgwRDc4WTNvWTVTYnRCLXA1WEhVaFZ4R2tNTEtJYjRhdVl6eEVVQjNaeUtDZ1FYVXR3dlFJVjU4b3B3X3QtQmRBcUNvRFdZTFU2T2d6OW5tUk9ZRktXUndFbDVTN1hNa3NXR0UtcDJYUUFUcC1zZzc2MGc0aktFOEdUSHUyLWVDb0loQQ?oc=5
+- Is India’s diagnostics sector poised for a long-term growth upswing? Axis Securities sees opportunity in three stocks
+   Axis Securities sees India’s diagnostics sector entering a multi-year growth upcycle. It initiated BUY coverage on Dr. Lal PathLabs
+  🔗 https://www.livemint.com/market/stock-market-news/is-india-s-diagnostics-sector-poised-for-a-long-term-growth-upswing-axis-securities-sees-opportunity-in-three-stocks-11791803826013.html
 
-- From drones to defence: Deeptech startup Yaanendriya bets on homegrown autonomy technology - Deccan Herald
-  The Deeptech startup Yaanendriya
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT0I1UkNWbVRFNkJyOGlaMWV5OXppN1NTdFVhQ1hwb2tsaW15cEkxWDhrNlpCQkw4OVZWejl3UlA2YnhxLW5NRnNwYXM4cF9yVmpfMjVZQVphaDRqMlFvSzB5MVRCeElyX1dQcWtrdk1xeVB4RkVzUV9oaW1wVzVGYWhjNGR5djc3TlZJTmI0dzBWVDVKZFNCSjI0dThETTZDdmQxUTB4XzVZZFJubE5fNUVuU0NUNXlrLVJkQzBkUVIxb3gtekFhRjNxVXYxcUh4RUVDZmp1WnhRU2ct0gHvAUFVX3lxTE9ZUFRweG1lV3JtcDA2TEhJN3Vmc1BaRFVjQlh4d2pJZnI2Z1VZNTBHbkRXd0ZoZF95cnd1NmotOXN1OGoxeVl4LXRsZTBYNkFVM0c3c0stbXdoN2YxRjJSQVEzcWVYc1gtZldET1dLRVBvaUxSZFphR19rLXBUMkpGNVdPZllobnMwZVVLRHB6WnBkVkpOZnRnNDF0NDZwaDZhZWFLN09rRy1veG81cVdKLWFUTEJpRW9vVkswOUpNRFJiY2lyWGNLenpNcFVWUWlJV0c1YXRDeEtTdnVDMEZHUjBQalJqcWlRV0ZMUWhZ?oc=5
+- Top 2 stocks to buy for tomorrow: PNB Housing Finance, TVS Motor Company by Chandan Taparia - Check stop-loss, targets
+  Indian markets fell on Monday, with the Nifty 50 down 0.7% and Sensex down0.76%. Investors weighed rupee concerns, high crude prices and monsoon risks. Analyst Chand
+  🔗 https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-tomorrow-pnb-housing-finance-tvs-motor-company-by-chandan-taparia-check-stop-loss-targets-11791804491968.html
 
-- UK school ditches technology, shifts from screen to pen and paper for learning - WION
-  UK school ditches technology, shifts from screen to pen
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGZZWjFVWmFtd1d4SjBwM1REcEF4c2pubW8yS1k5SldLU2RtVlNMaTRBWmZaY0ZndUlKS1RNekx0RVNjcEd1UUVUREFvQ0NBVXNmc090NEROcm5pcVBwZGN2QnBzNW1VcVNaQi1mdmZzV291Z0VuUDBhMEdOQTJ4ZjZ4NW5RX2dyRkdsMk9uUHBBVkpIWHRoeU8wYW5qR2Y5WmUydTZqNnZXTHJFcXA0SC05NjExaW04amhidHlNY0NSQdIBxwFBVV95cUxOWHBEMGhVYUZiZDNGc1VNRUJFNlR3RmxTU0lINlJjMnFXMXMyTTFSc2RlNWFXNmVlTlBQSWRkS0Y3Zjd4RTVnYTBSU1FsTFo1SFlTSm1tRWI0NzA2RTlYVC00WnkzY2g0OXkxOU5ORXhPQmRKZUhOblJiS0hTaEhwLWVjaXVRU1dwRURpaE9FTGxVeURfZmpsLUNTbXFtQzhWemtHT2gzcC1pZW9JVy03U0JIbTd0bDVRNDdDRmdGeUtmWmN6QTE0?oc=5
+- Tech Mahindra, TCS, Oracle shares fall up to 3% today - Is it the right time to buy IT stocks?
+  The IT index has been under pressure for a long time due to concerns ranging from macroeconomic challenges, regulatory headwinds in the US,
+  🔗 https://www.livemint.com/market/stock-market-news/tech-mahindra-tcs-oracle-shares-fall-up-to-3-today-is-it-the-right-time-to-buy-it-stocks-11791805096158.html
 
-- S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates - CNBC
-  P 500 futures are little changed with big banks set to kick off earnings season
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5
+- Amazon Great Indian Festival Sale 2026: 7 premium smartphones you can buy at lower prices
+  Amazon Great Indian Festival Sale 2026 began on October 8. Offers discounts on premium smartphones from Apple, Samsung, Vivo, iQOO and Xiaomi. Samsung Galaxy S25 Ultra
+  🔗 https://www.livemint.com/technology/amazon-great-indian-festival-sale-2026-7-premium-smartphones-you-can-buy-at-lower-prices-11791803283019.html
 
-- Oil Rises on Mideast Attacks, Dollar Edges Higher: Markets Wrap - Bloomberg.com
-  Oil Rises on Mideast Attacks
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPSG5VZWZFeXZZQzA0WjJpbFJWMlRKTld5TzZaTC10SF9VNGxJYnRwc1IwcHdMd2MteUlTcWNQTVhmNDFpWG9leERyYXFBSXkwckc1M2xUZWxJT1R6OG9EY1BlZExjMXBsUnNkdU5LQmlIcE90d3FvOHZKLUdaaFdnOUVhYlFhV2pic05yZkxTUDE4Z3JTZ1VZc2dsNFNEWGJMMmNnUTBwRFRBQ1M5ak9yWjdn?oc=5
+- Xiaomi launches ultra-thin 10,000mAh magnetic power bank with 45W charging: Price, features
+  Xiaomi has launched its Jinshajiang Ultra-thin Magnetic Power Bank 10000mAh 45W in China at 399 yuan. The power bank features 20W wireless charging, 45W wired
+  🔗 https://www.livemint.com/technology/gadgets/xiaomi-launches-ultra-thin-10-000mah-magnetic-power-bank-with-45w-charging-price-features-11791797271388.html
 
-- Gold Rises as Markets Weigh Oil Pullback - WSJ
-  Gold Rises as Markets
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNU1NaYzlBbFJ6S05MLUFaVVlCOXhGMjdJcnZMa0JvQ0w4YXl2RjN6RVZadEt5MGMteFIzdTFIcm5sWVhPdW9FSHZjUVpGbWY2cEU5elBhV0h1UF9xaTNydmNTR0NnMnFYel9vU3J2T0Rwa29IVWZRMHEtaG1ERDdiQ2ZFaEp2alBNcUVuaExZenFfM0NYYnR3cHZoLXJadw?oc=5
+- Microsoft president says milk faces more regulation than AI
+  Microsoft president says milk faces
+  🔗 https://www.livemint.com/technology/microsoft-president-says-milk-faces-more-regulation-than-ai-11791796906520.html
 
-- The countries most threatened by turbulent bond markets - The Economist
-  The countries most threatened by turbulent bond
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQemZPTlh5bERBWHdGTGRNXzNNeUhKb3J6NlpHcnctMExDSWgxRDlsQzM2NEZucXVPZmlkbmhHVS1lUUsyV3FwOElhVjltMmlGUWtsUndHVDhfbUhCWVR1YXhNbHVreHhZcHVyUmlIaGEwWEdYa21ROVV1aGRPSGJQZ0dVSlVMczZlcTVpVjFYQ0ZxVVJwREdpWkVwamV0T2oxVldv?oc=5
+- Japan data leak concerns grow as 1.67 million JR East email addresses may be exposed
+  Japan has urged banks to adopt chip-enabled passports and MyNumber cards for customer verification.
+  🔗 https://www.livemint.com/technology/japan-data-leak-concerns-grow-as-1-67-million-jr-east-email-addresses-may-be-exposed-11791780516562.html
 
-- D-Street poised for positive start as GIFT Nifty signals gains - The Economic Times
-  D-Street poised for positive start as GIFT
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWdHUTJZNjRfWDd3OUtlVnJ1YjhqZHQ4dzJKeU0yQWgxSUl2RmN1R1poMlhKMVdtSVdMc2NGRzYwNUlWN3dITGtGdGl3VVZZWkY3RnRHeXhyWWZsenhHWVdnOFVRR09IUGNKejA5T0VZRUJ4QllySVlpZnI1MUtkNy1wVk5IT05nMTExOXVfOU5Ud2F0REx3clBZY1J6QUJsYmF1NDJFQjI4eHRFMjRQdUh2eUVJMWF2dldablVKYUc5akRScFBXX3oyaG_SAdIBQVVfeXFMTmdfWFgxX3ViTWtTZjNZUTVPMXlHUE1pakVESVJuWkJjdFY4Tlh3TG9HNkVCdkRRRVlGTXBKMjFCYUs3MGJGUVo3c29PVkZST0xHNVF3TUh3YzRPOENkVE00OEJXZHUtSjN1Yl9iaGdvdTBYWGduZ2d2MXE2NjQwOVFUaG9NVm5rZDFjUDBRVUxfNEs0TWNJdGpVN3ljbC0wekNXbnI5c0FheTllUktVdkNMNzdDNzBxbERDaFBVWW1ydlBoNzFJay1RRENZNlpIM3RR?oc=5
+- Starlink vs Jio: Can Elon Musk make satellite internet affordable in India’s cheap data market?
+  Elon Musk says he will bring affordable Starlink satellite internet in India. He will challenge Reliance Jio
+  🔗 https://www.livemint.com/technology/starlink-vs-jio-can-elon-musk-make-satellite-internet-affordable-in-india-s-cheap-data-market-11791776817938.html
 
-- Zetwerk Manufacturing Business IPO price band set at Rs 143–151; Rs 5,012 crore issue opens on October 15
-  Zetwerk Manufacturing Business has set its IPO price band at Rs 143–151 per share for its Rs 5,012.33-crore issue opening on October 15. The offering includes a fresh
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/zetwerk-manufacturing-business-ipo-price-band-set-at-rs-143151-rs-5012-crore-issue-opens-on-october-15/articleshow/134881830.cms
+- US stocks steady at open as oil jumps ahead of key earnings
+  Wall Street's main indexes opened muted on Monday. Investors watched oil prices and global events ahead of crucial bank earnings and inflation data.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-steady-at-open-as-oil-jumps-ahead-of-key-earnings/articleshow/134894878.cms
 
-- Premier Energies shares in focus after Q2 update reveals fresh orders worth Rs 4,000 crore
-  Premier Energies received orders worth Rs 4,001 crore in the July–September quarter. Its manufacturing capacity expanded to 11.1 GW for modules and 10.6 GW for solar cells.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/premier-energies-shares-in-focus-after-q2-update-reveals-fresh-orders-worth-rs-4000-crore/articleshow/134881776.cms
+- ICICI Prudential AMC Q2 Results: Profit rises 6% YoY to Rs 889 crore; co declares Rs 30/share dividend
+  ICICI Prudential AMC reported a 6.1% year-on-year rise in Q2 FY27 net profit to Rs 889 crore. Revenue from operations grew 16.3% to Rs 1,674 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q2-results-profit-rises-6-yoy-to-rs-889-crore-co-declares-rs-30/share-dividend/articleshow/134893738.cms
 
-- HFCL among 3 stocks closing above VWAP
-  Three Nifty 500 stocks closed more than 2% above their respective volume-weighted average
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hfcl-among-3-stocks-closing-above-vwap/slideshow/134881766.cms
+- PVR Inox among 4 stocks hitting 52-week highs; rallied up to 13% in a month
+  Four BSE 500 stocks, including PVR Inox, PTC Industries, Aditya Infotech and Laurus Labs,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-among-4-stocks-hitting-52-week-highs-rallied-up-to-13-in-a-month/slideshow/134893470.cms
 
-- Poonawalla Fincorp shares in focus after Q2 net profit soars 407% to Rs 375 crore
-  Poonawalla Fincorp reported a 406.8% YoY surge in Q2FY27 net profit to Rs 375 crore. Net interest income jumped 80.6% to Rs 1,380 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/poonawalla-fincorp-shares-in-focus-after-q2-net-profit-soars-407-to-rs-375-crore/articleshow/134881686.cms
+- India benchmark bond posts worst day in six months on RBI measures
+  The benchmark 10-year bond yield rose to its highest level in three years. Consumer inflation increased to 5.54%, exceeding forecasts. The Reserve Bank of India announced bond sales and changes to cash reserve ratio maintenance.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-benchmark-bond-posts-worst-day-in-six-months-on-rbi-measures/articleshow/134893334.cms
 
-- SAIL among 4 F&amp;O stocks with a sharp rise in futures open interest
-  Four NSE F&amp;O stocks saw futures open interest rise over 7% on October 9.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sail-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134881677.cms
+- The ₹1 Crore Portfolio Problem: When Your Money Grows, Your Mistakes Get More Expensive
+  Investors with long-term aspirations should keep funds for short-term needs separate from their growth capital. This tactic guarantees that financial commitments are fulfilled even during market downturns.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/the-1-crore-portfolio-problem-when-your-money-grows-your-mistakes-get-more-expensive/articleshow/134893217.cms
 
-- India’s Cleantech Funding Boom, The AI Safety Drill & More
-  India’s cleantech story accelerated in Q3 2026. The quarter saw the sector nearly triple its&#8230;.
-  🔗 https://inc42.com/buzz/indias-cleantech-funding-boom-the-ai-safety-drill-more/
+- Deeptech Funding Zooms 2.8X YoY In Q3 Despite Tighter Deal Flow
+  India’s deeptech startups raised substantially more capital in Q3 2026. The number of deals edged lower.
+  🔗 https://inc42.com/buzz/deeptech-funding-zooms-2-8x-yoy-in-q3-despite-tighter-deal-flow/
 
-- Indian Startup IPO Tracker 2026
-  Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
-  🔗 https://inc42.com/features/indian-startup-ipo-tracker-2026/
+- D2C Brand Boldfit Raises ₹400 Cr From Bharat Value Fund For Retail Expansion
+  D2C fitness and sportswear brand Boldfit has raised around ₹400 Cr (about $41.8 Mn) from
+  🔗 https://inc42.com/buzz/d2c-brand-boldfit-raises-%e2%82%b9400-cr-from-bharat-value-fund-for-retail-expansion/
 
-- Swiggy, Zomato Have A New Fight On Their Hands
-  For years, Swiggy and Zomato have ruled the Indian foodtech sector with an iron fist, building vast restaurant networks.
-  🔗 https://inc42.com/features/swiggy-zomato-have-a-new-fight-on-their-hands/
+- How XSCACE Is Taking On Bose And B&O With 12mm-Thin Speakers
+  XSCACE is taking on Bose and B&amp;O with 12mm-Thin Speakers. For decades, names like Bose, Marshall, Bang &#38;
+  🔗 https://inc42.com/startups/how-xscace-is-taking-on-bose-and-bo-with-12mm-thin-speakers/
 
-- New-Age Tech Stocks Gain This Week, MobiKwik Surges 25% And PhysicsWallah 20%
-  Most new-age tech stocks gained this week, as benchmark indices snapped an eight-week losing streak. MobiKwik Surges 25% And PhysicsWallah 20%
-  🔗 https://inc42.com/buzz/new-age-tech-stocks-gain-this-week-mobikwik-surges-25-and-physicswallah-20/
+- Hero Electronix-Owned Tessolve Secures $75 Mn To Expand Semiconductor Capabilities
+  Hero Electronix-owned Tessolve Semiconductor raised $75 Mn in a funding round led by Vector Line Capital.
+  🔗 https://inc42.com/buzz/hero-electronix-owned-tessolve-secures-75-mn-to-expand-semiconductor-capabilities/
 
-- EV Bets Drive India’s Cleantech Funding Surge In Q3
-  India’s cleantech startups attracted substantially more capital in Q3 2026. Large electric mobility rounds driving funding growth alongside an&#82
-  🔗 https://inc42.com/buzz/ev-bets-drive-indias-cleantech-funding-surge-in-q3/
-
-- India’s crackdown on youth protesters: What next? - Al Jazeera
-  India’s crackdown on
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPbm04TDl6NDZMTmlWZ3R4ZHQyZVZvby1nRFR4dzh1cmhoMkJVSzFxdFBUQlJnZ282VDBFLVNqTE1MN0IwS0F1V3pxblNGUXhkUXdYNHN5aXFiMnZNREJBYmRoVGVyM3hOTDF1NEVweGhKTlRod29OU3dMWXk5X1pyRjdmeGZtRjNwT041V2ZQUHk5d9IBlwFBVV95cUxPV21pSndoMmdnNXBsQmdmdjhIUVNQekthSXgyWHRZS3QtTTRHSS11ZWx0dEp3Mk5QREQtcUJDX1JQUmRKNUNfWkNYQUpZWXZjQWNKWU8xeUo4MDFCSDJQeElnT0YzYVNSU2NyR25OYXZlS2FJY2JpVjlWVGxFbXNjMUpFS2N5TXJJeGsxeldYeENxN1hrMVM4?oc=5
-
-- India: UN rights office urges release of ‘arbitrarily detained’ protesters - UN News
-  India: UN rights office urges release of �
-  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fUktvUnlfYl82c1hBZVpRY09GQmN4UElfLUN0ZlhUQXA3eGo3ZlpKdlg1LU9ncE4xUHhZX0VIeWMwa2NKRFdvUWtUWU84SVczbHIwNXAySQ?oc=5
-
-- "Unwarranted Interference": India Slams UN's Remarks On Delhi Detentions - NDTV
-  "Unwarranted Interference":
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXdtTFFLeUZ0UURtRVlDLVVYajBFM0tFY1dUTzRmVVJaS2xzLWk0LUYweDItc2tMcVRYbnFIeGtnNzNvdDIwem43Z25OQXc2WllJM0p2emlRejNuLWtBbWNTZWxOdDdTLVV2YlpyOHowLTdOb3F6c3czczNzWUtRWHk3Z280eVJUdzNZYkw3VnJPdUJGbVZyQU8yNlhMT3ZwMWVlLU1KdlNfZTJROWfSAbYBQVVfeXFMTkZ2VlR4YXZhcXJvTDN0eV9CTURkZV8zb1NWUnI3Nnp6N0s4c040TmNRaUtsVkpjdTJWZTJYenhZN3htVG0tRGQyc2g5c1E3Z0J2ZUktOU5rc2NlcV9yOFFOV25iM3RCZHVRTXEySm1HYklwM3pYb1c0aXp0ZXlPdFRhLTZqNWJsYkw1Z1RSVm1mSks3YzVvc3BPWDdnc3EwbHptNmRfeEdraktZbUZLNnFTXzNtVVE?oc=5
-
-- Government slams UN rights body for 'practising double standards' - The Times of India
-  Government slams UN rights body for 'practising double
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOOW5PSnFTWFhuVlkxbHRLaW55Yl9JSkppMVd0RnJlOW1OM1JUOURSZ2tvR0daZGk2cndsYTd0ZURfT0txNHVPOTdob1hvYlRpWTB4OFZmUTNoTHQ1S1pObW93ZnkxTGxRUUxuUUFYRWwtYm5va0hyd0JYRFZBdHI4enVzVFdRNm5vVjNEd0xaQ3NhajhBbUFfcXJKcldxWEVaYkE3cWlQWUpiOFhKbTI1WWYtVjRUUVV3SkFRdERSV1hYaWotRXhfVGpLSdIB0AFBVV95cUxPYTdiSWZ1d0tjTTEzN1pyZTVzdGUxb205N0pSd25CSGgzUnBTeDR1U21ZbmFWVE9hU2N2eEZHQTUyeVdSbFNOSnRMNFIydFVlbFpHRUtsM0YyOGljRmtDcHZMbXVia1kwOC1MYXk3ZnJnN2JPZDZQMEZ2WnhsRXRkeERLR2I4QjZkemVOamo4RlJSblZiT3oyRTZFendmSHhKaEpnajY4VFNPX3N0ekI5Z1ZHQTQ1cWR5MGZjN0JnS1RmbktiWEg4WTlVQ0wwdFR1?oc=5
-
-- Delhi anti-CEC protests and INDIA bloc march: Traffic diversions and advisories - The Hindu
-  Delhi anti-CEC protests and INDIA
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcWZvVVI2ek44ZEpRLWh3SkxHV1VrRXQwblBvSkhIaEk2cUlkQWhnTzRzQm15VzJ2N2FzcVl2M1JxdTlULW1jVUNTMDdUSGtpNTZxNDlOTTZIX3EtY2xwV0JFU3pXSFBIbjRiWW5FaTdDNk5yYjNBWWhVSXljRG1iY0MtMkdySWUwTFBkSERIWGphc1VvSk95ZE02clE1eDlWU0xUTWszcTJhbTBtTWNzSjVidGRaZ2RmS2VVOWI0Ukt5dzNFbnhrUmxXSDB5ZXdCMnNvb3RFMXdOd3lTdmfSAeQBQVVfeXFMTmFIZGNEcWpFa3dUN2xRQmxLMnVjRFhQRk12MmVjZVZpdEdQYUJ4YlVPX2NKeTAxSEZWT2JHUFoyZzFYUTJVRWtCdWg5SUZrSGR3VXhMcHl4U0NvTzFkVGl3MVBOSngtMHlFdElPSHJqamo0bS10d05zaTQtSVpISm1qak1EcjI1MlYwOGJSV3dpM2pUS3cyTGRVLVZTMkpvc2FCSURJVmNDWEM4S2hZblR4Vmp4ZTFySXRLNVNHZlNwNWpXaWEzVXZMRmE0RVdrVEwwb1dicmZBLU9Bd2tVaTdoZnRQ?oc=5
+- Lenskart Shares Slump 5% Amid Bulk Deal Buzz
+  Shares of Lenskart ended today&#8217;s trading session 4.4% lower at ₹647.95 apiece.
+  🔗 https://inc42.com/buzz/lenskart-shares-slump-5-amid-bulk-deal-buzz/
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -160,5 +140,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-_Last updated: 2026-10-12 03:54:27 UTC_
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2026-10-12 14:13:37 UTC_
