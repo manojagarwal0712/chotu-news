@@ -1,220 +1,220 @@
 # 📰 Daily News Summaries
 
-- Rahul Gandhi leads opposition march to top court to demand election chief resign - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5
+- Video: 'This Is Not The India I Remember,' Foreign Woman Compares Road Trips In India 17 Years Apart - NDTV
+  'This Is Not The India I Remember,' Foreign Woman Compares Road Trips
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQM09sX2RGYVhfYjY2M1JtOW01azdadVBBR2ppbmZtWUpnbEdJNUJuRUZEQ1FBUzJEN3BLTXVGWkpSTHlyWEJiY1RUMUVIY3lEV3E5MVVFSTJFREF2bWVZQTNnMk9WOXV5bUdZLXVkVGEzSHlseGM5N245Rjc4ZU43WDBob0EzVnNUd2xvaVhtazhydF9taGY1VHZOXy1Yekg3UTJvVVlBLUU0bXZaa3Z1R2dkdkQ2dWZnLWh5aEI5Z0ZheXBIOFhqRWZDM0FCZ9IB1gFBVV95cUxOMHhCb1k0U1BPTTAzc2ZrTlpPRmR1VkVvRmpzRHZRZlRFdDF3dVRQMjhaNzJQNzNtRHNEOGcwY1A0N3lrdTJ5SGJwNEMzeGRfbWI4eWFCWTVhbmpYRUpyUU5YSUFvdDZJTHFEQzhDckhlaDZPVmZZR2hmc1FHLUgxZFhjeEhLby1pbDNQYm1jeTdLMlN4eU9EazBRMjgzRTdYOG15ZnlNQUhFNW5fcDQ5WWJFaUFSYjk3aW10Yk82Vl9Db2x5VHlSQXV4TWxBM3pPdElsaENR?oc=5
 
-- Agencies flagged security concerns over satellite internet of foreign operator - The Times of India
-  Agencies flagged security concerns over satellite internet of foreign operator
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVBQWno0NHNHcTlqREFnTS15NHg1OGNfMm1pODY2U2liTGFRdXNSSWtEU1pFc3g1NldKcnpFNHlwVzV4a2N2TG5sZmZ4YU9wT05ZeW5DQXhSZjQ0Y1pVcjd6MlBhYW5GOXFyWW1XUDFlTDFUV0FZaDBwdk1lTkR5NUNOaXZ1UXJrWXJ2VVh6Uzhkc2prR3VQcV92LURnVEh5LWFDRFlVRU1Kb19ua3pMNERFWHNaQWJMMlNjdThBZjBnbU1qMXA4d1dOUjN5T0tyY3ZUS3NSYjM4Yk92R1Q00gHkAUFVX3lxTE5DM3JFU2UzTFkyMlFxVEJaQkdTdTRDNi1ocjlKSWd0dUJkbFFleWRQR2dVNXpTRHZZd0FkODZWQXlLeERrbWM0bVEtRVBrdWpZWnI0a3hCRGVtSkJQa2kzUjdtV1JzV1hvMjBmb05wM1lwZHFBWkFfLUd3QVZLUzVDcWxtUFQ2R2RmTnhYVkhYOVpVcFUzQUcyVHpVa1JFQlJQdFFlSlg4V1JEQ2dfelUzeHlvTGgzREhWSmJjSVlrMktTTGs0ODZMNlN2eEV0dmRqRFUzZGVKdk51UXpvaVJzSEc5Tg?oc=5
+- The great Indian scam trap: More aware, yet still vulnerable - The Times of India
+  The great Indian scam trap: More aware, yet still
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1ZFWUNtRVRKVHNhLWZqMWRQeHNHMTJHTmdCSVM4VnNUNVRsSkNSM09MdUdkNkJkYzQzRllRMlJ4NjU5bnVlMHk0VG1zN0xoZ0IyNW9fbWxQaVNiTjA2WGNsQWdDeDN4cENXNlpodE9ORTUxdnhkTS1BejlmMTRxWThad3U2N0JCcGRZZHRxUUNCSVJSQVRCb3p2cUlnTzdvYmhKUVNpaDZnVjRtbXlSckFqOTVHLTIwZ1ZDeUF2ZmJQRGk5?oc=5
 
-- Booking Open 3 Days This Year. Why Delhi's Ramlila Maidan Is A Costly Affair - NDTV
-  New Delhi's Ramlila Maidan is set to open
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaE04T3BjLUFRU2FKd0VSMDJUSWlpWWZsaU9zeGYzUTdCbEpZV2Q3aWh3MVB5RV9vdlpiTlNBYzVkdFkzY3F5WE5zNkI4czhIQWh1R2hEUXJTbkFlLWg0cWk4UVp4VEJPbHdxSm02cE1RQ28zWUI4LTVEamhpSmo2QjVHXzNWWEk2SUcwZWQtX3VzdUJBd0FXZldiSjJDSVNkbElzYWVJeUh0Z2VQby1iWElINNIBuwFBVV95cUxPUllOWkVuUHF6bjNqbUNDNzRhRkFFR2UzSXkwODFfRVZDeDZnaXh0YjcteXBpbXk1aGtVdGVGVkRXZVdpYklPQU41WTE4NXN6MXNKVEFXVGtxdTEwcUYxd2ltYXVYZ25nQmZnWDJ2RmY1OHhGam1QZElYNk5KMF9kbWZsblc2cnZIUVFJX0t3QmVRMk9OanpwUGZSaDg5blM2SXhySmhpMHpnR2dSS1paNmduYWdfMGhuNEhN?oc=5
+- Evening news wrap: India reaffirms Ladakh claim, Punjab anti-drug activist shot dead, BJP targets Rahul - The Times of India
+  India reaffirms Ladakh claim, Punjab anti-drug activist shot dead, BJP
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPX2RoZDNhV2lUdUxpelJLQWsyeWQteFhPb0c5emhnZG1NbVp4aVFVb2RoNC1Ta01MY0hrN0hQN05yRXlGbndCRkxmNG1XWEtfSi1xOXNQV0k2SmZRcFFoamNQQXMxUEFnUXU2U2o5ODhOVlRLTkVmdmw2Y1EzcXE3MFVJRU5TNy1PLU1xVmdmdUNxc2o2eHBIZGVsZ0NfUlB3TkpPYnlraHZSYXJKUGNkYXB6cDVJY2Y3cUFXVzIzd1RISmt2Vm9OMWFiR1hCanNuSkR5MXVVbnBsVHByNFljNE04eDJMelhLay1NMTBua0tsejFYREV4emlpTlNzYXp5Mi13ejZ1LXpqZENOQzd3d0U0ZVpBdEFpLUHSAZ8CQVVfeXFMTVozUmd0eTZRdWZCazFPb1h2b0dzaFJlU3F3UFZaOUpPLS1KMFoyMkNOTXdUMlY1dVczdnVWNXV1U3V2cUNmRW5EMjdZeVlVZzlEd09Jd21LTW9YSXFMUU1Mem1WdWozWHlNNS15NEVDaTFFVTNfY1hBUkJJVUk0d1l0SEo5a0xjU1J4dXZ0QmtxaE9UMmJqbTJnLWR6ZEplNzRxV285WkFIZnZKSV9lMmVxYUFsWlpGM1BwOGctQ1A1QmY2LTRZYzlBUFZPYm0wWnBnS3BFT1lOMVVzeVh3cWkwSUU0TExmOGdNQWRyQk1ONmtQWHYyWFVSTk1GZGNqd0l4SDBfTUtiWElER0hVajVxWWdIZEFsWHFpcmRMRG8?oc=5
 
-- Jantar Mantar out as protest hub; 3 new venues named - The Times of India
-  Jantar Mantar out as protest hub; 3
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWk2SDEzeUdWLUFKbWZCeFpYb1NJU3paaUh2cDB0Z0pmcnF1SnRPQnlzN0pFbkJVUEk5QVV2V3paQ0drdnFPSHhjcERjSU9PT0dvTlF2a0I1M2FMWnp1WUhnZ0p5ZExtOTZ2dGdXY0lmRHNzc1h0WUxWcE9mWXptTldCQ0I2Y2xNYXRFRkgyMUNySUpnTVBFT2Q5OEhORVlRNHRib2xVZEpsajZVTDVUZW5zcXdlMVRxZV840gHAAUFVX3lxTE5wWVZxbExNRVI0OUxDMWNuMnliNHBaLUdYRUJTaXRhRXMzendHMjd3NzRjOEVvZzI2M09YYV9jWG42TGs3STRzNXZ6cm5oaUNsb1k1ZmhaZm5WYUE0UmE2T3RmZ3EyZkx0RWp0eW4wOXN0QVdMU2JTZWV0eDFMZmgyZHhQMU8tZUFBeExOUm5PWDVlVDhySDBKZHh5WEdCYXZfeUNJRXJGYVFBUFV1MFU5N19HRmREV0Q2V1BhRDJacQ?oc=5
+- CJP: India 'cockroach' leaders detained after entering barricaded protest site - BBC
+  CJP: India 'cockroach'
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0aVFHakc0aEZKMVJIZHExMlNLZGRLRDJHYm9SSkRWVFpRSGs1RjhpYkVPOTU3bU5YLTRVdFMzYmhvNktaNWRtWEo0T0dvWW83QjRWSDMzMVhTWkU?oc=5
 
 - 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
   'Cockroach' group leaders
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZmljM0lTU2duYUpNbVFRN2FyMXdrV29IeVZvMjNTaU1TUGJhd0Q5RUpCdmh1Vk1laTh4UWJsZUNESHBZOFhrTmgtMEhsNGNicDRvWlVQTzd2SW8?oc=5
-
-- AI’s mathematics blitz pushes science into strange new territory - The Economist
-  The Economist reports that AI could be used
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xkTTk5TzZPSFVTcU9vdklZbEdGZFM4LUY5R2U0ZnN1T1ZHZE5ZSUlwaEMxOHBVR2VOR0xUbU5YUUR2T0lMS3N5NFFWRGRnUGhmdUFtbjlWMzhYU1VJNUlSbU9SN3Y4VGNvRDlvNVVjN0Q4WFQ0ckQ3YkJmU1NFUVhsTDdKMHBqZnV1RWJOYm5WcWFFanZKRHhJM1JaLVZ0ZEdUVXRzNmxMQVpneUR6MXNGU0lvV1BzWmp4YTVVVkM?oc=5
-
-- Applying technology to understand and treat disease - blog.google
-  Applying technology to understand
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
 
 - Regional policing unit drops controversial Palantir AI technology - BBC
   Regional policing unit drops controversial
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqcnNHMFJEWTBsVWtJX21FckhxTWwtN1YtbGVNZnlaVVhURVlSZlJvak9Zc2xXN2VVMHdVb245QTFidFpZVVhyeHFCa0NULUhLN0JtVWhpNFY1NTA?oc=5
 
-- L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory - L&T Technology Services
-  L&amp;T Technology Services launches EI Lab for Manufacturing and Operations
-  🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MYktEQlQ5eC1jZVg1WDdUa3lqMnRSYkJoYzJsSjhQbEdkeVpiU0JGZUx0LTFmTUZ0Ty1HUEl4UDhIX1JMTGZ4N1c3a1VzQmtza19BcHVCTHB1aDhwMEZN?oc=5
+- AI could self-replicate on home devices within ‘months’, Anthropic says - Al Jazeera
+  AI could self-replicate on home devices
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbTQtSVRsM0pUQnVLVnNvQ1Z5NnlkY2g5UEhDNVZhWnlPaUVsNHhGWm5YY043c3NXZ3hMbm4xcGU4em1zX0h1QW54c2NIWGc0WnpHNG5mX0VUYXBpTFJGOWhrRmZEVmZlRUd3UVg4S3J1S1ZibVZlMzdLUEpoRVRXQlRsaFV6X1dOY2xQN3FjUVhUN3pyeGxTZHlwQ1U1UTgzQW81RnBma3BzWUJqb0lXTEN1MNIBuAFBVV95cUxQRlpTeUFPMnBnakFFSEU0MEFPaHY4czE1RHdrWE1xQkZyc0ZzdFRwRV9WQXF5OWh5VElfN3NlU0FyREMtYl9sUkw2TXN5bUthZWtTWlRxeTRtOFBWdGVBY1VtWnpsdVBITERral9wTVd1aG5vN01WTDhfblIyWmdOWlhuRzJxRk5CeDJCanJQWFZUNlZFU2RNOUxwNFVLdGpwR0RxVjRvYkNEX1V4dldvMGNSWFM3bXMy?oc=5
 
-- TikTok CEO sees major scientific breakthroughs from AI within three years - CNBC
-  TikTok CEO sees major scientific breakthroughs
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQTW12Y2w2X2Y4TjV2SVZENTdwXzhtVFctYkhvUU1WOWdjMzVnSUNsMnYzMDFQYkZEeG9PVVh6M3BwZjQwTkVLZXdIUDhMNnNhNlJWWG1uSGFvaHc4Nk5pa0RnMDVxMVd3MEtBSHNlNjZFT2lCdXpNMDlRTjJHVHZIVHJJNmlrd085VFZSUlZB0gGTAUFVX3lxTFBzSXAzMTA5TGVZdHNtMWsyZ3FfeE95UmRfaGYzTFFCQ1pRN3pZM1B1MUNDTlV1MXNpampFYUwzbG5KWkFyWk1heFlwU1FiQ3BlXzFobTZXS001ZDJUT05QVTBESWQza0ZlOGt3Ym42WWp4QzhqbVlwVGR6OFBlX1VTM1FpZ2tXMEVBVC1PdVI1N29JYw?oc=5
+- Applying technology to understand and treat disease - blog.google
+  Applying technology to understand
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
 
-- Exclusive-Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say
-  Moonshot execs in talks to settle dispute
-  🔗 https://www.livemint.com/companies/exclusivemoonshot-execs-in-talks-to-settle-dispute-with-shareholder-ahead-of-planned-ipo-people-say-11791838614126.html
+- Future Travel Starts Now: The 2026 JETOUR Global Technology Experience Day Is About to Begin - TheWire.in
+  Future Travel Starts Now: The 2026 JETOUR Global Technology
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDhGajFQZ1BXY0lYNjdoUDhtTTEtNUNVQkJmcFg3bG1QNmhwZmVTbWt6MGNUVEtYMGUxMGtyR1VzMl83WXdKdW9WSmxaZmZTd0hmM3NfV3BYN0p2S3U4Wm5HNk5paG95Y1RnWmE4SzFVMUJQNndSRmJkUGQzVjVRZ3dZS3ltOHgxZm5hRlgyY3BJR0ZhYWpzSkZoOW85WkNLcGdBcktxUmttZ252TkR4VmI3TGdQemlSSkRGMHktd2R2RmhhMXFvMzJR0gHPAUFVX3lxTE9Sa0luWi1DYVRhREVSMW13RDR3YUVjZFgwOXhBWERyTlduNmZHa1pIS3MyWVVqdkx4a0JydWowS281U0hHSzlPb3duLUF3YUdSVjdhX0tteXpQaVBtdzg1OG52a2o3XzEyVEFLYUZibThuMjRBeHl4cFF1cm1tbkcxdkozUnpzcm5zdnk0X0UxNENMMTRCNkV0OUNKVUt1ZDBkWFNUd1ZWVFJ0ZzhuelVzeDdkRUJjNnJRbXl0cXFqdGR5LW5fSDRGLWY2enlOaw?oc=5
 
-- JPMorgan, Goldman Curb Exposure on $5 Billion Volta AI Loan Sale
-  JPMorgan Chase &amp; Co. and Goldman Sachs Group Inc. have taken a rare move to limit their exposure on a $5 billion loan sale for AI startup Volta Infrastructure Holdings.
-  🔗 https://www.livemint.com/companies/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale-11791831660356.html
+- Tech30 2026: Meet the 30 startups building India’s next generation of technology - YourStory.com
+  Tech30 2026: Meet the 30 startups building
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQNGc2OXptVjZqSjdveXExY0Z2SndRbEtnaVowbFR5RjJ0QzQwN0ItYnlNaUFXQlhRN1pzU2xJS2JHY212bHc5cy11T0R1dkFJSXg5aDR0X1l0YkJ3OHVLVnc5QXVsd25VZjU5WGVxYjUxRXdneUtXWWs2SGl6LVJlMzBMUkJOSFNBQWFIQkdLUQ?oc=5
 
-- HCLTech beats estimates, but Q2 growth slips to three-year low
-  HCL Tech’s advanced AI revenue jumped 28% sequentially to $219 million
-  🔗 https://www.livemint.com/companies/hcl-technologies-q2-results-202627-11791813143191.html
+- Radisson Hotel Group recalibrates India expansion, eyes bigger push into metros and premium hotels
+  The Jin Jiang-owned hotel group expects 60% of its next 250 properties to be in tier-
+  🔗 https://www.livemint.com/companies/news/radisson-hotel-group-recalibrates-india-expansion-eyes-bigger-push-into-metros-and-premium-hotels-11791892086351.html
 
-- RBL Bank expects to put most FCNR(B) funds to profitable use in 2-3 years
-  RBL Bank expects its net interest margin to decline in the December quarter. The cost of about  ₹34,000 crore raised through FCNR
-  🔗 https://www.livemint.com/companies/news/rbl-bank-expects-to-put-most-fcnr-b-funds-to-profitable-use-in-2-3-years-11791814901062.html
+- Mehli Mistry rules out reinstatement as Tata Trusts trustee, seeks final order on complaints: Report
+  Mehli Mistry has reportedly told Maharashtra’s charity commissioner he does not want to be reinstated as a trustee
+  🔗 https://www.livemint.com/companies/people/mehli-mistry-rules-out-reinstatement-as-tata-trusts-trustee-seeks-final-order-on-complaints-report-11791888891405.html
 
-- Sir Dorabji Tata Trust gets a week more to respond to complaints by two trustees
-  SDTT, which holds 27.98% of Tata Sons, has sought an extension to respond to the Charity Commissioner’s
-  🔗 https://www.livemint.com/companies/news/sir-dorabji-tata-trusts-venu-srinivasan-vijay-singh-maharashtra-charity-commissioner-11791811484496.html
+- Citi and Credendo close $328 million deal to finance IndiGo’s 8 Airbus jets
+  The financing covers six Airbus A321 and two A320. Citi acted as the sole mandated arranger
+  🔗 https://www.livemint.com/companies/news/citi-and-credendo-close-328-million-deal-to-finance-indigo-s-8-airbus-jets-11791883975762.html
 
-- Singapore Bank Selloff Tests the City-State’s Safe Haven Status
-  Singapore bank shares have been hit by fears of earnings downgrades. The selloff is putting the city-state's safe haven status
-  🔗 https://www.livemint.com/market/singapore-bank-selloff-tests-the-city-state-s-safe-haven-status-11791847678381.html
+- 'If you can't beat them, join them': Uday Kotak backs China investment, manufacturing JVs in India
+  Kotak said Indian companies partnering with Chinese firms could help expand domestic manufacturing. He drew a parallel with China's earlier strategy of collaborating with American companies.
+  🔗 https://www.livemint.com/companies/people/if-you-cant-beat-them-join-them-uday-kotak-backs-china-investment-manufacturing-jvs-in-india-11791888617413.html
 
-- Oil Holds Advance as Expanding Middle East War Threatens Supply
-  Oil held a gain as a widening conflict in the Middle East threatened to hamper a recovery in supply. There were also doubts over US President Donald Trump’s claims of an
-  🔗 https://www.livemint.com/market/oil-holds-advance-as-expanding-middle-east-war-threatens-supply-11791845172752.html
+- Japan's largest bank MUFG weighs $10 billion-plus investment to take majority control of Shriram Finance
+  Japan's largest bank is in the early stages of considering an increase in its stake in Shriram Finance
+  🔗 https://www.livemint.com/companies/news/japans-largest-bank-mufg-weighs-10-billion-plus-investment-to-take-majority-control-of-shriram-finance-11791886620773.html
 
-- Oil rallies, sending dollar higher on expectations of higher US rates
-  Oil rallies, sending dollar higher
-  🔗 https://www.livemint.com/market/oil-rallies-sending-dollar-higher-on-expectations-of-higher-us-rates-11791833490768.html
+- Sebi extends relief on IPO size tweaks until March 2027
+  In April, Sebi allowed companies to increase or decrease their issue size by up to
+  🔗 https://www.livemint.com/market/ipo/sebi-extends-relief-on-ipo-size-tweaks-until-march-2027-11791893737884.html
 
-- Demand for Crude Oil May Have Peaked Last Year, FGE Says
-  Demand for crude oil may have peaked in 2025, partly as higher need for fuels is increasingly met
-  🔗 https://www.livemint.com/market/demand-for-crude-oil-may-have-peaked-last-year-fge-says-11791832513230.html
+- Late rally: Sensex jumps 1,110 points, Nifty over 22,700: 5 factors behind market rise; these stocks rebound after UPI
+  Nifty 50 rises 1.60% and Sensex gains 1.54%. Technology stocks led the rally after HCL Technologies reported strong quarterly results. Stronger rupee, softer oil prices, and
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-jumps-1-110-points-nifty-reclaim22-700-5-reasons-behind-today-s-stock-market-rally-11791888964630.html
 
-- Dividend, rights issue record date: Last chance to buy today to qualify for amount- Vedanta, TCS, Continental Controls
-  Vedanta, TCS, Continental Controls and Energy Infrastructure Trust have set
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-rights-issue-record-date-last-chance-to-buy-today-to-qualify-for-amount-vedanta-tcs-continental-controls-11791824752741.html
+- Top stocks to buy in F&amp;O segment: M&amp;M, Shree Cements, Cholamandalam Investment by Jay Thakkar - Check targets
+  Indian markets rallied on Tuesday, with the Nifty 50 and Sensex rising more than 1.5%. IT stocks surged after HCLTech beat estimates. The rupee also strengthened following RBI support measures.
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-in-f-o-segment-m-m-shree-cements-cholamandalam-investment-by-jay-thakkar-check-shortterm-11791891964372.html
 
-- NYT, Economist among publishers joining coalition to curb unpaid AI use
-  The Economist among publishers joining coalition to
-  🔗 https://www.livemint.com/technology/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-11791846088141.html
+- Looking for money making shares? Monarch Capital picks Ramkrishna Forgings, TCPL Packaging - up to 20% upside
+  Monarch Networth Capital recommends Ramkrishna Forgings with a Buy rating and an  ₹806 target. It cites diversification, rising capacity util
+  🔗 https://www.livemint.com/market/stock-market-news/looking-for-money-making-shares-monarch-capital-picks-ramkrishna-forgings-tcpl-packaging-up-to-20-upside-11791885152129.html
 
-- Amazon Great Indian Festival Sale 2026: 7 premium smartphones you can buy at lower prices
-  Amazon Great Indian Festival Sale 2026 began on October 8. Offers discounts on premium smartphones from Apple, Samsung, Vivo, iQOO and Xiaomi. Samsung Galaxy S25 Ultra
-  🔗 https://www.livemint.com/technology/amazon-great-indian-festival-sale-2026-7-premium-smartphones-you-can-buy-at-lower-prices-11791803283019.html
+- Top stocks to buy for long term: Bharti Airtel, Kotak Bank, Eternal among 9 shares experts suggest - Check target price
+  Market volatility from geopolitical tensions, crude prices and foreign selling has unsettled Indian equities. Analysts see opportunities in banks
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-long-term-bharti-airtel-kotak-bank-eternal-among-9-stocks-experts-suggest-check-target-price-11791890055735.html
 
-- Xiaomi launches ultra-thin 10,000mAh magnetic power bank with 45W charging: Price, features
-  Xiaomi has launched its Jinshajiang Ultra-thin Magnetic Power Bank 10000mAh 45W in China at 399 yuan. The power bank features 20W wireless charging, 45W wired
-  🔗 https://www.livemint.com/technology/gadgets/xiaomi-launches-ultra-thin-10-000mah-magnetic-power-bank-with-45w-charging-price-features-11791797271388.html
+- Apple ‘Welcome Home’ event today: Smart Home Hub, New HomePod Mini and Apple TV expected
+  Apple is expected to unveil a new smart home hub with a screen at its ‘Welcome Home’ event on October 13,
+  🔗 https://www.livemint.com/technology/apple-welcome-home-event-today-smart-home-hub-new-homepod-mini-and-apple-tv-expected-11791889981108.html
 
-- Microsoft president says milk faces more regulation than AI
-  Microsoft president says milk faces
-  🔗 https://www.livemint.com/technology/microsoft-president-says-milk-faces-more-regulation-than-ai-11791796906520.html
+- CMF Speaker S, Speaker M launched with up to 18 hours of battery life, customizable panels
+  CMF has launched Bluetooth speakers, the Speaker S and Speaker M. The speakers have up to 18 hours of battery life, IP68 protection and customizable panels. The Speaker S is priced at GBP 49
+  🔗 https://www.livemint.com/technology/cmf-speaker-s-speaker-m-launched-with-up-to-18-hours-of-battery-life-customisable-designs-11791875187103.html
 
-- Japan data leak concerns grow as 1.67 million JR East email addresses may be exposed
-  Japan has urged banks to adopt chip-enabled passports and MyNumber cards for customer verification.
-  🔗 https://www.livemint.com/technology/japan-data-leak-concerns-grow-as-1-67-million-jr-east-email-addresses-may-be-exposed-11791780516562.html
+- iPhone 17 Pro, Pro Max discounts on Croma, Amazon, Flipkart: How to get 17 Pro under  ₹1 lakh
+  The iPhone 17 Pro 256GB has an effective price of  ₹1,26,490. Croma’s Festival of Dreams sale offers discounts, card cashback and
+  🔗 https://www.livemint.com/technology/iphone-17-pro-pro-max-discounts-on-croma-amazon-flipkart-how-to-get-pro-under-1-lakh-11791871336482.html
 
-- S&P 500 closes near flat, pressured by higher oil prices and memory chip stock losses - CNBC
-  P 500 closes near flat, pressured by higher oil prices and memory
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5
+- Cyberattack hits hundreds of French supermarkets as hackers push fridge temperatures to 50°C, spoiling food
+  A major cyberattack disrupted refrigeration systems at hundreds of supermarkets across France. The attack pushed temperatures
+  🔗 https://www.livemint.com/technology/france-supermarkets-hit-by-cyberattack-as-hackers-push-fridge-temperatures-to-50-c-spoil-food-11791868932325.html
 
-- Markets News, Oct. 12, 2026: Dow Rises, Nasdaq Slips to Start Big Week of Earnings; Bond Market Closed - Investopedia
-  The Dow Jones Industrial Average rose on Monday. The S&P 500 and the
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFNfXzlteHNoVHNQOEFZREZqaDFpYk9naWk2ZUZRZExiemlWakJCcVZ5QzdldWRJblF4SkhWM0ttMnJyLUFjeS1QX0YxSXRlODFzcXZ3Q1JtX3Zkd2tMbVZ3R29ZX0ptVHBjN25LS0tpd0dxZEdOX2xvaVdpNnZPLXFMSElfXzZMTk9LOFl2Rm0?oc=5
+- Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say
+  Banking watchdogs ramp up AI scrutiny as
+  🔗 https://www.livemint.com/technology/banking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say-11791867664209.html
 
-- Stock Market Today: Dow Edges Up, Oil Gains on Fresh Energy Strikes in Ukraine — Live Updates - WSJ
-  Stock Market Today: Dow Edges Up, Oil Gains on Fresh Energy
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOblNTYV9JS1kzM2ZZTUtSMTJOLUlqa1AtWWlqSm1pSlZyd3R5Z0ZTN0RwWVFwMFVUVFV2VXU2eTBXY3BSN0NIRFd5Q2l2Z2tkTUdsRzZoVW5TQUFrbVZqb3dpNHY1blFWRVJaVTJtTExxaERGT3MtNkJadldvVGs0WEFqQkZlbDA?oc=5
+- Stock Market Highlights, Sensex Today: Investors Earn Rs 4 Trillion As Sensex Closes 1,100 Points Higher - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUms0OGVKY2NzLUYxai1lQ0JnREJRTndaY3N4cHBybjN4dlpOTWlPN1kxTzNRS1N0REVuSzYySlBialBwNUhoV19HdGdtWnJSSXdpc1h1enRiNFRjdEFBOUlaNWtOM1lSa1
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUms0OGVKY2NzLUYxai1lQ0JnREJRTndaY3N4cHBybjN4dlpOTWlPN1kxTzNRS1N0REVuSzYySlBialBwNUhoV19HdGdtWnJSSXdpc1h1enRiNFRjdEFBOUlaNWtOM1lSa1FIV0tWekZpUjQzbzZDcklBVk5iTDNyZ3VwVFRNak5lUEt4Sy1yVWZrZDhDVUlTOEdCWW5ITTdkZU9uUlNRNUg5SVhEQkZnd2dfZXEwbWpUaUk0Zi1uNGc0R1Ftd0p3dGloRUlkWFVIcGxZ0gHbAUFVX3lxTE1fcmZadGhrVTdmcldISWJ6Y1dPenZhR29xM2xMNlo5cmhFOVhiU2N2Y09GcTZRTnFBWGF4Z2Rxa2xVY2FKUDV6aGZGSVpxekM1QktoOV92UnQwdDBVSk5LazQ0VDRFekU0N3lyczBaNDk0NjQ0VnRRdmZpZWZTbjNZVnNFRVpidlJqWjhyWEZGbUZNRlcza0VfQk8wWmwtS3l3aTRMRkxFXzA5XzBzNFpQTTJ0WmV1dExUNnNaaWNUb3BwR2dLU2FwbEpWODJaSERrQklKX0JwZjZfTQ?oc=5
 
-- Tuesday's big stock stories: What’s likely to move the market in the next trading session - CNBC
-  &nbsp;&ngt;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEExTjNJZFlfM1hqbGxIRmlEb3UzYTdUMUNNRzFqbU96ZVo5WExMMWl0RWtfTEdBcVlTZ29WSXVrZDUyZ2NCYXJoeGxsMko3NTg1U2ZLMlpEVjg3Y3Z4WXBGSWtZcjNVaUk0NzZDSlJrUFBZS01TVHpPNGRObnRRcm5yTVNSRlZmSTBIUW5ZSUgzdDVVdDlyRDh5MA?oc=5
+- Stock futures are mixed as bank earnings roll out; memory names slide after sell-off in Korea: Live updates - CNBC
+  Stock futures are mixed as bank earnings roll out. Memory names slide after sell-off in Korea.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5vWkJFUkNSVTNpSXFUNGgxZWtlWUdXSmt3eC04ZllUYm9ma3UtYUNMS1ZQbDhDX0R1am5LZlZDcmx5Q2ZkR1pUTVBaOFR1WHgtY0FTakRvVkNpY1dnSDljcEp4SGpHYkw1cVF4LUhYZndrbmY5MlRR0gF8QVVfeXFMTmZhUmNzY2Z3a2tVNVlDdHVPZXUzeUQ2a3Vjc2Y4OGZuUTdmYlRvdDhSZXhVZmN0MWpoRjNkd19QYzQxZjN6RXlLcGZGYk5jLUQ1ZUdUZVpQSHp6eDh5X05pN1lWY2JpRWlpenZDNDFGQTJSdGtaOVFrczZUdQ?oc=5
 
-- Stock markets open higher amid easing oil prices - The Hindu
-  Stock markets open higher amid easing oil
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2YwanFMcHZzMXIyNHV2cUZHNi02a1p4SE5GSXlUWExydlRmVFRnUTNDNldSUEVfV0g5LXI3UGNPRUdLUHFHQ1JkVjZOLVZjTUVvbnoxRVNYUUVaT3FfZlRmeFg2a0tVcWVGbVoxak50OFM0MnJUX1JXVjJ0QU83RXlPbWF0dnpMR0ZKSkE2UU5CNzFHV0ZZRVFxN3hGeHhoX1FacldxdTlaVm01LUZz0gG2AUFVX3lxTFBLSElGcnFEem10SjM3R0JjUENPLUNacFlFdkFKUEplSEtmTlJpbTZITEVZMTBZV05xb2kzQ2RyRlhYTnEyRUl4cmxacjhNSVJFTW5jOTh3MXhrWTN0MENwTHlKNVdsMXY2Sk0yNVM0dnFFMWZaQnl1ZEgxT2hRZ2NibkNOeFpvZk52VGE3VTdLNElwcFc4WlBCT2tVTEdSdDJZU3gwUnhXemRXM0tYenJvQmZDS05B?oc=5
+- Jim Cramer's top 10 things to watch in the stock market Tuesday - CNBC
+  Jim Cramer's top 10 things to watch in
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0RlZ2Y1S2owQm85QnNPNm9PVk9FNXBwMXhKU2lkNGMyTzVfa1ZUT1huUWZQWnQxVzE5Mm1EbzFiS0JJQTFkckFSX2w2M245SHNHenNjM1pVSEFCSTZQX3VmWVBlQUpHU0pEY0Q3N2hrVzljYlg4V3g5R3dubDRmZ3k5VEdwQzlzeXZ6eTVzejEyR0ladmxhTlBEdDAwMU15Mk1IXzU4dHp6azRSamNuajY3QQ?oc=5
 
-- US stocks: Nasdaq ends lower as oil prices surge ahead of earnings, economic data
-  The S&amp;P 500 and Dow Jones saw mixed performances, while the energy sector thrived. The Nasdaq composite index faced a downturn as oil prices surged.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-lower-as-oil-prices-surge-ahead-of-earnings-economic-data/articleshow/134902064.cms
+- Bitcoin Rebounds Toward USD 84,000 as Crypto Market Recovers After USD 770 Million in Liquidations - Odisha Diary
+  Bitcoin Rebounds Toward USD 84,000 as Crypto Market Recovers
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWxqT1JzMk15MUd3NGxFaE5iYXpIRmV5Q0U1d19aeFJTREVTOW5XWHYzZlQ1bW9MZHF3Q0gzc2lEZUtDNzZ6RWZJdUJITlFSbVFHV3U3am9zSjZnbEdDUFFTNjdIRGZ1bU10UjBWSDRSdnNzbmlSZ0UyNnRvQTJDSTdWanBHUnVYSzBHZmZNRnFFeDdiNmdVWDRqQ28yWDM5UnZ6T2dtdzRRYXhLcjF1SHFfZl8zZUVEbjh5NWdidw?oc=5
 
-- Cleveland Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly'
-  Cleveland Fed President Beth Hammack has stressed the urgency of adopting a strict monetary policy. Hammack advocates for prompt adjustments to keep inflation on target at 2%, emphasizing transparency in Fed policies.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/cleveland-feds-hammack-backs-restrictive-policy-says-better-if-it-comes-relatively-quickly/articleshow/134901637.cms
+- Chip selloff extends as South Korean stock market sinks 6% - Yahoo Finance
+  South Korean stock market sinks 6% as chip
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0N3bmNZdk5BZEFJY2JJU1FTSEFsXzRkMGlkaF9EMWVNSERqYTJVdm1fazRhS1kwMHN6QVdBMjBFMjJ4TGRIRE1sS0E0VVozMy13MkxKcG0tZDFtNzhUTFNvanM1TUlqUjFGS2JHQ1YxRjU2ZHljQXFkOWltaDRvUG5FS0RhSVo2djliMU1zZGZleVJVWUF5andaanpSWGczak5jd250MTZUNVhzUTJPUGNKN3Z3V2Jrb2hGOTJB?oc=5
 
-- US Stocks: Dating app Bumble shares surge 52% on talks to go private at $1 billion valuation
-  Bumble is reportedly in advanced negotiations for a private acquisition by Ithaca Holdings. This potential acquisition follows a decline in Bumble's market valuation, which was around $389 million recently.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dating-app-bumble-shares-surge-52-on-talks-to-go-private-at-1-billion-valuation-report/articleshow/134901295.cms
+- India's benchmark bond breaks 4-day falling streak as value investors return
+  Indian government bonds have rebounded following a significant rise in yields. The benchmark bond yield has risen due to a central bank policy rate hike. The rupee has appreciated against the dollar after the central bank implemented new measures.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indias-benchmark-bond-breaks-4-day-falling-streak-as-value-investors-return/articleshow/134918791.cms
 
-- US bank stocks near correction as earnings loom, consumer outlook in focus
-  US bank stocks are nearing correction territory ahead of earnings. Investors watching for clues on consumer resilience amid elevated borrowing costs and rising Treasury yields.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bank-stocks-near-correction-as-earnings-loom-consumer-outlook-in-focus/articleshow/134900177.cms
+- Anand Rathi Share and Stock Brokers Q2 results: Profit jumps 50% YoY to Rs 42 crore, revenue rises 20%
+  Anand Rathi Share and Stock Brokers reported a 50% year-on-year rise in consolidated net profit to Rs 41.93 crore in Q2FY27. Revenue from operations grew 20.25%
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-share-and-stock-brokers-q2-results-profit-jumps-50-yoy-to-rs-42-crore-revenue-rises-20/articleshow/134918674.cms
 
-- Polycab India’s F&amp;O exit: NSE sets December 30 deadline; NCLAT stays insolvency order
-  NSE will remove Polycab India from the equity derivatives segment from December 30, 2026. NCLAT has stayed the NCLT order admitting insolvency proceedings against the company.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/polycab-indias-fo-exit-nse-sets-december-30-deadline-nclat-stays-insolvency-order/articleshow/134898074.cms
+- Market wrap:  HCL Tech, TCS, Kotak Bank, Eternal top gainers and losers on Nifty and Sensex on Tuesday
+  Indian equity markets rallied over 1.5% on Tuesday. IT stocks led the advance, with HCL Tech and TCS topping the gainers’ lists. Kotak Mahindra Bank, Eternal and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-hcl-tech-tcs-kotak-bank-eternal-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134918550.cms
 
-- Rahul Gandhi leads opposition march to top court to demand election chief resign - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5
+- Tata Elxsi Q2 Results: Profit rises 10% YoY to Rs 170 crore; revenue grows 15%
+  Tata Elxsi reported a 10% year-on-year rise in net profit to Rs 170 crore in Q2. Higher employee and operating expenses, along with lower other income, weighed on margins.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-elxsi-q2-results-profit-rises-10-yoy-to-rs-170-crore-revenue-grows-15/articleshow/134918419.cms
 
-- Agencies flagged security concerns over satellite internet of foreign operator - The Times of India
-  Agencies flagged security concerns over satellite internet of foreign operator
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVBQWno0NHNHcTlqREFnTS15NHg1OGNfMm1pODY2U2liTGFRdXNSSWtEU1pFc3g1NldKcnpFNHlwVzV4a2N2TG5sZmZ4YU9wT05ZeW5DQXhSZjQ0Y1pVcjd6MlBhYW5GOXFyWW1XUDFlTDFUV0FZaDBwdk1lTkR5NUNOaXZ1UXJrWXJ2VVh6Uzhkc2prR3VQcV92LURnVEh5LWFDRFlVRU1Kb19ua3pMNERFWHNaQWJMMlNjdThBZjBnbU1qMXA4d1dOUjN5T0tyY3ZUS3NSYjM4Yk92R1Q00gHkAUFVX3lxTE5DM3JFU2UzTFkyMlFxVEJaQkdTdTRDNi1ocjlKSWd0dUJkbFFleWRQR2dVNXpTRHZZd0FkODZWQXlLeERrbWM0bVEtRVBrdWpZWnI0a3hCRGVtSkJQa2kzUjdtV1JzV1hvMjBmb05wM1lwZHFBWkFfLUd3QVZLUzVDcWxtUFQ2R2RmTnhYVkhYOVpVcFUzQUcyVHpVa1JFQlJQdFFlSlg4V1JEQ2dfelUzeHlvTGgzREhWSmJjSVlrMktTTGs0ODZMNlN2eEV0dmRqRFUzZGVKdk51UXpvaVJzSEc5Tg?oc=5
+- US stocks: Goldman Sachs quarterly profit rises on equities strength
+  Equities revenue soared by 72%, amounting to $6.44 billion. Investment banking fees grew by 21% due to a rise in underwriting activities.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-goldman-sachs-quarterly-profit-rises-on-equities-strength/articleshow/134918322.cms
 
-- Booking Open 3 Days This Year. Why Delhi's Ramlila Maidan Is A Costly Affair - NDTV
-  New Delhi's Ramlila Maidan is set to open
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaE04T3BjLUFRU2FKd0VSMDJUSWlpWWZsaU9zeGYzUTdCbEpZV2Q3aWh3MVB5RV9vdlpiTlNBYzVkdFkzY3F5WE5zNkI4czhIQWh1R2hEUXJTbkFlLWg0cWk4UVp4VEJPbHdxSm02cE1RQ28zWUI4LTVEamhpSmo2QjVHXzNWWEk2SUcwZWQtX3VzdUJBd0FXZldiSjJDSVNkbElzYWVJeUh0Z2VQby1iWElINNIBuwFBVV95cUxPUllOWkVuUHF6bjNqbUNDNzRhRkFFR2UzSXkwODFfRVZDeDZnaXh0YjcteXBpbXk1aGtVdGVGVkRXZVdpYklPQU41WTE4NXN6MXNKVEFXVGtxdTEwcUYxd2ltYXVYZ25nQmZnWDJ2RmY1OHhGam1QZElYNk5KMF9kbWZsblc2cnZIUVFJX0t3QmVRMk9OanpwUGZSaDg5blM2SXhySmhpMHpnR2dSS1paNmduYWdfMGhuNEhN?oc=5
+- Video: 'This Is Not The India I Remember,' Foreign Woman Compares Road Trips In India 17 Years Apart - NDTV
+  'This Is Not The India I Remember,' Foreign Woman Compares Road Trips
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQM09sX2RGYVhfYjY2M1JtOW01azdadVBBR2ppbmZtWUpnbEdJNUJuRUZEQ1FBUzJEN3BLTXVGWkpSTHlyWEJiY1RUMUVIY3lEV3E5MVVFSTJFREF2bWVZQTNnMk9WOXV5bUdZLXVkVGEzSHlseGM5N245Rjc4ZU43WDBob0EzVnNUd2xvaVhtazhydF9taGY1VHZOXy1Yekg3UTJvVVlBLUU0bXZaa3Z1R2dkdkQ2dWZnLWh5aEI5Z0ZheXBIOFhqRWZDM0FCZ9IB1gFBVV95cUxOMHhCb1k0U1BPTTAzc2ZrTlpPRmR1VkVvRmpzRHZRZlRFdDF3dVRQMjhaNzJQNzNtRHNEOGcwY1A0N3lrdTJ5SGJwNEMzeGRfbWI4eWFCWTVhbmpYRUpyUU5YSUFvdDZJTHFEQzhDckhlaDZPVmZZR2hmc1FHLUgxZFhjeEhLby1pbDNQYm1jeTdLMlN4eU9EazBRMjgzRTdYOG15ZnlNQUhFNW5fcDQ5WWJFaUFSYjk3aW10Yk82Vl9Db2x5VHlSQXV4TWxBM3pPdElsaENR?oc=5
 
-- Jantar Mantar out as protest hub; 3 new venues named - The Times of India
-  Jantar Mantar out as protest hub; 3
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWk2SDEzeUdWLUFKbWZCeFpYb1NJU3paaUh2cDB0Z0pmcnF1SnRPQnlzN0pFbkJVUEk5QVV2V3paQ0drdnFPSHhjcERjSU9PT0dvTlF2a0I1M2FMWnp1WUhnZ0p5ZExtOTZ2dGdXY0lmRHNzc1h0WUxWcE9mWXptTldCQ0I2Y2xNYXRFRkgyMUNySUpnTVBFT2Q5OEhORVlRNHRib2xVZEpsajZVTDVUZW5zcXdlMVRxZV840gHAAUFVX3lxTE5wWVZxbExNRVI0OUxDMWNuMnliNHBaLUdYRUJTaXRhRXMzendHMjd3NzRjOEVvZzI2M09YYV9jWG42TGs3STRzNXZ6cm5oaUNsb1k1ZmhaZm5WYUE0UmE2T3RmZ3EyZkx0RWp0eW4wOXN0QVdMU2JTZWV0eDFMZmgyZHhQMU8tZUFBeExOUm5PWDVlVDhySDBKZHh5WEdCYXZfeUNJRXJGYVFBUFV1MFU5N19HRmREV0Q2V1BhRDJacQ?oc=5
+- The great Indian scam trap: More aware, yet still vulnerable - The Times of India
+  The great Indian scam trap: More aware, yet still
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1ZFWUNtRVRKVHNhLWZqMWRQeHNHMTJHTmdCSVM4VnNUNVRsSkNSM09MdUdkNkJkYzQzRllRMlJ4NjU5bnVlMHk0VG1zN0xoZ0IyNW9fbWxQaVNiTjA2WGNsQWdDeDN4cENXNlpodE9ORTUxdnhkTS1BejlmMTRxWThad3U2N0JCcGRZZHRxUUNCSVJSQVRCb3p2cUlnTzdvYmhKUVNpaDZnVjRtbXlSckFqOTVHLTIwZ1ZDeUF2ZmJQRGk5?oc=5
 
-- 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
-  'Cockroach' group leaders
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZmljM0lTU2duYUpNbVFRN2FyMXdrV29IeVZvMjNTaU1TUGJhd0Q5RUpCdmh1Vk1laTh4UWJsZUNESHBZOFhrTmgtMEhsNGNicDRvWlVQTzd2SW8?oc=5
+- Evening news wrap: India reaffirms Ladakh claim, Punjab anti-drug activist shot dead, BJP targets Rahul - The Times of India
+  India reaffirms Ladakh claim, Punjab anti-drug activist shot dead, BJP
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPX2RoZDNhV2lUdUxpelJLQWsyeWQteFhPb0c5emhnZG1NbVp4aVFVb2RoNC1Ta01MY0hrN0hQN05yRXlGbndCRkxmNG1XWEtfSi1xOXNQV0k2SmZRcFFoamNQQXMxUEFnUXU2U2o5ODhOVlRLTkVmdmw2Y1EzcXE3MFVJRU5TNy1PLU1xVmdmdUNxc2o2eHBIZGVsZ0NfUlB3TkpPYnlraHZSYXJKUGNkYXB6cDVJY2Y3cUFXVzIzd1RISmt2Vm9OMWFiR1hCanNuSkR5MXVVbnBsVHByNFljNE04eDJMelhLay1NMTBua0tsejFYREV4emlpTlNzYXp5Mi13ejZ1LXpqZENOQzd3d0U0ZVpBdEFpLUHSAZ8CQVVfeXFMTVozUmd0eTZRdWZCazFPb1h2b0dzaFJlU3F3UFZaOUpPLS1KMFoyMkNOTXdUMlY1dVczdnVWNXV1U3V2cUNmRW5EMjdZeVlVZzlEd09Jd21LTW9YSXFMUU1Mem1WdWozWHlNNS15NEVDaTFFVTNfY1hBUkJJVUk0d1l0SEo5a0xjU1J4dXZ0QmtxaE9UMmJqbTJnLWR6ZEplNzRxV285WkFIZnZKSV9lMmVxYUFsWlpGM1BwOGctQ1A1QmY2LTRZYzlBUFZPYm0wWnBnS3BFT1lOMVVzeVh3cWkwSUU0TExmOGdNQWRyQk1ONmtQWHYyWFVSTk1GZGNqd0l4SDBfTUtiWElER0hVajVxWWdIZEFsWHFpcmRMRG8?oc=5
 
-- Qualcomm Sells Shadowfax Shares Worth ₹157 Cr In Bulk Deal
-  Early backer Qualcomm Ventures has sold 57.1 Lakh shares of listed logistics company Shadowfax.
-  🔗 https://inc42.com/buzz/qualcomm-sells-shadowfax-shares-worth-%e2%82%b9157-cr-in-bulk-deal/
-
-- RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying ₹7,131 Cr To Strengthen Deeptech Startups
-  Central government-backed ₹1 Lakh Cr Research, Development and Innovation (RDI) Fund has approved 19 second-level fund managers (SL
-  🔗 https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/
-
-- Nazara Top Deck Shuffle: Founder Mittersain Steps Down As MD; Caratlane’s Sacheti Takes Executive Role
-  Nazara Technologies announced a major leadership reshuffle today. Founder Nitish Mittersain stepped down as the company's CEO.
-  🔗 https://inc42.com/buzz/nazara-top-deck-shuffle-founder-mittersain-steps-down-as-md-caratlanes-sacheti-takes-executive-role/
-
-- Whizzo To Raise $26 Mn From Aavishkaar Capital, Bertelsmann
-  Bengaluru-based Whizzo is in talks to raise around $26 Mn in its Series B funding round which could be co-led by Bertelsmann.
-  🔗 https://inc42.com/buzz/manufacturing-startup-whizzo-to-raise-26-mn-from-aavishkar-capital-bertelsmann/
-
-- [Update] Alpha Wave Ventures Sells Lenskart Shares Worth ₹1,705 Cr
-  Early backer Alpha Wave Ventures has sold 2.64 Cr shares in a bulk deal.
-  🔗 https://inc42.com/buzz/lenskart-shares-slump-5-amid-bulk-deal-buzz/
-
-- Rahul Gandhi leads opposition march to top court to demand election chief resign - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5
-
-- Agencies flagged security concerns over satellite internet of foreign operator - The Times of India
-  Agencies flagged security concerns over satellite internet of foreign operator
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVBQWno0NHNHcTlqREFnTS15NHg1OGNfMm1pODY2U2liTGFRdXNSSWtEU1pFc3g1NldKcnpFNHlwVzV4a2N2TG5sZmZ4YU9wT05ZeW5DQXhSZjQ0Y1pVcjd6MlBhYW5GOXFyWW1XUDFlTDFUV0FZaDBwdk1lTkR5NUNOaXZ1UXJrWXJ2VVh6Uzhkc2prR3VQcV92LURnVEh5LWFDRFlVRU1Kb19ua3pMNERFWHNaQWJMMlNjdThBZjBnbU1qMXA4d1dOUjN5T0tyY3ZUS3NSYjM4Yk92R1Q00gHkAUFVX3lxTE5DM3JFU2UzTFkyMlFxVEJaQkdTdTRDNi1ocjlKSWd0dUJkbFFleWRQR2dVNXpTRHZZd0FkODZWQXlLeERrbWM0bVEtRVBrdWpZWnI0a3hCRGVtSkJQa2kzUjdtV1JzV1hvMjBmb05wM1lwZHFBWkFfLUd3QVZLUzVDcWxtUFQ2R2RmTnhYVkhYOVpVcFUzQUcyVHpVa1JFQlJQdFFlSlg4V1JEQ2dfelUzeHlvTGgzREhWSmJjSVlrMktTTGs0ODZMNlN2eEV0dmRqRFUzZGVKdk51UXpvaVJzSEc5Tg?oc=5
-
-- Booking Open 3 Days This Year. Why Delhi's Ramlila Maidan Is A Costly Affair - NDTV
-  New Delhi's Ramlila Maidan is set to open
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaE04T3BjLUFRU2FKd0VSMDJUSWlpWWZsaU9zeGYzUTdCbEpZV2Q3aWh3MVB5RV9vdlpiTlNBYzVkdFkzY3F5WE5zNkI4czhIQWh1R2hEUXJTbkFlLWg0cWk4UVp4VEJPbHdxSm02cE1RQ28zWUI4LTVEamhpSmo2QjVHXzNWWEk2SUcwZWQtX3VzdUJBd0FXZldiSjJDSVNkbElzYWVJeUh0Z2VQby1iWElINNIBuwFBVV95cUxPUllOWkVuUHF6bjNqbUNDNzRhRkFFR2UzSXkwODFfRVZDeDZnaXh0YjcteXBpbXk1aGtVdGVGVkRXZVdpYklPQU41WTE4NXN6MXNKVEFXVGtxdTEwcUYxd2ltYXVYZ25nQmZnWDJ2RmY1OHhGam1QZElYNk5KMF9kbWZsblc2cnZIUVFJX0t3QmVRMk9OanpwUGZSaDg5blM2SXhySmhpMHpnR2dSS1paNmduYWdfMGhuNEhN?oc=5
-
-- Jantar Mantar out as protest hub; 3 new venues named - The Times of India
-  Jantar Mantar out as protest hub; 3
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWk2SDEzeUdWLUFKbWZCeFpYb1NJU3paaUh2cDB0Z0pmcnF1SnRPQnlzN0pFbkJVUEk5QVV2V3paQ0drdnFPSHhjcERjSU9PT0dvTlF2a0I1M2FMWnp1WUhnZ0p5ZExtOTZ2dGdXY0lmRHNzc1h0WUxWcE9mWXptTldCQ0I2Y2xNYXRFRkgyMUNySUpnTVBFT2Q5OEhORVlRNHRib2xVZEpsajZVTDVUZW5zcXdlMVRxZV840gHAAUFVX3lxTE5wWVZxbExNRVI0OUxDMWNuMnliNHBaLUdYRUJTaXRhRXMzendHMjd3NzRjOEVvZzI2M09YYV9jWG42TGs3STRzNXZ6cm5oaUNsb1k1ZmhaZm5WYUE0UmE2T3RmZ3EyZkx0RWp0eW4wOXN0QVdMU2JTZWV0eDFMZmgyZHhQMU8tZUFBeExOUm5PWDVlVDhySDBKZHh5WEdCYXZfeUNJRXJGYVFBUFV1MFU5N19HRmREV0Q2V1BhRDJacQ?oc=5
+- CJP: India 'cockroach' leaders detained after entering barricaded protest site - BBC
+  CJP: India 'cockroach'
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0aVFHakc0aEZKMVJIZHExMlNLZGRLRDJHYm9SSkRWVFpRSGs1RjhpYkVPOTU3bU5YLTRVdFMzYmhvNktaNWRtWEo0T0dvWW83QjRWSDMzMVhTWkU?oc=5
 
 - 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
   'Cockroach' group leaders
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZmljM0lTU2duYUpNbVFRN2FyMXdrV29IeVZvMjNTaU1TUGJhd0Q5RUpCdmh1Vk1laTh4UWJsZUNESHBZOFhrTmgtMEhsNGNicDRvWlVQTzd2SW8?oc=5
 
-- Rahul Gandhi leads opposition march to top court to demand election chief resign - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5" target="_bla
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5
+- Video: 'This Is Not The India I Remember,' Foreign Woman Compares Road Trips In India 17 Years Apart - NDTV
+  'This Is Not The India I Remember,' Foreign Woman Compares Road Trips
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQM09sX2RGYVhfYjY2M1JtOW01azdadVBBR2ppbmZtWUpnbEdJNUJuRUZEQ1FBUzJEN3BLTXVGWkpSTHlyWEJiY1RUMUVIY3lEV3E5MVVFSTJFREF2bWVZQTNnMk9WOXV5bUdZLXVkVGEzSHlseGM5N245Rjc4ZU43WDBob0EzVnNUd2xvaVhtazhydF9taGY1VHZOXy1Yekg3UTJvVVlBLUU0bXZaa3Z1R2dkdkQ2dWZnLWh5aEI5Z0ZheXBIOFhqRWZDM0FCZ9IB1gFBVV95cUxOMHhCb1k0U1BPTTAzc2ZrTlpPRmR1VkVvRmpzRHZRZlRFdDF3dVRQMjhaNzJQNzNtRHNEOGcwY1A0N3lrdTJ5SGJwNEMzeGRfbWI4eWFCWTVhbmpYRUpyUU5YSUFvdDZJTHFEQzhDckhlaDZPVmZZR2hmc1FHLUgxZFhjeEhLby1pbDNQYm1jeTdLMlN4eU9EazBRMjgzRTdYOG15ZnlNQUhFNW5fcDQ5WWJFaUFSYjk3aW10Yk82Vl9Db2x5VHlSQXV4TWxBM3pPdElsaENR?oc=5
 
-- Agencies flagged security concerns over satellite internet of foreign operator - The Times of India
-  Agencies flagged security concerns over satellite internet of foreign operator
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVBQWno0NHNHcTlqREFnTS15NHg1OGNfMm1pODY2U2liTGFRdXNSSWtEU1pFc3g1NldKcnpFNHlwVzV4a2N2TG5sZmZ4YU9wT05ZeW5DQXhSZjQ0Y1pVcjd6MlBhYW5GOXFyWW1XUDFlTDFUV0FZaDBwdk1lTkR5NUNOaXZ1UXJrWXJ2VVh6Uzhkc2prR3VQcV92LURnVEh5LWFDRFlVRU1Kb19ua3pMNERFWHNaQWJMMlNjdThBZjBnbU1qMXA4d1dOUjN5T0tyY3ZUS3NSYjM4Yk92R1Q00gHkAUFVX3lxTE5DM3JFU2UzTFkyMlFxVEJaQkdTdTRDNi1ocjlKSWd0dUJkbFFleWRQR2dVNXpTRHZZd0FkODZWQXlLeERrbWM0bVEtRVBrdWpZWnI0a3hCRGVtSkJQa2kzUjdtV1JzV1hvMjBmb05wM1lwZHFBWkFfLUd3QVZLUzVDcWxtUFQ2R2RmTnhYVkhYOVpVcFUzQUcyVHpVa1JFQlJQdFFlSlg4V1JEQ2dfelUzeHlvTGgzREhWSmJjSVlrMktTTGs0ODZMNlN2eEV0dmRqRFUzZGVKdk51UXpvaVJzSEc5Tg?oc=5
+- The great Indian scam trap: More aware, yet still vulnerable - The Times of India
+  The great Indian scam trap: More aware, yet still
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1ZFWUNtRVRKVHNhLWZqMWRQeHNHMTJHTmdCSVM4VnNUNVRsSkNSM09MdUdkNkJkYzQzRllRMlJ4NjU5bnVlMHk0VG1zN0xoZ0IyNW9fbWxQaVNiTjA2WGNsQWdDeDN4cENXNlpodE9ORTUxdnhkTS1BejlmMTRxWThad3U2N0JCcGRZZHRxUUNCSVJSQVRCb3p2cUlnTzdvYmhKUVNpaDZnVjRtbXlSckFqOTVHLTIwZ1ZDeUF2ZmJQRGk5?oc=5
 
-- Booking Open 3 Days This Year. Why Delhi's Ramlila Maidan Is A Costly Affair - NDTV
-  New Delhi's Ramlila Maidan is set to open
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaE04T3BjLUFRU2FKd0VSMDJUSWlpWWZsaU9zeGYzUTdCbEpZV2Q3aWh3MVB5RV9vdlpiTlNBYzVkdFkzY3F5WE5zNkI4czhIQWh1R2hEUXJTbkFlLWg0cWk4UVp4VEJPbHdxSm02cE1RQ28zWUI4LTVEamhpSmo2QjVHXzNWWEk2SUcwZWQtX3VzdUJBd0FXZldiSjJDSVNkbElzYWVJeUh0Z2VQby1iWElINNIBuwFBVV95cUxPUllOWkVuUHF6bjNqbUNDNzRhRkFFR2UzSXkwODFfRVZDeDZnaXh0YjcteXBpbXk1aGtVdGVGVkRXZVdpYklPQU41WTE4NXN6MXNKVEFXVGtxdTEwcUYxd2ltYXVYZ25nQmZnWDJ2RmY1OHhGam1QZElYNk5KMF9kbWZsblc2cnZIUVFJX0t3QmVRMk9OanpwUGZSaDg5blM2SXhySmhpMHpnR2dSS1paNmduYWdfMGhuNEhN?oc=5
+- Evening news wrap: India reaffirms Ladakh claim, Punjab anti-drug activist shot dead, BJP targets Rahul - The Times of India
+  India reaffirms Ladakh claim, Punjab anti-drug activist shot dead, BJP
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPX2RoZDNhV2lUdUxpelJLQWsyeWQteFhPb0c5emhnZG1NbVp4aVFVb2RoNC1Ta01MY0hrN0hQN05yRXlGbndCRkxmNG1XWEtfSi1xOXNQV0k2SmZRcFFoamNQQXMxUEFnUXU2U2o5ODhOVlRLTkVmdmw2Y1EzcXE3MFVJRU5TNy1PLU1xVmdmdUNxc2o2eHBIZGVsZ0NfUlB3TkpPYnlraHZSYXJKUGNkYXB6cDVJY2Y3cUFXVzIzd1RISmt2Vm9OMWFiR1hCanNuSkR5MXVVbnBsVHByNFljNE04eDJMelhLay1NMTBua0tsejFYREV4emlpTlNzYXp5Mi13ejZ1LXpqZENOQzd3d0U0ZVpBdEFpLUHSAZ8CQVVfeXFMTVozUmd0eTZRdWZCazFPb1h2b0dzaFJlU3F3UFZaOUpPLS1KMFoyMkNOTXdUMlY1dVczdnVWNXV1U3V2cUNmRW5EMjdZeVlVZzlEd09Jd21LTW9YSXFMUU1Mem1WdWozWHlNNS15NEVDaTFFVTNfY1hBUkJJVUk0d1l0SEo5a0xjU1J4dXZ0QmtxaE9UMmJqbTJnLWR6ZEplNzRxV285WkFIZnZKSV9lMmVxYUFsWlpGM1BwOGctQ1A1QmY2LTRZYzlBUFZPYm0wWnBnS3BFT1lOMVVzeVh3cWkwSUU0TExmOGdNQWRyQk1ONmtQWHYyWFVSTk1GZGNqd0l4SDBfTUtiWElER0hVajVxWWdIZEFsWHFpcmRMRG8?oc=5
 
-- Jantar Mantar out as protest hub; 3 new venues named - The Times of India
-  Jantar Mantar out as protest hub; 3
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWk2SDEzeUdWLUFKbWZCeFpYb1NJU3paaUh2cDB0Z0pmcnF1SnRPQnlzN0pFbkJVUEk5QVV2V3paQ0drdnFPSHhjcERjSU9PT0dvTlF2a0I1M2FMWnp1WUhnZ0p5ZExtOTZ2dGdXY0lmRHNzc1h0WUxWcE9mWXptTldCQ0I2Y2xNYXRFRkgyMUNySUpnTVBFT2Q5OEhORVlRNHRib2xVZEpsajZVTDVUZW5zcXdlMVRxZV840gHAAUFVX3lxTE5wWVZxbExNRVI0OUxDMWNuMnliNHBaLUdYRUJTaXRhRXMzendHMjd3NzRjOEVvZzI2M09YYV9jWG42TGs3STRzNXZ6cm5oaUNsb1k1ZmhaZm5WYUE0UmE2T3RmZ3EyZkx0RWp0eW4wOXN0QVdMU2JTZWV0eDFMZmgyZHhQMU8tZUFBeExOUm5PWDVlVDhySDBKZHh5WEdCYXZfeUNJRXJGYVFBUFV1MFU5N19HRmREV0Q2V1BhRDJacQ?oc=5
+- CJP: India 'cockroach' leaders detained after entering barricaded protest site - BBC
+  CJP: India 'cockroach'
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0aVFHakc0aEZKMVJIZHExMlNLZGRLRDJHYm9SSkRWVFpRSGs1RjhpYkVPOTU3bU5YLTRVdFMzYmhvNktaNWRtWEo0T0dvWW83QjRWSDMzMVhTWkU?oc=5
+
+- 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
+  'Cockroach' group leaders
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZmljM0lTU2duYUpNbVFRN2FyMXdrV29IeVZvMjNTaU1TUGJhd0Q5RUpCdmh1Vk1laTh4UWJsZUNESHBZOFhrTmgtMEhsNGNicDRvWlVQTzd2SW8?oc=5
+
+- Video: 'This Is Not The India I Remember,' Foreign Woman Compares Road Trips In India 17 Years Apart - NDTV
+  'This Is Not The India I Remember,' Foreign Woman Compares Road Trips
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQM09sX2RGYVhfYjY2M1JtOW01azdadVBBR2ppbmZtWUpnbEdJNUJuRUZEQ1FBUzJEN3BLTXVGWkpSTHlyWEJiY1RUMUVIY3lEV3E5MVVFSTJFREF2bWVZQTNnMk9WOXV5bUdZLXVkVGEzSHlseGM5N245Rjc4ZU43WDBob0EzVnNUd2xvaVhtazhydF9taGY1VHZOXy1Yekg3UTJvVVlBLUU0bXZaa3Z1R2dkdkQ2dWZnLWh5aEI5Z0ZheXBIOFhqRWZDM0FCZ9IB1gFBVV95cUxOMHhCb1k0U1BPTTAzc2ZrTlpPRmR1VkVvRmpzRHZRZlRFdDF3dVRQMjhaNzJQNzNtRHNEOGcwY1A0N3lrdTJ5SGJwNEMzeGRfbWI4eWFCWTVhbmpYRUpyUU5YSUFvdDZJTHFEQzhDckhlaDZPVmZZR2hmc1FHLUgxZFhjeEhLby1pbDNQYm1jeTdLMlN4eU9EazBRMjgzRTdYOG15ZnlNQUhFNW5fcDQ5WWJFaUFSYjk3aW10Yk82Vl9Db2x5VHlSQXV4TWxBM3pPdElsaENR?oc=5
+
+- The great Indian scam trap: More aware, yet still vulnerable - The Times of India
+  The great Indian scam trap: More aware, yet still
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1ZFWUNtRVRKVHNhLWZqMWRQeHNHMTJHTmdCSVM4VnNUNVRsSkNSM09MdUdkNkJkYzQzRllRMlJ4NjU5bnVlMHk0VG1zN0xoZ0IyNW9fbWxQaVNiTjA2WGNsQWdDeDN4cENXNlpodE9ORTUxdnhkTS1BejlmMTRxWThad3U2N0JCcGRZZHRxUUNCSVJSQVRCb3p2cUlnTzdvYmhKUVNpaDZnVjRtbXlSckFqOTVHLTIwZ1ZDeUF2ZmJQRGk5?oc=5
+
+- Evening news wrap: India reaffirms Ladakh claim, Punjab anti-drug activist shot dead, BJP targets Rahul - The Times of India
+  India reaffirms Ladakh claim, Punjab anti-drug activist shot dead, BJP
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPX2RoZDNhV2lUdUxpelJLQWsyeWQteFhPb0c5emhnZG1NbVp4aVFVb2RoNC1Ta01MY0hrN0hQN05yRXlGbndCRkxmNG1XWEtfSi1xOXNQV0k2SmZRcFFoamNQQXMxUEFnUXU2U2o5ODhOVlRLTkVmdmw2Y1EzcXE3MFVJRU5TNy1PLU1xVmdmdUNxc2o2eHBIZGVsZ0NfUlB3TkpPYnlraHZSYXJKUGNkYXB6cDVJY2Y3cUFXVzIzd1RISmt2Vm9OMWFiR1hCanNuSkR5MXVVbnBsVHByNFljNE04eDJMelhLay1NMTBua0tsejFYREV4emlpTlNzYXp5Mi13ejZ1LXpqZENOQzd3d0U0ZVpBdEFpLUHSAZ8CQVVfeXFMTVozUmd0eTZRdWZCazFPb1h2b0dzaFJlU3F3UFZaOUpPLS1KMFoyMkNOTXdUMlY1dVczdnVWNXV1U3V2cUNmRW5EMjdZeVlVZzlEd09Jd21LTW9YSXFMUU1Mem1WdWozWHlNNS15NEVDaTFFVTNfY1hBUkJJVUk0d1l0SEo5a0xjU1J4dXZ0QmtxaE9UMmJqbTJnLWR6ZEplNzRxV285WkFIZnZKSV9lMmVxYUFsWlpGM1BwOGctQ1A1QmY2LTRZYzlBUFZPYm0wWnBnS3BFT1lOMVVzeVh3cWkwSUU0TExmOGdNQWRyQk1ONmtQWHYyWFVSTk1GZGNqd0l4SDBfTUtiWElER0hVajVxWWdIZEFsWHFpcmRMRG8?oc=5
+
+- CJP: India 'cockroach' leaders detained after entering barricaded protest site - BBC
+  CJP: India 'cockroach'
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0aVFHakc0aEZKMVJIZHExMlNLZGRLRDJHYm9SSkRWVFpRSGs1RjhpYkVPOTU3bU5YLTRVdFMzYmhvNktaNWRtWEo0T0dvWW83QjRWSDMzMVhTWkU?oc=5
+
+- 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
+  'Cockroach' group leaders
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZmljM0lTU2duYUpNbVFRN2FyMXdrV29IeVZvMjNTaU1TUGJhd0Q5RUpCdmh1Vk1laTh4UWJsZUNESHBZOFhrTmgtMEhsNGNicDRvWlVQTzd2SW8?oc=5
+
+- Video: 'This Is Not The India I Remember,' Foreign Woman Compares Road Trips In India 17 Years Apart - NDTV
+  'This Is Not The India I Remember,' Foreign Woman Compares Road Trips
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQM09sX2RGYVhfYjY2M1JtOW01azdadVBBR2ppbmZtWUpnbEdJNUJuRUZEQ1FBUzJEN3BLTXVGWkpSTHlyWEJiY1RUMUVIY3lEV3E5MVVFSTJFREF2bWVZQTNnMk9WOXV5bUdZLXVkVGEzSHlseGM5N245Rjc4ZU43WDBob0EzVnNUd2xvaVhtazhydF9taGY1VHZOXy1Yekg3UTJvVVlBLUU0bXZaa3Z1R2dkdkQ2dWZnLWh5aEI5Z0ZheXBIOFhqRWZDM0FCZ9IB1gFBVV95cUxOMHhCb1k0U1BPTTAzc2ZrTlpPRmR1VkVvRmpzRHZRZlRFdDF3dVRQMjhaNzJQNzNtRHNEOGcwY1A0N3lrdTJ5SGJwNEMzeGRfbWI4eWFCWTVhbmpYRUpyUU5YSUFvdDZJTHFEQzhDckhlaDZPVmZZR2hmc1FHLUgxZFhjeEhLby1pbDNQYm1jeTdLMlN4eU9EazBRMjgzRTdYOG15ZnlNQUhFNW5fcDQ5WWJFaUFSYjk3aW10Yk82Vl9Db2x5VHlSQXV4TWxBM3pPdElsaENR?oc=5
+
+- The great Indian scam trap: More aware, yet still vulnerable - The Times of India
+  The great Indian scam trap: More aware, yet still
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1ZFWUNtRVRKVHNhLWZqMWRQeHNHMTJHTmdCSVM4VnNUNVRsSkNSM09MdUdkNkJkYzQzRllRMlJ4NjU5bnVlMHk0VG1zN0xoZ0IyNW9fbWxQaVNiTjA2WGNsQWdDeDN4cENXNlpodE9ORTUxdnhkTS1BejlmMTRxWThad3U2N0JCcGRZZHRxUUNCSVJSQVRCb3p2cUlnTzdvYmhKUVNpaDZnVjRtbXlSckFqOTVHLTIwZ1ZDeUF2ZmJQRGk5?oc=5
+
+- Evening news wrap: India reaffirms Ladakh claim, Punjab anti-drug activist shot dead, BJP targets Rahul - The Times of India
+  India reaffirms Ladakh claim, Punjab anti-drug activist shot dead, BJP
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPX2RoZDNhV2lUdUxpelJLQWsyeWQteFhPb0c5emhnZG1NbVp4aVFVb2RoNC1Ta01MY0hrN0hQN05yRXlGbndCRkxmNG1XWEtfSi1xOXNQV0k2SmZRcFFoamNQQXMxUEFnUXU2U2o5ODhOVlRLTkVmdmw2Y1EzcXE3MFVJRU5TNy1PLU1xVmdmdUNxc2o2eHBIZGVsZ0NfUlB3TkpPYnlraHZSYXJKUGNkYXB6cDVJY2Y3cUFXVzIzd1RISmt2Vm9OMWFiR1hCanNuSkR5MXVVbnBsVHByNFljNE04eDJMelhLay1NMTBua0tsejFYREV4emlpTlNzYXp5Mi13ejZ1LXpqZENOQzd3d0U0ZVpBdEFpLUHSAZ8CQVVfeXFMTVozUmd0eTZRdWZCazFPb1h2b0dzaFJlU3F3UFZaOUpPLS1KMFoyMkNOTXdUMlY1dVczdnVWNXV1U3V2cUNmRW5EMjdZeVlVZzlEd09Jd21LTW9YSXFMUU1Mem1WdWozWHlNNS15NEVDaTFFVTNfY1hBUkJJVUk0d1l0SEo5a0xjU1J4dXZ0QmtxaE9UMmJqbTJnLWR6ZEplNzRxV285WkFIZnZKSV9lMmVxYUFsWlpGM1BwOGctQ1A1QmY2LTRZYzlBUFZPYm0wWnBnS3BFT1lOMVVzeVh3cWkwSUU0TExmOGdNQWRyQk1ONmtQWHYyWFVSTk1GZGNqd0l4SDBfTUtiWElER0hVajVxWWdIZEFsWHFpcmRMRG8?oc=5
+
+- CJP: India 'cockroach' leaders detained after entering barricaded protest site - BBC
+  CJP: India 'cockroach'
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0aVFHakc0aEZKMVJIZHExMlNLZGRLRDJHYm9SSkRWVFpRSGs1RjhpYkVPOTU3bU5YLTRVdFMzYmhvNktaNWRtWEo0T0dvWW83QjRWSDMzMVhTWkU?oc=5
 
 - 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
   'Cockroach' group leaders
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-13 00:06:56 UTC_
+_Last updated: 2026-10-13 13:25:11 UTC_
