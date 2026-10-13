@@ -1,64 +1,88 @@
 # 📰 Daily News Summaries
 
-- UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts - The Guardian
-  UK to strengthen cyber defences as minister calls for AI firms to increase safety
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFpoZ1QxOWVmSkdqblhxbndMUjAyZUtFbWpIcHFnU0Q0SHNJMms1UkVLOVhmUHVDUXpIQmhmSVpoRWE5TTNHRFFXNkNSbmVhTXpFaEk3ZkU2TTk3VWt1Wk1xZE9iVkZiT0JzNDlkRXlUZEI0U0I5ZXl3aUpJWDBXN1RmaUcwYTJiZ2hNb3U0bFBoaHhvR2Z4eTI5LWNYYTRTYXJPQU56QQ?oc=5
+- Rahul Gandhi leads opposition march to top court to demand election chief resign - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5
 
-- Stellantis and Tata Motors Sign Partnership For Technology and Product Collaboration - CarWale
-  Stellantis and Tata Motors Sign Partnership For
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ1FTNFNfeDRsWHM3Q1p2SGt0alcwTlk4YUxhRnU4SmNVdHh6MWFTVmo3dUxyS1FrQnhOaWQ1OFo0SndHRllPOFQ0NjhQWmRBTlJfNmFuNTRvbHNrY3dJYkRyQnFIc2FLYVlvVVhoV3lWTC1Gb3llREF1dmtPSTE1UlBIMUdkQXJnX1JDbE1XLWVDTUZTUGIzeXN4U0x5Wm9ZZ0UyUDlrbGNYd3p5T2VWR1plU3Y?oc=5
+- Agencies flagged security concerns over satellite internet of foreign operator - The Times of India
+  Agencies flagged security concerns over satellite internet of foreign operator
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVBQWno0NHNHcTlqREFnTS15NHg1OGNfMm1pODY2U2liTGFRdXNSSWtEU1pFc3g1NldKcnpFNHlwVzV4a2N2TG5sZmZ4YU9wT05ZeW5DQXhSZjQ0Y1pVcjd6MlBhYW5GOXFyWW1XUDFlTDFUV0FZaDBwdk1lTkR5NUNOaXZ1UXJrWXJ2VVh6Uzhkc2prR3VQcV92LURnVEh5LWFDRFlVRU1Kb19ua3pMNERFWHNaQWJMMlNjdThBZjBnbU1qMXA4d1dOUjN5T0tyY3ZUS3NSYjM4Yk92R1Q00gHkAUFVX3lxTE5DM3JFU2UzTFkyMlFxVEJaQkdTdTRDNi1ocjlKSWd0dUJkbFFleWRQR2dVNXpTRHZZd0FkODZWQXlLeERrbWM0bVEtRVBrdWpZWnI0a3hCRGVtSkJQa2kzUjdtV1JzV1hvMjBmb05wM1lwZHFBWkFfLUd3QVZLUzVDcWxtUFQ2R2RmTnhYVkhYOVpVcFUzQUcyVHpVa1JFQlJQdFFlSlg4V1JEQ2dfelUzeHlvTGgzREhWSmJjSVlrMktTTGs0ODZMNlN2eEV0dmRqRFUzZGVKdk51UXpvaVJzSEc5Tg?oc=5
 
-- NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year - CNBC
-  NBA commissioner Adam Silver says league could introduce ‘smart ball’
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1QzVjhkQ0RwZWhTYWZJNFktdTFJaVA5ZkdPMHcxYXZYX2d1cWFuZ0ZhbE1jek0yeUZjdHdyTTFoOVV0YUJDemwwZEpTdVBiNUxCYThua19EQTJEa1hmalB2c21KbDREbGx0NENBaWMyR2FCb3RlTUJGS3BLeTdFTVVtMTJncnNrSWI3REU2bk8zS3puZ1BCaUh4ZHpMQkdoVFZkR1E1Z9IBrAFBVV95cUxNclh4Mmphd0x6a0QzNHpkbW9Od0dBUDVpemE5VnpITkNJZm1yV2VRLTJ5SzIxeGFlNUNxLWpCTUJZZFNXVWRSUThZSkRqcm1FX280d0FmRE5hU2dzNFJUQWlpZWRUN3JGOHduZVZ0aWE5SG5DV0xaTVhMZE1MbXhEVnRRYi1vS1RaMnBFN29fTXQzaGhoMTlncjNObDVBemo4Z1VqcDBBLV9sUXF1?oc=5
+- Booking Open 3 Days This Year. Why Delhi's Ramlila Maidan Is A Costly Affair - NDTV
+  New Delhi's Ramlila Maidan is set to open
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaE04T3BjLUFRU2FKd0VSMDJUSWlpWWZsaU9zeGYzUTdCbEpZV2Q3aWh3MVB5RV9vdlpiTlNBYzVkdFkzY3F5WE5zNkI4czhIQWh1R2hEUXJTbkFlLWg0cWk4UVp4VEJPbHdxSm02cE1RQ28zWUI4LTVEamhpSmo2QjVHXzNWWEk2SUcwZWQtX3VzdUJBd0FXZldiSjJDSVNkbElzYWVJeUh0Z2VQby1iWElINNIBuwFBVV95cUxPUllOWkVuUHF6bjNqbUNDNzRhRkFFR2UzSXkwODFfRVZDeDZnaXh0YjcteXBpbXk1aGtVdGVGVkRXZVdpYklPQU41WTE4NXN6MXNKVEFXVGtxdTEwcUYxd2ltYXVYZ25nQmZnWDJ2RmY1OHhGam1QZElYNk5KMF9kbWZsblc2cnZIUVFJX0t3QmVRMk9OanpwUGZSaDg5blM2SXhySmhpMHpnR2dSS1paNmduYWdfMGhuNEhN?oc=5
 
-- L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory - TheWire.in
-  L&amp;T Technology Services Launches EI Lab for
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdF9BcGY2YXBOY1RMdXRDdkFZSG5lQmg4dWxaMzBXUWc2NUNiMVN1a2RNQ2QwSWJXcUNSS0NlX1RmRkJPZVIxX2RYb2FsOXZlU1NicFhsQjI5MktxNXJ0TTJQUWRKTFpYZ0Z4ak8xazhqaVRmbnE3RFcxNWlSSDVDWEF0eXAxaXRMbmUxQVluVmR6eU5tRmlEcFpNUEZLOWN6SjlKN0hsQk4xdURZcmI2Ylc2VHl4YjYySldZYTV2RDdSdHA5YWhleDdwUGtlYjBIaGNJM0hTU1k2UFJOUkZjTUNFel9TSFQyZllEak1n0gHzAUFVX3lxTFB0RWg3SWdFUFJPLVI0R21KLU5vT194MXFzSUxSMVVSdHhmUGVvREVrNjNZLXBxZlVyTFlIZzlfXzdHR2wtWWsyYWRqeTJaaHVtSUJPS3VqTTlXWXlGR3FwQzlDY3ZBY1ZxZC1nSTRzZng3amg2dWRGN0pkSGtyVXRmd3JPTXJDTEJXWjBPX0VrSklSNHpucUl5ZzI3V1k3Q1k2bDYyNjZTdGpzTHQtMTFEbGFkVlpoVm9GdWdfQnN3SXM2XzhqYUg5YUZKUm9qcWJXWDl3eGNZaXJXdzEzWjJudUJoTTBBdDJSSVFPMmVvbjdfMA?oc=5
+- Jantar Mantar out as protest hub; 3 new venues named - The Times of India
+  Jantar Mantar out as protest hub; 3
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWk2SDEzeUdWLUFKbWZCeFpYb1NJU3paaUh2cDB0Z0pmcnF1SnRPQnlzN0pFbkJVUEk5QVV2V3paQ0drdnFPSHhjcERjSU9PT0dvTlF2a0I1M2FMWnp1WUhnZ0p5ZExtOTZ2dGdXY0lmRHNzc1h0WUxWcE9mWXptTldCQ0I2Y2xNYXRFRkgyMUNySUpnTVBFT2Q5OEhORVlRNHRib2xVZEpsajZVTDVUZW5zcXdlMVRxZV840gHAAUFVX3lxTE5wWVZxbExNRVI0OUxDMWNuMnliNHBaLUdYRUJTaXRhRXMzendHMjd3NzRjOEVvZzI2M09YYV9jWG42TGs3STRzNXZ6cm5oaUNsb1k1ZmhaZm5WYUE0UmE2T3RmZ3EyZkx0RWp0eW4wOXN0QVdMU2JTZWV0eDFMZmgyZHhQMU8tZUFBeExOUm5PWDVlVDhySDBKZHh5WEdCYXZfeUNJRXJGYVFBUFV1MFU5N19HRmREV0Q2V1BhRDJacQ?oc=5
 
-- L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory - ThePrint
-  T Technology Services Launches EI Lab for Manufacturing and Operations,
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdWpqN2tOREhqbjQ3SmFsZnI5anBJeDFIQml4bjdQSHRlbWtJajFsenRQTkd3b2FfWTgtdjR4N2ZXbWJWbzRGUUZBMkFxSTRmOFlpX1pXX09iSzdOWXN3THdLZEE0QTRRbHdFcTRvb0dLMnZPSmRWZFdZVEZTeWxJOElmVjBPdHdPbl9RdENFaEhGaWhlVTFWTm52bTVuTDBtNzZOaTl1c0VXMlJPeE8zZXJYeWtCVTRzWmVVSnJDc2I1djI5bF90TWhUemxRTDduazhWTUlrNXRvT3E0QWt6T3J1OXFFa3h0dmVfZnBuY3lQU203WUVqb3NR0gH_AUFVX3lxTE5WYU5VbzdNczVZVVlUUW90WkRmbEFER1ZVeFVPb3picTFZY2dvRzkyUXdmTmExdHZCSE9SWmd4T2xhd0JWWFcwVXdrYmJ5VTBsMGJuNUFNSUxKZWxTdHpBZHkwZW9WVk5sRzFXTkFDQm9LdDFmZm50Z2J3bUtRM2xJb2V2dUxWOHczV3hQeHMtVHRsZG1lSHNNYUdXNmUwcFlLcmhsZHEwUnRJa2c2VXM2N3NTRm1sX3NMcGR0dUl6aTB4T1dyNVh0MmZod0JMN041THotamdGa1VkTGVyRThSc2N2N25mUVM5bVhvUkdWcUhsZ3VwZzI5dmEtcXBGaw?oc=5
+- 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
+  'Cockroach' group leaders
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZmljM0lTU2duYUpNbVFRN2FyMXdrV29IeVZvMjNTaU1TUGJhd0Q5RUpCdmh1Vk1laTh4UWJsZUNESHBZOFhrTmgtMEhsNGNicDRvWlVQTzd2SW8?oc=5
 
-- HCLTech Q2 Results: Revenue up 11.5% but misses estimates, net profit up 21.2%
-  HCLTech Q2 Results 2026-27: Consolidated
-  🔗 https://www.livemint.com/companies/company-results/hcltech-q2-results-202627-11791811434426.html
+- AI’s mathematics blitz pushes science into strange new territory - The Economist
+  The Economist reports that AI could be used
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xkTTk5TzZPSFVTcU9vdklZbEdGZFM4LUY5R2U0ZnN1T1ZHZE5ZSUlwaEMxOHBVR2VOR0xUbU5YUUR2T0lMS3N5NFFWRGRnUGhmdUFtbjlWMzhYU1VJNUlSbU9SN3Y4VGNvRDlvNVVjN0Q4WFQ0ckQ3YkJmU1NFUVhsTDdKMHBqZnV1RWJOYm5WcWFFanZKRHhJM1JaLVZ0ZEdUVXRzNmxMQVpneUR6MXNGU0lvV1BzWmp4YTVVVkM?oc=5
 
-- LinkedIn posts about ‘women executives’ land McKinsey partner in trouble; leadership role taken away
-  McKinsey removed senior partner Chris Bradley from his leadership roles after reviewing his LinkedIn comments questioning the glass
-  🔗 https://www.livemint.com/companies/news/linkedin-posts-about-women-executives-land-mckinsey-partner-in-trouble-leadership-role-taken-away-11791806374206.html
+- Applying technology to understand and treat disease - blog.google
+  Applying technology to understand
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
 
-- Eight out of 10 new TCS hires will need to have AI skills: What is its share of AI-led work in overall revenue?
-  TCS says 80% of future hires will have digital and AI skills. 25-30% of its 4,500 Q2 hires specialising purely in AI. AI-led work reached 10
-  🔗 https://www.livemint.com/companies/news/eight-out-of-10-new-tcs-hires-will-need-to-have-ai-skills-what-is-its-share-of-ai-led-work-in-overall-revenue-11791804159477.html
+- Regional policing unit drops controversial Palantir AI technology - BBC
+  Regional policing unit drops controversial
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqcnNHMFJEWTBsVWtJX21FckhxTWwtN1YtbGVNZnlaVVhURVlSZlJvak9Zc2xXN2VVMHdVb245QTFidFpZVVhyeHFCa0NULUhLN0JtVWhpNFY1NTA?oc=5
 
-- Reliance’s Jio convention centre construction delay: SC directs MMRDA to deposit  ₹646 cr
-  The lease of the BKC land required Reliance to complete construction of the Jio World Convention Centre within four years. The
-  🔗 https://www.livemint.com/companies/news/reliance-jio-convention-centre-construction-mmrda-11791802539461.html
+- L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory - L&T Technology Services
+  L&amp;T Technology Services launches EI Lab for Manufacturing and Operations
+  🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MYktEQlQ5eC1jZVg1WDdUa3lqMnRSYkJoYzJsSjhQbEdkeVpiU0JGZUx0LTFmTUZ0Ty1HUEl4UDhIX1JMTGZ4N1c3a1VzQmtza19BcHVCTHB1aDhwMEZN?oc=5
 
-- Biotech startup PopVax begins human trials of fridge-stable covid vaccine
-  PopVax's PVX-001 is designed to remain stable at 2-8°
-  🔗 https://www.livemint.com/companies/start-ups/biotech-startup-popvaxs-fridge-safe-mrna-covid-vaccine-enters-clinic-11791795561277.html
+- TikTok CEO sees major scientific breakthroughs from AI within three years - CNBC
+  TikTok CEO sees major scientific breakthroughs
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQTW12Y2w2X2Y4TjV2SVZENTdwXzhtVFctYkhvUU1WOWdjMzVnSUNsMnYzMDFQYkZEeG9PVVh6M3BwZjQwTkVLZXdIUDhMNnNhNlJWWG1uSGFvaHc4Nk5pa0RnMDVxMVd3MEtBSHNlNjZFT2lCdXpNMDlRTjJHVHZIVHJJNmlrd085VFZSUlZB0gGTAUFVX3lxTFBzSXAzMTA5TGVZdHNtMWsyZ3FfeE95UmRfaGYzTFFCQ1pRN3pZM1B1MUNDTlV1MXNpampFYUwzbG5KWkFyWk1heFlwU1FiQ3BlXzFobTZXS001ZDJUT05QVTBESWQza0ZlOGt3Ym42WWp4QzhqbVlwVGR6OFBlX1VTM1FpZ2tXMEVBVC1PdVI1N29JYw?oc=5
 
-- Top stocks in focus tomorrow: Investors must watch HCL Tech, RBL Bank, Azad Engineering shares on Tue, 13 Oct | Triggers
-  HCL Technologies, RBL Bank, and several others report quarterly results, contract wins, and leadership changes. HCL reported higher revenue and strong AI growth, while
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-hcl-tech-rbl-bank-azad-engineering-shares-on-tue-13-oct-triggers-11791810566254.html
+- Exclusive-Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say
+  Moonshot execs in talks to settle dispute
+  🔗 https://www.livemint.com/companies/exclusivemoonshot-execs-in-talks-to-settle-dispute-with-shareholder-ahead-of-planned-ipo-people-say-11791838614126.html
 
-- New trend in town! Click, try, buy - How Titan, Bluestone, Kalyan Jewellers are betting big on omnichannel for shopping
-  Titan, Bluestone and Kalyan Jewellers
-  🔗 https://www.livemint.com/market/stock-market-news/new-trend-in-town-click-try-buy-how-titan-bluestone-kalyan-jewellers-are-betting-big-on-omnichannel-for-shopping-11791810169256.html
+- JPMorgan, Goldman Curb Exposure on $5 Billion Volta AI Loan Sale
+  JPMorgan Chase &amp; Co. and Goldman Sachs Group Inc. have taken a rare move to limit their exposure on a $5 billion loan sale for AI startup Volta Infrastructure Holdings.
+  🔗 https://www.livemint.com/companies/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale-11791831660356.html
 
-- Is India’s diagnostics sector poised for a long-term growth upswing? Axis Securities sees opportunity in three stocks
-   Axis Securities sees India’s diagnostics sector entering a multi-year growth upcycle. It initiated BUY coverage on Dr. Lal PathLabs
-  🔗 https://www.livemint.com/market/stock-market-news/is-india-s-diagnostics-sector-poised-for-a-long-term-growth-upswing-axis-securities-sees-opportunity-in-three-stocks-11791803826013.html
+- HCLTech beats estimates, but Q2 growth slips to three-year low
+  HCL Tech’s advanced AI revenue jumped 28% sequentially to $219 million
+  🔗 https://www.livemint.com/companies/hcl-technologies-q2-results-202627-11791813143191.html
 
-- Top 2 stocks to buy for tomorrow: PNB Housing Finance, TVS Motor Company by Chandan Taparia - Check stop-loss, targets
-  Indian markets fell on Monday, with the Nifty 50 down 0.7% and Sensex down0.76%. Investors weighed rupee concerns, high crude prices and monsoon risks. Analyst Chand
-  🔗 https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-tomorrow-pnb-housing-finance-tvs-motor-company-by-chandan-taparia-check-stop-loss-targets-11791804491968.html
+- RBL Bank expects to put most FCNR(B) funds to profitable use in 2-3 years
+  RBL Bank expects its net interest margin to decline in the December quarter. The cost of about  ₹34,000 crore raised through FCNR
+  🔗 https://www.livemint.com/companies/news/rbl-bank-expects-to-put-most-fcnr-b-funds-to-profitable-use-in-2-3-years-11791814901062.html
 
-- Tech Mahindra, TCS, Oracle shares fall up to 3% today - Is it the right time to buy IT stocks?
-  The IT index has been under pressure for a long time due to concerns ranging from macroeconomic challenges, regulatory headwinds in the US,
-  🔗 https://www.livemint.com/market/stock-market-news/tech-mahindra-tcs-oracle-shares-fall-up-to-3-today-is-it-the-right-time-to-buy-it-stocks-11791805096158.html
+- Sir Dorabji Tata Trust gets a week more to respond to complaints by two trustees
+  SDTT, which holds 27.98% of Tata Sons, has sought an extension to respond to the Charity Commissioner’s
+  🔗 https://www.livemint.com/companies/news/sir-dorabji-tata-trusts-venu-srinivasan-vijay-singh-maharashtra-charity-commissioner-11791811484496.html
+
+- Singapore Bank Selloff Tests the City-State’s Safe Haven Status
+  Singapore bank shares have been hit by fears of earnings downgrades. The selloff is putting the city-state's safe haven status
+  🔗 https://www.livemint.com/market/singapore-bank-selloff-tests-the-city-state-s-safe-haven-status-11791847678381.html
+
+- Oil Holds Advance as Expanding Middle East War Threatens Supply
+  Oil held a gain as a widening conflict in the Middle East threatened to hamper a recovery in supply. There were also doubts over US President Donald Trump’s claims of an
+  🔗 https://www.livemint.com/market/oil-holds-advance-as-expanding-middle-east-war-threatens-supply-11791845172752.html
+
+- Oil rallies, sending dollar higher on expectations of higher US rates
+  Oil rallies, sending dollar higher
+  🔗 https://www.livemint.com/market/oil-rallies-sending-dollar-higher-on-expectations-of-higher-us-rates-11791833490768.html
+
+- Demand for Crude Oil May Have Peaked Last Year, FGE Says
+  Demand for crude oil may have peaked in 2025, partly as higher need for fuels is increasingly met
+  🔗 https://www.livemint.com/market/demand-for-crude-oil-may-have-peaked-last-year-fge-says-11791832513230.html
+
+- Dividend, rights issue record date: Last chance to buy today to qualify for amount- Vedanta, TCS, Continental Controls
+  Vedanta, TCS, Continental Controls and Energy Infrastructure Trust have set
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-rights-issue-record-date-last-chance-to-buy-today-to-qualify-for-amount-vedanta-tcs-continental-controls-11791824752741.html
+
+- NYT, Economist among publishers joining coalition to curb unpaid AI use
+  The Economist among publishers joining coalition to
+  🔗 https://www.livemint.com/technology/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-11791846088141.html
 
 - Amazon Great Indian Festival Sale 2026: 7 premium smartphones you can buy at lower prices
   Amazon Great Indian Festival Sale 2026 began on October 8. Offers discounts on premium smartphones from Apple, Samsung, Vivo, iQOO and Xiaomi. Samsung Galaxy S25 Ultra
@@ -76,49 +100,125 @@
   Japan has urged banks to adopt chip-enabled passports and MyNumber cards for customer verification.
   🔗 https://www.livemint.com/technology/japan-data-leak-concerns-grow-as-1-67-million-jr-east-email-addresses-may-be-exposed-11791780516562.html
 
-- Starlink vs Jio: Can Elon Musk make satellite internet affordable in India’s cheap data market?
-  Elon Musk says he will bring affordable Starlink satellite internet in India. He will challenge Reliance Jio
-  🔗 https://www.livemint.com/technology/starlink-vs-jio-can-elon-musk-make-satellite-internet-affordable-in-india-s-cheap-data-market-11791776817938.html
+- S&P 500 closes near flat, pressured by higher oil prices and memory chip stock losses - CNBC
+  P 500 closes near flat, pressured by higher oil prices and memory
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5
 
-- US stocks steady at open as oil jumps ahead of key earnings
-  Wall Street's main indexes opened muted on Monday. Investors watched oil prices and global events ahead of crucial bank earnings and inflation data.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-steady-at-open-as-oil-jumps-ahead-of-key-earnings/articleshow/134894878.cms
+- Markets News, Oct. 12, 2026: Dow Rises, Nasdaq Slips to Start Big Week of Earnings; Bond Market Closed - Investopedia
+  The Dow Jones Industrial Average rose on Monday. The S&P 500 and the
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFNfXzlteHNoVHNQOEFZREZqaDFpYk9naWk2ZUZRZExiemlWakJCcVZ5QzdldWRJblF4SkhWM0ttMnJyLUFjeS1QX0YxSXRlODFzcXZ3Q1JtX3Zkd2tMbVZ3R29ZX0ptVHBjN25LS0tpd0dxZEdOX2xvaVdpNnZPLXFMSElfXzZMTk9LOFl2Rm0?oc=5
 
-- ICICI Prudential AMC Q2 Results: Profit rises 6% YoY to Rs 889 crore; co declares Rs 30/share dividend
-  ICICI Prudential AMC reported a 6.1% year-on-year rise in Q2 FY27 net profit to Rs 889 crore. Revenue from operations grew 16.3% to Rs 1,674 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q2-results-profit-rises-6-yoy-to-rs-889-crore-co-declares-rs-30/share-dividend/articleshow/134893738.cms
+- Stock Market Today: Dow Edges Up, Oil Gains on Fresh Energy Strikes in Ukraine — Live Updates - WSJ
+  Stock Market Today: Dow Edges Up, Oil Gains on Fresh Energy
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOblNTYV9JS1kzM2ZZTUtSMTJOLUlqa1AtWWlqSm1pSlZyd3R5Z0ZTN0RwWVFwMFVUVFV2VXU2eTBXY3BSN0NIRFd5Q2l2Z2tkTUdsRzZoVW5TQUFrbVZqb3dpNHY1blFWRVJaVTJtTExxaERGT3MtNkJadldvVGs0WEFqQkZlbDA?oc=5
 
-- PVR Inox among 4 stocks hitting 52-week highs; rallied up to 13% in a month
-  Four BSE 500 stocks, including PVR Inox, PTC Industries, Aditya Infotech and Laurus Labs,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-among-4-stocks-hitting-52-week-highs-rallied-up-to-13-in-a-month/slideshow/134893470.cms
+- Tuesday's big stock stories: What’s likely to move the market in the next trading session - CNBC
+  &nbsp;&ngt;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEExTjNJZFlfM1hqbGxIRmlEb3UzYTdUMUNNRzFqbU96ZVo5WExMMWl0RWtfTEdBcVlTZ29WSXVrZDUyZ2NCYXJoeGxsMko3NTg1U2ZLMlpEVjg3Y3Z4WXBGSWtZcjNVaUk0NzZDSlJrUFBZS01TVHpPNGRObnRRcm5yTVNSRlZmSTBIUW5ZSUgzdDVVdDlyRDh5MA?oc=5
 
-- India benchmark bond posts worst day in six months on RBI measures
-  The benchmark 10-year bond yield rose to its highest level in three years. Consumer inflation increased to 5.54%, exceeding forecasts. The Reserve Bank of India announced bond sales and changes to cash reserve ratio maintenance.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-benchmark-bond-posts-worst-day-in-six-months-on-rbi-measures/articleshow/134893334.cms
+- Stock markets open higher amid easing oil prices - The Hindu
+  Stock markets open higher amid easing oil
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2YwanFMcHZzMXIyNHV2cUZHNi02a1p4SE5GSXlUWExydlRmVFRnUTNDNldSUEVfV0g5LXI3UGNPRUdLUHFHQ1JkVjZOLVZjTUVvbnoxRVNYUUVaT3FfZlRmeFg2a0tVcWVGbVoxak50OFM0MnJUX1JXVjJ0QU83RXlPbWF0dnpMR0ZKSkE2UU5CNzFHV0ZZRVFxN3hGeHhoX1FacldxdTlaVm01LUZz0gG2AUFVX3lxTFBLSElGcnFEem10SjM3R0JjUENPLUNacFlFdkFKUEplSEtmTlJpbTZITEVZMTBZV05xb2kzQ2RyRlhYTnEyRUl4cmxacjhNSVJFTW5jOTh3MXhrWTN0MENwTHlKNVdsMXY2Sk0yNVM0dnFFMWZaQnl1ZEgxT2hRZ2NibkNOeFpvZk52VGE3VTdLNElwcFc4WlBCT2tVTEdSdDJZU3gwUnhXemRXM0tYenJvQmZDS05B?oc=5
 
-- The ₹1 Crore Portfolio Problem: When Your Money Grows, Your Mistakes Get More Expensive
-  Investors with long-term aspirations should keep funds for short-term needs separate from their growth capital. This tactic guarantees that financial commitments are fulfilled even during market downturns.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/the-1-crore-portfolio-problem-when-your-money-grows-your-mistakes-get-more-expensive/articleshow/134893217.cms
+- US stocks: Nasdaq ends lower as oil prices surge ahead of earnings, economic data
+  The S&amp;P 500 and Dow Jones saw mixed performances, while the energy sector thrived. The Nasdaq composite index faced a downturn as oil prices surged.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-lower-as-oil-prices-surge-ahead-of-earnings-economic-data/articleshow/134902064.cms
 
-- Deeptech Funding Zooms 2.8X YoY In Q3 Despite Tighter Deal Flow
-  India’s deeptech startups raised substantially more capital in Q3 2026. The number of deals edged lower.
-  🔗 https://inc42.com/buzz/deeptech-funding-zooms-2-8x-yoy-in-q3-despite-tighter-deal-flow/
+- Cleveland Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly'
+  Cleveland Fed President Beth Hammack has stressed the urgency of adopting a strict monetary policy. Hammack advocates for prompt adjustments to keep inflation on target at 2%, emphasizing transparency in Fed policies.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/cleveland-feds-hammack-backs-restrictive-policy-says-better-if-it-comes-relatively-quickly/articleshow/134901637.cms
 
-- D2C Brand Boldfit Raises ₹400 Cr From Bharat Value Fund For Retail Expansion
-  D2C fitness and sportswear brand Boldfit has raised around ₹400 Cr (about $41.8 Mn) from
-  🔗 https://inc42.com/buzz/d2c-brand-boldfit-raises-%e2%82%b9400-cr-from-bharat-value-fund-for-retail-expansion/
+- US Stocks: Dating app Bumble shares surge 52% on talks to go private at $1 billion valuation
+  Bumble is reportedly in advanced negotiations for a private acquisition by Ithaca Holdings. This potential acquisition follows a decline in Bumble's market valuation, which was around $389 million recently.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dating-app-bumble-shares-surge-52-on-talks-to-go-private-at-1-billion-valuation-report/articleshow/134901295.cms
 
-- How XSCACE Is Taking On Bose And B&O With 12mm-Thin Speakers
-  XSCACE is taking on Bose and B&amp;O with 12mm-Thin Speakers. For decades, names like Bose, Marshall, Bang &#38;
-  🔗 https://inc42.com/startups/how-xscace-is-taking-on-bose-and-bo-with-12mm-thin-speakers/
+- US bank stocks near correction as earnings loom, consumer outlook in focus
+  US bank stocks are nearing correction territory ahead of earnings. Investors watching for clues on consumer resilience amid elevated borrowing costs and rising Treasury yields.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bank-stocks-near-correction-as-earnings-loom-consumer-outlook-in-focus/articleshow/134900177.cms
 
-- Hero Electronix-Owned Tessolve Secures $75 Mn To Expand Semiconductor Capabilities
-  Hero Electronix-owned Tessolve Semiconductor raised $75 Mn in a funding round led by Vector Line Capital.
-  🔗 https://inc42.com/buzz/hero-electronix-owned-tessolve-secures-75-mn-to-expand-semiconductor-capabilities/
+- Polycab India’s F&amp;O exit: NSE sets December 30 deadline; NCLAT stays insolvency order
+  NSE will remove Polycab India from the equity derivatives segment from December 30, 2026. NCLAT has stayed the NCLT order admitting insolvency proceedings against the company.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/polycab-indias-fo-exit-nse-sets-december-30-deadline-nclat-stays-insolvency-order/articleshow/134898074.cms
 
-- Lenskart Shares Slump 5% Amid Bulk Deal Buzz
-  Shares of Lenskart ended today&#8217;s trading session 4.4% lower at ₹647.95 apiece.
+- Rahul Gandhi leads opposition march to top court to demand election chief resign - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5
+
+- Agencies flagged security concerns over satellite internet of foreign operator - The Times of India
+  Agencies flagged security concerns over satellite internet of foreign operator
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVBQWno0NHNHcTlqREFnTS15NHg1OGNfMm1pODY2U2liTGFRdXNSSWtEU1pFc3g1NldKcnpFNHlwVzV4a2N2TG5sZmZ4YU9wT05ZeW5DQXhSZjQ0Y1pVcjd6MlBhYW5GOXFyWW1XUDFlTDFUV0FZaDBwdk1lTkR5NUNOaXZ1UXJrWXJ2VVh6Uzhkc2prR3VQcV92LURnVEh5LWFDRFlVRU1Kb19ua3pMNERFWHNaQWJMMlNjdThBZjBnbU1qMXA4d1dOUjN5T0tyY3ZUS3NSYjM4Yk92R1Q00gHkAUFVX3lxTE5DM3JFU2UzTFkyMlFxVEJaQkdTdTRDNi1ocjlKSWd0dUJkbFFleWRQR2dVNXpTRHZZd0FkODZWQXlLeERrbWM0bVEtRVBrdWpZWnI0a3hCRGVtSkJQa2kzUjdtV1JzV1hvMjBmb05wM1lwZHFBWkFfLUd3QVZLUzVDcWxtUFQ2R2RmTnhYVkhYOVpVcFUzQUcyVHpVa1JFQlJQdFFlSlg4V1JEQ2dfelUzeHlvTGgzREhWSmJjSVlrMktTTGs0ODZMNlN2eEV0dmRqRFUzZGVKdk51UXpvaVJzSEc5Tg?oc=5
+
+- Booking Open 3 Days This Year. Why Delhi's Ramlila Maidan Is A Costly Affair - NDTV
+  New Delhi's Ramlila Maidan is set to open
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaE04T3BjLUFRU2FKd0VSMDJUSWlpWWZsaU9zeGYzUTdCbEpZV2Q3aWh3MVB5RV9vdlpiTlNBYzVkdFkzY3F5WE5zNkI4czhIQWh1R2hEUXJTbkFlLWg0cWk4UVp4VEJPbHdxSm02cE1RQ28zWUI4LTVEamhpSmo2QjVHXzNWWEk2SUcwZWQtX3VzdUJBd0FXZldiSjJDSVNkbElzYWVJeUh0Z2VQby1iWElINNIBuwFBVV95cUxPUllOWkVuUHF6bjNqbUNDNzRhRkFFR2UzSXkwODFfRVZDeDZnaXh0YjcteXBpbXk1aGtVdGVGVkRXZVdpYklPQU41WTE4NXN6MXNKVEFXVGtxdTEwcUYxd2ltYXVYZ25nQmZnWDJ2RmY1OHhGam1QZElYNk5KMF9kbWZsblc2cnZIUVFJX0t3QmVRMk9OanpwUGZSaDg5blM2SXhySmhpMHpnR2dSS1paNmduYWdfMGhuNEhN?oc=5
+
+- Jantar Mantar out as protest hub; 3 new venues named - The Times of India
+  Jantar Mantar out as protest hub; 3
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWk2SDEzeUdWLUFKbWZCeFpYb1NJU3paaUh2cDB0Z0pmcnF1SnRPQnlzN0pFbkJVUEk5QVV2V3paQ0drdnFPSHhjcERjSU9PT0dvTlF2a0I1M2FMWnp1WUhnZ0p5ZExtOTZ2dGdXY0lmRHNzc1h0WUxWcE9mWXptTldCQ0I2Y2xNYXRFRkgyMUNySUpnTVBFT2Q5OEhORVlRNHRib2xVZEpsajZVTDVUZW5zcXdlMVRxZV840gHAAUFVX3lxTE5wWVZxbExNRVI0OUxDMWNuMnliNHBaLUdYRUJTaXRhRXMzendHMjd3NzRjOEVvZzI2M09YYV9jWG42TGs3STRzNXZ6cm5oaUNsb1k1ZmhaZm5WYUE0UmE2T3RmZ3EyZkx0RWp0eW4wOXN0QVdMU2JTZWV0eDFMZmgyZHhQMU8tZUFBeExOUm5PWDVlVDhySDBKZHh5WEdCYXZfeUNJRXJGYVFBUFV1MFU5N19HRmREV0Q2V1BhRDJacQ?oc=5
+
+- 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
+  'Cockroach' group leaders
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZmljM0lTU2duYUpNbVFRN2FyMXdrV29IeVZvMjNTaU1TUGJhd0Q5RUpCdmh1Vk1laTh4UWJsZUNESHBZOFhrTmgtMEhsNGNicDRvWlVQTzd2SW8?oc=5
+
+- Qualcomm Sells Shadowfax Shares Worth ₹157 Cr In Bulk Deal
+  Early backer Qualcomm Ventures has sold 57.1 Lakh shares of listed logistics company Shadowfax.
+  🔗 https://inc42.com/buzz/qualcomm-sells-shadowfax-shares-worth-%e2%82%b9157-cr-in-bulk-deal/
+
+- RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying ₹7,131 Cr To Strengthen Deeptech Startups
+  Central government-backed ₹1 Lakh Cr Research, Development and Innovation (RDI) Fund has approved 19 second-level fund managers (SL
+  🔗 https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/
+
+- Nazara Top Deck Shuffle: Founder Mittersain Steps Down As MD; Caratlane’s Sacheti Takes Executive Role
+  Nazara Technologies announced a major leadership reshuffle today. Founder Nitish Mittersain stepped down as the company's CEO.
+  🔗 https://inc42.com/buzz/nazara-top-deck-shuffle-founder-mittersain-steps-down-as-md-caratlanes-sacheti-takes-executive-role/
+
+- Whizzo To Raise $26 Mn From Aavishkaar Capital, Bertelsmann
+  Bengaluru-based Whizzo is in talks to raise around $26 Mn in its Series B funding round which could be co-led by Bertelsmann.
+  🔗 https://inc42.com/buzz/manufacturing-startup-whizzo-to-raise-26-mn-from-aavishkar-capital-bertelsmann/
+
+- [Update] Alpha Wave Ventures Sells Lenskart Shares Worth ₹1,705 Cr
+  Early backer Alpha Wave Ventures has sold 2.64 Cr shares in a bulk deal.
   🔗 https://inc42.com/buzz/lenskart-shares-slump-5-amid-bulk-deal-buzz/
+
+- Rahul Gandhi leads opposition march to top court to demand election chief resign - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5
+
+- Agencies flagged security concerns over satellite internet of foreign operator - The Times of India
+  Agencies flagged security concerns over satellite internet of foreign operator
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVBQWno0NHNHcTlqREFnTS15NHg1OGNfMm1pODY2U2liTGFRdXNSSWtEU1pFc3g1NldKcnpFNHlwVzV4a2N2TG5sZmZ4YU9wT05ZeW5DQXhSZjQ0Y1pVcjd6MlBhYW5GOXFyWW1XUDFlTDFUV0FZaDBwdk1lTkR5NUNOaXZ1UXJrWXJ2VVh6Uzhkc2prR3VQcV92LURnVEh5LWFDRFlVRU1Kb19ua3pMNERFWHNaQWJMMlNjdThBZjBnbU1qMXA4d1dOUjN5T0tyY3ZUS3NSYjM4Yk92R1Q00gHkAUFVX3lxTE5DM3JFU2UzTFkyMlFxVEJaQkdTdTRDNi1ocjlKSWd0dUJkbFFleWRQR2dVNXpTRHZZd0FkODZWQXlLeERrbWM0bVEtRVBrdWpZWnI0a3hCRGVtSkJQa2kzUjdtV1JzV1hvMjBmb05wM1lwZHFBWkFfLUd3QVZLUzVDcWxtUFQ2R2RmTnhYVkhYOVpVcFUzQUcyVHpVa1JFQlJQdFFlSlg4V1JEQ2dfelUzeHlvTGgzREhWSmJjSVlrMktTTGs0ODZMNlN2eEV0dmRqRFUzZGVKdk51UXpvaVJzSEc5Tg?oc=5
+
+- Booking Open 3 Days This Year. Why Delhi's Ramlila Maidan Is A Costly Affair - NDTV
+  New Delhi's Ramlila Maidan is set to open
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaE04T3BjLUFRU2FKd0VSMDJUSWlpWWZsaU9zeGYzUTdCbEpZV2Q3aWh3MVB5RV9vdlpiTlNBYzVkdFkzY3F5WE5zNkI4czhIQWh1R2hEUXJTbkFlLWg0cWk4UVp4VEJPbHdxSm02cE1RQ28zWUI4LTVEamhpSmo2QjVHXzNWWEk2SUcwZWQtX3VzdUJBd0FXZldiSjJDSVNkbElzYWVJeUh0Z2VQby1iWElINNIBuwFBVV95cUxPUllOWkVuUHF6bjNqbUNDNzRhRkFFR2UzSXkwODFfRVZDeDZnaXh0YjcteXBpbXk1aGtVdGVGVkRXZVdpYklPQU41WTE4NXN6MXNKVEFXVGtxdTEwcUYxd2ltYXVYZ25nQmZnWDJ2RmY1OHhGam1QZElYNk5KMF9kbWZsblc2cnZIUVFJX0t3QmVRMk9OanpwUGZSaDg5blM2SXhySmhpMHpnR2dSS1paNmduYWdfMGhuNEhN?oc=5
+
+- Jantar Mantar out as protest hub; 3 new venues named - The Times of India
+  Jantar Mantar out as protest hub; 3
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWk2SDEzeUdWLUFKbWZCeFpYb1NJU3paaUh2cDB0Z0pmcnF1SnRPQnlzN0pFbkJVUEk5QVV2V3paQ0drdnFPSHhjcERjSU9PT0dvTlF2a0I1M2FMWnp1WUhnZ0p5ZExtOTZ2dGdXY0lmRHNzc1h0WUxWcE9mWXptTldCQ0I2Y2xNYXRFRkgyMUNySUpnTVBFT2Q5OEhORVlRNHRib2xVZEpsajZVTDVUZW5zcXdlMVRxZV840gHAAUFVX3lxTE5wWVZxbExNRVI0OUxDMWNuMnliNHBaLUdYRUJTaXRhRXMzendHMjd3NzRjOEVvZzI2M09YYV9jWG42TGs3STRzNXZ6cm5oaUNsb1k1ZmhaZm5WYUE0UmE2T3RmZ3EyZkx0RWp0eW4wOXN0QVdMU2JTZWV0eDFMZmgyZHhQMU8tZUFBeExOUm5PWDVlVDhySDBKZHh5WEdCYXZfeUNJRXJGYVFBUFV1MFU5N19HRmREV0Q2V1BhRDJacQ?oc=5
+
+- 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
+  'Cockroach' group leaders
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZmljM0lTU2duYUpNbVFRN2FyMXdrV29IeVZvMjNTaU1TUGJhd0Q5RUpCdmh1Vk1laTh4UWJsZUNESHBZOFhrTmgtMEhsNGNicDRvWlVQTzd2SW8?oc=5
+
+- Rahul Gandhi leads opposition march to top court to demand election chief resign - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5" target="_bla
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JT2pSOXVEWFgtZ09iVkNTNHllM2FKc0tQVGZvUVdQb01McFdFWUh6NGdoZ25IUGFPb0hpRmM0ZS1YLTR1eEM5eEU4WU4yOHgyUXhFek9SSHprSHc?oc=5
+
+- Agencies flagged security concerns over satellite internet of foreign operator - The Times of India
+  Agencies flagged security concerns over satellite internet of foreign operator
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTVBQWno0NHNHcTlqREFnTS15NHg1OGNfMm1pODY2U2liTGFRdXNSSWtEU1pFc3g1NldKcnpFNHlwVzV4a2N2TG5sZmZ4YU9wT05ZeW5DQXhSZjQ0Y1pVcjd6MlBhYW5GOXFyWW1XUDFlTDFUV0FZaDBwdk1lTkR5NUNOaXZ1UXJrWXJ2VVh6Uzhkc2prR3VQcV92LURnVEh5LWFDRFlVRU1Kb19ua3pMNERFWHNaQWJMMlNjdThBZjBnbU1qMXA4d1dOUjN5T0tyY3ZUS3NSYjM4Yk92R1Q00gHkAUFVX3lxTE5DM3JFU2UzTFkyMlFxVEJaQkdTdTRDNi1ocjlKSWd0dUJkbFFleWRQR2dVNXpTRHZZd0FkODZWQXlLeERrbWM0bVEtRVBrdWpZWnI0a3hCRGVtSkJQa2kzUjdtV1JzV1hvMjBmb05wM1lwZHFBWkFfLUd3QVZLUzVDcWxtUFQ2R2RmTnhYVkhYOVpVcFUzQUcyVHpVa1JFQlJQdFFlSlg4V1JEQ2dfelUzeHlvTGgzREhWSmJjSVlrMktTTGs0ODZMNlN2eEV0dmRqRFUzZGVKdk51UXpvaVJzSEc5Tg?oc=5
+
+- Booking Open 3 Days This Year. Why Delhi's Ramlila Maidan Is A Costly Affair - NDTV
+  New Delhi's Ramlila Maidan is set to open
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaE04T3BjLUFRU2FKd0VSMDJUSWlpWWZsaU9zeGYzUTdCbEpZV2Q3aWh3MVB5RV9vdlpiTlNBYzVkdFkzY3F5WE5zNkI4czhIQWh1R2hEUXJTbkFlLWg0cWk4UVp4VEJPbHdxSm02cE1RQ28zWUI4LTVEamhpSmo2QjVHXzNWWEk2SUcwZWQtX3VzdUJBd0FXZldiSjJDSVNkbElzYWVJeUh0Z2VQby1iWElINNIBuwFBVV95cUxPUllOWkVuUHF6bjNqbUNDNzRhRkFFR2UzSXkwODFfRVZDeDZnaXh0YjcteXBpbXk1aGtVdGVGVkRXZVdpYklPQU41WTE4NXN6MXNKVEFXVGtxdTEwcUYxd2ltYXVYZ25nQmZnWDJ2RmY1OHhGam1QZElYNk5KMF9kbWZsblc2cnZIUVFJX0t3QmVRMk9OanpwUGZSaDg5blM2SXhySmhpMHpnR2dSS1paNmduYWdfMGhuNEhN?oc=5
+
+- Jantar Mantar out as protest hub; 3 new venues named - The Times of India
+  Jantar Mantar out as protest hub; 3
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWk2SDEzeUdWLUFKbWZCeFpYb1NJU3paaUh2cDB0Z0pmcnF1SnRPQnlzN0pFbkJVUEk5QVV2V3paQ0drdnFPSHhjcERjSU9PT0dvTlF2a0I1M2FMWnp1WUhnZ0p5ZExtOTZ2dGdXY0lmRHNzc1h0WUxWcE9mWXptTldCQ0I2Y2xNYXRFRkgyMUNySUpnTVBFT2Q5OEhORVlRNHRib2xVZEpsajZVTDVUZW5zcXdlMVRxZV840gHAAUFVX3lxTE5wWVZxbExNRVI0OUxDMWNuMnliNHBaLUdYRUJTaXRhRXMzendHMjd3NzRjOEVvZzI2M09YYV9jWG42TGs3STRzNXZ6cm5oaUNsb1k1ZmhaZm5WYUE0UmE2T3RmZ3EyZkx0RWp0eW4wOXN0QVdMU2JTZWV0eDFMZmgyZHhQMU8tZUFBeExOUm5PWDVlVDhySDBKZHh5WEdCYXZfeUNJRXJGYVFBUFV1MFU5N19HRmREV0Q2V1BhRDJacQ?oc=5
+
+- 'Cockroach' group leaders among hundreds detained in Delhi protest - BBC
+  'Cockroach' group leaders
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZmljM0lTU2duYUpNbVFRN2FyMXdrV29IeVZvMjNTaU1TUGJhd0Q5RUpCdmh1Vk1laTh4UWJsZUNESHBZOFhrTmgtMEhsNGNicDRvWlVQTzd2SW8?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -149,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-12 14:13:37 UTC_
+_Last updated: 2026-10-13 00:06:56 UTC_
