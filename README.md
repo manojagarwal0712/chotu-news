@@ -1,224 +1,204 @@
 # 📰 Daily News Summaries
 
-- Video: 'This Is Not The India I Remember,' Foreign Woman Compares Road Trips In India 17 Years Apart - NDTV
-  'This Is Not The India I Remember,' Foreign Woman Compares Road Trips
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQM09sX2RGYVhfYjY2M1JtOW01azdadVBBR2ppbmZtWUpnbEdJNUJuRUZEQ1FBUzJEN3BLTXVGWkpSTHlyWEJiY1RUMUVIY3lEV3E5MVVFSTJFREF2bWVZQTNnMk9WOXV5bUdZLXVkVGEzSHlseGM5N245Rjc4ZU43WDBob0EzVnNUd2xvaVhtazhydF9taGY1VHZOXy1Yekg3UTJvVVlBLUU0bXZaa3Z1R2dkdkQ2dWZnLWh5aEI5Z0ZheXBIOFhqRWZDM0FCZ9IB1gFBVV95cUxOMHhCb1k0U1BPTTAzc2ZrTlpPRmR1VkVvRmpzRHZRZlRFdDF3dVRQMjhaNzJQNzNtRHNEOGcwY1A0N3lrdTJ5SGJwNEMzeGRfbWI4eWFCWTVhbmpYRUpyUU5YSUFvdDZJTHFEQzhDckhlaDZPVmZZR2hmc1FHLUgxZFhjeEhLby1pbDNQYm1jeTdLMlN4eU9EazBRMjgzRTdYOG15ZnlNQUhFNW5fcDQ5WWJFaUFSYjk3aW10Yk82Vl9Db2x5VHlSQXV4TWxBM3pPdElsaENR?oc=5
+- Harvard vs Harvard: Support from one, criticism from another over Delhi protests | India News - Hindustan Times
+  The Harvard-Harvard debate has been raging for months. The
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0hQOG51bTNlcXc1azYxcDN0WTNwWE5fOEZ2MHZRQ1dOblFlZHpJbXplY19iLWhKd2cxSHJkNzhDSHdZQ3dWZ1ZIa291NHVTNnpzUFRsbDZwS2hxcEdFT3d5dUNaLWRONk8wOGRKdVZwb0FqYllpS1B1MkV0bTBKUGFqNmRVOUdiRl9faTBKY0xIeXNIUE94QllWOU9SMWhvUTg4cVI3T1ZnUm0xckg2UzZ4NEgtVW05ZjViSWZqNVFXN0VmcHFjdGtRRmFXVGdERVpEdW5TSTjSAd4BQVVfeXFMTnUzNnpXUjVnZHE4YTRBRHVlcXFabkljQTBPRXB0NktHVGp6d2ZTOVAwdmZDbG5SSG5JeVhuaTNEQWJRMHdORDFfTWp2RF82aFZnRWk0cEx4dHFHZG9rLVdOdEdsTE1MMHZmN0NpX0xXLWVsTFF0MWpOVDFfNklQUTV1LUpQYmRRVzFaNWhuSjZTeURMX2xQajBsVHlJMWt0ck0wSjYwNThKYkFaYkJNX2s0em1oMEdKVy1Db2NCTl9NTlpfR0ZRcTFKeWJpaU81Y3haX1RneENBTHZIRENn?oc=5
 
-- What Happened At Rahul Gandhi's High Tea With INDIA Bloc: Inside Story - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPM05nX05TZGxrRzd0Um4tU1BFMUZDU3k2RHUwYmQ5MUNuaGgtSkJSbGtoY1RFN0gwSzN3ZnhlSUVlT2NtWWdKTFF1ZjRvQWRNTUtWZzFaZkRuNmxpUXVkYUR2MzFfYktfcE
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPM05nX05TZGxrRzd0Um4tU1BFMUZDU3k2RHUwYmQ5MUNuaGgtSkJSbGtoY1RFN0gwSzN3ZnhlSUVlT2NtWWdKTFF1ZjRvQWRNTUtWZzFaZkRuNmxpUXVkYUR2MzFfYktfcE5xTTlvQkVqRHZOUDBZLThxWm05VVlBaWZoRGJUcFl0X3BmVnRRWmZ5Sm9LOEZfMmxsRXJzU0JCWlluMXo0Nk5iNVlrbzFHeDFPbnbSAbwBQVVfeXFMUFdWZXNwSWs0QTNObmU0M2NlcjFGMmdaUy1UQ0xxYVhVd21rZ0VHMEtDbmNZV1c5Mm5MZ09xanJTX1FRMzFDZkFucndtQll0aEM3dDcyUml6UGNqM3NIUHlqT2JKeW9vc19lRHdacWc0UTAzUkswUWlhY1JJcTVhdThVOEVqTzIySXNoRXNsRWVHaVVhd19OM1BJa0MxMjQ5dl9PWWpWZ0xYYjR1c2dFNE9pekYxX2s1cWZfR2s?oc=5
+- Harvard vs Harvard: A Tale of 2 Letters And 2 Opinions On Delhi Protest - NDTV
+  The Harvard-Harvard debate is a tale of two
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkw4NFdpWTBXOVFpaW00WjJkd05jeWsxMjhrTmNXaGVIVmEzb0I5RDI3TlZONGkzellOdFhITTduZjlWQm5yOWdISXN1TVpZOWdBZkNlSXIwcDRHSzFUM0RtMFY5YU5Tc0dPVnRKeXZXU00wUk9ac0QyZndKM2R4YkRqWkdRNk9tNUt4M1RwYTlwR0lVRDZnODdYLXQyU3FVdFEzenp0T2ZuWjJuS09NRVJjUE5OV0Z2cWV1SjhTdlQyc25WNXgyUdIB0AFBVV95cUxPQU1fdTIzVmUzMEFWTkRUSGItMWQweEQ5Y2lVTmlTb1U0ZU05bVdPQjhFOFZpWExpNnVCVkxsbmdMcGtyOWZxNF9PYXgyQm5DeGJPNUYxN2FUbzNWSVFVckFXZkNfNzJIb2o2cW5OcXdLdWJNbUpDMjZuNW05Q0ZoNjg0RlB1Nm1kZ20yUVpoa1A0d1Jrbkd0ZnBBZHBjeEF0d29HY3BYRkFjTUFoMnJkdDFsUFdHa2JMYjZma3BLSG9aMGZPRW83LXk4eGEyaGhK?oc=5
 
-- Indian airlines cancel flights to Saudi Arabian cities till Oct 17 - The Hindu
-  Indian airlines cancel flights to Saudi Arabian cities till Oct
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzFsZmlKQ2hGb3E5c2lDclk1OXpWd0JVRGdiNDI0N3Z5WnNsUFduMWtwaTNKaTM4cVJocVFESVpLaFEzRTRQcmRaVllaUEJjSGNsM1lVdzhKTHhQT3prQ3U5eE1vZWZINnlNdzdZSHNiXy0zbzljbEY2emRKZGNKUXh1VnpnWXcySTlQSXdzMHZyV1U1YVZhb0haUHRFVmpGdDg1MzlhU284M0VOMTVSRTFUWVBKZ1lEUDRCWTlaclhORFnSAcoBQVVfeXFMTUg4SVcwX08xVUo4TmlCWndCSDRvbHhic000Y3VMVGJfQWVOaVdwMXl2TjI1bmhxaWoycmFjUV9adGl6RXdDVTV0RlVfNUNBYk9jWkM3bkhSaWc0WS12SXFTUmJLbk5paElqUW1Kb3hRbDBDR1NicnhHOE9HRE4zUW5SNmFDSjRGN2hBaUs0U0liRDI4dkNadmk2V3c5aDQ0R0dnVlp1dGdZSC12Q1RfS2hRLTlmU1c3QXYwLTJ2LXYtenJVZ3FqdFA3QQ?oc=5
+- Harvard Alumni Flag "Concerted Campaign" Against India's Institutions Amid Delhi Protest - NDTV
+  Harvard Alumni Flag "Concerted
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQejdjTHNNQ29Rc3VlZk1qMlVyY0VGQWpWa0Nza1lXaWRMYmVMd1RhQ2NNVWdBaEVCV3ZXdDh2MC1va2s1WGgwejM3UnUtanJZbTBEcGM4T3czRUNQN3poRTdhTGRZRTNqWDBCTjd4blByWEtNUmZxQmw3WkV6MVFySTJQMVd2V29SaFVCRXRHTnJhTE1McG9vQnR1aUJXWGJCYmd2bTgzSkVBaUJ4WUdMZU91bWhjM0RIU0hkbWpKWllDcFZ00gHMAUFVX3lxTE1QNDFVbVVsajAyQXBiSlhNaThIY19WbndXNUNBdHRaQTFJMjZoM3cwSWJTUVFDeWp1dFRVc296NjJkeFpUUkdjdHBPM0tWRGM1MGR0eHBvNFpndU9KREUyc0UxeGljQVQxZVRWSzJsZDFhZFFsYVFOcVhzNDJFNWo5TjFrVVRvNElVX0d0Q3ZDLV9mTjFKc0xySVplZThHdFhpaFZvcEhZQ3Vpc2JaaUh4RzlHNE5vOFRIWmxtUVAyWVM0LXRLZ19JamZ3dA?oc=5
 
-- Can Himalayan floods bridge the India-China divide? - Asia News Network
-  Can Himalayan floods bridge the India
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1E1eTRNZDNWZTIzSi1kSHVwWXlsakl2TXJMbENUei0yZmo1b1I1Ql9ydFk0TGpqSDdaNTVHRml1eVN6ZVZudFlOellXMERYYS1UOGY0VTA0MnlJVWdMMFEtRndKRW5DTV90Wnl0WDNqRjVrZnNZd2lIZzdoNlp4cl9R?oc=5
+- CJP's Saurav Das, Ashutosh Ranka: India's 'cockroach' leaders jailed after holding protest - BBC
+  CJP's Saurav Das, Ashutosh
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zandzM0FMRy13N1dXZWV3UkFvR3pMNEZoZ2tPWUZFQjBqcHY5UnFzeTZCVVVHU2wtOGtuTThfSzBreVR6bkRTN2hZTkdtd19hTFlXdEMtMksyaWM?oc=5
 
-- Modi speaks to Carney, says India and Canada contribute to stable, prosperous world - The Hindu
-  Modi speaks to Carney, says India and Canada contribute to
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNblQ4SkxhWU1EV1dlMnNScHNoZTEwZWVTTW51eTNIem82czFNUXZ5Uzh5MmFBdlByTmVySE1WRTNMdXZ5VHVXVVdoUVRGNmRWVGVkdDdPQnB2R0M4Rzk3RlZEYmliNUh5OUNMLU1aNkY5V3E2NXpPM01yTW5sZXNJWXRaTmNmS2kxVHl4UE9yOGpYeURfZU00aUVrb1diaUlzUUwySFctRy1PODV3U09ubWFDYk1iLUhjNWJrVFRsN2FSd2pTaFRTX0dLS0xUNU4yMEVTaThqQdIB3gFBVV95cUxOWTFwSVFnRXVtd3MxXzNFVDl0ZDcxd1hkRUdMWjhPaTIxV3VUNlVXVWh5VU1lcm5fcGgzY0M0WW9HU3pvMUZLcTZTQUgtVjRVQzJPcmxxUUlybmJmLVpPWVRkdkM2RmMtbFpOOUxvRnVjU0U4aVAzc2NwUUVWMEs1cVdRSExCUF9zR0hEZVk3eVJyZzQwWXJ3dk9vUDNvV19JQkI2Z2wyUFVSdWVod0NsdF9uMGYzXzdDRU9GTzFZZW94WmVGNU03WFFpN2w0NmxzOFN2ZmFfNk1UU0xRQlE?oc=5
-
-- Regional policing unit drops controversial Palantir AI technology - BBC
-  Regional policing unit drops controversial
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqcnNHMFJEWTBsVWtJX21FckhxTWwtN1YtbGVNZnlaVVhURVlSZlJvak9Zc2xXN2VVMHdVb245QTFidFpZVVhyeHFCa0NULUhLN0JtVWhpNFY1NTA?oc=5
-
-- Warner Music bets high on regional talent, technology, diversified revenue streams in India: Jay Mehta - The Hindu
-  Warner Music bets high on regional talent, technology, diversified revenue
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUHhDYU43MjFuQ1VLbV90TGpINWhDSl81Szk3Z3JrZE40Z1R1T2lxdmpzRzJyQ2p4ak1BRi12TlRESm82UUxnMWliTmRibW43UG9TRGlfMnBQMDlWODJWbEFIaHNnY3NnbG1QYmdhUk9jZWJMWnhSclJSck5uOW1LT0tWTkQzYzZvXzQ1RzJjVWFlNzczb0VGWUpkSDE1aXhtZXJ1aEZSSW1LOUpyWFg4MUx4Q3FjS3VuTFFYRDlhTVRfVDRpN1NXQ3RZd0hyNGdPOHFMamdqRVRYYVdEd2Vmb2o2c05xRVNS0gHvAUFVX3lxTE4xeDdKSnpxLXYwS3BjX3BrdTFJYmJJUTJZaDZPdVpIX3puRW9CczRULWljaVNHTHd0dFZKSm90d2ZWanpkenVCbUNvZkktckVPemhYWDRQT3RBU3FybXVQbG5ITjQyWkhUazZUVlA5aG9MUGc3bFd3TFhYVFFLTUE2aW90NHl1VXdYb0dBTnAwakUtX1p0MnI3WThMSGgxNkZvSU9rQTJuQ1Myb0Y4R0t1MEszRnpSV1VucUJqeDNpelVUUTlGNE5FODdkRWNTeHJ5cTlFUVVHYWRFMXMyM1B1OVU1WWZqUktCRXhUellr?oc=5
+- Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest - Al Jazeera
+  Police detain leaders of India’s ‘
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTE3QXpxd3EwZmRiWVFZWHFyRmlCbjJieFRUdG9jaWJRVWlOUG9mZXA3ejhSY1FyZk9vWWxLamFacHRTYnF3NXEyazNvTTllT0RoMXQwd3I1VXZSU0VWeG04V1ItbWw5NHpqTW5XNWpLSDl3ZUpUUzRrN2NDVnlmTC11enFDak1UYUR1cm9aTG5XM3lSaXdRdmRjWW5KR0dndHZsZDdWMFVSQW4wUlY4RUpDUdIBuAFBVV95cUxNNU1BMG9GdkRJZXJiZF9NQ0hIMXAyOVZaa2FqSjl3Tm15NHllSzhPeURpeW5jRmN4WDZvNjhiM2RBR21xZDZfMTJBdHRnVGhySWFxRkFQTlpsdTNaWllqNWZYeGNlTVpRc0ljOUoxZUFocEc3b3dmRjBiVjF0bGFkSFpYTGY4YXprb2JjRjQwYVR4dUpZZHZMWGRmMTRXdks2OHNnZHU1RUVhVFktWERjNnBnSENSWm5j?oc=5
 
 - Applying technology to understand and treat disease - blog.google
   Applying technology to understand
   🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
 
-- "Mother Of All Technologies": S Jaishankar Calls For AI Inclusiveness - NDTV
-  "Mother Of All Technologies": S Ja
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1ptMDQ3cmZLby0yZTZKcmZBaU1EcXRmS1hNb2ZpR3doSWZEQTg2QmczcFVXYURHTmZxdGdfV1pwdXRoX1hLVlN1aHhINVFpMVZoc09DVHdiNnZKWEJPNFpvQlR2RzgzbGpPNUZIQzZmblIyZmlCQnNXV2pUNUUwdjgyVXJtVlBDOFZoTUg0dHlKU2tRcTJFNFloOTdaakVSU1JWTEM0MlpLSUHSAbMBQVVfeXFMUE9URjMxNU5OWTJ2Z3RsTEtlYktxTzIyMUQ1TWc5RTllb0h3end5TC1zSUxRMktfUnU1UzQ2ZnNxTHRfd2stVXhlTlNNM0QtMlRwaGtpU1RtYkpibDA3UG9vTmEtaXdfdFdFMmdqejhQN1ZsWTM5aGlJY1h0RlJSYTlsR2RWMnlPaGJ6WTdnODRNQTdkX1hKUmpuQkpLNXJLbktTeklYaThkMWE1SlpHeEJCYkE?oc=5
+- Regional policing unit drops controversial Palantir AI technology - BBC
+  Regional policing unit drops controversial
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqcnNHMFJEWTBsVWtJX21FckhxTWwtN1YtbGVNZnlaVVhURVlSZlJvak9Zc2xXN2VVMHdVb245QTFidFpZVVhyeHFCa0NULUhLN0JtVWhpNFY1NTA?oc=5
 
-- AI could self-replicate on home devices within ‘months’, Anthropic says - Al Jazeera
-  AI could self-replicate on home devices
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbTQtSVRsM0pUQnVLVnNvQ1Z5NnlkY2g5UEhDNVZhWnlPaUVsNHhGWm5YY043c3NXZ3hMbm4xcGU4em1zX0h1QW54c2NIWGc0WnpHNG5mX0VUYXBpTFJGOWhrRmZEVmZlRUd3UVg4S3J1S1ZibVZlMzdLUEpoRVRXQlRsaFV6X1dOY2xQN3FjUVhUN3pyeGxTZHlwQ1U1UTgzQW81RnBma3BzWUJqb0lXTEN1MNIBuAFBVV95cUxQRlpTeUFPMnBnakFFSEU0MEFPaHY4czE1RHdrWE1xQkZyc0ZzdFRwRV9WQXF5OWh5VElfN3NlU0FyREMtYl9sUkw2TXN5bUthZWtTWlRxeTRtOFBWdGVBY1VtWnpsdVBITERral9wTVd1aG5vN01WTDhfblIyWmdOWlhuRzJxRk5CeDJCanJQWFZUNlZFU2RNOUxwNFVLdGpwR0RxVjRvYkNEX1V4dldvMGNSWFM3bXMy?oc=5
+- L&T Inks MoU with TuTr Hyperloop for Next-Generation Mobility Infrastructure - Larsen & Toubro
+  Larsen & Toubro inks MoU
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGh0RzZScl9MdGNPLXlxWGVhYlNzOWJmNWlXdGxyWUE5RjVmSmd2b0IzUTRoUkNTZjRxYS1YVDBOenlLV2xSbV9jSFQzeWQyWXJ5alBZdmlEdFQyNVNOb0RZSmJielpCaXBNS3NVVXdPLUNIY0FXQW1tMGU0N0dmdzlvVWVFbS0weGJsd19kS3JmWU1iOVQybkRZakxNSVdTaTQxdE9PY05mUGpnSlphQWt0amJuVmxFQ19ZRzBVQ0Q1VTFoNFYzeHlxS1NEdFE?oc=5
 
-- Hyundai, TVS ready electric mini-truck to rival Tata Ace in 2027
-  The entry will expand TVS’s automotive ambitions beyond two- and three-wheelers
-  🔗 https://www.livemint.com/companies/news/hyundai-motor-tvs-motor-electric-mini-truck-tata-ace-electric-commercial-vehicles-11791898113998.html
+- AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices - The Guardian
+  Anthropic warns models ‘months away’ from self
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUxXc0hJVk5xRzdVTE5hQ2h2LWdnS21nUEZRVVFwX0dVZHJ5QUU1NUxmZUgydXVrRS1jSVNDRmtSVU1YYTh2RURQT0NQcEozdXdIb0FFM1RLakVTRXJFYTl4RU9kQXRPTUM5Vm1uVktaQ1NXaXp2Z3UySW5ZVktRTU5ZNGVocUszOTZV?oc=5
 
-- Zoho’s pay freeze signals broader AI-led pressures for India’s software industry
-  Zoho’s profitability has come under pressure since FY23, the year OpenAI brought generative AI into the mainstream with the launch of ChatGPT
-  🔗 https://www.livemint.com/companies/news/zoho-freshworks-ai-impact-on-saas-companies-11791894032225.html
+- War In The Time Of AI: How Technology Is Rewriting The Battlefield - NDTV
+  "War In The Time Of AI: How Technology
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZURGUDNVY0U0bVNRYy1lQWVNeTJ2SEVxWGZmRXFpX3g3WmFJOTAtcl9rNllqdk5HRVZRV25fWndTV1Q4QjE5OWZfWmliYmVqYnZnb043MWx2aDJfeEs5WTdkaVdiQXRVdEdjTEFNbk5keHl5cTRPT29MbE1lTktrS2NKT3cweTJEOUd4bFFFV1hXMHQyYVA1RDBIcUdYNHY0aVJvWmN3TC03QdIBsgFBVV95cUxPS09BR0xGWnNxLXVSUG1ldnNVekdTbWJvZ1BzQWVER3ZkSEZiTVNPTnNDX1VLTTdDaTZsZEFKLVZNcnQ4Y0c0YmMzVGM1ZEFCTVVBbHJmN043eG54bVZuclM1VG8wVVhBemdXVzZGdTZaY2tTM05aY0gweTBfTklzMGtNVlJ2YVA3eVVudmc4UF9DLW9FeTI3LXlDSzF3dXlmSThOcmZLZnFXdjhxZHp3ckNB?oc=5
 
-- Blackstone in talks to invest $400-500 million in defence tech firm Accord
-  Accord has evolved from a software developer into a specialist in global navigation satellite systems (GNSS) It makes satellite navigation devices, specialised computer chips and electronic systems.
-  🔗 https://www.livemint.com/companies/news/blackstone-accord-software-investment-deal-11791801353150.html
+- Sunil Mittal takes on Elon Musk, says Bharti is ahead of Starlink, ready to launch
+  Sunil Bharti Mittal says his company is ahead of Starlink in India's satellite approval queue.
+  🔗 https://www.livemint.com/companies/news/sunil-mittal-takes-on-elon-musk-says-bharti-is-ahead-of-starlink-ready-to-launch-11791965999570.html
 
-- Rising costs put logistics firms under pressure this festive season
-  Brands may rethink discounting, delivery fees and fulfilment strategies.
-  🔗 https://www.livemint.com/companies/news/rising-costs-put-logistics-firms-under-pressure-this-festive-season-11791875339054.html
+- ‘AI was a monster’: Kumar Mangalam Birla reveals strategy behind investing in artificial intelligence
+  Kumar Mangalam Birla says global crises, shifting trade policies and changing demand are complicating
+  🔗 https://www.livemint.com/companies/news/ai-was-a-monster-kumar-mangalam-birla-reveals-strategy-behind-investing-in-artificial-intelligence-11791960931430.html
 
-- Employee arrested after listening device found in OpenAI conference room, FBI and the company say
-  Employee arrested after listening device found in OpenAI
-  🔗 https://www.livemint.com/companies/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say-11791925935520.html
+- Why Zoho's Sridhar Vembu is trending after ‘pay hike, mass layoff’ tweet: Losing 80% clients, making mega business, more
+  Vembu started building what came to be known ‘Zoho’ in the 1990s, in a small apartment located in the suburbs of Chennai. The startup had its own share of
+  🔗 https://www.livemint.com/companies/news/sridhar-vembu-freezes-salary-hike-from-losing-80-clients-overnight-to-making-billion-dollar-business-the-zoho-story-11791957955600.html
 
-- ‘Another dot-com bubble?’ How OpenAI, Anthropic IPOs could pressure stocks in 2027
-  Paul Tudor Jones warns that 2027 could challenge US stocks as major technology IPOs, share issuance, fiscal deficits and potentially higher oil prices weigh on markets. He sees
-  🔗 https://www.livemint.com/market/ipo/another-dot-com-bubble-how-spacex-openai-anthropic-ipos-could-pressure-stocks-in-2027-11791943292096.html
+- Who is Neville Tata? Why is he in the news today? Latest developments in Tata Trust dispute explained
+  The latest development in the Tata Trust dispute concerns Noel’s leadership and Neville
+  🔗 https://www.livemint.com/companies/news/who-is-neville-tata-why-is-he-in-the-news-today-latest-developments-in-tata-trust-dispute-explained-11791952943864.html
 
-- IPO GMP comparison: HD Fire Protect vs Fusion CX | Check subscription status, listing share price prediction
-  The shares of both HD Fire Protect IPO and Fusion CX IPO are commanding a strong premium in
-  🔗 https://www.livemint.com/market/ipo/ipo-gmp-comparison-hd-fire-protect-vs-fusion-cx-check-subscription-listing-share-price-prediction-11791943886865.html
+- M Pallonji backed Protec General secures around  ₹300 crore to expand operations
+  The capital infusion follows Protec’s in-principle regulatory approval.
+  🔗 https://www.livemint.com/companies/protec-general-insurance-raises-rs-320-crore-pallonji-divya-sehgal-11791824749247.html
 
-- Indian shares on track for muted open as oil prices, foreign outflows weigh
-  Both the Nifty and Sensex climbed about 1.6% on Tuesday.
-  🔗 https://www.livemint.com/market/indian-shares-on-track-for-muted-open-as-oil-prices-foreign-outflows-weigh-11791945285491.html
+- Pearl Global: This multibagger textile stock gets back-to-back target price upgrades—should investors buy now?
+  Brokerages have turned bullish on Pearl Global Industries, citing its diversified manufacturing network, spare capacity and potential operating leverage. JM Financial initiated coverage with a Buy rating and a
+  🔗 https://www.livemint.com/market/stock-market-news/pearl-global-this-multibagger-textile-stock-gets-back-to-back-target-price-upgrades-should-investors-buy-now-11791973387008.html
 
-- Titan has defied the market slump. Can it keep winning?
-  Strong jewellery demand and rising incomes could support Titan’s
-  🔗 https://www.livemint.com/market/stock-market-news/titan-has-defied-the-market-slump-can-it-keep-winning-11791908441622.html
+- Suzlon Energy shares: Up 12% in four straight sessions | Experts give 3 reasons to buy — target price, stop-loss
+  Suzlon Energy share price has risen from  ₹36
+  🔗 https://www.livemint.com/market/stock-market-news/suzlon-energy-shares-up-12-in-four-straight-sessions-experts-give-3-reasons-to-buy-target-price-stoploss-11791968583136.html
 
-- Top stocks to watch today: BHEL, Adani Enterprises, Bharat Electronics shares in focus on Wednesday, 14 Oct | Full list
-  BHEL, Canara Bank, Adani Enterprises,
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-bhel-adani-enterprises-bharat-electronics-shares-in-focus-on-wednesday-14-oct-full-list-11791941091905.html
+- BHEL Q2 results: Defence PSU stock up 5%, hits record high as profit soars 120%; check key highlights - Should you buy?
+  BHEL shares hit a record high of  ₹463.60 after the company reported a 120.1% year-on-year rise in Q2 FY27 net profit to 
+  🔗 https://www.livemint.com/market/stock-market-news/bhel-q2-results-defence-psu-stock-jumps-5-to-record-high-as-net-profit-soars-120-check-key-highlights-share-trend-11791971434067.html
 
-- CBA chief Matt Comyn says Australia must retain economic value of AI
-  CBA chief Matt Comyn says
-  🔗 https://www.livemint.com/technology/cba-chief-matt-comyn-says-australia-must-retain-economic-value-of-ai-11791938791082.html
+- PL Capital raises Nifty 50 target to 27,589; BEL, ICICI Bank, Airtel among top picks — check price targets
+  PL Capital’s revised Nifty 50 target is 27,589. The brokerage cautions that inflation, deficient rainfall and global uncertainty could prolong
+  🔗 https://www.livemint.com/market/stock-market-news/pl-capital-raises-nifty-50-target-to-27-589-bel-icici-bank-airtel-among-top-picks-check-price-targets-11791968139555.html
 
-- Lawmakers ask FAA to pause use of new AI tool in DC-area flight management
-  Lawmakers ask FAA to pause use of new
-  🔗 https://www.livemint.com/technology/lawmakers-ask-faa-to-pause-use-of-new-ai-tool-in-dc-area-flight-management-11791920909814.html
+- Multibagger chemical stock Himadri Speciality up 40% in last 6 months- should investors buy or hold? Experts decode
+  Himadri Speciality Chemical has delivered strong multi-year returns. The company is shifting toward advanced materials
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-chemical-stock-himadri-speciality-up-40-in-last-6-months-should-investors-buy-or-hold-experts-decode-11791968475542.html
 
-- Tighter AI data access could cost Germany €155 billion a year, ifo says
-  Tighter AI data access could cost Germany
-  🔗 https://www.livemint.com/technology/tighter-ai-data-access-could-cost-germany-155-billion-a-year-ifo-says-11791917667848.html
+- ASUS ExpertBook laptops get up to  ₹21,000 off during Flipkart Big Billion Days Sale 2026
+  ASUS ExpertBook laptops are available at discounted prices during Flipkart's Big Billion Days Sale 2026. Buyers can also get bank offers of up to  ₹10,000
+  🔗 https://www.livemint.com/technology/asus-expertbook-laptops-get-up-to-21-000-off-during-flipkart-big-billion-days-sale-2026-11791973849216.html
 
-- Police confiscate robot that groped 16-year-old girl, probe whether young men were at the controls
-  Police confiscate robot that groped 16-year
-  🔗 https://www.livemint.com/technology/police-confiscate-robot-that-groped-16-year-old-girl-probe-whether-young-men-were-at-the-controls-11791916329124.html
+- GTA 6 PC launch tipped for early 2027, months after PS5 and Xbox release
+  GTA 6 could launch on PC between January and March 2027. Rockstar has confirmed a November 19, 2026, release for PS5 and Xbox Series X/S.
+  🔗 https://www.livemint.com/technology/gta-6-pc-launch-tipped-for-early-2027-months-after-ps5-and-xbox-release-11791972547263.html
 
-- Apple Welcome Home Event 2026: HomeView Smart display, HomePod Mini 2, Apple TV 4K and more launched
-  The HomeView features a touchscreen, AI-powered Siri, personalised interfaces and smart home controls, with a starting price of $299. Apple unveiled its HomeView smart home hub, updated HomePod Mini 2
-  🔗 https://www.livemint.com/technology/apple-welcome-home-event-2026-homeview-smart-display-homepod-mini-2-apple-tv-4k-and-more-launched-11791898504781.html
+- Oppo ColorOS 17 launched with new AI features: Check eligible phones and rollout dates
+  Oppo has launched ColorOS 17 globally with a redesigned interface, improved performance, AI-powered tools and enhanced call fraud detection features. The update will debut in India with the Oppo Find X10
+  🔗 https://www.livemint.com/technology/oppo-coloros-17-launched-with-new-ai-features-check-eligible-phones-and-rollout-dates-11791957611217.html
 
-- Asia Stocks to Gain on Signal for Fewer Fed Hikes: Markets Wrap - Bloomberg.com
-  Asia Stocks to Gain on Signal for Fewer
+- ‘iPhone Duo is a waste of money’: Nothing CEO Carl Pei slams Apple’s $1,999 foldable
+  CEO Carl Pei has called Apple’s $1,999 iPhone Duo a “waste of money
+  🔗 https://www.livemint.com/technology/tech-news/iphone-duo-is-a-waste-of-money-nothing-ceo-carl-pei-slams-apple-s-1-999-foldable-11791950222567.html
+
+- India aims to cut critical tech dependencies over 20-25 years, build resilience: Ashwini Vaishnaw
+  India is planning over a 20-25 year horizon to reduce critical technology dependencies. The country aims to become a trusted partner across global technology supply chains.
+  🔗 https://www.livemint.com/technology/india-aims-to-cut-critical-tech-dependencies-over-20-25-years-build-resilience-ashwini-vaishnaw-11791951089197.html
+
+- Stocks Erase Gains After ASML, Dollar Declines: Markets Wrap - Bloomberg.com
+  Stocks Erase Gains After
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkdpWnlfNjZqMGFBMUtMU1JNdFhzem9kbFhSR3Z0Qnl0ZkVacmR6TzRSQXBvMU5SNElCUkEtWFpueWhuWWNGdUR2dkVPcVdtQmRuT1VuRVVldlhDaW1lRHhYdHF6cTQxNUJNb3F1V0ZrNWszNGlsbllLTkR0SGs1ZXo0NHY3eW9aYmxuSnZkNy1MSS1k?oc=5
 
-- Stock Market Highlights, Sensex Today: Investors Earn Rs 4 Trillion As Sensex Closes 1,100 Points Higher - NDTV
-  Stock Market Highlights, Sensex Today: Investors Earn Rs 4 Trillion
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUms0OGVKY2NzLUYxai1lQ0JnREJRTndaY3N4cHBybjN4dlpOTWlPN1kxTzNRS1N0REVuSzYySlBialBwNUhoV19HdGdtWnJSSXdpc1h1enRiNFRjdEFBOUlaNWtOM1lSa1FIV0tWekZpUjQzbzZDcklBVk5iTDNyZ3VwVFRNak5lUEt4Sy1yVWZrZDhDVUlTOEdCWW5ITTdkZU9uUlNRNUg5SVhEQkZnd2dfZXEwbWpUaUk0Zi1uNGc0R1Ftd0p3dGloRUlkWFVIcGxZ0gHbAUFVX3lxTE1fcmZadGhrVTdmcldISWJ6Y1dPenZhR29xM2xMNlo5cmhFOVhiU2N2Y09GcTZRTnFBWGF4Z2Rxa2xVY2FKUDV6aGZGSVpxekM1QktoOV92UnQwdDBVSk5LazQ0VDRFekU0N3lyczBaNDk0NjQ0VnRRdmZpZWZTbjNZVnNFRVpidlJqWjhyWEZGbUZNRlcza0VfQk8wWmwtS3l3aTRMRkxFXzA5XzBzNFpQTTJ0WmV1dExUNnNaaWNUb3BwR2dLU2FwbEpWODJaSERrQklKX0JwZjZfTQ?oc=5
+- Stock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall, earnings season kicks off - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq slip as chip
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPWElhakU3ODExbEt5OS1IbW5xS1luMUdSUk9SOEFwUlQyenYwTkExT1JjRm9VWEs3aXFsVUVqSTFQVmVfSGp6R3A3aWV1Q000ZzE2bTRNdjVpTmhXX19veGdzUW81cU5zRkRGeDBNeXdaTWotWkNLVC1NcElGbkdNajBWVzlFU2d1OUFqUm1GTFE2dmRwOVpYM2E0dlhBUXlOZlVTX1FWWHhkQk85MGo2VjBxYTYyODgyTGZmNDdR?oc=5
 
-- Stock markets rebound in early trade led by IT firms, HDFC Bank - The Hindu
-  Stock markets rebound in early trade led by IT firms,
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnloWWdQb2p3RDRpQmoxdGR4aExHeFJjYk5FelVSOTNJQk5qTkFNV2NRTk9FZGZSREVha0Ywa2VNSkNCWFZrRVNXWEg2VmNEcVVfUVFZaUxDWi1NM2taczhCUlROTWlFVVh2a284VjdsMG1fNzRRZlgyMGpqVnNELXJJeU42Vl9iNTlvUTRVd0xYREIzWWJMazFpN3lRS0tPWGxqX3JMWmFhMExpSldKLVk0YTVLcy1RYkMyVEtVeThPQdIByAFBVV95cUxNWnU4bTJWUUtQYUdPclRBc2Q2NmpLSzJXVEsycWZSOF9PWmFLMlpMVmV2NW03WXZUaFJjVVQtaXZfZHlyNHkyalRuMEcwWkhqUHBhWVRZSlZFUFVjV1BoUjhjZEhUd2VJOGtYRmtzRkJKbU5KTlNVQWF2LU1RdmRzSlJaR0diY01fMXFsaWhPY1BKelVXLVZOaE5HV2xPQnlYWXgxMVpDRFNPQVlqektOdTZFUVU0ZU03MGIwdHJJejlPTkNtVUF3WQ?oc=5
+- Stock futures tick higher as traders await consumer inflation report: Live updates - CNBC
+  Stock futures tick higher as traders await consumer inflation report
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTFA5LXlOZnZiVWJqSnQ2TzM5RmJkamRlQ0dDeFQ3QjVMOVB6TFFUaENwSGJsOEk5enQwRVRPSUN6cGlDNldmXzdTX3ZLYmpiZFJaWW9WbFF1RUZYRjhuMk5NZ0lWa0JtREEyM2ZXV3R3cU9KWDVwYk9UbNIBfkFVX3lxTFBuUXFxSkctRkxsaWZMQ1ZEUzNLaDlwMHZzMjlfcW5wdmpTbklYcU45bks5WmY0SUJvdWlTWERCd1NHUUwwcjNJQ2V2ZkUxZGtWem16cmU4VXNVdnpqUnR5MzZkQVBsTnlBWmh1bDJ3THRyQVZfd3Y0aHptTER4Zw?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Oil Prices Rise Again - NDTV
-  Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeGFkVzRxYWo4R3hqc3NxREtNVTZaaGRvb0JRT01FN25ZVXlTbnh0U1pQeU1zcjlHUTlXR2dsRFhUbWd0QTk5ZkFVemgtSEllcWtEcEw4QUYwTV8tVVhZOXFIeUVBRDZBTGI1WW5KalVhT2trdGZiSWpFc1pqQl9UYnpiX0dNR0lfLTNLeGM2eDdieVRuSklJd0tfMm91bFNMc19QVWJ0VUpiYS1XSnYwRUhlWU1iWWl3c1ZXMFNnRE9RaVZTbVhyUjZla2Z4aDNsblkw0gHbAUFVX3lxTE1zaFBTMm9ncXZVQjVyZDRsVUIxRDNaWUo2QlI1Rmt5X0VSeUl6WUVDcUhTUmlFWkpNSWo1QkRqU1lMa2xiT05nbWYtWXN6bVMyX29IMDBRWVI0czc2MmF3Z2VXcnpjWVBjYXpianI4TFpjanZpckpvVi1kXzlKSUFNZXBfdlpRMUd0Yy16LWtUS0dLcUg5RHBTamdmTG1fRF8wQzNSTmRZazlKdmVIYkZfWmRWQ0dMUTVBc0Qybk00emdDdWVqaEZ0bkdsbFRzazNIaFFQQUhBMlRzcw?oc=5
+- FM Sitharaman's LTCG tax remarks lift Sensex by 1,100 points. Can markets hope for a review? - The Economic Times
+  FM Sitharaman's LTCG tax remarks lift Sensex by 1,
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbXhDQzM4VFk2VlI0VE0zeFdETEQ0NjFHN3dhWDlHRERfZFZLME93ZGtLODhTX1BCTlBwbmtUREIxZ0FBZ2dVeElIV0VWdjJ5dWRLREFLc3FyRHVTS19MUTQwWURxcFJ0QlNhdzJJSWotcFBrMkZfSEFtYTNyUENoZ3ZWLTJaZXo2djFQR1ZuM1oyNmxFblZHSXFRYUd0UWpvMlRQeXhmQlQ2WTJuRHBCMlFOSDJTSlBXZG5LR3l5VlhfdGQyYU5jS1ZleEhtRGxtMkN2ZzBnSHhoZHlsTWMxak5pZ3Z4c1lXQW5ESVZ3bllaUExLX3fSAfsBQVVfeXFMTnprSmZwNVZQWVJVaWNxQlhlRENzcWpfR2N1UUduVERhY1J6Z1pwZTFPOWUwb1Fac0VjYXhsS04xcloyd3p5b2MzSm5LbnBjQVpTODV3NHRnTlBoaWVNc0pZMDdTTG1PXzFUZC0ybUtES0pMTDhWX0FPMEVQYzRxVTduZW1iTkRVRndBb0lYYTF6SWV5VVgzd3cxMzNDZFNKTk80RGFfZmNjY2lFWnpzV1dWdUVMeHZ1amUwN2tGOElwMVdUWm9lX0dHZ3VjRHQ0c3lwOG0xRDZnay1VV1E3dFE5VGQtRlp1WndVbGR3dlRST0d4QWExT2JvbE0?oc=5
 
-- Russian diesel not for us, but for world markets: Trump - The Hindu
-  Russian diesel not for us, but for world
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSU1OZVg1Wm8xQUp0N2d2X1FQcm44Y0VsMHMxMmRmTlc3WkE5RE8tVXhyWVlYZ2lid1pMYWIwbHF3NFBIeGRNRVo5MURmWnpkODlfcUh5OVVkRDVkd2pvc2Zoa3RwbFkySldkTkFVaWVpMFkwcUdGMlFleU9lYWlhUHBXRkNGYXNwQVpfZFZtWE5yMjFtMDdEMi1XRVRuQ25JdF9zdGFsRDloSVY5VlVudnExZ1ZwZkIx0gG_AUFVX3lxTE1fR2NvaTljY1ZlTHV2WWpWSnJpaEpxeFZkVGx6dEs4NEVFeVljN2l3VmlxTUNfR2dOX0J2bjBmbTh3cl8zUGQ0UEs5X0haTGtyaUV4VVhaNjVkVHdPVHlZM1c1a0hEd0UtaFRVa3kzODMxRDkxRWl3dFZKNkdFYUZSZ282STI4QTRGd2RFTTVJazBTdEtfZmNEZU1lOXFDSUNVLTI5ODFXZUJSalBVX2MyeDcyLTlZNUhwTXVGMjJ3?oc=5
+- Sensex Jumps Over 1,100 Points, Rupee Rallies. Why Markets Went Up Today - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWNHV3BUWGtwZVRvUjhKY2hYVl9qblE0em1ac0xPQjZYOHBPNHFiSTZBMzk5NjF4ank2SnlwZ3EtU0Jmd3hTcWZ2NFRYOGNaRktXQVZHQV84dVhScFlXb1N3aWtZRS03Nm
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWNHV3BUWGtwZVRvUjhKY2hYVl9qblE0em1ac0xPQjZYOHBPNHFiSTZBMzk5NjF4ank2SnlwZ3EtU0Jmd3hTcWZ2NFRYOGNaRktXQVZHQV84dVhScFlXb1N3aWtZRS03Nmloa1RaNmNwY3JuQWRrX2c0aWwxQWM0X2V0aUlHdUpnZks2SVJHMURMX3I5WkRIcEtOLVBjZmlDZUllUE9PdHlHdGRJbUliSWFWQlo5Z18tQW5nbU50TlpTcExDWWZ2RWxIQkZZUdIB1gFBVV95cUxQampaVDhmalJkaXptRXlseE1CYjYyTUNVWTlYeUJNckN3WHdwQ2Y3TVFnMVIzMzQ5eHZiZGRJbUdzRDZFWjM2U3d1cHVVSkt3VmRSdFhsMXJTNmNnNVBvN1pCWTFrYWpNYkxvdnc3dWpSeUFjVGxqRlhwem9VRXpVbFFDOEJrSmpKeUtzbk90d19JWHY0OTJDNFl2a3Rob3J6bzNTd2Z3MkR6eDN0bHpWaXQ5aUJ5VEpBZjFyeHlyS3hWTUVCVGZVRTNiaWZmQU9vQ3ZpSjZn?oc=5
 
-- Ravita Engineering Services IPO opens today: Check GMP, price band and other key details
-  Ravita Engineering Services IPO is a book-built issue worth Rs 116.05 crore. The company’s shares are tentatively scheduled to list on the NSE SME platform on October 22, 2026
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ravita-engineering-services-ipo-opens-today-check-gmp-price-band-and-other-key-details/articleshow/134930185.cms
+- Bitcoin hovers near $83K as Asian stock sell-off triggers over $800 million in crypto liquidations
+  Bitcoin hovered around $83,300 on Wednesday as a sharp sell-off in Asian equities triggered over $800 million in crypto liquidations. Broader macroeconomic uncertainty, softening institutional
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-83k-as-asian-stock-sell-off-triggers-over-800-million-in-crypto-liquidations/articleshow/134939967.cms
 
-- Bonus issue, stock split and dividend alert! Last day to buy these 3 stocks before record date. Do you own any?
-  As per Sebi's T+1 settlement norm, investors need to buy a company's shares at least one trading day before the record date.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-stock-split-and-dividend-alert-last-day-to-buy-these-3-stocks-before-record-date-do-you-own-any/slideshow/134930294.cms
+- 10 Nifty500 stocks that have fallen up to 58% in a year
+  Ten Nifty 500 stocks have fallen between 47% and 58% over the past year. KEC International, Reliance Power and KPIT Technologies lead the list of laggards. Nearly 50 stocks in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-nifty500-stocks-that-have-fallen-up-to-58-in-a-year/slideshow/134939701.cms
 
-- Indian equities jump 1.6% as FM's STT remarks spark hopes of tax review
-  Indian equities surged 1.6% on Tuesday, marking the largest single-day gain in over two months. This increase followed remarks by finance minister Nirmala Sitharaman regarding potential changes to transaction taxes.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-equities-soar-1-6-as-fm-hints-at-transaction-tax-review/articleshow/134929590.cms
+- Rs 5 lakh crore worth FII outflows since 2024 capital gains tax hike wreak havoc on Dalal Street. Is a reversal on the cards?
+  Foreign investors have sold over Rs 5 lakh crore of Indian equities since the 2024 capital gains tax hike. Finance Minister Nirmala Sitharaman’s comments on LTCG and STT have revived hopes.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-6-lakh-crore-worth-fii-outflows-since-2024-capital-gains-tax-hike-batter-dalal-street-is-a-reversal-on-the-cards/articleshow/134939069.cms
 
-- Positive Breakout: These 10 stocks cross above their 200 DMAs
-  As long as a stock's price remains above its 200-day moving average on the daily timeframe, it
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/slideshow/134930165.cms
+- Rupee extends rise but falters past 95/USD on importer hedging, outflows
+  The Indian rupee has experienced an increase for the third consecutive session. It reached a peak of 94.77 before settling at 95.15 against the dollar. Indian importers continue to hedge against potential rupee weakness.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-extends-rise-but-falters-past-95/usd-on-importer-hedging-outflows/articleshow/134939222.cms
 
-- Oil Price Today (October 14): Crude oil gains to $107 as Houthis attack Saudi Aramco building in new attacks. What are experts saying?
-  Brent crude futures rose $1.40, or 1.35%, to $107.35 a barrel. US West Texas Intermediate (WTI
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-14-crude-oil-gains-to-107-as-houthis-attack-saudi-aramco-building-in-new-attacks-what-are-experts-saying/articleshow/134930013.cms
+- AIFs to play crucial role in India's economic growth, AI offers significant opportunities: Partner BCG
+  India's Alternative Investment Fund (AIF) industry has significant growth potential. Artificial intelligence (AI) continues to present a major opportunity, says Boston Consulting Group.
+  🔗 https://economictimes.indiatimes.com/markets/aif-pms/aifs-to-play-crucial-role-in-indias-economic-growth-ai-offers-significant-opportunities-partner-bcg/articleshow/134938664.cms
 
-- Video: 'This Is Not The India I Remember,' Foreign Woman Compares Road Trips In India 17 Years Apart - NDTV
-  'This Is Not The India I Remember,' Foreign Woman Compares Road Trips
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQM09sX2RGYVhfYjY2M1JtOW01azdadVBBR2ppbmZtWUpnbEdJNUJuRUZEQ1FBUzJEN3BLTXVGWkpSTHlyWEJiY1RUMUVIY3lEV3E5MVVFSTJFREF2bWVZQTNnMk9WOXV5bUdZLXVkVGEzSHlseGM5N245Rjc4ZU43WDBob0EzVnNUd2xvaVhtazhydF9taGY1VHZOXy1Yekg3UTJvVVlBLUU0bXZaa3Z1R2dkdkQ2dWZnLWh5aEI5Z0ZheXBIOFhqRWZDM0FCZ9IB1gFBVV95cUxOMHhCb1k0U1BPTTAzc2ZrTlpPRmR1VkVvRmpzRHZRZlRFdDF3dVRQMjhaNzJQNzNtRHNEOGcwY1A0N3lrdTJ5SGJwNEMzeGRfbWI4eWFCWTVhbmpYRUpyUU5YSUFvdDZJTHFEQzhDckhlaDZPVmZZR2hmc1FHLUgxZFhjeEhLby1pbDNQYm1jeTdLMlN4eU9EazBRMjgzRTdYOG15ZnlNQUhFNW5fcDQ5WWJFaUFSYjk3aW10Yk82Vl9Db2x5VHlSQXV4TWxBM3pPdElsaENR?oc=5
+- Harvard vs Harvard: Support from one, criticism from another over Delhi protests | India News - Hindustan Times
+  The Harvard-Harvard debate has been raging for months. The
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0hQOG51bTNlcXc1azYxcDN0WTNwWE5fOEZ2MHZRQ1dOblFlZHpJbXplY19iLWhKd2cxSHJkNzhDSHdZQ3dWZ1ZIa291NHVTNnpzUFRsbDZwS2hxcEdFT3d5dUNaLWRONk8wOGRKdVZwb0FqYllpS1B1MkV0bTBKUGFqNmRVOUdiRl9faTBKY0xIeXNIUE94QllWOU9SMWhvUTg4cVI3T1ZnUm0xckg2UzZ4NEgtVW05ZjViSWZqNVFXN0VmcHFjdGtRRmFXVGdERVpEdW5TSTjSAd4BQVVfeXFMTnUzNnpXUjVnZHE4YTRBRHVlcXFabkljQTBPRXB0NktHVGp6d2ZTOVAwdmZDbG5SSG5JeVhuaTNEQWJRMHdORDFfTWp2RF82aFZnRWk0cEx4dHFHZG9rLVdOdEdsTE1MMHZmN0NpX0xXLWVsTFF0MWpOVDFfNklQUTV1LUpQYmRRVzFaNWhuSjZTeURMX2xQajBsVHlJMWt0ck0wSjYwNThKYkFaYkJNX2s0em1oMEdKVy1Db2NCTl9NTlpfR0ZRcTFKeWJpaU81Y3haX1RneENBTHZIRENn?oc=5
 
-- What Happened At Rahul Gandhi's High Tea With INDIA Bloc: Inside Story - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPM05nX05TZGxrRzd0Um4tU1BFMUZDU3k2RHUwYmQ5MUNuaGgtSkJSbGtoY1RFN0gwSzN3ZnhlSUVlT2NtWWdKTFF1ZjRvQWRNTUtWZzFaZkRuNmxpUXVkYUR2MzFfYktfcE
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPM05nX05TZGxrRzd0Um4tU1BFMUZDU3k2RHUwYmQ5MUNuaGgtSkJSbGtoY1RFN0gwSzN3ZnhlSUVlT2NtWWdKTFF1ZjRvQWRNTUtWZzFaZkRuNmxpUXVkYUR2MzFfYktfcE5xTTlvQkVqRHZOUDBZLThxWm05VVlBaWZoRGJUcFl0X3BmVnRRWmZ5Sm9LOEZfMmxsRXJzU0JCWlluMXo0Nk5iNVlrbzFHeDFPbnbSAbwBQVVfeXFMUFdWZXNwSWs0QTNObmU0M2NlcjFGMmdaUy1UQ0xxYVhVd21rZ0VHMEtDbmNZV1c5Mm5MZ09xanJTX1FRMzFDZkFucndtQll0aEM3dDcyUml6UGNqM3NIUHlqT2JKeW9vc19lRHdacWc0UTAzUkswUWlhY1JJcTVhdThVOEVqTzIySXNoRXNsRWVHaVVhd19OM1BJa0MxMjQ5dl9PWWpWZ0xYYjR1c2dFNE9pekYxX2s1cWZfR2s?oc=5
+- Harvard vs Harvard: A Tale of 2 Letters And 2 Opinions On Delhi Protest - NDTV
+  The Harvard-Harvard debate is a tale of two
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkw4NFdpWTBXOVFpaW00WjJkd05jeWsxMjhrTmNXaGVIVmEzb0I5RDI3TlZONGkzellOdFhITTduZjlWQm5yOWdISXN1TVpZOWdBZkNlSXIwcDRHSzFUM0RtMFY5YU5Tc0dPVnRKeXZXU00wUk9ac0QyZndKM2R4YkRqWkdRNk9tNUt4M1RwYTlwR0lVRDZnODdYLXQyU3FVdFEzenp0T2ZuWjJuS09NRVJjUE5OV0Z2cWV1SjhTdlQyc25WNXgyUdIB0AFBVV95cUxPQU1fdTIzVmUzMEFWTkRUSGItMWQweEQ5Y2lVTmlTb1U0ZU05bVdPQjhFOFZpWExpNnVCVkxsbmdMcGtyOWZxNF9PYXgyQm5DeGJPNUYxN2FUbzNWSVFVckFXZkNfNzJIb2o2cW5OcXdLdWJNbUpDMjZuNW05Q0ZoNjg0RlB1Nm1kZ20yUVpoa1A0d1Jrbkd0ZnBBZHBjeEF0d29HY3BYRkFjTUFoMnJkdDFsUFdHa2JMYjZma3BLSG9aMGZPRW83LXk4eGEyaGhK?oc=5
 
-- Indian airlines cancel flights to Saudi Arabian cities till Oct 17 - The Hindu
-  Indian airlines cancel flights to Saudi Arabian cities till Oct
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzFsZmlKQ2hGb3E5c2lDclk1OXpWd0JVRGdiNDI0N3Z5WnNsUFduMWtwaTNKaTM4cVJocVFESVpLaFEzRTRQcmRaVllaUEJjSGNsM1lVdzhKTHhQT3prQ3U5eE1vZWZINnlNdzdZSHNiXy0zbzljbEY2emRKZGNKUXh1VnpnWXcySTlQSXdzMHZyV1U1YVZhb0haUHRFVmpGdDg1MzlhU284M0VOMTVSRTFUWVBKZ1lEUDRCWTlaclhORFnSAcoBQVVfeXFMTUg4SVcwX08xVUo4TmlCWndCSDRvbHhic000Y3VMVGJfQWVOaVdwMXl2TjI1bmhxaWoycmFjUV9adGl6RXdDVTV0RlVfNUNBYk9jWkM3bkhSaWc0WS12SXFTUmJLbk5paElqUW1Kb3hRbDBDR1NicnhHOE9HRE4zUW5SNmFDSjRGN2hBaUs0U0liRDI4dkNadmk2V3c5aDQ0R0dnVlp1dGdZSC12Q1RfS2hRLTlmU1c3QXYwLTJ2LXYtenJVZ3FqdFA3QQ?oc=5
+- Harvard Alumni Flag "Concerted Campaign" Against India's Institutions Amid Delhi Protest - NDTV
+  Harvard Alumni Flag "Concerted
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQejdjTHNNQ29Rc3VlZk1qMlVyY0VGQWpWa0Nza1lXaWRMYmVMd1RhQ2NNVWdBaEVCV3ZXdDh2MC1va2s1WGgwejM3UnUtanJZbTBEcGM4T3czRUNQN3poRTdhTGRZRTNqWDBCTjd4blByWEtNUmZxQmw3WkV6MVFySTJQMVd2V29SaFVCRXRHTnJhTE1McG9vQnR1aUJXWGJCYmd2bTgzSkVBaUJ4WUdMZU91bWhjM0RIU0hkbWpKWllDcFZ00gHMAUFVX3lxTE1QNDFVbVVsajAyQXBiSlhNaThIY19WbndXNUNBdHRaQTFJMjZoM3cwSWJTUVFDeWp1dFRVc296NjJkeFpUUkdjdHBPM0tWRGM1MGR0eHBvNFpndU9KREUyc0UxeGljQVQxZVRWSzJsZDFhZFFsYVFOcVhzNDJFNWo5TjFrVVRvNElVX0d0Q3ZDLV9mTjFKc0xySVplZThHdFhpaFZvcEhZQ3Vpc2JaaUh4RzlHNE5vOFRIWmxtUVAyWVM0LXRLZ19JamZ3dA?oc=5
 
-- Can Himalayan floods bridge the India-China divide? - Asia News Network
-  Can Himalayan floods bridge the India
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1E1eTRNZDNWZTIzSi1kSHVwWXlsakl2TXJMbENUei0yZmo1b1I1Ql9ydFk0TGpqSDdaNTVHRml1eVN6ZVZudFlOellXMERYYS1UOGY0VTA0MnlJVWdMMFEtRndKRW5DTV90Wnl0WDNqRjVrZnNZd2lIZzdoNlp4cl9R?oc=5
+- CJP's Saurav Das, Ashutosh Ranka: India's 'cockroach' leaders jailed after holding protest - BBC
+  CJP's Saurav Das, Ashutosh
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zandzM0FMRy13N1dXZWV3UkFvR3pMNEZoZ2tPWUZFQjBqcHY5UnFzeTZCVVVHU2wtOGtuTThfSzBreVR6bkRTN2hZTkdtd19hTFlXdEMtMksyaWM?oc=5
 
-- Modi speaks to Carney, says India and Canada contribute to stable, prosperous world - The Hindu
-  Modi speaks to Carney, says India and Canada contribute to
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNblQ4SkxhWU1EV1dlMnNScHNoZTEwZWVTTW51eTNIem82czFNUXZ5Uzh5MmFBdlByTmVySE1WRTNMdXZ5VHVXVVdoUVRGNmRWVGVkdDdPQnB2R0M4Rzk3RlZEYmliNUh5OUNMLU1aNkY5V3E2NXpPM01yTW5sZXNJWXRaTmNmS2kxVHl4UE9yOGpYeURfZU00aUVrb1diaUlzUUwySFctRy1PODV3U09ubWFDYk1iLUhjNWJrVFRsN2FSd2pTaFRTX0dLS0xUNU4yMEVTaThqQdIB3gFBVV95cUxOWTFwSVFnRXVtd3MxXzNFVDl0ZDcxd1hkRUdMWjhPaTIxV3VUNlVXVWh5VU1lcm5fcGgzY0M0WW9HU3pvMUZLcTZTQUgtVjRVQzJPcmxxUUlybmJmLVpPWVRkdkM2RmMtbFpOOUxvRnVjU0U4aVAzc2NwUUVWMEs1cVdRSExCUF9zR0hEZVk3eVJyZzQwWXJ3dk9vUDNvV19JQkI2Z2wyUFVSdWVod0NsdF9uMGYzXzdDRU9GTzFZZW94WmVGNU03WFFpN2w0NmxzOFN2ZmFfNk1UU0xRQlE?oc=5
+- Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest - Al Jazeera
+  Police detain leaders of India’s ‘
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTE3QXpxd3EwZmRiWVFZWHFyRmlCbjJieFRUdG9jaWJRVWlOUG9mZXA3ejhSY1FyZk9vWWxLamFacHRTYnF3NXEyazNvTTllT0RoMXQwd3I1VXZSU0VWeG04V1ItbWw5NHpqTW5XNWpLSDl3ZUpUUzRrN2NDVnlmTC11enFDak1UYUR1cm9aTG5XM3lSaXdRdmRjWW5KR0dndHZsZDdWMFVSQW4wUlY4RUpDUdIBuAFBVV95cUxNNU1BMG9GdkRJZXJiZF9NQ0hIMXAyOVZaa2FqSjl3Tm15NHllSzhPeURpeW5jRmN4WDZvNjhiM2RBR21xZDZfMTJBdHRnVGhySWFxRkFQTlpsdTNaWllqNWZYeGNlTVpRc0ljOUoxZUFocEc3b3dmRjBiVjF0bGFkSFpYTGY4YXprb2JjRjQwYVR4dUpZZHZMWGRmMTRXdks2OHNnZHU1RUVhVFktWERjNnBnSENSWm5j?oc=5
 
-- UC Hungry For Funds Again, DailyObjects’ D2C Playbook & More
-  UC Taps Public Markets Again for Funds Urban Company is hungry for more cash. Despite sitting on over hundreds of&#8230;
-  🔗 https://inc42.com/buzz/uc-hungry-for-funds-again-dailyobjects-d2c-playbook-more/
+- Exclusive: Traya In Talks To Raise Around ₹300 Cr From Verlinvest
+  Mumbai-based customised haircare startup Traya is in talks to raise around ₹300 Cr (about $31 Mn) from Belgium-based investment firm.
+  🔗 https://inc42.com/buzz/exclusive-traya-in-talks-to-raise-around-%e2%82%b9300-cr-from-verlinvest/
 
-- [Update] Blume, Speciale Invest & 11 Other AIFs Selected For Deploying ₹7,131 Cr Under RDI Fund
-  The government has selected Blume Ventures, Speciale Invest, Chiratae Ventures and 16 others as the first cohort.
-  🔗 https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/
+- Brokers In September: Groww Strengthens Lead, Angel One Closes In On Zerodha
+  Indian stockbrokers’ combined active client base on the NSE rose by about 1.6 Lakh to 4.61 Cr in September.
+  🔗 https://inc42.com/buzz/brokers-in-september-groww-strengthens-lead-angel-one-closes-in-on-zerodha/
 
-- Freshworks To Acquire Torii To Expand AI Spend Governance Offerings
-  Nasdaq-listed SaaS major Freshworks has signed a definitive agreement to acquire Torii. The acquisition will extend its IT&#8230;
-  🔗 https://inc42.com/buzz/freshworks-to-acquire-torii-to-expand-ai-spend-governance-offerings/
+- [Update] Exclusive: Former Dyson India Boss Ankit Jain Bags Funding From BEENEXT For New Venture
+  Former Dyson India MD Ankit Jain bags funding from BEENEXT for new venture. Inc42 exclusively reported about Jain's new venture in July.
+  🔗 https://inc42.com/buzz/former-dyson-india-boss-ankit-jain-bags-funding-from-beenext-for-new-venture/
 
-- [Update] Adani Enterprises, Jabil Sign MoU To Set Up AI-Focused Joint Venture
-  Adani Group in Talks With Google, Meta To Set Up Data Centres: Report.
-  🔗 https://inc42.com/buzz/adani-group-partners-with-jabil-to-build-ai-data-infrastructure/
+- Groww Q2: Profit Jumps 54% YoY To ₹725 Cr, Revenue Rises 47%
+  Investment tech company Groww’s consolidated net profit jumped 54% to ₹724.7 Cr in the second quarter of FY27.
+  🔗 https://inc42.com/buzz/groww-q2-profit-jumps-54-yoy-to-%e2%82%b9725-cr-revenue-rises-47/
 
-- GreenCell Mobility Raises ₹330 Cr To Expand Electric Bus Fleet
-  Everstone Capital-backed EV startup GreenCell Mobility has raised $34.6 million in equity funding.
-  🔗 https://inc42.com/buzz/greencell-mobility-raises-%e2%82%b9330-cr-to-expand-electric-bus-fleet/
+- Circle Raises ₹25 Cr To Expand Its Pre-Owned Goods Marketplace Beyond Bengaluru
+  Pre-owned goods marketplace Circle has raised about $2.6 million in a seed funding round.
+  🔗 https://inc42.com/buzz/circle-raises-%e2%82%b925-cr-to-expand-its-pre-owned-goods-marketplace-beyond-bengaluru/
 
-- Video: 'This Is Not The India I Remember,' Foreign Woman Compares Road Trips In India 17 Years Apart - NDTV
-  'This Is Not The India I Remember,' Foreign Woman Compares Road Trips
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQM09sX2RGYVhfYjY2M1JtOW01azdadVBBR2ppbmZtWUpnbEdJNUJuRUZEQ1FBUzJEN3BLTXVGWkpSTHlyWEJiY1RUMUVIY3lEV3E5MVVFSTJFREF2bWVZQTNnMk9WOXV5bUdZLXVkVGEzSHlseGM5N245Rjc4ZU43WDBob0EzVnNUd2xvaVhtazhydF9taGY1VHZOXy1Yekg3UTJvVVlBLUU0bXZaa3Z1R2dkdkQ2dWZnLWh5aEI5Z0ZheXBIOFhqRWZDM0FCZ9IB1gFBVV95cUxOMHhCb1k0U1BPTTAzc2ZrTlpPRmR1VkVvRmpzRHZRZlRFdDF3dVRQMjhaNzJQNzNtRHNEOGcwY1A0N3lrdTJ5SGJwNEMzeGRfbWI4eWFCWTVhbmpYRUpyUU5YSUFvdDZJTHFEQzhDckhlaDZPVmZZR2hmc1FHLUgxZFhjeEhLby1pbDNQYm1jeTdLMlN4eU9EazBRMjgzRTdYOG15ZnlNQUhFNW5fcDQ5WWJFaUFSYjk3aW10Yk82Vl9Db2x5VHlSQXV4TWxBM3pPdElsaENR?oc=5
+- Harvard vs Harvard: Support from one, criticism from another over Delhi protests | India News - Hindustan Times
+  The Harvard-Harvard debate has been raging for months. The
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0hQOG51bTNlcXc1azYxcDN0WTNwWE5fOEZ2MHZRQ1dOblFlZHpJbXplY19iLWhKd2cxSHJkNzhDSHdZQ3dWZ1ZIa291NHVTNnpzUFRsbDZwS2hxcEdFT3d5dUNaLWRONk8wOGRKdVZwb0FqYllpS1B1MkV0bTBKUGFqNmRVOUdiRl9faTBKY0xIeXNIUE94QllWOU9SMWhvUTg4cVI3T1ZnUm0xckg2UzZ4NEgtVW05ZjViSWZqNVFXN0VmcHFjdGtRRmFXVGdERVpEdW5TSTjSAd4BQVVfeXFMTnUzNnpXUjVnZHE4YTRBRHVlcXFabkljQTBPRXB0NktHVGp6d2ZTOVAwdmZDbG5SSG5JeVhuaTNEQWJRMHdORDFfTWp2RF82aFZnRWk0cEx4dHFHZG9rLVdOdEdsTE1MMHZmN0NpX0xXLWVsTFF0MWpOVDFfNklQUTV1LUpQYmRRVzFaNWhuSjZTeURMX2xQajBsVHlJMWt0ck0wSjYwNThKYkFaYkJNX2s0em1oMEdKVy1Db2NCTl9NTlpfR0ZRcTFKeWJpaU81Y3haX1RneENBTHZIRENn?oc=5
 
-- What Happened At Rahul Gandhi's High Tea With INDIA Bloc: Inside Story - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPM05nX05TZGxrRzd0Um4tU1BFMUZDU3k2RHUwYmQ5MUNuaGgtSkJSbGtoY1RFN0gwSzN3ZnhlSUVlT2NtWWdKTFF1ZjRvQWRNTUtWZzFaZkRuNmxpUXVkYUR2MzFfYktfcE
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPM05nX05TZGxrRzd0Um4tU1BFMUZDU3k2RHUwYmQ5MUNuaGgtSkJSbGtoY1RFN0gwSzN3ZnhlSUVlT2NtWWdKTFF1ZjRvQWRNTUtWZzFaZkRuNmxpUXVkYUR2MzFfYktfcE5xTTlvQkVqRHZOUDBZLThxWm05VVlBaWZoRGJUcFl0X3BmVnRRWmZ5Sm9LOEZfMmxsRXJzU0JCWlluMXo0Nk5iNVlrbzFHeDFPbnbSAbwBQVVfeXFMUFdWZXNwSWs0QTNObmU0M2NlcjFGMmdaUy1UQ0xxYVhVd21rZ0VHMEtDbmNZV1c5Mm5MZ09xanJTX1FRMzFDZkFucndtQll0aEM3dDcyUml6UGNqM3NIUHlqT2JKeW9vc19lRHdacWc0UTAzUkswUWlhY1JJcTVhdThVOEVqTzIySXNoRXNsRWVHaVVhd19OM1BJa0MxMjQ5dl9PWWpWZ0xYYjR1c2dFNE9pekYxX2s1cWZfR2s?oc=5
+- Harvard vs Harvard: A Tale of 2 Letters And 2 Opinions On Delhi Protest - NDTV
+  The Harvard-Harvard debate is a tale of two
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkw4NFdpWTBXOVFpaW00WjJkd05jeWsxMjhrTmNXaGVIVmEzb0I5RDI3TlZONGkzellOdFhITTduZjlWQm5yOWdISXN1TVpZOWdBZkNlSXIwcDRHSzFUM0RtMFY5YU5Tc0dPVnRKeXZXU00wUk9ac0QyZndKM2R4YkRqWkdRNk9tNUt4M1RwYTlwR0lVRDZnODdYLXQyU3FVdFEzenp0T2ZuWjJuS09NRVJjUE5OV0Z2cWV1SjhTdlQyc25WNXgyUdIB0AFBVV95cUxPQU1fdTIzVmUzMEFWTkRUSGItMWQweEQ5Y2lVTmlTb1U0ZU05bVdPQjhFOFZpWExpNnVCVkxsbmdMcGtyOWZxNF9PYXgyQm5DeGJPNUYxN2FUbzNWSVFVckFXZkNfNzJIb2o2cW5OcXdLdWJNbUpDMjZuNW05Q0ZoNjg0RlB1Nm1kZ20yUVpoa1A0d1Jrbkd0ZnBBZHBjeEF0d29HY3BYRkFjTUFoMnJkdDFsUFdHa2JMYjZma3BLSG9aMGZPRW83LXk4eGEyaGhK?oc=5
 
-- Indian airlines cancel flights to Saudi Arabian cities till Oct 17 - The Hindu
-  Indian airlines cancel flights to Saudi Arabian cities till Oct
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzFsZmlKQ2hGb3E5c2lDclk1OXpWd0JVRGdiNDI0N3Z5WnNsUFduMWtwaTNKaTM4cVJocVFESVpLaFEzRTRQcmRaVllaUEJjSGNsM1lVdzhKTHhQT3prQ3U5eE1vZWZINnlNdzdZSHNiXy0zbzljbEY2emRKZGNKUXh1VnpnWXcySTlQSXdzMHZyV1U1YVZhb0haUHRFVmpGdDg1MzlhU284M0VOMTVSRTFUWVBKZ1lEUDRCWTlaclhORFnSAcoBQVVfeXFMTUg4SVcwX08xVUo4TmlCWndCSDRvbHhic000Y3VMVGJfQWVOaVdwMXl2TjI1bmhxaWoycmFjUV9adGl6RXdDVTV0RlVfNUNBYk9jWkM3bkhSaWc0WS12SXFTUmJLbk5paElqUW1Kb3hRbDBDR1NicnhHOE9HRE4zUW5SNmFDSjRGN2hBaUs0U0liRDI4dkNadmk2V3c5aDQ0R0dnVlp1dGdZSC12Q1RfS2hRLTlmU1c3QXYwLTJ2LXYtenJVZ3FqdFA3QQ?oc=5
+- Harvard Alumni Flag "Concerted Campaign" Against India's Institutions Amid Delhi Protest - NDTV
+  Harvard Alumni Flag "Concerted
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQejdjTHNNQ29Rc3VlZk1qMlVyY0VGQWpWa0Nza1lXaWRMYmVMd1RhQ2NNVWdBaEVCV3ZXdDh2MC1va2s1WGgwejM3UnUtanJZbTBEcGM4T3czRUNQN3poRTdhTGRZRTNqWDBCTjd4blByWEtNUmZxQmw3WkV6MVFySTJQMVd2V29SaFVCRXRHTnJhTE1McG9vQnR1aUJXWGJCYmd2bTgzSkVBaUJ4WUdMZU91bWhjM0RIU0hkbWpKWllDcFZ00gHMAUFVX3lxTE1QNDFVbVVsajAyQXBiSlhNaThIY19WbndXNUNBdHRaQTFJMjZoM3cwSWJTUVFDeWp1dFRVc296NjJkeFpUUkdjdHBPM0tWRGM1MGR0eHBvNFpndU9KREUyc0UxeGljQVQxZVRWSzJsZDFhZFFsYVFOcVhzNDJFNWo5TjFrVVRvNElVX0d0Q3ZDLV9mTjFKc0xySVplZThHdFhpaFZvcEhZQ3Vpc2JaaUh4RzlHNE5vOFRIWmxtUVAyWVM0LXRLZ19JamZ3dA?oc=5
 
-- Can Himalayan floods bridge the India-China divide? - Asia News Network
-  Can Himalayan floods bridge the India
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1E1eTRNZDNWZTIzSi1kSHVwWXlsakl2TXJMbENUei0yZmo1b1I1Ql9ydFk0TGpqSDdaNTVHRml1eVN6ZVZudFlOellXMERYYS1UOGY0VTA0MnlJVWdMMFEtRndKRW5DTV90Wnl0WDNqRjVrZnNZd2lIZzdoNlp4cl9R?oc=5
+- CJP's Saurav Das, Ashutosh Ranka: India's 'cockroach' leaders jailed after holding protest - BBC
+  CJP's Saurav Das, Ashutosh
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zandzM0FMRy13N1dXZWV3UkFvR3pMNEZoZ2tPWUZFQjBqcHY5UnFzeTZCVVVHU2wtOGtuTThfSzBreVR6bkRTN2hZTkdtd19hTFlXdEMtMksyaWM?oc=5
 
-- Modi speaks to Carney, says India and Canada contribute to stable, prosperous world - The Hindu
-  Modi speaks to Carney, says India and Canada contribute to
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNblQ4SkxhWU1EV1dlMnNScHNoZTEwZWVTTW51eTNIem82czFNUXZ5Uzh5MmFBdlByTmVySE1WRTNMdXZ5VHVXVVdoUVRGNmRWVGVkdDdPQnB2R0M4Rzk3RlZEYmliNUh5OUNMLU1aNkY5V3E2NXpPM01yTW5sZXNJWXRaTmNmS2kxVHl4UE9yOGpYeURfZU00aUVrb1diaUlzUUwySFctRy1PODV3U09ubWFDYk1iLUhjNWJrVFRsN2FSd2pTaFRTX0dLS0xUNU4yMEVTaThqQdIB3gFBVV95cUxOWTFwSVFnRXVtd3MxXzNFVDl0ZDcxd1hkRUdMWjhPaTIxV3VUNlVXVWh5VU1lcm5fcGgzY0M0WW9HU3pvMUZLcTZTQUgtVjRVQzJPcmxxUUlybmJmLVpPWVRkdkM2RmMtbFpOOUxvRnVjU0U4aVAzc2NwUUVWMEs1cVdRSExCUF9zR0hEZVk3eVJyZzQwWXJ3dk9vUDNvV19JQkI2Z2wyUFVSdWVod0NsdF9uMGYzXzdDRU9GTzFZZW94WmVGNU03WFFpN2w0NmxzOFN2ZmFfNk1UU0xRQlE?oc=5
-
-- Video: 'This Is Not The India I Remember,' Foreign Woman Compares Road Trips In India 17 Years Apart - NDTV
-  'This Is Not The India I Remember,' Foreign Woman Compares Road Trips
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQM09sX2RGYVhfYjY2M1JtOW01azdadVBBR2ppbmZtWUpnbEdJNUJuRUZEQ1FBUzJEN3BLTXVGWkpSTHlyWEJiY1RUMUVIY3lEV3E5MVVFSTJFREF2bWVZQTNnMk9WOXV5bUdZLXVkVGEzSHlseGM5N245Rjc4ZU43WDBob0EzVnNUd2xvaVhtazhydF9taGY1VHZOXy1Yekg3UTJvVVlBLUU0bXZaa3Z1R2dkdkQ2dWZnLWh5aEI5Z0ZheXBIOFhqRWZDM0FCZ9IB1gFBVV95cUxOMHhCb1k0U1BPTTAzc2ZrTlpPRmR1VkVvRmpzRHZRZlRFdDF3dVRQMjhaNzJQNzNtRHNEOGcwY1A0N3lrdTJ5SGJwNEMzeGRfbWI4eWFCWTVhbmpYRUpyUU5YSUFvdDZJTHFEQzhDckhlaDZPVmZZR2hmc1FHLUgxZFhjeEhLby1pbDNQYm1jeTdLMlN4eU9EazBRMjgzRTdYOG15ZnlNQUhFNW5fcDQ5WWJFaUFSYjk3aW10Yk82Vl9Db2x5VHlSQXV4TWxBM3pPdElsaENR?oc=5
-
-- What Happened At Rahul Gandhi's High Tea With INDIA Bloc: Inside Story - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPM05nX05TZGxrRzd0Um4tU1BFMUZDU3k2RHUwYmQ5MUNuaGgtSkJSbGtoY1RFN0gwSzN3ZnhlSUVlT2NtWWdKTFF1ZjRvQWRNTUtWZzFaZkRuNmxpUXVkYUR2MzFfYktfcE
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPM05nX05TZGxrRzd0Um4tU1BFMUZDU3k2RHUwYmQ5MUNuaGgtSkJSbGtoY1RFN0gwSzN3ZnhlSUVlT2NtWWdKTFF1ZjRvQWRNTUtWZzFaZkRuNmxpUXVkYUR2MzFfYktfcE5xTTlvQkVqRHZOUDBZLThxWm05VVlBaWZoRGJUcFl0X3BmVnRRWmZ5Sm9LOEZfMmxsRXJzU0JCWlluMXo0Nk5iNVlrbzFHeDFPbnbSAbwBQVVfeXFMUFdWZXNwSWs0QTNObmU0M2NlcjFGMmdaUy1UQ0xxYVhVd21rZ0VHMEtDbmNZV1c5Mm5MZ09xanJTX1FRMzFDZkFucndtQll0aEM3dDcyUml6UGNqM3NIUHlqT2JKeW9vc19lRHdacWc0UTAzUkswUWlhY1JJcTVhdThVOEVqTzIySXNoRXNsRWVHaVVhd19OM1BJa0MxMjQ5dl9PWWpWZ0xYYjR1c2dFNE9pekYxX2s1cWZfR2s?oc=5
-
-- Indian airlines cancel flights to Saudi Arabian cities till Oct 17 - The Hindu
-  Indian airlines cancel flights to Saudi Arabian cities till Oct
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzFsZmlKQ2hGb3E5c2lDclk1OXpWd0JVRGdiNDI0N3Z5WnNsUFduMWtwaTNKaTM4cVJocVFESVpLaFEzRTRQcmRaVllaUEJjSGNsM1lVdzhKTHhQT3prQ3U5eE1vZWZINnlNdzdZSHNiXy0zbzljbEY2emRKZGNKUXh1VnpnWXcySTlQSXdzMHZyV1U1YVZhb0haUHRFVmpGdDg1MzlhU284M0VOMTVSRTFUWVBKZ1lEUDRCWTlaclhORFnSAcoBQVVfeXFMTUg4SVcwX08xVUo4TmlCWndCSDRvbHhic000Y3VMVGJfQWVOaVdwMXl2TjI1bmhxaWoycmFjUV9adGl6RXdDVTV0RlVfNUNBYk9jWkM3bkhSaWc0WS12SXFTUmJLbk5paElqUW1Kb3hRbDBDR1NicnhHOE9HRE4zUW5SNmFDSjRGN2hBaUs0U0liRDI4dkNadmk2V3c5aDQ0R0dnVlp1dGdZSC12Q1RfS2hRLTlmU1c3QXYwLTJ2LXYtenJVZ3FqdFA3QQ?oc=5
-
-- Can Himalayan floods bridge the India-China divide? - Asia News Network
-  Can Himalayan floods bridge the India
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1E1eTRNZDNWZTIzSi1kSHVwWXlsakl2TXJMbENUei0yZmo1b1I1Ql9ydFk0TGpqSDdaNTVHRml1eVN6ZVZudFlOellXMERYYS1UOGY0VTA0MnlJVWdMMFEtRndKRW5DTV90Wnl0WDNqRjVrZnNZd2lIZzdoNlp4cl9R?oc=5
-
-- Modi speaks to Carney, says India and Canada contribute to stable, prosperous world - The Hindu
-  Modi speaks to Carney, says India and Canada contribute to
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNblQ4SkxhWU1EV1dlMnNScHNoZTEwZWVTTW51eTNIem82czFNUXZ5Uzh5MmFBdlByTmVySE1WRTNMdXZ5VHVXVVdoUVRGNmRWVGVkdDdPQnB2R0M4Rzk3RlZEYmliNUh5OUNMLU1aNkY5V3E2NXpPM01yTW5sZXNJWXRaTmNmS2kxVHl4UE9yOGpYeURfZU00aUVrb1diaUlzUUwySFctRy1PODV3U09ubWFDYk1iLUhjNWJrVFRsN2FSd2pTaFRTX0dLS0xUNU4yMEVTaThqQdIB3gFBVV95cUxOWTFwSVFnRXVtd3MxXzNFVDl0ZDcxd1hkRUdMWjhPaTIxV3VUNlVXVWh5VU1lcm5fcGgzY0M0WW9HU3pvMUZLcTZTQUgtVjRVQzJPcmxxUUlybmJmLVpPWVRkdkM2RmMtbFpOOUxvRnVjU0U4aVAzc2NwUUVWMEs1cVdRSExCUF9zR0hEZVk3eVJyZzQwWXJ3dk9vUDNvV19JQkI2Z2wyUFVSdWVod0NsdF9uMGYzXzdDRU9GTzFZZW94WmVGNU03WFFpN2w0NmxzOFN2ZmFfNk1UU0xRQlE?oc=5
+- Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest - Al Jazeera
+  Police detain leaders of India’s ‘
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTE3QXpxd3EwZmRiWVFZWHFyRmlCbjJieFRUdG9jaWJRVWlOUG9mZXA3ejhSY1FyZk9vWWxLamFacHRTYnF3NXEyazNvTTllT0RoMXQwd3I1VXZSU0VWeG04V1ItbWw5NHpqTW5XNWpLSDl3ZUpUUzRrN2NDVnlmTC11enFDak1UYUR1cm9aTG5XM3lSaXdRdmRjWW5KR0dndHZsZDdWMFVSQW4wUlY4RUpDUdIBuAFBVV95cUxNNU1BMG9GdkRJZXJiZF9NQ0hIMXAyOVZaa2FqSjl3Tm15NHllSzhPeURpeW5jRmN4WDZvNjhiM2RBR21xZDZfMTJBdHRnVGhySWFxRkFQTlpsdTNaWllqNWZYeGNlTVpRc0ljOUoxZUFocEc3b3dmRjBiVjF0bGFkSFpYTGY4YXprb2JjRjQwYVR4dUpZZHZMWGRmMTRXdks2OHNnZHU1RUVhVFktWERjNnBnSENSWm5j?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,25 +220,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Regional policing unit drops controversial Palantir AI technology - BBC
-  Regional policing unit drops controversial
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqcnNHMFJEWTBsVWtJX21FckhxTWwtN1YtbGVNZnlaVVhURVlSZlJvak9Zc2xXN2VVMHdVb245QTFidFpZVVhyeHFCa0NULUhLN0JtVWhpNFY1NTA?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Warner Music bets high on regional talent, technology, diversified revenue streams in India: Jay Mehta - The Hindu
-  Warner Music bets high on regional talent, technology, diversified revenue
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUHhDYU43MjFuQ1VLbV90TGpINWhDSl81Szk3Z3JrZE40Z1R1T2lxdmpzRzJyQ2p4ak1BRi12TlRESm82UUxnMWliTmRibW43UG9TRGlfMnBQMDlWODJWbEFIaHNnY3NnbG1QYmdhUk9jZWJMWnhSclJSck5uOW1LT0tWTkQzYzZvXzQ1RzJjVWFlNzczb0VGWUpkSDE1aXhtZXJ1aEZSSW1LOUpyWFg4MUx4Q3FjS3VuTFFYRDlhTVRfVDRpN1NXQ3RZd0hyNGdPOHFMamdqRVRYYVdEd2Vmb2o2c05xRVNS0gHvAUFVX3lxTE4xeDdKSnpxLXYwS3BjX3BrdTFJYmJJUTJZaDZPdVpIX3puRW9CczRULWljaVNHTHd0dFZKSm90d2ZWanpkenVCbUNvZkktckVPemhYWDRQT3RBU3FybXVQbG5ITjQyWkhUazZUVlA5aG9MUGc3bFd3TFhYVFFLTUE2aW90NHl1VXdYb0dBTnAwakUtX1p0MnI3WThMSGgxNkZvSU9rQTJuQ1Myb0Y4R0t1MEszRnpSV1VucUJqeDNpelVUUTlGNE5FODdkRWNTeHJ5cTlFUVVHYWRFMXMyM1B1OVU1WWZqUktCRXhUellr?oc=5
-
-- Applying technology to understand and treat disease - blog.google
-  Applying technology to understand
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
-
-- "Mother Of All Technologies": S Jaishankar Calls For AI Inclusiveness - NDTV
-  "Mother Of All Technologies": S Ja
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1ptMDQ3cmZLby0yZTZKcmZBaU1EcXRmS1hNb2ZpR3doSWZEQTg2QmczcFVXYURHTmZxdGdfV1pwdXRoX1hLVlN1aHhINVFpMVZoc09DVHdiNnZKWEJPNFpvQlR2RzgzbGpPNUZIQzZmblIyZmlCQnNXV2pUNUUwdjgyVXJtVlBDOFZoTUg0dHlKU2tRcTJFNFloOTdaakVSU1JWTEM0MlpLSUHSAbMBQVVfeXFMUE9URjMxNU5OWTJ2Z3RsTEtlYktxTzIyMUQ1TWc5RTllb0h3end5TC1zSUxRMktfUnU1UzQ2ZnNxTHRfd2stVXhlTlNNM0QtMlRwaGtpU1RtYkpibDA3UG9vTmEtaXdfdFdFMmdqejhQN1ZsWTM5aGlJY1h0RlJSYTlsR2RWMnlPaGJ6WTdnODRNQTdkX1hKUmpuQkpLNXJLbktTeklYaThkMWE1SlpHeEJCYkE?oc=5
-
-- AI could self-replicate on home devices within ‘months’, Anthropic says - Al Jazeera
-  AI could self-replicate on home devices
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPbTQtSVRsM0pUQnVLVnNvQ1Z5NnlkY2g5UEhDNVZhWnlPaUVsNHhGWm5YY043c3NXZ3hMbm4xcGU4em1zX0h1QW54c2NIWGc0WnpHNG5mX0VUYXBpTFJGOWhrRmZEVmZlRUd3UVg4S3J1S1ZibVZlMzdLUEpoRVRXQlRsaFV6X1dOY2xQN3FjUVhUN3pyeGxTZHlwQ1U1UTgzQW81RnBma3BzWUJqb0lXTEN1MNIBuAFBVV95cUxQRlpTeUFPMnBnakFFSEU0MEFPaHY4czE1RHdrWE1xQkZyc0ZzdFRwRV9WQXF5OWh5VElfN3NlU0FyREMtYl9sUkw2TXN5bUthZWtTWlRxeTRtOFBWdGVBY1VtWnpsdVBITERral9wTVd1aG5vN01WTDhfblIyWmdOWlhuRzJxRk5CeDJCanJQWFZUNlZFU2RNOUxwNFVLdGpwR0RxVjRvYkNEX1V4dldvMGNSWFM3bXMy?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-14 03:12:35 UTC_
+_Last updated: 2026-10-14 11:05:20 UTC_
