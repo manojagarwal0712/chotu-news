@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- Harvard vs Harvard: Support from one, criticism from another over Delhi protests | India News - Hindustan Times
-  The Harvard-Harvard debate has been raging for months. The
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0hQOG51bTNlcXc1azYxcDN0WTNwWE5fOEZ2MHZRQ1dOblFlZHpJbXplY19iLWhKd2cxSHJkNzhDSHdZQ3dWZ1ZIa291NHVTNnpzUFRsbDZwS2hxcEdFT3d5dUNaLWRONk8wOGRKdVZwb0FqYllpS1B1MkV0bTBKUGFqNmRVOUdiRl9faTBKY0xIeXNIUE94QllWOU9SMWhvUTg4cVI3T1ZnUm0xckg2UzZ4NEgtVW05ZjViSWZqNVFXN0VmcHFjdGtRRmFXVGdERVpEdW5TSTjSAd4BQVVfeXFMTnUzNnpXUjVnZHE4YTRBRHVlcXFabkljQTBPRXB0NktHVGp6d2ZTOVAwdmZDbG5SSG5JeVhuaTNEQWJRMHdORDFfTWp2RF82aFZnRWk0cEx4dHFHZG9rLVdOdEdsTE1MMHZmN0NpX0xXLWVsTFF0MWpOVDFfNklQUTV1LUpQYmRRVzFaNWhuSjZTeURMX2xQajBsVHlJMWt0ck0wSjYwNThKYkFaYkJNX2s0em1oMEdKVy1Db2NCTl9NTlpfR0ZRcTFKeWJpaU81Y3haX1RneENBTHZIRENn?oc=5
+- ‘How do you explain the deletion of 130 million names?’: why Indian voters are on the streets - The Guardian
+  ‘How do you explain the deletion of 130 million names?’:
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG0wUzJBZEVScFRjeTI1elBTemFWM2lfbjlfYnhFbVdGZm5KalhTNld0cVJNQmpyUU8zdVhESUNQM2MxTXNyY1BsWkE1VVNYRDNqWWF0bVowYWhMcVl4WlJpRXBTcFY1NS10SmpHMzlhVkh5MlVHbG1TcXcxWW1sY216QmlNU1kyNXdLYmFFVER5QWZxTG44MmN3?oc=5
 
-- Harvard vs Harvard: A Tale of 2 Letters And 2 Opinions On Delhi Protest - NDTV
-  The Harvard-Harvard debate is a tale of two
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkw4NFdpWTBXOVFpaW00WjJkd05jeWsxMjhrTmNXaGVIVmEzb0I5RDI3TlZONGkzellOdFhITTduZjlWQm5yOWdISXN1TVpZOWdBZkNlSXIwcDRHSzFUM0RtMFY5YU5Tc0dPVnRKeXZXU00wUk9ac0QyZndKM2R4YkRqWkdRNk9tNUt4M1RwYTlwR0lVRDZnODdYLXQyU3FVdFEzenp0T2ZuWjJuS09NRVJjUE5OV0Z2cWV1SjhTdlQyc25WNXgyUdIB0AFBVV95cUxPQU1fdTIzVmUzMEFWTkRUSGItMWQweEQ5Y2lVTmlTb1U0ZU05bVdPQjhFOFZpWExpNnVCVkxsbmdMcGtyOWZxNF9PYXgyQm5DeGJPNUYxN2FUbzNWSVFVckFXZkNfNzJIb2o2cW5OcXdLdWJNbUpDMjZuNW05Q0ZoNjg0RlB1Nm1kZ20yUVpoa1A0d1Jrbkd0ZnBBZHBjeEF0d29HY3BYRkFjTUFoMnJkdDFsUFdHa2JMYjZma3BLSG9aMGZPRW83LXk4eGEyaGhK?oc=5
+- Rahul Gandhi Leads Massive Rally In Delhi. Then A Supreme Court Visit - NDTV
+  Rahul Gandhi Leads Massive Rally In Delhi.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnVkRmpMcVV3dzhSaTNZN3RhOTVVbXJ3Sm81LUhFTUY4Vl9uMlRueHN0eUo2XzEtM2ZXY2pJYmhNa2xyMFJGREtvcldBUmxRdnpqNnc2RHk3azhSZlVtdXlhNVhNVGIySkR0UlgyelVtTG1rdW52cFh2RlExS2lNZkhURmlRMXJlLVNYTGozOEUxRmJoOTVYSnNacDRhQmtodlZTcllCb0hTbjNlWmE1UG9qTGdJNU9yZFpUaGZuM0dxeHhfV0FlN2ZwWnNKNllLejZ1RFlRVUtINVFUSG14RlNWWVXSAewBQVVfeXFMTThra2xFX1l5blJ5SXlUa1lkeTdJRkMxVkptNEpQRzdOZF80SUhTME03VGNOUS1DVGhJQm1UMTVWR2xNWlBnY1RHTERRN21Rcmk2TGxvdXdKT3dMR3FlN0dYZ2J3bmF4OWFBSXBGX2lYRmR6azMyZ1ZWMXZUYnpteDNPeHJqYzhyUGFOWEZUY2xZaEI0UFdONF95M2l5UnM0YkNHdDgxV0ROY0RmM0hZSzhrWGYyYzRGMS1iTmNidVlOa3hpcGpoNjNLNXZBYU9HR1hDVmJqWkIwQmN4VlZZNEhwbVNia0NRLTZUV2Q?oc=5
 
-- Harvard Alumni Flag "Concerted Campaign" Against India's Institutions Amid Delhi Protest - NDTV
-  Harvard Alumni Flag "Concerted
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQejdjTHNNQ29Rc3VlZk1qMlVyY0VGQWpWa0Nza1lXaWRMYmVMd1RhQ2NNVWdBaEVCV3ZXdDh2MC1va2s1WGgwejM3UnUtanJZbTBEcGM4T3czRUNQN3poRTdhTGRZRTNqWDBCTjd4blByWEtNUmZxQmw3WkV6MVFySTJQMVd2V29SaFVCRXRHTnJhTE1McG9vQnR1aUJXWGJCYmd2bTgzSkVBaUJ4WUdMZU91bWhjM0RIU0hkbWpKWllDcFZ00gHMAUFVX3lxTE1QNDFVbVVsajAyQXBiSlhNaThIY19WbndXNUNBdHRaQTFJMjZoM3cwSWJTUVFDeWp1dFRVc296NjJkeFpUUkdjdHBPM0tWRGM1MGR0eHBvNFpndU9KREUyc0UxeGljQVQxZVRWSzJsZDFhZFFsYVFOcVhzNDJFNWo5TjFrVVRvNElVX0d0Q3ZDLV9mTjFKc0xySVplZThHdFhpaFZvcEhZQ3Vpc2JaaUh4RzlHNE5vOFRIWmxtUVAyWVM0LXRLZ19JamZ3dA?oc=5
+- Canada sees scope for more investments in India after Fairfax-IDBI bank deal, says Minister Sidhu - The Economic Times
+  Canada sees scope for more investments in India after Fairfax-IDBI bank deal
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOSUpacVlnM3duT2JCNklfQm1SV0NhQVlFRWNkZGFhRUV5Rk5oMWlfQktKcWpva3lWc3RVcDd3YlNwQ3lpT1ltWjRmSW8zSkV5ekpRcnByS0QtdkRUeXl3S0lfbFg0VXVmQl8yTjdvaUhIc3p5bjExUWI5Y0txcVA3al9uS21qUFJjckJXS2F2WktwVVJtWld3ckJ2M25Ra0w0TzFIMUQwNVhXVXR0bGxXT0huY3hXU21YSS1Ca3Z1SDd0bDNfSF9KYlVzaG0ySng0NHhnbjI5bm9RMlZKdzdzTlpkeUU0MnVFRFRKb0dkd0Q4RjkwZFNWOTRGczZMNGZ0MlRhWFA4MFRRc0lCV0dxc2t1Z1jSAY4CQVVfeXFMT2ZyQV94V19ya3pENHc5MlczOExpM2taYVpsdEdjSGl3ZDAycG1oWEY2VFdCbmNOLVk4RXZ1M19PVE5wZVp0cTFDX1RBZXU5Uko3X2x1c3BXVHRQbE5EUUFXa2Qya2xRWnpieEdsQzRseUs3WFZaNnZnZ1hFV1l6QVl6dGp4T3drZ2pUUS1QSTdNZUp1Z2ZOcWxNczZUU2pCSEdfcEM2cFpLQk9jRUJkVmFCdUtyaENjZHZWek5RRnNYZFJIaUFIZ3pfeDFuR0ZKZjRUR0ZLR01RdWR6eHFRcE40MGE2eFUyQU1RZm9CSUlsam9peTRZUWFWbmxXb0V1N0RkdVYyZEotZ09XaVJn?oc=5
 
-- CJP's Saurav Das, Ashutosh Ranka: India's 'cockroach' leaders jailed after holding protest - BBC
-  CJP's Saurav Das, Ashutosh
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zandzM0FMRy13N1dXZWV3UkFvR3pMNEZoZ2tPWUZFQjBqcHY5UnFzeTZCVVVHU2wtOGtuTThfSzBreVR6bkRTN2hZTkdtd19hTFlXdEMtMksyaWM?oc=5
+- Centre Approves 60.72% Stake Sale In IDBI Bank To Fairfax For Rs 52,878 Crore - NDTV
+  Centre Approves 60.72% Stake Sale In
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlFJdUM4cUhLejNnM1JJOHB2dHEtRXVnNTBzSEpqdGlEMGhwRlVLVDNFaHNRQUt5cjRvbDJ3SDhHb045Y2xsUWZCZTNpZWpmb291OUNfR1RTTVFZTVB5V1YtbTBhT3FKVkZCbndaYWtqZFZNWGpCNk1TNzBPQTdUbnlnXzBSdEtNVHZ4ak5FSVVCdklnN0tNRTByTFpEcm5TbnA1TUt2elNWSW1KVC1ULXRPT0E4dkdm0gHAAUFVX3lxTE1uSFRQM1ZLeUJHRmQ1SHBzYmZRbE42ZV96RGVhRjUtaFgyWTVYX0V6cndfWEJBWkxUeXlMUmpOT2pqaE82dWhzTDROS1FEaTFmZ2JsOFNGZmpVOFFDSnp0NFhzdDlDVlVOSjBRR1EyRGZhTTRERzNsN09zNjg5Ry1JWnBIOFlwTm1xZU1vX2VFQmY1WUZ0aHZaSzh5dkRlZ3RnNERKeE9rUFJXNVVyb3AxSlA0d3hkbHJYZ2t1YXh6SA?oc=5
 
-- Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest - Al Jazeera
-  Police detain leaders of India’s ‘
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTE3QXpxd3EwZmRiWVFZWHFyRmlCbjJieFRUdG9jaWJRVWlOUG9mZXA3ejhSY1FyZk9vWWxLamFacHRTYnF3NXEyazNvTTllT0RoMXQwd3I1VXZSU0VWeG04V1ItbWw5NHpqTW5XNWpLSDl3ZUpUUzRrN2NDVnlmTC11enFDak1UYUR1cm9aTG5XM3lSaXdRdmRjWW5KR0dndHZsZDdWMFVSQW4wUlY4RUpDUdIBuAFBVV95cUxNNU1BMG9GdkRJZXJiZF9NQ0hIMXAyOVZaa2FqSjl3Tm15NHllSzhPeURpeW5jRmN4WDZvNjhiM2RBR21xZDZfMTJBdHRnVGhySWFxRkFQTlpsdTNaWllqNWZYeGNlTVpRc0ljOUoxZUFocEc3b3dmRjBiVjF0bGFkSFpYTGY4YXprb2JjRjQwYVR4dUpZZHZMWGRmMTRXdks2OHNnZHU1RUVhVFktWERjNnBnSENSWm5j?oc=5
-
-- Applying technology to understand and treat disease - blog.google
-  Applying technology to understand
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
+- Canada sees huge investment potential in India post IDBI Bank deal - Asianet Newsable
+  Canada sees huge investment potential in India post IDBI
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNYllaV3NtNVdFQTRBUS1QSmJwZDdDSFRUTGFZLV9FRV9hbEFxV2FBMkZUb19sV0NZYjVERFZfTDZHNHZvV2plYjNvSXc2RUxBT3hyS3JTdVNjMDI4d1NLNUZNTHg3TmVJVWtKWkJ2NXZhbnBXOXRsbjdXOC1KSTgtVEcxUWtKdERrWVd1Wk9HTXNMNzJoS1VEWDNYa3l6LXRuLWRuenNJX2ZtQl90WTRDRFlwWEU2TnE0dU5MU1JJUUViVV8zYVRR0gHMAUFVX3lxTE9fOWhxVk1WMzRUbERQVkxFZHdMei1RSmRiR0JOS3FTWFlqaXROVF9OOGxjNWFlYlBPX1F3Uld5RE9FNHFabkxqNWhtcUhFRDluS055cnRGS0k2NzNlYlNUMU82TUdERVcxRUlObU9sYUhMZVhNUmppNWJPaFh3RDIyTXJEemt1LXlFRVRvZFk0RFltelM2a1N0ZG1FaW9jOUpwSVNmUGdtVnB2d1V3QnJkVFF3Z2JLcElvN2ZyQmJ6bFFVSmxTNzZHNjd1NA?oc=5
 
 - Regional policing unit drops controversial Palantir AI technology - BBC
   Regional policing unit drops controversial
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqcnNHMFJEWTBsVWtJX21FckhxTWwtN1YtbGVNZnlaVVhURVlSZlJvak9Zc2xXN2VVMHdVb245QTFidFpZVVhyeHFCa0NULUhLN0JtVWhpNFY1NTA?oc=5
 
-- L&T Inks MoU with TuTr Hyperloop for Next-Generation Mobility Infrastructure - Larsen & Toubro
-  Larsen & Toubro inks MoU
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGh0RzZScl9MdGNPLXlxWGVhYlNzOWJmNWlXdGxyWUE5RjVmSmd2b0IzUTRoUkNTZjRxYS1YVDBOenlLV2xSbV9jSFQzeWQyWXJ5alBZdmlEdFQyNVNOb0RZSmJielpCaXBNS3NVVXdPLUNIY0FXQW1tMGU0N0dmdzlvVWVFbS0weGJsd19kS3JmWU1iOVQybkRZakxNSVdTaTQxdE9PY05mUGpnSlphQWt0amJuVmxFQ19ZRzBVQ0Q1VTFoNFYzeHlxS1NEdFE?oc=5
+- The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster - The Guardian
+  ‘Smart glasses’ prompt calls for ban in Westminster.
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjVmZjNLNWpwQTJFY2RUWG96OUloemR3cVktWUVzRk01b1Z5TEpWdGh3enVuY3BVaG5nakwzaE9qV09UMW5mdDIyV0RlRGpiQ0RzMnc4cmJYUkpPdW1HQl9HOFZyRmY2YTBHTi1hTmVZRnkweURGSjNMUzloczdHRGJYLUQ3NHJjdG5tSm9YVjdLVW0wcTVtX0lNcDdFSUhNWUlfblRTRmh6Ykpr?oc=5
 
-- AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices - The Guardian
-  Anthropic warns models ‘months away’ from self
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUxXc0hJVk5xRzdVTE5hQ2h2LWdnS21nUEZRVVFwX0dVZHJ5QUU1NUxmZUgydXVrRS1jSVNDRmtSVU1YYTh2RURQT0NQcEozdXdIb0FFM1RLakVTRXJFYTl4RU9kQXRPTUM5Vm1uVktaQ1NXaXp2Z3UySW5ZVktRTU5ZNGVocUszOTZV?oc=5
+- Applying technology to understand and treat disease - blog.google
+  Applying technology to understand
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
 
 - War In The Time Of AI: How Technology Is Rewriting The Battlefield - NDTV
   "War In The Time Of AI: How Technology
   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZURGUDNVY0U0bVNRYy1lQWVNeTJ2SEVxWGZmRXFpX3g3WmFJOTAtcl9rNllqdk5HRVZRV25fWndTV1Q4QjE5OWZfWmliYmVqYnZnb043MWx2aDJfeEs5WTdkaVdiQXRVdEdjTEFNbk5keHl5cTRPT29MbE1lTktrS2NKT3cweTJEOUd4bFFFV1hXMHQyYVA1RDBIcUdYNHY0aVJvWmN3TC03QdIBsgFBVV95cUxPS09BR0xGWnNxLXVSUG1ldnNVekdTbWJvZ1BzQWVER3ZkSEZiTVNPTnNDX1VLTTdDaTZsZEFKLVZNcnQ4Y0c0YmMzVGM1ZEFCTVVBbHJmN043eG54bVZuclM1VG8wVVhBemdXVzZGdTZaY2tTM05aY0gweTBfTklzMGtNVlJ2YVA3eVVudmc4UF9DLW9FeTI3LXlDSzF3dXlmSThOcmZLZnFXdjhxZHp3ckNB?oc=5
 
-- Sunil Mittal takes on Elon Musk, says Bharti is ahead of Starlink, ready to launch
-  Sunil Bharti Mittal says his company is ahead of Starlink in India's satellite approval queue.
-  🔗 https://www.livemint.com/companies/news/sunil-mittal-takes-on-elon-musk-says-bharti-is-ahead-of-starlink-ready-to-launch-11791965999570.html
+- MIT Bengaluru Inaugurates Quantum-Hub@MAHE to Advance Indias Quantum Technology Ecosystem - TheWire.in
+  MIT Bengaluru Inaugurates Quantum
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2s4bEtjNVVzVjVCSXpBRHVER0Z6M0VndWNzUmEzVHc1Ujh4S01jeUNhc3NobzZxbkIxVURkSkpMemk2Z1BNYTJUeWlqVFVVUDhmWWlfbmpCSVRpanFpSmFzR0ZkNHZMUVF2VnpPVGxNVzdobUtGSmxCSEdZdUhUWGZ5WDJrSEREQWZUWi1kdG43aHZGWWVZSUxYTVFwZk9wWHJlbl9XeXRNYzBPMW96M3NIQ2hWNXpXVzd3RUpBV2ZXZEgyRlHSAcsBQVVfeXFMTkNZS0VZOXRDamZ6b2Jta0xRalRfVEFDSE44enZTV3g3UHpCRjRSVFQ0bHhvNEVZNVZ2bUhtOFVsR2FjclhQcTN3MG1kYlpZa3B3RDB2dnQ0NDF3NTlvcklvOG03TGZRclVQaUhuaW5kZGRqVmFjWXItVHpGM3NYWVRxX2xnUG9kSG0yY19IUVNtUWU1SVFCaHhjTlhwcFkyWEphVlA4Q2dMdXVVLXJEQ195Q09mWlFNQWtpVk9iS0w2bUh6TFd4VXUyQTQ?oc=5
 
-- ‘AI was a monster’: Kumar Mangalam Birla reveals strategy behind investing in artificial intelligence
-  Kumar Mangalam Birla says global crises, shifting trade policies and changing demand are complicating
-  🔗 https://www.livemint.com/companies/news/ai-was-a-monster-kumar-mangalam-birla-reveals-strategy-behind-investing-in-artificial-intelligence-11791960931430.html
+- Accenture lays out three-year plan to approach $100 billion revenue despite macro drag
+  CEO Julie Sweet said the company plans to harness tech modernization, mid-market expansion,
+  🔗 https://www.livemint.com/companies/accenture-lays-out-three-year-plan-to-approach-100-billion-revenue-despite-macro-drag-11791987219450.html
 
-- Why Zoho's Sridhar Vembu is trending after ‘pay hike, mass layoff’ tweet: Losing 80% clients, making mega business, more
-  Vembu started building what came to be known ‘Zoho’ in the 1990s, in a small apartment located in the suburbs of Chennai. The startup had its own share of
-  🔗 https://www.livemint.com/companies/news/sridhar-vembu-freezes-salary-hike-from-losing-80-clients-overnight-to-making-billion-dollar-business-the-zoho-story-11791957955600.html
+- Reliance enters ready-to-drink dairy category with flavoured Milk at  ₹20, to compete with Amul, ITC, Mother Diary
+  Reliance Consumer Products launched flavoured milk, Joyland, in Tamil Nadu. It marks their entry into the ready-to-dr
+  🔗 https://www.livemint.com/companies/reliance-enters-ready-to-drink-dairy-category-with-flavoured-milk-at-rs-20-to-compete-with-amul-itc-mother-diary-11791989292574.html
 
-- Who is Neville Tata? Why is he in the news today? Latest developments in Tata Trust dispute explained
-  The latest development in the Tata Trust dispute concerns Noel’s leadership and Neville
-  🔗 https://www.livemint.com/companies/news/who-is-neville-tata-why-is-he-in-the-news-today-latest-developments-in-tata-trust-dispute-explained-11791952943864.html
+- IDBI Bank stake sale to Fairfax raises job security concerns; Finance Ministry assures staff protection
+   Fairfax will acquire a majority stake in IDBI Bank after Cabinet approval. The move has sparked concerns about job security
+  🔗 https://www.livemint.com/companies/news/idbi-bank-stake-sale-to-fairfax-raises-job-security-concerns-finance-ministry-assures-staff-protection-11791985061970.html
 
-- M Pallonji backed Protec General secures around  ₹300 crore to expand operations
-  The capital infusion follows Protec’s in-principle regulatory approval.
-  🔗 https://www.livemint.com/companies/protec-general-insurance-raises-rs-320-crore-pallonji-divya-sehgal-11791824749247.html
+- Netflix layoffs: 1,000 jobs to go as streaming giant expands into ads, live sports and gaming
+  Netflix is reportedly planning to cut about 6% of its workforce, or roughly 1,000 jobs. The cuts come as the streaming company expands into advertising, live programming and gaming.
+  🔗 https://www.livemint.com/companies/news/netflix-layoffs-1-000-jobs-to-go-as-streaming-giant-expands-into-ads-live-sports-and-gaming-11791986571922.html
 
-- Pearl Global: This multibagger textile stock gets back-to-back target price upgrades—should investors buy now?
-  Brokerages have turned bullish on Pearl Global Industries, citing its diversified manufacturing network, spare capacity and potential operating leverage. JM Financial initiated coverage with a Buy rating and a
-  🔗 https://www.livemint.com/market/stock-market-news/pearl-global-this-multibagger-textile-stock-gets-back-to-back-target-price-upgrades-should-investors-buy-now-11791973387008.html
+- Emirates cites infrastructure, flying-rights hurdles at Navi Mumbai, seeks more India flying rights
+  Emirates said Navi Mumbai needs supporting facilities to attract international carriers. The
+  🔗 https://www.livemint.com/companies/news/emirates-cites-infrastructure-flying-rights-hurdles-at-navi-mumbai-seeks-more-india-flying-rights-11791977380229.html
 
-- Suzlon Energy shares: Up 12% in four straight sessions | Experts give 3 reasons to buy — target price, stop-loss
-  Suzlon Energy share price has risen from  ₹36
-  🔗 https://www.livemint.com/market/stock-market-news/suzlon-energy-shares-up-12-in-four-straight-sessions-experts-give-3-reasons-to-buy-target-price-stoploss-11791968583136.html
+- Jio Platforms IPO: Price band fixed at  ₹1,065– ₹1,119 per share; minimum bid lot set at 12 shares
+  Jio Platforms has set its IPO price band at  ₹1,065– ⁹1,.119 per share. At the upper
+  🔗 https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-price-band-fixed-at-rs-1-065-rs-1-119-per-share-minimum-bid-lot-set-at-12-shares-11791992365457.html
 
-- BHEL Q2 results: Defence PSU stock up 5%, hits record high as profit soars 120%; check key highlights - Should you buy?
-  BHEL shares hit a record high of  ₹463.60 after the company reported a 120.1% year-on-year rise in Q2 FY27 net profit to 
-  🔗 https://www.livemint.com/market/stock-market-news/bhel-q2-results-defence-psu-stock-jumps-5-to-record-high-as-net-profit-soars-120-check-key-highlights-share-trend-11791971434067.html
+- IDBI Bank stake sale: Will Fairfax’s entry benefit minority shareholders? What investors should know
+   Fairfax Financial Holdings, founded by Prem Watsa, won approval to acquire a 60.72% stake in IDBI Bank. The strategic partnership is expected to bring fresh
+  🔗 https://www.livemint.com/market/stock-market-news/idbi-bank-stake-sale-will-fairfax-s-entry-benefit-minority-shareholders-what-investors-should-know-11791975473321.html
 
-- PL Capital raises Nifty 50 target to 27,589; BEL, ICICI Bank, Airtel among top picks — check price targets
-  PL Capital’s revised Nifty 50 target is 27,589. The brokerage cautions that inflation, deficient rainfall and global uncertainty could prolong
-  🔗 https://www.livemint.com/market/stock-market-news/pl-capital-raises-nifty-50-target-to-27-589-bel-icici-bank-airtel-among-top-picks-check-price-targets-11791968139555.html
+- Jio Platforms IPO to raise $3.2bn, opens 21 Oct
+  The IPO is now valued at around  ₹30,200 crore, or about $3.2 billion. The company has not cut the number of shares on offer, with the IPO still
+  🔗 https://www.livemint.com/market/ipo/jio-platforms-ipo-dates-details-11791965033362.html
 
-- Multibagger chemical stock Himadri Speciality up 40% in last 6 months- should investors buy or hold? Experts decode
-  Himadri Speciality Chemical has delivered strong multi-year returns. The company is shifting toward advanced materials
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-chemical-stock-himadri-speciality-up-40-in-last-6-months-should-investors-buy-or-hold-experts-decode-11791968475542.html
+- Reliance Jio IPO has good news for eligible employees! Reservation of shares worth up to  ₹500 crore confirmed
+  The mega issue will open for subscription on Wednesday, October 21, and close on Friday, October 23, 2026. The anchor investor bidding date has been scheduled for Monday, October 19
+  🔗 https://www.livemint.com/market/reliance-jio-ipo-has-good-news-for-eligible-employees-reservation-of-shares-worth-up-to-rs-500-crore-confirmed-11791987214019.html
+
+- Sebi bars Rajesh Mehta from trading in Rajesh Exports, keeps curbs in place
+  Market regulator demands full compliance with a forensic audit following allegations of a  ₹15.15
+  🔗 https://www.livemint.com/market/sebi-bars-rajesh-mehta-from-trading-in-rajesh-exports-keeps-curbs-in-place-11791983496178.html
 
 - ASUS ExpertBook laptops get up to  ₹21,000 off during Flipkart Big Billion Days Sale 2026
   ASUS ExpertBook laptops are available at discounted prices during Flipkart's Big Billion Days Sale 2026. Buyers can also get bank offers of up to  ₹10,000
@@ -100,133 +100,165 @@
   India is planning over a 20-25 year horizon to reduce critical technology dependencies. The country aims to become a trusted partner across global technology supply chains.
   🔗 https://www.livemint.com/technology/india-aims-to-cut-critical-tech-dependencies-over-20-25-years-build-resilience-ashwini-vaishnaw-11791951089197.html
 
-- Stocks Erase Gains After ASML, Dollar Declines: Markets Wrap - Bloomberg.com
-  Stocks Erase Gains After
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkdpWnlfNjZqMGFBMUtMU1JNdFhzem9kbFhSR3Z0Qnl0ZkVacmR6TzRSQXBvMU5SNElCUkEtWFpueWhuWWNGdUR2dkVPcVdtQmRuT1VuRVVldlhDaW1lRHhYdHF6cTQxNUJNb3F1V0ZrNWszNGlsbllLTkR0SGs1ZXo0NHY3eW9aYmxuSnZkNy1MSS1k?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall, earnings season kicks off - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq slip as chip
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPWElhakU3ODExbEt5OS1IbW5xS1luMUdSUk9SOEFwUlQyenYwTkExT1JjRm9VWEs3aXFsVUVqSTFQVmVfSGp6R3A3aWV1Q000ZzE2bTRNdjVpTmhXX19veGdzUW81cU5zRkRGeDBNeXdaTWotWkNLVC1NcElGbkdNajBWVzlFU2d1OUFqUm1GTFE2dmRwOVpYM2E0dlhBUXlOZlVTX1FWWHhkQk85MGo2VjBxYTYyODgyTGZmNDdR?oc=5
-
-- Stock futures tick higher as traders await consumer inflation report: Live updates - CNBC
-  Stock futures tick higher as traders await consumer inflation report
+- S&P 500 falls as yields rise after hot inflation report: Live updates - CNBC
+  P 500 falls as yields rise after hot inflation report
   🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTFA5LXlOZnZiVWJqSnQ2TzM5RmJkamRlQ0dDeFQ3QjVMOVB6TFFUaENwSGJsOEk5enQwRVRPSUN6cGlDNldmXzdTX3ZLYmpiZFJaWW9WbFF1RUZYRjhuMk5NZ0lWa0JtREEyM2ZXV3R3cU9KWDVwYk9UbNIBfkFVX3lxTFBuUXFxSkctRkxsaWZMQ1ZEUzNLaDlwMHZzMjlfcW5wdmpTbklYcU45bks5WmY0SUJvdWlTWERCd1NHUUwwcjNJQ2V2ZkUxZGtWem16cmU4VXNVdnpqUnR5MzZkQVBsTnlBWmh1bDJ3THRyQVZfd3Y0aHptTER4Zw?oc=5
 
-- FM Sitharaman's LTCG tax remarks lift Sensex by 1,100 points. Can markets hope for a review? - The Economic Times
-  FM Sitharaman's LTCG tax remarks lift Sensex by 1,
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbXhDQzM4VFk2VlI0VE0zeFdETEQ0NjFHN3dhWDlHRERfZFZLME93ZGtLODhTX1BCTlBwbmtUREIxZ0FBZ2dVeElIV0VWdjJ5dWRLREFLc3FyRHVTS19MUTQwWURxcFJ0QlNhdzJJSWotcFBrMkZfSEFtYTNyUENoZ3ZWLTJaZXo2djFQR1ZuM1oyNmxFblZHSXFRYUd0UWpvMlRQeXhmQlQ2WTJuRHBCMlFOSDJTSlBXZG5LR3l5VlhfdGQyYU5jS1ZleEhtRGxtMkN2ZzBnSHhoZHlsTWMxak5pZ3Z4c1lXQW5ESVZ3bllaUExLX3fSAfsBQVVfeXFMTnprSmZwNVZQWVJVaWNxQlhlRENzcWpfR2N1UUduVERhY1J6Z1pwZTFPOWUwb1Fac0VjYXhsS04xcloyd3p5b2MzSm5LbnBjQVpTODV3NHRnTlBoaWVNc0pZMDdTTG1PXzFUZC0ybUtES0pMTDhWX0FPMEVQYzRxVTduZW1iTkRVRndBb0lYYTF6SWV5VVgzd3cxMzNDZFNKTk80RGFfZmNjY2lFWnpzV1dWdUVMeHZ1amUwN2tGOElwMVdUWm9lX0dHZ3VjRHQ0c3lwOG0xRDZnay1VV1E3dFE5VGQtRlp1WndVbGR3dlRST0d4QWExT2JvbE0?oc=5
+- Stock Market Today: Yields Jump, Nasdaq Opens Lower After Hot Inflation Reading — Live Updates - WSJ
+  Stock Market Today: Yields Jump, Nasdaq Opens
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTFBiVVMwcjFtY3BJZEVkSGxrR3dFTzVMbWpJa3U5X3l3WnlTUkZNZm1FVnlQeG9jRmhnY3l6SXZLb0dsVjhEbkxwOFUtbmphbndDMlRvN3hYUkY3THIybXA1Sm9sTklEalA0VDNvR3JuZkZ2ckhhcTB3aTd3?oc=5
 
-- Sensex Jumps Over 1,100 Points, Rupee Rallies. Why Markets Went Up Today - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWNHV3BUWGtwZVRvUjhKY2hYVl9qblE0em1ac0xPQjZYOHBPNHFiSTZBMzk5NjF4ank2SnlwZ3EtU0Jmd3hTcWZ2NFRYOGNaRktXQVZHQV84dVhScFlXb1N3aWtZRS03Nm
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWNHV3BUWGtwZVRvUjhKY2hYVl9qblE0em1ac0xPQjZYOHBPNHFiSTZBMzk5NjF4ank2SnlwZ3EtU0Jmd3hTcWZ2NFRYOGNaRktXQVZHQV84dVhScFlXb1N3aWtZRS03Nmloa1RaNmNwY3JuQWRrX2c0aWwxQWM0X2V0aUlHdUpnZks2SVJHMURMX3I5WkRIcEtOLVBjZmlDZUllUE9PdHlHdGRJbUliSWFWQlo5Z18tQW5nbU50TlpTcExDWWZ2RWxIQkZZUdIB1gFBVV95cUxQampaVDhmalJkaXptRXlseE1CYjYyTUNVWTlYeUJNckN3WHdwQ2Y3TVFnMVIzMzQ5eHZiZGRJbUdzRDZFWjM2U3d1cHVVSkt3VmRSdFhsMXJTNmNnNVBvN1pCWTFrYWpNYkxvdnc3dWpSeUFjVGxqRlhwem9VRXpVbFFDOEJrSmpKeUtzbk90d19JWHY0OTJDNFl2a3Rob3J6bzNTd2Z3MkR6eDN0bHpWaXQ5aUJ5VEpBZjFyeHlyS3hWTUVCVGZVRTNiaWZmQU9vQ3ZpSjZn?oc=5
+- Stock market today: Hot inflation report drops tech, drives S&P 500, Nasdaq down - Yahoo Finance
+  The S&amp;P 500, Nasdaq down.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1dyS0JCRnFXYVM3dS00OUFGc2EzdV9pRm0yR3M3TndxOF84SE5iN3BNcmN1UWpnWVFBVmhTVHhNekczM3FKSVNZUUdXLWZGanM3c09sMDFFa3dPV2VoMUJUekhYaC1FZlAyclBSQVhIV1c3c3dsUUZCV09RWkFUSHJZRVNkOG5kQXV4eTNlTFhnVXhzWElwU0pVYlpKUUNucEplSWNHdzRSbDFSbFJuYi1UWkRiT3U5VUotYUM1cUhKMnVuTndydnR3?oc=5
 
-- Bitcoin hovers near $83K as Asian stock sell-off triggers over $800 million in crypto liquidations
-  Bitcoin hovered around $83,300 on Wednesday as a sharp sell-off in Asian equities triggered over $800 million in crypto liquidations. Broader macroeconomic uncertainty, softening institutional
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-83k-as-asian-stock-sell-off-triggers-over-800-million-in-crypto-liquidations/articleshow/134939967.cms
+- FTSE 100 Live: Pound, UK Stocks Set for Small Gains - Bloomberg.com
+  FTSE 100 Live: Pound,
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa0dCLV9uWHVIRFYwUlRQMFdtVVQ4WUtUU3VIb0huN05vLXYyS0RwaVY1TDhoeDBvYWxkVGJGaDNmVDZjb0dNak1JTUNaQnBmcWdVMHhXSWc3cXhabVRVbGMzMTY4cVJKaHlXNU8wX1ZKSEJUT0tINndVMUxaQU10V0tBVmstNjZjdHhnWkJiNzl2d3JVQXhESkdOTW96Z0h1NDlTTVYyOGJCY3ItOENDeDh3bnNpTDVUUG5LVlRRQmxPMkFPX2hQV2o0Y1lPalhNSHhvdktIT2k2WkNpSDczSEpwVjlRTDNaX08yTlVhLVlnQQ?oc=5
 
-- 10 Nifty500 stocks that have fallen up to 58% in a year
-  Ten Nifty 500 stocks have fallen between 47% and 58% over the past year. KEC International, Reliance Power and KPIT Technologies lead the list of laggards. Nearly 50 stocks in
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-nifty500-stocks-that-have-fallen-up-to-58-in-a-year/slideshow/134939701.cms
+- Russian diesel not for us, but for world markets: Trump - The Hindu
+  Russian diesel not for us, but for world
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSU1OZVg1Wm8xQUp0N2d2X1FQcm44Y0VsMHMxMmRmTlc3WkE5RE8tVXhyWVlYZ2lid1pMYWIwbHF3NFBIeGRNRVo5MURmWnpkODlfcUh5OVVkRDVkd2pvc2Zoa3RwbFkySldkTkFVaWVpMFkwcUdGMlFleU9lYWlhUHBXRkNGYXNwQVpfZFZtWE5yMjFtMDdEMi1XRVRuQ25JdF9zdGFsRDloSVY5VlVudnExZ1ZwZkIx0gG_AUFVX3lxTE1fR2NvaTljY1ZlTHV2WWpWSnJpaEpxeFZkVGx6dEs4NEVFeVljN2l3VmlxTUNfR2dOX0J2bjBmbTh3cl8zUGQ0UEs5X0haTGtyaUV4VVhaNjVkVHdPVHlZM1c1a0hEd0UtaFRVa3kzODMxRDkxRWl3dFZKNkdFYUZSZ282STI4QTRGd2RFTTVJazBTdEtfZmNEZU1lOXFDSUNVLTI5ODFXZUJSalBVX2MyeDcyLTlZNUhwTXVGMjJ3?oc=5
 
-- Rs 5 lakh crore worth FII outflows since 2024 capital gains tax hike wreak havoc on Dalal Street. Is a reversal on the cards?
-  Foreign investors have sold over Rs 5 lakh crore of Indian equities since the 2024 capital gains tax hike. Finance Minister Nirmala Sitharaman’s comments on LTCG and STT have revived hopes.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-6-lakh-crore-worth-fii-outflows-since-2024-capital-gains-tax-hike-batter-dalal-street-is-a-reversal-on-the-cards/articleshow/134939069.cms
+- IPO ahead! Paramotor Digital Technology files updated draft papers with Sebi for Rs 1,000 crore issue
+  Paramotor Digital Technology has filed updated draft IPO papers with Sebi. The fintech company plans to use the proceeds primarily for customer acquisition, technology development and business expansion.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-paramotor-digital-technology-files-updated-draft-papers-with-sebi-for-rs-1000-crore-issue/articleshow/134946466.cms
 
-- Rupee extends rise but falters past 95/USD on importer hedging, outflows
-  The Indian rupee has experienced an increase for the third consecutive session. It reached a peak of 94.77 before settling at 95.15 against the dollar. Indian importers continue to hedge against potential rupee weakness.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-extends-rise-but-falters-past-95/usd-on-importer-hedging-outflows/articleshow/134939222.cms
+- HDB Financial Q2 profit climbs 34%, NIM improves year on year, eyes stronger disbursements in H2
+  HDB Financial Services reported a 34% year-on-year increase in Q2FY27 net profit to Rs 780 crore. The lender expects festive demand and stronger disbursements to drive growth in the second half.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hdb-financial-q2-profit-climbs-34-nim-improves-year-on-year-eyes-stronger-disbursements-in-h2/articleshow/134946431.cms
 
-- AIFs to play crucial role in India's economic growth, AI offers significant opportunities: Partner BCG
-  India's Alternative Investment Fund (AIF) industry has significant growth potential. Artificial intelligence (AI) continues to present a major opportunity, says Boston Consulting Group.
-  🔗 https://economictimes.indiatimes.com/markets/aif-pms/aifs-to-play-crucial-role-in-indias-economic-growth-ai-offers-significant-opportunities-partner-bcg/articleshow/134938664.cms
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Sensex and Nifty ended lower on Wednesday as investors booked profits. Market participants will track global cues, crude oil prices, foreign investor flows and stock-specific developments on Thursday.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134946296.cms
 
-- Harvard vs Harvard: Support from one, criticism from another over Delhi protests | India News - Hindustan Times
-  The Harvard-Harvard debate has been raging for months. The
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0hQOG51bTNlcXc1azYxcDN0WTNwWE5fOEZ2MHZRQ1dOblFlZHpJbXplY19iLWhKd2cxSHJkNzhDSHdZQ3dWZ1ZIa291NHVTNnpzUFRsbDZwS2hxcEdFT3d5dUNaLWRONk8wOGRKdVZwb0FqYllpS1B1MkV0bTBKUGFqNmRVOUdiRl9faTBKY0xIeXNIUE94QllWOU9SMWhvUTg4cVI3T1ZnUm0xckg2UzZ4NEgtVW05ZjViSWZqNVFXN0VmcHFjdGtRRmFXVGdERVpEdW5TSTjSAd4BQVVfeXFMTnUzNnpXUjVnZHE4YTRBRHVlcXFabkljQTBPRXB0NktHVGp6d2ZTOVAwdmZDbG5SSG5JeVhuaTNEQWJRMHdORDFfTWp2RF82aFZnRWk0cEx4dHFHZG9rLVdOdEdsTE1MMHZmN0NpX0xXLWVsTFF0MWpOVDFfNklQUTV1LUpQYmRRVzFaNWhuSjZTeURMX2xQajBsVHlJMWt0ck0wSjYwNThKYkFaYkJNX2s0em1oMEdKVy1Db2NCTl9NTlpfR0ZRcTFKeWJpaU81Y3haX1RneENBTHZIRENn?oc=5
+- Silver futures plunge 4% on MCX ahead of US CPI; rising oil adds pressure
+  Silver prices fell sharply on October 14 as rising crude oil prices, a stronger dollar and caution ahead of
+  🔗 https://economictimes.indiatimes.com/markets/commodities/silver-futures-plunge-4-on-mcx-ahead-of-us-cpi-rising-oil-adds-pressure/articleshow/134946048.cms
 
-- Harvard vs Harvard: A Tale of 2 Letters And 2 Opinions On Delhi Protest - NDTV
-  The Harvard-Harvard debate is a tale of two
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkw4NFdpWTBXOVFpaW00WjJkd05jeWsxMjhrTmNXaGVIVmEzb0I5RDI3TlZONGkzellOdFhITTduZjlWQm5yOWdISXN1TVpZOWdBZkNlSXIwcDRHSzFUM0RtMFY5YU5Tc0dPVnRKeXZXU00wUk9ac0QyZndKM2R4YkRqWkdRNk9tNUt4M1RwYTlwR0lVRDZnODdYLXQyU3FVdFEzenp0T2ZuWjJuS09NRVJjUE5OV0Z2cWV1SjhTdlQyc25WNXgyUdIB0AFBVV95cUxPQU1fdTIzVmUzMEFWTkRUSGItMWQweEQ5Y2lVTmlTb1U0ZU05bVdPQjhFOFZpWExpNnVCVkxsbmdMcGtyOWZxNF9PYXgyQm5DeGJPNUYxN2FUbzNWSVFVckFXZkNfNzJIb2o2cW5OcXdLdWJNbUpDMjZuNW05Q0ZoNjg0RlB1Nm1kZ20yUVpoa1A0d1Jrbkd0ZnBBZHBjeEF0d29HY3BYRkFjTUFoMnJkdDFsUFdHa2JMYjZma3BLSG9aMGZPRW83LXk4eGEyaGhK?oc=5
+- Jio announces price band for over Rs 30,000 crore IPO. Check key dates, GMP and other details
+  At the lower end of the price band, Jio Platforms could raise Rs 28,755 crore. At the cap price of Rs 1,119, the IPO size would rise to about Rs 30,213
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-announces-price-band-for-over-rs-30000-crore-ipo-check-key-dates-gmp-and-other-details/articleshow/134945465.cms
 
-- Harvard Alumni Flag "Concerted Campaign" Against India's Institutions Amid Delhi Protest - NDTV
-  Harvard Alumni Flag "Concerted
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQejdjTHNNQ29Rc3VlZk1qMlVyY0VGQWpWa0Nza1lXaWRMYmVMd1RhQ2NNVWdBaEVCV3ZXdDh2MC1va2s1WGgwejM3UnUtanJZbTBEcGM4T3czRUNQN3poRTdhTGRZRTNqWDBCTjd4blByWEtNUmZxQmw3WkV6MVFySTJQMVd2V29SaFVCRXRHTnJhTE1McG9vQnR1aUJXWGJCYmd2bTgzSkVBaUJ4WUdMZU91bWhjM0RIU0hkbWpKWllDcFZ00gHMAUFVX3lxTE1QNDFVbVVsajAyQXBiSlhNaThIY19WbndXNUNBdHRaQTFJMjZoM3cwSWJTUVFDeWp1dFRVc296NjJkeFpUUkdjdHBPM0tWRGM1MGR0eHBvNFpndU9KREUyc0UxeGljQVQxZVRWSzJsZDFhZFFsYVFOcVhzNDJFNWo5TjFrVVRvNElVX0d0Q3ZDLV9mTjFKc0xySVplZThHdFhpaFZvcEhZQ3Vpc2JaaUh4RzlHNE5vOFRIWmxtUVAyWVM0LXRLZ19JamZ3dA?oc=5
+- ‘How do you explain the deletion of 130 million names?’: why Indian voters are on the streets - The Guardian
+  ‘How do you explain the deletion of 130 million names?’:
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG0wUzJBZEVScFRjeTI1elBTemFWM2lfbjlfYnhFbVdGZm5KalhTNld0cVJNQmpyUU8zdVhESUNQM2MxTXNyY1BsWkE1VVNYRDNqWWF0bVowYWhMcVl4WlJpRXBTcFY1NS10SmpHMzlhVkh5MlVHbG1TcXcxWW1sY216QmlNU1kyNXdLYmFFVER5QWZxTG44MmN3?oc=5
 
-- CJP's Saurav Das, Ashutosh Ranka: India's 'cockroach' leaders jailed after holding protest - BBC
-  CJP's Saurav Das, Ashutosh
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zandzM0FMRy13N1dXZWV3UkFvR3pMNEZoZ2tPWUZFQjBqcHY5UnFzeTZCVVVHU2wtOGtuTThfSzBreVR6bkRTN2hZTkdtd19hTFlXdEMtMksyaWM?oc=5
+- Rahul Gandhi Leads Massive Rally In Delhi. Then A Supreme Court Visit - NDTV
+  Rahul Gandhi Leads Massive Rally In Delhi.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnVkRmpMcVV3dzhSaTNZN3RhOTVVbXJ3Sm81LUhFTUY4Vl9uMlRueHN0eUo2XzEtM2ZXY2pJYmhNa2xyMFJGREtvcldBUmxRdnpqNnc2RHk3azhSZlVtdXlhNVhNVGIySkR0UlgyelVtTG1rdW52cFh2RlExS2lNZkhURmlRMXJlLVNYTGozOEUxRmJoOTVYSnNacDRhQmtodlZTcllCb0hTbjNlWmE1UG9qTGdJNU9yZFpUaGZuM0dxeHhfV0FlN2ZwWnNKNllLejZ1RFlRVUtINVFUSG14RlNWWVXSAewBQVVfeXFMTThra2xFX1l5blJ5SXlUa1lkeTdJRkMxVkptNEpQRzdOZF80SUhTME03VGNOUS1DVGhJQm1UMTVWR2xNWlBnY1RHTERRN21Rcmk2TGxvdXdKT3dMR3FlN0dYZ2J3bmF4OWFBSXBGX2lYRmR6azMyZ1ZWMXZUYnpteDNPeHJqYzhyUGFOWEZUY2xZaEI0UFdONF95M2l5UnM0YkNHdDgxV0ROY0RmM0hZSzhrWGYyYzRGMS1iTmNidVlOa3hpcGpoNjNLNXZBYU9HR1hDVmJqWkIwQmN4VlZZNEhwbVNia0NRLTZUV2Q?oc=5
 
-- Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest - Al Jazeera
-  Police detain leaders of India’s ‘
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTE3QXpxd3EwZmRiWVFZWHFyRmlCbjJieFRUdG9jaWJRVWlOUG9mZXA3ejhSY1FyZk9vWWxLamFacHRTYnF3NXEyazNvTTllT0RoMXQwd3I1VXZSU0VWeG04V1ItbWw5NHpqTW5XNWpLSDl3ZUpUUzRrN2NDVnlmTC11enFDak1UYUR1cm9aTG5XM3lSaXdRdmRjWW5KR0dndHZsZDdWMFVSQW4wUlY4RUpDUdIBuAFBVV95cUxNNU1BMG9GdkRJZXJiZF9NQ0hIMXAyOVZaa2FqSjl3Tm15NHllSzhPeURpeW5jRmN4WDZvNjhiM2RBR21xZDZfMTJBdHRnVGhySWFxRkFQTlpsdTNaWllqNWZYeGNlTVpRc0ljOUoxZUFocEc3b3dmRjBiVjF0bGFkSFpYTGY4YXprb2JjRjQwYVR4dUpZZHZMWGRmMTRXdks2OHNnZHU1RUVhVFktWERjNnBnSENSWm5j?oc=5
+- Canada sees scope for more investments in India after Fairfax-IDBI bank deal, says Minister Sidhu - The Economic Times
+  Canada sees scope for more investments in India after Fairfax-IDBI bank deal
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOSUpacVlnM3duT2JCNklfQm1SV0NhQVlFRWNkZGFhRUV5Rk5oMWlfQktKcWpva3lWc3RVcDd3YlNwQ3lpT1ltWjRmSW8zSkV5ekpRcnByS0QtdkRUeXl3S0lfbFg0VXVmQl8yTjdvaUhIc3p5bjExUWI5Y0txcVA3al9uS21qUFJjckJXS2F2WktwVVJtWld3ckJ2M25Ra0w0TzFIMUQwNVhXVXR0bGxXT0huY3hXU21YSS1Ca3Z1SDd0bDNfSF9KYlVzaG0ySng0NHhnbjI5bm9RMlZKdzdzTlpkeUU0MnVFRFRKb0dkd0Q4RjkwZFNWOTRGczZMNGZ0MlRhWFA4MFRRc0lCV0dxc2t1Z1jSAY4CQVVfeXFMT2ZyQV94V19ya3pENHc5MlczOExpM2taYVpsdEdjSGl3ZDAycG1oWEY2VFdCbmNOLVk4RXZ1M19PVE5wZVp0cTFDX1RBZXU5Uko3X2x1c3BXVHRQbE5EUUFXa2Qya2xRWnpieEdsQzRseUs3WFZaNnZnZ1hFV1l6QVl6dGp4T3drZ2pUUS1QSTdNZUp1Z2ZOcWxNczZUU2pCSEdfcEM2cFpLQk9jRUJkVmFCdUtyaENjZHZWek5RRnNYZFJIaUFIZ3pfeDFuR0ZKZjRUR0ZLR01RdWR6eHFRcE40MGE2eFUyQU1RZm9CSUlsam9peTRZUWFWbmxXb0V1N0RkdVYyZEotZ09XaVJn?oc=5
 
-- Exclusive: Traya In Talks To Raise Around ₹300 Cr From Verlinvest
-  Mumbai-based customised haircare startup Traya is in talks to raise around ₹300 Cr (about $31 Mn) from Belgium-based investment firm.
-  🔗 https://inc42.com/buzz/exclusive-traya-in-talks-to-raise-around-%e2%82%b9300-cr-from-verlinvest/
+- Centre Approves 60.72% Stake Sale In IDBI Bank To Fairfax For Rs 52,878 Crore - NDTV
+  Centre Approves 60.72% Stake Sale In
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlFJdUM4cUhLejNnM1JJOHB2dHEtRXVnNTBzSEpqdGlEMGhwRlVLVDNFaHNRQUt5cjRvbDJ3SDhHb045Y2xsUWZCZTNpZWpmb291OUNfR1RTTVFZTVB5V1YtbTBhT3FKVkZCbndaYWtqZFZNWGpCNk1TNzBPQTdUbnlnXzBSdEtNVHZ4ak5FSVVCdklnN0tNRTByTFpEcm5TbnA1TUt2elNWSW1KVC1ULXRPT0E4dkdm0gHAAUFVX3lxTE1uSFRQM1ZLeUJHRmQ1SHBzYmZRbE42ZV96RGVhRjUtaFgyWTVYX0V6cndfWEJBWkxUeXlMUmpOT2pqaE82dWhzTDROS1FEaTFmZ2JsOFNGZmpVOFFDSnp0NFhzdDlDVlVOSjBRR1EyRGZhTTRERzNsN09zNjg5Ry1JWnBIOFlwTm1xZU1vX2VFQmY1WUZ0aHZaSzh5dkRlZ3RnNERKeE9rUFJXNVVyb3AxSlA0d3hkbHJYZ2t1YXh6SA?oc=5
 
-- Brokers In September: Groww Strengthens Lead, Angel One Closes In On Zerodha
-  Indian stockbrokers’ combined active client base on the NSE rose by about 1.6 Lakh to 4.61 Cr in September.
-  🔗 https://inc42.com/buzz/brokers-in-september-groww-strengthens-lead-angel-one-closes-in-on-zerodha/
+- Canada sees huge investment potential in India post IDBI Bank deal - Asianet Newsable
+  Canada sees huge investment potential in India post IDBI
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNYllaV3NtNVdFQTRBUS1QSmJwZDdDSFRUTGFZLV9FRV9hbEFxV2FBMkZUb19sV0NZYjVERFZfTDZHNHZvV2plYjNvSXc2RUxBT3hyS3JTdVNjMDI4d1NLNUZNTHg3TmVJVWtKWkJ2NXZhbnBXOXRsbjdXOC1KSTgtVEcxUWtKdERrWVd1Wk9HTXNMNzJoS1VEWDNYa3l6LXRuLWRuenNJX2ZtQl90WTRDRFlwWEU2TnE0dU5MU1JJUUViVV8zYVRR0gHMAUFVX3lxTE9fOWhxVk1WMzRUbERQVkxFZHdMei1RSmRiR0JOS3FTWFlqaXROVF9OOGxjNWFlYlBPX1F3Uld5RE9FNHFabkxqNWhtcUhFRDluS055cnRGS0k2NzNlYlNUMU82TUdERVcxRUlObU9sYUhMZVhNUmppNWJPaFh3RDIyTXJEemt1LXlFRVRvZFk0RFltelM2a1N0ZG1FaW9jOUpwSVNmUGdtVnB2d1V3QnJkVFF3Z2JLcElvN2ZyQmJ6bFFVSmxTNzZHNjd1NA?oc=5
 
-- [Update] Exclusive: Former Dyson India Boss Ankit Jain Bags Funding From BEENEXT For New Venture
-  Former Dyson India MD Ankit Jain bags funding from BEENEXT for new venture. Inc42 exclusively reported about Jain's new venture in July.
-  🔗 https://inc42.com/buzz/former-dyson-india-boss-ankit-jain-bags-funding-from-beenext-for-new-venture/
+- Infotech Acquires Lightspeed-Backed SaaS Startup Zluri
+  IT advisory firm Infotech has acquired Bengaluru-based SaaS startup Zluri. Infotech will add the latter’s application discovery, identity governance and administration.
+  🔗 https://inc42.com/buzz/infotech-acquires-lightspeed-backed-saas-startup-zluri/
 
-- Groww Q2: Profit Jumps 54% YoY To ₹725 Cr, Revenue Rises 47%
-  Investment tech company Groww’s consolidated net profit jumped 54% to ₹724.7 Cr in the second quarter of FY27.
-  🔗 https://inc42.com/buzz/groww-q2-profit-jumps-54-yoy-to-%e2%82%b9725-cr-revenue-rises-47/
+- Jio IPO To Open For Subscription On October 21
+  RIL telecom subsidiary Jio Platforms has filed its red herring prospectus (RHP) with the SEBI for an IPO which will open on October 21.
+  🔗 https://inc42.com/buzz/jio-ipo-to-open-for-subscription-on-october-21/
 
-- Circle Raises ₹25 Cr To Expand Its Pre-Owned Goods Marketplace Beyond Bengaluru
-  Pre-owned goods marketplace Circle has raised about $2.6 million in a seed funding round.
-  🔗 https://inc42.com/buzz/circle-raises-%e2%82%b925-cr-to-expand-its-pre-owned-goods-marketplace-beyond-bengaluru/
+- Google.org Commits $15 Mn To The/Nudge To Expand Credit Access For Indian MSMEs
+  Google’s philanthropic arm Google.org has committed $15 Mn in funding to nonprofit organisation The/Nudge.
+  🔗 https://inc42.com/buzz/google-org-commits-15-mn-to-the-nudge-to-expand-credit-access-for-indian-msmes/
 
-- Harvard vs Harvard: Support from one, criticism from another over Delhi protests | India News - Hindustan Times
-  The Harvard-Harvard debate has been raging for months. The
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS0hQOG51bTNlcXc1azYxcDN0WTNwWE5fOEZ2MHZRQ1dOblFlZHpJbXplY19iLWhKd2cxSHJkNzhDSHdZQ3dWZ1ZIa291NHVTNnpzUFRsbDZwS2hxcEdFT3d5dUNaLWRONk8wOGRKdVZwb0FqYllpS1B1MkV0bTBKUGFqNmRVOUdiRl9faTBKY0xIeXNIUE94QllWOU9SMWhvUTg4cVI3T1ZnUm0xckg2UzZ4NEgtVW05ZjViSWZqNVFXN0VmcHFjdGtRRmFXVGdERVpEdW5TSTjSAd4BQVVfeXFMTnUzNnpXUjVnZHE4YTRBRHVlcXFabkljQTBPRXB0NktHVGp6d2ZTOVAwdmZDbG5SSG5JeVhuaTNEQWJRMHdORDFfTWp2RF82aFZnRWk0cEx4dHFHZG9rLVdOdEdsTE1MMHZmN0NpX0xXLWVsTFF0MWpOVDFfNklQUTV1LUpQYmRRVzFaNWhuSjZTeURMX2xQajBsVHlJMWt0ck0wSjYwNThKYkFaYkJNX2s0em1oMEdKVy1Db2NCTl9NTlpfR0ZRcTFKeWJpaU81Y3haX1RneENBTHZIRENn?oc=5
+- Parallel Loop Raises $6.6 Mn To Integrate AI Into Enterprise Workflows
+  Enterprise AI startup Parallel Loop has raised $6.6 Mn (about ₹63.1 Cr)
+  🔗 https://inc42.com/buzz/parallel-loop-raises-6-6-mn-to-integrate-ai-into-enterprise-workflows/
 
-- Harvard vs Harvard: A Tale of 2 Letters And 2 Opinions On Delhi Protest - NDTV
-  The Harvard-Harvard debate is a tale of two
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkw4NFdpWTBXOVFpaW00WjJkd05jeWsxMjhrTmNXaGVIVmEzb0I5RDI3TlZONGkzellOdFhITTduZjlWQm5yOWdISXN1TVpZOWdBZkNlSXIwcDRHSzFUM0RtMFY5YU5Tc0dPVnRKeXZXU00wUk9ac0QyZndKM2R4YkRqWkdRNk9tNUt4M1RwYTlwR0lVRDZnODdYLXQyU3FVdFEzenp0T2ZuWjJuS09NRVJjUE5OV0Z2cWV1SjhTdlQyc25WNXgyUdIB0AFBVV95cUxPQU1fdTIzVmUzMEFWTkRUSGItMWQweEQ5Y2lVTmlTb1U0ZU05bVdPQjhFOFZpWExpNnVCVkxsbmdMcGtyOWZxNF9PYXgyQm5DeGJPNUYxN2FUbzNWSVFVckFXZkNfNzJIb2o2cW5OcXdLdWJNbUpDMjZuNW05Q0ZoNjg0RlB1Nm1kZ20yUVpoa1A0d1Jrbkd0ZnBBZHBjeEF0d29HY3BYRkFjTUFoMnJkdDFsUFdHa2JMYjZma3BLSG9aMGZPRW83LXk4eGEyaGhK?oc=5
+- How Fix My Curls Built Its Quick Commerce Engine From Scratch
+  How Fix My Curls Built Its Quick Commerce Engine From Scratch. Anshita Mehrotra can remember conversations at her home were all about cosmetic formulations, ingredients, and consumer.
+  🔗 https://inc42.com/features/how-fix-my-curls-built-its-quick-commerce-engine-from-scratch/
 
-- Harvard Alumni Flag "Concerted Campaign" Against India's Institutions Amid Delhi Protest - NDTV
-  Harvard Alumni Flag "Concerted
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQejdjTHNNQ29Rc3VlZk1qMlVyY0VGQWpWa0Nza1lXaWRMYmVMd1RhQ2NNVWdBaEVCV3ZXdDh2MC1va2s1WGgwejM3UnUtanJZbTBEcGM4T3czRUNQN3poRTdhTGRZRTNqWDBCTjd4blByWEtNUmZxQmw3WkV6MVFySTJQMVd2V29SaFVCRXRHTnJhTE1McG9vQnR1aUJXWGJCYmd2bTgzSkVBaUJ4WUdMZU91bWhjM0RIU0hkbWpKWllDcFZ00gHMAUFVX3lxTE1QNDFVbVVsajAyQXBiSlhNaThIY19WbndXNUNBdHRaQTFJMjZoM3cwSWJTUVFDeWp1dFRVc296NjJkeFpUUkdjdHBPM0tWRGM1MGR0eHBvNFpndU9KREUyc0UxeGljQVQxZVRWSzJsZDFhZFFsYVFOcVhzNDJFNWo5TjFrVVRvNElVX0d0Q3ZDLV9mTjFKc0xySVplZThHdFhpaFZvcEhZQ3Vpc2JaaUh4RzlHNE5vOFRIWmxtUVAyWVM0LXRLZ19JamZ3dA?oc=5
+- ‘How do you explain the deletion of 130 million names?’: why Indian voters are on the streets - The Guardian
+  ‘How do you explain the deletion of 130 million names?’:
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG0wUzJBZEVScFRjeTI1elBTemFWM2lfbjlfYnhFbVdGZm5KalhTNld0cVJNQmpyUU8zdVhESUNQM2MxTXNyY1BsWkE1VVNYRDNqWWF0bVowYWhMcVl4WlJpRXBTcFY1NS10SmpHMzlhVkh5MlVHbG1TcXcxWW1sY216QmlNU1kyNXdLYmFFVER5QWZxTG44MmN3?oc=5
 
-- CJP's Saurav Das, Ashutosh Ranka: India's 'cockroach' leaders jailed after holding protest - BBC
-  CJP's Saurav Das, Ashutosh
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zandzM0FMRy13N1dXZWV3UkFvR3pMNEZoZ2tPWUZFQjBqcHY5UnFzeTZCVVVHU2wtOGtuTThfSzBreVR6bkRTN2hZTkdtd19hTFlXdEMtMksyaWM?oc=5
+- Rahul Gandhi Leads Massive Rally In Delhi. Then A Supreme Court Visit - NDTV
+  Rahul Gandhi Leads Massive Rally In Delhi.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnVkRmpMcVV3dzhSaTNZN3RhOTVVbXJ3Sm81LUhFTUY4Vl9uMlRueHN0eUo2XzEtM2ZXY2pJYmhNa2xyMFJGREtvcldBUmxRdnpqNnc2RHk3azhSZlVtdXlhNVhNVGIySkR0UlgyelVtTG1rdW52cFh2RlExS2lNZkhURmlRMXJlLVNYTGozOEUxRmJoOTVYSnNacDRhQmtodlZTcllCb0hTbjNlWmE1UG9qTGdJNU9yZFpUaGZuM0dxeHhfV0FlN2ZwWnNKNllLejZ1RFlRVUtINVFUSG14RlNWWVXSAewBQVVfeXFMTThra2xFX1l5blJ5SXlUa1lkeTdJRkMxVkptNEpQRzdOZF80SUhTME03VGNOUS1DVGhJQm1UMTVWR2xNWlBnY1RHTERRN21Rcmk2TGxvdXdKT3dMR3FlN0dYZ2J3bmF4OWFBSXBGX2lYRmR6azMyZ1ZWMXZUYnpteDNPeHJqYzhyUGFOWEZUY2xZaEI0UFdONF95M2l5UnM0YkNHdDgxV0ROY0RmM0hZSzhrWGYyYzRGMS1iTmNidVlOa3hpcGpoNjNLNXZBYU9HR1hDVmJqWkIwQmN4VlZZNEhwbVNia0NRLTZUV2Q?oc=5
 
-- Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest - Al Jazeera
-  Police detain leaders of India’s ‘
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTE3QXpxd3EwZmRiWVFZWHFyRmlCbjJieFRUdG9jaWJRVWlOUG9mZXA3ejhSY1FyZk9vWWxLamFacHRTYnF3NXEyazNvTTllT0RoMXQwd3I1VXZSU0VWeG04V1ItbWw5NHpqTW5XNWpLSDl3ZUpUUzRrN2NDVnlmTC11enFDak1UYUR1cm9aTG5XM3lSaXdRdmRjWW5KR0dndHZsZDdWMFVSQW4wUlY4RUpDUdIBuAFBVV95cUxNNU1BMG9GdkRJZXJiZF9NQ0hIMXAyOVZaa2FqSjl3Tm15NHllSzhPeURpeW5jRmN4WDZvNjhiM2RBR21xZDZfMTJBdHRnVGhySWFxRkFQTlpsdTNaWllqNWZYeGNlTVpRc0ljOUoxZUFocEc3b3dmRjBiVjF0bGFkSFpYTGY4YXprb2JjRjQwYVR4dUpZZHZMWGRmMTRXdks2OHNnZHU1RUVhVFktWERjNnBnSENSWm5j?oc=5
+- Canada sees scope for more investments in India after Fairfax-IDBI bank deal, says Minister Sidhu - The Economic Times
+  Canada sees scope for more investments in India after Fairfax-IDBI bank deal
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOSUpacVlnM3duT2JCNklfQm1SV0NhQVlFRWNkZGFhRUV5Rk5oMWlfQktKcWpva3lWc3RVcDd3YlNwQ3lpT1ltWjRmSW8zSkV5ekpRcnByS0QtdkRUeXl3S0lfbFg0VXVmQl8yTjdvaUhIc3p5bjExUWI5Y0txcVA3al9uS21qUFJjckJXS2F2WktwVVJtWld3ckJ2M25Ra0w0TzFIMUQwNVhXVXR0bGxXT0huY3hXU21YSS1Ca3Z1SDd0bDNfSF9KYlVzaG0ySng0NHhnbjI5bm9RMlZKdzdzTlpkeUU0MnVFRFRKb0dkd0Q4RjkwZFNWOTRGczZMNGZ0MlRhWFA4MFRRc0lCV0dxc2t1Z1jSAY4CQVVfeXFMT2ZyQV94V19ya3pENHc5MlczOExpM2taYVpsdEdjSGl3ZDAycG1oWEY2VFdCbmNOLVk4RXZ1M19PVE5wZVp0cTFDX1RBZXU5Uko3X2x1c3BXVHRQbE5EUUFXa2Qya2xRWnpieEdsQzRseUs3WFZaNnZnZ1hFV1l6QVl6dGp4T3drZ2pUUS1QSTdNZUp1Z2ZOcWxNczZUU2pCSEdfcEM2cFpLQk9jRUJkVmFCdUtyaENjZHZWek5RRnNYZFJIaUFIZ3pfeDFuR0ZKZjRUR0ZLR01RdWR6eHFRcE40MGE2eFUyQU1RZm9CSUlsam9peTRZUWFWbmxXb0V1N0RkdVYyZEotZ09XaVJn?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Centre Approves 60.72% Stake Sale In IDBI Bank To Fairfax For Rs 52,878 Crore - NDTV
+  Centre Approves 60.72% Stake Sale In
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlFJdUM4cUhLejNnM1JJOHB2dHEtRXVnNTBzSEpqdGlEMGhwRlVLVDNFaHNRQUt5cjRvbDJ3SDhHb045Y2xsUWZCZTNpZWpmb291OUNfR1RTTVFZTVB5V1YtbTBhT3FKVkZCbndaYWtqZFZNWGpCNk1TNzBPQTdUbnlnXzBSdEtNVHZ4ak5FSVVCdklnN0tNRTByTFpEcm5TbnA1TUt2elNWSW1KVC1ULXRPT0E4dkdm0gHAAUFVX3lxTE1uSFRQM1ZLeUJHRmQ1SHBzYmZRbE42ZV96RGVhRjUtaFgyWTVYX0V6cndfWEJBWkxUeXlMUmpOT2pqaE82dWhzTDROS1FEaTFmZ2JsOFNGZmpVOFFDSnp0NFhzdDlDVlVOSjBRR1EyRGZhTTRERzNsN09zNjg5Ry1JWnBIOFlwTm1xZU1vX2VFQmY1WUZ0aHZaSzh5dkRlZ3RnNERKeE9rUFJXNVVyb3AxSlA0d3hkbHJYZ2t1YXh6SA?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Canada sees huge investment potential in India post IDBI Bank deal - Asianet Newsable
+  Canada sees huge investment potential in India post IDBI
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNYllaV3NtNVdFQTRBUS1QSmJwZDdDSFRUTGFZLV9FRV9hbEFxV2FBMkZUb19sV0NZYjVERFZfTDZHNHZvV2plYjNvSXc2RUxBT3hyS3JTdVNjMDI4d1NLNUZNTHg3TmVJVWtKWkJ2NXZhbnBXOXRsbjdXOC1KSTgtVEcxUWtKdERrWVd1Wk9HTXNMNzJoS1VEWDNYa3l6LXRuLWRuenNJX2ZtQl90WTRDRFlwWEU2TnE0dU5MU1JJUUViVV8zYVRR0gHMAUFVX3lxTE9fOWhxVk1WMzRUbERQVkxFZHdMei1RSmRiR0JOS3FTWFlqaXROVF9OOGxjNWFlYlBPX1F3Uld5RE9FNHFabkxqNWhtcUhFRDluS055cnRGS0k2NzNlYlNUMU82TUdERVcxRUlObU9sYUhMZVhNUmppNWJPaFh3RDIyTXJEemt1LXlFRVRvZFk0RFltelM2a1N0ZG1FaW9jOUpwSVNmUGdtVnB2d1V3QnJkVFF3Z2JLcElvN2ZyQmJ6bFFVSmxTNzZHNjd1NA?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- ‘How do you explain the deletion of 130 million names?’: why Indian voters are on the streets - The Guardian
+  ‘How do you explain the deletion of 130 million names?’:
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG0wUzJBZEVScFRjeTI1elBTemFWM2lfbjlfYnhFbVdGZm5KalhTNld0cVJNQmpyUU8zdVhESUNQM2MxTXNyY1BsWkE1VVNYRDNqWWF0bVowYWhMcVl4WlJpRXBTcFY1NS10SmpHMzlhVkh5MlVHbG1TcXcxWW1sY216QmlNU1kyNXdLYmFFVER5QWZxTG44MmN3?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Rahul Gandhi Leads Massive Rally In Delhi. Then A Supreme Court Visit - NDTV
+  Rahul Gandhi Leads Massive Rally In Delhi.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnVkRmpMcVV3dzhSaTNZN3RhOTVVbXJ3Sm81LUhFTUY4Vl9uMlRueHN0eUo2XzEtM2ZXY2pJYmhNa2xyMFJGREtvcldBUmxRdnpqNnc2RHk3azhSZlVtdXlhNVhNVGIySkR0UlgyelVtTG1rdW52cFh2RlExS2lNZkhURmlRMXJlLVNYTGozOEUxRmJoOTVYSnNacDRhQmtodlZTcllCb0hTbjNlWmE1UG9qTGdJNU9yZFpUaGZuM0dxeHhfV0FlN2ZwWnNKNllLejZ1RFlRVUtINVFUSG14RlNWWVXSAewBQVVfeXFMTThra2xFX1l5blJ5SXlUa1lkeTdJRkMxVkptNEpQRzdOZF80SUhTME03VGNOUS1DVGhJQm1UMTVWR2xNWlBnY1RHTERRN21Rcmk2TGxvdXdKT3dMR3FlN0dYZ2J3bmF4OWFBSXBGX2lYRmR6azMyZ1ZWMXZUYnpteDNPeHJqYzhyUGFOWEZUY2xZaEI0UFdONF95M2l5UnM0YkNHdDgxV0ROY0RmM0hZSzhrWGYyYzRGMS1iTmNidVlOa3hpcGpoNjNLNXZBYU9HR1hDVmJqWkIwQmN4VlZZNEhwbVNia0NRLTZUV2Q?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Canada sees scope for more investments in India after Fairfax-IDBI bank deal, says Minister Sidhu - The Economic Times
+  Canada sees scope for more investments in India after Fairfax-IDBI bank deal
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOSUpacVlnM3duT2JCNklfQm1SV0NhQVlFRWNkZGFhRUV5Rk5oMWlfQktKcWpva3lWc3RVcDd3YlNwQ3lpT1ltWjRmSW8zSkV5ekpRcnByS0QtdkRUeXl3S0lfbFg0VXVmQl8yTjdvaUhIc3p5bjExUWI5Y0txcVA3al9uS21qUFJjckJXS2F2WktwVVJtWld3ckJ2M25Ra0w0TzFIMUQwNVhXVXR0bGxXT0huY3hXU21YSS1Ca3Z1SDd0bDNfSF9KYlVzaG0ySng0NHhnbjI5bm9RMlZKdzdzTlpkeUU0MnVFRFRKb0dkd0Q4RjkwZFNWOTRGczZMNGZ0MlRhWFA4MFRRc0lCV0dxc2t1Z1jSAY4CQVVfeXFMT2ZyQV94V19ya3pENHc5MlczOExpM2taYVpsdEdjSGl3ZDAycG1oWEY2VFdCbmNOLVk4RXZ1M19PVE5wZVp0cTFDX1RBZXU5Uko3X2x1c3BXVHRQbE5EUUFXa2Qya2xRWnpieEdsQzRseUs3WFZaNnZnZ1hFV1l6QVl6dGp4T3drZ2pUUS1QSTdNZUp1Z2ZOcWxNczZUU2pCSEdfcEM2cFpLQk9jRUJkVmFCdUtyaENjZHZWek5RRnNYZFJIaUFIZ3pfeDFuR0ZKZjRUR0ZLR01RdWR6eHFRcE40MGE2eFUyQU1RZm9CSUlsam9peTRZUWFWbmxXb0V1N0RkdVYyZEotZ09XaVJn?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Centre Approves 60.72% Stake Sale In IDBI Bank To Fairfax For Rs 52,878 Crore - NDTV
+  Centre Approves 60.72% Stake Sale In
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlFJdUM4cUhLejNnM1JJOHB2dHEtRXVnNTBzSEpqdGlEMGhwRlVLVDNFaHNRQUt5cjRvbDJ3SDhHb045Y2xsUWZCZTNpZWpmb291OUNfR1RTTVFZTVB5V1YtbTBhT3FKVkZCbndaYWtqZFZNWGpCNk1TNzBPQTdUbnlnXzBSdEtNVHZ4ak5FSVVCdklnN0tNRTByTFpEcm5TbnA1TUt2elNWSW1KVC1ULXRPT0E4dkdm0gHAAUFVX3lxTE1uSFRQM1ZLeUJHRmQ1SHBzYmZRbE42ZV96RGVhRjUtaFgyWTVYX0V6cndfWEJBWkxUeXlMUmpOT2pqaE82dWhzTDROS1FEaTFmZ2JsOFNGZmpVOFFDSnp0NFhzdDlDVlVOSjBRR1EyRGZhTTRERzNsN09zNjg5Ry1JWnBIOFlwTm1xZU1vX2VFQmY1WUZ0aHZaSzh5dkRlZ3RnNERKeE9rUFJXNVVyb3AxSlA0d3hkbHJYZ2t1YXh6SA?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Canada sees huge investment potential in India post IDBI Bank deal - Asianet Newsable
+  Canada sees huge investment potential in India post IDBI
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNYllaV3NtNVdFQTRBUS1QSmJwZDdDSFRUTGFZLV9FRV9hbEFxV2FBMkZUb19sV0NZYjVERFZfTDZHNHZvV2plYjNvSXc2RUxBT3hyS3JTdVNjMDI4d1NLNUZNTHg3TmVJVWtKWkJ2NXZhbnBXOXRsbjdXOC1KSTgtVEcxUWtKdERrWVd1Wk9HTXNMNzJoS1VEWDNYa3l6LXRuLWRuenNJX2ZtQl90WTRDRFlwWEU2TnE0dU5MU1JJUUViVV8zYVRR0gHMAUFVX3lxTE9fOWhxVk1WMzRUbERQVkxFZHdMei1RSmRiR0JOS3FTWFlqaXROVF9OOGxjNWFlYlBPX1F3Uld5RE9FNHFabkxqNWhtcUhFRDluS055cnRGS0k2NzNlYlNUMU82TUdERVcxRUlObU9sYUhMZVhNUmppNWJPaFh3RDIyTXJEemt1LXlFRVRvZFk0RFltelM2a1N0ZG1FaW9jOUpwSVNmUGdtVnB2d1V3QnJkVFF3Z2JLcElvN2ZyQmJ6bFFVSmxTNzZHNjd1NA?oc=5
+
+- ‘How do you explain the deletion of 130 million names?’: why Indian voters are on the streets - The Guardian
+  ‘How do you explain the deletion of 130 million names?’:
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG0wUzJBZEVScFRjeTI1elBTemFWM2lfbjlfYnhFbVdGZm5KalhTNld0cVJNQmpyUU8zdVhESUNQM2MxTXNyY1BsWkE1VVNYRDNqWWF0bVowYWhMcVl4WlJpRXBTcFY1NS10SmpHMzlhVkh5MlVHbG1TcXcxWW1sY216QmlNU1kyNXdLYmFFVER5QWZxTG44MmN3?oc=5
+
+- Rahul Gandhi Leads Massive Rally In Delhi. Then A Supreme Court Visit - NDTV
+  Rahul Gandhi Leads Massive Rally In Delhi.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnVkRmpMcVV3dzhSaTNZN3RhOTVVbXJ3Sm81LUhFTUY4Vl9uMlRueHN0eUo2XzEtM2ZXY2pJYmhNa2xyMFJGREtvcldBUmxRdnpqNnc2RHk3azhSZlVtdXlhNVhNVGIySkR0UlgyelVtTG1rdW52cFh2RlExS2lNZkhURmlRMXJlLVNYTGozOEUxRmJoOTVYSnNacDRhQmtodlZTcllCb0hTbjNlWmE1UG9qTGdJNU9yZFpUaGZuM0dxeHhfV0FlN2ZwWnNKNllLejZ1RFlRVUtINVFUSG14RlNWWVXSAewBQVVfeXFMTThra2xFX1l5blJ5SXlUa1lkeTdJRkMxVkptNEpQRzdOZF80SUhTME03VGNOUS1DVGhJQm1UMTVWR2xNWlBnY1RHTERRN21Rcmk2TGxvdXdKT3dMR3FlN0dYZ2J3bmF4OWFBSXBGX2lYRmR6azMyZ1ZWMXZUYnpteDNPeHJqYzhyUGFOWEZUY2xZaEI0UFdONF95M2l5UnM0YkNHdDgxV0ROY0RmM0hZSzhrWGYyYzRGMS1iTmNidVlOa3hpcGpoNjNLNXZBYU9HR1hDVmJqWkIwQmN4VlZZNEhwbVNia0NRLTZUV2Q?oc=5
+
+- Canada sees scope for more investments in India after Fairfax-IDBI bank deal, says Minister Sidhu - The Economic Times
+  Canada sees scope for more investments in India after Fairfax-IDBI bank deal
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOSUpacVlnM3duT2JCNklfQm1SV0NhQVlFRWNkZGFhRUV5Rk5oMWlfQktKcWpva3lWc3RVcDd3YlNwQ3lpT1ltWjRmSW8zSkV5ekpRcnByS0QtdkRUeXl3S0lfbFg0VXVmQl8yTjdvaUhIc3p5bjExUWI5Y0txcVA3al9uS21qUFJjckJXS2F2WktwVVJtWld3ckJ2M25Ra0w0TzFIMUQwNVhXVXR0bGxXT0huY3hXU21YSS1Ca3Z1SDd0bDNfSF9KYlVzaG0ySng0NHhnbjI5bm9RMlZKdzdzTlpkeUU0MnVFRFRKb0dkd0Q4RjkwZFNWOTRGczZMNGZ0MlRhWFA4MFRRc0lCV0dxc2t1Z1jSAY4CQVVfeXFMT2ZyQV94V19ya3pENHc5MlczOExpM2taYVpsdEdjSGl3ZDAycG1oWEY2VFdCbmNOLVk4RXZ1M19PVE5wZVp0cTFDX1RBZXU5Uko3X2x1c3BXVHRQbE5EUUFXa2Qya2xRWnpieEdsQzRseUs3WFZaNnZnZ1hFV1l6QVl6dGp4T3drZ2pUUS1QSTdNZUp1Z2ZOcWxNczZUU2pCSEdfcEM2cFpLQk9jRUJkVmFCdUtyaENjZHZWek5RRnNYZFJIaUFIZ3pfeDFuR0ZKZjRUR0ZLR01RdWR6eHFRcE40MGE2eFUyQU1RZm9CSUlsam9peTRZUWFWbmxXb0V1N0RkdVYyZEotZ09XaVJn?oc=5
+
+- Centre Approves 60.72% Stake Sale In IDBI Bank To Fairfax For Rs 52,878 Crore - NDTV
+  Centre Approves 60.72% Stake Sale In
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlFJdUM4cUhLejNnM1JJOHB2dHEtRXVnNTBzSEpqdGlEMGhwRlVLVDNFaHNRQUt5cjRvbDJ3SDhHb045Y2xsUWZCZTNpZWpmb291OUNfR1RTTVFZTVB5V1YtbTBhT3FKVkZCbndaYWtqZFZNWGpCNk1TNzBPQTdUbnlnXzBSdEtNVHZ4ak5FSVVCdklnN0tNRTByTFpEcm5TbnA1TUt2elNWSW1KVC1ULXRPT0E4dkdm0gHAAUFVX3lxTE1uSFRQM1ZLeUJHRmQ1SHBzYmZRbE42ZV96RGVhRjUtaFgyWTVYX0V6cndfWEJBWkxUeXlMUmpOT2pqaE82dWhzTDROS1FEaTFmZ2JsOFNGZmpVOFFDSnp0NFhzdDlDVlVOSjBRR1EyRGZhTTRERzNsN09zNjg5Ry1JWnBIOFlwTm1xZU1vX2VFQmY1WUZ0aHZaSzh5dkRlZ3RnNERKeE9rUFJXNVVyb3AxSlA0d3hkbHJYZ2t1YXh6SA?oc=5
+
+- Canada sees huge investment potential in India post IDBI Bank deal - Asianet Newsable
+  Canada sees huge investment potential in India post IDBI
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNYllaV3NtNVdFQTRBUS1QSmJwZDdDSFRUTGFZLV9FRV9hbEFxV2FBMkZUb19sV0NZYjVERFZfTDZHNHZvV2plYjNvSXc2RUxBT3hyS3JTdVNjMDI4d1NLNUZNTHg3TmVJVWtKWkJ2NXZhbnBXOXRsbjdXOC1KSTgtVEcxUWtKdERrWVd1Wk9HTXNMNzJoS1VEWDNYa3l6LXRuLWRuenNJX2ZtQl90WTRDRFlwWEU2TnE0dU5MU1JJUUViVV8zYVRR0gHMAUFVX3lxTE9fOWhxVk1WMzRUbERQVkxFZHdMei1RSmRiR0JOS3FTWFlqaXROVF9OOGxjNWFlYlBPX1F3Uld5RE9FNHFabkxqNWhtcUhFRDluS055cnRGS0k2NzNlYlNUMU82TUdERVcxRUlObU9sYUhMZVhNUmppNWJPaFh3RDIyTXJEemt1LXlFRVRvZFk0RFltelM2a1N0ZG1FaW9jOUpwSVNmUGdtVnB2d1V3QnJkVFF3Z2JLcElvN2ZyQmJ6bFFVSmxTNzZHNjd1NA?oc=5
+
+- Regional policing unit drops controversial Palantir AI technology - BBC
+  Regional policing unit drops controversial
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqcnNHMFJEWTBsVWtJX21FckhxTWwtN1YtbGVNZnlaVVhURVlSZlJvak9Zc2xXN2VVMHdVb245QTFidFpZVVhyeHFCa0NULUhLN0JtVWhpNFY1NTA?oc=5
+
+- The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster - The Guardian
+  ‘Smart glasses’ prompt calls for ban in Westminster.
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjVmZjNLNWpwQTJFY2RUWG96OUloemR3cVktWUVzRk01b1Z5TEpWdGh3enVuY3BVaG5nakwzaE9qV09UMW5mdDIyV0RlRGpiQ0RzMnc4cmJYUkpPdW1HQl9HOFZyRmY2YTBHTi1hTmVZRnkweURGSjNMUzloczdHRGJYLUQ3NHJjdG5tSm9YVjdLVW0wcTVtX0lNcDdFSUhNWUlfblRTRmh6Ykpr?oc=5
+
+- Applying technology to understand and treat disease - blog.google
+  Applying technology to understand
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
+
+- War In The Time Of AI: How Technology Is Rewriting The Battlefield - NDTV
+  "War In The Time Of AI: How Technology
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZURGUDNVY0U0bVNRYy1lQWVNeTJ2SEVxWGZmRXFpX3g3WmFJOTAtcl9rNllqdk5HRVZRV25fWndTV1Q4QjE5OWZfWmliYmVqYnZnb043MWx2aDJfeEs5WTdkaVdiQXRVdEdjTEFNbk5keHl5cTRPT29MbE1lTktrS2NKT3cweTJEOUd4bFFFV1hXMHQyYVA1RDBIcUdYNHY0aVJvWmN3TC03QdIBsgFBVV95cUxPS09BR0xGWnNxLXVSUG1ldnNVekdTbWJvZ1BzQWVER3ZkSEZiTVNPTnNDX1VLTTdDaTZsZEFKLVZNcnQ4Y0c0YmMzVGM1ZEFCTVVBbHJmN043eG54bVZuclM1VG8wVVhBemdXVzZGdTZaY2tTM05aY0gweTBfTklzMGtNVlJ2YVA3eVVudmc4UF9DLW9FeTI3LXlDSzF3dXlmSThOcmZLZnFXdjhxZHp3ckNB?oc=5
+
+- MIT Bengaluru Inaugurates Quantum-Hub@MAHE to Advance Indias Quantum Technology Ecosystem - TheWire.in
+  MIT Bengaluru Inaugurates Quantum
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2s4bEtjNVVzVjVCSXpBRHVER0Z6M0VndWNzUmEzVHc1Ujh4S01jeUNhc3NobzZxbkIxVURkSkpMemk2Z1BNYTJUeWlqVFVVUDhmWWlfbmpCSVRpanFpSmFzR0ZkNHZMUVF2VnpPVGxNVzdobUtGSmxCSEdZdUhUWGZ5WDJrSEREQWZUWi1kdG43aHZGWWVZSUxYTVFwZk9wWHJlbl9XeXRNYzBPMW96M3NIQ2hWNXpXVzd3RUpBV2ZXZEgyRlHSAcsBQVVfeXFMTkNZS0VZOXRDamZ6b2Jta0xRalRfVEFDSE44enZTV3g3UHpCRjRSVFQ0bHhvNEVZNVZ2bUhtOFVsR2FjclhQcTN3MG1kYlpZa3B3RDB2dnQ0NDF3NTlvcklvOG03TGZRclVQaUhuaW5kZGRqVmFjWXItVHpGM3NYWVRxX2xnUG9kSG0yY19IUVNtUWU1SVFCaHhjTlhwcFkyWEphVlA4Q2dMdXVVLXJEQ195Q09mWlFNQWtpVk9iS0w2bUh6TFd4VXUyQTQ?oc=5
 
 
-_Last updated: 2026-10-14 11:05:20 UTC_
+_Last updated: 2026-10-14 16:25:19 UTC_
