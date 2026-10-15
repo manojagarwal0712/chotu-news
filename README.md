@@ -1,124 +1,224 @@
 # 📰 Daily News Summaries
 
-- Rahul Gandhi Leads Massive Rally In Delhi. Then A Supreme Court Visit - NDTV
-  Rahul Gandhi Leads Massive Rally In Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnVkRmpMcVV3dzhSaTNZN3RhOTVVbXJ3Sm81LUhFTUY4Vl9uMlRueHN0eUo2XzEtM2ZXY2pJYmhNa2xyMFJGREtvcldBUmxRdnpqNnc2RHk3azhSZlVtdXlhNVhNVGIySkR0UlgyelVtTG1rdW52cFh2RlExS2lNZkhURmlRMXJlLVNYTGozOEUxRmJoOTVYSnNacDRhQmtodlZTcllCb0hTbjNlWmE1UG9qTGdJNU9yZFpUaGZuM0dxeHhfV0FlN2ZwWnNKNllLejZ1RFlRVUtINVFUSG14RlNWWVXSAewBQVVfeXFMTThra2xFX1l5blJ5SXlUa1lkeTdJRkMxVkptNEpQRzdOZF80SUhTME03VGNOUS1DVGhJQm1UMTVWR2xNWlBnY1RHTERRN21Rcmk2TGxvdXdKT3dMR3FlN0dYZ2J3bmF4OWFBSXBGX2lYRmR6azMyZ1ZWMXZUYnpteDNPeHJqYzhyUGFOWEZUY2xZaEI0UFdONF95M2l5UnM0YkNHdDgxV0ROY0RmM0hZSzhrWGYyYzRGMS1iTmNidVlOa3hpcGpoNjNLNXZBYU9HR1hDVmJqWkIwQmN4VlZZNEhwbVNia0NRLTZUV2Q?oc=5
+- Anti-CEC protest: Actor Imran Khan issued notice, asked to leave India by October 28 - The Hindu
+  Actor Imran Khan issued notice, asked to leave India by October 28
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDdvQnNUaHZ4MzZ6VWx3cmxBN2lyMVM4b2JwTzNPMGp1OTNJQko2SUxtd2lsdDhQYThjRGdrQUNLUzN5VVhnd0R1VHp2TGxSUDMtaEwxMDVpazM1b0d3c29YQk5wMllhcFFDZ2pyc2R4OElZMW5nZEk1NGxwM0NVX1ZvRUV2NzZxRnZsTUd1VnpVeXdYOFZqc3FUS2NTcE8yZVFNWVp1VFJ5Z2M3Tnp3b0Y0bTgzZENpejlPbUtXUlZJbzY2cGfSAcwBQVVfeXFMT3NSVzlsT29Hb3NjZGtkdURiWlRINGNrNTNkbEhxU1lmQU1VazFSZzJjVDNXMS1zRzhDb3Q0b1lHdXJyQmlWTDhFNGRSckJOYlJwM29idVVFWEhBYlcyZ05hSW1mbWNtN0ZCQVlFTm5YZTFlLWEzalBES2pvX1VZTVJmXzlIcTdXaHFvNUpvVnJ0QXRlSWJIZmRRaVJydUJoX1JSakswQnZLNG8tQzktSWl2ZFlUS1hoRF9SV19SOC1xZUczSU9OZ2FxNVRr?oc=5
 
-- India updates: Opposition marches to Supreme Court against election chief - Al Jazeera
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxObk1MVHRwSmRER3owV2hCcEhLMW03ZzVwSFczQWpDRHJJMXRLX05JUzhNR3h2ZHFkVDJ5S2ZjVkxjbzYwV0NQOUZ3b0FSX1FhbE4ybzd0ZWFyTno1c3J3YXBwdnZIbXVMbVVtQm9jdXU1Z0VRM3B1SG15bnZCX2sySzAxNVFXY2lGRkVXS2NhY2RibEVTSVRQN0pjWHNTdXdnLXAzQzhTWWNCOWNpcFFIVkxaRC1SZmZkSTYzN0JqTdIBxAFBVV95cUxNa3dDN1ZIRkV0TndmRGRBWkNoZVZvSE5UR1J5MDZMbEhZU2dCRWNzY0E3WHRJd0c0RkpPZll2VmVFVGpGQmRHVVZnbjkwMEhaSUkxWWR6TXMtZ2QxR2NIZU5mUFBkaV9xNkwtVG5zcWlDU3g5azBpX0UwbndNQ0d3WkhsT3d6b0F1MDA0RjBBejdqb2pLbUVvSUhUYXBnNXZLWUVpTEczcjZJNXVlaElwUmFRZy10aDZsZDBPeE80YnhSSmwx?oc=5
+- Actor Imran Khan asked to leave India after participating in protest - BBC
+  Actor Imran Khan asked to leave India after participating
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
 
-- Anti-CEC protest LIVE | Supreme Court likely to hear Rahul Gandhi, INDIA bloc leaders’ plea against SIR today - The Hindu
-  The Hindu reports that the Supreme Court likely to hear Rahul Gandhi, INDIA bloc leaders
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObXQxZWpNQWtvaXdYTUo2S2dtcWpXQk5zSUV0bEhJdk9TLTczUDZtdHlCbGl3bjhqaDdBZm9DMFJtM1M4YmNEMndSOXVuVGpfd2xXZ1RJUGFtVFFDU1ozQmtFaEJpMEpEZGl6SDM1eUZ5OXFlOVd2bENNcmtQM1F1Ylc5N1FIbmt2d1loYTlYWnQwX3oyWXRnd3FRTG1DVjVpcUdiSFdUanIwdFg5YVJFWFR5UXZFLU5uMzRfVEMyNWU3RmNuVEVr0gHOAUFVX3lxTFB6cDUwTWNIbGxxdGUxMGdMUk9CcGRwa0VMWUg2a0RQMW9kWm8xTHVnc0pDVWdlN3dsMV9tRU5IdFZNQkNPbURDUk9oaUJlNE15SnJmdm1vWjFmLTNuM1ZyRWVQajJ5Ui1BeU9zaUVESl9Oc284TkxQOHE4ZkZDZGw5MHZKNHJGeTRWVXZlSURNaDY2ZGVJYlhVRU5VZTNBR3I0OXJNSTBDUjByY1NNXzhSNVFsRVNEX1JOVGdBMnNjNnVzYV9rY2xRUHNFdTNn?oc=5
+- Actor Imran Khan Asked To Leave India Days After Participating In CJP Protest - NDTV
+  Actor Imran Khan Asked To Leave India Days After Participating
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjJlcGNvVHAtWC1vRzlqWkdQYXl0Vzkza2MwWjZGRWsxb3N4MVZHRWNsemxCM2cyLVFEbXpDUUNGclZvUjRfRXozSkdmcUhrcW9NdkxLUFhoOGtiTmlCbVR0MklXaFlweDFkakp0S0x2VlhWd3pRdzhJdjZGTUcwT2NSMHM1NFJmaGNTM1BjZmY0ZWs4T1daV19TU1RCMmM1RHo0SERGeERjdjhWTkpSUFI5RHUySlhQaEHSAcIBQVVfeXFMTXA3TnJ5RXJCNUYteWQtaGNIblRSVmY3NGtEaUZZcVJjeDlWTWVXVE5qQjJaX2JXSEQtUFk3ejhTMGNMU0VFZGh0SkpVbnpuUkdsRW4tRUZFUXktdG1JamphZ0IzX0lzZDhsZy1pdEgtNm9hQ3Ewa19GT0UzY3hfSEZTWlF6cHFUZ1pUenNWdlZ1R3JYcVpuSTVqcHZOUEFPTHBhN283dC1RenZmY1NRMVl1Zm1pNU1BRUdCTGctNGZPUnc?oc=5
 
-- 'Got to look at luggage weight': Shai Hope jokes after winning third Player of the Match award during this India tour - The Times of India
-  'Got to look at luggage weight': Shai Hope jokes after winning third Player of the Match award during this
-  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxNSmQ5VEZjYVhRLU41MV9GLVZNdHUxbGhudUFvLUNtbVY5RzZyV08yclh5cXcxcm1zSzdMTDQ2TnF0a2d6ZnhzUWVZaU9UY01pQmhldUdyemJPRUJVa0FyWE5iZkdKbUNXVHJLQ2VleGlNTzMtSTh3NDZUZXF5bkxVWGxFVGp4VjJTXzR0dUIzYlhsX1NvMER4cERvbFBWMjNDdG9hTGlUcHVKZEJJeDlQRHBkREVfMzVGem1DRllxYkYyd2NwY3RqMk1BQUFWTjUxWFBlMzQxV2Y2dHZsLVIwYlpadWVtLWg2NENld0psaVdjTjE1QkdmMXpaakRsN1BBaEJObGZtTDNMOFhGV3N1a09GYmwzZW10d0lWSXlmSHA5Zw?oc=5
+- India expresses deep concern over alleged plot for mass shooting at Hindu temple in US - News On AIR
+  India expresses deep concern over alleged plot for mass shooting at Hindu temple in US
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQQm9XSzVBWDVIaXFyMmxRUXhDZlNlb1VwWlpnNEotNzRpYTJRTXFlTDhHcjNQTU13NDNpbkZ5T0ViVWxrTHpDM3Q1WS13eFFEOTREUTVxSnBtNzNOMUgwUFhNU3VrbGt3N08xeEdMTVBpUWpTak5rTjVnQk8wLTRKc1JmQy1uZHpDakNYbGRTQkV1aC1YUzhMZWZqMWJ6Tjhqc0dDYm9MU2VPRTlWTVFLYnFR?oc=5
 
-- Rahul, Priyanka Gandhi meet murdered Ankita Bhandari’s parents as they protest Sikkim Governor appointment - The Hindu
-  Rahul, Priyanka Gandhi meet murdered Ankita Bhand
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc3I4bk1GaXRKaUc4dDl6YVhHcnN2SnRSampsSHAyd19Sa0daQTZWenVRaVI5ZTB0NzdIUFlWaHA1QWRvTmJUOU5fbGpaRXdQenppTlVrOVB0NTROaUVXQ3pscGlRSEc1d0ZLamhnM2Ffb2RRV3V5bEdiTGtLRHBZVUxLYUZFcTlXMWx2XzVNTVVoUDJseDBDblZIcEtPdS1VQTlIWEJxNzBWMkRVd0Y3OVpuRzhJWnhxSmZaWnZpZ3hVUkRjbjRZRW1BOGpxaS01OW03YXQ2OW16LWEyVExZcVBmNHV1UldvOExz0gHyAUFVX3lxTE9MLWFhdUI0Q2hOMmtfZEVqZDRUaEs1TjNxd3pJa1l0eTJJNmVWYjVldnFpVWZjMGs0UVVnWnE5UE53U2ZiSWUwaHBiZHNZejBWdXRrSTczejA4bG9USmtkbWQ3SXRqaDZ2WTlOblpVaVBsLTllLTRJb2Z1RHRadldKbVRZWkllamRBZjJlRVg5TkQweksydHh5LURZMURKbWtVZG5RQVU0RjIzY3FUcFphVU9ZVGFQTVVOYUNQc2JIMmNtY0dob01SUHNJRjF0TDh1Vjc5QkkwaTFtTVMwNllIQnplTzAzTG5oYU5JMkN3LUlB?oc=5
+- Can't Make Lame Excuses: Top Court Pulls Up Poll Body Over Missing Footage - NDTV
+  CNN.com will feature a weekly Newsqu
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXRMUWNTNHFWNWg4bnFTMC0tcElGUGV5ZF9mVDlnQVJkdkd2czFQa0dSTTJ0X1p0cS0yZmVLSTAtUlZ3Z3N4UzZhUFJCSzRDWWtYaHZWTDhxQldNaEkwbEdneTNYN3hMWDNLZGZiUlVxSzZ4dHFRVEtrZWFrSjM2RkpnMVZRUE1RRUlnRmhfV3EtdjhkQkNvZ3Zzd2g2NFU0ZU9NMjY0UmloWnUzN2piNjhjZEhkZFBuUVl1THFTNXpka1dLOFHSAc4BQVVfeXFMUDZrUTJGSWRrZmN6VlBYRzVkOXhmZWlqa1BkZnphdG1Zc2FaS2xsbi02VlZXRmd1bEhVejNGNTRva2dOR3llaWh5cHRPUnEzWm1KQ1JhMFZnd29YekwxaXpMT3FZTHhycndDZUgxWWtTckJHQVU1MENkNWVpVkJGemNBVEdLUlE2dGRZaFM0dklFdnFUQzNmXzgzZUdRdldSY0plelNLRDJidWJvdjgzYzFQYnlKQUU1Umo2eHBNU2M0TDVNX3VkVFpMVEpKYmc?oc=5
 
-- IDBI bank stake sale to Fairfax: Are IIFL Finance, Shriram Finance next in line for foreign investment? What we know
-  Mitsubishi UFJ Financial and IHC Group have reportedly stepped up investments
-  🔗 https://www.livemint.com/companies/news/idbi-bank-stake-sale-to-fairfax-are-iifl-finance-shriram-finance-next-in-line-for-foreign-investment-what-we-know-11792031622056.html
+- The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster - The Guardian
+  ‘Smart glasses’ prompt calls for ban in Westminster.
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjVmZjNLNWpwQTJFY2RUWG96OUloemR3cVktWUVzRk01b1Z5TEpWdGh3enVuY3BVaG5nakwzaE9qV09UMW5mdDIyV0RlRGpiQ0RzMnc4cmJYUkpPdW1HQl9HOFZyRmY2YTBHTi1hTmVZRnkweURGSjNMUzloczdHRGJYLUQ3NHJjdG5tSm9YVjdLVW0wcTVtX0lNcDdFSUhNWUlfblRTRmh6Ykpr?oc=5
 
-- Anthropic says it is profitable: What Claude-maker's Q3 revenue of $16.8 Billion does and does not show
-  Anthropic told investors it made $16.8 billion in Q3 and turned an adjusted profit ahead of a record IPO
-  🔗 https://www.livemint.com/companies/news/anthropic-says-it-is-profitable-what-claude-makers-q3-revenue-of-16-8-billion-does-and-does-not-show-11792027192211.html
+- War In The Time Of AI: How Technology Is Rewriting The Battlefield - NDTV
+  "War In The Time Of AI: How Technology
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZURGUDNVY0U0bVNRYy1lQWVNeTJ2SEVxWGZmRXFpX3g3WmFJOTAtcl9rNllqdk5HRVZRV25fWndTV1Q4QjE5OWZfWmliYmVqYnZnb043MWx2aDJfeEs5WTdkaVdiQXRVdEdjTEFNbk5keHl5cTRPT29MbE1lTktrS2NKT3cweTJEOUd4bFFFV1hXMHQyYVA1RDBIcUdYNHY0aVJvWmN3TC03QdIBsgFBVV95cUxPS09BR0xGWnNxLXVSUG1ldnNVekdTbWJvZ1BzQWVER3ZkSEZiTVNPTnNDX1VLTTdDaTZsZEFKLVZNcnQ4Y0c0YmMzVGM1ZEFCTVVBbHJmN043eG54bVZuclM1VG8wVVhBemdXVzZGdTZaY2tTM05aY0gweTBfTklzMGtNVlJ2YVA3eVVudmc4UF9DLW9FeTI3LXlDSzF3dXlmSThOcmZLZnFXdjhxZHp3ckNB?oc=5
 
-- Hillhouse launches data centre platform TeraNova DC, may deploy $12-15 bn in India by 2032
-  Hillhouse aims to help customers turn their growth plans into operational capacity with speed, reliability and confidence.
-  🔗 https://www.livemint.com/companies/hillhouse-launches-data-centre-platform-teranova-dc-with-plans-to-deploy-12-15-billion-by-2032-11791954712858.html
+- Applying technology to understand and treat disease - blog.google
+  Applying technology to understand
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
 
-- Kelly Clarkson and a Brooklyn store clashed on social media. Behind it, power dynamics loomed
-  Kelly Clarkson and a Brooklyn store clashed on social media
-  🔗 https://www.livemint.com/companies/kelly-clarkson-and-a-brooklyn-store-clashed-on-social-media-behind-it-power-dynamics-loomed-11792006293278.html
+- Future of human connection technology - Ericsson
+  Ericsson
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOcFluWjlTaUxnMWFjWmQwb0NVd0Q5U2pXVTY2R0xDSHFaVVR1WHpucFcyN1EzME51Wlc5T0lzaHpPX3JsdGY3cGZ4TWUwaHhSclE2OXc5X1lJRXFPa1RvVWNxRk5rSWpwekFqTlhmOG9CemEwcjczaGdTMGZFXzZMb3VKTW0wdw?oc=5
 
-- Former portfolio manager sues Fidelity after leaving for Michael Dells family office
-  Former portfolio manager sues Fidelity
-  🔗 https://www.livemint.com/companies/former-portfolio-manager-sues-fidelity-after-leaving-for-michael-dells-family-office-11792004274736.html
+- Honeywell Technologies Launches Forge Cognition with NVIDIA and Dell Technologies, Advancing Physical AI Across Buildings and Industrial Operations - Honeywell
+  Honeywell and NVIDIA are teaming up to create Forge Cognition. The
+  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxOeTRyTTZZSXZWSGVQRjVmUEdzb05ta2RzZEhUSWdoU0JIUDVXNnV6Z2YwZ3lITGdUSUcwWTB1Z3l2bFJiX3EzaHp3WVlILXJfTzZkZHJmazE4cHZQTWhPY05HLVJnaFQteFBQempGOHB3Q21LMkR1d1FIM2VCem1JUTNRU09RTnZOalJGOXl3aU81WUJFSXhhQ2wxTFdlUTc3bkpFZWF4LWdMVmZwN2VNek44ODE0bW5KY0JLUDhZQTcteHVoOG1OaGY0eFd5VmhmWGo3YkF6Q0pXMllqVnBlcXJONW15S0JYRUFZaHh4bGhCQ3dOSF9TeGZ0aEF0amZQYlJQQ0RqWTFQa2NJLVlhalhHMDlhN3NwLWF5NVdOc2FtbkJiQ3QyamxpRDUzY3M?oc=5
 
-- Sunil Singhania buys 3.6% stake in this cable stock
-  Paramount Communications’ profit growth,  ₹615 crore order book and planned Narmadapur
-  🔗 https://www.livemint.com/market/stock-market-news/sunil-singhania-buys-3-6-stake-in-this-cable-stock-11791992130006.html
+- Uday Kotak in Reliance Jio IPO press conference: Historic issue! RIL to become largest conglomerate by market cap
+  Uday Kotak in Reliance Jio IPO press conference:
+  🔗 https://www.livemint.com/companies/news/uday-kotak-in-reliance-jio-ipo-press-conference-historic-issue-ril-to-become-largest-conglomerate-by-market-cap-11792060852077.html
 
-- Top stocks to watch today: Reliance Industries, IDBI Bank, Wipro shares in focus on Thursday, 15 Oct | Full list
-  Reliance Industries, IDBI Bank, Wipro, Nestle India, Tata Technologies, Jio Financial Services, HD
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-reliance-industries-idbi-bank-wipro-shares-in-focus-on-thursday-15-oct-full-list-11792027834869.html
+- Air India’s new CEO tightens spending as losses mount
+  Tewolde Gebremariam has set up a full-time cost-sav
+  🔗 https://www.livemint.com/companies/news/air-india-s-new-ceo-tightens-spending-as-losses-mount-11792056057446.html
 
-- Stock market outlook today, 15 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues
-  The Nifty was trading around the 22,601 level, down nearly 10 points from the Nifty futures’ previous close, indicating a negative-to
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-14-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792024873629.html
+- Lightbox eyes later-stage deals, seeks repeatable path to profitability before next fund
+  VC firm seeks to demonstrate it can improve the financial performance of its portfolio companies.
+  🔗 https://www.livemint.com/companies/start-ups/lightbox-focuses-on-portfolio-profitability-as-it-eyes-more-exits-new-fund-11792048670417.html
 
-- Allan Gray Sees Nigeria Rally Broader Than Korea’s AI Boom
-  Allan Gray Ltd. sees Nigeria's stock rally as more broad-based than South Korea's. Nigeria offers investors a diversification play from the artificial-intelligence
-  🔗 https://www.livemint.com/market/allan-gray-sees-nigeria-rally-broader-than-korea-s-ai-boom-11792026265093.html
+- Marketing heritage to Gen Z: Neha Marda shares how Phitku is selling ‘phitkari’ without the grandma guilt
+  Phitku repositioned the alum not as a relic of the past but as a highly efficient, minimalist solution
+  🔗 https://www.livemint.com/companies/people/marketing-heritage-to-gen-z-neha-marda-shares-how-phitku-is-selling-phitkari-without-the-grandma-guilt-11792053848065.html
 
-- Raja Venkatraman recommends three stocks for 15 October
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-15-october-11792024961360.html
+- TSMC open to partnership with Elon Musk’s Terafab as chip giant's Q3 profit hits record $23.6 billion
+  TSMC is discussing a partnership with Elon Musk’s Terafab but insists on running the chip plant
+  🔗 https://www.livemint.com/companies/news/tsmc-open-to-partnership-with-elon-musk-s-terafab-as-chip-giants-q3-profit-hits-record-23-6-billion-11792051967864.html
+
+- Wipro Q2 results: Net profit falls 2% YoY to  ₹3,200 crore; revenue rises 9%
+  Wipro reported September-quarter revenue of  ₹24,752.7 crore, up 1.1
+  🔗 https://www.livemint.com/market/stock-market-news/wipro-q2-results-net-profit-falls-2-yoy-to-rs-3-200-crore-revenue-rises-9-11792059725645.html
+
+- ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest
+  Brokerages expect banks to post healthy Q2FY27 earnings growth. However, FCNR-B inflows and
+  🔗 https://www.livemint.com/market/stock-market-news/icici-bank-hdfc-bank-sbi-axis-bank-which-banking-stock-to-buy-ahead-of-q2-results-what-experts-suggest-11792056491007.html
+
+- Reliance-backed Jio Platforms IPO RHP: 10 key risks investors can't afford to miss out before subscribing
+  Jio Platforms’ IPO will open for subscription from 21 October to 23, with a price band of  ₹1,065-1,119 apiece. Investors
+  🔗 https://www.livemint.com/market/ipo/reliancebacked-jio-platforms-ipo-rhp-10-key-risks-investors-cant-afford-to-miss-out-before-subscribing-11792055995379.html
+
+- Groww's valuation relative to exchanges is not enticing
+  Groww must maintain its faster growth to prevent
+  🔗 https://www.livemint.com/market/mark-to-market/growws-valuation-relative-to-exchanges-is-not-enticing-11792053205149.html
+
+- Sebi discusses new UPI merchant charges with NPCI as brokers flag cost concerns
+  The new framework mandates an MDR of 0.4% on person-to-merchant (P2M)
+  🔗 https://www.livemint.com/market/sebi-discusses-new-upi-merchant-charges-with-npci-as-brokers-flag-cost-concerns-11792054937378.html
+
+- WhatsApp Guest Calling launched: How to join voice and video calls without an account
+  WhatsApp has introduced Guest Calling, allowing people without an account to join voice and video calls through a shared link. Calls are free, end-
+  🔗 https://www.livemint.com/technology/apps/whatsapp-guest-calling-launched-how-to-join-voice-and-video-calls-without-an-account-11792048248736.html
+
+- Incoming calls to show caller names from November 1: What mobile users need to know
+  India will roll out mandatory Calling Name Presentation (CNAP) from November 1, 2026. CNAP will display callers' names alongside phone numbers on 4G and 5G networks
+  🔗 https://www.livemint.com/technology/incoming-calls-to-show-caller-names-from-november-1-what-mobile-users-need-to-know-11792045920940.html
+
+- iPhone Duo inner-screen repair costs $999, more than twice the Galaxy Z Fold 8's cost
+  Apple's iPhone Duo inner display replacement costs $999 in the US. Samsung's Galaxy Z Fold 8 inner-screen repair costs $419. AppleCare+ cuts the
+  🔗 https://www.livemint.com/technology/iphone-duo-inner-screen-repair-costs-999-more-than-twice-the-galaxy-z-fold-8s-cost-11792038122190.html
+
+- Global financial watchdog calls for more human oversight of agentic AI
+  
+  🔗 https://www.livemint.com/technology/global-financial-watchdog-calls-for-more-human-oversight-of-agentic-ai-11792036879056.html
 
 - Florida wins key ruling allowing it to enforce a law that targets social media use by kids
   Florida has been cracking down on kids' social media use.
   🔗 https://www.livemint.com/technology/florida-wins-key-ruling-allowing-it-to-enforce-a-law-that-targets-social-media-use-by-kids-11792016710555.html
 
-- ASUS ExpertBook laptops get up to  ₹21,000 off during Flipkart Big Billion Days Sale 2026
-  ASUS ExpertBook laptops are available at discounted prices during Flipkart's Big Billion Days Sale 2026. Buyers can also get bank offers of up to  ₹10,000
-  🔗 https://www.livemint.com/technology/asus-expertbook-laptops-get-up-to-21-000-off-during-flipkart-big-billion-days-sale-2026-11791973849216.html
+- Nasdaq futures fall as tech shares drop on fears of AI overspending; traders await more U.S. data: Live updates - CNBC
+  Nasdaq futures fall as tech shares drop on fears of AI overspending.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5
 
-- GTA 6 PC launch tipped for early 2027, months after PS5 and Xbox release
-  GTA 6 could launch on PC between January and March 2027. Rockstar has confirmed a November 19, 2026, release for PS5 and Xbox Series X/S.
-  🔗 https://www.livemint.com/technology/gta-6-pc-launch-tipped-for-early-2027-months-after-ps5-and-xbox-release-11791972547263.html
+- Global stocks sell-off deepens as chipmakers tumble - Financial Times
+  Global stocks sell-off deep
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5
 
-- Oppo ColorOS 17 launched with new AI features: Check eligible phones and rollout dates
-  Oppo has launched ColorOS 17 globally with a redesigned interface, improved performance, AI-powered tools and enhanced call fraud detection features. The update will debut in India with the Oppo Find X10
-  🔗 https://www.livemint.com/technology/oppo-coloros-17-launched-with-new-ai-features-check-eligible-phones-and-rollout-dates-11791957611217.html
+- Stock Market Rally, Sensex Today: Sensex Closes 1,500 Points Higher Despite Negative Global Cues - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ0ZGN2g3RmVrSDdGT0FsLTQxLTRrcmNfQ0ZNamR4MTFLWGkwZEk0VGpDYVZIbkhrWlMyMzgxWlhVb2lLSVhUMDdldVBZcmNQY2VnMmd1enQzblQ4azdwbENkRGdONmFQVF
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ0ZGN2g3RmVrSDdGT0FsLTQxLTRrcmNfQ0ZNamR4MTFLWGkwZEk0VGpDYVZIbkhrWlMyMzgxWlhVb2lLSVhUMDdldVBZcmNQY2VnMmd1enQzblQ4azdwbENkRGdONmFQVFExQ0RZU0lVYmdKNUdTXy01Z2pDcTI3SndLNkhRX09MZURXMU1iTUJLOWh3N0tERFRRaXFEcmU5UnFWNno5bDJlOV8yaFY3YmxabE4xVmRHUkNIaTR3T1RqeFBiODc0YzBoaDFncGIy0gHYAUFVX3lxTE90M0NlZUw1OUtOa3A1LUxYVnNlSjZmcjRaWjNKUklLUVVuSXZYRXJLdS1nUVlodFdhZWVrX0poV0tFT3BjUVdVZEo1VGhDZlFhWU1NMzc1cnZILWxEWTZmTnYya08ydWVVbGd3MWJKcEt6eGN1QWVNV2UxSHAwRkFOaUctY3RLcVpBTnVneTAtbldmMXc0UjR6YXRFdVE4WWgtSHYyenNRSkJOc3M4Q0RRWlkzZXBxanhEOHFEOUtROHdvQlQ5T2loalBHSU01WnNFRndJTm5OYg?oc=5
 
-- ‘iPhone Duo is a waste of money’: Nothing CEO Carl Pei slams Apple’s $1,999 foldable
-  CEO Carl Pei has called Apple’s $1,999 iPhone Duo a “waste of money
-  🔗 https://www.livemint.com/technology/tech-news/iphone-duo-is-a-waste-of-money-nothing-ceo-carl-pei-slams-apple-s-1-999-foldable-11791950222567.html
+- Anti-drug activist's murder: Markets, private schools shut at many places after 'Punjab Bandh' call - The Hindu
+  'Punjab Bandh' called in wake of alleged drug
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcFdicS1pQUswbDlIZVFRanFrUmVUUFZNdnRwREYzMjlvM0NxYlNOU2tPRjAzT0VIMzdGendHaFhhZW12MHZGRGk0blhVbTJBZksyXzBTLUxMTE9GNHhCdU9uQjFkcG9HQlNwcXFTcDZpTTFQNWU1MzFzaV93Q0pwQ3VXb2lqUlBvclBGQ003dTBqM1BpSk9XTG9ock1qaW9kTHVOdEZKaGtVTU1INlNKN0RhUGI5WE1pRC1wLVl3SFVjcVU4VDhxZ2VQNWdVTlZxS1BMa3BlaHluUW5fQWFvZzVpREltVzRB0gHvAUFVX3lxTE1MbWFIOThVOVBoWlBOT0pDcnFEM3Z4Y2ZWMDRLNVYyNHc0ektQSjQ5bUZNaGdkYzV2Ynpnc0U5dXJwaWxESHBEQms2ai1MTTJFRmMzeEMza2NuaG5ZQjI0UUdTcmN0b0tuOXkxaDlHVjNFMTQtQThMLS1TUDNxREJKaU9sSlhBQzFoMlJkSjhBUHlDamoyZlBPRUZncktNZ0daeXRVSmphU3VNaGxvRTBhc0hzb2xGVkhWdFRjSlJZRkx3bnVjS2lWaDJ0SGRISEdxSmdjMk9hMnFaZGY0elp6VlJBOVNTMFlfYVN0ZGhN?oc=5
 
-- Zetwerk Manufacturing Business IPO opens today; GMP signals 15% listing gain, check key details
-  The Rs 5,012.33-crore IPO comprises a fresh issue of shares worth Rs 2,830 crore and an
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/zetwerk-manufacturing-business-ipo-opens-today-gmp-signals-15-listing-gain-check-key-details/articleshow/134955495.cms
+- Tech sell-off gathers pace as chipmakers hammered - Reuters
+  Tech sell-off gathers
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE8zSHhMSkR3TXNQeHQwd0pHRXVZU3lzTjYzY2l0ZkVyMWVmbmczQWhqSzhGaEtBSWhKdW5lQ1VIeFI5Y0ZwUzE4dFFGWVRfUzE0Y0RaZlRkWEZSMUlleXp2OTBTd1FCU05vakU1QlA2X3hHcGl2UVk3SnhGUQ?oc=5
 
-- IPO Feast: 6 issues including Tonbo Imaging, Bonfiglioli &amp; Fusion CX available for subscription; check GMP, other details
-  Four new IPOs, namely Tonbo Imaging India, Zetwerk Manufacturing Business, Bonfiglioli Transmissions and Sahajanand Medical Technologies, open for subscription today. HD Fire
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-feast-6-issues-including-tonbo-imaging-bonfiglioli-fusion-cx-available-for-subscription-check-gmp-other-details/articleshow/134955477.cms
+- Tata Sons pays Rs 4,475 crore in annual dividends; hypothetical investment could generate Rs 82,000 crore for philanthropy, says Harsh Goenka
+   RPG Enterprises Chairman Harsh Goenka shared a hypothetical thought experiment on X regarding Tata Sons. He noted that selling Tata Sons' Rs 11.68 lakh crore listed equity portfolio and reinvesting in 6-7% safe yield instruments could
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-pays-rs-4475-crore-in-annual-dividends-hypothetical-investment-could-generate-rs-82000-crore-for-philanthropy-says-harsh-goenka/articleshow/134964723.cms
 
-- Oil Price Today (October 15): Crude oil dips to $105 despite rising Middle East tensions. Here’s why
-  Both benchmarks reversed gains made in the previous session. Brent crude futures declined $1.50, or 1.41%, to $104.55
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-15-crude-oil-dips-to-105-despite-rising-middle-east-tensions-heres-why/articleshow/134955455.cms
+- October 13 or 14? What was the deadline to buy RIL shares for Jio IPO reservation?
+  Reliance Industries shareholders had to buy shares by October 13 to qualify for Jio Platforms’ Rs 2,500 crore shareholder quota. The IPO opens
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/october-13-or-14-what-was-the-deadline-to-buy-ril-shares-for-jio-ipo-reservation/articleshow/134964490.cms
 
-- Hyundai Motor to invest $15.5 billion in India by 2032
-  Hyundai Motor Group announced plans to invest $15.5 billion in India from 2023 to 2032. This investment aims to enhance manufacturing operations and support growth in the automotive sector.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hyundai-motor-to-invest-15-5-billion-in-india-by-2032/articleshow/134955345.cms
+- Tata Communications Q2 results: Net profit jumps 86% YoY to Rs 341 crore; revenue rises 10%
+  Tata Communications reported an 86.3% year-on-year jump in consolidated net profit to Rs 341 crore in Q2FY27. Revenue rose
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-communications-q2-results-net-profit-jumps-86-yoy-to-rs-341-crore-revenue-rises-10/articleshow/134964408.cms
 
-- Positive Breakout: These 6 midcap stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily time frame,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-midcap-stocks-cross-above-their-200-dmas/slideshow/134955443.cms
+- Global Market: Asian currencies slide as hot US inflation fuels Fed rate hike bets; won hits two-week low
+  South Korea's won, Taiwan dollar, Philippine peso and Indonesian rupiah came under pressure amid capital outflows and rising borrowing costs.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-asian-currencies-slide-as-hot-us-inflation-fuels-fed-rate-hike-bets-won-hits-two-week-low/articleshow/134964098.cms
 
-- IPO-Bound Tonbo Imaging Nets ₹255 Cr From Anchor Investors
-  Ahead of the commencement of the bidding for its public issue on October 15, defence tech startup Tonbo Imaging has announced a deal with Anchor Investors.
-  🔗 https://inc42.com/buzz/ipo-bound-tonbo-imaging-nets-%e2%82%b9255-cr-from-anchor-investors/
+- Yes Bank shares nosedive 20% after SC declares Rs 8,415 crore AT-1 bond write-off illegal
+  India's Supreme Court declared that the write-off of Yes Bank's 84 billion rupee AT-1 bonds is unlawful, causing a steep decline in Yes Bank shares. The ruling offers solace to bondholders, who successfully argued that
+  🔗 https://economictimes.indiatimes.com/markets/bonds/yes-bank-shares-nosedive-20-after-sc-declares-at-1-bond-write-off-illegal/articleshow/134963733.cms
 
-- Scimplify Bags $25 Mn To Scale Its Semiconductor Chemicals Business
-  Scimplify has raised $25 Mn (around ₹238 Cr) in a fresh funding round led by Hitachi.
-  🔗 https://inc42.com/buzz/scimplify-bags-25-mn-to-scale-its-semiconductor-chemicals-business/
+- Anti-CEC protest: Actor Imran Khan issued notice, asked to leave India by October 28 - The Hindu
+  Actor Imran Khan issued notice, asked to leave India by October 28
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDdvQnNUaHZ4MzZ6VWx3cmxBN2lyMVM4b2JwTzNPMGp1OTNJQko2SUxtd2lsdDhQYThjRGdrQUNLUzN5VVhnd0R1VHp2TGxSUDMtaEwxMDVpazM1b0d3c29YQk5wMllhcFFDZ2pyc2R4OElZMW5nZEk1NGxwM0NVX1ZvRUV2NzZxRnZsTUd1VnpVeXdYOFZqc3FUS2NTcE8yZVFNWVp1VFJ5Z2M3Tnp3b0Y0bTgzZENpejlPbUtXUlZJbzY2cGfSAcwBQVVfeXFMT3NSVzlsT29Hb3NjZGtkdURiWlRINGNrNTNkbEhxU1lmQU1VazFSZzJjVDNXMS1zRzhDb3Q0b1lHdXJyQmlWTDhFNGRSckJOYlJwM29idVVFWEhBYlcyZ05hSW1mbWNtN0ZCQVlFTm5YZTFlLWEzalBES2pvX1VZTVJmXzlIcTdXaHFvNUpvVnJ0QXRlSWJIZmRRaVJydUJoX1JSakswQnZLNG8tQzktSWl2ZFlUS1hoRF9SV19SOC1xZUczSU9OZ2FxNVRr?oc=5
 
-- Zetwerk Raises ₹2,251 Cr From Anchor Investors Ahead Of IPO
-  Zetwerk has raised ₹2,251.2 Cr from anchor investors ahead of the opening of its initial public offering.
-  🔗 https://inc42.com/buzz/zetwerk-raises-%e2%82%b92251-cr-from-anchor-investors-ahead-of-ipo/
+- Actor Imran Khan asked to leave India after participating in protest - BBC
+  Actor Imran Khan asked to leave India after participating
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
 
-- Jio Platforms Sets Stage For India’s Largest IPO At ₹10.3 Lakh Cr Valuation
-  Jio IPO To Open For Subscription On October 21. Jio Platforms has set a price band of ₹1,065-1,119 per share.
-  🔗 https://inc42.com/buzz/jio-platforms-set-stage-for-indias-largest-ipo-at-%e2%82%b910-3-lakh-cr-valuation/
+- Actor Imran Khan Asked To Leave India Days After Participating In CJP Protest - NDTV
+  Actor Imran Khan Asked To Leave India Days After Participating
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjJlcGNvVHAtWC1vRzlqWkdQYXl0Vzkza2MwWjZGRWsxb3N4MVZHRWNsemxCM2cyLVFEbXpDUUNGclZvUjRfRXozSkdmcUhrcW9NdkxLUFhoOGtiTmlCbVR0MklXaFlweDFkakp0S0x2VlhWd3pRdzhJdjZGTUcwT2NSMHM1NFJmaGNTM1BjZmY0ZWs4T1daV19TU1RCMmM1RHo0SERGeERjdjhWTkpSUFI5RHUySlhQaEHSAcIBQVVfeXFMTXA3TnJ5RXJCNUYteWQtaGNIblRSVmY3NGtEaUZZcVJjeDlWTWVXVE5qQjJaX2JXSEQtUFk3ejhTMGNMU0VFZGh0SkpVbnpuUkdsRW4tRUZFUXktdG1JamphZ0IzX0lzZDhsZy1pdEgtNm9hQ3Ewa19GT0UzY3hfSEZTWlF6cHFUZ1pUenNWdlZ1R3JYcVpuSTVqcHZOUEFPTHBhN283dC1RenZmY1NRMVl1Zm1pNU1BRUdCTGctNGZPUnc?oc=5
 
-- Infotech Acquires Lightspeed-Backed SaaS Startup Zluri
-  IT advisory firm Infotech has acquired Bengaluru-based SaaS startup Zluri. Infotech will add the latter’s application discovery, identity governance and administration.
-  🔗 https://inc42.com/buzz/infotech-acquires-lightspeed-backed-saas-startup-zluri/
+- India expresses deep concern over alleged plot for mass shooting at Hindu temple in US - News On AIR
+  India expresses deep concern over alleged plot for mass shooting at Hindu temple in US
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQQm9XSzVBWDVIaXFyMmxRUXhDZlNlb1VwWlpnNEotNzRpYTJRTXFlTDhHcjNQTU13NDNpbkZ5T0ViVWxrTHpDM3Q1WS13eFFEOTREUTVxSnBtNzNOMUgwUFhNU3VrbGt3N08xeEdMTVBpUWpTak5rTjVnQk8wLTRKc1JmQy1uZHpDakNYbGRTQkV1aC1YUzhMZWZqMWJ6Tjhqc0dDYm9MU2VPRTlWTVFLYnFR?oc=5
+
+- Can't Make Lame Excuses: Top Court Pulls Up Poll Body Over Missing Footage - NDTV
+  CNN.com will feature a weekly Newsqu
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXRMUWNTNHFWNWg4bnFTMC0tcElGUGV5ZF9mVDlnQVJkdkd2czFQa0dSTTJ0X1p0cS0yZmVLSTAtUlZ3Z3N4UzZhUFJCSzRDWWtYaHZWTDhxQldNaEkwbEdneTNYN3hMWDNLZGZiUlVxSzZ4dHFRVEtrZWFrSjM2RkpnMVZRUE1RRUlnRmhfV3EtdjhkQkNvZ3Zzd2g2NFU0ZU9NMjY0UmloWnUzN2piNjhjZEhkZFBuUVl1THFTNXpka1dLOFHSAc4BQVVfeXFMUDZrUTJGSWRrZmN6VlBYRzVkOXhmZWlqa1BkZnphdG1Zc2FaS2xsbi02VlZXRmd1bEhVejNGNTRva2dOR3llaWh5cHRPUnEzWm1KQ1JhMFZnd29YekwxaXpMT3FZTHhycndDZUgxWWtTckJHQVU1MENkNWVpVkJGemNBVEdLUlE2dGRZaFM0dklFdnFUQzNmXzgzZUdRdldSY0plelNLRDJidWJvdjgzYzFQYnlKQUU1Umo2eHBNU2M0TDVNX3VkVFpMVEpKYmc?oc=5
+
+- Fairfax Proposes To Transfer Go Digit Stake To IDBI Bank
+  Canadian investor Fairfax Financial Holdings has proposed transferring all its interests in insurtech company Go Digit General Insurance to IDBI Bank.
+  🔗 https://inc42.com/buzz/fairfax-proposes-to-transfer-go-digit-stake-to-idbi-bank/
+
+- Centre Directs Telcos To Display Caller Names From November 1
+  The Ministry Of Communications&#8217; Department of Telecommunications (DoT) has directed telecom operators to roll out calling name presentations (CNAP) across India.
+  🔗 https://inc42.com/buzz/centre-directs-telcos-to-display-caller-names-from-november-1/
+
+- AI Startups To Watch: 5 Startups That Caught Our Eye In October
+  India’s AI story is moving beyond the model. Until last year, the big question in Indian boardrooms was which large.
+  🔗 https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-october/
+
+- How Ubiqedge Is Giving Old Industrial Machines An AIoT Upgrade
+  Nobody on a factory floor wakes up wanting AI, Internet of Things (IoT) systems or a smarter dashboard.
+  🔗 https://inc42.com/startups/how-ubiqedge-is-giving-old-industrial-machines-an-aiot-upgrade/
+
+- Zetwerk IPO Subscribed 8% On Day 1 So Far
+  B2B manufacturing company Zetwerk’s ₹5,012.3 Cr IPO got off to a rather slow start today, receiving a mere 8% subscription
+  🔗 https://inc42.com/buzz/zetwerk-ipo-subscribed-8-on-day-1-so-far/
+
+- Anti-CEC protest: Actor Imran Khan issued notice, asked to leave India by October 28 - The Hindu
+  Actor Imran Khan issued notice, asked to leave India by October 28
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDdvQnNUaHZ4MzZ6VWx3cmxBN2lyMVM4b2JwTzNPMGp1OTNJQko2SUxtd2lsdDhQYThjRGdrQUNLUzN5VVhnd0R1VHp2TGxSUDMtaEwxMDVpazM1b0d3c29YQk5wMllhcFFDZ2pyc2R4OElZMW5nZEk1NGxwM0NVX1ZvRUV2NzZxRnZsTUd1VnpVeXdYOFZqc3FUS2NTcE8yZVFNWVp1VFJ5Z2M3Tnp3b0Y0bTgzZENpejlPbUtXUlZJbzY2cGfSAcwBQVVfeXFMT3NSVzlsT29Hb3NjZGtkdURiWlRINGNrNTNkbEhxU1lmQU1VazFSZzJjVDNXMS1zRzhDb3Q0b1lHdXJyQmlWTDhFNGRSckJOYlJwM29idVVFWEhBYlcyZ05hSW1mbWNtN0ZCQVlFTm5YZTFlLWEzalBES2pvX1VZTVJmXzlIcTdXaHFvNUpvVnJ0QXRlSWJIZmRRaVJydUJoX1JSakswQnZLNG8tQzktSWl2ZFlUS1hoRF9SV19SOC1xZUczSU9OZ2FxNVRr?oc=5
+
+- Actor Imran Khan asked to leave India after participating in protest - BBC
+  Actor Imran Khan asked to leave India after participating
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
+
+- Actor Imran Khan Asked To Leave India Days After Participating In CJP Protest - NDTV
+  Actor Imran Khan Asked To Leave India Days After Participating
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjJlcGNvVHAtWC1vRzlqWkdQYXl0Vzkza2MwWjZGRWsxb3N4MVZHRWNsemxCM2cyLVFEbXpDUUNGclZvUjRfRXozSkdmcUhrcW9NdkxLUFhoOGtiTmlCbVR0MklXaFlweDFkakp0S0x2VlhWd3pRdzhJdjZGTUcwT2NSMHM1NFJmaGNTM1BjZmY0ZWs4T1daV19TU1RCMmM1RHo0SERGeERjdjhWTkpSUFI5RHUySlhQaEHSAcIBQVVfeXFMTXA3TnJ5RXJCNUYteWQtaGNIblRSVmY3NGtEaUZZcVJjeDlWTWVXVE5qQjJaX2JXSEQtUFk3ejhTMGNMU0VFZGh0SkpVbnpuUkdsRW4tRUZFUXktdG1JamphZ0IzX0lzZDhsZy1pdEgtNm9hQ3Ewa19GT0UzY3hfSEZTWlF6cHFUZ1pUenNWdlZ1R3JYcVpuSTVqcHZOUEFPTHBhN283dC1RenZmY1NRMVl1Zm1pNU1BRUdCTGctNGZPUnc?oc=5
+
+- India expresses deep concern over alleged plot for mass shooting at Hindu temple in US - News On AIR
+  India expresses deep concern over alleged plot for mass shooting at Hindu temple in US
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQQm9XSzVBWDVIaXFyMmxRUXhDZlNlb1VwWlpnNEotNzRpYTJRTXFlTDhHcjNQTU13NDNpbkZ5T0ViVWxrTHpDM3Q1WS13eFFEOTREUTVxSnBtNzNOMUgwUFhNU3VrbGt3N08xeEdMTVBpUWpTak5rTjVnQk8wLTRKc1JmQy1uZHpDakNYbGRTQkV1aC1YUzhMZWZqMWJ6Tjhqc0dDYm9MU2VPRTlWTVFLYnFR?oc=5
+
+- Can't Make Lame Excuses: Top Court Pulls Up Poll Body Over Missing Footage - NDTV
+  CNN.com will feature a weekly Newsqu
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXRMUWNTNHFWNWg4bnFTMC0tcElGUGV5ZF9mVDlnQVJkdkd2czFQa0dSTTJ0X1p0cS0yZmVLSTAtUlZ3Z3N4UzZhUFJCSzRDWWtYaHZWTDhxQldNaEkwbEdneTNYN3hMWDNLZGZiUlVxSzZ4dHFRVEtrZWFrSjM2RkpnMVZRUE1RRUlnRmhfV3EtdjhkQkNvZ3Zzd2g2NFU0ZU9NMjY0UmloWnUzN2piNjhjZEhkZFBuUVl1THFTNXpka1dLOFHSAc4BQVVfeXFMUDZrUTJGSWRrZmN6VlBYRzVkOXhmZWlqa1BkZnphdG1Zc2FaS2xsbi02VlZXRmd1bEhVejNGNTRva2dOR3llaWh5cHRPUnEzWm1KQ1JhMFZnd29YekwxaXpMT3FZTHhycndDZUgxWWtTckJHQVU1MENkNWVpVkJGemNBVEdLUlE2dGRZaFM0dklFdnFUQzNmXzgzZUdRdldSY0plelNLRDJidWJvdjgzYzFQYnlKQUU1Umo2eHBNU2M0TDVNX3VkVFpMVEpKYmc?oc=5
+
+- Anti-CEC protest: Actor Imran Khan issued notice, asked to leave India by October 28 - The Hindu
+  Actor Imran Khan issued notice, asked to leave India by October 28
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDdvQnNUaHZ4MzZ6VWx3cmxBN2lyMVM4b2JwTzNPMGp1OTNJQko2SUxtd2lsdDhQYThjRGdrQUNLUzN5VVhnd0R1VHp2TGxSUDMtaEwxMDVpazM1b0d3c29YQk5wMllhcFFDZ2pyc2R4OElZMW5nZEk1NGxwM0NVX1ZvRUV2NzZxRnZsTUd1VnpVeXdYOFZqc3FUS2NTcE8yZVFNWVp1VFJ5Z2M3Tnp3b0Y0bTgzZENpejlPbUtXUlZJbzY2cGfSAcwBQVVfeXFMT3NSVzlsT29Hb3NjZGtkdURiWlRINGNrNTNkbEhxU1lmQU1VazFSZzJjVDNXMS1zRzhDb3Q0b1lHdXJyQmlWTDhFNGRSckJOYlJwM29idVVFWEhBYlcyZ05hSW1mbWNtN0ZCQVlFTm5YZTFlLWEzalBES2pvX1VZTVJmXzlIcTdXaHFvNUpvVnJ0QXRlSWJIZmRRaVJydUJoX1JSakswQnZLNG8tQzktSWl2ZFlUS1hoRF9SV19SOC1xZUczSU9OZ2FxNVRr?oc=5
+
+- Actor Imran Khan asked to leave India after participating in protest - BBC
+  Actor Imran Khan asked to leave India after participating
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
+
+- Actor Imran Khan Asked To Leave India Days After Participating In CJP Protest - NDTV
+  Actor Imran Khan Asked To Leave India Days After Participating
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjJlcGNvVHAtWC1vRzlqWkdQYXl0Vzkza2MwWjZGRWsxb3N4MVZHRWNsemxCM2cyLVFEbXpDUUNGclZvUjRfRXozSkdmcUhrcW9NdkxLUFhoOGtiTmlCbVR0MklXaFlweDFkakp0S0x2VlhWd3pRdzhJdjZGTUcwT2NSMHM1NFJmaGNTM1BjZmY0ZWs4T1daV19TU1RCMmM1RHo0SERGeERjdjhWTkpSUFI5RHUySlhQaEHSAcIBQVVfeXFMTXA3TnJ5RXJCNUYteWQtaGNIblRSVmY3NGtEaUZZcVJjeDlWTWVXVE5qQjJaX2JXSEQtUFk3ejhTMGNMU0VFZGh0SkpVbnpuUkdsRW4tRUZFUXktdG1JamphZ0IzX0lzZDhsZy1pdEgtNm9hQ3Ewa19GT0UzY3hfSEZTWlF6cHFUZ1pUenNWdlZ1R3JYcVpuSTVqcHZOUEFPTHBhN283dC1RenZmY1NRMVl1Zm1pNU1BRUdCTGctNGZPUnc?oc=5
+
+- India expresses deep concern over alleged plot for mass shooting at Hindu temple in US - News On AIR
+  India expresses deep concern over alleged plot for mass shooting at Hindu temple in US
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQQm9XSzVBWDVIaXFyMmxRUXhDZlNlb1VwWlpnNEotNzRpYTJRTXFlTDhHcjNQTU13NDNpbkZ5T0ViVWxrTHpDM3Q1WS13eFFEOTREUTVxSnBtNzNOMUgwUFhNU3VrbGt3N08xeEdMTVBpUWpTak5rTjVnQk8wLTRKc1JmQy1uZHpDakNYbGRTQkV1aC1YUzhMZWZqMWJ6Tjhqc0dDYm9MU2VPRTlWTVFLYnFR?oc=5
+
+- Can't Make Lame Excuses: Top Court Pulls Up Poll Body Over Missing Footage - NDTV
+  CNN.com will feature a weekly Newsqu
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXRMUWNTNHFWNWg4bnFTMC0tcElGUGV5ZF9mVDlnQVJkdkd2czFQa0dSTTJ0X1p0cS0yZmVLSTAtUlZ3Z3N4UzZhUFJCSzRDWWtYaHZWTDhxQldNaEkwbEdneTNYN3hMWDNLZGZiUlVxSzZ4dHFRVEtrZWFrSjM2RkpnMVZRUE1RRUlnRmhfV3EtdjhkQkNvZ3Zzd2g2NFU0ZU9NMjY0UmloWnUzN2piNjhjZEhkZFBuUVl1THFTNXpka1dLOFHSAc4BQVVfeXFMUDZrUTJGSWRrZmN6VlBYRzVkOXhmZWlqa1BkZnphdG1Zc2FaS2xsbi02VlZXRmd1bEhVejNGNTRva2dOR3llaWh5cHRPUnEzWm1KQ1JhMFZnd29YekwxaXpMT3FZTHhycndDZUgxWWtTckJHQVU1MENkNWVpVkJGemNBVEdLUlE2dGRZaFM0dklFdnFUQzNmXzgzZUdRdldSY0plelNLRDJidWJvdjgzYzFQYnlKQUU1Umo2eHBNU2M0TDVNX3VkVFpMVEpKYmc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -140,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Applying technology to understand and treat disease - blog.google
-  Applying technology to understand
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- The Next Billion-Dollar Defense Technology Opportunity: AI-Powered Autonomous Mission Intelligence - PR Newswire
-  The Next Billion-Dollar Defense Technology Opportunity
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdFF6NzcxbjllUTdJQzBRelFMUW9oXzhpZjZuNHRDdDZ0MkNaUUg1LWRLMERudEN4TGt1T3lWUUpFUi1LZXJpSEs5bWt2Tzk3UHo4d1Bvb2FkQ0Y0V21HbDV3SkpLVVRiN1l4b0ZweDJDZ1ROSUhTNXRTVGRLU2hyVjNENW92Yy04amdOS3QzUnNyVk9ueVkwLXVsb2hYdXh6VzlPVzZia3hJMnBnYlN4LUx3cklkWkVUemRSR0I0SnNsWHFZdDNpSVVlRDZuRzN1c29pQVdSS0hzQTZsaGlTLVFuX0dZT0dT?oc=5
-
-- The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster - The Guardian
-  ‘Smart glasses’ prompt calls for ban in Westminster.
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjVmZjNLNWpwQTJFY2RUWG96OUloemR3cVktWUVzRk01b1Z5TEpWdGh3enVuY3BVaG5nakwzaE9qV09UMW5mdDIyV0RlRGpiQ0RzMnc4cmJYUkpPdW1HQl9HOFZyRmY2YTBHTi1hTmVZRnkweURGSjNMUzloczdHRGJYLUQ3NHJjdG5tSm9YVjdLVW0wcTVtX0lNcDdFSUhNWUlfblRTRmh6Ykpr?oc=5
-
-- War In The Time Of AI: How Technology Is Rewriting The Battlefield - NDTV
-  "War In The Time Of AI: How Technology
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZURGUDNVY0U0bVNRYy1lQWVNeTJ2SEVxWGZmRXFpX3g3WmFJOTAtcl9rNllqdk5HRVZRV25fWndTV1Q4QjE5OWZfWmliYmVqYnZnb043MWx2aDJfeEs5WTdkaVdiQXRVdEdjTEFNbk5keHl5cTRPT29MbE1lTktrS2NKT3cweTJEOUd4bFFFV1hXMHQyYVA1RDBIcUdYNHY0aVJvWmN3TC03QdIBsgFBVV95cUxPS09BR0xGWnNxLXVSUG1ldnNVekdTbWJvZ1BzQWVER3ZkSEZiTVNPTnNDX1VLTTdDaTZsZEFKLVZNcnQ4Y0c0YmMzVGM1ZEFCTVVBbHJmN043eG54bVZuclM1VG8wVVhBemdXVzZGdTZaY2tTM05aY0gweTBfTklzMGtNVlJ2YVA3eVVudmc4UF9DLW9FeTI3LXlDSzF3dXlmSThOcmZLZnFXdjhxZHp3ckNB?oc=5
-
-- 22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times
-  22 People Got Together For a Dinner Party. So Did Their A.
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-15 02:51:46 UTC_
+_Last updated: 2026-10-15 10:46:39 UTC_
