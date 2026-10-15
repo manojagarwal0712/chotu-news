@@ -4,81 +4,85 @@
   Actor Imran Khan ordered to leave India after participating
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
 
-- Anti-CEC protest: Actor Imran Khan issued notice, asked to leave India by October 28 - The Hindu
-  Actor Imran Khan issued notice, asked to leave India by October 28
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDdvQnNUaHZ4MzZ6VWx3cmxBN2lyMVM4b2JwTzNPMGp1OTNJQko2SUxtd2lsdDhQYThjRGdrQUNLUzN5VVhnd0R1VHp2TGxSUDMtaEwxMDVpazM1b0d3c29YQk5wMllhcFFDZ2pyc2R4OElZMW5nZEk1NGxwM0NVX1ZvRUV2NzZxRnZsTUd1VnpVeXdYOFZqc3FUS2NTcE8yZVFNWVp1VFJ5Z2M3Tnp3b0Y0bTgzZENpejlPbUtXUlZJbzY2cGfSAcwBQVVfeXFMT3NSVzlsT29Hb3NjZGtkdURiWlRINGNrNTNkbEhxU1lmQU1VazFSZzJjVDNXMS1zRzhDb3Q0b1lHdXJyQmlWTDhFNGRSckJOYlJwM29idVVFWEhBYlcyZ05hSW1mbWNtN0ZCQVlFTm5YZTFlLWEzalBES2pvX1VZTVJmXzlIcTdXaHFvNUpvVnJ0QXRlSWJIZmRRaVJydUJoX1JSakswQnZLNG8tQzktSWl2ZFlUS1hoRF9SV19SOC1xZUczSU9OZ2FxNVRr?oc=5
-
 - Actor Imran Khan To Challenge 'Leave India' Order In Bombay High Court - NDTV
   Actor Imran Khan To Challenge 'Leave India' Order
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUVDYUh2VTZwSlFua3oxcENTZjZhdEJTNDNDLUVjWldGTElZS3RuemZXNk1zUlN3NVdUdWxOd2FzRXhKNDhMYW4wTnlwOUtoWnBiNnNiRjFiN0ZXcFhKaGFMLXVrV1NkWGVwdjlpcE93MmpCRHpEWVRQdWI4WTZYc01kYTFuX0wyaFhDa3A2VTByQ1ZvVWlmUExBZXM4M1NKMlBPekxnRGpuN1A1R1HSAbYBQVVfeXFMUHlnV011S0VaQjBqY24tbkRhajM5Nm5BUjJJME80WGN2VXNCMGM1TmwzaHdUSTNFbEZocUh3OUVBUkFoX19naXBOTEFMN2VpRWtCWUdqNGJpSWJyRUlIdWpNZUJWV3ZPbUJ4MGdEOUh4LUVJQ1B2UC0tM2g4T0JmdXpLczkwUnd3UTN4Wi1MSHlRSXFvd2JwZmd5dmtjMG1pdzV6VUNIR3VfdkRhNTVLUGZEZ3VMc2c?oc=5
+
+- Bollywood actor Imran Khan asked to leave India after participating in protest, media says - Reuters
+  Bollywood actor Imran Khan asked to leave India after participating in
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxONkJPS0gxbDFyUUhGSlZVRThBVHgxaWk5bUstV1NDU3pMb3YyOG4teTlUZk04bVluNU1KN2lMclo4OUc0azhSRzBUYTNVdGZRdVBPVVFzVlFhTV8yMjB3SEZUcVpaYnFVbHd6QTV0SFVqUUlYZ25KQUJKX0tYa1pMU044eFhobzhudDlOSnNEazN1T2RmN1Z1MEJ1cnpOQzJLS0NDZG5ZNlM1U0VSSnV4d0NpcUd5ZndnZF9zakJhdy1fVTBMbm1zb3l2cXUzTDFFVE1j?oc=5
+
+- Is India-US Trade Deal Near The Finish Line? - Rediff
+  Is India-US Trade Deal
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPMm1qckFzT0ZBb0MxaUlNUlNsaVYwTWFwZXFrVUxYS21qT1Z6OENUdkVUZFNlYW40Q3FkTjlHUkdBZXdVd0diOU9FQ2xvYk5ZelpVM1R0X1d0WjB2bjJhcF9weGxES1U0X2J0anpCd2t2SGhUY0ZlVmJhTDFNNEtUd0l3blZ4WXIzaFM3anNabkk0RnZiX3fSAZgBQVVfeXFMT29Zb2U0ejFJVXZyeVdSb0FBYnh5SEpEdEU2ck1heHMyT3JocVFraXBnekJNN2pGQ2V6b2Q4YXBlS1Z6YnJaMkc0dlVwY3ItTTgwWUczSzZoRVJCbmNIUnpHUU5nZ19xcTk4SEx5MXFsdmU2dkJFYjdZdks0OU5pa08wOFVSamU0djQ4dkZfTGtwTU83TEhfVlA?oc=5
 
 - First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
   First Tranche Of India-US Trade Deal Final
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
 
-- 'Very Close, Will Happen': US Envoy Sergio Gor To NDTV On Trade Deal - NDTV
-  'Very Close, Will Happen': US Envoy
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkpTdld6eW1uOWQtTGRfSW9GdE5GTnZmMGFSaVdkNnRHZFVib0dZcGhzbDZ2ZlU2ZmFweU5MRFZuR1VVVWV6S0JQbTctSmxxXzZRZkstTHhLRVYxN21QYTJmSnB3QmlkSllCWTNsdjVUd05Tb0U5S1lrNVdvLW5QSU8xQW1JTG00ZDFsMWtKdHBuVk1UYl9rdE9QSkpYeWQxVEo5R29QXzTSAbABQVVfeXFMTXV2cGZMdkJOOEluY3NEUWZKNGl3Ym9MMUVfR3JUdWNQcExNVV9paWV2Zk9DNlkzYW9RMTRDUDFjQmZOdW5ycGhMcHdubEo4SUZOREJ4U0o1SnFBQXJUMmR0LUtsREF6ekp5Ullra0J0N3pOVTlRb1BWa1I1aWtJMDlMRzhfRnc0LUU4eDhfdHRuOThmOFh6enBIRk9mUnB1MzVDN0dwbHRwc2MyMEZSeHM?oc=5
-
 - Applying technology to understand and treat disease - blog.google
   Applying technology to understand
   🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
 
-- Flock CEO defends surveillance technology amid national backlash: 'We shouldn't pause progress' - TechCrunch
-  Flock CEO defends surveillance technology amid national backlash.
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxON2VSb2p6VE0xbXZHYTI1a1A3eldkcE93bzd2VTAxekJfNm9EdFUyU1REZmhpcFVhYmo2VEZMZ3JvSkZhaUdKVWRfa1lVbWo2cmU2U25ieFZPRmdIbnFfdkQwYWFzcWYydXE5YlRGNklnNW5mMDVZa2VTajBIT0RxeElQd1AxWEJqWVQtTkdnX1FIMUlYRy1vU2hHRHU4QWk2Z00yZEgzTlRFeVNCMXA2eEd3UXNNellFZGJpcklaREt5N0p1?oc=5
+- Jio to focus on technology monetisation, targets debt-free status - The Hindu
+  Jio to focus on technology monetisation
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2pITEZfUmZyc2lRMUpGbGNkM0NfWDZRZ3dETUducERGZHgwbmQwbk1YeUZZWlZBX0dna1pYc0pneWVfem9PSVVwTVYwa1lCTmp3RGF0UXlIbVE3bE9OZVBzS2Y0RlhuWUZtRWxTaHUweWR2YUxzMHlRVHFkSF92N0w2NklhWlNxVTlobnkwRFJvSm93Z0xVTnRwT21vRFhmMWstVFdDRWgtRUM2ZEx0bmpRUTVpX3NGQ2stblZjQUpoX0RVT3fSAcwBQVVfeXFMTUNURlljNE9JcXpWYWNYbFpSQVpXNUJUcWxuR3JSWWJ4TWE2dlN0d2M0SjQxQmZRaXlJNXBxYjZabXhmcWViOWxMeWJraWJoOEU2UHlwVUtyOEtMTlFZMGMtNVNjVXl3S1pUbllEbm94V1ZGaTlhZUZDUkNzSUg0RldtVFU4WmxoZzJHbThjeS1WZ25rN3pVTWhaR2k5MHAxTXhPYlh2YkI0X3QxNTRHektDMXVISlRTWURfd1BDZklIUDlEM0dzTnJSZ1ly?oc=5
+
+- UNICEF Femtech Ventures Frontier Technology Funding for Women’s Health - fundsforNGOs - Grants and Resources for Sustainability
+  UNICEF Femtech Ventures Frontier Technology Funding for Women's Health
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0FiWXhSR1Z2Z1lRbTR2RTk5TWdZRjdLOVJXTm9zTkRHVTdzOG5Ndl9SZkRDUG4wYmNqcXNUS3U5ZmJid21GVlIxNVEyOG1hLXM4cFUyREJReGliYzIxSGdiTnFSaEktcWR0dVduZFBad0hRd0RPbDVmRTc5clltaEhKTHkwZ2NlRzQ4Y09CeXJrQ3oxbnRNRmZtMFU1RnMxT2hYS19QRlg0Ynh2WC02WTlfRDMyU3BLT2JLb01lZFVHUdIBxwFBVV95cUxPRzVoak1oblNsR3ZTYTNPSDNsMTNFMjRUWnlET0lJbHYxbktjU0tBcHRncHRwWUxMRVpna05tXzBJTmhKN0JBbElNMVp2Wk1BMWstdGpHRDIzQnpNdkh2U3RxaHp5WHNnSG1IbmVaVm5pWjZ2QmlBaWZJcGc3QVNjcG0zdXJsYUJaSUxBYU1NMllQa0JVUEw1Y2xVVDhqUk9UWkU1S0tIV2pjWW1NNy13SnR6amZrTE9LTi1scUk1UlFFVk5SYVNj?oc=5
+
+- Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries - CNBC
+  The tech sector is in a sell-off on
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw?oc=5
 
 - Honeywell Technologies Launches Forge Cognition with NVIDIA and Dell Technologies, Advancing Physical AI Across Buildings and Industrial Operations - Honeywell
   Honeywell and NVIDIA are teaming up to create Forge Cognition. The
   🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxOeTRyTTZZSXZWSGVQRjVmUEdzb05ta2RzZEhUSWdoU0JIUDVXNnV6Z2YwZ3lITGdUSUcwWTB1Z3l2bFJiX3EzaHp3WVlILXJfTzZkZHJmazE4cHZQTWhPY05HLVJnaFQteFBQempGOHB3Q21LMkR1d1FIM2VCem1JUTNRU09RTnZOalJGOXl3aU81WUJFSXhhQ2wxTFdlUTc3bkpFZWF4LWdMVmZwN2VNek44ODE0bW5KY0JLUDhZQTcteHVoOG1OaGY0eFd5VmhmWGo3YkF6Q0pXMllqVnBlcXJONW15S0JYRUFZaHh4bGhCQ3dOSF9TeGZ0aEF0amZQYlJQQ0RqWTFQa2NJLVlhalhHMDlhN3NwLWF5NVdOc2FtbkJiQ3QyamxpRDUzY3M?oc=5
 
-- Online ads weaponised to deliver ‘zero-click’ spyware, researchers say - The Guardian
-  Online ads weaponised to deliver ‘
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1RpeTl2ZWhPMDFLZndVR2V4bUJ2U2g4UHN3MXFKN0JaOGdnVnZ1dmJ6RUcxUXd5M3VOakJyV2UtemlGWWhjaTEwR1NmRGVXei1BZnp2eko0V3JReFB3NzFwYmsxNzFaYTFYSFNTSGlJa3pUMC1tM2c0d2dhbUZlZzc5aWloR3U5eHJWUW9WNVcxaWUwb2NueUM1bkRJVGZuRWFiVlU1RTU5VlNHREI1WmduRnNwaHg5ZmhSRTVWanhIaDhqeW4xYXJpMHoxTHdw?oc=5
+- California orders lenders to report on their handling of insurance payouts to LA fire survivors
+  California orders lenders to report on their handling of insurance
+  🔗 https://www.livemint.com/companies/california-orders-lenders-to-report-on-their-handling-of-insurance-payouts-to-la-fire-survivors-11792095888062.html
 
-- AI credit jitters drive US tech default insurance to record highs - Reuters
-  AI credit jitters drive US tech default insurance
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5
+- CoreWeaves slump spotlights growing burden of debt behind AI boom
+  CoreWeave's slump
+  🔗 https://www.livemint.com/companies/coreweaves-slump-spotlights-growing-burden-of-debt-behind-ai-boom-11792094289087.html
 
-- Tech Mahindra maintains edge over Wipro in September quarter
-  Wipro reported its slowest second-quarter growth in three years. Tech
-  🔗 https://www.livemint.com/companies/company-results/wipro-tech-mahindra-quarterly-results-11792069655235.html
+- Canada’s Joly Threatens to Force Cleveland-Cliffs Asset Sale
+  Canada’s industry minister said the government has the power to try to force Cleveland-Cliffs Inc. to sell its assets the country.
+  🔗 https://www.livemint.com/companies/canadas-joly-threatens-to-force-cleveland-cliffs-asset-sale-11792091910331.html
 
-- Tata Trusts challenges Mehli Mistry’s right to contest trustee changes, cites expiry of tenure: Report
-  The dispute over trustee appointments and the administration of the philanthropic institutions was heard before
-  🔗 https://www.livemint.com/companies/news/tata-trusts-challenges-mehli-mistry-s-right-to-contest-trustee-changes-cites-expiry-of-tenure-report-11792075496795.html
+- ADB, govt of Japan sign financing pact with AM Green Ammonia
+  The deal includes a $100 million JICA-financed loan to help build
+  🔗 https://www.livemint.com/companies/news/adb-govt-of-japan-sign-pact-with-am-green-ammonia-11792074344102.html
 
-- Satya Nadella recalls employee he failed to help early in his career : ‘I was an absent leader barking orders’
-  Microsoft CEO Satya Nadella has reflected on an early management failure. He failed to recognise an
-  🔗 https://www.livemint.com/companies/news/satya-nadella-recalls-employee-he-failed-to-help-early-in-his-career-i-was-an-absent-leader-barking-orders-11792070800307.html
+- Air India CEO Tewolde Gebremariam sets up committee to explore cost cuts, team mergers and lower office lease expenses
+  Air India CEO Tewolde Gebremariam has formed a committee to explore cost cuts. The move comes as the airline's consolidated loss
+  🔗 https://www.livemint.com/companies/news/air-india-ceo-tewolde-gebremariam-sets-up-committee-to-explore-cost-cuts-team-mergers-and-lower-office-lease-expenses-11792078317436.html
 
-- Origin raises $20 million from Accel, Zacua to scale construction robotics in the US, Europe
-  Deeptech startup plans to deploy 150 autonomous robots by next year. Western contractors up to 20% savings amid
-  🔗 https://www.livemint.com/companies/start-ups/origin-raises-20-million-from-accel-zacua-to-scale-construction-robotics-in-us-europe-11792047136480.html
+- Dollar Wraps Its Worst Day in Over a Month on AI Risk Concerns
+  The dollar fell the most in more than a month, er
+  🔗 https://www.livemint.com/market/dollar-wraps-its-worst-day-in-over-a-month-on-ai-risk-concerns-11792096933892.html
 
-- Fairfax to bring IIFL Capital, Digit under IDBI Bank after  ₹52,878 crore acquisition, build financial services group
-   Fairfax plans to transfer its stakes in IIFL Capital Services and Digit to IDBI Bank. The restructuring will cover banking, insurance, investment banking and wealth management.
-  🔗 https://www.livemint.com/companies/news/fairfax-to-bring-iifl-capital-digit-under-idbi-bank-after-rs-52-878-crore-acquisition-build-financial-services-group-11792069285653.html
+- Global stocks flat as AI and rate fears hit tech
+  Global stocks flat as AI
+  🔗 https://www.livemint.com/market/global-stocks-flat-as-ai-and-rate-fears-hit-tech-11792094723624.html
 
-- Wipro ADRs surge 5% to two-month high despite Q2 profit dip: Is anti-AI trade driving gains?
-  Wipro ADRs rose 5% to a nearly two-month high despite muted September-quarter results. The company forecast Q3 IT services revenue of $2.571 billion to $2
-  🔗 https://www.livemint.com/market/stock-market-news/wipro-adrs-surge-5-to-two-month-high-despite-q2-profit-dip-is-anti-ai-trade-driving-gains-11792075444652.html
+- Brent steady as US weighs easing sanctions on global shadow fleet
+  Brent steady as US weighs
+  🔗 https://www.livemint.com/market/brent-steady-as-us-weighs-easing-sanctions-on-global-shadow-fleet-11792091117388.html
 
-- Textile stocks’ dividend race: Premco Global, Monte Carlo, Siyaram, Ambika Cotton - Which stock spins highest yield?
-  Premco Global posted the highest one-year dividend yield at 9.5%, boosted by a special dividend. Indian textile stocks
-  🔗 https://www.livemint.com/market/stock-market-news/textile-stocks-dividend-race-premco-global-monte-carlo-siyaram-ambika-cotton-which-stock-spins-highest-yield-11792073022730.html
+- Indian mutual funds stop bulk subscriptions to gold ETFs ahead of festive season
+  Indian mutual funds stop bulk subscriptions to gold ETF
+  🔗 https://www.livemint.com/market/indian-mutual-funds-stop-bulk-subscriptions-to-gold-etfs-ahead-of-festive-season-11792090568726.html
 
-- Jio Platforms IPO: Uday Kotak draws interesting link between Reliance’s 1977 listing and Jio market debut
-  Kotak was told it was part of the IPO marketing campaign for Reliance Textile Industries, founded by Dhirubhai Ambani.
-  🔗 https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-uday-kotak-draws-interesting-link-between-reliance-s-1977-listing-and-jio-market-debut-11792073601149.html
+- Stock split record date: Last day to buy today to qualify; This stock has surged 5,123% in three years - Do you own it?
+  Jattashankar Industries has announced a 1:10 stock split, converting each  ₹10 share into 10 shares with a face value of Re 1 each.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-split-record-date-last-day-to-buy-today-to-qualify-this-stock-has-surged-5-123-in-three-years-do-you-own-it-11792081531830.html
 
-- SK Hynix stock: Up big in H1, down 58% from peak in H2 — is the AI boom losing steam?
-  SK Hynix has plunged 58% from its summer peak as investors reassess the AI-driven memory boom. Concerns include Chinese rival CXMT’s
-  🔗 https://www.livemint.com/market/stock-market-news/sk-hynix-stock-up-big-in-h1-down-58-from-peak-in-h2-is-the-ai-boom-losing-steam-11792070818588.html
-
-- Q2 results: Tech Mahindra dividend, bonus shares - Double delight for 7 lakh investors | Payout, ratio, record date
-  Tech Mahindra reported a 32.74% year-on-year rise in Q2 FY27 net profit to  ₹1,585.6 crore
-  🔗 https://www.livemint.com/market/stock-market-news/q2-results-tech-mahindra-dividend-bonus-shares-double-delight-for-7-lakh-investors-payout-ratio-record-date-11792060760425.html
+- Why CoreWeaves troubles are rattling the AI boom
+  CoreWeave's troubles
+  🔗 https://www.livemint.com/technology/why-coreweaves-troubles-are-rattling-the-ai-boom-11792091910736.html
 
 - OnePlus Ace 7 may launch in India as OnePlus 16R with built-in cooling fan, 9,000mAh battery
   The handset is tipped to feature a 185Hz OLED display and a 9,000mAh battery. It could run on the Snapdragon 8 Elite Gen 5 chipset and feature a 200MP primary camera.
@@ -96,69 +100,73 @@
   Apple's iPhone Duo inner display replacement costs $999 in the US. Samsung's Galaxy Z Fold 8 inner-screen repair costs $419. AppleCare+ cuts the
   🔗 https://www.livemint.com/technology/iphone-duo-inner-screen-repair-costs-999-more-than-twice-the-galaxy-z-fold-8s-cost-11792038122190.html
 
-- Global financial watchdog calls for more human oversight of agentic AI
-  
-  🔗 https://www.livemint.com/technology/global-financial-watchdog-calls-for-more-human-oversight-of-agentic-ai-11792036879056.html
-
-- Dow jumps 400 points, Nasdaq slides as investors rotate out of tech shares: Live updates - CNBC
-  Dow jumps 400 points, Nasdaq slides as investors rotate out
+- Dow rises more than 500 points as investors rotate away from AI trade: Live updates - CNBC
+  Dow rises more than 500 points as investors rotate away from AI
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5
 
-- Stocks Fall as AI Rout Spurs Flight to Treasuries: Markets Wrap - Bloomberg.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVhucmhFR3lJaktOV202ZDNObUVrTmJpZzcxVi1zYjVFckhBNUtkeHdzb2p5cHZGRi10cDVCYUpJT1l3QmpkTmRGeWlLV3ExSzBnRllBQThjN1cxenVQWVg5MnN1WHdNbHBpZG1rQmg3bjhwUWI4c3lPV21hUzRWZkRWcXR2QnpkTWZKTFZEemFmVTh5?oc=5
+- Stock market today: Dow jumps 600 points, S&P 500, Nasdaq rise as tech pares losses, Treasury yields sink - Yahoo Finance
+  The Dow jumped 600 points, S&amp;P 500, Nasdaq rise as
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXMtT0xubkZXQmJFT1dISGM1VFFqOGdIWmxYOXhTV005LWVDNEw0UmNCVHd1d09ycUxoNWJJWF9BRlRMdG50WU92Mm9PSHloUHVOaExscWlJWmZPbnA2WlQ2MjQyVGZXNzR2Ui1jSmZ5UWZpc0hxN2xpYkd3dGc5Wlp2enA5c2g5aHkxdzlJQlgxUVFTZGVuVkpLWmJ3Q3hJWUpYNEpZMEk3VHg2VDU1V0Q1Z0gyZXV5SjVXMV9xMWxaYUZzU1ptNl9KOTM?oc=5
 
-- Stock Market Today: Nasdaq Sinks as Tech Selloff Continues; AI-Tied Stocks Tumble Further; Wholesale Prices Come in Well Above Expectations - Investopedia
-  Nasdaq Sinks as Tech Selloff Continues; AI-Tied Stocks
+- Stock Market Today: Dow Ends Up 550 Points as Investors Rotate Out of Tech Stocks; Wholesale Prices Top Expectations - Investopedia
+  Dow ends up 550 points as Investors Rotate Out of Tech Stocks. Wh
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVFEYWJaUU5zbkJodmVHRWNMU1VMSmNmN0NsZXdldlA1Nk1LSFJjV0c4T3UxSkRJSW1sV0tVVmUwTWx4eGV6MEJMelRjNGhGRXhUakN5NXNqbUlfUzJBUXlFeXhoRV9RdTBIT2UyT1BTWmNQUWF1Mk5sb21yWnA5dk1KYV9mOGRKOXdtZ3lTeW4?oc=5
 
-- Stellantis to invest ₹4,000 cr, plan 12 India launches, triple market share by 2030 - The Hindu
-  Stellantis to invest ₹4,000 cr,
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZmVBV1JTQW5yVHZLdXNTakt4bnFlVEhZeW0zU3ZDTlhmNkpQeEVNTEpzV3NfaVBrVURUV3RVY1pCbHhqMkJRb2JiV3NoT1kwRGhxcTBZdXVtUnhxVHVaTHR2X3BqQlVFeWRJOS1IMGdSdGgtbEdWY3BFUk5zSjJHekFWWFVQWml1ejV5Rm5HcnJKNmVHUktfSjhKeTN1dzZsNzFBd0w1aGZsNWppZzlrbXRDUlVDSjl2V0JGLTB1bHRaOVlEZVRWWTJuU2pGYmVaODJldzVXcnBDZ9IB4AFBVV95cUxPMWhQVTJsbTB3UktsWDhYcWJWMUdPMmRRNC16SG9fMmFkZjNEQjkyY3o1ZFJvRHVPZk0tdU0zTXN3ZkNqYTdZUlRPaGVWcGlaNGM4ZTNyWVZKZ05Jc1JZU2poN1RDYjAteFdhQm9FaVVmTUZXMmVxcXRPTUI0RmtHMnpHMHRnbFRDOFpDdWV0SXQ5MjNxN3BMdURXNEhJMDZucGhScGdOTUY1WFF5WFYxTXhkWHBUUWNrbTZCZnBjTm9CU0hTd29EU3l2SmZhU01sejVEZmpjbF9rdzlLT3llZQ?oc=5
+- Large, mid or small-cap mutual funds: Where should you invest a lumpsum amid volatile markets? - Moneycontrol.com
+  Moneycontrol.com: Where should you invest a lumpsum
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRmZGY1pFQ3dWUG9ESk1QbXlJWlV4ZEY2cjZXMGtfZXU2N1daSDg3aEQzbHViWm5tZEFYaUt0MFZpeFJ3UEhucGxSSkVoZFBHQzRqYnE4MUJJcHpQY01rdFJVSklWZ3ZqaWs2Y2hzVWdRWjlBamM1a01NYloxN1JWYWJYWTNuZmdBS3hMMkE5V0ROY1Zzc3BXVXFFbERpanloa2xpX2VibEo2LWZaTnFBLTZjQVA2ZTNwUVd0WmUxemZPX1h0d0xjb2F4bGF4TTNtUHNOVEJ3R1pXR1gycFVaQkJBY0JUcUdMd3RZNloyWnpzTV9lZlo2ag?oc=5
 
-- Market Trading Guide: Adani Power among 2 stock recommendations for Friday - The Economic Times
-  The Economic Times: Adani Power among 2 stock recommendations
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZXBhVF9xZFdNSGF0QUZaR1NyNzVBZXYyb0VzaDloTG5xUk9UX0lHSDRVUWIyVnpnWHRHbVRCMG55dnBWXzBfOVNOYVVQWDZMZDU1VVRXOGF2OUpaYUpqOFJCZWx6TElHdWNjM2RER0E2eXlnU0xIN3ZNSHJPZUZ4NDhyTFpmc0lsZTZOQ2tXcVZIZWc4bUFQdHphdmpoX0lySVZwWDdqamFYUXk0MmZjU0J0eFRaWVlBVGdYOGhmdFZVczdQdnFla05sMkY2R3d5ZERzd2tzaFdNUC1uY2tGeXNJZTZTQXo3QUtiMw?oc=5
+- India's markets regulator passes final orders in Rajesh Exports case - Reuters
+  India's markets regulator passes final orders in
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzduZDZNUFg0a2Q2YXFzaFpxVktGZUZZQk45WEthSlEyTzF2TGtheUd2bm14bXJmZmU2YnVuYnNsTU9GUHo1UEVaWF9SZ044MWNyUjVJa2dnRU9HbjltSVB1YUZaa1pzREF4LXNxal9EMVJDV2ZJYmhPZ0xSODBTaGpTbGdzbDZBcXJrVGxKeUZkcHBzRl84UkoyeHdoSERtTnRQcGRfeHpQdEhCb3Y5M0tB?oc=5
 
-- Pernod Ricard India sales grow 19% in Sept qtr; IPO plan awaits board approval
-  Pernod Ricard has demonstrated remarkable sales growth of 19 percent in India for the September quarter. Despite declines in the US and China, India remains a focal market.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/pernod-ricard-india-sales-grow-19-in-sept-qtr-ipo-plan-awaits-board-approval/articleshow/134971473.cms
+- US stocks: Dow, S&amp;P 500 end higher as traders shift from AI to healthcare
+  The S&amp;P 500 experienced a resurgence, largely spurred by investments in the healthcare and consumer segments. Investors seemed to distance themselves from technology stocks, anxious about mounting debts in the AI sector.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-traders-shift-from-ai-to-healthcare/articleshow/134976395.cms
 
-- Market Trading Guide: Adani Power among 2 stock recommendations for Friday
-  Analysts recommend Bajaj Holdings and Adani Power for Friday. Indian equities rallied as global technology stocks weakened amid AI valuation concerns and US inflation worries.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-power-among-2-stock-recommendations-for-friday/articleshow/134971119.cms
+- AI stock selloff eases as investors buy on dips amid falling bond yields
+  Major AI laboratories like Anthropic and OpenAI reflected slowing growth. Stock movements varied among leading companies as interest rates influenced market dynamics.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stock-selloff-eases-as-investors-buy-on-dips-amid-falling-bond-yields/articleshow/134976163.cms
 
-- Jio Financial Services Q2 Results: PAT drops 51% YoY to Rs 340 crore; NII soars 165%
-  Jio Financial Services reported a 51% year-on-year decline in Q2 FY27 profit to Rs 340 crore. Its NBFC business delivered 140% profit growth
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-services-q2-results-pat-drops-51-yoy-to-rs-340-crore-nii-up-132/articleshow/134970520.cms
+- US stocks: Nasdaq reports network disruption, US equities data feeds impacted
+  A technical issue has caused data gaps within several multicast groups. Clients are urged to transition to backup feeds from Chicago to avoid impacts.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-reports-network-disruption-us-equities-data-feeds-impacted/articleshow/134973019.cms
 
-- What Akash Ambani said on Jio tariff hikes ahead of record IPO launch
-  Jio aims to expand margins and connect 100 million homes. Akash Ambani said Jio can raise mobile tariffs but prefers growing revenue through digital services,
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/what-akash-ambani-said-jio-tariff-hikes-ahead-of-record-ipo-launch/articleshow/134970180.cms
+- S&amp;P 500’s road to 8,000 grows tougher as yields rise, AI doubts mount; all eyes on quarterly earnings
+  The rise in oil prices and bond yields has increased market uncertainty. Major technology companies have reported mixed outcomes. Analysts suggest a growing divide in market performance among large and small companies.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sp-500s-road-to-8000-grows-tougher-as-yields-rise-ai-doubts-mount-all-eyes-on-quarterly-earnings/articleshow/134972502.cms
 
-- Jio IPO: Valuation, GMP &amp; Key Numbers of Ambani’s Telecom Giant Decoded
-  
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-valuation-gmp-key-numbers-of-ambanis-telecom-giant-decoded/videoshow/134970140.cms
+- Sebi writes to IRDAI to include investors' insurance policy details in consolidated account statement
+  Sebi Chairman Tuhin Kanta Pandey announced efforts to include insurance information in the Consolidated Account Statement. The initiative aims to provide investors with a comprehensive financial overview of their investments.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-writes-to-irdai-to-include-investors-insurance-policy-details-in-consolidated-account-statement/articleshow/134972194.cms
 
 - Actor Imran Khan ordered to leave India after participating in protest - BBC
   Actor Imran Khan ordered to leave India after participating
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
 
-- Anti-CEC protest: Actor Imran Khan issued notice, asked to leave India by October 28 - The Hindu
-  Actor Imran Khan issued notice, asked to leave India by October 28
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDdvQnNUaHZ4MzZ6VWx3cmxBN2lyMVM4b2JwTzNPMGp1OTNJQko2SUxtd2lsdDhQYThjRGdrQUNLUzN5VVhnd0R1VHp2TGxSUDMtaEwxMDVpazM1b0d3c29YQk5wMllhcFFDZ2pyc2R4OElZMW5nZEk1NGxwM0NVX1ZvRUV2NzZxRnZsTUd1VnpVeXdYOFZqc3FUS2NTcE8yZVFNWVp1VFJ5Z2M3Tnp3b0Y0bTgzZENpejlPbUtXUlZJbzY2cGfSAcwBQVVfeXFMT3NSVzlsT29Hb3NjZGtkdURiWlRINGNrNTNkbEhxU1lmQU1VazFSZzJjVDNXMS1zRzhDb3Q0b1lHdXJyQmlWTDhFNGRSckJOYlJwM29idVVFWEhBYlcyZ05hSW1mbWNtN0ZCQVlFTm5YZTFlLWEzalBES2pvX1VZTVJmXzlIcTdXaHFvNUpvVnJ0QXRlSWJIZmRRaVJydUJoX1JSakswQnZLNG8tQzktSWl2ZFlUS1hoRF9SV19SOC1xZUczSU9OZ2FxNVRr?oc=5
-
 - Actor Imran Khan To Challenge 'Leave India' Order In Bombay High Court - NDTV
   Actor Imran Khan To Challenge 'Leave India' Order
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUVDYUh2VTZwSlFua3oxcENTZjZhdEJTNDNDLUVjWldGTElZS3RuemZXNk1zUlN3NVdUdWxOd2FzRXhKNDhMYW4wTnlwOUtoWnBiNnNiRjFiN0ZXcFhKaGFMLXVrV1NkWGVwdjlpcE93MmpCRHpEWVRQdWI4WTZYc01kYTFuX0wyaFhDa3A2VTByQ1ZvVWlmUExBZXM4M1NKMlBPekxnRGpuN1A1R1HSAbYBQVVfeXFMUHlnV011S0VaQjBqY24tbkRhajM5Nm5BUjJJME80WGN2VXNCMGM1TmwzaHdUSTNFbEZocUh3OUVBUkFoX19naXBOTEFMN2VpRWtCWUdqNGJpSWJyRUlIdWpNZUJWV3ZPbUJ4MGdEOUh4LUVJQ1B2UC0tM2g4T0JmdXpLczkwUnd3UTN4Wi1MSHlRSXFvd2JwZmd5dmtjMG1pdzV6VUNIR3VfdkRhNTVLUGZEZ3VMc2c?oc=5
+
+- Bollywood actor Imran Khan asked to leave India after participating in protest, media says - Reuters
+  Bollywood actor Imran Khan asked to leave India after participating in
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxONkJPS0gxbDFyUUhGSlZVRThBVHgxaWk5bUstV1NDU3pMb3YyOG4teTlUZk04bVluNU1KN2lMclo4OUc0azhSRzBUYTNVdGZRdVBPVVFzVlFhTV8yMjB3SEZUcVpaYnFVbHd6QTV0SFVqUUlYZ25KQUJKX0tYa1pMU044eFhobzhudDlOSnNEazN1T2RmN1Z1MEJ1cnpOQzJLS0NDZG5ZNlM1U0VSSnV4d0NpcUd5ZndnZF9zakJhdy1fVTBMbm1zb3l2cXUzTDFFVE1j?oc=5
+
+- Is India-US Trade Deal Near The Finish Line? - Rediff
+  Is India-US Trade Deal
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPMm1qckFzT0ZBb0MxaUlNUlNsaVYwTWFwZXFrVUxYS21qT1Z6OENUdkVUZFNlYW40Q3FkTjlHUkdBZXdVd0diOU9FQ2xvYk5ZelpVM1R0X1d0WjB2bjJhcF9weGxES1U0X2J0anpCd2t2SGhUY0ZlVmJhTDFNNEtUd0l3blZ4WXIzaFM3anNabkk0RnZiX3fSAZgBQVVfeXFMT29Zb2U0ejFJVXZyeVdSb0FBYnh5SEpEdEU2ck1heHMyT3JocVFraXBnekJNN2pGQ2V6b2Q4YXBlS1Z6YnJaMkc0dlVwY3ItTTgwWUczSzZoRVJCbmNIUnpHUU5nZ19xcTk4SEx5MXFsdmU2dkJFYjdZdks0OU5pa08wOFVSamU0djQ4dkZfTGtwTU83TEhfVlA?oc=5
 
 - First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
   First Tranche Of India-US Trade Deal Final
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
 
-- 'Very Close, Will Happen': US Envoy Sergio Gor To NDTV On Trade Deal - NDTV
-  'Very Close, Will Happen': US Envoy
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkpTdld6eW1uOWQtTGRfSW9GdE5GTnZmMGFSaVdkNnRHZFVib0dZcGhzbDZ2ZlU2ZmFweU5MRFZuR1VVVWV6S0JQbTctSmxxXzZRZkstTHhLRVYxN21QYTJmSnB3QmlkSllCWTNsdjVUd05Tb0U5S1lrNVdvLW5QSU8xQW1JTG00ZDFsMWtKdHBuVk1UYl9rdE9QSkpYeWQxVEo5R29QXzTSAbABQVVfeXFMTXV2cGZMdkJOOEluY3NEUWZKNGl3Ym9MMUVfR3JUdWNQcExNVV9paWV2Zk9DNlkzYW9RMTRDUDFjQmZOdW5ycGhMcHdubEo4SUZOREJ4U0o1SnFBQXJUMmR0LUtsREF6ekp5Ullra0J0N3pOVTlRb1BWa1I1aWtJMDlMRzhfRnc0LUU4eDhfdHRuOThmOFh6enBIRk9mUnB1MzVDN0dwbHRwc2MyMEZSeHM?oc=5
+- Flipkart Group FY26: Revenue Nears ₹1.5 Lakh Cr, Loss Narrows To ₹8,468 Cr
+  Flipkart Group reported 18.2% jump in consolidated revenue from operations to ₹1.45 Lakh Cr in the fiscal year 2025-26.
+  🔗 https://inc42.com/buzz/flipkart-group-fy26-revenue-nears-%e2%82%b91-5-lakh-cr-loss-narrows-to-%e2%82%b98468-cr/
+
+- Origin Bags $20 Mn To Build Autonomous Construction Robots
+  Robotics startup Origin has raised $20 Mn (around ₹189 Cr) in a funding round.
+  🔗 https://inc42.com/buzz/origin-bags-20-mn-to-build-autonomous-construction-robots/
 
 - [Update] Zetwerk IPO Subscribed 23% On Day 1
   B2B manufacturing company Zetwerk’s IPO received muted response on day one as it was subscribed.
@@ -172,53 +180,45 @@
   Tonbo Imaging’s ₹852 Cr IPO was oversubscribed 4X at the end of the day.
   🔗 https://inc42.com/buzz/tonbo-imaging-ipo-subscribed-1-47x-on-day-1-so-far-niis-lead-demand/
 
-- Exclusive: Shopify To Bring Accelerated Checkout Service ‘Shop Pay’ To India
-  Shopify is preparing to bring its accelerated checkout product, Shop Pay, to India by the first quarter.
-  🔗 https://inc42.com/buzz/shopify-to-bring-accelerated-checkout-service-shop-pay-to-india/
-
-- Udaan’s FY26 Revenue Rises 13% To ₹5,134 Cr, Loss Narrows To ₹852 Cr
-  B2B ecommerce unicorn Udaan’s operating revenue grew 12.6% to ₹5,134 Cr in the financial year ended March 2026.
-  🔗 https://inc42.com/buzz/udaans-fy26-revenue-rises-13-to-%e2%82%b95134-cr-loss-narrows-to-%e2%82%b9852-cr/
-
 - Actor Imran Khan ordered to leave India after participating in protest - BBC
   Actor Imran Khan ordered to leave India after participating
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
-
-- Anti-CEC protest: Actor Imran Khan issued notice, asked to leave India by October 28 - The Hindu
-  Actor Imran Khan issued notice, asked to leave India by October 28
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDdvQnNUaHZ4MzZ6VWx3cmxBN2lyMVM4b2JwTzNPMGp1OTNJQko2SUxtd2lsdDhQYThjRGdrQUNLUzN5VVhnd0R1VHp2TGxSUDMtaEwxMDVpazM1b0d3c29YQk5wMllhcFFDZ2pyc2R4OElZMW5nZEk1NGxwM0NVX1ZvRUV2NzZxRnZsTUd1VnpVeXdYOFZqc3FUS2NTcE8yZVFNWVp1VFJ5Z2M3Tnp3b0Y0bTgzZENpejlPbUtXUlZJbzY2cGfSAcwBQVVfeXFMT3NSVzlsT29Hb3NjZGtkdURiWlRINGNrNTNkbEhxU1lmQU1VazFSZzJjVDNXMS1zRzhDb3Q0b1lHdXJyQmlWTDhFNGRSckJOYlJwM29idVVFWEhBYlcyZ05hSW1mbWNtN0ZCQVlFTm5YZTFlLWEzalBES2pvX1VZTVJmXzlIcTdXaHFvNUpvVnJ0QXRlSWJIZmRRaVJydUJoX1JSakswQnZLNG8tQzktSWl2ZFlUS1hoRF9SV19SOC1xZUczSU9OZ2FxNVRr?oc=5
 
 - Actor Imran Khan To Challenge 'Leave India' Order In Bombay High Court - NDTV
   Actor Imran Khan To Challenge 'Leave India' Order
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUVDYUh2VTZwSlFua3oxcENTZjZhdEJTNDNDLUVjWldGTElZS3RuemZXNk1zUlN3NVdUdWxOd2FzRXhKNDhMYW4wTnlwOUtoWnBiNnNiRjFiN0ZXcFhKaGFMLXVrV1NkWGVwdjlpcE93MmpCRHpEWVRQdWI4WTZYc01kYTFuX0wyaFhDa3A2VTByQ1ZvVWlmUExBZXM4M1NKMlBPekxnRGpuN1A1R1HSAbYBQVVfeXFMUHlnV011S0VaQjBqY24tbkRhajM5Nm5BUjJJME80WGN2VXNCMGM1TmwzaHdUSTNFbEZocUh3OUVBUkFoX19naXBOTEFMN2VpRWtCWUdqNGJpSWJyRUlIdWpNZUJWV3ZPbUJ4MGdEOUh4LUVJQ1B2UC0tM2g4T0JmdXpLczkwUnd3UTN4Wi1MSHlRSXFvd2JwZmd5dmtjMG1pdzV6VUNIR3VfdkRhNTVLUGZEZ3VMc2c?oc=5
 
+- Bollywood actor Imran Khan asked to leave India after participating in protest, media says - Reuters
+  Bollywood actor Imran Khan asked to leave India after participating in
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxONkJPS0gxbDFyUUhGSlZVRThBVHgxaWk5bUstV1NDU3pMb3YyOG4teTlUZk04bVluNU1KN2lMclo4OUc0azhSRzBUYTNVdGZRdVBPVVFzVlFhTV8yMjB3SEZUcVpaYnFVbHd6QTV0SFVqUUlYZ25KQUJKX0tYa1pMU044eFhobzhudDlOSnNEazN1T2RmN1Z1MEJ1cnpOQzJLS0NDZG5ZNlM1U0VSSnV4d0NpcUd5ZndnZF9zakJhdy1fVTBMbm1zb3l2cXUzTDFFVE1j?oc=5
+
+- Is India-US Trade Deal Near The Finish Line? - Rediff
+  Is India-US Trade Deal
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPMm1qckFzT0ZBb0MxaUlNUlNsaVYwTWFwZXFrVUxYS21qT1Z6OENUdkVUZFNlYW40Q3FkTjlHUkdBZXdVd0diOU9FQ2xvYk5ZelpVM1R0X1d0WjB2bjJhcF9weGxES1U0X2J0anpCd2t2SGhUY0ZlVmJhTDFNNEtUd0l3blZ4WXIzaFM3anNabkk0RnZiX3fSAZgBQVVfeXFMT29Zb2U0ejFJVXZyeVdSb0FBYnh5SEpEdEU2ck1heHMyT3JocVFraXBnekJNN2pGQ2V6b2Q4YXBlS1Z6YnJaMkc0dlVwY3ItTTgwWUczSzZoRVJCbmNIUnpHUU5nZ19xcTk4SEx5MXFsdmU2dkJFYjdZdks0OU5pa08wOFVSamU0djQ4dkZfTGtwTU83TEhfVlA?oc=5
+
 - First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
   First Tranche Of India-US Trade Deal Final
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
-
-- 'Very Close, Will Happen': US Envoy Sergio Gor To NDTV On Trade Deal - NDTV
-  'Very Close, Will Happen': US Envoy
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkpTdld6eW1uOWQtTGRfSW9GdE5GTnZmMGFSaVdkNnRHZFVib0dZcGhzbDZ2ZlU2ZmFweU5MRFZuR1VVVWV6S0JQbTctSmxxXzZRZkstTHhLRVYxN21QYTJmSnB3QmlkSllCWTNsdjVUd05Tb0U5S1lrNVdvLW5QSU8xQW1JTG00ZDFsMWtKdHBuVk1UYl9rdE9QSkpYeWQxVEo5R29QXzTSAbABQVVfeXFMTXV2cGZMdkJOOEluY3NEUWZKNGl3Ym9MMUVfR3JUdWNQcExNVV9paWV2Zk9DNlkzYW9RMTRDUDFjQmZOdW5ycGhMcHdubEo4SUZOREJ4U0o1SnFBQXJUMmR0LUtsREF6ekp5Ullra0J0N3pOVTlRb1BWa1I1aWtJMDlMRzhfRnc0LUU4eDhfdHRuOThmOFh6enBIRk9mUnB1MzVDN0dwbHRwc2MyMEZSeHM?oc=5
 
 - Actor Imran Khan ordered to leave India after participating in protest - BBC
   Actor Imran Khan ordered to leave India after participating
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
 
-- Anti-CEC protest: Actor Imran Khan issued notice, asked to leave India by October 28 - The Hindu
-  Actor Imran Khan issued notice, asked to leave India by October 28
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDdvQnNUaHZ4MzZ6VWx3cmxBN2lyMVM4b2JwTzNPMGp1OTNJQko2SUxtd2lsdDhQYThjRGdrQUNLUzN5VVhnd0R1VHp2TGxSUDMtaEwxMDVpazM1b0d3c29YQk5wMllhcFFDZ2pyc2R4OElZMW5nZEk1NGxwM0NVX1ZvRUV2NzZxRnZsTUd1VnpVeXdYOFZqc3FUS2NTcE8yZVFNWVp1VFJ5Z2M3Tnp3b0Y0bTgzZENpejlPbUtXUlZJbzY2cGfSAcwBQVVfeXFMT3NSVzlsT29Hb3NjZGtkdURiWlRINGNrNTNkbEhxU1lmQU1VazFSZzJjVDNXMS1zRzhDb3Q0b1lHdXJyQmlWTDhFNGRSckJOYlJwM29idVVFWEhBYlcyZ05hSW1mbWNtN0ZCQVlFTm5YZTFlLWEzalBES2pvX1VZTVJmXzlIcTdXaHFvNUpvVnJ0QXRlSWJIZmRRaVJydUJoX1JSakswQnZLNG8tQzktSWl2ZFlUS1hoRF9SV19SOC1xZUczSU9OZ2FxNVRr?oc=5
-
 - Actor Imran Khan To Challenge 'Leave India' Order In Bombay High Court - NDTV
   Actor Imran Khan To Challenge 'Leave India' Order
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUVDYUh2VTZwSlFua3oxcENTZjZhdEJTNDNDLUVjWldGTElZS3RuemZXNk1zUlN3NVdUdWxOd2FzRXhKNDhMYW4wTnlwOUtoWnBiNnNiRjFiN0ZXcFhKaGFMLXVrV1NkWGVwdjlpcE93MmpCRHpEWVRQdWI4WTZYc01kYTFuX0wyaFhDa3A2VTByQ1ZvVWlmUExBZXM4M1NKMlBPekxnRGpuN1A1R1HSAbYBQVVfeXFMUHlnV011S0VaQjBqY24tbkRhajM5Nm5BUjJJME80WGN2VXNCMGM1TmwzaHdUSTNFbEZocUh3OUVBUkFoX19naXBOTEFMN2VpRWtCWUdqNGJpSWJyRUlIdWpNZUJWV3ZPbUJ4MGdEOUh4LUVJQ1B2UC0tM2g4T0JmdXpLczkwUnd3UTN4Wi1MSHlRSXFvd2JwZmd5dmtjMG1pdzV6VUNIR3VfdkRhNTVLUGZEZ3VMc2c?oc=5
 
+- Bollywood actor Imran Khan asked to leave India after participating in protest, media says - Reuters
+  Bollywood actor Imran Khan asked to leave India after participating in
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxONkJPS0gxbDFyUUhGSlZVRThBVHgxaWk5bUstV1NDU3pMb3YyOG4teTlUZk04bVluNU1KN2lMclo4OUc0azhSRzBUYTNVdGZRdVBPVVFzVlFhTV8yMjB3SEZUcVpaYnFVbHd6QTV0SFVqUUlYZ25KQUJKX0tYa1pMU044eFhobzhudDlOSnNEazN1T2RmN1Z1MEJ1cnpOQzJLS0NDZG5ZNlM1U0VSSnV4d0NpcUd5ZndnZF9zakJhdy1fVTBMbm1zb3l2cXUzTDFFVE1j?oc=5
+
+- Is India-US Trade Deal Near The Finish Line? - Rediff
+  Is India-US Trade Deal
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPMm1qckFzT0ZBb0MxaUlNUlNsaVYwTWFwZXFrVUxYS21qT1Z6OENUdkVUZFNlYW40Q3FkTjlHUkdBZXdVd0diOU9FQ2xvYk5ZelpVM1R0X1d0WjB2bjJhcF9weGxES1U0X2J0anpCd2t2SGhUY0ZlVmJhTDFNNEtUd0l3blZ4WXIzaFM3anNabkk0RnZiX3fSAZgBQVVfeXFMT29Zb2U0ejFJVXZyeVdSb0FBYnh5SEpEdEU2ck1heHMyT3JocVFraXBnekJNN2pGQ2V6b2Q4YXBlS1Z6YnJaMkc0dlVwY3ItTTgwWUczSzZoRVJCbmNIUnpHUU5nZ19xcTk4SEx5MXFsdmU2dkJFYjdZdks0OU5pa08wOFVSamU0djQ4dkZfTGtwTU83TEhfVlA?oc=5
+
 - First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
   First Tranche Of India-US Trade Deal Final
   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
-
-- 'Very Close, Will Happen': US Envoy Sergio Gor To NDTV On Trade Deal - NDTV
-  'Very Close, Will Happen': US Envoy
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkpTdld6eW1uOWQtTGRfSW9GdE5GTnZmMGFSaVdkNnRHZFVib0dZcGhzbDZ2ZlU2ZmFweU5MRFZuR1VVVWV6S0JQbTctSmxxXzZRZkstTHhLRVYxN21QYTJmSnB3QmlkSllCWTNsdjVUd05Tb0U5S1lrNVdvLW5QSU8xQW1JTG00ZDFsMWtKdHBuVk1UYl9rdE9QSkpYeWQxVEo5R29QXzTSAbABQVVfeXFMTXV2cGZMdkJOOEluY3NEUWZKNGl3Ym9MMUVfR3JUdWNQcExNVV9paWV2Zk9DNlkzYW9RMTRDUDFjQmZOdW5ycGhMcHdubEo4SUZOREJ4U0o1SnFBQXJUMmR0LUtsREF6ekp5Ullra0J0N3pOVTlRb1BWa1I1aWtJMDlMRzhfRnc0LUU4eDhfdHRuOThmOFh6enBIRk9mUnB1MzVDN0dwbHRwc2MyMEZSeHM?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +240,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Applying technology to understand and treat disease - blog.google
+  Applying technology to understand
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Jio to focus on technology monetisation, targets debt-free status - The Hindu
+  Jio to focus on technology monetisation
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2pITEZfUmZyc2lRMUpGbGNkM0NfWDZRZ3dETUducERGZHgwbmQwbk1YeUZZWlZBX0dna1pYc0pneWVfem9PSVVwTVYwa1lCTmp3RGF0UXlIbVE3bE9OZVBzS2Y0RlhuWUZtRWxTaHUweWR2YUxzMHlRVHFkSF92N0w2NklhWlNxVTlobnkwRFJvSm93Z0xVTnRwT21vRFhmMWstVFdDRWgtRUM2ZEx0bmpRUTVpX3NGQ2stblZjQUpoX0RVT3fSAcwBQVVfeXFMTUNURlljNE9JcXpWYWNYbFpSQVpXNUJUcWxuR3JSWWJ4TWE2dlN0d2M0SjQxQmZRaXlJNXBxYjZabXhmcWViOWxMeWJraWJoOEU2UHlwVUtyOEtMTlFZMGMtNVNjVXl3S1pUbllEbm94V1ZGaTlhZUZDUkNzSUg0RldtVFU4WmxoZzJHbThjeS1WZ25rN3pVTWhaR2k5MHAxTXhPYlh2YkI0X3QxNTRHektDMXVISlRTWURfd1BDZklIUDlEM0dzTnJSZ1ly?oc=5
+
+- UNICEF Femtech Ventures Frontier Technology Funding for Women’s Health - fundsforNGOs - Grants and Resources for Sustainability
+  UNICEF Femtech Ventures Frontier Technology Funding for Women's Health
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0FiWXhSR1Z2Z1lRbTR2RTk5TWdZRjdLOVJXTm9zTkRHVTdzOG5Ndl9SZkRDUG4wYmNqcXNUS3U5ZmJid21GVlIxNVEyOG1hLXM4cFUyREJReGliYzIxSGdiTnFSaEktcWR0dVduZFBad0hRd0RPbDVmRTc5clltaEhKTHkwZ2NlRzQ4Y09CeXJrQ3oxbnRNRmZtMFU1RnMxT2hYS19QRlg0Ynh2WC02WTlfRDMyU3BLT2JLb01lZFVHUdIBxwFBVV95cUxPRzVoak1oblNsR3ZTYTNPSDNsMTNFMjRUWnlET0lJbHYxbktjU0tBcHRncHRwWUxMRVpna05tXzBJTmhKN0JBbElNMVp2Wk1BMWstdGpHRDIzQnpNdkh2U3RxaHp5WHNnSG1IbmVaVm5pWjZ2QmlBaWZJcGc3QVNjcG0zdXJsYUJaSUxBYU1NMllQa0JVUEw1Y2xVVDhqUk9UWkU1S0tIV2pjWW1NNy13SnR6amZrTE9LTi1scUk1UlFFVk5SYVNj?oc=5
+
+- Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries - CNBC
+  The tech sector is in a sell-off on
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw?oc=5
+
+- Honeywell Technologies Launches Forge Cognition with NVIDIA and Dell Technologies, Advancing Physical AI Across Buildings and Industrial Operations - Honeywell
+  Honeywell and NVIDIA are teaming up to create Forge Cognition. The
+  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxOeTRyTTZZSXZWSGVQRjVmUEdzb05ta2RzZEhUSWdoU0JIUDVXNnV6Z2YwZ3lITGdUSUcwWTB1Z3l2bFJiX3EzaHp3WVlILXJfTzZkZHJmazE4cHZQTWhPY05HLVJnaFQteFBQempGOHB3Q21LMkR1d1FIM2VCem1JUTNRU09RTnZOalJGOXl3aU81WUJFSXhhQ2wxTFdlUTc3bkpFZWF4LWdMVmZwN2VNek44ODE0bW5KY0JLUDhZQTcteHVoOG1OaGY0eFd5VmhmWGo3YkF6Q0pXMllqVnBlcXJONW15S0JYRUFZaHh4bGhCQ3dOSF9TeGZ0aEF0amZQYlJQQ0RqWTFQa2NJLVlhalhHMDlhN3NwLWF5NVdOc2FtbkJiQ3QyamxpRDUzY3M?oc=5
 
 
-_Last updated: 2026-10-15 16:12:57 UTC_
+_Last updated: 2026-10-15 20:55:00 UTC_
