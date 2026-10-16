@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- Don't Join, Will Allow Only 11 Carrying Flag: Delhi Police On CJP's Connaught Place Protest - NDTV
-  The Delhi Police will allow only 11 people to carry the national flag
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxORGp3U29BOGllOHllbDdIM3U4Z0hmb0hRUUc3Rmd3eDcyRlc4WU1PNkZORzQwbWVXT3hza3Q3NjRJb0lEZ3lzTVF3cFhkQUszUTgtQy1ER21LTml3aFNmTTJOQktDaTNxU2JoU01xTzZHZU5RSFlES2MtUUNWYTY3VUZma1lrcUJzMW15T042R0dpekxITl83Y3hZcTFLaVg2Qm5CWDdCcjRWTEFQUTRweHlLVC1PdEEyQ1N2dGs0MV9wdEJrdEtmdWRFRHJ4WGJfRGlJdW9BTlHSAeABQVVfeXFMTnVZaWlxM2Nvc29zMEJBZ0htMFJjelZEb1B2TFpoYnlkNHpkbVVfUURIOXQ3VlQwZmFPNGJodE5TMUx4ME1LR0lkUDR0b2lCaTFGelg3VzRfUFNCeVNUbE5sMVZrYmdsNW04Rkg3RmU0MVhRWmtWcnV1LWZ3alpTb1ZKb2FpQWRBOTRGYTNJZHNDM0t3UmtfWTZOczRDbWlOVHk0OWw2ckJtSTRHQjhvcV8wbjhRU2JLc04xemtRYmZBcVNOTE1ETWpQZGZxOU9FeGNPbjEtUkdtTU1UZkp6eC0?oc=5
-
 - CJP, Abhijeet Dipke: India's 'cockroach' protesters set to return despite police crackdown - BBC
   &nbsp;&ngt;<font
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5
 
-- Anti-CEC protest highlights | Delhi Police says can allow small gathering at 'suitable place' ahead of CJP's 'Tiranga' protest; CP Central Park shut - The Hindu
-  The Hindu reports that the CJP is planning to hold a 'Tiranga' protest in New Delhi.
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObXQxZWpNQWtvaXdYTUo2S2dtcWpXQk5zSUV0bEhJdk9TLTczUDZtdHlCbGl3bjhqaDdBZm9DMFJtM1M4YmNEMndSOXVuVGpfd2xXZ1RJUGFtVFFDU1ozQmtFaEJpMEpEZGl6SDM1eUZ5OXFlOVd2bENNcmtQM1F1Ylc5N1FIbmt2d1loYTlYWnQwX3oyWXRnd3FRTG1DVjVpcUdiSFdUanIwdFg5YVJFWFR5UXZFLU5uMzRfVEMyNWU3RmNuVEVr0gHOAUFVX3lxTFB6cDUwTWNIbGxxdGUxMGdMUk9CcGRwa0VMWUg2a0RQMW9kWm8xTHVnc0pDVWdlN3dsMV9tRU5IdFZNQkNPbURDUk9oaUJlNE15SnJmdm1vWjFmLTNuM1ZyRWVQajJ5Ui1BeU9zaUVESl9Oc284TkxQOHE4ZkZDZGw5MHZKNHJGeTRWVXZlSURNaDY2ZGVJYlhVRU5VZTNBR3I0OXJNSTBDUjByY1NNXzhSNVFsRVNEX1JOVGdBMnNjNnVzYV9rY2xRUHNFdTNn?oc=5
+- First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
+  First Tranche Of India-US Trade Deal Final
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
 
-- Actor Imran Khan ordered to leave India after participating in protest - BBC
-  Actor Imran Khan ordered to leave India after participating
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
+- Trade Barriers A Hurdle To China-India Ties: Nirmala Sitharaman - NDTV
+  Nirmala Sitharaman is
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjluRkZJblRpbWJCLWliNlJKanIwOEtCQ2p2a2VaanBqVzB0MEJvTlpvTTlNZW1Nbm4yNjZMdlp0eDVVcWlFN1FGMVRld0RGTXBLc2ZWQlBieE9QcmhnVTNqVGF5cjJQd3JUTDljTW56Y3NOZVVQc1hxbVRBRWQ4bjM2VExhaThoQ2o1OXJJbVV5cWw5QzZaWDd4NkZtY0dPZzliZlpR0gGuAUFVX3lxTFBMcU9mTGhIOWFqYktxTHVkTmMyQ1dCSmZuWWVEd3FwcmxZcG04SkxVSnpPZjJwc1U2THdISVZBUzgzTThLajVsQVFXSlBFcEZlQmVwQ0gzb3RUdGhOWnQ2TUdBNko5RGFFOWFTM0lJWjZ1ZVZSVlU5b3VNTkhqZzJObXZBYXFjd0pRR3pSVGJKUlZSTk5YTUd0OFYwOWpMSFJjQUlseVYtdDI0dGlOUQ?oc=5
 
-- Actor Imran Khan To Challenge 'Leave India' Order In Bombay High Court - NDTV
-  Actor Imran Khan To Challenge 'Leave India' Order
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUVDYUh2VTZwSlFua3oxcENTZjZhdEJTNDNDLUVjWldGTElZS3RuemZXNk1zUlN3NVdUdWxOd2FzRXhKNDhMYW4wTnlwOUtoWnBiNnNiRjFiN0ZXcFhKaGFMLXVrV1NkWGVwdjlpcE93MmpCRHpEWVRQdWI4WTZYc01kYTFuX0wyaFhDa3A2VTByQ1ZvVWlmUExBZXM4M1NKMlBPekxnRGpuN1A1R1HSAbYBQVVfeXFMUHlnV011S0VaQjBqY24tbkRhajM5Nm5BUjJJME80WGN2VXNCMGM1TmwzaHdUSTNFbEZocUh3OUVBUkFoX19naXBOTEFMN2VpRWtCWUdqNGJpSWJyRUlIdWpNZUJWV3ZPbUJ4MGdEOUh4LUVJQ1B2UC0tM2g4T0JmdXpLczkwUnd3UTN4Wi1MSHlRSXFvd2JwZmd5dmtjMG1pdzV6VUNIR3VfdkRhNTVLUGZEZ3VMc2c?oc=5
+- Govt launches National Strategic Trade Command Centre to boost governance of India’s international trade ecosystem - News On AIR
+  Govt launches National Strategic Trade Command Centre to boost governance of India’
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FrWXAtTElTSjBlQUpWTUZ0X2VZVHExNDFTX0tRVjFDaTB1T3g5VENjakdhV2c2OFRIdGRSeXllSlI4cnFFZk9hZng3d0d5MmJldjFGOFBQZV9lOWpYYTFyeWFfWWZNU2lIakZ4SkJsd3RDT21Kd09vbzM3eXpCNE5kb3Q5MDkzSzZUbVdCR21mRG01WGVaaFR3dFoxN3hsWUtHR3h5YXZ5aldIVnFBeVV5dm42UQ?oc=5
 
-- Applying technology to understand and treat disease - blog.google
-  Applying technology to understand
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5
+- India to take a leap in quantum, NM-ICPS 2.0 in works: DST Secy Waghmare - The Economic Times
+  India to take a leap in quantum, NM-ICPS 2.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ3NBbVROMmhzTFFYd2tMejl1TWxWVEZiZDZmN1J6UUFxQmRoelREbm5WTi1kcmZCczdqZVhONlhDMGlTUU82RExUcVB4ZjNnOFR1ZVpxTE9SbFFTRVBsOGtiVTZ2cFBWLUVwZThKMXUtMnRyYWo2RFJhS0dQTUh5WkZJVFJqNXBXNUpjZjFCcTNvbV9wd2pVcHFVbC14UkxNalFuZm5FVGNaS3F2Sk9QcVJXdVRhR1JhQUVFMDBUWnlFSHdqRjY1ejlndFQ2cWlzVXh3VURObmtrSlhxUHR30gHYAUFVX3lxTE9DUGxDeDdRZWFoSmRjcGpPMUlGMVBhSW9qc3BjUjRsYkR5YkdIOTA2a1pXX1BtZUt0NTlSNlBpZkVBQU8xaV94dmJrTFIwWVBMZkQyZE94b2VjQmZQakE0NjVEX0hqakxjYmNGbGdBWHg1TDVjT09NaUxiamNqWFcwaVZPVXN6Ykx0dlZVZ1k2d1ZIS3ZqQmRVQTJWRndMQld0aGJHbzZrZHBwWmVBTWRYQ0tBMFpiVjdxMVJ1TlJDLTBXSGRpX1o4amZBUUJlWkdXNGstSGZsaw?oc=5
+
+- National Security Dialogue | Diffusion and Disruption: Emerging Technologies, Non-State Actors and the Changing Distribution of Advanced Capabilities - orfonline.org
+  National Security Dialogue: Emerging Technologies, Non-State Actors and the Changing Distribution
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS2xtMUtCY3AteDFuN3VBbVNUQmxoS0lac21hOHRaUVFoQU53ODcwNGJNRnRPazRTRzVhYjgyNjFsa0NtTzR1ak1SYzVWWHd2VktDaGI2RDJUZFk1Y1Q5SDg5RjExNG1tUmFtRmozNzVQRkh1WDQyV3pybVAtNUI5eEhoeGZsbEhrM0hpMHprYjFJX3pIUUd6dU45NDFrZUc0QlROQnkwWGZRU2FGUzFOR2I2TktjMllhMHhLUzRLNE1obmw5VGt5OE9Bb0lFTE1aeFFWMERaSGZDVGtZR2pDOUdYLTczcUc5R25vYWNqbnBrNHZIOEJQRHFpcHVERHJEaGt0bzhWcFo?oc=5
+
+- Living with a stink? Technology might help - BBC
+  The BBC has launched a
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE15MkFuR2F0cGYyQllaUVp5VHlDZUZDTDUwZEpTRG9LMTdfb01nX1VILUlRSUNMd3REOUJHZFBNckQyMGpHZmtfSEFlZmxVMFJESklTNW5Ca3lfZ0U?oc=5
 
 - Jio to focus on technology monetisation, targets debt-free status - The Hindu
   Jio to focus on technology monetisation
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2pITEZfUmZyc2lRMUpGbGNkM0NfWDZRZ3dETUducERGZHgwbmQwbk1YeUZZWlZBX0dna1pYc0pneWVfem9PSVVwTVYwa1lCTmp3RGF0UXlIbVE3bE9OZVBzS2Y0RlhuWUZtRWxTaHUweWR2YUxzMHlRVHFkSF92N0w2NklhWlNxVTlobnkwRFJvSm93Z0xVTnRwT21vRFhmMWstVFdDRWgtRUM2ZEx0bmpRUTVpX3NGQ2stblZjQUpoX0RVT3fSAcwBQVVfeXFMTUNURlljNE9JcXpWYWNYbFpSQVpXNUJUcWxuR3JSWWJ4TWE2dlN0d2M0SjQxQmZRaXlJNXBxYjZabXhmcWViOWxMeWJraWJoOEU2UHlwVUtyOEtMTlFZMGMtNVNjVXl3S1pUbllEbm94V1ZGaTlhZUZDUkNzSUg0RldtVFU4WmxoZzJHbThjeS1WZ25rN3pVTWhaR2k5MHAxTXhPYlh2YkI0X3QxNTRHektDMXVISlRTWURfd1BDZklIUDlEM0dzTnJSZ1ly?oc=5
 
-- Why AI and telecom hold the key to the future of human connection - Ericsson
-  Why AI and telecom hold the key to the future of
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOcFluWjlTaUxnMWFjWmQwb0NVd0Q5U2pXVTY2R0xDSHFaVVR1WHpucFcyN1EzME51Wlc5T0lzaHpPX3JsdGY3cGZ4TWUwaHhSclE2OXc5X1lJRXFPa1RvVWNxRk5rSWpwekFqTlhmOG9CemEwcjczaGdTMGZFXzZMb3VKTW0wdw?oc=5
+- Elon Musk's 'China prediction' may add to the pain of 20 of the most valuable global technology companies - The Times of India
+  Elon Musk's 'China prediction' may add to the pain of 20 of the most valuable
+  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxNeWhTZkZ2OHpMVmJTX1JYQmlPVmxpOTNFa0NEQVlmY05ZZ3Bkck10d1dJLUp3a2F3bWprVWpWLU40YXNoanR6eTI1M0RNVHdIT1VsU1pJXzhaRzBBR29DRFBCMUpLZy1fY2dGWVBfY0E1cmdtSy12a29sM2tlbS12RnZXaGl5c016YjFJV2o5UUpPT2FKRGYzNWxOLUt4d0xkeHVLNG5PMUx6ZW1WWElXSVRkWGUxUEVtb09iZk9mWEtwMUhPNmNGQ3RxaFZoeTAyNkYzWEtLMDg0alluY3FCYUtGY043Q09vdlRpTUVBSkJxV1lzT081ZHF6NV9tVlkwQUpJWjFCd09MQmt6SmJFWXBTeV9FWXFsYktuNFgzSkZ0ZS1Cdlk5cXFxek5KbHlVUGVqdGdURHZBQ1dKaGp3ajhXN1hiN0VTWjZjMGpkd2NlSmx2dm0xYTF0NmhjaUFPYmxPSjRDX2dZZkJ5cXlqT0o5c185THNPUURxRU1B0gGDA0FVX3lxTE16OVdpM2swbnE2S0pZQk9yMUZ3d1NKYm5JekRycTRuX2NjZ3cxSHlGNXRsZnZWUFRHTlQ3YjNJNHhnWi1qalNsdDVSclpIVlItb1RVV3FOSm1zMTZZUy1aaXZ6SFJMVFFFOFBUd2xYbDNmTVY5d2lvTzRxdVZQeWJ4bFhpS1VYUEdxdjhLcGJlMmZzaXlRMHdHNzNDYjJuMUg1dmJYNzQyejcyMkxDVzd1aXhJTl9Xbng4SWhYazk0SGFZLXF4N3FFSlNnTmhCa0tld1NwamNQanJ4VjJxREZEN21MVWc3Y1E0N3YxMVpWZEpaaDhpQlUxcWlOQm1CLTFyRmFLVTFmWjVLRUlRYTVvT0tuZGM2MklfMjBmTkJBTmlzSkNCSEI5VVZUVHFoLUdxMWgxeXI0ZS1oUWp3Q2VFMlVGNUR4am9GWi0wcWMwc3o5WHZsMnI2SDJNcnBPS3VpWVRpbFBXMl9aWlF1X3RLa3Z1X296WVRIbHM4V2RXZkFKbw?oc=5
 
-- Honeywell Technologies Launches Forge Cognition with NVIDIA and Dell Technologies, Advancing Physical AI Across Buildings and Industrial Operations - Honeywell
-  Honeywell and NVIDIA are teaming up to create Forge Cognition. The
-  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxOeTRyTTZZSXZWSGVQRjVmUEdzb05ta2RzZEhUSWdoU0JIUDVXNnV6Z2YwZ3lITGdUSUcwWTB1Z3l2bFJiX3EzaHp3WVlILXJfTzZkZHJmazE4cHZQTWhPY05HLVJnaFQteFBQempGOHB3Q21LMkR1d1FIM2VCem1JUTNRU09RTnZOalJGOXl3aU81WUJFSXhhQ2wxTFdlUTc3bkpFZWF4LWdMVmZwN2VNek44ODE0bW5KY0JLUDhZQTcteHVoOG1OaGY0eFd5VmhmWGo3YkF6Q0pXMllqVnBlcXJONW15S0JYRUFZaHh4bGhCQ3dOSF9TeGZ0aEF0amZQYlJQQ0RqWTFQa2NJLVlhalhHMDlhN3NwLWF5NVdOc2FtbkJiQ3QyamxpRDUzY3M?oc=5
+- UNICEF Femtech Ventures Frontier Technology Funding for Women’s Health - fundsforNGOs - Grants and Resources for Sustainability
+  UNICEF Femtech Ventures Frontier Technology Funding for Women's Health
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0FiWXhSR1Z2Z1lRbTR2RTk5TWdZRjdLOVJXTm9zTkRHVTdzOG5Ndl9SZkRDUG4wYmNqcXNUS3U5ZmJid21GVlIxNVEyOG1hLXM4cFUyREJReGliYzIxSGdiTnFSaEktcWR0dVduZFBad0hRd0RPbDVmRTc5clltaEhKTHkwZ2NlRzQ4Y09CeXJrQ3oxbnRNRmZtMFU1RnMxT2hYS19QRlg0Ynh2WC02WTlfRDMyU3BLT2JLb01lZFVHUdIBxwFBVV95cUxPRzVoak1oblNsR3ZTYTNPSDNsMTNFMjRUWnlET0lJbHYxbktjU0tBcHRncHRwWUxMRVpna05tXzBJTmhKN0JBbElNMVp2Wk1BMWstdGpHRDIzQnpNdkh2U3RxaHp5WHNnSG1IbmVaVm5pWjZ2QmlBaWZJcGc3QVNjcG0zdXJsYUJaSUxBYU1NMllQa0JVUEw1Y2xVVDhqUk9UWkU1S0tIV2pjWW1NNy13SnR6amZrTE9LTi1scUk1UlFFVk5SYVNj?oc=5
 
-- Bengaluru turns to AI to tackle waste - Bangalore Mirror
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOcko5SEluUUQyUUJ5NnF1TG9VdnE5TzNJQnVuNi1IMUo4RW5PckxJQ0I4ZlIxX1JjVnhTMmR1YWRwNnN4cEduX1dJMEt3clFXUG9rdlZNdjR2TjRfbVlYLXdUcGFzUHY1SlhLMnFHd01kUWVTT1dqWktPZy1CZ1R1QVZHbS1STURjWXBFTkw5OFZiOU14QV9jS0ZpR1RsYUtuRV9LNEJETlpaNzNINWtCZ3JqWXhiWkFfX0HSAb8BQVVfeXFMTXNpaU9aV2IxQy1mckJXcWJNYVp2U2JyMGlEYU4xa1o5bnpMZ2w0MjVGaGR4bjZfLThzekRycTZLeFFTS0FNRVNTZGhFTG0yV0ZtY0g1aUJIc2NGNmVqY1ZWdDFqU1pzd2l0c2NJSmFXN3hiR1A0WTUwUEtXaVAwTkdBWG1zMnVfUjFIemkxXzdOcmFEcjItU2ZGN29yZVhaZnM0cE9ubHdkcXFod1FyaTJ3RmhSUUFjNFBxbGQ0TzA?oc=5
+- Cornerstone Ventures eyes $250 million third fund in 2027
+  Cornerstone Ventures is also looking to exercise the greenshoe option on its second fund
+  🔗 https://www.livemint.com/companies/cornerstone-ventures-eyes-250-million-third-fund-in-2027-11792125577501.html
 
-- A new fizz at KFC: Why the chicken giant is swapping Pepsi for Coke in US
-  KFC’s US restaurants have served PepsiCo drinks ever since PepsiCo bought KFC
-  🔗 https://www.livemint.com/companies/news/a-new-fizz-at-kfc-why-the-chicken-giant-is-swapping-pepsi-for-coke-in-us-11792115619235.html
+- AI startup RapidCanvas raises $29 million led by Vertex Ventures
+  RapidCanvas will use the Series B funding led by Vertex Ventures SEA &amp;amp; India to expand its go-
+  🔗 https://www.livemint.com/companies/start-ups/ai-startup-rapidcanvas-raises-29-million-led-by-vertex-ventures-11792130109060.html
 
-- CoreWeave debt concerns: AI demand is strong, but can the data centre major's cash flow justify its spending? Explained
-  Investor concerns over debt-funded AI expansion have pressured CoreWeave, other AI cloud firms and chipmakers. Markets
-  🔗 https://www.livemint.com/companies/news/coreweave-debt-concerns-ai-demand-is-strong-but-can-the-data-centre-majors-cash-flow-justify-its-spending-explained-11792112600856.html
+- India overhauls drug patent guidelines to curb evergreening and speed up cheap generics
+  Draft guidelines require strict scientific proof of improved therapeutic efficacy
+  🔗 https://www.livemint.com/companies/news/india-drugs-patents-rules-overhaul-evergreening-generics-11792122825531.html
 
-- Whistleblower complaint puts Chivas perfume’s Diljit tour tie-up under scrutiny
-  The email, which is anonymous and unsigned and was also sent to Pernod Ricard chairman Alexandre Ricard, questions whether promoting the perfume brand’s logo could indirectly
-  🔗 https://www.livemint.com/companies/news/whistleblower-complaint-puts-chivas-perfume-s-diljit-tour-tie-up-under-scrutiny-11792060673777.html
+- Planning a trip to Japan? Air India to start 1st-ever non-stop flights between Delhi and Osaka from February
+  Air India said that the flight timings have
+  🔗 https://www.livemint.com/companies/news/planning-a-trip-to-japan-air-india-to-start-1st-ever-non-stop-flights-between-delhi-and-osaka-from-february-11792135738986.html
 
-- Inside the TVS family dispute: How a business restructuring left Lakshmi with the smaller business
-  TVS Motor’s stake was separated from Sundaram-Clayton, the auto parts company Lakshmi Venu led. Brother Sudarshan Venu now heads the holding
-  🔗 https://www.livemint.com/companies/people/tvs-family-feud-lakshmi-venu-sudarshan-venu-11791972848647.html
+- Yes Bank flags capital hit as SC upholds AT-1 bond reinstatement
+  Yes Bank’s overall tier-1 capital ratio is expected to remain unchanged at 14%. The bank stated that it had access to appropriate capital
+  🔗 https://www.livemint.com/companies/news/yes-bank-sc-ruling-at-1-bond-write-off-cet1-capital-rbi-11792128635900.html
 
-- Global auto once fled India; but some MNCs are now changing the script
-  Stellantis, Hyundai, and Suzuki are committing billions of dollars in fresh investments in India. Foreign brands seek to counter market share gains by domestic rivals Tata
-  🔗 https://www.livemint.com/companies/news/suzuki-hyundai-stellantis-india-investments-11792062860055.html
+- Urban Company shares: Will the proposed fundraise boost the stock or raise dilution concerns?
+  Urban Company is considering a fundraise as rivals Snabbit and Pronto rapidly expand in the instant home services market. JM Financial says fresh capital could help the company defend its position.
+  🔗 https://www.livemint.com/market/stock-market-news/urban-company-shares-will-the-proposed-fundraise-boost-the-stock-or-raise-dilution-concerns-11792143744263.html
 
-- MSCI Freezes Turkey Indexes as Fund Turmoil Fuels Scrutiny
-  MSCI is stepping up scrutiny of Turkey's equity market following a crisis in the country's fund industry. MSCI freezing some
-  🔗 https://www.livemint.com/market/msci-freezes-turkey-indexes-as-fund-turmoil-fuels-scrutiny-11792116096964.html
+- Jewellery stocks to buy: Titan, Sky Gold, Kalyan Jewellers - Where should you invest ahead of Q2 results?
+  Sky Gold and Diamonds and PC Jeweller showed strong recent momentum. Strong festive demand and premiumisation supported revenue. High gold prices and
+  🔗 https://www.livemint.com/market/stock-market-news/jewellery-stocks-to-buy-titan-sky-gold-kalyan-jewellers-where-should-you-invest-ahead-of-q2-results-11792140319689.html
 
-- Top stocks to watch today: Reliance Industries, Urban Company, Wipro shares in focus on Friday, 16 Oct | Full list
-  Urban Company, Reliance Industries, Wipro, Tech Mahindra, Jio Financial Services, Yes Bank
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-reliance-industries-urban-company-wipro-shares-in-focus-on-friday-16-oct-full-list-11792113871349.html
+- Mukesh Ambani taps massive Reliance Industries workforce to boost record Jio IPO
+  Reliance Industries Ltd has released October salary for 420,000 employees 15 days earlier than usual. This gives workers
+  🔗 https://www.livemint.com/market/ipo/jio-platforms-ipo-shares-for-reliance-industries-employees-11792141480138.html
 
-- Stock market outlook today, 16 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues
-  Gift Nifty was trading around the 23,106 level, up nearly 118 points or 0.51% from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-15-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792111240143.html
+- Tech Mahindra dividend, bonus share 2026: Double delight for investors this Diwali | Should you buy ahead of record date
+  Tech Mahindra share price rallied as much as 8% , touching an intraday high of  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/tech-mahindra-dividend-bonus-share-2026-double-delight-for-investors-this-diwali-should-you-buy-ahead-of-record-date-11792139485359.html
 
-- With inflation rising, will Warsh keep investors guessing?
-  Omitting forward guidance doesn't mean that W
-  🔗 https://www.livemint.com/market/with-inflation-rising-will-warsh-keep-investors-guessing-11792113279894.html
+- 31% rally in 2 weeks: Orient Electric share price surges post Q2 results - ICICI Sec sees 22% upside | Target price
+  Orient Electric shares rose as much as 2.8% on Friday, extending a two-week rally of more than 30%. The company reported strong Q2FY27 performance, with
+  🔗 https://www.livemint.com/market/stock-market-news/31-rally-in-2-weeks-orient-electric-share-price-surges-post-q2-results-icici-sec-sees-22-upside-target-price-11792137011730.html
 
-- Raja Venkatraman recommends three stocks for 16 October
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-16-october-11792111748337.html
+- Apple iPhone Duo pre-orders begin in India today: Check prices, storage variants and offers
+  Apple iPhone Duo pre-orders begin in India on October 16, 2026. The foldable smartphone features a 7.6-inch inner display, a 5.4-inch outer screen and a 48MP
+  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-duo-pre-orders-begin-in-india-today-check-prices-storage-variants-and-offers-11792138016158.html
 
-- Why CoreWeaves troubles are rattling the AI boom
-  CoreWeave's troubles
-  🔗 https://www.livemint.com/technology/why-coreweaves-troubles-are-rattling-the-ai-boom-11792091910736.html
+- What is ArtCraft? Free AI-built software offers alternatives to Adobe Photoshop, Premiere Pro and more
+  ArtCraft is a free, open-source software suite launched in October 2026. It offers AI-assisted
+  🔗 https://www.livemint.com/technology/tech-news/what-is-artcraft-free-ai-built-software-offers-alternatives-to-adobe-photoshop-premiere-pro-and-more-11792134451852.html
 
-- OnePlus Ace 7 may launch in India as OnePlus 16R with built-in cooling fan, 9,000mAh battery
-  The handset is tipped to feature a 185Hz OLED display and a 9,000mAh battery. It could run on the Snapdragon 8 Elite Gen 5 chipset and feature a 200MP primary camera.
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-ace-7-may-launch-in-india-as-oneplus-16r-with-built-in-cooling-fan-9-000mah-battery-11792061056011.html
+- Chinas Tencent says AI agents showed unintended browsing behaviour
+  China's Tencent says
+  🔗 https://www.livemint.com/technology/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-11792134565850.html
 
-- WhatsApp Guest Calling launched: How to join voice and video calls without an account
-  WhatsApp has introduced Guest Calling, allowing people without an account to join voice and video calls through a shared link. Calls are free, end-
-  🔗 https://www.livemint.com/technology/apps/whatsapp-guest-calling-launched-how-to-join-voice-and-video-calls-without-an-account-11792048248736.html
+- CERT-In issues critical alert after autonomous AI agents access live systems of Indian orgs
+  CERT-In issues 'critical' alert
+  🔗 https://www.livemint.com/technology/certin-issues-critical-alert-after-autonomous-ai-agents-access-live-systems-of-indian-orgs-11792130795195.html
 
-- Incoming calls to show caller names from November 1: What mobile users need to know
-  India will roll out mandatory Calling Name Presentation (CNAP) from November 1, 2026. CNAP will display callers' names alongside phone numbers on 4G and 5G networks
-  🔗 https://www.livemint.com/technology/incoming-calls-to-show-caller-names-from-november-1-what-mobile-users-need-to-know-11792045920940.html
-
-- iPhone Duo inner-screen repair costs $999, more than twice the Galaxy Z Fold 8's cost
-  Apple's iPhone Duo inner display replacement costs $999 in the US. Samsung's Galaxy Z Fold 8 inner-screen repair costs $419. AppleCare+ cuts the
-  🔗 https://www.livemint.com/technology/iphone-duo-inner-screen-repair-costs-999-more-than-twice-the-galaxy-z-fold-8s-cost-11792038122190.html
+- Teslas new Roadster turns in air with SpaceX thrusters, wont land until 2028
+  Tesla's new Roadster turns in air with SpaceX thrusters,
+  🔗 https://www.livemint.com/technology/teslas-new-roadster-turns-in-air-with-spacex-thrusters-wont-land-until-2028-11792124153072.html
 
 - Dow rises more than 500 points as investors rotate away from AI trade: Live updates - CNBC
   Dow rises more than 500 points as investors rotate away from AI
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5
 
-- Markets News, Oct. 15, 2026: Dow Ends Up 550 Points as Investors Rotate Out of Tech Stocks; Wholesale Prices Top Expectations - Investopedia
-  The Dow ended up 550 points as Investors Rotate Out of Tech Stocks.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVFEYWJaUU5zbkJodmVHRWNMU1VMSmNmN0NsZXdldlA1Nk1LSFJjV0c4T3UxSkRJSW1sV0tVVmUwTWx4eGV6MEJMelRjNGhGRXhUakN5NXNqbUlfUzJBUXlFeXhoRV9RdTBIT2UyT1BTWmNQUWF1Mk5sb21yWnA5dk1KYV9mOGRKOXdtZ3lTeW4?oc=5
-
-- Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade - Yahoo Finance
-  The Dow jumps, S&amp;P 500,
+- Stock market today: Dow, S&P 500 rise, Nasdaq trims losses as Treasury yields sink - Yahoo Finance
+  The Dow, S&amp;P 500 rise, Nasdaq
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXMtT0xubkZXQmJFT1dISGM1VFFqOGdIWmxYOXhTV005LWVDNEw0UmNCVHd1d09ycUxoNWJJWF9BRlRMdG50WU92Mm9PSHloUHVOaExscWlJWmZPbnA2WlQ2MjQyVGZXNzR2Ui1jSmZ5UWZpc0hxN2xpYkd3dGc5Wlp2enA5c2g5aHkxdzlJQlgxUVFTZGVuVkpLWmJ3Q3hJWUpYNEpZMEk3VHg2VDU1V0Q1Z0gyZXV5SjVXMV9xMWxaYUZzU1ptNl9KOTM?oc=5
 
-- Indonesia’s Emerging Market Status Under Consultation, MSCI Says - Bloomberg.com
-  Indonesia’s
+- S&P 500 futures are little changed as index heads for losing week: Live updates - CNBC
+  S&amp;P 500 futures are little changed as index
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ?oc=5
+
+- Indonesia gets 'wake-up call' as MSCI prepares to expel it from global indexes - Reuters
+  Indonesia gets 'wake-up call' as
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxONlg4UjV3N2U0ZUVvYWhOTF9YNEI5c1VCaVd3ZTdCcUl2dFBGUklnZngtVlNhaS1BSFJWUkVqcGluT05jLVNqNll0RWRJQWZOdVRZWnM4TUR2UHJTVGNYbnNOVmgtVWVqcjJWOHdDWTVVME9BVHBiLXBiclQyN3ljTDlfaTdnWDdzcmZTZk1wX2p6b3NXVjJNVE04QU82aGVTQW5xdWEzcm5tNU9OT2JMVVlINA?oc=5
+
+- Indonesia Stocks Sink Most in 28 Years on MSCI Downgrade Warning - Bloomberg.com
+  Indonesia Stocks Sink Most in
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQaS1VU2ZfMFRiMlJSazJFTGtCYktUcnRWT00yTlNfWHBRRFctSnpoWHdabmRNeVYySEJkZkVVLXpXanVmU2h0REpuOGJYXy1nYTFiS2s5dWpjWW9FelBXX29uSU5vR0JzY0JzM25ROGpyVkMyemZlaXhfZzd6TU9YSWZZVHZiVm5KOUdNbmVhMkwtQXFZVnM5MHRfekw0RWdUdURqV1F6MG5GS2RQazBpVXJMcS0?oc=5
 
-- India markets regulator partly reverses derivative settlement rules after pushback - Reuters
-  India markets regulator partly reverses derivative settlement
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGRONTRmdHRZYTJ6Yk54UE52QjBqX1NCZzdZRmFZb3JFR2tBTGF5cHpJWkZoaURDYXVkazBOcnFqdHZIOUNkZ0xNLTRtWnhFeVRrcVo5d0c2TmYwY1BzUDgxYzV3SUxMTlU3RHliUzFDM0Zsc1ZwRlZQQXJTZE5HWGpGOGxUVVBHM3FsQzZGV3VIS1JYOFcxVWYwbWFjRVFUQnUxN0RHVkF3em90RDNRbEd0T0V4eEQ1VlRxM1JR?oc=5
+- Yes Bank Q2 preview: Will strong profit, NII growth offer relief for investors amid AT-1 bond saga?
+  Yes Bank is expected to post a 48% YoY jump in Q2 net profit to Rs 969 crore. However, investor focus remains on the Supreme Court ruling invalidating its Rs 8,415 crore AT-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q2-preview-will-strong-profit-nii-growth-offer-relief-for-investors-amid-at-1-bond-saga/articleshow/134990515.cms
 
-- Oil Price Today (October 16): Crude oil dips to $105 as Trump mulls easing restrictions on sanction-facing nations. What’s next?
-  US West Texas Intermediate crude futures declined 54 cents, or 0.55%, to $97.43. WTI settled up more than 3% on Thursday after a large US crude stock draw helped support prices. Brent crude was
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-16-crude-oil-dips-to-105-as-trump-mulls-easing-restrictions-on-sanction-facing-nations-whats-next/articleshow/134980559.cms
+- Indonesia stocks, rupiah tumble as MSCI weighs market downgrade
+  MSCI is contemplating downgrading Indonesia's stock market to standalone status. Such a reclassification could notably diminish Indonesia's appeal to global investors and alter its presence in international indexes.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/indonesia-stocks-rupiah-tumble-as-msci-weighs-market-downgrade/articleshow/134990424.cms
 
-- Wipro’s Slow Growth to Test Investors’ Patience
-  Wipro has reported a decline in revenue for the second quarter in a row. The total value of new contracts has dropped significantly. Despite this, management is optimistic about future improvements.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/wipros-slow-growth-to-test-investors-patience/articleshow/134980498.cms
+- Laurus Labs shifts gears as CDMO emerges as key growth driver; Nuvama sees 24% upside
+  Nuvama Institutional Equities has initiated coverage on Laurus Labs with a ‘Buy’ rating and a target price of Rs 2,520. The brokerage expects the drugmaker’s shift from its traditional anti-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shifts-gears-as-cdmo-emerges-as-key-growth-driver-nuvama-sees-24-upside/articleshow/134990332.cms
 
-- Alpha Alternatives Raises `6,000 crore
-  Alpha Alternatives has garnered over ₹6,000 crore for its initial infrastructure fund. Bajaj Alternate Investment Management is initiating fundraising for its first real estate venture centered on commercial office properties.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/alpha-alternatives-raises-6000-crore/articleshow/134980480.cms
+- Global Market: European shares set for biggest weekly gain since August on earnings optimism
+  European shares climb on Friday, with the STOXX 600 heading for its strongest weekly gain since August. Industrial stocks led advances, while investors monitored eurozone inflation data.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-set-for-biggest-weekly-gain-since-august-on-earnings-optimism/articleshow/134990268.cms
 
-- Kotak MF suspends subscriptions in two debt funds holding Yes Bank AT1 bonds
-  Kotak Mahindra Asset Management Company has put a temporary hold on subscriptions for two of its mutual fund schemes. This decision follows the zero valuation of Yes Bank AT1 bonds after a significant bank reconstruction in March 2020.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/kotak-mf-suspends-subscriptions-in-two-debt-funds-holding-yes-bank-at1-bonds/articleshow/134980424.cms
-
-- Gold eases after climbing over 1% in previous session
-  Gold prices slipped 0.4% to $4,152.99 per ounce in early Asian trading on Friday. Investors scrutinize the Federal Reserve's future policy after recent inflation updates. US producer prices surged the most in over four years
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-after-climbing-over-1-in-previous-session/articleshow/134980375.cms
-
-- Don't Join, Will Allow Only 11 Carrying Flag: Delhi Police On CJP's Connaught Place Protest - NDTV
-  The Delhi Police will allow only 11 people to carry the national flag
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxORGp3U29BOGllOHllbDdIM3U4Z0hmb0hRUUc3Rmd3eDcyRlc4WU1PNkZORzQwbWVXT3hza3Q3NjRJb0lEZ3lzTVF3cFhkQUszUTgtQy1ER21LTml3aFNmTTJOQktDaTNxU2JoU01xTzZHZU5RSFlES2MtUUNWYTY3VUZma1lrcUJzMW15T042R0dpekxITl83Y3hZcTFLaVg2Qm5CWDdCcjRWTEFQUTRweHlLVC1PdEEyQ1N2dGs0MV9wdEJrdEtmdWRFRHJ4WGJfRGlJdW9BTlHSAeABQVVfeXFMTnVZaWlxM2Nvc29zMEJBZ0htMFJjelZEb1B2TFpoYnlkNHpkbVVfUURIOXQ3VlQwZmFPNGJodE5TMUx4ME1LR0lkUDR0b2lCaTFGelg3VzRfUFNCeVNUbE5sMVZrYmdsNW04Rkg3RmU0MVhRWmtWcnV1LWZ3alpTb1ZKb2FpQWRBOTRGYTNJZHNDM0t3UmtfWTZOczRDbWlOVHk0OWw2ckJtSTRHQjhvcV8wbjhRU2JLc04xemtRYmZBcVNOTE1ETWpQZGZxOU9FeGNPbjEtUkdtTU1UZkp6eC0?oc=5
+- China's central bank to boost support for global investors in financial markets
+  China's central bank plans to improve access for global investors and issuers to its financial markets. It will strengthen cross-border financial connectivity, developing
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chinas-central-bank-to-boost-support-for-global-investors-in-financial-markets/articleshow/134989432.cms
 
 - CJP, Abhijeet Dipke: India's 'cockroach' protesters set to return despite police crackdown - BBC
   &nbsp;&ngt;<font
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5
 
-- Anti-CEC protest highlights | Delhi Police says can allow small gathering at 'suitable place' ahead of CJP's 'Tiranga' protest; CP Central Park shut - The Hindu
-  The Hindu reports that the CJP is planning to hold a 'Tiranga' protest in New Delhi.
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObXQxZWpNQWtvaXdYTUo2S2dtcWpXQk5zSUV0bEhJdk9TLTczUDZtdHlCbGl3bjhqaDdBZm9DMFJtM1M4YmNEMndSOXVuVGpfd2xXZ1RJUGFtVFFDU1ozQmtFaEJpMEpEZGl6SDM1eUZ5OXFlOVd2bENNcmtQM1F1Ylc5N1FIbmt2d1loYTlYWnQwX3oyWXRnd3FRTG1DVjVpcUdiSFdUanIwdFg5YVJFWFR5UXZFLU5uMzRfVEMyNWU3RmNuVEVr0gHOAUFVX3lxTFB6cDUwTWNIbGxxdGUxMGdMUk9CcGRwa0VMWUg2a0RQMW9kWm8xTHVnc0pDVWdlN3dsMV9tRU5IdFZNQkNPbURDUk9oaUJlNE15SnJmdm1vWjFmLTNuM1ZyRWVQajJ5Ui1BeU9zaUVESl9Oc284TkxQOHE4ZkZDZGw5MHZKNHJGeTRWVXZlSURNaDY2ZGVJYlhVRU5VZTNBR3I0OXJNSTBDUjByY1NNXzhSNVFsRVNEX1JOVGdBMnNjNnVzYV9rY2xRUHNFdTNn?oc=5
+- First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
+  First Tranche Of India-US Trade Deal Final
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
 
-- Actor Imran Khan ordered to leave India after participating in protest - BBC
-  Actor Imran Khan ordered to leave India after participating
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
+- Trade Barriers A Hurdle To China-India Ties: Nirmala Sitharaman - NDTV
+  Nirmala Sitharaman is
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjluRkZJblRpbWJCLWliNlJKanIwOEtCQ2p2a2VaanBqVzB0MEJvTlpvTTlNZW1Nbm4yNjZMdlp0eDVVcWlFN1FGMVRld0RGTXBLc2ZWQlBieE9QcmhnVTNqVGF5cjJQd3JUTDljTW56Y3NOZVVQc1hxbVRBRWQ4bjM2VExhaThoQ2o1OXJJbVV5cWw5QzZaWDd4NkZtY0dPZzliZlpR0gGuAUFVX3lxTFBMcU9mTGhIOWFqYktxTHVkTmMyQ1dCSmZuWWVEd3FwcmxZcG04SkxVSnpPZjJwc1U2THdISVZBUzgzTThLajVsQVFXSlBFcEZlQmVwQ0gzb3RUdGhOWnQ2TUdBNko5RGFFOWFTM0lJWjZ1ZVZSVlU5b3VNTkhqZzJObXZBYXFjd0pRR3pSVGJKUlZSTk5YTUd0OFYwOWpMSFJjQUlseVYtdDI0dGlOUQ?oc=5
 
-- Actor Imran Khan To Challenge 'Leave India' Order In Bombay High Court - NDTV
-  Actor Imran Khan To Challenge 'Leave India' Order
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUVDYUh2VTZwSlFua3oxcENTZjZhdEJTNDNDLUVjWldGTElZS3RuemZXNk1zUlN3NVdUdWxOd2FzRXhKNDhMYW4wTnlwOUtoWnBiNnNiRjFiN0ZXcFhKaGFMLXVrV1NkWGVwdjlpcE93MmpCRHpEWVRQdWI4WTZYc01kYTFuX0wyaFhDa3A2VTByQ1ZvVWlmUExBZXM4M1NKMlBPekxnRGpuN1A1R1HSAbYBQVVfeXFMUHlnV011S0VaQjBqY24tbkRhajM5Nm5BUjJJME80WGN2VXNCMGM1TmwzaHdUSTNFbEZocUh3OUVBUkFoX19naXBOTEFMN2VpRWtCWUdqNGJpSWJyRUlIdWpNZUJWV3ZPbUJ4MGdEOUh4LUVJQ1B2UC0tM2g4T0JmdXpLczkwUnd3UTN4Wi1MSHlRSXFvd2JwZmd5dmtjMG1pdzV6VUNIR3VfdkRhNTVLUGZEZ3VMc2c?oc=5
+- Govt launches National Strategic Trade Command Centre to boost governance of India’s international trade ecosystem - News On AIR
+  Govt launches National Strategic Trade Command Centre to boost governance of India’
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FrWXAtTElTSjBlQUpWTUZ0X2VZVHExNDFTX0tRVjFDaTB1T3g5VENjakdhV2c2OFRIdGRSeXllSlI4cnFFZk9hZng3d0d5MmJldjFGOFBQZV9lOWpYYTFyeWFfWWZNU2lIakZ4SkJsd3RDT21Kd09vbzM3eXpCNE5kb3Q5MDkzSzZUbVdCR21mRG01WGVaaFR3dFoxN3hsWUtHR3h5YXZ5aldIVnFBeVV5dm42UQ?oc=5
 
-- Goldman Sachs Sells Eternal Shares Via A ₹169 Cr Block Deal
-  Goldman Sachs has sold 53.4 Lakh shares of foodtech giant Eternal in a major block deal worth $169 million.
-  🔗 https://inc42.com/buzz/goldman-sachs-sells-eternal-shares-via-a-%e2%82%b9169-cr-block-deal/
+- India to take a leap in quantum, NM-ICPS 2.0 in works: DST Secy Waghmare - The Economic Times
+  India to take a leap in quantum, NM-ICPS 2.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ3NBbVROMmhzTFFYd2tMejl1TWxWVEZiZDZmN1J6UUFxQmRoelREbm5WTi1kcmZCczdqZVhONlhDMGlTUU82RExUcVB4ZjNnOFR1ZVpxTE9SbFFTRVBsOGtiVTZ2cFBWLUVwZThKMXUtMnRyYWo2RFJhS0dQTUh5WkZJVFJqNXBXNUpjZjFCcTNvbV9wd2pVcHFVbC14UkxNalFuZm5FVGNaS3F2Sk9QcVJXdVRhR1JhQUVFMDBUWnlFSHdqRjY1ejlndFQ2cWlzVXh3VURObmtrSlhxUHR30gHYAUFVX3lxTE9DUGxDeDdRZWFoSmRjcGpPMUlGMVBhSW9qc3BjUjRsYkR5YkdIOTA2a1pXX1BtZUt0NTlSNlBpZkVBQU8xaV94dmJrTFIwWVBMZkQyZE94b2VjQmZQakE0NjVEX0hqakxjYmNGbGdBWHg1TDVjT09NaUxiamNqWFcwaVZPVXN6Ykx0dlZVZ1k2d1ZIS3ZqQmRVQTJWRndMQld0aGJHbzZrZHBwWmVBTWRYQ0tBMFpiVjdxMVJ1TlJDLTBXSGRpX1o4amZBUUJlWkdXNGstSGZsaw?oc=5
 
-- Inside SEBI’s 10 Key Proposed Changes To SME IPO Rules
-  The Securities and Exchange Board of India (SEBI) has proposed sweeping changes to the rules governing initial public offerings.
-  🔗 https://inc42.com/buzz/inside-sebis-10-key-proposed-changes-to-sme-ipo-rules/
+- Tonbo Imaging IPO Oversubscribed Nearly 7X On Day 2 So Far
+  Defence tech company Tonbo Imaging’s IPO continued to receive healthy investor interest on the second day of bidding.
+  🔗 https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-nearly-7x-on-day-2-so-far/
 
-- Flipkart Group FY26: Revenue Nears ₹1.5 Lakh Cr, Loss Narrows To ₹8,468 Cr
-  Flipkart Group reported 18.2% jump in consolidated revenue from operations to ₹1.45 Lakh Cr in the fiscal year 2025-26.
-  🔗 https://inc42.com/buzz/flipkart-group-fy26-revenue-nears-%e2%82%b91-5-lakh-cr-loss-narrows-to-%e2%82%b98468-cr/
+- Zetwerk IPO Subscribed 27% On Day 2 So Far, QIB & Retail Portions Booked 32% Each
+  B2B manufacturing company Zetwerk’s ₹5,012.3 Cr IPO was subscribed 27% on the second day of
+  🔗 https://inc42.com/buzz/zetwerk-ipo-subscribed-27-on-day-2-so-far-qib-retail-portions-booked-32-each/
 
-- Origin Bags $20 Mn To Build Autonomous Construction Robots
-  Robotics startup Origin has raised $20 Mn (around ₹189 Cr) in a funding round.
-  🔗 https://inc42.com/buzz/origin-bags-20-mn-to-build-autonomous-construction-robots/
+- E2E Networks Swings To ₹73 Cr Profit In Q2, Revenue Jumps 411% YoY
+  Cloud infrastructure company E2E Networks’ operating revenue jumped 411% to ₹223.8 Cr in the second quarter of FY27.
+  🔗 https://inc42.com/buzz/e2e-networks-swings-to-%e2%82%b973-cr-profit-in-q2-revenue-jumps-411-yoy/
 
-- [Update] Zetwerk IPO Subscribed 23% On Day 1
-  B2B manufacturing company Zetwerk’s IPO received muted response on day one as it was subscribed.
-  🔗 https://inc42.com/buzz/zetwerk-ipo-subscribed-8-on-day-1-so-far/
+- Tonbo Imaging IPO Gets A Strong Start, But Does Growth Justify Its Valuation?
+  From the Iran war to rising geopolitical tensions across the globe, conflicts are driving demand for advanced defence technologies.
+  🔗 https://inc42.com/features/tonbo-imaging-ipo-gets-a-strong-start-but-does-growth-justify-its-valuation/
 
-- Don't Join, Will Allow Only 11 Carrying Flag: Delhi Police On CJP's Connaught Place Protest - NDTV
-  The Delhi Police will allow only 11 people to carry the national flag
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxORGp3U29BOGllOHllbDdIM3U4Z0hmb0hRUUc3Rmd3eDcyRlc4WU1PNkZORzQwbWVXT3hza3Q3NjRJb0lEZ3lzTVF3cFhkQUszUTgtQy1ER21LTml3aFNmTTJOQktDaTNxU2JoU01xTzZHZU5RSFlES2MtUUNWYTY3VUZma1lrcUJzMW15T042R0dpekxITl83Y3hZcTFLaVg2Qm5CWDdCcjRWTEFQUTRweHlLVC1PdEEyQ1N2dGs0MV9wdEJrdEtmdWRFRHJ4WGJfRGlJdW9BTlHSAeABQVVfeXFMTnVZaWlxM2Nvc29zMEJBZ0htMFJjelZEb1B2TFpoYnlkNHpkbVVfUURIOXQ3VlQwZmFPNGJodE5TMUx4ME1LR0lkUDR0b2lCaTFGelg3VzRfUFNCeVNUbE5sMVZrYmdsNW04Rkg3RmU0MVhRWmtWcnV1LWZ3alpTb1ZKb2FpQWRBOTRGYTNJZHNDM0t3UmtfWTZOczRDbWlOVHk0OWw2ckJtSTRHQjhvcV8wbjhRU2JLc04xemtRYmZBcVNOTE1ETWpQZGZxOU9FeGNPbjEtUkdtTU1UZkp6eC0?oc=5
-
-- CJP, Abhijeet Dipke: India's 'cockroach' protesters set to return despite police crackdown - BBC
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5
-
-- Anti-CEC protest highlights | Delhi Police says can allow small gathering at 'suitable place' ahead of CJP's 'Tiranga' protest; CP Central Park shut - The Hindu
-  The Hindu reports that the CJP is planning to hold a 'Tiranga' protest in New Delhi.
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObXQxZWpNQWtvaXdYTUo2S2dtcWpXQk5zSUV0bEhJdk9TLTczUDZtdHlCbGl3bjhqaDdBZm9DMFJtM1M4YmNEMndSOXVuVGpfd2xXZ1RJUGFtVFFDU1ozQmtFaEJpMEpEZGl6SDM1eUZ5OXFlOVd2bENNcmtQM1F1Ylc5N1FIbmt2d1loYTlYWnQwX3oyWXRnd3FRTG1DVjVpcUdiSFdUanIwdFg5YVJFWFR5UXZFLU5uMzRfVEMyNWU3RmNuVEVr0gHOAUFVX3lxTFB6cDUwTWNIbGxxdGUxMGdMUk9CcGRwa0VMWUg2a0RQMW9kWm8xTHVnc0pDVWdlN3dsMV9tRU5IdFZNQkNPbURDUk9oaUJlNE15SnJmdm1vWjFmLTNuM1ZyRWVQajJ5Ui1BeU9zaUVESl9Oc284TkxQOHE4ZkZDZGw5MHZKNHJGeTRWVXZlSURNaDY2ZGVJYlhVRU5VZTNBR3I0OXJNSTBDUjByY1NNXzhSNVFsRVNEX1JOVGdBMnNjNnVzYV9rY2xRUHNFdTNn?oc=5
-
-- Actor Imran Khan ordered to leave India after participating in protest - BBC
-  Actor Imran Khan ordered to leave India after participating
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
-
-- Actor Imran Khan To Challenge 'Leave India' Order In Bombay High Court - NDTV
-  Actor Imran Khan To Challenge 'Leave India' Order
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUVDYUh2VTZwSlFua3oxcENTZjZhdEJTNDNDLUVjWldGTElZS3RuemZXNk1zUlN3NVdUdWxOd2FzRXhKNDhMYW4wTnlwOUtoWnBiNnNiRjFiN0ZXcFhKaGFMLXVrV1NkWGVwdjlpcE93MmpCRHpEWVRQdWI4WTZYc01kYTFuX0wyaFhDa3A2VTByQ1ZvVWlmUExBZXM4M1NKMlBPekxnRGpuN1A1R1HSAbYBQVVfeXFMUHlnV011S0VaQjBqY24tbkRhajM5Nm5BUjJJME80WGN2VXNCMGM1TmwzaHdUSTNFbEZocUh3OUVBUkFoX19naXBOTEFMN2VpRWtCWUdqNGJpSWJyRUlIdWpNZUJWV3ZPbUJ4MGdEOUh4LUVJQ1B2UC0tM2g4T0JmdXpLczkwUnd3UTN4Wi1MSHlRSXFvd2JwZmd5dmtjMG1pdzV6VUNIR3VfdkRhNTVLUGZEZ3VMc2c?oc=5
-
-- Don't Join, Will Allow Only 11 Carrying Flag: Delhi Police On CJP's Connaught Place Protest - NDTV
-  The Delhi Police will allow only 11 people to carry the national flag
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxORGp3U29BOGllOHllbDdIM3U4Z0hmb0hRUUc3Rmd3eDcyRlc4WU1PNkZORzQwbWVXT3hza3Q3NjRJb0lEZ3lzTVF3cFhkQUszUTgtQy1ER21LTml3aFNmTTJOQktDaTNxU2JoU01xTzZHZU5RSFlES2MtUUNWYTY3VUZma1lrcUJzMW15T042R0dpekxITl83Y3hZcTFLaVg2Qm5CWDdCcjRWTEFQUTRweHlLVC1PdEEyQ1N2dGs0MV9wdEJrdEtmdWRFRHJ4WGJfRGlJdW9BTlHSAeABQVVfeXFMTnVZaWlxM2Nvc29zMEJBZ0htMFJjelZEb1B2TFpoYnlkNHpkbVVfUURIOXQ3VlQwZmFPNGJodE5TMUx4ME1LR0lkUDR0b2lCaTFGelg3VzRfUFNCeVNUbE5sMVZrYmdsNW04Rkg3RmU0MVhRWmtWcnV1LWZ3alpTb1ZKb2FpQWRBOTRGYTNJZHNDM0t3UmtfWTZOczRDbWlOVHk0OWw2ckJtSTRHQjhvcV8wbjhRU2JLc04xemtRYmZBcVNOTE1ETWpQZGZxOU9FeGNPbjEtUkdtTU1UZkp6eC0?oc=5
+- ‘Have Never Feared Competition’: Reliance Responds To Elon Musk’s Starlink Allegations
+  Reliance Industries Ltd (RIL) has responded to Elon Musk’s allegations that Indian business interests are blocking Starlink.
+  🔗 https://inc42.com/buzz/have-never-feared-competition-reliance-responds-to-elon-musks-starlink-allegations/
 
 - CJP, Abhijeet Dipke: India's 'cockroach' protesters set to return despite police crackdown - BBC
   &nbsp;&ngt;<font
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5
 
-- Anti-CEC protest highlights | Delhi Police says can allow small gathering at 'suitable place' ahead of CJP's 'Tiranga' protest; CP Central Park shut - The Hindu
-  The Hindu reports that the CJP is planning to hold a 'Tiranga' protest in New Delhi.
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObXQxZWpNQWtvaXdYTUo2S2dtcWpXQk5zSUV0bEhJdk9TLTczUDZtdHlCbGl3bjhqaDdBZm9DMFJtM1M4YmNEMndSOXVuVGpfd2xXZ1RJUGFtVFFDU1ozQmtFaEJpMEpEZGl6SDM1eUZ5OXFlOVd2bENNcmtQM1F1Ylc5N1FIbmt2d1loYTlYWnQwX3oyWXRnd3FRTG1DVjVpcUdiSFdUanIwdFg5YVJFWFR5UXZFLU5uMzRfVEMyNWU3RmNuVEVr0gHOAUFVX3lxTFB6cDUwTWNIbGxxdGUxMGdMUk9CcGRwa0VMWUg2a0RQMW9kWm8xTHVnc0pDVWdlN3dsMV9tRU5IdFZNQkNPbURDUk9oaUJlNE15SnJmdm1vWjFmLTNuM1ZyRWVQajJ5Ui1BeU9zaUVESl9Oc284TkxQOHE4ZkZDZGw5MHZKNHJGeTRWVXZlSURNaDY2ZGVJYlhVRU5VZTNBR3I0OXJNSTBDUjByY1NNXzhSNVFsRVNEX1JOVGdBMnNjNnVzYV9rY2xRUHNFdTNn?oc=5
+- First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
+  First Tranche Of India-US Trade Deal Final
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
 
-- Actor Imran Khan ordered to leave India after participating in protest - BBC
-  Actor Imran Khan ordered to leave India after participating
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5
+- Trade Barriers A Hurdle To China-India Ties: Nirmala Sitharaman - NDTV
+  Nirmala Sitharaman is
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjluRkZJblRpbWJCLWliNlJKanIwOEtCQ2p2a2VaanBqVzB0MEJvTlpvTTlNZW1Nbm4yNjZMdlp0eDVVcWlFN1FGMVRld0RGTXBLc2ZWQlBieE9QcmhnVTNqVGF5cjJQd3JUTDljTW56Y3NOZVVQc1hxbVRBRWQ4bjM2VExhaThoQ2o1OXJJbVV5cWw5QzZaWDd4NkZtY0dPZzliZlpR0gGuAUFVX3lxTFBMcU9mTGhIOWFqYktxTHVkTmMyQ1dCSmZuWWVEd3FwcmxZcG04SkxVSnpPZjJwc1U2THdISVZBUzgzTThLajVsQVFXSlBFcEZlQmVwQ0gzb3RUdGhOWnQ2TUdBNko5RGFFOWFTM0lJWjZ1ZVZSVlU5b3VNTkhqZzJObXZBYXFjd0pRR3pSVGJKUlZSTk5YTUd0OFYwOWpMSFJjQUlseVYtdDI0dGlOUQ?oc=5
 
-- Actor Imran Khan To Challenge 'Leave India' Order In Bombay High Court - NDTV
-  Actor Imran Khan To Challenge 'Leave India' Order
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUVDYUh2VTZwSlFua3oxcENTZjZhdEJTNDNDLUVjWldGTElZS3RuemZXNk1zUlN3NVdUdWxOd2FzRXhKNDhMYW4wTnlwOUtoWnBiNnNiRjFiN0ZXcFhKaGFMLXVrV1NkWGVwdjlpcE93MmpCRHpEWVRQdWI4WTZYc01kYTFuX0wyaFhDa3A2VTByQ1ZvVWlmUExBZXM4M1NKMlBPekxnRGpuN1A1R1HSAbYBQVVfeXFMUHlnV011S0VaQjBqY24tbkRhajM5Nm5BUjJJME80WGN2VXNCMGM1TmwzaHdUSTNFbEZocUh3OUVBUkFoX19naXBOTEFMN2VpRWtCWUdqNGJpSWJyRUlIdWpNZUJWV3ZPbUJ4MGdEOUh4LUVJQ1B2UC0tM2g4T0JmdXpLczkwUnd3UTN4Wi1MSHlRSXFvd2JwZmd5dmtjMG1pdzV6VUNIR3VfdkRhNTVLUGZEZ3VMc2c?oc=5
+- Govt launches National Strategic Trade Command Centre to boost governance of India’s international trade ecosystem - News On AIR
+  Govt launches National Strategic Trade Command Centre to boost governance of India’
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FrWXAtTElTSjBlQUpWTUZ0X2VZVHExNDFTX0tRVjFDaTB1T3g5VENjakdhV2c2OFRIdGRSeXllSlI4cnFFZk9hZng3d0d5MmJldjFGOFBQZV9lOWpYYTFyeWFfWWZNU2lIakZ4SkJsd3RDT21Kd09vbzM3eXpCNE5kb3Q5MDkzSzZUbVdCR21mRG01WGVaaFR3dFoxN3hsWUtHR3h5YXZ5aldIVnFBeVV5dm42UQ?oc=5
+
+- India to take a leap in quantum, NM-ICPS 2.0 in works: DST Secy Waghmare - The Economic Times
+  India to take a leap in quantum, NM-ICPS 2.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ3NBbVROMmhzTFFYd2tMejl1TWxWVEZiZDZmN1J6UUFxQmRoelREbm5WTi1kcmZCczdqZVhONlhDMGlTUU82RExUcVB4ZjNnOFR1ZVpxTE9SbFFTRVBsOGtiVTZ2cFBWLUVwZThKMXUtMnRyYWo2RFJhS0dQTUh5WkZJVFJqNXBXNUpjZjFCcTNvbV9wd2pVcHFVbC14UkxNalFuZm5FVGNaS3F2Sk9QcVJXdVRhR1JhQUVFMDBUWnlFSHdqRjY1ejlndFQ2cWlzVXh3VURObmtrSlhxUHR30gHYAUFVX3lxTE9DUGxDeDdRZWFoSmRjcGpPMUlGMVBhSW9qc3BjUjRsYkR5YkdIOTA2a1pXX1BtZUt0NTlSNlBpZkVBQU8xaV94dmJrTFIwWVBMZkQyZE94b2VjQmZQakE0NjVEX0hqakxjYmNGbGdBWHg1TDVjT09NaUxiamNqWFcwaVZPVXN6Ykx0dlZVZ1k2d1ZIS3ZqQmRVQTJWRndMQld0aGJHbzZrZHBwWmVBTWRYQ0tBMFpiVjdxMVJ1TlJDLTBXSGRpX1o4amZBUUJlWkdXNGstSGZsaw?oc=5
+
+- CJP, Abhijeet Dipke: India's 'cockroach' protesters set to return despite police crackdown - BBC
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5
+
+- First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
+  First Tranche Of India-US Trade Deal Final
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
+
+- Trade Barriers A Hurdle To China-India Ties: Nirmala Sitharaman - NDTV
+  Nirmala Sitharaman is
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjluRkZJblRpbWJCLWliNlJKanIwOEtCQ2p2a2VaanBqVzB0MEJvTlpvTTlNZW1Nbm4yNjZMdlp0eDVVcWlFN1FGMVRld0RGTXBLc2ZWQlBieE9QcmhnVTNqVGF5cjJQd3JUTDljTW56Y3NOZVVQc1hxbVRBRWQ4bjM2VExhaThoQ2o1OXJJbVV5cWw5QzZaWDd4NkZtY0dPZzliZlpR0gGuAUFVX3lxTFBMcU9mTGhIOWFqYktxTHVkTmMyQ1dCSmZuWWVEd3FwcmxZcG04SkxVSnpPZjJwc1U2THdISVZBUzgzTThLajVsQVFXSlBFcEZlQmVwQ0gzb3RUdGhOWnQ2TUdBNko5RGFFOWFTM0lJWjZ1ZVZSVlU5b3VNTkhqZzJObXZBYXFjd0pRR3pSVGJKUlZSTk5YTUd0OFYwOWpMSFJjQUlseVYtdDI0dGlOUQ?oc=5
+
+- Govt launches National Strategic Trade Command Centre to boost governance of India’s international trade ecosystem - News On AIR
+  Govt launches National Strategic Trade Command Centre to boost governance of India’
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0FrWXAtTElTSjBlQUpWTUZ0X2VZVHExNDFTX0tRVjFDaTB1T3g5VENjakdhV2c2OFRIdGRSeXllSlI4cnFFZk9hZng3d0d5MmJldjFGOFBQZV9lOWpYYTFyeWFfWWZNU2lIakZ4SkJsd3RDT21Kd09vbzM3eXpCNE5kb3Q5MDkzSzZUbVdCR21mRG01WGVaaFR3dFoxN3hsWUtHR3h5YXZ5aldIVnFBeVV5dm42UQ?oc=5
+
+- India to take a leap in quantum, NM-ICPS 2.0 in works: DST Secy Waghmare - The Economic Times
+  India to take a leap in quantum, NM-ICPS 2.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ3NBbVROMmhzTFFYd2tMejl1TWxWVEZiZDZmN1J6UUFxQmRoelREbm5WTi1kcmZCczdqZVhONlhDMGlTUU82RExUcVB4ZjNnOFR1ZVpxTE9SbFFTRVBsOGtiVTZ2cFBWLUVwZThKMXUtMnRyYWo2RFJhS0dQTUh5WkZJVFJqNXBXNUpjZjFCcTNvbV9wd2pVcHFVbC14UkxNalFuZm5FVGNaS3F2Sk9QcVJXdVRhR1JhQUVFMDBUWnlFSHdqRjY1ejlndFQ2cWlzVXh3VURObmtrSlhxUHR30gHYAUFVX3lxTE9DUGxDeDdRZWFoSmRjcGpPMUlGMVBhSW9qc3BjUjRsYkR5YkdIOTA2a1pXX1BtZUt0NTlSNlBpZkVBQU8xaV94dmJrTFIwWVBMZkQyZE94b2VjQmZQakE0NjVEX0hqakxjYmNGbGdBWHg1TDVjT09NaUxiamNqWFcwaVZPVXN6Ykx0dlZVZ1k2d1ZIS3ZqQmRVQTJWRndMQld0aGJHbzZrZHBwWmVBTWRYQ0tBMFpiVjdxMVJ1TlJDLTBXSGRpX1o4amZBUUJlWkdXNGstSGZsaw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-16 02:49:46 UTC_
+_Last updated: 2026-10-16 10:34:53 UTC_
