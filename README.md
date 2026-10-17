@@ -4,41 +4,49 @@
   "If Pak-US War Breaks Out, Will
   🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnV4QzNkWXJ1Q2RmZkYxN0Y1YkRQOWNjWVlnRTRqUmNId3RRNzM2NVZBUUNvOUpCMmtoaERGS25udWtraGZqcS1XdUdvYVN2OXdIQ2JKUzJPZ1BoTGh4emFUUk4wQ3M5YUl6V2hONnlTZGpTYnQzenVNWXViNlRVbUpFVEZmVGhSaEJaNDg2UUVIamVycUxMTnVEOXN5UldsQ0xrNzBTTWxDNEJyUnF0bTRTQnlyX2Fha3hOQjgxZ0YwNkwxNXJuMUxEZzkzc3pXM24xX2VSUUtfMUNBTDhZaTAtbEI4TUJFZVF5WVMtNVJ0eUVQ0gH8AUFVX3lxTE9VUHg5cFNjWnRpalhncTlLUFVVWEFaTDYxS0lYRi10SkZJb2ttci0ycFozdEotd2l5NEJIeEZCalhvckhXcDFGYVE5ZGFSNjRJcHJPNy1FR09FdmJJOFV3QXRaUHd3QzJ6QnhJWFVSc1hWeXA5U3BzbzR2MnpRNXNnWXdvU0E0Wk9JbEcxdVFvOFdMRjU2M184RmJaVUN4YnU3SWRqZFlxNFFfVzZrb0dwMjlnYS1ZM29yc0NVT1NNenUwNTJUU3ZfMHJZbENiakNTdkR4c245dHpERnhWZ2ZEZmhCS1ZNWFR3cWE2cnZoSE9ib1RSMjQ0WTAxSA?oc=5
 
-- First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
-  First Tranche Of India-US Trade Deal Final
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
+- Anti-CEC protest LIVE | Abhijeet Dipke to be produced before SEM Court after Delhi Police action under BNSS - The Hindu
+  The Hindu reports that Abhijeet Dipke will be produced before SEM Court
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOT3pBdVJkQnNMR0xRNElqeEk2Q0JSSlFCdWNUS2JRYnpENVA2YkNlNVd3WmpHZldtNEZWay1SR0JrTHhGenM2anltT0l1SGFFdFViam10V2FpN21JZGxIMWtqaWwzTUVVVXNINDl1a3E1NTdmcTgxUkhXZmdGUUd3cjQ4QVhfUUFkeld5c2Y2Qi1Bc1Fqay1LU2JXUXRlXzh2d1JFWmdWRjlUYnFCaXFtTzZQSWNRN01KWm51Y2JoWVlDSVduc1h2bW1kRmdDLXJkdXRUaXFHVUdQcjltTkdERkI0TVc4RWlRVTJBRzJPazJScDFhS1kxaWpyQThzUdIBhAJBVV95cUxNdHBPR0FBQVBvM1huTEVnYUFoTDZBaDIwckpZWWdleHBZcEY3TmxjWW9BT2puY3g2cFVhQVdMV05lMUV0ZXUyUVg2T1dHQUd1Qno4ckRLdGkwZWRFc1E4Nl9rNlBQRDRERktWaVdselhHbi0ydjNzb1N3cVFSMWk5a2RTcWVXMkxkcDBXWFNHOFptVklBVGcxVXZtNE9nMWNNaC1XU1JtQVpsbjFTOVVleGU0a1JUTHpOeFpXOU83Q2laVzJqMWZ3Q3VFQ1pEQWt0MWJYamUyVk5pLXFzMGtYcW9PUDZyWWRIWlc2QV9LVU91a3FCcVlBVk1vaDdFVzRRTF9SeQ?oc=5
 
-- Probe Agency ED Summons Pinarayi Vijayan In Money Laundering Case - NDTV
-  Probe Agency ED Summons Pinar
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjIxRUlkWjhhWDMxUHVPdVBJUlhja1JoanB1WXlfQlRyVHRrV0UwS2xac1M0ZXNiUzJKMUM1LW1DQk9FMXhJbnY5NDZxOFlwSGFiX1UyWkxoYkJjRmNMU3AtOGw4U3RMQzdPblk1ZkstRkhrQVY5RHpubEs0TWhXWEVWMWxIbUN2WU91X194cV9oUll3UU9qZ0RvOFJhbG5PeGZXeWRVTlMyQdIBsgFBVV95cUxPb096VFMzTmxmVHI0MjgwRTRHZ080UmE4bHlZYzBiSmJ1VHlLUGppa3hCWjQ3YXYwQUVYb1NTbXZrQlY4VGtETmV5NHlLWkREYnRVMWZQU1NNa1NkdFJOMmRPSGl1S3NZUzVqZUM5SjcwQVNEQWJ5SlpseVd3YnJ1dWFSV0pEZkx2TWhzbHhsMU80eEFPM3lmSWlsbmxUMFlpdGp3UWpDblprSG5nSmUzMWRn?oc=5
+- Trump waives some Russia-related sanctions that threatened 100% tariffs on India | World News - Hindustan Times
+  The Indian government is considering imposing 100% tariffs on India
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdWN3WDdwTDdJejhETXAyaFNYN3V3Q0hKU1BWcWFIU3BKY00tOTZlQ3pmSzJXNzZKWEgyWHV2S3l6Zlp3UUFyMVNwX2QyX01IRkVKY2c1UzNFV0FBRHplQm9EdllLWUM3QVBBN1gxbkhqZzdmUW5Ca1Nva2ZUaHV3RHFjeHBLOS1jMXJFRW15VG1ROGVHSGZwajVfblo5YWgtMEdNaU9uNTdnQUIwUmVOM1JyMWozWFlxRUNLTV9BbmVsMjJFeDhDMDctTy00c1AxYUM5d0N4My1GbTE3bm8yMUJjN0hwcUFJTVRkVHNvdWlkX05n0gH6AUFVX3lxTE9ZekVBOVdKcDFuYWRQWnk1YWRvZ1F2M2RfdVVxNlNyWC1sUUdZYWlQVTZzVkp0MzBhZFRSaFlUSExZZFltWWk5OU1jVkdBUmUyQ2ZnRXRNbk5CRUIxeHNZcXZtLVh0eDFFc2hEbjBoV1FVUGxoamd0dkRxQzBhbGNITkd6a3F0SzhydjlvWGVWMV9hdjM5Zms1ODhicUtjcE01aGo4SHlKV2FlUkFwM2liWS1aNFN2TXcxRVh5b0dVOUEzM0ZpcUExQ29WSjFKaVNreTF2QnpoTDBvTzNxSlJkTjFwZGQtN3RzUzhuVUh4SWk0cG5Mb3ZvUmc?oc=5
+
+- India, West Indies level 2-2 ahead of series-deciding fifth T20I - News On AIR
+  India, West Indies level 2-2 ahead of
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVVsSHpSODR1Y1lHTUJwdERCT0tTQXZtWVVHZDBVaXVQQndPa244dHNYMV9ILVN3elZyc3JjTW9OVnJ2ZHlrT08xYzJxTUprbm9OVkhmQXBMT2IxME5lcmRCVzNsYWM1bjZ4RGU3TXkwLTJHRktrT19qc25wZjJkbm04dFpvRUpzcVdzYUtfcl9lWHc?oc=5
 
 - CJP, Abhijeet Dipke: 'Cockroach' party founder detained ahead of Central Park Delhi protest - BBC
   CJP, Abhijeet Dipke:
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5
 
-- Imran Khan asked to leave India: What rights do OCI cardholders have? - The Hindu
-  Imran Khan asked to leave India: What rights do
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzIzaVdoeXdSMzZVZG9SMTAxU1czaWo2MXVVVWw4d1VhQUhSUmZiR3hoNVZKN25PNFVCT1kyNGdTSjJKOF9qZDZSOXplMlNvT0dIRXQtVnVQd0ZmSVVkRV82YWRoa2VYOG1fM19aUG1hRTltN3NyN3VEU2ZmQ0ZYeVNIc3VtekxzbWNkR0s2RUU4Xy1DLXRzeHJ0YlJ3RjdaaWltVWlCUjVUeVl0TDJxUVVuNWROanhZUGk1VWZQUkVtSVdy0gHLAUFVX3lxTE5GZ0NudnlMUGtMZ3JyYUpXeGZabHVWZlctS0V2aTJEeXhUUkpBMGFfV2lkSHA0eXdCMEt4a29pRV94UGpVUktfcEFTbUNFX3pFOFNyWXFpbW82dVUtVFl3czhxelBBb0MwRVE0YThSVEp2RVp4bnBzMDd6R1dQck1LRldreVdfWXpoMHRhRzBfSTUtNmFwSGI3cEtMaE5VV2tfWENWNWttZy1NRE5WQVpMZHRhNnFUTHpzZElHeGJyNTZmQ1R5OHJWbTlj?oc=5
-
-- Trump’s AI Task Force to Commission Report on Technology’s Risks - Bloomberg.com
-  Trump’s AI Task Force to
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGEzNWktRURjOUpOY2JGMXI5YkdabjBsTjBVWV8zbWdjNkJFSklkOG1wUm14TnVJY2kxcnBrWjBEX1NtNWdtUW1SN2ZCZjRZeEFmd3ZLLTVsSVdabDNfSHBTVktXVXZyYmIxbWNLN2dydDZrWUJSemdoVUI2MFYtWklqc2lYandENHFtdTJJVVpLRmZ0NW5KTlBMQm1NVjJ2b0phanBsbkdZeEQzT0xjTVFNMXNndw?oc=5
-
-- China mulls new tech export bans covering AI, biotechnology and solar power - South China Morning Post
-  China mulls new tech export bans covering AI, biotechnology and
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWfSAcYBQVVfeXFMUElacGlzTVRseUtzSEZCSk5FSW5FaXVBbDRVQkVncHRqUXVmcDloY0ZCb0hiRjlxbkU0RDliRG5zUm1VUDd4N2tPNmd5TU4wWUI1eURILXZRS2ZQczR6YVdaQXJUSjh2VnZHbG1CUGFkdkFMbklBZHFJT0gtOFlaS1hhZlo3ZnQ3RWNLZ3djR0lhYm1tanlqMkVoaXNsUFUwblJ5Q1NQcDZzN0MyM3FYUEpnMGRPWDN1QXpZSnNpbHpESmZ4Qkt3?oc=5
+- How smart technology is shaping the future of work - The Hindu
+  The Hindu reports on how technology is shaping
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1hxY1BVR2h1QkhUMkhCX1FrUm5hWUg4RnFnM3dFcC1yRWl0TDB4TkFDSEg4QzBQSC1JTWdhcVJCbWQxVlZhYkktQnNDVWh4LXNVaTFocEU1QUtaSmZURVdNcm1CYnBSX3dfbHk1a1lqakcwLXhYZzA5WVlTMXVDZkJLNG1pMVhFZzNDaDRtM18tQzVOeFhoNks2OXR6N0FsVEVFbTk0Y2c5RmxWX0E2Q21xN2wxeXVtYWNoWnk1TlJDcTFKS3hv0gHOAUFVX3lxTE42Q0xXTHk3WjZFamw5US15N0JXY2JLSXF6VTM3anZPc0EwZFpzZlJSa21JRlpkb3gtUzFEamY3S0FWQ3F3eGxxckRXLVAwNkE4WEFBU2RvTEN4R3hRUXhORVhCbGlESDZ3RUZvSkpLV0w4a2VzZXZTQ3RRZjllbGV4VjFQem00LWRQOE9IQ1REbXc5dGM1bmJIQmg3RnFGSXNBLUp4N0NJZWxMaXhhcXNicWt1OHNBZFMzd2xyelBLYkZvVGVMbWV3cGdLbjl3?oc=5
 
 - Watch: Did Tesla really just unveil a flying car? - BBC
   &nbsp; &nbsp
   🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUMmU5WE9uYmZpRHRWekh5YUlUZHozdlk1V2h4cjI3SnliZlJ3S1A4SnFZcXNIRUZKREVpcnhzdWxjdWxZd1U3MG1KaTJROFBFWTRpMDJzbXk?oc=5
 
-- AGRICON 2026 highlights new opportunities in agricultural entrepreneurship and technology - The Hindu
-  AGRICON 2026 highlights new opportunities in
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMEZsMEU4RUhCdXZmeEF2b01WbHFZbEJuS2hTUHQ4bENxMkNweDlnaWgzLWpRUmd2V0Jfd1NlRE9SYTVTczVSc09iSVhEaTF3czg1UHlwZ2JHS25RdzBPWVFoUC1fZl9Gd1FQRGF2alF4eDVQYXg4V1FIOG5WelBRMThDT0Z1bXJaaTRNYTlaakZ0N201THdwdndFU2lUYXZ4UG5QdHQ4UndqUm5FMHFsYXFReDhRczlIMDJQekhlcTVJbHRVVWtWaFd1TEI5X0lfSU1tQlpTM1lscHhJQ01CSjFIcHh4RE1BM05N0gHyAUFVX3lxTE1pajNtQjJvelBOU3FWMkw0bmdDMkNTbDhHcUVoeEpKRkpWaTFmRDhkLTJfUl9MbkRMWEpwOVd0Wm1Va20zU25VUVlrUndmSXhGZmJrcF9jZ2hURU1yOWJub3g2RVZlbHpqVUZqY095T2dtZm5UUlA5X1RCVzRFSU9VaDJZQjJ6eVFzZmpWTEotVEFUSWdBR0ZWempQVG94b0k1b3lTWkhCam9SbHFWdlhUZG9vcElLYkJkUEJ3WUdvTXlZV0trZFk5UDlWcm93MWVDRDU4UC1iMXEzZGRTS19SREJtWnBhZ1lQWFRiczI5blNR?oc=5
+- China Moves to Restrict Exports of Some Solar Technologies - Bloomberg.com
+  China Moves to Restrict Exports of
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnM0UER5dXhTaXU0cW83R3lzSUtwV3F4Wk10SWlISFc1aVN6Mm9KcW0yLU8zcGJpallBdnE2eUROWEFiQjJQUVpYcm56RWpqLU5sLUVINlBxN1Q4b0FLTy1hYlZBNEJjbEVIRFNmWmpMVlo2MlQ4b1BYbUZRWnkxcFdtVUpmWklmc2N4U0FXM0Z0UnJVMHN4d0lKX3FsdGJweXJOeXhaNjMwS05kNGc?oc=5
 
-- National Security Dialogue | Diffusion and Disruption: Emerging Technologies, Non-State Actors and the Changing Distribution of Advanced Capabilities - orfonline.org
-  National Security Dialogue: Emerging Technologies, Non-State Actors and the Changing Distribution
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS2xtMUtCY3AteDFuN3VBbVNUQmxoS0lac21hOHRaUVFoQU53ODcwNGJNRnRPazRTRzVhYjgyNjFsa0NtTzR1ak1SYzVWWHd2VktDaGI2RDJUZFk1Y1Q5SDg5RjExNG1tUmFtRmozNzVQRkh1WDQyV3pybVAtNUI5eEhoeGZsbEhrM0hpMHprYjFJX3pIUUd6dU45NDFrZUc0QlROQnkwWGZRU2FGUzFOR2I2TktjMllhMHhLUzRLNE1obmw5VGt5OE9Bb0lFTE1aeFFWMERaSGZDVGtZR2pDOUdYLTczcUc5R25vYWNqbnBrNHZIOEJQRHFpcHVERHJEaGt0bzhWcFo?oc=5
+- Tesla turns to 50-year-old stunt technology as it tries to Roadster again - Ars Technica
+  Tesla turns to 50-year-old stunt technology as
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTl1cVVFZ3NHRFE0VXFLRVdmSE9YTGFaNjFuV19MbEo1b1JicVpIcWlQV19heW9ETGxqcHpNMDVseGRpdnNpUjNJa3hGdHozOWFxWXJCM0V3LWtaQ1Ytd1FUN2tTNExnVndtX2dBNzlnZmlZWUd3N0dYRnFZVkhocGJSYmxhUVB2ekZJS0hxMzVvVk9zeTB0NDl1OUJyQmVrNW1OVFVsdnNjYUE4LWF2aw?oc=5
+
+- UNICEF Femtech Ventures Frontier Technology Funding for Women’s Health - fundsforNGOs - Grants and Resources for Sustainability
+  UNICEF Femtech Ventures Frontier Technology Funding for Women's Health
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0FiWXhSR1Z2Z1lRbTR2RTk5TWdZRjdLOVJXTm9zTkRHVTdzOG5Ndl9SZkRDUG4wYmNqcXNUS3U5ZmJid21GVlIxNVEyOG1hLXM4cFUyREJReGliYzIxSGdiTnFSaEktcWR0dVduZFBad0hRd0RPbDVmRTc5clltaEhKTHkwZ2NlRzQ4Y09CeXJrQ3oxbnRNRmZtMFU1RnMxT2hYS19QRlg0Ynh2WC02WTlfRDMyU3BLT2JLb01lZFVHUdIBxwFBVV95cUxPRzVoak1oblNsR3ZTYTNPSDNsMTNFMjRUWnlET0lJbHYxbktjU0tBcHRncHRwWUxMRVpna05tXzBJTmhKN0JBbElNMVp2Wk1BMWstdGpHRDIzQnpNdkh2U3RxaHp5WHNnSG1IbmVaVm5pWjZ2QmlBaWZJcGc3QVNjcG0zdXJsYUJaSUxBYU1NMllQa0JVUEw1Y2xVVDhqUk9UWkU1S0tIV2pjWW1NNy13SnR6amZrTE9LTi1scUk1UlFFVk5SYVNj?oc=5
+
+- Netflix turns to Peter Rice to tackle slowing viewership: What the former Disney executive brings to the table
+  Former Disney executive Peter Rice to replace content chief Bela Bajaria.
+  🔗 https://www.livemint.com/companies/people/netflix-turns-to-peter-rice-to-tackle-slowing-viewership-what-the-former-disney-executive-brings-to-the-table-11792200124373.html
+
+- Florida art dealer gets nearly 4 years in prison for scheme to sell fake Andy Warhol artworks
+  Florida art dealer gets nearly 4 years in prison for scheme to
+  🔗 https://www.livemint.com/companies/florida-art-dealer-gets-nearly-4-years-in-prison-for-scheme-to-sell-fake-andy-warhol-artworks-11792189455805.html
 
 - Compass Files Suit Over California Home Listing Service Rules
    Compass Inc., the top US broker for residential properties, sued California’s largest real estate listing service.
@@ -52,13 +60,17 @@
   Revenue rose 41.4% in the September quarter. InstaHelp’s  ₹174 crore
   🔗 https://www.livemint.com/companies/company-results/urban-company-prioritizes-instahelp-growth-as-losses-widen-11792161351409.html
 
-- RBI approves merger of Emirates NBD’s India branches with RBL Bank from 1 December
-  The move consolidates the Dubai-based lender’s Indian operations with RBL Bank. The private lender plans to expand branches and deepen its corporate
-  🔗 https://www.livemint.com/companies/news/rbi-approves-merger-of-emirates-nbd-s-india-branches-with-rbl-bank-from-1-december-11792158042439.html
+- Sunil Singhania makes a fresh entry in this defence stock
+  Sunil Singhania has picked up a stake in this defence stock
+  🔗 https://www.livemint.com/market/stock-market-news/sunil-singhania-sunil-singhania-portfolio-guru-stock-super-investors-11792153559805.html
 
-- Chandrasekaran, P.B. Balaji to join Iveco board as Tata deal reaches final stage
-  N. Chandrasekaran will join as Iveco’
-  🔗 https://www.livemint.com/companies/news/chandrasekaran-p-b-balaji-to-join-iveco-board-as-tata-deal-reaches-final-stage-11792157208740.html
+- Foreign Holdings of US Treasuries Rise From Almost One-Year Low
+  Foreign holdings of US Treasuries rose in August from the lowest level since October 2025. Canada and
+  🔗 https://www.livemint.com/market/foreign-holdings-of-us-treasuries-rise-from-almost-one-year-low-11792184534641.html
+
+- ITC sets board meeting date to declare Q2 results 2026; net profit may decline due to cigarette taxation — share outlook
+  ITC informed about the board meeting date to declare Q2FY27 earnings
+  🔗 https://www.livemint.com/market/stock-market-news/itc-sets-board-meeting-date-to-declare-q2-results-2026-net-profit-may-decline-due-to-cigarette-taxation-share-outlook-11792178741965.html
 
 - Funding Markets Diverge as T-Bills Cheapen, Overnight Repo Calm
   Treasury-bill yields have risen sharply as a wave of new issuance tests investor demand.
@@ -67,18 +79,6 @@
 - Stocks slip as dollar heads for weekly loss
   Stocks slip as dollar heads
   🔗 https://www.livemint.com/market/stocks-slip-as-dollar-heads-for-weekly-loss-11792179512288.html
-
-- Arabica coffee touches one-month high as stocks remain critically low
-  Arabica coffee touches one-month
-  🔗 https://www.livemint.com/market/arabica-coffee-touches-one-month-high-as-stocks-remain-critically-low-11792178652490.html
-
-- Yes Bank flags 250-bps impact on core capital ratio after Supreme Court upholds AT-1 bond write-off ruling
-  Yes Bank said its Common Equity Tier 1 capital ratio could fall by about 250 basis points. The bank expects its overall Tier 1 ratio to remain at 14% and is reviewing its legal options.
-  🔗 https://www.livemint.com/market/stock-market-news/yes-bank-flags-250-bps-impact-in-core-capital-ratio-after-supreme-court-upholds-at-1-bond-write-off-ruling-11792175520924.html
-
-- Top 3 stocks to buy: Bajaj Finance, Dr Reddy's Lab, Grasim Industries by Sumeet Bagadia | Target price, stop-loss
-  Nifty 50 RSI has improved to 52.81, well above its average of 34
-  🔗 https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-bajaj-finance-dr-reddys-lab-grasim-industries-by-sumeet-bagadia-target-price-stoploss-11792172794591.html
 
 - Presidential adviser says Ukraine is in talks to lift speed limit on military satellite network
   Presidential adviser says Ukraine is in talks to lift
@@ -104,21 +104,25 @@
   Nasdaq slides 2% Friday to post worst week since June, pressured by AI
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5
 
-- Stock Market Today: Nasdaq Faces Weekly Loss on Tech Stock Slump — Live Updates - WSJ
-  The Nasdaq faces weekly loss on Tech Stock Slump.
+- Markets News, Oct. 16, 2026: Nasdaq, S&P 500 End Lower, Post Weekly Losses; AI Stocks Fall; Dow Logs Weekly Gain - Investopedia
+  Markets News, Oct. 16, 2026: Nasdaq, S&amp;
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUE4blVCenRZRG9PdjVNRXpqOWI4b21DeWJBczhXQ3NLaHpMS3E5N2tBUVF0NGx0LWVfcU01X0Etc0huYlVqNFlHOXNvTTZORk9SM0RSd2xzMUxsT01GX05xRFpaYmhTei1RdTh4a1F2V3I4U0lpeUVULVdCcVBNcHpiS0daTlQ5dDdsR1M0WEM?oc=5
+
+- Stock Market News: Nasdaq Faces Weekly Loss on Tech Stock Slump - WSJ
+  The WSJ reports Nasdaq faces weekly loss
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWtEQ1dWcXo2OG1zSkt0d3hELWZsX2ZhOE1adzdRdDdPM2VOZElCdXVhNHFETGtPeUwxUnRtc1R1TFVtY2l0M042c0xnWjdzRzhndjBJUmtHdXVhby11YkFYOERsSUhueU9jYTRCMFJJa3lxSGFjaWJrcUR0SllhWXJ4cURuUkU?oc=5
 
-- Stock market today: Tech sell-off weighs on stocks to end volatile week - Yahoo Finance
-  Yahoo Finance is a leading provider of financial news to
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjdQUFR1bVFaMnh2OGkwc1BVMTJXaEswWmtlWmV3UDR4YzFXQmdndkg4Y0xuS1NWazZIemdKeUYzRU8xQ3VuMllLdk5Sa3ZxQ3JsWk91bXZlcXFNSHNsSGZWc3dVR200WmdUQmpKSk83dkNZTnkydkNOT1JiS1ctT0NZa2ljQ0RMM0FfZHcySlktb2xVRHBVQ2tjeFdvd3Vpbkg2V1JwX2kybzdkZWo2S3pzeG93VkJrZ1NSNmdtVE4?oc=5
-
-- Funding Markets Diverge as T-Bills Cheapen, Overnight Repo Calm - Bloomberg.com
-  Funding Markets Diverge as T
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPN1NSWWRsa05Rb0FZSml6c1VRNC1venFVLVNaNS1zZ21oUzYxSFFjZzZucExjMmhGbkQxYjU5a3BGRThuRzRxZFgybjYwakw1R084NmpkVENtYVczTlRUWlFyZm96LVBRaXRid3lxR0RTZGU5ZUxQWU1BdjdCOHMxVllvcmFQby1ZQlNBZG5tcjZ4bXRTc0xpbTJqaGpkUGpPclp3R092a0cxYkkyaDlWQmtDTQ?oc=5
+- Daily Navigator-7/5/2026 – Market Outlook - www.sc.com
+  Daily Navigator
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ob2I4VDVjYjBJc2s1UUhKdVZ4S3NmUWEtUWVqQ3JNWE5vSFRBeHZLVU5DZFB2R0pjOGRCbldCNXRaQmtkWWdkNXk4d1V4OFc5TjYyX2xRSFJfNGN3N1dKRF9kRmxpX0NlbGQ5RUF6RQ?oc=5
 
 - Large, mid or small-cap mutual funds: Where should you invest a lumpsum amid volatile markets? - Moneycontrol.com
   Moneycontrol.com: Where should you invest a lumpsum
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRmZGY1pFQ3dWUG9ESk1QbXlJWlV4ZEY2cjZXMGtfZXU2N1daSDg3aEQzbHViWm5tZEFYaUt0MFZpeFJ3UEhucGxSSkVoZFBHQzRqYnE4MUJJcHpQY01rdFJVSklWZ3ZqaWs2Y2hzVWdRWjlBamM1a01NYloxN1JWYWJYWTNuZmdBS3hMMkE5V0ROY1Zzc3BXVXFFbERpanloa2xpX2VibEo2LWZaTnFBLTZjQVA2ZTNwUVd0WmUxemZPX1h0d0xjb2F4bGF4TTNtUHNOVEJ3R1pXR1gycFVaQkJBY0JUcUdMd3RZNloyWnpzTV9lZlo2ag?oc=5
+
+- US stocks: US market ends down sharply; worries about AI trade and high oil prices weigh
+  The S&amp;P 500, Dow Jones, and Nasdaq all recorded substantial losses. Concerns regarding debt-laden AI infrastructure companies affected investor sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh/articleshow/135003266.cms
 
 - Big US bank stocks head for longest weekly losing streak since 2008
   The KBW Bank Index has fallen about 13% since its August peak. Concerns about artificial intelligence disrupting financial services contribute to the negative sentiment toward the sector.
@@ -136,29 +140,25 @@
   Crompton Greaves Consumer Electricals reported a 65 percent increase in consolidated net profit for the September quarter. The company's revenue from operations also jumped by 18.15 percent compared to the previous year.
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q2-results-profit-surges-65-to-rs-124-crore/articleshow/134998426.cms
 
-- Cult.fit receives Sebi approval for proposed IPO
-  Cult.fit has received Sebi observations for its proposed IPO, comprising a fresh issue of up to Rs 950 crore and an offer for sale. Revenue rose 36.26
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-receives-sebi-approval-for-proposed-ipo/articleshow/134997161.cms
-
 - "If Pak-US War Breaks Out, Will Stand With Pakistan": BJP Leader Sparks Row - NDTV
   "If Pak-US War Breaks Out, Will
   🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnV4QzNkWXJ1Q2RmZkYxN0Y1YkRQOWNjWVlnRTRqUmNId3RRNzM2NVZBUUNvOUpCMmtoaERGS25udWtraGZqcS1XdUdvYVN2OXdIQ2JKUzJPZ1BoTGh4emFUUk4wQ3M5YUl6V2hONnlTZGpTYnQzenVNWXViNlRVbUpFVEZmVGhSaEJaNDg2UUVIamVycUxMTnVEOXN5UldsQ0xrNzBTTWxDNEJyUnF0bTRTQnlyX2Fha3hOQjgxZ0YwNkwxNXJuMUxEZzkzc3pXM24xX2VSUUtfMUNBTDhZaTAtbEI4TUJFZVF5WVMtNVJ0eUVQ0gH8AUFVX3lxTE9VUHg5cFNjWnRpalhncTlLUFVVWEFaTDYxS0lYRi10SkZJb2ttci0ycFozdEotd2l5NEJIeEZCalhvckhXcDFGYVE5ZGFSNjRJcHJPNy1FR09FdmJJOFV3QXRaUHd3QzJ6QnhJWFVSc1hWeXA5U3BzbzR2MnpRNXNnWXdvU0E0Wk9JbEcxdVFvOFdMRjU2M184RmJaVUN4YnU3SWRqZFlxNFFfVzZrb0dwMjlnYS1ZM29yc0NVT1NNenUwNTJUU3ZfMHJZbENiakNTdkR4c245dHpERnhWZ2ZEZmhCS1ZNWFR3cWE2cnZoSE9ib1RSMjQ0WTAxSA?oc=5
 
-- First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
-  First Tranche Of India-US Trade Deal Final
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
+- Anti-CEC protest LIVE | Abhijeet Dipke to be produced before SEM Court after Delhi Police action under BNSS - The Hindu
+  The Hindu reports that Abhijeet Dipke will be produced before SEM Court
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOT3pBdVJkQnNMR0xRNElqeEk2Q0JSSlFCdWNUS2JRYnpENVA2YkNlNVd3WmpHZldtNEZWay1SR0JrTHhGenM2anltT0l1SGFFdFViam10V2FpN21JZGxIMWtqaWwzTUVVVXNINDl1a3E1NTdmcTgxUkhXZmdGUUd3cjQ4QVhfUUFkeld5c2Y2Qi1Bc1Fqay1LU2JXUXRlXzh2d1JFWmdWRjlUYnFCaXFtTzZQSWNRN01KWm51Y2JoWVlDSVduc1h2bW1kRmdDLXJkdXRUaXFHVUdQcjltTkdERkI0TVc4RWlRVTJBRzJPazJScDFhS1kxaWpyQThzUdIBhAJBVV95cUxNdHBPR0FBQVBvM1huTEVnYUFoTDZBaDIwckpZWWdleHBZcEY3TmxjWW9BT2puY3g2cFVhQVdMV05lMUV0ZXUyUVg2T1dHQUd1Qno4ckRLdGkwZWRFc1E4Nl9rNlBQRDRERktWaVdselhHbi0ydjNzb1N3cVFSMWk5a2RTcWVXMkxkcDBXWFNHOFptVklBVGcxVXZtNE9nMWNNaC1XU1JtQVpsbjFTOVVleGU0a1JUTHpOeFpXOU83Q2laVzJqMWZ3Q3VFQ1pEQWt0MWJYamUyVk5pLXFzMGtYcW9PUDZyWWRIWlc2QV9LVU91a3FCcVlBVk1vaDdFVzRRTF9SeQ?oc=5
 
-- Probe Agency ED Summons Pinarayi Vijayan In Money Laundering Case - NDTV
-  Probe Agency ED Summons Pinar
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjIxRUlkWjhhWDMxUHVPdVBJUlhja1JoanB1WXlfQlRyVHRrV0UwS2xac1M0ZXNiUzJKMUM1LW1DQk9FMXhJbnY5NDZxOFlwSGFiX1UyWkxoYkJjRmNMU3AtOGw4U3RMQzdPblk1ZkstRkhrQVY5RHpubEs0TWhXWEVWMWxIbUN2WU91X194cV9oUll3UU9qZ0RvOFJhbG5PeGZXeWRVTlMyQdIBsgFBVV95cUxPb096VFMzTmxmVHI0MjgwRTRHZ080UmE4bHlZYzBiSmJ1VHlLUGppa3hCWjQ3YXYwQUVYb1NTbXZrQlY4VGtETmV5NHlLWkREYnRVMWZQU1NNa1NkdFJOMmRPSGl1S3NZUzVqZUM5SjcwQVNEQWJ5SlpseVd3YnJ1dWFSV0pEZkx2TWhzbHhsMU80eEFPM3lmSWlsbmxUMFlpdGp3UWpDblprSG5nSmUzMWRn?oc=5
+- Trump waives some Russia-related sanctions that threatened 100% tariffs on India | World News - Hindustan Times
+  The Indian government is considering imposing 100% tariffs on India
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdWN3WDdwTDdJejhETXAyaFNYN3V3Q0hKU1BWcWFIU3BKY00tOTZlQ3pmSzJXNzZKWEgyWHV2S3l6Zlp3UUFyMVNwX2QyX01IRkVKY2c1UzNFV0FBRHplQm9EdllLWUM3QVBBN1gxbkhqZzdmUW5Ca1Nva2ZUaHV3RHFjeHBLOS1jMXJFRW15VG1ROGVHSGZwajVfblo5YWgtMEdNaU9uNTdnQUIwUmVOM1JyMWozWFlxRUNLTV9BbmVsMjJFeDhDMDctTy00c1AxYUM5d0N4My1GbTE3bm8yMUJjN0hwcUFJTVRkVHNvdWlkX05n0gH6AUFVX3lxTE9ZekVBOVdKcDFuYWRQWnk1YWRvZ1F2M2RfdVVxNlNyWC1sUUdZYWlQVTZzVkp0MzBhZFRSaFlUSExZZFltWWk5OU1jVkdBUmUyQ2ZnRXRNbk5CRUIxeHNZcXZtLVh0eDFFc2hEbjBoV1FVUGxoamd0dkRxQzBhbGNITkd6a3F0SzhydjlvWGVWMV9hdjM5Zms1ODhicUtjcE01aGo4SHlKV2FlUkFwM2liWS1aNFN2TXcxRVh5b0dVOUEzM0ZpcUExQ29WSjFKaVNreTF2QnpoTDBvTzNxSlJkTjFwZGQtN3RzUzhuVUh4SWk0cG5Mb3ZvUmc?oc=5
+
+- India, West Indies level 2-2 ahead of series-deciding fifth T20I - News On AIR
+  India, West Indies level 2-2 ahead of
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVVsSHpSODR1Y1lHTUJwdERCT0tTQXZtWVVHZDBVaXVQQndPa244dHNYMV9ILVN3elZyc3JjTW9OVnJ2ZHlrT08xYzJxTUprbm9OVkhmQXBMT2IxME5lcmRCVzNsYWM1bjZ4RGU3TXkwLTJHRktrT19qc25wZjJkbm04dFpvRUpzcVdzYUtfcl9lWHc?oc=5
 
 - CJP, Abhijeet Dipke: 'Cockroach' party founder detained ahead of Central Park Delhi protest - BBC
   CJP, Abhijeet Dipke:
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5
-
-- Imran Khan asked to leave India: What rights do OCI cardholders have? - The Hindu
-  Imran Khan asked to leave India: What rights do
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzIzaVdoeXdSMzZVZG9SMTAxU1czaWo2MXVVVWw4d1VhQUhSUmZiR3hoNVZKN25PNFVCT1kyNGdTSjJKOF9qZDZSOXplMlNvT0dIRXQtVnVQd0ZmSVVkRV82YWRoa2VYOG1fM19aUG1hRTltN3NyN3VEU2ZmQ0ZYeVNIc3VtekxzbWNkR0s2RUU4Xy1DLXRzeHJ0YlJ3RjdaaWltVWlCUjVUeVl0TDJxUVVuNWROanhZUGk1VWZQUkVtSVdy0gHLAUFVX3lxTE5GZ0NudnlMUGtMZ3JyYUpXeGZabHVWZlctS0V2aTJEeXhUUkpBMGFfV2lkSHA0eXdCMEt4a29pRV94UGpVUktfcEFTbUNFX3pFOFNyWXFpbW82dVUtVFl3czhxelBBb0MwRVE0YThSVEp2RVp4bnBzMDd6R1dQck1LRldreVdfWXpoMHRhRzBfSTUtNmFwSGI3cEtMaE5VV2tfWENWNWttZy1NRE5WQVpMZHRhNnFUTHpzZElHeGJyNTZmQ1R5OHJWbTlj?oc=5
 
 - FirstCry’s Core Revenue Engine Is Fighting Too Many Battles
   Sixteen years since FirstCry began its journey, what began as a kidswear marketplace has spawned a massive multi-channel ecommerce.
@@ -184,81 +184,69 @@
   "If Pak-US War Breaks Out, Will
   🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnV4QzNkWXJ1Q2RmZkYxN0Y1YkRQOWNjWVlnRTRqUmNId3RRNzM2NVZBUUNvOUpCMmtoaERGS25udWtraGZqcS1XdUdvYVN2OXdIQ2JKUzJPZ1BoTGh4emFUUk4wQ3M5YUl6V2hONnlTZGpTYnQzenVNWXViNlRVbUpFVEZmVGhSaEJaNDg2UUVIamVycUxMTnVEOXN5UldsQ0xrNzBTTWxDNEJyUnF0bTRTQnlyX2Fha3hOQjgxZ0YwNkwxNXJuMUxEZzkzc3pXM24xX2VSUUtfMUNBTDhZaTAtbEI4TUJFZVF5WVMtNVJ0eUVQ0gH8AUFVX3lxTE9VUHg5cFNjWnRpalhncTlLUFVVWEFaTDYxS0lYRi10SkZJb2ttci0ycFozdEotd2l5NEJIeEZCalhvckhXcDFGYVE5ZGFSNjRJcHJPNy1FR09FdmJJOFV3QXRaUHd3QzJ6QnhJWFVSc1hWeXA5U3BzbzR2MnpRNXNnWXdvU0E0Wk9JbEcxdVFvOFdMRjU2M184RmJaVUN4YnU3SWRqZFlxNFFfVzZrb0dwMjlnYS1ZM29yc0NVT1NNenUwNTJUU3ZfMHJZbENiakNTdkR4c245dHpERnhWZ2ZEZmhCS1ZNWFR3cWE2cnZoSE9ib1RSMjQ0WTAxSA?oc=5
 
-- First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
-  First Tranche Of India-US Trade Deal Final
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
+- Anti-CEC protest LIVE | Abhijeet Dipke to be produced before SEM Court after Delhi Police action under BNSS - The Hindu
+  The Hindu reports that Abhijeet Dipke will be produced before SEM Court
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOT3pBdVJkQnNMR0xRNElqeEk2Q0JSSlFCdWNUS2JRYnpENVA2YkNlNVd3WmpHZldtNEZWay1SR0JrTHhGenM2anltT0l1SGFFdFViam10V2FpN21JZGxIMWtqaWwzTUVVVXNINDl1a3E1NTdmcTgxUkhXZmdGUUd3cjQ4QVhfUUFkeld5c2Y2Qi1Bc1Fqay1LU2JXUXRlXzh2d1JFWmdWRjlUYnFCaXFtTzZQSWNRN01KWm51Y2JoWVlDSVduc1h2bW1kRmdDLXJkdXRUaXFHVUdQcjltTkdERkI0TVc4RWlRVTJBRzJPazJScDFhS1kxaWpyQThzUdIBhAJBVV95cUxNdHBPR0FBQVBvM1huTEVnYUFoTDZBaDIwckpZWWdleHBZcEY3TmxjWW9BT2puY3g2cFVhQVdMV05lMUV0ZXUyUVg2T1dHQUd1Qno4ckRLdGkwZWRFc1E4Nl9rNlBQRDRERktWaVdselhHbi0ydjNzb1N3cVFSMWk5a2RTcWVXMkxkcDBXWFNHOFptVklBVGcxVXZtNE9nMWNNaC1XU1JtQVpsbjFTOVVleGU0a1JUTHpOeFpXOU83Q2laVzJqMWZ3Q3VFQ1pEQWt0MWJYamUyVk5pLXFzMGtYcW9PUDZyWWRIWlc2QV9LVU91a3FCcVlBVk1vaDdFVzRRTF9SeQ?oc=5
 
-- Probe Agency ED Summons Pinarayi Vijayan In Money Laundering Case - NDTV
-  Probe Agency ED Summons Pinar
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjIxRUlkWjhhWDMxUHVPdVBJUlhja1JoanB1WXlfQlRyVHRrV0UwS2xac1M0ZXNiUzJKMUM1LW1DQk9FMXhJbnY5NDZxOFlwSGFiX1UyWkxoYkJjRmNMU3AtOGw4U3RMQzdPblk1ZkstRkhrQVY5RHpubEs0TWhXWEVWMWxIbUN2WU91X194cV9oUll3UU9qZ0RvOFJhbG5PeGZXeWRVTlMyQdIBsgFBVV95cUxPb096VFMzTmxmVHI0MjgwRTRHZ080UmE4bHlZYzBiSmJ1VHlLUGppa3hCWjQ3YXYwQUVYb1NTbXZrQlY4VGtETmV5NHlLWkREYnRVMWZQU1NNa1NkdFJOMmRPSGl1S3NZUzVqZUM5SjcwQVNEQWJ5SlpseVd3YnJ1dWFSV0pEZkx2TWhzbHhsMU80eEFPM3lmSWlsbmxUMFlpdGp3UWpDblprSG5nSmUzMWRn?oc=5
+- Trump waives some Russia-related sanctions that threatened 100% tariffs on India | World News - Hindustan Times
+  The Indian government is considering imposing 100% tariffs on India
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdWN3WDdwTDdJejhETXAyaFNYN3V3Q0hKU1BWcWFIU3BKY00tOTZlQ3pmSzJXNzZKWEgyWHV2S3l6Zlp3UUFyMVNwX2QyX01IRkVKY2c1UzNFV0FBRHplQm9EdllLWUM3QVBBN1gxbkhqZzdmUW5Ca1Nva2ZUaHV3RHFjeHBLOS1jMXJFRW15VG1ROGVHSGZwajVfblo5YWgtMEdNaU9uNTdnQUIwUmVOM1JyMWozWFlxRUNLTV9BbmVsMjJFeDhDMDctTy00c1AxYUM5d0N4My1GbTE3bm8yMUJjN0hwcUFJTVRkVHNvdWlkX05n0gH6AUFVX3lxTE9ZekVBOVdKcDFuYWRQWnk1YWRvZ1F2M2RfdVVxNlNyWC1sUUdZYWlQVTZzVkp0MzBhZFRSaFlUSExZZFltWWk5OU1jVkdBUmUyQ2ZnRXRNbk5CRUIxeHNZcXZtLVh0eDFFc2hEbjBoV1FVUGxoamd0dkRxQzBhbGNITkd6a3F0SzhydjlvWGVWMV9hdjM5Zms1ODhicUtjcE01aGo4SHlKV2FlUkFwM2liWS1aNFN2TXcxRVh5b0dVOUEzM0ZpcUExQ29WSjFKaVNreTF2QnpoTDBvTzNxSlJkTjFwZGQtN3RzUzhuVUh4SWk0cG5Mb3ZvUmc?oc=5
+
+- India, West Indies level 2-2 ahead of series-deciding fifth T20I - News On AIR
+  India, West Indies level 2-2 ahead of
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVVsSHpSODR1Y1lHTUJwdERCT0tTQXZtWVVHZDBVaXVQQndPa244dHNYMV9ILVN3elZyc3JjTW9OVnJ2ZHlrT08xYzJxTUprbm9OVkhmQXBMT2IxME5lcmRCVzNsYWM1bjZ4RGU3TXkwLTJHRktrT19qc25wZjJkbm04dFpvRUpzcVdzYUtfcl9lWHc?oc=5
 
 - CJP, Abhijeet Dipke: 'Cockroach' party founder detained ahead of Central Park Delhi protest - BBC
   CJP, Abhijeet Dipke:
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5
-
-- Imran Khan asked to leave India: What rights do OCI cardholders have? - The Hindu
-  Imran Khan asked to leave India: What rights do
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzIzaVdoeXdSMzZVZG9SMTAxU1czaWo2MXVVVWw4d1VhQUhSUmZiR3hoNVZKN25PNFVCT1kyNGdTSjJKOF9qZDZSOXplMlNvT0dIRXQtVnVQd0ZmSVVkRV82YWRoa2VYOG1fM19aUG1hRTltN3NyN3VEU2ZmQ0ZYeVNIc3VtekxzbWNkR0s2RUU4Xy1DLXRzeHJ0YlJ3RjdaaWltVWlCUjVUeVl0TDJxUVVuNWROanhZUGk1VWZQUkVtSVdy0gHLAUFVX3lxTE5GZ0NudnlMUGtMZ3JyYUpXeGZabHVWZlctS0V2aTJEeXhUUkpBMGFfV2lkSHA0eXdCMEt4a29pRV94UGpVUktfcEFTbUNFX3pFOFNyWXFpbW82dVUtVFl3czhxelBBb0MwRVE0YThSVEp2RVp4bnBzMDd6R1dQck1LRldreVdfWXpoMHRhRzBfSTUtNmFwSGI3cEtMaE5VV2tfWENWNWttZy1NRE5WQVpMZHRhNnFUTHpzZElHeGJyNTZmQ1R5OHJWbTlj?oc=5
 
 - "If Pak-US War Breaks Out, Will Stand With Pakistan": BJP Leader Sparks Row - NDTV
   "If Pak-US War Breaks Out, Will
   🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnV4QzNkWXJ1Q2RmZkYxN0Y1YkRQOWNjWVlnRTRqUmNId3RRNzM2NVZBUUNvOUpCMmtoaERGS25udWtraGZqcS1XdUdvYVN2OXdIQ2JKUzJPZ1BoTGh4emFUUk4wQ3M5YUl6V2hONnlTZGpTYnQzenVNWXViNlRVbUpFVEZmVGhSaEJaNDg2UUVIamVycUxMTnVEOXN5UldsQ0xrNzBTTWxDNEJyUnF0bTRTQnlyX2Fha3hOQjgxZ0YwNkwxNXJuMUxEZzkzc3pXM24xX2VSUUtfMUNBTDhZaTAtbEI4TUJFZVF5WVMtNVJ0eUVQ0gH8AUFVX3lxTE9VUHg5cFNjWnRpalhncTlLUFVVWEFaTDYxS0lYRi10SkZJb2ttci0ycFozdEotd2l5NEJIeEZCalhvckhXcDFGYVE5ZGFSNjRJcHJPNy1FR09FdmJJOFV3QXRaUHd3QzJ6QnhJWFVSc1hWeXA5U3BzbzR2MnpRNXNnWXdvU0E0Wk9JbEcxdVFvOFdMRjU2M184RmJaVUN4YnU3SWRqZFlxNFFfVzZrb0dwMjlnYS1ZM29yc0NVT1NNenUwNTJUU3ZfMHJZbENiakNTdkR4c245dHpERnhWZ2ZEZmhCS1ZNWFR3cWE2cnZoSE9ib1RSMjQ0WTAxSA?oc=5
 
-- First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
-  First Tranche Of India-US Trade Deal Final
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
+- Anti-CEC protest LIVE | Abhijeet Dipke to be produced before SEM Court after Delhi Police action under BNSS - The Hindu
+  The Hindu reports that Abhijeet Dipke will be produced before SEM Court
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOT3pBdVJkQnNMR0xRNElqeEk2Q0JSSlFCdWNUS2JRYnpENVA2YkNlNVd3WmpHZldtNEZWay1SR0JrTHhGenM2anltT0l1SGFFdFViam10V2FpN21JZGxIMWtqaWwzTUVVVXNINDl1a3E1NTdmcTgxUkhXZmdGUUd3cjQ4QVhfUUFkeld5c2Y2Qi1Bc1Fqay1LU2JXUXRlXzh2d1JFWmdWRjlUYnFCaXFtTzZQSWNRN01KWm51Y2JoWVlDSVduc1h2bW1kRmdDLXJkdXRUaXFHVUdQcjltTkdERkI0TVc4RWlRVTJBRzJPazJScDFhS1kxaWpyQThzUdIBhAJBVV95cUxNdHBPR0FBQVBvM1huTEVnYUFoTDZBaDIwckpZWWdleHBZcEY3TmxjWW9BT2puY3g2cFVhQVdMV05lMUV0ZXUyUVg2T1dHQUd1Qno4ckRLdGkwZWRFc1E4Nl9rNlBQRDRERktWaVdselhHbi0ydjNzb1N3cVFSMWk5a2RTcWVXMkxkcDBXWFNHOFptVklBVGcxVXZtNE9nMWNNaC1XU1JtQVpsbjFTOVVleGU0a1JUTHpOeFpXOU83Q2laVzJqMWZ3Q3VFQ1pEQWt0MWJYamUyVk5pLXFzMGtYcW9PUDZyWWRIWlc2QV9LVU91a3FCcVlBVk1vaDdFVzRRTF9SeQ?oc=5
 
-- Probe Agency ED Summons Pinarayi Vijayan In Money Laundering Case - NDTV
-  Probe Agency ED Summons Pinar
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjIxRUlkWjhhWDMxUHVPdVBJUlhja1JoanB1WXlfQlRyVHRrV0UwS2xac1M0ZXNiUzJKMUM1LW1DQk9FMXhJbnY5NDZxOFlwSGFiX1UyWkxoYkJjRmNMU3AtOGw4U3RMQzdPblk1ZkstRkhrQVY5RHpubEs0TWhXWEVWMWxIbUN2WU91X194cV9oUll3UU9qZ0RvOFJhbG5PeGZXeWRVTlMyQdIBsgFBVV95cUxPb096VFMzTmxmVHI0MjgwRTRHZ080UmE4bHlZYzBiSmJ1VHlLUGppa3hCWjQ3YXYwQUVYb1NTbXZrQlY4VGtETmV5NHlLWkREYnRVMWZQU1NNa1NkdFJOMmRPSGl1S3NZUzVqZUM5SjcwQVNEQWJ5SlpseVd3YnJ1dWFSV0pEZkx2TWhzbHhsMU80eEFPM3lmSWlsbmxUMFlpdGp3UWpDblprSG5nSmUzMWRn?oc=5
+- Trump waives some Russia-related sanctions that threatened 100% tariffs on India | World News - Hindustan Times
+  The Indian government is considering imposing 100% tariffs on India
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdWN3WDdwTDdJejhETXAyaFNYN3V3Q0hKU1BWcWFIU3BKY00tOTZlQ3pmSzJXNzZKWEgyWHV2S3l6Zlp3UUFyMVNwX2QyX01IRkVKY2c1UzNFV0FBRHplQm9EdllLWUM3QVBBN1gxbkhqZzdmUW5Ca1Nva2ZUaHV3RHFjeHBLOS1jMXJFRW15VG1ROGVHSGZwajVfblo5YWgtMEdNaU9uNTdnQUIwUmVOM1JyMWozWFlxRUNLTV9BbmVsMjJFeDhDMDctTy00c1AxYUM5d0N4My1GbTE3bm8yMUJjN0hwcUFJTVRkVHNvdWlkX05n0gH6AUFVX3lxTE9ZekVBOVdKcDFuYWRQWnk1YWRvZ1F2M2RfdVVxNlNyWC1sUUdZYWlQVTZzVkp0MzBhZFRSaFlUSExZZFltWWk5OU1jVkdBUmUyQ2ZnRXRNbk5CRUIxeHNZcXZtLVh0eDFFc2hEbjBoV1FVUGxoamd0dkRxQzBhbGNITkd6a3F0SzhydjlvWGVWMV9hdjM5Zms1ODhicUtjcE01aGo4SHlKV2FlUkFwM2liWS1aNFN2TXcxRVh5b0dVOUEzM0ZpcUExQ29WSjFKaVNreTF2QnpoTDBvTzNxSlJkTjFwZGQtN3RzUzhuVUh4SWk0cG5Mb3ZvUmc?oc=5
 
-- CJP, Abhijeet Dipke: 'Cockroach' party founder detained ahead of Central Park Delhi protest - BBC
-  CJP, Abhijeet Dipke:
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5
-
-- Imran Khan asked to leave India: What rights do OCI cardholders have? - The Hindu
-  Imran Khan asked to leave India: What rights do
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzIzaVdoeXdSMzZVZG9SMTAxU1czaWo2MXVVVWw4d1VhQUhSUmZiR3hoNVZKN25PNFVCT1kyNGdTSjJKOF9qZDZSOXplMlNvT0dIRXQtVnVQd0ZmSVVkRV82YWRoa2VYOG1fM19aUG1hRTltN3NyN3VEU2ZmQ0ZYeVNIc3VtekxzbWNkR0s2RUU4Xy1DLXRzeHJ0YlJ3RjdaaWltVWlCUjVUeVl0TDJxUVVuNWROanhZUGk1VWZQUkVtSVdy0gHLAUFVX3lxTE5GZ0NudnlMUGtMZ3JyYUpXeGZabHVWZlctS0V2aTJEeXhUUkpBMGFfV2lkSHA0eXdCMEt4a29pRV94UGpVUktfcEFTbUNFX3pFOFNyWXFpbW82dVUtVFl3czhxelBBb0MwRVE0YThSVEp2RVp4bnBzMDd6R1dQck1LRldreVdfWXpoMHRhRzBfSTUtNmFwSGI3cEtMaE5VV2tfWENWNWttZy1NRE5WQVpMZHRhNnFUTHpzZElHeGJyNTZmQ1R5OHJWbTlj?oc=5
-
-- "If Pak-US War Breaks Out, Will Stand With Pakistan": BJP Leader Sparks Row - NDTV
-  "If Pak-US War Breaks Out, Will
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUnV4QzNkWXJ1Q2RmZkYxN0Y1YkRQOWNjWVlnRTRqUmNId3RRNzM2NVZBUUNvOUpCMmtoaERGS25udWtraGZqcS1XdUdvYVN2OXdIQ2JKUzJPZ1BoTGh4emFUUk4wQ3M5YUl6V2hONnlTZGpTYnQzenVNWXViNlRVbUpFVEZmVGhSaEJaNDg2UUVIamVycUxMTnVEOXN5UldsQ0xrNzBTTWxDNEJyUnF0bTRTQnlyX2Fha3hOQjgxZ0YwNkwxNXJuMUxEZzkzc3pXM24xX2VSUUtfMUNBTDhZaTAtbEI4TUJFZVF5WVMtNVJ0eUVQ0gH8AUFVX3lxTE9VUHg5cFNjWnRpalhncTlLUFVVWEFaTDYxS0lYRi10SkZJb2ttci0ycFozdEotd2l5NEJIeEZCalhvckhXcDFGYVE5ZGFSNjRJcHJPNy1FR09FdmJJOFV3QXRaUHd3QzJ6QnhJWFVSc1hWeXA5U3BzbzR2MnpRNXNnWXdvU0E0Wk9JbEcxdVFvOFdMRjU2M184RmJaVUN4YnU3SWRqZFlxNFFfVzZrb0dwMjlnYS1ZM29yc0NVT1NNenUwNTJUU3ZfMHJZbENiakNTdkR4c245dHpERnhWZ2ZEZmhCS1ZNWFR3cWE2cnZoSE9ib1RSMjQ0WTAxSA?oc=5
-
-- First Tranche Of India-US Trade Deal Finalised, Draft To Be Out Soon - NDTV
-  First Tranche Of India-US Trade Deal Final
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQaE1kWmxzQWxlQ2hrOGlKNnFBdnBLZks4R0xIWlZuM3c5WW5hZExEdDNucUtBWExzcTZIdzVuMFVjRDJLTm84R2pRUk9ZYWNPWVctWHlrZFFfcjZmVmV0NjRETkR6R2cxWDNFcWdqaHY1Z1dCYTFkTkhkVGZmQ3JvZTRWVWZueV81SjBzUTB4S1JEMXlfaVBHWXRzTXlIdXhLTS13c9IBrAFBVV95cUxPQXBEa2w2ZVpGaWJ5cmg1a3h0ZDB4RXVTbFNWNTNQYU1FWEhFUEl6ZVdhZW9feGRmNUhRcVVIeF9qZGtscUIwNHlaYWV2SVhsOFZGTDlXYnhqSG9YWGtWOURfenJiUlk4ZHlWVUtxZmk1c3ZhTDF6QnZHSnRjeGs0ZTczSTdZN0xFOFVlN3NRelFzOGJkY0F0OWNtYnZ6OTA3QU9COUdIcDVKNU5z?oc=5
-
-- Probe Agency ED Summons Pinarayi Vijayan In Money Laundering Case - NDTV
-  Probe Agency ED Summons Pinar
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjIxRUlkWjhhWDMxUHVPdVBJUlhja1JoanB1WXlfQlRyVHRrV0UwS2xac1M0ZXNiUzJKMUM1LW1DQk9FMXhJbnY5NDZxOFlwSGFiX1UyWkxoYkJjRmNMU3AtOGw4U3RMQzdPblk1ZkstRkhrQVY5RHpubEs0TWhXWEVWMWxIbUN2WU91X194cV9oUll3UU9qZ0RvOFJhbG5PeGZXeWRVTlMyQdIBsgFBVV95cUxPb096VFMzTmxmVHI0MjgwRTRHZ080UmE4bHlZYzBiSmJ1VHlLUGppa3hCWjQ3YXYwQUVYb1NTbXZrQlY4VGtETmV5NHlLWkREYnRVMWZQU1NNa1NkdFJOMmRPSGl1S3NZUzVqZUM5SjcwQVNEQWJ5SlpseVd3YnJ1dWFSV0pEZkx2TWhzbHhsMU80eEFPM3lmSWlsbmxUMFlpdGp3UWpDblprSG5nSmUzMWRn?oc=5
+- India, West Indies level 2-2 ahead of series-deciding fifth T20I - News On AIR
+  India, West Indies level 2-2 ahead of
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVVsSHpSODR1Y1lHTUJwdERCT0tTQXZtWVVHZDBVaXVQQndPa244dHNYMV9ILVN3elZyc3JjTW9OVnJ2ZHlrT08xYzJxTUprbm9OVkhmQXBMT2IxME5lcmRCVzNsYWM1bjZ4RGU3TXkwLTJHRktrT19qc25wZjJkbm04dFpvRUpzcVdzYUtfcl9lWHc?oc=5
 
 - CJP, Abhijeet Dipke: 'Cockroach' party founder detained ahead of Central Park Delhi protest - BBC
   CJP, Abhijeet Dipke:
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jTWkxbWticGNZUXdvNm5CdlVJMWRGWHpWWkZBYkczMnh3Uk5EZ0s2b1gxY1Fyc05pMWx1SS04NFpnU0E2MmFRUkRTeFc3TWw2WDdEdXlNb0VpR00?oc=5
 
-- Imran Khan asked to leave India: What rights do OCI cardholders have? - The Hindu
-  Imran Khan asked to leave India: What rights do
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzIzaVdoeXdSMzZVZG9SMTAxU1czaWo2MXVVVWw4d1VhQUhSUmZiR3hoNVZKN25PNFVCT1kyNGdTSjJKOF9qZDZSOXplMlNvT0dIRXQtVnVQd0ZmSVVkRV82YWRoa2VYOG1fM19aUG1hRTltN3NyN3VEU2ZmQ0ZYeVNIc3VtekxzbWNkR0s2RUU4Xy1DLXRzeHJ0YlJ3RjdaaWltVWlCUjVUeVl0TDJxUVVuNWROanhZUGk1VWZQUkVtSVdy0gHLAUFVX3lxTE5GZ0NudnlMUGtMZ3JyYUpXeGZabHVWZlctS0V2aTJEeXhUUkpBMGFfV2lkSHA0eXdCMEt4a29pRV94UGpVUktfcEFTbUNFX3pFOFNyWXFpbW82dVUtVFl3czhxelBBb0MwRVE0YThSVEp2RVp4bnBzMDd6R1dQck1LRldreVdfWXpoMHRhRzBfSTUtNmFwSGI3cEtMaE5VV2tfWENWNWttZy1NRE5WQVpMZHRhNnFUTHpzZElHeGJyNTZmQ1R5OHJWbTlj?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Trump’s AI Task Force to Commission Report on Technology’s Risks - Bloomberg.com
-  Trump’s AI Task Force to
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGEzNWktRURjOUpOY2JGMXI5YkdabjBsTjBVWV8zbWdjNkJFSklkOG1wUm14TnVJY2kxcnBrWjBEX1NtNWdtUW1SN2ZCZjRZeEFmd3ZLLTVsSVdabDNfSHBTVktXVXZyYmIxbWNLN2dydDZrWUJSemdoVUI2MFYtWklqc2lYandENHFtdTJJVVpLRmZ0NW5KTlBMQm1NVjJ2b0phanBsbkdZeEQzT0xjTVFNMXNndw?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- China mulls new tech export bans covering AI, biotechnology and solar power - South China Morning Post
-  China mulls new tech export bans covering AI, biotechnology and
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWfSAcYBQVVfeXFMUElacGlzTVRseUtzSEZCSk5FSW5FaXVBbDRVQkVncHRqUXVmcDloY0ZCb0hiRjlxbkU0RDliRG5zUm1VUDd4N2tPNmd5TU4wWUI1eURILXZRS2ZQczR6YVdaQXJUSjh2VnZHbG1CUGFkdkFMbklBZHFJT0gtOFlaS1hhZlo3ZnQ3RWNLZ3djR0lhYm1tanlqMkVoaXNsUFUwblJ5Q1NQcDZzN0MyM3FYUEpnMGRPWDN1QXpZSnNpbHpESmZ4Qkt3?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Watch: Did Tesla really just unveil a flying car? - BBC
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUMmU5WE9uYmZpRHRWekh5YUlUZHozdlk1V2h4cjI3SnliZlJ3S1A4SnFZcXNIRUZKREVpcnhzdWxjdWxZd1U3MG1KaTJROFBFWTRpMDJzbXk?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- AGRICON 2026 highlights new opportunities in agricultural entrepreneurship and technology - The Hindu
-  AGRICON 2026 highlights new opportunities in
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMEZsMEU4RUhCdXZmeEF2b01WbHFZbEJuS2hTUHQ4bENxMkNweDlnaWgzLWpRUmd2V0Jfd1NlRE9SYTVTczVSc09iSVhEaTF3czg1UHlwZ2JHS25RdzBPWVFoUC1fZl9Gd1FQRGF2alF4eDVQYXg4V1FIOG5WelBRMThDT0Z1bXJaaTRNYTlaakZ0N201THdwdndFU2lUYXZ4UG5QdHQ4UndqUm5FMHFsYXFReDhRczlIMDJQekhlcTVJbHRVVWtWaFd1TEI5X0lfSU1tQlpTM1lscHhJQ01CSjFIcHh4RE1BM05N0gHyAUFVX3lxTE1pajNtQjJvelBOU3FWMkw0bmdDMkNTbDhHcUVoeEpKRkpWaTFmRDhkLTJfUl9MbkRMWEpwOVd0Wm1Va20zU25VUVlrUndmSXhGZmJrcF9jZ2hURU1yOWJub3g2RVZlbHpqVUZqY095T2dtZm5UUlA5X1RCVzRFSU9VaDJZQjJ6eVFzZmpWTEotVEFUSWdBR0ZWempQVG94b0k1b3lTWkhCam9SbHFWdlhUZG9vcElLYkJkUEJ3WUdvTXlZV0trZFk5UDlWcm93MWVDRDU4UC1iMXEzZGRTS19SREJtWnBhZ1lQWFRiczI5blNR?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- National Security Dialogue | Diffusion and Disruption: Emerging Technologies, Non-State Actors and the Changing Distribution of Advanced Capabilities - orfonline.org
-  National Security Dialogue: Emerging Technologies, Non-State Actors and the Changing Distribution
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS2xtMUtCY3AteDFuN3VBbVNUQmxoS0lac21hOHRaUVFoQU53ODcwNGJNRnRPazRTRzVhYjgyNjFsa0NtTzR1ak1SYzVWWHd2VktDaGI2RDJUZFk1Y1Q5SDg5RjExNG1tUmFtRmozNzVQRkh1WDQyV3pybVAtNUI5eEhoeGZsbEhrM0hpMHprYjFJX3pIUUd6dU45NDFrZUc0QlROQnkwWGZRU2FGUzFOR2I2TktjMllhMHhLUzRLNE1obmw5VGt5OE9Bb0lFTE1aeFFWMERaSGZDVGtZR2pDOUdYLTczcUc5R25vYWNqbnBrNHZIOEJQRHFpcHVERHJEaGt0bzhWcFo?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-16 20:28:34 UTC_
+_Last updated: 2026-10-17 02:40:48 UTC_
