@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
+- Actor Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
+  Actor Imran Khan moves Bombay HC against ‘arbitrary
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU19UMGRMVnNsVENfbUNxVzVjbDNjT1ljMlMtbWlNNUhVT3d5c1daMm9fWnVSLWhEV01FVHVidXJUanZpYXhkR3l0WHpPb050YTUyZlpFZVZCUF9fN3ZFRTI4dzdNdFdaUWE3UDJiN3RLN2Z6aVNwdjVaZ3ExZWJJU2FjZWEwTGtaTTRZUURINXV1bVA2cy1tWmJqTVQ0cWoweUY3YzRzeDdpcWFuSlZMY0xhcElzQ0Y4SkxndUVqRTdvWENIU0RkUnZlN2xUeTl5d3ZMN0Qzb0tLQmt1M1ZaaFJiV1NFZ9IB7AFBVV95cUxPelZIVVpBU3NlTWItcDVxMmZ5b0Vmak5HZzJVMFhCR0JGUmFleVI5Yi1yOW9BSGhyWThuRnFEbTR1ZjcwdmQyRWtkRUhCWTYzbmZtX2loY1RMakZ2Qk5INGd5aFRmVWJ6U3lVV2FWbmxwTFlUU3NSWVhPOTcxeHBka2NNamNwY2ViLWZ1Qy1lWW1pdkZzXzc5SHJSWFFBNTZCVHFVYXpZQWxwNWREMWV0RTdsWVpnVm5QVUVtblpuT3hLLUhpQmxqVTB2d05Bdy14VHc0U09RTGhadEs5QTZTc2lERjlXV2JxMmc3aA?oc=5
+
+- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
+  'Not An Ordinary Foreigner': Imran Khan
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnc?oc=5
+
+- Imran Khan moves Bombay High Court against FRRO's ‘Leave India’ notice; flags procedural lapses - Bar and Bench
+  Imran Khan moves Bombay High Court against FRRO's ‘Leave
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU11TFRkMzROeXRzN2tqQk1tZXJTdFZKSGJCM1JRaS1WVDlfUkc2dkFyQVNpQlA4YlJVcjZoMGRfd1dxOHYzelJRdTdDUVBxVWFQdTJWYjZsOENfOXVnaDY3dDRSVzJDMllHUHBxVFFfc0lwODUxUUh4U1NlZ3Myd0REQUZXcUdaejM0NkFOOC0wbkpfS1ZuUEVoYmFfQlZ6N0xZQkhmOWNrQkhiWFlPblF3SWhIblNSQ29Ga3p2OWFld9IBzwFBVV95cUxQN2RkWUZsalZnUmlzYTk3aG9VOW9VdHNnVFVsMHVwQmp3bm5KZUhXNTA4WWNLRlotdk03WjVlSTRMWmFFdUtOMmNHVlF1UjJmZ21sUF9qNVR6d1FSTlZKUGswYWFfemVVb0FjSDhCM2dGRXdRclBsZlk5bm1yMzlwODdJbVFzWURtamkwcHJRWG0yc1dqT3djd25IN2t3TXY5bjRQblptMGR0LU1BUjN2VnduVV9UUkR3bjE5c19Cc3NhTDh0NTZqUTExY1hVaGs?oc=5
+
 - ‘It was fake’: Indian villagers allege forgery behind Adani mine project - Al Jazeera
   ‘It was fake’: Indian villagers
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHRiYk02a2x1cXhBYno1SVNNNkVDLXFDclM3ZGh6Q2N5U09VQU1sTjd4a2xBR1VuYW9NdWZtU1pLak05THF3YlFqMDAwZmN4ZkotVHd6RWlkSUVtY01VaEVJX2NvMy0xSllmT09LUVhKWVJwSXA0Ul9tb3ZsOWVkXzkwX3BpZjFVY01NMkR6dS0zLTI2NTZiX3NJand3ZFVfV1B2eXl5QlVJRjdnNTFEUmVPbjhpd9IBuwFBVV95cUxOWFNUcDl0TFY0cjMxZnZOVzRzNXhaekFKSDNTdDB3SWRkSm1BdzA3dFRVelN4a2cybnMtT2pwRUI1d1RldWFYVVI2d25naXZJRkdjaTEzdVdma2ZuTTVkZXdodXlzNGViaUx6bW54dmN2bEpJdzZCLWZXRUVwRG5vOGpZU2V1M1hYTW5ZUnhjbG5YWjBSOE1vQms5RHNCZU5ieGRIUUNySEVLOE9jb01KTWxMbGZ2TTA3OEpV?oc=5
 
-- Imran Khan Asked To Leave India: Can OCI Card Holders Take Part In Protests? - NDTV
-  Imran Khan asked to leave India: Can OCI Card
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOWC1Na3I5SjZUb3c0bXNZTlFGc3Y1bDRnSF9SY1JacS1XY19ZRXVndlRGekszdW1zMk80U1dPWDRobXdrQTh5VnZUZXRzdllucEpuQmdFNWlnWG9VcGEtcDFZVUszMHB5QTA3eE1WRmhNNElXeDJMQXBOclpjLWhyb0VYQnA5eEZfRW92c2dwVGMzTUplbnBSb3V0TlY2TG9rNG85NDJpU2w5THVZWWZ6VGVBaGVJQdIBvgFBVV95cUxPMmhIbXlKY3E5emRLRTBvM1laNXdVdk1GYm1COGh1TVBGYm5IVkxxVEJ1SkNZdHpPWWtKd3dXT1U3YlBUUllfaUlhU0oxN2hlSXdWb1dtVkpxRG96RWFKQmN2Q2ZOaGlKb1VFNmQwUnYtQUhhTWpuV1k1MUdta0c4UUZaYzVHR1QtUUpCdVRpX3NkbnIxU1Utc3ZmNU9XNGxIWktmTVdCR2lJTEd4UmxwSGpOWlRDV3pyZm9uYnJ3?oc=5
-
-- All nine Indian seafarers safe as drone-hit tanker reaches Romanian port: Embassy - The Hindu
-  All nine Indian seafarers safe as drone-hit tanker
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmd2S05DeFpvUFhNdGtHS05YMHhhNEUyQ0FHWWRfZlRuNTl5ODFBUloybDNvVFV4MjVPUDJqdERjdjdMV25rU1JoaHpGVlhEdlVEMUJoSGdzMXdRb3dKWVlQRDdiaXVCTkFqUWpTOUVVSVVnUFJxc1VOQ1hLZGtFVGJEQ3hnaHdVSnNvMXBDSGd6dTFkX0MyVnJka05WS243bVlBNF9fcTFQaTA5anJYSmo2dmV4ZkhnYTgzeDhyWDZ0dU1pNFAzTjgtX1FwYndBaml6Nk930gHcAUFVX3lxTFAwbHlOVXFIQ1h2Q2JhdXhPa2hzcmxkZ1N2RWhoX0tldDhlRGVOa0hXSzREUC0wNV85bVlzdUk1SDE0UFhXMHNmRG14eVNySzdBVkxsSHhJc1FDU0MyaWxvaW12dWpfTXB2R3ZtOHVfeGh6b1VFZXI2R21kdjB6b1NiZy1jMzJEZXdWY2FFNFVRd2FKcFFrYXZaVi1rN3JfZXg2bW5VOVZCX2N6b2U0RU5HRmp5X2FQLVVGSVc5Q3JObDFoV1VkVlRfUXdBZlJRR040eHVOeG5JNlpUREM?oc=5
-
-- Imran Khan seeks urgent stay on notice to leave India by October 28, moves to Bombay High Court: Report - The Times of India
-  Imran Khan seeks urgent stay on notice to leave India by October 28, moves to Bombay High Court
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPU3ZrVlp3eUlxVlQ2N2NjYXlGaXlnSDlDblBnazlHVHozX09rX1ZNbmoxQ01JQVczY3NYU2Y5QWhvOVRkN1oxamtsZ3JpWkpMWUpSZk1TR3pwVVJaUkZENEFVSzNBWU9iLXdMNWgtZ19xZDg4SDJ6OG9UYWdYVVpXekpmNmExa3Fhd2k4SVY2a3A5WmdvS2lTWVZXSlBveWwwZ29FUHlRb1pKME0wUlYxNko2QWdkbUxEUWF1YUx2THN3RTN4eXI4YkhDS042bFd5UVVNSllpdU85Zloxc2JubXc4aFoyY1V4bmNhLWJOM0xZbXVNVkI5bjVTb0p5M3lDS0VRQUZwZjBrM09tOHpVSUhaYXlvdDgwSDJYbDNYZ2JLYUFW?oc=5
-
-- Ahead of Tarique Rahman’s Japan visit, Tokyo envisions connectivity for India’s northeast, Bay of Bengal region - The Hindu
-  Ahead of Tarique Rahman’s Japan visit, Tokyo envisions
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPbUEzelItRGdMOWs1R040VWh1TVl4TjhNT3FWOGlLSWFEVGFJeTVHTlZYNWI4WVczQzA4VV9uT1RnR3lLNTVYTGxVb0hScDhqVXRuXzM5UHdteXFPSmZuNF9HVjlrdEZ0ekVncVlyc0daUzhDUGFDM3ZVLVp2blFkUTNWZ0d4TUpHRm9qdmEtNTloRGo3WEpQek9qcDhUekJubnhmT0RJTksxdlB4NWVQaFJKbU1hRktVXzl2bXFpNkVwUmhrWEFocXI1VVhxZzFHbHlFS3RGWDk0OU9nc0VsVW1VeTlndVVTa0pYWmFxX1JIWDF0clh0d0JOS1VHRjZT0gGHAkFVX3lxTE9zazUzYXN1dUxJLUk3NVhDVVJGcVlFUlA4UnM2Y0J5YmxWUnhDTmM2LVktQ3lFVllyMzJVVU4ySDVlRjVJRnhrQTV2OUExOUptald5S1BYWGFWSjBzaWZTZTA3emdfQWhiMTF2NUtYZ0xTZ1VXeURWM2Uwd2NhZUxYTEViZk91ZkVPRm5ZSnRvU2dIaUlFd19QcmRPcm53R3M0cUk3d21Eb1Y3Zm13YU9pMG5FV3J0TmhuWlVGQmlkbWRjYUt1RnY0ZnI0R3ZGOXJRUVE2c1V2bnN2Uk9KcVQzN2U1M3pTSmhXZ2ZtaHBkUkZ3cGxtQmoyMC1sTGU3UUdqdC1tN0cw?oc=5
-
-- Trump’s AI Task Force to Commission Report on Technology’s Risks - Bloomberg.com
-  Trump’s AI Task Force to
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGEzNWktRURjOUpOY2JGMXI5YkdabjBsTjBVWV8zbWdjNkJFSklkOG1wUm14TnVJY2kxcnBrWjBEX1NtNWdtUW1SN2ZCZjRZeEFmd3ZLLTVsSVdabDNfSHBTVktXVXZyYmIxbWNLN2dydDZrWUJSemdoVUI2MFYtWklqc2lYandENHFtdTJJVVpLRmZ0NW5KTlBMQm1NVjJ2b0phanBsbkdZeEQzT0xjTVFNMXNndw?oc=5
+- Darkness, Rush, And An Announcement: What We Know About Kolkata Stampede - NDTV
+  "Darkness, Rush, And An Announce
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVlSeTVPRkJ0UnBpTUVOZG9TNGJ6djJNVWpucDlVeXJyTzktT1JHRURNV0NRMVZsLWpiZnFfX3lMLW5ITHZJNU1CdWVLTW82RGlZdmo0cXpTMlM3LWNLelFoNDNBNXJfM1BWWlkwdW5tVlVtdDZPNFF0Y1V0S0V3bTlEemVtOXhqanVCZmNHeEpWT0UzM0xjQ0dpdEpGSXpINXcwUlcxd3ozb1Q2NWg1bGRkVEJxdmvSAb8BQVVfeXFMTzM1T3pDMDV4UjhzVk5icmI5UlNwZWxkaUQ0d0RwTHB5S2ttWjJDMURvM0thZ0RQRVVzN3dYM3FyTVhTMFV4SThzb29hLThOZ3NOS2t1VEVVNy1qU3FYalV1TEZvQTZUa0Z3SjNsQllKUy1FX2s5QlF4UFVTRGlVQU94Sk1NVUZ2czF4dWtwZFNMd0RZaVdyU2xEZWVQTUVKQ29wdDNLbkdNY01ma2FTT3dnMU83Y1JfWTZZaTc4eHc?oc=5
 
 - RGCB researchers receive ₹7 crore grant to develop rapid, biopsy-free cervical cancer detection technology - The Hindu
   RGCB researchers receive ₹7 crore grant to develop
   🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQlU3V0d0T0dKTy1VbThuN0JwSGNPZDhXdFYtMTBqM1c4RGs1NlZ1RWRnMS1HaHg5UWpUVHBpWG5TdGQ5blFkWURDM2NYSFhsYmFBaS1LNTZCR2pXRUEzdEJHT19tRUUwT1IzV2VWR2RjM2NoUGlQN0htTVQ2N1lQaUtOZW5EU0lTZHRYSFZScFFRY2E5V1JZTzkxb2kxVnhTcEtfNGEzYlVIZnctU3BHa3diWl9sVXMwQnJXQ1RIekRKc2tQXzhnUjhDWGczZV8yaUZSV0d6YWJoMC1rTGM0R05odmZpMWx5M09Oek9GUkdLanVpUXB2d29meGJHQzDSAYYCQVVfeXFMUGNZTUVMdGU5Yng2c2IzcWtzMFBBNHYzUThNeTNCWGIwSE1CTzZLWkIyTW5GSHZSclpyOTZrd2RMTE1acnpkMFhERHNfd0FmcGxlc2VoVVNrS01Wc1Y2TnhvanFCVE1ucC04S0dJb1UxU0JicVAwOFlycTlQMEpLWVNYY0hockV2RlpTMkxVcjk5SjdlQUpDaHhwU1lfQVlNZWFtWHlUeU1DdVRCUDYyMUhnVnZTUVpFNHpNVEFzUmVZRWNKckpYUDRMRGV5RlgtRUpBWWRjU3NDVEM2ME5CcHVYSUFOaFJJejByUkIyeTAxSUowRlFNd2dLYmVCSFlTSDF0LTFmZw?oc=5
 
-- Sammakka Sarakka Central Tribal University Vice Chancellor urges students to embrace emerging technologies - The Hindu
-  Sammakka Sarakka Central Tribal University Vice Chancellor
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOVklNaVhzallxMl9mZE9haGRoQkJpNDdpbVNKRGdzcE9BNDZqWWlpaFV6ZXR0akpHdXlUd2pxYUtxUUswZDRtdUs1ZUdZUF85UDYtSkZNNHRSOHZ3YVhELTBfVTk4WlIyWmtXVHMxQ3c0ci1TbWozLUo5cnpWbEpvUExCNjVUbzNHQnRXUE5BOF9SbmFDQjVBZ0hYU0djb0FkNW5sQjBYcEJSNXdpWHRwcElYazhpVnFSTnU1a1YzbFJicGZMalprWVQwT05FS1VtSHM0YXYtQlRqUmQ4dzdwbFFPMXVaTVphaXFyZWZoWTFuS3QxR21Fb2ZRU0xZTXB2YzBKSldB0gGMAkFVX3lxTE9ySDkzUVIyVFhFUWlKQi1ndUFnQmRGMWItRWotcWJLU0xjRkJsbVM2dEFrZ3pmR1ROcW1VdUNzMGMtUTNTMFJqV293WmN4N0owWVpMbHlsSlhIRmlpVGpOM2ZXWjAyamtSQ1dDMmZJdUwyRHJ5eGhKSzFYRHV6TFNRaUt0ai1XZmR1S0ZoeFhKWWxsaTM0dWFFZ0xSM3I3TkRkZEc5OWNsWUQtaHJFeWtmY2ZDcjE2MVRpdEd5WndCRDRjTkRsUjRFZnpBNHJ2YVY0clV3dHZRTU56QkJLd3U3X0hsWV9SS3V6STIwNmxMaGZVME9TcWxWaTZkSlYtVmdIR1NvOUpTLTMyRl8?oc=5
+- Trump's AI Task Force To Commission Report On Technology's Risks - NDTV
+  Trump's AI Task Force To Commission Report
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNdlNiZi1mNW5uUkREWlJEWS0yYU9IQXBrM3JvenBYd05KS3ltalQ2ekJHY0lKZVQ0MjdpZ01zWnNiNGFCa2JYUE5VdDBheWllTEhtMDBLZEhMdUV3Z2ZPY0FQVEx4N0lBMElvWWczNmF4R1pMRmwxMjZwR19wLWFwZ0dqRUtFLWQ4NU91MVZRZ0FiOFVLZ3ZMTU5aWjF3VkNqM2kyMU5R0gGuAUFVX3lxTE9WelZFTGtCMzhXTmZZT1ZuR2tqQktVc1dnaWNqTk5vWG9lalUtWTZfOTBDeHA2V1Jaa1h3NzBNTkZLc055NjFjZm54dm1EeUpYZEhBY3hmdlZHWTFpb0docWpEc19Fdl9Qc0trbmpiWjl3QVE2NUd2czUzZTVlRldkS2MweXZkdEp6VU1IUlF4dGR3ZmFJcFlPQ2Q4X2FYRFZ4MmZaTFNrQWd0ckRjUQ?oc=5
 
-- When Microsoft CEO Satya Nadella transformed the company's culture with these three words - The Times of India
-  When Microsoft CEO Satya Nadella transformed the company's culture with
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOazIxV21OY2hlWlpLNFdmYXNveE00WDJSaVdCSmtkSkhLNXViWHk5bTVBV2pPWnhxem1kSmpIZVVoaHdMZG05WTVlZVBSWVdnOUhfVWVHWEhoUVc0enhBdUJtR1F4bkpqRXNYVm5teE93QXpOM25VT0JUMkVfRW4xSnhwb1AwbjdkMDQ5WFlBeGs4MGhwYU8yZmpaM2FlSHg4Z25nVHVsMXlwS0tmb29WRlI2QzZSZE5GeF9WQmVkYzZwUkNsWDYwTnR5SzMwOE51TUgzLVlRdTg5QzZndXdmZXdEQTNPNVdmTVphRm1sRWV6bUlLWi1takUtSzI5eXRz0gGGAkFVX3lxTE9YRk1iXzhzZzc3Y1ZQZ1hfWUwtUFozaVNrMHplWWxIeTFEb1FOR09EWGJGZjNMM3AzM3ZzVmExQ01TUWs4dHFOQjBRT241emIyNW4wcm9Uamp4RGpTRE94N2tHUHZndUNzTlRLTnZ3dnAtdnBocGx1NFZLRlVONUQtM1dSZGFPSlkwcE83VnhmQ2NJTV84UjNBSHBYazdEdUNraHV1NFpZV1FPSDJJc2NNclRQLUFjU1lrZVZHbnlLeUN2SnR3ZURmYUhhRlAyWmduU0tjMXI1ZndOY2gyc3ExejliQXc4dTZSQ2Z4OUxYc1JSRFdGcExlTUgya2hIeWVkLXJGY3c?oc=5
+- AI fears are being weaponised - Al Jazeera
+  AI fears are being
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHlSVFJseF9uVnRkbEFxYTVrU1N6MVp4MmhFczdNVV9meHVPNUU0NjFtYm03OHJvc2FCb1RwN2k2T0I1SXhhdjlBcFQ4VFFwV0hzZ1ZwVVB6OGFDeVFjWXljVFRmSk5rNGZPN1UxT1lJZy1Tcm1rVV8yUkd3N1N4WNIBhgFBVV95cUxNU3RjY3VnbUQ2YU82ZVJkRk45ZUZsUVo1MmlMUXY5dnphc1d3Y0xEb3BqeE1nbGhwZ3NNZUsySWRIYnR6UTlBa2lvaV9zeHozTldjd2I5SVA2UEsyZkZVWU1UMmFTaWRsdUpjbDZ6SlY2RldIOFpSM0NGRDJ5TnhXdEhGRjZZQQ?oc=5
 
-- UNICEF Femtech Ventures Frontier Technology Funding for Women’s Health - fundsforNGOs - Grants and Resources for Sustainability
-  UNICEF Femtech Ventures Frontier Technology Funding for Women's Health
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0FiWXhSR1Z2Z1lRbTR2RTk5TWdZRjdLOVJXTm9zTkRHVTdzOG5Ndl9SZkRDUG4wYmNqcXNUS3U5ZmJid21GVlIxNVEyOG1hLXM4cFUyREJReGliYzIxSGdiTnFSaEktcWR0dVduZFBad0hRd0RPbDVmRTc5clltaEhKTHkwZ2NlRzQ4Y09CeXJrQ3oxbnRNRmZtMFU1RnMxT2hYS19QRlg0Ynh2WC02WTlfRDMyU3BLT2JLb01lZFVHUdIBxwFBVV95cUxPRzVoak1oblNsR3ZTYTNPSDNsMTNFMjRUWnlET0lJbHYxbktjU0tBcHRncHRwWUxMRVpna05tXzBJTmhKN0JBbElNMVp2Wk1BMWstdGpHRDIzQnpNdkh2U3RxaHp5WHNnSG1IbmVaVm5pWjZ2QmlBaWZJcGc3QVNjcG0zdXJsYUJaSUxBYU1NMllQa0JVUEw1Y2xVVDhqUk9UWkU1S0tIV2pjWW1NNy13SnR6amZrTE9LTi1scUk1UlFFVk5SYVNj?oc=5
+- EV testing technology gains importance as India scales electric mobility - ET CIO
+  The Indian government is looking to roll out electric
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPMldXMk13YlZaQW5YbUJ4c3pVUEJkamNYeXRkSkdsN3YwUmIwSHlob2xCTHhHNEV4R1FUMV9hVlhRRzliWTY2aWRfc3ZXa00wMXYzc0hFUHFRSnAxc0p0U3dlMzhqZFAxZ285UlRtWGxfUWM5UlBfczBJbnZOMzFrdk1YckF4clVXZl9uaEltQ01jUEJUNzFBT2lLUHpweWUtNDJLOWVNS2pZUmRUZWZJV0JBeFJmRm1ydXZwME10UGpEaXhRME9XSE5kdnZ4ZnF4aWo4UTl5U1lLU3JlQ1BFbFV4M25MWUtTYkI4Qk5JZ0dEUnlZMTJ6aVZGTktqZF9vZ2pWWU9GWVVySE4xWEp0U2RFUU8yRE5xb0hQTlFHZmdhWkHSAeABQVVfeXFMUGVGSnRrUHFsUHNDMHlwdWRNTlpWLUMyamFUb0tQRkZSMGlEZl9sbEEzVnRpS1dSUUdncjhkZjVEYUZIakd4YzA4aTlLSFVkUWgtUERxbDhmUUpVNG5IZWt0ZEg0T0xaWDl2bHlWTTAxWXdpQmo5ZjNzQ3hwVzlGSEtiYjJUSGNnMDNNejJNLUlCQXI1Qm5SbURscTlXcGQ2UDhpN00zVjBteWRBenJYem41bnlMRnJaSWpzRkpnR1dWeVNWc2lzNkdmNEhvZmowcWh2bzZSd01TdEZVakFIQVg?oc=5
 
-- HDFC Bank CEO-designate Bagchi to meet customers, regulators before taking over
-  Anup Bagchi is set to take over the reins of HDFC Bank on 27 October. Bagchi said he had been at the bank
-  🔗 https://www.livemint.com/companies/company-results/hdfc-bank-ceo-designate-bagchi-to-meet-customers-regulators-before-taking-over-11792245445270.html
+- Book Review | How Technology Sidelined Farmers - Deccan Chronicle
+  The Deccan Chronicle is
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQVG5GdFBBMThaSXEwdXNfZC16RV9SaUJKRnBYT3BUM0JzUFhDSUd5RlloNE96YTFrbzUxZTBlUndRSEtTaFZITUU4M01fMC1iaGpPVld6c29JNHUtb1g5M2RsSGU3bTZibkxyX2lJMDl1dVZvbHd5M09uTks2NFduZWtMaGlCZk1QLW1LbTdERlpfazZaelRLWlZoRmJiTmJjSTgwVi1B0gGrAUFVX3lxTE5ITS1TZ2dDcTE0WXRWdmlvRmhWaXRoLWlsdGliZDM0bWJSVXhxLW5kMzExclZWREtXR0FzVVNRVE5BUHVnUW9VeVZ1dXdRbzcyQ2ZHNkJwZmhadU52WnZ4Sk95eDhlbHpWbDRrN042Z3lnNk1nU19fR29FVHVMcXduR1BTanZoSW03dGRjb242dm1mVEdEOFVSWEFkMFJlN0ctNlVUWmZUTHF0VQ?oc=5
 
-- Meet Rahul Shukla. Axis Bank appoints former HDFC Bank veteran to lead Commercial, Bharat Banking
-  The appointment brings an experienced banking professional into a key role at Axis Bank. The bank serves businesses and customers across
-  🔗 https://www.livemint.com/companies/news/meet-rahul-shukla-axis-bank-appoints-former-hdfc-bank-veteran-to-lead-commercial-bharat-banking-11792245846191.html
+- From Apple’s Tim Cook to Netflix’s Reed Hastings: 5 CEOs' with the biggest pay packages
+  Apple's Tim Cook leads a study of 10 departing CEOs with an estimated $950 million in cumulative reported compensation over 15 years. Disney’s Bob Iger and Activision
+  🔗 https://www.livemint.com/companies/people/from-apple-s-tim-cook-to-netflix-s-reed-hastings-5-ceos-with-the-biggest-pay-packages-11792258940048.html
 
-- Man quits corporate job to start own venture with his wife’s savings, now earns  ₹1.5 crore monthly from 550 showrooms
-  Krishna Grover from Ghaziabad is the founder of Herald E-Bikes. The electric two-
-  🔗 https://www.livemint.com/companies/people/man-quits-corporate-job-to-start-own-venture-with-his-wife-s-savings-now-earns-1-5-crore-monthly-from-550-showrooms-11792239468364.html
+- Renault India CEO sees hybrids, CNG making up 50% of sales in 2-3 years; eyes 3-5% market share by 2030
+  Renault India expects hybrids and CNG vehicles to account for up to 50% of sales in 2-3 years. The automaker is pitching hybrids as an alternative to diesel and
+  🔗 https://www.livemint.com/companies/renault-india-ceo-sees-hybrids-cng-making-up-50-of-sales-in-2-3-years-eyes-3-5-market-share-by-2030-11792255501177.html
 
-- ICICI Bank sees another margin squeeze in Q3 as FCNR-B costs kick in
-  ICICI Bank's net interest margin falls to 4.18
-  🔗 https://www.livemint.com/companies/company-results/icici-bank-sees-another-margin-squeeze-in-q3-as-fcnr-b-costs-kick-in-11792238457204.html
+- Axis Bank’s rising costs, FCNR inflows squeeze Q2 margins
+   Axis Bank’s Q2FY27 net profit rose 38% year-on-year to  ₹7,003 crore. The lender
+  🔗 https://www.livemint.com/companies/company-results/axis-bank-s-rising-costs-fcnr-inflows-squeeze-q2-margins-11792250295486.html
 
-- HDFC Bank's Deputy Managing Director Kaizad Bharucha seeks to quit on December 31; details here
-  Kaizad Bharucha, HDFC Bank’s Deputy Managing Director, has
-  🔗 https://www.livemint.com/companies/news/hdfc-banks-deputy-managing-director-kaizad-bharucha-seeks-to-quit-on-december-31-details-here-11792234993900.html
+- Meet Aayush Agarwal: Snabbit boss explains why ‘house help’ firm suffered  ₹168 cr loss on  ₹12 cr revenue in FY26
+  Snabbit’s FY26 loss widened to  ₹167.75 crore, with the startup attributing its spending
+  🔗 https://www.livemint.com/companies/news/meet-aayush-agarwal-snabbit-boss-explains-why-house-help-firm-suffered-168-cr-loss-on-12-cr-revenue-in-fy26-11792240673102.html
 
-- Q2 results 2026 race: HDFC vs ICICI Bank vs Axis Bank vs Yes Bank vs IDBI - Which bank won in PAT, NII, revenue growth?
+- PepsiCo India wants 90–100% of its drinks portfolio to be zero-sugar or mid-calorie: What is driving the change?
+  PepsiCo India aims to make 90–100% of its beverage portfolio zero-sugar or mid-calorie over time. The shift comes amid changing
+  🔗 https://www.livemint.com/companies/pepsico-india-wants-90-100-of-its-drinks-portfolio-to-be-zero-sugar-or-mid-calorie-what-is-driving-the-change-11792244504828.html
+
+- Tata Steel declares Q2 results 2026 date: EBITDA may decline QoQ; share price target, stop-loss and outlook in focus
+  Tata Steel Q2 results 2026: Nuvama
+  🔗 https://www.livemint.com/market/stock-market-news/tata-steel-declares-q2-results-2026-date-ebitda-may-decline-qoq-share-price-target-stop-loss-and-outlook-in-focus-11792257156748.html
+
+- Wall Street Week Ahead - Earnings expectations:  All eyes on Meta, Tesla, Netflix, and SpaceX; this survey also in focus
+  The results are expected to offer insights into corporate earnings, consumer
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-earnings-expectations-all-eyes-on-meta-tesla-netflix-and-spacex-this-survey-also-in-focus-11792254700438.html
+
+- Dividend rush next week! Infosys, Nippon, Sagility, Cyient among 11 firms in focus for reward, Q2 results | List
+  Infosys and Colgate-Palmolive (India) are among the companies in focus next week. Their boards may also consider dividends. Another company is scheduled to
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-rush-next-week-infosys-nippon-sagility-cyient-among-11-firms-in-focus-for-reward-q2-results-list-11792253097036.html
+
+- Cupid’s Aditya Halwasiya bets big on PC Jeweller after 70% rally in 6 months - Who is he? Check PCJ stock returns, RoE
+  The purchase followed the jeweller’s debt-free milestone and coincided with a 12.59% rise in its shares on Friday. Cupid Chairman and MD Ad
+  🔗 https://www.livemint.com/market/stock-market-news/cupids-aditya-halwasiya-bets-big-on-pc-jeweller-after-70-rally-in-6-months-who-is-he-check-pcj-stock-returns-roe-11792164517817.html
+
+- Q2 results 2026 race: HDFC vs ICICI Bank vs Axis Bank vs Yes Bank vs IDBI - Which bank won in PAT, NII, asset quality?
   In Q2FY27, ICICI Bank, Axis Bank and Yes Bank posted strong profit growth. HDFC Bank’s profit rose modestly as lower treasury gains weighed on results. ID
   🔗 https://www.livemint.com/market/stock-market-news/q2-results-2026-race-hdfc-vs-icici-bank-vs-axis-bank-vs-yes-bank-vs-idbi-which-bank-won-in-pat-nii-revenue-growth-11792244738368.html
 
-- Hindustan Zinc Q2 results 2026: Anil Agarwal-led Vedanta firm to report earnings next week - Preview, dividend history
-  Hindustan Zinc is expected to report stronger production and year-on-year earnings growth in Q2FY27. The company has paid  ₹11 per share in dividends over
-  🔗 https://www.livemint.com/market/stock-market-news/hindustan-zinc-q2-results-2026-anil-agarwal-led-vedanta-firm-to-report-earnings-next-week-preview-dividend-history-11792235803320.html
+- iPhone 18 Pro Max vs Galaxy S26 Ultra: Key differences in camera, display, battery and performance
+  The two devices also differ in weight, storage capacity and charging performance, giving buyers several factors to
+  🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-max-vs-galaxy-s26-ultra-key-differences-in-camera-display-battery-and-performance-11792259146732.html
 
-- Nifty soars 2.8% this week: What lies ahead for Dalal Street? - Experts decode 5 triggers, key levels for next week
-  Indian equities rebounded this week, with the Nifty 2.77%, supported by IT shares and domestic institutional buying. Next week, investors will watch earnings breadth,
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-soars-2-8-this-week-what-lies-ahead-for-dalal-street-experts-decode-5-triggers-key-levels-for-next-week-11792231234654.html
+- REDMAGIC 12 Pro+ launched with 185Hz display, RGB water cooling and 8,400mAh battery: check prices and top features
+   REDMAGIC has launched the 12 Pro+ in China, starting at 6,999 yuan. The gaming phone features a 185Hz under-display-
+  🔗 https://www.livemint.com/technology/redmagic-12-pro-launched-with-185hz-display-rgb-water-cooling-and-8-400mah-battery-check-prices-and-top-features-11792249429605.html
 
-- Best 3 stocks to buy under  ₹100: Equitas SFB, UCO Bank, Suzlon by Mehul Kothari of Anand Rathi — Target, stop-loss
-  With selling pressure easing and momentum improving, we now maintain our ‘buy-on
-  🔗 https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-under-rs-100-equitas-sfb-uco-bank-suzlon-by-mehul-kothari-of-anand-rathi-target-stoploss-11792229200001.html
-
-- Reliance Jio IPO GMP today: Listing-day jackpot or long-term bet? How should investors play Mukesh Ambani’s mega IPO?
-  Reliance Jio Platforms plans a  ₹30,213 crore IPO, offering 27 crore shares. The IPO is scheduled to open October 21, 2026. Its grey market premium
-  🔗 https://www.livemint.com/market/ipo/reliance-jio-ipo-gmp-today-listing-day-jackpot-or-long-term-bet-how-should-investors-play-mukesh-ambani-s-mega-ipo-11792233746569.html
+- Apple iPhone Duo's ‘extraordinary’ pre-order frenzy raises stakes for its foldable smartphone debut
+  The coming weeks will offer a clearer indication of whether the initial pre-order rush translates into sustained sales momentum and how quickly Apple can
+  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-duos-extraordinary-pre-order-frenzy-raises-stakes-for-its-foldable-smartphone-debut-11792249877954.html
 
 - AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley
   The global race to expand artificial intelligence (AI) capabilities could increasingly be determined by which companies can secure enough electricity, financing and data-centre infrastructure.
@@ -88,33 +100,21 @@
    Flipkart and Reliance Digital are offering discounts, bank benefits, and exchange deals on the iPhone 17 and iPhone 17 Pro. The final savings depend on the phone exchanged and the payment method used.
   🔗 https://www.livemint.com/technology/tech-news/iphone-17-at-rs-54-000-17pro-at-rs-57-000-heres-how-you-can-get-the-iphone-17-and-17-pro-at-half-the-price-11792228929713.html
 
-- AI could give small businesses competitive edge over large firms: Former UK PM Rishi Sunak
-  Artificial intelligence (AI) could give small businesses a competitive advantage over large companies, says Rishi Sunak.
-  🔗 https://www.livemint.com/technology/ai-could-give-small-businesses-competitive-edge-over-large-firms-former-uk-pm-rishi-sunak-11792226876294.html
-
-- iQOO Neo12 to launch in October with Snapdragon 8 Elite Gen 5, 9000mAh battery: What we know so far
-  iQOO Neo12 is confirmed for an October launch. Read about its Snapdragon 8 Elite Gen
-  🔗 https://www.livemint.com/technology/tech-news/iqoo-neo12-to-launch-in-october-with-snapdragon-8-elite-gen-5-9000mah-battery-what-we-know-so-far-11792219878963.html
-
-- MENA must classify AI data centres as critical loads, overhaul power planning amid rising demand: WEF
-  The World Economic Forum (WEF) has called for countries in the Middle East and North Africa (MENA) to classify artificial intelligence (AI) data centres as ‘critical dynamic loads’
-  🔗 https://www.livemint.com/technology/mena-must-classify-ai-data-centres-as-critical-loads-overhaul-power-planning-amid-rising-demand-wef-11792212023650.html
-
 - Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off and oil prices: Live updates - CNBC
   Nasdaq slides 2% Friday to post worst week since June, pressured by AI
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5
-
-- Stock Market News: Nasdaq Faces Weekly Loss on Tech Stock Slump - WSJ
-  The WSJ reports Nasdaq faces weekly loss
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWtEQ1dWcXo2OG1zSkt0d3hELWZsX2ZhOE1adzdRdDdPM2VOZElCdXVhNHFETGtPeUwxUnRtc1R1TFVtY2l0M042c0xnWjdzRzhndjBJUmtHdXVhby11YkFYOERsSUhueU9jYTRCMFJJa3lxSGFjaWJrcUR0SllhWXJ4cURuUkU?oc=5
 
 - Chipmakers Set for Longest Losing Streak Since ‘08: Markets Wrap - Bloomberg.com
   Chipmakers Set for Longest Losing
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNdENxVU1tLTc2TGl0ZVlldEVMcndIaURqT2p4RGQ2NGZmTjNOZDhSQzFaU2lhQVZYVmo2dGNPMUxrOHlFOXlpZzZmcUdicmxNTkFpODROSjNNbTJWb0l4NmlLZTZOb1lURHhzeG1XWl96SVR5Y3JGRVJXZ2txV1dVUWVOelpZM0lOUk5LSmlkOFdMS2RC?oc=5
 
-- Daily Sugar Market Update By Vizzie – 17/10/2026 - ChiniMandi
-  Daily Sugar Market Update By V
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE1mUDZOS1FQX0NhWTUzc2tCYlNPM2l2d3NCb1k1a3hvUTBxa1hkTzVXT1BzZ2tRcFBxSVN1clo4cUZoWE9SUkx3MFRrVXFaOVhCaWk5TjYxdExkNnBDNmdWZjBtcm83QXYyVzNVTkZoZTZiMXVEVlozSFRHNE1LWms?oc=5
+- Stock Market News: Nasdaq Faces Weekly Loss on Tech Stock Slump - WSJ
+  The WSJ reports Nasdaq faces weekly loss
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWtEQ1dWcXo2OG1zSkt0d3hELWZsX2ZhOE1adzdRdDdPM2VOZElCdXVhNHFETGtPeUwxUnRtc1R1TFVtY2l0M042c0xnWjdzRzhndjBJUmtHdXVhby11YkFYOERsSUhueU9jYTRCMFJJa3lxSGFjaWJrcUR0SllhWXJ4cURuUkU?oc=5
+
+- India markets regulator partly reverses derivative settlement rules after pushback - Reuters
+  India markets regulator partly reverses derivative settlement
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGRONTRmdHRZYTJ6Yk54UE52QjBqX1NCZzdZRmFZb3JFR2tBTGF5cHpJWkZoaURDYXVkazBOcnFqdHZIOUNkZ0xNLTRtWnhFeVRrcVo5d0c2TmYwY1BzUDgxYzV3SUxMTlU3RHliUzFDM0Zsc1ZwRlZQQXJTZE5HWGpGOGxUVVBHM3FsQzZGV3VIS1JYOFcxVWYwbWFjRVFUQnUxN0RHVkF3em90RDNRbEd0T0V4eEQ1VlRxM1JR?oc=5
 
 - CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly - Bloomberg.com
   CoreWeave Woes Risk Shutting
@@ -140,25 +140,29 @@
   ICICI Bank reported a net profit of Rs 14,843 crore in the second quarter of financial year 2027. This is 20.1% year-on
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-net-profit-jumps-20-to-rs-14843-crore-nii-rises-18-yoy/articleshow/135011810.cms
 
+- Actor Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
+  Actor Imran Khan moves Bombay HC against ‘arbitrary
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU19UMGRMVnNsVENfbUNxVzVjbDNjT1ljMlMtbWlNNUhVT3d5c1daMm9fWnVSLWhEV01FVHVidXJUanZpYXhkR3l0WHpPb050YTUyZlpFZVZCUF9fN3ZFRTI4dzdNdFdaUWE3UDJiN3RLN2Z6aVNwdjVaZ3ExZWJJU2FjZWEwTGtaTTRZUURINXV1bVA2cy1tWmJqTVQ0cWoweUY3YzRzeDdpcWFuSlZMY0xhcElzQ0Y4SkxndUVqRTdvWENIU0RkUnZlN2xUeTl5d3ZMN0Qzb0tLQmt1M1ZaaFJiV1NFZ9IB7AFBVV95cUxPelZIVVpBU3NlTWItcDVxMmZ5b0Vmak5HZzJVMFhCR0JGUmFleVI5Yi1yOW9BSGhyWThuRnFEbTR1ZjcwdmQyRWtkRUhCWTYzbmZtX2loY1RMakZ2Qk5INGd5aFRmVWJ6U3lVV2FWbmxwTFlUU3NSWVhPOTcxeHBka2NNamNwY2ViLWZ1Qy1lWW1pdkZzXzc5SHJSWFFBNTZCVHFVYXpZQWxwNWREMWV0RTdsWVpnVm5QVUVtblpuT3hLLUhpQmxqVTB2d05Bdy14VHc0U09RTGhadEs5QTZTc2lERjlXV2JxMmc3aA?oc=5
+
+- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
+  'Not An Ordinary Foreigner': Imran Khan
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnc?oc=5
+
+- Imran Khan moves Bombay High Court against FRRO's ‘Leave India’ notice; flags procedural lapses - Bar and Bench
+  Imran Khan moves Bombay High Court against FRRO's ‘Leave
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU11TFRkMzROeXRzN2tqQk1tZXJTdFZKSGJCM1JRaS1WVDlfUkc2dkFyQVNpQlA4YlJVcjZoMGRfd1dxOHYzelJRdTdDUVBxVWFQdTJWYjZsOENfOXVnaDY3dDRSVzJDMllHUHBxVFFfc0lwODUxUUh4U1NlZ3Myd0REQUZXcUdaejM0NkFOOC0wbkpfS1ZuUEVoYmFfQlZ6N0xZQkhmOWNrQkhiWFlPblF3SWhIblNSQ29Ga3p2OWFld9IBzwFBVV95cUxQN2RkWUZsalZnUmlzYTk3aG9VOW9VdHNnVFVsMHVwQmp3bm5KZUhXNTA4WWNLRlotdk03WjVlSTRMWmFFdUtOMmNHVlF1UjJmZ21sUF9qNVR6d1FSTlZKUGswYWFfemVVb0FjSDhCM2dGRXdRclBsZlk5bm1yMzlwODdJbVFzWURtamkwcHJRWG0yc1dqT3djd25IN2t3TXY5bjRQblptMGR0LU1BUjN2VnduVV9UUkR3bjE5c19Cc3NhTDh0NTZqUTExY1hVaGs?oc=5
+
 - ‘It was fake’: Indian villagers allege forgery behind Adani mine project - Al Jazeera
   ‘It was fake’: Indian villagers
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHRiYk02a2x1cXhBYno1SVNNNkVDLXFDclM3ZGh6Q2N5U09VQU1sTjd4a2xBR1VuYW9NdWZtU1pLak05THF3YlFqMDAwZmN4ZkotVHd6RWlkSUVtY01VaEVJX2NvMy0xSllmT09LUVhKWVJwSXA0Ul9tb3ZsOWVkXzkwX3BpZjFVY01NMkR6dS0zLTI2NTZiX3NJand3ZFVfV1B2eXl5QlVJRjdnNTFEUmVPbjhpd9IBuwFBVV95cUxOWFNUcDl0TFY0cjMxZnZOVzRzNXhaekFKSDNTdDB3SWRkSm1BdzA3dFRVelN4a2cybnMtT2pwRUI1d1RldWFYVVI2d25naXZJRkdjaTEzdVdma2ZuTTVkZXdodXlzNGViaUx6bW54dmN2bEpJdzZCLWZXRUVwRG5vOGpZU2V1M1hYTW5ZUnhjbG5YWjBSOE1vQms5RHNCZU5ieGRIUUNySEVLOE9jb01KTWxMbGZ2TTA3OEpV?oc=5
 
-- Imran Khan Asked To Leave India: Can OCI Card Holders Take Part In Protests? - NDTV
-  Imran Khan asked to leave India: Can OCI Card
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOWC1Na3I5SjZUb3c0bXNZTlFGc3Y1bDRnSF9SY1JacS1XY19ZRXVndlRGekszdW1zMk80U1dPWDRobXdrQTh5VnZUZXRzdllucEpuQmdFNWlnWG9VcGEtcDFZVUszMHB5QTA3eE1WRmhNNElXeDJMQXBOclpjLWhyb0VYQnA5eEZfRW92c2dwVGMzTUplbnBSb3V0TlY2TG9rNG85NDJpU2w5THVZWWZ6VGVBaGVJQdIBvgFBVV95cUxPMmhIbXlKY3E5emRLRTBvM1laNXdVdk1GYm1COGh1TVBGYm5IVkxxVEJ1SkNZdHpPWWtKd3dXT1U3YlBUUllfaUlhU0oxN2hlSXdWb1dtVkpxRG96RWFKQmN2Q2ZOaGlKb1VFNmQwUnYtQUhhTWpuV1k1MUdta0c4UUZaYzVHR1QtUUpCdVRpX3NkbnIxU1Utc3ZmNU9XNGxIWktmTVdCR2lJTEd4UmxwSGpOWlRDV3pyZm9uYnJ3?oc=5
+- Darkness, Rush, And An Announcement: What We Know About Kolkata Stampede - NDTV
+  "Darkness, Rush, And An Announce
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVlSeTVPRkJ0UnBpTUVOZG9TNGJ6djJNVWpucDlVeXJyTzktT1JHRURNV0NRMVZsLWpiZnFfX3lMLW5ITHZJNU1CdWVLTW82RGlZdmo0cXpTMlM3LWNLelFoNDNBNXJfM1BWWlkwdW5tVlVtdDZPNFF0Y1V0S0V3bTlEemVtOXhqanVCZmNHeEpWT0UzM0xjQ0dpdEpGSXpINXcwUlcxd3ozb1Q2NWg1bGRkVEJxdmvSAb8BQVVfeXFMTzM1T3pDMDV4UjhzVk5icmI5UlNwZWxkaUQ0d0RwTHB5S2ttWjJDMURvM0thZ0RQRVVzN3dYM3FyTVhTMFV4SThzb29hLThOZ3NOS2t1VEVVNy1qU3FYalV1TEZvQTZUa0Z3SjNsQllKUy1FX2s5QlF4UFVTRGlVQU94Sk1NVUZ2czF4dWtwZFNMd0RZaVdyU2xEZWVQTUVKQ29wdDNLbkdNY01ma2FTT3dnMU83Y1JfWTZZaTc4eHc?oc=5
 
-- All nine Indian seafarers safe as drone-hit tanker reaches Romanian port: Embassy - The Hindu
-  All nine Indian seafarers safe as drone-hit tanker
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmd2S05DeFpvUFhNdGtHS05YMHhhNEUyQ0FHWWRfZlRuNTl5ODFBUloybDNvVFV4MjVPUDJqdERjdjdMV25rU1JoaHpGVlhEdlVEMUJoSGdzMXdRb3dKWVlQRDdiaXVCTkFqUWpTOUVVSVVnUFJxc1VOQ1hLZGtFVGJEQ3hnaHdVSnNvMXBDSGd6dTFkX0MyVnJka05WS243bVlBNF9fcTFQaTA5anJYSmo2dmV4ZkhnYTgzeDhyWDZ0dU1pNFAzTjgtX1FwYndBaml6Nk930gHcAUFVX3lxTFAwbHlOVXFIQ1h2Q2JhdXhPa2hzcmxkZ1N2RWhoX0tldDhlRGVOa0hXSzREUC0wNV85bVlzdUk1SDE0UFhXMHNmRG14eVNySzdBVkxsSHhJc1FDU0MyaWxvaW12dWpfTXB2R3ZtOHVfeGh6b1VFZXI2R21kdjB6b1NiZy1jMzJEZXdWY2FFNFVRd2FKcFFrYXZaVi1rN3JfZXg2bW5VOVZCX2N6b2U0RU5HRmp5X2FQLVVGSVc5Q3JObDFoV1VkVlRfUXdBZlJRR040eHVOeG5JNlpUREM?oc=5
-
-- Imran Khan seeks urgent stay on notice to leave India by October 28, moves to Bombay High Court: Report - The Times of India
-  Imran Khan seeks urgent stay on notice to leave India by October 28, moves to Bombay High Court
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPU3ZrVlp3eUlxVlQ2N2NjYXlGaXlnSDlDblBnazlHVHozX09rX1ZNbmoxQ01JQVczY3NYU2Y5QWhvOVRkN1oxamtsZ3JpWkpMWUpSZk1TR3pwVVJaUkZENEFVSzNBWU9iLXdMNWgtZ19xZDg4SDJ6OG9UYWdYVVpXekpmNmExa3Fhd2k4SVY2a3A5WmdvS2lTWVZXSlBveWwwZ29FUHlRb1pKME0wUlYxNko2QWdkbUxEUWF1YUx2THN3RTN4eXI4YkhDS042bFd5UVVNSllpdU85Zloxc2JubXc4aFoyY1V4bmNhLWJOM0xZbXVNVkI5bjVTb0p5M3lDS0VRQUZwZjBrM09tOHpVSUhaYXlvdDgwSDJYbDNYZ2JLYUFW?oc=5
-
-- Ahead of Tarique Rahman’s Japan visit, Tokyo envisions connectivity for India’s northeast, Bay of Bengal region - The Hindu
-  Ahead of Tarique Rahman’s Japan visit, Tokyo envisions
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPbUEzelItRGdMOWs1R040VWh1TVl4TjhNT3FWOGlLSWFEVGFJeTVHTlZYNWI4WVczQzA4VV9uT1RnR3lLNTVYTGxVb0hScDhqVXRuXzM5UHdteXFPSmZuNF9HVjlrdEZ0ekVncVlyc0daUzhDUGFDM3ZVLVp2blFkUTNWZ0d4TUpHRm9qdmEtNTloRGo3WEpQek9qcDhUekJubnhmT0RJTksxdlB4NWVQaFJKbU1hRktVXzl2bXFpNkVwUmhrWEFocXI1VVhxZzFHbHlFS3RGWDk0OU9nc0VsVW1VeTlndVVTa0pYWmFxX1JIWDF0clh0d0JOS1VHRjZT0gGHAkFVX3lxTE9zazUzYXN1dUxJLUk3NVhDVVJGcVlFUlA4UnM2Y0J5YmxWUnhDTmM2LVktQ3lFVllyMzJVVU4ySDVlRjVJRnhrQTV2OUExOUptald5S1BYWGFWSjBzaWZTZTA3emdfQWhiMTF2NUtYZ0xTZ1VXeURWM2Uwd2NhZUxYTEViZk91ZkVPRm5ZSnRvU2dIaUlFd19QcmRPcm53R3M0cUk3d21Eb1Y3Zm13YU9pMG5FV3J0TmhuWlVGQmlkbWRjYUt1RnY0ZnI0R3ZGOXJRUVE2c1V2bnN2Uk9KcVQzN2U1M3pTSmhXZ2ZtaHBkUkZ3cGxtQmoyMC1sTGU3UUdqdC1tN0cw?oc=5
+- Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal
+  Listed home services major Urban Company’s board approved a proposal to raise up to ₹2,500 Cr yesterday, seeking to shore up its finances.
+  🔗 https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/
 
 - Nazara, Groww Gain Among New-Age Tech Stocks This Week, AceVector Falls 18%
   Fewer than half of the 67 new-age tech stocks under Inc42’s coverage advanced this week despite a broader market recovery.
@@ -176,49 +180,45 @@
   Instakart Services, the Flipkart-owned logistics company behind Ekart, nearly broke even in the fiscal year ending March 2026 (
   🔗 https://inc42.com/buzz/ekart-fy26-loss-narrows-by-98-to-%e2%82%b926-cr-despite-a-fall-in-top-line/
 
-- Rapido Booked By Pune Police Over Alleged Unauthorised Bike-Taxi Operations
-  Pune Police booked Rapido parent Roppen Transportation Services Pvt Ltd for allegedly running bike-taxi services without the required licence.
-  🔗 https://inc42.com/buzz/rapido-booked-by-pune-police-over-alleged-unauthorised-bike-taxi-operations/
+- Actor Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
+  Actor Imran Khan moves Bombay HC against ‘arbitrary
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU19UMGRMVnNsVENfbUNxVzVjbDNjT1ljMlMtbWlNNUhVT3d5c1daMm9fWnVSLWhEV01FVHVidXJUanZpYXhkR3l0WHpPb050YTUyZlpFZVZCUF9fN3ZFRTI4dzdNdFdaUWE3UDJiN3RLN2Z6aVNwdjVaZ3ExZWJJU2FjZWEwTGtaTTRZUURINXV1bVA2cy1tWmJqTVQ0cWoweUY3YzRzeDdpcWFuSlZMY0xhcElzQ0Y4SkxndUVqRTdvWENIU0RkUnZlN2xUeTl5d3ZMN0Qzb0tLQmt1M1ZaaFJiV1NFZ9IB7AFBVV95cUxPelZIVVpBU3NlTWItcDVxMmZ5b0Vmak5HZzJVMFhCR0JGUmFleVI5Yi1yOW9BSGhyWThuRnFEbTR1ZjcwdmQyRWtkRUhCWTYzbmZtX2loY1RMakZ2Qk5INGd5aFRmVWJ6U3lVV2FWbmxwTFlUU3NSWVhPOTcxeHBka2NNamNwY2ViLWZ1Qy1lWW1pdkZzXzc5SHJSWFFBNTZCVHFVYXpZQWxwNWREMWV0RTdsWVpnVm5QVUVtblpuT3hLLUhpQmxqVTB2d05Bdy14VHc0U09RTGhadEs5QTZTc2lERjlXV2JxMmc3aA?oc=5
+
+- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
+  'Not An Ordinary Foreigner': Imran Khan
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnc?oc=5
+
+- Imran Khan moves Bombay High Court against FRRO's ‘Leave India’ notice; flags procedural lapses - Bar and Bench
+  Imran Khan moves Bombay High Court against FRRO's ‘Leave
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU11TFRkMzROeXRzN2tqQk1tZXJTdFZKSGJCM1JRaS1WVDlfUkc2dkFyQVNpQlA4YlJVcjZoMGRfd1dxOHYzelJRdTdDUVBxVWFQdTJWYjZsOENfOXVnaDY3dDRSVzJDMllHUHBxVFFfc0lwODUxUUh4U1NlZ3Myd0REQUZXcUdaejM0NkFOOC0wbkpfS1ZuUEVoYmFfQlZ6N0xZQkhmOWNrQkhiWFlPblF3SWhIblNSQ29Ga3p2OWFld9IBzwFBVV95cUxQN2RkWUZsalZnUmlzYTk3aG9VOW9VdHNnVFVsMHVwQmp3bm5KZUhXNTA4WWNLRlotdk03WjVlSTRMWmFFdUtOMmNHVlF1UjJmZ21sUF9qNVR6d1FSTlZKUGswYWFfemVVb0FjSDhCM2dGRXdRclBsZlk5bm1yMzlwODdJbVFzWURtamkwcHJRWG0yc1dqT3djd25IN2t3TXY5bjRQblptMGR0LU1BUjN2VnduVV9UUkR3bjE5c19Cc3NhTDh0NTZqUTExY1hVaGs?oc=5
 
 - ‘It was fake’: Indian villagers allege forgery behind Adani mine project - Al Jazeera
   ‘It was fake’: Indian villagers
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHRiYk02a2x1cXhBYno1SVNNNkVDLXFDclM3ZGh6Q2N5U09VQU1sTjd4a2xBR1VuYW9NdWZtU1pLak05THF3YlFqMDAwZmN4ZkotVHd6RWlkSUVtY01VaEVJX2NvMy0xSllmT09LUVhKWVJwSXA0Ul9tb3ZsOWVkXzkwX3BpZjFVY01NMkR6dS0zLTI2NTZiX3NJand3ZFVfV1B2eXl5QlVJRjdnNTFEUmVPbjhpd9IBuwFBVV95cUxOWFNUcDl0TFY0cjMxZnZOVzRzNXhaekFKSDNTdDB3SWRkSm1BdzA3dFRVelN4a2cybnMtT2pwRUI1d1RldWFYVVI2d25naXZJRkdjaTEzdVdma2ZuTTVkZXdodXlzNGViaUx6bW54dmN2bEpJdzZCLWZXRUVwRG5vOGpZU2V1M1hYTW5ZUnhjbG5YWjBSOE1vQms5RHNCZU5ieGRIUUNySEVLOE9jb01KTWxMbGZ2TTA3OEpV?oc=5
 
-- Imran Khan Asked To Leave India: Can OCI Card Holders Take Part In Protests? - NDTV
-  Imran Khan asked to leave India: Can OCI Card
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOWC1Na3I5SjZUb3c0bXNZTlFGc3Y1bDRnSF9SY1JacS1XY19ZRXVndlRGekszdW1zMk80U1dPWDRobXdrQTh5VnZUZXRzdllucEpuQmdFNWlnWG9VcGEtcDFZVUszMHB5QTA3eE1WRmhNNElXeDJMQXBOclpjLWhyb0VYQnA5eEZfRW92c2dwVGMzTUplbnBSb3V0TlY2TG9rNG85NDJpU2w5THVZWWZ6VGVBaGVJQdIBvgFBVV95cUxPMmhIbXlKY3E5emRLRTBvM1laNXdVdk1GYm1COGh1TVBGYm5IVkxxVEJ1SkNZdHpPWWtKd3dXT1U3YlBUUllfaUlhU0oxN2hlSXdWb1dtVkpxRG96RWFKQmN2Q2ZOaGlKb1VFNmQwUnYtQUhhTWpuV1k1MUdta0c4UUZaYzVHR1QtUUpCdVRpX3NkbnIxU1Utc3ZmNU9XNGxIWktmTVdCR2lJTEd4UmxwSGpOWlRDV3pyZm9uYnJ3?oc=5
+- Darkness, Rush, And An Announcement: What We Know About Kolkata Stampede - NDTV
+  "Darkness, Rush, And An Announce
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVlSeTVPRkJ0UnBpTUVOZG9TNGJ6djJNVWpucDlVeXJyTzktT1JHRURNV0NRMVZsLWpiZnFfX3lMLW5ITHZJNU1CdWVLTW82RGlZdmo0cXpTMlM3LWNLelFoNDNBNXJfM1BWWlkwdW5tVlVtdDZPNFF0Y1V0S0V3bTlEemVtOXhqanVCZmNHeEpWT0UzM0xjQ0dpdEpGSXpINXcwUlcxd3ozb1Q2NWg1bGRkVEJxdmvSAb8BQVVfeXFMTzM1T3pDMDV4UjhzVk5icmI5UlNwZWxkaUQ0d0RwTHB5S2ttWjJDMURvM0thZ0RQRVVzN3dYM3FyTVhTMFV4SThzb29hLThOZ3NOS2t1VEVVNy1qU3FYalV1TEZvQTZUa0Z3SjNsQllKUy1FX2s5QlF4UFVTRGlVQU94Sk1NVUZ2czF4dWtwZFNMd0RZaVdyU2xEZWVQTUVKQ29wdDNLbkdNY01ma2FTT3dnMU83Y1JfWTZZaTc4eHc?oc=5
 
-- All nine Indian seafarers safe as drone-hit tanker reaches Romanian port: Embassy - The Hindu
-  All nine Indian seafarers safe as drone-hit tanker
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmd2S05DeFpvUFhNdGtHS05YMHhhNEUyQ0FHWWRfZlRuNTl5ODFBUloybDNvVFV4MjVPUDJqdERjdjdMV25rU1JoaHpGVlhEdlVEMUJoSGdzMXdRb3dKWVlQRDdiaXVCTkFqUWpTOUVVSVVnUFJxc1VOQ1hLZGtFVGJEQ3hnaHdVSnNvMXBDSGd6dTFkX0MyVnJka05WS243bVlBNF9fcTFQaTA5anJYSmo2dmV4ZkhnYTgzeDhyWDZ0dU1pNFAzTjgtX1FwYndBaml6Nk930gHcAUFVX3lxTFAwbHlOVXFIQ1h2Q2JhdXhPa2hzcmxkZ1N2RWhoX0tldDhlRGVOa0hXSzREUC0wNV85bVlzdUk1SDE0UFhXMHNmRG14eVNySzdBVkxsSHhJc1FDU0MyaWxvaW12dWpfTXB2R3ZtOHVfeGh6b1VFZXI2R21kdjB6b1NiZy1jMzJEZXdWY2FFNFVRd2FKcFFrYXZaVi1rN3JfZXg2bW5VOVZCX2N6b2U0RU5HRmp5X2FQLVVGSVc5Q3JObDFoV1VkVlRfUXdBZlJRR040eHVOeG5JNlpUREM?oc=5
+- Actor Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
+  Actor Imran Khan moves Bombay HC against ‘arbitrary
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU19UMGRMVnNsVENfbUNxVzVjbDNjT1ljMlMtbWlNNUhVT3d5c1daMm9fWnVSLWhEV01FVHVidXJUanZpYXhkR3l0WHpPb050YTUyZlpFZVZCUF9fN3ZFRTI4dzdNdFdaUWE3UDJiN3RLN2Z6aVNwdjVaZ3ExZWJJU2FjZWEwTGtaTTRZUURINXV1bVA2cy1tWmJqTVQ0cWoweUY3YzRzeDdpcWFuSlZMY0xhcElzQ0Y4SkxndUVqRTdvWENIU0RkUnZlN2xUeTl5d3ZMN0Qzb0tLQmt1M1ZaaFJiV1NFZ9IB7AFBVV95cUxPelZIVVpBU3NlTWItcDVxMmZ5b0Vmak5HZzJVMFhCR0JGUmFleVI5Yi1yOW9BSGhyWThuRnFEbTR1ZjcwdmQyRWtkRUhCWTYzbmZtX2loY1RMakZ2Qk5INGd5aFRmVWJ6U3lVV2FWbmxwTFlUU3NSWVhPOTcxeHBka2NNamNwY2ViLWZ1Qy1lWW1pdkZzXzc5SHJSWFFBNTZCVHFVYXpZQWxwNWREMWV0RTdsWVpnVm5QVUVtblpuT3hLLUhpQmxqVTB2d05Bdy14VHc0U09RTGhadEs5QTZTc2lERjlXV2JxMmc3aA?oc=5
 
-- Imran Khan seeks urgent stay on notice to leave India by October 28, moves to Bombay High Court: Report - The Times of India
-  Imran Khan seeks urgent stay on notice to leave India by October 28, moves to Bombay High Court
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPU3ZrVlp3eUlxVlQ2N2NjYXlGaXlnSDlDblBnazlHVHozX09rX1ZNbmoxQ01JQVczY3NYU2Y5QWhvOVRkN1oxamtsZ3JpWkpMWUpSZk1TR3pwVVJaUkZENEFVSzNBWU9iLXdMNWgtZ19xZDg4SDJ6OG9UYWdYVVpXekpmNmExa3Fhd2k4SVY2a3A5WmdvS2lTWVZXSlBveWwwZ29FUHlRb1pKME0wUlYxNko2QWdkbUxEUWF1YUx2THN3RTN4eXI4YkhDS042bFd5UVVNSllpdU85Zloxc2JubXc4aFoyY1V4bmNhLWJOM0xZbXVNVkI5bjVTb0p5M3lDS0VRQUZwZjBrM09tOHpVSUhaYXlvdDgwSDJYbDNYZ2JLYUFW?oc=5
+- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
+  'Not An Ordinary Foreigner': Imran Khan
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnc?oc=5
 
-- Ahead of Tarique Rahman’s Japan visit, Tokyo envisions connectivity for India’s northeast, Bay of Bengal region - The Hindu
-  Ahead of Tarique Rahman’s Japan visit, Tokyo envisions
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPbUEzelItRGdMOWs1R040VWh1TVl4TjhNT3FWOGlLSWFEVGFJeTVHTlZYNWI4WVczQzA4VV9uT1RnR3lLNTVYTGxVb0hScDhqVXRuXzM5UHdteXFPSmZuNF9HVjlrdEZ0ekVncVlyc0daUzhDUGFDM3ZVLVp2blFkUTNWZ0d4TUpHRm9qdmEtNTloRGo3WEpQek9qcDhUekJubnhmT0RJTksxdlB4NWVQaFJKbU1hRktVXzl2bXFpNkVwUmhrWEFocXI1VVhxZzFHbHlFS3RGWDk0OU9nc0VsVW1VeTlndVVTa0pYWmFxX1JIWDF0clh0d0JOS1VHRjZT0gGHAkFVX3lxTE9zazUzYXN1dUxJLUk3NVhDVVJGcVlFUlA4UnM2Y0J5YmxWUnhDTmM2LVktQ3lFVllyMzJVVU4ySDVlRjVJRnhrQTV2OUExOUptald5S1BYWGFWSjBzaWZTZTA3emdfQWhiMTF2NUtYZ0xTZ1VXeURWM2Uwd2NhZUxYTEViZk91ZkVPRm5ZSnRvU2dIaUlFd19QcmRPcm53R3M0cUk3d21Eb1Y3Zm13YU9pMG5FV3J0TmhuWlVGQmlkbWRjYUt1RnY0ZnI0R3ZGOXJRUVE2c1V2bnN2Uk9KcVQzN2U1M3pTSmhXZ2ZtaHBkUkZ3cGxtQmoyMC1sTGU3UUdqdC1tN0cw?oc=5
+- Imran Khan moves Bombay High Court against FRRO's ‘Leave India’ notice; flags procedural lapses - Bar and Bench
+  Imran Khan moves Bombay High Court against FRRO's ‘Leave
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU11TFRkMzROeXRzN2tqQk1tZXJTdFZKSGJCM1JRaS1WVDlfUkc2dkFyQVNpQlA4YlJVcjZoMGRfd1dxOHYzelJRdTdDUVBxVWFQdTJWYjZsOENfOXVnaDY3dDRSVzJDMllHUHBxVFFfc0lwODUxUUh4U1NlZ3Myd0REQUZXcUdaejM0NkFOOC0wbkpfS1ZuUEVoYmFfQlZ6N0xZQkhmOWNrQkhiWFlPblF3SWhIblNSQ29Ga3p2OWFld9IBzwFBVV95cUxQN2RkWUZsalZnUmlzYTk3aG9VOW9VdHNnVFVsMHVwQmp3bm5KZUhXNTA4WWNLRlotdk03WjVlSTRMWmFFdUtOMmNHVlF1UjJmZ21sUF9qNVR6d1FSTlZKUGswYWFfemVVb0FjSDhCM2dGRXdRclBsZlk5bm1yMzlwODdJbVFzWURtamkwcHJRWG0yc1dqT3djd25IN2t3TXY5bjRQblptMGR0LU1BUjN2VnduVV9UUkR3bjE5c19Cc3NhTDh0NTZqUTExY1hVaGs?oc=5
 
 - ‘It was fake’: Indian villagers allege forgery behind Adani mine project - Al Jazeera
   ‘It was fake’: Indian villagers
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHRiYk02a2x1cXhBYno1SVNNNkVDLXFDclM3ZGh6Q2N5U09VQU1sTjd4a2xBR1VuYW9NdWZtU1pLak05THF3YlFqMDAwZmN4ZkotVHd6RWlkSUVtY01VaEVJX2NvMy0xSllmT09LUVhKWVJwSXA0Ul9tb3ZsOWVkXzkwX3BpZjFVY01NMkR6dS0zLTI2NTZiX3NJand3ZFVfV1B2eXl5QlVJRjdnNTFEUmVPbjhpd9IBuwFBVV95cUxOWFNUcDl0TFY0cjMxZnZOVzRzNXhaekFKSDNTdDB3SWRkSm1BdzA3dFRVelN4a2cybnMtT2pwRUI1d1RldWFYVVI2d25naXZJRkdjaTEzdVdma2ZuTTVkZXdodXlzNGViaUx6bW54dmN2bEpJdzZCLWZXRUVwRG5vOGpZU2V1M1hYTW5ZUnhjbG5YWjBSOE1vQms5RHNCZU5ieGRIUUNySEVLOE9jb01KTWxMbGZ2TTA3OEpV?oc=5
 
-- Imran Khan Asked To Leave India: Can OCI Card Holders Take Part In Protests? - NDTV
-  Imran Khan asked to leave India: Can OCI Card
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOWC1Na3I5SjZUb3c0bXNZTlFGc3Y1bDRnSF9SY1JacS1XY19ZRXVndlRGekszdW1zMk80U1dPWDRobXdrQTh5VnZUZXRzdllucEpuQmdFNWlnWG9VcGEtcDFZVUszMHB5QTA3eE1WRmhNNElXeDJMQXBOclpjLWhyb0VYQnA5eEZfRW92c2dwVGMzTUplbnBSb3V0TlY2TG9rNG85NDJpU2w5THVZWWZ6VGVBaGVJQdIBvgFBVV95cUxPMmhIbXlKY3E5emRLRTBvM1laNXdVdk1GYm1COGh1TVBGYm5IVkxxVEJ1SkNZdHpPWWtKd3dXT1U3YlBUUllfaUlhU0oxN2hlSXdWb1dtVkpxRG96RWFKQmN2Q2ZOaGlKb1VFNmQwUnYtQUhhTWpuV1k1MUdta0c4UUZaYzVHR1QtUUpCdVRpX3NkbnIxU1Utc3ZmNU9XNGxIWktmTVdCR2lJTEd4UmxwSGpOWlRDV3pyZm9uYnJ3?oc=5
-
-- All nine Indian seafarers safe as drone-hit tanker reaches Romanian port: Embassy - The Hindu
-  All nine Indian seafarers safe as drone-hit tanker
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmd2S05DeFpvUFhNdGtHS05YMHhhNEUyQ0FHWWRfZlRuNTl5ODFBUloybDNvVFV4MjVPUDJqdERjdjdMV25rU1JoaHpGVlhEdlVEMUJoSGdzMXdRb3dKWVlQRDdiaXVCTkFqUWpTOUVVSVVnUFJxc1VOQ1hLZGtFVGJEQ3hnaHdVSnNvMXBDSGd6dTFkX0MyVnJka05WS243bVlBNF9fcTFQaTA5anJYSmo2dmV4ZkhnYTgzeDhyWDZ0dU1pNFAzTjgtX1FwYndBaml6Nk930gHcAUFVX3lxTFAwbHlOVXFIQ1h2Q2JhdXhPa2hzcmxkZ1N2RWhoX0tldDhlRGVOa0hXSzREUC0wNV85bVlzdUk1SDE0UFhXMHNmRG14eVNySzdBVkxsSHhJc1FDU0MyaWxvaW12dWpfTXB2R3ZtOHVfeGh6b1VFZXI2R21kdjB6b1NiZy1jMzJEZXdWY2FFNFVRd2FKcFFrYXZaVi1rN3JfZXg2bW5VOVZCX2N6b2U0RU5HRmp5X2FQLVVGSVc5Q3JObDFoV1VkVlRfUXdBZlJRR040eHVOeG5JNlpUREM?oc=5
-
-- Imran Khan seeks urgent stay on notice to leave India by October 28, moves to Bombay High Court: Report - The Times of India
-  Imran Khan seeks urgent stay on notice to leave India by October 28, moves to Bombay High Court
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPU3ZrVlp3eUlxVlQ2N2NjYXlGaXlnSDlDblBnazlHVHozX09rX1ZNbmoxQ01JQVczY3NYU2Y5QWhvOVRkN1oxamtsZ3JpWkpMWUpSZk1TR3pwVVJaUkZENEFVSzNBWU9iLXdMNWgtZ19xZDg4SDJ6OG9UYWdYVVpXekpmNmExa3Fhd2k4SVY2a3A5WmdvS2lTWVZXSlBveWwwZ29FUHlRb1pKME0wUlYxNko2QWdkbUxEUWF1YUx2THN3RTN4eXI4YkhDS042bFd5UVVNSllpdU85Zloxc2JubXc4aFoyY1V4bmNhLWJOM0xZbXVNVkI5bjVTb0p5M3lDS0VRQUZwZjBrM09tOHpVSUhaYXlvdDgwSDJYbDNYZ2JLYUFW?oc=5
-
-- Ahead of Tarique Rahman’s Japan visit, Tokyo envisions connectivity for India’s northeast, Bay of Bengal region - The Hindu
-  Ahead of Tarique Rahman’s Japan visit, Tokyo envisions
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPbUEzelItRGdMOWs1R040VWh1TVl4TjhNT3FWOGlLSWFEVGFJeTVHTlZYNWI4WVczQzA4VV9uT1RnR3lLNTVYTGxVb0hScDhqVXRuXzM5UHdteXFPSmZuNF9HVjlrdEZ0ekVncVlyc0daUzhDUGFDM3ZVLVp2blFkUTNWZ0d4TUpHRm9qdmEtNTloRGo3WEpQek9qcDhUekJubnhmT0RJTksxdlB4NWVQaFJKbU1hRktVXzl2bXFpNkVwUmhrWEFocXI1VVhxZzFHbHlFS3RGWDk0OU9nc0VsVW1VeTlndVVTa0pYWmFxX1JIWDF0clh0d0JOS1VHRjZT0gGHAkFVX3lxTE9zazUzYXN1dUxJLUk3NVhDVVJGcVlFUlA4UnM2Y0J5YmxWUnhDTmM2LVktQ3lFVllyMzJVVU4ySDVlRjVJRnhrQTV2OUExOUptald5S1BYWGFWSjBzaWZTZTA3emdfQWhiMTF2NUtYZ0xTZ1VXeURWM2Uwd2NhZUxYTEViZk91ZkVPRm5ZSnRvU2dIaUlFd19QcmRPcm53R3M0cUk3d21Eb1Y3Zm13YU9pMG5FV3J0TmhuWlVGQmlkbWRjYUt1RnY0ZnI0R3ZGOXJRUVE2c1V2bnN2Uk9KcVQzN2U1M3pTSmhXZ2ZtaHBkUkZ3cGxtQmoyMC1sTGU3UUdqdC1tN0cw?oc=5
+- Darkness, Rush, And An Announcement: What We Know About Kolkata Stampede - NDTV
+  "Darkness, Rush, And An Announce
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORVlSeTVPRkJ0UnBpTUVOZG9TNGJ6djJNVWpucDlVeXJyTzktT1JHRURNV0NRMVZsLWpiZnFfX3lMLW5ITHZJNU1CdWVLTW82RGlZdmo0cXpTMlM3LWNLelFoNDNBNXJfM1BWWlkwdW5tVlVtdDZPNFF0Y1V0S0V3bTlEemVtOXhqanVCZmNHeEpWT0UzM0xjQ0dpdEpGSXpINXcwUlcxd3ozb1Q2NWg1bGRkVEJxdmvSAb8BQVVfeXFMTzM1T3pDMDV4UjhzVk5icmI5UlNwZWxkaUQ0d0RwTHB5S2ttWjJDMURvM0thZ0RQRVVzN3dYM3FyTVhTMFV4SThzb29hLThOZ3NOS2t1VEVVNy1qU3FYalV1TEZvQTZUa0Z3SjNsQllKUy1FX2s5QlF4UFVTRGlVQU94Sk1NVUZ2czF4dWtwZFNMd0RZaVdyU2xEZWVQTUVKQ29wdDNLbkdNY01ma2FTT3dnMU83Y1JfWTZZaTc4eHc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-17 14:53:25 UTC_
+_Last updated: 2026-10-17 20:01:35 UTC_
