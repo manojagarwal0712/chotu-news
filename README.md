@@ -1,44 +1,76 @@
 # 📰 Daily News Summaries
 
-- Meet Vijaye Raji: Statsig founder and OpenAI CTO now joining Amplitude’s board of directors
-  Vijaye Raji is the founder of Statsig, a new tool for developers. Raji
-  🔗 https://www.livemint.com/companies/people/meet-vijaye-raji-statsig-founder-and-openai-cto-now-joining-amplitude-s-board-of-directors-11792285217627.html
+- Imran Khan moves Bombay High Court against FRRO's ‘Leave India’ notice; flags procedural lapses - Bar and Bench
+  Imran Khan moves Bombay High Court against FRRO's ‘Leave
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU11TFRkMzROeXRzN2tqQk1tZXJTdFZKSGJCM1JRaS1WVDlfUkc2dkFyQVNpQlA4YlJVcjZoMGRfd1dxOHYzelJRdTdDUVBxVWFQdTJWYjZsOENfOXVnaDY3dDRSVzJDMllHUHBxVFFfc0lwODUxUUh4U1NlZ3Myd0REQUZXcUdaejM0NkFOOC0wbkpfS1ZuUEVoYmFfQlZ6N0xZQkhmOWNrQkhiWFlPblF3SWhIblNSQ29Ga3p2OWFld9IBzwFBVV95cUxQN2RkWUZsalZnUmlzYTk3aG9VOW9VdHNnVFVsMHVwQmp3bm5KZUhXNTA4WWNLRlotdk03WjVlSTRMWmFFdUtOMmNHVlF1UjJmZ21sUF9qNVR6d1FSTlZKUGswYWFfemVVb0FjSDhCM2dGRXdRclBsZlk5bm1yMzlwODdJbVFzWURtamkwcHJRWG0yc1dqT3djd25IN2t3TXY5bjRQblptMGR0LU1BUjN2VnduVV9UUkR3bjE5c19Cc3NhTDh0NTZqUTExY1hVaGs?oc=5
 
-- India’s Revolut or Nubank will emerge from a bank, not a fintech: Slice CEO Rajan Bajaj
-  Slice wants to become customers’ main bank
-  🔗 https://www.livemint.com/companies/indias-revolut-or-nubank-will-emerge-from-a-bank-not-a-fintech-slice-ceo-rajan-bajaj-11792148763171.html
+- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
+  'Not An Ordinary Foreigner': Imran Khan
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnfSAeMBQVVfeXFMUDlzVkVzSVpZTzJULUlUNFctb1NpWUZuVlNiMnYtamc3UWQ2ZDJqZlJ3OVRhRV9VTHhvdEd0YzdDZUpwLVhZcUxnbXJvUkRFeHJxc09HZ3pXTGs0QUgyQ0VONWc5eVB1ZDBGek9oMWt5ZDFfSUhJTUxpeFI3YmFzX0ZFeXo0a3gyMGxMZWR0OV9yUmhtZ2ZNbWZ5ZTNsQUR1S180YmdncnRBVnJRWUpvUi1lOW5hbXFaQnpGTHk0RGJDOGJHRFlRSlkxUWdlcTRISHBhVmFaRHNaMnpTWEE5eGlMNFU?oc=5
 
-- From Apple’s Tim Cook to Netflix’s Reed Hastings: 5 CEOs' with the biggest pay packages
-  Apple's Tim Cook leads a study of 10 departing CEOs with an estimated $950 million in cumulative reported compensation over 15 years. Disney’s Bob Iger and Activision
-  🔗 https://www.livemint.com/companies/people/from-apple-s-tim-cook-to-netflix-s-reed-hastings-5-ceos-with-the-biggest-pay-packages-11792258940048.html
+- Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
+  Imran Khan moves Bombay HC against ‘arbit
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU19UMGRMVnNsVENfbUNxVzVjbDNjT1ljMlMtbWlNNUhVT3d5c1daMm9fWnVSLWhEV01FVHVidXJUanZpYXhkR3l0WHpPb050YTUyZlpFZVZCUF9fN3ZFRTI4dzdNdFdaUWE3UDJiN3RLN2Z6aVNwdjVaZ3ExZWJJU2FjZWEwTGtaTTRZUURINXV1bVA2cy1tWmJqTVQ0cWoweUY3YzRzeDdpcWFuSlZMY0xhcElzQ0Y4SkxndUVqRTdvWENIU0RkUnZlN2xUeTl5d3ZMN0Qzb0tLQmt1M1ZaaFJiV1NFZ9IB7AFBVV95cUxPelZIVVpBU3NlTWItcDVxMmZ5b0Vmak5HZzJVMFhCR0JGUmFleVI5Yi1yOW9BSGhyWThuRnFEbTR1ZjcwdmQyRWtkRUhCWTYzbmZtX2loY1RMakZ2Qk5INGd5aFRmVWJ6U3lVV2FWbmxwTFlUU3NSWVhPOTcxeHBka2NNamNwY2ViLWZ1Qy1lWW1pdkZzXzc5SHJSWFFBNTZCVHFVYXpZQWxwNWREMWV0RTdsWVpnVm5QVUVtblpuT3hLLUhpQmxqVTB2d05Bdy14VHc0U09RTGhadEs5QTZTc2lERjlXV2JxMmc3aA?oc=5
 
-- Renault India CEO sees hybrids, CNG making up 50% of sales in 2-3 years; eyes 3-5% market share by 2030
-  Renault India expects hybrids and CNG vehicles to account for up to 50% of sales in 2-3 years. The automaker is pitching hybrids as an alternative to diesel and
-  🔗 https://www.livemint.com/companies/renault-india-ceo-sees-hybrids-cng-making-up-50-of-sales-in-2-3-years-eyes-3-5-market-share-by-2030-11792255501177.html
+- ‘Lifetime subscription to pressure’: Ex-India cricketer’s blunt defence of Sanju Samson - The Times of India
+  The Times of India has published an exclusive interview with Sanju
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVFE4XzVyRmRqcGVQakw3QTdOb0hTS0hTM3NINFdKNndMek9VTkJjTDhjVEpTMjNpMks1RTY5T2tDTEFzaGlUS1pxSWtBUWV4QVgzaTdFZl9rNHRhOWNlMFp4S0pnOVNHMzd6RDM0cW1NNERIdm5CRkxpYVFMU091Qi1OTzZNRVpWRkQ4clM5T21pM2cxYW50a2Z2aEJraVE4ZnM0NWFzRzVfUHl6aFpleXhKVlh2bERGeFVBd04wcGdSanZkR0JlejFNbUZrTnZlZ3MydDNEbklXMnI2RlhkT2JKekVlZk5ONVNVU2pEdUZGZTdlOWtFMNIB_gFBVV95cUxOZVh1VlZfWWFQS25Ba1hpaGRDTGJnbXlKM1BCYXBueG9zRFZCZUFwWTdQWFFrTi1wbGYzZ2Q4M1ZMSDQ5REZ2Y19nLXo1NEJQYXFQekJFS1k0UXVPbUktNlFkUS1idzVsUVd2YTQtS3VBTE9vME1sVmFMQ3JIcXpTV1U4dXkwVzR3OFRvLTFVaGRmblN1ek5nWUszUnNVQ2Q0UUtReE54R05jczNpUEdhZGpvaFhMVkVQaEdUSmU1WTY3WFZJVzR2X1hJSTFtWWlzVmtFWWw4U1JMb1kyMEV2SFg2eFhmRHNibzJNb1VhR21hSVNFbHBYQVE4Y0R1Zw?oc=5
 
-- Axis Bank’s rising costs, FCNR inflows squeeze Q2 margins
-   Axis Bank’s Q2FY27 net profit rose 38% year-on-year to  ₹7,003 crore. The lender
-  🔗 https://www.livemint.com/companies/company-results/axis-bank-s-rising-costs-fcnr-inflows-squeeze-q2-margins-11792250295486.html
+- India urges nationals in Saudi Arabia to follow safety directives amid security concerns - The Hindu
+  India urges nationals in Saudi Arabia to follow safety directives amid security
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUk1YaVRIT2E4dTNjeHJiVWFKWE1JZ1VvOTJsSkYxc3BUTmxfUU1ROThvLTJBNWVMRTNhSTl3ZWtFQjhRNGxoVkU5TEw5UTgwQUFVZVlBYm5LWC01NHRXcW14TUZ4UWg5Vk1BV1ZUTHI3Ym11UWVSazZuanR0ZjJpbUxEeFNvTkhxbWxlQms4MTEyb0lvdXE5UzV4N2xZTnNnemh5RGNtTmU5ZHNDZ2loN3dRTG1reTJlM2FhX2xOR2VxWEpFdHdWX2hCQXA5N1phcVo0M0lJZldfSVFFcl9HQUpCMWJZU0HSAe4BQVVfeXFMTXVMZEc3Vm9JQVVacFY1TFRyQTdQb2tGZUx3bWN0R3FvVWlvUF9KWXBOQ1FyQ3dvY1AwOW1jQjRYMExDUi1FYVNRSmtpVFVZY19ZQzY5RXpWc3NDTXdQaUVkV05Hc29JUWwtSzBMemQwWWlpSGVHZFpDbVZ2MlQ3bnBrSUZGa3FYWjQtd0dwUDBZS2tZOVY0c0E0c2FPTTlrQm1NQU1OZ3Jpc1Vwc2syWV9IQ2txVnRNR3NodWVpSjZoUWRYM01ncmx5aENGX0lFd0pWWXZGOE9FTUVyeElicV9CbVJVTHd2c0JMbmJHZw?oc=5
 
-- Top 3 stocks to buy under  ₹100: IRFC, Motherson Sumi, Lloyds Engineering Works by Sumeet Bagadia | Target price, SL
-  Sumeet Bagadia of Choice Broking believes the Indian stock market bias has improved.
-  🔗 https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-under-rs-100-irfc-motherson-sumi-lloyds-engineering-works-by-sumeet-bagadia-target-price-sl-11792255051961.html
+- Restaurants take Diwali celebrations home, bet on catering, party boxes
+  Restaurants are looking to capture festive spending beyond dine-in.
+  🔗 https://www.livemint.com/companies/news/restaurants-take-diwali-celebrations-home-bet-on-catering-party-boxes-11792156891839.html
 
-- AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks
-  US tech selloff exposes new vulnerability in Asia's artificial intelligence trade. mounting financing costs could choke off the spending needed to sustain the boom.
-  🔗 https://www.livemint.com/market/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks-11792284261229.html
+- Manasum Senior Living buys 164 units in Signature Global's Gurugram project
+  Each apartment in Varishtha will cost around  ₹3.7 crore for the final buyer. Apartment
+  🔗 https://www.livemint.com/companies/manasum-senior-living-buys-164-units-in-signature-globals-gurugram-project-11792148393570.html
 
-- Tata Steel declares Q2 results 2026 date: EBITDA may decline QoQ; share price target, stop-loss and outlook in focus
-  Tata Steel Q2 results 2026: Nuvama
-  🔗 https://www.livemint.com/market/stock-market-news/tata-steel-declares-q2-results-2026-date-ebitda-may-decline-qoq-share-price-target-stop-loss-and-outlook-in-focus-11792257156748.html
+- Indian Bank raises FY27 growth guidance, plans 100 branches; CEO sees recoveries exceeding target
+  Indian Bank has raised its FY27 growth guidance after reporting strong loan and deposit growth, improving asset quality and robust profitability.
+  🔗 https://www.livemint.com/companies/indian-bank-raises-fy27-growth-guidance-plans-100-branches-ceo-sees-recoveries-exceeding-target-11792303881199.html
 
-- Wall Street Week Ahead - Earnings expectations:  All eyes on Meta, Tesla, Netflix, and SpaceX; this survey also in focus
-  The results are expected to offer insights into corporate earnings, consumer
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-earnings-expectations-all-eyes-on-meta-tesla-netflix-and-spacex-this-survey-also-in-focus-11792254700438.html
+- ‘JRD Tata believed country’s future wasn’t something that would simply arrive’: Full text of Tata Trusts' X post
+  Tata Trusts posts on Twitter what JRD Tata believed about India's future. JRD believed the country's future would be shaped in real time by the youth.
+  🔗 https://www.livemint.com/companies/people/tata-trusts-posts-twitter-what-jrd-tata-believed-about-country-future-youth-shape-india-education-skills-read-full-quote-11792309669896.html
 
-- Dividend rush next week! Infosys, Nippon, Sagility, Cyient among 11 firms in focus for reward, Q2 results | List
-  Infosys and Colgate-Palmolive (India) are among the companies in focus next week. Their boards may also consider dividends. Another company is scheduled to
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-rush-next-week-infosys-nippon-sagility-cyient-among-11-firms-in-focus-for-reward-q2-results-list-11792253097036.html
+- Singapore Names Seven Companies Over Indonesia Haze Fires
+  Singapore has identified seven companies it says were involved in wildfires in Indonesia that have blanketed the city-state in haze
+  🔗 https://www.livemint.com/companies/singapore-names-seven-companies-over-indonesia-haze-fires-11792310720404.html
+
+- Adani Group stocks Q2 results 2026 date this week: Adani Green, Adani Energy, Adani Gas, Adani Power schedule, returns
+  Adani Green Energy, Adani Energy Solutions and Adani Total Gas to announce Q2FY27 results this week.
+  🔗 https://www.livemint.com/market/stock-market-news/adani-group-stocks-q2-results-2026-date-this-week-adani-green-adani-energy-adani-gas-adani-power-schedule-returns-11792312936958.html
+
+- Cyient DLM shares crash 12% despite Q2 profit growth: 3 reasons, brokerages set targets; should you buy?
+  Cyient DLM shares fell 12.24% after Q2 FY27 results showed revenue up 26.5% and normalised profit up 25.8%. EBITDA margins narrowed to
+  🔗 https://www.livemint.com/market/stock-market-news/cyient-dlm-shares-crash-12-despite-q2-profit-growth-3-reasons-brokerages-set-targets-should-you-buy-11792312714575.html
+
+- ‘Rarest of rare’ bets on Reliance ahead of Jio Platforms’ biggest-ever IPO
+  Analysts believe clients could be expecting a &amp;nbsp;bounce from fresh lows hit recently by the stock
+  🔗 https://www.livemint.com/market/rarest-of-rare-bets-on-reliance-ahead-of-jio-platforms-biggest-ever-ipo-11792294102396.html
+
+- Bajaj Finance Q2 results 2026: Date, time, preview, expectations, share price outlook | Target, stop-loss, rationale
+  The NBFC has set a board meeting date on 19 October 2026 to consider and approve the September 2026 quarter earnings. The Q2 results announcement will be followed by a
+  🔗 https://www.livemint.com/market/stock-market-news/bajaj-finance-q2-results-2026-date-time-preview-expectations-share-price-outlook-target-stop-loss-rationale-11792308663529.html
+
+- Stock split, bonus, dividend, buyback record date in 19-25Oct week: Angel One, JSW, IRFC, Tech Mahindra, Modison, others
+  Several companies have upcoming corporate actions between October 19 and 25. Titan Biotech announced a bonus share issue, while VRL Logistics set October 22 as the record date for its share buyback.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-split-bonus-dividend-buyback-record-date-in-19-25oct-week-angel-one-jsw-irfc-tech-mahindra-modison-others-11792308900697.html
+
+- MeitY-backed conclave explores AI applications in healthcare, assistive technologies
+  Artificial intelligence could improve disease screening, medical diagnostics and remote patient monitoring. Secretary of the Ministry of Electronics and Information Technology S. Krishnan said at a technology conclave in Varanasi.
+  🔗 https://www.livemint.com/technology/meitybacked-conclave-explores-ai-applications-in-healthcare-assistive-technologies-11792308092347.html
+
+- Consumer apprehension grows as US retailers adopt AI-assisted pricing tools
+  Consumer apprehension grows as US
+  🔗 https://www.livemint.com/technology/consumer-apprehension-grows-as-us-retailers-adopt-ai-assisted-pricing-tools-11792307481426.html
+
+- Apple October 2026 launches: Touchscreen MacBook Pro, M6 iMac, OLED iPad Mini and more expected
+  Apple has invited select media members to a product event in Los Angeles on October 28. Apple could announce a touchscreen MacBook Pro, an M6-powered iMac and an OLED iPad mini
+  🔗 https://www.livemint.com/technology/apple-october-2026-launches-touchscreen-macbook-pro-m6-imac-oled-ipad-mini-and-more-expected-11792144048285.html
 
 - iPhone 18 Pro Max vs Galaxy S26 Ultra: Key differences in camera, display, battery and performance
   The two devices also differ in weight, storage capacity and charging performance, giving buyers several factors to
@@ -48,37 +80,69 @@
    REDMAGIC has launched the 12 Pro+ in China, starting at 6,999 yuan. The gaming phone features a 185Hz under-display-
   🔗 https://www.livemint.com/technology/redmagic-12-pro-launched-with-185hz-display-rgb-water-cooling-and-8-400mah-battery-check-prices-and-top-features-11792249429605.html
 
-- Apple iPhone Duo's ‘extraordinary’ pre-order frenzy raises stakes for its foldable smartphone debut
-  The coming weeks will offer a clearer indication of whether the initial pre-order rush translates into sustained sales momentum and how quickly Apple can
-  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-duos-extraordinary-pre-order-frenzy-raises-stakes-for-its-foldable-smartphone-debut-11792249877954.html
+- Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off and oil prices: Live updates - CNBC
+  Nasdaq slides 2% Friday to post worst week since June, pressured by AI
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5
 
-- AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley
-  The global race to expand artificial intelligence (AI) capabilities could increasingly be determined by which companies can secure enough electricity, financing and data-centre infrastructure.
-  🔗 https://www.livemint.com/technology/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley-11792231459245.html
+- Stock market today: Tech selloff weighs on stocks to end volatile week - Yahoo Finance
+  Yahoo Finance is a leading provider of financial news to
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjdQUFR1bVFaMnh2OGkwc1BVMTJXaEswWmtlWmV3UDR4YzFXQmdndkg4Y0xuS1NWazZIemdKeUYzRU8xQ3VuMllLdk5Sa3ZxQ3JsWk91bXZlcXFNSHNsSGZWc3dVR200WmdUQmpKSk83dkNZTnkydkNOT1JiS1ctT0NZa2ljQ0RMM0FfZHcySlktb2xVRHBVQ2tjeFdvd3Vpbkg2V1JwX2kybzdkZWo2S3pzeG93VkJrZ1NSNmdtVE4?oc=5
 
-- iPhone 17 at  ₹54,000; 17Pro at  ₹57,000? Here's how you can get the iPhone 17 and 17 Pro at half the price
-   Flipkart and Reliance Digital are offering discounts, bank benefits, and exchange deals on the iPhone 17 and iPhone 17 Pro. The final savings depend on the phone exchanged and the payment method used.
-  🔗 https://www.livemint.com/technology/tech-news/iphone-17-at-rs-54-000-17pro-at-rs-57-000-heres-how-you-can-get-the-iphone-17-and-17-pro-at-half-the-price-11792228929713.html
+- Stock Market News: Nasdaq Faces Weekly Loss on Tech Stock Slump - WSJ
+  The WSJ reports Nasdaq faces weekly loss
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWtEQ1dWcXo2OG1zSkt0d3hELWZsX2ZhOE1adzdRdDdPM2VOZElCdXVhNHFETGtPeUwxUnRtc1R1TFVtY2l0M042c0xnWjdzRzhndjBJUmtHdXVhby11YkFYOERsSUhueU9jYTRCMFJJa3lxSGFjaWJrcUR0SllhWXJ4cURuUkU?oc=5
 
-- Central Bank of India Q2 profit rises 21% as loans grow 30%
-  Central Bank of India reported a 21% rise in September 2026 quarterly net profit to Rs 1,469 crore. Asset quality improved, with net NPA declining to 0.31%,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-india-q2-profit-rises-21-as-loans-grow-30/articleshow/135014014.cms
+- What is CXMT's 'Chinese chip bomb' that has wiped billions off the US stock market - The Times of India
+  'Chinese chip bomb' wiped billions off the US stock market. CXMT
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0d2dHVUS28tdjhyRzROTGxtR0w1MWFsdWxSSmhYZjhGb3lVOER4MFA1aDJYSVQwSEd2N29yTG5SUzNzald5RDI1VEp6ek5ZcHQzUXRIS180REFEVzRUbk9aODdzVGR2MTJiNnVzMVJMZWo2ZlBjSlRBT2RScnFfNkJSZnRvSUhPUHBIN29HVkR6Y2RxRTIwdEprVUtLMkU4S2NKUEdYdDZrWFVxS25rSzA1czZSWVhvNjY0ZkNkODUzeVVQUlpWYml3TDA2aVRHZWRtUXpqdXhqUkltYktObFI0bTVQcmp1eGNab0dFREgxSVNQ0gH6AUFVX3lxTE5PZzdaV2IyOC1ZaDBLdHN1elhObjJUd2dtNzBjNHAyeDlZY1oyZEZhTG45eWhIcDNKa0hRbTI4OC1VdjZXZ3cydWlYN2Z6TkZLY1ZVUThpM2E0VjVEZ1lHOWVrVkpRYnV2aGNIeWt1NUd2M2NGZDhfYnJzTmR6Y0NHbFU4YXVELUxNSVVaSy1nQUpETUpkalAxRzBBYXdNYUlyXzNYdWtlSlp1S19xS3ViNDF4QTVwUHQwTkxDdFpuRWN1V2s3azlDUEpNVzY1V29aUHNOdHV5UXhINW5BXzRNN1gwbVdYSE9xTGtRbUJoR2lRSzBrWnNSQWc?oc=5
 
-- Rising borrowing costs signal funding risks for global AI expansion: Jefferies report
-  Companies like Oracle and CoreWeave are facing heightened credit risk. Investors need to keep a close eye on credit spreads to gauge the viability of AI projects.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-jefferies-report/articleshow/135012567.cms
+- Can Nifty, Sensex rally further or will bears reign in? 5 factors to steer market this week - The Economic Times
+  The Economic Times reports on the key factors that could influence the markets this week.
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOSTRvRWZBQUVnRWJxZkp5N1BucFhHT01SOEFlY21QR0FOMVNRd3dZQmpYR19fSG9oMG42TklPRUNGaTJHWWdoWEZYcXpiSjIycE03QjB1RG1DWU1Jb1psckxlaXJfVzAxMXQ3MGx0Rk55X3FzZEk5bU9sREFBQURGV1NXQno2djhRTHRQR3dQcUlmYnZEN3B1UzlOX1VVVGlKTHc3aTdmcFpKUjJLSUp3R2hWaDRCSlY1MlFXU0ptQkdkdUJPVDVOTmVqRHZQNXhLemIzdk90X3BTZUxOLTRzSXVwSTdDZjRPREhmODBVQTdSTGc0LW5nd3RNdkx4bGx30gGGAkFVX3lxTE1TRmR2cFZ0WUZGSHNxMUNLZTh2R1FkdGpRX2tIOHZJMG5yVDJCSWZHcUw2a0VQMVFoalBRU2xSNHhVdkdsZlAxWlltWVg0ZFlMTUZ1OEhQMkQyQjFfNUxJSzlOUVdUOVJNY1ZXZGU2bGZGRGVTUkVyMjJ2RlJDQ1o3dmFKei1tXzFhRjRkSzBPTEh5TS1GQUlubXhMeVRFREdKYlpxakNiR1RSOUFWRW82UE4ybnE0YlZxemotTVl0N2Fld2ZYeDRsUlJuVWh1cV9xQ0h2TXhXMUI0d1phSlhFM2RCUXJqaENVdTVMR09jdGY1cnNnNzc0MlBka2RWeU1Vb01RTVE?oc=5
 
-- AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley
-  A predicted 32-gigawatt power deficit threatens data-center development and chip deployment. While global strategies might be an option for some, the internal power dilemmas in the U.S. will persist.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley/articleshow/135012540.cms
+- Bajaj Finance Q2 preview: Profit may jump 29%, NII 24% as strong loan growth lifts earnings
+  Bajaj Finance is projecting a remarkable 29% increase in net profit for the July-September quarter. Analysts caution about potential pressure on lending margins owing to escalating borrowing costs.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-preview-profit-may-jump-29-nii-24-as-strong-loan-growth-lifts-earnings/articleshow/135026829.cms
 
-- ixigo Q2 profit at Rs 63 cr on robust show in hotel booking biz
-  Ixigo reported a remarkable turnaround with a consolidated net profit of Rs 63.42 crore for the September quarter. The surge in hotel bookings played a key role in this financial upswing.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ixigo-q2-profit-at-rs-63-cr-on-robust-show-in-hotel-booking-biz/articleshow/135012396.cms
+- FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus
+  Foreign portfolio investors pulled out over Rs 52,000 crore from Indian equities in October. Despite persistent FPI selling driven by rising US Treasury yields and elevated crude oil prices, benchmark indices Nifty and Sensex rebounded
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpi-selling-crosses-rs-52000-crore-in-october-as-nifty-defies-foreign-exodus/articleshow/135025955.cms
 
-- ICICI Bank Q2 Results: Net profit jumps 20% YoY to Rs 14,843 crore, NII rises 18%
-  ICICI Bank reported a net profit of Rs 14,843 crore in the second quarter of financial year 2027. This is 20.1% year-on
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-net-profit-jumps-20-to-rs-14843-crore-nii-rises-18-yoy/articleshow/135011810.cms
+- Jefferies’ Chris Wood says it’s time to diversify beyond AI. Where should investors look now?
+  Jefferies’ Chris Wood is urging investors to diversify beyond AI. His Asia portfolio retains exposure to semiconductor companies. India, China and other Asian markets feature prominently in the allocation.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-chris-wood-says-its-time-to-diversify-beyond-ai-where-should-investors-look-now/articleshow/135025560.cms
+
+- FPIs pull out Rs 52,100 cr from equities in Oct so far amid global headwinds
+  Foreign portfolio investors have withdrawn Rs 52,100 crore from Indian equities. This follows a net withdrawal of Rs 35,861 crore in September. Elevated crude oil prices, higher US bond yields, and a stronger dollar have affected
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-52100-cr-from-equities-in-oct-so-far-amid-global-headwinds/articleshow/135024995.cms
+
+- Mcap of nine of top-10 most valued firms surges by Rs 3.65 lakh cr; TCS shines
+  The BSE Sensex surged over two thousand points while the Nifty experienced significant growth. TCS, Bharti Airtel, and Infosys led the gains alongside other major firms like Reliance Industries and HDFC Bank
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-surges-by-rs-3-65-lakh-cr-tcs-shines/articleshow/135024970.cms
+
+- Imran Khan moves Bombay High Court against FRRO's ‘Leave India’ notice; flags procedural lapses - Bar and Bench
+  Imran Khan moves Bombay High Court against FRRO's ‘Leave
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU11TFRkMzROeXRzN2tqQk1tZXJTdFZKSGJCM1JRaS1WVDlfUkc2dkFyQVNpQlA4YlJVcjZoMGRfd1dxOHYzelJRdTdDUVBxVWFQdTJWYjZsOENfOXVnaDY3dDRSVzJDMllHUHBxVFFfc0lwODUxUUh4U1NlZ3Myd0REQUZXcUdaejM0NkFOOC0wbkpfS1ZuUEVoYmFfQlZ6N0xZQkhmOWNrQkhiWFlPblF3SWhIblNSQ29Ga3p2OWFld9IBzwFBVV95cUxQN2RkWUZsalZnUmlzYTk3aG9VOW9VdHNnVFVsMHVwQmp3bm5KZUhXNTA4WWNLRlotdk03WjVlSTRMWmFFdUtOMmNHVlF1UjJmZ21sUF9qNVR6d1FSTlZKUGswYWFfemVVb0FjSDhCM2dGRXdRclBsZlk5bm1yMzlwODdJbVFzWURtamkwcHJRWG0yc1dqT3djd25IN2t3TXY5bjRQblptMGR0LU1BUjN2VnduVV9UUkR3bjE5c19Cc3NhTDh0NTZqUTExY1hVaGs?oc=5
+
+- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
+  'Not An Ordinary Foreigner': Imran Khan
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnfSAeMBQVVfeXFMUDlzVkVzSVpZTzJULUlUNFctb1NpWUZuVlNiMnYtamc3UWQ2ZDJqZlJ3OVRhRV9VTHhvdEd0YzdDZUpwLVhZcUxnbXJvUkRFeHJxc09HZ3pXTGs0QUgyQ0VONWc5eVB1ZDBGek9oMWt5ZDFfSUhJTUxpeFI3YmFzX0ZFeXo0a3gyMGxMZWR0OV9yUmhtZ2ZNbWZ5ZTNsQUR1S180YmdncnRBVnJRWUpvUi1lOW5hbXFaQnpGTHk0RGJDOGJHRFlRSlkxUWdlcTRISHBhVmFaRHNaMnpTWEE5eGlMNFU?oc=5
+
+- Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
+  Imran Khan moves Bombay HC against ‘arbit
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU19UMGRMVnNsVENfbUNxVzVjbDNjT1ljMlMtbWlNNUhVT3d5c1daMm9fWnVSLWhEV01FVHVidXJUanZpYXhkR3l0WHpPb050YTUyZlpFZVZCUF9fN3ZFRTI4dzdNdFdaUWE3UDJiN3RLN2Z6aVNwdjVaZ3ExZWJJU2FjZWEwTGtaTTRZUURINXV1bVA2cy1tWmJqTVQ0cWoweUY3YzRzeDdpcWFuSlZMY0xhcElzQ0Y4SkxndUVqRTdvWENIU0RkUnZlN2xUeTl5d3ZMN0Qzb0tLQmt1M1ZaaFJiV1NFZ9IB7AFBVV95cUxPelZIVVpBU3NlTWItcDVxMmZ5b0Vmak5HZzJVMFhCR0JGUmFleVI5Yi1yOW9BSGhyWThuRnFEbTR1ZjcwdmQyRWtkRUhCWTYzbmZtX2loY1RMakZ2Qk5INGd5aFRmVWJ6U3lVV2FWbmxwTFlUU3NSWVhPOTcxeHBka2NNamNwY2ViLWZ1Qy1lWW1pdkZzXzc5SHJSWFFBNTZCVHFVYXpZQWxwNWREMWV0RTdsWVpnVm5QVUVtblpuT3hLLUhpQmxqVTB2d05Bdy14VHc0U09RTGhadEs5QTZTc2lERjlXV2JxMmc3aA?oc=5
+
+- ‘Lifetime subscription to pressure’: Ex-India cricketer’s blunt defence of Sanju Samson - The Times of India
+  The Times of India has published an exclusive interview with Sanju
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVFE4XzVyRmRqcGVQakw3QTdOb0hTS0hTM3NINFdKNndMek9VTkJjTDhjVEpTMjNpMks1RTY5T2tDTEFzaGlUS1pxSWtBUWV4QVgzaTdFZl9rNHRhOWNlMFp4S0pnOVNHMzd6RDM0cW1NNERIdm5CRkxpYVFMU091Qi1OTzZNRVpWRkQ4clM5T21pM2cxYW50a2Z2aEJraVE4ZnM0NWFzRzVfUHl6aFpleXhKVlh2bERGeFVBd04wcGdSanZkR0JlejFNbUZrTnZlZ3MydDNEbklXMnI2RlhkT2JKekVlZk5ONVNVU2pEdUZGZTdlOWtFMNIB_gFBVV95cUxOZVh1VlZfWWFQS25Ba1hpaGRDTGJnbXlKM1BCYXBueG9zRFZCZUFwWTdQWFFrTi1wbGYzZ2Q4M1ZMSDQ5REZ2Y19nLXo1NEJQYXFQekJFS1k0UXVPbUktNlFkUS1idzVsUVd2YTQtS3VBTE9vME1sVmFMQ3JIcXpTV1U4dXkwVzR3OFRvLTFVaGRmblN1ek5nWUszUnNVQ2Q0UUtReE54R05jczNpUEdhZGpvaFhMVkVQaEdUSmU1WTY3WFZJVzR2X1hJSTFtWWlzVmtFWWw4U1JMb1kyMEV2SFg2eFhmRHNibzJNb1VhR21hSVNFbHBYQVE4Y0R1Zw?oc=5
+
+- India urges nationals in Saudi Arabia to follow safety directives amid security concerns - The Hindu
+  India urges nationals in Saudi Arabia to follow safety directives amid security
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUk1YaVRIT2E4dTNjeHJiVWFKWE1JZ1VvOTJsSkYxc3BUTmxfUU1ROThvLTJBNWVMRTNhSTl3ZWtFQjhRNGxoVkU5TEw5UTgwQUFVZVlBYm5LWC01NHRXcW14TUZ4UWg5Vk1BV1ZUTHI3Ym11UWVSazZuanR0ZjJpbUxEeFNvTkhxbWxlQms4MTEyb0lvdXE5UzV4N2xZTnNnemh5RGNtTmU5ZHNDZ2loN3dRTG1reTJlM2FhX2xOR2VxWEpFdHdWX2hCQXA5N1phcVo0M0lJZldfSVFFcl9HQUpCMWJZU0HSAe4BQVVfeXFMTXVMZEc3Vm9JQVVacFY1TFRyQTdQb2tGZUx3bWN0R3FvVWlvUF9KWXBOQ1FyQ3dvY1AwOW1jQjRYMExDUi1FYVNRSmtpVFVZY19ZQzY5RXpWc3NDTXdQaUVkV05Hc29JUWwtSzBMemQwWWlpSGVHZFpDbVZ2MlQ3bnBrSUZGa3FYWjQtd0dwUDBZS2tZOVY0c0E0c2FPTTlrQm1NQU1OZ3Jpc1Vwc2syWV9IQ2txVnRNR3NodWVpSjZoUWRYM01ncmx5aENGX0lFd0pWWXZGOE9FTUVyeElicV9CbVJVTHd2c0JMbmJHZw?oc=5
+
+- Starlink, Jio & OneWeb: Untangling The Satcom Queue
+  The irony was not lost on many. Around the same time as the internet in India's national capital Delhi was.
+  🔗 https://inc42.com/features/starlink-jio-oneweb-untangling-the-satcom-queue/
 
 - Indian Startup IPO Tracker 2026
   Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
@@ -96,77 +160,85 @@
   Fewer than half of the 67 new-age tech stocks under Inc42’s coverage advanced this week despite a broader market recovery.
   🔗 https://inc42.com/buzz/nazara-groww-gain-among-new-age-tech-stocks-this-week-acevector-falls-18/
 
-- FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups
-  The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut.
-  🔗 https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/
+- Imran Khan moves Bombay High Court against FRRO's ‘Leave India’ notice; flags procedural lapses - Bar and Bench
+  Imran Khan moves Bombay High Court against FRRO's ‘Leave
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU11TFRkMzROeXRzN2tqQk1tZXJTdFZKSGJCM1JRaS1WVDlfUkc2dkFyQVNpQlA4YlJVcjZoMGRfd1dxOHYzelJRdTdDUVBxVWFQdTJWYjZsOENfOXVnaDY3dDRSVzJDMllHUHBxVFFfc0lwODUxUUh4U1NlZ3Myd0REQUZXcUdaejM0NkFOOC0wbkpfS1ZuUEVoYmFfQlZ6N0xZQkhmOWNrQkhiWFlPblF3SWhIblNSQ29Ga3p2OWFld9IBzwFBVV95cUxQN2RkWUZsalZnUmlzYTk3aG9VOW9VdHNnVFVsMHVwQmp3bm5KZUhXNTA4WWNLRlotdk03WjVlSTRMWmFFdUtOMmNHVlF1UjJmZ21sUF9qNVR6d1FSTlZKUGswYWFfemVVb0FjSDhCM2dGRXdRclBsZlk5bm1yMzlwODdJbVFzWURtamkwcHJRWG0yc1dqT3djd25IN2t3TXY5bjRQblptMGR0LU1BUjN2VnduVV9UUkR3bjE5c19Cc3NhTDh0NTZqUTExY1hVaGs?oc=5
 
 - 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
   'Not An Ordinary Foreigner': Imran Khan
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnfSAeMBQVVfeXFMUDlzVkVzSVpZTzJULUlUNFctb1NpWUZuVlNiMnYtamc3UWQ2ZDJqZlJ3OVRhRV9VTHhvdEd0YzdDZUpwLVhZcUxnbXJvUkRFeHJxc09HZ3pXTGs0QUgyQ0VONWc5eVB1ZDBGek9oMWt5ZDFfSUhJTUxpeFI3YmFzX0ZFeXo0a3gyMGxMZWR0OV9yUmhtZ2ZNbWZ5ZTNsQUR1S180YmdncnRBVnJRWUpvUi1lOW5hbXFaQnpGTHk0RGJDOGJHRFlRSlkxUWdlcTRISHBhVmFaRHNaMnpTWEE5eGlMNFU?oc=5
 
-- Actor Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
-  Actor Imran Khan moves Bombay HC against ‘arbitrary
+- Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
+  Imran Khan moves Bombay HC against ‘arbit
   🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU19UMGRMVnNsVENfbUNxVzVjbDNjT1ljMlMtbWlNNUhVT3d5c1daMm9fWnVSLWhEV01FVHVidXJUanZpYXhkR3l0WHpPb050YTUyZlpFZVZCUF9fN3ZFRTI4dzdNdFdaUWE3UDJiN3RLN2Z6aVNwdjVaZ3ExZWJJU2FjZWEwTGtaTTRZUURINXV1bVA2cy1tWmJqTVQ0cWoweUY3YzRzeDdpcWFuSlZMY0xhcElzQ0Y4SkxndUVqRTdvWENIU0RkUnZlN2xUeTl5d3ZMN0Qzb0tLQmt1M1ZaaFJiV1NFZ9IB7AFBVV95cUxPelZIVVpBU3NlTWItcDVxMmZ5b0Vmak5HZzJVMFhCR0JGUmFleVI5Yi1yOW9BSGhyWThuRnFEbTR1ZjcwdmQyRWtkRUhCWTYzbmZtX2loY1RMakZ2Qk5INGd5aFRmVWJ6U3lVV2FWbmxwTFlUU3NSWVhPOTcxeHBka2NNamNwY2ViLWZ1Qy1lWW1pdkZzXzc5SHJSWFFBNTZCVHFVYXpZQWxwNWREMWV0RTdsWVpnVm5QVUVtblpuT3hLLUhpQmxqVTB2d05Bdy14VHc0U09RTGhadEs5QTZTc2lERjlXV2JxMmc3aA?oc=5
+
+- ‘Lifetime subscription to pressure’: Ex-India cricketer’s blunt defence of Sanju Samson - The Times of India
+  The Times of India has published an exclusive interview with Sanju
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVFE4XzVyRmRqcGVQakw3QTdOb0hTS0hTM3NINFdKNndMek9VTkJjTDhjVEpTMjNpMks1RTY5T2tDTEFzaGlUS1pxSWtBUWV4QVgzaTdFZl9rNHRhOWNlMFp4S0pnOVNHMzd6RDM0cW1NNERIdm5CRkxpYVFMU091Qi1OTzZNRVpWRkQ4clM5T21pM2cxYW50a2Z2aEJraVE4ZnM0NWFzRzVfUHl6aFpleXhKVlh2bERGeFVBd04wcGdSanZkR0JlejFNbUZrTnZlZ3MydDNEbklXMnI2RlhkT2JKekVlZk5ONVNVU2pEdUZGZTdlOWtFMNIB_gFBVV95cUxOZVh1VlZfWWFQS25Ba1hpaGRDTGJnbXlKM1BCYXBueG9zRFZCZUFwWTdQWFFrTi1wbGYzZ2Q4M1ZMSDQ5REZ2Y19nLXo1NEJQYXFQekJFS1k0UXVPbUktNlFkUS1idzVsUVd2YTQtS3VBTE9vME1sVmFMQ3JIcXpTV1U4dXkwVzR3OFRvLTFVaGRmblN1ek5nWUszUnNVQ2Q0UUtReE54R05jczNpUEdhZGpvaFhMVkVQaEdUSmU1WTY3WFZJVzR2X1hJSTFtWWlzVmtFWWw4U1JMb1kyMEV2SFg2eFhmRHNibzJNb1VhR21hSVNFbHBYQVE4Y0R1Zw?oc=5
+
+- India urges nationals in Saudi Arabia to follow safety directives amid security concerns - The Hindu
+  India urges nationals in Saudi Arabia to follow safety directives amid security
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUk1YaVRIT2E4dTNjeHJiVWFKWE1JZ1VvOTJsSkYxc3BUTmxfUU1ROThvLTJBNWVMRTNhSTl3ZWtFQjhRNGxoVkU5TEw5UTgwQUFVZVlBYm5LWC01NHRXcW14TUZ4UWg5Vk1BV1ZUTHI3Ym11UWVSazZuanR0ZjJpbUxEeFNvTkhxbWxlQms4MTEyb0lvdXE5UzV4N2xZTnNnemh5RGNtTmU5ZHNDZ2loN3dRTG1reTJlM2FhX2xOR2VxWEpFdHdWX2hCQXA5N1phcVo0M0lJZldfSVFFcl9HQUpCMWJZU0HSAe4BQVVfeXFMTXVMZEc3Vm9JQVVacFY1TFRyQTdQb2tGZUx3bWN0R3FvVWlvUF9KWXBOQ1FyQ3dvY1AwOW1jQjRYMExDUi1FYVNRSmtpVFVZY19ZQzY5RXpWc3NDTXdQaUVkV05Hc29JUWwtSzBMemQwWWlpSGVHZFpDbVZ2MlQ3bnBrSUZGa3FYWjQtd0dwUDBZS2tZOVY0c0E0c2FPTTlrQm1NQU1OZ3Jpc1Vwc2syWV9IQ2txVnRNR3NodWVpSjZoUWRYM01ncmx5aENGX0lFd0pWWXZGOE9FTUVyeElicV9CbVJVTHd2c0JMbmJHZw?oc=5
 
 - Imran Khan moves Bombay High Court against FRRO's ‘Leave India’ notice; flags procedural lapses - Bar and Bench
   Imran Khan moves Bombay High Court against FRRO's ‘Leave
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU11TFRkMzROeXRzN2tqQk1tZXJTdFZKSGJCM1JRaS1WVDlfUkc2dkFyQVNpQlA4YlJVcjZoMGRfd1dxOHYzelJRdTdDUVBxVWFQdTJWYjZsOENfOXVnaDY3dDRSVzJDMllHUHBxVFFfc0lwODUxUUh4U1NlZ3Myd0REQUZXcUdaejM0NkFOOC0wbkpfS1ZuUEVoYmFfQlZ6N0xZQkhmOWNrQkhiWFlPblF3SWhIblNSQ29Ga3p2OWFld9IBzwFBVV95cUxQN2RkWUZsalZnUmlzYTk3aG9VOW9VdHNnVFVsMHVwQmp3bm5KZUhXNTA4WWNLRlotdk03WjVlSTRMWmFFdUtOMmNHVlF1UjJmZ21sUF9qNVR6d1FSTlZKUGswYWFfemVVb0FjSDhCM2dGRXdRclBsZlk5bm1yMzlwODdJbVFzWURtamkwcHJRWG0yc1dqT3djd25IN2t3TXY5bjRQblptMGR0LU1BUjN2VnduVV9UUkR3bjE5c19Cc3NhTDh0NTZqUTExY1hVaGs?oc=5
-
-- ‘It was fake’: Indian villagers allege forgery behind Adani mine project - Al Jazeera
-  ‘It was fake’: Indian villagers
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHRiYk02a2x1cXhBYno1SVNNNkVDLXFDclM3ZGh6Q2N5U09VQU1sTjd4a2xBR1VuYW9NdWZtU1pLak05THF3YlFqMDAwZmN4ZkotVHd6RWlkSUVtY01VaEVJX2NvMy0xSllmT09LUVhKWVJwSXA0Ul9tb3ZsOWVkXzkwX3BpZjFVY01NMkR6dS0zLTI2NTZiX3NJand3ZFVfV1B2eXl5QlVJRjdnNTFEUmVPbjhpd9IBuwFBVV95cUxOWFNUcDl0TFY0cjMxZnZOVzRzNXhaekFKSDNTdDB3SWRkSm1BdzA3dFRVelN4a2cybnMtT2pwRUI1d1RldWFYVVI2d25naXZJRkdjaTEzdVdma2ZuTTVkZXdodXlzNGViaUx6bW54dmN2bEpJdzZCLWZXRUVwRG5vOGpZU2V1M1hYTW5ZUnhjbG5YWjBSOE1vQms5RHNCZU5ieGRIUUNySEVLOE9jb01KTWxMbGZ2TTA3OEpV?oc=5
-
-- FSSAI cracks down on Priyagold biscuit maker - The Times of India
-  The Times of India is a leading newspaper
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk1La0pNUFZ2MUJkVmJwbmZ0ZVdWcUIwS0RNd01nX3BnOVZ0T1hqM3hxTHFrQXhLMXpqNU0tZDEtdkYzQWhJTWtsX2pVOXN2ZS1NY3Z5MlB5RS00WTJQRXNQOXZobmFmWHp4X3VpbTV2ZkxEbkY1cHRmVXh6QmJDVURmU3NmYm4xS1NKWndWTVpLTU5qbnBmSFFCRmdTM3NrdXFjUm93OVRlNWw3YVFzbzZ30gG3AUFVX3lxTFB0SW1LekVJN1pDWG5ObXFIRlVYa0p6OGpicndzMnZOUnRueTZUdmxxemVkYkpzc0FrNVlJVWVhM1RaSGpMdTI4S1lfUTV0VUJJVjhVcUNuWGQtS0hEYVdFQ3NZdDh0SUJFUXJIME9fTlVJSF9BUVptek9oRDloUXEyWVJaZlh6ZWxSc0pDOXpURXgzUmk5NG91U3FCd1JUOGxUbjZfZUIxSTRkT1JDOVB1dUpHOHNHTQ?oc=5
 
 - 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
   'Not An Ordinary Foreigner': Imran Khan
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnfSAeMBQVVfeXFMUDlzVkVzSVpZTzJULUlUNFctb1NpWUZuVlNiMnYtamc3UWQ2ZDJqZlJ3OVRhRV9VTHhvdEd0YzdDZUpwLVhZcUxnbXJvUkRFeHJxc09HZ3pXTGs0QUgyQ0VONWc5eVB1ZDBGek9oMWt5ZDFfSUhJTUxpeFI3YmFzX0ZFeXo0a3gyMGxMZWR0OV9yUmhtZ2ZNbWZ5ZTNsQUR1S180YmdncnRBVnJRWUpvUi1lOW5hbXFaQnpGTHk0RGJDOGJHRFlRSlkxUWdlcTRISHBhVmFaRHNaMnpTWEE5eGlMNFU?oc=5
 
-- Actor Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
-  Actor Imran Khan moves Bombay HC against ‘arbitrary
+- Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
+  Imran Khan moves Bombay HC against ‘arbit
   🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU19UMGRMVnNsVENfbUNxVzVjbDNjT1ljMlMtbWlNNUhVT3d5c1daMm9fWnVSLWhEV01FVHVidXJUanZpYXhkR3l0WHpPb050YTUyZlpFZVZCUF9fN3ZFRTI4dzdNdFdaUWE3UDJiN3RLN2Z6aVNwdjVaZ3ExZWJJU2FjZWEwTGtaTTRZUURINXV1bVA2cy1tWmJqTVQ0cWoweUY3YzRzeDdpcWFuSlZMY0xhcElzQ0Y4SkxndUVqRTdvWENIU0RkUnZlN2xUeTl5d3ZMN0Qzb0tLQmt1M1ZaaFJiV1NFZ9IB7AFBVV95cUxPelZIVVpBU3NlTWItcDVxMmZ5b0Vmak5HZzJVMFhCR0JGUmFleVI5Yi1yOW9BSGhyWThuRnFEbTR1ZjcwdmQyRWtkRUhCWTYzbmZtX2loY1RMakZ2Qk5INGd5aFRmVWJ6U3lVV2FWbmxwTFlUU3NSWVhPOTcxeHBka2NNamNwY2ViLWZ1Qy1lWW1pdkZzXzc5SHJSWFFBNTZCVHFVYXpZQWxwNWREMWV0RTdsWVpnVm5QVUVtblpuT3hLLUhpQmxqVTB2d05Bdy14VHc0U09RTGhadEs5QTZTc2lERjlXV2JxMmc3aA?oc=5
+
+- ‘Lifetime subscription to pressure’: Ex-India cricketer’s blunt defence of Sanju Samson - The Times of India
+  The Times of India has published an exclusive interview with Sanju
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVFE4XzVyRmRqcGVQakw3QTdOb0hTS0hTM3NINFdKNndMek9VTkJjTDhjVEpTMjNpMks1RTY5T2tDTEFzaGlUS1pxSWtBUWV4QVgzaTdFZl9rNHRhOWNlMFp4S0pnOVNHMzd6RDM0cW1NNERIdm5CRkxpYVFMU091Qi1OTzZNRVpWRkQ4clM5T21pM2cxYW50a2Z2aEJraVE4ZnM0NWFzRzVfUHl6aFpleXhKVlh2bERGeFVBd04wcGdSanZkR0JlejFNbUZrTnZlZ3MydDNEbklXMnI2RlhkT2JKekVlZk5ONVNVU2pEdUZGZTdlOWtFMNIB_gFBVV95cUxOZVh1VlZfWWFQS25Ba1hpaGRDTGJnbXlKM1BCYXBueG9zRFZCZUFwWTdQWFFrTi1wbGYzZ2Q4M1ZMSDQ5REZ2Y19nLXo1NEJQYXFQekJFS1k0UXVPbUktNlFkUS1idzVsUVd2YTQtS3VBTE9vME1sVmFMQ3JIcXpTV1U4dXkwVzR3OFRvLTFVaGRmblN1ek5nWUszUnNVQ2Q0UUtReE54R05jczNpUEdhZGpvaFhMVkVQaEdUSmU1WTY3WFZJVzR2X1hJSTFtWWlzVmtFWWw4U1JMb1kyMEV2SFg2eFhmRHNibzJNb1VhR21hSVNFbHBYQVE4Y0R1Zw?oc=5
+
+- India urges nationals in Saudi Arabia to follow safety directives amid security concerns - The Hindu
+  India urges nationals in Saudi Arabia to follow safety directives amid security
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUk1YaVRIT2E4dTNjeHJiVWFKWE1JZ1VvOTJsSkYxc3BUTmxfUU1ROThvLTJBNWVMRTNhSTl3ZWtFQjhRNGxoVkU5TEw5UTgwQUFVZVlBYm5LWC01NHRXcW14TUZ4UWg5Vk1BV1ZUTHI3Ym11UWVSazZuanR0ZjJpbUxEeFNvTkhxbWxlQms4MTEyb0lvdXE5UzV4N2xZTnNnemh5RGNtTmU5ZHNDZ2loN3dRTG1reTJlM2FhX2xOR2VxWEpFdHdWX2hCQXA5N1phcVo0M0lJZldfSVFFcl9HQUpCMWJZU0HSAe4BQVVfeXFMTXVMZEc3Vm9JQVVacFY1TFRyQTdQb2tGZUx3bWN0R3FvVWlvUF9KWXBOQ1FyQ3dvY1AwOW1jQjRYMExDUi1FYVNRSmtpVFVZY19ZQzY5RXpWc3NDTXdQaUVkV05Hc29JUWwtSzBMemQwWWlpSGVHZFpDbVZ2MlQ3bnBrSUZGa3FYWjQtd0dwUDBZS2tZOVY0c0E0c2FPTTlrQm1NQU1OZ3Jpc1Vwc2syWV9IQ2txVnRNR3NodWVpSjZoUWRYM01ncmx5aENGX0lFd0pWWXZGOE9FTUVyeElicV9CbVJVTHd2c0JMbmJHZw?oc=5
 
 - Imran Khan moves Bombay High Court against FRRO's ‘Leave India’ notice; flags procedural lapses - Bar and Bench
   Imran Khan moves Bombay High Court against FRRO's ‘Leave
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYU11TFRkMzROeXRzN2tqQk1tZXJTdFZKSGJCM1JRaS1WVDlfUkc2dkFyQVNpQlA4YlJVcjZoMGRfd1dxOHYzelJRdTdDUVBxVWFQdTJWYjZsOENfOXVnaDY3dDRSVzJDMllHUHBxVFFfc0lwODUxUUh4U1NlZ3Myd0REQUZXcUdaejM0NkFOOC0wbkpfS1ZuUEVoYmFfQlZ6N0xZQkhmOWNrQkhiWFlPblF3SWhIblNSQ29Ga3p2OWFld9IBzwFBVV95cUxQN2RkWUZsalZnUmlzYTk3aG9VOW9VdHNnVFVsMHVwQmp3bm5KZUhXNTA4WWNLRlotdk03WjVlSTRMWmFFdUtOMmNHVlF1UjJmZ21sUF9qNVR6d1FSTlZKUGswYWFfemVVb0FjSDhCM2dGRXdRclBsZlk5bm1yMzlwODdJbVFzWURtamkwcHJRWG0yc1dqT3djd25IN2t3TXY5bjRQblptMGR0LU1BUjN2VnduVV9UUkR3bjE5c19Cc3NhTDh0NTZqUTExY1hVaGs?oc=5
 
-- ‘It was fake’: Indian villagers allege forgery behind Adani mine project - Al Jazeera
-  ‘It was fake’: Indian villagers
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHRiYk02a2x1cXhBYno1SVNNNkVDLXFDclM3ZGh6Q2N5U09VQU1sTjd4a2xBR1VuYW9NdWZtU1pLak05THF3YlFqMDAwZmN4ZkotVHd6RWlkSUVtY01VaEVJX2NvMy0xSllmT09LUVhKWVJwSXA0Ul9tb3ZsOWVkXzkwX3BpZjFVY01NMkR6dS0zLTI2NTZiX3NJand3ZFVfV1B2eXl5QlVJRjdnNTFEUmVPbjhpd9IBuwFBVV95cUxOWFNUcDl0TFY0cjMxZnZOVzRzNXhaekFKSDNTdDB3SWRkSm1BdzA3dFRVelN4a2cybnMtT2pwRUI1d1RldWFYVVI2d25naXZJRkdjaTEzdVdma2ZuTTVkZXdodXlzNGViaUx6bW54dmN2bEpJdzZCLWZXRUVwRG5vOGpZU2V1M1hYTW5ZUnhjbG5YWjBSOE1vQms5RHNCZU5ieGRIUUNySEVLOE9jb01KTWxMbGZ2TTA3OEpV?oc=5
+- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
+  'Not An Ordinary Foreigner': Imran Khan
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnfSAeMBQVVfeXFMUDlzVkVzSVpZTzJULUlUNFctb1NpWUZuVlNiMnYtamc3UWQ2ZDJqZlJ3OVRhRV9VTHhvdEd0YzdDZUpwLVhZcUxnbXJvUkRFeHJxc09HZ3pXTGs0QUgyQ0VONWc5eVB1ZDBGek9oMWt5ZDFfSUhJTUxpeFI3YmFzX0ZFeXo0a3gyMGxMZWR0OV9yUmhtZ2ZNbWZ5ZTNsQUR1S180YmdncnRBVnJRWUpvUi1lOW5hbXFaQnpGTHk0RGJDOGJHRFlRSlkxUWdlcTRISHBhVmFaRHNaMnpTWEE5eGlMNFU?oc=5
 
-- FSSAI cracks down on Priyagold biscuit maker - The Times of India
-  The Times of India is a leading newspaper
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk1La0pNUFZ2MUJkVmJwbmZ0ZVdWcUIwS0RNd01nX3BnOVZ0T1hqM3hxTHFrQXhLMXpqNU0tZDEtdkYzQWhJTWtsX2pVOXN2ZS1NY3Z5MlB5RS00WTJQRXNQOXZobmFmWHp4X3VpbTV2ZkxEbkY1cHRmVXh6QmJDVURmU3NmYm4xS1NKWndWTVpLTU5qbnBmSFFCRmdTM3NrdXFjUm93OVRlNWw3YVFzbzZ30gG3AUFVX3lxTFB0SW1LekVJN1pDWG5ObXFIRlVYa0p6OGpicndzMnZOUnRueTZUdmxxemVkYkpzc0FrNVlJVWVhM1RaSGpMdTI4S1lfUTV0VUJJVjhVcUNuWGQtS0hEYVdFQ3NZdDh0SUJFUXJIME9fTlVJSF9BUVptek9oRDloUXEyWVJaZlh6ZWxSc0pDOXpURXgzUmk5NG91U3FCd1JUOGxUbjZfZUIxSTRkT1JDOVB1dUpHOHNHTQ?oc=5
+- Imran Khan moves Bombay HC against ‘arbitrary, illegal’ notice to leave India - The Hindu
+  Imran Khan moves Bombay HC against ‘arbit
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU19UMGRMVnNsVENfbUNxVzVjbDNjT1ljMlMtbWlNNUhVT3d5c1daMm9fWnVSLWhEV01FVHVidXJUanZpYXhkR3l0WHpPb050YTUyZlpFZVZCUF9fN3ZFRTI4dzdNdFdaUWE3UDJiN3RLN2Z6aVNwdjVaZ3ExZWJJU2FjZWEwTGtaTTRZUURINXV1bVA2cy1tWmJqTVQ0cWoweUY3YzRzeDdpcWFuSlZMY0xhcElzQ0Y4SkxndUVqRTdvWENIU0RkUnZlN2xUeTl5d3ZMN0Qzb0tLQmt1M1ZaaFJiV1NFZ9IB7AFBVV95cUxPelZIVVpBU3NlTWItcDVxMmZ5b0Vmak5HZzJVMFhCR0JGUmFleVI5Yi1yOW9BSGhyWThuRnFEbTR1ZjcwdmQyRWtkRUhCWTYzbmZtX2loY1RMakZ2Qk5INGd5aFRmVWJ6U3lVV2FWbmxwTFlUU3NSWVhPOTcxeHBka2NNamNwY2ViLWZ1Qy1lWW1pdkZzXzc5SHJSWFFBNTZCVHFVYXpZQWxwNWREMWV0RTdsWVpnVm5QVUVtblpuT3hLLUhpQmxqVTB2d05Bdy14VHc0U09RTGhadEs5QTZTc2lERjlXV2JxMmc3aA?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- ‘Lifetime subscription to pressure’: Ex-India cricketer’s blunt defence of Sanju Samson - The Times of India
+  The Times of India has published an exclusive interview with Sanju
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVFE4XzVyRmRqcGVQakw3QTdOb0hTS0hTM3NINFdKNndMek9VTkJjTDhjVEpTMjNpMks1RTY5T2tDTEFzaGlUS1pxSWtBUWV4QVgzaTdFZl9rNHRhOWNlMFp4S0pnOVNHMzd6RDM0cW1NNERIdm5CRkxpYVFMU091Qi1OTzZNRVpWRkQ4clM5T21pM2cxYW50a2Z2aEJraVE4ZnM0NWFzRzVfUHl6aFpleXhKVlh2bERGeFVBd04wcGdSanZkR0JlejFNbUZrTnZlZ3MydDNEbklXMnI2RlhkT2JKekVlZk5ONVNVU2pEdUZGZTdlOWtFMNIB_gFBVV95cUxOZVh1VlZfWWFQS25Ba1hpaGRDTGJnbXlKM1BCYXBueG9zRFZCZUFwWTdQWFFrTi1wbGYzZ2Q4M1ZMSDQ5REZ2Y19nLXo1NEJQYXFQekJFS1k0UXVPbUktNlFkUS1idzVsUVd2YTQtS3VBTE9vME1sVmFMQ3JIcXpTV1U4dXkwVzR3OFRvLTFVaGRmblN1ek5nWUszUnNVQ2Q0UUtReE54R05jczNpUEdhZGpvaFhMVkVQaEdUSmU1WTY3WFZJVzR2X1hJSTFtWWlzVmtFWWw4U1JMb1kyMEV2SFg2eFhmRHNibzJNb1VhR21hSVNFbHBYQVE4Y0R1Zw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- India urges nationals in Saudi Arabia to follow safety directives amid security concerns - The Hindu
+  India urges nationals in Saudi Arabia to follow safety directives amid security
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUk1YaVRIT2E4dTNjeHJiVWFKWE1JZ1VvOTJsSkYxc3BUTmxfUU1ROThvLTJBNWVMRTNhSTl3ZWtFQjhRNGxoVkU5TEw5UTgwQUFVZVlBYm5LWC01NHRXcW14TUZ4UWg5Vk1BV1ZUTHI3Ym11UWVSazZuanR0ZjJpbUxEeFNvTkhxbWxlQms4MTEyb0lvdXE5UzV4N2xZTnNnemh5RGNtTmU5ZHNDZ2loN3dRTG1reTJlM2FhX2xOR2VxWEpFdHdWX2hCQXA5N1phcVo0M0lJZldfSVFFcl9HQUpCMWJZU0HSAe4BQVVfeXFMTXVMZEc3Vm9JQVVacFY1TFRyQTdQb2tGZUx3bWN0R3FvVWlvUF9KWXBOQ1FyQ3dvY1AwOW1jQjRYMExDUi1FYVNRSmtpVFVZY19ZQzY5RXpWc3NDTXdQaUVkV05Hc29JUWwtSzBMemQwWWlpSGVHZFpDbVZ2MlQ3bnBrSUZGa3FYWjQtd0dwUDBZS2tZOVY0c0E0c2FPTTlrQm1NQU1OZ3Jpc1Vwc2syWV9IQ2txVnRNR3NodWVpSjZoUWRYM01ncmx5aENGX0lFd0pWWXZGOE9FTUVyeElicV9CbVJVTHd2c0JMbmJHZw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- China proposes export controls on solar-manufacturing technologies - The Hindu
+  China proposes export controls on solar
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGlKd3E5azV5RkVmR3Nmb1ZlMFdGM2hFZWhmWWxFdTdESlZuQXpoS1VxelJmQlI2SFRteWx5M1loam12VGpQcTJkYmY2YTI1OEpEaGdFRHZQaXBtLUxzZ2Rta2QwY25BRnFSdU50a01fSUJsN0ZVZXFBaUdqNmxfNFVQNi1VQ0d2MVV4ZHJOalIyNlM1NDhqaENjX3FLVHE1X0t1eDA3cDhKc1RhMDFKazRQY0JkbXZlb2ZCcGVjaF8wR1BZRVpDcUVBVl9QQdIB1AFBVV95cUxQbWJJQzJaZVB4VE1icFNGVnl6MDluaFk2YTFmODg4ZWlvdUFxcFdEeTJUZUozSXNUSG9SQ2hBeGdHb1BSUnNmcGZpQWNzR0VzS1NSUXFqSXlwT1I4bmRGV0pNMGpuTWV1MGVFSnJ1SEV4dnRGdGxzRzRFNEV2dGFrc3Nic0YxTkc0QVl2eUg3N0RmUFVpMi0xamJ1dWFYeXJzNDhwT2JsdDlpZWFyRHNCeW9fZHVPNHN6eGNyUjV4MkpESW02LWgwNFhCMncyUEZ5Y3hBLQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Hyundai Motor and Kia Present Smart Manufacturing Technologies and SDF Vision at E-FOREST TECH DAY 2026 - hyundai.com
+  Hyundai Motor and Kia Present Smart Manufacturing Technologies and SDF Vision
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9fN2o5VURaVDR1ZXpvYk9UQzREZVh0TXgwNTQ5dW1zUTY4N2IxY0NIZVNJdFpCVGh3ak43aGtYVGxWRkxkNWRKdDAxYVRzQncwSlNEU1Q0N3BfUDY5UXFNM0V5RHM4VnFIQXpaeVRKRjI?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- AI fears are being weaponised - Al Jazeera
+  AI fears are being
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHlSVFJseF9uVnRkbEFxYTVrU1N6MVp4MmhFczdNVV9meHVPNUU0NjFtYm03OHJvc2FCb1RwN2k2T0I1SXhhdjlBcFQ4VFFwV0hzZ1ZwVVB6OGFDeVFjWXljVFRmSk5rNGZPN1UxT1lJZy1Tcm1rVV8yUkd3N1N4WNIBhgFBVV95cUxNU3RjY3VnbUQ2YU82ZVJkRk45ZUZsUVo1MmlMUXY5dnphc1d3Y0xEb3BqeE1nbGhwZ3NNZUsySWRIYnR6UTlBa2lvaV9zeHozTldjd2I5SVA2UEsyZkZVWU1UMmFTaWRsdUpjbDZ6SlY2RldIOFpSM0NGRDJ5TnhXdEhGRjZZQQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- EV testing technology gains importance as India scales electric mobility - ET CIO
+  The Indian government is looking to roll out electric
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPMldXMk13YlZaQW5YbUJ4c3pVUEJkamNYeXRkSkdsN3YwUmIwSHlob2xCTHhHNEV4R1FUMV9hVlhRRzliWTY2aWRfc3ZXa00wMXYzc0hFUHFRSnAxc0p0U3dlMzhqZFAxZ285UlRtWGxfUWM5UlBfczBJbnZOMzFrdk1YckF4clVXZl9uaEltQ01jUEJUNzFBT2lLUHpweWUtNDJLOWVNS2pZUmRUZWZJV0JBeFJmRm1ydXZwME10UGpEaXhRME9XSE5kdnZ4ZnF4aWo4UTl5U1lLU3JlQ1BFbFV4M25MWUtTYkI4Qk5JZ0dEUnlZMTJ6aVZGTktqZF9vZ2pWWU9GWVVySE4xWEp0U2RFUU8yRE5xb0hQTlFHZmdhWkHSAeABQVVfeXFMUGVGSnRrUHFsUHNDMHlwdWRNTlpWLUMyamFUb0tQRkZSMGlEZl9sbEEzVnRpS1dSUUdncjhkZjVEYUZIakd4YzA4aTlLSFVkUWgtUERxbDhmUUpVNG5IZWt0ZEg0T0xaWDl2bHlWTTAxWXdpQmo5ZjNzQ3hwVzlGSEtiYjJUSGNnMDNNejJNLUlCQXI1Qm5SbURscTlXcGQ2UDhpN00zVjBteWRBenJYem41bnlMRnJaSWpzRkpnR1dWeVNWc2lzNkdmNEhvZmowcWh2bzZSd01TdEZVakFIQVg?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Living with a stink? Technology might help - BBC
+  The BBC has launched a
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE15MkFuR2F0cGYyQllaUVp5VHlDZUZDTDUwZEpTRG9LMTdfb01nX1VILUlRSUNMd3REOUJHZFBNckQyMGpHZmtfSEFlZmxVMFJESklTNW5Ca3lfZ0U?oc=5
 
 
-_Last updated: 2026-10-18 02:41:37 UTC_
+_Last updated: 2026-10-18 10:17:10 UTC_
