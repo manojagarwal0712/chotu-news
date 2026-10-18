@@ -1,5 +1,13 @@
 # 📰 Daily News Summaries
 
+- 'Hard For India To Move Away From Russian Energy': Team Trump On Waivers - NDTV
+  'Hard For India To Move Away From Russian Energy':
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkZ3V25Kdklub3I1cE52YmpPQW1pU3VnWS0xRV9FdkFVUEh0SnJsdUY4c1I3bE1hMXVrbDdaNzdWcXk3c2hpY2JsRGNiVFVlQ1FRaTRHQ2VTLWtyNGNFRndjTHQ2OWdrZGM1YUJVQm1XWFhaNGd5TjFxSE5CeGpQdnZKc29XWFU2LWVXYW1pSlVXcFhNSTdLeTVFSXcyeGVKNWt3RG9MWmdTdTlvYkhRTmxMYnI2M2NrMjFQZ0x5YmFGb0I3RVI5aEYySWNvcEZvR243YkZvalNhYkow0gHkAUFVX3lxTE9kbi01S0lJRWZndEFRblNYUGpPZUZmYUdCUFFMRFVQWlVzTURSeWlJQXRTalk5NVd2enE0Nlhpa3N5NUF3N3F0ZUppVWoxSm5TajFmejMwRENyVVFCQTV1NUliSTREeDVjZm16dEp4UVFZWEFkMEU2T21SRGtHTDdPWlpGVGR2Z0dyZ1VGdFBuZ21KN0prQzA2UHkxSHNwSzJrNXJ6VG9XdzVzLU9ZbnYzRmlVNFdTcklPVXVfSEFRUm0xLVRJRG5UaTV4QThDZ2M1UUpsSWVtT3g1YTV0Ykp4UURjcg?oc=5
+
+- Russia sanctions pause to assess impact on India, global energy prices, says Trump official | World News - Hindustan Times
+  Russia sanctions pause to assess impact on India, global energy prices.
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenhYWmdXZ2ZDaFdKWnhXaEtxd25Pd05PVi1FR3NwYkFVdElnNWZXNUFNaGh3Y0otVTV6TTNOb24tREROdjRYaThIR0NoVW9yaVNJeV9uN3JuWm5HanBpbFRCaXBtZ09RWjB1ekt6TFJWZFVFazM0dFotdkVQY2Q3UUtWbEZyclhFNWlXQmh5UnppcW4xT04wTlFSWGE3Rm12MW4zY3F4N3ZmLWRCcl9NSmJvbzVSVXcwakRIS3NrYXUtc0g1ZFpSenZ6WV9Vd3NfZVRESlAyNmI2a2Ita09odFJMbUNfc2NPdUVXR0ZVMlJwQjZD0gH6AUFVX3lxTE5GMmVBQVJEc2VWVEREbEl6SlFJczgxdTNmUG1iQ1V4VkFnVjhid3dVZEQ1RnZHZ2RzV2pRTmpwZFQySFlkVHpEQkJZZnBOSFQwV2tma1RFN3RVdTlMbE9IMFFiNzZFZGZkZjFuUldwME9tZE5MZlVhVFd1cmJJVXNsZllweW5BNzgtdVN4UnhNbm02OEtfOEo1TmhfcmVGZ25ldHoxRERUTERnZjlvRENPeVhVMW1rQzZXU0Vua1ZLZHplQ1lKMWo1UjkxdnI3M2R5Z0h4Z2tZMkpEenF5bWdlTUlYS3kxWUxnenlwdk5MWVZHZnlzVHBfOXc?oc=5
+
 - Why Marco Rubio’s visit to Mumbai has ruffled feathers in India - Al Jazeera
   Marco Rubio's visit to Mumbai has ruffled
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWlaQ3YxeVktTURYLUNTMkxCRGJxYXhWVnZ4TzJuSTgtQlkySG5uZjMxeXFFMjZWcHFJZ3pibVZOZi1rUjY2OUVZX3VnbXVQeEp0dVpOam8zX1QzTi1ucVFYY1lfWE5UeVNzMkFOUHlFdUJ0QzBlZVVudHRvVkRkN2lWSmlYZWNLNXBmVGdmRnIxZW93RHN3VGhUTzFudDdhd21NNXgzVdIBrAFBVV95cUxOeHk1Z0ZiZ1FFUkZma1M1WkVzeUJ2aFkzMUhsQ1FLVDFLel9uenNybFhLRDU3UFRvUGVtRUN3cEdWMmQ3SnZlUjU2Um8zS1ZtSHFabGg5YnJDT0RObHllTG9QZW9RNXJyMFpNUHFzTDhxM3ZRYkExWEVGNTlXUVU5WmRyWGNUTmNFZ0Rmd2NINlNzWmJTbmxOMFhOSkhjeUN4RmlNX2lpcElVaTB1?oc=5
@@ -8,97 +16,89 @@
   At least 17 dead in crush at Hindu festival event
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xUTdlRnREbHJNeloxOGZJWkpOaUQxTXhNTGtoSGdIYmZFTzA0TGhtWTVfSkRVcHNMeGthT1daSHluZlFUQlh3VGN0Q3JRQzJVVXNJaDlidFlqS1U?oc=5
 
-- Conspiracy similar to one behind violence in France, Bangladesh hatched by anti-India gangs to instigate youth: Rijiju - The Hindu
-  Conspiracy similar to one behind violence in France, Bangladesh hatched by anti-India
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNQ3RLXy05VHhsdF9HMWFKdENHa3NxQUtPd3lncU80WmMyX0ZBUVZkU0c3dUlpS0VQRnRiR1ZEWTJBMGZ5WWFBNk5nckMydEd0NGVDc0Q5TkZhRmtQSW1uc2JvOGxqaVZRZ0RkRFVweElMb081cEM3eUtEemlBdFktamxOQnI2NzM5cXZ3ay1RUTJycFJKZnI1dDUwbmhmdnFiYzQ5Rk12ZDR4Q0dpZ184RC1JaWl2MHdCeWhvX2pBc3ZMekkwclJxMGtqMDBlZXN1WVJpZXhrU2F5b0JBbEZpcE9aNktpYWxhOHNSbG5iNW44UkRrUTZyMS13U3V1ZmhORnN1b2JR0gGMAkFVX3lxTE5iMDhlZGNMT2dFVUxlRGtwZHFWUmpPanBlaF8wVUEyYllndlZYMUR0ZHcwQWxURmtXSHl3ZzhGeGc4RGw1cWJac2lsQkhUUkNDS2FxQm5UZTRMMDNCUmxUZ2ZjQU1zNmNCUlhMRVA4MUpqNXhvd1E5eUtDY1RIeUlFZ0lnQWdSYURGOHVLdlV1NV96VC0yV0oyMjg5ZTRqTmdaLWk2SkQtT3liaVg3U1RtOElNdURnclR2N1BhbDQwS0w2d3ZLMXowNHZMMFZPUVVRZWFKZElENUQybXYzSzZoa2lSTHdfRVJnNkpBRUxiaVIzS1BOTGFzb3kwWWxmdHMwRGlfeDhHSkN2ekI?oc=5
+- Did Shooter's Jammed Gun Save Tiger Shroff's Life? New Videos Emerge - NDTV
+  A series of new videos have emerged
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQU0pvdG4tbExocHJwWWRabmNnT3pIUUFySkVsMGU5WWhkM1JOQVFqZUNZS29lWThqYmdrMkRhVm1RWnloWFlaYXNIX0R3MUcwQmFFcV9uXzBjZHZVcm9GTVp5Q0Q3aVVKRUNqYlByU2hrSUt6bmdPaElHb3dWdDFLS2JCUXk3RC1aeHVndEE3U2xTMXFxYlNJcFhLU0ROQjlJeGJrdlc0WklfTXFsVGxlSmsySkN2WHRMdzY5Q3dveFhtRENGS012c2JBajltUGZPREVMWU9iRkxpVkRxb2pGaUJqb0ZHTEUySTZvQW91YVdVdTdaRnJKMk9rT1k5ZFF2ZEpN0gGLAkFVX3lxTE45SUtjckVWbGtpSGpNYV8yVkRUVlNIRUVIMWN5UlpNUHZTYjhjcTc0b0tldGZWMXNfckZkRDludnpVSFpjLUVOT2RtZUVIV2NuNHlXamRabm5KYTB4N19ONXY5SjducjBCekw4blhxbXVQSm1vQlE4d3dQXzRTc0NaQV9sTkxnOWZlaGo4bmVidm5WWHlWbXUwaDEwbGpIazdSNkxCRDhXMnpHYzY2NS1JblkyU0ktRnBKME5nZ2xhYW1GNmZSZUFxWV9QZ25mMF94b0otYkhrVlQ5ZjJRWDV3ZS03Z2dXdGgyWjhNTDBaSEVqVzdvN19EdURoNmtnUW0zbm1XdVhMcWllYw?oc=5
 
-- Army Officer's Wife Shared Info With Chinese Agents Posing As Academicians - NDTV
-  Army Officer's Wife Shared Info With Chinese Agents
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNTE1Ra2gwM3ZJRjVOb2ZYeWNfNURGRjNrUDY1T3VqVUd0cHloUGJjWWl4cjRPYnliU0UtNTBOTVgyYnhGUGJiRFM2V18zb1VXbGhJdHd4dEhkZE9wYmVpZkRVNkJpNnhKeTg1aUNTTUc1V3N5X1hwZ3lqY2ZGekw0NXJYYUZNeF94R0duWjhVOVJ2dTJQcGtILUlORko3RGVqVDU3U1REb3g1YWQ4cnlrU1hQSdIBuwFBVV95cUxQdWNtN1Z1YmZHZDVVWEhrSFBVVzQ1eUdnS1hSbVdNVlA4WUdwSHlnMkdKR1B5aUVWZTRUbVI3X3o3aXVHRUkzWjFqb0lsZE1XRlJ2TGxvRGQ0TUFKTndXMDVIU3hGUXpkdmNhd2FNM2lHWl8tcWR6ZjNfa09VRnRVUElLTWJ1c09YOUJaZEwzT3hScllVRjZmeWhmOUVaOGhXUHUtTHlLQ3ZTNEEtbUxNSk9keUVUV3RueGtj?oc=5
+- Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports - Reuters
+  Samsung to use TSMC technology for Nvidia's next-
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5
 
-- India's HDFC Bank Q2 profit rises 4.7%; deputy MD Bharucha to step down - Reuters
-  India's HDFC Bank Q2 profit rises 4.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2VOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5
+- China proposes export controls on solar-manufacturing technologies - Reuters
+  China proposes export controls on
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5
 
-- PNB CEO Ashok Chandra sees profit momentum continuing after strong Q2, eyes  ₹6,000 crore quarterly profit milestone
-  The bank has maintained consistency in operating profit, net profit and other key parameters over the past four quarters, Chandra
-  🔗 https://www.livemint.com/companies/news/pnb-ceo-ashok-chandra-sees-profit-momentum-continuing-after-strong-q2-eyes-6-000-crore-quarterly-profit-milestone-11792328382796.html
+- China unveils draft export controls on AI technologies and chips - Financial Times
+  China unveils draft export controls on AI technologies
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFJrS1d0QjRNNDFCeDlGc2x2cHJhTWN6SEJtWjFucjRFWnc2LWlUMFFMbjFuX3BOWGpJcVhLdnVRRnFjaUVpRXh0UHNQcWl6UkF3clZ3VExPc1dVX1hvc2o4Tnl3Mm15VE03Y1h6NHJzU3hnUmlFWlpha0hkeElUaUg1SFY?oc=5
 
-- Vedanta doubles South Africa zinc production capacity to 500,000 tonnes with $600 million investment
-  Vedanta has doubled its annual zinc production capacity in South Africa to 500,000 tonnes. The project supports its target of producing 3 million tonnes of zinc annually across India and South Africa
-  🔗 https://www.livemint.com/companies/news/vedanta-doubles-south-africa-zinc-production-capacity-to-500-000-tonnes-with-600-million-investment-11792329756823.html
+- China proposes export curbs on 12 key solar manufacturing technologies - Investing.com
+  China proposes export curbs on 12 key
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUt3d25OQ3ZsOEVob1lDNXpsWlpaaXFjQXRhbmJCMmY1d3gwRFoxRUtqMGZfa3BWQjdoRDRtbkpiTU4waXF1VG9EVlZMdUdxandZMGhLMlVITXYyTmRYUFlDd0FZa3ViMEZMbFZGOWM3QS00aG1OV2RfX2FkWTBQS2ZWMVFYQ1BKdGxPQm5udUs3dTVIVGRyM28ybWlCREQ0NHBfYmRDX2JEcWJqakctRkJNd3lJSmo0TEQyb0ZBYw?oc=5
 
-- Accenture weighs $1.5 billion sale of China business as AI push reshapes growth strategy: Report
-  Accenture is exploring a sale of its Greater China business for up to $1.5 billion. The IT consulting giant has hired JPMorgan to advise on the review.
-  🔗 https://www.livemint.com/companies/news/accenture-weighs-1-5-billion-sale-of-china-business-as-ai-push-reshapes-growth-strategy-report-11792323492872.html
+- What are self-replicating ‘AI worms’, and why is Anthropic worried about them? - The Guardian
+  What are self-replicating ‘AI worms�
+  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5
 
-- JSW Steel gets relief in  ₹2,169 crore mining dispute: What was the case and what Orissa HC ruled
-  The company says the court concluded hearings and delivered its judgments on October 16, 20
-  🔗 https://www.livemint.com/companies/what-was-the-jsw-steel-mining-case-orissa-hc-quashes-696-crore-demand-orders-fresh-review-of-1-473-crore-11792321515297.html
+- 'Hard For India To Move Away From Russian Energy': Team Trump On Waivers - NDTV
+  'Hard For India To Move Away From Russian Energy':
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkZ3V25Kdklub3I1cE52YmpPQW1pU3VnWS0xRV9FdkFVUEh0SnJsdUY4c1I3bE1hMXVrbDdaNzdWcXk3c2hpY2JsRGNiVFVlQ1FRaTRHQ2VTLWtyNGNFRndjTHQ2OWdrZGM1YUJVQm1XWFhaNGd5TjFxSE5CeGpQdnZKc29XWFU2LWVXYW1pSlVXcFhNSTdLeTVFSXcyeGVKNWt3RG9MWmdTdTlvYkhRTmxMYnI2M2NrMjFQZ0x5YmFGb0I3RVI5aEYySWNvcEZvR243YkZvalNhYkow0gHkAUFVX3lxTE9kbi01S0lJRWZndEFRblNYUGpPZUZmYUdCUFFMRFVQWlVzTURSeWlJQXRTalk5NVd2enE0Nlhpa3N5NUF3N3F0ZUppVWoxSm5TajFmejMwRENyVVFCQTV1NUliSTREeDVjZm16dEp4UVFZWEFkMEU2T21SRGtHTDdPWlpGVGR2Z0dyZ1VGdFBuZ21KN0prQzA2UHkxSHNwSzJrNXJ6VG9XdzVzLU9ZbnYzRmlVNFdTcklPVXVfSEFRUm0xLVRJRG5UaTV4QThDZ2M1UUpsSWVtT3g1YTV0Ykp4UURjcg?oc=5
 
-- Sumitomo-backed Yes Bank faces up to  ₹5,200 crore earnings hit as SC upholds squashing of its AT-1 bonds write-off
-  The Supreme Court overturned Yes Bank’s 2020 write-off of  ₹8,415 crore in AT-1 bonds. The bank says that it would
-  🔗 https://www.livemint.com/companies/news/sumitomobacked-yes-bank-faces-up-to-5-200-crore-earnings-hit-as-sc-upholds-squashing-of-its-at-1-bonds-writeoff-11792316431134.html
+- Russia sanctions pause to assess impact on India, global energy prices, says Trump official | World News - Hindustan Times
+  Russia sanctions pause to assess impact on India, global energy prices.
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenhYWmdXZ2ZDaFdKWnhXaEtxd25Pd05PVi1FR3NwYkFVdElnNWZXNUFNaGh3Y0otVTV6TTNOb24tREROdjRYaThIR0NoVW9yaVNJeV9uN3JuWm5HanBpbFRCaXBtZ09RWjB1ekt6TFJWZFVFazM0dFotdkVQY2Q3UUtWbEZyclhFNWlXQmh5UnppcW4xT04wTlFSWGE3Rm12MW4zY3F4N3ZmLWRCcl9NSmJvbzVSVXcwakRIS3NrYXUtc0g1ZFpSenZ6WV9Vd3NfZVRESlAyNmI2a2Ita09odFJMbUNfc2NPdUVXR0ZVMlJwQjZD0gH6AUFVX3lxTE5GMmVBQVJEc2VWVEREbEl6SlFJczgxdTNmUG1iQ1V4VkFnVjhid3dVZEQ1RnZHZ2RzV2pRTmpwZFQySFlkVHpEQkJZZnBOSFQwV2tma1RFN3RVdTlMbE9IMFFiNzZFZGZkZjFuUldwME9tZE5MZlVhVFd1cmJJVXNsZllweW5BNzgtdVN4UnhNbm02OEtfOEo1TmhfcmVGZ25ldHoxRERUTERnZjlvRENPeVhVMW1rQzZXU0Vua1ZLZHplQ1lKMWo1UjkxdnI3M2R5Z0h4Z2tZMkpEenF5bWdlTUlYS3kxWUxnenlwdk5MWVZHZnlzVHBfOXc?oc=5
+
+- Why Marco Rubio’s visit to Mumbai has ruffled feathers in India - Al Jazeera
+  Marco Rubio's visit to Mumbai has ruffled
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWlaQ3YxeVktTURYLUNTMkxCRGJxYXhWVnZ4TzJuSTgtQlkySG5uZjMxeXFFMjZWcHFJZ3pibVZOZi1rUjY2OUVZX3VnbXVQeEp0dVpOam8zX1QzTi1ucVFYY1lfWE5UeVNzMkFOUHlFdUJ0QzBlZVVudHRvVkRkN2lWSmlYZWNLNXBmVGdmRnIxZW93RHN3VGhUTzFudDdhd21NNXgzVdIBrAFBVV95cUxOeHk1Z0ZiZ1FFUkZma1M1WkVzeUJ2aFkzMUhsQ1FLVDFLel9uenNybFhLRDU3UFRvUGVtRUN3cEdWMmQ3SnZlUjU2Um8zS1ZtSHFabGg5YnJDT0RObHllTG9QZW9RNXJyMFpNUHFzTDhxM3ZRYkExWEVGNTlXUVU5WmRyWGNUTmNFZ0Rmd2NINlNzWmJTbmxOMFhOSkhjeUN4RmlNX2lpcElVaTB1?oc=5
+
+- At least 17 dead in crush at Hindu festival event in India - BBC
+  At least 17 dead in crush at Hindu festival event
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xUTdlRnREbHJNeloxOGZJWkpOaUQxTXhNTGtoSGdIYmZFTzA0TGhtWTVfSkRVcHNMeGthT1daSHluZlFUQlh3VGN0Q3JRQzJVVXNJaDlidFlqS1U?oc=5
+
+- Did Shooter's Jammed Gun Save Tiger Shroff's Life? New Videos Emerge - NDTV
+  A series of new videos have emerged
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQU0pvdG4tbExocHJwWWRabmNnT3pIUUFySkVsMGU5WWhkM1JOQVFqZUNZS29lWThqYmdrMkRhVm1RWnloWFlaYXNIX0R3MUcwQmFFcV9uXzBjZHZVcm9GTVp5Q0Q3aVVKRUNqYlByU2hrSUt6bmdPaElHb3dWdDFLS2JCUXk3RC1aeHVndEE3U2xTMXFxYlNJcFhLU0ROQjlJeGJrdlc0WklfTXFsVGxlSmsySkN2WHRMdzY5Q3dveFhtRENGS012c2JBajltUGZPREVMWU9iRkxpVkRxb2pGaUJqb0ZHTEUySTZvQW91YVdVdTdaRnJKMk9rT1k5ZFF2ZEpN0gGLAkFVX3lxTE45SUtjckVWbGtpSGpNYV8yVkRUVlNIRUVIMWN5UlpNUHZTYjhjcTc0b0tldGZWMXNfckZkRDludnpVSFpjLUVOT2RtZUVIV2NuNHlXamRabm5KYTB4N19ONXY5SjducjBCekw4blhxbXVQSm1vQlE4d3dQXzRTc0NaQV9sTkxnOWZlaGo4bmVidm5WWHlWbXUwaDEwbGpIazdSNkxCRDhXMnpHYzY2NS1JblkyU0ktRnBKME5nZ2xhYW1GNmZSZUFxWV9QZ25mMF94b0otYkhrVlQ5ZjJRWDV3ZS03Z2dXdGgyWjhNTDBaSEVqVzdvN19EdURoNmtnUW0zbm1XdVhMcWllYw?oc=5
+
+- Q2 results 2026 today Oct 19 Monday: Hindustan Zinc, IREDA, L&amp;T Tech, Union Bank among 35 firms to announce earnings
+  Indian benchmarks posted a second straight week of gains, with the Nifty and Sensex rising after a sharp recovery. Investors will watch quarterly earnings from 35 companies on October 19.
+  🔗 https://www.livemint.com/market/stock-market-news/q2-results-today-hindustan-zinc-ireda-l-t-tech-union-bank-bajaj-finance-among-35-companies-to-announce-earnings-11792333351897.html
+
+- Dividend record date: Last chance to buy today to qualify, Elecon, ICICI Prudential AMC, MRPL - Who pays max amount?
+  Elecon Engineering, ICICI Prudential AMC and MRPL set October 21 as the record date for their dividends. With Tuesday a market holiday and India following T
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-record-date-last-chance-to-buy-today-to-qualify-elecon-icici-prudential-amc-mrpl-who-pays-max-amount-11792336666965.html
+
+- Vaishali Parekh recommends 3 stocks to buy today: Coforge, Lalithaa Jewellery, Titan; target, stop-loss, market outlook
+  The Nifty 50 index would have the important 50-EMA level in the 23,300 zone. Vaishali Parekkh believes Dalal Street
+  🔗 https://www.livemint.com/market/stock-market-news/vaishali-parekh-recommends-3-stocks-to-buy-today-coforge-lalithaa-jewellery-titan-target-stop-loss-market-outlook-11792342947926.html
+
+- What’s next for IDBI Bank stock after Q2 net profit slumps 39%, massive Fairfax deal? Key factors investors should watch
+  Investors will assess IDBI Bank’s earnings
+  🔗 https://www.livemint.com/market/stock-market-news/whats-next-for-idbi-bank-stock-after-q2-net-profit-slumps-39-massive-fairfax-deal-key-factors-investors-should-watch-11792335797516.html
 
 - Reliance Jio IPO buzz reaches crypto market! Bitget launches Jio pre-IPO futures ahead of launch - Details for investors
   JIOUSDT lets traders speculate on Jio Platforms’ valuation without owning shares. The contract offers up to 20x leverage. Jio’s IPO is scheduled to open October
   🔗 https://www.livemint.com/market/ipo/reliance-jio-ipo-buzz-reaches-crypto-market-bitget-launches-jio-pre-ipo-futures-ahead-of-public-issue-what-is-it-11792323354455.html
 
-- Stock market this week with top 7 factors for Sensex, Nifty: Reliance Jio IPO, crude volatility, FII selling, Q2 results
-  This week, investor sentiment may hinge on major company earnings, Jio Platforms’ IPO, volatile crude prices, foreign and domestic institutional flows, and a Dussehra trading holiday.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-this-week-jio-ipo-crude-oil-price-volatility-fii-selling-q2-results-among-7-factors-to-watch-check-ni-11792326615470.html
-
-- Kellton Tech Solutions rights issue 2026: Record date, price, size, subscription date, entitlement ratio, other details
-  Kellton Tech Solutions has declared raisinng of funds through rights issue not exceeding  ₹160 crore
-  🔗 https://www.livemint.com/market/stock-market-news/kellton-tech-solutions-rights-issue-2026-record-date-price-size-subscription-date-entitlement-ratio-other-details-11792321058461.html
-
-- IPO GMP race: Zetwerk vs Sahajanand vs Bonfiglioli Transmissions vs Tonbo Imaging - check share listing price prediction
-  Tonbo Imaging drew the strongest interest, with 7.77 times subscription. Zetwerk attracted the least interest at 31%. Bonfiglioli and Sahajanand were subscribed
-  🔗 https://www.livemint.com/market/ipo/ipo-gmp-race-zetwerk-vs-sahajanand-vs-bonfiglioli-transmissions-vs-tonbo-imaging-check-share-listing-price-prediction-11792318401392.html
-
-- Energy stocks dividend leaderboard: Power Grid, NTPC, SJVN, NHPC or IREDA - Which power stock beats the rest on yield?
-  Power Grid leads the five energy stocks in annual dividend yield at 3.08%. NTPC at 2.63%. SJVN, NHPC and IREDA paid
-  🔗 https://www.livemint.com/market/stock-market-news/energy-stocks-dividend-leaderboard-power-grid-ntpc-sjvn-nhpc-or-ireda-which-power-stock-beats-the-rest-on-yield-11792318828215.html
-
-- Only 8% of fund managers report improved investment returns from AI adoption: Morgan Stanley–Oliver Wyman
-  Only 8 per cent of fund managers have reported measurable improvements in investment returns.
-  🔗 https://www.livemint.com/technology/only-8-of-fund-managers-report-improved-investment-returns-from-ai-adoption-morgan-stanley-oliver-wyman-11792328833383.html
-
-- MeitY-backed conclave explores AI applications in healthcare, assistive technologies
-  Artificial intelligence could improve disease screening, medical diagnostics and remote patient monitoring. Secretary of the Ministry of Electronics and Information Technology S. Krishnan said at a technology conclave in Varanasi.
-  🔗 https://www.livemint.com/technology/meitybacked-conclave-explores-ai-applications-in-healthcare-assistive-technologies-11792308092347.html
-
-- Consumer apprehension grows as US retailers adopt AI-assisted pricing tools
-  Consumer apprehension grows as US
-  🔗 https://www.livemint.com/technology/consumer-apprehension-grows-as-us-retailers-adopt-ai-assisted-pricing-tools-11792307481426.html
-
-- Apple October 2026 launches: Touchscreen MacBook Pro, M6 iMac, OLED iPad Mini and more expected
-  Apple has invited select media members to a product event in Los Angeles on October 28. Apple could announce a touchscreen MacBook Pro, an M6-powered iMac and an OLED iPad mini
-  🔗 https://www.livemint.com/technology/apple-october-2026-launches-touchscreen-macbook-pro-m6-imac-oled-ipad-mini-and-more-expected-11792144048285.html
-
-- iPhone 18 Pro Max vs Galaxy S26 Ultra: Key differences in camera, display, battery and performance
-  The two devices also differ in weight, storage capacity and charging performance, giving buyers several factors to
-  🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-max-vs-galaxy-s26-ultra-key-differences-in-camera-display-battery-and-performance-11792259146732.html
-
 - Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off and oil prices: Live updates - CNBC
   Nasdaq slides 2% Friday to post worst week since June, pressured by AI
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5
 
-- Michael Burry Warns of a Stock Market ‘Supervolcano’ - Yahoo Finance
-  Michael Burry Warns of a
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOUTJEQXBCeFBNT0YtRFJzaVZmdnAycXBOX0lRUVI3QTZ1N2FtRWFybGxNYTlpZUZ6TEdLQ2loYUpfMkpYME5hNFEwZmFQSUJOVlBua3d1TEg1azQ2d0w2MDllb08wUGZ1d2s1VGo5NXBLazQ3N3UzUWs4Q2xVNnB5a25NeXMyT05CaFNXNk54eUYwSDZpVlFmU2xOc0lQQQ?oc=5
+- A hidden risk appears to be building up in the markets. No one knows exactly what it means - CNN
+  A hidden risk appears to be building up in the markets. No one knows exactly
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE5vU2VmSTB3cGpxdUU2Z29lRnFBQkFFTU5EOFJ2bGRydVp0T2NlVjNWeS1ieUlOamt1ZXJKQ1g3RTl1aFBzQVlPcVpFM1FhN2tkUllZeHhDeGk5UF90eW5jbVd0c1FjUUdNejAzWGZCeFZXY2JNVUFvZEVLVkwxUWs?oc=5
 
-- Stock Market News: Nasdaq Faces Weekly Loss on Tech Stock Slump - WSJ
-  The WSJ reports Nasdaq faces weekly loss
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWtEQ1dWcXo2OG1zSkt0d3hELWZsX2ZhOE1adzdRdDdPM2VOZElCdXVhNHFETGtPeUwxUnRtc1R1TFVtY2l0M042c0xnWjdzRzhndjBJUmtHdXVhby11YkFYOERsSUhueU9jYTRCMFJJa3lxSGFjaWJrcUR0SllhWXJ4cURuUkU?oc=5
-
-- 'Bigger than ever' Christmas market plans revealed - BBC
-  'Bigger than ever
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HRjQ0TU5LbGloM0tKTlQ0aW1USk5MWnN1TUxHX0ViRDhabjhuWWpiV1lZTlQyRXFOQmFlV1VuQkNJZ0FObnlyUm0zeHRvdXF1WWZVelpJRzJjZVk?oc=5
+- What to Expect in Markets This Week: Meta, Tesla Report; Airlines, Streaming Giants’ Results Due - Investopedia
+  What to Expect in Markets This Week: Meta, Tesla Report;
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd0pnMHB3eC11T1M0N1lRcjVUR3l1SHFOYkxwWmpGSEtXdGNSX2NnX2xvVWUwLU5RZEtmY0NPSEswbWlzVnYzcmYtMFZSaTRZN01sMGctRUZRSld5VkY3ZTRycTNLdTlEcGFaNnJ3VE14VnBodzduUGJFWDJ5MXdseUVwWUVTMjg0YVk0OERIS3ZpUlNkSm02WEdKcS1NSTR6azJiU2I1SnV6Q0tpaWE0Y051NllxSzNYR3lnMjA5aFNUY2FQcEp1d084enctbENwXzJXUzVuU0t0NjA?oc=5
 
 - China's central bank to further open its financial markets to foreigners, chief says - Reuters
   China's central bank to further open its financial markets to
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1a19tN3VKb01RMGt6bXV5UHBMNXd2cXlOQlNtaXJELW14RHBzb3o2b1RBWDhKck1Sdmc?oc=5
+
+- Jio IPO, Q2 earnings, crude oil to steer markets in holiday-shortened week - Fortune India
+  Jio IPO, Q2 earnings, crude oil to
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxONjlOeGNlaXBPM1Jia0hOM3VIT1p2aHJqQnY3aGtoMm16VGRuNjRPNURLazViSnhPczJla3k3WkZwdi1kLVZLVS02V005WW9hS2JzNnU1bmxpaDQtRG5IakdGLWNsV1Z3VWM0WWRQYlBYblFUekpDYjhfbzRhRkJRQ2pGWE1hTXVqenNPUGlBekRFNlFySlFyb1VMUHNJZTBUNHprVDA3TWFlTEF5YzFuOGJXN0U2ZWRKS3dUclFPaG5PQ1d2TnfSAdMBQVVfeXFMTzhaQ2pIRTQ4UzNHa1dkUGN5Q3IyZWxwNUo0NVZSbHRTSkc5eWN0ZGpJeGFLZTBqeDFoS1NicXZrUjhIQ2plR2YxaGxmWTFIX1N1cm94emxnYnh2d0dLblB0M2ttblJMaVlkWDA0cEFROEZtRzU4VnZDZnR3QWlUQUVpLWFJODdxZ295cFFWc1RxVXVXbGg5a1JJTVQyb1JuX1RicEJodDJHczU1ZHB2N2NHWUhWOUgxZDlpUnNuUTJEbWFJUm9rTzRyUzA0LTNFVHRNSQ?oc=5
 
 - DIIs increase stake in 8 midcap stocks in Q2FY27
   DIIs increased their holdings in several NSE midcap stocks during the September 2026 quarter. Swiggy, One97 Communications, Meesho, Cochin Shipyard, Lenskart Solutions, Piramal
@@ -120,6 +120,14 @@
   Foreign portfolio investors have withdrawn Rs 52,100 crore from Indian equities. This follows a net withdrawal of Rs 35,861 crore in September. Elevated crude oil prices, higher US bond yields, and a stronger dollar have affected
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-52100-cr-from-equities-in-oct-so-far-amid-global-headwinds/articleshow/135024995.cms
 
+- 'Hard For India To Move Away From Russian Energy': Team Trump On Waivers - NDTV
+  'Hard For India To Move Away From Russian Energy':
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkZ3V25Kdklub3I1cE52YmpPQW1pU3VnWS0xRV9FdkFVUEh0SnJsdUY4c1I3bE1hMXVrbDdaNzdWcXk3c2hpY2JsRGNiVFVlQ1FRaTRHQ2VTLWtyNGNFRndjTHQ2OWdrZGM1YUJVQm1XWFhaNGd5TjFxSE5CeGpQdnZKc29XWFU2LWVXYW1pSlVXcFhNSTdLeTVFSXcyeGVKNWt3RG9MWmdTdTlvYkhRTmxMYnI2M2NrMjFQZ0x5YmFGb0I3RVI5aEYySWNvcEZvR243YkZvalNhYkow0gHkAUFVX3lxTE9kbi01S0lJRWZndEFRblNYUGpPZUZmYUdCUFFMRFVQWlVzTURSeWlJQXRTalk5NVd2enE0Nlhpa3N5NUF3N3F0ZUppVWoxSm5TajFmejMwRENyVVFCQTV1NUliSTREeDVjZm16dEp4UVFZWEFkMEU2T21SRGtHTDdPWlpGVGR2Z0dyZ1VGdFBuZ21KN0prQzA2UHkxSHNwSzJrNXJ6VG9XdzVzLU9ZbnYzRmlVNFdTcklPVXVfSEFRUm0xLVRJRG5UaTV4QThDZ2M1UUpsSWVtT3g1YTV0Ykp4UURjcg?oc=5
+
+- Russia sanctions pause to assess impact on India, global energy prices, says Trump official | World News - Hindustan Times
+  Russia sanctions pause to assess impact on India, global energy prices.
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenhYWmdXZ2ZDaFdKWnhXaEtxd25Pd05PVi1FR3NwYkFVdElnNWZXNUFNaGh3Y0otVTV6TTNOb24tREROdjRYaThIR0NoVW9yaVNJeV9uN3JuWm5HanBpbFRCaXBtZ09RWjB1ekt6TFJWZFVFazM0dFotdkVQY2Q3UUtWbEZyclhFNWlXQmh5UnppcW4xT04wTlFSWGE3Rm12MW4zY3F4N3ZmLWRCcl9NSmJvbzVSVXcwakRIS3NrYXUtc0g1ZFpSenZ6WV9Vd3NfZVRESlAyNmI2a2Ita09odFJMbUNfc2NPdUVXR0ZVMlJwQjZD0gH6AUFVX3lxTE5GMmVBQVJEc2VWVEREbEl6SlFJczgxdTNmUG1iQ1V4VkFnVjhid3dVZEQ1RnZHZ2RzV2pRTmpwZFQySFlkVHpEQkJZZnBOSFQwV2tma1RFN3RVdTlMbE9IMFFiNzZFZGZkZjFuUldwME9tZE5MZlVhVFd1cmJJVXNsZllweW5BNzgtdVN4UnhNbm02OEtfOEo1TmhfcmVGZ25ldHoxRERUTERnZjlvRENPeVhVMW1rQzZXU0Vua1ZLZHplQ1lKMWo1UjkxdnI3M2R5Z0h4Z2tZMkpEenF5bWdlTUlYS3kxWUxnenlwdk5MWVZHZnlzVHBfOXc?oc=5
+
 - Why Marco Rubio’s visit to Mumbai has ruffled feathers in India - Al Jazeera
   Marco Rubio's visit to Mumbai has ruffled
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWlaQ3YxeVktTURYLUNTMkxCRGJxYXhWVnZ4TzJuSTgtQlkySG5uZjMxeXFFMjZWcHFJZ3pibVZOZi1rUjY2OUVZX3VnbXVQeEp0dVpOam8zX1QzTi1ucVFYY1lfWE5UeVNzMkFOUHlFdUJ0QzBlZVVudHRvVkRkN2lWSmlYZWNLNXBmVGdmRnIxZW93RHN3VGhUTzFudDdhd21NNXgzVdIBrAFBVV95cUxOeHk1Z0ZiZ1FFUkZma1M1WkVzeUJ2aFkzMUhsQ1FLVDFLel9uenNybFhLRDU3UFRvUGVtRUN3cEdWMmQ3SnZlUjU2Um8zS1ZtSHFabGg5YnJDT0RObHllTG9QZW9RNXJyMFpNUHFzTDhxM3ZRYkExWEVGNTlXUVU5WmRyWGNUTmNFZ0Rmd2NINlNzWmJTbmxOMFhOSkhjeUN4RmlNX2lpcElVaTB1?oc=5
@@ -128,17 +136,9 @@
   At least 17 dead in crush at Hindu festival event
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xUTdlRnREbHJNeloxOGZJWkpOaUQxTXhNTGtoSGdIYmZFTzA0TGhtWTVfSkRVcHNMeGthT1daSHluZlFUQlh3VGN0Q3JRQzJVVXNJaDlidFlqS1U?oc=5
 
-- Conspiracy similar to one behind violence in France, Bangladesh hatched by anti-India gangs to instigate youth: Rijiju - The Hindu
-  Conspiracy similar to one behind violence in France, Bangladesh hatched by anti-India
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNQ3RLXy05VHhsdF9HMWFKdENHa3NxQUtPd3lncU80WmMyX0ZBUVZkU0c3dUlpS0VQRnRiR1ZEWTJBMGZ5WWFBNk5nckMydEd0NGVDc0Q5TkZhRmtQSW1uc2JvOGxqaVZRZ0RkRFVweElMb081cEM3eUtEemlBdFktamxOQnI2NzM5cXZ3ay1RUTJycFJKZnI1dDUwbmhmdnFiYzQ5Rk12ZDR4Q0dpZ184RC1JaWl2MHdCeWhvX2pBc3ZMekkwclJxMGtqMDBlZXN1WVJpZXhrU2F5b0JBbEZpcE9aNktpYWxhOHNSbG5iNW44UkRrUTZyMS13U3V1ZmhORnN1b2JR0gGMAkFVX3lxTE5iMDhlZGNMT2dFVUxlRGtwZHFWUmpPanBlaF8wVUEyYllndlZYMUR0ZHcwQWxURmtXSHl3ZzhGeGc4RGw1cWJac2lsQkhUUkNDS2FxQm5UZTRMMDNCUmxUZ2ZjQU1zNmNCUlhMRVA4MUpqNXhvd1E5eUtDY1RIeUlFZ0lnQWdSYURGOHVLdlV1NV96VC0yV0oyMjg5ZTRqTmdaLWk2SkQtT3liaVg3U1RtOElNdURnclR2N1BhbDQwS0w2d3ZLMXowNHZMMFZPUVVRZWFKZElENUQybXYzSzZoa2lSTHdfRVJnNkpBRUxiaVIzS1BOTGFzb3kwWWxmdHMwRGlfeDhHSkN2ekI?oc=5
-
-- Army Officer's Wife Shared Info With Chinese Agents Posing As Academicians - NDTV
-  Army Officer's Wife Shared Info With Chinese Agents
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNTE1Ra2gwM3ZJRjVOb2ZYeWNfNURGRjNrUDY1T3VqVUd0cHloUGJjWWl4cjRPYnliU0UtNTBOTVgyYnhGUGJiRFM2V18zb1VXbGhJdHd4dEhkZE9wYmVpZkRVNkJpNnhKeTg1aUNTTUc1V3N5X1hwZ3lqY2ZGekw0NXJYYUZNeF94R0duWjhVOVJ2dTJQcGtILUlORko3RGVqVDU3U1REb3g1YWQ4cnlrU1hQSdIBuwFBVV95cUxQdWNtN1Z1YmZHZDVVWEhrSFBVVzQ1eUdnS1hSbVdNVlA4WUdwSHlnMkdKR1B5aUVWZTRUbVI3X3o3aXVHRUkzWjFqb0lsZE1XRlJ2TGxvRGQ0TUFKTndXMDVIU3hGUXpkdmNhd2FNM2lHWl8tcWR6ZjNfa09VRnRVUElLTWJ1c09YOUJaZEwzT3hScllVRjZmeWhmOUVaOGhXUHUtTHlLQ3ZTNEEtbUxNSk9keUVUV3RueGtj?oc=5
-
-- India's HDFC Bank Q2 profit rises 4.7%; deputy MD Bharucha to step down - Reuters
-  India's HDFC Bank Q2 profit rises 4.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2VOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5
+- Did Shooter's Jammed Gun Save Tiger Shroff's Life? New Videos Emerge - NDTV
+  A series of new videos have emerged
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQU0pvdG4tbExocHJwWWRabmNnT3pIUUFySkVsMGU5WWhkM1JOQVFqZUNZS29lWThqYmdrMkRhVm1RWnloWFlaYXNIX0R3MUcwQmFFcV9uXzBjZHZVcm9GTVp5Q0Q3aVVKRUNqYlByU2hrSUt6bmdPaElHb3dWdDFLS2JCUXk3RC1aeHVndEE3U2xTMXFxYlNJcFhLU0ROQjlJeGJrdlc0WklfTXFsVGxlSmsySkN2WHRMdzY5Q3dveFhtRENGS012c2JBajltUGZPREVMWU9iRkxpVkRxb2pGaUJqb0ZHTEUySTZvQW91YVdVdTdaRnJKMk9rT1k5ZFF2ZEpN0gGLAkFVX3lxTE45SUtjckVWbGtpSGpNYV8yVkRUVlNIRUVIMWN5UlpNUHZTYjhjcTc0b0tldGZWMXNfckZkRDludnpVSFpjLUVOT2RtZUVIV2NuNHlXamRabm5KYTB4N19ONXY5SjducjBCekw4blhxbXVQSm1vQlE4d3dQXzRTc0NaQV9sTkxnOWZlaGo4bmVidm5WWHlWbXUwaDEwbGpIazdSNkxCRDhXMnpHYzY2NS1JblkyU0ktRnBKME5nZ2xhYW1GNmZSZUFxWV9QZ25mMF94b0otYkhrVlQ5ZjJRWDV3ZS03Z2dXdGgyWjhNTDBaSEVqVzdvN19EdURoNmtnUW0zbm1XdVhMcWllYw?oc=5
 
 - Starlink, Jio & OneWeb: Untangling The Satcom Queue
   The irony was not lost on many. Around the same time as the internet in India's national capital Delhi was.
@@ -160,25 +160,13 @@
   Fewer than half of the 67 new-age tech stocks under Inc42’s coverage advanced this week despite a broader market recovery.
   🔗 https://inc42.com/buzz/nazara-groww-gain-among-new-age-tech-stocks-this-week-acevector-falls-18/
 
-- Why Marco Rubio’s visit to Mumbai has ruffled feathers in India - Al Jazeera
-  Marco Rubio's visit to Mumbai has ruffled
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWlaQ3YxeVktTURYLUNTMkxCRGJxYXhWVnZ4TzJuSTgtQlkySG5uZjMxeXFFMjZWcHFJZ3pibVZOZi1rUjY2OUVZX3VnbXVQeEp0dVpOam8zX1QzTi1ucVFYY1lfWE5UeVNzMkFOUHlFdUJ0QzBlZVVudHRvVkRkN2lWSmlYZWNLNXBmVGdmRnIxZW93RHN3VGhUTzFudDdhd21NNXgzVdIBrAFBVV95cUxOeHk1Z0ZiZ1FFUkZma1M1WkVzeUJ2aFkzMUhsQ1FLVDFLel9uenNybFhLRDU3UFRvUGVtRUN3cEdWMmQ3SnZlUjU2Um8zS1ZtSHFabGg5YnJDT0RObHllTG9QZW9RNXJyMFpNUHFzTDhxM3ZRYkExWEVGNTlXUVU5WmRyWGNUTmNFZ0Rmd2NINlNzWmJTbmxOMFhOSkhjeUN4RmlNX2lpcElVaTB1?oc=5
+- 'Hard For India To Move Away From Russian Energy': Team Trump On Waivers - NDTV
+  'Hard For India To Move Away From Russian Energy':
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkZ3V25Kdklub3I1cE52YmpPQW1pU3VnWS0xRV9FdkFVUEh0SnJsdUY4c1I3bE1hMXVrbDdaNzdWcXk3c2hpY2JsRGNiVFVlQ1FRaTRHQ2VTLWtyNGNFRndjTHQ2OWdrZGM1YUJVQm1XWFhaNGd5TjFxSE5CeGpQdnZKc29XWFU2LWVXYW1pSlVXcFhNSTdLeTVFSXcyeGVKNWt3RG9MWmdTdTlvYkhRTmxMYnI2M2NrMjFQZ0x5YmFGb0I3RVI5aEYySWNvcEZvR243YkZvalNhYkow0gHkAUFVX3lxTE9kbi01S0lJRWZndEFRblNYUGpPZUZmYUdCUFFMRFVQWlVzTURSeWlJQXRTalk5NVd2enE0Nlhpa3N5NUF3N3F0ZUppVWoxSm5TajFmejMwRENyVVFCQTV1NUliSTREeDVjZm16dEp4UVFZWEFkMEU2T21SRGtHTDdPWlpGVGR2Z0dyZ1VGdFBuZ21KN0prQzA2UHkxSHNwSzJrNXJ6VG9XdzVzLU9ZbnYzRmlVNFdTcklPVXVfSEFRUm0xLVRJRG5UaTV4QThDZ2M1UUpsSWVtT3g1YTV0Ykp4UURjcg?oc=5
 
-- At least 17 dead in crush at Hindu festival event in India - BBC
-  At least 17 dead in crush at Hindu festival event
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xUTdlRnREbHJNeloxOGZJWkpOaUQxTXhNTGtoSGdIYmZFTzA0TGhtWTVfSkRVcHNMeGthT1daSHluZlFUQlh3VGN0Q3JRQzJVVXNJaDlidFlqS1U?oc=5
-
-- Conspiracy similar to one behind violence in France, Bangladesh hatched by anti-India gangs to instigate youth: Rijiju - The Hindu
-  Conspiracy similar to one behind violence in France, Bangladesh hatched by anti-India
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNQ3RLXy05VHhsdF9HMWFKdENHa3NxQUtPd3lncU80WmMyX0ZBUVZkU0c3dUlpS0VQRnRiR1ZEWTJBMGZ5WWFBNk5nckMydEd0NGVDc0Q5TkZhRmtQSW1uc2JvOGxqaVZRZ0RkRFVweElMb081cEM3eUtEemlBdFktamxOQnI2NzM5cXZ3ay1RUTJycFJKZnI1dDUwbmhmdnFiYzQ5Rk12ZDR4Q0dpZ184RC1JaWl2MHdCeWhvX2pBc3ZMekkwclJxMGtqMDBlZXN1WVJpZXhrU2F5b0JBbEZpcE9aNktpYWxhOHNSbG5iNW44UkRrUTZyMS13U3V1ZmhORnN1b2JR0gGMAkFVX3lxTE5iMDhlZGNMT2dFVUxlRGtwZHFWUmpPanBlaF8wVUEyYllndlZYMUR0ZHcwQWxURmtXSHl3ZzhGeGc4RGw1cWJac2lsQkhUUkNDS2FxQm5UZTRMMDNCUmxUZ2ZjQU1zNmNCUlhMRVA4MUpqNXhvd1E5eUtDY1RIeUlFZ0lnQWdSYURGOHVLdlV1NV96VC0yV0oyMjg5ZTRqTmdaLWk2SkQtT3liaVg3U1RtOElNdURnclR2N1BhbDQwS0w2d3ZLMXowNHZMMFZPUVVRZWFKZElENUQybXYzSzZoa2lSTHdfRVJnNkpBRUxiaVIzS1BOTGFzb3kwWWxmdHMwRGlfeDhHSkN2ekI?oc=5
-
-- Army Officer's Wife Shared Info With Chinese Agents Posing As Academicians - NDTV
-  Army Officer's Wife Shared Info With Chinese Agents
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNTE1Ra2gwM3ZJRjVOb2ZYeWNfNURGRjNrUDY1T3VqVUd0cHloUGJjWWl4cjRPYnliU0UtNTBOTVgyYnhGUGJiRFM2V18zb1VXbGhJdHd4dEhkZE9wYmVpZkRVNkJpNnhKeTg1aUNTTUc1V3N5X1hwZ3lqY2ZGekw0NXJYYUZNeF94R0duWjhVOVJ2dTJQcGtILUlORko3RGVqVDU3U1REb3g1YWQ4cnlrU1hQSdIBuwFBVV95cUxQdWNtN1Z1YmZHZDVVWEhrSFBVVzQ1eUdnS1hSbVdNVlA4WUdwSHlnMkdKR1B5aUVWZTRUbVI3X3o3aXVHRUkzWjFqb0lsZE1XRlJ2TGxvRGQ0TUFKTndXMDVIU3hGUXpkdmNhd2FNM2lHWl8tcWR6ZjNfa09VRnRVUElLTWJ1c09YOUJaZEwzT3hScllVRjZmeWhmOUVaOGhXUHUtTHlLQ3ZTNEEtbUxNSk9keUVUV3RueGtj?oc=5
-
-- India's HDFC Bank Q2 profit rises 4.7%; deputy MD Bharucha to step down - Reuters
-  India's HDFC Bank Q2 profit rises 4.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2VOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5
+- Russia sanctions pause to assess impact on India, global energy prices, says Trump official | World News - Hindustan Times
+  Russia sanctions pause to assess impact on India, global energy prices.
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenhYWmdXZ2ZDaFdKWnhXaEtxd25Pd05PVi1FR3NwYkFVdElnNWZXNUFNaGh3Y0otVTV6TTNOb24tREROdjRYaThIR0NoVW9yaVNJeV9uN3JuWm5HanBpbFRCaXBtZ09RWjB1ekt6TFJWZFVFazM0dFotdkVQY2Q3UUtWbEZyclhFNWlXQmh5UnppcW4xT04wTlFSWGE3Rm12MW4zY3F4N3ZmLWRCcl9NSmJvbzVSVXcwakRIS3NrYXUtc0g1ZFpSenZ6WV9Vd3NfZVRESlAyNmI2a2Ita09odFJMbUNfc2NPdUVXR0ZVMlJwQjZD0gH6AUFVX3lxTE5GMmVBQVJEc2VWVEREbEl6SlFJczgxdTNmUG1iQ1V4VkFnVjhid3dVZEQ1RnZHZ2RzV2pRTmpwZFQySFlkVHpEQkJZZnBOSFQwV2tma1RFN3RVdTlMbE9IMFFiNzZFZGZkZjFuUldwME9tZE5MZlVhVFd1cmJJVXNsZllweW5BNzgtdVN4UnhNbm02OEtfOEo1TmhfcmVGZ25ldHoxRERUTERnZjlvRENPeVhVMW1rQzZXU0Vua1ZLZHplQ1lKMWo1UjkxdnI3M2R5Z0h4Z2tZMkpEenF5bWdlTUlYS3kxWUxnenlwdk5MWVZHZnlzVHBfOXc?oc=5
 
 - Why Marco Rubio’s visit to Mumbai has ruffled feathers in India - Al Jazeera
   Marco Rubio's visit to Mumbai has ruffled
@@ -188,45 +176,49 @@
   At least 17 dead in crush at Hindu festival event
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xUTdlRnREbHJNeloxOGZJWkpOaUQxTXhNTGtoSGdIYmZFTzA0TGhtWTVfSkRVcHNMeGthT1daSHluZlFUQlh3VGN0Q3JRQzJVVXNJaDlidFlqS1U?oc=5
 
-- Conspiracy similar to one behind violence in France, Bangladesh hatched by anti-India gangs to instigate youth: Rijiju - The Hindu
-  Conspiracy similar to one behind violence in France, Bangladesh hatched by anti-India
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNQ3RLXy05VHhsdF9HMWFKdENHa3NxQUtPd3lncU80WmMyX0ZBUVZkU0c3dUlpS0VQRnRiR1ZEWTJBMGZ5WWFBNk5nckMydEd0NGVDc0Q5TkZhRmtQSW1uc2JvOGxqaVZRZ0RkRFVweElMb081cEM3eUtEemlBdFktamxOQnI2NzM5cXZ3ay1RUTJycFJKZnI1dDUwbmhmdnFiYzQ5Rk12ZDR4Q0dpZ184RC1JaWl2MHdCeWhvX2pBc3ZMekkwclJxMGtqMDBlZXN1WVJpZXhrU2F5b0JBbEZpcE9aNktpYWxhOHNSbG5iNW44UkRrUTZyMS13U3V1ZmhORnN1b2JR0gGMAkFVX3lxTE5iMDhlZGNMT2dFVUxlRGtwZHFWUmpPanBlaF8wVUEyYllndlZYMUR0ZHcwQWxURmtXSHl3ZzhGeGc4RGw1cWJac2lsQkhUUkNDS2FxQm5UZTRMMDNCUmxUZ2ZjQU1zNmNCUlhMRVA4MUpqNXhvd1E5eUtDY1RIeUlFZ0lnQWdSYURGOHVLdlV1NV96VC0yV0oyMjg5ZTRqTmdaLWk2SkQtT3liaVg3U1RtOElNdURnclR2N1BhbDQwS0w2d3ZLMXowNHZMMFZPUVVRZWFKZElENUQybXYzSzZoa2lSTHdfRVJnNkpBRUxiaVIzS1BOTGFzb3kwWWxmdHMwRGlfeDhHSkN2ekI?oc=5
+- Did Shooter's Jammed Gun Save Tiger Shroff's Life? New Videos Emerge - NDTV
+  A series of new videos have emerged
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQU0pvdG4tbExocHJwWWRabmNnT3pIUUFySkVsMGU5WWhkM1JOQVFqZUNZS29lWThqYmdrMkRhVm1RWnloWFlaYXNIX0R3MUcwQmFFcV9uXzBjZHZVcm9GTVp5Q0Q3aVVKRUNqYlByU2hrSUt6bmdPaElHb3dWdDFLS2JCUXk3RC1aeHVndEE3U2xTMXFxYlNJcFhLU0ROQjlJeGJrdlc0WklfTXFsVGxlSmsySkN2WHRMdzY5Q3dveFhtRENGS012c2JBajltUGZPREVMWU9iRkxpVkRxb2pGaUJqb0ZHTEUySTZvQW91YVdVdTdaRnJKMk9rT1k5ZFF2ZEpN0gGLAkFVX3lxTE45SUtjckVWbGtpSGpNYV8yVkRUVlNIRUVIMWN5UlpNUHZTYjhjcTc0b0tldGZWMXNfckZkRDludnpVSFpjLUVOT2RtZUVIV2NuNHlXamRabm5KYTB4N19ONXY5SjducjBCekw4blhxbXVQSm1vQlE4d3dQXzRTc0NaQV9sTkxnOWZlaGo4bmVidm5WWHlWbXUwaDEwbGpIazdSNkxCRDhXMnpHYzY2NS1JblkyU0ktRnBKME5nZ2xhYW1GNmZSZUFxWV9QZ25mMF94b0otYkhrVlQ5ZjJRWDV3ZS03Z2dXdGgyWjhNTDBaSEVqVzdvN19EdURoNmtnUW0zbm1XdVhMcWllYw?oc=5
 
-- Army Officer's Wife Shared Info With Chinese Agents Posing As Academicians - NDTV
-  Army Officer's Wife Shared Info With Chinese Agents
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNTE1Ra2gwM3ZJRjVOb2ZYeWNfNURGRjNrUDY1T3VqVUd0cHloUGJjWWl4cjRPYnliU0UtNTBOTVgyYnhGUGJiRFM2V18zb1VXbGhJdHd4dEhkZE9wYmVpZkRVNkJpNnhKeTg1aUNTTUc1V3N5X1hwZ3lqY2ZGekw0NXJYYUZNeF94R0duWjhVOVJ2dTJQcGtILUlORko3RGVqVDU3U1REb3g1YWQ4cnlrU1hQSdIBuwFBVV95cUxQdWNtN1Z1YmZHZDVVWEhrSFBVVzQ1eUdnS1hSbVdNVlA4WUdwSHlnMkdKR1B5aUVWZTRUbVI3X3o3aXVHRUkzWjFqb0lsZE1XRlJ2TGxvRGQ0TUFKTndXMDVIU3hGUXpkdmNhd2FNM2lHWl8tcWR6ZjNfa09VRnRVUElLTWJ1c09YOUJaZEwzT3hScllVRjZmeWhmOUVaOGhXUHUtTHlLQ3ZTNEEtbUxNSk9keUVUV3RueGtj?oc=5
+- 'Hard For India To Move Away From Russian Energy': Team Trump On Waivers - NDTV
+  'Hard For India To Move Away From Russian Energy':
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkZ3V25Kdklub3I1cE52YmpPQW1pU3VnWS0xRV9FdkFVUEh0SnJsdUY4c1I3bE1hMXVrbDdaNzdWcXk3c2hpY2JsRGNiVFVlQ1FRaTRHQ2VTLWtyNGNFRndjTHQ2OWdrZGM1YUJVQm1XWFhaNGd5TjFxSE5CeGpQdnZKc29XWFU2LWVXYW1pSlVXcFhNSTdLeTVFSXcyeGVKNWt3RG9MWmdTdTlvYkhRTmxMYnI2M2NrMjFQZ0x5YmFGb0I3RVI5aEYySWNvcEZvR243YkZvalNhYkow0gHkAUFVX3lxTE9kbi01S0lJRWZndEFRblNYUGpPZUZmYUdCUFFMRFVQWlVzTURSeWlJQXRTalk5NVd2enE0Nlhpa3N5NUF3N3F0ZUppVWoxSm5TajFmejMwRENyVVFCQTV1NUliSTREeDVjZm16dEp4UVFZWEFkMEU2T21SRGtHTDdPWlpGVGR2Z0dyZ1VGdFBuZ21KN0prQzA2UHkxSHNwSzJrNXJ6VG9XdzVzLU9ZbnYzRmlVNFdTcklPVXVfSEFRUm0xLVRJRG5UaTV4QThDZ2M1UUpsSWVtT3g1YTV0Ykp4UURjcg?oc=5
 
-- India's HDFC Bank Q2 profit rises 4.7%; deputy MD Bharucha to step down - Reuters
-  India's HDFC Bank Q2 profit rises 4.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2VOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5
+- Russia sanctions pause to assess impact on India, global energy prices, says Trump official | World News - Hindustan Times
+  Russia sanctions pause to assess impact on India, global energy prices.
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenhYWmdXZ2ZDaFdKWnhXaEtxd25Pd05PVi1FR3NwYkFVdElnNWZXNUFNaGh3Y0otVTV6TTNOb24tREROdjRYaThIR0NoVW9yaVNJeV9uN3JuWm5HanBpbFRCaXBtZ09RWjB1ekt6TFJWZFVFazM0dFotdkVQY2Q3UUtWbEZyclhFNWlXQmh5UnppcW4xT04wTlFSWGE3Rm12MW4zY3F4N3ZmLWRCcl9NSmJvbzVSVXcwakRIS3NrYXUtc0g1ZFpSenZ6WV9Vd3NfZVRESlAyNmI2a2Ita09odFJMbUNfc2NPdUVXR0ZVMlJwQjZD0gH6AUFVX3lxTE5GMmVBQVJEc2VWVEREbEl6SlFJczgxdTNmUG1iQ1V4VkFnVjhid3dVZEQ1RnZHZ2RzV2pRTmpwZFQySFlkVHpEQkJZZnBOSFQwV2tma1RFN3RVdTlMbE9IMFFiNzZFZGZkZjFuUldwME9tZE5MZlVhVFd1cmJJVXNsZllweW5BNzgtdVN4UnhNbm02OEtfOEo1TmhfcmVGZ25ldHoxRERUTERnZjlvRENPeVhVMW1rQzZXU0Vua1ZLZHplQ1lKMWo1UjkxdnI3M2R5Z0h4Z2tZMkpEenF5bWdlTUlYS3kxWUxnenlwdk5MWVZHZnlzVHBfOXc?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Why Marco Rubio’s visit to Mumbai has ruffled feathers in India - Al Jazeera
+  Marco Rubio's visit to Mumbai has ruffled
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWlaQ3YxeVktTURYLUNTMkxCRGJxYXhWVnZ4TzJuSTgtQlkySG5uZjMxeXFFMjZWcHFJZ3pibVZOZi1rUjY2OUVZX3VnbXVQeEp0dVpOam8zX1QzTi1ucVFYY1lfWE5UeVNzMkFOUHlFdUJ0QzBlZVVudHRvVkRkN2lWSmlYZWNLNXBmVGdmRnIxZW93RHN3VGhUTzFudDdhd21NNXgzVdIBrAFBVV95cUxOeHk1Z0ZiZ1FFUkZma1M1WkVzeUJ2aFkzMUhsQ1FLVDFLel9uenNybFhLRDU3UFRvUGVtRUN3cEdWMmQ3SnZlUjU2Um8zS1ZtSHFabGg5YnJDT0RObHllTG9QZW9RNXJyMFpNUHFzTDhxM3ZRYkExWEVGNTlXUVU5WmRyWGNUTmNFZ0Rmd2NINlNzWmJTbmxOMFhOSkhjeUN4RmlNX2lpcElVaTB1?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- At least 17 dead in crush at Hindu festival event in India - BBC
+  At least 17 dead in crush at Hindu festival event
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xUTdlRnREbHJNeloxOGZJWkpOaUQxTXhNTGtoSGdIYmZFTzA0TGhtWTVfSkRVcHNMeGthT1daSHluZlFUQlh3VGN0Q3JRQzJVVXNJaDlidFlqS1U?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Did Shooter's Jammed Gun Save Tiger Shroff's Life? New Videos Emerge - NDTV
+  A series of new videos have emerged
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQU0pvdG4tbExocHJwWWRabmNnT3pIUUFySkVsMGU5WWhkM1JOQVFqZUNZS29lWThqYmdrMkRhVm1RWnloWFlaYXNIX0R3MUcwQmFFcV9uXzBjZHZVcm9GTVp5Q0Q3aVVKRUNqYlByU2hrSUt6bmdPaElHb3dWdDFLS2JCUXk3RC1aeHVndEE3U2xTMXFxYlNJcFhLU0ROQjlJeGJrdlc0WklfTXFsVGxlSmsySkN2WHRMdzY5Q3dveFhtRENGS012c2JBajltUGZPREVMWU9iRkxpVkRxb2pGaUJqb0ZHTEUySTZvQW91YVdVdTdaRnJKMk9rT1k5ZFF2ZEpN0gGLAkFVX3lxTE45SUtjckVWbGtpSGpNYV8yVkRUVlNIRUVIMWN5UlpNUHZTYjhjcTc0b0tldGZWMXNfckZkRDludnpVSFpjLUVOT2RtZUVIV2NuNHlXamRabm5KYTB4N19ONXY5SjducjBCekw4blhxbXVQSm1vQlE4d3dQXzRTc0NaQV9sTkxnOWZlaGo4bmVidm5WWHlWbXUwaDEwbGpIazdSNkxCRDhXMnpHYzY2NS1JblkyU0ktRnBKME5nZ2xhYW1GNmZSZUFxWV9QZ25mMF94b0otYkhrVlQ5ZjJRWDV3ZS03Z2dXdGgyWjhNTDBaSEVqVzdvN19EdURoNmtnUW0zbm1XdVhMcWllYw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports - Reuters
+  Samsung to use TSMC technology for Nvidia's next-
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- China proposes export controls on solar-manufacturing technologies - Reuters
+  China proposes export controls on
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- China unveils draft export controls on AI technologies and chips - Financial Times
+  China unveils draft export controls on AI technologies
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFJrS1d0QjRNNDFCeDlGc2x2cHJhTWN6SEJtWjFucjRFWnc2LWlUMFFMbjFuX3BOWGpJcVhLdnVRRnFjaUVpRXh0UHNQcWl6UkF3clZ3VExPc1dVX1hvc2o4Tnl3Mm15VE03Y1h6NHJzU3hnUmlFWlpha0hkeElUaUg1SFY?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- China proposes export curbs on 12 key solar manufacturing technologies - Investing.com
+  China proposes export curbs on 12 key
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUt3d25OQ3ZsOEVob1lDNXpsWlpaaXFjQXRhbmJCMmY1d3gwRFoxRUtqMGZfa3BWQjdoRDRtbkpiTU4waXF1VG9EVlZMdUdxandZMGhLMlVITXYyTmRYUFlDd0FZa3ViMEZMbFZGOWM3QS00aG1OV2RfX2FkWTBQS2ZWMVFYQ1BKdGxPQm5udUs3dTVIVGRyM28ybWlCREQ0NHBfYmRDX2JEcWJqakctRkJNd3lJSmo0TEQyb0ZBYw?oc=5
+
+- What are self-replicating ‘AI worms’, and why is Anthropic worried about them? - The Guardian
+  What are self-replicating ‘AI worms�
+  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5
 
 
-_Last updated: 2026-10-18 15:19:30 UTC_
+_Last updated: 2026-10-18 20:02:01 UTC_
