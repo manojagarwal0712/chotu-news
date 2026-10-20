@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- Why Marco Rubio’s visit to Mumbai has ruffled feathers in India - Al Jazeera
-  Marco Rubio's visit to Mumbai has ruffled
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWlaQ3YxeVktTURYLUNTMkxCRGJxYXhWVnZ4TzJuSTgtQlkySG5uZjMxeXFFMjZWcHFJZ3pibVZOZi1rUjY2OUVZX3VnbXVQeEp0dVpOam8zX1QzTi1ucVFYY1lfWE5UeVNzMkFOUHlFdUJ0QzBlZVVudHRvVkRkN2lWSmlYZWNLNXBmVGdmRnIxZW93RHN3VGhUTzFudDdhd21NNXgzVdIBrAFBVV95cUxOeHk1Z0ZiZ1FFUkZma1M1WkVzeUJ2aFkzMUhsQ1FLVDFLel9uenNybFhLRDU3UFRvUGVtRUN3cEdWMmQ3SnZlUjU2Um8zS1ZtSHFabGg5YnJDT0RObHllTG9QZW9RNXJyMFpNUHFzTDhxM3ZRYkExWEVGNTlXUVU5WmRyWGNUTmNFZ0Rmd2NINlNzWmJTbmxOMFhOSkhjeUN4RmlNX2lpcElVaTB1?oc=5
-
-- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
-  'Not An Ordinary Foreigner': Imran Khan
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnfSAeMBQVVfeXFMUDlzVkVzSVpZTzJULUlUNFctb1NpWUZuVlNiMnYtamc3UWQ2ZDJqZlJ3OVRhRV9VTHhvdEd0YzdDZUpwLVhZcUxnbXJvUkRFeHJxc09HZ3pXTGs0QUgyQ0VONWc5eVB1ZDBGek9oMWt5ZDFfSUhJTUxpeFI3YmFzX0ZFeXo0a3gyMGxMZWR0OV9yUmhtZ2ZNbWZ5ZTNsQUR1S180YmdncnRBVnJRWUpvUi1lOW5hbXFaQnpGTHk0RGJDOGJHRFlRSlkxUWdlcTRISHBhVmFaRHNaMnpTWEE5eGlMNFU?oc=5
-
-- China imposes export controls on tunnel-boring machines sought by India, citing ‘national security’ - The Hindu
-  China imposes export controls on tunnel-boring machines sought by
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa3pjN3pMYlhxc0h0WTVaeVRERzdoRmRWekx2dzB2bVhySmtwaHRfaTV5Sm5nSkIyT0dXOUNQY0RXeWZIektvd1QzbFlObG05Q0ZhZ2RNTnNtOWNfbUQ2dFNKOUk5eldIWG1XRFhPX0dtUUN3Z2txTWd5bVJNbzlXRlV1NFhiSlFxd0RZMDBtZFdXWlByaktRYmpidEFUWkFjTC1YdWNVUzVVZUVfYW9tZnVJbmlpaGNUYURPem5jeDRhYVlzbDJ6SmZrQkJ4ekk5bnZCRkhkOF9uRzVBdlhpaXUxNEFydGpxZURVQmZSTnhrd9IB-AFBVV95cUxQYi0ydG40czM1c09nOUZWVmFKcnZnY2IxRVl2Z3FUNzZ5eUx3ZUJjZHZsUnZOSnk5SVFnT3NkdTNDUHllYnR3OUZULUJIN2tLUDdHc283MVB1Xy00Y3V3bFgzLTZWMFo4UlpQcFVGZUxFLWlqTVk0VVJzYUt4bmgwUHhvVUZHeG5uNGRHS1N2YTBDRXBLNWFYYXc3eVkzVEVEaFJ6OVZjQ0tNMzVvc3ZVTzUyc1ZmRHR4SG1VQUpRTy1EZUpEWnp6ME0tSWp2TTVJSWVPTDFTZzF1QVhLRV9CdWRuTjBJQXR6S1lSMGZjTDcwZ1VSTU42RQ?oc=5
-
-- Phone on speaker in train? You may be penalised, jailed - The Times of India
-  Phone on speaker in train? You may be penalised
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTlXU0k5YlZraHA0VTJXaWl4eDQ2WkJlSXpqaG5SMkRXMkI5Qy0zNW5iMHdnankteFpna3BxekliUmZFb3psY1RSM0NvNnRCYUZRS3Bha2NXTVZpUTVPLWpWVnBETHhnQXU4SmV4OGZZSTdrZW1lU2xSSnhWcmxaQ2RScUw0YmRmYWtzNC1RR0RIclNDbXpKU2VhNzdLcS1NZDNmN3JWNW43RXNlQnVrWTdHUFEzUHR10gG-AUFVX3lxTFB5T2NqbklLU0Q1QWNDSEJXaUFmUmlhSEtDSTF3RlZkY2ZIdXExZEcycEt6eEwxNEszX2lSVDFyVmsxRmhiZXRrZFVONHFrdS14UkZiLS1GVkR5SzVRNjhBR0FrLVFIYUxVWDBiOUo4RHFGcnR5RjZLU3hHOUJWa0RidGRVN1REelRXS2dPQnVUQ0tuWklRalBjZkQyOTZqVVlXSGpTOW9uSHl2WG5Edzd6b19NdndNTTliU1hNd1E?oc=5
+- MEA rejects OIC’s ‘anti-India’ references, accuses Pakistan of orchestrating them - The Hindu
+  MEA rejects OIC’s �
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXd2Z0Q3REw2Tk1XVDhnRE4tVDItSnFhMWp5WWVxbXYyOVEyREtldlVIVU9QQmZBazRRaF83amxxVkMzbmpVQ29rWnY5VlJJMG96TDdnaE1oMTVIUk1LSzFuWFhYUFF0eXdqdEZHcXdGQU1sOUJCeDIwOVVFWHd3TnFnV3A2aXNDU29uSG9QeU9qdFhFaFZfaTFlcENMaDNwZ1hMdDdYUjNWTkFqOHJSd0FxZnhTVWlYam5UM1VBZDFkZGpsb1VPZHFjYnFhOVNCWEHSAdgBQVVfeXFMTzM2MTgyTnBrY2VwNGRza01vemVueV9UV3lRMExBZ2lVcVNwbjdPQ2V1YnRLaEU0azZjamtPUTRwRWdlYktZalpBMWJtY2N6QUgtcU9OcXBSQ2EwTEt6VWtlZjBGUjNRTUtPSEstUXNtRFJCcVhCUzlpOUtjQ01ReHRkOG9acVkwTjFqUk4xSHBsVHphaWJmTnVqRXBLSzh4RFVBU1FHUERaekRaRFNTS1d0MEl1aUFFaEQ3OUFXd2JuOWZiVTZLRWJ0V3dzd2YyR2xQUGFBZVA5?oc=5
 
 - India news: CJP alleges 'deliberate' delay in leaders' release - DW.com
   India news: CJP alleges '
   🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ21Rb0JtbDZIaFJXSGd1VDZlcFNDQW5nQ21wWDRWdUpTbTBjOURGOURGaG5ob0pnVlg0MlJMOVpWaXlJX1lXbDMzdndJVEJCWXRFa3MxaHBjR0VfQ1NuLVA2UmJfd1NaOVZlNHVHWnkxZld0SUZUQVdUeG5qZ3V1N1JGY0ctNlFOY2d5SEcyQVpKTnl3RFJvQ2l3?oc=5
 
+- Indian court extends detention of ‘Cockroach’ leaders - Al Jazeera
+  Indian court extends detention of �
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3hIOHpwZHprb0dGM2FxS3F1MkRxOTVrLVFZSjNMZ0VqMV94dlBGbFcxQWFsOG0xZnlLTkFiSExhcXlEMFBtVjhNTzl0Y1h2dGtYMDNTMXR3LXMzSzhsRWlmcHJ2Z1h3b1JSbVV0OXFHVm9nX05zRk9TWkVuNEV2bTdEdERnYkQtT1lqWURMbURCNC1waUZDNdIBngFBVV95cUxQdGJYSjRMU1RUQkh1aTdVMmEzWUNENzV0NWxldHVnaEdXRXNQeTZBY0lDeTM3M2lhNlNJakFxdWJwU05XUF9ZUzhZTG9GSFZlaHhLWjgtaHdkeFVpQnI2QmtCLWI0cjdUWmQ0a1hjZThqcWlpNHB5Q1JOeXZ5QU0zYjJZODBON0JHZEpyNXlYNFhZZVNyX3ltM0tfaG5RUQ?oc=5
+
+- After CJP, New Group Formed In Delhi Names Itself 'Lal Hit Janata Party' - NDTV
+  After CJP, New Group Formed In Delhi Names
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdkpUcTVCeHpVZGE1U0QxSTNUUjNqMzRaS2lBSjk3M19ZZWhTbTFxUkpqcEJRNGFzZ3JhYmVwMnVoMy1wWVhCT0pVaG1MRmJSekd5czBzZk5qU0RGOHpBYmM1TkdVZFA5YXJJMnJjVHc5UWFUaDJrMDRSTWs1czVVX0Jad0Z1SUU3TmJoeEtvQkl0ZGNoTWFfRjJ0MDBqRlUtQUczaHEzd0xXbXhFZWJJ0gG3AUFVX3lxTE5DSTVoekphTWtRV1o4NnFfQ25sNElpc2NmU3FjODAwaTVXYXUzMVB2LXk0TEVhcGUtTXBScHRhZTJEYmxIOUphX1dSOFdpT3lwUVpqbE9HbTBCZ0dlUHVBeGtvZ0hEcUNaQzNSNl84aV9nYXVFVkstMHdOYzVDWm43UHFTN3k3RjdOd3ZDbHBIcWJHanpMd0lxYlVIYlU2VmhGMmdiWU10Y1daSFRWbTlTbUpBNzBrOA?oc=5
+
+- Marco Rubio To Begin 3-Day India Tour Today, Will Honour 26/11 Victims - NDTV
+  Marco Rubio To Begin 3-Day India Tour Today
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzQ4bjRTWVdXS2o5Z0g1QmlzQWk1dW5OY1JzcXo1VHVOT2QxMi10d29Fc216VFBid0dYdTFac1hlOFpXRm92bUpHM2NFbU1Ed2RyblhSSFFRalhwTDNnaXN2RUd1SGFYUGxwR0xkZlVPUk1sbEs2Y3FGNko0T1ltVzVLUXdlbHpqT1dNQmFrTkx5a2lEanZmNmVfeS16UE9iQV9TcTBEVjZCbE92UC000gG3AUFVX3lxTE1fNWU4OTlBOHdYX1l6cTFfX1phLVBOc0tqRi1pUjNvWnJsNmxoWnliSDBscG9uQVNKZVlJTFdNaE0tYkp5NUwtNXdVanVBOXh4VjFRclFMY2xEVzJJb2h5TXdRcFdoQnlLWW9KWlRjTUc0TXUwdFlKdFRNQ0VpTFMwWTdXMTdKX3NoMk9iRUlUbVRqRTlJemYtYmo5RTRNdnVLUlJwY0lKSTB1WmZJWE95dXJYX09udw?oc=5
+
 - India’s L&T Technology expects robust second half as deals ramp up; quarterly revenue rises - Reuters
   India’s L&amp;T Technology expects robust
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPYUNEaVRFR2NFYXo2YjMyb2NpMjBBaDNKNTZ2X1VycTNjRTZsVW80WmZGdUJpT1diZ2JoTGdTaGxMUjIxZGhhRUtHNzFFWnJhV1JrZjZIRlc2RGd2QW5zZXBlQUU0WS1DNWoyck4zTi1rT2I1QWhEdDZRajJfU1pvS2FLdURRLUd4X2hoZjZ1d2R1QV9GNkJFMVdZanFmVnJyMmw4NXlXZHNtOVJBcEkwNkJvVUItMk9SY19hdURFSWRmWnhTdGc?oc=5
 
-- Can technology prevent the next stampede? Inside the crowd-monitoring tools India needs - The Times of India
-  Can technology prevent the next stampede? Inside the crowd-monitor
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMWpvTk00dmlEeGRDWUd5M3dWSDAtNk9aeW9uMTBzVkgzblpNZFFQRUpBb0UzR0lkX3BIRk5qbVNDdDhTdDdZTGI0MnBSZC1aWDRacU9leTJHRzBRcU1DRE5JOFU3UUdXbkNkUUVHSmdxeFZ6TE5Gdmh2Uk9XT0JCWXp5S25LS1UzMG9MWEc1R25rVHFWaGg3SC02SFF1eFd6bEJBbEZJcURxTXA0dnFSY2xxc0JIMWwyejB5SlFOeXVQRnBTMFR4YjVmcE1nNFRFMzAxdHF2VFI4TVVWdmNJOVNROFpOYWc5YURMZzd6VFY?oc=5
+- US bans DeepSeek AI from government use as tech tension with China continues - BBC
+  US bans DeepSeek AI from government use as tech
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?oc=5
 
-- Sony Introduces True RGB Technology Backed by RGB Backlight Master Drive Pro in India with Launch of BRAVIA 9II and BRAVIA 7II - TheWire.in
-  Sony Introduces True RGB Technology Backed by RGB Backlight Master Drive Pro in India.
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdjhybE1ySzladUk2MWRyMmp1Vno2aGRuSWZzbzZqR0Y3WVB3bk9OMnNDSmFmSFQwNjZDeUFQVThtVnhsYkVRTkRrWTc3SGwtR0hYM3J1WndOeElLWFZoWnVYejFQLXZIR1V0YU4xeTJobU5lelktNzkwT09TS2FzUTE0NzRJQ2ZaVjltbnk4OGFpRkdodmxnNFpwY3U3b3g5eGd1NnJDQW9sN3BKSXVOOTFGbGp4cDh1YUFPYjFfWDJQbndUdElOeTA2Wk5XRVNwQjVlNnhEaU1NR1VFbUQyUHpjSzVCUXZBNUJ4amlNdUZ5alIxRFg3c9IB_gFBVV95cUxNbHk4UFROVnpWX2ZsRk4xRnBFcjJ6QU8yWUs4VmNDNzdvekVTdFNacTl5ZW44VE5PREh3Q0syRHBqT0FrT2YxZkw0Vy1KVWk1WFV0b21VNklOX1JPdVdVMDRGZkVZQ3JFRmdFR1BOTmd2U2N2ODZZdnBnZzdWSEFadWh0aTVxY05wYUNCd3VxLU9GcVBQNGViV3dBVjVkT05rb1FhdnVmSC1vaFlOUTQ5VlBMcndaS09Ya2Q1Vjg5LXBETDNkVUdabmgwWHRqX3FWYlYxSHFjc2xwU04tVUt1TDFGREo3cFE0Ql9UNHlXOWJyOHczR3RmdVBOSGtpQQ?oc=5
+- Call for Papers: National Conference on IP Law, AI & Technology | SCC Times - SCC Online
+  Call for Papers: National Conference on IP Law, AI & Technology
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTWVodzhPN0FOUjhOTG1GZUVydWVCYmwxMHZvUmNybUNrazN2N19zVjNiYzZVMUlwRzN1SG5rZE5sN2J5eU1TYjlFWlFjQWFra0F4aE5rbGR3SXk1U0xqd1Bydmw2X1M1aGpTTnNyanBSdkhrX1dxZUV1QjdzMld6bUpySE5MNkpZVVF2Y0pXV1lzY3d2SEVjTWhrajc4alpXLU5kNXBST1dEWjJ2TTd0UU1vYVZ1TmlITlBqcUxxQzQtVnRBYjBLWFNaSFJadTdEa2c?oc=5
 
-- Why is Seagate Technology stock rallying today? By Investing.com - Investing.com India
-  Why is Seagate Technology stock rallying today
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1BpQi0zRm5RSlpuck1Sc3RLTklEb3BFQmZHTF9ILXgzanprajRCT0xBWUxVaC1yWVdnU0pOOTZ3aWpBNnFhdGZ2czU5UWJqWXlWX0kwOWNNN2M0SlFhc2k0RXBCb1NGUFZnLWxWNWtZVWF3Qk1jMTc4c0xzaWx1R3dOWnJoQmtILTZIZm9EUVZRbFM5d1BqeEc1ZFo1LTl5LVhONHZhU0tfMlk?oc=5
+- Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal - Bloomberg.com
+  Nscale, Anthropic in Talks for
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPM1lSczhESmRndWxlZjZIbWhtVS0zZXBjS2Z2Qi12ZVIwcXR0c2lZTWNSYjQxc2lTUnBGaEVBQWZpbUFhNUxQcUhNeVByZVFPQ0hJbm52TVVrX2c0WFFaMDJHSjktNHV3VFVhcDZoY2Ewc1Q4Yks2N0FTek1HR0lYYVoxV0ZYb0Y0c2RmUUtRdVlSbDRNYWJvcm5PeFdqQkVOeFVfQ1RMZTZTeGtzcDFR?oc=5
 
-- Lummus Named Technology Licensor of the Year for Third Consecutive Year - PR Newswire
-  Lummus named Technology Licensor of the Year
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTU1RFVTSEdhY3ZnajROd3JabmZoYzhIblZWTUNHSWJYbndMbG9fSHBDV05tNWlvbDRrOU4zZlNzaDMweFRaSHJ2OUItWkNWaDFxZWR0cmFweTkxdkU3TTV6RGJGbEJxQkVsREZXLVllZ3JTVVlkZGdHYXFXNFkySjJrR293YjRPb0xEaENHVll4Z0FCcnNPQjJxSU5tQURxa3E2RkoxUlhKdW01aVRvM2ZLRW02Z3NyemZIMUU1RXd0akw3X1E?oc=5
+- Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff - The Guardian
+  Calls to strengthen workplace privacy in Australia as employers turn to AI to
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHQyU0IxNm5lcmVEY1piUS0wM0FheUFjeTlBZmh1d3FjanlJRWFVNTU1RWJPR1l1elFvY2swNWhkUVUtZ1h6R3hkUEFIWm8xMEYzY1QzcUtaRC1hdUdWaXlydzFhQXhjWTNhbURTT0QtSWRvQVdvS0ZVQVB1OUs2aE1YaUtxZExxc0liVmMwR3BFYkcyWDNtZjhSTmNialJsdFdDMWF4QzRyczkzY3dwXw?oc=5
 
-- 'Indian startup ecosystem is on steroids' - Anand Mahindra shares what excites him most, says my salute to them
-  Anand Mahindra praised India’s startup ecosystem, highlighting companies including Ethereal Machines, Pranos Fusion Energy and Scimplify. He said
-  🔗 https://www.livemint.com/companies/start-ups/indian-startup-ecosystem-is-on-steroids-anand-mahindra-shares-what-excites-him-most-says-my-salute-to-them-11792424404226.html
+- How the Polycab case exposes the misuse of IBC for small dues
+  Insolvency proceedings over minor vendor claims can exert commercial pressure on financially sound companies. Courts warn against using
+  🔗 https://www.livemint.com/companies/polycab-insolvency-apex-court-creditors-listed-companies-bankruptcy-debt-recovery-11792398289181.html
 
-- Bajaj Finance to shrink lending to reckless borrowers
-  Bajaj Finance is halving the share of new loans to customers with three or more lending relationships
-  🔗 https://www.livemint.com/companies/bajaj-finance-to-shrink-lending-to-reckless-borrowers-non-bank-lender-loans-11792422514442.html
+- California settles 23andMe data breach claims for $6 million
+  California settles 23andMe
+  🔗 https://www.livemint.com/companies/california-settles-23andme-data-breach-claims-for-6-million-11792443340273.html
 
-- Who earned  ₹1 cr per annum salary while many got layoffs? These job professionals got pay package in 8 figures amount
-  The report identifies four major areas where specialised skills are attracting higher pay
-  🔗 https://www.livemint.com/companies/who-earned-rs-1-cr-per-annum-salary-while-many-got-layoffs-these-job-professionals-got-pay-package-in-8-figures-amount-11792424674850.html
+- Why is Amazon threatening to axe 5,000 delivery jobs over Zohran Mamdani’s labour law in New York? What govt can do
+  Amazon has warned that it could cut over 5,000 delivery jobs and close 15 New York City facilities if Mayor Zohran Mamdani’s proposed Delivery Protection Act becomes law. The bill would
+  🔗 https://www.livemint.com/companies/why-is-amazon-threatening-to-axe-5-000-delivery-jobs-over-zohran-mamdani-s-labour-law-in-new-york-what-govt-can-do-11792425972957.html
 
-- UltraTech flags prolonged cost pressure as West Asia crisis keeps fuel prices volatile
-  UltraTech's experience bodes ill for smaller rivals, as the
-  🔗 https://www.livemint.com/companies/company-results/ultratech-cement-q2-results-2026-27-review-11792417050585.html
+- Walmart seeks $2.5 billion from US bond sale, weighs first Canadian-dollar offering
+  Retail giant attracts over $14 billion in demand for US debt as spending
+  🔗 https://www.livemint.com/companies/news/walmart-seeks-2-5-billion-from-us-bond-sale-weighs-first-canadian-dollar-offering-11792433481821.html
 
-- Tata Trusts files response to Venu Srinivasan, Vijay Singh's complaints before Maharashtra Charity Commissioner
-  Srinivasan and Singh lodged their complaints on September 25, seeking an inquiry into the trust's administration and governance
-  🔗 https://www.livemint.com/companies/news/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-before-maharashtra-charity-commissioner-11792421180847.html
+- Vinted Cracks Down on Looted Goods After French Riots
+  Vinted has seen an influx of listings suspected to contain looted items. The secondhand online marketplace counts France as one of its largest
+  🔗 https://www.livemint.com/companies/vinted-cracks-down-on-looted-goods-after-french-riots-11792434949028.html
 
-- Eyes on Wall Street: General Motors shares in focus ahead of 3rd quarter results - Key factors investors should watch
-  General Motors shares fall 1.86% ahead of October 20 earnings
-  🔗 https://www.livemint.com/market/stock-market-news/eyes-on-wall-street-general-motors-shares-in-focus-ahead-of-3rd-quarter-results-key-factors-investors-should-watch-11792427935997.html
+- Reliance Jio IPO review: Apply or not? Bid now or buy shares post NSE, BSE debut? Check GMP, listing price prediction
+  The Jio Platforms IPO is attracting a strong grey market premium (GMP) ahead of
+  🔗 https://www.livemint.com/market/ipo/reliance-jio-ipo-review-apply-or-not-bid-now-or-buy-shares-post-nse-bse-debut-check-gmp-listing-price-prediction-11792461309554.html
 
-- PhonePe rebrands stock broking platform Share.Market as PhonePe Invest, offers smart tools for investors
-  The company launches Portfolio Optimiser to empower new-to-market investors
-  🔗 https://www.livemint.com/market/phonepe-rebrands-stock-broking-platform-share-market-as-phonepe-invest-offers-smart-tools-for-investors-11792406855628.html
+- Expert view: A relief rally toward 23,800–24,200 possible; FPIs may return if dollar, bond yields peak, says Rahul Ghose
+  Octanom Tech CEO Rahul Ghose expects the Nifty to end the year lower. Oversold conditions could fuel a relief rally to 23,800–24,200. Ghose says foreign investors are unlikely
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-a-relief-rally-toward-23-800-24-200-possible-fpis-may-return-if-dollar-bond-yields-peak-says-rahul-ghose-11792461311690.html
 
-- Jio Platforms IPO: Should you subscribe? Anand Rathi sees long-term potential in AI, reasonable valuations
-  Anand Rathi recommends subscribing to Jio Platforms’ upcoming issue for the long term. The brokerage cites its market leadership, integrated digital ecosystem and growth prospects.
-  🔗 https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-should-you-subscribe-anand-rathi-sees-long-term-potential-in-ai-reasonable-valuations-11792414820060.html
+- Indonesia to Remove Tightly Held Stocks From Key Index
+  Indonesia will remove stocks with concentrated ownership from its benchmark equities index. The move is the latest effort
+  🔗 https://www.livemint.com/market/indonesia-to-remove-tightly-held-stocks-from-key-index-11792461519157.html
 
-- What’s wrong with Indonesian stock market? Why it lost nearly 40% in a year and can Jakarta win back investors? Decoded
-  Indonesia's stock market has lost nearly 40% this year. MSCI warned it could downgrade the country to standalone status. Move risks billions in foreign outflows.
-  🔗 https://www.livemint.com/market/whats-wrong-with-indonesian-stock-market-why-it-lost-nearly-40-in-a-year-and-can-jakarta-win-back-investors-decoded-11792416925940.html
+- Global markets today: GIFT Nifty, Nikkei 225, Kospi slide on Tuesday, 20 October | Nasdaq, S&amp;P, DJIA rise up to 1%
+  South Korea's Kospi plunged 3.5% at the opening bell, extending losses in semiconductor stocks and trimming its 2026 gains.
+  🔗 https://www.livemint.com/market/stock-market-news/global-markets-today-gift-nifty-nikkei-225-kospi-t-slide-on-tuesday-20-october-nasdaq-s-p-djia-rise-up-to-1-11792458344691.html
 
-- Diwali Muhurat trading 2026: NSE declares date, time for special trading session. Details here
-  BSE and NSE will hold Muhurat Trading on Sunday, November 8, 2026. Diwali session spans multiple market segments and marks the start of the
-  🔗 https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-nse-declares-date-time-for-special-trading-session-details-here-11792417487197.html
+- Top stocks to buy for short term: Just Dial, BSE, Orient Hotels - Target price, stop-loss by Anand Rathi's expert
+   Analyst Jigar S. Patel recommends avoiding panic and buying dips. He identifies technical setups in Just Dial, Orient Hotels and BSE
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-just-dial-bse-orient-hotels-target-price-stop-loss-by-anand-rathis-expert-11792400725179.html
+
+- Nvidia CEO urges German manufacturers to adopt AI, saying digital tech wont replace heavy industry
+  N Nvidia CEO urges German manufacturers to adopt AI.
+  🔗 https://www.livemint.com/technology/nvidia-ceo-urges-german-manufacturers-to-adopt-ai-saying-digital-tech-wont-replace-heavy-industry-11792438242410.html
+
+- Ex-OpenAI worker accused of bugging conference room planned to fly to Saudi Arabia, prosecutors say
+  Ex-OpenAI worker accused of bugging conference
+  🔗 https://www.livemint.com/technology/exopenai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say-11792434282034.html
+
+- iPhone 18 Pro vs Sony ZV-E10 II: Which should you buy for photography and content creation? All features explained
+  The iPhone is portable and simple to use, with versatile built-in cameras. Sony offers more control over lenses, depth of field and image character.
+  🔗 https://www.livemint.com/technology/iphone-18-pro-vs-sony-zv-e10-ii-which-should-you-buy-for-photography-and-content-creation-all-features-explained-11792433025076.html
 
 - AI agents can pose insider security risks even without being hacked: Microsoft
   Artificial intelligence (AI) agents deployed within companies could pose significant internal security risks even without being compromised by hackers. Microsoft has called for continuous monitoring of autonomous
@@ -88,84 +100,76 @@
   The iPhone Duo sold out within minutes of preorders opening. Online orders facing waits until January 2027. Compared with the iPhone 18 Pro Max, it offers a larger foldable display.
   🔗 https://www.livemint.com/technology/iphone-duo-vs-iphone-18-pro-pro-max-check-price-camera-features-battery-and-display-differences-11792421908026.html
 
-- WhatsApp tests new Android navigation bar design: What is changing and how will it help users?
-  The upcoming user interface may replace the pill-shaped highlight with a green circle
-  🔗 https://www.livemint.com/technology/apps/whatsapp-tests-new-android-navigation-bar-design-what-is-changing-and-how-will-it-help-users-11792416087282.html
+- Stock futures rise slightly after tech shares rebound to start the week: Live updates - CNBC
+  Stock futures rise slightly after tech shares rebound to start the week.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBBY1V6N2VkbVphNU1oUUROTEx2aUtNQk9XeDl3SlRyUGlmWWFNX3B1NjU0SXB6Z08zeldvRW8tZVdWQ3lxRnNGelJSdURXdHdEQ0lRTllocmNfS1BkX2lDalYzS1AySDNUNk5Rc2tDbk1SdVZsbHRj0gF8QVVfeXFMUDhUeVpneWk2eWtPSVpkcE5EY3pZeV92cG9CZFpwaDVrT09sY2Y1VTVNc2VfcWNid29pZ2RzNTYwY3VWQkx2X2h3ZlUzQWRPXzlpWWotY0ZkM184THhJNkxhYTJHNVRvZ3hESG4wZGVna25sWEU0UDZBZnpqRw?oc=5
 
-- Best smartphones under  ₹45,000: Top picks from OnePlus, Vivo, Samsung, Motorola and Nothing
-  The article highlights mid-range options available for around ₹45,000 in India. We compare models from OnePlus, Motorola
-  🔗 https://www.livemint.com/technology/best-smartphones-under-45-000-top-picks-from-oneplus-vivo-samsung-motorola-and-nothing-11792415900403.html
+- Asian shares tumble, oil rises as markets await AI sector results - Reuters
+  Asian shares tumble, oil rises as markets await
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5
 
-- Apple iPad A16 gets a price cut on Amazon: How to buy it for under  ₹43,250 during the Great Indian Festival 2026
-  Amazon is offering a bank discount of  ₹2,750, in addition to a price reduction of more than  ⁹3,
-  🔗 https://www.livemint.com/technology/apple-ipad-a16-gets-a-price-cut-on-amazon-how-to-buy-it-for-under-43-250-during-the-great-indian-festival-2026-11792414380848.html
+- Stock Market Holiday Today: Are NSE, BSE, Banks Open On October 20? - NDTV
+  Stock Market Holiday Today: Are NSE, B
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQajFWMUFtNV9YcE8xNmE0WFg3VXhiU19PV25ic1VjTmhfemhfZGFlZHRiaGcxSmYzd1JXamtncUhaSFlIYTdjWG5mckoyWEJ6cUVlVUZ4R0szMlppcHRPOUg3MDFGOHBERE96X19nY1VWd1g4RFpvWUYxd3N1dlRURlFIZTY1SDk2TFQ4WjRaeXJNd0taSnIwR3JCcUJ1aGFCNGNLS2xPeDcwbThjS1JLdTVHbW95SWo4UHBPQ0d30gHGAUFVX3lxTE9rdnVpOXM3cWRxWk5aWnUyRTNyb2NmUmNVeE40VWFiMmswOEZEMmJZQmRaZjVMeTlBWUJzT1k2UTRRLXNMVFA0ejJQaGVNMEpoR2ttMWoweTVNMjVwNXRqdV9FN2JmNUJIN0t3UWE0eHJsOHFMSDVEOEdKR0tKMjRsOTJRT3hqblJQVGdYbW5oOVJPaE5FTXhGTDlhM1RGaHctajg4aHBLcmFnQXNRNDVGR1pERFdxeEEwa2h6a25rU0NHdU5xQQ?oc=5
 
-- Stock Market Today: Nasdaq Rebounds at Open After Friday's Tech Selloff — Live Updates - WSJ
-  The Nasdaq rebounded at Open after Friday's tech sell
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPQW5PbUNuOElWRFZfcEhudE04Q0dZTzNGZzJ0QmJBejY0MG1JSlg4ZXM2WVB6QzdwQnlSS3l3VS1acGhkUjAzUUVVMnpMdUdKRzVZXzBwaFZ5bGlaT1pWMk1iME1ZZ2Zseks2QjVxS25KYXVUa3JmU0tNdUxEaWVpemo5MWNQZWM?oc=5
+- Stock market holiday on Dussehra: Are NSE, BSE, MCX open or closed for trading on October 20 - The Times of India
+  Stock market holiday on Dussehra: Are NSE, BSE, MCX
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQV2lhaUhXMWt4MEVJYmc4bWNFLThDY25IaG1KeHRjOVJocFpQSGJ3RzFMZ0lwQ3RueEg1ajN4ZHdtQmw5U25RT2p3U3NXRkxSekcwbVNjZTlKamoyRC1sMkhIZXluV2VYNHd1UmtxNUthaldiZkdMQ29pRl92M3ZEdENMaDN0RFZ2cXBGRnAtNl96dmR5cXllTjFhQVFoR1EzTlgwUkNQSHVEOEhENi1NV0lFRFh3bHFoM2pjREZpcDM2TTZnMEgzcG1DY29kajlobV9HSHB0dW1iUTRPa2plcVU4S0NyemdCMGVrZVNmb3lKMGJwMEdHbzhuc3JCS2VUTXN1cG9B0gGLAkFVX3lxTE85RlNCSVRvN1NvZ0g2VnMwUzNISlBMcE1BUXM3X25jYVFxenlvdV9uT3p1dFJHMGtMUlhlekJnRWVJcWhGeVdHNzVRQUdzMDZyOE1rd05Tb242a2NYTVJyUUVTb3U4Mk5qME1MLW9Ka2V0OFlyaDJuQmxDcDBBQkItTEN4c2RxN09Yd0JhZXBVd0NKUFZZNWtEakF0Q3VCVVRTZE5YSEpKTWVuZ0tYMHZGSnZKWTFveEVRa3N1dnVaTlREd3RCUm03ZEM5NzgySDVmMFQyYkk3eTBzXzJ2VTM3Qmhlb2RlY1ZMd3VYMkc3YVBrRTJSRkhhZDM5U1pOSkNXZW9QczJPZ2lESQ?oc=5
 
-- Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap - Bloomberg.com
-  Nasdaq 100 Climbs on AI Trade
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5
+- Stock Market Holiday 2026: Is stock market closed today for Dussehra? Check remaining holidays for the yea - The Economic Times
+  The Economic Times reported that the stock market closed today for Dussehra. The
+  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxNSmw0bGhrV0NjZWVJTzZ1TXRvNmdtaXN2MjU4TFh4NEhNckdsaGFHNWsyQncwV196MDU1U01kb2RnZlB2c2lPQnBwMkFQbjZDVVZiNzZJd2dZNDVHX3A0VzFwVmU4dWxxcnNOUGpvQXlQZy1ybmlidXAxYkFaU3FfZ0poUGRlSkNsOWxLVHIybjVNQjluYWtPdjRMdGRMdzhDZGJPWnZlWjdNel9ucDI1T2FBZW9fTnV6UGZBejRLTF9wX1F2NkJseW1ReXpEcTVBZUpOQ2Z3MGZfTnhneVFZXzVmMGtEVUsxcFRDZFB0aGtoS2Nvd1ZCTk5lM18ydnRVdWVvNzdjNVRZT291eWRLakRDLTIwYTjSAZACQVVfeXFMT2NJblN2Y0ZkNmVLNVRLc19BV3V5Rm5sWmpOTEp4R095d3ZpNWRLbmZlRkdUNWZGVnBVa0MzYzYtMFJSZ1hYVEV6X2U0OFMtdUNRdmlKVG5lZm1hWkszQU1zSWJER3ZBUmhGaS0yU1Z0NFppdm1OWE9zSXEwS2l4ZUJnb2tFQnFCaXJvV1U4YnhldktHeGh0OHJ0TlExcVBGR3QwdGtLLVNwY1RtM2dWRFlsLVRJd082dVNzazBnbU5aSWcyemowaGdSdHVoR0p1UHVVeEVhdTZHcnc0c3Y5a0I4c3JDODhvS0x4ak9UekgyMFJjTk1xa0ZlUHk5UmFhajEycVIxT18zSE9KeVVYU0k?oc=5
 
-- Stock Market Today: Nasdaq, S&P 500 Surge After Rough Week as Tech Stocks Rebound - Investopedia
-  Stock Market Today: Nasdaq, S&amp;P
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2hZV25Uc0s5VDI1UlhqV3l1NUVVOW9QV1RHbDlySHRPRG9FdU5DN1htZnlJemJ4TmRtLVRac0Fhc0cwcmJRYVZyRlFEdXd4YXJpZjFUOWgyN2NTMXNkQ3dTeVRfckFpUGxha3BHNzlKZW9BYnRiSWd3Y1FDdmZJdGxuYVhkclB0REl0dUFSMjI?oc=5
+- Stock Market Holiday 2026: Is stock market closed today for Dussehra? Check remaining holidays for the year
+  After the Dussehra holiday, trading will remain suspended on three more occasions over the remaining two months of the year. A total of 16 stock market holidays have been
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms
 
-- Stock market crash today: Sensex plunges over 900 points, Nifty50 below 22,900 - top reasons for fall - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi0AJBVV95cUxQWkZVTHdkeGI4ek1UVHR2Nnd5d0ZMVDZGQVhteW1LcnBaVl8zVDNhcmhodjI2elk2VnlEOWlYc29WdWdpUGd1NWpkOUVoVU9WOEhoYlJ4S3pZaFNWaXhzdmRGam1oYjMyYU
-  🔗 https://news.google.com/rss/articles/CBMi0AJBVV95cUxQWkZVTHdkeGI4ek1UVHR2Nnd5d0ZMVDZGQVhteW1LcnBaVl8zVDNhcmhodjI2elk2VnlEOWlYc29WdWdpUGd1NWpkOUVoVU9WOEhoYlJ4S3pZaFNWaXhzdmRGam1oYjMyYUJ5eFIxYnZ6YlhBSVpua2R1dnZ0bUk1R3MzLXVsazZVbVROUXIyaU5ONWQ2OTBsN3ptamk1eGpjaF9wcXNvUEpULWIzQWpSTVBJVThqNTR3NzU3b0FSUUdKaHRIeE9DZ2RodFdCVEFDeVZEUVhLRFR0SkxFUEcxbHJwOU1VVVZJbEpSa1NuTy1NWkMyY1ZrSnhQRjdxdW5KUzNBc2NPVlNURF9oeFNDVEd2ZFV6ckVRTVROMklQTHFPMWVtZ0J5LUJTMDB2bk1tdlk4YWh5WG5SS0pKaUpMNEg2cWZlVWR0SlBJS2hQUGzSAdYCQVVfeXFMTUt2TjUwU3BGTUZPSHpNbzV3ZkpiYkd6a1RSOW5mYlNHSXhmZ1Q1TENsdTJYVmV4WXhqejJmTUVOU19kUWVfZGhmQkUxYTlWVGcxNnY0ZXp2VTBYb0VVZGNSUXZNTzJvckNIVHlnQWZWZ3pzcXBpeXk2cWdNMW1SbjRxcVVKZ3VoVTlTTVd1THdTNF9LTXNFSHNtOUdyeHR6ZFl5SEVWa1g5WW9HaUkwTUc1S3pyY1B2Y1JkY3dTVVNoaFQ4VVNXMERkVTdSbHNOS1loMEZNNHFzQ0NZM3d1amg5WEFwVXFvdnFLNkZhUlZkaGU2RE4zZWd6eThBMjlRRDRBT2lqR1hhMzhzTGpOQWtUWkU4Z2V2b2UxUHBBVFVJWmoxM21haWtJQzVYWXBtdzktYVRybmpPdDdzQ0ZvQmpWU041ZVJvM1BERGdlSDRsVXJLSDFn?oc=5
+- Oil Price Today (October 20): Crude oil nears $110 again as fresh attacks outweigh easing Russian sanctions. What are experts saying?
+  Brent crude futures gained 21 cents, or 0.20, to $109.76 a barrel. US West Texas Intermediate (WTI) crude futures for November delivery, which expire on Tuesday, rose  0.11
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-20-crude-oil-nears-110-again-as-fresh-attacks-outweigh-easing-russian-sanctions-what-are-experts-saying/articleshow/135059918.cms
 
-- Europe EV sales rose 70% in September, around 30% of market share - Reuters
-  Europe EV sales rose 70% in September, around
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0ctREhXOHRCbnByZlQ4RDNoM051bnJjZzZFSzczeEdGWmFHQXpyV1FLM1dMWGNyQnI1b19XbmJENmQxWUtvdWN2NXlGX09xc3RxVWUxWVlaLVl6dVJqM3lMcWwteUROMnhsZUEzaHZxOTF4RldpZ1RsYTBrRjhNeGI0WUo5MTdaN2taeVR5T2JzSmluejd2aTVJVktpUl8tWXVJ?oc=5
+- Dollar and euro drift, yen slips as markets seek direction
+  The euro was steady at $1.1216, while the British pound rose 0.1%. The Australian dollar was up 0.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-and-euro-drift-yen-slips-as-markets-seek-direction/articleshow/135059705.cms
 
-- Jio IPO: LIC, BlackRock, Fidelity, GIC among 212 anchor investors to pour Rs 8,110 crore
-  The IPO is expected to surpass the previous record held by Hyundai Motor India. Jio Platforms aims to achieve an equity valuation of nearly Rs 10.3 lakh crore.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-lic-blackrock-fidelity-gic-among-212-anchor-investors-pour-rs-8110-crore/articleshow/135053762.cms
+- Gold slips as investors weigh Fed rate outlook
+  Gold slipped in early Asian trade on Tuesday as investors awaited the US Federal Reserve policy decision next week.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-weigh-fed-rate-outlook/articleshow/135059635.cms
 
-- AI stocks rebound as CoreWeave jumps on Goldman Sachs upgrade
-   AI stocks rebound after last week’s sharp selloff, with semiconductor stocks leading the recovery. CoreWeave gains after Goldman Sachs upgrades the stock to buy, while Intel, Nvidia, AMD and Broadcom also
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rebound-as-coreweave-jumps-on-goldman-upgrade/articleshow/135052127.cms
+- Global Market Today: Asian stocks decline in break from US chip rally
+  Losses were led by a more than 2% drop in South Korea’s Kospi Index. Data-center infrastructure company Elice Inc. plunged as much as 32% in its trading debut.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-decline-in-break-from-us-chip-rally/articleshow/135059346.cms
 
-- Ireda net profit grows to Rs 554 cr in Sep qtr
-  Ireda has announced a net profit of Rs 554 crore for the September quarter of FY27. Revenue from operations increased by 14%, totaling Rs 2,345 crore. Loan disbursements surged by 31%, reaching Rs 10,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ireda-net-profit-grows-to-rs-554-cr-in-sep-qtr/articleshow/135051929.cms
-
-- Amazon says its AI chips will work with popular coding language, challenging Nvidia
-  TorchNeuron enables PyTorch code to be executed seamlessly on its Trainium AI chips. Over 30 early adopters have attested to remarkable cost efficiencies.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-nvidia/articleshow/135051867.cms
-
-- Global Markets: French markets tumble as riots add to political crisis
-  The rise in bond yields suggests increasing investor concern over France's budgetary challenges and economic outlook. Major French banks have experienced stock declines, reflecting the heightened risk of insuring French debt.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-markets-tumble-as-riots-add-to-political-crisis/articleshow/135051572.cms
-
-- Why Marco Rubio’s visit to Mumbai has ruffled feathers in India - Al Jazeera
-  Marco Rubio's visit to Mumbai has ruffled
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWlaQ3YxeVktTURYLUNTMkxCRGJxYXhWVnZ4TzJuSTgtQlkySG5uZjMxeXFFMjZWcHFJZ3pibVZOZi1rUjY2OUVZX3VnbXVQeEp0dVpOam8zX1QzTi1ucVFYY1lfWE5UeVNzMkFOUHlFdUJ0QzBlZVVudHRvVkRkN2lWSmlYZWNLNXBmVGdmRnIxZW93RHN3VGhUTzFudDdhd21NNXgzVdIBrAFBVV95cUxOeHk1Z0ZiZ1FFUkZma1M1WkVzeUJ2aFkzMUhsQ1FLVDFLel9uenNybFhLRDU3UFRvUGVtRUN3cEdWMmQ3SnZlUjU2Um8zS1ZtSHFabGg5YnJDT0RObHllTG9QZW9RNXJyMFpNUHFzTDhxM3ZRYkExWEVGNTlXUVU5WmRyWGNUTmNFZ0Rmd2NINlNzWmJTbmxOMFhOSkhjeUN4RmlNX2lpcElVaTB1?oc=5
-
-- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
-  'Not An Ordinary Foreigner': Imran Khan
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnfSAeMBQVVfeXFMUDlzVkVzSVpZTzJULUlUNFctb1NpWUZuVlNiMnYtamc3UWQ2ZDJqZlJ3OVRhRV9VTHhvdEd0YzdDZUpwLVhZcUxnbXJvUkRFeHJxc09HZ3pXTGs0QUgyQ0VONWc5eVB1ZDBGek9oMWt5ZDFfSUhJTUxpeFI3YmFzX0ZFeXo0a3gyMGxMZWR0OV9yUmhtZ2ZNbWZ5ZTNsQUR1S180YmdncnRBVnJRWUpvUi1lOW5hbXFaQnpGTHk0RGJDOGJHRFlRSlkxUWdlcTRISHBhVmFaRHNaMnpTWEE5eGlMNFU?oc=5
-
-- China imposes export controls on tunnel-boring machines sought by India, citing ‘national security’ - The Hindu
-  China imposes export controls on tunnel-boring machines sought by
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa3pjN3pMYlhxc0h0WTVaeVRERzdoRmRWekx2dzB2bVhySmtwaHRfaTV5Sm5nSkIyT0dXOUNQY0RXeWZIektvd1QzbFlObG05Q0ZhZ2RNTnNtOWNfbUQ2dFNKOUk5eldIWG1XRFhPX0dtUUN3Z2txTWd5bVJNbzlXRlV1NFhiSlFxd0RZMDBtZFdXWlByaktRYmpidEFUWkFjTC1YdWNVUzVVZUVfYW9tZnVJbmlpaGNUYURPem5jeDRhYVlzbDJ6SmZrQkJ4ekk5bnZCRkhkOF9uRzVBdlhpaXUxNEFydGpxZURVQmZSTnhrd9IB-AFBVV95cUxQYi0ydG40czM1c09nOUZWVmFKcnZnY2IxRVl2Z3FUNzZ5eUx3ZUJjZHZsUnZOSnk5SVFnT3NkdTNDUHllYnR3OUZULUJIN2tLUDdHc283MVB1Xy00Y3V3bFgzLTZWMFo4UlpQcFVGZUxFLWlqTVk0VVJzYUt4bmgwUHhvVUZHeG5uNGRHS1N2YTBDRXBLNWFYYXc3eVkzVEVEaFJ6OVZjQ0tNMzVvc3ZVTzUyc1ZmRHR4SG1VQUpRTy1EZUpEWnp6ME0tSWp2TTVJSWVPTDFTZzF1QVhLRV9CdWRuTjBJQXR6S1lSMGZjTDcwZ1VSTU42RQ?oc=5
-
-- Phone on speaker in train? You may be penalised, jailed - The Times of India
-  Phone on speaker in train? You may be penalised
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTlXU0k5YlZraHA0VTJXaWl4eDQ2WkJlSXpqaG5SMkRXMkI5Qy0zNW5iMHdnankteFpna3BxekliUmZFb3psY1RSM0NvNnRCYUZRS3Bha2NXTVZpUTVPLWpWVnBETHhnQXU4SmV4OGZZSTdrZW1lU2xSSnhWcmxaQ2RScUw0YmRmYWtzNC1RR0RIclNDbXpKU2VhNzdLcS1NZDNmN3JWNW43RXNlQnVrWTdHUFEzUHR10gG-AUFVX3lxTFB5T2NqbklLU0Q1QWNDSEJXaUFmUmlhSEtDSTF3RlZkY2ZIdXExZEcycEt6eEwxNEszX2lSVDFyVmsxRmhiZXRrZFVONHFrdS14UkZiLS1GVkR5SzVRNjhBR0FrLVFIYUxVWDBiOUo4RHFGcnR5RjZLU3hHOUJWa0RidGRVN1REelRXS2dPQnVUQ0tuWklRalBjZkQyOTZqVVlXSGpTOW9uSHl2WG5Edzd6b19NdndNTTliU1hNd1E?oc=5
+- MEA rejects OIC’s ‘anti-India’ references, accuses Pakistan of orchestrating them - The Hindu
+  MEA rejects OIC’s �
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXd2Z0Q3REw2Tk1XVDhnRE4tVDItSnFhMWp5WWVxbXYyOVEyREtldlVIVU9QQmZBazRRaF83amxxVkMzbmpVQ29rWnY5VlJJMG96TDdnaE1oMTVIUk1LSzFuWFhYUFF0eXdqdEZHcXdGQU1sOUJCeDIwOVVFWHd3TnFnV3A2aXNDU29uSG9QeU9qdFhFaFZfaTFlcENMaDNwZ1hMdDdYUjNWTkFqOHJSd0FxZnhTVWlYam5UM1VBZDFkZGpsb1VPZHFjYnFhOVNCWEHSAdgBQVVfeXFMTzM2MTgyTnBrY2VwNGRza01vemVueV9UV3lRMExBZ2lVcVNwbjdPQ2V1YnRLaEU0azZjamtPUTRwRWdlYktZalpBMWJtY2N6QUgtcU9OcXBSQ2EwTEt6VWtlZjBGUjNRTUtPSEstUXNtRFJCcVhCUzlpOUtjQ01ReHRkOG9acVkwTjFqUk4xSHBsVHphaWJmTnVqRXBLSzh4RFVBU1FHUERaekRaRFNTS1d0MEl1aUFFaEQ3OUFXd2JuOWZiVTZLRWJ0V3dzd2YyR2xQUGFBZVA5?oc=5
 
 - India news: CJP alleges 'deliberate' delay in leaders' release - DW.com
   India news: CJP alleges '
   🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ21Rb0JtbDZIaFJXSGd1VDZlcFNDQW5nQ21wWDRWdUpTbTBjOURGOURGaG5ob0pnVlg0MlJMOVpWaXlJX1lXbDMzdndJVEJCWXRFa3MxaHBjR0VfQ1NuLVA2UmJfd1NaOVZlNHVHWnkxZld0SUZUQVdUeG5qZ3V1N1JGY0ctNlFOY2d5SEcyQVpKTnl3RFJvQ2l3?oc=5
+
+- Indian court extends detention of ‘Cockroach’ leaders - Al Jazeera
+  Indian court extends detention of �
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3hIOHpwZHprb0dGM2FxS3F1MkRxOTVrLVFZSjNMZ0VqMV94dlBGbFcxQWFsOG0xZnlLTkFiSExhcXlEMFBtVjhNTzl0Y1h2dGtYMDNTMXR3LXMzSzhsRWlmcHJ2Z1h3b1JSbVV0OXFHVm9nX05zRk9TWkVuNEV2bTdEdERnYkQtT1lqWURMbURCNC1waUZDNdIBngFBVV95cUxQdGJYSjRMU1RUQkh1aTdVMmEzWUNENzV0NWxldHVnaEdXRXNQeTZBY0lDeTM3M2lhNlNJakFxdWJwU05XUF9ZUzhZTG9GSFZlaHhLWjgtaHdkeFVpQnI2QmtCLWI0cjdUWmQ0a1hjZThqcWlpNHB5Q1JOeXZ5QU0zYjJZODBON0JHZEpyNXlYNFhZZVNyX3ltM0tfaG5RUQ?oc=5
+
+- After CJP, New Group Formed In Delhi Names Itself 'Lal Hit Janata Party' - NDTV
+  After CJP, New Group Formed In Delhi Names
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdkpUcTVCeHpVZGE1U0QxSTNUUjNqMzRaS2lBSjk3M19ZZWhTbTFxUkpqcEJRNGFzZ3JhYmVwMnVoMy1wWVhCT0pVaG1MRmJSekd5czBzZk5qU0RGOHpBYmM1TkdVZFA5YXJJMnJjVHc5UWFUaDJrMDRSTWs1czVVX0Jad0Z1SUU3TmJoeEtvQkl0ZGNoTWFfRjJ0MDBqRlUtQUczaHEzd0xXbXhFZWJJ0gG3AUFVX3lxTE5DSTVoekphTWtRV1o4NnFfQ25sNElpc2NmU3FjODAwaTVXYXUzMVB2LXk0TEVhcGUtTXBScHRhZTJEYmxIOUphX1dSOFdpT3lwUVpqbE9HbTBCZ0dlUHVBeGtvZ0hEcUNaQzNSNl84aV9nYXVFVkstMHdOYzVDWm43UHFTN3k3RjdOd3ZDbHBIcWJHanpMd0lxYlVIYlU2VmhGMmdiWU10Y1daSFRWbTlTbUpBNzBrOA?oc=5
+
+- Marco Rubio To Begin 3-Day India Tour Today, Will Honour 26/11 Victims - NDTV
+  Marco Rubio To Begin 3-Day India Tour Today
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzQ4bjRTWVdXS2o5Z0g1QmlzQWk1dW5OY1JzcXo1VHVOT2QxMi10d29Fc216VFBid0dYdTFac1hlOFpXRm92bUpHM2NFbU1Ed2RyblhSSFFRalhwTDNnaXN2RUd1SGFYUGxwR0xkZlVPUk1sbEs2Y3FGNko0T1ltVzVLUXdlbHpqT1dNQmFrTkx5a2lEanZmNmVfeS16UE9iQV9TcTBEVjZCbE92UC000gG3AUFVX3lxTE1fNWU4OTlBOHdYX1l6cTFfX1phLVBOc0tqRi1pUjNvWnJsNmxoWnliSDBscG9uQVNKZVlJTFdNaE0tYkp5NUwtNXdVanVBOXh4VjFRclFMY2xEVzJJb2h5TXdRcFdoQnlLWW9KWlRjTUc0TXUwdFlKdFRNQ0VpTFMwWTdXMTdKX3NoMk9iRUlUbVRqRTlJemYtYmo5RTRNdnVLUlJwY0lKSTB1WmZJWE95dXJYX09udw?oc=5
+
+- Jio Platforms Raises About ₹8,110 Cr From Anchor Investors
+  Ahead of opening its public issue on Wednesday (October 19), telecom major Jio Platforms has raised ₹8,109.8 Cr from anchor&#8230.
+  🔗 https://inc42.com/buzz/jio-platforms-raises-over-%e2%82%b98100-cr-from-anchor-investors/
 
 - FSSAI Crackdown Continues With Fresh Show-Cause Notices Issued To Zepto, Others
   The Food Safety and Standards Authority of India (FSSAI) has issued show-cause notices to quick commerce unicorn Zepto.
   🔗 https://inc42.com/buzz/fssai-crackdown-continues-with-fresh-show-cause-notices-issued-to-zepto-others/
 
 - Justdial’s Q2 Net Profit Slides 10% YoY To ₹108 Cr Despite 13% Revenue Growth
-  Online classifieds platform Justdial’s net profit for the September 2026 quarter (Q2 FY27) dipped almost 10% to �
+  Online classifieds platform Justdial’s net profit for the September 2026 quarter (Q2 FY27) dipped 9.7% Yo
   🔗 https://inc42.com/buzz/justdials-q2-net-profit-slides-10-yoy-to-%e2%82%b9108-cr-despite-13-revenue-growth/
 
 - [Update] Zetwerk’s IPO Closes With 3.06X  Subscription
@@ -176,49 +180,45 @@
   Curefoods has begun piloting a new budget food delivery service. The cloud kitchen operator is preparing for an IPO.
   🔗 https://inc42.com/buzz/curefoods-pilots-budget-food-delivery-app-megabite/
 
-- [Update] Tonbo Imaging IPO Closes With 135.9X Oversubscription
-  Tonbo Imaging’s ₹852 Cr IPO closed with an oversubscription of 135.9X on the third day.
-  🔗 https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/
-
-- Why Marco Rubio’s visit to Mumbai has ruffled feathers in India - Al Jazeera
-  Marco Rubio's visit to Mumbai has ruffled
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWlaQ3YxeVktTURYLUNTMkxCRGJxYXhWVnZ4TzJuSTgtQlkySG5uZjMxeXFFMjZWcHFJZ3pibVZOZi1rUjY2OUVZX3VnbXVQeEp0dVpOam8zX1QzTi1ucVFYY1lfWE5UeVNzMkFOUHlFdUJ0QzBlZVVudHRvVkRkN2lWSmlYZWNLNXBmVGdmRnIxZW93RHN3VGhUTzFudDdhd21NNXgzVdIBrAFBVV95cUxOeHk1Z0ZiZ1FFUkZma1M1WkVzeUJ2aFkzMUhsQ1FLVDFLel9uenNybFhLRDU3UFRvUGVtRUN3cEdWMmQ3SnZlUjU2Um8zS1ZtSHFabGg5YnJDT0RObHllTG9QZW9RNXJyMFpNUHFzTDhxM3ZRYkExWEVGNTlXUVU5WmRyWGNUTmNFZ0Rmd2NINlNzWmJTbmxOMFhOSkhjeUN4RmlNX2lpcElVaTB1?oc=5
-
-- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
-  'Not An Ordinary Foreigner': Imran Khan
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnfSAeMBQVVfeXFMUDlzVkVzSVpZTzJULUlUNFctb1NpWUZuVlNiMnYtamc3UWQ2ZDJqZlJ3OVRhRV9VTHhvdEd0YzdDZUpwLVhZcUxnbXJvUkRFeHJxc09HZ3pXTGs0QUgyQ0VONWc5eVB1ZDBGek9oMWt5ZDFfSUhJTUxpeFI3YmFzX0ZFeXo0a3gyMGxMZWR0OV9yUmhtZ2ZNbWZ5ZTNsQUR1S180YmdncnRBVnJRWUpvUi1lOW5hbXFaQnpGTHk0RGJDOGJHRFlRSlkxUWdlcTRISHBhVmFaRHNaMnpTWEE5eGlMNFU?oc=5
-
-- China imposes export controls on tunnel-boring machines sought by India, citing ‘national security’ - The Hindu
-  China imposes export controls on tunnel-boring machines sought by
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa3pjN3pMYlhxc0h0WTVaeVRERzdoRmRWekx2dzB2bVhySmtwaHRfaTV5Sm5nSkIyT0dXOUNQY0RXeWZIektvd1QzbFlObG05Q0ZhZ2RNTnNtOWNfbUQ2dFNKOUk5eldIWG1XRFhPX0dtUUN3Z2txTWd5bVJNbzlXRlV1NFhiSlFxd0RZMDBtZFdXWlByaktRYmpidEFUWkFjTC1YdWNVUzVVZUVfYW9tZnVJbmlpaGNUYURPem5jeDRhYVlzbDJ6SmZrQkJ4ekk5bnZCRkhkOF9uRzVBdlhpaXUxNEFydGpxZURVQmZSTnhrd9IB-AFBVV95cUxQYi0ydG40czM1c09nOUZWVmFKcnZnY2IxRVl2Z3FUNzZ5eUx3ZUJjZHZsUnZOSnk5SVFnT3NkdTNDUHllYnR3OUZULUJIN2tLUDdHc283MVB1Xy00Y3V3bFgzLTZWMFo4UlpQcFVGZUxFLWlqTVk0VVJzYUt4bmgwUHhvVUZHeG5uNGRHS1N2YTBDRXBLNWFYYXc3eVkzVEVEaFJ6OVZjQ0tNMzVvc3ZVTzUyc1ZmRHR4SG1VQUpRTy1EZUpEWnp6ME0tSWp2TTVJSWVPTDFTZzF1QVhLRV9CdWRuTjBJQXR6S1lSMGZjTDcwZ1VSTU42RQ?oc=5
-
-- Phone on speaker in train? You may be penalised, jailed - The Times of India
-  Phone on speaker in train? You may be penalised
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTlXU0k5YlZraHA0VTJXaWl4eDQ2WkJlSXpqaG5SMkRXMkI5Qy0zNW5iMHdnankteFpna3BxekliUmZFb3psY1RSM0NvNnRCYUZRS3Bha2NXTVZpUTVPLWpWVnBETHhnQXU4SmV4OGZZSTdrZW1lU2xSSnhWcmxaQ2RScUw0YmRmYWtzNC1RR0RIclNDbXpKU2VhNzdLcS1NZDNmN3JWNW43RXNlQnVrWTdHUFEzUHR10gG-AUFVX3lxTFB5T2NqbklLU0Q1QWNDSEJXaUFmUmlhSEtDSTF3RlZkY2ZIdXExZEcycEt6eEwxNEszX2lSVDFyVmsxRmhiZXRrZFVONHFrdS14UkZiLS1GVkR5SzVRNjhBR0FrLVFIYUxVWDBiOUo4RHFGcnR5RjZLU3hHOUJWa0RidGRVN1REelRXS2dPQnVUQ0tuWklRalBjZkQyOTZqVVlXSGpTOW9uSHl2WG5Edzd6b19NdndNTTliU1hNd1E?oc=5
+- MEA rejects OIC’s ‘anti-India’ references, accuses Pakistan of orchestrating them - The Hindu
+  MEA rejects OIC’s �
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXd2Z0Q3REw2Tk1XVDhnRE4tVDItSnFhMWp5WWVxbXYyOVEyREtldlVIVU9QQmZBazRRaF83amxxVkMzbmpVQ29rWnY5VlJJMG96TDdnaE1oMTVIUk1LSzFuWFhYUFF0eXdqdEZHcXdGQU1sOUJCeDIwOVVFWHd3TnFnV3A2aXNDU29uSG9QeU9qdFhFaFZfaTFlcENMaDNwZ1hMdDdYUjNWTkFqOHJSd0FxZnhTVWlYam5UM1VBZDFkZGpsb1VPZHFjYnFhOVNCWEHSAdgBQVVfeXFMTzM2MTgyTnBrY2VwNGRza01vemVueV9UV3lRMExBZ2lVcVNwbjdPQ2V1YnRLaEU0azZjamtPUTRwRWdlYktZalpBMWJtY2N6QUgtcU9OcXBSQ2EwTEt6VWtlZjBGUjNRTUtPSEstUXNtRFJCcVhCUzlpOUtjQ01ReHRkOG9acVkwTjFqUk4xSHBsVHphaWJmTnVqRXBLSzh4RFVBU1FHUERaekRaRFNTS1d0MEl1aUFFaEQ3OUFXd2JuOWZiVTZLRWJ0V3dzd2YyR2xQUGFBZVA5?oc=5
 
 - India news: CJP alleges 'deliberate' delay in leaders' release - DW.com
   India news: CJP alleges '
   🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ21Rb0JtbDZIaFJXSGd1VDZlcFNDQW5nQ21wWDRWdUpTbTBjOURGOURGaG5ob0pnVlg0MlJMOVpWaXlJX1lXbDMzdndJVEJCWXRFa3MxaHBjR0VfQ1NuLVA2UmJfd1NaOVZlNHVHWnkxZld0SUZUQVdUeG5qZ3V1N1JGY0ctNlFOY2d5SEcyQVpKTnl3RFJvQ2l3?oc=5
 
-- Why Marco Rubio’s visit to Mumbai has ruffled feathers in India - Al Jazeera
-  Marco Rubio's visit to Mumbai has ruffled
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWlaQ3YxeVktTURYLUNTMkxCRGJxYXhWVnZ4TzJuSTgtQlkySG5uZjMxeXFFMjZWcHFJZ3pibVZOZi1rUjY2OUVZX3VnbXVQeEp0dVpOam8zX1QzTi1ucVFYY1lfWE5UeVNzMkFOUHlFdUJ0QzBlZVVudHRvVkRkN2lWSmlYZWNLNXBmVGdmRnIxZW93RHN3VGhUTzFudDdhd21NNXgzVdIBrAFBVV95cUxOeHk1Z0ZiZ1FFUkZma1M1WkVzeUJ2aFkzMUhsQ1FLVDFLel9uenNybFhLRDU3UFRvUGVtRUN3cEdWMmQ3SnZlUjU2Um8zS1ZtSHFabGg5YnJDT0RObHllTG9QZW9RNXJyMFpNUHFzTDhxM3ZRYkExWEVGNTlXUVU5WmRyWGNUTmNFZ0Rmd2NINlNzWmJTbmxOMFhOSkhjeUN4RmlNX2lpcElVaTB1?oc=5
+- Indian court extends detention of ‘Cockroach’ leaders - Al Jazeera
+  Indian court extends detention of �
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3hIOHpwZHprb0dGM2FxS3F1MkRxOTVrLVFZSjNMZ0VqMV94dlBGbFcxQWFsOG0xZnlLTkFiSExhcXlEMFBtVjhNTzl0Y1h2dGtYMDNTMXR3LXMzSzhsRWlmcHJ2Z1h3b1JSbVV0OXFHVm9nX05zRk9TWkVuNEV2bTdEdERnYkQtT1lqWURMbURCNC1waUZDNdIBngFBVV95cUxQdGJYSjRMU1RUQkh1aTdVMmEzWUNENzV0NWxldHVnaEdXRXNQeTZBY0lDeTM3M2lhNlNJakFxdWJwU05XUF9ZUzhZTG9GSFZlaHhLWjgtaHdkeFVpQnI2QmtCLWI0cjdUWmQ0a1hjZThqcWlpNHB5Q1JOeXZ5QU0zYjJZODBON0JHZEpyNXlYNFhZZVNyX3ltM0tfaG5RUQ?oc=5
 
-- 'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice - NDTV
-  'Not An Ordinary Foreigner': Imran Khan
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnfSAeMBQVVfeXFMUDlzVkVzSVpZTzJULUlUNFctb1NpWUZuVlNiMnYtamc3UWQ2ZDJqZlJ3OVRhRV9VTHhvdEd0YzdDZUpwLVhZcUxnbXJvUkRFeHJxc09HZ3pXTGs0QUgyQ0VONWc5eVB1ZDBGek9oMWt5ZDFfSUhJTUxpeFI3YmFzX0ZFeXo0a3gyMGxMZWR0OV9yUmhtZ2ZNbWZ5ZTNsQUR1S180YmdncnRBVnJRWUpvUi1lOW5hbXFaQnpGTHk0RGJDOGJHRFlRSlkxUWdlcTRISHBhVmFaRHNaMnpTWEE5eGlMNFU?oc=5
+- After CJP, New Group Formed In Delhi Names Itself 'Lal Hit Janata Party' - NDTV
+  After CJP, New Group Formed In Delhi Names
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdkpUcTVCeHpVZGE1U0QxSTNUUjNqMzRaS2lBSjk3M19ZZWhTbTFxUkpqcEJRNGFzZ3JhYmVwMnVoMy1wWVhCT0pVaG1MRmJSekd5czBzZk5qU0RGOHpBYmM1TkdVZFA5YXJJMnJjVHc5UWFUaDJrMDRSTWs1czVVX0Jad0Z1SUU3TmJoeEtvQkl0ZGNoTWFfRjJ0MDBqRlUtQUczaHEzd0xXbXhFZWJJ0gG3AUFVX3lxTE5DSTVoekphTWtRV1o4NnFfQ25sNElpc2NmU3FjODAwaTVXYXUzMVB2LXk0TEVhcGUtTXBScHRhZTJEYmxIOUphX1dSOFdpT3lwUVpqbE9HbTBCZ0dlUHVBeGtvZ0hEcUNaQzNSNl84aV9nYXVFVkstMHdOYzVDWm43UHFTN3k3RjdOd3ZDbHBIcWJHanpMd0lxYlVIYlU2VmhGMmdiWU10Y1daSFRWbTlTbUpBNzBrOA?oc=5
 
-- China imposes export controls on tunnel-boring machines sought by India, citing ‘national security’ - The Hindu
-  China imposes export controls on tunnel-boring machines sought by
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa3pjN3pMYlhxc0h0WTVaeVRERzdoRmRWekx2dzB2bVhySmtwaHRfaTV5Sm5nSkIyT0dXOUNQY0RXeWZIektvd1QzbFlObG05Q0ZhZ2RNTnNtOWNfbUQ2dFNKOUk5eldIWG1XRFhPX0dtUUN3Z2txTWd5bVJNbzlXRlV1NFhiSlFxd0RZMDBtZFdXWlByaktRYmpidEFUWkFjTC1YdWNVUzVVZUVfYW9tZnVJbmlpaGNUYURPem5jeDRhYVlzbDJ6SmZrQkJ4ekk5bnZCRkhkOF9uRzVBdlhpaXUxNEFydGpxZURVQmZSTnhrd9IB-AFBVV95cUxQYi0ydG40czM1c09nOUZWVmFKcnZnY2IxRVl2Z3FUNzZ5eUx3ZUJjZHZsUnZOSnk5SVFnT3NkdTNDUHllYnR3OUZULUJIN2tLUDdHc283MVB1Xy00Y3V3bFgzLTZWMFo4UlpQcFVGZUxFLWlqTVk0VVJzYUt4bmgwUHhvVUZHeG5uNGRHS1N2YTBDRXBLNWFYYXc3eVkzVEVEaFJ6OVZjQ0tNMzVvc3ZVTzUyc1ZmRHR4SG1VQUpRTy1EZUpEWnp6ME0tSWp2TTVJSWVPTDFTZzF1QVhLRV9CdWRuTjBJQXR6S1lSMGZjTDcwZ1VSTU42RQ?oc=5
+- Marco Rubio To Begin 3-Day India Tour Today, Will Honour 26/11 Victims - NDTV
+  Marco Rubio To Begin 3-Day India Tour Today
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzQ4bjRTWVdXS2o5Z0g1QmlzQWk1dW5OY1JzcXo1VHVOT2QxMi10d29Fc216VFBid0dYdTFac1hlOFpXRm92bUpHM2NFbU1Ed2RyblhSSFFRalhwTDNnaXN2RUd1SGFYUGxwR0xkZlVPUk1sbEs2Y3FGNko0T1ltVzVLUXdlbHpqT1dNQmFrTkx5a2lEanZmNmVfeS16UE9iQV9TcTBEVjZCbE92UC000gG3AUFVX3lxTE1fNWU4OTlBOHdYX1l6cTFfX1phLVBOc0tqRi1pUjNvWnJsNmxoWnliSDBscG9uQVNKZVlJTFdNaE0tYkp5NUwtNXdVanVBOXh4VjFRclFMY2xEVzJJb2h5TXdRcFdoQnlLWW9KWlRjTUc0TXUwdFlKdFRNQ0VpTFMwWTdXMTdKX3NoMk9iRUlUbVRqRTlJemYtYmo5RTRNdnVLUlJwY0lKSTB1WmZJWE95dXJYX09udw?oc=5
 
-- Phone on speaker in train? You may be penalised, jailed - The Times of India
-  Phone on speaker in train? You may be penalised
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTlXU0k5YlZraHA0VTJXaWl4eDQ2WkJlSXpqaG5SMkRXMkI5Qy0zNW5iMHdnankteFpna3BxekliUmZFb3psY1RSM0NvNnRCYUZRS3Bha2NXTVZpUTVPLWpWVnBETHhnQXU4SmV4OGZZSTdrZW1lU2xSSnhWcmxaQ2RScUw0YmRmYWtzNC1RR0RIclNDbXpKU2VhNzdLcS1NZDNmN3JWNW43RXNlQnVrWTdHUFEzUHR10gG-AUFVX3lxTFB5T2NqbklLU0Q1QWNDSEJXaUFmUmlhSEtDSTF3RlZkY2ZIdXExZEcycEt6eEwxNEszX2lSVDFyVmsxRmhiZXRrZFVONHFrdS14UkZiLS1GVkR5SzVRNjhBR0FrLVFIYUxVWDBiOUo4RHFGcnR5RjZLU3hHOUJWa0RidGRVN1REelRXS2dPQnVUQ0tuWklRalBjZkQyOTZqVVlXSGpTOW9uSHl2WG5Edzd6b19NdndNTTliU1hNd1E?oc=5
+- MEA rejects OIC’s ‘anti-India’ references, accuses Pakistan of orchestrating them - The Hindu
+  MEA rejects OIC’s �
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXd2Z0Q3REw2Tk1XVDhnRE4tVDItSnFhMWp5WWVxbXYyOVEyREtldlVIVU9QQmZBazRRaF83amxxVkMzbmpVQ29rWnY5VlJJMG96TDdnaE1oMTVIUk1LSzFuWFhYUFF0eXdqdEZHcXdGQU1sOUJCeDIwOVVFWHd3TnFnV3A2aXNDU29uSG9QeU9qdFhFaFZfaTFlcENMaDNwZ1hMdDdYUjNWTkFqOHJSd0FxZnhTVWlYam5UM1VBZDFkZGpsb1VPZHFjYnFhOVNCWEHSAdgBQVVfeXFMTzM2MTgyTnBrY2VwNGRza01vemVueV9UV3lRMExBZ2lVcVNwbjdPQ2V1YnRLaEU0azZjamtPUTRwRWdlYktZalpBMWJtY2N6QUgtcU9OcXBSQ2EwTEt6VWtlZjBGUjNRTUtPSEstUXNtRFJCcVhCUzlpOUtjQ01ReHRkOG9acVkwTjFqUk4xSHBsVHphaWJmTnVqRXBLSzh4RFVBU1FHUERaekRaRFNTS1d0MEl1aUFFaEQ3OUFXd2JuOWZiVTZLRWJ0V3dzd2YyR2xQUGFBZVA5?oc=5
 
 - India news: CJP alleges 'deliberate' delay in leaders' release - DW.com
   India news: CJP alleges '
   🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ21Rb0JtbDZIaFJXSGd1VDZlcFNDQW5nQ21wWDRWdUpTbTBjOURGOURGaG5ob0pnVlg0MlJMOVpWaXlJX1lXbDMzdndJVEJCWXRFa3MxaHBjR0VfQ1NuLVA2UmJfd1NaOVZlNHVHWnkxZld0SUZUQVdUeG5qZ3V1N1JGY0ctNlFOY2d5SEcyQVpKTnl3RFJvQ2l3?oc=5
+
+- Indian court extends detention of ‘Cockroach’ leaders - Al Jazeera
+  Indian court extends detention of �
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3hIOHpwZHprb0dGM2FxS3F1MkRxOTVrLVFZSjNMZ0VqMV94dlBGbFcxQWFsOG0xZnlLTkFiSExhcXlEMFBtVjhNTzl0Y1h2dGtYMDNTMXR3LXMzSzhsRWlmcHJ2Z1h3b1JSbVV0OXFHVm9nX05zRk9TWkVuNEV2bTdEdERnYkQtT1lqWURMbURCNC1waUZDNdIBngFBVV95cUxQdGJYSjRMU1RUQkh1aTdVMmEzWUNENzV0NWxldHVnaEdXRXNQeTZBY0lDeTM3M2lhNlNJakFxdWJwU05XUF9ZUzhZTG9GSFZlaHhLWjgtaHdkeFVpQnI2QmtCLWI0cjdUWmQ0a1hjZThqcWlpNHB5Q1JOeXZ5QU0zYjJZODBON0JHZEpyNXlYNFhZZVNyX3ltM0tfaG5RUQ?oc=5
+
+- After CJP, New Group Formed In Delhi Names Itself 'Lal Hit Janata Party' - NDTV
+  After CJP, New Group Formed In Delhi Names
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdkpUcTVCeHpVZGE1U0QxSTNUUjNqMzRaS2lBSjk3M19ZZWhTbTFxUkpqcEJRNGFzZ3JhYmVwMnVoMy1wWVhCT0pVaG1MRmJSekd5czBzZk5qU0RGOHpBYmM1TkdVZFA5YXJJMnJjVHc5UWFUaDJrMDRSTWs1czVVX0Jad0Z1SUU3TmJoeEtvQkl0ZGNoTWFfRjJ0MDBqRlUtQUczaHEzd0xXbXhFZWJJ0gG3AUFVX3lxTE5DSTVoekphTWtRV1o4NnFfQ25sNElpc2NmU3FjODAwaTVXYXUzMVB2LXk0TEVhcGUtTXBScHRhZTJEYmxIOUphX1dSOFdpT3lwUVpqbE9HbTBCZ0dlUHVBeGtvZ0hEcUNaQzNSNl84aV9nYXVFVkstMHdOYzVDWm43UHFTN3k3RjdOd3ZDbHBIcWJHanpMd0lxYlVIYlU2VmhGMmdiWU10Y1daSFRWbTlTbUpBNzBrOA?oc=5
+
+- Marco Rubio To Begin 3-Day India Tour Today, Will Honour 26/11 Victims - NDTV
+  Marco Rubio To Begin 3-Day India Tour Today
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzQ4bjRTWVdXS2o5Z0g1QmlzQWk1dW5OY1JzcXo1VHVOT2QxMi10d29Fc216VFBid0dYdTFac1hlOFpXRm92bUpHM2NFbU1Ed2RyblhSSFFRalhwTDNnaXN2RUd1SGFYUGxwR0xkZlVPUk1sbEs2Y3FGNko0T1ltVzVLUXdlbHpqT1dNQmFrTkx5a2lEanZmNmVfeS16UE9iQV9TcTBEVjZCbE92UC000gG3AUFVX3lxTE1fNWU4OTlBOHdYX1l6cTFfX1phLVBOc0tqRi1pUjNvWnJsNmxoWnliSDBscG9uQVNKZVlJTFdNaE0tYkp5NUwtNXdVanVBOXh4VjFRclFMY2xEVzJJb2h5TXdRcFdoQnlLWW9KWlRjTUc0TXUwdFlKdFRNQ0VpTFMwWTdXMTdKX3NoMk9iRUlUbVRqRTlJemYtYmo5RTRNdnVLUlJwY0lKSTB1WmZJWE95dXJYX09udw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-19 18:13:33 UTC_
+_Last updated: 2026-10-20 03:05:47 UTC_
