@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- India: UN experts alarmed by fresh crackdown on protests and rights violations - ohchr
-  India's crackdown on anti-government protests has been
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZFBTQlNfT3k4eTZkcWc3aFZ6bGpwSEt4bmxSSEFzWXJvakNxWnk4RzdVYXd4XzZCQ0RmelpYdUxpX0RqSUIxWWhVMnZwdld2Q3FkOFlJSkpqeUk5alF6V2ZrS1E0bEIzLVFXY1hwaDBBS0JQdVV1SmRHS1U2ZkFxNUNWR1J1R0ZSMm11OEsyakJ0U2VPUzdzcG15aE53QlRHTUJNei03VGZsa0dBTWM0WkJFeG5QNzUwQi1j?oc=5
+- ‘Play the ball as late as possible’: Sunil Gavaskar’s advice to India batters for New Zealand Tests - The Times of India
+  Sunil Gavaskar’s advice to India batters for New Zealand Tests.
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX2Yzc0RINTNVZVRvZzNIbFpGeWFydzg1VzFVQ2tqSlhETXhJTkhGR3BLUnJhcGJxcVZZRHhBUHRmRFBPbU82c292OWswNmN6NmRTVm9tU1MzdFdCRjdUZVFvRWI0LS11V1VEdktXQ0pScUxjcnhuSGxWaEJBc2NCYUpiUFFHQ3BZcFVod1RmMUMyVG5qODZiVjRVSnJBMk90SVdtN0ZtTkcydE1OQUQxb1dHVlVzZG9rbnBRZ1YzazZwaEdybGI0cnhTZEc4bHF1cVRqNzNJWlJwcHAyc244NDhqRHR0RTczMHBLYVJIQlNKRlg1QXJKeFNrekxNNzhMVkc0MDdDR3bSAY4CQVVfeXFMUGx2QnlQT0pfUVkyZ0NyUnM0T0J1RE9aU2NBOGV4RTRiM2xnT0lSbWxORHY3Y2huR2hKanU4VDNYczNxWnJHSGpudGljbFlwM3psOEc5ZUh2VFVhRGlpbjFpN1NTckFTYjFNeS1DaTBQd05YUkJCZWNrR2hGVHV5YjZxbm96MUF1Ul84VTJLUGxKaFNTOF9TV0VPbkhNT2VSZnRhSF8xUmRPbFNrQV9sWHlHbXVKMFFCSTdRblFCNHJVS2poX1NTMnBlLW5heFhHcjdVVTZpeEk5TGtzc04xdks2SUhtRTY1YUR2LXFXQTh3b3dYT0QyaG81YzNlVV9lb2ZGZExrNThOUlBrUDdB?oc=5
 
-- "Too Tired?" BJP Posts In-Flight Video, Claims Rahul Gandhi Off To Vietnam, Congress Reacts - NDTV
-  "Too Tired?" BJP Posts In-Flight Video,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEQ3SHppeWFMbzFSVnJjdkhFVXJaYVpzVjZaR3pTc0N0Wk9KWWlwVEM5RExEOE12Q0JBNU5PdHFxb2VwWlBESDlNSDFzVzgtczNRazRza0UzcU5zYlNJS3JQVTNrNERUWGRGdzZJM2tKR1RqakZUWkhEclVmWVJNVEVVMjJaTXNRMk03azlZY3BpZDVkRnVOVkZ5SXZibzl5UlpVM1VSZmlBWlVJdU40Tk1wVkM0Y3ZpRDBmYVRoZE5PMkJ5RVHSAc4BQVVfeXFMTlN0RGxPeVdKZnAwM1J3SXBidS1JVkJPUnZza1Njblc0cU9DY3c1NnBmbDBiT05IcWcybDRROU1XdkQwOVh5dmJnR2dycVB6NDkyTjF0RXQwQXdta3kySmlKNXc4VExfYUE3c0xSRmN6U05ZekZzUFFXR2w0VXFYOEIxUEk2eDBINnNXMV9xZkhoYUtoeEJub3hza21xS2Nuc3piemE2Ry1vSE5NdXhncTZoY2RoVWtVTlU1ejFuaG4ydDdqSmViXzd2Zmc0NEE?oc=5
+- Rubio pushes US energy, defence deals as India trade pact nears finish - Rediff
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkZYNVdNSVM2U1pobEhWNFhoQWlnUmV6Skp0T2FOb0c5V1hFU09lVHEza3dURlBWbS1xeVBRN2R5V2RCYlBWZVRYeExhR2tITmVfdGxUUU05b05VaUVfcEEwSWpYYjg3aF
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkZYNVdNSVM2U1pobEhWNFhoQWlnUmV6Skp0T2FOb0c5V1hFU09lVHEza3dURlBWbS1xeVBRN2R5V2RCYlBWZVRYeExhR2tITmVfdGxUUU05b05VaUVfcEEwSWpYYjg3aFJtSGxEVnBNdWdMNmxkRGpZZk1FMlBCNHNMNkc4SUZUbURNdWRPeGQwTHhlZDdoVlRTYnhnS0NIZFpjc09MeWh4Vi1iY0lnU21TNUtub3fSAboBQVVfeXFMTnFSMXlIMy1JZ29waklWU0Y3ZTgyUnJMbFNqLWtfZGFvRWVqM3p2NXYzZUdjLUY0QWtrSklhZFpyOEJuVk9PWFdJQTNvSXpsRF9ZVWZSWElRdm8zOGp2cVVHMWFER0EtUlBZWGR5c0tscGhIU2JyRllvZjd2WENDSlBaSmhnYkc0dVFuY2VrOWVEcGFvZ2N2c1U2Z1lzZThkZUZHeU5KR19GSnpocXZ1emllc3dsWl9xWXBn?oc=5
 
-- In pictures: Dussehra celebrated across India as triumph of good over evil - BBC
-  In pictures: Dussehra celebrated across India
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hd01BdE1zT2ZRQ09PWHI1MmtLX2NrbjV1NFpHSFdlbjgzSFE5ZVdOT0VnUEk1TDYyQVdRa2tCdExNNnVmQ1NxZlE4SWJlTmhhZ2FPTnlDMjAwUjA?oc=5
-
-- Evening news wrap: Rubio calls India a refining superpower; Kharge to raise SIR, delimitation concerns wi - The Times of India
-  The Times of India is a leading newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQMmluRUh1NFRzUy0wWjV5dWZKNFRPUGhDZE8xd3dTSDhpSEljSG04MFFNWE5YSW1RRnZUQ0UyX2VBbmM2b3hkaVYydmZBSTVUWE9VZ3VPcWREdjUwT2tSajJUeFBFTmJEa2drZTRuaWF5OE1WLVR2UDd1VjRLZ2lqa094RDJyNm1paG53WXFLZGhmR3p5YWtPd3M1NkZfcjR1ZjJlUzI2UkVfandhRzVzdlQ0akZvN2RMWFlQLW9xWXlGeXJYeGYyWHZpaDhHNVJxMXRvdE1sTHQxZXdrMnlrSTZmU2I4UmRkV0xHN003c0U2SmRZYllFVEdfQnhUcmNqa01XdGFPb3lhYl8ydmFSQWdYY9IBmAJBVV95cUxNWDk5eHYwUGF3VFlIX3lON2FHakJGY1R0TWFRdkhXREJ6R0JCTy16cVl2bFZMQWc1TlExd3lMb2xQZHFiTktQY1YyMVYzdUpTZmo1Mng4LTlxWGp5QVUtQ1A4R25ENnpKV19keGEyZVV6MkxBZkotOGNLWDlpa3lWbzBCRnhoSFUwU2ZMcV9UZ292SWpYem95N0hpMmFPN2IzWFdXV2d3Rm5jQXUwOVFtRThLc0JLcHdLZlhVQkRqczlKQW96cFVMblNscGxnZ241U1Z2RVRHbEw0YTczcHlxZy1xY01kUFlmcWowYWRoak5XUmxLYVVZcmF6aU1pa0tRR3dBY3JTZUxCTm5aYVBEdEJWOUVhcTlQ?oc=5
+- UN experts call on India to stop using ‘excessive force’ against protesters - Al Jazeera
+  UN experts call on India to stop using ‘ex
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNOE83VkVZMjJFUGViTTlTdFBRVVlqTEhvdXBaZnE1VU1NOV9NeUw1OEpJcEw3Z011ZGxIZTZ1ZmdGOVZaRzBHS2tZVU1ib0dPMG45dm1DS3VnY3BORHhIUGF6TEJKbEIybkY0UlFyWTBxbTEwSjBfaG1tY1JIZzdIcHBrSW41ZGJGOFdQejc2a2Y1M2MxZnVPTHZmYXpCaUlvUlVXYmc0a1lWWks5UE1RUU9lZ2tqUQ?oc=5
 
 - "Will Have To Defeat Them": PM Modi's Dussehra Call To Fight India's "Enemies" - NDTV
   PM Modi's Dussehra Call To Fight India
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc3ZxcmpkVDhoMk9pVm9HczdwczZuYzNXcEd0c1NTRWxFYTF2OGZBOWoxb1dLSzZrVUQ4R0tXTkZmU1JpTldkV1NZcVFrbUNsOXE1b1gxZWNTb2o2bm8tNlhLRDFWckhLUm5idUg5QlVETThfTlhEWE1oalY3U21yVXJwQ0ZYbTZiaDVVcU5WbTU1YV9GUlBoeTFWZXFaTHlXdjB3Z2dxVGNsR1hDNXNiUExaYlFQbUZIbmNmUVY0Vzd4a1ZrVUxyeU9nOTNBX2doX0VN0gHbAUFVX3lxTE9ZVWlrVjNhcTU0ZFlqUmxnQThaZVdiVHllTnE4QXZnTzZxQmZVQUEtOUh2Q05iRWhsWE13TjBXS2dsMGxBMkVuQ1R5cWFLUDJMOTZrcFRKbEJMUEZ4aDd5WmZfMlp1VVM1dGp3cnpqU09VeHBJMGF5T0ZNNEszdXhMUTFLOHNlSDY1SVhNWmRUZnd2VkpvOUpkMUFETWNIY2NqMUlMZDJYUkVTOHYxNDk5dEt4UHFPWDVDeUFLOGt1ZDhjencxem9abklFdlZtczhVaGRXVmNpMnBMaw?oc=5
+
+- Evening news wrap: Rubio calls India a refining superpower; Kharge to raise SIR, delimitation concerns wi - The Times of India
+  The Times of India is a leading newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQMmluRUh1NFRzUy0wWjV5dWZKNFRPUGhDZE8xd3dTSDhpSEljSG04MFFNWE5YSW1RRnZUQ0UyX2VBbmM2b3hkaVYydmZBSTVUWE9VZ3VPcWREdjUwT2tSajJUeFBFTmJEa2drZTRuaWF5OE1WLVR2UDd1VjRLZ2lqa094RDJyNm1paG53WXFLZGhmR3p5YWtPd3M1NkZfcjR1ZjJlUzI2UkVfandhRzVzdlQ0akZvN2RMWFlQLW9xWXlGeXJYeGYyWHZpaDhHNVJxMXRvdE1sTHQxZXdrMnlrSTZmU2I4UmRkV0xHN003c0U2SmRZYllFVEdfQnhUcmNqa01XdGFPb3lhYl8ydmFSQWdYY9IBmAJBVV95cUxNWDk5eHYwUGF3VFlIX3lON2FHakJGY1R0TWFRdkhXREJ6R0JCTy16cVl2bFZMQWc1TlExd3lMb2xQZHFiTktQY1YyMVYzdUpTZmo1Mng4LTlxWGp5QVUtQ1A4R25ENnpKV19keGEyZVV6MkxBZkotOGNLWDlpa3lWbzBCRnhoSFUwU2ZMcV9UZ292SWpYem95N0hpMmFPN2IzWFdXV2d3Rm5jQXUwOVFtRThLc0JLcHdLZlhVQkRqczlKQW96cFVMblNscGxnZ241U1Z2RVRHbEw0YTczcHlxZy1xY01kUFlmcWowYWRoak5XUmxLYVVZcmF6aU1pa0tRR3dBY3JTZUxCTm5aYVBEdEJWOUVhcTlQ?oc=5
 
 - India’s L&T Technology expects robust second half as deals ramp up; quarterly revenue rises - Reuters
   India’s L&amp;T Technology expects robust
@@ -28,57 +28,69 @@
   US government bans American technology company from Green Card programme for two years.
   🔗 https://news.google.com/rss/articles/CBMi3gJBVV95cUxOdVg4VzA5c3doS296UTNJZ2w1NF9KYV9UR1ZsdE5aUlNJNGFGWG83WjhzLUN3eEV6Tjl6ZFg2ajZiNXBTYzJwcW1rTVpJMU9sd0QyRHpvNUwzR2t0bmVGZUtxV1ZzbzRYVzJ6YXoyc1Ftc1B1eWg4QzBxZFZSbVl0bE9VUWZKOFJabVA0ZjhKc1lsd1JGNnl4QVVkbU5ra1VOdnFPTE1WZzAwZnc2bzhQeVpmUXBFOTVyS0h1YkFKaWd3dmxyWTNWWEpWM1drOWVDRkJIOC1IMjhYWWszRjhCbkdqLUs4VjkzcFBYZV9CVzk1Nl8yRTFyQVhpTzZYbzBETEx2dWtTbndfSU8xWWF2dGVIVnB6eDBidzh1aDdqMUZhNmY4cVIzOVh1ZGRjMlRXcWgwVGxxS0tWQzRVU2RKd2FXbWl2N1RTSmg4MWpqTXV1dFFENjQyRHQ4MXlfZ9IB4wJBVV95cUxNbnJNbm1naXJmSTU0Z2tId3NGc2o3WUt4c3M4NkNTb0Vtek16TkRBRWpqbm1LVG9meFBSZVV6dnhWZlBxb0JaVnNqdzM3cUc1cHdBUWpsYXNwTkhkNnJxN19EdC1ta2ZTQUFLM1pqRnRxWXhHckZzWGJqanhQVmtyS0FZTWRpdFlQV0tZWmlkS3RBaklHQmhTY2hxSFRGY1h1ZUx5REplYmduaUxWdUlNVVBkUjhucnE2TTRXR0xQcF9PcVhJX0JhMXc1T3hvcm5QU3dGNFJiRU9ucWoxU2lFZ0JfdHJNUllEbFkycFREWV9YYmE1QTVYTkd1YThCUkdXbHJVWUQ0Z2docE56WEVCY2NaMVdfNnRndmg2X1pHTFNCRjUwYURVT0k3MlFkVjBiZ3pqMkg5ZG9ab3phNUlPM2ROX1NMVC0ydmlVMjIxRmM0MnhvR3ZyYm9mc3l5SlVZRXRj?oc=5
 
+- Macron's UAE visit strengthens defense, economic and technology ties - CGTN Radio
+  Macron's UAE visit strengthens defense,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2xsdDBiWWFHcF9yLVpLR1ZxdlpxcjFZSE1lWkxzSll4YWcxeTNvanhKT05zLXA5dWgtUG9BSkttRDhaZUdpWFpNaEI0bE5NZ3lZcGh5bVkwY0RhWnZtc25tdWstRGM4Yk0tZ3VIV1RVUC0wMVhob0JzNWF2UDNOSTJiZk1KcWNKdDVZclM3c092aVZuRXYxOWpPbXliRVU1U2Z5N1JrN2owZjBYbFo0ZU9n?oc=5
+
 - Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars? - The Guardian
   Hollywood AI-listers: is the technology
   🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGRjS1JZU3VjZDB6MWZqNk5RNnhrNnRHQ0d0RUplcmVsWGRDbE1kZElGSjBXSEEyTnh0TjNFbWVUQWNXa0F6azZKaC1yNnFKcG90RHVsLW5ma2U5RHdjVkN5ZHREanpqaERUQTdSMDBQc3UwYXZXMXU4OUNpRkpfTUpyM3B2YTU3N1hLeDBIdXRCenJkd2JVYzVpSkExSms4M0E?oc=5
 
-- “We were looking at it wrong”: The explosive claim that’s upended the AI world - MIT Technology Review
-  “We were looking at it wrong”: The explosive claim
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQN3Brem5aVVZIZDRCdnRqQWhHbE50Sy1CT1hmLTB5WUo1cnNJN21Odi1OZU1tN25LbzZZVEJNWGVkS1h2WF9kM2lwWFo2eUdpVDFoTmpKUXhQM0JUZmZMMGVQdXR1aFVCQmhrWFhIMFFPNjZheGdLTVdtYzZlWW5HT2pMVmVMTThnWUl2Z2tRWFlGbFJMMWd4b1U3WmVQaWUzb2pKSGE2WjV1MDdzT3RMcTZfR3lCR3hFYjNtekpoNFdocmR5aWfSAcsBQVVfeXFMTmR1NkxTcV80dFlwZklCVGswSGxtMWZnX3RFWEpLR2wwd0xqQUh0R2xZUHIwU2k2VDZrVWNncjlXVm51cWo1dlFJRW5jWUxQa0Z1a1ZFZHU1RlJqSU1weWRURkV2NWJucUQzX1VGN0N5WDkyaGNXNHdlNlJPaFpTVGY0aFpvaEctWjQ3eFVQSXVMMmFfOXBnMWRaYXRwcnRlbXlyV2R1R1pUTjA2MEp1WjdyZTFuMjBpRm9FLW9xVmJsbl9ueko3aVRMa1U?oc=5
+- Stocks to Watch Today: L&T Technology, Bajaj Finance, HD Fire Protect, Piramal Finance, Hindustan... - Moneycontrol.com
+  Stocks to Watch Today: L&amp;T Technology
+  🔗 https://news.google.com/rss/articles/CBMizAJBVV95cUxOamlqRHlQVVZ2eWRDRnl6MWFyS29iTGxuT05IS1dVVUdFTWNJcG5mMHRGYjBNaG04RERhYXRLank4YmItdFdkd3ZicXA4OFlXNC1SaDNMNUNvRFE4ckllWXNHM0JiOUoyWkNzMDlJZU9VQ2ZPbHJvVUhIeDJEaXM3NkVCMFE3M29ScG5TR2VyRlRidkdVR2pZb2tVaHBCYlpBajJ6Sm5Bdjc2dDRUbVRPSVJqR2w1SXFKVWtGT05UYWk2S01LVVA5X21BdVp0MWg5SDZSZ0VHT0dvUHlRd0VlZE1GeVNSNnU5OVd4MFlTa0VEQWl3dWRDQ21DVWtialFuS29uaDN4dmFjcmp2NWdseDJlcVJOcU5NODV6Wjc1NXcxYkdoT2RHaG94dEsxaHA1NFBEbjV0NHRoYU5zcy1zUXlRaUNHZTdrZFBUYdIB0gJBVV95cUxObTM3NFg5NFBtYUQ0N3F2LV9yaGgxOHBBb2xmdmd1S2tLekJZYkgxMFVjaHNfRUxXaTlKaDdfQ3piRE0zNUpQZXVIWjFJUjdqaDRLREkzbE00UVdhNTI4bnZ2V29HY1Y3QmxnSlJuam1nSXM2dkV2NzhXekw5VS1aR0RHVUFiNDhhQ3JUWDRqUnVycXRHQkROUWx6RGtEc2xVQ2RTSWU2Q2pSVk15MzgwQkYyX3o2d25CNWdzWHd4dVhLOHF5QWxaeHN2NFVYcnFDMDM0N2NsOVhtR0JmckhJZVhtSTVfVTR1SGpFWnA4b0hMZmo5LVpKRmdDcFJCd2NYdGFHXzgyMWdVMWpSamJ4NnJVMVVydWs1VXBsYUN4ejRkTGVZU1BuUHRRMGp1Y3RJY3VEVExLUk9maXBKaTNGNHBUeTV4R242TVpIMzZ0eVBzZw?oc=5
 
-- New 4D biofabrication technology holds promise for tissue engineering, wound healing - Phys.org
-  New 4D biofabrication technology holds
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxQYlNOM3U5b0FiQWxDSHdHZTEtSVd5OVY0U2FRODdtRkRqbU90NzhoXy1vSEZpTUxRaHR5czBRQ1E0eGFQWExBQWRyRjNjdUpqX2EzbFhVSC1SNFZRcWNaLTR2ZDUwVUlqUURyZzNiQ1ZrbUEtc3VtOENNNHNVekFJenJR?oc=5
+- ‘A good idea’: Elon Musk says special committees will discuss Tesla and SpaceX merger while he sits out
+  Tesla and SpaceX have formed independent special committees to consider a potential merger. The merger could create a company valued at about $3.5 trillion.
+  🔗 https://www.livemint.com/companies/news/a-good-idea-elon-musk-says-special-committees-will-discuss-tesla-and-spacex-merger-while-he-sits-out-11792544836520.html
+
+- Iveco's minority shareholders emerge as key hurdle to Tata’s takeover bid
+  Tata Motors must secure silent shareholders vote
+  🔗 https://www.livemint.com/companies/news/tata-motors-iveco-deal-status-shareholder-approval-11792483781433.html
+
+- Buoyed by blockbuster IPO, ESDS bets on AI chip rentals for $5 billion revenue scope in 5 years
+  CMD Piyush Somani laid out an ambitious AI chip rental strategy to drive growth. Compounding revenue 2.5 times every year
+  🔗 https://www.livemint.com/companies/news/buoyed-by-blockbuster-ipo-esds-bets-on-ai-chip-rentals-for-5-billion-revenue-in-5-years-11792473076889.html
+
+- Match Group eyes India growth even as dating-app scams raise safety concerns
+  Tinder does not disclose India-specific safety spending, scam reports or revenue. Tinder owner says scams and
+  🔗 https://www.livemint.com/companies/news/match-group-eyes-india-growth-even-as-dating-app-scams-raise-safety-concerns-11792412946077.html
 
 - Ammonium nitrate to PETN: CCPA cracks down on 7 online platforms over explosive listings; 3,940 sellers delisted
   The platforms named by the authority are IndiaMART,
   🔗 https://www.livemint.com/companies/news/ammonium-nitrate-to-petn-cracks-down-on-7-online-platforms-over-explosive-listings-3-940-sellers-delisted-11792527020743.html
 
-- Closed College Campus in Boston Suburb to Sell for $21 Million
-  The campus of Eastern Nazarene College closed last year. A Boston suburb’
-  🔗 https://www.livemint.com/companies/closed-college-campus-in-boston-suburb-to-sell-for-21-million-11792523964149.html
+- DLF rebounds in Q2 as luxury demand drives  ₹3,800 crore pre-sales
+  DLF bounced back in Q2 with  ₹3,800 crore in pre-sales thanks to strong luxury home sales in
+  🔗 https://www.livemint.com/market/mark-to-market/dlf-q2-presales-luxury-housing-launches-11792472022718.html
 
-- Citi Mexico sees new opportunities with banks after Banamex split
-  Citi Mexico sees new
-  🔗 https://www.livemint.com/companies/citi-mexico-sees-new-opportunities-with-banks-after-banamex-split-11792521724676.html
+- Reliance Jio IPO: Massive  ₹30,213 cr issue opens for subscription today | Latest GMP, review, listing price prediction
+  Reliance Jio IPO: Jio Platforms has fixed its IPO price band at  ₹1,065– �
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-massive-30-213-cr-issue-opens-for-subscription-today-latest-gmp-review-listing-price-prediction-11792548066016.html
 
-- Instacart settles federal claims of discrimination against US-born job seekers
-  Instacart settles federal
-  🔗 https://www.livemint.com/companies/instacart-settles-federal-claims-of-discrimination-against-us-born-job-seekers-11792521240445.html
+- Top stocks to watch today: Eternal, Reliance Industries, IREDA, RailTel shares in focus on Wed, 21 Oct | Full list
+  Eternal, Adani Green, Reliance Industries, IREDA, Bajaj Finance, Hindustan
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-eternal-reliance-industries-ireda-railtel-shares-in-focus-on-wed-21-oct-full-list-11792546323951.html
 
-- Who is Sharad Mathur? Meet IndusInd General Insurance's new MD and CEO tasked with driving growth and transformation
-  Sharad Mathur appointed Managing Director and CEO of IndusInd General Insurance Company Ltd. Mathur has held senior leadership positions at Universal
-  🔗 https://www.livemint.com/companies/people/who-is-sharad-mathur-meet-indusind-general-insurances-new-md-and-ceo-tasked-with-driving-growth-and-transformation-11792519684443.html
+- Top stocks to buy: Experts bet on SBI, Bank of Baroda, Meesho, CG Power, and 2 others - Target price, stop-loss
+  Analysts suggest six stocks for the next one to two weeks: SBI, Bank of Baroda, Meesho, Shyam Metalics, CG Power and Tips Music. Recommendations cite
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html
 
-- Dollar dips as traders weigh Iran, AI risks
-  Dollar dips as traders
-  🔗 https://www.livemint.com/market/dollar-dips-as-traders-weigh-iran-ai-risks-11792522097761.html
+- Stock market outlook today, 21 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues
+  Gift Nifty was trading around the 23,031 level, up nearly 96 points or 0.41% from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792543474837.html
 
-- US yields ease off lows as stocks rally
-  TREASURIES-
-  🔗 https://www.livemint.com/market/us-yields-ease-off-lows-as-stocks-rally-11792521918675.html
+- OpenAI says its AI agents weakened internal monitoring system
+  OpenAI says its AI
+  🔗 https://www.livemint.com/technology/openai-says-its-ai-agents-weakened-internal-monitoring-system-11792550188713.html
 
-- Dividend, stock split, buyback: Last chance to buy today - VRL Logistics, JSW Dulux, Angel One shares
-  Investors will track several corporate actions on October 21. VRL Logistics moved its buyback record date to October 22, 2026. JSW Dulux set the same date for its proposed 1:
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-stock-split-buyback-last-chance-to-buy-today-vrl-logistics-jsw-dulux-angel-one-shares-11792511128048.html
+- Indian IT firms eye $20m–$60m US and European AI targets in outbound M&amp;A push
+  Indian IT services companies want to supplement organic growth with acquisitions. They want access to new clients, specialist talent and
+  🔗 https://www.livemint.com/technology/tech-news/indian-it-firms-ai-data-analytics-acquisitions-11792474876154.html
 
-- Braze stock surges over 50% after Salesforce announces $5.66 billion acquisition
-  Salesforce agreed to acquire Braze for about $5.66 billion, offering $47.50 per share. Braze shares surged 52% to $45.59.
-  🔗 https://www.livemint.com/market/stock-market-news/braze-stock-surges-over-50-after-salesforce-announces-5-66-billion-acquisition-11792516251172.html
-
-- Wall Street rebounds from lows as upbeat earnings, falling oil prices lift sentiment; Micron, Intel up 2%
-  US stocks recovered from early losses as strong corporate earnings and falling oil prices offset concerns about AI-related shares. Major indexes rose, while chip stocks posted modest gains.
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-rebounds-from-lows-as-upbeat-earnings-falling-oil-prices-lift-sentiment-micron-intel-up-2-11792507459852.html
+- New UN initiative will aim to tackle the military uses of AI
+  New UN initiative will aim to tackle
+  🔗 https://www.livemint.com/technology/new-un-initiative-will-aim-to-tackle-the-military-uses-of-ai-11792539313937.html
 
 - Britain seeks to break Apples grip on contactless payments
   Britain seeks to break
@@ -88,77 +100,69 @@
   Large enterprises may face growing constraints on innovation and artificial intelligence (AI) investments. Vendor-driven software upgrades, migrations and licensing changes consume an average of 28 per cent of their software budgets
   🔗 https://www.livemint.com/technology/enterprise-software-costs-threaten-ai-investment-innovation-as-firms-spend-28-of-budgets-on-unwanted-changes-report-11792484168392.html
 
-- Deepinder Goyal’s Temple wearable pre-orders open November 1: How to order, expected price, colours and features
-  Deepinder Goyal’s Temple wearable will open pre-orders on November 1, 2026. The device uses optical sensors to track cerebral blood flow and generates an
-  🔗 https://www.livemint.com/technology/tech-news/deepinder-goyal-s-temple-wearable-pre-orders-open-november-1-how-to-order-expected-price-colours-and-features-11792479887620.html
-
-- Apple’s ‘Pro and tell’ event on October 28: Touchscreen MacBook Pro, M6 Macs, iPad mini
-  Apple is expected to unveil a touchscreen OLED MacBook Pro, an M6-powered iMac and the iPad mini 8 with an OLED display.
-  🔗 https://www.livemint.com/technology/tech-news/apples-pro-and-tell-event-on-october-28-touchscreen-macbook-pro-m6-macs-ipad-mini-11792473421500.html
-
-- MORNING BID EUROPE-Korean canary in the AI coalmine
-  Korean can
-  🔗 https://www.livemint.com/technology/morning-bid-europe-korean-canary-in-the-ai-coalmine-11792471077525.html
-
 - Dow jumps 500 points as earnings optimism steadies market: Live updates - CNBC
   Dow jumps 500 points as earnings optimism stead
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBBY1V6N2VkbVphNU1oUUROTEx2aUtNQk9XeDl3SlRyUGlmWWFNX3B1NjU0SXB6Z08zeldvRW8tZVdWQ3lxRnNGelJSdURXdHdEQ0lRTllocmNfS1BkX2lDalYzS1AySDNUNk5Rc2tDbk1SdVZsbHRj0gF8QVVfeXFMUDhUeVpneWk2eWtPSVpkcE5EY3pZeV92cG9CZFpwaDVrT09sY2Y1VTVNc2VfcWNid29pZ2RzNTYwY3VWQkx2X2h3ZlUzQWRPXzlpWWotY0ZkM184THhJNkxhYTJHNVRvZ3hESG4wZGVna25sWEU0UDZBZnpqRw?oc=5
 
-- Stocks mostly rise as oil, US yields ease; euro edges up - Reuters
-  Stocks mostly rise as oil, US yields
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5
+- Markets News, Oct. 20, 2026: Dow Closes Up 500 Points; S&P 500 Rises, Nasdaq Ticks Lower; Oil Prices Pull Back - Investopedia
+  Markets News, Oct. 20, 2026: Dow Closes Up 500 Points;
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNMk80WXBDalJTcEZzT3VScXp2RDUzSExrTHpwbzFMMXZ5Xy00ZjVjdXp6blZ6WDRub0dKYXFMTlkzY2tFd1oxc1JpM1hIMU1iNmNzSmtRRWk4aTdmaTI2bWtoUVYwbjl4cUdZa0tiZmNBV2p3RWNVbm56bHpPQTMtcGNDeDRTbE04NlZxY282RjM?oc=5
 
-- SpaceX Earnings: Investors Await Q3 Results — Live Updates, Analysis - WSJ
-  SpaceX will report its third-quarter
+- SpaceX Earnings News, October 20, 2026: SpaceX Stock Rises After Revenue Doubles - WSJ
+  SpaceX Earnings News, October 20, 20
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0NRSk1EUUhjNHJpMWxWVmd2VUxVWjVuS0ItUmZHUjZGLWhIMi1qSGNhRkQxT2VmR3RtekVXTHhNNUl3MlNsTUdpZmJIRDd5Rmc2VFNuNktwQ0cyWjNqcDM2dzhXMG5aZ0ZzTmtrUkZPbXVEbmF5X2t5aF9obDNqajZnWUo4Tm8?oc=5
 
-- Crude Oil Inventories Fall Less Than Expected, Impacting Market Sentiment By Investing.com - Investing.com UK
-  Crude Oil Inventories Fall Less Than Expected
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3RlelZHQ1hqbnhwZ0cxV1lmcUNoWVdaYU8tTFBRd1hnUXFWazQ3NXp5cXN4MUxMc0dPRENndHh4TDBKeDNEeFNZSFU3dkwwblRzSDhNa3hvSG41Vm9jVEVuejgzWXlxQnBPNFJhbDR3VERBakMwT1hweUEtVWFxMGVOS2x3Q0pMTDZ5TmllaXNDQ2ZmRWFNOWNQNjFrRkpxSXpWWVE1U1l0Zkl1blJJRTBoQjgwRldTbWVKWGJNT1FDUVhGYzE4TUtRMndDUQ?oc=5
+- IEA chief sees little chance of oil market 'normalisation' next year - The Hindu
+  The Hindu reports that oil prices could rise to $
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRDdJYmU4aGlqYnpQQVljYXBDX1ZOUzNLZDhKYkV3MkVfSGluYzRZaENXN0VxUHB1azF3MFc0N0Y3VEJsdjdwTVM4cUQ5ZUM3T0RiY1BXR2VtNWR4WmFjYXhBQldkb2lHc3BXZ2w0MGo4UTdKNlY4U05RYnN5ejZzWm5xS0VGUFhnSzB6V3AwRVNUTmtLQmdQOXhRZ3o4LXhySHBjbnhDaFI1MG5MSnFOYWdsLXdiaWhER2NlcWVPaUVoVzZYS0duR2p4OG5pOGZtelpj0gHaAUFVX3lxTFA0cnZLTjBfMHRnTlQzektSa25PS2VMcnFoLU5taVpUei1EcFc2N0x2T0VXZWo3QmxpTU9VR0trTnBsRGh0MGFUdEdWQjJOdGJYakt6QnI1MHItYzdhQnRFYjA2aUlhNDJvN3RuQ1VTNGRIdHI4c05lMGdFN2wyaVF4d2xicFVrQlBJMmUtUFZvdHJNQ2VNQldSZk00NEllenlvaXBMaWJwTVA0azR2cnFfM3BDYTVwZnV5QnBQTGswYk52T2RCLWJEQnZVRUZOUG50UnFUYUdLSFhB?oc=5
 
-- CNBC Markets Now: October 20, 2026 - CNBC
-  CNBC Markets Now
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVNFVVBrYldWREFibkdMRFNyYUFZZkVsRVppZ0FSRnN3U1E2RzdpaExIZGZnWndXMWZKRVhMakhQazhpQUFGZnIzWFJKMGhIdHdTaThhdktZMGpqMWZqNEFycGJMNlhqbVI0LTZaM0ZxcGFhdHZTbDNYdkw4S0gzWA?oc=5
+- Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints a strong start; US, Asian markets gain - Moneycontrol.com
+  The Sensex is up 0.2% today. The S&
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxQeXRPWXpQSnVsQ3QwbjdPWVc2SmtnR2lWUk1URXh3M2dGUW0ybGlxd3BOQzBOV3ptNU8yTnltR2RPTXJYckZRTzJlNXRGS240ZmFCTWphb1I1MHJ3end1eUFENDh4QlVSVW1YTDU4MVEzTXh3YnRtaW5ldnZ3RDNUQllQYmg5OTloMkloamU4MDBwbDlTQ3d6NVJMSjEyQjV6NjBXM3I0YlZYX3pGM1dRa3ZZZUY2RmFpaGpYeldOQzAtVUZiTjFrUmZjVUhFRlN6TGg4MWNiYzdLT2hXRUJReWVoRDlqakJNZXI2SlpXNlA4OVVETDhYQkZsTzBXSHJIZGRndGZiVFNIYWZQcC1VSHYwOEx2czFPSzJKNjlIdW8tSFHSAagCQVVfeXFMUGtMWUtma2pxSWNWdjRlX2xldEI2emZEaGhDcHRSRDJjUjEza1VQT290TDliM0xQQ2JqUFhyek5NVGNrVlVOaENCR2xUMnhHSnJ1RlVSLUEtNW5XbmNhN2xjd2dwMnpxeHNEWVdzRE5CandhVWZlbkp2YVNTYXpUazdzYm9YdnpITEpGSUxldlRyaWlqWk50QkJDZTN5UHdwZTJES2VuUURIcWJybDBYbUVXSExNMXNzUzdFcUI5RTdfclB3b1VpZm93Tno5QnMwdmpCZk1kMk1ycGtsQlIxRzg0RnlERTl5d0V6cmc0bXpiOVJZQng0SmFDM1I5cEVCQ2FMR0paeXM3ai14Mm5lUjhPeF81UjdqZ0Fyd3JCMUNxNC1ya2d2RFk?oc=5
 
-- US stocks today: US stocks end higher as healthcare stocks lift Dow, tech a breather
-  Wall Street ended higher on Tuesday, led by the Dow as investors shifted towards healthcare and other value stocks. Healthcare shares gained, while small-caps and defensive sectors also outperformed.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms
+- Stock split alert! Last day to buy JSW Dulux shares to be eligible for 1:10 split
+  Today is the last opportunity for investors to buy JSW Dulux’
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-last-day-to-buy-jsw-dulux-shares-to-be-eligible-for-110-split/articleshow/135080136.cms
 
-- SpaceX Q3 revenue soars 161% YoY on AI business growth, beating estimates
-  Elon Musk's SpaceX reported a 161% rise in revenue for the third quarter. It was buoyed by a surge in its
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-q3-revenue-soars-161-yoy-on-ai-business-growth-beating-estimates/articleshow/135076651.cms
+- Jio IPO opens with 22% GMP: Check brokerage views, allotment chances and other details
+  The Rs 30,213 crore IPO will remain open until October 23. At the upper end of the price band, Jio Platforms is seeking a valuation of Rs 10.3 lakh crore.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-opens-with-22-gmp-check-brokerage-views-allotment-chances-and-other-details/articleshow/135080093.cms
 
-- Copper stays range bound as US tariff uncertainty, oil inflation risks weigh
-  Goldman Sachs expects copper prices to average $15,400 a ton in 2027. Uncertainty over potential US tariffs and inflation risks from higher oil prices kept traders cautious.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-stays-range-bound-as-us-tariff-uncertainty-oil-inflation-risks-weigh/articleshow/135074839.cms
+- Negative Breakout: These 8 large-cap stocks cross below their 200 DMAs
+  The 200 DMA is a widely used technical indicator that helps traders assess
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-large-cap-stocks-cross-below-their-200-dmas/slideshow/135080058.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Sensex fell nearly 900 points and the Nifty dropped below 22,900. Private bank selling, weak global cues and earnings uncertainty weighed on sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms
+- Oil Price Today (October 21): Crude oil crosses $110 amid Middle East supply concerns. What lies ahead?
+  Brent crude futures jumped more than $1 to trade at around $110 per barrel. WTI Crude futures also gained
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-21-crude-oil-crosses-110-amid-middle-east-supply-concerns-what-lies-ahead/articleshow/135079942.cms
 
-- Aerospace and military contractors raise 2026 profit forecasts
-  Northrop Grumman and RTX have raised their annual profit forecasts due to strong military demand. GE Aerospace, while performing well, has warned about potential declines in demand due to high fuel prices.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms
+- Gold slips as investors await Fed rate signals
+  Gold prices fell slightly as investors monitored the Federal Reserve's major interest rate decision. The anticipated meeting will provide key insights into future economic policies. Economists expect the Fed to hold rates steady, emphasizing inflation concerns.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-await-fed-rate-signals/articleshow/135079883.cms
 
-- India: UN experts alarmed by fresh crackdown on protests and rights violations - ohchr
-  India's crackdown on anti-government protests has been
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZFBTQlNfT3k4eTZkcWc3aFZ6bGpwSEt4bmxSSEFzWXJvakNxWnk4RzdVYXd4XzZCQ0RmelpYdUxpX0RqSUIxWWhVMnZwdld2Q3FkOFlJSkpqeUk5alF6V2ZrS1E0bEIzLVFXY1hwaDBBS0JQdVV1SmRHS1U2ZkFxNUNWR1J1R0ZSMm11OEsyakJ0U2VPUzdzcG15aE53QlRHTUJNei03VGZsa0dBTWM0WkJFeG5QNzUwQi1j?oc=5
+- ‘Play the ball as late as possible’: Sunil Gavaskar’s advice to India batters for New Zealand Tests - The Times of India
+  Sunil Gavaskar’s advice to India batters for New Zealand Tests.
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX2Yzc0RINTNVZVRvZzNIbFpGeWFydzg1VzFVQ2tqSlhETXhJTkhGR3BLUnJhcGJxcVZZRHhBUHRmRFBPbU82c292OWswNmN6NmRTVm9tU1MzdFdCRjdUZVFvRWI0LS11V1VEdktXQ0pScUxjcnhuSGxWaEJBc2NCYUpiUFFHQ3BZcFVod1RmMUMyVG5qODZiVjRVSnJBMk90SVdtN0ZtTkcydE1OQUQxb1dHVlVzZG9rbnBRZ1YzazZwaEdybGI0cnhTZEc4bHF1cVRqNzNJWlJwcHAyc244NDhqRHR0RTczMHBLYVJIQlNKRlg1QXJKeFNrekxNNzhMVkc0MDdDR3bSAY4CQVVfeXFMUGx2QnlQT0pfUVkyZ0NyUnM0T0J1RE9aU2NBOGV4RTRiM2xnT0lSbWxORHY3Y2huR2hKanU4VDNYczNxWnJHSGpudGljbFlwM3psOEc5ZUh2VFVhRGlpbjFpN1NTckFTYjFNeS1DaTBQd05YUkJCZWNrR2hGVHV5YjZxbm96MUF1Ul84VTJLUGxKaFNTOF9TV0VPbkhNT2VSZnRhSF8xUmRPbFNrQV9sWHlHbXVKMFFCSTdRblFCNHJVS2poX1NTMnBlLW5heFhHcjdVVTZpeEk5TGtzc04xdks2SUhtRTY1YUR2LXFXQTh3b3dYT0QyaG81YzNlVV9lb2ZGZExrNThOUlBrUDdB?oc=5
 
-- "Too Tired?" BJP Posts In-Flight Video, Claims Rahul Gandhi Off To Vietnam, Congress Reacts - NDTV
-  "Too Tired?" BJP Posts In-Flight Video,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEQ3SHppeWFMbzFSVnJjdkhFVXJaYVpzVjZaR3pTc0N0Wk9KWWlwVEM5RExEOE12Q0JBNU5PdHFxb2VwWlBESDlNSDFzVzgtczNRazRza0UzcU5zYlNJS3JQVTNrNERUWGRGdzZJM2tKR1RqakZUWkhEclVmWVJNVEVVMjJaTXNRMk03azlZY3BpZDVkRnVOVkZ5SXZibzl5UlpVM1VSZmlBWlVJdU40Tk1wVkM0Y3ZpRDBmYVRoZE5PMkJ5RVHSAc4BQVVfeXFMTlN0RGxPeVdKZnAwM1J3SXBidS1JVkJPUnZza1Njblc0cU9DY3c1NnBmbDBiT05IcWcybDRROU1XdkQwOVh5dmJnR2dycVB6NDkyTjF0RXQwQXdta3kySmlKNXc4VExfYUE3c0xSRmN6U05ZekZzUFFXR2w0VXFYOEIxUEk2eDBINnNXMV9xZkhoYUtoeEJub3hza21xS2Nuc3piemE2Ry1vSE5NdXhncTZoY2RoVWtVTlU1ejFuaG4ydDdqSmViXzd2Zmc0NEE?oc=5
+- Rubio pushes US energy, defence deals as India trade pact nears finish - Rediff
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkZYNVdNSVM2U1pobEhWNFhoQWlnUmV6Skp0T2FOb0c5V1hFU09lVHEza3dURlBWbS1xeVBRN2R5V2RCYlBWZVRYeExhR2tITmVfdGxUUU05b05VaUVfcEEwSWpYYjg3aF
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkZYNVdNSVM2U1pobEhWNFhoQWlnUmV6Skp0T2FOb0c5V1hFU09lVHEza3dURlBWbS1xeVBRN2R5V2RCYlBWZVRYeExhR2tITmVfdGxUUU05b05VaUVfcEEwSWpYYjg3aFJtSGxEVnBNdWdMNmxkRGpZZk1FMlBCNHNMNkc4SUZUbURNdWRPeGQwTHhlZDdoVlRTYnhnS0NIZFpjc09MeWh4Vi1iY0lnU21TNUtub3fSAboBQVVfeXFMTnFSMXlIMy1JZ29waklWU0Y3ZTgyUnJMbFNqLWtfZGFvRWVqM3p2NXYzZUdjLUY0QWtrSklhZFpyOEJuVk9PWFdJQTNvSXpsRF9ZVWZSWElRdm8zOGp2cVVHMWFER0EtUlBZWGR5c0tscGhIU2JyRllvZjd2WENDSlBaSmhnYkc0dVFuY2VrOWVEcGFvZ2N2c1U2Z1lzZThkZUZHeU5KR19GSnpocXZ1emllc3dsWl9xWXBn?oc=5
 
-- In pictures: Dussehra celebrated across India as triumph of good over evil - BBC
-  In pictures: Dussehra celebrated across India
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hd01BdE1zT2ZRQ09PWHI1MmtLX2NrbjV1NFpHSFdlbjgzSFE5ZVdOT0VnUEk1TDYyQVdRa2tCdExNNnVmQ1NxZlE4SWJlTmhhZ2FPTnlDMjAwUjA?oc=5
+- UN experts call on India to stop using ‘excessive force’ against protesters - Al Jazeera
+  UN experts call on India to stop using ‘ex
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNOE83VkVZMjJFUGViTTlTdFBRVVlqTEhvdXBaZnE1VU1NOV9NeUw1OEpJcEw3Z011ZGxIZTZ1ZmdGOVZaRzBHS2tZVU1ib0dPMG45dm1DS3VnY3BORHhIUGF6TEJKbEIybkY0UlFyWTBxbTEwSjBfaG1tY1JIZzdIcHBrSW41ZGJGOFdQejc2a2Y1M2MxZnVPTHZmYXpCaUlvUlVXYmc0a1lWWks5UE1RUU9lZ2tqUQ?oc=5
+
+- "Will Have To Defeat Them": PM Modi's Dussehra Call To Fight India's "Enemies" - NDTV
+  PM Modi's Dussehra Call To Fight India
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc3ZxcmpkVDhoMk9pVm9HczdwczZuYzNXcEd0c1NTRWxFYTF2OGZBOWoxb1dLSzZrVUQ4R0tXTkZmU1JpTldkV1NZcVFrbUNsOXE1b1gxZWNTb2o2bm8tNlhLRDFWckhLUm5idUg5QlVETThfTlhEWE1oalY3U21yVXJwQ0ZYbTZiaDVVcU5WbTU1YV9GUlBoeTFWZXFaTHlXdjB3Z2dxVGNsR1hDNXNiUExaYlFQbUZIbmNmUVY0Vzd4a1ZrVUxyeU9nOTNBX2doX0VN0gHbAUFVX3lxTE9ZVWlrVjNhcTU0ZFlqUmxnQThaZVdiVHllTnE4QXZnTzZxQmZVQUEtOUh2Q05iRWhsWE13TjBXS2dsMGxBMkVuQ1R5cWFLUDJMOTZrcFRKbEJMUEZ4aDd5WmZfMlp1VVM1dGp3cnpqU09VeHBJMGF5T0ZNNEszdXhMUTFLOHNlSDY1SVhNWmRUZnd2VkpvOUpkMUFETWNIY2NqMUlMZDJYUkVTOHYxNDk5dEt4UHFPWDVDeUFLOGt1ZDhjencxem9abklFdlZtczhVaGRXVmNpMnBMaw?oc=5
 
 - Evening news wrap: Rubio calls India a refining superpower; Kharge to raise SIR, delimitation concerns wi - The Times of India
   The Times of India is a leading newspaper in India.
   🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQMmluRUh1NFRzUy0wWjV5dWZKNFRPUGhDZE8xd3dTSDhpSEljSG04MFFNWE5YSW1RRnZUQ0UyX2VBbmM2b3hkaVYydmZBSTVUWE9VZ3VPcWREdjUwT2tSajJUeFBFTmJEa2drZTRuaWF5OE1WLVR2UDd1VjRLZ2lqa094RDJyNm1paG53WXFLZGhmR3p5YWtPd3M1NkZfcjR1ZjJlUzI2UkVfandhRzVzdlQ0akZvN2RMWFlQLW9xWXlGeXJYeGYyWHZpaDhHNVJxMXRvdE1sTHQxZXdrMnlrSTZmU2I4UmRkV0xHN003c0U2SmRZYllFVEdfQnhUcmNqa01XdGFPb3lhYl8ydmFSQWdYY9IBmAJBVV95cUxNWDk5eHYwUGF3VFlIX3lON2FHakJGY1R0TWFRdkhXREJ6R0JCTy16cVl2bFZMQWc1TlExd3lMb2xQZHFiTktQY1YyMVYzdUpTZmo1Mng4LTlxWGp5QVUtQ1A4R25ENnpKV19keGEyZVV6MkxBZkotOGNLWDlpa3lWbzBCRnhoSFUwU2ZMcV9UZ292SWpYem95N0hpMmFPN2IzWFdXV2d3Rm5jQXUwOVFtRThLc0JLcHdLZlhVQkRqczlKQW96cFVMblNscGxnZ241U1Z2RVRHbEw0YTczcHlxZy1xY01kUFlmcWowYWRoak5XUmxLYVVZcmF6aU1pa0tRR3dBY3JTZUxCTm5aYVBEdEJWOUVhcTlQ?oc=5
 
-- "Will Have To Defeat Them": PM Modi's Dussehra Call To Fight India's "Enemies" - NDTV
-  PM Modi's Dussehra Call To Fight India
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc3ZxcmpkVDhoMk9pVm9HczdwczZuYzNXcEd0c1NTRWxFYTF2OGZBOWoxb1dLSzZrVUQ4R0tXTkZmU1JpTldkV1NZcVFrbUNsOXE1b1gxZWNTb2o2bm8tNlhLRDFWckhLUm5idUg5QlVETThfTlhEWE1oalY3U21yVXJwQ0ZYbTZiaDVVcU5WbTU1YV9GUlBoeTFWZXFaTHlXdjB3Z2dxVGNsR1hDNXNiUExaYlFQbUZIbmNmUVY0Vzd4a1ZrVUxyeU9nOTNBX2doX0VN0gHbAUFVX3lxTE9ZVWlrVjNhcTU0ZFlqUmxnQThaZVdiVHllTnE4QXZnTzZxQmZVQUEtOUh2Q05iRWhsWE13TjBXS2dsMGxBMkVuQ1R5cWFLUDJMOTZrcFRKbEJMUEZ4aDd5WmZfMlp1VVM1dGp3cnpqU09VeHBJMGF5T0ZNNEszdXhMUTFLOHNlSDY1SVhNWmRUZnd2VkpvOUpkMUFETWNIY2NqMUlMZDJYUkVTOHYxNDk5dEt4UHFPWDVDeUFLOGt1ZDhjencxem9abklFdlZtczhVaGRXVmNpMnBMaw?oc=5
+- Apple’s FY26 Snapshot, Flipkart’s Foodtech Foray & More
+  Apple’s India story is no longer just about iPhone sales. In FY26, the smartphone maker's profits rose to $1.2 billion.
+  🔗 https://inc42.com/buzz/apples-fy26-snapshot-flipkarts-foodtech-foray-more/
 
 - Can Hotels Become ixigo’s Fourth Growth Engine?
   Travel tech company ixigo is betting on hotels as its fourth growth engine alongside trains, flights, and buses.
@@ -176,49 +180,45 @@
   Apple India reported a 66% year-on-year (YoY) increase in its net profit during the fiscal year ended March 31, 2026.
   🔗 https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/
 
-- IndiQube To Invest ₹35 Cr In Office Space Developer SaiEdge Realty
-  Listed coworking space provider IndiQube Spaces’ board has approved an investment of up to ₹35 Cr in Sai
-  🔗 https://inc42.com/buzz/indiqube-to-invest-%e2%82%b935-cr-in-office-space-developer-saiedge-realty/
+- ‘Play the ball as late as possible’: Sunil Gavaskar’s advice to India batters for New Zealand Tests - The Times of India
+  Sunil Gavaskar’s advice to India batters for New Zealand Tests.
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX2Yzc0RINTNVZVRvZzNIbFpGeWFydzg1VzFVQ2tqSlhETXhJTkhGR3BLUnJhcGJxcVZZRHhBUHRmRFBPbU82c292OWswNmN6NmRTVm9tU1MzdFdCRjdUZVFvRWI0LS11V1VEdktXQ0pScUxjcnhuSGxWaEJBc2NCYUpiUFFHQ3BZcFVod1RmMUMyVG5qODZiVjRVSnJBMk90SVdtN0ZtTkcydE1OQUQxb1dHVlVzZG9rbnBRZ1YzazZwaEdybGI0cnhTZEc4bHF1cVRqNzNJWlJwcHAyc244NDhqRHR0RTczMHBLYVJIQlNKRlg1QXJKeFNrekxNNzhMVkc0MDdDR3bSAY4CQVVfeXFMUGx2QnlQT0pfUVkyZ0NyUnM0T0J1RE9aU2NBOGV4RTRiM2xnT0lSbWxORHY3Y2huR2hKanU4VDNYczNxWnJHSGpudGljbFlwM3psOEc5ZUh2VFVhRGlpbjFpN1NTckFTYjFNeS1DaTBQd05YUkJCZWNrR2hGVHV5YjZxbm96MUF1Ul84VTJLUGxKaFNTOF9TV0VPbkhNT2VSZnRhSF8xUmRPbFNrQV9sWHlHbXVKMFFCSTdRblFCNHJVS2poX1NTMnBlLW5heFhHcjdVVTZpeEk5TGtzc04xdks2SUhtRTY1YUR2LXFXQTh3b3dYT0QyaG81YzNlVV9lb2ZGZExrNThOUlBrUDdB?oc=5
 
-- India: UN experts alarmed by fresh crackdown on protests and rights violations - ohchr
-  India's crackdown on anti-government protests has been
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZFBTQlNfT3k4eTZkcWc3aFZ6bGpwSEt4bmxSSEFzWXJvakNxWnk4RzdVYXd4XzZCQ0RmelpYdUxpX0RqSUIxWWhVMnZwdld2Q3FkOFlJSkpqeUk5alF6V2ZrS1E0bEIzLVFXY1hwaDBBS0JQdVV1SmRHS1U2ZkFxNUNWR1J1R0ZSMm11OEsyakJ0U2VPUzdzcG15aE53QlRHTUJNei03VGZsa0dBTWM0WkJFeG5QNzUwQi1j?oc=5
+- Rubio pushes US energy, defence deals as India trade pact nears finish - Rediff
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkZYNVdNSVM2U1pobEhWNFhoQWlnUmV6Skp0T2FOb0c5V1hFU09lVHEza3dURlBWbS1xeVBRN2R5V2RCYlBWZVRYeExhR2tITmVfdGxUUU05b05VaUVfcEEwSWpYYjg3aF
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkZYNVdNSVM2U1pobEhWNFhoQWlnUmV6Skp0T2FOb0c5V1hFU09lVHEza3dURlBWbS1xeVBRN2R5V2RCYlBWZVRYeExhR2tITmVfdGxUUU05b05VaUVfcEEwSWpYYjg3aFJtSGxEVnBNdWdMNmxkRGpZZk1FMlBCNHNMNkc4SUZUbURNdWRPeGQwTHhlZDdoVlRTYnhnS0NIZFpjc09MeWh4Vi1iY0lnU21TNUtub3fSAboBQVVfeXFMTnFSMXlIMy1JZ29waklWU0Y3ZTgyUnJMbFNqLWtfZGFvRWVqM3p2NXYzZUdjLUY0QWtrSklhZFpyOEJuVk9PWFdJQTNvSXpsRF9ZVWZSWElRdm8zOGp2cVVHMWFER0EtUlBZWGR5c0tscGhIU2JyRllvZjd2WENDSlBaSmhnYkc0dVFuY2VrOWVEcGFvZ2N2c1U2Z1lzZThkZUZHeU5KR19GSnpocXZ1emllc3dsWl9xWXBn?oc=5
 
-- "Too Tired?" BJP Posts In-Flight Video, Claims Rahul Gandhi Off To Vietnam, Congress Reacts - NDTV
-  "Too Tired?" BJP Posts In-Flight Video,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEQ3SHppeWFMbzFSVnJjdkhFVXJaYVpzVjZaR3pTc0N0Wk9KWWlwVEM5RExEOE12Q0JBNU5PdHFxb2VwWlBESDlNSDFzVzgtczNRazRza0UzcU5zYlNJS3JQVTNrNERUWGRGdzZJM2tKR1RqakZUWkhEclVmWVJNVEVVMjJaTXNRMk03azlZY3BpZDVkRnVOVkZ5SXZibzl5UlpVM1VSZmlBWlVJdU40Tk1wVkM0Y3ZpRDBmYVRoZE5PMkJ5RVHSAc4BQVVfeXFMTlN0RGxPeVdKZnAwM1J3SXBidS1JVkJPUnZza1Njblc0cU9DY3c1NnBmbDBiT05IcWcybDRROU1XdkQwOVh5dmJnR2dycVB6NDkyTjF0RXQwQXdta3kySmlKNXc4VExfYUE3c0xSRmN6U05ZekZzUFFXR2w0VXFYOEIxUEk2eDBINnNXMV9xZkhoYUtoeEJub3hza21xS2Nuc3piemE2Ry1vSE5NdXhncTZoY2RoVWtVTlU1ejFuaG4ydDdqSmViXzd2Zmc0NEE?oc=5
-
-- In pictures: Dussehra celebrated across India as triumph of good over evil - BBC
-  In pictures: Dussehra celebrated across India
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hd01BdE1zT2ZRQ09PWHI1MmtLX2NrbjV1NFpHSFdlbjgzSFE5ZVdOT0VnUEk1TDYyQVdRa2tCdExNNnVmQ1NxZlE4SWJlTmhhZ2FPTnlDMjAwUjA?oc=5
-
-- Evening news wrap: Rubio calls India a refining superpower; Kharge to raise SIR, delimitation concerns wi - The Times of India
-  The Times of India is a leading newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQMmluRUh1NFRzUy0wWjV5dWZKNFRPUGhDZE8xd3dTSDhpSEljSG04MFFNWE5YSW1RRnZUQ0UyX2VBbmM2b3hkaVYydmZBSTVUWE9VZ3VPcWREdjUwT2tSajJUeFBFTmJEa2drZTRuaWF5OE1WLVR2UDd1VjRLZ2lqa094RDJyNm1paG53WXFLZGhmR3p5YWtPd3M1NkZfcjR1ZjJlUzI2UkVfandhRzVzdlQ0akZvN2RMWFlQLW9xWXlGeXJYeGYyWHZpaDhHNVJxMXRvdE1sTHQxZXdrMnlrSTZmU2I4UmRkV0xHN003c0U2SmRZYllFVEdfQnhUcmNqa01XdGFPb3lhYl8ydmFSQWdYY9IBmAJBVV95cUxNWDk5eHYwUGF3VFlIX3lON2FHakJGY1R0TWFRdkhXREJ6R0JCTy16cVl2bFZMQWc1TlExd3lMb2xQZHFiTktQY1YyMVYzdUpTZmo1Mng4LTlxWGp5QVUtQ1A4R25ENnpKV19keGEyZVV6MkxBZkotOGNLWDlpa3lWbzBCRnhoSFUwU2ZMcV9UZ292SWpYem95N0hpMmFPN2IzWFdXV2d3Rm5jQXUwOVFtRThLc0JLcHdLZlhVQkRqczlKQW96cFVMblNscGxnZ241U1Z2RVRHbEw0YTczcHlxZy1xY01kUFlmcWowYWRoak5XUmxLYVVZcmF6aU1pa0tRR3dBY3JTZUxCTm5aYVBEdEJWOUVhcTlQ?oc=5
+- UN experts call on India to stop using ‘excessive force’ against protesters - Al Jazeera
+  UN experts call on India to stop using ‘ex
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNOE83VkVZMjJFUGViTTlTdFBRVVlqTEhvdXBaZnE1VU1NOV9NeUw1OEpJcEw3Z011ZGxIZTZ1ZmdGOVZaRzBHS2tZVU1ib0dPMG45dm1DS3VnY3BORHhIUGF6TEJKbEIybkY0UlFyWTBxbTEwSjBfaG1tY1JIZzdIcHBrSW41ZGJGOFdQejc2a2Y1M2MxZnVPTHZmYXpCaUlvUlVXYmc0a1lWWks5UE1RUU9lZ2tqUQ?oc=5
 
 - "Will Have To Defeat Them": PM Modi's Dussehra Call To Fight India's "Enemies" - NDTV
   PM Modi's Dussehra Call To Fight India
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc3ZxcmpkVDhoMk9pVm9HczdwczZuYzNXcEd0c1NTRWxFYTF2OGZBOWoxb1dLSzZrVUQ4R0tXTkZmU1JpTldkV1NZcVFrbUNsOXE1b1gxZWNTb2o2bm8tNlhLRDFWckhLUm5idUg5QlVETThfTlhEWE1oalY3U21yVXJwQ0ZYbTZiaDVVcU5WbTU1YV9GUlBoeTFWZXFaTHlXdjB3Z2dxVGNsR1hDNXNiUExaYlFQbUZIbmNmUVY0Vzd4a1ZrVUxyeU9nOTNBX2doX0VN0gHbAUFVX3lxTE9ZVWlrVjNhcTU0ZFlqUmxnQThaZVdiVHllTnE4QXZnTzZxQmZVQUEtOUh2Q05iRWhsWE13TjBXS2dsMGxBMkVuQ1R5cWFLUDJMOTZrcFRKbEJMUEZ4aDd5WmZfMlp1VVM1dGp3cnpqU09VeHBJMGF5T0ZNNEszdXhMUTFLOHNlSDY1SVhNWmRUZnd2VkpvOUpkMUFETWNIY2NqMUlMZDJYUkVTOHYxNDk5dEt4UHFPWDVDeUFLOGt1ZDhjencxem9abklFdlZtczhVaGRXVmNpMnBMaw?oc=5
 
-- India: UN experts alarmed by fresh crackdown on protests and rights violations - ohchr
-  India's crackdown on anti-government protests has been
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZFBTQlNfT3k4eTZkcWc3aFZ6bGpwSEt4bmxSSEFzWXJvakNxWnk4RzdVYXd4XzZCQ0RmelpYdUxpX0RqSUIxWWhVMnZwdld2Q3FkOFlJSkpqeUk5alF6V2ZrS1E0bEIzLVFXY1hwaDBBS0JQdVV1SmRHS1U2ZkFxNUNWR1J1R0ZSMm11OEsyakJ0U2VPUzdzcG15aE53QlRHTUJNei03VGZsa0dBTWM0WkJFeG5QNzUwQi1j?oc=5
-
-- "Too Tired?" BJP Posts In-Flight Video, Claims Rahul Gandhi Off To Vietnam, Congress Reacts - NDTV
-  "Too Tired?" BJP Posts In-Flight Video,
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEQ3SHppeWFMbzFSVnJjdkhFVXJaYVpzVjZaR3pTc0N0Wk9KWWlwVEM5RExEOE12Q0JBNU5PdHFxb2VwWlBESDlNSDFzVzgtczNRazRza0UzcU5zYlNJS3JQVTNrNERUWGRGdzZJM2tKR1RqakZUWkhEclVmWVJNVEVVMjJaTXNRMk03azlZY3BpZDVkRnVOVkZ5SXZibzl5UlpVM1VSZmlBWlVJdU40Tk1wVkM0Y3ZpRDBmYVRoZE5PMkJ5RVHSAc4BQVVfeXFMTlN0RGxPeVdKZnAwM1J3SXBidS1JVkJPUnZza1Njblc0cU9DY3c1NnBmbDBiT05IcWcybDRROU1XdkQwOVh5dmJnR2dycVB6NDkyTjF0RXQwQXdta3kySmlKNXc4VExfYUE3c0xSRmN6U05ZekZzUFFXR2w0VXFYOEIxUEk2eDBINnNXMV9xZkhoYUtoeEJub3hza21xS2Nuc3piemE2Ry1vSE5NdXhncTZoY2RoVWtVTlU1ejFuaG4ydDdqSmViXzd2Zmc0NEE?oc=5
-
-- In pictures: Dussehra celebrated across India as triumph of good over evil - BBC
-  In pictures: Dussehra celebrated across India
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hd01BdE1zT2ZRQ09PWHI1MmtLX2NrbjV1NFpHSFdlbjgzSFE5ZVdOT0VnUEk1TDYyQVdRa2tCdExNNnVmQ1NxZlE4SWJlTmhhZ2FPTnlDMjAwUjA?oc=5
-
 - Evening news wrap: Rubio calls India a refining superpower; Kharge to raise SIR, delimitation concerns wi - The Times of India
   The Times of India is a leading newspaper in India.
   🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQMmluRUh1NFRzUy0wWjV5dWZKNFRPUGhDZE8xd3dTSDhpSEljSG04MFFNWE5YSW1RRnZUQ0UyX2VBbmM2b3hkaVYydmZBSTVUWE9VZ3VPcWREdjUwT2tSajJUeFBFTmJEa2drZTRuaWF5OE1WLVR2UDd1VjRLZ2lqa094RDJyNm1paG53WXFLZGhmR3p5YWtPd3M1NkZfcjR1ZjJlUzI2UkVfandhRzVzdlQ0akZvN2RMWFlQLW9xWXlGeXJYeGYyWHZpaDhHNVJxMXRvdE1sTHQxZXdrMnlrSTZmU2I4UmRkV0xHN003c0U2SmRZYllFVEdfQnhUcmNqa01XdGFPb3lhYl8ydmFSQWdYY9IBmAJBVV95cUxNWDk5eHYwUGF3VFlIX3lON2FHakJGY1R0TWFRdkhXREJ6R0JCTy16cVl2bFZMQWc1TlExd3lMb2xQZHFiTktQY1YyMVYzdUpTZmo1Mng4LTlxWGp5QVUtQ1A4R25ENnpKV19keGEyZVV6MkxBZkotOGNLWDlpa3lWbzBCRnhoSFUwU2ZMcV9UZ292SWpYem95N0hpMmFPN2IzWFdXV2d3Rm5jQXUwOVFtRThLc0JLcHdLZlhVQkRqczlKQW96cFVMblNscGxnZ241U1Z2RVRHbEw0YTczcHlxZy1xY01kUFlmcWowYWRoak5XUmxLYVVZcmF6aU1pa0tRR3dBY3JTZUxCTm5aYVBEdEJWOUVhcTlQ?oc=5
 
+- ‘Play the ball as late as possible’: Sunil Gavaskar’s advice to India batters for New Zealand Tests - The Times of India
+  Sunil Gavaskar’s advice to India batters for New Zealand Tests.
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX2Yzc0RINTNVZVRvZzNIbFpGeWFydzg1VzFVQ2tqSlhETXhJTkhGR3BLUnJhcGJxcVZZRHhBUHRmRFBPbU82c292OWswNmN6NmRTVm9tU1MzdFdCRjdUZVFvRWI0LS11V1VEdktXQ0pScUxjcnhuSGxWaEJBc2NCYUpiUFFHQ3BZcFVod1RmMUMyVG5qODZiVjRVSnJBMk90SVdtN0ZtTkcydE1OQUQxb1dHVlVzZG9rbnBRZ1YzazZwaEdybGI0cnhTZEc4bHF1cVRqNzNJWlJwcHAyc244NDhqRHR0RTczMHBLYVJIQlNKRlg1QXJKeFNrekxNNzhMVkc0MDdDR3bSAY4CQVVfeXFMUGx2QnlQT0pfUVkyZ0NyUnM0T0J1RE9aU2NBOGV4RTRiM2xnT0lSbWxORHY3Y2huR2hKanU4VDNYczNxWnJHSGpudGljbFlwM3psOEc5ZUh2VFVhRGlpbjFpN1NTckFTYjFNeS1DaTBQd05YUkJCZWNrR2hGVHV5YjZxbm96MUF1Ul84VTJLUGxKaFNTOF9TV0VPbkhNT2VSZnRhSF8xUmRPbFNrQV9sWHlHbXVKMFFCSTdRblFCNHJVS2poX1NTMnBlLW5heFhHcjdVVTZpeEk5TGtzc04xdks2SUhtRTY1YUR2LXFXQTh3b3dYT0QyaG81YzNlVV9lb2ZGZExrNThOUlBrUDdB?oc=5
+
+- Rubio pushes US energy, defence deals as India trade pact nears finish - Rediff
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkZYNVdNSVM2U1pobEhWNFhoQWlnUmV6Skp0T2FOb0c5V1hFU09lVHEza3dURlBWbS1xeVBRN2R5V2RCYlBWZVRYeExhR2tITmVfdGxUUU05b05VaUVfcEEwSWpYYjg3aF
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkZYNVdNSVM2U1pobEhWNFhoQWlnUmV6Skp0T2FOb0c5V1hFU09lVHEza3dURlBWbS1xeVBRN2R5V2RCYlBWZVRYeExhR2tITmVfdGxUUU05b05VaUVfcEEwSWpYYjg3aFJtSGxEVnBNdWdMNmxkRGpZZk1FMlBCNHNMNkc4SUZUbURNdWRPeGQwTHhlZDdoVlRTYnhnS0NIZFpjc09MeWh4Vi1iY0lnU21TNUtub3fSAboBQVVfeXFMTnFSMXlIMy1JZ29waklWU0Y3ZTgyUnJMbFNqLWtfZGFvRWVqM3p2NXYzZUdjLUY0QWtrSklhZFpyOEJuVk9PWFdJQTNvSXpsRF9ZVWZSWElRdm8zOGp2cVVHMWFER0EtUlBZWGR5c0tscGhIU2JyRllvZjd2WENDSlBaSmhnYkc0dVFuY2VrOWVEcGFvZ2N2c1U2Z1lzZThkZUZHeU5KR19GSnpocXZ1emllc3dsWl9xWXBn?oc=5
+
+- UN experts call on India to stop using ‘excessive force’ against protesters - Al Jazeera
+  UN experts call on India to stop using ‘ex
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNOE83VkVZMjJFUGViTTlTdFBRVVlqTEhvdXBaZnE1VU1NOV9NeUw1OEpJcEw3Z011ZGxIZTZ1ZmdGOVZaRzBHS2tZVU1ib0dPMG45dm1DS3VnY3BORHhIUGF6TEJKbEIybkY0UlFyWTBxbTEwSjBfaG1tY1JIZzdIcHBrSW41ZGJGOFdQejc2a2Y1M2MxZnVPTHZmYXpCaUlvUlVXYmc0a1lWWks5UE1RUU9lZ2tqUQ?oc=5
+
 - "Will Have To Defeat Them": PM Modi's Dussehra Call To Fight India's "Enemies" - NDTV
   PM Modi's Dussehra Call To Fight India
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc3ZxcmpkVDhoMk9pVm9HczdwczZuYzNXcEd0c1NTRWxFYTF2OGZBOWoxb1dLSzZrVUQ4R0tXTkZmU1JpTldkV1NZcVFrbUNsOXE1b1gxZWNTb2o2bm8tNlhLRDFWckhLUm5idUg5QlVETThfTlhEWE1oalY3U21yVXJwQ0ZYbTZiaDVVcU5WbTU1YV9GUlBoeTFWZXFaTHlXdjB3Z2dxVGNsR1hDNXNiUExaYlFQbUZIbmNmUVY0Vzd4a1ZrVUxyeU9nOTNBX2doX0VN0gHbAUFVX3lxTE9ZVWlrVjNhcTU0ZFlqUmxnQThaZVdiVHllTnE4QXZnTzZxQmZVQUEtOUh2Q05iRWhsWE13TjBXS2dsMGxBMkVuQ1R5cWFLUDJMOTZrcFRKbEJMUEZ4aDd5WmZfMlp1VVM1dGp3cnpqU09VeHBJMGF5T0ZNNEszdXhMUTFLOHNlSDY1SVhNWmRUZnd2VkpvOUpkMUFETWNIY2NqMUlMZDJYUkVTOHYxNDk5dEt4UHFPWDVDeUFLOGt1ZDhjencxem9abklFdlZtczhVaGRXVmNpMnBMaw?oc=5
+
+- Evening news wrap: Rubio calls India a refining superpower; Kharge to raise SIR, delimitation concerns wi - The Times of India
+  The Times of India is a leading newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQMmluRUh1NFRzUy0wWjV5dWZKNFRPUGhDZE8xd3dTSDhpSEljSG04MFFNWE5YSW1RRnZUQ0UyX2VBbmM2b3hkaVYydmZBSTVUWE9VZ3VPcWREdjUwT2tSajJUeFBFTmJEa2drZTRuaWF5OE1WLVR2UDd1VjRLZ2lqa094RDJyNm1paG53WXFLZGhmR3p5YWtPd3M1NkZfcjR1ZjJlUzI2UkVfandhRzVzdlQ0akZvN2RMWFlQLW9xWXlGeXJYeGYyWHZpaDhHNVJxMXRvdE1sTHQxZXdrMnlrSTZmU2I4UmRkV0xHN003c0U2SmRZYllFVEdfQnhUcmNqa01XdGFPb3lhYl8ydmFSQWdYY9IBmAJBVV95cUxNWDk5eHYwUGF3VFlIX3lON2FHakJGY1R0TWFRdkhXREJ6R0JCTy16cVl2bFZMQWc1TlExd3lMb2xQZHFiTktQY1YyMVYzdUpTZmo1Mng4LTlxWGp5QVUtQ1A4R25ENnpKV19keGEyZVV6MkxBZkotOGNLWDlpa3lWbzBCRnhoSFUwU2ZMcV9UZ292SWpYem95N0hpMmFPN2IzWFdXV2d3Rm5jQXUwOVFtRThLc0JLcHdLZlhVQkRqczlKQW96cFVMblNscGxnZ241U1Z2RVRHbEw0YTczcHlxZy1xY01kUFlmcWowYWRoak5XUmxLYVVZcmF6aU1pa0tRR3dBY3JTZUxCTm5aYVBEdEJWOUVhcTlQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-20 21:11:31 UTC_
+_Last updated: 2026-10-21 02:59:18 UTC_
