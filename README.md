@@ -12,73 +12,81 @@
   Indian court orders release of two leaders of Cock
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzRaYTBCVWZDcVN1MGxsb0Z4TlR5dXVJdlBZZkUycnpJcTBFd2lWZ1h5WmFfNHhNbmZPSzhqSi1yMWd5cEFnT0dzUFJqamktZ0NpTzQydzAydnRxQlRsTVJtRU9DbEhTUklNT2laOVZlWXo2RXFMY2FQUE94OWJsa284bi1mZHpHLThCcGtERlhBczNPamg3dTJ0XzVlSzFpeTVOVFFTXzZKTkpMQnI1NzVRQ2ZqR0Vk?oc=5
 
-- PM Modi reviews state of Indian economy with FM Sitharaman, EAC-PM members - Moneycontrol.com
-  PM Modi reviews state of Indian economy with FM Sith
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2hHb05JdEtBVkVvMG1MalFvVkx2R2pPSkk5akI0UzhpcUZWVW1wYWFiamw3MXktR3JoWEJET0x0dkxQWEIxdXliZ1ZQaFJSbVFPYVdDeWh1WjVWZkZxdDZGZEt0MnZocjhoekJLNmhMV2x1LVFiQXRjNEdydk13U2Rkb25xS3daRnh1UU03S2FRamg5MVpUZmd5cDVCeWk2Rk1MR0ZMaVVwWUNWREVyODdOMXl5Y0FsejdSY0V5TXpzU0ZuS3pMZDhwNG1JVjhFaDFMQtIB2gFBVV95cUxNUE5IR19lV2VGRDU2V3llWjZGdm02WE5Xc0laeG1Va1BrekxRdXZvdmNkX0ZPRmF4aHpRMGVITzhRN3JYT1V5bEtWblZBQkRnMXZ0SFo2SlNkMkVITmtrREpDb3NFYXVHNjgyTUI4amUxZEhhbExXSldPeTBFdlJKc1JPMmlSU0luS2dxR2dJZTZYYkQzdTdDUEpRZHdMTlRCOFZiVzlDaUJIeHZLV0tjRVczaW12Z0tBdkRxd2M2TUhrQm1fX1UyRVNBZzBFSEhKN2hvd1d5V1N5QQ?oc=5
+- Donald Trump Says "Much Different Kind" Of India-US Trade Deal Is "Pretty Close" - NDTV
+  Donald Trump Says "Much Different Kind" Of India-
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnR5bGhfMjVLc1RBM202QWxHNFFhLVNnOGdlTHNaM1RySndXNFpQWVAzb0VNd1VwT21aaWpON0FjSld4Yi1kODRsSmFXeXFTNDVvaUllM2wzUWI0emFmVm8wR0lYSVg0c3dadFA3OXdiLWxveDB3SF8tWVlEa2REWnlleHBqaTZIZ1Rpb3FnQnd0QkMteXVBeFVqOEtHQ0NUWTYtMmtZVERVZG1QZmZsRHlPUGZUaHNF0gHAAUFVX3lxTFBTMmREMU5MYjdvRl8wTWxfS2pWX004bXhXNnlMUDc2Yk1tM2JXTDJnS05BdEtCY21aTi16WWxuVDdiM2YzV2tveTBpdVdqc3A5bEptdDk5ZVhuU0JuXzZtU2xpTk55SzR1SEd1RVRjTGFCejEtQ2hiSGVrQkcwczZHS3BJb0JjQV9NR0RzeUhsVnFjQkEwVjBRWTBfeDdBUEZaWHY4VTZ1NHJVcHlMeEtQbHR6MTgxYzFucEJyMTNZNA?oc=5
 
-- PM Modi flags three ‘enemies’ of India, calls for unity in national interest - The Hindu
-  PM Modi flags three ‘enemies’ of India
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGg4dUtaYTJmSk9pMXAydG1QQnJOUFdpQVFzSkhZa2IwSmdQRDZ1TE16d3lVVlpCVWxIM0lrbWwySVpqeEpHZXFLdWt1LWVCUHRVVW11SWlwVUM2OG9YZWQ3S1M0amt6ajNrWG1IR3QwcXBuajlYd05ENnlNV0xqYzJMdVhzT3FIQlo3RGxRU2loZWZ6TC1JSVJ6UFVqS2dyXzNFM2U2WHJNNVRpbkw1T1ZqMTNYQlhYMUFMSEdVa0taRWgteU1QS3dtR3HSAdMBQVVfeXFMT2FEN1BtMHVrWGgwYUNwdUFIUEZMb1NCT2RiTDVyYTlPVTJRYnRXTHh0bnpHUTBsZmxuS0ZnMURnY0JNTUdQbHpTbnRIWmdta3ZsZGJwT2RnYW4tc05rYkV5QXZSa2hOZGhEeDJFQVNuSE5pVDNYQWdsTkpkX2x6bU5qZ2JGSkJiU1Nmb3ZNUlhSMEFlMFVDUjZKdy1Hc2NuajhDdGVseVpDNjMzc3ppSWhnRmNCdnZPbU16N3NJMlFxNmg2ZWJTaldubWxSUjZlcFVySQ?oc=5
+- India, U.S. trade deal to be much different: Donald Trump - The Hindu
+  India, U.S. trade deal to
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGYtRUs5b2VjbG51aWlJbHJvQWFuSkJmdk5JUWpUU01jb0MzMXB3VnZlaUNpYzVhVWFmZTBWSE80Z0tWUzBXekVmQ09uN052ZXBfTzhhd250aE1rM043T1M0QkZoVXJrT21FcG8zbEFqMUIya3dUMVFQd0t6YW1PbTFXR2QtQjd4clNWT0NwdXd5Sm1SaEw1eWFVRjZicTRrY3VQQXBtei1qTnM0Y1FsOG5pREtzY2pG0gG_AUFVX3lxTFAyVHp6M2c2NjllMUNXMjJQazhwZUJaNDRVU2JmQmk0RlFfNXVXUFd6d0ZjcmlsWGdvNlI1VVhiR24xSjRCeTYtYjVKT3c2c2dVTGhwZ0R4WnZ2Y0J4M2QxOGtJUjhoUUFSSFNGVnJldGV2bkV3Q3A3emJKdDZCQ2EwaXRZSXEyVDdUcWhleUlQQnQyOFhDOXRyQkRJcENkMl9NS2pXUjloQWdpSDNBbXZ2RXo5TzM0bVVsSC1Dc3Zn?oc=5
 
 - Top Strategic Technology Trends for 2027 - Gartner
   Top Strategic Technology Trends
   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMGNNN1p0UTdtOXV0U3RoU2JvSGlYUXpQYTZIeEFvcHZGZVpiazBjZ2UyZ0ZhVzZ6NUl3c3Y3LTdCWUVfYVd1YnZuMFdtVElGcHlsR3IwM1BnYXBQNGZueEdldUZJOWM0UnRTQ3Y0WQ?oc=5
 
-- Websites taken down worldwide as critical cyber-security update issued - BBC
-  Websites taken down worldwide as
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYkJ1a0hkTXBMWUxzUGRNam81RzlXVTd0THJ2cWlvbVd4VmlNQ0ZzeHV0b21aR21mazJNTXAwSjRqN3VoNzgydHplRmRUamltaFJSUmZvcXBUZDg?oc=5
-
 - Where technology meets hunger: Inside Akshaya Patra’s quest to feed 2.35 million children a day - Express Computer
   Akshaya Patra is the founder and CEO of Express Computer.
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0swdF9vcV82UTR1VjA3aXRSQnptS3Fuc1ZlYXJQR0pkUERYZXV1LUs3bHZLMkxRLWUyeGpTRENCeGlhUnBONXppaG9idklTN1laUkFTTkE5dDd1bEV0VGtyNkRNWnpaRmtpcmxNSENlNjQwR09wbHlZUUJrc2ZzbFU2YnprU1JvMFJ0MlFQWUZCeFRRaUdmbnJHX0VEZ2tXSkh4SmlBcF84UmNlMFBhUXJTREZsTm96b0NPWTA4QXM0MnE4aTNjYjdQTE9wMFpmc0plaXlVakpmcUk?oc=5
 
-- Nvidia reveals plans for 'an AI factory in a shipping container' to build data centers in weeks, not months - Yahoo Finance
-  Nvidia reveals plans for 'an AI factory in a shipping container' to build data centers
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTGZiNW1ZS2NSU2tlWUI3dWVIa3BGa29BemtncHFaY2lCUWpxbW51Y1RsMEItelRSNEJMdS1tLTM1dy1GTmt4a0xva3pvRnJLSUs3alU4Zl9iZzg1ZDVJOGtqblh1dHZWYjhaN3pZbXJlYkNJWXpMTmNRWEpUeDl5bng5SXNNNUMzcHI3Z2YyRGRWM3RPOFVUSy02RTBBaWg5ZUdJOGRjellvZ3Y3SmI5cHNFOXpjZXFVWng4V3pFUVdxWnpZcVhWMWF3UFpwRTVIVzFMRWFJUjR5aVo2SEdWMVZWOUlubkhxeUpFVUQ2aFJvQjhxcEx3?oc=5
+- Next-generation warfare: Rethinking defence procurement, technological sovereignty and military capability d.. - ET Government
+  Next-generation warfare: Rethinking defence procurement
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjVsajJDRTl3dVhPWkVjQmRmZ1pMT0FaS3d2SEhWTXVjYVRKemtacFFNbWljNHpJSG5UT2F6TjlLSThDaTlnb0plU2pZcWhISWgwSFlaS3B3akdqbnpVX3B2NWtzRktQcXdIME55NUk3TEdTLTdQWTZEbkpqa3FIUXFpeGh6QVQ2TlhWVHROUGkzUUlka0thZzduMVlyVWZrTlo2OWRZbmJhUmpodzdGX3c4dl8zb3NLSGR1d1E4c3NhSWhJVDZtQ0NRdnJzazFxYWI2LV95ekgxdmRrVDFmX2ZtcWJiNkhJQ2dHaEZaQ0RrVFI2d01zMjlFVHpOUzNjcmxyM0d3eVVCUdIBjwJBVV95cUxOSVhQemtPOEIzRjhnSHVOcTljOVpyZnhQSlFWUFhzZ3NzNTJ4Z2NOSXdCMzVhVWVfemYtVk85Y3lrYlFFLW1RNXVUTmRxV1A0YjFERVRPRzdUV1ZlVWhXUTdPSm1faG9HM0pHQmZ4X1J0N3NaTzJxT21DaG5FVlFkdzhyVk9pZTBHaExqTWNoOFRLeGdiTFNVdGVzT3pPWU1QSndSVS1NZk91eXR3TnkzREtycGdsMk9mYlFOWkJxaFNZSURjT1I1cmY0ZGJ2SnFfR3d4WkdVRFpwbVh1QmdjdXBaTDBpTC1ob3NIVWRCSUlkQXpWX1p2ZDlNYVVCSlJ3Mmp2ZFBaSkY5MUxsbWRj?oc=5
 
-- SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, Elon Musk says - Space
-  SpaceX will attempt 1st-ever double Starship rocket catch on
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOUzVtaDlJRmdobGlFM0hQMThLZVdoWUp0YTFiZG5TVEZZSkN4YVFINlFYOTJWMVZFcWpjV3VJSkRtX0d1c0p6cFQzTWI2eTNOMzNNeW03OWk2V3ZJaDJMSWEwb1JpVkUwcFd0TXRuZy1ETzBILWd4X0lXaUIzR2ZvSjkxdnZ1cFlKUFBVeEQ4d0pKc2YtSnN1ODEzdXRsQ1lSQlFlRGZFTVphdnZldmNfY3VRNTlaQXhGVnR5X21HU0RiOHJCbnlYbEVUaEVSUmhPVk1MdGxQd2JxeERjcEFYOHBycW4ya2d5MHRJZzM4MmlaRXpxQzFsTVBFTmJQYWw2bFB3OFZrNXlKMzJqd0FfVTNn?oc=5
+- Google staff resign in backlash over its AI contracts with military - BBC
+  Google staff resign in backlash over its AI contracts
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RWVdJWjFtOWFyR2FOZzJSZlF5TmFGZDh6UVV6SHZ2V2ZvV0NDdm9hVUVBWDVQYjhZYms1aDA4YU9iRzRoMmpSY1BJQ1puNXpCM3RoLVRDbWU3Zmc?oc=5
 
-- Ex-Brevan Howard Trader Sued by Quant Who Joined His New Fund
-  Ex-Brevan Howard Asset Management portfolio manager Robert Sicari accused of withholding millions of dollars in promised trading profits.
-  🔗 https://www.livemint.com/companies/exbrevan-howard-trader-sued-by-quant-who-joined-his-new-fund-11792609344534.html
+- EV Battery Technology in India: Trends and Growth - IBEF
+  EV Battery Technology in India:
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFEyelF6RUlRLUhtR1lRTWxHZWZWOTJRamtjTG5OMlRTODBoMGlhZEJGVDBJcUxxWlBManpLc0JkekFfaVpwbzJTVHJTM3Bxa05YV0plQV9kVFN1OGpqcV9xN1FaOFJBTERlQk4wV1RxY1Q4UDhuWlRURUlVQW1POFFlV1B1V2dib3YtUmZlT3ZDc2MyS3NPYnpR?oc=5
 
-- Ambani family hosts Marco Rubio and Sergio Gor at Jamnagar refinery; Reliance, US explore energy partnership
-  Reliance Industries Chairman Mukesh Ambani hosted US Secretary of State Marco Rubio and Ambassador Sergio Gor in Jamnagar.
-  🔗 https://www.livemint.com/companies/news/ambani-family-hosts-marco-rubio-and-sergio-gor-at-jamnagar-refinery-reliance-us-explore-energy-partnership-11792602585659.html
+- ‘Claude resented me for ghosting’: Deepinder Goyal reveals why he built privacy-first AI assistant Dark.ai
+  Dark.ai is being developed around a central
+  🔗 https://www.livemint.com/companies/people/claude-resented-me-for-ghosting-deepinder-goyal-reveals-why-he-built-privacy-first-ai-assistant-darkai-11792633963363.html
 
-- $30 million! Who is Zach Yadegari? Meet teenage founder - Know how he turned AI calorie tracking into a massive business
-  Zach Yadegari co-founded Cal AI, a calorie-tracking app that reportedly generated more than $30 million in annual revenue. Now, the 19-year-
-  🔗 https://www.livemint.com/companies/people/30-million-who-is-zach-yadegari-meet-teenage-founder-know-how-he-turned-ai-calorie-tracking-into-a-massive-business-11792602933271.html
+- Carlsberg prepares India business IPO worth up to $700 million, eyes December launch
+  Carlsberg A/S is preparing to publicly file documents for an initial public offering of its India business. The IPO could raise as much as $700 million
+  🔗 https://www.livemint.com/companies/news/carlsberg-prepares-india-business-ipo-worth-up-to-700-million-eyes-december-launch-11792634847843.html
 
-- L&amp;T wins large orders worth  ₹2,500-5,000 crore for Delhi Secretariat buildings, Andhra Pradesh office towers
-  L&amp;amp;T has secured large construction orders worth  ₹2,500-5,000 crore for two Central Secretariat buildings in
-  🔗 https://www.livemint.com/companies/lt-wins-large-orders-worth-2-500-5-000-crore-for-delhi-secretariat-buildings-andhra-pradesh-office-towers-11792594798595.html
+- Meta’s share deal with Zuckerberg aims to cover potential multibillion-dollar wealth tax bill: How it works
+  Zuckerberg will keep his California home as state considers a 5% tax on billionaires. New class of nonvoting shares will let him raise cash while preserving his voting control.
+  🔗 https://www.livemint.com/companies/news/metas-share-deal-with-zuckerberg-aims-to-cover-potential-multibillion-dollar-wealth-tax-bill-how-it-works-11792631806060.html
 
-- Who is Dhruv Toshniwal? The Pant Project raises  ₹109 cr as menswear brand plans major retail expansion
-  The Pant Project has raised  ₹109 crore in a Series B funding round led by Mirae Asset Venture Investments. The menswear brand plans to expand
-  🔗 https://www.livemint.com/companies/news/who-is-dhruv-toshniwal-the-pant-project-raises-rs-109-cr-as-menswear-brand-plans-major-retail-expansion-11792595502830.html
+- Anthropic opens  ₹3.26 crore job for human writers; experts say it's a ‘premium on judgment’
+  Anthropic wants a candidate with at least eight years of experience who can quickly digest technical concepts, shar
+  🔗 https://www.livemint.com/companies/news/anthropic-opens-3-26-crore-job-for-human-writers-experts-say-its-a-premium-on-judgment-11792631120428.html
 
-- Gold Swings as Traders Assess Fed Rate Path Amid Mideast Worries
-  Gold fluctuated as traders assessed the outlook for the Federal Reserve’s interest-rate path
-  🔗 https://www.livemint.com/market/gold-swings-as-traders-assess-fed-rate-path-amid-mideast-worries-11792615559253.html
+- Meta ordered to pay $25 billion penalty: What's the data privacy case? Will it impact value of Zuckerberg's company?
+  The case stems from allegations that Cambridge Analytica obtained data from millions of Facebook users without their consent.
+  🔗 https://www.livemint.com/companies/news/meta-ordered-to-pay-a-25-billion-penalty-what-data-privacy-case-will-impact-value-of-zuckerberg-company-new-mexico-11792630656853.html
 
-- Treasuries Slide After Middle East Strife Report Spurs Oil Gains
-  Treasuries fell after reports suggesting the Middle East
-  🔗 https://www.livemint.com/market/treasuries-slide-after-middle-east-strife-report-spurs-oil-gains-11792613769755.html
+- IPO GMP comparison: Reliance Jio Platforms IPO vs Paras Healthcare | Subscription status Day 1, listing price prediction
+  Jio Platforms was fully subscribed within just 100 minutes of opening on Wednesday. It was the fastest among the country’s mega IPOs to achieve full subscription
+  🔗 https://www.livemint.com/market/ipo/ipo-gmp-comparison-jio-platforms-ipo-vs-paras-healthcare-ipo-check-subscription-listing-share-price-prediction-11792634611373.html
 
-- Dollar dips as traders wait on Fed; Aussie gains
-  Dollar dips as traders wait
-  🔗 https://www.livemint.com/market/dollar-dips-as-traders-wait-on-fed-aussie-gains-11792610330595.html
+- Top stocks to watch today: Swiggy, Adani Green, Eternal, GMDC, BEL shares in focus on Thurs, 22 Oct | Full list
+  Swiggy, Adani Energy, Hindustan Petroleum Corporation, GMDC, Reliance Industries, Eternal,
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html
 
-- US yields dip as AI risk weighed, but move off lows after auction
-  TREASURIES-US yields dip as
-  🔗 https://www.livemint.com/market/us-yields-dip-as-ai-risk-weighed-but-move-off-lows-after-auction-11792609214457.html
+- Singapore Dollar Gains on Yen as Carry Funder, Analysts Say
+  The Singapore dollar is gaining favor as a funding currency for carry trades. Cheap borrowing costs and fading expectations for appreciation make it increasingly attractive relative to
+  🔗 https://www.livemint.com/market/singapore-dollar-gains-on-yen-as-carry-funder-analysts-say-11792634002797.html
 
-- Tesla-SpaceX merger: Only a matter of when, not if — but how much should Tesla shareholders be paid?
-  Wall Street increasingly expects a Tesla-SpaceX merger. Key terms remain unsettled. Tesla shareholders may seek a 20% to 35% premium.
-  🔗 https://www.livemint.com/market/stock-market-news/teslaspacex-merger-only-a-matter-of-when-not-if-but-how-much-should-tesla-shareholders-be-paid-11792605042152.html
+- Dividend, bonus, split: Last chance to buy today ahead of record date - TechM, IRFC, LTM ; Payout, ratio, other details
+  More than 10 companies have set Friday, October 23, as the record date for dividends, bonus shares or stock splits.
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-bonus-split-last-chance-to-buy-today-ahead-of-record-date-techm-irfc-ltm-payout-ratio-other-details-11792604841012.html
+
+- Stock market outlook today, 22 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues
+  Gift Nifty was trading around the 22,682 level, down nearly 46.50 points or 0.20% from the Nifty futures’ previous close
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-21-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11792629655970.html
+
+- Telcos seek AI-led service quality monitoring, want rethink of traditional drive tests
+  The department of telecommunications (DoT) has planned setting up a joint committee to
+  🔗 https://www.livemint.com/technology/telcos-seek-ai-led-service-quality-monitoring-want-rethink-of-traditional-drive-tests-11792571779173.html
+
+- Meta puts Muse agent at heart of AI strategy, plans new stock to power investments
+  Meta puts Muse agent at heart of AI strategy,
+  🔗 https://www.livemint.com/technology/meta-puts-muse-agent-at-heart-of-ai-strategy-plans-new-stock-to-power-investments-11792623697753.html
 
 - Nasdaq climbs over 1% as SpaceX, Super Micro boost AI sentiment
   Nasdaq climbs over 1% as SpaceX
@@ -92,93 +100,45 @@
   CERT-In has warned that eight eMudhra intermediate CA certificates were compromised due to weak cryptographic keys. Here's how fraudulent
   🔗 https://www.livemint.com/technology/emudhra-intermediate-ca-certificates-compromised-what-happened-who-is-affected-and-what-users-need-to-know-explained-11792585216061.html
 
-- Elon Musk's X to pay creators  ₹2.85 lakh for 15 videos in 30 days: Check eligibility, rules and deadline to enrol
-  X is piloting an invite-only Video Kickstart Bonus that pays eligible creators a fixed $3
-  🔗 https://www.livemint.com/technology/tech-news/elon-musks-x-to-pay-creators-2-85-lakh-for-15-videos-in-30-days-check-eligibility-rules-and-deadline-to-enrol-11792581029937.html
-
-- iPhone 17 Pro 256GB gets a big discount: How to buy it at  ₹56,990 on Reliance Digital? Check eligibility and more
-  The offer combines an in-store discount, eligible smartphone exchange value and bonus, and qualifying bank cashback. Reliance Digital advertises the 256GB iPhone 17 Pro at an effective  �
-  🔗 https://www.livemint.com/technology/iphone-17-pro-256gb-gets-a-big-discount-how-to-buy-it-at-56-990-on-reliance-digital-check-eligibility-exchange-11792575893091.html
-
-- Stock market today: Dow, S&P 500, Nasdaq gain as tech rallies, SpaceX stock surges - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq gain
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmZkMENBd2xWRThEdm05TlljYUFQZ0h6VkZQUk82Z0xYc0FUWVdHSE5VVjNHRkhzc2VxdlhjNzZVWU5uU2c0aGN2ZTNSbWM3NFU1TEhIVkJ5RW91STlORm9zT3BFTWJ6LV9UZk1EZTZiclJKTUlKM3JtbW5QOFhqcUQ1cThnaEdiQWtyQlZhY2tNVGdjUHlVN0luc3YtbFAyeTlnckh0azhlZjc1MTQwbA?oc=5
-
-- Stocks Climb as SpaceX Results Reignite AI Trade: Markets Wrap - Bloomberg.com
-  Stocks Climb as SpaceX Results Reign
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDhCbnUwbzFqRTZQb2ZQWmtIWGtBam9ENEc4ak5nNEktMm16NlA0TXJQalJpb1I0X1BDVG9rbVh1d0k1TGU0ZjRabE1IVVNCTmhRM19QQlYtdk9JYkVaQ0xRNXJXSldPenRydmpsczhmX3V6elA2Tmo4MWJrTXphQ0wyNnlDRVM2eGUzeF94MlZBN1NN?oc=5
-
 - S&P 500 notches 3-day win streak, Nasdaq jumps 1% as SpaceX and Tesla rally - CNBC
   S&amp;P 500 notches 3-day win
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE44andoMWc1UnV1MnYtOVNwMFJxU3dmRFhYVEFlWEg5c0NTblp5VmJZNDR2TW5jRUdISW5pUmRsTVFmWjlXS0lMUTNOM0NEZV8zeldYOEVYelVaYzMtMGJxaW0tWnZZSUhEU2FxeEppUzVWTnpyY2Y0?oc=5
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE44andoMWc1UnV1MnYtOVNwMFJxU3dmRFhYVEFlWEg5c0NTblp5VmJZNDR2TW5jRUdISW5pUmRsTVFmWjlXS0lMUTNOM0NEZV8zeldYOEVYelVaYzMtMGJxaW0tWnZZSUhEU2FxeEppUzVWTnpyY2Y00gF8QVVfeXFMTlFJSF8yb09HR2JyVExWTG9XUTFYeWVyaGpad2ktb2FXTGZ0WnpHcF9hNzlnd1RBVGs0MXpXLXplRVNaWXo3a1d6OUd3U0x0ZVR2ZWI4N1RvVktDY1hYaDR3ZTlVUnhsM1pfT2Q2eDNPQUFHT242QmVUZDdGMg?oc=5
 
-- Gold, Silver Rate Today Live Updates: Gold steadies near one-week low as oil-driven inflation fears grow - The Times of India
-  Gold steadies near one-week low as oil-driven inflation fears grow.
-  🔗 https://news.google.com/rss/articles/CBMi7AJBVV95cUxQTVNxbTBqTHM3REI4RTQ5dENyLXhjNDJJUnowQXkwWHJpTTZraldqMm8zWUpidzJNcENVN0ozUTY4cmJtMWlsM3FqcXhRdzgwY21PeEZIcWp0aXRSSjdtcTF1d00xMG9yUDJScUoxOXdsSnBnM0gxcnAzTlMtVElFbTVwbnZzanNTbDFXdTZsVTBlQkExOUppdmFwODhRZ0RKb2ZuNzBYUFBPRGFMY0xZZ1RBaWhOeWRkQXRUd1hKVm52OGtPdzl6UUR4RnZoMlp0aGxzdDNSdDNtaFE0Q0JyblcwUHlTYW5kazVkemRjeDVCSnA3RXZrdUE4djFTU1p3Yl94ekRHTVRHdlhRNW5rRTFZUlJOSXpxVTlLUWhNWTVWVnR5VmowS2NabzVvR1ZJd09iZW93Ty13NFNaR2pCeG0xUVVFMXRVVm8zZW4wZ3cyNF9uZ0VkYXl0VU8weFlQcHRFUEZSellxOGE30gHyAkFVX3lxTFBHTTVMelBCNjBhRTk1TnVRWUhUV2llSnNqcVNmUmNHV3Nhb3UtbTJrc0hVc3FrdmhJU2djU2ZBZEM4ZTRoWWVhQXE1dzNOdFZjSDdHcDI2NEFTSUlSbk5QRWJtYlRmRVVMc2pheHY4eDQ2MVBHUk1JY28xYndDYmFMWUxfWU9kS1hHbm94aHVlQW9YUFBmYnhKWDg1dWtTQkZQT2ZVd0JUTnZPR2tMYXkyRUlvcWk5cDBnWVRaR1d4WDM3R09hTDdBSEZBQWdUbTdBNWg4RTBSbUdvdjVMNlJEVzJ4SGxPS2hoQ1pQYXZwRDF2ellWcmEzUzExQ0VyOXBpZWtOR3AyblN2b0tKVFJSVDFWYkhMSko2UWFibDE0UmR2dDNVM0Fud3RUYUpxTTZ5RkwtbFB3QnpwQUtoT0pDNDVUMXRkeTVVMnNzS290Nmp5b245MGZqOEk1aGh2bmlaWFliNlZDeGJPbVRfdzJBdFE?oc=5
+- US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap - Bloomberg.com
+  US Stock Futures Slip as Tech Earnings
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5
 
-- Either AI or public debt could crash markets. But probably not both - The Economist
-  Either AI or public debt could crash markets. But probably
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2tPMC1XeWVVR2thWnZBbjdsVnJiWm4tMnphSU5Ddlh0WUVLcHhab2ZwYzBnWFlJcERVSWNyX09mNk1Lc0k3MmR2ZDVabkVINU03d3YyNFROa2NXWDZrVnhSWkhpNkd1RjB1WW5kUTFuLTJPWk5FQ3hGcmpFRkMwOEVBZzdZbDc5czZiYTFLcnVZQ1FWVVhHUzFnU3dBcmRkN2gxV0hEUE1xcFZNNWZwVg?oc=5
+- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red Amid Mixed Global Cues, Oil Price Rise - NDTV
+  Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red Amid Mixed
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNGhKUmIzY2d3dTN1ZUQwT1R4TnFsY2xldGs4b0RxOWZ6RGFYWDNqVTVac1Y4Mnl5VDhJOWFuOVhIb2JYenZNM0lnTFliWHBCMTRRNnBSN21yanMxcnpRMkRnRUZkcG84MXBZWE9QMTNlSHRXdkZGOHhORkR0YW9pOFNTdmd5Nl9FMW9PMlVtbm91SFlqeFV1dDVfTFNJNmdXZWJPSGNxaXdBbHlwaTZfQkhqTFVJdXFkWDJiam1iTWFtZ3F1cThlbkFGOG9DWXFF0gHYAUFVX3lxTFBuWDNQRmNHa2ZlNVZFYWlscGxxRHF1WmV6WHd5Ui1RMVczdzM0d2s3VEVBQi1DMVAyZmZqSEJGdFlrLTNhdldLazdkcEw1TW1OQ0FzZF9QTUwyR25XNzBwUDktNWhqV2RHaWlfWjR6aXUtakV6WGtDMkVKMG5DNGVlQjJuUXIzWHFjUDBCYUlJdnlOTW9HWjZqQ1BSalpfUUdsMTFGd0kxc1EzUWpLTUpnY1ZEa2xPWXlLbFY0Z3pkTnJFYTBTYllXOFpHQ3JyOUJVMUZOQkRHZA?oc=5
 
-- US stocks today: Nasdaq leads Wall Street higher as SpaceX, Super Micro lift AI sentiment
-  The Nasdaq led gains, while strong semiconductor stocks added support. However, weakness in Netflix, AT&amp;T and other communications shares limited the broader advance.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-higher-as-spacex-super-micro-lift-ai-sentiment/articleshow/135100483.cms
+- D-St set for a negative opening as GIFT Nifty signals weak start - The Economic Times
+  D-St set for a negative opening as GIFT N
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQOXdtalREeXJrbmdlWkJ2OW04V3JadTJwSWlTWnRBWlBpRjF1aGQ3SlRBamJHejc4U3pRWWh1NUJtN2RoTmZIaGZOUmFiUjhJUFM0MEtxbXNWanNSejZSbC1mU1lfMGRDUG0wZ2N2YURMN2NxOXJ2WkZXMU5VQXd1aGlDMWl2WWk5Y29HVU1oMGFGTkVTV0tpMVZ6OUxoYnIzQjBJakF3Xy1ZRGpua1R5SDFnTHRoZ1o5dnN5dVRxUEtiMGdsNWZiQjlGM3bSAdIBQVVfeXFMTWxWd0Nla2VheC11NUNGbTdjTnZvYVNwajFEQVdiRlNoT2NjUEhCcXp4WldSQmpkUzhwNHh0U2d5WWpfcXpza1BiUGdWQ0tiNEdyZGdkNFhhT1A0NHVCLUUxZjJjUE5fR0pRSnpaMnJOa2FkUFgyRkRhRDZQb0dpeGR3VTVub1hRYTRiYjFKclh6T2hfNWwtQ1Q2ZlBMSHlJSzlMX01yQ091dHNQeHdwRDNUSjBFOVU5aVFibmw3cTJiZWduNXNoRUJaZnFscmZhZXN3?oc=5
 
-- Meta raises AI spending forecast to $145 billion, plans new share issue; Q3 revenue beats estimates
-   Meta raised its 2026 capital expenditure forecast to $135 billion-$145 billion to accelerate AI expansion and announced plans for non-voting
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-raises-ai-spending-forecast-to-145-billion-plans-new-share-issue-q3-revenue-beats-estimates/articleshow/135100437.cms
+- First Tick: Top global cues to watch in today's trade - Moneycontrol.com
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNR1g4ZUNwMElhWVlmei0xT1oyd0I3X1dtbG5qTXN6VjZUVTN3dmE1Q0tCeTJ4cEx5UmJ1N2JxVEVxSWdqRXRkTWNYOW53YjUyUWczQmc1elB4S0NCdkh4NE1nczk0cmQ2bHRLTVlwTS1GMnhNRUlxMzZHY3JGamR6V2ZBMk9jQlFSdUpRT1p0Z0tkWGtWYTJFV3NUYWE5eTR1Um9mS2dLbnFtXzdUazNwY3NkZzlBZlFJUnVhN9IBwgFBVV95cUxOR3JpYW9tYjVPZTIxTlZyNVptVHVvSmZPSWlpS2Ria09pY1dNME1vbDZMQ09IREw3S3B5VWltZjB0c094YU1yU3J6cktKVWlpSHNFMllIRUhTLUdIRDZrcVNSSFdNUy05c1dMSFVFQXFXc01mZHM4MXBDZjZSaE82d2ZPNi1uLWVKRFhoRFd0UlJTcU1hOHkxXzN1TUtoMUtwU1VnUVZMR0tDWUZaSGhUZUxOMXdHbkZ3TlVra0tnMUpOdw?oc=5
 
-- BlackRock expands AI push with new robotics ETF as investor enthusiasm cools
-  BlackRock has launched a new robotics focused ETF. The fund targets companies using intelligent machines across industries such as manufacturing and transportation.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/blackrock-expands-ai-push-with-new-robotics-etf-as-investor-enthusiasm-cools/articleshow/135099678.cms
+- Dip in the dollar takes a breather with Fed in focus
+  The dollar has stabilized as market bets on its strength have decreased. Sterling and other currencies have seen gains supported by inflation and rate hike expectations.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dip-in-the-dollar-takes-a-breather-with-fed-in-focus/articleshow/135104703.cms
 
-- US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction
-  US Treasury yields slipped as investors weighed the impact of higher borrowing costs on AI stocks. The 10 year yield was heading for a second straight daily decline.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms
+- Oil Price Today (October 22): Crude oil above $110 as energy infra attacks heighten supply fears. More tension ahead?
+  Brent crude traded 1.18% higher at $110.18 a barrel. US West Texas Intermediate (WTI) crude was trading more than $
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-22-crude-oil-above-110-as-energy-infra-attacks-heighten-supply-fears-more-tension-ahead/articleshow/135104474.cms
 
-- Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share
-  Persistent Systems has opened a qualified institutional placement to raise up to USD 450 million, or about Rs 4,265 crore. The IT company has set the QIP floor price at Rs 5,550 per share and may
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms
+- NSE shares in focus as IPO lock-in expiry frees up stake worth Rs 3,247 crore for trade. How the stock performed in a month since listing
+  At the previous closing price of Rs 1,709 apiece on BSE, the said number of shares freeing up
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-shares-in-focus-as-ipo-lock-in-expiry-frees-up-stake-worth-rs-3247-crore-for-trade-how-the-stock-performed-in-a-month-since-listing/articleshow/135104372.cms
 
-- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
-  CJP protest: India 'cockroach' leaders who called on election
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+- Negative Breakout: These 8 stocks cross below their 200 DMAs
+  The 200 DMA is a widely used technical indicator that helps traders assess
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-stocks-cross-below-their-200-dmas/slideshow/135104327.cms
 
-- CJP's Saurav Das, Ashutosh Ranka Released After 7 Days In Jail - NDTV
-  CJP's Saurav Das, Ashut
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcEJaTzZ5eVBxclFxS0pnLXVTNFNEVE1kNHlFMUxqZkJXTEtBb0QyeVk4ZWF4YVFrY0V5N1RUbHR5czJ2WENjb01oRWt4YmlMQzhILW92XzhXeGw3bXM4cUR5Z3l4cDQ5V0o3UnY1R1BYSGp1cFAzSkRfek45RmowemN2ZW05LVEtSTRLeDFVeElZVlNtVnN1UjAwSGxZT2tLakIzLXAxb2EtWlXSAbMBQVVfeXFMTWlmMGlWdG56REg1bENyaDV3cjZYVUk5NmxTMk8xZ2IzZUoxVjFkZmJxN2phRGE0QWlQcWRraEUtNUxod1hiUVZ4MDRROEd1YUpuYVY4UncyREE2RUhnR3FEc05FRnlHSGlhdDRmQVpRSGMxNGNvdUt4LVBKWnc4VGRsYUhhMjh5RlkyX0o3YUxKT1hXcGp4NFZQVmlkUmhDT0tPU1ZLVHZmY1AzWHFja09rc3M?oc=5
-
-- Indian court orders release of two leaders of Cockroach movement - The Guardian
-  Indian court orders release of two leaders of Cock
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzRaYTBCVWZDcVN1MGxsb0Z4TlR5dXVJdlBZZkUycnpJcTBFd2lWZ1h5WmFfNHhNbmZPSzhqSi1yMWd5cEFnT0dzUFJqamktZ0NpTzQydzAydnRxQlRsTVJtRU9DbEhTUklNT2laOVZlWXo2RXFMY2FQUE94OWJsa284bi1mZHpHLThCcGtERlhBczNPamg3dTJ0XzVlSzFpeTVOVFFTXzZKTkpMQnI1NzVRQ2ZqR0Vk?oc=5
-
-- PM Modi reviews state of Indian economy with FM Sitharaman, EAC-PM members - Moneycontrol.com
-  PM Modi reviews state of Indian economy with FM Sith
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2hHb05JdEtBVkVvMG1MalFvVkx2R2pPSkk5akI0UzhpcUZWVW1wYWFiamw3MXktR3JoWEJET0x0dkxQWEIxdXliZ1ZQaFJSbVFPYVdDeWh1WjVWZkZxdDZGZEt0MnZocjhoekJLNmhMV2x1LVFiQXRjNEdydk13U2Rkb25xS3daRnh1UU03S2FRamg5MVpUZmd5cDVCeWk2Rk1MR0ZMaVVwWUNWREVyODdOMXl5Y0FsejdSY0V5TXpzU0ZuS3pMZDhwNG1JVjhFaDFMQtIB2gFBVV95cUxNUE5IR19lV2VGRDU2V3llWjZGdm02WE5Xc0laeG1Va1BrekxRdXZvdmNkX0ZPRmF4aHpRMGVITzhRN3JYT1V5bEtWblZBQkRnMXZ0SFo2SlNkMkVITmtrREpDb3NFYXVHNjgyTUI4amUxZEhhbExXSldPeTBFdlJKc1JPMmlSU0luS2dxR2dJZTZYYkQzdTdDUEpRZHdMTlRCOFZiVzlDaUJIeHZLV0tjRVczaW12Z0tBdkRxd2M2TUhrQm1fX1UyRVNBZzBFSEhKN2hvd1d5V1N5QQ?oc=5
-
-- PM Modi flags three ‘enemies’ of India, calls for unity in national interest - The Hindu
-  PM Modi flags three ‘enemies’ of India
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGg4dUtaYTJmSk9pMXAydG1QQnJOUFdpQVFzSkhZa2IwSmdQRDZ1TE16d3lVVlpCVWxIM0lrbWwySVpqeEpHZXFLdWt1LWVCUHRVVW11SWlwVUM2OG9YZWQ3S1M0amt6ajNrWG1IR3QwcXBuajlYd05ENnlNV0xqYzJMdVhzT3FIQlo3RGxRU2loZWZ6TC1JSVJ6UFVqS2dyXzNFM2U2WHJNNVRpbkw1T1ZqMTNYQlhYMUFMSEdVa0taRWgteU1QS3dtR3HSAdMBQVVfeXFMT2FEN1BtMHVrWGgwYUNwdUFIUEZMb1NCT2RiTDVyYTlPVTJRYnRXTHh0bnpHUTBsZmxuS0ZnMURnY0JNTUdQbHpTbnRIWmdta3ZsZGJwT2RnYW4tc05rYkV5QXZSa2hOZGhEeDJFQVNuSE5pVDNYQWdsTkpkX2x6bU5qZ2JGSkJiU1Nmb3ZNUlhSMEFlMFVDUjZKdy1Hc2NuajhDdGVseVpDNjMzc3ppSWhnRmNCdnZPbU16N3NJMlFxNmg2ZWJTaldubWxSUjZlcFVySQ?oc=5
-
-- eMudhra Weak Link Tests India’s Chain Of Digital Trust
-  A private key meant to vouch for the security of websites around the world turned out to be the number 8230.
-  🔗 https://inc42.com/features/emudhra-weak-link-tests-indias-chain-of-digital-trust/
-
-- Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation
-  San Francisco-based AI code testing startup Blacksmith has raised $66 Mn in a Series C funding round.
-  🔗 https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/
-
-- [Update] Jio Platforms IPO Closes Day 1 With 3.15X Subscription, QIBs Lead Demand
-  Jio Platforms IPO: QIB Quota Booked Within Minutes, Issue Subscribed 58% So Far.
-  🔗 https://inc42.com/buzz/jio-platforms-ipo-qib-quota-booked-within-minutes-issue-subscribed-58-so-far/
-
-- eMudhra’s Security Key Flaw: What Went Wrong And Why Google, Mozilla Stepped In
-  Eight private keys underpinning part of listed digital trust company eMudhra’s certificate infrastructure were so weak that researchers could recover them
-  🔗 https://inc42.com/buzz/emudhras-security-key-flaw-what-went-wrong-and-why-google-mozilla-stepped-in/
-
-- Enterprise AI Startup AuxoAI Nets $20.7M To Strengthen Its FDE Team
-  San Francisco-based enterprise AI startup AuxoAI has raised $20.7 million in a Series A funding round.
-  🔗 https://inc42.com/buzz/enterprise-ai-startup-auxoai-nets-20-7m-to-strengthen-its-fde-team/
+- Gold eases as investors await Fed signals on rate path
+  Spot gold prices dipped to $4,115.50 per ounce, with US gold futures for December slipping to £4,132.30. Analysts anticipate potential rate hikes in the coming months, particularly in December.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-investors-await-fed-signals-on-rate-path/articleshow/135104186.cms
 
 - CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
   CJP protest: India 'cockroach' leaders who called on election
@@ -192,13 +152,33 @@
   Indian court orders release of two leaders of Cock
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzRaYTBCVWZDcVN1MGxsb0Z4TlR5dXVJdlBZZkUycnpJcTBFd2lWZ1h5WmFfNHhNbmZPSzhqSi1yMWd5cEFnT0dzUFJqamktZ0NpTzQydzAydnRxQlRsTVJtRU9DbEhTUklNT2laOVZlWXo2RXFMY2FQUE94OWJsa284bi1mZHpHLThCcGtERlhBczNPamg3dTJ0XzVlSzFpeTVOVFFTXzZKTkpMQnI1NzVRQ2ZqR0Vk?oc=5
 
-- PM Modi reviews state of Indian economy with FM Sitharaman, EAC-PM members - Moneycontrol.com
-  PM Modi reviews state of Indian economy with FM Sith
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2hHb05JdEtBVkVvMG1MalFvVkx2R2pPSkk5akI0UzhpcUZWVW1wYWFiamw3MXktR3JoWEJET0x0dkxQWEIxdXliZ1ZQaFJSbVFPYVdDeWh1WjVWZkZxdDZGZEt0MnZocjhoekJLNmhMV2x1LVFiQXRjNEdydk13U2Rkb25xS3daRnh1UU03S2FRamg5MVpUZmd5cDVCeWk2Rk1MR0ZMaVVwWUNWREVyODdOMXl5Y0FsejdSY0V5TXpzU0ZuS3pMZDhwNG1JVjhFaDFMQtIB2gFBVV95cUxNUE5IR19lV2VGRDU2V3llWjZGdm02WE5Xc0laeG1Va1BrekxRdXZvdmNkX0ZPRmF4aHpRMGVITzhRN3JYT1V5bEtWblZBQkRnMXZ0SFo2SlNkMkVITmtrREpDb3NFYXVHNjgyTUI4amUxZEhhbExXSldPeTBFdlJKc1JPMmlSU0luS2dxR2dJZTZYYkQzdTdDUEpRZHdMTlRCOFZiVzlDaUJIeHZLV0tjRVczaW12Z0tBdkRxd2M2TUhrQm1fX1UyRVNBZzBFSEhKN2hvd1d5V1N5QQ?oc=5
+- Donald Trump Says "Much Different Kind" Of India-US Trade Deal Is "Pretty Close" - NDTV
+  Donald Trump Says "Much Different Kind" Of India-
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnR5bGhfMjVLc1RBM202QWxHNFFhLVNnOGdlTHNaM1RySndXNFpQWVAzb0VNd1VwT21aaWpON0FjSld4Yi1kODRsSmFXeXFTNDVvaUllM2wzUWI0emFmVm8wR0lYSVg0c3dadFA3OXdiLWxveDB3SF8tWVlEa2REWnlleHBqaTZIZ1Rpb3FnQnd0QkMteXVBeFVqOEtHQ0NUWTYtMmtZVERVZG1QZmZsRHlPUGZUaHNF0gHAAUFVX3lxTFBTMmREMU5MYjdvRl8wTWxfS2pWX004bXhXNnlMUDc2Yk1tM2JXTDJnS05BdEtCY21aTi16WWxuVDdiM2YzV2tveTBpdVdqc3A5bEptdDk5ZVhuU0JuXzZtU2xpTk55SzR1SEd1RVRjTGFCejEtQ2hiSGVrQkcwczZHS3BJb0JjQV9NR0RzeUhsVnFjQkEwVjBRWTBfeDdBUEZaWHY4VTZ1NHJVcHlMeEtQbHR6MTgxYzFucEJyMTNZNA?oc=5
 
-- PM Modi flags three ‘enemies’ of India, calls for unity in national interest - The Hindu
-  PM Modi flags three ‘enemies’ of India
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGg4dUtaYTJmSk9pMXAydG1QQnJOUFdpQVFzSkhZa2IwSmdQRDZ1TE16d3lVVlpCVWxIM0lrbWwySVpqeEpHZXFLdWt1LWVCUHRVVW11SWlwVUM2OG9YZWQ3S1M0amt6ajNrWG1IR3QwcXBuajlYd05ENnlNV0xqYzJMdVhzT3FIQlo3RGxRU2loZWZ6TC1JSVJ6UFVqS2dyXzNFM2U2WHJNNVRpbkw1T1ZqMTNYQlhYMUFMSEdVa0taRWgteU1QS3dtR3HSAdMBQVVfeXFMT2FEN1BtMHVrWGgwYUNwdUFIUEZMb1NCT2RiTDVyYTlPVTJRYnRXTHh0bnpHUTBsZmxuS0ZnMURnY0JNTUdQbHpTbnRIWmdta3ZsZGJwT2RnYW4tc05rYkV5QXZSa2hOZGhEeDJFQVNuSE5pVDNYQWdsTkpkX2x6bU5qZ2JGSkJiU1Nmb3ZNUlhSMEFlMFVDUjZKdy1Hc2NuajhDdGVseVpDNjMzc3ppSWhnRmNCdnZPbU16N3NJMlFxNmg2ZWJTaldubWxSUjZlcFVySQ?oc=5
+- India, U.S. trade deal to be much different: Donald Trump - The Hindu
+  India, U.S. trade deal to
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGYtRUs5b2VjbG51aWlJbHJvQWFuSkJmdk5JUWpUU01jb0MzMXB3VnZlaUNpYzVhVWFmZTBWSE80Z0tWUzBXekVmQ09uN052ZXBfTzhhd250aE1rM043T1M0QkZoVXJrT21FcG8zbEFqMUIya3dUMVFQd0t6YW1PbTFXR2QtQjd4clNWT0NwdXd5Sm1SaEw1eWFVRjZicTRrY3VQQXBtei1qTnM0Y1FsOG5pREtzY2pG0gG_AUFVX3lxTFAyVHp6M2c2NjllMUNXMjJQazhwZUJaNDRVU2JmQmk0RlFfNXVXUFd6d0ZjcmlsWGdvNlI1VVhiR24xSjRCeTYtYjVKT3c2c2dVTGhwZ0R4WnZ2Y0J4M2QxOGtJUjhoUUFSSFNGVnJldGV2bkV3Q3A3emJKdDZCQ2EwaXRZSXEyVDdUcWhleUlQQnQyOFhDOXRyQkRJcENkMl9NS2pXUjloQWdpSDNBbXZ2RXo5TzM0bVVsSC1Dc3Zn?oc=5
+
+- Eternal’s Q2 Profit Run, Jio IPO Day 1 & More
+  Eternal’s Q2 Profit Surge Eternal continued to fire on all cylinders in Q2 FY27. Besides improving margins and the profit&#8230;
+  🔗 https://inc42.com/buzz/eternals-q2-profit-run-jio-ipo-day-1-more/
+
+- Karta AI Raises $3 Mn To Automate Inbound Calls For BFSI Players
+  Karta AI raised $3 Mn (around ₹28 Cr) in a seed funding round led by PeerCapital.
+  🔗 https://inc42.com/buzz/karta-ai-raises-3-mn-to-automate-inbound-calls-for-bfsi-players/
+
+- CureBay Bags ₹100 Cr To Scale Rural Clinics Network, Enhance AI Screening Offerings
+  Healthtech startup CureBay raised around ₹100 Cr ($10.6 Mn) in a pre-Series C funding round.
+  🔗 https://inc42.com/buzz/curebay-bags-%e2%82%b9100-cr-to-scale-rural-clinics-network-enhance-ai-screening-offerings/
+
+- Inside Critical PHP Vulnerabilities That Have 70% Of The Internet At Risk
+  A pair of critical vulnerabilities in PHP, the open-source programming language that powers much of the modern web, has forced a fix.
+  🔗 https://inc42.com/features/inside-critical-php-vulnerabilities-that-have-70-of-the-internet-at-risk/
+
+- Nutanix Founder Ajeet Singh Floats New AI Martech Startup Different
+  Serial entrepreneur Ajeet Singh has announced the launch of his third startup. Singh previously cofounded unicorns such as Nutanix and ThoughtSpot.
+  🔗 https://inc42.com/buzz/nutanix-founder-ajeet-singh-floats-new-ai-martech-startup-different/
 
 - CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
   CJP protest: India 'cockroach' leaders who called on election
@@ -212,13 +192,33 @@
   Indian court orders release of two leaders of Cock
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzRaYTBCVWZDcVN1MGxsb0Z4TlR5dXVJdlBZZkUycnpJcTBFd2lWZ1h5WmFfNHhNbmZPSzhqSi1yMWd5cEFnT0dzUFJqamktZ0NpTzQydzAydnRxQlRsTVJtRU9DbEhTUklNT2laOVZlWXo2RXFMY2FQUE94OWJsa284bi1mZHpHLThCcGtERlhBczNPamg3dTJ0XzVlSzFpeTVOVFFTXzZKTkpMQnI1NzVRQ2ZqR0Vk?oc=5
 
-- PM Modi reviews state of Indian economy with FM Sitharaman, EAC-PM members - Moneycontrol.com
-  PM Modi reviews state of Indian economy with FM Sith
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2hHb05JdEtBVkVvMG1MalFvVkx2R2pPSkk5akI0UzhpcUZWVW1wYWFiamw3MXktR3JoWEJET0x0dkxQWEIxdXliZ1ZQaFJSbVFPYVdDeWh1WjVWZkZxdDZGZEt0MnZocjhoekJLNmhMV2x1LVFiQXRjNEdydk13U2Rkb25xS3daRnh1UU03S2FRamg5MVpUZmd5cDVCeWk2Rk1MR0ZMaVVwWUNWREVyODdOMXl5Y0FsejdSY0V5TXpzU0ZuS3pMZDhwNG1JVjhFaDFMQtIB2gFBVV95cUxNUE5IR19lV2VGRDU2V3llWjZGdm02WE5Xc0laeG1Va1BrekxRdXZvdmNkX0ZPRmF4aHpRMGVITzhRN3JYT1V5bEtWblZBQkRnMXZ0SFo2SlNkMkVITmtrREpDb3NFYXVHNjgyTUI4amUxZEhhbExXSldPeTBFdlJKc1JPMmlSU0luS2dxR2dJZTZYYkQzdTdDUEpRZHdMTlRCOFZiVzlDaUJIeHZLV0tjRVczaW12Z0tBdkRxd2M2TUhrQm1fX1UyRVNBZzBFSEhKN2hvd1d5V1N5QQ?oc=5
+- Donald Trump Says "Much Different Kind" Of India-US Trade Deal Is "Pretty Close" - NDTV
+  Donald Trump Says "Much Different Kind" Of India-
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnR5bGhfMjVLc1RBM202QWxHNFFhLVNnOGdlTHNaM1RySndXNFpQWVAzb0VNd1VwT21aaWpON0FjSld4Yi1kODRsSmFXeXFTNDVvaUllM2wzUWI0emFmVm8wR0lYSVg0c3dadFA3OXdiLWxveDB3SF8tWVlEa2REWnlleHBqaTZIZ1Rpb3FnQnd0QkMteXVBeFVqOEtHQ0NUWTYtMmtZVERVZG1QZmZsRHlPUGZUaHNF0gHAAUFVX3lxTFBTMmREMU5MYjdvRl8wTWxfS2pWX004bXhXNnlMUDc2Yk1tM2JXTDJnS05BdEtCY21aTi16WWxuVDdiM2YzV2tveTBpdVdqc3A5bEptdDk5ZVhuU0JuXzZtU2xpTk55SzR1SEd1RVRjTGFCejEtQ2hiSGVrQkcwczZHS3BJb0JjQV9NR0RzeUhsVnFjQkEwVjBRWTBfeDdBUEZaWHY4VTZ1NHJVcHlMeEtQbHR6MTgxYzFucEJyMTNZNA?oc=5
 
-- PM Modi flags three ‘enemies’ of India, calls for unity in national interest - The Hindu
-  PM Modi flags three ‘enemies’ of India
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGg4dUtaYTJmSk9pMXAydG1QQnJOUFdpQVFzSkhZa2IwSmdQRDZ1TE16d3lVVlpCVWxIM0lrbWwySVpqeEpHZXFLdWt1LWVCUHRVVW11SWlwVUM2OG9YZWQ3S1M0amt6ajNrWG1IR3QwcXBuajlYd05ENnlNV0xqYzJMdVhzT3FIQlo3RGxRU2loZWZ6TC1JSVJ6UFVqS2dyXzNFM2U2WHJNNVRpbkw1T1ZqMTNYQlhYMUFMSEdVa0taRWgteU1QS3dtR3HSAdMBQVVfeXFMT2FEN1BtMHVrWGgwYUNwdUFIUEZMb1NCT2RiTDVyYTlPVTJRYnRXTHh0bnpHUTBsZmxuS0ZnMURnY0JNTUdQbHpTbnRIWmdta3ZsZGJwT2RnYW4tc05rYkV5QXZSa2hOZGhEeDJFQVNuSE5pVDNYQWdsTkpkX2x6bU5qZ2JGSkJiU1Nmb3ZNUlhSMEFlMFVDUjZKdy1Hc2NuajhDdGVseVpDNjMzc3ppSWhnRmNCdnZPbU16N3NJMlFxNmg2ZWJTaldubWxSUjZlcFVySQ?oc=5
+- India, U.S. trade deal to be much different: Donald Trump - The Hindu
+  India, U.S. trade deal to
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGYtRUs5b2VjbG51aWlJbHJvQWFuSkJmdk5JUWpUU01jb0MzMXB3VnZlaUNpYzVhVWFmZTBWSE80Z0tWUzBXekVmQ09uN052ZXBfTzhhd250aE1rM043T1M0QkZoVXJrT21FcG8zbEFqMUIya3dUMVFQd0t6YW1PbTFXR2QtQjd4clNWT0NwdXd5Sm1SaEw1eWFVRjZicTRrY3VQQXBtei1qTnM0Y1FsOG5pREtzY2pG0gG_AUFVX3lxTFAyVHp6M2c2NjllMUNXMjJQazhwZUJaNDRVU2JmQmk0RlFfNXVXUFd6d0ZjcmlsWGdvNlI1VVhiR24xSjRCeTYtYjVKT3c2c2dVTGhwZ0R4WnZ2Y0J4M2QxOGtJUjhoUUFSSFNGVnJldGV2bkV3Q3A3emJKdDZCQ2EwaXRZSXEyVDdUcWhleUlQQnQyOFhDOXRyQkRJcENkMl9NS2pXUjloQWdpSDNBbXZ2RXo5TzM0bVVsSC1Dc3Zn?oc=5
+
+- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
+  CJP protest: India 'cockroach' leaders who called on election
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+
+- CJP's Saurav Das, Ashutosh Ranka Released After 7 Days In Jail - NDTV
+  CJP's Saurav Das, Ashut
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcEJaTzZ5eVBxclFxS0pnLXVTNFNEVE1kNHlFMUxqZkJXTEtBb0QyeVk4ZWF4YVFrY0V5N1RUbHR5czJ2WENjb01oRWt4YmlMQzhILW92XzhXeGw3bXM4cUR5Z3l4cDQ5V0o3UnY1R1BYSGp1cFAzSkRfek45RmowemN2ZW05LVEtSTRLeDFVeElZVlNtVnN1UjAwSGxZT2tLakIzLXAxb2EtWlXSAbMBQVVfeXFMTWlmMGlWdG56REg1bENyaDV3cjZYVUk5NmxTMk8xZ2IzZUoxVjFkZmJxN2phRGE0QWlQcWRraEUtNUxod1hiUVZ4MDRROEd1YUpuYVY4UncyREE2RUhnR3FEc05FRnlHSGlhdDRmQVpRSGMxNGNvdUt4LVBKWnc4VGRsYUhhMjh5RlkyX0o3YUxKT1hXcGp4NFZQVmlkUmhDT0tPU1ZLVHZmY1AzWHFja09rc3M?oc=5
+
+- Indian court orders release of two leaders of Cockroach movement - The Guardian
+  Indian court orders release of two leaders of Cock
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzRaYTBCVWZDcVN1MGxsb0Z4TlR5dXVJdlBZZkUycnpJcTBFd2lWZ1h5WmFfNHhNbmZPSzhqSi1yMWd5cEFnT0dzUFJqamktZ0NpTzQydzAydnRxQlRsTVJtRU9DbEhTUklNT2laOVZlWXo2RXFMY2FQUE94OWJsa284bi1mZHpHLThCcGtERlhBczNPamg3dTJ0XzVlSzFpeTVOVFFTXzZKTkpMQnI1NzVRQ2ZqR0Vk?oc=5
+
+- Donald Trump Says "Much Different Kind" Of India-US Trade Deal Is "Pretty Close" - NDTV
+  Donald Trump Says "Much Different Kind" Of India-
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnR5bGhfMjVLc1RBM202QWxHNFFhLVNnOGdlTHNaM1RySndXNFpQWVAzb0VNd1VwT21aaWpON0FjSld4Yi1kODRsSmFXeXFTNDVvaUllM2wzUWI0emFmVm8wR0lYSVg0c3dadFA3OXdiLWxveDB3SF8tWVlEa2REWnlleHBqaTZIZ1Rpb3FnQnd0QkMteXVBeFVqOEtHQ0NUWTYtMmtZVERVZG1QZmZsRHlPUGZUaHNF0gHAAUFVX3lxTFBTMmREMU5MYjdvRl8wTWxfS2pWX004bXhXNnlMUDc2Yk1tM2JXTDJnS05BdEtCY21aTi16WWxuVDdiM2YzV2tveTBpdVdqc3A5bEptdDk5ZVhuU0JuXzZtU2xpTk55SzR1SEd1RVRjTGFCejEtQ2hiSGVrQkcwczZHS3BJb0JjQV9NR0RzeUhsVnFjQkEwVjBRWTBfeDdBUEZaWHY4VTZ1NHJVcHlMeEtQbHR6MTgxYzFucEJyMTNZNA?oc=5
+
+- India, U.S. trade deal to be much different: Donald Trump - The Hindu
+  India, U.S. trade deal to
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGYtRUs5b2VjbG51aWlJbHJvQWFuSkJmdk5JUWpUU01jb0MzMXB3VnZlaUNpYzVhVWFmZTBWSE80Z0tWUzBXekVmQ09uN052ZXBfTzhhd250aE1rM043T1M0QkZoVXJrT21FcG8zbEFqMUIya3dUMVFQd0t6YW1PbTFXR2QtQjd4clNWT0NwdXd5Sm1SaEw1eWFVRjZicTRrY3VQQXBtei1qTnM0Y1FsOG5pREtzY2pG0gG_AUFVX3lxTFAyVHp6M2c2NjllMUNXMjJQazhwZUJaNDRVU2JmQmk0RlFfNXVXUFd6d0ZjcmlsWGdvNlI1VVhiR24xSjRCeTYtYjVKT3c2c2dVTGhwZ0R4WnZ2Y0J4M2QxOGtJUjhoUUFSSFNGVnJldGV2bkV3Q3A3emJKdDZCQ2EwaXRZSXEyVDdUcWhleUlQQnQyOFhDOXRyQkRJcENkMl9NS2pXUjloQWdpSDNBbXZ2RXo5TzM0bVVsSC1Dc3Zn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-21 21:10:55 UTC_
+_Last updated: 2026-10-22 02:59:08 UTC_
