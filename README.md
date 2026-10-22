@@ -1,64 +1,96 @@
 # 📰 Daily News Summaries
 
-- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
-  CJP protest: India 'cockroach' leaders who called on election
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+- India increasingly contributing towards preventive healthcare: Union Minister - The Hindu
+  India increasingly contributing towards preventive healthcare,
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW1BdThHYnhVMVc2QktVdmg5YnNmejJ3aUtQRW5vSVl3OGhZWlNQOFJYM2Q3WmxubWRBUU9EY0ZHdkNEZldyYXlLOHVKaTl1ZmdDamZBQnhiVzVUd2NoM05uZTZ4RElnOV9GT3EwVlU0azZmZTFmVDdzcGVqREdSUk83QkF6YTdkMWR4SFlTcVlNUkFTWlNqaDl5YUhGcE5HMllpT1cxUFduT1hHNkc2MzNicDBNLXBpak5fbV9BLTNhQV9Lbmt2bllnLURvaGtmdGlBSXNQYXTSAd8BQVVfeXFMTXEySy1VRzVQcXoyX0RXMzZSdUhoNEtNd1RzMGNnNHpWNVJ2cUtxQXFLRkFDWW9wVUhCOVdsV3gzU1NqMC1WUlotVGpod3hnV3J0eExpZnpwc2ZoUGlTWkFTcTlUMlNaMjQ2S0Rxek44blJzV1RxMEFoTDQ2Zy02RTJuZDJSdzlLNk9fcXZUMlpLTWtlYWlPOUNMWVBMOXQzSHdWTVBaZUtMS2VIUThGY2dPdTdjN0o5bGhEdWlha1Bab2VmR2RVSWhra3ZzX2hYakQxcVUxQUVBcmhaWnZnbw?oc=5
 
-- India news: CJP leaders Saurav Das, Ashutosh Ranka released from Tihar Jail after pledging not to protest - DW.com
-  India news: CJP leaders Saurav Das, Ashutosh Ranka
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1YySnl6U2t5Ukg1eUpmU2NueTQ0bEVyeTF6NG1GUXJWUXBrSDBkbFBHUmxHMmhSNDc1TUQwNVZOLXNoTExRR0lqb1pGdzBMMVo3VlBSOFVNc3Fod0M0X2FMTzZWLXNwUnJ6MjUyZnQyWllwZWZVVnJvQTFnSk1kVDZ2VTgzc2wyaEp6V0lqUkNWSWVrcE5UQ2h2Q0NDX0FLTC1XZWdEOE9Cb1AtcWc?oc=5
+- Govt plans colour-coded driving licence for Indians, foreigners - The Times of India
+  Govt plans colour-coded driving licence for
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU83clJxSC1pNlU3SHBvZnB5ZlM2VndqTGthYlZDN29WUl8zN3dHSENlVi12SkF5ck1MaUFvY1dQd1NLcXdBUVBCS3JPc0lXVnVRWjhxaDdjNUhMdDZEbnMxdzZZWVFmSzBaMU5xeF9RN1pHdlAzaDdYcGpTZy1ZS0NLRzlURERjaVdDcmpBZmRpMG9Yb05nVGo3TUFIZ2EtNXhLQTNRVWVBRS1iTFVRTzBLZHBwZF93X0tkd1VnSWZ5UTd2Xy1XMk1B0gHPAUFVX3lxTE5PTWd3TGN3RHFZaUl6UzNTMk1MMXg4NzBRY0hSZ2F5R1NiY0RibTFRZ1VsMjBoeU5FS1dxSzI4WlhHZ1Zxa01pZFNsSURMV0JxbUU3eVVHZGZoSW94NE5fWHpQQjM3YXJkNDZrWXYtUTZDeWdMM3A5akRwSS1XbnFnVm1ab2Z6ejVSbnZJd2lRU2d5Unlaa2NUZ3ZrSmItTkFHYnhKWmVqZ1M5MEFERE5JWnJrcmJHdmtOMHhrV3Y2dURIa0NUbmdTdmU3S2tjaw?oc=5
 
-- K Annamalai vs BJP War Of Words Over Crackdown On CJP Leaders - NDTV
-  K Annamalai vs BJP War Of Words
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnlrM01NSWk1NjM3LUlEZ2t3RzR4cmFFdU84SmFOUHIzQVNlRklQc2ZQNGlMcEZlZ1d4TlEwc2ZmZi12cUQxOXJyMW8tODJ1cG9fMDN5SjZqcl9kUkhfRjRLLTNTVVF4bFp2LUYzb2dKV1gyaFlmYy1sd29pQnpPUlgxNWNVc19rZVFBNXVBbTE1ckllM2VZQmg2c2x4WnBtYmM4ZFA5bkZ3MEN0dndZV0hvR01RdlNzOGd3RFR0a0hJUWoybmtv0gHPAUFVX3lxTE9fQmdCWTYyWDZQRTF3WHVtN0txQnhyQjRNdzhHX3djMFdlSlFzc2cySzdsd2NIMVVnb1BZTGF4Q1doQ3E5Qmxnenp0Z2Y2MFEtME1GWHRVMTBRQXJZUkI4aW5WanVLejBwb3JNN2ZlRmlhM1lnM2VSYkduS0hnejZfcGZ4cDJaRThJMVM0RDBDVHdic215T29TdGc5czgwQkFreGJfNmhWUHFoZnNvUW13bERaUDg4UWJrVFZiQll2NVoxVjhRcVZMMTZqY3dfcw?oc=5
+- Google India, Telegram executives appear before NCPCR over CSEAM - The Times of India
+  Google India, Telegram executives appear before NCPCR
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPWExiX1RWVG15SU5jQlctMGtQa0o1aEZTd1VPX3A3dzdnamM1eFg0Z1Joa3ZrNHpIdjZpVkM1ZEdlZXZjcHI1eUsyUVNYQXVZUy0wUHpuTG85TFZuUkFJTUdPN1p1a05wcHVrNU5yWVhpVjhIQ0U3U2xKbWJ3VGNvT21RTXI0REdmMEw3WG0xOHlSU3RtWlBiZklzbS1ESTNfbmE5OU9xTUd0WW1yU1ptb2hBY0pCZ3hrOU8zWEo4ejBZRjVhTzJ0WFZBNNIB0AFBVV95cUxPZy1mdkh6MjJiX21QMnFPT3pwRDFUd216MU5hYkF1eDVFY2tLQ1JveHk4MDJLU2s1S1ZNVjV3RGFYT2RmOGtLTUQzUElEUG52dFNiYzNCS1FLaDN2cHVrVERYeHRlQUZFeV8zcW9ycWdOOUdrX0hkQURFQWFYcWR0bmg1M0NXcmJJUDZHanp0Yi1iREZzWGtLSlhia2s1T3M1Mm4tN2NTSk1PNWVnZVkzXy12SW9lSm9hN2dDd2dVa2JIVnVXcFFNVkhiTjhRdU8t?oc=5
 
-- "World That Relied On India's Brainpower Now Trusts Its Mindpower": PM Modi - NDTV
-  "World That Relied On India's Brainpower
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOG44S1ZDWENRelh1WlNjeXRJMUZzYmRULVVkZ1JDcHQza3U0LWJKTW01QnVobWNsUWx1REpfR29wSHRKb1k2aE03RDFyOHVlNWxnTHg3c3VTeHZ1eXhiTHhmMjJDWHQwVEROZklBWGtTVFhNaXhQdmhEWWJLSjRtcW95Z201NWlESTFTVDdMNEVZYVZuSFdyNy1OS2p3U2xpaTFBcnZxNHZwVzRoaHRZSnFYdmhyWHA1SWJCU2dWdzZ2VjFSTFhEN0hUMW10SVpLazdhT1dveUs0Q1U?oc=5
+- Pirelli, Balkrishna strike India tyre production deal - Reuters
+  Pirelli, Balk
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktTcjRQdG9tQjdVMDhTcjNReENtc293VmFTZ0JNc0U5Z0V2UDI3V0lRUGd6aXRrVVFuTnNLemdfMUhCNThQdHZTWXZqMzBaMkltVHozc29hUF9kcE52cm5aUE41MUc5Z0JTN1dGRjBnS2tLakRodEEyU19wQ205TmdoRWwyRjYzb1JyVmRkVXBPZ2llcnhnRXVQdndLemxfNVE?oc=5
 
-- India will support every meaningful effort to bring peace to Ukraine, West Asia: PM Modi - The Hindu
-  India will support every meaningful effort to bring peace to Ukraine, West Asia
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDBtU2lGUjR6Wks4X1hyby1hTWJROUpEQjc1WFZSVXY3NEF6M2FHeW5HQmt2ajhlNUtDeS1FMDRCUHRCR1EzVmtTb0dLemd4YUNZTDQwcHBob29xWThIREZ6UTczbTBacTNXaTNkaGxCbnBwVUVDR24tdVN5SG1FbXU1TDRHLVBlbFNsZlBRUHB1UmROcmQyNnZod3B4SUtfQ040aFdnSGRtUjlrMWNHZHk2NlhzQdIBvAFBVV95cUxPMXREMWZDZ3E4aFIyZWdfRGZWREhibzhNNFg1VE5nNi1rODJKR2Z4Ym0ybVNlVEdrdXc5WXdmV1pLSU9wVVN1N3lnRzdUS2FzM1FfYU45SUNfUE9lQklURU5BREh6QldEME9tMVg1dUY5cG8wXzFhRlZlMUxVT3RsZU5IWjQ4RGpzVzJRczNfUEVwYmJIZjRNTVprcnBkV0ZiRUZZRV9qN1NQVURtaml1eExtTUt3QzJFUkNxWQ?oc=5
+- BJP Targets Congress After Report Claims French Riots, Indian Protests Link - NDTV
+  A report claims French Riots, Indian Prot
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVFFkNWNwN3hqUEdPWERSRTdZRlZDVFYtQkxJVl9RSFZMQjRKWHF5ck4tSFJlcWpfU0F3WHhueHNKNlB1Ukt0NHNjQndQMW9LemxCTWpXNDNTTFl4aWU2SlM1ZVA3UFVWeDhTYkxhRkszMG1GY1F0U2IzWXpUU3ZNUzRGby1yeFdaN29kWGRYb2Voa3pxTmxsSnUteTgtaE1zYlpVU1U4bXNYUjNlQ3dUXzVJYkh4RkFyc1RxTkVDaE5lWGhQS1FURHU2SXRpcTU3OHVMNHFzVGJMZ0V3UDVuZFhBMF85ZUXSAe8BQVVfeXFMTUU0cEl6T2M3cllQRmxkNmJHWHdpcDZxUXo2cFFqY1lyNThVZWFBWTZfY3lkaF9YMWc3MXlTRGQ1dkx6X1l5VUkwejFTdHNLeGJURTRCNmVPdVlNa1c5MDZtejFmTWZ3RkNOYU5EaUFHdW81VTE2eDVxSGt0aEp0azBtTDVZU2lWQ0h4ZS1zZF9pUG9ZX1Q2c2VzM2N5MVJKUVdqaGlOa1Q3Umw4WWlDTV9LMGRVdmV5QVY5cnF5U1FSZFU3YnlnN1JyZ1VHOVFNcVpZMVhEbS10clZCTE1RMzRYcndDQWEyNzY2eG9jTms?oc=5
 
-- 7-Eleven shuts remaining 31 India outlets after  ₹90 cr FY26 loss: When did it open first with Reliance; what’s next?
-  7-Eleven has closed its last 31 Indian stores in Mumbai and Pune. Its parent company says it remains interested in serving Indian customers through other possible strategies.
-  🔗 https://www.livemint.com/companies/news/7eleven-shuts-remaining-31-india-outlets-after-rs-90-cr-fy26-loss-when-did-it-open-first-with-reliance-what-s-next-11792676633344.html
+- The Pentagon is quietly building an elite new tech sabotage agency - Politico
+  The Pentagon is quietly building an elite new tech
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDFwUHJOdm5zcWR4T0tldnpBUnRib0JsT1lEQ2RZbWE2bmhsMUlKampEb3Z0OUdZRHBkSWdpdENrdFIxbkJVVGZ5TUtSUE1LS0dYVE1jdGdSSFpxV1ppdE5keW1BTG1pRldjaWVRUlpXbjNUb3o1U2E0bjZSektIRTQybEtVLW9IUUYxZFJ5MU5YSnpWVjcxenBCTEFETmJVY1NR?oc=5
 
-- Swiggy faces quick-commerce test as Instamart losses hit  ₹895 crore in Q2
-  Swiggy expects Instamart’s adjusted Ebitda
-  🔗 https://www.livemint.com/companies/company-results/swiggy-quick-commerce-test-instamart-losses-hit-895-crore-in-q2-food-delivery-11792674493845.html
+- How did AI discover the internet's massive cyber-security risk? - BBC
+  How did AI discover the internet's
+  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkQ0VLSmdYNkk0TzVBZGtlU3piaFlGejFNemlncTZRTWR2MjFlNDhpWWNiVnJMYk5PRUo3eHJ2YlppUmtoLW5FbERMTFNBZ2xkMVhzNmpFWXU?oc=5
 
-- Colgate-Palmolive Q2 net profit up 5.5% to  ₹342 crore, narrowly misses estimates
-  A 12.2% increase in revenue and toothpaste volume gains drove Q2 performance. Ebitda margin
-  🔗 https://www.livemint.com/companies/colgate-palmolive-india-q2-fy27-results-net-profit-interim-dividend-ceo-manish-anandani-11792660302101.html
+- NDTV World Summit 2026 Highlights: "Trade, Technology, Sea Routes, Being Weaponised Today": PM Modi - NDTV
+  NDTV World Summit 2026 Highlights: "Trade, Technology
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxONFE1VnhMWFlHOV9UNjdRQ0xFNlZ0NEFKaEh5M2ZSd1BLbE5GcjFQN2dkckt2ejhROVViTFhWZW9KWXZrSE12cDdvN3hoZzNTTGdFdFF6akoyVUtQdjk0ZWlVRElUallJTXBKamlTRk5acDFHYXlZWXFBV2lDRzBZYTZlWWFwWE5fWWNCN2ZIdlZaVDdBYk9UVGFDXzlqTEtoTzlqSFR5eTRyVXc1bURULXY3enhBX2NhblJZbU1QeWRQSTFLRUp5eE1hMUh2cHFpVEFrWHlPWdIB3wFBVV95cUxPdmpZQk5XeWNTNFA4MTdIdnJpbnVfUldPUnA1a3J1SER0RmhDRmhCYmgySzhYU3ZQQWYwWHFoVXZPY0pVUnJ1VlpGc1huak9VSHBkSTVsRXFZcjlaQ0hKYnVrMkItcGlxcjd1RFVoZTZBdUNadnJYOUhWME5jUGRWZXJuaV9oV25NM2t3MEhVb3VYOUt3MW91ME9jYTA4YkhXNHRlVG9yTWhBY2RIWWVHUGRNRFZwSTRDZlBQTDQ2dGxabloxWmNlTVpBZ2VSTGsyZDVLSTVKTkN3UzdmdURv?oc=5
 
-- Kent RO invests  ₹250 cr in Noida plant for solar inverters, lithium batteries, targets  ₹1,750 cr revenue in FY27
-  Kent New Energy has commissioned a  ₹250-crore Noida plant producing solar hybrid inverters and lithium battery packs. Kent also plans a   ⁹500-
-  🔗 https://www.livemint.com/companies/news/kent-ro-invests-rs-250-cr-in-noida-plant-for-solar-inverters-lithium-batteries-targets-rs-1-750-cr-revenue-in-fy27-11792670755047.html
+- Visually impaired students of Andhra Loyola College trained in assistive technology - The Hindu
+  Visually impaired students of Andhra Loyola
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMVR6SVJ1YkhqUHNONmtjcjZka1JUOWRKRTZpeF9fMWpxdl9CWlJkU3dxUFVEeUstc2tmOUZkWHRlMXhIRXhXQ05tbUZOSVBMS01jVHgwRkhtNV82TFowYjEzVGZSX2o5Qk5MWWFHLTFvSHBaS1lxOVR2WWlhcTJYTXU0RlBSRk9sZDA1Q2ZhX0lucVpmS1FySTNMUGh5RWgzbVF5aWRNVmVGdXRXQnVaYUQxOHF4WDFZMVJlSXBvVkxiSkJSYzZ4am9BVGtQUXY3UVp0N01MTENuRVFv0gHjAUFVX3lxTE82U0RiMGpUbTFuRnlhTVp1V0dNMHJjN1V4SnJhSENlekVkRmVRT3M3NVBsczFuaktRRGFjTzYzQW9OeXUwZGNkUGhPS1BBVEp4WTdiQk96WUk2ZzlYZG1CQlYyZ0hETWJQN3g3WjFOTzV4RkZLZWpQRGUyQUF1VzZNZjhHWkFrTHk2MUtXeXE4MmVMaDV5T25jdzZha2pzcGJwQ1VpVVJaMm80b1owTzJ0TEthaGhtenJxQnFxWE5wVmp3ZE5kcUJJaDBuU3Rsb1BjS0wwZUtzNEVpdkNic0NoZExr?oc=5
 
-- West Asia war uncertainty weighs on Jindal Stainless’ volume outlook
-  The company has lowered its sales volume growth guidance to 4
-  🔗 https://www.livemint.com/companies/news/west-asia-war-uncertainty-weighs-on-jindal-stainless-volume-outlook-11792670727734.html
+- India-New Zealand series to debut DRS's new 'Sonic' technology - Rediff
+  India-New Zealand series to debut
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdXdXVTFhSGlISklHWXUzUU93Z3VkNmdsSkE4SGU2bHJrd2JqeldQWXdCaTVGLW1fTmVQSWxTcnByQjFTcHl1NHBtTzZfb1dON0xoMEcteU5PMEpMYlJSUUV5WW1qMXY4LWs2VFo0Mkd0VUR0ZmYxSXpKdFdvMWdvTlozTmpmWlpyaGtzS3NqMDJpZGdFbHJsU3owS3lvZ3JuTVlUU1ZwSjlOMmdEU05pQk1IWUlqMUIyZmJsRUUwclRseG9oNnlkTm9nWmZJSGdDRF9UbNIB1wFBVV95cUxOSEZvQTF2YXdaeXJjZWhmZHdrV1V5UmhPMWVmaklVckp4SGNjWGhiRGpPaVdRTnV2ZXFsRFBpT0tEOWFtTVp0S0R3ZVd0U1prVFFtNEk2S2NFbnVkTTBmQkpQa1NNWGswQTc4SGJMbFkxNVJlQ3NSd3k1QllEZk5GQ3RYbGRiUmVlMDB4eTBrUjZfd0hfeGZpNTVBenpYVDJCd1FOMlBIbkJtMGpWM3FPZU5fV2xXNnMzQ09GQ24yVm41ZmJHV2hweWg1eEE1T1lUZ0tQMHpWcw?oc=5
 
-- Calliope Capital Ola Electric Investment: How many rights entitlements has the firm applied for?
-  Motilal Oswal Financial Services and Calliope Capital Advisors applied for about 2.39 crore shares in Ola Electric’s rights issue. The offer is priced at
-  🔗 https://www.livemint.com/market/stock-market-news/calliope-capital-ola-electric-investment-how-many-rights-entitlements-has-the-firm-applied-for-11792681740296.html
+- UBS Defeats Ex-Credit Suisse Managing Directors’ Back-Pay Claims
+  UBS Group AG prevailed against two former Credit Suisse Group AG managing directors. They argued their deferred-compensation certificates
+  🔗 https://www.livemint.com/companies/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims-11792695090645.html
 
-- Reliance Jio IPO subscription status day 1, day 2: Check QIB, NII, Retail, Employee, RIL Shareholders wise data details
-  Reliance Jio Platforms’ IPO subscription rose to 5.57 times on day two. Qualified institutional buyers subscribed 13.29 times
-  🔗 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html
+- Why has Rhode Island sued Meta over scam ads on Facebook, Instagram and WhatsApp? Explained
+  The complaint seeks civil monetary penalties for each alleged violation of Rhode Island law. It also seeks restitution for affected consumers and
+  🔗 https://www.livemint.com/companies/why-has-rhode-island-sued-meta-over-scam-ads-on-facebook-instagram-and-whatsapp-explained-11792691751630.html
 
-- Silver crashes  ₹8,590/kg to a 7-month low; gold hits 2-month low. What’s driving the selloff in precious metals
-  Rising Middle East tensions lifted oil prices and increased expectations of further US Federal Reserve rate hikes. Silver fell  ₹8,593 per kilogram to
-  🔗 https://www.livemint.com/market/stock-market-news/silver-crashes-rs-8-590-per-kilo-to-7-month-low-gold-hits-2-month-low-what-s-driving-the-selloff-in-precious-metals-11792676479559.html
+- Vectorial raises $3 million in funding to expand its AI model that predicts consumer behaviour
+  Vectorial plans to use the funding to expand its datasets and models.
+  🔗 https://www.livemint.com/companies/news/vectorial-raises-3-million-in-funding-to-expand-its-ai-model-that-predicts-consumer-behaviour-11792689893969.html
 
-- Coal India Q2 results 2026 date, dividend announcement news: Check Maharatna PSU's earnings schedule, preview, yield
-  Coal India will announce its September-quarter and half-year FY27 results on October 29. Its board will also consider a second interim dividend and may set a record date
-  🔗 https://www.livemint.com/market/stock-market-news/coal-india-q2-results-2026-date-dividend-announcement-news-check-maharatna-psus-earnings-schedule-preview-yield-11792676595483.html
+- Oil India shifts corporate office from Noida to New Delhi: What has changed? Check new address and details
+  Oil India Limited has shifted its corporate office from Noida to the World Trade Centre in New Delhi. The company's registered office will remain in Assam.
+  🔗 https://www.livemint.com/companies/oil-india-shifts-corporate-office-from-noida-to-new-delhi-what-has-changed-check-new-address-and-details-11792687711657.html
 
-- IT stocks rebound sharply in October: TCS gains 22%, Wipro and Tech Mahindra gain 20% — 3 key reasons behind the jump
-  Indian IT stocks rebounded sharply in October. The Nifty IT index rose 16% as stronger-than-expected quarterly results, attractive valuations, and easing concerns about AI disruption revived
-  🔗 https://www.livemint.com/market/stock-market-news/it-stocks-rebound-sharply-in-october-tcs-gains-22-wipro-and-tech-mahindra-gain-20-3-key-reasons-behind-the-jump-11792671461699.html
+- Who is Dr Ashok Kumar? Why former Coal India GM is back in college after retirement
+  Ashok Kumar's return to college offers an example of lifelong learning. It shows that education need not be limited
+  🔗 https://www.livemint.com/news/india/who-is-dr-ashok-kumar-why-former-coal-india-gm-is-back-in-college-after-retirement-11792685730009.html
+
+- TSX falls 1% as tech and gold mining shares slide
+  
+  🔗 https://www.livemint.com/market/tsx-falls-1-as-tech-and-gold-mining-shares-slide-11792700912983.html
+
+- DoubleLine’s Sherman Stays Bearish on Long-Term Treasuries
+  DoubleLine Capital’s Jeff Sherman said he remains bearish on long-term Treasuries
+  🔗 https://www.livemint.com/market/doublelines-sherman-stays-bearish-on-long-term-treasuries-11792699995666.html
+
+- Yields plummet as fears about AI boom sustainability flare
+  
+  🔗 https://www.livemint.com/market/yields-plummet-as-fears-about-ai-boom-sustainability-flare-11792695822319.html
+
+- Traders’ Cost of Hedging Against Big Treasuries Rally Is Soaring
+  The cost of options hedges against more gains in Treasuries surged to its highest level since March. Investors sought the safety of US government bonds following a spike in oil prices and
+  🔗 https://www.livemint.com/market/traders-cost-of-hedging-against-big-treasuries-rally-is-soaring-11792695026739.html
+
+- Yen jumps as oil, AI and France worries rattle markets
+  Yen jumps as oil
+  🔗 https://www.livemint.com/market/yen-jumps-as-oil-ai-and-france-worries-rattle-markets-11792694662480.html
+
+- What to know about the AI-detected security bug impacting wide swaths of the internet
+   AI-detected security bug impacting wide sw
+  🔗 https://www.livemint.com/technology/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet-11792702139835.html
+
+- US banks are blocking third-party AI agents access to customer accounts, sources say
+  US banks are blocking third-party AI
+  🔗 https://www.livemint.com/technology/us-banks-are-blocking-third-party-ai-agents-access-to-customer-accounts-sources-say-11792698143645.html
+
+- Samsung brings 14 refurbished Galaxy S24, S25 smartphones to Amazon in US, prices start at $489
+  Samsung has expanded its Certified Re-Newed programme to Amazon.com. 14 refurbished Galaxy S24 and S25 models starting at $489.
+  🔗 https://www.livemint.com/technology/tech-news/samsung-brings-14-refurbished-galaxy-s24-s25-smartphones-to-amazon-in-us-prices-start-at-489-11792690552233.html
 
 - WhatsApp, Telegram SIM binding rules from January 1, 2027: Who will be affected in India?
    WhatsApp, Telegram and other messaging apps may have to remain linked to registered, active SIM cards under India's new SIM-binding rules. The DoT has set December 31, 2026, as the compliance deadline.
@@ -68,57 +100,73 @@
    eMudhra is India’s only certificate issuer trusted by browsers worldwide. A researcher found weak security keys in its website certificates.
   🔗 https://www.livemint.com/technology/littleknown-emudhra-set-the-internet-on-red-alert-what-really-happened-11792658421848.html
 
-- Explained: What is PHP? Why govt websites went dark? International advisory issued as AI exposes serious cyber glitch
-  PHP has triggered international advisories and forced websites offline worldwide. It marks a new phase in cybersecurity in which increasingly powerful AI can
-  🔗 https://www.livemint.com/technology/explained-what-is-php-why-govt-websites-went-dark-international-advisory-issued-as-ai-exposes-serious-cyber-glitch-11792658091301.html
+- Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off: Live updates - CNBC
+  Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off. 10-Year Yield Sinks as Investors Seek Safety in Bond.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5ROG52YzhPZGZHbTVQQjVmSGxSeHJoRlA0UW90MkdwNFR0ZThOQzFhSDBhMUFmNWpxSGo1RG9nU2FOZ1VTUGN2VjNieDNOT0M4bDB0Qlg5NVkwMHV3cy00VGxhQTNqQzg3a3FwUFB4Vy1lR3BlM1dV0gF8QVVfeXFMTjlVakFKZGpLV0RGRVNiaGUxMWdVcHJtSGlWdXNtYkJqUmhXbHM5S3dLcFgzdTZMRGx0OG9LZE40eTVsaDZ5WWRKTGZSMVN5OWptaXk4Qk5EZGNJTmZYdzBVUVRER3NVOW4xWllXa2k0RXFGWmhTcEw5QTZ2Ug?oc=5
 
-- Redmi K100 launch date, camera and battery confirmed: What to expect from Xiaomi’s new smartphone
-  Redmi K100 will launch in China on October 28, 2026, with a Snapdragon 8 Elite chip, 6.83-inch 165 Hz AMOLED display, 10,000 mAh battery and 50 MP
-  🔗 https://www.livemint.com/technology/gadgets/redmi-k100-launch-date-camera-and-battery-confirmed-what-to-expect-from-xiaomi-s-new-smartphone-11792649894962.html
+- Nuveen's Saira Malik: Markets are anxious U.S. will retaliate against Middle East after midterms - CNBC
+  CNBC: Markets are anxious U.S. will retaliate
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEhvdENUVXptQ2J0eU9fVXY2YmhXOE1KZFhMRU0tcmxqWHdoZXZKeWwyRE1pWEhySW5Sb3RjYXJzWFhUSkRiOFJqVFNTRjBMMW1pNmtJUThrRFpUMzdKUXVLY3FNT1Rvcll0b0pweWxxZ3A4R1BscmhiOXE1VFVUMUp2YTI5YzBaOUNpeG91OTMtNmgtWnk4VVFZS04xU0JkWHIwNFRqLW93bk1DMS0wQXBKc3lsOElsQTZpRlRCYTlRZGxGRjlJSFd4UEVXZGMwS0E?oc=5
 
-- Flexible grid connections can cut AI data centre power wait to 2-4 years from 5-10 years: BCG
-  Data centres supporting artificial intelligence (AI) could reduce their electricity connection waiting time from 5-10 years or more to 2-4 years. Data centres could accept flexible grid connections and use their own
-  🔗 https://www.livemint.com/technology/flexible-grid-connections-can-cut-ai-data-centre-power-wait-to-2-4-years-from-5-10-years-bcg-11792645934183.html
+- China's Stock Market Crashes 20%: 3 Reasons Why The Dragon Is Losing Its Fire - NDTV
+  China's Stock Market Crashes 20%: 3 Reasons Why The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPczRyQ2FCR3VXakdKSnd1VlpWcFlrS293TTBrZnNwc0I4RHNMOGY3elVkNVprbG5oMlI1VUJieTlmakFYN3pqS3cwcDN5WXlhc0U3QkdwU3hBbVNCeE5uYk56WGtyenYtODFqZkNvNzlKNW1hcWxJaTNtdzlJTjJOTlVfc3p2c0VuRmxzOGtSc2dUcE0xWmM5NlcybF9oY2hEdEE4bDNCcGlxTGxoREhtaUxB0gG6AUFVX3lxTFB2ZUg0ZkIzaWJfXzlNQl9LREVHS3pZVVJZcjFGUGVycU02VGlWRW52LVhrcnp3RFU4dEs2WlpkeHpjdHRuQVQzY3NvM2VXSEJYVlVucWZSQU9Ydy1rQjBSUG9PRS0tUU90VGFkcldUbk5uLU8yaXRLZVRmd3haR042OXJ2SWdINDJqOV9FRGs0UHlGa0g5OGFiekxldEc5VERXZFg2N1I1dEltRDZoc2FPVjVFYXI2MjlxZw?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Sensex lost over 460 points, Nifty declined 124 points. BSE-listed companies lost Rs 3 lakh crore in market value.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135122517.cms
+- Either AI or public debt could crash markets. But probably not both - The Economist
+  Either AI or public debt could crash markets. But probably
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2tPMC1XeWVVR2thWnZBbjdsVnJiWm4tMnphSU5Ddlh0WUVLcHhab2ZwYzBnWFlJcERVSWNyX09mNk1Lc0k3MmR2ZDVabkVINU03d3YyNFROa2NXWDZrVnhSWkhpNkd1RjB1WW5kUTFuLTJPWk5FQ3hGcmpFRkMwOEVBZzdZbDc5czZiYTFLcnVZQ1FWVVhHUzFnU3dBcmRkN2gxV0hEUE1xcFZNNWZwVg?oc=5
 
-- Yes Bank unlikely to pay AT1 bond coupons despite bond holders demand, sources say
-  Yes Bank has announced potential non-payment of coupons on additional tier-1 bonds this fiscal year. Supreme Court decision that annulled the previous write-off of these bonds. Bondholders are advocating for repayment based on the court's
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-unlikely-to-pay-at1-bond-coupons-despite-bond-holders-demand-sources-say/articleshow/135122504.cms
+- Delhi conference to explore new markets for Indian rice - The Hindu
+  Delhi conference to explore new markets for
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHplY2xWT0RQTE9peDlsZ3FrMmRnTDRVbE85SkYtZ2FlY19tbFlIWmFKRnZhaTZRdGpDS0J3bGx5Njk0VS1vd0FZUzRsMVdhcFgzQmhGVUlhLTBGZmlJbVBONkZWeTYxV0hZS1dZMEluQUt2dHFlRTROcXJRam8yeUZkYldYakpiS2I4enJlczNqNUxXcnF5MVpjSUhuN2Y2dFZ0VS1JcThsWG9Bc09Lcy00Q2XSAbsBQVVfeXFMT3I1LUkzT1l1SzFZblRoNWVVbTJXQTBhWk9wTS1JRHhTNTUwX09Vc1cyeEQtYjBKdEFDcmdiekpjSzJGZWFKQjNScllQTGFfUW5CdTl6Nk5lX3BPZlhaeE9yWlFWVGZ4VVhjNUNmN1EtTnRjX28ySU4xblpkdy1DdHhRQ0ZJU1hjejJySlZNSWR6dUdfWm00N1kzNFdITjl4bGxwUkVEbVZvb21jNmtzUkhJT0loNGNKMU82MA?oc=5
 
-- Sebi warns investors against WhatsApp stock tips. Here's how you can avoid such traps
-  SEBI has cautioned investors against exclusive WhatsApp groups spreading unauthorised stock tips and fake profit claims. The regulator flagged astroturfing, overseas numbers, replacement
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-warns-investors-against-whatsapp-stock-tips-heres-how-you-can-avoid-such-traps/articleshow/135121957.cms
+- US stocks today: Nasdaq slumps 2.5%, S&amp;P 1% as revived AI doubts ignite tech selloff
+  The Nasdaq suffered its steepest one day decline since June. Tesla and Meta fell, while oil prices climbed to a five-month high.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms
 
-- Anthropic IPO stands alone as AI market jitters sideline others
-  Anthropic plans to move forward with its initial public offering next month. Many companies in the AI field have delayed their public listings due to fluctuating interest rates and significant market instabilities.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/articleshow/135121938.cms
+- Moderna stock crashes 25%, loses about $24 billion after cancer vaccine data leak
+  The decline erased approximately $24 billion from Moderna’s market value. Analysts noted that this reaction was expected as investors often sell after news becomes public. Despite the drop, the trial results showed promising reductions in cancer recurrence
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/moderna-shares-plummet-25-loses-about-24-billion-after-cancer-vaccine-data-leak/articleshow/135127206.cms
 
-- NCDEX launches NDEX and FINNDEX to expand into equity benchmarks
-  NDEX and FINNDEX are two equity benchmarks tracking 20 large, liquid Indian stocks and 15 financial sector companies. Their multi-factor methodology incorporates
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ncdex-launches-ndex-and-finndex-to-expand-into-equity-benchmarks/articleshow/135121233.cms
+- Treasuries see best day in over a year as AI selloff revives haven demand
+  US Treasury bonds surged as a sharp selloff in AI-linked stocks revived demand for safe-haven assets. Treasury yields posted their biggest declines in more than a year, despite Brent crude rising above $112 a barrel. Investors also scaled
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/treasuries-eye-best-day-in-over-a-year-as-ai-selloff-revives-haven-demand/articleshow/135126406.cms
 
-- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
-  CJP protest: India 'cockroach' leaders who called on election
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+- Neocloud short sellers rack up $6 billion as AI debt fears deepen
+  Short sellers betting against US neocloud and data centre companies have made about $6 billion in paper profits this month. CoreWeave, Nebius, IREN, Applied Digital and Core Scientific face heavy short interest
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/neocloud-short-sellers-rack-up-6-billion-as-ai-debt-fears-deepen/articleshow/135123634.cms
 
-- India news: CJP leaders Saurav Das, Ashutosh Ranka released from Tihar Jail after pledging not to protest - DW.com
-  India news: CJP leaders Saurav Das, Ashutosh Ranka
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1YySnl6U2t5Ukg1eUpmU2NueTQ0bEVyeTF6NG1GUXJWUXBrSDBkbFBHUmxHMmhSNDc1TUQwNVZOLXNoTExRR0lqb1pGdzBMMVo3VlBSOFVNc3Fod0M0X2FMTzZWLXNwUnJ6MjUyZnQyWllwZWZVVnJvQTFnSk1kVDZ2VTgzc2wyaEp6V0lqUkNWSWVrcE5UQ2h2Q0NDX0FLTC1XZWdEOE9Cb1AtcWc?oc=5
+- Pershing's Ackman sees a $1 trillion Israeli company within a decade
+  Billionaire investor Bill Ackman said he remained bullish on Israel’s economy and financial markets. He predicted the country could produce a $1 trillion company within a decade.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/pershings-ackman-sees-a-1-trillion-israeli-company-within-a-decade/articleshow/135123317.cms
 
-- K Annamalai vs BJP War Of Words Over Crackdown On CJP Leaders - NDTV
-  K Annamalai vs BJP War Of Words
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnlrM01NSWk1NjM3LUlEZ2t3RzR4cmFFdU84SmFOUHIzQVNlRklQc2ZQNGlMcEZlZ1d4TlEwc2ZmZi12cUQxOXJyMW8tODJ1cG9fMDN5SjZqcl9kUkhfRjRLLTNTVVF4bFp2LUYzb2dKV1gyaFlmYy1sd29pQnpPUlgxNWNVc19rZVFBNXVBbTE1ckllM2VZQmg2c2x4WnBtYmM4ZFA5bkZ3MEN0dndZV0hvR01RdlNzOGd3RFR0a0hJUWoybmtv0gHPAUFVX3lxTE9fQmdCWTYyWDZQRTF3WHVtN0txQnhyQjRNdzhHX3djMFdlSlFzc2cySzdsd2NIMVVnb1BZTGF4Q1doQ3E5Qmxnenp0Z2Y2MFEtME1GWHRVMTBRQXJZUkI4aW5WanVLejBwb3JNN2ZlRmlhM1lnM2VSYkduS0hnejZfcGZ4cDJaRThJMVM0RDBDVHdic215T29TdGc5czgwQkFreGJfNmhWUHFoZnNvUW13bERaUDg4UWJrVFZiQll2NVoxVjhRcVZMMTZqY3dfcw?oc=5
+- India increasingly contributing towards preventive healthcare: Union Minister - The Hindu
+  India increasingly contributing towards preventive healthcare,
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW1BdThHYnhVMVc2QktVdmg5YnNmejJ3aUtQRW5vSVl3OGhZWlNQOFJYM2Q3WmxubWRBUU9EY0ZHdkNEZldyYXlLOHVKaTl1ZmdDamZBQnhiVzVUd2NoM05uZTZ4RElnOV9GT3EwVlU0azZmZTFmVDdzcGVqREdSUk83QkF6YTdkMWR4SFlTcVlNUkFTWlNqaDl5YUhGcE5HMllpT1cxUFduT1hHNkc2MzNicDBNLXBpak5fbV9BLTNhQV9Lbmt2bllnLURvaGtmdGlBSXNQYXTSAd8BQVVfeXFMTXEySy1VRzVQcXoyX0RXMzZSdUhoNEtNd1RzMGNnNHpWNVJ2cUtxQXFLRkFDWW9wVUhCOVdsV3gzU1NqMC1WUlotVGpod3hnV3J0eExpZnpwc2ZoUGlTWkFTcTlUMlNaMjQ2S0Rxek44blJzV1RxMEFoTDQ2Zy02RTJuZDJSdzlLNk9fcXZUMlpLTWtlYWlPOUNMWVBMOXQzSHdWTVBaZUtMS2VIUThGY2dPdTdjN0o5bGhEdWlha1Bab2VmR2RVSWhra3ZzX2hYakQxcVUxQUVBcmhaWnZnbw?oc=5
 
-- "World That Relied On India's Brainpower Now Trusts Its Mindpower": PM Modi - NDTV
-  "World That Relied On India's Brainpower
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOG44S1ZDWENRelh1WlNjeXRJMUZzYmRULVVkZ1JDcHQza3U0LWJKTW01QnVobWNsUWx1REpfR29wSHRKb1k2aE03RDFyOHVlNWxnTHg3c3VTeHZ1eXhiTHhmMjJDWHQwVEROZklBWGtTVFhNaXhQdmhEWWJLSjRtcW95Z201NWlESTFTVDdMNEVZYVZuSFdyNy1OS2p3U2xpaTFBcnZxNHZwVzRoaHRZSnFYdmhyWHA1SWJCU2dWdzZ2VjFSTFhEN0hUMW10SVpLazdhT1dveUs0Q1U?oc=5
+- Govt plans colour-coded driving licence for Indians, foreigners - The Times of India
+  Govt plans colour-coded driving licence for
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU83clJxSC1pNlU3SHBvZnB5ZlM2VndqTGthYlZDN29WUl8zN3dHSENlVi12SkF5ck1MaUFvY1dQd1NLcXdBUVBCS3JPc0lXVnVRWjhxaDdjNUhMdDZEbnMxdzZZWVFmSzBaMU5xeF9RN1pHdlAzaDdYcGpTZy1ZS0NLRzlURERjaVdDcmpBZmRpMG9Yb05nVGo3TUFIZ2EtNXhLQTNRVWVBRS1iTFVRTzBLZHBwZF93X0tkd1VnSWZ5UTd2Xy1XMk1B0gHPAUFVX3lxTE5PTWd3TGN3RHFZaUl6UzNTMk1MMXg4NzBRY0hSZ2F5R1NiY0RibTFRZ1VsMjBoeU5FS1dxSzI4WlhHZ1Zxa01pZFNsSURMV0JxbUU3eVVHZGZoSW94NE5fWHpQQjM3YXJkNDZrWXYtUTZDeWdMM3A5akRwSS1XbnFnVm1ab2Z6ejVSbnZJd2lRU2d5Unlaa2NUZ3ZrSmItTkFHYnhKWmVqZ1M5MEFERE5JWnJrcmJHdmtOMHhrV3Y2dURIa0NUbmdTdmU3S2tjaw?oc=5
 
-- India will support every meaningful effort to bring peace to Ukraine, West Asia: PM Modi - The Hindu
-  India will support every meaningful effort to bring peace to Ukraine, West Asia
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDBtU2lGUjR6Wks4X1hyby1hTWJROUpEQjc1WFZSVXY3NEF6M2FHeW5HQmt2ajhlNUtDeS1FMDRCUHRCR1EzVmtTb0dLemd4YUNZTDQwcHBob29xWThIREZ6UTczbTBacTNXaTNkaGxCbnBwVUVDR24tdVN5SG1FbXU1TDRHLVBlbFNsZlBRUHB1UmROcmQyNnZod3B4SUtfQ040aFdnSGRtUjlrMWNHZHk2NlhzQdIBvAFBVV95cUxPMXREMWZDZ3E4aFIyZWdfRGZWREhibzhNNFg1VE5nNi1rODJKR2Z4Ym0ybVNlVEdrdXc5WXdmV1pLSU9wVVN1N3lnRzdUS2FzM1FfYU45SUNfUE9lQklURU5BREh6QldEME9tMVg1dUY5cG8wXzFhRlZlMUxVT3RsZU5IWjQ4RGpzVzJRczNfUEVwYmJIZjRNTVprcnBkV0ZiRUZZRV9qN1NQVURtaml1eExtTUt3QzJFUkNxWQ?oc=5
+- Google India, Telegram executives appear before NCPCR over CSEAM - The Times of India
+  Google India, Telegram executives appear before NCPCR
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPWExiX1RWVG15SU5jQlctMGtQa0o1aEZTd1VPX3A3dzdnamM1eFg0Z1Joa3ZrNHpIdjZpVkM1ZEdlZXZjcHI1eUsyUVNYQXVZUy0wUHpuTG85TFZuUkFJTUdPN1p1a05wcHVrNU5yWVhpVjhIQ0U3U2xKbWJ3VGNvT21RTXI0REdmMEw3WG0xOHlSU3RtWlBiZklzbS1ESTNfbmE5OU9xTUd0WW1yU1ptb2hBY0pCZ3hrOU8zWEo4ejBZRjVhTzJ0WFZBNNIB0AFBVV95cUxPZy1mdkh6MjJiX21QMnFPT3pwRDFUd216MU5hYkF1eDVFY2tLQ1JveHk4MDJLU2s1S1ZNVjV3RGFYT2RmOGtLTUQzUElEUG52dFNiYzNCS1FLaDN2cHVrVERYeHRlQUZFeV8zcW9ycWdOOUdrX0hkQURFQWFYcWR0bmg1M0NXcmJJUDZHanp0Yi1iREZzWGtLSlhia2s1T3M1Mm4tN2NTSk1PNWVnZVkzXy12SW9lSm9hN2dDd2dVa2JIVnVXcFFNVkhiTjhRdU8t?oc=5
+
+- Pirelli, Balkrishna strike India tyre production deal - Reuters
+  Pirelli, Balk
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktTcjRQdG9tQjdVMDhTcjNReENtc293VmFTZ0JNc0U5Z0V2UDI3V0lRUGd6aXRrVVFuTnNLemdfMUhCNThQdHZTWXZqMzBaMkltVHozc29hUF9kcE52cm5aUE41MUc5Z0JTN1dGRjBnS2tLakRodEEyU19wQ205TmdoRWwyRjYzb1JyVmRkVXBPZ2llcnhnRXVQdndLemxfNVE?oc=5
+
+- BJP Targets Congress After Report Claims French Riots, Indian Protests Link - NDTV
+  A report claims French Riots, Indian Prot
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVFFkNWNwN3hqUEdPWERSRTdZRlZDVFYtQkxJVl9RSFZMQjRKWHF5ck4tSFJlcWpfU0F3WHhueHNKNlB1Ukt0NHNjQndQMW9LemxCTWpXNDNTTFl4aWU2SlM1ZVA3UFVWeDhTYkxhRkszMG1GY1F0U2IzWXpUU3ZNUzRGby1yeFdaN29kWGRYb2Voa3pxTmxsSnUteTgtaE1zYlpVU1U4bXNYUjNlQ3dUXzVJYkh4RkFyc1RxTkVDaE5lWGhQS1FURHU2SXRpcTU3OHVMNHFzVGJMZ0V3UDVuZFhBMF85ZUXSAe8BQVVfeXFMTUU0cEl6T2M3cllQRmxkNmJHWHdpcDZxUXo2cFFqY1lyNThVZWFBWTZfY3lkaF9YMWc3MXlTRGQ1dkx6X1l5VUkwejFTdHNLeGJURTRCNmVPdVlNa1c5MDZtejFmTWZ3RkNOYU5EaUFHdW81VTE2eDVxSGt0aEp0azBtTDVZU2lWQ0h4ZS1zZF9pUG9ZX1Q2c2VzM2N5MVJKUVdqaGlOa1Q3Umw4WWlDTV9LMGRVdmV5QVY5cnF5U1FSZFU3YnlnN1JyZ1VHOVFNcVpZMVhEbS10clZCTE1RMzRYcndDQWEyNzY2eG9jTms?oc=5
+
+- eMudhra To Exit Certificate Business As Security Flaw Triggers Distrust
+  Bengaluru-based cybersecurity company eMudhra, which recently found itself at the centre of a security key issue, has announced plans to improve its security.
+  🔗 https://inc42.com/features/emudhra-to-exit-certificate-business-as-security-flaw-triggers-distrust/
+
+- Swiggy To Begin Instamart Inventory Model Transition, Eyes Pivot Within Three Quarters
+  Over two months after attaining the IOCC (Indian-Owned and Controlled Company) tag, Swiggy announced that it will shortly commence transitioning.
+  🔗 https://inc42.com/buzz/swiggy-to-begin-instamart-inventory-model-transition-eyes-pivot-within-three-quarters/
 
 - [Update] Jio Platforms IPO Ends Day 2 With 5.57X Subscription, QIBs Lead Demand
   Jio Platforms’ ₹30,213 Cr IPO ended the second day of bidding with 5.57X subscription.
@@ -132,53 +180,45 @@
   Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets ₹440 Cr.
   🔗 https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/
 
-- Ola Electric Rights Issue: Motilal Oswal, Calliope Apply For 2.39 Cr Shares
-  Motilal Oswal Financial Services and Calliope Capital Advisors apply for a combined 2.39 Cr shares in Ola Electric.
-  🔗 https://inc42.com/buzz/ola-electric-rights-issue-motilal-oswal-calliope-apply-for-2-39-cr-shares/
+- India increasingly contributing towards preventive healthcare: Union Minister - The Hindu
+  India increasingly contributing towards preventive healthcare,
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW1BdThHYnhVMVc2QktVdmg5YnNmejJ3aUtQRW5vSVl3OGhZWlNQOFJYM2Q3WmxubWRBUU9EY0ZHdkNEZldyYXlLOHVKaTl1ZmdDamZBQnhiVzVUd2NoM05uZTZ4RElnOV9GT3EwVlU0azZmZTFmVDdzcGVqREdSUk83QkF6YTdkMWR4SFlTcVlNUkFTWlNqaDl5YUhGcE5HMllpT1cxUFduT1hHNkc2MzNicDBNLXBpak5fbV9BLTNhQV9Lbmt2bllnLURvaGtmdGlBSXNQYXTSAd8BQVVfeXFMTXEySy1VRzVQcXoyX0RXMzZSdUhoNEtNd1RzMGNnNHpWNVJ2cUtxQXFLRkFDWW9wVUhCOVdsV3gzU1NqMC1WUlotVGpod3hnV3J0eExpZnpwc2ZoUGlTWkFTcTlUMlNaMjQ2S0Rxek44blJzV1RxMEFoTDQ2Zy02RTJuZDJSdzlLNk9fcXZUMlpLTWtlYWlPOUNMWVBMOXQzSHdWTVBaZUtMS2VIUThGY2dPdTdjN0o5bGhEdWlha1Bab2VmR2RVSWhra3ZzX2hYakQxcVUxQUVBcmhaWnZnbw?oc=5
 
-- Tonbo Imaging Cofounders Rake In ₹137 Cr From IPO
-  Tonbo Imaging’s promoters and investors have realised substantial gains from the company's IPO, which closed earlier this week.
-  🔗 https://inc42.com/buzz/tonbo-imaging-cofounders-rake-in-%e2%82%b9137-cr-from-ipo/
+- Govt plans colour-coded driving licence for Indians, foreigners - The Times of India
+  Govt plans colour-coded driving licence for
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU83clJxSC1pNlU3SHBvZnB5ZlM2VndqTGthYlZDN29WUl8zN3dHSENlVi12SkF5ck1MaUFvY1dQd1NLcXdBUVBCS3JPc0lXVnVRWjhxaDdjNUhMdDZEbnMxdzZZWVFmSzBaMU5xeF9RN1pHdlAzaDdYcGpTZy1ZS0NLRzlURERjaVdDcmpBZmRpMG9Yb05nVGo3TUFIZ2EtNXhLQTNRVWVBRS1iTFVRTzBLZHBwZF93X0tkd1VnSWZ5UTd2Xy1XMk1B0gHPAUFVX3lxTE5PTWd3TGN3RHFZaUl6UzNTMk1MMXg4NzBRY0hSZ2F5R1NiY0RibTFRZ1VsMjBoeU5FS1dxSzI4WlhHZ1Zxa01pZFNsSURMV0JxbUU3eVVHZGZoSW94NE5fWHpQQjM3YXJkNDZrWXYtUTZDeWdMM3A5akRwSS1XbnFnVm1ab2Z6ejVSbnZJd2lRU2d5Unlaa2NUZ3ZrSmItTkFHYnhKWmVqZ1M5MEFERE5JWnJrcmJHdmtOMHhrV3Y2dURIa0NUbmdTdmU3S2tjaw?oc=5
 
-- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
-  CJP protest: India 'cockroach' leaders who called on election
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+- Google India, Telegram executives appear before NCPCR over CSEAM - The Times of India
+  Google India, Telegram executives appear before NCPCR
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPWExiX1RWVG15SU5jQlctMGtQa0o1aEZTd1VPX3A3dzdnamM1eFg0Z1Joa3ZrNHpIdjZpVkM1ZEdlZXZjcHI1eUsyUVNYQXVZUy0wUHpuTG85TFZuUkFJTUdPN1p1a05wcHVrNU5yWVhpVjhIQ0U3U2xKbWJ3VGNvT21RTXI0REdmMEw3WG0xOHlSU3RtWlBiZklzbS1ESTNfbmE5OU9xTUd0WW1yU1ptb2hBY0pCZ3hrOU8zWEo4ejBZRjVhTzJ0WFZBNNIB0AFBVV95cUxPZy1mdkh6MjJiX21QMnFPT3pwRDFUd216MU5hYkF1eDVFY2tLQ1JveHk4MDJLU2s1S1ZNVjV3RGFYT2RmOGtLTUQzUElEUG52dFNiYzNCS1FLaDN2cHVrVERYeHRlQUZFeV8zcW9ycWdOOUdrX0hkQURFQWFYcWR0bmg1M0NXcmJJUDZHanp0Yi1iREZzWGtLSlhia2s1T3M1Mm4tN2NTSk1PNWVnZVkzXy12SW9lSm9hN2dDd2dVa2JIVnVXcFFNVkhiTjhRdU8t?oc=5
 
-- India news: CJP leaders Saurav Das, Ashutosh Ranka released from Tihar Jail after pledging not to protest - DW.com
-  India news: CJP leaders Saurav Das, Ashutosh Ranka
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1YySnl6U2t5Ukg1eUpmU2NueTQ0bEVyeTF6NG1GUXJWUXBrSDBkbFBHUmxHMmhSNDc1TUQwNVZOLXNoTExRR0lqb1pGdzBMMVo3VlBSOFVNc3Fod0M0X2FMTzZWLXNwUnJ6MjUyZnQyWllwZWZVVnJvQTFnSk1kVDZ2VTgzc2wyaEp6V0lqUkNWSWVrcE5UQ2h2Q0NDX0FLTC1XZWdEOE9Cb1AtcWc?oc=5
+- Pirelli, Balkrishna strike India tyre production deal - Reuters
+  Pirelli, Balk
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktTcjRQdG9tQjdVMDhTcjNReENtc293VmFTZ0JNc0U5Z0V2UDI3V0lRUGd6aXRrVVFuTnNLemdfMUhCNThQdHZTWXZqMzBaMkltVHozc29hUF9kcE52cm5aUE41MUc5Z0JTN1dGRjBnS2tLakRodEEyU19wQ205TmdoRWwyRjYzb1JyVmRkVXBPZ2llcnhnRXVQdndLemxfNVE?oc=5
 
-- K Annamalai vs BJP War Of Words Over Crackdown On CJP Leaders - NDTV
-  K Annamalai vs BJP War Of Words
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnlrM01NSWk1NjM3LUlEZ2t3RzR4cmFFdU84SmFOUHIzQVNlRklQc2ZQNGlMcEZlZ1d4TlEwc2ZmZi12cUQxOXJyMW8tODJ1cG9fMDN5SjZqcl9kUkhfRjRLLTNTVVF4bFp2LUYzb2dKV1gyaFlmYy1sd29pQnpPUlgxNWNVc19rZVFBNXVBbTE1ckllM2VZQmg2c2x4WnBtYmM4ZFA5bkZ3MEN0dndZV0hvR01RdlNzOGd3RFR0a0hJUWoybmtv0gHPAUFVX3lxTE9fQmdCWTYyWDZQRTF3WHVtN0txQnhyQjRNdzhHX3djMFdlSlFzc2cySzdsd2NIMVVnb1BZTGF4Q1doQ3E5Qmxnenp0Z2Y2MFEtME1GWHRVMTBRQXJZUkI4aW5WanVLejBwb3JNN2ZlRmlhM1lnM2VSYkduS0hnejZfcGZ4cDJaRThJMVM0RDBDVHdic215T29TdGc5czgwQkFreGJfNmhWUHFoZnNvUW13bERaUDg4UWJrVFZiQll2NVoxVjhRcVZMMTZqY3dfcw?oc=5
+- BJP Targets Congress After Report Claims French Riots, Indian Protests Link - NDTV
+  A report claims French Riots, Indian Prot
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVFFkNWNwN3hqUEdPWERSRTdZRlZDVFYtQkxJVl9RSFZMQjRKWHF5ck4tSFJlcWpfU0F3WHhueHNKNlB1Ukt0NHNjQndQMW9LemxCTWpXNDNTTFl4aWU2SlM1ZVA3UFVWeDhTYkxhRkszMG1GY1F0U2IzWXpUU3ZNUzRGby1yeFdaN29kWGRYb2Voa3pxTmxsSnUteTgtaE1zYlpVU1U4bXNYUjNlQ3dUXzVJYkh4RkFyc1RxTkVDaE5lWGhQS1FURHU2SXRpcTU3OHVMNHFzVGJMZ0V3UDVuZFhBMF85ZUXSAe8BQVVfeXFMTUU0cEl6T2M3cllQRmxkNmJHWHdpcDZxUXo2cFFqY1lyNThVZWFBWTZfY3lkaF9YMWc3MXlTRGQ1dkx6X1l5VUkwejFTdHNLeGJURTRCNmVPdVlNa1c5MDZtejFmTWZ3RkNOYU5EaUFHdW81VTE2eDVxSGt0aEp0azBtTDVZU2lWQ0h4ZS1zZF9pUG9ZX1Q2c2VzM2N5MVJKUVdqaGlOa1Q3Umw4WWlDTV9LMGRVdmV5QVY5cnF5U1FSZFU3YnlnN1JyZ1VHOVFNcVpZMVhEbS10clZCTE1RMzRYcndDQWEyNzY2eG9jTms?oc=5
 
-- "World That Relied On India's Brainpower Now Trusts Its Mindpower": PM Modi - NDTV
-  "World That Relied On India's Brainpower
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOG44S1ZDWENRelh1WlNjeXRJMUZzYmRULVVkZ1JDcHQza3U0LWJKTW01QnVobWNsUWx1REpfR29wSHRKb1k2aE03RDFyOHVlNWxnTHg3c3VTeHZ1eXhiTHhmMjJDWHQwVEROZklBWGtTVFhNaXhQdmhEWWJLSjRtcW95Z201NWlESTFTVDdMNEVZYVZuSFdyNy1OS2p3U2xpaTFBcnZxNHZwVzRoaHRZSnFYdmhyWHA1SWJCU2dWdzZ2VjFSTFhEN0hUMW10SVpLazdhT1dveUs0Q1U?oc=5
+- India increasingly contributing towards preventive healthcare: Union Minister - The Hindu
+  India increasingly contributing towards preventive healthcare,
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW1BdThHYnhVMVc2QktVdmg5YnNmejJ3aUtQRW5vSVl3OGhZWlNQOFJYM2Q3WmxubWRBUU9EY0ZHdkNEZldyYXlLOHVKaTl1ZmdDamZBQnhiVzVUd2NoM05uZTZ4RElnOV9GT3EwVlU0azZmZTFmVDdzcGVqREdSUk83QkF6YTdkMWR4SFlTcVlNUkFTWlNqaDl5YUhGcE5HMllpT1cxUFduT1hHNkc2MzNicDBNLXBpak5fbV9BLTNhQV9Lbmt2bllnLURvaGtmdGlBSXNQYXTSAd8BQVVfeXFMTXEySy1VRzVQcXoyX0RXMzZSdUhoNEtNd1RzMGNnNHpWNVJ2cUtxQXFLRkFDWW9wVUhCOVdsV3gzU1NqMC1WUlotVGpod3hnV3J0eExpZnpwc2ZoUGlTWkFTcTlUMlNaMjQ2S0Rxek44blJzV1RxMEFoTDQ2Zy02RTJuZDJSdzlLNk9fcXZUMlpLTWtlYWlPOUNMWVBMOXQzSHdWTVBaZUtMS2VIUThGY2dPdTdjN0o5bGhEdWlha1Bab2VmR2RVSWhra3ZzX2hYakQxcVUxQUVBcmhaWnZnbw?oc=5
 
-- India will support every meaningful effort to bring peace to Ukraine, West Asia: PM Modi - The Hindu
-  India will support every meaningful effort to bring peace to Ukraine, West Asia
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDBtU2lGUjR6Wks4X1hyby1hTWJROUpEQjc1WFZSVXY3NEF6M2FHeW5HQmt2ajhlNUtDeS1FMDRCUHRCR1EzVmtTb0dLemd4YUNZTDQwcHBob29xWThIREZ6UTczbTBacTNXaTNkaGxCbnBwVUVDR24tdVN5SG1FbXU1TDRHLVBlbFNsZlBRUHB1UmROcmQyNnZod3B4SUtfQ040aFdnSGRtUjlrMWNHZHk2NlhzQdIBvAFBVV95cUxPMXREMWZDZ3E4aFIyZWdfRGZWREhibzhNNFg1VE5nNi1rODJKR2Z4Ym0ybVNlVEdrdXc5WXdmV1pLSU9wVVN1N3lnRzdUS2FzM1FfYU45SUNfUE9lQklURU5BREh6QldEME9tMVg1dUY5cG8wXzFhRlZlMUxVT3RsZU5IWjQ4RGpzVzJRczNfUEVwYmJIZjRNTVprcnBkV0ZiRUZZRV9qN1NQVURtaml1eExtTUt3QzJFUkNxWQ?oc=5
+- Govt plans colour-coded driving licence for Indians, foreigners - The Times of India
+  Govt plans colour-coded driving licence for
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU83clJxSC1pNlU3SHBvZnB5ZlM2VndqTGthYlZDN29WUl8zN3dHSENlVi12SkF5ck1MaUFvY1dQd1NLcXdBUVBCS3JPc0lXVnVRWjhxaDdjNUhMdDZEbnMxdzZZWVFmSzBaMU5xeF9RN1pHdlAzaDdYcGpTZy1ZS0NLRzlURERjaVdDcmpBZmRpMG9Yb05nVGo3TUFIZ2EtNXhLQTNRVWVBRS1iTFVRTzBLZHBwZF93X0tkd1VnSWZ5UTd2Xy1XMk1B0gHPAUFVX3lxTE5PTWd3TGN3RHFZaUl6UzNTMk1MMXg4NzBRY0hSZ2F5R1NiY0RibTFRZ1VsMjBoeU5FS1dxSzI4WlhHZ1Zxa01pZFNsSURMV0JxbUU3eVVHZGZoSW94NE5fWHpQQjM3YXJkNDZrWXYtUTZDeWdMM3A5akRwSS1XbnFnVm1ab2Z6ejVSbnZJd2lRU2d5Unlaa2NUZ3ZrSmItTkFHYnhKWmVqZ1M5MEFERE5JWnJrcmJHdmtOMHhrV3Y2dURIa0NUbmdTdmU3S2tjaw?oc=5
 
-- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
-  CJP protest: India 'cockroach' leaders who called on election
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+- Google India, Telegram executives appear before NCPCR over CSEAM - The Times of India
+  Google India, Telegram executives appear before NCPCR
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPWExiX1RWVG15SU5jQlctMGtQa0o1aEZTd1VPX3A3dzdnamM1eFg0Z1Joa3ZrNHpIdjZpVkM1ZEdlZXZjcHI1eUsyUVNYQXVZUy0wUHpuTG85TFZuUkFJTUdPN1p1a05wcHVrNU5yWVhpVjhIQ0U3U2xKbWJ3VGNvT21RTXI0REdmMEw3WG0xOHlSU3RtWlBiZklzbS1ESTNfbmE5OU9xTUd0WW1yU1ptb2hBY0pCZ3hrOU8zWEo4ejBZRjVhTzJ0WFZBNNIB0AFBVV95cUxPZy1mdkh6MjJiX21QMnFPT3pwRDFUd216MU5hYkF1eDVFY2tLQ1JveHk4MDJLU2s1S1ZNVjV3RGFYT2RmOGtLTUQzUElEUG52dFNiYzNCS1FLaDN2cHVrVERYeHRlQUZFeV8zcW9ycWdOOUdrX0hkQURFQWFYcWR0bmg1M0NXcmJJUDZHanp0Yi1iREZzWGtLSlhia2s1T3M1Mm4tN2NTSk1PNWVnZVkzXy12SW9lSm9hN2dDd2dVa2JIVnVXcFFNVkhiTjhRdU8t?oc=5
 
-- India news: CJP leaders Saurav Das, Ashutosh Ranka released from Tihar Jail after pledging not to protest - DW.com
-  India news: CJP leaders Saurav Das, Ashutosh Ranka
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1YySnl6U2t5Ukg1eUpmU2NueTQ0bEVyeTF6NG1GUXJWUXBrSDBkbFBHUmxHMmhSNDc1TUQwNVZOLXNoTExRR0lqb1pGdzBMMVo3VlBSOFVNc3Fod0M0X2FMTzZWLXNwUnJ6MjUyZnQyWllwZWZVVnJvQTFnSk1kVDZ2VTgzc2wyaEp6V0lqUkNWSWVrcE5UQ2h2Q0NDX0FLTC1XZWdEOE9Cb1AtcWc?oc=5
+- Pirelli, Balkrishna strike India tyre production deal - Reuters
+  Pirelli, Balk
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktTcjRQdG9tQjdVMDhTcjNReENtc293VmFTZ0JNc0U5Z0V2UDI3V0lRUGd6aXRrVVFuTnNLemdfMUhCNThQdHZTWXZqMzBaMkltVHozc29hUF9kcE52cm5aUE41MUc5Z0JTN1dGRjBnS2tLakRodEEyU19wQ205TmdoRWwyRjYzb1JyVmRkVXBPZ2llcnhnRXVQdndLemxfNVE?oc=5
 
-- K Annamalai vs BJP War Of Words Over Crackdown On CJP Leaders - NDTV
-  K Annamalai vs BJP War Of Words
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnlrM01NSWk1NjM3LUlEZ2t3RzR4cmFFdU84SmFOUHIzQVNlRklQc2ZQNGlMcEZlZ1d4TlEwc2ZmZi12cUQxOXJyMW8tODJ1cG9fMDN5SjZqcl9kUkhfRjRLLTNTVVF4bFp2LUYzb2dKV1gyaFlmYy1sd29pQnpPUlgxNWNVc19rZVFBNXVBbTE1ckllM2VZQmg2c2x4WnBtYmM4ZFA5bkZ3MEN0dndZV0hvR01RdlNzOGd3RFR0a0hJUWoybmtv0gHPAUFVX3lxTE9fQmdCWTYyWDZQRTF3WHVtN0txQnhyQjRNdzhHX3djMFdlSlFzc2cySzdsd2NIMVVnb1BZTGF4Q1doQ3E5Qmxnenp0Z2Y2MFEtME1GWHRVMTBRQXJZUkI4aW5WanVLejBwb3JNN2ZlRmlhM1lnM2VSYkduS0hnejZfcGZ4cDJaRThJMVM0RDBDVHdic215T29TdGc5czgwQkFreGJfNmhWUHFoZnNvUW13bERaUDg4UWJrVFZiQll2NVoxVjhRcVZMMTZqY3dfcw?oc=5
-
-- "World That Relied On India's Brainpower Now Trusts Its Mindpower": PM Modi - NDTV
-  "World That Relied On India's Brainpower
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOG44S1ZDWENRelh1WlNjeXRJMUZzYmRULVVkZ1JDcHQza3U0LWJKTW01QnVobWNsUWx1REpfR29wSHRKb1k2aE03RDFyOHVlNWxnTHg3c3VTeHZ1eXhiTHhmMjJDWHQwVEROZklBWGtTVFhNaXhQdmhEWWJLSjRtcW95Z201NWlESTFTVDdMNEVZYVZuSFdyNy1OS2p3U2xpaTFBcnZxNHZwVzRoaHRZSnFYdmhyWHA1SWJCU2dWdzZ2VjFSTFhEN0hUMW10SVpLazdhT1dveUs0Q1U?oc=5
-
-- India will support every meaningful effort to bring peace to Ukraine, West Asia: PM Modi - The Hindu
-  India will support every meaningful effort to bring peace to Ukraine, West Asia
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDBtU2lGUjR6Wks4X1hyby1hTWJROUpEQjc1WFZSVXY3NEF6M2FHeW5HQmt2ajhlNUtDeS1FMDRCUHRCR1EzVmtTb0dLemd4YUNZTDQwcHBob29xWThIREZ6UTczbTBacTNXaTNkaGxCbnBwVUVDR24tdVN5SG1FbXU1TDRHLVBlbFNsZlBRUHB1UmROcmQyNnZod3B4SUtfQ040aFdnSGRtUjlrMWNHZHk2NlhzQdIBvAFBVV95cUxPMXREMWZDZ3E4aFIyZWdfRGZWREhibzhNNFg1VE5nNi1rODJKR2Z4Ym0ybVNlVEdrdXc5WXdmV1pLSU9wVVN1N3lnRzdUS2FzM1FfYU45SUNfUE9lQklURU5BREh6QldEME9tMVg1dUY5cG8wXzFhRlZlMUxVT3RsZU5IWjQ4RGpzVzJRczNfUEVwYmJIZjRNTVprcnBkV0ZiRUZZRV9qN1NQVURtaml1eExtTUt3QzJFUkNxWQ?oc=5
+- BJP Targets Congress After Report Claims French Riots, Indian Protests Link - NDTV
+  A report claims French Riots, Indian Prot
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVFFkNWNwN3hqUEdPWERSRTdZRlZDVFYtQkxJVl9RSFZMQjRKWHF5ck4tSFJlcWpfU0F3WHhueHNKNlB1Ukt0NHNjQndQMW9LemxCTWpXNDNTTFl4aWU2SlM1ZVA3UFVWeDhTYkxhRkszMG1GY1F0U2IzWXpUU3ZNUzRGby1yeFdaN29kWGRYb2Voa3pxTmxsSnUteTgtaE1zYlpVU1U4bXNYUjNlQ3dUXzVJYkh4RkFyc1RxTkVDaE5lWGhQS1FURHU2SXRpcTU3OHVMNHFzVGJMZ0V3UDVuZFhBMF85ZUXSAe8BQVVfeXFMTUU0cEl6T2M3cllQRmxkNmJHWHdpcDZxUXo2cFFqY1lyNThVZWFBWTZfY3lkaF9YMWc3MXlTRGQ1dkx6X1l5VUkwejFTdHNLeGJURTRCNmVPdVlNa1c5MDZtejFmTWZ3RkNOYU5EaUFHdW81VTE2eDVxSGt0aEp0azBtTDVZU2lWQ0h4ZS1zZF9pUG9ZX1Q2c2VzM2N5MVJKUVdqaGlOa1Q3Umw4WWlDTV9LMGRVdmV5QVY5cnF5U1FSZFU3YnlnN1JyZ1VHOVFNcVpZMVhEbS10clZCTE1RMzRYcndDQWEyNzY2eG9jTms?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -200,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Top Strategic Technology Trends for 2027 - Gartner
-  Top Strategic Technology Trends
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMGNNN1p0UTdtOXV0U3RoU2JvSGlYUXpQYTZIeEFvcHZGZVpiazBjZ2UyZ0ZhVzZ6NUl3c3Y3LTdCWUVfYVd1YnZuMFdtVElGcHlsR3IwM1BnYXBQNGZueEdldUZJOWM0UnRTQ3Y0WQ?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- How did AI discover the internet's massive cyber-security risk? - BBC
-  How did AI discover the internet's
-  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkQ0VLSmdYNkk0TzVBZGtlU3piaFlGejFNemlncTZRTWR2MjFlNDhpWWNiVnJMYk5PRUo3eHJ2YlppUmtoLW5FbERMTFNBZ2xkMVhzNmpFWXU?oc=5
-
-- 'Trade, Technology, Sea Routes Being Weaponised': PM Modi At NDTV World Summit On Changing Global Order - NDTV
-  'Trade, Technology, Sea Routes Being Weaponised': PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaEVMZDF2T0cyZU56aC1qcDZySmJ4WWZHa1FNejhycHU4NTYtVFVHWTAwcWtpLUQwZlJBR1h1SDRaM1ROQ244SmFUckRoelEyYmszd3JieGVLVGM5WVdHRjY0cFFsMjU1SGZmdVZoeWRuUGw3TVVFeklKMHZpX2xEUVBjQm4wVzBmSC11QkJWU0tmemdfdnZjeEpIZEthR0ItdUZBclg1bGVzb1JOYlZTdm0xYUloend3LUFWOUJGbmY4QXBkdUI4ZF94YjVwUC1kMG1pOdIB3AFBVV95cUxPUFQtZEZNT28zZXg0amJyeWVOeUhzakp1MVJzS0ZzWEFtYVZRbUdJNkg4ZnFicGE3OTJpX2psaVc2TGZvUWxFNHFTZkYwd3daeEtWUnhsYTBZSzJKeHFnLXAtTnlidUw4aFNHWTFlZnlWZjROZWlJcnVQZGNNRnNYcHExeDRYRUZXSWRPNDNmQkEwYS15cDFvc2ZMOWNudE94N2p3OW94Z1ZBaHJSM2YyRkhCZUh6TmVyZzB1MWlsM0tDdEtTdjRxSkZrN29xODFtR2VMTjRiV1hDZUJW?oc=5
-
-- Foreign Technology Dependence: India’s Strategic Risks - Vajiram & Ravi
-  Vajiram & R
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE1aZjlJbHEtZWd0WmlDcTZKX2N2cUVhaWhkSVdYN1ZfUmlnbDlDcFFFRlNtUlFJSGZHQVJ3MWZFR19wR3VYTEZJdGRvdVB0cnh0QVNoZ2ZfeTRSR21tcUN2LUpxSjg3M3Z6T3BEaW93cDl5UVk5b3QxOXpEWW9ZUQ?oc=5
-
-- Anthropic IPO stands alone as AI market jitters sideline others - Reuters
-  Anthropic IPO stands alone as AI
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-22 16:32:22 UTC_
+_Last updated: 2026-10-22 21:10:59 UTC_
