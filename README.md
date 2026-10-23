@@ -4,21 +4,21 @@
   Marco Rubio: Did domestic pressure make US secretary of state visit an
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
 
-- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
-  'US' Pakistan Ties Will Never Come At India
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
-
 - India news: India-US trade deal 'pretty close,' says Trump - DW.com
   India news: India-US trade
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEY0SkRUOWg3NTVURVZFSGM2NEd5T2xtczhhUHpQMlBrVXZGSkZGTFFCcEJ4eW5sSzNidnJSWjg0MjM4NmVfNUpGdUYyMmxiS2xaX3c3YXppZ0hYMEZHWlhwR3lVZk1CbllSU1JKSlVDS3FzTmRuUUtkc0NWWFBPSEtNYTVUUm8wSV9reUI5NE9PVlI3?oc=5
+
+- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
+  'US' Pakistan Ties Will Never Come At India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
 
 - Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
   Petrol, Diesel Now Cheaper In India
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- India must improve rice quality and strengthen its position in global markets, says Chirag Paswan - News On AIR
-  India must improve rice quality and strengthen its position in global markets, says Ch
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmhybmpKVllSMVVmQV96aUpvZHpNWV9lUFJFbGhhYTJuNXhMSWVYS20tZ0ZSdmpFVmxkRURsZlhyYk5mbzA5a0hjaGNUUDNTcGtFNVBjN1ZYaDhfWlRFMUZYQjR4NHRpQzZ2NFRSRWdPaEVLb1FnMTFEMGs2Y2JQNGE5dUMxZ2piQTUtR2RHelJnbEtxRFkxZHpBejAxME03SkdiUEF5aWlTMnEwT05idk1LYzBtTlYwVzJOd1NvYw?oc=5
+- Pratika Rawal's century, Shree Charani's four-for power India to nine-wicket win over Zimbabwe in first WODI - The Times of India
+  Pratika Rawal's century, Shree Charani's four-for power
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxObUtLQWFaMWE2alp0bkFuZ1dzS19uUE5wSEV0V1FjQ09SV1YtaG1YNi04R1l0WDRXamxXa3BwZjJtVkZyWnNGT19WSUY3M0ZQY01TNjA3UzlPTk5kV0dCQWN6akg1NkxSR3RNOHZiVnE2TjA1aEhXRENQM3JIc2pvWk1mZmFtOTY4S0NiQ3lLZlJwN0FyQmk3d1Z4U0tnbGNwNnlac2JpdlY4TGNsRGVMYnAxQWhyNm1HTWlFcVBfN2VzYjhGcHVOVDZLN1dSZlF4VE5ZQ3NPdFFRdmYyUE1fdUtNZGlLWXNvR3B6a0d5RXFxVEFHSW1Ld19KRXV4QWYtNXRPUVc3Nnk3ZXF3NktNOF8yU0FEUQ?oc=5
 
 - Top Strategic Technology Trends for 2027 - Gartner
   Top Strategic Technology Trends
@@ -28,57 +28,65 @@
   The Indian workers filming their work to
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNk95ZEY2aXFiY2RkcU5lM2h0R3RaVDdNS3dkZ1BQdkNWcnJUb2RyYWlZWXgteE0tVDVZVGpyTFB4YTNmYWNzckV3ZTU2UWUzXzlaWnRwSE92V2s?oc=5
 
-- PM Donald Tusk calls for technological cooperation while addressing the India-Poland Business Forum in Bengaluru - The Hindu
-  PM Donald Tusk calls for technological cooperation while addressing the India-Pol
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdEljRExFMGlsQjllcjRrX0ZvNlp4WW44VXJfcDNTeE1jd2phbXB2N1ZwX2duZEc4ekVVTXFQSmxfTll4OFNnUnRKNDlobUhiZkpYc3BpTkkxWkVLcUQ4aEhXbmdVVi1QZk13a2NPLVpiTDRnR04zRlNva0tKLTZGdDZSaVpkeHN1V2hBUXlBM1RHMXRIbGlkZzZDeXExN2FwUGc3dXNIUkFVNUFhVnFqMGF0MmhIQjVkSDlhLU5QNnZvbEVZQzdYeVYtcDF6RXdaeW1j?oc=5
-
 - ‘If Anything Happens to This Guy … Everyone Is Screwed’ - The Atlantic
   ‘If Anything Happens to This Guy
   🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxONGR0ZG9obWNHcXpYWFItX2Rrck8yMmVRZW1vd2lERlZPYnFiZDk3d0ZsdzJ5dEtCSnd6OWJwbjZfYUNrZ3RqM0NZR29JYTdBdGlnTjI0RDJjUXBXV2oyVy1nT0t4SnNjM0J1MXVaZ21uTklod1FtTmZlMTkxUEh3NS1OR2ktaVpGOUdTTlRIZ19sczRJaEx3TXdnTQ?oc=5
 
-- 'Trade, Technology, Sea Routes Being Weaponised': PM Modi At NDTV World Summit On Changing Global Order - NDTV
-  'Trade, Technology, Sea Routes Being Weaponised': PM Modi
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaEVMZDF2T0cyZU56aC1qcDZySmJ4WWZHa1FNejhycHU4NTYtVFVHWTAwcWtpLUQwZlJBR1h1SDRaM1ROQ244SmFUckRoelEyYmszd3JieGVLVGM5WVdHRjY0cFFsMjU1SGZmdVZoeWRuUGw3TVVFeklKMHZpX2xEUVBjQm4wVzBmSC11QkJWU0tmemdfdnZjeEpIZEthR0ItdUZBclg1bGVzb1JOYlZTdm0xYUloend3LUFWOUJGbmY4QXBkdUI4ZF94YjVwUC1kMG1pOdIB3AFBVV95cUxPUFQtZEZNT28zZXg0amJyeWVOeUhzakp1MVJzS0ZzWEFtYVZRbUdJNkg4ZnFicGE3OTJpX2psaVc2TGZvUWxFNHFTZkYwd3daeEtWUnhsYTBZSzJKeHFnLXAtTnlidUw4aFNHWTFlZnlWZjROZWlJcnVQZGNNRnNYcHExeDRYRUZXSWRPNDNmQkEwYS15cDFvc2ZMOWNudE94N2p3OW94Z1ZBaHJSM2YyRkhCZUh6TmVyZzB1MWlsM0tDdEtTdjRxSkZrN29xODFtR2VMTjRiV1hDZUJW?oc=5
+- Barclays boss tells staff ‘we cannot stand in the way of technology’ - TheBanker.com
+  Barclays boss tells staff ‘we cannot
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZnJESnVHYXNXTFI0S1dmNGZxazFVTkl1SzdCWU80TWFvYWZkaDJmOGkzcldQb08tY095Wm9fOWMxaDNUMm80OVJFZFRsOXAyLXNnbW05RVJfQW1Vbk83Z1RibkJNUExQVlhaYTZYS3QyYnRHMmExeHZn?oc=5
 
-- Heineken warns UK pubs: Weight-loss drugs could hit beer sales
-  Heineken has warned British pubs and bars that weight-loss drugs such as Ozempic and Wegovy may reduce drinking and threaten beer sales.
-  🔗 https://www.livemint.com/companies/news/heineken-warns-uk-pubs-weight-loss-drugs-could-hit-beer-sales-11792745387965.html
+- New 'Scentronic' technology can detect and transmit aromas remotely - Reuters
+  New 'Scentronic' technology
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmZBLTd5bVRsTzROWmxobU5nZXowczBOamVXUFVyWVd0TkpUb3NXSzUxVWplaHBzVEtVTlhjVDFlME40eHNxeDliNElDSkQtZ3l5YnRndjhuZ3ZLbEtlbmhsWjhwRzV5d0dCb1FGZlRaak9BbU9qaENXV181djB0ZEd0UjVrVXpBNkZGZUR0OEctbDYzX0VOOEVNWk54VHVIcE5lX1FwMF8?oc=5
 
-- Eternal pushes ahead as Swiggy charts a different course in a tough market
-  Eternal is scaling Blinkit at speed as Swiggy prioritizes Instamart’s
-  🔗 https://www.livemint.com/companies/news/eternal-swiggy-blinkit-instamart-course-tough-market-quick-commerce-food-delivery-11792736732684.html
+- What is EU investigating Booking.com for? Fake hotel listings, phishing scams and more | Explained
+  The European Commission will examine how Booking.com labels paid listings. Regulators want to establish whether the platform clearly informs users.
+  🔗 https://www.livemint.com/companies/what-is-eu-investigating-booking-com-for-fake-hotel-listings-phishing-scams-and-more-explained-11792771189836.html
 
-- Meet Praneeta Pujari: From Apple Watch lead to AI healthcare — how IIT alumna built startup in US despite visa hurdles
-  Praneeta Pujari worked as Apple Watch Lead at the company. He was also the iPhone lead there between 2022 and
-  🔗 https://www.livemint.com/companies/news/meet-praneet-pujari-from-apple-watch-lead-to-ai-healthcare-how-iit-alumni-build-startup-in-us-despite-visa-hurdles-11792718114818.html
+- Tanmay Bhat backs Chapter Home: Ex-PharmEasy executives raise  ₹63 crore for home and kitchen brands
+   Chapter Home was founded in 2025 by five former PharmEasy executives. It has raised  ₹63 crore in a mix of equity and debt from
+  🔗 https://www.livemint.com/companies/news/tanmay-bhat-backs-chapter-home-ex-pharmeasy-executives-raise-63-crore-for-home-and-kitchen-brands-11792767907207.html
 
-- Polymarket blocked in India: What the prediction market does, why it was banned and what went wrong
-  X has withheld Polymarket’s official account in India following
-  🔗 https://www.livemint.com/companies/news/polymarket-blocked-in-india-what-the-prediction-market-does-why-it-was-banned-and-what-went-wrong-11792725722366.html
+- Godrej Properties lines up  ₹32,000 crore of launches in second half of FY27
+  Mumbai-based developer aims to hit its  ₹39,000 crore full-year sales target.
+  🔗 https://www.livemint.com/companies/news/godrej-properties-lines-up-32-000-crore-of-launches-in-second-half-of-fy27-11792753396217.html
 
-- Mark Zuckerberg’s Meta deal explained: What he wanted, what the board opposed and what changed
-  Mark Zuckerberg and Meta’s board reached a compromise after months of negotiations over voting
-  🔗 https://www.livemint.com/companies/news/mark-zuckerberg-s-meta-deal-explained-what-he-wanted-what-the-board-opposed-and-what-changed-11792726353797.html
+- With  ₹3,796 cr net worth, this entrepreneur starts work at 7 am at 85, says there’s nothing like work-life balance'
+  Martha Stewart said she arrives at the office by 7 am, and that she
+  🔗 https://www.livemint.com/news/trends/with-3-796-cr-net-worth-this-entrepreneur-starts-work-at-7-am-at-85-says-there-s-nothing-like-work-life-balance-11792766282148.html
 
-- Himadri Speciality Chemical share price: Why did this multibagger stock suffer its biggest weekly fall since 2008?
-  Himadri Speciality Chemicals fell 6% on October 23, extending its losing streak to six sessions. Q2 revenue rose 44.
-  🔗 https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-share-price-why-did-this-multibagger-stock-suffer-its-biggest-weekly-fall-since-2008-11792750458242.html
+- Pepsi renews Taco Bell partnership days after KFC switches to Coca-Cola in US: How the two have been linked for decades?
+  PepsiCo has been trying to improve the performance of its salty snacks business. The company has also faced weakness in its North American soft drinks division
+  🔗 https://www.livemint.com/companies/pepsi-renews-taco-bell-partnership-days-after-kfc-switches-to-coca-cola-in-us-how-the-two-have-been-linked-for-decades-11792756197109.html
 
-- Swiggy vs Eternal shares compared: Which is better stock to buy post Q2 results? Jefferies India explains | Target price
-  The Jefferies India report has predicted the Swiggy share price target of 
-  🔗 https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-shares-compared-which-is-better-stock-to-buy-post-q2-results-jefferies-india-explains-target-price-11792745304355.html
+- Reliance Jio IPO overall subscription status, GMP: Day 1, 2, 3 details; allotment, listing date, share price prediction
+  Reliance Jio Platforms’ IPO closed with 22.19 times overall subscription. Qualified institutional buyers led demand at 70.55
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-overall-subscription-status-gmp-day-1-2-3-details-allotment-listing-date-share-price-prediction-11792766738298.html
 
-- Top telecom shares to buy: Bharti Airtel, Vodafone Idea, Indus Towers by Ambit Capital with new stock target price
-  Ambit Capital expects telecom stocks to benefit from tariff hikes, rising data use and digital infrastructure growth. It named Bharti Airtel its top pick and maintained BUY ratings.
-  🔗 https://www.livemint.com/market/stock-market-news/top-telecom-shares-to-buy-bharti-airtel-vodafone-idea-indus-towers-by-ambit-capital-with-new-stock-target-price-11792743892509.html
+- Pulse of the Street: earnings strengthen, but stocks lose ground
+  Small caps led the decline as valuation worries and concerns over oil prices and borrowing
+  🔗 https://www.livemint.com/market/stock-market-news/pulse-of-the-street-earnings-strengthen-but-stocks-lose-ground-11792761423089.html
 
-- Ather Energy, TVS Motor, Bajaj Auto, Tata Motors PV shares: Can Delhi’s pollution curbs change game for auto-EV stocks?
-  Delhi’s tighter pollution curbs from November 1 may encourage replacement of older vehicles. Experts say the near-term impact on EV stocks is likely to be sentiment-driven.
-  🔗 https://www.livemint.com/market/stock-market-news/ather-tvs-motor-bajaj-auto-tmpv-can-delhi-s-pollution-curbs-be-a-game-changer-for-auto-ev-stocks-experts-weigh-in-11792745756272.html
+- Silver crashes  ₹56000/kg from August peak; gold slides 23000/10 grams. What’s driving the selloff in precious metals
+  Middle East tensions have pushed oil prices higher, adding to inflation concerns and uncertainty over the Federal Reserve’s next move. Silver has fallen  ₹56,000 from its August
+  🔗 https://www.livemint.com/market/stock-market-news/silver-crashes-rs-56000-kg-from-august-peak-gold-slides-23000-10-grams-what-s-driving-the-selloff-in-precious-metals-11792763090890.html
 
-- Already jumped 55% in 2026, PL Capital sees more returns in Sai Lifesciences shares | Check target, upside
-  PL Capital believes the company is well positioned to benefit from increasing pharmaceutical outsourcing, a
-  🔗 https://www.livemint.com/market/stock-market-news/already-jumped-55-in-2026-pl-capital-sees-more-returns-in-sai-lifesciences-shares-check-target-upside-11792742770583.html
+- 1647% return in 5 years: Welspun Corp wins  ₹5,500 cr US gas pipeline order - What's next for this multibagger stock?
+  The contract, scheduled for execution in 2028-29, lifts the company’s global order book to a record USD 5.25 billion. W
+  🔗 https://www.livemint.com/market/stock-market-news/1647-return-in-5-years-welspun-corp-wins-rs-5-500-crore-us-gas-pipeline-order-whats-next-for-this-multibagger-stock-11792756720441.html
+
+- Infosys ADRs plunge 7.5% in pre-market after company trims annual revenue growth forecast; Q2 net profit rises 6%
+  Shares of Infosys fell in US pre-market trading after it reduced its revenue growth forecast.
+  🔗 https://www.livemint.com/market/infosys-adrs-plunge-7-5-in-pre-market-after-company-trims-annual-revenue-growth-forecast-11792758831738.html
+
+- Vivo X500 series Europe launch on October 27: Expected camera specs, battery capacity and key features
+  The vivo X500 series is expected to focus on
+  🔗 https://www.livemint.com/technology/tech-news/vivo-x500-series-europe-launch-on-october-27-expected-camera-specs-battery-capacity-and-key-features-11792767262206.html
+
+- Apple iPhone 17 Pro price drops to  ₹72,050 on Flipkart with exchange and bank offers: Check how the deal works
+  Apple iPhone 17 Pro (256GB) is available at an effective price of  ₹72,050 on Flipkart. Buyers can get an exchange discount of   �
+  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-17-pro-price-drops-to-rs-72-050-on-flipkart-with-exchange-and-bank-offers-check-how-the-deal-works-11792753671959.html
 
 - Vivo Y600 with Guinness record-holding 10,000mAh battery to launch next week: Check date, design and expected specs
   The Vivo Y600 5G will launch in China on October 30. The smartphone reportedly achieved a Guinness World Records title after completing a continuous livestream test lasting 32 hours and 37 minutes.
@@ -92,133 +100,153 @@
   Polish Prime Minister Donald Tusk has called for stronger technology partnerships between India and Poland. Tusk highlighted opportunities for companies from both countries across sectors
   🔗 https://www.livemint.com/technology/polish-pm-donald-tusk-seeks-deeper-technology-cooperation-with-india-across-ai-digital-and-space-sectors-11792741007680.html
 
-- iPhone Duo shortage in India: Why buyers are paying up to  ₹1 lakh extra for Apple's foldable
-  Apple's first foldable, the iPhone Duo, is in short supply in India. Retailers say they received only a handful of units, and Apple’s websites show 2027 delivery dates.
-  🔗 https://www.livemint.com/technology/tech-news/iphone-duo-shortage-in-india-why-buyers-are-paying-up-to-1-lakh-extra-for-apples-foldable-11792734988542.html
+- Dow tumbles 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates - CNBC
+  Dow tumbles 500 points as Middle East tensions rise, selling broadens beyond tech. Oil Prices Rise Further on Middle East Tensions; Memory Stocks Rebound.
+  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5
 
-- Quantum computing could generate up to USD 2.7 trillion in economic value by 2035: McKinsey
-  Quantum computing could generate between USD 1.3 trillion and USD 2.7 trillion in economic value worldwide by 2035. Businesses need to invest in talent, technology and partnerships now
-  🔗 https://www.livemint.com/technology/quantum-computing-could-generate-up-to-usd-2-7-trillion-in-economic-value-by-2035-mckinsey-11792734603979.html
-
-- Tech Rout Eases With Oil Strength Capping Relief: Markets Wrap - Bloomberg.com
-  Tech Rout Eases With Oil Strength Capping Relief: Markets Wrap. Stock futures trade lower after tech sector sell-off.
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGVVVVZBVjRRcTNYSXJlNS0tV0E5MkEwOVlGcTh3anZ1eC16ZEdSYmp5ODRIcUo1T3BkU01vNkpTTmJxOUFELVFUUG9SS0o2SDNSWHQ5bE9PVGp3a29vLUROenZwc2FBTnhMQ3VOR1B4SVJiZjFvaDV6TjMwUlg3dUlQcmlkdUJXZU5PbXE2YWtrZXN1?oc=5
+- GLP-1 boom in China, India, Brazil could create $22 bln market by 2035, J.P. Morgan says - Reuters
+  GLP-1 boom in China, India, Brazil could create $
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSW50UXhIb0ltNzNLV2piN1NQWGlud3p2YWJSMFZGYXE1NjRiSUY5SDdDQmI5UU9rVVBEWjhHWjZFckhKc2luSHhzTE5pSmJudVZmMXUtOG1PSE9XbTZTUVpaZWF1dkQ2R01BMTN3NnFNUmw3cWozalZRS0ZVcnJKOE1abXB5RnFUX1F1RlRoMGNxQW5BWmczbWhNTEQtcXNCTVNrR1pqV2RxRVVaRlZROWtpV28zUUZXTW9Odl9RMnFnQjZfcG1KRklZaWZJSnhQdlFPbGdKT0pUek1DVXpIWTNsWkNKdw?oc=5
 
 - AI compute is the new oil—and needs a new market - The Economist
   AI compute is the new oil—and needs
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUhHRFFrMnJhNlZkUFZSYjFieG9taHRHcTJITmlldHBrZTROSXNWRmhidVVUbFZsU1lncXk4c29aMVZMM3JSc3RHeDdaejFaQ2JnMlJnYlZab3MzT3NDMktsc1JmN0NJU0ZGMVEtOW13RmZ5c2lMQmJNVFZpckIyanFiQXh6cTZZYzJOSF9SSDRYTlZnQngtbFNsYzhTTk4zeDQ5T3BUZ19NUFk?oc=5
 
-- Sensex crashes 1,250 pts from day's high, Nifty below 22,400: Key reasons behind market decline - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR250SWE3RDBETXh2Unp3ZENZa1ZNX1k3QnVlaUk4cERpOVl1Zm5XT25FNVAtZnJXc1YwSnQxY3VIUjdRckM2Wm1DZjhUMXpIVW96eXdIb2IybkxlOGNETDFvR0xVYjZuaz
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR250SWE3RDBETXh2Unp3ZENZa1ZNX1k3QnVlaUk4cERpOVl1Zm5XT25FNVAtZnJXc1YwSnQxY3VIUjdRckM2Wm1DZjhUMXpIVW96eXdIb2IybkxlOGNETDFvR0xVYjZuazlaNkcwNWhSMzU1b2pqUnZwVHlPYUtULVphbmh0VUhSNjFSOGNCY0RiVGM3MEdibzZLa05FQUNCc2ZkRi1FY1F1dDR5MHZnSVBWamVQSzlvaTNxNVpmLW9hbUtqRFN2QzhGX3BLOGc0Qldqdlp5c01PMkVLOUZxdVRrTVZrOXd1OVHSAe8BQVVfeXFMTmpwTlpEb25yZXVFWHRXUzhuQ2RDYVVTX08xSWZSVGFTMHlTU2F2SDVJTkN5ZU9hWWdIb0tsUEdtdzE2M1kxcTRxTWt1ZDdRdVNSS0t0bWlFWTlkSXh2Vk9wQUstRldGT0JDbGNkX3Vab1FZQVZkcWtqNmM5QUZiRS1qOFNsR0pHRmdRUkNhY195TFBMN21HNEl5OTA3aVhVYkdHWXgyMmppN0JlY3dDRVRkZ1dMeWpReHZmaWJCc3ROMHFJWEY2dE0tSU83TXFXdEpvRm1leVBLVzhmQXlHMEhNZUFJQlZmR0xDOXp4V0U?oc=5
+- Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com
+  Market snaps 2-week gains; Nifty at 22
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOenRIUzBEZWc5czZJbDVnRW1IUl9VMzZLR0JFTWh1Mi1SS1J2aV8xZjhVUEd3Q18weFBpUWpQSG92Q0tjcnRsZS1icXJ1UXpLVl8wZUlrT3N3NkZmc09oczhwbl83U3BTa0R3QzBOc3VLd2RvaU1OMFZqbXI5eXhvRnd3RzBlVTdiVEFVaU1NNjhCajJXYjhpX3VfVDRqZzQ5TTRGTllIMmVDZFNDelFjMVk3TFd6azVGZGpNMXgyUnVwdW5DRXBxLWE0a0xBdkdUckZnQTlubmk1MHd1U0JxWUcxUmxnbDZFTS1TS1VIOHBKNFlqWjRxcXRORXBDVjlObmNqQW5vZVFLcmJhaWNfSWsxYk5CMTh2OUtrTU9WTVJIYVXSAagCQVVfeXFMT2NWSEs1ZnlVQlRLLTNYRzVlUjNpRjlGSEpGY2huM3JhTUJIOWt6SDV4cmhSdndLYVNwZUJ3NlA5TXVPZHZJZ1hZS0tEdDU4c1pRTlVvUnFVTUJTN0ptVnROakxWejVGc3UwMGFyejRtMzF3SHp0YVdVZW0zeVc1dHRsRmkyZkF5VEhYdzZSMWZQNERQZjY4QlRxX2lwVVFzRmRjWnBIX09LcHFPQi0wTHFnQUp6N1FJUkdXVkxMSHB3eE5GVDhMSDBfSkJUNjVHSDNyRmk3Y3VCcTRzb1NmVWVpZEZIQTR5RDAwNGFLNFpNMkNMUDVWWjN1d2pibFFKaXhwOUpoNFhZZ0lycDlsbXlTTUJoQTRETmNmdzNxRm1YbllSbmlOdGY?oc=5
 
-- Macklem Ensnared by Market Pricing and Will Hike, Economists Say - Bloomberg.com
-  Macklem Ensnared by Market
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQS0hfbXhuTjNqVUdoRU5FNmxNQ1p0ems0WDAwbWk5TksxY3NUcElZUDNSbjJmY0hpR1ZkNzNFZnU3T01iQlBEb01ob2F0b3NpYWw5R010dzA0STlUbGxRRjFCYzlwbE1zdk1lMk1iVXRBby1pdXduSFZrRzRZT0FFVjQ0SEVHVGlNT1pCMzViX0RpbW4zQ1dndk5DbHViNXhCYlhNdmVGVWhMeVljdmhfcER4Njk?oc=5
+- Sensex today | Stock Market Highlights: Sensex, Nifty extend losses as crude surges to $114, all sectors close in red - BusinessLine
+  Sensex, Nifty extend losses as crude surges to $114. All sectors close in
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxObmVLTzFHbHo5TXEycFFBZElvTEYyVVZKUUlWZ0tiX1ZlM0J5OXoyMk5WVUt2Sk54YTNDYkc3Nzlrb0dINUNvMVhPZlJ1bXVjYXdJYlpuWjhTSy1Ec0ktX1JxX2FrX1lUUWZkRkVDaW5wSTBwVXo1cDhpbkRLaVhSSUxTeHdtbmh6QzFfcm45aXhYNGpJcUxTZXZDdTdXUXRZS0F4YzgtVDZDeUNpS29ab2sxbTUtckFnbkpIVzFwb2xwdTFwdEE?oc=5
 
-- US Election Angst Looms for Stocks and the AI Boom - Bloomberg.com
-  US Election Angst Looms for St
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxObXNXc2hhX3pPVlQ0U2hka1FMZGdwUHNxY0dGdThNNHZOTGdBMDJDY0R2a3o5UnMwZGRtbW94S1hJTUVqcTlKZWdwTTluNTNPVnJCVU1KTmJtM1JJWEVSVUtzSVhjemYtejcteVNwTi1lazNNSGtuV1NTdGVlTElqME5qNUJsUWI5Y2U2azk4UW1hcWR1cmRBNkh3VWZOMjFua2doV3hUMA?oc=5
+- Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook
+  Jana Small Finance Bank reported a 127% year-on-year rise in Q2 profit to Rs 170 crore. The bank raised its annual profit growth guidance to 100%.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms
 
-- Rupee little changed this week as oil-fueled declines wipe out early gains
-  The Indian rupee experienced a decline for the second day in a row. Brent crude prices have surged to a five-month peak. This led to a pullback from technology stocks.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains/articleshow/135142602.cms
+- Jindal Steel Q2 profit rises 21% as revenue hits record Rs 19,448 crore
+  Jindal Steel’s Q2 FY26 profit rose 21% year-on-year to Rs 771 crore. Revenue surged 44% to a record Rs 19
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms
 
-- Global Market: Eurozone bond markets stabilise after volatile week
-  Eurozone government bonds stabilised after a volatile week. Investors balanced sovereign debt concerns against safe-haven demand. French borrowing costs remain under pressure ahead of key central bank
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-markets-stabilise-after-volatile-week/articleshow/135142036.cms
+- BPCL Q2 Results: Net profit declines 21% YoY to Rs 4,863 crore, revenue grows 29%
+  BPCL reported a 21.45% year-on-year decline in Q2 FY27 profit to Rs 4,863.05 crore. Sequential performance
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-q2-results-net-profit-declines-21-yoy-to-rs-4863-crore-revenue-grows-29/articleshow/135149653.cms
 
-- JSW Steel Q2 Results: Net profit rockets 225% YoY to Rs 5,279 crore; revenue rises 21%
-  JSW Steel reported a 225% year-on-year jump in Q2 FY27 net profit to Rs 5,279 crore. Revenue rose 21% to Rs 54,486 crore, with crude steel production and steel sales hitting record
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q2-results-net-profit-rockets-225-yoy-to-rs-5279-crore-revenue-rises-21/articleshow/135141641.cms
+- RBI governor reiterates listing requirement for top NBFCs as focus intensifies on Tata Sons
+  India's central bank governor says non-bank finance companies classified in the upper layer are required to list on the stock market.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-reiterates-listing-requirement-for-top-nbfcs-as-focus-intensifies-on-tata-sons/articleshow/135149631.cms
 
-- Adani Power Q2 Results: Profit zooms 134% YoY to Rs 6,919 crore; revenue jumps 45%
-  Adani Power has reported an impressive consolidated net profit of Rs 6,919 crore for the second quarter of FY27. Their operational revenue surged to Rs 19,439 crore, representing a 45% growth from the previous year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q2-results-cons-profit-zooms-134-yoy-to-rs-6919-crore-revenue-jumps-45/articleshow/135141294.cms
+- Jio IPO breaks 12 records: Rs 4.5 lakh crore bids, highest applications and more
+  Mukesh Ambani’s Jio Platforms IPO attracted bids exceeding Rs 4.5 lakh crore. Institutional and retail participation surged, making it India’
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-breaks-12-records-rs-4-5-lakh-crore-bids-highest-applications-and-more/articleshow/135149311.cms
 
-- Global Market: European stocks edge lower as Kering slumps, oil prices rise
-  The STOXX 600 fell 0.13%, extending losses amid AI stock volatility and debt concerns. Holcim gained 5.2% after raising its earnings forecast, offering limited support to markets.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-lower-as-kering-slumps-oil-prices-rise/articleshow/135141363.cms
+- Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
+  Marco Rubio: Did domestic pressure make US secretary of state visit an
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
 
-- Ola Electric Slides Over 7% After Bearish Call From Goldman Sachs
-  Shares of electric two-wheeler maker Ola Electric crashed as much as 7.6% to hit an intraday low about ₹
-  🔗 https://inc42.com/buzz/ola-electric-slides-over-7-after-bearish-call-from-goldman-sachs/
+- India news: India-US trade deal 'pretty close,' says Trump - DW.com
+  India news: India-US trade
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEY0SkRUOWg3NTVURVZFSGM2NEd5T2xtczhhUHpQMlBrVXZGSkZGTFFCcEJ4eW5sSzNidnJSWjg0MjM4NmVfNUpGdUYyMmxiS2xaX3c3YXppZ0hYMEZHWlhwR3lVZk1CbllSU1JKSlVDS3FzTmRuUUtkc0NWWFBPSEtNYTVUUm8wSV9reUI5NE9PVlI3?oc=5
 
-- CoinDCX Admits Losses From Old Wallet Deposits, Denies Breach Of Active Wallets
-  Crypto exchange CoinDCX has acknowledged operational losses after a process meant to secure deposits sent to old, compromised wallet addresses.
-  🔗 https://inc42.com/buzz/coindcx-admits-losses-from-old-wallet-deposits-denies-breach-of-active-wallets/
+- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
+  'US' Pakistan Ties Will Never Come At India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
 
-- Jio Platforms IPO Booked 6.76X On Day 3 So Far, QIB Portion Subscribed 14.18X
-  Reliance Industries’ digital services arm Jio Platforms’ IPO was subscribed 6.76X as of 11:48 IST on the third and final
+- Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
+  Petrol, Diesel Now Cheaper In India
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
+
+- Pratika Rawal's century, Shree Charani's four-for power India to nine-wicket win over Zimbabwe in first WODI - The Times of India
+  Pratika Rawal's century, Shree Charani's four-for power
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxObUtLQWFaMWE2alp0bkFuZ1dzS19uUE5wSEV0V1FjQ09SV1YtaG1YNi04R1l0WDRXamxXa3BwZjJtVkZyWnNGT19WSUY3M0ZQY01TNjA3UzlPTk5kV0dCQWN6akg1NkxSR3RNOHZiVnE2TjA1aEhXRENQM3JIc2pvWk1mZmFtOTY4S0NiQ3lLZlJwN0FyQmk3d1Z4U0tnbGNwNnlac2JpdlY4TGNsRGVMYnAxQWhyNm1HTWlFcVBfN2VzYjhGcHVOVDZLN1dSZlF4VE5ZQ3NPdFFRdmYyUE1fdUtNZGlLWXNvR3B6a0d5RXFxVEFHSW1Ld19KRXV4QWYtNXRPUVc3Nnk3ZXF3NktNOF8yU0FEUQ?oc=5
+
+- Festive Sales See Shoppers Log In, But Hold Back On Big-Ticket Purchases
+  Festive sales see Shoppers Log In, But Hold Back On Big-Ticket Purchases. A smaller number of card&#8230;;
+  🔗 https://inc42.com/features/festive-sales-see-shoppers-log-in-but-hold-back-on-big-ticket-purchases/
+
+- [Update] Jio Platforms IPO Subscribed 22.19X On Final Day, QIB Portion Booked 70.55X
+  Reliance Industries’ digital services arm Jio Platforms’ ₹30,213 Cr IPO was subscribed 22.19X&#8230
   🔗 https://inc42.com/buzz/jio-platforms-ipo-booked-6-76x-on-day-3-so-far-qib-portion-subscribed-14-18x/
 
-- From Three Products To 450 SKUs: How R for Rabbit Built A ₹250 Cr Baby Care Brand Around Parents’ Concerns
-  India’s baby care market is growing, and so is the challenge of finding products parents can genuinely trust. When it&#8230;;
-  🔗 https://inc42.com/startups/from-three-products-to-450-skus-how-r-for-rabbit-built-a-%e2%82%b9250-cr-baby-care-brand-around-parents-concerns/
+- Unicommerce Q2: Profit Rises 11% YoY To ₹6.4 Cr, Revenue Up 15%
+  Ecommerce SaaS company Unicommerce reported a consolidated net profit of ₹6.4 Cr in the September quarter of FY
+  🔗 https://inc42.com/buzz/unicommerce-q2-profit-rises-11-yoy-to-%e2%82%b96-4-cr-revenue-up-15/
 
-- Swiggy Shares Plunge 17% To 52-Week Low After Q2, Brokerages Cut Price Targets
-  Foodtech major Swiggy’s shares plunged as much as 17.23% to a 52-week low of ₹
-  🔗 https://inc42.com/buzz/swiggy-shares-plunge-17-to-52-week-low-after-q2-brokerages-cut-price-targets/
+- Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?
+  Companies change course in good times and bad. For Zetwerk, the key turn came after it raised $150 Mn from.
+  🔗 https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/
 
-- Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
-  Marco Rubio: Did domestic pressure make US secretary of state visit an
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
-
-- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
-  'US' Pakistan Ties Will Never Come At India
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
-
-- India news: India-US trade deal 'pretty close,' says Trump - DW.com
-  India news: India-US trade
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEY0SkRUOWg3NTVURVZFSGM2NEd5T2xtczhhUHpQMlBrVXZGSkZGTFFCcEJ4eW5sSzNidnJSWjg0MjM4NmVfNUpGdUYyMmxiS2xaX3c3YXppZ0hYMEZHWlhwR3lVZk1CbllSU1JKSlVDS3FzTmRuUUtkc0NWWFBPSEtNYTVUUm8wSV9reUI5NE9PVlI3?oc=5
-
-- Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
-  Petrol, Diesel Now Cheaper In India
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
-
-- India must improve rice quality and strengthen its position in global markets, says Chirag Paswan - News On AIR
-  India must improve rice quality and strengthen its position in global markets, says Ch
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmhybmpKVllSMVVmQV96aUpvZHpNWV9lUFJFbGhhYTJuNXhMSWVYS20tZ0ZSdmpFVmxkRURsZlhyYk5mbzA5a0hjaGNUUDNTcGtFNVBjN1ZYaDhfWlRFMUZYQjR4NHRpQzZ2NFRSRWdPaEVLb1FnMTFEMGs2Y2JQNGE5dUMxZ2piQTUtR2RHelJnbEtxRFkxZHpBejAxME03SkdiUEF5aWlTMnEwT05idk1LYzBtTlYwVzJOd1NvYw?oc=5
+- Netflix Credits Flipkart Bundle, Indian Shows For Record Q3 Subscriber Additions
+  Netflix recorded its highest-ever quarterly paid net subscriber additions in India in the September quarter of 2026.
+  🔗 https://inc42.com/buzz/netflix-credits-flipkart-bundle-indian-shows-for-record-q3-subscriber-additions/
 
 - Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
   Marco Rubio: Did domestic pressure make US secretary of state visit an
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
 
-- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
-  'US' Pakistan Ties Will Never Come At India
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
-
 - India news: India-US trade deal 'pretty close,' says Trump - DW.com
   India news: India-US trade
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEY0SkRUOWg3NTVURVZFSGM2NEd5T2xtczhhUHpQMlBrVXZGSkZGTFFCcEJ4eW5sSzNidnJSWjg0MjM4NmVfNUpGdUYyMmxiS2xaX3c3YXppZ0hYMEZHWlhwR3lVZk1CbllSU1JKSlVDS3FzTmRuUUtkc0NWWFBPSEtNYTVUUm8wSV9reUI5NE9PVlI3?oc=5
+
+- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
+  'US' Pakistan Ties Will Never Come At India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
 
 - Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
   Petrol, Diesel Now Cheaper In India
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- India must improve rice quality and strengthen its position in global markets, says Chirag Paswan - News On AIR
-  India must improve rice quality and strengthen its position in global markets, says Ch
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmhybmpKVllSMVVmQV96aUpvZHpNWV9lUFJFbGhhYTJuNXhMSWVYS20tZ0ZSdmpFVmxkRURsZlhyYk5mbzA5a0hjaGNUUDNTcGtFNVBjN1ZYaDhfWlRFMUZYQjR4NHRpQzZ2NFRSRWdPaEVLb1FnMTFEMGs2Y2JQNGE5dUMxZ2piQTUtR2RHelJnbEtxRFkxZHpBejAxME03SkdiUEF5aWlTMnEwT05idk1LYzBtTlYwVzJOd1NvYw?oc=5
+- Pratika Rawal's century, Shree Charani's four-for power India to nine-wicket win over Zimbabwe in first WODI - The Times of India
+  Pratika Rawal's century, Shree Charani's four-for power
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxObUtLQWFaMWE2alp0bkFuZ1dzS19uUE5wSEV0V1FjQ09SV1YtaG1YNi04R1l0WDRXamxXa3BwZjJtVkZyWnNGT19WSUY3M0ZQY01TNjA3UzlPTk5kV0dCQWN6akg1NkxSR3RNOHZiVnE2TjA1aEhXRENQM3JIc2pvWk1mZmFtOTY4S0NiQ3lLZlJwN0FyQmk3d1Z4U0tnbGNwNnlac2JpdlY4TGNsRGVMYnAxQWhyNm1HTWlFcVBfN2VzYjhGcHVOVDZLN1dSZlF4VE5ZQ3NPdFFRdmYyUE1fdUtNZGlLWXNvR3B6a0d5RXFxVEFHSW1Ld19KRXV4QWYtNXRPUVc3Nnk3ZXF3NktNOF8yU0FEUQ?oc=5
 
 - Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
   Marco Rubio: Did domestic pressure make US secretary of state visit an
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
 
-- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
-  'US' Pakistan Ties Will Never Come At India
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
-
 - India news: India-US trade deal 'pretty close,' says Trump - DW.com
   India news: India-US trade
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEY0SkRUOWg3NTVURVZFSGM2NEd5T2xtczhhUHpQMlBrVXZGSkZGTFFCcEJ4eW5sSzNidnJSWjg0MjM4NmVfNUpGdUYyMmxiS2xaX3c3YXppZ0hYMEZHWlhwR3lVZk1CbllSU1JKSlVDS3FzTmRuUUtkc0NWWFBPSEtNYTVUUm8wSV9reUI5NE9PVlI3?oc=5
+
+- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
+  'US' Pakistan Ties Will Never Come At India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
 
 - Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
   Petrol, Diesel Now Cheaper In India
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- India must improve rice quality and strengthen its position in global markets, says Chirag Paswan - News On AIR
-  India must improve rice quality and strengthen its position in global markets, says Ch
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmhybmpKVllSMVVmQV96aUpvZHpNWV9lUFJFbGhhYTJuNXhMSWVYS20tZ0ZSdmpFVmxkRURsZlhyYk5mbzA5a0hjaGNUUDNTcGtFNVBjN1ZYaDhfWlRFMUZYQjR4NHRpQzZ2NFRSRWdPaEVLb1FnMTFEMGs2Y2JQNGE5dUMxZ2piQTUtR2RHelJnbEtxRFkxZHpBejAxME03SkdiUEF5aWlTMnEwT05idk1LYzBtTlYwVzJOd1NvYw?oc=5
+- Pratika Rawal's century, Shree Charani's four-for power India to nine-wicket win over Zimbabwe in first WODI - The Times of India
+  Pratika Rawal's century, Shree Charani's four-for power
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxObUtLQWFaMWE2alp0bkFuZ1dzS19uUE5wSEV0V1FjQ09SV1YtaG1YNi04R1l0WDRXamxXa3BwZjJtVkZyWnNGT19WSUY3M0ZQY01TNjA3UzlPTk5kV0dCQWN6akg1NkxSR3RNOHZiVnE2TjA1aEhXRENQM3JIc2pvWk1mZmFtOTY4S0NiQ3lLZlJwN0FyQmk3d1Z4U0tnbGNwNnlac2JpdlY4TGNsRGVMYnAxQWhyNm1HTWlFcVBfN2VzYjhGcHVOVDZLN1dSZlF4VE5ZQ3NPdFFRdmYyUE1fdUtNZGlLWXNvR3B6a0d5RXFxVEFHSW1Ld19KRXV4QWYtNXRPUVc3Nnk3ZXF3NktNOF8yU0FEUQ?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-23 10:56:50 UTC_
+_Last updated: 2026-10-23 16:22:19 UTC_
