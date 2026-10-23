@@ -1,252 +1,224 @@
 # 📰 Daily News Summaries
 
-- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
-  CJP protest: India 'cockroach' leaders who called on election
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+- Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
+  Marco Rubio: Did domestic pressure make US secretary of state visit an
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
+
+- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
+  'US' Pakistan Ties Will Never Come At India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
+
+- India news: India-US trade deal 'pretty close,' says Trump - DW.com
+  India news: India-US trade
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEY0SkRUOWg3NTVURVZFSGM2NEd5T2xtczhhUHpQMlBrVXZGSkZGTFFCcEJ4eW5sSzNidnJSWjg0MjM4NmVfNUpGdUYyMmxiS2xaX3c3YXppZ0hYMEZHWlhwR3lVZk1CbllSU1JKSlVDS3FzTmRuUUtkc0NWWFBPSEtNYTVUUm8wSV9reUI5NE9PVlI3?oc=5
 
 - Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
   Petrol, Diesel Now Cheaper In India
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- How India thwarted Pakistan’s bid to steal crucial defence data - The Hindu
-  How India thwarted Pakistan’s bid to
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVk93UmdGTXNVaW5aajBjWFljYXBZUmk2aHZLQjRPcHdXc3hDOGRSMUYxMnVmNFctbG9WdFY2T292T09nSU0yalQwWFdIREZLNDhWQnE4WlNuMjJyNXdmampYbnZKbXdVdGhTcElXZDg1ZjZfMHZwdGk4YXBkRnJyR2Flb3U5ZXBFT2hWTGdFeUpIVHVGaVR1ZXFSaHBCS29HU3BYQi1qUnhHTjJpM3FTWHVmT0lJNWhnV00zdmdBTzkxVVpMVHdnemRlR3RoZnZHQlHSAdgBQVVfeXFMUFIwSmJxbDU3bWJWdENUYmJ4T1c4WHJzU19wTUJMWHpGSUZMREFmY1dZNWhmWlRLRVV2Z2lDbEtwT2NlMWdLNDRJUFpiNllnSEgwcEw2MjlyWFpFaGNINU42c2d3VnAwel94dDQ1aG53NzN6b3hieTAzMEszUFlkdzFCLXc0cWNSM2lPaFV4cE9DU0FXODN0ZHJZTVpZRU9nQ1dIeEVrZVF1LXdZUHRtRWtFTmxYM2ExV0ZaWDloNnBMR29JMFY2ZzlVZHVmRmZOc1lFaHljWk5a?oc=5
+- India must improve rice quality and strengthen its position in global markets, says Chirag Paswan - News On AIR
+  India must improve rice quality and strengthen its position in global markets, says Ch
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmhybmpKVllSMVVmQV96aUpvZHpNWV9lUFJFbGhhYTJuNXhMSWVYS20tZ0ZSdmpFVmxkRURsZlhyYk5mbzA5a0hjaGNUUDNTcGtFNVBjN1ZYaDhfWlRFMUZYQjR4NHRpQzZ2NFRSRWdPaEVLb1FnMTFEMGs2Y2JQNGE5dUMxZ2piQTUtR2RHelJnbEtxRFkxZHpBejAxME03SkdiUEF5aWlTMnEwT05idk1LYzBtTlYwVzJOd1NvYw?oc=5
 
-- RTI reveals Cabinet Secretariat sent election commissioners’ letters to CEC Gyanesh Kumar | India News - Hindustan Times
-  Cabinet Secretariat sent election commissioners’ letters to CEC
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjN0NVcxYkxvTTBOZzh6d2gwXzNuTkM3ZHRDbWdDODFQWmladEVZc0lIdjNkbjRxbHp0MGY5cG5KeFhLRks4NzRXOEhYdTBZRTByelhtOGcyUnFoWE9jLUFtSWtUdGMwMUppSmxWaHRqMnV1c0pnX0pPb0FHMTFPNjRndjlrNHlMRUUzNEo1bUsyVlA0ZHlQajg1ZU5UdkcwcTlXa2Jpd0VwbGRTUkdZcWtYcTVzakw2bi1LbnhHbmcyU1ozc1FxemN5cW42bGozOVRFSVBKZVNiNm9SWWZFYkxnOTlOd9IB6wFBVV95cUxQMUM2cXFYS2pUWWtYSmNVNW1yWGp3ZnZReXlFSHQ1dl9KUHlSYVpJUEpMek9vaXhWYm9pbzlTVERhVTROTWZFMGJ3MjY1b19salhjeFZpSk95MmFTSE5Ic2twMGdXQ3FxV0F0MVk1R2lsOEd4em1zNWNhY0FoQWRwREJrNzJiNmtIeEtrY19McGlVTjFZMEY1cWhTVDdWM19uLTZSRHBQZEY2YjdxVnBGcHhNbjktWXZMYUczeG1aQUpuSnRqazNscXhLWVpLTXhFRFVEZ1NQVG5rN0lXSkJmQ29JMUMxRmdHQ1FR?oc=5
+- Top Strategic Technology Trends for 2027 - Gartner
+  Top Strategic Technology Trends
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMGNNN1p0UTdtOXV0U3RoU2JvSGlYUXpQYTZIeEFvcHZGZVpiazBjZ2UyZ0ZhVzZ6NUl3c3Y3LTdCWUVfYVd1YnZuMFdtVElGcHlsR3IwM1BnYXBQNGZueEdldUZJOWM0UnRTQ3Y0WQ?oc=5
 
-- Breaking News Live Updates: Bihar MLC polls begin for 8 seats amid tight security, 150 candidates in fray - The Times of India
-  The Times of India reports that Bihar MLC polls begin for 8 seats.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHFCVnlqazFpMHNUdnRkVDVZeUhRdWFmYk1xbzFjUDFXZDZYbmd0Nm9ndWRWRVJsak5rc3lkeXBITlRYMG5jdUFLRUxpVlJPdE1UbjBYT0FncWxNaVA3SVBsVm1XczRHNU9sOVRyTWZFNGlRUGVURWdvMEpNZFBsWnQyWGRVZE5hOTlhaXBfSDFPdDQwQmNJTUVJYV9nN3dWMXdXRUhsMHFsV21McmFYadIBtgFBVV95cUxPNTZMcHBSQzRCNy03emJ4cU10YnRKcFpUX0Y0VjJjR3VhaVRSTGpGd0xnVWlWVlJaR281RWszUUM0ak8wYV9FdFQwSFZVcDd4Q2xMc2ZkZHdlazJhdTdHcDNXQ2VyamI2M01mM0JaQ3kwVjNTZ1A1Snk2aXRLeWZxTnJFOVF6M3oybHdTQlUzLXozaEx0TGp1TS1QSldRSTQ3cjdRTXZyelBrc3FuUzZrX2xnczItZw?oc=5
+- The Indian workers filming their work to train AI - BBC
+  The Indian workers filming their work to
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNk95ZEY2aXFiY2RkcU5lM2h0R3RaVDdNS3dkZ1BQdkNWcnJUb2RyYWlZWXgteE0tVDVZVGpyTFB4YTNmYWNzckV3ZTU2UWUzXzlaWnRwSE92V2s?oc=5
 
-- The Pentagon is quietly building an elite new tech sabotage agency - Politico
-  The Pentagon is quietly building an elite new tech
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDFwUHJOdm5zcWR4T0tldnpBUnRib0JsT1lEQ2RZbWE2bmhsMUlKampEb3Z0OUdZRHBkSWdpdENrdFIxbkJVVGZ5TUtSUE1LS0dYVE1jdGdSSFpxV1ppdE5keW1BTG1pRldjaWVRUlpXbjNUb3o1U2E0bjZSektIRTQybEtVLW9IUUYxZFJ5MU5YSnpWVjcxenBCTEFETmJVY1NR?oc=5
-
-- PHP: What is it and why did it spark a global cyber security scramble? - BBC
-  CNN.com: What is it and why did it
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1V0VTbm4wQ3BmN1hGMnNiSFRrU3FMTlNGcEV4Nzl4RVgzRk9NNjZIWXVkaWdFVElIZVRQUGdjbWZ6Wk1CUHM5djJJMGxqZVFlVjJqQ2tjUWRoZTg?oc=5
-
-- NDTV World Summit 2026 Highlights: "Trade, Technology, Sea Routes, Being Weaponised Today": PM Modi - NDTV
-  NDTV World Summit 2026 Highlights: "Trade, Technology
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxONFE1VnhMWFlHOV9UNjdRQ0xFNlZ0NEFKaEh5M2ZSd1BLbE5GcjFQN2dkckt2ejhROVViTFhWZW9KWXZrSE12cDdvN3hoZzNTTGdFdFF6akoyVUtQdjk0ZWlVRElUallJTXBKamlTRk5acDFHYXlZWXFBV2lDRzBZYTZlWWFwWE5fWWNCN2ZIdlZaVDdBYk9UVGFDXzlqTEtoTzlqSFR5eTRyVXc1bURULXY3enhBX2NhblJZbU1QeWRQSTFLRUp5eE1hMUh2cHFpVEFrWHlPWdIB3wFBVV95cUxPdmpZQk5XeWNTNFA4MTdIdnJpbnVfUldPUnA1a3J1SER0RmhDRmhCYmgySzhYU3ZQQWYwWHFoVXZPY0pVUnJ1VlpGc1huak9VSHBkSTVsRXFZcjlaQ0hKYnVrMkItcGlxcjd1RFVoZTZBdUNadnJYOUhWME5jUGRWZXJuaV9oV25NM2t3MEhVb3VYOUt3MW91ME9jYTA4YkhXNHRlVG9yTWhBY2RIWWVHUGRNRFZwSTRDZlBQTDQ2dGxabloxWmNlTVpBZ2VSTGsyZDVLSTVKTkN3UzdmdURv?oc=5
+- PM Donald Tusk calls for technological cooperation while addressing the India-Poland Business Forum in Bengaluru - The Hindu
+  PM Donald Tusk calls for technological cooperation while addressing the India-Pol
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdEljRExFMGlsQjllcjRrX0ZvNlp4WW44VXJfcDNTeE1jd2phbXB2N1ZwX2duZEc4ekVVTXFQSmxfTll4OFNnUnRKNDlobUhiZkpYc3BpTkkxWkVLcUQ4aEhXbmdVVi1QZk13a2NPLVpiTDRnR04zRlNva0tKLTZGdDZSaVpkeHN1V2hBUXlBM1RHMXRIbGlkZzZDeXExN2FwUGc3dXNIUkFVNUFhVnFqMGF0MmhIQjVkSDlhLU5QNnZvbEVZQzdYeVYtcDF6RXdaeW1j?oc=5
 
 - ‘If Anything Happens to This Guy … Everyone Is Screwed’ - The Atlantic
   ‘If Anything Happens to This Guy
   🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxONGR0ZG9obWNHcXpYWFItX2Rrck8yMmVRZW1vd2lERlZPYnFiZDk3d0ZsdzJ5dEtCSnd6OWJwbjZfYUNrZ3RqM0NZR29JYTdBdGlnTjI0RDJjUXBXV2oyVy1nT0t4SnNjM0J1MXVaZ21uTklod1FtTmZlMTkxUEh3NS1OR2ktaVpGOUdTTlRIZ19sczRJaEx3TXdnTQ?oc=5
 
-- Visually impaired students of Andhra Loyola College trained in assistive technology - The Hindu
-  Visually impaired students of Andhra Loyola
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMVR6SVJ1YkhqUHNONmtjcjZka1JUOWRKRTZpeF9fMWpxdl9CWlJkU3dxUFVEeUstc2tmOUZkWHRlMXhIRXhXQ05tbUZOSVBMS01jVHgwRkhtNV82TFowYjEzVGZSX2o5Qk5MWWFHLTFvSHBaS1lxOVR2WWlhcTJYTXU0RlBSRk9sZDA1Q2ZhX0lucVpmS1FySTNMUGh5RWgzbVF5aWRNVmVGdXRXQnVaYUQxOHF4WDFZMVJlSXBvVkxiSkJSYzZ4am9BVGtQUXY3UVp0N01MTENuRVFv0gHjAUFVX3lxTE82U0RiMGpUbTFuRnlhTVp1V0dNMHJjN1V4SnJhSENlekVkRmVRT3M3NVBsczFuaktRRGFjTzYzQW9OeXUwZGNkUGhPS1BBVEp4WTdiQk96WUk2ZzlYZG1CQlYyZ0hETWJQN3g3WjFOTzV4RkZLZWpQRGUyQUF1VzZNZjhHWkFrTHk2MUtXeXE4MmVMaDV5T25jdzZha2pzcGJwQ1VpVVJaMm80b1owTzJ0TEthaGhtenJxQnFxWE5wVmp3ZE5kcUJJaDBuU3Rsb1BjS0wwZUtzNEVpdkNic0NoZExr?oc=5
+- 'Trade, Technology, Sea Routes Being Weaponised': PM Modi At NDTV World Summit On Changing Global Order - NDTV
+  'Trade, Technology, Sea Routes Being Weaponised': PM Modi
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaEVMZDF2T0cyZU56aC1qcDZySmJ4WWZHa1FNejhycHU4NTYtVFVHWTAwcWtpLUQwZlJBR1h1SDRaM1ROQ244SmFUckRoelEyYmszd3JieGVLVGM5WVdHRjY0cFFsMjU1SGZmdVZoeWRuUGw3TVVFeklKMHZpX2xEUVBjQm4wVzBmSC11QkJWU0tmemdfdnZjeEpIZEthR0ItdUZBclg1bGVzb1JOYlZTdm0xYUloend3LUFWOUJGbmY4QXBkdUI4ZF94YjVwUC1kMG1pOdIB3AFBVV95cUxPUFQtZEZNT28zZXg0amJyeWVOeUhzakp1MVJzS0ZzWEFtYVZRbUdJNkg4ZnFicGE3OTJpX2psaVc2TGZvUWxFNHFTZkYwd3daeEtWUnhsYTBZSzJKeHFnLXAtTnlidUw4aFNHWTFlZnlWZjROZWlJcnVQZGNNRnNYcHExeDRYRUZXSWRPNDNmQkEwYS15cDFvc2ZMOWNudE94N2p3OW94Z1ZBaHJSM2YyRkhCZUh6TmVyZzB1MWlsM0tDdEtTdjRxSkZrN29xODFtR2VMTjRiV1hDZUJW?oc=5
 
-- OpenAI cuts valuation target by $150 bn to $1.25 tn | Why it has scaled back its funding ambitions ahead of IPO
-  OpenAI has lowered its valuation target by $150 billion to $1.25 trillion. The company has delayed its IPO until next year.
-  🔗 https://www.livemint.com/companies/news/openai-cuts-valuation-target-by-150-bn-to-1-25-tn-why-it-has-scaled-back-its-funding-ambitions-ahead-of-ipo-11792720384756.html
+- Heineken warns UK pubs: Weight-loss drugs could hit beer sales
+  Heineken has warned British pubs and bars that weight-loss drugs such as Ozempic and Wegovy may reduce drinking and threaten beer sales.
+  🔗 https://www.livemint.com/companies/news/heineken-warns-uk-pubs-weight-loss-drugs-could-hit-beer-sales-11792745387965.html
 
-- Multiples gears up for a billion-dollar fundraise next year
-  Renuka Ramnath-led Multiples is eyeing its largest fund yet, targeting $1-1.2 billion next year. Having deployed more than half of its previous fund, the
-  🔗 https://www.livemint.com/companies/news/multiples-fundraise-private-equity-new-fund-in-2027-11792660992665.html
+- Eternal pushes ahead as Swiggy charts a different course in a tough market
+  Eternal is scaling Blinkit at speed as Swiggy prioritizes Instamart’s
+  🔗 https://www.livemint.com/companies/news/eternal-swiggy-blinkit-instamart-course-tough-market-quick-commerce-food-delivery-11792736732684.html
 
-- TA Associates-backed OmniActive explores $200-300 million IPO at $1 bn valuation
-  OmniActive's IPO plan follows several unsuccessful attempts to raise private capital. If the IPO goes as planned, it would make OmniActive the first pure-play nutraceutical
-  🔗 https://www.livemint.com/companies/ta-associates-backed-omniactive-explores-200-300-million-ipo-at-1-bn-valuation-11792676392979.html
+- Meet Praneeta Pujari: From Apple Watch lead to AI healthcare — how IIT alumna built startup in US despite visa hurdles
+  Praneeta Pujari worked as Apple Watch Lead at the company. He was also the iPhone lead there between 2022 and
+  🔗 https://www.livemint.com/companies/news/meet-praneet-pujari-from-apple-watch-lead-to-ai-healthcare-how-iit-alumni-build-startup-in-us-despite-visa-hurdles-11792718114818.html
 
-- Three Iveco investors stand to gain €63 million as Tata Motors races to secure buyout
-  At Tata’s revised offer price of €14.40 per share, the three investors could make a combined gain of about €63 million.
-  🔗 https://www.livemint.com/companies/tata-motors-iveco-acquisition-deal-status-shareholders-approval-11792650839298.html
+- Polymarket blocked in India: What the prediction market does, why it was banned and what went wrong
+  X has withheld Polymarket’s official account in India following
+  🔗 https://www.livemint.com/companies/news/polymarket-blocked-in-india-what-the-prediction-market-does-why-it-was-banned-and-what-went-wrong-11792725722366.html
 
-- Boardroom friction drives listed companies to law firms for governance advice
-  Companies are increasingly turning to law firms for strategic advice on independent director dissent and board processes.
-  🔗 https://www.livemint.com/companies/news/companies-consulting-law-firms-boardroom-governance-disputes-11792637621055.html
+- Mark Zuckerberg’s Meta deal explained: What he wanted, what the board opposed and what changed
+  Mark Zuckerberg and Meta’s board reached a compromise after months of negotiations over voting
+  🔗 https://www.livemint.com/companies/news/mark-zuckerberg-s-meta-deal-explained-what-he-wanted-what-the-board-opposed-and-what-changed-11792726353797.html
 
-- AI Tech Fears Push Global Credit Spreads to 17-Month High
-  Global bond markets signaling biggest risk-off sentiment in more than a year. Selloff in AI stocks and growing geopolitical tensions caused investors to seek
-  🔗 https://www.livemint.com/market/ai-tech-fears-push-global-credit-spreads-to-17-month-high-11792723317299.html
+- Himadri Speciality Chemical share price: Why did this multibagger stock suffer its biggest weekly fall since 2008?
+  Himadri Speciality Chemicals fell 6% on October 23, extending its losing streak to six sessions. Q2 revenue rose 44.
+  🔗 https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-share-price-why-did-this-multibagger-stock-suffer-its-biggest-weekly-fall-since-2008-11792750458242.html
 
-- Infosys Q2 results, dividend 2026 amount, record date announcement today: Time, preview; buy, sell, hold amid earnings?
-  Infosys’ board of directors is scheduled to meet from Thursday, October 22, to Friday, October 23, to review the company�
-  🔗 https://www.livemint.com/market/stock-market-news/infosys-q2-results-dividend-2026-amount-record-date-announcement-today-time-preview-buy-sell-hold-amid-earnings-11792721404616.html
+- Swiggy vs Eternal shares compared: Which is better stock to buy post Q2 results? Jefferies India explains | Target price
+  The Jefferies India report has predicted the Swiggy share price target of 
+  🔗 https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-shares-compared-which-is-better-stock-to-buy-post-q2-results-jefferies-india-explains-target-price-11792745304355.html
 
-- 'AI-trade' bust will aid India only partially; don’t tweak LTCG, says Madhavi Arora of Emkay Global
-  A reduction in STT would lower friction, improve market liquidity and send a useful signal to global investors, says Arora.
-  🔗 https://www.livemint.com/market/mark-to-market/ai-trade-india-ltcg-stt-foreign-funds-growth-china-forex-liquidity-fta-11792668124017.html
+- Top telecom shares to buy: Bharti Airtel, Vodafone Idea, Indus Towers by Ambit Capital with new stock target price
+  Ambit Capital expects telecom stocks to benefit from tariff hikes, rising data use and digital infrastructure growth. It named Bharti Airtel its top pick and maintained BUY ratings.
+  🔗 https://www.livemint.com/market/stock-market-news/top-telecom-shares-to-buy-bharti-airtel-vodafone-idea-indus-towers-by-ambit-capital-with-new-stock-target-price-11792743892509.html
 
-- Indian shares seen opening higher after 3-session drop; oil surge clouds outlook
-  Both the Nifty and Sensex indexes are down about 2% so far this week. Sentiment dampened by a rise in Brent crude oil futures to $113.5 a barrel.
-  🔗 https://www.livemint.com/market/indian-shares-seen-opening-higher-after-3-session-drop-oil-surge-clouds-outlook-11792722512784.html
+- Ather Energy, TVS Motor, Bajaj Auto, Tata Motors PV shares: Can Delhi’s pollution curbs change game for auto-EV stocks?
+  Delhi’s tighter pollution curbs from November 1 may encourage replacement of older vehicles. Experts say the near-term impact on EV stocks is likely to be sentiment-driven.
+  🔗 https://www.livemint.com/market/stock-market-news/ather-tvs-motor-bajaj-auto-tmpv-can-delhi-s-pollution-curbs-be-a-game-changer-for-auto-ev-stocks-experts-weigh-in-11792745756272.html
 
-- Top stocks to watch today: Infosys, Tata Motors, Swiggy, Cyient shares in focus on Friday, 23 Oct | Full list
-  Infosys, Adani Power, Tata Motors, Swiggy, Cyient, Ad
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html
+- Already jumped 55% in 2026, PL Capital sees more returns in Sai Lifesciences shares | Check target, upside
+  PL Capital believes the company is well positioned to benefit from increasing pharmaceutical outsourcing, a
+  🔗 https://www.livemint.com/market/stock-market-news/already-jumped-55-in-2026-pl-capital-sees-more-returns-in-sai-lifesciences-shares-check-target-upside-11792742770583.html
 
-- What to know about the AI-detected security bug impacting wide swaths of the internet
-   AI-detected security bug impacting wide sw
-  🔗 https://www.livemint.com/technology/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet-11792702139835.html
+- Vivo Y600 with Guinness record-holding 10,000mAh battery to launch next week: Check date, design and expected specs
+  The Vivo Y600 5G will launch in China on October 30. The smartphone reportedly achieved a Guinness World Records title after completing a continuous livestream test lasting 32 hours and 37 minutes.
+  🔗 https://www.livemint.com/technology/vivo-y600-with-guinness-record-holding-10-000mah-battery-to-launch-next-week-check-date-design-and-expected-specs-11792746104479.html
 
-- US banks are blocking third-party AI agents access to customer accounts, sources say
-  US banks are blocking third-party AI
-  🔗 https://www.livemint.com/technology/us-banks-are-blocking-third-party-ai-agents-access-to-customer-accounts-sources-say-11792698143645.html
+- Oppo Find X10 and X10 Pro Max launched in India: Triple 200MP cameras, 8,000 mAh battery, check price
+  Oppo has launched the Find X10 and find X10 Pro Max in India. The phones feature up to three
+  🔗 https://www.livemint.com/technology/gadgets/oppo-find-x10-and-x10-pro-max-launched-in-india-triple-200mp-cameras-8-000-mah-battery-check-price-11792742409318.html
 
-- Samsung brings 14 refurbished Galaxy S24, S25 smartphones to Amazon in US, prices start at $489
-  Samsung has expanded its Certified Re-Newed programme to Amazon.com. 14 refurbished Galaxy S24 and S25 models starting at $489.
-  🔗 https://www.livemint.com/technology/tech-news/samsung-brings-14-refurbished-galaxy-s24-s25-smartphones-to-amazon-in-us-prices-start-at-489-11792690552233.html
+- Polish PM Donald Tusk seeks deeper technology cooperation with India across AI, digital and space sectors
+  Polish Prime Minister Donald Tusk has called for stronger technology partnerships between India and Poland. Tusk highlighted opportunities for companies from both countries across sectors
+  🔗 https://www.livemint.com/technology/polish-pm-donald-tusk-seeks-deeper-technology-cooperation-with-india-across-ai-digital-and-space-sectors-11792741007680.html
 
-- WhatsApp, Telegram SIM binding rules from January 1, 2027: Who will be affected in India?
-   WhatsApp, Telegram and other messaging apps may have to remain linked to registered, active SIM cards under India's new SIM-binding rules. The DoT has set December 31, 2026, as the compliance deadline.
-  🔗 https://www.livemint.com/technology/apps/whatsapp-telegram-sim-binding-rules-from-january-1-2027-who-will-be-affected-in-india-11792669130256.html
+- iPhone Duo shortage in India: Why buyers are paying up to  ₹1 lakh extra for Apple's foldable
+  Apple's first foldable, the iPhone Duo, is in short supply in India. Retailers say they received only a handful of units, and Apple’s websites show 2027 delivery dates.
+  🔗 https://www.livemint.com/technology/tech-news/iphone-duo-shortage-in-india-why-buyers-are-paying-up-to-1-lakh-extra-for-apples-foldable-11792734988542.html
 
-- Little-known eMudhra set the internet on red alert. What really happened?
-   eMudhra is India’s only certificate issuer trusted by browsers worldwide. A researcher found weak security keys in its website certificates.
-  🔗 https://www.livemint.com/technology/littleknown-emudhra-set-the-internet-on-red-alert-what-really-happened-11792658421848.html
+- Quantum computing could generate up to USD 2.7 trillion in economic value by 2035: McKinsey
+  Quantum computing could generate between USD 1.3 trillion and USD 2.7 trillion in economic value worldwide by 2035. Businesses need to invest in talent, technology and partnerships now
+  🔗 https://www.livemint.com/technology/quantum-computing-could-generate-up-to-usd-2-7-trillion-in-economic-value-by-2035-mckinsey-11792734603979.html
 
-- Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off: Live updates - CNBC
-  Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5ROG52YzhPZGZHbTVQQjVmSGxSeHJoRlA0UW90MkdwNFR0ZThOQzFhSDBhMUFmNWpxSGo1RG9nU2FOZ1VTUGN2VjNieDNOT0M4bDB0Qlg5NVkwMHV3cy00VGxhQTNqQzg3a3FwUFB4Vy1lR3BlM1dV0gF8QVVfeXFMTjlVakFKZGpLV0RGRVNiaGUxMWdVcHJtSGlWdXNtYkJqUmhXbHM5S3dLcFgzdTZMRGx0OG9LZE40eTVsaDZ5WWRKTGZSMVN5OWptaXk4Qk5EZGNJTmZYdzBVUVRER3NVOW4xWllXa2k0RXFGWmhTcEw5QTZ2Ug?oc=5
+- Tech Rout Eases With Oil Strength Capping Relief: Markets Wrap - Bloomberg.com
+  Tech Rout Eases With Oil Strength Capping Relief: Markets Wrap. Stock futures trade lower after tech sector sell-off.
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGVVVVZBVjRRcTNYSXJlNS0tV0E5MkEwOVlGcTh3anZ1eC16ZEdSYmp5ODRIcUo1T3BkU01vNkpTTmJxOUFELVFUUG9SS0o2SDNSWHQ5bE9PVGp3a29vLUROenZwc2FBTnhMQ3VOR1B4SVJiZjFvaDV6TjMwUlg3dUlQcmlkdUJXZU5PbXE2YWtrZXN1?oc=5
 
-- China's Stock Market Crashes 20%: 3 Reasons Why The Dragon Is Losing Its Fire - NDTV
-  China's Stock Market Crashes 20%: 3 Reasons Why The
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPczRyQ2FCR3VXakdKSnd1VlpWcFlrS293TTBrZnNwc0I4RHNMOGY3elVkNVprbG5oMlI1VUJieTlmakFYN3pqS3cwcDN5WXlhc0U3QkdwU3hBbVNCeE5uYk56WGtyenYtODFqZkNvNzlKNW1hcWxJaTNtdzlJTjJOTlVfc3p2c0VuRmxzOGtSc2dUcE0xWmM5NlcybF9oY2hEdEE4bDNCcGlxTGxoREhtaUxB0gG6AUFVX3lxTFB2ZUg0ZkIzaWJfXzlNQl9LREVHS3pZVVJZcjFGUGVycU02VGlWRW52LVhrcnp3RFU4dEs2WlpkeHpjdHRuQVQzY3NvM2VXSEJYVlVucWZSQU9Ydy1rQjBSUG9PRS0tUU90VGFkcldUbk5uLU8yaXRLZVRmd3haR042OXJ2SWdINDJqOV9FRGs0UHlGa0g5OGFiekxldEc5VERXZFg2N1I1dEltRDZoc2FPVjVFYXI2MjlxZw?oc=5
+- AI compute is the new oil—and needs a new market - The Economist
+  AI compute is the new oil—and needs
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUhHRFFrMnJhNlZkUFZSYjFieG9taHRHcTJITmlldHBrZTROSXNWRmhidVVUbFZsU1lncXk4c29aMVZMM3JSc3RHeDdaejFaQ2JnMlJnYlZab3MzT3NDMktsc1JmN0NJU0ZGMVEtOW13RmZ5c2lMQmJNVFZpckIyanFiQXh6cTZZYzJOSF9SSDRYTlZnQngtbFNsYzhTTk4zeDQ5T3BUZ19NUFk?oc=5
 
-- China Stocks Sink Deeper Into Bear Market Despite State Buying - Bloomberg.com
-  China Stocks Sink Deeper Into
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEFjLUxEQldPYm14ODFIaFJxcEtYaTVPMXJVMW5OUG03T3k1SFpEYmJQV2RKOHRnRXdEWV9uMkFBU2I2N1hlT3BtY3E5ME9JWUt2N2IwU1pJSFdTSUhrNEpUZGRCYXFDS1JJZ05vMm02aGVNRjN5VnN3TjIwX2lFUnZFaWd1Q0ktS2xiX295ZUwwb2QtN2VaVTJ3UzlkSnZKaUZXSVBQQVFQckZTYkF3RjN2RQ?oc=5
+- Sensex crashes 1,250 pts from day's high, Nifty below 22,400: Key reasons behind market decline - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR250SWE3RDBETXh2Unp3ZENZa1ZNX1k3QnVlaUk4cERpOVl1Zm5XT25FNVAtZnJXc1YwSnQxY3VIUjdRckM2Wm1DZjhUMXpIVW96eXdIb2IybkxlOGNETDFvR0xVYjZuaz
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR250SWE3RDBETXh2Unp3ZENZa1ZNX1k3QnVlaUk4cERpOVl1Zm5XT25FNVAtZnJXc1YwSnQxY3VIUjdRckM2Wm1DZjhUMXpIVW96eXdIb2IybkxlOGNETDFvR0xVYjZuazlaNkcwNWhSMzU1b2pqUnZwVHlPYUtULVphbmh0VUhSNjFSOGNCY0RiVGM3MEdibzZLa05FQUNCc2ZkRi1FY1F1dDR5MHZnSVBWamVQSzlvaTNxNVpmLW9hbUtqRFN2QzhGX3BLOGc0Qldqdlp5c01PMkVLOUZxdVRrTVZrOXd1OVHSAe8BQVVfeXFMTmpwTlpEb25yZXVFWHRXUzhuQ2RDYVVTX08xSWZSVGFTMHlTU2F2SDVJTkN5ZU9hWWdIb0tsUEdtdzE2M1kxcTRxTWt1ZDdRdVNSS0t0bWlFWTlkSXh2Vk9wQUstRldGT0JDbGNkX3Vab1FZQVZkcWtqNmM5QUZiRS1qOFNsR0pHRmdRUkNhY195TFBMN21HNEl5OTA3aVhVYkdHWXgyMmppN0JlY3dDRVRkZ1dMeWpReHZmaWJCc3ROMHFJWEY2dE0tSU83TXFXdEpvRm1leVBLVzhmQXlHMEhNZUFJQlZmR0xDOXp4V0U?oc=5
 
-- China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC
-  China's stock market sinks into bear territory as CSI 300
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5
+- Macklem Ensnared by Market Pricing and Will Hike, Economists Say - Bloomberg.com
+  Macklem Ensnared by Market
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQS0hfbXhuTjNqVUdoRU5FNmxNQ1p0ems0WDAwbWk5TksxY3NUcElZUDNSbjJmY0hpR1ZkNzNFZnU3T01iQlBEb01ob2F0b3NpYWw5R010dzA0STlUbGxRRjFCYzlwbE1zdk1lMk1iVXRBby1pdXduSFZrRzRZT0FFVjQ0SEVHVGlNT1pCMzViX0RpbW4zQ1dndk5DbHViNXhCYlhNdmVGVWhMeVljdmhfcER4Njk?oc=5
 
-- Stocks to Watch Today: Swiggy, Cyient, Nuvoco Vistas, Bluestone Jewellery, CreditAccess, NLC, Zetwerk,... - Moneycontrol.com
-  Stocks to Watch Today: Swiggy, Cy
-  🔗 https://news.google.com/rss/articles/CBMixAJBVV95cUxNVTZ6MkJRSHd4WThsM3ljVlZVNE82VzJBamtmbm9xVlhfeFpCRk1yQU1yejBvQmpDMXVpRlZjUWJaTGk1TVFPbUJiaHYzMmFBcHFOcmRkQnJZSV9CLVpsUGVtclFvd0pXTm5XMFFDTlptdjFWY3BOYnZsT3pHd1o3Tl9PLS1GMnRXeExKbklEQzlzSWRKXzdUT3dXTmprbGJnTFVTUlA2dko3M2ptYXZMTk0tUkVzMk8ycXBQX2psQ0lpN1ZJd0tWOHZkSlZTeG9wMHlXUWFjRm41N01fb2tOV0xscl9zUW8zbERjenFpSE9HSm81MDhYeDdrSUZYZUNyU0ZZVGZLbHZOVzk4Q0xuSC1rUXhiX3lPVGVnN1FyNm1FZi1scERuc0k2alpKS2JzTHV6clJHeGZCaWhIYzd3ME1iMG_SAcoCQVVfeXFMTWs4N3ZseGpGRDJSV2NzMUVkcWFEMUpqazBWWDZaN3BYYk5NV3E1cGMyQ3RfQlhjbkFtbEJGa21hREl3Z0I2czcxVmswMGZTVzBNZU13bE1scEY1aUl3ODJDdGVQRnhWNG5ESmxQS2ljUWdiQzl6bU5iVDRyMC1rZEFNZFFPZ3VGNExDUzZFckdIeFM2THdKQVVvRGRLeUQ3VkF4ZVN5alQzRkpENmpjODVVTVd6Tm5CZzZ6c25qTTFiWk81NGpQU3NPbXFOVUI1bVpkQVVfOFVTbHY4ZHJEMGVMQUZlU3FCSDVHR3pndlJnclg4cERVZXF6SnpZZ05HMzBycVNBaEtYaFJza1hXS0ZXSllxMnZBMGR4YUFYLTI4T2hkVUJwOGhXYXRtSXo1LXlsa3ZXWjNTdEVjWC1lbEk5NmxMQmRzcHJ3?oc=5
+- US Election Angst Looms for Stocks and the AI Boom - Bloomberg.com
+  US Election Angst Looms for St
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxObXNXc2hhX3pPVlQ0U2hka1FMZGdwUHNxY0dGdThNNHZOTGdBMDJDY0R2a3o5UnMwZGRtbW94S1hJTUVqcTlKZWdwTTluNTNPVnJCVU1KTmJtM1JJWEVSVUtzSVhjemYtejcteVNwTi1lazNNSGtuV1NTdGVlTElqME5qNUJsUWI5Y2U2azk4UW1hcWR1cmRBNkh3VWZOMjFua2doV3hUMA?oc=5
 
-- Yen shines as AI jitters spur safe-haven rush
-  The Japanese yen reached its strongest level in over a month. Concerns about the sustainability of the AI spending boom affected currency markets. Brent crude futures rose above $114 per barrel following geopolitical tensions.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-shines-as-ai-jitters-spur-safe-haven-rush/articleshow/135131944.cms
+- Rupee little changed this week as oil-fueled declines wipe out early gains
+  The Indian rupee experienced a decline for the second day in a row. Brent crude prices have surged to a five-month peak. This led to a pullback from technology stocks.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains/articleshow/135142602.cms
 
-- Gold heads for sharpest weekly decline in four months on Fed rate outlook
-  Spot gold prices sank to their lowest since August. US gold futures mirrored the drop. Positive employment figures showed a decrease in unemployment claims.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-sharpest-weekly-decline-in-four-months-on-fed-rate-outlook/articleshow/135131910.cms
+- Global Market: Eurozone bond markets stabilise after volatile week
+  Eurozone government bonds stabilised after a volatile week. Investors balanced sovereign debt concerns against safe-haven demand. French borrowing costs remain under pressure ahead of key central bank
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-markets-stabilise-after-volatile-week/articleshow/135142036.cms
 
-- Zetwerk Manufacturing Business shares to list today: Check GMP ahead of debut
-  The Rs 5,012.33 crore IPO comprises a fresh issue of shares worth Rs 2,830 crore and an offer for sale (OFS) of 14.45 crore shares. While the proceeds from the fresh issue will go
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131780.cms
+- JSW Steel Q2 Results: Net profit rockets 225% YoY to Rs 5,279 crore; revenue rises 21%
+  JSW Steel reported a 225% year-on-year jump in Q2 FY27 net profit to Rs 5,279 crore. Revenue rose 21% to Rs 54,486 crore, with crude steel production and steel sales hitting record
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q2-results-net-profit-rockets-225-yoy-to-rs-5279-crore-revenue-rises-21/articleshow/135141641.cms
 
-- Bonfiglioli Transmissions shares to list today: Check GMP ahead of debut
-  The Rs 2,533.66 crore IPO comprised an offer for sale (OFS) of 4.32 crore shares. As the offering was entirely an OFS, the company will not receive any proceeds from the IPO
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonfiglioli-transmissions-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131771.cms
+- Adani Power Q2 Results: Profit zooms 134% YoY to Rs 6,919 crore; revenue jumps 45%
+  Adani Power has reported an impressive consolidated net profit of Rs 6,919 crore for the second quarter of FY27. Their operational revenue surged to Rs 19,439 crore, representing a 45% growth from the previous year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q2-results-cons-profit-zooms-134-yoy-to-rs-6919-crore-revenue-jumps-45/articleshow/135141294.cms
 
-- Dragon enters bear cave with $2.4 trillion lost since May peak
-  Chinese stocks have recently entered a bear market, resulting in a total loss of $2.4 trillion. Analysts suggest the market malaise may continue into next year without substantial policy changes.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dragon-enters-bear-cave-with-2-4-trillion-lost-since-may-peak/articleshow/135131775.cms
+- Global Market: European stocks edge lower as Kering slumps, oil prices rise
+  The STOXX 600 fell 0.13%, extending losses amid AI stock volatility and debt concerns. Holcim gained 5.2% after raising its earnings forecast, offering limited support to markets.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-lower-as-kering-slumps-oil-prices-rise/articleshow/135141363.cms
 
-- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
-  CJP protest: India 'cockroach' leaders who called on election
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+- Ola Electric Slides Over 7% After Bearish Call From Goldman Sachs
+  Shares of electric two-wheeler maker Ola Electric crashed as much as 7.6% to hit an intraday low about ₹
+  🔗 https://inc42.com/buzz/ola-electric-slides-over-7-after-bearish-call-from-goldman-sachs/
 
-- Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
-  Petrol, Diesel Now Cheaper In India
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
+- CoinDCX Admits Losses From Old Wallet Deposits, Denies Breach Of Active Wallets
+  Crypto exchange CoinDCX has acknowledged operational losses after a process meant to secure deposits sent to old, compromised wallet addresses.
+  🔗 https://inc42.com/buzz/coindcx-admits-losses-from-old-wallet-deposits-denies-breach-of-active-wallets/
 
-- How India thwarted Pakistan’s bid to steal crucial defence data - The Hindu
-  How India thwarted Pakistan’s bid to
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVk93UmdGTXNVaW5aajBjWFljYXBZUmk2aHZLQjRPcHdXc3hDOGRSMUYxMnVmNFctbG9WdFY2T292T09nSU0yalQwWFdIREZLNDhWQnE4WlNuMjJyNXdmampYbnZKbXdVdGhTcElXZDg1ZjZfMHZwdGk4YXBkRnJyR2Flb3U5ZXBFT2hWTGdFeUpIVHVGaVR1ZXFSaHBCS29HU3BYQi1qUnhHTjJpM3FTWHVmT0lJNWhnV00zdmdBTzkxVVpMVHdnemRlR3RoZnZHQlHSAdgBQVVfeXFMUFIwSmJxbDU3bWJWdENUYmJ4T1c4WHJzU19wTUJMWHpGSUZMREFmY1dZNWhmWlRLRVV2Z2lDbEtwT2NlMWdLNDRJUFpiNllnSEgwcEw2MjlyWFpFaGNINU42c2d3VnAwel94dDQ1aG53NzN6b3hieTAzMEszUFlkdzFCLXc0cWNSM2lPaFV4cE9DU0FXODN0ZHJZTVpZRU9nQ1dIeEVrZVF1LXdZUHRtRWtFTmxYM2ExV0ZaWDloNnBMR29JMFY2ZzlVZHVmRmZOc1lFaHljWk5a?oc=5
+- Jio Platforms IPO Booked 6.76X On Day 3 So Far, QIB Portion Subscribed 14.18X
+  Reliance Industries’ digital services arm Jio Platforms’ IPO was subscribed 6.76X as of 11:48 IST on the third and final
+  🔗 https://inc42.com/buzz/jio-platforms-ipo-booked-6-76x-on-day-3-so-far-qib-portion-subscribed-14-18x/
 
-- RTI reveals Cabinet Secretariat sent election commissioners’ letters to CEC Gyanesh Kumar | India News - Hindustan Times
-  Cabinet Secretariat sent election commissioners’ letters to CEC
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjN0NVcxYkxvTTBOZzh6d2gwXzNuTkM3ZHRDbWdDODFQWmladEVZc0lIdjNkbjRxbHp0MGY5cG5KeFhLRks4NzRXOEhYdTBZRTByelhtOGcyUnFoWE9jLUFtSWtUdGMwMUppSmxWaHRqMnV1c0pnX0pPb0FHMTFPNjRndjlrNHlMRUUzNEo1bUsyVlA0ZHlQajg1ZU5UdkcwcTlXa2Jpd0VwbGRTUkdZcWtYcTVzakw2bi1LbnhHbmcyU1ozc1FxemN5cW42bGozOVRFSVBKZVNiNm9SWWZFYkxnOTlOd9IB6wFBVV95cUxQMUM2cXFYS2pUWWtYSmNVNW1yWGp3ZnZReXlFSHQ1dl9KUHlSYVpJUEpMek9vaXhWYm9pbzlTVERhVTROTWZFMGJ3MjY1b19salhjeFZpSk95MmFTSE5Ic2twMGdXQ3FxV0F0MVk1R2lsOEd4em1zNWNhY0FoQWRwREJrNzJiNmtIeEtrY19McGlVTjFZMEY1cWhTVDdWM19uLTZSRHBQZEY2YjdxVnBGcHhNbjktWXZMYUczeG1aQUpuSnRqazNscXhLWVpLTXhFRFVEZ1NQVG5rN0lXSkJmQ29JMUMxRmdHQ1FR?oc=5
+- From Three Products To 450 SKUs: How R for Rabbit Built A ₹250 Cr Baby Care Brand Around Parents’ Concerns
+  India’s baby care market is growing, and so is the challenge of finding products parents can genuinely trust. When it&#8230;;
+  🔗 https://inc42.com/startups/from-three-products-to-450-skus-how-r-for-rabbit-built-a-%e2%82%b9250-cr-baby-care-brand-around-parents-concerns/
 
-- Breaking News Live Updates: Bihar MLC polls begin for 8 seats amid tight security, 150 candidates in fray - The Times of India
-  The Times of India reports that Bihar MLC polls begin for 8 seats.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHFCVnlqazFpMHNUdnRkVDVZeUhRdWFmYk1xbzFjUDFXZDZYbmd0Nm9ndWRWRVJsak5rc3lkeXBITlRYMG5jdUFLRUxpVlJPdE1UbjBYT0FncWxNaVA3SVBsVm1XczRHNU9sOVRyTWZFNGlRUGVURWdvMEpNZFBsWnQyWGRVZE5hOTlhaXBfSDFPdDQwQmNJTUVJYV9nN3dWMXdXRUhsMHFsV21McmFYadIBtgFBVV95cUxPNTZMcHBSQzRCNy03emJ4cU10YnRKcFpUX0Y0VjJjR3VhaVRSTGpGd0xnVWlWVlJaR281RWszUUM0ak8wYV9FdFQwSFZVcDd4Q2xMc2ZkZHdlazJhdTdHcDNXQ2VyamI2M01mM0JaQ3kwVjNTZ1A1Snk2aXRLeWZxTnJFOVF6M3oybHdTQlUzLXozaEx0TGp1TS1QSldRSTQ3cjdRTXZyelBrc3FuUzZrX2xnczItZw?oc=5
+- Swiggy Shares Plunge 17% To 52-Week Low After Q2, Brokerages Cut Price Targets
+  Foodtech major Swiggy’s shares plunged as much as 17.23% to a 52-week low of ₹
+  🔗 https://inc42.com/buzz/swiggy-shares-plunge-17-to-52-week-low-after-q2-brokerages-cut-price-targets/
 
-- eMudhra To Exit Certificate Business As Security Flaw Triggers Distrust
-  Bengaluru-based cybersecurity company eMudhra, which recently found itself at the centre of a security key issue, has announced plans to improve its security.
-  🔗 https://inc42.com/features/emudhra-to-exit-certificate-business-as-security-flaw-triggers-distrust/
+- Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
+  Marco Rubio: Did domestic pressure make US secretary of state visit an
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
 
-- Swiggy To Begin Instamart Inventory Model Transition, Eyes Pivot Within Three Quarters
-  Over two months after attaining the IOCC (Indian-Owned and Controlled Company) tag, Swiggy announced that it will shortly commence transitioning.
-  🔗 https://inc42.com/buzz/swiggy-to-begin-instamart-inventory-model-transition-eyes-pivot-within-three-quarters/
+- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
+  'US' Pakistan Ties Will Never Come At India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
 
-- [Update] Jio Platforms IPO Ends Day 2 With 5.57X Subscription, QIBs Lead Demand
-  Jio Platforms’ ₹30,213 Cr IPO ended the second day of bidding with 5.57X subscription.
-  🔗 https://inc42.com/buzz/jio-platforms-ipo-subscribed-3-65x-on-day-2-so-far-retail-portion-fully-booked/
-
-- BlueStone Slips Into ₹4.4 Cr Loss In Q2, Revenue Jumps 45% YoY
-  Omnichannel jewellery retailer BlueStone slipped into the red in the second quarter of FY27, reporting a consolidated net loss of&#8230;.
-  🔗 https://inc42.com/buzz/bluestone-slips-into-%e2%82%b94-4-cr-loss-in-q2-revenue-jumps-45-yoy/
-
-- Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets ₹440 Cr
-  Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets ₹440 Cr.
-  🔗 https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/
-
-- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
-  CJP protest: India 'cockroach' leaders who called on election
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+- India news: India-US trade deal 'pretty close,' says Trump - DW.com
+  India news: India-US trade
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEY0SkRUOWg3NTVURVZFSGM2NEd5T2xtczhhUHpQMlBrVXZGSkZGTFFCcEJ4eW5sSzNidnJSWjg0MjM4NmVfNUpGdUYyMmxiS2xaX3c3YXppZ0hYMEZHWlhwR3lVZk1CbllSU1JKSlVDS3FzTmRuUUtkc0NWWFBPSEtNYTVUUm8wSV9reUI5NE9PVlI3?oc=5
 
 - Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
   Petrol, Diesel Now Cheaper In India
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- How India thwarted Pakistan’s bid to steal crucial defence data - The Hindu
-  How India thwarted Pakistan’s bid to
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVk93UmdGTXNVaW5aajBjWFljYXBZUmk2aHZLQjRPcHdXc3hDOGRSMUYxMnVmNFctbG9WdFY2T292T09nSU0yalQwWFdIREZLNDhWQnE4WlNuMjJyNXdmampYbnZKbXdVdGhTcElXZDg1ZjZfMHZwdGk4YXBkRnJyR2Flb3U5ZXBFT2hWTGdFeUpIVHVGaVR1ZXFSaHBCS29HU3BYQi1qUnhHTjJpM3FTWHVmT0lJNWhnV00zdmdBTzkxVVpMVHdnemRlR3RoZnZHQlHSAdgBQVVfeXFMUFIwSmJxbDU3bWJWdENUYmJ4T1c4WHJzU19wTUJMWHpGSUZMREFmY1dZNWhmWlRLRVV2Z2lDbEtwT2NlMWdLNDRJUFpiNllnSEgwcEw2MjlyWFpFaGNINU42c2d3VnAwel94dDQ1aG53NzN6b3hieTAzMEszUFlkdzFCLXc0cWNSM2lPaFV4cE9DU0FXODN0ZHJZTVpZRU9nQ1dIeEVrZVF1LXdZUHRtRWtFTmxYM2ExV0ZaWDloNnBMR29JMFY2ZzlVZHVmRmZOc1lFaHljWk5a?oc=5
+- India must improve rice quality and strengthen its position in global markets, says Chirag Paswan - News On AIR
+  India must improve rice quality and strengthen its position in global markets, says Ch
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmhybmpKVllSMVVmQV96aUpvZHpNWV9lUFJFbGhhYTJuNXhMSWVYS20tZ0ZSdmpFVmxkRURsZlhyYk5mbzA5a0hjaGNUUDNTcGtFNVBjN1ZYaDhfWlRFMUZYQjR4NHRpQzZ2NFRSRWdPaEVLb1FnMTFEMGs2Y2JQNGE5dUMxZ2piQTUtR2RHelJnbEtxRFkxZHpBejAxME03SkdiUEF5aWlTMnEwT05idk1LYzBtTlYwVzJOd1NvYw?oc=5
 
-- RTI reveals Cabinet Secretariat sent election commissioners’ letters to CEC Gyanesh Kumar | India News - Hindustan Times
-  Cabinet Secretariat sent election commissioners’ letters to CEC
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjN0NVcxYkxvTTBOZzh6d2gwXzNuTkM3ZHRDbWdDODFQWmladEVZc0lIdjNkbjRxbHp0MGY5cG5KeFhLRks4NzRXOEhYdTBZRTByelhtOGcyUnFoWE9jLUFtSWtUdGMwMUppSmxWaHRqMnV1c0pnX0pPb0FHMTFPNjRndjlrNHlMRUUzNEo1bUsyVlA0ZHlQajg1ZU5UdkcwcTlXa2Jpd0VwbGRTUkdZcWtYcTVzakw2bi1LbnhHbmcyU1ozc1FxemN5cW42bGozOVRFSVBKZVNiNm9SWWZFYkxnOTlOd9IB6wFBVV95cUxQMUM2cXFYS2pUWWtYSmNVNW1yWGp3ZnZReXlFSHQ1dl9KUHlSYVpJUEpMek9vaXhWYm9pbzlTVERhVTROTWZFMGJ3MjY1b19salhjeFZpSk95MmFTSE5Ic2twMGdXQ3FxV0F0MVk1R2lsOEd4em1zNWNhY0FoQWRwREJrNzJiNmtIeEtrY19McGlVTjFZMEY1cWhTVDdWM19uLTZSRHBQZEY2YjdxVnBGcHhNbjktWXZMYUczeG1aQUpuSnRqazNscXhLWVpLTXhFRFVEZ1NQVG5rN0lXSkJmQ29JMUMxRmdHQ1FR?oc=5
+- Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
+  Marco Rubio: Did domestic pressure make US secretary of state visit an
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
 
-- Breaking News Live Updates: Bihar MLC polls begin for 8 seats amid tight security, 150 candidates in fray - The Times of India
-  The Times of India reports that Bihar MLC polls begin for 8 seats.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHFCVnlqazFpMHNUdnRkVDVZeUhRdWFmYk1xbzFjUDFXZDZYbmd0Nm9ndWRWRVJsak5rc3lkeXBITlRYMG5jdUFLRUxpVlJPdE1UbjBYT0FncWxNaVA3SVBsVm1XczRHNU9sOVRyTWZFNGlRUGVURWdvMEpNZFBsWnQyWGRVZE5hOTlhaXBfSDFPdDQwQmNJTUVJYV9nN3dWMXdXRUhsMHFsV21McmFYadIBtgFBVV95cUxPNTZMcHBSQzRCNy03emJ4cU10YnRKcFpUX0Y0VjJjR3VhaVRSTGpGd0xnVWlWVlJaR281RWszUUM0ak8wYV9FdFQwSFZVcDd4Q2xMc2ZkZHdlazJhdTdHcDNXQ2VyamI2M01mM0JaQ3kwVjNTZ1A1Snk2aXRLeWZxTnJFOVF6M3oybHdTQlUzLXozaEx0TGp1TS1QSldRSTQ3cjdRTXZyelBrc3FuUzZrX2xnczItZw?oc=5
+- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
+  'US' Pakistan Ties Will Never Come At India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
 
-- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
-  CJP protest: India 'cockroach' leaders who called on election
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
+- India news: India-US trade deal 'pretty close,' says Trump - DW.com
+  India news: India-US trade
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEY0SkRUOWg3NTVURVZFSGM2NEd5T2xtczhhUHpQMlBrVXZGSkZGTFFCcEJ4eW5sSzNidnJSWjg0MjM4NmVfNUpGdUYyMmxiS2xaX3c3YXppZ0hYMEZHWlhwR3lVZk1CbllSU1JKSlVDS3FzTmRuUUtkc0NWWFBPSEtNYTVUUm8wSV9reUI5NE9PVlI3?oc=5
 
 - Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
   Petrol, Diesel Now Cheaper In India
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- How India thwarted Pakistan’s bid to steal crucial defence data - The Hindu
-  How India thwarted Pakistan’s bid to
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVk93UmdGTXNVaW5aajBjWFljYXBZUmk2aHZLQjRPcHdXc3hDOGRSMUYxMnVmNFctbG9WdFY2T292T09nSU0yalQwWFdIREZLNDhWQnE4WlNuMjJyNXdmampYbnZKbXdVdGhTcElXZDg1ZjZfMHZwdGk4YXBkRnJyR2Flb3U5ZXBFT2hWTGdFeUpIVHVGaVR1ZXFSaHBCS29HU3BYQi1qUnhHTjJpM3FTWHVmT0lJNWhnV00zdmdBTzkxVVpMVHdnemRlR3RoZnZHQlHSAdgBQVVfeXFMUFIwSmJxbDU3bWJWdENUYmJ4T1c4WHJzU19wTUJMWHpGSUZMREFmY1dZNWhmWlRLRVV2Z2lDbEtwT2NlMWdLNDRJUFpiNllnSEgwcEw2MjlyWFpFaGNINU42c2d3VnAwel94dDQ1aG53NzN6b3hieTAzMEszUFlkdzFCLXc0cWNSM2lPaFV4cE9DU0FXODN0ZHJZTVpZRU9nQ1dIeEVrZVF1LXdZUHRtRWtFTmxYM2ExV0ZaWDloNnBMR29JMFY2ZzlVZHVmRmZOc1lFaHljWk5a?oc=5
+- India must improve rice quality and strengthen its position in global markets, says Chirag Paswan - News On AIR
+  India must improve rice quality and strengthen its position in global markets, says Ch
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmhybmpKVllSMVVmQV96aUpvZHpNWV9lUFJFbGhhYTJuNXhMSWVYS20tZ0ZSdmpFVmxkRURsZlhyYk5mbzA5a0hjaGNUUDNTcGtFNVBjN1ZYaDhfWlRFMUZYQjR4NHRpQzZ2NFRSRWdPaEVLb1FnMTFEMGs2Y2JQNGE5dUMxZ2piQTUtR2RHelJnbEtxRFkxZHpBejAxME03SkdiUEF5aWlTMnEwT05idk1LYzBtTlYwVzJOd1NvYw?oc=5
 
-- RTI reveals Cabinet Secretariat sent election commissioners’ letters to CEC Gyanesh Kumar | India News - Hindustan Times
-  Cabinet Secretariat sent election commissioners’ letters to CEC
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjN0NVcxYkxvTTBOZzh6d2gwXzNuTkM3ZHRDbWdDODFQWmladEVZc0lIdjNkbjRxbHp0MGY5cG5KeFhLRks4NzRXOEhYdTBZRTByelhtOGcyUnFoWE9jLUFtSWtUdGMwMUppSmxWaHRqMnV1c0pnX0pPb0FHMTFPNjRndjlrNHlMRUUzNEo1bUsyVlA0ZHlQajg1ZU5UdkcwcTlXa2Jpd0VwbGRTUkdZcWtYcTVzakw2bi1LbnhHbmcyU1ozc1FxemN5cW42bGozOVRFSVBKZVNiNm9SWWZFYkxnOTlOd9IB6wFBVV95cUxQMUM2cXFYS2pUWWtYSmNVNW1yWGp3ZnZReXlFSHQ1dl9KUHlSYVpJUEpMek9vaXhWYm9pbzlTVERhVTROTWZFMGJ3MjY1b19salhjeFZpSk95MmFTSE5Ic2twMGdXQ3FxV0F0MVk1R2lsOEd4em1zNWNhY0FoQWRwREJrNzJiNmtIeEtrY19McGlVTjFZMEY1cWhTVDdWM19uLTZSRHBQZEY2YjdxVnBGcHhNbjktWXZMYUczeG1aQUpuSnRqazNscXhLWVpLTXhFRFVEZ1NQVG5rN0lXSkJmQ29JMUMxRmdHQ1FR?oc=5
+- Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
+  Marco Rubio: Did domestic pressure make US secretary of state visit an
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
 
-- Breaking News Live Updates: Bihar MLC polls begin for 8 seats amid tight security, 150 candidates in fray - The Times of India
-  The Times of India reports that Bihar MLC polls begin for 8 seats.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHFCVnlqazFpMHNUdnRkVDVZeUhRdWFmYk1xbzFjUDFXZDZYbmd0Nm9ndWRWRVJsak5rc3lkeXBITlRYMG5jdUFLRUxpVlJPdE1UbjBYT0FncWxNaVA3SVBsVm1XczRHNU9sOVRyTWZFNGlRUGVURWdvMEpNZFBsWnQyWGRVZE5hOTlhaXBfSDFPdDQwQmNJTUVJYV9nN3dWMXdXRUhsMHFsV21McmFYadIBtgFBVV95cUxPNTZMcHBSQzRCNy03emJ4cU10YnRKcFpUX0Y0VjJjR3VhaVRSTGpGd0xnVWlWVlJaR281RWszUUM0ak8wYV9FdFQwSFZVcDd4Q2xMc2ZkZHdlazJhdTdHcDNXQ2VyamI2M01mM0JaQ3kwVjNTZ1A1Snk2aXRLeWZxTnJFOVF6M3oybHdTQlUzLXozaEx0TGp1TS1QSldRSTQ3cjdRTXZyelBrc3FuUzZrX2xnczItZw?oc=5
+- 'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi - NDTV
+  'US' Pakistan Ties Will Never Come At India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDc4Zy1xUm5wbFRCaUlNX0hUSlFIOEIyMHk2WDZvOXdxVm5seFZ0c041QWdjNm9lbjJFdkZXVjdOUHpXMEY1Y2hzTEtuVVM0ZTJ3SXpQczZ4eVZjYi02VnZKdFFTOGJxaktOWFZiWUxoUmhUSUZTbmxUTmJHMHRiVVZDMVJQTFUzanZVeVFkZl82NWNPMGF2TXRqUU9FUzlTa1BGLUdYSGxCSE5kcWZ3SS1n0gG6AUFVX3lxTE1WVTNrSTY2bTNIUlZoQ1hhU21tSDZRdktNbGVraHFoZ0MyUEZCSkd4b1JaT2ZncU9JUWl2WDR4RU4yelAwVWtjaEx5aUFRVkZndXYzN3RZeC1YUlFMMTdjUUMzVHZtaHVocXBZVnpZUXFNSHB6WkJyNDhIYmZVZHU4clNFeW5CLXBGa1d4NHJ3M01FX21hX2c1bjVmbTVOaTh1M0EwOTJCXzYzOE5OYmNrVmtOVFhsanByUQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India news: India-US trade deal 'pretty close,' says Trump - DW.com
+  India news: India-US trade
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEY0SkRUOWg3NTVURVZFSGM2NEd5T2xtczhhUHpQMlBrVXZGSkZGTFFCcEJ4eW5sSzNidnJSWjg0MjM4NmVfNUpGdUYyMmxiS2xaX3c3YXppZ0hYMEZHWlhwR3lVZk1CbllSU1JKSlVDS3FzTmRuUUtkc0NWWFBPSEtNYTVUUm8wSV9reUI5NE9PVlI3?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
+  Petrol, Diesel Now Cheaper In India
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India must improve rice quality and strengthen its position in global markets, says Chirag Paswan - News On AIR
+  India must improve rice quality and strengthen its position in global markets, says Ch
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmhybmpKVllSMVVmQV96aUpvZHpNWV9lUFJFbGhhYTJuNXhMSWVYS20tZ0ZSdmpFVmxkRURsZlhyYk5mbzA5a0hjaGNUUDNTcGtFNVBjN1ZYaDhfWlRFMUZYQjR4NHRpQzZ2NFRSRWdPaEVLb1FnMTFEMGs2Y2JQNGE5dUMxZ2piQTUtR2RHelJnbEtxRFkxZHpBejAxME03SkdiUEF5aWlTMnEwT05idk1LYzBtTlYwVzJOd1NvYw?oc=5
 
 
-_Last updated: 2026-10-23 03:01:39 UTC_
+_Last updated: 2026-10-23 10:56:50 UTC_
