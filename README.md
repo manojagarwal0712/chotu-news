@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- India increasingly contributing towards preventive healthcare: Union Minister - The Hindu
-  India increasingly contributing towards preventive healthcare,
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW1BdThHYnhVMVc2QktVdmg5YnNmejJ3aUtQRW5vSVl3OGhZWlNQOFJYM2Q3WmxubWRBUU9EY0ZHdkNEZldyYXlLOHVKaTl1ZmdDamZBQnhiVzVUd2NoM05uZTZ4RElnOV9GT3EwVlU0azZmZTFmVDdzcGVqREdSUk83QkF6YTdkMWR4SFlTcVlNUkFTWlNqaDl5YUhGcE5HMllpT1cxUFduT1hHNkc2MzNicDBNLXBpak5fbV9BLTNhQV9Lbmt2bllnLURvaGtmdGlBSXNQYXTSAd8BQVVfeXFMTXEySy1VRzVQcXoyX0RXMzZSdUhoNEtNd1RzMGNnNHpWNVJ2cUtxQXFLRkFDWW9wVUhCOVdsV3gzU1NqMC1WUlotVGpod3hnV3J0eExpZnpwc2ZoUGlTWkFTcTlUMlNaMjQ2S0Rxek44blJzV1RxMEFoTDQ2Zy02RTJuZDJSdzlLNk9fcXZUMlpLTWtlYWlPOUNMWVBMOXQzSHdWTVBaZUtMS2VIUThGY2dPdTdjN0o5bGhEdWlha1Bab2VmR2RVSWhra3ZzX2hYakQxcVUxQUVBcmhaWnZnbw?oc=5
+- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
+  CJP protest: India 'cockroach' leaders who called on election
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
 
-- Govt plans colour-coded driving licence for Indians, foreigners - The Times of India
-  Govt plans colour-coded driving licence for
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU83clJxSC1pNlU3SHBvZnB5ZlM2VndqTGthYlZDN29WUl8zN3dHSENlVi12SkF5ck1MaUFvY1dQd1NLcXdBUVBCS3JPc0lXVnVRWjhxaDdjNUhMdDZEbnMxdzZZWVFmSzBaMU5xeF9RN1pHdlAzaDdYcGpTZy1ZS0NLRzlURERjaVdDcmpBZmRpMG9Yb05nVGo3TUFIZ2EtNXhLQTNRVWVBRS1iTFVRTzBLZHBwZF93X0tkd1VnSWZ5UTd2Xy1XMk1B0gHPAUFVX3lxTE5PTWd3TGN3RHFZaUl6UzNTMk1MMXg4NzBRY0hSZ2F5R1NiY0RibTFRZ1VsMjBoeU5FS1dxSzI4WlhHZ1Zxa01pZFNsSURMV0JxbUU3eVVHZGZoSW94NE5fWHpQQjM3YXJkNDZrWXYtUTZDeWdMM3A5akRwSS1XbnFnVm1ab2Z6ejVSbnZJd2lRU2d5Unlaa2NUZ3ZrSmItTkFHYnhKWmVqZ1M5MEFERE5JWnJrcmJHdmtOMHhrV3Y2dURIa0NUbmdTdmU3S2tjaw?oc=5
+- Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
+  Petrol, Diesel Now Cheaper In India
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- Google India, Telegram executives appear before NCPCR over CSEAM - The Times of India
-  Google India, Telegram executives appear before NCPCR
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPWExiX1RWVG15SU5jQlctMGtQa0o1aEZTd1VPX3A3dzdnamM1eFg0Z1Joa3ZrNHpIdjZpVkM1ZEdlZXZjcHI1eUsyUVNYQXVZUy0wUHpuTG85TFZuUkFJTUdPN1p1a05wcHVrNU5yWVhpVjhIQ0U3U2xKbWJ3VGNvT21RTXI0REdmMEw3WG0xOHlSU3RtWlBiZklzbS1ESTNfbmE5OU9xTUd0WW1yU1ptb2hBY0pCZ3hrOU8zWEo4ejBZRjVhTzJ0WFZBNNIB0AFBVV95cUxPZy1mdkh6MjJiX21QMnFPT3pwRDFUd216MU5hYkF1eDVFY2tLQ1JveHk4MDJLU2s1S1ZNVjV3RGFYT2RmOGtLTUQzUElEUG52dFNiYzNCS1FLaDN2cHVrVERYeHRlQUZFeV8zcW9ycWdOOUdrX0hkQURFQWFYcWR0bmg1M0NXcmJJUDZHanp0Yi1iREZzWGtLSlhia2s1T3M1Mm4tN2NTSk1PNWVnZVkzXy12SW9lSm9hN2dDd2dVa2JIVnVXcFFNVkhiTjhRdU8t?oc=5
+- How India thwarted Pakistan’s bid to steal crucial defence data - The Hindu
+  How India thwarted Pakistan’s bid to
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVk93UmdGTXNVaW5aajBjWFljYXBZUmk2aHZLQjRPcHdXc3hDOGRSMUYxMnVmNFctbG9WdFY2T292T09nSU0yalQwWFdIREZLNDhWQnE4WlNuMjJyNXdmampYbnZKbXdVdGhTcElXZDg1ZjZfMHZwdGk4YXBkRnJyR2Flb3U5ZXBFT2hWTGdFeUpIVHVGaVR1ZXFSaHBCS29HU3BYQi1qUnhHTjJpM3FTWHVmT0lJNWhnV00zdmdBTzkxVVpMVHdnemRlR3RoZnZHQlHSAdgBQVVfeXFMUFIwSmJxbDU3bWJWdENUYmJ4T1c4WHJzU19wTUJMWHpGSUZMREFmY1dZNWhmWlRLRVV2Z2lDbEtwT2NlMWdLNDRJUFpiNllnSEgwcEw2MjlyWFpFaGNINU42c2d3VnAwel94dDQ1aG53NzN6b3hieTAzMEszUFlkdzFCLXc0cWNSM2lPaFV4cE9DU0FXODN0ZHJZTVpZRU9nQ1dIeEVrZVF1LXdZUHRtRWtFTmxYM2ExV0ZaWDloNnBMR29JMFY2ZzlVZHVmRmZOc1lFaHljWk5a?oc=5
 
-- Pirelli, Balkrishna strike India tyre production deal - Reuters
-  Pirelli, Balk
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktTcjRQdG9tQjdVMDhTcjNReENtc293VmFTZ0JNc0U5Z0V2UDI3V0lRUGd6aXRrVVFuTnNLemdfMUhCNThQdHZTWXZqMzBaMkltVHozc29hUF9kcE52cm5aUE41MUc5Z0JTN1dGRjBnS2tLakRodEEyU19wQ205TmdoRWwyRjYzb1JyVmRkVXBPZ2llcnhnRXVQdndLemxfNVE?oc=5
+- RTI reveals Cabinet Secretariat sent election commissioners’ letters to CEC Gyanesh Kumar | India News - Hindustan Times
+  Cabinet Secretariat sent election commissioners’ letters to CEC
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjN0NVcxYkxvTTBOZzh6d2gwXzNuTkM3ZHRDbWdDODFQWmladEVZc0lIdjNkbjRxbHp0MGY5cG5KeFhLRks4NzRXOEhYdTBZRTByelhtOGcyUnFoWE9jLUFtSWtUdGMwMUppSmxWaHRqMnV1c0pnX0pPb0FHMTFPNjRndjlrNHlMRUUzNEo1bUsyVlA0ZHlQajg1ZU5UdkcwcTlXa2Jpd0VwbGRTUkdZcWtYcTVzakw2bi1LbnhHbmcyU1ozc1FxemN5cW42bGozOVRFSVBKZVNiNm9SWWZFYkxnOTlOd9IB6wFBVV95cUxQMUM2cXFYS2pUWWtYSmNVNW1yWGp3ZnZReXlFSHQ1dl9KUHlSYVpJUEpMek9vaXhWYm9pbzlTVERhVTROTWZFMGJ3MjY1b19salhjeFZpSk95MmFTSE5Ic2twMGdXQ3FxV0F0MVk1R2lsOEd4em1zNWNhY0FoQWRwREJrNzJiNmtIeEtrY19McGlVTjFZMEY1cWhTVDdWM19uLTZSRHBQZEY2YjdxVnBGcHhNbjktWXZMYUczeG1aQUpuSnRqazNscXhLWVpLTXhFRFVEZ1NQVG5rN0lXSkJmQ29JMUMxRmdHQ1FR?oc=5
 
-- BJP Targets Congress After Report Claims French Riots, Indian Protests Link - NDTV
-  A report claims French Riots, Indian Prot
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVFFkNWNwN3hqUEdPWERSRTdZRlZDVFYtQkxJVl9RSFZMQjRKWHF5ck4tSFJlcWpfU0F3WHhueHNKNlB1Ukt0NHNjQndQMW9LemxCTWpXNDNTTFl4aWU2SlM1ZVA3UFVWeDhTYkxhRkszMG1GY1F0U2IzWXpUU3ZNUzRGby1yeFdaN29kWGRYb2Voa3pxTmxsSnUteTgtaE1zYlpVU1U4bXNYUjNlQ3dUXzVJYkh4RkFyc1RxTkVDaE5lWGhQS1FURHU2SXRpcTU3OHVMNHFzVGJMZ0V3UDVuZFhBMF85ZUXSAe8BQVVfeXFMTUU0cEl6T2M3cllQRmxkNmJHWHdpcDZxUXo2cFFqY1lyNThVZWFBWTZfY3lkaF9YMWc3MXlTRGQ1dkx6X1l5VUkwejFTdHNLeGJURTRCNmVPdVlNa1c5MDZtejFmTWZ3RkNOYU5EaUFHdW81VTE2eDVxSGt0aEp0azBtTDVZU2lWQ0h4ZS1zZF9pUG9ZX1Q2c2VzM2N5MVJKUVdqaGlOa1Q3Umw4WWlDTV9LMGRVdmV5QVY5cnF5U1FSZFU3YnlnN1JyZ1VHOVFNcVpZMVhEbS10clZCTE1RMzRYcndDQWEyNzY2eG9jTms?oc=5
+- Breaking News Live Updates: Bihar MLC polls begin for 8 seats amid tight security, 150 candidates in fray - The Times of India
+  The Times of India reports that Bihar MLC polls begin for 8 seats.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHFCVnlqazFpMHNUdnRkVDVZeUhRdWFmYk1xbzFjUDFXZDZYbmd0Nm9ndWRWRVJsak5rc3lkeXBITlRYMG5jdUFLRUxpVlJPdE1UbjBYT0FncWxNaVA3SVBsVm1XczRHNU9sOVRyTWZFNGlRUGVURWdvMEpNZFBsWnQyWGRVZE5hOTlhaXBfSDFPdDQwQmNJTUVJYV9nN3dWMXdXRUhsMHFsV21McmFYadIBtgFBVV95cUxPNTZMcHBSQzRCNy03emJ4cU10YnRKcFpUX0Y0VjJjR3VhaVRSTGpGd0xnVWlWVlJaR281RWszUUM0ak8wYV9FdFQwSFZVcDd4Q2xMc2ZkZHdlazJhdTdHcDNXQ2VyamI2M01mM0JaQ3kwVjNTZ1A1Snk2aXRLeWZxTnJFOVF6M3oybHdTQlUzLXozaEx0TGp1TS1QSldRSTQ3cjdRTXZyelBrc3FuUzZrX2xnczItZw?oc=5
 
 - The Pentagon is quietly building an elite new tech sabotage agency - Politico
   The Pentagon is quietly building an elite new tech
   🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDFwUHJOdm5zcWR4T0tldnpBUnRib0JsT1lEQ2RZbWE2bmhsMUlKampEb3Z0OUdZRHBkSWdpdENrdFIxbkJVVGZ5TUtSUE1LS0dYVE1jdGdSSFpxV1ppdE5keW1BTG1pRldjaWVRUlpXbjNUb3o1U2E0bjZSektIRTQybEtVLW9IUUYxZFJ5MU5YSnpWVjcxenBCTEFETmJVY1NR?oc=5
 
-- How did AI discover the internet's massive cyber-security risk? - BBC
-  How did AI discover the internet's
-  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkQ0VLSmdYNkk0TzVBZGtlU3piaFlGejFNemlncTZRTWR2MjFlNDhpWWNiVnJMYk5PRUo3eHJ2YlppUmtoLW5FbERMTFNBZ2xkMVhzNmpFWXU?oc=5
+- PHP: What is it and why did it spark a global cyber security scramble? - BBC
+  CNN.com: What is it and why did it
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1V0VTbm4wQ3BmN1hGMnNiSFRrU3FMTlNGcEV4Nzl4RVgzRk9NNjZIWXVkaWdFVElIZVRQUGdjbWZ6Wk1CUHM5djJJMGxqZVFlVjJqQ2tjUWRoZTg?oc=5
 
 - NDTV World Summit 2026 Highlights: "Trade, Technology, Sea Routes, Being Weaponised Today": PM Modi - NDTV
   NDTV World Summit 2026 Highlights: "Trade, Technology
   🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxONFE1VnhMWFlHOV9UNjdRQ0xFNlZ0NEFKaEh5M2ZSd1BLbE5GcjFQN2dkckt2ejhROVViTFhWZW9KWXZrSE12cDdvN3hoZzNTTGdFdFF6akoyVUtQdjk0ZWlVRElUallJTXBKamlTRk5acDFHYXlZWXFBV2lDRzBZYTZlWWFwWE5fWWNCN2ZIdlZaVDdBYk9UVGFDXzlqTEtoTzlqSFR5eTRyVXc1bURULXY3enhBX2NhblJZbU1QeWRQSTFLRUp5eE1hMUh2cHFpVEFrWHlPWdIB3wFBVV95cUxPdmpZQk5XeWNTNFA4MTdIdnJpbnVfUldPUnA1a3J1SER0RmhDRmhCYmgySzhYU3ZQQWYwWHFoVXZPY0pVUnJ1VlpGc1huak9VSHBkSTVsRXFZcjlaQ0hKYnVrMkItcGlxcjd1RFVoZTZBdUNadnJYOUhWME5jUGRWZXJuaV9oV25NM2t3MEhVb3VYOUt3MW91ME9jYTA4YkhXNHRlVG9yTWhBY2RIWWVHUGRNRFZwSTRDZlBQTDQ2dGxabloxWmNlTVpBZ2VSTGsyZDVLSTVKTkN3UzdmdURv?oc=5
 
+- ‘If Anything Happens to This Guy … Everyone Is Screwed’ - The Atlantic
+  ‘If Anything Happens to This Guy
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxONGR0ZG9obWNHcXpYWFItX2Rrck8yMmVRZW1vd2lERlZPYnFiZDk3d0ZsdzJ5dEtCSnd6OWJwbjZfYUNrZ3RqM0NZR29JYTdBdGlnTjI0RDJjUXBXV2oyVy1nT0t4SnNjM0J1MXVaZ21uTklod1FtTmZlMTkxUEh3NS1OR2ktaVpGOUdTTlRIZ19sczRJaEx3TXdnTQ?oc=5
+
 - Visually impaired students of Andhra Loyola College trained in assistive technology - The Hindu
   Visually impaired students of Andhra Loyola
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMVR6SVJ1YkhqUHNONmtjcjZka1JUOWRKRTZpeF9fMWpxdl9CWlJkU3dxUFVEeUstc2tmOUZkWHRlMXhIRXhXQ05tbUZOSVBMS01jVHgwRkhtNV82TFowYjEzVGZSX2o5Qk5MWWFHLTFvSHBaS1lxOVR2WWlhcTJYTXU0RlBSRk9sZDA1Q2ZhX0lucVpmS1FySTNMUGh5RWgzbVF5aWRNVmVGdXRXQnVaYUQxOHF4WDFZMVJlSXBvVkxiSkJSYzZ4am9BVGtQUXY3UVp0N01MTENuRVFv0gHjAUFVX3lxTE82U0RiMGpUbTFuRnlhTVp1V0dNMHJjN1V4SnJhSENlekVkRmVRT3M3NVBsczFuaktRRGFjTzYzQW9OeXUwZGNkUGhPS1BBVEp4WTdiQk96WUk2ZzlYZG1CQlYyZ0hETWJQN3g3WjFOTzV4RkZLZWpQRGUyQUF1VzZNZjhHWkFrTHk2MUtXeXE4MmVMaDV5T25jdzZha2pzcGJwQ1VpVVJaMm80b1owTzJ0TEthaGhtenJxQnFxWE5wVmp3ZE5kcUJJaDBuU3Rsb1BjS0wwZUtzNEVpdkNic0NoZExr?oc=5
 
-- India-New Zealand series to debut DRS's new 'Sonic' technology - Rediff
-  India-New Zealand series to debut
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdXdXVTFhSGlISklHWXUzUU93Z3VkNmdsSkE4SGU2bHJrd2JqeldQWXdCaTVGLW1fTmVQSWxTcnByQjFTcHl1NHBtTzZfb1dON0xoMEcteU5PMEpMYlJSUUV5WW1qMXY4LWs2VFo0Mkd0VUR0ZmYxSXpKdFdvMWdvTlozTmpmWlpyaGtzS3NqMDJpZGdFbHJsU3owS3lvZ3JuTVlUU1ZwSjlOMmdEU05pQk1IWUlqMUIyZmJsRUUwclRseG9oNnlkTm9nWmZJSGdDRF9UbNIB1wFBVV95cUxOSEZvQTF2YXdaeXJjZWhmZHdrV1V5UmhPMWVmaklVckp4SGNjWGhiRGpPaVdRTnV2ZXFsRFBpT0tEOWFtTVp0S0R3ZVd0U1prVFFtNEk2S2NFbnVkTTBmQkpQa1NNWGswQTc4SGJMbFkxNVJlQ3NSd3k1QllEZk5GQ3RYbGRiUmVlMDB4eTBrUjZfd0hfeGZpNTVBenpYVDJCd1FOMlBIbkJtMGpWM3FPZU5fV2xXNnMzQ09GQ24yVm41ZmJHV2hweWg1eEE1T1lUZ0tQMHpWcw?oc=5
+- OpenAI cuts valuation target by $150 bn to $1.25 tn | Why it has scaled back its funding ambitions ahead of IPO
+  OpenAI has lowered its valuation target by $150 billion to $1.25 trillion. The company has delayed its IPO until next year.
+  🔗 https://www.livemint.com/companies/news/openai-cuts-valuation-target-by-150-bn-to-1-25-tn-why-it-has-scaled-back-its-funding-ambitions-ahead-of-ipo-11792720384756.html
 
-- UBS Defeats Ex-Credit Suisse Managing Directors’ Back-Pay Claims
-  UBS Group AG prevailed against two former Credit Suisse Group AG managing directors. They argued their deferred-compensation certificates
-  🔗 https://www.livemint.com/companies/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims-11792695090645.html
+- Multiples gears up for a billion-dollar fundraise next year
+  Renuka Ramnath-led Multiples is eyeing its largest fund yet, targeting $1-1.2 billion next year. Having deployed more than half of its previous fund, the
+  🔗 https://www.livemint.com/companies/news/multiples-fundraise-private-equity-new-fund-in-2027-11792660992665.html
 
-- Why has Rhode Island sued Meta over scam ads on Facebook, Instagram and WhatsApp? Explained
-  The complaint seeks civil monetary penalties for each alleged violation of Rhode Island law. It also seeks restitution for affected consumers and
-  🔗 https://www.livemint.com/companies/why-has-rhode-island-sued-meta-over-scam-ads-on-facebook-instagram-and-whatsapp-explained-11792691751630.html
+- TA Associates-backed OmniActive explores $200-300 million IPO at $1 bn valuation
+  OmniActive's IPO plan follows several unsuccessful attempts to raise private capital. If the IPO goes as planned, it would make OmniActive the first pure-play nutraceutical
+  🔗 https://www.livemint.com/companies/ta-associates-backed-omniactive-explores-200-300-million-ipo-at-1-bn-valuation-11792676392979.html
 
-- Vectorial raises $3 million in funding to expand its AI model that predicts consumer behaviour
-  Vectorial plans to use the funding to expand its datasets and models.
-  🔗 https://www.livemint.com/companies/news/vectorial-raises-3-million-in-funding-to-expand-its-ai-model-that-predicts-consumer-behaviour-11792689893969.html
+- Three Iveco investors stand to gain €63 million as Tata Motors races to secure buyout
+  At Tata’s revised offer price of €14.40 per share, the three investors could make a combined gain of about €63 million.
+  🔗 https://www.livemint.com/companies/tata-motors-iveco-acquisition-deal-status-shareholders-approval-11792650839298.html
 
-- Oil India shifts corporate office from Noida to New Delhi: What has changed? Check new address and details
-  Oil India Limited has shifted its corporate office from Noida to the World Trade Centre in New Delhi. The company's registered office will remain in Assam.
-  🔗 https://www.livemint.com/companies/oil-india-shifts-corporate-office-from-noida-to-new-delhi-what-has-changed-check-new-address-and-details-11792687711657.html
+- Boardroom friction drives listed companies to law firms for governance advice
+  Companies are increasingly turning to law firms for strategic advice on independent director dissent and board processes.
+  🔗 https://www.livemint.com/companies/news/companies-consulting-law-firms-boardroom-governance-disputes-11792637621055.html
 
-- Who is Dr Ashok Kumar? Why former Coal India GM is back in college after retirement
-  Ashok Kumar's return to college offers an example of lifelong learning. It shows that education need not be limited
-  🔗 https://www.livemint.com/news/india/who-is-dr-ashok-kumar-why-former-coal-india-gm-is-back-in-college-after-retirement-11792685730009.html
+- AI Tech Fears Push Global Credit Spreads to 17-Month High
+  Global bond markets signaling biggest risk-off sentiment in more than a year. Selloff in AI stocks and growing geopolitical tensions caused investors to seek
+  🔗 https://www.livemint.com/market/ai-tech-fears-push-global-credit-spreads-to-17-month-high-11792723317299.html
 
-- TSX falls 1% as tech and gold mining shares slide
-  
-  🔗 https://www.livemint.com/market/tsx-falls-1-as-tech-and-gold-mining-shares-slide-11792700912983.html
+- Infosys Q2 results, dividend 2026 amount, record date announcement today: Time, preview; buy, sell, hold amid earnings?
+  Infosys’ board of directors is scheduled to meet from Thursday, October 22, to Friday, October 23, to review the company�
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-q2-results-dividend-2026-amount-record-date-announcement-today-time-preview-buy-sell-hold-amid-earnings-11792721404616.html
 
-- DoubleLine’s Sherman Stays Bearish on Long-Term Treasuries
-  DoubleLine Capital’s Jeff Sherman said he remains bearish on long-term Treasuries
-  🔗 https://www.livemint.com/market/doublelines-sherman-stays-bearish-on-long-term-treasuries-11792699995666.html
+- 'AI-trade' bust will aid India only partially; don’t tweak LTCG, says Madhavi Arora of Emkay Global
+  A reduction in STT would lower friction, improve market liquidity and send a useful signal to global investors, says Arora.
+  🔗 https://www.livemint.com/market/mark-to-market/ai-trade-india-ltcg-stt-foreign-funds-growth-china-forex-liquidity-fta-11792668124017.html
 
-- Yields plummet as fears about AI boom sustainability flare
-  
-  🔗 https://www.livemint.com/market/yields-plummet-as-fears-about-ai-boom-sustainability-flare-11792695822319.html
+- Indian shares seen opening higher after 3-session drop; oil surge clouds outlook
+  Both the Nifty and Sensex indexes are down about 2% so far this week. Sentiment dampened by a rise in Brent crude oil futures to $113.5 a barrel.
+  🔗 https://www.livemint.com/market/indian-shares-seen-opening-higher-after-3-session-drop-oil-surge-clouds-outlook-11792722512784.html
 
-- Traders’ Cost of Hedging Against Big Treasuries Rally Is Soaring
-  The cost of options hedges against more gains in Treasuries surged to its highest level since March. Investors sought the safety of US government bonds following a spike in oil prices and
-  🔗 https://www.livemint.com/market/traders-cost-of-hedging-against-big-treasuries-rally-is-soaring-11792695026739.html
-
-- Yen jumps as oil, AI and France worries rattle markets
-  Yen jumps as oil
-  🔗 https://www.livemint.com/market/yen-jumps-as-oil-ai-and-france-worries-rattle-markets-11792694662480.html
+- Top stocks to watch today: Infosys, Tata Motors, Swiggy, Cyient shares in focus on Friday, 23 Oct | Full list
+  Infosys, Adani Power, Tata Motors, Swiggy, Cyient, Ad
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tata-motors-swiggy-cyient-shares-in-focus-on-friday-23-oct-full-list-11792719056861.html
 
 - What to know about the AI-detected security bug impacting wide swaths of the internet
    AI-detected security bug impacting wide sw
@@ -101,64 +101,64 @@
   🔗 https://www.livemint.com/technology/littleknown-emudhra-set-the-internet-on-red-alert-what-really-happened-11792658421848.html
 
 - Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off: Live updates - CNBC
-  Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off. 10-Year Yield Sinks as Investors Seek Safety in Bond.
+  Nasdaq falls more than 2% for worst day since June as AI spending woes, oil prices spark sell-off.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5ROG52YzhPZGZHbTVQQjVmSGxSeHJoRlA0UW90MkdwNFR0ZThOQzFhSDBhMUFmNWpxSGo1RG9nU2FOZ1VTUGN2VjNieDNOT0M4bDB0Qlg5NVkwMHV3cy00VGxhQTNqQzg3a3FwUFB4Vy1lR3BlM1dV0gF8QVVfeXFMTjlVakFKZGpLV0RGRVNiaGUxMWdVcHJtSGlWdXNtYkJqUmhXbHM5S3dLcFgzdTZMRGx0OG9LZE40eTVsaDZ5WWRKTGZSMVN5OWptaXk4Qk5EZGNJTmZYdzBVUVRER3NVOW4xWllXa2k0RXFGWmhTcEw5QTZ2Ug?oc=5
-
-- Nuveen's Saira Malik: Markets are anxious U.S. will retaliate against Middle East after midterms - CNBC
-  CNBC: Markets are anxious U.S. will retaliate
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEhvdENUVXptQ2J0eU9fVXY2YmhXOE1KZFhMRU0tcmxqWHdoZXZKeWwyRE1pWEhySW5Sb3RjYXJzWFhUSkRiOFJqVFNTRjBMMW1pNmtJUThrRFpUMzdKUXVLY3FNT1Rvcll0b0pweWxxZ3A4R1BscmhiOXE1VFVUMUp2YTI5YzBaOUNpeG91OTMtNmgtWnk4VVFZS04xU0JkWHIwNFRqLW93bk1DMS0wQXBKc3lsOElsQTZpRlRCYTlRZGxGRjlJSFd4UEVXZGMwS0E?oc=5
 
 - China's Stock Market Crashes 20%: 3 Reasons Why The Dragon Is Losing Its Fire - NDTV
   China's Stock Market Crashes 20%: 3 Reasons Why The
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPczRyQ2FCR3VXakdKSnd1VlpWcFlrS293TTBrZnNwc0I4RHNMOGY3elVkNVprbG5oMlI1VUJieTlmakFYN3pqS3cwcDN5WXlhc0U3QkdwU3hBbVNCeE5uYk56WGtyenYtODFqZkNvNzlKNW1hcWxJaTNtdzlJTjJOTlVfc3p2c0VuRmxzOGtSc2dUcE0xWmM5NlcybF9oY2hEdEE4bDNCcGlxTGxoREhtaUxB0gG6AUFVX3lxTFB2ZUg0ZkIzaWJfXzlNQl9LREVHS3pZVVJZcjFGUGVycU02VGlWRW52LVhrcnp3RFU4dEs2WlpkeHpjdHRuQVQzY3NvM2VXSEJYVlVucWZSQU9Ydy1rQjBSUG9PRS0tUU90VGFkcldUbk5uLU8yaXRLZVRmd3haR042OXJ2SWdINDJqOV9FRGs0UHlGa0g5OGFiekxldEc5VERXZFg2N1I1dEltRDZoc2FPVjVFYXI2MjlxZw?oc=5
 
-- Either AI or public debt could crash markets. But probably not both - The Economist
-  Either AI or public debt could crash markets. But probably
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQV2tPMC1XeWVVR2thWnZBbjdsVnJiWm4tMnphSU5Ddlh0WUVLcHhab2ZwYzBnWFlJcERVSWNyX09mNk1Lc0k3MmR2ZDVabkVINU03d3YyNFROa2NXWDZrVnhSWkhpNkd1RjB1WW5kUTFuLTJPWk5FQ3hGcmpFRkMwOEVBZzdZbDc5czZiYTFLcnVZQ1FWVVhHUzFnU3dBcmRkN2gxV0hEUE1xcFZNNWZwVg?oc=5
+- China Stocks Sink Deeper Into Bear Market Despite State Buying - Bloomberg.com
+  China Stocks Sink Deeper Into
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEFjLUxEQldPYm14ODFIaFJxcEtYaTVPMXJVMW5OUG03T3k1SFpEYmJQV2RKOHRnRXdEWV9uMkFBU2I2N1hlT3BtY3E5ME9JWUt2N2IwU1pJSFdTSUhrNEpUZGRCYXFDS1JJZ05vMm02aGVNRjN5VnN3TjIwX2lFUnZFaWd1Q0ktS2xiX295ZUwwb2QtN2VaVTJ3UzlkSnZKaUZXSVBQQVFQckZTYkF3RjN2RQ?oc=5
 
-- Delhi conference to explore new markets for Indian rice - The Hindu
-  Delhi conference to explore new markets for
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHplY2xWT0RQTE9peDlsZ3FrMmRnTDRVbE85SkYtZ2FlY19tbFlIWmFKRnZhaTZRdGpDS0J3bGx5Njk0VS1vd0FZUzRsMVdhcFgzQmhGVUlhLTBGZmlJbVBONkZWeTYxV0hZS1dZMEluQUt2dHFlRTROcXJRam8yeUZkYldYakpiS2I4enJlczNqNUxXcnF5MVpjSUhuN2Y2dFZ0VS1JcThsWG9Bc09Lcy00Q2XSAbsBQVVfeXFMT3I1LUkzT1l1SzFZblRoNWVVbTJXQTBhWk9wTS1JRHhTNTUwX09Vc1cyeEQtYjBKdEFDcmdiekpjSzJGZWFKQjNScllQTGFfUW5CdTl6Nk5lX3BPZlhaeE9yWlFWVGZ4VVhjNUNmN1EtTnRjX28ySU4xblpkdy1DdHhRQ0ZJU1hjejJySlZNSWR6dUdfWm00N1kzNFdITjl4bGxwUkVEbVZvb21jNmtzUkhJT0loNGNKMU82MA?oc=5
+- China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC
+  China's stock market sinks into bear territory as CSI 300
+  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5
 
-- US stocks today: Nasdaq slumps 2.5%, S&amp;P 1% as revived AI doubts ignite tech selloff
-  The Nasdaq suffered its steepest one day decline since June. Tesla and Meta fell, while oil prices climbed to a five-month high.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms
+- Stocks to Watch Today: Swiggy, Cyient, Nuvoco Vistas, Bluestone Jewellery, CreditAccess, NLC, Zetwerk,... - Moneycontrol.com
+  Stocks to Watch Today: Swiggy, Cy
+  🔗 https://news.google.com/rss/articles/CBMixAJBVV95cUxNVTZ6MkJRSHd4WThsM3ljVlZVNE82VzJBamtmbm9xVlhfeFpCRk1yQU1yejBvQmpDMXVpRlZjUWJaTGk1TVFPbUJiaHYzMmFBcHFOcmRkQnJZSV9CLVpsUGVtclFvd0pXTm5XMFFDTlptdjFWY3BOYnZsT3pHd1o3Tl9PLS1GMnRXeExKbklEQzlzSWRKXzdUT3dXTmprbGJnTFVTUlA2dko3M2ptYXZMTk0tUkVzMk8ycXBQX2psQ0lpN1ZJd0tWOHZkSlZTeG9wMHlXUWFjRm41N01fb2tOV0xscl9zUW8zbERjenFpSE9HSm81MDhYeDdrSUZYZUNyU0ZZVGZLbHZOVzk4Q0xuSC1rUXhiX3lPVGVnN1FyNm1FZi1scERuc0k2alpKS2JzTHV6clJHeGZCaWhIYzd3ME1iMG_SAcoCQVVfeXFMTWs4N3ZseGpGRDJSV2NzMUVkcWFEMUpqazBWWDZaN3BYYk5NV3E1cGMyQ3RfQlhjbkFtbEJGa21hREl3Z0I2czcxVmswMGZTVzBNZU13bE1scEY1aUl3ODJDdGVQRnhWNG5ESmxQS2ljUWdiQzl6bU5iVDRyMC1rZEFNZFFPZ3VGNExDUzZFckdIeFM2THdKQVVvRGRLeUQ3VkF4ZVN5alQzRkpENmpjODVVTVd6Tm5CZzZ6c25qTTFiWk81NGpQU3NPbXFOVUI1bVpkQVVfOFVTbHY4ZHJEMGVMQUZlU3FCSDVHR3pndlJnclg4cERVZXF6SnpZZ05HMzBycVNBaEtYaFJza1hXS0ZXSllxMnZBMGR4YUFYLTI4T2hkVUJwOGhXYXRtSXo1LXlsa3ZXWjNTdEVjWC1lbEk5NmxMQmRzcHJ3?oc=5
 
-- Moderna stock crashes 25%, loses about $24 billion after cancer vaccine data leak
-  The decline erased approximately $24 billion from Moderna’s market value. Analysts noted that this reaction was expected as investors often sell after news becomes public. Despite the drop, the trial results showed promising reductions in cancer recurrence
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/moderna-shares-plummet-25-loses-about-24-billion-after-cancer-vaccine-data-leak/articleshow/135127206.cms
+- Yen shines as AI jitters spur safe-haven rush
+  The Japanese yen reached its strongest level in over a month. Concerns about the sustainability of the AI spending boom affected currency markets. Brent crude futures rose above $114 per barrel following geopolitical tensions.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-shines-as-ai-jitters-spur-safe-haven-rush/articleshow/135131944.cms
 
-- Treasuries see best day in over a year as AI selloff revives haven demand
-  US Treasury bonds surged as a sharp selloff in AI-linked stocks revived demand for safe-haven assets. Treasury yields posted their biggest declines in more than a year, despite Brent crude rising above $112 a barrel. Investors also scaled
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/treasuries-eye-best-day-in-over-a-year-as-ai-selloff-revives-haven-demand/articleshow/135126406.cms
+- Gold heads for sharpest weekly decline in four months on Fed rate outlook
+  Spot gold prices sank to their lowest since August. US gold futures mirrored the drop. Positive employment figures showed a decrease in unemployment claims.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-sharpest-weekly-decline-in-four-months-on-fed-rate-outlook/articleshow/135131910.cms
 
-- Neocloud short sellers rack up $6 billion as AI debt fears deepen
-  Short sellers betting against US neocloud and data centre companies have made about $6 billion in paper profits this month. CoreWeave, Nebius, IREN, Applied Digital and Core Scientific face heavy short interest
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/neocloud-short-sellers-rack-up-6-billion-as-ai-debt-fears-deepen/articleshow/135123634.cms
+- Zetwerk Manufacturing Business shares to list today: Check GMP ahead of debut
+  The Rs 5,012.33 crore IPO comprises a fresh issue of shares worth Rs 2,830 crore and an offer for sale (OFS) of 14.45 crore shares. While the proceeds from the fresh issue will go
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131780.cms
 
-- Pershing's Ackman sees a $1 trillion Israeli company within a decade
-  Billionaire investor Bill Ackman said he remained bullish on Israel’s economy and financial markets. He predicted the country could produce a $1 trillion company within a decade.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/pershings-ackman-sees-a-1-trillion-israeli-company-within-a-decade/articleshow/135123317.cms
+- Bonfiglioli Transmissions shares to list today: Check GMP ahead of debut
+  The Rs 2,533.66 crore IPO comprised an offer for sale (OFS) of 4.32 crore shares. As the offering was entirely an OFS, the company will not receive any proceeds from the IPO
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonfiglioli-transmissions-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135131771.cms
 
-- India increasingly contributing towards preventive healthcare: Union Minister - The Hindu
-  India increasingly contributing towards preventive healthcare,
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW1BdThHYnhVMVc2QktVdmg5YnNmejJ3aUtQRW5vSVl3OGhZWlNQOFJYM2Q3WmxubWRBUU9EY0ZHdkNEZldyYXlLOHVKaTl1ZmdDamZBQnhiVzVUd2NoM05uZTZ4RElnOV9GT3EwVlU0azZmZTFmVDdzcGVqREdSUk83QkF6YTdkMWR4SFlTcVlNUkFTWlNqaDl5YUhGcE5HMllpT1cxUFduT1hHNkc2MzNicDBNLXBpak5fbV9BLTNhQV9Lbmt2bllnLURvaGtmdGlBSXNQYXTSAd8BQVVfeXFMTXEySy1VRzVQcXoyX0RXMzZSdUhoNEtNd1RzMGNnNHpWNVJ2cUtxQXFLRkFDWW9wVUhCOVdsV3gzU1NqMC1WUlotVGpod3hnV3J0eExpZnpwc2ZoUGlTWkFTcTlUMlNaMjQ2S0Rxek44blJzV1RxMEFoTDQ2Zy02RTJuZDJSdzlLNk9fcXZUMlpLTWtlYWlPOUNMWVBMOXQzSHdWTVBaZUtMS2VIUThGY2dPdTdjN0o5bGhEdWlha1Bab2VmR2RVSWhra3ZzX2hYakQxcVUxQUVBcmhaWnZnbw?oc=5
+- Dragon enters bear cave with $2.4 trillion lost since May peak
+  Chinese stocks have recently entered a bear market, resulting in a total loss of $2.4 trillion. Analysts suggest the market malaise may continue into next year without substantial policy changes.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dragon-enters-bear-cave-with-2-4-trillion-lost-since-may-peak/articleshow/135131775.cms
 
-- Govt plans colour-coded driving licence for Indians, foreigners - The Times of India
-  Govt plans colour-coded driving licence for
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU83clJxSC1pNlU3SHBvZnB5ZlM2VndqTGthYlZDN29WUl8zN3dHSENlVi12SkF5ck1MaUFvY1dQd1NLcXdBUVBCS3JPc0lXVnVRWjhxaDdjNUhMdDZEbnMxdzZZWVFmSzBaMU5xeF9RN1pHdlAzaDdYcGpTZy1ZS0NLRzlURERjaVdDcmpBZmRpMG9Yb05nVGo3TUFIZ2EtNXhLQTNRVWVBRS1iTFVRTzBLZHBwZF93X0tkd1VnSWZ5UTd2Xy1XMk1B0gHPAUFVX3lxTE5PTWd3TGN3RHFZaUl6UzNTMk1MMXg4NzBRY0hSZ2F5R1NiY0RibTFRZ1VsMjBoeU5FS1dxSzI4WlhHZ1Zxa01pZFNsSURMV0JxbUU3eVVHZGZoSW94NE5fWHpQQjM3YXJkNDZrWXYtUTZDeWdMM3A5akRwSS1XbnFnVm1ab2Z6ejVSbnZJd2lRU2d5Unlaa2NUZ3ZrSmItTkFHYnhKWmVqZ1M5MEFERE5JWnJrcmJHdmtOMHhrV3Y2dURIa0NUbmdTdmU3S2tjaw?oc=5
+- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
+  CJP protest: India 'cockroach' leaders who called on election
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
 
-- Google India, Telegram executives appear before NCPCR over CSEAM - The Times of India
-  Google India, Telegram executives appear before NCPCR
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPWExiX1RWVG15SU5jQlctMGtQa0o1aEZTd1VPX3A3dzdnamM1eFg0Z1Joa3ZrNHpIdjZpVkM1ZEdlZXZjcHI1eUsyUVNYQXVZUy0wUHpuTG85TFZuUkFJTUdPN1p1a05wcHVrNU5yWVhpVjhIQ0U3U2xKbWJ3VGNvT21RTXI0REdmMEw3WG0xOHlSU3RtWlBiZklzbS1ESTNfbmE5OU9xTUd0WW1yU1ptb2hBY0pCZ3hrOU8zWEo4ejBZRjVhTzJ0WFZBNNIB0AFBVV95cUxPZy1mdkh6MjJiX21QMnFPT3pwRDFUd216MU5hYkF1eDVFY2tLQ1JveHk4MDJLU2s1S1ZNVjV3RGFYT2RmOGtLTUQzUElEUG52dFNiYzNCS1FLaDN2cHVrVERYeHRlQUZFeV8zcW9ycWdOOUdrX0hkQURFQWFYcWR0bmg1M0NXcmJJUDZHanp0Yi1iREZzWGtLSlhia2s1T3M1Mm4tN2NTSk1PNWVnZVkzXy12SW9lSm9hN2dDd2dVa2JIVnVXcFFNVkhiTjhRdU8t?oc=5
+- Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
+  Petrol, Diesel Now Cheaper In India
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- Pirelli, Balkrishna strike India tyre production deal - Reuters
-  Pirelli, Balk
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktTcjRQdG9tQjdVMDhTcjNReENtc293VmFTZ0JNc0U5Z0V2UDI3V0lRUGd6aXRrVVFuTnNLemdfMUhCNThQdHZTWXZqMzBaMkltVHozc29hUF9kcE52cm5aUE41MUc5Z0JTN1dGRjBnS2tLakRodEEyU19wQ205TmdoRWwyRjYzb1JyVmRkVXBPZ2llcnhnRXVQdndLemxfNVE?oc=5
+- How India thwarted Pakistan’s bid to steal crucial defence data - The Hindu
+  How India thwarted Pakistan’s bid to
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVk93UmdGTXNVaW5aajBjWFljYXBZUmk2aHZLQjRPcHdXc3hDOGRSMUYxMnVmNFctbG9WdFY2T292T09nSU0yalQwWFdIREZLNDhWQnE4WlNuMjJyNXdmampYbnZKbXdVdGhTcElXZDg1ZjZfMHZwdGk4YXBkRnJyR2Flb3U5ZXBFT2hWTGdFeUpIVHVGaVR1ZXFSaHBCS29HU3BYQi1qUnhHTjJpM3FTWHVmT0lJNWhnV00zdmdBTzkxVVpMVHdnemRlR3RoZnZHQlHSAdgBQVVfeXFMUFIwSmJxbDU3bWJWdENUYmJ4T1c4WHJzU19wTUJMWHpGSUZMREFmY1dZNWhmWlRLRVV2Z2lDbEtwT2NlMWdLNDRJUFpiNllnSEgwcEw2MjlyWFpFaGNINU42c2d3VnAwel94dDQ1aG53NzN6b3hieTAzMEszUFlkdzFCLXc0cWNSM2lPaFV4cE9DU0FXODN0ZHJZTVpZRU9nQ1dIeEVrZVF1LXdZUHRtRWtFTmxYM2ExV0ZaWDloNnBMR29JMFY2ZzlVZHVmRmZOc1lFaHljWk5a?oc=5
 
-- BJP Targets Congress After Report Claims French Riots, Indian Protests Link - NDTV
-  A report claims French Riots, Indian Prot
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVFFkNWNwN3hqUEdPWERSRTdZRlZDVFYtQkxJVl9RSFZMQjRKWHF5ck4tSFJlcWpfU0F3WHhueHNKNlB1Ukt0NHNjQndQMW9LemxCTWpXNDNTTFl4aWU2SlM1ZVA3UFVWeDhTYkxhRkszMG1GY1F0U2IzWXpUU3ZNUzRGby1yeFdaN29kWGRYb2Voa3pxTmxsSnUteTgtaE1zYlpVU1U4bXNYUjNlQ3dUXzVJYkh4RkFyc1RxTkVDaE5lWGhQS1FURHU2SXRpcTU3OHVMNHFzVGJMZ0V3UDVuZFhBMF85ZUXSAe8BQVVfeXFMTUU0cEl6T2M3cllQRmxkNmJHWHdpcDZxUXo2cFFqY1lyNThVZWFBWTZfY3lkaF9YMWc3MXlTRGQ1dkx6X1l5VUkwejFTdHNLeGJURTRCNmVPdVlNa1c5MDZtejFmTWZ3RkNOYU5EaUFHdW81VTE2eDVxSGt0aEp0azBtTDVZU2lWQ0h4ZS1zZF9pUG9ZX1Q2c2VzM2N5MVJKUVdqaGlOa1Q3Umw4WWlDTV9LMGRVdmV5QVY5cnF5U1FSZFU3YnlnN1JyZ1VHOVFNcVpZMVhEbS10clZCTE1RMzRYcndDQWEyNzY2eG9jTms?oc=5
+- RTI reveals Cabinet Secretariat sent election commissioners’ letters to CEC Gyanesh Kumar | India News - Hindustan Times
+  Cabinet Secretariat sent election commissioners’ letters to CEC
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjN0NVcxYkxvTTBOZzh6d2gwXzNuTkM3ZHRDbWdDODFQWmladEVZc0lIdjNkbjRxbHp0MGY5cG5KeFhLRks4NzRXOEhYdTBZRTByelhtOGcyUnFoWE9jLUFtSWtUdGMwMUppSmxWaHRqMnV1c0pnX0pPb0FHMTFPNjRndjlrNHlMRUUzNEo1bUsyVlA0ZHlQajg1ZU5UdkcwcTlXa2Jpd0VwbGRTUkdZcWtYcTVzakw2bi1LbnhHbmcyU1ozc1FxemN5cW42bGozOVRFSVBKZVNiNm9SWWZFYkxnOTlOd9IB6wFBVV95cUxQMUM2cXFYS2pUWWtYSmNVNW1yWGp3ZnZReXlFSHQ1dl9KUHlSYVpJUEpMek9vaXhWYm9pbzlTVERhVTROTWZFMGJ3MjY1b19salhjeFZpSk95MmFTSE5Ic2twMGdXQ3FxV0F0MVk1R2lsOEd4em1zNWNhY0FoQWRwREJrNzJiNmtIeEtrY19McGlVTjFZMEY1cWhTVDdWM19uLTZSRHBQZEY2YjdxVnBGcHhNbjktWXZMYUczeG1aQUpuSnRqazNscXhLWVpLTXhFRFVEZ1NQVG5rN0lXSkJmQ29JMUMxRmdHQ1FR?oc=5
+
+- Breaking News Live Updates: Bihar MLC polls begin for 8 seats amid tight security, 150 candidates in fray - The Times of India
+  The Times of India reports that Bihar MLC polls begin for 8 seats.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHFCVnlqazFpMHNUdnRkVDVZeUhRdWFmYk1xbzFjUDFXZDZYbmd0Nm9ndWRWRVJsak5rc3lkeXBITlRYMG5jdUFLRUxpVlJPdE1UbjBYT0FncWxNaVA3SVBsVm1XczRHNU9sOVRyTWZFNGlRUGVURWdvMEpNZFBsWnQyWGRVZE5hOTlhaXBfSDFPdDQwQmNJTUVJYV9nN3dWMXdXRUhsMHFsV21McmFYadIBtgFBVV95cUxPNTZMcHBSQzRCNy03emJ4cU10YnRKcFpUX0Y0VjJjR3VhaVRSTGpGd0xnVWlWVlJaR281RWszUUM0ak8wYV9FdFQwSFZVcDd4Q2xMc2ZkZHdlazJhdTdHcDNXQ2VyamI2M01mM0JaQ3kwVjNTZ1A1Snk2aXRLeWZxTnJFOVF6M3oybHdTQlUzLXozaEx0TGp1TS1QSldRSTQ3cjdRTXZyelBrc3FuUzZrX2xnczItZw?oc=5
 
 - eMudhra To Exit Certificate Business As Security Flaw Triggers Distrust
   Bengaluru-based cybersecurity company eMudhra, which recently found itself at the centre of a security key issue, has announced plans to improve its security.
@@ -180,45 +180,45 @@
   Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets ₹440 Cr.
   🔗 https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/
 
-- India increasingly contributing towards preventive healthcare: Union Minister - The Hindu
-  India increasingly contributing towards preventive healthcare,
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW1BdThHYnhVMVc2QktVdmg5YnNmejJ3aUtQRW5vSVl3OGhZWlNQOFJYM2Q3WmxubWRBUU9EY0ZHdkNEZldyYXlLOHVKaTl1ZmdDamZBQnhiVzVUd2NoM05uZTZ4RElnOV9GT3EwVlU0azZmZTFmVDdzcGVqREdSUk83QkF6YTdkMWR4SFlTcVlNUkFTWlNqaDl5YUhGcE5HMllpT1cxUFduT1hHNkc2MzNicDBNLXBpak5fbV9BLTNhQV9Lbmt2bllnLURvaGtmdGlBSXNQYXTSAd8BQVVfeXFMTXEySy1VRzVQcXoyX0RXMzZSdUhoNEtNd1RzMGNnNHpWNVJ2cUtxQXFLRkFDWW9wVUhCOVdsV3gzU1NqMC1WUlotVGpod3hnV3J0eExpZnpwc2ZoUGlTWkFTcTlUMlNaMjQ2S0Rxek44blJzV1RxMEFoTDQ2Zy02RTJuZDJSdzlLNk9fcXZUMlpLTWtlYWlPOUNMWVBMOXQzSHdWTVBaZUtMS2VIUThGY2dPdTdjN0o5bGhEdWlha1Bab2VmR2RVSWhra3ZzX2hYakQxcVUxQUVBcmhaWnZnbw?oc=5
+- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
+  CJP protest: India 'cockroach' leaders who called on election
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
 
-- Govt plans colour-coded driving licence for Indians, foreigners - The Times of India
-  Govt plans colour-coded driving licence for
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU83clJxSC1pNlU3SHBvZnB5ZlM2VndqTGthYlZDN29WUl8zN3dHSENlVi12SkF5ck1MaUFvY1dQd1NLcXdBUVBCS3JPc0lXVnVRWjhxaDdjNUhMdDZEbnMxdzZZWVFmSzBaMU5xeF9RN1pHdlAzaDdYcGpTZy1ZS0NLRzlURERjaVdDcmpBZmRpMG9Yb05nVGo3TUFIZ2EtNXhLQTNRVWVBRS1iTFVRTzBLZHBwZF93X0tkd1VnSWZ5UTd2Xy1XMk1B0gHPAUFVX3lxTE5PTWd3TGN3RHFZaUl6UzNTMk1MMXg4NzBRY0hSZ2F5R1NiY0RibTFRZ1VsMjBoeU5FS1dxSzI4WlhHZ1Zxa01pZFNsSURMV0JxbUU3eVVHZGZoSW94NE5fWHpQQjM3YXJkNDZrWXYtUTZDeWdMM3A5akRwSS1XbnFnVm1ab2Z6ejVSbnZJd2lRU2d5Unlaa2NUZ3ZrSmItTkFHYnhKWmVqZ1M5MEFERE5JWnJrcmJHdmtOMHhrV3Y2dURIa0NUbmdTdmU3S2tjaw?oc=5
+- Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
+  Petrol, Diesel Now Cheaper In India
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- Google India, Telegram executives appear before NCPCR over CSEAM - The Times of India
-  Google India, Telegram executives appear before NCPCR
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPWExiX1RWVG15SU5jQlctMGtQa0o1aEZTd1VPX3A3dzdnamM1eFg0Z1Joa3ZrNHpIdjZpVkM1ZEdlZXZjcHI1eUsyUVNYQXVZUy0wUHpuTG85TFZuUkFJTUdPN1p1a05wcHVrNU5yWVhpVjhIQ0U3U2xKbWJ3VGNvT21RTXI0REdmMEw3WG0xOHlSU3RtWlBiZklzbS1ESTNfbmE5OU9xTUd0WW1yU1ptb2hBY0pCZ3hrOU8zWEo4ejBZRjVhTzJ0WFZBNNIB0AFBVV95cUxPZy1mdkh6MjJiX21QMnFPT3pwRDFUd216MU5hYkF1eDVFY2tLQ1JveHk4MDJLU2s1S1ZNVjV3RGFYT2RmOGtLTUQzUElEUG52dFNiYzNCS1FLaDN2cHVrVERYeHRlQUZFeV8zcW9ycWdOOUdrX0hkQURFQWFYcWR0bmg1M0NXcmJJUDZHanp0Yi1iREZzWGtLSlhia2s1T3M1Mm4tN2NTSk1PNWVnZVkzXy12SW9lSm9hN2dDd2dVa2JIVnVXcFFNVkhiTjhRdU8t?oc=5
+- How India thwarted Pakistan’s bid to steal crucial defence data - The Hindu
+  How India thwarted Pakistan’s bid to
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVk93UmdGTXNVaW5aajBjWFljYXBZUmk2aHZLQjRPcHdXc3hDOGRSMUYxMnVmNFctbG9WdFY2T292T09nSU0yalQwWFdIREZLNDhWQnE4WlNuMjJyNXdmampYbnZKbXdVdGhTcElXZDg1ZjZfMHZwdGk4YXBkRnJyR2Flb3U5ZXBFT2hWTGdFeUpIVHVGaVR1ZXFSaHBCS29HU3BYQi1qUnhHTjJpM3FTWHVmT0lJNWhnV00zdmdBTzkxVVpMVHdnemRlR3RoZnZHQlHSAdgBQVVfeXFMUFIwSmJxbDU3bWJWdENUYmJ4T1c4WHJzU19wTUJMWHpGSUZMREFmY1dZNWhmWlRLRVV2Z2lDbEtwT2NlMWdLNDRJUFpiNllnSEgwcEw2MjlyWFpFaGNINU42c2d3VnAwel94dDQ1aG53NzN6b3hieTAzMEszUFlkdzFCLXc0cWNSM2lPaFV4cE9DU0FXODN0ZHJZTVpZRU9nQ1dIeEVrZVF1LXdZUHRtRWtFTmxYM2ExV0ZaWDloNnBMR29JMFY2ZzlVZHVmRmZOc1lFaHljWk5a?oc=5
 
-- Pirelli, Balkrishna strike India tyre production deal - Reuters
-  Pirelli, Balk
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktTcjRQdG9tQjdVMDhTcjNReENtc293VmFTZ0JNc0U5Z0V2UDI3V0lRUGd6aXRrVVFuTnNLemdfMUhCNThQdHZTWXZqMzBaMkltVHozc29hUF9kcE52cm5aUE41MUc5Z0JTN1dGRjBnS2tLakRodEEyU19wQ205TmdoRWwyRjYzb1JyVmRkVXBPZ2llcnhnRXVQdndLemxfNVE?oc=5
+- RTI reveals Cabinet Secretariat sent election commissioners’ letters to CEC Gyanesh Kumar | India News - Hindustan Times
+  Cabinet Secretariat sent election commissioners’ letters to CEC
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjN0NVcxYkxvTTBOZzh6d2gwXzNuTkM3ZHRDbWdDODFQWmladEVZc0lIdjNkbjRxbHp0MGY5cG5KeFhLRks4NzRXOEhYdTBZRTByelhtOGcyUnFoWE9jLUFtSWtUdGMwMUppSmxWaHRqMnV1c0pnX0pPb0FHMTFPNjRndjlrNHlMRUUzNEo1bUsyVlA0ZHlQajg1ZU5UdkcwcTlXa2Jpd0VwbGRTUkdZcWtYcTVzakw2bi1LbnhHbmcyU1ozc1FxemN5cW42bGozOVRFSVBKZVNiNm9SWWZFYkxnOTlOd9IB6wFBVV95cUxQMUM2cXFYS2pUWWtYSmNVNW1yWGp3ZnZReXlFSHQ1dl9KUHlSYVpJUEpMek9vaXhWYm9pbzlTVERhVTROTWZFMGJ3MjY1b19salhjeFZpSk95MmFTSE5Ic2twMGdXQ3FxV0F0MVk1R2lsOEd4em1zNWNhY0FoQWRwREJrNzJiNmtIeEtrY19McGlVTjFZMEY1cWhTVDdWM19uLTZSRHBQZEY2YjdxVnBGcHhNbjktWXZMYUczeG1aQUpuSnRqazNscXhLWVpLTXhFRFVEZ1NQVG5rN0lXSkJmQ29JMUMxRmdHQ1FR?oc=5
 
-- BJP Targets Congress After Report Claims French Riots, Indian Protests Link - NDTV
-  A report claims French Riots, Indian Prot
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVFFkNWNwN3hqUEdPWERSRTdZRlZDVFYtQkxJVl9RSFZMQjRKWHF5ck4tSFJlcWpfU0F3WHhueHNKNlB1Ukt0NHNjQndQMW9LemxCTWpXNDNTTFl4aWU2SlM1ZVA3UFVWeDhTYkxhRkszMG1GY1F0U2IzWXpUU3ZNUzRGby1yeFdaN29kWGRYb2Voa3pxTmxsSnUteTgtaE1zYlpVU1U4bXNYUjNlQ3dUXzVJYkh4RkFyc1RxTkVDaE5lWGhQS1FURHU2SXRpcTU3OHVMNHFzVGJMZ0V3UDVuZFhBMF85ZUXSAe8BQVVfeXFMTUU0cEl6T2M3cllQRmxkNmJHWHdpcDZxUXo2cFFqY1lyNThVZWFBWTZfY3lkaF9YMWc3MXlTRGQ1dkx6X1l5VUkwejFTdHNLeGJURTRCNmVPdVlNa1c5MDZtejFmTWZ3RkNOYU5EaUFHdW81VTE2eDVxSGt0aEp0azBtTDVZU2lWQ0h4ZS1zZF9pUG9ZX1Q2c2VzM2N5MVJKUVdqaGlOa1Q3Umw4WWlDTV9LMGRVdmV5QVY5cnF5U1FSZFU3YnlnN1JyZ1VHOVFNcVpZMVhEbS10clZCTE1RMzRYcndDQWEyNzY2eG9jTms?oc=5
+- Breaking News Live Updates: Bihar MLC polls begin for 8 seats amid tight security, 150 candidates in fray - The Times of India
+  The Times of India reports that Bihar MLC polls begin for 8 seats.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHFCVnlqazFpMHNUdnRkVDVZeUhRdWFmYk1xbzFjUDFXZDZYbmd0Nm9ndWRWRVJsak5rc3lkeXBITlRYMG5jdUFLRUxpVlJPdE1UbjBYT0FncWxNaVA3SVBsVm1XczRHNU9sOVRyTWZFNGlRUGVURWdvMEpNZFBsWnQyWGRVZE5hOTlhaXBfSDFPdDQwQmNJTUVJYV9nN3dWMXdXRUhsMHFsV21McmFYadIBtgFBVV95cUxPNTZMcHBSQzRCNy03emJ4cU10YnRKcFpUX0Y0VjJjR3VhaVRSTGpGd0xnVWlWVlJaR281RWszUUM0ak8wYV9FdFQwSFZVcDd4Q2xMc2ZkZHdlazJhdTdHcDNXQ2VyamI2M01mM0JaQ3kwVjNTZ1A1Snk2aXRLeWZxTnJFOVF6M3oybHdTQlUzLXozaEx0TGp1TS1QSldRSTQ3cjdRTXZyelBrc3FuUzZrX2xnczItZw?oc=5
 
-- India increasingly contributing towards preventive healthcare: Union Minister - The Hindu
-  India increasingly contributing towards preventive healthcare,
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQW1BdThHYnhVMVc2QktVdmg5YnNmejJ3aUtQRW5vSVl3OGhZWlNQOFJYM2Q3WmxubWRBUU9EY0ZHdkNEZldyYXlLOHVKaTl1ZmdDamZBQnhiVzVUd2NoM05uZTZ4RElnOV9GT3EwVlU0azZmZTFmVDdzcGVqREdSUk83QkF6YTdkMWR4SFlTcVlNUkFTWlNqaDl5YUhGcE5HMllpT1cxUFduT1hHNkc2MzNicDBNLXBpak5fbV9BLTNhQV9Lbmt2bllnLURvaGtmdGlBSXNQYXTSAd8BQVVfeXFMTXEySy1VRzVQcXoyX0RXMzZSdUhoNEtNd1RzMGNnNHpWNVJ2cUtxQXFLRkFDWW9wVUhCOVdsV3gzU1NqMC1WUlotVGpod3hnV3J0eExpZnpwc2ZoUGlTWkFTcTlUMlNaMjQ2S0Rxek44blJzV1RxMEFoTDQ2Zy02RTJuZDJSdzlLNk9fcXZUMlpLTWtlYWlPOUNMWVBMOXQzSHdWTVBaZUtMS2VIUThGY2dPdTdjN0o5bGhEdWlha1Bab2VmR2RVSWhra3ZzX2hYakQxcVUxQUVBcmhaWnZnbw?oc=5
+- CJP protest: India 'cockroach' leaders who called on election chief to quit are freed from jail - BBC
+  CJP protest: India 'cockroach' leaders who called on election
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Z0ZBZzRfaW9NRVpWc2IweTIydjBfMzdEbndtWVVoRW1nZnhDczgzNzBQc2YzWWk4Y3A4UXVfOVFSc3ZXM1luR0JfeDBnTmJWN1dKaHRBdHNIQXc?oc=5
 
-- Govt plans colour-coded driving licence for Indians, foreigners - The Times of India
-  Govt plans colour-coded driving licence for
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU83clJxSC1pNlU3SHBvZnB5ZlM2VndqTGthYlZDN29WUl8zN3dHSENlVi12SkF5ck1MaUFvY1dQd1NLcXdBUVBCS3JPc0lXVnVRWjhxaDdjNUhMdDZEbnMxdzZZWVFmSzBaMU5xeF9RN1pHdlAzaDdYcGpTZy1ZS0NLRzlURERjaVdDcmpBZmRpMG9Yb05nVGo3TUFIZ2EtNXhLQTNRVWVBRS1iTFVRTzBLZHBwZF93X0tkd1VnSWZ5UTd2Xy1XMk1B0gHPAUFVX3lxTE5PTWd3TGN3RHFZaUl6UzNTMk1MMXg4NzBRY0hSZ2F5R1NiY0RibTFRZ1VsMjBoeU5FS1dxSzI4WlhHZ1Zxa01pZFNsSURMV0JxbUU3eVVHZGZoSW94NE5fWHpQQjM3YXJkNDZrWXYtUTZDeWdMM3A5akRwSS1XbnFnVm1ab2Z6ejVSbnZJd2lRU2d5Unlaa2NUZ3ZrSmItTkFHYnhKWmVqZ1M5MEFERE5JWnJrcmJHdmtOMHhrV3Y2dURIa0NUbmdTdmU3S2tjaw?oc=5
+- Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
+  Petrol, Diesel Now Cheaper In India
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- Google India, Telegram executives appear before NCPCR over CSEAM - The Times of India
-  Google India, Telegram executives appear before NCPCR
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPWExiX1RWVG15SU5jQlctMGtQa0o1aEZTd1VPX3A3dzdnamM1eFg0Z1Joa3ZrNHpIdjZpVkM1ZEdlZXZjcHI1eUsyUVNYQXVZUy0wUHpuTG85TFZuUkFJTUdPN1p1a05wcHVrNU5yWVhpVjhIQ0U3U2xKbWJ3VGNvT21RTXI0REdmMEw3WG0xOHlSU3RtWlBiZklzbS1ESTNfbmE5OU9xTUd0WW1yU1ptb2hBY0pCZ3hrOU8zWEo4ejBZRjVhTzJ0WFZBNNIB0AFBVV95cUxPZy1mdkh6MjJiX21QMnFPT3pwRDFUd216MU5hYkF1eDVFY2tLQ1JveHk4MDJLU2s1S1ZNVjV3RGFYT2RmOGtLTUQzUElEUG52dFNiYzNCS1FLaDN2cHVrVERYeHRlQUZFeV8zcW9ycWdOOUdrX0hkQURFQWFYcWR0bmg1M0NXcmJJUDZHanp0Yi1iREZzWGtLSlhia2s1T3M1Mm4tN2NTSk1PNWVnZVkzXy12SW9lSm9hN2dDd2dVa2JIVnVXcFFNVkhiTjhRdU8t?oc=5
+- How India thwarted Pakistan’s bid to steal crucial defence data - The Hindu
+  How India thwarted Pakistan’s bid to
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVk93UmdGTXNVaW5aajBjWFljYXBZUmk2aHZLQjRPcHdXc3hDOGRSMUYxMnVmNFctbG9WdFY2T292T09nSU0yalQwWFdIREZLNDhWQnE4WlNuMjJyNXdmampYbnZKbXdVdGhTcElXZDg1ZjZfMHZwdGk4YXBkRnJyR2Flb3U5ZXBFT2hWTGdFeUpIVHVGaVR1ZXFSaHBCS29HU3BYQi1qUnhHTjJpM3FTWHVmT0lJNWhnV00zdmdBTzkxVVpMVHdnemRlR3RoZnZHQlHSAdgBQVVfeXFMUFIwSmJxbDU3bWJWdENUYmJ4T1c4WHJzU19wTUJMWHpGSUZMREFmY1dZNWhmWlRLRVV2Z2lDbEtwT2NlMWdLNDRJUFpiNllnSEgwcEw2MjlyWFpFaGNINU42c2d3VnAwel94dDQ1aG53NzN6b3hieTAzMEszUFlkdzFCLXc0cWNSM2lPaFV4cE9DU0FXODN0ZHJZTVpZRU9nQ1dIeEVrZVF1LXdZUHRtRWtFTmxYM2ExV0ZaWDloNnBMR29JMFY2ZzlVZHVmRmZOc1lFaHljWk5a?oc=5
 
-- Pirelli, Balkrishna strike India tyre production deal - Reuters
-  Pirelli, Balk
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQbktTcjRQdG9tQjdVMDhTcjNReENtc293VmFTZ0JNc0U5Z0V2UDI3V0lRUGd6aXRrVVFuTnNLemdfMUhCNThQdHZTWXZqMzBaMkltVHozc29hUF9kcE52cm5aUE41MUc5Z0JTN1dGRjBnS2tLakRodEEyU19wQ205TmdoRWwyRjYzb1JyVmRkVXBPZ2llcnhnRXVQdndLemxfNVE?oc=5
+- RTI reveals Cabinet Secretariat sent election commissioners’ letters to CEC Gyanesh Kumar | India News - Hindustan Times
+  Cabinet Secretariat sent election commissioners’ letters to CEC
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjN0NVcxYkxvTTBOZzh6d2gwXzNuTkM3ZHRDbWdDODFQWmladEVZc0lIdjNkbjRxbHp0MGY5cG5KeFhLRks4NzRXOEhYdTBZRTByelhtOGcyUnFoWE9jLUFtSWtUdGMwMUppSmxWaHRqMnV1c0pnX0pPb0FHMTFPNjRndjlrNHlMRUUzNEo1bUsyVlA0ZHlQajg1ZU5UdkcwcTlXa2Jpd0VwbGRTUkdZcWtYcTVzakw2bi1LbnhHbmcyU1ozc1FxemN5cW42bGozOVRFSVBKZVNiNm9SWWZFYkxnOTlOd9IB6wFBVV95cUxQMUM2cXFYS2pUWWtYSmNVNW1yWGp3ZnZReXlFSHQ1dl9KUHlSYVpJUEpMek9vaXhWYm9pbzlTVERhVTROTWZFMGJ3MjY1b19salhjeFZpSk95MmFTSE5Ic2twMGdXQ3FxV0F0MVk1R2lsOEd4em1zNWNhY0FoQWRwREJrNzJiNmtIeEtrY19McGlVTjFZMEY1cWhTVDdWM19uLTZSRHBQZEY2YjdxVnBGcHhNbjktWXZMYUczeG1aQUpuSnRqazNscXhLWVpLTXhFRFVEZ1NQVG5rN0lXSkJmQ29JMUMxRmdHQ1FR?oc=5
 
-- BJP Targets Congress After Report Claims French Riots, Indian Protests Link - NDTV
-  A report claims French Riots, Indian Prot
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVFFkNWNwN3hqUEdPWERSRTdZRlZDVFYtQkxJVl9RSFZMQjRKWHF5ck4tSFJlcWpfU0F3WHhueHNKNlB1Ukt0NHNjQndQMW9LemxCTWpXNDNTTFl4aWU2SlM1ZVA3UFVWeDhTYkxhRkszMG1GY1F0U2IzWXpUU3ZNUzRGby1yeFdaN29kWGRYb2Voa3pxTmxsSnUteTgtaE1zYlpVU1U4bXNYUjNlQ3dUXzVJYkh4RkFyc1RxTkVDaE5lWGhQS1FURHU2SXRpcTU3OHVMNHFzVGJMZ0V3UDVuZFhBMF85ZUXSAe8BQVVfeXFMTUU0cEl6T2M3cllQRmxkNmJHWHdpcDZxUXo2cFFqY1lyNThVZWFBWTZfY3lkaF9YMWc3MXlTRGQ1dkx6X1l5VUkwejFTdHNLeGJURTRCNmVPdVlNa1c5MDZtejFmTWZ3RkNOYU5EaUFHdW81VTE2eDVxSGt0aEp0azBtTDVZU2lWQ0h4ZS1zZF9pUG9ZX1Q2c2VzM2N5MVJKUVdqaGlOa1Q3Umw4WWlDTV9LMGRVdmV5QVY5cnF5U1FSZFU3YnlnN1JyZ1VHOVFNcVpZMVhEbS10clZCTE1RMzRYcndDQWEyNzY2eG9jTms?oc=5
+- Breaking News Live Updates: Bihar MLC polls begin for 8 seats amid tight security, 150 candidates in fray - The Times of India
+  The Times of India reports that Bihar MLC polls begin for 8 seats.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHFCVnlqazFpMHNUdnRkVDVZeUhRdWFmYk1xbzFjUDFXZDZYbmd0Nm9ndWRWRVJsak5rc3lkeXBITlRYMG5jdUFLRUxpVlJPdE1UbjBYT0FncWxNaVA3SVBsVm1XczRHNU9sOVRyTWZFNGlRUGVURWdvMEpNZFBsWnQyWGRVZE5hOTlhaXBfSDFPdDQwQmNJTUVJYV9nN3dWMXdXRUhsMHFsV21McmFYadIBtgFBVV95cUxPNTZMcHBSQzRCNy03emJ4cU10YnRKcFpUX0Y0VjJjR3VhaVRSTGpGd0xnVWlWVlJaR281RWszUUM0ak8wYV9FdFQwSFZVcDd4Q2xMc2ZkZHdlazJhdTdHcDNXQ2VyamI2M01mM0JaQ3kwVjNTZ1A1Snk2aXRLeWZxTnJFOVF6M3oybHdTQlUzLXozaEx0TGp1TS1QSldRSTQ3cjdRTXZyelBrc3FuUzZrX2xnczItZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-22 21:10:59 UTC_
+_Last updated: 2026-10-23 03:01:39 UTC_
