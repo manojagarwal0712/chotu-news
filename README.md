@@ -8,37 +8,45 @@
   Petrol, Diesel Now Cheaper In India
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- India at Asian Para Games: India finish in Aichi-Nagoya with record 114-medal haul - ESPN India
-  India finish in Aichi-Nagoya with record 114
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVmw4YlB2QmZBVC1qNW1qUjMtVF9laWxfeTI2M1hDTFh0STRQQ2NVeFNCR1BDRzNSY3ZSMDRRZTl4RUotSl9WWW1ET2E0ZXFVWkZzMnIwSlJycHAyYlZOdjQ3bWp3ckw4aUlZb21kSXJWbjkyOVNvY3dzOERmek9WamtSSEQ0eGdIMURZVm5ZNTB0UmF6cW02YWFEQVJuYW82cll2bnotYzl2aWZaUWR6ZVJOYnd2WHFtZXYtTFZzNy1RRTU1MWdNZnNpX1JCajBQN3czVWNkVEwwemJPaXBHV3hTdVRQOGExNi1HUTMycFhmbHpKd2Nz?oc=5
+- FBI detains gangster Himanshu Bhau, India may get custody soon - The Times of India
+  FBI detains gangster Himanshu Bhau,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNelF5TmRLTGowSEpmbDYyZkRKRmhrdGVyTExwYjJoUUZGS1BvY290VkotNFZoM3RTNDd5ME5vcldrci01VUdGWjUwcWdaN29wbXlRbFl4MFMtSVJiRXJIdGdjN3Y2em1FckxRSkYtMDZWekl5b2F2VlI1UFpOVnFHUHZySGJNcXFvUGZBajVTcXVDeFphYV9RWjR2WmNHNlpTY3BZUFVKb25qN2ZadWxRblh4RThNME5IYThsbGUzVUpZTzAwOW9NWVF4MDIzWnfSAdQBQVVfeXFMTVFHOVRwMEVmSXJpdmY3SDkyZlFRVS1XNkgxZHVhS1pRTUthY0kwcW4xeEp0Z1JNVERNLVRMeWEydFlJTTdfYnVDakxNbnFEVE5ILUFaaGphYzhpZVd0ZVZ0UV83cmVXN2JsNWJKRjRxeWhGdV9ubFlSdkZCWGZsY0RlbkJlTWt5RTZFSjlzX29mYVZxelU5U0FwWDVrMm9DMnNMU0pSR09CeGowSlR6S0sxNnpQZG1nR2t0dmVMZWZLN3IyNm5jTWVHbUJwbmFuallfS2c?oc=5
 
-- India News Highlights, 22 October 2026: DMK’s Kanimozhi alleges rise in drug abuse, crimes under Vijay’s TVK government - The Indian Express
-  India News Highlights, 22 October 2026: DMK’s Kanimozhi
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNam8yaTFZal9JWHU0SllzdzJ2TzNkM1lZOGExTEktU2p4MG1JQkp4N1hjMGExYXRreS1udHByT2xRWG1yaTlfeUNHSllaUDBzSVZ3NlR3TjJ4Sm5fdFF1cm5yd0xrUENSNGlpZWoyZUlXZHJkbm9ESmhTTVZzYklVRHdhNnNZcjN4T3pTRC1xX3pwVGw0N3llZ0FESFM4M21YbWZrcHJaUGxrUURESWFhNy00QWxockHSAb4BQVVfeXFMTlpwVEtmaDJuZ3pLa2FlVW5qcWI4TU12MUpsUVhOUVhyMnhfZGJLcHFCa2w2aFE1N1c4QVNRakU3TG5LWi01MjhkaUxrM3VHb2h3QVVBc2Zaa1dqN2MwU09UVGJkNnFDTWQ5VWxmNjZGVm1fMGIzMmFLYWpyNlpOMHR1elBJR1NvbEYyRE40a0V0dHFsYTdtV0t2eDJ4bFJoRnRIbFpfa2tfSHQ3WVFPU25LOTM3Q1JQWkNsT2xnZw?oc=5
+- Gangster Himanshu Bhau, Wanted In India For Multiple Murders, Arrested In US - NDTV
+  Gangster Himanshu Bhau, Wanted
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGthbDhKZ2NKMkN0NlQyRGdHRGJPQWFKTkZhcUJrQWd4MmdYeUljOVU3WW1wcjRTa3dHQTB2QXlCWWhrdlZmMWswTHRaTVZGd19uLVhPRnUtbXNTMG5FSndFdTdfS2VmRFpfek11ZjA3cTlLRHdfV3NQazB2bnRHRTBub2liU3I0czJUSlBDX1lNRnZDTUVTb2NNRHdWWVdKcEFndzVaRDFIVTJ6MGNGX3BuQzhNQdIBvgFBVV95cUxNdlpzMWV2anZ6YWJjS1FiZ0RBYTlVWXlZR3pYR21HN0s0eTN3WVZJaVVGdmVrQUdtOVJsSVlUOEJDZ0JWajdQOHRCR01wZzZTbmFpaGlyZWlnVkdSQnh5UzRUVkFPVlFVMlRiUmd5bXMxNTlIcHBaVzdONnd4eU42WFNTYlJkY2tzSE9aLW9ldC1ZN05BRW9iNFgzNlFrM1NIZjBEWFlJMVV4Tm9BYUE5ckNKVlNfUTVsNHlTUHFR?oc=5
 
-- Ambani's record Jio Indian IPO subscribed over five times as demand surges - Reuters
-  Ambani's record Jio Indian IPO subscribed over
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXRBTGhtenZpM1ZROFA5dGhIQVdPUzhQRkFJaldfZXNNT2VYRExqeVJRSkROVG1xWHRTOTM1Zk1kRWtudERNSExvNnhmbFZKWnZRaVZBMV9iSzBFU3FkTGFYX2FzeEZvY0pENjdrdmVvcHF5RzEwcklOaHdZdFprVnRwOUsxSFJwWFBzekpId01Vd3M4QTgxYklnUVJERUFocWdkNFBFUmlBUUE?oc=5
+- Wanted gangster Himanshu Bhau in US immigration custody, faces multiple murder cases in India | India News - Hindustan Times
+  Wanted gangster Himanshu Bhau in US immigration custody, faces multiple
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVdmSzl1NmN6c0ZURjVCN0xlZzRlUWRTQ3BFZ3V5Tk5CT3dpZmViTzlRRm5QU25wTURaZFBEU251YTByS1BLVC1MLWFBOHZpbF9UV3ZNOEJmRXF5MzdvRkdVMy1qXzBBdkZ1ZHRZemNWc2laaHdfeV9EdUtQckJYREJiTS1aMGNRMGNhLXNIUVpYdVJmb0VmZFJOa3Nkbkc4VFdyMlhXUzdIVXNCUVRNaDNLMlZHOGh1RVpZUWVqRzNpTnlSZlZrV0phTHNaNkNYX3dqMTF0WmFSaTTSAeABQVVfeXFMT0V0eXVmZTVnMVJ2b3RGSlN4S2xGMTNUTGJNbTNodkRzSEM4ekRTUl9kOVluMk5QQWZsZmlaOG1Rd2pVT204S0lGTnpPMzU5dlptdmRvSHN0dUlWSTVGTWJvVHhFcUdrS2pJZW9wdXZyaW1RQlFhSkFTTDJra2s3cl91VWlWaFM3TjFZbGF5cTNyTWI5eGwtMmx0UlQ1bzJabXpYZklOQTFUblRJdnhXY2pRT2ZGbE1FbHhNcG1ub3pYRFNkaVJGSFRLR1ZrdU1obUoxcEo4VkZOTWNocmNzem4?oc=5
 
-- Gartner’s Top 10 Strategic Technology Trends For 2027 - Forbes
-  Gartner's Top 10
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQTTJpRl8tRGNMS1FMMXJpbC05SHhhVXVGNjlDQTQ1RXg0OFdUeDAtMngxWExCU21SNFcyTFNKY2JfNDlMS1pSaUY3Y3JIUFRlenR6QXUtTWRyR0tNa0xISXk4NVRIelRVQ18tRTZDeGZleUJpSFdabjRYUVhnQkpIYU55S0RwZ0lIek9pWVl1WHY3QWlLOVJnZy1yeVZ5Mi0xMk9PdWdR?oc=5
-
-- The Indian workers filming their work to train AI - BBC
-  The Indian workers filming their work to
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNk95ZEY2aXFiY2RkcU5lM2h0R3RaVDdNS3dkZ1BQdkNWcnJUb2RyYWlZWXgteE0tVDVZVGpyTFB4YTNmYWNzckV3ZTU2UWUzXzlaWnRwSE92V2s?oc=5
-
-- ‘If Anything Happens to This Guy … Everyone Is Screwed’ - The Atlantic
-  ‘If Anything Happens to This Guy
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxONGR0ZG9obWNHcXpYWFItX2Rrck8yMmVRZW1vd2lERlZPYnFiZDk3d0ZsdzJ5dEtCSnd6OWJwbjZfYUNrZ3RqM0NZR29JYTdBdGlnTjI0RDJjUXBXV2oyVy1nT0t4SnNjM0J1MXVaZ21uTklod1FtTmZlMTkxUEh3NS1OR2ktaVpGOUdTTlRIZ19sczRJaEx3TXdnTQ?oc=5
+- Top Strategic Technology Trends for 2027 - Gartner
+  Top Strategic Technology Trends
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMGNNN1p0UTdtOXV0U3RoU2JvSGlYUXpQYTZIeEFvcHZGZVpiazBjZ2UyZ0ZhVzZ6NUl3c3Y3LTdCWUVfYVd1YnZuMFdtVElGcHlsR3IwM1BnYXBQNGZueEdldUZJOWM0UnRTQ3Y0WQ?oc=5
 
 - Barclays boss tells staff ‘we cannot stand in the way of technology’ - TheBanker.com
   Barclays boss tells staff ‘we cannot
   🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZnJESnVHYXNXTFI0S1dmNGZxazFVTkl1SzdCWU80TWFvYWZkaDJmOGkzcldQb08tY095Wm9fOWMxaDNUMm80OVJFZFRsOXAyLXNnbW05RVJfQW1Vbk83Z1RibkJNUExQVlhaYTZYS3QyYnRHMmExeHZn?oc=5
 
+- The Indian workers filming their work to train AI - BBC
+  The Indian workers filming their work to
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNk95ZEY2aXFiY2RkcU5lM2h0R3RaVDdNS3dkZ1BQdkNWcnJUb2RyYWlZWXgteE0tVDVZVGpyTFB4YTNmYWNzckV3ZTU2UWUzXzlaWnRwSE92V2s?oc=5
+
+- New 'Scentronic' technology can detect and transmit aromas remotely - Reuters
+  New 'Scentronic' technology
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmZBLTd5bVRsTzROWmxobU5nZXowczBOamVXUFVyWVd0TkpUb3NXSzUxVWplaHBzVEtVTlhjVDFlME40eHNxeDliNElDSkQtZ3l5YnRndjhuZ3ZLbEtlbmhsWjhwRzV5d0dCb1FGZlRaak9BbU9qaENXV181djB0ZEd0UjVrVXpBNkZGZUR0OEctbDYzX0VOOEVNWk54VHVIcE5lX1FwMF8?oc=5
+
 - ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking - The Guardian
   ‘Black October’: cybersecurity experts sound the alarm
   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPTG5XNmRIZVQwZ0hvdmQydjE2elRuNlBscUNJRnhyTWpuUHh1SmlVeGxqRE1HQjJVT3RPTFpaUGZoWUQyOEhYS2JPdUdoeWt2d0pkeUVtbkpSRHpvOVJhMFdkQWdHTi12elp2aldCQTlYMUV4NHpNU0VtM3RoaG4xVkRPdW1YQjhNX2pXYXh0RzhzOWFZSkZPNA?oc=5
+
+- SpaceX’s $40 billion AI debt plan faces market turmoil. Can investors stomach the growing borrowing risks?
+  SpaceX’s efforts to finalize a $40 billion off-balance-sheet debt structure have been roiled by recent market
+  🔗 https://www.livemint.com/companies/news/spacexs-40-billion-ai-debt-plan-faces-market-turmoil-can-investors-stomach-the-growing-borrowing-risks-11792809682686.html
+
+- Trinidad and Tobago in talks with ONGC Videsh, Oil India to refine Venezuelan crude
+  The Caribbean government has proposed that the two Indian oil companies process crude from neighbouring Venezuela at the Guaracara refinery in Pointe-à-Pierre
+  🔗 https://www.livemint.com/companies/news/trinidad-and-tobago-in-talks-with-ongc-videsh-oil-india-to-refine-venezuelan-crude-11792749605379.html
 
 - IRDAI to examine LIC agents’ demands as LIAFI opposes key distribution reforms ahead of October 25 deadline
   The feedback window closing on October 25 will show how far IRDAI is willing to adjust commission levels, disclosure rules, and clawback provisions
@@ -52,73 +60,57 @@
   American Express plans to cut about 3,500 jobs, roughly 5% of its global workforce. The announcement came alongside stronger third-quarter results and an upgraded
   🔗 https://www.livemint.com/companies/news/american-express-layoffs-78-000-employees-in-firm-the-move-will-affect-about-3-500-jobs-heres-what-amex-plans-to-do-11792772705662.html
 
-- Bajaj General Insurance appoints former Manappuram head Deepak Reddy as CEO-designate
-  Bajaj General Insurance has named Deepak Reddy, former CEO of Manapp
-  🔗 https://www.livemint.com/companies/bajaj-general-insurance-appoints-former-manappuram-head-deepak-reddy-as-ceodesignate-11792762378218.html
+- Five Indian stocks offering dividend yields up to 10%
+  One-off special payouts, corporate demergers, and unsustainable payout ratios mean investors must look beyond headline numbers before buying in
+  🔗 https://www.livemint.com/market/stock-market-news/five-indian-stocks-offering-dividend-yields-up-to-10-11792769464534.html
 
-- Shree Cement profit slips as fuel, power bill climbs
-  UltraTech also saw fuel and freight costs eat into its profitability. The market leader was able to manage the cost burden better due to its higher scale and
-  🔗 https://www.livemint.com/companies/company-results/shree-cement-profit-slips-as-fuel-power-bill-climbs-11792764587834.html
+- Top 3 stocks to buy: Eternal, Apollo Hospitals, Maruti Suzuki by Sumeet Bagadia | Target price, stoploss, market outlook
+  Sumeet Bagadia of Choice Broking believes the technical chart of the Nifty 50 index hints at persistent selling
+  🔗 https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-eternal-apollo-hospitals-maruti-suzuki-by-sumeet-bagadia-target-price-stoploss-market-outlook-11792770013676.html
 
-- Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors - CNBC
-  Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors. Nasdaq, S&amp;P 500 Log Weekly Losses.
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5
+- Mother of all IPOs! Jio Platforms shatters many existing records - Full list here
+  Jio Platforms’  ₹30,188-crore IPO became India’s largest. Strong demand across retail and institutional investors set records.
+  🔗 https://www.livemint.com/market/stock-market-news/mother-of-all-ipos-jio-platforms-shatters-many-existing-records-full-list-here-11792775064634.html
 
-- Apple is set to take back the market-cap crown from Nvidia. Upcoming earnings may push it over the top - CNBC
-  Apple is set to take back the market-cap crown from Nvidia. Upcoming earnings
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTFByaFdDRmtwUndpQXR1UjI4aFB5Z0FtTDRJZFV5ZlhDOFhZTk5lbktlVFFqdDlGLU5wX2p6WGhlM1g2YXdmNmIzS0Ffb09UWWJQVkJKQnNSbGhFVkdqNFBYM0o5aWNSU3dDNkhoUXZsdzFzU19QeWlnNw?oc=5
+- IPO Subscription status comparison: Reliance Jio IPO vs Hyundai IPO vs NSE IPO - Who won the race?
+  Reliance Jio Platforms’ IPO closed with 22.19 times subscription, led by strong institutional demand at 70.55
+  🔗 https://www.livemint.com/market/stock-market-news/ipo-subscription-status-comparison-reliance-jio-ipo-vs-hyundai-ipo-vs-nse-ipo-who-won-the-race-11792769886858.html
 
-- AI compute is the new oil—and needs a new market - The Economist
-  AI compute is the new oil—and needs
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUhHRFFrMnJhNlZkUFZSYjFieG9taHRHcTJITmlldHBrZTROSXNWRmhidVVUbFZsU1lncXk4c29aMVZMM3JSc3RHeDdaejFaQ2JnMlJnYlZab3MzT3NDMktsc1JmN0NJU0ZGMVEtOW13RmZ5c2lMQmJNVFZpckIyanFiQXh6cTZZYzJOSF9SSDRYTlZnQngtbFNsYzhTTk4zeDQ5T3BUZ19NUFk?oc=5
+- Sebi bars Avadhut Sathe, academy from markets, imposes  ₹11.5 crore penalty
+  The market regulator directed ASTAPL and its founder Avadhut Dinkar Sathe to disgorge and refund  ₹546.17
+  🔗 https://www.livemint.com/market/sebi-bars-avadhut-sathe-academy-from-markets-imposes-11-5-crore-penalty-11792771771945.html
 
-- GLP-1 boom in China, India, Brazil could create $22 bln market by 2035, J.P. Morgan says - Reuters
-  GLP-1 boom in China, India, Brazil could create $
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSW50UXhIb0ltNzNLV2piN1NQWGlud3p2YWJSMFZGYXE1NjRiSUY5SDdDQmI5UU9rVVBEWjhHWjZFckhKc2luSHhzTE5pSmJudVZmMXUtOG1PSE9XbTZTUVpaZWF1dkQ2R01BMTN3NnFNUmw3cWozalZRS0ZVcnJKOE1abXB5RnFUX1F1RlRoMGNxQW5BWmczbWhNTEQtcXNCTVNrR1pqV2RxRVVaRlZROWtpV28zUUZXTW9Odl9RMnFnQjZfcG1KRklZaWZJSnhQdlFPbGdKT0pUek1DVXpIWTNsWkNKdw?oc=5
+- HMD 2660 Flip Senior Edition with AI Companion: What it offers specifically for senior citizens
+   AI companion Mary is available around the clock and can discuss topics such as history and nature, share stories, answer
+  🔗 https://www.livemint.com/technology/hmd-2660-flip-senior-edition-with-ai-companion-what-it-offers-specifically-for-senior-citizens-11792779678315.html
 
-- Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com
-  Market snaps 2-week gains; Nifty at 22
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOenRIUzBEZWc5czZJbDVnRW1IUl9VMzZLR0JFTWh1Mi1SS1J2aV8xZjhVUEd3Q18weFBpUWpQSG92Q0tjcnRsZS1icXJ1UXpLVl8wZUlrT3N3NkZmc09oczhwbl83U3BTa0R3QzBOc3VLd2RvaU1OMFZqbXI5eXhvRnd3RzBlVTdiVEFVaU1NNjhCajJXYjhpX3VfVDRqZzQ5TTRGTllIMmVDZFNDelFjMVk3TFd6azVGZGpNMXgyUnVwdW5DRXBxLWE0a0xBdkdUckZnQTlubmk1MHd1U0JxWUcxUmxnbDZFTS1TS1VIOHBKNFlqWjRxcXRORXBDVjlObmNqQW5vZVFLcmJhaWNfSWsxYk5CMTh2OUtrTU9WTVJIYVXSAagCQVVfeXFMT2NWSEs1ZnlVQlRLLTNYRzVlUjNpRjlGSEpGY2huM3JhTUJIOWt6SDV4cmhSdndLYVNwZUJ3NlA5TXVPZHZJZ1hZS0tEdDU4c1pRTlVvUnFVTUJTN0ptVnROakxWejVGc3UwMGFyejRtMzF3SHp0YVdVZW0zeVc1dHRsRmkyZkF5VEhYdzZSMWZQNERQZjY4QlRxX2lwVVFzRmRjWnBIX09LcHFPQi0wTHFnQUp6N1FJUkdXVkxMSHB3eE5GVDhMSDBfSkJUNjVHSDNyRmk3Y3VCcTRzb1NmVWVpZEZIQTR5RDAwNGFLNFpNMkNMUDVWWjN1d2pibFFKaXhwOUpoNFhZZ0lycDlsbXlTTUJoQTRETmNmdzNxRm1YbllSbmlOdGY?oc=5
+- Vivo X500 series Europe launch on October 27: Expected camera specs, battery capacity and key features
+  The vivo X500 series is expected to focus on
+  🔗 https://www.livemint.com/technology/tech-news/vivo-x500-series-europe-launch-on-october-27-expected-camera-specs-battery-capacity-and-key-features-11792767262206.html
 
-- Gartner’s Top 10 Strategic Technology Trends For 2027 - Forbes
-  Gartner's Top 10
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQTTJpRl8tRGNMS1FMMXJpbC05SHhhVXVGNjlDQTQ1RXg0OFdUeDAtMngxWExCU21SNFcyTFNKY2JfNDlMS1pSaUY3Y3JIUFRlenR6QXUtTWRyR0tNa0xISXk4NVRIelRVQ18tRTZDeGZleUJpSFdabjRYUVhnQkpIYU55S0RwZ0lIek9pWVl1WHY3QWlLOVJnZy1yeVZ5Mi0xMk9PdWdR?oc=5
+- Apple iPhone 17 Pro price drops to  ₹72,050 on Flipkart with exchange and bank offers: Check how the deal works
+  Apple iPhone 17 Pro (256GB) is available at an effective price of  ₹72,050 on Flipkart. Buyers can get an exchange discount of   �
+  🔗 https://www.livemint.com/technology/tech-news/apple-iphone-17-pro-price-drops-to-rs-72-050-on-flipkart-with-exchange-and-bank-offers-check-how-the-deal-works-11792753671959.html
 
-- The Indian workers filming their work to train AI - BBC
-  The Indian workers filming their work to
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNk95ZEY2aXFiY2RkcU5lM2h0R3RaVDdNS3dkZ1BQdkNWcnJUb2RyYWlZWXgteE0tVDVZVGpyTFB4YTNmYWNzckV3ZTU2UWUzXzlaWnRwSE92V2s?oc=5
+- Vivo Y600 with Guinness record-holding 10,000mAh battery to launch next week: Check date, design and expected specs
+  The Vivo Y600 5G will launch in China on October 30. The smartphone reportedly achieved a Guinness World Records title after completing a continuous livestream test lasting 32 hours and 37 minutes.
+  🔗 https://www.livemint.com/technology/vivo-y600-with-guinness-record-holding-10-000mah-battery-to-launch-next-week-check-date-design-and-expected-specs-11792746104479.html
 
-- ‘If Anything Happens to This Guy … Everyone Is Screwed’ - The Atlantic
-  ‘If Anything Happens to This Guy
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxONGR0ZG9obWNHcXpYWFItX2Rrck8yMmVRZW1vd2lERlZPYnFiZDk3d0ZsdzJ5dEtCSnd6OWJwbjZfYUNrZ3RqM0NZR29JYTdBdGlnTjI0RDJjUXBXV2oyVy1nT0t4SnNjM0J1MXVaZ21uTklod1FtTmZlMTkxUEh3NS1OR2ktaVpGOUdTTlRIZ19sczRJaEx3TXdnTQ?oc=5
+- Oppo Find X10 and X10 Pro Max launched in India: Triple 200MP cameras, 8,000 mAh battery, check price
+  Oppo has launched the Find X10 and find X10 Pro Max in India. The phones feature up to three
+  🔗 https://www.livemint.com/technology/gadgets/oppo-find-x10-and-x10-pro-max-launched-in-india-triple-200mp-cameras-8-000-mah-battery-check-price-11792742409318.html
 
-- Barclays boss tells staff ‘we cannot stand in the way of technology’ - TheBanker.com
-  Barclays boss tells staff ‘we cannot
-  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZnJESnVHYXNXTFI0S1dmNGZxazFVTkl1SzdCWU80TWFvYWZkaDJmOGkzcldQb08tY095Wm9fOWMxaDNUMm80OVJFZFRsOXAyLXNnbW05RVJfQW1Vbk83Z1RibkJNUExQVlhaYTZYS3QyYnRHMmExeHZn?oc=5
+- Small and midcap indices post worst weekly decline in two years
+  Nifty MidCap 150 and Small-cap 250 indices reported their worst weekly falls in two years. Domestic retail investors initially supported these segments by increasing mutual fund contributions. Concerns over rising oil prices and fiscal deficits are adding to market uncertainties
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcap-indices-post-worst-weekly-decline-in-two-years/articleshow/135160009.cms
 
-- ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking - The Guardian
-  ‘Black October’: cybersecurity experts sound the alarm
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPTG5XNmRIZVQwZ0hvdmQydjE2elRuNlBscUNJRnhyTWpuUHh1SmlVeGxqRE1HQjJVT3RPTFpaUGZoWUQyOEhYS2JPdUdoeWt2d0pkeUVtbkpSRHpvOVJhMFdkQWdHTi12elp2aldCQTlYMUV4NHpNU0VtM3RoaG4xVkRPdW1YQjhNX2pXYXh0RzhzOWFZSkZPNA?oc=5
+- RBI net forex buys hit a record $43 billion in August, balances it with swaps
+  The Reserve Bank of India recorded a net purchase of $43.26 billion in August's foreign exchange market. This was done to manage significant dollar inflows from the FCNR(B) scheme and overseas borrowings.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-forex-buys-hit-a-record-43-billion-in-august-balances-it-with-swaps/articleshow/135159794.cms
 
-- Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors - CNBC
-  Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors. Nasdaq, S&amp;P 500 Log Weekly Losses.
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5
-
-- Apple is set to take back the market-cap crown from Nvidia. Upcoming earnings may push it over the top - CNBC
-  Apple is set to take back the market-cap crown from Nvidia. Upcoming earnings
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTFByaFdDRmtwUndpQXR1UjI4aFB5Z0FtTDRJZFV5ZlhDOFhZTk5lbktlVFFqdDlGLU5wX2p6WGhlM1g2YXdmNmIzS0Ffb09UWWJQVkJKQnNSbGhFVkdqNFBYM0o5aWNSU3dDNkhoUXZsdzFzU19QeWlnNw?oc=5
-
-- AI compute is the new oil—and needs a new market - The Economist
-  AI compute is the new oil—and needs
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUhHRFFrMnJhNlZkUFZSYjFieG9taHRHcTJITmlldHBrZTROSXNWRmhidVVUbFZsU1lncXk4c29aMVZMM3JSc3RHeDdaejFaQ2JnMlJnYlZab3MzT3NDMktsc1JmN0NJU0ZGMVEtOW13RmZ5c2lMQmJNVFZpckIyanFiQXh6cTZZYzJOSF9SSDRYTlZnQngtbFNsYzhTTk4zeDQ5T3BUZ19NUFk?oc=5
-
-- GLP-1 boom in China, India, Brazil could create $22 bln market by 2035, J.P. Morgan says - Reuters
-  GLP-1 boom in China, India, Brazil could create $
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSW50UXhIb0ltNzNLV2piN1NQWGlud3p2YWJSMFZGYXE1NjRiSUY5SDdDQmI5UU9rVVBEWjhHWjZFckhKc2luSHhzTE5pSmJudVZmMXUtOG1PSE9XbTZTUVpaZWF1dkQ2R01BMTN3NnFNUmw3cWozalZRS0ZVcnJKOE1abXB5RnFUX1F1RlRoMGNxQW5BWmczbWhNTEQtcXNCTVNrR1pqV2RxRVVaRlZROWtpV28zUUZXTW9Odl9RMnFnQjZfcG1KRklZaWZJSnhQdlFPbGdKT0pUek1DVXpIWTNsWkNKdw?oc=5
-
-- Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com
-  Market snaps 2-week gains; Nifty at 22
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOenRIUzBEZWc5czZJbDVnRW1IUl9VMzZLR0JFTWh1Mi1SS1J2aV8xZjhVUEd3Q18weFBpUWpQSG92Q0tjcnRsZS1icXJ1UXpLVl8wZUlrT3N3NkZmc09oczhwbl83U3BTa0R3QzBOc3VLd2RvaU1OMFZqbXI5eXhvRnd3RzBlVTdiVEFVaU1NNjhCajJXYjhpX3VfVDRqZzQ5TTRGTllIMmVDZFNDelFjMVk3TFd6azVGZGpNMXgyUnVwdW5DRXBxLWE0a0xBdkdUckZnQTlubmk1MHd1U0JxWUcxUmxnbDZFTS1TS1VIOHBKNFlqWjRxcXRORXBDVjlObmNqQW5vZVFLcmJhaWNfSWsxYk5CMTh2OUtrTU9WTVJIYVXSAagCQVVfeXFMT2NWSEs1ZnlVQlRLLTNYRzVlUjNpRjlGSEpGY2huM3JhTUJIOWt6SDV4cmhSdndLYVNwZUJ3NlA5TXVPZHZJZ1hZS0tEdDU4c1pRTlVvUnFVTUJTN0ptVnROakxWejVGc3UwMGFyejRtMzF3SHp0YVdVZW0zeVc1dHRsRmkyZkF5VEhYdzZSMWZQNERQZjY4QlRxX2lwVVFzRmRjWnBIX09LcHFPQi0wTHFnQUp6N1FJUkdXVkxMSHB3eE5GVDhMSDBfSkJUNjVHSDNyRmk3Y3VCcTRzb1NmVWVpZEZIQTR5RDAwNGFLNFpNMkNMUDVWWjN1d2pibFFKaXhwOUpoNFhZZ0lycDlsbXlTTUJoQTRETmNmdzNxRm1YbllSbmlOdGY?oc=5
+- iPhone Duo internal display break: Are iPhone Duo displays too fragile? Users report alarming cracks near hinge
+  Users have begun reporting instances of broken inner displays in the new iPhone Duo model. Some owners experienced damage after minimal use, with one individual reporting a crack after just six hours. Apple is currently analyzing reported cases to determine whether there is a
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/iphone-duo-internal-display-break-are-iphone-duo-displays-too-fragile-users-report-alarming-cracks-near-hinge/articleshow/135155585.cms
 
 - US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet
   The Dow fell 1.25%, while the S&amp;P 500 and Nasdaq also declined. Investors turned their focus to major earnings from Alphabet, Microsoft and Amazon.
@@ -128,18 +120,6 @@
   Tata Motors Ltd achieved a standalone net profit of ₹2,138 crore for the September quarter, reversing last year's loss. Revenue from operations rose significantly to ⁹23,930 crore, up 42% from the
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms
 
-- US data centre spending seen more than doubling to $2.1 trillion by 2028, estimates BoFA
-  Global data centre spending is expected to reach $1 trillion in 2026. It will more than double to $2.1 trillion by 2028, according to BofA Global Research. The data centre market could
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/data-centre-spending-seen-more-than-doubling-to-2-1-trillion-by-2028/articleshow/135153616.cms
-
-- US Treasury yields rise but 10-year stays below 5% as AI jitters persist
-  US Treasury yields rise after a sharp drop in the previous session. benchmark 10 year yield stays below 5% as lingering AI market concerns keep investors cautious.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-rise-but-10-year-stays-below-5-as-ai-jitters-persist/articleshow/135151795.cms
-
-- EAAA India Alternatives mops up Rs 360 crore from anchor investors; IPO opens on Oct 26
-  EAAA India Alternatives has successfully raised approximately Rs 360 crore from anchor investors prior to its IPO. This IPO is set to open for public subscription on October 26. The company will not receive any proceeds from the issue as it is an
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-mops-up-rs-360-crore-from-anchor-investors-ipo-opens-on-oct-26/articleshow/135150980.cms
-
 - Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
   Marco Rubio: Did domestic pressure make US secretary of state visit an
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
@@ -148,17 +128,17 @@
   Petrol, Diesel Now Cheaper In India
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- India at Asian Para Games: India finish in Aichi-Nagoya with record 114-medal haul - ESPN India
-  India finish in Aichi-Nagoya with record 114
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVmw4YlB2QmZBVC1qNW1qUjMtVF9laWxfeTI2M1hDTFh0STRQQ2NVeFNCR1BDRzNSY3ZSMDRRZTl4RUotSl9WWW1ET2E0ZXFVWkZzMnIwSlJycHAyYlZOdjQ3bWp3ckw4aUlZb21kSXJWbjkyOVNvY3dzOERmek9WamtSSEQ0eGdIMURZVm5ZNTB0UmF6cW02YWFEQVJuYW82cll2bnotYzl2aWZaUWR6ZVJOYnd2WHFtZXYtTFZzNy1RRTU1MWdNZnNpX1JCajBQN3czVWNkVEwwemJPaXBHV3hTdVRQOGExNi1HUTMycFhmbHpKd2Nz?oc=5
+- FBI detains gangster Himanshu Bhau, India may get custody soon - The Times of India
+  FBI detains gangster Himanshu Bhau,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNelF5TmRLTGowSEpmbDYyZkRKRmhrdGVyTExwYjJoUUZGS1BvY290VkotNFZoM3RTNDd5ME5vcldrci01VUdGWjUwcWdaN29wbXlRbFl4MFMtSVJiRXJIdGdjN3Y2em1FckxRSkYtMDZWekl5b2F2VlI1UFpOVnFHUHZySGJNcXFvUGZBajVTcXVDeFphYV9RWjR2WmNHNlpTY3BZUFVKb25qN2ZadWxRblh4RThNME5IYThsbGUzVUpZTzAwOW9NWVF4MDIzWnfSAdQBQVVfeXFMTVFHOVRwMEVmSXJpdmY3SDkyZlFRVS1XNkgxZHVhS1pRTUthY0kwcW4xeEp0Z1JNVERNLVRMeWEydFlJTTdfYnVDakxNbnFEVE5ILUFaaGphYzhpZVd0ZVZ0UV83cmVXN2JsNWJKRjRxeWhGdV9ubFlSdkZCWGZsY0RlbkJlTWt5RTZFSjlzX29mYVZxelU5U0FwWDVrMm9DMnNMU0pSR09CeGowSlR6S0sxNnpQZG1nR2t0dmVMZWZLN3IyNm5jTWVHbUJwbmFuallfS2c?oc=5
 
-- India News Highlights, 22 October 2026: DMK’s Kanimozhi alleges rise in drug abuse, crimes under Vijay’s TVK government - The Indian Express
-  India News Highlights, 22 October 2026: DMK’s Kanimozhi
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNam8yaTFZal9JWHU0SllzdzJ2TzNkM1lZOGExTEktU2p4MG1JQkp4N1hjMGExYXRreS1udHByT2xRWG1yaTlfeUNHSllaUDBzSVZ3NlR3TjJ4Sm5fdFF1cm5yd0xrUENSNGlpZWoyZUlXZHJkbm9ESmhTTVZzYklVRHdhNnNZcjN4T3pTRC1xX3pwVGw0N3llZ0FESFM4M21YbWZrcHJaUGxrUURESWFhNy00QWxockHSAb4BQVVfeXFMTlpwVEtmaDJuZ3pLa2FlVW5qcWI4TU12MUpsUVhOUVhyMnhfZGJLcHFCa2w2aFE1N1c4QVNRakU3TG5LWi01MjhkaUxrM3VHb2h3QVVBc2Zaa1dqN2MwU09UVGJkNnFDTWQ5VWxmNjZGVm1fMGIzMmFLYWpyNlpOMHR1elBJR1NvbEYyRE40a0V0dHFsYTdtV0t2eDJ4bFJoRnRIbFpfa2tfSHQ3WVFPU25LOTM3Q1JQWkNsT2xnZw?oc=5
+- Gangster Himanshu Bhau, Wanted In India For Multiple Murders, Arrested In US - NDTV
+  Gangster Himanshu Bhau, Wanted
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGthbDhKZ2NKMkN0NlQyRGdHRGJPQWFKTkZhcUJrQWd4MmdYeUljOVU3WW1wcjRTa3dHQTB2QXlCWWhrdlZmMWswTHRaTVZGd19uLVhPRnUtbXNTMG5FSndFdTdfS2VmRFpfek11ZjA3cTlLRHdfV3NQazB2bnRHRTBub2liU3I0czJUSlBDX1lNRnZDTUVTb2NNRHdWWVdKcEFndzVaRDFIVTJ6MGNGX3BuQzhNQdIBvgFBVV95cUxNdlpzMWV2anZ6YWJjS1FiZ0RBYTlVWXlZR3pYR21HN0s0eTN3WVZJaVVGdmVrQUdtOVJsSVlUOEJDZ0JWajdQOHRCR01wZzZTbmFpaGlyZWlnVkdSQnh5UzRUVkFPVlFVMlRiUmd5bXMxNTlIcHBaVzdONnd4eU42WFNTYlJkY2tzSE9aLW9ldC1ZN05BRW9iNFgzNlFrM1NIZjBEWFlJMVV4Tm9BYUE5ckNKVlNfUTVsNHlTUHFR?oc=5
 
-- Ambani's record Jio Indian IPO subscribed over five times as demand surges - Reuters
-  Ambani's record Jio Indian IPO subscribed over
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXRBTGhtenZpM1ZROFA5dGhIQVdPUzhQRkFJaldfZXNNT2VYRExqeVJRSkROVG1xWHRTOTM1Zk1kRWtudERNSExvNnhmbFZKWnZRaVZBMV9iSzBFU3FkTGFYX2FzeEZvY0pENjdrdmVvcHF5RzEwcklOaHdZdFprVnRwOUsxSFJwWFBzekpId01Vd3M4QTgxYklnUVJERUFocWdkNFBFUmlBUUE?oc=5
+- Wanted gangster Himanshu Bhau in US immigration custody, faces multiple murder cases in India | India News - Hindustan Times
+  Wanted gangster Himanshu Bhau in US immigration custody, faces multiple
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVdmSzl1NmN6c0ZURjVCN0xlZzRlUWRTQ3BFZ3V5Tk5CT3dpZmViTzlRRm5QU25wTURaZFBEU251YTByS1BLVC1MLWFBOHZpbF9UV3ZNOEJmRXF5MzdvRkdVMy1qXzBBdkZ1ZHRZemNWc2laaHdfeV9EdUtQckJYREJiTS1aMGNRMGNhLXNIUVpYdVJmb0VmZFJOa3Nkbkc4VFdyMlhXUzdIVXNCUVRNaDNLMlZHOGh1RVpZUWVqRzNpTnlSZlZrV0phTHNaNkNYX3dqMTF0WmFSaTTSAeABQVVfeXFMT0V0eXVmZTVnMVJ2b3RGSlN4S2xGMTNUTGJNbTNodkRzSEM4ekRTUl9kOVluMk5QQWZsZmlaOG1Rd2pVT204S0lGTnpPMzU5dlptdmRvSHN0dUlWSTVGTWJvVHhFcUdrS2pJZW9wdXZyaW1RQlFhSkFTTDJra2s3cl91VWlWaFM3TjFZbGF5cTNyTWI5eGwtMmx0UlQ1bzJabXpYZklOQTFUblRJdnhXY2pRT2ZGbE1FbHhNcG1ub3pYRFNkaVJGSFRLR1ZrdU1obUoxcEo4VkZOTWNocmNzem4?oc=5
 
 - Festive Sales See Shoppers Log In But Hold Back On Big-Ticket Purchases
   Festive sales see Shoppers Log In, But Hold Back On Big-Ticket Purchases. A smaller number of card&#8230;;
@@ -188,17 +168,17 @@
   Petrol, Diesel Now Cheaper In India
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- India at Asian Para Games: India finish in Aichi-Nagoya with record 114-medal haul - ESPN India
-  India finish in Aichi-Nagoya with record 114
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVmw4YlB2QmZBVC1qNW1qUjMtVF9laWxfeTI2M1hDTFh0STRQQ2NVeFNCR1BDRzNSY3ZSMDRRZTl4RUotSl9WWW1ET2E0ZXFVWkZzMnIwSlJycHAyYlZOdjQ3bWp3ckw4aUlZb21kSXJWbjkyOVNvY3dzOERmek9WamtSSEQ0eGdIMURZVm5ZNTB0UmF6cW02YWFEQVJuYW82cll2bnotYzl2aWZaUWR6ZVJOYnd2WHFtZXYtTFZzNy1RRTU1MWdNZnNpX1JCajBQN3czVWNkVEwwemJPaXBHV3hTdVRQOGExNi1HUTMycFhmbHpKd2Nz?oc=5
+- FBI detains gangster Himanshu Bhau, India may get custody soon - The Times of India
+  FBI detains gangster Himanshu Bhau,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNelF5TmRLTGowSEpmbDYyZkRKRmhrdGVyTExwYjJoUUZGS1BvY290VkotNFZoM3RTNDd5ME5vcldrci01VUdGWjUwcWdaN29wbXlRbFl4MFMtSVJiRXJIdGdjN3Y2em1FckxRSkYtMDZWekl5b2F2VlI1UFpOVnFHUHZySGJNcXFvUGZBajVTcXVDeFphYV9RWjR2WmNHNlpTY3BZUFVKb25qN2ZadWxRblh4RThNME5IYThsbGUzVUpZTzAwOW9NWVF4MDIzWnfSAdQBQVVfeXFMTVFHOVRwMEVmSXJpdmY3SDkyZlFRVS1XNkgxZHVhS1pRTUthY0kwcW4xeEp0Z1JNVERNLVRMeWEydFlJTTdfYnVDakxNbnFEVE5ILUFaaGphYzhpZVd0ZVZ0UV83cmVXN2JsNWJKRjRxeWhGdV9ubFlSdkZCWGZsY0RlbkJlTWt5RTZFSjlzX29mYVZxelU5U0FwWDVrMm9DMnNMU0pSR09CeGowSlR6S0sxNnpQZG1nR2t0dmVMZWZLN3IyNm5jTWVHbUJwbmFuallfS2c?oc=5
 
-- India News Highlights, 22 October 2026: DMK’s Kanimozhi alleges rise in drug abuse, crimes under Vijay’s TVK government - The Indian Express
-  India News Highlights, 22 October 2026: DMK’s Kanimozhi
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNam8yaTFZal9JWHU0SllzdzJ2TzNkM1lZOGExTEktU2p4MG1JQkp4N1hjMGExYXRreS1udHByT2xRWG1yaTlfeUNHSllaUDBzSVZ3NlR3TjJ4Sm5fdFF1cm5yd0xrUENSNGlpZWoyZUlXZHJkbm9ESmhTTVZzYklVRHdhNnNZcjN4T3pTRC1xX3pwVGw0N3llZ0FESFM4M21YbWZrcHJaUGxrUURESWFhNy00QWxockHSAb4BQVVfeXFMTlpwVEtmaDJuZ3pLa2FlVW5qcWI4TU12MUpsUVhOUVhyMnhfZGJLcHFCa2w2aFE1N1c4QVNRakU3TG5LWi01MjhkaUxrM3VHb2h3QVVBc2Zaa1dqN2MwU09UVGJkNnFDTWQ5VWxmNjZGVm1fMGIzMmFLYWpyNlpOMHR1elBJR1NvbEYyRE40a0V0dHFsYTdtV0t2eDJ4bFJoRnRIbFpfa2tfSHQ3WVFPU25LOTM3Q1JQWkNsT2xnZw?oc=5
+- Gangster Himanshu Bhau, Wanted In India For Multiple Murders, Arrested In US - NDTV
+  Gangster Himanshu Bhau, Wanted
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGthbDhKZ2NKMkN0NlQyRGdHRGJPQWFKTkZhcUJrQWd4MmdYeUljOVU3WW1wcjRTa3dHQTB2QXlCWWhrdlZmMWswTHRaTVZGd19uLVhPRnUtbXNTMG5FSndFdTdfS2VmRFpfek11ZjA3cTlLRHdfV3NQazB2bnRHRTBub2liU3I0czJUSlBDX1lNRnZDTUVTb2NNRHdWWVdKcEFndzVaRDFIVTJ6MGNGX3BuQzhNQdIBvgFBVV95cUxNdlpzMWV2anZ6YWJjS1FiZ0RBYTlVWXlZR3pYR21HN0s0eTN3WVZJaVVGdmVrQUdtOVJsSVlUOEJDZ0JWajdQOHRCR01wZzZTbmFpaGlyZWlnVkdSQnh5UzRUVkFPVlFVMlRiUmd5bXMxNTlIcHBaVzdONnd4eU42WFNTYlJkY2tzSE9aLW9ldC1ZN05BRW9iNFgzNlFrM1NIZjBEWFlJMVV4Tm9BYUE5ckNKVlNfUTVsNHlTUHFR?oc=5
 
-- Ambani's record Jio Indian IPO subscribed over five times as demand surges - Reuters
-  Ambani's record Jio Indian IPO subscribed over
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXRBTGhtenZpM1ZROFA5dGhIQVdPUzhQRkFJaldfZXNNT2VYRExqeVJRSkROVG1xWHRTOTM1Zk1kRWtudERNSExvNnhmbFZKWnZRaVZBMV9iSzBFU3FkTGFYX2FzeEZvY0pENjdrdmVvcHF5RzEwcklOaHdZdFprVnRwOUsxSFJwWFBzekpId01Vd3M4QTgxYklnUVJERUFocWdkNFBFUmlBUUE?oc=5
+- Wanted gangster Himanshu Bhau in US immigration custody, faces multiple murder cases in India | India News - Hindustan Times
+  Wanted gangster Himanshu Bhau in US immigration custody, faces multiple
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVdmSzl1NmN6c0ZURjVCN0xlZzRlUWRTQ3BFZ3V5Tk5CT3dpZmViTzlRRm5QU25wTURaZFBEU251YTByS1BLVC1MLWFBOHZpbF9UV3ZNOEJmRXF5MzdvRkdVMy1qXzBBdkZ1ZHRZemNWc2laaHdfeV9EdUtQckJYREJiTS1aMGNRMGNhLXNIUVpYdVJmb0VmZFJOa3Nkbkc4VFdyMlhXUzdIVXNCUVRNaDNLMlZHOGh1RVpZUWVqRzNpTnlSZlZrV0phTHNaNkNYX3dqMTF0WmFSaTTSAeABQVVfeXFMT0V0eXVmZTVnMVJ2b3RGSlN4S2xGMTNUTGJNbTNodkRzSEM4ekRTUl9kOVluMk5QQWZsZmlaOG1Rd2pVT204S0lGTnpPMzU5dlptdmRvSHN0dUlWSTVGTWJvVHhFcUdrS2pJZW9wdXZyaW1RQlFhSkFTTDJra2s3cl91VWlWaFM3TjFZbGF5cTNyTWI5eGwtMmx0UlQ1bzJabXpYZklOQTFUblRJdnhXY2pRT2ZGbE1FbHhNcG1ub3pYRFNkaVJGSFRLR1ZrdU1obUoxcEo4VkZOTWNocmNzem4?oc=5
 
 - Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
   Marco Rubio: Did domestic pressure make US secretary of state visit an
@@ -208,37 +188,37 @@
   Petrol, Diesel Now Cheaper In India
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- India at Asian Para Games: India finish in Aichi-Nagoya with record 114-medal haul - ESPN India
-  India finish in Aichi-Nagoya with record 114
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVmw4YlB2QmZBVC1qNW1qUjMtVF9laWxfeTI2M1hDTFh0STRQQ2NVeFNCR1BDRzNSY3ZSMDRRZTl4RUotSl9WWW1ET2E0ZXFVWkZzMnIwSlJycHAyYlZOdjQ3bWp3ckw4aUlZb21kSXJWbjkyOVNvY3dzOERmek9WamtSSEQ0eGdIMURZVm5ZNTB0UmF6cW02YWFEQVJuYW82cll2bnotYzl2aWZaUWR6ZVJOYnd2WHFtZXYtTFZzNy1RRTU1MWdNZnNpX1JCajBQN3czVWNkVEwwemJPaXBHV3hTdVRQOGExNi1HUTMycFhmbHpKd2Nz?oc=5
+- FBI detains gangster Himanshu Bhau, India may get custody soon - The Times of India
+  FBI detains gangster Himanshu Bhau,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNelF5TmRLTGowSEpmbDYyZkRKRmhrdGVyTExwYjJoUUZGS1BvY290VkotNFZoM3RTNDd5ME5vcldrci01VUdGWjUwcWdaN29wbXlRbFl4MFMtSVJiRXJIdGdjN3Y2em1FckxRSkYtMDZWekl5b2F2VlI1UFpOVnFHUHZySGJNcXFvUGZBajVTcXVDeFphYV9RWjR2WmNHNlpTY3BZUFVKb25qN2ZadWxRblh4RThNME5IYThsbGUzVUpZTzAwOW9NWVF4MDIzWnfSAdQBQVVfeXFMTVFHOVRwMEVmSXJpdmY3SDkyZlFRVS1XNkgxZHVhS1pRTUthY0kwcW4xeEp0Z1JNVERNLVRMeWEydFlJTTdfYnVDakxNbnFEVE5ILUFaaGphYzhpZVd0ZVZ0UV83cmVXN2JsNWJKRjRxeWhGdV9ubFlSdkZCWGZsY0RlbkJlTWt5RTZFSjlzX29mYVZxelU5U0FwWDVrMm9DMnNMU0pSR09CeGowSlR6S0sxNnpQZG1nR2t0dmVMZWZLN3IyNm5jTWVHbUJwbmFuallfS2c?oc=5
 
-- India News Highlights, 22 October 2026: DMK’s Kanimozhi alleges rise in drug abuse, crimes under Vijay’s TVK government - The Indian Express
-  India News Highlights, 22 October 2026: DMK’s Kanimozhi
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNam8yaTFZal9JWHU0SllzdzJ2TzNkM1lZOGExTEktU2p4MG1JQkp4N1hjMGExYXRreS1udHByT2xRWG1yaTlfeUNHSllaUDBzSVZ3NlR3TjJ4Sm5fdFF1cm5yd0xrUENSNGlpZWoyZUlXZHJkbm9ESmhTTVZzYklVRHdhNnNZcjN4T3pTRC1xX3pwVGw0N3llZ0FESFM4M21YbWZrcHJaUGxrUURESWFhNy00QWxockHSAb4BQVVfeXFMTlpwVEtmaDJuZ3pLa2FlVW5qcWI4TU12MUpsUVhOUVhyMnhfZGJLcHFCa2w2aFE1N1c4QVNRakU3TG5LWi01MjhkaUxrM3VHb2h3QVVBc2Zaa1dqN2MwU09UVGJkNnFDTWQ5VWxmNjZGVm1fMGIzMmFLYWpyNlpOMHR1elBJR1NvbEYyRE40a0V0dHFsYTdtV0t2eDJ4bFJoRnRIbFpfa2tfSHQ3WVFPU25LOTM3Q1JQWkNsT2xnZw?oc=5
+- Gangster Himanshu Bhau, Wanted In India For Multiple Murders, Arrested In US - NDTV
+  Gangster Himanshu Bhau, Wanted
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGthbDhKZ2NKMkN0NlQyRGdHRGJPQWFKTkZhcUJrQWd4MmdYeUljOVU3WW1wcjRTa3dHQTB2QXlCWWhrdlZmMWswTHRaTVZGd19uLVhPRnUtbXNTMG5FSndFdTdfS2VmRFpfek11ZjA3cTlLRHdfV3NQazB2bnRHRTBub2liU3I0czJUSlBDX1lNRnZDTUVTb2NNRHdWWVdKcEFndzVaRDFIVTJ6MGNGX3BuQzhNQdIBvgFBVV95cUxNdlpzMWV2anZ6YWJjS1FiZ0RBYTlVWXlZR3pYR21HN0s0eTN3WVZJaVVGdmVrQUdtOVJsSVlUOEJDZ0JWajdQOHRCR01wZzZTbmFpaGlyZWlnVkdSQnh5UzRUVkFPVlFVMlRiUmd5bXMxNTlIcHBaVzdONnd4eU42WFNTYlJkY2tzSE9aLW9ldC1ZN05BRW9iNFgzNlFrM1NIZjBEWFlJMVV4Tm9BYUE5ckNKVlNfUTVsNHlTUHFR?oc=5
 
-- Ambani's record Jio Indian IPO subscribed over five times as demand surges - Reuters
-  Ambani's record Jio Indian IPO subscribed over
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXRBTGhtenZpM1ZROFA5dGhIQVdPUzhQRkFJaldfZXNNT2VYRExqeVJRSkROVG1xWHRTOTM1Zk1kRWtudERNSExvNnhmbFZKWnZRaVZBMV9iSzBFU3FkTGFYX2FzeEZvY0pENjdrdmVvcHF5RzEwcklOaHdZdFprVnRwOUsxSFJwWFBzekpId01Vd3M4QTgxYklnUVJERUFocWdkNFBFUmlBUUE?oc=5
+- Wanted gangster Himanshu Bhau in US immigration custody, faces multiple murder cases in India | India News - Hindustan Times
+  Wanted gangster Himanshu Bhau in US immigration custody, faces multiple
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVdmSzl1NmN6c0ZURjVCN0xlZzRlUWRTQ3BFZ3V5Tk5CT3dpZmViTzlRRm5QU25wTURaZFBEU251YTByS1BLVC1MLWFBOHZpbF9UV3ZNOEJmRXF5MzdvRkdVMy1qXzBBdkZ1ZHRZemNWc2laaHdfeV9EdUtQckJYREJiTS1aMGNRMGNhLXNIUVpYdVJmb0VmZFJOa3Nkbkc4VFdyMlhXUzdIVXNCUVRNaDNLMlZHOGh1RVpZUWVqRzNpTnlSZlZrV0phTHNaNkNYX3dqMTF0WmFSaTTSAeABQVVfeXFMT0V0eXVmZTVnMVJ2b3RGSlN4S2xGMTNUTGJNbTNodkRzSEM4ekRTUl9kOVluMk5QQWZsZmlaOG1Rd2pVT204S0lGTnpPMzU5dlptdmRvSHN0dUlWSTVGTWJvVHhFcUdrS2pJZW9wdXZyaW1RQlFhSkFTTDJra2s3cl91VWlWaFM3TjFZbGF5cTNyTWI5eGwtMmx0UlQ1bzJabXpYZklOQTFUblRJdnhXY2pRT2ZGbE1FbHhNcG1ub3pYRFNkaVJGSFRLR1ZrdU1obUoxcEo4VkZOTWNocmNzem4?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town? - BBC
+  Marco Rubio: Did domestic pressure make US secretary of state visit an
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbUlmTkZJTVlRaGZKTl9SSE8yeXdMNTdmMDBhTTNWYVdYVzZMRjU0VFB3c3VVVW8xTV9maDNjNHJZN05KUGRTMW9RamhtUWczcVBSUzllWGJvZ2M?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Petrol, Diesel Now Cheaper In India Than Dubai? What Numbers Show - NDTV
+  Petrol, Diesel Now Cheaper In India
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQS21LaHVYX3RnOXBSOXE4YjRzMjhEbjktRm5CMlB1amdEa2xOM2ZpVGhmUWVCSFZpdzYtQnNWaHVYYURPS3M4aTJxVVBSY2h4SjA4cjBFaE1RNzhFalFMcjAwMWZ2UlNVN1M0WHBsRXFWQUtNYXBvSmlSRUt2TkVpUHpnVnpwdTQ4U25VMzlKNk5TYTU5Y3Fxa0FmSDhlOXFTNEJVc2czb9IBrwFBVV95cUxPc3RCYy1OYjZ6VlhXZ3A1SmUtcU15RGFMTFRsRGtfQ2ZseTFnT1BncktJOThjOE9iTUlZTWN4ajVWNWxxYnZCM3g1N0JtUXc1QzRDdDF5WEp4SUdnQVZqVlA4VkJZWWRMUnF0cTRucS11R2FYUnZSUHI1Vnp3UHV5YWVLeHJqdlVlNjBob2RYQU9GYmg4cEN1UXRSY1Jva2VkdnZoNGFHc2x5cVJlSi1F?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- FBI detains gangster Himanshu Bhau, India may get custody soon - The Times of India
+  FBI detains gangster Himanshu Bhau,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNelF5TmRLTGowSEpmbDYyZkRKRmhrdGVyTExwYjJoUUZGS1BvY290VkotNFZoM3RTNDd5ME5vcldrci01VUdGWjUwcWdaN29wbXlRbFl4MFMtSVJiRXJIdGdjN3Y2em1FckxRSkYtMDZWekl5b2F2VlI1UFpOVnFHUHZySGJNcXFvUGZBajVTcXVDeFphYV9RWjR2WmNHNlpTY3BZUFVKb25qN2ZadWxRblh4RThNME5IYThsbGUzVUpZTzAwOW9NWVF4MDIzWnfSAdQBQVVfeXFMTVFHOVRwMEVmSXJpdmY3SDkyZlFRVS1XNkgxZHVhS1pRTUthY0kwcW4xeEp0Z1JNVERNLVRMeWEydFlJTTdfYnVDakxNbnFEVE5ILUFaaGphYzhpZVd0ZVZ0UV83cmVXN2JsNWJKRjRxeWhGdV9ubFlSdkZCWGZsY0RlbkJlTWt5RTZFSjlzX29mYVZxelU5U0FwWDVrMm9DMnNMU0pSR09CeGowSlR6S0sxNnpQZG1nR2t0dmVMZWZLN3IyNm5jTWVHbUJwbmFuallfS2c?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Gangster Himanshu Bhau, Wanted In India For Multiple Murders, Arrested In US - NDTV
+  Gangster Himanshu Bhau, Wanted
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGthbDhKZ2NKMkN0NlQyRGdHRGJPQWFKTkZhcUJrQWd4MmdYeUljOVU3WW1wcjRTa3dHQTB2QXlCWWhrdlZmMWswTHRaTVZGd19uLVhPRnUtbXNTMG5FSndFdTdfS2VmRFpfek11ZjA3cTlLRHdfV3NQazB2bnRHRTBub2liU3I0czJUSlBDX1lNRnZDTUVTb2NNRHdWWVdKcEFndzVaRDFIVTJ6MGNGX3BuQzhNQdIBvgFBVV95cUxNdlpzMWV2anZ6YWJjS1FiZ0RBYTlVWXlZR3pYR21HN0s0eTN3WVZJaVVGdmVrQUdtOVJsSVlUOEJDZ0JWajdQOHRCR01wZzZTbmFpaGlyZWlnVkdSQnh5UzRUVkFPVlFVMlRiUmd5bXMxNTlIcHBaVzdONnd4eU42WFNTYlJkY2tzSE9aLW9ldC1ZN05BRW9iNFgzNlFrM1NIZjBEWFlJMVV4Tm9BYUE5ckNKVlNfUTVsNHlTUHFR?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Wanted gangster Himanshu Bhau in US immigration custody, faces multiple murder cases in India | India News - Hindustan Times
+  Wanted gangster Himanshu Bhau in US immigration custody, faces multiple
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVdmSzl1NmN6c0ZURjVCN0xlZzRlUWRTQ3BFZ3V5Tk5CT3dpZmViTzlRRm5QU25wTURaZFBEU251YTByS1BLVC1MLWFBOHZpbF9UV3ZNOEJmRXF5MzdvRkdVMy1qXzBBdkZ1ZHRZemNWc2laaHdfeV9EdUtQckJYREJiTS1aMGNRMGNhLXNIUVpYdVJmb0VmZFJOa3Nkbkc4VFdyMlhXUzdIVXNCUVRNaDNLMlZHOGh1RVpZUWVqRzNpTnlSZlZrV0phTHNaNkNYX3dqMTF0WmFSaTTSAeABQVVfeXFMT0V0eXVmZTVnMVJ2b3RGSlN4S2xGMTNUTGJNbTNodkRzSEM4ekRTUl9kOVluMk5QQWZsZmlaOG1Rd2pVT204S0lGTnpPMzU5dlptdmRvSHN0dUlWSTVGTWJvVHhFcUdrS2pJZW9wdXZyaW1RQlFhSkFTTDJra2s3cl91VWlWaFM3TjFZbGF5cTNyTWI5eGwtMmx0UlQ1bzJabXpYZklOQTFUblRJdnhXY2pRT2ZGbE1FbHhNcG1ub3pYRFNkaVJGSFRLR1ZrdU1obUoxcEo4VkZOTWNocmNzem4?oc=5
 
 - Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
   PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-23 20:57:38 UTC_
+_Last updated: 2026-10-24 02:58:31 UTC_
