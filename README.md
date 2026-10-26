@@ -4,61 +4,85 @@
   Satish Acharya, Manjul: India's cartoonists built
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTDcwelVmYTlWTl9oRXdiVG1Ld1Rsb1gxV1c0dDJpZE92Y2ZPZk1FZ3FCUlRvRUtMRWdYNlVGNkhNUzI0LWhkOHRBRDNocG85T3lxUFoyYVgxSDQ?oc=5
 
-- Cyclone Arnab: Origin Of The Name And What You Need To Know - NDTV
-  Cyclone Arnab: Origin Of The Name And
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlpWcm91amRxSndBeWlRVHdreG1qaXY3MzhsdzZJQ2NWcTU2Y0dwa1dCNzUtM0NiTk9CYk5uMkFGX0g5eC1iOFZZNGRBb0k5VWJoSVRBcS10WXdpLThWcmV1bVhTLS1QbDZlNWJXZFN5Y0ZoOHVCTUF5QkhTcjlSN1BRYXRkNFVabmNyQlNGNmsxRENNWjd2S0tkZm4xN1NJ?oc=5
+- Aamir Khan Was Tiger Shroff Case Accused's Target. This Changed Their Mind - NDTV
+  Aamir Khan Was Tiger Shroff Case
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWJ6d3BodFhJV0VCX0hGTFB5NktzOEVrbFJDTHVFOHliZExJeFF5dXR4WUgtalhJTUQ4TndzVFUzbmQyV3UyMEgtLTNPRWZPZ3lmMGtXTlVYcXNQdVN5RUVvTlZjUFpQRFRLUXRQcGNfYUphNmQ5TUpPRkFTYlRLRDN4dnRVMURIWXlpdmJLN1JCLUlraS1iQVNGTFpsS1pxS0J0dEJzWlMxdDBMdTZnYWZQQmQxX1HSAb8BQVVfeXFMT29qWHlmZGU5OExuQ3dkb203d3ZQUXVFQ3RtdTlNVGtUemd3N0FHWnIzWkJkQjdDbm1CZVAwRGpELXdiUE9KM0liVXZtWmRlOU1QQzEyRHJta3Q3OTR3TUVza0U1YXNkeUUwZlRQb21Fa3lfcE9mRWxKVWQzUmZqaGtFTXJOYnNVbEYwOTd1X19rTXBTU29YOUtwMlBZbTQtRjlUalRrUUhGSXo1a21FckYxbXZwYi1hWHowQlkzZUk?oc=5
 
-- 'What did I do wrong?': Ex-India star reveals how being dropped from team pushed him into depression - The Times of India
-  'What did I do wrong?': Ex-India star reveals how being dropped from team
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNRVlZRzJQVE9kVG5vbFljYnV5MXktMkd3aTh1a04xZ0x1VGx2NlR5U2dWeEdDc2RZVXJtSGFEZWFZbk9SaE1pcWJZd0tPZDF4OVE2X3U2SU8zT1AxYzRFMzI3ZWlMX1NMYmVHN2U2QjlyeDVwbU53QUZsVi1oUWV3UU9qZVhpNkdlcDRNN2JieTVGdEVRM1FiVlJuUG9kajhGeTNHWHBIMUkyWWszYllvUlo5bzd2VmFxM0VPNkRjTVZReXNoMmlyVEFMU0pYalA0QlVHeEdPTFNuR3pXMUJabGkwbmU2SnloMHRsdkpoeUlKajhrS3ZDcGRXeXoxb05rUW81b18yS0x0UdIBjwJBVV95cUxNS0JwRHcwaTU0WktHM09lSWpsbVpTR0pTdlRjVTNwTWljV0wydlhmeDgtdlJmeDZRMzZxRDVvbHR5bllrRUhlWE1icVM2V1pleTVSQlp4V0kzMWUwdkdRR29WQUtVVjFBV01sNFdGSml3aFVCWjduVDNlNHpVdE1GdUk2c1hoczdsN3hzRVk2NVFBeHp3YUdjZHoxb1AzZHA1c3d4X0ZnY1JmNU5IbEFVd1dJM3FsUmxTdGpRQ0NCcUE2c0tOLS1WWEcybkprWWgwdzhHb0hjLUdaaUlYZ3plLTgwNkZzaklLZE9kNVp6M1JGeVN0NUhCeXlqTmt5QzRicU41UFF4TXMwQnRNaVlJ?oc=5
+- India news: BJP to protest nationwide over opposition's Modi remark - DW.com
+  India news: BJP to protest nationwide over
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOXy1OMWhVWjJXREJYUWFpNzNtREMyZDlKNjZiQ3JBZFNISF9DVlFwUi1fbXVmOTJIcXBhZDdlUHpobHZCUDdOdVlTVGZpZ2RhTDZwUmFlX1o1RWJCWHl1OHlEVEhXbHJPWnRtWGxEX0FJbjdDUnB0WWcta18yX1J4anhBRXFpZWxNc1RzMGl3NjRuUkU?oc=5
 
-- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
-  India news: Rahul Gandhi urges protest against voter deletions
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
+- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
+  BJP Holds Protests Across Country, Se
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
 
-- Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar - The Hindu
-  Hindutva reading builds on colonial interpretations of
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdDlpNU55NmpBWTJlX2gwM3hpS1RnTWU5dGZhajZhaEI5dHI0S04yQkx2MlFIRWhnQ0VjQ0prbDYzRk5wenl1RDhOMkNOWWtRTURjaHhHaE1QMFRmVl9jN3NTZXJ0UzBsRGFKMzQwWlNLcFJqVTRJQnRhdmhmMU5RenNfWHRNT2MyTEx4OHA1RUFGLTkxbzRkc00yNHBWUTJPOXdJN1ZJYmhldTRfbWdqOEhVWkNRVWRYVmlLZXNVY1p1cWVuZHJ4NFF2VXphTHE5cTluSUJxdF82QdIB4AFBVV95cUxNYTZ2VGkzY0RTRWRLaUVPekJtNlhsZXFYSXlHRWE2SFRwQzVaZXJveS04YzhvRGZYb2tWQVVnVmQtNVQ4TUFRVlVvY0h5VTdkZFBYNUYxTUNKM2RmNkxhOU1RUlBOeXIyRUdpeENkSVBsYzZESFBOakNZeDhrYTVTT2Jvc0Z3SVZXeVpEc0Vlak1sRTBrNXlnc1Z5SVp1SUVmRi1JZDhzNnYwQS1XXzRuYmFkaWVPYXBsU05mMXpHSWItRjM1dDIzOHBGZFBFNE1QaXpDWExYcjA3RlBzcURZcw?oc=5
+- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
 
-- Elon Musk says SpaceX closed $40 billion debt deal for AI chips as firm ‘investment grade, has Starlink, launch revenue’
-  SpaceX has closed a $40 billion debt deal to buy Nvidia GPUs for its AI data centers. Billionaire Elon Musk said the company's
-  🔗 https://www.livemint.com/companies/news/elon-musk-says-spacex-closed-40-billion-debt-deal-for-ai-chips-as-firm-investment-grade-has-starlink-launch-revenue-11792979546399.html
+- Experts discuss entrepreneurship, technology development on first day of JNTUA Innovators Conclave - The Hindu
+  Experts discuss entrepreneurship, technology development on first day of J
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPd0dTTUNJWEx4d05Obm93eXJ6aWxTT1pKcjZ5OUI1S084aDFLSnNDZ25LMGVacmhUS0pWbFY4VVRfbDR6YkEwTWhUUUNsV3RleDdJSHNObkZTYWM1aFBsbHhTRDNVR2UwQjZ3bVJYb1p3dzl4VC1vUUl6cHFWRFZuN2xZUUpPeE8wNUloQTRSUjJnZEFsNE9GU2QwV3kzUTlvRGhuZzNWM3BEVEYzajI4dHJIMmJZWGdETS1sTUNCcE9hVFQzOWxqTmVRUHdCdldIVzBDdE9GLU13bnlEVUZ0M3E3Nzh6OExFNWFHRnRoWWZFS05MNUdaQTB1SHZsNnVr0gGHAkFVX3lxTE1hQkFiclRoWjRtUlFXQng5N29DX2FkZm1nbEJJVFRYeWZGUWZsSnZScEJIS2ktOUFnTFBqVEpyTV9PUktZS3JlV0NPc3U1Q253Zkk4aFJZVTNSellfZzFGalYydmJFZkJZbU9QYV9KcDZnMkxXcnVyV2NqeHQ2V0lQVWxxNTJVckJnMDBMMkU1cnR0Q0hnbGVjY3ZkR1BkVXRWU0ozcGxtUWVrUVo0N3NkOFJJR2tZZUhNMmg2WENOWmFvTnY4Y01pU29teldlclBRZDA2RVBEdUtoUHdfM0hBMklORmxKem9XYlIwd0JNWHJSbWhGMnl3VFhPNWE2VjE1RDk5Z0cw?oc=5
 
-- IIFL Capital hires four Barclays bankers to expand wealth business
-  The Fairfax-controlled firm is stepping up its push to attract wealthy Indian families.
-  🔗 https://www.livemint.com/companies/news/iifl-capital-hires-four-barclays-private-bankers-wealth-management-11792907008126.html
+- From agriculture to AI-griculture: How tech is changing farming - BBC
+  From agriculture to AI-gric
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdGlCMGQ2enc1SjFqUHhYNGQzQ0w5aWVaSjlON0pieGstQnlwdjJkbWwzdUc3elMwemZPX3A3bDNETDBTRm9NQ21kaTQweWhPN19yRXg5WGZFejQ?oc=5
 
-- JSW MG taps into Chinese parent Saic for 70% of its purchases
-  Nearly 70% of the joint venture’s purchases in the financial year 2026 came from Saic-linked firms. The total business
-  🔗 https://www.livemint.com/companies/news/jsw-mg-motor-india-taps-into-china-parent-saic-motor-for-70-purchases-11792917400984.html
+- Honeywell Technologies launches new AI platform at Dangote's Nigeria refinery - Reuters
+  Honeywell Technologies launches new AI platform
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNEZtVmpUbmNiR1FJOEVtaG4xV213RWxpd3lDZ281MDIxSFVhNnN2SDUyUkFnMV9wWl9HRXY4ejVBVWhxOV9mWDhpZ2YxQ09sWXFsVkF4Wk03REdjcmxuTThLaDJBTzdyMnBZbnc4RFVEMzVxbHFUMllIVkhfSUlfc3pDeVF6eW1XV2VqNjNDTnFYWEdWQVBUQW5aN3lWYTZTRXVkcWY3NnBJWEt6TXVNQ1I2SmgzRV90ZWhtV0pSWUo0anM?oc=5
 
-- Eternal’s District explores live-event venues to cut concert costs, counter AI threat
-  The out-of-home consumption platform is exploring partnerships with property owners and governments to build dedicated venues.
-  🔗 https://www.livemint.com/companies/news/eternals-district-explores-live-event-venues-to-cut-concert-costs-counter-ai-threat-11792903705050.html
+- In 2018, China Listed 35 Technologies The West Could Deny It. Eight Years On, It Has Mastered Nearly A Third. - Swarajya
+  In 2018, China Listed 35 Technologies The West Could Deny It. Eight Years On
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPR3NDb09hd1REaTA4YjRham9KR2xrWFFkZV9tZXgwVF8ybkZZdXpWOUFoMzAyV0lFSG02QzIyVENyYlBwOW1SWEtDSkhvbnRvajM5Vkp1UDdORzBvRHhxMVZqQlJBQWNEeTVBWndSTm1XamJuU3V3ZUY0WTZmcmJWVmRmMHliZGd4X01IS09sX25FU3NONGpwbVJoZmhjdWlDVExZNXFBVHRFeFhfdGdtV3F3TFNIemFoREdwOGlzUzhIektrZll0TERSZDVpZlHSAd8BQVVfeXFMT3dxZWdpUFRZSUhkXzFuSXg4ZWY4MHlaeENybGVscG9vSkp2b053eThsQ3dyZ3VmRGlnRWE2VlB6MnFLSnkwTzZ3UE9ZUmVTUHZkOHEtZ2lGZHVlTmhpb0lCbno2di0zR0YtdndHWDRma2pveFJmd1hSMmtEVDV0ZlY1RUdzWTN0OWRpOVo2cmtRaTc3LXdXZjBhYjBHX1RDamZIcFZlTWNXYjkxaXppN0xQVkZhZjN4UWJBRkl3S09XbE91UGh6dlBLWjUxVWRqckV1VTg1bW5VSTYyMXJDaw?oc=5
 
-- Wow! Momo plans  ₹300 crore fundraise, eyes overseas expansion ahead of proposed IPO
-  The Kolkata-based QSR chain plans to enter Sri Lanka this year and explore the UAE. It
-  🔗 https://www.livemint.com/companies/news/wow-momo-ipo-plans-fundraise-overseas-expansion-11792751168706.html
+- L&T Technology Services and Nokia Forge Engineering Collaboration - Yahoo Finance
+  Yahoo Finance and Nokia
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWhRUFVwQ01sMWQtSm03VEQ0LUpsRDJsMm03TXJKNzJUdjZJVXNBNzJDZ3hIWmFDcW5kbzcySFlHWERQVFZGUEg1WUpyRHVVcHFzSzc1RUQ4cHN1bHdzZE1PMHhZWS1kZDNTaVF2XzdpZldEaEhlcW8xa1NLZjRjSVY0RzYtaUNtODhQNk9WcHhFUXpX?oc=5
 
-- Indian shares on track for muted open as oil concerns persist, Fed in focus
-  The Nifty 50 and BSE Sensex fell 2.4% and 2.2%, respectively,
-  🔗 https://www.livemint.com/market/stock-market-news/indian-shares-on-track-for-muted-open-as-oil-concerns-persist-fed-in-focus-11792981672692.html
+- Google CEO Sundar Pichai says company is giving up short-term cloud revenue to prioritise advanced AI development
+  Google CEO Sundar Pichai says the company is sacrificing short-term Cloud revenue to give DeepMind the computing power needed for advanced AI research. He also warned that
+  🔗 https://www.livemint.com/companies/news/google-ceo-sundar-pichai-says-company-is-giving-up-short-term-cloud-revenue-to-prioritise-advanced-ai-development-11793008515829.html
 
-- Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list
-  Paytm, Mankind Pharma, Tata Consumer, ITC Hotels, Infosys, BP
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html
+- Tata Communications targets 40% of India's data centre connectivity market with  ₹4,350 crore investment
+  The initial phase of the project will focus on the Mumbai-Pune-Hyderabad-Chennai
+  🔗 https://www.livemint.com/companies/tata-communications-targets-40-of-indias-data-centre-connectivity-market-with-rs-4-350-crore-investment-11793009893687.html
 
-- Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues
-  Gift Nifty was trading around the 22,535 level, down nearly 72.50 points or 0.32% from the Nifty futures’ previous close
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-26-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-cues-11792975256498.html
+- SC takes up EY’s tax dispute over overseas employee transfers
+  The case hinges on whether payments for overseas employee secondments are mere cost reimburse
+  🔗 https://www.livemint.com/companies/news/ey-supreme-court-employee-secondment-tax-dispute-11792999424921.html
 
-- Capital shifting from secondary market to  ₹5 trillion IPO pipeline: Madhu Lunawat
-  High valuations and currency depreciation are keeping FIIs cautious. perceived 10-12% inflation is pushing retail funds into small- mid
-  🔗 https://www.livemint.com/market/stock-market-news/capital-secondary-market-to-5-trillion-ipo-pipeline-madhu-lunawat-11792907791369.html
+- Managers put more of their own money into VC/PE funds to woo limited partners
+  For established firms, capital generated from earlier
+  🔗 https://www.livemint.com/companies/news/indian-private-equity-pe-venture-capital-vc-funds-gp-commitment-11792993027855.html
 
-- Infosys’s huge deal wins fail to give it an edge over peers
-  Infosys has trimmed its full-year growth outlook, leaving it trailing key
-  🔗 https://www.livemint.com/market/mark-to-market/infosys-q2-fy27-quarterly-results-review-11792904482073.html
+- Tata Communications bets $400-450 mn on India's data centre connectivity boom
+  Tata Communications plans to invest up to $450 million over three to five years in a 10,000-km fibre network linking India’
+  🔗 https://www.livemint.com/companies/news/tata-communications-investment-ai-data-centre-connectivity-11792998942621.html
+
+- Dividend stock down 4% today; declares  ₹12 per share dividend, record date fixed | Check yield, stock split history
+  Dividend-paying stock has
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-stock-down-4-today-declares-rs-12-per-share-dividend-record-date-fixed-check-yield-stock-split-history-11793011222536.html
+
+- Mind-boggling Monday at Indian stock markets: Sensex, Nifty mirror life’s ups and downs — October 26 trade details
+  The Nifty 50 opened lower at 22,524, and the sell-off accelerated at the opening bell, dragging the index towards 22,387. Supported by gains in financial stocks, the index closed 0.68%
+  🔗 https://www.livemint.com/market/stock-market-news/mindboggling-monday-at-indian-stock-markets-sensex-nifty-mirror-life-s-ups-and-downs-october-26-trade-details-11793005870431.html
+
+- Multibagger stock to buy: Up 150% in 2026 so far! Will rally sustain in defence-engineering share? Experts views, target
+  Multibagger defence-engineering stock has risen from  �
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-to-buy-up-150-in-2026-so-far-will-rally-sustain-in-defence-engineering-share-experts-views-target-11793007419521.html
+
+- Top IT stocks to buy after Q2 results: TCS vs Infosys vs Wipro vs HCL vs Tech Mahindra - What market experts recommend
+  Gaurav Garg, Head of Research at Lemon, said that investors should prioritise HCLTech and TCS for further evaluation, while considering Tech Mahindra only
+  🔗 https://www.livemint.com/market/stock-market-news/top-it-stocks-to-buy-after-q2-results-tcs-vs-infosys-vs-wipro-vs-hcl-vs-tech-mahindra-what-market-experts-recommend-11793003820220.html
+
+- Up 174% in 1 year! Can Monolithisch India shares rise further? Experts decode
+  Monolithisch India share price has soared 174% in the last one year. Year-to-date, the stock has jumped 145% against a 2% drop in the
+  🔗 https://www.livemint.com/market/stock-market-news/up-170-in-1-year-monolithisch-india-shares-jump-11-intraday-reason-behind-stock-rally-can-it-rise-further-11793005631095.html
+
+- Grand Theft Auto VI launch: How is the highly anticipated game moving calendars as fever grips workforce
+  Survey: About 35-36% of gamers would call in sick if they took a day off.
+  🔗 https://www.livemint.com/technology/grand-theft-auto-vi-launch-how-is-the-highly-anticipated-game-moving-calendars-as-fever-grips-workforce-11792988719986.html
 
 - Deepinder Goyal’s Temple brain wearable:  ₹85,000 price, pre-order date and features
   Deepinder Goyal’s Temple brain-monitoring wearable is reportedly priced at  ₹85,000. The device tracks changes in cerebral blood flow
@@ -76,89 +100,125 @@
   Oppo has begun rolling out ColorOS 17 ahead of schedule to the OnePlus 15 and Find X9 series. The Android 17-based update
   🔗 https://www.livemint.com/technology/tech-news/oppo-coloros-17-beta-update-rolls-out-early-to-oneplus-15-find-x9-series-new-features-and-ai-upgrades-and-more-11792865007541.html
 
-- OnePlus Diwali Sale 2026: Nord 6, OnePlus 15, Nord CE6 Lite get discounts; check offers on phones, earbuds and tablets
-  OnePlus Diwali Sale 2026 offers discounts on smartphones, tablets and audio products. Smartphone deals run until October 25, while tablet and audio offers end on October 27.
-  🔗 https://www.livemint.com/technology/tech-news/oneplus-diwali-sale-2026-nord-6-oneplus-15-nord-ce6-lite-get-discounts-check-offers-on-phones-earbuds-and-tablets-11792854036432.html
+- Stock futures tick higher as oil prices drop to begin the week: Live updates - CNBC
+  Stock futures tick higher as oil prices drop to begin the week
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYndxMUwyOEhHdkN2LUJFcFM5OXViRV9sLV9PNGdiZDJTdjVMTXBYeVh3LXBBdW5EYkRBd1hzWXhPT1hXVUxTYmR3YjU2Rnpuekk4V0hRd0tId3NERjBXb1IydTBKSDRNM25RRFptRHFIYXNrOGxn0gF8QVVfeXFMTzZtMm5Xc0pMVlEta0dPbmY1S0Y0RUZmaF84alY2X3Iwb04tajltY0JIMGNFZ2dtaWp3ZDFhZ09RV2tjVm1KbU9HRm9WeWYxT25mc0d5bjgyLVJfMFZ0OTNxM3g5Umc5XzBidXpQR21ld203cUpxNTA2RjhlWA?oc=5
 
-- Oil Price Today (October 26): Crude oil at $115, retreats from 6-month high despite lingering concerns. What are experts saying?
-  Both benchmarks had settled nearly $3 higher on Friday following Houthi attacks in Saudi Arabia. US crude futures declined $1.82, or 2%, to $101.48 a barrel, while Brent crude futures dropped $ 1.50
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-26-crude-oil-at-115-retreats-from-6-month-high-despite-lingering-concerns-what-are-experts-saying/articleshow/135200948.cms
+- Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap - Bloomberg.com
+  Stocks Gain Before Tech Earnings as
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGVmU0kxdjhvRF9ZU0VaeFFkODlaUTRlN1dQaHNSV1JiOTBwSV9nb1RKejQ2clRzQ0doN3VjVEtHb0RaTlVBNUdhMFI3aUtTRHB1dEE3NWdXZS1ZbktuMVUtYnE0ellyLWlNa29aWThtQkdSQW5FRzFIVUZlb3hEUlg1czdXd3FyV0VwNW0wVEMyTUg4ZEpoTVg0SzIyZ0VmLTAxOUlPTUtLXy1kS0ozbw?oc=5
 
-- Currency markets subdued ahead of pivotal central bank week
-  Major currencies hover in narrow trading bands amidst pivotal central bank meetings. Oil prices experienced a decline after hitting a six-month high, affecting the strength of the dollar. US Treasury yields remain elevated due to lingering inflation worries connected to the rising
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/currency-markets-subdued-ahead-of-pivotal-central-bank-week/articleshow/135200680.cms
+- Closing Bell: Market snaps 4-day fall; Nifty above 22,750, Sensex up 483 pts - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxNOENJRTdlMF9va25YZmRpWFJwakx3eVZhR2Y4cC1jbVNaVUt4MTY0ZnlPako1b1V4QjVjY1VsbzgzZXc1UFMyQVY2NF8zWlNuM0RIRWdlZ1B0SmxwN2RhTUVYR3lMN19vUW
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNOENJRTdlMF9va25YZmRpWFJwakx3eVZhR2Y4cC1jbVNaVUt4MTY0ZnlPako1b1V4QjVjY1VsbzgzZXc1UFMyQVY2NF8zWlNuM0RIRWdlZ1B0SmxwN2RhTUVYR3lMN19vUWlhcER5M1FEZ1dhTU1NSGR2a3BFLS16Q3YyX2hmNFZVRmcxLWY0VTdadzBFZDYxTXBNSGdBMzVINHV3Ynp6WE9xN1NFM1ZSdGh0REVTTUJhSmxhdDRkQWhZQWlvU2h6LTVhbVJIdW5MYWNPZl9UYm4zSkc3WWQzLTNJYXh2TUpCZFFEcG53YTNjWUlDc1MxdWhnNERCcVdMbkl0QW1HM2RtZjc4M0hyNjNLTHhmbUhzemZJYlhNNHVONDjSAagCQVVfeXFMTzBzaFZyNEY1UmRWbDNMUlNuZk5sbmhnX0s3LWh4Y1Nka3hfd25QVWVmTHFYTzV6N1FLZXo1OGRUYmowcmRXeVVQcTRTSTMwaWE2V1NxaG1lUW5uVjNrQmRVclJhd2FKanYwcF9BMEI1aTUtTTFvUFpXa0x5ZlA2bWpXT3lSZjctN0ZsN3dldnlqRVBPbXNLRnFWR1NEM3J4b2pSSjc0U2FmLTV6NlE2ZDh1OWNjRW9WdlpDMF9RaXNVWDgzOEJscTYxVlVzV1VPdGVJbVVvV3AxMDlmTXBEZklpNDV6amtfTlZwYlVpbWhjdXJiWTFkWVh2RGdTZWhoRE9JTnAtVG93akI0RGlqQ1JZR0xpN1NMWlhZTVVIVEprd0ZvdElfVmQ?oc=5
 
-- Crude oil is the key to bringing FII money back to Dalal Street: Equirus AMC’s Ashutosh Tiwari
-  Foreign investors may return to Indian equities only if crude oil prices cool, says Ashutosh Tiwari. Rising oil prices have emerged as the key trigger behind renewed FII selling.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/crude-oil-is-the-key-to-bringing-fii-money-back-to-dalal-street-equirus-amcs-ashutosh-tiwari/articleshow/135200515.cms
+- Israel markets see upside in Netanyahu defeat after three-year rally - The Hindu
+  Israel markets see upside in Netanyahu defeat after three
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2cwMXdDNE94RmRrVzNwWENmSWY2ODAtU3NxbEVOUXRabXNyUldsbEl2VDJQNGVXWEFhN3ZIMTRucGt4QnFqRU81NDZlWENkN21GQWNCUnNwM3JQUmxzNVZZQlBTUXJrVUhOSHVnQjk1Ymp2d1h6UXVxZGxTUVhiWkYybmpuMGVYWmNkOC1vU05nYmJwYnc0Y3hYTnh2aXhnMzlLWmdRdHpxQTFqMldORdIBtwFBVV95cUxQdGtXd29JY21yb0IyRWlfOGdud1BiYm85dDVmSHV1TlZ0TXhuZy1RWEo5WG5OZ3hKeUlSR3dHZG1jTHJjWnZNMVlmakJfQ21HSEx2THUtR19PRG90TWE2V2RGMVJ6SU5rMGdiaG9PTDlybkhzN0tYZ2VDNXZYMzgxZDhXc1NDTF9WWVJFOEZHN1VZcE55VGxCUFVXM0dWcDhyZDN3bUtRVmxLSkVfZEkzT0lUZUFOV1k?oc=5
 
-- Negative Breakout: These 5 stocks cross below their 200 DMAs
-  The 200 DMA is a widely used technical indicator that helps traders assess
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-5-stocks-cross-below-their-200-dmas/slideshow/135200624.cms
+- Oil markets brace for more fighting in the Gulf - The Economist
+  Oil markets brace for more fighting in the
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWpIQU5DbUdSZkx3QnViUkR4YVRIYkQzaGZES25sdlB5OXMyb3BhSHVaa0NyV1VVcldnM3U5NHdwMGI1VUdLRkQwWkdBdkZtTGQ1OVJmQzhaUXpzVW8xUVR4N2haYkw2Q1p6Tk16YUlHeHZhUDA3TDJtcGMwb1VzZFFhbG0yTGlDM2U1aU0tS0V1aTlaNGZB?oc=5
 
-- Gold lingers near three-month low ahead of Fed policy meeting
-  Gold prices dipped close to a three-month low, reflecting worries from investors. In the oil market, prices fell back after a prior rise, amid ongoing supply worries linked to conflicts.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-three-month-low-ahead-of-fed-policy-meeting/articleshow/135200563.cms
+- China's central bank sets up non-bank financial institution bond market swap facility
+  China's central bank has introduced the Bond Market NBFI Swap Facility as of Monday. Bank wealth management subsidiaries and public fund managers will gain access to central bank bills.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/chinas-central-bank-sets-up-non-bank-financial-institution-bond-market-swap-facility/articleshow/135210676.cms
 
-- Growth Vs Profitability: Swiggy’s Tug-Of-War
-  Swiggy’s results for the second quarter (Q2) of the financial year 2026-27 (FY27) show that the tug of
-  🔗 https://inc42.com/features/growth-vs-profitability-swiggys-tug-of-war/
+- Bitcoin hovers near $80,000 and Ethereum tests $2,300 as macro and geopolitical risks weigh on crypto markets
+  Bitcoin trades near $80,000 while Etherium hovered around $2,327. Investors monitored Federal Reserve signals, ETF flows, inflation data and options exp
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-80000-and-ethereum-tests-2300-as-macro-and-geopolitical-risks-weigh-on-crypto-markets/articleshow/135210501.cms
 
-- Flipkart’s Summer Of Discontent
-  Questions over an IPO and ESOPs, huge investments in quick commerce and food delivery and the pressure to deliver profits.
-  🔗 https://inc42.com/features/flipkarts-summer-of-discontent/
+- ITC Hotels reports revenues of Rs 1054 cr for Q2, PAT at Rs 203 cr
+  ITC Hotels reported strong second-quarter growth, with revenue rising 26% and net profit increasing 52% year on year. The company also expanded its portfolio through new hotel signings.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/itc-hotels-reports-revenues-of-rs-1054-cr-for-q2-pat-at-rs-203-cr/articleshow/135210456.cms
 
-- New-Age Tech Stocks Tumble This Week, Swiggy Leads Sell-Off With 24.5% Fall
-  New-age tech stocks lost over $11 Bn in combined market capitalisation this week, with Swiggy leading a broad sell-off.
-  🔗 https://inc42.com/buzz/new-age-tech-stocks-tumble-this-week-swiggy-leads-sell-off-with-24-5-fall/
+- Market wrap: Dr Reddys, JSW Steel, Shriram Finance, Tata Consumer top gainers and losers on Nifty and Sensex on Monday
+  Indian equity markets snapped a four-day losing streak as Sensex and Nifty rebounded. Dr Reddy’s and JSW Steel led gainers
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-dr-reddys-jsw-steel-shriram-finance-tata-consumer-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/135209828.cms
 
-- Myntra Slips Into The Red In FY26, Reports ₹582 Cr Loss
-  Fashion ecommerce platform Myntra reported a net loss of ₹581.8 Cr in the financial year ended March 31,
-  🔗 https://inc42.com/buzz/myntra-slips-into-the-red-in-fy26-reports-%e2%82%b9582-cr-loss/
-
-- Flipkart-Backed super.money’s FY26 Revenue Triples To ₹292 Cr
-  UPI provider super.money reported a net loss of ₹263.8 Cr in FY26, 78.5% higher than the loss incurred in&#82
-  🔗 https://inc42.com/buzz/flipkart-backed-super-moneys-fy26-revenue-triples-to-%e2%82%b9292-cr/
+- Global Market: European shares flat as investors assess earnings, France turmoil
+  Falling oil prices, driven by hopes of easing US-Iran tensions, supported travel and leisure stocks. Energy shares declined.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/global-market-european-shares-flat-as-investors-assess-earnings-france-turmoil/articleshow/135209743.cms
 
 - Satish Acharya, Manjul: India's cartoonists built an audience online - now their posts are being restricted - BBC
   Satish Acharya, Manjul: India's cartoonists built
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTDcwelVmYTlWTl9oRXdiVG1Ld1Rsb1gxV1c0dDJpZE92Y2ZPZk1FZ3FCUlRvRUtMRWdYNlVGNkhNUzI0LWhkOHRBRDNocG85T3lxUFoyYVgxSDQ?oc=5
 
-- Cyclone Arnab: Origin Of The Name And What You Need To Know - NDTV
-  Cyclone Arnab: Origin Of The Name And
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlpWcm91amRxSndBeWlRVHdreG1qaXY3MzhsdzZJQ2NWcTU2Y0dwa1dCNzUtM0NiTk9CYk5uMkFGX0g5eC1iOFZZNGRBb0k5VWJoSVRBcS10WXdpLThWcmV1bVhTLS1QbDZlNWJXZFN5Y0ZoOHVCTUF5QkhTcjlSN1BRYXRkNFVabmNyQlNGNmsxRENNWjd2S0tkZm4xN1NJ?oc=5
+- Aamir Khan Was Tiger Shroff Case Accused's Target. This Changed Their Mind - NDTV
+  Aamir Khan Was Tiger Shroff Case
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWJ6d3BodFhJV0VCX0hGTFB5NktzOEVrbFJDTHVFOHliZExJeFF5dXR4WUgtalhJTUQ4TndzVFUzbmQyV3UyMEgtLTNPRWZPZ3lmMGtXTlVYcXNQdVN5RUVvTlZjUFpQRFRLUXRQcGNfYUphNmQ5TUpPRkFTYlRLRDN4dnRVMURIWXlpdmJLN1JCLUlraS1iQVNGTFpsS1pxS0J0dEJzWlMxdDBMdTZnYWZQQmQxX1HSAb8BQVVfeXFMT29qWHlmZGU5OExuQ3dkb203d3ZQUXVFQ3RtdTlNVGtUemd3N0FHWnIzWkJkQjdDbm1CZVAwRGpELXdiUE9KM0liVXZtWmRlOU1QQzEyRHJta3Q3OTR3TUVza0U1YXNkeUUwZlRQb21Fa3lfcE9mRWxKVWQzUmZqaGtFTXJOYnNVbEYwOTd1X19rTXBTU29YOUtwMlBZbTQtRjlUalRrUUhGSXo1a21FckYxbXZwYi1hWHowQlkzZUk?oc=5
 
-- 'What did I do wrong?': Ex-India star reveals how being dropped from team pushed him into depression - The Times of India
-  'What did I do wrong?': Ex-India star reveals how being dropped from team
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNRVlZRzJQVE9kVG5vbFljYnV5MXktMkd3aTh1a04xZ0x1VGx2NlR5U2dWeEdDc2RZVXJtSGFEZWFZbk9SaE1pcWJZd0tPZDF4OVE2X3U2SU8zT1AxYzRFMzI3ZWlMX1NMYmVHN2U2QjlyeDVwbU53QUZsVi1oUWV3UU9qZVhpNkdlcDRNN2JieTVGdEVRM1FiVlJuUG9kajhGeTNHWHBIMUkyWWszYllvUlo5bzd2VmFxM0VPNkRjTVZReXNoMmlyVEFMU0pYalA0QlVHeEdPTFNuR3pXMUJabGkwbmU2SnloMHRsdkpoeUlKajhrS3ZDcGRXeXoxb05rUW81b18yS0x0UdIBjwJBVV95cUxNS0JwRHcwaTU0WktHM09lSWpsbVpTR0pTdlRjVTNwTWljV0wydlhmeDgtdlJmeDZRMzZxRDVvbHR5bllrRUhlWE1icVM2V1pleTVSQlp4V0kzMWUwdkdRR29WQUtVVjFBV01sNFdGSml3aFVCWjduVDNlNHpVdE1GdUk2c1hoczdsN3hzRVk2NVFBeHp3YUdjZHoxb1AzZHA1c3d4X0ZnY1JmNU5IbEFVd1dJM3FsUmxTdGpRQ0NCcUE2c0tOLS1WWEcybkprWWgwdzhHb0hjLUdaaUlYZ3plLTgwNkZzaklLZE9kNVp6M1JGeVN0NUhCeXlqTmt5QzRicU41UFF4TXMwQnRNaVlJ?oc=5
+- India news: BJP to protest nationwide over opposition's Modi remark - DW.com
+  India news: BJP to protest nationwide over
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOXy1OMWhVWjJXREJYUWFpNzNtREMyZDlKNjZiQ3JBZFNISF9DVlFwUi1fbXVmOTJIcXBhZDdlUHpobHZCUDdOdVlTVGZpZ2RhTDZwUmFlX1o1RWJCWHl1OHlEVEhXbHJPWnRtWGxEX0FJbjdDUnB0WWcta18yX1J4anhBRXFpZWxNc1RzMGl3NjRuUkU?oc=5
 
-- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
-  India news: Rahul Gandhi urges protest against voter deletions
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
+- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
+  BJP Holds Protests Across Country, Se
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
 
-- Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar - The Hindu
-  Hindutva reading builds on colonial interpretations of
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdDlpNU55NmpBWTJlX2gwM3hpS1RnTWU5dGZhajZhaEI5dHI0S04yQkx2MlFIRWhnQ0VjQ0prbDYzRk5wenl1RDhOMkNOWWtRTURjaHhHaE1QMFRmVl9jN3NTZXJ0UzBsRGFKMzQwWlNLcFJqVTRJQnRhdmhmMU5RenNfWHRNT2MyTEx4OHA1RUFGLTkxbzRkc00yNHBWUTJPOXdJN1ZJYmhldTRfbWdqOEhVWkNRVWRYVmlLZXNVY1p1cWVuZHJ4NFF2VXphTHE5cTluSUJxdF82QdIB4AFBVV95cUxNYTZ2VGkzY0RTRWRLaUVPekJtNlhsZXFYSXlHRWE2SFRwQzVaZXJveS04YzhvRGZYb2tWQVVnVmQtNVQ4TUFRVlVvY0h5VTdkZFBYNUYxTUNKM2RmNkxhOU1RUlBOeXIyRUdpeENkSVBsYzZESFBOakNZeDhrYTVTT2Jvc0Z3SVZXeVpEc0Vlak1sRTBrNXlnc1Z5SVp1SUVmRi1JZDhzNnYwQS1XXzRuYmFkaWVPYXBsU05mMXpHSWItRjM1dDIzOHBGZFBFNE1QaXpDWExYcjA3RlBzcURZcw?oc=5
+- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
+
+- Announcing FAST42 2027: The Hunt For India’s 42 Fastest-Growing D2C Brands Begins
+  India&#8217;s D2C ecosystem has no shortage of new brands. But as competition intensifies, identifying the businesses delivering strong revenue growth is key.
+  🔗 https://inc42.com/buzz/announcing-fast42-2027-the-hunt-for-indias-42-fastest-growing-d2c-brands-begins/
+
+- Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For ₹1,000 Cr IPO
+  Imarticus Learning plans to file its DRHP with SEBI through the confidential route within the next two to three months.
+  🔗 https://inc42.com/buzz/exclusive-imarticus-eyes-confidential-filing-in-2-3-months-for-%e2%82%b91000-cr-ipo/
+
+- MakeMyTrip Swings To $1.8 Mn Profit In Q2 FY27, Revenue Up 2.5% YoY
+  Nasdaq-listed online travel major MakeMyTrip swung to a consolidated net profit of $1.8 Mn in the September quarter
+  🔗 https://inc42.com/buzz/makemytrip-swings-to-1-8-mn-profit-in-q2-fy27-revenue-up-2-5-yoy/
+
+- Veefin H1 FY27 Profit Jumps 2.3X YoY To ₹25 Cr, Revenue More Than Doubles
+  BSE SME-listed fintech SaaS company Veefin Solutions reported a 127% rise in its consolidated net profit to ₹24.9 Cr in&#8230;
+  🔗 https://inc42.com/buzz/veefin-h1-fy27-profit-jumps-2-3x-yoy-to-%e2%82%b925-cr-revenue-more-than-doubles/
+
+- Ather Turns Profitable In Q2, Posts ₹1.3 Cr PAT
+  EV maker maker Ather Energy turned profitable in the September quarter of FY27, reporting a consolidated net profit of ₹1.3&#
+  🔗 https://inc42.com/buzz/ather-turns-profitable-in-q2-posts-%e2%82%b91-3-cr-pat/
 
 - Satish Acharya, Manjul: India's cartoonists built an audience online - now their posts are being restricted - BBC
   Satish Acharya, Manjul: India's cartoonists built
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTDcwelVmYTlWTl9oRXdiVG1Ld1Rsb1gxV1c0dDJpZE92Y2ZPZk1FZ3FCUlRvRUtMRWdYNlVGNkhNUzI0LWhkOHRBRDNocG85T3lxUFoyYVgxSDQ?oc=5
 
-- Cyclone Arnab: Origin Of The Name And What You Need To Know - NDTV
-  Cyclone Arnab: Origin Of The Name And
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlpWcm91amRxSndBeWlRVHdreG1qaXY3MzhsdzZJQ2NWcTU2Y0dwa1dCNzUtM0NiTk9CYk5uMkFGX0g5eC1iOFZZNGRBb0k5VWJoSVRBcS10WXdpLThWcmV1bVhTLS1QbDZlNWJXZFN5Y0ZoOHVCTUF5QkhTcjlSN1BRYXRkNFVabmNyQlNGNmsxRENNWjd2S0tkZm4xN1NJ?oc=5
+- Aamir Khan Was Tiger Shroff Case Accused's Target. This Changed Their Mind - NDTV
+  Aamir Khan Was Tiger Shroff Case
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWJ6d3BodFhJV0VCX0hGTFB5NktzOEVrbFJDTHVFOHliZExJeFF5dXR4WUgtalhJTUQ4TndzVFUzbmQyV3UyMEgtLTNPRWZPZ3lmMGtXTlVYcXNQdVN5RUVvTlZjUFpQRFRLUXRQcGNfYUphNmQ5TUpPRkFTYlRLRDN4dnRVMURIWXlpdmJLN1JCLUlraS1iQVNGTFpsS1pxS0J0dEJzWlMxdDBMdTZnYWZQQmQxX1HSAb8BQVVfeXFMT29qWHlmZGU5OExuQ3dkb203d3ZQUXVFQ3RtdTlNVGtUemd3N0FHWnIzWkJkQjdDbm1CZVAwRGpELXdiUE9KM0liVXZtWmRlOU1QQzEyRHJta3Q3OTR3TUVza0U1YXNkeUUwZlRQb21Fa3lfcE9mRWxKVWQzUmZqaGtFTXJOYnNVbEYwOTd1X19rTXBTU29YOUtwMlBZbTQtRjlUalRrUUhGSXo1a21FckYxbXZwYi1hWHowQlkzZUk?oc=5
 
-- 'What did I do wrong?': Ex-India star reveals how being dropped from team pushed him into depression - The Times of India
-  'What did I do wrong?': Ex-India star reveals how being dropped from team
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNRVlZRzJQVE9kVG5vbFljYnV5MXktMkd3aTh1a04xZ0x1VGx2NlR5U2dWeEdDc2RZVXJtSGFEZWFZbk9SaE1pcWJZd0tPZDF4OVE2X3U2SU8zT1AxYzRFMzI3ZWlMX1NMYmVHN2U2QjlyeDVwbU53QUZsVi1oUWV3UU9qZVhpNkdlcDRNN2JieTVGdEVRM1FiVlJuUG9kajhGeTNHWHBIMUkyWWszYllvUlo5bzd2VmFxM0VPNkRjTVZReXNoMmlyVEFMU0pYalA0QlVHeEdPTFNuR3pXMUJabGkwbmU2SnloMHRsdkpoeUlKajhrS3ZDcGRXeXoxb05rUW81b18yS0x0UdIBjwJBVV95cUxNS0JwRHcwaTU0WktHM09lSWpsbVpTR0pTdlRjVTNwTWljV0wydlhmeDgtdlJmeDZRMzZxRDVvbHR5bllrRUhlWE1icVM2V1pleTVSQlp4V0kzMWUwdkdRR29WQUtVVjFBV01sNFdGSml3aFVCWjduVDNlNHpVdE1GdUk2c1hoczdsN3hzRVk2NVFBeHp3YUdjZHoxb1AzZHA1c3d4X0ZnY1JmNU5IbEFVd1dJM3FsUmxTdGpRQ0NCcUE2c0tOLS1WWEcybkprWWgwdzhHb0hjLUdaaUlYZ3plLTgwNkZzaklLZE9kNVp6M1JGeVN0NUhCeXlqTmt5QzRicU41UFF4TXMwQnRNaVlJ?oc=5
+- India news: BJP to protest nationwide over opposition's Modi remark - DW.com
+  India news: BJP to protest nationwide over
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOXy1OMWhVWjJXREJYUWFpNzNtREMyZDlKNjZiQ3JBZFNISF9DVlFwUi1fbXVmOTJIcXBhZDdlUHpobHZCUDdOdVlTVGZpZ2RhTDZwUmFlX1o1RWJCWHl1OHlEVEhXbHJPWnRtWGxEX0FJbjdDUnB0WWcta18yX1J4anhBRXFpZWxNc1RzMGl3NjRuUkU?oc=5
 
-- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
-  India news: Rahul Gandhi urges protest against voter deletions
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
+- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
+  BJP Holds Protests Across Country, Se
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
 
-- Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar - The Hindu
-  Hindutva reading builds on colonial interpretations of
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdDlpNU55NmpBWTJlX2gwM3hpS1RnTWU5dGZhajZhaEI5dHI0S04yQkx2MlFIRWhnQ0VjQ0prbDYzRk5wenl1RDhOMkNOWWtRTURjaHhHaE1QMFRmVl9jN3NTZXJ0UzBsRGFKMzQwWlNLcFJqVTRJQnRhdmhmMU5RenNfWHRNT2MyTEx4OHA1RUFGLTkxbzRkc00yNHBWUTJPOXdJN1ZJYmhldTRfbWdqOEhVWkNRVWRYVmlLZXNVY1p1cWVuZHJ4NFF2VXphTHE5cTluSUJxdF82QdIB4AFBVV95cUxNYTZ2VGkzY0RTRWRLaUVPekJtNlhsZXFYSXlHRWE2SFRwQzVaZXJveS04YzhvRGZYb2tWQVVnVmQtNVQ4TUFRVlVvY0h5VTdkZFBYNUYxTUNKM2RmNkxhOU1RUlBOeXIyRUdpeENkSVBsYzZESFBOakNZeDhrYTVTT2Jvc0Z3SVZXeVpEc0Vlak1sRTBrNXlnc1Z5SVp1SUVmRi1JZDhzNnYwQS1XXzRuYmFkaWVPYXBsU05mMXpHSWItRjM1dDIzOHBGZFBFNE1QaXpDWExYcjA3RlBzcURZcw?oc=5
+- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
+
+- Satish Acharya, Manjul: India's cartoonists built an audience online - now their posts are being restricted - BBC
+  Satish Acharya, Manjul: India's cartoonists built
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTDcwelVmYTlWTl9oRXdiVG1Ld1Rsb1gxV1c0dDJpZE92Y2ZPZk1FZ3FCUlRvRUtMRWdYNlVGNkhNUzI0LWhkOHRBRDNocG85T3lxUFoyYVgxSDQ?oc=5
+
+- Aamir Khan Was Tiger Shroff Case Accused's Target. This Changed Their Mind - NDTV
+  Aamir Khan Was Tiger Shroff Case
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWJ6d3BodFhJV0VCX0hGTFB5NktzOEVrbFJDTHVFOHliZExJeFF5dXR4WUgtalhJTUQ4TndzVFUzbmQyV3UyMEgtLTNPRWZPZ3lmMGtXTlVYcXNQdVN5RUVvTlZjUFpQRFRLUXRQcGNfYUphNmQ5TUpPRkFTYlRLRDN4dnRVMURIWXlpdmJLN1JCLUlraS1iQVNGTFpsS1pxS0J0dEJzWlMxdDBMdTZnYWZQQmQxX1HSAb8BQVVfeXFMT29qWHlmZGU5OExuQ3dkb203d3ZQUXVFQ3RtdTlNVGtUemd3N0FHWnIzWkJkQjdDbm1CZVAwRGpELXdiUE9KM0liVXZtWmRlOU1QQzEyRHJta3Q3OTR3TUVza0U1YXNkeUUwZlRQb21Fa3lfcE9mRWxKVWQzUmZqaGtFTXJOYnNVbEYwOTd1X19rTXBTU29YOUtwMlBZbTQtRjlUalRrUUhGSXo1a21FckYxbXZwYi1hWHowQlkzZUk?oc=5
+
+- India news: BJP to protest nationwide over opposition's Modi remark - DW.com
+  India news: BJP to protest nationwide over
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOXy1OMWhVWjJXREJYUWFpNzNtREMyZDlKNjZiQ3JBZFNISF9DVlFwUi1fbXVmOTJIcXBhZDdlUHpobHZCUDdOdVlTVGZpZ2RhTDZwUmFlX1o1RWJCWHl1OHlEVEhXbHJPWnRtWGxEX0FJbjdDUnB0WWcta18yX1J4anhBRXFpZWxNc1RzMGl3NjRuUkU?oc=5
+
+- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
+  BJP Holds Protests Across Country, Se
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
+
+- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-26 02:49:12 UTC_
+_Last updated: 2026-10-26 12:09:56 UTC_
