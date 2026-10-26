@@ -1,84 +1,64 @@
 # 📰 Daily News Summaries
 
-- Video: After Spending Rs 26 Lakh On India's Maharajas' Express, American YouTubers Say... - NDTV
-  American YouTubers Have Spent Rs 26 L
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTMxY2NXZ1VPYTVlbG91YW1PX2dOOEtNVnBHWm9Sdjhka2JlYmRMc1lSU1pLWUxUR19uUDZQQ0JveVQySWthM1RLemVWRU40djBtNm5PZlotWFFVeDJYODh6Tnd3eUYzRHV1QWRzNTlZX1pCSnNxckZ1WUxia0xmd2xTZjNkSElvQTdOZ0VycUZLTXZnd25DSW50Z1JxTU05MXBvYlFrN2preHkxVUtZRzRmRkhZV3VjbXFv0gHDAUFVX3lxTE1SeDRzdkV2bkdoRk9BVFV1dGVmM2Nzdk9zdDc5NlprTUxoZFdrdkhkaVNKcjVoWXJvUW1zbV9CY3d6czFUempMSmo5UWtoY1VGVHQzUDluZnUtcU5CaDJ3OGZPR3NpZFA3SzdhTll5aV9ZQmNaR3dVdnc4YTlLc0ZUUlVPMGlOU0RmTVNINUxQdEtXeEctbmhuZ2JuanVobVBzMm1TMUpHMmZKU3VmXzZ4VFZ6MGd5LW94amtVWFFJRU81Yw?oc=5
+- Satish Acharya, Manjul: India's cartoonists built an audience online - now their posts are being restricted - BBC
+  Satish Acharya, Manjul: India's cartoonists built
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTDcwelVmYTlWTl9oRXdiVG1Ld1Rsb1gxV1c0dDJpZE92Y2ZPZk1FZ3FCUlRvRUtMRWdYNlVGNkhNUzI0LWhkOHRBRDNocG85T3lxUFoyYVgxSDQ?oc=5
+
+- Cyclone Arnab: Origin Of The Name And What You Need To Know - NDTV
+  Cyclone Arnab: Origin Of The Name And
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlpWcm91amRxSndBeWlRVHdreG1qaXY3MzhsdzZJQ2NWcTU2Y0dwa1dCNzUtM0NiTk9CYk5uMkFGX0g5eC1iOFZZNGRBb0k5VWJoSVRBcS10WXdpLThWcmV1bVhTLS1QbDZlNWJXZFN5Y0ZoOHVCTUF5QkhTcjlSN1BRYXRkNFVabmNyQlNGNmsxRENNWjd2S0tkZm4xN1NJ?oc=5
+
+- 'What did I do wrong?': Ex-India star reveals how being dropped from team pushed him into depression - The Times of India
+  'What did I do wrong?': Ex-India star reveals how being dropped from team
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNRVlZRzJQVE9kVG5vbFljYnV5MXktMkd3aTh1a04xZ0x1VGx2NlR5U2dWeEdDc2RZVXJtSGFEZWFZbk9SaE1pcWJZd0tPZDF4OVE2X3U2SU8zT1AxYzRFMzI3ZWlMX1NMYmVHN2U2QjlyeDVwbU53QUZsVi1oUWV3UU9qZVhpNkdlcDRNN2JieTVGdEVRM1FiVlJuUG9kajhGeTNHWHBIMUkyWWszYllvUlo5bzd2VmFxM0VPNkRjTVZReXNoMmlyVEFMU0pYalA0QlVHeEdPTFNuR3pXMUJabGkwbmU2SnloMHRsdkpoeUlKajhrS3ZDcGRXeXoxb05rUW81b18yS0x0UdIBjwJBVV95cUxNS0JwRHcwaTU0WktHM09lSWpsbVpTR0pTdlRjVTNwTWljV0wydlhmeDgtdlJmeDZRMzZxRDVvbHR5bllrRUhlWE1icVM2V1pleTVSQlp4V0kzMWUwdkdRR29WQUtVVjFBV01sNFdGSml3aFVCWjduVDNlNHpVdE1GdUk2c1hoczdsN3hzRVk2NVFBeHp3YUdjZHoxb1AzZHA1c3d4X0ZnY1JmNU5IbEFVd1dJM3FsUmxTdGpRQ0NCcUE2c0tOLS1WWEcybkprWWgwdzhHb0hjLUdaaUlYZ3plLTgwNkZzaklLZE9kNVp6M1JGeVN0NUhCeXlqTmt5QzRicU41UFF4TXMwQnRNaVlJ?oc=5
 
 - India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
   India news: Rahul Gandhi urges protest against voter deletions
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
 
-- 'Candidates In All 403 Seats': Ex-IAS Officer Divya Mittal's UP Poll Pitch - NDTV
-  'Candidates In All 403 Seats': Ex
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFAxb2ZIYWdMSk5nOXZhd1NWZWJyaWlabWo2Y0RoYW1uTVVyOWlzQkw3ME1raE8tSUl1aDk5UlV1NnNFTEE0cEw4NElmb2ZKUERlaE0zX1kydVFaRTZQQ0J0SHFKWXpTOWJENkl0T3dZS2o2cVYxS1hPeF9pVWljeFVFRjZjQkFfZXFKNGI5UmZEMXVzclBxSjNYTmo1M0gwa3VVTS02NGdJOGtnYzhKTNIBuAFBVV95cUxPNFQ5T1Qxc0tpdkZLT3JlSWNGSU56dURUWHdzangzS1BQVEo1Znk0Y3l6RVJheUdoeDAtbTVGWDIxd1hIaEpvMUdKbnlSdGlUamhWTzExcVNYc2szeUdLeWZnTF94NW8zT2xtN0QwdXhYcXdHZERxY2owQS1ZbHo4UXVxaVVySmZBcHFXY1RBQThSVHRVN2g0UGlydUZHdVpGckE5QU01eENIOW1raWRlaEx2bUxNclk4?oc=5
+- Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar - The Hindu
+  Hindutva reading builds on colonial interpretations of
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdDlpNU55NmpBWTJlX2gwM3hpS1RnTWU5dGZhajZhaEI5dHI0S04yQkx2MlFIRWhnQ0VjQ0prbDYzRk5wenl1RDhOMkNOWWtRTURjaHhHaE1QMFRmVl9jN3NTZXJ0UzBsRGFKMzQwWlNLcFJqVTRJQnRhdmhmMU5RenNfWHRNT2MyTEx4OHA1RUFGLTkxbzRkc00yNHBWUTJPOXdJN1ZJYmhldTRfbWdqOEhVWkNRVWRYVmlLZXNVY1p1cWVuZHJ4NFF2VXphTHE5cTluSUJxdF82QdIB4AFBVV95cUxNYTZ2VGkzY0RTRWRLaUVPekJtNlhsZXFYSXlHRWE2SFRwQzVaZXJveS04YzhvRGZYb2tWQVVnVmQtNVQ4TUFRVlVvY0h5VTdkZFBYNUYxTUNKM2RmNkxhOU1RUlBOeXIyRUdpeENkSVBsYzZESFBOakNZeDhrYTVTT2Jvc0Z3SVZXeVpEc0Vlak1sRTBrNXlnc1Z5SVp1SUVmRi1JZDhzNnYwQS1XXzRuYmFkaWVPYXBsU05mMXpHSWItRjM1dDIzOHBGZFBFNE1QaXpDWExYcjA3RlBzcURZcw?oc=5
 
-- Heartfelt thanks to BJP for 'promoting' INDIA bloc rally with great enthusiasm: Rahul - The Hindu
-  "Heartfelt thanks to BJP for 'promoting' IND
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHhWSXhCVVAwVVFYMnZpYkhEbDNOanBfbXVWdWVnUkFBajFKRkRBd3ZSNHd1YXMxcjdETGNWR2JzaUtXanZpZDl5YXVHYV9iMy05cUZaMnI5TlowSnloSmtZX0tSanBBeFk2bHJESjFmaC1QbVBvVFpaQ1NYbHE1NzlmbHF2V1FoTmFLU3RxamV1Tk9kZFh0ZTN0S2ZabDNmWXBUQ1V4X25jWDY3Z0hNb3R5bzJjMlNGTVRGYTNibnZFX3p0UFM5d2tUb9IB0gFBVV95cUxNeUhUWEI4NmhvSXh5YkdYclVpWEx4RTI1dVhGZnNyRThKa3BfaXI5bEp2OWc5V0RveHhtVVUwR1lLRFU3Q25wMWNEUUZjZElJM2p1djk4aUVvbFdUYVhLVUZESnltOEV2N05mSGl2Z2hfRDlhSmhISE9KUW0zc2V2WWRGNVBsS2hOMFExWkJHRlhyXzJTSVVsMmdGUkNKYUlUMTZVTmtyN3M0X1lJclotZ1htVzJONWc4YXhnN3ZsQnF4YklKemZQVWhrRHBUT3FBVFE?oc=5
+- Elon Musk says SpaceX closed $40 billion debt deal for AI chips as firm ‘investment grade, has Starlink, launch revenue’
+  SpaceX has closed a $40 billion debt deal to buy Nvidia GPUs for its AI data centers. Billionaire Elon Musk said the company's
+  🔗 https://www.livemint.com/companies/news/elon-musk-says-spacex-closed-40-billion-debt-deal-for-ai-chips-as-firm-investment-grade-has-starlink-launch-revenue-11792979546399.html
 
-- India advises its nationals in Saudi Arabia against filming missile interceptions - The Hindu
-  India advises its nationals in Saudi Arabia against filming missile
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeksyR2kzMHBNdEsxcXlHN2tkLXpuTFNCbWxxelhmWU9sOFVyYmMxbndfQXcyWWM1cjVHY3NuaE9ZbFBQVGFpNjRCQ0Jjbi1YTW8wUW9ueDkxS216VjBVN2lWOEM2bUlERnlsQXlCMHgxWXp0OEdlaktHRlg4NGwtb3FqU3RtUjJmOHpzMU5pMW40VU40d1lyY2J5M3Z2czF0UGtlSE5qZUpLNFMwdHQyNGg4M1UwZFdYMk5xMXhFTU5qb1UyUFZ2UDJPamo1dXBKODNBRmNZRdIB3gFBVV95cUxQNXdQWHUyelpudlh4RVhiLXVjclRUY1RPTDVScXhPRkNiNlpNYVdtMDlYY3RTVUtfYlU4TDgtT0V3RDhBQ1A5Y2JEOWtZQVd2NEtJajZWbXgxUklpc3FZM09yLS1MaUZuclktN1luZjY0bVVuSk03SG8tQXhheEZmVGRTd3g2YlNNUlFYU1RNaHlnNDAxTUVRZU85X1NzcFhNZW4xWmVlb3FVLXY1OVZsYWdjdnpTaElLSDVZZlQtU3gwT0FLOTVEMy10QUNIdVdObm1mNHRpZGl6amRoT1E?oc=5
+- IIFL Capital hires four Barclays bankers to expand wealth business
+  The Fairfax-controlled firm is stepping up its push to attract wealthy Indian families.
+  🔗 https://www.livemint.com/companies/news/iifl-capital-hires-four-barclays-private-bankers-wealth-management-11792907008126.html
 
-- New 'Scentronic' technology can detect and transmit aromas remotely - Reuters
-  New 'Scentronic' technology
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmZBLTd5bVRsTzROWmxobU5nZXowczBOamVXUFVyWVd0TkpUb3NXSzUxVWplaHBzVEtVTlhjVDFlME40eHNxeDliNElDSkQtZ3l5YnRndjhuZ3ZLbEtlbmhsWjhwRzV5d0dCb1FGZlRaak9BbU9qaENXV181djB0ZEd0UjVrVXpBNkZGZUR0OEctbDYzX0VOOEVNWk54VHVIcE5lX1FwMF8?oc=5
+- JSW MG taps into Chinese parent Saic for 70% of its purchases
+  Nearly 70% of the joint venture’s purchases in the financial year 2026 came from Saic-linked firms. The total business
+  🔗 https://www.livemint.com/companies/news/jsw-mg-motor-india-taps-into-china-parent-saic-motor-for-70-purchases-11792917400984.html
 
-- Apollo’s Slok Says AI Has Delivered Zero Payoff Outside of Tech - Bloomberg.com
-  Apollo’s Slok says AI
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1FnYXFIOUpyU1VUdzNDazE4cFE2VDFyNU5DS3h0R0VSR2xHa0k0V2dHZ0hKbTZ6dFo3X1hUSW96S2dRRE5GODJUSUlCQ0dHUTVpSUJ0ZExNM1FBMVFld0JmSTBDMkpfSG5IOXVlS0hPX1h6OHpRT0xhbzNweEVxVDBLZGRreHVCc0VPZjVEQjN5dEIxQ2x4TGhfN2o3UHA3dVZrTXhRNVhsV216MGxNSnZWUGdNU1JiQjMxbQ?oc=5
+- Eternal’s District explores live-event venues to cut concert costs, counter AI threat
+  The out-of-home consumption platform is exploring partnerships with property owners and governments to build dedicated venues.
+  🔗 https://www.livemint.com/companies/news/eternals-district-explores-live-event-venues-to-cut-concert-costs-counter-ai-threat-11792903705050.html
 
-- The PHP developer who became the unsung hero of the internet - BBC
-  The PHP developer who became the unsung hero
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LdS1LRWVpT2JkYXRKYUhhRF9OZGdzTEJSWUllclhPek1Wd2ZqUU5GeTR4b29TckJkVndpQzIyLU9IT1BfOVVFRnI0VXlEeVVGV0FaZFcyMUdBVEU?oc=5
+- Wow! Momo plans  ₹300 crore fundraise, eyes overseas expansion ahead of proposed IPO
+  The Kolkata-based QSR chain plans to enter Sri Lanka this year and explore the UAE. It
+  🔗 https://www.livemint.com/companies/news/wow-momo-ipo-plans-fundraise-overseas-expansion-11792751168706.html
 
-- Put Your A.I. Agents to Work With These 5 Killer Tasks - The New York Times
-  The New York Times published an article about putting A.I
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxObVM3eS0zbjY1QVZYMl92Ym80ZHZ2MTJ2ZTVycG8xY2FrWjAzSHlOODNKUmhWTkhuN1RqSm9TeXJPLXBzM0s3YUhKY2ttZVpENjlVQmRpbGIxazBISmNnYkExbFR1RnMtSGRaTVlYaFdxYzlHOTJvT1JjMDBzVnE0UnRieGJabm0tZ1lWYXJEcnlYeTBobWRMNjY0QWxVeG8?oc=5
+- Indian shares on track for muted open as oil concerns persist, Fed in focus
+  The Nifty 50 and BSE Sensex fell 2.4% and 2.2%, respectively,
+  🔗 https://www.livemint.com/market/stock-market-news/indian-shares-on-track-for-muted-open-as-oil-concerns-persist-fed-in-focus-11792981672692.html
 
-- Yogi Adityanath warns AI deepfake criminals will be tracked through forensic technology - ET Government
-  Yogi Adityanath warns AI deepfake criminals
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaVh0TTl5VUZSbGkyYm0wd3RmcG9PVU5VWHNhUlg5NjM3WlQwbWp0UzJ4S0YydkRrM1FZaVlZNVloM01qcFVKdEk1WDRYTEg5TldYTFZzcEFXVWZsLTlXdnVrMlJwaU1vMlF0YTR3MGMzakRZckpfUGRmYnRtNWQza1p2ZGhjcmJnaDhPb2d3cmNHMEJaWGRRUGsyemhqdm9HaXVaLWxIdk5wcnQzZV9BdkZHSjBJYzM2UUtGSFcwZGFpQ0JHZDNsUnRLdVRnZ09wNnNocFc3TWQ4emtWczR6VFVDUWs3NE85cElISS1uUEFvd9IB9wFBVV95cUxQRnh6QkxndDBJUVBMS3ZpbVBuQUpHbUhwY2R1UjNEMTBIMUpOQzNkRHhSX1NvMktQVUsyRERmSXpVZ1lSQ0NST1JrRDFub2s1SnFkSTZXaG1iUzJHb2kyaTAxa1lpX193ZmMwekczMmdiU1YzYVprTUluYVd1dGJTdnNSUUNsOXNKREdjZ1g5TXJ1Vjl5YW1ucGN4UUdUVWRYOE50cFdSZ1JaS3V1dzVVaWdFS0tyakVoVDlKZm1iSF9yRklpc1JLdUR1ak1XZVV0ZVBJM2dtblhRa05KemgxSTA4bTFYZ213emlGRFdlb0FOVHktZHFV?oc=5
+- Top stocks to watch today: Paytm, Mankind Pharma, Infosys, BPCL shares in focus on Monday, 26 Oct | Full list
+  Paytm, Mankind Pharma, Tata Consumer, ITC Hotels, Infosys, BP
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-paytm-mankind-pharma-infosys-bpcl-shares-in-focus-on-monday-26-oct-full-list-11792978063209.html
 
-- Who ordered Starlink speed restrictions on Ukraine? Elon Musk reveals why SpaceX throttled service
-  Elon Musk acknowledged that SpaceX restricted Starlink speeds in Ukraine, alleging the military violated its terms of service. Services have since been restored, with Trump confirming he spoke to Musk about
-  🔗 https://www.livemint.com/companies/who-ordered-starlink-speed-restrictions-on-ukraine-elon-musk-reveals-why-spacex-throttled-service-11792943727700.html
+- Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues
+  Gift Nifty was trading around the 22,535 level, down nearly 72.50 points or 0.32% from the Nifty futures’ previous close
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-26-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-cues-11792975256498.html
 
-- Who is Kuldeep Sehrawat? Former IBM executive joins Wipro as director and head of marketing for India
-  Wipro appoints Kuldeep Sehrawat as director and head of marketing for India. He joins from IBM, where he spent over eight
-  🔗 https://www.livemint.com/companies/people/who-is-kuldeep-sehrawat-former-ibm-executive-joins-wipro-as-director-and-head-of-marketing-for-india-11792939008962.html
+- Capital shifting from secondary market to  ₹5 trillion IPO pipeline: Madhu Lunawat
+  High valuations and currency depreciation are keeping FIIs cautious. perceived 10-12% inflation is pushing retail funds into small- mid
+  🔗 https://www.livemint.com/market/stock-market-news/capital-secondary-market-to-5-trillion-ipo-pipeline-madhu-lunawat-11792907791369.html
 
-- Instacart explores potential sale, holds preliminary talks with Uber and DoorDash: Here's all about the deal
-  Instacart is exploring a possible sale and has held preliminary discussions with Uber and DoorDash, as per a report. A deal could value the company at $16 billion to $17 billion, but
-  🔗 https://www.livemint.com/companies/news/instacart-explores-potential-sale-holds-preliminary-talks-with-uber-and-doordash-heres-all-about-the-deal-11792937647728.html
-
-- Who is Rithvik Jyothi Raj? Jailer 2 actor who plays Rajinikanth’s grandson runs a startup at 13, wants to write comics
-  Rithvik Jyothi Raj, 13, plays Rajinikanth's grandson in Jailer and Jailer 2. The young actor also enjoys coding, robotics, and writing
-  🔗 https://www.livemint.com/companies/people/who-is-rithvik-jyothi-raj-jailer-2-actor-who-plays-rajinikanth-s-grandson-runs-a-startup-at-13-wants-to-write-comics-11792937111144.html
-
-- KFC US president Catherine Tan-Gillespie washed dishes at 13 for $1.20 an hour: Why she never chased money or big titles
-  Catherine Tan-Gillespie, president of KFC US, began her career washing dishes at 13 for £1.20 an hour. The 52-year-old executive says she built
-  🔗 https://www.livemint.com/companies/people/kfc-us-president-catherine-tan-gillespie-washed-dishes-at-13-for-1-20-an-hour-why-she-never-chased-money-or-big-titles-11792935069717.html
-
-- US Stock Markets this week: Wall Street gears up for Fed rate decision; Q3 earnings from Alphabet, Microsoft, Amazon
-  Google, Microsoft and Amazon results to test AI investment optimism as rising oil
-  🔗 https://www.livemint.com/market/us-stock-markets-this-week-wall-street-gears-up-for-fed-rate-decision-q3-earnings-from-alphabet-microsoft-amazon-11792944787786.html
-
-- PSU Q2 results 2026 preview: BEL, Coal India, IGL - Earnings estimate, brokerage target price, returns potential
-  BEL, Coal India and IGL are in focus ahead of their Q2 FY2026-27 results. Analysts expect BEL revenue to grow 16%, IGL volumes to rise 6%, and Coal India production to
-  🔗 https://www.livemint.com/market/stock-market-news/psu-q2-results-2026-preview-bel-coal-india-igl-earnings-estimate-brokerage-target-price-returns-potential-11792946740816.html
-
-- Dividend buzz: Dalmia Bharat, Mazagon Dock, Coal India, NTPC, others to consider payouts this week - Check full list
-  Indian equities ended lower on Friday, with the Nifty 50 down 0.39%. Several companies, including REC, Coal India, NTPC and Godre
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-buzz-dalmia-bharat-mazagon-dock-coal-india-ntpc-2-others-to-consider-payouts-this-week-11792943992658.html
-
-- IT stocks dividend record date this week: Cyient, LT Tech, Hexaware, Hypersoft, Sagility - Who pays most? Amount, return
-  Nifty IT rose nearly 1.17% over five sessions despite broader market weakness. Five IT stocks have dividend record dates from October 26 to 30. Announced payouts include  ₹
-  🔗 https://www.livemint.com/market/stock-market-news/it-stocks-dividend-record-date-this-week-cyient-lt-tech-hexaware-hypersoft-sagility-who-pays-most-amount-return-11792938159348.html
-
-- Reliance’s Jio Platforms IPO allotment on Mon, Oct 26: What happens to your money if you get none, one or many lots?
-  Jio Platforms’ IPO was subscribed more than 22 times, making allotment uncertain. Applicants allotted no shares will have their blocked funds released. Those allotted one 12-share
-  🔗 https://www.livemint.com/market/ipo/reliances-jio-platforms-ipo-allotment-on-wed-oct-26-what-happens-to-your-money-if-you-get-none-one-or-many-lots-11792937452744.html
+- Infosys’s huge deal wins fail to give it an edge over peers
+  Infosys has trimmed its full-year growth outlook, leaving it trailing key
+  🔗 https://www.livemint.com/market/mark-to-market/infosys-q2-fy27-quarterly-results-review-11792904482073.html
 
 - Deepinder Goyal’s Temple brain wearable:  ₹85,000 price, pre-order date and features
   Deepinder Goyal’s Temple brain-monitoring wearable is reportedly priced at  ₹85,000. The device tracks changes in cerebral blood flow
@@ -100,45 +80,29 @@
   OnePlus Diwali Sale 2026 offers discounts on smartphones, tablets and audio products. Smartphone deals run until October 25, while tablet and audio offers end on October 27.
   🔗 https://www.livemint.com/technology/tech-news/oneplus-diwali-sale-2026-nord-6-oneplus-15-nord-ce6-lite-get-discounts-check-offers-on-phones-earbuds-and-tablets-11792854036432.html
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Indian equities fell over 2% last week as rising crude oil prices, FII outflows and geopolitical tensions weighed on sentiment. Broader markets
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135189090.cms
+- Oil Price Today (October 26): Crude oil at $115, retreats from 6-month high despite lingering concerns. What are experts saying?
+  Both benchmarks had settled nearly $3 higher on Friday following Houthi attacks in Saudi Arabia. US crude futures declined $1.82, or 2%, to $101.48 a barrel, while Brent crude futures dropped $ 1.50
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-26-crude-oil-at-115-retreats-from-6-month-high-despite-lingering-concerns-what-are-experts-saying/articleshow/135200948.cms
 
-- Peter Lynch on stock picking: 'You shouldn't own a stock if you can't…'
-  Peter Lynch’s investing advice centres on understanding a company before buying its stock. The legendary Fidelity Magellan Fund manager stresses researching business fundamentals,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/peter-lynch-on-stock-picking-you-shouldnt-own-a-stock-if-you-cant/articleshow/135188450.cms
+- Currency markets subdued ahead of pivotal central bank week
+  Major currencies hover in narrow trading bands amidst pivotal central bank meetings. Oil prices experienced a decline after hitting a six-month high, affecting the strength of the dollar. US Treasury yields remain elevated due to lingering inflation worries connected to the rising
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/currency-markets-subdued-ahead-of-pivotal-central-bank-week/articleshow/135200680.cms
 
-- Mcap of 8 of top-10 firms erodes by Rs 1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards
-  The BSE Sensex plummeted by 1,605.44 points, indicating a bearish atmosphere across equities. The declines of HDFC Bank and Bajaj Finance were particularly striking. Tata Consultancy Services and Larsen &amp
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms
+- Crude oil is the key to bringing FII money back to Dalal Street: Equirus AMC’s Ashutosh Tiwari
+  Foreign investors may return to Indian equities only if crude oil prices cool, says Ashutosh Tiwari. Rising oil prices have emerged as the key trigger behind renewed FII selling.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/crude-oil-is-the-key-to-bringing-fii-money-back-to-dalal-street-equirus-amcs-ashutosh-tiwari/articleshow/135200515.cms
 
-- F&amp;O Talk: Nifty plunged 2% this week. Are charts indicating a deeper sell-off?
-  SBI Securities’ Sudeep Shah expects continued weakness in Indian equities. He identifies key Nifty support and resistance levels and flags IT as a relatively stronger
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-plunged-2-this-week-do-charts-indicate-a-bearish-picture-for-coming-week/articleshow/135186474.cms
+- Negative Breakout: These 5 stocks cross below their 200 DMAs
+  The 200 DMA is a widely used technical indicator that helps traders assess
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-5-stocks-cross-below-their-200-dmas/slideshow/135200624.cms
 
-- Warren Buffett’s 6 golden rules for investors after retirement
-  Warren Buffett’s retirement advice focuses on low-cost index investing, paying off high-interest debt, maintaining cash reserves. His long-standing principles offer lessons on building
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/warren-buffetts-6-golden-rules-for-investors-after-retirement/articleshow/135186407.cms
+- Gold lingers near three-month low ahead of Fed policy meeting
+  Gold prices dipped close to a three-month low, reflecting worries from investors. In the oil market, prices fell back after a prior rise, amid ongoing supply worries linked to conflicts.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-three-month-low-ahead-of-fed-policy-meeting/articleshow/135200563.cms
 
-- Video: After Spending Rs 26 Lakh On India's Maharajas' Express, American YouTubers Say... - NDTV
-  American YouTubers Have Spent Rs 26 L
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTMxY2NXZ1VPYTVlbG91YW1PX2dOOEtNVnBHWm9Sdjhka2JlYmRMc1lSU1pLWUxUR19uUDZQQ0JveVQySWthM1RLemVWRU40djBtNm5PZlotWFFVeDJYODh6Tnd3eUYzRHV1QWRzNTlZX1pCSnNxckZ1WUxia0xmd2xTZjNkSElvQTdOZ0VycUZLTXZnd25DSW50Z1JxTU05MXBvYlFrN2preHkxVUtZRzRmRkhZV3VjbXFv0gHDAUFVX3lxTE1SeDRzdkV2bkdoRk9BVFV1dGVmM2Nzdk9zdDc5NlprTUxoZFdrdkhkaVNKcjVoWXJvUW1zbV9CY3d6czFUempMSmo5UWtoY1VGVHQzUDluZnUtcU5CaDJ3OGZPR3NpZFA3SzdhTll5aV9ZQmNaR3dVdnc4YTlLc0ZUUlVPMGlOU0RmTVNINUxQdEtXeEctbmhuZ2JuanVobVBzMm1TMUpHMmZKU3VmXzZ4VFZ6MGd5LW94amtVWFFJRU81Yw?oc=5
-
-- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
-  India news: Rahul Gandhi urges protest against voter deletions
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
-
-- 'Candidates In All 403 Seats': Ex-IAS Officer Divya Mittal's UP Poll Pitch - NDTV
-  'Candidates In All 403 Seats': Ex
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFAxb2ZIYWdMSk5nOXZhd1NWZWJyaWlabWo2Y0RoYW1uTVVyOWlzQkw3ME1raE8tSUl1aDk5UlV1NnNFTEE0cEw4NElmb2ZKUERlaE0zX1kydVFaRTZQQ0J0SHFKWXpTOWJENkl0T3dZS2o2cVYxS1hPeF9pVWljeFVFRjZjQkFfZXFKNGI5UmZEMXVzclBxSjNYTmo1M0gwa3VVTS02NGdJOGtnYzhKTNIBuAFBVV95cUxPNFQ5T1Qxc0tpdkZLT3JlSWNGSU56dURUWHdzangzS1BQVEo1Znk0Y3l6RVJheUdoeDAtbTVGWDIxd1hIaEpvMUdKbnlSdGlUamhWTzExcVNYc2szeUdLeWZnTF94NW8zT2xtN0QwdXhYcXdHZERxY2owQS1ZbHo4UXVxaVVySmZBcHFXY1RBQThSVHRVN2g0UGlydUZHdVpGckE5QU01eENIOW1raWRlaEx2bUxNclk4?oc=5
-
-- Heartfelt thanks to BJP for 'promoting' INDIA bloc rally with great enthusiasm: Rahul - The Hindu
-  "Heartfelt thanks to BJP for 'promoting' IND
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHhWSXhCVVAwVVFYMnZpYkhEbDNOanBfbXVWdWVnUkFBajFKRkRBd3ZSNHd1YXMxcjdETGNWR2JzaUtXanZpZDl5YXVHYV9iMy05cUZaMnI5TlowSnloSmtZX0tSanBBeFk2bHJESjFmaC1QbVBvVFpaQ1NYbHE1NzlmbHF2V1FoTmFLU3RxamV1Tk9kZFh0ZTN0S2ZabDNmWXBUQ1V4X25jWDY3Z0hNb3R5bzJjMlNGTVRGYTNibnZFX3p0UFM5d2tUb9IB0gFBVV95cUxNeUhUWEI4NmhvSXh5YkdYclVpWEx4RTI1dVhGZnNyRThKa3BfaXI5bEp2OWc5V0RveHhtVVUwR1lLRFU3Q25wMWNEUUZjZElJM2p1djk4aUVvbFdUYVhLVUZESnltOEV2N05mSGl2Z2hfRDlhSmhISE9KUW0zc2V2WWRGNVBsS2hOMFExWkJHRlhyXzJTSVVsMmdGUkNKYUlUMTZVTmtyN3M0X1lJclotZ1htVzJONWc4YXhnN3ZsQnF4YklKemZQVWhrRHBUT3FBVFE?oc=5
-
-- India advises its nationals in Saudi Arabia against filming missile interceptions - The Hindu
-  India advises its nationals in Saudi Arabia against filming missile
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeksyR2kzMHBNdEsxcXlHN2tkLXpuTFNCbWxxelhmWU9sOFVyYmMxbndfQXcyWWM1cjVHY3NuaE9ZbFBQVGFpNjRCQ0Jjbi1YTW8wUW9ueDkxS216VjBVN2lWOEM2bUlERnlsQXlCMHgxWXp0OEdlaktHRlg4NGwtb3FqU3RtUjJmOHpzMU5pMW40VU40d1lyY2J5M3Z2czF0UGtlSE5qZUpLNFMwdHQyNGg4M1UwZFdYMk5xMXhFTU5qb1UyUFZ2UDJPamo1dXBKODNBRmNZRdIB3gFBVV95cUxQNXdQWHUyelpudlh4RVhiLXVjclRUY1RPTDVScXhPRkNiNlpNYVdtMDlYY3RTVUtfYlU4TDgtT0V3RDhBQ1A5Y2JEOWtZQVd2NEtJajZWbXgxUklpc3FZM09yLS1MaUZuclktN1luZjY0bVVuSk03SG8tQXhheEZmVGRTd3g2YlNNUlFYU1RNaHlnNDAxTUVRZU85X1NzcFhNZW4xWmVlb3FVLXY1OVZsYWdjdnpTaElLSDVZZlQtU3gwT0FLOTVEMy10QUNIdVdObm1mNHRpZGl6amRoT1E?oc=5
+- Growth Vs Profitability: Swiggy’s Tug-Of-War
+  Swiggy’s results for the second quarter (Q2) of the financial year 2026-27 (FY27) show that the tug of
+  🔗 https://inc42.com/features/growth-vs-profitability-swiggys-tug-of-war/
 
 - Flipkart’s Summer Of Discontent
   Questions over an IPO and ESOPs, huge investments in quick commerce and food delivery and the pressure to deliver profits.
@@ -156,49 +120,45 @@
   UPI provider super.money reported a net loss of ₹263.8 Cr in FY26, 78.5% higher than the loss incurred in&#82
   🔗 https://inc42.com/buzz/flipkart-backed-super-moneys-fy26-revenue-triples-to-%e2%82%b9292-cr/
 
-- PHP2Shell: Who Is At Risk And How Can Businesses Stay Safe?
-  PHP, a programming language used to build websites, is at the centre of a major security concern.
-  🔗 https://inc42.com/features/php2shell-who-is-at-risk-and-how-can-businesses-stay-safe/
+- Satish Acharya, Manjul: India's cartoonists built an audience online - now their posts are being restricted - BBC
+  Satish Acharya, Manjul: India's cartoonists built
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTDcwelVmYTlWTl9oRXdiVG1Ld1Rsb1gxV1c0dDJpZE92Y2ZPZk1FZ3FCUlRvRUtMRWdYNlVGNkhNUzI0LWhkOHRBRDNocG85T3lxUFoyYVgxSDQ?oc=5
 
-- Video: After Spending Rs 26 Lakh On India's Maharajas' Express, American YouTubers Say... - NDTV
-  American YouTubers Have Spent Rs 26 L
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTMxY2NXZ1VPYTVlbG91YW1PX2dOOEtNVnBHWm9Sdjhka2JlYmRMc1lSU1pLWUxUR19uUDZQQ0JveVQySWthM1RLemVWRU40djBtNm5PZlotWFFVeDJYODh6Tnd3eUYzRHV1QWRzNTlZX1pCSnNxckZ1WUxia0xmd2xTZjNkSElvQTdOZ0VycUZLTXZnd25DSW50Z1JxTU05MXBvYlFrN2preHkxVUtZRzRmRkhZV3VjbXFv0gHDAUFVX3lxTE1SeDRzdkV2bkdoRk9BVFV1dGVmM2Nzdk9zdDc5NlprTUxoZFdrdkhkaVNKcjVoWXJvUW1zbV9CY3d6czFUempMSmo5UWtoY1VGVHQzUDluZnUtcU5CaDJ3OGZPR3NpZFA3SzdhTll5aV9ZQmNaR3dVdnc4YTlLc0ZUUlVPMGlOU0RmTVNINUxQdEtXeEctbmhuZ2JuanVobVBzMm1TMUpHMmZKU3VmXzZ4VFZ6MGd5LW94amtVWFFJRU81Yw?oc=5
+- Cyclone Arnab: Origin Of The Name And What You Need To Know - NDTV
+  Cyclone Arnab: Origin Of The Name And
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlpWcm91amRxSndBeWlRVHdreG1qaXY3MzhsdzZJQ2NWcTU2Y0dwa1dCNzUtM0NiTk9CYk5uMkFGX0g5eC1iOFZZNGRBb0k5VWJoSVRBcS10WXdpLThWcmV1bVhTLS1QbDZlNWJXZFN5Y0ZoOHVCTUF5QkhTcjlSN1BRYXRkNFVabmNyQlNGNmsxRENNWjd2S0tkZm4xN1NJ?oc=5
 
-- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
-  India news: Rahul Gandhi urges protest against voter deletions
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
-
-- 'Candidates In All 403 Seats': Ex-IAS Officer Divya Mittal's UP Poll Pitch - NDTV
-  'Candidates In All 403 Seats': Ex
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFAxb2ZIYWdMSk5nOXZhd1NWZWJyaWlabWo2Y0RoYW1uTVVyOWlzQkw3ME1raE8tSUl1aDk5UlV1NnNFTEE0cEw4NElmb2ZKUERlaE0zX1kydVFaRTZQQ0J0SHFKWXpTOWJENkl0T3dZS2o2cVYxS1hPeF9pVWljeFVFRjZjQkFfZXFKNGI5UmZEMXVzclBxSjNYTmo1M0gwa3VVTS02NGdJOGtnYzhKTNIBuAFBVV95cUxPNFQ5T1Qxc0tpdkZLT3JlSWNGSU56dURUWHdzangzS1BQVEo1Znk0Y3l6RVJheUdoeDAtbTVGWDIxd1hIaEpvMUdKbnlSdGlUamhWTzExcVNYc2szeUdLeWZnTF94NW8zT2xtN0QwdXhYcXdHZERxY2owQS1ZbHo4UXVxaVVySmZBcHFXY1RBQThSVHRVN2g0UGlydUZHdVpGckE5QU01eENIOW1raWRlaEx2bUxNclk4?oc=5
-
-- Heartfelt thanks to BJP for 'promoting' INDIA bloc rally with great enthusiasm: Rahul - The Hindu
-  "Heartfelt thanks to BJP for 'promoting' IND
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHhWSXhCVVAwVVFYMnZpYkhEbDNOanBfbXVWdWVnUkFBajFKRkRBd3ZSNHd1YXMxcjdETGNWR2JzaUtXanZpZDl5YXVHYV9iMy05cUZaMnI5TlowSnloSmtZX0tSanBBeFk2bHJESjFmaC1QbVBvVFpaQ1NYbHE1NzlmbHF2V1FoTmFLU3RxamV1Tk9kZFh0ZTN0S2ZabDNmWXBUQ1V4X25jWDY3Z0hNb3R5bzJjMlNGTVRGYTNibnZFX3p0UFM5d2tUb9IB0gFBVV95cUxNeUhUWEI4NmhvSXh5YkdYclVpWEx4RTI1dVhGZnNyRThKa3BfaXI5bEp2OWc5V0RveHhtVVUwR1lLRFU3Q25wMWNEUUZjZElJM2p1djk4aUVvbFdUYVhLVUZESnltOEV2N05mSGl2Z2hfRDlhSmhISE9KUW0zc2V2WWRGNVBsS2hOMFExWkJHRlhyXzJTSVVsMmdGUkNKYUlUMTZVTmtyN3M0X1lJclotZ1htVzJONWc4YXhnN3ZsQnF4YklKemZQVWhrRHBUT3FBVFE?oc=5
-
-- India advises its nationals in Saudi Arabia against filming missile interceptions - The Hindu
-  India advises its nationals in Saudi Arabia against filming missile
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeksyR2kzMHBNdEsxcXlHN2tkLXpuTFNCbWxxelhmWU9sOFVyYmMxbndfQXcyWWM1cjVHY3NuaE9ZbFBQVGFpNjRCQ0Jjbi1YTW8wUW9ueDkxS216VjBVN2lWOEM2bUlERnlsQXlCMHgxWXp0OEdlaktHRlg4NGwtb3FqU3RtUjJmOHpzMU5pMW40VU40d1lyY2J5M3Z2czF0UGtlSE5qZUpLNFMwdHQyNGg4M1UwZFdYMk5xMXhFTU5qb1UyUFZ2UDJPamo1dXBKODNBRmNZRdIB3gFBVV95cUxQNXdQWHUyelpudlh4RVhiLXVjclRUY1RPTDVScXhPRkNiNlpNYVdtMDlYY3RTVUtfYlU4TDgtT0V3RDhBQ1A5Y2JEOWtZQVd2NEtJajZWbXgxUklpc3FZM09yLS1MaUZuclktN1luZjY0bVVuSk03SG8tQXhheEZmVGRTd3g2YlNNUlFYU1RNaHlnNDAxTUVRZU85X1NzcFhNZW4xWmVlb3FVLXY1OVZsYWdjdnpTaElLSDVZZlQtU3gwT0FLOTVEMy10QUNIdVdObm1mNHRpZGl6amRoT1E?oc=5
-
-- Video: After Spending Rs 26 Lakh On India's Maharajas' Express, American YouTubers Say... - NDTV
-  American YouTubers Have Spent Rs 26 L
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTMxY2NXZ1VPYTVlbG91YW1PX2dOOEtNVnBHWm9Sdjhka2JlYmRMc1lSU1pLWUxUR19uUDZQQ0JveVQySWthM1RLemVWRU40djBtNm5PZlotWFFVeDJYODh6Tnd3eUYzRHV1QWRzNTlZX1pCSnNxckZ1WUxia0xmd2xTZjNkSElvQTdOZ0VycUZLTXZnd25DSW50Z1JxTU05MXBvYlFrN2preHkxVUtZRzRmRkhZV3VjbXFv0gHDAUFVX3lxTE1SeDRzdkV2bkdoRk9BVFV1dGVmM2Nzdk9zdDc5NlprTUxoZFdrdkhkaVNKcjVoWXJvUW1zbV9CY3d6czFUempMSmo5UWtoY1VGVHQzUDluZnUtcU5CaDJ3OGZPR3NpZFA3SzdhTll5aV9ZQmNaR3dVdnc4YTlLc0ZUUlVPMGlOU0RmTVNINUxQdEtXeEctbmhuZ2JuanVobVBzMm1TMUpHMmZKU3VmXzZ4VFZ6MGd5LW94amtVWFFJRU81Yw?oc=5
+- 'What did I do wrong?': Ex-India star reveals how being dropped from team pushed him into depression - The Times of India
+  'What did I do wrong?': Ex-India star reveals how being dropped from team
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNRVlZRzJQVE9kVG5vbFljYnV5MXktMkd3aTh1a04xZ0x1VGx2NlR5U2dWeEdDc2RZVXJtSGFEZWFZbk9SaE1pcWJZd0tPZDF4OVE2X3U2SU8zT1AxYzRFMzI3ZWlMX1NMYmVHN2U2QjlyeDVwbU53QUZsVi1oUWV3UU9qZVhpNkdlcDRNN2JieTVGdEVRM1FiVlJuUG9kajhGeTNHWHBIMUkyWWszYllvUlo5bzd2VmFxM0VPNkRjTVZReXNoMmlyVEFMU0pYalA0QlVHeEdPTFNuR3pXMUJabGkwbmU2SnloMHRsdkpoeUlKajhrS3ZDcGRXeXoxb05rUW81b18yS0x0UdIBjwJBVV95cUxNS0JwRHcwaTU0WktHM09lSWpsbVpTR0pTdlRjVTNwTWljV0wydlhmeDgtdlJmeDZRMzZxRDVvbHR5bllrRUhlWE1icVM2V1pleTVSQlp4V0kzMWUwdkdRR29WQUtVVjFBV01sNFdGSml3aFVCWjduVDNlNHpVdE1GdUk2c1hoczdsN3hzRVk2NVFBeHp3YUdjZHoxb1AzZHA1c3d4X0ZnY1JmNU5IbEFVd1dJM3FsUmxTdGpRQ0NCcUE2c0tOLS1WWEcybkprWWgwdzhHb0hjLUdaaUlYZ3plLTgwNkZzaklLZE9kNVp6M1JGeVN0NUhCeXlqTmt5QzRicU41UFF4TXMwQnRNaVlJ?oc=5
 
 - India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
   India news: Rahul Gandhi urges protest against voter deletions
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
 
-- 'Candidates In All 403 Seats': Ex-IAS Officer Divya Mittal's UP Poll Pitch - NDTV
-  'Candidates In All 403 Seats': Ex
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFAxb2ZIYWdMSk5nOXZhd1NWZWJyaWlabWo2Y0RoYW1uTVVyOWlzQkw3ME1raE8tSUl1aDk5UlV1NnNFTEE0cEw4NElmb2ZKUERlaE0zX1kydVFaRTZQQ0J0SHFKWXpTOWJENkl0T3dZS2o2cVYxS1hPeF9pVWljeFVFRjZjQkFfZXFKNGI5UmZEMXVzclBxSjNYTmo1M0gwa3VVTS02NGdJOGtnYzhKTNIBuAFBVV95cUxPNFQ5T1Qxc0tpdkZLT3JlSWNGSU56dURUWHdzangzS1BQVEo1Znk0Y3l6RVJheUdoeDAtbTVGWDIxd1hIaEpvMUdKbnlSdGlUamhWTzExcVNYc2szeUdLeWZnTF94NW8zT2xtN0QwdXhYcXdHZERxY2owQS1ZbHo4UXVxaVVySmZBcHFXY1RBQThSVHRVN2g0UGlydUZHdVpGckE5QU01eENIOW1raWRlaEx2bUxNclk4?oc=5
+- Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar - The Hindu
+  Hindutva reading builds on colonial interpretations of
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdDlpNU55NmpBWTJlX2gwM3hpS1RnTWU5dGZhajZhaEI5dHI0S04yQkx2MlFIRWhnQ0VjQ0prbDYzRk5wenl1RDhOMkNOWWtRTURjaHhHaE1QMFRmVl9jN3NTZXJ0UzBsRGFKMzQwWlNLcFJqVTRJQnRhdmhmMU5RenNfWHRNT2MyTEx4OHA1RUFGLTkxbzRkc00yNHBWUTJPOXdJN1ZJYmhldTRfbWdqOEhVWkNRVWRYVmlLZXNVY1p1cWVuZHJ4NFF2VXphTHE5cTluSUJxdF82QdIB4AFBVV95cUxNYTZ2VGkzY0RTRWRLaUVPekJtNlhsZXFYSXlHRWE2SFRwQzVaZXJveS04YzhvRGZYb2tWQVVnVmQtNVQ4TUFRVlVvY0h5VTdkZFBYNUYxTUNKM2RmNkxhOU1RUlBOeXIyRUdpeENkSVBsYzZESFBOakNZeDhrYTVTT2Jvc0Z3SVZXeVpEc0Vlak1sRTBrNXlnc1Z5SVp1SUVmRi1JZDhzNnYwQS1XXzRuYmFkaWVPYXBsU05mMXpHSWItRjM1dDIzOHBGZFBFNE1QaXpDWExYcjA3RlBzcURZcw?oc=5
 
-- Heartfelt thanks to BJP for 'promoting' INDIA bloc rally with great enthusiasm: Rahul - The Hindu
-  "Heartfelt thanks to BJP for 'promoting' IND
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHhWSXhCVVAwVVFYMnZpYkhEbDNOanBfbXVWdWVnUkFBajFKRkRBd3ZSNHd1YXMxcjdETGNWR2JzaUtXanZpZDl5YXVHYV9iMy05cUZaMnI5TlowSnloSmtZX0tSanBBeFk2bHJESjFmaC1QbVBvVFpaQ1NYbHE1NzlmbHF2V1FoTmFLU3RxamV1Tk9kZFh0ZTN0S2ZabDNmWXBUQ1V4X25jWDY3Z0hNb3R5bzJjMlNGTVRGYTNibnZFX3p0UFM5d2tUb9IB0gFBVV95cUxNeUhUWEI4NmhvSXh5YkdYclVpWEx4RTI1dVhGZnNyRThKa3BfaXI5bEp2OWc5V0RveHhtVVUwR1lLRFU3Q25wMWNEUUZjZElJM2p1djk4aUVvbFdUYVhLVUZESnltOEV2N05mSGl2Z2hfRDlhSmhISE9KUW0zc2V2WWRGNVBsS2hOMFExWkJHRlhyXzJTSVVsMmdGUkNKYUlUMTZVTmtyN3M0X1lJclotZ1htVzJONWc4YXhnN3ZsQnF4YklKemZQVWhrRHBUT3FBVFE?oc=5
+- Satish Acharya, Manjul: India's cartoonists built an audience online - now their posts are being restricted - BBC
+  Satish Acharya, Manjul: India's cartoonists built
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTDcwelVmYTlWTl9oRXdiVG1Ld1Rsb1gxV1c0dDJpZE92Y2ZPZk1FZ3FCUlRvRUtMRWdYNlVGNkhNUzI0LWhkOHRBRDNocG85T3lxUFoyYVgxSDQ?oc=5
 
-- India advises its nationals in Saudi Arabia against filming missile interceptions - The Hindu
-  India advises its nationals in Saudi Arabia against filming missile
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeksyR2kzMHBNdEsxcXlHN2tkLXpuTFNCbWxxelhmWU9sOFVyYmMxbndfQXcyWWM1cjVHY3NuaE9ZbFBQVGFpNjRCQ0Jjbi1YTW8wUW9ueDkxS216VjBVN2lWOEM2bUlERnlsQXlCMHgxWXp0OEdlaktHRlg4NGwtb3FqU3RtUjJmOHpzMU5pMW40VU40d1lyY2J5M3Z2czF0UGtlSE5qZUpLNFMwdHQyNGg4M1UwZFdYMk5xMXhFTU5qb1UyUFZ2UDJPamo1dXBKODNBRmNZRdIB3gFBVV95cUxQNXdQWHUyelpudlh4RVhiLXVjclRUY1RPTDVScXhPRkNiNlpNYVdtMDlYY3RTVUtfYlU4TDgtT0V3RDhBQ1A5Y2JEOWtZQVd2NEtJajZWbXgxUklpc3FZM09yLS1MaUZuclktN1luZjY0bVVuSk03SG8tQXhheEZmVGRTd3g2YlNNUlFYU1RNaHlnNDAxTUVRZU85X1NzcFhNZW4xWmVlb3FVLXY1OVZsYWdjdnpTaElLSDVZZlQtU3gwT0FLOTVEMy10QUNIdVdObm1mNHRpZGl6amRoT1E?oc=5
+- Cyclone Arnab: Origin Of The Name And What You Need To Know - NDTV
+  Cyclone Arnab: Origin Of The Name And
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOYlpWcm91amRxSndBeWlRVHdreG1qaXY3MzhsdzZJQ2NWcTU2Y0dwa1dCNzUtM0NiTk9CYk5uMkFGX0g5eC1iOFZZNGRBb0k5VWJoSVRBcS10WXdpLThWcmV1bVhTLS1QbDZlNWJXZFN5Y0ZoOHVCTUF5QkhTcjlSN1BRYXRkNFVabmNyQlNGNmsxRENNWjd2S0tkZm4xN1NJ?oc=5
+
+- 'What did I do wrong?': Ex-India star reveals how being dropped from team pushed him into depression - The Times of India
+  'What did I do wrong?': Ex-India star reveals how being dropped from team
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNRVlZRzJQVE9kVG5vbFljYnV5MXktMkd3aTh1a04xZ0x1VGx2NlR5U2dWeEdDc2RZVXJtSGFEZWFZbk9SaE1pcWJZd0tPZDF4OVE2X3U2SU8zT1AxYzRFMzI3ZWlMX1NMYmVHN2U2QjlyeDVwbU53QUZsVi1oUWV3UU9qZVhpNkdlcDRNN2JieTVGdEVRM1FiVlJuUG9kajhGeTNHWHBIMUkyWWszYllvUlo5bzd2VmFxM0VPNkRjTVZReXNoMmlyVEFMU0pYalA0QlVHeEdPTFNuR3pXMUJabGkwbmU2SnloMHRsdkpoeUlKajhrS3ZDcGRXeXoxb05rUW81b18yS0x0UdIBjwJBVV95cUxNS0JwRHcwaTU0WktHM09lSWpsbVpTR0pTdlRjVTNwTWljV0wydlhmeDgtdlJmeDZRMzZxRDVvbHR5bllrRUhlWE1icVM2V1pleTVSQlp4V0kzMWUwdkdRR29WQUtVVjFBV01sNFdGSml3aFVCWjduVDNlNHpVdE1GdUk2c1hoczdsN3hzRVk2NVFBeHp3YUdjZHoxb1AzZHA1c3d4X0ZnY1JmNU5IbEFVd1dJM3FsUmxTdGpRQ0NCcUE2c0tOLS1WWEcybkprWWgwdzhHb0hjLUdaaUlYZ3plLTgwNkZzaklLZE9kNVp6M1JGeVN0NUhCeXlqTmt5QzRicU41UFF4TXMwQnRNaVlJ?oc=5
+
+- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
+  India news: Rahul Gandhi urges protest against voter deletions
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
+
+- Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar - The Hindu
+  Hindutva reading builds on colonial interpretations of
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdDlpNU55NmpBWTJlX2gwM3hpS1RnTWU5dGZhajZhaEI5dHI0S04yQkx2MlFIRWhnQ0VjQ0prbDYzRk5wenl1RDhOMkNOWWtRTURjaHhHaE1QMFRmVl9jN3NTZXJ0UzBsRGFKMzQwWlNLcFJqVTRJQnRhdmhmMU5RenNfWHRNT2MyTEx4OHA1RUFGLTkxbzRkc00yNHBWUTJPOXdJN1ZJYmhldTRfbWdqOEhVWkNRVWRYVmlLZXNVY1p1cWVuZHJ4NFF2VXphTHE5cTluSUJxdF82QdIB4AFBVV95cUxNYTZ2VGkzY0RTRWRLaUVPekJtNlhsZXFYSXlHRWE2SFRwQzVaZXJveS04YzhvRGZYb2tWQVVnVmQtNVQ4TUFRVlVvY0h5VTdkZFBYNUYxTUNKM2RmNkxhOU1RUlBOeXIyRUdpeENkSVBsYzZESFBOakNZeDhrYTVTT2Jvc0Z3SVZXeVpEc0Vlak1sRTBrNXlnc1Z5SVp1SUVmRi1JZDhzNnYwQS1XXzRuYmFkaWVPYXBsU05mMXpHSWItRjM1dDIzOHBGZFBFNE1QaXpDWExYcjA3RlBzcURZcw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-25 20:21:59 UTC_
+_Last updated: 2026-10-26 02:49:12 UTC_
