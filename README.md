@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- India news: BJP to protest nationwide over opposition's Modi remark - DW.com
-  India news: BJP to protest nationwide over
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOXy1OMWhVWjJXREJYUWFpNzNtREMyZDlKNjZiQ3JBZFNISF9DVlFwUi1fbXVmOTJIcXBhZDdlUHpobHZCUDdOdVlTVGZpZ2RhTDZwUmFlX1o1RWJCWHl1OHlEVEhXbHJPWnRtWGxEX0FJbjdDUnB0WWcta18yX1J4anhBRXFpZWxNc1RzMGl3NjRuUkU?oc=5
+- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
 
-- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
-  BJP Holds Protests Across Country, Se
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
+- Indian publishers contest Modi government’s privacy law - The Hindu
+  Indian publishers contest Modi government�
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
 
-- BJP targets Congress, set to ramp up campaign against opposition - The Times of India
-  BJP targets Congress, set to ramp up campaign against
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQNVBDN0lMOW0yNnNmWEFkcG10d1JnOU00SkNjcm9UOEdMTTNUSUk1ajRhTG5IVXJBYjhkWE50MWlrbTBLSElxLXZiRU1xNGRNQlNOSVpDaWRwWE1wQ0k0bTUzb2F5U0RCNWlMN2kwWTRDSUVacjJ5bWpxZ3VENXExVUN6TDZ5eGZROUtxYmJXX3FJMU1YbkhCOVQ3bHl3VXQyNjhkUkRIdUwzcU55WDBWVzhrVkxUd3FIOExjbm80cldiRW5KYzB0X25OOA?oc=5
+- ‘New privacy law violates freedom of speech, threatens journalistic activity’: Digital news body may move - The Times of India
+  The Times of India is a digital news body based in New Delhi, India.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDd0d203RVRzVFFJcW1uekZwUVVnZjlfN2dDWGNCUU9xa1BYdlpZTkkyY3Mzb044VFR3TDdKVTdna1Fxa1JQVWh1a19pb0JfR3ZHRGUyQzNPZzFRZW16S1o3ZnIyaVo5NzlGZG9XSElOQVZJS1ZjQlQ2eDd3VWUwZ3dLclZkLVJkRUtvNS1fYkZCaldtdEluUHF4SkZ3dC01YzdHRnhIZ0tIWHN1UWxtdGN2dXhIZzVJVU1lMzlobndZang2dXpTWFdtaWpQQ1A0cVhlM2xfZ1dSbzJHRlFYMWtUOVkwRm5SQ3VER2lCMk5RUVEyU19hU2RRd21fQmRtdkHSAYcCQVVfeXFMTnFlYTNrc3p5N2dRWTZrYUJtT21Rb19FWjI4T3ItWEI1elZhY0xyV0MtT1plLWJmV3VOWGRFZ2o0bXFKeW55YndZa2xjM2xIY2VJUm9EX2hySVdfenM1TnJlMjB5VXZmU3pmSFZTeHAzS1NTYW9hRjRrdk1lbTVtMF9la3h3Rjh0dzN6V3BQMFpvUFpmQWpWWWViRm5GeEVtRUZUU0ltOG9nbjF6VF83SkhaSDUxWnhzamdWWlVTS1AyT01vRXM4UU8xaDlYY2JnRERvUmlfcTdVMFc5WHJQczdrOTFqTHpJdkVxTUVfc1pGOW5aeXJFeHFsVlNmUTVNRUdfZFRabkE?oc=5
 
-- ED in SC: NewsClick received 86cr in ‘illicit foreign funding’ - The Times of India
-  NewsClick received 86cr in ‘illicit foreign
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTFYenBxM3hBNXdWV180NVNVSlk2d0VEYnd5ZHhkTW1HSk5iTkVycEpycDczWllYcnlNbGxWY0x4THBwU1dLZWZiVEN5RVV4MVB6Zko3TWQ4VjZlZUN6RlpMUHZFV3o5VkZtTmh4cTdxREhGNW4zSlhGSHVpZ2VTc0c1UDNDYlN1RC1nRzJaX0FFOFhlVzZ2a180RFlyWldmVGhuOVRVTllteVhFc2UyRjJxTVZBOHZGTm5CMkg5TDFFdGZEcGfSAcsBQVVfeXFMUENlWG54S21KVjgzV2ZlekQ0RnVHT0djTlN2bXFYczFxV2pVckxxTFZsWmdseUFVaXMwbVhDZnpKVjN5VmV3endxMWFqc1R4NEZrTC1Vdm1HTlp4T2dFbnhIaUU4aFI4eXgzZHRLcWctQ2RKQWN5d3FZeDNNSGtBR25hMnhET3FwZkxIZmtsVlJUYTZtNkJKNWVxUE9RRzVwdjlMcGV1eWp5cXU2d19kdTl6aDdxdnEzUVhUdkJ4akdHSkJQODd2R0pseFE?oc=5
+- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
+  India news: Rahul Gandhi urges protest against voter deletions
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
 
-- DMK Ex-Minister Arrested In Rs 100-Crore Bribery Case. MK Stalin Hits Out - NDTV
-  DMK Ex-Minister Arrested In Rs
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUtyWVhtazAyWlpyc3JOMWhOeUM2Y0o0d2I4NUQySWk1YVI3UlAzOEw4YWtpeUVDLUJDYUJsSTRIVlN5aUVQZzVoUm5faEVldElHdlItZjdETVZ5bHNpaTRJQTJWcjlKYWFoazdTZkZnMTNGM09HR3lVOWJMdkhhU1ZBOW1VS0RqZUtiQW9FaGpYSFBZbVluR0g4M1dvZzRLelRFY3NZOFdFS3g1VlhKSk5nLXJuZkdaeW9QNVA0T3N1UkhNVTdoaHJZVEhMNWVIUzRUQVBn0gHeAUFVX3lxTE8zMTk4UGV5blEyazROcXptaW5qYWh0RHctZ0ZId0tKTUtLOWdWVTdGcEFXY3A1VWJTMkphTU5ERFdiN3ZPZnFxMXAyNzJGalF0a1l2Zkk3TnV4OUVZZThvc01wamRvMFdZR0FkVk5yY3l4d01CVnhsZ19uR1hqcjM5UUpPV2VjLWpKODVwSmtqVXl1Q0xrRmhqaWRNVVN4dmEySHpHb25OQ1E1YXlBdUhRN2R4a0U4RDJIZzVJT3BnS19YZFVsZjNtRUJIMWNXWmZHQ18xdlVmZXhsalptUQ?oc=5
+- Rahul Gandhi Tells Traders How To End Ramlila Maidan Protest In '30 Seconds' - NDTV
+  Rahul Gandhi Tells Traders How To End Ram
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnI2Z3RNVmRSLUlETmVTeGFZOVdIZW0tWU83NHY4Tkh3Z2hRU2ExNWJJdTdORU93QVRnN1pnZXhIaEZHY0dLeVRseHl6bUZrU1BqZXF4Z0pIZWlILWZFcFJFVzVQUURVb3ZjaTRzQzNuQ2puS21ENlNKMmJFNVFvOWVTeDl2eXBsbXZBNDU2bHhPYThzbG5KaVRrS050M2tQUkxIZDRScWJvUTNoNUZ3dENPUDUtZ9IBvgFBVV95cUxQb0huX3JKUURrNjRKZGliR3ljS0JCMHFsaFc3ZWhOaGpGM0RRaVpnZUltb19rTTEzZWVpck1aaXhLN2tuS0VYOGlvaWxkbFJEa2RxY2RySlUwX2NkWnY0U0dVNHFBR1U3cWp5ZDl4dEJ2NEF4RGhDMUNncE5FWFJmTXl0M3BaN3dlV3VqVmk4djlTbWIyQzhBSVA5ZGhsOFljcGlrMnBvOVp4UGtZZVZUc09teWltRlV0VVFKZHVR?oc=5
 
 - L&T Technology Services and Nokia Forge Engineering Collaboration - LTTS
   L&amp;T Technology
   🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5nNkoyaWxlNmhVSGw1eTNlVjRHVm1YcUthWFJwRW5qX3dEZVhqWWJJcnpQMkJ4SzAwb2tLZGNvUi1ydU5RWkNqbmpYY3VRZ3EzdTNLWGJ0Z3hVOGZIVVdzQ2pfZ2lTb0NUOGpuUkwzY3lPUW93c2tWeUhHMVI?oc=5
 
-- Experts discuss entrepreneurship, technology development on first day of JNTUA Innovators Conclave - The Hindu
-  Experts discuss entrepreneurship, technology development on first day of J
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPd0dTTUNJWEx4d05Obm93eXJ6aWxTT1pKcjZ5OUI1S084aDFLSnNDZ25LMGVacmhUS0pWbFY4VVRfbDR6YkEwTWhUUUNsV3RleDdJSHNObkZTYWM1aFBsbHhTRDNVR2UwQjZ3bVJYb1p3dzl4VC1vUUl6cHFWRFZuN2xZUUpPeE8wNUloQTRSUjJnZEFsNE9GU2QwV3kzUTlvRGhuZzNWM3BEVEYzajI4dHJIMmJZWGdETS1sTUNCcE9hVFQzOWxqTmVRUHdCdldIVzBDdE9GLU13bnlEVUZ0M3E3Nzh6OExFNWFHRnRoWWZFS05MNUdaQTB1SHZsNnVr0gGHAkFVX3lxTE1hQkFiclRoWjRtUlFXQng5N29DX2FkZm1nbEJJVFRYeWZGUWZsSnZScEJIS2ktOUFnTFBqVEpyTV9PUktZS3JlV0NPc3U1Q253Zkk4aFJZVTNSellfZzFGalYydmJFZkJZbU9QYV9KcDZnMkxXcnVyV2NqeHQ2V0lQVWxxNTJVckJnMDBMMkU1cnR0Q0hnbGVjY3ZkR1BkVXRWU0ozcGxtUWVrUVo0N3NkOFJJR2tZZUhNMmg2WENOWmFvTnY4Y01pU29teldlclBRZDA2RVBEdUtoUHdfM0hBMklORmxKem9XYlIwd0JNWHJSbWhGMnl3VFhPNWE2VjE1RDk5Z0cw?oc=5
+- PM to inaugurate Emerging Science, Technology and Innovation Conclave 2026 on 27 October - PM India
+  PM to inaugurate Emerging Science, Technology and Innovation Conclave
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTEVwT28zaHZUSjh2bk1KSjFiNGdXTU9oWVM3TkZ6dUp4VFpqYjdqRDF3aDA5ampUOGFQZDh3a0ljeUtJc0Q5b1c2MDdBaUdBa0wyUVAyWFVHMGZHR2JrT2dvdFFnc2JnUU1FVW5kVWVlcC00eVI2RExqZlFZdXdBZ3dtVjJybGxpdVd0cmFBMU5HNEtWX2llZ1cwMVNKem9FVnFKei1yQjZlbjNiRW9lSHdSUUN3YUhqLWlDYklrdmNXTTVuNDBCZHpFVlZrSGQ1NUFzSFdDRWlIRlc3YWdzRw?oc=5
 
-- Anthropic’s I.P.O. Prospectus Spells Out a Future of Promise and Peril - The New York Times
-  Anthropic’s I.P.O.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0RUcjhxcFdNQzE5VzMybXBnRXJPNmxUaGRtVDhnVXRqVEtjM0NsN2VDY2txazNsRmFjVjB5RFY1Nk5fWjdzZ2VTWGJoN015Ry1SbmJsMEJmdzBKaktyOHdXNE5PeENDWkp3dWo4a2x6dGgtdUZyMU9Ncm1Vc09xR2ZVWnRtUkk?oc=5
-
-- Slovakia, Latvia approve Tesla assisted-driving technology amid European Union safety concerns - Telegraph India
-  Slovakia, Latvia approve Tesla assisted-driving
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb3ZibzBQTGNreU52cFlNaVZqZ1RQMU51V1BkSzRZM2REOXN4RWpBdzZIeWo2Q2cxQ09mSjJad3ZyWHZwVDRaV1NaUzEtazBfLU9TMVlBS2FqTEctMDRCejVwQXQ4UmREWGtNUU9BMHJTTEEya3JoYldrbWtjMUV4d3NmRVpmRlJYVEJ0MEQtd1gtT3NmNmx2WEs5ZHFQal9iY3pDc28yOVU4bDlYU2ptT1lGNjZkRzR1OWxFdVFBeWZ2WmN4Q3RVT1NibFQ2RzAwM1Y4MWtaaE1mZ9IB3wFBVV95cUxNTWtjb1ZCcm9McUJxY01yMXY5MWllWlhpWnoxSE9kd0FocjRTRXZVbm9uSFpxckdRZ3J2T3d6VkV5ZUprd0pPUktCRVVjWGxGc1k2LTZlSlpWbFVDTm1NTlVmQThrczlSaGhoX1hINlVtZFhNaWJOaHdHWEtoTUxadFBHcG43R3RyRGxUNUNGNDZGY1h4bjh3clNjOFhyMzIzQTdQeG9aSzZzUGRnQmJZLXU3ODFIVkRVOGtPTi1RVnlKZnA2aktLX3BlVlFSUXhTbWRPWjVCdlRIcHRyT3Y0?oc=5
+- LANXESS, Hindustan Colas collaborate to advance road construction technologies in India - The Hindu
+  LANXESS, Hindustan Colas collaborate
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcWpYd21DOXU2RjdraXJSNk9Yb2ZRZnROVmxtLURpM0ZwN0dzRTMyazNoQUppblp4UXpjaVlnLVNPWVUxaXNnRHRfMG9PVDZjZ2ZFNmhKYm9lOFNSbkI3NWw1VWd0U2l6YWVJQUFfNWJZVVA0QVhIYnJGSG9tYUJndHlYWjVxUjJtV241U21SZ2ZscHBqZ01rSkU3NDBEeGg3R1MtYkFqMWw2OGlxUE5WZDFXNXpNbnhjd3huRjFOZDZwZXBNM0RCaEtfeE5hemd5WUIxR2JYQdIB3gFBVV95cUxOT0U0UTRITE9qM3NZZHFSUU5PeldIcXhyOTFQUDVlNmNaNGxyR3d3ZlUxMWFxTjZ2ampObFprcGFIUnEzZHE1Z0JIcF91b0U2RHg2WFZyd3JCcUJQc3BSNm04SVRUc2piNVFaLXhKdjAyQlZCOVdFRFk3Z2MtTVdNVHRzbnYxbmpYOHZfNEdWcjJuVXlPN3pDVWpzSkNnMEM2ak83SXVIUTFMSWdRXzZlTmJmWml5SENmZWlGWDVqM2c4QVVrcWx1bXQySXg1eS1udUJFbnNCeW5rZWthNkE?oc=5
 
 - Anthropic’s Claude AI model accessed Georgia voter data in US - The Guardian
   Anthropic’s Claude AI model
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5
 
-- Tata Motors completes Iveco acquisition to turbocharge global play
-  The $4.5 billion deal will expand the Indian automaker�
-  🔗 https://www.livemint.com/companies/news/tata-motors-completes-iveco-acquisition-to-turbocharge-global-play-11793019547840.html
+- An Ohio city delayed a settlement over a proposed 2-million-square-foot technology hub; lawsuit and the p - The Times of India
+  An Ohio city delayed a settlement over a proposed 2-million-square-foot technology
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQcUJ0LW9rTklrRy1CLVhQcnBlelJEVGFKNmtGNjk1Q2hoUnhCWXAtTlg1alhUUDBJZXg4Qk9wVzBNcTdOTzNTX00yQUhZNTNfVEdsWl9sZk5VczBYWVB4RjQ3UFVuSXIwSE4zM2E4d3gzakQ0T3FYcXF3RFVsdERCeThVdko4ekRacXFRVjd0c2ZCWG0zb2lDakU5SDBXb3JRYUE5SkZhZi1KeHZ3S0lCSENjZGE2OFpkckdkSjE5d3pLVHY2eTdSRUM5YTdpZEFyUVNFbWVpUmdaeTFWZE5YUmRDWHFJMHB6a19teVdEVUpOSmVmcUM1ODlzalRRZEFfRzhOUnBmb3YtMFlGUlUzZUt2Tk9XQW50a1U1aTI4WHpBZ2ZyYWFONTdwd242WlcyYWfSAbcCQVVfeXFMUGV4WTkxUzU5Tl9MLTRhcHdrbG9IR2JpbXlVMTMwV1l6b3lGNEFlNTVyVVhhZWRDZ0k4cXdyVmxsZmx4azJNQUc5NS1QeTZ0djZSN2dqbHNNN1JmOXVON2lVRnFWU0xndE92ME5YaExDcEhvTVhFU0djeXFIR21pZmJMWGFNMmpCa0d0dmhYc1IxRDhEVHBITXJTNDhvcUUyM3hJYUNxdkpGd1FDbVBWUi1NNmJsODFIQ0FQOWphYUFWS3djY2JQcGZnR2s4Y0I4b2pndTRiaERpbzdPSXNQaTRBeWhrTklZSHVtVkdyRGppZnMxOHZzWDF3RUlyZUVJSm15WW5wcDJ5ZVZUT3JHR0lYMmZXc0NJMGtiZFVualZhRUZMSWFELUd1dkM0QVhUZUgydm9FM2M?oc=5
 
-- Microsoft to offer buyouts to 60,000 employees in India, US, UK and Canada as it restructures workforce for AI
+- Mint explainer: what’s next for Tata Motors as it prepares to integrate Iveco?
+  Tata Motors has crossed the threshold to take control of Iveco. The next test is to settle the offer, refinance acquisition debt
+  🔗 https://www.livemint.com/companies/tata-motors-iveco-group-commercial-vehicles-acquisition-tender-offer-minority-shareholders-business-integration-11793064825363.html
+
+- Meta Platform seeks to raise $95 billion through stock offering in largest ever funding round for AI expansion
+   Meta plans to raise up to $95 billion in its largest-ever equity fundraising to finance AI infrastructure, data centers and related opportunities. The company will seek $35 billion through public
+  🔗 https://www.livemint.com/companies/news/meta-platform-seeks-to-raise-95-billion-through-stock-offering-in-largest-ever-funding-round-for-ai-expansion-11793066342072.html
+
+- Microsoft to offer buyouts to 60,000 workers in latest cost cut
   Microsoft Corp. will offer buyouts to about 60,000 workers. The move is part of the company
-  🔗 https://www.livemint.com/companies/news/microsoft-to-offer-buyouts-to-60-000-employees-in-india-us-uk-and-canada-as-it-restructures-workforce-for-ai-11793036832362.html
+  🔗 https://www.livemint.com/companies/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut-11793066021811.html
 
-- Noel Tata challenges Chandrasekaran's reappointment as Tata Sons chairman, seeks board meeting video
-  Tata Trusts chairman Noel Tata has challenged N Chandrasekaran's reappointment as Tata Sons chairman. Noel has also
-  🔗 https://www.livemint.com/companies/people/noel-tata-challenges-chandrasekarans-reappointment-as-tata-sons-chairman-seeks-board-meeting-video-11793037220242.html
+- Anthropic's Wall Street debut: How rich could its 7 co-founders get at a $1.5 trillion valuation?
+  Anthropic’s IPO filing offers a glimpse into the wealth and influence of its seven co-founders.
+  🔗 https://www.livemint.com/companies/people/anthropics-wall-street-debut-how-rich-will-ai-firms-ipo-will-make-its-7-co-founders-amid-1-5-trn-valuation-11793064160879.html
 
-- Tata Consumer’s Q2 profit rises 16%, in line with estimates
-  TCPL's
-  🔗 https://www.livemint.com/companies/company-results/tata-consumer-s-q2-profit-rises-16-in-line-with-estimates-11793023468609.html
+- Microsoft buyout offer to employees: Who is eligible and what over 60,000 techies have been offered
+  Microsoft has offered voluntary exits to about 60,000 employees, or 27% of its global workforce. Eligible staff in four countries
+  🔗 https://www.livemint.com/companies/people/microsoft-buyout-offer-to-employees-who-is-eligible-and-what-more-60-000-techies-have-been-offered-11793062882761.html
 
-- Medanta chairman Naresh Trehan’s appointment to pharma marketing panel sparks conflict of interest debate
-  Advocacy group questions Medanta chairman's appointment to government panel. Group cites potential conflicts of interest and past concerns over hospital
-  🔗 https://www.livemint.com/companies/people/medanta-chairman-naresh-trehan-s-appointment-to-pharma-marketing-panel-sparks-conflict-of-interest-debate-11793017334181.html
+- Q2 results 2026 today, schedule: L&amp;T, Maruti Suzuki - 100 more firms to declare quarterly earnings; Oct 27 Tue list
+  Maruti Suzuki, Bajaj Auto, Tata Steel, Cipla, Tata Capital, Indus Towers, Mazagon Dock
+  🔗 https://www.livemint.com/market/stock-market-news/q2-results-2026-today-schedule-l-t-maruti-suzuki-tat-53-more-firms-to-declare-quarterly-earnings-oct-22-tue-lis-11793066756896.html
 
-- Sembcorp Industries mulls  ₹3,750 cr IPO for India unit in Dec 2026: Firm profile; top details investors should know
-  Temasek-backed renewable energy company
-  🔗 https://www.livemint.com/market/sembcorp-industries-mulls-rs-3-750-cr-ipo-for-india-unit-in-dec-2026-firm-profile-top-details-investors-should-know-11793036451582.html
+- Indian shares seen lower as oil stays near six-month high, Fed in focus
+  The Nifty 50 and BSE Sensex rose 0.7% on Monday.
+  🔗 https://www.livemint.com/market/indian-shares-seen-lower-as-oil-stays-near-six-month-high-fed-in-focus-11793068880920.html
 
-- Nippon Life AMC shares: Last chance to buy for  ₹9.50 interim dividend; record date, dividend yield
-  Nippon Life India Asset Management set October 28, 2026, as the record date for its  ₹9.50 interim dividend. October 27 likely the last day to buy shares and qualify.
-  🔗 https://www.livemint.com/market/stock-market-news/nippon-life-amc-shares-last-chance-to-buy-for-rs-9-50-interim-dividend-record-date-dividend-yield-11793035793393.html
+- Margin funding book sees highest liquidation in a day
+   Markets opened weak on Friday amid global macro headwinds. Brokers on clients whose share purchases they had funded
+  🔗 https://www.livemint.com/market/stock-market-news/broker-funding-book-sees-highest-liquidation-in-a-day-11793047831540.html
 
-- Goldman Sachs Kospi target cut: Why South Korea market experts lowered target to 9,000 from 12,000 - Explained
-  Goldman Sachs cut its 12-month KOSPI target by 25%, to 9,000 from 12,000. Despite the index’s steep decline and record
-  🔗 https://www.livemint.com/market/stock-market-news/goldman-sachs-kospi-target-cut-why-south-korea-market-experts-lowered-target-to-9-000-from-12-000-explained-11793031984804.html
+- NCC: Seven factors that will shape its prospects over the next five years
+  NCC shares have fallen 42% in a year, but the company’s outlook will depend on its ability to execute a  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/ncc-seven-factors-that-will-shape-its-prospects-over-the-next-five-years-11793020470405.html
 
-- Brazil’s Ibovespa plunges 17.3% as Lula defeats Bolsonaro in presidential runoff; biggest-ever one-day crash
-  Brazil's Ibovespa plunged 17.3% to an intraday low of 169,516. President Lula defeated Flávio Bolsonaro in
-  🔗 https://www.livemint.com/market/stock-market-news/brazils-ibovespa-plunges-17-3-as-lula-defeats-bolsonaro-in-presidential-runoff-biggest-ever-one-day-crash-11793026757972.html
-
-- How to check Jio Platforms IPO allotment status online on mobile by direct link of NSE and Kfin Tech websites
-  The Jio Platforms IPO allotment is expected today, October 26, with status
-  🔗 https://www.livemint.com/market/stock-market-news/how-to-check-jio-platforms-ipo-allotment-status-online-on-mobile-by-direct-link-of-nse-and-kfin-tech-websites-11793024495583.html
+- Top stocks to watch today:  L&amp;T, Maruti Suzuki, Paytm, REC shares in focus on Tuesday, 27 Oct | Full list
+  Larsen &amp;amp; Toubro, Maruti Suzuki, Pay
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-l-t-maruti-suzuki-paytm-rec-shares-in-focus-on-tuesday-27-oct-full-list-11793064919143.html
 
 - Free Fire India launch date 2026: Is Garena releasing the game soon? What we know
   Garena’s Indian YouTube channels have been renamed. Creators have cited October 28, 2026, as a possible launch date. Garena has not
@@ -100,65 +100,73 @@
   Tech companies are utilising job cuts to demonstrate a commitment to margin expansion. Tech companies are
   🔗 https://www.livemint.com/technology/tech-news/tech-layoffs-2026-job-cuts-near-2-lakh-globally-as-big-tech-like-microsoft-google-oracle-meta-more-pivot-to-ai-11792917241824.html
 
-- Stocks Gain Before Tech Earnings as Oil Declines: Markets Wrap - Bloomberg.com
-  Stocks Gain Before Tech Earnings as
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGVmU0kxdjhvRF9ZU0VaeFFkODlaUTRlN1dQaHNSV1JiOTBwSV9nb1RKejQ2clRzQ0doN3VjVEtHb0RaTlVBNUdhMFI3aUtTRHB1dEE3NWdXZS1ZbktuMVUtYnE0ellyLWlNa29aWThtQkdSQW5FRzFIVUZlb3hEUlg1czdXd3FyV0VwNW0wVEMyTUg4ZEpoTVg0SzIyZ0VmLTAxOUlPTUtLXy1kS0ozbw?oc=5
-
-- Stock markets rebound after four-day slump; Sensex jumps 483 points - The Hindu
-  Stock markets rebound after four-day slump;
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTktRdlpyQkRTQ2VoNUtTRUc4X3V6dXlsNHFlX0dWTDRyX2VYNklmbzg1NHlFZzdBbEJXY29IZXJyaTM0UU5hRGlCQUNwdHhMSFNlLU9mNXZ3LVkwaDRXYmxObjFuSUpLeDl1TGFXbXVRNUZwU2NuS1VESzVHMy1QSjlXRFl0Y0NLSXg0US1HZi0ta203ZUZ1enFvNnJiZ0FUQjJTWHJXU0Z5eFZBR0dFaFJMSnhjTjlUazd5RllIU2NTOUJoX1EyM9IBzwFBVV95cUxQUWVFaWJGd3J5OTVibmlla0p0VXJpRHJwTGtkMHlGcHZUVGFQLVBnYW5CbW1xbzJJblEzTEZvS042anIzUWFUa2M3d2VjNTF4YXBCWlN0OEVZdHhQRkl4T3p3OVJ2d1pMNE8td21CdFhxODk5M1hvdGRTMk5tMjdLRjdlYk9sU2llQVZxYkRuOTI3YTdDT1RxZW5VSE1TSGtEYnB3NnIwVElqdHV3MElPX3Z6S19DWGRqTXllZHRwUDJiYXhVNDNWZnVUWnFIaDQ?oc=5
+- Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap - Bloomberg.com
+  Asian Stocks to Gain as Anthropic Files
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5
 
 - Sensex settles 500 pts higher, Nifty ends above 22,750: Key factors behind markets snapping 4-day fall - Moneycontrol.com
   Sensex settles 500 pts higher, Nifty ends above 22,750
   🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxObWtEb2xmNG1MT1gtZGl5QmxBd0FnOUsyTG9KRC1fZGp4TVB2bXU5dy1DbXVFT0lpMHJsdjhJUG8xUGNOUTRCazQ0eGdNNm1aRmp5STQ5WVVfVk11QmlNaW5sRVFzMGFneGd0WFR1TV9SMzRYWlR6M2JxR3FPMmFXVjctVlRQS0Fkb0dLUGN0QzdHUlV3YjBJWUhLYnppS0xrY3ljU1pScG1ZYlhYOUQ4bGJCQXRkRDNMS0h6cExQOWRkWkJhbm5UMEt6clUxbjhNamRwNnBMUF9GZXlhc29ZOEhwN0ZFdEc0OHdNM21pOXcwQdIB9wFBVV95cUxPYm5CY2tLWFh0dHNHTDhZVU5ZUU9jTzZqUmZkMUxHX09CT1JXVW9yNDJralc1a0I3MkY5ajNSVlNlZEtOOVJhajV2SERSbDRveW5CZVRyaWl1QmxmMF9zR0M1a2hwUEtibHRnYzhrc2xreUpKNVJLbkdCdnBnelpMejYxeDFhVmc0czFLQXd2dmd1cFBHTmVES1VabGxha25OTnFIZ2RTUlU4b3BXWmxuVVZidVJpcEhxdU5VaHBGT0JYd2JUaUlKa2lJdl9TV29tTHQ0NWJJZUpZM2l6eUZIT1lVTGQxQ3d6SF9SMloxMUZTODFYR01v?oc=5
 
-- Stock Market Today Highlights, October 26: Stock markets rebound after 4-day slump; Sensex jumps 483 points - BusinessLine
-  Stock markets rebound after 4-day slump; Sensex jumps 483
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPaU9sZFd5aThkYnRBQjMxR0tSR3lLY19ENGlwMlhNdEl5RktrR1FoNGVtOVozdC1jblFqOTBDR3FPVXdmLVBud1QzeEJJcXEydEhWOE05MjY1YWNMSnV0LXZzVXQzLUNsM1RjN2N3b3JUeVNONG8ycUxJTUw4VGVSQWRVT2pTaE5oc25CTjdwS2p5LWNRVkFyMUxGS3otbEFhYU5pZUpZcDJ0UXJnejJKRFBjUVJNYlBMTkhxRm81LUJONzNPNnfSAcoBQVVfeXFMT2c2b2VRVUxIVS05V3V1TkRpalZRcDAtaWFHVkhyN3puREcwN3ZJLUZiREozUVR1czdFRHJyRTFXUDFCSGRscHlLMTRGQUNZalRIYjM2Ni11b00xelpQOGl2RmZJb0F4M0VGWmpyeHBONkRBUUFJQnZKbHlfUWZBOFNxNThQemFzbHFxSUZ4aXJGNEJWVDdMNVBOcl8tazhZTFVDREVIVklzZTgwU3pyVlZFU2dxVWlnLVU4clJpbk5HampJWk5WMjZpUQ?oc=5
+- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red, Asian Shares Trade Higher - NDTV
+  Stock Market LIVE Updates: Sensex Today: Markets Likely To Open In
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNYk9MUWRzSHRNR096cFBrUFRkS3RFYVVEODdvNFp5d0c4SDNCSmtIUXB4WF9fUTRKOXhGMXg5Mkg3RkJucGRKdFNmdUxhUU5pd3FkWEtnTm9GYW9DZ1BxaU5VYU14QjhHQ2xvMDRZRHd5SWJnNGJYaVE5RVdOaW4tVDVnRy1pQkVUb3ItWHAwb3ZmdFZUQWNCU2Z5a0l0dEpiYWQ3LV9Zb2syRE9MQ05DazdfdDlELWIzWmk1VFR3WWdBekh5R0pYbldybnlNT1nSAdcBQVVfeXFMTUpKZmdmTjVIYXdEUFVzTGFFYjRIUlktOWlrUEp6eXM0WThxVDJaY01OclA4VXkxUEhpOHJGZlRTYW1RYlkxSUVBdFdxcXlzZllYZ0MwX2pmZU16MC00b0RyNTFOX25NbEFuZkpYNlpxUlQteVNuUnpIVW02YmZSdklBTjZFRkZnVWRHX3RpOGp3Q2RxaXZZeHd1RTQxZFpubjYxM2paZTJ1QjBsNzZoYnNNSl9EckpTWXNqSFlVUEZDVXktblFTNVhVQ2hoUGN3RFpXLWRYWE0?oc=5
 
-- Memory Titans Test AI Demand While Bubble Fears Transfix Markets - Bloomberg.com
-  Memory Titans Test AI Demand While Bubble F
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1NNS1ZjY0QxRUJaLXBTSkNHenBNQU8ySk1rT0FhbmItdVEyZFJhamF3OFdFb2kzZ0EtUW1ZV0g2SDM1cVI2TXdTMjJSNFJRZjM0NXZKbEs5OUFNZjgtSGN0RUpRemdKM2FVbzJxTm1rQkVGdldVdDdORFl0UWRDRzhNeURmWWlBUmpveXNOZk95TjBGa1dSYVB6VHJYUkdxVXptYjRtWVVfX1hTa01vTHhwa2c3QQ?oc=5
+- GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty despite Asian, Wall Street rallies; Fed in... - Moneycontrol.com
+  Nifty falls 100 pts, signals weak start for Sensex, Nifty despite
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOcHN4S2xzaXBnT0dkaGFrcDRkSUNmS2l1LWRyc1dtVG82QkpTYWthV2xLMWVpTzduREtTNGt2Wm40NFpweHFzUzBvaDFuVDlJMUQ2c29wLU0wM0o3ZkVwam1pQXlOWWJLcndwZGcyWEEydmJ1WEVxMG5DMEFSMHpfMFVyOU1sb1JiWldReFVlaWpPUkVzV1FjS2U1MmpxRTlwNW1zby1aTDJlRG9hMVQ2UDktWXNqWHZkTUEyOThIR0hQX3psSUxxVHBma0JaMTZ0R1kyTl9qTG5nUWc1alY5cVV3SUFkaG53UlhKc3dyZ282YTlYLTl5d2t4eUsxWlRRd2fSAYcCQVVfeXFMT1ktR0x5N3owTlVQZURselhVajNSWWItdUl6RFBBS1cxSVdvQ2VRdk9LVTNpQW5KNzR4LWlPMkl0T0tjNDZFbm9xblhTOTNKVWQ3NE1haGFtMkhiVXFJa3Q4bUJGcVROTkxmcUg5N1BpazRzSGxiWXhPUFhrZlQ0OTQwVEphX3lEQ2V5NEVWZkt3eDM2ejBQVFVBOGpKSWNKemIzaEo4TjdYQzNwelNPckxWTXZqMHQtWEJZbEhLdUJNb1lKaHBSTFhXRXNlVlJlM2RwNG1aM2RwN1BhNnJUYzhfX0hLVWh6SEoxYTlMUHcwTi1mRUhWT1ZNX01aSTRxMzZCVUNQclU?oc=5
 
-- US Markets Today: S&amp;P, Nasdaq end higher as Anthropic IPO filing revives AI optimism; Tesla hits 3 month high
-  US stocks ended higher as Anthropic's IPO filing rekindled interest in AI related investments and stocks. The S&amp;P 500 gained 0.70% and the Nasdaq rose by 0.83%.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-us-stocks-end-higher-as-anthropic-ipo-filing-revives-ai-optimism-tesla-hits-3-month-high/articleshow/135219329.cms
+- Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint
+  Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVVnVFprN1pwVWtldGFwam9RN2lqcVZPdDRPb3R0Tk84UmlicnBGWHlqanhVZ3JRRTFPcTliOE8xTkg0SkVqRFplanRfTHdDUXdpa3o3NGt3TmRIRHZ2NzZlU20zWHpTY1gtdGVuU1JEeXNvSU91M2QxUTJNMXNUVTczZWdKN0ZkSDBvUG9nOUE0X01GV3FjYU1ocDJuS1FzVW5lZ29DTG5wWEZPUS0yTWJyZGt4UVBLckowTTdtMXd5OGZFN2YwMGotelU3X0ZFRXNkalpydUtzN3lMamN2eWxoN2JYelhLY0V5dG1GeWppeFRNWjVzaTlMUlFsOGNqY1HSAYcCQVVfeXFMTnQ1TGxaT2xKNGpmMUw4dVpEeV84S19hclJFOGpRT1Q5V3BFSXFYZXR5YWZjYTdZSndVbFFZRUdSVldRekxQcVIwV3MyN1pxb24wTnFPZXQ1UmltTF8xSm9NeVhuc3JfTXZQeEpCVy1GbUNRbWI3M2NHTkhqYk03bXVLOGpVZ3g1Y3pMeE9oUkREWEhlZzNVZ3pNOVNlcGtfeG85UUk5M3A2SEVpR0Y1VWdlX2hreTlRV1p6VnVXSjNMUnZWYVhmSnh6T20tdDNKbUUyaHNhWS1tQVU2YXpBOGlTN3Y1QkVhRVQzWFJ4VU0tUHdfaWI5ekE1UnBZU09HdEs0bW1CTFE?oc=5
 
-- Anthropic halts AI training for over a month over security concerns as models breach testing systems ahead of IPO
-  Anthropic pauses training of its next generation AI model for more than a month over security concerns. Four AI models access live external computer systems during testing.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-halts-ai-training-for-over-a-month-over-security-concerns-as-models-breach-testing-systems/articleshow/135218073.cms
+- MTAR Technologies among 4 stocks closing above VWAP
+  Four Nifty500 stocks closed more than 2.5% above their respective volume-weighted average prices (VWAPs) on October 26
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mtar-technologies-among-4-stocks-closing-above-vwap/slideshow/135223257.cms
 
-- Sunteck Realty H1FY27 net profit rises 20%, pre-sales up 19%
-  Sunteck Realty recorded a net profit of Rs 99 crore in the first half of FY27. Revenue increased 16% to Rs 512 crore. Pre-sales also rose to Rs 1,611 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/sunteck-realty-h1fy27-net-profit-rises-20-pre-sales-up-19/articleshow/135217893.cms
+- JSW Steel among 5 stocks showing the White Marubozu pattern
+  Five Nifty500 stocks that gained over 4% on October 26 featured in StockEdge’s White Marubozu bullish scanner. The candlestick pattern
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jsw-steel-among-5-stocks-showing-the-white-marubozu-pattern/slideshow/135223206.cms
 
-- Dalmia Bharat posts Rs 205 crore Q2 loss on exceptional hit
-  Dalmia Bharat experienced a consolidated loss of Rs 205 crore in the September quarter of this year. Sales volume rose by 3% year-on-year, while consolidated revenue increased by 4% to Rs 3,563 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/dalmia-bharat-posts-rs-205-crore-q2-loss-on-exceptional-hit/articleshow/135217688.cms
+- Ather Energy among 5 stocks showing RSI trending up
+  Five Nifty500 stocks that gained over 5% on October 26 featured in the RSI Trending Up scan on StockEdge. The scan identifies stocks whose Relative Strength
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-among-5-stocks-showing-rsi-trending-up/slideshow/135223123.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Sensex rose nearly 483 points, while Nifty gained over 153 points during the trading session. This rebound followed a four-day decline that significantly impacted investor wealth.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/135215629.cms
+- HDFC Bank Share Price Live Updates: HDFC Bank's Weekly Returns Dip
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-ltd-stock-price-today-live-27-oct-2026/liveblog/135222980.cms
 
-- India news: BJP to protest nationwide over opposition's Modi remark - DW.com
-  India news: BJP to protest nationwide over
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOXy1OMWhVWjJXREJYUWFpNzNtREMyZDlKNjZiQ3JBZFNISF9DVlFwUi1fbXVmOTJIcXBhZDdlUHpobHZCUDdOdVlTVGZpZ2RhTDZwUmFlX1o1RWJCWHl1OHlEVEhXbHJPWnRtWGxEX0FJbjdDUnB0WWcta18yX1J4anhBRXFpZWxNc1RzMGl3NjRuUkU?oc=5
+- SFC Environmental Technologies IPO opens today: GMP at 9%; check price band, lot size and key details
+  The Rs 667.53-crore public issue is a combination of a fresh issue of 45.45 lakh shares aggregating to Rs 150 crore and an offer for sale (OFS) of 1.57 crore shares worth Rs
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sfc-environmental-technologies-ipo-opens-today-gmp-at-9-check-price-band-lot-size-and-key-details/articleshow/135222860.cms
 
-- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
-  BJP Holds Protests Across Country, Se
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
+- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
 
-- BJP targets Congress, set to ramp up campaign against opposition - The Times of India
-  BJP targets Congress, set to ramp up campaign against
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQNVBDN0lMOW0yNnNmWEFkcG10d1JnOU00SkNjcm9UOEdMTTNUSUk1ajRhTG5IVXJBYjhkWE50MWlrbTBLSElxLXZiRU1xNGRNQlNOSVpDaWRwWE1wQ0k0bTUzb2F5U0RCNWlMN2kwWTRDSUVacjJ5bWpxZ3VENXExVUN6TDZ5eGZROUtxYmJXX3FJMU1YbkhCOVQ3bHl3VXQyNjhkUkRIdUwzcU55WDBWVzhrVkxUd3FIOExjbm80cldiRW5KYzB0X25OOA?oc=5
+- Indian publishers contest Modi government’s privacy law - The Hindu
+  Indian publishers contest Modi government�
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
 
-- ED in SC: NewsClick received 86cr in ‘illicit foreign funding’ - The Times of India
-  NewsClick received 86cr in ‘illicit foreign
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTFYenBxM3hBNXdWV180NVNVSlk2d0VEYnd5ZHhkTW1HSk5iTkVycEpycDczWllYcnlNbGxWY0x4THBwU1dLZWZiVEN5RVV4MVB6Zko3TWQ4VjZlZUN6RlpMUHZFV3o5VkZtTmh4cTdxREhGNW4zSlhGSHVpZ2VTc0c1UDNDYlN1RC1nRzJaX0FFOFhlVzZ2a180RFlyWldmVGhuOVRVTllteVhFc2UyRjJxTVZBOHZGTm5CMkg5TDFFdGZEcGfSAcsBQVVfeXFMUENlWG54S21KVjgzV2ZlekQ0RnVHT0djTlN2bXFYczFxV2pVckxxTFZsWmdseUFVaXMwbVhDZnpKVjN5VmV3endxMWFqc1R4NEZrTC1Vdm1HTlp4T2dFbnhIaUU4aFI4eXgzZHRLcWctQ2RKQWN5d3FZeDNNSGtBR25hMnhET3FwZkxIZmtsVlJUYTZtNkJKNWVxUE9RRzVwdjlMcGV1eWp5cXU2d19kdTl6aDdxdnEzUVhUdkJ4akdHSkJQODd2R0pseFE?oc=5
+- ‘New privacy law violates freedom of speech, threatens journalistic activity’: Digital news body may move - The Times of India
+  The Times of India is a digital news body based in New Delhi, India.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDd0d203RVRzVFFJcW1uekZwUVVnZjlfN2dDWGNCUU9xa1BYdlpZTkkyY3Mzb044VFR3TDdKVTdna1Fxa1JQVWh1a19pb0JfR3ZHRGUyQzNPZzFRZW16S1o3ZnIyaVo5NzlGZG9XSElOQVZJS1ZjQlQ2eDd3VWUwZ3dLclZkLVJkRUtvNS1fYkZCaldtdEluUHF4SkZ3dC01YzdHRnhIZ0tIWHN1UWxtdGN2dXhIZzVJVU1lMzlobndZang2dXpTWFdtaWpQQ1A0cVhlM2xfZ1dSbzJHRlFYMWtUOVkwRm5SQ3VER2lCMk5RUVEyU19hU2RRd21fQmRtdkHSAYcCQVVfeXFMTnFlYTNrc3p5N2dRWTZrYUJtT21Rb19FWjI4T3ItWEI1elZhY0xyV0MtT1plLWJmV3VOWGRFZ2o0bXFKeW55YndZa2xjM2xIY2VJUm9EX2hySVdfenM1TnJlMjB5VXZmU3pmSFZTeHAzS1NTYW9hRjRrdk1lbTVtMF9la3h3Rjh0dzN6V3BQMFpvUFpmQWpWWWViRm5GeEVtRUZUU0ltOG9nbjF6VF83SkhaSDUxWnhzamdWWlVTS1AyT01vRXM4UU8xaDlYY2JnRERvUmlfcTdVMFc5WHJQczdrOTFqTHpJdkVxTUVfc1pGOW5aeXJFeHFsVlNmUTVNRUdfZFRabkE?oc=5
 
-- DMK Ex-Minister Arrested In Rs 100-Crore Bribery Case. MK Stalin Hits Out - NDTV
-  DMK Ex-Minister Arrested In Rs
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUtyWVhtazAyWlpyc3JOMWhOeUM2Y0o0d2I4NUQySWk1YVI3UlAzOEw4YWtpeUVDLUJDYUJsSTRIVlN5aUVQZzVoUm5faEVldElHdlItZjdETVZ5bHNpaTRJQTJWcjlKYWFoazdTZkZnMTNGM09HR3lVOWJMdkhhU1ZBOW1VS0RqZUtiQW9FaGpYSFBZbVluR0g4M1dvZzRLelRFY3NZOFdFS3g1VlhKSk5nLXJuZkdaeW9QNVA0T3N1UkhNVTdoaHJZVEhMNWVIUzRUQVBn0gHeAUFVX3lxTE8zMTk4UGV5blEyazROcXptaW5qYWh0RHctZ0ZId0tKTUtLOWdWVTdGcEFXY3A1VWJTMkphTU5ERFdiN3ZPZnFxMXAyNzJGalF0a1l2Zkk3TnV4OUVZZThvc01wamRvMFdZR0FkVk5yY3l4d01CVnhsZ19uR1hqcjM5UUpPV2VjLWpKODVwSmtqVXl1Q0xrRmhqaWRNVVN4dmEySHpHb25OQ1E1YXlBdUhRN2R4a0U4RDJIZzVJT3BnS19YZFVsZjNtRUJIMWNXWmZHQ18xdlVmZXhsalptUQ?oc=5
+- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
+  India news: Rahul Gandhi urges protest against voter deletions
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
+
+- Rahul Gandhi Tells Traders How To End Ramlila Maidan Protest In '30 Seconds' - NDTV
+  Rahul Gandhi Tells Traders How To End Ram
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnI2Z3RNVmRSLUlETmVTeGFZOVdIZW0tWU83NHY4Tkh3Z2hRU2ExNWJJdTdORU93QVRnN1pnZXhIaEZHY0dLeVRseHl6bUZrU1BqZXF4Z0pIZWlILWZFcFJFVzVQUURVb3ZjaTRzQzNuQ2puS21ENlNKMmJFNVFvOWVTeDl2eXBsbXZBNDU2bHhPYThzbG5KaVRrS050M2tQUkxIZDRScWJvUTNoNUZ3dENPUDUtZ9IBvgFBVV95cUxQb0huX3JKUURrNjRKZGliR3ljS0JCMHFsaFc3ZWhOaGpGM0RRaVpnZUltb19rTTEzZWVpck1aaXhLN2tuS0VYOGlvaWxkbFJEa2RxY2RySlUwX2NkWnY0U0dVNHFBR1U3cWp5ZDl4dEJ2NEF4RGhDMUNncE5FWFJmTXl0M3BaN3dlV3VqVmk4djlTbWIyQzhBSVA5ZGhsOFljcGlrMnBvOVp4UGtZZVZUc09teWltRlV0VVFKZHVR?oc=5
+
+- Ather Turns Profitable, Paytm Q2 PAT Rockets & More
+  Electric two-wheeler maker Ather Energy turned its maiden profit in Q2 FY27.
+  🔗 https://inc42.com/buzz/ather-turns-profitable-paytm-q2-pat-rockets-more/
+
+- Protectt.ai To Acquire Controlling Stake In Bosch’s AIShield
+  AI-native cybersecurity startup Protectt.ai plans to acquire a controlling stake in AIShield, an AI security platform incubated within Bos
+  🔗 https://inc42.com/buzz/protectt-ai-to-acquire-controlling-stake-in-boschs-aishield/
 
 - News Publishers Move SC To Challenge The DPDP Act
   A group of 21 news publishers has reportedly challenged India’s Digital Personal Data Protection Act in the Supreme Court.
@@ -172,73 +180,85 @@
   Social gaming platform Matiks has raised $10 Mn (₹95.1 Cr) in its Pre-Series A funding round.
   🔗 https://inc42.com/buzz/matiks-bags-10-mn-to-take-its-puzzle-gaming-platform-global/
 
-- LEAP India Q2: Profit Zooms 62% YoY To ₹18 Cr, Revenue Up 18%
-  LEAP India reported a net profit of ₹17.8 Cr in the second quarter (Q2) of the fiscal year.
-  🔗 https://inc42.com/buzz/leap-india-q2-profit-zooms-62-yoy-to-%e2%82%b918-cr-revenue-up-18/
+- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
 
-- AceVector Q2 Loss Surges 116% YoY To ₹16.2 Cr, Revenue Up 17%
-  Snapdeal parent AceVector&#8217;s net loss for the September quarter (Q2) of FY27 zoomed 116% to ₹16.2 Cr from �
-  🔗 https://inc42.com/buzz/acevector-q2-loss-surges-116-yoy-to-%e2%82%b916-2-cr-revenue-up-17/
+- Indian publishers contest Modi government’s privacy law - The Hindu
+  Indian publishers contest Modi government�
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
 
-- India news: BJP to protest nationwide over opposition's Modi remark - DW.com
-  India news: BJP to protest nationwide over
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOXy1OMWhVWjJXREJYUWFpNzNtREMyZDlKNjZiQ3JBZFNISF9DVlFwUi1fbXVmOTJIcXBhZDdlUHpobHZCUDdOdVlTVGZpZ2RhTDZwUmFlX1o1RWJCWHl1OHlEVEhXbHJPWnRtWGxEX0FJbjdDUnB0WWcta18yX1J4anhBRXFpZWxNc1RzMGl3NjRuUkU?oc=5
+- ‘New privacy law violates freedom of speech, threatens journalistic activity’: Digital news body may move - The Times of India
+  The Times of India is a digital news body based in New Delhi, India.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDd0d203RVRzVFFJcW1uekZwUVVnZjlfN2dDWGNCUU9xa1BYdlpZTkkyY3Mzb044VFR3TDdKVTdna1Fxa1JQVWh1a19pb0JfR3ZHRGUyQzNPZzFRZW16S1o3ZnIyaVo5NzlGZG9XSElOQVZJS1ZjQlQ2eDd3VWUwZ3dLclZkLVJkRUtvNS1fYkZCaldtdEluUHF4SkZ3dC01YzdHRnhIZ0tIWHN1UWxtdGN2dXhIZzVJVU1lMzlobndZang2dXpTWFdtaWpQQ1A0cVhlM2xfZ1dSbzJHRlFYMWtUOVkwRm5SQ3VER2lCMk5RUVEyU19hU2RRd21fQmRtdkHSAYcCQVVfeXFMTnFlYTNrc3p5N2dRWTZrYUJtT21Rb19FWjI4T3ItWEI1elZhY0xyV0MtT1plLWJmV3VOWGRFZ2o0bXFKeW55YndZa2xjM2xIY2VJUm9EX2hySVdfenM1TnJlMjB5VXZmU3pmSFZTeHAzS1NTYW9hRjRrdk1lbTVtMF9la3h3Rjh0dzN6V3BQMFpvUFpmQWpWWWViRm5GeEVtRUZUU0ltOG9nbjF6VF83SkhaSDUxWnhzamdWWlVTS1AyT01vRXM4UU8xaDlYY2JnRERvUmlfcTdVMFc5WHJQczdrOTFqTHpJdkVxTUVfc1pGOW5aeXJFeHFsVlNmUTVNRUdfZFRabkE?oc=5
 
-- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
-  BJP Holds Protests Across Country, Se
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
+- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
+  India news: Rahul Gandhi urges protest against voter deletions
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
 
-- BJP targets Congress, set to ramp up campaign against opposition - The Times of India
-  BJP targets Congress, set to ramp up campaign against
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQNVBDN0lMOW0yNnNmWEFkcG10d1JnOU00SkNjcm9UOEdMTTNUSUk1ajRhTG5IVXJBYjhkWE50MWlrbTBLSElxLXZiRU1xNGRNQlNOSVpDaWRwWE1wQ0k0bTUzb2F5U0RCNWlMN2kwWTRDSUVacjJ5bWpxZ3VENXExVUN6TDZ5eGZROUtxYmJXX3FJMU1YbkhCOVQ3bHl3VXQyNjhkUkRIdUwzcU55WDBWVzhrVkxUd3FIOExjbm80cldiRW5KYzB0X25OOA?oc=5
+- Rahul Gandhi Tells Traders How To End Ramlila Maidan Protest In '30 Seconds' - NDTV
+  Rahul Gandhi Tells Traders How To End Ram
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnI2Z3RNVmRSLUlETmVTeGFZOVdIZW0tWU83NHY4Tkh3Z2hRU2ExNWJJdTdORU93QVRnN1pnZXhIaEZHY0dLeVRseHl6bUZrU1BqZXF4Z0pIZWlILWZFcFJFVzVQUURVb3ZjaTRzQzNuQ2puS21ENlNKMmJFNVFvOWVTeDl2eXBsbXZBNDU2bHhPYThzbG5KaVRrS050M2tQUkxIZDRScWJvUTNoNUZ3dENPUDUtZ9IBvgFBVV95cUxQb0huX3JKUURrNjRKZGliR3ljS0JCMHFsaFc3ZWhOaGpGM0RRaVpnZUltb19rTTEzZWVpck1aaXhLN2tuS0VYOGlvaWxkbFJEa2RxY2RySlUwX2NkWnY0U0dVNHFBR1U3cWp5ZDl4dEJ2NEF4RGhDMUNncE5FWFJmTXl0M3BaN3dlV3VqVmk4djlTbWIyQzhBSVA5ZGhsOFljcGlrMnBvOVp4UGtZZVZUc09teWltRlV0VVFKZHVR?oc=5
 
-- ED in SC: NewsClick received 86cr in ‘illicit foreign funding’ - The Times of India
-  NewsClick received 86cr in ‘illicit foreign
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTFYenBxM3hBNXdWV180NVNVSlk2d0VEYnd5ZHhkTW1HSk5iTkVycEpycDczWllYcnlNbGxWY0x4THBwU1dLZWZiVEN5RVV4MVB6Zko3TWQ4VjZlZUN6RlpMUHZFV3o5VkZtTmh4cTdxREhGNW4zSlhGSHVpZ2VTc0c1UDNDYlN1RC1nRzJaX0FFOFhlVzZ2a180RFlyWldmVGhuOVRVTllteVhFc2UyRjJxTVZBOHZGTm5CMkg5TDFFdGZEcGfSAcsBQVVfeXFMUENlWG54S21KVjgzV2ZlekQ0RnVHT0djTlN2bXFYczFxV2pVckxxTFZsWmdseUFVaXMwbVhDZnpKVjN5VmV3endxMWFqc1R4NEZrTC1Vdm1HTlp4T2dFbnhIaUU4aFI4eXgzZHRLcWctQ2RKQWN5d3FZeDNNSGtBR25hMnhET3FwZkxIZmtsVlJUYTZtNkJKNWVxUE9RRzVwdjlMcGV1eWp5cXU2d19kdTl6aDdxdnEzUVhUdkJ4akdHSkJQODd2R0pseFE?oc=5
+- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
 
-- DMK Ex-Minister Arrested In Rs 100-Crore Bribery Case. MK Stalin Hits Out - NDTV
-  DMK Ex-Minister Arrested In Rs
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUtyWVhtazAyWlpyc3JOMWhOeUM2Y0o0d2I4NUQySWk1YVI3UlAzOEw4YWtpeUVDLUJDYUJsSTRIVlN5aUVQZzVoUm5faEVldElHdlItZjdETVZ5bHNpaTRJQTJWcjlKYWFoazdTZkZnMTNGM09HR3lVOWJMdkhhU1ZBOW1VS0RqZUtiQW9FaGpYSFBZbVluR0g4M1dvZzRLelRFY3NZOFdFS3g1VlhKSk5nLXJuZkdaeW9QNVA0T3N1UkhNVTdoaHJZVEhMNWVIUzRUQVBn0gHeAUFVX3lxTE8zMTk4UGV5blEyazROcXptaW5qYWh0RHctZ0ZId0tKTUtLOWdWVTdGcEFXY3A1VWJTMkphTU5ERFdiN3ZPZnFxMXAyNzJGalF0a1l2Zkk3TnV4OUVZZThvc01wamRvMFdZR0FkVk5yY3l4d01CVnhsZ19uR1hqcjM5UUpPV2VjLWpKODVwSmtqVXl1Q0xrRmhqaWRNVVN4dmEySHpHb25OQ1E1YXlBdUhRN2R4a0U4RDJIZzVJT3BnS19YZFVsZjNtRUJIMWNXWmZHQ18xdlVmZXhsalptUQ?oc=5
+- Indian publishers contest Modi government’s privacy law - The Hindu
+  Indian publishers contest Modi government�
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
 
-- India news: BJP to protest nationwide over opposition's Modi remark - DW.com
-  India news: BJP to protest nationwide over
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxOXy1OMWhVWjJXREJYUWFpNzNtREMyZDlKNjZiQ3JBZFNISF9DVlFwUi1fbXVmOTJIcXBhZDdlUHpobHZCUDdOdVlTVGZpZ2RhTDZwUmFlX1o1RWJCWHl1OHlEVEhXbHJPWnRtWGxEX0FJbjdDUnB0WWcta18yX1J4anhBRXFpZWxNc1RzMGl3NjRuUkU?oc=5
+- ‘New privacy law violates freedom of speech, threatens journalistic activity’: Digital news body may move - The Times of India
+  The Times of India is a digital news body based in New Delhi, India.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDd0d203RVRzVFFJcW1uekZwUVVnZjlfN2dDWGNCUU9xa1BYdlpZTkkyY3Mzb044VFR3TDdKVTdna1Fxa1JQVWh1a19pb0JfR3ZHRGUyQzNPZzFRZW16S1o3ZnIyaVo5NzlGZG9XSElOQVZJS1ZjQlQ2eDd3VWUwZ3dLclZkLVJkRUtvNS1fYkZCaldtdEluUHF4SkZ3dC01YzdHRnhIZ0tIWHN1UWxtdGN2dXhIZzVJVU1lMzlobndZang2dXpTWFdtaWpQQ1A0cVhlM2xfZ1dSbzJHRlFYMWtUOVkwRm5SQ3VER2lCMk5RUVEyU19hU2RRd21fQmRtdkHSAYcCQVVfeXFMTnFlYTNrc3p5N2dRWTZrYUJtT21Rb19FWjI4T3ItWEI1elZhY0xyV0MtT1plLWJmV3VOWGRFZ2o0bXFKeW55YndZa2xjM2xIY2VJUm9EX2hySVdfenM1TnJlMjB5VXZmU3pmSFZTeHAzS1NTYW9hRjRrdk1lbTVtMF9la3h3Rjh0dzN6V3BQMFpvUFpmQWpWWWViRm5GeEVtRUZUU0ltOG9nbjF6VF83SkhaSDUxWnhzamdWWlVTS1AyT01vRXM4UU8xaDlYY2JnRERvUmlfcTdVMFc5WHJQczdrOTFqTHpJdkVxTUVfc1pGOW5aeXJFeHFsVlNmUTVNRUdfZFRabkE?oc=5
 
-- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
-  BJP Holds Protests Across Country, Se
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
+- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
+  India news: Rahul Gandhi urges protest against voter deletions
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
 
-- BJP targets Congress, set to ramp up campaign against opposition - The Times of India
-  BJP targets Congress, set to ramp up campaign against
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQNVBDN0lMOW0yNnNmWEFkcG10d1JnOU00SkNjcm9UOEdMTTNUSUk1ajRhTG5IVXJBYjhkWE50MWlrbTBLSElxLXZiRU1xNGRNQlNOSVpDaWRwWE1wQ0k0bTUzb2F5U0RCNWlMN2kwWTRDSUVacjJ5bWpxZ3VENXExVUN6TDZ5eGZROUtxYmJXX3FJMU1YbkhCOVQ3bHl3VXQyNjhkUkRIdUwzcU55WDBWVzhrVkxUd3FIOExjbm80cldiRW5KYzB0X25OOA?oc=5
+- Rahul Gandhi Tells Traders How To End Ramlila Maidan Protest In '30 Seconds' - NDTV
+  Rahul Gandhi Tells Traders How To End Ram
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnI2Z3RNVmRSLUlETmVTeGFZOVdIZW0tWU83NHY4Tkh3Z2hRU2ExNWJJdTdORU93QVRnN1pnZXhIaEZHY0dLeVRseHl6bUZrU1BqZXF4Z0pIZWlILWZFcFJFVzVQUURVb3ZjaTRzQzNuQ2puS21ENlNKMmJFNVFvOWVTeDl2eXBsbXZBNDU2bHhPYThzbG5KaVRrS050M2tQUkxIZDRScWJvUTNoNUZ3dENPUDUtZ9IBvgFBVV95cUxQb0huX3JKUURrNjRKZGliR3ljS0JCMHFsaFc3ZWhOaGpGM0RRaVpnZUltb19rTTEzZWVpck1aaXhLN2tuS0VYOGlvaWxkbFJEa2RxY2RySlUwX2NkWnY0U0dVNHFBR1U3cWp5ZDl4dEJ2NEF4RGhDMUNncE5FWFJmTXl0M3BaN3dlV3VqVmk4djlTbWIyQzhBSVA5ZGhsOFljcGlrMnBvOVp4UGtZZVZUc09teWltRlV0VVFKZHVR?oc=5
 
-- ED in SC: NewsClick received 86cr in ‘illicit foreign funding’ - The Times of India
-  NewsClick received 86cr in ‘illicit foreign
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTFYenBxM3hBNXdWV180NVNVSlk2d0VEYnd5ZHhkTW1HSk5iTkVycEpycDczWllYcnlNbGxWY0x4THBwU1dLZWZiVEN5RVV4MVB6Zko3TWQ4VjZlZUN6RlpMUHZFV3o5VkZtTmh4cTdxREhGNW4zSlhGSHVpZ2VTc0c1UDNDYlN1RC1nRzJaX0FFOFhlVzZ2a180RFlyWldmVGhuOVRVTllteVhFc2UyRjJxTVZBOHZGTm5CMkg5TDFFdGZEcGfSAcsBQVVfeXFMUENlWG54S21KVjgzV2ZlekQ0RnVHT0djTlN2bXFYczFxV2pVckxxTFZsWmdseUFVaXMwbVhDZnpKVjN5VmV3endxMWFqc1R4NEZrTC1Vdm1HTlp4T2dFbnhIaUU4aFI4eXgzZHRLcWctQ2RKQWN5d3FZeDNNSGtBR25hMnhET3FwZkxIZmtsVlJUYTZtNkJKNWVxUE9RRzVwdjlMcGV1eWp5cXU2d19kdTl6aDdxdnEzUVhUdkJ4akdHSkJQODd2R0pseFE?oc=5
+- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
 
-- DMK Ex-Minister Arrested In Rs 100-Crore Bribery Case. MK Stalin Hits Out - NDTV
-  DMK Ex-Minister Arrested In Rs
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTUtyWVhtazAyWlpyc3JOMWhOeUM2Y0o0d2I4NUQySWk1YVI3UlAzOEw4YWtpeUVDLUJDYUJsSTRIVlN5aUVQZzVoUm5faEVldElHdlItZjdETVZ5bHNpaTRJQTJWcjlKYWFoazdTZkZnMTNGM09HR3lVOWJMdkhhU1ZBOW1VS0RqZUtiQW9FaGpYSFBZbVluR0g4M1dvZzRLelRFY3NZOFdFS3g1VlhKSk5nLXJuZkdaeW9QNVA0T3N1UkhNVTdoaHJZVEhMNWVIUzRUQVBn0gHeAUFVX3lxTE8zMTk4UGV5blEyazROcXptaW5qYWh0RHctZ0ZId0tKTUtLOWdWVTdGcEFXY3A1VWJTMkphTU5ERFdiN3ZPZnFxMXAyNzJGalF0a1l2Zkk3TnV4OUVZZThvc01wamRvMFdZR0FkVk5yY3l4d01CVnhsZ19uR1hqcjM5UUpPV2VjLWpKODVwSmtqVXl1Q0xrRmhqaWRNVVN4dmEySHpHb25OQ1E1YXlBdUhRN2R4a0U4RDJIZzVJT3BnS19YZFVsZjNtRUJIMWNXWmZHQ18xdlVmZXhsalptUQ?oc=5
+- Indian publishers contest Modi government’s privacy law - The Hindu
+  Indian publishers contest Modi government�
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
+
+- ‘New privacy law violates freedom of speech, threatens journalistic activity’: Digital news body may move - The Times of India
+  The Times of India is a digital news body based in New Delhi, India.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDd0d203RVRzVFFJcW1uekZwUVVnZjlfN2dDWGNCUU9xa1BYdlpZTkkyY3Mzb044VFR3TDdKVTdna1Fxa1JQVWh1a19pb0JfR3ZHRGUyQzNPZzFRZW16S1o3ZnIyaVo5NzlGZG9XSElOQVZJS1ZjQlQ2eDd3VWUwZ3dLclZkLVJkRUtvNS1fYkZCaldtdEluUHF4SkZ3dC01YzdHRnhIZ0tIWHN1UWxtdGN2dXhIZzVJVU1lMzlobndZang2dXpTWFdtaWpQQ1A0cVhlM2xfZ1dSbzJHRlFYMWtUOVkwRm5SQ3VER2lCMk5RUVEyU19hU2RRd21fQmRtdkHSAYcCQVVfeXFMTnFlYTNrc3p5N2dRWTZrYUJtT21Rb19FWjI4T3ItWEI1elZhY0xyV0MtT1plLWJmV3VOWGRFZ2o0bXFKeW55YndZa2xjM2xIY2VJUm9EX2hySVdfenM1TnJlMjB5VXZmU3pmSFZTeHAzS1NTYW9hRjRrdk1lbTVtMF9la3h3Rjh0dzN6V3BQMFpvUFpmQWpWWWViRm5GeEVtRUZUU0ltOG9nbjF6VF83SkhaSDUxWnhzamdWWlVTS1AyT01vRXM4UU8xaDlYY2JnRERvUmlfcTdVMFc5WHJQczdrOTFqTHpJdkVxTUVfc1pGOW5aeXJFeHFsVlNmUTVNRUdfZFRabkE?oc=5
+
+- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
+  India news: Rahul Gandhi urges protest against voter deletions
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
+
+- Rahul Gandhi Tells Traders How To End Ramlila Maidan Protest In '30 Seconds' - NDTV
+  Rahul Gandhi Tells Traders How To End Ram
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnI2Z3RNVmRSLUlETmVTeGFZOVdIZW0tWU83NHY4Tkh3Z2hRU2ExNWJJdTdORU93QVRnN1pnZXhIaEZHY0dLeVRseHl6bUZrU1BqZXF4Z0pIZWlILWZFcFJFVzVQUURVb3ZjaTRzQzNuQ2puS21ENlNKMmJFNVFvOWVTeDl2eXBsbXZBNDU2bHhPYThzbG5KaVRrS050M2tQUkxIZDRScWJvUTNoNUZ3dENPUDUtZ9IBvgFBVV95cUxQb0huX3JKUURrNjRKZGliR3ljS0JCMHFsaFc3ZWhOaGpGM0RRaVpnZUltb19rTTEzZWVpck1aaXhLN2tuS0VYOGlvaWxkbFJEa2RxY2RySlUwX2NkWnY0U0dVNHFBR1U3cWp5ZDl4dEJ2NEF4RGhDMUNncE5FWFJmTXl0M3BaN3dlV3VqVmk4djlTbWIyQzhBSVA5ZGhsOFljcGlrMnBvOVp4UGtZZVZUc09teWltRlV0VVFKZHVR?oc=5
 
 - L&T Technology Services and Nokia Forge Engineering Collaboration - LTTS
   L&amp;T Technology
   🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5nNkoyaWxlNmhVSGw1eTNlVjRHVm1YcUthWFJwRW5qX3dEZVhqWWJJcnpQMkJ4SzAwb2tLZGNvUi1ydU5RWkNqbmpYY3VRZ3EzdTNLWGJ0Z3hVOGZIVVdzQ2pfZ2lTb0NUOGpuUkwzY3lPUW93c2tWeUhHMVI?oc=5
 
-- Experts discuss entrepreneurship, technology development on first day of JNTUA Innovators Conclave - The Hindu
-  Experts discuss entrepreneurship, technology development on first day of J
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPd0dTTUNJWEx4d05Obm93eXJ6aWxTT1pKcjZ5OUI1S084aDFLSnNDZ25LMGVacmhUS0pWbFY4VVRfbDR6YkEwTWhUUUNsV3RleDdJSHNObkZTYWM1aFBsbHhTRDNVR2UwQjZ3bVJYb1p3dzl4VC1vUUl6cHFWRFZuN2xZUUpPeE8wNUloQTRSUjJnZEFsNE9GU2QwV3kzUTlvRGhuZzNWM3BEVEYzajI4dHJIMmJZWGdETS1sTUNCcE9hVFQzOWxqTmVRUHdCdldIVzBDdE9GLU13bnlEVUZ0M3E3Nzh6OExFNWFHRnRoWWZFS05MNUdaQTB1SHZsNnVr0gGHAkFVX3lxTE1hQkFiclRoWjRtUlFXQng5N29DX2FkZm1nbEJJVFRYeWZGUWZsSnZScEJIS2ktOUFnTFBqVEpyTV9PUktZS3JlV0NPc3U1Q253Zkk4aFJZVTNSellfZzFGalYydmJFZkJZbU9QYV9KcDZnMkxXcnVyV2NqeHQ2V0lQVWxxNTJVckJnMDBMMkU1cnR0Q0hnbGVjY3ZkR1BkVXRWU0ozcGxtUWVrUVo0N3NkOFJJR2tZZUhNMmg2WENOWmFvTnY4Y01pU29teldlclBRZDA2RVBEdUtoUHdfM0hBMklORmxKem9XYlIwd0JNWHJSbWhGMnl3VFhPNWE2VjE1RDk5Z0cw?oc=5
+- PM to inaugurate Emerging Science, Technology and Innovation Conclave 2026 on 27 October - PM India
+  PM to inaugurate Emerging Science, Technology and Innovation Conclave
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTEVwT28zaHZUSjh2bk1KSjFiNGdXTU9oWVM3TkZ6dUp4VFpqYjdqRDF3aDA5ampUOGFQZDh3a0ljeUtJc0Q5b1c2MDdBaUdBa0wyUVAyWFVHMGZHR2JrT2dvdFFnc2JnUU1FVW5kVWVlcC00eVI2RExqZlFZdXdBZ3dtVjJybGxpdVd0cmFBMU5HNEtWX2llZ1cwMVNKem9FVnFKei1yQjZlbjNiRW9lSHdSUUN3YUhqLWlDYklrdmNXTTVuNDBCZHpFVlZrSGQ1NUFzSFdDRWlIRlc3YWdzRw?oc=5
 
-- Anthropic’s I.P.O. Prospectus Spells Out a Future of Promise and Peril - The New York Times
-  Anthropic’s I.P.O.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0RUcjhxcFdNQzE5VzMybXBnRXJPNmxUaGRtVDhnVXRqVEtjM0NsN2VDY2txazNsRmFjVjB5RFY1Nk5fWjdzZ2VTWGJoN015Ry1SbmJsMEJmdzBKaktyOHdXNE5PeENDWkp3dWo4a2x6dGgtdUZyMU9Ncm1Vc09xR2ZVWnRtUkk?oc=5
-
-- Slovakia, Latvia approve Tesla assisted-driving technology amid European Union safety concerns - Telegraph India
-  Slovakia, Latvia approve Tesla assisted-driving
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb3ZibzBQTGNreU52cFlNaVZqZ1RQMU51V1BkSzRZM2REOXN4RWpBdzZIeWo2Q2cxQ09mSjJad3ZyWHZwVDRaV1NaUzEtazBfLU9TMVlBS2FqTEctMDRCejVwQXQ4UmREWGtNUU9BMHJTTEEya3JoYldrbWtjMUV4d3NmRVpmRlJYVEJ0MEQtd1gtT3NmNmx2WEs5ZHFQal9iY3pDc28yOVU4bDlYU2ptT1lGNjZkRzR1OWxFdVFBeWZ2WmN4Q3RVT1NibFQ2RzAwM1Y4MWtaaE1mZ9IB3wFBVV95cUxNTWtjb1ZCcm9McUJxY01yMXY5MWllWlhpWnoxSE9kd0FocjRTRXZVbm9uSFpxckdRZ3J2T3d6VkV5ZUprd0pPUktCRVVjWGxGc1k2LTZlSlpWbFVDTm1NTlVmQThrczlSaGhoX1hINlVtZFhNaWJOaHdHWEtoTUxadFBHcG43R3RyRGxUNUNGNDZGY1h4bjh3clNjOFhyMzIzQTdQeG9aSzZzUGRnQmJZLXU3ODFIVkRVOGtPTi1RVnlKZnA2aktLX3BlVlFSUXhTbWRPWjVCdlRIcHRyT3Y0?oc=5
+- LANXESS, Hindustan Colas collaborate to advance road construction technologies in India - The Hindu
+  LANXESS, Hindustan Colas collaborate
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcWpYd21DOXU2RjdraXJSNk9Yb2ZRZnROVmxtLURpM0ZwN0dzRTMyazNoQUppblp4UXpjaVlnLVNPWVUxaXNnRHRfMG9PVDZjZ2ZFNmhKYm9lOFNSbkI3NWw1VWd0U2l6YWVJQUFfNWJZVVA0QVhIYnJGSG9tYUJndHlYWjVxUjJtV241U21SZ2ZscHBqZ01rSkU3NDBEeGg3R1MtYkFqMWw2OGlxUE5WZDFXNXpNbnhjd3huRjFOZDZwZXBNM0RCaEtfeE5hemd5WUIxR2JYQdIB3gFBVV95cUxOT0U0UTRITE9qM3NZZHFSUU5PeldIcXhyOTFQUDVlNmNaNGxyR3d3ZlUxMWFxTjZ2ampObFprcGFIUnEzZHE1Z0JIcF91b0U2RHg2WFZyd3JCcUJQc3BSNm04SVRUc2piNVFaLXhKdjAyQlZCOVdFRFk3Z2MtTVdNVHRzbnYxbmpYOHZfNEdWcjJuVXlPN3pDVWpzSkNnMEM2ak83SXVIUTFMSWdRXzZlTmJmWml5SENmZWlGWDVqM2c4QVVrcWx1bXQySXg1eS1udUJFbnNCeW5rZWthNkE?oc=5
 
 - Anthropic’s Claude AI model accessed Georgia voter data in US - The Guardian
   Anthropic’s Claude AI model
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5
 
+- An Ohio city delayed a settlement over a proposed 2-million-square-foot technology hub; lawsuit and the p - The Times of India
+  An Ohio city delayed a settlement over a proposed 2-million-square-foot technology
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQcUJ0LW9rTklrRy1CLVhQcnBlelJEVGFKNmtGNjk1Q2hoUnhCWXAtTlg1alhUUDBJZXg4Qk9wVzBNcTdOTzNTX00yQUhZNTNfVEdsWl9sZk5VczBYWVB4RjQ3UFVuSXIwSE4zM2E4d3gzakQ0T3FYcXF3RFVsdERCeThVdko4ekRacXFRVjd0c2ZCWG0zb2lDakU5SDBXb3JRYUE5SkZhZi1KeHZ3S0lCSENjZGE2OFpkckdkSjE5d3pLVHY2eTdSRUM5YTdpZEFyUVNFbWVpUmdaeTFWZE5YUmRDWHFJMHB6a19teVdEVUpOSmVmcUM1ODlzalRRZEFfRzhOUnBmb3YtMFlGUlUzZUt2Tk9XQW50a1U1aTI4WHpBZ2ZyYWFONTdwd242WlcyYWfSAbcCQVVfeXFMUGV4WTkxUzU5Tl9MLTRhcHdrbG9IR2JpbXlVMTMwV1l6b3lGNEFlNTVyVVhhZWRDZ0k4cXdyVmxsZmx4azJNQUc5NS1QeTZ0djZSN2dqbHNNN1JmOXVON2lVRnFWU0xndE92ME5YaExDcEhvTVhFU0djeXFIR21pZmJMWGFNMmpCa0d0dmhYc1IxRDhEVHBITXJTNDhvcUUyM3hJYUNxdkpGd1FDbVBWUi1NNmJsODFIQ0FQOWphYUFWS3djY2JQcGZnR2s4Y0I4b2pndTRiaERpbzdPSXNQaTRBeWhrTklZSHVtVkdyRGppZnMxOHZzWDF3RUlyZUVJSm15WW5wcDJ5ZVZUT3JHR0lYMmZXc0NJMGtiZFVualZhRUZMSWFELUd1dkM0QVhUZUgydm9FM2M?oc=5
 
-_Last updated: 2026-10-26 22:15:37 UTC_
+
+_Last updated: 2026-10-27 03:24:34 UTC_
