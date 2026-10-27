@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- Indian publishers contest Modi government’s privacy law - The Hindu
-  Indian publishers contest Modi government�
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
-
-- Media groups challenge India’s privacy law at top court - Al Jazeera
-  Media groups challenge India’s privacy
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
-
-- India News Publishers Challenge Data Law Over Press Freedom - Bloomberg.com
-  India News Publishers Challenge Data Law Over
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2o4YW9mNzduVFNGN1BVX0E4N2ZkQ1ZEM0JNUVd4TzlZdlVqQ3g0cGRDYTZVOF9UUzJZOTNyeWprTEFldjNaRjJkeWhEb1dVRjVFVGNSOEI1dktDUDllVVhXMEdxeUduSlNabXBlT0Joc1Z4ZG1nTDgwYTVGTTB2NkJOcEszejVpeWdqajRGVHFMT2w2Q1BuVnhFaTJ5Mmp2VHNrc3NVb0dpWWlUei1j?oc=5
+- India exported over $850m worth of weapons to Europe since start of Ukraine-Russia war - The Times of India
+  India exported over $850m worth of weapons to Europe since start of Ukraine
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaFFpRXFleHAtdG5EcXA1ZkdzS0ZxRTJDZU5OY1E4Q0lXU0NHdDhfem5kSHRYSjlTSkNndUw1ZkE0OTZEUzV0VlNLR2lGZlJvRFZUZTMzNVpXZkhBdDl1TTk5VVVaQVp5ZEdOcEZyeWUwQUE4Z2RIUlY4T0l0S0stMFZ0aWZaay1jZzBRMlA4ZW1qdUx3YnM2Ukl3OWNYNHhOdGJlUnBEckRubS15MmtyMzRXT2w5RGVyUDZOZW9zdlp5U1M4QW42Y1U4UkRKcmpLZk5IZXBoRzNaYjZfWjJsazczT2VZX3ZoVDgtdHpCd1Zwd9IB9wFBVV95cUxNeTZFQkh1WU1VLVBobENGWEVTV2JWbU9VQjhZRURnTUJNNmxGVldjVkJkbWE2WDVHRG5Cd0pzVkZ3MTRjdGVNc1ZNU25Db1Z4X2dNWGpMZmJCSy00YkJjR2ZPS2s4ZnBnTEpOczIzekFkLTRaMDJZUGsyNE1oM2tjaFRUcmJrSFpZWDN3NzFBOWM1WGJRYVVIeF95N2JSSE40SkVPdnFFX3NST244TlpvTm93R1ZkNEtsVTA0TEZHNDkyYUZtdHRFWWtGNGpCeGlfWUZERkdiS1owNV9VTmxDTjE2dzFJZWh4aWdWVFg2dnRJTjRYRDhJ?oc=5
 
 - Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC
   Jio Platforms IPO: India's largest share sale could
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5
 
-- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
-  Is India's Stock Market Heading For Its Worst
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
+- India-China border face-offs test Modi six years after deadly clash - Al Jazeera
+  India-China border face-offs test Modi
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUQ4OURtT191RHJoWkpZalZwanI4bkdVcHlHVEV5NUM3SkxjT0hsREVqbGtaa0Y2Zlg4WFY2M01TZnNZQjdGQnBLaEx0QXUySElLc3Rfb0s5czIwQU9aRjVCNmxDY2V0WUdlYloxVlZuQmhXeG5tVGw3WlZ5c0RqZ2xiNnZfWnA0RnRreDBLMFA4N2c5X1RSV1pqcXVZZF9hTUl3TDh0SU01emo4aFHSAbMBQVVfeXFMTS00R0ZxbE5UVkZQYm9LUmpFRl9wWmtxOTBBc1A1Wmh5UXFlYmp1Mi1VXzRmaHl3SFhkWDZEYVRiWUtKdUpFRmJNbGVfWmlPRnBjamx0TkdHMHNMS2FLcHdlYWxndmVEX1U0d3d2elpmWlpXRjg5RUFpZVhFVDRPdmVTOU1ncmlBb0FNZzdlbEtqN1RPYWxvTTNONkItSHNEZ0NNUXhpc04yZnFsYzJLU1BmbmM?oc=5
 
-- Chinese markets lose trillions as race for AI supremacy with US takes its toll - The Guardian
-  Chinese markets lose trillions as race for AI supremacy with US takes its
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzM2ekpCRDItOWdneU1qVVdIMlpNeVJLLWpUZDYtc2FPclJCM0JLTEVGc2JGS0NDbFpldXlaZlBFclJwTnFfSmFQUU0tLWRXaFI1NlFXRW1Bd1ZkbkwxdHQzcDJQOTIzOVFOZzFXLTNXVWI1T1pRd0hrQVRFdVplV3ZGb2xrYW84SXN2cUM1eWVXZEdPQVZN?oc=5
+- India vs Bangladesh LIVE in Asian Champions Trophy: Scores, updates, commentary, news - ESPN India
+  India vs Bangladesh LIVE in Asian Champions Trophy: Scores,
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbVRGYlEtT2o3V1pKcC1UR0haRU9EaTRGWndPZ3pFV2w5dzQ3MG9pRHByRVRrQVBEM2JxWlJmVTA5NzJvRk9NUGY0MFFsUkF6VXVfdS1mQ05RZi1MbnFqUFhzS09sZXlTXzRLQkQ1OXpWUFVTd0QtMWFCNXZCY2VGVWdxRWRHdnpyUXpvTHZULW1ZZWplSWFab2RlTjIwVDRCRVg3UnYxMXFwOUF3TUR5Z1pEMmZRa1ZqX01ZdVg3MmRyNnplc3lHd0tHeXdhaERvbVN1OHZJeHBEMGFPTS12OA?oc=5
 
-- Indian AI companies showcase homegrown technologies at Dubai AI Festival 2026 - News On AIR
-  Indian AI companies showcase homegrown technologies at Dubai AI Festival 20
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnhpME50RVVLeHFiTGpyZGV2eld1OXBJaXRMa1g5UXFxaFJmalY1R0ctNHMtMXpESVBsWE5kZGJBRlRrUDkwcWQ3WXpsalI4djBjd3FxejQtUV9IeWtXODJOYlNSZ2w5TnVvMk02dHR0SlhKM0VISTBxR0kxa0pJNk5UZFdhYk5LcEphMEg3TFJVX0ZYRWFKMFpaaEJFR09JS3NiUmVn?oc=5
+- 1 Million People, 20,000 Vehicles And Gridlock: Traders' Note To Rahul Gandhi - NDTV
+  1 million people, 20,000 vehicles and Grid
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOVo0M01QYjVOdFk0UFc0cE1oSFVQaUQyelJraV9TZkI4dmk2ZjFTV3daVjRGUUtOV29MWk9WQ056M2JMMlEwNmlMYk9nM19hMEMxdmhRZU84cWo3eWlIcGxfMXkwQ2JHX283T1ctcDNPenpabHQ4alpOV2xFU2tnY256YzQtU04tTTNuSGRSM0wyTlBUV3FYS3c3RFoxTGpNd3IwazBHZGZoTk80TTZ5UHdkU2lWVHktUFpxckFGeHFtT0pwNHRtQWY1VUVKdk5GR3pyVmlCdTBwUE9NQ0R4YVJsNW9TR2xnSFpVNlZwVkhyd2JR0gH8AUFVX3lxTE02dTFSNHpRZHJMcHY4MnMyOG9lN1BZR1FMTEFPWDNuN3FPNzF0LWduVnc0S0toY0txdGtNcXljVzNiVm0wZTFQZ1ZNVUZMQUE2SVEtdm5qVEViMUg2U19zUFhVa1FCOHNfOFQ1WjllQW9vSFhDeWFTSjlQT29ST2FIdGZtWUpOU1ZoSmNnelUxc2c2MkRHM0pwT3d3Nzg2OUdOdEc3Q1VlSDNOMXdYbE5XUGdUa3d4dVZySjJSVVZsQk1ma3ZMRHJzbEduUWxsM293c1RoOXYtQ0pFM2xqSDNQZWYxRURXUy1Kdlh1RkVxMVJmTjEwVjhmVUI5WQ?oc=5
 
-- Elon Musk has a 'failure warning' for these technology companies; says: Investors have already started be - The Times of India
-  Elon Musk has a 'failure warning' for these technology companies. Investors have
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTkV1ekFrMnRLY2ZhSjVPUkdSVmNOZVBmTmh6V2lkQktVWVhMUDgyeFhXTXQ4WkpjTFVjdHJ4U2gycGlKRG1CZmpNWTVjUTBqdWloUExxMHp1UTVCRWU0UXhxODJacWF4aklfUzV0bVFxUV8zOGY2Q2JNTW9yNWpnR1BHWTB0dGw1Y0RibHVKenpHbTNnZDYzdmFRY01lWlBJNjU2SmdERU5yRkZkLU9KdHg3RVdmYWViTzAxaXcyR3lsWXlsbS1YS2h2dUVucHFwWTVKeVhiTkwtOTFBSzF5dHgyUXRMY0pfQTZRWmlLT214MlNTWHdmci00MWI3LUdlZjAzamtFYU1fVWZMRTJjdnlRTm5mNmN4M3RBNFZDdldXM29RWjlMQkZB0gGvAkFVX3lxTE9hbXVwNU96ZGtYUzdqc0xKOU41SUJ2WWxzMlVoRzVQMDNtTV8yUFE1a1pyOU04QWk4Zy1XZ3I2eE9yRTB4X2x3M3duT3FoVkR5WXlqUXZkbGhzbE95Q2VTVDFJc1NoZkNJTFpXUU1SeDRodGN0TnFWRURwOWZzb0t5b0lvZ2R6RWs5ejd5eUo1aGdoaWI0YlFFQ0F1OGJuVkp0ZHBwMGlkYl9KYzczeDVfa1NqTXlNX3JQRUxlNHZTOVI4bl83eHc1VmZEOXZraHVRVl90Z2xrU0dFSGhBX1ZRbnVaREFMMXp0QzctdC1ZY0c2eWY5cVprLWZnUXczRXNldEgwVS1iM0w2OHVjVEROS2xfTFVnbHZUQmRVcFFsQlVlYlpvVlZxcHJWSUd5VQ?oc=5
+- Microsoft offers buyouts to 60,000 employees amid AI spending push - Gulf Business
+  Microsoft offers buyouts to 60,000 employees
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2N4ckpQVDkyTk1fcjhQaldFUllyWmtDVk16OTZsLW1WOFNIbXB5NkJiY0dRS3hBR0dpTmMtT1h5cUNQSzlpTFdvM3lPOTlVNzR1LVN4bGY5SUhvc0UwalBVMWZpRWtMak40MkJ5b1I2VHVxSDczYmxBLUU0ZXRwSmkyUmt0NVFoMktzSnFiYzJ4bVVNRzI4NXhNM3o2ZDB2d3FkUlhzbw?oc=5
+
+- ‘My social life completely plummeted’: gen Z is fighting back against big tech - The Guardian
+  ‘My social life completely plummeted’: gen Z
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUljaWFWLVFQa1pURFdpUndkQlNmNDAwME9LLWZRVzU5ZjJHdFZ4dndYdWEweHFHV0xJdm5zb1hGS2ljRE5MUTk3YlRxdFY1NEJDdHduUFhFM1VVazY3YU9vcFZRMFFKc2wwSXVLTTlPaDYzeS1QeFBGeXpBX29QbA?oc=5
+
+- India’s Industrial Power Must Go Beyond Borrowed Technology - Frontline Magazine
+  India’s Industrial Power Must
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORHQxdkdEdWMwS0RENHZDbTdkNzF4eUY0RF9Wb0hOUFFYOHB2SkFsWDBhSTFSNUpaYTAzYVVkYXVELXE0ZDRzSEo5Mjc1VURpVmJ4a2liMVJVV1dpSGdRY05VS0ZyMXZlVWFucHZOZVlUQmRnOUFEb1hsUDdpMUt1SFNMaENGZjNtQTJKdS02VmNvdVY4QnFacWxlYUdBb1pKSW5MT21lOVM0UWs0d3FxWmpBMnN1WmPSAb4BQVVfeXFMTmRaMFV5ejU3U1U1emlxb0VHOVpqb3FPWm5uTFdUaVVnNDZ6Vm1TWHBlQlRHSVpvcmotV1lxdWtLWm9ubktRekNzcnRCN0xUTVVsb2ZqWTE0YzUwa3B2LWtHWW4tc3FLcExQWnQ5bmpNT0g2MEMzODB6QkJRVnJDUVJzbldVMnFUTjZqT01PQ0F6ZVVwbEoxcHdyb0wzRXNQZUJ4cjF4UURrV2ZXOFFfTUFmTWFCZ1BtNl96elI4Zw?oc=5
 
 - PM to inaugurate Emerging Science, Technology and Innovation Conclave 2026 on 27 October - PM India
   PM to inaugurate Emerging Science, Technology and Innovation Conclave
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTEVwT28zaHZUSjh2bk1KSjFiNGdXTU9oWVM3TkZ6dUp4VFpqYjdqRDF3aDA5ampUOGFQZDh3a0ljeUtJc0Q5b1c2MDdBaUdBa0wyUVAyWFVHMGZHR2JrT2dvdFFnc2JnUU1FVW5kVWVlcC00eVI2RExqZlFZdXdBZ3dtVjJybGxpdVd0cmFBMU5HNEtWX2llZ1cwMVNKem9FVnFKei1yQjZlbjNiRW9lSHdSUUN3YUhqLWlDYklrdmNXTTVuNDBCZHpFVlZrSGQ1NUFzSFdDRWlIRlc3YWdzRw?oc=5
 
-- Rajnath Singh calls for ‘Aatmanirbharta 2.0’ in defence, stresses advanced technologies and resilient supply chains - The Hindu
-  Rajnath Singh calls for ‘Aatmanirb
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdTVyMTNHLTJwaUN2aUloeFAtQ1B1SmlGcVVKczZQX2lFaEItbEZyUllCaUNrS200UHItV2xnbWcweTUtell6Ql9uQmxWTVAtQVJYM3p5WTNFdHowaGJUamo3OHpEc2x6a0xlUFlnT2laS3Y0aVlNV01MUUFLQlRoa1FTbUpwUGdYTFNHbEZLVEtienFrTld6eVkzczJNXzU1N2o1Vjl5bFF5MkpERnZYSFBubWFjdGxzTmRvOFF3ZW4zdy1nOHhoZTVzV1BWUmlhSG84VmV4aWhfRTMzUFhWUWxDSWd6NWZYNlF4Q05BVUJBWUNkNVpNLWY4ZEd6bGfSAYYCQVVfeXFMTnRId1hxSHh2VFRaOUh1MzJ6Yy01WXhwcEY1ZnN2UWNpX1Bnbk5GRDdsRUlEWkxPTE44UFcxS3ZpS0ZQRGdRa3lOZDNGYkFXV0F2d2ctM2Zjd3lkUWk0YURTSGFMMEEzZ082TTBVSjF5bkYzcTRwa2tUWU9BU3lKTGNBY1JfZXM3LUpHNERDbEJOR0dfZ051ZmE1ekNXT2Z5U29TRzRvV3RCakRnVkN6TC1tWWFWb2FfbUx4MGJwa29QMzl6Tjh4S21Ca1Z1SFpmSzdFNHktV0dsQ05GS0oxbHcxb1ZuYXJpdTdkaVlxVzFkNGpvQXotYTRxdVk4ZFdIRDBwWERTdw?oc=5
+- PM Modi urges Indian scientists to lead in future technologies and make country a global hub for solution - The Times of India
+  PM Modi urges Indian scientists to lead in future technologies and make country a global hub for solution.
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxON25MdjMzM19MMkNUSWZyNnJrYlBJOTlEbWdVc1JXbUswZ1FpSWw5RVVNbEdJZGQzRUF5Nkx6dEVqUkwtUExySkJlX3VsNlZKNXpZQkZJUURQemRLMDcwcE0xcWZHeEtPb0pISGNWcDBWRVR1QU0zbTFfb1hTR3NtRjRKMF8yVWs1R0ZwZlhoTUJVVlVOeldXQlBYQ09rektIa1ExMkhaaVI2N0V6aDlJN05HeWJEMVVhZXNTMXBOUlZNcUItMWhMd1VWTV9veWp2NnFnTjBjMjc0MWUxUGMyeVo5THA1QW1kUFAteVh0Qk5tTGdPcGRaTk9UaXZjY1NLYS05cNIBigJBVV95cUxPWUxtWC1VQV9ZWTk3d1p6TmdMSkh3ZHU2LXBBMmNIQzctVEo3cU1iaUpWQ1Nva1NRcW10ZktGSi0tSlp0UF9PNkdxS0x2OWpSTFBncFc1LU50LXlvbzRwclVWMnpGZDJIakVBZkRha3hvQUhET2pSME5lSjY0TGtaQ2g3WWdCTXVoblFTX0ZtbDBBb0tVUHB4ZzV1VTlpa2NwNm5WbWJfRmNlT2pQZmtYMGhrVklraTF1dVhROVlPOTUzREtlSTd2UUpGSURQX3NJR3BxSHlNcVoyd25QUzk2OHpyM3BoUjN2UUxzSW52WURmMGl2WFRSOGgzS3NsWFNxQ3BreTQ5Z0p3Zw?oc=5
 
-- Maruti Suzuki Profit Misses Estimate as Costs Squeeze Margins
-  Maruti Suzuki India Ltd. reported lower-than-expected quarterly profit. Rising input costs and a higher share
-  🔗 https://www.livemint.com/companies/company-results/maruti-suzuki-profit-misses-estimate-as-costs-squeeze-margins-11793098437511.html
+- Who is Akshit Choudhary? Indian Overseas Bank names new CFO; Check his qualifications and previous roles
+  Akshit Choudhary is a chartered accountant with more than 15 years of professional experience across banking, financial services, auditing, treasury and business operations.
+  🔗 https://www.livemint.com/companies/people/who-is-akshit-choudhary-indian-overseas-bank-names-new-cfo-check-his-qualifications-and-previous-roles-11793120075105.html
 
-- Cent raises $15 million to scale preventive health screening business
-  Cent plans to invest in research, AI radiology and screening technology. It will expand from three centres to 7–10 across Bengaluru, Mumbai and Gurugram by mid-2027.
-  🔗 https://www.livemint.com/companies/news/cent-startup-raises-15-million-series-a-blume-ventures-11793090537213.html
+- From city civil courts to Madras HC to NCLT: Why TVS camps are filing caveats across courts amid succession dispute
+  The TVS family succession dispute has moved toward litigation. The dispute involves Venu Srinivasan, his wife Mallika and their children.
+  🔗 https://www.livemint.com/companies/people/from-city-civil-courts-to-madras-hc-to-nclt-why-tvs-camps-are-filing-caveats-across-courts-amid-succession-dispute-11793119025554.html
 
-- Under scanner for Tiger Shroff shooting, Pune Police asks Google, Apple to remove Rapido app for operating illegally
-  Rapido could be removed from app stores in Pune as police crack down on its unlicensed bike taxi services. The company’
-  🔗 https://www.livemint.com/companies/news/under-scanner-for-tiger-shroff-shooting-pune-police-asks-google-apple-to-remove-rapido-app-for-operating-illegally-11793090870773.html
+- Exports, EVs help Bajaj Auto’s Q2 profit surge amid rising costs, looming rural stress
+  Strong overseas demand and a favourable exchange rate lift quarterly earnings. Two-wheeler maker flags rural distress
+  🔗 https://www.livemint.com/companies/company-results/exports-evs-help-bajaj-auto-s-profit-surge-amid-rising-costs-and-looming-rural-stress-11793113633770.html
 
-- Tata Consumer’s distribution overhaul powers growth in more businesses, says CEO
-  A distribution overhaul has helped make growth businesses a key engine for Tata Consumer Products. The company is expanding AI tools across sales and tea production.
-  🔗 https://www.livemint.com/companies/news/tata-consumer-growth-businesses-tata-sampann-revenue-growth-sunil-dsouza-11793083887431.html
+- War in West Asia was a cloud over L&amp;T. The company has come out shining
+  L&amp;amp;T reported  ₹1.48 trillion in new orders during the quarter. This is over a fourth more than the same period last year, taking
+  🔗 https://www.livemint.com/companies/war-in-west-asia-was-a-cloud-over-l-t-the-company-has-come-out-shining-11793111596415.html
 
-- Diwali sweets: luxury mithai brands make a beeline for premium gifting market
-  Diwali is driving a push into high-end mithai, with boxes priced up to  ₹21,000. However, premium m
-  🔗 https://www.livemint.com/companies/news/luxury-mithai-sweets-brands-premium-diwali-gifting-11793007903400.html
+- Nalwa Aero tests electric flying taxi: Indian startups ‘set to redefine how we fly’, says Minister Rammohan Naidu
+  Punjab-based company explores air taxis, medical evacuations and cargo transport.
+  🔗 https://www.livemint.com/companies/start-ups/nalwa-aero-tests-electric-flying-taxi-indian-startups-set-to-redefine-how-we-fly-says-minister-rammohan-naidu-11793104877918.html
 
-- Already up 65% YTD! Motilal Oswal sees a further 36% upside in this power stock - Check target price
-   Fujiyama Power Systems, a rooftop solar solutions provider company, ended 1.38% higher at  ₹368
-  🔗 https://www.livemint.com/market/stock-market-news/already-up-65-ytd-motilal-oswal-sees-a-further-36-upside-in-this-power-stock-check-target-price-11793097602268.html
+- OneSource Specialty Pharma shares jump 14% after Q2 results; recover 50% from recent lows
+  OneSource Specialty Pharma shares rose nearly 14% after the company reported Q2 revenue growth of 37% year-on-year. The company maintained its FY28 targets and expects
+  🔗 https://www.livemint.com/market/stock-market-news/onesource-specialty-pharma-shares-jump-14-after-q2-results-recover-50-from-recent-lows-11793115107385.html
 
-- Nifty FMCG down 22% in 2026; Diwali shopping opportunity for investors? Experts decode support levels and recovery bets
-  Nifty FMCG index has sharply underperformed Nifty 50, with 13 sector stocks posting negative annual returns. Rising commodity costs, changing consumer preferences and slower growth expectations are
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-fmcg-down-22-in-2026-diwali-shopping-opportunity-for-investors-experts-decode-support-levels-and-recovery-bets-11793095230786.html
+- How Israel elections 2026 results will impact Tel Aviv Stock Exchange (TASE) - The Bursa impact decoded
+  Israeli stocks have risen sharply since the Hamas attacks, supported in part by the technology sector and defence spending. But political uncertainty is back in focus as voters choose between Netanyahu’s bloc and an opposition
+  🔗 https://www.livemint.com/market/stock-market-news/how-israel-elections-2026-results-will-impact-tel-aviv-stock-exchange-tase-the-bursa-impact-decoded-11793108578963.html
 
-- Amazon stock target raised by Morgan Stanley, UBS ahead of Q3 results; what are the key catalysts? Know here
-  Morgan Stanley and UBS raised their Amazon price targets ahead of Q3 results. They cited accelerating AWS growth, AI opportunities and improving efficiency.
-  🔗 https://www.livemint.com/market/stock-market-news/amazon-stock-target-raised-by-morgan-stanley-ubs-ahead-of-q3-results-what-are-the-key-catalysts-know-here-11793095491619.html
+- Jio IPO listing gains calculator: How much profit can you expect from one Small NII and Big NII lot after allotment?
+  Jio Platforms IPO investors are anticipating listing gains. The prevailing grey market premium suggests potential
+  🔗 https://www.livemint.com/market/stock-market-news/jio-ipo-listing-gains-calculator-how-much-profit-can-you-expect-from-one-small-nii-and-big-nii-lot-after-allotment-11793105193943.html
 
-- Up 580% in 5 years! Multibagger stock Acutaas Chemicals shares jump 13% today - here's why | Q2 results highlights
-  Acutaas Chemicals shares rose as much as 12% after September-quarter revenue increased 43% year on year and EBITDA climbed 86%. The company raised FY27 revenue
-  🔗 https://www.livemint.com/market/stock-market-news/up-580-in-5-years-multibagger-stock-acutaas-chemicals-shares-jump-13-today-heres-why-q2-results-highlights-11793096150787.html
+- Ola Electric shares surge 16%, biggest 1-day gain since April; why is the stock rallying despite brokerage downgrades?
+  Ola Electric shares jumped 16.3% on October 27, their biggest single-day gain since April. The rebound followed a steep October decline and analyst downgrades.
+  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-shares-surge-16-biggest-1-day-gain-since-april-why-is-the-stock-rallying-despite-brokerage-downgrades-11793103468902.html
 
-- This Tata Group stock jumps 7% today after Q2 results - Is it a stock to buy now? Experts decode
-  Year-to-date, the stock is down 15% compared to a 14% fall in the Sensex. On a monthly scale, it
-  🔗 https://www.livemint.com/market/stock-market-news/this-tata-group-stock-jumps-7-today-after-q2-results-is-it-a-stock-to-buy-now-experts-decode-11793081896140.html
+- Jio IPO GMP hints at 22% listing-day pop for a market cap second only to Reliance Industries
+  If the GMP pattern holds until listing, Jio Platforms would become India's second-
+  🔗 https://www.livemint.com/market/ipo/jio-platforms-ipo-share-price-gmp-market-cap-11793102563152.html
 
 - DeepSeek AI model shows safety gaps in independent tests
   DeepSeek AI model
@@ -100,125 +100,125 @@
   The latest iPad mini features an 8.5-inch screen, compared with the 8.3-inch display on its predecessor
   🔗 https://www.livemint.com/technology/apples-new-ipad-mini-costs-82-900-in-india-check-features-specifications-and-sale-date-11793034102577.html
 
-- Stock futures rise as earnings season continues: Live updates - CNBC
-  Stock futures rise as earnings season continues
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE01a2Ywbm5HbkhhaXZtYlM2S1pUVnJOZHphMFNEQUZTS2lQQURWbzdWTDRmYi1INFVtVExqNUV1S3JVblo2Q2hOalpnUW83Xzk4cGJrZnYyYzl0ZUxrT2s5eEoyX0VxVmwxZjVyalBzcXBKYXhaTGtB0gF8QVVfeXFMTTdtcmVVc3VlM04tY1dHN1c1SXRaRnFXM2c1SVpEaE14UW1ScTRRYWZsR1I1ZDNmM3RJNXhkcFV0eGU1dXItUDEwNWZHZlpZTE5pQWI1Rzd2UElyQ0J6N21CbHZ5WnRrZHFYWEl5aWZtUW9jZjhnY0pPbVpQZA?oc=5
-
-- Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap - Bloomberg.com
-  Asian Stocks to Gain as Anthropic Files
+- US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap - Bloomberg.com
+  US Stock Futures Gain, Oil Falls on
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5
 
-- Closing Bell: Sensex, Nifty end flat on expiry day; pharma, realty shine, IT drags - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNU
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNUFQTEo3T09fbW02cHU1RVZkLXFic2swMkhkZWJ3bEJTRFlENGpoZFVvVlU4aVpreHkyRzdYV2dQOUZ6NjRwMElkV0x3TF9aSnJmdXljbmZ6UWEwaU5YMXJ6STBBS2o4SlBZMVpqNml3V2N0UklTVnpHTmpuNURNbFppWDByUkMxTmkxTkFLMzg4ZFhLWV9RUzFJdDhsNFlrRnFTX2VLX0NDX0FnamtpZkRRR0dtZmR1ZGVmMDhtUFM1NzDSAagCQVVfeXFMTmZtRlNsZUNmQ29nN0FTNWNWNDBGM0VHTHozcmJYZlRLMUZHSmJiX1VFVHdzZUt1akJmYkFhV2tubjIxcVdoYVhzOE9xaG9hQS1KRERXRHc0SXlNVkp3UmZKbldUbnVIa2hTVmdoUHhJN3JlT3pmeV9USUV5UU5zN3ROMlBTQzZyMW53Mmc2VnhuT1JOaUNwMzhpUXlQQUx6RVl6QkNYbkFjNlJiMERsWW53LXVvLWpSTVdObnltbTJKQ3o3MWpveGZJM1c3VlpqT3hDOGZaS2pyZXhXYTR4OEtBSE9xd28tOUVPWnZVNVp5Y1dJclRwNWg1bVB2SnBncEpPWFFYZTJxRjlEYUJRcF9QTG14WThnSnI1bTVZZXhkdkJiWTRIelo?oc=5
+- 5 Things to Know Before the Stock Market Opens on Tuesday - Investopedia
+  5 Things to Know Before the Stock Market Op
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0RPV0xzZUNCNFo4YTJBZkNLSmc4b3ZBS2tkUjc2RzFmT05jV2Q2U2pIdG9yNzJHZlpQb0dvc3o3Y0FfSmpLYUdPODZGN25RcHdvODRSMWtKOG5obDhMNkotYURSRkxuMUNKaXJoTEsxLVg4WDZPNzh0cmF3Nm9Bc3RLbXpENDZHZHFHVzVSNVFRZ2RmWWYwRW1xcGMzcDNnc3R3UlhMbjRfNi15bTM4bg?oc=5
 
-- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
-  Is India's Stock Market Heading For Its Worst
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
+- Oil Markets Brace for a New Iran Escalation After U.S. Midterms - Crude Oil Prices Today | OilPrice.com
+  Oil Markets Brace for a New Iran Escalation After U.
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3lrTWpiYVZiSUIxQjRucnJaNXoxVXJHbkxTT2x1R0M0dEdONGE0WVE5dV9XWTZ6eExYR25VN2ZYZVBGdUFGa3MwcUNxSTVBZ19CbzJsci1tTE1DUlR0bkc0QkF1QklMNm0tV0tvNzRIMUw0V0tqSG80TUVzd19SbldrRXpyQ0NpSUROZ0k3eXFWUklQVkhhbnZxdGF3TkNoRHRXVTRZONIBrAFBVV95cUxNUGxoVXJBT0t6S1ZEbnMtRUFNN2d4eEZLdzlzUkcxNTQwa0UyNVNQcjJyV1k3UGk0bnNLeEVOTXRDUXFpZ3lmMnlObFU5WFhkdHdyUFMtSUk3VENmampXZTdsWDlMVy04SHQxcFlvU01XRzZqemVGam5XWnczWUFiWXItUnRyVDFNSGdKYk1pTG9ENDc2V18zUmNac3haUl9wMzBCYUtsU3lMbVdK?oc=5
 
-- Delhi traders flag potential impact on 21 markets from November 1 Congress rally, seek postponement - The Hindu
-  Delhi traders flag potential impact on 21 markets from November 1 Congress rally
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa1hvbUhlWVZ2LUR6eWttWjlkQlo5c0xUdWlUUHBsRUFPYXlsMEJiOWZCSkM5STBBc0ZQakQ0cjU1ankzWW5xaUJNbk9RSVQ3bUp6ejZlNnhvbldQeExqZlVvcGVsQm5zX1hnWHRfVEdad1hCWXFIMFVNWmJnX2tJYUFQc1VadVNZYXJTM0J2ajJ0dkFkWEdVSlI3SWkwcV9JM3F3N1RYYnhJdzBnc0g0bXpRWHljUHJpaHMzUWdXaWdqMTYyYVFpYzk2cGxKNjNYdERGRU9yS05sNDhQZzFCTGVoN2c0bnBpZDFkeXdIckl5eGfSAfoBQVVfeXFMUGZ2cWRpc1RFM3R5ZENFUU4ycHZvdXJRdlZaV3JEenk1WDNmWlhiM0ZVNTM1OHBVZGJoMTNoS2Z2aWdzSXBDQ0RpZ1JvNlBYNU44Y2JrOWVVSVNQNjc0V3NGTFlnRy1iai1EZmRWdEo4d0U2ekpDWkZWN2hiSkdjMEJ5bmdlU1BmNV9GZEFtczROaGI4Z2FQbTNJeVgzaHdhdlpUcTlkSS1kQzI2NHNMd1JyTlNRdHJZVWpCdHNxeVFfc3lFRmZnRmwwbjM3LWRxbXZzdl96MEZaQTg0ZHh5aTkwaUpqUUVYd2xsS0o5d01GTkJhdG02VkVvdw?oc=5
+- Stock Market Today: Tech Stocks Extend Gains After Yesterday’s Anthropic Rally - WSJ
+  Stock Market Today: Tech Stocks Extend G
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzZjNjNPU0JVeFdraWZkQkRCbmZVbEc1S3lScGJ5a3g5TEJMSVdsSXhlWXpiVkY3SDJwUTg4N1JtSlVhM3A0VWNzOFg4bDgtVVhMUU1ZWlIzZml3cHF6eWxlMVg5MGZNdE9SRlBUWDh5ck1oVHhLQ1ZITUs3VXE4a01NRmQwdmM?oc=5
 
-- WeWork India H1 net profit rises 150%, revenue up 30.1%
-  WeWork India reported a 149.5% year-on-year rise in first-half FY27 net profit to Rs 119 crore. Capacity expansion, membership growth and improved operating margins supported performance.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/wework-india-h1-net-profit-rises-150-revenue-up-30-1/articleshow/135232036.cms
+- Advent raises $30 bn, launches mid-market fund as global footprint expands - The Times of India
+  Advent raises $30 bn, launches mid-market
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV0ZHMGtRdXExbS1PS0lXbVNDWFg1Uk9PY3Jtc0V2cmYtTHdxTkpGR21zRFhCYkx5Q3FmWFV6Z1I3ZGtFWW5lX3hKckZrNlhQUXd1TS16VzdEYTZJUGdVaG1ncU9tZkNhLTdUM0xWMnREMlJqVFQ2eEZ4dGhyTUlCblF0azgyMnltOEtuaUFZZnQyNjdOdTJtbllxQ2dKUEJUa3prTkdSNTROazBpR2MtN190Tk9RazVuZlM1c1MxeHFnNTJiVDlqSFo2cGZQTV9WWTltbFRhOGVuS2tzMzBBY0g1VzFfbGFiTERwZW5IONIB9AFBVV95cUxNSFJlSHFrQUlRc1BzbDhJODI3WmpaWjFFVlhUTlV0N0lJM2luMC1BRld1TU1idlhoTV91aDFEaWtvQzNpenJwLUlfQzVYTFZ3RDhwOEV5ZWpXeW5vbEhwWER5RmJaUm9tN1kyRGM4OXdXUnFuS2t4cTRmazh6WW5ySUNNLUtaN3Jnb1BsYXd0SkN4OTNFR3J1cTZqaHdJb003TU5wYVRqQnNyV05PaGsyTkktVnRZY3dqcjQ5Tmh2MnZ1S1l2OTk1aFZWdWhyTV9GY2FMZm9ua25kNkQwUEdwd1o2TzVKbmNwUGlZMGczNHNjRDZv?oc=5
 
-- 10 microcap stocks rally up to 80% in just 3 months
-  40 Nifty Microcap 250 stocks posted double-digit gains. PC Jeweller led the top 10 outperformers, with its share price surging 78%.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-microcap-stocks-rally-up-to-80-in-just-3-months/slideshow/135232021.cms
+- Allied Blenders Q2 Results: Profit rises 9.7% to Rs 69 crore, revenue up 6.8%
+  Allied Blenders and Distillers reported a net profit increase of 9.7% in the September quarter of FY27. The company's revenue from operations rose by 6.8% compared to the previous fiscal year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/allied-blenders-q2-results-profit-rises-9-7-to-rs-69-crore-revenue-up-6-8/articleshow/135240967.cms
 
-- Global Market: European shares fall as HSBC earnings drag banking stocks
-  HSBC's disappointing revenue weighed on banking stocks, while political unrest in France dampened investor sentiment. The STOXX 600 slipped, with gains in healthcare
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-fall-as-hsbc-earnings-drag-banking-stocks/articleshow/135231785.cms
+- Indus Towers Q2 Results: Net profit slips 2.5% to Rs 1,793 crore
+  The company experienced a 4% increase in consolidated revenue, while EBITDA saw a slight rise of 0.4%. Tower and co-location bases grew by 5.6% and 5.9%, respectively, contributing to improved performance
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/indus-towers-q2-results-net-profit-slips-2-5-to-rs-1793-crore/articleshow/135240759.cms
 
-- Rupee boxed in range; traders focus on oil, outflows and RBI's defence
-  The Indian rupee had a day of modest variability against the dollar on Tuesday. Major external challenges, including escalating oil prices and considerable equity outflows, are to blame.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-boxed-in-range-traders-focus-on-oil-outflows-and-rbis-defence/articleshow/135231121.cms
+- SAIL Q2 Results: Net profit surges four-fold to Rs 1750 crore on higher revenue
+  The company reported a profit of Rs 1,750.47 crore, a substantial rise from the previous year. Revenue from operations also saw growth, reaching Rs 31,997.55 crore compared to Rs 26,704.17 crore last
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/sail-q2-results-net-profit-surges-four-fold-to-rs-1750-crore-on-higher-revenue/articleshow/135240695.cms
 
-- Maruti Suzuki Q2 Results: Profit falls 26% YoY to Rs 2,466 crore, but revenue rises 26%
-  In the July-September quarter, Maruti Suzuki India experienced a notable 26% decrease in net profit compared to last year. Still, revenue shot up by 26% year-on-year, totaling Rs 53,356 crore. Rising
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/maruti-suzuki-q2-results-profit-falls-26-yoy-to-rs-2466-crore-but-revenue-rises-26/articleshow/135230515.cms
+- United Breweries Q2 Results: Profit jumps nearly 3 times to Rs 134 crore on volume growth, premiumisation
+  United Breweries Ltd experienced a nearly three-fold increase in net profit for the September quarter. The company's revenue from operations rose by 23.7 percent year-on-year, reflecting strong market performance.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/united-breweries-q2-results-profit-jumps-nearly-3-times-to-rs-134-crore-on-volume-growth-premiumisation/articleshow/135240644.cms
 
-- Indian publishers contest Modi government’s privacy law - The Hindu
-  Indian publishers contest Modi government�
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
+- SBI Life Insurance Q2 Results: Net profit grows 11% YoY to Rs 549 crore
+  SBI Life Insurance recorded an 11 percent increase in net profit for the second quarter. The net profit reached Rs 549 crore compared to Rs 495 crore last year. The company’s net premium income grew by 8.17
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-life-insurance-q2-results-net-profit-grows-11-yoy-to-rs-549-crore/articleshow/135240500.cms
 
-- Media groups challenge India’s privacy law at top court - Al Jazeera
-  Media groups challenge India’s privacy
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
-
-- India News Publishers Challenge Data Law Over Press Freedom - Bloomberg.com
-  India News Publishers Challenge Data Law Over
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2o4YW9mNzduVFNGN1BVX0E4N2ZkQ1ZEM0JNUVd4TzlZdlVqQ3g0cGRDYTZVOF9UUzJZOTNyeWprTEFldjNaRjJkeWhEb1dVRjVFVGNSOEI1dktDUDllVVhXMEdxeUduSlNabXBlT0Joc1Z4ZG1nTDgwYTVGTTB2NkJOcEszejVpeWdqajRGVHFMT2w2Q1BuVnhFaTJ5Mmp2VHNrc3NVb0dpWWlUei1j?oc=5
+- India exported over $850m worth of weapons to Europe since start of Ukraine-Russia war - The Times of India
+  India exported over $850m worth of weapons to Europe since start of Ukraine
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaFFpRXFleHAtdG5EcXA1ZkdzS0ZxRTJDZU5OY1E4Q0lXU0NHdDhfem5kSHRYSjlTSkNndUw1ZkE0OTZEUzV0VlNLR2lGZlJvRFZUZTMzNVpXZkhBdDl1TTk5VVVaQVp5ZEdOcEZyeWUwQUE4Z2RIUlY4T0l0S0stMFZ0aWZaay1jZzBRMlA4ZW1qdUx3YnM2Ukl3OWNYNHhOdGJlUnBEckRubS15MmtyMzRXT2w5RGVyUDZOZW9zdlp5U1M4QW42Y1U4UkRKcmpLZk5IZXBoRzNaYjZfWjJsazczT2VZX3ZoVDgtdHpCd1Zwd9IB9wFBVV95cUxNeTZFQkh1WU1VLVBobENGWEVTV2JWbU9VQjhZRURnTUJNNmxGVldjVkJkbWE2WDVHRG5Cd0pzVkZ3MTRjdGVNc1ZNU25Db1Z4X2dNWGpMZmJCSy00YkJjR2ZPS2s4ZnBnTEpOczIzekFkLTRaMDJZUGsyNE1oM2tjaFRUcmJrSFpZWDN3NzFBOWM1WGJRYVVIeF95N2JSSE40SkVPdnFFX3NST244TlpvTm93R1ZkNEtsVTA0TEZHNDkyYUZtdHRFWWtGNGpCeGlfWUZERkdiS1owNV9VTmxDTjE2dzFJZWh4aWdWVFg2dnRJTjRYRDhJ?oc=5
 
 - Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC
   Jio Platforms IPO: India's largest share sale could
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5
 
-- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
-  Is India's Stock Market Heading For Its Worst
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
+- India-China border face-offs test Modi six years after deadly clash - Al Jazeera
+  India-China border face-offs test Modi
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUQ4OURtT191RHJoWkpZalZwanI4bkdVcHlHVEV5NUM3SkxjT0hsREVqbGtaa0Y2Zlg4WFY2M01TZnNZQjdGQnBLaEx0QXUySElLc3Rfb0s5czIwQU9aRjVCNmxDY2V0WUdlYloxVlZuQmhXeG5tVGw3WlZ5c0RqZ2xiNnZfWnA0RnRreDBLMFA4N2c5X1RSV1pqcXVZZF9hTUl3TDh0SU01emo4aFHSAbMBQVVfeXFMTS00R0ZxbE5UVkZQYm9LUmpFRl9wWmtxOTBBc1A1Wmh5UXFlYmp1Mi1VXzRmaHl3SFhkWDZEYVRiWUtKdUpFRmJNbGVfWmlPRnBjamx0TkdHMHNMS2FLcHdlYWxndmVEX1U0d3d2elpmWlpXRjg5RUFpZVhFVDRPdmVTOU1ncmlBb0FNZzdlbEtqN1RPYWxvTTNONkItSHNEZ0NNUXhpc04yZnFsYzJLU1BmbmM?oc=5
 
-- Luxury Watch Brand Rotoris Raises $8.5 Mn To Grow Retail Footprint
-  Luxury watch brand Rotoris has raised $8.5 Mn in a Series A funding round led by Blume Ventures.
-  🔗 https://inc42.com/buzz/luxury-watch-brand-rotoris-raises-8-5-mn-to-grow-retail-footprint/
+- India vs Bangladesh LIVE in Asian Champions Trophy: Scores, updates, commentary, news - ESPN India
+  India vs Bangladesh LIVE in Asian Champions Trophy: Scores,
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbVRGYlEtT2o3V1pKcC1UR0haRU9EaTRGWndPZ3pFV2w5dzQ3MG9pRHByRVRrQVBEM2JxWlJmVTA5NzJvRk9NUGY0MFFsUkF6VXVfdS1mQ05RZi1MbnFqUFhzS09sZXlTXzRLQkQ1OXpWUFVTd0QtMWFCNXZCY2VGVWdxRWRHdnpyUXpvTHZULW1ZZWplSWFab2RlTjIwVDRCRVg3UnYxMXFwOUF3TUR5Z1pEMmZRa1ZqX01ZdVg3MmRyNnplc3lHd0tHeXdhaERvbVN1OHZJeHBEMGFPTS12OA?oc=5
 
-- Cent Raises $15 Mn To Scale AI-Led Preventive Healthcare Platform
-  Healthtech startup Cent, launched by Practo cofounder Shashank ND earlier this year, announced the raise of $15 Mn.
-  🔗 https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/
+- 1 Million People, 20,000 Vehicles And Gridlock: Traders' Note To Rahul Gandhi - NDTV
+  1 million people, 20,000 vehicles and Grid
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOVo0M01QYjVOdFk0UFc0cE1oSFVQaUQyelJraV9TZkI4dmk2ZjFTV3daVjRGUUtOV29MWk9WQ056M2JMMlEwNmlMYk9nM19hMEMxdmhRZU84cWo3eWlIcGxfMXkwQ2JHX283T1ctcDNPenpabHQ4alpOV2xFU2tnY256YzQtU04tTTNuSGRSM0wyTlBUV3FYS3c3RFoxTGpNd3IwazBHZGZoTk80TTZ5UHdkU2lWVHktUFpxckFGeHFtT0pwNHRtQWY1VUVKdk5GR3pyVmlCdTBwUE9NQ0R4YVJsNW9TR2xnSFpVNlZwVkhyd2JR0gH8AUFVX3lxTE02dTFSNHpRZHJMcHY4MnMyOG9lN1BZR1FMTEFPWDNuN3FPNzF0LWduVnc0S0toY0txdGtNcXljVzNiVm0wZTFQZ1ZNVUZMQUE2SVEtdm5qVEViMUg2U19zUFhVa1FCOHNfOFQ1WjllQW9vSFhDeWFTSjlQT29ST2FIdGZtWUpOU1ZoSmNnelUxc2c2MkRHM0pwT3d3Nzg2OUdOdEc3Q1VlSDNOMXdYbE5XUGdUa3d4dVZySjJSVVZsQk1ma3ZMRHJzbEduUWxsM293c1RoOXYtQ0pFM2xqSDNQZWYxRURXUy1Kdlh1RkVxMVJmTjEwVjhmVUI5WQ?oc=5
 
-- Ministry Of Defence Partners With Sarvam To Drive AI Adoption For Armed Forces
-  Sarvam has signed a memorandum of understanding (MoU) with the Ministry of Defence (MoD) to advance AI adoption across Indian.
-  🔗 https://inc42.com/buzz/ministry-of-defence-partners-with-sarvam-to-drive-ai-adoption-for-armed-forces/
+- Nova Spectral AI Raises ₹21.2 Cr To Build Indigenous Infrared Sensor Chips
+  Bengaluru-based Nova Spectral AI has raised ₹21.2 Cr ($2.3 Mn)
+  🔗 https://inc42.com/buzz/nova-spectral-ai-raises-%e2%82%b921-2-cr-to-build-indigenous-infrared-sensor-chips/
 
-- Baillie Gifford Funds Slash Value Of Holdings In Dailyhunt Parent VerSe By Up To 80%
-  Baillie Gifford Funds Slash Value Of Holdings In Dailyhunt Parent VerSe By Up To 80%.
-  🔗 https://inc42.com/buzz/baillie-gifford-funds-slash-value-of-holdings-in-dailyhunt-parent-verse-by-up-to-80/
+- Exclusive: Ex-Pixxel Engineer Effy John’s Parsec Aerospace In Talks To Raise $10 Mn
+  Parsec Aerospace, founded by former Pixxel engineer Effy John, is in talks to raise around $10 Mn.
+  🔗 https://inc42.com/buzz/ex-pixxel-engineer-effy-johns-parsec-aerospace-in-talks-to-raise-10-mn/
 
-- Ather Energy Shares Jump 8% After HSBC, Nomura Raise Price Targets
-  Shares of Ather Energy jumped as much as 8.1% to an intraday high of ₹1,702 on the B
-  🔗 https://inc42.com/buzz/ather-energy-shares-jump-8-after-hsbc-nomura-raise-price-targets/
+- Live2.ai Raises ₹130 Cr To Scale AI Marketing SaaS Platform
+  Live2.ai Raises ₹130 Cr To Scale AI Marketing SaaS Platform. IvyCap Ventures led pre-Series B funding round.
+  🔗 https://inc42.com/buzz/live2-ai-raises-%e2%82%b9130-cr-to-scale-ai-marketing-saas-platform/
 
-- Indian publishers contest Modi government’s privacy law - The Hindu
-  Indian publishers contest Modi government�
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
+- Healthy Snacking Brand Troovy Bags ₹100 Cr To Expand Offline Presence, Enter New Categories
+  Healthy snacking brand Troovy has raised $10.5 million in a Series B funding round.
+  🔗 https://inc42.com/buzz/healthy-snacking-brand-troovy-bags-%e2%82%b9100-cr-to-expand-offline-presence-enter-new-categories/
 
-- Media groups challenge India’s privacy law at top court - Al Jazeera
-  Media groups challenge India’s privacy
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
+- [Update] SC Seeks Centre’s Response On News Publishers’ Plea Against DPDP Act
+  News Publishers Move SC To Challenge The DPDP Act. Supreme Court seeks responses from Centre and Ministry of Electronics.
+  🔗 https://inc42.com/buzz/news-publishers-move-sc-to-challenge-the-dpdp-act/
 
-- India News Publishers Challenge Data Law Over Press Freedom - Bloomberg.com
-  India News Publishers Challenge Data Law Over
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2o4YW9mNzduVFNGN1BVX0E4N2ZkQ1ZEM0JNUVd4TzlZdlVqQ3g0cGRDYTZVOF9UUzJZOTNyeWprTEFldjNaRjJkeWhEb1dVRjVFVGNSOEI1dktDUDllVVhXMEdxeUduSlNabXBlT0Joc1Z4ZG1nTDgwYTVGTTB2NkJOcEszejVpeWdqajRGVHFMT2w2Q1BuVnhFaTJ5Mmp2VHNrc3NVb0dpWWlUei1j?oc=5
-
-- Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC
-  Jio Platforms IPO: India's largest share sale could
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5
-
-- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
-  Is India's Stock Market Heading For Its Worst
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
-
-- Indian publishers contest Modi government’s privacy law - The Hindu
-  Indian publishers contest Modi government�
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
-
-- Media groups challenge India’s privacy law at top court - Al Jazeera
-  Media groups challenge India’s privacy
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
-
-- India News Publishers Challenge Data Law Over Press Freedom - Bloomberg.com
-  India News Publishers Challenge Data Law Over
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2o4YW9mNzduVFNGN1BVX0E4N2ZkQ1ZEM0JNUVd4TzlZdlVqQ3g0cGRDYTZVOF9UUzJZOTNyeWprTEFldjNaRjJkeWhEb1dVRjVFVGNSOEI1dktDUDllVVhXMEdxeUduSlNabXBlT0Joc1Z4ZG1nTDgwYTVGTTB2NkJOcEszejVpeWdqajRGVHFMT2w2Q1BuVnhFaTJ5Mmp2VHNrc3NVb0dpWWlUei1j?oc=5
+- India exported over $850m worth of weapons to Europe since start of Ukraine-Russia war - The Times of India
+  India exported over $850m worth of weapons to Europe since start of Ukraine
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaFFpRXFleHAtdG5EcXA1ZkdzS0ZxRTJDZU5OY1E4Q0lXU0NHdDhfem5kSHRYSjlTSkNndUw1ZkE0OTZEUzV0VlNLR2lGZlJvRFZUZTMzNVpXZkhBdDl1TTk5VVVaQVp5ZEdOcEZyeWUwQUE4Z2RIUlY4T0l0S0stMFZ0aWZaay1jZzBRMlA4ZW1qdUx3YnM2Ukl3OWNYNHhOdGJlUnBEckRubS15MmtyMzRXT2w5RGVyUDZOZW9zdlp5U1M4QW42Y1U4UkRKcmpLZk5IZXBoRzNaYjZfWjJsazczT2VZX3ZoVDgtdHpCd1Zwd9IB9wFBVV95cUxNeTZFQkh1WU1VLVBobENGWEVTV2JWbU9VQjhZRURnTUJNNmxGVldjVkJkbWE2WDVHRG5Cd0pzVkZ3MTRjdGVNc1ZNU25Db1Z4X2dNWGpMZmJCSy00YkJjR2ZPS2s4ZnBnTEpOczIzekFkLTRaMDJZUGsyNE1oM2tjaFRUcmJrSFpZWDN3NzFBOWM1WGJRYVVIeF95N2JSSE40SkVPdnFFX3NST244TlpvTm93R1ZkNEtsVTA0TEZHNDkyYUZtdHRFWWtGNGpCeGlfWUZERkdiS1owNV9VTmxDTjE2dzFJZWh4aWdWVFg2dnRJTjRYRDhJ?oc=5
 
 - Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC
   Jio Platforms IPO: India's largest share sale could
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5
 
-- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
-  Is India's Stock Market Heading For Its Worst
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
+- India-China border face-offs test Modi six years after deadly clash - Al Jazeera
+  India-China border face-offs test Modi
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUQ4OURtT191RHJoWkpZalZwanI4bkdVcHlHVEV5NUM3SkxjT0hsREVqbGtaa0Y2Zlg4WFY2M01TZnNZQjdGQnBLaEx0QXUySElLc3Rfb0s5czIwQU9aRjVCNmxDY2V0WUdlYloxVlZuQmhXeG5tVGw3WlZ5c0RqZ2xiNnZfWnA0RnRreDBLMFA4N2c5X1RSV1pqcXVZZF9hTUl3TDh0SU01emo4aFHSAbMBQVVfeXFMTS00R0ZxbE5UVkZQYm9LUmpFRl9wWmtxOTBBc1A1Wmh5UXFlYmp1Mi1VXzRmaHl3SFhkWDZEYVRiWUtKdUpFRmJNbGVfWmlPRnBjamx0TkdHMHNMS2FLcHdlYWxndmVEX1U0d3d2elpmWlpXRjg5RUFpZVhFVDRPdmVTOU1ncmlBb0FNZzdlbEtqN1RPYWxvTTNONkItSHNEZ0NNUXhpc04yZnFsYzJLU1BmbmM?oc=5
+
+- India vs Bangladesh LIVE in Asian Champions Trophy: Scores, updates, commentary, news - ESPN India
+  India vs Bangladesh LIVE in Asian Champions Trophy: Scores,
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbVRGYlEtT2o3V1pKcC1UR0haRU9EaTRGWndPZ3pFV2w5dzQ3MG9pRHByRVRrQVBEM2JxWlJmVTA5NzJvRk9NUGY0MFFsUkF6VXVfdS1mQ05RZi1MbnFqUFhzS09sZXlTXzRLQkQ1OXpWUFVTd0QtMWFCNXZCY2VGVWdxRWRHdnpyUXpvTHZULW1ZZWplSWFab2RlTjIwVDRCRVg3UnYxMXFwOUF3TUR5Z1pEMmZRa1ZqX01ZdVg3MmRyNnplc3lHd0tHeXdhaERvbVN1OHZJeHBEMGFPTS12OA?oc=5
+
+- 1 Million People, 20,000 Vehicles And Gridlock: Traders' Note To Rahul Gandhi - NDTV
+  1 million people, 20,000 vehicles and Grid
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOVo0M01QYjVOdFk0UFc0cE1oSFVQaUQyelJraV9TZkI4dmk2ZjFTV3daVjRGUUtOV29MWk9WQ056M2JMMlEwNmlMYk9nM19hMEMxdmhRZU84cWo3eWlIcGxfMXkwQ2JHX283T1ctcDNPenpabHQ4alpOV2xFU2tnY256YzQtU04tTTNuSGRSM0wyTlBUV3FYS3c3RFoxTGpNd3IwazBHZGZoTk80TTZ5UHdkU2lWVHktUFpxckFGeHFtT0pwNHRtQWY1VUVKdk5GR3pyVmlCdTBwUE9NQ0R4YVJsNW9TR2xnSFpVNlZwVkhyd2JR0gH8AUFVX3lxTE02dTFSNHpRZHJMcHY4MnMyOG9lN1BZR1FMTEFPWDNuN3FPNzF0LWduVnc0S0toY0txdGtNcXljVzNiVm0wZTFQZ1ZNVUZMQUE2SVEtdm5qVEViMUg2U19zUFhVa1FCOHNfOFQ1WjllQW9vSFhDeWFTSjlQT29ST2FIdGZtWUpOU1ZoSmNnelUxc2c2MkRHM0pwT3d3Nzg2OUdOdEc3Q1VlSDNOMXdYbE5XUGdUa3d4dVZySjJSVVZsQk1ma3ZMRHJzbEduUWxsM293c1RoOXYtQ0pFM2xqSDNQZWYxRURXUy1Kdlh1RkVxMVJmTjEwVjhmVUI5WQ?oc=5
+
+- India exported over $850m worth of weapons to Europe since start of Ukraine-Russia war - The Times of India
+  India exported over $850m worth of weapons to Europe since start of Ukraine
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaFFpRXFleHAtdG5EcXA1ZkdzS0ZxRTJDZU5OY1E4Q0lXU0NHdDhfem5kSHRYSjlTSkNndUw1ZkE0OTZEUzV0VlNLR2lGZlJvRFZUZTMzNVpXZkhBdDl1TTk5VVVaQVp5ZEdOcEZyeWUwQUE4Z2RIUlY4T0l0S0stMFZ0aWZaay1jZzBRMlA4ZW1qdUx3YnM2Ukl3OWNYNHhOdGJlUnBEckRubS15MmtyMzRXT2w5RGVyUDZOZW9zdlp5U1M4QW42Y1U4UkRKcmpLZk5IZXBoRzNaYjZfWjJsazczT2VZX3ZoVDgtdHpCd1Zwd9IB9wFBVV95cUxNeTZFQkh1WU1VLVBobENGWEVTV2JWbU9VQjhZRURnTUJNNmxGVldjVkJkbWE2WDVHRG5Cd0pzVkZ3MTRjdGVNc1ZNU25Db1Z4X2dNWGpMZmJCSy00YkJjR2ZPS2s4ZnBnTEpOczIzekFkLTRaMDJZUGsyNE1oM2tjaFRUcmJrSFpZWDN3NzFBOWM1WGJRYVVIeF95N2JSSE40SkVPdnFFX3NST244TlpvTm93R1ZkNEtsVTA0TEZHNDkyYUZtdHRFWWtGNGpCeGlfWUZERkdiS1owNV9VTmxDTjE2dzFJZWh4aWdWVFg2dnRJTjRYRDhJ?oc=5
+
+- Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC
+  Jio Platforms IPO: India's largest share sale could
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5
+
+- India-China border face-offs test Modi six years after deadly clash - Al Jazeera
+  India-China border face-offs test Modi
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUQ4OURtT191RHJoWkpZalZwanI4bkdVcHlHVEV5NUM3SkxjT0hsREVqbGtaa0Y2Zlg4WFY2M01TZnNZQjdGQnBLaEx0QXUySElLc3Rfb0s5czIwQU9aRjVCNmxDY2V0WUdlYloxVlZuQmhXeG5tVGw3WlZ5c0RqZ2xiNnZfWnA0RnRreDBLMFA4N2c5X1RSV1pqcXVZZF9hTUl3TDh0SU01emo4aFHSAbMBQVVfeXFMTS00R0ZxbE5UVkZQYm9LUmpFRl9wWmtxOTBBc1A1Wmh5UXFlYmp1Mi1VXzRmaHl3SFhkWDZEYVRiWUtKdUpFRmJNbGVfWmlPRnBjamx0TkdHMHNMS2FLcHdlYWxndmVEX1U0d3d2elpmWlpXRjg5RUFpZVhFVDRPdmVTOU1ncmlBb0FNZzdlbEtqN1RPYWxvTTNONkItSHNEZ0NNUXhpc04yZnFsYzJLU1BmbmM?oc=5
+
+- India vs Bangladesh LIVE in Asian Champions Trophy: Scores, updates, commentary, news - ESPN India
+  India vs Bangladesh LIVE in Asian Champions Trophy: Scores,
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbVRGYlEtT2o3V1pKcC1UR0haRU9EaTRGWndPZ3pFV2w5dzQ3MG9pRHByRVRrQVBEM2JxWlJmVTA5NzJvRk9NUGY0MFFsUkF6VXVfdS1mQ05RZi1MbnFqUFhzS09sZXlTXzRLQkQ1OXpWUFVTd0QtMWFCNXZCY2VGVWdxRWRHdnpyUXpvTHZULW1ZZWplSWFab2RlTjIwVDRCRVg3UnYxMXFwOUF3TUR5Z1pEMmZRa1ZqX01ZdVg3MmRyNnplc3lHd0tHeXdhaERvbVN1OHZJeHBEMGFPTS12OA?oc=5
+
+- 1 Million People, 20,000 Vehicles And Gridlock: Traders' Note To Rahul Gandhi - NDTV
+  1 million people, 20,000 vehicles and Grid
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOVo0M01QYjVOdFk0UFc0cE1oSFVQaUQyelJraV9TZkI4dmk2ZjFTV3daVjRGUUtOV29MWk9WQ056M2JMMlEwNmlMYk9nM19hMEMxdmhRZU84cWo3eWlIcGxfMXkwQ2JHX283T1ctcDNPenpabHQ4alpOV2xFU2tnY256YzQtU04tTTNuSGRSM0wyTlBUV3FYS3c3RFoxTGpNd3IwazBHZGZoTk80TTZ5UHdkU2lWVHktUFpxckFGeHFtT0pwNHRtQWY1VUVKdk5GR3pyVmlCdTBwUE9NQ0R4YVJsNW9TR2xnSFpVNlZwVkhyd2JR0gH8AUFVX3lxTE02dTFSNHpRZHJMcHY4MnMyOG9lN1BZR1FMTEFPWDNuN3FPNzF0LWduVnc0S0toY0txdGtNcXljVzNiVm0wZTFQZ1ZNVUZMQUE2SVEtdm5qVEViMUg2U19zUFhVa1FCOHNfOFQ1WjllQW9vSFhDeWFTSjlQT29ST2FIdGZtWUpOU1ZoSmNnelUxc2c2MkRHM0pwT3d3Nzg2OUdOdEc3Q1VlSDNOMXdYbE5XUGdUa3d4dVZySjJSVVZsQk1ma3ZMRHJzbEduUWxsM293c1RoOXYtQ0pFM2xqSDNQZWYxRURXUy1Kdlh1RkVxMVJmTjEwVjhmVUI5WQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-27 11:29:47 UTC_
+_Last updated: 2026-10-27 17:18:19 UTC_
