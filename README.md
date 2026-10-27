@@ -1,264 +1,252 @@
 # 📰 Daily News Summaries
 
-- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
-
 - Indian publishers contest Modi government’s privacy law - The Hindu
   Indian publishers contest Modi government�
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
 
-- ‘New privacy law violates freedom of speech, threatens journalistic activity’: Digital news body may move - The Times of India
-  The Times of India is a digital news body based in New Delhi, India.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDd0d203RVRzVFFJcW1uekZwUVVnZjlfN2dDWGNCUU9xa1BYdlpZTkkyY3Mzb044VFR3TDdKVTdna1Fxa1JQVWh1a19pb0JfR3ZHRGUyQzNPZzFRZW16S1o3ZnIyaVo5NzlGZG9XSElOQVZJS1ZjQlQ2eDd3VWUwZ3dLclZkLVJkRUtvNS1fYkZCaldtdEluUHF4SkZ3dC01YzdHRnhIZ0tIWHN1UWxtdGN2dXhIZzVJVU1lMzlobndZang2dXpTWFdtaWpQQ1A0cVhlM2xfZ1dSbzJHRlFYMWtUOVkwRm5SQ3VER2lCMk5RUVEyU19hU2RRd21fQmRtdkHSAYcCQVVfeXFMTnFlYTNrc3p5N2dRWTZrYUJtT21Rb19FWjI4T3ItWEI1elZhY0xyV0MtT1plLWJmV3VOWGRFZ2o0bXFKeW55YndZa2xjM2xIY2VJUm9EX2hySVdfenM1TnJlMjB5VXZmU3pmSFZTeHAzS1NTYW9hRjRrdk1lbTVtMF9la3h3Rjh0dzN6V3BQMFpvUFpmQWpWWWViRm5GeEVtRUZUU0ltOG9nbjF6VF83SkhaSDUxWnhzamdWWlVTS1AyT01vRXM4UU8xaDlYY2JnRERvUmlfcTdVMFc5WHJQczdrOTFqTHpJdkVxTUVfc1pGOW5aeXJFeHFsVlNmUTVNRUdfZFRabkE?oc=5
+- Media groups challenge India’s privacy law at top court - Al Jazeera
+  Media groups challenge India’s privacy
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
 
-- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
-  India news: Rahul Gandhi urges protest against voter deletions
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
+- India News Publishers Challenge Data Law Over Press Freedom - Bloomberg.com
+  India News Publishers Challenge Data Law Over
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2o4YW9mNzduVFNGN1BVX0E4N2ZkQ1ZEM0JNUVd4TzlZdlVqQ3g0cGRDYTZVOF9UUzJZOTNyeWprTEFldjNaRjJkeWhEb1dVRjVFVGNSOEI1dktDUDllVVhXMEdxeUduSlNabXBlT0Joc1Z4ZG1nTDgwYTVGTTB2NkJOcEszejVpeWdqajRGVHFMT2w2Q1BuVnhFaTJ5Mmp2VHNrc3NVb0dpWWlUei1j?oc=5
 
-- Rahul Gandhi Tells Traders How To End Ramlila Maidan Protest In '30 Seconds' - NDTV
-  Rahul Gandhi Tells Traders How To End Ram
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnI2Z3RNVmRSLUlETmVTeGFZOVdIZW0tWU83NHY4Tkh3Z2hRU2ExNWJJdTdORU93QVRnN1pnZXhIaEZHY0dLeVRseHl6bUZrU1BqZXF4Z0pIZWlILWZFcFJFVzVQUURVb3ZjaTRzQzNuQ2puS21ENlNKMmJFNVFvOWVTeDl2eXBsbXZBNDU2bHhPYThzbG5KaVRrS050M2tQUkxIZDRScWJvUTNoNUZ3dENPUDUtZ9IBvgFBVV95cUxQb0huX3JKUURrNjRKZGliR3ljS0JCMHFsaFc3ZWhOaGpGM0RRaVpnZUltb19rTTEzZWVpck1aaXhLN2tuS0VYOGlvaWxkbFJEa2RxY2RySlUwX2NkWnY0U0dVNHFBR1U3cWp5ZDl4dEJ2NEF4RGhDMUNncE5FWFJmTXl0M3BaN3dlV3VqVmk4djlTbWIyQzhBSVA5ZGhsOFljcGlrMnBvOVp4UGtZZVZUc09teWltRlV0VVFKZHVR?oc=5
+- Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC
+  Jio Platforms IPO: India's largest share sale could
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5
 
-- L&T Technology Services and Nokia Forge Engineering Collaboration - LTTS
-  L&amp;T Technology
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5nNkoyaWxlNmhVSGw1eTNlVjRHVm1YcUthWFJwRW5qX3dEZVhqWWJJcnpQMkJ4SzAwb2tLZGNvUi1ydU5RWkNqbmpYY3VRZ3EzdTNLWGJ0Z3hVOGZIVVdzQ2pfZ2lTb0NUOGpuUkwzY3lPUW93c2tWeUhHMVI?oc=5
+- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
+  Is India's Stock Market Heading For Its Worst
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
+
+- Chinese markets lose trillions as race for AI supremacy with US takes its toll - The Guardian
+  Chinese markets lose trillions as race for AI supremacy with US takes its
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzM2ekpCRDItOWdneU1qVVdIMlpNeVJLLWpUZDYtc2FPclJCM0JLTEVGc2JGS0NDbFpldXlaZlBFclJwTnFfSmFQUU0tLWRXaFI1NlFXRW1Bd1ZkbkwxdHQzcDJQOTIzOVFOZzFXLTNXVWI1T1pRd0hrQVRFdVplV3ZGb2xrYW84SXN2cUM1eWVXZEdPQVZN?oc=5
+
+- Indian AI companies showcase homegrown technologies at Dubai AI Festival 2026 - News On AIR
+  Indian AI companies showcase homegrown technologies at Dubai AI Festival 20
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnhpME50RVVLeHFiTGpyZGV2eld1OXBJaXRMa1g5UXFxaFJmalY1R0ctNHMtMXpESVBsWE5kZGJBRlRrUDkwcWQ3WXpsalI4djBjd3FxejQtUV9IeWtXODJOYlNSZ2w5TnVvMk02dHR0SlhKM0VISTBxR0kxa0pJNk5UZFdhYk5LcEphMEg3TFJVX0ZYRWFKMFpaaEJFR09JS3NiUmVn?oc=5
+
+- Elon Musk has a 'failure warning' for these technology companies; says: Investors have already started be - The Times of India
+  Elon Musk has a 'failure warning' for these technology companies. Investors have
+  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTkV1ekFrMnRLY2ZhSjVPUkdSVmNOZVBmTmh6V2lkQktVWVhMUDgyeFhXTXQ4WkpjTFVjdHJ4U2gycGlKRG1CZmpNWTVjUTBqdWloUExxMHp1UTVCRWU0UXhxODJacWF4aklfUzV0bVFxUV8zOGY2Q2JNTW9yNWpnR1BHWTB0dGw1Y0RibHVKenpHbTNnZDYzdmFRY01lWlBJNjU2SmdERU5yRkZkLU9KdHg3RVdmYWViTzAxaXcyR3lsWXlsbS1YS2h2dUVucHFwWTVKeVhiTkwtOTFBSzF5dHgyUXRMY0pfQTZRWmlLT214MlNTWHdmci00MWI3LUdlZjAzamtFYU1fVWZMRTJjdnlRTm5mNmN4M3RBNFZDdldXM29RWjlMQkZB0gGvAkFVX3lxTE9hbXVwNU96ZGtYUzdqc0xKOU41SUJ2WWxzMlVoRzVQMDNtTV8yUFE1a1pyOU04QWk4Zy1XZ3I2eE9yRTB4X2x3M3duT3FoVkR5WXlqUXZkbGhzbE95Q2VTVDFJc1NoZkNJTFpXUU1SeDRodGN0TnFWRURwOWZzb0t5b0lvZ2R6RWs5ejd5eUo1aGdoaWI0YlFFQ0F1OGJuVkp0ZHBwMGlkYl9KYzczeDVfa1NqTXlNX3JQRUxlNHZTOVI4bl83eHc1VmZEOXZraHVRVl90Z2xrU0dFSGhBX1ZRbnVaREFMMXp0QzctdC1ZY0c2eWY5cVprLWZnUXczRXNldEgwVS1iM0w2OHVjVEROS2xfTFVnbHZUQmRVcFFsQlVlYlpvVlZxcHJWSUd5VQ?oc=5
 
 - PM to inaugurate Emerging Science, Technology and Innovation Conclave 2026 on 27 October - PM India
   PM to inaugurate Emerging Science, Technology and Innovation Conclave
   🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTEVwT28zaHZUSjh2bk1KSjFiNGdXTU9oWVM3TkZ6dUp4VFpqYjdqRDF3aDA5ampUOGFQZDh3a0ljeUtJc0Q5b1c2MDdBaUdBa0wyUVAyWFVHMGZHR2JrT2dvdFFnc2JnUU1FVW5kVWVlcC00eVI2RExqZlFZdXdBZ3dtVjJybGxpdVd0cmFBMU5HNEtWX2llZ1cwMVNKem9FVnFKei1yQjZlbjNiRW9lSHdSUUN3YUhqLWlDYklrdmNXTTVuNDBCZHpFVlZrSGQ1NUFzSFdDRWlIRlc3YWdzRw?oc=5
 
-- LANXESS, Hindustan Colas collaborate to advance road construction technologies in India - The Hindu
-  LANXESS, Hindustan Colas collaborate
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcWpYd21DOXU2RjdraXJSNk9Yb2ZRZnROVmxtLURpM0ZwN0dzRTMyazNoQUppblp4UXpjaVlnLVNPWVUxaXNnRHRfMG9PVDZjZ2ZFNmhKYm9lOFNSbkI3NWw1VWd0U2l6YWVJQUFfNWJZVVA0QVhIYnJGSG9tYUJndHlYWjVxUjJtV241U21SZ2ZscHBqZ01rSkU3NDBEeGg3R1MtYkFqMWw2OGlxUE5WZDFXNXpNbnhjd3huRjFOZDZwZXBNM0RCaEtfeE5hemd5WUIxR2JYQdIB3gFBVV95cUxOT0U0UTRITE9qM3NZZHFSUU5PeldIcXhyOTFQUDVlNmNaNGxyR3d3ZlUxMWFxTjZ2ampObFprcGFIUnEzZHE1Z0JIcF91b0U2RHg2WFZyd3JCcUJQc3BSNm04SVRUc2piNVFaLXhKdjAyQlZCOVdFRFk3Z2MtTVdNVHRzbnYxbmpYOHZfNEdWcjJuVXlPN3pDVWpzSkNnMEM2ak83SXVIUTFMSWdRXzZlTmJmWml5SENmZWlGWDVqM2c4QVVrcWx1bXQySXg1eS1udUJFbnNCeW5rZWthNkE?oc=5
+- Rajnath Singh calls for ‘Aatmanirbharta 2.0’ in defence, stresses advanced technologies and resilient supply chains - The Hindu
+  Rajnath Singh calls for ‘Aatmanirb
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdTVyMTNHLTJwaUN2aUloeFAtQ1B1SmlGcVVKczZQX2lFaEItbEZyUllCaUNrS200UHItV2xnbWcweTUtell6Ql9uQmxWTVAtQVJYM3p5WTNFdHowaGJUamo3OHpEc2x6a0xlUFlnT2laS3Y0aVlNV01MUUFLQlRoa1FTbUpwUGdYTFNHbEZLVEtienFrTld6eVkzczJNXzU1N2o1Vjl5bFF5MkpERnZYSFBubWFjdGxzTmRvOFF3ZW4zdy1nOHhoZTVzV1BWUmlhSG84VmV4aWhfRTMzUFhWUWxDSWd6NWZYNlF4Q05BVUJBWUNkNVpNLWY4ZEd6bGfSAYYCQVVfeXFMTnRId1hxSHh2VFRaOUh1MzJ6Yy01WXhwcEY1ZnN2UWNpX1Bnbk5GRDdsRUlEWkxPTE44UFcxS3ZpS0ZQRGdRa3lOZDNGYkFXV0F2d2ctM2Zjd3lkUWk0YURTSGFMMEEzZ082TTBVSjF5bkYzcTRwa2tUWU9BU3lKTGNBY1JfZXM3LUpHNERDbEJOR0dfZ051ZmE1ekNXT2Z5U29TRzRvV3RCakRnVkN6TC1tWWFWb2FfbUx4MGJwa29QMzl6Tjh4S21Ca1Z1SFpmSzdFNHktV0dsQ05GS0oxbHcxb1ZuYXJpdTdkaVlxVzFkNGpvQXotYTRxdVk4ZFdIRDBwWERTdw?oc=5
 
-- Anthropic’s Claude AI model accessed Georgia voter data in US - The Guardian
-  Anthropic’s Claude AI model
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5
+- Maruti Suzuki Profit Misses Estimate as Costs Squeeze Margins
+  Maruti Suzuki India Ltd. reported lower-than-expected quarterly profit. Rising input costs and a higher share
+  🔗 https://www.livemint.com/companies/company-results/maruti-suzuki-profit-misses-estimate-as-costs-squeeze-margins-11793098437511.html
 
-- An Ohio city delayed a settlement over a proposed 2-million-square-foot technology hub; lawsuit and the p - The Times of India
-  An Ohio city delayed a settlement over a proposed 2-million-square-foot technology
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQcUJ0LW9rTklrRy1CLVhQcnBlelJEVGFKNmtGNjk1Q2hoUnhCWXAtTlg1alhUUDBJZXg4Qk9wVzBNcTdOTzNTX00yQUhZNTNfVEdsWl9sZk5VczBYWVB4RjQ3UFVuSXIwSE4zM2E4d3gzakQ0T3FYcXF3RFVsdERCeThVdko4ekRacXFRVjd0c2ZCWG0zb2lDakU5SDBXb3JRYUE5SkZhZi1KeHZ3S0lCSENjZGE2OFpkckdkSjE5d3pLVHY2eTdSRUM5YTdpZEFyUVNFbWVpUmdaeTFWZE5YUmRDWHFJMHB6a19teVdEVUpOSmVmcUM1ODlzalRRZEFfRzhOUnBmb3YtMFlGUlUzZUt2Tk9XQW50a1U1aTI4WHpBZ2ZyYWFONTdwd242WlcyYWfSAbcCQVVfeXFMUGV4WTkxUzU5Tl9MLTRhcHdrbG9IR2JpbXlVMTMwV1l6b3lGNEFlNTVyVVhhZWRDZ0k4cXdyVmxsZmx4azJNQUc5NS1QeTZ0djZSN2dqbHNNN1JmOXVON2lVRnFWU0xndE92ME5YaExDcEhvTVhFU0djeXFIR21pZmJMWGFNMmpCa0d0dmhYc1IxRDhEVHBITXJTNDhvcUUyM3hJYUNxdkpGd1FDbVBWUi1NNmJsODFIQ0FQOWphYUFWS3djY2JQcGZnR2s4Y0I4b2pndTRiaERpbzdPSXNQaTRBeWhrTklZSHVtVkdyRGppZnMxOHZzWDF3RUlyZUVJSm15WW5wcDJ5ZVZUT3JHR0lYMmZXc0NJMGtiZFVualZhRUZMSWFELUd1dkM0QVhUZUgydm9FM2M?oc=5
+- Cent raises $15 million to scale preventive health screening business
+  Cent plans to invest in research, AI radiology and screening technology. It will expand from three centres to 7–10 across Bengaluru, Mumbai and Gurugram by mid-2027.
+  🔗 https://www.livemint.com/companies/news/cent-startup-raises-15-million-series-a-blume-ventures-11793090537213.html
 
-- Mint explainer: what’s next for Tata Motors as it prepares to integrate Iveco?
-  Tata Motors has crossed the threshold to take control of Iveco. The next test is to settle the offer, refinance acquisition debt
-  🔗 https://www.livemint.com/companies/tata-motors-iveco-group-commercial-vehicles-acquisition-tender-offer-minority-shareholders-business-integration-11793064825363.html
+- Under scanner for Tiger Shroff shooting, Pune Police asks Google, Apple to remove Rapido app for operating illegally
+  Rapido could be removed from app stores in Pune as police crack down on its unlicensed bike taxi services. The company’
+  🔗 https://www.livemint.com/companies/news/under-scanner-for-tiger-shroff-shooting-pune-police-asks-google-apple-to-remove-rapido-app-for-operating-illegally-11793090870773.html
 
-- Meta Platform seeks to raise $95 billion through stock offering in largest ever funding round for AI expansion
-   Meta plans to raise up to $95 billion in its largest-ever equity fundraising to finance AI infrastructure, data centers and related opportunities. The company will seek $35 billion through public
-  🔗 https://www.livemint.com/companies/news/meta-platform-seeks-to-raise-95-billion-through-stock-offering-in-largest-ever-funding-round-for-ai-expansion-11793066342072.html
+- Tata Consumer’s distribution overhaul powers growth in more businesses, says CEO
+  A distribution overhaul has helped make growth businesses a key engine for Tata Consumer Products. The company is expanding AI tools across sales and tea production.
+  🔗 https://www.livemint.com/companies/news/tata-consumer-growth-businesses-tata-sampann-revenue-growth-sunil-dsouza-11793083887431.html
 
-- Microsoft to offer buyouts to 60,000 workers in latest cost cut
-  Microsoft Corp. will offer buyouts to about 60,000 workers. The move is part of the company
-  🔗 https://www.livemint.com/companies/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut-11793066021811.html
+- Diwali sweets: luxury mithai brands make a beeline for premium gifting market
+  Diwali is driving a push into high-end mithai, with boxes priced up to  ₹21,000. However, premium m
+  🔗 https://www.livemint.com/companies/news/luxury-mithai-sweets-brands-premium-diwali-gifting-11793007903400.html
 
-- Anthropic's Wall Street debut: How rich could its 7 co-founders get at a $1.5 trillion valuation?
-  Anthropic’s IPO filing offers a glimpse into the wealth and influence of its seven co-founders.
-  🔗 https://www.livemint.com/companies/people/anthropics-wall-street-debut-how-rich-will-ai-firms-ipo-will-make-its-7-co-founders-amid-1-5-trn-valuation-11793064160879.html
+- Already up 65% YTD! Motilal Oswal sees a further 36% upside in this power stock - Check target price
+   Fujiyama Power Systems, a rooftop solar solutions provider company, ended 1.38% higher at  ₹368
+  🔗 https://www.livemint.com/market/stock-market-news/already-up-65-ytd-motilal-oswal-sees-a-further-36-upside-in-this-power-stock-check-target-price-11793097602268.html
 
-- Microsoft buyout offer to employees: Who is eligible and what over 60,000 techies have been offered
-  Microsoft has offered voluntary exits to about 60,000 employees, or 27% of its global workforce. Eligible staff in four countries
-  🔗 https://www.livemint.com/companies/people/microsoft-buyout-offer-to-employees-who-is-eligible-and-what-more-60-000-techies-have-been-offered-11793062882761.html
+- Nifty FMCG down 22% in 2026; Diwali shopping opportunity for investors? Experts decode support levels and recovery bets
+  Nifty FMCG index has sharply underperformed Nifty 50, with 13 sector stocks posting negative annual returns. Rising commodity costs, changing consumer preferences and slower growth expectations are
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-fmcg-down-22-in-2026-diwali-shopping-opportunity-for-investors-experts-decode-support-levels-and-recovery-bets-11793095230786.html
 
-- Q2 results 2026 today, schedule: L&amp;T, Maruti Suzuki - 100 more firms to declare quarterly earnings; Oct 27 Tue list
-  Maruti Suzuki, Bajaj Auto, Tata Steel, Cipla, Tata Capital, Indus Towers, Mazagon Dock
-  🔗 https://www.livemint.com/market/stock-market-news/q2-results-2026-today-schedule-l-t-maruti-suzuki-tat-53-more-firms-to-declare-quarterly-earnings-oct-22-tue-lis-11793066756896.html
+- Amazon stock target raised by Morgan Stanley, UBS ahead of Q3 results; what are the key catalysts? Know here
+  Morgan Stanley and UBS raised their Amazon price targets ahead of Q3 results. They cited accelerating AWS growth, AI opportunities and improving efficiency.
+  🔗 https://www.livemint.com/market/stock-market-news/amazon-stock-target-raised-by-morgan-stanley-ubs-ahead-of-q3-results-what-are-the-key-catalysts-know-here-11793095491619.html
 
-- Indian shares seen lower as oil stays near six-month high, Fed in focus
-  The Nifty 50 and BSE Sensex rose 0.7% on Monday.
-  🔗 https://www.livemint.com/market/indian-shares-seen-lower-as-oil-stays-near-six-month-high-fed-in-focus-11793068880920.html
+- Up 580% in 5 years! Multibagger stock Acutaas Chemicals shares jump 13% today - here's why | Q2 results highlights
+  Acutaas Chemicals shares rose as much as 12% after September-quarter revenue increased 43% year on year and EBITDA climbed 86%. The company raised FY27 revenue
+  🔗 https://www.livemint.com/market/stock-market-news/up-580-in-5-years-multibagger-stock-acutaas-chemicals-shares-jump-13-today-heres-why-q2-results-highlights-11793096150787.html
 
-- Margin funding book sees highest liquidation in a day
-   Markets opened weak on Friday amid global macro headwinds. Brokers on clients whose share purchases they had funded
-  🔗 https://www.livemint.com/market/stock-market-news/broker-funding-book-sees-highest-liquidation-in-a-day-11793047831540.html
+- This Tata Group stock jumps 7% today after Q2 results - Is it a stock to buy now? Experts decode
+  Year-to-date, the stock is down 15% compared to a 14% fall in the Sensex. On a monthly scale, it
+  🔗 https://www.livemint.com/market/stock-market-news/this-tata-group-stock-jumps-7-today-after-q2-results-is-it-a-stock-to-buy-now-experts-decode-11793081896140.html
 
-- NCC: Seven factors that will shape its prospects over the next five years
-  NCC shares have fallen 42% in a year, but the company’s outlook will depend on its ability to execute a  ₹
-  🔗 https://www.livemint.com/market/stock-market-news/ncc-seven-factors-that-will-shape-its-prospects-over-the-next-five-years-11793020470405.html
+- DeepSeek AI model shows safety gaps in independent tests
+  DeepSeek AI model
+  🔗 https://www.livemint.com/technology/deepseek-ai-model-shows-safety-gaps-in-independent-tests-11793098287802.html
 
-- Top stocks to watch today:  L&amp;T, Maruti Suzuki, Paytm, REC shares in focus on Tuesday, 27 Oct | Full list
-  Larsen &amp;amp; Toubro, Maruti Suzuki, Pay
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-l-t-maruti-suzuki-paytm-rec-shares-in-focus-on-tuesday-27-oct-full-list-11793064919143.html
+- Agentic AI could strengthen financial-crime prevention, but governance, cost hurdles limit adoption: McKinsey
+  AI could reduce the time banks spend on know-your-customer (KYC) processes by 30 to 70 per cent. High human oversight costs and challenges related to governance and accuracy continue to hinder its wider adoption.
+  🔗 https://www.livemint.com/technology/agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey-11793086477778.html
+
+- Facing screen-breaking issues on iPhone Duo? Apple says ‘We are aware ’ — What users can do now
+  Users reported cracks along the fold within hours or days of use. Apple has advised affected customers to contact AppleCare for a replacement.
+  🔗 https://www.livemint.com/technology/tech-news/facing-screen-breaking-issues-on-iphone-duo-apple-says-we-are-aware-what-users-can-do-now-11793075199789.html
 
 - Free Fire India launch date 2026: Is Garena releasing the game soon? What we know
-  Garena’s Indian YouTube channels have been renamed. Creators have cited October 28, 2026, as a possible launch date. Garena has not
+  Garena has not confirmed a launch date for Free Fire India. There has been renewed speculation following changes to its Indian YouTube channels
   🔗 https://www.livemint.com/technology/free-fire-india-launch-date-2026-is-garena-releasing-the-game-soon-what-we-know-11793032750603.html
 
 - Apple’s new iPad mini costs  ₹82,900 in India; check features, specifications and sale date
   The latest iPad mini features an 8.5-inch screen, compared with the 8.3-inch display on its predecessor
   🔗 https://www.livemint.com/technology/apples-new-ipad-mini-costs-82-900-in-india-check-features-specifications-and-sale-date-11793034102577.html
 
-- Grand Theft Auto VI launch: How is the highly anticipated game moving calendars as fever grips workforce
-  Survey: About 35-36% of gamers would call in sick if they took a day off.
-  🔗 https://www.livemint.com/technology/grand-theft-auto-vi-launch-how-is-the-highly-anticipated-game-moving-calendars-as-fever-grips-workforce-11792988719986.html
-
-- Deepinder Goyal’s Temple brain wearable:  ₹85,000 price, pre-order date and features
-  Deepinder Goyal’s Temple brain-monitoring wearable is reportedly priced at  ₹85,000. The device tracks changes in cerebral blood flow
-  🔗 https://www.livemint.com/technology/tech-news/deepinder-goyal-s-temple-brain-wearable-rs-85-000-price-pre-order-date-and-features-11792924840816.html
-
-- Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta &amp; more pivot to AI
-  Tech companies are utilising job cuts to demonstrate a commitment to margin expansion. Tech companies are
-  🔗 https://www.livemint.com/technology/tech-news/tech-layoffs-2026-job-cuts-near-2-lakh-globally-as-big-tech-like-microsoft-google-oracle-meta-more-pivot-to-ai-11792917241824.html
+- Stock futures rise as earnings season continues: Live updates - CNBC
+  Stock futures rise as earnings season continues
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE01a2Ywbm5HbkhhaXZtYlM2S1pUVnJOZHphMFNEQUZTS2lQQURWbzdWTDRmYi1INFVtVExqNUV1S3JVblo2Q2hOalpnUW83Xzk4cGJrZnYyYzl0ZUxrT2s5eEoyX0VxVmwxZjVyalBzcXBKYXhaTGtB0gF8QVVfeXFMTTdtcmVVc3VlM04tY1dHN1c1SXRaRnFXM2c1SVpEaE14UW1ScTRRYWZsR1I1ZDNmM3RJNXhkcFV0eGU1dXItUDEwNWZHZlpZTE5pQWI1Rzd2UElyQ0J6N21CbHZ5WnRrZHFYWEl5aWZtUW9jZjhnY0pPbVpQZA?oc=5
 
 - Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap - Bloomberg.com
   Asian Stocks to Gain as Anthropic Files
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5
 
-- Sensex settles 500 pts higher, Nifty ends above 22,750: Key factors behind markets snapping 4-day fall - Moneycontrol.com
-  Sensex settles 500 pts higher, Nifty ends above 22,750
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxObWtEb2xmNG1MT1gtZGl5QmxBd0FnOUsyTG9KRC1fZGp4TVB2bXU5dy1DbXVFT0lpMHJsdjhJUG8xUGNOUTRCazQ0eGdNNm1aRmp5STQ5WVVfVk11QmlNaW5sRVFzMGFneGd0WFR1TV9SMzRYWlR6M2JxR3FPMmFXVjctVlRQS0Fkb0dLUGN0QzdHUlV3YjBJWUhLYnppS0xrY3ljU1pScG1ZYlhYOUQ4bGJCQXRkRDNMS0h6cExQOWRkWkJhbm5UMEt6clUxbjhNamRwNnBMUF9GZXlhc29ZOEhwN0ZFdEc0OHdNM21pOXcwQdIB9wFBVV95cUxPYm5CY2tLWFh0dHNHTDhZVU5ZUU9jTzZqUmZkMUxHX09CT1JXVW9yNDJralc1a0I3MkY5ajNSVlNlZEtOOVJhajV2SERSbDRveW5CZVRyaWl1QmxmMF9zR0M1a2hwUEtibHRnYzhrc2xreUpKNVJLbkdCdnBnelpMejYxeDFhVmc0czFLQXd2dmd1cFBHTmVES1VabGxha25OTnFIZ2RTUlU4b3BXWmxuVVZidVJpcEhxdU5VaHBGT0JYd2JUaUlKa2lJdl9TV29tTHQ0NWJJZUpZM2l6eUZIT1lVTGQxQ3d6SF9SMloxMUZTODFYR01v?oc=5
+- Closing Bell: Sensex, Nifty end flat on expiry day; pharma, realty shine, IT drags - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNU
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNUFQTEo3T09fbW02cHU1RVZkLXFic2swMkhkZWJ3bEJTRFlENGpoZFVvVlU4aVpreHkyRzdYV2dQOUZ6NjRwMElkV0x3TF9aSnJmdXljbmZ6UWEwaU5YMXJ6STBBS2o4SlBZMVpqNml3V2N0UklTVnpHTmpuNURNbFppWDByUkMxTmkxTkFLMzg4ZFhLWV9RUzFJdDhsNFlrRnFTX2VLX0NDX0FnamtpZkRRR0dtZmR1ZGVmMDhtUFM1NzDSAagCQVVfeXFMTmZtRlNsZUNmQ29nN0FTNWNWNDBGM0VHTHozcmJYZlRLMUZHSmJiX1VFVHdzZUt1akJmYkFhV2tubjIxcVdoYVhzOE9xaG9hQS1KRERXRHc0SXlNVkp3UmZKbldUbnVIa2hTVmdoUHhJN3JlT3pmeV9USUV5UU5zN3ROMlBTQzZyMW53Mmc2VnhuT1JOaUNwMzhpUXlQQUx6RVl6QkNYbkFjNlJiMERsWW53LXVvLWpSTVdObnltbTJKQ3o3MWpveGZJM1c3VlpqT3hDOGZaS2pyZXhXYTR4OEtBSE9xd28tOUVPWnZVNVp5Y1dJclRwNWg1bVB2SnBncEpPWFFYZTJxRjlEYUJRcF9QTG14WThnSnI1bTVZZXhkdkJiWTRIelo?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red, Asian Shares Trade Higher - NDTV
-  Stock Market LIVE Updates: Sensex Today: Markets Likely To Open In
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNYk9MUWRzSHRNR096cFBrUFRkS3RFYVVEODdvNFp5d0c4SDNCSmtIUXB4WF9fUTRKOXhGMXg5Mkg3RkJucGRKdFNmdUxhUU5pd3FkWEtnTm9GYW9DZ1BxaU5VYU14QjhHQ2xvMDRZRHd5SWJnNGJYaVE5RVdOaW4tVDVnRy1pQkVUb3ItWHAwb3ZmdFZUQWNCU2Z5a0l0dEpiYWQ3LV9Zb2syRE9MQ05DazdfdDlELWIzWmk1VFR3WWdBekh5R0pYbldybnlNT1nSAdcBQVVfeXFMTUpKZmdmTjVIYXdEUFVzTGFFYjRIUlktOWlrUEp6eXM0WThxVDJaY01OclA4VXkxUEhpOHJGZlRTYW1RYlkxSUVBdFdxcXlzZllYZ0MwX2pmZU16MC00b0RyNTFOX25NbEFuZkpYNlpxUlQteVNuUnpIVW02YmZSdklBTjZFRkZnVWRHX3RpOGp3Q2RxaXZZeHd1RTQxZFpubjYxM2paZTJ1QjBsNzZoYnNNSl9EckpTWXNqSFlVUEZDVXktblFTNVhVQ2hoUGN3RFpXLWRYWE0?oc=5
+- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
+  Is India's Stock Market Heading For Its Worst
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
 
-- GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty despite Asian, Wall Street rallies; Fed in... - Moneycontrol.com
-  Nifty falls 100 pts, signals weak start for Sensex, Nifty despite
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOcHN4S2xzaXBnT0dkaGFrcDRkSUNmS2l1LWRyc1dtVG82QkpTYWthV2xLMWVpTzduREtTNGt2Wm40NFpweHFzUzBvaDFuVDlJMUQ2c29wLU0wM0o3ZkVwam1pQXlOWWJLcndwZGcyWEEydmJ1WEVxMG5DMEFSMHpfMFVyOU1sb1JiWldReFVlaWpPUkVzV1FjS2U1MmpxRTlwNW1zby1aTDJlRG9hMVQ2UDktWXNqWHZkTUEyOThIR0hQX3psSUxxVHBma0JaMTZ0R1kyTl9qTG5nUWc1alY5cVV3SUFkaG53UlhKc3dyZ282YTlYLTl5d2t4eUsxWlRRd2fSAYcCQVVfeXFMT1ktR0x5N3owTlVQZURselhVajNSWWItdUl6RFBBS1cxSVdvQ2VRdk9LVTNpQW5KNzR4LWlPMkl0T0tjNDZFbm9xblhTOTNKVWQ3NE1haGFtMkhiVXFJa3Q4bUJGcVROTkxmcUg5N1BpazRzSGxiWXhPUFhrZlQ0OTQwVEphX3lEQ2V5NEVWZkt3eDM2ejBQVFVBOGpKSWNKemIzaEo4TjdYQzNwelNPckxWTXZqMHQtWEJZbEhLdUJNb1lKaHBSTFhXRXNlVlJlM2RwNG1aM2RwN1BhNnJUYzhfX0hLVWh6SEoxYTlMUHcwTi1mRUhWT1ZNX01aSTRxMzZCVUNQclU?oc=5
+- Delhi traders flag potential impact on 21 markets from November 1 Congress rally, seek postponement - The Hindu
+  Delhi traders flag potential impact on 21 markets from November 1 Congress rally
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa1hvbUhlWVZ2LUR6eWttWjlkQlo5c0xUdWlUUHBsRUFPYXlsMEJiOWZCSkM5STBBc0ZQakQ0cjU1ankzWW5xaUJNbk9RSVQ3bUp6ejZlNnhvbldQeExqZlVvcGVsQm5zX1hnWHRfVEdad1hCWXFIMFVNWmJnX2tJYUFQc1VadVNZYXJTM0J2ajJ0dkFkWEdVSlI3SWkwcV9JM3F3N1RYYnhJdzBnc0g0bXpRWHljUHJpaHMzUWdXaWdqMTYyYVFpYzk2cGxKNjNYdERGRU9yS05sNDhQZzFCTGVoN2c0bnBpZDFkeXdIckl5eGfSAfoBQVVfeXFMUGZ2cWRpc1RFM3R5ZENFUU4ycHZvdXJRdlZaV3JEenk1WDNmWlhiM0ZVNTM1OHBVZGJoMTNoS2Z2aWdzSXBDQ0RpZ1JvNlBYNU44Y2JrOWVVSVNQNjc0V3NGTFlnRy1iai1EZmRWdEo4d0U2ekpDWkZWN2hiSkdjMEJ5bmdlU1BmNV9GZEFtczROaGI4Z2FQbTNJeVgzaHdhdlpUcTlkSS1kQzI2NHNMd1JyTlNRdHJZVWpCdHNxeVFfc3lFRmZnRmwwbjM3LWRxbXZzdl96MEZaQTg0ZHh5aTkwaUpqUUVYd2xsS0o5d01GTkJhdG02VkVvdw?oc=5
 
-- Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint
-  Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVVnVFprN1pwVWtldGFwam9RN2lqcVZPdDRPb3R0Tk84UmlicnBGWHlqanhVZ3JRRTFPcTliOE8xTkg0SkVqRFplanRfTHdDUXdpa3o3NGt3TmRIRHZ2NzZlU20zWHpTY1gtdGVuU1JEeXNvSU91M2QxUTJNMXNUVTczZWdKN0ZkSDBvUG9nOUE0X01GV3FjYU1ocDJuS1FzVW5lZ29DTG5wWEZPUS0yTWJyZGt4UVBLckowTTdtMXd5OGZFN2YwMGotelU3X0ZFRXNkalpydUtzN3lMamN2eWxoN2JYelhLY0V5dG1GeWppeFRNWjVzaTlMUlFsOGNqY1HSAYcCQVVfeXFMTnQ1TGxaT2xKNGpmMUw4dVpEeV84S19hclJFOGpRT1Q5V3BFSXFYZXR5YWZjYTdZSndVbFFZRUdSVldRekxQcVIwV3MyN1pxb24wTnFPZXQ1UmltTF8xSm9NeVhuc3JfTXZQeEpCVy1GbUNRbWI3M2NHTkhqYk03bXVLOGpVZ3g1Y3pMeE9oUkREWEhlZzNVZ3pNOVNlcGtfeG85UUk5M3A2SEVpR0Y1VWdlX2hreTlRV1p6VnVXSjNMUnZWYVhmSnh6T20tdDNKbUUyaHNhWS1tQVU2YXpBOGlTN3Y1QkVhRVQzWFJ4VU0tUHdfaWI5ekE1UnBZU09HdEs0bW1CTFE?oc=5
+- WeWork India H1 net profit rises 150%, revenue up 30.1%
+  WeWork India reported a 149.5% year-on-year rise in first-half FY27 net profit to Rs 119 crore. Capacity expansion, membership growth and improved operating margins supported performance.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/wework-india-h1-net-profit-rises-150-revenue-up-30-1/articleshow/135232036.cms
 
-- MTAR Technologies among 4 stocks closing above VWAP
-  Four Nifty500 stocks closed more than 2.5% above their respective volume-weighted average prices (VWAPs) on October 26
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mtar-technologies-among-4-stocks-closing-above-vwap/slideshow/135223257.cms
+- 10 microcap stocks rally up to 80% in just 3 months
+  40 Nifty Microcap 250 stocks posted double-digit gains. PC Jeweller led the top 10 outperformers, with its share price surging 78%.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-microcap-stocks-rally-up-to-80-in-just-3-months/slideshow/135232021.cms
 
-- JSW Steel among 5 stocks showing the White Marubozu pattern
-  Five Nifty500 stocks that gained over 4% on October 26 featured in StockEdge’s White Marubozu bullish scanner. The candlestick pattern
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jsw-steel-among-5-stocks-showing-the-white-marubozu-pattern/slideshow/135223206.cms
+- Global Market: European shares fall as HSBC earnings drag banking stocks
+  HSBC's disappointing revenue weighed on banking stocks, while political unrest in France dampened investor sentiment. The STOXX 600 slipped, with gains in healthcare
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-fall-as-hsbc-earnings-drag-banking-stocks/articleshow/135231785.cms
 
-- Ather Energy among 5 stocks showing RSI trending up
-  Five Nifty500 stocks that gained over 5% on October 26 featured in the RSI Trending Up scan on StockEdge. The scan identifies stocks whose Relative Strength
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-among-5-stocks-showing-rsi-trending-up/slideshow/135223123.cms
+- Rupee boxed in range; traders focus on oil, outflows and RBI's defence
+  The Indian rupee had a day of modest variability against the dollar on Tuesday. Major external challenges, including escalating oil prices and considerable equity outflows, are to blame.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-boxed-in-range-traders-focus-on-oil-outflows-and-rbis-defence/articleshow/135231121.cms
 
-- HDFC Bank Share Price Live Updates: HDFC Bank's Weekly Returns Dip
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-ltd-stock-price-today-live-27-oct-2026/liveblog/135222980.cms
-
-- SFC Environmental Technologies IPO opens today: GMP at 9%; check price band, lot size and key details
-  The Rs 667.53-crore public issue is a combination of a fresh issue of 45.45 lakh shares aggregating to Rs 150 crore and an offer for sale (OFS) of 1.57 crore shares worth Rs
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sfc-environmental-technologies-ipo-opens-today-gmp-at-9-check-price-band-lot-size-and-key-details/articleshow/135222860.cms
-
-- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
+- Maruti Suzuki Q2 Results: Profit falls 26% YoY to Rs 2,466 crore, but revenue rises 26%
+  In the July-September quarter, Maruti Suzuki India experienced a notable 26% decrease in net profit compared to last year. Still, revenue shot up by 26% year-on-year, totaling Rs 53,356 crore. Rising
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/maruti-suzuki-q2-results-profit-falls-26-yoy-to-rs-2466-crore-but-revenue-rises-26/articleshow/135230515.cms
 
 - Indian publishers contest Modi government’s privacy law - The Hindu
   Indian publishers contest Modi government�
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
 
-- ‘New privacy law violates freedom of speech, threatens journalistic activity’: Digital news body may move - The Times of India
-  The Times of India is a digital news body based in New Delhi, India.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDd0d203RVRzVFFJcW1uekZwUVVnZjlfN2dDWGNCUU9xa1BYdlpZTkkyY3Mzb044VFR3TDdKVTdna1Fxa1JQVWh1a19pb0JfR3ZHRGUyQzNPZzFRZW16S1o3ZnIyaVo5NzlGZG9XSElOQVZJS1ZjQlQ2eDd3VWUwZ3dLclZkLVJkRUtvNS1fYkZCaldtdEluUHF4SkZ3dC01YzdHRnhIZ0tIWHN1UWxtdGN2dXhIZzVJVU1lMzlobndZang2dXpTWFdtaWpQQ1A0cVhlM2xfZ1dSbzJHRlFYMWtUOVkwRm5SQ3VER2lCMk5RUVEyU19hU2RRd21fQmRtdkHSAYcCQVVfeXFMTnFlYTNrc3p5N2dRWTZrYUJtT21Rb19FWjI4T3ItWEI1elZhY0xyV0MtT1plLWJmV3VOWGRFZ2o0bXFKeW55YndZa2xjM2xIY2VJUm9EX2hySVdfenM1TnJlMjB5VXZmU3pmSFZTeHAzS1NTYW9hRjRrdk1lbTVtMF9la3h3Rjh0dzN6V3BQMFpvUFpmQWpWWWViRm5GeEVtRUZUU0ltOG9nbjF6VF83SkhaSDUxWnhzamdWWlVTS1AyT01vRXM4UU8xaDlYY2JnRERvUmlfcTdVMFc5WHJQczdrOTFqTHpJdkVxTUVfc1pGOW5aeXJFeHFsVlNmUTVNRUdfZFRabkE?oc=5
+- Media groups challenge India’s privacy law at top court - Al Jazeera
+  Media groups challenge India’s privacy
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
 
-- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
-  India news: Rahul Gandhi urges protest against voter deletions
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
+- India News Publishers Challenge Data Law Over Press Freedom - Bloomberg.com
+  India News Publishers Challenge Data Law Over
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2o4YW9mNzduVFNGN1BVX0E4N2ZkQ1ZEM0JNUVd4TzlZdlVqQ3g0cGRDYTZVOF9UUzJZOTNyeWprTEFldjNaRjJkeWhEb1dVRjVFVGNSOEI1dktDUDllVVhXMEdxeUduSlNabXBlT0Joc1Z4ZG1nTDgwYTVGTTB2NkJOcEszejVpeWdqajRGVHFMT2w2Q1BuVnhFaTJ5Mmp2VHNrc3NVb0dpWWlUei1j?oc=5
 
-- Rahul Gandhi Tells Traders How To End Ramlila Maidan Protest In '30 Seconds' - NDTV
-  Rahul Gandhi Tells Traders How To End Ram
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnI2Z3RNVmRSLUlETmVTeGFZOVdIZW0tWU83NHY4Tkh3Z2hRU2ExNWJJdTdORU93QVRnN1pnZXhIaEZHY0dLeVRseHl6bUZrU1BqZXF4Z0pIZWlILWZFcFJFVzVQUURVb3ZjaTRzQzNuQ2puS21ENlNKMmJFNVFvOWVTeDl2eXBsbXZBNDU2bHhPYThzbG5KaVRrS050M2tQUkxIZDRScWJvUTNoNUZ3dENPUDUtZ9IBvgFBVV95cUxQb0huX3JKUURrNjRKZGliR3ljS0JCMHFsaFc3ZWhOaGpGM0RRaVpnZUltb19rTTEzZWVpck1aaXhLN2tuS0VYOGlvaWxkbFJEa2RxY2RySlUwX2NkWnY0U0dVNHFBR1U3cWp5ZDl4dEJ2NEF4RGhDMUNncE5FWFJmTXl0M3BaN3dlV3VqVmk4djlTbWIyQzhBSVA5ZGhsOFljcGlrMnBvOVp4UGtZZVZUc09teWltRlV0VVFKZHVR?oc=5
+- Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC
+  Jio Platforms IPO: India's largest share sale could
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5
 
-- Ather Turns Profitable, Paytm Q2 PAT Rockets & More
-  Electric two-wheeler maker Ather Energy turned its maiden profit in Q2 FY27.
-  🔗 https://inc42.com/buzz/ather-turns-profitable-paytm-q2-pat-rockets-more/
+- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
+  Is India's Stock Market Heading For Its Worst
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
 
-- Protectt.ai To Acquire Controlling Stake In Bosch’s AIShield
-  AI-native cybersecurity startup Protectt.ai plans to acquire a controlling stake in AIShield, an AI security platform incubated within Bos
-  🔗 https://inc42.com/buzz/protectt-ai-to-acquire-controlling-stake-in-boschs-aishield/
+- Luxury Watch Brand Rotoris Raises $8.5 Mn To Grow Retail Footprint
+  Luxury watch brand Rotoris has raised $8.5 Mn in a Series A funding round led by Blume Ventures.
+  🔗 https://inc42.com/buzz/luxury-watch-brand-rotoris-raises-8-5-mn-to-grow-retail-footprint/
 
-- News Publishers Move SC To Challenge The DPDP Act
-  A group of 21 news publishers has reportedly challenged India’s Digital Personal Data Protection Act in the Supreme Court.
-  🔗 https://inc42.com/buzz/news-publishers-move-sc-to-challenge-the-dpdp-act/
+- Cent Raises $15 Mn To Scale AI-Led Preventive Healthcare Platform
+  Healthtech startup Cent, launched by Practo cofounder Shashank ND earlier this year, announced the raise of $15 Mn.
+  🔗 https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/
 
-- BioStack Nets $9.5 Mn To Build Training Datasets For Medical AI
-  AI-powered healthtech platform BioStack has raised $9.5 Mn (₹90.4 Cr) in its seed funding
-  🔗 https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/
+- Ministry Of Defence Partners With Sarvam To Drive AI Adoption For Armed Forces
+  Sarvam has signed a memorandum of understanding (MoU) with the Ministry of Defence (MoD) to advance AI adoption across Indian.
+  🔗 https://inc42.com/buzz/ministry-of-defence-partners-with-sarvam-to-drive-ai-adoption-for-armed-forces/
 
-- Matiks Bags $10 Mn To Take Its Puzzle Gaming Platform Global
-  Social gaming platform Matiks has raised $10 Mn (₹95.1 Cr) in its Pre-Series A funding round.
-  🔗 https://inc42.com/buzz/matiks-bags-10-mn-to-take-its-puzzle-gaming-platform-global/
+- Baillie Gifford Funds Slash Value Of Holdings In Dailyhunt Parent VerSe By Up To 80%
+  Baillie Gifford Funds Slash Value Of Holdings In Dailyhunt Parent VerSe By Up To 80%.
+  🔗 https://inc42.com/buzz/baillie-gifford-funds-slash-value-of-holdings-in-dailyhunt-parent-verse-by-up-to-80/
 
-- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
-
-- Indian publishers contest Modi government’s privacy law - The Hindu
-  Indian publishers contest Modi government�
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
-
-- ‘New privacy law violates freedom of speech, threatens journalistic activity’: Digital news body may move - The Times of India
-  The Times of India is a digital news body based in New Delhi, India.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDd0d203RVRzVFFJcW1uekZwUVVnZjlfN2dDWGNCUU9xa1BYdlpZTkkyY3Mzb044VFR3TDdKVTdna1Fxa1JQVWh1a19pb0JfR3ZHRGUyQzNPZzFRZW16S1o3ZnIyaVo5NzlGZG9XSElOQVZJS1ZjQlQ2eDd3VWUwZ3dLclZkLVJkRUtvNS1fYkZCaldtdEluUHF4SkZ3dC01YzdHRnhIZ0tIWHN1UWxtdGN2dXhIZzVJVU1lMzlobndZang2dXpTWFdtaWpQQ1A0cVhlM2xfZ1dSbzJHRlFYMWtUOVkwRm5SQ3VER2lCMk5RUVEyU19hU2RRd21fQmRtdkHSAYcCQVVfeXFMTnFlYTNrc3p5N2dRWTZrYUJtT21Rb19FWjI4T3ItWEI1elZhY0xyV0MtT1plLWJmV3VOWGRFZ2o0bXFKeW55YndZa2xjM2xIY2VJUm9EX2hySVdfenM1TnJlMjB5VXZmU3pmSFZTeHAzS1NTYW9hRjRrdk1lbTVtMF9la3h3Rjh0dzN6V3BQMFpvUFpmQWpWWWViRm5GeEVtRUZUU0ltOG9nbjF6VF83SkhaSDUxWnhzamdWWlVTS1AyT01vRXM4UU8xaDlYY2JnRERvUmlfcTdVMFc5WHJQczdrOTFqTHpJdkVxTUVfc1pGOW5aeXJFeHFsVlNmUTVNRUdfZFRabkE?oc=5
-
-- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
-  India news: Rahul Gandhi urges protest against voter deletions
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
-
-- Rahul Gandhi Tells Traders How To End Ramlila Maidan Protest In '30 Seconds' - NDTV
-  Rahul Gandhi Tells Traders How To End Ram
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnI2Z3RNVmRSLUlETmVTeGFZOVdIZW0tWU83NHY4Tkh3Z2hRU2ExNWJJdTdORU93QVRnN1pnZXhIaEZHY0dLeVRseHl6bUZrU1BqZXF4Z0pIZWlILWZFcFJFVzVQUURVb3ZjaTRzQzNuQ2puS21ENlNKMmJFNVFvOWVTeDl2eXBsbXZBNDU2bHhPYThzbG5KaVRrS050M2tQUkxIZDRScWJvUTNoNUZ3dENPUDUtZ9IBvgFBVV95cUxQb0huX3JKUURrNjRKZGliR3ljS0JCMHFsaFc3ZWhOaGpGM0RRaVpnZUltb19rTTEzZWVpck1aaXhLN2tuS0VYOGlvaWxkbFJEa2RxY2RySlUwX2NkWnY0U0dVNHFBR1U3cWp5ZDl4dEJ2NEF4RGhDMUNncE5FWFJmTXl0M3BaN3dlV3VqVmk4djlTbWIyQzhBSVA5ZGhsOFljcGlrMnBvOVp4UGtZZVZUc09teWltRlV0VVFKZHVR?oc=5
-
-- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
+- Ather Energy Shares Jump 8% After HSBC, Nomura Raise Price Targets
+  Shares of Ather Energy jumped as much as 8.1% to an intraday high of ₹1,702 on the B
+  🔗 https://inc42.com/buzz/ather-energy-shares-jump-8-after-hsbc-nomura-raise-price-targets/
 
 - Indian publishers contest Modi government’s privacy law - The Hindu
   Indian publishers contest Modi government�
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
 
-- ‘New privacy law violates freedom of speech, threatens journalistic activity’: Digital news body may move - The Times of India
-  The Times of India is a digital news body based in New Delhi, India.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDd0d203RVRzVFFJcW1uekZwUVVnZjlfN2dDWGNCUU9xa1BYdlpZTkkyY3Mzb044VFR3TDdKVTdna1Fxa1JQVWh1a19pb0JfR3ZHRGUyQzNPZzFRZW16S1o3ZnIyaVo5NzlGZG9XSElOQVZJS1ZjQlQ2eDd3VWUwZ3dLclZkLVJkRUtvNS1fYkZCaldtdEluUHF4SkZ3dC01YzdHRnhIZ0tIWHN1UWxtdGN2dXhIZzVJVU1lMzlobndZang2dXpTWFdtaWpQQ1A0cVhlM2xfZ1dSbzJHRlFYMWtUOVkwRm5SQ3VER2lCMk5RUVEyU19hU2RRd21fQmRtdkHSAYcCQVVfeXFMTnFlYTNrc3p5N2dRWTZrYUJtT21Rb19FWjI4T3ItWEI1elZhY0xyV0MtT1plLWJmV3VOWGRFZ2o0bXFKeW55YndZa2xjM2xIY2VJUm9EX2hySVdfenM1TnJlMjB5VXZmU3pmSFZTeHAzS1NTYW9hRjRrdk1lbTVtMF9la3h3Rjh0dzN6V3BQMFpvUFpmQWpWWWViRm5GeEVtRUZUU0ltOG9nbjF6VF83SkhaSDUxWnhzamdWWlVTS1AyT01vRXM4UU8xaDlYY2JnRERvUmlfcTdVMFc5WHJQczdrOTFqTHpJdkVxTUVfc1pGOW5aeXJFeHFsVlNmUTVNRUdfZFRabkE?oc=5
+- Media groups challenge India’s privacy law at top court - Al Jazeera
+  Media groups challenge India’s privacy
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
 
-- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
-  India news: Rahul Gandhi urges protest against voter deletions
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
+- India News Publishers Challenge Data Law Over Press Freedom - Bloomberg.com
+  India News Publishers Challenge Data Law Over
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2o4YW9mNzduVFNGN1BVX0E4N2ZkQ1ZEM0JNUVd4TzlZdlVqQ3g0cGRDYTZVOF9UUzJZOTNyeWprTEFldjNaRjJkeWhEb1dVRjVFVGNSOEI1dktDUDllVVhXMEdxeUduSlNabXBlT0Joc1Z4ZG1nTDgwYTVGTTB2NkJOcEszejVpeWdqajRGVHFMT2w2Q1BuVnhFaTJ5Mmp2VHNrc3NVb0dpWWlUei1j?oc=5
 
-- Rahul Gandhi Tells Traders How To End Ramlila Maidan Protest In '30 Seconds' - NDTV
-  Rahul Gandhi Tells Traders How To End Ram
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnI2Z3RNVmRSLUlETmVTeGFZOVdIZW0tWU83NHY4Tkh3Z2hRU2ExNWJJdTdORU93QVRnN1pnZXhIaEZHY0dLeVRseHl6bUZrU1BqZXF4Z0pIZWlILWZFcFJFVzVQUURVb3ZjaTRzQzNuQ2puS21ENlNKMmJFNVFvOWVTeDl2eXBsbXZBNDU2bHhPYThzbG5KaVRrS050M2tQUkxIZDRScWJvUTNoNUZ3dENPUDUtZ9IBvgFBVV95cUxQb0huX3JKUURrNjRKZGliR3ljS0JCMHFsaFc3ZWhOaGpGM0RRaVpnZUltb19rTTEzZWVpck1aaXhLN2tuS0VYOGlvaWxkbFJEa2RxY2RySlUwX2NkWnY0U0dVNHFBR1U3cWp5ZDl4dEJ2NEF4RGhDMUNncE5FWFJmTXl0M3BaN3dlV3VqVmk4djlTbWIyQzhBSVA5ZGhsOFljcGlrMnBvOVp4UGtZZVZUc09teWltRlV0VVFKZHVR?oc=5
+- Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC
+  Jio Platforms IPO: India's largest share sale could
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5
 
-- EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5
+- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
+  Is India's Stock Market Heading For Its Worst
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
 
 - Indian publishers contest Modi government’s privacy law - The Hindu
   Indian publishers contest Modi government�
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5
 
-- ‘New privacy law violates freedom of speech, threatens journalistic activity’: Digital news body may move - The Times of India
-  The Times of India is a digital news body based in New Delhi, India.
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQaDd0d203RVRzVFFJcW1uekZwUVVnZjlfN2dDWGNCUU9xa1BYdlpZTkkyY3Mzb044VFR3TDdKVTdna1Fxa1JQVWh1a19pb0JfR3ZHRGUyQzNPZzFRZW16S1o3ZnIyaVo5NzlGZG9XSElOQVZJS1ZjQlQ2eDd3VWUwZ3dLclZkLVJkRUtvNS1fYkZCaldtdEluUHF4SkZ3dC01YzdHRnhIZ0tIWHN1UWxtdGN2dXhIZzVJVU1lMzlobndZang2dXpTWFdtaWpQQ1A0cVhlM2xfZ1dSbzJHRlFYMWtUOVkwRm5SQ3VER2lCMk5RUVEyU19hU2RRd21fQmRtdkHSAYcCQVVfeXFMTnFlYTNrc3p5N2dRWTZrYUJtT21Rb19FWjI4T3ItWEI1elZhY0xyV0MtT1plLWJmV3VOWGRFZ2o0bXFKeW55YndZa2xjM2xIY2VJUm9EX2hySVdfenM1TnJlMjB5VXZmU3pmSFZTeHAzS1NTYW9hRjRrdk1lbTVtMF9la3h3Rjh0dzN6V3BQMFpvUFpmQWpWWWViRm5GeEVtRUZUU0ltOG9nbjF6VF83SkhaSDUxWnhzamdWWlVTS1AyT01vRXM4UU8xaDlYY2JnRERvUmlfcTdVMFc5WHJQczdrOTFqTHpJdkVxTUVfc1pGOW5aeXJFeHFsVlNmUTVNRUdfZFRabkE?oc=5
+- Media groups challenge India’s privacy law at top court - Al Jazeera
+  Media groups challenge India’s privacy
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
 
-- India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally - DW.com
-  India news: Rahul Gandhi urges protest against voter deletions
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb04zaDI3MV9BakwzNGFTVFY5N2RJcGlVaDc0V2IyREtxdmpwOGs4T0VDUjh5REpuZ2tQYjg3bzhId3FIY1J2QmUwMVY4V0RQYzBhYWRmVm5NNFBnb3Z2NGl0MGhROVBBOHVVbl90aDVrN1lPWjdlY0NwRU1EZlVSWHA5ZGVZVW5kSER2TTF4amN0S1VKUWEwTk9zSTJPNUI4R0xDdFprOFVMQnc2Zm5iNHpvUnFncGMxeGRvNzVHa1UwQQ?oc=5
+- India News Publishers Challenge Data Law Over Press Freedom - Bloomberg.com
+  India News Publishers Challenge Data Law Over
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2o4YW9mNzduVFNGN1BVX0E4N2ZkQ1ZEM0JNUVd4TzlZdlVqQ3g0cGRDYTZVOF9UUzJZOTNyeWprTEFldjNaRjJkeWhEb1dVRjVFVGNSOEI1dktDUDllVVhXMEdxeUduSlNabXBlT0Joc1Z4ZG1nTDgwYTVGTTB2NkJOcEszejVpeWdqajRGVHFMT2w2Q1BuVnhFaTJ5Mmp2VHNrc3NVb0dpWWlUei1j?oc=5
 
-- Rahul Gandhi Tells Traders How To End Ramlila Maidan Protest In '30 Seconds' - NDTV
-  Rahul Gandhi Tells Traders How To End Ram
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnI2Z3RNVmRSLUlETmVTeGFZOVdIZW0tWU83NHY4Tkh3Z2hRU2ExNWJJdTdORU93QVRnN1pnZXhIaEZHY0dLeVRseHl6bUZrU1BqZXF4Z0pIZWlILWZFcFJFVzVQUURVb3ZjaTRzQzNuQ2puS21ENlNKMmJFNVFvOWVTeDl2eXBsbXZBNDU2bHhPYThzbG5KaVRrS050M2tQUkxIZDRScWJvUTNoNUZ3dENPUDUtZ9IBvgFBVV95cUxQb0huX3JKUURrNjRKZGliR3ljS0JCMHFsaFc3ZWhOaGpGM0RRaVpnZUltb19rTTEzZWVpck1aaXhLN2tuS0VYOGlvaWxkbFJEa2RxY2RySlUwX2NkWnY0U0dVNHFBR1U3cWp5ZDl4dEJ2NEF4RGhDMUNncE5FWFJmTXl0M3BaN3dlV3VqVmk4djlTbWIyQzhBSVA5ZGhsOFljcGlrMnBvOVp4UGtZZVZUc09teWltRlV0VVFKZHVR?oc=5
+- Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions - BBC
+  Jio Platforms IPO: India's largest share sale could
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSlY2YVBSMnZYQWZGOXpKQklJUUNkYnZPOXpaODVadFJyellvcmpWVC1jZV9qeFF5NE1LWUZDT3oyaThrXzUwU2daMDduN2RIbDVmMFdBcXpBekU?oc=5
 
-- L&T Technology Services and Nokia Forge Engineering Collaboration - LTTS
-  L&amp;T Technology
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5nNkoyaWxlNmhVSGw1eTNlVjRHVm1YcUthWFJwRW5qX3dEZVhqWWJJcnpQMkJ4SzAwb2tLZGNvUi1ydU5RWkNqbmpYY3VRZ3EzdTNLWGJ0Z3hVOGZIVVdzQ2pfZ2lTb0NUOGpuUkwzY3lPUW93c2tWeUhHMVI?oc=5
+- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
+  Is India's Stock Market Heading For Its Worst
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
 
-- PM to inaugurate Emerging Science, Technology and Innovation Conclave 2026 on 27 October - PM India
-  PM to inaugurate Emerging Science, Technology and Innovation Conclave
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTEVwT28zaHZUSjh2bk1KSjFiNGdXTU9oWVM3TkZ6dUp4VFpqYjdqRDF3aDA5ampUOGFQZDh3a0ljeUtJc0Q5b1c2MDdBaUdBa0wyUVAyWFVHMGZHR2JrT2dvdFFnc2JnUU1FVW5kVWVlcC00eVI2RExqZlFZdXdBZ3dtVjJybGxpdVd0cmFBMU5HNEtWX2llZ1cwMVNKem9FVnFKei1yQjZlbjNiRW9lSHdSUUN3YUhqLWlDYklrdmNXTTVuNDBCZHpFVlZrSGQ1NUFzSFdDRWlIRlc3YWdzRw?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- LANXESS, Hindustan Colas collaborate to advance road construction technologies in India - The Hindu
-  LANXESS, Hindustan Colas collaborate
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcWpYd21DOXU2RjdraXJSNk9Yb2ZRZnROVmxtLURpM0ZwN0dzRTMyazNoQUppblp4UXpjaVlnLVNPWVUxaXNnRHRfMG9PVDZjZ2ZFNmhKYm9lOFNSbkI3NWw1VWd0U2l6YWVJQUFfNWJZVVA0QVhIYnJGSG9tYUJndHlYWjVxUjJtV241U21SZ2ZscHBqZ01rSkU3NDBEeGg3R1MtYkFqMWw2OGlxUE5WZDFXNXpNbnhjd3huRjFOZDZwZXBNM0RCaEtfeE5hemd5WUIxR2JYQdIB3gFBVV95cUxOT0U0UTRITE9qM3NZZHFSUU5PeldIcXhyOTFQUDVlNmNaNGxyR3d3ZlUxMWFxTjZ2ampObFprcGFIUnEzZHE1Z0JIcF91b0U2RHg2WFZyd3JCcUJQc3BSNm04SVRUc2piNVFaLXhKdjAyQlZCOVdFRFk3Z2MtTVdNVHRzbnYxbmpYOHZfNEdWcjJuVXlPN3pDVWpzSkNnMEM2ak83SXVIUTFMSWdRXzZlTmJmWml5SENmZWlGWDVqM2c4QVVrcWx1bXQySXg1eS1udUJFbnNCeW5rZWthNkE?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Anthropic’s Claude AI model accessed Georgia voter data in US - The Guardian
-  Anthropic’s Claude AI model
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- An Ohio city delayed a settlement over a proposed 2-million-square-foot technology hub; lawsuit and the p - The Times of India
-  An Ohio city delayed a settlement over a proposed 2-million-square-foot technology
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQcUJ0LW9rTklrRy1CLVhQcnBlelJEVGFKNmtGNjk1Q2hoUnhCWXAtTlg1alhUUDBJZXg4Qk9wVzBNcTdOTzNTX00yQUhZNTNfVEdsWl9sZk5VczBYWVB4RjQ3UFVuSXIwSE4zM2E4d3gzakQ0T3FYcXF3RFVsdERCeThVdko4ekRacXFRVjd0c2ZCWG0zb2lDakU5SDBXb3JRYUE5SkZhZi1KeHZ3S0lCSENjZGE2OFpkckdkSjE5d3pLVHY2eTdSRUM5YTdpZEFyUVNFbWVpUmdaeTFWZE5YUmRDWHFJMHB6a19teVdEVUpOSmVmcUM1ODlzalRRZEFfRzhOUnBmb3YtMFlGUlUzZUt2Tk9XQW50a1U1aTI4WHpBZ2ZyYWFONTdwd242WlcyYWfSAbcCQVVfeXFMUGV4WTkxUzU5Tl9MLTRhcHdrbG9IR2JpbXlVMTMwV1l6b3lGNEFlNTVyVVhhZWRDZ0k4cXdyVmxsZmx4azJNQUc5NS1QeTZ0djZSN2dqbHNNN1JmOXVON2lVRnFWU0xndE92ME5YaExDcEhvTVhFU0djeXFIR21pZmJMWGFNMmpCa0d0dmhYc1IxRDhEVHBITXJTNDhvcUUyM3hJYUNxdkpGd1FDbVBWUi1NNmJsODFIQ0FQOWphYUFWS3djY2JQcGZnR2s4Y0I4b2pndTRiaERpbzdPSXNQaTRBeWhrTklZSHVtVkdyRGppZnMxOHZzWDF3RUlyZUVJSm15WW5wcDJ5ZVZUT3JHR0lYMmZXc0NJMGtiZFVualZhRUZMSWFELUd1dkM0QVhUZUgydm9FM2M?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-27 03:24:34 UTC_
+_Last updated: 2026-10-27 11:29:47 UTC_
