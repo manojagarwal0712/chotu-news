@@ -1,164 +1,176 @@
 # 📰 Daily News Summaries
 
-- Israel elections: Understanding how Knesset polls work vs India’s system - The Hindu
-  The Hindu is a leading newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm9saW9JNTJ3VnNwcDJ2UEViVnNHVFB2Q2RqNkVTYndOU0tzbU1KeFBlVGIyQXo4RW9rREpXbmNaTm4xTUNsREl6dWF5OUhlZHFZd1JNTXRBcFE5dVZQcERsZExRNTVxMWZINkhsRjdBRzVfRzA0cC1uNkROcl9mZnRZYkFEbHhLM0QxV3hwUGdTSC1uRGQ5TG10MzgtNFI3cGNHMG5ibUlFQVc3NEtleG5rRlN2ZkxVbXluS25TZUNiaUFIcVBfa1NB0gHQAUFVX3lxTE0yT0twcGlkQU8xMGFQbS1jV051SGluVG1YQ003RmJkTzJLRVN3cGZQcXJFLThQSUJhVjYyQ00ya0FIdXZITFU4QmJsWXJOczJ4MUluVjEzRG9ZV19BS09JN3ZXRlpDR2Nza0ZJVDQ0bWl5M3lLOGJBTHpMZk41VkhUb3N0c0ZDeWdtdllnRkJqTVQ0eURPeDdCdnhDRG1WaU1vTmxMeW1iQ2JPUk1GTmZwZkV3ZUwta181bUpHVkpsMHJrektSS3ZmUnpuMmw0dlg?oc=5
+- MEA highlights stronger linkages between Japan and northeast India - The Hindu
+  MEA highlights stronger linkages between Japan
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWE5bTdjQ2xOQURSYmdHdng2c0hkYUhVZ2xvQVk1WGdzLWI4TE51SmZQNHgzSUJnU2wzcklrWmlqNjBqaTVKR2RRLWJHcjRnbjFYTUxzbENMRFhkeUJESG1TWHBPX2c5T2Rxd3kwaWp6TENCLXc3WkFyZVhGLS1aRE1rNGFvMXprd3dRV0p6YXBVLW1nTDJSRWhDSjQxTFRVeXlKbGVvRGFGdEQtU3hEUnFoSi1GVzZSdkVGQXV6Y0NnZk3SAcoBQVVfeXFMT2VNVHp6cWx6ZENadnprWHZ4MzBNRV9kd1R3NnBVRTR1THo0ZkdtQ2lCRkh5d3JITk1IU2ZRUnlQZVdWclBlZC1XTUFia1U3R2dyNHdaTjQzNG5oUS1raWJnZFlKbUJiOERrV0pPeDk3enF0eG00S3RYVmFMLXhwV0c2NVdlTzlKODNDaC16U1hwZ2pyRWNHaG8tem9QQktCQjZuYmtZQjVWVmVtRHpLZ0RwNXd6THQzc1F1OWM3ZTdYMkhZd2RKc2drZw?oc=5
 
-- Global Money That Left India Returning Now: NSE CEO Explains At NDTV Profit Ignite - NDTV
-  The NSE CEO explains how Indian investors are returning to India
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa25IVHhNcjFHdE44YU5JdFRrb3FySWM4TjJqRmhaVFVXS29yeU53ZldxeGp3Z2pFWGJnYUV2Q1VZNjlZNzlGendZZ2ZqSHB6YU53ZWRwaENNbjV6eks3ckdZRU81cklzWmFGNFZHM1djX2s1UWhad1IwMi0zRFotWTlzbXdhNHhBN0J6MXNGS0hnVEJ4UXpUSmQySXZaZl9sOXBSVVhWY0FpUlJlSnR6cW9RUDhEdHZVTldjZ9IBxAFBVV95cUxPb3RFbnFFUldqMVQ2eW5PNEdtWVJPQkY1ZFN6YXBnZ1RFWHhhaVBITjU0bktva3RvZGZxWmoxb0NFR1NrZjllR1dBbDBMNTl1Si1tYmUyRVhuZGE2YVJBcWM2Z1lNMFR4ejVwRXY0WDk0eFhhTDJGa3lWVUhQOE9Cd01xVHo4VW54T0J0R09UNXBjNjgyZDRLWjE1bzdVZ21ocmh3RFMyMFN2eTdlMlU5MmluaTdneTlHeGE1SmdTbWRHTDl1?oc=5
+- Here's when Motorola's Signature 27 is landing in India - GSMArena.com news - GSMArena.com
+  Here's when Motorola's Signature 27 is landing in
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQYklrRHhNa0FlRXNIQzRneVFqNjBKUnlXZXp5bzNNWHdxaU1GRUlKbFpNOVF0a2pacWl2RzZYcHVOcUhDQUJKbTZHNEl4a2pUZVVVVHM4bDVjRDdKRjZuZks2NEFoUWprVGdMd2Y5OVJXQkJuLUkwVTRGRFVKVDNhQ2REV01EeWVsYk0wWmVPQ0laX1BjckJvN9IBlAFBVV95cUxQNEZ3YzRycWNiR2ZPaFV6S3pTWDBiQjFBNllJN19LTEZTMHNpX2pMaWREVmcwWHRBS3JkejhBS3p4WlBMTTZIYVhWQ0hvLW1fOVdrTTZjVlQyd0tKTEk3eUZTZk1EM0QxSVpQdTg3c0hOd1JVMHl5aUc3QUZ3NlpJRDlVcGdmMVFKUXJ5VlBXVXRBQU1C?oc=5
 
-- L&T and BAE Systems start production of BVS 10 Sindhu ATVs for Indian Army's high-altitude operations - The Economic Times
-  AE Systems start production of BVS 10 Sindhu ATVs for Indian Army's
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPWlpBbDEyQTZJX21jUTBDNFhCTTVYLUxOakVUMGtPeHB5akVnTW9IMl9EbWd2ZldhVXdXOXdhMy03bUcxTUdxSXlHQjdKR1U1aENUeTAyd2V6Q1kzVXNwUXJpNW1zeEJvN0hCZEViZnZZU3NDM194WGRfY1NyLW5BWktsR09IVlQ4Y0tPSE5OTEVOS2JPRXI0aG5QclR5VDg3MFpER3ZwT1VRTTJ5S3VBT2QtZG9naHNUa2Fzdk1OZzltWFNUZHdmRTRLckRFVUlzS1F2dWdnUVVpQ0Fldld5ODZSUVNoWllNcXJvRXdkQ1NVZDJOcXJ6RDU0NFZhVnJFanduT01kRGhkTWRlc2VnZUdYcWJEU0ZyeWfSAf8BQVVfeXFMUFBMdmVIazcyclVPRjVhVXVNOG5kR1pFbGdXVTNnNWJxc1NOQ0x4bmd1SHczSmxEdnBhUDRtajN1S3p3LWViSWU2akVTNjAxUUh3VGUzbFcwVXNBVlNoRHR1c3ExWjhqbVJzM2NkWVNWNnN5cXA2aHd3R1M5bHluLXJoUXpQbC1TV2l5SVNNMTZaUk50MVNRZ1Y5NmY4SzhaSC1VUW1uUExGZ1VSSDlZajR1RmtWLVFpaEp6ZmxpVkpwZWpSZGNPVlZjQkNHRFJoUjBLa1dva2d4Rnozbmg4d2NUdFB5WFFuNEhxWm5raEtmY28tRFFDaGF3emRQUDQ0?oc=5
+- Weather Tomorrow: Met Department Forecasts Widespread Rain Across North India After Cyclone Arnab - NDTV
+  The Met Department Forecasts Widespread Rain Across North India
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2JOV0I1bzktVkU2QTFkdmxzbTBhVHZwVlM1Vl9Rdmo5aGpPSzFuSUVlVWpFa1VYQUN3TVg5MTc1Qy04T2p0RkJjQzBWam84Y3MybDlrWEtuWmFXZTZHVkpfSHRQUE1sNHRyT011M2NwdndfLVZFZGZhNjByakgtbnFVVGtmdDRvM2pWcktrZW9BMXlTeWpweHN4UXhXX3I3Slp5MTFRdHJjQUp4UFl1YVZ4bm9UcWdxVGM1a1pyd29uSVF0SXVudVhRR1UxR2t4bmtJ0gHbAUFVX3lxTE5ucjBfLTA2dDBOVTI4YkFyUWw0M3huSmExbGJpdUVQT3VIampVQWlPNWVCcS1NbTFyRjRzUnplMHYtbGZHTFl6d2V0Q2ZWREFDNDlEby1ZbEZNYkxsUG9zRU42VGxsZ1p2ZmFQOVMwUkl1clVETk1ScC1GUjNfTmZmcFZTZGZKX19BbHo4TDMydm5XY0NhNDNqblpXTHdnRzRNeEFkYnFpQzlMUUhhbnRSRHdlaTQxSnM4WEtiMkgzUFNHbEN1VEg3ajhfXzRPcVk2MXNrVVgtN0Fsdw?oc=5
 
-- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
-  A border official's remarks cast a shadow over India
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
+- Severe cyclonic storm highlights: Cyclone Arnab to weaken further by midnight, move north-northwestwards, says IMD | Hindustan Times - Hindustan Times
+  Cyclone Arnab to weaken further by midnight, move north-northwestwards.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNRDU2UUtLdUs2OVgyNjdROXU5Ym9MU2lzZFdFbEZSNDNiVVphX3dmTC15X3ItcmVfQmZPaTFGRTZiRW9jQS1zeDhMRWFWS0dGRlBnSUEzWXlVVWpzWlIwYW5feVItRzRSTDFWSzhRU3FOejNsSTg4VGVfRTFJMkhpOEJpNGpKaDdKbVlOZy1OT0pyZDdhUzdZdW9rZlhYWktnUWdXV0pGSEJNSlpsbHlIVzZ2U0Z5WEhRaHBodEZPTllrRHdZWFZFR1k2dUwxRFV0MEN0RFpBNEl1Z3RWb3VZUjl6MXNCeTBZLUJ3RnRGdlB3d09wNGRYSXBmWHlFSlk1RmR1TGwyTnAzbDJoc0Y40gGUAkFVX3lxTE5xWThpejVyZWotbHIwdDBmSG1wVGZKSy1uRlRFNWVmdjdremxiN2ZtdkVfVUZMbEh3dFdSS1JlRlZIT3NRLUlIVnNrRWZTenRGVDd4c19tTkY2aGMwem9Sd2hnaXY3UVhPaVdOamtmMEVkNnhqR2kzSnNZcHlRVjVmOWN1blljSGdPMmRKNHNuQ2kzT3lNcTBCc01KZzNKWnBCY0N3b252TmVOaUxoVWN5YktfMjNWSWxxVVVPN00xa09mUl9iRjAxX3dLczRrQk92SVBWRHFENWI1WV9fSTdBVGxWUXl0THg1cXJXTFdNQnFrWUFMYnZrOTVMQk9fTlhnazQxN1BRWEJSMnNWOFVLZUdfTw?oc=5
 
-- Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
-  Ambani’s Jio reaches $
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
-
-- The fight against misinformation cannot rely on technology alone - The Indian Express
-  The fight against misinformation cannot rely on technology alone
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnBUX2VKMWZxZUVNZXpTeTVPbVpkaTMzbU9HM3k1MjhYTDZzalZnQzVrVk1XUDVremVUTi1HRW9iNU40blJmYmItM1BNTkpFakF5b1BpZVlDT2R0V0xoTURSM3ZoMEI4U1YtbVNKOVVMd2syNEVpOWEzMGRRQllTYTlIU1JsMHg2UmNHYUdxOUhSak5KQkstWGg4RU1VTDJoLWpFSHdfbTB2X1VxaTF1Zl9sc0pXTjA5Y0I3cURFaGpQUdIByAFBVV95cUxNcGFsREFnT2pCaUxWUHFlcVZJMXMxY2ZSWmxFVWJzUXh0RFM1OWdIaEdTQzRvU1FuRXpDSXRvQlVmTi1UZ3VZSTNkdGNWUU5FV3VGcXNoak16UDdVVUFBbzJmQmxzSE0yTkxlWlpFQUZsOF8yaFhzdUNjakxnX0FRNWlNdnFyREJyRzdmam9PbXlqUlZxNmRmanFGZENjMVFIZUVwbU5mX2hCa3Blc0NxWXdzN2hBMm1QaU5Mc3BaLTY4enRfd3FQSw?oc=5
+- Today News Headlines for School Assembly, October 29, 2026: India invites Pakistan to SCO meet; thousands evacuated as Cyclone Arnab hits eastern India - The Indian Express
+  The Indian Express reports that thousands have been evacuated as Cyclone Arnab hits eastern India.
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPV3VCNnN6bFJ3bVVnR1FQRVdPSWZDSVFsRktEbU51VmN0SE5lN0YxYnNSNjNxZ0h5ZGxvem1GblJ0V0lGS2ZlQktoRC01T1FoLTRiZGp2b2ZPbkZqVnZDY0FDc04yalViVVg4UVBjaURzSXBpU3plNzFKSjVSSUJwa1BrMkpoQjJmYUhHUFFJbU1qeG1NS0RuUDc5QTk1ZExZb3FiZ09kMUM4REJaWHBRR3hrUkFvTmtfNUdsV0NtaF91NmR6alljc1d1emJvdjlDdktTODBXVHJDaGhsREtianpfMUN1Q2Q0RUZ6R0NxX04tUXB2X0pNNkdLeXdNLUtjWm9DcHlxWmVBeHEyLS02X0hiUk9iNjlYMGNDbVB1X1FPdkgzSExPc9IBrwJBVV95cUxOc1lQNzhlcU1ZUUlJTkthMzFoM3VXN3RYWEhsWDVUWWNRN1U0RTJUTnBLcU82RVdZMm90dGIzYXpjck1IWVRZOU9CdmpMcmFKTE5ad1BnNnczekdGYVFsWHFRRzJQNUxVOG1STks0Wk9CMjA1cUNlZ3BCOHAwbGJEQWgwYVBhd3psSXdrVm1MU2ZpX0xoa3l3cEYtYlNzMG1tenl5Y0p1NVQ5eVFWaEFfaFFOWVd0blpzc2wwQ1hxdjZveUpVbkp0UnQtdzlaRXVtNTNwNjh3OWRXeTVmbXVaY3FhQXBaOWNIZWo2Z3ZRWkN2N29kLU1UcnNHLVJVSzNLTGg0cU80TVF0dHdGLTU3X1QyS1ViQm9xZk01ZGYxY3gybDRGenZ3U0xQeGJnYlE?oc=5
 
 - 'An annoying buzz': The search for stealthier drones - BBC
   'An annoying buzz': The
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lX2I4dTd4SXhjdEo2bUtTOTZlVVhGYWdnbkp3OVBWb2VYc2JlWktLQU9pSlpUQkozNmx5c0Rmay0yWHZsSThRbTNhS3hnc3ZiV0FSXzZQLXRac3c?oc=5
 
-- PM Modi says, India must embrace emerging technologies and lead world in creating them - News On AIR
-  PM Modi says, India must embrace emerging technologies and lead world in creating
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHdUVnFwdWEzNjJublV4TFlhYzd5NHIzRzRqbGFIaXRIQk8yaFVCeExjMG1qOG5NZkN6SFV4YzBJWHZldmoxX3BHTEFteWs3a1lILWU3V0Z6WDYtTDYxbm5hX0pUWnByQVcxcm1MeXhad0doREpoN0JTVVcxcDh6X2xQaWMxY3prU2IyRGNkVURWQXkyYm1tUEtxNnVyRU9JOGxJS2Q5dXBrWThyWTRrNw?oc=5
+- Volkswagen, in strategy shift, plans to globalise China-developed technology - Reuters
+  Volkswagen, in strategy shift
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUpOYjRPbVZuMzdSa0U4R3E2MUpiZDdzTzNxLWx4U3o4UnpnV0NaNjkwTzFlcmItSGVveHhoUktBUU94MDBXVWVfeG5vd2Y1Y2xxOTNPTWl4YXMxNURsV25ieDBfUHFZSUNydUVRMC1FdGZNZ0Q3WmtuQ3lfME9UTXh2Qll2aFgxajZzWEhteFd4OEpyRE9Ic2E4bmVRTXl6eHFBQk4yLXBRNWpmdUI3QzVpal9oSUk?oc=5
 
-- Emerging Science and Technology in India - ESTIC 2026 - Vajiram & Ravi
-  Vajiram & Ravi are
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHVsNENZM0hUWGlLRzE4TVBkZ2p0MlptNWhZT1U0VHdNbk9fUmxSNzZTOVA0U1NKMGotT1o3TEV3R0VKZy1MaFdaeTZWRmFtcHNBRXI3VEZsYjluVDUwc3JMeFMzSzdaWDRzckZYZVg0M0lwdk9HUXF4R0dkNjNJVw?oc=5
+- Technology Services Reinvention: AI Reshaping IT and BPM Services - Nasscom
+  Technology Services Reinvention: AI Res
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHhyZ01XMkFXb3lDTXBBdjdneGNmalRHdWxpUmhzZ1owNkJBN3EyRVFsRjc3ejJYRGVFRC0yNy1HOW11NFllS0ZWYXFHRHJsaUtUaFpzNDJOdzhvUTFoZ2YwMnpQMFNSTDdIX1ZzVG5GSnZ1WTJyY1RfUUlMdlpVd09nV3pac0FLTHdMaE1tVnowUFRfZmFNOWNMUVVuNXRleU5OVy1pU1RrU2FWMzBxRkZ2WE96dFhZ?oc=5
 
-- PM’s address during inauguration of the Emerging Science, Technology and Innovation Conclave 2026 - PM India
-  PM’s address during inauguration of the Emerging Science,
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1FIVTJEbWlBN2M5WmhVd2NnaWFPQXlpRzJQLWxWTU9NbUlTU3FtMjJlcno2TV9CVDFZWHNpd1VsUWJKa1psdFRsOGNmSGs4NnNOaDdaTzNnTEhQTXMwN3hHRnNKRWMwLWNKbG81b05yd2Vqc1pkLVo5aFN3LUpmYndacTFXb1pBb1RWUDNINEQwZ2N1QUlNY05LSWpKOHlialYzOGU2QzBaMjlGSGlRRGx3Z1dqdTBkakRmN014ZGtFYm00ZmZ3aEFTSzJyYk0wT0NOVW5LT3VxVFc2UXJnQ3d6dkVCOW40SFZz?oc=5
-
-- Fibe bets on AI as profit doubles ahead of  ₹1000+ crore IPO
-  Fibe is making artificial intelligence central to its lending model. Its system evaluates more than 27,000 variables, with automated decisions covering 95% of loans.
-  🔗 https://www.livemint.com/companies/news/fibe-bets-on-ai-as-profit-doubles-ahead-of-1000-crore-ipo-11793187673629.html
-
-- Gera Developments introduces The Gera Advantage to support customers across their homeownership journey
-  Gera Developments has launched The Gera Advantage. It offers eligible homebuyers financial assistance before receiving an occupancy
-  🔗 https://www.livemint.com/companies/news/gera-developments-introduces-the-gera-advantage-to-support-customers-across-their-homeownership-journey-11793187313196.html
-
-- Who is Sanjeev Bikhchandani? Meet the entrepreneur taking charge of Info Edge after 27 years
-   Info Edge co-founder Sanjeev Bikhchandani will take over as executive vice chairman, managing director and group CEO from December 3, 2026. Hites
-  🔗 https://www.livemint.com/companies/people/who-is-sanjeev-bikhchandani-meet-the-entrepreneur-taking-charge-of-info-edge-after-27-years-11793183104204.html
-
-- From AI to cloud and connectivity from space: Akash Ambani announces Jio's plans to expand beyond affordable data
-  Akash Ambani, Managing Director of Jio Platforms Limited, said the next phase would go beyond affordable data to artificial intelligence, cloud computing, connected
-  🔗 https://www.livemint.com/companies/news/from-ai-to-cloud-and-connectivity-from-space-akash-ambani-announces-jios-plans-to-expand-beyond-affordable-data-11793179524098.html
-
-- Jio valued at $108 billion in IPO, joins Meta, Alibaba and SpaceX club | All you need to know
-  Jio Platforms debuted at a valuation above $100 billion. Its shares opened 21.4% above the issue price, making it India’s second-most valuable
-  🔗 https://www.livemint.com/companies/news/jio-valued-at-108-billion-in-ipo-joins-meta-alibaba-and-spacex-club-all-you-need-to-know-11793173313752.html
-
-- S&P 500 futures inch higher ahead of Fed decision. Nasdaq futures gain after SK Hynix profit boom: Live updates - CNBC
-  S&amp;P 500 futures inch higher ahead of Fed decision. Nasdaq futures
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBsTVRHVVZZQzNkSHotQ09vdW54RlVucGpqVlNDcU44bWk0NnMxZExaUkZPWGYtRFRhdGxFSjA4OUpQTzdwRGROeFRyY3pTOTVvQkowRW5Ca1NyMjdmbkl1Xzc3SGpJcUNvckl0SVlVeWxNMUp4LTNv0gF8QVVfeXFMTUQ5VHp4S2d6WFdtUkdIYlZKMGp6RVd0NUxnTm0zU2ZfOW9iVHpaWGlaaDFwQXpEMGd2TllQUFJ6ZjQ2YkVxMW5XZnRhT3dKN3hfUTVjU3BhX3J2YVlwRGRPOG5hbWN0T19aUEZWQWg1cHo3X091aURwcV9LUA?oc=5
-
-- Stock Market Today: Stock Markets Mostly Higher Ahead of Fed Rate Decision - WSJ
-  Stock Market Today: Stock Markets Mostly Higher Ahead of
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHBTLV91dEdLdmpNVWd5OF9kT2VWUEx2eTgzbU9LN2Rhd2lyakl2dDhELTlPVmJ2Q3ZreUEwODhNcVBWSERWVlZ5YWZxS3gwVVdnNnZnNkVKY3N3Smt3MWdyWFVaR2M2Tk1pLU40X1M1TDlVMlJBSURRMTZKZnpJdlR5TGo?oc=5
-
-- Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings - Yahoo Finance
-  Stock market today: Dow futures fall, S&amp;P 500 and Nasdaq futures
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkpuSUVzcGt0bTd1YktkaThFSTI1elk5OG51cmhRQnZUa0VOYjJRMENGWFBpa1lKYjlIUEtILW5sVVN4cG1hSHdDd2pqc0VTZUVrUHBSX2FyTlNfdm02c2hKZkF2d2h6SXB2Nmd0VTZRYWxJMFJ5Y1A0NHhzZXlvSEVOSXg4c2VfQzF1aG5VaWMtVnE0UVpTWG9EMVBxdlZyOHhZVWZoQS0yUFhuMm9raTd3MlRZUmxsellfY215TWk3d2puMFhpTFhQU1g?oc=5
-
-- Hyundai Bayon to Be Exported From India to 50 Markets Globally - CarWale
-  Hyundai Bayon to be Exported From
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEZFNzBJcVJxR29ibC1lSjR6aHczVWtFaGUzWFVGTS1EdE8xLWZzS3B3eGdXOEVmbzcwYklEU1hfRGlnMm9OSVh1N1hBb3d0RnJTdFVPT3RNbEkzUWJxN3JMNG5yN2pmLXBINV9BR0NCS2ZvZHRUOHpFa1ZCNWJnOWRwbnRtTXo4OE4wWFBtQ3RSVDA0eUZz?oc=5
-
-- Bank Stocks Rally Ahead of UK Budget on Tax Report - Bloomberg.com
-  Bank Stocks Rally Ahead of UK Budget
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONkxvTHA2d01wd2VTQ09kRXowOHVxWEhvWFNrcnU2b3A2S2JlQjBXTXlIQTM1R05rRzl5ejBlbFlwRndGYU00N25YekhlQ2pNeGUxZlkyYkdlRDJuRDljUklyQ3RDV0Z1VmMxQUxrYmxkSTJiekxNUDhBUXJuWjFVS09qLVBIR2dhVHp2aEFDMTFNX3VMN3BlSA?oc=5
+- Uppal Shah conferred JITO Emerging Entrepreneur Award 2026 for technology-led innovation in sugar sector - ChiniMandi
+  Uppal Shah conferred JITO Emerging Entrepreneur Award
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPR2VKcXByNF95em1jNkdOVkU2M3M5aENZQ1FHNUZUQnJLWWdCUElXNjB1endSZGRvRjBIU18yTThCaEIzT0J5cTkza25jMDY5VWNXbzRlclBkNDMyOUhIdTlDNXBmODl4UFVLVkRoV3lMdnN2bi1GckN1Ui1LYTdyVWJRdXUxeS1WaEhmZnZQVWRyTUV6bTU5YmhXRUl0QUJzSnR1THVXa2FaeTM5eE9uZFZhaUE4aHg0cDk1cXRhTDFwXzFoV1pid09ibEY?oc=5
 
 - The fight against misinformation cannot rely on technology alone - The Indian Express
   The fight against misinformation cannot rely on technology alone
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnBUX2VKMWZxZUVNZXpTeTVPbVpkaTMzbU9HM3k1MjhYTDZzalZnQzVrVk1XUDVremVUTi1HRW9iNU40blJmYmItM1BNTkpFakF5b1BpZVlDT2R0V0xoTURSM3ZoMEI4U1YtbVNKOVVMd2syNEVpOWEzMGRRQllTYTlIU1JsMHg2UmNHYUdxOUhSak5KQkstWGg4RU1VTDJoLWpFSHdfbTB2X1VxaTF1Zl9sc0pXTjA5Y0I3cURFaGpQUdIByAFBVV95cUxNcGFsREFnT2pCaUxWUHFlcVZJMXMxY2ZSWmxFVWJzUXh0RFM1OWdIaEdTQzRvU1FuRXpDSXRvQlVmTi1UZ3VZSTNkdGNWUU5FV3VGcXNoak16UDdVVUFBbzJmQmxzSE0yTkxlWlpFQUZsOF8yaFhzdUNjakxnX0FRNWlNdnFyREJyRzdmam9PbXlqUlZxNmRmanFGZENjMVFIZUVwbU5mX2hCa3Blc0NxWXdzN2hBMm1QaU5Mc3BaLTY4enRfd3FQSw?oc=5
 
-- 'An annoying buzz': The search for stealthier drones - BBC
-  'An annoying buzz': The
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lX2I4dTd4SXhjdEo2bUtTOTZlVVhGYWdnbkp3OVBWb2VYc2JlWktLQU9pSlpUQkozNmx5c0Rmay0yWHZsSThRbTNhS3hnc3ZiV0FSXzZQLXRac3c?oc=5
+- Chennai Metro Phase II: How Hitachi Rail's  ₹1,620 crore contract will power driverless trains
+  Hitachi Rail's CBTC system automatically manages train movement, including acceleration and braking. It also calculates suitable operating speeds in real time,
+  🔗 https://www.livemint.com/companies/chennai-metro-phase-ii-how-hitachi-rails-1-620-crore-contract-will-power-driverless-trains-11793206947646.html
 
-- PM Modi says, India must embrace emerging technologies and lead world in creating them - News On AIR
-  PM Modi says, India must embrace emerging technologies and lead world in creating
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHdUVnFwdWEzNjJublV4TFlhYzd5NHIzRzRqbGFIaXRIQk8yaFVCeExjMG1qOG5NZkN6SFV4YzBJWHZldmoxX3BHTEFteWs3a1lILWU3V0Z6WDYtTDYxbm5hX0pUWnByQVcxcm1MeXhad0doREpoN0JTVVcxcDh6X2xQaWMxY3prU2IyRGNkVURWQXkyYm1tUEtxNnVyRU9JOGxJS2Q5dXBrWThyWTRrNw?oc=5
+- Pee Safe enters nutraceuticals with Within, targets  ₹100 crore revenue in 3 years - Biz roadmap | Exclusive Interview
+  The company expands beyond hygiene and personal care to build a wider women's health and wellness brand. Co-founder Rithish
+  🔗 https://www.livemint.com/companies/pee-safe-enters-nutraceuticals-with-within-targets-100-crore-revenue-in-3-years-biz-roadmap-exclusive-interview-11793203423571.html
 
-- Emerging Science and Technology in India - ESTIC 2026 - Vajiram & Ravi
-  Vajiram & Ravi are
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHVsNENZM0hUWGlLRzE4TVBkZ2p0MlptNWhZT1U0VHdNbk9fUmxSNzZTOVA0U1NKMGotT1o3TEV3R0VKZy1MaFdaeTZWRmFtcHNBRXI3VEZsYjluVDUwc3JMeFMzSzdaWDRzckZYZVg0M0lwdk9HUXF4R0dkNjNJVw?oc=5
+- Adani Airport, foreign airlines deadlocked over Mumbai airport shift
+  Adani Airport plans to begin cutting capacity at the existing airport in April. Carriers want until October 2027
+  🔗 https://www.livemint.com/companies/news/adani-airport-foreign-airlines-deadlocked-over-mumbai-airport-shift-11793202480765.html
 
-- PM’s address during inauguration of the Emerging Science, Technology and Innovation Conclave 2026 - PM India
-  PM’s address during inauguration of the Emerging Science,
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1FIVTJEbWlBN2M5WmhVd2NnaWFPQXlpRzJQLWxWTU9NbUlTU3FtMjJlcno2TV9CVDFZWHNpd1VsUWJKa1psdFRsOGNmSGs4NnNOaDdaTzNnTEhQTXMwN3hHRnNKRWMwLWNKbG81b05yd2Vqc1pkLVo5aFN3LUpmYndacTFXb1pBb1RWUDNINEQwZ2N1QUlNY05LSWpKOHlialYzOGU2QzBaMjlGSGlRRGx3Z1dqdTBkakRmN014ZGtFYm00ZmZ3aEFTSzJyYk0wT0NOVW5LT3VxVFc2UXJnQ3d6dkVCOW40SFZz?oc=5
+- LOHUM ropes in 2010 Nobel laureate to lead materials science research
+  Konstant
+  🔗 https://www.livemint.com/companies/news/lohum-ropes-in-2010-nobel-laureate-to-lead-materials-science-research-11793196054226.html
 
-- S&P 500 futures inch higher ahead of Fed decision. Nasdaq futures gain after SK Hynix profit boom: Live updates - CNBC
-  S&amp;P 500 futures inch higher ahead of Fed decision. Nasdaq futures
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBsTVRHVVZZQzNkSHotQ09vdW54RlVucGpqVlNDcU44bWk0NnMxZExaUkZPWGYtRFRhdGxFSjA4OUpQTzdwRGROeFRyY3pTOTVvQkowRW5Ca1NyMjdmbkl1Xzc3SGpJcUNvckl0SVlVeWxNMUp4LTNv0gF8QVVfeXFMTUQ5VHp4S2d6WFdtUkdIYlZKMGp6RVd0NUxnTm0zU2ZfOW9iVHpaWGlaaDFwQXpEMGd2TllQUFJ6ZjQ2YkVxMW5XZnRhT3dKN3hfUTVjU3BhX3J2YVlwRGRPOG5hbWN0T19aUEZWQWg1cHo3X091aURwcV9LUA?oc=5
+- Meesho flags higher festive and tech costs in Q2 as margins improve
+  The e-commerce platform expects elevated customer acquisition and server costs to temper near-term gains.
+  🔗 https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html
 
-- Stock Market Today: Stock Markets Mostly Higher Ahead of Fed Rate Decision - WSJ
-  Stock Market Today: Stock Markets Mostly Higher Ahead of
+- Big Adani stocks Q2 comparison: Adani Ports vs Adani Power vs Adani Green Energy shares; Who delivered beyond estimates?
+  Adani Power and Adani Green beat second-quarter FY27 estimates. Adani Ports reported results broadly in line. Ports offered the strongest outlook, raising its FY27 E
+  🔗 https://www.livemint.com/market/stock-market-news/big-adani-stocks-q2-comparison-adani-ports-vs-adani-power-vs-adani-green-energy-shares-who-delivered-beyond-estimates-11793206502960.html
+
+- Ola Electric stock jumps 11% in week; rights issue fully subscribed ahead of closing date - Check key details
+  Ola Electric shares rose 4.95% to  ₹36.68 on Wednesday, extending a two-session winning streak and gaining about 11% in
+  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-stock-jumps-11-in-week-rights-issue-fully-subscribed-ahead-of-closing-date-check-key-details-11793204693665.html
+
+- Crompton Greaves shares rebound 4% after recent losses: Can the beaten-down stock sustain its recovery?
+  Crompton Greaves Consumer Electricals shares rose 4% to  ₹204. Choice Equity Broking sees scope for a recovery toward   �
+  🔗 https://www.livemint.com/market/stock-market-news/crompton-greaves-shares-rebound-4-after-recent-losses-can-the-beaten-down-stock-sustain-its-recovery-11793200606334.html
+
+- 67% rally in 6 months, 14% crash in a week: What changed for this jewellery stock under  ₹50? Do you own it?
+  PC Jeweller shares fell for a fifth consecutive session, losing nearly 14% in a week. The pullback follows a 67% six-month rally and appears driven by profit-taking.
+  🔗 https://www.livemint.com/market/stock-market-news/67-rally-in-6-months-14-crash-in-a-week-what-changed-for-this-jewellery-stock-under-50-do-you-own-it-11793199612473.html
+
+- Vedanta vs Vedanta Aluminium Q2 results 2026 compared: Profit, revenue, EBITDA and debt explained of Anil Agarwal firms
+  Vedanta Limited and Vedanta Aluminium both more than doubled their net profits in Q2FY27. Higher commodity prices and production supported results.
+  🔗 https://www.livemint.com/market/stock-market-news/vedanta-vs-vedanta-aluminium-q2-results-2026-compared-profit-revenue-ebitda-and-debt-explained-of-anil-agarwal-firms-11793198556956.html
+
+- Microsoft Visual Studio update brings smarter Copilot AI, bulk conflict resolution and Hot Exit: Details here
+  Microsoft has updated Visual Studio with improved Git tools. The release also adds a new GitHub Copilot Chat experience, Hot Exit for restoring unsaved work.
+  🔗 https://www.livemint.com/technology/microsoft-visual-studio-update-brings-smarter-copilot-ai-bulk-conflict-resolution-and-hot-exit-details-here-11793191723325.html
+
+- Delhi Liquor Booking app launched: How to order online and 48-hour collection rule explained
+  Delhi has launched the Delhi Liquor Booking app ahead of Diwali. Customers can book
+  🔗 https://www.livemint.com/technology/apps/delhi-liquor-booking-app-launched-how-to-order-online-and-48-hour-collection-rule-explained-11793183028757.html
+
+- What’s new in iOS 27.2: New Siri AI languages, 160+ security fixes and CarPlay upgrades
+  Apple’s iOS 27.2 adds Siri AI memory, five new beta languages, CarPlay and
+  🔗 https://www.livemint.com/technology/tech-news/whats-new-in-ios-27-2-new-siri-ai-languages-160-security-fixes-and-carplay-upgrades-11793176532277.html
+
+- Cyber criminal gang Mr Robot renting out tech tools to target Indian banking customers: CloudSEK
+  Cyber criminal gang Mr Robot renting out tech tools
+  🔗 https://www.livemint.com/technology/cyber-criminal-gang-mr-robot-renting-out-tech-tools-to-target-indian-banking-customers-cloudsek-11793168256533.html
+
+- Indian IT firms poised to benefit from enterprise AI adoption as infrastructure costs rise: Report
+  Rising infrastructure investments and funding requirements increase financial risks for companies building and operating AI computing capacity. Indian information technology (IT) companies are well-positioned to benefit from the growing adoption of artificial intelligence
+  🔗 https://www.livemint.com/technology/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report-11793166741416.html
+
+- The stock market's best 6 months of the year start Monday: Chart of the Day - Yahoo Finance
+  The stock market's best 6 months of the year start Monday: Chart
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTBUT0VyV2xWU0V2R0Qza0pERDRodHN5bDJ5YzE1UTBneWdBWl95cmN0M2pUV0pQbGlDNWFiOEYxOHFYZTlTaWFZYTg3bWRrQ3NhZHg1RTc5V2dhTDBlT1M5Ml9MaER5cnRlaVNuOWxMOFkyNHVua0JQdHdsQno5eWZGUjJDaFZ2cDUtdmpyWHFBNzFad1lJZE5yUHVqUFdhZ09IVVRKUlZONTFRa1hiVXczQ041eTlYaTZVV3pyTWRDTHpYVlR1YzF3?oc=5
+
+- S&P 500 Churns in Countdown to Fed, Tech Earnings: Markets Wrap - Bloomberg.com
+  S&amp;P 500 Churns in Countdown to Fed, Tech Earnings: Markets Wrap. SK Hynix: Live updates.
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf?oc=5
+
+- Fed Meeting Today: Investors Await Interest-Rate Decision; Warsh Comments — Live Updates - WSJ
+  The Fed is set to meet on interest rates.
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHBTLV91dEdLdmpNVWd5OF9kT2VWUEx2eTgzbU9LN2Rhd2lyakl2dDhELTlPVmJ2Q3ZreUEwODhNcVBWSERWVlZ5YWZxS3gwVVdnNnZnNkVKY3N3Smt3MWdyWFVaR2M2Tk1pLU40X1M1TDlVMlJBSURRMTZKZnpJdlR5TGo?oc=5
 
-- Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings - Yahoo Finance
-  Stock market today: Dow futures fall, S&amp;P 500 and Nasdaq futures
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkpuSUVzcGt0bTd1YktkaThFSTI1elk5OG51cmhRQnZUa0VOYjJRMENGWFBpa1lKYjlIUEtILW5sVVN4cG1hSHdDd2pqc0VTZUVrUHBSX2FyTlNfdm02c2hKZkF2d2h6SXB2Nmd0VTZRYWxJMFJ5Y1A0NHhzZXlvSEVOSXg4c2VfQzF1aG5VaWMtVnE0UVpTWG9EMVBxdlZyOHhZVWZoQS0yUFhuMm9raTd3MlRZUmxsellfY215TWk3d2puMFhpTFhQU1g?oc=5
+- Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV
+  The Sensex and the Nifty both fell sharply on
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObWxhVDV4ZlIydzBlUDdmdzFaMGRMcWw5N3RjWHRSWnZKOU85V1BaM1pOVDJBU0NjcUcycEZ0a1lGdTFjT2JBU3hGRl8xV0tmRmN6Rk9pSmo2MTJXLW1sRTFEZXROZ2NyaWlOc25CajVNNlBBTWN1aTNrWk9rTDU0QlhJaUt4MHV0cDdwSUs4M1M0WEZGYUJxTWtUUDhJeUNRc1Z1NXhlZTRPZHFzZmgwQzlWQWNxeldN0gHAAUFVX3lxTE5jb2ZQVkFqMmdkV1pQR3ZUaFBnRnNEODlSbFdlOWpxNGUxVnlRTlZjX1JraXlkVlZhNjc0ektuZ0VpaVFfbkhwRFI2N3JaSEtKc0pkZ1RQRjFVS3hhQlFVSUJHdE0yODNqS1NJRXc5LU9mM19GMWc4ZjdfbXd5WnRZTWpqTDJ3eGs3NnUxNmdhOWg2S2YxS2FnUUdPOFZoQ1JBdElkQWZJaVBNVXNuRDB2c1dpSEpxaDVwWWdKOFo4LQ?oc=5
 
-- Hyundai Bayon to Be Exported From India to 50 Markets Globally - CarWale
-  Hyundai Bayon to be Exported From
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEZFNzBJcVJxR29ibC1lSjR6aHczVWtFaGUzWFVGTS1EdE8xLWZzS3B3eGdXOEVmbzcwYklEU1hfRGlnMm9OSVh1N1hBb3d0RnJTdFVPT3RNbEkzUWJxN3JMNG5yN2pmLXBINV9BR0NCS2ZvZHRUOHpFa1ZCNWJnOWRwbnRtTXo4OE4wWFBtQ3RSVDA0eUZz?oc=5
+- Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India
+  Stock Market Today Highlights: BSE Sensex ends in red; NSE N
+  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcDZ4SlBCdXAzX0JUb3E2UlRYeGhFblcwSWF3cW1oX2VZMEwwakJfeVEtdUJRaThFSjVqSWRMaU12ajVDQ2NsMllXaUgydHJHMk9oT0xPaW9WeFByWkdGN25WZkpXYjRWYlVGSlFuLWNmWGd1Q3p5WU93RHh4NGIwYmtVa1c3NDNyejhvempFQTJxbm5RUHREV1dNbUxWc3hZRjlPbmpDWFBnZ2RtZnQtZWluLUZLcTB1YmdCYjJHUmZXTktYYlBGdWFBU3lhNVJpNFR3ZdIBugJBVV95cUxNMFNaX0w0NnU0aTQ0UHdkc0lSQ19GUGRKMnFwTVJYNW5wajNISEtaeFctTmZ3QWtxSDJzLVZMdlR6ZVk3VnlWNnFmRUYxQVFFdTFzX2J4TW9HVUpGVWJBd29sT1RnSElmQlFsMVV3QkhYQXB1dkNudWNORUZub295a3BSRVpXcUVGYWRpaXBrb2NMWmpWZks2TXhSRXlmLU0wdm1yNG40dGx3ZVQ0b3FzcTQ1MzhKZG03cGRxUnJRb052V19UcjVjdzFzcHZ1eXNydDRCaWotVXRNcWtQZldqcEtzR19ac21LU1piWk95MTFVa3dMRHNNOHN5U0tHZU4zSERENjgxd29McDBIeUxUNmFveDdZODJucmI1Qm9EV0ItWG50NktCdTRseTRDTmYzV2x0Z1g0aTR2QQ?oc=5
 
-- Bank Stocks Rally Ahead of UK Budget on Tax Report - Bloomberg.com
-  Bank Stocks Rally Ahead of UK Budget
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONkxvTHA2d01wd2VTQ09kRXowOHVxWEhvWFNrcnU2b3A2S2JlQjBXTXlIQTM1R05rRzl5ejBlbFlwRndGYU00N25YekhlQ2pNeGUxZlkyYkdlRDJuRDljUklyQ3RDV0Z1VmMxQUxrYmxkSTJiekxNUDhBUXJuWjFVS09qLVBIR2dhVHp2aEFDMTFNX3VMN3BlSA?oc=5
+- Satin Creditcare Q2 profit surges over three-fold as asset quality improves
+  Satin Creditcare Network reported a more than three-fold rise in consolidated net profit to Rs 176 crore in the second quarter. Its gross NPA ratio improved to 1.9% from 3.5% a year earlier
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-q2-profit-surges-over-three-fold-as-asset-quality-improves/articleshow/135272520.cms
 
-- Jio debuts on D-Street: India’s biggest IPOs delivered negative returns over one month after listing. Will Jio break the curse?
-  Jio Platforms is India’s largest initial public offering, valued at Rs 30,213-crore. Initial reports present an optimistic outlook for Jio, with projections suggesting potential for growth.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jio-debuts-on-d-street-indias-biggest-ipos-delivered-negative-returns-over-one-month-after-listing-will-jio-break-the-curse/articleshow/135263845.cms
+- Cholamandalam Investment Q2 net profit rises 41% on strong income growth, plans Rs 5000 crore capital raise
+  Cholamandalam Investment and Finance reported a 41% rise in second-quarter net profit to Rs 1,630 crore. The company’s board approved a proposal to raise up to Rs 5
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cholamandalam-investment-q2-net-profit-rises-41-on-strong-income-growth-plans-rs-5000-crore-capital-raise/articleshow/135272371.cms
 
-- From 104 shareholders to nearly 80 lakh! Jio becomes India's most widely owned stock on listing day
-  Jio Platforms has become India’s most widely held listed stock, with 79.6 lakh shareholders. From just 104 shareholders before the issue, Jio attracted over 1.38 crore applications.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-104-shareholders-to-nearly-80-lakh-jio-becomes-indias-most-widely-owned-stock-on-listing-day/articleshow/135262546.cms
+- Hero MotoCorp Q2 profit jumps 41% as scooter and EV sales surge
+  Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,860.55 crore. Scooter sales surged 47%,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-profit-jumps-41-as-scooter-and-ev-sales-surge/articleshow/135272243.cms
 
-- MFs raise stake for 3 straight quarters in 5 mid-cap stocks; shares gain up to 75% YTD
-   Mutual funds steadily increased their holdings in 39 BSE midcap stocks for three consecutive quarters through September 2026. While five stocks gained 15–
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stake-for-3-straight-quarters-in-5-mid-cap-stocks-shares-gain-up-to-75-ytd/slideshow/135262516.cms
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Sensex fell 353 points to 73,246, while Nifty slipped 51 points to 22,699. Rising crude oil prices and Middle East tensions
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135271636.cms
 
-- Info Edge Q2 Results: Net profit plunges 93% YoY to Rs 334 crore, revenue rises 13%; co declares Rs 3/share interim dividend
-   Info Edge reported a sharp year-on-year decline in Q2 net profit due to a large exceptional gain in the previous year. Recruitment, 99ac
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms
+- British homebuilder shares slump on lack of clarity over first-time buyer plan in budget
+  Shares of British homebuilders plummeted following finance minister John Healey's budget speech about housing initiatives. Barratt Redrow, Taylor Wimpey, and Persimmon experienced sharp declines.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms
 
-- Global Market: Nomura Holdings Q2 profit rises 13% on wealth management growth
-  Nomura Holdings reported a 13% YoY rise in second-quarter net profit to 103.7 billion yen. Its wholesale income jumped 47% amid robust
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-nomura-holdings-q2-profit-rises-13-on-wealth-management-growth/articleshow/135261885.cms
+- MEA highlights stronger linkages between Japan and northeast India - The Hindu
+  MEA highlights stronger linkages between Japan
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWE5bTdjQ2xOQURSYmdHdng2c0hkYUhVZ2xvQVk1WGdzLWI4TE51SmZQNHgzSUJnU2wzcklrWmlqNjBqaTVKR2RRLWJHcjRnbjFYTUxzbENMRFhkeUJESG1TWHBPX2c5T2Rxd3kwaWp6TENCLXc3WkFyZVhGLS1aRE1rNGFvMXprd3dRV0p6YXBVLW1nTDJSRWhDSjQxTFRVeXlKbGVvRGFGdEQtU3hEUnFoSi1GVzZSdkVGQXV6Y0NnZk3SAcoBQVVfeXFMT2VNVHp6cWx6ZENadnprWHZ4MzBNRV9kd1R3NnBVRTR1THo0ZkdtQ2lCRkh5d3JITk1IU2ZRUnlQZVdWclBlZC1XTUFia1U3R2dyNHdaTjQzNG5oUS1raWJnZFlKbUJiOERrV0pPeDk3enF0eG00S3RYVmFMLXhwV0c2NVdlTzlKODNDaC16U1hwZ2pyRWNHaG8tem9QQktCQjZuYmtZQjVWVmVtRHpLZ0RwNXd6THQzc1F1OWM3ZTdYMkhZd2RKc2drZw?oc=5
 
-- Israel elections: Understanding how Knesset polls work vs India’s system - The Hindu
-  The Hindu is a leading newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm9saW9JNTJ3VnNwcDJ2UEViVnNHVFB2Q2RqNkVTYndOU0tzbU1KeFBlVGIyQXo4RW9rREpXbmNaTm4xTUNsREl6dWF5OUhlZHFZd1JNTXRBcFE5dVZQcERsZExRNTVxMWZINkhsRjdBRzVfRzA0cC1uNkROcl9mZnRZYkFEbHhLM0QxV3hwUGdTSC1uRGQ5TG10MzgtNFI3cGNHMG5ibUlFQVc3NEtleG5rRlN2ZkxVbXluS25TZUNiaUFIcVBfa1NB0gHQAUFVX3lxTE0yT0twcGlkQU8xMGFQbS1jV051SGluVG1YQ003RmJkTzJLRVN3cGZQcXJFLThQSUJhVjYyQ00ya0FIdXZITFU4QmJsWXJOczJ4MUluVjEzRG9ZV19BS09JN3ZXRlpDR2Nza0ZJVDQ0bWl5M3lLOGJBTHpMZk41VkhUb3N0c0ZDeWdtdllnRkJqTVQ0eURPeDdCdnhDRG1WaU1vTmxMeW1iQ2JPUk1GTmZwZkV3ZUwta181bUpHVkpsMHJrektSS3ZmUnpuMmw0dlg?oc=5
+- Here's when Motorola's Signature 27 is landing in India - GSMArena.com news - GSMArena.com
+  Here's when Motorola's Signature 27 is landing in
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQYklrRHhNa0FlRXNIQzRneVFqNjBKUnlXZXp5bzNNWHdxaU1GRUlKbFpNOVF0a2pacWl2RzZYcHVOcUhDQUJKbTZHNEl4a2pUZVVVVHM4bDVjRDdKRjZuZks2NEFoUWprVGdMd2Y5OVJXQkJuLUkwVTRGRFVKVDNhQ2REV01EeWVsYk0wWmVPQ0laX1BjckJvN9IBlAFBVV95cUxQNEZ3YzRycWNiR2ZPaFV6S3pTWDBiQjFBNllJN19LTEZTMHNpX2pMaWREVmcwWHRBS3JkejhBS3p4WlBMTTZIYVhWQ0hvLW1fOVdrTTZjVlQyd0tKTEk3eUZTZk1EM0QxSVpQdTg3c0hOd1JVMHl5aUc3QUZ3NlpJRDlVcGdmMVFKUXJ5VlBXVXRBQU1C?oc=5
 
-- Global Money That Left India Returning Now: NSE CEO Explains At NDTV Profit Ignite - NDTV
-  The NSE CEO explains how Indian investors are returning to India
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa25IVHhNcjFHdE44YU5JdFRrb3FySWM4TjJqRmhaVFVXS29yeU53ZldxeGp3Z2pFWGJnYUV2Q1VZNjlZNzlGendZZ2ZqSHB6YU53ZWRwaENNbjV6eks3ckdZRU81cklzWmFGNFZHM1djX2s1UWhad1IwMi0zRFotWTlzbXdhNHhBN0J6MXNGS0hnVEJ4UXpUSmQySXZaZl9sOXBSVVhWY0FpUlJlSnR6cW9RUDhEdHZVTldjZ9IBxAFBVV95cUxPb3RFbnFFUldqMVQ2eW5PNEdtWVJPQkY1ZFN6YXBnZ1RFWHhhaVBITjU0bktva3RvZGZxWmoxb0NFR1NrZjllR1dBbDBMNTl1Si1tYmUyRVhuZGE2YVJBcWM2Z1lNMFR4ejVwRXY0WDk0eFhhTDJGa3lWVUhQOE9Cd01xVHo4VW54T0J0R09UNXBjNjgyZDRLWjE1bzdVZ21ocmh3RFMyMFN2eTdlMlU5MmluaTdneTlHeGE1SmdTbWRHTDl1?oc=5
+- Weather Tomorrow: Met Department Forecasts Widespread Rain Across North India After Cyclone Arnab - NDTV
+  The Met Department Forecasts Widespread Rain Across North India
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2JOV0I1bzktVkU2QTFkdmxzbTBhVHZwVlM1Vl9Rdmo5aGpPSzFuSUVlVWpFa1VYQUN3TVg5MTc1Qy04T2p0RkJjQzBWam84Y3MybDlrWEtuWmFXZTZHVkpfSHRQUE1sNHRyT011M2NwdndfLVZFZGZhNjByakgtbnFVVGtmdDRvM2pWcktrZW9BMXlTeWpweHN4UXhXX3I3Slp5MTFRdHJjQUp4UFl1YVZ4bm9UcWdxVGM1a1pyd29uSVF0SXVudVhRR1UxR2t4bmtJ0gHbAUFVX3lxTE5ucjBfLTA2dDBOVTI4YkFyUWw0M3huSmExbGJpdUVQT3VIampVQWlPNWVCcS1NbTFyRjRzUnplMHYtbGZHTFl6d2V0Q2ZWREFDNDlEby1ZbEZNYkxsUG9zRU42VGxsZ1p2ZmFQOVMwUkl1clVETk1ScC1GUjNfTmZmcFZTZGZKX19BbHo4TDMydm5XY0NhNDNqblpXTHdnRzRNeEFkYnFpQzlMUUhhbnRSRHdlaTQxSnM4WEtiMkgzUFNHbEN1VEg3ajhfXzRPcVk2MXNrVVgtN0Fsdw?oc=5
 
-- L&T and BAE Systems start production of BVS 10 Sindhu ATVs for Indian Army's high-altitude operations - The Economic Times
-  AE Systems start production of BVS 10 Sindhu ATVs for Indian Army's
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPWlpBbDEyQTZJX21jUTBDNFhCTTVYLUxOakVUMGtPeHB5akVnTW9IMl9EbWd2ZldhVXdXOXdhMy03bUcxTUdxSXlHQjdKR1U1aENUeTAyd2V6Q1kzVXNwUXJpNW1zeEJvN0hCZEViZnZZU3NDM194WGRfY1NyLW5BWktsR09IVlQ4Y0tPSE5OTEVOS2JPRXI0aG5QclR5VDg3MFpER3ZwT1VRTTJ5S3VBT2QtZG9naHNUa2Fzdk1OZzltWFNUZHdmRTRLckRFVUlzS1F2dWdnUVVpQ0Fldld5ODZSUVNoWllNcXJvRXdkQ1NVZDJOcXJ6RDU0NFZhVnJFanduT01kRGhkTWRlc2VnZUdYcWJEU0ZyeWfSAf8BQVVfeXFMUFBMdmVIazcyclVPRjVhVXVNOG5kR1pFbGdXVTNnNWJxc1NOQ0x4bmd1SHczSmxEdnBhUDRtajN1S3p3LWViSWU2akVTNjAxUUh3VGUzbFcwVXNBVlNoRHR1c3ExWjhqbVJzM2NkWVNWNnN5cXA2aHd3R1M5bHluLXJoUXpQbC1TV2l5SVNNMTZaUk50MVNRZ1Y5NmY4SzhaSC1VUW1uUExGZ1VSSDlZajR1RmtWLVFpaEp6ZmxpVkpwZWpSZGNPVlZjQkNHRFJoUjBLa1dva2d4Rnozbmg4d2NUdFB5WFFuNEhxWm5raEtmY28tRFFDaGF3emRQUDQ0?oc=5
+- Severe cyclonic storm highlights: Cyclone Arnab to weaken further by midnight, move north-northwestwards, says IMD | Hindustan Times - Hindustan Times
+  Cyclone Arnab to weaken further by midnight, move north-northwestwards.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNRDU2UUtLdUs2OVgyNjdROXU5Ym9MU2lzZFdFbEZSNDNiVVphX3dmTC15X3ItcmVfQmZPaTFGRTZiRW9jQS1zeDhMRWFWS0dGRlBnSUEzWXlVVWpzWlIwYW5feVItRzRSTDFWSzhRU3FOejNsSTg4VGVfRTFJMkhpOEJpNGpKaDdKbVlOZy1OT0pyZDdhUzdZdW9rZlhYWktnUWdXV0pGSEJNSlpsbHlIVzZ2U0Z5WEhRaHBodEZPTllrRHdZWFZFR1k2dUwxRFV0MEN0RFpBNEl1Z3RWb3VZUjl6MXNCeTBZLUJ3RnRGdlB3d09wNGRYSXBmWHlFSlk1RmR1TGwyTnAzbDJoc0Y40gGUAkFVX3lxTE5xWThpejVyZWotbHIwdDBmSG1wVGZKSy1uRlRFNWVmdjdremxiN2ZtdkVfVUZMbEh3dFdSS1JlRlZIT3NRLUlIVnNrRWZTenRGVDd4c19tTkY2aGMwem9Sd2hnaXY3UVhPaVdOamtmMEVkNnhqR2kzSnNZcHlRVjVmOWN1blljSGdPMmRKNHNuQ2kzT3lNcTBCc01KZzNKWnBCY0N3b252TmVOaUxoVWN5YktfMjNWSWxxVVVPN00xa09mUl9iRjAxX3dLczRrQk92SVBWRHFENWI1WV9fSTdBVGxWUXl0THg1cXJXTFdNQnFrWUFMYnZrOTVMQk9fTlhnazQxN1BRWEJSMnNWOFVLZUdfTw?oc=5
 
-- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
-  A border official's remarks cast a shadow over India
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
+- Today News Headlines for School Assembly, October 29, 2026: India invites Pakistan to SCO meet; thousands evacuated as Cyclone Arnab hits eastern India - The Indian Express
+  The Indian Express reports that thousands have been evacuated as Cyclone Arnab hits eastern India.
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPV3VCNnN6bFJ3bVVnR1FQRVdPSWZDSVFsRktEbU51VmN0SE5lN0YxYnNSNjNxZ0h5ZGxvem1GblJ0V0lGS2ZlQktoRC01T1FoLTRiZGp2b2ZPbkZqVnZDY0FDc04yalViVVg4UVBjaURzSXBpU3plNzFKSjVSSUJwa1BrMkpoQjJmYUhHUFFJbU1qeG1NS0RuUDc5QTk1ZExZb3FiZ09kMUM4REJaWHBRR3hrUkFvTmtfNUdsV0NtaF91NmR6alljc1d1emJvdjlDdktTODBXVHJDaGhsREtianpfMUN1Q2Q0RUZ6R0NxX04tUXB2X0pNNkdLeXdNLUtjWm9DcHlxWmVBeHEyLS02X0hiUk9iNjlYMGNDbVB1X1FPdkgzSExPc9IBrwJBVV95cUxOc1lQNzhlcU1ZUUlJTkthMzFoM3VXN3RYWEhsWDVUWWNRN1U0RTJUTnBLcU82RVdZMm90dGIzYXpjck1IWVRZOU9CdmpMcmFKTE5ad1BnNnczekdGYVFsWHFRRzJQNUxVOG1STks0Wk9CMjA1cUNlZ3BCOHAwbGJEQWgwYVBhd3psSXdrVm1MU2ZpX0xoa3l3cEYtYlNzMG1tenl5Y0p1NVQ5eVFWaEFfaFFOWVd0blpzc2wwQ1hxdjZveUpVbkp0UnQtdzlaRXVtNTNwNjh3OWRXeTVmbXVaY3FhQXBaOWNIZWo2Z3ZRWkN2N29kLU1UcnNHLVJVSzNLTGg0cU80TVF0dHdGLTU3X1QyS1ViQm9xZk01ZGYxY3gybDRGenZ3U0xQeGJnYlE?oc=5
 
-- Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
-  Ambani’s Jio reaches $
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
+- Exclusive: Holiday Tribe In Talks To Raise ₹50 Cr From RPSG Capital Ventures, Others
+  Traveltech startup Holiday Tribe is in talks to raise around ₹50 Cr (about $5.2 Mn) in a fresh funding round.
+  🔗 https://inc42.com/buzz/holiday-tribe-in-talks-to-raise-%e2%82%b950-cr-from-rpsg-capital-ventures-others/
+
+- Why Indian AI Founders Are Eyeing Silicon Valley And What They Risk Leaving Behind
+  When AI-powered sales intelligence startup Reo.Dev raised $11.3 Mn in July 2026, its priorities reflected a growing reality for Indian startups.
+  🔗 https://inc42.com/resources/why-indian-ai-founders-are-eyeing-silicon-valley-and-what-they-risk-leaving-behind/
+
+- Meesho Q2: Loss Narrows 68% YoY To ₹132 Cr, Revenue Jumps 34%
+  Ecommerce major Meesho reported a 68% decline in its consolidated net loss to ₹132.5 Cr in the September quarter.
+  🔗 https://inc42.com/buzz/meesho-q2-loss-narrows-68-yoy-to-%e2%82%b9132-cr-revenue-jumps-34-yoy/
 
 - How Moms Home Built A ₹10 Cr Quick Commerce Business By Rethinking Baby Essentials
   For a parent preparing for a newborn, a last-minute hospital bag purchase and a carefully planned baby bedding purchase serve.
@@ -168,97 +180,85 @@
   AI unicorn Sarvam AI is reportedly in talks to raise funds from Nasdaq-listed IT services company Cognizant Technology Solutions.
   🔗 https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/
 
-- Sanjeev Bikhchandani To Take Over As Info Edge Group CEO, Hitesh Oberoi Steps Down
-  Naukri parent Info Edge said founder and vice chairman Sanjeev Bikhchandani will take over as executive vice chairman, MD
-  🔗 https://inc42.com/buzz/sanjeev-bikhchandani-to-take-over-as-info-edge-group-ceo-hitesh-oberoi-steps-down/
+- MEA highlights stronger linkages between Japan and northeast India - The Hindu
+  MEA highlights stronger linkages between Japan
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWE5bTdjQ2xOQURSYmdHdng2c0hkYUhVZ2xvQVk1WGdzLWI4TE51SmZQNHgzSUJnU2wzcklrWmlqNjBqaTVKR2RRLWJHcjRnbjFYTUxzbENMRFhkeUJESG1TWHBPX2c5T2Rxd3kwaWp6TENCLXc3WkFyZVhGLS1aRE1rNGFvMXprd3dRV0p6YXBVLW1nTDJSRWhDSjQxTFRVeXlKbGVvRGFGdEQtU3hEUnFoSi1GVzZSdkVGQXV6Y0NnZk3SAcoBQVVfeXFMT2VNVHp6cWx6ZENadnprWHZ4MzBNRV9kd1R3NnBVRTR1THo0ZkdtQ2lCRkh5d3JITk1IU2ZRUnlQZVdWclBlZC1XTUFia1U3R2dyNHdaTjQzNG5oUS1raWJnZFlKbUJiOERrV0pPeDk3enF0eG00S3RYVmFMLXhwV0c2NVdlTzlKODNDaC16U1hwZ2pyRWNHaG8tem9QQktCQjZuYmtZQjVWVmVtRHpLZ0RwNXd6THQzc1F1OWM3ZTdYMkhZd2RKc2drZw?oc=5
 
-- Info Edge To Exit MedCords, Unnati Online For About ₹5,000 Each
-  Naukri parent Info Edge has approved the sale of its entire stakes in MedCords and employment platform Unnati.
-  🔗 https://inc42.com/buzz/info-edge-to-exit-medcords-unnati-online-for-about-%e2%82%b95000-each/
+- Here's when Motorola's Signature 27 is landing in India - GSMArena.com news - GSMArena.com
+  Here's when Motorola's Signature 27 is landing in
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQYklrRHhNa0FlRXNIQzRneVFqNjBKUnlXZXp5bzNNWHdxaU1GRUlKbFpNOVF0a2pacWl2RzZYcHVOcUhDQUJKbTZHNEl4a2pUZVVVVHM4bDVjRDdKRjZuZks2NEFoUWprVGdMd2Y5OVJXQkJuLUkwVTRGRFVKVDNhQ2REV01EeWVsYk0wWmVPQ0laX1BjckJvN9IBlAFBVV95cUxQNEZ3YzRycWNiR2ZPaFV6S3pTWDBiQjFBNllJN19LTEZTMHNpX2pMaWREVmcwWHRBS3JkejhBS3p4WlBMTTZIYVhWQ0hvLW1fOVdrTTZjVlQyd0tKTEk3eUZTZk1EM0QxSVpQdTg3c0hOd1JVMHl5aUc3QUZ3NlpJRDlVcGdmMVFKUXJ5VlBXVXRBQU1C?oc=5
 
-- Astrotalk’s FY26 Profit Jumps 10X To ₹222 Cr, Revenue Zooms 55% YoY
-  Online astrology platform Astrotalk reported a 895% increase in its consolidated net profit to ₹222 Cr in FY26 from around&#8230.
-  🔗 https://inc42.com/buzz/astrotalks-fy26-profit-jumps-10x-to-%e2%82%b9222-cr-revenue-zooms-55-yoy/
+- Weather Tomorrow: Met Department Forecasts Widespread Rain Across North India After Cyclone Arnab - NDTV
+  The Met Department Forecasts Widespread Rain Across North India
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2JOV0I1bzktVkU2QTFkdmxzbTBhVHZwVlM1Vl9Rdmo5aGpPSzFuSUVlVWpFa1VYQUN3TVg5MTc1Qy04T2p0RkJjQzBWam84Y3MybDlrWEtuWmFXZTZHVkpfSHRQUE1sNHRyT011M2NwdndfLVZFZGZhNjByakgtbnFVVGtmdDRvM2pWcktrZW9BMXlTeWpweHN4UXhXX3I3Slp5MTFRdHJjQUp4UFl1YVZ4bm9UcWdxVGM1a1pyd29uSVF0SXVudVhRR1UxR2t4bmtJ0gHbAUFVX3lxTE5ucjBfLTA2dDBOVTI4YkFyUWw0M3huSmExbGJpdUVQT3VIampVQWlPNWVCcS1NbTFyRjRzUnplMHYtbGZHTFl6d2V0Q2ZWREFDNDlEby1ZbEZNYkxsUG9zRU42VGxsZ1p2ZmFQOVMwUkl1clVETk1ScC1GUjNfTmZmcFZTZGZKX19BbHo4TDMydm5XY0NhNDNqblpXTHdnRzRNeEFkYnFpQzlMUUhhbnRSRHdlaTQxSnM4WEtiMkgzUFNHbEN1VEg3ajhfXzRPcVk2MXNrVVgtN0Fsdw?oc=5
 
-- Israel elections: Understanding how Knesset polls work vs India’s system - The Hindu
-  The Hindu is a leading newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm9saW9JNTJ3VnNwcDJ2UEViVnNHVFB2Q2RqNkVTYndOU0tzbU1KeFBlVGIyQXo4RW9rREpXbmNaTm4xTUNsREl6dWF5OUhlZHFZd1JNTXRBcFE5dVZQcERsZExRNTVxMWZINkhsRjdBRzVfRzA0cC1uNkROcl9mZnRZYkFEbHhLM0QxV3hwUGdTSC1uRGQ5TG10MzgtNFI3cGNHMG5ibUlFQVc3NEtleG5rRlN2ZkxVbXluS25TZUNiaUFIcVBfa1NB0gHQAUFVX3lxTE0yT0twcGlkQU8xMGFQbS1jV051SGluVG1YQ003RmJkTzJLRVN3cGZQcXJFLThQSUJhVjYyQ00ya0FIdXZITFU4QmJsWXJOczJ4MUluVjEzRG9ZV19BS09JN3ZXRlpDR2Nza0ZJVDQ0bWl5M3lLOGJBTHpMZk41VkhUb3N0c0ZDeWdtdllnRkJqTVQ0eURPeDdCdnhDRG1WaU1vTmxMeW1iQ2JPUk1GTmZwZkV3ZUwta181bUpHVkpsMHJrektSS3ZmUnpuMmw0dlg?oc=5
+- Severe cyclonic storm highlights: Cyclone Arnab to weaken further by midnight, move north-northwestwards, says IMD | Hindustan Times - Hindustan Times
+  Cyclone Arnab to weaken further by midnight, move north-northwestwards.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNRDU2UUtLdUs2OVgyNjdROXU5Ym9MU2lzZFdFbEZSNDNiVVphX3dmTC15X3ItcmVfQmZPaTFGRTZiRW9jQS1zeDhMRWFWS0dGRlBnSUEzWXlVVWpzWlIwYW5feVItRzRSTDFWSzhRU3FOejNsSTg4VGVfRTFJMkhpOEJpNGpKaDdKbVlOZy1OT0pyZDdhUzdZdW9rZlhYWktnUWdXV0pGSEJNSlpsbHlIVzZ2U0Z5WEhRaHBodEZPTllrRHdZWFZFR1k2dUwxRFV0MEN0RFpBNEl1Z3RWb3VZUjl6MXNCeTBZLUJ3RnRGdlB3d09wNGRYSXBmWHlFSlk1RmR1TGwyTnAzbDJoc0Y40gGUAkFVX3lxTE5xWThpejVyZWotbHIwdDBmSG1wVGZKSy1uRlRFNWVmdjdremxiN2ZtdkVfVUZMbEh3dFdSS1JlRlZIT3NRLUlIVnNrRWZTenRGVDd4c19tTkY2aGMwem9Sd2hnaXY3UVhPaVdOamtmMEVkNnhqR2kzSnNZcHlRVjVmOWN1blljSGdPMmRKNHNuQ2kzT3lNcTBCc01KZzNKWnBCY0N3b252TmVOaUxoVWN5YktfMjNWSWxxVVVPN00xa09mUl9iRjAxX3dLczRrQk92SVBWRHFENWI1WV9fSTdBVGxWUXl0THg1cXJXTFdNQnFrWUFMYnZrOTVMQk9fTlhnazQxN1BRWEJSMnNWOFVLZUdfTw?oc=5
 
-- Global Money That Left India Returning Now: NSE CEO Explains At NDTV Profit Ignite - NDTV
-  The NSE CEO explains how Indian investors are returning to India
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa25IVHhNcjFHdE44YU5JdFRrb3FySWM4TjJqRmhaVFVXS29yeU53ZldxeGp3Z2pFWGJnYUV2Q1VZNjlZNzlGendZZ2ZqSHB6YU53ZWRwaENNbjV6eks3ckdZRU81cklzWmFGNFZHM1djX2s1UWhad1IwMi0zRFotWTlzbXdhNHhBN0J6MXNGS0hnVEJ4UXpUSmQySXZaZl9sOXBSVVhWY0FpUlJlSnR6cW9RUDhEdHZVTldjZ9IBxAFBVV95cUxPb3RFbnFFUldqMVQ2eW5PNEdtWVJPQkY1ZFN6YXBnZ1RFWHhhaVBITjU0bktva3RvZGZxWmoxb0NFR1NrZjllR1dBbDBMNTl1Si1tYmUyRVhuZGE2YVJBcWM2Z1lNMFR4ejVwRXY0WDk0eFhhTDJGa3lWVUhQOE9Cd01xVHo4VW54T0J0R09UNXBjNjgyZDRLWjE1bzdVZ21ocmh3RFMyMFN2eTdlMlU5MmluaTdneTlHeGE1SmdTbWRHTDl1?oc=5
+- Today News Headlines for School Assembly, October 29, 2026: India invites Pakistan to SCO meet; thousands evacuated as Cyclone Arnab hits eastern India - The Indian Express
+  The Indian Express reports that thousands have been evacuated as Cyclone Arnab hits eastern India.
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPV3VCNnN6bFJ3bVVnR1FQRVdPSWZDSVFsRktEbU51VmN0SE5lN0YxYnNSNjNxZ0h5ZGxvem1GblJ0V0lGS2ZlQktoRC01T1FoLTRiZGp2b2ZPbkZqVnZDY0FDc04yalViVVg4UVBjaURzSXBpU3plNzFKSjVSSUJwa1BrMkpoQjJmYUhHUFFJbU1qeG1NS0RuUDc5QTk1ZExZb3FiZ09kMUM4REJaWHBRR3hrUkFvTmtfNUdsV0NtaF91NmR6alljc1d1emJvdjlDdktTODBXVHJDaGhsREtianpfMUN1Q2Q0RUZ6R0NxX04tUXB2X0pNNkdLeXdNLUtjWm9DcHlxWmVBeHEyLS02X0hiUk9iNjlYMGNDbVB1X1FPdkgzSExPc9IBrwJBVV95cUxOc1lQNzhlcU1ZUUlJTkthMzFoM3VXN3RYWEhsWDVUWWNRN1U0RTJUTnBLcU82RVdZMm90dGIzYXpjck1IWVRZOU9CdmpMcmFKTE5ad1BnNnczekdGYVFsWHFRRzJQNUxVOG1STks0Wk9CMjA1cUNlZ3BCOHAwbGJEQWgwYVBhd3psSXdrVm1MU2ZpX0xoa3l3cEYtYlNzMG1tenl5Y0p1NVQ5eVFWaEFfaFFOWVd0blpzc2wwQ1hxdjZveUpVbkp0UnQtdzlaRXVtNTNwNjh3OWRXeTVmbXVaY3FhQXBaOWNIZWo2Z3ZRWkN2N29kLU1UcnNHLVJVSzNLTGg0cU80TVF0dHdGLTU3X1QyS1ViQm9xZk01ZGYxY3gybDRGenZ3U0xQeGJnYlE?oc=5
 
-- L&T and BAE Systems start production of BVS 10 Sindhu ATVs for Indian Army's high-altitude operations - The Economic Times
-  AE Systems start production of BVS 10 Sindhu ATVs for Indian Army's
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPWlpBbDEyQTZJX21jUTBDNFhCTTVYLUxOakVUMGtPeHB5akVnTW9IMl9EbWd2ZldhVXdXOXdhMy03bUcxTUdxSXlHQjdKR1U1aENUeTAyd2V6Q1kzVXNwUXJpNW1zeEJvN0hCZEViZnZZU3NDM194WGRfY1NyLW5BWktsR09IVlQ4Y0tPSE5OTEVOS2JPRXI0aG5QclR5VDg3MFpER3ZwT1VRTTJ5S3VBT2QtZG9naHNUa2Fzdk1OZzltWFNUZHdmRTRLckRFVUlzS1F2dWdnUVVpQ0Fldld5ODZSUVNoWllNcXJvRXdkQ1NVZDJOcXJ6RDU0NFZhVnJFanduT01kRGhkTWRlc2VnZUdYcWJEU0ZyeWfSAf8BQVVfeXFMUFBMdmVIazcyclVPRjVhVXVNOG5kR1pFbGdXVTNnNWJxc1NOQ0x4bmd1SHczSmxEdnBhUDRtajN1S3p3LWViSWU2akVTNjAxUUh3VGUzbFcwVXNBVlNoRHR1c3ExWjhqbVJzM2NkWVNWNnN5cXA2aHd3R1M5bHluLXJoUXpQbC1TV2l5SVNNMTZaUk50MVNRZ1Y5NmY4SzhaSC1VUW1uUExGZ1VSSDlZajR1RmtWLVFpaEp6ZmxpVkpwZWpSZGNPVlZjQkNHRFJoUjBLa1dva2d4Rnozbmg4d2NUdFB5WFFuNEhxWm5raEtmY28tRFFDaGF3emRQUDQ0?oc=5
+- MEA highlights stronger linkages between Japan and northeast India - The Hindu
+  MEA highlights stronger linkages between Japan
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWE5bTdjQ2xOQURSYmdHdng2c0hkYUhVZ2xvQVk1WGdzLWI4TE51SmZQNHgzSUJnU2wzcklrWmlqNjBqaTVKR2RRLWJHcjRnbjFYTUxzbENMRFhkeUJESG1TWHBPX2c5T2Rxd3kwaWp6TENCLXc3WkFyZVhGLS1aRE1rNGFvMXprd3dRV0p6YXBVLW1nTDJSRWhDSjQxTFRVeXlKbGVvRGFGdEQtU3hEUnFoSi1GVzZSdkVGQXV6Y0NnZk3SAcoBQVVfeXFMT2VNVHp6cWx6ZENadnprWHZ4MzBNRV9kd1R3NnBVRTR1THo0ZkdtQ2lCRkh5d3JITk1IU2ZRUnlQZVdWclBlZC1XTUFia1U3R2dyNHdaTjQzNG5oUS1raWJnZFlKbUJiOERrV0pPeDk3enF0eG00S3RYVmFMLXhwV0c2NVdlTzlKODNDaC16U1hwZ2pyRWNHaG8tem9QQktCQjZuYmtZQjVWVmVtRHpLZ0RwNXd6THQzc1F1OWM3ZTdYMkhZd2RKc2drZw?oc=5
 
-- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
-  A border official's remarks cast a shadow over India
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
+- Here's when Motorola's Signature 27 is landing in India - GSMArena.com news - GSMArena.com
+  Here's when Motorola's Signature 27 is landing in
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQYklrRHhNa0FlRXNIQzRneVFqNjBKUnlXZXp5bzNNWHdxaU1GRUlKbFpNOVF0a2pacWl2RzZYcHVOcUhDQUJKbTZHNEl4a2pUZVVVVHM4bDVjRDdKRjZuZks2NEFoUWprVGdMd2Y5OVJXQkJuLUkwVTRGRFVKVDNhQ2REV01EeWVsYk0wWmVPQ0laX1BjckJvN9IBlAFBVV95cUxQNEZ3YzRycWNiR2ZPaFV6S3pTWDBiQjFBNllJN19LTEZTMHNpX2pMaWREVmcwWHRBS3JkejhBS3p4WlBMTTZIYVhWQ0hvLW1fOVdrTTZjVlQyd0tKTEk3eUZTZk1EM0QxSVpQdTg3c0hOd1JVMHl5aUc3QUZ3NlpJRDlVcGdmMVFKUXJ5VlBXVXRBQU1C?oc=5
 
-- Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
-  Ambani’s Jio reaches $
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
+- Weather Tomorrow: Met Department Forecasts Widespread Rain Across North India After Cyclone Arnab - NDTV
+  The Met Department Forecasts Widespread Rain Across North India
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2JOV0I1bzktVkU2QTFkdmxzbTBhVHZwVlM1Vl9Rdmo5aGpPSzFuSUVlVWpFa1VYQUN3TVg5MTc1Qy04T2p0RkJjQzBWam84Y3MybDlrWEtuWmFXZTZHVkpfSHRQUE1sNHRyT011M2NwdndfLVZFZGZhNjByakgtbnFVVGtmdDRvM2pWcktrZW9BMXlTeWpweHN4UXhXX3I3Slp5MTFRdHJjQUp4UFl1YVZ4bm9UcWdxVGM1a1pyd29uSVF0SXVudVhRR1UxR2t4bmtJ0gHbAUFVX3lxTE5ucjBfLTA2dDBOVTI4YkFyUWw0M3huSmExbGJpdUVQT3VIampVQWlPNWVCcS1NbTFyRjRzUnplMHYtbGZHTFl6d2V0Q2ZWREFDNDlEby1ZbEZNYkxsUG9zRU42VGxsZ1p2ZmFQOVMwUkl1clVETk1ScC1GUjNfTmZmcFZTZGZKX19BbHo4TDMydm5XY0NhNDNqblpXTHdnRzRNeEFkYnFpQzlMUUhhbnRSRHdlaTQxSnM4WEtiMkgzUFNHbEN1VEg3ajhfXzRPcVk2MXNrVVgtN0Fsdw?oc=5
 
-- Israel elections: Understanding how Knesset polls work vs India’s system - The Hindu
-  The Hindu is a leading newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm9saW9JNTJ3VnNwcDJ2UEViVnNHVFB2Q2RqNkVTYndOU0tzbU1KeFBlVGIyQXo4RW9rREpXbmNaTm4xTUNsREl6dWF5OUhlZHFZd1JNTXRBcFE5dVZQcERsZExRNTVxMWZINkhsRjdBRzVfRzA0cC1uNkROcl9mZnRZYkFEbHhLM0QxV3hwUGdTSC1uRGQ5TG10MzgtNFI3cGNHMG5ibUlFQVc3NEtleG5rRlN2ZkxVbXluS25TZUNiaUFIcVBfa1NB0gHQAUFVX3lxTE0yT0twcGlkQU8xMGFQbS1jV051SGluVG1YQ003RmJkTzJLRVN3cGZQcXJFLThQSUJhVjYyQ00ya0FIdXZITFU4QmJsWXJOczJ4MUluVjEzRG9ZV19BS09JN3ZXRlpDR2Nza0ZJVDQ0bWl5M3lLOGJBTHpMZk41VkhUb3N0c0ZDeWdtdllnRkJqTVQ0eURPeDdCdnhDRG1WaU1vTmxMeW1iQ2JPUk1GTmZwZkV3ZUwta181bUpHVkpsMHJrektSS3ZmUnpuMmw0dlg?oc=5
+- Severe cyclonic storm highlights: Cyclone Arnab to weaken further by midnight, move north-northwestwards, says IMD | Hindustan Times - Hindustan Times
+  Cyclone Arnab to weaken further by midnight, move north-northwestwards.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNRDU2UUtLdUs2OVgyNjdROXU5Ym9MU2lzZFdFbEZSNDNiVVphX3dmTC15X3ItcmVfQmZPaTFGRTZiRW9jQS1zeDhMRWFWS0dGRlBnSUEzWXlVVWpzWlIwYW5feVItRzRSTDFWSzhRU3FOejNsSTg4VGVfRTFJMkhpOEJpNGpKaDdKbVlOZy1OT0pyZDdhUzdZdW9rZlhYWktnUWdXV0pGSEJNSlpsbHlIVzZ2U0Z5WEhRaHBodEZPTllrRHdZWFZFR1k2dUwxRFV0MEN0RFpBNEl1Z3RWb3VZUjl6MXNCeTBZLUJ3RnRGdlB3d09wNGRYSXBmWHlFSlk1RmR1TGwyTnAzbDJoc0Y40gGUAkFVX3lxTE5xWThpejVyZWotbHIwdDBmSG1wVGZKSy1uRlRFNWVmdjdremxiN2ZtdkVfVUZMbEh3dFdSS1JlRlZIT3NRLUlIVnNrRWZTenRGVDd4c19tTkY2aGMwem9Sd2hnaXY3UVhPaVdOamtmMEVkNnhqR2kzSnNZcHlRVjVmOWN1blljSGdPMmRKNHNuQ2kzT3lNcTBCc01KZzNKWnBCY0N3b252TmVOaUxoVWN5YktfMjNWSWxxVVVPN00xa09mUl9iRjAxX3dLczRrQk92SVBWRHFENWI1WV9fSTdBVGxWUXl0THg1cXJXTFdNQnFrWUFMYnZrOTVMQk9fTlhnazQxN1BRWEJSMnNWOFVLZUdfTw?oc=5
 
-- Global Money That Left India Returning Now: NSE CEO Explains At NDTV Profit Ignite - NDTV
-  The NSE CEO explains how Indian investors are returning to India
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa25IVHhNcjFHdE44YU5JdFRrb3FySWM4TjJqRmhaVFVXS29yeU53ZldxeGp3Z2pFWGJnYUV2Q1VZNjlZNzlGendZZ2ZqSHB6YU53ZWRwaENNbjV6eks3ckdZRU81cklzWmFGNFZHM1djX2s1UWhad1IwMi0zRFotWTlzbXdhNHhBN0J6MXNGS0hnVEJ4UXpUSmQySXZaZl9sOXBSVVhWY0FpUlJlSnR6cW9RUDhEdHZVTldjZ9IBxAFBVV95cUxPb3RFbnFFUldqMVQ2eW5PNEdtWVJPQkY1ZFN6YXBnZ1RFWHhhaVBITjU0bktva3RvZGZxWmoxb0NFR1NrZjllR1dBbDBMNTl1Si1tYmUyRVhuZGE2YVJBcWM2Z1lNMFR4ejVwRXY0WDk0eFhhTDJGa3lWVUhQOE9Cd01xVHo4VW54T0J0R09UNXBjNjgyZDRLWjE1bzdVZ21ocmh3RFMyMFN2eTdlMlU5MmluaTdneTlHeGE1SmdTbWRHTDl1?oc=5
+- Today News Headlines for School Assembly, October 29, 2026: India invites Pakistan to SCO meet; thousands evacuated as Cyclone Arnab hits eastern India - The Indian Express
+  The Indian Express reports that thousands have been evacuated as Cyclone Arnab hits eastern India.
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPV3VCNnN6bFJ3bVVnR1FQRVdPSWZDSVFsRktEbU51VmN0SE5lN0YxYnNSNjNxZ0h5ZGxvem1GblJ0V0lGS2ZlQktoRC01T1FoLTRiZGp2b2ZPbkZqVnZDY0FDc04yalViVVg4UVBjaURzSXBpU3plNzFKSjVSSUJwa1BrMkpoQjJmYUhHUFFJbU1qeG1NS0RuUDc5QTk1ZExZb3FiZ09kMUM4REJaWHBRR3hrUkFvTmtfNUdsV0NtaF91NmR6alljc1d1emJvdjlDdktTODBXVHJDaGhsREtianpfMUN1Q2Q0RUZ6R0NxX04tUXB2X0pNNkdLeXdNLUtjWm9DcHlxWmVBeHEyLS02X0hiUk9iNjlYMGNDbVB1X1FPdkgzSExPc9IBrwJBVV95cUxOc1lQNzhlcU1ZUUlJTkthMzFoM3VXN3RYWEhsWDVUWWNRN1U0RTJUTnBLcU82RVdZMm90dGIzYXpjck1IWVRZOU9CdmpMcmFKTE5ad1BnNnczekdGYVFsWHFRRzJQNUxVOG1STks0Wk9CMjA1cUNlZ3BCOHAwbGJEQWgwYVBhd3psSXdrVm1MU2ZpX0xoa3l3cEYtYlNzMG1tenl5Y0p1NVQ5eVFWaEFfaFFOWVd0blpzc2wwQ1hxdjZveUpVbkp0UnQtdzlaRXVtNTNwNjh3OWRXeTVmbXVaY3FhQXBaOWNIZWo2Z3ZRWkN2N29kLU1UcnNHLVJVSzNLTGg0cU80TVF0dHdGLTU3X1QyS1ViQm9xZk01ZGYxY3gybDRGenZ3U0xQeGJnYlE?oc=5
 
-- L&T and BAE Systems start production of BVS 10 Sindhu ATVs for Indian Army's high-altitude operations - The Economic Times
-  AE Systems start production of BVS 10 Sindhu ATVs for Indian Army's
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPWlpBbDEyQTZJX21jUTBDNFhCTTVYLUxOakVUMGtPeHB5akVnTW9IMl9EbWd2ZldhVXdXOXdhMy03bUcxTUdxSXlHQjdKR1U1aENUeTAyd2V6Q1kzVXNwUXJpNW1zeEJvN0hCZEViZnZZU3NDM194WGRfY1NyLW5BWktsR09IVlQ4Y0tPSE5OTEVOS2JPRXI0aG5QclR5VDg3MFpER3ZwT1VRTTJ5S3VBT2QtZG9naHNUa2Fzdk1OZzltWFNUZHdmRTRLckRFVUlzS1F2dWdnUVVpQ0Fldld5ODZSUVNoWllNcXJvRXdkQ1NVZDJOcXJ6RDU0NFZhVnJFanduT01kRGhkTWRlc2VnZUdYcWJEU0ZyeWfSAf8BQVVfeXFMUFBMdmVIazcyclVPRjVhVXVNOG5kR1pFbGdXVTNnNWJxc1NOQ0x4bmd1SHczSmxEdnBhUDRtajN1S3p3LWViSWU2akVTNjAxUUh3VGUzbFcwVXNBVlNoRHR1c3ExWjhqbVJzM2NkWVNWNnN5cXA2aHd3R1M5bHluLXJoUXpQbC1TV2l5SVNNMTZaUk50MVNRZ1Y5NmY4SzhaSC1VUW1uUExGZ1VSSDlZajR1RmtWLVFpaEp6ZmxpVkpwZWpSZGNPVlZjQkNHRFJoUjBLa1dva2d4Rnozbmg4d2NUdFB5WFFuNEhxWm5raEtmY28tRFFDaGF3emRQUDQ0?oc=5
+- MEA highlights stronger linkages between Japan and northeast India - The Hindu
+  MEA highlights stronger linkages between Japan
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWE5bTdjQ2xOQURSYmdHdng2c0hkYUhVZ2xvQVk1WGdzLWI4TE51SmZQNHgzSUJnU2wzcklrWmlqNjBqaTVKR2RRLWJHcjRnbjFYTUxzbENMRFhkeUJESG1TWHBPX2c5T2Rxd3kwaWp6TENCLXc3WkFyZVhGLS1aRE1rNGFvMXprd3dRV0p6YXBVLW1nTDJSRWhDSjQxTFRVeXlKbGVvRGFGdEQtU3hEUnFoSi1GVzZSdkVGQXV6Y0NnZk3SAcoBQVVfeXFMT2VNVHp6cWx6ZENadnprWHZ4MzBNRV9kd1R3NnBVRTR1THo0ZkdtQ2lCRkh5d3JITk1IU2ZRUnlQZVdWclBlZC1XTUFia1U3R2dyNHdaTjQzNG5oUS1raWJnZFlKbUJiOERrV0pPeDk3enF0eG00S3RYVmFMLXhwV0c2NVdlTzlKODNDaC16U1hwZ2pyRWNHaG8tem9QQktCQjZuYmtZQjVWVmVtRHpLZ0RwNXd6THQzc1F1OWM3ZTdYMkhZd2RKc2drZw?oc=5
 
-- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
-  A border official's remarks cast a shadow over India
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
+- Here's when Motorola's Signature 27 is landing in India - GSMArena.com news - GSMArena.com
+  Here's when Motorola's Signature 27 is landing in
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQYklrRHhNa0FlRXNIQzRneVFqNjBKUnlXZXp5bzNNWHdxaU1GRUlKbFpNOVF0a2pacWl2RzZYcHVOcUhDQUJKbTZHNEl4a2pUZVVVVHM4bDVjRDdKRjZuZks2NEFoUWprVGdMd2Y5OVJXQkJuLUkwVTRGRFVKVDNhQ2REV01EeWVsYk0wWmVPQ0laX1BjckJvN9IBlAFBVV95cUxQNEZ3YzRycWNiR2ZPaFV6S3pTWDBiQjFBNllJN19LTEZTMHNpX2pMaWREVmcwWHRBS3JkejhBS3p4WlBMTTZIYVhWQ0hvLW1fOVdrTTZjVlQyd0tKTEk3eUZTZk1EM0QxSVpQdTg3c0hOd1JVMHl5aUc3QUZ3NlpJRDlVcGdmMVFKUXJ5VlBXVXRBQU1C?oc=5
 
-- Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
-  Ambani’s Jio reaches $
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
+- Weather Tomorrow: Met Department Forecasts Widespread Rain Across North India After Cyclone Arnab - NDTV
+  The Met Department Forecasts Widespread Rain Across North India
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2JOV0I1bzktVkU2QTFkdmxzbTBhVHZwVlM1Vl9Rdmo5aGpPSzFuSUVlVWpFa1VYQUN3TVg5MTc1Qy04T2p0RkJjQzBWam84Y3MybDlrWEtuWmFXZTZHVkpfSHRQUE1sNHRyT011M2NwdndfLVZFZGZhNjByakgtbnFVVGtmdDRvM2pWcktrZW9BMXlTeWpweHN4UXhXX3I3Slp5MTFRdHJjQUp4UFl1YVZ4bm9UcWdxVGM1a1pyd29uSVF0SXVudVhRR1UxR2t4bmtJ0gHbAUFVX3lxTE5ucjBfLTA2dDBOVTI4YkFyUWw0M3huSmExbGJpdUVQT3VIampVQWlPNWVCcS1NbTFyRjRzUnplMHYtbGZHTFl6d2V0Q2ZWREFDNDlEby1ZbEZNYkxsUG9zRU42VGxsZ1p2ZmFQOVMwUkl1clVETk1ScC1GUjNfTmZmcFZTZGZKX19BbHo4TDMydm5XY0NhNDNqblpXTHdnRzRNeEFkYnFpQzlMUUhhbnRSRHdlaTQxSnM4WEtiMkgzUFNHbEN1VEg3ajhfXzRPcVk2MXNrVVgtN0Fsdw?oc=5
 
-- Israel elections: Understanding how Knesset polls work vs India’s system - The Hindu
-  The Hindu is a leading newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm9saW9JNTJ3VnNwcDJ2UEViVnNHVFB2Q2RqNkVTYndOU0tzbU1KeFBlVGIyQXo4RW9rREpXbmNaTm4xTUNsREl6dWF5OUhlZHFZd1JNTXRBcFE5dVZQcERsZExRNTVxMWZINkhsRjdBRzVfRzA0cC1uNkROcl9mZnRZYkFEbHhLM0QxV3hwUGdTSC1uRGQ5TG10MzgtNFI3cGNHMG5ibUlFQVc3NEtleG5rRlN2ZkxVbXluS25TZUNiaUFIcVBfa1NB0gHQAUFVX3lxTE0yT0twcGlkQU8xMGFQbS1jV051SGluVG1YQ003RmJkTzJLRVN3cGZQcXJFLThQSUJhVjYyQ00ya0FIdXZITFU4QmJsWXJOczJ4MUluVjEzRG9ZV19BS09JN3ZXRlpDR2Nza0ZJVDQ0bWl5M3lLOGJBTHpMZk41VkhUb3N0c0ZDeWdtdllnRkJqTVQ0eURPeDdCdnhDRG1WaU1vTmxMeW1iQ2JPUk1GTmZwZkV3ZUwta181bUpHVkpsMHJrektSS3ZmUnpuMmw0dlg?oc=5
+- Severe cyclonic storm highlights: Cyclone Arnab to weaken further by midnight, move north-northwestwards, says IMD | Hindustan Times - Hindustan Times
+  Cyclone Arnab to weaken further by midnight, move north-northwestwards.
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNRDU2UUtLdUs2OVgyNjdROXU5Ym9MU2lzZFdFbEZSNDNiVVphX3dmTC15X3ItcmVfQmZPaTFGRTZiRW9jQS1zeDhMRWFWS0dGRlBnSUEzWXlVVWpzWlIwYW5feVItRzRSTDFWSzhRU3FOejNsSTg4VGVfRTFJMkhpOEJpNGpKaDdKbVlOZy1OT0pyZDdhUzdZdW9rZlhYWktnUWdXV0pGSEJNSlpsbHlIVzZ2U0Z5WEhRaHBodEZPTllrRHdZWFZFR1k2dUwxRFV0MEN0RFpBNEl1Z3RWb3VZUjl6MXNCeTBZLUJ3RnRGdlB3d09wNGRYSXBmWHlFSlk1RmR1TGwyTnAzbDJoc0Y40gGUAkFVX3lxTE5xWThpejVyZWotbHIwdDBmSG1wVGZKSy1uRlRFNWVmdjdremxiN2ZtdkVfVUZMbEh3dFdSS1JlRlZIT3NRLUlIVnNrRWZTenRGVDd4c19tTkY2aGMwem9Sd2hnaXY3UVhPaVdOamtmMEVkNnhqR2kzSnNZcHlRVjVmOWN1blljSGdPMmRKNHNuQ2kzT3lNcTBCc01KZzNKWnBCY0N3b252TmVOaUxoVWN5YktfMjNWSWxxVVVPN00xa09mUl9iRjAxX3dLczRrQk92SVBWRHFENWI1WV9fSTdBVGxWUXl0THg1cXJXTFdNQnFrWUFMYnZrOTVMQk9fTlhnazQxN1BRWEJSMnNWOFVLZUdfTw?oc=5
 
-- Global Money That Left India Returning Now: NSE CEO Explains At NDTV Profit Ignite - NDTV
-  The NSE CEO explains how Indian investors are returning to India
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa25IVHhNcjFHdE44YU5JdFRrb3FySWM4TjJqRmhaVFVXS29yeU53ZldxeGp3Z2pFWGJnYUV2Q1VZNjlZNzlGendZZ2ZqSHB6YU53ZWRwaENNbjV6eks3ckdZRU81cklzWmFGNFZHM1djX2s1UWhad1IwMi0zRFotWTlzbXdhNHhBN0J6MXNGS0hnVEJ4UXpUSmQySXZaZl9sOXBSVVhWY0FpUlJlSnR6cW9RUDhEdHZVTldjZ9IBxAFBVV95cUxPb3RFbnFFUldqMVQ2eW5PNEdtWVJPQkY1ZFN6YXBnZ1RFWHhhaVBITjU0bktva3RvZGZxWmoxb0NFR1NrZjllR1dBbDBMNTl1Si1tYmUyRVhuZGE2YVJBcWM2Z1lNMFR4ejVwRXY0WDk0eFhhTDJGa3lWVUhQOE9Cd01xVHo4VW54T0J0R09UNXBjNjgyZDRLWjE1bzdVZ21ocmh3RFMyMFN2eTdlMlU5MmluaTdneTlHeGE1SmdTbWRHTDl1?oc=5
-
-- L&T and BAE Systems start production of BVS 10 Sindhu ATVs for Indian Army's high-altitude operations - The Economic Times
-  AE Systems start production of BVS 10 Sindhu ATVs for Indian Army's
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPWlpBbDEyQTZJX21jUTBDNFhCTTVYLUxOakVUMGtPeHB5akVnTW9IMl9EbWd2ZldhVXdXOXdhMy03bUcxTUdxSXlHQjdKR1U1aENUeTAyd2V6Q1kzVXNwUXJpNW1zeEJvN0hCZEViZnZZU3NDM194WGRfY1NyLW5BWktsR09IVlQ4Y0tPSE5OTEVOS2JPRXI0aG5QclR5VDg3MFpER3ZwT1VRTTJ5S3VBT2QtZG9naHNUa2Fzdk1OZzltWFNUZHdmRTRLckRFVUlzS1F2dWdnUVVpQ0Fldld5ODZSUVNoWllNcXJvRXdkQ1NVZDJOcXJ6RDU0NFZhVnJFanduT01kRGhkTWRlc2VnZUdYcWJEU0ZyeWfSAf8BQVVfeXFMUFBMdmVIazcyclVPRjVhVXVNOG5kR1pFbGdXVTNnNWJxc1NOQ0x4bmd1SHczSmxEdnBhUDRtajN1S3p3LWViSWU2akVTNjAxUUh3VGUzbFcwVXNBVlNoRHR1c3ExWjhqbVJzM2NkWVNWNnN5cXA2aHd3R1M5bHluLXJoUXpQbC1TV2l5SVNNMTZaUk50MVNRZ1Y5NmY4SzhaSC1VUW1uUExGZ1VSSDlZajR1RmtWLVFpaEp6ZmxpVkpwZWpSZGNPVlZjQkNHRFJoUjBLa1dva2d4Rnozbmg4d2NUdFB5WFFuNEhxWm5raEtmY28tRFFDaGF3emRQUDQ0?oc=5
-
-- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
-  A border official's remarks cast a shadow over India
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
-
-- Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
-  Ambani’s Jio reaches $
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
-
-- The fight against misinformation cannot rely on technology alone - The Indian Express
-  The fight against misinformation cannot rely on technology alone
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnBUX2VKMWZxZUVNZXpTeTVPbVpkaTMzbU9HM3k1MjhYTDZzalZnQzVrVk1XUDVremVUTi1HRW9iNU40blJmYmItM1BNTkpFakF5b1BpZVlDT2R0V0xoTURSM3ZoMEI4U1YtbVNKOVVMd2syNEVpOWEzMGRRQllTYTlIU1JsMHg2UmNHYUdxOUhSak5KQkstWGg4RU1VTDJoLWpFSHdfbTB2X1VxaTF1Zl9sc0pXTjA5Y0I3cURFaGpQUdIByAFBVV95cUxNcGFsREFnT2pCaUxWUHFlcVZJMXMxY2ZSWmxFVWJzUXh0RFM1OWdIaEdTQzRvU1FuRXpDSXRvQlVmTi1UZ3VZSTNkdGNWUU5FV3VGcXNoak16UDdVVUFBbzJmQmxzSE0yTkxlWlpFQUZsOF8yaFhzdUNjakxnX0FRNWlNdnFyREJyRzdmam9PbXlqUlZxNmRmanFGZENjMVFIZUVwbU5mX2hCa3Blc0NxWXdzN2hBMm1QaU5Mc3BaLTY4enRfd3FQSw?oc=5
+- Today News Headlines for School Assembly, October 29, 2026: India invites Pakistan to SCO meet; thousands evacuated as Cyclone Arnab hits eastern India - The Indian Express
+  The Indian Express reports that thousands have been evacuated as Cyclone Arnab hits eastern India.
+  🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPV3VCNnN6bFJ3bVVnR1FQRVdPSWZDSVFsRktEbU51VmN0SE5lN0YxYnNSNjNxZ0h5ZGxvem1GblJ0V0lGS2ZlQktoRC01T1FoLTRiZGp2b2ZPbkZqVnZDY0FDc04yalViVVg4UVBjaURzSXBpU3plNzFKSjVSSUJwa1BrMkpoQjJmYUhHUFFJbU1qeG1NS0RuUDc5QTk1ZExZb3FiZ09kMUM4REJaWHBRR3hrUkFvTmtfNUdsV0NtaF91NmR6alljc1d1emJvdjlDdktTODBXVHJDaGhsREtianpfMUN1Q2Q0RUZ6R0NxX04tUXB2X0pNNkdLeXdNLUtjWm9DcHlxWmVBeHEyLS02X0hiUk9iNjlYMGNDbVB1X1FPdkgzSExPc9IBrwJBVV95cUxOc1lQNzhlcU1ZUUlJTkthMzFoM3VXN3RYWEhsWDVUWWNRN1U0RTJUTnBLcU82RVdZMm90dGIzYXpjck1IWVRZOU9CdmpMcmFKTE5ad1BnNnczekdGYVFsWHFRRzJQNUxVOG1STks0Wk9CMjA1cUNlZ3BCOHAwbGJEQWgwYVBhd3psSXdrVm1MU2ZpX0xoa3l3cEYtYlNzMG1tenl5Y0p1NVQ5eVFWaEFfaFFOWVd0blpzc2wwQ1hxdjZveUpVbkp0UnQtdzlaRXVtNTNwNjh3OWRXeTVmbXVaY3FhQXBaOWNIZWo2Z3ZRWkN2N29kLU1UcnNHLVJVSzNLTGg0cU80TVF0dHdGLTU3X1QyS1ViQm9xZk01ZGYxY3gybDRGenZ3U0xQeGJnYlE?oc=5
 
 - 'An annoying buzz': The search for stealthier drones - BBC
   'An annoying buzz': The
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lX2I4dTd4SXhjdEo2bUtTOTZlVVhGYWdnbkp3OVBWb2VYc2JlWktLQU9pSlpUQkozNmx5c0Rmay0yWHZsSThRbTNhS3hnc3ZiV0FSXzZQLXRac3c?oc=5
 
-- PM Modi says, India must embrace emerging technologies and lead world in creating them - News On AIR
-  PM Modi says, India must embrace emerging technologies and lead world in creating
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHdUVnFwdWEzNjJublV4TFlhYzd5NHIzRzRqbGFIaXRIQk8yaFVCeExjMG1qOG5NZkN6SFV4YzBJWHZldmoxX3BHTEFteWs3a1lILWU3V0Z6WDYtTDYxbm5hX0pUWnByQVcxcm1MeXhad0doREpoN0JTVVcxcDh6X2xQaWMxY3prU2IyRGNkVURWQXkyYm1tUEtxNnVyRU9JOGxJS2Q5dXBrWThyWTRrNw?oc=5
+- Volkswagen, in strategy shift, plans to globalise China-developed technology - Reuters
+  Volkswagen, in strategy shift
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUpOYjRPbVZuMzdSa0U4R3E2MUpiZDdzTzNxLWx4U3o4UnpnV0NaNjkwTzFlcmItSGVveHhoUktBUU94MDBXVWVfeG5vd2Y1Y2xxOTNPTWl4YXMxNURsV25ieDBfUHFZSUNydUVRMC1FdGZNZ0Q3WmtuQ3lfME9UTXh2Qll2aFgxajZzWEhteFd4OEpyRE9Ic2E4bmVRTXl6eHFBQk4yLXBRNWpmdUI3QzVpal9oSUk?oc=5
 
-- Emerging Science and Technology in India - ESTIC 2026 - Vajiram & Ravi
-  Vajiram & Ravi are
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHVsNENZM0hUWGlLRzE4TVBkZ2p0MlptNWhZT1U0VHdNbk9fUmxSNzZTOVA0U1NKMGotT1o3TEV3R0VKZy1MaFdaeTZWRmFtcHNBRXI3VEZsYjluVDUwc3JMeFMzSzdaWDRzckZYZVg0M0lwdk9HUXF4R0dkNjNJVw?oc=5
+- Technology Services Reinvention: AI Reshaping IT and BPM Services - Nasscom
+  Technology Services Reinvention: AI Res
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHhyZ01XMkFXb3lDTXBBdjdneGNmalRHdWxpUmhzZ1owNkJBN3EyRVFsRjc3ejJYRGVFRC0yNy1HOW11NFllS0ZWYXFHRHJsaUtUaFpzNDJOdzhvUTFoZ2YwMnpQMFNSTDdIX1ZzVG5GSnZ1WTJyY1RfUUlMdlpVd09nV3pac0FLTHdMaE1tVnowUFRfZmFNOWNMUVVuNXRleU5OVy1pU1RrU2FWMzBxRkZ2WE96dFhZ?oc=5
 
-- PM’s address during inauguration of the Emerging Science, Technology and Innovation Conclave 2026 - PM India
-  PM’s address during inauguration of the Emerging Science,
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1FIVTJEbWlBN2M5WmhVd2NnaWFPQXlpRzJQLWxWTU9NbUlTU3FtMjJlcno2TV9CVDFZWHNpd1VsUWJKa1psdFRsOGNmSGs4NnNOaDdaTzNnTEhQTXMwN3hHRnNKRWMwLWNKbG81b05yd2Vqc1pkLVo5aFN3LUpmYndacTFXb1pBb1RWUDNINEQwZ2N1QUlNY05LSWpKOHlialYzOGU2QzBaMjlGSGlRRGx3Z1dqdTBkakRmN014ZGtFYm00ZmZ3aEFTSzJyYk0wT0NOVW5LT3VxVFc2UXJnQ3d6dkVCOW40SFZz?oc=5
+- Uppal Shah conferred JITO Emerging Entrepreneur Award 2026 for technology-led innovation in sugar sector - ChiniMandi
+  Uppal Shah conferred JITO Emerging Entrepreneur Award
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPR2VKcXByNF95em1jNkdOVkU2M3M5aENZQ1FHNUZUQnJLWWdCUElXNjB1endSZGRvRjBIU18yTThCaEIzT0J5cTkza25jMDY5VWNXbzRlclBkNDMyOUhIdTlDNXBmODl4UFVLVkRoV3lMdnN2bi1GckN1Ui1LYTdyVWJRdXUxeS1WaEhmZnZQVWRyTUV6bTU5YmhXRUl0QUJzSnR1THVXa2FaeTM5eE9uZFZhaUE4aHg0cDk1cXRhTDFwXzFoV1pid09ibEY?oc=5
+
+- The fight against misinformation cannot rely on technology alone - The Indian Express
+  The fight against misinformation cannot rely on technology alone
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnBUX2VKMWZxZUVNZXpTeTVPbVpkaTMzbU9HM3k1MjhYTDZzalZnQzVrVk1XUDVremVUTi1HRW9iNU40blJmYmItM1BNTkpFakF5b1BpZVlDT2R0V0xoTURSM3ZoMEI4U1YtbVNKOVVMd2syNEVpOWEzMGRRQllTYTlIU1JsMHg2UmNHYUdxOUhSak5KQkstWGg4RU1VTDJoLWpFSHdfbTB2X1VxaTF1Zl9sc0pXTjA5Y0I3cURFaGpQUdIByAFBVV95cUxNcGFsREFnT2pCaUxWUHFlcVZJMXMxY2ZSWmxFVWJzUXh0RFM1OWdIaEdTQzRvU1FuRXpDSXRvQlVmTi1UZ3VZSTNkdGNWUU5FV3VGcXNoak16UDdVVUFBbzJmQmxzSE0yTkxlWlpFQUZsOF8yaFhzdUNjakxnX0FRNWlNdnFyREJyRzdmam9PbXlqUlZxNmRmanFGZENjMVFIZUVwbU5mX2hCa3Blc0NxWXdzN2hBMm1QaU5Mc3BaLTY4enRfd3FQSw?oc=5
 
 
-_Last updated: 2026-10-28 12:02:57 UTC_
+_Last updated: 2026-10-28 18:01:56 UTC_
