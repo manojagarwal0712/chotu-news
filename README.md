@@ -1,224 +1,264 @@
 # 📰 Daily News Summaries
 
-- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
-  A border official's remarks cast a shadow over India
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
+- Israel elections: Understanding how Knesset polls work vs India’s system - The Hindu
+  The Hindu is a leading newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm9saW9JNTJ3VnNwcDJ2UEViVnNHVFB2Q2RqNkVTYndOU0tzbU1KeFBlVGIyQXo4RW9rREpXbmNaTm4xTUNsREl6dWF5OUhlZHFZd1JNTXRBcFE5dVZQcERsZExRNTVxMWZINkhsRjdBRzVfRzA0cC1uNkROcl9mZnRZYkFEbHhLM0QxV3hwUGdTSC1uRGQ5TG10MzgtNFI3cGNHMG5ibUlFQVc3NEtleG5rRlN2ZkxVbXluS25TZUNiaUFIcVBfa1NB0gHQAUFVX3lxTE0yT0twcGlkQU8xMGFQbS1jV051SGluVG1YQ003RmJkTzJLRVN3cGZQcXJFLThQSUJhVjYyQ00ya0FIdXZITFU4QmJsWXJOczJ4MUluVjEzRG9ZV19BS09JN3ZXRlpDR2Nza0ZJVDQ0bWl5M3lLOGJBTHpMZk41VkhUb3N0c0ZDeWdtdllnRkJqTVQ0eURPeDdCdnhDRG1WaU1vTmxMeW1iQ2JPUk1GTmZwZkV3ZUwta181bUpHVkpsMHJrektSS3ZmUnpuMmw0dlg?oc=5
 
-- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
-  BJP Holds Protests Across Country, Se
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
+- Global Money That Left India Returning Now: NSE CEO Explains At NDTV Profit Ignite - NDTV
+  The NSE CEO explains how Indian investors are returning to India
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa25IVHhNcjFHdE44YU5JdFRrb3FySWM4TjJqRmhaVFVXS29yeU53ZldxeGp3Z2pFWGJnYUV2Q1VZNjlZNzlGendZZ2ZqSHB6YU53ZWRwaENNbjV6eks3ckdZRU81cklzWmFGNFZHM1djX2s1UWhad1IwMi0zRFotWTlzbXdhNHhBN0J6MXNGS0hnVEJ4UXpUSmQySXZaZl9sOXBSVVhWY0FpUlJlSnR6cW9RUDhEdHZVTldjZ9IBxAFBVV95cUxPb3RFbnFFUldqMVQ2eW5PNEdtWVJPQkY1ZFN6YXBnZ1RFWHhhaVBITjU0bktva3RvZGZxWmoxb0NFR1NrZjllR1dBbDBMNTl1Si1tYmUyRVhuZGE2YVJBcWM2Z1lNMFR4ejVwRXY0WDk0eFhhTDJGa3lWVUhQOE9Cd01xVHo4VW54T0J0R09UNXBjNjgyZDRLWjE1bzdVZ21ocmh3RFMyMFN2eTdlMlU5MmluaTdneTlHeGE1SmdTbWRHTDl1?oc=5
 
-- 18 months after Operation Sindoor, India invites Pakistan for SCO event in Delhi | India News - Hindustan Times
-  18 months after Operation Sindoor, India invites Pakistan for SCO event in
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbTQ2enNNTnp2YWw1cjRRZjNRWUszXzFwVkkzMC1iYmJHbkh2ZWctX2VzQjRLYVFnV0c4bjNqdE4wUlJ2T2RzT1NGYzUwemVVRFJIb2ljWkVMMERqRjRPUDQ5ZS1tWFFRRDExWFp6NVV2cjg0c3BuMlMxb1JZRnhLa3hmS1lFUVBUcmQ3VzJzNW9hQXE3cWdNMXFsTllOZ2lDMVg5TlNEXy1UU2tBQ19mVi02ajZkTmxKWTEzQmNRak51S3NuY2FCeGdWck5nbHBHajgxWHMzWElIUEN0SnhRZ3YtRUlhaEJseUpPZ2MzLWpHd1HSAfgBQVVfeXFMUFhQTFp1VElwdlEzUjBiSm1JeXZDM3Nvam45dkJhcWRzNlFmaEdkSHBOdXg4eW1uQk5IQ2xaQ0tFdjZTUlVITGdINEdFdDlhSVg2Z3pObENONDBZWk44Q1NaeU5XZGJlS0MweFlLOWhIdU4tWnNwTTBHRnlGVnk4U1NrNFdKLWNyNENvc1Y0bWluN1ZPeEVSQ3VaMjlTWmIxZTV0alRCT1ZvTkY2c0FQUFdMNVc0UDBpY1RoSF9CVUhMeXRzSkJpMno1VEdLRVctcnd3cXVETmpQZ1JsejhEcFl4bDZmWmhWaW9wbExIaVZaUktBQ19YVWE?oc=5
-
-- India invites Pakistan for SCO civilisational dialogue forum meet next month - The Economic Times
-  India invites Pakistan for SCO civilisational dialogue forum
-  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNMnc1X3AtMWZuNkpWMEs1TjdIbGM0ZHlkU2JobHM1cFNXNGs2c2xVNGlzUGtSal9EVlhQM3ZLOS1WU0RzNUhjdFVHeGx5ZnJKN2d1QlJCMUN4X0o4cjBhUVl6bExMZEhXV0I0LWdKbi1samxQSGN4VFh4T21uNVlUaGwycmNzRURzZ0EyaXl4Yl9nWTJVbV95b0xtUXhLUmM3RTRIYzMySnlrVG00UElJWjFlZkZNU011LU1Haml4U0g0dzRiTWh5ZWt3NmM4VHdGcDVDc2NyTzhyMWNERmcwNTA1cUI2MlFNaFhjRm9ueGR3ZXJUcGNjWjBaSnhSZGdydUljT01LVXdqTWlNTXNKVFNDLXBDTmdscDFmT3hya000WWJ0NHIwSy0tU1RSdkNFcHJfQUk3MmllYXRXOU43QjdB?oc=5
-
-- In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO Civilisational Dialogue in November - The Hindu
-  In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeTVWbWFObHJaWXprWU00S0haNmhNakRFYWhTc2ZzalJINk04eXZFNzJYUHJtRkpJMUQ4ZGVjandfX1MwMVhvVGZ1N09VejlKNzBoclFTYWZLbjdsUVc4dEt5YWdnS1JHbDFWUnVkbUNxZG1zSTlaVkcyaldMVkdGdlNjbHo3bUtlWTF4M1U5UUJ5SWdkeU9TbldDN0FwQVBYRUtvemxfOEx4OFZqa3lkTm9YaFBDeDUwWklORzdQUk1TQkpuVFg4TDlmOUJJMzlQMkdjMGlPemNsTl82UG1MeEFCNXRuR1Qwc0lpNFBUdkNRcm5NM05lOWV30gGAAkFVX3lxTE9XOEk1eWNWc2FGVnZTaVlmYVlyYTlZZW5YVmZnQ0ZZQUU2V19xWWhDM3V4eWM5MUNpcUNfbngzNkN3Sk1wUTlvQ19HYVpOOTBRenBQRmpoSU1TNVJ3aTdNYzdrRWZDR3JickxJRkdJaWMzTVNkU3BTZFJzSEhiN2ROemRtejYwaUhlcmhQWnQ1dnktSERRS2hzbmlKM1ZyZ0t0WXBzRnBlZ0RYN1pPOVJQN0EzeWFSZ1huOFk1bVJPeXE4bGdhMkJuTEgxMmdrX2tUUXdra3N4dmQ1UEZwVHZrdkd2YVRXV2g1U3BCRm5tSG4wb01ucWNSRkpVbFdiX0Q?oc=5
-
-- India’s Industrial Power Must Go Beyond Borrowed Technology - Frontline Magazine
-  India’s Industrial Power Must
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORHQxdkdEdWMwS0RENHZDbTdkNzF4eUY0RF9Wb0hOUFFYOHB2SkFsWDBhSTFSNUpaYTAzYVVkYXVELXE0ZDRzSEo5Mjc1VURpVmJ4a2liMVJVV1dpSGdRY05VS0ZyMXZlVWFucHZOZVlUQmRnOUFEb1hsUDdpMUt1SFNMaENGZjNtQTJKdS02VmNvdVY4QnFacWxlYUdBb1pKSW5MT21lOVM0UWs0d3FxWmpBMnN1WmPSAb4BQVVfeXFMTmRaMFV5ejU3U1U1emlxb0VHOVpqb3FPWm5uTFdUaVVnNDZ6Vm1TWHBlQlRHSVpvcmotV1lxdWtLWm9ubktRekNzcnRCN0xUTVVsb2ZqWTE0YzUwa3B2LWtHWW4tc3FLcExQWnQ5bmpNT0g2MEMzODB6QkJRVnJDUVJzbldVMnFUTjZqT01PQ0F6ZVVwbEoxcHdyb0wzRXNQZUJ4cjF4UURrV2ZXOFFfTUFmTWFCZ1BtNl96elI4Zw?oc=5
-
-- ‘My social life completely plummeted’: gen Z is fighting back against big tech - The Guardian
-  ‘My social life completely plummeted’: gen Z
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUljaWFWLVFQa1pURFdpUndkQlNmNDAwME9LLWZRVzU5ZjJHdFZ4dndYdWEweHFHV0xJdm5zb1hGS2ljRE5MUTk3YlRxdFY1NEJDdHduUFhFM1VVazY3YU9vcFZRMFFKc2wwSXVLTTlPaDYzeS1QeFBGeXpBX29QbA?oc=5
-
-- PM inaugurates Emerging Science, Technology and Innovation Conclave 2026 - PM India
-  PM inaugurates Emerging Science, Technology
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkQtZ3d4X3c2S051dkE4d0hmOU5fSUdzNFlBb2FBbEM5VnYxemNud1Y1SkJiVVY1Z01iR1luZnE3WDhfSFdPWHhHSjd5dlB6TGl0RjdiNDVSU1AzajhkRm5rQzc3RWVfcVFkOER3MGtrLTVTTWM3VWNZTE1zbHMtQy1vNWJTYWdDdUxfNHUzTGItUE1SWkdqT25PQVVyZVg1ODU3b19pd2YydzRqeE53RFJMMDh6Yk9QcWltS3NMWHd2T1NUdGZDRVlYVQ?oc=5
-
-- Immersive Technologies: India's $7.82 Billion Projection - Vajiram & Ravi
-  Immersive Technologies: India's
-  🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE1pNktGUC1CM3BiOXlGOEdUMWUwSU5BVEw1U0k1US00NklTU2RvTm1GMmprUmVYS3V5d3BYa0U0RGxnS2g2Skw2eFVVeWxFbXlDaHFMTUlMelNSRWhmcFVEeV9nNDBEZXc5dHl4VUI2YmlKcHBU?oc=5
-
-- Elon Musk has a 'failure warning' for these technology companies; says: Investors have already started be - The Times of India
-  Elon Musk has a 'failure warning' for these technology companies. Investors have
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTkV1ekFrMnRLY2ZhSjVPUkdSVmNOZVBmTmh6V2lkQktVWVhMUDgyeFhXTXQ4WkpjTFVjdHJ4U2gycGlKRG1CZmpNWTVjUTBqdWloUExxMHp1UTVCRWU0UXhxODJacWF4aklfUzV0bVFxUV8zOGY2Q2JNTW9yNWpnR1BHWTB0dGw1Y0RibHVKenpHbTNnZDYzdmFRY01lWlBJNjU2SmdERU5yRkZkLU9KdHg3RVdmYWViTzAxaXcyR3lsWXlsbS1YS2h2dUVucHFwWTVKeVhiTkwtOTFBSzF5dHgyUXRMY0pfQTZRWmlLT214MlNTWHdmci00MWI3LUdlZjAzamtFYU1fVWZMRTJjdnlRTm5mNmN4M3RBNFZDdldXM29RWjlMQkZB0gGvAkFVX3lxTE9hbXVwNU96ZGtYUzdqc0xKOU41SUJ2WWxzMlVoRzVQMDNtTV8yUFE1a1pyOU04QWk4Zy1XZ3I2eE9yRTB4X2x3M3duT3FoVkR5WXlqUXZkbGhzbE95Q2VTVDFJc1NoZkNJTFpXUU1SeDRodGN0TnFWRURwOWZzb0t5b0lvZ2R6RWs5ejd5eUo1aGdoaWI0YlFFQ0F1OGJuVkp0ZHBwMGlkYl9KYzczeDVfa1NqTXlNX3JQRUxlNHZTOVI4bl83eHc1VmZEOXZraHVRVl90Z2xrU0dFSGhBX1ZRbnVaREFMMXp0QzctdC1ZY0c2eWY5cVprLWZnUXczRXNldEgwVS1iM0w2OHVjVEROS2xfTFVnbHZUQmRVcFFsQlVlYlpvVlZxcHJWSUd5VQ?oc=5
-
-- BWH Hotels looks to add independent hotels in smaller cities
-  BWH Hotels is also changing its master brand to WorldHotels
-  🔗 https://www.livemint.com/companies/news/bwh-hotels-looks-to-add-independent-hotels-in-smaller-cities-11793037998733.html
-
-- IndiGo Q2 preview: Can higher airfares protect margins as fuel costs surge?
-  IndiGo’s September-quarter earnings will test whether higher fares and fuel sur
-  🔗 https://www.livemint.com/companies/company-results/indigo-q2-preview-can-higher-airfares-protect-margins-as-fuel-costs-surge-11793112180632.html
-
-- Anthropic diversifies AI chips, OpenAI turns to Google: Can Nvidia lose its dominance? What investors need to know
-  Anthropic is spreading its AI computing across Amazon, Google, Nvidia and AMD chips.
-  🔗 https://www.livemint.com/companies/news/anthropic-diversifies-ai-chips-openai-turns-to-google-can-nvidia-lose-its-dominance-what-investors-need-to-know-11793148904527.html
-
-- OpenAI turns to Google’s AI chips amid race to challenge Nvidia
-  The potential purchase complements plans to use in-house chips later this year. The move reflects efforts across the industry to develop alternatives to Nvidia processors.
-  🔗 https://www.livemint.com/companies/news/openai-turns-to-google-s-ai-chips-amid-race-to-challenge-nvidia-11793152095673.html
-
-- Ashes, India series result in record revenue, net surplus for Cricket Australia
-  Cricket Australia report record revenue
-  🔗 https://www.livemint.com/companies/ashes-india-series-result-in-record-revenue-net-surplus-for-cricket-australia-11793152578596.html
-
-- Jio IPO listing today LIVE updates: Mukesh Ambani-led Reliance company NSE, BSE debut at 10 am | Will there be profit?
-  Jio Platforms IPO Listing Live: The grey amrket is
-  🔗 https://www.livemint.com/market/ipo/jio-ipo-listing-today-live-updates-mukesh-ambani-led-reliance-company-nse-bse-debut-at-10-am-will-there-be-profit-11793157066670.html
-
-- Jio Platforms IPO listing today: Should investors chase listing gains or hold for the long term? Experts decode
-  Investors are weighing whether to book short-term gains or hold the shares for long-term wealth creation. J
-  🔗 https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-today-should-investors-chase-listing-gains-or-hold-for-the-long-term-experts-decode-11793154304687.html
-
-- Indian shares set for lower open as oil rise weighs; Jio market debut in focus
-  Oil prices climb 1.6% to $115.7 a barrel after an attack on a refinery in Saudi
-  🔗 https://www.livemint.com/market/stock-market-news/indian-shares-set-for-lower-open-as-oil-rise-weighs-jio-market-debut-in-focus-11793155090199.html
-
-- Top stocks to watch today: Jio Platforms, RIL, HUL, Adani Enterprises shares in focus on Wed, 28 Oct | Full list
-  Jio Platforms, Reliance Industries, Hindustan Unilever, Adani Enterprises, TV
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-jio-platforms-ril-hul-adani-enterprises-shares-in-focus-on-wed-28-oct-full-list-11793152271100.html
-
-- Ambani looks to defy gravity in debut after India-record Jio IPO
-  Jio Platforms Ltd. is set to debut on the stock market on Wednesday after a record-breaking initial public offering. Mukesh Ambani’s telecom
-  🔗 https://www.livemint.com/market/ambani-looks-to-defy-gravity-in-debut-after-india-record-jio-ipo-11793152669324.html
-
-- Nearly 60% of firms yet to move AI beyond pilots as deployment remains key challenge: Report
-  Nearly 60 per cent of organisations surveyed remain in the exploration or pilot stages of artificial intelligence (AI) adoption. Only around 40 per cent have moved to production or scaling.
-  🔗 https://www.livemint.com/technology/nearly-60-of-firms-yet-to-move-ai-beyond-pilots-as-deployment-remains-key-challenge-report-11793157436353.html
-
-- AI token use may jump 78% as falling prices fail to guarantee lower costs: Accenture
-  Artificial intelligence (AI) costs may not fall in line with declining token prices. Consumption is expected to surge by 78 per cent over the next two years.
-  🔗 https://www.livemint.com/technology/ai-token-use-may-jump-78-as-falling-prices-fail-to-guarantee-lower-costs-accenture-11793156289140.html
-
-- Nearly 90% of businesses are turning to tokenised money, DBS survey shows
-  Nearly 90% of businesses are turning
-  🔗 https://www.livemint.com/technology/nearly-90-of-businesses-are-turning-to-tokenised-money-dbs-survey-shows-11793152902938.html
-
-- DeepSeek AI model shows safety gaps in independent tests
-  DeepSeek AI model
-  🔗 https://www.livemint.com/technology/deepseek-ai-model-shows-safety-gaps-in-independent-tests-11793098287802.html
-
-- Agentic AI could strengthen financial-crime prevention, but governance, cost hurdles limit adoption: McKinsey
-  AI could reduce the time banks spend on know-your-customer (KYC) processes by 30 to 70 per cent. High human oversight costs and challenges related to governance and accuracy continue to hinder its wider adoption.
-  🔗 https://www.livemint.com/technology/agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey-11793086477778.html
-
-- Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap - Bloomberg.com
-  Asian Stocks Set to Gain on Resurg
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf?oc=5
-
-- Markets are beginning to catch onto the 'revenge of the old economy' trade, says oil expert - CNBC
-  Markets are beginning to catch onto the 'revenge of the old
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVRZTmQwQXRTcUlaV2tJQkZVY0tjd0k4SUdfME5TRklpRUpvSW1uSHZWMV91VkRkdEVtUGFUVkNHWHd6RzdrYnU4aEc4QnZMcGhFUUY5V3FfOHQ5MnpCNXRMcGI0aV8zMDJieUtrNDZqRVhkSE81TjhBbjJ0YVJFX3puX3cyVFlhcWprUnlmZmV3bmQyUzRLbVNWOVA0aVlkanl6ZXFxM3ZlRGZj?oc=5
-
-- Gold Clings to Gains Above $4,000 as Markets Await Fed - WSJ
-  Gold Clings to Gains Above $
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVEweGpTcFBEQ3R5aDdnOUhnaG84X2xJN2JmZ0lNVlRHU0xnOHdxVGd4dW94NmhoSTRuODVVVUtnMzg3VHJrcno5eFhoNjFOV2RQWk80ajlsYkMxUTdTUFJGOHUtenMxM0Q0TkVIVURydGRSZy1QNnlkYUFTTkcwVUs5aWJwS3p2VFFSWXdsemRiSzdsTXRrTFVOYmRRc1BqSnlpZk9EQW1qQ0xWd3Y0?oc=5
-
-- Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV
-  Is India's Stock Market Heading For Its Worst
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5
-
-- GIFT Nifty crashes over 220 pts, signals weak start for Sensex and Nifty despite global rally; US Fed in... - Moneycontrol.com
-  GIFT Nifty crashes over 220 pts, signals weak start for Sensex and N
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQODRoS2dkTW5ybk9WdnFlU216MXdvdFdkWXZ1YVlWbFRvcjYyZDFYZG9KanZueFFXazEzQ1ljRURydm9MbWlMNmM1dmY2dHpucnlXOEIzNXdWRVNBc3JCR2FnZkhZMEMwLXlpVS16UmtvNWlKR3BDRFIxb1pIY0NQN3EzNXRlNGc2Vk5yV3EtX01JOG5lUXFmM3doeS15Ml85WWMtZmtlTkFCRjdmU0licG9DUDIyZjFqMzNUUTBjRG9MQV9FVGhlYjZJV0lYQnE1elJCb1RJZFhCN2VUWEpmeURfYTYtdmM3YlVpckdORG13VHMwXzVvUWh5OURiRkFkZWh30gGIAkFVX3lxTE1yUWV2R29fUFY5TGFZWUZLRTRlX3RTQ3R3cHN5dFpxRUVqVFllUDVZMFlQZkd3cXN5MUlCWlpNMl9ZQXJEdFNuRFBfZ0E4OFBSVGtWdGE1VWo2LUNyYVg0ZEN1Y2xZRnBEQnZ4QTNFOGhjVXNCSWlhdUJfc3IwNjR3N1dDdENxbGFMelRSTEJnM1paN1RRY1dMTDBQUEg3XzhXWVU5aFQxemRXZ3ZvZUhjbWg1Q3ZzWkEzZzJkeG9NZTUzWkRVa0FNVlRQX0lIT1ZZQmZtdkItczRDME9tUnlCUU84cnU5QmNVQy1nRi1LeXI5YTVwVDFxZENUYlkzUnI1YmJKRWRXWg?oc=5
-
-- SIFs offer a middle ground between arbitrage and equity risk: AlphaGrep MF CEO Bhautik Ambani
-  AlphaGrep Mutual Fund is positioning its Eminence Hybrid Long-Short Fund as a middle-ground allocation. The strategy combines market neutral and relative value approaches, special situations, options and arbitrage.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/sifs-offer-a-middle-ground-between-arbitrage-and-equity-risk-alphagrep-mf-ceo-bhautik-ambani/articleshow/135250236.cms
-
-- Jio IPO Listing Live Updates: Jio Platforms shares to make Dalal Street debut today; check GMP and other details
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/jio-platforms-share-price-live-updates-check-jio-ipo-listing-time-on-nse-bse-gmp-allotment-latest-jio-ipo-shares-news/liveblog/135250655.cms
-
-- Data Patterns among 4 stocks showing the White Marubozu pattern
-  Four Nifty500 stocks gained over 7% and featured in StockEdge’s White Mar
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-among-4-stocks-showing-the-white-marubozu-pattern/slideshow/135250555.cms
-
-- Jio Platforms shares to be available under MTF from Day 1. What should investors know?
-  The stock commands a grey market premium of Rs 246-247 over its IPO price of Rs 1,119. The issue was subscribed 22.19 times. Analysts see long-term growth potential in Jio’s telecom leadership
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-shares-to-be-available-under-mtf-from-day-1-what-should-investors-know/articleshow/135250221.cms
-
-- Sona BLW Precision Forgings among 4 stocks showing RSI trending up
-  Four Nifty500 stocks gained over 9% and appeared in StockEdge’s RSI Trending Up scan on October
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sona-blw-precision-forgings-among-4-stocks-showing-rsi-trending-up/slideshow/135250403.cms
+- L&T and BAE Systems start production of BVS 10 Sindhu ATVs for Indian Army's high-altitude operations - The Economic Times
+  AE Systems start production of BVS 10 Sindhu ATVs for Indian Army's
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPWlpBbDEyQTZJX21jUTBDNFhCTTVYLUxOakVUMGtPeHB5akVnTW9IMl9EbWd2ZldhVXdXOXdhMy03bUcxTUdxSXlHQjdKR1U1aENUeTAyd2V6Q1kzVXNwUXJpNW1zeEJvN0hCZEViZnZZU3NDM194WGRfY1NyLW5BWktsR09IVlQ4Y0tPSE5OTEVOS2JPRXI0aG5QclR5VDg3MFpER3ZwT1VRTTJ5S3VBT2QtZG9naHNUa2Fzdk1OZzltWFNUZHdmRTRLckRFVUlzS1F2dWdnUVVpQ0Fldld5ODZSUVNoWllNcXJvRXdkQ1NVZDJOcXJ6RDU0NFZhVnJFanduT01kRGhkTWRlc2VnZUdYcWJEU0ZyeWfSAf8BQVVfeXFMUFBMdmVIazcyclVPRjVhVXVNOG5kR1pFbGdXVTNnNWJxc1NOQ0x4bmd1SHczSmxEdnBhUDRtajN1S3p3LWViSWU2akVTNjAxUUh3VGUzbFcwVXNBVlNoRHR1c3ExWjhqbVJzM2NkWVNWNnN5cXA2aHd3R1M5bHluLXJoUXpQbC1TV2l5SVNNMTZaUk50MVNRZ1Y5NmY4SzhaSC1VUW1uUExGZ1VSSDlZajR1RmtWLVFpaEp6ZmxpVkpwZWpSZGNPVlZjQkNHRFJoUjBLa1dva2d4Rnozbmg4d2NUdFB5WFFuNEhxWm5raEtmY28tRFFDaGF3emRQUDQ0?oc=5
 
 - Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
   A border official's remarks cast a shadow over India
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
 
-- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
-  BJP Holds Protests Across Country, Se
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
+- Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
+  Ambani’s Jio reaches $
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
 
-- 18 months after Operation Sindoor, India invites Pakistan for SCO event in Delhi | India News - Hindustan Times
-  18 months after Operation Sindoor, India invites Pakistan for SCO event in
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbTQ2enNNTnp2YWw1cjRRZjNRWUszXzFwVkkzMC1iYmJHbkh2ZWctX2VzQjRLYVFnV0c4bjNqdE4wUlJ2T2RzT1NGYzUwemVVRFJIb2ljWkVMMERqRjRPUDQ5ZS1tWFFRRDExWFp6NVV2cjg0c3BuMlMxb1JZRnhLa3hmS1lFUVBUcmQ3VzJzNW9hQXE3cWdNMXFsTllOZ2lDMVg5TlNEXy1UU2tBQ19mVi02ajZkTmxKWTEzQmNRak51S3NuY2FCeGdWck5nbHBHajgxWHMzWElIUEN0SnhRZ3YtRUlhaEJseUpPZ2MzLWpHd1HSAfgBQVVfeXFMUFhQTFp1VElwdlEzUjBiSm1JeXZDM3Nvam45dkJhcWRzNlFmaEdkSHBOdXg4eW1uQk5IQ2xaQ0tFdjZTUlVITGdINEdFdDlhSVg2Z3pObENONDBZWk44Q1NaeU5XZGJlS0MweFlLOWhIdU4tWnNwTTBHRnlGVnk4U1NrNFdKLWNyNENvc1Y0bWluN1ZPeEVSQ3VaMjlTWmIxZTV0alRCT1ZvTkY2c0FQUFdMNVc0UDBpY1RoSF9CVUhMeXRzSkJpMno1VEdLRVctcnd3cXVETmpQZ1JsejhEcFl4bDZmWmhWaW9wbExIaVZaUktBQ19YVWE?oc=5
+- The fight against misinformation cannot rely on technology alone - The Indian Express
+  The fight against misinformation cannot rely on technology alone
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnBUX2VKMWZxZUVNZXpTeTVPbVpkaTMzbU9HM3k1MjhYTDZzalZnQzVrVk1XUDVremVUTi1HRW9iNU40blJmYmItM1BNTkpFakF5b1BpZVlDT2R0V0xoTURSM3ZoMEI4U1YtbVNKOVVMd2syNEVpOWEzMGRRQllTYTlIU1JsMHg2UmNHYUdxOUhSak5KQkstWGg4RU1VTDJoLWpFSHdfbTB2X1VxaTF1Zl9sc0pXTjA5Y0I3cURFaGpQUdIByAFBVV95cUxNcGFsREFnT2pCaUxWUHFlcVZJMXMxY2ZSWmxFVWJzUXh0RFM1OWdIaEdTQzRvU1FuRXpDSXRvQlVmTi1UZ3VZSTNkdGNWUU5FV3VGcXNoak16UDdVVUFBbzJmQmxzSE0yTkxlWlpFQUZsOF8yaFhzdUNjakxnX0FRNWlNdnFyREJyRzdmam9PbXlqUlZxNmRmanFGZENjMVFIZUVwbU5mX2hCa3Blc0NxWXdzN2hBMm1QaU5Mc3BaLTY4enRfd3FQSw?oc=5
 
-- India invites Pakistan for SCO civilisational dialogue forum meet next month - The Economic Times
-  India invites Pakistan for SCO civilisational dialogue forum
-  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNMnc1X3AtMWZuNkpWMEs1TjdIbGM0ZHlkU2JobHM1cFNXNGs2c2xVNGlzUGtSal9EVlhQM3ZLOS1WU0RzNUhjdFVHeGx5ZnJKN2d1QlJCMUN4X0o4cjBhUVl6bExMZEhXV0I0LWdKbi1samxQSGN4VFh4T21uNVlUaGwycmNzRURzZ0EyaXl4Yl9nWTJVbV95b0xtUXhLUmM3RTRIYzMySnlrVG00UElJWjFlZkZNU011LU1Haml4U0g0dzRiTWh5ZWt3NmM4VHdGcDVDc2NyTzhyMWNERmcwNTA1cUI2MlFNaFhjRm9ueGR3ZXJUcGNjWjBaSnhSZGdydUljT01LVXdqTWlNTXNKVFNDLXBDTmdscDFmT3hya000WWJ0NHIwSy0tU1RSdkNFcHJfQUk3MmllYXRXOU43QjdB?oc=5
+- 'An annoying buzz': The search for stealthier drones - BBC
+  'An annoying buzz': The
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lX2I4dTd4SXhjdEo2bUtTOTZlVVhGYWdnbkp3OVBWb2VYc2JlWktLQU9pSlpUQkozNmx5c0Rmay0yWHZsSThRbTNhS3hnc3ZiV0FSXzZQLXRac3c?oc=5
 
-- In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO Civilisational Dialogue in November - The Hindu
-  In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeTVWbWFObHJaWXprWU00S0haNmhNakRFYWhTc2ZzalJINk04eXZFNzJYUHJtRkpJMUQ4ZGVjandfX1MwMVhvVGZ1N09VejlKNzBoclFTYWZLbjdsUVc4dEt5YWdnS1JHbDFWUnVkbUNxZG1zSTlaVkcyaldMVkdGdlNjbHo3bUtlWTF4M1U5UUJ5SWdkeU9TbldDN0FwQVBYRUtvemxfOEx4OFZqa3lkTm9YaFBDeDUwWklORzdQUk1TQkpuVFg4TDlmOUJJMzlQMkdjMGlPemNsTl82UG1MeEFCNXRuR1Qwc0lpNFBUdkNRcm5NM05lOWV30gGAAkFVX3lxTE9XOEk1eWNWc2FGVnZTaVlmYVlyYTlZZW5YVmZnQ0ZZQUU2V19xWWhDM3V4eWM5MUNpcUNfbngzNkN3Sk1wUTlvQ19HYVpOOTBRenBQRmpoSU1TNVJ3aTdNYzdrRWZDR3JickxJRkdJaWMzTVNkU3BTZFJzSEhiN2ROemRtejYwaUhlcmhQWnQ1dnktSERRS2hzbmlKM1ZyZ0t0WXBzRnBlZ0RYN1pPOVJQN0EzeWFSZ1huOFk1bVJPeXE4bGdhMkJuTEgxMmdrX2tUUXdra3N4dmQ1UEZwVHZrdkd2YVRXV2g1U3BCRm5tSG4wb01ucWNSRkpVbFdiX0Q?oc=5
+- PM Modi says, India must embrace emerging technologies and lead world in creating them - News On AIR
+  PM Modi says, India must embrace emerging technologies and lead world in creating
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHdUVnFwdWEzNjJublV4TFlhYzd5NHIzRzRqbGFIaXRIQk8yaFVCeExjMG1qOG5NZkN6SFV4YzBJWHZldmoxX3BHTEFteWs3a1lILWU3V0Z6WDYtTDYxbm5hX0pUWnByQVcxcm1MeXhad0doREpoN0JTVVcxcDh6X2xQaWMxY3prU2IyRGNkVURWQXkyYm1tUEtxNnVyRU9JOGxJS2Q5dXBrWThyWTRrNw?oc=5
 
-- The Festive Margin Crush, WeWork India’s Q2 Show & More
-  Festive Rush Comes At A Cost. India’s ecommerce sellers are heading into the festive rush with a growing cost burden.
-  🔗 https://inc42.com/buzz/the-festive-margin-crush-wework-indias-q2-show-more/
+- Emerging Science and Technology in India - ESTIC 2026 - Vajiram & Ravi
+  Vajiram & Ravi are
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHVsNENZM0hUWGlLRzE4TVBkZ2p0MlptNWhZT1U0VHdNbk9fUmxSNzZTOVA0U1NKMGotT1o3TEV3R0VKZy1MaFdaeTZWRmFtcHNBRXI3VEZsYjluVDUwc3JMeFMzSzdaWDRzckZYZVg0M0lwdk9HUXF4R0dkNjNJVw?oc=5
 
-- Exclusive: QwikBuild Raises $2.3 Mn To Expand Enterprise AI Platform
-  Bengaluru-based enterprise AI startup QwikBuild has raised $2.3 Mn (around ₹22 Cr) in a pre-seed funding round led by Japanese
-  🔗 https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/
+- PM’s address during inauguration of the Emerging Science, Technology and Innovation Conclave 2026 - PM India
+  PM’s address during inauguration of the Emerging Science,
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1FIVTJEbWlBN2M5WmhVd2NnaWFPQXlpRzJQLWxWTU9NbUlTU3FtMjJlcno2TV9CVDFZWHNpd1VsUWJKa1psdFRsOGNmSGs4NnNOaDdaTzNnTEhQTXMwN3hHRnNKRWMwLWNKbG81b05yd2Vqc1pkLVo5aFN3LUpmYndacTFXb1pBb1RWUDNINEQwZ2N1QUlNY05LSWpKOHlialYzOGU2QzBaMjlGSGlRRGx3Z1dqdTBkakRmN014ZGtFYm00ZmZ3aEFTSzJyYk0wT0NOVW5LT3VxVFc2UXJnQ3d6dkVCOW40SFZz?oc=5
 
-- Nova Spectral AI Raises ₹21.2 Cr To Build Indigenous Infrared Sensor Chips
-  Bengaluru-based Nova Spectral AI has raised ₹21.2 Cr ($2.3 Mn)
-  🔗 https://inc42.com/buzz/nova-spectral-ai-raises-%e2%82%b921-2-cr-to-build-indigenous-infrared-sensor-chips/
+- Fibe bets on AI as profit doubles ahead of  ₹1000+ crore IPO
+  Fibe is making artificial intelligence central to its lending model. Its system evaluates more than 27,000 variables, with automated decisions covering 95% of loans.
+  🔗 https://www.livemint.com/companies/news/fibe-bets-on-ai-as-profit-doubles-ahead-of-1000-crore-ipo-11793187673629.html
 
-- Exclusive: Ex-Pixxel Engineer Effy John’s Parsec Aerospace In Talks To Raise $10 Mn
-  Parsec Aerospace, founded by former Pixxel engineer Effy John, is in talks to raise around $10 Mn.
-  🔗 https://inc42.com/buzz/ex-pixxel-engineer-effy-johns-parsec-aerospace-in-talks-to-raise-10-mn/
+- Gera Developments introduces The Gera Advantage to support customers across their homeownership journey
+  Gera Developments has launched The Gera Advantage. It offers eligible homebuyers financial assistance before receiving an occupancy
+  🔗 https://www.livemint.com/companies/news/gera-developments-introduces-the-gera-advantage-to-support-customers-across-their-homeownership-journey-11793187313196.html
 
-- Live2.ai Raises ₹130 Cr To Scale AI Marketing SaaS Platform
-  Live2.ai Raises ₹130 Cr To Scale AI Marketing SaaS Platform. IvyCap Ventures led pre-Series B funding round.
-  🔗 https://inc42.com/buzz/live2-ai-raises-%e2%82%b9130-cr-to-scale-ai-marketing-saas-platform/
+- Who is Sanjeev Bikhchandani? Meet the entrepreneur taking charge of Info Edge after 27 years
+   Info Edge co-founder Sanjeev Bikhchandani will take over as executive vice chairman, managing director and group CEO from December 3, 2026. Hites
+  🔗 https://www.livemint.com/companies/people/who-is-sanjeev-bikhchandani-meet-the-entrepreneur-taking-charge-of-info-edge-after-27-years-11793183104204.html
+
+- From AI to cloud and connectivity from space: Akash Ambani announces Jio's plans to expand beyond affordable data
+  Akash Ambani, Managing Director of Jio Platforms Limited, said the next phase would go beyond affordable data to artificial intelligence, cloud computing, connected
+  🔗 https://www.livemint.com/companies/news/from-ai-to-cloud-and-connectivity-from-space-akash-ambani-announces-jios-plans-to-expand-beyond-affordable-data-11793179524098.html
+
+- Jio valued at $108 billion in IPO, joins Meta, Alibaba and SpaceX club | All you need to know
+  Jio Platforms debuted at a valuation above $100 billion. Its shares opened 21.4% above the issue price, making it India’s second-most valuable
+  🔗 https://www.livemint.com/companies/news/jio-valued-at-108-billion-in-ipo-joins-meta-alibaba-and-spacex-club-all-you-need-to-know-11793173313752.html
+
+- S&P 500 futures inch higher ahead of Fed decision. Nasdaq futures gain after SK Hynix profit boom: Live updates - CNBC
+  S&amp;P 500 futures inch higher ahead of Fed decision. Nasdaq futures
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBsTVRHVVZZQzNkSHotQ09vdW54RlVucGpqVlNDcU44bWk0NnMxZExaUkZPWGYtRFRhdGxFSjA4OUpQTzdwRGROeFRyY3pTOTVvQkowRW5Ca1NyMjdmbkl1Xzc3SGpJcUNvckl0SVlVeWxNMUp4LTNv0gF8QVVfeXFMTUQ5VHp4S2d6WFdtUkdIYlZKMGp6RVd0NUxnTm0zU2ZfOW9iVHpaWGlaaDFwQXpEMGd2TllQUFJ6ZjQ2YkVxMW5XZnRhT3dKN3hfUTVjU3BhX3J2YVlwRGRPOG5hbWN0T19aUEZWQWg1cHo3X091aURwcV9LUA?oc=5
+
+- Stock Market Today: Stock Markets Mostly Higher Ahead of Fed Rate Decision - WSJ
+  Stock Market Today: Stock Markets Mostly Higher Ahead of
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHBTLV91dEdLdmpNVWd5OF9kT2VWUEx2eTgzbU9LN2Rhd2lyakl2dDhELTlPVmJ2Q3ZreUEwODhNcVBWSERWVlZ5YWZxS3gwVVdnNnZnNkVKY3N3Smt3MWdyWFVaR2M2Tk1pLU40X1M1TDlVMlJBSURRMTZKZnpJdlR5TGo?oc=5
+
+- Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings - Yahoo Finance
+  Stock market today: Dow futures fall, S&amp;P 500 and Nasdaq futures
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkpuSUVzcGt0bTd1YktkaThFSTI1elk5OG51cmhRQnZUa0VOYjJRMENGWFBpa1lKYjlIUEtILW5sVVN4cG1hSHdDd2pqc0VTZUVrUHBSX2FyTlNfdm02c2hKZkF2d2h6SXB2Nmd0VTZRYWxJMFJ5Y1A0NHhzZXlvSEVOSXg4c2VfQzF1aG5VaWMtVnE0UVpTWG9EMVBxdlZyOHhZVWZoQS0yUFhuMm9raTd3MlRZUmxsellfY215TWk3d2puMFhpTFhQU1g?oc=5
+
+- Hyundai Bayon to Be Exported From India to 50 Markets Globally - CarWale
+  Hyundai Bayon to be Exported From
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEZFNzBJcVJxR29ibC1lSjR6aHczVWtFaGUzWFVGTS1EdE8xLWZzS3B3eGdXOEVmbzcwYklEU1hfRGlnMm9OSVh1N1hBb3d0RnJTdFVPT3RNbEkzUWJxN3JMNG5yN2pmLXBINV9BR0NCS2ZvZHRUOHpFa1ZCNWJnOWRwbnRtTXo4OE4wWFBtQ3RSVDA0eUZz?oc=5
+
+- Bank Stocks Rally Ahead of UK Budget on Tax Report - Bloomberg.com
+  Bank Stocks Rally Ahead of UK Budget
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONkxvTHA2d01wd2VTQ09kRXowOHVxWEhvWFNrcnU2b3A2S2JlQjBXTXlIQTM1R05rRzl5ejBlbFlwRndGYU00N25YekhlQ2pNeGUxZlkyYkdlRDJuRDljUklyQ3RDV0Z1VmMxQUxrYmxkSTJiekxNUDhBUXJuWjFVS09qLVBIR2dhVHp2aEFDMTFNX3VMN3BlSA?oc=5
+
+- The fight against misinformation cannot rely on technology alone - The Indian Express
+  The fight against misinformation cannot rely on technology alone
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnBUX2VKMWZxZUVNZXpTeTVPbVpkaTMzbU9HM3k1MjhYTDZzalZnQzVrVk1XUDVremVUTi1HRW9iNU40blJmYmItM1BNTkpFakF5b1BpZVlDT2R0V0xoTURSM3ZoMEI4U1YtbVNKOVVMd2syNEVpOWEzMGRRQllTYTlIU1JsMHg2UmNHYUdxOUhSak5KQkstWGg4RU1VTDJoLWpFSHdfbTB2X1VxaTF1Zl9sc0pXTjA5Y0I3cURFaGpQUdIByAFBVV95cUxNcGFsREFnT2pCaUxWUHFlcVZJMXMxY2ZSWmxFVWJzUXh0RFM1OWdIaEdTQzRvU1FuRXpDSXRvQlVmTi1UZ3VZSTNkdGNWUU5FV3VGcXNoak16UDdVVUFBbzJmQmxzSE0yTkxlWlpFQUZsOF8yaFhzdUNjakxnX0FRNWlNdnFyREJyRzdmam9PbXlqUlZxNmRmanFGZENjMVFIZUVwbU5mX2hCa3Blc0NxWXdzN2hBMm1QaU5Mc3BaLTY4enRfd3FQSw?oc=5
+
+- 'An annoying buzz': The search for stealthier drones - BBC
+  'An annoying buzz': The
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lX2I4dTd4SXhjdEo2bUtTOTZlVVhGYWdnbkp3OVBWb2VYc2JlWktLQU9pSlpUQkozNmx5c0Rmay0yWHZsSThRbTNhS3hnc3ZiV0FSXzZQLXRac3c?oc=5
+
+- PM Modi says, India must embrace emerging technologies and lead world in creating them - News On AIR
+  PM Modi says, India must embrace emerging technologies and lead world in creating
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHdUVnFwdWEzNjJublV4TFlhYzd5NHIzRzRqbGFIaXRIQk8yaFVCeExjMG1qOG5NZkN6SFV4YzBJWHZldmoxX3BHTEFteWs3a1lILWU3V0Z6WDYtTDYxbm5hX0pUWnByQVcxcm1MeXhad0doREpoN0JTVVcxcDh6X2xQaWMxY3prU2IyRGNkVURWQXkyYm1tUEtxNnVyRU9JOGxJS2Q5dXBrWThyWTRrNw?oc=5
+
+- Emerging Science and Technology in India - ESTIC 2026 - Vajiram & Ravi
+  Vajiram & Ravi are
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHVsNENZM0hUWGlLRzE4TVBkZ2p0MlptNWhZT1U0VHdNbk9fUmxSNzZTOVA0U1NKMGotT1o3TEV3R0VKZy1MaFdaeTZWRmFtcHNBRXI3VEZsYjluVDUwc3JMeFMzSzdaWDRzckZYZVg0M0lwdk9HUXF4R0dkNjNJVw?oc=5
+
+- PM’s address during inauguration of the Emerging Science, Technology and Innovation Conclave 2026 - PM India
+  PM’s address during inauguration of the Emerging Science,
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1FIVTJEbWlBN2M5WmhVd2NnaWFPQXlpRzJQLWxWTU9NbUlTU3FtMjJlcno2TV9CVDFZWHNpd1VsUWJKa1psdFRsOGNmSGs4NnNOaDdaTzNnTEhQTXMwN3hHRnNKRWMwLWNKbG81b05yd2Vqc1pkLVo5aFN3LUpmYndacTFXb1pBb1RWUDNINEQwZ2N1QUlNY05LSWpKOHlialYzOGU2QzBaMjlGSGlRRGx3Z1dqdTBkakRmN014ZGtFYm00ZmZ3aEFTSzJyYk0wT0NOVW5LT3VxVFc2UXJnQ3d6dkVCOW40SFZz?oc=5
+
+- S&P 500 futures inch higher ahead of Fed decision. Nasdaq futures gain after SK Hynix profit boom: Live updates - CNBC
+  S&amp;P 500 futures inch higher ahead of Fed decision. Nasdaq futures
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBsTVRHVVZZQzNkSHotQ09vdW54RlVucGpqVlNDcU44bWk0NnMxZExaUkZPWGYtRFRhdGxFSjA4OUpQTzdwRGROeFRyY3pTOTVvQkowRW5Ca1NyMjdmbkl1Xzc3SGpJcUNvckl0SVlVeWxNMUp4LTNv0gF8QVVfeXFMTUQ5VHp4S2d6WFdtUkdIYlZKMGp6RVd0NUxnTm0zU2ZfOW9iVHpaWGlaaDFwQXpEMGd2TllQUFJ6ZjQ2YkVxMW5XZnRhT3dKN3hfUTVjU3BhX3J2YVlwRGRPOG5hbWN0T19aUEZWQWg1cHo3X091aURwcV9LUA?oc=5
+
+- Stock Market Today: Stock Markets Mostly Higher Ahead of Fed Rate Decision - WSJ
+  Stock Market Today: Stock Markets Mostly Higher Ahead of
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHBTLV91dEdLdmpNVWd5OF9kT2VWUEx2eTgzbU9LN2Rhd2lyakl2dDhELTlPVmJ2Q3ZreUEwODhNcVBWSERWVlZ5YWZxS3gwVVdnNnZnNkVKY3N3Smt3MWdyWFVaR2M2Tk1pLU40X1M1TDlVMlJBSURRMTZKZnpJdlR5TGo?oc=5
+
+- Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings - Yahoo Finance
+  Stock market today: Dow futures fall, S&amp;P 500 and Nasdaq futures
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkpuSUVzcGt0bTd1YktkaThFSTI1elk5OG51cmhRQnZUa0VOYjJRMENGWFBpa1lKYjlIUEtILW5sVVN4cG1hSHdDd2pqc0VTZUVrUHBSX2FyTlNfdm02c2hKZkF2d2h6SXB2Nmd0VTZRYWxJMFJ5Y1A0NHhzZXlvSEVOSXg4c2VfQzF1aG5VaWMtVnE0UVpTWG9EMVBxdlZyOHhZVWZoQS0yUFhuMm9raTd3MlRZUmxsellfY215TWk3d2puMFhpTFhQU1g?oc=5
+
+- Hyundai Bayon to Be Exported From India to 50 Markets Globally - CarWale
+  Hyundai Bayon to be Exported From
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEZFNzBJcVJxR29ibC1lSjR6aHczVWtFaGUzWFVGTS1EdE8xLWZzS3B3eGdXOEVmbzcwYklEU1hfRGlnMm9OSVh1N1hBb3d0RnJTdFVPT3RNbEkzUWJxN3JMNG5yN2pmLXBINV9BR0NCS2ZvZHRUOHpFa1ZCNWJnOWRwbnRtTXo4OE4wWFBtQ3RSVDA0eUZz?oc=5
+
+- Bank Stocks Rally Ahead of UK Budget on Tax Report - Bloomberg.com
+  Bank Stocks Rally Ahead of UK Budget
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONkxvTHA2d01wd2VTQ09kRXowOHVxWEhvWFNrcnU2b3A2S2JlQjBXTXlIQTM1R05rRzl5ejBlbFlwRndGYU00N25YekhlQ2pNeGUxZlkyYkdlRDJuRDljUklyQ3RDV0Z1VmMxQUxrYmxkSTJiekxNUDhBUXJuWjFVS09qLVBIR2dhVHp2aEFDMTFNX3VMN3BlSA?oc=5
+
+- Jio debuts on D-Street: India’s biggest IPOs delivered negative returns over one month after listing. Will Jio break the curse?
+  Jio Platforms is India’s largest initial public offering, valued at Rs 30,213-crore. Initial reports present an optimistic outlook for Jio, with projections suggesting potential for growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jio-debuts-on-d-street-indias-biggest-ipos-delivered-negative-returns-over-one-month-after-listing-will-jio-break-the-curse/articleshow/135263845.cms
+
+- From 104 shareholders to nearly 80 lakh! Jio becomes India's most widely owned stock on listing day
+  Jio Platforms has become India’s most widely held listed stock, with 79.6 lakh shareholders. From just 104 shareholders before the issue, Jio attracted over 1.38 crore applications.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-104-shareholders-to-nearly-80-lakh-jio-becomes-indias-most-widely-owned-stock-on-listing-day/articleshow/135262546.cms
+
+- MFs raise stake for 3 straight quarters in 5 mid-cap stocks; shares gain up to 75% YTD
+   Mutual funds steadily increased their holdings in 39 BSE midcap stocks for three consecutive quarters through September 2026. While five stocks gained 15–
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stake-for-3-straight-quarters-in-5-mid-cap-stocks-shares-gain-up-to-75-ytd/slideshow/135262516.cms
+
+- Info Edge Q2 Results: Net profit plunges 93% YoY to Rs 334 crore, revenue rises 13%; co declares Rs 3/share interim dividend
+   Info Edge reported a sharp year-on-year decline in Q2 net profit due to a large exceptional gain in the previous year. Recruitment, 99ac
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-naukri-net-profit-plunges-93-yoy-to-rs-334-crore-revenue-rises-13-co-declares-rs-3/share-interim-dividend/articleshow/135261958.cms
+
+- Global Market: Nomura Holdings Q2 profit rises 13% on wealth management growth
+  Nomura Holdings reported a 13% YoY rise in second-quarter net profit to 103.7 billion yen. Its wholesale income jumped 47% amid robust
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-nomura-holdings-q2-profit-rises-13-on-wealth-management-growth/articleshow/135261885.cms
+
+- Israel elections: Understanding how Knesset polls work vs India’s system - The Hindu
+  The Hindu is a leading newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm9saW9JNTJ3VnNwcDJ2UEViVnNHVFB2Q2RqNkVTYndOU0tzbU1KeFBlVGIyQXo4RW9rREpXbmNaTm4xTUNsREl6dWF5OUhlZHFZd1JNTXRBcFE5dVZQcERsZExRNTVxMWZINkhsRjdBRzVfRzA0cC1uNkROcl9mZnRZYkFEbHhLM0QxV3hwUGdTSC1uRGQ5TG10MzgtNFI3cGNHMG5ibUlFQVc3NEtleG5rRlN2ZkxVbXluS25TZUNiaUFIcVBfa1NB0gHQAUFVX3lxTE0yT0twcGlkQU8xMGFQbS1jV051SGluVG1YQ003RmJkTzJLRVN3cGZQcXJFLThQSUJhVjYyQ00ya0FIdXZITFU4QmJsWXJOczJ4MUluVjEzRG9ZV19BS09JN3ZXRlpDR2Nza0ZJVDQ0bWl5M3lLOGJBTHpMZk41VkhUb3N0c0ZDeWdtdllnRkJqTVQ0eURPeDdCdnhDRG1WaU1vTmxMeW1iQ2JPUk1GTmZwZkV3ZUwta181bUpHVkpsMHJrektSS3ZmUnpuMmw0dlg?oc=5
+
+- Global Money That Left India Returning Now: NSE CEO Explains At NDTV Profit Ignite - NDTV
+  The NSE CEO explains how Indian investors are returning to India
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa25IVHhNcjFHdE44YU5JdFRrb3FySWM4TjJqRmhaVFVXS29yeU53ZldxeGp3Z2pFWGJnYUV2Q1VZNjlZNzlGendZZ2ZqSHB6YU53ZWRwaENNbjV6eks3ckdZRU81cklzWmFGNFZHM1djX2s1UWhad1IwMi0zRFotWTlzbXdhNHhBN0J6MXNGS0hnVEJ4UXpUSmQySXZaZl9sOXBSVVhWY0FpUlJlSnR6cW9RUDhEdHZVTldjZ9IBxAFBVV95cUxPb3RFbnFFUldqMVQ2eW5PNEdtWVJPQkY1ZFN6YXBnZ1RFWHhhaVBITjU0bktva3RvZGZxWmoxb0NFR1NrZjllR1dBbDBMNTl1Si1tYmUyRVhuZGE2YVJBcWM2Z1lNMFR4ejVwRXY0WDk0eFhhTDJGa3lWVUhQOE9Cd01xVHo4VW54T0J0R09UNXBjNjgyZDRLWjE1bzdVZ21ocmh3RFMyMFN2eTdlMlU5MmluaTdneTlHeGE1SmdTbWRHTDl1?oc=5
+
+- L&T and BAE Systems start production of BVS 10 Sindhu ATVs for Indian Army's high-altitude operations - The Economic Times
+  AE Systems start production of BVS 10 Sindhu ATVs for Indian Army's
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPWlpBbDEyQTZJX21jUTBDNFhCTTVYLUxOakVUMGtPeHB5akVnTW9IMl9EbWd2ZldhVXdXOXdhMy03bUcxTUdxSXlHQjdKR1U1aENUeTAyd2V6Q1kzVXNwUXJpNW1zeEJvN0hCZEViZnZZU3NDM194WGRfY1NyLW5BWktsR09IVlQ4Y0tPSE5OTEVOS2JPRXI0aG5QclR5VDg3MFpER3ZwT1VRTTJ5S3VBT2QtZG9naHNUa2Fzdk1OZzltWFNUZHdmRTRLckRFVUlzS1F2dWdnUVVpQ0Fldld5ODZSUVNoWllNcXJvRXdkQ1NVZDJOcXJ6RDU0NFZhVnJFanduT01kRGhkTWRlc2VnZUdYcWJEU0ZyeWfSAf8BQVVfeXFMUFBMdmVIazcyclVPRjVhVXVNOG5kR1pFbGdXVTNnNWJxc1NOQ0x4bmd1SHczSmxEdnBhUDRtajN1S3p3LWViSWU2akVTNjAxUUh3VGUzbFcwVXNBVlNoRHR1c3ExWjhqbVJzM2NkWVNWNnN5cXA2aHd3R1M5bHluLXJoUXpQbC1TV2l5SVNNMTZaUk50MVNRZ1Y5NmY4SzhaSC1VUW1uUExGZ1VSSDlZajR1RmtWLVFpaEp6ZmxpVkpwZWpSZGNPVlZjQkNHRFJoUjBLa1dva2d4Rnozbmg4d2NUdFB5WFFuNEhxWm5raEtmY28tRFFDaGF3emRQUDQ0?oc=5
 
 - Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
   A border official's remarks cast a shadow over India
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
 
-- BJP Holds Protests Across Country, Seeks M Kharge's Apology Over "Baap" Jibe - NDTV
-  BJP Holds Protests Across Country, Se
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVlMME1vY0Q3N0M0RVZ6Y0p0WUFDU3F6S1BrRlpBWXNGbk1yblZQTnk3NVVlSXBDYzE1OTJMX2R2REdMeXBrQ19pMmZkYXdfUUlZa0hmV3hLc0lTM3gwYUZqeGFIU3R4d2p1bF9EX044ZnlQd0tJRTBnTzA5dzdDZ0FJS21YdWJHVy0tdUdGUk4yS1haNG0wMnhHbS1ibEktSnczRUVpdmQ1cWxrcW1PMzFzam1vZTdtUV9MUEl30gHGAUFVX3lxTE1LWGxKdXJUcnNHQ0ctc0NSSFVnX0xyWXRoaEtLWEZ5UUs0ektvaURBY0xkbG44LUhmU3VQUWtIN25ialYway1iNzlVbENiUXBLYWx0S0N6ZFA3Y1ZLcFIxbnFFRzlyODVIb0pOekZISnpIYlBReFZmY2IwMDU2b1ZHRktjelZmUnU2TXd1Njd1WVh6Z3J2aFhQREsyVm1BUENhazZnd1BvajhtdFA5b2dnQlItcVNJV1FQZnc1OXljMjFpYjJvZw?oc=5
+- Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
+  Ambani’s Jio reaches $
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
 
-- 18 months after Operation Sindoor, India invites Pakistan for SCO event in Delhi | India News - Hindustan Times
-  18 months after Operation Sindoor, India invites Pakistan for SCO event in
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbTQ2enNNTnp2YWw1cjRRZjNRWUszXzFwVkkzMC1iYmJHbkh2ZWctX2VzQjRLYVFnV0c4bjNqdE4wUlJ2T2RzT1NGYzUwemVVRFJIb2ljWkVMMERqRjRPUDQ5ZS1tWFFRRDExWFp6NVV2cjg0c3BuMlMxb1JZRnhLa3hmS1lFUVBUcmQ3VzJzNW9hQXE3cWdNMXFsTllOZ2lDMVg5TlNEXy1UU2tBQ19mVi02ajZkTmxKWTEzQmNRak51S3NuY2FCeGdWck5nbHBHajgxWHMzWElIUEN0SnhRZ3YtRUlhaEJseUpPZ2MzLWpHd1HSAfgBQVVfeXFMUFhQTFp1VElwdlEzUjBiSm1JeXZDM3Nvam45dkJhcWRzNlFmaEdkSHBOdXg4eW1uQk5IQ2xaQ0tFdjZTUlVITGdINEdFdDlhSVg2Z3pObENONDBZWk44Q1NaeU5XZGJlS0MweFlLOWhIdU4tWnNwTTBHRnlGVnk4U1NrNFdKLWNyNENvc1Y0bWluN1ZPeEVSQ3VaMjlTWmIxZTV0alRCT1ZvTkY2c0FQUFdMNVc0UDBpY1RoSF9CVUhMeXRzSkJpMno1VEdLRVctcnd3cXVETmpQZ1JsejhEcFl4bDZmWmhWaW9wbExIaVZaUktBQ19YVWE?oc=5
+- How Moms Home Built A ₹10 Cr Quick Commerce Business By Rethinking Baby Essentials
+  For a parent preparing for a newborn, a last-minute hospital bag purchase and a carefully planned baby bedding purchase serve.
+  🔗 https://inc42.com/startups/how-moms-home-built-a-%e2%82%b910-cr-quick-commerce-business-by-rethinking-baby-essentials/
 
-- India invites Pakistan for SCO civilisational dialogue forum meet next month - The Economic Times
-  India invites Pakistan for SCO civilisational dialogue forum
-  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNMnc1X3AtMWZuNkpWMEs1TjdIbGM0ZHlkU2JobHM1cFNXNGs2c2xVNGlzUGtSal9EVlhQM3ZLOS1WU0RzNUhjdFVHeGx5ZnJKN2d1QlJCMUN4X0o4cjBhUVl6bExMZEhXV0I0LWdKbi1samxQSGN4VFh4T21uNVlUaGwycmNzRURzZ0EyaXl4Yl9nWTJVbV95b0xtUXhLUmM3RTRIYzMySnlrVG00UElJWjFlZkZNU011LU1Haml4U0g0dzRiTWh5ZWt3NmM4VHdGcDVDc2NyTzhyMWNERmcwNTA1cUI2MlFNaFhjRm9ueGR3ZXJUcGNjWjBaSnhSZGdydUljT01LVXdqTWlNTXNKVFNDLXBDTmdscDFmT3hya000WWJ0NHIwSy0tU1RSdkNFcHJfQUk3MmllYXRXOU43QjdB?oc=5
+- Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report
+  AI unicorn Sarvam AI is reportedly in talks to raise funds from Nasdaq-listed IT services company Cognizant Technology Solutions.
+  🔗 https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/
 
-- In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO Civilisational Dialogue in November - The Hindu
-  In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeTVWbWFObHJaWXprWU00S0haNmhNakRFYWhTc2ZzalJINk04eXZFNzJYUHJtRkpJMUQ4ZGVjandfX1MwMVhvVGZ1N09VejlKNzBoclFTYWZLbjdsUVc4dEt5YWdnS1JHbDFWUnVkbUNxZG1zSTlaVkcyaldMVkdGdlNjbHo3bUtlWTF4M1U5UUJ5SWdkeU9TbldDN0FwQVBYRUtvemxfOEx4OFZqa3lkTm9YaFBDeDUwWklORzdQUk1TQkpuVFg4TDlmOUJJMzlQMkdjMGlPemNsTl82UG1MeEFCNXRuR1Qwc0lpNFBUdkNRcm5NM05lOWV30gGAAkFVX3lxTE9XOEk1eWNWc2FGVnZTaVlmYVlyYTlZZW5YVmZnQ0ZZQUU2V19xWWhDM3V4eWM5MUNpcUNfbngzNkN3Sk1wUTlvQ19HYVpOOTBRenBQRmpoSU1TNVJ3aTdNYzdrRWZDR3JickxJRkdJaWMzTVNkU3BTZFJzSEhiN2ROemRtejYwaUhlcmhQWnQ1dnktSERRS2hzbmlKM1ZyZ0t0WXBzRnBlZ0RYN1pPOVJQN0EzeWFSZ1huOFk1bVJPeXE4bGdhMkJuTEgxMmdrX2tUUXdra3N4dmQ1UEZwVHZrdkd2YVRXV2g1U3BCRm5tSG4wb01ucWNSRkpVbFdiX0Q?oc=5
+- Sanjeev Bikhchandani To Take Over As Info Edge Group CEO, Hitesh Oberoi Steps Down
+  Naukri parent Info Edge said founder and vice chairman Sanjeev Bikhchandani will take over as executive vice chairman, MD
+  🔗 https://inc42.com/buzz/sanjeev-bikhchandani-to-take-over-as-info-edge-group-ceo-hitesh-oberoi-steps-down/
 
-- India’s Industrial Power Must Go Beyond Borrowed Technology - Frontline Magazine
-  India’s Industrial Power Must
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxORHQxdkdEdWMwS0RENHZDbTdkNzF4eUY0RF9Wb0hOUFFYOHB2SkFsWDBhSTFSNUpaYTAzYVVkYXVELXE0ZDRzSEo5Mjc1VURpVmJ4a2liMVJVV1dpSGdRY05VS0ZyMXZlVWFucHZOZVlUQmRnOUFEb1hsUDdpMUt1SFNMaENGZjNtQTJKdS02VmNvdVY4QnFacWxlYUdBb1pKSW5MT21lOVM0UWs0d3FxWmpBMnN1WmPSAb4BQVVfeXFMTmRaMFV5ejU3U1U1emlxb0VHOVpqb3FPWm5uTFdUaVVnNDZ6Vm1TWHBlQlRHSVpvcmotV1lxdWtLWm9ubktRekNzcnRCN0xUTVVsb2ZqWTE0YzUwa3B2LWtHWW4tc3FLcExQWnQ5bmpNT0g2MEMzODB6QkJRVnJDUVJzbldVMnFUTjZqT01PQ0F6ZVVwbEoxcHdyb0wzRXNQZUJ4cjF4UURrV2ZXOFFfTUFmTWFCZ1BtNl96elI4Zw?oc=5
+- Info Edge To Exit MedCords, Unnati Online For About ₹5,000 Each
+  Naukri parent Info Edge has approved the sale of its entire stakes in MedCords and employment platform Unnati.
+  🔗 https://inc42.com/buzz/info-edge-to-exit-medcords-unnati-online-for-about-%e2%82%b95000-each/
 
-- ‘My social life completely plummeted’: gen Z is fighting back against big tech - The Guardian
-  ‘My social life completely plummeted’: gen Z
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUljaWFWLVFQa1pURFdpUndkQlNmNDAwME9LLWZRVzU5ZjJHdFZ4dndYdWEweHFHV0xJdm5zb1hGS2ljRE5MUTk3YlRxdFY1NEJDdHduUFhFM1VVazY3YU9vcFZRMFFKc2wwSXVLTTlPaDYzeS1QeFBGeXpBX29QbA?oc=5
+- Astrotalk’s FY26 Profit Jumps 10X To ₹222 Cr, Revenue Zooms 55% YoY
+  Online astrology platform Astrotalk reported a 895% increase in its consolidated net profit to ₹222 Cr in FY26 from around&#8230.
+  🔗 https://inc42.com/buzz/astrotalks-fy26-profit-jumps-10x-to-%e2%82%b9222-cr-revenue-zooms-55-yoy/
 
-- PM inaugurates Emerging Science, Technology and Innovation Conclave 2026 - PM India
-  PM inaugurates Emerging Science, Technology
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkQtZ3d4X3c2S051dkE4d0hmOU5fSUdzNFlBb2FBbEM5VnYxemNud1Y1SkJiVVY1Z01iR1luZnE3WDhfSFdPWHhHSjd5dlB6TGl0RjdiNDVSU1AzajhkRm5rQzc3RWVfcVFkOER3MGtrLTVTTWM3VWNZTE1zbHMtQy1vNWJTYWdDdUxfNHUzTGItUE1SWkdqT25PQVVyZVg1ODU3b19pd2YydzRqeE53RFJMMDh6Yk9QcWltS3NMWHd2T1NUdGZDRVlYVQ?oc=5
+- Israel elections: Understanding how Knesset polls work vs India’s system - The Hindu
+  The Hindu is a leading newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm9saW9JNTJ3VnNwcDJ2UEViVnNHVFB2Q2RqNkVTYndOU0tzbU1KeFBlVGIyQXo4RW9rREpXbmNaTm4xTUNsREl6dWF5OUhlZHFZd1JNTXRBcFE5dVZQcERsZExRNTVxMWZINkhsRjdBRzVfRzA0cC1uNkROcl9mZnRZYkFEbHhLM0QxV3hwUGdTSC1uRGQ5TG10MzgtNFI3cGNHMG5ibUlFQVc3NEtleG5rRlN2ZkxVbXluS25TZUNiaUFIcVBfa1NB0gHQAUFVX3lxTE0yT0twcGlkQU8xMGFQbS1jV051SGluVG1YQ003RmJkTzJLRVN3cGZQcXJFLThQSUJhVjYyQ00ya0FIdXZITFU4QmJsWXJOczJ4MUluVjEzRG9ZV19BS09JN3ZXRlpDR2Nza0ZJVDQ0bWl5M3lLOGJBTHpMZk41VkhUb3N0c0ZDeWdtdllnRkJqTVQ0eURPeDdCdnhDRG1WaU1vTmxMeW1iQ2JPUk1GTmZwZkV3ZUwta181bUpHVkpsMHJrektSS3ZmUnpuMmw0dlg?oc=5
 
-- Immersive Technologies: India's $7.82 Billion Projection - Vajiram & Ravi
-  Immersive Technologies: India's
-  🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE1pNktGUC1CM3BiOXlGOEdUMWUwSU5BVEw1U0k1US00NklTU2RvTm1GMmprUmVYS3V5d3BYa0U0RGxnS2g2Skw2eFVVeWxFbXlDaHFMTUlMelNSRWhmcFVEeV9nNDBEZXc5dHl4VUI2YmlKcHBU?oc=5
+- Global Money That Left India Returning Now: NSE CEO Explains At NDTV Profit Ignite - NDTV
+  The NSE CEO explains how Indian investors are returning to India
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa25IVHhNcjFHdE44YU5JdFRrb3FySWM4TjJqRmhaVFVXS29yeU53ZldxeGp3Z2pFWGJnYUV2Q1VZNjlZNzlGendZZ2ZqSHB6YU53ZWRwaENNbjV6eks3ckdZRU81cklzWmFGNFZHM1djX2s1UWhad1IwMi0zRFotWTlzbXdhNHhBN0J6MXNGS0hnVEJ4UXpUSmQySXZaZl9sOXBSVVhWY0FpUlJlSnR6cW9RUDhEdHZVTldjZ9IBxAFBVV95cUxPb3RFbnFFUldqMVQ2eW5PNEdtWVJPQkY1ZFN6YXBnZ1RFWHhhaVBITjU0bktva3RvZGZxWmoxb0NFR1NrZjllR1dBbDBMNTl1Si1tYmUyRVhuZGE2YVJBcWM2Z1lNMFR4ejVwRXY0WDk0eFhhTDJGa3lWVUhQOE9Cd01xVHo4VW54T0J0R09UNXBjNjgyZDRLWjE1bzdVZ21ocmh3RFMyMFN2eTdlMlU5MmluaTdneTlHeGE1SmdTbWRHTDl1?oc=5
 
-- Elon Musk has a 'failure warning' for these technology companies; says: Investors have already started be - The Times of India
-  Elon Musk has a 'failure warning' for these technology companies. Investors have
-  🔗 https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTkV1ekFrMnRLY2ZhSjVPUkdSVmNOZVBmTmh6V2lkQktVWVhMUDgyeFhXTXQ4WkpjTFVjdHJ4U2gycGlKRG1CZmpNWTVjUTBqdWloUExxMHp1UTVCRWU0UXhxODJacWF4aklfUzV0bVFxUV8zOGY2Q2JNTW9yNWpnR1BHWTB0dGw1Y0RibHVKenpHbTNnZDYzdmFRY01lWlBJNjU2SmdERU5yRkZkLU9KdHg3RVdmYWViTzAxaXcyR3lsWXlsbS1YS2h2dUVucHFwWTVKeVhiTkwtOTFBSzF5dHgyUXRMY0pfQTZRWmlLT214MlNTWHdmci00MWI3LUdlZjAzamtFYU1fVWZMRTJjdnlRTm5mNmN4M3RBNFZDdldXM29RWjlMQkZB0gGvAkFVX3lxTE9hbXVwNU96ZGtYUzdqc0xKOU41SUJ2WWxzMlVoRzVQMDNtTV8yUFE1a1pyOU04QWk4Zy1XZ3I2eE9yRTB4X2x3M3duT3FoVkR5WXlqUXZkbGhzbE95Q2VTVDFJc1NoZkNJTFpXUU1SeDRodGN0TnFWRURwOWZzb0t5b0lvZ2R6RWs5ejd5eUo1aGdoaWI0YlFFQ0F1OGJuVkp0ZHBwMGlkYl9KYzczeDVfa1NqTXlNX3JQRUxlNHZTOVI4bl83eHc1VmZEOXZraHVRVl90Z2xrU0dFSGhBX1ZRbnVaREFMMXp0QzctdC1ZY0c2eWY5cVprLWZnUXczRXNldEgwVS1iM0w2OHVjVEROS2xfTFVnbHZUQmRVcFFsQlVlYlpvVlZxcHJWSUd5VQ?oc=5
+- L&T and BAE Systems start production of BVS 10 Sindhu ATVs for Indian Army's high-altitude operations - The Economic Times
+  AE Systems start production of BVS 10 Sindhu ATVs for Indian Army's
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPWlpBbDEyQTZJX21jUTBDNFhCTTVYLUxOakVUMGtPeHB5akVnTW9IMl9EbWd2ZldhVXdXOXdhMy03bUcxTUdxSXlHQjdKR1U1aENUeTAyd2V6Q1kzVXNwUXJpNW1zeEJvN0hCZEViZnZZU3NDM194WGRfY1NyLW5BWktsR09IVlQ4Y0tPSE5OTEVOS2JPRXI0aG5QclR5VDg3MFpER3ZwT1VRTTJ5S3VBT2QtZG9naHNUa2Fzdk1OZzltWFNUZHdmRTRLckRFVUlzS1F2dWdnUVVpQ0Fldld5ODZSUVNoWllNcXJvRXdkQ1NVZDJOcXJ6RDU0NFZhVnJFanduT01kRGhkTWRlc2VnZUdYcWJEU0ZyeWfSAf8BQVVfeXFMUFBMdmVIazcyclVPRjVhVXVNOG5kR1pFbGdXVTNnNWJxc1NOQ0x4bmd1SHczSmxEdnBhUDRtajN1S3p3LWViSWU2akVTNjAxUUh3VGUzbFcwVXNBVlNoRHR1c3ExWjhqbVJzM2NkWVNWNnN5cXA2aHd3R1M5bHluLXJoUXpQbC1TV2l5SVNNMTZaUk50MVNRZ1Y5NmY4SzhaSC1VUW1uUExGZ1VSSDlZajR1RmtWLVFpaEp6ZmxpVkpwZWpSZGNPVlZjQkNHRFJoUjBLa1dva2d4Rnozbmg4d2NUdFB5WFFuNEhxWm5raEtmY28tRFFDaGF3emRQUDQ0?oc=5
+
+- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
+  A border official's remarks cast a shadow over India
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
+
+- Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
+  Ambani’s Jio reaches $
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
+
+- Israel elections: Understanding how Knesset polls work vs India’s system - The Hindu
+  The Hindu is a leading newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm9saW9JNTJ3VnNwcDJ2UEViVnNHVFB2Q2RqNkVTYndOU0tzbU1KeFBlVGIyQXo4RW9rREpXbmNaTm4xTUNsREl6dWF5OUhlZHFZd1JNTXRBcFE5dVZQcERsZExRNTVxMWZINkhsRjdBRzVfRzA0cC1uNkROcl9mZnRZYkFEbHhLM0QxV3hwUGdTSC1uRGQ5TG10MzgtNFI3cGNHMG5ibUlFQVc3NEtleG5rRlN2ZkxVbXluS25TZUNiaUFIcVBfa1NB0gHQAUFVX3lxTE0yT0twcGlkQU8xMGFQbS1jV051SGluVG1YQ003RmJkTzJLRVN3cGZQcXJFLThQSUJhVjYyQ00ya0FIdXZITFU4QmJsWXJOczJ4MUluVjEzRG9ZV19BS09JN3ZXRlpDR2Nza0ZJVDQ0bWl5M3lLOGJBTHpMZk41VkhUb3N0c0ZDeWdtdllnRkJqTVQ0eURPeDdCdnhDRG1WaU1vTmxMeW1iQ2JPUk1GTmZwZkV3ZUwta181bUpHVkpsMHJrektSS3ZmUnpuMmw0dlg?oc=5
+
+- Global Money That Left India Returning Now: NSE CEO Explains At NDTV Profit Ignite - NDTV
+  The NSE CEO explains how Indian investors are returning to India
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa25IVHhNcjFHdE44YU5JdFRrb3FySWM4TjJqRmhaVFVXS29yeU53ZldxeGp3Z2pFWGJnYUV2Q1VZNjlZNzlGendZZ2ZqSHB6YU53ZWRwaENNbjV6eks3ckdZRU81cklzWmFGNFZHM1djX2s1UWhad1IwMi0zRFotWTlzbXdhNHhBN0J6MXNGS0hnVEJ4UXpUSmQySXZaZl9sOXBSVVhWY0FpUlJlSnR6cW9RUDhEdHZVTldjZ9IBxAFBVV95cUxPb3RFbnFFUldqMVQ2eW5PNEdtWVJPQkY1ZFN6YXBnZ1RFWHhhaVBITjU0bktva3RvZGZxWmoxb0NFR1NrZjllR1dBbDBMNTl1Si1tYmUyRVhuZGE2YVJBcWM2Z1lNMFR4ejVwRXY0WDk0eFhhTDJGa3lWVUhQOE9Cd01xVHo4VW54T0J0R09UNXBjNjgyZDRLWjE1bzdVZ21ocmh3RFMyMFN2eTdlMlU5MmluaTdneTlHeGE1SmdTbWRHTDl1?oc=5
+
+- L&T and BAE Systems start production of BVS 10 Sindhu ATVs for Indian Army's high-altitude operations - The Economic Times
+  AE Systems start production of BVS 10 Sindhu ATVs for Indian Army's
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPWlpBbDEyQTZJX21jUTBDNFhCTTVYLUxOakVUMGtPeHB5akVnTW9IMl9EbWd2ZldhVXdXOXdhMy03bUcxTUdxSXlHQjdKR1U1aENUeTAyd2V6Q1kzVXNwUXJpNW1zeEJvN0hCZEViZnZZU3NDM194WGRfY1NyLW5BWktsR09IVlQ4Y0tPSE5OTEVOS2JPRXI0aG5QclR5VDg3MFpER3ZwT1VRTTJ5S3VBT2QtZG9naHNUa2Fzdk1OZzltWFNUZHdmRTRLckRFVUlzS1F2dWdnUVVpQ0Fldld5ODZSUVNoWllNcXJvRXdkQ1NVZDJOcXJ6RDU0NFZhVnJFanduT01kRGhkTWRlc2VnZUdYcWJEU0ZyeWfSAf8BQVVfeXFMUFBMdmVIazcyclVPRjVhVXVNOG5kR1pFbGdXVTNnNWJxc1NOQ0x4bmd1SHczSmxEdnBhUDRtajN1S3p3LWViSWU2akVTNjAxUUh3VGUzbFcwVXNBVlNoRHR1c3ExWjhqbVJzM2NkWVNWNnN5cXA2aHd3R1M5bHluLXJoUXpQbC1TV2l5SVNNMTZaUk50MVNRZ1Y5NmY4SzhaSC1VUW1uUExGZ1VSSDlZajR1RmtWLVFpaEp6ZmxpVkpwZWpSZGNPVlZjQkNHRFJoUjBLa1dva2d4Rnozbmg4d2NUdFB5WFFuNEhxWm5raEtmY28tRFFDaGF3emRQUDQ0?oc=5
+
+- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
+  A border official's remarks cast a shadow over India
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
+
+- Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
+  Ambani’s Jio reaches $
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
+
+- Israel elections: Understanding how Knesset polls work vs India’s system - The Hindu
+  The Hindu is a leading newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm9saW9JNTJ3VnNwcDJ2UEViVnNHVFB2Q2RqNkVTYndOU0tzbU1KeFBlVGIyQXo4RW9rREpXbmNaTm4xTUNsREl6dWF5OUhlZHFZd1JNTXRBcFE5dVZQcERsZExRNTVxMWZINkhsRjdBRzVfRzA0cC1uNkROcl9mZnRZYkFEbHhLM0QxV3hwUGdTSC1uRGQ5TG10MzgtNFI3cGNHMG5ibUlFQVc3NEtleG5rRlN2ZkxVbXluS25TZUNiaUFIcVBfa1NB0gHQAUFVX3lxTE0yT0twcGlkQU8xMGFQbS1jV051SGluVG1YQ003RmJkTzJLRVN3cGZQcXJFLThQSUJhVjYyQ00ya0FIdXZITFU4QmJsWXJOczJ4MUluVjEzRG9ZV19BS09JN3ZXRlpDR2Nza0ZJVDQ0bWl5M3lLOGJBTHpMZk41VkhUb3N0c0ZDeWdtdllnRkJqTVQ0eURPeDdCdnhDRG1WaU1vTmxMeW1iQ2JPUk1GTmZwZkV3ZUwta181bUpHVkpsMHJrektSS3ZmUnpuMmw0dlg?oc=5
+
+- Global Money That Left India Returning Now: NSE CEO Explains At NDTV Profit Ignite - NDTV
+  The NSE CEO explains how Indian investors are returning to India
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa25IVHhNcjFHdE44YU5JdFRrb3FySWM4TjJqRmhaVFVXS29yeU53ZldxeGp3Z2pFWGJnYUV2Q1VZNjlZNzlGendZZ2ZqSHB6YU53ZWRwaENNbjV6eks3ckdZRU81cklzWmFGNFZHM1djX2s1UWhad1IwMi0zRFotWTlzbXdhNHhBN0J6MXNGS0hnVEJ4UXpUSmQySXZaZl9sOXBSVVhWY0FpUlJlSnR6cW9RUDhEdHZVTldjZ9IBxAFBVV95cUxPb3RFbnFFUldqMVQ2eW5PNEdtWVJPQkY1ZFN6YXBnZ1RFWHhhaVBITjU0bktva3RvZGZxWmoxb0NFR1NrZjllR1dBbDBMNTl1Si1tYmUyRVhuZGE2YVJBcWM2Z1lNMFR4ejVwRXY0WDk0eFhhTDJGa3lWVUhQOE9Cd01xVHo4VW54T0J0R09UNXBjNjgyZDRLWjE1bzdVZ21ocmh3RFMyMFN2eTdlMlU5MmluaTdneTlHeGE1SmdTbWRHTDl1?oc=5
+
+- L&T and BAE Systems start production of BVS 10 Sindhu ATVs for Indian Army's high-altitude operations - The Economic Times
+  AE Systems start production of BVS 10 Sindhu ATVs for Indian Army's
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxPWlpBbDEyQTZJX21jUTBDNFhCTTVYLUxOakVUMGtPeHB5akVnTW9IMl9EbWd2ZldhVXdXOXdhMy03bUcxTUdxSXlHQjdKR1U1aENUeTAyd2V6Q1kzVXNwUXJpNW1zeEJvN0hCZEViZnZZU3NDM194WGRfY1NyLW5BWktsR09IVlQ4Y0tPSE5OTEVOS2JPRXI0aG5QclR5VDg3MFpER3ZwT1VRTTJ5S3VBT2QtZG9naHNUa2Fzdk1OZzltWFNUZHdmRTRLckRFVUlzS1F2dWdnUVVpQ0Fldld5ODZSUVNoWllNcXJvRXdkQ1NVZDJOcXJ6RDU0NFZhVnJFanduT01kRGhkTWRlc2VnZUdYcWJEU0ZyeWfSAf8BQVVfeXFMUFBMdmVIazcyclVPRjVhVXVNOG5kR1pFbGdXVTNnNWJxc1NOQ0x4bmd1SHczSmxEdnBhUDRtajN1S3p3LWViSWU2akVTNjAxUUh3VGUzbFcwVXNBVlNoRHR1c3ExWjhqbVJzM2NkWVNWNnN5cXA2aHd3R1M5bHluLXJoUXpQbC1TV2l5SVNNMTZaUk50MVNRZ1Y5NmY4SzhaSC1VUW1uUExGZ1VSSDlZajR1RmtWLVFpaEp6ZmxpVkpwZWpSZGNPVlZjQkNHRFJoUjBLa1dva2d4Rnozbmg4d2NUdFB5WFFuNEhxWm5raEtmY28tRFFDaGF3emRQUDQ0?oc=5
+
+- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
+  A border official's remarks cast a shadow over India
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
+
+- Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
+  Ambani’s Jio reaches $
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
+
+- The fight against misinformation cannot rely on technology alone - The Indian Express
+  The fight against misinformation cannot rely on technology alone
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnBUX2VKMWZxZUVNZXpTeTVPbVpkaTMzbU9HM3k1MjhYTDZzalZnQzVrVk1XUDVremVUTi1HRW9iNU40blJmYmItM1BNTkpFakF5b1BpZVlDT2R0V0xoTURSM3ZoMEI4U1YtbVNKOVVMd2syNEVpOWEzMGRRQllTYTlIU1JsMHg2UmNHYUdxOUhSak5KQkstWGg4RU1VTDJoLWpFSHdfbTB2X1VxaTF1Zl9sc0pXTjA5Y0I3cURFaGpQUdIByAFBVV95cUxNcGFsREFnT2pCaUxWUHFlcVZJMXMxY2ZSWmxFVWJzUXh0RFM1OWdIaEdTQzRvU1FuRXpDSXRvQlVmTi1UZ3VZSTNkdGNWUU5FV3VGcXNoak16UDdVVUFBbzJmQmxzSE0yTkxlWlpFQUZsOF8yaFhzdUNjakxnX0FRNWlNdnFyREJyRzdmam9PbXlqUlZxNmRmanFGZENjMVFIZUVwbU5mX2hCa3Blc0NxWXdzN2hBMm1QaU5Mc3BaLTY4enRfd3FQSw?oc=5
+
+- 'An annoying buzz': The search for stealthier drones - BBC
+  'An annoying buzz': The
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lX2I4dTd4SXhjdEo2bUtTOTZlVVhGYWdnbkp3OVBWb2VYc2JlWktLQU9pSlpUQkozNmx5c0Rmay0yWHZsSThRbTNhS3hnc3ZiV0FSXzZQLXRac3c?oc=5
+
+- PM Modi says, India must embrace emerging technologies and lead world in creating them - News On AIR
+  PM Modi says, India must embrace emerging technologies and lead world in creating
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHdUVnFwdWEzNjJublV4TFlhYzd5NHIzRzRqbGFIaXRIQk8yaFVCeExjMG1qOG5NZkN6SFV4YzBJWHZldmoxX3BHTEFteWs3a1lILWU3V0Z6WDYtTDYxbm5hX0pUWnByQVcxcm1MeXhad0doREpoN0JTVVcxcDh6X2xQaWMxY3prU2IyRGNkVURWQXkyYm1tUEtxNnVyRU9JOGxJS2Q5dXBrWThyWTRrNw?oc=5
+
+- Emerging Science and Technology in India - ESTIC 2026 - Vajiram & Ravi
+  Vajiram & Ravi are
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHVsNENZM0hUWGlLRzE4TVBkZ2p0MlptNWhZT1U0VHdNbk9fUmxSNzZTOVA0U1NKMGotT1o3TEV3R0VKZy1MaFdaeTZWRmFtcHNBRXI3VEZsYjluVDUwc3JMeFMzSzdaWDRzckZYZVg0M0lwdk9HUXF4R0dkNjNJVw?oc=5
+
+- PM’s address during inauguration of the Emerging Science, Technology and Innovation Conclave 2026 - PM India
+  PM’s address during inauguration of the Emerging Science,
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1FIVTJEbWlBN2M5WmhVd2NnaWFPQXlpRzJQLWxWTU9NbUlTU3FtMjJlcno2TV9CVDFZWHNpd1VsUWJKa1psdFRsOGNmSGs4NnNOaDdaTzNnTEhQTXMwN3hHRnNKRWMwLWNKbG81b05yd2Vqc1pkLVo5aFN3LUpmYndacTFXb1pBb1RWUDNINEQwZ2N1QUlNY05LSWpKOHlialYzOGU2QzBaMjlGSGlRRGx3Z1dqdTBkakRmN014ZGtFYm00ZmZ3aEFTSzJyYk0wT0NOVW5LT3VxVFc2UXJnQ3d6dkVCOW40SFZz?oc=5
 
 
-_Last updated: 2026-10-28 03:39:40 UTC_
+_Last updated: 2026-10-28 12:02:57 UTC_
