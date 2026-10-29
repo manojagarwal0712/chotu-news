@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- Explainer: Why News Publishers Challenged Data Protection Law In Supreme Court - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPX001ZG90NzdaNzVra3JNYktHdkF6YWRYdlM4QlVuSzdWTzZjcXB0OUxaemNoY2dVT2k1V3M4UGhDZE1fNlJmOUtVbndyYUxWQ21CQ0pmYkpWS0sxOTd5VjExQzBCOHQtMDhUeG9BRmlOR0YyMF9qSThWcnhNSjN6OEpNNk0xMktFNVZ6b0YwMmhqaGszQU9PaEpDT3M4em53Z0xXQ1FwRzZWU2lFYVo4RXE3NE4yOWlYa0HSAcIBQVVfeXFMTk1PREhYOWFUaU5haVVsLWNJX0QySnE0T0J1RUdhNWtrOW81T1RLc0FjYlZmUV92eDFwNGJYNmdUVWdETEFnWUE2VHFBQjFTNkNrc2doZWttNHJsT2JzdEVXemdTdElCUkNscE5hSXc4RWJmSUhYME9GYWoyZnBWSXNFVFRuLVJueDFiYXdpU2trSnFXTEJYeXo4S1ZIOXRiUDNoT3JxZlhPVzhTbWlfZU9NcUpubHhwdk1RMG1rNjktV0E?oc=5
+- CCPA penalises Justdial, Sunrise Foods for safety, misleading product claims - The Times of India
+  CCPA penalises Justdial, Sunrise Foods for safety
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTZxeURCdU9LTTVyMXN0aFJEcjByMXdzcU4tQ0t3RjdaZ0tyX0U2T0QyaXNlejQ0VVFzV1pNbmx4V1VJV3dNa0hONU9QOTEwLUo3YzRwVnZyamVLZjNDdF9DN3Z2N1hQdnZYay1xY294aG91eHV4a25RV3ZhTktWS0YwbjhINUprUkxkUjRiR285TEhwZGFEVEQtQkgtSmlSR2RheWpSd0tqa0tZTU1nX3RxWDhPaHl1d2JRdm82dHN3Q0hoYUhNZDF5RERLUVNVNTEtWGh4OVdIdw?oc=5
 
-- Why India’s biggest news publishers are challenging its privacy law - The Times of India
-  Why India’s biggest news publishers are challenging its
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSFU1SUpDVzVKa2FNS2F1YUs5b05SdldEUmEyMmJNeXV4VjhRWFZSR0tMcnZRd21adXBYTzFfRFhrUnRIcFJiczQ1alExckJxS3UtMGtWaW1RUGxYYVFzdmZneC1jYk1ELS01RHV0S0QzVmlGMkRpMGdNSEZyMEpOMTlZRS15NVdjeWFTUHI2U0NvWmtBLVQwODZ1ZklsWHZPdG9jUDRIdmtJNEQxemk4XzJJQ0VNQ282ZmpKbFY1SGw2NTd4ck0xTDZkb0VSdGE3empuWjFkTW7SAd4BQVVfeXFMTVdic1JNdGJuRzRHM2pqZEdLOVVFWmxRRmdPeHpISVJpalZzTE8wRGFsTzNvS2x6elBDLUp0THBoMnRZY2RqVEREMmpkYlpzdDFwRXFWeDZjNWlvWU1DWDl5VHpQVkMyRWVBekF2czJ5ZVgyYmU0RE9MX2VTTFp6OGxqOTNqb2JzZnZ1bktxVVZTTTdndXF6T1k2MmxhaUlmM2RYR3JoUW5SblRFMjlaMUdKTDFaSDI5eTBRTWpyNkxXUzJMcklmNk9mNzlfRHRQTDVGNUV0eWl0aWhQR0Nn?oc=5
-
-- Media groups challenge India’s privacy law at top court - Al Jazeera
-  Media groups challenge India’s privacy
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
-
-- India to Face New Zealand in Fourth T20I Tomorrow - News On AIR
-  India to face New Zealand in Fourth T20
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQREZSbVhBS3JCLWFlbU1MZUF1N3g3RUJ0d1pOZm5OOFpEOVdsRld5QnVYQXVUSV9PRVZGSHRzUFlBVkl2UUlMZnltMnk5QmRwVUlQcmRoM2U2QkVlb1VDTVc2YVdRbVJsejJwa2NqTVZzOXp1b3d6ZkdoclAyNldNNQ?oc=5
+- Asian Champions Trophy: Harmanpreet, Sukhjeet shine in India's 5-2 win over China - ESPN India
+  India beat China 5-2 in the Asian Champions Trophy
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGtMV1U3UHhlWXZGRkxVN3QyRDRtZnlkSXVTS1RnVjdSckJEU1Rad1ByckpqQXhvNi1yQURnQ2NpTF8wZFVlUFBvcHoxdzM4TkgxSm9pdUJzOHBHRS1Lck1BY3pyTmc0ZndkVUl3cl9aaTdtbW8zNTdMRlNjbGRweUROajBmTGRIRERGOFZrYUl0dnF4aGRsd2tRaV9yV3BMYTFmX3BsT0s5Wmg2c21KQnFkUmZkTzh3M0tCaVJUc09VMW5LVVZJdHA3ZEZYODhMZm5UaElMWmJYZw?oc=5
 
 - CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder - NDTV
   CCTV Shows How Ghaziabad Woman
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalh2a3B1UlFYZGpSSDFMQWZXQzBTak8yRnlnZnk3Wkh1X0NnX2c4QnNZSkhZS0p6dkd4Z0JsTlpQYWxlb3dDcklxcmRLeXRmYXlHUXpqU3dkX3FyTWZWS1d0V3dwNWJzUGVJOTQxbmg0LUtiYnFhclZ2dWhLR19ia2ZsS3hjZUFMRkkyM3VIZ241MERLMHMzSjlaZy1KcTZoQlR1ajl3cEpabDDSAbMBQVVfeXFMTjRpdndPX2tIUGtnWmxuemhMNkpLeDhqaDkwMUhyMkM2TWRqTkxfbkxzNVpSb3lNYlJPdklabWpYTGVnREUyZ0RLdHFGeUwyenBUeXBoLXA4YmJEU2xwM0xPRXlPTlNWckVjMElhRm5KQlJkaWRDWWlVN25PT09EMkRDMGJDY19paFhHSTZhQlpjejNyOUpMcnIybEt2Um5hanFFVDVYa3ExeHItbHJTUzZWZTQ?oc=5
 
-- Nvidia CEO Jensen Huang names three countries that are leading the world in technology and manufacturing; - The Times of India
-  Nvidia CEO Jensen Huang names three countries that are leading the world in technology and manufacturing
-  🔗 https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSThBdHM4ZElfUlhLTmhKUzE0SEtqNUJldXVrM3MzVnFhMzNnQmpmSUE3WUhXbzh0TVUzX2ZRdndKNmlLTDZOek1oM3ZXT0l1bU45c0dGZ0h0NlBtY1RIUkZUR3ZPREhsYzRZdTFZcnhmRDA5QS1kdlNBLUlzdUVETjZPU1U3VXNqMnoxNmpUc29iQXJROHliM2xlNjdyb1NiZDd1M1dDSlhBMEdTbjVxa1hDVWF6ZnFvMzJNTmp2V2RLcW1qbFMyOGRpRkVZbk55UDFkUXRENXhhYVhLa01LbGpMLS1FcGxYY0xicmFIdHRPaGY3Qm1kUnV5N09CM0JwOWswWWJXaHlxRnNIbWJOYWpKTXFxeWNCYVpueWdYX3dYT1BNZS13bncxTUNvY2VxNzNRLVhZN2ROSE10MHZ3cWc4YW1ielRTUi1QczMwWTFabEJBM1HSAdsCQVVfeXFMTkdZU0pRNzhuaEx4Sk9aVHo3Tmh0LTZ4Y0J0WVhQbUpvWkFjc0VHTlJncV9aeFhuWHZMZDUzSW1KVG53ak9BdjcyYzAwYmxxam1reWJyQTRfVzhpVnhLdTllOTdyOWtnLTZGSFhMYXFPeDBIRjFNeHNoOG03QmdyT3dEN1BjcV9QOHZoUk1Ta1dWa09aLUtUR2FybHc0OXVKVHp2ZVFfd0x3M1NOU2hKUl9lanVSQ1E1bUxINndXVExVUF9lTEN5R05ZaVNRdkRUZms2YjE5X1IzV1UydnRrUkMtWFZqbWtnYUR2UDhUWXQwUG5IbVlyajlSOVl5UnpJbWljUzlKV1g5M01tWXRvOGxfY2tZeWxsMFViN0pGUnJRQ3BFbFZmeHE3RHFIaUp2RHJfeXhiUC1wUGZGcm5TOEZ4YnhJek9QWFJfOEI5VDF1T1YwT1E4UEQ5VDQ?oc=5
+- Protest at India university where no students’ union vote held for 20 years - Al Jazeera
+  Protest at India university where no students' union vote held
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlFjVVppN3Z3NTFYNGIyRHZKTkVWY1R4dWtySlM2WUZuTEVSMkh5ZFpZekdST01OSGZJT0c2Mm5GdnFFWF91Znl5Yi00N25xa2xJSlNiWDhyVjFrN18yVjhpRXFrUk9jZG1rNkpoVVhaSGdMX1kxVjU4RDJhdDBTanJzWkI0OGJtdHcxVDBKMHBJLXBWN3htMGptcHBsR3RKbE4zVXRPQVYwWTVva1llbTA5QWNZaE3SAbwBQVVfeXFMTmg2UGZjaXM4RlBUWUc0aGZHQUttZXNlNHNTRXQtN2NUanNPSW54dUNkblJiTTJ1WkF6WkdZc2tZTTdMbGZYaVppQ1BuSWZaS1ZBQmxaQVFwX1ZpZ3NfUWlocWZWdnhMZlJLa2ZLdzB4TG5wY1pRbUxpdHlSVFdvNmk1cW9uRkEtV1RrM1l3cldwYVdHSjROS2FKOEl5cmpYZzVRYUF2MGxoWldFdWEwSmhTOEx0RGJZZUlNNVc?oc=5
 
-- Marvell Technology in advanced talks to buy optics maker Lumentum, source says - Reuters
-  Marvell Technology in advanced talks to buy optics maker
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2xWTFdaYmFQNV9rVnZVcmltcTJqWGoyUVBzUlVPcDJaZm4xLXVCMmt4Szk2YnF1VjVXUEdjV0xDbGxRdjc2WjBzQjVnTnU0SWpSWkJmdlg0WS15eGNhc09ZNWpHUVc2Znk0aE9haUpPVlZOeUdqNl9CSzdHaUtITm1BTWh1d0tKTWtCYWM1M183ekZkSGptb3B4MUthVzhiM1hUOEhR?oc=5
+- Arunachal Protesters Rally Against Siang Project, Demand Activists' Release - NDTV
+  Arunachal Protesters Rally Against
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPVWxfbU10R3BfTlZZQ3BnQ2tNdkpzYWFFVWJCOE1aQ2ljd0hvQzVqdF9NelkyTTdWZDFfaks5OGJNQTJWak92NDJJM2x3ZTdNTm16U0w1SFAwTkxmeHladFRoa3AxeWR0UEtTa2JmNTBBV2ZueVFhcG1odE85OXBUZHRFWkFEODVtYU5SSjBieUpxOVdWQXFTVGpER2pDaklUckdEdC1lRWk3N3ZydDZ5Ym1rMGJaUkpZNzd5d2hTbWt1aXBf0gHMAUFVX3lxTE1CYUxsRklsX2ZhclRlSUlVMWU2QlpENmUtd1duRFpLR3F2M0FlcDlKdmpJQ3pxMFQ3Z3ZnMERCWU9rb0stZkRDRW10a0dEd3E3TzRCR0NIZFp0eFVUMEhrUlhJbldrUkhWZE55eHhhV1JDV3h1b1YxRnFzaTZSV1ZVYTZHZkNIVkZ0bWU4RE9OdHJLM1RWRVRkVUpVNzd4aVZzLTNRUmdYYjFmaUxaT1IzbWtlQ1psZnlEUXdHeTFJWm9ZdEdHeWotUVpOSw?oc=5
 
-- Marvell Is Said to Near Megadeal for Lumentum In AI Push - Bloomberg
-  Marvell Is Said to Near Megadeal
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGdUMkpHa2JOcFhCMTFQU0tLaTJkTU54TmQ2aGJnVVVMR2VzeGdzLS1ONXd0U3hqQ0xPZUlEeTgyOWVXMHRQQ0hIeW5aX21JRkpNY3FlRUdNM1ZJMS1ZX3JwMWUteGVLdFFaVlNZMjZXUWtSSXNVRlEwdnRvbU9iQVBnNS1ycUgxMU5LTGtQQ0hSTWNOTkhBZ3FNRC1HaEZXZG9UMUd1QlBfeG1qZ044cTQtTk9Ydw?oc=5
+- The NATO Quantum Technology Roadmap and its Global Implications - orfonline.org
+  The NATO Quantum Technology Roadmap and
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQbEJMQ0g2MC1sckdxaDR1NWNiWlVJQmpHRW5ET0JXU2VtSDdRa2NEa3doSVp0clRUT0FheHFIYkFKeHRjdXgtZ21fM291Y05oaFhtWUpHYklLTWlNczNVRUtUNm5CWkVJMkU3QnE3aGg5Slc5V3FpSmVqTW1iWVZoVjZ3WUdCYjJqREtldm40MEhfWlJIRDYwOVVOMHZ4WTVhU04zWA?oc=5
 
-- Marvell Technology (MRVL) Is Reportedly In Advanced Talks For An Optics Acquisition - Yahoo Finance
-  Marvell Technology (MRVL) Is Reportedly In
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTZ5VzVmcVR6LUZFQzZrRHY2cHhBTzFsUnN0UHR3cWZDeVdMNTBYRHRoR0VxeGFfNGhZSE00dVo2bXBCVWxfOFZBWi01dFhsTUpXWnRpWk1SMGl4YXVyN3pvTExjVnM4QnE4RF9OS3gyckMzQl9wU21YcVl5aExfb1AxZ1o0SDNqbFlhZXRSOURvbThCRkdVV21yZlZZemNwZjdJRWVPTnhPTHhS?oc=5
+- MRVL Stock Sinks as Marvell Technology Reportedly Considers Acquiring Lumentum - Barchart.com
+  MRVL Stock Sinks as Marvell
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1JVMG44dGZJR25kcjIzNzk4UjNTOGU0U2VMU2txNDdQOV9nRnl3czVnaE9MYm1uTkpiOUh4dXc2QmpNQWJvS1p6ekdVVHdqbGN6OWlpQVVuWnVQdXhnS25HMlJpcnI4eXVlQUdWSF9wcUtSUlE5QjQyVHRJTlNXSnU2dzFfRDY1dVVDZzZLakRfM1RXZVNGeXRUVlR2UVFqZGpNWU5jVVNoRVg0dHBGdVpuS21ycUhTdzlhUjg1aw?oc=5
 
-- China’s tech darlings are losing their shine. Here’s what’s behind the sell-off - CNBC
-  China’s tech darlings are losing
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5?oc=5
+- Musk’s Favorite Ticker Is Free for Taking in a SpaceX-Tesla Deal - Bloomberg.com
+  Musk's Favorite Ticker Is Free for
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2Z0YVBmOXRvcU5FM2kyVzduM3VfQW4xLUVQMTAxSU9GVUZxQmhrc3VxaEszajFPalpzV1dLZUNhRERPclZVS05nWHo4bkpoQzdTWWNxT2lET2FzTHdxTFhTOGFzUVFJOWpjU3pad1ZpR2hWUEQzZUdnTzhpLVZ3cFQtdzhKZ3RIT09RWGd0OHR1VGl5SXpnMWlKZTNnejgtZnlRQWZnQXExd0daYXdoZlJISWN3UQ?oc=5
 
-- A green giant’s pollution woes: How Waaree Energies dumped toxic effluents in a Gujarat village
-  India’s solar poster child built a  ₹1-trillion valuation on promises of a cleaner future. But along a quiet
-  🔗 https://www.livemint.com/companies/news/waaree-energies-chikhli-plant-pollution-gpcb-notices-11793260947922.html
+- Amazon gives Wall Street mixed financial picture in earnings report - The Guardian
+  The Guardian reports that Amazon gave Wall Street
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3d0X0FidUJoTEd5d0xZT1VERDRSRVliWGhwWlhwNUdWUWFEUWgyeFpleURqU2lxQjN6Z292dmlsaG5vYWY0ZUJQZUVaNFdXN3dBTWZIem9STDdLY1FqNGpnOV9QeE9DY3lMMDlodUlHeC1nX2hyY2ZCY0RRaGVYZFpHdERvOGxyMElDM1dsUUc?oc=5
 
-- CCPA fines Just Dial  ₹10 lakh for listing sellers of explosive ammonium nitrate
-  The consumer watchdog rejected the company's defence of being a passive directory. It ordered it to immediately stop facilitating
-  🔗 https://www.livemint.com/companies/news/ccpa-fines-just-dial-rs-10-lakh-for-listing-sellers-of-explosive-ammonium-nitrate-11793262719002.html
+- Security Council LIVE: Can new technology keep the world’s sea lanes safe? - UN News
+  Security Council LIVE: Can new technology keep the world�
+  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kT3NsSDhrMzNVcDQ4MG5xeTQ2MzR4Q2hTc2RWaWhwOHJEMWo1S1FCTW15eEVCRllBUTEwTFNjdDd5anhOUk9YNkpaVnB4SkczZElDbG10TQ?oc=5
 
-- Ahmedabad couple turns  ₹3,000 into  ₹6 lakh monthly business by selling cold coco from their car; here's how they did it
-  Darshan and Shruti Zinzuvadiya launched The Coco Station with two branches in Gujarat. They serve
-  🔗 https://www.livemint.com/companies/people/ahmedabad-couple-turns-3-000-into-6-lakh-monthly-business-by-selling-cold-coco-from-their-car-heres-how-they-did-it-11793271715265.html
+- CCPA penalises Justdial, Sunrise Foods for safety, misleading product claims - The Times of India
+  CCPA penalises Justdial, Sunrise Foods for safety
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTZxeURCdU9LTTVyMXN0aFJEcjByMXdzcU4tQ0t3RjdaZ0tyX0U2T0QyaXNlejQ0VVFzV1pNbmx4V1VJV3dNa0hONU9QOTEwLUo3YzRwVnZyamVLZjNDdF9DN3Z2N1hQdnZYay1xY294aG91eHV4a25RV3ZhTktWS0YwbjhINUprUkxkUjRiR285TEhwZGFEVEQtQkgtSmlSR2RheWpSd0tqa0tZTU1nX3RxWDhPaHl1d2JRdm82dHN3Q0hoYUhNZDF5RERLUVNVNTEtWGh4OVdIdw?oc=5
 
-- Tata group breaking! Noel Tata to retire as Trent chairman; Bahram Vakil to take over
-  Bahram Vakil appointed chairman of Trent with effect from November 12, 2026. Noel Tata appointed chairman emeritus.
-  🔗 https://www.livemint.com/companies/people/tata-group-breaking-noel-tata-to-retire-as-trent-chairman-bahram-vakil-to-take-over-11793273794916.html
+- Asian Champions Trophy: Harmanpreet, Sukhjeet shine in India's 5-2 win over China - ESPN India
+  India beat China 5-2 in the Asian Champions Trophy
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGtMV1U3UHhlWXZGRkxVN3QyRDRtZnlkSXVTS1RnVjdSckJEU1Rad1ByckpqQXhvNi1yQURnQ2NpTF8wZFVlUFBvcHoxdzM4TkgxSm9pdUJzOHBHRS1Lck1BY3pyTmc0ZndkVUl3cl9aaTdtbW8zNTdMRlNjbGRweUROajBmTGRIRERGOFZrYUl0dnF4aGRsd2tRaV9yV3BMYTFmX3BsT0s5Wmg2c21KQnFkUmZkTzh3M0tCaVJUc09VMW5LVVZJdHA3ZEZYODhMZm5UaElMWmJYZw?oc=5
 
-- Inside Adani Group-Tata Group mega deal: 8 hotels, 2,000 rooms | HCL Taj, Vivanta, Gateway and Ginger brands details
-  The hotels will operate under IHCL’s Taj, Vivanta, Gateway and Ginger brands. The partnership envisages Adani Airport Holdings developing the hotels
-  🔗 https://www.livemint.com/companies/news/inside-adani-group-tata-group-mega-deal-8-hotels-2-000-rooms-hcl-taj-vivanta-gateway-and-ginger-brands-details-11793272198411.html
+- CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder - NDTV
+  CCTV Shows How Ghaziabad Woman
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalh2a3B1UlFYZGpSSDFMQWZXQzBTak8yRnlnZnk3Wkh1X0NnX2c4QnNZSkhZS0p6dkd4Z0JsTlpQYWxlb3dDcklxcmRLeXRmYXlHUXpqU3dkX3FyTWZWS1d0V3dwNWJzUGVJOTQxbmg0LUtiYnFhclZ2dWhLR19ia2ZsS3hjZUFMRkkyM3VIZ241MERLMHMzSjlaZy1KcTZoQlR1ajl3cEpabDDSAbMBQVVfeXFMTjRpdndPX2tIUGtnWmxuemhMNkpLeDhqaDkwMUhyMkM2TWRqTkxfbkxzNVpSb3lNYlJPdklabWpYTGVnREUyZ0RLdHFGeUwyenBUeXBoLXA4YmJEU2xwM0xPRXlPTlNWckVjMElhRm5KQlJkaWRDWWlVN25PT09EMkRDMGJDY19paFhHSTZhQlpjejNyOUpMcnIybEt2Um5hanFFVDVYa3ExeHItbHJTUzZWZTQ?oc=5
 
-- Karwa Chauth today but gold, silver rates not glittering — will prices rebound or pain will continue till Diwali?
-  The MCX gold rate today is down by �
-  🔗 https://www.livemint.com/market/commodities/karwa-chauth-today-but-gold-silver-rates-not-glittering-will-prices-rebound-or-pain-will-continue-till-diwali-11793271194604.html
+- Protest at India university where no students’ union vote held for 20 years - Al Jazeera
+  Protest at India university where no students' union vote held
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlFjVVppN3Z3NTFYNGIyRHZKTkVWY1R4dWtySlM2WUZuTEVSMkh5ZFpZekdST01OSGZJT0c2Mm5GdnFFWF91Znl5Yi00N25xa2xJSlNiWDhyVjFrN18yVjhpRXFrUk9jZG1rNkpoVVhaSGdMX1kxVjU4RDJhdDBTanJzWkI0OGJtdHcxVDBKMHBJLXBWN3htMGptcHBsR3RKbE4zVXRPQVYwWTVva1llbTA5QWNZaE3SAbwBQVVfeXFMTmg2UGZjaXM4RlBUWUc0aGZHQUttZXNlNHNTRXQtN2NUanNPSW54dUNkblJiTTJ1WkF6WkdZc2tZTTdMbGZYaVppQ1BuSWZaS1ZBQmxaQVFwX1ZpZ3NfUWlocWZWdnhMZlJLa2ZLdzB4TG5wY1pRbUxpdHlSVFdvNmk1cW9uRkEtV1RrM1l3cldwYVdHSjROS2FKOEl5cmpYZzVRYUF2MGxoWldFdWEwSmhTOEx0RGJZZUlNNVc?oc=5
 
-- TCS, Infosys, HCL Tech: Anthropic revenue soars 14-fold in H1 2026 - Can Indian IT stocks benefit from AI boom?
-  Anand Rathi says Indian IT firms could benefit from enterprise AI adoption by integrating AI into business systems. He
-  🔗 https://www.livemint.com/market/stock-market-news/tcs-infosys-hcl-tech-anthropic-revenue-soars-14-fold-in-h1-2026-can-indian-it-stocks-benefit-from-ai-boom-11793272878286.html
+- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
+  A border official's remarks cast a shadow over India
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
 
-- Reliance Power shares on fire! Anil Ambani’s stock jumps 9.22%, but remains down 59% in a year - should you buy?
-  Reliance Power shares rose 9.22% on Thursday, extending a weekly gain to 11.21%. Analysts say the rebound may be temporary. They advise caution until a decisive breakout confirms a trend reversal.
-  🔗 https://www.livemint.com/market/stock-market-news/reliance-power-shares-on-fire-anil-ambani-s-stock-jumps-9-22-but-remains-down-59-in-a-year-should-you-buy-11793273904768.html
+- Stock Market Today: Nasdaq Sinks 400 Points; Google Stock's Tumble in Focus — Live Updates - WSJ
+  The Nasdaq Sinks 400 Points; Google Stock's Tumble
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3ZEU2VfQkFyaEZwcGF4RkM4N3VrTXRYWlFFY1hFbFJDNk9OcWdFNnluMlVCelI4akpOWnlNZmVCNDhKdWhkQ1p1aE5Vell1NkpZM1JOakxUQUlNVko4RmRhOWhubzNkY2ttUmh0b3VlZGtvWkkwYzk1N082RERRV0FOOGljcDg?oc=5
 
-- IPO, FPO and SME listing rules: SEBI to review framework, says Chairman Tuhin Kanta Pandey
-  SEBI is reviewing IPO, FPO and SME listing rules. Chair Tuhin Kanta Pandey also wants to prepare more businesses for listing.
-  🔗 https://www.livemint.com/market/stock-market-news/ipo-fpo-and-sme-listing-rules-sebi-to-review-framework-says-chairman-tuhin-kanta-pandey-11793270623870.html
+- Dow loses 100 points, S&P 500 snaps 3-day advance as Alphabet and Caterpillar tank: Live updates - CNBC
+  Dow loses 100 points, S&amp;P 500 snaps 3
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5SalhOeEdhMFUtUWRnVl90YWlHLU90SGt2cmJ2b1Y4aDRmRVZJV3VGS3haNkpEa28wcDMzbGR4dTRtZnNvbUM1WDBDeGtsUkNIN1dOUDdtNXgzV0xaZ3R5ZTk4SEhmRzYyR0dtcGp4RFFEVHA3YzNZ0gF8QVVfeXFMT25jby1VNlpYNGp3ekVGUEVKd29Lanc1bndoVFluRGk0WmhrU08zNDVpVFhOazVlMVE5RkhadGM4VEFhaWREaXJpb09WR0U2LVNHVXBma2NpWHNKUURmVi1hZXNqRXlrZGNUMndNZlFzV2JIdEJfa1hNTkNjYQ?oc=5
 
-- MSCI Rejig: LIC, Meesho likely to enter India Standard Index; OFSS, Siemens Energy may be dropped
-   JM Financial expects the November 2026 MSCI India Standard Index review could add LIC and Meesho and exclude Oracle Financial Services Software and Siemens Energy India. The changes may generate estimated
-  🔗 https://www.livemint.com/market/stock-market-news/msci-rejig-lic-meesho-likely-to-enter-india-standard-index-ofss-siemens-energy-may-be-dropped-11793271137051.html
+- Stock Market Today: Nasdaq Breaks Streak On Alphabet's $500B Drop; Amazon Earnings Next - Investor's Business Daily
+  The Nasdaq Breaks Streak On Alphabet's $500B
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1N0UWUtenA4dTA3V1lWMXdXLWZ6Q3V1QXotNDY1OXczdHhaYV93LXNna3JweVZhb01YS25qYUlHWEFYSVJDLWhzOTFmVnZIa1hmSTRTd0RDNUhXVmtXNzZlTGR6eDllYnpXU2lFXzdibTI1RnBOUzRHeGliekY2cXh1c0Ryc1F5S3lCdnp2Tkh1YjUweTd2eWdKcDFXbHpZNXhXcE9INzNaZmhDLTA2Q2pRSEZkazJIQUZpUWo5cWFhZw?oc=5
+
+- The never-ending absurdity of global oil markets - The Economist
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1RNdDk2OTFCcFZfUk5ONWpacU04UzdSWGxodHpWdVJJQ204WjFYRnRIZENvZHJqRnlhcTYxaUZ6dGJsN2l5c3hXRTU2RDlabFBkLTJxTWN3VXpmZndmM1ZzaXNTOW1IQXFzQTUxVWFsSFJjWm1iSUdoeWFvbzdKSzQ4VHZjVEdtWXVxMkpuazRQX2pScVNuOUFQRnFkc3BnNVZQLXNuanVTc0U?oc=5
+
+- Stock markets rebound over 1% on Fed pause, but rupee and crude keep investors on edge - The Hindu
+  Stock markets rebound over 1% on Fed pause, but rupee and crude
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDlZWEp6Z0c1WkJRSHdmUnl2OUY3cUpKak5iNWJEUVllLTNmelJRalJlTUJRcHFaOWtUcXpXeXFkOGZTaGw3U3E4ZUt6NjcxM1hDem1TaWN0NlBxaTZiMkN4aC1hc1pRRGpxdDNpRGUzRzJRMnZ0bTc4ZTlXQWNLbk9SbWNuTDlrMlhfempqX2VZQUpmdkF3NkxobmJ3VUpCbllSWDJVY0hSZDJ5Q0tPUVJyRHFRemxYTGJQeW1tb0I5a0d3YjNGMVF0dV9iUGxKMjVoRFh30gHcAUFVX3lxTFB1RlBYcHZYODl1ck96MG16Vm54Y2tTZFhoVFI0YXpLRDhNLTVMbUlVaWFtZUZ1UHJpSGcwcUw5WTd1WGRlSHBoRWdXUHoxaUFLOTlCVENUblpoaFJVU1RxOVR3Y1Z4M3NzTDIxa09vT1ZnVFFWVlUxX1QtRTVxUGNMcmx2Vy0xV3pKVDlfdDBtZDAwUkJqd2xxTWo2Z3RBUHQwamlfN2hObzRKbHhIT05GSDloNTMzR3FyV0FGV1lYZ2hlSDI2Q09NdXJIM210dHFad1hYVFU5SjA1M0I?oc=5
 
 - Flipkart Big Bang Diwali Sale 2026: iPhone 17 at  ₹79,999; iPhone Air at  ₹99,900 — check offers
    Flipkart Big Bang Diwali Sale 2026 began on October 28, offering discounts on Apple iPhones, laptops, wearables and home appliances. The iPhone 17 is available at an
@@ -100,153 +100,165 @@
   One Tech Tip: How to get started with AI agents.
   🔗 https://www.livemint.com/technology/one-tech-tip-how-to-get-started-with-ai-agents-and-which-are-best-for-specific-tasks-11793246711702.html
 
-- Nasdaq-100 futures fall 1% as Alphabet shares sell off after earnings: Live updates - CNBC
-  Nasdaq-100 futures fall 1% as Alphabet
+- Stock Market Today: Nasdaq Sinks 400 Points; Google Stock's Tumble in Focus — Live Updates - WSJ
+  The Nasdaq Sinks 400 Points; Google Stock's Tumble
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3ZEU2VfQkFyaEZwcGF4RkM4N3VrTXRYWlFFY1hFbFJDNk9OcWdFNnluMlVCelI4akpOWnlNZmVCNDhKdWhkQ1p1aE5Vell1NkpZM1JOakxUQUlNVko4RmRhOWhubzNkY2ttUmh0b3VlZGtvWkkwYzk1N082RERRV0FOOGljcDg?oc=5
+
+- Dow loses 100 points, S&P 500 snaps 3-day advance as Alphabet and Caterpillar tank: Live updates - CNBC
+  Dow loses 100 points, S&amp;P 500 snaps 3
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5SalhOeEdhMFUtUWRnVl90YWlHLU90SGt2cmJ2b1Y4aDRmRVZJV3VGS3haNkpEa28wcDMzbGR4dTRtZnNvbUM1WDBDeGtsUkNIN1dOUDdtNXgzV0xaZ3R5ZTk4SEhmRzYyR0dtcGp4RFFEVHA3YzNZ0gF8QVVfeXFMT25jby1VNlpYNGp3ekVGUEVKd29Lanc1bndoVFluRGk0WmhrU08zNDVpVFhOazVlMVE5RkhadGM4VEFhaWREaXJpb09WR0U2LVNHVXBma2NpWHNKUURmVi1hZXNqRXlrZGNUMndNZlFzV2JIdEJfa1hNTkNjYQ?oc=5
 
-- Stock market today: Dow rises, S&P 500 and Nasdaq futures fall as Alphabet stock sells off, AI jitters return - Yahoo Finance
-  &nbsp;&ngt; &nft: Dow rises, S
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOak5VMmJTcmZQNV82ZXN1X1NjUlp5bkhfQjZKRUo0ODdIZFA5cTVSM3VzTE1OcnZMOFhCUFhtQXQzY3NNZ2QxQV9tb1VKM0p3S1NoSVE2ckNfQ090RDVZR3Q0RTE1WnpUa21keUJEMFRMc0J6T2toY092emVXa1ExTVhBaUlldGs5aEdTM0l5enlhYW1aS1ZhdUM4OTZaNnRqNnE2NFV2Y0ZwYmdKRk1ueVV3MXlsX2hKM01sQVZxN3duZk5nQXpYSA?oc=5
-
-- Stock Market Today: Nasdaq Futures Slump After Google Earnings Disappoint — Live Updates - WSJ
-  The Nasdaq Futures Slump After Google
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3ZEU2VfQkFyaEZwcGF4RkM4N3VrTXRYWlFFY1hFbFJDNk9OcWdFNnluMlVCelI4akpOWnlNZmVCNDhKdWhkQ1p1aE5Vell1NkpZM1JOakxUQUlNVko4RmRhOWhubzNkY2ttUmh0b3VlZGtvWkkwYzk1N082RERRV0FOOGljcDg?oc=5
+- Markets News, Oct. 29, 2026: Nasdaq Leads Indexes Lower as Alphabet Stock Drops; Caterpillar Weighs on Dow - Investopedia
+  The Nasdaq Leads Indexes Lower as Alphabet Stock Drops. Caterpillar
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQtZWg5YXVkaHd3Rl9KbElGVmpvdjI5RHFVMU5iUmVsUGhjSVJpdVFDS2plSE03N2YxbHp1eloySjgtdWhGb0FUMk1lVlU4WTZaa2h6eWRCU0lEOVBmT3Y1NjdEYmRyYXMzS2k0V0szMldqV1ZBUGNrNWR2M2FiSEt4eFB6UU1PWW5TN1hmR3g?oc=5
 
 - The never-ending absurdity of global oil markets - The Economist
   &nbsp;&n
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1RNdDk2OTFCcFZfUk5ONWpacU04UzdSWGxodHpWdVJJQ204WjFYRnRIZENvZHJqRnlhcTYxaUZ6dGJsN2l5c3hXRTU2RDlabFBkLTJxTWN3VXpmZndmM1ZzaXNTOW1IQXFzQTUxVWFsSFJjWm1iSUdoeWFvbzdKSzQ4VHZjVEdtWXVxMkpuazRQX2pScVNuOUFQRnFkc3BnNVZQLXNuanVTc0U?oc=5
 
-- Europe Set to Release 42 Million Barrels of Oil, France Says - Bloomberg
-  Europe Set to Release 42 Million Barrels of
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUdCYVRORGdKV0prS3piSUhjYVJEMFVnQVJDMGtUVlRiX1E0T1VWSnFBczBiYmo5QnE1WmlGSTJCa24yTTYxQnM1UW52dGxZODd4dFVCdW81TFY2WnYzUE9WT1NzZXdRSEx0T1FuZDRUa1phLVZraU9HeFFvNjFpT3Z5bzFoLUo1dXh5RTg1VkhqT2l0cmZlYUxoM05xVW1oazNXSW5XdEtIQ1hEYVQ0?oc=5
+- Stock markets rebound over 1% on Fed pause, but rupee and crude keep investors on edge - The Hindu
+  Stock markets rebound over 1% on Fed pause, but rupee and crude
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDlZWEp6Z0c1WkJRSHdmUnl2OUY3cUpKak5iNWJEUVllLTNmelJRalJlTUJRcHFaOWtUcXpXeXFkOGZTaGw3U3E4ZUt6NjcxM1hDem1TaWN0NlBxaTZiMkN4aC1hc1pRRGpxdDNpRGUzRzJRMnZ0bTc4ZTlXQWNLbk9SbWNuTDlrMlhfempqX2VZQUpmdkF3NkxobmJ3VUpCbllSWDJVY0hSZDJ5Q0tPUVJyRHFRemxYTGJQeW1tb0I5a0d3YjNGMVF0dV9iUGxKMjVoRFh30gHcAUFVX3lxTFB1RlBYcHZYODl1ck96MG16Vm54Y2tTZFhoVFI0YXpLRDhNLTVMbUlVaWFtZUZ1UHJpSGcwcUw5WTd1WGRlSHBoRWdXUHoxaUFLOTlCVENUblpoaFJVU1RxOVR3Y1Z4M3NzTDIxa09vT1ZnVFFWVlUxX1QtRTVxUGNMcmx2Vy0xV3pKVDlfdDBtZDAwUkJqd2xxTWo2Z3RBUHQwamlfN2hObzRKbHhIT05GSDloNTMzR3FyV0FGV1lYZ2hlSDI2Q09NdXJIM210dHFad1hYVFU5SjA1M0I?oc=5
 
-- Godrej Consumer Q2 Results: Profit rises 14% YoY to Rs 523 crore, revenue jumps 19%; co declares Rs 5/share dividend
-  Godrej Consumer Products posted 13.8% profit growth to ₹522.92 crore in Q2 FY27. Strong international performance, expanding home care
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/godrej-consumer-q2-results-profit-rises-14-yoy-to-rs-523-crore-revenue-jumps-19-co-declares-rs-5/share-dividend/articleshow/135306134.cms
+- US Markets Today: US stocks end lower as Alphabet revenue miss revives AI capex jitters
+  The Nasdaq Composite was hardest hit, plummeting by 1.36 percent. Alphabet's revenue shortfall cast a shadow over the AI investment landscape.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-us-stocks-end-lower-as-alphabet-revenue-miss-revives-ai-capex-jitters/articleshow/135331051.cms
 
-- Suzlon Energy Q2 Results: Profit plunges 69% YoY to Rs 394 crore; revenue rises 26%
-  Suzlon Energy reported a 69% year-on-year profit decline to ₹394 crore in Q2 FY27. Record turbine deliveries, a 6,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q2-results-profit-plunges-69-yoy-to-rs-394-crore-revenue-rises-26/articleshow/135304125.cms
+- Cash takes centre stage as investors rethink AI spending boom
+  Investors are increasingly focused on technology companies' cash generation capabilities. Microsoft and Oracle are gaining positive attention from investors. Alphabet faces challenges due to rising AI costs.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cash-takes-centre-stage-as-investors-rethink-ai-spending-boom/articleshow/135327536.cms
 
-- ESAF Small Finance Bank posts Rs 160 crore Q2 profit as asset quality improves
-   ESAF Small Finance Bank reported a net profit of Rs 160 crore in Q2, reversing a Rs 116 crore loss in the year-ago period. Improved margins, lower provisions and stronger asset quality
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/esaf-small-finance-bank-posts-rs-160-crore-q2-profit-as-asset-quality-improves/articleshow/135303972.cms
+- Alphabet’s AI risks deepen as filing reveals $98 billion in commitments beyond the $1 trillion spending
+  Alphabet reveals financial risks linked to its massive AI investments. The firm might be burdened with nearly $98.5 billion in contingent commitments. There are growing apprehensions about the sustainability of Google Cloud's expansion.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/alphabets-ai-risks-deepen-as-filing-reveals-98-5-billion-in-commitments-beyond-the-1-trillion-spending/articleshow/135325480.cms
 
-- Trent Q2 Results: Cons profit jumps 25% YoY to Rs 468 crore; revenue climbs 22%
-  Trent reported a 25.3% year-on-year rise in Q2 FY27 consolidated net profit to Rs 468 crore. EBITDA rose 29.6% to Rs 1,054 crore, with margins
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/trent-q2-results-profit-jumps-25-yoy-to-rs-468-crore-revenue-climbs-22/articleshow/135302253.cms
+- Sagility block deal: Promoter Sagility BV likely to sell 12% stake for Rs 2,377 crore
+  Sagility B.V. is reportedly planning a 12% stake sale. The healthcare IT services firm posted 22.5% revenue growth and 8
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sagility-block-deal-promoter-sagility-bv-likely-to-sell-12-stake-for-rs-2377-crore/articleshow/135322817.cms
 
-- 10 defence stocks rally up to 500% in FY27 so far; 5 turn multibaggers
-  India’s defence stocks have outperformed the Nifty 50 in FY27, with the sector index
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-defence-stocks-rally-up-to-500-in-fy27-so-far-5-turn-multibaggers/slideshow/135303076.cms
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Sensex gained 905 points, while Nifty rose 238 points, adding nearly ₹5 lakh crore in market value. Indian equities rallied over 1% on Thursday
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135322160.cms
 
-- Explainer: Why News Publishers Challenged Data Protection Law In Supreme Court - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPX001ZG90NzdaNzVra3JNYktHdkF6YWRYdlM4QlVuSzdWTzZjcXB0OUxaemNoY2dVT2k1V3M4UGhDZE1fNlJmOUtVbndyYUxWQ21CQ0pmYkpWS0sxOTd5VjExQzBCOHQtMDhUeG9BRmlOR0YyMF9qSThWcnhNSjN6OEpNNk0xMktFNVZ6b0YwMmhqaGszQU9PaEpDT3M4em53Z0xXQ1FwRzZWU2lFYVo4RXE3NE4yOWlYa0HSAcIBQVVfeXFMTk1PREhYOWFUaU5haVVsLWNJX0QySnE0T0J1RUdhNWtrOW81T1RLc0FjYlZmUV92eDFwNGJYNmdUVWdETEFnWUE2VHFBQjFTNkNrc2doZWttNHJsT2JzdEVXemdTdElCUkNscE5hSXc4RWJmSUhYME9GYWoyZnBWSXNFVFRuLVJueDFiYXdpU2trSnFXTEJYeXo4S1ZIOXRiUDNoT3JxZlhPVzhTbWlfZU9NcUpubHhwdk1RMG1rNjktV0E?oc=5
+- CCPA penalises Justdial, Sunrise Foods for safety, misleading product claims - The Times of India
+  CCPA penalises Justdial, Sunrise Foods for safety
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTZxeURCdU9LTTVyMXN0aFJEcjByMXdzcU4tQ0t3RjdaZ0tyX0U2T0QyaXNlejQ0VVFzV1pNbmx4V1VJV3dNa0hONU9QOTEwLUo3YzRwVnZyamVLZjNDdF9DN3Z2N1hQdnZYay1xY294aG91eHV4a25RV3ZhTktWS0YwbjhINUprUkxkUjRiR285TEhwZGFEVEQtQkgtSmlSR2RheWpSd0tqa0tZTU1nX3RxWDhPaHl1d2JRdm82dHN3Q0hoYUhNZDF5RERLUVNVNTEtWGh4OVdIdw?oc=5
 
-- Why India’s biggest news publishers are challenging its privacy law - The Times of India
-  Why India’s biggest news publishers are challenging its
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSFU1SUpDVzVKa2FNS2F1YUs5b05SdldEUmEyMmJNeXV4VjhRWFZSR0tMcnZRd21adXBYTzFfRFhrUnRIcFJiczQ1alExckJxS3UtMGtWaW1RUGxYYVFzdmZneC1jYk1ELS01RHV0S0QzVmlGMkRpMGdNSEZyMEpOMTlZRS15NVdjeWFTUHI2U0NvWmtBLVQwODZ1ZklsWHZPdG9jUDRIdmtJNEQxemk4XzJJQ0VNQ282ZmpKbFY1SGw2NTd4ck0xTDZkb0VSdGE3empuWjFkTW7SAd4BQVVfeXFMTVdic1JNdGJuRzRHM2pqZEdLOVVFWmxRRmdPeHpISVJpalZzTE8wRGFsTzNvS2x6elBDLUp0THBoMnRZY2RqVEREMmpkYlpzdDFwRXFWeDZjNWlvWU1DWDl5VHpQVkMyRWVBekF2czJ5ZVgyYmU0RE9MX2VTTFp6OGxqOTNqb2JzZnZ1bktxVVZTTTdndXF6T1k2MmxhaUlmM2RYR3JoUW5SblRFMjlaMUdKTDFaSDI5eTBRTWpyNkxXUzJMcklmNk9mNzlfRHRQTDVGNUV0eWl0aWhQR0Nn?oc=5
-
-- Media groups challenge India’s privacy law at top court - Al Jazeera
-  Media groups challenge India’s privacy
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
-
-- India to Face New Zealand in Fourth T20I Tomorrow - News On AIR
-  India to face New Zealand in Fourth T20
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQREZSbVhBS3JCLWFlbU1MZUF1N3g3RUJ0d1pOZm5OOFpEOVdsRld5QnVYQXVUSV9PRVZGSHRzUFlBVkl2UUlMZnltMnk5QmRwVUlQcmRoM2U2QkVlb1VDTVc2YVdRbVJsejJwa2NqTVZzOXp1b3d6ZkdoclAyNldNNQ?oc=5
+- Asian Champions Trophy: Harmanpreet, Sukhjeet shine in India's 5-2 win over China - ESPN India
+  India beat China 5-2 in the Asian Champions Trophy
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGtMV1U3UHhlWXZGRkxVN3QyRDRtZnlkSXVTS1RnVjdSckJEU1Rad1ByckpqQXhvNi1yQURnQ2NpTF8wZFVlUFBvcHoxdzM4TkgxSm9pdUJzOHBHRS1Lck1BY3pyTmc0ZndkVUl3cl9aaTdtbW8zNTdMRlNjbGRweUROajBmTGRIRERGOFZrYUl0dnF4aGRsd2tRaV9yV3BMYTFmX3BsT0s5Wmg2c21KQnFkUmZkTzh3M0tCaVJUc09VMW5LVVZJdHA3ZEZYODhMZm5UaElMWmJYZw?oc=5
 
 - CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder - NDTV
   CCTV Shows How Ghaziabad Woman
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalh2a3B1UlFYZGpSSDFMQWZXQzBTak8yRnlnZnk3Wkh1X0NnX2c4QnNZSkhZS0p6dkd4Z0JsTlpQYWxlb3dDcklxcmRLeXRmYXlHUXpqU3dkX3FyTWZWS1d0V3dwNWJzUGVJOTQxbmg0LUtiYnFhclZ2dWhLR19ia2ZsS3hjZUFMRkkyM3VIZ241MERLMHMzSjlaZy1KcTZoQlR1ajl3cEpabDDSAbMBQVVfeXFMTjRpdndPX2tIUGtnWmxuemhMNkpLeDhqaDkwMUhyMkM2TWRqTkxfbkxzNVpSb3lNYlJPdklabWpYTGVnREUyZ0RLdHFGeUwyenBUeXBoLXA4YmJEU2xwM0xPRXlPTlNWckVjMElhRm5KQlJkaWRDWWlVN25PT09EMkRDMGJDY19paFhHSTZhQlpjejNyOUpMcnIybEt2Um5hanFFVDVYa3ExeHItbHJTUzZWZTQ?oc=5
 
-- BlackBuck Q2: Profit Rises 42% YoY To ₹41 Cr, Revenue Jumps 56%
-  BlackBuck reported a 41.8% jump in consolidated net profit to ₹41.4 Cr in the September quarter of FY27&#8230.
-  🔗 https://inc42.com/buzz/blackbuck-q2-profit-rises-42-yoy-to-%e2%82%b941-cr-revenue-jumps-56/
+- Protest at India university where no students’ union vote held for 20 years - Al Jazeera
+  Protest at India university where no students' union vote held
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlFjVVppN3Z3NTFYNGIyRHZKTkVWY1R4dWtySlM2WUZuTEVSMkh5ZFpZekdST01OSGZJT0c2Mm5GdnFFWF91Znl5Yi00N25xa2xJSlNiWDhyVjFrN18yVjhpRXFrUk9jZG1rNkpoVVhaSGdMX1kxVjU4RDJhdDBTanJzWkI0OGJtdHcxVDBKMHBJLXBWN3htMGptcHBsR3RKbE4zVXRPQVYwWTVva1llbTA5QWNZaE3SAbwBQVVfeXFMTmg2UGZjaXM4RlBUWUc0aGZHQUttZXNlNHNTRXQtN2NUanNPSW54dUNkblJiTTJ1WkF6WkdZc2tZTTdMbGZYaVppQ1BuSWZaS1ZBQmxaQVFwX1ZpZ3NfUWlocWZWdnhMZlJLa2ZLdzB4TG5wY1pRbUxpdHlSVFdvNmk1cW9uRkEtV1RrM1l3cldwYVdHSjROS2FKOEl5cmpYZzVRYUF2MGxoWldFdWEwSmhTOEx0RGJZZUlNNVc?oc=5
 
-- Shadowfax Q2 Profit Zooms Over 5X YoY To ₹68 Cr, Revenue Crosses ₹1,500 Cr
-  Shadowfax reported an over 5X year-on-year (YoY) jump in its net profit for the September quarter.
-  🔗 https://inc42.com/buzz/shadowfax-q2-profit-zooms-over-5x-yoy-to-%e2%82%b968-cr-revenue-crosses-%e2%82%b91500-cr/
+- Arunachal Protesters Rally Against Siang Project, Demand Activists' Release - NDTV
+  Arunachal Protesters Rally Against
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPVWxfbU10R3BfTlZZQ3BnQ2tNdkpzYWFFVWJCOE1aQ2ljd0hvQzVqdF9NelkyTTdWZDFfaks5OGJNQTJWak92NDJJM2x3ZTdNTm16U0w1SFAwTkxmeHladFRoa3AxeWR0UEtTa2JmNTBBV2ZueVFhcG1odE85OXBUZHRFWkFEODVtYU5SSjBieUpxOVdWQXFTVGpER2pDaklUckdEdC1lRWk3N3ZydDZ5Ym1rMGJaUkpZNzd5d2hTbWt1aXBf0gHMAUFVX3lxTE1CYUxsRklsX2ZhclRlSUlVMWU2QlpENmUtd1duRFpLR3F2M0FlcDlKdmpJQ3pxMFQ3Z3ZnMERCWU9rb0stZkRDRW10a0dEd3E3TzRCR0NIZFp0eFVUMEhrUlhJbldrUkhWZE55eHhhV1JDV3h1b1YxRnFzaTZSV1ZVYTZHZkNIVkZ0bWU4RE9OdHJLM1RWRVRkVUpVNzd4aVZzLTNRUmdYYjFmaUxaT1IzbWtlQ1psZnlEUXdHeTFJWm9ZdEdHeWotUVpOSw?oc=5
 
-- Pine Labs Q2 Profit Jumps Over 6X YoY To ₹38.6 Cr, Revenue Rises 24%
-  Pine Labs’ net profit jumped over 6X year-on-year (YoY) to ₹38.6 Cr in Q
-  🔗 https://inc42.com/buzz/pine-labs-q2-profit-jumps-over-6x-yoy-to-%e2%82%b938-6-cr-revenue-rises-24/
+- Let’s Game Now Bags ₹30 Cr To Organise More Esports Tournaments
+  The Indian gaming industry has been forced to rethink its growth strategy after the government banned real money gaming (RMG)
+  🔗 https://inc42.com/buzz/lets-game-now-bags-%e2%82%b930-cr-to-organise-more-esports-tournaments/
 
-- Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform
-  SaaS major Freshworks has acquired Israel-based AI startup Robusta Dev for an undisclosed amount to strengthen its IT service.
-  🔗 https://inc42.com/buzz/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform/
+- Klassroom H1: Profit Jumps 24% YoY To ₹4 Cr, Revenue Up 21%
+  BSE SME-listed edtech startup Klassroom reported a net profit of ₹4.8 Cr in the first half of the fiscal.
+  🔗 https://inc42.com/buzz/klassroom-h1-profit-jumps-24-yoy-to-%e2%82%b94-cr-revenue-up-21/
 
-- Ace Blend Raises $9.9 Mn To Fund Clinical Trials, Expand Nutrition Portfolio
-  D2C nutrition and dietary supplements brand Ace Blend has raised $9.9 Mn in a Series A2 funding.
-  🔗 https://inc42.com/buzz/ace-blend-raises-9-9-mn-to-fund-clinical-trials-expand-nutrition-portfolio/
+- ED Probes Unauthorised Cross-Border Crypto Transfers Worth ₹4,940 Cr
+  The Enforcement Directorate has launched investigations into alleged violations of the Foreign Exchange Management Act (FEMA) involving crypto platforms.
+  🔗 https://inc42.com/buzz/ed-probes-unauthorised-cross-border-crypto-transfers-worth-%e2%82%b94940-cr/
 
-- Explainer: Why News Publishers Challenged Data Protection Law In Supreme Court - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPX001ZG90NzdaNzVra3JNYktHdkF6YWRYdlM4QlVuSzdWTzZjcXB0OUxaemNoY2dVT2k1V3M4UGhDZE1fNlJmOUtVbndyYUxWQ21CQ0pmYkpWS0sxOTd5VjExQzBCOHQtMDhUeG9BRmlOR0YyMF9qSThWcnhNSjN6OEpNNk0xMktFNVZ6b0YwMmhqaGszQU9PaEpDT3M4em53Z0xXQ1FwRzZWU2lFYVo4RXE3NE4yOWlYa0HSAcIBQVVfeXFMTk1PREhYOWFUaU5haVVsLWNJX0QySnE0T0J1RUdhNWtrOW81T1RLc0FjYlZmUV92eDFwNGJYNmdUVWdETEFnWUE2VHFBQjFTNkNrc2doZWttNHJsT2JzdEVXemdTdElCUkNscE5hSXc4RWJmSUhYME9GYWoyZnBWSXNFVFRuLVJueDFiYXdpU2trSnFXTEJYeXo4S1ZIOXRiUDNoT3JxZlhPVzhTbWlfZU9NcUpubHhwdk1RMG1rNjktV0E?oc=5
+- Bijnis Rebrands As Zorit, Raises ₹27 Cr For B2B Quick Commerce
+  Delhi-based B2B ecommerce startup Bijnis has rebranded as Zorit and raised  ₹27 Cr in a funding
+  🔗 https://inc42.com/buzz/bijnis-rebrands-as-zorit-raises-%e2%82%b927-cr-for-b2b-quick-commerce/
 
-- Why India’s biggest news publishers are challenging its privacy law - The Times of India
-  Why India’s biggest news publishers are challenging its
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSFU1SUpDVzVKa2FNS2F1YUs5b05SdldEUmEyMmJNeXV4VjhRWFZSR0tMcnZRd21adXBYTzFfRFhrUnRIcFJiczQ1alExckJxS3UtMGtWaW1RUGxYYVFzdmZneC1jYk1ELS01RHV0S0QzVmlGMkRpMGdNSEZyMEpOMTlZRS15NVdjeWFTUHI2U0NvWmtBLVQwODZ1ZklsWHZPdG9jUDRIdmtJNEQxemk4XzJJQ0VNQ282ZmpKbFY1SGw2NTd4ck0xTDZkb0VSdGE3empuWjFkTW7SAd4BQVVfeXFMTVdic1JNdGJuRzRHM2pqZEdLOVVFWmxRRmdPeHpISVJpalZzTE8wRGFsTzNvS2x6elBDLUp0THBoMnRZY2RqVEREMmpkYlpzdDFwRXFWeDZjNWlvWU1DWDl5VHpQVkMyRWVBekF2czJ5ZVgyYmU0RE9MX2VTTFp6OGxqOTNqb2JzZnZ1bktxVVZTTTdndXF6T1k2MmxhaUlmM2RYR3JoUW5SblRFMjlaMUdKTDFaSDI5eTBRTWpyNkxXUzJMcklmNk9mNzlfRHRQTDVGNUV0eWl0aWhQR0Nn?oc=5
+- Spacetech Soonicorn Pixxel Eyes US Expansion With New Subsidiary
+  Bengaluru-based Pixxel has set up a new subsidiary in the US. The company wants to tap into the US government market.
+  🔗 https://inc42.com/buzz/spacetech-soonicorn-pixxel-eyes-us-expansion-with-new-subsidiary/
 
-- Media groups challenge India’s privacy law at top court - Al Jazeera
-  Media groups challenge India’s privacy
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
+- CCPA penalises Justdial, Sunrise Foods for safety, misleading product claims - The Times of India
+  CCPA penalises Justdial, Sunrise Foods for safety
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTZxeURCdU9LTTVyMXN0aFJEcjByMXdzcU4tQ0t3RjdaZ0tyX0U2T0QyaXNlejQ0VVFzV1pNbmx4V1VJV3dNa0hONU9QOTEwLUo3YzRwVnZyamVLZjNDdF9DN3Z2N1hQdnZYay1xY294aG91eHV4a25RV3ZhTktWS0YwbjhINUprUkxkUjRiR285TEhwZGFEVEQtQkgtSmlSR2RheWpSd0tqa0tZTU1nX3RxWDhPaHl1d2JRdm82dHN3Q0hoYUhNZDF5RERLUVNVNTEtWGh4OVdIdw?oc=5
 
-- India to Face New Zealand in Fourth T20I Tomorrow - News On AIR
-  India to face New Zealand in Fourth T20
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQREZSbVhBS3JCLWFlbU1MZUF1N3g3RUJ0d1pOZm5OOFpEOVdsRld5QnVYQXVUSV9PRVZGSHRzUFlBVkl2UUlMZnltMnk5QmRwVUlQcmRoM2U2QkVlb1VDTVc2YVdRbVJsejJwa2NqTVZzOXp1b3d6ZkdoclAyNldNNQ?oc=5
-
-- CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder - NDTV
-  CCTV Shows How Ghaziabad Woman
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalh2a3B1UlFYZGpSSDFMQWZXQzBTak8yRnlnZnk3Wkh1X0NnX2c4QnNZSkhZS0p6dkd4Z0JsTlpQYWxlb3dDcklxcmRLeXRmYXlHUXpqU3dkX3FyTWZWS1d0V3dwNWJzUGVJOTQxbmg0LUtiYnFhclZ2dWhLR19ia2ZsS3hjZUFMRkkyM3VIZ241MERLMHMzSjlaZy1KcTZoQlR1ajl3cEpabDDSAbMBQVVfeXFMTjRpdndPX2tIUGtnWmxuemhMNkpLeDhqaDkwMUhyMkM2TWRqTkxfbkxzNVpSb3lNYlJPdklabWpYTGVnREUyZ0RLdHFGeUwyenBUeXBoLXA4YmJEU2xwM0xPRXlPTlNWckVjMElhRm5KQlJkaWRDWWlVN25PT09EMkRDMGJDY19paFhHSTZhQlpjejNyOUpMcnIybEt2Um5hanFFVDVYa3ExeHItbHJTUzZWZTQ?oc=5
-
-- Explainer: Why News Publishers Challenged Data Protection Law In Supreme Court - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPX001ZG90NzdaNzVra3JNYktHdkF6YWRYdlM4QlVuSzdWTzZjcXB0OUxaemNoY2dVT2k1V3M4UGhDZE1fNlJmOUtVbndyYUxWQ21CQ0pmYkpWS0sxOTd5VjExQzBCOHQtMDhUeG9BRmlOR0YyMF9qSThWcnhNSjN6OEpNNk0xMktFNVZ6b0YwMmhqaGszQU9PaEpDT3M4em53Z0xXQ1FwRzZWU2lFYVo4RXE3NE4yOWlYa0HSAcIBQVVfeXFMTk1PREhYOWFUaU5haVVsLWNJX0QySnE0T0J1RUdhNWtrOW81T1RLc0FjYlZmUV92eDFwNGJYNmdUVWdETEFnWUE2VHFBQjFTNkNrc2doZWttNHJsT2JzdEVXemdTdElCUkNscE5hSXc4RWJmSUhYME9GYWoyZnBWSXNFVFRuLVJueDFiYXdpU2trSnFXTEJYeXo4S1ZIOXRiUDNoT3JxZlhPVzhTbWlfZU9NcUpubHhwdk1RMG1rNjktV0E?oc=5
-
-- Why India’s biggest news publishers are challenging its privacy law - The Times of India
-  Why India’s biggest news publishers are challenging its
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSFU1SUpDVzVKa2FNS2F1YUs5b05SdldEUmEyMmJNeXV4VjhRWFZSR0tMcnZRd21adXBYTzFfRFhrUnRIcFJiczQ1alExckJxS3UtMGtWaW1RUGxYYVFzdmZneC1jYk1ELS01RHV0S0QzVmlGMkRpMGdNSEZyMEpOMTlZRS15NVdjeWFTUHI2U0NvWmtBLVQwODZ1ZklsWHZPdG9jUDRIdmtJNEQxemk4XzJJQ0VNQ282ZmpKbFY1SGw2NTd4ck0xTDZkb0VSdGE3empuWjFkTW7SAd4BQVVfeXFMTVdic1JNdGJuRzRHM2pqZEdLOVVFWmxRRmdPeHpISVJpalZzTE8wRGFsTzNvS2x6elBDLUp0THBoMnRZY2RqVEREMmpkYlpzdDFwRXFWeDZjNWlvWU1DWDl5VHpQVkMyRWVBekF2czJ5ZVgyYmU0RE9MX2VTTFp6OGxqOTNqb2JzZnZ1bktxVVZTTTdndXF6T1k2MmxhaUlmM2RYR3JoUW5SblRFMjlaMUdKTDFaSDI5eTBRTWpyNkxXUzJMcklmNk9mNzlfRHRQTDVGNUV0eWl0aWhQR0Nn?oc=5
-
-- Media groups challenge India’s privacy law at top court - Al Jazeera
-  Media groups challenge India’s privacy
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGhRRzdmQzlOQVAwUmtCYzZ6TDNIMl93YlBqYmhWRkx0VFkwcllVaU1vSTRHdFd6U1k2NkZEYkdrQ0VsdFQwWHF1TjU0QXNZOTNOUndQajNtYW5teElaQ01NMXVMSXNFVkpNQnEtVTRydU5PSWN5ZHNtYmJZbXhnYmNucy0ySUt2d2hKRk1JTG9SMmZrU0pJZHFac0bSAaIBQVVfeXFMTV9zOTFXeFBReTNEeHYyUHZ1YjR3RVZpNy0zODFMSEp3YW5QejJSeUJQUi1JQ2F3U0o2Mk9VelNqQWNZNTZBdWJXYjZlN3NDNllmamRBQzRIdkMtX01BX0NvWnY5ang1dW1sTEZpSTYxTG52RndwWl92aHZIM3d2b1pZNWlHeUVtX1dNNG5SeGd1RkdGdVAtSkhHSDlQQ0VHZ0tn?oc=5
-
-- India to Face New Zealand in Fourth T20I Tomorrow - News On AIR
-  India to face New Zealand in Fourth T20
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQREZSbVhBS3JCLWFlbU1MZUF1N3g3RUJ0d1pOZm5OOFpEOVdsRld5QnVYQXVUSV9PRVZGSHRzUFlBVkl2UUlMZnltMnk5QmRwVUlQcmRoM2U2QkVlb1VDTVc2YVdRbVJsejJwa2NqTVZzOXp1b3d6ZkdoclAyNldNNQ?oc=5
+- Asian Champions Trophy: Harmanpreet, Sukhjeet shine in India's 5-2 win over China - ESPN India
+  India beat China 5-2 in the Asian Champions Trophy
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGtMV1U3UHhlWXZGRkxVN3QyRDRtZnlkSXVTS1RnVjdSckJEU1Rad1ByckpqQXhvNi1yQURnQ2NpTF8wZFVlUFBvcHoxdzM4TkgxSm9pdUJzOHBHRS1Lck1BY3pyTmc0ZndkVUl3cl9aaTdtbW8zNTdMRlNjbGRweUROajBmTGRIRERGOFZrYUl0dnF4aGRsd2tRaV9yV3BMYTFmX3BsT0s5Wmg2c21KQnFkUmZkTzh3M0tCaVJUc09VMW5LVVZJdHA3ZEZYODhMZm5UaElMWmJYZw?oc=5
 
 - CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder - NDTV
   CCTV Shows How Ghaziabad Woman
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalh2a3B1UlFYZGpSSDFMQWZXQzBTak8yRnlnZnk3Wkh1X0NnX2c4QnNZSkhZS0p6dkd4Z0JsTlpQYWxlb3dDcklxcmRLeXRmYXlHUXpqU3dkX3FyTWZWS1d0V3dwNWJzUGVJOTQxbmg0LUtiYnFhclZ2dWhLR19ia2ZsS3hjZUFMRkkyM3VIZ241MERLMHMzSjlaZy1KcTZoQlR1ajl3cEpabDDSAbMBQVVfeXFMTjRpdndPX2tIUGtnWmxuemhMNkpLeDhqaDkwMUhyMkM2TWRqTkxfbkxzNVpSb3lNYlJPdklabWpYTGVnREUyZ0RLdHFGeUwyenBUeXBoLXA4YmJEU2xwM0xPRXlPTlNWckVjMElhRm5KQlJkaWRDWWlVN25PT09EMkRDMGJDY19paFhHSTZhQlpjejNyOUpMcnIybEt2Um5hanFFVDVYa3ExeHItbHJTUzZWZTQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Protest at India university where no students’ union vote held for 20 years - Al Jazeera
+  Protest at India university where no students' union vote held
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlFjVVppN3Z3NTFYNGIyRHZKTkVWY1R4dWtySlM2WUZuTEVSMkh5ZFpZekdST01OSGZJT0c2Mm5GdnFFWF91Znl5Yi00N25xa2xJSlNiWDhyVjFrN18yVjhpRXFrUk9jZG1rNkpoVVhaSGdMX1kxVjU4RDJhdDBTanJzWkI0OGJtdHcxVDBKMHBJLXBWN3htMGptcHBsR3RKbE4zVXRPQVYwWTVva1llbTA5QWNZaE3SAbwBQVVfeXFMTmg2UGZjaXM4RlBUWUc0aGZHQUttZXNlNHNTRXQtN2NUanNPSW54dUNkblJiTTJ1WkF6WkdZc2tZTTdMbGZYaVppQ1BuSWZaS1ZBQmxaQVFwX1ZpZ3NfUWlocWZWdnhMZlJLa2ZLdzB4TG5wY1pRbUxpdHlSVFdvNmk1cW9uRkEtV1RrM1l3cldwYVdHSjROS2FKOEl5cmpYZzVRYUF2MGxoWldFdWEwSmhTOEx0RGJZZUlNNVc?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Arunachal Protesters Rally Against Siang Project, Demand Activists' Release - NDTV
+  Arunachal Protesters Rally Against
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPVWxfbU10R3BfTlZZQ3BnQ2tNdkpzYWFFVWJCOE1aQ2ljd0hvQzVqdF9NelkyTTdWZDFfaks5OGJNQTJWak92NDJJM2x3ZTdNTm16U0w1SFAwTkxmeHladFRoa3AxeWR0UEtTa2JmNTBBV2ZueVFhcG1odE85OXBUZHRFWkFEODVtYU5SSjBieUpxOVdWQXFTVGpER2pDaklUckdEdC1lRWk3N3ZydDZ5Ym1rMGJaUkpZNzd5d2hTbWt1aXBf0gHMAUFVX3lxTE1CYUxsRklsX2ZhclRlSUlVMWU2QlpENmUtd1duRFpLR3F2M0FlcDlKdmpJQ3pxMFQ3Z3ZnMERCWU9rb0stZkRDRW10a0dEd3E3TzRCR0NIZFp0eFVUMEhrUlhJbldrUkhWZE55eHhhV1JDV3h1b1YxRnFzaTZSV1ZVYTZHZkNIVkZ0bWU4RE9OdHJLM1RWRVRkVUpVNzd4aVZzLTNRUmdYYjFmaUxaT1IzbWtlQ1psZnlEUXdHeTFJWm9ZdEdHeWotUVpOSw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- CCPA penalises Justdial, Sunrise Foods for safety, misleading product claims - The Times of India
+  CCPA penalises Justdial, Sunrise Foods for safety
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTZxeURCdU9LTTVyMXN0aFJEcjByMXdzcU4tQ0t3RjdaZ0tyX0U2T0QyaXNlejQ0VVFzV1pNbmx4V1VJV3dNa0hONU9QOTEwLUo3YzRwVnZyamVLZjNDdF9DN3Z2N1hQdnZYay1xY294aG91eHV4a25RV3ZhTktWS0YwbjhINUprUkxkUjRiR285TEhwZGFEVEQtQkgtSmlSR2RheWpSd0tqa0tZTU1nX3RxWDhPaHl1d2JRdm82dHN3Q0hoYUhNZDF5RERLUVNVNTEtWGh4OVdIdw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Asian Champions Trophy: Harmanpreet, Sukhjeet shine in India's 5-2 win over China - ESPN India
+  India beat China 5-2 in the Asian Champions Trophy
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGtMV1U3UHhlWXZGRkxVN3QyRDRtZnlkSXVTS1RnVjdSckJEU1Rad1ByckpqQXhvNi1yQURnQ2NpTF8wZFVlUFBvcHoxdzM4TkgxSm9pdUJzOHBHRS1Lck1BY3pyTmc0ZndkVUl3cl9aaTdtbW8zNTdMRlNjbGRweUROajBmTGRIRERGOFZrYUl0dnF4aGRsd2tRaV9yV3BMYTFmX3BsT0s5Wmg2c21KQnFkUmZkTzh3M0tCaVJUc09VMW5LVVZJdHA3ZEZYODhMZm5UaElMWmJYZw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder - NDTV
+  CCTV Shows How Ghaziabad Woman
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalh2a3B1UlFYZGpSSDFMQWZXQzBTak8yRnlnZnk3Wkh1X0NnX2c4QnNZSkhZS0p6dkd4Z0JsTlpQYWxlb3dDcklxcmRLeXRmYXlHUXpqU3dkX3FyTWZWS1d0V3dwNWJzUGVJOTQxbmg0LUtiYnFhclZ2dWhLR19ia2ZsS3hjZUFMRkkyM3VIZ241MERLMHMzSjlaZy1KcTZoQlR1ajl3cEpabDDSAbMBQVVfeXFMTjRpdndPX2tIUGtnWmxuemhMNkpLeDhqaDkwMUhyMkM2TWRqTkxfbkxzNVpSb3lNYlJPdklabWpYTGVnREUyZ0RLdHFGeUwyenBUeXBoLXA4YmJEU2xwM0xPRXlPTlNWckVjMElhRm5KQlJkaWRDWWlVN25PT09EMkRDMGJDY19paFhHSTZhQlpjejNyOUpMcnIybEt2Um5hanFFVDVYa3ExeHItbHJTUzZWZTQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Protest at India university where no students’ union vote held for 20 years - Al Jazeera
+  Protest at India university where no students' union vote held
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlFjVVppN3Z3NTFYNGIyRHZKTkVWY1R4dWtySlM2WUZuTEVSMkh5ZFpZekdST01OSGZJT0c2Mm5GdnFFWF91Znl5Yi00N25xa2xJSlNiWDhyVjFrN18yVjhpRXFrUk9jZG1rNkpoVVhaSGdMX1kxVjU4RDJhdDBTanJzWkI0OGJtdHcxVDBKMHBJLXBWN3htMGptcHBsR3RKbE4zVXRPQVYwWTVva1llbTA5QWNZaE3SAbwBQVVfeXFMTmg2UGZjaXM4RlBUWUc0aGZHQUttZXNlNHNTRXQtN2NUanNPSW54dUNkblJiTTJ1WkF6WkdZc2tZTTdMbGZYaVppQ1BuSWZaS1ZBQmxaQVFwX1ZpZ3NfUWlocWZWdnhMZlJLa2ZLdzB4TG5wY1pRbUxpdHlSVFdvNmk1cW9uRkEtV1RrM1l3cldwYVdHSjROS2FKOEl5cmpYZzVRYUF2MGxoWldFdWEwSmhTOEx0RGJZZUlNNVc?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Arunachal Protesters Rally Against Siang Project, Demand Activists' Release - NDTV
+  Arunachal Protesters Rally Against
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPVWxfbU10R3BfTlZZQ3BnQ2tNdkpzYWFFVWJCOE1aQ2ljd0hvQzVqdF9NelkyTTdWZDFfaks5OGJNQTJWak92NDJJM2x3ZTdNTm16U0w1SFAwTkxmeHladFRoa3AxeWR0UEtTa2JmNTBBV2ZueVFhcG1odE85OXBUZHRFWkFEODVtYU5SSjBieUpxOVdWQXFTVGpER2pDaklUckdEdC1lRWk3N3ZydDZ5Ym1rMGJaUkpZNzd5d2hTbWt1aXBf0gHMAUFVX3lxTE1CYUxsRklsX2ZhclRlSUlVMWU2QlpENmUtd1duRFpLR3F2M0FlcDlKdmpJQ3pxMFQ3Z3ZnMERCWU9rb0stZkRDRW10a0dEd3E3TzRCR0NIZFp0eFVUMEhrUlhJbldrUkhWZE55eHhhV1JDV3h1b1YxRnFzaTZSV1ZVYTZHZkNIVkZ0bWU4RE9OdHJLM1RWRVRkVUpVNzd4aVZzLTNRUmdYYjFmaUxaT1IzbWtlQ1psZnlEUXdHeTFJWm9ZdEdHeWotUVpOSw?oc=5
+
+- CCPA penalises Justdial, Sunrise Foods for safety, misleading product claims - The Times of India
+  CCPA penalises Justdial, Sunrise Foods for safety
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTZxeURCdU9LTTVyMXN0aFJEcjByMXdzcU4tQ0t3RjdaZ0tyX0U2T0QyaXNlejQ0VVFzV1pNbmx4V1VJV3dNa0hONU9QOTEwLUo3YzRwVnZyamVLZjNDdF9DN3Z2N1hQdnZYay1xY294aG91eHV4a25RV3ZhTktWS0YwbjhINUprUkxkUjRiR285TEhwZGFEVEQtQkgtSmlSR2RheWpSd0tqa0tZTU1nX3RxWDhPaHl1d2JRdm82dHN3Q0hoYUhNZDF5RERLUVNVNTEtWGh4OVdIdw?oc=5
+
+- Asian Champions Trophy: Harmanpreet, Sukhjeet shine in India's 5-2 win over China - ESPN India
+  India beat China 5-2 in the Asian Champions Trophy
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGtMV1U3UHhlWXZGRkxVN3QyRDRtZnlkSXVTS1RnVjdSckJEU1Rad1ByckpqQXhvNi1yQURnQ2NpTF8wZFVlUFBvcHoxdzM4TkgxSm9pdUJzOHBHRS1Lck1BY3pyTmc0ZndkVUl3cl9aaTdtbW8zNTdMRlNjbGRweUROajBmTGRIRERGOFZrYUl0dnF4aGRsd2tRaV9yV3BMYTFmX3BsT0s5Wmg2c21KQnFkUmZkTzh3M0tCaVJUc09VMW5LVVZJdHA3ZEZYODhMZm5UaElMWmJYZw?oc=5
+
+- CCTV Shows How Ghaziabad Woman, Gym Trainer Plotted Husband's Murder - NDTV
+  CCTV Shows How Ghaziabad Woman
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalh2a3B1UlFYZGpSSDFMQWZXQzBTak8yRnlnZnk3Wkh1X0NnX2c4QnNZSkhZS0p6dkd4Z0JsTlpQYWxlb3dDcklxcmRLeXRmYXlHUXpqU3dkX3FyTWZWS1d0V3dwNWJzUGVJOTQxbmg0LUtiYnFhclZ2dWhLR19ia2ZsS3hjZUFMRkkyM3VIZ241MERLMHMzSjlaZy1KcTZoQlR1ajl3cEpabDDSAbMBQVVfeXFMTjRpdndPX2tIUGtnWmxuemhMNkpLeDhqaDkwMUhyMkM2TWRqTkxfbkxzNVpSb3lNYlJPdklabWpYTGVnREUyZ0RLdHFGeUwyenBUeXBoLXA4YmJEU2xwM0xPRXlPTlNWckVjMElhRm5KQlJkaWRDWWlVN25PT09EMkRDMGJDY19paFhHSTZhQlpjejNyOUpMcnIybEt2Um5hanFFVDVYa3ExeHItbHJTUzZWZTQ?oc=5
+
+- Protest at India university where no students’ union vote held for 20 years - Al Jazeera
+  Protest at India university where no students' union vote held
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlFjVVppN3Z3NTFYNGIyRHZKTkVWY1R4dWtySlM2WUZuTEVSMkh5ZFpZekdST01OSGZJT0c2Mm5GdnFFWF91Znl5Yi00N25xa2xJSlNiWDhyVjFrN18yVjhpRXFrUk9jZG1rNkpoVVhaSGdMX1kxVjU4RDJhdDBTanJzWkI0OGJtdHcxVDBKMHBJLXBWN3htMGptcHBsR3RKbE4zVXRPQVYwWTVva1llbTA5QWNZaE3SAbwBQVVfeXFMTmg2UGZjaXM4RlBUWUc0aGZHQUttZXNlNHNTRXQtN2NUanNPSW54dUNkblJiTTJ1WkF6WkdZc2tZTTdMbGZYaVppQ1BuSWZaS1ZBQmxaQVFwX1ZpZ3NfUWlocWZWdnhMZlJLa2ZLdzB4TG5wY1pRbUxpdHlSVFdvNmk1cW9uRkEtV1RrM1l3cldwYVdHSjROS2FKOEl5cmpYZzVRYUF2MGxoWldFdWEwSmhTOEx0RGJZZUlNNVc?oc=5
+
+- Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
+  A border official's remarks cast a shadow over India
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNU2xqendma21jUVJYakltdU9wOHNISklLUVJmaXpDaXNzc0FHZF85ei1jQW1UQXY5aG5kUTMxZDVBWTBVMG90MGY4WDFQRHY1Z19XZHhPclVkT0U?oc=5
+
+- The NATO Quantum Technology Roadmap and its Global Implications - orfonline.org
+  The NATO Quantum Technology Roadmap and
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQbEJMQ0g2MC1sckdxaDR1NWNiWlVJQmpHRW5ET0JXU2VtSDdRa2NEa3doSVp0clRUT0FheHFIYkFKeHRjdXgtZ21fM291Y05oaFhtWUpHYklLTWlNczNVRUtUNm5CWkVJMkU3QnE3aGg5Slc5V3FpSmVqTW1iWVZoVjZ3WUdCYjJqREtldm40MEhfWlJIRDYwOVVOMHZ4WTVhU04zWA?oc=5
+
+- MRVL Stock Sinks as Marvell Technology Reportedly Considers Acquiring Lumentum - Barchart.com
+  MRVL Stock Sinks as Marvell
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1JVMG44dGZJR25kcjIzNzk4UjNTOGU0U2VMU2txNDdQOV9nRnl3czVnaE9MYm1uTkpiOUh4dXc2QmpNQWJvS1p6ekdVVHdqbGN6OWlpQVVuWnVQdXhnS25HMlJpcnI4eXVlQUdWSF9wcUtSUlE5QjQyVHRJTlNXSnU2dzFfRDY1dVVDZzZLakRfM1RXZVNGeXRUVlR2UVFqZGpNWU5jVVNoRVg0dHBGdVpuS21ycUhTdzlhUjg1aw?oc=5
+
+- Musk’s Favorite Ticker Is Free for Taking in a SpaceX-Tesla Deal - Bloomberg.com
+  Musk's Favorite Ticker Is Free for
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2Z0YVBmOXRvcU5FM2kyVzduM3VfQW4xLUVQMTAxSU9GVUZxQmhrc3VxaEszajFPalpzV1dLZUNhRERPclZVS05nWHo4bkpoQzdTWWNxT2lET2FzTHdxTFhTOGFzUVFJOWpjU3pad1ZpR2hWUEQzZUdnTzhpLVZ3cFQtdzhKZ3RIT09RWGd0OHR1VGl5SXpnMWlKZTNnejgtZnlRQWZnQXExd0daYXdoZlJISWN3UQ?oc=5
+
+- Amazon gives Wall Street mixed financial picture in earnings report - The Guardian
+  The Guardian reports that Amazon gave Wall Street
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3d0X0FidUJoTEd5d0xZT1VERDRSRVliWGhwWlhwNUdWUWFEUWgyeFpleURqU2lxQjN6Z292dmlsaG5vYWY0ZUJQZUVaNFdXN3dBTWZIem9STDdLY1FqNGpnOV9QeE9DY3lMMDlodUlHeC1nX2hyY2ZCY0RRaGVYZFpHdERvOGxyMElDM1dsUUc?oc=5
+
+- Security Council LIVE: Can new technology keep the world’s sea lanes safe? - UN News
+  Security Council LIVE: Can new technology keep the world�
+  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kT3NsSDhrMzNVcDQ4MG5xeTQ2MzR4Q2hTc2RWaWhwOHJEMWo1S1FCTW15eEVCRllBUTEwTFNjdDd5anhOUk9YNkpaVnB4SkczZElDbG10TQ?oc=5
 
 
-_Last updated: 2026-10-29 12:12:10 UTC_
+_Last updated: 2026-10-29 22:24:02 UTC_
