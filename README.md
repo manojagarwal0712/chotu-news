@@ -1,16 +1,16 @@
 # 📰 Daily News Summaries
 
-- Ammo cache seized in J&K’s Rajouri - The Times of India
-  Ammo cache seized in J
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOV24xQjVZUmZ1TlRUVC1ncG1ZU0JHOU9vTVJ4cWVDNHVFVDBNZ3VjbEpfcGxDUVNwaFhnRjhMQnRTNWtqd2o5ZUt1Q3hGN1hGRjM3UmdOcXlRU0RrNDhnMmNEdkJvLXF5RnVMRmJObmFXX0RoLXBYalA3eHRBTUloQ3RTWHMtWmF3eTVlUnIyVGdGd3dZQ0JEOGIwTkJDOXE4OEHSAacBQVVfeXFMT3lIMWxzSU1zUk5kMVZDRHdJdUh1MXAzeVNxMzR4cWQ3bXVxOU05R0FVTmRWUncwTElVN0pCVl85VzNLbjZCbEFKNWlxbVduYm12X2E3bVA4QXNIMkdBU2ZrMktSX0JPT1JCUXlwR3JzZW1ZMjFtdGxTZ3lVSGxkelVWRTZlZ1hXbE1kWUp2TVRDTmozR29QaHRKQ0ZJYjFZc2lyaG8ySmc?oc=5
+- 'Don't Touch Indian Products': Nikhil Kamath Recalls Satya Nadella Remark - NDTV
+  'Don't Touch Indian Products': Nik
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmpxekZXODRPT2MwSWtBZTB4NWxFQTh6QUM5ZzJEdHpkRW1wMEpIczktS1dnQXFwT1ZPbkRnMmxheHBTQWlHbmZ2SGNWbXJvQ3owZlgyTEZ4TjNVcFJVRGRfYXR4SmxKa29zYUtJRXB4Y0Q0NTVEazRGVmgyZlU4eGhlUHptYUpQbldmR0lXZzhlNW5sWjY3ZlMtUFRPMFNNM3R4dGZFam4zclNNUFNEaFdGS1lpTE5malJDUEF6dXZnWmtqTVFj0gHPAUFVX3lxTE1lZXBOZ0dlZ2FUWnBaSkZ3RHZZX2lHV1c5eHBaWnA5S2Z5SHVtU2dac0NJSVI0ZVdVM2htZDhOaEdLeDJ4Vzk5eDFWQzQ4U29KU095ZHVaeThRRzAtWGo2NXVLTkVtRmIxRzFtdGpoTGhUSFFPbFlVbWFJM1ZIQ0V1MDJCN0NJRDJHUUJHbS03WEUxcjZ4LU5UWkhFX21EcUIwSWhWaklBbnl6SkdvU3NxRnZTeXpqTnE2ZmtWa0ZwN0Jrak1MZHdyNkZ6V3gxWQ?oc=5
 
-- Green financing in India rises to $82 billion, but flows mostly to established sectors: Report - The Economic Times
-  Green financing in India rises to $82 billion, but flows mostly to established
-  🔗 https://news.google.com/rss/articles/CBMi4wJBVV95cUxNM1dleU8yMC1LM3hSN1ZkYjdRLXdnODJnQlZpNHZnWXpYSXQ4ZFk5bE1JR0lsS041NzBNY2pKOHQ3ZlY5NmpabUVIdUIxbzdxYWhHLXJwZUNwTG9iUDV2NXhTa3lQRnZBeW93QUFNSVRYMHRkeGFkb3dCX0djbHp1QXNIRTRFMFhvYXk0bmstekZnUTBQVFM1Z3IwNHNoSFhwdHlaVVAyLXNSUVY3ZHp0TnRaUW9BaW43dzI5bm5jekFZdXBNLTdmU2FPdHV6dFR3T29uR2NDLW95ZDhuWm1Gcld0SFBiX0M3N0ZCam0zUEpQS0pjUnlXWkREWUQ2Y2dGUHNFNVdxZnpwMC13MThIbFhOeEVSWVNkTkoyTWhfeGZXVkN3a1NNT1RkYmN0VjVnem9QejVUMG5DVzlXSmhNR25VcjA3bU1maWl1UU9QS2FaeVh6SWJPc1VRSENmemNUWkU40gH_AUFVX3lxTFBqTzBMeHNwNDc1c25sRmg0RXlkb0xva3oxS2ZfaGxKQ09BMGxXM1RtUFY0d0gwY0ZXWl9ONG9PNE9CMFRYZ2VWNUIybzVfaUZfUlVmSXl1bzRMLWpSWl9PQlJwNkZlLW1zTmNCVncxMGFPZUQweHZIdzZOT0hweF81ajAxaTdSVmpaMWJOTzdKZWtDajZaVzBGekl1NWlVMHUyNHU0dnhMbE1naUJELWJZUmI5VHB0MVV1UHB6ODVrMzZLQVJwTldpckpfTkxmZElnWlJ3S0tSemp0TDNCV1FWYXlud0Jnd19oUU1pdGxnSW1XVEpyNUhjWVhLNHk5Yw?oc=5
+- MEA says 22 Indians killed during West Asia conflict - The Times of India
+  MEA says 22 Indians killed during West Asia conflict
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDVYTTBYN2FGYlg1RkpUcnhMbGhzT1lKSVZYLUthZ05BUHVzVG1pdW1CREgwQ0MzWUpncDhFRm9DQm93aE9NYkd6WU1TUHdObWozT2pFbEtBejRMdkR1UjJaT3Vuc1k5MWhDSk14Ml85ajEycU5LeVotU0d2Rm5nZXdtY3lZS3FqenUwREZVUlphNHVMQXRLVFdBdWlnc3htTHFMb1FBTmt2TmM0cGR2dzBMcFJtZ3hMU2wtZtIBwgFBVV95cUxOcTk1OHpoN25aeEQ2WHE3YWJqeEtvSG4yLTR5ZFh2ODJFTDFBZ1RjZ3RMNFM2Nktpdnk4M3ZBcGR2OXBqY00wbGdpNV9icFF6RnZjTTJRR2xLN1NjTmF5TV9lY3lwcDVQTGsydFlaS29DbXMtTWpxc3RfbFpfWk4tQVpfZ1I5aXl1dGxTNW10Q1RIV19lNjRyVEFmanE1aHY4S2xuS0NjTzNzRHdmMl80ZGtPZEVVSWF0OU5JSV81Vlp6Zw?oc=5
 
-- Ghaziabad Woman, Gym Trainer Plot Husband's Murder. He Survives - NDTV
-  Ghaziabad Woman, Gym Trainer
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXF3c1otNm1GMTh6ZkZKdFFJanN6ai1IeVNHaEI0cVZKWnowS1YwdnVYOW9ET3ZFVXlaSTdkdllZWFd5N3lpaTBuekE1WlhFaWk0RFpERG53QTRsck5YYUJTcnc2OXRNQ2JxcUFFYU1pMHJHZlNoS2dMT3M5ZUpFcGhZTXNkMll2dlRnYVRualh3V0pzZnJLTWk2blBsQ196LXZ4bXRUM0tJQ3RTNnJzd1p30gG6AUFVX3lxTE5MeXFDVmtmWkR0TDBkRnpRa28xOTlpUmlZN3RRRVdKdENfa3dvRmxNSTVqWDlFVFhQaDVfMXhONUhhUnVBbnZQUHR5bmZvbW9yWHhIeWNSdVl1amJReUJ4dzV1ZnVGcU9XMUQwb3NRN21id1ZkOHBHR2hQb0xHLTVKVTJjMUNBYjhIVG5BcUV3MDY3UzV3eHFOSDRhNXlHYTIzeGYzUzZYbXRkQmF2WVVIajB4b252QTh0UQ?oc=5
+- India calls for global action against terror financing and cross-border terrorism at FATF meeting in Paris - News On AIR
+  India calls for global action against terror financing and cross-border terrorism.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNZHVNN19BU3BPcHZYSXV2ZzBDNnAzZFBmYTB6N1IzQ29PTFZrT1ZYN09oelMzVmNyNFBoTkNXT3RvQjVJR3FkbGxCOFF6ZWJFYzZKd0FvaURNdjNzMFVyRDR4c09Yd0NRT0dpaFgxZHBUQ3Z4cUlwa3lXY3k0Yy1VMVA5Nm15NDZXd2ticTE4TXJYWlRwMHNaM0l5M09wdUpSc3dvZG51Z0NvSXV3UVV2VnpBRTVRX0hEY05DNkY2VU5OTzNSZHd6ODJ3aWU?oc=5
 
 - Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
   A border official's remarks cast a shadow over India
@@ -20,65 +20,65 @@
   Ambani’s Jio reaches $
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
 
-- Pope to Mercedes-Benz: Technological innovation should serve human dignity - Vatican News
-  Pope to Mercedes-Benz: Technological
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWU2NFNzSzZ1dF9MelRvT1ZCRU1YOG91c3RTN3dyMXhkQV9RRE9SbHg2bzFLZkFNcV9qQm5UdmZWRl9JclpmSGhKcTBJM2hMMVB2RWU5VmVwUTFMMkY1SlpNRDhhaHBDZjNBU01nRzJmcDIxQWpuekNkc0l0Ql9CUDNRazZJXy1zWkV1anFRMm5kTmc?oc=5
+- China’s tech darlings are losing their shine. Here’s what’s behind the sell-off - CNBC
+  China’s tech darlings are losing
+  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5?oc=5
 
-- Dropbox plans 9% workforce cut, technology chief to exit - Reuters
-  Dropbox plans 9% workforce cut
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPalU1amdTWXlzWlhyYjl4VjduN2ViWFpKdHB4R2wtMDRXWWNkMlNkRktRcEJ3bFd2MkRiQURMd0N5Ull6dG9zaTRKMUF3VUdiNWk0bG1NTTJMbjJKOUlRSU1VWkhLTmozenlfYkloODZteVhPU1Y4UGRIcU81eno2djVPc3BXQmgzU1lKNnJudjdOYUgzbDJxN2ZqUkdEdWRNYTlBYW05UHJ2NUY0bXBZ?oc=5
+- Meet Bowen Wang, the San Carlos seventh grader who built an AI tool to predict earthquake aftershocks and - The Times of India
+  Meet Bowen Wang, the San Carlos seventh grader who built an AI tool to predict earthquake after
+  🔗 https://news.google.com/rss/articles/CBMizgJBVV95cUxQTHhlb1d2QmZXTlhrRHJVMmY5UUk5NzhrZWFvMGJtYWxfNG9fVkpjYzRVTzhTdHg4LXBTQW5xMTNYczZiZUFzNmpsQjgwVWNJM3RPaVd2bk9MTHRzVmdxWlM1T2lMempCNFR1WGhvWXZaTlUzSmZxcGZiUlp1NXF2VnpPXzVxWnhxSUVHZ2hUbmFCRFByNVUydFM1dlJUVk0yd1MwWS12UzRxazZuTDhIdmNoU21wa0xta0E2V2dkaHRpd3BfZ1dEZF8xMGplYzByV3BDcVZfQk1qZk9mV1BZeDZ3TGdFUThCNGZ1Ym16bUV1bFNUZFIzZHVEZW5tZzI5dEl6dnU4TXpjOTRvcjZXWkRqX1JnWmNlekpTbHB5WV90cFdzQW92R2I1dmFvSFdzM2NvVW9yRFVob09oX29QVk14Q0J5ajRka01ESGhB0gHTAkFVX3lxTE5sZ0UzYk1IRzNIWjc4YWlOcWxpTHcxRF9DVGM2T1hncVlpTmFweVZtSm9lR3J3eVlYR29jUW9oQ2pPV0dOTWl3djdwUWNmTnhGdHAxTHU0MWNlNHpjcWtPR0NvYUVUWWI2NWZpNktfMy1MejBLUnJ3bnhPY3IxSkdJeHp1aDdsNGdiNjBjSEcyU2MycGZCbUk4b0FRaDlnM3NKa3BfbWNCWUtleFdXVmtDTFQ3LUgwTjZyY3I0T1NhemlJRkVaV3gxTmN6Q0Q0bG00ZEt1QkU4c1NxZWtpeDVxUTVSU0ZyaWxLdm5ySXpjVnprOEhsR1pYcmxZS0FaeF9LVUUxTTctYnNBSmFFVzdFUl9sdU5HVGpRV1Fta3AtZk1UeWxYVk1LcnNmb2pidzdnZk1MYVJERHZPVHkxSFkyc19sdTJGenZFS24yVEhsUEwzMA?oc=5
 
-- 'An annoying buzz': The search for stealthier drones - BBC
-  'An annoying buzz': The
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lX2I4dTd4SXhjdEo2bUtTOTZlVVhGYWdnbkp3OVBWb2VYc2JlWktLQU9pSlpUQkozNmx5c0Rmay0yWHZsSThRbTNhS3hnc3ZiV0FSXzZQLXRac3c?oc=5
+- Marvell Is Said to Near Megadeal for Lumentum In AI Push - Bloomberg
+  Marvell Is Said to Near Megadeal
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGdUMkpHa2JOcFhCMTFQU0tLaTJkTU54TmQ2aGJnVVVMR2VzeGdzLS1ONXd0U3hqQ0xPZUlEeTgyOWVXMHRQQ0hIeW5aX21JRkpNY3FlRUdNM1ZJMS1ZX3JwMWUteGVLdFFaVlNZMjZXUWtSSXNVRlEwdnRvbU9iQVBnNS1ycUgxMU5LTGtQQ0hSTWNOTkhBZ3FNRC1HaEZXZG9UMUd1QlBfeG1qZ044cTQtTk9Ydw?oc=5
 
-- Technology Services Reinvention: AI Reshaping IT and BPM Services - Nasscom
-  Technology Services Reinvention: AI Res
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHhyZ01XMkFXb3lDTXBBdjdneGNmalRHdWxpUmhzZ1owNkJBN3EyRVFsRjc3ejJYRGVFRC0yNy1HOW11NFllS0ZWYXFHRHJsaUtUaFpzNDJOdzhvUTFoZ2YwMnpQMFNSTDdIX1ZzVG5GSnZ1WTJyY1RfUUlMdlpVd09nV3pac0FLTHdMaE1tVnowUFRfZmFNOWNMUVVuNXRleU5OVy1pU1RrU2FWMzBxRkZ2WE96dFhZ?oc=5
+- Volkswagen, in strategy shift, plans to globalise China-developed technology - Reuters
+  Volkswagen, in strategy shift
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUpOYjRPbVZuMzdSa0U4R3E2MUpiZDdzTzNxLWx4U3o4UnpnV0NaNjkwTzFlcmItSGVveHhoUktBUU94MDBXVWVfeG5vd2Y1Y2xxOTNPTWl4YXMxNURsV25ieDBfUHFZSUNydUVRMC1FdGZNZ0Q3WmtuQ3lfME9UTXh2Qll2aFgxajZzWEhteFd4OEpyRE9Ic2E4bmVRTXl6eHFBQk4yLXBRNWpmdUI3QzVpal9oSUk?oc=5
 
-- PM Modi says, India must embrace emerging technologies and lead world in creating them - News On AIR
-  PM Modi says, India must embrace emerging technologies and lead world in creating
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHdUVnFwdWEzNjJublV4TFlhYzd5NHIzRzRqbGFIaXRIQk8yaFVCeExjMG1qOG5NZkN6SFV4YzBJWHZldmoxX3BHTEFteWs3a1lILWU3V0Z6WDYtTDYxbm5hX0pUWnByQVcxcm1MeXhad0doREpoN0JTVVcxcDh6X2xQaWMxY3prU2IyRGNkVURWQXkyYm1tUEtxNnVyRU9JOGxJS2Q5dXBrWThyWTRrNw?oc=5
+- Making machines that can listen - MIT News
+  &nbsp;
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQS015UWgzdDdNb3ZjMi1HTTN2dDNHUVZxa0ltWEFadEtERmFSQU5YVFk3ZHRibTh0aFQ2aXl5MGgyc2UtU2lRNmJuNzI5REtXSmM4MWp2elA5b3M0c3B5UGl5Q0ZzdFBvZnEtRi1FdXFibGZqQ29KT2J3eUU0eUM2VnBRUHY?oc=5
 
-- Apple Unveils Touch-Screen MacBook Pro, Reversing Long-Held Jobs Stance
-  Apple unveils a new MacBook Pro with a touch screen. Touch screens have become a must-have in the personal computer industry.
-  🔗 https://www.livemint.com/companies/apple-unveils-touch-screen-macbook-pro-reversing-long-held-jobs-stance-11793212673842.html
+- Online grocery delivery deal worth  ₹1.6 lakh crore? DoorDash likely to make Instacart buyout official today: Report
+  DoorDash could announce a deal to buy Instacart as soon as Thursday. The deal
+  🔗 https://www.livemint.com/companies/news/online-grocery-delivery-deal-worth-1-6-lakh-crore-doordash-likely-to-make-instacart-buyout-official-today-report-11793243922460.html
 
-- Exclusive-US DOJ is inquiring about Nvidias purchase of Hugging Face, sources say
-  US DOJ is inquiring about Nvidia
-  🔗 https://www.livemint.com/companies/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-11793212486758.html
+- iPhone sales slump up to 30%: Is Apple's premium pricing strategy losing its shine this Diwali?
+  Apple’s iPhone sales in India have fallen by up to 30% around Dussehra.
+  🔗 https://www.livemint.com/companies/news/iphone-sales-slump-30-is-apples-premium-pricing-strategy-losing-its-shine-in-india-11793241116124.html
 
-- Inside IPO-bound Anthropic: How much code does Claude write for firm? What is its 'no-ego' work culture about? Explained
-  Anthropic’s IPO filing says its co-founders hold 50.1% of the voting power on certain matters. The company could reach a
-  🔗 https://www.livemint.com/companies/news/inside-ipo-bound-anthropic-how-much-code-does-claude-write-for-firm-what-is-its-no-ego-work-culture-about-explained-11793205783785.html
+- Amazon lays off 250 employees via early morning emails, less than a month after 1,000 job cuts: Who was hit?
+  Amazon has laid off around 250 employees in its devices and services division. Workers informed through
+  🔗 https://www.livemint.com/companies/news/amazon-lays-off-250-employees-via-early-morning-emails-less-than-a-month-after-1-000-job-cuts-who-was-hit-11793241065392.html
 
-- Adani eyes €3 billion acquisition of Dutch energy storage firm VTTI as supply disruptions boost demand
-  Billionaire Gautam Adani is exploring a potential acquisition of Dutch energy storage group VTTI. Supply disruptions make the facilities more valuable
-  🔗 https://www.livemint.com/companies/people/adani-eyes-3-billion-acquisition-of-dutch-energy-storage-firm-vtti-as-supply-disruptions-boost-demand-11793209049359.html
+- Iran war drives up fuel costs: US cruise ship MV Odyssey runs out of money, suspends voyage; 200 left stranded
+  The ship has been carrying 203 passengers, mostly Americans, along with 156 crew members. It
+  🔗 https://www.livemint.com/companies/us-cruise-ship-mv-odyssey-runs-out-of-money-due-to-fuel-costs-suspends-voyage-200-left-stranded-what-we-know-so-far-11793239991031.html
 
-- Chennai Metro Phase II: How Hitachi Rail's  ₹1,620 crore contract will power driverless trains
-  Hitachi Rail's CBTC system automatically manages train movement, including acceleration and braking. It also calculates suitable operating speeds in real time,
-  🔗 https://www.livemint.com/companies/chennai-metro-phase-ii-how-hitachi-rails-1-620-crore-contract-will-power-driverless-trains-11793206947646.html
+- Microsoft buyout: Why CFO expects ‘very few’ of 60,000 to accept Voluntary Exit Offer
+  Microsoft’s finance chief has told staff she expects ‘very few people’ to take up a voluntary exit offer extended to roughly 60,000 workers.
+  🔗 https://www.livemint.com/companies/news/microsoft-buyout-why-cfo-expects-very-few-of-60-000-to-accept-voluntary-exit-offer-11793238073632.html
 
-- Canadian Oil Discount Exceeds $30 Amid Gulf Coast Pressures
-  Heavy crude oil in Alberta has weakened to the lowest price relative to US futures
-  🔗 https://www.livemint.com/market/canadian-oil-discount-exceeds-30-amid-gulf-coast-pressures-11793217749090.html
+- Top stock to buy today: Jefferies India sees 29% upside in NSE share price in upside scenario | Target price, rationale
+  NSE share price finished at  ₹1777
+  🔗 https://www.livemint.com/market/stock-market-news/top-stock-to-buy-today-jefferies-india-sees-29-upside-in-nse-share-price-in-upside-scenario-target-price-rationale-11793243909629.html
 
-- Explained: Why US Fed Reserve decided to not hike rate after FOMC meeting? What Chair Kevin Warsh said in press speech
-  The Federal Reserve held interest rates at 3.75%–4% in a 10–2 vote. Chair Kevin Warsh said policymakers remain focused on returning inflation to the 2%
-  🔗 https://www.livemint.com/market/stock-market-news/explained-why-us-fed-reserve-decided-to-not-hike-rate-after-fomc-meeting-what-chair-kevin-warsh-said-in-press-speech-11793215854245.html
+- IPO GMP comparison: BLS Polymers vs SFC Environmental vs M.K. Sons vs Bombay Coated - Check listing price prediction
+  BLS Polymers leads the comparison, with a premium equivalent to 34% of its issue price.
+  🔗 https://www.livemint.com/market/ipo/ipo-gmp-comparison-bls-polymers-vs-sfc-environmental-vs-m-k-sons-vs-bombay-coated-check-listing-price-prediction-11793241604751.html
 
-- US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings
-  Short-dated US Treasury yields and the dollar fell after Federal Reserve Chairman Kevin Warsh said officials will
-  🔗 https://www.livemint.com/market/us-short-end-yields-fall-after-warsh-signals-fewer-fed-meetings-11793215570359.html
+- Jio Platforms shares: After 27% jump on IPO listing day, will Reliance group stock rise more today?
+  The Reliance stock will remain in focus on Thursday, 29 October, after rising over 26.81% from its
+  🔗 https://www.livemint.com/market/stock-market-news/jio-platforms-shares-after-27-jump-on-ipo-listing-day-will-reliance-group-stock-rise-more-today-11793239306452.html
 
-- Wall Street mostly rises as Fed holds key rate steady, deferring next likely hike to December
-  US stocks mostly rise as Fed holds key rate steady, deferring next likely
-  🔗 https://www.livemint.com/market/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to-december-11793213973901.html
+- Indian shares set for positive start after Fed holds rates steady; elevated oil weighs
+  Indian shares set for positive start after Fed holds
+  🔗 https://www.livemint.com/market/stock-market-news/indian-shares-set-for-positive-start-after-fed-holds-rates-steady-elevated-oil-weighs-11793240729336.html
 
-- How can US Fed FOMC meeting outcome impact Indian stock market? Sensex, Nifty to rise? Experts decode
-  The US Federal Reserve held rates steady, but that may not be enough to lift Indian equities. Experts say the decision was already priced in, while crude oil near $115 a barrel, rising US bond yields, rupee
-  🔗 https://www.livemint.com/market/stock-market-news/how-can-us-fed-fomc-meeting-outcome-impact-indian-stock-market-sensex-nifty-to-rise-experts-decode-11793210662906.html
+- Top stocks to watch today: Jio Platforms, IndiGo, Coal India, Meesho shares in focus on Thursday, 29 Oct | Full list
+  Jio Platforms, Coal India, IndiGo, Trent, Me
+  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-jio-platforms-indigo-coal-india-meesho-shares-in-focus-on-thursday-29-oct-full-list-11793236670600.html
 
 - Microsoft Visual Studio update brings smarter Copilot AI, bulk conflict resolution and Hot Exit: Details here
   Microsoft has updated Visual Studio with improved Git tools. The release also adds a new GitHub Copilot Chat experience, Hot Exit for restoring unsaved work.
@@ -100,57 +100,57 @@
   Rising infrastructure investments and funding requirements increase financial risks for companies building and operating AI computing capacity. Indian information technology (IT) companies are well-positioned to benefit from the growing adoption of artificial intelligence
   🔗 https://www.livemint.com/technology/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report-11793166741416.html
 
+- Stock Market News, Oct. 28,2026: Alphabet Stock Drops Sharply After Revenue Miss - WSJ
+  The WSJ reports that Google's parent company,
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHBTLV91dEdLdmpNVWd5OF9kT2VWUEx2eTgzbU9LN2Rhd2lyakl2dDhELTlPVmJ2Q3ZreUEwODhNcVBWSERWVlZ5YWZxS3gwVVdnNnZnNkVKY3N3Smt3MWdyWFVaR2M2Tk1pLU40X1M1TDlVMlJBSURRMTZKZnpJdlR5TGo?oc=5
+
+- Nasdaq-100 futures dip as Alphabet shares sell off after earnings report: Live updates - CNBC
+  Nasdaq-100 futures dip as Alphabet shares sell
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5SalhOeEdhMFUtUWRnVl90YWlHLU90SGt2cmJ2b1Y4aDRmRVZJV3VGS3haNkpEa28wcDMzbGR4dTRtZnNvbUM1WDBDeGtsUkNIN1dOUDdtNXgzV0xaZ3R5ZTk4SEhmRzYyR0dtcGp4RFFEVHA3YzNZ0gF8QVVfeXFMT25jby1VNlpYNGp3ekVGUEVKd29Lanc1bndoVFluRGk0WmhrU08zNDVpVFhOazVlMVE5RkhadGM4VEFhaWREaXJpb09WR0U2LVNHVXBma2NpWHNKUURmVi1hZXNqRXlrZGNUMndNZlFzV2JIdEJfa1hNTkNjYQ?oc=5
+
+- US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap - Bloomberg
+  US Stock Futures Fall After Alphabet,
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1B6V3JFX19tOWhyZHVKZzFGZ1k0aXcyNERXb0JrMFNjQVpEaFZMeVMxU1FUVnJpWmFrM3JQbjJ5cXRsU0NBekRsOUM2WEQ2Zlh3MWluWUU2c0poWTk1ZDBGMC13SUtxX1lVdjEtQW1PbWdXRE95ZFJqZ2JmZEwxeW5VbVVORWlzMlJTVHdnZ2NkaWR3?oc=5
+
 - Stock market today: Nasdaq wavers, S&P 500 and Dow climb as Fed votes to hold rates steady in 10-2 decision - Yahoo Finance
   The Fed votes to hold rates steady in a 10-2 decision.
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHZRVUxuLTdMcW5FVjFpLTJKY29qczJmSWtSOVhIVmFTSUR1WnR2X0NsSGxNcDBrcU5IcWVvRzNFMkZQOWpENENYNUZ2UU8yTXFKSW82SEVfY1ZMZHF3Q2dtSDU2SGRTNS1tRk1XQjVNdkVkMlZVTXdJZ3E0eHV2ZjZIeDdwWWxUeFU3VEVjaE85UnBxMzRWVlFuREt1MFliTHpmcFpKWXJrbzAwWEdnSDFHSHpXXzJubzVCYVM4TzNkdndFYV9EVTZmQ2s1SXRD?oc=5
 
-- Stocks Edge Higher After Fed as Oracle Surges 11%: Markets Wrap - Bloomberg.com
-  Stocks Edge Higher After Fed as Oracle Sur
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf?oc=5
+- Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcD
+  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcDZ4SlBCdXAzX0JUb3E2UlRYeGhFblcwSWF3cW1oX2VZMEwwakJfeVEtdUJRaThFSjVqSWRMaU12ajVDQ2NsMllXaUgydHJHMk9oT0xPaW9WeFByWkdGN25WZkpXYjRWYlVGSlFuLWNmWGd1Q3p5WU93RHh4NGIwYmtVa1c3NDNyejhvempFQTJxbm5RUHREV1dNbUxWc3hZRjlPbmpDWFBnZ2RtZnQtZWluLUZLcTB1YmdCYjJHUmZXTktYYlBGdWFBU3lhNVJpNFR3ZdIBugJBVV95cUxNMFNaX0w0NnU0aTQ0UHdkc0lSQ19GUGRKMnFwTVJYNW5wajNISEtaeFctTmZ3QWtxSDJzLVZMdlR6ZVk3VnlWNnFmRUYxQVFFdTFzX2J4TW9HVUpGVWJBd29sT1RnSElmQlFsMVV3QkhYQXB1dkNudWNORUZub295a3BSRVpXcUVGYWRpaXBrb2NMWmpWZks2TXhSRXlmLU0wdm1yNG40dGx3ZVQ0b3FzcTQ1MzhKZG03cGRxUnJRb052V19UcjVjdzFzcHZ1eXNydDRCaWotVXRNcWtQZldqcEtzR19ac21LU1piWk95MTFVa3dMRHNNOHN5U0tHZU4zSERENjgxd29McDBIeUxUNmFveDdZODJucmI1Qm9EV0ItWG50NktCdTRseTRDTmYzV2x0Z1g0aTR2QQ?oc=5
 
-- S&P 500, Dow rise for third consecutive day after Fed holds steady on rates: Live updates - CNBC
-  S&amp;P 500, Dow rise for third consecutive day after
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBsTVRHVVZZQzNkSHotQ09vdW54RlVucGpqVlNDcU44bWk0NnMxZExaUkZPWGYtRFRhdGxFSjA4OUpQTzdwRGROeFRyY3pTOTVvQkowRW5Ca1NyMjdmbkl1Xzc3SGpJcUNvckl0SVlVeWxNMUp4LTNv0gF8QVVfeXFMTUQ5VHp4S2d6WFdtUkdIYlZKMGp6RVd0NUxnTm0zU2ZfOW9iVHpaWGlaaDFwQXpEMGd2TllQUFJ6ZjQ2YkVxMW5XZnRhT3dKN3hfUTVjU3BhX3J2YVlwRGRPOG5hbWN0T19aUEZWQWg1cHo3X091aURwcV9LUA?oc=5
+- PVR Inox Q2 profit rises 111% to Rs 273 crore, targets 500 new screens in 3 years
+  PVR INOX plans an ambitious expansion, targeting to unveil around 90 to 100 new screens in FY 2027. Estimated capital expenditure for FY 27 is projected at ₹300-320 crore, adhering to a capital-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/pvr-inox-q2-profit-rises-111-to-rs-273-crore-targets-500-new-screens-in-3-years/articleshow/135288278.cms
 
-- Stock Market Today: Alphabet, Microsoft Earnings in Focus; Fed Holds Rates — Live Updates - WSJ
-  Stock Market Today: Alphabet, Microsoft Earnings in Focus;
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHBTLV91dEdLdmpNVWd5OF9kT2VWUEx2eTgzbU9LN2Rhd2lyakl2dDhELTlPVmJ2Q3ZreUEwODhNcVBWSERWVlZ5YWZxS3gwVVdnNnZnNkVKY3N3Smt3MWdyWFVaR2M2Tk1pLU40X1M1TDlVMlJBSURRMTZKZnpJdlR5TGo?oc=5
+- Pidilite Industries reports 7% YoY growth in net profit to Rs 626 crore
+  Pidilite Industries has achieved a remarkable 7% growth in consolidated net profit for the September quarter. This success is underpinned by a substantial increase in total revenue, soaring by over 21% to reach ₹4,285
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/pidilite-industries-reports-7-yoy-growth-in-net-profit-to-rs-626-crore/articleshow/135288162.cms
 
-- Japan Credit Risk Jumps Most Since 2022, Pressuring Bond Market - Bloomberg.com
-  Japan Credit Risk Jumps Most Since 2022
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxONHVUbnZmWGk0c0d4Rlh6aXpPUjJnNFgwR2hpNHZEUDNqZ0pQaWZrSlpBdjJRaHVGdjhoOGI4X1dMMjk1MXRKV21FcVFNb2VJZTR2YnkyZmE2VTQ3M25MbTRzWW1wX1o0N25iWkY1eUpmdk9NUmdsNlBMSXRvRk9ySXFkOUthLXgwVExXQlVkbDBna3NoeGJ0Qzk3cjBia0hLZS1NMHVOaEVxLW5sM2dLbGhnMA?oc=5
+- JSW Energy Q2 profit jumps 50%; 3 gigawatt target on track
+  JSW Energy reported a 49.9% year-on-year increase in consolidated net profit for the second quarter. Company's consolidated revenue from operations rose by 23%, showcasing significant growth over the last year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-energy-q2-profit-jumps-50-3-gigawatt-target-on-track/articleshow/135288014.cms
 
-- US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings
-  US stock markets ended on a high note after the Federal Reserve opted to maintain current interest rates. A notable resurgence in chipmakers, fueled by strong results from SK Hynix, played a key role in this upward momentum. Analysts
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms
+- Adani Ports reports 18% net profit rise to Rs 3,682 crore in Q2 FY27
+  Adani Ports and Special Economic Zone showcased a remarkable 18% increase in consolidated net profit for the September quarter. The firm has also revised upward its FY27 revenue and capital expenditure targets, attributed significantly to robust performance in domestic operations and impressive
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-reports-18-net-profit-rise-to-rs-3682-crore-in-q2-fy27/articleshow/135287801.cms
 
-- Fed's Kevin Warsh says US economy not running too hot from AI boom
-  The US economy is not running too hot despite some demand pressures from the boom in AI investment. Federal Reserve Chairman Kevin
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms
+- Coal India Share Price Live Updates: Coal India  Sees 1-Week Returns Drop
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-29-oct-2026/liveblog/135287938.cms
 
-- Wendy’s draws buyout bid as beef costs and burger rivalry weigh on business
-  Nelson Peltz’s Trian Fund Management offers $7.35 per share to take the burger chain private. The company faces high beef costs, weaker
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wendys-draws-buyout-bid-as-beef-costs-and-burger-rivalry-weigh-on-business/articleshow/135278283.cms
+- 'Don't Touch Indian Products': Nikhil Kamath Recalls Satya Nadella Remark - NDTV
+  'Don't Touch Indian Products': Nik
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmpxekZXODRPT2MwSWtBZTB4NWxFQTh6QUM5ZzJEdHpkRW1wMEpIczktS1dnQXFwT1ZPbkRnMmxheHBTQWlHbmZ2SGNWbXJvQ3owZlgyTEZ4TjNVcFJVRGRfYXR4SmxKa29zYUtJRXB4Y0Q0NTVEazRGVmgyZlU4eGhlUHptYUpQbldmR0lXZzhlNW5sWjY3ZlMtUFRPMFNNM3R4dGZFam4zclNNUFNEaFdGS1lpTE5malJDUEF6dXZnWmtqTVFj0gHPAUFVX3lxTE1lZXBOZ0dlZ2FUWnBaSkZ3RHZZX2lHV1c5eHBaWnA5S2Z5SHVtU2dac0NJSVI0ZVdVM2htZDhOaEdLeDJ4Vzk5eDFWQzQ4U29KU095ZHVaeThRRzAtWGo2NXVLTkVtRmIxRzFtdGpoTGhUSFFPbFlVbWFJM1ZIQ0V1MDJCN0NJRDJHUUJHbS03WEUxcjZ4LU5UWkhFX21EcUIwSWhWaklBbnl6SkdvU3NxRnZTeXpqTnE2ZmtWa0ZwN0Jrak1MZHdyNkZ6V3gxWQ?oc=5
 
-- US Federal Reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus
-  The US Federal Reserve has decided to keep its benchmark interest rate unchanged to evaluate inflation trends. Rising energy prices and tariffs contribute significantly to the ongoing inflation pressures faced by the economy. Traders are closely monitoring the upcoming Personal Consumption Expenditures inflation
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms
+- MEA says 22 Indians killed during West Asia conflict - The Times of India
+  MEA says 22 Indians killed during West Asia conflict
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDVYTTBYN2FGYlg1RkpUcnhMbGhzT1lKSVZYLUthZ05BUHVzVG1pdW1CREgwQ0MzWUpncDhFRm9DQm93aE9NYkd6WU1TUHdObWozT2pFbEtBejRMdkR1UjJaT3Vuc1k5MWhDSk14Ml85ajEycU5LeVotU0d2Rm5nZXdtY3lZS3FqenUwREZVUlphNHVMQXRLVFdBdWlnc3htTHFMb1FBTmt2TmM0cGR2dzBMcFJtZ3hMU2wtZtIBwgFBVV95cUxOcTk1OHpoN25aeEQ2WHE3YWJqeEtvSG4yLTR5ZFh2ODJFTDFBZ1RjZ3RMNFM2Nktpdnk4M3ZBcGR2OXBqY00wbGdpNV9icFF6RnZjTTJRR2xLN1NjTmF5TV9lY3lwcDVQTGsydFlaS29DbXMtTWpxc3RfbFpfWk4tQVpfZ1I5aXl1dGxTNW10Q1RIV19lNjRyVEFmanE1aHY4S2xuS0NjTzNzRHdmMl80ZGtPZEVVSWF0OU5JSV81Vlp6Zw?oc=5
 
-- World Bank sees commodity prices surging 23% in 2026 on Middle East war
-  Commodity prices were projected to rise 23% in 2026 as the Middle East war disrupted energy supplies and shipping. The World Bank warned that further conflict escalation and a severe El Niño could intensify food security risks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/world-bank-sees-commodity-prices-surging-23-in-2026-on-middle-east-war/articleshow/135274754.cms
-
-- Ammo cache seized in J&K’s Rajouri - The Times of India
-  Ammo cache seized in J
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOV24xQjVZUmZ1TlRUVC1ncG1ZU0JHOU9vTVJ4cWVDNHVFVDBNZ3VjbEpfcGxDUVNwaFhnRjhMQnRTNWtqd2o5ZUt1Q3hGN1hGRjM3UmdOcXlRU0RrNDhnMmNEdkJvLXF5RnVMRmJObmFXX0RoLXBYalA3eHRBTUloQ3RTWHMtWmF3eTVlUnIyVGdGd3dZQ0JEOGIwTkJDOXE4OEHSAacBQVVfeXFMT3lIMWxzSU1zUk5kMVZDRHdJdUh1MXAzeVNxMzR4cWQ3bXVxOU05R0FVTmRWUncwTElVN0pCVl85VzNLbjZCbEFKNWlxbVduYm12X2E3bVA4QXNIMkdBU2ZrMktSX0JPT1JCUXlwR3JzZW1ZMjFtdGxTZ3lVSGxkelVWRTZlZ1hXbE1kWUp2TVRDTmozR29QaHRKQ0ZJYjFZc2lyaG8ySmc?oc=5
-
-- Green financing in India rises to $82 billion, but flows mostly to established sectors: Report - The Economic Times
-  Green financing in India rises to $82 billion, but flows mostly to established
-  🔗 https://news.google.com/rss/articles/CBMi4wJBVV95cUxNM1dleU8yMC1LM3hSN1ZkYjdRLXdnODJnQlZpNHZnWXpYSXQ4ZFk5bE1JR0lsS041NzBNY2pKOHQ3ZlY5NmpabUVIdUIxbzdxYWhHLXJwZUNwTG9iUDV2NXhTa3lQRnZBeW93QUFNSVRYMHRkeGFkb3dCX0djbHp1QXNIRTRFMFhvYXk0bmstekZnUTBQVFM1Z3IwNHNoSFhwdHlaVVAyLXNSUVY3ZHp0TnRaUW9BaW43dzI5bm5jekFZdXBNLTdmU2FPdHV6dFR3T29uR2NDLW95ZDhuWm1Gcld0SFBiX0M3N0ZCam0zUEpQS0pjUnlXWkREWUQ2Y2dGUHNFNVdxZnpwMC13MThIbFhOeEVSWVNkTkoyTWhfeGZXVkN3a1NNT1RkYmN0VjVnem9QejVUMG5DVzlXSmhNR25VcjA3bU1maWl1UU9QS2FaeVh6SWJPc1VRSENmemNUWkU40gH_AUFVX3lxTFBqTzBMeHNwNDc1c25sRmg0RXlkb0xva3oxS2ZfaGxKQ09BMGxXM1RtUFY0d0gwY0ZXWl9ONG9PNE9CMFRYZ2VWNUIybzVfaUZfUlVmSXl1bzRMLWpSWl9PQlJwNkZlLW1zTmNCVncxMGFPZUQweHZIdzZOT0hweF81ajAxaTdSVmpaMWJOTzdKZWtDajZaVzBGekl1NWlVMHUyNHU0dnhMbE1naUJELWJZUmI5VHB0MVV1UHB6ODVrMzZLQVJwTldpckpfTkxmZElnWlJ3S0tSemp0TDNCV1FWYXlud0Jnd19oUU1pdGxnSW1XVEpyNUhjWVhLNHk5Yw?oc=5
-
-- Ghaziabad Woman, Gym Trainer Plot Husband's Murder. He Survives - NDTV
-  Ghaziabad Woman, Gym Trainer
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXF3c1otNm1GMTh6ZkZKdFFJanN6ai1IeVNHaEI0cVZKWnowS1YwdnVYOW9ET3ZFVXlaSTdkdllZWFd5N3lpaTBuekE1WlhFaWk0RFpERG53QTRsck5YYUJTcnc2OXRNQ2JxcUFFYU1pMHJHZlNoS2dMT3M5ZUpFcGhZTXNkMll2dlRnYVRualh3V0pzZnJLTWk2blBsQ196LXZ4bXRUM0tJQ3RTNnJzd1p30gG6AUFVX3lxTE5MeXFDVmtmWkR0TDBkRnpRa28xOTlpUmlZN3RRRVdKdENfa3dvRmxNSTVqWDlFVFhQaDVfMXhONUhhUnVBbnZQUHR5bmZvbW9yWHhIeWNSdVl1amJReUJ4dzV1ZnVGcU9XMUQwb3NRN21id1ZkOHBHR2hQb0xHLTVKVTJjMUNBYjhIVG5BcUV3MDY3UzV3eHFOSDRhNXlHYTIzeGYzUzZYbXRkQmF2WVVIajB4b252QTh0UQ?oc=5
+- India calls for global action against terror financing and cross-border terrorism at FATF meeting in Paris - News On AIR
+  India calls for global action against terror financing and cross-border terrorism.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNZHVNN19BU3BPcHZYSXV2ZzBDNnAzZFBmYTB6N1IzQ29PTFZrT1ZYN09oelMzVmNyNFBoTkNXT3RvQjVJR3FkbGxCOFF6ZWJFYzZKd0FvaURNdjNzMFVyRDR4c09Yd0NRT0dpaFgxZHBUQ3Z4cUlwa3lXY3k0Yy1VMVA5Nm15NDZXd2ticTE4TXJYWlRwMHNaM0l5M09wdUpSc3dvZG51Z0NvSXV3UVV2VnpBRTVRX0hEY05DNkY2VU5OTzNSZHd6ODJ3aWU?oc=5
 
 - Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
   A border official's remarks cast a shadow over India
@@ -159,6 +159,14 @@
 - Ambani’s Jio reaches $137 billion valuation, becoming India’s second-most valuable firm - Reuters
   Ambani’s Jio reaches $
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
+
+- Fintech Startups To Watch: Startups That Caught Our Eye In October
+  The question of when India’s Unified Payments Interface (UPI) will finally be monetised has remained at the centre of the Fintech industry.
+  🔗 https://inc42.com/startups/fintech-startups-to-watch-startups-that-caught-our-eye-in-october/
+
+- Meesho’s Q2 Report Card, Info Edge CEO Quits & More
+  Meesho inched closer to profitability in Q2 FY27. The ecommerce giant rein in its&#8230;.
+  🔗 https://inc42.com/buzz/meeshos-q2-report-card-info-edge-ceo-quits-more/
 
 - Innodata Lays Off Nearly 550 Employees In India: Report
   US-based Innodata is the latest company to lay off a big chunk of its staff in India.
@@ -172,25 +180,17 @@
   When AI-powered sales intelligence startup Reo.Dev raised $11.3 Mn in July 2026, its priorities reflected a growing reality for Indian startups.
   🔗 https://inc42.com/resources/why-indian-ai-founders-are-eyeing-silicon-valley-and-what-they-risk-leaving-behind/
 
-- Meesho Q2: Loss Narrows 68% YoY To ₹132 Cr, Revenue Jumps 34%
-  Ecommerce major Meesho reported a 68% decline in its consolidated net loss to ₹132.5 Cr in the September quarter.
-  🔗 https://inc42.com/buzz/meesho-q2-loss-narrows-68-yoy-to-%e2%82%b9132-cr-revenue-jumps-34-yoy/
+- 'Don't Touch Indian Products': Nikhil Kamath Recalls Satya Nadella Remark - NDTV
+  'Don't Touch Indian Products': Nik
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmpxekZXODRPT2MwSWtBZTB4NWxFQTh6QUM5ZzJEdHpkRW1wMEpIczktS1dnQXFwT1ZPbkRnMmxheHBTQWlHbmZ2SGNWbXJvQ3owZlgyTEZ4TjNVcFJVRGRfYXR4SmxKa29zYUtJRXB4Y0Q0NTVEazRGVmgyZlU4eGhlUHptYUpQbldmR0lXZzhlNW5sWjY3ZlMtUFRPMFNNM3R4dGZFam4zclNNUFNEaFdGS1lpTE5malJDUEF6dXZnWmtqTVFj0gHPAUFVX3lxTE1lZXBOZ0dlZ2FUWnBaSkZ3RHZZX2lHV1c5eHBaWnA5S2Z5SHVtU2dac0NJSVI0ZVdVM2htZDhOaEdLeDJ4Vzk5eDFWQzQ4U29KU095ZHVaeThRRzAtWGo2NXVLTkVtRmIxRzFtdGpoTGhUSFFPbFlVbWFJM1ZIQ0V1MDJCN0NJRDJHUUJHbS03WEUxcjZ4LU5UWkhFX21EcUIwSWhWaklBbnl6SkdvU3NxRnZTeXpqTnE2ZmtWa0ZwN0Jrak1MZHdyNkZ6V3gxWQ?oc=5
 
-- How Moms Home Built A ₹10 Cr Quick Commerce Business By Rethinking Baby Essentials
-  For a parent preparing for a newborn, a last-minute hospital bag purchase and a carefully planned baby bedding purchase serve.
-  🔗 https://inc42.com/startups/how-moms-home-built-a-%e2%82%b910-cr-quick-commerce-business-by-rethinking-baby-essentials/
+- MEA says 22 Indians killed during West Asia conflict - The Times of India
+  MEA says 22 Indians killed during West Asia conflict
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDVYTTBYN2FGYlg1RkpUcnhMbGhzT1lKSVZYLUthZ05BUHVzVG1pdW1CREgwQ0MzWUpncDhFRm9DQm93aE9NYkd6WU1TUHdObWozT2pFbEtBejRMdkR1UjJaT3Vuc1k5MWhDSk14Ml85ajEycU5LeVotU0d2Rm5nZXdtY3lZS3FqenUwREZVUlphNHVMQXRLVFdBdWlnc3htTHFMb1FBTmt2TmM0cGR2dzBMcFJtZ3hMU2wtZtIBwgFBVV95cUxOcTk1OHpoN25aeEQ2WHE3YWJqeEtvSG4yLTR5ZFh2ODJFTDFBZ1RjZ3RMNFM2Nktpdnk4M3ZBcGR2OXBqY00wbGdpNV9icFF6RnZjTTJRR2xLN1NjTmF5TV9lY3lwcDVQTGsydFlaS29DbXMtTWpxc3RfbFpfWk4tQVpfZ1I5aXl1dGxTNW10Q1RIV19lNjRyVEFmanE1aHY4S2xuS0NjTzNzRHdmMl80ZGtPZEVVSWF0OU5JSV81Vlp6Zw?oc=5
 
-- Ammo cache seized in J&K’s Rajouri - The Times of India
-  Ammo cache seized in J
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOV24xQjVZUmZ1TlRUVC1ncG1ZU0JHOU9vTVJ4cWVDNHVFVDBNZ3VjbEpfcGxDUVNwaFhnRjhMQnRTNWtqd2o5ZUt1Q3hGN1hGRjM3UmdOcXlRU0RrNDhnMmNEdkJvLXF5RnVMRmJObmFXX0RoLXBYalA3eHRBTUloQ3RTWHMtWmF3eTVlUnIyVGdGd3dZQ0JEOGIwTkJDOXE4OEHSAacBQVVfeXFMT3lIMWxzSU1zUk5kMVZDRHdJdUh1MXAzeVNxMzR4cWQ3bXVxOU05R0FVTmRWUncwTElVN0pCVl85VzNLbjZCbEFKNWlxbVduYm12X2E3bVA4QXNIMkdBU2ZrMktSX0JPT1JCUXlwR3JzZW1ZMjFtdGxTZ3lVSGxkelVWRTZlZ1hXbE1kWUp2TVRDTmozR29QaHRKQ0ZJYjFZc2lyaG8ySmc?oc=5
-
-- Green financing in India rises to $82 billion, but flows mostly to established sectors: Report - The Economic Times
-  Green financing in India rises to $82 billion, but flows mostly to established
-  🔗 https://news.google.com/rss/articles/CBMi4wJBVV95cUxNM1dleU8yMC1LM3hSN1ZkYjdRLXdnODJnQlZpNHZnWXpYSXQ4ZFk5bE1JR0lsS041NzBNY2pKOHQ3ZlY5NmpabUVIdUIxbzdxYWhHLXJwZUNwTG9iUDV2NXhTa3lQRnZBeW93QUFNSVRYMHRkeGFkb3dCX0djbHp1QXNIRTRFMFhvYXk0bmstekZnUTBQVFM1Z3IwNHNoSFhwdHlaVVAyLXNSUVY3ZHp0TnRaUW9BaW43dzI5bm5jekFZdXBNLTdmU2FPdHV6dFR3T29uR2NDLW95ZDhuWm1Gcld0SFBiX0M3N0ZCam0zUEpQS0pjUnlXWkREWUQ2Y2dGUHNFNVdxZnpwMC13MThIbFhOeEVSWVNkTkoyTWhfeGZXVkN3a1NNT1RkYmN0VjVnem9QejVUMG5DVzlXSmhNR25VcjA3bU1maWl1UU9QS2FaeVh6SWJPc1VRSENmemNUWkU40gH_AUFVX3lxTFBqTzBMeHNwNDc1c25sRmg0RXlkb0xva3oxS2ZfaGxKQ09BMGxXM1RtUFY0d0gwY0ZXWl9ONG9PNE9CMFRYZ2VWNUIybzVfaUZfUlVmSXl1bzRMLWpSWl9PQlJwNkZlLW1zTmNCVncxMGFPZUQweHZIdzZOT0hweF81ajAxaTdSVmpaMWJOTzdKZWtDajZaVzBGekl1NWlVMHUyNHU0dnhMbE1naUJELWJZUmI5VHB0MVV1UHB6ODVrMzZLQVJwTldpckpfTkxmZElnWlJ3S0tSemp0TDNCV1FWYXlud0Jnd19oUU1pdGxnSW1XVEpyNUhjWVhLNHk5Yw?oc=5
-
-- Ghaziabad Woman, Gym Trainer Plot Husband's Murder. He Survives - NDTV
-  Ghaziabad Woman, Gym Trainer
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXF3c1otNm1GMTh6ZkZKdFFJanN6ai1IeVNHaEI0cVZKWnowS1YwdnVYOW9ET3ZFVXlaSTdkdllZWFd5N3lpaTBuekE1WlhFaWk0RFpERG53QTRsck5YYUJTcnc2OXRNQ2JxcUFFYU1pMHJHZlNoS2dMT3M5ZUpFcGhZTXNkMll2dlRnYVRualh3V0pzZnJLTWk2blBsQ196LXZ4bXRUM0tJQ3RTNnJzd1p30gG6AUFVX3lxTE5MeXFDVmtmWkR0TDBkRnpRa28xOTlpUmlZN3RRRVdKdENfa3dvRmxNSTVqWDlFVFhQaDVfMXhONUhhUnVBbnZQUHR5bmZvbW9yWHhIeWNSdVl1amJReUJ4dzV1ZnVGcU9XMUQwb3NRN21id1ZkOHBHR2hQb0xHLTVKVTJjMUNBYjhIVG5BcUV3MDY3UzV3eHFOSDRhNXlHYTIzeGYzUzZYbXRkQmF2WVVIajB4b252QTh0UQ?oc=5
+- India calls for global action against terror financing and cross-border terrorism at FATF meeting in Paris - News On AIR
+  India calls for global action against terror financing and cross-border terrorism.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNZHVNN19BU3BPcHZYSXV2ZzBDNnAzZFBmYTB6N1IzQ29PTFZrT1ZYN09oelMzVmNyNFBoTkNXT3RvQjVJR3FkbGxCOFF6ZWJFYzZKd0FvaURNdjNzMFVyRDR4c09Yd0NRT0dpaFgxZHBUQ3Z4cUlwa3lXY3k0Yy1VMVA5Nm15NDZXd2ticTE4TXJYWlRwMHNaM0l5M09wdUpSc3dvZG51Z0NvSXV3UVV2VnpBRTVRX0hEY05DNkY2VU5OTzNSZHd6ODJ3aWU?oc=5
 
 - Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
   A border official's remarks cast a shadow over India
@@ -200,17 +200,17 @@
   Ambani’s Jio reaches $
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5
 
-- Ammo cache seized in J&K’s Rajouri - The Times of India
-  Ammo cache seized in J
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOV24xQjVZUmZ1TlRUVC1ncG1ZU0JHOU9vTVJ4cWVDNHVFVDBNZ3VjbEpfcGxDUVNwaFhnRjhMQnRTNWtqd2o5ZUt1Q3hGN1hGRjM3UmdOcXlRU0RrNDhnMmNEdkJvLXF5RnVMRmJObmFXX0RoLXBYalA3eHRBTUloQ3RTWHMtWmF3eTVlUnIyVGdGd3dZQ0JEOGIwTkJDOXE4OEHSAacBQVVfeXFMT3lIMWxzSU1zUk5kMVZDRHdJdUh1MXAzeVNxMzR4cWQ3bXVxOU05R0FVTmRWUncwTElVN0pCVl85VzNLbjZCbEFKNWlxbVduYm12X2E3bVA4QXNIMkdBU2ZrMktSX0JPT1JCUXlwR3JzZW1ZMjFtdGxTZ3lVSGxkelVWRTZlZ1hXbE1kWUp2TVRDTmozR29QaHRKQ0ZJYjFZc2lyaG8ySmc?oc=5
+- 'Don't Touch Indian Products': Nikhil Kamath Recalls Satya Nadella Remark - NDTV
+  'Don't Touch Indian Products': Nik
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmpxekZXODRPT2MwSWtBZTB4NWxFQTh6QUM5ZzJEdHpkRW1wMEpIczktS1dnQXFwT1ZPbkRnMmxheHBTQWlHbmZ2SGNWbXJvQ3owZlgyTEZ4TjNVcFJVRGRfYXR4SmxKa29zYUtJRXB4Y0Q0NTVEazRGVmgyZlU4eGhlUHptYUpQbldmR0lXZzhlNW5sWjY3ZlMtUFRPMFNNM3R4dGZFam4zclNNUFNEaFdGS1lpTE5malJDUEF6dXZnWmtqTVFj0gHPAUFVX3lxTE1lZXBOZ0dlZ2FUWnBaSkZ3RHZZX2lHV1c5eHBaWnA5S2Z5SHVtU2dac0NJSVI0ZVdVM2htZDhOaEdLeDJ4Vzk5eDFWQzQ4U29KU095ZHVaeThRRzAtWGo2NXVLTkVtRmIxRzFtdGpoTGhUSFFPbFlVbWFJM1ZIQ0V1MDJCN0NJRDJHUUJHbS03WEUxcjZ4LU5UWkhFX21EcUIwSWhWaklBbnl6SkdvU3NxRnZTeXpqTnE2ZmtWa0ZwN0Jrak1MZHdyNkZ6V3gxWQ?oc=5
 
-- Green financing in India rises to $82 billion, but flows mostly to established sectors: Report - The Economic Times
-  Green financing in India rises to $82 billion, but flows mostly to established
-  🔗 https://news.google.com/rss/articles/CBMi4wJBVV95cUxNM1dleU8yMC1LM3hSN1ZkYjdRLXdnODJnQlZpNHZnWXpYSXQ4ZFk5bE1JR0lsS041NzBNY2pKOHQ3ZlY5NmpabUVIdUIxbzdxYWhHLXJwZUNwTG9iUDV2NXhTa3lQRnZBeW93QUFNSVRYMHRkeGFkb3dCX0djbHp1QXNIRTRFMFhvYXk0bmstekZnUTBQVFM1Z3IwNHNoSFhwdHlaVVAyLXNSUVY3ZHp0TnRaUW9BaW43dzI5bm5jekFZdXBNLTdmU2FPdHV6dFR3T29uR2NDLW95ZDhuWm1Gcld0SFBiX0M3N0ZCam0zUEpQS0pjUnlXWkREWUQ2Y2dGUHNFNVdxZnpwMC13MThIbFhOeEVSWVNkTkoyTWhfeGZXVkN3a1NNT1RkYmN0VjVnem9QejVUMG5DVzlXSmhNR25VcjA3bU1maWl1UU9QS2FaeVh6SWJPc1VRSENmemNUWkU40gH_AUFVX3lxTFBqTzBMeHNwNDc1c25sRmg0RXlkb0xva3oxS2ZfaGxKQ09BMGxXM1RtUFY0d0gwY0ZXWl9ONG9PNE9CMFRYZ2VWNUIybzVfaUZfUlVmSXl1bzRMLWpSWl9PQlJwNkZlLW1zTmNCVncxMGFPZUQweHZIdzZOT0hweF81ajAxaTdSVmpaMWJOTzdKZWtDajZaVzBGekl1NWlVMHUyNHU0dnhMbE1naUJELWJZUmI5VHB0MVV1UHB6ODVrMzZLQVJwTldpckpfTkxmZElnWlJ3S0tSemp0TDNCV1FWYXlud0Jnd19oUU1pdGxnSW1XVEpyNUhjWVhLNHk5Yw?oc=5
+- MEA says 22 Indians killed during West Asia conflict - The Times of India
+  MEA says 22 Indians killed during West Asia conflict
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDVYTTBYN2FGYlg1RkpUcnhMbGhzT1lKSVZYLUthZ05BUHVzVG1pdW1CREgwQ0MzWUpncDhFRm9DQm93aE9NYkd6WU1TUHdObWozT2pFbEtBejRMdkR1UjJaT3Vuc1k5MWhDSk14Ml85ajEycU5LeVotU0d2Rm5nZXdtY3lZS3FqenUwREZVUlphNHVMQXRLVFdBdWlnc3htTHFMb1FBTmt2TmM0cGR2dzBMcFJtZ3hMU2wtZtIBwgFBVV95cUxOcTk1OHpoN25aeEQ2WHE3YWJqeEtvSG4yLTR5ZFh2ODJFTDFBZ1RjZ3RMNFM2Nktpdnk4M3ZBcGR2OXBqY00wbGdpNV9icFF6RnZjTTJRR2xLN1NjTmF5TV9lY3lwcDVQTGsydFlaS29DbXMtTWpxc3RfbFpfWk4tQVpfZ1I5aXl1dGxTNW10Q1RIV19lNjRyVEFmanE1aHY4S2xuS0NjTzNzRHdmMl80ZGtPZEVVSWF0OU5JSV81Vlp6Zw?oc=5
 
-- Ghaziabad Woman, Gym Trainer Plot Husband's Murder. He Survives - NDTV
-  Ghaziabad Woman, Gym Trainer
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXF3c1otNm1GMTh6ZkZKdFFJanN6ai1IeVNHaEI0cVZKWnowS1YwdnVYOW9ET3ZFVXlaSTdkdllZWFd5N3lpaTBuekE1WlhFaWk0RFpERG53QTRsck5YYUJTcnc2OXRNQ2JxcUFFYU1pMHJHZlNoS2dMT3M5ZUpFcGhZTXNkMll2dlRnYVRualh3V0pzZnJLTWk2blBsQ196LXZ4bXRUM0tJQ3RTNnJzd1p30gG6AUFVX3lxTE5MeXFDVmtmWkR0TDBkRnpRa28xOTlpUmlZN3RRRVdKdENfa3dvRmxNSTVqWDlFVFhQaDVfMXhONUhhUnVBbnZQUHR5bmZvbW9yWHhIeWNSdVl1amJReUJ4dzV1ZnVGcU9XMUQwb3NRN21id1ZkOHBHR2hQb0xHLTVKVTJjMUNBYjhIVG5BcUV3MDY3UzV3eHFOSDRhNXlHYTIzeGYzUzZYbXRkQmF2WVVIajB4b252QTh0UQ?oc=5
+- India calls for global action against terror financing and cross-border terrorism at FATF meeting in Paris - News On AIR
+  India calls for global action against terror financing and cross-border terrorism.
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNZHVNN19BU3BPcHZYSXV2ZzBDNnAzZFBmYTB6N1IzQ29PTFZrT1ZYN09oelMzVmNyNFBoTkNXT3RvQjVJR3FkbGxCOFF6ZWJFYzZKd0FvaURNdjNzMFVyRDR4c09Yd0NRT0dpaFgxZHBUQ3Z4cUlwa3lXY3k0Yy1VMVA5Nm15NDZXd2ticTE4TXJYWlRwMHNaM0l5M09wdUpSc3dvZG51Z0NvSXV3UVV2VnpBRTVRX0hEY05DNkY2VU5OTzNSZHd6ODJ3aWU?oc=5
 
 - Arunachal Pradesh: A border official's remarks cast a shadow over India-China thaw - BBC
   A border official's remarks cast a shadow over India
@@ -240,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Pope to Mercedes-Benz: Technological innovation should serve human dignity - Vatican News
-  Pope to Mercedes-Benz: Technological
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWU2NFNzSzZ1dF9MelRvT1ZCRU1YOG91c3RTN3dyMXhkQV9RRE9SbHg2bzFLZkFNcV9qQm5UdmZWRl9JclpmSGhKcTBJM2hMMVB2RWU5VmVwUTFMMkY1SlpNRDhhaHBDZjNBU01nRzJmcDIxQWpuekNkc0l0Ql9CUDNRazZJXy1zWkV1anFRMm5kTmc?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Dropbox plans 9% workforce cut, technology chief to exit - Reuters
-  Dropbox plans 9% workforce cut
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPalU1amdTWXlzWlhyYjl4VjduN2ViWFpKdHB4R2wtMDRXWWNkMlNkRktRcEJ3bFd2MkRiQURMd0N5Ull6dG9zaTRKMUF3VUdiNWk0bG1NTTJMbjJKOUlRSU1VWkhLTmozenlfYkloODZteVhPU1Y4UGRIcU81eno2djVPc3BXQmgzU1lKNnJudjdOYUgzbDJxN2ZqUkdEdWRNYTlBYW05UHJ2NUY0bXBZ?oc=5
-
-- 'An annoying buzz': The search for stealthier drones - BBC
-  'An annoying buzz': The
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lX2I4dTd4SXhjdEo2bUtTOTZlVVhGYWdnbkp3OVBWb2VYc2JlWktLQU9pSlpUQkozNmx5c0Rmay0yWHZsSThRbTNhS3hnc3ZiV0FSXzZQLXRac3c?oc=5
-
-- Technology Services Reinvention: AI Reshaping IT and BPM Services - Nasscom
-  Technology Services Reinvention: AI Res
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMHhyZ01XMkFXb3lDTXBBdjdneGNmalRHdWxpUmhzZ1owNkJBN3EyRVFsRjc3ejJYRGVFRC0yNy1HOW11NFllS0ZWYXFHRHJsaUtUaFpzNDJOdzhvUTFoZ2YwMnpQMFNSTDdIX1ZzVG5GSnZ1WTJyY1RfUUlMdlpVd09nV3pac0FLTHdMaE1tVnowUFRfZmFNOWNMUVVuNXRleU5OVy1pU1RrU2FWMzBxRkZ2WE96dFhZ?oc=5
-
-- PM Modi says, India must embrace emerging technologies and lead world in creating them - News On AIR
-  PM Modi says, India must embrace emerging technologies and lead world in creating
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHdUVnFwdWEzNjJublV4TFlhYzd5NHIzRzRqbGFIaXRIQk8yaFVCeExjMG1qOG5NZkN6SFV4YzBJWHZldmoxX3BHTEFteWs3a1lILWU3V0Z6WDYtTDYxbm5hX0pUWnByQVcxcm1MeXhad0doREpoN0JTVVcxcDh6X2xQaWMxY3prU2IyRGNkVURWQXkyYm1tUEtxNnVyRU9JOGxJS2Q5dXBrWThyWTRrNw?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-28 22:12:32 UTC_
+_Last updated: 2026-10-29 04:00:56 UTC_
