@@ -1,164 +1,88 @@
 # 📰 Daily News Summaries
 
-- Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | LIVE - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZel
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
+- Shetty Institute of Technology hosts TechNova and NextGen Hackathon in Kalaburagi - The Hindu
+  Shetty Institute of Technology hosts TechNova
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNenEtRlJodGNwZFdxOGlteGtxd0lRX0pqUTJtX3pDMlR6ZnU4WnNmb2FOYmFRMWdlaElIcWR6U2daSFEyRTZfWDQyMmY1dkMzc0xtX3d5TzZ2NjZGQWxSTFR1ODhzX1JLdW5WdkRZUnF4dkhNT29OZWx1eFN4YmpXbUx0aTg2UkdGVU9SZGo1X2ZDT2FPdGloZTdzQkhDelcyLVl5Mjl5OVQwM3kzYi10VFd5VmFGRWUxWEo3SHBJRTg4LXJOWmtub1hkRlJjWW4ydTROTlVDeEpIWm5wN21qV2lwbnDSAesBQVVfeXFMT1BweTdsR3ViRXRGZmQ4NDZubWpBTUZtaldzemZQd3JXX3BsVWVhbGlsYkpTT3RCbHYzbm5sYXlYU3IwQm1LWXR5TV9qVUhEVDA3eUJ2MmV2aWRaTEhqMTFaY21fb1hqaE9mLURRd2phbzFxVmpJcGpOa21JWFo4bFEzN1lpRDc3RVhXX21CZHNJLUxkS2JyVUZLY0NPNGM3SHMzUnhrRWdxUG02RFZTTERMV1VRbHVLc0JBMmlTamxhZEF4ODJCUGx5RklsRlgzbWVtZC1MU3ZlaU44LVR1bk1TRGp6WVo3d2FUWQ?oc=5
 
-- Updated WTC Standings: Australia slip after series defeat in South Africa; where are India? - The Times of India
-  The Times of India is a leading English-language newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMkl6TG91SmMtd1hod25nQUMyNWc1RlVyZ1ZlVmpyTmJWR0NIWlpGdTFOTXJxLTdYc1dnNWNtRUUzUkUwUXhPTHFrUEtOZUpnakdKbkhMOFJRYmRfM0U3ZVVkLUt4d3h0eFdHX1lQdl9waUpIdW5UR2Z5MkNXREFHMlExSnRNbk52QmxCYWFrcmZFeTU3anNWYnVMXzhtTmtCY0xuMm01bnM3RHEtanlOV09ZMzZ4TFhqOTB4MnhZWlVQeF85TURJSUREWWk3UENPRURzV3cxVkVtX0VsRmN3ZS1ncnpEV2t4MHNOTkJNWVVxeTlFa1B2Z0d0cWVJWkU?oc=5
-
-- Bangladesh opposition leader warns against India corridor, seeks fair Ganges water pact: Reports - The Hindu
-  Bangladesh opposition leader warns against India corridor, seeks fair
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMlRna3pUYmhhdUVSbmxaTFE1dDZnNlMzU3JLUGZrRTFPV2U4SWtXNV9NZm1HUlUwTkRLTDNidVpKdi10YlBtd250ejd1Qjg2WXNEYnV4Q3I1OWNWak15SjJoRkpGelNWVnBsdjdYbExFRnNOUUI4cF9wcUZhY1Q3R2p0VG5iOUtPZkNwNGd3YVFSVWlRLXpSZVpPTlNZVE42eE1wbHZnYy12NzR5X1VMckwtV0xWX2Q2Zm5BTUFKN0dIYTYxbHVBWGRrNXBzVWdTYWFuc1BYb3g2SWo5RXV4SjFiMFBrOV9Ob1g3ei1QSdIB9gFBVV95cUxQaXd3TldLc0lCcmI5VU9iYTlnREE0dVhXazc3LV9WaG9adjF4Rm9zcDNTNDhTbkFjZ0VXZk0tNkYzS3lPMlJZTjN2Y19zNjVhcFZjbVJQcDR3WUt1WHA0bmdMMDY4M19YM3lNbHM0Tmk3N1VPU05OQjdYSkluX1R4bXRuOW1MQjd5eFUxY1prbHhzUndWWkk2Q2ctSll1VG1zT0xKTXlxMk84MWUxUTRhSUFhcE9MS0hzRHlnYXZRX29IcW1zeWZlQmk0cldQRUtVYUcwOE1kc0tHNE5mZDJmajNqeEdvZ3NEUFpCb2d6anB0eWNhcWc?oc=5
-
-- 4 More Arrests In India-Myanmar Drug Racket Probe, 991 Bank Accounts Frozen - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGNNREZGOVRld3lPSG5sMk9iRm9uMnpxc1gzNFZOdnUxdE9NT3pVQzF2dy1VM0wzSHVIZXhVQlhQLWFJcUdFWnRLWXpJSHVvSTJwSjZuODFTRHBZTkN2VFZZd2VJNk5fdGpjU1cya19tU19HdERncElkNzJKNWp1em95NUtOQ00tU1RuYnVNeS1LaGt5QU5aOXNQZ21YZWxOWmpoMlhNbnFVZHE2WGxWVzgyVmt1UdIBvgFBVV95cUxPTXpad2tOTmFBVXYzMmVPZGNhWm9VVUxydlFpMjN1ZjlzTzBpUHB2ekRlYkNoS3FoWmFPRkl0eWU0cVVqLXJvb2hiRnlZMXEyY1RzUHRXeVRCZnJrUWtXRTR4UnM5MEpsdmpDNGltTi1qWnpBSERlYkx4VDFqSllHMGQweFlpR0t5Y0lycVhFaEV6elNtdzEwenhPVzNSUDdmbEJTanhEOUZjbWtqd2xWWlEwSC01VGE5VXVrbEl3?oc=5
-
-- India to meet liquor firms as domestic giants join foreign peers in Scotch dispute - Reuters
-  India to meet liquor firms as domestic giants join foreign peers in
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3c1ZFF4ZEhYS1FqamR5U21kbFplR2Z5aDNoRnJ2SHNpN1p0Rk5tTElBUS1hNC1XS1lCNGtDTEd4blR1MG1OcUVMRkRQQzhRNHB3R1ctSHU0azZONlc0MzRsSGN1emh4UkQ5a1Nhd0pMbEJkeUpCTzNpbFp6NFREZDk4T3RyX3hZVFFleTZld3dJaFRUZU1KbUZodTFYM2RBQi1KV3lYbFpBZVE3UkE2SFNPbXlJOFRJbDVXVzNn?oc=5
-
-- New technologies adoption must go hand-in-hand with sound engineering practices, worker safety: MEIL Projects’ Division president - The Hindu
-  New technologies adoption must go hand-in-hand with sound engineering practices,
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxNcmtRRHZaNHhVLURWOXY1ekhLV1I5N0JmOFdZVFNxWUZjSGkyeVc3X25rMFRvS3hpcHlFLXpROVJmdjR6VWZnVWdNUDRCR1VkSnFSdFpOYmRwVWdFSGVBNWtSLXpnbVZ6V0pPS3Fjc0p3MmRFVFdOSWRvMXVGV0ZRd2ZReGJUWG1vcHVyT2Q0SDUycW96RFpJSnJaTkxGVnpxeE9NZmdlTl9pYnR1Q21ZQldpem9ld1FVNzB3RnoxOUJFX0l4cTV1VEVxSVlkZjM0MEVvbm9fR0xuaUxtaVVxdzFlTW5YUG9JemdTOENkYVhtMy13RmRpNjh1cmV2RjRhV2hkT2oyekJSb2dyZEZRN2tNUlViOWdnUnJ6UlN5NWLSAacCQVVfeXFMUFJYY3FkZUVRdlRfMWJUejFGQ2E5WHhYMEtJLXNUaTBDb3I1eTk1MFlYUWh1WjgtXzAtVDJFeU0xRk5WRlFIc2k2WWdXM1dJeWlYbGl0RFlCVWlkVUpDOFowZjNJcFUzT0VqQ19DeUUzUUx0emt1ZUFvZjlSWkRJZVlNY0RuSjdPcDlfb3F0Q1lPZzhKcF9RRlhwSEUwSVVvUEtwVklOUmdEUnh2VHNiT05aRHYtYURFZHR0X0hNVl83Z3FjTXV2VEVZaVN2OEREZ2JIb0tsZkUzOWV5TFZuaDc3aW5wY1lDWXpmY2lpQndCWU14ZWp1b3QwQ055eDdISnJNczlzM2YtMzJwdGJ3TGV2cktxUkhyQTFEdDIzTHdqaHdVNjFpaw?oc=5
-
-- Bernie Sanders warns Oracle, Nvidia and other technology companies on expenditure that has wiped billions - The Times of India
-  Bernie Sanders warns Oracle, Nvidia and other technology companies on expenditure that has wiped billions
-  🔗 https://news.google.com/rss/articles/CBMi7AJBVV95cUxOMkRJa2JmYlM3MGhGS3huOHhNR2pNcEFyY043bWg4Ujh2WUZxcEZDY2xSdkVFQ051cDNCbzFXSmtVZHVZS2FRcW1vUWNKM2tuNWkwdW5UV2djRXdLUWMtRGlsTGNJOFlfMVM0bTVYaktpdmJ4Zjdzd0pHbXNTR0IweGRGUWx0QzBvZlJ3QTE2Ti0xMGI1a0cyS3NMcFpRRGtZUDM0U1FFSThsOGo1SWZXNEI1UlZ6Mk42UFg1aTF4eWZCaU9Oa3FVVnF5ZmJiRHRrSWpKZ05ybE0zYVdfRk9tNGw4czBWNGZ5dE1hVFVtdDdQeWk0VjRnaGFYd3N2TEs2ZWZCaWFKYVhyU0xkRFpNVExRVWF2c1RzdzZEejU3U1hkUDFidEZGbTBuRFR0WjVOcmtad2VwLXMxMWY5RnlRUzlxVHItNnJKWlBRai1QTlhIWG1FakVvZUF2NHBWdUFUWDhTR1hMNFlURm030gHyAkFVX3lxTE45VjkwV0tKeXhpZ19haDRfVHJfd3FPSjlTeXk3RWZFR2NzNXU1N0ExekxkekFkR0hyMkxQam9mUzZNNjNwQXJteFI0UEE1S01wTjZYcGJya0hMek01SXpSeWw1UnRVNHh2UW4tOUpaTjZUel80TmJEUGh2QkRxZHhLcWpPRi03MU1za2JoVklsd0x4QktOVzdzQTdrekY5UEtwckZHem9vX2dXcHg2allQNERsVVJ2QnN1X1lJQ19oRTBSZ3dGanZIQWZlVHBxNG9JWllPSTVMQTlEWkZXc1NnMUN3WWlnQ3ZkRWJ6Mmw2SHVvUnE4UkVsSTYzT0lvSzJFakw5VWpVUFFyOHlzTTk3dzVJOHkzdUM0UWdEbzVqWUFYejU4UTFGRlVPX0prNzRnemFJRUZPTkplUmYtaWs3OFo4aXgwVVJiUWxsNXhrT2tnTFlBdjZFaWQzdm9hNzZ3Mm5HUTh1SjhPQ2NuR1J0RVE?oc=5
-
-- Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports - The Guardian
-  Tech sell-off drives US markets down by nearly $1
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0lZbXhSZjlKZXRPOHVOUjcxUmctdlM2ZDc4V1FLTG1uNzlJNV9QMnpBYXZPSGt3QXlJSWs3d1hrb3BZWVI0ZEpnekhBX3NSWGxYd1ljdm5EcmdkMldET19ITWJPcC1zQ3lFLVhHT2hPeGU2VmlYYlVFd2FNT0xpNlFxdnNtRzNXamxB?oc=5
-
-- Say goodbye to boarding passes and passports at airports - BusinessTech
-  Say goodbye to boarding passes and passports
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTZTRlNGNVBVTU91eXhySWNfY3YxTmh2akRQdG5PdURGbnRTVy1kdFZ1RldfNmxNVjAxZWpHbm5pNjQtMmQ4YW9mZ3VHZDE2aDRwT0hVNG5vXzB1cml4MUZCdHMtdWxrZ2NFdG1ONHQzN2gzWU16RUVta1lnMXhiT0tuZGxRR2p0d0tnUHlzYnM1R1VraTBXbmpGOVo0QVFGaGVwOTExVTdWRDQ?oc=5
+- Ananth Technologies supplies critical avionics, electronics systems for ISRO's GSLV-F18, NVS-03 mission - ET Government
+  Ananth Technologies supplies critical avionics, electronics systems for
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQTUJGVFZHZ3FEc3hMYXFvSEVfS3lMMzY3clc5eFMtZzBvbVRxY0hkUWRVc1J4bUJnVEFxVHJXbERxeFNUdmtrQWRMOFRXekpUY2NJNll6XzE2OU16aWkzcWZTUFRUVTE4VzdFZ0ozY0RPUnY2bWNxNnhpQUZ5d2JBeXpGdmZPY0MtQk9MUlV0WlJUaEdROFdqeHRZelZFaVhaTWc5RnI0S0h0RlVmeGt5REMxNHNvSWROc1hPOTVkNl9QblpKaXQyWk9yNndXZ01QLXhEYXZxYzRlZmpjckExUW9KT1NUTVV4V1F0M1F3ZVlBcVVJRGpEX0NWRXl0NzdSZEE2btIBiAJBVV95cUxPTmpnZEYzY2IwblRQdDRkOFM3TmNkc3FIVU5QQXhmVUVNdjF3ejVkcEZUZFNpNUp2eWVrYWFvTXFhVE9VVHc4bThNbEZLR2xReTVXcGcwQXZvSEF4RDdZY3JyNTFjRDZCX3plcFo4YnluelRwaXlvYkN1SDVTWElRb2JaQ2ZLOEo5VVFybG5OM3N1MjdaTm5JRnVia0M1ZWR4MU1GWlJkcm9CcG9kYjZ4dFdybkxTejdPVzJpOGR4SmNSSzFtNENoc0xoZHRxX21KUGZpa1l6ZTlQam02akRYZUNVR3pBRDlZbWRsRGY5Rm93UFZweWczZ2lxLTZLd3dBeW5kb1hGTm0?oc=5
 
 - Maharishi botFiesta 2026: Fifth Edition Begins with Grandeur at Maharishi University of Information Technology, Lucknow - TheWire.in
   Maharishi botFiesta 2026: Fifth Edition Begins with
   🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR1R5alJETnRDUF8zXzA5QURhVGxCVjVvQlF3MzZQSzVjYjlBVmhyWVVURFNmckFRNmdVZ0pHOW9UVzdCRnZlME4zdFhNeG1zWGl1Z3FpbUpOcVVDbWhTeU13UkFGWWlqdnh2a252aEp1b0JDT1VOSW8yMUViX3owbXlCQnR2X01DelhHUXZJSGZ3cGNuV3dxRU9ZcjUxMlFHRllCMm1UVHo3VXQzYWFmUm5WM19lY3lVT215bzRfcThPYmgyTEpYWlBqQ2plMUc3aGRuWG5oblBFTnZtQXZNNzBFUnBZWk55aUpvZtIB8gFBVV95cUxPZ3p6akJPSnQ5UGxXLWpCN3pQVFFLTDlYTHdIMWRrc0VQcTc0LTMyNUVGMGlQa0gxWm5OV3VzZWQwd3hySVJUNnBUeHg4azk4QzlQcE5haUpkNUV3M0loOXJzYmNsdmxkV2NsbDhPWktLTGhRXzdRVTV2ZmJoMS1WNGp2UlFjcER5SlNyam5wZnd4TDFkMDlJODVBNEFURjB0ZTNNNm53OHR6WFRsRF9Yc3BrR3YtdnBsUVYzSlpRMkNCNDhnanJlYXVGODdWZ2I4aE1jenJPS0d3azliRGZvZVBQaDYxRzVod09JSl9oWUthQQ?oc=5
 
-- LANXESS and BPCL partner to advance specialty lubricant solutions in India
-  The partnership leverages LANXESS' global lubricant additive expertise, formulation capabilities, and existing OEM relationships. BPCL
-  🔗 https://www.livemint.com/companies/news/lanxess-and-bpcl-partner-to-advance-specialty-lubricant-solutions-in-india-11793460196080.html
+- Technology educator wins 5th Rohini Nayyar Prize for contribution to rural development - ThePrint
+  Technology educator wins 5th Rohini Nayyar
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzVZZTNXdmotMkViQ1UwLUZncEF6NDI2eUx0OS1jNHQxZ2xEblpFWUY0cWdxRWpLWGhudnJNc0N4ZmE0N1o2Zl9YVTZzRkM5QnNObXAzMlQzQVZRYV9tMHFUblEzNXZTcVMzQUxuS1NVaXdmbGhkMzRsUi04RldlUU0xMjNLRFM5STJlaTNQOE14ck0wQ3oxSm96cFBndkp1d1pwbFBybG13QjF5REVkVDJMN2c2STdKTVVzOGpB0gHDAUFVX3lxTE1ybXlyY2hiTF9FRXlNQjh2VGR4OXFfQlB1X1ctVHo3cDFrU3ptR0FrNElXVkpYamd4bWROUVdVTm05UUJBNjR5QmN1ZmRhM09JeFRpd1I0VlphQ1JvOW05aWtmWFBQaVhoZVFFZzFKTmU3QVV5RjRyMk5INmdNR0QyTVlvTkdCWHVUZElXdG5TaU5oWEJMemV6MVhfZlRZUnE3YVlyNFJTVkFKWmR0UnBlSmItQ1VzTy1ZUWJWd1owZXluWQ?oc=5
 
-- The Morning Show star Reese Witherspoon takes back control of Hello Sunshine, but why is firm cutting 50% of workforce?
-  Reese Witherspoon's production company Hello Sunshine has reportedly laid off around 30 employees. The company is moving away from direct-to-consumer ventures.
-  🔗 https://www.livemint.com/companies/news/the-morning-show-star-reese-witherspoon-takes-back-control-of-hello-sunshine-but-why-is-firm-cutting-50-of-workforce-11793457667805.html
+- Say goodbye to boarding passes and passports at airports - BusinessTech
+  Say goodbye to boarding passes and passports
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTZTRlNGNVBVTU91eXhySWNfY3YxTmh2akRQdG5PdURGbnRTVy1kdFZ1RldfNmxNVjAxZWpHbm5pNjQtMmQ4YW9mZ3VHZDE2aDRwT0hVNG5vXzB1cml4MUZCdHMtdWxrZ2NFdG1ONHQzN2gzWU16RUVta1lnMXhiT0tuZGxRR2p0d0tnUHlzYnM1R1VraTBXbmpGOVo0QVFGaGVwOTExVTdWRDQ?oc=5
 
-- Doctors back their own software: Docterz raises  ₹5 cr, nearly 60% from users of its clinic platform
-  Docterz aims to deepen its presence in the Indian clinic software market. The company was founded by a practising doctor and now backed substantially by its own users.
-  🔗 https://www.livemint.com/companies/doctors-back-their-own-software-docterz-raises-rs-5-cr-nearly-60-from-users-of-its-clinic-platform-11793457204580.html
+- Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates - CNBC
+  Stock market rocked as investors dump tech shares; Nasdaq suffers worst day
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVVQzRnJqelRyUjFGQjZLZlhIbGsyQUxabzc5TE1TaEx6TWRnaTRRcXVmanBTWXZ0NmhmZWpHeVZFZ3lSX1kyaEhfMnBVMnprQ0xscEpBZzhOWFZLbnZCcUtDUnJJNmdROEhxOVhSRDdFVDd4THg00gF8QVVfeXFMTmgwT1lfNnJpUlczcFVnQW9lanFWbDZzYXRadlNsNmRoS1NSVURVS1VsRjlsWGlZOGhiTkF2X3FJRzJnTllYaTAxdVRCSjgyUlduRGRQTV9kUzNDdFVyQ0VWUHQ3ODU5bW1hZ0hvS2FubEFWMEJnWnAtdUN0bg?oc=5
 
-- Supreme Infrastructure moves closer to settling  ₹2,200 crore debt after NCLT extends payment deadline
-  NCLT Mumbai extends deadline to October 31; SBI, P
-  🔗 https://www.livemint.com/companies/news/supreme-infrastructure-moves-closer-to-settling-2-200-crore-debt-after-nclt-extends-payment-deadline-11793453311891.html
+- The real question we should all be asking about AI - CNN
+  The real question we should all be asking
+  🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE9qZ3JlNnk1blNjRnBVN0NIQWcxS19rMWhsSFFOenQxT0JQVzUtTldqU0RhSTdHSEVoZkpqLWtzZDdPazdtbTJxeVVpR0VGS2hIZkItbzN2cFFHMFJCUEd2M2VGMzFZa0w0M3QtRg?oc=5
 
-- How a Michelin-recognised chef built chole bhature business in Dubai; he sells it for  ₹500 as people queue for hours
-  Pradeep Khullar was 15 years old when his father passed away after battling cancer in 1998. Most of the family's savings
-  🔗 https://www.livemint.com/companies/people/how-a-michelin-recognised-chef-built-chole-bhature-business-in-dubai-he-sells-it-for-500-as-people-queue-for-hours-11793452301512.html
+- Tech stock meltdown could get a lot of worse if history is any guide - Yahoo Finance
+  Tech stock meltdown could get a lot of worse if history is any
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkt3YXFlNWM2S192RVZjYXd4cTFDX2h4MzJRdXY5ZmRGRzJpYi1hamo1Rnk4M0VjZnhWQ2hKcXphQm1pbXhUV00yWFN0UWo4UmhNNmZXMG9oZlNIRzJyRllJMjU3aURXbEZteS1xaHlYazIxSjl0MThaVzVVVGJESmVNRmFPM3VGZjJTcjkyMXptLWpHaHJxbFdwQUVtbDhyU2dRaTctRGlQUHhDWjJOanRRcHdiV0xEN1BGaTBFVklzTW8?oc=5
 
-- Stock market prediction Nov 2-6 week: Nifty, Sensex rebound from losses - Will bulls deliver a Diwali bonanza? Outlook
-  Indian equities rebounded in the week, with the Nifty 50 rising 2.59% and the Sensex gaining 1.6%.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-prediction-nov-2-6-week-nifty-sensex-rebound-from-losses-will-bulls-deliver-a-diwali-bonanza-outlook-11793459177658.html
-
-- NTPC vs NTPC Green Energy Q2 results 2026 compared: Which PSU wins on Q2 profit, revenue, EBITDA, dividend? Details
-  NTPC reported Q2 FY27 profit growth of 38.7% to  �
-  🔗 https://www.livemint.com/market/stock-market-news/ntpc-vs-ntpc-green-energy-q2-results-2026-compared-which-psu-wins-on-q2-profit-revenue-ebitda-dividend-details-11793422791057.html
-
-- Jio Platforms up 27.8% since IPO listing but how RIL, Jio Fin, Alok Ind, Network 18, Lotus shares fared in 3 years?
-  Jio Platforms made a strong stock market debut, listing 21.26% above its IPO price and rising 27.8%. Other Reliance group stocks have had mixed results over
-  🔗 https://www.livemint.com/market/stock-market-news/jio-platforms-up-27-8-since-ipo-listing-but-how-ril-jio-fin-alok-ind-network-18-lotus-shares-fared-in-3-years-11793451564192.html
-
-- Inflation, Inequality and Debt: The Charts Scaring Wall Street
-  US stocks are hovering near record highs. But for investors looking for a scare this Halloween, some of the market’s most unsettling signals are hiding just beneath the surface.
-  🔗 https://www.livemint.com/market/inflation-inequality-and-debt-the-charts-scaring-wall-street-11793452322227.html
-
-- NTPC Q2 results 2026 brings good news of 1st interim dividend for investors! Check amount, record date, profit details
-  NTPC reported a 38.7% year-on-year rise in Q2 FY27 net profit to  ₹7,029.56 crore. The company declared its first
-  🔗 https://www.livemint.com/market/stock-market-news/ntpc-q2-results-2026-brings-good-news-of-1st-interim-dividend-for-investors-check-amount-record-date-profit-details-11793443410726.html
-
-- IT hardware reseller lists GPUs from decommissioned Nvidia supercomputer on eBay for $60 million — What we know
-  A reseller listed a decommissioned NVIDIA supercomputer on eBay for $59.7 million. The system includes 300
-  🔗 https://www.livemint.com/technology/nvidia-supercomputer-decommissioned-ebay-sale-a100-chips-gpus-it-hardware-reseller-60-million-best-offer-free-shipping-11793434326099.html
-
-- AI search gains 3-fold influence over traditional search in shopping decisions: McKinsey
-  Nearly one-third of AI shoppers identify them as the biggest factor behind their most recent purchase, a report by McKinsey says.
-  🔗 https://www.livemint.com/technology/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey-11793434097444.html
-
-- HMD unveils new Nokia 2360 Flip phone for seniors with family assist, SOS features: Check specs, colours and more
-  HMD unveils Nokia 2360 Flip 2G phone for senior citizens. Features include family assist, SOS and parental control.
-  🔗 https://www.livemint.com/technology/gadgets/hmd-unveils-new-nokia-2360-flip-phone-india-launch-price-seniors-family-assist-sos-parent-control-features-specs-colours-11793429445556.html
-
-- Pope says most urgent challenge facing AI race is need for institutional ethical framework
-  Pope says 'most urgent' challenge facing AI
-  🔗 https://www.livemint.com/technology/pope-says-most-urgent-challenge-facing-ai-race-is-need-for-institutional-ethical-framework-11793383926439.html
-
-- PUBG fans alert! How the battle royale game became a global gaming phenomenon as Netflix develops live-action series
-  PUBG has become one of the world's most recognised battle royale games. With Netflix developing a live-action adaptation, the game's journey and global popularity
-  🔗 https://www.livemint.com/technology/tech-news/pubg-fans-alert-how-the-battle-royale-game-became-a-global-gaming-phenomenon-as-netflix-develops-live-action-series-11793367764704.html
-
-- Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap - Bloomberg.com
-  Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap. Nasdaq suffers worst day since June.
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5
-
-- SEBI Focuses on Resilient Capital Markets, Investor Protection - Rediff MoneyWiz
-  Rediff MoneyWiz is a
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGIya1FpbjZucXlESC1NdTJHLUt3aGRwTHUyTWN3RUYzaS1rU2lHVTl5UXFucWtGZmRZeXRTTWRLQXRBVGtDQ09vQXZTXzE3cWlWcktUVEgwUEpNeVJtaGE1ekRrTzVRYjVrbHk0Wko0QnJpd2hELVVwdDIwYVZBYzJBVXU0YXJiNFBFQ25EbEdoRURxNi1UUUxUT1hRTjJnc011OU83b29OdTFZU2hIdHY1a9IBuAFBVV95cUxQcGUzNklMSGo3MU1pR2RpQWctS1VnZ2VSclJuSks5RGhBSUhydU5qa29jcmhWNXpuVHVJV1BzYmx6QmxaOXdWVmRLUnZKZmo4cEl1RnBBUkxXeXBXMGJFNHFFQ254LXlIY2pNbjdDSUNkamVtMW9ldU02OVZsY3hrYkJIMGloLUQxTUY5Z1pxWWFVdFF1c0E4MjdmZVM3SGVrWWphenB6LWdhX0RlWDlKR0RPQUo3eE1j?oc=5
-
-- SEBI chairman says market regulator keeping eye on Tata Group developments - The Hindu
-  SEBI chairman says market regulator keeping eye on Tata
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPb1ZOY1NHUDNhY0hlcGhFdS0taEVUTVFDVW9EcVN3MTAzamYzYV9RNE9hMmZ2LS1RTTlQeVR2VDZQdXFlQlF6QkU1VGRzaDZhd1ZIaXVuVnZUSGEwd0JOR2R4TGhkdmh1Yk1JZzNIZ3Q1bi1UcmlTbVVRQ2paUTlVZHN6RkM5VmYwTE9tZFNFUEpWZktITUJXT2RzUW5fWHM5c2dwUkN6Q2Jrc2I5QjBGTlRIblVDR19Fc2d3bGw4MUphdkNYbGZB0gHOAUFVX3lxTE9xNkRPNUhWZDRfYXhZM3FmZkFSbXFVSGZZUThlUElKVTFZUmxPaDV2UjhHR3pFS2pETURQMUhkYVVPa2diOUJ2c2xyMTl2UHlwQUhESW5BMWdwN0d5RWZTLS1FUG8yVnhFa0hpc2JjUU5iSy14MU5xeTl3c2xrcC1yMTZjMDNiUUFOMlNYbndUc2ZBR1FrMTh2NWs0U3FqS1JpQzVxS3FEbi1fZVUzUjNEM2NvYnkxNWtxTy05dWdqQ0dRN2N4WlJ5b0tPeGVn?oc=5
-
-- Sebi Bans EKI Energy Founder From Equity Markets, Imposes Fines - Bloomberg.com
-  Sebi Bans EKI Energy Founder
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUZqeEtHUzQxZk94VDY4MW5tVEVQVXpZT1dTVGlRVlJfNU85eTk2Z1JnVUwtaEVibXA5TmVkQ1F6WlBPTGc0SkxjbEhrYWx2TFRMM0FFdURKMldPcFZ2ZmY2UFdDU3Z0aEptQm1mZzN5blgtZThCaGlIR2pXY2NuUnJpbkZaQUxsdU5Rek9DRGMxb1JiN25HNllVcWhvTTFHTndGbmFRS3NTY2lxQkhLa1o2MA?oc=5
+- Market drop wipes out more than a trillion dollars in value - NBC News
+  Market drop wipes out more than a trillion dollars in
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0JYMXlBYjZDZzdiS0k0M205UDhCUHQ4N19NbHd5Tm1tQl9ES2F4UVVKWlRlSldIYW84TmZGaWhyVHAyVGFoaS1uUVBqWmx5S180cDJFMHc4eXQ4aGN4ZWhIeUtzTHJ3bXJNNkhJSG5yZXY1OUd5dTN2Y0kteTl2SHJhLVNEQXBNbFJybGJQN3plUXRkQzFDVUdCOTM0Q01yZUpJTkE4N0dWT1BRQkd4SEkwNllGdw?oc=5
 
 - Is this the first clear evidence of AI’s impact on the labour market? - Financial Times
   Is this the first clear evidence of AI’s impact
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2tua2N2em9IbjlkVHVMaHU4OG5aMmdUbktsenRyN2RNVUo1dHduaU45Z2o0ek5BRXZBUllMLVVjWTQxR1RwcWNXeWFIRG5rRGpOWGtjR09VS2dxVXJnX1U2M3FQVVk2Tm9nc0FBMFA5T3NLM0FNbzV6em1GdGdWWmo3NV8?oc=5
 
-- Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap - Bloomberg.com
-  Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap. Nasdaq suffers worst day since June.
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5
+- Muthoot Finance Q2 cons profit jumps 36% YoY to Rs 3,278 crore
+  Muthoot Finance reported a 36% year-on-year rise in consolidated net profit to Rs 3,278 crore in Q2. However, standalone gross NPA ratio rose to 3.87% from 2
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q2-cons-profit-jumps-36-yoy-to-rs-3278-crore/articleshow/135401237.cms
 
-- SEBI Focuses on Resilient Capital Markets, Investor Protection - Rediff MoneyWiz
-  Rediff MoneyWiz is a
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGIya1FpbjZucXlESC1NdTJHLUt3aGRwTHUyTWN3RUYzaS1rU2lHVTl5UXFucWtGZmRZeXRTTWRLQXRBVGtDQ09vQXZTXzE3cWlWcktUVEgwUEpNeVJtaGE1ekRrTzVRYjVrbHk0Wko0QnJpd2hELVVwdDIwYVZBYzJBVXU0YXJiNFBFQ25EbEdoRURxNi1UUUxUT1hRTjJnc011OU83b29OdTFZU2hIdHY1a9IBuAFBVV95cUxQcGUzNklMSGo3MU1pR2RpQWctS1VnZ2VSclJuSks5RGhBSUhydU5qa29jcmhWNXpuVHVJV1BzYmx6QmxaOXdWVmRLUnZKZmo4cEl1RnBBUkxXeXBXMGJFNHFFQ254LXlIY2pNbjdDSUNkamVtMW9ldU02OVZsY3hrYkJIMGloLUQxTUY5Z1pxWWFVdFF1c0E4MjdmZVM3SGVrWWphenB6LWdhX0RlWDlKR0RPQUo3eE1j?oc=5
+- Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey
+  Sebi is likely to release a consultation paper on foreign investor compliance requirements within weeks. The proposed document will explore aligning Indian norms with global standards.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-release-fii-compliance-consultation-paper-within-weeks-says-chairman-tuhin-kanta-pandey/articleshow/135400429.cms
 
-- SEBI chairman says market regulator keeping eye on Tata Group developments - The Hindu
-  SEBI chairman says market regulator keeping eye on Tata
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPb1ZOY1NHUDNhY0hlcGhFdS0taEVUTVFDVW9EcVN3MTAzamYzYV9RNE9hMmZ2LS1RTTlQeVR2VDZQdXFlQlF6QkU1VGRzaDZhd1ZIaXVuVnZUSGEwd0JOR2R4TGhkdmh1Yk1JZzNIZ3Q1bi1UcmlTbVVRQ2paUTlVZHN6RkM5VmYwTE9tZFNFUEpWZktITUJXT2RzUW5fWHM5c2dwUkN6Q2Jrc2I5QjBGTlRIblVDR19Fc2d3bGw4MUphdkNYbGZB0gHOAUFVX3lxTE9xNkRPNUhWZDRfYXhZM3FmZkFSbXFVSGZZUThlUElKVTFZUmxPaDV2UjhHR3pFS2pETURQMUhkYVVPa2diOUJ2c2xyMTl2UHlwQUhESW5BMWdwN0d5RWZTLS1FUG8yVnhFa0hpc2JjUU5iSy14MU5xeTl3c2xrcC1yMTZjMDNiUUFOMlNYbndUc2ZBR1FrMTh2NWs0U3FqS1JpQzVxS3FEbi1fZVUzUjNEM2NvYnkxNWtxTy05dWdqQ0dRN2N4WlJ5b0tPeGVn?oc=5
+- US bonds rally, sending yields to biggest monthly decline since 2023
+  US Treasuries experienced a notable rise as technology stock selloffs caused a shift towards safer investments. The yield on the benchmark 10-year note had its largest monthly drop in nearly three years. Earnings reports from Amazon and Intel negatively
+  🔗 https://economictimes.indiatimes.com/markets/bonds/us-bonds-rally-sending-yields-to-biggest-monthly-decline-since-2023/articleshow/135400137.cms
 
-- Sebi Bans EKI Energy Founder From Equity Markets, Imposes Fines - Bloomberg.com
-  Sebi Bans EKI Energy Founder
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUZqeEtHUzQxZk94VDY4MW5tVEVQVXpZT1dTVGlRVlJfNU85eTk2Z1JnVUwtaEVibXA5TmVkQ1F6WlBPTGc0SkxjbEhrYWx2TFRMM0FFdURKMldPcFZ2ZmY2UFdDU3Z0aEptQm1mZzN5blgtZThCaGlIR2pXY2NuUnJpbkZaQUxsdU5Rek9DRGMxb1JiN25HNllVcWhvTTFHTndGbmFRS3NTY2lxQkhLa1o2MA?oc=5
+- NTPC Q2 Results: Standalone profit rises 14% YoY to Rs 5,320 crore; revenue up 17%
+  The operational revenue saw a notable rise of 16.8% from the same quarter last year. An interim dividend of Rs 3 per share was announced for shareholders. NTPC is also increasing its capital expenditure on pumped storage initiatives.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-q2-results-net-profit-rises-14-yoy-to-rs-5320-crore-revenue-up-17/articleshow/135399399.cms
 
-- Is this the first clear evidence of AI’s impact on the labour market? - Financial Times
-  Is this the first clear evidence of AI’s impact
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2tua2N2em9IbjlkVHVMaHU4OG5aMmdUbktsenRyN2RNVUo1dHduaU45Z2o0ek5BRXZBUllMLVVjWTQxR1RwcWNXeWFIRG5rRGpOWGtjR09VS2dxVXJnX1U2M3FQVVk2Tm9nc0FBMFA5T3NLM0FNbzV6em1GdGdWWmo3NV8?oc=5
+- Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?
+  The Nifty gained 2% last week, recovering above the crucial 200-week moving average at 22,700. Analysts identify 23,300–23,450 as immediate resistance and 22,750–
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-weak-ahead-nifty-stands-on-firmer-footing-but-can-it-break-past-23450/articleshow/135396431.cms
 
-- Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | LIVE - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZel
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
+- India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
+  India's Extreme Poverty Drops From 27.1% To
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
 
-- Updated WTC Standings: Australia slip after series defeat in South Africa; where are India? - The Times of India
-  The Times of India is a leading English-language newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMkl6TG91SmMtd1hod25nQUMyNWc1RlVyZ1ZlVmpyTmJWR0NIWlpGdTFOTXJxLTdYc1dnNWNtRUUzUkUwUXhPTHFrUEtOZUpnakdKbkhMOFJRYmRfM0U3ZVVkLUt4d3h0eFdHX1lQdl9waUpIdW5UR2Z5MkNXREFHMlExSnRNbk52QmxCYWFrcmZFeTU3anNWYnVMXzhtTmtCY0xuMm01bnM3RHEtanlOV09ZMzZ4TFhqOTB4MnhZWlVQeF85TURJSUREWWk3UENPRURzV3cxVkVtX0VsRmN3ZS1ncnpEV2t4MHNOTkJNWVVxeTlFa1B2Z0d0cWVJWkU?oc=5
+- Uttarakhand helicopter crash reiterates concerns raised by Parliamentary panel - The Times of India
+  Uttarakhand helicopter crash reiterates concerns raised
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZkNsQWhvbXNfekd3RDlxRV9iVzdvckFQLWNndUJ2a2NNakNoQllfaE1waW42azF0bmVXZTRJQW5sUEVhQUx6N3F1SmhLVnNYTkpwLWR5ZU1mRVM2dHlsczFlSXdaMnYtc2p3NzJCN0h1X0t5QmxJQkFQbXh5UVhlUmgtajFFcXRaTFVSb1p2YlNZT2pRV2NHalN1bkNQZkdTVnZ4RWJVX2R0Qm9vbTNiUE5nX1poRGFLeTRHTUZJTDN0VTFuRzR6Z1kzaHZsYWxhSWxORVBGa0RTLTVuRGR30gHkAUFVX3lxTFBIdTN0Z0haV2twX3NtNnlaZzJYY21Ld2hCRG9LVURwczN3N3M5YTRYM01xcFZ0MnF2ZUU3SmxxZWFkSjEwdnFiODREV3Y2R3ZUY0ZVMmlGZ2hDZzRGaWxJTjlyaWdfQjhUN05ZSnl1aVVBNjlzRTU4bTh2R3NoZmVhOXlDSzlLNktfRjZuR0t4UlpWSjBDTEZUcmxzY05LT1pKZmlUZDVvZk1DZjdIUk91dnZ6M2tCaGxVV1NKSTRGd0RSaHYzV1hhR3YtWTBIa1V6cE5pN25WanNmbzh5ZUh5QVI3Ng?oc=5
 
-- Bangladesh opposition leader warns against India corridor, seeks fair Ganges water pact: Reports - The Hindu
-  Bangladesh opposition leader warns against India corridor, seeks fair
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMlRna3pUYmhhdUVSbmxaTFE1dDZnNlMzU3JLUGZrRTFPV2U4SWtXNV9NZm1HUlUwTkRLTDNidVpKdi10YlBtd250ejd1Qjg2WXNEYnV4Q3I1OWNWak15SjJoRkpGelNWVnBsdjdYbExFRnNOUUI4cF9wcUZhY1Q3R2p0VG5iOUtPZkNwNGd3YVFSVWlRLXpSZVpPTlNZVE42eE1wbHZnYy12NzR5X1VMckwtV0xWX2Q2Zm5BTUFKN0dIYTYxbHVBWGRrNXBzVWdTYWFuc1BYb3g2SWo5RXV4SjFiMFBrOV9Ob1g3ei1QSdIB9gFBVV95cUxQaXd3TldLc0lCcmI5VU9iYTlnREE0dVhXazc3LV9WaG9adjF4Rm9zcDNTNDhTbkFjZ0VXZk0tNkYzS3lPMlJZTjN2Y19zNjVhcFZjbVJQcDR3WUt1WHA0bmdMMDY4M19YM3lNbHM0Tmk3N1VPU05OQjdYSkluX1R4bXRuOW1MQjd5eFUxY1prbHhzUndWWkk2Q2ctSll1VG1zT0xKTXlxMk84MWUxUTRhSUFhcE9MS0hzRHlnYXZRX29IcW1zeWZlQmk0cldQRUtVYUcwOE1kc0tHNE5mZDJmajNqeEdvZ3NEUFpCb2d6anB0eWNhcWc?oc=5
+- 'Cause Not Established': Bengaluru 5-Star Hotel's 1st Statement On Pool Deaths - NDTV
+  'Cause Not Established': Bengaluru 5
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUFGeXMyTUFkOFROY3JYcE1MT2JtemVXODFJNUdySzEzNXRNN0FHZUZoMlpJUTQyLXEzM1g1aGdCaktsMS1WMXRaTXdHUkhRMklsOWlzb1VsNHFLNnFfcHJEenlSbElWQm13SnVYeWR2bUJxZ1BKd0NsQlh3OFJFcTNnTHZzMkIyVTFpeDBfVFBfcks5ZnlZdzNBdU1WYlNZc3A1bFVGdVN0Y2Z6aWNDZ0ZZWU91QdIBvgFBVV95cUxQUXFpYXNUMkpMMFFfVzN3UVZQTkZNWlRmZXF3cDF4eDNuSGQyYzBjMTBJUnEwZGY1WmQtZEhYelctZDNiRmZscXBWUzhuUGx2Z2tGNUNrZ1hIU3lBVko5ZFJJR1RzUGFfUUdGZVFub2ptdlc4QTBuZTFOcENrSXMwUmUxeGhhZjhmQ2tpTFJUMEI0VTYtYWRqVUxDSkFkTkFwbVI5VnlLYmI2d2ZjVW9aQ1dfUXZUNXBKd2UzN21B?oc=5
 
-- 4 More Arrests In India-Myanmar Drug Racket Probe, 991 Bank Accounts Frozen - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGNNREZGOVRld3lPSG5sMk9iRm9uMnpxc1gzNFZOdnUxdE9NT3pVQzF2dy1VM0wzSHVIZXhVQlhQLWFJcUdFWnRLWXpJSHVvSTJwSjZuODFTRHBZTkN2VFZZd2VJNk5fdGpjU1cya19tU19HdERncElkNzJKNWp1em95NUtOQ00tU1RuYnVNeS1LaGt5QU5aOXNQZ21YZWxOWmpoMlhNbnFVZHE2WGxWVzgyVmt1UdIBvgFBVV95cUxPTXpad2tOTmFBVXYzMmVPZGNhWm9VVUxydlFpMjN1ZjlzTzBpUHB2ekRlYkNoS3FoWmFPRkl0eWU0cVVqLXJvb2hiRnlZMXEyY1RzUHRXeVRCZnJrUWtXRTR4UnM5MEpsdmpDNGltTi1qWnpBSERlYkx4VDFqSllHMGQweFlpR0t5Y0lycVhFaEV6elNtdzEwenhPVzNSUDdmbEJTanhEOUZjbWtqd2xWWlEwSC01VGE5VXVrbEl3?oc=5
+- Slovakian couple had come for a holiday to India, man died hours after checking into Conrad - The Hindu
+  Slovakian couple had come for a holiday to India, man died
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN2x6SFJ0STdaaUpPNjZQdUEzRFdnU20zaWNmWG5nNnpiT2xiZzlrQXl0ak16SHhBUDNuSldVR0tHNWNBcFJiZ25KZ2g5M1I2NjhrVzg4OUltQ1gzUkE2b0FUSkxMSmo1VHNfNHEwSTdqWkJnRzJjR0dZdGlyQzRpXzRvZkktSml0cVIzbUtHaWFHUXpHUGxhMXMwUXBLMWwzTUx0MTVjV1pIOGo1d1JnX0lEUkNPYUNwZ3lRRzN5N2ZDanBCZk1TXzNtbjZ0S0dOS2lhcDVEZGo5UG5lWWJfWkc5RzgtRnI3bi1WTjZTMmfSAfcBQVVfeXFMT2xmMGJFUzhVTV9ZR3hVN3FHbmd5bTd1dm8wX2ZqbHJ5b1lkV2NOMjBMYTR2bGlFcmlqMWRvMGlaSlUtQ2pSTzlyWFY1TkJfbGRNQV9ZRTNWWGlnLWVfcG1JNU83OVByRE1xazBIUnRxQXJONWlrTHF1amhhei1fdWpDUWlzZnEzOVZKUkgxMkRpbzBiZU15NUxuTjZqRWtLdlRaSmZRNFFvb0VnbVA4SlBHcXlCR2dXUmV5VjhNTXVzR0pJUVY0dE85OVhxRXhKMVZjT0F3MFZnM2VHV2Vwb1lpc2tfMHpYTXJ6NldMRHgxeTZlaDZ1VQ?oc=5
 
-- India to meet liquor firms as domestic giants join foreign peers in Scotch dispute - Reuters
-  India to meet liquor firms as domestic giants join foreign peers in
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3c1ZFF4ZEhYS1FqamR5U21kbFplR2Z5aDNoRnJ2SHNpN1p0Rk5tTElBUS1hNC1XS1lCNGtDTEd4blR1MG1OcUVMRkRQQzhRNHB3R1ctSHU0azZONlc0MzRsSGN1emh4UkQ5a1Nhd0pMbEJkeUpCTzNpbFp6NFREZDk4T3RyX3hZVFFleTZld3dJaFRUZU1KbUZodTFYM2RBQi1KV3lYbFpBZVE3UkE2SFNPbXlJOFRJbDVXVzNn?oc=5
+- Lufthansa crew among 2 foreign nationals dead in suspected electrocution at Bengaluru hotel pool | India News - Hindustan Times
+  Lufthansa crew among 2 foreign nationals dead in suspected electrocution
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNeU43aFF5dlZQeU50Nm9HUjJrT0M5ellTYms0X1Q0OGlmSFRqLWxObF9QSlozYXhMUXhoWEFXT1BRSl9oVHZiWnkwTllkMTM0dWFveG11aDA5S2FBQjJvVlNGYXRDYVhWbG9QOFV0a0UxdlFxSG52eTdMckVvOUN6b0Q2SkljWmpoSkx5Um9HcGhQVGNvcVR3SENUWVV4S21rY3l1d25veXNCa3BPaHhQM0w2aEtpSzRqSEVaOVdUR3FxMTV6T2tIbzk2SzZwOUJxVTBaLXhvWFJ1TmlZSWZORmR3bDlTRk9zTW83Tlc0Y0ZZUmpQUlFYRTd5WHpDMml3R1ZScncxOHlSRngybXpDRlF30gGXAkFVX3lxTE9xZ0hhbGtfUVBDNnhVOHJtZWU5WGpvME9KRl90cVZaS1JqdDNJNjFoMUNQSENNeV9NckhvWGlIWlEwREhyQXFXb0tWMjJqaUpkOWRKLUtPSzRpdVRPMlFGMkVTenU0elhEVzdDRzlDcDVrREFXOTVmemNUY1E3ZWZvQUhfWkNyY0VwbGNoX0xuYlpRbHpuSHZFa1k0Z3BpV0QySjN0bi1JZXJlR0M0TlhZZjlZQkRjckh6ZGlxRU00bjM4bkNGSFFjMjlNUXZfaktiSVJqZFZiRTU2NTctQXE5QlpMS2I1ZGM0d3ZFZ2FtR3BnUTJCWk0tY3Z5UHBZLXlKc0x2MFR0RHBKUTZoYTUzUy0wajlWWQ?oc=5
+
+- ED Arrests Armstrong Exchange Founder Over Alleged Online Betting Scam
+  The Enforcement Directorate (ED) has arrested Armstrong Exchange founder Sagar Dash in connection with an alleged online gaming and betting.
+  🔗 https://inc42.com/buzz/ed-arrests-armstrong-exchange-founder-over-alleged-online-betting-scam/
 
 - IPO-Bound StockGro’s FY26 Profit Jumps 3.3X YoY To ₹113 Cr, Revenue Doubles
   StockGro-parent AssetGro Fintech Ltd net profit for the fiscal year FY26 jumped threefold while its operating revenue doubled year-on
@@ -176,89 +100,53 @@
   Capillary Technologies’ Subsidiary Hit By €3 Mn Cyber Fraud. A forensic audit by KPMG has found the €3.04 Mn banking fraud.
   🔗 https://inc42.com/buzz/capillary-technologies-subsidiary-hit-by-e3-mn-cyber-fraud/
 
-- CapGrid Secures ₹50 Cr Funding To Deepen Its Manufacturing Play
-  Delhi NCR-based B2B manufacturing startup CapGrid has raised ₹50 Cr (about $5.2 Mn) in a Pre
-  🔗 https://inc42.com/buzz/capgrid-secures-%e2%82%b950-cr-funding-to-deepen-its-manufacturing-play/
+- India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
+  India's Extreme Poverty Drops From 27.1% To
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
 
-- Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | LIVE - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZel
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
+- Uttarakhand helicopter crash reiterates concerns raised by Parliamentary panel - The Times of India
+  Uttarakhand helicopter crash reiterates concerns raised
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZkNsQWhvbXNfekd3RDlxRV9iVzdvckFQLWNndUJ2a2NNakNoQllfaE1waW42azF0bmVXZTRJQW5sUEVhQUx6N3F1SmhLVnNYTkpwLWR5ZU1mRVM2dHlsczFlSXdaMnYtc2p3NzJCN0h1X0t5QmxJQkFQbXh5UVhlUmgtajFFcXRaTFVSb1p2YlNZT2pRV2NHalN1bkNQZkdTVnZ4RWJVX2R0Qm9vbTNiUE5nX1poRGFLeTRHTUZJTDN0VTFuRzR6Z1kzaHZsYWxhSWxORVBGa0RTLTVuRGR30gHkAUFVX3lxTFBIdTN0Z0haV2twX3NtNnlaZzJYY21Ld2hCRG9LVURwczN3N3M5YTRYM01xcFZ0MnF2ZUU3SmxxZWFkSjEwdnFiODREV3Y2R3ZUY0ZVMmlGZ2hDZzRGaWxJTjlyaWdfQjhUN05ZSnl1aVVBNjlzRTU4bTh2R3NoZmVhOXlDSzlLNktfRjZuR0t4UlpWSjBDTEZUcmxzY05LT1pKZmlUZDVvZk1DZjdIUk91dnZ6M2tCaGxVV1NKSTRGd0RSaHYzV1hhR3YtWTBIa1V6cE5pN25WanNmbzh5ZUh5QVI3Ng?oc=5
 
-- Updated WTC Standings: Australia slip after series defeat in South Africa; where are India? - The Times of India
-  The Times of India is a leading English-language newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMkl6TG91SmMtd1hod25nQUMyNWc1RlVyZ1ZlVmpyTmJWR0NIWlpGdTFOTXJxLTdYc1dnNWNtRUUzUkUwUXhPTHFrUEtOZUpnakdKbkhMOFJRYmRfM0U3ZVVkLUt4d3h0eFdHX1lQdl9waUpIdW5UR2Z5MkNXREFHMlExSnRNbk52QmxCYWFrcmZFeTU3anNWYnVMXzhtTmtCY0xuMm01bnM3RHEtanlOV09ZMzZ4TFhqOTB4MnhZWlVQeF85TURJSUREWWk3UENPRURzV3cxVkVtX0VsRmN3ZS1ncnpEV2t4MHNOTkJNWVVxeTlFa1B2Z0d0cWVJWkU?oc=5
+- 'Cause Not Established': Bengaluru 5-Star Hotel's 1st Statement On Pool Deaths - NDTV
+  'Cause Not Established': Bengaluru 5
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUFGeXMyTUFkOFROY3JYcE1MT2JtemVXODFJNUdySzEzNXRNN0FHZUZoMlpJUTQyLXEzM1g1aGdCaktsMS1WMXRaTXdHUkhRMklsOWlzb1VsNHFLNnFfcHJEenlSbElWQm13SnVYeWR2bUJxZ1BKd0NsQlh3OFJFcTNnTHZzMkIyVTFpeDBfVFBfcks5ZnlZdzNBdU1WYlNZc3A1bFVGdVN0Y2Z6aWNDZ0ZZWU91QdIBvgFBVV95cUxQUXFpYXNUMkpMMFFfVzN3UVZQTkZNWlRmZXF3cDF4eDNuSGQyYzBjMTBJUnEwZGY1WmQtZEhYelctZDNiRmZscXBWUzhuUGx2Z2tGNUNrZ1hIU3lBVko5ZFJJR1RzUGFfUUdGZVFub2ptdlc4QTBuZTFOcENrSXMwUmUxeGhhZjhmQ2tpTFJUMEI0VTYtYWRqVUxDSkFkTkFwbVI5VnlLYmI2d2ZjVW9aQ1dfUXZUNXBKd2UzN21B?oc=5
 
-- Bangladesh opposition leader warns against India corridor, seeks fair Ganges water pact: Reports - The Hindu
-  Bangladesh opposition leader warns against India corridor, seeks fair
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMlRna3pUYmhhdUVSbmxaTFE1dDZnNlMzU3JLUGZrRTFPV2U4SWtXNV9NZm1HUlUwTkRLTDNidVpKdi10YlBtd250ejd1Qjg2WXNEYnV4Q3I1OWNWak15SjJoRkpGelNWVnBsdjdYbExFRnNOUUI4cF9wcUZhY1Q3R2p0VG5iOUtPZkNwNGd3YVFSVWlRLXpSZVpPTlNZVE42eE1wbHZnYy12NzR5X1VMckwtV0xWX2Q2Zm5BTUFKN0dIYTYxbHVBWGRrNXBzVWdTYWFuc1BYb3g2SWo5RXV4SjFiMFBrOV9Ob1g3ei1QSdIB9gFBVV95cUxQaXd3TldLc0lCcmI5VU9iYTlnREE0dVhXazc3LV9WaG9adjF4Rm9zcDNTNDhTbkFjZ0VXZk0tNkYzS3lPMlJZTjN2Y19zNjVhcFZjbVJQcDR3WUt1WHA0bmdMMDY4M19YM3lNbHM0Tmk3N1VPU05OQjdYSkluX1R4bXRuOW1MQjd5eFUxY1prbHhzUndWWkk2Q2ctSll1VG1zT0xKTXlxMk84MWUxUTRhSUFhcE9MS0hzRHlnYXZRX29IcW1zeWZlQmk0cldQRUtVYUcwOE1kc0tHNE5mZDJmajNqeEdvZ3NEUFpCb2d6anB0eWNhcWc?oc=5
+- Slovakian couple had come for a holiday to India, man died hours after checking into Conrad - The Hindu
+  Slovakian couple had come for a holiday to India, man died
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN2x6SFJ0STdaaUpPNjZQdUEzRFdnU20zaWNmWG5nNnpiT2xiZzlrQXl0ak16SHhBUDNuSldVR0tHNWNBcFJiZ25KZ2g5M1I2NjhrVzg4OUltQ1gzUkE2b0FUSkxMSmo1VHNfNHEwSTdqWkJnRzJjR0dZdGlyQzRpXzRvZkktSml0cVIzbUtHaWFHUXpHUGxhMXMwUXBLMWwzTUx0MTVjV1pIOGo1d1JnX0lEUkNPYUNwZ3lRRzN5N2ZDanBCZk1TXzNtbjZ0S0dOS2lhcDVEZGo5UG5lWWJfWkc5RzgtRnI3bi1WTjZTMmfSAfcBQVVfeXFMT2xmMGJFUzhVTV9ZR3hVN3FHbmd5bTd1dm8wX2ZqbHJ5b1lkV2NOMjBMYTR2bGlFcmlqMWRvMGlaSlUtQ2pSTzlyWFY1TkJfbGRNQV9ZRTNWWGlnLWVfcG1JNU83OVByRE1xazBIUnRxQXJONWlrTHF1amhhei1fdWpDUWlzZnEzOVZKUkgxMkRpbzBiZU15NUxuTjZqRWtLdlRaSmZRNFFvb0VnbVA4SlBHcXlCR2dXUmV5VjhNTXVzR0pJUVY0dE85OVhxRXhKMVZjT0F3MFZnM2VHV2Vwb1lpc2tfMHpYTXJ6NldMRHgxeTZlaDZ1VQ?oc=5
 
-- 4 More Arrests In India-Myanmar Drug Racket Probe, 991 Bank Accounts Frozen - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGNNREZGOVRld3lPSG5sMk9iRm9uMnpxc1gzNFZOdnUxdE9NT3pVQzF2dy1VM0wzSHVIZXhVQlhQLWFJcUdFWnRLWXpJSHVvSTJwSjZuODFTRHBZTkN2VFZZd2VJNk5fdGpjU1cya19tU19HdERncElkNzJKNWp1em95NUtOQ00tU1RuYnVNeS1LaGt5QU5aOXNQZ21YZWxOWmpoMlhNbnFVZHE2WGxWVzgyVmt1UdIBvgFBVV95cUxPTXpad2tOTmFBVXYzMmVPZGNhWm9VVUxydlFpMjN1ZjlzTzBpUHB2ekRlYkNoS3FoWmFPRkl0eWU0cVVqLXJvb2hiRnlZMXEyY1RzUHRXeVRCZnJrUWtXRTR4UnM5MEpsdmpDNGltTi1qWnpBSERlYkx4VDFqSllHMGQweFlpR0t5Y0lycVhFaEV6elNtdzEwenhPVzNSUDdmbEJTanhEOUZjbWtqd2xWWlEwSC01VGE5VXVrbEl3?oc=5
+- Lufthansa crew among 2 foreign nationals dead in suspected electrocution at Bengaluru hotel pool | India News - Hindustan Times
+  Lufthansa crew among 2 foreign nationals dead in suspected electrocution
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNeU43aFF5dlZQeU50Nm9HUjJrT0M5ellTYms0X1Q0OGlmSFRqLWxObF9QSlozYXhMUXhoWEFXT1BRSl9oVHZiWnkwTllkMTM0dWFveG11aDA5S2FBQjJvVlNGYXRDYVhWbG9QOFV0a0UxdlFxSG52eTdMckVvOUN6b0Q2SkljWmpoSkx5Um9HcGhQVGNvcVR3SENUWVV4S21rY3l1d25veXNCa3BPaHhQM0w2aEtpSzRqSEVaOVdUR3FxMTV6T2tIbzk2SzZwOUJxVTBaLXhvWFJ1TmlZSWZORmR3bDlTRk9zTW83Tlc0Y0ZZUmpQUlFYRTd5WHpDMml3R1ZScncxOHlSRngybXpDRlF30gGXAkFVX3lxTE9xZ0hhbGtfUVBDNnhVOHJtZWU5WGpvME9KRl90cVZaS1JqdDNJNjFoMUNQSENNeV9NckhvWGlIWlEwREhyQXFXb0tWMjJqaUpkOWRKLUtPSzRpdVRPMlFGMkVTenU0elhEVzdDRzlDcDVrREFXOTVmemNUY1E3ZWZvQUhfWkNyY0VwbGNoX0xuYlpRbHpuSHZFa1k0Z3BpV0QySjN0bi1JZXJlR0M0TlhZZjlZQkRjckh6ZGlxRU00bjM4bkNGSFFjMjlNUXZfaktiSVJqZFZiRTU2NTctQXE5QlpMS2I1ZGM0d3ZFZ2FtR3BnUTJCWk0tY3Z5UHBZLXlKc0x2MFR0RHBKUTZoYTUzUy0wajlWWQ?oc=5
 
-- India to meet liquor firms as domestic giants join foreign peers in Scotch dispute - Reuters
-  India to meet liquor firms as domestic giants join foreign peers in
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3c1ZFF4ZEhYS1FqamR5U21kbFplR2Z5aDNoRnJ2SHNpN1p0Rk5tTElBUS1hNC1XS1lCNGtDTEd4blR1MG1OcUVMRkRQQzhRNHB3R1ctSHU0azZONlc0MzRsSGN1emh4UkQ5a1Nhd0pMbEJkeUpCTzNpbFp6NFREZDk4T3RyX3hZVFFleTZld3dJaFRUZU1KbUZodTFYM2RBQi1KV3lYbFpBZVE3UkE2SFNPbXlJOFRJbDVXVzNn?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | LIVE - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZel
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Updated WTC Standings: Australia slip after series defeat in South Africa; where are India? - The Times of India
-  The Times of India is a leading English-language newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMkl6TG91SmMtd1hod25nQUMyNWc1RlVyZ1ZlVmpyTmJWR0NIWlpGdTFOTXJxLTdYc1dnNWNtRUUzUkUwUXhPTHFrUEtOZUpnakdKbkhMOFJRYmRfM0U3ZVVkLUt4d3h0eFdHX1lQdl9waUpIdW5UR2Z5MkNXREFHMlExSnRNbk52QmxCYWFrcmZFeTU3anNWYnVMXzhtTmtCY0xuMm01bnM3RHEtanlOV09ZMzZ4TFhqOTB4MnhZWlVQeF85TURJSUREWWk3UENPRURzV3cxVkVtX0VsRmN3ZS1ncnpEV2t4MHNOTkJNWVVxeTlFa1B2Z0d0cWVJWkU?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Bangladesh opposition leader warns against India corridor, seeks fair Ganges water pact: Reports - The Hindu
-  Bangladesh opposition leader warns against India corridor, seeks fair
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMlRna3pUYmhhdUVSbmxaTFE1dDZnNlMzU3JLUGZrRTFPV2U4SWtXNV9NZm1HUlUwTkRLTDNidVpKdi10YlBtd250ejd1Qjg2WXNEYnV4Q3I1OWNWak15SjJoRkpGelNWVnBsdjdYbExFRnNOUUI4cF9wcUZhY1Q3R2p0VG5iOUtPZkNwNGd3YVFSVWlRLXpSZVpPTlNZVE42eE1wbHZnYy12NzR5X1VMckwtV0xWX2Q2Zm5BTUFKN0dIYTYxbHVBWGRrNXBzVWdTYWFuc1BYb3g2SWo5RXV4SjFiMFBrOV9Ob1g3ei1QSdIB9gFBVV95cUxQaXd3TldLc0lCcmI5VU9iYTlnREE0dVhXazc3LV9WaG9adjF4Rm9zcDNTNDhTbkFjZ0VXZk0tNkYzS3lPMlJZTjN2Y19zNjVhcFZjbVJQcDR3WUt1WHA0bmdMMDY4M19YM3lNbHM0Tmk3N1VPU05OQjdYSkluX1R4bXRuOW1MQjd5eFUxY1prbHhzUndWWkk2Q2ctSll1VG1zT0xKTXlxMk84MWUxUTRhSUFhcE9MS0hzRHlnYXZRX29IcW1zeWZlQmk0cldQRUtVYUcwOE1kc0tHNE5mZDJmajNqeEdvZ3NEUFpCb2d6anB0eWNhcWc?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- 4 More Arrests In India-Myanmar Drug Racket Probe, 991 Bank Accounts Frozen - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGNNREZGOVRld3lPSG5sMk9iRm9uMnpxc1gzNFZOdnUxdE9NT3pVQzF2dy1VM0wzSHVIZXhVQlhQLWFJcUdFWnRLWXpJSHVvSTJwSjZuODFTRHBZTkN2VFZZd2VJNk5fdGpjU1cya19tU19HdERncElkNzJKNWp1em95NUtOQ00tU1RuYnVNeS1LaGt5QU5aOXNQZ21YZWxOWmpoMlhNbnFVZHE2WGxWVzgyVmt1UdIBvgFBVV95cUxPTXpad2tOTmFBVXYzMmVPZGNhWm9VVUxydlFpMjN1ZjlzTzBpUHB2ekRlYkNoS3FoWmFPRkl0eWU0cVVqLXJvb2hiRnlZMXEyY1RzUHRXeVRCZnJrUWtXRTR4UnM5MEpsdmpDNGltTi1qWnpBSERlYkx4VDFqSllHMGQweFlpR0t5Y0lycVhFaEV6elNtdzEwenhPVzNSUDdmbEJTanhEOUZjbWtqd2xWWlEwSC01VGE5VXVrbEl3?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- India to meet liquor firms as domestic giants join foreign peers in Scotch dispute - Reuters
-  India to meet liquor firms as domestic giants join foreign peers in
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3c1ZFF4ZEhYS1FqamR5U21kbFplR2Z5aDNoRnJ2SHNpN1p0Rk5tTElBUS1hNC1XS1lCNGtDTEd4blR1MG1OcUVMRkRQQzhRNHB3R1ctSHU0azZONlc0MzRsSGN1emh4UkQ5a1Nhd0pMbEJkeUpCTzNpbFp6NFREZDk4T3RyX3hZVFFleTZld3dJaFRUZU1KbUZodTFYM2RBQi1KV3lYbFpBZVE3UkE2SFNPbXlJOFRJbDVXVzNn?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Rahul Gandhi claims 2024 Lok Sabha elections ‘illegal’ over voter deletions | LIVE - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZel
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
-
-- Updated WTC Standings: Australia slip after series defeat in South Africa; where are India? - The Times of India
-  The Times of India is a leading English-language newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMkl6TG91SmMtd1hod25nQUMyNWc1RlVyZ1ZlVmpyTmJWR0NIWlpGdTFOTXJxLTdYc1dnNWNtRUUzUkUwUXhPTHFrUEtOZUpnakdKbkhMOFJRYmRfM0U3ZVVkLUt4d3h0eFdHX1lQdl9waUpIdW5UR2Z5MkNXREFHMlExSnRNbk52QmxCYWFrcmZFeTU3anNWYnVMXzhtTmtCY0xuMm01bnM3RHEtanlOV09ZMzZ4TFhqOTB4MnhZWlVQeF85TURJSUREWWk3UENPRURzV3cxVkVtX0VsRmN3ZS1ncnpEV2t4MHNOTkJNWVVxeTlFa1B2Z0d0cWVJWkU?oc=5
-
-- Bangladesh opposition leader warns against India corridor, seeks fair Ganges water pact: Reports - The Hindu
-  Bangladesh opposition leader warns against India corridor, seeks fair
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMlRna3pUYmhhdUVSbmxaTFE1dDZnNlMzU3JLUGZrRTFPV2U4SWtXNV9NZm1HUlUwTkRLTDNidVpKdi10YlBtd250ejd1Qjg2WXNEYnV4Q3I1OWNWak15SjJoRkpGelNWVnBsdjdYbExFRnNOUUI4cF9wcUZhY1Q3R2p0VG5iOUtPZkNwNGd3YVFSVWlRLXpSZVpPTlNZVE42eE1wbHZnYy12NzR5X1VMckwtV0xWX2Q2Zm5BTUFKN0dIYTYxbHVBWGRrNXBzVWdTYWFuc1BYb3g2SWo5RXV4SjFiMFBrOV9Ob1g3ei1QSdIB9gFBVV95cUxQaXd3TldLc0lCcmI5VU9iYTlnREE0dVhXazc3LV9WaG9adjF4Rm9zcDNTNDhTbkFjZ0VXZk0tNkYzS3lPMlJZTjN2Y19zNjVhcFZjbVJQcDR3WUt1WHA0bmdMMDY4M19YM3lNbHM0Tmk3N1VPU05OQjdYSkluX1R4bXRuOW1MQjd5eFUxY1prbHhzUndWWkk2Q2ctSll1VG1zT0xKTXlxMk84MWUxUTRhSUFhcE9MS0hzRHlnYXZRX29IcW1zeWZlQmk0cldQRUtVYUcwOE1kc0tHNE5mZDJmajNqeEdvZ3NEUFpCb2d6anB0eWNhcWc?oc=5
-
-- 4 More Arrests In India-Myanmar Drug Racket Probe, 991 Bank Accounts Frozen - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGNNREZGOVRld3lPSG5sMk9iRm9uMnpxc1gzNFZOdnUxdE9NT3pVQzF2dy1VM0wzSHVIZXhVQlhQLWFJcUdFWnRLWXpJSHVvSTJwSjZuODFTRHBZTkN2VFZZd2VJNk5fdGpjU1cya19tU19HdERncElkNzJKNWp1em95NUtOQ00tU1RuYnVNeS1LaGt5QU5aOXNQZ21YZWxOWmpoMlhNbnFVZHE2WGxWVzgyVmt1UdIBvgFBVV95cUxPTXpad2tOTmFBVXYzMmVPZGNhWm9VVUxydlFpMjN1ZjlzTzBpUHB2ekRlYkNoS3FoWmFPRkl0eWU0cVVqLXJvb2hiRnlZMXEyY1RzUHRXeVRCZnJrUWtXRTR4UnM5MEpsdmpDNGltTi1qWnpBSERlYkx4VDFqSllHMGQweFlpR0t5Y0lycVhFaEV6elNtdzEwenhPVzNSUDdmbEJTanhEOUZjbWtqd2xWWlEwSC01VGE5VXVrbEl3?oc=5
-
-- India to meet liquor firms as domestic giants join foreign peers in Scotch dispute - Reuters
-  India to meet liquor firms as domestic giants join foreign peers in
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3c1ZFF4ZEhYS1FqamR5U21kbFplR2Z5aDNoRnJ2SHNpN1p0Rk5tTElBUS1hNC1XS1lCNGtDTEd4blR1MG1OcUVMRkRQQzhRNHB3R1ctSHU0azZONlc0MzRsSGN1emh4UkQ5a1Nhd0pMbEJkeUpCTzNpbFp6NFREZDk4T3RyX3hZVFFleTZld3dJaFRUZU1KbUZodTFYM2RBQi1KV3lYbFpBZVE3UkE2SFNPbXlJOFRJbDVXVzNn?oc=5
-
-- New technologies adoption must go hand-in-hand with sound engineering practices, worker safety: MEIL Projects’ Division president - The Hindu
-  New technologies adoption must go hand-in-hand with sound engineering practices,
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxNcmtRRHZaNHhVLURWOXY1ekhLV1I5N0JmOFdZVFNxWUZjSGkyeVc3X25rMFRvS3hpcHlFLXpROVJmdjR6VWZnVWdNUDRCR1VkSnFSdFpOYmRwVWdFSGVBNWtSLXpnbVZ6V0pPS3Fjc0p3MmRFVFdOSWRvMXVGV0ZRd2ZReGJUWG1vcHVyT2Q0SDUycW96RFpJSnJaTkxGVnpxeE9NZmdlTl9pYnR1Q21ZQldpem9ld1FVNzB3RnoxOUJFX0l4cTV1VEVxSVlkZjM0MEVvbm9fR0xuaUxtaVVxdzFlTW5YUG9JemdTOENkYVhtMy13RmRpNjh1cmV2RjRhV2hkT2oyekJSb2dyZEZRN2tNUlViOWdnUnJ6UlN5NWLSAacCQVVfeXFMUFJYY3FkZUVRdlRfMWJUejFGQ2E5WHhYMEtJLXNUaTBDb3I1eTk1MFlYUWh1WjgtXzAtVDJFeU0xRk5WRlFIc2k2WWdXM1dJeWlYbGl0RFlCVWlkVUpDOFowZjNJcFUzT0VqQ19DeUUzUUx0emt1ZUFvZjlSWkRJZVlNY0RuSjdPcDlfb3F0Q1lPZzhKcF9RRlhwSEUwSVVvUEtwVklOUmdEUnh2VHNiT05aRHYtYURFZHR0X0hNVl83Z3FjTXV2VEVZaVN2OEREZ2JIb0tsZkUzOWV5TFZuaDc3aW5wY1lDWXpmY2lpQndCWU14ZWp1b3QwQ055eDdISnJNczlzM2YtMzJwdGJ3TGV2cktxUkhyQTFEdDIzTHdqaHdVNjFpaw?oc=5
-
-- Bernie Sanders warns Oracle, Nvidia and other technology companies on expenditure that has wiped billions - The Times of India
-  Bernie Sanders warns Oracle, Nvidia and other technology companies on expenditure that has wiped billions
-  🔗 https://news.google.com/rss/articles/CBMi7AJBVV95cUxOMkRJa2JmYlM3MGhGS3huOHhNR2pNcEFyY043bWg4Ujh2WUZxcEZDY2xSdkVFQ051cDNCbzFXSmtVZHVZS2FRcW1vUWNKM2tuNWkwdW5UV2djRXdLUWMtRGlsTGNJOFlfMVM0bTVYaktpdmJ4Zjdzd0pHbXNTR0IweGRGUWx0QzBvZlJ3QTE2Ti0xMGI1a0cyS3NMcFpRRGtZUDM0U1FFSThsOGo1SWZXNEI1UlZ6Mk42UFg1aTF4eWZCaU9Oa3FVVnF5ZmJiRHRrSWpKZ05ybE0zYVdfRk9tNGw4czBWNGZ5dE1hVFVtdDdQeWk0VjRnaGFYd3N2TEs2ZWZCaWFKYVhyU0xkRFpNVExRVWF2c1RzdzZEejU3U1hkUDFidEZGbTBuRFR0WjVOcmtad2VwLXMxMWY5RnlRUzlxVHItNnJKWlBRai1QTlhIWG1FakVvZUF2NHBWdUFUWDhTR1hMNFlURm030gHyAkFVX3lxTE45VjkwV0tKeXhpZ19haDRfVHJfd3FPSjlTeXk3RWZFR2NzNXU1N0ExekxkekFkR0hyMkxQam9mUzZNNjNwQXJteFI0UEE1S01wTjZYcGJya0hMek01SXpSeWw1UnRVNHh2UW4tOUpaTjZUel80TmJEUGh2QkRxZHhLcWpPRi03MU1za2JoVklsd0x4QktOVzdzQTdrekY5UEtwckZHem9vX2dXcHg2allQNERsVVJ2QnN1X1lJQ19oRTBSZ3dGanZIQWZlVHBxNG9JWllPSTVMQTlEWkZXc1NnMUN3WWlnQ3ZkRWJ6Mmw2SHVvUnE4UkVsSTYzT0lvSzJFakw5VWpVUFFyOHlzTTk3dzVJOHkzdUM0UWdEbzVqWUFYejU4UTFGRlVPX0prNzRnemFJRUZPTkplUmYtaWs3OFo4aXgwVVJiUWxsNXhrT2tnTFlBdjZFaWQzdm9hNzZ3Mm5HUTh1SjhPQ2NuR1J0RVE?oc=5
-
-- Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports - The Guardian
-  Tech sell-off drives US markets down by nearly $1
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0lZbXhSZjlKZXRPOHVOUjcxUmctdlM2ZDc4V1FLTG1uNzlJNV9QMnpBYXZPSGt3QXlJSWs3d1hrb3BZWVI0ZEpnekhBX3NSWGxYd1ljdm5EcmdkMldET19ITWJPcC1zQ3lFLVhHT2hPeGU2VmlYYlVFd2FNT0xpNlFxdnNtRzNXamxB?oc=5
-
-- Say goodbye to boarding passes and passports at airports - BusinessTech
-  Say goodbye to boarding passes and passports
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTZTRlNGNVBVTU91eXhySWNfY3YxTmh2akRQdG5PdURGbnRTVy1kdFZ1RldfNmxNVjAxZWpHbm5pNjQtMmQ4YW9mZ3VHZDE2aDRwT0hVNG5vXzB1cml4MUZCdHMtdWxrZ2NFdG1ONHQzN2gzWU16RUVta1lnMXhiT0tuZGxRR2p0d0tnUHlzYnM1R1VraTBXbmpGOVo0QVFGaGVwOTExVTdWRDQ?oc=5
-
-- Maharishi botFiesta 2026: Fifth Edition Begins with Grandeur at Maharishi University of Information Technology, Lucknow - TheWire.in
-  Maharishi botFiesta 2026: Fifth Edition Begins with
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR1R5alJETnRDUF8zXzA5QURhVGxCVjVvQlF3MzZQSzVjYjlBVmhyWVVURFNmckFRNmdVZ0pHOW9UVzdCRnZlME4zdFhNeG1zWGl1Z3FpbUpOcVVDbWhTeU13UkFGWWlqdnh2a252aEp1b0JDT1VOSW8yMUViX3owbXlCQnR2X01DelhHUXZJSGZ3cGNuV3dxRU9ZcjUxMlFHRllCMm1UVHo3VXQzYWFmUm5WM19lY3lVT215bzRfcThPYmgyTEpYWlBqQ2plMUc3aGRuWG5oblBFTnZtQXZNNzBFUnBZWk55aUpvZtIB8gFBVV95cUxPZ3p6akJPSnQ5UGxXLWpCN3pQVFFLTDlYTHdIMWRrc0VQcTc0LTMyNUVGMGlQa0gxWm5OV3VzZWQwd3hySVJUNnBUeHg4azk4QzlQcE5haUpkNUV3M0loOXJzYmNsdmxkV2NsbDhPWktLTGhRXzdRVTV2ZmJoMS1WNGp2UlFjcER5SlNyam5wZnd4TDFkMDlJODVBNEFURjB0ZTNNNm53OHR6WFRsRF9Yc3BrR3YtdnBsUVYzSlpRMkNCNDhnanJlYXVGODdWZ2I4aE1jenJPS0d3azliRGZvZVBQaDYxRzVod09JSl9oWUthQQ?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-31 16:46:08 UTC_
+_Last updated: 2026-10-31 20:56:47 UTC_
