@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- INDIA bloc's 'public impeachment' of CEC postponed to Oct. 31 due to rain, Rahul Gandhi says | Highlights - The Hindu
-  India bloc's 'public impeachment' of CEC postponed to Oct. 31 due to
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzI4Sy1fMDZLVHAxNU03RjYwR3ZYU2Z1VXB2bjN3dW80MU9mNmxUOVZKTTZveG5ybFJtdlR1SnBobXl2di1rVFFySXFRRU5KOUFQQ0xzRnV3ek5IQlYyWEN3SjlGa3ZmVFhqSTNwWkpseUlISU9lbnA4bkduUW8zbmhTVzdod2w2eXhhaG9mQXJSVl9hWjBNU243M3F3azNJMEY1RHd5NEdKcC1OQU9rZHp3VlMxQW41bjRIXzZEUWp1R3JHV1FydU44MVBiZDV1R29hTtIB2wFBVV95cUxQamdrNEM1bkQxTXFKMmZnbFVSeXNKTkl5ZUNJcTdmZGNEcEhjaktQdEM0MWpGTEY4ZkFQdFh3VG1KV0VydzE2ZWFLdFhBRHBsLVI4UFVoeXFiUXBNamhXUkc0YzdUcnd6dWV5UUpCdllDODFCcFo1elRBTHJuRXJPYWtqOWNETDFjSXY1c1RsVFVhU1EtRG50endPRG9tWkJXTzIzZXEwQzFrZ2lKMl9ldnVSWWdZNm5oTnp5NURXMEhnWmplLVhOaFJWX0NUYTJ1VnliLUlKQk9YUXc?oc=5
-
-- Rain Forces INDIA Bloc To Postpone "Public Impeachment" Of Gyanesh Kumar - NDTV
-  Rain Forces INDIA Bloc To Postp
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0xNVnM4NDREVkdNS3NIMnNVSDJZVThvX0RBbGZoRkNPR3Q3UnVMRlRnNEt3WHZWNElCMmR5TVNTa2E5bzMxWEUwTmhQenk3MVRPVGJUX09fZ1ExMHdTb2E4MXRZZVZSbzlDeUZsQ3JOcTRUOWY3REdBN0tEdGRBZUl6UzViQ2dlZmpubjJFWmZzMDVUMzFUeTdma3NVVUNDakZuNGNpNjRVQ1FRcUVSemJfQ3Vvd9IBvgFBVV95cUxPdXhZb3NNUGhvQVU2U1JTRjlpNzVDX1ZnZm9nTkl3OVJobWI1WjRhNEViekhXNXFEVTdycFlpdVVLZDZoT1VZeWFlT2hpelJnX2prZk9WbXRxX1RrUTN6ZUhUd0hyTHdwYS1wMUVUaFZraExVNFhCbTEzVlVBRjFUUkJSNUE0R1F4S1FrWHcwMG1aLVZ1Z2M2MHdVT2hxWENKZU5FTDVzSWUxSkJDOVpRMHJKU0dkYTExNnR2WW53?oc=5
-
-- INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE - The Hindu
-  India bloc to hold ‘public impeachment’ of C
+- Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity' | LIVE - The Hindu
+  Kharge moves six charges against CEC Gyanesh Kumar,
   🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
 
-- India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
-  India's Extreme Poverty Drops From 27.1% To
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
+- Amit Shah's 'Special' Offer To INDIA Bloc Before Gyanesh Kumar's 'Public Impeachment' - NDTV
+  Amit Shah's 'Special' Offer To IND
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXktV1ZPb1BrLTZUVFFBSmFWVXl0dnlMRmVTYzk3V1Z4LVoxOHE3bU5BT3plby1sQ3ljS3pFYjUzZWxNWWVOMERNWW8wamlsV2l2ZTNUU0tCVzZLeWgwM283bTBPNlMyS0dGcVFqVXQ4bDc1TktfX20wXzBoUk5RRkliTHBwcTRoSjBpcjA2VGF6LWdKSjhubC1QNC1EUUFsSWVVNWRPZHpKTHRGU3NFQU16NThBQkh6Smx1b2VNa1BDclF5aXdQYU5YMmpwdm5nV0Zv0gHbAUFVX3lxTE5BQUxfTUFncTdfVy1BWjA2eUVCN3VfYWtiQndDSnlzbjdzeE0xVV9BZnpyZ0pkdThxcXlNZGkxT3BhMkVwSjFvWG4zeHkxUGVBY2ZvOHIzQTJsSXdNQU01Z2d6QVlndWt5V00xNUZPQ0VsemF3d0JuZlI2bEZDXzUtZFVpQjBIRXREeTlFRC1SeVpBLVJzNnBPcVh0S21ZSDA0NUgyX1kzSlUwc1JSWWhlQ1BkLUhZQ3FqSnVfSXZLWWxxaUsxT0k4NXFPczRfS3psMlE2ZW1XZHJqRQ?oc=5
 
-- Breaking News Live Updates: Isro launches NVS-03 satellite to strengthen India's NavIC system - The Times of India
-  The Times of India reports that Isro has launched a satellite to strengthen
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkZaWGdwZ3BPUTZjMEh6cnJKdmVNeWtvZmN3eGdoTnBpSTlUU3poOWswY3MwOVF4NkJncnNlbkw2djgyRHNLcEVYN1JmdTIyakRuQ09pMkFia3BnM2NoeURzV2xLLUVWcHFCdGptNk9vUFo3WkJFelFvQ0hwOERfX2ZOMkFnOXZ0V1dRWUFLaVgwcnBoX1VSRm9McDFRVXBPNGR4WmJBTkhFT0E2OTRlSkRadmRUd9IBuwFBVV95cUxOY1VwTWdCMURyZjFjZzUwbmlhSEpzcHFhZ0xMNDl1NUlUNFFEWHd6Q1k2a3ZSR3dRRm5zTkJmMU11N29xSDc2X1FQN040NDlSdWY0czZQUzU5eXdnTWgxc1ZCRVNlQVlHNDRLc09xVUJja1B0TjIyOFkzQkxVZEJaUzZzX0REUC0yVmUzRGs4RTdIdldYejdlQlBBQjlsLWtiODdhb1IyNWxmNXhOQlVvZ1JxY2xNUl9kRllF?oc=5
+- LIVE! INDIA bloc's 'public impeachment' of CEC begins - Rediff
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE1mc1ljTjNjMGdrM3Z0V0FnQW0wREVDRUVsWFlGMy1mZVBSLVg2endRRWNaX3dWSl90aFUwQjQ3WjFfWW9RdW0yb3diZzU2bGI3a09FR2Q5dHhXd1ItU095ZnRJZDBCcEMtTUdfYi04aG1RWW1B?oc=5
 
-- Ghost in the machine: how AI is haunting the search for the supernatural - The Guardian
-  The Guardian looks at how AI is haunting the search for the
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNMllrQ0hiYnQ1Z2VTcVJMdEJDeTJmYjZKdDhqS3dkUUNCYkxfbWFWdjJpdnFDT0VQdDVGT2pMMmJrQ3ZpeXhLX0hzSXdCRjBETGdJWjdEYU9rbU95dU1SQkEzc09BY2JQQ09vUzFkblpGNHd3Q3d5djl5eWJZa0JTOURINzBJTVRCTmc?oc=5
+- India seek bowling solutions in bid for 4-1 finish - Cricbuzz
+  India seek bowling solutions in bid for
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDNtQVRLTFVrbkxnUjZVZXhrRmdiZnowa2RJMXRtMXUweUZBb1J6M0MyZlpoNlpfblBOYXB3WmJoZm4zVWN6NnJnSDVZYldwbzVPdXAzYXpocy1Dbmx6dXlNMFhTQ2lUM1NfWU1qeDFLUFd6MUN6LWlBUjRKVFRQN3Y3ellqSFhCVTQxYzBVZ0R6NXpFN3l3YndtYw?oc=5
+
+- October’s biggest travel news stories, and what they mean for Indian travellers - Condé Nast Traveller India
+  October’s biggest travel news stories, and what they mean
+  🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1sWWZrbFNQbFVaeHBwWGJhcThQV1FVY3hOMjVTSG05cVBFMlpZdTlaSmZReFd6NVVvZHlTaWl5Mm55bFBmV3hDNHdlenRkbV9tdW1Fa3ljR3RFR196dWNMVnUxS2ZwVmlXbWc?oc=5
+
+- Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports - The Guardian
+  Tech sell-off drives US markets down by nearly $1
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0lZbXhSZjlKZXRPOHVOUjcxUmctdlM2ZDc4V1FLTG1uNzlJNV9QMnpBYXZPSGt3QXlJSWs3d1hrb3BZWVI0ZEpnekhBX3NSWGxYd1ljdm5EcmdkMldET19ITWJPcC1zQ3lFLVhHT2hPeGU2VmlYYlVFd2FNT0xpNlFxdnNtRzNXamxB?oc=5
 
 - North Korea's Kim calls for rapid expansion of drone technology, observes testing of weapons - The Hindu
   North Korea's Kim calls for rapid expansion of drone technology.
   🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaE5fWDAzVllLV1Qxa19va1UxODZPNVY4WTJUMmZJYmh5MURzTVNkYU5UaGtxVkU2dVRLSmhiYVQyQkVSZWhoLXlNZ1czbXpLXzdNaHZwUm5FWDJYRWl0MUpHWWtZRE1WdnZsZG1mdFlHTnBUYUYwcHUwdVFobnh4dG9JQ3VvdkhrbEdHZ2pXeHA3RHVTbTQxQnd2b0UwMXlmMHQ4SGs5b2Q0MENLUC14NUxzN1JXbTlncDlVcFJmaUhtRU4yM1U0WG5HRlg3V01nOEhKS0U2UnJhc1JFT1BJQjc5MXg3c2V3RGfSAfABQVVfeXFMUHd4NGR2UG94aG8wbkNycEpWSlM0Vnowd2RqSEpYcXg0bW9qcGxjNWMtWkMwd1puMEZTVEk0SG9nWk51TGRDUVByaGpfZWVtcjJIbGFLTy0yU3BaRHdGS0NsQmlNcVdta001b2RTMmxFVUhIWWZESnVXaDB5OGxxVFFzdDdOYlVJUW5RNWdTbDRDYkFGTnRMclROa2RNR3o5b1hudHlWSGhDQXBSNzhDQ0tWZFZDZXBkd1FyMUFvNXFHb0FQZ29ETFFvSFNpZ1RzVU1BSHNPejQwellZanFkNVkzblJxOHZHZlNMWG4yZGho?oc=5
 
-- AI’s real bottleneck is electricity. Who will pay for it? - Al Jazeera
-  AI’s real bottleneck is electricity.
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFk0cW15cnpHMGtuQXRIV3hvY0dnTEV3emYyWGRNRXVndGI2T1hDcnVUVmxrUlB6WDhINk1WUHdQeDY4LXE3NnhCQ3gydjltRXcwTTRmWE91RFFRN0hlaExjLXRQODFQX1ZYV00yczM1ejk5Q2pvdGNkcUM4Y2FGb0ZTd3l1Y3VTSUNhRndSZ211SjJKM1pXaHhudzNOaEZwZVHSAacBQVVfeXFMTk00eFBoNjZMMjEwOWEzQVZPdDZ0TjQ3RWh1N3ptT3k2cW80ODFoSkQwNnllTDhpcEhHb2hETzZyWUs2TTlwMHZmQjE3MW1FYXl2VVd1REwyTlp5RUwtcWV0TWl2a3VCU1EwaFVBbmNjV1lwY1psang0OW1Pa1R5ekhnWU1MWnI2bXR2Z0FJQzhSQTVUUTI1bFdyOWlHdzlHT2d0UDNrS0U?oc=5
+- New India focuses on underwriting, technology for profitable growth: CMD - Asia Insurance Post
+  New India focuses on underwriting, technology for profitable
+  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3RXVPYUdxOUpCOTlyelEwTzVhZ0NTb1VPTDBSM044LW9KazcyS2tuajF3c3lDLTZRUGNpWkNoa2V5NVRQRWs3TGJIemlRYTdfT2lCVWwxWQ?oc=5
 
-- Thiruvananthapuram to host two-day symposium on nuclear science and technology - The Times of India
-  Thiruvananthapuram to host two-
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcnYxSllGNnlvQkVYOGkwQjlKd09UaVZ0REx2NTNraThpZzc4bFRDUXRBY1A4UU52M1hESHFJZUpFRHVNUDFhcjBxdUlQY0hRdmVRdWNzSTJQdnhiQl91VTAzR3BjSm9NX3hJZHNxQnlfdDJzSGxzUEM0V21DZHJxN0RWTVlBLU9NeVFoZ0lkTU9mRTFWSUwxZ3p1M04tam1TbEJKd3RfaGV0THJPQlFWSURGb0tWbDZRUkRCNno0U0Rqbnlqa1c0djMzeDRJNURCYXEyX3RxSXhwZEdUZ252VTNhMzJ6ZzRmc0RKdEQtd1k2VEF1eEZ30gH8AUFVX3lxTE9SVk5aZERzYkdBemttbUNZTDR0OXB3Slg1a2dLeEE5bnVxcDMtTkNhTXdkRHVXZ3IycmszQjdJNUpSNVBsWTlvRWhqdWdwaDRVWVprM09vZzRFSDNOQTg0a2o5dk1CZDBlNm8zbmFWNHBDMzZRQmhDN2JsWno4eThKU1BFbUplMk9WUGhSazYxYTRMOTdyZnBmcDZLODd1SFlULWozcWNGcUlYQU45VHptVnBfTkpvQ1NYdG8xb0NnLXhsVzhUOGYzWk5vRVgzajNaX1hJbnNLM1RNRDZTZEhvLXdoQUg3R0tmT2U5UHNOVFpyVFU1Ui1CTW90Ug?oc=5
+- Say goodbye to boarding passes and passports at airports - BusinessTech
+  Say goodbye to boarding passes and passports
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTZTRlNGNVBVTU91eXhySWNfY3YxTmh2akRQdG5PdURGbnRTVy1kdFZ1RldfNmxNVjAxZWpHbm5pNjQtMmQ4YW9mZ3VHZDE2aDRwT0hVNG5vXzB1cml4MUZCdHMtdWxrZ2NFdG1ONHQzN2gzWU16RUVta1lnMXhiT0tuZGxRR2p0d0tnUHlzYnM1R1VraTBXbmpGOVo0QVFGaGVwOTExVTdWRDQ?oc=5
 
-- Developing economies need not reinvent the tech wheel: Co-Develop’s CEO Madhukar - The Indian Express
-  Developing economies need not reinvent the tech wheel, says
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVQ3VTA1RWkybThNZnp3X0hDa2t6UHF4NWhsazBFZXgtbnRtRUVndG5UcEd1X1J2VnFEZjJ6dFdoSjZKMUNIT29HaEtoWjdhb0hnckdibVk3Q0JuYlh4UWN4c1F1VHppMlkwbEt6c2Y2eE9TNXVKT05iUERhcFdXRWU5LTJnMlRub2VvSWF0aWhRY250NndmNmIxXzVSZW04bnhiRXU2UU02cHc5WkHSAbQBQVVfeXFMTWZDSlp2TUFtdTZGdEp5X3RFTUI4bk1sWVhVOWg4cWNELUcwbzhnZlhBYm8wYlpoRkdVak9Vei1ETGt4S0F3NC1PVTM0bGczLWdvN3V5YWVGdFlMbHV6TW8tbkcxMFRYT01NaWpEWmhtMG4zbFlNV0w5eVpRM0M0NjdLM0x2amVBYlQ4RnpjVnRpUXhYbnl1Z1hjdWVGbVBPRkFYRXJIOGdXQkE2UTd2XzZwZzhZ?oc=5
+- Bernie Sanders warns Oracle, Nvidia and other technology companies on expenditure that has wiped billions - The Times of India
+  Bernie Sanders warns Oracle, Nvidia and other technology companies on expenditure that has wiped billions
+  🔗 https://news.google.com/rss/articles/CBMi7AJBVV95cUxOMkRJa2JmYlM3MGhGS3huOHhNR2pNcEFyY043bWg4Ujh2WUZxcEZDY2xSdkVFQ051cDNCbzFXSmtVZHVZS2FRcW1vUWNKM2tuNWkwdW5UV2djRXdLUWMtRGlsTGNJOFlfMVM0bTVYaktpdmJ4Zjdzd0pHbXNTR0IweGRGUWx0QzBvZlJ3QTE2Ti0xMGI1a0cyS3NMcFpRRGtZUDM0U1FFSThsOGo1SWZXNEI1UlZ6Mk42UFg1aTF4eWZCaU9Oa3FVVnF5ZmJiRHRrSWpKZ05ybE0zYVdfRk9tNGw4czBWNGZ5dE1hVFVtdDdQeWk0VjRnaGFYd3N2TEs2ZWZCaWFKYVhyU0xkRFpNVExRVWF2c1RzdzZEejU3U1hkUDFidEZGbTBuRFR0WjVOcmtad2VwLXMxMWY5RnlRUzlxVHItNnJKWlBRai1QTlhIWG1FakVvZUF2NHBWdUFUWDhTR1hMNFlURm030gHyAkFVX3lxTE45VjkwV0tKeXhpZ19haDRfVHJfd3FPSjlTeXk3RWZFR2NzNXU1N0ExekxkekFkR0hyMkxQam9mUzZNNjNwQXJteFI0UEE1S01wTjZYcGJya0hMek01SXpSeWw1UnRVNHh2UW4tOUpaTjZUel80TmJEUGh2QkRxZHhLcWpPRi03MU1za2JoVklsd0x4QktOVzdzQTdrekY5UEtwckZHem9vX2dXcHg2allQNERsVVJ2QnN1X1lJQ19oRTBSZ3dGanZIQWZlVHBxNG9JWllPSTVMQTlEWkZXc1NnMUN3WWlnQ3ZkRWJ6Mmw2SHVvUnE4UkVsSTYzT0lvSzJFakw5VWpVUFFyOHlzTTk3dzVJOHkzdUM0UWdEbzVqWUFYejU4UTFGRlVPX0prNzRnemFJRUZPTkplUmYtaWs3OFo4aXgwVVJiUWxsNXhrT2tnTFlBdjZFaWQzdm9hNzZ3Mm5HUTh1SjhPQ2NuR1J0RVE?oc=5
 
-- US oil giants ExxonMobil, Chevron beat profit forecasts as wars in Iran, Ukraine spike domestic refining
-  Exxon’s refining earnings hit a record, and Chevron reported robust refinery activity. ExxonMobil and Chevron posted stronger-than-expected
-  🔗 https://www.livemint.com/companies/news/us-oil-giants-exxonmobil-chevron-beat-profit-forecasts-as-wars-in-iran-ukraine-spike-domestic-refining-11793415842594.html
+- Lab Rats series: Activating ‘natural killers’ for cancer with Zumutor
+  Zumutor Biologics is betting on a novel cancer drug that activates natural killer cells. With its lead candidate in phase 1 trials, the startup faces the challenge of
+  🔗 https://www.livemint.com/companies/start-ups/lab-rats-series-activating-natural-killers-for-cancer-with-zumutor-11792149080085.html
 
-- US-Iran war: Alaska Air Group to cut around 200 jobs; CEO expects annual loss of $700 million amid rising fuel costs
-  Alaska Air Group plans to cut roughly 200 jobs as soaring fuel costs strain its finances. CEO warning of a possible $700 million annual loss.
-  🔗 https://www.livemint.com/companies/news/usiran-war-alaska-air-group-to-cut-around-200-jobs-ceo-expects-annual-loss-of-700-million-amid-rising-fuel-costs-11793409701124.html
+- Greater Noida PNB Fraud Case: CBI names Deepanshi, Ashutosh Pathak - What are they accused of? Details
+  The CBI has registered a case on alleged fund diversion at PNB’s Greater Noida branch. With  ₹10.24 crore in unauthorised debits identified and employees suspended, the
+  🔗 https://www.livemint.com/companies/news/greater-noida-pnb-fraud-case-cbi-names-deepanshi-ashutosh-pathak-what-are-they-accused-of-details-11793435486465.html
 
-- ‘Our SpaceX shares are worth more than a bn’: Binance's CZ responds to Musk's trolling as hack investigation continues
-  Binance says about $3 billion in customer funds have been located and is reviewing security. Binance co-founder Changpeng Zhao urged Elon Musk to stop mocking the exchange after a
-  🔗 https://www.livemint.com/companies/people/our-spacex-shares-are-worth-more-than-a-bn-binances-cz-responds-to-musks-trolling-as-hack-investigation-continues-11793408541466.html
+- Virat Kohli takes big leap in Agilitas Sports stakes after One8 merger; what it means for both companies? Full details
+  Virat Kohli's ownership in Agilitas Sports has increased to 6.4 per cent from 1.
+  🔗 https://www.livemint.com/companies/people/virat-kohli-takes-big-leap-in-agilitas-sports-stakes-after-one8-merger-what-it-means-for-both-companies-full-details-11793427962678.html
 
-- Meta's AI spending has cost its rating? S&amp;P downgrades AA- credit outlook to Negative as ‘ability to monetize limited’
-  S&amp;amp;P Global Ratings lowered Meta’s AA- outlook to negative. Move signals a possible downgrade within two years, though Meta�
-  🔗 https://www.livemint.com/companies/news/meta-ai-spending-cost-rating-s-p-downgrade-credit-outlook-aa-ability-monetize-limited-to-peers-high-capex-cash-flow-11793407712669.html
+- After Welcomhotel Manesar, ITC Hotels expands Delhi-NCR presence with 105-key Fortune Select Greater Noida
+  ITC Hotels has signed a management agreement for the 105-key Fortune Select Greater Noida. Located at India Expo Plaza, the hotel will cater to corporate, MICE and leisure guests.
+  🔗 https://www.livemint.com/companies/news/after-welcomhotel-manesar-itc-hotels-expands-ncr-presence-with-105-key-fortune-select-greater-noida-11793429859849.html
 
-- Why Swiggy’s Toing is raising questions over food-delivery profitability
-  Swiggy’s affordable-meal app is showing early signs of attracting new and returning users. Analysts are
-  🔗 https://www.livemint.com/companies/news/why-swiggy-s-toing-is-raising-questions-over-food-delivery-profitability-11793292907260.html
+- Lodha Developers makes NCR market debut with  ₹1,700 crore office project
+  The Mumbai-based developer is expanding beyond its traditional markets. It is preparing a residential launch in Gurugram and builds a 
+  🔗 https://www.livemint.com/companies/news/lodha-developers-makes-ncr-market-debut-with-1-700-crore-office-project-11793389967697.html
 
-- Raw sugar gains nearly 10% in October; robusta coffee 6% down
-  Raw sugar gains nearly 10% in October
-  🔗 https://www.livemint.com/market/raw-sugar-gains-nearly-10-in-october-robusta-coffee-6-down-11793391327507.html
+- Tata Motors PV vs Maruti Suzuki shares: Which auto stock to buy after Q2 results 2026? Experts' views, target price
+  Most brokerages and analysts have given a strong ‘buy’ rating to Maruti Suzuki shares.
+  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-pv-vs-maruti-suzuki-shares-which-auto-stock-to-buy-after-q2-results-2026-experts-views-target-price-11793433708273.html
 
-- Nasdaq 100 Hits Third Correction of 2026 on Unwinding Tech Stock Bets
-  Nasdaq 100 Index on course to enter its third technical correction of the year. Investors dumped big tech stocks
-  🔗 https://www.livemint.com/market/nasdaq-100-hits-third-correction-of-2026-on-unwinding-tech-stock-bets-11793388066834.html
+- Garware Hi-Tech doubles investors' money in 1 year!  ₹1 lakh grows to nearly  ₹2 lakh - More returns ahead? Target
+  Garware Hi-Tech Films has surged 125.47% year to date and 98.60% over one year. InCred Equities sees 12% further upside
+  🔗 https://www.livemint.com/market/stock-market-news/garware-hi-tech-doubles-investors-money-in-1-year-rs-1-lakh-grows-to-nearly-rs-2-lakh-more-returns-ahead-target-11793441493314.html
 
-- Arini Gets Bids on Junk Debt From Pimco, Oaktree as Losses Mount
-  Arini Capital Management has gotten bids on some of its high-yield debt holdings. The firm has been beset with losses this month.
-  🔗 https://www.livemint.com/market/arini-gets-bids-on-junk-debt-from-pimco-oaktree-as-losses-mount-11793386281843.html
+- Mukesh Ambani stocks: Reliance Industries vs Jio Platforms shares compared - RIL or JPL? What to buy? Experts' views
+  Reliance Industries and Jio Platforms have delivered strong Q
+  🔗 https://www.livemint.com/market/stock-market-news/mukesh-ambani-stocks-reliance-industries-vs-jio-platforms-shares-compared-ril-or-jpl-what-to-buy-experts-views-11793435085388.html
 
-- Wall Street slides as AI cash burn worries spark tech selloff
-  Wall Street slides as AI cash burn worries spark
-  🔗 https://www.livemint.com/market/wall-street-slides-as-ai-cash-burn-worries-spark-tech-selloff-11793385103163.html
+- Shares down 28% in 6 months but InCred is bullish on this stock with 58% future returns - Do you own? Check target price
+  MAS Financial Services shares have fallen 28.22% in six months, despite reporting a 23
+  🔗 https://www.livemint.com/market/stock-market-news/shares-down-28-in-6-months-but-incred-is-bullish-on-this-stock-with-58-future-returns-do-you-own-check-target-price-11793435762387.html
 
-- Chip stocks crash: Intel plunges 30%, AMD drops 12%, Nvidia and Broadcom also slide — what's driving the selloff?
-  Chip stocks fell after CXMT’s profits surged. Disapp
-  🔗 https://www.livemint.com/market/stock-market-news/chip-stocks-crash-intel-plunges-30-amd-drops-12-nvidia-and-broadcom-also-slide-whats-driving-the-selloff-11793380373861.html
+- Germany Rebuffs Italy’s Blame Over Rising European Gas Prices
+  Germany pushes back against Italian criticism that last-minute efforts to replenish natural
+  🔗 https://www.livemint.com/market/germany-rebuffs-italy-s-blame-over-rising-european-gas-prices-11793434098007.html
+
+- IT hardware reseller lists GPUs from decommissioned Nvidia supercomputer on eBay for $60 million — What we know
+  A reseller listed a decommissioned NVIDIA supercomputer on eBay for $59.7 million. The system includes 300
+  🔗 https://www.livemint.com/technology/nvidia-supercomputer-decommissioned-ebay-sale-a100-chips-gpus-it-hardware-reseller-60-million-best-offer-free-shipping-11793434326099.html
+
+- AI search gains 3-fold influence over traditional search in shopping decisions: McKinsey
+  Nearly one-third of AI shoppers identify them as the biggest factor behind their most recent purchase, a report by McKinsey says.
+  🔗 https://www.livemint.com/technology/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey-11793434097444.html
+
+- HMD unveils new Nokia 2360 Flip phone for seniors with family assist, SOS features: Check specs, colours and more
+  HMD unveils Nokia 2360 Flip 2G phone for senior citizens. Features include family assist, SOS and parental control.
+  🔗 https://www.livemint.com/technology/gadgets/hmd-unveils-new-nokia-2360-flip-phone-india-launch-price-seniors-family-assist-sos-parent-control-features-specs-colours-11793429445556.html
 
 - Pope says most urgent challenge facing AI race is need for institutional ethical framework
   Pope says 'most urgent' challenge facing AI
@@ -88,137 +100,125 @@
   PUBG has become one of the world's most recognised battle royale games. With Netflix developing a live-action adaptation, the game's journey and global popularity
   🔗 https://www.livemint.com/technology/tech-news/pubg-fans-alert-how-the-battle-royale-game-became-a-global-gaming-phenomenon-as-netflix-develops-live-action-series-11793367764704.html
 
-- As US airlines deploy AI pricing tools, startups help travelers cash in on fare drops
-  As US airlines deploy AI pricing tools, startups help travelers cash
-  🔗 https://www.livemint.com/technology/as-us-airlines-deploy-ai-pricing-tools-startups-help-travelers-cash-in-on-fare-drops-11793354493513.html
-
-- AU Small Finance Bank data breach: Hackers threaten to leak Aadhaar, PAN and customer records
-  AU Small Finance Bank is investigating a potential data leak involving its Salesforce platform. The allegedly exposed information includes Aadhaar, PAN, KYC documents, bank statements and loan
-  🔗 https://www.livemint.com/technology/tech-news/au-small-finance-bank-data-breach-hackers-threaten-to-leak-aadhaar-pan-and-customer-records-11793350577104.html
-
-- AI robotics may need 10 million hours of interaction data to reach production-level capabilities: Goldman Sachs
-  General-purpose artificial intelligence (AI) robotics could require an estimated 10 million hours of high-quality physical interaction data to reach production-level capabilities. This is despite technological progress in the sector projected to be two to four times faster than
-  🔗 https://www.livemint.com/technology/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs-11793350566224.html
-
-- Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates - CNBC
-  Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVVQzRnJqelRyUjFGQjZLZlhIbGsyQUxabzc5TE1TaEx6TWRnaTRRcXVmanBTWXZ0NmhmZWpHeVZFZ3lSX1kyaEhfMnBVMnprQ0xscEpBZzhOWFZLbnZCcUtDUnJJNmdROEhxOVhSRDdFVDd4THg00gF8QVVfeXFMTmgwT1lfNnJpUlczcFVnQW9lanFWbDZzYXRadlNsNmRoS1NSVURVS1VsRjlsWGlZOGhiTkF2X3FJRzJnTllYaTAxdVRCSjgyUlduRGRQTV9kUzNDdFVyQ0VWUHQ3ODU5bW1hZ0hvS2FubEFWMEJnWnAtdUN0bg?oc=5
-
-- Stock Market News, Oct. 30, 2026: Tech Selloff Pushes Nasdaq to Its Worst Month in Over a Year - WSJ
-  The tech selloff has hit the Nasdaq composite index the hardest.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQa05JWDlEbXJoOEgwUkRMc0ducHRVaG9wQzdUUmRYNUs5XzFpYXMyOF9jYnNDOVFweVlmWUtJRmtxbnE5SVpEazBFRzNzSkZoS0V0X2pnRExXNTNWQXBJZ05STmtmTHh4TVVabkljcEpUVDFmNHoxclJfanVmZWpod3NmZ0JmdDg?oc=5
-
-- '20 markets, Rs 12,000cr trade at stake': Delhi traders urge Sonia Gandhi to defer Rahul Gandhi's Novembe - The Times of India
-  '20 markets, Rs 12,000cr trade at stake': Delhi traders urge Sonia Gandhi
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMUx2VldKZ1o0b1hYNE0xUjZ6alphUVQ4XzBJT2UzOVdyZVJKOEpnaG15T0dPZVpSSGZsUXhWZjEyOW5vMWVVZTJUNnBMTzI5Ql9LZ290Z0ZKSWJDMDZmbnc0cG81MlFFOHFINFp5QjgzeWdIVmxGeVV4X2pFTm5HN3ZYSXp0SFpLVXlFVGh0Z0FyUHlDcUVWbEdOT1VYMzFZN2tpOW5JcGdSVXVtQWpHdF9yWlAzVEdjXzlfYTBYZDdIeFlaQVNYYnpnMlFWenYzcE5kakR0SHZadlhOVnBTNWpIbEhDZ3owZndEM3p0WXFJQdIB9wFBVV95cUxQUWlUcVVVZkFCYkhadE8xbDdQRWJYUXVOTUVOWUZ5a19IZDdna21yNjgzbVZ6SUxnczFkSVZDUHpGdFpmRVBzV0I4R2Zkd2JxS0VsbjAyREpaZl95SVFkalBfeER6OWJmdVFSZjV0aGF4TWptOVVTdXB2TjNQenMtclJ5NEN3Vlp5QXZ5M1B0SG5tZ2J0M3BJdnhlQnlRZVRoZkdmQ2ZrYXhwTklGTUtRT3JLVUgycmpGcWticEROTGNQWkR4YlA0TTVxb0ZkZmJwdTVDQTNfRS03SDRkc1Ewb3FLVVJvZW5DQkdvbUFlMU9WZ3lHSTRv?oc=5
-
-- Why isn’t China’s AI and tech boom saving its stock markets? - CNN
-  Why isn't China’s AI and
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9YdU1UN0YxR2F6VEtwY2NvTzBRZFNWa2U1Z2NDUkxQclRHX2NkVzZ2MExucGI5QmZuMk5ZLU0tTGNrNFoyVTFDREhDMzFYWU8wbFdfcjhUdHFYeE4xeTJkOVowRHBsTGxiTXhUMHBjaHZVTDQwZjVYQ1ozaw?oc=5
+- Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street - Yahoo Finance
+  Nasdaq dives over 3%, S&amp;P 500 and Dow tank as AI reckoning grips Wall Street. Nasdaq suffers worst day since June.
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEJYRTREa2JJM1FSeW1nTTVldXlmeElCanRweTcwcVpudjZ0WUtBVjU5RURERzdESU8tVV9GanJ3VHlBUlhkWjVmbG5ielVFbEx5cXNLX0M1Vk9XTU5nTUtLVm0xaDA4LTlaZ1BnS0Z0d1FrNXBHVTJHLVFYUExYQjhCNDVGRWhNWm0wOEFjbG05R2toV25YMlZ2LTEyUUVNR0t5R3A0WF9NZWw0Zk1LWjBUaFpWdHVHdVJqWmJ4UkMxaUJaX3NrS3M3eFBWQQ?oc=5
 
 - Polymarket and Kalshi Face a Major Accuracy Test: The Midterms - The New York Times
   Polymarket and Kalshi Face a Major Accuracy Test
   🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOMVUxYU9ScVpxRTJkZVZRRkNENi1ScVA5TWJrVC1PanhmakUwV19ONFl4a211dXlCR0ZpY0pUVGZhQVZLOUJPSlZhdHpEdHR5MF95SlU2Q3VuWGEtdWl3ckNDemlEQnNvQmNoOXVhVmJXaUJ2S2FhZjY3dzZSSldMenpISGw0cDJ5OVdteFZTMA?oc=5
 
-- Wall Street drops to its worst day since June after the sell-off for tech stocks deepens
-  The S&amp;P 500 fell 1.8% and the Nasdaq 2.9%, with Intel plunging nearly 29% and Nvidia down 4.2%. Bitcoin also slid after a major hack at Binance.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/articleshow/135382776.cms
+- ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation - The Economic Times
+  The Economic Times published an article on gold and silver in the U.S. on
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxQUVZfQTNOVmpRYTJxWndEbDlLaHMzanREdmVFWEpsV1NvMWllbzkteGdsbFNRblR4WnBRelVxVHNqNEpBbFZPZ2NrSzB2cmkwX1NnbV9fQTlyT0c5Y1RhTGhCM2I1ZmMzTUItbU5MVHJzUl9lWXhOS1BzaldqU3RzQXA0U0VGaERnY2stYXpHa3VLSURKbkdqVnBydFRReG5uWkIzWUpKZFJyU2I0WGtQV2JhQk51ZmFVNExIdU5VTFdYRHE3OXY2RnlYSWQzQzdJSkFVSEdhV3RIY1psVkdxck5PdkNSd0FoRVBNUjlYQXRDa0dzQ3BkUjVrSnpIRDZPMFhPQndHQVFWMFJfWkNmaXRxOEtBd9IBmwJBVV95cUxQQzBUZE9aVnVGclZMcEhXUXpUMDlBUERnVmhEejc0Z3FLcFowd095SlFjNThsZXJDZGdVMzl0Q0tfelp6VS1xQWlDVjIyci15UWF1dlhldkhjdTJ2bnVjbnJVRWR2ZVRUMlVrTkxOeTAweXFCdmNRcmdnemhOY1hHTktYcy1zamJiN21NOVdRNlFWbF9hLS14azNUSEIyS1hnclhsSUllcmJFOVRNWndqQ0RRc3ZITHlRam9aSGlyRmlCN1hZU2NFWUdia3JTdzNoTWJNM25Od21XQnk5Yl9iakhzcXVuejR2MWR1ZzZpRlc4Wk9waVlHUVNZSVVNbmFzaGdDMV8wdHhiZjVEUVNfQXFObmplazVhbE1F?oc=5
 
-- US stocks today: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff
-  The Nasdaq recorded its biggest single-day percentage decline since June 5. Technology stocks led losses, while the S&amp;P 500 and Nasdaq also ended October in negative territory.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms
+- China’s stock markets are the great global exception - The Economist
+  China’s stock markets are
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHp6ajdhVDZUMl85TS1mb2FwRThEUTBZOUVmc3dhdUJid1NyaGlHNXI2TDQwcWliOW0zWXFBS0NlM1BIYmpCZlNHeFBlNnBaaGZIWjBpNkt5WU5ndmhvWkxBUzd3SWFpUnFBVkJwemlvUWptT3VVS2IwakFrWVA1dDMyaWgyMWUwbEdqWGM4bndMcWlaeElkZFFqTzRiUG5qUGpibjhRN0RhYnh0ZWFV?oc=5
 
-- Nasdaq 100 cracks 5%, wipes out $2 trillion in October as AI spending fears deepen
-  The Nasdaq 100 index has already seen a significant decline of more than 5.8% in October. Major technology companies like Meta, Alphabet, and Microsoft are increasing their capital outlays to strengthen AI infrastructure.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-100-cracks-5-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/articleshow/135376949.cms
+- Wealthy Indians sit on cash, prepare to deploy funds across markets over next 12-24 months: Joint MD & CEO S.. - bfsi.economictimes.indiatimes.com
+  Wealthy Indians sit on cash, prepare to deploy funds across markets over next 12-
+  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxQMFBuTVdMenM3a2gteFhDbHVsLTRCVVNXTlktX1NsMFdfbnZacEVTQ3E1WS1BaHduak1EU3M5cWVwa0FhX2RnNHV5MWloTjExMzZEaUVWU2NmbWhxNXQtYi10a0tkMmVWV2NCZHFkcG5HXzVrdHl4X0t3ZXZod0gxZVozY2tURm1weUdkR0g1Zzk3QUhhcGhFTDVadWdFcm13WnBaQ3FtUURLRjJWekU0bDNMLXd5N1lway1Wd0I5bTBTN0NlRWppNkFUVnNNZHJXRlZyQm1Wc18wUzEydXpUcFp1cE9HaVVoY19tMGtBVlJIcjB0U0tVY0VFZDhycE1XUVh1NUxsZC1CQW9jd1BoSVhTbzlwSGZtdkdFNkhENGp6UDBxVTRnOFdBU2fSAbICQVVfeXFMTXUyR2pQdWE4a1MySXpsUkw0MEd5WWktMDBEeDNkNEh0VVQ0VnNBN0NFMU5GenpOSnhNSy01M2lPUDJlbFN0Mml5elpOcHNFdEYwRmtYY2VDMDZzVEhHWG5JS2gxOUh3MkJta01hUWdLUGNSU1hkdmlmRmozdGpaYmpEZGo3bHR1MmF3dmV5M21ON2VLTXJQcWtVVEp0SzJzNU1nNTczTE5EdkhpRFZQN3lXdURKUU5ReTZyWGx5SmgxTjdWRlVNdFBVZmtKWjFjQU9zbUI2bUVEUmc5LXFlSHU1d0lNWHlsUU9qcVJyUWptckN6dVhrS3d2RlJEbC1CWWRxNldzWTF6RGV2cm5PeFB0YUVMaHJTZW9zS21zdVJvUEJkNWF5c05oanlMdDZ5blhB?oc=5
 
-- Reddit stock plunges 30% as Google's AI search threatens traffic and user growth
-  Reddit shares plunged 23% after the company warned that Google's AI powered search features were hurting referral traffic. Pinterest also fell after issuing a weaker revenue outlook, as pressure on European cross border sellers weighed on its business.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms
+- Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?
+  The Nifty gained 2% last week, recovering above the crucial 200-week moving average at 22,700. Analysts identify 23,300–23,450 as immediate resistance and 22,750–
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-weak-ahead-nifty-stands-on-firmer-footing-but-can-it-break-past-23450/articleshow/135396431.cms
 
-- Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff
-  Intel shares plunged 30% after the chipmaker issued a weak fourth-quarter revenue forecast. The warning triggered a global semiconductor selloff, with Nvidia, AMD and other chip stocks declining.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms
+- CDSL Q2 results: Net profit jumps 24% YoY to Rs 173 crore, revenue up 24%
+  CDSL reported a 24% year-on-year rise in Q2 net profit to Rs 173 crore. Revenue grew 23.7% to Rs 395 crore. EBITDA margin expanded to 58%.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q2-results-net-profit-jumps-24-yoy-to-rs-173-crore-revenue-up-24/articleshow/135397659.cms
 
-- INDIA bloc's 'public impeachment' of CEC postponed to Oct. 31 due to rain, Rahul Gandhi says | Highlights - The Hindu
-  India bloc's 'public impeachment' of CEC postponed to Oct. 31 due to
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzI4Sy1fMDZLVHAxNU03RjYwR3ZYU2Z1VXB2bjN3dW80MU9mNmxUOVZKTTZveG5ybFJtdlR1SnBobXl2di1rVFFySXFRRU5KOUFQQ0xzRnV3ek5IQlYyWEN3SjlGa3ZmVFhqSTNwWkpseUlISU9lbnA4bkduUW8zbmhTVzdod2w2eXhhaG9mQXJSVl9hWjBNU243M3F3azNJMEY1RHd5NEdKcC1OQU9rZHp3VlMxQW41bjRIXzZEUWp1R3JHV1FydU44MVBiZDV1R29hTtIB2wFBVV95cUxQamdrNEM1bkQxTXFKMmZnbFVSeXNKTkl5ZUNJcTdmZGNEcEhjaktQdEM0MWpGTEY4ZkFQdFh3VG1KV0VydzE2ZWFLdFhBRHBsLVI4UFVoeXFiUXBNamhXUkc0YzdUcnd6dWV5UUpCdllDODFCcFo1elRBTHJuRXJPYWtqOWNETDFjSXY1c1RsVFVhU1EtRG50endPRG9tWkJXTzIzZXEwQzFrZ2lKMl9ldnVSWWdZNm5oTnp5NURXMEhnWmplLVhOaFJWX0NUYTJ1VnliLUlKQk9YUXc?oc=5
+- ET Wealth Expo | Only 6 of 1990's Sensex stocks survive: S Naren's case for smarter asset allocation
+  S Naren of ICICI Prudential Mutual Fund highlights how only six companies from the 1990 Sensex remain in the benchmark today. At ET Wealth Expo, he explained why beaten-down stocks may never recover.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-only-6-of-1990s-sensex-stocks-survive-s-narens-case-for-smarter-asset-allocation/articleshow/135397428.cms
 
-- Rain Forces INDIA Bloc To Postpone "Public Impeachment" Of Gyanesh Kumar - NDTV
-  Rain Forces INDIA Bloc To Postp
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0xNVnM4NDREVkdNS3NIMnNVSDJZVThvX0RBbGZoRkNPR3Q3UnVMRlRnNEt3WHZWNElCMmR5TVNTa2E5bzMxWEUwTmhQenk3MVRPVGJUX09fZ1ExMHdTb2E4MXRZZVZSbzlDeUZsQ3JOcTRUOWY3REdBN0tEdGRBZUl6UzViQ2dlZmpubjJFWmZzMDVUMzFUeTdma3NVVUNDakZuNGNpNjRVQ1FRcUVSemJfQ3Vvd9IBvgFBVV95cUxPdXhZb3NNUGhvQVU2U1JTRjlpNzVDX1ZnZm9nTkl3OVJobWI1WjRhNEViekhXNXFEVTdycFlpdVVLZDZoT1VZeWFlT2hpelJnX2prZk9WbXRxX1RrUTN6ZUhUd0hyTHdwYS1wMUVUaFZraExVNFhCbTEzVlVBRjFUUkJSNUE0R1F4S1FrWHcwMG1aLVZ1Z2M2MHdVT2hxWENKZU5FTDVzSWUxSkJDOVpRMHJKU0dkYTExNnR2WW53?oc=5
+- Silver loses more than half its value from record high: What went wrong and will it recover?
+  Silver has plunged more than 58% from its February record high of nearly $120 an ounce to around $50. Geojit’s Hareesh V explains what drove the rally, why it unravelled
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms
 
-- INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE - The Hindu
-  India bloc to hold ‘public impeachment’ of C
+- Turnaround Story: 8 stocks shift from loss to profit in September '26 quarter
+  Eight Nifty 500 stocks, including IndusInd Bank, Tata Motors and Delhivery, moved from losses
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/turnaround-story-8-stocks-shift-from-loss-to-profit-in-september-26-quarter/slideshow/135395511.cms
+
+- Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity' | LIVE - The Hindu
+  Kharge moves six charges against CEC Gyanesh Kumar,
   🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
 
-- India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
-  India's Extreme Poverty Drops From 27.1% To
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
+- Amit Shah's 'Special' Offer To INDIA Bloc Before Gyanesh Kumar's 'Public Impeachment' - NDTV
+  Amit Shah's 'Special' Offer To IND
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXktV1ZPb1BrLTZUVFFBSmFWVXl0dnlMRmVTYzk3V1Z4LVoxOHE3bU5BT3plby1sQ3ljS3pFYjUzZWxNWWVOMERNWW8wamlsV2l2ZTNUU0tCVzZLeWgwM283bTBPNlMyS0dGcVFqVXQ4bDc1TktfX20wXzBoUk5RRkliTHBwcTRoSjBpcjA2VGF6LWdKSjhubC1QNC1EUUFsSWVVNWRPZHpKTHRGU3NFQU16NThBQkh6Smx1b2VNa1BDclF5aXdQYU5YMmpwdm5nV0Zv0gHbAUFVX3lxTE5BQUxfTUFncTdfVy1BWjA2eUVCN3VfYWtiQndDSnlzbjdzeE0xVV9BZnpyZ0pkdThxcXlNZGkxT3BhMkVwSjFvWG4zeHkxUGVBY2ZvOHIzQTJsSXdNQU01Z2d6QVlndWt5V00xNUZPQ0VsemF3d0JuZlI2bEZDXzUtZFVpQjBIRXREeTlFRC1SeVpBLVJzNnBPcVh0S21ZSDA0NUgyX1kzSlUwc1JSWWhlQ1BkLUhZQ3FqSnVfSXZLWWxxaUsxT0k4NXFPczRfS3psMlE2ZW1XZHJqRQ?oc=5
 
-- Breaking News Live Updates: Isro launches NVS-03 satellite to strengthen India's NavIC system - The Times of India
-  The Times of India reports that Isro has launched a satellite to strengthen
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkZaWGdwZ3BPUTZjMEh6cnJKdmVNeWtvZmN3eGdoTnBpSTlUU3poOWswY3MwOVF4NkJncnNlbkw2djgyRHNLcEVYN1JmdTIyakRuQ09pMkFia3BnM2NoeURzV2xLLUVWcHFCdGptNk9vUFo3WkJFelFvQ0hwOERfX2ZOMkFnOXZ0V1dRWUFLaVgwcnBoX1VSRm9McDFRVXBPNGR4WmJBTkhFT0E2OTRlSkRadmRUd9IBuwFBVV95cUxOY1VwTWdCMURyZjFjZzUwbmlhSEpzcHFhZ0xMNDl1NUlUNFFEWHd6Q1k2a3ZSR3dRRm5zTkJmMU11N29xSDc2X1FQN040NDlSdWY0czZQUzU5eXdnTWgxc1ZCRVNlQVlHNDRLc09xVUJja1B0TjIyOFkzQkxVZEJaUzZzX0REUC0yVmUzRGs4RTdIdldYejdlQlBBQjlsLWtiODdhb1IyNWxmNXhOQlVvZ1JxY2xNUl9kRllF?oc=5
+- LIVE! INDIA bloc's 'public impeachment' of CEC begins - Rediff
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE1mc1ljTjNjMGdrM3Z0V0FnQW0wREVDRUVsWFlGMy1mZVBSLVg2endRRWNaX3dWSl90aFUwQjQ3WjFfWW9RdW0yb3diZzU2bGI3a09FR2Q5dHhXd1ItU095ZnRJZDBCcEMtTUdfYi04aG1RWW1B?oc=5
 
-- From To Cent to Matiks — Indian Startups Raised Over $132 Mn This Week
-  Homegrown new-age tech ventures managed to raise $130.2 million in October.
-  🔗 https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/
+- India seek bowling solutions in bid for 4-1 finish - Cricbuzz
+  India seek bowling solutions in bid for
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDNtQVRLTFVrbkxnUjZVZXhrRmdiZnowa2RJMXRtMXUweUZBb1J6M0MyZlpoNlpfblBOYXB3WmJoZm4zVWN6NnJnSDVZYldwbzVPdXAzYXpocy1Dbmx6dXlNMFhTQ2lUM1NfWU1qeDFLUFd6MUN6LWlBUjRKVFRQN3Y3ellqSFhCVTQxYzBVZ0R6NXpFN3l3YndtYw?oc=5
 
-- Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion
-  D2C home appliance startup upliance.ai is in advanced talks to raise $3 Mn to $4 Mn (around ₹28-₹37 Cr)
-  🔗 https://inc42.com/buzz/exclusive-upliance-ai-in-talks-to-raise-up-to-4-mn-for-rd-global-expansion-2/
+- October’s biggest travel news stories, and what they mean for Indian travellers - Condé Nast Traveller India
+  October’s biggest travel news stories, and what they mean
+  🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1sWWZrbFNQbFVaeHBwWGJhcThQV1FVY3hOMjVTSG05cVBFMlpZdTlaSmZReFd6NVVvZHlTaWl5Mm55bFBmV3hDNHdlenRkbV9tdW1Fa3ljR3RFR196dWNMVnUxS2ZwVmlXbWc?oc=5
 
-- Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion
-  D2C home appliance startup upliance.ai is in advanced talks to raise $3 Mn to $4 Mn (around ₹28-₹37 Cr)
-  🔗 https://inc42.com/buzz/exclusive-upliance-ai-in-talks-to-raise-up-to-4-mn-for-rd-global-expansion/
+- eMudhra Has Quit TLS. The Accountability Questions Haven’t
+  On October 27, Google removed eMudhra’s root certificate called emSign ECC Root CA – G3. Any website still
+  🔗 https://inc42.com/features/emudhra-has-quit-tls-the-accountability-questions-havent/
 
-- MeitY Floats New Privacy-Led Framework To Unlock Data For Training AI Models
-  The IT ministry (MeitY) has proposed a consent-based framework to facilitate data sharing for training AI models.
-  🔗 https://inc42.com/buzz/meity-floats-new-privacy-led-framework-to-unlock-data-for-training-ai-models/
+- Exclusive: D2C Skincare Brand Numour In Talks To Raise $3.1 Mn From Sharrp Ventures
+  Delhi NCR-based D2C skincare brand Numour is in talks to raise nearly $3.1 Mn (about ₹30 Cr) in a funding.
+  🔗 https://inc42.com/buzz/numour-in-talks-to-raise-3-1-mn-from-sharrp-ventures/
 
-- [Update] CCI Clears Navi’s $100 Mn Investment From Prosus
-  The Competition Commission of India (CCI) has cleared Prosus' investment in Navi to acquire it.
-  🔗 https://inc42.com/buzz/ipo-bound-navi-raises-100-mn-from-prosus-in-maiden-institutional-round/
+- Can D-Propulse Help India Reduce Its Dependence On Foreign Missile Engine Technology?
+  For nearly four decades, India has chased the dream of building its own jet engine, but the breakthrough remains elusive. D-Propulse could help India reduce its Dependence On Foreign Missile Engine Technology
+  🔗 https://inc42.com/startups/can-d-propulse-help-india-reduce-its-dependence-on-foreign-missile-engine-technology/
 
-- INDIA bloc's 'public impeachment' of CEC postponed to Oct. 31 due to rain, Rahul Gandhi says | Highlights - The Hindu
-  India bloc's 'public impeachment' of CEC postponed to Oct. 31 due to
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzI4Sy1fMDZLVHAxNU03RjYwR3ZYU2Z1VXB2bjN3dW80MU9mNmxUOVZKTTZveG5ybFJtdlR1SnBobXl2di1rVFFySXFRRU5KOUFQQ0xzRnV3ek5IQlYyWEN3SjlGa3ZmVFhqSTNwWkpseUlISU9lbnA4bkduUW8zbmhTVzdod2w2eXhhaG9mQXJSVl9hWjBNU243M3F3azNJMEY1RHd5NEdKcC1OQU9rZHp3VlMxQW41bjRIXzZEUWp1R3JHV1FydU44MVBiZDV1R29hTtIB2wFBVV95cUxQamdrNEM1bkQxTXFKMmZnbFVSeXNKTkl5ZUNJcTdmZGNEcEhjaktQdEM0MWpGTEY4ZkFQdFh3VG1KV0VydzE2ZWFLdFhBRHBsLVI4UFVoeXFiUXBNamhXUkc0YzdUcnd6dWV5UUpCdllDODFCcFo1elRBTHJuRXJPYWtqOWNETDFjSXY1c1RsVFVhU1EtRG50endPRG9tWkJXTzIzZXEwQzFrZ2lKMl9ldnVSWWdZNm5oTnp5NURXMEhnWmplLVhOaFJWX0NUYTJ1VnliLUlKQk9YUXc?oc=5
+- Walmart Probes Flipkart Employees Over Alleged ₹150 Cr Kickbacks: Report
+  US retail giant Walmart has launched an investigation into allegations that employees at its subsidiary Flipkart received over ₹150 Cr.
+  🔗 https://inc42.com/buzz/walmart-probes-flipkart-employees-over-alleged-%e2%82%b9150-cr-kickbacks-report/
 
-- Rain Forces INDIA Bloc To Postpone "Public Impeachment" Of Gyanesh Kumar - NDTV
-  Rain Forces INDIA Bloc To Postp
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0xNVnM4NDREVkdNS3NIMnNVSDJZVThvX0RBbGZoRkNPR3Q3UnVMRlRnNEt3WHZWNElCMmR5TVNTa2E5bzMxWEUwTmhQenk3MVRPVGJUX09fZ1ExMHdTb2E4MXRZZVZSbzlDeUZsQ3JOcTRUOWY3REdBN0tEdGRBZUl6UzViQ2dlZmpubjJFWmZzMDVUMzFUeTdma3NVVUNDakZuNGNpNjRVQ1FRcUVSemJfQ3Vvd9IBvgFBVV95cUxPdXhZb3NNUGhvQVU2U1JTRjlpNzVDX1ZnZm9nTkl3OVJobWI1WjRhNEViekhXNXFEVTdycFlpdVVLZDZoT1VZeWFlT2hpelJnX2prZk9WbXRxX1RrUTN6ZUhUd0hyTHdwYS1wMUVUaFZraExVNFhCbTEzVlVBRjFUUkJSNUE0R1F4S1FrWHcwMG1aLVZ1Z2M2MHdVT2hxWENKZU5FTDVzSWUxSkJDOVpRMHJKU0dkYTExNnR2WW53?oc=5
+- AU SFB Probes Potential Data Leak, Vijay Sales’ Admin Access Allegedly Listed For $25K
+  AU Small Finance Bank (AU SFB) is investigating a potential data leak involving a Salesforce-hosted software platform.
+  🔗 https://inc42.com/buzz/au-sfb-probes-potential-data-leak-vijay-sales-admin-access-allegedly-listed-for-25k/
 
-- INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE - The Hindu
-  India bloc to hold ‘public impeachment’ of C
+- Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity' | LIVE - The Hindu
+  Kharge moves six charges against CEC Gyanesh Kumar,
   🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
 
-- India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
-  India's Extreme Poverty Drops From 27.1% To
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
+- Amit Shah's 'Special' Offer To INDIA Bloc Before Gyanesh Kumar's 'Public Impeachment' - NDTV
+  Amit Shah's 'Special' Offer To IND
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXktV1ZPb1BrLTZUVFFBSmFWVXl0dnlMRmVTYzk3V1Z4LVoxOHE3bU5BT3plby1sQ3ljS3pFYjUzZWxNWWVOMERNWW8wamlsV2l2ZTNUU0tCVzZLeWgwM283bTBPNlMyS0dGcVFqVXQ4bDc1TktfX20wXzBoUk5RRkliTHBwcTRoSjBpcjA2VGF6LWdKSjhubC1QNC1EUUFsSWVVNWRPZHpKTHRGU3NFQU16NThBQkh6Smx1b2VNa1BDclF5aXdQYU5YMmpwdm5nV0Zv0gHbAUFVX3lxTE5BQUxfTUFncTdfVy1BWjA2eUVCN3VfYWtiQndDSnlzbjdzeE0xVV9BZnpyZ0pkdThxcXlNZGkxT3BhMkVwSjFvWG4zeHkxUGVBY2ZvOHIzQTJsSXdNQU01Z2d6QVlndWt5V00xNUZPQ0VsemF3d0JuZlI2bEZDXzUtZFVpQjBIRXREeTlFRC1SeVpBLVJzNnBPcVh0S21ZSDA0NUgyX1kzSlUwc1JSWWhlQ1BkLUhZQ3FqSnVfSXZLWWxxaUsxT0k4NXFPczRfS3psMlE2ZW1XZHJqRQ?oc=5
 
-- Breaking News Live Updates: Isro launches NVS-03 satellite to strengthen India's NavIC system - The Times of India
-  The Times of India reports that Isro has launched a satellite to strengthen
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkZaWGdwZ3BPUTZjMEh6cnJKdmVNeWtvZmN3eGdoTnBpSTlUU3poOWswY3MwOVF4NkJncnNlbkw2djgyRHNLcEVYN1JmdTIyakRuQ09pMkFia3BnM2NoeURzV2xLLUVWcHFCdGptNk9vUFo3WkJFelFvQ0hwOERfX2ZOMkFnOXZ0V1dRWUFLaVgwcnBoX1VSRm9McDFRVXBPNGR4WmJBTkhFT0E2OTRlSkRadmRUd9IBuwFBVV95cUxOY1VwTWdCMURyZjFjZzUwbmlhSEpzcHFhZ0xMNDl1NUlUNFFEWHd6Q1k2a3ZSR3dRRm5zTkJmMU11N29xSDc2X1FQN040NDlSdWY0czZQUzU5eXdnTWgxc1ZCRVNlQVlHNDRLc09xVUJja1B0TjIyOFkzQkxVZEJaUzZzX0REUC0yVmUzRGs4RTdIdldYejdlQlBBQjlsLWtiODdhb1IyNWxmNXhOQlVvZ1JxY2xNUl9kRllF?oc=5
+- LIVE! INDIA bloc's 'public impeachment' of CEC begins - Rediff
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE1mc1ljTjNjMGdrM3Z0V0FnQW0wREVDRUVsWFlGMy1mZVBSLVg2endRRWNaX3dWSl90aFUwQjQ3WjFfWW9RdW0yb3diZzU2bGI3a09FR2Q5dHhXd1ItU095ZnRJZDBCcEMtTUdfYi04aG1RWW1B?oc=5
 
-- INDIA bloc's 'public impeachment' of CEC postponed to Oct. 31 due to rain, Rahul Gandhi says | Highlights - The Hindu
-  India bloc's 'public impeachment' of CEC postponed to Oct. 31 due to
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzI4Sy1fMDZLVHAxNU03RjYwR3ZYU2Z1VXB2bjN3dW80MU9mNmxUOVZKTTZveG5ybFJtdlR1SnBobXl2di1rVFFySXFRRU5KOUFQQ0xzRnV3ek5IQlYyWEN3SjlGa3ZmVFhqSTNwWkpseUlISU9lbnA4bkduUW8zbmhTVzdod2w2eXhhaG9mQXJSVl9hWjBNU243M3F3azNJMEY1RHd5NEdKcC1OQU9rZHp3VlMxQW41bjRIXzZEUWp1R3JHV1FydU44MVBiZDV1R29hTtIB2wFBVV95cUxQamdrNEM1bkQxTXFKMmZnbFVSeXNKTkl5ZUNJcTdmZGNEcEhjaktQdEM0MWpGTEY4ZkFQdFh3VG1KV0VydzE2ZWFLdFhBRHBsLVI4UFVoeXFiUXBNamhXUkc0YzdUcnd6dWV5UUpCdllDODFCcFo1elRBTHJuRXJPYWtqOWNETDFjSXY1c1RsVFVhU1EtRG50endPRG9tWkJXTzIzZXEwQzFrZ2lKMl9ldnVSWWdZNm5oTnp5NURXMEhnWmplLVhOaFJWX0NUYTJ1VnliLUlKQk9YUXc?oc=5
+- India seek bowling solutions in bid for 4-1 finish - Cricbuzz
+  India seek bowling solutions in bid for
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDNtQVRLTFVrbkxnUjZVZXhrRmdiZnowa2RJMXRtMXUweUZBb1J6M0MyZlpoNlpfblBOYXB3WmJoZm4zVWN6NnJnSDVZYldwbzVPdXAzYXpocy1Dbmx6dXlNMFhTQ2lUM1NfWU1qeDFLUFd6MUN6LWlBUjRKVFRQN3Y3ellqSFhCVTQxYzBVZ0R6NXpFN3l3YndtYw?oc=5
 
-- Rain Forces INDIA Bloc To Postpone "Public Impeachment" Of Gyanesh Kumar - NDTV
-  Rain Forces INDIA Bloc To Postp
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0xNVnM4NDREVkdNS3NIMnNVSDJZVThvX0RBbGZoRkNPR3Q3UnVMRlRnNEt3WHZWNElCMmR5TVNTa2E5bzMxWEUwTmhQenk3MVRPVGJUX09fZ1ExMHdTb2E4MXRZZVZSbzlDeUZsQ3JOcTRUOWY3REdBN0tEdGRBZUl6UzViQ2dlZmpubjJFWmZzMDVUMzFUeTdma3NVVUNDakZuNGNpNjRVQ1FRcUVSemJfQ3Vvd9IBvgFBVV95cUxPdXhZb3NNUGhvQVU2U1JTRjlpNzVDX1ZnZm9nTkl3OVJobWI1WjRhNEViekhXNXFEVTdycFlpdVVLZDZoT1VZeWFlT2hpelJnX2prZk9WbXRxX1RrUTN6ZUhUd0hyTHdwYS1wMUVUaFZraExVNFhCbTEzVlVBRjFUUkJSNUE0R1F4S1FrWHcwMG1aLVZ1Z2M2MHdVT2hxWENKZU5FTDVzSWUxSkJDOVpRMHJKU0dkYTExNnR2WW53?oc=5
+- October’s biggest travel news stories, and what they mean for Indian travellers - Condé Nast Traveller India
+  October’s biggest travel news stories, and what they mean
+  🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1sWWZrbFNQbFVaeHBwWGJhcThQV1FVY3hOMjVTSG05cVBFMlpZdTlaSmZReFd6NVVvZHlTaWl5Mm55bFBmV3hDNHdlenRkbV9tdW1Fa3ljR3RFR196dWNMVnUxS2ZwVmlXbWc?oc=5
 
-- INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE - The Hindu
-  India bloc to hold ‘public impeachment’ of C
+- Kharge moves six charges against CEC Gyanesh Kumar, says 'no personal enmity' | LIVE - The Hindu
+  Kharge moves six charges against CEC Gyanesh Kumar,
   🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
 
-- India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
-  India's Extreme Poverty Drops From 27.1% To
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
+- Amit Shah's 'Special' Offer To INDIA Bloc Before Gyanesh Kumar's 'Public Impeachment' - NDTV
+  Amit Shah's 'Special' Offer To IND
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXktV1ZPb1BrLTZUVFFBSmFWVXl0dnlMRmVTYzk3V1Z4LVoxOHE3bU5BT3plby1sQ3ljS3pFYjUzZWxNWWVOMERNWW8wamlsV2l2ZTNUU0tCVzZLeWgwM283bTBPNlMyS0dGcVFqVXQ4bDc1TktfX20wXzBoUk5RRkliTHBwcTRoSjBpcjA2VGF6LWdKSjhubC1QNC1EUUFsSWVVNWRPZHpKTHRGU3NFQU16NThBQkh6Smx1b2VNa1BDclF5aXdQYU5YMmpwdm5nV0Zv0gHbAUFVX3lxTE5BQUxfTUFncTdfVy1BWjA2eUVCN3VfYWtiQndDSnlzbjdzeE0xVV9BZnpyZ0pkdThxcXlNZGkxT3BhMkVwSjFvWG4zeHkxUGVBY2ZvOHIzQTJsSXdNQU01Z2d6QVlndWt5V00xNUZPQ0VsemF3d0JuZlI2bEZDXzUtZFVpQjBIRXREeTlFRC1SeVpBLVJzNnBPcVh0S21ZSDA0NUgyX1kzSlUwc1JSWWhlQ1BkLUhZQ3FqSnVfSXZLWWxxaUsxT0k4NXFPczRfS3psMlE2ZW1XZHJqRQ?oc=5
 
-- Breaking News Live Updates: Isro launches NVS-03 satellite to strengthen India's NavIC system - The Times of India
-  The Times of India reports that Isro has launched a satellite to strengthen
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkZaWGdwZ3BPUTZjMEh6cnJKdmVNeWtvZmN3eGdoTnBpSTlUU3poOWswY3MwOVF4NkJncnNlbkw2djgyRHNLcEVYN1JmdTIyakRuQ09pMkFia3BnM2NoeURzV2xLLUVWcHFCdGptNk9vUFo3WkJFelFvQ0hwOERfX2ZOMkFnOXZ0V1dRWUFLaVgwcnBoX1VSRm9McDFRVXBPNGR4WmJBTkhFT0E2OTRlSkRadmRUd9IBuwFBVV95cUxOY1VwTWdCMURyZjFjZzUwbmlhSEpzcHFhZ0xMNDl1NUlUNFFEWHd6Q1k2a3ZSR3dRRm5zTkJmMU11N29xSDc2X1FQN040NDlSdWY0czZQUzU5eXdnTWgxc1ZCRVNlQVlHNDRLc09xVUJja1B0TjIyOFkzQkxVZEJaUzZzX0REUC0yVmUzRGs4RTdIdldYejdlQlBBQjlsLWtiODdhb1IyNWxmNXhOQlVvZ1JxY2xNUl9kRllF?oc=5
+- LIVE! INDIA bloc's 'public impeachment' of CEC begins - Rediff
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE1mc1ljTjNjMGdrM3Z0V0FnQW0wREVDRUVsWFlGMy1mZVBSLVg2endRRWNaX3dWSl90aFUwQjQ3WjFfWW9RdW0yb3diZzU2bGI3a09FR2Q5dHhXd1ItU095ZnRJZDBCcEMtTUdfYi04aG1RWW1B?oc=5
+
+- India seek bowling solutions in bid for 4-1 finish - Cricbuzz
+  India seek bowling solutions in bid for
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDNtQVRLTFVrbkxnUjZVZXhrRmdiZnowa2RJMXRtMXUweUZBb1J6M0MyZlpoNlpfblBOYXB3WmJoZm4zVWN6NnJnSDVZYldwbzVPdXAzYXpocy1Dbmx6dXlNMFhTQ2lUM1NfWU1qeDFLUFd6MUN6LWlBUjRKVFRQN3Y3ellqSFhCVTQxYzBVZ0R6NXpFN3l3YndtYw?oc=5
+
+- October’s biggest travel news stories, and what they mean for Indian travellers - Condé Nast Traveller India
+  October’s biggest travel news stories, and what they mean
+  🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1sWWZrbFNQbFVaeHBwWGJhcThQV1FVY3hOMjVTSG05cVBFMlpZdTlaSmZReFd6NVVvZHlTaWl5Mm55bFBmV3hDNHdlenRkbV9tdW1Fa3ljR3RFR196dWNMVnUxS2ZwVmlXbWc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-31 03:46:00 UTC_
+_Last updated: 2026-10-31 11:36:50 UTC_
