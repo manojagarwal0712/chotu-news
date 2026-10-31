@@ -1,28 +1,28 @@
 # 📰 Daily News Summaries
 
-- India made ‘remarkable progress’ in reducing poverty: World Bank - The Hindu
-  India made ‘remarkable progress�
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkEwd3NtZWZmMVlWVHY4cEpRZGhTR2ZtczA4Z2VFRlhzclZGY3ZFcmRsMk1JZTd4eFoybTVidTQtS2liWHNFNjNBczNJS2puQnFJWmI4QjdSLWY2S1I1TGg3emR6dkN5TEtQVEpHTzRKYXIzX1pTdDc0TGpmSkl6ejBESWpJSmE4MHN5QTJpMUROYkpNWW8xWWRsa0w3RGhPX0dwaGd6YW55cVh0ZXhiZkVBWXVKRmlTeVZHONIBwwFBVV95cUxQZnRHRm1aWXQ4cE1EUFJfX0dIbnVhN0lzRmxyeGloUzdwMXVwcUp3YjZQSE12UE5DUXlMdXpYYW9jckR0ODFWVDNkSEtwSC14OGpjeFh0WFVzNWNpUnpqX3Z6VTFRbm4xSGRiM2xmY3hlZmYwQTlJRjQzR1FfS2t1M2ZaNDZKLUxPcDlzc0VhcEpmTHZ3UzVkNmVzN21ZWkNaTkxpMVprRWpkNjA0X2pFX21pM2YyNjNkRnFCZGJHdWRpVTg?oc=5
+- INDIA bloc's 'public impeachment' of CEC postponed to Oct. 31 due to rain, Rahul Gandhi says | Highlights - The Hindu
+  India bloc's 'public impeachment' of CEC postponed to Oct. 31 due to
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzI4Sy1fMDZLVHAxNU03RjYwR3ZYU2Z1VXB2bjN3dW80MU9mNmxUOVZKTTZveG5ybFJtdlR1SnBobXl2di1rVFFySXFRRU5KOUFQQ0xzRnV3ek5IQlYyWEN3SjlGa3ZmVFhqSTNwWkpseUlISU9lbnA4bkduUW8zbmhTVzdod2w2eXhhaG9mQXJSVl9hWjBNU243M3F3azNJMEY1RHd5NEdKcC1OQU9rZHp3VlMxQW41bjRIXzZEUWp1R3JHV1FydU44MVBiZDV1R29hTtIB2wFBVV95cUxQamdrNEM1bkQxTXFKMmZnbFVSeXNKTkl5ZUNJcTdmZGNEcEhjaktQdEM0MWpGTEY4ZkFQdFh3VG1KV0VydzE2ZWFLdFhBRHBsLVI4UFVoeXFiUXBNamhXUkc0YzdUcnd6dWV5UUpCdllDODFCcFo1elRBTHJuRXJPYWtqOWNETDFjSXY1c1RsVFVhU1EtRG50endPRG9tWkJXTzIzZXEwQzFrZ2lKMl9ldnVSWWdZNm5oTnp5NURXMEhnWmplLVhOaFJWX0NUYTJ1VnliLUlKQk9YUXc?oc=5
 
-- India’s extreme poverty declines from 27.1% to 2.6% between 2011-2023, says FM Sitharaman - News On AIR
-  India’s extreme poverty declines from 27.1% to
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGZjQ01QajRhbk1NQV9DYTcwX0JHNU5oV0dvaXlfX3VPUnZJUWl3TjBzdWxZcW5sbGkyZWxBSHQySVZDcXhvRE91M2laUXg0SVowRW05RzllS1FwcUFiTEhJRE5SSFQ4bXRndjdCWEY0UmoxdHlqbGVJVEVoaWpvNjlrZTg4T1VGWVljd2NZVVpmZkkzRHNCekJtVmdWYWRzMnNQUF9Gdm4wdmJtLTdESw?oc=5
+- Rain Forces INDIA Bloc To Postpone "Public Impeachment" Of Gyanesh Kumar - NDTV
+  Rain Forces INDIA Bloc To Postp
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0xNVnM4NDREVkdNS3NIMnNVSDJZVThvX0RBbGZoRkNPR3Q3UnVMRlRnNEt3WHZWNElCMmR5TVNTa2E5bzMxWEUwTmhQenk3MVRPVGJUX09fZ1ExMHdTb2E4MXRZZVZSbzlDeUZsQ3JOcTRUOWY3REdBN0tEdGRBZUl6UzViQ2dlZmpubjJFWmZzMDVUMzFUeTdma3NVVUNDakZuNGNpNjRVQ1FRcUVSemJfQ3Vvd9IBvgFBVV95cUxPdXhZb3NNUGhvQVU2U1JTRjlpNzVDX1ZnZm9nTkl3OVJobWI1WjRhNEViekhXNXFEVTdycFlpdVVLZDZoT1VZeWFlT2hpelJnX2prZk9WbXRxX1RrUTN6ZUhUd0hyTHdwYS1wMUVUaFZraExVNFhCbTEzVlVBRjFUUkJSNUE0R1F4S1FrWHcwMG1aLVZ1Z2M2MHdVT2hxWENKZU5FTDVzSWUxSkJDOVpRMHJKU0dkYTExNnR2WW53?oc=5
+
+- INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE - The Hindu
+  India bloc to hold ‘public impeachment’ of C
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
 
 - India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
   India's Extreme Poverty Drops From 27.1% To
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
 
-- 30% in 2019, cancer drug margins at 700% now - The Times of India
-  30% in 2019, cancer drug margins at 700
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFhqZXBYWG5rWkpTWk9fcTBKWElfR2RGdzFEd29fTDFvWTJkMlljM3lNSWNwaFhheEZjWkJBX21zQXdScU02dUZFckVnTlljYmJnQzJ4cnFJeXlvOVd2MlJoNTBGWmJuX3lwRXVjVDdOb3ZkSUJ5RFczQjN1cnI3a1JyMWp1S0NYZXN2ZHRfSzRuNmMxUExDdnRNV281ajZXY18yY1RXWmx4aUXSAbABQVVfeXFMUEVuX0NWRG5CZVNFUWZ5U2JDeEdUSzkwVldpZFAtRS1jVU5nd2FONnFyMERSZHFFdmgzdXdEY3E2bTRidDB4TUM2VkdrdjJWaHBFOXFpOVdKdzdZeklXa0NDS1hCX2xhQnJrZDllS1lPSjNONkEzSTdTeWp1elQ5alQwUmVXQTdxVGdCUVZsOWxHa21oQXJmdWFkeE9hYmViNWNtOXJTWWNvd3lPcVBqNzE?oc=5
+- Breaking News Live Updates: Isro launches NVS-03 satellite to strengthen India's NavIC system - The Times of India
+  The Times of India reports that Isro has launched a satellite to strengthen
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkZaWGdwZ3BPUTZjMEh6cnJKdmVNeWtvZmN3eGdoTnBpSTlUU3poOWswY3MwOVF4NkJncnNlbkw2djgyRHNLcEVYN1JmdTIyakRuQ09pMkFia3BnM2NoeURzV2xLLUVWcHFCdGptNk9vUFo3WkJFelFvQ0hwOERfX2ZOMkFnOXZ0V1dRWUFLaVgwcnBoX1VSRm9McDFRVXBPNGR4WmJBTkhFT0E2OTRlSkRadmRUd9IBuwFBVV95cUxOY1VwTWdCMURyZjFjZzUwbmlhSEpzcHFhZ0xMNDl1NUlUNFFEWHd6Q1k2a3ZSR3dRRm5zTkJmMU11N29xSDc2X1FQN040NDlSdWY0czZQUzU5eXdnTWgxc1ZCRVNlQVlHNDRLc09xVUJja1B0TjIyOFkzQkxVZEJaUzZzX0REUC0yVmUzRGs4RTdIdldYejdlQlBBQjlsLWtiODdhb1IyNWxmNXhOQlVvZ1JxY2xNUl9kRllF?oc=5
 
-- Government asks ministries to identify cases that can be withdrawn - The Times of India
-  Government asks ministries to identify cases that can be withdrawn.
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTG1ldkJVY3hxMzFUT2RrTXVDYjB5bFRaeW9NeWpYM0NYbXlhYnlpSElYaXNCbFNJRktYWVAxYUNEV21NQ0prMjhZNWZrUnRNNG95TEpzdUxsNmZEdFF3cXJKU29DVGMwVDctN3NBTmQxZ1FlUHo2bFVoTHUtTUl6TlpJTzlOQURkUFc0Z0dEVlpiRFE5cl9lOTl3a2NOU0NGTjJqT1U1TWd2ZzBGcGY3bmRIblROT05KTURSSnkyRm5sS0o1TzBDZkMyYTNPTGc?oc=5
-
-- Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports - The Guardian
-  Tech sell-off drives US markets down by nearly $1
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0lZbXhSZjlKZXRPOHVOUjcxUmctdlM2ZDc4V1FLTG1uNzlJNV9QMnpBYXZPSGt3QXlJSWs3d1hrb3BZWVI0ZEpnekhBX3NSWGxYd1ljdm5EcmdkMldET19ITWJPcC1zQ3lFLVhHT2hPeGU2VmlYYlVFd2FNT0xpNlFxdnNtRzNXamxB?oc=5
+- Ghost in the machine: how AI is haunting the search for the supernatural - The Guardian
+  The Guardian looks at how AI is haunting the search for the
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNMllrQ0hiYnQ1Z2VTcVJMdEJDeTJmYjZKdDhqS3dkUUNCYkxfbWFWdjJpdnFDT0VQdDVGT2pMMmJrQ3ZpeXhLX0hzSXdCRjBETGdJWjdEYU9rbU95dU1SQkEzc09BY2JQQ09vUzFkblpGNHd3Q3d5djl5eWJZa0JTOURINzBJTVRCTmc?oc=5
 
 - North Korea's Kim calls for rapid expansion of drone technology, observes testing of weapons - The Hindu
   North Korea's Kim calls for rapid expansion of drone technology.
@@ -36,29 +36,29 @@
   Thiruvananthapuram to host two-
   🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcnYxSllGNnlvQkVYOGkwQjlKd09UaVZ0REx2NTNraThpZzc4bFRDUXRBY1A4UU52M1hESHFJZUpFRHVNUDFhcjBxdUlQY0hRdmVRdWNzSTJQdnhiQl91VTAzR3BjSm9NX3hJZHNxQnlfdDJzSGxzUEM0V21DZHJxN0RWTVlBLU9NeVFoZ0lkTU9mRTFWSUwxZ3p1M04tam1TbEJKd3RfaGV0THJPQlFWSURGb0tWbDZRUkRCNno0U0Rqbnlqa1c0djMzeDRJNURCYXEyX3RxSXhwZEdUZ252VTNhMzJ6ZzRmc0RKdEQtd1k2VEF1eEZ30gH8AUFVX3lxTE9SVk5aZERzYkdBemttbUNZTDR0OXB3Slg1a2dLeEE5bnVxcDMtTkNhTXdkRHVXZ3IycmszQjdJNUpSNVBsWTlvRWhqdWdwaDRVWVprM09vZzRFSDNOQTg0a2o5dk1CZDBlNm8zbmFWNHBDMzZRQmhDN2JsWno4eThKU1BFbUplMk9WUGhSazYxYTRMOTdyZnBmcDZLODd1SFlULWozcWNGcUlYQU45VHptVnBfTkpvQ1NYdG8xb0NnLXhsVzhUOGYzWk5vRVgzajNaX1hJbnNLM1RNRDZTZEhvLXdoQUg3R0tmT2U5UHNOVFpyVFU1Ui1CTW90Ug?oc=5
 
-- Jio Platforms' IPO reinforces investor recognition of company as technology player: Akash Ambani - Moneycontrol.com
-  Jio Platforms' IPO reinforces investor recognition of company
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdzczanA3ajFJOFVhMnVEM1MxR0dyelJYSEZXajJmTG1GOElQcjhlenZoU2c5SDBfUHhwaU8tcVBXTVJtNEZRTHdRYWUwbWtJOGl2ZlhnZ0tMaEw1MlgySmlmN2ZSYWVoZFNFMC1XdFc0ZkZvMGlmdzhIUWNLZE9GaHJRLXZ0TDY5bEFaTktzNE5kdkdZOGJBUFRwektPMTlHczc0MXBYbmUyNkRBMlpLOVdSTGNIc0dhem5MRUJzRzNvcnQwLV9PbDRoeFAtOFc2SXA4VVJVcHFSQWZlRmV6N1hKbEPSAeoBQVVfeXFMUGhIaU1EZ05VcTNLa0k3V2ZvLVU3Z1ZoVnJTSzkzLUlvYl9kZG1KVUtId0NKdDlMTDFpZkdwVHFqdUhlUWt0V3FUUTBydWphQ01pSjAxcFNtclc2b0FIZGVZN0RRN2s0Qk5NRUMyTWJpVTlhRWNTQzdrX2tnUzRBTVRmV19JSjhjaUNTS1hGQmFSWGxhTVJsSzR1Tm9RZTVDUXFiV2tOVFF5UUR2MUpTTlg4bHJMOWx0Q0RaWnE5MS1IeUdZM1luZnVIUTFnZEctWUp4b0lMR1FCemJpeE5EXzFxbzNiTDVicmFn?oc=5
+- Developing economies need not reinvent the tech wheel: Co-Develop’s CEO Madhukar - The Indian Express
+  Developing economies need not reinvent the tech wheel, says
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVQ3VTA1RWkybThNZnp3X0hDa2t6UHF4NWhsazBFZXgtbnRtRUVndG5UcEd1X1J2VnFEZjJ6dFdoSjZKMUNIT29HaEtoWjdhb0hnckdibVk3Q0JuYlh4UWN4c1F1VHppMlkwbEt6c2Y2eE9TNXVKT05iUERhcFdXRWU5LTJnMlRub2VvSWF0aWhRY250NndmNmIxXzVSZW04bnhiRXU2UU02cHc5WkHSAbQBQVVfeXFMTWZDSlp2TUFtdTZGdEp5X3RFTUI4bk1sWVhVOWg4cWNELUcwbzhnZlhBYm8wYlpoRkdVak9Vei1ETGt4S0F3NC1PVTM0bGczLWdvN3V5YWVGdFlMbHV6TW8tbkcxMFRYT01NaWpEWmhtMG4zbFlNV0w5eVpRM0M0NjdLM0x2amVBYlQ4RnpjVnRpUXhYbnl1Z1hjdWVGbVBPRkFYRXJIOGdXQkE2UTd2XzZwZzhZ?oc=5
 
-- Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending
-  Big Tech returns smallest share of cash to shareholders in
-  🔗 https://www.livemint.com/companies/big-tech-returns-smallest-share-of-cash-to-shareholders-in-15-years-given-ai-spending-11793387327339.html
+- US oil giants ExxonMobil, Chevron beat profit forecasts as wars in Iran, Ukraine spike domestic refining
+  Exxon’s refining earnings hit a record, and Chevron reported robust refinery activity. ExxonMobil and Chevron posted stronger-than-expected
+  🔗 https://www.livemint.com/companies/news/us-oil-giants-exxonmobil-chevron-beat-profit-forecasts-as-wars-in-iran-ukraine-spike-domestic-refining-11793415842594.html
 
-- Microsoft, BMW introduce voluntary exit offers: How paying employees to quit could help firms retain committed workers
-  The approach, commonly known as a pay-to-quit or voluntary exit scheme, allows eligible
-  🔗 https://www.livemint.com/companies/news/microsoft-bmw-introduce-voluntary-exit-offers-how-paying-employees-to-quit-could-help-firms-retain-committed-workers-11793382795060.html
+- US-Iran war: Alaska Air Group to cut around 200 jobs; CEO expects annual loss of $700 million amid rising fuel costs
+  Alaska Air Group plans to cut roughly 200 jobs as soaring fuel costs strain its finances. CEO warning of a possible $700 million annual loss.
+  🔗 https://www.livemint.com/companies/news/usiran-war-alaska-air-group-to-cut-around-200-jobs-ceo-expects-annual-loss-of-700-million-amid-rising-fuel-costs-11793409701124.html
 
-- BofA Hires Senior Power Banker Manheimer From Morgan Stanley
-  Eddie Manheimer is joining Bank of America Corp. as head of global power and utilities investment banking from Morgan Stanley.
-  🔗 https://www.livemint.com/companies/bofa-hires-senior-power-banker-manheimer-from-morgan-stanley-11793385102995.html
+- ‘Our SpaceX shares are worth more than a bn’: Binance's CZ responds to Musk's trolling as hack investigation continues
+  Binance says about $3 billion in customer funds have been located and is reviewing security. Binance co-founder Changpeng Zhao urged Elon Musk to stop mocking the exchange after a
+  🔗 https://www.livemint.com/companies/people/our-spacex-shares-are-worth-more-than-a-bn-binances-cz-responds-to-musks-trolling-as-hack-investigation-continues-11793408541466.html
 
-- Nandini milk price hike: Why Karnataka raised rates by  ₹8 per litre from November 1, how rates compare with other states
-  Karnataka has hiked Nandini milk prices by  ₹8 per litre from November 1. Despite the increase, N andini Shubham remains cheaper than comparable milk varieties in
-  🔗 https://www.livemint.com/companies/news/nandini-milk-price-hike-why-karnataka-raised-rates-by-8-per-litre-from-november-1-how-rates-compare-with-other-states-11793381297416.html
+- Meta's AI spending has cost its rating? S&amp;P downgrades AA- credit outlook to Negative as ‘ability to monetize limited’
+  S&amp;amp;P Global Ratings lowered Meta’s AA- outlook to negative. Move signals a possible downgrade within two years, though Meta�
+  🔗 https://www.livemint.com/companies/news/meta-ai-spending-cost-rating-s-p-downgrade-credit-outlook-aa-ability-monetize-limited-to-peers-high-capex-cash-flow-11793407712669.html
 
-- Uttarakhand helicopter crash: What is Trans Bharat Aviation? Company named in incident with  ₹58 crore revenue in FY25
-  A Trans Bharat Aviation helicopter crashed near Chai village in Joshimath. The AAIB will investigate, while the DGCA has dispatched a team for a preliminary and regulatory assessment.
-  🔗 https://www.livemint.com/companies/news/uttarakhand-helicopter-crash-what-is-trans-bharat-aviation-company-named-in-incident-with-rs-58-crore-revenue-in-fy25-11793378990770.html
+- Why Swiggy’s Toing is raising questions over food-delivery profitability
+  Swiggy’s affordable-meal app is showing early signs of attracting new and returning users. Analysts are
+  🔗 https://www.livemint.com/companies/news/why-swiggy-s-toing-is-raising-questions-over-food-delivery-profitability-11793292907260.html
 
 - Raw sugar gains nearly 10% in October; robusta coffee 6% down
   Raw sugar gains nearly 10% in October
@@ -100,25 +100,29 @@
   General-purpose artificial intelligence (AI) robotics could require an estimated 10 million hours of high-quality physical interaction data to reach production-level capabilities. This is despite technological progress in the sector projected to be two to four times faster than
   🔗 https://www.livemint.com/technology/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs-11793350566224.html
 
-- Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street - Yahoo Finance
-  <ol><li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmNEai1SV3dYYlZwUk1QY3FtOXoxZTktbmpocFhsTzNfY0F0OVk2MHRBa2N4ZjEwUXQ3RWRyR250SlladGk0TXI5aF9wa1BHdDk4YkVacGFnTXJqaGswSTFHazB5MWxuNm
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmNEai1SV3dYYlZwUk1QY3FtOXoxZTktbmpocFhsTzNfY0F0OVk2MHRBa2N4ZjEwUXQ3RWRyR250SlladGk0TXI5aF9wa1BHdDk4YkVacGFnTXJqaGswSTFHazB5MWxuNm5sMU1odjV4U0FXR01EQ3k5RmREM0F6d2VlQnh4U29TMXhvWG1VWmJqQjFfQWFvODZyX0djZ2ZHNjFrQzdOd0R1c0RSeHNOMEM0cUplbE5Ecm44Xzhn?oc=5
+- Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates - CNBC
+  Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVVQzRnJqelRyUjFGQjZLZlhIbGsyQUxabzc5TE1TaEx6TWRnaTRRcXVmanBTWXZ0NmhmZWpHeVZFZ3lSX1kyaEhfMnBVMnprQ0xscEpBZzhOWFZLbnZCcUtDUnJJNmdROEhxOVhSRDdFVDd4THg00gF8QVVfeXFMTmgwT1lfNnJpUlczcFVnQW9lanFWbDZzYXRadlNsNmRoS1NSVURVS1VsRjlsWGlZOGhiTkF2X3FJRzJnTllYaTAxdVRCSjgyUlduRGRQTV9kUzNDdFVyQ0VWUHQ3ODU5bW1hZ0hvS2FubEFWMEJnWnAtdUN0bg?oc=5
 
-- Alphabet’s October wipeout hits $758 billion, its worst month ever - Yahoo Finance
-  Alphabet’s October wipeout hits
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDY5bm1Fb1ljRUR2TmwyOE43LVFTWS03bkhBNHJORkZfM3BZMjZQbjZyd2wyZFd4NXhYRDJsUWRFck9wQ0VkVkRMb1Nhb1pmUktpXzhsd2tVN2FKT0x6blhXQldjWTdzM2d0b2lUNHFkNHJLZ3RzZTZ0NE9rcWRxUGx2RjJ2TGVXMWFWdlR3c2xEcHRGdVhBZ3MyakRhejJrZEk1UWZFN3BrbVBfLUJrUFJ0YmpwVEdyTWZhUQ?oc=5
+- Stock Market News, Oct. 30, 2026: Tech Selloff Pushes Nasdaq to Its Worst Month in Over a Year - WSJ
+  The tech selloff has hit the Nasdaq composite index the hardest.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQa05JWDlEbXJoOEgwUkRMc0ducHRVaG9wQzdUUmRYNUs5XzFpYXMyOF9jYnNDOVFweVlmWUtJRmtxbnE5SVpEazBFRzNzSkZoS0V0X2pnRExXNTNWQXBJZ05STmtmTHh4TVVabkljcEpUVDFmNHoxclJfanVmZWpod3NmZ0JmdDg?oc=5
 
-- Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen - Reuters
-  Nasdaq faces $2 trillion wipeout in
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5
+- '20 markets, Rs 12,000cr trade at stake': Delhi traders urge Sonia Gandhi to defer Rahul Gandhi's Novembe - The Times of India
+  '20 markets, Rs 12,000cr trade at stake': Delhi traders urge Sonia Gandhi
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMUx2VldKZ1o0b1hYNE0xUjZ6alphUVQ4XzBJT2UzOVdyZVJKOEpnaG15T0dPZVpSSGZsUXhWZjEyOW5vMWVVZTJUNnBMTzI5Ql9LZ290Z0ZKSWJDMDZmbnc0cG81MlFFOHFINFp5QjgzeWdIVmxGeVV4X2pFTm5HN3ZYSXp0SFpLVXlFVGh0Z0FyUHlDcUVWbEdOT1VYMzFZN2tpOW5JcGdSVXVtQWpHdF9yWlAzVEdjXzlfYTBYZDdIeFlaQVNYYnpnMlFWenYzcE5kakR0SHZadlhOVnBTNWpIbEhDZ3owZndEM3p0WXFJQdIB9wFBVV95cUxQUWlUcVVVZkFCYkhadE8xbDdQRWJYUXVOTUVOWUZ5a19IZDdna21yNjgzbVZ6SUxnczFkSVZDUHpGdFpmRVBzV0I4R2Zkd2JxS0VsbjAyREpaZl95SVFkalBfeER6OWJmdVFSZjV0aGF4TWptOVVTdXB2TjNQenMtclJ5NEN3Vlp5QXZ5M1B0SG5tZ2J0M3BJdnhlQnlRZVRoZkdmQ2ZrYXhwTklGTUtRT3JLVUgycmpGcWticEROTGNQWkR4YlA0TTVxb0ZkZmJwdTVDQTNfRS03SDRkc1Ewb3FLVVJvZW5DQkdvbUFlMU9WZ3lHSTRv?oc=5
 
-- Major US stock markets end lower - News On AIR
-  Major US stock markets end lower
-  🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE5LWTQ0dlZWTlFocW8tVXBhRGM2LVU1dzV3RlRfUktMOFp5MlRlcVhqWElhaWlocHRUUEJBUW1faGdPVFVHOEZhNXZiUzRxVHBMWmZjbzB5X0g2dHdfTy1jR2FIVjZWOE1EMFE?oc=5
+- Why isn’t China’s AI and tech boom saving its stock markets? - CNN
+  Why isn't China’s AI and
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9YdU1UN0YxR2F6VEtwY2NvTzBRZFNWa2U1Z2NDUkxQclRHX2NkVzZ2MExucGI5QmZuMk5ZLU0tTGNrNFoyVTFDREhDMzFYWU8wbFdfcjhUdHFYeE4xeTJkOVowRHBsTGxiTXhUMHBjaHZVTDQwZjVYQ1ozaw?oc=5
 
-- Why the Markets Don’t Care About the Midterms - The New York Times
-  Why the Markets Don't Care About the Mid
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUdlSXdpbS1qdldrbm9yaTk1N0ZTZm1hemx1aWJJNFg1SWFlOW1QNW9zQ3Rwa2M5NlRVbjY2WGxjUjZLbXdMSkV5RWNlOXpJUW9qQjNsOUJScFphb0R4M0VqNUFXTElQQW9xSmtIdU1sMExSak9DcGtMdVpEY0ZVYTB3?oc=5
+- Polymarket and Kalshi Face a Major Accuracy Test: The Midterms - The New York Times
+  Polymarket and Kalshi Face a Major Accuracy Test
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOMVUxYU9ScVpxRTJkZVZRRkNENi1ScVA5TWJrVC1PanhmakUwV19ONFl4a211dXlCR0ZpY0pUVGZhQVZLOUJPSlZhdHpEdHR5MF95SlU2Q3VuWGEtdWl3ckNDemlEQnNvQmNoOXVhVmJXaUJ2S2FhZjY3dzZSSldMenpISGw0cDJ5OVdteFZTMA?oc=5
+
+- Wall Street drops to its worst day since June after the sell-off for tech stocks deepens
+  The S&amp;P 500 fell 1.8% and the Nasdaq 2.9%, with Intel plunging nearly 29% and Nvidia down 4.2%. Bitcoin also slid after a major hack at Binance.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/articleshow/135382776.cms
 
 - US stocks today: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff
   The Nasdaq recorded its biggest single-day percentage decline since June 5. Technology stocks led losses, while the S&amp;P 500 and Nasdaq also ended October in negative territory.
@@ -136,29 +140,37 @@
   Intel shares plunged 30% after the chipmaker issued a weak fourth-quarter revenue forecast. The warning triggered a global semiconductor selloff, with Nvidia, AMD and other chip stocks declining.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms
 
-- Sun Pharma Q2 profit falls 36% as litigation costs hit earnings
-  Sun Pharma reported a 36% decline in Q2FY27 net profit to Rs 1,989 crore. Revenue grew 11.8%, supported by strong domestic
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-profit-falls-36-as-litigation-costs-hit-earnings/articleshow/135370217.cms
+- INDIA bloc's 'public impeachment' of CEC postponed to Oct. 31 due to rain, Rahul Gandhi says | Highlights - The Hindu
+  India bloc's 'public impeachment' of CEC postponed to Oct. 31 due to
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzI4Sy1fMDZLVHAxNU03RjYwR3ZYU2Z1VXB2bjN3dW80MU9mNmxUOVZKTTZveG5ybFJtdlR1SnBobXl2di1rVFFySXFRRU5KOUFQQ0xzRnV3ek5IQlYyWEN3SjlGa3ZmVFhqSTNwWkpseUlISU9lbnA4bkduUW8zbmhTVzdod2w2eXhhaG9mQXJSVl9hWjBNU243M3F3azNJMEY1RHd5NEdKcC1OQU9rZHp3VlMxQW41bjRIXzZEUWp1R3JHV1FydU44MVBiZDV1R29hTtIB2wFBVV95cUxQamdrNEM1bkQxTXFKMmZnbFVSeXNKTkl5ZUNJcTdmZGNEcEhjaktQdEM0MWpGTEY4ZkFQdFh3VG1KV0VydzE2ZWFLdFhBRHBsLVI4UFVoeXFiUXBNamhXUkc0YzdUcnd6dWV5UUpCdllDODFCcFo1elRBTHJuRXJPYWtqOWNETDFjSXY1c1RsVFVhU1EtRG50endPRG9tWkJXTzIzZXEwQzFrZ2lKMl9ldnVSWWdZNm5oTnp5NURXMEhnWmplLVhOaFJWX0NUYTJ1VnliLUlKQk9YUXc?oc=5
 
-- India made ‘remarkable progress’ in reducing poverty: World Bank - The Hindu
-  India made ‘remarkable progress�
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkEwd3NtZWZmMVlWVHY4cEpRZGhTR2ZtczA4Z2VFRlhzclZGY3ZFcmRsMk1JZTd4eFoybTVidTQtS2liWHNFNjNBczNJS2puQnFJWmI4QjdSLWY2S1I1TGg3emR6dkN5TEtQVEpHTzRKYXIzX1pTdDc0TGpmSkl6ejBESWpJSmE4MHN5QTJpMUROYkpNWW8xWWRsa0w3RGhPX0dwaGd6YW55cVh0ZXhiZkVBWXVKRmlTeVZHONIBwwFBVV95cUxQZnRHRm1aWXQ4cE1EUFJfX0dIbnVhN0lzRmxyeGloUzdwMXVwcUp3YjZQSE12UE5DUXlMdXpYYW9jckR0ODFWVDNkSEtwSC14OGpjeFh0WFVzNWNpUnpqX3Z6VTFRbm4xSGRiM2xmY3hlZmYwQTlJRjQzR1FfS2t1M2ZaNDZKLUxPcDlzc0VhcEpmTHZ3UzVkNmVzN21ZWkNaTkxpMVprRWpkNjA0X2pFX21pM2YyNjNkRnFCZGJHdWRpVTg?oc=5
+- Rain Forces INDIA Bloc To Postpone "Public Impeachment" Of Gyanesh Kumar - NDTV
+  Rain Forces INDIA Bloc To Postp
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0xNVnM4NDREVkdNS3NIMnNVSDJZVThvX0RBbGZoRkNPR3Q3UnVMRlRnNEt3WHZWNElCMmR5TVNTa2E5bzMxWEUwTmhQenk3MVRPVGJUX09fZ1ExMHdTb2E4MXRZZVZSbzlDeUZsQ3JOcTRUOWY3REdBN0tEdGRBZUl6UzViQ2dlZmpubjJFWmZzMDVUMzFUeTdma3NVVUNDakZuNGNpNjRVQ1FRcUVSemJfQ3Vvd9IBvgFBVV95cUxPdXhZb3NNUGhvQVU2U1JTRjlpNzVDX1ZnZm9nTkl3OVJobWI1WjRhNEViekhXNXFEVTdycFlpdVVLZDZoT1VZeWFlT2hpelJnX2prZk9WbXRxX1RrUTN6ZUhUd0hyTHdwYS1wMUVUaFZraExVNFhCbTEzVlVBRjFUUkJSNUE0R1F4S1FrWHcwMG1aLVZ1Z2M2MHdVT2hxWENKZU5FTDVzSWUxSkJDOVpRMHJKU0dkYTExNnR2WW53?oc=5
 
-- India’s extreme poverty declines from 27.1% to 2.6% between 2011-2023, says FM Sitharaman - News On AIR
-  India’s extreme poverty declines from 27.1% to
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGZjQ01QajRhbk1NQV9DYTcwX0JHNU5oV0dvaXlfX3VPUnZJUWl3TjBzdWxZcW5sbGkyZWxBSHQySVZDcXhvRE91M2laUXg0SVowRW05RzllS1FwcUFiTEhJRE5SSFQ4bXRndjdCWEY0UmoxdHlqbGVJVEVoaWpvNjlrZTg4T1VGWVljd2NZVVpmZkkzRHNCekJtVmdWYWRzMnNQUF9Gdm4wdmJtLTdESw?oc=5
+- INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE - The Hindu
+  India bloc to hold ‘public impeachment’ of C
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
 
 - India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
   India's Extreme Poverty Drops From 27.1% To
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
 
-- 30% in 2019, cancer drug margins at 700% now - The Times of India
-  30% in 2019, cancer drug margins at 700
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFhqZXBYWG5rWkpTWk9fcTBKWElfR2RGdzFEd29fTDFvWTJkMlljM3lNSWNwaFhheEZjWkJBX21zQXdScU02dUZFckVnTlljYmJnQzJ4cnFJeXlvOVd2MlJoNTBGWmJuX3lwRXVjVDdOb3ZkSUJ5RFczQjN1cnI3a1JyMWp1S0NYZXN2ZHRfSzRuNmMxUExDdnRNV281ajZXY18yY1RXWmx4aUXSAbABQVVfeXFMUEVuX0NWRG5CZVNFUWZ5U2JDeEdUSzkwVldpZFAtRS1jVU5nd2FONnFyMERSZHFFdmgzdXdEY3E2bTRidDB4TUM2VkdrdjJWaHBFOXFpOVdKdzdZeklXa0NDS1hCX2xhQnJrZDllS1lPSjNONkEzSTdTeWp1elQ5alQwUmVXQTdxVGdCUVZsOWxHa21oQXJmdWFkeE9hYmViNWNtOXJTWWNvd3lPcVBqNzE?oc=5
+- Breaking News Live Updates: Isro launches NVS-03 satellite to strengthen India's NavIC system - The Times of India
+  The Times of India reports that Isro has launched a satellite to strengthen
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkZaWGdwZ3BPUTZjMEh6cnJKdmVNeWtvZmN3eGdoTnBpSTlUU3poOWswY3MwOVF4NkJncnNlbkw2djgyRHNLcEVYN1JmdTIyakRuQ09pMkFia3BnM2NoeURzV2xLLUVWcHFCdGptNk9vUFo3WkJFelFvQ0hwOERfX2ZOMkFnOXZ0V1dRWUFLaVgwcnBoX1VSRm9McDFRVXBPNGR4WmJBTkhFT0E2OTRlSkRadmRUd9IBuwFBVV95cUxOY1VwTWdCMURyZjFjZzUwbmlhSEpzcHFhZ0xMNDl1NUlUNFFEWHd6Q1k2a3ZSR3dRRm5zTkJmMU11N29xSDc2X1FQN040NDlSdWY0czZQUzU5eXdnTWgxc1ZCRVNlQVlHNDRLc09xVUJja1B0TjIyOFkzQkxVZEJaUzZzX0REUC0yVmUzRGs4RTdIdldYejdlQlBBQjlsLWtiODdhb1IyNWxmNXhOQlVvZ1JxY2xNUl9kRllF?oc=5
 
-- Government asks ministries to identify cases that can be withdrawn - The Times of India
-  Government asks ministries to identify cases that can be withdrawn.
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTG1ldkJVY3hxMzFUT2RrTXVDYjB5bFRaeW9NeWpYM0NYbXlhYnlpSElYaXNCbFNJRktYWVAxYUNEV21NQ0prMjhZNWZrUnRNNG95TEpzdUxsNmZEdFF3cXJKU29DVGMwVDctN3NBTmQxZ1FlUHo2bFVoTHUtTUl6TlpJTzlOQURkUFc0Z0dEVlpiRFE5cl9lOTl3a2NOU0NGTjJqT1U1TWd2ZzBGcGY3bmRIblROT05KTURSSnkyRm5sS0o1TzBDZkMyYTNPTGc?oc=5
+- From To Cent to Matiks — Indian Startups Raised Over $132 Mn This Week
+  Homegrown new-age tech ventures managed to raise $130.2 million in October.
+  🔗 https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/
+
+- Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion
+  D2C home appliance startup upliance.ai is in advanced talks to raise $3 Mn to $4 Mn (around ₹28-₹37 Cr)
+  🔗 https://inc42.com/buzz/exclusive-upliance-ai-in-talks-to-raise-up-to-4-mn-for-rd-global-expansion-2/
+
+- Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion
+  D2C home appliance startup upliance.ai is in advanced talks to raise $3 Mn to $4 Mn (around ₹28-₹37 Cr)
+  🔗 https://inc42.com/buzz/exclusive-upliance-ai-in-talks-to-raise-up-to-4-mn-for-rd-global-expansion/
 
 - MeitY Floats New Privacy-Led Framework To Unlock Data For Training AI Models
   The IT ministry (MeitY) has proposed a consent-based framework to facilitate data sharing for training AI models.
@@ -168,57 +180,45 @@
   The Competition Commission of India (CCI) has cleared Prosus' investment in Navi to acquire it.
   🔗 https://inc42.com/buzz/ipo-bound-navi-raises-100-mn-from-prosus-in-maiden-institutional-round/
 
-- Jio Platforms Q2 Profit Rises 14% YoY To ₹8,387 Cr, Revenue Up 11%
-  Recently listed Jio Platforms reported a net profit of ₹8,387 Cr in Q2 FY27.
-  🔗 https://inc42.com/buzz/jio-platforms-q2-profit-rises-14-yoy-to-%e2%82%b98387-cr-revenue-up-11/
+- INDIA bloc's 'public impeachment' of CEC postponed to Oct. 31 due to rain, Rahul Gandhi says | Highlights - The Hindu
+  India bloc's 'public impeachment' of CEC postponed to Oct. 31 due to
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzI4Sy1fMDZLVHAxNU03RjYwR3ZYU2Z1VXB2bjN3dW80MU9mNmxUOVZKTTZveG5ybFJtdlR1SnBobXl2di1rVFFySXFRRU5KOUFQQ0xzRnV3ek5IQlYyWEN3SjlGa3ZmVFhqSTNwWkpseUlISU9lbnA4bkduUW8zbmhTVzdod2w2eXhhaG9mQXJSVl9hWjBNU243M3F3azNJMEY1RHd5NEdKcC1OQU9rZHp3VlMxQW41bjRIXzZEUWp1R3JHV1FydU44MVBiZDV1R29hTtIB2wFBVV95cUxQamdrNEM1bkQxTXFKMmZnbFVSeXNKTkl5ZUNJcTdmZGNEcEhjaktQdEM0MWpGTEY4ZkFQdFh3VG1KV0VydzE2ZWFLdFhBRHBsLVI4UFVoeXFiUXBNamhXUkc0YzdUcnd6dWV5UUpCdllDODFCcFo1elRBTHJuRXJPYWtqOWNETDFjSXY1c1RsVFVhU1EtRG50endPRG9tWkJXTzIzZXEwQzFrZ2lKMl9ldnVSWWdZNm5oTnp5NURXMEhnWmplLVhOaFJWX0NUYTJ1VnliLUlKQk9YUXc?oc=5
 
-- Decoding The Commerce And Lending Engines Of IPO-Bound OfBusiness
-  OfBusiness is heading for the stock market with a business that earns most of its revenue in one place.
-  🔗 https://inc42.com/features/decoding-the-commerce-and-lending-engines-of-ipo-bound-ofbusiness/
+- Rain Forces INDIA Bloc To Postpone "Public Impeachment" Of Gyanesh Kumar - NDTV
+  Rain Forces INDIA Bloc To Postp
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0xNVnM4NDREVkdNS3NIMnNVSDJZVThvX0RBbGZoRkNPR3Q3UnVMRlRnNEt3WHZWNElCMmR5TVNTa2E5bzMxWEUwTmhQenk3MVRPVGJUX09fZ1ExMHdTb2E4MXRZZVZSbzlDeUZsQ3JOcTRUOWY3REdBN0tEdGRBZUl6UzViQ2dlZmpubjJFWmZzMDVUMzFUeTdma3NVVUNDakZuNGNpNjRVQ1FRcUVSemJfQ3Vvd9IBvgFBVV95cUxPdXhZb3NNUGhvQVU2U1JTRjlpNzVDX1ZnZm9nTkl3OVJobWI1WjRhNEViekhXNXFEVTdycFlpdVVLZDZoT1VZeWFlT2hpelJnX2prZk9WbXRxX1RrUTN6ZUhUd0hyTHdwYS1wMUVUaFZraExVNFhCbTEzVlVBRjFUUkJSNUE0R1F4S1FrWHcwMG1aLVZ1Z2M2MHdVT2hxWENKZU5FTDVzSWUxSkJDOVpRMHJKU0dkYTExNnR2WW53?oc=5
 
-- PB Fintech Q2 Profit Jumps 42% YoY To ₹192 Cr, Revenue Up 35%
-  PB Fintech’s consolidated net profit zoomed 42.5% to ₹192.4 Cr in the second quarter (Q
-  🔗 https://inc42.com/buzz/pb-fintech-q2-pat-jumps-42-to-%e2%82%b9192-cr-revenue-increases-35/
-
-- India made ‘remarkable progress’ in reducing poverty: World Bank - The Hindu
-  India made ‘remarkable progress�
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkEwd3NtZWZmMVlWVHY4cEpRZGhTR2ZtczA4Z2VFRlhzclZGY3ZFcmRsMk1JZTd4eFoybTVidTQtS2liWHNFNjNBczNJS2puQnFJWmI4QjdSLWY2S1I1TGg3emR6dkN5TEtQVEpHTzRKYXIzX1pTdDc0TGpmSkl6ejBESWpJSmE4MHN5QTJpMUROYkpNWW8xWWRsa0w3RGhPX0dwaGd6YW55cVh0ZXhiZkVBWXVKRmlTeVZHONIBwwFBVV95cUxQZnRHRm1aWXQ4cE1EUFJfX0dIbnVhN0lzRmxyeGloUzdwMXVwcUp3YjZQSE12UE5DUXlMdXpYYW9jckR0ODFWVDNkSEtwSC14OGpjeFh0WFVzNWNpUnpqX3Z6VTFRbm4xSGRiM2xmY3hlZmYwQTlJRjQzR1FfS2t1M2ZaNDZKLUxPcDlzc0VhcEpmTHZ3UzVkNmVzN21ZWkNaTkxpMVprRWpkNjA0X2pFX21pM2YyNjNkRnFCZGJHdWRpVTg?oc=5
-
-- India’s extreme poverty declines from 27.1% to 2.6% between 2011-2023, says FM Sitharaman - News On AIR
-  India’s extreme poverty declines from 27.1% to
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGZjQ01QajRhbk1NQV9DYTcwX0JHNU5oV0dvaXlfX3VPUnZJUWl3TjBzdWxZcW5sbGkyZWxBSHQySVZDcXhvRE91M2laUXg0SVowRW05RzllS1FwcUFiTEhJRE5SSFQ4bXRndjdCWEY0UmoxdHlqbGVJVEVoaWpvNjlrZTg4T1VGWVljd2NZVVpmZkkzRHNCekJtVmdWYWRzMnNQUF9Gdm4wdmJtLTdESw?oc=5
+- INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE - The Hindu
+  India bloc to hold ‘public impeachment’ of C
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
 
 - India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
   India's Extreme Poverty Drops From 27.1% To
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
 
-- 30% in 2019, cancer drug margins at 700% now - The Times of India
-  30% in 2019, cancer drug margins at 700
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFhqZXBYWG5rWkpTWk9fcTBKWElfR2RGdzFEd29fTDFvWTJkMlljM3lNSWNwaFhheEZjWkJBX21zQXdScU02dUZFckVnTlljYmJnQzJ4cnFJeXlvOVd2MlJoNTBGWmJuX3lwRXVjVDdOb3ZkSUJ5RFczQjN1cnI3a1JyMWp1S0NYZXN2ZHRfSzRuNmMxUExDdnRNV281ajZXY18yY1RXWmx4aUXSAbABQVVfeXFMUEVuX0NWRG5CZVNFUWZ5U2JDeEdUSzkwVldpZFAtRS1jVU5nd2FONnFyMERSZHFFdmgzdXdEY3E2bTRidDB4TUM2VkdrdjJWaHBFOXFpOVdKdzdZeklXa0NDS1hCX2xhQnJrZDllS1lPSjNONkEzSTdTeWp1elQ5alQwUmVXQTdxVGdCUVZsOWxHa21oQXJmdWFkeE9hYmViNWNtOXJTWWNvd3lPcVBqNzE?oc=5
+- Breaking News Live Updates: Isro launches NVS-03 satellite to strengthen India's NavIC system - The Times of India
+  The Times of India reports that Isro has launched a satellite to strengthen
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkZaWGdwZ3BPUTZjMEh6cnJKdmVNeWtvZmN3eGdoTnBpSTlUU3poOWswY3MwOVF4NkJncnNlbkw2djgyRHNLcEVYN1JmdTIyakRuQ09pMkFia3BnM2NoeURzV2xLLUVWcHFCdGptNk9vUFo3WkJFelFvQ0hwOERfX2ZOMkFnOXZ0V1dRWUFLaVgwcnBoX1VSRm9McDFRVXBPNGR4WmJBTkhFT0E2OTRlSkRadmRUd9IBuwFBVV95cUxOY1VwTWdCMURyZjFjZzUwbmlhSEpzcHFhZ0xMNDl1NUlUNFFEWHd6Q1k2a3ZSR3dRRm5zTkJmMU11N29xSDc2X1FQN040NDlSdWY0czZQUzU5eXdnTWgxc1ZCRVNlQVlHNDRLc09xVUJja1B0TjIyOFkzQkxVZEJaUzZzX0REUC0yVmUzRGs4RTdIdldYejdlQlBBQjlsLWtiODdhb1IyNWxmNXhOQlVvZ1JxY2xNUl9kRllF?oc=5
 
-- Government asks ministries to identify cases that can be withdrawn - The Times of India
-  Government asks ministries to identify cases that can be withdrawn.
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTG1ldkJVY3hxMzFUT2RrTXVDYjB5bFRaeW9NeWpYM0NYbXlhYnlpSElYaXNCbFNJRktYWVAxYUNEV21NQ0prMjhZNWZrUnRNNG95TEpzdUxsNmZEdFF3cXJKU29DVGMwVDctN3NBTmQxZ1FlUHo2bFVoTHUtTUl6TlpJTzlOQURkUFc0Z0dEVlpiRFE5cl9lOTl3a2NOU0NGTjJqT1U1TWd2ZzBGcGY3bmRIblROT05KTURSSnkyRm5sS0o1TzBDZkMyYTNPTGc?oc=5
+- INDIA bloc's 'public impeachment' of CEC postponed to Oct. 31 due to rain, Rahul Gandhi says | Highlights - The Hindu
+  India bloc's 'public impeachment' of CEC postponed to Oct. 31 due to
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzI4Sy1fMDZLVHAxNU03RjYwR3ZYU2Z1VXB2bjN3dW80MU9mNmxUOVZKTTZveG5ybFJtdlR1SnBobXl2di1rVFFySXFRRU5KOUFQQ0xzRnV3ek5IQlYyWEN3SjlGa3ZmVFhqSTNwWkpseUlISU9lbnA4bkduUW8zbmhTVzdod2w2eXhhaG9mQXJSVl9hWjBNU243M3F3azNJMEY1RHd5NEdKcC1OQU9rZHp3VlMxQW41bjRIXzZEUWp1R3JHV1FydU44MVBiZDV1R29hTtIB2wFBVV95cUxQamdrNEM1bkQxTXFKMmZnbFVSeXNKTkl5ZUNJcTdmZGNEcEhjaktQdEM0MWpGTEY4ZkFQdFh3VG1KV0VydzE2ZWFLdFhBRHBsLVI4UFVoeXFiUXBNamhXUkc0YzdUcnd6dWV5UUpCdllDODFCcFo1elRBTHJuRXJPYWtqOWNETDFjSXY1c1RsVFVhU1EtRG50endPRG9tWkJXTzIzZXEwQzFrZ2lKMl9ldnVSWWdZNm5oTnp5NURXMEhnWmplLVhOaFJWX0NUYTJ1VnliLUlKQk9YUXc?oc=5
 
-- India made ‘remarkable progress’ in reducing poverty: World Bank - The Hindu
-  India made ‘remarkable progress�
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQWkEwd3NtZWZmMVlWVHY4cEpRZGhTR2ZtczA4Z2VFRlhzclZGY3ZFcmRsMk1JZTd4eFoybTVidTQtS2liWHNFNjNBczNJS2puQnFJWmI4QjdSLWY2S1I1TGg3emR6dkN5TEtQVEpHTzRKYXIzX1pTdDc0TGpmSkl6ejBESWpJSmE4MHN5QTJpMUROYkpNWW8xWWRsa0w3RGhPX0dwaGd6YW55cVh0ZXhiZkVBWXVKRmlTeVZHONIBwwFBVV95cUxQZnRHRm1aWXQ4cE1EUFJfX0dIbnVhN0lzRmxyeGloUzdwMXVwcUp3YjZQSE12UE5DUXlMdXpYYW9jckR0ODFWVDNkSEtwSC14OGpjeFh0WFVzNWNpUnpqX3Z6VTFRbm4xSGRiM2xmY3hlZmYwQTlJRjQzR1FfS2t1M2ZaNDZKLUxPcDlzc0VhcEpmTHZ3UzVkNmVzN21ZWkNaTkxpMVprRWpkNjA0X2pFX21pM2YyNjNkRnFCZGJHdWRpVTg?oc=5
+- Rain Forces INDIA Bloc To Postpone "Public Impeachment" Of Gyanesh Kumar - NDTV
+  Rain Forces INDIA Bloc To Postp
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0xNVnM4NDREVkdNS3NIMnNVSDJZVThvX0RBbGZoRkNPR3Q3UnVMRlRnNEt3WHZWNElCMmR5TVNTa2E5bzMxWEUwTmhQenk3MVRPVGJUX09fZ1ExMHdTb2E4MXRZZVZSbzlDeUZsQ3JOcTRUOWY3REdBN0tEdGRBZUl6UzViQ2dlZmpubjJFWmZzMDVUMzFUeTdma3NVVUNDakZuNGNpNjRVQ1FRcUVSemJfQ3Vvd9IBvgFBVV95cUxPdXhZb3NNUGhvQVU2U1JTRjlpNzVDX1ZnZm9nTkl3OVJobWI1WjRhNEViekhXNXFEVTdycFlpdVVLZDZoT1VZeWFlT2hpelJnX2prZk9WbXRxX1RrUTN6ZUhUd0hyTHdwYS1wMUVUaFZraExVNFhCbTEzVlVBRjFUUkJSNUE0R1F4S1FrWHcwMG1aLVZ1Z2M2MHdVT2hxWENKZU5FTDVzSWUxSkJDOVpRMHJKU0dkYTExNnR2WW53?oc=5
 
-- India’s extreme poverty declines from 27.1% to 2.6% between 2011-2023, says FM Sitharaman - News On AIR
-  India’s extreme poverty declines from 27.1% to
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGZjQ01QajRhbk1NQV9DYTcwX0JHNU5oV0dvaXlfX3VPUnZJUWl3TjBzdWxZcW5sbGkyZWxBSHQySVZDcXhvRE91M2laUXg0SVowRW05RzllS1FwcUFiTEhJRE5SSFQ4bXRndjdCWEY0UmoxdHlqbGVJVEVoaWpvNjlrZTg4T1VGWVljd2NZVVpmZkkzRHNCekJtVmdWYWRzMnNQUF9Gdm4wdmJtLTdESw?oc=5
+- INDIA bloc to hold ‘public impeachment’ of CEC Gyanesh Kumar today | LIVE - The Hindu
+  India bloc to hold ‘public impeachment’ of C
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcV9CSGRLdHBWdXNGb095NlRIUFJLV281VHBsSzdyTVBJLWpsMGxyRmRpeHJUOUZGbExjYW9JTV9UTllJMHlnRDN0X3hITU5wQUY3UFJkS2VyZFhjS1RnWkRvS0hENWlZelhwSUdmdHpJdnotS2hlYXVvVGRrWmJrdllyUXNXcHBZMlp6UWtLU0trSU9pNFFBcmc4T1FnRlJjVHQ2M1lQdnBSNTFqc05Ub0Z4UjRqQTJ1bUhFdVlXdWlHWEpZVFRNTEVmS01sNGM0Sm15SS05a1VST29kZkNPT3pHZXdjbVpmazhpaWdJMTNiQmtvT0JTb1lTbE5zaURhd2tFWlZYMkUxZ9IBkAJBVV95cUxPdGhpNk9DVDFzS2FGT19iYXhGd1hiZ1IzaEkxUHVPSm9yUFZ3SFhWZnlzRTh0bVZnT3VjdHBUbGlIQlFvbXdUQVY4bjFoVjVDdm9PeW5DcXlsVHNsR29oTnNxSG9tb2xNb0dNMlV1RmVaeVE1MUlHN0Vad0RzTElzMUprWlpRbjdNS21VQXBfUzdtaXJ6VjVxTDRJS1RNbUtJc0ZBWUhtOFFCMU5HQnU2LVQ3d1BfSmtQQkZYWFVfWEtqLTktY0syVjFwb1A1Ums1RFRzbDlkdlNZVmpwdVdDNU9mTXRLNktiT1JTYTNab1BYTFhXdlJUaFY1YS04d09VeEVXQThsS1NRWjVzUXlFbg?oc=5
 
 - India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
   India's Extreme Poverty Drops From 27.1% To
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
 
-- 30% in 2019, cancer drug margins at 700% now - The Times of India
-  30% in 2019, cancer drug margins at 700
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFhqZXBYWG5rWkpTWk9fcTBKWElfR2RGdzFEd29fTDFvWTJkMlljM3lNSWNwaFhheEZjWkJBX21zQXdScU02dUZFckVnTlljYmJnQzJ4cnFJeXlvOVd2MlJoNTBGWmJuX3lwRXVjVDdOb3ZkSUJ5RFczQjN1cnI3a1JyMWp1S0NYZXN2ZHRfSzRuNmMxUExDdnRNV281ajZXY18yY1RXWmx4aUXSAbABQVVfeXFMUEVuX0NWRG5CZVNFUWZ5U2JDeEdUSzkwVldpZFAtRS1jVU5nd2FONnFyMERSZHFFdmgzdXdEY3E2bTRidDB4TUM2VkdrdjJWaHBFOXFpOVdKdzdZeklXa0NDS1hCX2xhQnJrZDllS1lPSjNONkEzSTdTeWp1elQ5alQwUmVXQTdxVGdCUVZsOWxHa21oQXJmdWFkeE9hYmViNWNtOXJTWWNvd3lPcVBqNzE?oc=5
-
-- Government asks ministries to identify cases that can be withdrawn - The Times of India
-  Government asks ministries to identify cases that can be withdrawn.
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQTG1ldkJVY3hxMzFUT2RrTXVDYjB5bFRaeW9NeWpYM0NYbXlhYnlpSElYaXNCbFNJRktYWVAxYUNEV21NQ0prMjhZNWZrUnRNNG95TEpzdUxsNmZEdFF3cXJKU29DVGMwVDctN3NBTmQxZ1FlUHo2bFVoTHUtTUl6TlpJTzlOQURkUFc0Z0dEVlpiRFE5cl9lOTl3a2NOU0NGTjJqT1U1TWd2ZzBGcGY3bmRIblROT05KTURSSnkyRm5sS0o1TzBDZkMyYTNPTGc?oc=5
+- Breaking News Live Updates: Isro launches NVS-03 satellite to strengthen India's NavIC system - The Times of India
+  The Times of India reports that Isro has launched a satellite to strengthen
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkZaWGdwZ3BPUTZjMEh6cnJKdmVNeWtvZmN3eGdoTnBpSTlUU3poOWswY3MwOVF4NkJncnNlbkw2djgyRHNLcEVYN1JmdTIyakRuQ09pMkFia3BnM2NoeURzV2xLLUVWcHFCdGptNk9vUFo3WkJFelFvQ0hwOERfX2ZOMkFnOXZ0V1dRWUFLaVgwcnBoX1VSRm9McDFRVXBPNGR4WmJBTkhFT0E2OTRlSkRadmRUd9IBuwFBVV95cUxOY1VwTWdCMURyZjFjZzUwbmlhSEpzcHFhZ0xMNDl1NUlUNFFEWHd6Q1k2a3ZSR3dRRm5zTkJmMU11N29xSDc2X1FQN040NDlSdWY0czZQUzU5eXdnTWgxc1ZCRVNlQVlHNDRLc09xVUJja1B0TjIyOFkzQkxVZEJaUzZzX0REUC0yVmUzRGs4RTdIdldYejdlQlBBQjlsLWtiODdhb1IyNWxmNXhOQlVvZ1JxY2xNUl9kRllF?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-30 21:56:19 UTC_
+_Last updated: 2026-10-31 03:46:00 UTC_
