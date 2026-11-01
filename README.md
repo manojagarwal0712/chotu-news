@@ -1,64 +1,72 @@
 # 📰 Daily News Summaries
 
-- Keralam aims to become India’s best State with focus on technology, maritime economy and jobs, says CM Satheesan - The Hindu
-  Keralam aims to become India's best State with focus on technology, maritime economy
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQa1Bjb0R1Z0Z4R0dlM3JaVTBhSjB4UkFjdktobTM1UkNMN2t4dmYtb2ZmbTNKQ1RWbG5lUkNUY0RLYXU4NldyazBXQ0lKUW1fTmhqSmdjVFhCZXRFTndLazFIdkpoeWxES2RRRVN2YVY5aVo1c1haN1lrWVYzekRkUVRpS29uNkhkci0wYXM5UlNEWTBoTWM1MHQ2cWhlVVo2RDhoYjdSRmhEOGdVMWpVV0w1aG02blRsNmxnWHI2R0hKSVpBMVBFc2ROYzhic1g4VmtrYlp2eUpySGRMR3pmV1lMclpFQmxFemZHVjBHaFNSNEpTdldKODVMVFc5bWowanlhYjlB0gGMAkFVX3lxTE1PX2FwajhrVkl1bmZIZE5vLW1iTEVFb01BR1VCRFcza3lFbEFCekpUZHVqVzhBZjBoNkc1TEVLd0ZCODRWblk2Uk5qeUVwSjdEOGdyUG85UWphSDJhNUoweUg2aVJuaEhTdTQzdzBHYmwzS2ZadzU0N1lPUHRUU2R4UkVtR0dSdEpad19vd2NHVWJRS09uUFM0S3NERnA0RjdaQUNJZzBSS0VWbE5PYmx5dWlwMVNSd0dVNW0xcnZWOHFFSDJqR2p1M3YyejNlQnE1NWRVNWJxN2kxbDJZcEJmV25xUXJHX2lIS3EycjRmUXYzWnFFVHJlQzBKdFdpeG56bEFXYmZ4cG9yNmU?oc=5
+- Kannada should grow into a language of technology and knowledge, says Minister - The Hindu
+  Kannada should grow into a language of technology and
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVW45UlAtclBDMWc5M3dvV3FIR054TnIyOEtKRGo1U1FzWW9jRE5vZ2ZFNXZPbXhCZHg4aUFTTVJsT3prWDFWSzNQb1ZraHNqWkJCMkxZa0xacUFFWHFQUkhNMWlfN1RKYU15UUU4ZnV4ZzVBLS1wZzdBVHRiVmQzOWRGRHR4U0RBbHZ0cXY1aE5ma2ljeGJzbXIycDNSeWIzX0RXUXhpNlVIc25EWlhBZTB3STlKUUh4R2RseHl4VTZVaXNtUXdtcGw1ajNwTEF1LVBQY1lzOXNoWkxsZ3JN0gHmAUFVX3lxTE1INFVDSkhucVRMZkMtYzFvVGpUN0c4WVB0bmdUMXhhUlFyVEd0MUhwLTdNMUx6RTFVSDlWM29HRDFnZ0xDYXBkb2t0cEIwcm9zbkk1VlBjRDFSMHhZb1h0RUowVTRzeGZidXM2T0UxN3A3N3h3QmpDenl1SW5ZM0ZzUDFIRnJBcE5GaHpfMVN1RVFUNmtsS094NzVvT09uQzVpbzl4LUVXUkMxVXN4clozODNVQWFWM01rSUhka0xrYmE0WTRRcG1JZjdmUlNsckozcEZmSjhDcGNHRHJZcUZLU2VrQUdn?oc=5
 
-- Ananth Technologies supplies critical avionics, electronics systems for ISRO's GSLV-F18, NVS-03 mission - ET Government
-  Ananth Technologies supplies critical avionics, electronics systems for
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQTUJGVFZHZ3FEc3hMYXFvSEVfS3lMMzY3clc5eFMtZzBvbVRxY0hkUWRVc1J4bUJnVEFxVHJXbERxeFNUdmtrQWRMOFRXekpUY2NJNll6XzE2OU16aWkzcWZTUFRUVTE4VzdFZ0ozY0RPUnY2bWNxNnhpQUZ5d2JBeXpGdmZPY0MtQk9MUlV0WlJUaEdROFdqeHRZelZFaVhaTWc5RnI0S0h0RlVmeGt5REMxNHNvSWROc1hPOTVkNl9QblpKaXQyWk9yNndXZ01QLXhEYXZxYzRlZmpjckExUW9KT1NUTVV4V1F0M1F3ZVlBcVVJRGpEX0NWRXl0NzdSZEE2btIBiAJBVV95cUxPTmpnZEYzY2IwblRQdDRkOFM3TmNkc3FIVU5QQXhmVUVNdjF3ejVkcEZUZFNpNUp2eWVrYWFvTXFhVE9VVHc4bThNbEZLR2xReTVXcGcwQXZvSEF4RDdZY3JyNTFjRDZCX3plcFo4YnluelRwaXlvYkN1SDVTWElRb2JaQ2ZLOEo5VVFybG5OM3N1MjdaTm5JRnVia0M1ZWR4MU1GWlJkcm9CcG9kYjZ4dFdybkxTejdPVzJpOGR4SmNSSzFtNENoc0xoZHRxX21KUGZpa1l6ZTlQam02akRYZUNVR3pBRDlZbWRsRGY5Rm93UFZweWczZ2lxLTZLd3dBeW5kb1hGTm0?oc=5
+- India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ram.. - ET Government
+  India’s sovereign AI push moves from foundational models to real-
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQT0E5MGVuUExSb21yTXlqM2VEVGxHbDRvMk9pM3VRNjdaTHg0ZTNrZnJweV9LNFBRclFHQVZzeUFKVl93YjVfUlBFTGo0UEJfMWdsRUhHbENual9iem04Qi0tYklBdUhUSDlWMFNhSDk0SDEtZnhTRnNGYXV0aHZzSDh6bFcwaDh0Q1V5eHNMZ3RMUXFKR09nWWNkcmZaa20tR0Y4ZV9NYjhRM1JTdldfV204N0ZzODIwUzZaVDhrRE9lZUNGckp0UzhTQWIzUEtKdGE2WU5lRDU0aEIwVGVUTGQ3ZEhreG53UndGUDdYS3JYUXpFZXBKdm5nYzZVRVZTbDNvSlV6LUdBN1NIS0xQOC1Qc03SAZoCQVVfeXFMTjczMW16ZllwWjl1TUNQVENpOGozZ21rdDhGY19qc0RRYUl1Y3E1cWVWdkpKNFhReXNKRXRmMmdMM1gyVTBWU0IxeEFHem90THdBZVl6MkFuTkFtakRnSlhndk1KMWdtV0wtbXg2NTFXSi1aTXBzX1pwaFpIN1lPZ2pLaTU5WVBHMFRRWXp2Zmk4SER0VWxOU0J1R2ZBR0JJVG50NXBSX2g1ODBFUHhBd21vOURFY05hZTJNUmJXNmlMVE5lMTM5ZU5RLWJneHpoOVRWZEFmUkhMNjBZcFVmQkQ5UWlzQldEb3BmNmhQbFZzSXNoS0tJQlJJTnFEWUZHVTlqQ1RSbUFjQUc2MDBka0NpUVRlWTYxV293?oc=5
 
-- Maharishi botFiesta 2026: Fifth Edition Begins with Grandeur at Maharishi University of Information Technology, Lucknow - TheWire.in
-  Maharishi botFiesta 2026: Fifth Edition Begins with
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR1R5alJETnRDUF8zXzA5QURhVGxCVjVvQlF3MzZQSzVjYjlBVmhyWVVURFNmckFRNmdVZ0pHOW9UVzdCRnZlME4zdFhNeG1zWGl1Z3FpbUpOcVVDbWhTeU13UkFGWWlqdnh2a252aEp1b0JDT1VOSW8yMUViX3owbXlCQnR2X01DelhHUXZJSGZ3cGNuV3dxRU9ZcjUxMlFHRllCMm1UVHo3VXQzYWFmUm5WM19lY3lVT215bzRfcThPYmgyTEpYWlBqQ2plMUc3aGRuWG5oblBFTnZtQXZNNzBFUnBZWk55aUpvZtIB8gFBVV95cUxPZ3p6akJPSnQ5UGxXLWpCN3pQVFFLTDlYTHdIMWRrc0VQcTc0LTMyNUVGMGlQa0gxWm5OV3VzZWQwd3hySVJUNnBUeHg4azk4QzlQcE5haUpkNUV3M0loOXJzYmNsdmxkV2NsbDhPWktLTGhRXzdRVTV2ZmJoMS1WNGp2UlFjcER5SlNyam5wZnd4TDFkMDlJODVBNEFURjB0ZTNNNm53OHR6WFRsRF9Yc3BrR3YtdnBsUVYzSlpRMkNCNDhnanJlYXVGODdWZ2I4aE1jenJPS0d3azliRGZvZVBQaDYxRzVod09JSl9oWUthQQ?oc=5
+- IIT Guwahati To Introduce Diploma, BTech Courses In Semiconductor Technology - NDTV
+  IIT Guwahati To Introdu
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQcldQWkJLZjhITllCVndwWHd2MWFqYTE1MEstcmp3cjZYcDhLQ1pnbTB2bmhBczZPSXBkdm42M0p6bV9aNGVhOGgtNkdoTmdOcGhJR05mTTkxTjFSTnFKcDJReDkwSkF3MDlMcmFzanFoSW41OVpUQzhKNF9VWEJoWW85VTdvWHl4QXduaHpjT3RaZk91V1BRalJlYk91Mi1LUmZKU2lmMHNOOV9jZFdSbVJ0QlNCUdIBvgFBVV95cUxOa21jOVlBc1ItUHhTWWJ4RkdRRVBLWE56dENzcnBLd3dMRER0Z1lwV05sX19uSlhzSmIyOGN4SW5walFyNWFJUDN0MXFyWk9tek1FVm1ULTRGMkpmdTdMMVZ4VGJOMmtfallRNlhPajlxczM1akd5QkNWVVllOWtvUldqSnU1SHVhWEZ6blJNa3FZQWl3alZfdkh5S3dhZTN6V3lwTjBUU3I1ZndNQzR2TjBLdXg5NHBNd01Eb0RB?oc=5
 
-- Technology educator wins 5th Rohini Nayyar Prize for contribution to rural development - ThePrint
-  Technology educator wins 5th Rohini Nayyar
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzVZZTNXdmotMkViQ1UwLUZncEF6NDI2eUx0OS1jNHQxZ2xEblpFWUY0cWdxRWpLWGhudnJNc0N4ZmE0N1o2Zl9YVTZzRkM5QnNObXAzMlQzQVZRYV9tMHFUblEzNXZTcVMzQUxuS1NVaXdmbGhkMzRsUi04RldlUU0xMjNLRFM5STJlaTNQOE14ck0wQ3oxSm96cFBndkp1d1pwbFBybG13QjF5REVkVDJMN2c2STdKTVVzOGpB0gHDAUFVX3lxTE1ybXlyY2hiTF9FRXlNQjh2VGR4OXFfQlB1X1ctVHo3cDFrU3ptR0FrNElXVkpYamd4bWROUVdVTm05UUJBNjR5QmN1ZmRhM09JeFRpd1I0VlphQ1JvOW05aWtmWFBQaVhoZVFFZzFKTmU3QVV5RjRyMk5INmdNR0QyTVlvTkdCWHVUZElXdG5TaU5oWEJMemV6MVhfZlRZUnE3YVlyNFJTVkFKWmR0UnBlSmItQ1VzTy1ZUWJWd1owZXluWQ?oc=5
+- CXMT completes engineering sample validation for sixth-generation DRAM technology platform based on 4F² architecture - Global Times
+  CXMT completes engineering sample validation for sixth-generation DRAM
+  🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HZDZHZVYwNExfZXR5by16SGxIYmgtd0s2OFYwMjd4aXN3c2hLRHo0VC1VdGg5TzVOZGhjWU5ud3BCeXdYbVhXYXhVS00zbTdWUzF2R1JhMkV1bjJXRm15Y3RB?oc=5
 
-- Jaishankar calls for stronger Quad cooperation on supply chains, technology and energy security - Firstpost
-  Jaishankar calls for stronger Quad cooperation on supply
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTVmczNGbldCalVxdWRrT3JOOXU5U0g1a0ZQU2FBUFdUdVpvZlZ5YlRIZUtNY0F6N1JQZ1pfeHNoNkJ6bGdmQkdMcFQ5c3oyWDE2T0h6b3VWRGQ5NFQzb2drQzJUcTdEZnFSdUJmUF85RnlvbVdvT3RCRHZYNzFEdHVYTWVvaVhJZHAtUVBVSjExTjZsZmdrc0JYVlR0RWdqdnlkeTNrYnRYV0dGYkRyOUJHNWVNdG1LMTA1T1N4QTVnc2hsU205Y2JLbVBZNFYwLXdxSDRWZ9IB3AFBVV95cUxQNlotdmZhZHVPaGI4ZnZzay1MRzRET01nc3VwMzR6S3dSUHY0OHB3OEsxUzVhb0o3d0t6aTlaeWhwSExjcTBmWDVxYXRhYlgxeWFsY0lVSFVlN2IwNmt2elhUcjViX25uRXZGckdzb2lxSTZlTVBrMUd5ZG11akdmMFliaVJCNHloMHZ2OGxwY2pBQU1HM2llMzJPZnFQYTZ1cWVGUEpTWXMtS2c3ZkZoOWhPcjEtQnZBUHh6U0xXS1J4Rkh0blNvdnNQWmR6QkpKbGVTY0NDeEtTUzFj?oc=5
+- H-1B curbs could hurt US healthcare, technology and education sectors, warns Indian diaspora group | Hindustan Times - Hindustan Times
+  H-1B curbs could hurt US healthcare, technology and education sectors,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaVZ4YVJzVVJlZ3ZwcEJ5Y1hOVTN1NGFZLWFYSHlfRHBGWm1xRS1GX0hLUi12Z0FpTktXVmJpaXBwMERjXzB3M1VvX0E5c1hzRmlVbDNUeFd2b045bG9jbTRrQUp5UWtyZ3FEMlpXRVFmNVVHUWtKcEtUTXVHTUZXWXdfNHF3dFItbWJzLTcxbjh4VGtRNVBTYkNZWU4wRXFLeEJfZmZtYnliVkF2aDliOTlQZmNsSi02dkdWQmI4Q3pJUmprU3FlclA4cFlsQ2hGbUxzSVZpbmJoSkZvRVoxS05UUVV5QdIB6wFBVV95cUxNYnE2enVVWGRoVWJMYThzdVRNX1JCSnpXOWZlZ1YwS016SllHS0ZVWjN1T2w5VHR2VUtOMjBKbHRQWFI1bjN0bW9lbHhNNEFTejZJb05kZHNVd0dkTHFxSkwwT2xteWxGVjdOcmZFS25aNThzNkZ3QWNYQzN3M0JuZHdVUW9sQkl5WllJRVFLa3ZreWJUVmZvRENVNVpNX3pURERJYmtvWThucG42a3QxdDJvSGlQM1FCYnlfOHNvaFJjeVZXYVgwN1U5a1lHWm1kRkJQQUZsMFZyYWdSTjBNR2pDWWllNnFwS3Fv?oc=5
 
-- Warren Buffett hasn’t had water in 50 years; billionaire investor Bill Ackman reveals | Watch video
-   Buffett is known for drinking five cans of Coke daily. Bill Ackman recalled that Warren Buffett declined water at a dinner.
-  🔗 https://www.livemint.com/companies/people/warren-buffett-hasn-t-had-water-in-50-years-billionaire-investor-bill-ackman-reveals-watch-video-11793501176579.html
+- Jio says tariff hikes can wait, eyes 10-15 partners for overseas play
+  Jio Platforms plans to drive growth through digital services and overseas technology partnerships.
+  🔗 https://www.livemint.com/companies/news/reliance-jio-tariff-hikes-overseas-arpu-operations-11793516641378.html
 
-- Who is Alice Huang? US accuses ex-Megaspeed exec linked to Nvidia CEO Jensen Huang of spying for China: What we know
-  Former Megaspeed top executive Alice Huang’s links to Nvidia CEO Jensen Huang have come under scrutiny amid reports of suspected intelligence sharing
-  🔗 https://www.livemint.com/companies/news/who-is-alice-huang-us-accuses-ex-megaspeed-exec-linked-to-nvidia-ceo-jensen-huang-of-spying-for-china-what-we-know-11793496869990.html
+- Bank of Baroda plans overseas expansion, targets wholesale banking in developed markets
+  India's second-largest public sector lender is weighing retail banking in emerging economies. It also expects margins to improve in the
+  🔗 https://www.livemint.com/companies/news/bank-of-baroda-overseas-expansion-wholesale-banking-debadatta-chand-11793508880749.html
 
-- French billionaire Xavier Niel gets CCI nod for 16.2% Vodafone stake: What is the €5.1 billion deal?
-  French billionaire Xavier Niel's €5.1 billion deal to acquire a 16.2% stake in Vodafone Group through his investment vehicle Vega SAS
-  🔗 https://www.livemint.com/companies/people/french-billionaire-xavier-niel-gets-cci-nod-for-16-2-vodafone-stake-what-is-the-5-1-billion-deal-11793459486004.html
+- Who is Xavier Niel? French billionaire to acquire 16.2% stake in Vodafone in a  ₹54,103 cr deal | All you need to know
+  Xavier Niel has secured CCI approval to acquire a 16.2% stake in Vodafone. The Iliad founder built his fortune through low-cost telecom
+  🔗 https://www.livemint.com/companies/people/who-is-xavier-niel-french-billionaire-to-acquire-16-2-stake-in-vodafone-in-a-rs-54-103-cr-deal-all-you-need-to-know-11793518585824.html
 
-- LANXESS and BPCL partner to advance specialty lubricant solutions in India
-  The partnership leverages LANXESS' global lubricant additive expertise, formulation capabilities, and existing OEM relationships. BPCL
-  🔗 https://www.livemint.com/companies/news/lanxess-and-bpcl-partner-to-advance-specialty-lubricant-solutions-in-india-11793460196080.html
+- Tech Mahindra prioritises growth blitz after margin boom
+  Tech Mahindra CEO Mohit Joshi talks about prioritizing organic growth, decoupling headcount from revenue in the AI era. Josh
+  🔗 https://www.livemint.com/companies/news/tech-mahindra-ceo-mohit-joshi-ai-growth-margin-expansion-strategy-11793502511219.html
 
-- The Morning Show star Reese Witherspoon takes back control of Hello Sunshine, but why is firm cutting 50% of workforce?
-  Reese Witherspoon's production company Hello Sunshine has reportedly laid off around 30 employees. The company is moving away from direct-to-consumer ventures.
-  🔗 https://www.livemint.com/companies/news/the-morning-show-star-reese-witherspoon-takes-back-control-of-hello-sunshine-but-why-is-firm-cutting-50-of-workforce-11793457667805.html
+- DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic
+  DeepSeek has released a prototype of a more autonomous coding agent. It seeks
+  🔗 https://www.livemint.com/companies/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic-11793506699829.html
 
-- Binance crypto theft: Here's how North Korean hackers perfected the heist, stole $6.3 billion in 20 minutes | Details
-  The FBI has blamed North Korea for the record $6.3 billion Binance theft. Researchers say the hackers moved billions within minutes and rapidly erased evidence.
-  🔗 https://www.livemint.com/market/cryptocurrency/binance-crypto-theft-heres-how-north-korean-hackers-perfected-the-heist-stole-6-3-billion-in-20-minutes-details-11793500918241.html
+- Sun Pharma shares gain despite Q2 profit slips 36% YoY | Should you buy, sell or hold? What brokerage says, target price
+  Sun Pharma shares rose 0.87% despite a 36.4% year-on-year drop in September-quarter net profit. Revenue increased 11.9% to 
+  🔗 https://www.livemint.com/market/stock-market-news/sun-pharma-shares-gain-despite-q2-profit-slips-36-yoy-should-you-buy-sell-or-hold-what-brokerage-says-target-price-11793533331740.html
 
-- Best stocks to buy under  ₹100: Sumeet Bagadia recommends 3 shares to buy — SJVN, NHPC, Bank of Maharashtra | Targets
-  Immediate support for the Nifty 50 index is placed at 22,800–22,900. 23,
-  🔗 https://www.livemint.com/market/stock-market-news/best-stocks-to-buy-under-rs-100-sumeet-bagadia-recommends-3-shares-to-buy-sjvn-nhpc-bank-of-maharashtra-targets-11793466108474.html
+- Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel
+  Shares of IOCL, BPCL and HPCL may remain in focus after the government raised export duties on diesel and aviation turbine fuel.
+  🔗 https://www.livemint.com/market/stock-market-news/tax-twist-for-omc-stocks-indian-oil-bpcl-hpcl-shares-in-2-nov-focus-after-this-decision-by-govt-on-petrol-diesel-11793531837968.html
 
-- Carlyle, KKR Get Ready to Snatch Up Bargain Loans
-  Carlyle Group Inc., KKR &amp; Co. and Oaktree Capital Management are among the money
-  🔗 https://www.livemint.com/market/carlyle-kkr-get-ready-to-snatch-up-bargain-loans-11793474974693.html
+- From Wall Street to D-Street: What history suggests for S&amp;P 500 returns, impact on India stock market, Sensex, Nifty
+  Emkay expects the 2026 US midterms to have limited direct impact on US-India relations. For Indian markets, oil, the dollar, and US bond yields matter more. renewed tensions with Iran could lift oil
+  🔗 https://www.livemint.com/market/stock-market-news/from-wall-street-to-d-street-what-history-suggests-for-s-p-500-returns-impact-on-india-stock-market-sensex-nifty-11793526487765.html
 
-- Why did investors dump technology stocks this week? AI spending concerns trigger Wall Street sell-off
-  Heavy investments in data centres, weakening free cash flows and disappointing
-  🔗 https://www.livemint.com/market/stock-market-news/why-did-investors-dump-technology-stocks-this-week-ai-spending-concerns-trigger-wall-street-selloff-11793468909464.html
+- Binance Hack: Inside 24 hours at crypto’s biggest-ever $6.3 bn internet bank robbery | Full story from 4:20 pm Thursday
+  Binance faced an unprecedented breach after more than $6 billion in digital assets flowed out of accounts linked to the exchange. Investigators attributed the attack to North Korean hacking group TraderTraitor.
+  🔗 https://www.livemint.com/market/stock-market-news/binance-hack-inside-24-hours-at-crypto-s-biggest-ever-6-3-bn-internet-bank-robbery-full-story-from-4-20-pm-thursday-11793520978709.html
 
-- Binance replaces 90% of stolen crypto after record $6.3 billion hack, pledges to cover remaining losses
-  Binance, the world's largest cryptocurrency exchange, sought to reassure customers that their funds remained safe. More than $6 billion worth of digital
-  🔗 https://www.livemint.com/market/cryptocurrency/binance-replaces-90-of-stolen-crypto-after-record-6-3-billion-hack-pledges-to-cover-remaining-losses-11793469971870.html
+- Dividend stocks, bonus shares, split, buyback issues in Nov 2026: Coal India, HUL, Infosys, Power Grid, others | List
+  November 2026 brings a busy calendar of corporate actions, with companies including Coal India, Infosys, Hindustan Unilever and Power Grid setting record dates. Investors will
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-bonus-split-buyback-in-november-coal-india-hul-infosys-power-grid-among-key-corporate-actions-list-11793522441142.html
+
+- Millennials lead AI shopping adoption in India at 84%, ahead of Gen Z: McKinsey
+  Millennials are leading the adoption of artificial intelligence (AI) for shopping in India. 84 per cent using AI-powered tools to search for products, compare options or make purchase decisions.
+  🔗 https://www.livemint.com/technology/millennials-lead-ai-shopping-adoption-in-india-at-84-ahead-of-gen-z-mckinsey-11793524905097.html
+
+- Get Apple iPhone 18 Pro 512 GB for  ₹56,970, 1 TB model at  ₹51,447; iPhone 17 Pro for  ₹39,147: Reliance Digital offers
+  Reliance Digital is offering exchange discounts on select iPhone models. Prices drop to as low
+  🔗 https://www.livemint.com/technology/get-apple-iphone-18-pro-512-gb-for-56-970-1-tb-model-at-51-447-iphone-17-pro-for-39-147-reliance-digital-offers-11793521286385.html
 
 - IT hardware reseller lists GPUs from decommissioned Nvidia supercomputer on eBay for $60 million — What we know
   A reseller listed a decommissioned NVIDIA supercomputer on eBay for $59.7 million. The system includes 300
@@ -72,33 +80,53 @@
   HMD unveils Nokia 2360 Flip 2G phone for senior citizens. Features include family assist, SOS and parental control.
   🔗 https://www.livemint.com/technology/gadgets/hmd-unveils-new-nokia-2360-flip-phone-india-launch-price-seniors-family-assist-sos-parent-control-features-specs-colours-11793429445556.html
 
-- Pope says most urgent challenge facing AI race is need for institutional ethical framework
-  Pope says 'most urgent' challenge facing AI
-  🔗 https://www.livemint.com/technology/pope-says-most-urgent-challenge-facing-ai-race-is-need-for-institutional-ethical-framework-11793383926439.html
+- Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates - CNBC
+  Stock market rocked as investors dump tech shares; Nasdaq suffers worst day
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVVQzRnJqelRyUjFGQjZLZlhIbGsyQUxabzc5TE1TaEx6TWRnaTRRcXVmanBTWXZ0NmhmZWpHeVZFZ3lSX1kyaEhfMnBVMnprQ0xscEpBZzhOWFZLbnZCcUtDUnJJNmdROEhxOVhSRDdFVDd4THg00gF8QVVfeXFMTmgwT1lfNnJpUlczcFVnQW9lanFWbDZzYXRadlNsNmRoS1NSVURVS1VsRjlsWGlZOGhiTkF2X3FJRzJnTllYaTAxdVRCSjgyUlduRGRQTV9kUzNDdFVyQ0VWUHQ3ODU5bW1hZ0hvS2FubEFWMEJnWnAtdUN0bg?oc=5
 
-- PUBG fans alert! How the battle royale game became a global gaming phenomenon as Netflix develops live-action series
-  PUBG has become one of the world's most recognised battle royale games. With Netflix developing a live-action adaptation, the game's journey and global popularity
-  🔗 https://www.livemint.com/technology/tech-news/pubg-fans-alert-how-the-battle-royale-game-became-a-global-gaming-phenomenon-as-netflix-develops-live-action-series-11793367764704.html
+- China to Convene Meeting on Supporting Stock Market, Reports Say - Bloomberg.com
+  China to Convene Meeting on Supporting
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOendaOF9OYUpHU1R3Q25VVXptSDk0dU1FQkJkcXN2Q0ctRjBzdlNIdHNlcmxIMHFKdlZmM25SZ0pTdUlyMXlGaXBvUFBvZlhFV3VxNks1RGtIQ3FmeXBBNEFDekVYdkFtVC1VR2k2Nl93a0owS0dkaHRaWEpqcFhpdlRIM1MwOVBvNmd4dFJtb0JaeXpjX2otZnZlU0ZBRjh5MllKbzZIc2RnSVJlR2dJWDRDOHA?oc=5
 
-- Muthoot Finance Q2 cons profit jumps 36% YoY to Rs 3,278 crore
-  Muthoot Finance reported a 36% year-on-year rise in consolidated net profit to Rs 3,278 crore in Q2. However, standalone gross NPA ratio rose to 3.87% from 2
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q2-cons-profit-jumps-36-yoy-to-rs-3278-crore/articleshow/135401237.cms
+- 2000 more companies may tap Indian capital markets over next two years, says Sebi - Telegraph India
+  2000 more companies may tap Indian capital markets over next two years,
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNlFWMmdDdmh0WEhDUjVCd3lUdXozNWRJaFh3bmFRNFI3cWpUa0M5NXF5TFJZMUFFejdBaE5UdTJzZTFESjlCMnBRUHpzSXVYcUN1VS12c0J6MWM2UzhQVzZXMlYxcVk5UTdwdHJfVWtUX0hvWWJfQ0pfOGg1OWpLVUVnX1lxTEVfcERCdkl4SHE5bnQzT0pNOWNrRHdseXdKNEhiYU1QNDRJaDhDVDNRNjNCbmpNMTNzbkp1dGc0ejJqSnNUbHB0SEdBTFdjb3UzcE5tYVVxRXDSAd4BQVVfeXFMTXBBT0I0LWpXNWY3eDgzM01yVkExUlVoVHIzX3hhYnlWMFNEQk11bklRSHNJdlY1dWtzUFpzOU8tdkdUbmc5LXI2UWVnbkV6Rk5ZbjFxV3dmbC1fZWc4OENXOFR4UHY4dHZhREVVV1dXMDlwaEtkMnlWVFlQd2txVVAtdFBGSWdyZlFJdHlGS3Y3RFdrQWlGV096aTZHeWY4cEk3YnRxdi03UVlJSC00VktJa09PZEphaEdaS25MVEtMSDZmV21qVlVaTkxLYnJULU5FcUZLdTZVRzlhOHhB?oc=5
 
-- Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey
-  Sebi is likely to release a consultation paper on foreign investor compliance requirements within weeks. The proposed document will explore aligning Indian norms with global standards.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-release-fii-compliance-consultation-paper-within-weeks-says-chairman-tuhin-kanta-pandey/articleshow/135400429.cms
+- Tech stock meltdown could get a lot of worse if history is any guide - Yahoo Finance
+  Tech stock meltdown could get a lot of worse if history is any
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkt3YXFlNWM2S192RVZjYXd4cTFDX2h4MzJRdXY5ZmRGRzJpYi1hamo1Rnk4M0VjZnhWQ2hKcXphQm1pbXhUV00yWFN0UWo4UmhNNmZXMG9oZlNIRzJyRllJMjU3aURXbEZteS1xaHlYazIxSjl0MThaVzVVVGJESmVNRmFPM3VGZjJTcjkyMXptLWpHaHJxbFdwQUVtbDhyU2dRaTctRGlQUHhDWjJOanRRcHdiV0xEN1BGaTBFVklzTW8?oc=5
 
-- US bonds rally, sending yields to biggest monthly decline since 2023
-  US Treasuries experienced a notable rise as technology stock selloffs caused a shift towards safer investments. The yield on the benchmark 10-year note had its largest monthly drop in nearly three years. Earnings reports from Amazon and Intel negatively
-  🔗 https://economictimes.indiatimes.com/markets/bonds/us-bonds-rally-sending-yields-to-biggest-monthly-decline-since-2023/articleshow/135400137.cms
+- Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday - The Economic Times
+  Nifty, Sensex extend gains after rallying up to 2% last week. 4 factors
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdzZqby1tUXlQQmJVTGsweUxROElpc0d2R3dWOUlqRDd2NURvTTF3TlZPcjVrLU9OMVRVTlR4elFBZlMtUW1FY2ZQTk5qS0xYdWZGR3ZrVFN4RHF3c0diazFsdzNSYldIejdDUzFTMDNuOXZsZGs5YjB6aDRMU1hEOHBSR1I1TGQ2YnJwVXo4dkRlOWFTVHNVSXBOYktoZ0hGaXpLdlh6SDZrVVIySWVwSTlJUUt5czc1UVJzcE5icHZ5X3ZrYUJraUxQZGktNHNYRU9HcWVBT1NzNC1fYjdBVXlXQXJ0RS1uVEhEMEF4c2lMbXJ5czlIbdIB_gFBVV95cUxOczFHeFpmSWo1T2JOb0dxR2FGcVgtZGhmWk96MVNuWXFjdWFDdGl6X3Z4Z0l2bjlmelZvSkQ4VnVjbVM2Z3YwR0ctRGJ1WVNud2tRQkpERmludGwxV3UtV2puTnRZeC0zOTJ6ejZTcWRndmw1T0xfcTlTTzFYUmRRY3huZksyZ19NN2d6NjB5ei1ORy1CQ3J5T3dHbnluR0pPeXlRbnpHYkwwVlRpNUJra0N3SHNwYXlHTEstRmdwRUJHRzA3cW42VFBzV09vczFBSlZWc1VaT2lnZ0xhb2tjRG1QMy1qVFk3cUgtQnQ2ZTVjTGRkMEUzWHB3MEVnQQ?oc=5
 
-- NTPC Q2 Results: Standalone profit rises 14% YoY to Rs 5,320 crore; revenue up 17%
-  The operational revenue saw a notable rise of 16.8% from the same quarter last year. An interim dividend of Rs 3 per share was announced for shareholders. NTPC is also increasing its capital expenditure on pumped storage initiatives.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-q2-results-net-profit-rises-14-yoy-to-rs-5320-crore-revenue-up-17/articleshow/135399399.cms
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  Sensex and Nifty ended the week up about 0.5%, supported by resilient large-cap, IT and healthcare stocks. However, midcap and smallcap indices
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135426334.cms
 
-- Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?
-  The Nifty gained 2% last week, recovering above the crucial 200-week moving average at 22,700. Analysts identify 23,300–23,450 as immediate resistance and 22,750–
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-weak-ahead-nifty-stands-on-firmer-footing-but-can-it-break-past-23450/articleshow/135396431.cms
+- Good intentions, unintended consequences: The cost of regulation
+   Regulation is vital for protecting consumers and building trust. But unpredictable or poorly calibrated policy changes can
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/good-intentions-unintended-consequences-the-cost-of-regulation/articleshow/135422850.cms
+
+- Global beverage majors advance India IPO plans, from DRHP filing to board approval
+  Carlsberg has filed an updated draft red herring prospectus for its potential IPO in India. Pernod Ricard continues to prepare for its proposed listing while awaiting board approval for its Indian business. Coca-Cola is exploring a
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/global-beverage-majors-advance-india-ipo-plans-from-drhp-filing-to-board-approval/articleshow/135422834.cms
+
+- 10 penny stocks plunge up to 70% in three months. Do you own any?
+  Ten actively traded penny stocks have fallen between 34% and 73% over the past three months. Cropster Agro recorded the steepest decline at 73%, followed by Bridge Securities and Empower
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-70-in-three-months-do-you-own-any/slideshow/135420900.cms
+
+- IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings
+  In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore. This profitability surge defied the ongoing freeze on petrol and diesel prices since May.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms
+
+- Meesho’s Next Monetisation Engines
+  Meesho has spent much of its journey building scale in India’s value commerce market. Its low-cost marketplace model has helped.
+  🔗 https://inc42.com/features/meeshos-next-monetisation-engines/
+
+- Netflix Flips Its India Script
+  What if Netflix’s next big hit in India is not an expensive scripted original, but a reality show with a&#8230;
+  🔗 https://inc42.com/features/netflix-flips-its-india-script/
 
 - Here’s Why Doctors Are Betting On Docterz’s Hospital Management Software
   Doctors are betting on Docterz’s Hospital Management Software. Like any business, doctors also need to manage their schedules and patient records.
@@ -112,13 +140,25 @@
   StockGro-parent AssetGro Fintech Ltd net profit for the fiscal year FY26 jumped threefold while its operating revenue doubled year-on
   🔗 https://inc42.com/buzz/ipo-bound-stockgros-fy26-profit-jumps-3-3x-yoy-to-%e2%82%b9113-cr-revenue-doubles/
 
-- New-Age Tech Stocks Gain This Week Led By Ather & Zetwerk, CarTrade Sinks 22%
-  New-age tech stocks largely advanced this week, with quarterly earnings driving sharp moves in individual counters. Ather &amp; Zetwerk, CarTrade Sinks 22%.
-  🔗 https://inc42.com/buzz/new-age-tech-stocks-gain-this-week-led-by-ather-zetwerk-cartrade-sinks-22/
+- 'Chalo Dilli' protests: Rahul Gandhi assures 'legal action against PM Modi'; Kharge says 'we're not afraid to fight' | LIVE - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPLTZLLUNHUGpmZDUyNEF5TUhvM1J5QVdmdmtEZHNkbWJBRHNHeVo4YUFZMm82WlkzaFJYMXp4TFgzRWIzZFdYMFMtYzNWU1llWWJHVDJBYWFFZVRfSGk2RmpyZ1M2Sko0QX
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPLTZLLUNHUGpmZDUyNEF5TUhvM1J5QVdmdmtEZHNkbWJBRHNHeVo4YUFZMm82WlkzaFJYMXp4TFgzRWIzZFdYMFMtYzNWU1llWWJHVDJBYWFFZVRfSGk2RmpyZ1M2Sko0QXlsMW52QjZqV3ZKMEtoWXV0VFZFTTRzNTVEY2Nrb2NTX05FMWtxS2FRZE5fRjZ1X3E2WkJ2cjFGbUQ1V1FoXzhZWDZ5WGFRNG5LaTlfcXlCZ3pkRUZ5RDJNa0ZFS0VRZXBuQXdJQU5lY1hKZ1kzNWhWY0Z5NDNWblMtTk5KaEUzZy1KaVJMbl9CdWNoTlF1b09BZmZlWUEt0gGHAkFVX3lxTFBCeENKcEJqU1c0YWdSenItQ1d0NkQ1NG9Ya3c4UmNVUlJGLW5fdG5sS2JlNEZjN1JmN0JlRmZRRWFjZFJBT25FeHZIN094NjdMVG5aQ2h5Yk1Ed1o5OVVwLXZpR1IzTHczOUpEWG9PNDVnRDdXbXEwbFJfbmdqNXdyZU5XNFJvb2F3OE5CYTNMOXFFeHJlWi1nMTJCYVBrWEU0WUc4RDBXSUxpN2FQTUdYSGRFNnlHOHdMUnI2SEJvNjEyMFZkM3pfcUNIb2c3WDlua1BZWTVobnl6LVZVYUg1UERPbDhETWQydWxxZjVFYTJTUnYtWEZxc3VCQTl1LXM0S2tjbkJr?oc=5
 
-- E2W Registrations Rise 2.9% MoM To 2.15 Lakh In October, TVS & Hero Gain Market Share
-  India’s electric two-wheeler (E2W) registrations rose 2.9% to 2,14,654 units in October from 2,08,688 units in September. TVS Motor&
-  🔗 https://inc42.com/buzz/e2w-registrations-rise-2-9-mom-to-2-15-lakh-in-october-tvs-hero-gain-market-share/
+- ‘Remove Modi to save democracy’: Congress chief Kharge attacks PM at INDIA bloc rally - The Hindu
+  ‘Remove Modi to save democracy’: Congress chief Kh
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDJDeUJCMWhsUi1oNE5DSUFVVjZLc0U3RWxORV9XSDJMRUtTbnl1VlpZN0RhRlF5ZG90dVk2VnNTbFFWVFcwTDRYODlRemQzaDdtNzBGVW1paTVfTWpDemtJa3BsSXFkODc3N29kakRSUmJLSXlualQ3NkZJWDI3X0g3RlZoQVNQZkprMlNlMDFxSlZJNXZFWU10N2hBXzJIeUYyRDhNRjFoZ25TczlZ0gG2AUFVX3lxTE9tOFRoMHpiR055NVk4cHdfRFdmVEZ1OS0za3JJcGozZFpORmRqTGNJcFJ1VTZDT0hHVVNkRGRrZzZGcnZpSjE1UjdJRXpzdmJyMW81LWl6Sm9aRXdNTlZKSjY3cXRxZXdUNVdQSzdEWWdrQzdleF9LN1pZdHBjWjhVeFdsSC05TXYycFZyaG5sa0dmdW5obVVwR0w5WlQwMmFrRmN5QnhBemJCcDNLNC13UzNSZjJB?oc=5
+
+- Indian forces tighten security in Delhi ahead of big opposition protest - The Guardian
+  Indian forces tighten security in Delhi ahead of big opposition
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2xyVE1yam1FZWVoS245c2dRUDhKWmxOalJWOW1WdldXcTg1dUNJMUl3WjdwdFBOenV5ODBZcVVhNDlIRnBNLWxZSWJRVHp4OVlHYkFHRVpQbEw3TEZlcURpZy1sVkd3R0Y4TTdtUTBTWktKYTFMdTRHdlRndFJMbDFQZnNteWVXeHc?oc=5
+
+- India joins 24 countries in global initiative on 6G technology | Akashvani News - News On AIR
+  India joins 24 countries in global initiative on 6G technology.
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5
+
+- 24 years later: Pakistan recreate India's Lord's magic with record-equalling chase - The Times of India
+  24 years later: Pakistan recreate India's Lord's magic with
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaTVOdUJXeWFZYTZ2WkVXVXlJaktLNi0xRnFUdUtPckZlNFZHUVIwVGMxZkJPSVhoT2lla3NpQWY3TFJVNmFpdTVMZ1VjcVRqRzhGTDhOWmd6WmU0dkp4NnMwT09JNEc4OEZCenRLbDR0WEVSenNXbUxUNl91emNFSmJYYmk1YjNSNGgtdVBzcDRzQzF3NnFGN0JqYXgtcEhvNElmbXVmbWpRWlFDWGpMSk9wakM5NFp1R1dDLTFyUnpSZ3AxT3pGUmowVm9ReGFSZHc2YXo3MVg3NERQVWQtSXluVG9McHNMWjVPMnUyc3hFQdIB9wFBVV95cUxOTUxHYzJuUDJsVWtkYXU1SjZaWFUtcTdMMEhWY3ZSMmJKUkNnNWp5M1BIZ0FBTlpIS0RtbHc4bm55WGxFZTRNR29GdHV2Qm8wdTc2UjcybUhDWjR6aV91RHFOMWJZR2xQaFVZSVMzLWFxcFNaNl9oQjFWcWszbU54OXhEYjdtT3pDbl9fcHJGTHhfOUFvelhjWGJtcEdUemVERmpHVzI2QmJZUFRFQXhrc0dxanlkUlVYSllGUlBoa25kMk51OXBnWXo3d2lMREtKc1NjcmFhVHA5Q29MRExSYml0MHpjSFN3aEhyQko5Ny1remhkWUtR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -149,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-01 03:54:23 UTC_
+_Last updated: 2026-11-01 12:35:14 UTC_
