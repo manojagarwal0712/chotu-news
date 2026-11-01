@@ -1,8 +1,8 @@
 # 📰 Daily News Summaries
 
-- Shetty Institute of Technology hosts TechNova and NextGen Hackathon in Kalaburagi - The Hindu
-  Shetty Institute of Technology hosts TechNova
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNenEtRlJodGNwZFdxOGlteGtxd0lRX0pqUTJtX3pDMlR6ZnU4WnNmb2FOYmFRMWdlaElIcWR6U2daSFEyRTZfWDQyMmY1dkMzc0xtX3d5TzZ2NjZGQWxSTFR1ODhzX1JLdW5WdkRZUnF4dkhNT29OZWx1eFN4YmpXbUx0aTg2UkdGVU9SZGo1X2ZDT2FPdGloZTdzQkhDelcyLVl5Mjl5OVQwM3kzYi10VFd5VmFGRWUxWEo3SHBJRTg4LXJOWmtub1hkRlJjWW4ydTROTlVDeEpIWm5wN21qV2lwbnDSAesBQVVfeXFMT1BweTdsR3ViRXRGZmQ4NDZubWpBTUZtaldzemZQd3JXX3BsVWVhbGlsYkpTT3RCbHYzbm5sYXlYU3IwQm1LWXR5TV9qVUhEVDA3eUJ2MmV2aWRaTEhqMTFaY21fb1hqaE9mLURRd2phbzFxVmpJcGpOa21JWFo4bFEzN1lpRDc3RVhXX21CZHNJLUxkS2JyVUZLY0NPNGM3SHMzUnhrRWdxUG02RFZTTERMV1VRbHVLc0JBMmlTamxhZEF4ODJCUGx5RklsRlgzbWVtZC1MU3ZlaU44LVR1bk1TRGp6WVo3d2FUWQ?oc=5
+- Keralam aims to become India’s best State with focus on technology, maritime economy and jobs, says CM Satheesan - The Hindu
+  Keralam aims to become India's best State with focus on technology, maritime economy
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQa1Bjb0R1Z0Z4R0dlM3JaVTBhSjB4UkFjdktobTM1UkNMN2t4dmYtb2ZmbTNKQ1RWbG5lUkNUY0RLYXU4NldyazBXQ0lKUW1fTmhqSmdjVFhCZXRFTndLazFIdkpoeWxES2RRRVN2YVY5aVo1c1haN1lrWVYzekRkUVRpS29uNkhkci0wYXM5UlNEWTBoTWM1MHQ2cWhlVVo2RDhoYjdSRmhEOGdVMWpVV0w1aG02blRsNmxnWHI2R0hKSVpBMVBFc2ROYzhic1g4VmtrYlp2eUpySGRMR3pmV1lMclpFQmxFemZHVjBHaFNSNEpTdldKODVMVFc5bWowanlhYjlB0gGMAkFVX3lxTE1PX2FwajhrVkl1bmZIZE5vLW1iTEVFb01BR1VCRFcza3lFbEFCekpUZHVqVzhBZjBoNkc1TEVLd0ZCODRWblk2Uk5qeUVwSjdEOGdyUG85UWphSDJhNUoweUg2aVJuaEhTdTQzdzBHYmwzS2ZadzU0N1lPUHRUU2R4UkVtR0dSdEpad19vd2NHVWJRS09uUFM0S3NERnA0RjdaQUNJZzBSS0VWbE5PYmx5dWlwMVNSd0dVNW0xcnZWOHFFSDJqR2p1M3YyejNlQnE1NWRVNWJxN2kxbDJZcEJmV25xUXJHX2lIS3EycjRmUXYzWnFFVHJlQzBKdFdpeG56bEFXYmZ4cG9yNmU?oc=5
 
 - Ananth Technologies supplies critical avionics, electronics systems for ISRO's GSLV-F18, NVS-03 mission - ET Government
   Ananth Technologies supplies critical avionics, electronics systems for
@@ -16,29 +16,69 @@
   Technology educator wins 5th Rohini Nayyar
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzVZZTNXdmotMkViQ1UwLUZncEF6NDI2eUx0OS1jNHQxZ2xEblpFWUY0cWdxRWpLWGhudnJNc0N4ZmE0N1o2Zl9YVTZzRkM5QnNObXAzMlQzQVZRYV9tMHFUblEzNXZTcVMzQUxuS1NVaXdmbGhkMzRsUi04RldlUU0xMjNLRFM5STJlaTNQOE14ck0wQ3oxSm96cFBndkp1d1pwbFBybG13QjF5REVkVDJMN2c2STdKTVVzOGpB0gHDAUFVX3lxTE1ybXlyY2hiTF9FRXlNQjh2VGR4OXFfQlB1X1ctVHo3cDFrU3ptR0FrNElXVkpYamd4bWROUVdVTm05UUJBNjR5QmN1ZmRhM09JeFRpd1I0VlphQ1JvOW05aWtmWFBQaVhoZVFFZzFKTmU3QVV5RjRyMk5INmdNR0QyTVlvTkdCWHVUZElXdG5TaU5oWEJMemV6MVhfZlRZUnE3YVlyNFJTVkFKWmR0UnBlSmItQ1VzTy1ZUWJWd1owZXluWQ?oc=5
 
-- Say goodbye to boarding passes and passports at airports - BusinessTech
-  Say goodbye to boarding passes and passports
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTZTRlNGNVBVTU91eXhySWNfY3YxTmh2akRQdG5PdURGbnRTVy1kdFZ1RldfNmxNVjAxZWpHbm5pNjQtMmQ4YW9mZ3VHZDE2aDRwT0hVNG5vXzB1cml4MUZCdHMtdWxrZ2NFdG1ONHQzN2gzWU16RUVta1lnMXhiT0tuZGxRR2p0d0tnUHlzYnM1R1VraTBXbmpGOVo0QVFGaGVwOTExVTdWRDQ?oc=5
+- Jaishankar calls for stronger Quad cooperation on supply chains, technology and energy security - Firstpost
+  Jaishankar calls for stronger Quad cooperation on supply
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTVmczNGbldCalVxdWRrT3JOOXU5U0g1a0ZQU2FBUFdUdVpvZlZ5YlRIZUtNY0F6N1JQZ1pfeHNoNkJ6bGdmQkdMcFQ5c3oyWDE2T0h6b3VWRGQ5NFQzb2drQzJUcTdEZnFSdUJmUF85RnlvbVdvT3RCRHZYNzFEdHVYTWVvaVhJZHAtUVBVSjExTjZsZmdrc0JYVlR0RWdqdnlkeTNrYnRYV0dGYkRyOUJHNWVNdG1LMTA1T1N4QTVnc2hsU205Y2JLbVBZNFYwLXdxSDRWZ9IB3AFBVV95cUxQNlotdmZhZHVPaGI4ZnZzay1MRzRET01nc3VwMzR6S3dSUHY0OHB3OEsxUzVhb0o3d0t6aTlaeWhwSExjcTBmWDVxYXRhYlgxeWFsY0lVSFVlN2IwNmt2elhUcjViX25uRXZGckdzb2lxSTZlTVBrMUd5ZG11akdmMFliaVJCNHloMHZ2OGxwY2pBQU1HM2llMzJPZnFQYTZ1cWVGUEpTWXMtS2c3ZkZoOWhPcjEtQnZBUHh6U0xXS1J4Rkh0blNvdnNQWmR6QkpKbGVTY0NDeEtTUzFj?oc=5
 
-- Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates - CNBC
-  Stock market rocked as investors dump tech shares; Nasdaq suffers worst day
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVVQzRnJqelRyUjFGQjZLZlhIbGsyQUxabzc5TE1TaEx6TWRnaTRRcXVmanBTWXZ0NmhmZWpHeVZFZ3lSX1kyaEhfMnBVMnprQ0xscEpBZzhOWFZLbnZCcUtDUnJJNmdROEhxOVhSRDdFVDd4THg00gF8QVVfeXFMTmgwT1lfNnJpUlczcFVnQW9lanFWbDZzYXRadlNsNmRoS1NSVURVS1VsRjlsWGlZOGhiTkF2X3FJRzJnTllYaTAxdVRCSjgyUlduRGRQTV9kUzNDdFVyQ0VWUHQ3ODU5bW1hZ0hvS2FubEFWMEJnWnAtdUN0bg?oc=5
+- Warren Buffett hasn’t had water in 50 years; billionaire investor Bill Ackman reveals | Watch video
+   Buffett is known for drinking five cans of Coke daily. Bill Ackman recalled that Warren Buffett declined water at a dinner.
+  🔗 https://www.livemint.com/companies/people/warren-buffett-hasn-t-had-water-in-50-years-billionaire-investor-bill-ackman-reveals-watch-video-11793501176579.html
 
-- The real question we should all be asking about AI - CNN
-  The real question we should all be asking
-  🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE9qZ3JlNnk1blNjRnBVN0NIQWcxS19rMWhsSFFOenQxT0JQVzUtTldqU0RhSTdHSEVoZkpqLWtzZDdPazdtbTJxeVVpR0VGS2hIZkItbzN2cFFHMFJCUEd2M2VGMzFZa0w0M3QtRg?oc=5
+- Who is Alice Huang? US accuses ex-Megaspeed exec linked to Nvidia CEO Jensen Huang of spying for China: What we know
+  Former Megaspeed top executive Alice Huang’s links to Nvidia CEO Jensen Huang have come under scrutiny amid reports of suspected intelligence sharing
+  🔗 https://www.livemint.com/companies/news/who-is-alice-huang-us-accuses-ex-megaspeed-exec-linked-to-nvidia-ceo-jensen-huang-of-spying-for-china-what-we-know-11793496869990.html
 
-- Tech stock meltdown could get a lot of worse if history is any guide - Yahoo Finance
-  Tech stock meltdown could get a lot of worse if history is any
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkt3YXFlNWM2S192RVZjYXd4cTFDX2h4MzJRdXY5ZmRGRzJpYi1hamo1Rnk4M0VjZnhWQ2hKcXphQm1pbXhUV00yWFN0UWo4UmhNNmZXMG9oZlNIRzJyRllJMjU3aURXbEZteS1xaHlYazIxSjl0MThaVzVVVGJESmVNRmFPM3VGZjJTcjkyMXptLWpHaHJxbFdwQUVtbDhyU2dRaTctRGlQUHhDWjJOanRRcHdiV0xEN1BGaTBFVklzTW8?oc=5
+- French billionaire Xavier Niel gets CCI nod for 16.2% Vodafone stake: What is the €5.1 billion deal?
+  French billionaire Xavier Niel's €5.1 billion deal to acquire a 16.2% stake in Vodafone Group through his investment vehicle Vega SAS
+  🔗 https://www.livemint.com/companies/people/french-billionaire-xavier-niel-gets-cci-nod-for-16-2-vodafone-stake-what-is-the-5-1-billion-deal-11793459486004.html
 
-- Market drop wipes out more than a trillion dollars in value - NBC News
-  Market drop wipes out more than a trillion dollars in
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0JYMXlBYjZDZzdiS0k0M205UDhCUHQ4N19NbHd5Tm1tQl9ES2F4UVVKWlRlSldIYW84TmZGaWhyVHAyVGFoaS1uUVBqWmx5S180cDJFMHc4eXQ4aGN4ZWhIeUtzTHJ3bXJNNkhJSG5yZXY1OUd5dTN2Y0kteTl2SHJhLVNEQXBNbFJybGJQN3plUXRkQzFDVUdCOTM0Q01yZUpJTkE4N0dWT1BRQkd4SEkwNllGdw?oc=5
+- LANXESS and BPCL partner to advance specialty lubricant solutions in India
+  The partnership leverages LANXESS' global lubricant additive expertise, formulation capabilities, and existing OEM relationships. BPCL
+  🔗 https://www.livemint.com/companies/news/lanxess-and-bpcl-partner-to-advance-specialty-lubricant-solutions-in-india-11793460196080.html
 
-- Is this the first clear evidence of AI’s impact on the labour market? - Financial Times
-  Is this the first clear evidence of AI’s impact
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2tua2N2em9IbjlkVHVMaHU4OG5aMmdUbktsenRyN2RNVUo1dHduaU45Z2o0ek5BRXZBUllMLVVjWTQxR1RwcWNXeWFIRG5rRGpOWGtjR09VS2dxVXJnX1U2M3FQVVk2Tm9nc0FBMFA5T3NLM0FNbzV6em1GdGdWWmo3NV8?oc=5
+- The Morning Show star Reese Witherspoon takes back control of Hello Sunshine, but why is firm cutting 50% of workforce?
+  Reese Witherspoon's production company Hello Sunshine has reportedly laid off around 30 employees. The company is moving away from direct-to-consumer ventures.
+  🔗 https://www.livemint.com/companies/news/the-morning-show-star-reese-witherspoon-takes-back-control-of-hello-sunshine-but-why-is-firm-cutting-50-of-workforce-11793457667805.html
+
+- Binance crypto theft: Here's how North Korean hackers perfected the heist, stole $6.3 billion in 20 minutes | Details
+  The FBI has blamed North Korea for the record $6.3 billion Binance theft. Researchers say the hackers moved billions within minutes and rapidly erased evidence.
+  🔗 https://www.livemint.com/market/cryptocurrency/binance-crypto-theft-heres-how-north-korean-hackers-perfected-the-heist-stole-6-3-billion-in-20-minutes-details-11793500918241.html
+
+- Best stocks to buy under  ₹100: Sumeet Bagadia recommends 3 shares to buy — SJVN, NHPC, Bank of Maharashtra | Targets
+  Immediate support for the Nifty 50 index is placed at 22,800–22,900. 23,
+  🔗 https://www.livemint.com/market/stock-market-news/best-stocks-to-buy-under-rs-100-sumeet-bagadia-recommends-3-shares-to-buy-sjvn-nhpc-bank-of-maharashtra-targets-11793466108474.html
+
+- Carlyle, KKR Get Ready to Snatch Up Bargain Loans
+  Carlyle Group Inc., KKR &amp; Co. and Oaktree Capital Management are among the money
+  🔗 https://www.livemint.com/market/carlyle-kkr-get-ready-to-snatch-up-bargain-loans-11793474974693.html
+
+- Why did investors dump technology stocks this week? AI spending concerns trigger Wall Street sell-off
+  Heavy investments in data centres, weakening free cash flows and disappointing
+  🔗 https://www.livemint.com/market/stock-market-news/why-did-investors-dump-technology-stocks-this-week-ai-spending-concerns-trigger-wall-street-selloff-11793468909464.html
+
+- Binance replaces 90% of stolen crypto after record $6.3 billion hack, pledges to cover remaining losses
+  Binance, the world's largest cryptocurrency exchange, sought to reassure customers that their funds remained safe. More than $6 billion worth of digital
+  🔗 https://www.livemint.com/market/cryptocurrency/binance-replaces-90-of-stolen-crypto-after-record-6-3-billion-hack-pledges-to-cover-remaining-losses-11793469971870.html
+
+- IT hardware reseller lists GPUs from decommissioned Nvidia supercomputer on eBay for $60 million — What we know
+  A reseller listed a decommissioned NVIDIA supercomputer on eBay for $59.7 million. The system includes 300
+  🔗 https://www.livemint.com/technology/nvidia-supercomputer-decommissioned-ebay-sale-a100-chips-gpus-it-hardware-reseller-60-million-best-offer-free-shipping-11793434326099.html
+
+- AI search gains 3-fold influence over traditional search in shopping decisions: McKinsey
+  Nearly one-third of AI shoppers identify them as the biggest factor behind their most recent purchase, a report by McKinsey says.
+  🔗 https://www.livemint.com/technology/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey-11793434097444.html
+
+- HMD unveils new Nokia 2360 Flip phone for seniors with family assist, SOS features: Check specs, colours and more
+  HMD unveils Nokia 2360 Flip 2G phone for senior citizens. Features include family assist, SOS and parental control.
+  🔗 https://www.livemint.com/technology/gadgets/hmd-unveils-new-nokia-2360-flip-phone-india-launch-price-seniors-family-assist-sos-parent-control-features-specs-colours-11793429445556.html
+
+- Pope says most urgent challenge facing AI race is need for institutional ethical framework
+  Pope says 'most urgent' challenge facing AI
+  🔗 https://www.livemint.com/technology/pope-says-most-urgent-challenge-facing-ai-race-is-need-for-institutional-ethical-framework-11793383926439.html
+
+- PUBG fans alert! How the battle royale game became a global gaming phenomenon as Netflix develops live-action series
+  PUBG has become one of the world's most recognised battle royale games. With Netflix developing a live-action adaptation, the game's journey and global popularity
+  🔗 https://www.livemint.com/technology/tech-news/pubg-fans-alert-how-the-battle-royale-game-became-a-global-gaming-phenomenon-as-netflix-develops-live-action-series-11793367764704.html
 
 - Muthoot Finance Q2 cons profit jumps 36% YoY to Rs 3,278 crore
   Muthoot Finance reported a 36% year-on-year rise in consolidated net profit to Rs 3,278 crore in Q2. However, standalone gross NPA ratio rose to 3.87% from 2
@@ -60,25 +100,9 @@
   The Nifty gained 2% last week, recovering above the crucial 200-week moving average at 22,700. Analysts identify 23,300–23,450 as immediate resistance and 22,750–
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-weak-ahead-nifty-stands-on-firmer-footing-but-can-it-break-past-23450/articleshow/135396431.cms
 
-- India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
-  India's Extreme Poverty Drops From 27.1% To
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
-
-- Uttarakhand helicopter crash reiterates concerns raised by Parliamentary panel - The Times of India
-  Uttarakhand helicopter crash reiterates concerns raised
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZkNsQWhvbXNfekd3RDlxRV9iVzdvckFQLWNndUJ2a2NNakNoQllfaE1waW42azF0bmVXZTRJQW5sUEVhQUx6N3F1SmhLVnNYTkpwLWR5ZU1mRVM2dHlsczFlSXdaMnYtc2p3NzJCN0h1X0t5QmxJQkFQbXh5UVhlUmgtajFFcXRaTFVSb1p2YlNZT2pRV2NHalN1bkNQZkdTVnZ4RWJVX2R0Qm9vbTNiUE5nX1poRGFLeTRHTUZJTDN0VTFuRzR6Z1kzaHZsYWxhSWxORVBGa0RTLTVuRGR30gHkAUFVX3lxTFBIdTN0Z0haV2twX3NtNnlaZzJYY21Ld2hCRG9LVURwczN3N3M5YTRYM01xcFZ0MnF2ZUU3SmxxZWFkSjEwdnFiODREV3Y2R3ZUY0ZVMmlGZ2hDZzRGaWxJTjlyaWdfQjhUN05ZSnl1aVVBNjlzRTU4bTh2R3NoZmVhOXlDSzlLNktfRjZuR0t4UlpWSjBDTEZUcmxzY05LT1pKZmlUZDVvZk1DZjdIUk91dnZ6M2tCaGxVV1NKSTRGd0RSaHYzV1hhR3YtWTBIa1V6cE5pN25WanNmbzh5ZUh5QVI3Ng?oc=5
-
-- 'Cause Not Established': Bengaluru 5-Star Hotel's 1st Statement On Pool Deaths - NDTV
-  'Cause Not Established': Bengaluru 5
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUFGeXMyTUFkOFROY3JYcE1MT2JtemVXODFJNUdySzEzNXRNN0FHZUZoMlpJUTQyLXEzM1g1aGdCaktsMS1WMXRaTXdHUkhRMklsOWlzb1VsNHFLNnFfcHJEenlSbElWQm13SnVYeWR2bUJxZ1BKd0NsQlh3OFJFcTNnTHZzMkIyVTFpeDBfVFBfcks5ZnlZdzNBdU1WYlNZc3A1bFVGdVN0Y2Z6aWNDZ0ZZWU91QdIBvgFBVV95cUxQUXFpYXNUMkpMMFFfVzN3UVZQTkZNWlRmZXF3cDF4eDNuSGQyYzBjMTBJUnEwZGY1WmQtZEhYelctZDNiRmZscXBWUzhuUGx2Z2tGNUNrZ1hIU3lBVko5ZFJJR1RzUGFfUUdGZVFub2ptdlc4QTBuZTFOcENrSXMwUmUxeGhhZjhmQ2tpTFJUMEI0VTYtYWRqVUxDSkFkTkFwbVI5VnlLYmI2d2ZjVW9aQ1dfUXZUNXBKd2UzN21B?oc=5
-
-- Slovakian couple had come for a holiday to India, man died hours after checking into Conrad - The Hindu
-  Slovakian couple had come for a holiday to India, man died
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN2x6SFJ0STdaaUpPNjZQdUEzRFdnU20zaWNmWG5nNnpiT2xiZzlrQXl0ak16SHhBUDNuSldVR0tHNWNBcFJiZ25KZ2g5M1I2NjhrVzg4OUltQ1gzUkE2b0FUSkxMSmo1VHNfNHEwSTdqWkJnRzJjR0dZdGlyQzRpXzRvZkktSml0cVIzbUtHaWFHUXpHUGxhMXMwUXBLMWwzTUx0MTVjV1pIOGo1d1JnX0lEUkNPYUNwZ3lRRzN5N2ZDanBCZk1TXzNtbjZ0S0dOS2lhcDVEZGo5UG5lWWJfWkc5RzgtRnI3bi1WTjZTMmfSAfcBQVVfeXFMT2xmMGJFUzhVTV9ZR3hVN3FHbmd5bTd1dm8wX2ZqbHJ5b1lkV2NOMjBMYTR2bGlFcmlqMWRvMGlaSlUtQ2pSTzlyWFY1TkJfbGRNQV9ZRTNWWGlnLWVfcG1JNU83OVByRE1xazBIUnRxQXJONWlrTHF1amhhei1fdWpDUWlzZnEzOVZKUkgxMkRpbzBiZU15NUxuTjZqRWtLdlRaSmZRNFFvb0VnbVA4SlBHcXlCR2dXUmV5VjhNTXVzR0pJUVY0dE85OVhxRXhKMVZjT0F3MFZnM2VHV2Vwb1lpc2tfMHpYTXJ6NldMRHgxeTZlaDZ1VQ?oc=5
-
-- Lufthansa crew among 2 foreign nationals dead in suspected electrocution at Bengaluru hotel pool | India News - Hindustan Times
-  Lufthansa crew among 2 foreign nationals dead in suspected electrocution
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNeU43aFF5dlZQeU50Nm9HUjJrT0M5ellTYms0X1Q0OGlmSFRqLWxObF9QSlozYXhMUXhoWEFXT1BRSl9oVHZiWnkwTllkMTM0dWFveG11aDA5S2FBQjJvVlNGYXRDYVhWbG9QOFV0a0UxdlFxSG52eTdMckVvOUN6b0Q2SkljWmpoSkx5Um9HcGhQVGNvcVR3SENUWVV4S21rY3l1d25veXNCa3BPaHhQM0w2aEtpSzRqSEVaOVdUR3FxMTV6T2tIbzk2SzZwOUJxVTBaLXhvWFJ1TmlZSWZORmR3bDlTRk9zTW83Tlc0Y0ZZUmpQUlFYRTd5WHpDMml3R1ZScncxOHlSRngybXpDRlF30gGXAkFVX3lxTE9xZ0hhbGtfUVBDNnhVOHJtZWU5WGpvME9KRl90cVZaS1JqdDNJNjFoMUNQSENNeV9NckhvWGlIWlEwREhyQXFXb0tWMjJqaUpkOWRKLUtPSzRpdVRPMlFGMkVTenU0elhEVzdDRzlDcDVrREFXOTVmemNUY1E3ZWZvQUhfWkNyY0VwbGNoX0xuYlpRbHpuSHZFa1k0Z3BpV0QySjN0bi1JZXJlR0M0TlhZZjlZQkRjckh6ZGlxRU00bjM4bkNGSFFjMjlNUXZfaktiSVJqZFZiRTU2NTctQXE5QlpMS2I1ZGM0d3ZFZ2FtR3BnUTJCWk0tY3Z5UHBZLXlKc0x2MFR0RHBKUTZoYTUzUy0wajlWWQ?oc=5
+- Here’s Why Doctors Are Betting On Docterz’s Hospital Management Software
+  Doctors are betting on Docterz’s Hospital Management Software. Like any business, doctors also need to manage their schedules and patient records.
+  🔗 https://inc42.com/buzz/heres-why-doctors-are-betting-on-docterzs-hospital-management-software/
 
 - ED Arrests Armstrong Exchange Founder Over Alleged Online Betting Scam
   The Enforcement Directorate (ED) has arrested Armstrong Exchange founder Sagar Dash in connection with an alleged online gaming and betting.
@@ -95,30 +119,6 @@
 - E2W Registrations Rise 2.9% MoM To 2.15 Lakh In October, TVS & Hero Gain Market Share
   India’s electric two-wheeler (E2W) registrations rose 2.9% to 2,14,654 units in October from 2,08,688 units in September. TVS Motor&
   🔗 https://inc42.com/buzz/e2w-registrations-rise-2-9-mom-to-2-15-lakh-in-october-tvs-hero-gain-market-share/
-
-- [Update] Forensic Audit Finds External Breach Behind €3 Mn Capillary Fraud
-  Capillary Technologies’ Subsidiary Hit By €3 Mn Cyber Fraud. A forensic audit by KPMG has found the €3.04 Mn banking fraud.
-  🔗 https://inc42.com/buzz/capillary-technologies-subsidiary-hit-by-e3-mn-cyber-fraud/
-
-- India's Extreme Poverty Drops From 27.1% To 2.6% In 12 Years: World Bank - NDTV
-  India's Extreme Poverty Drops From 27.1% To
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEZYWm9iT3ZyLVhKd1dSbzJqSWtPR3Z0cXFPQkxMLVhpcGgtZHF2YjFYbzlEV2lzdEYwQlZYcDhqSEtXaWV0RW1Ec0J3TkVUdWgta2xhVy1uRnVnS3NBS19OZzdUTmp3STNEbHZscG1sZXpWN1dnYUlNbXhZLWpwMERwZlVLR25BeVE2Z3lLXzZiRFhmTUhKWmdudGNJSHQwMHE3alN4eVpJVWFMSUk5UFRPMzk3T3BwRjlCdUJWS1NTV2vSAcsBQVVfeXFMTmFPZzJ4ZkNRTHUzc2kzU0trMHVCNDVpbWFkXzRla3AxUmQ5UlhyM0lCUFdnaWd3bWxnbHBGeUo3MU10Mnp1WlNUY3piUUcxcWY5dnhMc1ktN2w1X010b2xuWm1wczlQY2tVTU51Zm1HV25pai1naThwU25uVVRCZkZNOVVHN2F0VUwyaUVqLXM0dDdvbGxuaVBTaThCbG5rMURBamJ5ZmNMekZ2OGhHaW04SUNaWDlQNTN6WUFLR2hlNl8yUEdzT3lqSW8?oc=5
-
-- Uttarakhand helicopter crash reiterates concerns raised by Parliamentary panel - The Times of India
-  Uttarakhand helicopter crash reiterates concerns raised
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZkNsQWhvbXNfekd3RDlxRV9iVzdvckFQLWNndUJ2a2NNakNoQllfaE1waW42azF0bmVXZTRJQW5sUEVhQUx6N3F1SmhLVnNYTkpwLWR5ZU1mRVM2dHlsczFlSXdaMnYtc2p3NzJCN0h1X0t5QmxJQkFQbXh5UVhlUmgtajFFcXRaTFVSb1p2YlNZT2pRV2NHalN1bkNQZkdTVnZ4RWJVX2R0Qm9vbTNiUE5nX1poRGFLeTRHTUZJTDN0VTFuRzR6Z1kzaHZsYWxhSWxORVBGa0RTLTVuRGR30gHkAUFVX3lxTFBIdTN0Z0haV2twX3NtNnlaZzJYY21Ld2hCRG9LVURwczN3N3M5YTRYM01xcFZ0MnF2ZUU3SmxxZWFkSjEwdnFiODREV3Y2R3ZUY0ZVMmlGZ2hDZzRGaWxJTjlyaWdfQjhUN05ZSnl1aVVBNjlzRTU4bTh2R3NoZmVhOXlDSzlLNktfRjZuR0t4UlpWSjBDTEZUcmxzY05LT1pKZmlUZDVvZk1DZjdIUk91dnZ6M2tCaGxVV1NKSTRGd0RSaHYzV1hhR3YtWTBIa1V6cE5pN25WanNmbzh5ZUh5QVI3Ng?oc=5
-
-- 'Cause Not Established': Bengaluru 5-Star Hotel's 1st Statement On Pool Deaths - NDTV
-  'Cause Not Established': Bengaluru 5
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUFGeXMyTUFkOFROY3JYcE1MT2JtemVXODFJNUdySzEzNXRNN0FHZUZoMlpJUTQyLXEzM1g1aGdCaktsMS1WMXRaTXdHUkhRMklsOWlzb1VsNHFLNnFfcHJEenlSbElWQm13SnVYeWR2bUJxZ1BKd0NsQlh3OFJFcTNnTHZzMkIyVTFpeDBfVFBfcks5ZnlZdzNBdU1WYlNZc3A1bFVGdVN0Y2Z6aWNDZ0ZZWU91QdIBvgFBVV95cUxQUXFpYXNUMkpMMFFfVzN3UVZQTkZNWlRmZXF3cDF4eDNuSGQyYzBjMTBJUnEwZGY1WmQtZEhYelctZDNiRmZscXBWUzhuUGx2Z2tGNUNrZ1hIU3lBVko5ZFJJR1RzUGFfUUdGZVFub2ptdlc4QTBuZTFOcENrSXMwUmUxeGhhZjhmQ2tpTFJUMEI0VTYtYWRqVUxDSkFkTkFwbVI5VnlLYmI2d2ZjVW9aQ1dfUXZUNXBKd2UzN21B?oc=5
-
-- Slovakian couple had come for a holiday to India, man died hours after checking into Conrad - The Hindu
-  Slovakian couple had come for a holiday to India, man died
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN2x6SFJ0STdaaUpPNjZQdUEzRFdnU20zaWNmWG5nNnpiT2xiZzlrQXl0ak16SHhBUDNuSldVR0tHNWNBcFJiZ25KZ2g5M1I2NjhrVzg4OUltQ1gzUkE2b0FUSkxMSmo1VHNfNHEwSTdqWkJnRzJjR0dZdGlyQzRpXzRvZkktSml0cVIzbUtHaWFHUXpHUGxhMXMwUXBLMWwzTUx0MTVjV1pIOGo1d1JnX0lEUkNPYUNwZ3lRRzN5N2ZDanBCZk1TXzNtbjZ0S0dOS2lhcDVEZGo5UG5lWWJfWkc5RzgtRnI3bi1WTjZTMmfSAfcBQVVfeXFMT2xmMGJFUzhVTV9ZR3hVN3FHbmd5bTd1dm8wX2ZqbHJ5b1lkV2NOMjBMYTR2bGlFcmlqMWRvMGlaSlUtQ2pSTzlyWFY1TkJfbGRNQV9ZRTNWWGlnLWVfcG1JNU83OVByRE1xazBIUnRxQXJONWlrTHF1amhhei1fdWpDUWlzZnEzOVZKUkgxMkRpbzBiZU15NUxuTjZqRWtLdlRaSmZRNFFvb0VnbVA4SlBHcXlCR2dXUmV5VjhNTXVzR0pJUVY0dE85OVhxRXhKMVZjT0F3MFZnM2VHV2Vwb1lpc2tfMHpYTXJ6NldMRHgxeTZlaDZ1VQ?oc=5
-
-- Lufthansa crew among 2 foreign nationals dead in suspected electrocution at Bengaluru hotel pool | India News - Hindustan Times
-  Lufthansa crew among 2 foreign nationals dead in suspected electrocution
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNeU43aFF5dlZQeU50Nm9HUjJrT0M5ellTYms0X1Q0OGlmSFRqLWxObF9QSlozYXhMUXhoWEFXT1BRSl9oVHZiWnkwTllkMTM0dWFveG11aDA5S2FBQjJvVlNGYXRDYVhWbG9QOFV0a0UxdlFxSG52eTdMckVvOUN6b0Q2SkljWmpoSkx5Um9HcGhQVGNvcVR3SENUWVV4S21rY3l1d25veXNCa3BPaHhQM0w2aEtpSzRqSEVaOVdUR3FxMTV6T2tIbzk2SzZwOUJxVTBaLXhvWFJ1TmlZSWZORmR3bDlTRk9zTW83Tlc0Y0ZZUmpQUlFYRTd5WHpDMml3R1ZScncxOHlSRngybXpDRlF30gGXAkFVX3lxTE9xZ0hhbGtfUVBDNnhVOHJtZWU5WGpvME9KRl90cVZaS1JqdDNJNjFoMUNQSENNeV9NckhvWGlIWlEwREhyQXFXb0tWMjJqaUpkOWRKLUtPSzRpdVRPMlFGMkVTenU0elhEVzdDRzlDcDVrREFXOTVmemNUY1E3ZWZvQUhfWkNyY0VwbGNoX0xuYlpRbHpuSHZFa1k0Z3BpV0QySjN0bi1JZXJlR0M0TlhZZjlZQkRjckh6ZGlxRU00bjM4bkNGSFFjMjlNUXZfaktiSVJqZFZiRTU2NTctQXE5QlpMS2I1ZGM0d3ZFZ2FtR3BnUTJCWk0tY3Z5UHBZLXlKc0x2MFR0RHBKUTZoYTUzUy0wajlWWQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -149,4 +149,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-10-31 20:56:47 UTC_
+_Last updated: 2026-11-01 03:54:23 UTC_
