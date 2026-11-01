@@ -1,64 +1,64 @@
 # 📰 Daily News Summaries
 
-- Kannada should grow into a language of technology and knowledge, says Minister - The Hindu
-  Kannada should grow into a language of technology and
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVW45UlAtclBDMWc5M3dvV3FIR054TnIyOEtKRGo1U1FzWW9jRE5vZ2ZFNXZPbXhCZHg4aUFTTVJsT3prWDFWSzNQb1ZraHNqWkJCMkxZa0xacUFFWHFQUkhNMWlfN1RKYU15UUU4ZnV4ZzVBLS1wZzdBVHRiVmQzOWRGRHR4U0RBbHZ0cXY1aE5ma2ljeGJzbXIycDNSeWIzX0RXUXhpNlVIc25EWlhBZTB3STlKUUh4R2RseHl4VTZVaXNtUXdtcGw1ajNwTEF1LVBQY1lzOXNoWkxsZ3JN0gHmAUFVX3lxTE1INFVDSkhucVRMZkMtYzFvVGpUN0c4WVB0bmdUMXhhUlFyVEd0MUhwLTdNMUx6RTFVSDlWM29HRDFnZ0xDYXBkb2t0cEIwcm9zbkk1VlBjRDFSMHhZb1h0RUowVTRzeGZidXM2T0UxN3A3N3h3QmpDenl1SW5ZM0ZzUDFIRnJBcE5GaHpfMVN1RVFUNmtsS094NzVvT09uQzVpbzl4LUVXUkMxVXN4clozODNVQWFWM01rSUhka0xrYmE0WTRRcG1JZjdmUlNsckozcEZmSjhDcGNHRHJZcUZLU2VrQUdn?oc=5
+- Symposium on emerging frontiers in nuclear science and technology to begin on Tuesday - The Hindu
+  Symposium on emerging frontiers in nuclear science and technology to
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWxaZ29vaDJQRHVsRGJ3R1FuNUhXNjBfMFpjempZdU54YnJobjFZT0d1Wjk0cy1JQlNDZDQtc09VRVNVanFRMmNmd1E1a0RDSDhIeWNyZ2g0bVZ6YU5jOXBHZUhGTFdnZno4clRMWTN6Mm5DbGt5b0Jldnd4V3U1N3ZXSS1NR250TTFoaEJRU0NTRi1OSWw4YXN5THotSkx5T3lsaFZpRjFwWkxiN2tLN2dSQmZsS1F5dHpTbkhuLXc1cjBHc3FwUkkyRGtOU1pOakdvUDEtU1Rqb3V1QlkwazFSVmpwUdIB7AFBVV95cUxPQXdISGFLalZMQ3lVRmtkcHRYazNZazQ5em1YOVBucll2Sjh2VDBaczRyODhSd2NFc2MyVFc3dHdxeHQ2Tmc4NjVWN0xpTThoS1d4ZUhJb090QjV5YXROSHJYRlY2Ul9CTnhKQ241R3RsRHhEQnY4R3lwbUo3UVI4QU85bmNqS3NQcGpxN3p5R1dLdW5LMmlwY0F6aFdYVXlMZDJNYndwUWEwMC0tUGxHVFpjOEhyWERfU29YVzg4N084dmtvUGl6cFZPWGFzZXVmRnpBUk9kT1NBcVBLVWxvdVdtZG1ZU1VPTnl5YQ?oc=5
 
 - India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ram.. - ET Government
   India’s sovereign AI push moves from foundational models to real-
   🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQT0E5MGVuUExSb21yTXlqM2VEVGxHbDRvMk9pM3VRNjdaTHg0ZTNrZnJweV9LNFBRclFHQVZzeUFKVl93YjVfUlBFTGo0UEJfMWdsRUhHbENual9iem04Qi0tYklBdUhUSDlWMFNhSDk0SDEtZnhTRnNGYXV0aHZzSDh6bFcwaDh0Q1V5eHNMZ3RMUXFKR09nWWNkcmZaa20tR0Y4ZV9NYjhRM1JTdldfV204N0ZzODIwUzZaVDhrRE9lZUNGckp0UzhTQWIzUEtKdGE2WU5lRDU0aEIwVGVUTGQ3ZEhreG53UndGUDdYS3JYUXpFZXBKdm5nYzZVRVZTbDNvSlV6LUdBN1NIS0xQOC1Qc03SAZoCQVVfeXFMTjczMW16ZllwWjl1TUNQVENpOGozZ21rdDhGY19qc0RRYUl1Y3E1cWVWdkpKNFhReXNKRXRmMmdMM1gyVTBWU0IxeEFHem90THdBZVl6MkFuTkFtakRnSlhndk1KMWdtV0wtbXg2NTFXSi1aTXBzX1pwaFpIN1lPZ2pLaTU5WVBHMFRRWXp2Zmk4SER0VWxOU0J1R2ZBR0JJVG50NXBSX2g1ODBFUHhBd21vOURFY05hZTJNUmJXNmlMVE5lMTM5ZU5RLWJneHpoOVRWZEFmUkhMNjBZcFVmQkQ5UWlzQldEb3BmNmhQbFZzSXNoS0tJQlJJTnFEWUZHVTlqQ1RSbUFjQUc2MDBka0NpUVRlWTYxV293?oc=5
 
+- SEBI proposal may open up data, technology businesses for exchanges, depositories - BusinessLine
+  SEBI proposal may open up data, technology
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVTlyR1NNemRCVkxEVk1PUzRRT3M2UHBoWmdfRkwyYk1qMVJnM29MdkVnSElUOVFQdUFsdUkyS283Y1hubU40X3hNTDBoUU1lX2Y3a1dZeVZtMk8zekx6UnlkMTNLamhtTXJqbWVObFF3dVNUb3N4dGR5MWdoTXVYeGRCZzJhalFVTzlBcUZIMmpKSTFxS2pQNWlWUEhKSUN4TDJRUDI2SmlWckFSNERMTDBicFNKejVGNkdHX2Zfa2NkZWRoSFZEdDEwa3VrVG1HY05DcnJLU2ZmTzVz0gHjAUFVX3lxTE9ONDhpM0VjcGk2dUdveEZ5cjZBWEpKZzdPbXZDbzc5Z1VrMThxcWh0OEpJOHVZZVMxSXFTNTh3LWlXcklQc2g0bGNTV0M0RjFjTXJ6bHpiNF9zbnBFTTM4a1NUWkV4Tjl0QlJsOFRHOVVvMG9xN0IxZlBjVGNGTTZzam1lY2M3RXlqXzRKMzJDZUtJczNRR3ZFWVZiQ3FIUXJkaWtlVEZjdjRaVGx0aDMwRXNGSlVXbndVaUU2VFNMSkVRQS1xNGFFVU8tYXRSSk1YOEs0RXFOX01CNTIzcGNsbkdn?oc=5
+
+- ‘We’re technology-savvy’: DG ISPR says Pakistan ahead of India, Afghan Taliban in operational readiness - Dawn
+  'We’re technology-savvy’:
+  🔗 https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RbEZyVmZfUWxKczRrdVA1Y0lsTUN0amtoZ1QyeGxOVnYzaFoxWWxNNTdLdExUTU9hYUlPTFIyZ0JHams0QnJ0Nw?oc=5
+
 - IIT Guwahati To Introduce Diploma, BTech Courses In Semiconductor Technology - NDTV
   IIT Guwahati To Introdu
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQcldQWkJLZjhITllCVndwWHd2MWFqYTE1MEstcmp3cjZYcDhLQ1pnbTB2bmhBczZPSXBkdm42M0p6bV9aNGVhOGgtNkdoTmdOcGhJR05mTTkxTjFSTnFKcDJReDkwSkF3MDlMcmFzanFoSW41OVpUQzhKNF9VWEJoWW85VTdvWHl4QXduaHpjT3RaZk91V1BRalJlYk91Mi1LUmZKU2lmMHNOOV9jZFdSbVJ0QlNCUdIBvgFBVV95cUxOa21jOVlBc1ItUHhTWWJ4RkdRRVBLWE56dENzcnBLd3dMRER0Z1lwV05sX19uSlhzSmIyOGN4SW5walFyNWFJUDN0MXFyWk9tek1FVm1ULTRGMkpmdTdMMVZ4VGJOMmtfallRNlhPajlxczM1akd5QkNWVVllOWtvUldqSnU1SHVhWEZ6blJNa3FZQWl3alZfdkh5S3dhZTN6V3lwTjBUU3I1ZndNQzR2TjBLdXg5NHBNd01Eb0RB?oc=5
 
-- CXMT completes engineering sample validation for sixth-generation DRAM technology platform based on 4F² architecture - Global Times
-  CXMT completes engineering sample validation for sixth-generation DRAM
-  🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HZDZHZVYwNExfZXR5by16SGxIYmgtd0s2OFYwMjd4aXN3c2hLRHo0VC1VdGg5TzVOZGhjWU5ud3BCeXdYbVhXYXhVS00zbTdWUzF2R1JhMkV1bjJXRm15Y3RB?oc=5
+- TSMC’s $265 Billion Campus Is Driving a Real Estate Boom in the Phoenix Suburbs
+  The world’s biggest chipmaker is pulling in suppliers, home builders and Taiwanese investors.
+  🔗 https://www.livemint.com/companies/tsmcs-265-billion-campus-is-driving-a-real-estate-boom-in-the-phoenix-suburbs-11793568453780.html
 
-- H-1B curbs could hurt US healthcare, technology and education sectors, warns Indian diaspora group | Hindustan Times - Hindustan Times
-  H-1B curbs could hurt US healthcare, technology and education sectors,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaVZ4YVJzVVJlZ3ZwcEJ5Y1hOVTN1NGFZLWFYSHlfRHBGWm1xRS1GX0hLUi12Z0FpTktXVmJpaXBwMERjXzB3M1VvX0E5c1hzRmlVbDNUeFd2b045bG9jbTRrQUp5UWtyZ3FEMlpXRVFmNVVHUWtKcEtUTXVHTUZXWXdfNHF3dFItbWJzLTcxbjh4VGtRNVBTYkNZWU4wRXFLeEJfZmZtYnliVkF2aDliOTlQZmNsSi02dkdWQmI4Q3pJUmprU3FlclA4cFlsQ2hGbUxzSVZpbmJoSkZvRVoxS05UUVV5QdIB6wFBVV95cUxNYnE2enVVWGRoVWJMYThzdVRNX1JCSnpXOWZlZ1YwS016SllHS0ZVWjN1T2w5VHR2VUtOMjBKbHRQWFI1bjN0bW9lbHhNNEFTejZJb05kZHNVd0dkTHFxSkwwT2xteWxGVjdOcmZFS25aNThzNkZ3QWNYQzN3M0JuZHdVUW9sQkl5WllJRVFLa3ZreWJUVmZvRENVNVpNX3pURERJYmtvWThucG42a3QxdDJvSGlQM1FCYnlfOHNvaFJjeVZXYVgwN1U5a1lHWm1kRkJQQUZsMFZyYWdSTjBNR2pDWWllNnFwS3Fv?oc=5
+- PNB union seeks audit of 10,500 branches after  ₹11.24 cr fraud, multiple suspensions; warns against ‘knee-jerk’ action
+  The Punjab National Bank's union has urged the management to audit all 10,500 branches and examine staffing, training, security and management oversight
+  🔗 https://www.livemint.com/companies/news/pnb-union-seeks-audit-of-10-500-branches-after-11-24-cr-fraud-multiple-suspensions-warns-against-knee-jerk-action-11793550416012.html
 
-- Jio says tariff hikes can wait, eyes 10-15 partners for overseas play
-  Jio Platforms plans to drive growth through digital services and overseas technology partnerships.
-  🔗 https://www.livemint.com/companies/news/reliance-jio-tariff-hikes-overseas-arpu-operations-11793516641378.html
+- DivyaSree Developers, HDFC Capital partner to set up  ₹1,500 crore residential platform
+  The partnership aims to build a  ₹6,750 crore development pipeline over the next three to four years. The
+  🔗 https://www.livemint.com/companies/news/divyasree-hdfc-capital-rs-1500-crore-residential-platform-11793500076141.html
 
-- Bank of Baroda plans overseas expansion, targets wholesale banking in developed markets
-  India's second-largest public sector lender is weighing retail banking in emerging economies. It also expects margins to improve in the
-  🔗 https://www.livemint.com/companies/news/bank-of-baroda-overseas-expansion-wholesale-banking-debadatta-chand-11793508880749.html
+- Why did Amazon cut 250 jobs in its devices unit despite new product launches? What employees were told
+  Amazon has cut up to 250 jobs in its devices and services division. The company cited efficiency and changes to its product plans.
+  🔗 https://www.livemint.com/companies/news/why-did-amazon-cut-250-jobs-in-its-devices-unit-despite-new-product-launches-what-employees-were-told-11793540782696.html
 
-- Who is Xavier Niel? French billionaire to acquire 16.2% stake in Vodafone in a  ₹54,103 cr deal | All you need to know
-  Xavier Niel has secured CCI approval to acquire a 16.2% stake in Vodafone. The Iliad founder built his fortune through low-cost telecom
-  🔗 https://www.livemint.com/companies/people/who-is-xavier-niel-french-billionaire-to-acquire-16-2-stake-in-vodafone-in-a-rs-54-103-cr-deal-all-you-need-to-know-11793518585824.html
+- Apax co-CEO bets on India’s AI strengths, eyes faster investment
+  Apax Partners has invested about $4 billion in India and returned more than $10 billion to investors. Despite currency pressures and market uncertainty, the private equity firm sees long-term opportunities
+  🔗 https://www.livemint.com/companies/indias-ai-strengths-to-spur-faster-investment-says-apax-co-ceo-mitch-truwit-11793277398310.html
 
-- Tech Mahindra prioritises growth blitz after margin boom
-  Tech Mahindra CEO Mohit Joshi talks about prioritizing organic growth, decoupling headcount from revenue in the AI era. Josh
-  🔗 https://www.livemint.com/companies/news/tech-mahindra-ceo-mohit-joshi-ai-growth-margin-expansion-strategy-11793502511219.html
+- Wall Street Braces for Biggest Treasury Sales Overhaul in Years
+  Wall Street is now girding for the biggest revamp in guidance for US Treasuries issuance since early 2024.
+  🔗 https://www.livemint.com/market/wall-street-braces-for-biggest-treasury-sales-overhaul-in-years-11793564884387.html
 
-- DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic
-  DeepSeek has released a prototype of a more autonomous coding agent. It seeks
-  🔗 https://www.livemint.com/companies/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic-11793506699829.html
+- Crash! Gold price suffers worst October in years: Did silver and platinum suffer too? Check monthly performance
+  Silver recorded the steepest monthly decline at 19.17%, followed by platinum at 16.65% and gold at 7.23%.
+  🔗 https://www.livemint.com/market/commodities/crash-gold-price-suffers-worst-october-in-years-did-silver-and-platinum-suffer-too-check-monthly-performance-11793549898014.html
 
-- Sun Pharma shares gain despite Q2 profit slips 36% YoY | Should you buy, sell or hold? What brokerage says, target price
-  Sun Pharma shares rose 0.87% despite a 36.4% year-on-year drop in September-quarter net profit. Revenue increased 11.9% to 
-  🔗 https://www.livemint.com/market/stock-market-news/sun-pharma-shares-gain-despite-q2-profit-slips-36-yoy-should-you-buy-sell-or-hold-what-brokerage-says-target-price-11793533331740.html
+- Emami vs Dabur FMCG shares Q2 results preview: Profit, revenue expectations; Dividend announcements in focus
+  Emami and Dabur are set to announce Q2FY27 results on November 5 and 4, respectively. Analysts expect revenue growth of 20% for Emami and 11% for
+  🔗 https://www.livemint.com/market/stock-market-news/emami-vs-dabur-fmcg-shares-q2-results-preview-profit-revenue-expectations-dividend-announcements-in-focus-11793546880029.html
 
-- Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel
-  Shares of IOCL, BPCL and HPCL may remain in focus after the government raised export duties on diesel and aviation turbine fuel.
-  🔗 https://www.livemint.com/market/stock-market-news/tax-twist-for-omc-stocks-indian-oil-bpcl-hpcl-shares-in-2-nov-focus-after-this-decision-by-govt-on-petrol-diesel-11793531837968.html
+- ITC Q2 results 2026 preview: Will cigarette business drive growth? Profit, revenue expectations - share price target
+  ITC is set to report its Q2 FY2026-27 results, with analysts expecting FMCG revenue growth but flat margins and weaker cigarette performance. Forecasts point to declines in consolidated earnings
+  🔗 https://www.livemint.com/market/stock-market-news/itc-q2-results-2026-preview-will-cigarette-business-drive-growth-profit-revenue-expectations-share-price-target-11793540718182.html
 
-- From Wall Street to D-Street: What history suggests for S&amp;P 500 returns, impact on India stock market, Sensex, Nifty
-  Emkay expects the 2026 US midterms to have limited direct impact on US-India relations. For Indian markets, oil, the dollar, and US bond yields matter more. renewed tensions with Iran could lift oil
-  🔗 https://www.livemint.com/market/stock-market-news/from-wall-street-to-d-street-what-history-suggests-for-s-p-500-returns-impact-on-india-stock-market-sensex-nifty-11793526487765.html
-
-- Binance Hack: Inside 24 hours at crypto’s biggest-ever $6.3 bn internet bank robbery | Full story from 4:20 pm Thursday
-  Binance faced an unprecedented breach after more than $6 billion in digital assets flowed out of accounts linked to the exchange. Investigators attributed the attack to North Korean hacking group TraderTraitor.
-  🔗 https://www.livemint.com/market/stock-market-news/binance-hack-inside-24-hours-at-crypto-s-biggest-ever-6-3-bn-internet-bank-robbery-full-story-from-4-20-pm-thursday-11793520978709.html
-
-- Dividend stocks, bonus shares, split, buyback issues in Nov 2026: Coal India, HUL, Infosys, Power Grid, others | List
-  November 2026 brings a busy calendar of corporate actions, with companies including Coal India, Infosys, Hindustan Unilever and Power Grid setting record dates. Investors will
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-bonus-split-buyback-in-november-coal-india-hul-infosys-power-grid-among-key-corporate-actions-list-11793522441142.html
+- Cash rewards coming? PFC, CONCOR, RITES, to Sonata- These firms to announce dividend with Q2 results 2026 this week
+  At least 20 companies are scheduled to report Q2FY27 results this week. Companies to watch include Power Finance Corporation, CONCOR,
+  🔗 https://www.livemint.com/market/stock-market-news/cash-rewards-coming-pfc-concor-rites-pfc-to-sonata-these-firms-to-announce-dividend-with-q2-results-2026-this-week-11793537407103.html
 
 - Millennials lead AI shopping adoption in India at 84%, ahead of Gen Z: McKinsey
   Millennials are leading the adoption of artificial intelligence (AI) for shopping in India. 84 per cent using AI-powered tools to search for products, compare options or make purchase decisions.
@@ -80,26 +80,6 @@
   HMD unveils Nokia 2360 Flip 2G phone for senior citizens. Features include family assist, SOS and parental control.
   🔗 https://www.livemint.com/technology/gadgets/hmd-unveils-new-nokia-2360-flip-phone-india-launch-price-seniors-family-assist-sos-parent-control-features-specs-colours-11793429445556.html
 
-- Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates - CNBC
-  Stock market rocked as investors dump tech shares; Nasdaq suffers worst day
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVVQzRnJqelRyUjFGQjZLZlhIbGsyQUxabzc5TE1TaEx6TWRnaTRRcXVmanBTWXZ0NmhmZWpHeVZFZ3lSX1kyaEhfMnBVMnprQ0xscEpBZzhOWFZLbnZCcUtDUnJJNmdROEhxOVhSRDdFVDd4THg00gF8QVVfeXFMTmgwT1lfNnJpUlczcFVnQW9lanFWbDZzYXRadlNsNmRoS1NSVURVS1VsRjlsWGlZOGhiTkF2X3FJRzJnTllYaTAxdVRCSjgyUlduRGRQTV9kUzNDdFVyQ0VWUHQ3ODU5bW1hZ0hvS2FubEFWMEJnWnAtdUN0bg?oc=5
-
-- China to Convene Meeting on Supporting Stock Market, Reports Say - Bloomberg.com
-  China to Convene Meeting on Supporting
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOendaOF9OYUpHU1R3Q25VVXptSDk0dU1FQkJkcXN2Q0ctRjBzdlNIdHNlcmxIMHFKdlZmM25SZ0pTdUlyMXlGaXBvUFBvZlhFV3VxNks1RGtIQ3FmeXBBNEFDekVYdkFtVC1VR2k2Nl93a0owS0dkaHRaWEpqcFhpdlRIM1MwOVBvNmd4dFJtb0JaeXpjX2otZnZlU0ZBRjh5MllKbzZIc2RnSVJlR2dJWDRDOHA?oc=5
-
-- 2000 more companies may tap Indian capital markets over next two years, says Sebi - Telegraph India
-  2000 more companies may tap Indian capital markets over next two years,
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNlFWMmdDdmh0WEhDUjVCd3lUdXozNWRJaFh3bmFRNFI3cWpUa0M5NXF5TFJZMUFFejdBaE5UdTJzZTFESjlCMnBRUHpzSXVYcUN1VS12c0J6MWM2UzhQVzZXMlYxcVk5UTdwdHJfVWtUX0hvWWJfQ0pfOGg1OWpLVUVnX1lxTEVfcERCdkl4SHE5bnQzT0pNOWNrRHdseXdKNEhiYU1QNDRJaDhDVDNRNjNCbmpNMTNzbkp1dGc0ejJqSnNUbHB0SEdBTFdjb3UzcE5tYVVxRXDSAd4BQVVfeXFMTXBBT0I0LWpXNWY3eDgzM01yVkExUlVoVHIzX3hhYnlWMFNEQk11bklRSHNJdlY1dWtzUFpzOU8tdkdUbmc5LXI2UWVnbkV6Rk5ZbjFxV3dmbC1fZWc4OENXOFR4UHY4dHZhREVVV1dXMDlwaEtkMnlWVFlQd2txVVAtdFBGSWdyZlFJdHlGS3Y3RFdrQWlGV096aTZHeWY4cEk3YnRxdi03UVlJSC00VktJa09PZEphaEdaS25MVEtMSDZmV21qVlVaTkxLYnJULU5FcUZLdTZVRzlhOHhB?oc=5
-
-- Tech stock meltdown could get a lot of worse if history is any guide - Yahoo Finance
-  Tech stock meltdown could get a lot of worse if history is any
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkt3YXFlNWM2S192RVZjYXd4cTFDX2h4MzJRdXY5ZmRGRzJpYi1hamo1Rnk4M0VjZnhWQ2hKcXphQm1pbXhUV00yWFN0UWo4UmhNNmZXMG9oZlNIRzJyRllJMjU3aURXbEZteS1xaHlYazIxSjl0MThaVzVVVGJESmVNRmFPM3VGZjJTcjkyMXptLWpHaHJxbFdwQUVtbDhyU2dRaTctRGlQUHhDWjJOanRRcHdiV0xEN1BGaTBFVklzTW8?oc=5
-
-- Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday - The Economic Times
-  Nifty, Sensex extend gains after rallying up to 2% last week. 4 factors
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdzZqby1tUXlQQmJVTGsweUxROElpc0d2R3dWOUlqRDd2NURvTTF3TlZPcjVrLU9OMVRVTlR4elFBZlMtUW1FY2ZQTk5qS0xYdWZGR3ZrVFN4RHF3c0diazFsdzNSYldIejdDUzFTMDNuOXZsZGs5YjB6aDRMU1hEOHBSR1I1TGQ2YnJwVXo4dkRlOWFTVHNVSXBOYktoZ0hGaXpLdlh6SDZrVVIySWVwSTlJUUt5czc1UVJzcE5icHZ5X3ZrYUJraUxQZGktNHNYRU9HcWVBT1NzNC1fYjdBVXlXQXJ0RS1uVEhEMEF4c2lMbXJ5czlIbdIB_gFBVV95cUxOczFHeFpmSWo1T2JOb0dxR2FGcVgtZGhmWk96MVNuWXFjdWFDdGl6X3Z4Z0l2bjlmelZvSkQ4VnVjbVM2Z3YwR0ctRGJ1WVNud2tRQkpERmludGwxV3UtV2puTnRZeC0zOTJ6ejZTcWRndmw1T0xfcTlTTzFYUmRRY3huZksyZ19NN2d6NjB5ei1ORy1CQ3J5T3dHbnluR0pPeXlRbnpHYkwwVlRpNUJra0N3SHNwYXlHTEstRmdwRUJHRzA3cW42VFBzV09vczFBSlZWc1VaT2lnZ0xhb2tjRG1QMy1qVFk3cUgtQnQ2ZTVjTGRkMEUzWHB3MEVnQQ?oc=5
-
 - Ahead of Market: 10 things that will decide stock market action on Monday
   Sensex and Nifty ended the week up about 0.5%, supported by resilient large-cap, IT and healthcare stocks. However, midcap and smallcap indices
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135426334.cms
@@ -120,6 +100,10 @@
   In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore. This profitability surge defied the ongoing freeze on petrol and diesel prices since May.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms
 
+- Indian Startup IPO Tracker 2026
+  Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
+  🔗 https://inc42.com/features/indian-startup-ipo-tracker-2026/
+
 - Meesho’s Next Monetisation Engines
   Meesho has spent much of its journey building scale in India’s value commerce market. Its low-cost marketplace model has helped.
   🔗 https://inc42.com/features/meeshos-next-monetisation-engines/
@@ -136,29 +120,25 @@
   The Enforcement Directorate (ED) has arrested Armstrong Exchange founder Sagar Dash in connection with an alleged online gaming and betting.
   🔗 https://inc42.com/buzz/ed-arrests-armstrong-exchange-founder-over-alleged-online-betting-scam/
 
-- IPO-Bound StockGro’s FY26 Profit Jumps 3.3X YoY To ₹113 Cr, Revenue Doubles
-  StockGro-parent AssetGro Fintech Ltd net profit for the fiscal year FY26 jumped threefold while its operating revenue doubled year-on
-  🔗 https://inc42.com/buzz/ipo-bound-stockgros-fy26-profit-jumps-3-3x-yoy-to-%e2%82%b9113-cr-revenue-doubles/
-
-- 'Chalo Dilli' protests: Rahul Gandhi assures 'legal action against PM Modi'; Kharge says 'we're not afraid to fight' | LIVE - The Hindu
+- 'Massive turnout at Ramlila Maidan,' says Congress; Rahul reiterates, 'Gyanesh will go to jail' | HIGHLIGHTS - The Hindu
   <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPLTZLLUNHUGpmZDUyNEF5TUhvM1J5QVdmdmtEZHNkbWJBRHNHeVo4YUFZMm82WlkzaFJYMXp4TFgzRWIzZFdYMFMtYzNWU1llWWJHVDJBYWFFZVRfSGk2RmpyZ1M2Sko0QX
   🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPLTZLLUNHUGpmZDUyNEF5TUhvM1J5QVdmdmtEZHNkbWJBRHNHeVo4YUFZMm82WlkzaFJYMXp4TFgzRWIzZFdYMFMtYzNWU1llWWJHVDJBYWFFZVRfSGk2RmpyZ1M2Sko0QXlsMW52QjZqV3ZKMEtoWXV0VFZFTTRzNTVEY2Nrb2NTX05FMWtxS2FRZE5fRjZ1X3E2WkJ2cjFGbUQ1V1FoXzhZWDZ5WGFRNG5LaTlfcXlCZ3pkRUZ5RDJNa0ZFS0VRZXBuQXdJQU5lY1hKZ1kzNWhWY0Z5NDNWblMtTk5KaEUzZy1KaVJMbl9CdWNoTlF1b09BZmZlWUEt0gGHAkFVX3lxTFBCeENKcEJqU1c0YWdSenItQ1d0NkQ1NG9Ya3c4UmNVUlJGLW5fdG5sS2JlNEZjN1JmN0JlRmZRRWFjZFJBT25FeHZIN094NjdMVG5aQ2h5Yk1Ed1o5OVVwLXZpR1IzTHczOUpEWG9PNDVnRDdXbXEwbFJfbmdqNXdyZU5XNFJvb2F3OE5CYTNMOXFFeHJlWi1nMTJCYVBrWEU0WUc4RDBXSUxpN2FQTUdYSGRFNnlHOHdMUnI2SEJvNjEyMFZkM3pfcUNIb2c3WDlua1BZWTVobnl6LVZVYUg1UERPbDhETWQydWxxZjVFYTJTUnYtWEZxc3VCQTl1LXM0S2tjbkJr?oc=5
 
-- ‘Remove Modi to save democracy’: Congress chief Kharge attacks PM at INDIA bloc rally - The Hindu
-  ‘Remove Modi to save democracy’: Congress chief Kh
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDJDeUJCMWhsUi1oNE5DSUFVVjZLc0U3RWxORV9XSDJMRUtTbnl1VlpZN0RhRlF5ZG90dVk2VnNTbFFWVFcwTDRYODlRemQzaDdtNzBGVW1paTVfTWpDemtJa3BsSXFkODc3N29kakRSUmJLSXlualQ3NkZJWDI3X0g3RlZoQVNQZkprMlNlMDFxSlZJNXZFWU10N2hBXzJIeUYyRDhNRjFoZ25TczlZ0gG2AUFVX3lxTE9tOFRoMHpiR055NVk4cHdfRFdmVEZ1OS0za3JJcGozZFpORmRqTGNJcFJ1VTZDT0hHVVNkRGRrZzZGcnZpSjE1UjdJRXpzdmJyMW81LWl6Sm9aRXdNTlZKSjY3cXRxZXdUNVdQSzdEWWdrQzdleF9LN1pZdHBjWjhVeFdsSC05TXYycFZyaG5sa0dmdW5obVVwR0w5WlQwMmFrRmN5QnhBemJCcDNLNC13UzNSZjJB?oc=5
+- Golden Triangle's North East drug trade thrives on barter - The Times of India
+  Golden Triangle's North East drug trade thrives on
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN184Ullkc3dEY2Z3TTFiaWtkV25rV3U3Nl9yX3hWWS1semsxcGlSY0dsYm9mSFdNY3RzNkFzaGJtUGpaLWxIRm0tTDNfZl9RSHM0UHc0SGZWSTdwN0o0ZU5GTTV4Y0lLeFJfQ1ppaFhkMmVBUlc1SGZjdHNXcFZJbFBIOGprdm1zRTJmY21mRmkzWm92c3RfOTN4TkJpeGxfbUNjS2oyT1Z6Q2QyU29YdXhwaGpfYkVmY2pQZUhVN2VVZ9IBxwFBVV95cUxNWThNbzVVV1phOVFOREtKM1RhR0g1SFN3TEFBakFXZ1FRVFZtN2JoT2oyNDlNTC1sLUJ4TWFOcFRPUE5NN1pZQmhEcG1KRl80WF95S3Rrc1RnRjMzQThHY3pYTnp2Q05COXh3am1zNmNyZHFxQWh2a0swaG9SQ1NlZWtQRV9SNWN6ZThEeHFJVXFVZTNFaThteTVKMDl0Q3oweVNPcm1jYUI0QzcyeTUxMWdsVThHNTU5ZXhIVUxUT2Z3TXdNbmRN?oc=5
 
-- Indian forces tighten security in Delhi ahead of big opposition protest - The Guardian
-  Indian forces tighten security in Delhi ahead of big opposition
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2xyVE1yam1FZWVoS245c2dRUDhKWmxOalJWOW1WdldXcTg1dUNJMUl3WjdwdFBOenV5ODBZcVVhNDlIRnBNLWxZSWJRVHp4OVlHYkFHRVpQbEw3TEZlcURpZy1sVkd3R0Y4TTdtUTBTWktKYTFMdTRHdlRndFJMbDFQZnNteWVXeHc?oc=5
+- Asian Champions Trophy: Harmanpreet hat trick helps India beat Malaysia 4-2 - ESPN India
+  India beat Malaysia 4-2 in Asian Champions Trophy
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTA0OVM5UExDWTA0cnZVdUk3eDJtN3RqXzg0SGRWdk44dEc4eUhuemFJcmpPcG5rSWg3aTA1dTBSYXBBWVV6QWRlSk9CX3l5WWR5T0xKZTRzaWJiVThNQmNnZ3pJRGg5WDdPeV9vTTdwSUJXSHk4ZUMwYndCYklJa1B0Si1mblN6TUEydmJ6aWtFbTZxa1ZySEZfZVVxYXdWa2xIaHhQdmNYTmZsZVpFaWRlNkVvamtPUTIybWhJZmYyQXM1bnpHYnY1eUZDUEo5VUJleG04bVlHY1JsZHc?oc=5
 
-- India joins 24 countries in global initiative on 6G technology | Akashvani News - News On AIR
-  India joins 24 countries in global initiative on 6G technology.
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxObjY4NnRCMUVMSXlxeDVpbmdWTC1kZktvakxQSkNpUDBpVEFlOG1PdVAwcmhmMzR1MjEwcDRpYTluaDczV1VvYWpvNm9DUE5YSV9YaXUxSDR4Wmg0WDYyUkZSX2pHRGlpSTNIaVhaUGRqaE5lblhYTHJxOW1ySWpjQl9ncERtd29NQ2tzNWFPVGs0dw?oc=5
+- ‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India - Al Jazeera
+  ‘Like Kashmir’: How a toxic marble dump yard
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkMyQVBLVFBKNGplOEtyeXNJSEFiZE42VEloUDBsZk9RZHBtLXh3Sl9uZnh2d0lyZC14dnlHZHcyNWhnY2QwUm5XdjZNWG1yYzZJX2wyZWQtTk15VE1HWFNER0FJRW1CU3RHbEwwaFc5dW0ycGtVSDc0ZWJSWmpvVklhU2ZhUm9DaTFWZkc0cTFaSnFES21wTy1fd294bW1EVjc1ajRZNnlmV201NDdMT0VHVdIBuAFBVV95cUxPejFEUDFQM0JHeVpZREFzanhNRS00cENSQlZxcDhBc2ItLVRESkVmMmRkdmtwc2FxdDMyNTh2MnBYbTlLeW45VUhkWUVpRlBMemc3Nm52c1F5QmhpbEt2WVJfY3NFa21uRkUwRjhFSC02aUNnSzRHeXRDOXhibnBzZ3pyWllxRWJBd0NBellIQ2lsU0pLUXFfaldnWm44ajJMVkJKSkU2SUZZTGVqRm5MVE5ZdVc1NUVz?oc=5
 
-- 24 years later: Pakistan recreate India's Lord's magic with record-equalling chase - The Times of India
-  24 years later: Pakistan recreate India's Lord's magic with
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaTVOdUJXeWFZYTZ2WkVXVXlJaktLNi0xRnFUdUtPckZlNFZHUVIwVGMxZkJPSVhoT2lla3NpQWY3TFJVNmFpdTVMZ1VjcVRqRzhGTDhOWmd6WmU0dkp4NnMwT09JNEc4OEZCenRLbDR0WEVSenNXbUxUNl91emNFSmJYYmk1YjNSNGgtdVBzcDRzQzF3NnFGN0JqYXgtcEhvNElmbXVmbWpRWlFDWGpMSk9wakM5NFp1R1dDLTFyUnpSZ3AxT3pGUmowVm9ReGFSZHc2YXo3MVg3NERQVWQtSXluVG9McHNMWjVPMnUyc3hFQdIB9wFBVV95cUxOTUxHYzJuUDJsVWtkYXU1SjZaWFUtcTdMMEhWY3ZSMmJKUkNnNWp5M1BIZ0FBTlpIS0RtbHc4bm55WGxFZTRNR29GdHV2Qm8wdTc2UjcybUhDWjR6aV91RHFOMWJZR2xQaFVZSVMzLWFxcFNaNl9oQjFWcWszbU54OXhEYjdtT3pDbl9fcHJGTHhfOUFvelhjWGJtcEdUemVERmpHVzI2QmJZUFRFQXhrc0dxanlkUlVYSllGUlBoa25kMk51OXBnWXo3d2lMREtKc1NjcmFhVHA5Q29MRExSYml0MHpjSFN3aEhyQko5Ny1remhkWUtR?oc=5
+- Delhi’s mixed signals, Mumbai’s panic: RBI proposes blunt fix for the rupee - The Indian Express
+  The Indian Express reports that the RBI has proposed a blunt
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0VWaWVVenotdGtvUWtZRF9yZ0p5aXEtYkQ3bjVaV0dyQldWcmcxVk80YjRBdGo5bkw1M3g2MzZpZFJqMEFKMkhoelpJZHBxdmoxNWxldDZvdGJnQ3daZ1B4dlZIVkxvWGswSXBqWXAtNVgyTkFNbGpuM1Y1Vk9LYUFGQ1hfa0hIb1VteU15a0kzZUc10gGbAUFVX3lxTE5xVkpiMmlCUm1Ja0JPZjJHM0J4bnYzS21kYnpKOE9abHdIRS1SRUVqWUw3OWVIX2FYakpDbVRVYWJtVFVvOFBMTHZHWU9Tb3dlY0tuRFY5Y2ZiZjAxZ0M1X19NVm5YMmlBLTU4WjhlaW5ScjFEOGh2NllXLTdnMWZBR1VqQ3dYMlZCS3oyYXk4bVVZZUlWZjZBMHFz?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -180,13 +160,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Symposium on emerging frontiers in nuclear science and technology to begin on Tuesday - The Hindu
+  Symposium on emerging frontiers in nuclear science and technology to
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWxaZ29vaDJQRHVsRGJ3R1FuNUhXNjBfMFpjempZdU54YnJobjFZT0d1Wjk0cy1JQlNDZDQtc09VRVNVanFRMmNmd1E1a0RDSDhIeWNyZ2g0bVZ6YU5jOXBHZUhGTFdnZno4clRMWTN6Mm5DbGt5b0Jldnd4V3U1N3ZXSS1NR250TTFoaEJRU0NTRi1OSWw4YXN5THotSkx5T3lsaFZpRjFwWkxiN2tLN2dSQmZsS1F5dHpTbkhuLXc1cjBHc3FwUkkyRGtOU1pOakdvUDEtU1Rqb3V1QlkwazFSVmpwUdIB7AFBVV95cUxPQXdISGFLalZMQ3lVRmtkcHRYazNZazQ5em1YOVBucll2Sjh2VDBaczRyODhSd2NFc2MyVFc3dHdxeHQ2Tmc4NjVWN0xpTThoS1d4ZUhJb090QjV5YXROSHJYRlY2Ul9CTnhKQ241R3RsRHhEQnY4R3lwbUo3UVI4QU85bmNqS3NQcGpxN3p5R1dLdW5LMmlwY0F6aFdYVXlMZDJNYndwUWEwMC0tUGxHVFpjOEhyWERfU29YVzg4N084dmtvUGl6cFZPWGFzZXVmRnpBUk9kT1NBcVBLVWxvdVdtZG1ZU1VPTnl5YQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ram.. - ET Government
+  India’s sovereign AI push moves from foundational models to real-
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQT0E5MGVuUExSb21yTXlqM2VEVGxHbDRvMk9pM3VRNjdaTHg0ZTNrZnJweV9LNFBRclFHQVZzeUFKVl93YjVfUlBFTGo0UEJfMWdsRUhHbENual9iem04Qi0tYklBdUhUSDlWMFNhSDk0SDEtZnhTRnNGYXV0aHZzSDh6bFcwaDh0Q1V5eHNMZ3RMUXFKR09nWWNkcmZaa20tR0Y4ZV9NYjhRM1JTdldfV204N0ZzODIwUzZaVDhrRE9lZUNGckp0UzhTQWIzUEtKdGE2WU5lRDU0aEIwVGVUTGQ3ZEhreG53UndGUDdYS3JYUXpFZXBKdm5nYzZVRVZTbDNvSlV6LUdBN1NIS0xQOC1Qc03SAZoCQVVfeXFMTjczMW16ZllwWjl1TUNQVENpOGozZ21rdDhGY19qc0RRYUl1Y3E1cWVWdkpKNFhReXNKRXRmMmdMM1gyVTBWU0IxeEFHem90THdBZVl6MkFuTkFtakRnSlhndk1KMWdtV0wtbXg2NTFXSi1aTXBzX1pwaFpIN1lPZ2pLaTU5WVBHMFRRWXp2Zmk4SER0VWxOU0J1R2ZBR0JJVG50NXBSX2g1ODBFUHhBd21vOURFY05hZTJNUmJXNmlMVE5lMTM5ZU5RLWJneHpoOVRWZEFmUkhMNjBZcFVmQkQ5UWlzQldEb3BmNmhQbFZzSXNoS0tJQlJJTnFEWUZHVTlqQ1RSbUFjQUc2MDBka0NpUVRlWTYxV293?oc=5
+
+- SEBI proposal may open up data, technology businesses for exchanges, depositories - BusinessLine
+  SEBI proposal may open up data, technology
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVTlyR1NNemRCVkxEVk1PUzRRT3M2UHBoWmdfRkwyYk1qMVJnM29MdkVnSElUOVFQdUFsdUkyS283Y1hubU40X3hNTDBoUU1lX2Y3a1dZeVZtMk8zekx6UnlkMTNLamhtTXJqbWVObFF3dVNUb3N4dGR5MWdoTXVYeGRCZzJhalFVTzlBcUZIMmpKSTFxS2pQNWlWUEhKSUN4TDJRUDI2SmlWckFSNERMTDBicFNKejVGNkdHX2Zfa2NkZWRoSFZEdDEwa3VrVG1HY05DcnJLU2ZmTzVz0gHjAUFVX3lxTE9ONDhpM0VjcGk2dUdveEZ5cjZBWEpKZzdPbXZDbzc5Z1VrMThxcWh0OEpJOHVZZVMxSXFTNTh3LWlXcklQc2g0bGNTV0M0RjFjTXJ6bHpiNF9zbnBFTTM4a1NUWkV4Tjl0QlJsOFRHOVVvMG9xN0IxZlBjVGNGTTZzam1lY2M3RXlqXzRKMzJDZUtJczNRR3ZFWVZiQ3FIUXJkaWtlVEZjdjRaVGx0aDMwRXNGSlVXbndVaUU2VFNMSkVRQS1xNGFFVU8tYXRSSk1YOEs0RXFOX01CNTIzcGNsbkdn?oc=5
+
+- ‘We’re technology-savvy’: DG ISPR says Pakistan ahead of India, Afghan Taliban in operational readiness - Dawn
+  'We’re technology-savvy’:
+  🔗 https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RbEZyVmZfUWxKczRrdVA1Y0lsTUN0amtoZ1QyeGxOVnYzaFoxWWxNNTdLdExUTU9hYUlPTFIyZ0JHams0QnJ0Nw?oc=5
+
+- IIT Guwahati To Introduce Diploma, BTech Courses In Semiconductor Technology - NDTV
+  IIT Guwahati To Introdu
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQcldQWkJLZjhITllCVndwWHd2MWFqYTE1MEstcmp3cjZYcDhLQ1pnbTB2bmhBczZPSXBkdm42M0p6bV9aNGVhOGgtNkdoTmdOcGhJR05mTTkxTjFSTnFKcDJReDkwSkF3MDlMcmFzanFoSW41OVpUQzhKNF9VWEJoWW85VTdvWHl4QXduaHpjT3RaZk91V1BRalJlYk91Mi1LUmZKU2lmMHNOOV9jZFdSbVJ0QlNCUdIBvgFBVV95cUxOa21jOVlBc1ItUHhTWWJ4RkdRRVBLWE56dENzcnBLd3dMRER0Z1lwV05sX19uSlhzSmIyOGN4SW5walFyNWFJUDN0MXFyWk9tek1FVm1ULTRGMkpmdTdMMVZ4VGJOMmtfallRNlhPajlxczM1akd5QkNWVVllOWtvUldqSnU1SHVhWEZ6blJNa3FZQWl3alZfdkh5S3dhZTN6V3lwTjBUU3I1ZndNQzR2TjBLdXg5NHBNd01Eb0RB?oc=5
 
 
-_Last updated: 2026-11-01 12:35:14 UTC_
+_Last updated: 2026-11-01 21:39:57 UTC_
