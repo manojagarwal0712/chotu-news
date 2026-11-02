@@ -1,64 +1,64 @@
 # 📰 Daily News Summaries
 
-- Symposium on emerging frontiers in nuclear science and technology to begin on Tuesday - The Hindu
-  Symposium on emerging frontiers in nuclear science and technology to
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWxaZ29vaDJQRHVsRGJ3R1FuNUhXNjBfMFpjempZdU54YnJobjFZT0d1Wjk0cy1JQlNDZDQtc09VRVNVanFRMmNmd1E1a0RDSDhIeWNyZ2g0bVZ6YU5jOXBHZUhGTFdnZno4clRMWTN6Mm5DbGt5b0Jldnd4V3U1N3ZXSS1NR250TTFoaEJRU0NTRi1OSWw4YXN5THotSkx5T3lsaFZpRjFwWkxiN2tLN2dSQmZsS1F5dHpTbkhuLXc1cjBHc3FwUkkyRGtOU1pOakdvUDEtU1Rqb3V1QlkwazFSVmpwUdIB7AFBVV95cUxPQXdISGFLalZMQ3lVRmtkcHRYazNZazQ5em1YOVBucll2Sjh2VDBaczRyODhSd2NFc2MyVFc3dHdxeHQ2Tmc4NjVWN0xpTThoS1d4ZUhJb090QjV5YXROSHJYRlY2Ul9CTnhKQ241R3RsRHhEQnY4R3lwbUo3UVI4QU85bmNqS3NQcGpxN3p5R1dLdW5LMmlwY0F6aFdYVXlMZDJNYndwUWEwMC0tUGxHVFpjOEhyWERfU29YVzg4N084dmtvUGl6cFZPWGFzZXVmRnpBUk9kT1NBcVBLVWxvdVdtZG1ZU1VPTnl5YQ?oc=5
+- ‘You can break a stick, not a bundle’: Thousands turn up for INDIA bloc rally from across the country - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPaURLaVBBX2tlS0ptM2s3REpSdlVzTi1RZWthd0MwUlZPQ1ZDV0k5aVkyUXZCLWwxZzRDaDdudHlsdGVEcWZnaFNZUExfaDZLN1FpTmxXWlNUM2d2SloyaTVPd282LVp0S0
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPaURLaVBBX2tlS0ptM2s3REpSdlVzTi1RZWthd0MwUlZPQ1ZDV0k5aVkyUXZCLWwxZzRDaDdudHlsdGVEcWZnaFNZUExfaDZLN1FpTmxXWlNUM2d2SloyaTVPd282LVp0S0VTY0FybDBxLU5pcXhIUXlGX3NqUWp6WWF4QUZyWkpYdUNOYXFMSnByZXhYQV9fNDNyaTIzZERISU9Sc19adG1NZktFS3MxUXl4bEhPNDk5bUdKLWMtV3N2Y0lYWGh2azhpZDNwV0RiLWdGdENUcVFTclBzcE8wU1V0TlZXZ3RTXzhBUVVDWnJydTZsUFhkSXNMeFVrX2JU0gGHAkFVX3lxTFAzWmlVbUVSdDFDS2JlaUdfNTVlSGxUTDh6N3lTaHZFNWk1SkZnSDVsYWpqaWRfM2ZHTmZXVEx3TEhyQzRyLUgtdnRuTjhRV3FUMDU2MEFyX0Y5T3hGWXRraXV3Y3BNYkxXMnV6YXBRcmRvaVhheGdYazhTTUF4elQ5QjFhYmQwWllRSVp1VmJuc1lHWU4wM012RGF1VTZjQk1hSDZZanV6bG5SeGtIaEdFZWR3U3JZaW1Nb3dSS1pxTDVRYS1PVERMVmhJNnNYemQxaUFIMDdSbU1ncXZhR2JqQjRRSXJHekltV0hScGVOV0VtVS1KdDJDeWJYdUlPNFpINlFpdHM4?oc=5
 
-- India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ram.. - ET Government
-  India’s sovereign AI push moves from foundational models to real-
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQT0E5MGVuUExSb21yTXlqM2VEVGxHbDRvMk9pM3VRNjdaTHg0ZTNrZnJweV9LNFBRclFHQVZzeUFKVl93YjVfUlBFTGo0UEJfMWdsRUhHbENual9iem04Qi0tYklBdUhUSDlWMFNhSDk0SDEtZnhTRnNGYXV0aHZzSDh6bFcwaDh0Q1V5eHNMZ3RMUXFKR09nWWNkcmZaa20tR0Y4ZV9NYjhRM1JTdldfV204N0ZzODIwUzZaVDhrRE9lZUNGckp0UzhTQWIzUEtKdGE2WU5lRDU0aEIwVGVUTGQ3ZEhreG53UndGUDdYS3JYUXpFZXBKdm5nYzZVRVZTbDNvSlV6LUdBN1NIS0xQOC1Qc03SAZoCQVVfeXFMTjczMW16ZllwWjl1TUNQVENpOGozZ21rdDhGY19qc0RRYUl1Y3E1cWVWdkpKNFhReXNKRXRmMmdMM1gyVTBWU0IxeEFHem90THdBZVl6MkFuTkFtakRnSlhndk1KMWdtV0wtbXg2NTFXSi1aTXBzX1pwaFpIN1lPZ2pLaTU5WVBHMFRRWXp2Zmk4SER0VWxOU0J1R2ZBR0JJVG50NXBSX2g1ODBFUHhBd21vOURFY05hZTJNUmJXNmlMVE5lMTM5ZU5RLWJneHpoOVRWZEFmUkhMNjBZcFVmQkQ5UWlzQldEb3BmNmhQbFZzSXNoS0tJQlJJTnFEWUZHVTlqQ1RSbUFjQUc2MDBka0NpUVRlWTYxV293?oc=5
+- China’s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg.com
+  China’s 5,000-Ton
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5
 
-- SEBI proposal may open up data, technology businesses for exchanges, depositories - BusinessLine
-  SEBI proposal may open up data, technology
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVTlyR1NNemRCVkxEVk1PUzRRT3M2UHBoWmdfRkwyYk1qMVJnM29MdkVnSElUOVFQdUFsdUkyS283Y1hubU40X3hNTDBoUU1lX2Y3a1dZeVZtMk8zekx6UnlkMTNLamhtTXJqbWVObFF3dVNUb3N4dGR5MWdoTXVYeGRCZzJhalFVTzlBcUZIMmpKSTFxS2pQNWlWUEhKSUN4TDJRUDI2SmlWckFSNERMTDBicFNKejVGNkdHX2Zfa2NkZWRoSFZEdDEwa3VrVG1HY05DcnJLU2ZmTzVz0gHjAUFVX3lxTE9ONDhpM0VjcGk2dUdveEZ5cjZBWEpKZzdPbXZDbzc5Z1VrMThxcWh0OEpJOHVZZVMxSXFTNTh3LWlXcklQc2g0bGNTV0M0RjFjTXJ6bHpiNF9zbnBFTTM4a1NUWkV4Tjl0QlJsOFRHOVVvMG9xN0IxZlBjVGNGTTZzam1lY2M3RXlqXzRKMzJDZUtJczNRR3ZFWVZiQ3FIUXJkaWtlVEZjdjRaVGx0aDMwRXNGSlVXbndVaUU2VFNMSkVRQS1xNGFFVU8tYXRSSk1YOEs0RXFOX01CNTIzcGNsbkdn?oc=5
+- India's royals find new power in their past - Yahoo News Singapore
+  India's royals find new power in
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE1RQ1ljc2M0a3pSQWgxX2p2RG5ubDFEMTA2NzBEbE5tRTQweDVvTzNBUzVYa0d2QlpCTHFQUkpUcXQ2UG9NVHhxWlBkdlE0bnpCbzJac1JwZjJlZHRuSG1Mel9BdV9GVzdEQWdXVHdTT3hkWDg?oc=5
 
-- ‘We’re technology-savvy’: DG ISPR says Pakistan ahead of India, Afghan Taliban in operational readiness - Dawn
-  'We’re technology-savvy’:
-  🔗 https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RbEZyVmZfUWxKczRrdVA1Y0lsTUN0amtoZ1QyeGxOVnYzaFoxWWxNNTdLdExUTU9hYUlPTFIyZ0JHams0QnJ0Nw?oc=5
+- Asian Champions Trophy: Harmanpreet hat trick helps India beat Malaysia 4-2 - ESPN India
+  India beat Malaysia 4-2 in Asian Champions Trophy
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTA0OVM5UExDWTA0cnZVdUk3eDJtN3RqXzg0SGRWdk44dEc4eUhuemFJcmpPcG5rSWg3aTA1dTBSYXBBWVV6QWRlSk9CX3l5WWR5T0xKZTRzaWJiVThNQmNnZ3pJRGg5WDdPeV9vTTdwSUJXSHk4ZUMwYndCYklJa1B0Si1mblN6TUEydmJ6aWtFbTZxa1ZySEZfZVVxYXdWa2xIaHhQdmNYTmZsZVpFaWRlNkVvamtPUTIybWhJZmYyQXM1bnpHYnY1eUZDUEo5VUJleG04bVlHY1JsZHc?oc=5
 
-- IIT Guwahati To Introduce Diploma, BTech Courses In Semiconductor Technology - NDTV
-  IIT Guwahati To Introdu
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQcldQWkJLZjhITllCVndwWHd2MWFqYTE1MEstcmp3cjZYcDhLQ1pnbTB2bmhBczZPSXBkdm42M0p6bV9aNGVhOGgtNkdoTmdOcGhJR05mTTkxTjFSTnFKcDJReDkwSkF3MDlMcmFzanFoSW41OVpUQzhKNF9VWEJoWW85VTdvWHl4QXduaHpjT3RaZk91V1BRalJlYk91Mi1LUmZKU2lmMHNOOV9jZFdSbVJ0QlNCUdIBvgFBVV95cUxOa21jOVlBc1ItUHhTWWJ4RkdRRVBLWE56dENzcnBLd3dMRER0Z1lwV05sX19uSlhzSmIyOGN4SW5walFyNWFJUDN0MXFyWk9tek1FVm1ULTRGMkpmdTdMMVZ4VGJOMmtfallRNlhPajlxczM1akd5QkNWVVllOWtvUldqSnU1SHVhWEZ6blJNa3FZQWl3alZfdkh5S3dhZTN6V3lwTjBUU3I1ZndNQzR2TjBLdXg5NHBNd01Eb0RB?oc=5
+- ‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India - Al Jazeera
+  ‘Like Kashmir’: How a toxic marble dump yard
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkMyQVBLVFBKNGplOEtyeXNJSEFiZE42VEloUDBsZk9RZHBtLXh3Sl9uZnh2d0lyZC14dnlHZHcyNWhnY2QwUm5XdjZNWG1yYzZJX2wyZWQtTk15VE1HWFNER0FJRW1CU3RHbEwwaFc5dW0ycGtVSDc0ZWJSWmpvVklhU2ZhUm9DaTFWZkc0cTFaSnFES21wTy1fd294bW1EVjc1ajRZNnlmV201NDdMT0VHVdIBuAFBVV95cUxPejFEUDFQM0JHeVpZREFzanhNRS00cENSQlZxcDhBc2ItLVRESkVmMmRkdmtwc2FxdDMyNTh2MnBYbTlLeW45VUhkWUVpRlBMemc3Nm52c1F5QmhpbEt2WVJfY3NFa21uRkUwRjhFSC02aUNnSzRHeXRDOXhibnBzZ3pyWllxRWJBd0NBellIQ2lsU0pLUXFfaldnWm44ajJMVkJKSkU2SUZZTGVqRm5MVE5ZdVc1NUVz?oc=5
 
-- TSMC’s $265 Billion Campus Is Driving a Real Estate Boom in the Phoenix Suburbs
-  The world’s biggest chipmaker is pulling in suppliers, home builders and Taiwanese investors.
-  🔗 https://www.livemint.com/companies/tsmcs-265-billion-campus-is-driving-a-real-estate-boom-in-the-phoenix-suburbs-11793568453780.html
+- From warehouses to last-mile delivery: How India’s logistics companies are handling festive e-commerce rush
+  As festive online shopping gathers pace, India’s logistics companies are expanding warehouse capacity. Rising order volumes, bulkier parcels and demand from smaller towns are testing their ability to keep shipments moving
+  🔗 https://www.livemint.com/companies/news/from-warehouses-to-last-mile-delivery-how-india-s-logistics-companies-are-handling-festive-e-commerce-rush-11793584952506.html
 
-- PNB union seeks audit of 10,500 branches after  ₹11.24 cr fraud, multiple suspensions; warns against ‘knee-jerk’ action
-  The Punjab National Bank's union has urged the management to audit all 10,500 branches and examine staffing, training, security and management oversight
-  🔗 https://www.livemint.com/companies/news/pnb-union-seeks-audit-of-10-500-branches-after-11-24-cr-fraud-multiple-suspensions-warns-against-knee-jerk-action-11793550416012.html
+- Binance hack: Crypto exchange resumes withdrawals after more than $6 billion stolen, sees outflow of $4.7 billion
+  Binance says it will cover the losses and has replenished 90% of the stolen funds. The FBI has attributed the attack to the North Korean hacking group TraderTraitor.
+  🔗 https://www.livemint.com/companies/news/binance-hack-crypto-exchange-resumes-withdrawals-after-more-than-6-billion-stolen-sees-outflow-of-4-7-billion-11793581525421.html
 
-- DivyaSree Developers, HDFC Capital partner to set up  ₹1,500 crore residential platform
-  The partnership aims to build a  ₹6,750 crore development pipeline over the next three to four years. The
-  🔗 https://www.livemint.com/companies/news/divyasree-hdfc-capital-rs-1500-crore-residential-platform-11793500076141.html
+- Flipkart looks to expand FPO tie-ups with focus on value-added, premium produce
+  The e-commerce company is investing in local sourcing, demand planning and premium offerings.
+  🔗 https://www.livemint.com/companies/news/flipkart-looks-to-expand-fpo-tie-ups-with-focus-on-value-added-premium-produce-11793454813163.html
 
-- Why did Amazon cut 250 jobs in its devices unit despite new product launches? What employees were told
-  Amazon has cut up to 250 jobs in its devices and services division. The company cited efficiency and changes to its product plans.
-  🔗 https://www.livemint.com/companies/news/why-did-amazon-cut-250-jobs-in-its-devices-unit-despite-new-product-launches-what-employees-were-told-11793540782696.html
+- Japanese investors deepen India bets, creating a bigger business opportunity for law firms
+  Last year, Japan pledged a target of JPY 10 trillion in private and public investments into India over the next decade. Since Aug 2025, 120 MoUs have been signed targeting over ₹1 trillion of cross border
+  🔗 https://www.livemint.com/companies/news/japanese-deal-rush-keeps-law-firms-busy-as-india-bets-grow-11793519105656.html
 
-- Apax co-CEO bets on India’s AI strengths, eyes faster investment
-  Apax Partners has invested about $4 billion in India and returned more than $10 billion to investors. Despite currency pressures and market uncertainty, the private equity firm sees long-term opportunities
-  🔗 https://www.livemint.com/companies/indias-ai-strengths-to-spur-faster-investment-says-apax-co-ceo-mitch-truwit-11793277398310.html
+- Air India weighs Singapore Airlines executive for CFO as losses mount
+  Tata Sons chairman N. Chandrasekaran and Air India chief executive officer (CEO) Tewolde Gebremariam are understood to
+  🔗 https://www.livemint.com/companies/people/air-india-weighs-singapore-airlines-executive-for-cfo-as-losses-mount-11793511128094.html
 
-- Wall Street Braces for Biggest Treasury Sales Overhaul in Years
-  Wall Street is now girding for the biggest revamp in guidance for US Treasuries issuance since early 2024.
-  🔗 https://www.livemint.com/market/wall-street-braces-for-biggest-treasury-sales-overhaul-in-years-11793564884387.html
+- ITC Q2 results 2026 today schedule, preview | Should you buy ahead of earnings announcement?
+  ITC's board of directors is scheduled to meet on Monday, 2 November, 2026, to consider and approve the unaudited standalone and consolidated financial results
+  🔗 https://www.livemint.com/market/stock-market-news/itc-q2-results-2026-today-schedule-preview-should-you-buy-ahead-of-earnings-announcement-11793588430267.html
 
-- Crash! Gold price suffers worst October in years: Did silver and platinum suffer too? Check monthly performance
-  Silver recorded the steepest monthly decline at 19.17%, followed by platinum at 16.65% and gold at 7.23%.
-  🔗 https://www.livemint.com/market/commodities/crash-gold-price-suffers-worst-october-in-years-did-silver-and-platinum-suffer-too-check-monthly-performance-11793549898014.html
+- Infosys dividend 2026: Record date tomorrow | Know dividend payout, yield, history, returns
+  The IT major had announced an interim dividend of  ₹26 per equity share, along with its
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-dividend-2026-record-date-tomorrow-know-dividend-payout-yield-history-returns-11793585489373.html
 
-- Emami vs Dabur FMCG shares Q2 results preview: Profit, revenue expectations; Dividend announcements in focus
-  Emami and Dabur are set to announce Q2FY27 results on November 5 and 4, respectively. Analysts expect revenue growth of 20% for Emami and 11% for
-  🔗 https://www.livemint.com/market/stock-market-news/emami-vs-dabur-fmcg-shares-q2-results-preview-profit-revenue-expectations-dividend-announcements-in-focus-11793546880029.html
+- Chicago wheat retreats toward 4-month low on Russian export outlook
+  Chicago wheat retreats toward
+  🔗 https://www.livemint.com/market/chicago-wheat-retreats-toward-4-month-low-on-russian-export-outlook-11793587982303.html
 
-- ITC Q2 results 2026 preview: Will cigarette business drive growth? Profit, revenue expectations - share price target
-  ITC is set to report its Q2 FY2026-27 results, with analysts expecting FMCG revenue growth but flat margins and weaker cigarette performance. Forecasts point to declines in consolidated earnings
-  🔗 https://www.livemint.com/market/stock-market-news/itc-q2-results-2026-preview-will-cigarette-business-drive-growth-profit-revenue-expectations-share-price-target-11793540718182.html
+- South Korean shares turn higher on dip buying after strong exports
+  South Korean shares turn higher on
+  🔗 https://www.livemint.com/market/south-korean-shares-turn-higher-on-dip-buying-after-strong-exports-11793587980784.html
 
-- Cash rewards coming? PFC, CONCOR, RITES, to Sonata- These firms to announce dividend with Q2 results 2026 this week
-  At least 20 companies are scheduled to report Q2FY27 results this week. Companies to watch include Power Finance Corporation, CONCOR,
-  🔗 https://www.livemint.com/market/stock-market-news/cash-rewards-coming-pfc-concor-rites-pfc-to-sonata-these-firms-to-announce-dividend-with-q2-results-2026-this-week-11793537407103.html
+- Australian shares edge lower as miners retreat, RBA decision looms
+  Australian shares edge lower as miners
+  🔗 https://www.livemint.com/market/australian-shares-edge-lower-as-miners-retreat-rba-decision-looms-11793587975667.html
 
 - Millennials lead AI shopping adoption in India at 84%, ahead of Gen Z: McKinsey
   Millennials are leading the adoption of artificial intelligence (AI) for shopping in India. 84 per cent using AI-powered tools to search for products, compare options or make purchase decisions.
@@ -80,25 +80,73 @@
   HMD unveils Nokia 2360 Flip 2G phone for senior citizens. Features include family assist, SOS and parental control.
   🔗 https://www.livemint.com/technology/gadgets/hmd-unveils-new-nokia-2360-flip-phone-india-launch-price-seniors-family-assist-sos-parent-control-features-specs-colours-11793429445556.html
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Sensex and Nifty ended the week up about 0.5%, supported by resilient large-cap, IT and healthcare stocks. However, midcap and smallcap indices
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135426334.cms
+- Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates - CNBC
+  Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBrbkQzMEJlOVN5RDBtcEZuU2VQSkZydW01ejJqY2hObWJXOUl0dUhUMWVoVXRwZWhsU3BIRkVGR0lhc3JmM0w4ak5ybUpCVElXOWxKMm1tQ3ByOE5TNzNJQm5YUDFaa2hRNENZNDJacnlMci1tZmU00gF8QVVfeXFMUHRLQWRCRkw3cUdsOVZINFdPc1VsLVN4UzJKT1BmX2ZaMlBrcDM2WER5cXY1LTdZQjZXMy1FVUU3RFhFcHVxcXA5eEx0a041Vlo2Y3BlVXN2S0hpTG9tVVV3SndoWVRMU2JweGZKUVNpVWxJeXk4Sno4a2hmZQ?oc=5
 
-- Good intentions, unintended consequences: The cost of regulation
-   Regulation is vital for protecting consumers and building trust. But unpredictable or poorly calibrated policy changes can
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/good-intentions-unintended-consequences-the-cost-of-regulation/articleshow/135422850.cms
+- Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap - Bloomberg.com
+  Asian Stocks to Fall as Tech Rout Fuels
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXhSWUZpNlU1UFZVSEtvY3QwQVB4T3FuYlpCT3lpaE05MThfMFFTZVZWWllFZDZDYkJFdTBIWEx1X1ZMVXlESFdaX3Noc2VSSW1QRHFzYzhPZkowLVNZeWR1N2dBN2hlLXY1VlJ3SHJNR3Ayc29JOXN4cXN3bklZQzN5bEctRER1aGp1eFdUVjhITWM0?oc=5
 
-- Global beverage majors advance India IPO plans, from DRHP filing to board approval
-  Carlsberg has filed an updated draft red herring prospectus for its potential IPO in India. Pernod Ricard continues to prepare for its proposed listing while awaiting board approval for its Indian business. Coca-Cola is exploring a
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/global-beverage-majors-advance-india-ipo-plans-from-drhp-filing-to-board-approval/articleshow/135422834.cms
+- AI stocks just lost $5 trillion — but history says the stock market's sweetest stretch starts now - Yahoo Finance
+  AI stocks just lost $5 trillion — but history says the stock market's sweet
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXlkUVhJS3B6Y1JETnlNMFNfcnFJR1g2TkI0Q0QtcWJnVlZzVnJUbnY0ZUNzV3B2Qjl1dlhkSkZ4c0YwQzNCM0lueHE5Uk9zeTBnM0k2U2puM25rbmZFdVZXcDAzYTFDcGgydENMQjZOUnhrM1gwaERMYm9rSGU0Rm1hX1otQjVxdzRIbkQ2bjk0V3NaSkw0QmVaOGhqNlB2WWZfRGFDVFAzVnhGTFpjM0FlWlJzNjRsX0FKT0liZDJCVlJORm5uOHF3N2xlTUxNU1FiVnRVTlk3RldvZ1JBNDM2RGd6UQ?oc=5
 
-- 10 penny stocks plunge up to 70% in three months. Do you own any?
-  Ten actively traded penny stocks have fallen between 34% and 73% over the past three months. Cropster Agro recorded the steepest decline at 73%, followed by Bridge Securities and Empower
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-70-in-three-months-do-you-own-any/slideshow/135420900.cms
+- Sensex Today | Stock Market LIVE Updates: Nifty opens above 23,200, Sensex gains 800 pts; RIL, Jio Platforms, Granules, BoB, auto stocks in focus - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiowJBVV95cUxNSml1T2RmVEoxSVJnMFZQOXQySGxQTmRIMGdNUjREMml4N28wN1FGTXJUUzlFeGlVMEZjOGNvdFludlg3aFQzV1hoanRvWHgzTlZ3TkxZQUg2dTkxdXJqSFl3YndHQkU3Mm
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxNSml1T2RmVEoxSVJnMFZQOXQySGxQTmRIMGdNUjREMml4N28wN1FGTXJUUzlFeGlVMEZjOGNvdFludlg3aFQzV1hoanRvWHgzTlZ3TkxZQUg2dTkxdXJqSFl3YndHQkU3MmdSY0tWSDgzMTk5aE5xQm9XRnlxT0ZBc1ltQWpRb3JTdGJTSEZyV3RXeFltVVFSZTVDYVItYWhCQUhwUS1xQmNnQ3ZERnhOd1NpZlEzMDlTR29JQnEyWDZFeTE1ZWotaS1WbldEWXZ1d3YwMFBsOVVYR3k2ckx0WXc4bU9VV2NJeUo0NThDakZ1UkxRbXo0NjRFYXF6VVVnenlZV1YyMVZVdjFhSW80Vm1ZaHJtZ0c2RF9zSUYtQUNrakHSAagCQVVfeXFMTTgxeDh1UE9sU21ySVRYLXFqQVFVVDRWWkI0QkIyT0VLMFp3WS1Cak9YUThtRkNaYS1Kd3N5Vk9SaFdCaUFMdnR5V2tGWmNha3FzeXZiMV9NNzFESDBkbmt1VWc3OXM3R1RHdFV3QUR1am9GSTJrT3pscVlIVHFQZG9zMlc3YmZrVUFqZjdqbXlacXBwQjFnbmMtRFdBR3lnUGFfNU04Q2dMb3VBd0pFN0FKRGFsaXRrek44cEZjWVhEYXl3ei1tQjhrSjZCUFQzeWR1YVAtV0FEdVZ2dDJQT3pVa3dkX194b3hpZTZ5aVhYX29RWklvTFptUmZveENGMjd1Uml6ZXJwOEpZcHFGMlFqZWxqMkh1aDNPOXJZSEZORWRNcnFtLVM?oc=5
 
-- IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings
-  In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore. This profitability surge defied the ongoing freeze on petrol and diesel prices since May.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms
+- Stock Market LIVE Updates, Sensex Today: Markets Likely To Start Higher As Oil Prices Ease, GST Collections Rise - NDTV
+  Stock Market LIVE Updates, Sensex Today: Markets Likely To Start Higher As Oil
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNOUVrRk80SUJ3aTRGdnZ3emxFRVRYVTFmQzRndjY2cXlRN1BFcFhPVk9TSlZWOEMzWi1rZGppRHJlMm92N1I3cHBTcTduenUwanZla0VQQ1hERHkzQXBQczhBTFNBdHNubUZmaFZMb3VtYmVQMUxkbTQxQWxKSDhCMTFNU3c4bGpzU3YzV0JUSU1oOExPcWhOaU5rbkN4MkNmeml5emxmWElMZ2s4TTdwcmFUVEFjd0psZE9iZFY5REt2cktvSXJ3M3VUTGctbWfSAdcBQVVfeXFMT0k3am80enFUOFpXOUxLVGN2RXdpNU50MUMzMFZmMG5seFFuV2VYdlZJYXFhZGpxOXVYRHczY01yUjFXQVhDQ2NIWkZ4OTc2OWRWbVpia19CdF9oaE53aTVKWkZ6aXJ6ZVYyOElaczZxZ3JWMzlFWWJaaHUtYUU5b1dxbVNPRGQyMGhHZkFYZ2EwWHB4TFJtYTJRNTlZdnM3QVdjTXMxcHpPY2I4cG5pbGQzaDViQ1RULXFxaF8zUEdQdllkYnAtSFZMejNPcFd0aUxkZ1dvamM?oc=5
+
+- Nifty’s comeback or a largecap trap? Anand James decodes breadth, IT and Swiggy
+  Anand James, Chief Market Strategist at Geojit Investments, says the recovery still looks like a narrow largecap-led bounce. He also assesses Swiggy’s rebound prospects and names his top stock ideas
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/niftys-comeback-or-a-largecap-trap-anand-james-decodes-breadth-it-and-swiggy/articleshow/135443410.cms
+
+- Eicher Motors Share Price Live Updates: Eicher Motors achieves a 0.98% return over the month
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-live-updates-02-nov-2026/liveblog/135443314.cms
+
+- Binance sees outflows stabilising as exchange returns online after $6.3 billion heist
+  Binance customers pull $3.64 billion, or 2.1% of its assets. Security breach linked to North Korea saw $6.3
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/binance-sees-outflows-stabilising-as-exchange-returns-online-after-6-3-billion-heist/articleshow/135443825.cms
+
+- Zydus Lifesciences among 6 stocks showing White Marubozu pattern
+  Six Nifty500 stocks featured in StockEdge's White Marubozu bullish scanner
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zydus-lifesciences-among-6-stocks-showing-white-marubozu-pattern/slideshow/135443169.cms
+
+- Hindalco Share Price Live Updates: Hindalco's six-month beta reflects market volatility
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-live-02-nov-2026/liveblog/135442883.cms
+
+- ‘You can break a stick, not a bundle’: Thousands turn up for INDIA bloc rally from across the country - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPaURLaVBBX2tlS0ptM2s3REpSdlVzTi1RZWthd0MwUlZPQ1ZDV0k5aVkyUXZCLWwxZzRDaDdudHlsdGVEcWZnaFNZUExfaDZLN1FpTmxXWlNUM2d2SloyaTVPd282LVp0S0
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPaURLaVBBX2tlS0ptM2s3REpSdlVzTi1RZWthd0MwUlZPQ1ZDV0k5aVkyUXZCLWwxZzRDaDdudHlsdGVEcWZnaFNZUExfaDZLN1FpTmxXWlNUM2d2SloyaTVPd282LVp0S0VTY0FybDBxLU5pcXhIUXlGX3NqUWp6WWF4QUZyWkpYdUNOYXFMSnByZXhYQV9fNDNyaTIzZERISU9Sc19adG1NZktFS3MxUXl4bEhPNDk5bUdKLWMtV3N2Y0lYWGh2azhpZDNwV0RiLWdGdENUcVFTclBzcE8wU1V0TlZXZ3RTXzhBUVVDWnJydTZsUFhkSXNMeFVrX2JU0gGHAkFVX3lxTFAzWmlVbUVSdDFDS2JlaUdfNTVlSGxUTDh6N3lTaHZFNWk1SkZnSDVsYWpqaWRfM2ZHTmZXVEx3TEhyQzRyLUgtdnRuTjhRV3FUMDU2MEFyX0Y5T3hGWXRraXV3Y3BNYkxXMnV6YXBRcmRvaVhheGdYazhTTUF4elQ5QjFhYmQwWllRSVp1VmJuc1lHWU4wM012RGF1VTZjQk1hSDZZanV6bG5SeGtIaEdFZWR3U3JZaW1Nb3dSS1pxTDVRYS1PVERMVmhJNnNYemQxaUFIMDdSbU1ncXZhR2JqQjRRSXJHekltV0hScGVOV0VtVS1KdDJDeWJYdUlPNFpINlFpdHM4?oc=5
+
+- China’s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg.com
+  China’s 5,000-Ton
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5
+
+- India's royals find new power in their past - Yahoo News Singapore
+  India's royals find new power in
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE1RQ1ljc2M0a3pSQWgxX2p2RG5ubDFEMTA2NzBEbE5tRTQweDVvTzNBUzVYa0d2QlpCTHFQUkpUcXQ2UG9NVHhxWlBkdlE0bnpCbzJac1JwZjJlZHRuSG1Mel9BdV9GVzdEQWdXVHdTT3hkWDg?oc=5
+
+- Asian Champions Trophy: Harmanpreet hat trick helps India beat Malaysia 4-2 - ESPN India
+  India beat Malaysia 4-2 in Asian Champions Trophy
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTA0OVM5UExDWTA0cnZVdUk3eDJtN3RqXzg0SGRWdk44dEc4eUhuemFJcmpPcG5rSWg3aTA1dTBSYXBBWVV6QWRlSk9CX3l5WWR5T0xKZTRzaWJiVThNQmNnZ3pJRGg5WDdPeV9vTTdwSUJXSHk4ZUMwYndCYklJa1B0Si1mblN6TUEydmJ6aWtFbTZxa1ZySEZfZVVxYXdWa2xIaHhQdmNYTmZsZVpFaWRlNkVvamtPUTIybWhJZmYyQXM1bnpHYnY1eUZDUEo5VUJleG04bVlHY1JsZHc?oc=5
+
+- ‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India - Al Jazeera
+  ‘Like Kashmir’: How a toxic marble dump yard
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkMyQVBLVFBKNGplOEtyeXNJSEFiZE42VEloUDBsZk9RZHBtLXh3Sl9uZnh2d0lyZC14dnlHZHcyNWhnY2QwUm5XdjZNWG1yYzZJX2wyZWQtTk15VE1HWFNER0FJRW1CU3RHbEwwaFc5dW0ycGtVSDc0ZWJSWmpvVklhU2ZhUm9DaTFWZkc0cTFaSnFES21wTy1fd294bW1EVjc1ajRZNnlmV201NDdMT0VHVdIBuAFBVV95cUxPejFEUDFQM0JHeVpZREFzanhNRS00cENSQlZxcDhBc2ItLVRESkVmMmRkdmtwc2FxdDMyNTh2MnBYbTlLeW45VUhkWUVpRlBMemc3Nm52c1F5QmhpbEt2WVJfY3NFa21uRkUwRjhFSC02aUNnSzRHeXRDOXhibnBzZ3pyWllxRWJBd0NBellIQ2lsU0pLUXFfaldnWm44ajJMVkJKSkU2SUZZTGVqRm5MVE5ZdVc1NUVz?oc=5
+
+- India’s Deeptech Dilemma, Weekly Funding Rundown & More
+  Indian VCs And The Deeptech Dilemma Skyroot has proved that homegrown startups can build rockets, but the bigger challenge may be funding.
+  🔗 https://inc42.com/buzz/indias-deeptech-dilemma-weekly-funding-rundown-more/
+
+- Two Point O Bags $10 Mn To Bridge The Financing Gap In Clean Energy
+  India’s clean energy transition is attracting significant capital, but much of it is flowing into utility-scale projects.
+  🔗 https://inc42.com/buzz/two-point-o-bags-10-mn-to-bridge-the-financing-gap-in-clean-energy/
 
 - Indian Startup IPO Tracker 2026
   Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
@@ -112,21 +160,17 @@
   What if Netflix’s next big hit in India is not an expensive scripted original, but a reality show with a&#8230;
   🔗 https://inc42.com/features/netflix-flips-its-india-script/
 
-- Here’s Why Doctors Are Betting On Docterz’s Hospital Management Software
-  Doctors are betting on Docterz’s Hospital Management Software. Like any business, doctors also need to manage their schedules and patient records.
-  🔗 https://inc42.com/buzz/heres-why-doctors-are-betting-on-docterzs-hospital-management-software/
+- ‘You can break a stick, not a bundle’: Thousands turn up for INDIA bloc rally from across the country - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPaURLaVBBX2tlS0ptM2s3REpSdlVzTi1RZWthd0MwUlZPQ1ZDV0k5aVkyUXZCLWwxZzRDaDdudHlsdGVEcWZnaFNZUExfaDZLN1FpTmxXWlNUM2d2SloyaTVPd282LVp0S0
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPaURLaVBBX2tlS0ptM2s3REpSdlVzTi1RZWthd0MwUlZPQ1ZDV0k5aVkyUXZCLWwxZzRDaDdudHlsdGVEcWZnaFNZUExfaDZLN1FpTmxXWlNUM2d2SloyaTVPd282LVp0S0VTY0FybDBxLU5pcXhIUXlGX3NqUWp6WWF4QUZyWkpYdUNOYXFMSnByZXhYQV9fNDNyaTIzZERISU9Sc19adG1NZktFS3MxUXl4bEhPNDk5bUdKLWMtV3N2Y0lYWGh2azhpZDNwV0RiLWdGdENUcVFTclBzcE8wU1V0TlZXZ3RTXzhBUVVDWnJydTZsUFhkSXNMeFVrX2JU0gGHAkFVX3lxTFAzWmlVbUVSdDFDS2JlaUdfNTVlSGxUTDh6N3lTaHZFNWk1SkZnSDVsYWpqaWRfM2ZHTmZXVEx3TEhyQzRyLUgtdnRuTjhRV3FUMDU2MEFyX0Y5T3hGWXRraXV3Y3BNYkxXMnV6YXBRcmRvaVhheGdYazhTTUF4elQ5QjFhYmQwWllRSVp1VmJuc1lHWU4wM012RGF1VTZjQk1hSDZZanV6bG5SeGtIaEdFZWR3U3JZaW1Nb3dSS1pxTDVRYS1PVERMVmhJNnNYemQxaUFIMDdSbU1ncXZhR2JqQjRRSXJHekltV0hScGVOV0VtVS1KdDJDeWJYdUlPNFpINlFpdHM4?oc=5
 
-- ED Arrests Armstrong Exchange Founder Over Alleged Online Betting Scam
-  The Enforcement Directorate (ED) has arrested Armstrong Exchange founder Sagar Dash in connection with an alleged online gaming and betting.
-  🔗 https://inc42.com/buzz/ed-arrests-armstrong-exchange-founder-over-alleged-online-betting-scam/
+- China’s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg.com
+  China’s 5,000-Ton
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5
 
-- 'Massive turnout at Ramlila Maidan,' says Congress; Rahul reiterates, 'Gyanesh will go to jail' | HIGHLIGHTS - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPLTZLLUNHUGpmZDUyNEF5TUhvM1J5QVdmdmtEZHNkbWJBRHNHeVo4YUFZMm82WlkzaFJYMXp4TFgzRWIzZFdYMFMtYzNWU1llWWJHVDJBYWFFZVRfSGk2RmpyZ1M2Sko0QX
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPLTZLLUNHUGpmZDUyNEF5TUhvM1J5QVdmdmtEZHNkbWJBRHNHeVo4YUFZMm82WlkzaFJYMXp4TFgzRWIzZFdYMFMtYzNWU1llWWJHVDJBYWFFZVRfSGk2RmpyZ1M2Sko0QXlsMW52QjZqV3ZKMEtoWXV0VFZFTTRzNTVEY2Nrb2NTX05FMWtxS2FRZE5fRjZ1X3E2WkJ2cjFGbUQ1V1FoXzhZWDZ5WGFRNG5LaTlfcXlCZ3pkRUZ5RDJNa0ZFS0VRZXBuQXdJQU5lY1hKZ1kzNWhWY0Z5NDNWblMtTk5KaEUzZy1KaVJMbl9CdWNoTlF1b09BZmZlWUEt0gGHAkFVX3lxTFBCeENKcEJqU1c0YWdSenItQ1d0NkQ1NG9Ya3c4UmNVUlJGLW5fdG5sS2JlNEZjN1JmN0JlRmZRRWFjZFJBT25FeHZIN094NjdMVG5aQ2h5Yk1Ed1o5OVVwLXZpR1IzTHczOUpEWG9PNDVnRDdXbXEwbFJfbmdqNXdyZU5XNFJvb2F3OE5CYTNMOXFFeHJlWi1nMTJCYVBrWEU0WUc4RDBXSUxpN2FQTUdYSGRFNnlHOHdMUnI2SEJvNjEyMFZkM3pfcUNIb2c3WDlua1BZWTVobnl6LVZVYUg1UERPbDhETWQydWxxZjVFYTJTUnYtWEZxc3VCQTl1LXM0S2tjbkJr?oc=5
-
-- Golden Triangle's North East drug trade thrives on barter - The Times of India
-  Golden Triangle's North East drug trade thrives on
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN184Ullkc3dEY2Z3TTFiaWtkV25rV3U3Nl9yX3hWWS1semsxcGlSY0dsYm9mSFdNY3RzNkFzaGJtUGpaLWxIRm0tTDNfZl9RSHM0UHc0SGZWSTdwN0o0ZU5GTTV4Y0lLeFJfQ1ppaFhkMmVBUlc1SGZjdHNXcFZJbFBIOGprdm1zRTJmY21mRmkzWm92c3RfOTN4TkJpeGxfbUNjS2oyT1Z6Q2QyU29YdXhwaGpfYkVmY2pQZUhVN2VVZ9IBxwFBVV95cUxNWThNbzVVV1phOVFOREtKM1RhR0g1SFN3TEFBakFXZ1FRVFZtN2JoT2oyNDlNTC1sLUJ4TWFOcFRPUE5NN1pZQmhEcG1KRl80WF95S3Rrc1RnRjMzQThHY3pYTnp2Q05COXh3am1zNmNyZHFxQWh2a0swaG9SQ1NlZWtQRV9SNWN6ZThEeHFJVXFVZTNFaThteTVKMDl0Q3oweVNPcm1jYUI0QzcyeTUxMWdsVThHNTU5ZXhIVUxUT2Z3TXdNbmRN?oc=5
+- India's royals find new power in their past - Yahoo News Singapore
+  India's royals find new power in
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE1RQ1ljc2M0a3pSQWgxX2p2RG5ubDFEMTA2NzBEbE5tRTQweDVvTzNBUzVYa0d2QlpCTHFQUkpUcXQ2UG9NVHhxWlBkdlE0bnpCbzJac1JwZjJlZHRuSG1Mel9BdV9GVzdEQWdXVHdTT3hkWDg?oc=5
 
 - Asian Champions Trophy: Harmanpreet hat trick helps India beat Malaysia 4-2 - ESPN India
   India beat Malaysia 4-2 in Asian Champions Trophy
@@ -136,9 +180,25 @@
   ‘Like Kashmir’: How a toxic marble dump yard
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkMyQVBLVFBKNGplOEtyeXNJSEFiZE42VEloUDBsZk9RZHBtLXh3Sl9uZnh2d0lyZC14dnlHZHcyNWhnY2QwUm5XdjZNWG1yYzZJX2wyZWQtTk15VE1HWFNER0FJRW1CU3RHbEwwaFc5dW0ycGtVSDc0ZWJSWmpvVklhU2ZhUm9DaTFWZkc0cTFaSnFES21wTy1fd294bW1EVjc1ajRZNnlmV201NDdMT0VHVdIBuAFBVV95cUxPejFEUDFQM0JHeVpZREFzanhNRS00cENSQlZxcDhBc2ItLVRESkVmMmRkdmtwc2FxdDMyNTh2MnBYbTlLeW45VUhkWUVpRlBMemc3Nm52c1F5QmhpbEt2WVJfY3NFa21uRkUwRjhFSC02aUNnSzRHeXRDOXhibnBzZ3pyWllxRWJBd0NBellIQ2lsU0pLUXFfaldnWm44ajJMVkJKSkU2SUZZTGVqRm5MVE5ZdVc1NUVz?oc=5
 
-- Delhi’s mixed signals, Mumbai’s panic: RBI proposes blunt fix for the rupee - The Indian Express
-  The Indian Express reports that the RBI has proposed a blunt
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0VWaWVVenotdGtvUWtZRF9yZ0p5aXEtYkQ3bjVaV0dyQldWcmcxVk80YjRBdGo5bkw1M3g2MzZpZFJqMEFKMkhoelpJZHBxdmoxNWxldDZvdGJnQ3daZ1B4dlZIVkxvWGswSXBqWXAtNVgyTkFNbGpuM1Y1Vk9LYUFGQ1hfa0hIb1VteU15a0kzZUc10gGbAUFVX3lxTE5xVkpiMmlCUm1Ja0JPZjJHM0J4bnYzS21kYnpKOE9abHdIRS1SRUVqWUw3OWVIX2FYakpDbVRVYWJtVFVvOFBMTHZHWU9Tb3dlY0tuRFY5Y2ZiZjAxZ0M1X19NVm5YMmlBLTU4WjhlaW5ScjFEOGh2NllXLTdnMWZBR1VqQ3dYMlZCS3oyYXk4bVVZZUlWZjZBMHFz?oc=5
+- ‘You can break a stick, not a bundle’: Thousands turn up for INDIA bloc rally from across the country - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPaURLaVBBX2tlS0ptM2s3REpSdlVzTi1RZWthd0MwUlZPQ1ZDV0k5aVkyUXZCLWwxZzRDaDdudHlsdGVEcWZnaFNZUExfaDZLN1FpTmxXWlNUM2d2SloyaTVPd282LVp0S0
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPaURLaVBBX2tlS0ptM2s3REpSdlVzTi1RZWthd0MwUlZPQ1ZDV0k5aVkyUXZCLWwxZzRDaDdudHlsdGVEcWZnaFNZUExfaDZLN1FpTmxXWlNUM2d2SloyaTVPd282LVp0S0VTY0FybDBxLU5pcXhIUXlGX3NqUWp6WWF4QUZyWkpYdUNOYXFMSnByZXhYQV9fNDNyaTIzZERISU9Sc19adG1NZktFS3MxUXl4bEhPNDk5bUdKLWMtV3N2Y0lYWGh2azhpZDNwV0RiLWdGdENUcVFTclBzcE8wU1V0TlZXZ3RTXzhBUVVDWnJydTZsUFhkSXNMeFVrX2JU0gGHAkFVX3lxTFAzWmlVbUVSdDFDS2JlaUdfNTVlSGxUTDh6N3lTaHZFNWk1SkZnSDVsYWpqaWRfM2ZHTmZXVEx3TEhyQzRyLUgtdnRuTjhRV3FUMDU2MEFyX0Y5T3hGWXRraXV3Y3BNYkxXMnV6YXBRcmRvaVhheGdYazhTTUF4elQ5QjFhYmQwWllRSVp1VmJuc1lHWU4wM012RGF1VTZjQk1hSDZZanV6bG5SeGtIaEdFZWR3U3JZaW1Nb3dSS1pxTDVRYS1PVERMVmhJNnNYemQxaUFIMDdSbU1ncXZhR2JqQjRRSXJHekltV0hScGVOV0VtVS1KdDJDeWJYdUlPNFpINlFpdHM4?oc=5
+
+- China’s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg.com
+  China’s 5,000-Ton
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5
+
+- India's royals find new power in their past - Yahoo News Singapore
+  India's royals find new power in
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE1RQ1ljc2M0a3pSQWgxX2p2RG5ubDFEMTA2NzBEbE5tRTQweDVvTzNBUzVYa0d2QlpCTHFQUkpUcXQ2UG9NVHhxWlBkdlE0bnpCbzJac1JwZjJlZHRuSG1Mel9BdV9GVzdEQWdXVHdTT3hkWDg?oc=5
+
+- Asian Champions Trophy: Harmanpreet hat trick helps India beat Malaysia 4-2 - ESPN India
+  India beat Malaysia 4-2 in Asian Champions Trophy
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTA0OVM5UExDWTA0cnZVdUk3eDJtN3RqXzg0SGRWdk44dEc4eUhuemFJcmpPcG5rSWg3aTA1dTBSYXBBWVV6QWRlSk9CX3l5WWR5T0xKZTRzaWJiVThNQmNnZ3pJRGg5WDdPeV9vTTdwSUJXSHk4ZUMwYndCYklJa1B0Si1mblN6TUEydmJ6aWtFbTZxa1ZySEZfZVVxYXdWa2xIaHhQdmNYTmZsZVpFaWRlNkVvamtPUTIybWhJZmYyQXM1bnpHYnY1eUZDUEo5VUJleG04bVlHY1JsZHc?oc=5
+
+- ‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India - Al Jazeera
+  ‘Like Kashmir’: How a toxic marble dump yard
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkMyQVBLVFBKNGplOEtyeXNJSEFiZE42VEloUDBsZk9RZHBtLXh3Sl9uZnh2d0lyZC14dnlHZHcyNWhnY2QwUm5XdjZNWG1yYzZJX2wyZWQtTk15VE1HWFNER0FJRW1CU3RHbEwwaFc5dW0ycGtVSDc0ZWJSWmpvVklhU2ZhUm9DaTFWZkc0cTFaSnFES21wTy1fd294bW1EVjc1ajRZNnlmV201NDdMT0VHVdIBuAFBVV95cUxPejFEUDFQM0JHeVpZREFzanhNRS00cENSQlZxcDhBc2ItLVRESkVmMmRkdmtwc2FxdDMyNTh2MnBYbTlLeW45VUhkWUVpRlBMemc3Nm52c1F5QmhpbEt2WVJfY3NFa21uRkUwRjhFSC02aUNnSzRHeXRDOXhibnBzZ3pyWllxRWJBd0NBellIQ2lsU0pLUXFfaldnWm44ajJMVkJKSkU2SUZZTGVqRm5MVE5ZdVc1NUVz?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -160,25 +220,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Symposium on emerging frontiers in nuclear science and technology to begin on Tuesday - The Hindu
-  Symposium on emerging frontiers in nuclear science and technology to
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWxaZ29vaDJQRHVsRGJ3R1FuNUhXNjBfMFpjempZdU54YnJobjFZT0d1Wjk0cy1JQlNDZDQtc09VRVNVanFRMmNmd1E1a0RDSDhIeWNyZ2g0bVZ6YU5jOXBHZUhGTFdnZno4clRMWTN6Mm5DbGt5b0Jldnd4V3U1N3ZXSS1NR250TTFoaEJRU0NTRi1OSWw4YXN5THotSkx5T3lsaFZpRjFwWkxiN2tLN2dSQmZsS1F5dHpTbkhuLXc1cjBHc3FwUkkyRGtOU1pOakdvUDEtU1Rqb3V1QlkwazFSVmpwUdIB7AFBVV95cUxPQXdISGFLalZMQ3lVRmtkcHRYazNZazQ5em1YOVBucll2Sjh2VDBaczRyODhSd2NFc2MyVFc3dHdxeHQ2Tmc4NjVWN0xpTThoS1d4ZUhJb090QjV5YXROSHJYRlY2Ul9CTnhKQ241R3RsRHhEQnY4R3lwbUo3UVI4QU85bmNqS3NQcGpxN3p5R1dLdW5LMmlwY0F6aFdYVXlMZDJNYndwUWEwMC0tUGxHVFpjOEhyWERfU29YVzg4N084dmtvUGl6cFZPWGFzZXVmRnpBUk9kT1NBcVBLVWxvdVdtZG1ZU1VPTnl5YQ?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ram.. - ET Government
-  India’s sovereign AI push moves from foundational models to real-
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQT0E5MGVuUExSb21yTXlqM2VEVGxHbDRvMk9pM3VRNjdaTHg0ZTNrZnJweV9LNFBRclFHQVZzeUFKVl93YjVfUlBFTGo0UEJfMWdsRUhHbENual9iem04Qi0tYklBdUhUSDlWMFNhSDk0SDEtZnhTRnNGYXV0aHZzSDh6bFcwaDh0Q1V5eHNMZ3RMUXFKR09nWWNkcmZaa20tR0Y4ZV9NYjhRM1JTdldfV204N0ZzODIwUzZaVDhrRE9lZUNGckp0UzhTQWIzUEtKdGE2WU5lRDU0aEIwVGVUTGQ3ZEhreG53UndGUDdYS3JYUXpFZXBKdm5nYzZVRVZTbDNvSlV6LUdBN1NIS0xQOC1Qc03SAZoCQVVfeXFMTjczMW16ZllwWjl1TUNQVENpOGozZ21rdDhGY19qc0RRYUl1Y3E1cWVWdkpKNFhReXNKRXRmMmdMM1gyVTBWU0IxeEFHem90THdBZVl6MkFuTkFtakRnSlhndk1KMWdtV0wtbXg2NTFXSi1aTXBzX1pwaFpIN1lPZ2pLaTU5WVBHMFRRWXp2Zmk4SER0VWxOU0J1R2ZBR0JJVG50NXBSX2g1ODBFUHhBd21vOURFY05hZTJNUmJXNmlMVE5lMTM5ZU5RLWJneHpoOVRWZEFmUkhMNjBZcFVmQkQ5UWlzQldEb3BmNmhQbFZzSXNoS0tJQlJJTnFEWUZHVTlqQ1RSbUFjQUc2MDBka0NpUVRlWTYxV293?oc=5
-
-- SEBI proposal may open up data, technology businesses for exchanges, depositories - BusinessLine
-  SEBI proposal may open up data, technology
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVTlyR1NNemRCVkxEVk1PUzRRT3M2UHBoWmdfRkwyYk1qMVJnM29MdkVnSElUOVFQdUFsdUkyS283Y1hubU40X3hNTDBoUU1lX2Y3a1dZeVZtMk8zekx6UnlkMTNLamhtTXJqbWVObFF3dVNUb3N4dGR5MWdoTXVYeGRCZzJhalFVTzlBcUZIMmpKSTFxS2pQNWlWUEhKSUN4TDJRUDI2SmlWckFSNERMTDBicFNKejVGNkdHX2Zfa2NkZWRoSFZEdDEwa3VrVG1HY05DcnJLU2ZmTzVz0gHjAUFVX3lxTE9ONDhpM0VjcGk2dUdveEZ5cjZBWEpKZzdPbXZDbzc5Z1VrMThxcWh0OEpJOHVZZVMxSXFTNTh3LWlXcklQc2g0bGNTV0M0RjFjTXJ6bHpiNF9zbnBFTTM4a1NUWkV4Tjl0QlJsOFRHOVVvMG9xN0IxZlBjVGNGTTZzam1lY2M3RXlqXzRKMzJDZUtJczNRR3ZFWVZiQ3FIUXJkaWtlVEZjdjRaVGx0aDMwRXNGSlVXbndVaUU2VFNMSkVRQS1xNGFFVU8tYXRSSk1YOEs0RXFOX01CNTIzcGNsbkdn?oc=5
-
-- ‘We’re technology-savvy’: DG ISPR says Pakistan ahead of India, Afghan Taliban in operational readiness - Dawn
-  'We’re technology-savvy’:
-  🔗 https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RbEZyVmZfUWxKczRrdVA1Y0lsTUN0amtoZ1QyeGxOVnYzaFoxWWxNNTdLdExUTU9hYUlPTFIyZ0JHams0QnJ0Nw?oc=5
-
-- IIT Guwahati To Introduce Diploma, BTech Courses In Semiconductor Technology - NDTV
-  IIT Guwahati To Introdu
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQcldQWkJLZjhITllCVndwWHd2MWFqYTE1MEstcmp3cjZYcDhLQ1pnbTB2bmhBczZPSXBkdm42M0p6bV9aNGVhOGgtNkdoTmdOcGhJR05mTTkxTjFSTnFKcDJReDkwSkF3MDlMcmFzanFoSW41OVpUQzhKNF9VWEJoWW85VTdvWHl4QXduaHpjT3RaZk91V1BRalJlYk91Mi1LUmZKU2lmMHNOOV9jZFdSbVJ0QlNCUdIBvgFBVV95cUxOa21jOVlBc1ItUHhTWWJ4RkdRRVBLWE56dENzcnBLd3dMRER0Z1lwV05sX19uSlhzSmIyOGN4SW5walFyNWFJUDN0MXFyWk9tek1FVm1ULTRGMkpmdTdMMVZ4VGJOMmtfallRNlhPajlxczM1akd5QkNWVVllOWtvUldqSnU1SHVhWEZ6blJNa3FZQWl3alZfdkh5S3dhZTN6V3lwTjBUU3I1ZndNQzR2TjBLdXg5NHBNd01Eb0RB?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-01 21:39:57 UTC_
+_Last updated: 2026-11-02 03:59:20 UTC_
