@@ -1,224 +1,164 @@
 # 📰 Daily News Summaries
 
-- 'Can't Even Fake It Right": Kiren Rijiju's Swipe At Congress' AI Crowd Post - NDTV
-  'Can't Even Fake It Right': Kiren R
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQWp1R25xRXNpUHBlTFdhMWx2YzVraXRoa0ZTTEJFX0tSZzU5am9aZU5IYWliTDhBbi13OTltcTFXNmtNY21WX2NSVjdRQnFnd29UVzh5R0VSN3JyUVMySEJ0NEo2dG5aZnVoRVZGdWpGU2F0MTNpM0FxU19ybmV2cDJSV2djSTJlbmxldTNBdnZSSHlRRDRXM0xYTHlodzZrbTBIb1VORDlSSlRhRWYteUZnNGNIV3huODVBaURJSWM3Z2FWb1BZWU9nNTYzZDJlMERZS08tVlJ5QdIB4gFBVV95cUxOeS0ybzN6MU5PaUVTSWpmUGxnLWhJb0syMjcwTW1FMUpiN2dwNkQ5TWk5cDZjSERhallFZm03akhqVy1XVmdENlZVa0RpVFczLWtBZnpUaEdTQzhwM2FWTnVtYXhhamltWl9HazhhX0V1OVJtemRGY1Nvcmt1cjhKSFgzRkUxYnBMRXRvXzlEcUFTRnFEVUhDR3RCWkNlWW13aUpiOE5MbV9qTzlxdGV4dnV3MUYzNVBham1jWWkxdGkwbHVTWmMxSDNMdmdOa1kyVktNRDNVRTV5eTROSXVsaDBR?oc=5
+- "Can't Occupy A Site Indefinitely In Name Of Protest": Top Court's Big Remark - NDTV
+  "Can't Occupy A Site Indefinitely In Name
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFVnb3kxUEFUc3NpcXBrZlJVRVRmWTQyWjhRM2JyUWdzaXVxR1I0LXBsTGJ0MGMtT0tSU2V1OHpaZFJIdTY2TF80N2xnaDdUbnJWck42bFhBbElWYzQ3eF9aWDZReFF0aXZMTm9XVVRhN2d6RUdmTmRzZjZxbk44S2ItdjN6anRwSUtwTEI1Xy04d00tM1dkR2NVLTFQZ2ZCUUJyNFhLWkpiZVpGb0hKQkF5WUdlN284SWVUSThhb9IBxwFBVV95cUxQZ29jejNFalVYUVZaN2lZTmlGcHQtQUpYRVRmR3dGQTljeEhaeWJLU2lYS25oNlVHZ0NtcW5QdGxjUGNkLVl1VFRUMGlfc1RaMUIzRHh5b3JGcFYxMUo0bjZram96bFNaLVlObDNVdndoVl84UGdyWkxhQVAwYV9UdkM2UzFLaDlNZFZTbng2YUFWOTFMRVRINTE3Q0pZWFFtN0xfOTJNSDNqaEtrQmFUWWRPYldkUjVWbi1ZU29wVEc2ekg0M2Zv?oc=5
 
-- "Who Will Compensate?" Traders Claim Rs 11,000 Crore Loss Due To INDIA Bloc Rally - NDTV
-  Traders Claim Rs 11,000 Crore Loss Due To
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDdULXJmemhtdnY0N1psd2h2cEQxRlBydlk1bF95ZTUyRGZNam5uOXZpazZDRGpqSURVaVJab1NQY3ptQUhLdVBTRVhMRDhNMlFITWllTWlOTlhRenpOTmZMVlkzNjRWS0xDaDBiZDJUX21ndVdwWlFKcjBFZ3VxRzBNM1ZKSWZvUG1KQUNDUU01OUZ3MkNkbWJ4Q0dlVUFRajhyd2xvdHlFME1SZlc2bzZxOEdLT213R3c1NVJlUWFzQVU3YzdybjVjY3lkNFNGVGxWVzZJSdIB3wFBVV95cUxQNHBBTDJHam1lZHRuRGdlb0lyR3RYaWRZRG5tR19abU9JWmtCWUhHQVg1SHBiX3pZcTViazBnMnpJdlU5TFhNSFFPTGRZVmZnODMxNHRxLTRwSHZMSUlqU0lYX2I3d0RwM0QyTnNJUEJva01mWEpBd3FZdkRaZmFKcFh2M1N1cjloc3p5X1FoN1hlT19aM2dUSHB0bWdSeGRVdW14Q0otbUNWc3J2N2xwWmJoNHBqU0h1aUg3N3I2UVE5bmVldkhVNU42S3hkTHUtbmFjVWVINmJQU185cHFJ?oc=5
+- Mamata, Rahul fighting for infiltrators to keep them in India: Bengal CM - The Hindu
+  Mamata, Rahul fighting for infiltrators to keep
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQnFDYURieGVhRXFxNWx5UjNtM01ka2Rabl9FOHlTNDF6TENjbFF6U1ZRX1ZkbEVodjVYQ1hzNXk0LXowSW5aZ0V6MEt0c3dCTnNGMDZNeWNJUVJqYmdmNmh6UmtHb0NzZVVaNzlWUHJIR3NwYVVlcF9YY21TZlRmTTlyQ1NZUHgtUDZuTXF6eGpkSEVVSnM3bjJicVdSZU1LaDZQSlZuQ0V3SnkyeXI5dW9DbHRqeldkZlBzVVJ4eEMzbEdVV20yT2RvTExrcEViSVZXZ3BYMEXSAd8BQVVfeXFMUHNkbzdNNWRsYmd2eDN2cGFkbXZ6RFZOMVlFVUswbTNtVEZEZ3dQekhNMHZEam11X1J0ekQ1SGVRT2dMdzhCZ0VkMnF1NkVjaWlrRlYyTlhWY01XdXRhX2N2TGNkUnU4RVpaRi00V3JzMGdLTGhDdEdieFliY2lVN0pENnZLTHJoQ1JNY19YaDVNYkZDNVNuczI2NXh1OEFEbjJ2bzlBdVNrMWF2Z0lFcnE1TkZRNkxHOWktYUhHdExteVF6TVpMam9jQ190U3czTVJCekxpclY1LWpEemRaNA?oc=5
 
-- Rahul can be PM only in mock Parliament: Amit Shah - The Times of India
-  Rahul can be PM only in mock Parliament: Amit
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHE1d2huQ0o3YTNMM2F2dHlUQUZTTDlJeE82RlotM202QnJjcENCWlQwLTBDR3YyZzNjX1hQTGkyaS1tLUdmOVZNaG5MdXBabFRlSUlKTmJWUTRJaFp0dXJUOXpHdkszYjhrSnFCYTEzOGU1WWlzZXR4TkdnZUN4eExiZ3Q4RnZZbFdaU3FqVU1QN0R6SXh1dWdwQmx2UnJiV1JZQmJCZWt1MTZITk5HVUt4UlQ3cFh40gG-AUFVX3lxTE1TaFdOeEpvU0JEeDFtLVBqaThWb21lM0VKWW1EdTM2dTZ1a2tmRzlVRzZOdVNVM2lQLXZ6clBMT080ZE9fNGxEVmZyWHdPbEtjSmU2Ry03d0I5Z19XdUR0SUhTWTNmX0tCOEtUSkZZWm9zd2FsOVp0YVYtMzBQNVllbkhHaDBSRWMwelpmNklJVjhMTmc0X0hFbkwtQjhXdndQZWRjdkxWamIzbjJmWUtXb1lKa2txcUM3VHlrSUE?oc=5
+- 'Gaddar': BJP accuses Rahul Gandhi of treason, calls him 'Bhasmasur' - The Times of India
+  'Gaddar': BJP accuses Rahul Gandhi of treason
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUNNNzlQZkVHamdlOGpZZTcteklxSGVReWJPckVFX1NWdE5pZmw1c3pReGFuaGdkLU1LYnNVN0pyWGVtVEJtam1YZnFmejBHUjZJNlFDLVVQS2VCNFJIbTM3NGt1QzhDZkd3MmF2SF9send2LUVVVTdkTmdremlKb2h1NE9Da0REX3hJYkozNFotdkotZjVSVDNKZTg4c0gzZDJTemk4M3FPMUhxbFR0ZlVFTUlRN3pmT2tfMm9sUU94cXNiQ21FU0RB0gHPAUFVX3lxTE1LcXF0Y1NrZUNlN1ZlMXRUemNwaEI0NUdETzBzSS12YkdOTEVsZE5jVFZUMzJ5OFFRWDBjbEVvREpPMXJ0Ty05dHJjcGd4Qk5FclI4VTFHaW4zTHN3RVY0aktJWHFjZ0xJazVCQU5kQWhPUk9RYXhaWUZEbnR6eTdSY1FvdF9LYmpZTFBiSHhLMDItaS1XTFdPYVpRczRoRjRFXzBSaE1NdWx0QjVpbjlBV0YyckhvLUgzaElncW4teFo0ZXRqOWJIdzQtajU1cw?oc=5
 
-- Marital discord no ground for termination of pregnancy: SC - The Times of India
-  Marital discord no ground for termination of pregnancy:
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa21jd2J6U1ZZY2x3U1hfeVgyWHY1aGNvMGRoMTMzQkVxUXF6U05HLVNhRXozZFZHZVotbEtfelZvb2ZyXzB6d2N2blhiWFFWRDVqWHY3WkxaNHFBMXUwS1AzUFBnN1ppa01LZlN0cDM3QnRCVzg5ZVo4bmRCWEJMNFVUWlZtVFpld19yVGppczMteFNpNVFOV0JDWDJUY2hQZ2FLbnVoWXZLWEk3NXBnZ2ZSMFRZM01McmkwYmpNbjAtNjTSAcgBQVVfeXFMTUVCSmJvZFR3Wm1RMmxXZlhYZTMyZ0xleEkxaURCa01hWTdnNHFNVXhyZ09VdXdCdHIwSWZWMTh2R3BSRm9nXzNESjZ6WnNKVHNySmxiM0M5OWwwQnFKSk5reU00NVc3R0VrR0QzWnNXblB5N1VidkNpQjhoWlFaLTlCMzlBZDF5TVpTYU5XNERjM1RMelFUY1N3QjhwMnZKV0xDZ2IyXzhMLTlvQzczR003QUdaV3liMEZrRHlkRXB0ekMwdjc3N3o?oc=5
+- Incompatible with secular character: Centre says Qadeemi Masjid at Krishi Bhavan to be razed - India Today
+  Qadeemi Masjid at Krishi Bhavan to be
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYTVtSWF6WGlpanhqa0dRcHVPRjRFOF9YUDk3MVVOcFJ5SzFKZjEtdmhKSWNDSzJndXdsVm13Nm10c1k1UDFFcWh1U2tfQVl2Y0dIUi1QYkVLcFdIeENfNURRQ01xODVYSUw1dW41bUJTNVd2WUF0ancydWduQld2ZDJGbEVRck43YkVLV0Z2M2RDR2ozWTVNeWpRdW43RmFDV29XYVVNY0szYktjbHRxV0xzU3JuQm83VlF3SHo5bGYzd29PcVpOUHFmV05xN3BuTm5fWmFCRXFjbGRubXFRQ9IB5gFBVV95cUxQSXlmVGszNGV1emx6dnZadGo3Sng3YWRGME5JcjYwb0dteDctZk1kVTJFdGFqMDJhWVlMamVqU2Jla2UxcFBCZlhwQ2dhb05hLVJXWHdMSEhhdC1rN29NcFFoajQ4R3hoSGpvcjMzSHo1dG1kOVJQUHRlbUh1LVlqWUhBbGxjdW1sdTU0UzB3LWxyVkhSdXBLUTc1X2JmNkRWTTVnODBsRFBTVVZmRmZmb21QUGNHMWYybWgxVW5VdVVqWDlMTWJsb3dVRGtOSEhvdEF4aUg4Z3lKZVFvQmhXaFdCUFZmZw?oc=5
 
-- Asian Champions Trophy: India beat South Korea 8-0 in goal-fest - ESPN India
-  India beat South Korea 8-0 in goal
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3J1eEJFSGpvY3R6b1NTemN3TGlWaElUY1BqSl9RYkR1N3lkQ25ydlhXMVd0S0RseG0tWWRRODMyTHRRd3Nzal9xVnE4cjNZcVY2dGY1aTItTHhGY0pFalNyUlktNHFrVWtmaW5GU2FtUTVQbUxYNDgtd0g2c2lBNUhMTXZsR0NhMVhnN0t2YW1kdU9pYXB1T01JTG9jUFd2ZC1LNi1LendiRjBWMzhRREpxbUtPakUwaEZNdzh3NXVNWDNSTVN1a0s3U3VDVHBOa0dfdGNnWXcxdTFIdUdxTHd3?oc=5
+- Immigration, economy, US-India ties: What is weighing on Indian-American voters as US heads into midterms - The Times of India
+  The Times of India is a leading English-language newspaper based in India.
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxQN2xmMWFlN2Q5U21QUTMycC0wLTAwdUU4dlR5TC1rcE9YTDdNS3hmNjk0bWs1b1JvX1AxelhWVGw2RFRJQ1Fhc3FqbmhlT0lPSjFGVDFNUy1KWTEwTnAwazVfYU9aNG9DUkFQaHVoOENkd2xmVmVGcndPZFZGbHAyVmRxQV9mQ2UxdzVsdXJMbUk2WXl5b1lvblJPWnZwSlhTclFBSGJfanY1VVR5dXpNbWlpbjd5V0pOXzJBS0R2MjduTkRRRXAtbW9EcVF6SGd0N05YbEVnNU5oX096OHdIWkdZQ1NiaDd0SmhvMExFRkZpOVJjdjQ3bGVtVEhKbjJfVXAxRHNFSEFwa1pIMUx2eG16T3Fxc3hDWElBc3ozemFvRnVLM1FB0gGsAkFVX3lxTE1uYmgzYV8tNFN2VkhwaGduRnhwUmo1NjJuc18wQXRSMjAweEpuUk4tTGxkdmo3NG1nV2k0OHNXTlBJejVaNG55NGk0akR3aTBFYzZ4QlVWVW5WR2VQYlNxcENuQzlQc2FtYl8yRENWd2RlcUNmLTdRNkJ1X1BUcXljdkdITkpoUG1kc1QwdUJBODZja29OX3BaVjI3T3FLR1A0bHR2QTRUOEgzaGlnSjI3M3RraGpzM0tKYjN5YTQyaG9nWjJHWml1aFF3NFFCaFV4bTM3ekx1SDFnbEcwV2Y1VnN2STVxaVdZVXVaX0o3OEJIVlJ1eml1bjgwblpBS01IYjgyb3U3VU45MlQyenpyVmJoQnNQTGNCZFlPVDRkWlR6ODQyYVVGYUlONA?oc=5
 
-- AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028 - The Guardian
-  AI-powered malware ‘highly likely’ to be
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObVNSQVUzUFl2ZHdCNlAtOGQtRTVmekF0NUU4cDlHYlFTYkw3U1lPYUpRVmVGQ3hzWnFqcUVEdkV3dlNpWVJoWERHRFgzQVBJXzVjUTZIcUgyMTF1MG5ZZGlHaE52MXhXTEsxQmRxUDhvVkplSUd3MG5FRVUyeGtPczlqZWthYnZDY3NZcmVtUjVKUnZVUjUyNWQ5dFE1UzFNczVyNXQ4V0RGb0JTc214bkotWnRTMXZvbFV0d2o1VjdJOEpXc1hZ?oc=5
+- Chandrasekaran allays fears of Iveco plant closures ahead of union talks
+  Tata Sons chairman assures Italian unions and regulators that the €3.9 billion buyout will not lead to plant closures.
+  🔗 https://www.livemint.com/companies/news/tata-motors-iveco-group-n-chandrasekaran-11793705974598.html
 
-- Bring your technology; we’ll provide talent, land and partnerships, Karnataka tells Japanese business delegation - The Hindu
-  Karnataka has invited Japanese business delegation for talks. Karn
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVWdvQzUxRkozSmQ2ZElSZ0hlNC16cHpXSmJ6QjBhM05SUUJWbTUxTkplT3lnTDZRM0tVaVkxVjg3NldReGdQbnVZaFFrV0o1M0dBQTF3TFFhLUttanZ2MWRiV1pzUWZ2YzlKdFVBOXNoc05xNnFCdVhJT05iU21YaTA3WkhCenJmMHU3V0xUVkstYVdsZnZ1UnVacmpKWnF5LThKLTFYZXdBRk0zNjZ5QTRSQ1VESG1WRHc2TFJKSmlZR2N4dkNwX01GSHZFa1JfMVJJVlV5UUk1bmp6a3V1Ni1iN0NkeExiV2xBZjJwSU0tcHJmQWpVSlY3VU5YMEhoSmpmc1lLQjnSAY8CQVVfeXFMUDBZWDhXdE9LQzBUQWp2dlgtYVFFM21LdnlmNGw2RlcwaWR1aW93ajFvMDhXcDNITUpKNXFVNC1YdE1oT2YxZnphMzNuSk44R1JsQnhzRW9Nd2cwRUFuR2ZjTXdpdTNGRkFLcm9CbWw5REtZY0NZWnRmQXdqUEZERUpVZ0szdGZYdV85RkNZYnFKNlQ0NUY5Vjg5ZWdZczFaNHc1aFZtVFhxSjJpeEx2ejNmbDZVTG1UM096V0QwRTVKMjhlbUk0UTlvdklmem1iYVBFUEd2VU5KZEJocXVUTlhRWTUwVjNGd1hDanczVkpSRHlLZGhva2lnaFZ4WE5uVG1nenJ3eVBLQjh5Umx0bw?oc=5
+- Who is Dan Driscoll? OpenAI hires ex-US Army Secretary and Trump's 'drone guy' to lead national security AI push
+  OpenAI appoints Dan Driscoll as senior counsellor for national security modernisation. He will advise the company and its partners on deploying
+  🔗 https://www.livemint.com/companies/people/who-is-dan-driscoll-openai-hires-ex-us-army-secretary-and-trumps-drone-guy-to-lead-national-security-ai-push-11793708416815.html
 
-- Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal - Bloomberg.com
-  Marvell to Acquire Lumentum
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2FXN0VKVjBIUDlmNF8xMXBEcE9BQkRrQk5GR2k1dmNLMjlBMVlCSmRLc19PNXVCTUNZVUZRY3pQNzEtZGJuQlNwcnMxQWdqME8xa1FtOVkyendLS0RFSTV3cjNwQXJaYmVxTy1fREcyNk81S29pYWRGOTdLN3ljXzVVX1pIaDlTMXRGTHB1ck1qNEZnSUlsUkJIMWFJSmpHT1U5UjkyMEs?oc=5
+- Tata Trusts vs Tata Sons: FM Sitharaman urges ‘maturity' from leadership; why did she refuse to interfere in dispute?
+   FM Sitharaman urged Tata Trusts and Tata Sons to resolve their dispute amicably through dialogue. She called for maturity and a swift return to normalcy, while declining to say whether the government
+  🔗 https://www.livemint.com/companies/news/tata-trusts-vs-tata-sons-fm-sitharaman-urges-maturity-from-leadership-why-did-she-refuse-to-interfere-in-dispute-11793706308378.html
 
-- Are Wall Street Analysts Predicting Micron Technology Stock Will Climb or Sink? - Barchart.com
-  &nbsp;&ngt;Are Wall
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOQzFLbG1SdzdfdFR3RDJLT29yZWxra25qekVZWlNCYVNhNmpFQVhpdmY0VUFnVDdsUXpSbzFsSlhxX2NIcGhvS3E4ZUxESzdCWVlOaUdMcUdJSXNnSml1VHAyal9iN3NEYTVQNGNHZVNEaWNUZ3hBQmk1NFFHWHZ2aUR5Ui0yVEJnbmc2ZktuZUhvT29CRE5wRTRjSUV2RlpvVUxmU256bFFkdGNoYVAyYWxBa1J6MUdQS0tmeXBIUQ?oc=5
+- Wipro Consumer H1 revenue jumps 17% to  ₹6,094 crore; eyes  ₹20,000 crore by FY30
+  A 14.9% revenue increase in India and strong demand in Vietnam and the Philippines
+  🔗 https://www.livemint.com/companies/company-results/wipro-consumer-h1-revenue-jumps-17-to-6-094-crore-eyes-20-000-crore-by-fy30-11793695450642.html
 
-- Zee appoints Tushar Vohra as chief AI and transformation officer - Indian Television Dot Com
-  Zee appoints Tushar Vohra as
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkczY0l4OEx1SVhNQlhzTWhGV0VtcV9WNTNHQUw2ZGVtOFhYaURRX1lQWEMxWFBTRGJRSlA1OHN4RzNESEhYSjJzdEVyWVYySmNtWlhvWHl4ekdEYkRDSFJzYlRsZkp6MW5PUGJpSUJwVkJsbVZhNzk0TGt6R0hkLU1qZ01NVXh3NUxSN1BkNVFFVXpqMU1OQjdDc3pVcFU?oc=5
+- Jewellery startup Giva raises $100 mn in funding round led by Multiples PE, others
+  This investment will enable Giva to strengthen its leadership team, build
+  🔗 https://www.livemint.com/companies/news/jewellery-startup-giva-fundraise-multiples-pe-india-jewellery-market-11793696281070.html
 
-- Maharashtra Charity Commissioner did not propose rule that froze Tata Trusts board
-  The regulator sent no proposal for the amendment that has paralysed Sir Ratan Tata Trust and contributed to a dead
-  🔗 https://www.livemint.com/companies/news/tata-trusts-maharashtra-charity-commissioner-tata-sons-listing-11793600812054.html
+- Sweet surge! Balrampur Chini Mills shares rise 9% in biggest one-day gain in over 2 months; what triggered the rally?
+  Balrampur Chini Mills shares rose 9% on Tuesday, their biggest one-
+  🔗 https://www.livemint.com/market/stock-market-news/sweet-surge-balrampur-chini-mills-shares-rise-9-in-biggest-one-day-gain-in-over-2-months-what-triggered-the-rally-11793706264015.html
 
-- This Is Such a Bad Time for a $115 Billion Tech Deal
-  Semiconductor designer Marvell Technology Inc. unveiled a takeover of laser specialist Lumentum Holdings Inc. at a $115 billion enterprise value.
-  🔗 https://www.livemint.com/companies/this-is-such-a-bad-time-for-a-115-billion-tech-deal-11793647443726.html
+- Reliance shares see volume breakout: Is a trend reversal around the corner? Here’s what RIL stock history shows
+  Reliance Industries surged nearly 12% on 2 November. Analysts cited strong trading volumes, improved technical indicators and robust quarterly results.
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-shares-see-volume-breakout-is-a-trend-reversal-around-the-corner-here-s-what-history-shows-11793706073307.html
 
-- 'I'm the CEO': Why boss paid  ₹2.7 lakh in compensation after employee was unfairly sacked - What really happened?
-  Julie Mayes claimed Gibbs made sexually
-  🔗 https://www.livemint.com/companies/im-the-ceo-why-boss-paid-2-7-lakh-in-compensation-after-employee-was-unfairly-sacked-what-really-happened-11793641279950.html
+- Penny stock under  ₹10 jumps 7.5% after Q2 Results 2026 following Indian stock market rally; do you own?
+  Penny stock under  ₹10 opened with an upside gap at  ⁹2.55 and finished
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-jumps-7-5-after-q2-results-2026-following-indian-stock-market-rally-do-you-own-11793704689095.html
 
-- Who is He Yi? How Binance's 7-month-pregnant co-CEO led 100-member war room to tackle $6 bn cyberattack | Full story
-  Binance co-CEO He Yi led a 100-member emergency response team. The executive, who is seven months pregnant, coordinated efforts to contain the
-  🔗 https://www.livemint.com/companies/people/who-is-he-yi-how-binances-7-month-pregnant-co-ceo-led-100-member-war-room-to-tackle-6-bn-cyberattack-full-story-11793639137718.html
+- SBI quarterly results: Bank shares decline despite loan growth, better asset quality in Q2 - What it means to investors
+  SBI reported a 14.28% year-on-year rise in second-quarter net profit. Asset quality improved, but the bank’s shares fell 1.70% to 
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-quarterly-results-bank-shares-decline-despite-loan-growth-better-asset-quality-in-q2-what-it-means-to-investors-11793702591408.html
 
-- Flying in Europe to get costlier? Ryanair warns of 20% airfare hike, weighs employee wage freeze
-  Ryanair warns ticket prices could surge by up to 20% as fuel hedges expire. Airline weighs
-  🔗 https://www.livemint.com/companies/news/flying-in-europe-to-get-costlier-ryanair-warns-of-20-per-cent-airfare-hike-weighs-employee-wage-freeze-11793638509982.html
+- Muhurat Trading Picks: Adani Ports, Info Edge to Kotak Bank - ICICI Sec recommends these 10 stocks to buy on Diwali
+  ICICI Securities remains optimistic, citing strong earnings, attractive valuations and a strengthening domestic earnings cycle. Muhurat Trading picks, includes Kotak Mahindra
+  🔗 https://www.livemint.com/market/stock-market-news/muhurat-trading-picks-adani-ports-info-edge-to-kotak-bank-icici-sec-recommends-these-10-stocks-to-buy-on-diwali-11793700028188.html
 
-- FPIs are buying again. Why is their share of Indian stocks still falling?
-  Mint analysis of 100 largecap companies showed that FPIs reduced their stakes in 57% of them sequentially. The decline in foreign ownership was more pronounced among
-  🔗 https://www.livemint.com/market/stock-market-news/fii-fpi-outflows-from-india-large-cap-stocks-11793611054021.html
+- 97 pc Indian professionals want to learn AI; 65 pc concerned about lack of human judgment: Report
+   97 pc Indian professionals want to learn AI; 65pc concerned
+  🔗 https://www.livemint.com/technology/97-pc-indian-professionals-want-to-learn-ai-65-pc-concerned-about-lack-of-human-judgment-report-11793711682210.html
 
-- Frantic Binance Hackers Created Windfall for Crypto Traders
-  For most crypto investors, the theft of $6.3 billion from Binance was a reminder of the risks that still surround digital assets. For a small group of fast-moving trading
-  🔗 https://www.livemint.com/market/frantic-binance-hackers-created-windfall-for-crypto-traders-11793662737400.html
+- Chinas Baidu launches AI model simulating road environment for robotaxis
+  China's Baidu launches
+  🔗 https://www.livemint.com/technology/chinas-baidu-launches-ai-model-simulating-road-environment-for-robotaxis-11793709678345.html
 
-- North Korea Denies Role in $6.3 Billion Binance Crypto Heist
-  North Korea rejected US claims that it was behind the theft of more than $6 billion in cryptocurrency from Binance. FBI blamed Pyongyang for
-  🔗 https://www.livemint.com/market/north-korea-denies-role-in-6-3-billion-binance-crypto-heist-11793662674891.html
+- Google AI chatbots use of press items may infringe copyright rules, EU court adviser says
+  Google AI chatbot's use of press items may
+  🔗 https://www.livemint.com/technology/google-ai-chatbots-use-of-press-items-may-infringe-copyright-rules-eu-court-adviser-says-11793703192614.html
 
-- China Boosts Use of Stock Support Tools to Stabilize Market
-  China will encourage financial institutions to make fuller use of two stock support tools. Authorities step up efforts to bolster market stability and
-  🔗 https://www.livemint.com/market/china-boosts-use-of-stock-support-tools-to-stabilize-market-11793661498373.html
+- OnePlus Turbo 7 tipped to launch in December with Snapdragon 8 Gen 6, 200MP camera and 185Hz display
+  The OnePlus Turbo 7 is tipped to launch in China in December 2026. It could feature a 200MP primary camera, a 185Hz display and a glass back.
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-turbo-7-tipped-to-launch-in-december-with-snapdragon-8-gen-6-200mp-camera-and-185hz-display-11793699668440.html
 
-- Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears
-  The Nasdaq 100 Index tumbled into a correction on Monday as investors turn increasingly pessimistic about
-  🔗 https://www.livemint.com/market/nasdaq-100-enters-correction-as-megacap-results-amplify-ai-fears-11793658450748.html
+- Why SIM-binding mandate is concern for consumers, MSMEs, and cybersecurity, a new study decodes
+  The Esya Centre study finds that India's proposed SIM-binding mandate could disrupt consumers and MSMEs, increase business costs and offer
+  🔗 https://www.livemint.com/technology/why-sim-binding-mandate-is-concern-for-consumers-msmes-and-cybersecurity-a-new-study-decodes-11793693356961.html
 
-- AI must move beyond intelligence to offer wiser, ethical advice: Experts at IIT Ropar
-  Artificial intelligence (AI) must evolve beyond providing information to offering responsible, ethical and wiser advice. Growing dependence on the technology raises concerns over
-  🔗 https://www.livemint.com/technology/ai-must-move-beyond-intelligence-to-offer-wiser-ethical-advice-experts-at-iit-ropar-11793636378313.html
+- V-Mart Retail Q2 loss widens to Rs 16 crore
+  V-Mart Retail reported a significant net loss of Rs 16.34 crore for the September quarter of FY27. Revenue from operations saw an upward trend, increasing by 18 percent year-on-year to Rs 952.99 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/v-mart-retail-q2-loss-widens-to-rs-16-crore/articleshow/135500943.cms
 
-- Nothing OS 5.0 update based on Android 17, AI app builder, new Glyph features: Check rollout timeline, how to download
-  Nothing is expanding the stable rollout of Nothing OS 5.0, based on Android 17. The update adds interface and personalization changes, performance improvements and AI-powered tools. Availability is phased by device, region
-  🔗 https://www.livemint.com/technology/nothing-os-5-0-update-based-on-android-17-ai-app-builder-new-glyph-features-check-rollout-timeline-how-to-download-11793633110579.html
+- Minda Corp Q2 Results: Net profit jumps 68% to Rs 143 crore on strong revenue growth
+  Matha Corporation Ltd has reported a significant 68.2% year-on-year increase in consolidated net profit for Q2. Revenue from operations also increased by 42.6% year on-year, reaching Rs 2,189 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/minda-corp-q2-results-net-profit-jumps-68-to-rs-143-crore-on-strong-revenue-growth/articleshow/135500886.cms
 
-- Red Dead Redemption 2 players can claim free outfits, gold bars and Halloween rewards before November 4 deadline
-  Rockstar Games has introduced limited-time rewards and boosted payouts in Red Dead Online as part of its Halloween event. However, the offers do not include
-  🔗 https://www.livemint.com/technology/apps/red-dead-redemption-2-players-can-claim-free-outfits-gold-bars-and-halloween-rewards-before-november-4-deadline-11793618066678.html
+- NSE Q2 Results: Profit jumps 23% to Rs 2,578 crore, revenue rises 9%
+  The National Stock Exchange of India (NSE) reported a 23% year-on-year (YoY) increase in its consolidated profit after tax (PAT) to Rs 2,578 crore in the second quarter
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/nse-q2-results-profit-jumps-23-to-rs-2578-crore-revenue-rises-9/articleshow/135499601.cms
 
-- Flipkart Big Bang Diwali Sale 2026: ASUS ExpertBook business laptops start at  ₹50,990 with up to  ₹18,000 off
-  ASUS ExpertBook business laptops are available with discounts of up to  ₹18,000 during the Flipkart Big Bang Diwali Sale 2026. Buyers can also get bank discounts
-  🔗 https://www.livemint.com/technology/tech-news/flipkart-big-bang-diwali-sale-2026-asus-expertbook-business-laptops-start-at-50-990-with-up-to-18-000-off-11793615958040.html
+- Indian Hotels Company among 6 stocks that hit 52-week highs and rallied up to 16% in a month
+  Six BSE 200 stocks, including Bosch, Coforge, Divi's Laboratories, Eternal, Indian Hotels and Zydus
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-hotels-company-among-6-stocks-that-hit-52-week-highs-and-rallied-up-to-16-in-a-month/slideshow/135499922.cms
 
-- Pebble Qore Vox brings AI meeting notes to your wrist: Check price, features and battery life
-  Pebble has launched the Qore Vox screenless wellness band in India at an introductory price of  �
-  🔗 https://www.livemint.com/technology/pebble-qore-vox-brings-ai-meeting-notes-to-your-wrist-check-price-features-and-battery-life-11793617392293.html
+- Wall Street's hidden bargains: 10 US largecap stocks trading at historic discount for investors
+  At least 10 US large-cap stocks trade at 47%-63% discounts to sector valuations. Comcast leads the list, alongside AT&amp;T
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-streets-hidden-bargains-10-us-largecap-stocks-trading-at-historic-discount-for-investors/articleshow/135495832.cms
 
-- Stock Market Today: Nasdaq Falls 1%; Dow Rises After Friday's Selloff - WSJ
-  The Nasdaq fell 1%; Dow Rises After Friday's Selloff. The S&amp;P 500 futures are flat as investors weigh Apple earnings.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQeE1wX0VMX3RqMkpRUmkyWE9SeV9rYlFqNzBTb2QyalVqQjl1Z1FjaWFVd3J3RDJRUnFMTHd3dzJjQlI1R0dPRWtiNjM0ZlIzTUtWV3BUWHhEU3gtN29FbVNfSENrREdRX2dZejFlbE1xRHF2U1ZMS3o5TnMxb0NwMUV2WHpwZ00?oc=5
+- The Enterprise AI Push For Decision Models
+  The AI race has largely revolved around frontier labs and models that can write, code and analyse documents.
+  🔗 https://inc42.com/features/the-enterprise-ai-push-for-decision-models/
 
-- Oil Holds Biggest Drop Since July on Optimism Over US-Iran Talks - Bloomberg.com
-  Oil Holds Biggest Drop Since July on
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFZWUTlkVU5VNU9qWWNlcUExXzljcjQtMExWNFk0ODFRelc3c04taGpBWVNLaXNOYWVETS15WEFYYnRjd3l2ZUZMSUFsS1ZPTjRmM1VYUGZ6cDZFVkswWEltbGZMbmVzR25xSllpSHpvaVdGY2JQdUFDUnBnT05TbVdLQzJwWllRcGhuRnZLdUMwU0l5aWkzdlVrbmk?oc=5
+- Sachin Tendulkar Backs Hitwicket Parent Metasports
+  Former cricketer Sachin Tendulkar has backed Metasports Interactive, the gaming startup behind mobile cricket strategy game Hitwicket.
+  🔗 https://inc42.com/buzz/sachin-tendulkar-backs-hitwicket-parent-metasports/
 
-- EXCLUSIVE: India regulator backs scrapping long-term capital gains tax for foreigners, sources say - Reuters
-  India regulator backs scrapping long-term capital gains tax
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzZGZDRyZ3dzMWVMcEp4bmVRbGNoRFdhODFvSDFjZmplU1VDRXNleUs1MElLczNVRHN5WS0xc2phWXFZaktGQ1pqelBPbjRfeWRLSFBqajEzRU43bWxpUkZtNVM4VGs0LVVUMzVlbW13X0FGZlJLWWZDZmpscXV4NVBNemxXZ2RhZEozakVfRlNWb3E0MTlEYlhveXRZVHVmeUozNkJ4RjBBQTR2TUt2QnJZajV1SVRMZUEyMG5n?oc=5
+- GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27
+  Bengaluru-based D2C jewellery brand GIVA has raised ₹975 Cr (about $103 Mn) in a funding round.
+  🔗 https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/
 
-- How US Midterms Could Move Stock Markets, Oil Prices And India's Exports - NDTV
-  The US midterms could move stock markets,
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXFpVERoSjJOLTJ6ZFZDM0J4ZHFIcHQwcE5iSE1XUWk0S1g1TTN2OFZFbDN5MFdjWU8tV0ZBUnAxRGV6NXZVY3hKZlpaRV92bnh5VWY5NjJBam9QOTNHenZZUnl2MnN5UW5fUDdRVm1mMjVva2tZdWhSeFlBWjg2WlFaMlY0bkNKZkU2MDlRNDR1ZFhUT3BYZVEtZW9Jc3l3ZGU4cEVLTjVYVkN1RUZLWEQ5SV9NQ2fSAb8BQVVfeXFMTUNUeDZVLVBMS042OU91ODk4S1ZjMHJReUJvdUdaZGYwR0xBZFVYZjdsNk8zaEtJWVUzcFRNWFREMEx3WFQ4ajNFWHVBZ09JQnR5Q0FNSTcyclFwQ1lxLXk3UVpIOTl2YzVFYWJnd1Mza01leTM0WWlWTER2ZmFhdjBkT3NZYTdoZmhmMlFkbnV1QWJzNHc5eVBCbjVHd0otUmVGbDNOaEVSSHJjeTNnOTRPYUltYUNMYnpWdlhQdEk?oc=5
+- Mobavenue Q2 Profit Rises 54% YoY To ₹11.3 Cr, Revenue Up 41%
+  Mobavenue, formerly known as Lucent Industries, reported a 54.4% jump in its consolidated net profit to ₹11.3 Cr&#8230.
+  🔗 https://inc42.com/buzz/mobavenue-q2-profit-rises-54-yoy-to-%e2%82%b911-3-cr-revenue-up-41/
 
-- What the US midterms could mean for markets, AI and the debt ceiling - Reuters
-  What the US midterms could mean for markets, AI
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5
+- Apple Logs Record India Revenue, Mac And Services Hit New Highs
+  Apple reported an all-time revenue record in India in Q4 FY26. iPhone business set a September quarter revenue&#8230;
+  🔗 https://inc42.com/buzz/apple-logs-record-india-revenue-mac-and-services-hit-new/
 
-- US stocks today: Nasdaq ends over 1% lower as AI worries persist
-  S&amp;P 500 and Nasdaq closed lower on Monday. Apple shares slipped ahead of earnings and Oracle fell over plans to raise $20 billion. Falling oil prices amid US-Iran peace hopes offered some relief
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-ends-over-1-lower-as-ai-worries-persist/articleshow/135474287.cms
+- "Can't Occupy A Site Indefinitely In Name Of Protest": Top Court's Big Remark - NDTV
+  "Can't Occupy A Site Indefinitely In Name
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFVnb3kxUEFUc3NpcXBrZlJVRVRmWTQyWjhRM2JyUWdzaXVxR1I0LXBsTGJ0MGMtT0tSU2V1OHpaZFJIdTY2TF80N2xnaDdUbnJWck42bFhBbElWYzQ3eF9aWDZReFF0aXZMTm9XVVRhN2d6RUdmTmRzZjZxbk44S2ItdjN6anRwSUtwTEI1Xy04d00tM1dkR2NVLTFQZ2ZCUUJyNFhLWkpiZVpGb0hKQkF5WUdlN284SWVUSThhb9IBxwFBVV95cUxQZ29jejNFalVYUVZaN2lZTmlGcHQtQUpYRVRmR3dGQTljeEhaeWJLU2lYS25oNlVHZ0NtcW5QdGxjUGNkLVl1VFRUMGlfc1RaMUIzRHh5b3JGcFYxMUo0bjZram96bFNaLVlObDNVdndoVl84UGdyWkxhQVAwYV9UdkM2UzFLaDlNZFZTbng2YUFWOTFMRVRINTE3Q0pZWFFtN0xfOTJNSDNqaEtrQmFUWWRPYldkUjVWbi1ZU29wVEc2ekg0M2Zv?oc=5
 
-- El Nino could add to US inflation pressures in 2027, San Francisco Fed paper warns
-  The current strong El Niño could drive US inflation up by 1 percentage point in 2027. With inflation already above the 2% target, the climate shock adds further pressure on the Fed to raise interest rates.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/el-nino-could-add-to-us-inflation-pressures-in-2027-san-francisco-fed-paper-warns/articleshow/135473482.cms
+- Mamata, Rahul fighting for infiltrators to keep them in India: Bengal CM - The Hindu
+  Mamata, Rahul fighting for infiltrators to keep
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQnFDYURieGVhRXFxNWx5UjNtM01ka2Rabl9FOHlTNDF6TENjbFF6U1ZRX1ZkbEVodjVYQ1hzNXk0LXowSW5aZ0V6MEt0c3dCTnNGMDZNeWNJUVJqYmdmNmh6UmtHb0NzZVVaNzlWUHJIR3NwYVVlcF9YY21TZlRmTTlyQ1NZUHgtUDZuTXF6eGpkSEVVSnM3bjJicVdSZU1LaDZQSlZuQ0V3SnkyeXI5dW9DbHRqeldkZlBzVVJ4eEMzbEdVV20yT2RvTExrcEViSVZXZ3BYMEXSAd8BQVVfeXFMUHNkbzdNNWRsYmd2eDN2cGFkbXZ6RFZOMVlFVUswbTNtVEZEZ3dQekhNMHZEam11X1J0ekQ1SGVRT2dMdzhCZ0VkMnF1NkVjaWlrRlYyTlhWY01XdXRhX2N2TGNkUnU4RVpaRi00V3JzMGdLTGhDdEdieFliY2lVN0pENnZLTHJoQ1JNY19YaDVNYkZDNVNuczI2NXh1OEFEbjJ2bzlBdVNrMWF2Z0lFcnE1TkZRNkxHOWktYUhHdExteVF6TVpMam9jQ190U3czTVJCekxpclY1LWpEemRaNA?oc=5
 
-- US manufacturing strengthens in October, input prices stay high
-  US manufacturing activity accelerated in October, with the ISM manufacturing PMI rising to 55.5 from 54.5 in September. Strong consumer and AI-related business spending supported growth, but factory input prices remained elevated.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-manufacturing-strengthens-in-october-input-prices-stay-high/articleshow/135472594.cms
+- 'Gaddar': BJP accuses Rahul Gandhi of treason, calls him 'Bhasmasur' - The Times of India
+  'Gaddar': BJP accuses Rahul Gandhi of treason
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUNNNzlQZkVHamdlOGpZZTcteklxSGVReWJPckVFX1NWdE5pZmw1c3pReGFuaGdkLU1LYnNVN0pyWGVtVEJtam1YZnFmejBHUjZJNlFDLVVQS2VCNFJIbTM3NGt1QzhDZkd3MmF2SF9send2LUVVVTdkTmdremlKb2h1NE9Da0REX3hJYkozNFotdkotZjVSVDNKZTg4c0gzZDJTemk4M3FPMUhxbFR0ZlVFTUlRN3pmT2tfMm9sUU94cXNiQ21FU0RB0gHPAUFVX3lxTE1LcXF0Y1NrZUNlN1ZlMXRUemNwaEI0NUdETzBzSS12YkdOTEVsZE5jVFZUMzJ5OFFRWDBjbEVvREpPMXJ0Ty05dHJjcGd4Qk5FclI4VTFHaW4zTHN3RVY0aktJWHFjZ0xJazVCQU5kQWhPUk9RYXhaWUZEbnR6eTdSY1FvdF9LYmpZTFBiSHhLMDItaS1XTFdPYVpRczRoRjRFXzBSaE1NdWx0QjVpbjlBV0YyckhvLUgzaElncW4teFo0ZXRqOWJIdzQtajU1cw?oc=5
 
-- Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports
-   Meta is reportedly looking to raise at least $20 billion through a cross-border bond offering. The potential debt sale follows its planned $97.5 billion equity fundraising.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/meta-eyes-at-least-20-billion-from-potential-bond-offerings-bloomberg-news-reports/articleshow/135472448.cms
+- Incompatible with secular character: Centre says Qadeemi Masjid at Krishi Bhavan to be razed - India Today
+  Qadeemi Masjid at Krishi Bhavan to be
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYTVtSWF6WGlpanhqa0dRcHVPRjRFOF9YUDk3MVVOcFJ5SzFKZjEtdmhKSWNDSzJndXdsVm13Nm10c1k1UDFFcWh1U2tfQVl2Y0dIUi1QYkVLcFdIeENfNURRQ01xODVYSUw1dW41bUJTNVd2WUF0ancydWduQld2ZDJGbEVRck43YkVLV0Z2M2RDR2ozWTVNeWpRdW43RmFDV29XYVVNY0szYktjbHRxV0xzU3JuQm83VlF3SHo5bGYzd29PcVpOUHFmV05xN3BuTm5fWmFCRXFjbGRubXFRQ9IB5gFBVV95cUxQSXlmVGszNGV1emx6dnZadGo3Sng3YWRGME5JcjYwb0dteDctZk1kVTJFdGFqMDJhWVlMamVqU2Jla2UxcFBCZlhwQ2dhb05hLVJXWHdMSEhhdC1rN29NcFFoajQ4R3hoSGpvcjMzSHo1dG1kOVJQUHRlbUh1LVlqWUhBbGxjdW1sdTU0UzB3LWxyVkhSdXBLUTc1X2JmNkRWTTVnODBsRFBTVVZmRmZmb21QUGNHMWYybWgxVW5VdVVqWDlMTWJsb3dVRGtOSEhvdEF4aUg4Z3lKZVFvQmhXaFdCUFZmZw?oc=5
 
-- Anthropic revenue jumps 1,100% ahead of IPO as AI spending commitments near $900 billion
-  Anthropic reported a 1,100% surge in third quarter revenue to $17 billion. The AI company also disclosed a $23.3 billion net loss and nearly $895 billion in spending commitments.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-revenue-jumps-1100-ahead-of-ipo-as-ai-spending-commitments-near-900-billion/articleshow/135472235.cms
+- Immigration, economy, US-India ties: What is weighing on Indian-American voters as US heads into midterms - The Times of India
+  The Times of India is a leading English-language newspaper based in India.
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxQN2xmMWFlN2Q5U21QUTMycC0wLTAwdUU4dlR5TC1rcE9YTDdNS3hmNjk0bWs1b1JvX1AxelhWVGw2RFRJQ1Fhc3FqbmhlT0lPSjFGVDFNUy1KWTEwTnAwazVfYU9aNG9DUkFQaHVoOENkd2xmVmVGcndPZFZGbHAyVmRxQV9mQ2UxdzVsdXJMbUk2WXl5b1lvblJPWnZwSlhTclFBSGJfanY1VVR5dXpNbWlpbjd5V0pOXzJBS0R2MjduTkRRRXAtbW9EcVF6SGd0N05YbEVnNU5oX096OHdIWkdZQ1NiaDd0SmhvMExFRkZpOVJjdjQ3bGVtVEhKbjJfVXAxRHNFSEFwa1pIMUx2eG16T3Fxc3hDWElBc3ozemFvRnVLM1FB0gGsAkFVX3lxTE1uYmgzYV8tNFN2VkhwaGduRnhwUmo1NjJuc18wQXRSMjAweEpuUk4tTGxkdmo3NG1nV2k0OHNXTlBJejVaNG55NGk0akR3aTBFYzZ4QlVWVW5WR2VQYlNxcENuQzlQc2FtYl8yRENWd2RlcUNmLTdRNkJ1X1BUcXljdkdITkpoUG1kc1QwdUJBODZja29OX3BaVjI3T3FLR1A0bHR2QTRUOEgzaGlnSjI3M3RraGpzM0tKYjN5YTQyaG9nWjJHWml1aFF3NFFCaFV4bTM3ekx1SDFnbEcwV2Y1VnN2STVxaVdZVXVaX0o3OEJIVlJ1eml1bjgwblpBS01IYjgyb3U3VU45MlQyenpyVmJoQnNQTGNCZFlPVDRkWlR6ODQyYVVGYUlONA?oc=5
 
-- 'Can't Even Fake It Right": Kiren Rijiju's Swipe At Congress' AI Crowd Post - NDTV
-  'Can't Even Fake It Right': Kiren R
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQWp1R25xRXNpUHBlTFdhMWx2YzVraXRoa0ZTTEJFX0tSZzU5am9aZU5IYWliTDhBbi13OTltcTFXNmtNY21WX2NSVjdRQnFnd29UVzh5R0VSN3JyUVMySEJ0NEo2dG5aZnVoRVZGdWpGU2F0MTNpM0FxU19ybmV2cDJSV2djSTJlbmxldTNBdnZSSHlRRDRXM0xYTHlodzZrbTBIb1VORDlSSlRhRWYteUZnNGNIV3huODVBaURJSWM3Z2FWb1BZWU9nNTYzZDJlMERZS08tVlJ5QdIB4gFBVV95cUxOeS0ybzN6MU5PaUVTSWpmUGxnLWhJb0syMjcwTW1FMUpiN2dwNkQ5TWk5cDZjSERhallFZm03akhqVy1XVmdENlZVa0RpVFczLWtBZnpUaEdTQzhwM2FWTnVtYXhhamltWl9HazhhX0V1OVJtemRGY1Nvcmt1cjhKSFgzRkUxYnBMRXRvXzlEcUFTRnFEVUhDR3RCWkNlWW13aUpiOE5MbV9qTzlxdGV4dnV3MUYzNVBham1jWWkxdGkwbHVTWmMxSDNMdmdOa1kyVktNRDNVRTV5eTROSXVsaDBR?oc=5
+- "Can't Occupy A Site Indefinitely In Name Of Protest": Top Court's Big Remark - NDTV
+  "Can't Occupy A Site Indefinitely In Name
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFVnb3kxUEFUc3NpcXBrZlJVRVRmWTQyWjhRM2JyUWdzaXVxR1I0LXBsTGJ0MGMtT0tSU2V1OHpaZFJIdTY2TF80N2xnaDdUbnJWck42bFhBbElWYzQ3eF9aWDZReFF0aXZMTm9XVVRhN2d6RUdmTmRzZjZxbk44S2ItdjN6anRwSUtwTEI1Xy04d00tM1dkR2NVLTFQZ2ZCUUJyNFhLWkpiZVpGb0hKQkF5WUdlN284SWVUSThhb9IBxwFBVV95cUxQZ29jejNFalVYUVZaN2lZTmlGcHQtQUpYRVRmR3dGQTljeEhaeWJLU2lYS25oNlVHZ0NtcW5QdGxjUGNkLVl1VFRUMGlfc1RaMUIzRHh5b3JGcFYxMUo0bjZram96bFNaLVlObDNVdndoVl84UGdyWkxhQVAwYV9UdkM2UzFLaDlNZFZTbng2YUFWOTFMRVRINTE3Q0pZWFFtN0xfOTJNSDNqaEtrQmFUWWRPYldkUjVWbi1ZU29wVEc2ekg0M2Zv?oc=5
 
-- "Who Will Compensate?" Traders Claim Rs 11,000 Crore Loss Due To INDIA Bloc Rally - NDTV
-  Traders Claim Rs 11,000 Crore Loss Due To
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDdULXJmemhtdnY0N1psd2h2cEQxRlBydlk1bF95ZTUyRGZNam5uOXZpazZDRGpqSURVaVJab1NQY3ptQUhLdVBTRVhMRDhNMlFITWllTWlOTlhRenpOTmZMVlkzNjRWS0xDaDBiZDJUX21ndVdwWlFKcjBFZ3VxRzBNM1ZKSWZvUG1KQUNDUU01OUZ3MkNkbWJ4Q0dlVUFRajhyd2xvdHlFME1SZlc2bzZxOEdLT213R3c1NVJlUWFzQVU3YzdybjVjY3lkNFNGVGxWVzZJSdIB3wFBVV95cUxQNHBBTDJHam1lZHRuRGdlb0lyR3RYaWRZRG5tR19abU9JWmtCWUhHQVg1SHBiX3pZcTViazBnMnpJdlU5TFhNSFFPTGRZVmZnODMxNHRxLTRwSHZMSUlqU0lYX2I3d0RwM0QyTnNJUEJva01mWEpBd3FZdkRaZmFKcFh2M1N1cjloc3p5X1FoN1hlT19aM2dUSHB0bWdSeGRVdW14Q0otbUNWc3J2N2xwWmJoNHBqU0h1aUg3N3I2UVE5bmVldkhVNU42S3hkTHUtbmFjVWVINmJQU185cHFJ?oc=5
+- Mamata, Rahul fighting for infiltrators to keep them in India: Bengal CM - The Hindu
+  Mamata, Rahul fighting for infiltrators to keep
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQnFDYURieGVhRXFxNWx5UjNtM01ka2Rabl9FOHlTNDF6TENjbFF6U1ZRX1ZkbEVodjVYQ1hzNXk0LXowSW5aZ0V6MEt0c3dCTnNGMDZNeWNJUVJqYmdmNmh6UmtHb0NzZVVaNzlWUHJIR3NwYVVlcF9YY21TZlRmTTlyQ1NZUHgtUDZuTXF6eGpkSEVVSnM3bjJicVdSZU1LaDZQSlZuQ0V3SnkyeXI5dW9DbHRqeldkZlBzVVJ4eEMzbEdVV20yT2RvTExrcEViSVZXZ3BYMEXSAd8BQVVfeXFMUHNkbzdNNWRsYmd2eDN2cGFkbXZ6RFZOMVlFVUswbTNtVEZEZ3dQekhNMHZEam11X1J0ekQ1SGVRT2dMdzhCZ0VkMnF1NkVjaWlrRlYyTlhWY01XdXRhX2N2TGNkUnU4RVpaRi00V3JzMGdLTGhDdEdieFliY2lVN0pENnZLTHJoQ1JNY19YaDVNYkZDNVNuczI2NXh1OEFEbjJ2bzlBdVNrMWF2Z0lFcnE1TkZRNkxHOWktYUhHdExteVF6TVpMam9jQ190U3czTVJCekxpclY1LWpEemRaNA?oc=5
 
-- Rahul can be PM only in mock Parliament: Amit Shah - The Times of India
-  Rahul can be PM only in mock Parliament: Amit
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHE1d2huQ0o3YTNMM2F2dHlUQUZTTDlJeE82RlotM202QnJjcENCWlQwLTBDR3YyZzNjX1hQTGkyaS1tLUdmOVZNaG5MdXBabFRlSUlKTmJWUTRJaFp0dXJUOXpHdkszYjhrSnFCYTEzOGU1WWlzZXR4TkdnZUN4eExiZ3Q4RnZZbFdaU3FqVU1QN0R6SXh1dWdwQmx2UnJiV1JZQmJCZWt1MTZITk5HVUt4UlQ3cFh40gG-AUFVX3lxTE1TaFdOeEpvU0JEeDFtLVBqaThWb21lM0VKWW1EdTM2dTZ1a2tmRzlVRzZOdVNVM2lQLXZ6clBMT080ZE9fNGxEVmZyWHdPbEtjSmU2Ry03d0I5Z19XdUR0SUhTWTNmX0tCOEtUSkZZWm9zd2FsOVp0YVYtMzBQNVllbkhHaDBSRWMwelpmNklJVjhMTmc0X0hFbkwtQjhXdndQZWRjdkxWamIzbjJmWUtXb1lKa2txcUM3VHlrSUE?oc=5
+- 'Gaddar': BJP accuses Rahul Gandhi of treason, calls him 'Bhasmasur' - The Times of India
+  'Gaddar': BJP accuses Rahul Gandhi of treason
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUNNNzlQZkVHamdlOGpZZTcteklxSGVReWJPckVFX1NWdE5pZmw1c3pReGFuaGdkLU1LYnNVN0pyWGVtVEJtam1YZnFmejBHUjZJNlFDLVVQS2VCNFJIbTM3NGt1QzhDZkd3MmF2SF9send2LUVVVTdkTmdremlKb2h1NE9Da0REX3hJYkozNFotdkotZjVSVDNKZTg4c0gzZDJTemk4M3FPMUhxbFR0ZlVFTUlRN3pmT2tfMm9sUU94cXNiQ21FU0RB0gHPAUFVX3lxTE1LcXF0Y1NrZUNlN1ZlMXRUemNwaEI0NUdETzBzSS12YkdOTEVsZE5jVFZUMzJ5OFFRWDBjbEVvREpPMXJ0Ty05dHJjcGd4Qk5FclI4VTFHaW4zTHN3RVY0aktJWHFjZ0xJazVCQU5kQWhPUk9RYXhaWUZEbnR6eTdSY1FvdF9LYmpZTFBiSHhLMDItaS1XTFdPYVpRczRoRjRFXzBSaE1NdWx0QjVpbjlBV0YyckhvLUgzaElncW4teFo0ZXRqOWJIdzQtajU1cw?oc=5
 
-- Marital discord no ground for termination of pregnancy: SC - The Times of India
-  Marital discord no ground for termination of pregnancy:
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa21jd2J6U1ZZY2x3U1hfeVgyWHY1aGNvMGRoMTMzQkVxUXF6U05HLVNhRXozZFZHZVotbEtfelZvb2ZyXzB6d2N2blhiWFFWRDVqWHY3WkxaNHFBMXUwS1AzUFBnN1ppa01LZlN0cDM3QnRCVzg5ZVo4bmRCWEJMNFVUWlZtVFpld19yVGppczMteFNpNVFOV0JDWDJUY2hQZ2FLbnVoWXZLWEk3NXBnZ2ZSMFRZM01McmkwYmpNbjAtNjTSAcgBQVVfeXFMTUVCSmJvZFR3Wm1RMmxXZlhYZTMyZ0xleEkxaURCa01hWTdnNHFNVXhyZ09VdXdCdHIwSWZWMTh2R3BSRm9nXzNESjZ6WnNKVHNySmxiM0M5OWwwQnFKSk5reU00NVc3R0VrR0QzWnNXblB5N1VidkNpQjhoWlFaLTlCMzlBZDF5TVpTYU5XNERjM1RMelFUY1N3QjhwMnZKV0xDZ2IyXzhMLTlvQzczR003QUdaV3liMEZrRHlkRXB0ekMwdjc3N3o?oc=5
+- Incompatible with secular character: Centre says Qadeemi Masjid at Krishi Bhavan to be razed - India Today
+  Qadeemi Masjid at Krishi Bhavan to be
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYTVtSWF6WGlpanhqa0dRcHVPRjRFOF9YUDk3MVVOcFJ5SzFKZjEtdmhKSWNDSzJndXdsVm13Nm10c1k1UDFFcWh1U2tfQVl2Y0dIUi1QYkVLcFdIeENfNURRQ01xODVYSUw1dW41bUJTNVd2WUF0ancydWduQld2ZDJGbEVRck43YkVLV0Z2M2RDR2ozWTVNeWpRdW43RmFDV29XYVVNY0szYktjbHRxV0xzU3JuQm83VlF3SHo5bGYzd29PcVpOUHFmV05xN3BuTm5fWmFCRXFjbGRubXFRQ9IB5gFBVV95cUxQSXlmVGszNGV1emx6dnZadGo3Sng3YWRGME5JcjYwb0dteDctZk1kVTJFdGFqMDJhWVlMamVqU2Jla2UxcFBCZlhwQ2dhb05hLVJXWHdMSEhhdC1rN29NcFFoajQ4R3hoSGpvcjMzSHo1dG1kOVJQUHRlbUh1LVlqWUhBbGxjdW1sdTU0UzB3LWxyVkhSdXBLUTc1X2JmNkRWTTVnODBsRFBTVVZmRmZmb21QUGNHMWYybWgxVW5VdVVqWDlMTWJsb3dVRGtOSEhvdEF4aUg4Z3lKZVFvQmhXaFdCUFZmZw?oc=5
 
-- Asian Champions Trophy: India beat South Korea 8-0 in goal-fest - ESPN India
-  India beat South Korea 8-0 in goal
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3J1eEJFSGpvY3R6b1NTemN3TGlWaElUY1BqSl9RYkR1N3lkQ25ydlhXMVd0S0RseG0tWWRRODMyTHRRd3Nzal9xVnE4cjNZcVY2dGY1aTItTHhGY0pFalNyUlktNHFrVWtmaW5GU2FtUTVQbUxYNDgtd0g2c2lBNUhMTXZsR0NhMVhnN0t2YW1kdU9pYXB1T01JTG9jUFd2ZC1LNi1LendiRjBWMzhRREpxbUtPakUwaEZNdzh3NXVNWDNSTVN1a0s3U3VDVHBOa0dfdGNnWXcxdTFIdUdxTHd3?oc=5
-
-- PowerUp Money Raises $10 Mn To Expand Wealth Management Services
-  Bengaluru-based wealthtech startup PowerUp Money has raised $10 Mn (₹95 Cr) in a fresh funding round.
-  🔗 https://inc42.com/buzz/powerup-money-raises-10-mn-to-expand-wealth-management-services/
-
-- Clinics On Cloud Bags ₹120 Cr To Take Its Health ATMs Global
-  Health tech startup Clinics On Cloud has raised around $12.5 million in its Series A funding round.
-  🔗 https://inc42.com/buzz/clinics-on-cloud-bags-%e2%82%b9120-cr-to-take-its-health-atms-global/
-
-- Fireside Ventures’ Cofounder & Partner Vinay Singh To Step Down
-  Fireside Ventures’ cofounder and partner Vinay Singh is stepping down from the investment firm after a nearly decade-long stint.
-  🔗 https://inc42.com/buzz/fireside-ventures-cofounder-partner-vinay-singh-to-step-down/
-
-- ideaForge Returns To Profitability In Q2, Reports Net Profit Of ₹6.5 Cr
-  Dronetech major ideaForge posted a net profit of ₹6.5 Cr in the September quarter (Q2) of FY
-  🔗 https://inc42.com/buzz/ideaforge-returns-to-profitability-in-q2-reports-net-profit-of-%e2%82%b96-5-cr/
-
-- Pernia’s Pop-Up Shop Narrows Q2 Loss By 13% To ₹68.3 Cr, Revenue Up 31%
-  Pernia’s Pop Up Shop parent Purple Style Labs (PSL) narrowed its consolidated net loss for the September quarter by 12.9%.
-  🔗 https://inc42.com/buzz/pernias-pop-up-shop-narrows-q2-loss-by-13-to-%e2%82%b968-3-cr-revenue-up-31/
-
-- 'Can't Even Fake It Right": Kiren Rijiju's Swipe At Congress' AI Crowd Post - NDTV
-  'Can't Even Fake It Right': Kiren R
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQWp1R25xRXNpUHBlTFdhMWx2YzVraXRoa0ZTTEJFX0tSZzU5am9aZU5IYWliTDhBbi13OTltcTFXNmtNY21WX2NSVjdRQnFnd29UVzh5R0VSN3JyUVMySEJ0NEo2dG5aZnVoRVZGdWpGU2F0MTNpM0FxU19ybmV2cDJSV2djSTJlbmxldTNBdnZSSHlRRDRXM0xYTHlodzZrbTBIb1VORDlSSlRhRWYteUZnNGNIV3huODVBaURJSWM3Z2FWb1BZWU9nNTYzZDJlMERZS08tVlJ5QdIB4gFBVV95cUxOeS0ybzN6MU5PaUVTSWpmUGxnLWhJb0syMjcwTW1FMUpiN2dwNkQ5TWk5cDZjSERhallFZm03akhqVy1XVmdENlZVa0RpVFczLWtBZnpUaEdTQzhwM2FWTnVtYXhhamltWl9HazhhX0V1OVJtemRGY1Nvcmt1cjhKSFgzRkUxYnBMRXRvXzlEcUFTRnFEVUhDR3RCWkNlWW13aUpiOE5MbV9qTzlxdGV4dnV3MUYzNVBham1jWWkxdGkwbHVTWmMxSDNMdmdOa1kyVktNRDNVRTV5eTROSXVsaDBR?oc=5
-
-- "Who Will Compensate?" Traders Claim Rs 11,000 Crore Loss Due To INDIA Bloc Rally - NDTV
-  Traders Claim Rs 11,000 Crore Loss Due To
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDdULXJmemhtdnY0N1psd2h2cEQxRlBydlk1bF95ZTUyRGZNam5uOXZpazZDRGpqSURVaVJab1NQY3ptQUhLdVBTRVhMRDhNMlFITWllTWlOTlhRenpOTmZMVlkzNjRWS0xDaDBiZDJUX21ndVdwWlFKcjBFZ3VxRzBNM1ZKSWZvUG1KQUNDUU01OUZ3MkNkbWJ4Q0dlVUFRajhyd2xvdHlFME1SZlc2bzZxOEdLT213R3c1NVJlUWFzQVU3YzdybjVjY3lkNFNGVGxWVzZJSdIB3wFBVV95cUxQNHBBTDJHam1lZHRuRGdlb0lyR3RYaWRZRG5tR19abU9JWmtCWUhHQVg1SHBiX3pZcTViazBnMnpJdlU5TFhNSFFPTGRZVmZnODMxNHRxLTRwSHZMSUlqU0lYX2I3d0RwM0QyTnNJUEJva01mWEpBd3FZdkRaZmFKcFh2M1N1cjloc3p5X1FoN1hlT19aM2dUSHB0bWdSeGRVdW14Q0otbUNWc3J2N2xwWmJoNHBqU0h1aUg3N3I2UVE5bmVldkhVNU42S3hkTHUtbmFjVWVINmJQU185cHFJ?oc=5
-
-- Rahul can be PM only in mock Parliament: Amit Shah - The Times of India
-  Rahul can be PM only in mock Parliament: Amit
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHE1d2huQ0o3YTNMM2F2dHlUQUZTTDlJeE82RlotM202QnJjcENCWlQwLTBDR3YyZzNjX1hQTGkyaS1tLUdmOVZNaG5MdXBabFRlSUlKTmJWUTRJaFp0dXJUOXpHdkszYjhrSnFCYTEzOGU1WWlzZXR4TkdnZUN4eExiZ3Q4RnZZbFdaU3FqVU1QN0R6SXh1dWdwQmx2UnJiV1JZQmJCZWt1MTZITk5HVUt4UlQ3cFh40gG-AUFVX3lxTE1TaFdOeEpvU0JEeDFtLVBqaThWb21lM0VKWW1EdTM2dTZ1a2tmRzlVRzZOdVNVM2lQLXZ6clBMT080ZE9fNGxEVmZyWHdPbEtjSmU2Ry03d0I5Z19XdUR0SUhTWTNmX0tCOEtUSkZZWm9zd2FsOVp0YVYtMzBQNVllbkhHaDBSRWMwelpmNklJVjhMTmc0X0hFbkwtQjhXdndQZWRjdkxWamIzbjJmWUtXb1lKa2txcUM3VHlrSUE?oc=5
-
-- Marital discord no ground for termination of pregnancy: SC - The Times of India
-  Marital discord no ground for termination of pregnancy:
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa21jd2J6U1ZZY2x3U1hfeVgyWHY1aGNvMGRoMTMzQkVxUXF6U05HLVNhRXozZFZHZVotbEtfelZvb2ZyXzB6d2N2blhiWFFWRDVqWHY3WkxaNHFBMXUwS1AzUFBnN1ppa01LZlN0cDM3QnRCVzg5ZVo4bmRCWEJMNFVUWlZtVFpld19yVGppczMteFNpNVFOV0JDWDJUY2hQZ2FLbnVoWXZLWEk3NXBnZ2ZSMFRZM01McmkwYmpNbjAtNjTSAcgBQVVfeXFMTUVCSmJvZFR3Wm1RMmxXZlhYZTMyZ0xleEkxaURCa01hWTdnNHFNVXhyZ09VdXdCdHIwSWZWMTh2R3BSRm9nXzNESjZ6WnNKVHNySmxiM0M5OWwwQnFKSk5reU00NVc3R0VrR0QzWnNXblB5N1VidkNpQjhoWlFaLTlCMzlBZDF5TVpTYU5XNERjM1RMelFUY1N3QjhwMnZKV0xDZ2IyXzhMLTlvQzczR003QUdaV3liMEZrRHlkRXB0ekMwdjc3N3o?oc=5
-
-- Asian Champions Trophy: India beat South Korea 8-0 in goal-fest - ESPN India
-  India beat South Korea 8-0 in goal
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3J1eEJFSGpvY3R6b1NTemN3TGlWaElUY1BqSl9RYkR1N3lkQ25ydlhXMVd0S0RseG0tWWRRODMyTHRRd3Nzal9xVnE4cjNZcVY2dGY1aTItTHhGY0pFalNyUlktNHFrVWtmaW5GU2FtUTVQbUxYNDgtd0g2c2lBNUhMTXZsR0NhMVhnN0t2YW1kdU9pYXB1T01JTG9jUFd2ZC1LNi1LendiRjBWMzhRREpxbUtPakUwaEZNdzh3NXVNWDNSTVN1a0s3U3VDVHBOa0dfdGNnWXcxdTFIdUdxTHd3?oc=5
-
-- 'Can't Even Fake It Right": Kiren Rijiju's Swipe At Congress' AI Crowd Post - NDTV
-  'Can't Even Fake It Right': Kiren R
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQWp1R25xRXNpUHBlTFdhMWx2YzVraXRoa0ZTTEJFX0tSZzU5am9aZU5IYWliTDhBbi13OTltcTFXNmtNY21WX2NSVjdRQnFnd29UVzh5R0VSN3JyUVMySEJ0NEo2dG5aZnVoRVZGdWpGU2F0MTNpM0FxU19ybmV2cDJSV2djSTJlbmxldTNBdnZSSHlRRDRXM0xYTHlodzZrbTBIb1VORDlSSlRhRWYteUZnNGNIV3huODVBaURJSWM3Z2FWb1BZWU9nNTYzZDJlMERZS08tVlJ5QdIB4gFBVV95cUxOeS0ybzN6MU5PaUVTSWpmUGxnLWhJb0syMjcwTW1FMUpiN2dwNkQ5TWk5cDZjSERhallFZm03akhqVy1XVmdENlZVa0RpVFczLWtBZnpUaEdTQzhwM2FWTnVtYXhhamltWl9HazhhX0V1OVJtemRGY1Nvcmt1cjhKSFgzRkUxYnBMRXRvXzlEcUFTRnFEVUhDR3RCWkNlWW13aUpiOE5MbV9qTzlxdGV4dnV3MUYzNVBham1jWWkxdGkwbHVTWmMxSDNMdmdOa1kyVktNRDNVRTV5eTROSXVsaDBR?oc=5
-
-- "Who Will Compensate?" Traders Claim Rs 11,000 Crore Loss Due To INDIA Bloc Rally - NDTV
-  Traders Claim Rs 11,000 Crore Loss Due To
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDdULXJmemhtdnY0N1psd2h2cEQxRlBydlk1bF95ZTUyRGZNam5uOXZpazZDRGpqSURVaVJab1NQY3ptQUhLdVBTRVhMRDhNMlFITWllTWlOTlhRenpOTmZMVlkzNjRWS0xDaDBiZDJUX21ndVdwWlFKcjBFZ3VxRzBNM1ZKSWZvUG1KQUNDUU01OUZ3MkNkbWJ4Q0dlVUFRajhyd2xvdHlFME1SZlc2bzZxOEdLT213R3c1NVJlUWFzQVU3YzdybjVjY3lkNFNGVGxWVzZJSdIB3wFBVV95cUxQNHBBTDJHam1lZHRuRGdlb0lyR3RYaWRZRG5tR19abU9JWmtCWUhHQVg1SHBiX3pZcTViazBnMnpJdlU5TFhNSFFPTGRZVmZnODMxNHRxLTRwSHZMSUlqU0lYX2I3d0RwM0QyTnNJUEJva01mWEpBd3FZdkRaZmFKcFh2M1N1cjloc3p5X1FoN1hlT19aM2dUSHB0bWdSeGRVdW14Q0otbUNWc3J2N2xwWmJoNHBqU0h1aUg3N3I2UVE5bmVldkhVNU42S3hkTHUtbmFjVWVINmJQU185cHFJ?oc=5
-
-- Rahul can be PM only in mock Parliament: Amit Shah - The Times of India
-  Rahul can be PM only in mock Parliament: Amit
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHE1d2huQ0o3YTNMM2F2dHlUQUZTTDlJeE82RlotM202QnJjcENCWlQwLTBDR3YyZzNjX1hQTGkyaS1tLUdmOVZNaG5MdXBabFRlSUlKTmJWUTRJaFp0dXJUOXpHdkszYjhrSnFCYTEzOGU1WWlzZXR4TkdnZUN4eExiZ3Q4RnZZbFdaU3FqVU1QN0R6SXh1dWdwQmx2UnJiV1JZQmJCZWt1MTZITk5HVUt4UlQ3cFh40gG-AUFVX3lxTE1TaFdOeEpvU0JEeDFtLVBqaThWb21lM0VKWW1EdTM2dTZ1a2tmRzlVRzZOdVNVM2lQLXZ6clBMT080ZE9fNGxEVmZyWHdPbEtjSmU2Ry03d0I5Z19XdUR0SUhTWTNmX0tCOEtUSkZZWm9zd2FsOVp0YVYtMzBQNVllbkhHaDBSRWMwelpmNklJVjhMTmc0X0hFbkwtQjhXdndQZWRjdkxWamIzbjJmWUtXb1lKa2txcUM3VHlrSUE?oc=5
-
-- Marital discord no ground for termination of pregnancy: SC - The Times of India
-  Marital discord no ground for termination of pregnancy:
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa21jd2J6U1ZZY2x3U1hfeVgyWHY1aGNvMGRoMTMzQkVxUXF6U05HLVNhRXozZFZHZVotbEtfelZvb2ZyXzB6d2N2blhiWFFWRDVqWHY3WkxaNHFBMXUwS1AzUFBnN1ppa01LZlN0cDM3QnRCVzg5ZVo4bmRCWEJMNFVUWlZtVFpld19yVGppczMteFNpNVFOV0JDWDJUY2hQZ2FLbnVoWXZLWEk3NXBnZ2ZSMFRZM01McmkwYmpNbjAtNjTSAcgBQVVfeXFMTUVCSmJvZFR3Wm1RMmxXZlhYZTMyZ0xleEkxaURCa01hWTdnNHFNVXhyZ09VdXdCdHIwSWZWMTh2R3BSRm9nXzNESjZ6WnNKVHNySmxiM0M5OWwwQnFKSk5reU00NVc3R0VrR0QzWnNXblB5N1VidkNpQjhoWlFaLTlCMzlBZDF5TVpTYU5XNERjM1RMelFUY1N3QjhwMnZKV0xDZ2IyXzhMLTlvQzczR003QUdaV3liMEZrRHlkRXB0ekMwdjc3N3o?oc=5
-
-- Asian Champions Trophy: India beat South Korea 8-0 in goal-fest - ESPN India
-  India beat South Korea 8-0 in goal
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3J1eEJFSGpvY3R6b1NTemN3TGlWaElUY1BqSl9RYkR1N3lkQ25ydlhXMVd0S0RseG0tWWRRODMyTHRRd3Nzal9xVnE4cjNZcVY2dGY1aTItTHhGY0pFalNyUlktNHFrVWtmaW5GU2FtUTVQbUxYNDgtd0g2c2lBNUhMTXZsR0NhMVhnN0t2YW1kdU9pYXB1T01JTG9jUFd2ZC1LNi1LendiRjBWMzhRREpxbUtPakUwaEZNdzh3NXVNWDNSTVN1a0s3U3VDVHBOa0dfdGNnWXcxdTFIdUdxTHd3?oc=5
+- Immigration, economy, US-India ties: What is weighing on Indian-American voters as US heads into midterms - The Times of India
+  The Times of India is a leading English-language newspaper based in India.
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxQN2xmMWFlN2Q5U21QUTMycC0wLTAwdUU4dlR5TC1rcE9YTDdNS3hmNjk0bWs1b1JvX1AxelhWVGw2RFRJQ1Fhc3FqbmhlT0lPSjFGVDFNUy1KWTEwTnAwazVfYU9aNG9DUkFQaHVoOENkd2xmVmVGcndPZFZGbHAyVmRxQV9mQ2UxdzVsdXJMbUk2WXl5b1lvblJPWnZwSlhTclFBSGJfanY1VVR5dXpNbWlpbjd5V0pOXzJBS0R2MjduTkRRRXAtbW9EcVF6SGd0N05YbEVnNU5oX096OHdIWkdZQ1NiaDd0SmhvMExFRkZpOVJjdjQ3bGVtVEhKbjJfVXAxRHNFSEFwa1pIMUx2eG16T3Fxc3hDWElBc3ozemFvRnVLM1FB0gGsAkFVX3lxTE1uYmgzYV8tNFN2VkhwaGduRnhwUmo1NjJuc18wQXRSMjAweEpuUk4tTGxkdmo3NG1nV2k0OHNXTlBJejVaNG55NGk0akR3aTBFYzZ4QlVWVW5WR2VQYlNxcENuQzlQc2FtYl8yRENWd2RlcUNmLTdRNkJ1X1BUcXljdkdITkpoUG1kc1QwdUJBODZja29OX3BaVjI3T3FLR1A0bHR2QTRUOEgzaGlnSjI3M3RraGpzM0tKYjN5YTQyaG9nWjJHWml1aFF3NFFCaFV4bTM3ekx1SDFnbEcwV2Y1VnN2STVxaVdZVXVaX0o3OEJIVlJ1eml1bjgwblpBS01IYjgyb3U3VU45MlQyenpyVmJoQnNQTGNCZFlPVDRkWlR6ODQyYVVGYUlONA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,25 +180,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028 - The Guardian
-  AI-powered malware ‘highly likely’ to be
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObVNSQVUzUFl2ZHdCNlAtOGQtRTVmekF0NUU4cDlHYlFTYkw3U1lPYUpRVmVGQ3hzWnFqcUVEdkV3dlNpWVJoWERHRFgzQVBJXzVjUTZIcUgyMTF1MG5ZZGlHaE52MXhXTEsxQmRxUDhvVkplSUd3MG5FRVUyeGtPczlqZWthYnZDY3NZcmVtUjVKUnZVUjUyNWQ5dFE1UzFNczVyNXQ4V0RGb0JTc214bkotWnRTMXZvbFV0d2o1VjdJOEpXc1hZ?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Bring your technology; we’ll provide talent, land and partnerships, Karnataka tells Japanese business delegation - The Hindu
-  Karnataka has invited Japanese business delegation for talks. Karn
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVWdvQzUxRkozSmQ2ZElSZ0hlNC16cHpXSmJ6QjBhM05SUUJWbTUxTkplT3lnTDZRM0tVaVkxVjg3NldReGdQbnVZaFFrV0o1M0dBQTF3TFFhLUttanZ2MWRiV1pzUWZ2YzlKdFVBOXNoc05xNnFCdVhJT05iU21YaTA3WkhCenJmMHU3V0xUVkstYVdsZnZ1UnVacmpKWnF5LThKLTFYZXdBRk0zNjZ5QTRSQ1VESG1WRHc2TFJKSmlZR2N4dkNwX01GSHZFa1JfMVJJVlV5UUk1bmp6a3V1Ni1iN0NkeExiV2xBZjJwSU0tcHJmQWpVSlY3VU5YMEhoSmpmc1lLQjnSAY8CQVVfeXFMUDBZWDhXdE9LQzBUQWp2dlgtYVFFM21LdnlmNGw2RlcwaWR1aW93ajFvMDhXcDNITUpKNXFVNC1YdE1oT2YxZnphMzNuSk44R1JsQnhzRW9Nd2cwRUFuR2ZjTXdpdTNGRkFLcm9CbWw5REtZY0NZWnRmQXdqUEZERUpVZ0szdGZYdV85RkNZYnFKNlQ0NUY5Vjg5ZWdZczFaNHc1aFZtVFhxSjJpeEx2ejNmbDZVTG1UM096V0QwRTVKMjhlbUk0UTlvdklmem1iYVBFUEd2VU5KZEJocXVUTlhRWTUwVjNGd1hDanczVkpSRHlLZGhva2lnaFZ4WE5uVG1nenJ3eVBLQjh5Umx0bw?oc=5
-
-- Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal - Bloomberg.com
-  Marvell to Acquire Lumentum
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2FXN0VKVjBIUDlmNF8xMXBEcE9BQkRrQk5GR2k1dmNLMjlBMVlCSmRLc19PNXVCTUNZVUZRY3pQNzEtZGJuQlNwcnMxQWdqME8xa1FtOVkyendLS0RFSTV3cjNwQXJaYmVxTy1fREcyNk81S29pYWRGOTdLN3ljXzVVX1pIaDlTMXRGTHB1ck1qNEZnSUlsUkJIMWFJSmpHT1U5UjkyMEs?oc=5
-
-- Are Wall Street Analysts Predicting Micron Technology Stock Will Climb or Sink? - Barchart.com
-  &nbsp;&ngt;Are Wall
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOQzFLbG1SdzdfdFR3RDJLT29yZWxra25qekVZWlNCYVNhNmpFQVhpdmY0VUFnVDdsUXpSbzFsSlhxX2NIcGhvS3E4ZUxESzdCWVlOaUdMcUdJSXNnSml1VHAyal9iN3NEYTVQNGNHZVNEaWNUZ3hBQmk1NFFHWHZ2aUR5Ui0yVEJnbmc2ZktuZUhvT29CRE5wRTRjSUV2RlpvVUxmU256bFFkdGNoYVAyYWxBa1J6MUdQS0tmeXBIUQ?oc=5
-
-- Zee appoints Tushar Vohra as chief AI and transformation officer - Indian Television Dot Com
-  Zee appoints Tushar Vohra as
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkczY0l4OEx1SVhNQlhzTWhGV0VtcV9WNTNHQUw2ZGVtOFhYaURRX1lQWEMxWFBTRGJRSlA1OHN4RzNESEhYSjJzdEVyWVYySmNtWlhvWHl4ekdEYkRDSFJzYlRsZkp6MW5PUGJpSUJwVkJsbVZhNzk0TGt6R0hkLU1qZ01NVXh3NUxSN1BkNVFFVXpqMU1OQjdDc3pVcFU?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-03 00:25:54 UTC_
+_Last updated: 2026-11-03 13:31:56 UTC_
