@@ -1,144 +1,224 @@
 # 📰 Daily News Summaries
 
+- Democrats Take Control Of US Congress. What It Means For India - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWRQZlIxY2QzYWlKX25WRXJBVXhYN29LN1RhdS1Mb0UyZDYzaGQ2MkdJLUZKVGFKX1A4dTNaRXpPX0ZyWEdiZ0x1VFBrVFF2aVFfbGY4N2NFVkVsLUNHNlAxenkxdmxPRm
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWRQZlIxY2QzYWlKX25WRXJBVXhYN29LN1RhdS1Mb0UyZDYzaGQ2MkdJLUZKVGFKX1A4dTNaRXpPX0ZyWEdiZ0x1VFBrVFF2aVFfbGY4N2NFVkVsLUNHNlAxenkxdmxPRmhUTnBkeHYxRVRjOFMxUDNrOXFGLUpkY2QxaHhLb3FkUms1bFN1Q2VlUGxLX3M2YkNBVWlQSVBrZEhScdIBrAFBVV95cUxQWDIxZ0xQZ3ZEMkpPS2hzZ1I3Qmw4ZEd6VTVVaWFza1RZYmUtV2JhWDVaLUlSM1lzVTUzSW53T1VocUhRMEVMQTFhRVE5Z04tX2MzQzRPeG5zbmd5enZQVlA2ZWNmVGxpSk15Sy03Q2V2U1JvVXYyUzJjSGhOazhDMmNLU0hjRlNNR0NhUEdyN1daMWFqTzVZczlBenRNU1Z5ejBfemg4a1dxRE9J?oc=5
+
+- Breaking News Live Nov 4: Cabinet approves to absorb Agniveers as first batch nears completion - The Times of India
+  The Times of India is one of the leading newspapers in India. The Times of
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0xXY1kzYUlWcjJzUjBRSTMtTHhxcmdOdVlINFhsN2llS3JxTkVJeVVNbldtdzZBY3ZSZzZGT0RmUm8xNUhSRHliVF9zajhSX3BsdnNUSGktdjc0aUtzZVBoZmcwYWwzeE1hU0tfLU1uNW1JbURBYUctMmpwSWRES0FwZ1E4UER1cC1LNkJ0VDkyc1ZrZTZ6dlBfNHhPcWZHZFR0Z3JhSVVYQ2RzOVVN0gG0AUFVX3lxTFBWWVRKa2tXR2xDa1V5MmlPdVJRaGwxMDJqZjV0a2hRdGdTa3MtTERBbkpwazJKVTVZM29CZFpoTmE2RlRCOWxMVmkxcmE3dFBCVXZVSHZER3FyVVZrZ1cwN3h2V1B0NlpIbEwtUDR0T1FvTG9iT2dCUmg3ZWh6akZOcVdGSi1TQ3hjNmo2TUZGbUtoVEdmWjc2Y0NtN0t1NEVrcEdkZ3BJLXdNV0RBRFlvdi1pVw?oc=5
+
+- Mumbai Police arrest three in Nagpur cyber fraud racket, establish links to 73 cases across India - The Hindu
+  Mumbai Police arrest three in Nagpur cyber fraud racket, establish links to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYmk3Y19McTltaVlKS3lVYXdyS3BTWXU4VWJpSTQ3VG1YQWFvSTd2R3BkOTBMOEx3RTJmWmVwTkV3b3RQM3RNUFh0UzBZZUNVdFdaemVtUkNqZFNVVk1wZmdqLVFYUnNiaXVWZWNNOFlFcjh0NGlkQ283dG9iNFpLMUpHX2lnWHFIUW40MFFFbkM4VTRIckVCZWVXZFNmd3BlY1lNTlZtQTBuTURpTFFLWGFNb2JKeGRUYmcwTlBUcmhjTURxZVl3UDExd09VR2dBY29DYlVnQXVHZlp6M1doV0NubE8yY1Zuc0hzTFVxRDBSd9IB-AFBVV95cUxOX0dRd3dLcUxBOHJKYy1PMjRzSTI3OVNYMXZ5NnY5Z1hsS0c4blp6M0VtQ1ZscG5aYU0yM3VHZUZ6VVZVZm40ZjBDMXltU01qUV9MY2VRYmZXcTRHdlJ6Q3l3TVFPbVcxc3d2Q1J2YUgtSEd3b2gwSFgzQmF6TDNsZWxYWG1SS3VVQjdERl9ab09YNnZNUEdhZ3I1akhKQjNNQ0lUR29wYm42X0pnRk9PQXlfZ3ZPNnoyeHl0YUxSQmxnRm1oMFY0bGpyczVZZ2tDS0dJQ3dKM2NVU2ZEZUZqU1VobDUwU1NGQmtWdFZFREtBWTZKWDlHQQ?oc=5
+
+- India's BSE posts higher second-quarter profit - Reuters
+  India's BSE
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNanQ5SExvRW9mbW8tYUg4U1dTeTBOamw0UzdyUjBnRjdoUzRJMjN4alBMaV9oRXFCRGoyV1BxMl9jd0hGaGFPSzNIZVpJYi1SdzZrendRUFl4YmxvcmFwb1puWllNenNwSXZJRVU3ZnE0MnpFOVVYZ2dYUjJpVXdVY3dTczRCc0wzakN6bHhIREM2RjRGdzBvRQ?oc=5
+
+- Air pollution: Indian capital Delhi's air quality worsens ahead of Diwali festival - BBC
+  Indian capital Delhi's air quality worsens ahead of
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MNk9jSmpHdkNfVlJ0NDV5SWQ0ZjZCSTVtenNrdE5MVFVsaWhQSUN4NUdXZFJyRHBJMGhnZDNvbXhfWjlzZEI2WFI0UjNsM0Z2Ri1vUm9ZR3FaYlU?oc=5
+
+- Leverage Edu names three executives to lead technology, product and AI - ET CIO
+  Leverage Edu names three executives to lead technology
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxNQzJyY3RBMV9za1pyMVpvWGdoSDR4Vjd4c3BiRWZNTG5nMkhaOWp1cDRQNzZsOWxZSWNpVzJERDIzQzBjSjZFc2pmcDkxdzhJMTA5a2dDazhrTnVlVXdvVVdkQjZrdl93M0ZQZHN1LWFQbzhEb1M2UGhfNFN4U2dxSGhwSjZKSHhHbS1KQTBOOTNxVnNFVWs3MEE0NWVTTTFhUWFtaGpob1hJMEM1MlpXM1dXVkgwakRjaXRyaGhHVG42NHYyY1Q3RWdQOTk4RWJEYW5JdGNnSF9iMThqYzhQZ0V3MmtGVjJ3NndKNno1T1hvS1FUOHl1OUw0VlV3eDhiaFdCTnY5VkR1bkw0M2VOSUUzTTFQRl9lN2xGclRtQdIB3AFBVV95cUxPeWMwWDlzZi1xSHZ3M0hRejRTZExFWGtkWXV2Q1QteGxFQXhpenVDelhqRXpTZ0o5UjllcDF3TTF2dkxCWUdVY3Z0MHNYNTcyd08xVHFibVdCYkYyYVdpQ0JoaXZyV1E0MExHanFNRzV0ZDcxWVozd3Q3Qjl4WHd4ZTRGazI1MzBZRlJWc3pzQ0xGTWVaZlpWQnV5U21OWUx5TGktR09TVS1aTUp6NHdmdkV5Y2dYenlNb3Q0V0FGa2p1M3F1MThyVEl5amZFblV4Ti1rRTJOaXRFSlVa?oc=5
+
 - Google says there’s no way to use Search without using artificial intelligence - The Guardian
   Google says there's no way to use Search without using
   🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQejExRlAwVmpXSkJOMFppQ3NXOFRGT2lkOGQ3LURUVS16UjRQa3llY01OY3FxdW1TYWVHZUR4c3NXbTRIT0pUQ2hIZGxlYzRFS2Q1ZG5qRTNNbDV0cnZJMHJaOFRfU1RzTzkzWFF1OVhUaUVhWFh1anhEV0JTb2lSLWJ0UEo5X3pyeWhNTkFSMWMtUQ?oc=5
 
-- MP Chamala blames BRS government for adopting costly technology - The Hindu
-  MP Chamala blames BRS government for
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2h4MTkwd0dkWExsNDdVblBsZlphLTNhMi0wSzEwcDc2dGtqZUNDcEI3SFdhcW43TzEzZGozaHp0bm9MZnotQThxdWR4QjdZamVCT3hpb3BMMkhOTEdicDRJaTl1U2E0TFVJbXJzSDhGallISkY1azNET0VfcHFjbU5PR2NSQ1QzVHZESjlFZlJxUmtDblMtc1VGZGpjcDlnRUNRX2djQmtkWkVKdW1CTlo0dFVQMmUzcE5mb21TRGsyRTc2aWNIZUp6b2zSAdMBQVVfeXFMTTJYSHd4djNSckE1YThUcjJVLWtZMk40V1pEWEVKT25CMEhhVHZnN1pSeHZXc3pDanZyNkhENW1yN3ViQjlYVUpvbnhSVDRwcTN6S1VaQnlyX3draW4tR2F2cVZCbFJEcUJqcTkxN2ppOE5OaWQzbkJjVzR2OGxsZGdwRGtxSHpQMW11eGtRVlAtby1ORk5XeGJaa25kdWpwdHVNN0M5NWVMbEcxb2QwMmcxNVRBS3RCQUpCcTJJcWlaSi1FUnAtZmFOMVByRm8xbnFXTQ?oc=5
+- India Science and Technology Scoreboard: NITI Aayog Launch - Vajiram & Ravi
+  India Science and Technology Scoreboard: N
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSzRLMS13aHp6ZkpZZWFfNC1oVW5BTmVLS2R0NnVvVjM3T3NQQ2VWSVBFQXI5OGFaNE5QZk5KZl9yZ2p5dGI2Zy1HaDI3Y0tVQWtyTjlucHpsQ1BoTlRBcFFKVkNDM2dlcDRXWjRsdFlCb0ZCTEJsMHc5WS1zdnlHdHpNanFzbElmV0E4?oc=5
 
-- Is AI about to destroy India’s great technology jobs machine? - Telegraph India
-  Is AI about to destroy India’s
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU9ybmFJT190OFgzV1E4a19vWktwZm5kbGxzTUJtUTJycThoY3RxY0xzM1ZuckxpeDZqcW5tVGRSekxDN0RtX2J0MjJJRGk1dDdkUFZNejFwNy1zOUxYSmlCa2F4OG5JRHZrWVJGTGxXZGxIM1R1T25vMXU1NnpodWpwQ3JZZWt2eEFJSUpOb0JPanRrSHlDRlpQNU5JNUZrVFlQMjd0Wmh2T05HUFJUYtIBtgFBVV95cUxOalpuRnpFdkpENC1BN1VPYlF0eVE3OG9VbUI0eE0xOGxFdFV3NDlTR09uek5XVE4zdUdhVXhqQVNMWXBhbkQwZW5xTTZBYmZiVnYzeTRKUk52Umk0WlpIRDhDUl9FaWpMLTFPX19LLVFkYkI0YUhqNk5WYmZtOVc4VkpMTkNnUDRxNmoyQ3hSQkQ1MlBSRzVtbTBhci1OWXE4bTdLVUZqbGJ2OVhwVUlNaVFkd0dYZw?oc=5
+- Schneider Electric partners with Jupiter Hospitals to deliver a technology-led, patient-first, energy-efficient campus with up to 28% energy savings - TheWire.in
+  Schneider Electric partners with Jupiter Hospitals to deliver a technology-led, patient
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNS2ZlUTFEa2tpM1V0NFAybTBDT3Bkd05WRXNCT1cxUHV6ZzA0MHJabDkza1M5eUNDRjNlMGI5amwwblE3QU12VTd1dHZKOG9CM2NwTGNuX3VrTDdXU3NPa2F3cVIyUWJLVTY2clZEWlA4SlFYT0hjRmNwNTROdDZpM0IwSER2ZzV1WTZXY3FscmZvVTlkU3JheEwwLUI0M1N0RHEwbGpvajVCMlFkcG5LWWcyeGdrUU5pSmQ3NUF3UFo4azhBdmF2WXVmQVVzVEdOYW94ai1JSk1LRC03dTVsZVpyUFFlQmNEQjhycVhmUDhwQXpZR3RoRzI1TVN0SVdMd0ZzSjdfRXNoOUJYZURiMk130gGXAkFVX3lxTE1fNVZQbTlpSFVYdVlkTDRod2VpNVhLSjRnbmpMV3JJRzZkTUQyWkItWDFRUE53TnluLWMwU1BSdGtXMkJSd2JlRHNNU3hUWGV3Ykw5eEdZNmczOENVRjF3V29Bc3VYd3lwZ3hpb01lak1pREJtU0lVWUYyZVNJMUIxdWJpWkk4MHA2MExEaDlNcWM3ZERPUkNtM25OWFNrRHY0QnJSRlRrbG9pMG1lMXkzVDRHLTA3a3BHSktzTXpHWUtxZHhEMS1ZR2ZfVVd4cnVDOE9IRDFNLW1QRVFkeTM2aXZ2MUZmbmRWQkk1bEg1NllHMkhraTd6U2tyOXZZSTJQZjliM2dqNXNacG4tZ2N3cnZKNWZaSQ?oc=5
 
-- This US state is pushing to harness GPS technology to slow ‘super speeders’: How it works - The Times of India
-  The Times of India reports that India is considering using GPS to slow down drivers.
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMUlxQXJpVmtjejBDR2pUNWpwb0drTnlqZlV5bDYxVUN5OV92bDBFbmtGbVlLWnktbHRlU08tS0FtZUlQZURxallITi14c1d2aFd5UnZDTkZrdWJpVVhYeWpmMmlnYmdFM3pIcXlWd2Y0SHRrWDloZ2I3b3dYYWNicUZCdEVXbThobS1rMG03dnprSzBkV0JjZzlhWHhJcFBHTEJ0RFdsMUdzb3ZuVTlHZ01IMXlucjFadVBUeHhzYlAxdEswUm1FdU1DSGx6QTQ4NVB0ekFPa0Rzd0hBcmdYbzBzbDdKTWhrMXF3M0p0WDF0cW1mZGlQNjNyZWdzZ9IBgwJBVV95cUxNd2ZTeFd2R1ZUVGEzaXhsZWVxSE5pMjVTSWVLYldkWDFQeVBPeWtNcGJXM0Q4S0hWdDYtbDFYSjJRaFZtcUNPdmI5bmFZVEZxVVhzRzM0UWVvcFgxWUdpVE1SVW1iNlhvLU1RaTRfbzdpaXFPQUo3aVA3bG9ZbGJoaHFGcW5kX2tZTEJ6M1dral9NOHhaME9ic2JaMlJkcVluNjJqWFpMZjcxUkszTjhDeFZqRVREZldHOWIwTWRmaEg5REp3bUhid0tGRzVwWmx6Z0VJbTlaTWxoMlRQTV91RVNuVTIzOGVQVzlySmxic2ZFY2RxZl9TQU1URGp6eUZ1MDk0?oc=5
+- OpenAI: ChatGPT Search Is About 20% of Google’s, 250 Million People Speak With ChatGPT, and Chat Is Merging With Work - Big Technology | Alex Kantrowitz
+  OpenAI: ChatGPT Search Is About 20% of Google’s, 250 Million People Speak With
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTFBQaUk5dU1ZNE93UVMtdTVnUXAwQkczREJwTEp5R25qelRMLWhNRkdXcng3MUFITFlXaVlOVDVOLXl3RUEtczItVDNYaWI1a1FpeGx2TDlvU2VabDZCMGZDREpIVS13bG1ZTUpsVnMxQjdrcHc?oc=5
 
-- Google researchers are fighting the company to tell the world what they know about AI - The Washington Post
-  Google researchers are fighting the company to tell the world what they know about AI
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5
+- Dabur Q2 profit up 12%, margins under pressure
+  The company also announced the exit of global chief executive Mohit Malhotra. Mal
+  🔗 https://www.livemint.com/companies/dabur-revenue-up-11-6-declares-dividend-11793790590209.html
 
-- More widebody aircraft, regain market share, cost cutting: Inside Air India CEO’s turnaround plan for the carrier
-  Air India plans to order more widebody aircraft as CEO Tewolde Gebremariam seeks to regain market share. Backed by its shareholders, the airline is also working to cut costs and
-  🔗 https://www.livemint.com/companies/news/more-widebody-aircraft-regain-market-share-cost-cutting-inside-air-india-ceo-s-turnaround-plan-for-the-carrier-11793764301639.html
+- Amul butter, ghee prices hiked by up to  ₹50 from 4 November | Check new rates
+  Amul has increases prices of its butter and ghee products by up to  ₹50. Its most
+  🔗 https://www.livemint.com/companies/amul-butter-ghee-prices-hiked-by-up-to-rs-50-from-4-november-check-new-rates-11793795220324.html
 
-- India raises a toast to premium pours, snubs budget liquor
-  Radico Khaitan and United Breweries report strong premium portfolio growth. United
-  🔗 https://www.livemint.com/companies/news/premium-liquor-radico-khaitan-united-breweries-allied-tilaknagar-earnings-11793691334064.html
+- IndiGo reportedly in talks to buy 100 Embraer jets, may place order for 50 more: What we know
+  The proposed deal could be worth billions of dollars at list prices. It would mark a significant expansion of IndiGo's aircraft portfolio.
+  🔗 https://www.livemint.com/companies/news/indigo-reportedly-in-talks-to-buy-100-embraer-jets-may-place-order-for-50-more-what-we-know-11793791096544.html
 
-- Students using Google search in classroom accounts will need access to AI tools, the company says
-  Google is adding AI tools to its classroom search tool.
-  🔗 https://www.livemint.com/companies/students-using-google-search-in-classroom-accounts-will-need-access-to-ai-tools-the-company-says-11793740129856.html
+- Equitas SFB names Balaji Nuthalapadi as interim CEO
+  Balaji Nuthalapadi spent 28 years at Citi. He steps in after founder P.N. Vasudevan quit.
+  🔗 https://www.livemint.com/companies/equitas-sfb-names-balaji-nuthalapadi-as-interim-ceo-11793781172395.html
 
-- US lawmakers, in letter, question McDonald’s CEO about algorithmic pricing practices
-  US lawmakers, in letter, question
-  🔗 https://www.livemint.com/companies/us-lawmakers-in-letter-question-mcdonald-s-ceo-about-algorithmic-pricing-practices-11793733116242.html
+- Google expands voluntary buyouts to 5 more countries after hiring spree: Is India included?
+  Google is expanding voluntary buyout offers to employees in Canada, France, Germany, Japan and Switzerland. Google is
+  🔗 https://www.livemint.com/companies/news/google-expands-voluntary-buyouts-to-5-more-countries-after-hiring-spree-is-india-included-11793785376239.html
 
-- Firm Tied to Some OpenAI, Anthropic AI Hacks Blames ‘Error’
-  A spate of cyberattacks involving AI agents from some of the world’s top model makers were down to a human error and time pressures at Israeli security company
-  🔗 https://www.livemint.com/companies/firm-tied-to-some-openai-anthropic-ai-hacks-blames-error-11793732135131.html
+- Diwali 2026 Muhurat Trading stock picks: Eternal, ICICI, Titan, Radico, 7 more Samvat 2083 stocks by Shriram Research
+  Shriram Research named 11 Diwali stock picks for Samvat
+  🔗 https://www.livemint.com/market/stock-market-news/diwali-stock-picks-eternal-icici-l-t-titan-to-radico-11-stocks-shriram-research-is-bullish-on-in-samvat-2083-11793796674218.html
 
-- BLS Polymers shares jump 7% for second day, hit record high; stock rallies 92% over IPO price | Investors guide here
-  BLS Polymers shares rose nearly 7% on 4 November, reaching a record  ₹288 after debuting at a steep premium. The company plans to use proceeds for
-  🔗 https://www.livemint.com/market/stock-market-news/bls-polymers-shares-jump-7-for-second-day-hit-record-high-stock-rallies-92-over-ipo-price-investors-guide-here-11793765213998.html
+- Stocks to buy in November: Axis Direct names Nuvama, BEML and Petronet, sees up to 27% upside; target, rationale
+   Axis Direct recommends buying Nuvama Wealth Management, BEML and Petronet LNG. It set respective target ranges of  2,166– ₹2,349,
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-in-november-axis-direct-names-nuvama-beml-and-petronet-sees-up-to-27-upside-target-rationale-11793790461951.html
 
-- MCX vs NSE vs BSE: Which is best exchange stock to buy after Q2 Results 2026? Experts' views, target price, stop-loss
-  Experts believe NSE and MCX should be prefered
-  🔗 https://www.livemint.com/market/stock-market-news/mcx-vs-nse-vs-bse-which-is-best-exchange-stock-to-buy-after-q2-results-2026-experts-views-target-price-stoploss-11793764412989.html
+- 490% return in 5 yrs: BEL shares up 9% in week - How much upside do experts see in defence PSU stock post Q2 results?
+  BEL shares rose 4.56% to  ₹397.10
+  🔗 https://www.livemint.com/market/stock-market-news/bel-share-price-rally-bharat-electronics-jumps-9-in-week-fresh-upside-ahead-post-q2-results-check-brokerage-target-p-11793790957688.html
 
-- Emcure Pharma shares at record high! Stock soars 10% today, up 16% in 2 days: More rally ahead? Buy, sell or hold?
-  Emmure Pharmaceuticals shares hit a record high after rising 16% in two sessions. Profit increased 29% and revenue grew 24%. Jefferies and Kotak retained Buy ratings.
-  🔗 https://www.livemint.com/market/emcure-pharma-shares-at-record-high-stock-soars-10-today-up-16-in-2-days-more-rally-ahead-buy-sell-or-hold-11793764871574.html
+- Top 2 stocks to buy for short-term: GMR Airports, HAL by Nagaraj Shetti - Check stop loss, targets
+  The Sensex gained 0.50% to 77,301.40 and the Nifty 50 advancing 0.63% to 23,960.60. Analysts
+  🔗 https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-gmr-airports-hal-by-nagaraj-shetti-check-stop-loss-targets-11793791298237.html
 
-- China Boosts Market Defense With National Team Buying, Buybacks
-  State-backed funds answer the government’s rallying call by increasing purchases. More companies stepped up buy
-  🔗 https://www.livemint.com/market/china-boosts-market-defense-with-national-team-buying-buybacks-11793762762747.html
+- How Markets Reacted to Democrats’ Win: Stocks U-Turn, Gold Gains
+  Global stock markets erased a selloff sparked by a Democratic sweep of the US Congress.
+  🔗 https://www.livemint.com/market/how-markets-reacted-to-democrats-win-stocks-u-turn-gold-gains-11793791700352.html
 
-- Sanofi India dividend 2026:  ₹75 per share payout — record date, dividend history, yield, returns
-  Sanofi India announced an interim dividend of  ₹75 per equity share for the financial year 20
-  🔗 https://www.livemint.com/market/stock-market-news/sanofi-india-dividend-2026-75-per-share-payout-record-date-dividend-history-yield-returns-11793760769833.html
+- AI moves beyond recommendations to reshape entire shopping experience on e-commerce apps: Report
+  Artificial intelligence (AI) is transforming the way e-commerce applications personalise the shopping experience. It is moving beyond conventional product recommendations to potentially influence the entire interface
+  🔗 https://www.livemint.com/technology/ai-moves-beyond-recommendations-to-reshape-entire-shopping-experience-on-e-commerce-apps-report-11793789314254.html
 
-- Bengaluru accounts for 34 pc of Indias forward-deployed engineering talent: Report
-  Bengaluru accounts for
-  🔗 https://www.livemint.com/technology/bengaluru-accounts-for-34-pc-of-indias-forward-deployed-engineering-talent-report-11793724718748.html
+- Realme 17T 5G live images reveal redesigned camera module and slimmer bezels ahead of launch
+  Realme 17T 5G live images have surfaced online, revealing a redesigned rear camera module and slimmer display bezels ahead of its expected launch. The smartphone is expected to succeed the Realme
+  🔗 https://www.livemint.com/technology/gadgets/realme-17t-5g-live-images-reveal-redesigned-camera-module-and-slimmer-bezels-ahead-of-launch-11793784650415.html
 
-- Mahesh Babu invests in Indian gaming startup Shortgun Games: What we know about the deal and its funding history
-  Mahesh Babu has acquired a minority stake in Indian gaming studio Shortgun Games. The investment follows its $1 million seed round in 2025.
-  🔗 https://www.livemint.com/technology/tech-news/mahesh-babu-invests-in-indian-gaming-startup-shortgun-games-what-we-know-about-the-deal-and-its-funding-history-11793718683914.html
+- 87% of organisations face threat-related incidents, preparedness gaps persist: McKinsey
+  87 per cent of organisations experienced at least one threat-related incident in the 24 months preceding a survey. Many remain inadequately prepared to deal with risks beyond conventional cybersecurity,
+  🔗 https://www.livemint.com/technology/87-of-organisations-face-threat-related-incidents-preparedness-gaps-persist-mckinsey-11793784884228.html
 
-- MeitY unveils indigenous AI Models EKA-1, Dhīr 2B and 5B under IndiaAI mission
-  The government has unveiled three indigenous artificial intelligence foundation models. The models were developed by domestic companies with support under the IndiaAI Mission.
-  🔗 https://www.livemint.com/technology/meity-unveils-indigenous-ai-models-eka-1-dh-r-2b-and-5b-under-indiaai-mission-11793720433461.html
+- PS5 console Black Friday deals 2026: Sony announces game discounts, hardware offers remain unconfirmed
+  Sony's PlayStation Black Friday Sale 2026 began on November 4. Up to 75% off thousands of PS5, PS4 and PS VR2 games, with discounts running until November 30.
+  🔗 https://www.livemint.com/technology/tech-news/ps5-console-black-friday-deals-2026-sony-announces-game-discounts-hardware-offers-remain-unconfirmed-11793779083300.html
 
-- 97 pc Indian professionals want to learn AI; 65 pc concerned about lack of human judgment: Report
-   97 pc Indian professionals want to learn AI; 65pc concerned
-  🔗 https://www.livemint.com/technology/97-pc-indian-professionals-want-to-learn-ai-65-pc-concerned-about-lack-of-human-judgment-report-11793711682210.html
+- Dell 14S laptop debuts in India with Intel Core 5, Core 7 processors: Price, features, specifications
+  Dell has launched the 14S laptop in India at a starting price of  ₹79,990. It features Intel Series 3 Core 5 and Core 7 processors, up to 16GB of RAM,
+  🔗 https://www.livemint.com/technology/gadgets/dell-14s-laptop-debuts-in-india-with-intel-core-5-core-7-processors-price-features-specifications-11793765545902.html
 
-- Chinas Baidu launches AI model simulating road environment for robotaxis
-  China's Baidu launches
-  🔗 https://www.livemint.com/technology/chinas-baidu-launches-ai-model-simulating-road-environment-for-robotaxis-11793709678345.html
+- US midterm elections: What a Democratic sweep could mean for oil, tariffs and Indian markets - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeWtQM3ZHaXJRU3VuUFlnTm1td1A4RXk5UzFhanlsQjJxamRJVTR0dEtRbFNacWpGZEFlU1I3OGZTV05VVnp4dG5fMDBHSmRjTWI4emNhS3NoRXljNlFVam44RUxwTFhnb1
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeWtQM3ZHaXJRU3VuUFlnTm1td1A4RXk5UzFhanlsQjJxamRJVTR0dEtRbFNacWpGZEFlU1I3OGZTV05VVnp4dG5fMDBHSmRjTWI4emNhS3NoRXljNlFVam44RUxwTFhnb1RtdWdZYzFCdHhLWFJkVGllcmVIUHlQdEI4bDhVS1hXcVpiVXhzSUNuTEN4ZFZHNVdhcmZNV1Vnd1czcmJzTDlXaUxrUkRoODJtb2YyVGlRSVpVQ0Y2ZkZPOTg1cXhVeWxYMV8xV2lxWWM5dkxRdElSVmk3TVl1RjNCTl9RZnUzQXhN0gHwAUFVX3lxTE5oelc1R0dtbEloRG81dVljOEhhWlg2SmR2blhIeDQ0R0VsdDNFQlNYRlhJRjFEcERUZHVNaHZDeUwxRC1aZVAzVnBOMzZVdzZrcmNmVV9YTE1JNHFNcF9fU2ZsNHAzWl9NRHhTNTZDZ0k4RmxlVVo4OEJZU05kbEdhcEdSNjlhRjhwMmF4S2luOTdfMnBpNjhaZE9xWUx5YmVJRDBpSnQyeFNURjlrdFRQZzRUSEt3cWhrS0J6elFzQ0dYR214OVAybExCRE1obGVtRXhNSFZ2V3BtMjJVMkVSWm5XRm5yblNwcndpSzJkeg?oc=5
 
-- M.K. Sons Fine Jewels shares to list today; check GMP ahead of market debut
-  M.K. Sons Fine Jewels is set to debut on the BSE and NSE with a 6% grey market premium. The Rs 275.40-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/m-k-sons-fine-jewels-shares-to-list-today-check-gmp-ahead-of-market-debut/articleshow/135522802.cms
+- Markets are pushing electrification. Governments must push harder - The Economist
+  Markets are pushing electrification.
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkxrTW9neG0tckZaX3RfalhjaHJIOFBuTnlrZkFZdTJrZHlZcXljRmlLLVFERFVpaEZ0akNQMFZoWGI1VmkwSTNtMTg5LVdLTnpJTm1nR1V2Q2d3Zkl2a3FGamdyNmNZRVhSTlQyNHV1cllXNHluNjJEUlozekY2TG05ckZReDJtekNYWlIybTVaMGt0T0NzSzU5MW5qSmFFbnlMdUJyWHk3VTR3NFlfbll2Y0N0Zw?oc=5
 
-- US midterm election betting surges past $1.4 billion as Democrats score major wins
-   Betting on the 2026 US midterm elections has crossed $1.4 billion. Strong Democratic gains have triggered sharp movements in election-related contracts.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-midterm-election-betting-surges-past-1-4-billion-as-democrats-score-major-wins/articleshow/135522851.cms
+- Stock Market Highlights, Sensex Today: Sensex Closes 380 Points Higher As Investors Assess US Midterms Results - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQWC1kdGRYX01rNzljb0h1OVVmbmZ4UHY1YVBNekI1emlWOHJxS0ctLUxPSk1TTmhGSmtpakdQOF9JMUVZYnM3cXhxWUo2VFRlSmFLMW1JMldrTl9XMXE3Vzg2a2c4bUltSG
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQWC1kdGRYX01rNzljb0h1OVVmbmZ4UHY1YVBNekI1emlWOHJxS0ctLUxPSk1TTmhGSmtpakdQOF9JMUVZYnM3cXhxWUo2VFRlSmFLMW1JMldrTl9XMXE3Vzg2a2c4bUltSG5TTUdGLS1aVzNrWlpHNm9ZV3pfWF9OZHNxdHpuY1B1NXgtaHpIQzlUR21OQXA1eXhzcjVndGl3M1pONUY3R1B1bjdBZVpoZTJmeV9uODJUM1FPd0ItVWpOdXJXeER0NklnNmFZc1nSAdcBQVVfeXFMTnpka3psSC1CY3ZyVDlUR2ZoVC1oM3FiTlJ4OENxMlVGZDJrZnJLNXk1RE5McXFQOUF3am9KYzIybDFvOWlXVHJsWFJDUmRZSFVCOVpCclNyU1FQV1JVdDNzczNfT2RwTk82MVhmQ0dQbzhGblhGVlhHR3U5eHhBam5zczNTM2NranFpYWl4TlF1Uno5bVpLbmEwcTA0eTVabW1FZ3NrVWJLOThHZTNBRjZ6VXA4czVNUWJCUHlrSFV3SkhyQXBTN0JiRDdkQVFBbk5NMXhjV0k?oc=5
 
-- MCX shares tumble 7% even as Q2 net profit surges 130% YoY, revenue more than doubles
-  MCX shares fell nearly 7% despite reporting 130% growth in second-quarter net profit. Jefferies said EBITDA was largely in line with estimates,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-tumble-7-even-as-q2-net-profit-surges-130-yoy-revenue-more-than-doubles/articleshow/135522688.cms
+- India's stock market volatility since last Diwali saw 60 stocks lose up to 96% - The Economic Times
+  India's stock market volatility since last Diwali saw 60 stocks lose
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxObnVyM011NkZRa25NRVhPSXR1SHdONElqMDNOc0x1aDc3STU3R0VxY1hMSWktc1lMYmNEXzNKMTZCeG5JdkNVV09ybi1oNnh5NEpLMmtuYmsyd3RXTHNMRzMtYnJqQnV2akhEOXVybF83THlYcVBHam9XS2lmZEFEOEI1cWpfcVN3Z2x0UFczV1lQMmd3TGVFODdXajJCb0VtbENnVmplRmtaN1RVbkxOTjFVTW45OC01WXJoRHpreG0zUlRZanlOaFdRemV2TEkySk9nblNkTU9xcnNTZFBtNVp1a2bSAeoBQVVfeXFMTk9yNVdPLU5JSFlzelBCNVp3VnpuXzV5NlZ6NDY1dFlweFJLVVlXc2lsemVhYldQUmRQZTF1R3M2dy0zR0oybUxFdlJiYXlsSElFeVRyYUVXTmViVEFyQ095Tkx1SmlENzg0clhsenBselM3TWxrOXJocmhGdENkSWJDQUREai10RUl5aWt1cFdESkhnM1o2QTcxbERhUzJhdkF2bUl5UzJSckNkYVRPRUhsZHFLZm4wSmt2a1dZLWg1V0xJNUZ2dS1HbkgxOTE5dVBJVkE0T0tZTEItOUlsRjhtMnN5aXpRZkZ3?oc=5
 
-- SBI share price target: Jefferies, Motilal, others see up to 34% upside in state lender. Buy, sell or hold?
-  State Bank of India has seen a remarkable 15% increase in profits year-on-year. Brokerages have set optimistic Buy ratings on SBI shares. Management highlighted possible obstacles from macroeconomic shifts and potential treasury losses.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-share-price-target-jefferies-motilal-others-see-up-to-34-upside-in-state-lender-buy-sell-or-hold/articleshow/135522578.cms
+- India central bank forms markets panel with Citi, Morgan Stanley, SBI as members - Reuters
+  India central bank forms markets panel with Citi, Morgan
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGJ2NzhSOGdQWlY3dktjTGlIVEN4aWJKYXAxRm9pOHdBN1JKSGtmek8zWGZod2g1aTNsYmFzbmxLWFZIZVkzVkk0Y0FjMW5EOURqaFdXYlNEVUtlRmNyb3hUZ2w5YkI0RzRMMUIxZF9BWUNwY0tMSDdaM3QzenpXOHlUTFRsc2xJZDNxeHI0YmRuRUU0TXJ2WnRlcElBa3FJemJCYWZtTHlxMzlfM043VkdCOUNjOU51SHAxNEltOHBkWWE5Ukx3?oc=5
 
-- MCX gold prices at Rs 1.39 lakh/10 gram; silver tanks Rs 2,000/kg as US jobs data fuels rate hike bets. Key levels to track ahead of Dhanteras
-  In the domestic market, MCX silver futures for December 2026 delivery were down by Rs 2,000 to Rs 1,77,784 per kg
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-at-rs-1-39-lakh/10-gram-silver-tanks-rs-2000/kg-as-us-jobs-data-fuels-rate-hike-bets-key-levels-to-track-ahead-of-dhanteras/articleshow/135522437.cms
+- US Stock Market Live Updates: US stock futures rebound as investors assess Democrats' midterm sweep
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amd-nvidia-tesla-amazon-meta-ai-stocks-us-midterm-election-results-democrat-win-treasury-yield-news-4th-november-2026/liveblog/135540466.cms
 
-- DevX Q2: Profit Zooms To ₹5.5 Cr, Revenue Surges 55% YoY
-  DevX’s consolidated net profit zoomed 213.5% to ₹5.5 Cr in the second quarter (Q2) of fiscal year&#8230
-  🔗 https://inc42.com/buzz/devx-q2-profit-zooms-to-%e2%82%b95-5-cr-revenue-surges-55-yoy/
+- Democratic sweep adds new twist to markets' Iran, AI, and debt worries
+  Investors are watching the implications of the recent Democratic win in the US midterm elections. Geopolitical tensions, particularly the Iran war, continue to elevate oil prices and market risks. Regulatory scrutiny on the rapidly growing AI sector is expected following
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/democratic-sweep-adds-new-twist-to-markets-iran-ai-and-debt-worries/articleshow/135539439.cms
 
-- Soket Labs & ZenteiQ Launch Indigenous AI Models
-  Homegrown AI startups Soket Labs and ZenteiQ AiTech Innovations have rolled out new indigenously-developed large language models.
-  🔗 https://inc42.com/buzz/soket-labs-zenteiq-launch-indigenous-ai-models/
+- Beyond Equity: Jiraaf’s Saurav Ghosh on how to customise your portfolio, and the importance of bonds
+  An investment portfolio should be customised to one's own needs, says Saurav Ghosh. The idea is to ensure financial goals are realised across timelines and not just a decade or twenty years later.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/beyond-equity-jiraafs-saurav-ghosh-on-how-to-customise-your-portfolio-and-the-importance-of-bonds/articleshow/135538953.cms
 
-- Blue Ashva Exits iD Fresh Food Via A ₹50 Cr Secondary Transaction
-  D2C startup iD Fresh Food’s early backer Blue Ashva Capital has exited the startup's cap table, offloading its entire stake.
-  🔗 https://inc42.com/buzz/blue-ashva-exits-id-fresh-food-via-a-%e2%82%b950-cr-secondary-transaction/
+- Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam
+  Nykaa reported a 207% year-on-year profit surge to Rs 101 crore in Q2FY27. Beauty and fashion businesses accelerated growth,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q2-results-pat-soars-207-yoy-to-rs-101-crore-revenue-up-28-co-to-acquire-82-stake-in-simply-nam/articleshow/135537436.cms
 
-- SEDEMAC Q2 Profit Rises 30% YoY To ₹39 Cr, Revenue Jumps 40%
-  SEDEMAC Mechatronics reported a 30% jump in net profit to ₹39.2 Cr in the second quarter (Q2)
-  🔗 https://inc42.com/buzz/sedemac-q2-profit-rises-30-yoy-to-%e2%82%b939-cr-revenue-jumps-40/
+- Auto sales growth to cool post-festive season, says Monarch; bets on Minda Corp, RK Forgings and Sundram Fasteners
+  Monarch Networth Capital prefers diversified ancillary players Minda Corporation, RK Forgings and Sundram Fasteners. Auto sales growth is expected to moderate in the second half of
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/auto-sales-growth-to-cool-post-festive-season-says-monarch-bets-on-minda-corp-rk-forgings-and-sundram-fasteners/articleshow/135537265.cms
 
-- Porter Ropes In Ex-Amazon Executive Gaurav Jain As CFO
-  Logistics unicorn Porter has appointed former Amazon executive Gaurav Jain as its CFO. Porter also elevates Shubham Gupta and Mohit Rathi.
-  🔗 https://inc42.com/buzz/porter-ropes-in-ex-amazon-executive-gaurav-jain-as-cfo/
+- Democrats Take Control Of US Congress. What It Means For India - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWRQZlIxY2QzYWlKX25WRXJBVXhYN29LN1RhdS1Mb0UyZDYzaGQ2MkdJLUZKVGFKX1A4dTNaRXpPX0ZyWEdiZ0x1VFBrVFF2aVFfbGY4N2NFVkVsLUNHNlAxenkxdmxPRm
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWRQZlIxY2QzYWlKX25WRXJBVXhYN29LN1RhdS1Mb0UyZDYzaGQ2MkdJLUZKVGFKX1A4dTNaRXpPX0ZyWEdiZ0x1VFBrVFF2aVFfbGY4N2NFVkVsLUNHNlAxenkxdmxPRmhUTnBkeHYxRVRjOFMxUDNrOXFGLUpkY2QxaHhLb3FkUms1bFN1Q2VlUGxLX3M2YkNBVWlQSVBrZEhScdIBrAFBVV95cUxQWDIxZ0xQZ3ZEMkpPS2hzZ1I3Qmw4ZEd6VTVVaWFza1RZYmUtV2JhWDVaLUlSM1lzVTUzSW53T1VocUhRMEVMQTFhRVE5Z04tX2MzQzRPeG5zbmd5enZQVlA2ZWNmVGxpSk15Sy03Q2V2U1JvVXYyUzJjSGhOazhDMmNLU0hjRlNNR0NhUEdyN1daMWFqTzVZczlBenRNU1Z5ejBfemg4a1dxRE9J?oc=5
 
-- Voters Not In SIR List Won't Face Action For Form 6 Re-Enrolment: Poll Body - NDTV
-  Voters Not In SIR List Won't Face Action For
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNcXJrc1h4RGV4cHloT0I0dUhaZjdZc291UWN0ejkweHNlOXZBTG1VQnJkWktDQS0ydnJHeVdsM1d3eVpnTHdpbnZuZ0xBRzRNaXdINTBoclk1NFF2QXFHb2xlUTh2UGFPQXMza2NVdzQ0ejZfY1pWd1VwRU9peHFSY25rU3N1T0RzMWRhaVFENlN0WVBsa01NbnpYRFp4cENwM1I5N2xreEw4bkphRmJQeERnUWxtMFJ4LUpSbTNhSmExcjROOGdYb0RIbVBMZ9IB1gFBVV95cUxOcWpXQ3p2eDZPbF9lYndEMW5YM1JOMmphSzdUZjdNb3dhQWlhQzI2dW5aQTJManptdkdSZDlaV0ZBbHBfWkRMVVJaWThReHRpbFJrUG5fLWFBUG5pRVdtbERiLXlTUUVtLTlQdFU4YVVVUGZIRGMtQXZibHpyLVlNRzAxX2xRc0JCYmpFT0lOU1VHRHpUbFpPUHRsR1dLZjMwZlVlajRqS0xqNTFTd2RLclBXTTdaNmtGeHJybzFzTzl6WTdHdl93cHJGRkp5UTJVX2RwRkxn?oc=5
+- Breaking News Live Nov 4: Cabinet approves to absorb Agniveers as first batch nears completion - The Times of India
+  The Times of India is one of the leading newspapers in India. The Times of
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0xXY1kzYUlWcjJzUjBRSTMtTHhxcmdOdVlINFhsN2llS3JxTkVJeVVNbldtdzZBY3ZSZzZGT0RmUm8xNUhSRHliVF9zajhSX3BsdnNUSGktdjc0aUtzZVBoZmcwYWwzeE1hU0tfLU1uNW1JbURBYUctMmpwSWRES0FwZ1E4UER1cC1LNkJ0VDkyc1ZrZTZ6dlBfNHhPcWZHZFR0Z3JhSVVYQ2RzOVVN0gG0AUFVX3lxTFBWWVRKa2tXR2xDa1V5MmlPdVJRaGwxMDJqZjV0a2hRdGdTa3MtTERBbkpwazJKVTVZM29CZFpoTmE2RlRCOWxMVmkxcmE3dFBCVXZVSHZER3FyVVZrZ1cwN3h2V1B0NlpIbEwtUDR0T1FvTG9iT2dCUmg3ZWh6akZOcVdGSi1TQ3hjNmo2TUZGbUtoVEdmWjc2Y0NtN0t1NEVrcEdkZ3BJLXdNV0RBRFlvdi1pVw?oc=5
 
-- India aims to achieve defence production worth Rs 3 lakh cr & defence exports worth Rs 50,000 cr by 2029 - News On AIR
-  India aims to achieve defence production worth Rs 3 lakh cr & defence exports worth Rs 50,000 cr
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPSUp1TGF1VnNJVS1aUWl5LWluUEN3TkRtS1FNQy1jbVg2aEx6X2F4WDRQZkRGRWcxWDA3SW5SZXh2ckU5VDdNZGY4MXRDa21CRm9QVk10NXNwdTBTRk5EY3NDclRwcXUtVkhRRVE5MzVvam1Dc2xGR2ZXOUR1V1FOVFZGNHFBVXZVMU1HbWZSbElPLUNvRzhqaGhlaDF5MjBLMXB5ZmR5dkJKMmN2aTRReTZVTWpKcnlwTnV1YkNqUUZNRTlMRmc?oc=5
+- Mumbai Police arrest three in Nagpur cyber fraud racket, establish links to 73 cases across India - The Hindu
+  Mumbai Police arrest three in Nagpur cyber fraud racket, establish links to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYmk3Y19McTltaVlKS3lVYXdyS3BTWXU4VWJpSTQ3VG1YQWFvSTd2R3BkOTBMOEx3RTJmWmVwTkV3b3RQM3RNUFh0UzBZZUNVdFdaemVtUkNqZFNVVk1wZmdqLVFYUnNiaXVWZWNNOFlFcjh0NGlkQ283dG9iNFpLMUpHX2lnWHFIUW40MFFFbkM4VTRIckVCZWVXZFNmd3BlY1lNTlZtQTBuTURpTFFLWGFNb2JKeGRUYmcwTlBUcmhjTURxZVl3UDExd09VR2dBY29DYlVnQXVHZlp6M1doV0NubE8yY1Zuc0hzTFVxRDBSd9IB-AFBVV95cUxOX0dRd3dLcUxBOHJKYy1PMjRzSTI3OVNYMXZ5NnY5Z1hsS0c4blp6M0VtQ1ZscG5aYU0yM3VHZUZ6VVZVZm40ZjBDMXltU01qUV9MY2VRYmZXcTRHdlJ6Q3l3TVFPbVcxc3d2Q1J2YUgtSEd3b2gwSFgzQmF6TDNsZWxYWG1SS3VVQjdERl9ab09YNnZNUEdhZ3I1akhKQjNNQ0lUR29wYm42X0pnRk9PQXlfZ3ZPNnoyeHl0YUxSQmxnRm1oMFY0bGpyczVZZ2tDS0dJQ3dKM2NVU2ZEZUZqU1VobDUwU1NGQmtWdFZFREtBWTZKWDlHQQ?oc=5
 
-- US Midterm Elections: 3 Scenarios That Could Decide Dalal Street's Fate - NDTV
-  " target="_blank">US Mid
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkdyY1pYMTAzM2ZtY1dLelRnYjFZdDBGejc3azBNLWxNLTZPeWVtbXp5NnZBTkRaNTFFVm1JdDBMQjZzbW1WTVNIYmJRNEZTSDZmaE94UHBpMmJFN1ZuYWVqTnByZUU2VlpNV2w2M0ZGRFdLTEFhRzlvQTFkRzIwNWFNMEdvb1hFVzNGdE41NDNBbUJMYzd4V3RZdmZlMWVEQWNETmlHcDdjSFIwWC1KTFh1Z2NvajZUcXB1R1ZRMmpMREZnUkc4SlNESdIB0wFBVV95cUxPdDZSaG5LZHNEMjZ2OWtqVHc0a05QVXVJZ3ZjakFkdndRMENrSWdqYjZudW5xdlJIanhPVjlTcFZvdjQ5M3BvVXZ3cmdDdHAwa3FZRWJkdGtzUC1OZGJYOHVPc2R2Zk1fVWEzNkNqT1hudkRGejF1OURtVmN0RVQzaDZ0S3VPZS1vTXBILUJyeGVBVEFFNkZtUDQ1LUFZZXR1anEwRWNEWTlxN0NmdDRFMkUzLS1tdUdpZUItX3J2SjRMa0dlWDluM2F6ME5SUFNmMTlB?oc=5
+- India's BSE posts higher second-quarter profit - Reuters
+  India's BSE
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNanQ5SExvRW9mbW8tYUg4U1dTeTBOamw0UzdyUjBnRjdoUzRJMjN4alBMaV9oRXFCRGoyV1BxMl9jd0hGaGFPSzNIZVpJYi1SdzZrendRUFl4YmxvcmFwb1puWllNenNwSXZJRVU3ZnE0MnpFOVVYZ2dYUjJpVXdVY3dTczRCc0wzakN6bHhIREM2RjRGdzBvRQ?oc=5
 
-- Pia Dandiya, first-generation Indian-American, wins U.S. House of Representatives from Florida - The Hindu
-  Pia Dandiya, first-generation Indian
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWGQ4RmtzWjNXNEhqQm1TQzVpZFBRS1g2Z3FlaG1qejN2aGoyd002bFNjSDZBLWdqMEFrVlpHb2RlUUlVNmJqNms1Um9QeTZOTjJLeUJLOVNqemtYenZXUkxqTTZ1YUhVOEZSMm9adEFEeG1GWXlCc2hfWm8zeExRRmlIZ0FTVjdPQUNfT05OVkRZOXJaZjctQnBySkdJdDRNUU5TaHZoRmV5emw0bGhYcjJ3cFE3NEd6cEtmQ0l5YTdNanJNX1E0TTloN2VzNVdmMEdjdGFqNW1PQzNvOUx0RlNfRTZWZ2VUUFHSAfABQVVfeXFMTVpnOW1TNEpMeHNDRnladzdlcXlta2FBSHhES21BWElHODhsUzNUMElDdVdYZnpzekNZdGxESHFhR1dYcXZDeFhkbENOY29SZWVOeWdPODBiVUoyNFhxWl9vbm0wQ0owYXJwOWI1a1pnOEF2dnRTLXBmY2d0WnJERTE3bVA5NEgzbjBvZHhrSTM3bEFIM1BPdWhKVWd5OUJ5UGZ2anpuNmhUSnlDOUtGVlNlTXAteDJZenliaGItYlFQS1kweHZabS1LQlhReFdQSmxEVXd4Ny1FWjBaVFViNHhmVVVRYXA3QmxDN3RMM0JH?oc=5
+- Air pollution: Indian capital Delhi's air quality worsens ahead of Diwali festival - BBC
+  Indian capital Delhi's air quality worsens ahead of
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MNk9jSmpHdkNfVlJ0NDV5SWQ0ZjZCSTVtenNrdE5MVFVsaWhQSUN4NUdXZFJyRHBJMGhnZDNvbXhfWjlzZEI2WFI0UjNsM0Z2Ri1vUm9ZR3FaYlU?oc=5
 
-- US midterms: Indian-origin candidates script key wins; results awaited for Ro Khanna, Ami Bera & more - The Times of India
-  The Times of India has published an article on Indian-origin candidates in the US
-  🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxPeDRQbHU3aWlsSW5WMEVWVTVUSXFOUThYMU1QcEpxeWJaMllZdGJGZ0JiUUl4bGYyYzdMdmYwb0JjZlh3UlFheENFV3AzM0ozVU4zM1QyMDl0Q0QwdUdkS3BqbTVWWHd0WmNvVldtYThGNlVFZDBtZWZ0eVctMmFRTzlJWmEwemRwYk1hbXFfYzZ5Sk1XcXNHYUR6TTFwSmxwX2ZOSjFMUV9jSlFzMUxpNVhVbGFCbTduUEMxV3lnTHJHY0lNMHEzdUlqZTFwaTh2bFVmcWsxamJHaXRIbU9TRUtGdlp6VXN0Yl9EWUMyX2Exa0VtZ3hkd2NSam9CRnVoM1l6WXd3Ty1mQUZyVFFjQTVWOWc1NFVWUk9aQ081Q002WHFucDlPZzFXa0Nmb3A1MGZlVXBuMGwtZUx4SDRJ0gHEAkFVX3lxTE4wVGIxdFdQZHFRSzQwaktUYUtJcHBoM1VoSGZaci1xSXlHS2pxSUo1cXJZZS1lZDhGenIwMkpmaXpyei1KajdmdFhJUldTc0xjVUVpSkhveWd0UDRSakNTaTJkRWNoYktlbHJxLU4tNlo0cThQaGs1OXkwVG9HaDk1NDlkZ0Zhall0aTg2VkU2b3JQMlFnRnA0X2ZDVl85Ymd1M1RlekkzSk95X0M4THZGUmt6cmVGc1paYXp4M2plOWNscE9qREp5QXBCMXhNNE43M3FEa1M4a0JDZjVoWVRoUGFYVGtZbWRRRVFjbDFERjJWYzBGNmtndDFRenNJZ0JyQ1dXcFBuTUZtTVFVMXRCT09idnRhVUJfZFF0SkxJWWRwTE5WRWxOTDE2RHJwbGx1aGg5bklmOG9La0lSTWRXSjF6Sg?oc=5
+- PhysicsWallah Returns To The Black In Q2, Posts A Profit of ₹143.6 Cr
+  Edtech major PhysicsWallah (PW) posted a consolidated net profit of ₹143.6 Cr in the September quarter (Q
+  🔗 https://inc42.com/buzz/physicswallah-returns-to-the-black-in-q2-posts-a-profit-of-%e2%82%b9143-6-cr/
+
+- NPCI Expands Beyond Payments With AI, Blockchain-Focused Subsidiary
+  The National Payments Corporation of India (NPCI) has set up a wholly owned subsidiary, NPCI Tech Solutions Ltd (NTSL), to
+  🔗 https://inc42.com/buzz/npci-expands-beyond-payments-with-ai-blockchain-focused-subsidiary/
+
+- Nykaa’s Q2 Profit More Than Triples To ₹101 Cr, Revenue Up 28% YoY
+  Beauty and fashion ecommerce major Nykaa reported a 206.8% jump in its consolidated net profit to ₹101.2 Cr.
+  🔗 https://inc42.com/buzz/nykaas-q2-profit-more-than-triples-to-%e2%82%b9101-cr-revenue-up-28-yoy/
+
+- Lenskart Q2 Profit Jumps 125% YoY To ₹233 Cr, Revenue Rises 36%
+  Listed eyewear company Lenskart reported a 124.7% jump in its consolidated net profit to ₹232.5 Cr
+  🔗 https://inc42.com/buzz/lenskart-q2-profit-jumps-125-yoy-to-%e2%82%b9233-cr-revenue-rises-36/
+
+- MapmyIndia Q2: Profit Rises 90% YoY To ₹35 Cr, Revenue Up 16%
+  MapmyIndia reported a 90.6% YoY jump in its consolidated net profit for the September quarter (Q2 FY27) to
+  🔗 https://inc42.com/buzz/mapmyindia-q2-profit-rises-90-yoy-to-%e2%82%b935-cr-revenue-up-16/
+
+- Democrats Take Control Of US Congress. What It Means For India - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWRQZlIxY2QzYWlKX25WRXJBVXhYN29LN1RhdS1Mb0UyZDYzaGQ2MkdJLUZKVGFKX1A4dTNaRXpPX0ZyWEdiZ0x1VFBrVFF2aVFfbGY4N2NFVkVsLUNHNlAxenkxdmxPRm
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWRQZlIxY2QzYWlKX25WRXJBVXhYN29LN1RhdS1Mb0UyZDYzaGQ2MkdJLUZKVGFKX1A4dTNaRXpPX0ZyWEdiZ0x1VFBrVFF2aVFfbGY4N2NFVkVsLUNHNlAxenkxdmxPRmhUTnBkeHYxRVRjOFMxUDNrOXFGLUpkY2QxaHhLb3FkUms1bFN1Q2VlUGxLX3M2YkNBVWlQSVBrZEhScdIBrAFBVV95cUxQWDIxZ0xQZ3ZEMkpPS2hzZ1I3Qmw4ZEd6VTVVaWFza1RZYmUtV2JhWDVaLUlSM1lzVTUzSW53T1VocUhRMEVMQTFhRVE5Z04tX2MzQzRPeG5zbmd5enZQVlA2ZWNmVGxpSk15Sy03Q2V2U1JvVXYyUzJjSGhOazhDMmNLU0hjRlNNR0NhUEdyN1daMWFqTzVZczlBenRNU1Z5ejBfemg4a1dxRE9J?oc=5
+
+- Breaking News Live Nov 4: Cabinet approves to absorb Agniveers as first batch nears completion - The Times of India
+  The Times of India is one of the leading newspapers in India. The Times of
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0xXY1kzYUlWcjJzUjBRSTMtTHhxcmdOdVlINFhsN2llS3JxTkVJeVVNbldtdzZBY3ZSZzZGT0RmUm8xNUhSRHliVF9zajhSX3BsdnNUSGktdjc0aUtzZVBoZmcwYWwzeE1hU0tfLU1uNW1JbURBYUctMmpwSWRES0FwZ1E4UER1cC1LNkJ0VDkyc1ZrZTZ6dlBfNHhPcWZHZFR0Z3JhSVVYQ2RzOVVN0gG0AUFVX3lxTFBWWVRKa2tXR2xDa1V5MmlPdVJRaGwxMDJqZjV0a2hRdGdTa3MtTERBbkpwazJKVTVZM29CZFpoTmE2RlRCOWxMVmkxcmE3dFBCVXZVSHZER3FyVVZrZ1cwN3h2V1B0NlpIbEwtUDR0T1FvTG9iT2dCUmg3ZWh6akZOcVdGSi1TQ3hjNmo2TUZGbUtoVEdmWjc2Y0NtN0t1NEVrcEdkZ3BJLXdNV0RBRFlvdi1pVw?oc=5
+
+- Mumbai Police arrest three in Nagpur cyber fraud racket, establish links to 73 cases across India - The Hindu
+  Mumbai Police arrest three in Nagpur cyber fraud racket, establish links to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYmk3Y19McTltaVlKS3lVYXdyS3BTWXU4VWJpSTQ3VG1YQWFvSTd2R3BkOTBMOEx3RTJmWmVwTkV3b3RQM3RNUFh0UzBZZUNVdFdaemVtUkNqZFNVVk1wZmdqLVFYUnNiaXVWZWNNOFlFcjh0NGlkQ283dG9iNFpLMUpHX2lnWHFIUW40MFFFbkM4VTRIckVCZWVXZFNmd3BlY1lNTlZtQTBuTURpTFFLWGFNb2JKeGRUYmcwTlBUcmhjTURxZVl3UDExd09VR2dBY29DYlVnQXVHZlp6M1doV0NubE8yY1Zuc0hzTFVxRDBSd9IB-AFBVV95cUxOX0dRd3dLcUxBOHJKYy1PMjRzSTI3OVNYMXZ5NnY5Z1hsS0c4blp6M0VtQ1ZscG5aYU0yM3VHZUZ6VVZVZm40ZjBDMXltU01qUV9MY2VRYmZXcTRHdlJ6Q3l3TVFPbVcxc3d2Q1J2YUgtSEd3b2gwSFgzQmF6TDNsZWxYWG1SS3VVQjdERl9ab09YNnZNUEdhZ3I1akhKQjNNQ0lUR29wYm42X0pnRk9PQXlfZ3ZPNnoyeHl0YUxSQmxnRm1oMFY0bGpyczVZZ2tDS0dJQ3dKM2NVU2ZEZUZqU1VobDUwU1NGQmtWdFZFREtBWTZKWDlHQQ?oc=5
+
+- India's BSE posts higher second-quarter profit - Reuters
+  India's BSE
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNanQ5SExvRW9mbW8tYUg4U1dTeTBOamw0UzdyUjBnRjdoUzRJMjN4alBMaV9oRXFCRGoyV1BxMl9jd0hGaGFPSzNIZVpJYi1SdzZrendRUFl4YmxvcmFwb1puWllNenNwSXZJRVU3ZnE0MnpFOVVYZ2dYUjJpVXdVY3dTczRCc0wzakN6bHhIREM2RjRGdzBvRQ?oc=5
+
+- Air pollution: Indian capital Delhi's air quality worsens ahead of Diwali festival - BBC
+  Indian capital Delhi's air quality worsens ahead of
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MNk9jSmpHdkNfVlJ0NDV5SWQ0ZjZCSTVtenNrdE5MVFVsaWhQSUN4NUdXZFJyRHBJMGhnZDNvbXhfWjlzZEI2WFI0UjNsM0Z2Ri1vUm9ZR3FaYlU?oc=5
+
+- Democrats Take Control Of US Congress. What It Means For India - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWRQZlIxY2QzYWlKX25WRXJBVXhYN29LN1RhdS1Mb0UyZDYzaGQ2MkdJLUZKVGFKX1A4dTNaRXpPX0ZyWEdiZ0x1VFBrVFF2aVFfbGY4N2NFVkVsLUNHNlAxenkxdmxPRm
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWRQZlIxY2QzYWlKX25WRXJBVXhYN29LN1RhdS1Mb0UyZDYzaGQ2MkdJLUZKVGFKX1A4dTNaRXpPX0ZyWEdiZ0x1VFBrVFF2aVFfbGY4N2NFVkVsLUNHNlAxenkxdmxPRmhUTnBkeHYxRVRjOFMxUDNrOXFGLUpkY2QxaHhLb3FkUms1bFN1Q2VlUGxLX3M2YkNBVWlQSVBrZEhScdIBrAFBVV95cUxQWDIxZ0xQZ3ZEMkpPS2hzZ1I3Qmw4ZEd6VTVVaWFza1RZYmUtV2JhWDVaLUlSM1lzVTUzSW53T1VocUhRMEVMQTFhRVE5Z04tX2MzQzRPeG5zbmd5enZQVlA2ZWNmVGxpSk15Sy03Q2V2U1JvVXYyUzJjSGhOazhDMmNLU0hjRlNNR0NhUEdyN1daMWFqTzVZczlBenRNU1Z5ejBfemg4a1dxRE9J?oc=5
+
+- Breaking News Live Nov 4: Cabinet approves to absorb Agniveers as first batch nears completion - The Times of India
+  The Times of India is one of the leading newspapers in India. The Times of
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0xXY1kzYUlWcjJzUjBRSTMtTHhxcmdOdVlINFhsN2llS3JxTkVJeVVNbldtdzZBY3ZSZzZGT0RmUm8xNUhSRHliVF9zajhSX3BsdnNUSGktdjc0aUtzZVBoZmcwYWwzeE1hU0tfLU1uNW1JbURBYUctMmpwSWRES0FwZ1E4UER1cC1LNkJ0VDkyc1ZrZTZ6dlBfNHhPcWZHZFR0Z3JhSVVYQ2RzOVVN0gG0AUFVX3lxTFBWWVRKa2tXR2xDa1V5MmlPdVJRaGwxMDJqZjV0a2hRdGdTa3MtTERBbkpwazJKVTVZM29CZFpoTmE2RlRCOWxMVmkxcmE3dFBCVXZVSHZER3FyVVZrZ1cwN3h2V1B0NlpIbEwtUDR0T1FvTG9iT2dCUmg3ZWh6akZOcVdGSi1TQ3hjNmo2TUZGbUtoVEdmWjc2Y0NtN0t1NEVrcEdkZ3BJLXdNV0RBRFlvdi1pVw?oc=5
+
+- Mumbai Police arrest three in Nagpur cyber fraud racket, establish links to 73 cases across India - The Hindu
+  Mumbai Police arrest three in Nagpur cyber fraud racket, establish links to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYmk3Y19McTltaVlKS3lVYXdyS3BTWXU4VWJpSTQ3VG1YQWFvSTd2R3BkOTBMOEx3RTJmWmVwTkV3b3RQM3RNUFh0UzBZZUNVdFdaemVtUkNqZFNVVk1wZmdqLVFYUnNiaXVWZWNNOFlFcjh0NGlkQ283dG9iNFpLMUpHX2lnWHFIUW40MFFFbkM4VTRIckVCZWVXZFNmd3BlY1lNTlZtQTBuTURpTFFLWGFNb2JKeGRUYmcwTlBUcmhjTURxZVl3UDExd09VR2dBY29DYlVnQXVHZlp6M1doV0NubE8yY1Zuc0hzTFVxRDBSd9IB-AFBVV95cUxOX0dRd3dLcUxBOHJKYy1PMjRzSTI3OVNYMXZ5NnY5Z1hsS0c4blp6M0VtQ1ZscG5aYU0yM3VHZUZ6VVZVZm40ZjBDMXltU01qUV9MY2VRYmZXcTRHdlJ6Q3l3TVFPbVcxc3d2Q1J2YUgtSEd3b2gwSFgzQmF6TDNsZWxYWG1SS3VVQjdERl9ab09YNnZNUEdhZ3I1akhKQjNNQ0lUR29wYm42X0pnRk9PQXlfZ3ZPNnoyeHl0YUxSQmxnRm1oMFY0bGpyczVZZ2tDS0dJQ3dKM2NVU2ZEZUZqU1VobDUwU1NGQmtWdFZFREtBWTZKWDlHQQ?oc=5
+
+- India's BSE posts higher second-quarter profit - Reuters
+  India's BSE
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNanQ5SExvRW9mbW8tYUg4U1dTeTBOamw0UzdyUjBnRjdoUzRJMjN4alBMaV9oRXFCRGoyV1BxMl9jd0hGaGFPSzNIZVpJYi1SdzZrendRUFl4YmxvcmFwb1puWllNenNwSXZJRVU3ZnE0MnpFOVVYZ2dYUjJpVXdVY3dTczRCc0wzakN6bHhIREM2RjRGdzBvRQ?oc=5
+
+- Air pollution: Indian capital Delhi's air quality worsens ahead of Diwali festival - BBC
+  Indian capital Delhi's air quality worsens ahead of
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MNk9jSmpHdkNfVlJ0NDV5SWQ0ZjZCSTVtenNrdE5MVFVsaWhQSUN4NUdXZFJyRHBJMGhnZDNvbXhfWjlzZEI2WFI0UjNsM0Z2Ri1vUm9ZR3FaYlU?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -160,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Google says there’s no way to use Search without using artificial intelligence - The Guardian
-  Google says there's no way to use Search without using
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQejExRlAwVmpXSkJOMFppQ3NXOFRGT2lkOGQ3LURUVS16UjRQa3llY01OY3FxdW1TYWVHZUR4c3NXbTRIT0pUQ2hIZGxlYzRFS2Q1ZG5qRTNNbDV0cnZJMHJaOFRfU1RzTzkzWFF1OVhUaUVhWFh1anhEV0JTb2lSLWJ0UEo5X3pyeWhNTkFSMWMtUQ?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- MP Chamala blames BRS government for adopting costly technology - The Hindu
-  MP Chamala blames BRS government for
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2h4MTkwd0dkWExsNDdVblBsZlphLTNhMi0wSzEwcDc2dGtqZUNDcEI3SFdhcW43TzEzZGozaHp0bm9MZnotQThxdWR4QjdZamVCT3hpb3BMMkhOTEdicDRJaTl1U2E0TFVJbXJzSDhGallISkY1azNET0VfcHFjbU5PR2NSQ1QzVHZESjlFZlJxUmtDblMtc1VGZGpjcDlnRUNRX2djQmtkWkVKdW1CTlo0dFVQMmUzcE5mb21TRGsyRTc2aWNIZUp6b2zSAdMBQVVfeXFMTTJYSHd4djNSckE1YThUcjJVLWtZMk40V1pEWEVKT25CMEhhVHZnN1pSeHZXc3pDanZyNkhENW1yN3ViQjlYVUpvbnhSVDRwcTN6S1VaQnlyX3draW4tR2F2cVZCbFJEcUJqcTkxN2ppOE5OaWQzbkJjVzR2OGxsZGdwRGtxSHpQMW11eGtRVlAtby1ORk5XeGJaa25kdWpwdHVNN0M5NWVMbEcxb2QwMmcxNVRBS3RCQUpCcTJJcWlaSi1FUnAtZmFOMVByRm8xbnFXTQ?oc=5
-
-- Is AI about to destroy India’s great technology jobs machine? - Telegraph India
-  Is AI about to destroy India’s
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU9ybmFJT190OFgzV1E4a19vWktwZm5kbGxzTUJtUTJycThoY3RxY0xzM1ZuckxpeDZqcW5tVGRSekxDN0RtX2J0MjJJRGk1dDdkUFZNejFwNy1zOUxYSmlCa2F4OG5JRHZrWVJGTGxXZGxIM1R1T25vMXU1NnpodWpwQ3JZZWt2eEFJSUpOb0JPanRrSHlDRlpQNU5JNUZrVFlQMjd0Wmh2T05HUFJUYtIBtgFBVV95cUxOalpuRnpFdkpENC1BN1VPYlF0eVE3OG9VbUI0eE0xOGxFdFV3NDlTR09uek5XVE4zdUdhVXhqQVNMWXBhbkQwZW5xTTZBYmZiVnYzeTRKUk52Umk0WlpIRDhDUl9FaWpMLTFPX19LLVFkYkI0YUhqNk5WYmZtOVc4VkpMTkNnUDRxNmoyQ3hSQkQ1MlBSRzVtbTBhci1OWXE4bTdLVUZqbGJ2OVhwVUlNaVFkd0dYZw?oc=5
-
-- This US state is pushing to harness GPS technology to slow ‘super speeders’: How it works - The Times of India
-  The Times of India reports that India is considering using GPS to slow down drivers.
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMUlxQXJpVmtjejBDR2pUNWpwb0drTnlqZlV5bDYxVUN5OV92bDBFbmtGbVlLWnktbHRlU08tS0FtZUlQZURxallITi14c1d2aFd5UnZDTkZrdWJpVVhYeWpmMmlnYmdFM3pIcXlWd2Y0SHRrWDloZ2I3b3dYYWNicUZCdEVXbThobS1rMG03dnprSzBkV0JjZzlhWHhJcFBHTEJ0RFdsMUdzb3ZuVTlHZ01IMXlucjFadVBUeHhzYlAxdEswUm1FdU1DSGx6QTQ4NVB0ekFPa0Rzd0hBcmdYbzBzbDdKTWhrMXF3M0p0WDF0cW1mZGlQNjNyZWdzZ9IBgwJBVV95cUxNd2ZTeFd2R1ZUVGEzaXhsZWVxSE5pMjVTSWVLYldkWDFQeVBPeWtNcGJXM0Q4S0hWdDYtbDFYSjJRaFZtcUNPdmI5bmFZVEZxVVhzRzM0UWVvcFgxWUdpVE1SVW1iNlhvLU1RaTRfbzdpaXFPQUo3aVA3bG9ZbGJoaHFGcW5kX2tZTEJ6M1dral9NOHhaME9ic2JaMlJkcVluNjJqWFpMZjcxUkszTjhDeFZqRVREZldHOWIwTWRmaEg5REp3bUhid0tGRzVwWmx6Z0VJbTlaTWxoMlRQTV91RVNuVTIzOGVQVzlySmxic2ZFY2RxZl9TQU1URGp6eUZ1MDk0?oc=5
-
-- Google researchers are fighting the company to tell the world what they know about AI - The Washington Post
-  Google researchers are fighting the company to tell the world what they know about AI
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-04 04:32:23 UTC_
+_Last updated: 2026-11-04 13:43:45 UTC_
