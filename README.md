@@ -1,164 +1,224 @@
 # 📰 Daily News Summaries
 
-- Foreign Donors And Pak Links: Centre Accuses CJP Of 'Anti-India' Funding - NDTV
-  CJP accused of 'anti-India'
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXM0Vm5KWDE0MGhkTjBhbUVSTXc2U0NJRzZSZ25JM2tYZDlMVzVmMmtRdnRDbGFmdFFMbERVTWRwVUVXT2NkZy1Ba3BQTDc1NzVQLUtmZ3NHVTBodG04ZFNSQURnZnJPRDQ0M3FWNXczV2dkOXAzd2k4NWpSc1hsZWk0eE9zaVltUmxZNEYzWXRLRlZrYVdFLUhPejdaWEc5d1FmbFVQeXpZRkF1MExn0gG3AUFVX3lxTE9wSWl4UG1qbkxEQ3J0VGtCTUp2T1A4U0dwSlgtQWtPa01KVTdfaHJQRFN5SkVFb3NjUE5DMUlyaDJ1TkQ0THpfRFZiaWVQYlBvNi1GdXBqMEdrZ3FDXzgya0lIY05ldkxtX2U5bFlRWWVYX3BSUU1sSzJqMTIyWVNnS2FRUEIxZ0lXdUM3cjBucXRCUllQMHRkU3ZwcU5JTVF4ODhBNk1fWndacEFxc2NuNEY1UUp5bw?oc=5
-
-- India and Kuwait celebrate Diwali and shared cultural heritage - AIR News
-  India and Kuwait celebrate Diwali and
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUpCNFhRX3NLWkdjVkR5cDRhS01SdTFUWlk5em5wXzAyWVdwdnB2RWhaSXhraUVXSGplUjJJcVVyU0hVVGpYVEtxcVNoYTFQb1Y1elRXakNLY3ZxMkk4RU95OUI2MVNHbjZVWlA0SVVGczBoOVdkdVljZTloNVFoc3QtUXFRYm5Nd1A4bEYzLTRqZw?oc=5
-
 - U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics - The Hindu
   The Hindu says U.S. midterm results may matter less for India-U
   🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQanVYUDdQVUFJZnljSjZLaDZKc2FxZDh4X3hRZmIzUGdNV0dRQWlCMmhMWWVHRGI0bjVSaGRZa0N3YjhNSjRHZWhxMXA1blo0VUF3Rk5DYjBybW1BTExTM0JrZzVuSmszd09VbjVkQWgtSzBQNXc4VTlMVFhBSE56Y1pjcmhpRkk0bVNCVXViUzB1QXA0Ym42QU1ESVNrbTZpdUkxUEtuN2dZekRjTDFhRzlxQV9hSEduR2R6Y1ZYYmVLelY2WmdLQ0UzNTgxM1RFUXV1Rmc0ajZqOHd2MVZObUlfaDFuMkNhVzNWamhudy04d9IB-AFBVV95cUxNODdPOFhLdmFsZzFacEVzd1dyTkw3WjNtb0M0cU5wRkR1aEc1cXFjRFZMMDVZMUk2SFdPeFJFYzZjX3NXNmZpWjlNQmpINzg5VkpUWFB1WVF6cmthTi01MWYtUS05SlhQbWRNS3pKRjh5eUZodDNya0JvNGZtQnBieERIdWdRMWlVWFg5NldkajczVDFlUUFTSjdRN0ZSOWQ3ZUpJN0tkZkFWbVZub2F5cC1BTHJfN3FobDdReHYxNUlUSUNjLWJpRURIX3hGc2tMM2EyWXVaYlFEcDRESVVWUlRtaG9NZUx3NU1wNFF3Ql9NRFpaYlZ1aA?oc=5
 
-- From H-1B Curbs To Racism: What Shaped The Indian-American Vote In Midterms - NDTV
-  From H-1B Curbs To Racism
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHZTY1VmdGZ6Wkk4OTgzZ2RRZVhua3YwSDB3RUEyVXA5SG9OdHlJdjNCN21NX3FnTGV5WDgzeE04WTFkVkNpWl9wRVZMTk5CWVpqOHVLOXIwMHlpRmY4S1hSVjgyaHpCNlYtU2FnTDJDZ3R4aDNidXZPSEZyZFM3andSMkdXRGV2U0hWQkQwN0Q2cF9QOUxYOGRYNnVfMDhjUEtwZzFFS1ZjRXBWbkZrdUprc3paSDF2VEJXS2doSTlucnRPWnl6OGtfUzPSAdQBQVVfeXFMT0k3YzBGRzNvemMxUjBwcXBvWXgwQm9zalZfR3dGUXpHYldQMzJJR0RyVTg5UjYzMkNXOFpqRFZUOUx2ekNXSVJMY00tUUg4MTV1VFJXdHMtZEtSQTVjSVMtbm05aEFqejNVVlpMWjl5WmdqVGJ2b1prM2VWUjJvM0NWLUUwOG02Q2ptRHNhTEZYcEphNm82dXhCb2tVbzROQzRkSXBXYmVBdzB4OEY4N05lME5zUXg4Q0NicFN2TmVMaWJUUEdwQ0xIaHNiQU9RRDdUQjI?oc=5
+- Will Trump's US Midterm Defeat Spell Bad News For India? | Sushant Sareen - The Times of India
+  Will Trump's US Midterm Defeat Spell Bad News For India? |
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME5WTjlab1NyV3BnVGFxOEtQaUdaVElDbGlqU2dqc2UtM1BsZ29kUEZvQmFXb0tINFFWYmFQY3NJS3pMYk83YS1NSXpTdkZzNE1oNHJwYmtuV1pmendpQTA3STJtYzBPaTEyM3BNU1FNcXZsRTlJcERlU3lGMkktVjN0dmJjSDNRMGdLR3piMVEzQXR5NG1GR3ppUXN2RFVidlhNcE1SMWVncWJkTm40Sml5UlJGZ0s2ZkNTMS1talZMSEHSAcgBQVVfeXFMT092ZTI1SVZ3UGlsMzNUZFRyMHNGakJBX2dONEN4SFAtSFo3ZElodml4MWp0RUVFSFZZY2dyWGtaaHI1U2dLaUVCV1hEZlQ3Vm1CbUJnNHNJdnR4MFBiYmozTURPc1EwWmFuSDN1ZE1YeW8zczZiX2NNV1lMLVRiNEtaRVpLU1JRM2NhSGxZaUs1Y3RoRmlqVF9TemNFOWhEYVBsQ1FfOVBWbkxXYndpbmNFWFFwMWpkSFRzZS1EVWpSdUZ1T1Z2SDc?oc=5
 
-- 'Over a billion of them': Abdul El-Sayed's reply to uncle over marrying an Indian goes viral - The Times of India
-  'Over a billion of them': Abdul El-Sayed's reply to uncle over
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxNN3YteHctdU8wN09adExyUlFEUVRvM3RiQ0sxeWpDNzEzbENyT1V2clJEaFF6LWFmcmVLSmRRY2pwaS11V3BoaUg3YnZQV3N5YmRKYnZjTXM1RHprYzl4TGMwY3U4U2hwODc1clZmWWs2V2NPNnplSE1RVFBoSjVyTDRRZWFfTWV2SGNsNHFqaHZCTTdvem51eGFySHNFNV9jbVJpOHpCQk5JczFQLXN1Wl9TaEwzamtqWTNWYlR1N2cwOUFjQTVJVGdoTUJJZnIxbENsaXJOYlFVZ2ZJSkhuOXN6Y3JJNWZKeVF0T3pDajRNSC1NUkNBSXRCNnZyeXVOMGtNRG9YUTZnQ3ZKNUNWR0V0RknSAZoCQVVfeXFMTklfSDJnbGlnVlN4OW05bjl0N3pmSUZMNDRNbkw5VW1LU01HVlJNdUVsZFc3VlNXVkxQU29Ta3ZKdlZJeE1sUnVwRlRxSEdnOXozS3ctUkJIakhvTnduaEZiaUU0VTZ0VlpPaVVyZkRVTTlJNWYzdTBrRnZTRmZFTnAwS3JVOEdaTDBPa01vSXFEMm1FQl80a1pUVElFTHhBUHVEdlB1OF9pUzFfMGxZMVIxWU94ak1TU1RZMHlBcm9Ed2owRVc1Y1NIcW5kbF9uTVVYcE9BbjBjTXlJZk4yV1YtVzFyZ0FNdjBoamM2SEQzX0pPcllHYjlMYlhIWDEySFBuU0EyRktORHdMNERSbEJUVXF4N3RBNWpR?oc=5
-
-- Tech barons cozied up to Trump. What will they do in newly blue America? - The Guardian
-  Tech barons cozied up to Trump. What will they
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVF1N0dWOW9Fa2R0WXdnZVYyLTdrRElfck9KQ3NpTzkzM3A4VUFVR0QweEhNX2NURWU2eW14bEg3eXI0MnNacUZUSGRLekczaGRsZjQ3MkNZZEVVR2t4UjdiS3BwVUY2SVZjbTdMcGNSOGtkdDNzMzBXdnE1eTNBdlctUU1ISVR5TmM2XzExSFl5bVV0a3k4?oc=5
-
-- India’s biofuel readiness: from vehicle technology to feedstock security - ChiniMandi
-  India’s biofuel readiness
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmpBTkV1YWdzR3NtU1U5YlFsUUY1UnRjT2ZFeG5iRTUxdWFYVWlvVUpTa3FTMEFfTVFGVEhuR1dIenBKa2NiUVYwZGxSY196VG8tbkE2aVFWQ21ydHpjc0dJcGtVUjM4UG5jZklfS3pITm15RjRodVRJeXdFdFdEVGFiQURvUTh2TFd3TkJscTlRVGdKTWppRWN2ZU4tdVE?oc=5
-
-- Aimpoint Helps Define the Requirements for Future Semiconductor Technology - Cision News
-  Aimpoint Helps Define the Requirements
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOa1VTU3pqY0VmQldMT1JwUmpiTWdiYnpTeVpYZnNEaVpWWkZFdUV5a3dsQ3owSEFraVNSY1pQLVozOTRaVDhUcVhVZldmbU1rS3k2VFRlMzc0WVpGRGNmaTVMVVplcEZFWEFyWUQwWU9abWxhRUQ4MGtwRVBrTW1RbnNQM0Z0c25JckhtMkhfZlNVdDJPUHZfSEhDU3FpV3Z5RF8wdWpiOFRNNWR3cVVESkVYUXRkQWFMU1E?oc=5
-
-- SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service - CNBC
-  SpaceX signs deal with Qualcomm to provide network technology for
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXlJT3R0clJVSkpBRkR1TGp2ZU0zWTljNV9VQ1F1a3hiUVdudWJpM3h5aXZWcDhDZEhNU19CQlpGV1RKZmhZbjVhV05rWkdCbFVma2JPMGplSUE5a3NYMk10U2Q4NDYyWmJCNnljeDFWVmt0c053WnJoaHRjSkNCV01FVFZucTQ0SFBQOHA4aFBMTkItb3E2SmlpdWNDNXVjd2xZeHl2b9IBrAFBVV95cUxPUXo4bEVDS3N4cUlPeThFajVycVB0ejdqSUpJYzZPMlAxTFFIcnROeDNNX1F4NmlVYUNZRXp2R2pfendpdkhaQWx0NHljdFl6U0dJekJYWFZObERiTzZ2S2dORlgzXzVDZkFTZ09QNlo2Qkt0N0stM1NwUjktQ1oxUzZEZVZfTXFkd0djVTkyeFJCYTRzczExSnBOc3R4dFdXLVR0SFRCY1psTXJ2?oc=5
-
-- 6G could add $1.24 trillion to global economy by 2040 - ET CIO
-  6G could add $1.24 trillion
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNQm1yQ2R3ek5VcEt3aE1ieXNoZmJYemxLLXdaaEZYNzlaVEE4Yk9BeUF6WmZGTE53Vy1iS0kzOGxmNTFXTmxHdmw1c1g2cUgwQkNkcGRkUkV2aU5PNndEZTM2WmhUSzVVLU1lVmdVQmhaQjc3MmxFX1B5dl9VN1V4TkI5V1FrOUsxTVlvZG5PVTl4ay1xamFiVzBENEtLNk9yelVnaVNsQXpBN1Z6bjZZeHF0eG9tZW9laU0xbTdGN2JHd012QjJza0gxTXdpWlVwSHlXVHlEdDBJVWVHYTFLOEhqZ1FTcHREa0N6akEwTXI5RGw1RElFd0J5UGYzLXdlbHpvbTdrUjFnVjNtVmV1bXNn0gHPAUFVX3lxTE1tWWFNakhNbEctNkx1T2dRa25SbGhBUkxOWmZDZURlT0VWd2xmN3dYMnJXZUx0MjVzbnAxTHUyNTlOekN1RmwyZVFMVXRveE82R2tSZ2ppWkZiQlNweHRCSFA1cjhKem5HZmVTdjVldEQ5Sk1WOWFZZmpFVjlPa2phMTVSaW0ybXZlS1BZSWRpX0QyWHRwVHIxQzU4REpUWTdiUHl0cjdHeVk4anhJTzNjZ05LYmh4UTFTWnE5dXlVVkhJNGVLZkZjNjRFeE5YTQ?oc=5
-
-- PFC dividend: Up 200% in 5 yrs, Maharatna PSU's shares rally 5% in 3 days - Check dividend record date, payment timeline
-  Power Finance Corporation approved a second interim dividend of  ₹4.
-  🔗 https://www.livemint.com/market/stock-market-news/pfc-dividend-up-200-in-5-yrs-maharatna-psus-shares-rally-5-in-3-days-check-dividend-record-date-payment-timeline-11793884952011.html
-
-- Titan shines in Q2 Results 2026; Net profit doubles to  ₹2,393 crore, aided by one-time gain; jewellery business up 24%
-  Titan reported a 113% year-on-year rise in September-quarter net profit. Revenue grew 25% to  ₹20,533 crore, led by jew
-  🔗 https://www.livemint.com/market/stock-market-news/titan-shines-in-q2-results-2026-net-profit-doubles-to-rs-2-393-crore-aided-by-one-time-gain-jewellery-business-up-24-11793880484831.html
-
-- Bharti Airtel Q2 results: Profit jumps 31% to  ₹8,888 crore, ARPU up  ₹271 crore, telco stock rallies 121% in 3 yrs
-  Bharti Airtel reported a 31% annual increase in Q2FY27 net profit. Revenue rose 16.7% to  �
-  🔗 https://www.livemint.com/market/stock-market-news/bharti-airtel-q2-results-profit-jumps-31-to-rs-8-888-crore-arpu-up-rs-271-telecom-stock-rallies-121-in-3-yrs-11793882129364.html
-
-- Sebi allows mutual fund schemes to net cash market fund settlements
-  Sebi’s move changes the treatment of fund obligations for eligible mutual fund transactions. It does
-  🔗 https://www.livemint.com/market/sebi-allows-mutual-fund-schemes-to-net-cash-market-fund-settlements-11793879902529.html
-
-- Terrific Thursday for stock market! Nifty jumps 576 pts, Sensex 2,009 pts after US election results; bank, IT shares fly
-  The Sensex gained 2.6% and the Nifty 2.4% in their biggest single-day advances in seven months. Lower crude prices renewed foreign buying and
-  🔗 https://www.livemint.com/market/stock-market-news/terrific-thursday-for-stock-market-nifty-jumps-576-pts-sensex-2-009-pts-after-us-election-results-bank-it-shares-fly-11793879260120.html
-
-- Tech barons cozied up to Trump. What will they do in newly blue America? - The Guardian
-  Tech barons cozied up to Trump. What will they
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVF1N0dWOW9Fa2R0WXdnZVYyLTdrRElfck9KQ3NpTzkzM3A4VUFVR0QweEhNX2NURWU2eW14bEg3eXI0MnNacUZUSGRLekczaGRsZjQ3MkNZZEVVR2t4UjdiS3BwVUY2SVZjbTdMcGNSOGtkdDNzMzBXdnE1eTNBdlctUU1ISVR5TmM2XzExSFl5bVV0a3k4?oc=5
-
-- India’s biofuel readiness: from vehicle technology to feedstock security - ChiniMandi
-  India’s biofuel readiness
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmpBTkV1YWdzR3NtU1U5YlFsUUY1UnRjT2ZFeG5iRTUxdWFYVWlvVUpTa3FTMEFfTVFGVEhuR1dIenBKa2NiUVYwZGxSY196VG8tbkE2aVFWQ21ydHpjc0dJcGtVUjM4UG5jZklfS3pITm15RjRodVRJeXdFdFdEVGFiQURvUTh2TFd3TkJscTlRVGdKTWppRWN2ZU4tdVE?oc=5
-
-- Aimpoint Helps Define the Requirements for Future Semiconductor Technology - Cision News
-  Aimpoint Helps Define the Requirements
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOa1VTU3pqY0VmQldMT1JwUmpiTWdiYnpTeVpYZnNEaVpWWkZFdUV5a3dsQ3owSEFraVNSY1pQLVozOTRaVDhUcVhVZldmbU1rS3k2VFRlMzc0WVpGRGNmaTVMVVplcEZFWEFyWUQwWU9abWxhRUQ4MGtwRVBrTW1RbnNQM0Z0c25JckhtMkhfZlNVdDJPUHZfSEhDU3FpV3Z5RF8wdWpiOFRNNWR3cVVESkVYUXRkQWFMU1E?oc=5
-
-- SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service - CNBC
-  SpaceX signs deal with Qualcomm to provide network technology for
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXlJT3R0clJVSkpBRkR1TGp2ZU0zWTljNV9VQ1F1a3hiUVdudWJpM3h5aXZWcDhDZEhNU19CQlpGV1RKZmhZbjVhV05rWkdCbFVma2JPMGplSUE5a3NYMk10U2Q4NDYyWmJCNnljeDFWVmt0c053WnJoaHRjSkNCV01FVFZucTQ0SFBQOHA4aFBMTkItb3E2SmlpdWNDNXVjd2xZeHl2b9IBrAFBVV95cUxPUXo4bEVDS3N4cUlPeThFajVycVB0ejdqSUpJYzZPMlAxTFFIcnROeDNNX1F4NmlVYUNZRXp2R2pfendpdkhaQWx0NHljdFl6U0dJekJYWFZObERiTzZ2S2dORlgzXzVDZkFTZ09QNlo2Qkt0N0stM1NwUjktQ1oxUzZEZVZfTXFkd0djVTkyeFJCYTRzczExSnBOc3R4dFdXLVR0SFRCY1psTXJ2?oc=5
-
-- 6G could add $1.24 trillion to global economy by 2040 - ET CIO
-  6G could add $1.24 trillion
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNQm1yQ2R3ek5VcEt3aE1ieXNoZmJYemxLLXdaaEZYNzlaVEE4Yk9BeUF6WmZGTE53Vy1iS0kzOGxmNTFXTmxHdmw1c1g2cUgwQkNkcGRkUkV2aU5PNndEZTM2WmhUSzVVLU1lVmdVQmhaQjc3MmxFX1B5dl9VN1V4TkI5V1FrOUsxTVlvZG5PVTl4ay1xamFiVzBENEtLNk9yelVnaVNsQXpBN1Z6bjZZeHF0eG9tZW9laU0xbTdGN2JHd012QjJza0gxTXdpWlVwSHlXVHlEdDBJVWVHYTFLOEhqZ1FTcHREa0N6akEwTXI5RGw1RElFd0J5UGYzLXdlbHpvbTdrUjFnVjNtVmV1bXNn0gHPAUFVX3lxTE1tWWFNakhNbEctNkx1T2dRa25SbGhBUkxOWmZDZURlT0VWd2xmN3dYMnJXZUx0MjVzbnAxTHUyNTlOekN1RmwyZVFMVXRveE82R2tSZ2ppWkZiQlNweHRCSFA1cjhKem5HZmVTdjVldEQ5Sk1WOWFZZmpFVjlPa2phMTVSaW0ybXZlS1BZSWRpX0QyWHRwVHIxQzU4REpUWTdiUHl0cjdHeVk4anhJTzNjZ05LYmh4UTFTWnE5dXlVVkhJNGVLZkZjNjRFeE5YTQ?oc=5
-
-- Dow futures rise more than 300 points after monster postelection rally: Live updates - CNBC
-  Dow futures rise more than 300 points after monster post
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5sdjFuSm1kNThIRUluMXJ1c3ZyVS1icmJDN1pVNVVOdlVVa1JwWFE3VGw0UkRfeTJqUlg3ZUotVzZPVFdCZ0tIOERPekZYbHRXSER6ZWpka2ZYV0ZQMXNuXzZ0VnBIREVTVVZtTXdZLXM4aGJOc0c40gF8QVVfeXFMTWdkU3RqWXdESzExbWxNemxOYmJQSjh1UEV5aWxqazFGaGRxazE0RUtHc3FfejNiZVFwQWlXMWRjNzlRYkdIRnB4Vjd2S3Z3Qmpia2EzNlhQRW84Q3c1NklFNUlib19EXzJpbUNieEluVnFKNkRHVDFaaDZpVQ?oc=5
-
-- Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap - Bloomberg.com
-  Stock Rotation Rolls On as Chip
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHBnOEludEdwalhTMXRiLWFQbk9RRVVIVGYzY3cwZUk4TmxLY1hnZExZQTZBTExfR2l2TmpJNXUwRWUwc21Jd0EzZklqc2hCbnRta19OU1lQV2NTdjhuNUZxaGQwaHlBZG51eG44WXFxNTNuX1FRYVluOGdaTFptSWRFY3J1ZTdMTlFzY3VmYVhkbDJH?oc=5
-
-- Live updates: Bitcoin edges lower as markets cool following yesterday's rally - CoinDesk
-  CoinDesk: Bitcoin edges lower as markets cool
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWlZfWjUwR1N4cEo4UUtQOS1LWWJURnVQSE1IOS04V252ZHdwZUVXQ0xlVFRsTkY3T3NYdW1wVTVqQVQ4NVRiMVByZU91bEl0eE5UY0NxdVlJQWhNRUpuYkxYNE1BR244WXJMMXpFM1hlYVZiY3VFUzlEb1ZRUFRtVzl4a0pBUi1qVHpySlU0aXM4cG9jN0hvU0hHQ3VUTUdVVC1KTXlKVjV4ZkNUaUlDY1VrbFRwZGJlb3U2Rzk0Q2ZSUERtZGhGLQ?oc=5
-
-- Traders Up Bets on Faster BOE Rate-Hike Pace After Hawkish Vote - Bloomberg.com
-  &nbsp; traders up bets on faster
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUJEMmNUck9PVXlvZUpPR1FPb2FIQm5BMExIdmQxRjFGS1ZadkkyU1dGd3RhZWRYcHdneklTMlpBdEVtRnB6NXJrLVpsN0Y5UUx5RWIxMm5ERjN6OE1GYTFEVHJTTURnZmY2NEdWb01VNWRNVy1makQwNE41MlpDd0xhUjM0d0xqY1RyaC0ydW1ZY2FFV2NXTEhnRVJsWmhTVUpyWTBFYUdXU0RDVzNiVkpHcUY?oc=5
-
-- India's markets regulator approves Coal India unit Mahanadi Coalfields IPO - Reuters
-  India's markets regulator approves Coal India unit
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxONlRGYTloXzAzYlNtcUxMajFGd0EwVEdRaEZuTUFDNWFJcTBkY0J6WkhSTzk1bGk2SUk1azhPeWJSQzN0WjVkVE1JMU1TcmV1UUxod0ZqS2c5NXRIOVJfcmhqbkpaNkZjZWJRS3AtMG5RcGZDNHI3LXBfMDRkdnM0UlhsTW1DNWFNUzZ4YUdmQUZJSWk2dWswVEdlT1lhT0stY0JjVzBlZElvdnBSNUtGVDMydVk3aHJNSmZfX3hEMDQ2QlE?oc=5
-
-- US Stock Market Live Updates: Nasdaq futures slip as Qualcomm tumbles 10%; Dow, S&amp;P 500 gain
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-qualcomm-nvidia-coreweave-tesla-amazon-meta-ai-stocks-data-center-stocks-semiconductor-stocks-brent-crude-us-jobs-report-federal-reserve-treasury-yield-news-5th-november-2026/liveblog/135575228.cms
-
-- Bank of England hikes rates to 4%, first raise since 2023, says more may come amid high UK inflation
-  The Bank of England has escalated interest rates to 4% amidst spiraling inflation. Governor Andrew Bailey cautioned that further hikes may be necessary.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-england-hikes-rates-to-4-first-raise-since-2023-says-more-may-come-amid-high-uk-inflation/articleshow/135574865.cms
-
-- Marico among 10 stocks hitting 52-week highs; rally up to 14% in a month
-  Ten BSE 100 stocks, including Marico, Adani Ports, Divis Laboratories and ICICI
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/marico-among-10-stocks-hitting-52-week-highs-rally-up-to-14-in-a-month/slideshow/135574817.cms
-
-- Rising oil prices cap India bond rally; traders cash in gains
-  The benchmark 6.94% 2036 bond yield declined by nearly 2 basis points after intraday fluctuations. Oil prices rebounded after initially falling, causing traders to lock in profits.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/rising-oil-prices-cap-india-bond-rally-traders-cash-in-gains/articleshow/135572997.cms
-
-- Sebi approves net settlement of cash market trades for mutual funds
-  Net settlement for mutual fund schemes set to take effect on April 1, 2027. This initiative is designed to streamline funding requirements and boost market efficiency.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-approves-net-settlement-of-cash-market-trades-for-mutual-funds/articleshow/135572968.cms
+- US Midterm Elections: 3 Scenarios That Could Decide Dalal Street's Fate - NDTV
+  " target="_blank">US Mid
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkdyY1pYMTAzM2ZtY1dLelRnYjFZdDBGejc3azBNLWxNLTZPeWVtbXp5NnZBTkRaNTFFVm1JdDBMQjZzbW1WTVNIYmJRNEZTSDZmaE94UHBpMmJFN1ZuYWVqTnByZUU2VlpNV2w2M0ZGRFdLTEFhRzlvQTFkRzIwNWFNMEdvb1hFVzNGdE41NDNBbUJMYzd4V3RZdmZlMWVEQWNETmlHcDdjSFIwWC1KTFh1Z2NvajZUcXB1R1ZRMmpMREZnUkc4SlNESdIB0wFBVV95cUxPdDZSaG5LZHNEMjZ2OWtqVHc0a05QVXVJZ3ZjakFkdndRMENrSWdqYjZudW5xdlJIanhPVjlTcFZvdjQ5M3BvVXZ3cmdDdHAwa3FZRWJkdGtzUC1OZGJYOHVPc2R2Zk1fVWEzNkNqT1hudkRGejF1OURtVmN0RVQzaDZ0S3VPZS1vTXBILUJyeGVBVEFFNkZtUDQ1LUFZZXR1anEwRWNEWTlxN0NmdDRFMkUzLS1tdUdpZUItX3J2SjRMa0dlWDluM2F6ME5SUFNmMTlB?oc=5
 
 - Foreign Donors And Pak Links: Centre Accuses CJP Of 'Anti-India' Funding - NDTV
   CJP accused of 'anti-India'
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXM0Vm5KWDE0MGhkTjBhbUVSTXc2U0NJRzZSZ25JM2tYZDlMVzVmMmtRdnRDbGFmdFFMbERVTWRwVUVXT2NkZy1Ba3BQTDc1NzVQLUtmZ3NHVTBodG04ZFNSQURnZnJPRDQ0M3FWNXczV2dkOXAzd2k4NWpSc1hsZWk0eE9zaVltUmxZNEYzWXRLRlZrYVdFLUhPejdaWEc5d1FmbFVQeXpZRkF1MExn0gG3AUFVX3lxTE9wSWl4UG1qbkxEQ3J0VGtCTUp2T1A4U0dwSlgtQWtPa01KVTdfaHJQRFN5SkVFb3NjUE5DMUlyaDJ1TkQ0THpfRFZiaWVQYlBvNi1GdXBqMEdrZ3FDXzgya0lIY05ldkxtX2U5bFlRWWVYX3BSUU1sSzJqMTIyWVNnS2FRUEIxZ0lXdUM3cjBucXRCUllQMHRkU3ZwcU5JTVF4ODhBNk1fWndacEFxc2NuNEY1UUp5bw?oc=5
 
-- India and Kuwait celebrate Diwali and shared cultural heritage - AIR News
-  India and Kuwait celebrate Diwali and
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUpCNFhRX3NLWkdjVkR5cDRhS01SdTFUWlk5em5wXzAyWVdwdnB2RWhaSXhraUVXSGplUjJJcVVyU0hVVGpYVEtxcVNoYTFQb1Y1elRXakNLY3ZxMkk4RU95OUI2MVNHbjZVWlA0SVVGczBoOVdkdVljZTloNVFoc3QtUXFRYm5Nd1A4bEYzLTRqZw?oc=5
+- Mulling panel to review UGC equity norms: Govt - The Times of India
+  Mulling panel to review UGC equity
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2I2RlhYNHNlUVpiZUltQndIejdjOXFBd254cng3bm1vWVBtTkx5c3dqM1d3VTU3LTVDMEZNSkRITVlMZjVTV203QTR2aEhUMHFJSlFocUFWcG1vaUpLRW0zbGxOcmpNeDcyajNMVGVzRkVXX1IxUkxzUHpEWXkwUlpWNlhsMHhMR2VOVzZOOUhQc0V3RlBncmhoOGdKdWYzOFU3VVI2NmQ0QlRaNF9wTngyTdIBuAFBVV95cUxPMFNQd3FSWEV2eWNDMDNvcFVYcG0tR0JqeHN5VkRxMjI2U3B2OEx4X3djcHNoUDFoS0dqNl9pTVNUVmZ6TUpJTHFHU3NOOXFKUVBfV0tDelJzcEdQUHUyNzE1LVlvNkl5bzg1RGE5UVVDY3Z3Nm5YQzE1VXRwM0pEdFBqM1cxc2NLR1lqODFNbGxrTk82NDU4ZGotMVdhYmtDa0xrYVJIS1VtQ3U4dEpjTWRoNVdMWnVo?oc=5
+
+- Palantir harvests battlefield data that Ukraine pays for ‘with blood’ - Al Jazeera
+  Palantir harvests battlefield data that
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPTExPQndoc1QyZTBad1lLWnhqbnNpTTNEdlZDb2FtSEdhbW9oNEJVWFdEdUliS21zN0s5emZreldRRkhHVXNzcGZ6RG0yZzNRSndMTk9OdDJhd1Nqa0JfWW9mczFneWxnTnZJdFJOZXVtYTF1T2tsTlljbkxiTVZtYmVnNkI4TG5HelB6YzNpY0h4NFJjQUtYSXEtUjNxNHkyVGppWDR2aWJ6MnRTdGhlTFlvd9IBuAFBVV95cUxNSkdJSE5nOFFMeEpvb1FTTjhpWG1FT3JlRVBScGxXR0w4WnJzUTFEaW5rQ1VwUl9xSkd0Zk9yNU9qTVZTSG9KWUVmckhJRE1SdDZJeWc3Vlp6NWpab19CdThyV1cyNUVRSHh4bGVRaVVfX2NxTmRWNzdtZ3hvRnYyTjIxTFpSWC1zMGxudmotUXBMZmphVXRIZDJpVVFsVUt0MVZjRTdzVW5DajNlQkdPX0lyaE12dUo2?oc=5
+
+- India’s biofuel readiness: from vehicle technology to feedstock security - ChiniMandi
+  India’s biofuel readiness
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmpBTkV1YWdzR3NtU1U5YlFsUUY1UnRjT2ZFeG5iRTUxdWFYVWlvVUpTa3FTMEFfTVFGVEhuR1dIenBKa2NiUVYwZGxSY196VG8tbkE2aVFWQ21ydHpjc0dJcGtVUjM4UG5jZklfS3pITm15RjRodVRJeXdFdFdEVGFiQURvUTh2TFd3TkJscTlRVGdKTWppRWN2ZU4tdVE?oc=5
+
+- Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters
+  Anthropic's models improving nearly twice as fast with
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5
+
+- Bath to get live facial recognition technology - BBC
+  Bath to get live
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvR1BYNEE5enBocjIwRmFnM3Z0NWhCWTA3dGJzOUF0dFJsMGQyZzFNNkxyejY3b1BMbkdySGhWSEEtVEdvcXpUdEpKeGhnMkI0eHFlQWh4aFBFVU0?oc=5
+
+- Hyundai Motor Group Outlines Future Mobility Technology Roadmap at FISITA World Mobility Summit 2026 - hyundai.com
+  Hyundai Motor Group Outlines Future Mobility Technology Roadmap at
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1CSmM4MmE3cTlXODUtOUVNSmUzRjduUE1QbmszaE5uS3BQMjdRWUNwRVl6WndmNHY5LTRIN1BWMWlpeFpNN1pESmktbTdwSWZkU0VIbTk4UExSN2xBd1VwbjBXdWtLdmRDTkw0akJ4Skk?oc=5
+
+- Hertz Shares Plunge as Car Renter Warns It’s Running Low on Cash
+  Hertz Global Holdings Inc. shares plummeted after the car renter cautioned it expects to end the year
+  🔗 https://www.livemint.com/companies/hertz-shares-plunge-as-car-renter-warns-it-s-running-low-on-cash-11793905693517.html
+
+- KFC launches themed menu and more as it teams up with Marvel's Doctor Doom for Avengers Doomsday campaign worldwide
+  KFC to team up with Marvel in its most expansive collaboration to date. Check
+  🔗 https://www.livemint.com/companies/kfc-launches-themed-menu-and-more-as-it-teams-up-with-marvels-doctor-doom-for-avengers-doomsday-campaign-worldwide-11793902124607.html
+
+- Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says
+  Anthropic is rapidly accelerating AI development
+  🔗 https://www.livemint.com/companies/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says-11793901964710.html
+
+- Who is Herjit Singh Bhalla? Dabur India appoints CEO as Whole-time Director for a five-year term from November 14
+  Dabur India has appointed India business CEO Herjit Singh Bhalla as an additional and whole-time director. Global CEO Mohit Malhotra will step down on November 13, 2026
+  🔗 https://www.livemint.com/companies/people/who-is-herjit-singh-bhalla-dabur-india-appoints-ceo-as-whole-time-director-for-a-five-year-term-from-november-14-11793897545728.html
+
+- Jio launches voice-only plans from  ₹147: How do prices compare with Airtel and Vi?
+  Jio's voice-only prepaid offerings start at  ₹147, which comes with a validity of 22 days. At
+  🔗 https://www.livemint.com/companies/news/jio-launches-voice-only-plans-from-147-how-do-prices-compare-with-airtel-and-vi-11793897722541.html
+
+- Yen Rises on Haven Demand as CIBC, Nomura See Room for More Gain
+  The Japanese yen rose as a selloff in US technology shares led traders to seek safer assets. Strategists at CIBC
+  🔗 https://www.livemint.com/market/yen-rises-on-haven-demand-as-cibc-nomura-see-room-for-more-gain-11793918153390.html
+
+- TSX posts steepest decline in five months as US tech rout hits Canadian shares
+  TSX posts steepest decline in five months as US tech
+  🔗 https://www.livemint.com/market/tsx-posts-steepest-decline-in-five-months-as-us-tech-rout-hits-canadian-shares-11793913236017.html
+
+- Treasuries Soar as Tech-Stock Selloff Lures Investors to Havens
+  Treasuries rose as a Democratic sweep in the US midterms led to a selloff in shares
+  🔗 https://www.livemint.com/market/treasuries-soar-as-tech-stock-selloff-lures-investors-to-havens-11793908983146.html
+
+- Gathering AI storm clouds doom tech stocks to darkest day in a year
+   tech stocks to darkest day in a
+  🔗 https://www.livemint.com/market/gathering-ai-storm-clouds-doom-tech-stocks-to-darkest-day-in-a-year-11793905499422.html
+
+- US stock market crash: Chip stocks extend sell-off, AMD, Arm, Qualcomm and Sandisk plunge up to 17%; Nasdaq down 6%
+  Sharp sell-off hit chipmakers as disappointing forecasts from Qualcomm and Arm compounded worries about potential restrictions on AI data centres. AMD, Sandisk and
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-crash-chip-stocks-extend-sell-off-amd-arm-qualcomm-and-sandisk-plunge-up-to-17-nasdaq-down-6-11793900308301.html
+
+- IIT Guwahati researchers use drones and AI to decode traffic patterns on Indian roads
+  IIT Guwahati researchers use drones
+  🔗 https://www.livemint.com/technology/iit-guwahati-researchers-use-drones-and-ai-to-decode-traffic-patterns-on-indian-roads-11793871039108.html
+
+- India flags Chinese-linked AI tools in hacking campaign against financial firms
+  India flags Chinese-linked AI
+  🔗 https://www.livemint.com/technology/india-flags-chinese-linked-ai-tools-in-hacking-campaign-against-financial-firms-11793867833483.html
+
+- Diwali 2026 tech gifting guide: 5 gadgets worth buying to surprise your loved ones
+  Diwali 2026 tech gifting guide: From the Nothing Phone (4b) and CMF Buds Neo to portable speakers
+  🔗 https://www.livemint.com/technology/gadgets/diwali-2026-tech-gifting-guide-5-gadgets-worth-buying-to-surprise-your-loved-ones-11793861457811.html
+
+- Rising memory costs may push mobile prices up 30%, could trigger second-hand device market: Jefferies
+  Rising memory costs, driven by growing demand from the artificial intelligence industry, could push prices of low-end smartphones up by around 30 per cent.
+  🔗 https://www.livemint.com/technology/rising-memory-costs-may-push-mobile-prices-up-30-could-trigger-second-hand-device-market-jefferies-11793863066245.html
+
+- AI sharpens cat-and-mouse hacking battle as companies strengthen defences
+  AI sharpens cat-and
+  🔗 https://www.livemint.com/technology/ai-sharpens-cat-and-mouse-hacking-battle-as-companies-strengthen-defences-11793858516405.html
+
+- Dow drops 1,800 points; Nasdaq tumbles into correction territory on AI tech wreck: Live updates - CNBC
+  Dow drops 1,800 points; Nasdaq tumbles into
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5sdjFuSm1kNThIRUluMXJ1c3ZyVS1icmJDN1pVNVVOdlVVa1JwWFE3VGw0UkRfeTJqUlg3ZUotVzZPVFdCZ0tIOERPekZYbHRXSER6ZWpka2ZYV0ZQMXNuXzZ0VnBIREVTVVZtTXdZLXM4aGJOc0c4?oc=5
+
+- Stock Market Today: Nasdaq, S&P 500 Suffer Biggest Losses on Record, $2.9 Trillion — Live Updates - WSJ
+  Stock Market Today: Nasdaq, S&amp;P 500 S
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0JqeUJIeUF5NWZ0RVUtVDhfSlJCMjc4U1didmsxU2lRZGdJcUZnNk90V0ZkVy1JNVZKRG10WkFySU1lREhqNUs2ZGlWZXhNRXBNMjVKWlJWajg5OWNFdG91V3VRV1B3cEkzSHNOVkFDaXRwbGJKUkRkX2lRdmtqQ0xGSTN5NVU?oc=5
+
+- Stock Market Today: Nasdaq Slammed By Big Tech Sell-Off; Nvidia Hits Bear Territory (Live Coverage) - Investor's Business Daily
+  The Nasdaq Slammed By Big Tech Sell-Off; Nvidia Hits Bear
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWxmSXZZZ3ZDSUdqS21kaTIzNmhjeW5qSjVSSFdHOE5kdW1uaFVMbXBSTFN4czlYOWFGSmx2UjZ0ZVpLbmZ5LUtUU3NkZWpQX04zOXZWZ2E3SG4tdVowenp6ZUhMTTZNZUhfS3VCQ2xiUmU5cWRfbTZyOU9DbWRIdVJBOVBSZV9CN0ZwS1dKVGtaQzhFamVmZDBBWXNOcEFaVXlnUlI0RlZYMG9ObWd4dUp3?oc=5
+
+- Major tech stocks plunge as US midterms add to fears of AI slowdown - BBC
+  Major tech stocks plunge as US midterms add to fears
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5
+
+- Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph - The Guardian
+  Nasdaq sees worst day in 18 months as investors bet on AI slowdown after
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPMWdpd3MxX005Y1RwQUo5WkxPVzlNRGpxMGJPcWV4WHd6TWh4a1Y5YUdrLXhYTEplalpXSE03S0NqX0xLcHIwbzBOdjI1VEJGdVdmSDlhejNMd2lnb3lJQTBtT21yVkxSTGh3RFFGUXZ5UTRPa0tQSUZZRjJhbFBFTkJxWjkzaTFhanpScXU1Y0lYdElWNVJzMDB2UHVjSEZUZUJUdHpQSWd0c2IzX2ZhMGQ0dlluRU1OekpvOVVWN2g1aUxmTVZhUEVWLVA?oc=5
+
+- JP Morgan to add Philippines and Saudi Arabia to key EM bond index over 10 months
+  JP Morgan will include Saudi Arabia and the Philippines in its emerging market debt index starting in 2027. The Saudi riyal-denominated sukuk and Philippine peso- denominated government bonds will be integrated over a ten-
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/jp-morgan-to-add-philippines-and-saudi-arabia-to-key-em-bond-index-over-10-months/articleshow/135585489.cms
+
+- The average US 30-year mortgage rate falls to 7.18% this week, its third straight decline
+  The average long-term mortgage rates in the U.S. decreased for the third consecutive week. The average 30-year fixed-rate mortgage declined to 7.18% from 7.24%.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/the-average-us-30-year-mortgage-rate-falls-to-7-18-this-week-its-third-straight-decline-/articleshow/135585420.cms
+
+- US yields fall in choppy session as oil rises and equities sink
+  US Treasuries are witnessing a spike in demand while equity markets take a hit and oil prices show volatility. The labor market remains resilient with dropping unemployment claims and heightened productivity levels, pointing towards ongoing inflation risk.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-fall-in-choppy-session-as-oil-rises-and-equities-sink/articleshow/135585328.cms
+
+- Paras Healthcare posts Rs 40 crore Q2 net profit in first results after listing
+  Paras Healthcare announced a profit after tax of Rs 40.35 crore in the September quarter. Revenue from operations reached Rs 510.89 crore, with expenses at Rs 463.12 crore during the same period.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/paras-healthcare-posts-rs-40-crore-q2-net-profit-in-first-results-after-listing/articleshow/135580435.cms
+
+- Godfrey Phillips Q2 profit down 37% to Rs 190 cr; revenue up twofold at Rs 4,198 cr
+  Godfrey Phillips India Ltd reported a significant 37.73 percent decrease in net profit for the September quarter. Despite this, the company's total consolidated income surged to Rs 8,139.64 crore during the first half of FY27.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/godfrey-phillips-q2-profit-down-37-to-rs-190-cr-revenue-up-twofold-at-rs-4198-cr/articleshow/135578939.cms
 
 - U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics - The Hindu
   The Hindu says U.S. midterm results may matter less for India-U
   🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQanVYUDdQVUFJZnljSjZLaDZKc2FxZDh4X3hRZmIzUGdNV0dRQWlCMmhMWWVHRGI0bjVSaGRZa0N3YjhNSjRHZWhxMXA1blo0VUF3Rk5DYjBybW1BTExTM0JrZzVuSmszd09VbjVkQWgtSzBQNXc4VTlMVFhBSE56Y1pjcmhpRkk0bVNCVXViUzB1QXA0Ym42QU1ESVNrbTZpdUkxUEtuN2dZekRjTDFhRzlxQV9hSEduR2R6Y1ZYYmVLelY2WmdLQ0UzNTgxM1RFUXV1Rmc0ajZqOHd2MVZObUlfaDFuMkNhVzNWamhudy04d9IB-AFBVV95cUxNODdPOFhLdmFsZzFacEVzd1dyTkw3WjNtb0M0cU5wRkR1aEc1cXFjRFZMMDVZMUk2SFdPeFJFYzZjX3NXNmZpWjlNQmpINzg5VkpUWFB1WVF6cmthTi01MWYtUS05SlhQbWRNS3pKRjh5eUZodDNya0JvNGZtQnBieERIdWdRMWlVWFg5NldkajczVDFlUUFTSjdRN0ZSOWQ3ZUpJN0tkZkFWbVZub2F5cC1BTHJfN3FobDdReHYxNUlUSUNjLWJpRURIX3hGc2tMM2EyWXVaYlFEcDRESVVWUlRtaG9NZUx3NU1wNFF3Ql9NRFpaYlZ1aA?oc=5
 
-- From H-1B Curbs To Racism: What Shaped The Indian-American Vote In Midterms - NDTV
-  From H-1B Curbs To Racism
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHZTY1VmdGZ6Wkk4OTgzZ2RRZVhua3YwSDB3RUEyVXA5SG9OdHlJdjNCN21NX3FnTGV5WDgzeE04WTFkVkNpWl9wRVZMTk5CWVpqOHVLOXIwMHlpRmY4S1hSVjgyaHpCNlYtU2FnTDJDZ3R4aDNidXZPSEZyZFM3andSMkdXRGV2U0hWQkQwN0Q2cF9QOUxYOGRYNnVfMDhjUEtwZzFFS1ZjRXBWbkZrdUprc3paSDF2VEJXS2doSTlucnRPWnl6OGtfUzPSAdQBQVVfeXFMT0k3YzBGRzNvemMxUjBwcXBvWXgwQm9zalZfR3dGUXpHYldQMzJJR0RyVTg5UjYzMkNXOFpqRFZUOUx2ekNXSVJMY00tUUg4MTV1VFJXdHMtZEtSQTVjSVMtbm05aEFqejNVVlpMWjl5WmdqVGJ2b1prM2VWUjJvM0NWLUUwOG02Q2ptRHNhTEZYcEphNm82dXhCb2tVbzROQzRkSXBXYmVBdzB4OEY4N05lME5zUXg4Q0NicFN2TmVMaWJUUEdwQ0xIaHNiQU9RRDdUQjI?oc=5
+- Will Trump's US Midterm Defeat Spell Bad News For India? | Sushant Sareen - The Times of India
+  Will Trump's US Midterm Defeat Spell Bad News For India? |
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME5WTjlab1NyV3BnVGFxOEtQaUdaVElDbGlqU2dqc2UtM1BsZ29kUEZvQmFXb0tINFFWYmFQY3NJS3pMYk83YS1NSXpTdkZzNE1oNHJwYmtuV1pmendpQTA3STJtYzBPaTEyM3BNU1FNcXZsRTlJcERlU3lGMkktVjN0dmJjSDNRMGdLR3piMVEzQXR5NG1GR3ppUXN2RFVidlhNcE1SMWVncWJkTm40Sml5UlJGZ0s2ZkNTMS1talZMSEHSAcgBQVVfeXFMT092ZTI1SVZ3UGlsMzNUZFRyMHNGakJBX2dONEN4SFAtSFo3ZElodml4MWp0RUVFSFZZY2dyWGtaaHI1U2dLaUVCV1hEZlQ3Vm1CbUJnNHNJdnR4MFBiYmozTURPc1EwWmFuSDN1ZE1YeW8zczZiX2NNV1lMLVRiNEtaRVpLU1JRM2NhSGxZaUs1Y3RoRmlqVF9TemNFOWhEYVBsQ1FfOVBWbkxXYndpbmNFWFFwMWpkSFRzZS1EVWpSdUZ1T1Z2SDc?oc=5
 
-- 'Over a billion of them': Abdul El-Sayed's reply to uncle over marrying an Indian goes viral - The Times of India
-  'Over a billion of them': Abdul El-Sayed's reply to uncle over
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxNN3YteHctdU8wN09adExyUlFEUVRvM3RiQ0sxeWpDNzEzbENyT1V2clJEaFF6LWFmcmVLSmRRY2pwaS11V3BoaUg3YnZQV3N5YmRKYnZjTXM1RHprYzl4TGMwY3U4U2hwODc1clZmWWs2V2NPNnplSE1RVFBoSjVyTDRRZWFfTWV2SGNsNHFqaHZCTTdvem51eGFySHNFNV9jbVJpOHpCQk5JczFQLXN1Wl9TaEwzamtqWTNWYlR1N2cwOUFjQTVJVGdoTUJJZnIxbENsaXJOYlFVZ2ZJSkhuOXN6Y3JJNWZKeVF0T3pDajRNSC1NUkNBSXRCNnZyeXVOMGtNRG9YUTZnQ3ZKNUNWR0V0RknSAZoCQVVfeXFMTklfSDJnbGlnVlN4OW05bjl0N3pmSUZMNDRNbkw5VW1LU01HVlJNdUVsZFc3VlNXVkxQU29Ta3ZKdlZJeE1sUnVwRlRxSEdnOXozS3ctUkJIakhvTnduaEZiaUU0VTZ0VlpPaVVyZkRVTTlJNWYzdTBrRnZTRmZFTnAwS3JVOEdaTDBPa01vSXFEMm1FQl80a1pUVElFTHhBUHVEdlB1OF9pUzFfMGxZMVIxWU94ak1TU1RZMHlBcm9Ed2owRVc1Y1NIcW5kbF9uTVVYcE9BbjBjTXlJZk4yV1YtVzFyZ0FNdjBoamM2SEQzX0pPcllHYjlMYlhIWDEySFBuU0EyRktORHdMNERSbEJUVXF4N3RBNWpR?oc=5
+- US Midterm Elections: 3 Scenarios That Could Decide Dalal Street's Fate - NDTV
+  " target="_blank">US Mid
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkdyY1pYMTAzM2ZtY1dLelRnYjFZdDBGejc3azBNLWxNLTZPeWVtbXp5NnZBTkRaNTFFVm1JdDBMQjZzbW1WTVNIYmJRNEZTSDZmaE94UHBpMmJFN1ZuYWVqTnByZUU2VlpNV2w2M0ZGRFdLTEFhRzlvQTFkRzIwNWFNMEdvb1hFVzNGdE41NDNBbUJMYzd4V3RZdmZlMWVEQWNETmlHcDdjSFIwWC1KTFh1Z2NvajZUcXB1R1ZRMmpMREZnUkc4SlNESdIB0wFBVV95cUxPdDZSaG5LZHNEMjZ2OWtqVHc0a05QVXVJZ3ZjakFkdndRMENrSWdqYjZudW5xdlJIanhPVjlTcFZvdjQ5M3BvVXZ3cmdDdHAwa3FZRWJkdGtzUC1OZGJYOHVPc2R2Zk1fVWEzNkNqT1hudkRGejF1OURtVmN0RVQzaDZ0S3VPZS1vTXBILUJyeGVBVEFFNkZtUDQ1LUFZZXR1anEwRWNEWTlxN0NmdDRFMkUzLS1tdUdpZUItX3J2SjRMa0dlWDluM2F6ME5SUFNmMTlB?oc=5
 
-- Exclusive: RapidClaims In Talks To Raise $30 Mn From WestBridge Capital, Others
-  AI-powered SaaS startup RapidClaims is in talks to raise around $30 Mn in a funding round led by WestBridge Capital.
-  🔗 https://inc42.com/buzz/rapidclaims-in-talks-to-raise-30-mn-from-westbridge-capital-others/
+- Foreign Donors And Pak Links: Centre Accuses CJP Of 'Anti-India' Funding - NDTV
+  CJP accused of 'anti-India'
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXM0Vm5KWDE0MGhkTjBhbUVSTXc2U0NJRzZSZ25JM2tYZDlMVzVmMmtRdnRDbGFmdFFMbERVTWRwVUVXT2NkZy1Ba3BQTDc1NzVQLUtmZ3NHVTBodG04ZFNSQURnZnJPRDQ0M3FWNXczV2dkOXAzd2k4NWpSc1hsZWk0eE9zaVltUmxZNEYzWXRLRlZrYVdFLUhPejdaWEc5d1FmbFVQeXpZRkF1MExn0gG3AUFVX3lxTE9wSWl4UG1qbkxEQ3J0VGtCTUp2T1A4U0dwSlgtQWtPa01KVTdfaHJQRFN5SkVFb3NjUE5DMUlyaDJ1TkQ0THpfRFZiaWVQYlBvNi1GdXBqMEdrZ3FDXzgya0lIY05ldkxtX2U5bFlRWWVYX3BSUU1sSzJqMTIyWVNnS2FRUEIxZ0lXdUM3cjBucXRCUllQMHRkU3ZwcU5JTVF4ODhBNk1fWndacEFxc2NuNEY1UUp5bw?oc=5
 
-- Moneyview Q2 Profit Jumps 5X YoY To ₹201 Cr, Revenue Up 41%
-  Moneyview reported a 417.6% YoY jump in consolidated net profit to ₹200.7 Cr in the September quarter.
-  🔗 https://inc42.com/buzz/moneyview-q2-profit-jumps-5x-yoy-to-%e2%82%b9201-cr-revenue-up-41/
+- Mulling panel to review UGC equity norms: Govt - The Times of India
+  Mulling panel to review UGC equity
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2I2RlhYNHNlUVpiZUltQndIejdjOXFBd254cng3bm1vWVBtTkx5c3dqM1d3VTU3LTVDMEZNSkRITVlMZjVTV203QTR2aEhUMHFJSlFocUFWcG1vaUpLRW0zbGxOcmpNeDcyajNMVGVzRkVXX1IxUkxzUHpEWXkwUlpWNlhsMHhMR2VOVzZOOUhQc0V3RlBncmhoOGdKdWYzOFU3VVI2NmQ0QlRaNF9wTngyTdIBuAFBVV95cUxPMFNQd3FSWEV2eWNDMDNvcFVYcG0tR0JqeHN5VkRxMjI2U3B2OEx4X3djcHNoUDFoS0dqNl9pTVNUVmZ6TUpJTHFHU3NOOXFKUVBfV0tDelJzcEdQUHUyNzE1LVlvNkl5bzg1RGE5UVVDY3Z3Nm5YQzE1VXRwM0pEdFBqM1cxc2NLR1lqODFNbGxrTk82NDU4ZGotMVdhYmtDa0xrYVJIS1VtQ3U4dEpjTWRoNVdMWnVo?oc=5
 
-- Spacetech Startup Cosmoserve Nets $6 Mn, Eyes Commercialisation By 2028
-  Cosmoserve Space has raised $6 Mn in a seed funding round led by Japan-based Rebright Partners.
-  🔗 https://inc42.com/buzz/spacetech-startup-cosmoserve-nets-6-mn-eyes-commercialisation-by-2028/
+- CEO Harsh Jain Teases A Revamped Dream11 By 2026-End
+  CEO Harsh Jain Teases A Revamped Dream11 By 2026-End.
+  🔗 https://inc42.com/buzz/ceo-harsh-jain-teases-a-revamped-dream11-by-2026-end/
 
-- Sarvam’s Prism Enters India’s Growing AI Decision Model Race
-  AI models are increasingly being built to do more than answer questions. Some are now designed to make specific decisions.
-  🔗 https://inc42.com/features/sarvams-prism-enters-indias-growing-ai-decision-model-race/
+- This Is Not About Money: Deepinder Goyal Defends Temple Amid Credibility Row
+  Deepinder Goyal issued a statement addressing social media debates over the scientific validity of Temple&#8217;s brain-monitoring wearable.
+  🔗 https://inc42.com/buzz/this-is-not-about-money-deepinder-goyal-defends-temple-amid-credibility-row/
 
-- Daksham Capital Launches ₹300 Cr Consumer Fund, Marks First Close At ₹125 Cr
-  Multi-family office and wealth management group Daksham Capital has launched its maiden consumer-focused fund.
-  🔗 https://inc42.com/buzz/daksham-capital-launches-%e2%82%b9300-cr-consumer-fund-marks-first-close-at-%e2%82%b9125-cr/
+- Go Digit Q2 Profit Falls 31% To ₹142 Cr
+  Insurtech Go Digit reported a 31.1% year-on-year (YoY) decline in its net profit for the September quarter.
+  🔗 https://inc42.com/buzz/go-digit-q2-profit-falls-31-to-%e2%82%b9142-cr/
+
+- Venomics AI Raises $2.7 Mn To Turn Venom Into Medicine
+  Venomics AI has raised $2.7 Mn (around ₹25.5 Cr) in a pre-seed funding round.
+  🔗 https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/
+
+- SaaS Company RateGain’s Q2 Profit Rises 47% YoY To ₹75 Cr
+  Travel-focused SaaS company RateGain reported a 46.5% increase in its consolidated net profit to ₹74.7 Cr in the September quarter.
+  🔗 https://inc42.com/buzz/saas-company-rategains-q2-profit-rises-47-yoy-to-%e2%82%b975-cr/
+
+- U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics - The Hindu
+  The Hindu says U.S. midterm results may matter less for India-U
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQanVYUDdQVUFJZnljSjZLaDZKc2FxZDh4X3hRZmIzUGdNV0dRQWlCMmhMWWVHRGI0bjVSaGRZa0N3YjhNSjRHZWhxMXA1blo0VUF3Rk5DYjBybW1BTExTM0JrZzVuSmszd09VbjVkQWgtSzBQNXc4VTlMVFhBSE56Y1pjcmhpRkk0bVNCVXViUzB1QXA0Ym42QU1ESVNrbTZpdUkxUEtuN2dZekRjTDFhRzlxQV9hSEduR2R6Y1ZYYmVLelY2WmdLQ0UzNTgxM1RFUXV1Rmc0ajZqOHd2MVZObUlfaDFuMkNhVzNWamhudy04d9IB-AFBVV95cUxNODdPOFhLdmFsZzFacEVzd1dyTkw3WjNtb0M0cU5wRkR1aEc1cXFjRFZMMDVZMUk2SFdPeFJFYzZjX3NXNmZpWjlNQmpINzg5VkpUWFB1WVF6cmthTi01MWYtUS05SlhQbWRNS3pKRjh5eUZodDNya0JvNGZtQnBieERIdWdRMWlVWFg5NldkajczVDFlUUFTSjdRN0ZSOWQ3ZUpJN0tkZkFWbVZub2F5cC1BTHJfN3FobDdReHYxNUlUSUNjLWJpRURIX3hGc2tMM2EyWXVaYlFEcDRESVVWUlRtaG9NZUx3NU1wNFF3Ql9NRFpaYlZ1aA?oc=5
+
+- Will Trump's US Midterm Defeat Spell Bad News For India? | Sushant Sareen - The Times of India
+  Will Trump's US Midterm Defeat Spell Bad News For India? |
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME5WTjlab1NyV3BnVGFxOEtQaUdaVElDbGlqU2dqc2UtM1BsZ29kUEZvQmFXb0tINFFWYmFQY3NJS3pMYk83YS1NSXpTdkZzNE1oNHJwYmtuV1pmendpQTA3STJtYzBPaTEyM3BNU1FNcXZsRTlJcERlU3lGMkktVjN0dmJjSDNRMGdLR3piMVEzQXR5NG1GR3ppUXN2RFVidlhNcE1SMWVncWJkTm40Sml5UlJGZ0s2ZkNTMS1talZMSEHSAcgBQVVfeXFMT092ZTI1SVZ3UGlsMzNUZFRyMHNGakJBX2dONEN4SFAtSFo3ZElodml4MWp0RUVFSFZZY2dyWGtaaHI1U2dLaUVCV1hEZlQ3Vm1CbUJnNHNJdnR4MFBiYmozTURPc1EwWmFuSDN1ZE1YeW8zczZiX2NNV1lMLVRiNEtaRVpLU1JRM2NhSGxZaUs1Y3RoRmlqVF9TemNFOWhEYVBsQ1FfOVBWbkxXYndpbmNFWFFwMWpkSFRzZS1EVWpSdUZ1T1Z2SDc?oc=5
+
+- US Midterm Elections: 3 Scenarios That Could Decide Dalal Street's Fate - NDTV
+  " target="_blank">US Mid
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkdyY1pYMTAzM2ZtY1dLelRnYjFZdDBGejc3azBNLWxNLTZPeWVtbXp5NnZBTkRaNTFFVm1JdDBMQjZzbW1WTVNIYmJRNEZTSDZmaE94UHBpMmJFN1ZuYWVqTnByZUU2VlpNV2w2M0ZGRFdLTEFhRzlvQTFkRzIwNWFNMEdvb1hFVzNGdE41NDNBbUJMYzd4V3RZdmZlMWVEQWNETmlHcDdjSFIwWC1KTFh1Z2NvajZUcXB1R1ZRMmpMREZnUkc4SlNESdIB0wFBVV95cUxPdDZSaG5LZHNEMjZ2OWtqVHc0a05QVXVJZ3ZjakFkdndRMENrSWdqYjZudW5xdlJIanhPVjlTcFZvdjQ5M3BvVXZ3cmdDdHAwa3FZRWJkdGtzUC1OZGJYOHVPc2R2Zk1fVWEzNkNqT1hudkRGejF1OURtVmN0RVQzaDZ0S3VPZS1vTXBILUJyeGVBVEFFNkZtUDQ1LUFZZXR1anEwRWNEWTlxN0NmdDRFMkUzLS1tdUdpZUItX3J2SjRMa0dlWDluM2F6ME5SUFNmMTlB?oc=5
+
+- Foreign Donors And Pak Links: Centre Accuses CJP Of 'Anti-India' Funding - NDTV
+  CJP accused of 'anti-India'
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXM0Vm5KWDE0MGhkTjBhbUVSTXc2U0NJRzZSZ25JM2tYZDlMVzVmMmtRdnRDbGFmdFFMbERVTWRwVUVXT2NkZy1Ba3BQTDc1NzVQLUtmZ3NHVTBodG04ZFNSQURnZnJPRDQ0M3FWNXczV2dkOXAzd2k4NWpSc1hsZWk0eE9zaVltUmxZNEYzWXRLRlZrYVdFLUhPejdaWEc5d1FmbFVQeXpZRkF1MExn0gG3AUFVX3lxTE9wSWl4UG1qbkxEQ3J0VGtCTUp2T1A4U0dwSlgtQWtPa01KVTdfaHJQRFN5SkVFb3NjUE5DMUlyaDJ1TkQ0THpfRFZiaWVQYlBvNi1GdXBqMEdrZ3FDXzgya0lIY05ldkxtX2U5bFlRWWVYX3BSUU1sSzJqMTIyWVNnS2FRUEIxZ0lXdUM3cjBucXRCUllQMHRkU3ZwcU5JTVF4ODhBNk1fWndacEFxc2NuNEY1UUp5bw?oc=5
+
+- Mulling panel to review UGC equity norms: Govt - The Times of India
+  Mulling panel to review UGC equity
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2I2RlhYNHNlUVpiZUltQndIejdjOXFBd254cng3bm1vWVBtTkx5c3dqM1d3VTU3LTVDMEZNSkRITVlMZjVTV203QTR2aEhUMHFJSlFocUFWcG1vaUpLRW0zbGxOcmpNeDcyajNMVGVzRkVXX1IxUkxzUHpEWXkwUlpWNlhsMHhMR2VOVzZOOUhQc0V3RlBncmhoOGdKdWYzOFU3VVI2NmQ0QlRaNF9wTngyTdIBuAFBVV95cUxPMFNQd3FSWEV2eWNDMDNvcFVYcG0tR0JqeHN5VkRxMjI2U3B2OEx4X3djcHNoUDFoS0dqNl9pTVNUVmZ6TUpJTHFHU3NOOXFKUVBfV0tDelJzcEdQUHUyNzE1LVlvNkl5bzg1RGE5UVVDY3Z3Nm5YQzE1VXRwM0pEdFBqM1cxc2NLR1lqODFNbGxrTk82NDU4ZGotMVdhYmtDa0xrYVJIS1VtQ3U4dEpjTWRoNVdMWnVo?oc=5
+
+- U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics - The Hindu
+  The Hindu says U.S. midterm results may matter less for India-U
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQanVYUDdQVUFJZnljSjZLaDZKc2FxZDh4X3hRZmIzUGdNV0dRQWlCMmhMWWVHRGI0bjVSaGRZa0N3YjhNSjRHZWhxMXA1blo0VUF3Rk5DYjBybW1BTExTM0JrZzVuSmszd09VbjVkQWgtSzBQNXc4VTlMVFhBSE56Y1pjcmhpRkk0bVNCVXViUzB1QXA0Ym42QU1ESVNrbTZpdUkxUEtuN2dZekRjTDFhRzlxQV9hSEduR2R6Y1ZYYmVLelY2WmdLQ0UzNTgxM1RFUXV1Rmc0ajZqOHd2MVZObUlfaDFuMkNhVzNWamhudy04d9IB-AFBVV95cUxNODdPOFhLdmFsZzFacEVzd1dyTkw3WjNtb0M0cU5wRkR1aEc1cXFjRFZMMDVZMUk2SFdPeFJFYzZjX3NXNmZpWjlNQmpINzg5VkpUWFB1WVF6cmthTi01MWYtUS05SlhQbWRNS3pKRjh5eUZodDNya0JvNGZtQnBieERIdWdRMWlVWFg5NldkajczVDFlUUFTSjdRN0ZSOWQ3ZUpJN0tkZkFWbVZub2F5cC1BTHJfN3FobDdReHYxNUlUSUNjLWJpRURIX3hGc2tMM2EyWXVaYlFEcDRESVVWUlRtaG9NZUx3NU1wNFF3Ql9NRFpaYlZ1aA?oc=5
+
+- Will Trump's US Midterm Defeat Spell Bad News For India? | Sushant Sareen - The Times of India
+  Will Trump's US Midterm Defeat Spell Bad News For India? |
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME5WTjlab1NyV3BnVGFxOEtQaUdaVElDbGlqU2dqc2UtM1BsZ29kUEZvQmFXb0tINFFWYmFQY3NJS3pMYk83YS1NSXpTdkZzNE1oNHJwYmtuV1pmendpQTA3STJtYzBPaTEyM3BNU1FNcXZsRTlJcERlU3lGMkktVjN0dmJjSDNRMGdLR3piMVEzQXR5NG1GR3ppUXN2RFVidlhNcE1SMWVncWJkTm40Sml5UlJGZ0s2ZkNTMS1talZMSEHSAcgBQVVfeXFMT092ZTI1SVZ3UGlsMzNUZFRyMHNGakJBX2dONEN4SFAtSFo3ZElodml4MWp0RUVFSFZZY2dyWGtaaHI1U2dLaUVCV1hEZlQ3Vm1CbUJnNHNJdnR4MFBiYmozTURPc1EwWmFuSDN1ZE1YeW8zczZiX2NNV1lMLVRiNEtaRVpLU1JRM2NhSGxZaUs1Y3RoRmlqVF9TemNFOWhEYVBsQ1FfOVBWbkxXYndpbmNFWFFwMWpkSFRzZS1EVWpSdUZ1T1Z2SDc?oc=5
+
+- US Midterm Elections: 3 Scenarios That Could Decide Dalal Street's Fate - NDTV
+  " target="_blank">US Mid
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkdyY1pYMTAzM2ZtY1dLelRnYjFZdDBGejc3azBNLWxNLTZPeWVtbXp5NnZBTkRaNTFFVm1JdDBMQjZzbW1WTVNIYmJRNEZTSDZmaE94UHBpMmJFN1ZuYWVqTnByZUU2VlpNV2w2M0ZGRFdLTEFhRzlvQTFkRzIwNWFNMEdvb1hFVzNGdE41NDNBbUJMYzd4V3RZdmZlMWVEQWNETmlHcDdjSFIwWC1KTFh1Z2NvajZUcXB1R1ZRMmpMREZnUkc4SlNESdIB0wFBVV95cUxPdDZSaG5LZHNEMjZ2OWtqVHc0a05QVXVJZ3ZjakFkdndRMENrSWdqYjZudW5xdlJIanhPVjlTcFZvdjQ5M3BvVXZ3cmdDdHAwa3FZRWJkdGtzUC1OZGJYOHVPc2R2Zk1fVWEzNkNqT1hudkRGejF1OURtVmN0RVQzaDZ0S3VPZS1vTXBILUJyeGVBVEFFNkZtUDQ1LUFZZXR1anEwRWNEWTlxN0NmdDRFMkUzLS1tdUdpZUItX3J2SjRMa0dlWDluM2F6ME5SUFNmMTlB?oc=5
+
+- Foreign Donors And Pak Links: Centre Accuses CJP Of 'Anti-India' Funding - NDTV
+  CJP accused of 'anti-India'
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXM0Vm5KWDE0MGhkTjBhbUVSTXc2U0NJRzZSZ25JM2tYZDlMVzVmMmtRdnRDbGFmdFFMbERVTWRwVUVXT2NkZy1Ba3BQTDc1NzVQLUtmZ3NHVTBodG04ZFNSQURnZnJPRDQ0M3FWNXczV2dkOXAzd2k4NWpSc1hsZWk0eE9zaVltUmxZNEYzWXRLRlZrYVdFLUhPejdaWEc5d1FmbFVQeXpZRkF1MExn0gG3AUFVX3lxTE9wSWl4UG1qbkxEQ3J0VGtCTUp2T1A4U0dwSlgtQWtPa01KVTdfaHJQRFN5SkVFb3NjUE5DMUlyaDJ1TkQ0THpfRFZiaWVQYlBvNi1GdXBqMEdrZ3FDXzgya0lIY05ldkxtX2U5bFlRWWVYX3BSUU1sSzJqMTIyWVNnS2FRUEIxZ0lXdUM3cjBucXRCUllQMHRkU3ZwcU5JTVF4ODhBNk1fWndacEFxc2NuNEY1UUp5bw?oc=5
+
+- Mulling panel to review UGC equity norms: Govt - The Times of India
+  Mulling panel to review UGC equity
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2I2RlhYNHNlUVpiZUltQndIejdjOXFBd254cng3bm1vWVBtTkx5c3dqM1d3VTU3LTVDMEZNSkRITVlMZjVTV203QTR2aEhUMHFJSlFocUFWcG1vaUpLRW0zbGxOcmpNeDcyajNMVGVzRkVXX1IxUkxzUHpEWXkwUlpWNlhsMHhMR2VOVzZOOUhQc0V3RlBncmhoOGdKdWYzOFU3VVI2NmQ0QlRaNF9wTngyTdIBuAFBVV95cUxPMFNQd3FSWEV2eWNDMDNvcFVYcG0tR0JqeHN5VkRxMjI2U3B2OEx4X3djcHNoUDFoS0dqNl9pTVNUVmZ6TUpJTHFHU3NOOXFKUVBfV0tDelJzcEdQUHUyNzE1LVlvNkl5bzg1RGE5UVVDY3Z3Nm5YQzE1VXRwM0pEdFBqM1cxc2NLR1lqODFNbGxrTk82NDU4ZGotMVdhYmtDa0xrYVJIS1VtQ3U4dEpjTWRoNVdMWnVo?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -180,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Tech barons cozied up to Trump. What will they do in newly blue America? - The Guardian
-  Tech barons cozied up to Trump. What will they
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVF1N0dWOW9Fa2R0WXdnZVYyLTdrRElfck9KQ3NpTzkzM3A4VUFVR0QweEhNX2NURWU2eW14bEg3eXI0MnNacUZUSGRLekczaGRsZjQ3MkNZZEVVR2t4UjdiS3BwVUY2SVZjbTdMcGNSOGtkdDNzMzBXdnE1eTNBdlctUU1ISVR5TmM2XzExSFl5bVV0a3k4?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India’s biofuel readiness: from vehicle technology to feedstock security - ChiniMandi
-  India’s biofuel readiness
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmpBTkV1YWdzR3NtU1U5YlFsUUY1UnRjT2ZFeG5iRTUxdWFYVWlvVUpTa3FTMEFfTVFGVEhuR1dIenBKa2NiUVYwZGxSY196VG8tbkE2aVFWQ21ydHpjc0dJcGtVUjM4UG5jZklfS3pITm15RjRodVRJeXdFdFdEVGFiQURvUTh2TFd3TkJscTlRVGdKTWppRWN2ZU4tdVE?oc=5
-
-- Aimpoint Helps Define the Requirements for Future Semiconductor Technology - Cision News
-  Aimpoint Helps Define the Requirements
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOa1VTU3pqY0VmQldMT1JwUmpiTWdiYnpTeVpYZnNEaVpWWkZFdUV5a3dsQ3owSEFraVNSY1pQLVozOTRaVDhUcVhVZldmbU1rS3k2VFRlMzc0WVpGRGNmaTVMVVplcEZFWEFyWUQwWU9abWxhRUQ4MGtwRVBrTW1RbnNQM0Z0c25JckhtMkhfZlNVdDJPUHZfSEhDU3FpV3Z5RF8wdWpiOFRNNWR3cVVESkVYUXRkQWFMU1E?oc=5
-
-- SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service - CNBC
-  SpaceX signs deal with Qualcomm to provide network technology for
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXlJT3R0clJVSkpBRkR1TGp2ZU0zWTljNV9VQ1F1a3hiUVdudWJpM3h5aXZWcDhDZEhNU19CQlpGV1RKZmhZbjVhV05rWkdCbFVma2JPMGplSUE5a3NYMk10U2Q4NDYyWmJCNnljeDFWVmt0c053WnJoaHRjSkNCV01FVFZucTQ0SFBQOHA4aFBMTkItb3E2SmlpdWNDNXVjd2xZeHl2b9IBrAFBVV95cUxPUXo4bEVDS3N4cUlPeThFajVycVB0ejdqSUpJYzZPMlAxTFFIcnROeDNNX1F4NmlVYUNZRXp2R2pfendpdkhaQWx0NHljdFl6U0dJekJYWFZObERiTzZ2S2dORlgzXzVDZkFTZ09QNlo2Qkt0N0stM1NwUjktQ1oxUzZEZVZfTXFkd0djVTkyeFJCYTRzczExSnBOc3R4dFdXLVR0SFRCY1psTXJ2?oc=5
-
-- 6G could add $1.24 trillion to global economy by 2040 - ET CIO
-  6G could add $1.24 trillion
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNQm1yQ2R3ek5VcEt3aE1ieXNoZmJYemxLLXdaaEZYNzlaVEE4Yk9BeUF6WmZGTE53Vy1iS0kzOGxmNTFXTmxHdmw1c1g2cUgwQkNkcGRkUkV2aU5PNndEZTM2WmhUSzVVLU1lVmdVQmhaQjc3MmxFX1B5dl9VN1V4TkI5V1FrOUsxTVlvZG5PVTl4ay1xamFiVzBENEtLNk9yelVnaVNsQXpBN1Z6bjZZeHF0eG9tZW9laU0xbTdGN2JHd012QjJza0gxTXdpWlVwSHlXVHlEdDBJVWVHYTFLOEhqZ1FTcHREa0N6akEwTXI5RGw1RElFd0J5UGYzLXdlbHpvbTdrUjFnVjNtVmV1bXNn0gHPAUFVX3lxTE1tWWFNakhNbEctNkx1T2dRa25SbGhBUkxOWmZDZURlT0VWd2xmN3dYMnJXZUx0MjVzbnAxTHUyNTlOekN1RmwyZVFMVXRveE82R2tSZ2ppWkZiQlNweHRCSFA1cjhKem5HZmVTdjVldEQ5Sk1WOWFZZmpFVjlPa2phMTVSaW0ybXZlS1BZSWRpX0QyWHRwVHIxQzU4REpUWTdiUHl0cjdHeVk4anhJTzNjZ05LYmh4UTFTWnE5dXlVVkhJNGVLZkZjNjRFeE5YTQ?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-05 13:55:41 UTC_
+_Last updated: 2026-11-05 23:12:25 UTC_
