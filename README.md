@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- Abdul Kalam Evaded Satellites At Pokhran. Now Punjab Farmers Are Doing It - NDTV
-  Abdul Kalam Evaded Satellites
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0U4UFdTbFpmT0RqMV9ybDByU2Q2Z0lXcTNLV09WN0ZmcTZUMjF1by1tb3NoT0plSVZ6ZVBWaUhoeFZhU2FXQ29iYzJMNXV4R3hZTGZRY01Id1R4RVZXUnZ1YmJPbXQyMm1XdXpXeE9Jb1NNMkpJUjYxVFFad0U5aWdSYVdQQTE1V1JESkNoU2tuX3lPNkpsLTlDWWxTcWRhLVp4LWdQeU5KdllzUlZLcl9wUdIBuwFBVV95cUxOdDEtRmNsb28wTFZ5b1BKLVVsN1YzT1lWOHVSTjFybmJyVDJGWXJ2ZlBEWHRJamFZckQ3TG9SQ0pHX1dmeGNTeWNTTFNzLVN4djZ5MWtfT1ZrUkxBZndFUy1mZElvTkdkejhiYmJDcUdkM3FpNjJVOHk4ZnlFVkZDM3A2Z1FKSUVyeVRIekRUMkg0NHFkSDB4blhfYVJVMmNxLVlMenNoUzZGMVMzQlZQemc0Vmt5OGhHZDFr?oc=5
-
-- ED tracking $1m transfer to 'meddle in domestic affairs' - The Times of India
-  The Times of India is tracking $1m transfer
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3YwRVh4N0pvR2d0ZHY5ZzB0WVNWY2JHOFI5dldhRTN0eEMxRS1Lck9mZnZUR19IUWc1U2NEelRNYzN5RE1PbmJGX2tGeG50NlQ2LXl3OUQ4SDVZRlRBMGpUS0VXbGlEa1AxUG1kOEZzZ0JkQ2dMYlk3UGxlQnJDcy1UVTV6NmV3bk5oMFVpa09fYVFZUUJGUVl4aXNYMUZEQVViNXdNQk8wc0JFaHpuTzFoTkxOcWVheTNsanV30gHDAUFVX3lxTE9TVWFLTS1Mc0w2WFdySW1jSUZuMl9qU1JSQjAwTkY5dXJEZEJmN0U0MDM5eHU0bUFlTW5JU0NGN18zenNHLThTa2xTaWs1Z1VJYTJGRExIX1pXNVAwa1MyMEhrTWRhRFYzdDNYNnQ3Wk0xekpSZ3hPTGI4UHZzNTktZS15WWQ4N01BY0E1cHRVaTJRNV95NWRYbzhjYjBFd3YzTkNFXzBHV1Y5WV9BVjVjR1d0U0VFVlM0WEhzZGpmWlMtWQ?oc=5
-
 - Sonia Gandhi interview: ‘Great damage done to the fabric of India by BJP’ - The Hindu
   Sonia Gandhi interview: ‘Great damage done to the
   🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2FvOHZGS2FpMXVnR3RwUFVLVEtYWjNOU3BZOWxNQ25SMDQ0aXY1aW11dlFZSEczNWdOYkYyb1gwSHRRcTFCQW84NkZZZkFEUmhLOVdlTzYycGZGamtqVHBPcFFYNW1HYmNaT0dpUjcyaE1kSEJ4a0tjRHFud05iWTJHdXJGOVVTcjZsd1RqQjZmZmZDV2NRdm1tbEduVDN5NDl6SERrUlJBd05tUmpreTZMZFNJTGRsTktKX0xLd1pvTWd4WkJBRNIBzwFBVV95cUxNaXhPVkhzVTNPNGpLd1FUTlNabHBYMWM1WDBIdllXb3F5V1pXR1BGZ0wyRk9OWmxqMU5pcWJHUEZpM3FPd3diYWI5bU82eWh3ZzNXS1FYcFB5QUZPcWp0QlFhQjhGSm1nYnN1bFh3UXEycm13bHBQVHh4XzdudmNHNXdJdW0xX0ozTTZOY3pzMkdrS0p1cHM3Rjk5Q3FyOFlDblNOU3FBa2lFUllWalNRUFRuRWh4WHFvdWNVWXJGeHZ6WkFSTXhCc0FiRmUzODg?oc=5
 
-- Has India’s democracy failed its Muslims? Jailed scholar triggers debate - Al Jazeera
-  Has India’s democracy failed its Muslims
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1hTbnFZcVRDVWFneGxUMVFYX2tTS28xTnNLam1MZVFKZlc4TmVjNER6V2dzTUZQM3N5MTUwckpySV9PR0NXbFJBVlI1WXNieDJTMmJzUFN6b25jTnFDcjJWc0NaY3RROUxNZVVFcE9La2RUREhSNWdoSndwMDF1SkJpaDcyenNsM3lzY2VqRlZQZmZSa3hPc2E5WHdMQUlVNElydlZHZkxpNExSaW5ocNIBtgFBVV95cUxNVnJMRjBzMzJoT1dEUjNCNkpLcEgxZ3p0RW5pZ0I0UnYyRW1OSUpCS0tFV1l0bVJpNTRGU2FjNUN4VDB3UG1VNVNWbmh2LUxvdVZyQ2RiWEhoZXlSWWpHdWZDTEFtMjlFc3piVXRUVURTUkExSFFfM2wxZVRMbmdWem42YVBYWEhkbUhIUmU1OEF0Tm9XLUdPTjFOUUp0Vzc5aWkwN0p2a0pwaE03U0o3aUtLX203UQ?oc=5
+- Foreign Donors And Pak Links: Centre Accuses CJP Of 'Anti-India' Funding - NDTV
+  CJP accused of 'anti-India'
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXM0Vm5KWDE0MGhkTjBhbUVSTXc2U0NJRzZSZ25JM2tYZDlMVzVmMmtRdnRDbGFmdFFMbERVTWRwVUVXT2NkZy1Ba3BQTDc1NzVQLUtmZ3NHVTBodG04ZFNSQURnZnJPRDQ0M3FWNXczV2dkOXAzd2k4NWpSc1hsZWk0eE9zaVltUmxZNEYzWXRLRlZrYVdFLUhPejdaWEc5d1FmbFVQeXpZRkF1MExn0gG3AUFVX3lxTE9wSWl4UG1qbkxEQ3J0VGtCTUp2T1A4U0dwSlgtQWtPa01KVTdfaHJQRFN5SkVFb3NjUE5DMUlyaDJ1TkQ0THpfRFZiaWVQYlBvNi1GdXBqMEdrZ3FDXzgya0lIY05ldkxtX2U5bFlRWWVYX3BSUU1sSzJqMTIyWVNnS2FRUEIxZ0lXdUM3cjBucXRCUllQMHRkU3ZwcU5JTVF4ODhBNk1fWndacEFxc2NuNEY1UUp5bw?oc=5
 
-- Pyre: Indian film on elderly couple's love and loneliness won 18 awards - now it's wowing audiences - BBC
-  'Pyre' is an Indian film about an elderly couple's love and
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WTnFsU3BST0FXTE44RHBHd21xd1NxX0JlNGs0d25ZR0d1eXc3RkFnWDNySDBqQlhDZXNkLU5udEtUeHZHZXo4NkdmbFpwZ25zZWNsU09tNURMN0k?oc=5
+- Army debunks Pakistan propaganda about 'Chinese troops inside Arunachal' - The Times of India
+  The Times of India reported that the Pakistani army had
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTdITnZIS21QT0FuTmc1WVVlLVp6ZjcxLWlrMTNOc1Q4VWw0WFgxUzh6czRERFNTTkxOSWRIVnktQkFzMFNRU3FYRVpGb1FuVUtOdHBSdmpzTDEyUVN0SE1DeFhzUXBoc2daTWZseC14UjM0Sk1NRTE4MDk1WWVyX2tCQW1fd3JOc2dLUVBTbmltVXFNcHRtYmh2djQ0RTVoLS1INXBuRHhTODFYUmktX05rUlZhaDZmNjFEM01GbDdZNEVPdFlQZ2ZhbjVxVjRMVjJ3UtIB2gFBVV95cUxOOEU0LW53dWZ4RDFJcUJuVkxyMHpHTmYtRUVkU0wtQ2RBR1NTV1hTOF9pc0ZJUGJtRnBEdlJQRllYNFI4VmFjVUZHajBpdTVuelJkSnJHbUFCVXpsWWpYRm51NUpaTDBFZ2xCVTRGdXpLVmp3Q3p6aFVLVF9WNUd4RWVwS2RKamZzZ29zVkM2bF9VRTVzbnZzNXZiUGFDVFhLaEx1SmlsR1VncEx6UFlIemN6OVh2NkVpSW9VeS1ud1AwbWk5eUFtUl9RbFFZLVdOSU1XeGZoeWVCQQ?oc=5
 
-- US tech stocks edge up after AI slowdown fears hit value of firms - live updates - BBC
-  US tech stocks edge up after AI slowdown fears hit value of firms.
-  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLOFVxRnRvbGdVMGt1OURWc3Y3SFhRc29RNXRld184ZVBJb0tJSm9oaGhMQ25zSWpHQUd6cjhaRnFVM1NiUGZUTGRWejJ5b3VBeXZIbUR3?oc=5
+- Mohammed Shami retires from Test cricket - Cricinfo
+  Mohammed Shami
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmdRcUE4OEFMcjQ0b0dXYktyWVZQclNqUFRrSkdtNFcyaUFUNWVFaHQ0RnIyb1VjN09nZzY0eXpsdVhMVm92OEhhUnlSeUdRUVduTnBMRWJMWUhvekc0eWNWaVI3TDFxMmd6LS1WUExQelhPZkktRUM2WEpNMTRiLUtKMWNRNW1lVTIzU2JXQUhhanlW0gGmAUFVX3lxTE9ZWTlvSDVXWDlVWThfQVRxNjBDVTFFZGtCRkRSeS0ycjVNeGxkWDJqbjJiQk1DUUl4RlZLTkY2ZHBEV2xpQTBraml6TnBheE5Wd0NCb2RPMTJFeVUyWE5oajFJZS1IM1RDRVhSSXk2YXd4THliMnRCbWRNZWhpdEQ4cmcyMjl3U3loTjR0LVhiRkYzUTdma3B4NC1UaDdGYjYtSDd2WUE?oc=5
 
-- Meet Palmer Luckey, the 34-year-old billionaire who sold Oculus to Facebook for $2 billion and built a $6 - The Times of India
-  Meet Palmer Luckey, the 34-year-old billionaire who sold Oculus to Facebook for $
-  🔗 https://news.google.com/rss/articles/CBMiwwJBVV95cUxPT2JSSDRGRmt5UGlNRmVITlZDUTJDQndRX28zU3J0QV9FQm1jVmtnSV9mSDRaaGRMQlNtNzBneDNpREpBZzJBanNIXzFKejdQOXc3Vm5WOGtjdFBsQUF3dUlXQVZjaFQwRks5NjlraU8xV1ZsRTdzSUZXWUlWUzhBbkptRUc5cTZIQ3RzdGh3bW4wdTMwRmt1ellrclBnTWFGV1hrX1pJSTAtM3R0dmdLSjlXY2YxTktiRU9xaHdFS2xxTkkyMlZnM0ZWSzg1MHRjamJsUXZuYVlfcjRVaWFnR3B5ZVZGNFRvYWQtNFdPYU5LbjhybnFDZ0YzTGhUU1pIa1YyMWtzVjZwbEw0cXRKS1lmdVg1U2RVWVVHTUtINEZMbF85YWk1R3dwS1hIeGJHZk5yT1YwTE9CbkhZRkNTalI5UdIByAJBVV95cUxPSjBaM1FSdDVXQUcwRjBOeEJUWEVtU0pxN2d1WkYtNFdxYWFnYXlnME1aWGhfQnlMdE5qNTRPMkVRVG5qLXpvUHFKLVBBaW1iMFp0eG9iQTN3SWQzblkwQkFpWEREejluWmItODVTM0NFbUsyTk5zbm9FUTloQ3N2a25Fa2NfZGY2N25iOEttS281bUZJNGhCYnNPR1VnS09MalV0azhrYU5YdThzQVZndHp5ODlPa1JrcUFEZHNwNzFfcjF1dHYxRWxPSWZ6Uk5rSzdwWkVaU1NiNnZkSEtpWW1CSkFLX2JUTTRBak9jWXRfUVVVV3cyaGVLaFg1TEtJZWdyNVlqZkhHY3lqOHhfSEtSV2lQQVAzdDZmTGlZU05wNmxISHFSZU9TTXBUejZ6OGtXVVlzaEFoRUNGbWxnejc5YmZuc2Fh?oc=5
+- India news: Vehicles major cause of Delhi pollution, top court says - DW.com
+  India news: Vehicles major cause of Delhi pollution
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNeV8yUXhQblE5d3k0d21Ud0tHRWJ1OHk0Vl9FTDBXQ3B5dWJPRnFzalR4VkNzZ2FnRlpxd2kyS1MzYzJjNjhtUkNpaHVyU1ZBM0tfRm1STHlsRktndzE1cVBXeUt5QmNyQVdZaE9qdDhoU2MzbDFGWk5obEtTNi1Vcm1qcERpcnlSTTJkSjQ4NjBZakNUeVJqUlVGcndBcGZVUjh3?oc=5
 
-- VISTAR: India’s shift towards a real-time, technology-driven statistical system | Explained - The Hindu
-  VISTAR: India’s shift towards
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWmJqQVdlSmZzOUk1dmJ6SlpQSnFEaGpjbzdBTVFvVGl5OFVUWXdqUFJsUlozc2xsOFJMSk12WHB2UXE0aU9VMENfb1hycDVBejZoMzlrMGY1ek9lTVpyX3B3ZEZRQUtwVW5ITTRyTFduQmQtVmlpV0dxX1N1TmhoSzl2eF9HS2RSQXpUU2pYMml2eXBWLUVCQWJHUi1tM1M0QlhoZVB1NENpcTNUTnFzMUt5SUJpc0Nib2ZEaHAxNVZQc0ZZS2ZFTjZaZjlWZXIzcUx3eFMzN0lXV2s1MlR5M25n0gHoAUFVX3lxTE5SdTdQc3RlTl9kSGdoMXJLLVVhbGdVTlNodi1HbWpFYVo0dG95SjJwNldyZC1MdFFWSmFfVVBsNHRoRGE0RUVDRjNERzAtby1iQV8tYUVrSDBiYURrYVM5LWtLOEx5dGpieFJUdnZEWkpmeFpVWmM3VjlsdEQxMzFlWFhEOTVfUXg2R2dDRFRFVXF6QTg5QkNybDBHczFOanVLMVN4cFZlWEw4WHlaSVkxbmtqbUlWVlVRNkEzNm9ucUZCYmRSU0hSempaWGxIWXRPbkJ5cFFpQnVfZ2t6Tk03V3kzbDNqejY?oc=5
+- The datacentre arms race hits pause in south-east Asia - The Guardian
+  The datacentre arms race hits pause
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHVPaXM3YWlYQVc1YWswREhaRnNDUkhZLWtnenRKeXlmQ0w0RDBTTzBIT1NqUHU1dzZwdzVvSC1fenFsNTVwMXVVelkwc3ZsSTR4QVpCZ3N0VnByNVhSZFJQc2E2TUctMXVhc3VGWTdaTElLdFhaRk03ODBvZ2M0Ni11dw?oc=5
 
-- Fearing AI disruption, white-collar workers are quitting their jobs - The Guardian
-  Fearing AI disruption, white-collar
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnFTWWhzamcxS0dYX1JlNHRkaDhzdlhEbkhZRGNWdlV1REhMdkFPNmlGRmJtTHJnbjNzQ053aUtoQy1jYWlkcFNIaGNRS2ZNY1JmQlJDcEZ4V0Nodm10N05WcDFNcHBiczdtVUNZRmNFQ2RMNHAzQ01kS2RWRW5GS211QQ?oc=5
+- Inside one of Europe's biggest technology events - BBC
+  Inside one of Europe's
+  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ITVE4ekpheGlWbHd6Q1pKV3dGbkxyal9PY2pyU0tMR1VWZi14bG5hSG0wMXNaMTg5RGpiY2xsOE5ELXQ4cDVVWDZ5QzBHb1VlTjRRR1Fnd1U?oc=5
 
-- IISc honours eight alumni for contributions to science, technology and society - Deccan Herald
-  IISc honours eight alumni for contributions to
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeDFublBlbDZXNFRwakFGVWVFN2h4U1dYWHo4T3FwSHNLU09YV0xwazZBV2dZRUVwWjFtTGhnQWxiclM1d01zRDBCY2FHa00zQjRNeWYxaWlXSkx1S2hUSHBvN3NncU5PSmxmQkxMMHNITVdaTWFEZ1JtQ3NvNGpGY1J6RTl5MzlmdWxxY0wtY2IzUVhBNG1ZNmwwUklqLS1MZkhLT2dnX3JObmtVWlpRYURrN2RIS3ZQNlhRdVNQS0toZGdqZHVVdlVwRU5sSXZZZ2ttVWNwQQ?oc=5
+- TECH GLOW 2026 Celebrates Technology, Innovation, AI, Research and Diwali at IEM Kolkata - TheWire.in
+  TECH GLOW 2026 Celebrates Technology, Innovation
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTE1ONGF3d2pTd2VaYVh3bTZxVGp6X0pqSUJjRXdsMzZfMUstd3BBcTdudVA4SDZhLUJLMmRXRHdQcUFNMWJOc1Q4MHBkdGFSWkd3R3EtV0E1MnZ2M3VsNHN4bnFTR3Z5dDRjd3JIMXQ5UDVyYS1tbk5oXzdVakJ4Z1lELVlHVUxON2ZYWGRFNjB6Wm1mQ3NzUS1lVG8tbkFDQXozRy02MUp3bkdYRC1zYmxJMEJGck5DUDVXR2w0dUFrUdIBxwFBVV95cUxQR09JMF9KTXRXWG9iNC1kRUYwWGtETHEyNTNnWlZSazY2QjNIQzNTM2FOdkxUeHJwc0ppN2puTlg2X1AweTV0em1oN0h5VlpfRDI2c3VpT0RSYXRXMzZILVltRGZKWVl1ZkFhVktCRXo3Zkl5LXdQQy1JeTZUdmpGZVd6UjZxNmNFbm5KUzZBcTJ3NE9PVUdSemxkS0ZkWXpSR0FhRGxqWV85V1pHVVA0Vk5mOWZvQ3YyNU5EbUtudXZzWVlxdDNn?oc=5
 
-- OpenAI raises $11 billion at $1.25 trillion valuation amid concerns over AI spending and regulation
-  OpenAI has secured $11 billion in the first tranche of a funding round valuing it at $1.25 trillion. The fundraising comes amid a tech sell-off and
-  🔗 https://www.livemint.com/companies/news/openai-raises-11-billion-at-1-25-trillion-valuation-amid-concerns-over-ai-spending-and-regulation-11794022360992.html
+- Mahesh Babu on gaming: It is a space where art meets advanced technology - The Times of India
+  Mahesh Babu on gaming: It is a space where art
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWDZkbWFyUUpQWEpoTFluYzN2OHRlQTFKQVNSQWY4d0lkemdVSkgyZWJQcV8tWExKQXRwdEFfYXlzVW54SXE3aGFmX3VEMDFqcTVZdDFNbzVNSkFSbXY1S282Z0gzS192X1NmWHh6S3NSWVdIdjRWVmtBTW1lM1JmMWRqbDZkWlBvS2V1Z0loemY3eXlrMDkySUlLVU9NTVZSTDVKaUk5eWFaMjRTd3o4ekJ1U1dHdG9VX2pVWDRSY2w4WXFwRUpLdzMtZklkbzJiZWtuUWx1VUFFd21JRG9May1GUTllUVU5bTRVYl9lYThzN2RDcl80S1UteXnSAYICQVVfeXFMUEtIS0hYUzhOVEw4Y2Y1eDhjbFVTcUFWUmYtOHJLRmI2Y3BUTjlMaVdJNW4tTkVlZE9vT0xMNlhIdWxnVXR4TnU3QkJwSlUtbEhLVTY3Vm92c2oyMXlna3dnTzBfYkRxRHFKNnNnREhyM0pQZGg0X1JkdHNpTzBhbXlYdkl1dmtoX0JLQTdmcTFHRUZBZW1uTHRHUVRSa085WFQzNjV4Mzd0ZE9nRHQybVRvcnVtUG42X293bENmdW5lay1EOFZacEExUW5jd29Dc0dDZE42QjZCM1JWQVNvVUplSlR1U3RsV1BmUHlZanhpTkhON3RoY1RXZHl6bjZFOThn?oc=5
 
-- From 250,000-unit ambitions to a production wind-down: What went wrong with Elon Musk's Cybertruck?
-  Tesla will wind down Cybertruck production at its Texas factory by mid-2027. The pickup struggled to meet sales expectations
-  🔗 https://www.livemint.com/companies/news/from-250-000-unit-ambitions-to-a-production-wind-down-what-went-wrong-with-elon-musks-cybertruck-11794016680043.html
+- UK deploys China-style surveillance to track visa overstayers as immigration crackdown tightens for Nigerians, Indians and South Africans - Business Insider Africa
+  UK deploys China-style surveillance to track visa overstayers as immigration crackdown tightens
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYmVXeHJteEk4cUFVd0txOTBRWDVxUGhhTTA2OUxOYTYyeDFSWFFScU1BZk8takp0QnVnNGhPU0lDOWNCMXhZMV9vS0Nnby1PSEkxTjB1QlFCNkdIRjRIYkFta3JLVDZzQnlGZEtEc0x4eXo3MWhmUXJFLUJLTkxZQXhRRk5EZnQ4UVhGaS1wXzhGSFB3cXdNb2tBMUhQOU5fODlyS3RTV2x3WE8yN2hhOWhieFp5OWlad3lQRmRaRTB2TFRGaWk3ZnRvRFowS3JKSzMzT1dOSWhCZw?oc=5
 
-- Anthropic IPO valuation: Why investors are lowering expectations after Wall Street sell-off
-  Anthropic's IPO valuation expectations have fallen sharply after a Wall Street sell-off. Investors now discussing a range of $1.2
-  🔗 https://www.livemint.com/companies/news/anthropic-ipo-valuation-why-investors-are-lowering-expectations-after-wall-street-selloff-11794013538561.html
+- Tata Steel beats Q2 profit estimates on strong demand, cost savings
+  Tata Steel management expects the second half of FY27 to be stronger than the first. This is
+  🔗 https://www.livemint.com/companies/company-results/tata-steel-q2-profit-iron-ore-demand-noel-tata-steel-production-11794048612978.html
 
-- Mphasis, Coforge shine in strong Q2 for IT midcaps while Sonata faces seasonal headwinds
-  Mid-sized IT firms delivered mixed Q2 results amid macro headwinds. M
-  🔗 https://www.livemint.com/companies/company-results/mphasis-coforge-q2-earnings-sonata-hexaware-headwinds-11793957129564.html
+- Microsoft's $1 billion Amsterdam data centre project faces protests over AI infrastructure costs- details inside
+  More than 100 activists occupied Microsoft AI data centre construction site in Amsterdam on Nov 6. Protesters have raised concerns over electricity and water consumption.
+  🔗 https://www.livemint.com/companies/news/microsofts-1-billion-amsterdam-data-centre-project-faces-protests-over-ai-infrastructure-costs-details-inside-11794048139305.html
 
-- QatarEnergy eyes NextDecade Train 6 supply in latest US LNG push, sources say
-  QatarEnergy eyes NextDecade Train 6 supply
-  🔗 https://www.livemint.com/companies/qatarenergy-eyes-nextdecade-train-6-supply-in-latest-us-lng-push-sources-say-11793999875466.html
+- Who is Angan Guha? Ex-Wipro and Chicago Booth biz leader now CEO for Americas 2 Strategic Market Unit - Achievements
+  Wipro appoints Angan Guha to lead Americas 2 Strategic Market Unit. Guha left Wipro four years ago to join Birlasoft
+  🔗 https://www.livemint.com/companies/people/who-is-angan-guha-ex-wipro-biz-leader-now-ceo-of-the-americas-2-strategic-market-unit-education-achievements-11794042316526.html
 
-- Three warship manufacturing stocks to watch in India
-  Consider stocks with a focus on warship manufacturing. Here are 3 such stocks with
-  🔗 https://www.livemint.com/market/stock-market-news/three-warship-manufacturing-stocks-to-watch-in-india-11793980065116.html
+- ONGC Videsh’s eyes on two Venezuela oil projects; know what finance head Anupam Agarwal said on $500 mn dividend
+  ONGC Videsh, the overseas investment arm of ONGC, has over $500 million in pending dividend from
+  🔗 https://www.livemint.com/companies/ongc-videsh-s-eyes-on-two-venezuela-oil-projects-know-what-finance-head-anupam-agarwal-said-on-500-mn-dividend-11794039002471.html
 
-- Arini’s Hedge Fund Losses Grow to 32% as It Sells Some Positions
-  Losses at Arini Capital Management’s main hedge fund deepened in the final days of October, taking declines to
-  🔗 https://www.livemint.com/market/arinis-hedge-fund-losses-grow-to-32-as-it-sells-some-positions-11794005315599.html
+- Tata Power's $650 million debt battle: Why Singapore court ordered seizure, sale of shares in local firm
+  The latest enforcement order was issued after the SICC, on August 26, 2026, dismissed all of Tata Power
+  🔗 https://www.livemint.com/companies/tata-powers-650-million-debt-battle-why-singapore-court-ordered-seizure-sale-of-shares-in-local-firm-11794035897676.html
 
-- Gold Extends Drop on Stronger-Than-Expected US Employment Data
-  Gold fell after a hot US nonfarm payrolls print added fuel to speculations that the Federal Reserve will
-  🔗 https://www.livemint.com/market/gold-extends-drop-on-stronger-than-expected-us-employment-data-11794000796269.html
+- ONGC shares: Venezuela oil project hopes lift focus after Q2 results | Should you buy? Key levels to watch
+   ONGC shares may draw attention after the company said it could secure operating rights at two Venezuelan oil projects. Its September-quarter profit rose 57.3% year on year, but
+  🔗 https://www.livemint.com/market/stock-market-news/ongc-shares-venezuela-oil-project-hopes-lift-focus-after-q2-results-should-you-buy-key-levels-to-watch-11794051814943.html
 
-- Quick Mart IPO Draws Strong Demand as Kenyan Listings Pick Up
-  Quick Mart Plc saw demand for shares in its initial public offering exceed the number available by almost 23%. Kenya’s second-
-  🔗 https://www.livemint.com/market/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up-11793993964421.html
+- Muhurat trading, Diwali 2026: Stocks to buy in Samvat 2083 - Blue Star, CESC, Delhivery, Ingersoll - check share price
+  PL Capital sees up to 56% upside in Blue Star, CESC, Delhivery and Ingersoll-Rand India. It rates all four stocks Buy, with target prices ranging from  �
+  🔗 https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-for-invest-11794044306255.html
 
-- Gold, silver turn volatile after strong US jobs data, but remain on track to snap multi-week losing streaks
-  Gold and silver prices fell on Friday as stronger-than-expected US jobs data lifted expectations of a Federal Reserve rate hike in December. Gold was down  ₹
-  🔗 https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html
+- Muhurat trading 2026: 80% to 90% — will Sensex, Nifty improve decadal strike rate on ceremonial Diwali session?
+  Key benchmark indices — Nifty, Bank Nifty and Sensex — have been ending higher for the last eight straight years
+  🔗 https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-80-to-90-will-sensex-nifty-improve-decadal-strike-rate-on-ceremonial-diwali-session-11794049934692.html
+
+- From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead?
+  Technical analysts say Indian equities have a bullish near-term outlook. They cautioned that elevated momentum and recent gains could prompt profit-taking.
+  🔗 https://www.livemint.com/market/stock-market-news/from-diwali-2025-to-diwali-2026-how-sensex-nifty-50-rupee-crude-oil-changed-in-samvat-2082-what-lies-ahead-11794043761591.html
+
+- NSE overhauls key trading rules: CAS, F&amp;O expiry trading hours revised - What changes from December 7?
+  The NSE will overhaul the Closing Auction Session from December 7, shortening
+  🔗 https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-from-dec-7-11794047384672.html
+
+- Italys Meloni blames pro-Russian hackers for leak of foreign ministers data on the dark web
+  Italy's Meloni blames pro-Russian hackers for
+  🔗 https://www.livemint.com/technology/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web-11794048214860.html
+
+- India on right track in AI; firms moving from pilots to production: Oracles Kumar
+  India on right track in AI; firms moving
+  🔗 https://www.livemint.com/technology/india-on-right-track-in-ai-firms-moving-from-pilots-to-production-oracles-kumar-11794038633340.html
+
+- Data centre bosses cash in on India's AI and cloud expansion with handsome pay packages
+  Higher revenues and massive capacity ramp-ups
+  🔗 https://www.livemint.com/technology/tech-news/data-centre-executives-pay-surge-ai-cloud-expansion-11793940107304.html
 
 - Motorola Signature 27 launched: 200MP camera, Gemini AI, 7,000mAh battery and GrapheneOS support — what’s new?
   The Signature 27 has a 200MP camera, Gemini AI features, a 12,000-nit display and a 7,000mAh battery. It also offers 100x zoom, GrapheneOS support and
@@ -88,77 +100,65 @@
   Call of Duty: Mobile's Season 10 update marks its seventh anniversary. New Battle Royale features, two Mythic Drops, the Signal 50 sniper rifle. Ford Racing
   🔗 https://www.livemint.com/technology/cod-mobile-turns-7-what-is-new-as-verdansk-returns-with-battle-royale-upgrades-mythic-drops-and-ford-racing-rewards-11793968123819.html
 
-- ‘Your voice matters’: Sarvam AI CEO Pratyush Kumar offers lifetime access to 70-year-old speech-impaired cancer survivor
-  Sarvam AI CEO Pratyush Kumar has offered lifetime access to the company's AI models to 70-year-old oral cancer survivor Raghun
-  🔗 https://www.livemint.com/technology/your-voice-matters-sarvam-ai-ceo-pratyush-kumar-offers-lifetime-access-to-70-year-old-speech-impaired-cancer-survivor-11793961433271.html
+- US tech stock rout: is the AI bubble bursting? - The Guardian
+  The Guardian asks: Is the AI bubble
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUk5KWGFRY0lPalplQWNSaFZZTk11VEJvblJNWXBnTGlQU05xZTBoVlFzTHprWHVfaUVIb3ZFcGJOQUJmZFVqZVpNT0Q4X25EemUxc0hObXlhYmpkelJFcVpRcDZIQVZRTjBVTzMyUW5iMXRTLVlqZW04ZjNNRmRKcTl6TUNHcnY2QjNDdUR5QzVBX2U3UjZySVdvUE83S2Q4ZkR3RzJfQ1lzUFFXUnc?oc=5
 
-- India focused on becoming AI application capital of the world: Ashwini Vaishnaw
-  India is focused on becoming the artificial intelligence (AI) "application capital" of the world
-  🔗 https://www.livemint.com/technology/india-focused-on-becoming-ai-application-capital-of-the-world-ashwini-vaishnaw-11793958699116.html
+- AI Has Taken Over Every Corner of the Market - Bloomberg.com
+  AI has taken over every corner of
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1JVURXbnhSNnBWUWxZakRxUThxNXZwVDdRbzRyb2s3MzQ4eWRZbDluQnVyeUIwRVhrOHBlc1JvZHpVdENmQXczSC14Vloxb3RObTVuZXVkYTlFQTNYbFlKTzJaSUd1M2xEYkx1bzd6d3EzMnRoTzN3?oc=5
 
-- Motorola Signature 27 launched with 7,000mAh battery, 200MP camera and Snapdragon 8 Elite Extreme Gen 6: Price, features
-   Motorola Signature 27 has debuted in global markets with a 200MP periscope camera. Priced at $1,599 (approximately  ₹1.51 lakh), the flagship
-  🔗 https://www.livemint.com/technology/gadgets/motorola-signature-27-launched-with-7-000mah-battery-200mp-camera-and-snapdragon-8-elite-extreme-gen-6-price-features-11793958320979.html
+- India’s Markets Are Suddenly Having a Very Happy Diwali - Bloomberg.com
+  India’s Markets Are Suddenly
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmdDazFjbUl5WW5xYXlVZXJCVmNxR1JGOUhKWmhVWVI1aTkwN2ZrWjFHWDVrNERkeHV0ZzRGWE9Lb2l6endENXk4UEFUbW84cnJpd2M0UTFNaHhzeVJUeFpQLWQwWWhreTBFQWphUzJEa3RPRnZXdzJuTnB6U2FvMk5WQmpNOHVQdmtjZzRtWEJ3Mks2Y2haUFlucU5XTkhJRXR4UVNBaDlxd2lyT2c?oc=5
 
-- US tech stocks edge up after AI slowdown fears hit value of firms - live updates - BBC
-  US tech stocks edge up after AI slowdown fears hit value of firms.
-  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLOFVxRnRvbGdVMGt1OURWc3Y3SFhRc29RNXRld184ZVBJb0tJSm9oaGhMQ25zSWpHQUd6cjhaRnFVM1NiUGZUTGRWejJ5b3VBeXZIbUR3?oc=5
+- Markets end Samvat 2082 on a strong note, post biggest weekly gains in six years - Moneycontrol.com
+  Markets end Samvat 2082 on a strong note,
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWGNsWXRxQWtjdnpZS0RNZjFMQ2Q3Y3JsSmNRY3pHOFJrRFBBRGNVNFhxWWlNZGNXYTRtTVBkeDJrTTlhbGlXckRTVmFMTkNscXh2SHd2ZWFZLWg4TU1SWFVDQVZSbEVWenhSZnVDNWdpUndMR21zSjJBaG16ZTNOdnZkYUJXdUNsRnFuZmhzYlFLQ3BtdXMzaFlMR3hzOTRadmoyNkx2azhYOW9PcWpfNFhkd0tWNU5NaU1MLU1ZRmR5dTZ0aTN3WnM3VGNqQzcybkxEQmw4bGRUVFozeTNacmJvdE_SAeoBQVVfeXFMUFZXZ19odVppMU15dUNyWWVNMDlWZDJXc0JFZHBfVUU4UjJFTVczWjV5LURjQ3FfOXg0X2FwaVFCdlN6Q251Q1hvTnhiNTJsNTBhNXA4T1ZuUGozS1VkVVowMktNMGhfR1BhbkhYUzl1Y3RleFVsQ0lrNFhZRElYZmE2bVQwYkZRUlEtZTIyX3Y4cWhNbVdDQjdWRUlsaW05bENta0hZanhFanAxTEpxcWpHNXlnVE5kMmlEVldUeDAxNnJQQ2o1bzJHc0lEcEVNckp2ZFFKd1hqb0c5SXprWGFDRl92UzZkZnpB?oc=5
 
-- Stock Market News, Nov. 6, 2026: AI Stocks Rebound at End of Brutal Week for Nasdaq - WSJ
-  The WSJ published a story on Nov. 6, 2026
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNWG5FZ0htcmQ4Z2Z1SlJHYUVDR2pyUFBzdWZ3OXFQUWFyTHJoTUN3SjQ5MXRNUHZhWGFkc3VzZFE3TXdjZGNNNHZfT2p2dm5PbEwzUjQ1MExmT093bW1oZ0VxLUZiTk5YaTh0QU90aXNxcUpfVld1UXJRbUM1TGpxZFNR?oc=5
+- Stock markets on fire; Sensex jumps 1,718 points, Nifty reclaims 25,000 - Rediff
+  Stock markets on fire; Sensex jumps 1
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbXM3b2J2MmtQWUc2TjBlZ1lvQmpfVUpTd0RJS3NPZi05YllVVUY5YVctUHp4eENJRVE3d1hDcXAtdThtX3FnNjZldjllNF9FZjRENVhJTENOeDNISXBVNlNCMDh4TFFQbGFwbHhpcWJRTlIxVHpWQjc0Vk1YSGNjZU5RTzUwMjV2SjZOWG8tUDFqU0kweVVRZzdCb2lMei1KVFR1SVk5TkhJQU1lWGlYWks3QjZ3eFl2a0R6aE5QTUVKTFQ1TW5obHg4SjJWX0dTcjZnNWdhLTQwZ0NEd1huTVNTbGlaUQ?oc=5
 
-- Stock Market Highlights, Sensex Today: Sensex Jumps 1,600 Points Higher, Global AI Stocks Bleed - NDTV
-  Stock Market Highlights, Sensex Today: Sensex Jumps
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmlPNE5yVjlfT1A2YV90UU5YRFlnTlBCaXRkOS1nV29vOERUVjM5aWtKTFJXazJPV0VUZHota05vWHRrZk5paXgyckltV00yM3l0VWFwMnI0cW1Rbm1QQTdRTmdoLUdmaEpMUTFrMnZINFREc051YVFhZmJFTUl5cWlpZjdKRXZHSjZndnBvRm5IRnEzV2RpRGxRNTNNRE5zTmtpcmhfSFBVNUxCSzE3RUZSZnNja0x3d18wazNjTXg1MHk3MHFud0cxZ3RTaUnSAdcBQVVfeXFMUHdld21qeDhuYXQwdl9SZXhjU2xzVzJtR1c1S3FZNUZhbEtITThCUzVKc2tPOEpfSUhNTGgtZU1DeFZEQWVaZDNGRlBETk85Z0JyeXoyRUpZcWU2WW9OcVUybEJrclFuSFhrMmRwSTBNVUtsRzQ5bUNLMnRxTEFOcXhxdG5YWUpCY2wwdHpYaHFMV2NURFBsRjBnODNlOFg0bklDaDBFVFcySVF6aG40N1hKQk82UU42dTI4NHRxbW5LaHlCbEhrOHB6R0VXVWNEVzNsdFJadTg?oc=5
+- Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test
+  Indian equity markets rallied significantly following the results of the US midterm elections. The Nifty Index saw a large gain and reclaimed important moving averages. Some consolidation is expected, as the Index approaches broader resistance levels.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms
 
-- Stock market today: Diwali fireworks continue as Sensex ends over 1,700 points to cross 81,000; top reaso - The Times of India
-  Stock market today: Diwali fireworks continue as Sensex ends over 1,700 points
-  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxPZ3pCajN3TzE0VGh1c1VjcFlFazN0ZDdtMHJyTGlOeFRybldGMkpMaWdYRXI2MU9TdUdKQ0xlQmZqSWpQV2dwZWRIWm9JU3pwQTJVSTNNeS1meER1WkNsQ1NlTERWSC0yYlE1WGg3TkRQbTVjT2xFOS1Gcm9iNERGU3hZMUx3SUVHdGttcmxkRjYwSGRmeXJ2S2dIelVYUTJ0ckNuYXhXWE96bjFKa3RUTWpuYk1wdHVQcGozUjNWSldqYWR5SkhWWGxfSDJfSXlSQjVyTVd6TnFaTzdWT0NaTFZEc0lGenZYQzV4RU90dGhhSkpVbV9wSTdsMGxxdERoV3k1Wm95MHdZSUVBTm5KbEY0X0ZvcEV0U1NKbFdqdWVOdWRrbllfbUtsZ3ktOVhfbHJJMdIBugJBVV95cUxNWDFpV2o3SVpqTS1YQkUzV09QMTROYWpRRjJ1VHlWRHhYWUZ5OThhSW1JNzNGUERKdGE2OGkxSXBnbkc1ZEVuS0lwN3RMTU9JbldRMFYzQVpxMVAtNmpTRDNnRUIyek04Zi0zdHl0Szk2RF9aQ1FjRnoxMHZZV0xYLXBrYnRPVzU4YnJDX1RLYU8tRzJNSFVxMXRKWE1Oa0lUdlNocG00RS1iWDdSdWh5V1FhRzhYX2NIZEFCZVhTdUZXZXZVNDl3TmVWQ01vQ1FSM1ZqNWIzRmFhSkxFb0tFcU8tTDlFVHlqWERPV1dubnFiRmNTTlFFTHdJdlUwV2ZIeFIwU1JTMXpuZjN4Y1oySTlyODV2VDFQSDRHeGpUeTlSUVFRR0ctQUFOVzgtREx4emRrNVV3TnliZw?oc=5
+- Concurrent Gainers: 9 stocks gain for 5 days in a row
+  Several BSE 200 stocks posted consecutive gains. Here are 10 stocks that advanced every session between November 2 and 6, delivering returns
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-gain-for-5-days-in-a-row/slideshow/135631187.cms
 
-- Closing Bell: Bulls' party continues on D-Street; Sensex rallies 1,718 pts, Nifty reclaims 25,000 - Moneycontrol.com
-  The Bulls' party continues on D-Street. Sensex
-  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxNMHdyQmJ0TWtBTjY3TkYzTDM3WEgzam9Rb3gzUGRfQjYxaExPcm9lNUZNYTNhbkhYcUJlWTF5VjViNm1sSzBnb3BlVWs5Q2x2b2VjNDByWmpXbEZQdlNyVFMtQUUyc3pYWlBIMGEzLVZRbk9XY0JBQlQzTEZIXzBpT3BBbmNWd3NWeTdMNHJtNzZOVE5pR0J4NU1JRjNRTjE2WGpXa1VuYmVaQlhzc2JwVm5icEF1ZWdSd3ZYQzZidk9zMmxvY2FvSXE5SHlCUlVnekp2Tk1qSGgwalFiYkl3Q1FBTkZFSkV5UlhReTJoMWZnWGdTUEVmbVlfZ0hiQzluUTZqZjRVZTdCMlNoWEVyUGZBMDlkcDFVczNLbW1aYzFRblZob185Rmpja1FfWTjSAbQCQVVfeXFMTzk5THlEVHlKb2dOYlQtX0Z2VDkybk9EeEZxWWpLN0taTXlZc2QyU0JLRHMwUEJ0cHBmTzlfMTloaEFpNUF5NFQ0Z1F1S29oTXRjdVhEUUlOOEhzcDJoRzhCQmE4YWdKOGZ6cVlCcU1QVlJCRUZHdUw0WS00b1ZubFVDZVdoTEx0U0dELUtZYmhkZjR6U3RnNDItQ3ZsWG1XTEhkU0ZFeUN1NU9aVGd0SjJhQzZmQW56Z2FBTlhjLWJ2a3dpbzZfQlZSc01IQ19uUWptalpCUURma2R3Y0hidFN3Mjk5N0dERENNb0RIZ3NHWnNCM250X1BBMF9ycS1NZ2k4Qi1ES0toRFJ5NlRGRUlwdHZHNWpzYXB2ZGI3NmQ1ZlZpY3VSWE1Ib2FUWF9sRWJOOGo?oc=5
+- Wall Street grapples with $5.7 trillion rout as AI bets unwind
+  Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. The Democratic majority in Congress poses regulatory challenges, amplifying economic tensions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms
 
-- US stocks today: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist
-  US stocks rebound as chipmakers recover from Thursday's steep AI-led selloff, lifting the Nasdaq 1.73%. Nvidia, AMD, Intel and Micron lead the recovery.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms
+- Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list
+  Sustainable wealth creation is likely to depend less on broad-based market movements and more on identifying businesses capable
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms
 
-- Stock Market Highlights: US stocks rebound, but Nasdaq posts fourth straight weekly decline
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-amd-intel-broadcom-micron-tesla-airbnb-ai-chip-stocks-jobs-report-treasury-yields-iran-war-democrat-midterm-inflation-oil-prices-6th-november-2026/liveblog/135609029.cms
-
-- India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides
-  This week, Indian government bonds saw a remarkable performance, outpacing other Asian markets as benchmark yields dropped significantly. Following the Democratic win in the US midterms, crude prices fell sharply, enticing foreign investors back to purchase a significant volume of
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms
-
-- British Airways parent profit drops on higher fuel costs
-  IAG says its third quarter net profit dropped more than 12 percent. Group blames soaring fuel costs and flight disruptions caused by the Middle East conflict.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/british-airways-parent-profit-drops-on-higher-fuel-costs/articleshow/135605804.cms
-
-- Trump Media's investors lost $2.2 billion while Trump holds $460 million stake
-  Many investors had high hopes for the social media platform, believing in its potential profitability under Trump's leadership. Trump Media's shares have lost significant value, and discontent among shareholders has grown.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/trump-medias-investors-lost-2-2-billion-while-trump-holds-460-million-stake/articleshow/135605723.cms
-
-- Abdul Kalam Evaded Satellites At Pokhran. Now Punjab Farmers Are Doing It - NDTV
-  Abdul Kalam Evaded Satellites
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0U4UFdTbFpmT0RqMV9ybDByU2Q2Z0lXcTNLV09WN0ZmcTZUMjF1by1tb3NoT0plSVZ6ZVBWaUhoeFZhU2FXQ29iYzJMNXV4R3hZTGZRY01Id1R4RVZXUnZ1YmJPbXQyMm1XdXpXeE9Jb1NNMkpJUjYxVFFad0U5aWdSYVdQQTE1V1JESkNoU2tuX3lPNkpsLTlDWWxTcWRhLVp4LWdQeU5KdllzUlZLcl9wUdIBuwFBVV95cUxOdDEtRmNsb28wTFZ5b1BKLVVsN1YzT1lWOHVSTjFybmJyVDJGWXJ2ZlBEWHRJamFZckQ3TG9SQ0pHX1dmeGNTeWNTTFNzLVN4djZ5MWtfT1ZrUkxBZndFUy1mZElvTkdkejhiYmJDcUdkM3FpNjJVOHk4ZnlFVkZDM3A2Z1FKSUVyeVRIekRUMkg0NHFkSDB4blhfYVJVMmNxLVlMenNoUzZGMVMzQlZQemc0Vmt5OGhHZDFr?oc=5
-
-- ED tracking $1m transfer to 'meddle in domestic affairs' - The Times of India
-  The Times of India is tracking $1m transfer
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3YwRVh4N0pvR2d0ZHY5ZzB0WVNWY2JHOFI5dldhRTN0eEMxRS1Lck9mZnZUR19IUWc1U2NEelRNYzN5RE1PbmJGX2tGeG50NlQ2LXl3OUQ4SDVZRlRBMGpUS0VXbGlEa1AxUG1kOEZzZ0JkQ2dMYlk3UGxlQnJDcy1UVTV6NmV3bk5oMFVpa09fYVFZUUJGUVl4aXNYMUZEQVViNXdNQk8wc0JFaHpuTzFoTkxOcWVheTNsanV30gHDAUFVX3lxTE9TVWFLTS1Mc0w2WFdySW1jSUZuMl9qU1JSQjAwTkY5dXJEZEJmN0U0MDM5eHU0bUFlTW5JU0NGN18zenNHLThTa2xTaWs1Z1VJYTJGRExIX1pXNVAwa1MyMEhrTWRhRFYzdDNYNnQ3Wk0xekpSZ3hPTGI4UHZzNTktZS15WWQ4N01BY0E1cHRVaTJRNV95NWRYbzhjYjBFd3YzTkNFXzBHV1Y5WV9BVjVjR1d0U0VFVlM0WEhzZGpmWlMtWQ?oc=5
+- Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?
+  Angel One identifies seven stocks across banking, finance, pharmaceuticals, jewellery, engineering and defence.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/diwali-shagun-ke-shares-angel-one-selects-8-stocks-with-up-to-50-upside-to-buy-this-diwali-how-many-do-you-own/slideshow/135626837.cms
 
 - Sonia Gandhi interview: ‘Great damage done to the fabric of India by BJP’ - The Hindu
   Sonia Gandhi interview: ‘Great damage done to the
   🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2FvOHZGS2FpMXVnR3RwUFVLVEtYWjNOU3BZOWxNQ25SMDQ0aXY1aW11dlFZSEczNWdOYkYyb1gwSHRRcTFCQW84NkZZZkFEUmhLOVdlTzYycGZGamtqVHBPcFFYNW1HYmNaT0dpUjcyaE1kSEJ4a0tjRHFud05iWTJHdXJGOVVTcjZsd1RqQjZmZmZDV2NRdm1tbEduVDN5NDl6SERrUlJBd05tUmpreTZMZFNJTGRsTktKX0xLd1pvTWd4WkJBRNIBzwFBVV95cUxNaXhPVkhzVTNPNGpLd1FUTlNabHBYMWM1WDBIdllXb3F5V1pXR1BGZ0wyRk9OWmxqMU5pcWJHUEZpM3FPd3diYWI5bU82eWh3ZzNXS1FYcFB5QUZPcWp0QlFhQjhGSm1nYnN1bFh3UXEycm13bHBQVHh4XzdudmNHNXdJdW0xX0ozTTZOY3pzMkdrS0p1cHM3Rjk5Q3FyOFlDblNOU3FBa2lFUllWalNRUFRuRWh4WHFvdWNVWXJGeHZ6WkFSTXhCc0FiRmUzODg?oc=5
 
-- Has India’s democracy failed its Muslims? Jailed scholar triggers debate - Al Jazeera
-  Has India’s democracy failed its Muslims
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1hTbnFZcVRDVWFneGxUMVFYX2tTS28xTnNLam1MZVFKZlc4TmVjNER6V2dzTUZQM3N5MTUwckpySV9PR0NXbFJBVlI1WXNieDJTMmJzUFN6b25jTnFDcjJWc0NaY3RROUxNZVVFcE9La2RUREhSNWdoSndwMDF1SkJpaDcyenNsM3lzY2VqRlZQZmZSa3hPc2E5WHdMQUlVNElydlZHZkxpNExSaW5ocNIBtgFBVV95cUxNVnJMRjBzMzJoT1dEUjNCNkpLcEgxZ3p0RW5pZ0I0UnYyRW1OSUpCS0tFV1l0bVJpNTRGU2FjNUN4VDB3UG1VNVNWbmh2LUxvdVZyQ2RiWEhoZXlSWWpHdWZDTEFtMjlFc3piVXRUVURTUkExSFFfM2wxZVRMbmdWem42YVBYWEhkbUhIUmU1OEF0Tm9XLUdPTjFOUUp0Vzc5aWkwN0p2a0pwaE03U0o3aUtLX203UQ?oc=5
+- Foreign Donors And Pak Links: Centre Accuses CJP Of 'Anti-India' Funding - NDTV
+  CJP accused of 'anti-India'
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXM0Vm5KWDE0MGhkTjBhbUVSTXc2U0NJRzZSZ25JM2tYZDlMVzVmMmtRdnRDbGFmdFFMbERVTWRwVUVXT2NkZy1Ba3BQTDc1NzVQLUtmZ3NHVTBodG04ZFNSQURnZnJPRDQ0M3FWNXczV2dkOXAzd2k4NWpSc1hsZWk0eE9zaVltUmxZNEYzWXRLRlZrYVdFLUhPejdaWEc5d1FmbFVQeXpZRkF1MExn0gG3AUFVX3lxTE9wSWl4UG1qbkxEQ3J0VGtCTUp2T1A4U0dwSlgtQWtPa01KVTdfaHJQRFN5SkVFb3NjUE5DMUlyaDJ1TkQ0THpfRFZiaWVQYlBvNi1GdXBqMEdrZ3FDXzgya0lIY05ldkxtX2U5bFlRWWVYX3BSUU1sSzJqMTIyWVNnS2FRUEIxZ0lXdUM3cjBucXRCUllQMHRkU3ZwcU5JTVF4ODhBNk1fWndacEFxc2NuNEY1UUp5bw?oc=5
 
-- Pyre: Indian film on elderly couple's love and loneliness won 18 awards - now it's wowing audiences - BBC
-  'Pyre' is an Indian film about an elderly couple's love and
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WTnFsU3BST0FXTE44RHBHd21xd1NxX0JlNGs0d25ZR0d1eXc3RkFnWDNySDBqQlhDZXNkLU5udEtUeHZHZXo4NkdmbFpwZ25zZWNsU09tNURMN0k?oc=5
+- Army debunks Pakistan propaganda about 'Chinese troops inside Arunachal' - The Times of India
+  The Times of India reported that the Pakistani army had
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTdITnZIS21QT0FuTmc1WVVlLVp6ZjcxLWlrMTNOc1Q4VWw0WFgxUzh6czRERFNTTkxOSWRIVnktQkFzMFNRU3FYRVpGb1FuVUtOdHBSdmpzTDEyUVN0SE1DeFhzUXBoc2daTWZseC14UjM0Sk1NRTE4MDk1WWVyX2tCQW1fd3JOc2dLUVBTbmltVXFNcHRtYmh2djQ0RTVoLS1INXBuRHhTODFYUmktX05rUlZhaDZmNjFEM01GbDdZNEVPdFlQZ2ZhbjVxVjRMVjJ3UtIB2gFBVV95cUxOOEU0LW53dWZ4RDFJcUJuVkxyMHpHTmYtRUVkU0wtQ2RBR1NTV1hTOF9pc0ZJUGJtRnBEdlJQRllYNFI4VmFjVUZHajBpdTVuelJkSnJHbUFCVXpsWWpYRm51NUpaTDBFZ2xCVTRGdXpLVmp3Q3p6aFVLVF9WNUd4RWVwS2RKamZzZ29zVkM2bF9VRTVzbnZzNXZiUGFDVFhLaEx1SmlsR1VncEx6UFlIemN6OVh2NkVpSW9VeS1ud1AwbWk5eUFtUl9RbFFZLVdOSU1XeGZoeWVCQQ?oc=5
+
+- Mohammed Shami retires from Test cricket - Cricinfo
+  Mohammed Shami
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmdRcUE4OEFMcjQ0b0dXYktyWVZQclNqUFRrSkdtNFcyaUFUNWVFaHQ0RnIyb1VjN09nZzY0eXpsdVhMVm92OEhhUnlSeUdRUVduTnBMRWJMWUhvekc0eWNWaVI3TDFxMmd6LS1WUExQelhPZkktRUM2WEpNMTRiLUtKMWNRNW1lVTIzU2JXQUhhanlW0gGmAUFVX3lxTE9ZWTlvSDVXWDlVWThfQVRxNjBDVTFFZGtCRkRSeS0ycjVNeGxkWDJqbjJiQk1DUUl4RlZLTkY2ZHBEV2xpQTBraml6TnBheE5Wd0NCb2RPMTJFeVUyWE5oajFJZS1IM1RDRVhSSXk2YXd4THliMnRCbWRNZWhpdEQ4cmcyMjl3U3loTjR0LVhiRkYzUTdma3B4NC1UaDdGYjYtSDd2WUE?oc=5
+
+- India news: Vehicles major cause of Delhi pollution, top court says - DW.com
+  India news: Vehicles major cause of Delhi pollution
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNeV8yUXhQblE5d3k0d21Ud0tHRWJ1OHk0Vl9FTDBXQ3B5dWJPRnFzalR4VkNzZ2FnRlpxd2kyS1MzYzJjNjhtUkNpaHVyU1ZBM0tfRm1STHlsRktndzE1cVBXeUt5QmNyQVdZaE9qdDhoU2MzbDFGWk5obEtTNi1Vcm1qcERpcnlSTTJkSjQ4NjBZakNUeVJqUlVGcndBcGZVUjh3?oc=5
 
 - From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week
   Startup funding activity gathered steam in the first week of November. 20 Indian startups cumulatively raised $255 million.
@@ -180,45 +180,45 @@
   MobiKwik’s wholly owned subsidiary, MobiK Wiki Financial Services Pvt Ltd (MFSPL), has received a Certificate of Registration (CoR) from the
   🔗 https://inc42.com/buzz/mobikwik-to-begin-nbfc-operations-within-6-months-post-rbi-clearance/
 
-- Abdul Kalam Evaded Satellites At Pokhran. Now Punjab Farmers Are Doing It - NDTV
-  Abdul Kalam Evaded Satellites
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0U4UFdTbFpmT0RqMV9ybDByU2Q2Z0lXcTNLV09WN0ZmcTZUMjF1by1tb3NoT0plSVZ6ZVBWaUhoeFZhU2FXQ29iYzJMNXV4R3hZTGZRY01Id1R4RVZXUnZ1YmJPbXQyMm1XdXpXeE9Jb1NNMkpJUjYxVFFad0U5aWdSYVdQQTE1V1JESkNoU2tuX3lPNkpsLTlDWWxTcWRhLVp4LWdQeU5KdllzUlZLcl9wUdIBuwFBVV95cUxOdDEtRmNsb28wTFZ5b1BKLVVsN1YzT1lWOHVSTjFybmJyVDJGWXJ2ZlBEWHRJamFZckQ3TG9SQ0pHX1dmeGNTeWNTTFNzLVN4djZ5MWtfT1ZrUkxBZndFUy1mZElvTkdkejhiYmJDcUdkM3FpNjJVOHk4ZnlFVkZDM3A2Z1FKSUVyeVRIekRUMkg0NHFkSDB4blhfYVJVMmNxLVlMenNoUzZGMVMzQlZQemc0Vmt5OGhHZDFr?oc=5
+- Sonia Gandhi interview: ‘Great damage done to the fabric of India by BJP’ - The Hindu
+  Sonia Gandhi interview: ‘Great damage done to the
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2FvOHZGS2FpMXVnR3RwUFVLVEtYWjNOU3BZOWxNQ25SMDQ0aXY1aW11dlFZSEczNWdOYkYyb1gwSHRRcTFCQW84NkZZZkFEUmhLOVdlTzYycGZGamtqVHBPcFFYNW1HYmNaT0dpUjcyaE1kSEJ4a0tjRHFud05iWTJHdXJGOVVTcjZsd1RqQjZmZmZDV2NRdm1tbEduVDN5NDl6SERrUlJBd05tUmpreTZMZFNJTGRsTktKX0xLd1pvTWd4WkJBRNIBzwFBVV95cUxNaXhPVkhzVTNPNGpLd1FUTlNabHBYMWM1WDBIdllXb3F5V1pXR1BGZ0wyRk9OWmxqMU5pcWJHUEZpM3FPd3diYWI5bU82eWh3ZzNXS1FYcFB5QUZPcWp0QlFhQjhGSm1nYnN1bFh3UXEycm13bHBQVHh4XzdudmNHNXdJdW0xX0ozTTZOY3pzMkdrS0p1cHM3Rjk5Q3FyOFlDblNOU3FBa2lFUllWalNRUFRuRWh4WHFvdWNVWXJGeHZ6WkFSTXhCc0FiRmUzODg?oc=5
 
-- ED tracking $1m transfer to 'meddle in domestic affairs' - The Times of India
-  The Times of India is tracking $1m transfer
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3YwRVh4N0pvR2d0ZHY5ZzB0WVNWY2JHOFI5dldhRTN0eEMxRS1Lck9mZnZUR19IUWc1U2NEelRNYzN5RE1PbmJGX2tGeG50NlQ2LXl3OUQ4SDVZRlRBMGpUS0VXbGlEa1AxUG1kOEZzZ0JkQ2dMYlk3UGxlQnJDcy1UVTV6NmV3bk5oMFVpa09fYVFZUUJGUVl4aXNYMUZEQVViNXdNQk8wc0JFaHpuTzFoTkxOcWVheTNsanV30gHDAUFVX3lxTE9TVWFLTS1Mc0w2WFdySW1jSUZuMl9qU1JSQjAwTkY5dXJEZEJmN0U0MDM5eHU0bUFlTW5JU0NGN18zenNHLThTa2xTaWs1Z1VJYTJGRExIX1pXNVAwa1MyMEhrTWRhRFYzdDNYNnQ3Wk0xekpSZ3hPTGI4UHZzNTktZS15WWQ4N01BY0E1cHRVaTJRNV95NWRYbzhjYjBFd3YzTkNFXzBHV1Y5WV9BVjVjR1d0U0VFVlM0WEhzZGpmWlMtWQ?oc=5
+- Foreign Donors And Pak Links: Centre Accuses CJP Of 'Anti-India' Funding - NDTV
+  CJP accused of 'anti-India'
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXM0Vm5KWDE0MGhkTjBhbUVSTXc2U0NJRzZSZ25JM2tYZDlMVzVmMmtRdnRDbGFmdFFMbERVTWRwVUVXT2NkZy1Ba3BQTDc1NzVQLUtmZ3NHVTBodG04ZFNSQURnZnJPRDQ0M3FWNXczV2dkOXAzd2k4NWpSc1hsZWk0eE9zaVltUmxZNEYzWXRLRlZrYVdFLUhPejdaWEc5d1FmbFVQeXpZRkF1MExn0gG3AUFVX3lxTE9wSWl4UG1qbkxEQ3J0VGtCTUp2T1A4U0dwSlgtQWtPa01KVTdfaHJQRFN5SkVFb3NjUE5DMUlyaDJ1TkQ0THpfRFZiaWVQYlBvNi1GdXBqMEdrZ3FDXzgya0lIY05ldkxtX2U5bFlRWWVYX3BSUU1sSzJqMTIyWVNnS2FRUEIxZ0lXdUM3cjBucXRCUllQMHRkU3ZwcU5JTVF4ODhBNk1fWndacEFxc2NuNEY1UUp5bw?oc=5
+
+- Army debunks Pakistan propaganda about 'Chinese troops inside Arunachal' - The Times of India
+  The Times of India reported that the Pakistani army had
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTdITnZIS21QT0FuTmc1WVVlLVp6ZjcxLWlrMTNOc1Q4VWw0WFgxUzh6czRERFNTTkxOSWRIVnktQkFzMFNRU3FYRVpGb1FuVUtOdHBSdmpzTDEyUVN0SE1DeFhzUXBoc2daTWZseC14UjM0Sk1NRTE4MDk1WWVyX2tCQW1fd3JOc2dLUVBTbmltVXFNcHRtYmh2djQ0RTVoLS1INXBuRHhTODFYUmktX05rUlZhaDZmNjFEM01GbDdZNEVPdFlQZ2ZhbjVxVjRMVjJ3UtIB2gFBVV95cUxOOEU0LW53dWZ4RDFJcUJuVkxyMHpHTmYtRUVkU0wtQ2RBR1NTV1hTOF9pc0ZJUGJtRnBEdlJQRllYNFI4VmFjVUZHajBpdTVuelJkSnJHbUFCVXpsWWpYRm51NUpaTDBFZ2xCVTRGdXpLVmp3Q3p6aFVLVF9WNUd4RWVwS2RKamZzZ29zVkM2bF9VRTVzbnZzNXZiUGFDVFhLaEx1SmlsR1VncEx6UFlIemN6OVh2NkVpSW9VeS1ud1AwbWk5eUFtUl9RbFFZLVdOSU1XeGZoeWVCQQ?oc=5
+
+- Mohammed Shami retires from Test cricket - Cricinfo
+  Mohammed Shami
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmdRcUE4OEFMcjQ0b0dXYktyWVZQclNqUFRrSkdtNFcyaUFUNWVFaHQ0RnIyb1VjN09nZzY0eXpsdVhMVm92OEhhUnlSeUdRUVduTnBMRWJMWUhvekc0eWNWaVI3TDFxMmd6LS1WUExQelhPZkktRUM2WEpNMTRiLUtKMWNRNW1lVTIzU2JXQUhhanlW0gGmAUFVX3lxTE9ZWTlvSDVXWDlVWThfQVRxNjBDVTFFZGtCRkRSeS0ycjVNeGxkWDJqbjJiQk1DUUl4RlZLTkY2ZHBEV2xpQTBraml6TnBheE5Wd0NCb2RPMTJFeVUyWE5oajFJZS1IM1RDRVhSSXk2YXd4THliMnRCbWRNZWhpdEQ4cmcyMjl3U3loTjR0LVhiRkYzUTdma3B4NC1UaDdGYjYtSDd2WUE?oc=5
+
+- India news: Vehicles major cause of Delhi pollution, top court says - DW.com
+  India news: Vehicles major cause of Delhi pollution
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNeV8yUXhQblE5d3k0d21Ud0tHRWJ1OHk0Vl9FTDBXQ3B5dWJPRnFzalR4VkNzZ2FnRlpxd2kyS1MzYzJjNjhtUkNpaHVyU1ZBM0tfRm1STHlsRktndzE1cVBXeUt5QmNyQVdZaE9qdDhoU2MzbDFGWk5obEtTNi1Vcm1qcERpcnlSTTJkSjQ4NjBZakNUeVJqUlVGcndBcGZVUjh3?oc=5
 
 - Sonia Gandhi interview: ‘Great damage done to the fabric of India by BJP’ - The Hindu
   Sonia Gandhi interview: ‘Great damage done to the
   🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2FvOHZGS2FpMXVnR3RwUFVLVEtYWjNOU3BZOWxNQ25SMDQ0aXY1aW11dlFZSEczNWdOYkYyb1gwSHRRcTFCQW84NkZZZkFEUmhLOVdlTzYycGZGamtqVHBPcFFYNW1HYmNaT0dpUjcyaE1kSEJ4a0tjRHFud05iWTJHdXJGOVVTcjZsd1RqQjZmZmZDV2NRdm1tbEduVDN5NDl6SERrUlJBd05tUmpreTZMZFNJTGRsTktKX0xLd1pvTWd4WkJBRNIBzwFBVV95cUxNaXhPVkhzVTNPNGpLd1FUTlNabHBYMWM1WDBIdllXb3F5V1pXR1BGZ0wyRk9OWmxqMU5pcWJHUEZpM3FPd3diYWI5bU82eWh3ZzNXS1FYcFB5QUZPcWp0QlFhQjhGSm1nYnN1bFh3UXEycm13bHBQVHh4XzdudmNHNXdJdW0xX0ozTTZOY3pzMkdrS0p1cHM3Rjk5Q3FyOFlDblNOU3FBa2lFUllWalNRUFRuRWh4WHFvdWNVWXJGeHZ6WkFSTXhCc0FiRmUzODg?oc=5
 
-- Has India’s democracy failed its Muslims? Jailed scholar triggers debate - Al Jazeera
-  Has India’s democracy failed its Muslims
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1hTbnFZcVRDVWFneGxUMVFYX2tTS28xTnNLam1MZVFKZlc4TmVjNER6V2dzTUZQM3N5MTUwckpySV9PR0NXbFJBVlI1WXNieDJTMmJzUFN6b25jTnFDcjJWc0NaY3RROUxNZVVFcE9La2RUREhSNWdoSndwMDF1SkJpaDcyenNsM3lzY2VqRlZQZmZSa3hPc2E5WHdMQUlVNElydlZHZkxpNExSaW5ocNIBtgFBVV95cUxNVnJMRjBzMzJoT1dEUjNCNkpLcEgxZ3p0RW5pZ0I0UnYyRW1OSUpCS0tFV1l0bVJpNTRGU2FjNUN4VDB3UG1VNVNWbmh2LUxvdVZyQ2RiWEhoZXlSWWpHdWZDTEFtMjlFc3piVXRUVURTUkExSFFfM2wxZVRMbmdWem42YVBYWEhkbUhIUmU1OEF0Tm9XLUdPTjFOUUp0Vzc5aWkwN0p2a0pwaE03U0o3aUtLX203UQ?oc=5
+- Foreign Donors And Pak Links: Centre Accuses CJP Of 'Anti-India' Funding - NDTV
+  CJP accused of 'anti-India'
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXM0Vm5KWDE0MGhkTjBhbUVSTXc2U0NJRzZSZ25JM2tYZDlMVzVmMmtRdnRDbGFmdFFMbERVTWRwVUVXT2NkZy1Ba3BQTDc1NzVQLUtmZ3NHVTBodG04ZFNSQURnZnJPRDQ0M3FWNXczV2dkOXAzd2k4NWpSc1hsZWk0eE9zaVltUmxZNEYzWXRLRlZrYVdFLUhPejdaWEc5d1FmbFVQeXpZRkF1MExn0gG3AUFVX3lxTE9wSWl4UG1qbkxEQ3J0VGtCTUp2T1A4U0dwSlgtQWtPa01KVTdfaHJQRFN5SkVFb3NjUE5DMUlyaDJ1TkQ0THpfRFZiaWVQYlBvNi1GdXBqMEdrZ3FDXzgya0lIY05ldkxtX2U5bFlRWWVYX3BSUU1sSzJqMTIyWVNnS2FRUEIxZ0lXdUM3cjBucXRCUllQMHRkU3ZwcU5JTVF4ODhBNk1fWndacEFxc2NuNEY1UUp5bw?oc=5
 
-- Pyre: Indian film on elderly couple's love and loneliness won 18 awards - now it's wowing audiences - BBC
-  'Pyre' is an Indian film about an elderly couple's love and
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WTnFsU3BST0FXTE44RHBHd21xd1NxX0JlNGs0d25ZR0d1eXc3RkFnWDNySDBqQlhDZXNkLU5udEtUeHZHZXo4NkdmbFpwZ25zZWNsU09tNURMN0k?oc=5
+- Army debunks Pakistan propaganda about 'Chinese troops inside Arunachal' - The Times of India
+  The Times of India reported that the Pakistani army had
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTdITnZIS21QT0FuTmc1WVVlLVp6ZjcxLWlrMTNOc1Q4VWw0WFgxUzh6czRERFNTTkxOSWRIVnktQkFzMFNRU3FYRVpGb1FuVUtOdHBSdmpzTDEyUVN0SE1DeFhzUXBoc2daTWZseC14UjM0Sk1NRTE4MDk1WWVyX2tCQW1fd3JOc2dLUVBTbmltVXFNcHRtYmh2djQ0RTVoLS1INXBuRHhTODFYUmktX05rUlZhaDZmNjFEM01GbDdZNEVPdFlQZ2ZhbjVxVjRMVjJ3UtIB2gFBVV95cUxOOEU0LW53dWZ4RDFJcUJuVkxyMHpHTmYtRUVkU0wtQ2RBR1NTV1hTOF9pc0ZJUGJtRnBEdlJQRllYNFI4VmFjVUZHajBpdTVuelJkSnJHbUFCVXpsWWpYRm51NUpaTDBFZ2xCVTRGdXpLVmp3Q3p6aFVLVF9WNUd4RWVwS2RKamZzZ29zVkM2bF9VRTVzbnZzNXZiUGFDVFhLaEx1SmlsR1VncEx6UFlIemN6OVh2NkVpSW9VeS1ud1AwbWk5eUFtUl9RbFFZLVdOSU1XeGZoeWVCQQ?oc=5
 
-- Abdul Kalam Evaded Satellites At Pokhran. Now Punjab Farmers Are Doing It - NDTV
-  Abdul Kalam Evaded Satellites
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0U4UFdTbFpmT0RqMV9ybDByU2Q2Z0lXcTNLV09WN0ZmcTZUMjF1by1tb3NoT0plSVZ6ZVBWaUhoeFZhU2FXQ29iYzJMNXV4R3hZTGZRY01Id1R4RVZXUnZ1YmJPbXQyMm1XdXpXeE9Jb1NNMkpJUjYxVFFad0U5aWdSYVdQQTE1V1JESkNoU2tuX3lPNkpsLTlDWWxTcWRhLVp4LWdQeU5KdllzUlZLcl9wUdIBuwFBVV95cUxOdDEtRmNsb28wTFZ5b1BKLVVsN1YzT1lWOHVSTjFybmJyVDJGWXJ2ZlBEWHRJamFZckQ3TG9SQ0pHX1dmeGNTeWNTTFNzLVN4djZ5MWtfT1ZrUkxBZndFUy1mZElvTkdkejhiYmJDcUdkM3FpNjJVOHk4ZnlFVkZDM3A2Z1FKSUVyeVRIekRUMkg0NHFkSDB4blhfYVJVMmNxLVlMenNoUzZGMVMzQlZQemc0Vmt5OGhHZDFr?oc=5
+- Mohammed Shami retires from Test cricket - Cricinfo
+  Mohammed Shami
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmdRcUE4OEFMcjQ0b0dXYktyWVZQclNqUFRrSkdtNFcyaUFUNWVFaHQ0RnIyb1VjN09nZzY0eXpsdVhMVm92OEhhUnlSeUdRUVduTnBMRWJMWUhvekc0eWNWaVI3TDFxMmd6LS1WUExQelhPZkktRUM2WEpNMTRiLUtKMWNRNW1lVTIzU2JXQUhhanlW0gGmAUFVX3lxTE9ZWTlvSDVXWDlVWThfQVRxNjBDVTFFZGtCRkRSeS0ycjVNeGxkWDJqbjJiQk1DUUl4RlZLTkY2ZHBEV2xpQTBraml6TnBheE5Wd0NCb2RPMTJFeVUyWE5oajFJZS1IM1RDRVhSSXk2YXd4THliMnRCbWRNZWhpdEQ4cmcyMjl3U3loTjR0LVhiRkYzUTdma3B4NC1UaDdGYjYtSDd2WUE?oc=5
 
-- ED tracking $1m transfer to 'meddle in domestic affairs' - The Times of India
-  The Times of India is tracking $1m transfer
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3YwRVh4N0pvR2d0ZHY5ZzB0WVNWY2JHOFI5dldhRTN0eEMxRS1Lck9mZnZUR19IUWc1U2NEelRNYzN5RE1PbmJGX2tGeG50NlQ2LXl3OUQ4SDVZRlRBMGpUS0VXbGlEa1AxUG1kOEZzZ0JkQ2dMYlk3UGxlQnJDcy1UVTV6NmV3bk5oMFVpa09fYVFZUUJGUVl4aXNYMUZEQVViNXdNQk8wc0JFaHpuTzFoTkxOcWVheTNsanV30gHDAUFVX3lxTE9TVWFLTS1Mc0w2WFdySW1jSUZuMl9qU1JSQjAwTkY5dXJEZEJmN0U0MDM5eHU0bUFlTW5JU0NGN18zenNHLThTa2xTaWs1Z1VJYTJGRExIX1pXNVAwa1MyMEhrTWRhRFYzdDNYNnQ3Wk0xekpSZ3hPTGI4UHZzNTktZS15WWQ4N01BY0E1cHRVaTJRNV95NWRYbzhjYjBFd3YzTkNFXzBHV1Y5WV9BVjVjR1d0U0VFVlM0WEhzZGpmWlMtWQ?oc=5
-
-- Sonia Gandhi interview: ‘Great damage done to the fabric of India by BJP’ - The Hindu
-  Sonia Gandhi interview: ‘Great damage done to the
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2FvOHZGS2FpMXVnR3RwUFVLVEtYWjNOU3BZOWxNQ25SMDQ0aXY1aW11dlFZSEczNWdOYkYyb1gwSHRRcTFCQW84NkZZZkFEUmhLOVdlTzYycGZGamtqVHBPcFFYNW1HYmNaT0dpUjcyaE1kSEJ4a0tjRHFud05iWTJHdXJGOVVTcjZsd1RqQjZmZmZDV2NRdm1tbEduVDN5NDl6SERrUlJBd05tUmpreTZMZFNJTGRsTktKX0xLd1pvTWd4WkJBRNIBzwFBVV95cUxNaXhPVkhzVTNPNGpLd1FUTlNabHBYMWM1WDBIdllXb3F5V1pXR1BGZ0wyRk9OWmxqMU5pcWJHUEZpM3FPd3diYWI5bU82eWh3ZzNXS1FYcFB5QUZPcWp0QlFhQjhGSm1nYnN1bFh3UXEycm13bHBQVHh4XzdudmNHNXdJdW0xX0ozTTZOY3pzMkdrS0p1cHM3Rjk5Q3FyOFlDblNOU3FBa2lFUllWalNRUFRuRWh4WHFvdWNVWXJGeHZ6WkFSTXhCc0FiRmUzODg?oc=5
-
-- Has India’s democracy failed its Muslims? Jailed scholar triggers debate - Al Jazeera
-  Has India’s democracy failed its Muslims
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1hTbnFZcVRDVWFneGxUMVFYX2tTS28xTnNLam1MZVFKZlc4TmVjNER6V2dzTUZQM3N5MTUwckpySV9PR0NXbFJBVlI1WXNieDJTMmJzUFN6b25jTnFDcjJWc0NaY3RROUxNZVVFcE9La2RUREhSNWdoSndwMDF1SkJpaDcyenNsM3lzY2VqRlZQZmZSa3hPc2E5WHdMQUlVNElydlZHZkxpNExSaW5ocNIBtgFBVV95cUxNVnJMRjBzMzJoT1dEUjNCNkpLcEgxZ3p0RW5pZ0I0UnYyRW1OSUpCS0tFV1l0bVJpNTRGU2FjNUN4VDB3UG1VNVNWbmh2LUxvdVZyQ2RiWEhoZXlSWWpHdWZDTEFtMjlFc3piVXRUVURTUkExSFFfM2wxZVRMbmdWem42YVBYWEhkbUhIUmU1OEF0Tm9XLUdPTjFOUUp0Vzc5aWkwN0p2a0pwaE03U0o3aUtLX203UQ?oc=5
-
-- Pyre: Indian film on elderly couple's love and loneliness won 18 awards - now it's wowing audiences - BBC
-  'Pyre' is an Indian film about an elderly couple's love and
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WTnFsU3BST0FXTE44RHBHd21xd1NxX0JlNGs0d25ZR0d1eXc3RkFnWDNySDBqQlhDZXNkLU5udEtUeHZHZXo4NkdmbFpwZ25zZWNsU09tNURMN0k?oc=5
+- India news: Vehicles major cause of Delhi pollution, top court says - DW.com
+  India news: Vehicles major cause of Delhi pollution
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNeV8yUXhQblE5d3k0d21Ud0tHRWJ1OHk0Vl9FTDBXQ3B5dWJPRnFzalR4VkNzZ2FnRlpxd2kyS1MzYzJjNjhtUkNpaHVyU1ZBM0tfRm1STHlsRktndzE1cVBXeUt5QmNyQVdZaE9qdDhoU2MzbDFGWk5obEtTNi1Vcm1qcERpcnlSTTJkSjQ4NjBZakNUeVJqUlVGcndBcGZVUjh3?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-07 04:14:12 UTC_
+_Last updated: 2026-11-07 12:21:28 UTC_
