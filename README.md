@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- Trump's New Chief Of Staff Once Criticised India Over Russian Oil, Trade - NDTV
-  Trump's New Chief Of Staff Once Criticised
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNVEoyOGtNMFpkWUlMSTJwUUZwMzE5ZWlsSTB4NElPY0JoWEoydm5sV0JSZmtpOWdHQmY0aFJla1FpZEdneGpwTkV1SGNzcnFHV3dBeUdMdGxaMmVhMEp5Sl9kbGlmWkRMZl9DM3RIcG9sMlpzMGNnVjVGNXdIVFQtV05yaE51OVBWdG13Y2loaUNQYXFFeUh4V1pDUkp5Tl9tU3M0M3JuQWp1T18waWRGb1JrdC1UTzRzbUhvbWd0RGpvUVdpaHNuYmZjUnQ0cGg5bTVjRG9tX29MSXYxclFsUDluYTZucXROakdrZmlfUHlKWk9QcFB4aTM4Nm9pcEFjVkHSAYoCQVVfeXFMTXdobURtc3dqN1E2TjQ5NU9EWnhIMHc3RU9YdzJvczhuZ0Rrc1pOZkRPRTJZUmpIdlJ1VTZqRzVhZEFvM0tpYzZ2SURFdF9WaW1lVWtoZmZ3M2F4bnZyd0xHRFZFU2t1S3VmNEhOS25LYmVyXzhJUEtablg0TWwtX2ZfTGRNMGJDbGtKZEpOX2s0alpUcENlekNITDRndkt5SC02UEFIT2pEclVTMFJfRTBLZTJUTTRoNGp1UVBmUkdtYU5lMlQwUW1KdHk4VnRNV3BiLWRZOEw2b2JJcEQyWEFYUVRNZGhxVnZHMVJ0S0IzRnhLVXpzQUV0SWstOGhHMjlXcXRpWTVSWUE?oc=5
+- Indian Tourists Spread Newspaper, Eat On Vietnam Airport Floor. Video Goes Viral - NDTV
+  Indian Tourists Spread Newspaper, Eat On Vietnam Airport
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnhkbjZfU0xKdzg4WXU0RU5aZ0duZkpBVHc1cEtWRHUyaUt2cXNHYTRqR1BaekFPMTRWYkhnQ3lIT3REeGF6RC1rTkJ6eGNldjZ6a2dZLVYySDlfcG1Ld2s1bFJCS3hWU3VsaXJsbjUzVG1sLWZ6LVJ0ZlpacnloWDRtX2hPRUE2NGd2a2tPbjR0MEZLcUJfTFVhYVFJMm5BUnhGb0Q1M2pSYVBCZHZaQ2dzYl9zd9IBvgFBVV95cUxObGxialdGcnRZZUZzcERISU4yR1pfT0hsUG0xTXYyWG9qSUVfR1NCR2ZDeVdWbWllck1DYWVTMzZEdWhQVXpYeXFUUk1oOFpPTEVENzdlSWN3c1lTbms0MVpUNFJTN1h1TTA0WmlxVDVJZU9SbmQydnB1NWxLNUtaaVhIOVNLTGp3WFJxaFY0U0Y0dUVPZnpUTDVZbkhaaFkzbWJ3SFhqcjQtZDU4emFfSl9NVDUxRHY5S2dLVFJR?oc=5
 
-- Ayatollah Mojtaba Khamenei's Representative Wishes Indians A Happy Diwali - NDTV
-  Ayatollah Mojtaba Kham
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXlYWmlvai13QXJfMEdpZVU2YllROXhLQjM5WUdkelBVOWRNYlRyeTVEN2xPNlZxbl9iMUdYVk9mRGwyOXZ6c2w1ZWZJZ0VfUzFnVkZyR0UtN2tyNE1CTGRROGxkdTkySUxTRXNoZFBweUY5UUZXNXZHbWdBWlk0dXFiNGhzaUhRbDdsWWY4SUFZRDhCTlluSnR2ZlV6UFlBNmRfR3RmVUgxb09tdlVGS0dfTdIBuwFBVV95cUxPRzkyR2JBS3RBR1JYMU5qaDdfdUtjQWVrdTkwem5hSUZuLXRaZHFJU2hmc1E5Nzcza1ZXTWwtN1l0OW82R1ZGMm04SXNBQWVXSWNuakNXN2JTVUxQSGxnTV80UmNjNWVlS2tjMTU5TzdwN2dteFBQODFoWkoySlJTVjNFOUJNV3VURXZOTVloaVlSMTh0YmtQeUVPemFtQU1DSGtPS2ZGN0FQc1dtb3ZlWm8ya3JVMkpGNXhR?oc=5
+- India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch - The Hindu
+  India’s policy shift towards Israel is regrettable, says former Mad
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZUFraFltVi1hbDRtN3h3Y2FhXzJ5TXJrMGwzX0NmM3hNSld6Tk9XdmlLSFJHRXMtZnJnZVdTUGdoRjFKYU84SXFjNkJ0dE1XdUlfdXlWbG1sTnZ5Ym5QdjQ1aThSNGc0b1ZFMHFqbU93ZVM0eVRjcWZLVlBzcG5ndEVfQTFYUUhyZzhRVTFsM1hPUXdBdjY3b3RYMXktbld6UWJJTTFIc2hVR3BjQVE3MUJQV2xjQktYeDZlVkdhTE4xaFczMkxCbVV3bEY5WWllaTczOUxTZHloazNQaHdHY25BQ2c4OWpzT01tNVNkZ2hlVFpSRVVPZ0FMa0k0bEHSAYYCQVVfeXFMUHVqSlpqemFCenZpN0lwQ3hEVHppcUFBbW9xV3FQV2ozb2p0d09wYnIxMF9QcGNTMENUWTV6SUtCdWZMMXg3dllwbjFrRmszUno1aFJ2YzJJT3hZY3BaX1Y2bVRHNVNmZUZLdF9LUXNRNEhNeVR6SldaWWItOTFRTXNVeWdsTmEybUZ6MXNPdG9jUG1uaWZhU1VKdFEtSUtWdGVuby1hNE9fdXViRW1oUUdOSW8xcmtTM2Vfek55M2hHTUpRMzdOTVZIRFVoOW9fY3lHVFY5ZXpkSFZPdnI3TGpyYjZyWVVkYnRxREh1ZVRNdmxqdDVNdTFBcU5TNnZlcVh1WnN1Zw?oc=5
 
-- ‘Dimagi Naxals’ instigating people against Constitution and democracy: PM Modi as Maoists eliminated - The Hindu
-  ‘Dimagi Naxals’ instigating people
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJBSjlvNjFubHExa0d0OGV1VkJIbTliaTVkN2Nqa1BxT3RWSGlPS0NURkdJcTVSaGR3S05mNHhUdU1xTXhMMlJMRTR4VXFNYkc5TTEyR1RJdUVRS2dCRi02b2YxeE1UQU1zcmtzNDQ4ZWVTRFJUQXI5d2ZCWHVTTEdkVNIBwwFBVV95cUxPU3VnYTAxRzBGaEJVWjFscmtjcFhXOEdTR3U4VkRoLWFMVmJLZlRUZGdJbnY1Z3U3YlAzSV9NVWI1aXlUQl9JeFRtcExNMU9lMFpJVXFUY3kweGsybDVPMlZxRE1zYW5pUjlyZzJSTG5COTcwdkQ2VzUwcWpvRHRsRmtUb1VPX0xlRVNDNjBKblYtbm50S1BhampDUGVGZUF1V2wwQzBhVklEbjd0bEphdUZLeFZXY1l3TjNWRE5zRHNrdFE?oc=5
+- Petroleum Ministry says E20 petrol across India meets prescribed quality standards - News On AIR
+  Petroleum Ministry says E20 petrol across India meets prescribed
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkN4MVBSS3kyWkRFXzNCXzhOcWVjcGRIMXBxWEVHdHdCYVJBZmRxRHd2RER5RUZSSWxpWXE0RW4teTJteXJTV2pTbXl3b3NTOUtuallpS3JJTW1QMjNkaFliTEJ4VDhQNXVxLVhCeTNBMzdWdjJ2SkVhYVVGSUZMaVdiLVNfSEthcG1oa1NXZ0xQVVVJeUhKVmw3NGxrb3RhLWtvV0ZhVUJ4Wldt?oc=5
 
-- Naxals Wiped Out In Forests But 'Dimagi Naxals Hide Among Us': PM Modi In Bastar On Diwali - NDTV
-  'Dimagi Naxals Hide Among Us': PM Modi In Bastar
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM0QzNWV4WEJNZ3lwNDQ2aGt6N0Jhdk4wN3MzNHRRNE1YM01IQlZXMjYzWWlZVU5oX1VQVEQyV043eGJhYkF2bHJLQnRLbnpkUWFQVmpjMGNLbTdQTm40dUpTcjNqTjY3MzBNblJROEdtVGZfS2xiUFpkY3Q0TFI1cFliZXljVEZfWC1IMHF4Tzc4V2RyZnRYaTV0ZnY0LTBkOUdENEtUSklQMVpCWFZZaDZ6UFlZLUVFWWRRR3BwZzFMSldRRFJCQWdtRGdPN0hTTGdjU3hZeF9JSDE1MUNhS1RBUkM2V2VxOEHSAfIBQVVfeXFMTmZEM205SHhPQ1VtR21PcjJla1l3amdaWWYyV1RRVEZZOG9EdDFIVFFHR2dUeDNRU3FWcUdSUUI4UWhIcUFPM3VxV1QtV0VXbGVWSWUzMGlsdVZ4dk13SW0tcU9JOGd6UDlkYXRWX3FRcHVfdmhURnQ3T1BIMFJPOFlTUVNXbkxnNEVVMDQ4SEgyeEVUTFRtZ044N3JWU05HSHFFQ25FZzhDMXVXYVozem9oWW9ZemdVV0VmZ1pzZ1dxWFlPN29Oc0h6WTlWRXBxTUp0NHV4MVNJaDRWQTdJeVBkajBCTFF1ejhBTHEtZi1FTGc?oc=5
+- Rent-a-grandchild: Businesses offering companions to elderly grow in India - Al Jazeera
+  Al Jazeera reports on a new trend in
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFFYRVBiNW9yb2F6S0pEQU94V3A4RkxaY0k0bHlMeDBTWmt5MzJKbmNKaVBabllMNnE1LU5lcGhoV0lUTk1LbVVYaWk0LWhETDRpdDAwN01wQzZXTDhRS1cxYlZkd0E1MHEzZXp0dXFfYkh5X01HS1YxTnp4UF9XcmZic19iVWUtdEpuYTlqVE5ZOVY2eW9fRGlFSzZIT0JKWE0wbmlfM1ItY0xYeTFiOVdQQ3PSAboBQVVfeXFMUEpHTzBHOFZFeDA3YXhSRmVIckRaelc4REZkQ2w3OW1uanlZcUo2NTZqbEc0WnhKYkcxZVQ2UXd2QXpnbUJabkM2UUIzeUgybkhSYlR2Tk5TRUVnQlVJNEt3aHY5TTNvdnkxQ1Vsdl9SdVpGN3NadUxDZWJtYTFzdk5sLWdGWk9QV0dwWWo0X2Jtd1BlN3hsV21hbkVGb2Q4Ukx3SU02MGp2eDAwZVd2WkFGc0Fwd3NoaHRR?oc=5
 
-- PM Modi celebrates Diwali with Bastar security forces, says India has overcome Naxalism - The Economic Times
-  PM Modi celebrates Diwali with Bastar security forces, says
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcFpHUDA1aDJuNlh5SVB3ZGdiOE9UTkdtWi1GT3Zqc2lsWmdBNHh0cFVGS0tsSGNJRXo0ZXJmX0FDTUJqZTJDS2tISVJlWXpRMHJRS2kzQl9XUXRCUUUwOFlXUkxpQW1YN2dIX3ZocWJhQ1c4RFAyVVd5VWNyYVRLYXRjNVROX00xVElEVm1laVBsMnB6ZlZFWmtaZjZqNkhRUTFIOVBQSXB4ZTUwcWZOd0NFZXR2RkdJYzZCNURPWi1BLTJ3WTh3bmNYUU1TeEpaTGN1YjVyaFdGVG1wNG5jYzk4LTJDUdIB6wFBVV95cUxNRkZrMGVYVW8wZzhSSzJNMF8wY3JIclFkdlh5VlRKM1dqTURkN1R2NWJzVEFpaUx3UEJMT1RQaUlNYjB4UVh2aHR6N1h6Vzlvd3JzenpHWVRnV0NPN1JsOVFZZ3QtOF9QR3JxSll2OHo4VVQ1OWZ1TmFYT1pIenNqejVMVjRSQ1Y5RkstUXh3YXN1UkZnczMyOVhPOTdwVnBIZDgxWm1HblRiU1luTHljT2Y1Slc1TlpzUXU3UWcyY21sRXBPYjFRSlNFWTZVZXpUbkZBeHJTeGNHR19tb3BUMGRQV0xOcUszdXFN?oc=5
+- Delhi faces new challenge from Samosa caucus - The Hindu
+  The Hindu has published an article
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQc182czdneTJmamJ2Q05WRU1hTWF3UWNuWlFPS1VZMnlfYmxPdDN3VEdWY2NmZFNKZUpxUjRBYmtLbUlOZWVHTWJVQVpDMkJSTm5ETFhZVHAtSHBpNWRVOWkzUng2RGNjSDZ4QW40YXBmY25NS1lNbjN1T2pYbTh3WmpuZ0hrMjZJNXhmLWdoTGRSQ1NIc0hUTS1qU2Z3S3dPTTR4VEZ30gGsAUFVX3lxTE5Fc0dhMVkwNEh2dFJ5dG5QM2JZQ2t4YW00aG9DYTJ2X2Z2dVZSVmxya09DMC01VXlhSEhKcXAwaTFnZ3lTZUFMQTRpTWZyeXlkeWpjUmd0aS1odzhqQllCVDM5NVNPOE5hQWJXaVhyc0JtVHFCczdUb0tjV0hRQ19iV2E3M3RrU1JRVXM4NnM3N3ZseHA4a0I2cjJ2dEN3YWZsVTVaNXdMdHVUQlM?oc=5
 
 - NASA Awards Moon Base Transportation, Technology, Science Projects - NASA (.gov)
   NASA Awards Moon Base Transportation, Technology
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFpkZkN5aGpBeW9PVlpXVDhnR3VRbXVXQ25PV3ZEV1NBZk1Qa0tfUVdvbnBZZ2M3aU9wdndPTHI0MkJucFNDNmJUZmotTjAwZGRGdEVCUGVLVnJOR292UXUwd0pkc2tWNmtOajZqYWk0RXhPZ2VQb2JsR1h5M2NLaUNac2ZLRlhFVDJUNEFUWEdWSjZENDQzdW1GSzJoWVdK?oc=5
 
-- Technology-driven warfare calls for technically proficient Army officers, says MCEME Commandant - The Hindu
-  Technology-driven warfare calls for technically proficient Army officers
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeVZlWnUzdzBjZUF3SmxmRC1WdzFYNzFiam93Vk44R1lwU3dSRE11Ql9XWlM0LXVQemlRVndYdTdXNVBJbWkxVGRpbVY1V3d6b3RkUGpoa3J1bXRHZEVEUjdWYUJib1piNzRNbk1wQXpLS3g5blc5N3RoMFNQLVU4ci0tVklVTkIzMHFjSVhBb1hQQW41OGZlNFA4X29SVmF2RGhhWmowd3RzM01GakVzS3VEeFY3NUNJRVZVaUxTdUQya01zQ19yVi13THIzMkVfd0w4S2t4TXJ1cFRveWdzY3hEZnlsSmpNeFNJMUZVSHVYVTjSAfoBQVVfeXFMTWRHWGRTRGV0clJGSUFrOHg0ZmxNLVJVVnJid21nQXc4aUd4Y0dYdU9iT3BUSVVUSWt2cjdXYXh1RlFHbzNoYmlaSG9FZTNJQ05RWGZteGFUb09RQmVGOEtDV0FIMmhZdW03Smp6OFdva3Z1NUNoUVVwcC1UYXNaRHRrd3FodmRsTWhsd2I1bF94QmpDSjlEdUEySmRoczBXODdsOGVndWg1R0ZEb1QyemI3aUxYMFZmYjE1LXlYeUhKWERXM045ZVF4cm95cFlyOUVYWi1LdFhuaFllYzNra3FZZngtOTRpV1AwbnA3M2w0VmlZM3pDVFB2QQ?oc=5
-
 - Beyond Hitec City: Is Telangana building multiple technology hubs across the State? - Telangana Today
   Telangana is building multiple technology hubs across the State
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUJkaGdfcGlIVk9aa3JiYzBfMFNsX2xVQWlKelBxOGk4RnV4R05yNTh0a1J1amdkOHZMdl9OVnZFbFVhOTgwYjBwMUdGUWhIS3VJY0J2RnN0ckxUS19TbVNFSEdIZTRWMzFtRzA4U0NKZmQzcTdpUG9IV1VPenJOUjFfZTFGQm9CUmtmWm1wMzl3WDJJU1NHU0cwOTRGT3R6amQxWGtJZWtrYWdx?oc=5
+
+- Warfare technology finds new use on Britain's farms to boost crop yields - Business Standard
+  Warfare technology finds new use on Britain's farms to
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGJDVVNST3VZVEJCX2U3aENkU3NtYTFnT3VYTV9Fa2pyRkVuRC1pd1h3U29jRkhpSkhoWll5TkptSU14aUl4cWFQcWpqakFRSkxNZlRsWHNRYVVDVzRCTS1BYVNxNk1LbjNITDc5SEI0WG9MTXI1N1JMbzFBLWJBWDNiYzlpaTlLYlNjQjd0Nm5PQ0FaMUJzQkZTY0tFYzRaM3FBa3pQdWpKeXVWb3ZzN29hTm1kLXpmcENhaEc4VkptalNjMWJhblVPWkRVWHRuWWVR0gHYAUFVX3lxTE5hRnh3ZmFWZjFac01lVjd2OFp6YWVReUp0Z0JhVmtEYS1rVnMxX0JIOU03YXFSQUUwQVpsd1FEVldrdU1HRlNqbl96UmpPQkl0Zk5hRmR2ZFJ1SzR6SXZyVWpyakZsY0luVUtXN2Jaa0pJclVvS3lZd3c4dXcwbklmaG5iOVY1RGFwOU9YY0IzTVR6OW5ZR3lHSzI3WDVUV2xaeWQtaURTSGFJX1pkODJGNENGTUNfYlllbDFILVFJVWk4ODVyQkZLN2k4YVJtWWpZS0ROc0xVMQ?oc=5
 
 - CBBC: UK welcomes more Chinese technology and investment - CGTN
   &nbsp;&n
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTZNN0sxUTNCRm9YcFVuZ3ktb21hWGNSVXo4dUhtX01xTjhtZDZCYTdlTkJTN0RaNVVGQWJBbjAyMi1zRjJZcmM5OHFpY0ZacE52YXlkeFFMYnBaU0dFN29oQVVrU1JyemJBQTBvTXZibUZlX0VkenVwZ0JvdWFzTWxsa2kxNC1uVkRPT0dEc3NmQ002bGFkaVhUOWFGeFgtY3RnRm15c0dzbm1qWUhXNDZB?oc=5
 
-- Apple’s autocomplete restrictions include ‘Dictator Trump’ and ‘Sleepy Joe,’ researcher finds - The Indian Express
-  Apple’s autocomplete restrictions include ‘
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMzFwaEZkYmdVMjg5QkxjWTZKcm9mcjM2ZEx4T2xxNGs4X000X0VoWEJEakYzNGZLdTk0Njh3bTZvay1CTUl2SGstVEhMdUpQZW4wWnpITUFvRFd2MExocThiNTB0OE5kV3FUdUM5Wm43aTROajhPa3dkWW5LYkV6ZXBwS1ZvU3ZaeEJIVi1qWUUwMFVuTjR5dXYwTDRqRTYyanZHdlMtNE9JcUdNNmlKZzBDa190YkVBeTd4Njd6U193XzNiLWtPaEppMUhTd01uVnMta2hVZDRfQ0lKcURENEVSeFZReVZoQTdqbjFqb3ZvbG5USEHSAfwBQVVfeXFMTnlZU3hqQk92eW5wNGdiRHZaYzcwdFR5T0JDNGZvME9LOHAzY0hrR1NHbnVYNnlZSFBTckRTV3lqZkV5ZkJyZEdnNFpWazhfbmMwdGlmOGM3RWVidk05UlExM3hSOHZjcG8wUWdkS2JOYTJzTktyWFcycDVCd1VsZzRLc0p5aEY0VjRldjhwTERUaEd0QlIwTmotZGIzUmdXWmVueHkwV09UODV6UGtQTVdMS3hUemVJRkZyZ3E4ZWU4SUxCN3Z6dU44NnlxTGtTNG1HeC02WkFKdklmc2VneExRTVdqTVhDQ1gwZ3RnMldVSHA3VlZuMHBDb1Ey?oc=5
+- Innovative technologies, brand-new launches take spotlight at 9th CIIE - Xinhua
+  Innovative technologies, brand-
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE41cXpvSWxub1lmMTZoSWJER096bnhYNmhHZGYtTTRITlpCbkxiMkJkbWczbTB5dk1KMDlXTWJYRUlPNDRsYllGRzBzNUhaaXA3WEJsbEdTMWRlUW9udXpPSG80TkpPZF9ZbnlUbXdNUlpsUW9RaXFXblhWMTE?oc=5
+
+- Nvidia Board to Probe Spying Case After CEO Admits Infidelity
+  Nvidia Corp.’s board is launching an investigation into whether Chief Executive Officer Jensen Huang was targeted by a foreign espionage plot. Huang
+  🔗 https://www.livemint.com/companies/nvidia-board-to-probe-spying-case-after-ceo-admits-infidelity-11794169375335.html
+
+- Canva’s layoff package wins praise on LinkedIn: 6 months’ salary, 12 months’ healthcare, free MacBook and career support
+  The Australian design platform's restructuring will affect 1,
+  🔗 https://www.livemint.com/companies/news/canvas-layoff-package-wins-praise-on-linkedin-6-months-salary-12-months-healthcare-free-macbook-and-career-support-11794144404558.html
 
 - Israeli carrier Israir in talks to purchase local rival Arkia
   
@@ -52,33 +60,33 @@
   Singapore Airlines will invest more than S$2 billion to overhaul cabins across aircraft. First class will feature double beds, business class privacy doors.
   🔗 https://www.livemint.com/companies/news/singapore-airlines-1-6-bn-cabin-revamp-bigger-beds-privacy-door-for-business-class-sanjeev-kapoor-s-thalis-and-more-11794119291629.html
 
-- Adani Energy Solutions Step-Eleven says parent has funds to support power licence for proposed Noida data centre project
-  Adani Energy Solutions has reportedly responded to the Uttar Pradesh Electricity Regulatory Commission (UPERC) queries saying that its parent has  $15,155.80
-  🔗 https://www.livemint.com/companies/news/adani-energy-solutions-step-eleven-parent-has-funds-support-power-licence-proposed-noida-data-centre-project-investment-11794112060477.html
+- Dividend alert: MRF, Cochin Shipyard, Talbros and others may reward shareholders this week - Check key dates, returns
+   MRF, Cochin Shipyard, Nile Limited, Talbros Automotive Components and E
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-alert-mrf-cochin-shipyard-talbros-and-others-may-reward-shareholders-this-week-check-key-dates-returns-11794138915123.html
 
-- From campus to culinary success: How a 21-year-old Gurugram college student's cafe made  ₹15 lakh in 50 days
-  At 21, Ananya Agarwal is balancing her final year of college with running Lume &amp;amp; Lime. The cafe serves Italian, Mexican, and Mediterranean dishes prepared authent
-  🔗 https://www.livemint.com/companies/people/from-campus-to-culinary-success-how-a-21-year-old-gurugram-college-students-cafe-made-rs-15-lakh-in-50-days-11794117605607.html
+- Bosch bonus issue, stock split: 1 share to become 20 after 38% rally in one year! Check ratio, record date, returns
+  Bosch approved a 1:5 stock split and a 3:1 bonus issue, subject to shareholder approval. The actions would turn one
+  🔗 https://www.livemint.com/market/stock-market-news/bosch-bonus-issue-stock-split-1-share-to-become-20-after-38-rally-in-one-year-check-ratio-record-date-returns-11794135227568.html
 
-- Global AI sell-off turns into India's gain as FPIs pump  ₹46,000 crore in 5 sessions; will the buying spree sustain?
-  Foreign investors poured  ₹45,970 crore into Indian equities in November. Lower oil prices, resilient earnings and a retreat from AI-linked stocks helped make India more attractive
-  🔗 https://www.livemint.com/market/stock-market-news/global-ai-sell-off-turns-into-indias-gain-as-fpis-pump-rs-46-000-crore-in-5-sessions-will-the-buying-spree-sustain-11794135940793.html
+- Diwali Stock Picks 2026: Tata Steel, BEL, HDFC Bank - 25 brokerages reveal 187 shares to buy in Samvat 2083 | Full List
+  Twenty-five brokerages have named 187 distinct stocks to watch for Samvat 2083. The market outlook favors earnings growth over valuation
+  🔗 https://www.livemint.com/market/stock-market-news/diwali-stock-picks-2026-tata-steel-bel-hdfc-bank-25-brokerages-reveal-187-shares-to-buy-in-samvat-2083-full-list-11794134434530.html
 
-- Why did RR Kabel share rally 8% during Muhurat Trading despite weak market sentiment — what triggered the surge?
-   RR Kabel shares rose 8% to  ₹2,073 during Sunday’s Muhurat Trading session. The stock had recently weakened after subdued FY27 growth guidance
-  🔗 https://www.livemint.com/market/stock-market-news/why-did-rr-kabel-share-rally-8-during-muhurat-trading-despite-weak-market-sentiment-what-triggered-the-surge-11794133913486.html
+- Top 5 stocks to buy in Nov 2026: SBI, Swiggy, Adani Power, Lloyds Engineering, GE Vernova by Bajaj Broking | Target, SL
+  Bajaj Broking expert Pabitro Mukherjee has recommended stock-specific approach
+  🔗 https://www.livemint.com/market/stock-market-news/top-5-stocks-to-buy-in-nov-2026-sbi-swiggy-adani-power-lloyds-engineering-ge-vernova-by-bajaj-broking-target-sl-11794135408453.html
 
-- Emami vs Dabur Q2 results: Which FMCG giant wins on profit, revenue and dividend? Check target, upcoming record dates
-  Emami and Dabur shares rose nearly 7% over the past week after reporting Q2 FY27 results and announcing dividends. Emami
-  🔗 https://www.livemint.com/market/stock-market-news/emami-vs-dabur-q2-results-which-fmcg-giant-wins-on-profit-revenue-and-dividend-check-target-upcoming-record-dates-11794133857711.html
+- A rare red Diwali: Sensex ends Muhurat trading lower for only the eighth time in 30 years
+  Indian equities began Samvat 2083 on a muted note. NSE turnover rose from last year's session.
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-muhurat-trading-samvat-2083-diwali-market-11794137925445.html
 
-- Why Bertie thinks investors should be like drones
-  Investors call for higher corporate spending on R&amp;amp;D and capacity creation. But when
-  🔗 https://www.livemint.com/market/why-bertie-thinks-investors-should-be-like-drones-11794131602003.html
+- OnePlus ColorOS 17 update schedule: When will OnePlus 12, OnePlus Open, OnePlus Nord 6 and more receive new software?
+  The OnePlus 13R was the first older model to receive the latest software. OnePlus confirmed
+  🔗 https://www.livemint.com/technology/oneplus-coloros-17-update-schedule-when-will-oneplus-12-oneplus-open-oneplus-nord-6-and-more-receive-new-software-11794142156584.html
 
-- Muhurat Trading 2026: Samvat 2082 ends, Samvat 2083 begins - Sensex, Nifty end in red first time after 2017 | Reasons
-  Sensex and Nifty post their first negative Muhurat Trading close since 2017. Rising oil prices, Middle East tensions, foreign investor outflows, a weaker rupee and higher
-  🔗 https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html
+- JioHome Diwali offer: Get 5 months of free Wi-Fi with a 10-month recharge of  ₹6,660; check details
+  Reliance Jio has announced special Diwali offers for new and exisiting
+  🔗 https://www.livemint.com/technology/jiohome-diwali-offer-get-5-months-of-free-wi-fi-with-a-10-month-recharge-of-6-660-check-details-11794140577170.html
 
 - Sony revives iconic 1979 Walkman design with MDR-3R USB-C headphones: Check price in India
   Sony has even extended this vintage theme to the product's packaging and instruction
@@ -92,33 +100,25 @@
    Organizations realizing the highest value from artificial intelligence (AI) in customer service reported up to 50 per cent or higher improvements across core customer service key performance
   🔗 https://www.livemint.com/technology/top-ai-adopters-in-customer-service-gain-over-50-kpi-improvements-but-value-realization-remains-uneven-ey-report-11794109806515.html
 
-- Apple charges iPhone 18 Pro users up to 3 times its cost for storage upgrades: What buyers pay
-  Apple reportedly makes an estimated $408 on the 1TB upgrade and $750 on the 2TB variant. Wall Street Journal analysis highlights the hefty margins it earns from higher-capacity models.
-  🔗 https://www.livemint.com/technology/apple-charges-iphone-18-pro-users-up-to-3-times-its-cost-for-storage-upgrades-what-buyers-pay-11794056358617.html
-
-- Nothing to launch its first AI-native hardware product next month: Here’s what to expect as CEO reveals ‘no new screen’
-  CEO Carl Pei has teased the company’s first AI-native product, a screen-free productivity device. Pei says AI should help people capture useful information from everyday interactions.
-  🔗 https://www.livemint.com/technology/nothing-to-launch-its-first-ai-native-hardware-product-next-month-here-s-what-to-expect-as-ceo-reveals-no-new-screen-11794052846223.html
-
 - Muhurat Trading Highlights: Sensex, Nifty Break 9-Year Winning Streak As Markets Close Flat On Diwali - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGtNRWZHeUR4WXU3Zmp6clV5VkFVMnR1aDhjNmotZHk3SS02MXMyYTJnM3BZeTQ2R2d1LTBlaDlVeGs2UFMweWQ3TXQwbjBnTHpwT3Q4RnhOdFRJMjhzRnY2LXJRbFgtMW
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGtNRWZHeUR4WXU3Zmp6clV5VkFVMnR1aDhjNmotZHk3SS02MXMyYTJnM3BZeTQ2R2d1LTBlaDlVeGs2UFMweWQ3TXQwbjBnTHpwT3Q4RnhOdFRJMjhzRnY2LXJRbFgtMWxud2dRdEJlZnkxTW9rUy1sQy1RRHBKUmFNSjBzQXRCRF9ubFphRWtkcEhfTGo0SU8waGhLTmFpXzI2QVpWMEJ2bEE3QkQzeFBVZ1JmNjdLWkwwSHlTMDRhdnfSAcsBQVVfeXFMUDQ4VWVPblc3VFprUVpzaERIVF85U1ZfTzBKb3dxc1RwRnJaN1ZrZ25WN3ZFN0xqVk9XaFFkUTRFUk1Iekxfa3FKdEQwOFMxMEJ4a1hsb3g3SWtNc21OZUpnZ2xGeVJsdmFTQmNsTGM2dUNBT1pDLXBPT0ZDY1E5TnFvUTNRMjMzbG1YNnZZR3JkbVMwajd1WWVrTVFHdjJGblhlUG1HZmc1UXFBLU13LUdGbDVvclU4QkpLNlJNUlVuQzFSd3lBT0ZGQ2M?oc=5
 
+- FPIs Return to Indian Equity Markets, Invest Rs 38,971 Crore in a Week - DD News
+  FPIs Return to Indian Equity Markets, Invest Rs 38,
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOZC13Unl2bk5vRXFoenlOZDFOUUt3bzlwZFJCejMyQXVrQjdoRmtDOV9mNlc2YjJrcEwzNEV1UldnM3IzZ056VElHUTlCaGRUQjIta3ZsdFR1ZFRzb2RsZUl3S1JQeHpFWXo4X3JPMzMwV3V3akh5Y0RjaEQzSWUzZ2JuVExidmNnazRkSXNrdG5Cc2hLU25OTUR3?oc=5
+
+- AI Slump Revives Asia’s Forgotten Trades From China to India - Bloomberg
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHlmbjBTLXAyMXRaUFkyaXNncWYtdVB2X1puSzZiQmk3eHA2RzBLWTNmcE9KMzdQeGZ5T3lKclFuNTFzU3ItQWI3eTNYSGY4U0RtbnBXbm9jMUpmRjNCeDhpRUI1aWh6MklqTzdPR2w5OHhCQTZXMldXSjlLMEMyMHZwaDZodTlJOU4xbTFhcHJsTHg1bU1uaGNaR0FscDg5QWxmMUp5YTBCQUZNWGs0VQ?oc=5
+
+- ‘Giant step back in history’: Trump blames Democrats’ midterm sweep for $3 trillion market loss - The Times of India
+  The Times of India published a story on the Dow Jones Industrial Average on Wednesday.
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeTcxRnBBZDhSQThwY0thOVotY0NOOG9IN3JZMTNmYXNuQ2VkYjEzU1dqUmJfbFFuVENWX09FUUE3blY0dno0dE5QVVJmelRzSElqZ1BXMWhuTnB0Yk1ya2t3cjJJbkdrYlBhSWV3S0VLQXB3d1FVMTJMd2xsTGJ5ZERoWE1PTTIxSWNzcWhwU243QWF6QkU1TGczUjNvRFVXMjJXN1I4TFozOE5xMFVZNlpFTm04UDFUVzM4aks4VDBDTjd4T0dpbFA3dWRtLXF1T1hXbnI5UDREbmNWc3VvTTNLUUtRUXpZYmFxeGpITXNpQ2_SAfgBQVVfeXFMTW54TDk2dFdSUzVMcUFLNTBoRkJJSVg2ZVFSN01CcWJCUUxsMkRhUWVFd0p0Y1JQUkRETHBlSjQ1dWZnOUhVZE5mV2QwNVBjODhMM3FyNDdibDJtVS1jUjR5c1p5QXBsRE1TMllDcm9zeDhXV1NJQm0wcC04SXVzQ0k5R2tpZHFFNjhYeU5wMlRTREVkanFKSk5reTJzTWxIY1FRZjhTRmw4LWRWUTVFUlc4eDhIUzNiYmgwcThlNS1ER01MZWRnYlEwQmROaHhxYzVZNlR5VlphMTVDbDgtNHV4LVlOMTZKTHI0X0ZlYUNkV21JM0pwWTc?oc=5
+
 - Market may deliver bumper returns by next Diwali as valuations and earnings align, says Raamdeo Agrawal - The Economic Times
   Market may deliver bumper returns by next Diwali as valuations and earnings align
   🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOamQ1MUxDNTV3eXNtYWFUR2paWGVIbU1Cbm5Nc1NkMWF2Q2RoMUxSZVlVQU9CRkVxakJYVkhxSlFkLVJYa3dyaVBsWFdNekF6RFNsU0ZQVUx0S2RRZGE1elo1RGJBenE3Nlp1LUNRZzlNckVtMnhhb3ZCT0l5Vkx3THNqRHh5SkNoUzNHYkZpVVZ1TDVYYjFUZlBFckpxcTRjS3FmSnl3UW5LZjZTaEdTU3MwS040MjU5Qy03eDg0VlpNZ2lBaWFmWnhwRVFaMVpxNTZzM25RcFV4d2lZel9SSzY1WWVJd00xVmNKVWYzOE1fakNDTUVvS3hVWVVFYTN4SGgwT3hlQdIBjAJBVV95cUxQVEdseGhKRWpuWjl3MEtBVTMwLUdPWTJuSXVLaEhIejZ4SFpnUUhDM3pyeGlycWc2LU9pblVVbjVJODY2S1FYUDE2YXk2OFptaUlSMHRQdWVTYVVkb0NXYktmWTZxOXNYbTFzRktTUE1XYkdMLWg1OHMzemszdHpXYmNyd0NRNWs0SlE3OGZhM2F2WGVvV2VRbk53VVpaOVlTS3gyV1BjY0ZBZzl3NlRiSVlyajV2dkwwSS02TkVQRnZOTWEzeGlfT245WnNKSXlQdUV0NW9nWHBHVFUxN2oxODN0SHdQdFZHT1BzbHAtaWRjdktCalFjc1BGVDJvVmgyaE03X1pmVkQ4U3A3?oc=5
-
-- EU Close to Deal to Link UK Carbon Market After Brexit Split - Bloomberg
-  EU Close to Deal to Link UK Carbon Market After
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUU2andIZ3NUM1pYOHdmWXVzaUw2QlpJOVhyTDdNcDFNRFN6OEFPcXZCZnRtcTVZMWZsWTZEMTBRUGpVY0FVWDExNmRoMnhoQmk0YmZBZUlSOHpsZkhsNFlzM1BNUHNZc1NlMjB3bFZZOU11UXYxQzR4ZjNfSUdKY3UzUVQ1R0daRm1XU3o3MWFmV20zNGNDcEtBbTVWMm1JZWJaQ094dkx0TFhybk14dg?oc=5
-
-- India’s art market has found its buyers. Now it needs patrons willing to back artists - ThePrint
-  India’s art market has found its buyers. Now it
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOemlKVUdZMzVqV1lkaGhzRjNCZk94NjU5Mi16WG5lQ2RTdVdJMEdSV1NQaV9lamtBNWgwWWtHelgtN3JrR0JVN3JyYnJCQmNLUXhwOTEzYTR3WnVnakJMcmZsX0JjNDVEeU5XNnhjV2pJeG1pcWVVSU9XZWFUTE9WemZMQ1dPeDc3NkhaRkFTNzfSAZYBQVVfeXFMTUVUMHB6RlRzazZFTkZFcGtRVklqTzlaRFNEcWM1eTJuLWxRZTRKQVNjaUpGT3lfU3M0eXdTaVRiYUQxZVBoUVZUaHUyTmlGNDJqV1hEa0tOdGxpS1JocXY0R0xLcHhsQlpsZUpBblRlZ09yN2g1Q2tHMk9USzRIQjc1djZVTHRCR1dPRV9vbkFpQXJqVGxR?oc=5
-
-- CIIE offers first-hand look at ‘China Speed’; Fonterra boosts production capacity to meet rising demand in China, other markets: chairman - Global Times
-  CIIE offers first-hand look at ‘China Speed’; Fonter
-  🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WMUYzVDdQTTFHakM3RDNOSXBuNThrQzVxNXF6MkdQVkVfazZ2bXFkbnRGbUllcFZZOFdDaTlKb0JidEpqRWhJbjkzeGNaRnZJNFVLMzdCSEpuQ1U5RHVoc1RB?oc=5
 
 - Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff
   With falling crude oil prices, the rupee may strengthen, drawing foreign investors. Clarity from recent US elections is predicted to alleviate geopolitical tensions. Retail and domestic institutional investors are actively engaging despite foreign investor withdrawal.
@@ -140,25 +140,25 @@
   
   🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms
 
-- Trump's New Chief Of Staff Once Criticised India Over Russian Oil, Trade - NDTV
-  Trump's New Chief Of Staff Once Criticised
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNVEoyOGtNMFpkWUlMSTJwUUZwMzE5ZWlsSTB4NElPY0JoWEoydm5sV0JSZmtpOWdHQmY0aFJla1FpZEdneGpwTkV1SGNzcnFHV3dBeUdMdGxaMmVhMEp5Sl9kbGlmWkRMZl9DM3RIcG9sMlpzMGNnVjVGNXdIVFQtV05yaE51OVBWdG13Y2loaUNQYXFFeUh4V1pDUkp5Tl9tU3M0M3JuQWp1T18waWRGb1JrdC1UTzRzbUhvbWd0RGpvUVdpaHNuYmZjUnQ0cGg5bTVjRG9tX29MSXYxclFsUDluYTZucXROakdrZmlfUHlKWk9QcFB4aTM4Nm9pcEFjVkHSAYoCQVVfeXFMTXdobURtc3dqN1E2TjQ5NU9EWnhIMHc3RU9YdzJvczhuZ0Rrc1pOZkRPRTJZUmpIdlJ1VTZqRzVhZEFvM0tpYzZ2SURFdF9WaW1lVWtoZmZ3M2F4bnZyd0xHRFZFU2t1S3VmNEhOS25LYmVyXzhJUEtablg0TWwtX2ZfTGRNMGJDbGtKZEpOX2s0alpUcENlekNITDRndkt5SC02UEFIT2pEclVTMFJfRTBLZTJUTTRoNGp1UVBmUkdtYU5lMlQwUW1KdHk4VnRNV3BiLWRZOEw2b2JJcEQyWEFYUVRNZGhxVnZHMVJ0S0IzRnhLVXpzQUV0SWstOGhHMjlXcXRpWTVSWUE?oc=5
+- Indian Tourists Spread Newspaper, Eat On Vietnam Airport Floor. Video Goes Viral - NDTV
+  Indian Tourists Spread Newspaper, Eat On Vietnam Airport
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnhkbjZfU0xKdzg4WXU0RU5aZ0duZkpBVHc1cEtWRHUyaUt2cXNHYTRqR1BaekFPMTRWYkhnQ3lIT3REeGF6RC1rTkJ6eGNldjZ6a2dZLVYySDlfcG1Ld2s1bFJCS3hWU3VsaXJsbjUzVG1sLWZ6LVJ0ZlpacnloWDRtX2hPRUE2NGd2a2tPbjR0MEZLcUJfTFVhYVFJMm5BUnhGb0Q1M2pSYVBCZHZaQ2dzYl9zd9IBvgFBVV95cUxObGxialdGcnRZZUZzcERISU4yR1pfT0hsUG0xTXYyWG9qSUVfR1NCR2ZDeVdWbWllck1DYWVTMzZEdWhQVXpYeXFUUk1oOFpPTEVENzdlSWN3c1lTbms0MVpUNFJTN1h1TTA0WmlxVDVJZU9SbmQydnB1NWxLNUtaaVhIOVNLTGp3WFJxaFY0U0Y0dUVPZnpUTDVZbkhaaFkzbWJ3SFhqcjQtZDU4emFfSl9NVDUxRHY5S2dLVFJR?oc=5
 
-- Ayatollah Mojtaba Khamenei's Representative Wishes Indians A Happy Diwali - NDTV
-  Ayatollah Mojtaba Kham
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXlYWmlvai13QXJfMEdpZVU2YllROXhLQjM5WUdkelBVOWRNYlRyeTVEN2xPNlZxbl9iMUdYVk9mRGwyOXZ6c2w1ZWZJZ0VfUzFnVkZyR0UtN2tyNE1CTGRROGxkdTkySUxTRXNoZFBweUY5UUZXNXZHbWdBWlk0dXFiNGhzaUhRbDdsWWY4SUFZRDhCTlluSnR2ZlV6UFlBNmRfR3RmVUgxb09tdlVGS0dfTdIBuwFBVV95cUxPRzkyR2JBS3RBR1JYMU5qaDdfdUtjQWVrdTkwem5hSUZuLXRaZHFJU2hmc1E5Nzcza1ZXTWwtN1l0OW82R1ZGMm04SXNBQWVXSWNuakNXN2JTVUxQSGxnTV80UmNjNWVlS2tjMTU5TzdwN2dteFBQODFoWkoySlJTVjNFOUJNV3VURXZOTVloaVlSMTh0YmtQeUVPemFtQU1DSGtPS2ZGN0FQc1dtb3ZlWm8ya3JVMkpGNXhR?oc=5
+- India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch - The Hindu
+  India’s policy shift towards Israel is regrettable, says former Mad
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZUFraFltVi1hbDRtN3h3Y2FhXzJ5TXJrMGwzX0NmM3hNSld6Tk9XdmlLSFJHRXMtZnJnZVdTUGdoRjFKYU84SXFjNkJ0dE1XdUlfdXlWbG1sTnZ5Ym5QdjQ1aThSNGc0b1ZFMHFqbU93ZVM0eVRjcWZLVlBzcG5ndEVfQTFYUUhyZzhRVTFsM1hPUXdBdjY3b3RYMXktbld6UWJJTTFIc2hVR3BjQVE3MUJQV2xjQktYeDZlVkdhTE4xaFczMkxCbVV3bEY5WWllaTczOUxTZHloazNQaHdHY25BQ2c4OWpzT01tNVNkZ2hlVFpSRVVPZ0FMa0k0bEHSAYYCQVVfeXFMUHVqSlpqemFCenZpN0lwQ3hEVHppcUFBbW9xV3FQV2ozb2p0d09wYnIxMF9QcGNTMENUWTV6SUtCdWZMMXg3dllwbjFrRmszUno1aFJ2YzJJT3hZY3BaX1Y2bVRHNVNmZUZLdF9LUXNRNEhNeVR6SldaWWItOTFRTXNVeWdsTmEybUZ6MXNPdG9jUG1uaWZhU1VKdFEtSUtWdGVuby1hNE9fdXViRW1oUUdOSW8xcmtTM2Vfek55M2hHTUpRMzdOTVZIRFVoOW9fY3lHVFY5ZXpkSFZPdnI3TGpyYjZyWVVkYnRxREh1ZVRNdmxqdDVNdTFBcU5TNnZlcVh1WnN1Zw?oc=5
 
-- ‘Dimagi Naxals’ instigating people against Constitution and democracy: PM Modi as Maoists eliminated - The Hindu
-  ‘Dimagi Naxals’ instigating people
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJBSjlvNjFubHExa0d0OGV1VkJIbTliaTVkN2Nqa1BxT3RWSGlPS0NURkdJcTVSaGR3S05mNHhUdU1xTXhMMlJMRTR4VXFNYkc5TTEyR1RJdUVRS2dCRi02b2YxeE1UQU1zcmtzNDQ4ZWVTRFJUQXI5d2ZCWHVTTEdkVNIBwwFBVV95cUxPU3VnYTAxRzBGaEJVWjFscmtjcFhXOEdTR3U4VkRoLWFMVmJLZlRUZGdJbnY1Z3U3YlAzSV9NVWI1aXlUQl9JeFRtcExNMU9lMFpJVXFUY3kweGsybDVPMlZxRE1zYW5pUjlyZzJSTG5COTcwdkQ2VzUwcWpvRHRsRmtUb1VPX0xlRVNDNjBKblYtbm50S1BhampDUGVGZUF1V2wwQzBhVklEbjd0bEphdUZLeFZXY1l3TjNWRE5zRHNrdFE?oc=5
+- Petroleum Ministry says E20 petrol across India meets prescribed quality standards - News On AIR
+  Petroleum Ministry says E20 petrol across India meets prescribed
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkN4MVBSS3kyWkRFXzNCXzhOcWVjcGRIMXBxWEVHdHdCYVJBZmRxRHd2RER5RUZSSWxpWXE0RW4teTJteXJTV2pTbXl3b3NTOUtuallpS3JJTW1QMjNkaFliTEJ4VDhQNXVxLVhCeTNBMzdWdjJ2SkVhYVVGSUZMaVdiLVNfSEthcG1oa1NXZ0xQVVVJeUhKVmw3NGxrb3RhLWtvV0ZhVUJ4Wldt?oc=5
 
-- Naxals Wiped Out In Forests But 'Dimagi Naxals Hide Among Us': PM Modi In Bastar On Diwali - NDTV
-  'Dimagi Naxals Hide Among Us': PM Modi In Bastar
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM0QzNWV4WEJNZ3lwNDQ2aGt6N0Jhdk4wN3MzNHRRNE1YM01IQlZXMjYzWWlZVU5oX1VQVEQyV043eGJhYkF2bHJLQnRLbnpkUWFQVmpjMGNLbTdQTm40dUpTcjNqTjY3MzBNblJROEdtVGZfS2xiUFpkY3Q0TFI1cFliZXljVEZfWC1IMHF4Tzc4V2RyZnRYaTV0ZnY0LTBkOUdENEtUSklQMVpCWFZZaDZ6UFlZLUVFWWRRR3BwZzFMSldRRFJCQWdtRGdPN0hTTGdjU3hZeF9JSDE1MUNhS1RBUkM2V2VxOEHSAfIBQVVfeXFMTmZEM205SHhPQ1VtR21PcjJla1l3amdaWWYyV1RRVEZZOG9EdDFIVFFHR2dUeDNRU3FWcUdSUUI4UWhIcUFPM3VxV1QtV0VXbGVWSWUzMGlsdVZ4dk13SW0tcU9JOGd6UDlkYXRWX3FRcHVfdmhURnQ3T1BIMFJPOFlTUVNXbkxnNEVVMDQ4SEgyeEVUTFRtZ044N3JWU05HSHFFQ25FZzhDMXVXYVozem9oWW9ZemdVV0VmZ1pzZ1dxWFlPN29Oc0h6WTlWRXBxTUp0NHV4MVNJaDRWQTdJeVBkajBCTFF1ejhBTHEtZi1FTGc?oc=5
+- Rent-a-grandchild: Businesses offering companions to elderly grow in India - Al Jazeera
+  Al Jazeera reports on a new trend in
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFFYRVBiNW9yb2F6S0pEQU94V3A4RkxaY0k0bHlMeDBTWmt5MzJKbmNKaVBabllMNnE1LU5lcGhoV0lUTk1LbVVYaWk0LWhETDRpdDAwN01wQzZXTDhRS1cxYlZkd0E1MHEzZXp0dXFfYkh5X01HS1YxTnp4UF9XcmZic19iVWUtdEpuYTlqVE5ZOVY2eW9fRGlFSzZIT0JKWE0wbmlfM1ItY0xYeTFiOVdQQ3PSAboBQVVfeXFMUEpHTzBHOFZFeDA3YXhSRmVIckRaelc4REZkQ2w3OW1uanlZcUo2NTZqbEc0WnhKYkcxZVQ2UXd2QXpnbUJabkM2UUIzeUgybkhSYlR2Tk5TRUVnQlVJNEt3aHY5TTNvdnkxQ1Vsdl9SdVpGN3NadUxDZWJtYTFzdk5sLWdGWk9QV0dwWWo0X2Jtd1BlN3hsV21hbkVGb2Q4Ukx3SU02MGp2eDAwZVd2WkFGc0Fwd3NoaHRR?oc=5
 
-- PM Modi celebrates Diwali with Bastar security forces, says India has overcome Naxalism - The Economic Times
-  PM Modi celebrates Diwali with Bastar security forces, says
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcFpHUDA1aDJuNlh5SVB3ZGdiOE9UTkdtWi1GT3Zqc2lsWmdBNHh0cFVGS0tsSGNJRXo0ZXJmX0FDTUJqZTJDS2tISVJlWXpRMHJRS2kzQl9XUXRCUUUwOFlXUkxpQW1YN2dIX3ZocWJhQ1c4RFAyVVd5VWNyYVRLYXRjNVROX00xVElEVm1laVBsMnB6ZlZFWmtaZjZqNkhRUTFIOVBQSXB4ZTUwcWZOd0NFZXR2RkdJYzZCNURPWi1BLTJ3WTh3bmNYUU1TeEpaTGN1YjVyaFdGVG1wNG5jYzk4LTJDUdIB6wFBVV95cUxNRkZrMGVYVW8wZzhSSzJNMF8wY3JIclFkdlh5VlRKM1dqTURkN1R2NWJzVEFpaUx3UEJMT1RQaUlNYjB4UVh2aHR6N1h6Vzlvd3JzenpHWVRnV0NPN1JsOVFZZ3QtOF9QR3JxSll2OHo4VVQ1OWZ1TmFYT1pIenNqejVMVjRSQ1Y5RkstUXh3YXN1UkZnczMyOVhPOTdwVnBIZDgxWm1HblRiU1luTHljT2Y1Slc1TlpzUXU3UWcyY21sRXBPYjFRSlNFWTZVZXpUbkZBeHJTeGNHR19tb3BUMGRQV0xOcUszdXFN?oc=5
+- Delhi faces new challenge from Samosa caucus - The Hindu
+  The Hindu has published an article
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQc182czdneTJmamJ2Q05WRU1hTWF3UWNuWlFPS1VZMnlfYmxPdDN3VEdWY2NmZFNKZUpxUjRBYmtLbUlOZWVHTWJVQVpDMkJSTm5ETFhZVHAtSHBpNWRVOWkzUng2RGNjSDZ4QW40YXBmY25NS1lNbjN1T2pYbTh3WmpuZ0hrMjZJNXhmLWdoTGRSQ1NIc0hUTS1qU2Z3S3dPTTR4VEZ30gGsAUFVX3lxTE5Fc0dhMVkwNEh2dFJ5dG5QM2JZQ2t4YW00aG9DYTJ2X2Z2dVZSVmxya09DMC01VXlhSEhKcXAwaTFnZ3lTZUFMQTRpTWZyeXlkeWpjUmd0aS1odzhqQllCVDM5NVNPOE5hQWJXaVhyc0JtVHFCczdUb0tjV0hRQ19iV2E3M3RrU1JRVXM4NnM3N3ZseHA4a0I2cjJ2dEN3YWZsVTVaNXdMdHVUQlM?oc=5
 
 - Pronto’s Second Shift
   Anjali Sardana and Pronto entered India’s domestic services market in 2025 to solve a familiar urban problem: finding reliable service
@@ -180,45 +180,45 @@
   The Directorate of Enforcement (ED) conducted searches at three premises linked to crypto exchanges CoinDCX and Delta Exchange India.
   🔗 https://inc42.com/buzz/ed-searches-coindcx-delta-exchange-over-alleged-illegal-cross-border-transfers/
 
-- Trump's New Chief Of Staff Once Criticised India Over Russian Oil, Trade - NDTV
-  Trump's New Chief Of Staff Once Criticised
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNVEoyOGtNMFpkWUlMSTJwUUZwMzE5ZWlsSTB4NElPY0JoWEoydm5sV0JSZmtpOWdHQmY0aFJla1FpZEdneGpwTkV1SGNzcnFHV3dBeUdMdGxaMmVhMEp5Sl9kbGlmWkRMZl9DM3RIcG9sMlpzMGNnVjVGNXdIVFQtV05yaE51OVBWdG13Y2loaUNQYXFFeUh4V1pDUkp5Tl9tU3M0M3JuQWp1T18waWRGb1JrdC1UTzRzbUhvbWd0RGpvUVdpaHNuYmZjUnQ0cGg5bTVjRG9tX29MSXYxclFsUDluYTZucXROakdrZmlfUHlKWk9QcFB4aTM4Nm9pcEFjVkHSAYoCQVVfeXFMTXdobURtc3dqN1E2TjQ5NU9EWnhIMHc3RU9YdzJvczhuZ0Rrc1pOZkRPRTJZUmpIdlJ1VTZqRzVhZEFvM0tpYzZ2SURFdF9WaW1lVWtoZmZ3M2F4bnZyd0xHRFZFU2t1S3VmNEhOS25LYmVyXzhJUEtablg0TWwtX2ZfTGRNMGJDbGtKZEpOX2s0alpUcENlekNITDRndkt5SC02UEFIT2pEclVTMFJfRTBLZTJUTTRoNGp1UVBmUkdtYU5lMlQwUW1KdHk4VnRNV3BiLWRZOEw2b2JJcEQyWEFYUVRNZGhxVnZHMVJ0S0IzRnhLVXpzQUV0SWstOGhHMjlXcXRpWTVSWUE?oc=5
+- Indian Tourists Spread Newspaper, Eat On Vietnam Airport Floor. Video Goes Viral - NDTV
+  Indian Tourists Spread Newspaper, Eat On Vietnam Airport
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnhkbjZfU0xKdzg4WXU0RU5aZ0duZkpBVHc1cEtWRHUyaUt2cXNHYTRqR1BaekFPMTRWYkhnQ3lIT3REeGF6RC1rTkJ6eGNldjZ6a2dZLVYySDlfcG1Ld2s1bFJCS3hWU3VsaXJsbjUzVG1sLWZ6LVJ0ZlpacnloWDRtX2hPRUE2NGd2a2tPbjR0MEZLcUJfTFVhYVFJMm5BUnhGb0Q1M2pSYVBCZHZaQ2dzYl9zd9IBvgFBVV95cUxObGxialdGcnRZZUZzcERISU4yR1pfT0hsUG0xTXYyWG9qSUVfR1NCR2ZDeVdWbWllck1DYWVTMzZEdWhQVXpYeXFUUk1oOFpPTEVENzdlSWN3c1lTbms0MVpUNFJTN1h1TTA0WmlxVDVJZU9SbmQydnB1NWxLNUtaaVhIOVNLTGp3WFJxaFY0U0Y0dUVPZnpUTDVZbkhaaFkzbWJ3SFhqcjQtZDU4emFfSl9NVDUxRHY5S2dLVFJR?oc=5
 
-- Ayatollah Mojtaba Khamenei's Representative Wishes Indians A Happy Diwali - NDTV
-  Ayatollah Mojtaba Kham
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXlYWmlvai13QXJfMEdpZVU2YllROXhLQjM5WUdkelBVOWRNYlRyeTVEN2xPNlZxbl9iMUdYVk9mRGwyOXZ6c2w1ZWZJZ0VfUzFnVkZyR0UtN2tyNE1CTGRROGxkdTkySUxTRXNoZFBweUY5UUZXNXZHbWdBWlk0dXFiNGhzaUhRbDdsWWY4SUFZRDhCTlluSnR2ZlV6UFlBNmRfR3RmVUgxb09tdlVGS0dfTdIBuwFBVV95cUxPRzkyR2JBS3RBR1JYMU5qaDdfdUtjQWVrdTkwem5hSUZuLXRaZHFJU2hmc1E5Nzcza1ZXTWwtN1l0OW82R1ZGMm04SXNBQWVXSWNuakNXN2JTVUxQSGxnTV80UmNjNWVlS2tjMTU5TzdwN2dteFBQODFoWkoySlJTVjNFOUJNV3VURXZOTVloaVlSMTh0YmtQeUVPemFtQU1DSGtPS2ZGN0FQc1dtb3ZlWm8ya3JVMkpGNXhR?oc=5
+- India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch - The Hindu
+  India’s policy shift towards Israel is regrettable, says former Mad
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZUFraFltVi1hbDRtN3h3Y2FhXzJ5TXJrMGwzX0NmM3hNSld6Tk9XdmlLSFJHRXMtZnJnZVdTUGdoRjFKYU84SXFjNkJ0dE1XdUlfdXlWbG1sTnZ5Ym5QdjQ1aThSNGc0b1ZFMHFqbU93ZVM0eVRjcWZLVlBzcG5ndEVfQTFYUUhyZzhRVTFsM1hPUXdBdjY3b3RYMXktbld6UWJJTTFIc2hVR3BjQVE3MUJQV2xjQktYeDZlVkdhTE4xaFczMkxCbVV3bEY5WWllaTczOUxTZHloazNQaHdHY25BQ2c4OWpzT01tNVNkZ2hlVFpSRVVPZ0FMa0k0bEHSAYYCQVVfeXFMUHVqSlpqemFCenZpN0lwQ3hEVHppcUFBbW9xV3FQV2ozb2p0d09wYnIxMF9QcGNTMENUWTV6SUtCdWZMMXg3dllwbjFrRmszUno1aFJ2YzJJT3hZY3BaX1Y2bVRHNVNmZUZLdF9LUXNRNEhNeVR6SldaWWItOTFRTXNVeWdsTmEybUZ6MXNPdG9jUG1uaWZhU1VKdFEtSUtWdGVuby1hNE9fdXViRW1oUUdOSW8xcmtTM2Vfek55M2hHTUpRMzdOTVZIRFVoOW9fY3lHVFY5ZXpkSFZPdnI3TGpyYjZyWVVkYnRxREh1ZVRNdmxqdDVNdTFBcU5TNnZlcVh1WnN1Zw?oc=5
 
-- ‘Dimagi Naxals’ instigating people against Constitution and democracy: PM Modi as Maoists eliminated - The Hindu
-  ‘Dimagi Naxals’ instigating people
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJBSjlvNjFubHExa0d0OGV1VkJIbTliaTVkN2Nqa1BxT3RWSGlPS0NURkdJcTVSaGR3S05mNHhUdU1xTXhMMlJMRTR4VXFNYkc5TTEyR1RJdUVRS2dCRi02b2YxeE1UQU1zcmtzNDQ4ZWVTRFJUQXI5d2ZCWHVTTEdkVNIBwwFBVV95cUxPU3VnYTAxRzBGaEJVWjFscmtjcFhXOEdTR3U4VkRoLWFMVmJLZlRUZGdJbnY1Z3U3YlAzSV9NVWI1aXlUQl9JeFRtcExNMU9lMFpJVXFUY3kweGsybDVPMlZxRE1zYW5pUjlyZzJSTG5COTcwdkQ2VzUwcWpvRHRsRmtUb1VPX0xlRVNDNjBKblYtbm50S1BhampDUGVGZUF1V2wwQzBhVklEbjd0bEphdUZLeFZXY1l3TjNWRE5zRHNrdFE?oc=5
+- Petroleum Ministry says E20 petrol across India meets prescribed quality standards - News On AIR
+  Petroleum Ministry says E20 petrol across India meets prescribed
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkN4MVBSS3kyWkRFXzNCXzhOcWVjcGRIMXBxWEVHdHdCYVJBZmRxRHd2RER5RUZSSWxpWXE0RW4teTJteXJTV2pTbXl3b3NTOUtuallpS3JJTW1QMjNkaFliTEJ4VDhQNXVxLVhCeTNBMzdWdjJ2SkVhYVVGSUZMaVdiLVNfSEthcG1oa1NXZ0xQVVVJeUhKVmw3NGxrb3RhLWtvV0ZhVUJ4Wldt?oc=5
 
-- Naxals Wiped Out In Forests But 'Dimagi Naxals Hide Among Us': PM Modi In Bastar On Diwali - NDTV
-  'Dimagi Naxals Hide Among Us': PM Modi In Bastar
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM0QzNWV4WEJNZ3lwNDQ2aGt6N0Jhdk4wN3MzNHRRNE1YM01IQlZXMjYzWWlZVU5oX1VQVEQyV043eGJhYkF2bHJLQnRLbnpkUWFQVmpjMGNLbTdQTm40dUpTcjNqTjY3MzBNblJROEdtVGZfS2xiUFpkY3Q0TFI1cFliZXljVEZfWC1IMHF4Tzc4V2RyZnRYaTV0ZnY0LTBkOUdENEtUSklQMVpCWFZZaDZ6UFlZLUVFWWRRR3BwZzFMSldRRFJCQWdtRGdPN0hTTGdjU3hZeF9JSDE1MUNhS1RBUkM2V2VxOEHSAfIBQVVfeXFMTmZEM205SHhPQ1VtR21PcjJla1l3amdaWWYyV1RRVEZZOG9EdDFIVFFHR2dUeDNRU3FWcUdSUUI4UWhIcUFPM3VxV1QtV0VXbGVWSWUzMGlsdVZ4dk13SW0tcU9JOGd6UDlkYXRWX3FRcHVfdmhURnQ3T1BIMFJPOFlTUVNXbkxnNEVVMDQ4SEgyeEVUTFRtZ044N3JWU05HSHFFQ25FZzhDMXVXYVozem9oWW9ZemdVV0VmZ1pzZ1dxWFlPN29Oc0h6WTlWRXBxTUp0NHV4MVNJaDRWQTdJeVBkajBCTFF1ejhBTHEtZi1FTGc?oc=5
+- Rent-a-grandchild: Businesses offering companions to elderly grow in India - Al Jazeera
+  Al Jazeera reports on a new trend in
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFFYRVBiNW9yb2F6S0pEQU94V3A4RkxaY0k0bHlMeDBTWmt5MzJKbmNKaVBabllMNnE1LU5lcGhoV0lUTk1LbVVYaWk0LWhETDRpdDAwN01wQzZXTDhRS1cxYlZkd0E1MHEzZXp0dXFfYkh5X01HS1YxTnp4UF9XcmZic19iVWUtdEpuYTlqVE5ZOVY2eW9fRGlFSzZIT0JKWE0wbmlfM1ItY0xYeTFiOVdQQ3PSAboBQVVfeXFMUEpHTzBHOFZFeDA3YXhSRmVIckRaelc4REZkQ2w3OW1uanlZcUo2NTZqbEc0WnhKYkcxZVQ2UXd2QXpnbUJabkM2UUIzeUgybkhSYlR2Tk5TRUVnQlVJNEt3aHY5TTNvdnkxQ1Vsdl9SdVpGN3NadUxDZWJtYTFzdk5sLWdGWk9QV0dwWWo0X2Jtd1BlN3hsV21hbkVGb2Q4Ukx3SU02MGp2eDAwZVd2WkFGc0Fwd3NoaHRR?oc=5
 
-- PM Modi celebrates Diwali with Bastar security forces, says India has overcome Naxalism - The Economic Times
-  PM Modi celebrates Diwali with Bastar security forces, says
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcFpHUDA1aDJuNlh5SVB3ZGdiOE9UTkdtWi1GT3Zqc2lsWmdBNHh0cFVGS0tsSGNJRXo0ZXJmX0FDTUJqZTJDS2tISVJlWXpRMHJRS2kzQl9XUXRCUUUwOFlXUkxpQW1YN2dIX3ZocWJhQ1c4RFAyVVd5VWNyYVRLYXRjNVROX00xVElEVm1laVBsMnB6ZlZFWmtaZjZqNkhRUTFIOVBQSXB4ZTUwcWZOd0NFZXR2RkdJYzZCNURPWi1BLTJ3WTh3bmNYUU1TeEpaTGN1YjVyaFdGVG1wNG5jYzk4LTJDUdIB6wFBVV95cUxNRkZrMGVYVW8wZzhSSzJNMF8wY3JIclFkdlh5VlRKM1dqTURkN1R2NWJzVEFpaUx3UEJMT1RQaUlNYjB4UVh2aHR6N1h6Vzlvd3JzenpHWVRnV0NPN1JsOVFZZ3QtOF9QR3JxSll2OHo4VVQ1OWZ1TmFYT1pIenNqejVMVjRSQ1Y5RkstUXh3YXN1UkZnczMyOVhPOTdwVnBIZDgxWm1HblRiU1luTHljT2Y1Slc1TlpzUXU3UWcyY21sRXBPYjFRSlNFWTZVZXpUbkZBeHJTeGNHR19tb3BUMGRQV0xOcUszdXFN?oc=5
+- Delhi faces new challenge from Samosa caucus - The Hindu
+  The Hindu has published an article
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQc182czdneTJmamJ2Q05WRU1hTWF3UWNuWlFPS1VZMnlfYmxPdDN3VEdWY2NmZFNKZUpxUjRBYmtLbUlOZWVHTWJVQVpDMkJSTm5ETFhZVHAtSHBpNWRVOWkzUng2RGNjSDZ4QW40YXBmY25NS1lNbjN1T2pYbTh3WmpuZ0hrMjZJNXhmLWdoTGRSQ1NIc0hUTS1qU2Z3S3dPTTR4VEZ30gGsAUFVX3lxTE5Fc0dhMVkwNEh2dFJ5dG5QM2JZQ2t4YW00aG9DYTJ2X2Z2dVZSVmxya09DMC01VXlhSEhKcXAwaTFnZ3lTZUFMQTRpTWZyeXlkeWpjUmd0aS1odzhqQllCVDM5NVNPOE5hQWJXaVhyc0JtVHFCczdUb0tjV0hRQ19iV2E3M3RrU1JRVXM4NnM3N3ZseHA4a0I2cjJ2dEN3YWZsVTVaNXdMdHVUQlM?oc=5
 
-- Trump's New Chief Of Staff Once Criticised India Over Russian Oil, Trade - NDTV
-  Trump's New Chief Of Staff Once Criticised
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNVEoyOGtNMFpkWUlMSTJwUUZwMzE5ZWlsSTB4NElPY0JoWEoydm5sV0JSZmtpOWdHQmY0aFJla1FpZEdneGpwTkV1SGNzcnFHV3dBeUdMdGxaMmVhMEp5Sl9kbGlmWkRMZl9DM3RIcG9sMlpzMGNnVjVGNXdIVFQtV05yaE51OVBWdG13Y2loaUNQYXFFeUh4V1pDUkp5Tl9tU3M0M3JuQWp1T18waWRGb1JrdC1UTzRzbUhvbWd0RGpvUVdpaHNuYmZjUnQ0cGg5bTVjRG9tX29MSXYxclFsUDluYTZucXROakdrZmlfUHlKWk9QcFB4aTM4Nm9pcEFjVkHSAYoCQVVfeXFMTXdobURtc3dqN1E2TjQ5NU9EWnhIMHc3RU9YdzJvczhuZ0Rrc1pOZkRPRTJZUmpIdlJ1VTZqRzVhZEFvM0tpYzZ2SURFdF9WaW1lVWtoZmZ3M2F4bnZyd0xHRFZFU2t1S3VmNEhOS25LYmVyXzhJUEtablg0TWwtX2ZfTGRNMGJDbGtKZEpOX2s0alpUcENlekNITDRndkt5SC02UEFIT2pEclVTMFJfRTBLZTJUTTRoNGp1UVBmUkdtYU5lMlQwUW1KdHk4VnRNV3BiLWRZOEw2b2JJcEQyWEFYUVRNZGhxVnZHMVJ0S0IzRnhLVXpzQUV0SWstOGhHMjlXcXRpWTVSWUE?oc=5
+- Indian Tourists Spread Newspaper, Eat On Vietnam Airport Floor. Video Goes Viral - NDTV
+  Indian Tourists Spread Newspaper, Eat On Vietnam Airport
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnhkbjZfU0xKdzg4WXU0RU5aZ0duZkpBVHc1cEtWRHUyaUt2cXNHYTRqR1BaekFPMTRWYkhnQ3lIT3REeGF6RC1rTkJ6eGNldjZ6a2dZLVYySDlfcG1Ld2s1bFJCS3hWU3VsaXJsbjUzVG1sLWZ6LVJ0ZlpacnloWDRtX2hPRUE2NGd2a2tPbjR0MEZLcUJfTFVhYVFJMm5BUnhGb0Q1M2pSYVBCZHZaQ2dzYl9zd9IBvgFBVV95cUxObGxialdGcnRZZUZzcERISU4yR1pfT0hsUG0xTXYyWG9qSUVfR1NCR2ZDeVdWbWllck1DYWVTMzZEdWhQVXpYeXFUUk1oOFpPTEVENzdlSWN3c1lTbms0MVpUNFJTN1h1TTA0WmlxVDVJZU9SbmQydnB1NWxLNUtaaVhIOVNLTGp3WFJxaFY0U0Y0dUVPZnpUTDVZbkhaaFkzbWJ3SFhqcjQtZDU4emFfSl9NVDUxRHY5S2dLVFJR?oc=5
 
-- Ayatollah Mojtaba Khamenei's Representative Wishes Indians A Happy Diwali - NDTV
-  Ayatollah Mojtaba Kham
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXlYWmlvai13QXJfMEdpZVU2YllROXhLQjM5WUdkelBVOWRNYlRyeTVEN2xPNlZxbl9iMUdYVk9mRGwyOXZ6c2w1ZWZJZ0VfUzFnVkZyR0UtN2tyNE1CTGRROGxkdTkySUxTRXNoZFBweUY5UUZXNXZHbWdBWlk0dXFiNGhzaUhRbDdsWWY4SUFZRDhCTlluSnR2ZlV6UFlBNmRfR3RmVUgxb09tdlVGS0dfTdIBuwFBVV95cUxPRzkyR2JBS3RBR1JYMU5qaDdfdUtjQWVrdTkwem5hSUZuLXRaZHFJU2hmc1E5Nzcza1ZXTWwtN1l0OW82R1ZGMm04SXNBQWVXSWNuakNXN2JTVUxQSGxnTV80UmNjNWVlS2tjMTU5TzdwN2dteFBQODFoWkoySlJTVjNFOUJNV3VURXZOTVloaVlSMTh0YmtQeUVPemFtQU1DSGtPS2ZGN0FQc1dtb3ZlWm8ya3JVMkpGNXhR?oc=5
+- India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch - The Hindu
+  India’s policy shift towards Israel is regrettable, says former Mad
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZUFraFltVi1hbDRtN3h3Y2FhXzJ5TXJrMGwzX0NmM3hNSld6Tk9XdmlLSFJHRXMtZnJnZVdTUGdoRjFKYU84SXFjNkJ0dE1XdUlfdXlWbG1sTnZ5Ym5QdjQ1aThSNGc0b1ZFMHFqbU93ZVM0eVRjcWZLVlBzcG5ndEVfQTFYUUhyZzhRVTFsM1hPUXdBdjY3b3RYMXktbld6UWJJTTFIc2hVR3BjQVE3MUJQV2xjQktYeDZlVkdhTE4xaFczMkxCbVV3bEY5WWllaTczOUxTZHloazNQaHdHY25BQ2c4OWpzT01tNVNkZ2hlVFpSRVVPZ0FMa0k0bEHSAYYCQVVfeXFMUHVqSlpqemFCenZpN0lwQ3hEVHppcUFBbW9xV3FQV2ozb2p0d09wYnIxMF9QcGNTMENUWTV6SUtCdWZMMXg3dllwbjFrRmszUno1aFJ2YzJJT3hZY3BaX1Y2bVRHNVNmZUZLdF9LUXNRNEhNeVR6SldaWWItOTFRTXNVeWdsTmEybUZ6MXNPdG9jUG1uaWZhU1VKdFEtSUtWdGVuby1hNE9fdXViRW1oUUdOSW8xcmtTM2Vfek55M2hHTUpRMzdOTVZIRFVoOW9fY3lHVFY5ZXpkSFZPdnI3TGpyYjZyWVVkYnRxREh1ZVRNdmxqdDVNdTFBcU5TNnZlcVh1WnN1Zw?oc=5
 
-- ‘Dimagi Naxals’ instigating people against Constitution and democracy: PM Modi as Maoists eliminated - The Hindu
-  ‘Dimagi Naxals’ instigating people
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0xPeEdGUHF6U1Bfb1ZBVDlZaDUteU1nMGFVN0RaZHpKRXhqbDlxWGJacEpTV2lKY05qajhYZ05VVmJBSjlvNjFubHExa0d0OGV1VkJIbTliaTVkN2Nqa1BxT3RWSGlPS0NURkdJcTVSaGR3S05mNHhUdU1xTXhMMlJMRTR4VXFNYkc5TTEyR1RJdUVRS2dCRi02b2YxeE1UQU1zcmtzNDQ4ZWVTRFJUQXI5d2ZCWHVTTEdkVNIBwwFBVV95cUxPU3VnYTAxRzBGaEJVWjFscmtjcFhXOEdTR3U4VkRoLWFMVmJLZlRUZGdJbnY1Z3U3YlAzSV9NVWI1aXlUQl9JeFRtcExNMU9lMFpJVXFUY3kweGsybDVPMlZxRE1zYW5pUjlyZzJSTG5COTcwdkQ2VzUwcWpvRHRsRmtUb1VPX0xlRVNDNjBKblYtbm50S1BhampDUGVGZUF1V2wwQzBhVklEbjd0bEphdUZLeFZXY1l3TjNWRE5zRHNrdFE?oc=5
+- Petroleum Ministry says E20 petrol across India meets prescribed quality standards - News On AIR
+  Petroleum Ministry says E20 petrol across India meets prescribed
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkN4MVBSS3kyWkRFXzNCXzhOcWVjcGRIMXBxWEVHdHdCYVJBZmRxRHd2RER5RUZSSWxpWXE0RW4teTJteXJTV2pTbXl3b3NTOUtuallpS3JJTW1QMjNkaFliTEJ4VDhQNXVxLVhCeTNBMzdWdjJ2SkVhYVVGSUZMaVdiLVNfSEthcG1oa1NXZ0xQVVVJeUhKVmw3NGxrb3RhLWtvV0ZhVUJ4Wldt?oc=5
 
-- Naxals Wiped Out In Forests But 'Dimagi Naxals Hide Among Us': PM Modi In Bastar On Diwali - NDTV
-  'Dimagi Naxals Hide Among Us': PM Modi In Bastar
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM0QzNWV4WEJNZ3lwNDQ2aGt6N0Jhdk4wN3MzNHRRNE1YM01IQlZXMjYzWWlZVU5oX1VQVEQyV043eGJhYkF2bHJLQnRLbnpkUWFQVmpjMGNLbTdQTm40dUpTcjNqTjY3MzBNblJROEdtVGZfS2xiUFpkY3Q0TFI1cFliZXljVEZfWC1IMHF4Tzc4V2RyZnRYaTV0ZnY0LTBkOUdENEtUSklQMVpCWFZZaDZ6UFlZLUVFWWRRR3BwZzFMSldRRFJCQWdtRGdPN0hTTGdjU3hZeF9JSDE1MUNhS1RBUkM2V2VxOEHSAfIBQVVfeXFMTmZEM205SHhPQ1VtR21PcjJla1l3amdaWWYyV1RRVEZZOG9EdDFIVFFHR2dUeDNRU3FWcUdSUUI4UWhIcUFPM3VxV1QtV0VXbGVWSWUzMGlsdVZ4dk13SW0tcU9JOGd6UDlkYXRWX3FRcHVfdmhURnQ3T1BIMFJPOFlTUVNXbkxnNEVVMDQ4SEgyeEVUTFRtZ044N3JWU05HSHFFQ25FZzhDMXVXYVozem9oWW9ZemdVV0VmZ1pzZ1dxWFlPN29Oc0h6WTlWRXBxTUp0NHV4MVNJaDRWQTdJeVBkajBCTFF1ejhBTHEtZi1FTGc?oc=5
+- Rent-a-grandchild: Businesses offering companions to elderly grow in India - Al Jazeera
+  Al Jazeera reports on a new trend in
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFFYRVBiNW9yb2F6S0pEQU94V3A4RkxaY0k0bHlMeDBTWmt5MzJKbmNKaVBabllMNnE1LU5lcGhoV0lUTk1LbVVYaWk0LWhETDRpdDAwN01wQzZXTDhRS1cxYlZkd0E1MHEzZXp0dXFfYkh5X01HS1YxTnp4UF9XcmZic19iVWUtdEpuYTlqVE5ZOVY2eW9fRGlFSzZIT0JKWE0wbmlfM1ItY0xYeTFiOVdQQ3PSAboBQVVfeXFMUEpHTzBHOFZFeDA3YXhSRmVIckRaelc4REZkQ2w3OW1uanlZcUo2NTZqbEc0WnhKYkcxZVQ2UXd2QXpnbUJabkM2UUIzeUgybkhSYlR2Tk5TRUVnQlVJNEt3aHY5TTNvdnkxQ1Vsdl9SdVpGN3NadUxDZWJtYTFzdk5sLWdGWk9QV0dwWWo0X2Jtd1BlN3hsV21hbkVGb2Q4Ukx3SU02MGp2eDAwZVd2WkFGc0Fwd3NoaHRR?oc=5
 
-- PM Modi celebrates Diwali with Bastar security forces, says India has overcome Naxalism - The Economic Times
-  PM Modi celebrates Diwali with Bastar security forces, says
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcFpHUDA1aDJuNlh5SVB3ZGdiOE9UTkdtWi1GT3Zqc2lsWmdBNHh0cFVGS0tsSGNJRXo0ZXJmX0FDTUJqZTJDS2tISVJlWXpRMHJRS2kzQl9XUXRCUUUwOFlXUkxpQW1YN2dIX3ZocWJhQ1c4RFAyVVd5VWNyYVRLYXRjNVROX00xVElEVm1laVBsMnB6ZlZFWmtaZjZqNkhRUTFIOVBQSXB4ZTUwcWZOd0NFZXR2RkdJYzZCNURPWi1BLTJ3WTh3bmNYUU1TeEpaTGN1YjVyaFdGVG1wNG5jYzk4LTJDUdIB6wFBVV95cUxNRkZrMGVYVW8wZzhSSzJNMF8wY3JIclFkdlh5VlRKM1dqTURkN1R2NWJzVEFpaUx3UEJMT1RQaUlNYjB4UVh2aHR6N1h6Vzlvd3JzenpHWVRnV0NPN1JsOVFZZ3QtOF9QR3JxSll2OHo4VVQ1OWZ1TmFYT1pIenNqejVMVjRSQ1Y5RkstUXh3YXN1UkZnczMyOVhPOTdwVnBIZDgxWm1HblRiU1luTHljT2Y1Slc1TlpzUXU3UWcyY21sRXBPYjFRSlNFWTZVZXpUbkZBeHJTeGNHR19tb3BUMGRQV0xOcUszdXFN?oc=5
+- Delhi faces new challenge from Samosa caucus - The Hindu
+  The Hindu has published an article
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQc182czdneTJmamJ2Q05WRU1hTWF3UWNuWlFPS1VZMnlfYmxPdDN3VEdWY2NmZFNKZUpxUjRBYmtLbUlOZWVHTWJVQVpDMkJSTm5ETFhZVHAtSHBpNWRVOWkzUng2RGNjSDZ4QW40YXBmY25NS1lNbjN1T2pYbTh3WmpuZ0hrMjZJNXhmLWdoTGRSQ1NIc0hUTS1qU2Z3S3dPTTR4VEZ30gGsAUFVX3lxTE5Fc0dhMVkwNEh2dFJ5dG5QM2JZQ2t4YW00aG9DYTJ2X2Z2dVZSVmxya09DMC01VXlhSEhKcXAwaTFnZ3lTZUFMQTRpTWZyeXlkeWpjUmd0aS1odzhqQllCVDM5NVNPOE5hQWJXaVhyc0JtVHFCczdUb0tjV0hRQ19iV2E3M3RrU1JRVXM4NnM3N3ZseHA4a0I2cjJ2dEN3YWZsVTVaNXdMdHVUQlM?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-08 12:42:18 UTC_
+_Last updated: 2026-11-08 21:39:05 UTC_
