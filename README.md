@@ -1,252 +1,144 @@
 # 📰 Daily News Summaries
 
-- Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
-  Harsh Goenka is the co-host of
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
+- Troubles mount for Jensen Huang? Nvidia CEO summoned by US lawmakers over affair with Chinese ‘spy’ Alice Huang
+  Three Republican House committee chairs have asked Nvidia CEO Jensen Huang to attend a closed-door briefing on Nov 18. Huang's reported ties to Alice Huang, a former Megaspeed executive under investigation for allegedly
+  🔗 https://www.livemint.com/companies/news/troubles-mount-for-jensen-huang-nvidia-ceo-summoned-by-us-lawmakers-over-affair-with-chinese-spy-alice-huang-11794317474830.html
 
-- Delhi pollution on Diwali rockets to worst in 5 years - The Times of India
-  Delhi pollution on Diwali rockets to worst in
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxORE1iZlBlX3RxakRuZXNFaGE5azhEWnZZYngtaDE1MkY5RW1VYjFOTGVZTE1vQmZ5Mzd1QmhxQW11SVQtcjVYSFJFY2dWZVlXMzBrSU9KZ1QwMlM1QlE5bm9kUDBFRlp6RW45NHJrd29ScUdYc3Z2X3VSS0dCcGU0bnotMnNUNGgwS2VQWHhPV3pIMFdyemNQVVlGSzgtbzlFd0ZmZl9HZnNWZUZHWGRYSTBta1BsNTRwZlZjZUd30gHDAUFVX3lxTE51V2k1NVdSalpNa1F0SVNWZUxWNWx5NUE4ZGw0QjN1eVNsR0c3U3A2NDVFU2J2bG9jelFtVTBpVzNXbGlNbmdWQjZqdVJYQ2VmZFNmZTR3NTJRMEUwRS1BUHBNeVNTYjBidklZSS1UUlFfaVZJX3JveDhyYTdrYV84U3I5SnEwRW51dHNMMUxENTd3My12ODMydmRCOXI3SjlxcGlBdDRzQmFsb3lNT1ptLVgwbHJDYjVxZHZxeU5IVWl0MA?oc=5
+- Who is Ketan Sodha? From failed first crop to  ₹44 lakh in sales, Mumbai man's strawberry farming journey
+  Ketan Sodha, a 57-year-old entrepreneur from Mumbai, has taken an unconventional route into agriculture. He
+  🔗 https://www.livemint.com/companies/news/who-is-ketan-sodha-from-failed-first-crop-to-rs-44-lakh-in-sales-mumbai-mans-strawberry-farming-journey-11794316272276.html
 
-- India wins bronze and silver at ISSF World Championship - News On AIR
-  India wins bronze and silver at ISSF World
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUlfVmN0QTZkNndoeG11RVhISGp0OGk3ZWRBaFVUNTBsX0lRc2lWZGhyMGtDVzc1TnpZdTQxV0VVcVJaQU1sU0FkU3JGcjRicWo1Z015WTJkSXRJTXpTWUxzR0pwX1JXTzJLN2lhbGh4dlktSnlFMzQyVDdiV2dsQjBiR29kcWp4?oc=5
+- Blackstone to invest  ₹5,000 crore in IIFL Finance for 16% stake
+  Blackstone will invest  ₹5,000 crore in IIFL Finance for a 16% stake on a fully diluted basis. The deal marks a major private equity bet on India's NBFC sector.
+  🔗 https://www.livemint.com/companies/blackstone-iifl-finance-16-stake-buy-nbfc-pe-deal-11794312414497.html
 
-- India news: Delhi air quality level 'severe' after Diwali - DW.com
-  India news: Delhi air quality level
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFQa3VOS0VmN0lJb3hUdjEzQVF4QURPYk1WY1A1NTBpeEhXN0JfZkZneTJ6WlJlWHhJdDhvOFZocmRyWUpsb1FXdjhoZi1UaE52SWJiakVZWXJyb3VyYnNrV1lTTGpEc0dGWUF4MVp4cVVHUE43YkxLeE56azVhZER0d05xamxkT0p5RWk5MV9qSGxZ?oc=5
+- Tesla, SpaceX CEO Musk praises former friend Google co-founder Larry Page’s vision for future of computing: Here’s why
+  Elon Musk backed Larry Page’s prediction that 99.999% of global computing capacity may eventually move into space. The shift could be driven by AI infrastructure
+  🔗 https://www.livemint.com/companies/people/tesla-spacex-ceo-musk-praises-former-friend-google-co-founder-larry-page-s-vision-for-future-of-computing-here-s-why-11794312418963.html
 
-- Pawan Kalyan, wife Anna announce separation - The Indian Express
-  Pawan Kalyan and
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVNsbmtndEVjOWFfVk5Zam1mME9kRkpWWnZ0YXByRjJzekkyVVBuNmRrYXZDdGJXbDFxWFUzeXQzeURPNDRka0luY1pFTkxLaGs3a2c1TVAySnNkS1M0X05XRFhkNVM5Vk14dUNSNDN5dGthbDZBWjlnaFZiYlYxX3ptR1gtM2fSAY4BQVVfeXFMUDdlQ3lCeC1MdU9pZkI5cnFkc19vMFRYMzhTT1BqMVpjTWVUYlhWb1c2aHNIdkRSUVBFT2xqbEp3R0NzYWp4WHZEbTIySHIwWDI2SmE1aXEtLXF0N2FtWGZuNDAzT3lLcXFpNEJ3SGlTclBjd3pzWU4yVmtnMXN1bERibWQ3Y2tTdktZM1FuQQ?oc=5
+- Resolven mobilizes $900 million, eyes fresh $219 million
+  About $700 million is fund-based debt
+  🔗 https://www.livemint.com/companies/news/resolven-mobilizes-900-million-eyes-fresh-219-million-11794309578146.html
 
-- European Stocks Rise as Banking and Technology Sectors Advance - Bloomberg.com
-  European Stocks Rise as Banking and
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEFmSmlFM2JkZjZ2NTF4bWRQdTRHQU5yZ1ZzVnNnWll1VVdTVWNjSVpwVmFlVVdzdFRrWm5NVTV0cS1BV3pKUlRzaDZ2OVFEb0EzWGphQk1IRmtSLWdUR2lhYVo2T19ZWmduN0M2QmVLM09OUUc4LXVDOU5ILTFheE1XWGdzQ0VqSFhKaTdia0RkUkJmc3N4ckJvb2R4cS1yd1llTnB2TDJEUQ?oc=5
+- S&P 500 futures drop after higher-than-expected CPI reignites inflation concern: Live updates - CNBC
+  S&amp;P 500 futures drop after higher
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5VWk50RzlXYlZaV1pUOVFBLXNSUjFaOVhYSUpvQ25CVm5UWE1EMkE3bjRYSWNqVVRKUC16T3pId3BLLTQzcW9KRTJOUHVseDZJT3JwQ195cnZjX0IyODU3MHZNeVBtYVd3V2dxMlR5ZEphWnhBeERj?oc=5
 
-- The facial recognition technology stopping shoplifters - BBC
-  The facial recognition technology
-  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XV2xVUkFCRzNwV3U4Wmk5T2JpeG9CMElTemd6U3Vnb3RwT1FQX2FuMWtDcGVESEJMUVlORk9CVHprdnRlSW56dWFvYnVpVHlXT1k1NGI4ajU?oc=5
+- Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com
+  Asian Stocks to Rally on US Tech Surge,
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5
 
-- Watch CNBC's full interview with Melius Head of Technology Research Ben Reitzes - CNBC
-  Watch CNBC's full interview with Melius Head of
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU5kQnFXUjFENUh5V1lTYjlXTElBSVdHZlBtZ1p1WWJWUUhMVEt2bW5SUEMxQzNoM3hfSHhucnRNQXJrOFh5MklTei1uZkRmd0g1VU1BZjlzakxDZWstUDhjS0c0UXRuYlFPZXBBbFg0MFg1c0tKdlhpcno2bi1VaTFlZTFiaHFxZFEwQVFjd3pKX3pkSjg3S1FNcVltZHYzd0FjV0Q4RmVwc1EtWEdjMm1Bd05hVkFPT3lSM0FR?oc=5
+- Stock market today: S&P 500 and Nasdaq futures sink, Dow wavers after CPI data, new Anthropic IPO filing - Yahoo Finance
+  The S&amp;P 500 and Nasdaq futures sink, Dow wavers after
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREVVTENmTlJlY1Bnc0hHM044UjZReF9oT2s4c1lpSnVGdEtmYmN1eGZqRE5RSWszazktSkR0NmhpNW5hd2MzR1ZiSzNmdTU4UGI4aEFuMHpqSHZ3TVZnbjJRSlhBYWxsRk5sNERlSVhGM01RVlNfMW9hVkkwa3BsOHBJeGdxVWU4cmVxZDFrLTZnbW42NzFZOXBKOFhxTjNRYUFTUXVDS2ZLaUhZSElyT1VSOUFURGV0YWRwZ2ZqZy1feUdEdXdLaA?oc=5
 
-- Inspired by his family's farming roots, Saksham Kumar began teaching technology to rural farmers; his ini - The Times of India
-  Inspired by his family's farming roots, Saksham Kumar began teaching technology to
-  🔗 https://news.google.com/rss/articles/CBMilgNBVV95cUxQOUxjSE51N3dkSGZhZkdXeDBOWVNvdzBzdU4yNjhaZjYzLV9GRC1oNF8zMmhvQTY3QllJOGJEaDBPcTFqZmwwZ3M5SDVCWFVHbUZJN1V1ak4xdGRnZnk1eGhlNi1YWnpsZXZXcFRuQWFIaUJyVFE1MVVDY2prYTlxVXNpX2dLYjhwQXAzRE1DSnR3NlZrODVTZHp1UzVldHFvMkdZNGU0YV9ENTgwXzVYclNVUzNLSU1Jek9IOWduX2lyV0dMV21Nakc1OWE2elByZ3pFa3NucnRpOG4yTEFCaEwtd3VFUnFUTVpwOXBFUlZ6MjNsa0phUjhoX3FVRU1qS0VaYXliMDZtWDg0TldFZ3QtaEVIX2g1VE41VkxlWHpKN3FINXo0LVJwbkRydGp0Zm1Tc3VhdzgzOVFvSFUtcTQzMTFTbkQ4U1RwdjVmMFM2QmxrYUNEU2VXSURKYnZNMHRmRHo3SE9fQjVick1ZNUwzTXprTHFKUG1mcjUyRzBNTWVqaUo4cHUwd3lXb1lEVnN6STBR0gGbA0FVX3lxTE9pNjZTNXAxNzd4bW1wT2xUeDdVOUJkdDl6cjNxekt4RTZTM0NHRVV0dndpMEd3cE53SlpHSzk0bWM3VXE5bkJmczd0RjJLTjYta0x1Y3p1NG51eTJoc0lIakZjazl6cUxDdlppaWFpWkdwUUdmLUc4djFaRVA5UDBCWURJcGpxWTVlc1hHWEV4X190NVk5UW0tZ0dLZmJKWGNwbk1OOGR1Tm04empIVGVQaFBpelMtTTRVNEJNNXpjcF9TY1BLUXVvSkx1TzNVdmhtWXlXb2p4MWwtTmw2STNhaTdTVnpYSm4wTlp2WkxtdUNNS2x5TC1FNTRpT1FjcU50QnBILWZlZjJHOVhpa3pEd2poQVg2SURCc1hwamNyRWhUM0RyZU1aVTNqREJtUVF3X1pnT0pOWWtLeG9icjBBNnBYOVRQTTdtRnZTZUVHRkxjNW05bDFsUHZPMklGaTZkMzhqMlFQZFRWTjZkNmktM2F5M05IZEdsaUFuZHJweW1ydDNHcFdWendjUjJxb1dGTXBFT2hlSmozZw?oc=5
+- CPI Report Today: Inflation Eased in October, But Remains Elevated — Live Updates - WSJ
+  CPI Report Today: Inflation Eased in October
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTFAycGFzVmI4Q3NSQ2ZMTC1DdDR0M2R3SG1OZm1DMHZ6OG9qa3dJUllpSThRa1RlYm5uWGZrVDE1VHJZU0xJdlBFRWpZSnhzU2hUMlJ1UDdJXzFxamNqTDE5bkgwUXowRV9JdUhyckdOclgyMHlaZFE2RlZR?oc=5
 
-- Technology Empowers Ecological Conservation, Youth Shape a Sustainable - UNESCO
-  Technology Empowers Ecological Conservation
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNMHVqUFZMNkFwX3RyU1hCZ3NsWDNXR05XMEk2Y3FDRW1HM0dPMWNnR1BydTkxSmJ3VGktMVBvb3c4cHVRcDJTRkVUeTJiZ1RaM3FyRTRwU3dQZkNoN3RyTUlJeC1VUmNNSFd2RlZ3VHp1Q255Zy1uMWRRNFNHM1VLX0VWWUhVLTZ0cTBnajB0ZHpBLU9YN3lTMEhNalVFN0E1S1JFVWJhTnROaFphWnpXUGZaRnoxNUh2RDRiX1FmQXNWelhhUGhXRjk4dzlULWM?oc=5
+- Anthropic to raise $64bn in major stock market listing - BBC
+  Anthropic to raise $64
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HNWFGZG1teU8xOWttMlMzb1gtbVhmNW94MlFvanZrY3JCbVVkcExpX3VrTGFLOVgwaGhON21KMUN5SGI1R2hmM2pMMkJXQlFDaUU0TnV6TWVqNWM?oc=5
 
-- Yes Bank AT-1 bondholders still await clarity on their money nearly a month after SC verdict
-  The Supreme Court overturned the 2020 write-off. Investors are still waiting for Yes Bank to restore their 
-  🔗 https://www.livemint.com/companies/news/yes-bank-at-1-bondholders-still-await-clarity-on-their-money-nearly-a-month-after-sc-verdict-11794213239487.html
+- Nvidia's AI chips: The technology China wants and America won't give up - The Times of India
+  The Times of India reports that Nvidia's AI chips could be used
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQekdqZFUtcFUyLVhGR0VYajBVQUs1T3RrYVhBdHRSMXJLRmdiLUpLMHFuLUN3Y3dRYUdPYWdicVRqQVh5UVppSDR5b2VVbjlBbDNyV05kbThvWHBjdTRFMTM4c1JUVmp3WG9oaE5OSWpoOGt2ckQyRFkzRjdTaVh3ZFNDSzhTQno4M1FfTng3YURZQW93MFVrdERtSGhYNEZ2WF9Ib2RldlBWb0VWYU0tR0dKNDU0WVlmTzZhVGJybjluRjhNWFQxMlF3dU5GMGN6c1VpaWxB0gHbAUFVX3lxTE9xd1k0Q2NiLUs3REZPRThoVmxQRmp4eFBUVG4xVjNydV9qQWQwWlpSRHpGQXFlNk5OcUxHWVN6czIwMTVfOVF0Wko1bXVfbDZ0MFdlWlhjTFVVakV5elpFV2R2UV9SRkQ0WGFHQjcwbzFtbTJQbll1TzdINHZjZVlVeUhFZzRtbmI3X0pMZUVUUEdyQTVSdDdBSmdNRnhyNXFwdEFQQU1OaTY4MTNQTk9RV0hxUjJaQzh6VzR1TEhyTHJQNXkzWEVRbTNDc1c3bkV0cnNmZ3lCdjNrbw?oc=5
 
-- BNPL makes a comeback as payment apps try to fix its broken economics
-  The latest proposition combines payments, shopping and credit. acquire customers through UPI, finance their purchases and
-  🔗 https://www.livemint.com/companies/start-ups/bnpl-makes-a-comeback-as-payment-apps-try-to-fix-its-broken-economics-11793872644805.html
+- EXCLUSIVE: Microsoft presses Trump to scuttle expected ban on Chinese data center technology - Reuters
+  &nbsp; Microsoft presses Trump to scuttle
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5
 
-- Pay by the mile! GMR proposes nearly doubling UDF at Bhogapuram airport, drawing IndiGo's ire
-  Airlines and experts warn that higher fees could make flying less affordable, damp
-  🔗 https://www.livemint.com/companies/news/pay-by-the-mile-gmr-proposes-nearly-doubling-udf-at-bhogapuram-airport-drawing-indigos-ire-11794235217890.html
+- India Post being modernised with focus on technology, customer service: Pemmasani - The Hindu
+  India Post being modernised with focus on technology,
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmw4QVdWS2JHZHpSZXBhNmxMMFdJXzFMaHAzYXE2enMwNGhxQjlEZW9GaHhIbE5ZUUloMV9yMzJVeDRWd2hwMEo3bWItSXhMaHZIWHBVMVN1OE9qNkNELW04Z0o1UXBNSGxRMERtUEFXdy1fbjU1bFFaRDBOMDZvaTJUS3ZtZHpxcmV4a1Z4bzNLUzdyZmNUZFNRR1p1NTBPbDlOaS16cG9GWU9EeFVBaTBoS3BMekxfaGU0QnZfRGM3a1JGQk1UanZwV3ZBUUs2VWE3b3JIdUZ4MHNJMzlTR1V4b2pZZnZx0gHvAUFVX3lxTE1rQVEwbEEyNEF2aHIwMVJVelNFMXo4MUNOU1F6X0lFT1NMaVdIcS1jeU5yUDB4empQVUNCLU9GR2xuTDQ4YTRkT1dPNUdVX0FDMlRjNHhRLTdpeHBJck1OSVBDUklvbjd4b3pwNGhNM01KN3oxNHhIb09Qbi1WdWNRY2hrQVg2QXRGYW1XcVRLdmE2Q0FwckZpVFZjMERnX0Y3cUl0bE9FRUhTTURZbGZfZUJ2OW80djBuZ0ZTRnB6SlpPcDlTaF9ZYloxM1JKc1lGRFR3S1pBUXZiQ1M3X2RQNGdjbDZBcTNVaHZ5amtF?oc=5
 
-- Leak, conflict and loss of arbitration: inside a Tata Power Mumbai FIR
-  Tata Power has accused an arbitrator and former employees of undisclosed ties and leaking confidential data. The allegations follow a Singapore ruling awarding Kleros $490 million plus interest.
-  🔗 https://www.livemint.com/companies/tata-power-arbitrator-russia-trips-claimant-11794224233257.html
+- TCS brings real-world technology experience to over 23,000 students across 50 campuses - Tata Consultancy Services
+  TCS brings real-world technology experience to over 23,
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHJSQWpBWkZJV0V4LW1Wel9Jd0FUZ1BhQTBXTy1SM2E4QVBhQmZaZjdLaklxZlg4MVNIdk81eVV2azMxUFl1SEo4Yk5jNlZsMVJFZ0FDOWhFOWpPak9ZMEJ1VlM2VmFVMXN6U3lQMTRYUWxIZklKc3hiQWJ6OWJQb3ppTXZlZW96QTZTUjIzcmF5UVlyNm5YTURaWHBxRGF0SGk5SG1aT3p1Z1NPUFctZkRrMWhDcEo0M1U2azRPRVMxaWNGVkZRNnJQVEFwQQ?oc=5
 
-- Brazils Braskem creditors, shareholders target Wednesday deadline for debt deal, sources say
+- Waste Management in India: Technology, Growth & Future Outlook - IBEF
+  Waste Management in India: Technology
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNSURCNDg5UlNfSDY3UExsaWFKeVVRVHNCaXY5M1EtWDc2dGU0LXRqbXdOMEdZUThPOG1YRnlraVA3SWRVUTlEQmhieTExbGxUX1ZMM1JFNUljUU1DSV9Kbk84NVE1VE51RzFKaVI2SVFxMjZwa0EteFMtRE1NSkQ0Y2pwNHBSOWZJcGFnX3hOR280WmpTRGJibTB4MGl4SmVsaWc?oc=5
+
+- Nasdaq futures dip as Nvidia woes persist; Anthropic IPO in focus: Stock Market Live Updates
   
-  🔗 https://www.livemint.com/companies/brazils-braskem-creditors-shareholders-target-wednesday-deadline-for-debt-deal-sources-say-11794253700070.html
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms
 
-- Stock recommendations for 11 November from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 11 November. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-11-november-from-marketsmith-india-11794226262086.html
+- Nasdaq futures slip with Nvidia woes, Anthropic IPO in focus
+  The market is anxious about upcoming inflation data that could influence stock performance. Cooling oil prices have provided some optimism among investors. Concerns over the sustainability of the AI boom continue to linger in the background.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-slip-with-nvidia-woes-anthropic-ipo-in-focus/articleshow/135711347.cms
 
-- JPMorgan Weighs Big Discount to Lure Lenders for Software Debt
-  Banks could offer one of the year’s biggest discounts to sell some of the $5 billion in debt for software firm Qualtrics International Inc.
-  🔗 https://www.livemint.com/market/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt-11794262406093.html
+- Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs
+  Anthropic aims to raise up to $64.4 billion in an upcoming IPO, representing a significant market debut. The company plans a valuation of $1.02 trillion, showcasing its ambitions in AI.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs/articleshow/135711237.cms
 
-- EIB’s Calvino Says US Turmoil Is Driving Capital to Europe
-  European Investment Bank President Nadia Calvino says Europe is set to benefit from recent market turmoil.
-  🔗 https://www.livemint.com/market/eibs-calvino-says-us-turmoil-is-driving-capital-to-europe-11794262213745.html
+- US Treasury yields rise as Fed's Waller presses rate hike case
+  Short-dated Treasury yields saw an uptick, as he proposed the necessity of action despite seemingly moderated inflation data. Waller highlighted a possible half-point rate increase if inflation intensifies.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-as-feds-waller-presses-rate-hike-case/articleshow/135708551.cms
 
-- Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows
-  The top dollar-yen forecaster sees the Japanese currency rallying toward 147 per dollar next year. Neil Parker has spent nearly three decades tracking the yen.
-  🔗 https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html
-
-- Viking Loses 1.2% in October After Eschewing Many Big AI Bets
-  Viking Global Investors’ flagship hedge fund dropped 1.2% last month. The
-  🔗 https://www.livemint.com/market/viking-loses-1-2-in-october-after-eschewing-many-big-ai-bets-11794256428481.html
-
-- ₹85,000 Temple vs Apple Watch and Garmin: How does Deepinder Goyal’s wearable compare with popular fitness trackers?
-  Deepinder Goyal's Temple wearable claims to track heart rate, brain blood-flow signals and physiological strain. How does it compare with Apple Watch
-  🔗 https://www.livemint.com/technology/tech-news/85000-temple-vs-apple-watch-and-garmin-how-does-deepinder-goyal-s-wearable-compare-with-popular-fitness-trackers-11794248685970.html
-
-- PCs are getting less RAM for the first time: Why are 32GB and 64GB systems losing ground? Reason here
-   AI-driven memory shortage pushes DRAM prices higher. CPU-Z survey
-  🔗 https://www.livemint.com/technology/tech-news/pcs-are-getting-less-ram-for-the-first-time-why-are-32gb-and-64gb-systems-losing-ground-reason-here-11794242130798.html
-
-- Honor 700 series' unusual rear screen could do more than take selfies: Here's what it may reveal about your health
-  Honor's new 700 series has a surprise rear display that could track heart rate
-  🔗 https://www.livemint.com/technology/honor-700-series-unusual-rear-screen-could-do-more-than-take-selfies-heres-what-it-may-reveal-about-your-health-11794241660056.html
-
-- Pebble Qore Ultra review: Whoop-like health tracking at  ₹5,999, but what are the trade-offs?
-  The Pebble Qore Ultra is a screenless fitness band priced at  ₹5,999. It offers AI-
-  🔗 https://www.livemint.com/technology/pebble-qore-ultra-review-whoop-like-health-tracking-at-5-999-but-what-are-the-tradeoffs-11794216561217.html
-
-- ASUS Zenbook 14 launched in India with Ceraluminum body, OLED display and up to 33-hour battery
-  ASUS Zenbook 14 launched in India starting at  ₹1,36,990
-  🔗 https://www.livemint.com/technology/gadgets/asus-zenbook-14-launched-in-india-with-ceraluminum-body-oled-display-and-up-to-33-hour-battery-11794210646502.html
-
-- Stocks making the biggest moves midday: AST SpaceMobile, First Solar, Coherent & more — Live updates - CNBC
-  Stocks making the biggest moves midday: AST SpaceMobile, First Solar
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTFBETjEzVzFLTXhVVm5IMDQ2YS1uRTV6UWFtblVkY2xhZ3BzclA5dFJ5WFJkbklySl9ZMDZQZXRGWE5ZV0FJXzN4X0xpdU9yUFotUllSTk1UTVpscU5MeDM0RzFFQ1RYcHVkbjk4TWlnSGozT0NpaXRCbw?oc=5
-
-- Mapping the Market: Alphabet shares may be ready for a corrective rally - Reuters
-  Alphabet shares may be ready for a corrective rally
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9vZGlZeXZzRUlyeHhERkg4UzlnbEFhMHBoZDlLaGN1aS05cWZ5MENHV2xGREkzWjdaMDhyR3JWQTYycjhqVVI3TFkxNldsakNGYUJLNjFobWVSUWpXdzItZ2w4TDFYMVZRMzJTQlNyUF90YkJKQ2FmVzVLdkc?oc=5
-
-- Will probe into Nvidia's Jensen Huang indirectly benefit Indian stock markets? - The Times of India
-  Will probe into Nvidia's Jensen Huang indirectly benefit Indian stock markets
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ1Zsa0tvSldLdnRCSnhjQTkxVFBHSkdNYlVLd1lnUGw2S3N4dXJCbnVfTU84TWc3RjNKazBGNkxrdjE5LUFDc2JXbHdxQndjRVd1Q1o1ZVNGV1BqSmhYOXhuWXhDNlFkLWFSMzBodUtxNmEzVUJCZE5ueFhqMGZfc1Y4dXdDel9OWFJvaVh5UWtLVnJOdHJ1SXV1dlF0bUJkSFdRZkdBVzNYYkl1YnB2dnJkdVpxSTU3aWllNTd6akdjemt1RlJ3WnVBWm9TS2tqQlhIbWxfZjNxeHZvbHlveHMwb0FUV1owTFRkbHIwYXFyZnZD0gH6AUFVX3lxTE90WFhVcERhb0E0bTlqWW5JRUtTTUF0S3dxUDJqT21sQWZWTkhXRER4aTdYaXVudlFxMldGa2lJeS14bTc1aS1Jb0xaVHQtM096bFhNZk9kcEpMVDcxeGxlajFfQm44a3FCek45U1NzdlhXcXlXWmJSVUtpSHhNNlRGNm41SEl1cXhQeUloMkgzcFlHaXJEbUNRU0pFc3BEeGl4ZHkzYmxWSEJSUlVHcTA4emRqbll0RC1iQUFlVDBxZ21QUURySmozVG4zWERPUmMyVHpvanBHSXdoQ3p1MGdSbGIxUGxxR0g0cVdVZTJVNWl0TXdUajRMOUE?oc=5
-
-- Stock markets end higher amid easing crude oil prices, buying in banks - The Hindu
-  Stock markets end higher amid easing crude oil prices, buying
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPVTB5YjhLMkhDUlRYRmtybjFRcWliV1ZrOFJHNGs0VldFaHZ5QlFTVjRUOXhjbnllYkFiUjNNV3haNGxZcFVGYXBWUmR5TDdkS08wTjB1OHVRem1pdm5FeUdPdEpMQkUxWHJNSWJHQ1l6dnV2ckJuYktNbzJCNVozV0RKR0p1eUowVTJUNm9pOE00b3dxbGlUbm1KbGpucUJ6WXljUlBmSmpNcGtWZDVOcTNoS2FiREZpdl9EVWs4bWpXclhXQUx5bndnQdIB0gFBVV95cUxNZEdNU0RBWjdwV19XN2laZUh5enhIbExoYTR3QlU2MVQ1QTdmeTVHd2JEZEdSNGlrdTBhdHBqN05HWHc5ZWtGNmpnMUEwbTZqd0Q2Y0VSN0FIQXVudTc4eUllam0wWWQzSGpBQ0R2R1dnYUZaRmhYRXczZ3BzN1FQV0k1dnBhVlFobFVFVkM3OGFURHQtLXpzaXBzWnRfaU5KQlFCUHBCSF9iaVRnMVNycjZaeGV1LWVhdURXQWhGTEhESXJfVkEzVVNJa3FNZzBBWVE?oc=5
-
-- Markets News, Nov. 9, 2026: Dow Climbs 1,100 Points as Stocks Rebound from Last Week’s AI Sell-Off; Nvidia Sinks Amid CEO Probe - Investopedia
-  Markets News, Nov. 9, 2026: Dow Climbs 1,100 Points as St
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmxIdDR4WFNPZmJ5MjdLYV8yc2tSSDhfVmdmLXRBaUY3RGNwQWdwbG9fQjJnY0h3SVVOWUVZeGpydmxYYmx1bnBMeFhZNVR2cGZYUVJMLTBuYmxKd01UQm1Kb1hyMDVvMVgxZlYwdnFlc1d2dndTYzBwMkhnVmI3eUhWeDZzSEdZY0dzOFRJTHBPb0NmS1I5dDBB?oc=5
-
-- Global Market Today: Asian stocks rally after US tech surge, oil slump
-  South Korea's Kospi Index jumped more than 5% in early trading. Japan's Nikkei 225 rose nearly 3%. A broader
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms
-
-- Trump administration's embrace of "perp" futures sets off risk alarms for Wall Street stalwarts
-  The decision by the Trump administration to launch perpetual futures has sparked significant worry among market stakeholders. Leaders from established exchanges contend that these offerings might disrupt existing market dynamics and risk assessment practices.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/trump-administrations-embrace-of-perp-futures-sets-off-risk-alarms-for-wall-street-stalwarts/articleshow/135688561.cms
-
-- US dollar dips as easing AI and Mideast worries limit its appeal
-  After a six-month high, the US dollar is now on a downward trend. Investors are eagerly awaiting the upcoming consumer price index data. Meanwhile, the euro and other currencies are rebounding against the dollar.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-dips-as-easing-ai-and-mideast-worries-limit-its-appeal/articleshow/135687593.cms
-
-- US stocks: Dow Jones rallies 500 points, Nasdaq over 2% as chip stocks rebound; Nvidia probe weighs
-  Wall Street's indexes climbed as investors honed in on Nvidia CEO Jensen Huang's investigation and awaited crucial inflation data. Nvidia's shares faced declines due to worries over foreign intelligence, yet analysts proposed that the sell-off in AI stocks was
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms
-
-- Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy
-  CEO Jensen Huang acknowledged his relationship with the executive, raising concerns over security. Analysts believe Huang's leadership is crucial for Nvidia's ongoing success in AI technology.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms
+- Bajaj Finance issues 5.74 crore warrants to promoter for Rs 5,799 crore
+  Bajaj Finance has allotted 5.74 crore warrants to its promoter, Bajaj Finserv. The special committee of the board approved the issue at an issue price of Rs 1,010 per warrant.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-issues-5-74-crore-warrants-to-promoter-for-rs-5799-crore/articleshow/135708439.cms
 
 - Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
   Harsh Goenka is the co-host of
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
 
-- Delhi pollution on Diwali rockets to worst in 5 years - The Times of India
-  Delhi pollution on Diwali rockets to worst in
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxORE1iZlBlX3RxakRuZXNFaGE5azhEWnZZYngtaDE1MkY5RW1VYjFOTGVZTE1vQmZ5Mzd1QmhxQW11SVQtcjVYSFJFY2dWZVlXMzBrSU9KZ1QwMlM1QlE5bm9kUDBFRlp6RW45NHJrd29ScUdYc3Z2X3VSS0dCcGU0bnotMnNUNGgwS2VQWHhPV3pIMFdyemNQVVlGSzgtbzlFd0ZmZl9HZnNWZUZHWGRYSTBta1BsNTRwZlZjZUd30gHDAUFVX3lxTE51V2k1NVdSalpNa1F0SVNWZUxWNWx5NUE4ZGw0QjN1eVNsR0c3U3A2NDVFU2J2bG9jelFtVTBpVzNXbGlNbmdWQjZqdVJYQ2VmZFNmZTR3NTJRMEUwRS1BUHBNeVNTYjBidklZSS1UUlFfaVZJX3JveDhyYTdrYV84U3I5SnEwRW51dHNMMUxENTd3My12ODMydmRCOXI3SjlxcGlBdDRzQmFsb3lNT1ptLVgwbHJDYjVxZHZxeU5IVWl0MA?oc=5
+- Breaking News Live Updates, November 10: 12 killed, dozens hurt in crashes on foggy Bulgarian motorway - The Times of India
+  The Times of India reported that 12 people were killed and dozens injured in the crash.
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzFidWJvV0tNcG5uRWxKTW44ekMzUkpaUUtOTE0yQlVkZHJRRVQ2UjhOOXZpRVFtcDdLOUQzWDVlU1lzbzhXNlhtbXJuNHRMQktpdWNmcUJFaGo0V2lzMVVyVmpnZE5icFdQUUhMUjB3ZUMwSHhXLTFsZkJoUFZpMFhxLV92T2g2a1dHR2VhZVVxOHQwSEFRMUtfd1dtbDlKQnc2MmVn0gGrAUFVX3lxTE9MRUpZcjdNeVJ5ZXZIbEtXS1BrVzVldHBhR1hCZm4zOUtPZzlZbEhaeDBvVG5LZ29OVDMxLVRXbTZjSkM1VkxlTnZBRUJUdFFQUUdIMVNxdVAzTFhYSHYtRWhLMXVjSHE3LWFqaWZ3bk1QcENlSzJpdXA0REF3UV9lYVVqdVZQRWljc292ejMtVjU2ckRfeldmRW1DaDVKQXd1X3pJaG9qYVg5dw?oc=5
 
-- India wins bronze and silver at ISSF World Championship - News On AIR
-  India wins bronze and silver at ISSF World
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUlfVmN0QTZkNndoeG11RVhISGp0OGk3ZWRBaFVUNTBsX0lRc2lWZGhyMGtDVzc1TnpZdTQxV0VVcVJaQU1sU0FkU3JGcjRicWo1Z015WTJkSXRJTXpTWUxzR0pwX1JXTzJLN2lhbGh4dlktSnlFMzQyVDdiV2dsQjBiR29kcWp4?oc=5
+- Centre condemns coordinated anti-India campaign allegedly by Chinese vloggers presenting Dhaka locations as Delhi - The Hindu
+  Centre condemns coordinated anti-India campaign allegedly by Chinese vlog
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQQkFuX3JoYXM0VHp3NW5HU2N3cG9nTktlREMzR2VOeFluUy16em9ZYU90bWhaT0pMWC1VSXBfajVoM3p3WFlmdF9ubE95cnRDRm9YaUFFYkxhNVFvOTd6UUluZFJZVThOT2ZIU1BhWlVjcXRya0xLeHFfRXY0RTdDOUtVdHVwcFZKd3JJaEVpSzF5UHhlMWItOEpvU3lvUVhWaDhDZC16OGlRQUhOQ0pBNV9CQmxMYjU0MzlBeWVWd1R2a2w3MmpVN19hajNjSUMtSF9kbUd2SzJIMVpDcmdLdUdySW5CelpUa0dqenRLQUQ2eGdmeUsyTUtvRHNtd0FoeXfSAYgCQVVfeXFMUFI5bG9fYzd3b09Wc0dWLWNFQjFtWG1ja0c2SEFieE1HLTliVktBVnNUZ1ZRMG1Tc2VBOU81RjQ1SnlacTJBOU83OWZBTnZEX2FobE5zaGZ2RFNQMFZzSTRQV1FNdFV5LTM1UFFnXzBQX1ZUR2tvV1U3YVF4OTYyQjBqRnZPLTAybk5pR0tLaUtPZnQ5S2xrVldESVhXc053R08zaWREWHRPUTRTejZKdmpHRmQ1V3NyTld3MlY5M3YyNFVWZEYzcGJLRUMwalZpUU9jUUJvRW9uWkJ4aXJFVWdOSXhMQzN2ZFJuTVRjU1d0T2toN3I1STh3MGN4MXhjUE9UMnJaQnJV?oc=5
 
-- India news: Delhi air quality level 'severe' after Diwali - DW.com
-  India news: Delhi air quality level
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFQa3VOS0VmN0lJb3hUdjEzQVF4QURPYk1WY1A1NTBpeEhXN0JfZkZneTJ6WlJlWHhJdDhvOFZocmRyWUpsb1FXdjhoZi1UaE52SWJiakVZWXJyb3VyYnNrV1lTTGpEc0dGWUF4MVp4cVVHUE43YkxLeE56azVhZER0d05xamxkT0p5RWk5MV9qSGxZ?oc=5
+- Satellite Images Capture Thick Smog Over Northern India 2 Days After Diwali - NDTV
+  Satellite Images Capture Thick Smog Over Northern India
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQekxaSUUzQmNBU1k0Z1kwWmRSZlpmYlo5ODZoRVo4dTctZk52ZTVlNVBGRkF1RFZsTWg5T1JYODU5aHowRlN4TDdXa1Fmc255YlN6Xzh2MjJKYWhsb21jTmNsMnQxS0h0OEFhblp2WlpoRUpmaFZQQTdCenZOTE5YWEpmMzkwZ2N6Q0xtSEQyYUNMbTFqMjB3R0JTYmEzVld1dk1sd0pCSzE3NVZlT2phOW0xTFZhYWfSAb8BQVVfeXFMTThXUExETHlFcnlTcW5oQkdFd3JSLXB1SnE1RGZmM0tNWmFtb0k1Uy02R3ljamNUZW10S0dSbVB1UzVxOC04WG9QNWFGcU1kMm9KamRmal94eGE1X080RzAyVGhSMHlDZ2h1X09ZSGtlOU9lMTJ3NjJkWUVSLThCMTR3Zm9QekUzZmFSQ3RSTjN6cHpJdTMzQ0tpekxRV2tNZW41SW9KT1pfSVUzckR0TTEyaVJHM2VzMTcyVENCams?oc=5
 
-- Pawan Kalyan, wife Anna announce separation - The Indian Express
-  Pawan Kalyan and
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVNsbmtndEVjOWFfVk5Zam1mME9kRkpWWnZ0YXByRjJzekkyVVBuNmRrYXZDdGJXbDFxWFUzeXQzeURPNDRka0luY1pFTkxLaGs3a2c1TVAySnNkS1M0X05XRFhkNVM5Vk14dUNSNDN5dGthbDZBWjlnaFZiYlYxX3ptR1gtM2fSAY4BQVVfeXFMUDdlQ3lCeC1MdU9pZkI5cnFkc19vMFRYMzhTT1BqMVpjTWVUYlhWb1c2aHNIdkRSUVBFT2xqbEp3R0NzYWp4WHZEbTIySHIwWDI2SmE1aXEtLXF0N2FtWGZuNDAzT3lLcXFpNEJ3SGlTclBjd3pzWU4yVmtnMXN1bERibWQ3Y2tTdktZM1FuQQ?oc=5
+- Qantas to outsource 850 local jobs with most roles moving to India - BBC
+  Qantas to outsource 850 local jobs with
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE02RlZqRC1uYWJWaUtMNzIxblRsNFdxdXcxeXJEV05hdHRUb2J6emNjTW9OQ2xORHh0NU5GYTVqWWx4akljcDlJVnhZbDRLSFdocGJJRk5QYlp2TTg?oc=5
 
-- Decoding BlackBuck’s Core Trucking Model And Its New Engines
-  A truck carrying goods across India spends several days or even weeks on the road, but it’s not just the&#8230; trucks.
-  🔗 https://inc42.com/resources/decoding-blackbucks-core-trucking-model-and-its-new-engines/
+- Matrimony Q2 Profit Soars 2.7X YoY To ₹20.7 Cr, Revenue up 17.6%
+  Matrimony’s consolidated net profit for the September quarter (Q2 FY27) skyrocketed 165.4% YoY to ₹20.7 Cr from&#82
+  🔗 https://inc42.com/buzz/matrimony-q2-profit-soars-2-7x-yoy-to-%e2%82%b920-7-cr-revenue-up-17-6/
 
-- Profits Are Just Half The Story This Earnings Season
-  The 2026 festive season began in muted fashion, but the performance of some of the key new-age tech stocks in&#8230; has been encouraging.
-  🔗 https://inc42.com/features/profits-are-just-half-the-story-this-earnings-season/
+- ShareChat Parent Mohalla Tech’s FY26 Loss Widens 79% To ₹1,978 Cr, Revenue Inches Past ₹1,000 Cr Mark
+  Mohalla Tech, the parent of social media platforms ShareChat and Moj, reported a 78.5% YoY increase in its consolidated net&
+  🔗 https://inc42.com/buzz/sharechat-parent-mohalla-techs-fy26-loss-widens-79-to-%e2%82%b91978-cr-revenue-inches-past-%e2%82%b91000-cr-mark/
 
-- Pronto’s Second Shift
-  Anjali Sardana and Pronto entered India’s domestic services market in 2025 to solve a familiar urban problem: finding reliable service
-  🔗 https://inc42.com/features/prontos-second-shift/
+- Froncort.AI Raises $2.3 Mn From Google.org To Expand AI-Based Disease Surveillance
+  Froncort.AI Raises $2.3 Mn From Google.org To Expand AI-Based Disease Surveillance.
+  🔗 https://inc42.com/buzz/froncort-ai-raises-2-3-mn-from-google-org-to-expand-ai-based-disease-surveillance/
 
-- New-Age Tech Stocks Extend Rally, CarTrade Leads With 23.3% Gain
-  New-age tech stocks extended their rally this week. 54 of the 69 companies under Inc42’s coverage posted gains.
-  🔗 https://inc42.com/buzz/new-age-tech-stocks-extend-rally-cartrade-leads-with-23-3-gain/
+- Why Gramiyaa Had To Think Like A Supermarket To Win On Quick Commerce
+  It would be naive to think that getting listed on quick commerce platforms is half the battle won. Gramiyaa had to think like a Supermarket to win.
+  🔗 https://inc42.com/startups/why-gramiyaa-had-to-think-like-a-supermarket-to-win-on-quick-commerce/
 
-- From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week
-  Startup funding activity gathered steam in the first week of November. 20 Indian startups cumulatively raised $255 million.
-  🔗 https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/
-
-- Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
-  Harsh Goenka is the co-host of
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
-
-- Delhi pollution on Diwali rockets to worst in 5 years - The Times of India
-  Delhi pollution on Diwali rockets to worst in
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxORE1iZlBlX3RxakRuZXNFaGE5azhEWnZZYngtaDE1MkY5RW1VYjFOTGVZTE1vQmZ5Mzd1QmhxQW11SVQtcjVYSFJFY2dWZVlXMzBrSU9KZ1QwMlM1QlE5bm9kUDBFRlp6RW45NHJrd29ScUdYc3Z2X3VSS0dCcGU0bnotMnNUNGgwS2VQWHhPV3pIMFdyemNQVVlGSzgtbzlFd0ZmZl9HZnNWZUZHWGRYSTBta1BsNTRwZlZjZUd30gHDAUFVX3lxTE51V2k1NVdSalpNa1F0SVNWZUxWNWx5NUE4ZGw0QjN1eVNsR0c3U3A2NDVFU2J2bG9jelFtVTBpVzNXbGlNbmdWQjZqdVJYQ2VmZFNmZTR3NTJRMEUwRS1BUHBNeVNTYjBidklZSS1UUlFfaVZJX3JveDhyYTdrYV84U3I5SnEwRW51dHNMMUxENTd3My12ODMydmRCOXI3SjlxcGlBdDRzQmFsb3lNT1ptLVgwbHJDYjVxZHZxeU5IVWl0MA?oc=5
-
-- India wins bronze and silver at ISSF World Championship - News On AIR
-  India wins bronze and silver at ISSF World
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUlfVmN0QTZkNndoeG11RVhISGp0OGk3ZWRBaFVUNTBsX0lRc2lWZGhyMGtDVzc1TnpZdTQxV0VVcVJaQU1sU0FkU3JGcjRicWo1Z015WTJkSXRJTXpTWUxzR0pwX1JXTzJLN2lhbGh4dlktSnlFMzQyVDdiV2dsQjBiR29kcWp4?oc=5
-
-- India news: Delhi air quality level 'severe' after Diwali - DW.com
-  India news: Delhi air quality level
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFQa3VOS0VmN0lJb3hUdjEzQVF4QURPYk1WY1A1NTBpeEhXN0JfZkZneTJ6WlJlWHhJdDhvOFZocmRyWUpsb1FXdjhoZi1UaE52SWJiakVZWXJyb3VyYnNrV1lTTGpEc0dGWUF4MVp4cVVHUE43YkxLeE56azVhZER0d05xamxkT0p5RWk5MV9qSGxZ?oc=5
-
-- Pawan Kalyan, wife Anna announce separation - The Indian Express
-  Pawan Kalyan and
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVNsbmtndEVjOWFfVk5Zam1mME9kRkpWWnZ0YXByRjJzekkyVVBuNmRrYXZDdGJXbDFxWFUzeXQzeURPNDRka0luY1pFTkxLaGs3a2c1TVAySnNkS1M0X05XRFhkNVM5Vk14dUNSNDN5dGthbDZBWjlnaFZiYlYxX3ptR1gtM2fSAY4BQVVfeXFMUDdlQ3lCeC1MdU9pZkI5cnFkc19vMFRYMzhTT1BqMVpjTWVUYlhWb1c2aHNIdkRSUVBFT2xqbEp3R0NzYWp4WHZEbTIySHIwWDI2SmE1aXEtLXF0N2FtWGZuNDAzT3lLcXFpNEJ3SGlTclBjd3pzWU4yVmtnMXN1bERibWQ3Y2tTdktZM1FuQQ?oc=5
+- Sarvam Ropes In Google Cloud India MD Sashikumar Sreedharan As President & CBO
+  AI unicorn Sarvam has appointed former Google Cloud India managing director Sashikumar Sreedharan as its president and chief business officer.
+  🔗 https://inc42.com/buzz/sarvam-ropes-in-google-cloud-india-md-sashikumar-sreedharan-as-president-cbo/
 
 - Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
   Harsh Goenka is the co-host of
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
 
-- Delhi pollution on Diwali rockets to worst in 5 years - The Times of India
-  Delhi pollution on Diwali rockets to worst in
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxORE1iZlBlX3RxakRuZXNFaGE5azhEWnZZYngtaDE1MkY5RW1VYjFOTGVZTE1vQmZ5Mzd1QmhxQW11SVQtcjVYSFJFY2dWZVlXMzBrSU9KZ1QwMlM1QlE5bm9kUDBFRlp6RW45NHJrd29ScUdYc3Z2X3VSS0dCcGU0bnotMnNUNGgwS2VQWHhPV3pIMFdyemNQVVlGSzgtbzlFd0ZmZl9HZnNWZUZHWGRYSTBta1BsNTRwZlZjZUd30gHDAUFVX3lxTE51V2k1NVdSalpNa1F0SVNWZUxWNWx5NUE4ZGw0QjN1eVNsR0c3U3A2NDVFU2J2bG9jelFtVTBpVzNXbGlNbmdWQjZqdVJYQ2VmZFNmZTR3NTJRMEUwRS1BUHBNeVNTYjBidklZSS1UUlFfaVZJX3JveDhyYTdrYV84U3I5SnEwRW51dHNMMUxENTd3My12ODMydmRCOXI3SjlxcGlBdDRzQmFsb3lNT1ptLVgwbHJDYjVxZHZxeU5IVWl0MA?oc=5
+- Breaking News Live Updates, November 10: 12 killed, dozens hurt in crashes on foggy Bulgarian motorway - The Times of India
+  The Times of India reported that 12 people were killed and dozens injured in the crash.
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzFidWJvV0tNcG5uRWxKTW44ekMzUkpaUUtOTE0yQlVkZHJRRVQ2UjhOOXZpRVFtcDdLOUQzWDVlU1lzbzhXNlhtbXJuNHRMQktpdWNmcUJFaGo0V2lzMVVyVmpnZE5icFdQUUhMUjB3ZUMwSHhXLTFsZkJoUFZpMFhxLV92T2g2a1dHR2VhZVVxOHQwSEFRMUtfd1dtbDlKQnc2MmVn0gGrAUFVX3lxTE9MRUpZcjdNeVJ5ZXZIbEtXS1BrVzVldHBhR1hCZm4zOUtPZzlZbEhaeDBvVG5LZ29OVDMxLVRXbTZjSkM1VkxlTnZBRUJUdFFQUUdIMVNxdVAzTFhYSHYtRWhLMXVjSHE3LWFqaWZ3bk1QcENlSzJpdXA0REF3UV9lYVVqdVZQRWljc292ejMtVjU2ckRfeldmRW1DaDVKQXd1X3pJaG9qYVg5dw?oc=5
 
-- India wins bronze and silver at ISSF World Championship - News On AIR
-  India wins bronze and silver at ISSF World
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUlfVmN0QTZkNndoeG11RVhISGp0OGk3ZWRBaFVUNTBsX0lRc2lWZGhyMGtDVzc1TnpZdTQxV0VVcVJaQU1sU0FkU3JGcjRicWo1Z015WTJkSXRJTXpTWUxzR0pwX1JXTzJLN2lhbGh4dlktSnlFMzQyVDdiV2dsQjBiR29kcWp4?oc=5
+- Centre condemns coordinated anti-India campaign allegedly by Chinese vloggers presenting Dhaka locations as Delhi - The Hindu
+  Centre condemns coordinated anti-India campaign allegedly by Chinese vlog
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQQkFuX3JoYXM0VHp3NW5HU2N3cG9nTktlREMzR2VOeFluUy16em9ZYU90bWhaT0pMWC1VSXBfajVoM3p3WFlmdF9ubE95cnRDRm9YaUFFYkxhNVFvOTd6UUluZFJZVThOT2ZIU1BhWlVjcXRya0xLeHFfRXY0RTdDOUtVdHVwcFZKd3JJaEVpSzF5UHhlMWItOEpvU3lvUVhWaDhDZC16OGlRQUhOQ0pBNV9CQmxMYjU0MzlBeWVWd1R2a2w3MmpVN19hajNjSUMtSF9kbUd2SzJIMVpDcmdLdUdySW5CelpUa0dqenRLQUQ2eGdmeUsyTUtvRHNtd0FoeXfSAYgCQVVfeXFMUFI5bG9fYzd3b09Wc0dWLWNFQjFtWG1ja0c2SEFieE1HLTliVktBVnNUZ1ZRMG1Tc2VBOU81RjQ1SnlacTJBOU83OWZBTnZEX2FobE5zaGZ2RFNQMFZzSTRQV1FNdFV5LTM1UFFnXzBQX1ZUR2tvV1U3YVF4OTYyQjBqRnZPLTAybk5pR0tLaUtPZnQ5S2xrVldESVhXc053R08zaWREWHRPUTRTejZKdmpHRmQ1V3NyTld3MlY5M3YyNFVWZEYzcGJLRUMwalZpUU9jUUJvRW9uWkJ4aXJFVWdOSXhMQzN2ZFJuTVRjU1d0T2toN3I1STh3MGN4MXhjUE9UMnJaQnJV?oc=5
 
-- India news: Delhi air quality level 'severe' after Diwali - DW.com
-  India news: Delhi air quality level
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFQa3VOS0VmN0lJb3hUdjEzQVF4QURPYk1WY1A1NTBpeEhXN0JfZkZneTJ6WlJlWHhJdDhvOFZocmRyWUpsb1FXdjhoZi1UaE52SWJiakVZWXJyb3VyYnNrV1lTTGpEc0dGWUF4MVp4cVVHUE43YkxLeE56azVhZER0d05xamxkT0p5RWk5MV9qSGxZ?oc=5
+- Satellite Images Capture Thick Smog Over Northern India 2 Days After Diwali - NDTV
+  Satellite Images Capture Thick Smog Over Northern India
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQekxaSUUzQmNBU1k0Z1kwWmRSZlpmYlo5ODZoRVo4dTctZk52ZTVlNVBGRkF1RFZsTWg5T1JYODU5aHowRlN4TDdXa1Fmc255YlN6Xzh2MjJKYWhsb21jTmNsMnQxS0h0OEFhblp2WlpoRUpmaFZQQTdCenZOTE5YWEpmMzkwZ2N6Q0xtSEQyYUNMbTFqMjB3R0JTYmEzVld1dk1sd0pCSzE3NVZlT2phOW0xTFZhYWfSAb8BQVVfeXFMTThXUExETHlFcnlTcW5oQkdFd3JSLXB1SnE1RGZmM0tNWmFtb0k1Uy02R3ljamNUZW10S0dSbVB1UzVxOC04WG9QNWFGcU1kMm9KamRmal94eGE1X080RzAyVGhSMHlDZ2h1X09ZSGtlOU9lMTJ3NjJkWUVSLThCMTR3Zm9QekUzZmFSQ3RSTjN6cHpJdTMzQ0tpekxRV2tNZW41SW9KT1pfSVUzckR0TTEyaVJHM2VzMTcyVENCams?oc=5
 
-- Pawan Kalyan, wife Anna announce separation - The Indian Express
-  Pawan Kalyan and
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVNsbmtndEVjOWFfVk5Zam1mME9kRkpWWnZ0YXByRjJzekkyVVBuNmRrYXZDdGJXbDFxWFUzeXQzeURPNDRka0luY1pFTkxLaGs3a2c1TVAySnNkS1M0X05XRFhkNVM5Vk14dUNSNDN5dGthbDZBWjlnaFZiYlYxX3ptR1gtM2fSAY4BQVVfeXFMUDdlQ3lCeC1MdU9pZkI5cnFkc19vMFRYMzhTT1BqMVpjTWVUYlhWb1c2aHNIdkRSUVBFT2xqbEp3R0NzYWp4WHZEbTIySHIwWDI2SmE1aXEtLXF0N2FtWGZuNDAzT3lLcXFpNEJ3SGlTclBjd3pzWU4yVmtnMXN1bERibWQ3Y2tTdktZM1FuQQ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Qantas to outsource 850 local jobs with most roles moving to India - BBC
+  Qantas to outsource 850 local jobs with
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE02RlZqRC1uYWJWaUtMNzIxblRsNFdxdXcxeXJEV05hdHRUb2J6emNjTW9OQ2xORHh0NU5GYTVqWWx4akljcDlJVnhZbDRLSFdocGJJRk5QYlp2TTg?oc=5
 
 
-_Last updated: 2026-11-10 01:08:48 UTC_
+_Last updated: 2026-11-10 14:11:32 UTC_
