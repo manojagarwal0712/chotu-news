@@ -4,81 +4,93 @@
   Harsh Goenka is the co-host of
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
 
-- Indian women squad for South Africa tour announced; Smriti Mandhana named captain for all three formats - News On AIR
-  Indian women squad for South Africa tour announced; Smriti Mandhana named
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkdVUkxwd2ZuZHJOaldtdEV1SVJjdGRsc19GaWFla3ZsaGJWMG0yS0lWbDV6OE1wNGtRRU80d2RfYVZmNHVnUkZWdjdqblFKdGxNazlTNm0zYmRfWktMa2dabWQ1UHJna0V2Yk11N0Y2dzYtRVBtX1pMWndpa1JBUHNWTE5GSWxtelQ0U3FVLVRfaGtmd2Z5VjVJSHRveHFMbTZaeVdrRHZKMm5NY1NreTRsZk9HUzI3WlpCT2ZtSWp1NWVndXRV?oc=5
+- Delhi pollution on Diwali rockets to worst in 5 years - The Times of India
+  Delhi pollution on Diwali rockets to worst in
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxORE1iZlBlX3RxakRuZXNFaGE5azhEWnZZYngtaDE1MkY5RW1VYjFOTGVZTE1vQmZ5Mzd1QmhxQW11SVQtcjVYSFJFY2dWZVlXMzBrSU9KZ1QwMlM1QlE5bm9kUDBFRlp6RW45NHJrd29ScUdYc3Z2X3VSS0dCcGU0bnotMnNUNGgwS2VQWHhPV3pIMFdyemNQVVlGSzgtbzlFd0ZmZl9HZnNWZUZHWGRYSTBta1BsNTRwZlZjZUd30gHDAUFVX3lxTE51V2k1NVdSalpNa1F0SVNWZUxWNWx5NUE4ZGw0QjN1eVNsR0c3U3A2NDVFU2J2bG9jelFtVTBpVzNXbGlNbmdWQjZqdVJYQ2VmZFNmZTR3NTJRMEUwRS1BUHBNeVNTYjBidklZSS1UUlFfaVZJX3JveDhyYTdrYV84U3I5SnEwRW51dHNMMUxENTd3My12ODMydmRCOXI3SjlxcGlBdDRzQmFsb3lNT1ptLVgwbHJDYjVxZHZxeU5IVWl0MA?oc=5
 
-- Reds gone, but 'dimagi Naxals' still instigating people: PM Modi - The Times of India
-  Reds gone, but 'dimagi Naxals
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOT2xSdzhmU2xJam0tU1p3Wjhrd2YyT1lSR2pldTZ0MEc2YkhIWFc3djlyQ1lNYk53WHhqTUx5VW5Idjh3Z1FydlJ2dnFFdXROQk45dGJhUmhZc3ZEc05TX2c4LVZ4MTFmUFI3MF9NVkhsZUJtUFFKSE1LOTYtOWppeHpQNTVKbVdVQkVjMWpMWVlDWlNBMDVjOW9tT2NVNElKb0Y0TklSUUZJWmNZaXBZMUhKdVRwaEZDM0FXMm4zUzNaWDBhNklZ0gHMAUFVX3lxTE96dURLUEhaN0Q2bGZ5SU9IcmZ6eWpkcUgzUFQ1R1lQTVlXR1hGYk85aVhTU2VpY2xQVGVscjBIeXhuazRSRFA0dGJVSFhyNVFXak1RWVBCajAtOVRYQl9VdVh5VkRZVm95dHFXNlJYX3JnUnJFdGJSS2V1VUphSjI5SlZwaUY1dUFJOXFaUXVfbE9sa19aeEpYd0NkdTNqdTZZclpxX1FHSTZaeVdWT01VNkI5VjNnNDl5b1djM0llM3dmRTk2NF96LTJzOQ?oc=5
+- India wins bronze and silver at ISSF World Championship - News On AIR
+  India wins bronze and silver at ISSF World
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUlfVmN0QTZkNndoeG11RVhISGp0OGk3ZWRBaFVUNTBsX0lRc2lWZGhyMGtDVzc1TnpZdTQxV0VVcVJaQU1sU0FkU3JGcjRicWo1Z015WTJkSXRJTXpTWUxzR0pwX1JXTzJLN2lhbGh4dlktSnlFMzQyVDdiV2dsQjBiR29kcWp4?oc=5
 
-- India News Highlights, 9 November 2026: PM Modi speaks to Zelenskyy, reaffirms India’s support for peaceful resolution - The Indian Express
-  India News Highlights, 9 November 2026: PM Modi speaks to Zelenskyy
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPeFZIWDlITUJfVlNubW1tSGRsUjJ0d3NjQWQ0RmZlZUwwcGhsR1BSZkVORW13ZDdJb2IwZ2dOYlB4bTgwNFlMangzcU1XTE5uMjF4MzBpdDdVcnFab0YtWEwwNmQ2MGtXMlcyMGYyUzlmUEEwYmhZZ2RtWnM5QnhHTWNyTEVpSG1ZcjhhaXR2bUZfOUZQTWlWX1cwVjR6dVVCYmthUWdxT2JLblY1bWtnanVVRWd1QW5QVDNPa2t6YUV1aVhhQ05rM1ItTVRTeDRtZkpPZXFFLXdPWjBBUXR6ekhsRmcxUm1VMDNtSk93OHhoRnFVTWIxcUt0akdEc0c0OWRZMFlDTk9LN2J3Wll2MUhhM1l4dm00bjk0VlNCT3PSAacCQVVfeXFMUGRmTlA2ZmM1TlpEb2N5cTRoMWM1RGg3N2lqUVVCNXJPSXJudzBBSTJmQjFQeWZSS0JDVThTQ2ZrdHFibjJVX1hhUzYzNGxkMkpjTVRJMnFzdGZoOWFQaEhrOThTdHRaMnN2RHFucHZxczhsRGJDRnNyNnNkRkl6NWQ5dUItRC14TVVHUlNzWXh5dU1Bb0JvVmdkYy1yb3Z6Y1ZRR19DUHA3bWZqV2lqeGY2Z2hwY3d4SXJWS21Ta0pzZExfYW1xMV9jYkdGUGVwcDVRUGVpS2xLdGtrcTZtVXk5UEJMR0JFYWtsMThzbDY3SEpLemFoNUZjRHhhMnBrdDEwRVJ3dkhsd2xjMi11Q05jT0R4cFpaOElfMmxCOE9pb2JOQ3dYNA?oc=5
+- India news: Delhi air quality level 'severe' after Diwali - DW.com
+  India news: Delhi air quality level
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFQa3VOS0VmN0lJb3hUdjEzQVF4QURPYk1WY1A1NTBpeEhXN0JfZkZneTJ6WlJlWHhJdDhvOFZocmRyWUpsb1FXdjhoZi1UaE52SWJiakVZWXJyb3VyYnNrV1lTTGpEc0dGWUF4MVp4cVVHUE43YkxLeE56azVhZER0d05xamxkT0p5RWk5MV9qSGxZ?oc=5
 
-- PM Modi speaks to Volodymyr Zelenskyy, reaffirms India's readiness to resolve Russia-Ukraine conflict - Moneycontrol.com
-  PM Modi speaks to Volodymyr Zelensky
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2FUYmwwSTItTTNOR0VVYzNHT2EwbnJsYW9kTW5vS3dmNTdZbkd4X2VsYWJyZF8yOG9ueXJ3VmRsR25ta1Z3c0ZKb2t2UUVrQXpsanhuYUxLRlEydi1yeHpTVGxrc0oxVTA1X1Z3MXZIcVJFYjVXS3paYjNHNGZOc3FYSmE2MnpfdHlJVlhqSVBJUzhicWRBaE5veTlraTJVNFFvemhyN1l3czh0UEhkUjRSd0xqbkljeUZmMXAwZ0FfSHFwOG9FWlF6RFRjWnRRdU9MeFp0andMam5rSTRJUzJTU2hhbXhpeEHSAe8BQVVfeXFMTkZIWFc0eElXZGVRcjRvclA1MFpERmpvNEg3WGRYVTNzMFQzaFJ2TWJRc3Q4czRpTmRvWDkzcXliY2VIR3pheGFEelBTaGFpN2hjWFpUME5DSTVIUUJMcVlMYjdXM2t6YWtudFNpeHdiTEpGWUYzX21iY014RFM3VWpGQWM0VHhuVHdsNXMzMmUyRVBpdVJvWnhNNVdhVThCUjdZeXFSZDZSQ1drRXBndGk3Ui1INEJodUdmRW51S0NudGJmbWFsQi1Ta0dLdlFLNGFmaVAxS1QyN1dqa19kcDBGRmh3b3RMenZNenR4UG8?oc=5
+- Pawan Kalyan, wife Anna announce separation - The Indian Express
+  Pawan Kalyan and
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVNsbmtndEVjOWFfVk5Zam1mME9kRkpWWnZ0YXByRjJzekkyVVBuNmRrYXZDdGJXbDFxWFUzeXQzeURPNDRka0luY1pFTkxLaGs3a2c1TVAySnNkS1M0X05XRFhkNVM5Vk14dUNSNDN5dGthbDZBWjlnaFZiYlYxX3ptR1gtM2fSAY4BQVVfeXFMUDdlQ3lCeC1MdU9pZkI5cnFkc19vMFRYMzhTT1BqMVpjTWVUYlhWb1c2aHNIdkRSUVBFT2xqbEp3R0NzYWp4WHZEbTIySHIwWDI2SmE1aXEtLXF0N2FtWGZuNDAzT3lLcXFpNEJ3SGlTclBjd3pzWU4yVmtnMXN1bERibWQ3Y2tTdktZM1FuQQ?oc=5
 
-- Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy - The New York Times
-  Nvidia Opens Investigation Into Jensen Huang’s Relationship
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5
+- European Stocks Rise as Banking and Technology Sectors Advance - Bloomberg.com
+  European Stocks Rise as Banking and
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEFmSmlFM2JkZjZ2NTF4bWRQdTRHQU5yZ1ZzVnNnWll1VVdTVWNjSVpwVmFlVVdzdFRrWm5NVTV0cS1BV3pKUlRzaDZ2OVFEb0EzWGphQk1IRmtSLWdUR2lhYVo2T19ZWmduN0M2QmVLM09OUUc4LXVDOU5ILTFheE1XWGdzQ0VqSFhKaTdia0RkUkJmc3N4ckJvb2R4cS1yd1llTnB2TDJEUQ?oc=5
 
-- NSE deploys liquid cooling technology for AI infrastructure, plans to scale capacity to 224 GPUs - ANI News
-  NSE deploys liquid cooling technology for AI infrastructure. Plans to scale
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcWFPdlp3R3Q5TDMyeHVLTjZwQm9kaktseHVuVHFXYlVuRlFPYUJNMkJkcVc1V0toSDZRNllia1BUQUNZcXJQdU9ZUklxLTRYdk1EZHEyVTRlWnB2MVh2VWlSdS1TRE5rSW1hdjNTWDZrcURiZHhvX2xSdGdIc3RzZ3NST0tvcEtZeDJkYUdGUHhSY3dGbHJMekdual9FSWVIOXBSQUcyckJyT3N2NXJPcDBQYkc5ejZZeDZ4YjZVNmplNHNoSVVQUzB0Y3AwVUZyT2tDWjZRdGZGc2o4UTJTdkZjWGY?oc=5
+- The facial recognition technology stopping shoplifters - BBC
+  The facial recognition technology
+  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XV2xVUkFCRzNwV3U4Wmk5T2JpeG9CMElTemd6U3Vnb3RwT1FQX2FuMWtDcGVESEJMUVlORk9CVHprdnRlSW56dWFvYnVpVHlXT1k1NGI4ajU?oc=5
 
-- Net Zero transition brings opportunity to build, not just import, technology - The Indian Express
-  Net Zero transition brings opportunity to build, not just import
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPWVJjVXBjaXdrTERzOTJJZHlmX01sM0haRnlqUlBOY2dTWHFnY3NyeW96UWJTb0dEdHNpZjVnMWR0cldsMFhFTDdXalpTUFY4emQ5Nk1GczAtdWlwdGZSYUxaT2dKUHZpQkx2UkhiOExkdVctbEVIYTJzNXZPZnVDOTJ0andtRkh6X0ZrUmxENnZUVVpJV2xHal94UjR6b202VTFDaDhlUlNSQWo4RVVfazBOS3FuRjhkY2hWY2N1UC1qWVVoemFLd0RRZ0RlcnPSAdYBQVVfeXFMTm5JZDY5NTMwTlJrdzB5QWcyQ2phRF9WeWhFVlQ1SkQ4ZFZjNFB4NHc4NUtFTUhNMG94NEtLenJPNUdVOHhZOFpQcUQ5ZFNEcXdaa3hfTThGeHpvT3NweEJDNTRWTXpLTnUyQzVpVC1zdjlBZThIMDNhS2kwR3ExOVJpeG01QVNldkJQMGUxb0g1ckU1VnRObDRhb2M2dko4dmVFOW9tcVgyemtuZUN5OHU0X2xSNC1JMnV3d3FiQlRta3BZaTh5aUctY09zY3pBMzlPQWo0Zw?oc=5
+- Watch CNBC's full interview with Melius Head of Technology Research Ben Reitzes - CNBC
+  Watch CNBC's full interview with Melius Head of
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU5kQnFXUjFENUh5V1lTYjlXTElBSVdHZlBtZ1p1WWJWUUhMVEt2bW5SUEMxQzNoM3hfSHhucnRNQXJrOFh5MklTei1uZkRmd0g1VU1BZjlzakxDZWstUDhjS0c0UXRuYlFPZXBBbFg0MFg1c0tKdlhpcno2bi1VaTFlZTFiaHFxZFEwQVFjd3pKX3pkSjg3S1FNcVltZHYzd0FjV0Q4RmVwc1EtWEdjMm1Bd05hVkFPT3lSM0FR?oc=5
 
-- Kent winemaker turns to carbon capture technology - BBC
-  Kent winemaker turns to
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uVHFwMUFXUEFVX2pPbFF3MGpzVy1pZU1XY1Q1SV9BN1ItdzY5ODNCNWZJZllvbGx4VmJZVzZVcktJb2s0YllJaDhxQzNIa1QwSlNzVG9TOUlkdTA?oc=5
+- Inspired by his family's farming roots, Saksham Kumar began teaching technology to rural farmers; his ini - The Times of India
+  Inspired by his family's farming roots, Saksham Kumar began teaching technology to
+  🔗 https://news.google.com/rss/articles/CBMilgNBVV95cUxQOUxjSE51N3dkSGZhZkdXeDBOWVNvdzBzdU4yNjhaZjYzLV9GRC1oNF8zMmhvQTY3QllJOGJEaDBPcTFqZmwwZ3M5SDVCWFVHbUZJN1V1ak4xdGRnZnk1eGhlNi1YWnpsZXZXcFRuQWFIaUJyVFE1MVVDY2prYTlxVXNpX2dLYjhwQXAzRE1DSnR3NlZrODVTZHp1UzVldHFvMkdZNGU0YV9ENTgwXzVYclNVUzNLSU1Jek9IOWduX2lyV0dMV21Nakc1OWE2elByZ3pFa3NucnRpOG4yTEFCaEwtd3VFUnFUTVpwOXBFUlZ6MjNsa0phUjhoX3FVRU1qS0VaYXliMDZtWDg0TldFZ3QtaEVIX2g1VE41VkxlWHpKN3FINXo0LVJwbkRydGp0Zm1Tc3VhdzgzOVFvSFUtcTQzMTFTbkQ4U1RwdjVmMFM2QmxrYUNEU2VXSURKYnZNMHRmRHo3SE9fQjVick1ZNUwzTXprTHFKUG1mcjUyRzBNTWVqaUo4cHUwd3lXb1lEVnN6STBR0gGbA0FVX3lxTE9pNjZTNXAxNzd4bW1wT2xUeDdVOUJkdDl6cjNxekt4RTZTM0NHRVV0dndpMEd3cE53SlpHSzk0bWM3VXE5bkJmczd0RjJLTjYta0x1Y3p1NG51eTJoc0lIakZjazl6cUxDdlppaWFpWkdwUUdmLUc4djFaRVA5UDBCWURJcGpxWTVlc1hHWEV4X190NVk5UW0tZ0dLZmJKWGNwbk1OOGR1Tm04empIVGVQaFBpelMtTTRVNEJNNXpjcF9TY1BLUXVvSkx1TzNVdmhtWXlXb2p4MWwtTmw2STNhaTdTVnpYSm4wTlp2WkxtdUNNS2x5TC1FNTRpT1FjcU50QnBILWZlZjJHOVhpa3pEd2poQVg2SURCc1hwamNyRWhUM0RyZU1aVTNqREJtUVF3X1pnT0pOWWtLeG9icjBBNnBYOVRQTTdtRnZTZUVHRkxjNW05bDFsUHZPMklGaTZkMzhqMlFQZFRWTjZkNmktM2F5M05IZEdsaUFuZHJweW1ydDNHcFdWendjUjJxb1dGTXBFT2hlSmozZw?oc=5
 
-- Reddit co-founder Alexis Ohanian says he wants his daughter to use AI every day; reveals how she changed - The Times of India
-  Reddit co-founder Alexis Ohanian says he wants his daughter to use AI every day; reveals
-  🔗 https://news.google.com/rss/articles/CBMixAJBVV95cUxQZXQ4VkJDREczWjYyM2VaOHp6cWk5c0ZMdTlZUHE5enZpUHFuTnBYR2hiRGVnZTRhTjhLeV94VjN6SFF0TkpGTUliUDFlMnZWSTE4a2FFX1ZnejZsb1dMeW91QS1tbTFxQnVwcU1sdm5KZkx2UmNzZl9ya3BFUzZKZElpZWFwbExQVFB4TXkxTHVkNVBkYXhnTHpXcWU4b01BTkNzbFRSZHhjNVFiODliaExKSk1qT1VYLU1peTVhU0t4UzkxNTJwYzViOVJzZ2w0WVpnVUNSbzBxTEx1TjNmaVhYcV82OEFRdFA3Ykdpa0tzMUdZbjhhX2k2RVRKdGNOSngzUHBRMEJidTdzQ0Jua0REenNiN2Z4dWM0b2R5S0tlRmpGNG9SZ0VSLUJ5RlRZYVVmeEZtWC1wbElHQ1huUUVldknSAcoCQVVfeXFMTWtvMjhpb2xHRklWUkdpWWtMSEo1dVZ0Wjd6Z05kZW9zeS1NSksyNDBMaGtSSFlXbm15OEVTN0twT1ZCSGRRU0xpcHk2dFF5Zlk1V2xQNEE2b252RFJUVmhJN25rRjVmMlpEU0U0cTVpczFSRGZVRmltQTR5SHFKUWR3N255ejAtNzctemFnY3VmZ3E0OWZJaUJvRHRPWm0teFNwcWNoLUdmcUdNRS1XU2liaXFNOEJRUFFxbFl0Y3pYOEtYQWZyMXpONXd3OGMwMGVjakVNcE5ncFZoNF9oWksxZHhyVGV0anFyOFFkcEJtTkZiTWp4QmxFODRKSl9RajA2Vk5JSmcwcncxTE1uUWFfc2JaeUNzc1hxVWNmYUZNR0NnOS11OXFsdm5YRHduMER3M0NNUHM3XzhmNUFaOFo5TUxoSjF5N1Bn?oc=5
+- Technology Empowers Ecological Conservation, Youth Shape a Sustainable - UNESCO
+  Technology Empowers Ecological Conservation
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNMHVqUFZMNkFwX3RyU1hCZ3NsWDNXR05XMEk2Y3FDRW1HM0dPMWNnR1BydTkxSmJ3VGktMVBvb3c4cHVRcDJTRkVUeTJiZ1RaM3FyRTRwU3dQZkNoN3RyTUlJeC1VUmNNSFd2RlZ3VHp1Q255Zy1uMWRRNFNHM1VLX0VWWUhVLTZ0cTBnajB0ZHpBLU9YN3lTMEhNalVFN0E1S1JFVWJhTnROaFphWnpXUGZaRnoxNUh2RDRiX1FmQXNWelhhUGhXRjk4dzlULWM?oc=5
 
-- BDR Pharma buys majority stake in Acme’s oral solids formulations business
-  Existing investors are selling their stakes in Acme's oral solids formulations business. The transaction is expected to value the business at
-  🔗 https://www.livemint.com/companies/news/bdr-pharma-buys-majority-stake-in-acme-s-oral-solids-formulations-business-11794231899041.html
+- Yes Bank AT-1 bondholders still await clarity on their money nearly a month after SC verdict
+  The Supreme Court overturned the 2020 write-off. Investors are still waiting for Yes Bank to restore their 
+  🔗 https://www.livemint.com/companies/news/yes-bank-at-1-bondholders-still-await-clarity-on-their-money-nearly-a-month-after-sc-verdict-11794213239487.html
 
-- What is Megaspeed? The Nvidia partner at the centre of Jensen Huang’s China espionage controversy
-  Megaspeed is a Singapore-based chip buyer linked to Jensen Huang's alleged '
-  🔗 https://www.livemint.com/companies/news/what-is-megaspeed-the-nvidia-partner-at-the-centre-of-jensen-huang-s-china-espionage-controversy-11794230028279.html
+- BNPL makes a comeback as payment apps try to fix its broken economics
+  The latest proposition combines payments, shopping and credit. acquire customers through UPI, finance their purchases and
+  🔗 https://www.livemint.com/companies/start-ups/bnpl-makes-a-comeback-as-payment-apps-try-to-fix-its-broken-economics-11793872644805.html
 
-- Doubling direct rural reach, Dabur wants to stay true to its roots: CEO Bhalla
-  Dabur is pursuing growth through wider rural reach, premium products and
-  🔗 https://www.livemint.com/companies/doubling-direct-rural-reach-dabur-wants-to-stay-true-to-its-roots-ceo-bhalla-11794200936406.html
+- Pay by the mile! GMR proposes nearly doubling UDF at Bhogapuram airport, drawing IndiGo's ire
+  Airlines and experts warn that higher fees could make flying less affordable, damp
+  🔗 https://www.livemint.com/companies/news/pay-by-the-mile-gmr-proposes-nearly-doubling-udf-at-bhogapuram-airport-drawing-indigos-ire-11794235217890.html
 
-- Who is Harris Ahmed? Meet the Pakistani AI startup founder whose RLabs won an award in Silicon Valley
-   RLabs' win highlights the role of incubation programmes such as NICAT
-  🔗 https://www.livemint.com/companies/news/who-is-harris-ahmed-meet-the-pakistani-ai-startup-founder-whose-rlabs-won-an-award-in-silicon-valley-11794226248117.html
+- Leak, conflict and loss of arbitration: inside a Tata Power Mumbai FIR
+  Tata Power has accused an arbitrator and former employees of undisclosed ties and leaking confidential data. The allegations follow a Singapore ruling awarding Kleros $490 million plus interest.
+  🔗 https://www.livemint.com/companies/tata-power-arbitrator-russia-trips-claimant-11794224233257.html
 
-- ‘Nvidia has a significant China problem’: Did this hedge fund foresee the Jensen, Alice Huang controversy 6 months ago?
-  A previous report by Culper Research has resurfaced amid an investigation into Nvidia CEO Jensen Huang’s admitted affair with Alice Huang, a
-  🔗 https://www.livemint.com/companies/news/nvidia-has-a-significant-china-problem-did-this-hedge-fund-foresee-the-jensen-alice-huang-controversy-6-months-ago-11794224482064.html
+- Brazils Braskem creditors, shareholders target Wednesday deadline for debt deal, sources say
+  
+  🔗 https://www.livemint.com/companies/brazils-braskem-creditors-shareholders-target-wednesday-deadline-for-debt-deal-sources-say-11794253700070.html
 
-- Eternal shares rebound over 70% from March lows, emerge as top Nifty 50 recovery stock; what drove the rally?
-  Eternal shares have rebounded 71% from their March low. Growth is supported by Blinkit’s expanding store network, rising order value.
-  🔗 https://www.livemint.com/market/eternal-shares-rebound-over-70-from-march-lows-emerge-as-top-nifty-50-recovery-stock-what-drove-the-rally-11794234112702.html
+- Stock recommendations for 11 November from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 11 November. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-11-november-from-marketsmith-india-11794226262086.html
 
-- Gold vs silver vs copper vs platinum: Which metal could deliver the biggest returns in Samvat 2083?
-  Silver has the strongest potential among the four metals for Samvat 2083 after a steep correction. Gold may suit investors seeking resilience, supported by central
-  🔗 https://www.livemint.com/market/commodities/gold-vs-silver-vs-copper-vs-platinum-which-metal-could-deliver-the-biggest-returns-in-samvat-2083-11794232375711.html
+- JPMorgan Weighs Big Discount to Lure Lenders for Software Debt
+  Banks could offer one of the year’s biggest discounts to sell some of the $5 billion in debt for software firm Qualtrics International Inc.
+  🔗 https://www.livemint.com/market/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt-11794262406093.html
 
-- Chemplast Sanmar shares jump over 11% in biggest single-day gain in 10 months as Q2 rally gathers pace
-  Chemplast Sanmar shares jumped 11.44% to  ₹237 after stronger-than-expected Q2 FY27
-  🔗 https://www.livemint.com/market/stock-market-news/chemplast-sanmar-shares-jump-over-11-in-biggest-single-day-gain-in-10-months-as-q2-rally-gathers-pace-11794229336025.html
+- EIB’s Calvino Says US Turmoil Is Driving Capital to Europe
+  European Investment Bank President Nadia Calvino says Europe is set to benefit from recent market turmoil.
+  🔗 https://www.livemint.com/market/eibs-calvino-says-us-turmoil-is-driving-capital-to-europe-11794262213745.html
 
-- KPI Green Energy shares jump 9% on massive volume spike ahead of Q2 results; what's driving the rally?
-  KPI Green Energy shares rose 9% to  ₹331 on Monday as trading volume surged to 64.35 times the weekly average. The rally came ahead of quarterly results and followed new
-  🔗 https://www.livemint.com/market/stock-market-news/kpi-green-energy-shares-jump-9-on-massive-volume-spike-ahead-of-q2-results-whats-driving-the-rally-11794225977234.html
+- Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows
+  The top dollar-yen forecaster sees the Japanese currency rallying toward 147 per dollar next year. Neil Parker has spent nearly three decades tracking the yen.
+  🔗 https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html
 
-- Top 3 stocks to buy this week: Union Bank, Ather Energy, Laurus Labs by market expert; check stop-loss, target price
-  Indian benchmarks rose to their highest levels in over eight months. Nifty gained 0.23% and Sensex 0.13%. Analyst Chandan Taparia recommended Union Bank of India, Ather Energy
-  🔗 https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-this-week-union-bank-ather-energy-laurus-labs-by-market-expert-check-stop-loss-target-price-11794224157187.html
+- Viking Loses 1.2% in October After Eschewing Many Big AI Bets
+  Viking Global Investors’ flagship hedge fund dropped 1.2% last month. The
+  🔗 https://www.livemint.com/market/viking-loses-1-2-in-october-after-eschewing-many-big-ai-bets-11794256428481.html
+
+- ₹85,000 Temple vs Apple Watch and Garmin: How does Deepinder Goyal’s wearable compare with popular fitness trackers?
+  Deepinder Goyal's Temple wearable claims to track heart rate, brain blood-flow signals and physiological strain. How does it compare with Apple Watch
+  🔗 https://www.livemint.com/technology/tech-news/85000-temple-vs-apple-watch-and-garmin-how-does-deepinder-goyal-s-wearable-compare-with-popular-fitness-trackers-11794248685970.html
+
+- PCs are getting less RAM for the first time: Why are 32GB and 64GB systems losing ground? Reason here
+   AI-driven memory shortage pushes DRAM prices higher. CPU-Z survey
+  🔗 https://www.livemint.com/technology/tech-news/pcs-are-getting-less-ram-for-the-first-time-why-are-32gb-and-64gb-systems-losing-ground-reason-here-11794242130798.html
+
+- Honor 700 series' unusual rear screen could do more than take selfies: Here's what it may reveal about your health
+  Honor's new 700 series has a surprise rear display that could track heart rate
+  🔗 https://www.livemint.com/technology/honor-700-series-unusual-rear-screen-could-do-more-than-take-selfies-heres-what-it-may-reveal-about-your-health-11794241660056.html
 
 - Pebble Qore Ultra review: Whoop-like health tracking at  ₹5,999, but what are the trade-offs?
   The Pebble Qore Ultra is a screenless fitness band priced at  ₹5,999. It offers AI-
@@ -88,77 +100,65 @@
   ASUS Zenbook 14 launched in India starting at  ₹1,36,990
   🔗 https://www.livemint.com/technology/gadgets/asus-zenbook-14-launched-in-india-with-ceraluminum-body-oled-display-and-up-to-33-hour-battery-11794210646502.html
 
-- Samsung Galaxy S27 launch tipped for early 2027: 4 models, new Pro variant and expected specs
-  The Samsung Galaxy S27 is expected to launch in January or February of 2027. There will be four models,
-  🔗 https://www.livemint.com/technology/tech-news/samsung-galaxy-s27-launch-tipped-for-early-2027-4-models-new-pro-variant-and-expected-specs-11794207767520.html
+- Stocks making the biggest moves midday: AST SpaceMobile, First Solar, Coherent & more — Live updates - CNBC
+  Stocks making the biggest moves midday: AST SpaceMobile, First Solar
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTFBETjEzVzFLTXhVVm5IMDQ2YS1uRTV6UWFtblVkY2xhZ3BzclA5dFJ5WFJkbklySl9ZMDZQZXRGWE5ZV0FJXzN4X0xpdU9yUFotUllSTk1UTVpscU5MeDM0RzFFQ1RYcHVkbjk4TWlnSGozT0NpaXRCbw?oc=5
 
-- McKinsey warns AI-driven analysis could slow decision-making, weaken future leadership pipeline
-  While artificial intelligence (AI) is making business analysis significantly faster, human decision-making is struggling to keep pace. This mismatch could increase strategic risks and weaken
-  🔗 https://www.livemint.com/technology/mckinsey-warns-ai-driven-analysis-could-slow-decision-making-weaken-future-leadership-pipeline-11794206292051.html
+- Mapping the Market: Alphabet shares may be ready for a corrective rally - Reuters
+  Alphabet shares may be ready for a corrective rally
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9vZGlZeXZzRUlyeHhERkg4UzlnbEFhMHBoZDlLaGN1aS05cWZ5MENHV2xGREkzWjdaMDhyR3JWQTYycjhqVVI3TFkxNldsakNGYUJLNjFobWVSUWpXdzItZ2w4TDFYMVZRMzJTQlNyUF90YkJKQ2FmVzVLdkc?oc=5
 
-- Air pollution getting worse? These 6 smart air purifiers offer bedroom coverage up to 450 sq ft
-  Smart air purifiers are becoming an option for households looking to improve indoor air quality. Models from Xiaomi, Qubo, Eureka Forbes and Philips offer HEPA filt
-  🔗 https://www.livemint.com/technology/gadgets/air-pollution-getting-worse-these-6-smart-air-purifiers-offer-bedroom-coverage-up-to-450-sq-ft-11794196462990.html
+- Will probe into Nvidia's Jensen Huang indirectly benefit Indian stock markets? - The Times of India
+  Will probe into Nvidia's Jensen Huang indirectly benefit Indian stock markets
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ1Zsa0tvSldLdnRCSnhjQTkxVFBHSkdNYlVLd1lnUGw2S3N4dXJCbnVfTU84TWc3RjNKazBGNkxrdjE5LUFDc2JXbHdxQndjRVd1Q1o1ZVNGV1BqSmhYOXhuWXhDNlFkLWFSMzBodUtxNmEzVUJCZE5ueFhqMGZfc1Y4dXdDel9OWFJvaVh5UWtLVnJOdHJ1SXV1dlF0bUJkSFdRZkdBVzNYYkl1YnB2dnJkdVpxSTU3aWllNTd6akdjemt1RlJ3WnVBWm9TS2tqQlhIbWxfZjNxeHZvbHlveHMwb0FUV1owTFRkbHIwYXFyZnZD0gH6AUFVX3lxTE90WFhVcERhb0E0bTlqWW5JRUtTTUF0S3dxUDJqT21sQWZWTkhXRER4aTdYaXVudlFxMldGa2lJeS14bTc1aS1Jb0xaVHQtM096bFhNZk9kcEpMVDcxeGxlajFfQm44a3FCek45U1NzdlhXcXlXWmJSVUtpSHhNNlRGNm41SEl1cXhQeUloMkgzcFlHaXJEbUNRU0pFc3BEeGl4ZHkzYmxWSEJSUlVHcTA4emRqbll0RC1iQUFlVDBxZ21QUURySmozVG4zWERPUmMyVHpvanBHSXdoQ3p1MGdSbGIxUGxxR0g0cVdVZTJVNWl0TXdUajRMOUE?oc=5
 
-- US Stocks Rise as Oil Drop Outweighs Nvidia Woes: Markets Wrap - Bloomberg.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5
+- Stock markets end higher amid easing crude oil prices, buying in banks - The Hindu
+  Stock markets end higher amid easing crude oil prices, buying
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPVTB5YjhLMkhDUlRYRmtybjFRcWliV1ZrOFJHNGs0VldFaHZ5QlFTVjRUOXhjbnllYkFiUjNNV3haNGxZcFVGYXBWUmR5TDdkS08wTjB1OHVRem1pdm5FeUdPdEpMQkUxWHJNSWJHQ1l6dnV2ckJuYktNbzJCNVozV0RKR0p1eUowVTJUNm9pOE00b3dxbGlUbm1KbGpucUJ6WXljUlBmSmpNcGtWZDVOcTNoS2FiREZpdl9EVWs4bWpXclhXQUx5bndnQdIB0gFBVV95cUxNZEdNU0RBWjdwV19XN2laZUh5enhIbExoYTR3QlU2MVQ1QTdmeTVHd2JEZEdSNGlrdTBhdHBqN05HWHc5ZWtGNmpnMUEwbTZqd0Q2Y0VSN0FIQXVudTc4eUllam0wWWQzSGpBQ0R2R1dnYUZaRmhYRXczZ3BzN1FQV0k1dnBhVlFobFVFVkM3OGFURHQtLXpzaXBzWnRfaU5KQlFCUHBCSF9iaVRnMVNycjZaeGV1LWVhdURXQWhGTEhESXJfVkEzVVNJa3FNZzBBWVE?oc=5
 
-- US markets to open as tech giant Nvidia investigates CEO Jensen Huang's affair with suspected Chinese spy - BBC
-  US markets to open as tech giant Nvidia investigates CEO Jensen Huang's affair with
-  🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vQUxodjViMTZrNHdqeENxSGItNVJ0bUtxdjJ6VnNoZkNCamdhbEpxend5dlhRVmxRYjRjZS1DNGdLQ0xEMF9RYURfWTM2SEpKZkw1TkdfRzBUcU42aEVN?oc=5
+- Markets News, Nov. 9, 2026: Dow Climbs 1,100 Points as Stocks Rebound from Last Week’s AI Sell-Off; Nvidia Sinks Amid CEO Probe - Investopedia
+  Markets News, Nov. 9, 2026: Dow Climbs 1,100 Points as St
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmxIdDR4WFNPZmJ5MjdLYV8yc2tSSDhfVmdmLXRBaUY3RGNwQWdwbG9fQjJnY0h3SVVOWUVZeGpydmxYYmx1bnBMeFhZNVR2cGZYUVJMLTBuYmxKd01UQm1Kb1hyMDVvMVgxZlYwdnFlc1d2dndTYzBwMkhnVmI3eUhWeDZzSEdZY0dzOFRJTHBPb0NmS1I5dDBB?oc=5
 
-- Dow rallies 700 points as oil slides, tech stocks outside of Nvidia gain: Live updates - CNBC
-  Dow rallies 700 points as oil slides, tech stocks outside of
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5
+- Global Market Today: Asian stocks rally after US tech surge, oil slump
+  South Korea's Kospi Index jumped more than 5% in early trading. Japan's Nikkei 225 rose nearly 3%. A broader
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms
 
-- AI's growing energy appetite revives market for ageing turbines, jet engines - The Times of India
-  AI's growing energy appetite revives market for ageing turbines.
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUEtkOVkzYUlFZHFKdlRlVmEwTkdibmxKeWFVeDVZemlkQlhTMGhrQmd5bFZ2MWVSbjZ0RTZKLXpVSDNnSGZZVGZyNnl3bmVhWTh3U3RHcl9JU3hDNUhmZUpaNDR2RUstOVo1RGgxU2dyVlhTV2hsU0c4U2Y5eDA5LUxIY2JrUTJuenF2cHZDTzE0X0h4S2JUZlA4aEduWkJUV2pYa3h1ODJXUExKSElNd3J6N0pXa2NCeFFnSFowN1JvRXFtVlZzMzI1MWd1ekk3UUphek41QWVBTkVybFFVc3BYVnRBZGFOUFgyQdIB8gFBVV95cUxOZ0xLY3JRbHNvV0UwcU9zRVhZaTYwQ3psQUdUYTJwenhqNmtUVjQ5QmtPakZ0WmlNUWJoZ0JRMmpfbzlWb1NzRlA3ZnduTWcxUmhHZGZ0V3pNQWlWdHUwWU1rT3c4ZE9kU24tZXFsdnJmRkdnc0loTFI0TWZ1bld6MTB0dFFTVVA1anh4dkpibmI0VzlYREtFYWdoRWlvVWxVeGdqTGMzNkdyZVhLMUZGNVFWRmlkMERIeXZxd2tnTXJuX3g0MWJoZWxoTkM0SWZ0SGhPa1lIN0FhbHctcFAyakFrZ1Z2QXI3dFpzWVRnVlhZQQ?oc=5
+- Trump administration's embrace of "perp" futures sets off risk alarms for Wall Street stalwarts
+  The decision by the Trump administration to launch perpetual futures has sparked significant worry among market stakeholders. Leaders from established exchanges contend that these offerings might disrupt existing market dynamics and risk assessment practices.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/trump-administrations-embrace-of-perp-futures-sets-off-risk-alarms-for-wall-street-stalwarts/articleshow/135688561.cms
 
-- Stock markets decline in early trade dragged by IT firms - The Hindu
-  Stock markets decline in early trade dragged by IT
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOOGpwc3F1UFM4cVd1dUhteGlCSWlsZHB4Q3VtaE5VUHV5cGpTdjBzamJnSFNicGhxeVhnUklHWGhHUEdlaGRWaDNkY1V0TkxuQ1RzdmtLblZrTURKNFIwUWQ4b1BaYVFwWDNGY0xYeUM5OVdPaXlKcEE4WU9fMzNwNDd6c3NQVzhEVTlkNzJiRnJ6UkVrd0ROUXQ1M0xlREtPMGQ0MHVJNk9fQ0pzVXNhWjFjWUFETnc1dWfSAcABQVVfeXFMTVBERnNUejBQd0U3YlZuZkNjZkM1RXIzWFNIQ3J1dVVsakg3UUREeDd4NThrSzhmamI4UGRaTE1nTTM0UG5nWFRmTGxfdnNmMXktZ2ZFYk5QMTZjR0xDekthVHBKZ184QlJnOWhHZnZ3c0gtNzlGc29Jb2VNV2ZpbDliOE1KeXlWTzBkQWVmcWZNX2QzUW9PVExWSEZmU0tYZFBLR2xPOVpvVjBwRGswVDFzTXVzeURDekhCT0ZpS2Z2?oc=5
+- US dollar dips as easing AI and Mideast worries limit its appeal
+  After a six-month high, the US dollar is now on a downward trend. Investors are eagerly awaiting the upcoming consumer price index data. Meanwhile, the euro and other currencies are rebounding against the dollar.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-dips-as-easing-ai-and-mideast-worries-limit-its-appeal/articleshow/135687593.cms
 
-- Dow Jones| Nasdaq | US Stock Market Today | Live: Dow soars 500 points, Nasdaq over 2% after last week's AI rout
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms
+- US stocks: Dow Jones rallies 500 points, Nasdaq over 2% as chip stocks rebound; Nvidia probe weighs
+  Wall Street's indexes climbed as investors honed in on Nvidia CEO Jensen Huang's investigation and awaited crucial inflation data. Nvidia's shares faced declines due to worries over foreign intelligence, yet analysts proposed that the sell-off in AI stocks was
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms
 
-- India bonds continue rally ahead of inflation data
-  Indian government bond yields extended their rally on Monday. The benchmark 10-year yield fell nearly 4 basis points. Investors are now watching US and Indian inflation data for cues.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-continue-rally-ahead-of-inflation-data/articleshow/135681750.cms
-
-- Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-7-stocks-hitting-52-week-highs-rally-up-to-26-in-a-month/slideshow/135681703.cms
-
-- US markets still reliant on tech stocks despite AI selloff and Democrat-win triggered political risks
-  The US stock market is currently experiencing a significant pullback in technology and AI-related stocks. Investors are concerned that Democratic victories in the midterm elections may result in reduced data center spending. Despite recent declines, the technology sector remains dominant within
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms
-
-- FIIs cut stake in 10 smallcap stocks for 3 consecutive quarters; shares fall up to 70% in CY26
-  FIIs reduced stakes in 235 BSE smallcap companies for three consecutive quarters. Nine stocks suffered 50–70%
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stake-in-10-smallcap-stocks-for-3-consecutive-quarters-shares-fall-up-to-70-in-cy26/slideshow/135680171.cms
+- Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy
+  CEO Jensen Huang acknowledged his relationship with the executive, raising concerns over security. Analysts believe Huang's leadership is crucial for Nvidia's ongoing success in AI technology.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms
 
 - Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
   Harsh Goenka is the co-host of
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
 
-- Indian women squad for South Africa tour announced; Smriti Mandhana named captain for all three formats - News On AIR
-  Indian women squad for South Africa tour announced; Smriti Mandhana named
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkdVUkxwd2ZuZHJOaldtdEV1SVJjdGRsc19GaWFla3ZsaGJWMG0yS0lWbDV6OE1wNGtRRU80d2RfYVZmNHVnUkZWdjdqblFKdGxNazlTNm0zYmRfWktMa2dabWQ1UHJna0V2Yk11N0Y2dzYtRVBtX1pMWndpa1JBUHNWTE5GSWxtelQ0U3FVLVRfaGtmd2Z5VjVJSHRveHFMbTZaeVdrRHZKMm5NY1NreTRsZk9HUzI3WlpCT2ZtSWp1NWVndXRV?oc=5
+- Delhi pollution on Diwali rockets to worst in 5 years - The Times of India
+  Delhi pollution on Diwali rockets to worst in
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxORE1iZlBlX3RxakRuZXNFaGE5azhEWnZZYngtaDE1MkY5RW1VYjFOTGVZTE1vQmZ5Mzd1QmhxQW11SVQtcjVYSFJFY2dWZVlXMzBrSU9KZ1QwMlM1QlE5bm9kUDBFRlp6RW45NHJrd29ScUdYc3Z2X3VSS0dCcGU0bnotMnNUNGgwS2VQWHhPV3pIMFdyemNQVVlGSzgtbzlFd0ZmZl9HZnNWZUZHWGRYSTBta1BsNTRwZlZjZUd30gHDAUFVX3lxTE51V2k1NVdSalpNa1F0SVNWZUxWNWx5NUE4ZGw0QjN1eVNsR0c3U3A2NDVFU2J2bG9jelFtVTBpVzNXbGlNbmdWQjZqdVJYQ2VmZFNmZTR3NTJRMEUwRS1BUHBNeVNTYjBidklZSS1UUlFfaVZJX3JveDhyYTdrYV84U3I5SnEwRW51dHNMMUxENTd3My12ODMydmRCOXI3SjlxcGlBdDRzQmFsb3lNT1ptLVgwbHJDYjVxZHZxeU5IVWl0MA?oc=5
 
-- Reds gone, but 'dimagi Naxals' still instigating people: PM Modi - The Times of India
-  Reds gone, but 'dimagi Naxals
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOT2xSdzhmU2xJam0tU1p3Wjhrd2YyT1lSR2pldTZ0MEc2YkhIWFc3djlyQ1lNYk53WHhqTUx5VW5Idjh3Z1FydlJ2dnFFdXROQk45dGJhUmhZc3ZEc05TX2c4LVZ4MTFmUFI3MF9NVkhsZUJtUFFKSE1LOTYtOWppeHpQNTVKbVdVQkVjMWpMWVlDWlNBMDVjOW9tT2NVNElKb0Y0TklSUUZJWmNZaXBZMUhKdVRwaEZDM0FXMm4zUzNaWDBhNklZ0gHMAUFVX3lxTE96dURLUEhaN0Q2bGZ5SU9IcmZ6eWpkcUgzUFQ1R1lQTVlXR1hGYk85aVhTU2VpY2xQVGVscjBIeXhuazRSRFA0dGJVSFhyNVFXak1RWVBCajAtOVRYQl9VdVh5VkRZVm95dHFXNlJYX3JnUnJFdGJSS2V1VUphSjI5SlZwaUY1dUFJOXFaUXVfbE9sa19aeEpYd0NkdTNqdTZZclpxX1FHSTZaeVdWT01VNkI5VjNnNDl5b1djM0llM3dmRTk2NF96LTJzOQ?oc=5
+- India wins bronze and silver at ISSF World Championship - News On AIR
+  India wins bronze and silver at ISSF World
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUlfVmN0QTZkNndoeG11RVhISGp0OGk3ZWRBaFVUNTBsX0lRc2lWZGhyMGtDVzc1TnpZdTQxV0VVcVJaQU1sU0FkU3JGcjRicWo1Z015WTJkSXRJTXpTWUxzR0pwX1JXTzJLN2lhbGh4dlktSnlFMzQyVDdiV2dsQjBiR29kcWp4?oc=5
 
-- India News Highlights, 9 November 2026: PM Modi speaks to Zelenskyy, reaffirms India’s support for peaceful resolution - The Indian Express
-  India News Highlights, 9 November 2026: PM Modi speaks to Zelenskyy
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPeFZIWDlITUJfVlNubW1tSGRsUjJ0d3NjQWQ0RmZlZUwwcGhsR1BSZkVORW13ZDdJb2IwZ2dOYlB4bTgwNFlMangzcU1XTE5uMjF4MzBpdDdVcnFab0YtWEwwNmQ2MGtXMlcyMGYyUzlmUEEwYmhZZ2RtWnM5QnhHTWNyTEVpSG1ZcjhhaXR2bUZfOUZQTWlWX1cwVjR6dVVCYmthUWdxT2JLblY1bWtnanVVRWd1QW5QVDNPa2t6YUV1aVhhQ05rM1ItTVRTeDRtZkpPZXFFLXdPWjBBUXR6ekhsRmcxUm1VMDNtSk93OHhoRnFVTWIxcUt0akdEc0c0OWRZMFlDTk9LN2J3Wll2MUhhM1l4dm00bjk0VlNCT3PSAacCQVVfeXFMUGRmTlA2ZmM1TlpEb2N5cTRoMWM1RGg3N2lqUVVCNXJPSXJudzBBSTJmQjFQeWZSS0JDVThTQ2ZrdHFibjJVX1hhUzYzNGxkMkpjTVRJMnFzdGZoOWFQaEhrOThTdHRaMnN2RHFucHZxczhsRGJDRnNyNnNkRkl6NWQ5dUItRC14TVVHUlNzWXh5dU1Bb0JvVmdkYy1yb3Z6Y1ZRR19DUHA3bWZqV2lqeGY2Z2hwY3d4SXJWS21Ta0pzZExfYW1xMV9jYkdGUGVwcDVRUGVpS2xLdGtrcTZtVXk5UEJMR0JFYWtsMThzbDY3SEpLemFoNUZjRHhhMnBrdDEwRVJ3dkhsd2xjMi11Q05jT0R4cFpaOElfMmxCOE9pb2JOQ3dYNA?oc=5
+- India news: Delhi air quality level 'severe' after Diwali - DW.com
+  India news: Delhi air quality level
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFQa3VOS0VmN0lJb3hUdjEzQVF4QURPYk1WY1A1NTBpeEhXN0JfZkZneTJ6WlJlWHhJdDhvOFZocmRyWUpsb1FXdjhoZi1UaE52SWJiakVZWXJyb3VyYnNrV1lTTGpEc0dGWUF4MVp4cVVHUE43YkxLeE56azVhZER0d05xamxkT0p5RWk5MV9qSGxZ?oc=5
 
-- PM Modi speaks to Volodymyr Zelenskyy, reaffirms India's readiness to resolve Russia-Ukraine conflict - Moneycontrol.com
-  PM Modi speaks to Volodymyr Zelensky
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2FUYmwwSTItTTNOR0VVYzNHT2EwbnJsYW9kTW5vS3dmNTdZbkd4X2VsYWJyZF8yOG9ueXJ3VmRsR25ta1Z3c0ZKb2t2UUVrQXpsanhuYUxLRlEydi1yeHpTVGxrc0oxVTA1X1Z3MXZIcVJFYjVXS3paYjNHNGZOc3FYSmE2MnpfdHlJVlhqSVBJUzhicWRBaE5veTlraTJVNFFvemhyN1l3czh0UEhkUjRSd0xqbkljeUZmMXAwZ0FfSHFwOG9FWlF6RFRjWnRRdU9MeFp0andMam5rSTRJUzJTU2hhbXhpeEHSAe8BQVVfeXFMTkZIWFc0eElXZGVRcjRvclA1MFpERmpvNEg3WGRYVTNzMFQzaFJ2TWJRc3Q4czRpTmRvWDkzcXliY2VIR3pheGFEelBTaGFpN2hjWFpUME5DSTVIUUJMcVlMYjdXM2t6YWtudFNpeHdiTEpGWUYzX21iY014RFM3VWpGQWM0VHhuVHdsNXMzMmUyRVBpdVJvWnhNNVdhVThCUjdZeXFSZDZSQ1drRXBndGk3Ui1INEJodUdmRW51S0NudGJmbWFsQi1Ta0dLdlFLNGFmaVAxS1QyN1dqa19kcDBGRmh3b3RMenZNenR4UG8?oc=5
+- Pawan Kalyan, wife Anna announce separation - The Indian Express
+  Pawan Kalyan and
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVNsbmtndEVjOWFfVk5Zam1mME9kRkpWWnZ0YXByRjJzekkyVVBuNmRrYXZDdGJXbDFxWFUzeXQzeURPNDRka0luY1pFTkxLaGs3a2c1TVAySnNkS1M0X05XRFhkNVM5Vk14dUNSNDN5dGthbDZBWjlnaFZiYlYxX3ptR1gtM2fSAY4BQVVfeXFMUDdlQ3lCeC1MdU9pZkI5cnFkc19vMFRYMzhTT1BqMVpjTWVUYlhWb1c2aHNIdkRSUVBFT2xqbEp3R0NzYWp4WHZEbTIySHIwWDI2SmE1aXEtLXF0N2FtWGZuNDAzT3lLcXFpNEJ3SGlTclBjd3pzWU4yVmtnMXN1bERibWQ3Y2tTdktZM1FuQQ?oc=5
 
 - Decoding BlackBuck’s Core Trucking Model And Its New Engines
   A truck carrying goods across India spends several days or even weeks on the road, but it’s not just the&#8230; trucks.
@@ -184,21 +184,41 @@
   Harsh Goenka is the co-host of
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
 
-- Indian women squad for South Africa tour announced; Smriti Mandhana named captain for all three formats - News On AIR
-  Indian women squad for South Africa tour announced; Smriti Mandhana named
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkdVUkxwd2ZuZHJOaldtdEV1SVJjdGRsc19GaWFla3ZsaGJWMG0yS0lWbDV6OE1wNGtRRU80d2RfYVZmNHVnUkZWdjdqblFKdGxNazlTNm0zYmRfWktMa2dabWQ1UHJna0V2Yk11N0Y2dzYtRVBtX1pMWndpa1JBUHNWTE5GSWxtelQ0U3FVLVRfaGtmd2Z5VjVJSHRveHFMbTZaeVdrRHZKMm5NY1NreTRsZk9HUzI3WlpCT2ZtSWp1NWVndXRV?oc=5
+- Delhi pollution on Diwali rockets to worst in 5 years - The Times of India
+  Delhi pollution on Diwali rockets to worst in
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxORE1iZlBlX3RxakRuZXNFaGE5azhEWnZZYngtaDE1MkY5RW1VYjFOTGVZTE1vQmZ5Mzd1QmhxQW11SVQtcjVYSFJFY2dWZVlXMzBrSU9KZ1QwMlM1QlE5bm9kUDBFRlp6RW45NHJrd29ScUdYc3Z2X3VSS0dCcGU0bnotMnNUNGgwS2VQWHhPV3pIMFdyemNQVVlGSzgtbzlFd0ZmZl9HZnNWZUZHWGRYSTBta1BsNTRwZlZjZUd30gHDAUFVX3lxTE51V2k1NVdSalpNa1F0SVNWZUxWNWx5NUE4ZGw0QjN1eVNsR0c3U3A2NDVFU2J2bG9jelFtVTBpVzNXbGlNbmdWQjZqdVJYQ2VmZFNmZTR3NTJRMEUwRS1BUHBNeVNTYjBidklZSS1UUlFfaVZJX3JveDhyYTdrYV84U3I5SnEwRW51dHNMMUxENTd3My12ODMydmRCOXI3SjlxcGlBdDRzQmFsb3lNT1ptLVgwbHJDYjVxZHZxeU5IVWl0MA?oc=5
 
-- Reds gone, but 'dimagi Naxals' still instigating people: PM Modi - The Times of India
-  Reds gone, but 'dimagi Naxals
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOT2xSdzhmU2xJam0tU1p3Wjhrd2YyT1lSR2pldTZ0MEc2YkhIWFc3djlyQ1lNYk53WHhqTUx5VW5Idjh3Z1FydlJ2dnFFdXROQk45dGJhUmhZc3ZEc05TX2c4LVZ4MTFmUFI3MF9NVkhsZUJtUFFKSE1LOTYtOWppeHpQNTVKbVdVQkVjMWpMWVlDWlNBMDVjOW9tT2NVNElKb0Y0TklSUUZJWmNZaXBZMUhKdVRwaEZDM0FXMm4zUzNaWDBhNklZ0gHMAUFVX3lxTE96dURLUEhaN0Q2bGZ5SU9IcmZ6eWpkcUgzUFQ1R1lQTVlXR1hGYk85aVhTU2VpY2xQVGVscjBIeXhuazRSRFA0dGJVSFhyNVFXak1RWVBCajAtOVRYQl9VdVh5VkRZVm95dHFXNlJYX3JnUnJFdGJSS2V1VUphSjI5SlZwaUY1dUFJOXFaUXVfbE9sa19aeEpYd0NkdTNqdTZZclpxX1FHSTZaeVdWT01VNkI5VjNnNDl5b1djM0llM3dmRTk2NF96LTJzOQ?oc=5
+- India wins bronze and silver at ISSF World Championship - News On AIR
+  India wins bronze and silver at ISSF World
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUlfVmN0QTZkNndoeG11RVhISGp0OGk3ZWRBaFVUNTBsX0lRc2lWZGhyMGtDVzc1TnpZdTQxV0VVcVJaQU1sU0FkU3JGcjRicWo1Z015WTJkSXRJTXpTWUxzR0pwX1JXTzJLN2lhbGh4dlktSnlFMzQyVDdiV2dsQjBiR29kcWp4?oc=5
 
-- India News Highlights, 9 November 2026: PM Modi speaks to Zelenskyy, reaffirms India’s support for peaceful resolution - The Indian Express
-  India News Highlights, 9 November 2026: PM Modi speaks to Zelenskyy
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPeFZIWDlITUJfVlNubW1tSGRsUjJ0d3NjQWQ0RmZlZUwwcGhsR1BSZkVORW13ZDdJb2IwZ2dOYlB4bTgwNFlMangzcU1XTE5uMjF4MzBpdDdVcnFab0YtWEwwNmQ2MGtXMlcyMGYyUzlmUEEwYmhZZ2RtWnM5QnhHTWNyTEVpSG1ZcjhhaXR2bUZfOUZQTWlWX1cwVjR6dVVCYmthUWdxT2JLblY1bWtnanVVRWd1QW5QVDNPa2t6YUV1aVhhQ05rM1ItTVRTeDRtZkpPZXFFLXdPWjBBUXR6ekhsRmcxUm1VMDNtSk93OHhoRnFVTWIxcUt0akdEc0c0OWRZMFlDTk9LN2J3Wll2MUhhM1l4dm00bjk0VlNCT3PSAacCQVVfeXFMUGRmTlA2ZmM1TlpEb2N5cTRoMWM1RGg3N2lqUVVCNXJPSXJudzBBSTJmQjFQeWZSS0JDVThTQ2ZrdHFibjJVX1hhUzYzNGxkMkpjTVRJMnFzdGZoOWFQaEhrOThTdHRaMnN2RHFucHZxczhsRGJDRnNyNnNkRkl6NWQ5dUItRC14TVVHUlNzWXh5dU1Bb0JvVmdkYy1yb3Z6Y1ZRR19DUHA3bWZqV2lqeGY2Z2hwY3d4SXJWS21Ta0pzZExfYW1xMV9jYkdGUGVwcDVRUGVpS2xLdGtrcTZtVXk5UEJMR0JFYWtsMThzbDY3SEpLemFoNUZjRHhhMnBrdDEwRVJ3dkhsd2xjMi11Q05jT0R4cFpaOElfMmxCOE9pb2JOQ3dYNA?oc=5
+- India news: Delhi air quality level 'severe' after Diwali - DW.com
+  India news: Delhi air quality level
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFQa3VOS0VmN0lJb3hUdjEzQVF4QURPYk1WY1A1NTBpeEhXN0JfZkZneTJ6WlJlWHhJdDhvOFZocmRyWUpsb1FXdjhoZi1UaE52SWJiakVZWXJyb3VyYnNrV1lTTGpEc0dGWUF4MVp4cVVHUE43YkxLeE56azVhZER0d05xamxkT0p5RWk5MV9qSGxZ?oc=5
 
-- PM Modi speaks to Volodymyr Zelenskyy, reaffirms India's readiness to resolve Russia-Ukraine conflict - Moneycontrol.com
-  PM Modi speaks to Volodymyr Zelensky
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS2FUYmwwSTItTTNOR0VVYzNHT2EwbnJsYW9kTW5vS3dmNTdZbkd4X2VsYWJyZF8yOG9ueXJ3VmRsR25ta1Z3c0ZKb2t2UUVrQXpsanhuYUxLRlEydi1yeHpTVGxrc0oxVTA1X1Z3MXZIcVJFYjVXS3paYjNHNGZOc3FYSmE2MnpfdHlJVlhqSVBJUzhicWRBaE5veTlraTJVNFFvemhyN1l3czh0UEhkUjRSd0xqbkljeUZmMXAwZ0FfSHFwOG9FWlF6RFRjWnRRdU9MeFp0andMam5rSTRJUzJTU2hhbXhpeEHSAe8BQVVfeXFMTkZIWFc0eElXZGVRcjRvclA1MFpERmpvNEg3WGRYVTNzMFQzaFJ2TWJRc3Q4czRpTmRvWDkzcXliY2VIR3pheGFEelBTaGFpN2hjWFpUME5DSTVIUUJMcVlMYjdXM2t6YWtudFNpeHdiTEpGWUYzX21iY014RFM3VWpGQWM0VHhuVHdsNXMzMmUyRVBpdVJvWnhNNVdhVThCUjdZeXFSZDZSQ1drRXBndGk3Ui1INEJodUdmRW51S0NudGJmbWFsQi1Ta0dLdlFLNGFmaVAxS1QyN1dqa19kcDBGRmh3b3RMenZNenR4UG8?oc=5
+- Pawan Kalyan, wife Anna announce separation - The Indian Express
+  Pawan Kalyan and
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVNsbmtndEVjOWFfVk5Zam1mME9kRkpWWnZ0YXByRjJzekkyVVBuNmRrYXZDdGJXbDFxWFUzeXQzeURPNDRka0luY1pFTkxLaGs3a2c1TVAySnNkS1M0X05XRFhkNVM5Vk14dUNSNDN5dGthbDZBWjlnaFZiYlYxX3ptR1gtM2fSAY4BQVVfeXFMUDdlQ3lCeC1MdU9pZkI5cnFkc19vMFRYMzhTT1BqMVpjTWVUYlhWb1c2aHNIdkRSUVBFT2xqbEp3R0NzYWp4WHZEbTIySHIwWDI2SmE1aXEtLXF0N2FtWGZuNDAzT3lLcXFpNEJ3SGlTclBjd3pzWU4yVmtnMXN1bERibWQ3Y2tTdktZM1FuQQ?oc=5
+
+- Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
+  Harsh Goenka is the co-host of
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
+
+- Delhi pollution on Diwali rockets to worst in 5 years - The Times of India
+  Delhi pollution on Diwali rockets to worst in
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxORE1iZlBlX3RxakRuZXNFaGE5azhEWnZZYngtaDE1MkY5RW1VYjFOTGVZTE1vQmZ5Mzd1QmhxQW11SVQtcjVYSFJFY2dWZVlXMzBrSU9KZ1QwMlM1QlE5bm9kUDBFRlp6RW45NHJrd29ScUdYc3Z2X3VSS0dCcGU0bnotMnNUNGgwS2VQWHhPV3pIMFdyemNQVVlGSzgtbzlFd0ZmZl9HZnNWZUZHWGRYSTBta1BsNTRwZlZjZUd30gHDAUFVX3lxTE51V2k1NVdSalpNa1F0SVNWZUxWNWx5NUE4ZGw0QjN1eVNsR0c3U3A2NDVFU2J2bG9jelFtVTBpVzNXbGlNbmdWQjZqdVJYQ2VmZFNmZTR3NTJRMEUwRS1BUHBNeVNTYjBidklZSS1UUlFfaVZJX3JveDhyYTdrYV84U3I5SnEwRW51dHNMMUxENTd3My12ODMydmRCOXI3SjlxcGlBdDRzQmFsb3lNT1ptLVgwbHJDYjVxZHZxeU5IVWl0MA?oc=5
+
+- India wins bronze and silver at ISSF World Championship - News On AIR
+  India wins bronze and silver at ISSF World
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUlfVmN0QTZkNndoeG11RVhISGp0OGk3ZWRBaFVUNTBsX0lRc2lWZGhyMGtDVzc1TnpZdTQxV0VVcVJaQU1sU0FkU3JGcjRicWo1Z015WTJkSXRJTXpTWUxzR0pwX1JXTzJLN2lhbGh4dlktSnlFMzQyVDdiV2dsQjBiR29kcWp4?oc=5
+
+- India news: Delhi air quality level 'severe' after Diwali - DW.com
+  India news: Delhi air quality level
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUFQa3VOS0VmN0lJb3hUdjEzQVF4QURPYk1WY1A1NTBpeEhXN0JfZkZneTJ6WlJlWHhJdDhvOFZocmRyWUpsb1FXdjhoZi1UaE52SWJiakVZWXJyb3VyYnNrV1lTTGpEc0dGWUF4MVp4cVVHUE43YkxLeE56azVhZER0d05xamxkT0p5RWk5MV9qSGxZ?oc=5
+
+- Pawan Kalyan, wife Anna announce separation - The Indian Express
+  Pawan Kalyan and
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVNsbmtndEVjOWFfVk5Zam1mME9kRkpWWnZ0YXByRjJzekkyVVBuNmRrYXZDdGJXbDFxWFUzeXQzeURPNDRka0luY1pFTkxLaGs3a2c1TVAySnNkS1M0X05XRFhkNVM5Vk14dUNSNDN5dGthbDZBWjlnaFZiYlYxX3ptR1gtM2fSAY4BQVVfeXFMUDdlQ3lCeC1MdU9pZkI5cnFkc19vMFRYMzhTT1BqMVpjTWVUYlhWb1c2aHNIdkRSUVBFT2xqbEp3R0NzYWp4WHZEbTIySHIwWDI2SmE1aXEtLXF0N2FtWGZuNDAzT3lLcXFpNEJ3SGlTclBjd3pzWU4yVmtnMXN1bERibWQ3Y2tTdktZM1FuQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-09 15:00:25 UTC_
+_Last updated: 2026-11-10 01:08:48 UTC_
