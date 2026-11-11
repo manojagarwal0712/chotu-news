@@ -4,221 +4,221 @@
   Harsh Goenka is the co-host of
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
 
+- Indian Navy coordinates fifth edition of Sea Vigil exercise to assess maritime security preparedness - News On AIR
+  Indian Navy coordinates fifth edition of Sea Vigil exercise to assess maritime security prepared
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3lJVU5UTkRiYk94SURFUDFlT0x1Yk1hRkItbjZhQ0VyV3laRnlndWxDeU0wOFVUb1lrUkp3cjhib0hWVWg1U0RkSlI5WGc2ZlRVYkZNNk1oRGg1RzdSUXVvQmlYWkpmNnZfRUgxNERQRjd3bVk0SDlkUHpKcTBXcHhZRkRpekNUMjgwVURrQ1pGTlRrSXlxOV8xX2NyUjVleVhRLTVsb3V3bmQyVi1WTFBYQXBJY2pGS0VvT2hJcDNlaW93?oc=5
+
 - After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed - The Hindu
   Bangladesh rules out passport for Hasina, India
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGg1QUFtZlNIZ2NjN0dEREpOSDJMMkw0clZpRHl5TDN6c0R1VEtZeWxldElReUg5ektsUVN2MVdOcXB0dkVOZUVwMlpHOVE0RlRLQkUzaDFYZ1YzeGVOcnUwS3RXNklKOG5XX1JOZTFvZEtSMDlGUUZtLW1ITHhYQUljM2hYTUJWWVFmd3RMSENjZml3UnBzZUJJcmR6ZWFtZklhZW53M1lHRm5DYXZmNkFhbDl0am16TmFveG90LXdLV0t3RXVOb2p5MmREa2FTY3dwSkFB0gHcAUFVX3lxTE56WXVfSkhnYzBGLUtVS1ViWlNFdFVzREVtcTRjWERLdHhsNFVOX0xRNjVVUEJYdTdSeDRuTzFxRk1hckVIQ1BOVk8wMDdSR0pUZTFYanJQSk9jZ1BZOUpfaVFNeXNlQ3lyOHc3NG1YcUhCeC1HMzZfZ2NheTVLall6d3hya09DTlNXNDJTWmxYSTdYZDBfejhVN29mcTZqeFlvcVBzZkRXTDFNS3RELTZBN2NVLTQzZWFNcHRHUG5OMmhZY29xRjB4ZklMZ29CQzJxSnlJdmFtNGhadGk?oc=5
 
-- 80% of Delhi's pollution Monday due to crackers - The Times of India
-  80% of Delhi's pollution Monday due to
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOV29od0llc3FaN1FOc2F1YUx4OUhrcjBTOFhzMmRHZnE4ZkxlSWhiUFpKVUhTaUk2ZVdBWFFjU1FCN2VtdFZlWjR6MXlTbEJoaGdiRExRSmxMQTdXQjlfbk9wWTdWeWZuTE1iZ2ZmYkk5UHVnUVVXQnJ0ekRUeFhTMFNPV3NUNDRUay01bzFzVm1KS1BxQkZSSnZ3ZVhxVlhNMXVMRnJfQlIycHJzRkFMRThYONIBuAFBVV95cUxQTHJhZzd1LThDWFFHX0ljeUJqaG9NWHlQazdrdlI3ZXhPejZsWVhXLUZXMFZNak01SWU2UzFzdzdWaS1rbFJTbUNHLVhTcTE1MUV1XzZGQVB5NGU4TmFIUW5NTE5IdHpvZndydEN6cFZLMURITkNNd191RVJwdkUwZzJybkFrN2hrUkIzeDNNMkFUNFMxV011UU9tMHJ0MXFlczh2LUwwa25zR2M0dmhPSjVFM0tHUUt5?oc=5
+- Tamil Nadu: India investigates alleged 'AI scam' involving public library books - BBC
+  Tamil Nadu: India investigates alleged 'AI
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Zd0YwbTRwWDdnQ2pwUjFuUEdTN1dEbVBrRGFLQ2dYdWlKUkM4NldkUWRTQTdaNDY5NUpGLUhhcFY1Q1FvTDhKOWprNVVNc2FHaDRtUW80X0xWcVU?oc=5
 
-- 'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics - BBC
-  'They will kill you too': Sonia Gandhi's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5
+- Terrorists open fire at CRPF party in J&K's Kulgam, 3 injured - The Times of India
+  'Terrorists open fire at CRPF party in J&
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNnZCbm1NbmlkelpUcFRwMUVJMjJtQ29KZ0pRMktkbGI4UHZOSWlibTRhMnZYRHVidjVOWGJRa1V6MVdFRFVDUjU5M0hneGthamZyUzFqRG1mZkZMenR6TzQ1aF9lWndZeDloVnI3U05COGFiRkR5UWdxamNCcXpFT3liUWVnWEZnX0VNM3JRY25qTFo5RFBSbXc0d3YwcVNlNHQ4dERxWVdNR2Uzb3Fmdl8wbG85UlJrT2N2dTlhaEZvdUtzanpndTZWZWVQNS1pLXBxSGN5a9IB3AFBVV95cUxOWWY1U1ZfLXZNZFZuREplTnlLM1JGRUtKWDh6NHRQSjNMYjNvQnl6S2EzeGRNcEh5cXJFQUZWV192NEhJZ05DcW9LZ1FhaDVYSTFEQTJCMldVRHZoN0pQcFQ3YXRic1RoWG04M1p1YUtoZXZDaHYzcjdHRElqek5OQ2hqMGtLSHVDU2txQ2tfOUJVQ1RtN184NUVkUzhMejloblZWWEYxREx1dlB6cm1iX3R1MU9QYTF4VjVLRkl6ZWEzdDFNVVBQNFh6UVQwOVE4WGIySnlMOHN0SDIw?oc=5
 
-- India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief - The Indian Express
-  India rejects Khalistani terrorist Pannun’
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmxjTHVHVVRwXzFaYUdXNnNLdFludWh0eTJneTJZVFpqSXo0dW9iQzRXWGktcXBKUnZ3dm9qZ2JWdjFaOXdvdlhGRlpMc2tiZTNMUVp6eWxQdjM0SENsWnBUTUJMSDg5ZEItMzl4N3J6VGItY3hxRkJ1YWc5LWRYZ1JfVER2WUxMTFREeG51SVdwX3FPMFB0cnkzMVdtaEtCM1RUWmplU1RUVzZrUnBaQXNmam9RZE4tWkFtV3lqdzRKRTRhRnYyQzQ1U0ZrZ9IB1AFBVV95cUxOZS1FWmRIdVNUUTBfZ1QxcWc2M3ZlTkhaUWQ0VnhjTURIZ3NNQXdEdmNzSHFFMEJrXzdWR0NpMXJWblRpTldiOGNsMUtVXzV1V3EwSUx1a1hsRjVaRnlpVlJVdl95S3NNQTRHVjhPd2taOXoxMUljQzUzSjI3a3puQ0hieFo5VGZ2U2VUUzd4b1FXRmFBWWRpcTlQeldXcFJ2cnpMNmNGU1U5NFYwbnJzNXpkejZQOXAteUpHc0NEWjNSTi1OU3BILTNSMjIwRkdsOFZ4Uw?oc=5
+- New £1.5m centre opens on Infinity technology park in Derby - BBC
+  New £1.5m centre opens
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nMGdVRzhrcjA0a3JpSnVmc1BjNEl2c2NTQkV6ZUtlSzNtcVpBa1U2VkdUeDhGZGFWbFl1WTd6dWdhb2dtWnhfWFo3SnJLekhaTUJ3VUFvcGh0NkU?oc=5
 
-- PwC Trained 85,000 Workers to Use New Technology. Now It’s Teaching Them Not to Trust It - Inc.com
-  PwC Trained 85,000 Workers to Use New Technology.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOTnRZM3RnVFYwVkZDTnNNaF9ESklrVzRWbkZhVFc3c3Vib19GQVdwaDhRTXF1dGRkMWJ1dUMyQWN1ZUlKblZrMEpIN0t5d29tcllhZlRhOEtGVGNweGtZN1N6YnAySTV6LWQtUHdRR3dIOWpiNVRnUkdCNEk5bXZKZVpocTlHR0VIRnUtSXJ5OEpEenFBOFRnTm1qRjZJNl92bXRXM1BSYXQ2MDZ5Sl9mUXB6R0hITExob2JOQWREbndlc0ZweEsxWk5n?oc=5
-
-- TCS brings real-world technology experience to over 23,000 students across 50 campuses - Tata Consultancy Services
-  TCS brings real-world technology experience to over 23,
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHJSQWpBWkZJV0V4LW1Wel9Jd0FUZ1BhQTBXTy1SM2E4QVBhQmZaZjdLaklxZlg4MVNIdk81eVV2azMxUFl1SEo4Yk5jNlZsMVJFZ0FDOWhFOWpPak9ZMEJ1VlM2VmFVMXN6U3lQMTRYUWxIZklKc3hiQWJ6OWJQb3ppTXZlZW96QTZTUjIzcmF5UVlyNm5YTURaWHBxRGF0SGk5SG1aT3p1Z1NPUFctZkRrMWhDcEo0M1U2azRPRVMxaWNGVkZRNnJQVEFwQQ?oc=5
-
-- Local partner wanted for Xiaomi ‘home’ coming - The Economic Times
-  Local partner wanted for Xiaomi ‘
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjZnZE9jZDdSOUtmX00tZGhEMlV0Wm5fb19nRDVkTTY1RFJJZ1dCaWUyWDRxaS1sOE1Vb3BNYktEampLQ0Z1MUxEQmVIWXdUQUZELVZnVzg0c2JSQlF0Qmt0UGNOYkY2LVJseU5DZ3dMay03TVlUdEc2d2RoNGJBMkJFUjNXOU1MSzZ1VmhUb1ZXTzlvYThoNWZoeTJyNjJNOXU1OGlBUXl3YUNldUcyb0FWb9IBuAFBVV95cUxPRnhWdXV6VkdPWGl3Y3lzZmlLa2d5RGdKSVNfM3pFY0VMQ0dhc2JETFZVazdSd0lzTFBpVHluaTllZHYxOW1vbUdHdUgtWE9zWkdFQkxUem9uR1k1YTR2bXVmNzd2bnh2bmtBTG9YRmkzeWNEeWZTRHVDdm05dDM0T0RNajdrcWx1Z1FMYV9aSGlReWs0cWJ0ZXNaQzI4ejU4SGM2ZGVHYTFSQnA1eXBINW94OExPN0k5?oc=5
+- India, France discuss cooperation in critical technologies, cyber security - News On AIR
+  India, France discuss cooperation in critical technologies,
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjFIcjNaUzFhM3Fkc3ZJdmw3VDl4ZjlndDJZWGtIaUIyRjZuSGt1YzdDUDZzUGs4R3dGQ1JFOGhxOXI3bUYzMTlGWElBdUg2NzBURExSRmFGb19wRFdUUUJWZGoyT3JFUDBTX05vWWx2WTlOdEFIajBneUNpWk1meXNpd0ZDZUw5a00xQ1lNZnBxbDhyLWdpQ1NaS2ZlZGc?oc=5
 
 - Nvidia's AI chips: The technology China wants and America won't share - The Times of India
   The Times of India reports that Nvidia's AI chips could
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQekdqZFUtcFUyLVhGR0VYajBVQUs1T3RrYVhBdHRSMXJLRmdiLUpLMHFuLUN3Y3dRYUdPYWdicVRqQVh5UVppSDR5b2VVbjlBbDNyV05kbThvWHBjdTRFMTM4c1JUVmp3WG9oaE5OSWpoOGt2ckQyRFkzRjdTaVh3ZFNDSzhTQno4M1FfTng3YURZQW93MFVrdERtSGhYNEZ2WF9Ib2RldlBWb0VWYU0tR0dKNDU0WVlmTzZhVGJybjluRjhNWFQxMlF3dU5GMGN6c1VpaWxB?oc=5
 
-- EXCLUSIVE: Microsoft presses Trump to scuttle ban on Chinese data center tech - Reuters
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5
+- Investors pivot to defensive stocks as markets enter a ‘state of alert’ - CNBC
+  Investors pivot to defensive stocks as markets enter a
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTFBkdEhEMll4Ul9ReXVZbVpySnZEQlloeTIzTVd6Y1dmZXVJdlpBZTNfaU1DQlJ1d3hqekpyQlNocWpRbVJqeTRmQkZZZHlKUC1SQXFlSjFsY1NRUXU4dmxTdGthZUtHWDcwams3OHh6NHU2MHc?oc=5
 
-- Qualcomm begins layoffs in India: How many jobs are at risk, what's the severance package, benefits offered to employees
-  The reported layoffs in India follow job cuts in the US. This comes as the US-based chipmaker undertakes a global workforce restructuring.
-  🔗 https://www.livemint.com/companies/news/qualcomm-begins-layoffs-india-bengaluru-how-many-jobs-at-risk-what-severance-package-benefits-offered-to-employees-11794366514287.html
+- Copper Falls Amid Technology Stock Rout While Supply Concerns Limit The Downside By Kedia Advisory - Investing.com India
+  Copper Falls Amid Technology Stock Rout While Supply Concerns Limit The Down
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT182R1hEbFduakRRbEhmNjh4M0NPckZWTXJmZkxIU3hTbHd1Wld0WmNpQk5aYWJ6M3NIQTJ4N1hEVTlYdjJ3bjhVSmJLNHhZZ0VOV3llZTRkd2JKV201RDBnRzJybVpkNktHd3FGd3FMaWpSclBSN0dUd0U0TWlqM3VkMWJRbXQ2bEtBOUpPZXA5ZEZJbUdyVnNHc0JNNmdvVm8wc3ZzYWJKZldWZXU5RFpzSkoyQngwYTVhS0Z5NWNKVkgtc1lrRFZ1Zms3dV9V?oc=5
 
-- Airbus A350-1000ULR breaks world distance record with 24-hour non-stop flight from Australia to France | Details
-  The A350-1000ULR has set a Guinness World Record after flying 12,503 nautical miles non-stop from Melbourne to Toulouse. The aircraft is being developed for Q
-  🔗 https://www.livemint.com/companies/news/airbus-a350-1000ulr-breaks-world-distance-record-with-24-hour-non-stop-flight-from-australia-to-france-details-11794364418671.html
+- Who is Nadeen Ayman? Dubai World Trade Centre appoints her Associate Director of Marketing; here's her career journey
+  Her appointment marks the latest step in a career spanning marketing, digital engagement and event-related
+  🔗 https://www.livemint.com/companies/news/who-is-nadeen-ayman-dubai-world-trade-centre-appoints-her-associate-director-of-marketing-heres-her-career-journey-11794398613618.html
 
-- Nvidia briefly slips behind Microsoft in market value as shares tumble 10% amid Jensen Huang controversy
-  Nvidia lost nearly $430 billion in market value over two sessions. Shares fell 10% amid allegations involving CEO Jensen Huang and a Chinese businesswoman.
-  🔗 https://www.livemint.com/companies/news/nvidia-briefly-slips-behind-microsoft-in-market-value-as-shares-tumble-10-amid-jensen-huang-controversy-11794363923176.html
+- Who is Shuchi Suri? Mahindra &amp; Mahindra appoints Executive VP as Chief Sales and Marketing officer - Automotive
+  Shuchi Suri is currently Executive Vice-President of Mahindra Experiences. Suri brings more than 22 years of experience at Unilever across sales, marketing, and global
+  🔗 https://www.livemint.com/companies/people/who-is-shuchi-suri-mahindra-mahindra-appoints-executive-vp-as-chief-sales-and-marketing-officer-automotive-11794395531417.html
 
-- Alice Huang used her relationship with Jensen Huang to move 240,000 Nvidia chips worth $7.5 billion to China: Report
-  Alice Huang, a former Megaspeed executive, is alleged to have assisted a network of companies in acquiring and redirecting restricted Nvidia chips. Separately, Malaysian authorities seized 30 server units containing advanced
-  🔗 https://www.livemint.com/companies/news/alice-huang-used-her-relationship-with-jensen-huang-to-move-240-000-nvidia-chips-worth-7-5-billion-to-china-report-11794363878153.html
+- Singapore Airlines' $2 billion cabin upgrade: From double beds to sliding doors, and bigger screens — here's what's new
+  The airline is investing more than S$2 billion in the cabin makeover. The
+  🔗 https://www.livemint.com/companies/news/singapore-airlines-2-billion-cabin-upgrade-from-double-beds-to-sliding-doors-and-bigger-screens-heres-whats-new-11794396781343.html
 
-- Cognizant to tie job titles to AI adoption in major workforce revamp
-  IT giant is introducing a three-tiered role architecture to match designations with how much work AI has taken over.
-  🔗 https://www.livemint.com/companies/cognizant-to-tie-job-titles-to-ai-adoption-in-major-workforce-revamp-11794319497907.html
+- Shriram General bets on agents, vehicle makers despite proposed Irdai commission curbs
+  The insurer plans to add 10,500 financial advisors and expand partnerships with vehicle makers in H2 FY27. proposed commission caps
+  🔗 https://www.livemint.com/companies/news/shriram-general-insurance-growth-plans-advisor-hiring-oem-partnerships-fy27-11794388081763.html
 
-- Stock Market Today: Massive jump in Sensex, Nifty!  ₹4.5 lakh cr wealth added in a few mins - Reasons for bullish party
-  Sensex and Nifty climbed more than 1% in Wednesday trading. Major stocks including IndiGo, M&amp;amp;M and HDFC Bank rose.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-massive-jump-in-sensex-nifty-rs-4-5-lakh-cr-wealth-added-in-a-few-mins-reasons-for-bullish-party-11794369074218.html
+- Mint Explainer | Incorporation boom: what rising company registrations mean for jobs and economic growth
+  Strong domestic demand and regulatory easing drive a record wave of company
+  🔗 https://www.livemint.com/companies/news/india-business-incorporation-boom-jobs-growth-impact-11794386751186.html
 
-- Sensex, Nifty 50 open higher on softer crude, robust foreign buying
-  The NSE Nifty 50 rose 1.17% to 25,337.8 points and the S&amp;
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stocks-poised-for-higher-open-on-softer-crude-robust-foreign-buying-11794366485802.html
+- EAAA India Alternatives Q2 results 2026: Net profit jumps 27%; 140% interim dividend of  ₹7/share; check record date
+  EAAA India Alternatives reported a 26.9% year-on-year rise in Q2 FY27 net profit. Funds managed increased 28% to  ₹49
+  🔗 https://www.livemint.com/market/stock-market-news/eaaa-india-alternatives-q2-results-2026-net-profit-jumps-27-140-interim-dividend-of-rs-7-share-check-record-date-11794399717392.html
 
-- ONGC dividend 2026: Last day to buy today | Check dividend payout, record date, history, yield and returns
-  ONGC announced the interim dividend after its board meeting on November 5, alongside its September-quarter results for FY27. The dividend represents a payout of 160%
-  🔗 https://www.livemint.com/market/stock-market-news/ongc-dividend-2026-last-day-to-buy-today-check-dividend-payout-record-date-history-yield-and-returns-11794363759514.html
+- Top 2 stocks to buy for short-term: Canara Bank, Pine Labs by Nagaraj Shetti - Check stop loss, targets
+  Indian benchmark indices rose on Wednesday, with the Nifty 50 up 0.84% and Sensex up0.95%. Analysts see resistance near
+  🔗 https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-canara-bank-pine-labs-by-nagaraj-shetti-check-stop-loss-targets-11794397280619.html
 
-- Trump says Iran war ‘effectively over’: How's it likely to impact Sensex, Nifty, gold and silver prices? Experts' views
-  Any signs of de-escalation between the US and Iran could be positive, particularly if they lead to a sustained decline
-  🔗 https://www.livemint.com/market/stock-market-news/trump-says-iran-war-effectively-over-hows-it-likely-to-impact-sensex-nifty-gold-and-silver-prices-experts-views-11794362432588.html
+- PC Jeweller vs Kalyan Jewellers shares: Both delivered strong Q2 results but what to buy for better returns? Key levels
+  PC Jeweller and Kalyan Jewellers posted strong Q2 FY27 results, with profits rising 58% and 64%, respectively
+  🔗 https://www.livemint.com/market/stock-market-news/pc-jeweller-vs-kalyan-jewellers-shares-both-delivered-strong-q2-results-but-what-to-buy-for-better-returns-key-levels-11794394181636.html
 
-- Top stocks to watch today: Cochin Shipyard, MRF, Tata Power shares in focus on Wednesday, 11 November | Full list
-  Cochin Shipyard, MRF, Kalyan Jewellers, Tata Power, Hind
-  🔗 https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-cochin-shipyard-mrf-tata-power-shares-in-focus-on-wednesday-11-november-full-list-11794360457800.html
+- This EPC stock under  ₹15 hits 20% upper circuit after  ₹510 crore bank guarantee release boosts order execution
+  Jyoti Structures shares surged 20% to  ₹13 after lenders began releasing bank
+  🔗 https://www.livemint.com/market/stock-market-news/this-epc-stock-under-rs-15-hits-20-upper-circuit-after-rs-510-crore-bank-guarantee-release-boosts-order-execution-11794395143697.html
 
-- Banks seek to rein in soaring AI agent costs, McKinsey says
+- Gold or Silver? Which investment will offer higher returns after rates correction? What experts say; key levels to watch
+  MCX gold and silver rose on Wednesday, led by a 2.47% gain in silver. Experts recommend gold for conservative investors and portfolio diversification. They advise gradual accumulation and note key
+  🔗 https://www.livemint.com/market/gold-or-silver-which-investment-will-offer-higher-returns-after-rates-correction-what-experts-say-key-levels-to-watch-11794394141742.html
+
+- India ranked an AI Rising Contender by BCG, built on talent rather than compute
+  India ranked an 'AI Rising Contender'
+  🔗 https://www.livemint.com/technology/india-ranked-an-ai-rising-contender-by-bcg-built-on-talent-rather-than-compute-11794397321852.html
+
+- Analysis-Binance hack reveals cryptos uphill battle against hackers
+  Binance hack
+  🔗 https://www.livemint.com/technology/analysisbinance-hack-reveals-cryptos-uphill-battle-against-hackers-11794395108918.html
+
+- Kazakhstan-linked hackers used AI to steal Tajik government documents, researchers say
+  Kazakhstan-linked hackers
+  🔗 https://www.livemint.com/technology/kazakhstanlinked-hackers-used-ai-to-steal-tajik-government-documents-researchers-say-11794394933122.html
+
+- Google November Pixel Drop brings Gemini AI to Pixel 10, custom widgets and Hindi message summaries
+  Google has rolled out its November 2026 Pixel Drop, bringing Gemini Intelligence, improved Gboard voice typing, AI
+  🔗 https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html
+
+- US-blacklisted Chinese university buys Nvidia H200 AI chips through domestic suppliers: Report
+  A Chinese university with close ties to the People's Liberation Army (PLA) has purchased Nvidia's advanced H200 artificial intelligence (AI) chips despite being on a US trade blacklist.
+  🔗 https://www.livemint.com/technology/usblacklisted-chinese-university-buys-nvidia-h200-ai-chips-through-domestic-suppliers-report-11794382318946.html
+
+- Nasdaq futures jump as CoreWeave earnings beat drives global tech rebound: Live updates - CNBC
+  Nasdaq futures jump as CoreWeave earnings beat
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ?oc=5
+
+- Stock Market Today: Tech Stocks Poised to Rise After CoreWeave Earnings — Live Updates - WSJ
+  The WSJ reports that CoreWeave is expected to
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5
+
+- Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap - Bloomberg.com
+  Tech Gains Boost Stocks as Bonds Slide on
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5
+
+- Dangote’s Tale of Two Listings Puts Markets to the Test - Bloomberg.com
+  Dangote's Tale of Two List
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWpOd2VQUWE2SEdITl9GWmFLdm85RDZnd1IybzRTMWdYWDlWQW5kUmpLejZCYk01ZGJ0SnUwSllTUkVEVDQtWVdBczdIQndmNUxOSmtpQkR4Z3lEMnlFaW1SaHRVcUFuYU1xQzlyUXhzd3dvZGp4UmxKdGJQbWlzV1JnTnFsc0N5bVpxWWx5Zi1iV2pwMTk5RE5oMzZGbUpoY2ZFWmhUQWRJMDZoYlJIR2k4c3ZxRE1ES2dmRVhLdGtHNEk?oc=5
+
+- Private Markets Take Stock on Tokenization After Binance Heist - Bloomberg.com
+  Private Markets Take Stock on Tokenization
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnNMNE5jMWJ1ZFlvQ1g3Mk9OeGJyMlhUd3hjZHZrNWFaTWpNaGdHd3RIQVhFWGktb0t0RHE5QllWbkdHSnRQWGUtVlF5QmNObVNlZHZBejN5amV4NjNzZ2xDNk9ROVk1d0IycWc5NVRxd25aOGVlSkhrcjBHa1gwT3RpS0U5elExUkowR2xLRTFsbG1teFhJU0szdy1hYnRZRGdQSzZCZFJBZFMwV2ZqU0E3TWFNZlk?oc=5
+
+- Dollar firms as hot inflation, hawkish Fed talk lift rate-hike bets
+  The US dollar has gained against multiple currencies due to expectations of Federal Reserve interest rate hikes. Inflation data revealed an increase in consumer prices, prompting speculation about further monetary tightening.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets/articleshow/135739033.cms
+
+- Nasdaq futures rise nearly 2% as CoreWeave earnings calm AI spending fears
+  Futures for the S&amp;P 500 and Nasdaq 100 have shown gains following CoreWeave's impressive earnings announcement. Nvidia's shares rebounded after a significant drop attributed to CEO Jensen Huang's controversies.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-rise-nearly-2-as-coreweave-earnings-calm-ai-spending-fears/articleshow/135738901.cms
+
+- Fairfax Financial likely to exit IIFL Finance, sources say
+   Fairfax Financial Holdings intends to divest its nearly 11% stake in IIFL Finance soon. The sale aims to raise funds for acquiring a significant stake in IDBI Bank from the Indian government.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fairfax-financial-likely-to-exit-iifl-finance-sources-say/articleshow/135738516.cms
+
+- Sterling drops against firmer dollar as markets price in a hawkish Fed
+  The pound fell against the dollar following strong US inflation data and comments from Federal Reserve officials. Analysts remain skeptical about the Bank of England achieving inflation targets before 2030.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/sterling-drops-against-firmer-dollar-as-markets-price-in-a-hawkish-fed/articleshow/135738659.cms
+
+- Anthropic IPO: A $1.4 trillion bet on the future of AI
   
-  🔗 https://www.livemint.com/technology/banks-seek-to-rein-in-soaring-ai-agent-costs-mckinsey-says-11794317540985.html
-
-- Surely India has a promising hand to play: Anand Mahindra on nations compelling AI opportunity
-  Anand Mahindra: India has a promising
-  🔗 https://www.livemint.com/technology/surely-india-has-a-promising-hand-to-play-anand-mahindra-on-nations-compelling-ai-opportunity-11794316642449.html
-
-- Entered a fake birthday on Instagram? Meta's AI can now identify users posing as adults
-   Meta is expanding its AI-powered age-detection technology globally to identify teenagers who use fake birth dates to appear as adults on Instagram. The move will place more users aged 13 to 17 under Teen Account safety
-  🔗 https://www.livemint.com/technology/apps/entered-a-fake-birthday-on-instagram-metas-ai-can-now-identify-users-posing-as-adults-11794309145759.html
-
-- GTA 6 release date confirmed for November 19: Pre-load, New Zealand early access, PC update and £1 million car
-  Rockstar Games has confirmed November 19, 2026, as the GTA 6 release date. Digital pre-loading starting November 10 for PS5 and Xbox Series X|S.
-  🔗 https://www.livemint.com/technology/tech-news/gta-6-release-date-confirmed-for-november-19-pre-load-new-zealand-early-access-pc-update-and-1-million-car-11794306516090.html
-
-- Apple introduces $50 AI usage packs for Creator Studio apps: What users get and how they work
-  Apple has introduced $49.99 one-time AI usage packs for Creator Studio subscribers. Available in India and seven other countries, the packs offer
-  🔗 https://www.livemint.com/technology/apps/apple-introduces-50-ai-usage-packs-for-creator-studio-apps-what-users-get-and-how-they-work-11794300048460.html
-
-- Stock Market News, November 10, 2026: Yields Jump as Inflation Comes in Hotter Than Expected - WSJ
-  Stock Market News, November 10, 2026: Yields
-  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTFAycGFzVmI4Q3NSQ2ZMTC1DdDR0M2R3SG1OZm1DMHZ6OG9qa3dJUllpSThRa1RlYm5uWGZrVDE1VHJZU0xJdlBFRWpZSnhzU2hUMlJ1UDdJXzFxamNqTDE5bkgwUXowRV9JdUhyckdOclgyMHlaZFE2RlZR?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq slip as hot CPI fuels rate hike odds, Nvidia stock sinks - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq slip as hot CPI fuels
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREVVTENmTlJlY1Bnc0hHM044UjZReF9oT2s4c1lpSnVGdEtmYmN1eGZqRE5RSWszazktSkR0NmhpNW5hd2MzR1ZiSzNmdTU4UGI4aEFuMHpqSHZ3TVZnbjJRSlhBYWxsRk5sNERlSVhGM01RVlNfMW9hVkkwa3BsOHBJeGdxVWU4cmVxZDFrLTZnbW42NzFZOXBKOFhxTjNRYUFTUXVDS2ZLaUhZSElyT1VSOUFURGV0YWRwZ2ZqZy1feUdEdXdLaA?oc=5
-
-- Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,100 Points As Oil Eases, Asian Markets Rally - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGgxN1hZbkZJMjNYWWNTRTFzc0J4TElfcDB1eTdDOEljVDh6LWc2eWJ6R216c3k2UThnVUtzVDlicGxpN2hZR3pKY0poeHoxNFY1R001RWRhdEE3QWZYQnlteU5CeUVacz
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUGgxN1hZbkZJMjNYWWNTRTFzc0J4TElfcDB1eTdDOEljVDh6LWc2eWJ6R216c3k2UThnVUtzVDlicGxpN2hZR3pKY0poeHoxNFY1R001RWRhdEE3QWZYQnlteU5CeUVaczNOYWN5VU5Pd2w4ZUo2SkVGV2pFOE1xa3M0U1diNmJjemNOdGplYllJeEp3SDhNQ0tIM1hJWW5nMFd0cVlDbWlhbFhkZEtKWUdZcGJNSHZZSUdNSDFRWmhybWZKZVZYSzhZdGx4bU1N0gHYAUFVX3lxTE40YUhFWmNXZVJqRWFwenVtMWN3N2RfSUxIOUdBZXZqQnp5NHNqNGVQcGlVSlR0UnBDeWNRRm03dVR1UV9hQllvLVIyYTM0dHZXdUc5eElxam9XaTY1aHdKaWthMmRXOXZUcGwwSEs2R1VMa1BkWTdoNEZ2UzM1SjhVWXY4M25HeFBvM2txbWQzdkpBMEZJUzMxZHFEZnloODJQSXUzOEIyd29xSXl3M2NUcHBnVGk2VGZ1RHItTlVwVmRNSEwwYXUza0tIdjJaQ29SNDlDdTdFLQ?oc=5
-
-- Stocks moving the most after hours: Neocloud company CoreWeave shares swing after quarterly report - CNBC
-  CoreWeave is a maker of Neocloud, a
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTFBYRWdMck5zd0ZyNXhrczRBWWlWNXk1UTdrSGlTYVZXcTJFM1VsaHlrUEl5elFVdXRzRjdGY3NDZFZtQ0d4TkVpVHhhNExnWE5aUzNWeFdiakVJekh4RkhuSktUb0tQdDduaVdhQWRhWER4YVR3QkZXZg?oc=5
-
-- Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning - BBC
-  Claude chatbot maker set for $1.3
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HNWFGZG1teU8xOWttMlMzb1gtbVhmNW94MlFvanZrY3JCbVVkcExpX3VrTGFLOVgwaGhON21KMUN5SGI1R2hmM2pMMkJXQlFDaUU0TnV6TWVqNWM?oc=5
-
-- Bharat Dynamics among 5 stocks showing RSI trending up
-  Five Nifty500 stocks that gained over 3% on November 9 featured in StockEdge’s RSI Trending Up scan.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-among-5-stocks-showing-rsi-trending-up/slideshow/135724716.cms
-
-- India’s rich pivot to real estate after stock returns falter
-  Investors in India are increasing their allocations towards high-yielding assets in real estate and logistics. Family offices are now directing larger portions of their portfolios toward private credit and infrastructure.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-rich-pivot-to-real-estate-after-stock-returns-falter/articleshow/135723008.cms
-
-- Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes
-  Brent futures climbed following reports of multiple attacks on vessels in the Strait of Hormuz. Data indicated a significant rise in shipping incidents in October, with continued threats observed into November. Concerns remain about insurance costs and risks associated with
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/articleshow/135722819.cms
-
-- Stock Market Live Updates | Opening Bell: Sensex soars over 1,100 pts, Nifty above 25,300; bank, auto stocks lead charge
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-mrf-coal-india-share-price-11-november-2026/liveblog/135722695.cms
-
-- Gold holds near one-week low as hot US inflation boosts Fed hike bets
-  Gold prices rose 0.2% to $4,039.07 per ounce in early Asian trade on Wednesday. This increase followed a nearly 3% decline in the previous session due to US inflation data.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/anthropic-ipo-a-1-4-trillion-bet-on-the-future-of-ai/videoshow/135738282.cms
 
 - Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
   Harsh Goenka is the co-host of
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
 
+- Indian Navy coordinates fifth edition of Sea Vigil exercise to assess maritime security preparedness - News On AIR
+  Indian Navy coordinates fifth edition of Sea Vigil exercise to assess maritime security prepared
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3lJVU5UTkRiYk94SURFUDFlT0x1Yk1hRkItbjZhQ0VyV3laRnlndWxDeU0wOFVUb1lrUkp3cjhib0hWVWg1U0RkSlI5WGc2ZlRVYkZNNk1oRGg1RzdSUXVvQmlYWkpmNnZfRUgxNERQRjd3bVk0SDlkUHpKcTBXcHhZRkRpekNUMjgwVURrQ1pGTlRrSXlxOV8xX2NyUjVleVhRLTVsb3V3bmQyVi1WTFBYQXBJY2pGS0VvT2hJcDNlaW93?oc=5
+
 - After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed - The Hindu
   Bangladesh rules out passport for Hasina, India
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGg1QUFtZlNIZ2NjN0dEREpOSDJMMkw0clZpRHl5TDN6c0R1VEtZeWxldElReUg5ektsUVN2MVdOcXB0dkVOZUVwMlpHOVE0RlRLQkUzaDFYZ1YzeGVOcnUwS3RXNklKOG5XX1JOZTFvZEtSMDlGUUZtLW1ITHhYQUljM2hYTUJWWVFmd3RMSENjZml3UnBzZUJJcmR6ZWFtZklhZW53M1lHRm5DYXZmNkFhbDl0am16TmFveG90LXdLV0t3RXVOb2p5MmREa2FTY3dwSkFB0gHcAUFVX3lxTE56WXVfSkhnYzBGLUtVS1ViWlNFdFVzREVtcTRjWERLdHhsNFVOX0xRNjVVUEJYdTdSeDRuTzFxRk1hckVIQ1BOVk8wMDdSR0pUZTFYanJQSk9jZ1BZOUpfaVFNeXNlQ3lyOHc3NG1YcUhCeC1HMzZfZ2NheTVLall6d3hya09DTlNXNDJTWmxYSTdYZDBfejhVN29mcTZqeFlvcVBzZkRXTDFNS3RELTZBN2NVLTQzZWFNcHRHUG5OMmhZY29xRjB4ZklMZ29CQzJxSnlJdmFtNGhadGk?oc=5
 
-- 80% of Delhi's pollution Monday due to crackers - The Times of India
-  80% of Delhi's pollution Monday due to
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOV29od0llc3FaN1FOc2F1YUx4OUhrcjBTOFhzMmRHZnE4ZkxlSWhiUFpKVUhTaUk2ZVdBWFFjU1FCN2VtdFZlWjR6MXlTbEJoaGdiRExRSmxMQTdXQjlfbk9wWTdWeWZuTE1iZ2ZmYkk5UHVnUVVXQnJ0ekRUeFhTMFNPV3NUNDRUay01bzFzVm1KS1BxQkZSSnZ3ZVhxVlhNMXVMRnJfQlIycHJzRkFMRThYONIBuAFBVV95cUxQTHJhZzd1LThDWFFHX0ljeUJqaG9NWHlQazdrdlI3ZXhPejZsWVhXLUZXMFZNak01SWU2UzFzdzdWaS1rbFJTbUNHLVhTcTE1MUV1XzZGQVB5NGU4TmFIUW5NTE5IdHpvZndydEN6cFZLMURITkNNd191RVJwdkUwZzJybkFrN2hrUkIzeDNNMkFUNFMxV011UU9tMHJ0MXFlczh2LUwwa25zR2M0dmhPSjVFM0tHUUt5?oc=5
+- Tamil Nadu: India investigates alleged 'AI scam' involving public library books - BBC
+  Tamil Nadu: India investigates alleged 'AI
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Zd0YwbTRwWDdnQ2pwUjFuUEdTN1dEbVBrRGFLQ2dYdWlKUkM4NldkUWRTQTdaNDY5NUpGLUhhcFY1Q1FvTDhKOWprNVVNc2FHaDRtUW80X0xWcVU?oc=5
 
-- 'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics - BBC
-  'They will kill you too': Sonia Gandhi's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5
+- Terrorists open fire at CRPF party in J&K's Kulgam, 3 injured - The Times of India
+  'Terrorists open fire at CRPF party in J&
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNnZCbm1NbmlkelpUcFRwMUVJMjJtQ29KZ0pRMktkbGI4UHZOSWlibTRhMnZYRHVidjVOWGJRa1V6MVdFRFVDUjU5M0hneGthamZyUzFqRG1mZkZMenR6TzQ1aF9lWndZeDloVnI3U05COGFiRkR5UWdxamNCcXpFT3liUWVnWEZnX0VNM3JRY25qTFo5RFBSbXc0d3YwcVNlNHQ4dERxWVdNR2Uzb3Fmdl8wbG85UlJrT2N2dTlhaEZvdUtzanpndTZWZWVQNS1pLXBxSGN5a9IB3AFBVV95cUxOWWY1U1ZfLXZNZFZuREplTnlLM1JGRUtKWDh6NHRQSjNMYjNvQnl6S2EzeGRNcEh5cXJFQUZWV192NEhJZ05DcW9LZ1FhaDVYSTFEQTJCMldVRHZoN0pQcFQ3YXRic1RoWG04M1p1YUtoZXZDaHYzcjdHRElqek5OQ2hqMGtLSHVDU2txQ2tfOUJVQ1RtN184NUVkUzhMejloblZWWEYxREx1dlB6cm1iX3R1MU9QYTF4VjVLRkl6ZWEzdDFNVVBQNFh6UVQwOVE4WGIySnlMOHN0SDIw?oc=5
 
-- India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief - The Indian Express
-  India rejects Khalistani terrorist Pannun’
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmxjTHVHVVRwXzFaYUdXNnNLdFludWh0eTJneTJZVFpqSXo0dW9iQzRXWGktcXBKUnZ3dm9qZ2JWdjFaOXdvdlhGRlpMc2tiZTNMUVp6eWxQdjM0SENsWnBUTUJMSDg5ZEItMzl4N3J6VGItY3hxRkJ1YWc5LWRYZ1JfVER2WUxMTFREeG51SVdwX3FPMFB0cnkzMVdtaEtCM1RUWmplU1RUVzZrUnBaQXNmam9RZE4tWkFtV3lqdzRKRTRhRnYyQzQ1U0ZrZ9IB1AFBVV95cUxOZS1FWmRIdVNUUTBfZ1QxcWc2M3ZlTkhaUWQ0VnhjTURIZ3NNQXdEdmNzSHFFMEJrXzdWR0NpMXJWblRpTldiOGNsMUtVXzV1V3EwSUx1a1hsRjVaRnlpVlJVdl95S3NNQTRHVjhPd2taOXoxMUljQzUzSjI3a3puQ0hieFo5VGZ2U2VUUzd4b1FXRmFBWWRpcTlQeldXcFJ2cnpMNmNGU1U5NFYwbnJzNXpkejZQOXAteUpHc0NEWjNSTi1OU3BILTNSMjIwRkdsOFZ4Uw?oc=5
+- [Update] Greenjoules Closes Series B Round At ₹150 Cr
+  Inc42 exclusively reported on Greenjoules’s fundraise. The cleantech startup announced the closure on November 11.
+  🔗 https://inc42.com/buzz/exclusive-greenjoules-raises-%e2%82%b962-cr-funding-from-amazon-singularity-to-scale-green-energy-operations/
 
-- ShareChat’s FY26 Snapshot, MakeMyTrip’s IPO & More
-  Inside ShareChat’s Mixed FY26 ShareChat parent Mohalla Tech delivered some hits and some misses in FY26. While the homegrown social&#8230;
-  🔗 https://inc42.com/buzz/sharechats-fy26-snapshot-makemytrips-ipo-more/
+- Rentomojo Q2 Revenue Jumps 53% YoY To ₹142 Cr, Net Profit Slumps 63%
+  Furniture rental company Rentomojo reported a 62.6% year-on-year (YoY) decline in its profit after tax to ₹18.2 Cr.
+  🔗 https://inc42.com/buzz/rentomojo-q2-fy27-revenue-jumps-53-yoy-to-%e2%82%b9142-cr-net-profit-slumps-63-to-%e2%82%b918-2-cr/
 
-- GoKwik’s Golden Handcuffs: Non-Compete Clause Puts Vested ESOPs In Jeopardy
-  GoKwik’s Golden Handcuffs: Non-Compete Clause Puts Vested ESOPs In Jeopardy.
-  🔗 https://inc42.com/features/gokwiks-golden-handcuffs-non-compete-clause-puts-vested-esops-in-jeopardy/
+- IPO-Bound Cult.fit Faces Fresh Legal Challenge Over CULT Trademark
+  Madras High Court (HC) has issued a notice ahead of Cult.fit&#8217;s proposed public listing.
+  🔗 https://inc42.com/buzz/ipo-bound-cult-fit-faces-fresh-legal-challenge-over-cult-trademark/
 
-- SoftBank Q2: Lenskart & Meesho Drive Valuation Gains, Ola Electric Books Losses
-  Japanese tech investor SoftBank’s Vision Fund 2 (SVF2) booked a valuation loss of $42 Mn on its investment in listed&#8230; Lenskart
-  🔗 https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/
+- Fintech SaaS Company Veefin Migrates To NSE, BSE Mainboard
+  BSE SME listed Veefin Solutions has migrated to the main board of the National Stock Exchange (NSE) and the BSE
+  🔗 https://inc42.com/buzz/fintech-saas-company-veefin-migrates-to-nse-bse-mainboard/
 
-- NVIDIA Scandal & AI Selloff In the US: India’s Neocloud Boom Faces Twin Tests
-  The alleged espionage scandal involving NVIDIA CEO Jensen Huang and the growing scrutiny of the chipmaker’s business dealings with China.
-  🔗 https://inc42.com/features/nvidia-scandal-ai-selloff-in-the-us-indias-neocloud-boom-faces-twin-tests/
-
-- Three Workers Die After Inhaling Toxic Gases At Tata’s TN iPhone Factory
-  Three contract workers died after allegedly inhaling toxic gases during maintenance work at Tata Electronics’ iPhone manufacturing unit in Tamil Nadu.
-  🔗 https://inc42.com/buzz/three-workers-die-after-inhaling-toxic-gases-at-tatas-tn-iphone-factory/
+- ED Attaches ₹14 Cr Assets In HashPe Crypto Ponzi Fraud Case
+  The Enforcement Directorate (ED), Chennai, has provisionally attached movable and immovable assets worth approximately ₹14.2 Cr in connection with an&#8230;.
+  🔗 https://inc42.com/buzz/ed-attaches-%e2%82%b914-cr-assets-in-hashpe-crypto-ponzi-fraud-case/
 
 - Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
   Harsh Goenka is the co-host of
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
 
+- Indian Navy coordinates fifth edition of Sea Vigil exercise to assess maritime security preparedness - News On AIR
+  Indian Navy coordinates fifth edition of Sea Vigil exercise to assess maritime security prepared
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3lJVU5UTkRiYk94SURFUDFlT0x1Yk1hRkItbjZhQ0VyV3laRnlndWxDeU0wOFVUb1lrUkp3cjhib0hWVWg1U0RkSlI5WGc2ZlRVYkZNNk1oRGg1RzdSUXVvQmlYWkpmNnZfRUgxNERQRjd3bVk0SDlkUHpKcTBXcHhZRkRpekNUMjgwVURrQ1pGTlRrSXlxOV8xX2NyUjVleVhRLTVsb3V3bmQyVi1WTFBYQXBJY2pGS0VvT2hJcDNlaW93?oc=5
+
 - After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed - The Hindu
   Bangladesh rules out passport for Hasina, India
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGg1QUFtZlNIZ2NjN0dEREpOSDJMMkw0clZpRHl5TDN6c0R1VEtZeWxldElReUg5ektsUVN2MVdOcXB0dkVOZUVwMlpHOVE0RlRLQkUzaDFYZ1YzeGVOcnUwS3RXNklKOG5XX1JOZTFvZEtSMDlGUUZtLW1ITHhYQUljM2hYTUJWWVFmd3RMSENjZml3UnBzZUJJcmR6ZWFtZklhZW53M1lHRm5DYXZmNkFhbDl0am16TmFveG90LXdLV0t3RXVOb2p5MmREa2FTY3dwSkFB0gHcAUFVX3lxTE56WXVfSkhnYzBGLUtVS1ViWlNFdFVzREVtcTRjWERLdHhsNFVOX0xRNjVVUEJYdTdSeDRuTzFxRk1hckVIQ1BOVk8wMDdSR0pUZTFYanJQSk9jZ1BZOUpfaVFNeXNlQ3lyOHc3NG1YcUhCeC1HMzZfZ2NheTVLall6d3hya09DTlNXNDJTWmxYSTdYZDBfejhVN29mcTZqeFlvcVBzZkRXTDFNS3RELTZBN2NVLTQzZWFNcHRHUG5OMmhZY29xRjB4ZklMZ29CQzJxSnlJdmFtNGhadGk?oc=5
 
-- 80% of Delhi's pollution Monday due to crackers - The Times of India
-  80% of Delhi's pollution Monday due to
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOV29od0llc3FaN1FOc2F1YUx4OUhrcjBTOFhzMmRHZnE4ZkxlSWhiUFpKVUhTaUk2ZVdBWFFjU1FCN2VtdFZlWjR6MXlTbEJoaGdiRExRSmxMQTdXQjlfbk9wWTdWeWZuTE1iZ2ZmYkk5UHVnUVVXQnJ0ekRUeFhTMFNPV3NUNDRUay01bzFzVm1KS1BxQkZSSnZ3ZVhxVlhNMXVMRnJfQlIycHJzRkFMRThYONIBuAFBVV95cUxQTHJhZzd1LThDWFFHX0ljeUJqaG9NWHlQazdrdlI3ZXhPejZsWVhXLUZXMFZNak01SWU2UzFzdzdWaS1rbFJTbUNHLVhTcTE1MUV1XzZGQVB5NGU4TmFIUW5NTE5IdHpvZndydEN6cFZLMURITkNNd191RVJwdkUwZzJybkFrN2hrUkIzeDNNMkFUNFMxV011UU9tMHJ0MXFlczh2LUwwa25zR2M0dmhPSjVFM0tHUUt5?oc=5
+- Tamil Nadu: India investigates alleged 'AI scam' involving public library books - BBC
+  Tamil Nadu: India investigates alleged 'AI
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Zd0YwbTRwWDdnQ2pwUjFuUEdTN1dEbVBrRGFLQ2dYdWlKUkM4NldkUWRTQTdaNDY5NUpGLUhhcFY1Q1FvTDhKOWprNVVNc2FHaDRtUW80X0xWcVU?oc=5
 
-- 'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics - BBC
-  'They will kill you too': Sonia Gandhi's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5
-
-- India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief - The Indian Express
-  India rejects Khalistani terrorist Pannun’
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmxjTHVHVVRwXzFaYUdXNnNLdFludWh0eTJneTJZVFpqSXo0dW9iQzRXWGktcXBKUnZ3dm9qZ2JWdjFaOXdvdlhGRlpMc2tiZTNMUVp6eWxQdjM0SENsWnBUTUJMSDg5ZEItMzl4N3J6VGItY3hxRkJ1YWc5LWRYZ1JfVER2WUxMTFREeG51SVdwX3FPMFB0cnkzMVdtaEtCM1RUWmplU1RUVzZrUnBaQXNmam9RZE4tWkFtV3lqdzRKRTRhRnYyQzQ1U0ZrZ9IB1AFBVV95cUxOZS1FWmRIdVNUUTBfZ1QxcWc2M3ZlTkhaUWQ0VnhjTURIZ3NNQXdEdmNzSHFFMEJrXzdWR0NpMXJWblRpTldiOGNsMUtVXzV1V3EwSUx1a1hsRjVaRnlpVlJVdl95S3NNQTRHVjhPd2taOXoxMUljQzUzSjI3a3puQ0hieFo5VGZ2U2VUUzd4b1FXRmFBWWRpcTlQeldXcFJ2cnpMNmNGU1U5NFYwbnJzNXpkejZQOXAteUpHc0NEWjNSTi1OU3BILTNSMjIwRkdsOFZ4Uw?oc=5
+- Terrorists open fire at CRPF party in J&K's Kulgam, 3 injured - The Times of India
+  'Terrorists open fire at CRPF party in J&
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNnZCbm1NbmlkelpUcFRwMUVJMjJtQ29KZ0pRMktkbGI4UHZOSWlibTRhMnZYRHVidjVOWGJRa1V6MVdFRFVDUjU5M0hneGthamZyUzFqRG1mZkZMenR6TzQ1aF9lWndZeDloVnI3U05COGFiRkR5UWdxamNCcXpFT3liUWVnWEZnX0VNM3JRY25qTFo5RFBSbXc0d3YwcVNlNHQ4dERxWVdNR2Uzb3Fmdl8wbG85UlJrT2N2dTlhaEZvdUtzanpndTZWZWVQNS1pLXBxSGN5a9IB3AFBVV95cUxOWWY1U1ZfLXZNZFZuREplTnlLM1JGRUtKWDh6NHRQSjNMYjNvQnl6S2EzeGRNcEh5cXJFQUZWV192NEhJZ05DcW9LZ1FhaDVYSTFEQTJCMldVRHZoN0pQcFQ3YXRic1RoWG04M1p1YUtoZXZDaHYzcjdHRElqek5OQ2hqMGtLSHVDU2txQ2tfOUJVQ1RtN184NUVkUzhMejloblZWWEYxREx1dlB6cm1iX3R1MU9QYTF4VjVLRkl6ZWEzdDFNVVBQNFh6UVQwOVE4WGIySnlMOHN0SDIw?oc=5
 
 - Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
   Harsh Goenka is the co-host of
   🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
 
+- Indian Navy coordinates fifth edition of Sea Vigil exercise to assess maritime security preparedness - News On AIR
+  Indian Navy coordinates fifth edition of Sea Vigil exercise to assess maritime security prepared
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3lJVU5UTkRiYk94SURFUDFlT0x1Yk1hRkItbjZhQ0VyV3laRnlndWxDeU0wOFVUb1lrUkp3cjhib0hWVWg1U0RkSlI5WGc2ZlRVYkZNNk1oRGg1RzdSUXVvQmlYWkpmNnZfRUgxNERQRjd3bVk0SDlkUHpKcTBXcHhZRkRpekNUMjgwVURrQ1pGTlRrSXlxOV8xX2NyUjVleVhRLTVsb3V3bmQyVi1WTFBYQXBJY2pGS0VvT2hJcDNlaW93?oc=5
+
 - After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed - The Hindu
   Bangladesh rules out passport for Hasina, India
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGg1QUFtZlNIZ2NjN0dEREpOSDJMMkw0clZpRHl5TDN6c0R1VEtZeWxldElReUg5ektsUVN2MVdOcXB0dkVOZUVwMlpHOVE0RlRLQkUzaDFYZ1YzeGVOcnUwS3RXNklKOG5XX1JOZTFvZEtSMDlGUUZtLW1ITHhYQUljM2hYTUJWWVFmd3RMSENjZml3UnBzZUJJcmR6ZWFtZklhZW53M1lHRm5DYXZmNkFhbDl0am16TmFveG90LXdLV0t3RXVOb2p5MmREa2FTY3dwSkFB0gHcAUFVX3lxTE56WXVfSkhnYzBGLUtVS1ViWlNFdFVzREVtcTRjWERLdHhsNFVOX0xRNjVVUEJYdTdSeDRuTzFxRk1hckVIQ1BOVk8wMDdSR0pUZTFYanJQSk9jZ1BZOUpfaVFNeXNlQ3lyOHc3NG1YcUhCeC1HMzZfZ2NheTVLall6d3hya09DTlNXNDJTWmxYSTdYZDBfejhVN29mcTZqeFlvcVBzZkRXTDFNS3RELTZBN2NVLTQzZWFNcHRHUG5OMmhZY29xRjB4ZklMZ29CQzJxSnlJdmFtNGhadGk?oc=5
 
-- 80% of Delhi's pollution Monday due to crackers - The Times of India
-  80% of Delhi's pollution Monday due to
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOV29od0llc3FaN1FOc2F1YUx4OUhrcjBTOFhzMmRHZnE4ZkxlSWhiUFpKVUhTaUk2ZVdBWFFjU1FCN2VtdFZlWjR6MXlTbEJoaGdiRExRSmxMQTdXQjlfbk9wWTdWeWZuTE1iZ2ZmYkk5UHVnUVVXQnJ0ekRUeFhTMFNPV3NUNDRUay01bzFzVm1KS1BxQkZSSnZ3ZVhxVlhNMXVMRnJfQlIycHJzRkFMRThYONIBuAFBVV95cUxQTHJhZzd1LThDWFFHX0ljeUJqaG9NWHlQazdrdlI3ZXhPejZsWVhXLUZXMFZNak01SWU2UzFzdzdWaS1rbFJTbUNHLVhTcTE1MUV1XzZGQVB5NGU4TmFIUW5NTE5IdHpvZndydEN6cFZLMURITkNNd191RVJwdkUwZzJybkFrN2hrUkIzeDNNMkFUNFMxV011UU9tMHJ0MXFlczh2LUwwa25zR2M0dmhPSjVFM0tHUUt5?oc=5
+- Tamil Nadu: India investigates alleged 'AI scam' involving public library books - BBC
+  Tamil Nadu: India investigates alleged 'AI
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Zd0YwbTRwWDdnQ2pwUjFuUEdTN1dEbVBrRGFLQ2dYdWlKUkM4NldkUWRTQTdaNDY5NUpGLUhhcFY1Q1FvTDhKOWprNVVNc2FHaDRtUW80X0xWcVU?oc=5
 
-- 'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics - BBC
-  'They will kill you too': Sonia Gandhi's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5
-
-- India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief - The Indian Express
-  India rejects Khalistani terrorist Pannun’
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVmxjTHVHVVRwXzFaYUdXNnNLdFludWh0eTJneTJZVFpqSXo0dW9iQzRXWGktcXBKUnZ3dm9qZ2JWdjFaOXdvdlhGRlpMc2tiZTNMUVp6eWxQdjM0SENsWnBUTUJMSDg5ZEItMzl4N3J6VGItY3hxRkJ1YWc5LWRYZ1JfVER2WUxMTFREeG51SVdwX3FPMFB0cnkzMVdtaEtCM1RUWmplU1RUVzZrUnBaQXNmam9RZE4tWkFtV3lqdzRKRTRhRnYyQzQ1U0ZrZ9IB1AFBVV95cUxOZS1FWmRIdVNUUTBfZ1QxcWc2M3ZlTkhaUWQ0VnhjTURIZ3NNQXdEdmNzSHFFMEJrXzdWR0NpMXJWblRpTldiOGNsMUtVXzV1V3EwSUx1a1hsRjVaRnlpVlJVdl95S3NNQTRHVjhPd2taOXoxMUljQzUzSjI3a3puQ0hieFo5VGZ2U2VUUzd4b1FXRmFBWWRpcTlQeldXcFJ2cnpMNmNGU1U5NFYwbnJzNXpkejZQOXAteUpHc0NEWjNSTi1OU3BILTNSMjIwRkdsOFZ4Uw?oc=5
+- Terrorists open fire at CRPF party in J&K's Kulgam, 3 injured - The Times of India
+  'Terrorists open fire at CRPF party in J&
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNnZCbm1NbmlkelpUcFRwMUVJMjJtQ29KZ0pRMktkbGI4UHZOSWlibTRhMnZYRHVidjVOWGJRa1V6MVdFRFVDUjU5M0hneGthamZyUzFqRG1mZkZMenR6TzQ1aF9lWndZeDloVnI3U05COGFiRkR5UWdxamNCcXpFT3liUWVnWEZnX0VNM3JRY25qTFo5RFBSbXc0d3YwcVNlNHQ4dERxWVdNR2Uzb3Fmdl8wbG85UlJrT2N2dTlhaEZvdUtzanpndTZWZWVQNS1pLXBxSGN5a9IB3AFBVV95cUxOWWY1U1ZfLXZNZFZuREplTnlLM1JGRUtKWDh6NHRQSjNMYjNvQnl6S2EzeGRNcEh5cXJFQUZWV192NEhJZ05DcW9LZ1FhaDVYSTFEQTJCMldVRHZoN0pQcFQ3YXRic1RoWG04M1p1YUtoZXZDaHYzcjdHRElqek5OQ2hqMGtLSHVDU2txQ2tfOUJVQ1RtN184NUVkUzhMejloblZWWEYxREx1dlB6cm1iX3R1MU9QYTF4VjVLRkl6ZWEzdDFNVVBQNFh6UVQwOVE4WGIySnlMOHN0SDIw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-11 04:17:02 UTC_
+_Last updated: 2026-11-11 13:29:25 UTC_
