@@ -1,164 +1,88 @@
 # 📰 Daily News Summaries
 
-- Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
-  Harsh Goenka is the co-host of
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
+- India simplifies visa norms; categories cut, forms to be 70% leaner - The Hindu
+  India simplifies visa norms; categories cut, forms
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY01RWnFqQ1pmaGRqYzNSSnZETGQ2STRFdXVVZ05DSFBPX1JSWkFhR2FzS1ZFTWNtUmFnVnYwVlUwWHltbTZ2czUzWThwdmNvNlZwOWpxMzNiMUttUXlVSzFuUm1Ic2N6bkVEdlgzR2JiVFY4R0xKQlRNMDF0YXpxZ1owbnZJUjROb1c0ZGppengyZXRSR2g2NmN6QlhBM2QzTzZ4TTVPYWdQUV9KTW45bkcwVjVTTXZGczZjYURlLWtFZ9IByAFBVV95cUxPXzAzZ3FmLUFxTHRiNGl3Wkdwb0pWUmJOWE5ROG1kQWo2VUlZNlpLM1hGRU5HU25HX0RpajlLMm5fRC1rYzFzTzJhb2oxUVRlS0J1a0xWU0dTNF9FbFYtbVo4ZlVUa01WLXozc2FPVjdjNmVnRXRhamFIUEt6QU44TUZIajBpMDJJSE9qdkpOaHFrTFpfaklaamotS3dOeU1xdzlVSjhYeHlsdVNWdmh5V1RqR3l6VThHYjl2RFJtdDdyRExDR2x6bg?oc=5
 
-- PM Modi congratulates Anuj Shrivatri on becoming India’s 100th Grandmaster - News On AIR
-  PM Modi congratulates Anuj Shrivatri on
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTc2bUlLUFg1UEZqSGxJWnY1bGNFR2daRUFfemhrYWxCc2NEZnBVdl9uT1BkaGN6dDBQY2JxX29hLTNNTjJIQ1MwcWR1TTZLZEZ1dXpPMlJtTjZtWWNObHJqOUdLYVpydTRRak1ZSDVRS3NqaTZiUk5nSzRnUTk5S0JIbmZHRGZfckt1NzVCd2RhQm13NWR5YVBzdkh1Q3BF?oc=5
+- India Simplifies Visa Rules For Tourism, Business, Medical Treatment: Categories Cut To 9, Forms 70% Shorter - NDTV
+  India Simplifies Visa Rules For Tourism, Business, Medical Treatment. Categories
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNRmt2WEpWZDJUOXNwbzl0N1Vwd0JCNEpOZWJveVJNMlloNkwwQTRhOTE1ald3ZGlmdmRlVXQ5ZE41Y3ZJaDJIU3k3TXE0ZzBSaVRvcVJDcS1VckVyMDU4ZVVTaVI0R1gwSG5TS1UtUE5WWlQyNG9qSmZiNGY1QVd3cS0yZ1pHZ2cxWE5yZkxNUEE5TW9waXRUcjlzTlFodkpVbURqcXNrOUJURWV3ZkZxQlo4TVQtMW1VWC1wYmJncm5lem1MTXpKSXdqSdIB0wFBVV95cUxNM2pYa1pKNzFUcE15YUU4U1lMNzhUZG9uM2c3S3lfbWFrWEVBQWc3WWhPY3BJRDlFTFRsQVR6bGhrZGc5VzdOMWlrSlYyazRsbjNhcGNhVi1vWE51em1iMWdKZWVhRkRXVGVMTWZTXzdsb1FHRnF3ZDNOR0hYcHF2QkhpdU5peWVBeGxzeUNPdDB2MkJKOTZyeU9lWmRPN3pUbTJaekdjemQ5X1REWExnanRuRHNoY1g1dlk4TGh3UWs5MnBsc2ZBWVYxUUt3U2lKVHJF?oc=5
 
-- After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed - The Hindu
-  Bangladesh rules out passport for Hasina, India
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGg1QUFtZlNIZ2NjN0dEREpOSDJMMkw0clZpRHl5TDN6c0R1VEtZeWxldElReUg5ektsUVN2MVdOcXB0dkVOZUVwMlpHOVE0RlRLQkUzaDFYZ1YzeGVOcnUwS3RXNklKOG5XX1JOZTFvZEtSMDlGUUZtLW1ITHhYQUljM2hYTUJWWVFmd3RMSENjZml3UnBzZUJJcmR6ZWFtZklhZW53M1lHRm5DYXZmNkFhbDl0am16TmFveG90LXdLV0t3RXVOb2p5MmREa2FTY3dwSkFB0gHcAUFVX3lxTE56WXVfSkhnYzBGLUtVS1ViWlNFdFVzREVtcTRjWERLdHhsNFVOX0xRNjVVUEJYdTdSeDRuTzFxRk1hckVIQ1BOVk8wMDdSR0pUZTFYanJQSk9jZ1BZOUpfaVFNeXNlQ3lyOHc3NG1YcUhCeC1HMzZfZ2NheTVLall6d3hya09DTlNXNDJTWmxYSTdYZDBfejhVN29mcTZqeFlvcVBzZkRXTDFNS3RELTZBN2NVLTQzZWFNcHRHUG5OMmhZY29xRjB4ZklMZ29CQzJxSnlJdmFtNGhadGk?oc=5
+- India cuts visa categories to 9, reduces visa application fields by up to 70% - BusinessLine
+  India cuts visa categories to 9, reduces visa application fields by
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFFpUTZzbDctYVFxa1hxZnVrR21sUC1CNkltSXNDVXlzZHpLUlBPYUhXd0lVVWM5T08tMjJmZUk2OXd6MlNFelZDQXB3S0pfSE94UEx1QzVfMmZoQk9LSmhPREZzei1LVGdueEFtWXVyZENlWE14cDBfZWdWbGk0SXFZc2tIb0UxY0VIYTVtaHE5aHhYUVNMOUlSSHRGV0UyNmR6TTZqT3B3Rnhsd3lkQ1NTb21abHVkZXVMR2VwQnNtbTQ1a0QzMDFPdWR4UzVhQVBWR1BaWXNKNkxaX2fSAeQBQVVfeXFMTXFlLUNDRk1WVGxWendGZVZnRzk0Q0JQRWhELUVSaTBCQW4tZlIzWjhBZ0UyUTFFeXd2QV9xUmtfaDBIZlNJLS1VQjZZQkFiQ2wzbks4QU1iQTRrUF9LZ2cxbkZ2UG45TnVfeVktaUNqZXMtQjB6OHB5eENhLVlGRW5CeUVwN2lNQnAtZlZGRDJqbHJtNkJodFFoVE1scUJnWEsxQ0tTOWM3WmYxaFBnR3BwcjRlUFJYVW5ZS2QtWlBObW1UNzVrVTRDc001M3pkd3lXY0ZpNXNrWTVTM1Rra0ZSOUx4?oc=5
 
-- 'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics - BBC
-  'They will kill you too': Sonia Gandhi's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5
+- This City Becomes India's Cleanest, Beats Indore's 8-Year Record - NDTV
+  This City Becomes India's Clean
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeU5PMXROQ1FibTY2Y0h1MEIyYjhmMWY1YXVxYTI4aFpVajF0OHpvbm9ZOTJkM0lvcTNSS2k2eS1hakhySng2dXlQVlRQRWs5Z2p0dy10M3VIcU5ncGktTHVLcjVzOXctbjVrZEl3UVBYenhsMEdTaG1QeU1zWDJyM2FIS1RqNG5aTW1aSFVQaGRiLUkyblhjYW1jOE5Ia19ZZ0lIUFZEbGFrRXpyVTJqazIwV3RIbEEy0gHAAUFVX3lxTFA4aW1pOXpxblB0ZlhMdmdtZk9lXy1ybXdGVTdtb3BZSll0Vk1SYzh6RmNiRFVBQTgtTXBqRXdselpwcFRZakxiVk5qWU5ZcHByMkNvN3NsRUVMTGxJR3FnOVA3Q29MVF9wZ2wwelJ4cE1WVU5fMUFqaG14WGZnU1hMYzdxM1RQdVJXdmVQTkVYbTd3SHJyVk1WNHp4OGZZOF9mZ1ZGemNWckIyZTlaMFhLU3VLU1EwemJVUS1QbzhxNg?oc=5
 
-- How are Pakistan’s imports from India growing again despite tensions? - Al Jazeera
-  How are Pakistan’s imports from India
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOaS1pY1F6YUNNLTF1QnlRRi1xLUxiN1V0c2JsTGVubEZSUF90ZUQyM0RDUFl1VUZjaTd2cUpILTFqb1o2eDl6YTVSRGJTaWlzZFJSQkVrMjFPOEh1bkUyWC1kRjUwdlJMaGx5T1FsdnZUd3lWSnpKTkFDYkxJNlY5T1NmeldSQTJwWTZ1bkpsNTlUNFJjVUcwdkgzTGUzdUdtel9lZGVKcXpqZmVuY0HSAbMBQVVfeXFMTUcyS21XbDhZRG8ydzFtX29JSjlCNjNpTEVKSnBQb2dCUVlDV0N0d3Q2aUxhaW5jM2ZqdzVzWUw2ZlVCREdYTTZJOXdSMHJHdFo0SVJZWlB5U01PRm1TcEJDcjk1dHRacjJXNGR0ZXk1RDg0R0RKal9tWlVJeTE1N3JhQzJQSURwUWhDMnNBazRTNnYxTHgwSGs3RVJtLWYwWXRiTW1Sbmg0VDZsVmttZzRqWVU?oc=5
+- Complete data could've raised average Diwali pollution level 49% - The Times of India
+  Complete data could've raised average Diwali pollution
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQMThXc19Qb2RyTW9jdHYtelhqZUFnN25DdmFSVzhaTGE0UlA5TG84ZEVDQkR1MFZVaWdENmFBdnNMUkFrczBJYjJ0R2hZQ1ZXblByT3BEWURtVDJvZlVBRUJjaXVmdTJURTg4aFZuSGJlbTU1b1gydnlONWYwYmttTlE4dkxuYnF5aXBaOGh2UmdKUXFwYnp5MXREU2JucHBUcEFKcmhPV3ZnUTdlQUF5a2JpUTV5S3BvQ05iQ1NyM1puMTJDbGVGbk130gHPAUFVX3lxTE1nQkk0Q2JVbzdBbGQ3SVlEVTU3TzZUMWNHdFRnekM2ekpIX2hNdWlPTnRqNmxGdXhGU2Q4VVV6NllpRC1FcXlpd0hFNnRUTWw4RldGbGw4SC1OQTRVUkVjcWRNMHVEQWlLWUNzOVBQRlVraEsweVk1VG1wTU54UVh0VDg3aWlhYzlFVE9WVGVRREpPaDQ2MnhnRjJqTlktLXBRM0xXSDJSU21hdzBYdGQ0LUxVRFNOZkFqZThlUnpGTWpPblh1WXZRZ2ttMVFNNA?oc=5
 
-- Former minister calls for phone tech to block live-streamed child sex abuse - BBC
-  Former minister calls for phone tech to block live-
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ORWFiQ1hzRmx5eE9DeEdfUzdpaXliVDVDM0pyd1Z1azJlaG9Bc1RuRTN5Mjk4V3lfd2h3Q3c5cmxDdjBHb3hSY0hPbXg1Q0kzQnhESDV0dnR1VGM?oc=5
+- Nuvama Wealth share price: Brokerage stock up over 6% today, just 5% away from peak on strong Q2 results | Check target
+  Nuvama Wealth shares rose as much as 6.6% after the company reported a 19.5% year-on-year increase in Q2 FY27 net profit. Motil
+  🔗 https://www.livemint.com/market/stock-market-news/nuvama-wealth-share-price-brokerage-stock-up-over-6-today-just-5-away-from-peak-on-strong-q2-results-check-target-11794460740294.html
 
-- Cochin shipyard, SFO Technologies jointly develop sophisticated laser arc welding technology - The Hindu
-  Cochin shipyard, SFO Technologies jointly
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUnlUQTluUGFFdzA2alp5aUo0OHRYQWZUZVVlWnU1c2VYOUFxNEM0LV9CUU5uR01qX3RCeU5UMnJ3SzQ4aFFQVW5FdDh2RTB1MmNEcUNoNUFRWUh2UmdOTHJ3ME9yYXJqWHV1cUNERnJvcHVZNWxlTTNZTjA5ZWVYRkQyVmk4UC1wcHNIYmdNNUlKTFNrbGdwaHhqZmpQdEo5QzhZcndxcEVMa0NmZUl3ZTJOVjRzWmFLQklIWmFrX05hZWd5ZndWMzZvSUloWjNhU3ZDVmNrdjlia19QR1BLZFprV0pRN3J1RHlERndn0gH0AUFVX3lxTE1ERmt2NDRBeldKc05uajNLNVA3TmpKUl9iYkFvRzd0MnVQcUNvVzdQWExUZmk0SjNpbzFWV1lwZ3JoaHBqYkctN0N4d2JSanM4ZUt5OHdFbjN1QmVrVlVnY3VuRElHdkc4N3REaVl4QnhqYnFIR1Q5c0dsaWdnNEJ6MTRDYzRmODVUWVg3OVk4OTFpMU5ianhhVVBTQ1NNbV9ZM2pjWUtzd1NCSlhXcFRPZG1vRXBtOUlkczYwX0F4dzQ5QkF0X1hadm02VGxtbko2d284QWkyYWh1am01QUlDWDNzMWZ0QzJfdGppUThXMDQ0Umw?oc=5
+- How are ITC shares performing after Gold Flake Regular price hike by  ₹10 per pack? Should you buy stock? Experts views
+  ITC share price today opened higher at  ₹287.40 per share on the NSE and touched an
+  🔗 https://www.livemint.com/market/stock-market-news/how-are-itc-shares-performing-after-gold-flake-regular-price-hike-by-rs-10-per-pack-should-you-buy-stock-experts-views-11794458280381.html
 
-- Odisha signs pact with Japan's Tottori to boost investment, technology ties - Business Standard
-  Odisha signs pact with Japan's Tott
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekJtbFNqbC00Ni1QelRMeFBXXzZJNEM4aFhkM0U4aGc2d1FjT3FBbHBaNWZHX3Q2MkJvR1d2b3E1QmN5ZEswY25GMFRWV09KTmw1NXNLaWt0bDBncXJrZGNzUkJhSzlVSU5yYkZ5WVc4RVljSEVVR0ZNc2gyR29WUkZsYWVlY2h2S0VGU3M4OXR3UzNKYzgtVC1ONUR6bFVFaEJrUzBMZ094Q2RiWV8tYmlwaFZjR3YtdkRlZDI1MWNZcThxTF9qcWlXWXpqcXd3Q1BZWjNUMzbSAd4BQVVfeXFMTWpEZ0E5WHU5azhuUGtFelZXOEhiYno2RHZvMm16aWFEZWY0cDFENEhIZzBxc0hDOWlSd0RmNm9VRnRaeERrajdESE1RWFlzT0FlZ0NjS21qSjZaUlVTN01DMjdXbXd1SWNsM1FrTTBKbnV3YXBlNEM2TGtqNHQ4Q29SOUJ5eUwyVDNUVUNsVDUxeDN6X0laQmZxVzV5SExieVMyakZhVVBlUlVfTU1aX3BSbklKZjhndGVJZ09NQUpMeV9henpzcUNKdExEMHBxLTdpTUEwSEp1MzZXRDhn?oc=5
+- Multibagger stock: Cupid shares jump 10% as profit soars 133% in Q2 results 2026; already up 262% in 2026 — What's next?
+  Cupid shares surged 10% to a 52-week high after strong Q2 FY27 results. First-half net profit rose 156% and revenue climbed 137%.
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-cupid-shares-jump-10-as-profit-soars-133-in-q2-results-2026-already-up-262-in-2026-whats-next-11794457689791.html
 
-- The PLA’s Push for Military Robotics - CSET | Center for Security and Emerging Technology
-  The PLA’s Push for Military Robotics.
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0dZWGFERUoyOWZOSnd3TzZhRVdnbW1UZzVkSENCalVNUEk1UjlQUW0xTGtGTjJnVE1mMThtX1NCeFFVZEpDYWhmT1ZUNXc2eWtJZUNCOGZHR19QY01QeG0xc1V4N0VNM1lfd0ZlQ3d5TFlXdnduUU9NN1RxNVlGQWF3?oc=5
+- Small-cap stock under  ₹100: Roto Pumps shares jump 19% today, soar 28% in 4 days - What's fuelling the rally?
+  Roto Pumps shares rose 14% on November 12 after the company reported strong Q2 FY27 results. Consolidated net profit jumped 245.3% year-on-year to  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-100-roto-pumps-shares-jump-19-today-soar-28-in-4-days-whats-fuelling-the-rally-11794458105178.html
 
-- The 22nd Annual Globee® Awards for Technology Continue More Than Two Decades of Recognition Across All Technologies and Industries Worldwide - PR Newswire
-  The 22nd Annual Globee® Awards for Technology continue More Than Two Decades of Recognition
-  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPcXN2Qk43ZTJaN0N0OXBQXzdOMzlUUkZhYl9iYS00dkx6c2xfcHZKWEUtdlNyWExnanJDNXRaWkhSeXBQRGZka0FMYWJ5ZE8xUUswMFFyM1pieGQ2TWpzSk1UOVJ4WHFYbHdLYUcyQThDZGtQZUtIeHp4T0NVRU5hUEI3OWJSMVRkN2NpUkh0eWUzOEpVWFZfQ2Nab1Q2OGZhOGZmekFIVXFaU1BOc2U4UldzaGNsN011ZFNvcXhiN0lvTWNmc25QWHgxRDNWaWwtbDlYYUZjakE2OEJVOHdqdzl6cU5RMkUxYk4xcWxXQ1BTUlZiZnc3Wi16aHdsOVJuaDdzSnBFWlFUa1VOMXppOEJKNjJWNWRyV3FGYS04Y2I?oc=5
+- 34% rise in a year! Why Hindustan Copper shares are rising 6% today? Check target, stop loss, returns
+  Hindustan Copper share price opened at  ₹474 apiece on NSE today, as compared to previous close
+  🔗 https://www.livemint.com/market/stock-market-news/34-rise-in-a-year-why-hindustan-copper-shares-are-rising-6-today-check-target-stop-loss-returns-11794457283807.html
 
-- Poundland owner Gordon Brothers urged to back extension of creditor protection
-  Poundland owner Gordon Brothers urged
-  🔗 https://www.livemint.com/companies/poundland-owner-gordon-brothers-urged-to-back-extension-of-creditor-protection-11794424239150.html
+- Defeating Authoritarian Digital Blackouts: Countering Internet Shutdowns Through Satellite Technology - Freedom House
+  Freedom House is a non-profit organization based
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEQ5YXF4VUtWRlpQRGpETm9reHNLMmRETmRrTUNVNk52clBfWXljQmR0VXpvZVRGcV8zTnZySDBtOUU0Rk0zNFdISUVyV0dPTEx3S29OZDlUcmtoZzVTUzNER01GSlk4Y2wwSFJfOHZabmdmc2pFV1lXVG9uTlNkR1J5RWt3UTZuRWtMMnNKYVk4RzNpX1k0dVJVRDJ6SFRMdi1GTDMyRXB5Ui1WRHBBMU5mc0VxNkcyUUR1MnplUQ?oc=5
 
-- US-Backed Lithium Americas Hit by Rising Costs on Trump Tariffs
-  Lithium Americas Corp.’s Nevada mine was supposed to be the US solution to curbing dependence on China for a critical mineral for
-  🔗 https://www.livemint.com/companies/usbacked-lithium-americas-hit-by-rising-costs-on-trump-tariffs-11794422211711.html
+- Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times
+  Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5
 
-- Amazon agrees to pay $3M to Arizona customers allegedly trapped in complicated Prime membership cancellation process
-  The settlement follows a lawsuit filed in 2024 by Arizona Attorney General Kris Mayes. Mayes accused the e-commerce giant of
-  🔗 https://www.livemint.com/companies/news/amazon-agrees-to-pay-3m-to-arizona-customers-allegedly-trapped-in-complicated-prime-membership-cancellation-process-11794419764428.html
+- Gemini Decisions API: Fast, calibrated multimodal decisions - blog.google
+  Gemini Decisions
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGVFa0w0cmk4aTZOc0dVWnc5bm5lSzRZOE9aQldlcTZZUGc4MGNNWGlTbDFJYUlibHJoQ2xpOEdrUFpPODBQOGluNUhVQWxvY2ZuWE84TVN3NVJza04xVXlBcW1kVkl1WjZMM2RxREktM2Z3bVVqbTBkUnJuTy0tRl9KSkxuT2pzY0Zib1dKV24?oc=5
 
-- Noida Metro Aqua Line Extension: L&amp;T secures order from NMRC to build 15.1-km elevated viaduct – Inside the contract
-  Larsen &amp;amp; Toubro has won a  ₹1,000–2,500 crore contract from
-  🔗 https://www.livemint.com/companies/news/noida-metro-aqua-line-extension-l-t-secures-order-from-nmrc-to-build-15-1-km-elevated-viaduct-inside-the-contract-11794405082608.html
+- India, France hold dialogues on economic security, space, technology - The Hindu
+  India, France hold dialogues on economic
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9zalpfRjVSTHhRNHZwTUxhMjRQU2FFZkd4MW9QRlhoR3p5WkRMY1JuMUw2RDNoZG1zaU02Y2QxN05jSkZ6SjRUMVVodlF2Z0Q2Q29oUTBWYWtKZlNOeXhYaXdQT2xRc2RTQW8xajJUMkV4dGduVE9JdmF1bnQ0UFVnZzlVdjQtYkdrVXRhalRqcmg0akpLM0NlX0RobnF2ZGllbXZKZm5qeG9zNU45RkwtYlNmck5oRU5kSW9xUDl1UdIByAFBVV95cUxNUXF4V1lGUWxlVTVJaFpreTRhSE81bjdLT0pXTGVaMjZLRlBWT2FaOU5NTXdQRGVBU0RtSFh2eTJiTWo2ZVZhSFptNjkyX3g1bXpFMTlqUTV3YXgxNG81OGJYOEZ2UmJSUW1lT0Y2M1pZcjFnbHV0WjFzd2pFWXNPVVdtUGZWWXJjV3IzV0d0VExkZ1lFZHIyLTZTU0M5TXVYUEFfeEJ3SndXWk9Genl1TWFPc0N3ZDJPc0lhWjM4YlpsUXh0NTV3Tw?oc=5
 
-- Tata Power says Singapore shares pledged with banks, safe from immediate seizure
-  Singapore High Court orders city's sheriff to attach and sell Tata Power's shares. Tata Power owes Kleros Capital $650 million as part of arbitration award over a coal project in Russia.
-  🔗 https://www.livemint.com/companies/news/tata-power-singapore-high-court-renewable-energy-power-kleros-11794404371600.html
+- The Temple of Doom - ET BrandEquity
+  The Temple of
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2ZrY2V0WlNITzVLVExud3lLQWlGVXpwM24xaGJfTll5UU1iTGdKelpudkl2WFFGaVB0OG1nX3p4LThtS2lWQ3N0MnNFdE5TaUpwczQ0SVhxVG9TM2pZSE1TUHVYdWFMN1NreWpheml2Wk1JLUtpV1JIUHd5a2xITm5NblFKbDB0Uy1YdS04VWtQSkZXWFg40gGcAUFVX3lxTE1saG9ReTJoR2VyeWtDMmt3Xy1paTQ5SFZnZGRzTWxRZVJ6ZlJTemhZenFDUWJpaVZrR1MzcC1PU0xtTFlLbG1KaTA1QlJ4VUtmNTJKS25vamkwRkVxdms0cmJvMWpCUElhUlcyV1F1OE9QOS1xR01XWEZYM2cxUFVDWGJJM3hfTFFmSTYyRVYwaFpXSXh6NFZsVmM1ag?oc=5
 
-- Oil Steadies After Slump as Iran War Talks Make Little Progress
-  Oil steadies as hostilities between Iran and the US remain muted. No
-  🔗 https://www.livemint.com/market/oil-steadies-after-slump-as-iran-war-talks-make-little-progress-11794439901889.html
+- Vishal Mega Mart among 5 stocks showing RSI trending up
+  Five Nifty500 stocks that gained over 4.5% on November 11 featured in StockEdge’s RSI Trending Up
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-among-5-stocks-showing-rsi-trending-up/slideshow/135755604.cms
 
-- Index Provider MSCI Removes Strategy From Equity Benchmark
-  MSCI Inc. has dropped Strategy Inc. from its global equity benchmarks. The move could trigger billions of dollars in stock sales.
-  🔗 https://www.livemint.com/market/index-provider-msci-removes-strategy-from-equity-benchmark-11794438343903.html
+- Oil India among 6 stocks closing above VWAP
+  Six Nifty500 stocks closed more than 1.5% above their respective volume-weighted average prices on November
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/oil-india-among-6-stocks-closing-above-vwap/slideshow/135755140.cms
 
-- Dollar climbs as traders raise December Fed hike bets
-  Dollar climbs as traders raise
-  🔗 https://www.livemint.com/market/dollar-climbs-as-traders-raise-december-fed-hike-bets-11794431410639.html
+- Dr Reddys Share Price Live Updates: Dr. Reddys Current Price Update
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-12-nov-2026/liveblog/135754002.cms
 
-- CME cattle futures end mixed after two-day rebound from multi-month lows
-  CME cattle futures end mixed
-  🔗 https://www.livemint.com/market/cme-cattle-futures-end-mixed-after-two-day-rebound-from-multi-month-lows-11794431219386.html
+- ITC Share Price Live Updates: ITC Stock Details
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-share-price-today-live-12-nov-2026/liveblog/135753807.cms
 
-- Canada Pension Aims to Double Hedge Fund Bets to $160 Billion
-  Canada’s largest pension is planning to roughly double the money it invests in hedge funds over the next five to seven years.
-  🔗 https://www.livemint.com/market/canada-pension-aims-to-double-hedge-fund-bets-to-160-billion-11794431032375.html
+- Tata Power shares rise 2% after Q2 results. Why brokerages are bullish despite target price cuts
+  Tata Power achieved a 33% year-on-year increase in net profit for the second quarter of FY27. Brokerages maintained their 'Buy' ratings while adjusting their target prices.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-in-focus-after-q2-results-why-brokerages-are-bullish-despite-target-price-cuts/articleshow/135753647.cms
 
-- India ranked an AI Rising Contender by BCG, built on talent rather than compute
-  India ranked an 'AI Rising Contender'
-  🔗 https://www.livemint.com/technology/india-ranked-an-ai-rising-contender-by-bcg-built-on-talent-rather-than-compute-11794397321852.html
-
-- Analysis-Binance hack reveals cryptos uphill battle against hackers
-  Binance hack
-  🔗 https://www.livemint.com/technology/analysisbinance-hack-reveals-cryptos-uphill-battle-against-hackers-11794395108918.html
-
-- Kazakhstan-linked hackers used AI to steal Tajik government documents, researchers say
-  Kazakhstan-linked hackers
-  🔗 https://www.livemint.com/technology/kazakhstanlinked-hackers-used-ai-to-steal-tajik-government-documents-researchers-say-11794394933122.html
-
-- Google November Pixel Drop brings Gemini AI to Pixel 10, custom widgets and Hindi message summaries
-  Google has rolled out its November 2026 Pixel Drop, bringing Gemini Intelligence, improved Gboard voice typing, AI
-  🔗 https://www.livemint.com/technology/tech-news/google-november-pixel-drop-brings-gemini-ai-to-pixel-10-custom-widgets-and-hindi-message-summaries-11794391526969.html
-
-- US-blacklisted Chinese university buys Nvidia H200 AI chips through domestic suppliers: Report
-  A Chinese university with close ties to the People's Liberation Army (PLA) has purchased Nvidia's advanced H200 artificial intelligence (AI) chips despite being on a US trade blacklist.
-  🔗 https://www.livemint.com/technology/usblacklisted-chinese-university-buys-nvidia-h200-ai-chips-through-domestic-suppliers-report-11794382318946.html
-
-- Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade - CNBC
-  Nasdaq gains more than 1% as
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ?oc=5
-
-- Stock Market Today: Nasdaq Jumps at Open After CoreWeave Earnings — Live Updates - WSJ
-  The Nasdaq jumped at open after CoreWeave Earn
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5
-
-- Nasdaq-100 futures slide, dragged lower as Nvidia sell-off resumes: Live updates - CNBC
-  Nasdaq-100 futures slide, dragged
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE00cTdQYjhOUVlzVEZnQndNN1NKNzBJSjIta1lDWVlVXzhDcXkwWWpVRnE3c1VMTVF2bkZ5WnhHU2NSd2ZRZlI4RVRjREJvbG9xWDZJRF9QMG1MNE40ZGdESkpmZXhsOUhCTUcyZGZiOGhfTjdiSUk4?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq rise as
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSjNNaXdrQndXWjJ4bGtQS0xsNGRLeTdndTF4UHJsMzl3RjhSam5tOWtGUmp1bXpKcGxIYkRxWXY1SGJINDA5dDZmZHFaT1VRS1k5WlNPakR2RHJxbk45VVpqeGo2R1lwMld4SmFjalV0QzE4cEF0Vl8zSWg4NVhPQmdyQWx0ZXM0RzNWclhnOUJxb3BHejlzaXljaF9raWkyRExvQ05pbnR5SFVtbUlFU0loWmUyOWlYMHFRNXdJT3V5eExpaEw3YkFfTllIMnpxQ2RMY25pU3lkdw?oc=5
-
-- After US market shake-out, signs suggest too soon to say worst is over - Reuters
-  After US market shake-out, signs suggest too soon
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdDNPMm44clZfWEJ5a0o3NTNEYVl5Y0ZuOHJTbnUyc2dDRjVITnk0akVVQnJiWWFIZnVGek5WTTBWN0JLTEV6YmhNS2tmV0NrWkc3aFNKWDZCdjVyNjRxd3JKSjVZcGtXM29kWEJlMGVvS3JYeTV6aU5tLXk2RUNEUEhpOHkzRlBURUpvbWd2NXllQXllZzVDOHkydnpZU0E2UWNZRDhUYXVIbGFVNzR2cWo3eE5PaTZscnNB?oc=5
-
-- Yes Bank bondholders press for compliance with Supreme Court's AT-1 order
-  The Supreme Court upheld a ruling that set aside the lender's write-off of 84 billion rupees in bonds. Yes Bank had not complied with the restoration order, prompting the trustee's legal action.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-bondholders-press-for-compliance-with-supreme-courts-at-1-order/articleshow/135744450.cms
-
-- Anthropic’s IPO is said to be multiple times oversubscribed
-  Anthropic PBC is witnessing an overwhelming response for its initial public offering. This bullish sentiment reflects a staggering anticipated market valuation of around $1.4 trillion. The IPO is managed by Goldman Sachs Group Inc.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-is-said-to-be-multiple-times-oversubscribed/articleshow/135743507.cms
-
-- Market Trading Guide: Astra Microwave among 3 stock recommendations for Thursday
-  Smallcaps outperformed as risk appetite improved. Analysts highlighted stock-specific opportunities, including Astra Microwave and Neogen.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-astra-microwave-among-3-stock-recommendations-for-thursday/slideshow/135742034.cms
-
-- US stocks: S&amp;P 500, Nasdaq rise as CoreWeave results ease AI spending concerns
-  The S&amp;P 500 and Nasdaq indices showed positive growth as CoreWeave posted impressive financial results. Despite some volatility linked to interest rate fluctuations and inflation, most stocks rose.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-coreweave-lifts-ai-trade/articleshow/135741336.cms
-
-- Baird downgrades Nvidia on China curbs, AI demand worries
-  Baird downgraded Nvidia's stock and cut its price target significantly due to various market risks. Concerns over US restrictions on chip sales to China have emerged. Demand for Nvidia's chips is showing signs of softening.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/baird-downgrades-nvidia-on-china-curbs-ai-demand-worries/articleshow/135740853.cms
-
-- Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
-  Harsh Goenka is the co-host of
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
-
-- PM Modi congratulates Anuj Shrivatri on becoming India’s 100th Grandmaster - News On AIR
-  PM Modi congratulates Anuj Shrivatri on
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTc2bUlLUFg1UEZqSGxJWnY1bGNFR2daRUFfemhrYWxCc2NEZnBVdl9uT1BkaGN6dDBQY2JxX29hLTNNTjJIQ1MwcWR1TTZLZEZ1dXpPMlJtTjZtWWNObHJqOUdLYVpydTRRak1ZSDVRS3NqaTZiUk5nSzRnUTk5S0JIbmZHRGZfckt1NzVCd2RhQm13NWR5YVBzdkh1Q3BF?oc=5
-
-- After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed - The Hindu
-  Bangladesh rules out passport for Hasina, India
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGg1QUFtZlNIZ2NjN0dEREpOSDJMMkw0clZpRHl5TDN6c0R1VEtZeWxldElReUg5ektsUVN2MVdOcXB0dkVOZUVwMlpHOVE0RlRLQkUzaDFYZ1YzeGVOcnUwS3RXNklKOG5XX1JOZTFvZEtSMDlGUUZtLW1ITHhYQUljM2hYTUJWWVFmd3RMSENjZml3UnBzZUJJcmR6ZWFtZklhZW53M1lHRm5DYXZmNkFhbDl0am16TmFveG90LXdLV0t3RXVOb2p5MmREa2FTY3dwSkFB0gHcAUFVX3lxTE56WXVfSkhnYzBGLUtVS1ViWlNFdFVzREVtcTRjWERLdHhsNFVOX0xRNjVVUEJYdTdSeDRuTzFxRk1hckVIQ1BOVk8wMDdSR0pUZTFYanJQSk9jZ1BZOUpfaVFNeXNlQ3lyOHc3NG1YcUhCeC1HMzZfZ2NheTVLall6d3hya09DTlNXNDJTWmxYSTdYZDBfejhVN29mcTZqeFlvcVBzZkRXTDFNS3RELTZBN2NVLTQzZWFNcHRHUG5OMmhZY29xRjB4ZklMZ29CQzJxSnlJdmFtNGhadGk?oc=5
-
-- 'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics - BBC
-  'They will kill you too': Sonia Gandhi's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5
-
-- How are Pakistan’s imports from India growing again despite tensions? - Al Jazeera
-  How are Pakistan’s imports from India
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOaS1pY1F6YUNNLTF1QnlRRi1xLUxiN1V0c2JsTGVubEZSUF90ZUQyM0RDUFl1VUZjaTd2cUpILTFqb1o2eDl6YTVSRGJTaWlzZFJSQkVrMjFPOEh1bkUyWC1kRjUwdlJMaGx5T1FsdnZUd3lWSnpKTkFDYkxJNlY5T1NmeldSQTJwWTZ1bkpsNTlUNFJjVUcwdkgzTGUzdUdtel9lZGVKcXpqZmVuY0HSAbMBQVVfeXFMTUcyS21XbDhZRG8ydzFtX29JSjlCNjNpTEVKSnBQb2dCUVlDV0N0d3Q2aUxhaW5jM2ZqdzVzWUw2ZlVCREdYTTZJOXdSMHJHdFo0SVJZWlB5U01PRm1TcEJDcjk1dHRacjJXNGR0ZXk1RDg0R0RKal9tWlVJeTE1N3JhQzJQSURwUWhDMnNBazRTNnYxTHgwSGs3RVJtLWYwWXRiTW1Sbmg0VDZsVmttZzRqWVU?oc=5
+- GoKwik’s ESOP Twist, New CEO At Unacademy & More
+  GoKwik has added a contentious twist to its ESOP policy. Under the new rules, current and former GoKwik employees will not be able to run for re-election
+  🔗 https://inc42.com/buzz/gokwiks-esop-twist-new-ceo-at-unacademy-more/
 
 - Retail Smartphone Sales Tanked 20% In 2026 Diwali Season: AIMRA
   Retail Smartphone Sales Tanked 20% In 2026 Diwali Season: AIMRA. Weak consumer demand and rising prices weighed heavily on offline smartphone market.
@@ -176,49 +100,25 @@
   Inc42 exclusively reported on Greenjoules’s fundraise. The cleantech startup announced the closure on November 11.
   🔗 https://inc42.com/buzz/exclusive-greenjoules-raises-%e2%82%b962-cr-funding-from-amazon-singularity-to-scale-green-energy-operations/
 
-- Rentomojo Q2 Revenue Jumps 53% YoY To ₹142 Cr, Net Profit Slumps 63%
-  Furniture rental company Rentomojo reported a 62.6% year-on-year (YoY) decline in its profit after tax to ₹18.2 Cr.
-  🔗 https://inc42.com/buzz/rentomojo-q2-fy27-revenue-jumps-53-yoy-to-%e2%82%b9142-cr-net-profit-slumps-63-to-%e2%82%b918-2-cr/
+- India simplifies visa norms; categories cut, forms to be 70% leaner - The Hindu
+  India simplifies visa norms; categories cut, forms
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY01RWnFqQ1pmaGRqYzNSSnZETGQ2STRFdXVVZ05DSFBPX1JSWkFhR2FzS1ZFTWNtUmFnVnYwVlUwWHltbTZ2czUzWThwdmNvNlZwOWpxMzNiMUttUXlVSzFuUm1Ic2N6bkVEdlgzR2JiVFY4R0xKQlRNMDF0YXpxZ1owbnZJUjROb1c0ZGppengyZXRSR2g2NmN6QlhBM2QzTzZ4TTVPYWdQUV9KTW45bkcwVjVTTXZGczZjYURlLWtFZ9IByAFBVV95cUxPXzAzZ3FmLUFxTHRiNGl3Wkdwb0pWUmJOWE5ROG1kQWo2VUlZNlpLM1hGRU5HU25HX0RpajlLMm5fRC1rYzFzTzJhb2oxUVRlS0J1a0xWU0dTNF9FbFYtbVo4ZlVUa01WLXozc2FPVjdjNmVnRXRhamFIUEt6QU44TUZIajBpMDJJSE9qdkpOaHFrTFpfaklaamotS3dOeU1xdzlVSjhYeHlsdVNWdmh5V1RqR3l6VThHYjl2RFJtdDdyRExDR2x6bg?oc=5
 
-- Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
-  Harsh Goenka is the co-host of
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
+- India Simplifies Visa Rules For Tourism, Business, Medical Treatment: Categories Cut To 9, Forms 70% Shorter - NDTV
+  India Simplifies Visa Rules For Tourism, Business, Medical Treatment. Categories
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNRmt2WEpWZDJUOXNwbzl0N1Vwd0JCNEpOZWJveVJNMlloNkwwQTRhOTE1ald3ZGlmdmRlVXQ5ZE41Y3ZJaDJIU3k3TXE0ZzBSaVRvcVJDcS1VckVyMDU4ZVVTaVI0R1gwSG5TS1UtUE5WWlQyNG9qSmZiNGY1QVd3cS0yZ1pHZ2cxWE5yZkxNUEE5TW9waXRUcjlzTlFodkpVbURqcXNrOUJURWV3ZkZxQlo4TVQtMW1VWC1wYmJncm5lem1MTXpKSXdqSdIB0wFBVV95cUxNM2pYa1pKNzFUcE15YUU4U1lMNzhUZG9uM2c3S3lfbWFrWEVBQWc3WWhPY3BJRDlFTFRsQVR6bGhrZGc5VzdOMWlrSlYyazRsbjNhcGNhVi1vWE51em1iMWdKZWVhRkRXVGVMTWZTXzdsb1FHRnF3ZDNOR0hYcHF2QkhpdU5peWVBeGxzeUNPdDB2MkJKOTZyeU9lWmRPN3pUbTJaekdjemQ5X1REWExnanRuRHNoY1g1dlk4TGh3UWs5MnBsc2ZBWVYxUUt3U2lKVHJF?oc=5
 
-- PM Modi congratulates Anuj Shrivatri on becoming India’s 100th Grandmaster - News On AIR
-  PM Modi congratulates Anuj Shrivatri on
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTc2bUlLUFg1UEZqSGxJWnY1bGNFR2daRUFfemhrYWxCc2NEZnBVdl9uT1BkaGN6dDBQY2JxX29hLTNNTjJIQ1MwcWR1TTZLZEZ1dXpPMlJtTjZtWWNObHJqOUdLYVpydTRRak1ZSDVRS3NqaTZiUk5nSzRnUTk5S0JIbmZHRGZfckt1NzVCd2RhQm13NWR5YVBzdkh1Q3BF?oc=5
+- India cuts visa categories to 9, reduces visa application fields by up to 70% - BusinessLine
+  India cuts visa categories to 9, reduces visa application fields by
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdFFpUTZzbDctYVFxa1hxZnVrR21sUC1CNkltSXNDVXlzZHpLUlBPYUhXd0lVVWM5T08tMjJmZUk2OXd6MlNFelZDQXB3S0pfSE94UEx1QzVfMmZoQk9LSmhPREZzei1LVGdueEFtWXVyZENlWE14cDBfZWdWbGk0SXFZc2tIb0UxY0VIYTVtaHE5aHhYUVNMOUlSSHRGV0UyNmR6TTZqT3B3Rnhsd3lkQ1NTb21abHVkZXVMR2VwQnNtbTQ1a0QzMDFPdWR4UzVhQVBWR1BaWXNKNkxaX2fSAeQBQVVfeXFMTXFlLUNDRk1WVGxWendGZVZnRzk0Q0JQRWhELUVSaTBCQW4tZlIzWjhBZ0UyUTFFeXd2QV9xUmtfaDBIZlNJLS1VQjZZQkFiQ2wzbks4QU1iQTRrUF9LZ2cxbkZ2UG45TnVfeVktaUNqZXMtQjB6OHB5eENhLVlGRW5CeUVwN2lNQnAtZlZGRDJqbHJtNkJodFFoVE1scUJnWEsxQ0tTOWM3WmYxaFBnR3BwcjRlUFJYVW5ZS2QtWlBObW1UNzVrVTRDc001M3pkd3lXY0ZpNXNrWTVTM1Rra0ZSOUx4?oc=5
 
-- After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed - The Hindu
-  Bangladesh rules out passport for Hasina, India
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGg1QUFtZlNIZ2NjN0dEREpOSDJMMkw0clZpRHl5TDN6c0R1VEtZeWxldElReUg5ektsUVN2MVdOcXB0dkVOZUVwMlpHOVE0RlRLQkUzaDFYZ1YzeGVOcnUwS3RXNklKOG5XX1JOZTFvZEtSMDlGUUZtLW1ITHhYQUljM2hYTUJWWVFmd3RMSENjZml3UnBzZUJJcmR6ZWFtZklhZW53M1lHRm5DYXZmNkFhbDl0am16TmFveG90LXdLV0t3RXVOb2p5MmREa2FTY3dwSkFB0gHcAUFVX3lxTE56WXVfSkhnYzBGLUtVS1ViWlNFdFVzREVtcTRjWERLdHhsNFVOX0xRNjVVUEJYdTdSeDRuTzFxRk1hckVIQ1BOVk8wMDdSR0pUZTFYanJQSk9jZ1BZOUpfaVFNeXNlQ3lyOHc3NG1YcUhCeC1HMzZfZ2NheTVLall6d3hya09DTlNXNDJTWmxYSTdYZDBfejhVN29mcTZqeFlvcVBzZkRXTDFNS3RELTZBN2NVLTQzZWFNcHRHUG5OMmhZY29xRjB4ZklMZ29CQzJxSnlJdmFtNGhadGk?oc=5
+- This City Becomes India's Cleanest, Beats Indore's 8-Year Record - NDTV
+  This City Becomes India's Clean
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeU5PMXROQ1FibTY2Y0h1MEIyYjhmMWY1YXVxYTI4aFpVajF0OHpvbm9ZOTJkM0lvcTNSS2k2eS1hakhySng2dXlQVlRQRWs5Z2p0dy10M3VIcU5ncGktTHVLcjVzOXctbjVrZEl3UVBYenhsMEdTaG1QeU1zWDJyM2FIS1RqNG5aTW1aSFVQaGRiLUkyblhjYW1jOE5Ia19ZZ0lIUFZEbGFrRXpyVTJqazIwV3RIbEEy0gHAAUFVX3lxTFA4aW1pOXpxblB0ZlhMdmdtZk9lXy1ybXdGVTdtb3BZSll0Vk1SYzh6RmNiRFVBQTgtTXBqRXdselpwcFRZakxiVk5qWU5ZcHByMkNvN3NsRUVMTGxJR3FnOVA3Q29MVF9wZ2wwelJ4cE1WVU5fMUFqaG14WGZnU1hMYzdxM1RQdVJXdmVQTkVYbTd3SHJyVk1WNHp4OGZZOF9mZ1ZGemNWckIyZTlaMFhLU3VLU1EwemJVUS1QbzhxNg?oc=5
 
-- 'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics - BBC
-  'They will kill you too': Sonia Gandhi's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5
-
-- How are Pakistan’s imports from India growing again despite tensions? - Al Jazeera
-  How are Pakistan’s imports from India
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOaS1pY1F6YUNNLTF1QnlRRi1xLUxiN1V0c2JsTGVubEZSUF90ZUQyM0RDUFl1VUZjaTd2cUpILTFqb1o2eDl6YTVSRGJTaWlzZFJSQkVrMjFPOEh1bkUyWC1kRjUwdlJMaGx5T1FsdnZUd3lWSnpKTkFDYkxJNlY5T1NmeldSQTJwWTZ1bkpsNTlUNFJjVUcwdkgzTGUzdUdtel9lZGVKcXpqZmVuY0HSAbMBQVVfeXFMTUcyS21XbDhZRG8ydzFtX29JSjlCNjNpTEVKSnBQb2dCUVlDV0N0d3Q2aUxhaW5jM2ZqdzVzWUw2ZlVCREdYTTZJOXdSMHJHdFo0SVJZWlB5U01PRm1TcEJDcjk1dHRacjJXNGR0ZXk1RDg0R0RKal9tWlVJeTE1N3JhQzJQSURwUWhDMnNBazRTNnYxTHgwSGs3RVJtLWYwWXRiTW1Sbmg0VDZsVmttZzRqWVU?oc=5
-
-- Watch: Harsh Goenka Reacts To Viral Vietnam Airport Video, Questions Indian Tourists' Behaviour - NDTV
-  Harsh Goenka is the co-host of
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnRyb0otU3VOdGVSVjJqTm5NRXVud3JPQ2VWZ3JWSjdySlNsUjdxTDhibDN5VVNWZlFLTmdkZmFWbjF4Yk1vWUxabXpIM1lHZzJOTmlGMTJBUVJLUDFMTE9MN0dEMVhkWlVacGZRM1ROM25MOXZnSG1hUTdnOUJVeG9wR2huUUg0WjlRYnVuVE0waS1YcDFfYVl6LW5adnhydkFycUhDdnROT0hDeGpOQUJmMy10b2pDQnJZZXpDbmE0eUJtNGFhLUVSTE5pZ9IB1gFBVV95cUxPM3k3VktmZUEzdEZuVVNuTzlwOVFsMWo5czNwOTNPZk5taWxzMktVS1pvZ3otSnpsbXZtQXJNMFFTTW9feDlLVWpJdTZMTWc1TzVXNmhvUGxTbWpQaTExdUNOWmM0bWhqUnNpMmJFMEtCVUFVbHdoN1pPVEVmM2NTNDdYeFRZSW0wdGpWRTRLd0hBTnhTTm5sUlB0dWVuWE9FWllPTE12ZzR4bUhwVGxDbEJsMFJTbG1vR1k3WGdvbUNBZ3RFS1ZzRzdwckRPUGVIVGhlelJR?oc=5
-
-- PM Modi congratulates Anuj Shrivatri on becoming India’s 100th Grandmaster - News On AIR
-  PM Modi congratulates Anuj Shrivatri on
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTc2bUlLUFg1UEZqSGxJWnY1bGNFR2daRUFfemhrYWxCc2NEZnBVdl9uT1BkaGN6dDBQY2JxX29hLTNNTjJIQ1MwcWR1TTZLZEZ1dXpPMlJtTjZtWWNObHJqOUdLYVpydTRRak1ZSDVRS3NqaTZiUk5nSzRnUTk5S0JIbmZHRGZfckt1NzVCd2RhQm13NWR5YVBzdkh1Q3BF?oc=5
-
-- After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed - The Hindu
-  Bangladesh rules out passport for Hasina, India
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGg1QUFtZlNIZ2NjN0dEREpOSDJMMkw0clZpRHl5TDN6c0R1VEtZeWxldElReUg5ektsUVN2MVdOcXB0dkVOZUVwMlpHOVE0RlRLQkUzaDFYZ1YzeGVOcnUwS3RXNklKOG5XX1JOZTFvZEtSMDlGUUZtLW1ITHhYQUljM2hYTUJWWVFmd3RMSENjZml3UnBzZUJJcmR6ZWFtZklhZW53M1lHRm5DYXZmNkFhbDl0am16TmFveG90LXdLV0t3RXVOb2p5MmREa2FTY3dwSkFB0gHcAUFVX3lxTE56WXVfSkhnYzBGLUtVS1ViWlNFdFVzREVtcTRjWERLdHhsNFVOX0xRNjVVUEJYdTdSeDRuTzFxRk1hckVIQ1BOVk8wMDdSR0pUZTFYanJQSk9jZ1BZOUpfaVFNeXNlQ3lyOHc3NG1YcUhCeC1HMzZfZ2NheTVLall6d3hya09DTlNXNDJTWmxYSTdYZDBfejhVN29mcTZqeFlvcVBzZkRXTDFNS3RELTZBN2NVLTQzZWFNcHRHUG5OMmhZY29xRjB4ZklMZ29CQzJxSnlJdmFtNGhadGk?oc=5
-
-- 'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics - BBC
-  'They will kill you too': Sonia Gandhi's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWmlyME5NYXlJaGtJZU5NSllZdjBWb1ViZlh0bnhNcjdpVHhvdV9NeEMtdDFUcmdyM0pHYzdieXdGMTlRUl9jREJKUXktQVI4NUVQaW1aaTdwWkk?oc=5
-
-- How are Pakistan’s imports from India growing again despite tensions? - Al Jazeera
-  How are Pakistan’s imports from India
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOaS1pY1F6YUNNLTF1QnlRRi1xLUxiN1V0c2JsTGVubEZSUF90ZUQyM0RDUFl1VUZjaTd2cUpILTFqb1o2eDl6YTVSRGJTaWlzZFJSQkVrMjFPOEh1bkUyWC1kRjUwdlJMaGx5T1FsdnZUd3lWSnpKTkFDYkxJNlY5T1NmeldSQTJwWTZ1bkpsNTlUNFJjVUcwdkgzTGUzdUdtel9lZGVKcXpqZmVuY0HSAbMBQVVfeXFMTUcyS21XbDhZRG8ydzFtX29JSjlCNjNpTEVKSnBQb2dCUVlDV0N0d3Q2aUxhaW5jM2ZqdzVzWUw2ZlVCREdYTTZJOXdSMHJHdFo0SVJZWlB5U01PRm1TcEJDcjk1dHRacjJXNGR0ZXk1RDg0R0RKal9tWlVJeTE1N3JhQzJQSURwUWhDMnNBazRTNnYxTHgwSGs3RVJtLWYwWXRiTW1Sbmg0VDZsVmttZzRqWVU?oc=5
+- Complete data could've raised average Diwali pollution level 49% - The Times of India
+  Complete data could've raised average Diwali pollution
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQMThXc19Qb2RyTW9jdHYtelhqZUFnN25DdmFSVzhaTGE0UlA5TG84ZEVDQkR1MFZVaWdENmFBdnNMUkFrczBJYjJ0R2hZQ1ZXblByT3BEWURtVDJvZlVBRUJjaXVmdTJURTg4aFZuSGJlbTU1b1gydnlONWYwYmttTlE4dkxuYnF5aXBaOGh2UmdKUXFwYnp5MXREU2JucHBUcEFKcmhPV3ZnUTdlQUF5a2JpUTV5S3BvQ05iQ1NyM1puMTJDbGVGbk130gHPAUFVX3lxTE1nQkk0Q2JVbzdBbGQ3SVlEVTU3TzZUMWNHdFRnekM2ekpIX2hNdWlPTnRqNmxGdXhGU2Q4VVV6NllpRC1FcXlpd0hFNnRUTWw4RldGbGw4SC1OQTRVUkVjcWRNMHVEQWlLWUNzOVBQRlVraEsweVk1VG1wTU54UVh0VDg3aWlhYzlFVE9WVGVRREpPaDQ2MnhnRjJqTlktLXBRM0xXSDJSU21hdzBYdGQ0LUxVRFNOZkFqZThlUnpGTWpPblh1WXZRZ2ttMVFNNA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +140,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Defeating Authoritarian Digital Blackouts: Countering Internet Shutdowns Through Satellite Technology - Freedom House
+  Freedom House is a non-profit organization based
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEQ5YXF4VUtWRlpQRGpETm9reHNLMmRETmRrTUNVNk52clBfWXljQmR0VXpvZVRGcV8zTnZySDBtOUU0Rk0zNFdISUVyV0dPTEx3S29OZDlUcmtoZzVTUzNER01GSlk4Y2wwSFJfOHZabmdmc2pFV1lXVG9uTlNkR1J5RWt3UTZuRWtMMnNKYVk4RzNpX1k0dVJVRDJ6SFRMdi1GTDMyRXB5Ui1WRHBBMU5mc0VxNkcyUUR1MnplUQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times
+  Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5
+
+- Gemini Decisions API: Fast, calibrated multimodal decisions - blog.google
+  Gemini Decisions
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGVFa0w0cmk4aTZOc0dVWnc5bm5lSzRZOE9aQldlcTZZUGc4MGNNWGlTbDFJYUlibHJoQ2xpOEdrUFpPODBQOGluNUhVQWxvY2ZuWE84TVN3NVJza04xVXlBcW1kVkl1WjZMM2RxREktM2Z3bVVqbTBkUnJuTy0tRl9KSkxuT2pzY0Zib1dKV24?oc=5
+
+- India, France hold dialogues on economic security, space, technology - The Hindu
+  India, France hold dialogues on economic
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9zalpfRjVSTHhRNHZwTUxhMjRQU2FFZkd4MW9QRlhoR3p5WkRMY1JuMUw2RDNoZG1zaU02Y2QxN05jSkZ6SjRUMVVodlF2Z0Q2Q29oUTBWYWtKZlNOeXhYaXdQT2xRc2RTQW8xajJUMkV4dGduVE9JdmF1bnQ0UFVnZzlVdjQtYkdrVXRhalRqcmg0akpLM0NlX0RobnF2ZGllbXZKZm5qeG9zNU45RkwtYlNmck5oRU5kSW9xUDl1UdIByAFBVV95cUxNUXF4V1lGUWxlVTVJaFpreTRhSE81bjdLT0pXTGVaMjZLRlBWT2FaOU5NTXdQRGVBU0RtSFh2eTJiTWo2ZVZhSFptNjkyX3g1bXpFMTlqUTV3YXgxNG81OGJYOEZ2UmJSUW1lT0Y2M1pZcjFnbHV0WjFzd2pFWXNPVVdtUGZWWXJjV3IzV0d0VExkZ1lFZHIyLTZTU0M5TXVYUEFfeEJ3SndXWk9Genl1TWFPc0N3ZDJPc0lhWjM4YlpsUXh0NTV3Tw?oc=5
+
+- The Temple of Doom - ET BrandEquity
+  The Temple of
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2ZrY2V0WlNITzVLVExud3lLQWlGVXpwM24xaGJfTll5UU1iTGdKelpudkl2WFFGaVB0OG1nX3p4LThtS2lWQ3N0MnNFdE5TaUpwczQ0SVhxVG9TM2pZSE1TUHVYdWFMN1NreWpheml2Wk1JLUtpV1JIUHd5a2xITm5NblFKbDB0Uy1YdS04VWtQSkZXWFg40gGcAUFVX3lxTE1saG9ReTJoR2VyeWtDMmt3Xy1paTQ5SFZnZGRzTWxRZVJ6ZlJTemhZenFDUWJpaVZrR1MzcC1PU0xtTFlLbG1KaTA1QlJ4VUtmNTJKS25vamkwRkVxdms0cmJvMWpCUElhUlcyV1F1OE9QOS1xR01XWEZYM2cxUFVDWGJJM3hfTFFmSTYyRVYwaFpXSXh6NFZsVmM1ag?oc=5
 
 
-_Last updated: 2026-11-12 00:00:09 UTC_
+_Last updated: 2026-11-12 05:45:14 UTC_
