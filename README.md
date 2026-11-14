@@ -4,81 +4,81 @@
   In major breakthrough, U.S. assures India of comparative
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5
 
-- PM Modi will discuss various ways to further strengthen INDIA-ASEAN ties during Manila visit: MEA - News On AIR
-  PM Modi will discuss various ways to further strengthen INDIA-ASEAN ties
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNam40VTR2el9DS25heUdWcGxxQk5uMDRfSEphbXZuMU05Y0pPYTQ0SmdfQy1vcERxdDFLTzl2VTFrdzR6RGVjQUdfaGxQbVBQMjVGZ180ZnZlbXF0eWJ4emdTckU3V3NYMnk3OXYtU05IbGJyQnp0djdOR0hNYWoycG5KX0xVaFhiY0pTRlJMT2dFRzNFX1BfN1A4UmwwdXZ6c1ZVU2JHa2U5blJMSE5HQU04QUdoMUlXLUZVZEhJNA?oc=5
+- Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh | Explained - The Hindu
+  The Indian government has sanctioned fresh infrastructure along the China border in Arun
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdVFGWGV6bURteHFOd3Q1M05sQV9KWmdLaGZZelo3bk5EMl9Cc3BkY2hJUmkxdkhRREpnWW15bXBfRzRpSENmS25NUjBkZHZOQUJzZXNERmhsZHVtRWpSTThKOTBvM2pXcFEwMXVCZEpXU1hjaEZOaU8xZ0haMXBWbWZ3eHJwaHk2NU9HYTNTLTZ2NmtwcHY2RjUwdEpEbFVtUEo4VkNXa19LcHFpWmp3NTQ3aTNQYlBrSXJNWGRiQ1hwaFNtSWdfa0VlQ0lpejlSSE5ka3A1WVF3eWozei1kc2pqbHFfOHhZRjFvZS1Wc2zSAfcBQVVfeXFMT3lnekFrRllUcEs1VWVpMnk2VzVaWnl4SUtBUWJvS0NWOUJQZGN6WGpnUHUwUDVQTnZzUWxyTDNoQXZsOUVWa1Y4LUlmOHpHNmRCcS1oeGxaN2NzUmdpRmdMN2JOQXRROW4xNVh2UmFCVWg2WE05M2Z0Q3JhaTlaQ3JGcUhrTFZ1VmxEWTh4RGlNZXIzR0pKS3A1Z0FQNHRoRE9HVDF6dGdCSnVEY3RuejJkRm1zaGNaRU5yQzUzNUJzTXFXYkgySU1lUHpQakFXQ0hhUEU0M290X0pBcGpkLU5RdS1kcFFfWndQSkx4R2VUbjdDZzlnVQ?oc=5
 
-- 24 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga - NDTV
-  24 killed, several Injured In Truck
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzVFd3YzTHRIdVNJYW11QVFnV0JOVUZib1FLNFRiNmhrX0Uya3h1SERlZ1lEWXBHMTFrVUNTc0ptWWFob3JKdlNGSjRrMGFFSDVGUUVWTEttMnhNX2lySVNDSlpRMU41U0pvVFU5RnhMVVY5Tmt3UzhXMjZoWlFyWmE1MVI4T0szcnFDejZNMXJ6VE1UN1RKaFJISVlKUmVDUk9hSkZXdmdnU2dVUDFETU5YMEtQZ9IBvgFBVV95cUxORnUyX1lBelQtMktKMHoybElyU1NVTEFqZ0FIb3hRNEd1X2txeTAwRmx0UWtzQUgyN3l0NHRISTdwZXlsVjQ3R0xpLWx5YjFnQm5menRfNllBLVVuSHNZcXpEUXFlT0N3dGpUbXB2WU9RX2wySk5JaTVQUENoQkpEbW1DdVd5LTl1SG1OblB4WDZaTm5oaml5c1VyOF9kb3Q4LW5ESW1XUEZnOG9RUnV6eTVoUGs1YUxqcjZfU2NR?oc=5
+- Pak Operative Sent Nudes, Air Force Officer Replied With Secret War Plans - NDTV
+  Pak Operative Sent Nudes, Air Force Officer
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dlVi1DOG0xanEwZl9Zcy03SmdxN0FtLW5KNUdoaG5VWmtXejloM0M2ekUxT1JPVF9iRVdzRlB5UWlWanpldnROUF9ib2MwRmhacG92TTgwRDhWVkRnQ2hYMnF1N2hYSzNjZ1dCUzdGWW44WDlnYVFLdkMtcDVlMFQya0liTmdDeTVOekthazZJby15dmllanQtTjlCZ1E5cXQ4UWMtWW04ZnUzY1poSGR5b9IBuwFBVV95cUxORDc4M2Q4VlJSa3h4WjJVRl9yMjFraGdrdjh3bDJmRzNXeHNGVU5malhoa0tKbVlLeS1wV3VzcHZXZkVQajVxdGZDTVhiWWVfbTNEb3E2eFhOQ19qZkk5V0tqTVAzX0hQX1daM2pkOUhsVUY4aVBKM1FsYlNwMEU4elBIOHM4THluMXNQSEpaWkRUODFheFA2X1ZZdUlITkN3N1JxSjBNVWFrVWNaWDVKczlTR3diTW1uXzlj?oc=5
 
-- Assam Accident Highlights: 24 Killed, Bus Was Running At "Very High Speed" - NDTV
-  Assam Accident Highlights: 24 Killed, Bus
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXJ2M0k1WG1xNUQtelRXSnRpdFk5WUFYRjVfaUFiR3FfX2Q3TGYtVi1FX2hMaHlPYm5NYjdad01iT3BvQ25fZEpzYWlKTDM5R1BPeXp3Y1BPMER1X21mNXZPX2EyZWtvSHc5UU41U1ROSnJoQWNTV0xOVU9zbEY4S1FQaVl2eHQtV0RQRVc4THN4VlFtSkllMjF3cDRTRlNyWmNnU1RwSlVDbzg0T1B5NE8yNi1KNU0xRmgwUGxoYm91dVdkdVR1TndNOUJfSlp2YVdsQXRlRkJJaEFl0gHkAUFVX3lxTE9mZ1RacW1oN1dBM0tCZVNkUC1DOURWNmRzY0F5d3N0WDZjQWoxcVBmNkFqTXdGMk5ZWHFFRnhGZldfeEN6SDhsNWhvNHl4MHh4eGpOcVo1S1l2YzZHQmhPcnhxSWFXMVV2Q2Z5VkRNOTViME5faHNiT3NRLUM2dWZCa2ZkbXBiUGpIYVhUMTlFODVMRUkwUjdzcE1LeTFaQUc2ZzJnOElzZm5SN1NMNGtmbzBsck1NSEpfYUZXQk42d1V5a3ZUUDRoSmNILWZXX2JyREVWNnphSGM5TkZPQ0Y0cDk4NA?oc=5
+- CJP: India’s protesters face government crackdown after summer victory - BBC
+  The BBC reports that India's
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVk1LYzgzWGhoeW5Pa28xTi0xbHlfS2tJbmhzVVBXMHpZWldIYUdhelplUVQzZXY2SjRjTTZLNndFOUJreEk1STJlQmticG1uUFNWY2pFb283MjQ?oc=5
 
-- Truck and bus collision in India's Assam kills at least 23 people - Reuters
-  Truck and bus collision in India's Assam
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjllVmVCdTJhVUpRVDg3N09uYmhXLU40ZVozbHRLY1hRQkNpakZ4NVZjWVVObnEtcmpCbXZlYmIzdTV5dTlQN2Eyb0Y4UVM4RXZkc1BiU2hfY2FFVm1aTy1IVmtBRDZwTm1Eb2dvS3dEaDBvS0ZGcGY0TGNsYV9hZ1RMY19Ncy1zbWNyQ3NLVmdWMlN3cnBiQkI0cmJaZ3pkWUUxeA?oc=5
+- India news : Modi government approves $340 million museum in Delhi - DW.com
+  India news : Modi government approves $340 million
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2JGRlgxMFl1dGFFWTBxZTZsQkNxWGo0c3ZfcllQNUtSS2t2bWdkZmQwM0lDYlhlLWYtWnh5SGVWRWVzb0VNOGdCMmFFNXJOLWVQWXhkUUYyYTl0V1Q0X21CWk52LTg5a0haRW5ZMndiaWc2RDZUSzktUDgwcmpmd0x5dzlXZDRhSGd4UjJWUkstM3YzY29oR2tnNS10N1df?oc=5
 
-- Microsoft outage 'stark reminder' of how much we rely on tech - BBC
-  Microsoft outage 'stark reminder' of how
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zYnBpVjNrcnhaTFU5TzNwSUc4UEw0TTRwS2ttcDVIM2hnTy1tcmQ5RlZvZ1ZCSkhCUlR1cFM3TVJNbGJxOGUzN2d4V3RRSTI5bTFWY2x6VVRZcmc?oc=5
-
-- The SIR exercise is also a technology failure - The Hindu
-  The SIR exercise is also a
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQZU5uSmtwTy1tblI4RXY5cHNfV3ZnVDhfZ3NmRTlwZ202MWR2UmxwV2ptd3hKRDRVMjB5Nm9qdVVhek5Fa1BGQkMyVngzRGlMZmJKbjJ0RFlveUExa3EzSjROeDJVNUpjLTFLaUk1RnNPTWY4UExuWkpEZGUzVF8yMXVhcFltMlJPdUxmS1U5S0VpUjBMLW5EaDJ2SGFZTWMzTFktU0lR0gGsAUFVX3lxTFBUeTR2LXFqclNKeENKOU1EX3RjUG1CRnlCQ212Zk9IbGZXb1c4cTQzM2xZejdhYVdXa2lzT0twNUdGU05uNVhxOFUzN3VlOF9kWDE5WVBkYm50MEpCel9jRzd6dVJZMk95aFV0Z01IRDA4ZXcwNVpQLVhCZExoNW5WVkhramZSVW5xOUhJY3gzVUhTQXYyNGxqSXlEOXlaM0dLSGYyRFNqS1BQOGE?oc=5
+- FAA investigating whether new AI technology contributed to nationwide ground stop - Click2Houston
+  FAA investigating whether new AI technology contributed to
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWtSN25JZ3FqRk1BTEdGZDR2SHc2RkdsTEhBMmdQUThHcVYwTUhseVFxSG44TVlCZ2xVLUtyejFFbkJWTlZCMm92QzZIb2p1aU5hQVVmakIxZjZNZy1jaDNUbWxVQ2kwZ2NiR2tjeW4ydmYxazZlM3dBRFcyQ1pDSnliSmRFVGk1WUt3czBuTWFlRlZiTG5NSXBRSldyQVFJazFUVXdlOXdsV3ZqSk9ZVUI0V2NxRVc0TkEtRjFDLXU4Vm9WUEVFZDVBUktEREk?oc=5
 
 - Microsoft hit by global outages: What happened and why? - Al Jazeera
   &nbsp;&ngt;
   🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQWjVxekloSTY2Vk40dklXNGxvOEZTRHVzQkhVR09RSmpNZGh2N1VlVUNZWExEMHFST1NNaFNMcG5EcGdaUFpWOThUTWVIeUREZEM5SnlKSVhWdkhpSmZOVVJMZ29ZUFg4XzhMTnZwMlN0TnJHYjRCY09nWkRNeGtaejVwcmdmeVZsRmZVcWoycXpaekw2RTE3MjhrMNIBoAFBVV95cUxQM0VPbjVzS3FnNy1MQzZFRXRQSGRuSEFKQkFoTjVtR3JoN081aDhIdy1YVVl2VlZQbFVQNGw2NGFPUzY1bEdIaks2WXNZbk45Y2hrdXhFaXBIQzFGbF9fdkJTOHRIaE1MbUg4S2FHOWpQQmhpTzk5dnlvbG0ySXZaTTNzV1ZheUFlR1cwX05wM21DN2xUWllZVTczZ3M0cTI4?oc=5
 
-- Venice’s historic buildings face mounting pressures. Could drones and digital twins help protect them? - CNN
-  Venice’s historic buildings face mounting pressures. Could
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXpGaHRCSjBlUEhRcG9mNFR4S1hmQWlVa3cxTXJpdHo0ZTNrbUo4VkdiRTNGbVlnbDFnZFd0ZzJhQlpSVzZOSGNyVXNoSVdiRzBwQzE5OEtzN2RGSGdWS2lXdU96WGYxWVhuSjV4eVlCdmlLUmxkT2FlNWpHaVYwZnJ4YTY?oc=5
+- Microsoft outage 'stark reminder' of how much we rely on tech - BBC
+  Microsoft outage 'stark reminder' of how
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zYnBpVjNrcnhaTFU5TzNwSUc4UEw0TTRwS2ttcDVIM2hnTy1tcmQ5RlZvZ1ZCSkhCUlR1cFM3TVJNbGJxOGUzN2d4V3RRSTI5bTFWY2x6VVRZcmc?oc=5
 
-- Top 10 Emerging Technologies for Planetary Health: Energy Edition - World Economic Forum
-  Top 10 Emerging Technologies for Planetary Health: Energy
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNaENYSVdHcEUzS2w4RzZTb3Z6Z0tBeWpDY2JVZVZ4ZlNzeXZVZUFmYWhTd2RQMWR1SXNRTWdMZWdwQ1lTb0Z4eHFuNF9ZbW05X0U5TlFDRTJNMGdFUm5HeWxOekF6VFRKd25TdFpSVmctbGlNRXpTckNtcTZHWlFzVTJyTnJEcWgzb1FRSndJTmF5cUYxczZtS215U3NSXy1hSXMw?oc=5
+- Microsoft Outage Shows The Risks Of Relying On A Single Technology Provider For Essential Services - HuffPost
+  Microsoft Outage Shows The Risks Of Relying On A Single
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE01d0p5eHYxZURfWDZqNUZIZW9qOTZZUGtPOVlmM0lxWkRxLVF1VDU0ajdjMnhfbjQ5V1RRSEhtYzZ6dVlPU3RnQkhvT0lJR0Vkc0owNHhOcW9ScnpDY1lnSk5oTXNicEpUVEY4Wi03M25GcHUzbS0ydGc3eUtxcknSAYQBQVVfeXFMTzE0bjVpYVFZWnVlNDRPTFRhYVpCNktwNl9CME5xVFBoS2IxbDhYQW9TQmJQNDNaQ1NzdjVQTG1oOEw1d1pKM245a01adkpRLWUxRU9UR05LS252NlV3UHEwWk45R0NpYVdwUzlidWM2S3FOSG5xWkd3LWwtSHVVbEJQZmRr?oc=5
+
+- Nvidia scandal: What’s next for the US tech company? - Al Jazeera
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPMW1FaTlaLXMwLUFWN2lxU202ZW9veTlQd1dCbF9KYlBnMWlTT0Y3Zi1BaFowMU9YT1h0M2JGd0xxM1l3dm9rS2otT1hpa0pwR0xjY1AxMTBld1pXcmFsMTl6UFJVV0VtYWk4bmNva3E1dlVLcVhlOWVlUy1aR3lKVUwwZm1LS0h3aEtEc1dHX3RxRERzaHfSAZsBQVVfeXFMTUdEVDRnMzVUQi1YdWl5V0MxcHVlM2pldTZrVTA2X2xzX2hhNEpaVnVlWlE0M29fSHU2Wm1EMjVBZ01LdlhJaThHV0JPcTVldEd5UFg2c1AtdlhIVVBCNF9ZVEpqaEhsOFc0cE80c216Yk9UWFVmbDFCV3ZiRURGUnFvOC10T21iZFhMS2dvc3BDVFE0Vl9fRGsxb2M?oc=5
+
+- Reliance plans  ₹43,000-crore coal-to-gas plant in Andhra Pradesh, could generate 40,000 jobs: What we know
+  Reliance Industries plans to invest  ₹43,000 crore in a coal-to-gas plant in Andhra Pradesh. The
+  🔗 https://www.livemint.com/companies/news/reliance-plans-rs-43-000-crore-coal-to-gas-plant-in-andhra-pradesh-could-generate-40-000-jobs-what-we-know-11794627790422.html
+
+- Swiggy, Zepto, Eternal rivals on same board: What govt's new gig worker welfare panel means
+  Swiggy, Zepto and Eternal will come together on a government panel to recommend welfare measures for gig workers. The move could also add to aggregator costs under
+  🔗 https://www.livemint.com/companies/news/swiggy-zepto-eternal-rivals-on-same-board-what-govts-new-gig-worker-welfare-panel-means-11794626752228.html
+
+- China's BYD clears import hurdle, looks to accelerate India push
+  Homologation removes the 2,500-unit import restriction on three models. Chinese carmaker more room to scale
+  🔗 https://www.livemint.com/companies/news/chinas-byd-clears-import-hurdle-looks-to-accelerate-india-push-11794562283540.html
+
+- Mars bets on India as a top-five growth market, targets $1.2 billion-plus revenue by 2030
+  The pet-care and snacking giant is expanding manufacturing and investing in technology capabilities. It looks to tap India's
+  🔗 https://www.livemint.com/companies/news/mars-bets-on-india-as-top-five-growth-market-targets-1-2-billion-plus-revenue-dog-cat-food-vet-services-snacks-11794548363309.html
 
 - SpaceX aims for first double catch of Starship in its most ambitious test flight yet
   SpaceX aims for first double catch of Starship in
   🔗 https://www.livemint.com/companies/spacex-aims-for-first-double-catch-of-starship-in-its-most-ambitious-test-flight-yet-11794598250576.html
 
-- Nvidia approached Arm CEO Haas to succeed Huang, FT reports
-  N Nvidia approached Arm CEO
-  🔗 https://www.livemint.com/companies/nvidia-approached-arm-ceo-haas-to-succeed-huang-ft-reports-11794594915438.html
+- ₹150 Dividend Alert! Record date next week of Jockey firm for biggest payout declared in Q2 - check key dates, history
+  Page Industries declared a second FY27 interim dividend of  ₹150 per share. November 18, 2026, is the record date, with payment due by December 11. Q2 net profit rose 4% to 
+  🔗 https://www.livemint.com/market/stock-market-news/rs-150-dividend-alert-record-date-next-week-of-jockey-firm-for-biggest-payout-declared-in-q2-check-key-dates-history-11794628701443.html
 
-- Asda’s Losing Streak Nears End as New CEO Joins UK Grocer
-  Asda drew more online shoppers with its loyalty program. The struggling British grocer
-  🔗 https://www.livemint.com/companies/asdas-losing-streak-nears-end-as-new-ceo-joins-uk-grocer-11794594850362.html
+- Ramayana effect? Prime Focus Q2 results: Revenue rises to  ₹1,410.17 crore; PAT climbs to  ₹91.04 crore from  ₹5.8 crore
+  Prime Focus reported Q2 FY27 net profit of  ⁹58.27 crore, up from  ₹4.06 crore a year earlier. Revenue rose 35.2% to   �
+  🔗 https://www.livemint.com/market/ramayana-effect-prime-focus-q2-results-revenue-rises-to-1-410-17-crore-pat-climbs-to-91-04-crore-from-5-8-crore-11794627104139.html
 
-- Reliance to invest  ₹1 lakh crore in Andhra Pradesh, plans 3 lakh job opportunities with biogas plants
-  Anant Ambani confirmed Reliance's planned  ₹1 lakh crore investment in Andhra Pradesh to set up compressed biogas (CBG)
-  🔗 https://www.livemint.com/companies/news/reliance-to-invest-rs-1-lakh-crore-in-andhra-pradesh-plans-3-lakh-job-opportunities-with-biogas-plants-11794593546518.html
+- Top 3 stocks to buy: Bharti Airtel, Bajaj Finance, Nestle by Sumeet Bagadia | Targets, stop-loss, market prediction
+  The Nifty 50 index may witness further consolidation after its sharp rally
+  🔗 https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-bharti-airtel-bajaj-finance-nestle-by-sumeet-bagadia-targets-stop-loss-market-prediction-11794622858676.html
 
-- Tata Trusts feud deepens as Venu Srinivasan, Vijay Singh challenge Khambata's stand on listing, leadership
-  Tata Trusts Vice-Chairmen Venu Srinivasan and Vijay Singh have hit back at Darius Khambata over Tata Sons’ proposed listing and
-  🔗 https://www.livemint.com/companies/news/tata-trusts-feud-deepens-as-venu-srinivasan-vijay-singh-challenge-khambatas-stand-on-listing-leadership-11794592735269.html
+- Three fast-growing water infra stocks
+  India's growing demand for water treatment and wastewater management is creating opportunities for infrastructure companies. Here are three stocks to
+  🔗 https://www.livemint.com/market/stock-market-news/three-fast-growing-water-infra-stocks-11794577248207.html
 
 - Wall St slides as Nvidia uncertainty drags tech shares lower
   Wall St slides as Nvidia uncertainty drags tech
   🔗 https://www.livemint.com/market/wall-st-slides-as-nvidia-uncertainty-drags-tech-shares-lower-11794599915160.html
-
-- Rate-hike bets keep gold on track for worst week in four months
-  Gold on track for worst week in four months
-  🔗 https://www.livemint.com/market/ratehike-bets-keep-gold-on-track-for-worst-week-in-four-months-11794598496469.html
-
-- Oil prices set for second straight weekly decline on growing signs of supply surplus
-  Oil prices set for second straight weekly decline on
-  🔗 https://www.livemint.com/market/oil-prices-set-for-second-straight-weekly-decline-on-growing-signs-of-supply-surplus-11794595284142.html
-
-- Gold Edges Up, Still On Track for Worst Weekly Slump Since June
-  Gold edged higher at the end of a downbeat week that saw the metal drop to its lowest
-  🔗 https://www.livemint.com/market/gold-edges-up-still-on-track-for-worst-weekly-slump-since-june-11794595223804.html
-
-- YES Bank files SC review plea over AT-1 bonds: What does it mean for investors after stock's 15% rebound?
-   YES Bank has asked the Supreme Court to review its October 15 ruling against the write-down of  ₹8,415 crore in AT-1 bonds. The move follows a bondholders’ trustee
-  🔗 https://www.livemint.com/market/stock-market-news/yes-bank-files-sc-review-plea-over-at-1-bonds-what-does-it-mean-for-investors-after-stocks-15-rebound-11794591968232.html
 
 - Microsoft says services recovering gradually; here's how companies are resorting to traditional methods amid disruption
   Microsoft acknowledged the disruption and said it was working to restore normal operations. Microsoft says more than 430 million
@@ -100,65 +100,69 @@
   A global outage has disrupted Outlook, Teams, OneDrive, Copilot and several other services.
   🔗 https://www.livemint.com/technology/tech-news/microsoft-outage-affects-businesses-government-agencies-and-ai-platforms-full-list-of-services-impacted-11794569033153.html
 
+- Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump - CNBC
+  Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE00cTdQYjhOUVlzVEZnQndNN1NKNzBJSjIta1lDWVlVXzhDcXkwWWpVRnE3c1VMTVF2bkZ5WnhHU2NSd2ZRZlI4RVRjREJvbG9xWDZJRF9QMG1MNE40ZGdESkpmZXhsOUhCTUcyZGZiOGhfTjdiSUk40gF8QVVfeXFMTWN0NjJIZlNoTmVNdFV3NUVBOXBZTVdvWWJYU2ZteENJN0ZvVDE1d3BlaGV2NWhLZHVoWnhtaEVIWDJjWWx0LU9rbm5qMWh4RUV3amJrMG93Q3RfVFVNa0p5WEl1emJ1NDJPSXZCekt0Mk5LdEtQZ3hWWG0wTQ?oc=5
+
 - Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates - CNBC
   Nasdaq falls on Friday as Nvidia sells off, but index notches
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5
 
-- Stock market today: Nasdaq leads Dow, S&P 500 lower as chip stock sell-off accelerates - Yahoo Finance
-  Nasdaq leads Dow, S&amp;P 500 lower
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxORHNBdWVhWllRY0IzSV9JUGtmWVdfQk5EaGVSVVNNXzVtUWtITW1xRUhYRDA3SVdSbWFaWjExbkI0VXA1ZjVuWXNWWkI2M3hUTVpxeUxvekxyZmhLOGdBMFZXdktzTWdvT0tOdnVIenp6UFQtdWt5bkJtNWlMSGpGdDZ2WEZmbTlidlQ2QVhSREdGdXNDb0F0ZzNJUGNSejZwSXE4Y2NCdHRHQWxKNkZrTWNQbUtVYXFGU3k4Tw?oc=5
-
-- Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13 - WSJ
-  Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade.
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk9KSVZ5ZlN6RFNmNnlQVEZmYzB4RkxuXzVlaGEzMDdoZ1REdGkxNnhJdW9CMmszTEtpWGlWMUZUTkNLV3FSdll5S0ZiT29JWS1FZHVuSDJpeGxfQjNoUmZPOHdFcFJWUFlSQzdhN085Mld6ZDRJLU1jODF1dmRkQ0hKSWcxTGp4dUF5eENRTkYyLWYtZktxM2VmSnNBN2l2MUVTNHFLU3BzR00?oc=5
-
-- How Will Higher-than-Expected Inflation Data Impact the Fed's Next Rate Decisions? - Goldman Sachs
-  Goldman Sachs: Higher-than-Expected
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPa1VLWDljSGF6OUNPWFM0UzVxZDUta2RVUUdqRFp5eWdzcmlLYTZfbEpIZDRzcmNjemxzZTkyZG9wdi00ZXFDd3pucTZhaThGZVNwSmIyWmsyZ1FnUGFKN0E3dUI3eXBiSkJNYWdFdzFXN2l3Y0xqQzYwT1lrc21fN0xTVno0dENsUkNTTUxVWHVYVkx6Y1JmR3pqUEdwWnp6SXBQNGllQmNueG9rUWNZUDdNRk9ScHlfMDFvMDJQb0szaEFkcUVRZVF3?oc=5
-
-- Stock Market Today: Nvidia Slides Again as Investors Brace for More Fallout; Nasdaq Slumps— Live Updates - WSJ
-  Stock Market Today: Nvidia Slides Again as Investors Brace for More
+- Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal - WSJ
+  The WSJ reports that Nvidia shares dropped again on Tuesday. The company is
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5
 
-- Anthropic IPO share orders from China are said to be rebuffed
-  Anthropic intends to complete its IPO on November 18, pricing the shares ahead of trading the next day. Investors based in mainland China and Hong Kong are excluded from placing orders in Anthropic's IPO.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms
+- Stock Market on Nov. 13, 2026: Dow ends slightly higher, S&P 500 and Nasdaq fall as tech stocks struggle after Nvidia turmoil; U.S. equities market books weekly gain — live updates - MarketWatch
+  The Dow Jones Industrial Average closed slightly higher on Friday. The S&amp;P 500 and Nasdaq fell as tech stocks struggle after Nvidia turmoil
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmg4NHJ5V24yXzQ2TFZvRlVSeEJJSGFhUm5uYUUxTXhMVWhLdzlkOFhfUktLVDBrV2VkTnVwZnUxN3MzZlhYbUdCY3JhRkJWTEd2MW9IZDVJc0xOVjVsN2ppZS1vX3Zia2pYd0xablc5YnZhTnZvUE95eVdKY0Y4Sm9jZ1JyRE1RTHI5Nk92SDgtQjE3c0Z6LU9WdEVEVzFfUUQzZUNUd0h1MDcyQ1YxalFfOGxFNkx5VEdKcDR4eWc3OW41dmN6aQ?oc=5
 
-- BofA adds January Fed hike to forecast, says quarterly pace no longer enough
-  BofA Global Research anticipates that the Federal Reserve will implement a rate hike in January 2027. Expectations of a 25-basis-point increase are supported by increasing inflation driven by various factors.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-adds-january-fed-hike-to-forecast-says-quarterly-pace-no-longer-enough/articleshow/135808910.cms
+- Stock markets snap three-day rally on rate hike fears; Sensex drops 318 points - The Hindu
+  Stock markets snap three-day rally on rate hike fears;
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQWk5hc3RoLTFzV2hiZ1Z1TGpUUWlDcUQxRTBTTVBfajdlTnJ5SFZYRlU2VjVvXzFMTTNqdFpCS0pXczF5bWVDSjdXdllZYll0Q25RT2U1TTN3RXZhVUZKazhIRkZZcHBueVBEa1pucl9IdlBwZkNJMEZ5WkZNeEl6RHAtZGk3LTNEMW9LeUxoZnJmZUx2NERaLWR2dWN0WXo5M3lGc21LdjFTNEFPZ1RNTUlDZHNDcnhIeXJWWER6a25fd1FqWlRKQmx0Y9IB0gFBVV95cUxNTEtqSzFvbEFnZFNqQWx2VkE0QmtMbktHMFdNRmlmcWpKMjk0NXl3cUdNUjdfUkN1R09lRW9YOFJBb3dFUEt2M3ZHTWgtQWJPRlh0eHM4UFpkYzNaaGpzMEVCR2lzbHFYd0RzT2pFUERyT3pIWUFNQU5SMkliYzlUN1hEUHlweHRlUnJMR084VWxRelJLZUVSYktaZ0hDNWE2YkxmOF9GX2MxQ3FuelFKNEhxX0FMUkZvZF9SSjFRX3o3MWFnMHhpckt4ZF9tSUVyTEE?oc=5
 
-- US stocks: US stocks reverse early gains as Nvidia turmoil hits tech sector
-  US stocks fell as Nvidia’s leadership turmoil triggered a broad technology selloff. Softer-than-expected producer inflation offered little relief as investors weighed the outlook for interest rates and the
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-soft-producer-prices-data/articleshow/135807296.cms
+- 5 world market themes for the week ahead
+  US-China relations are set for discussions as Trump and Xi meet. Oil prices remain volatile due to Middle East tensions and supply changes. UK and EU summit aims to advance post-Brexit cooperation on trade and regulations.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/135822113.cms
 
-- Chicago Fed's Goolsbee says on CNBC the Fed needs to guard against demand overheating
-  Chicago Fed president Austan Goolsbee says inflation has moved beyond temporary energy and tariff-related price shocks. He highlighted that increased demand from the AI buildout is pushing prices higher across many sectors including health care and services.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/chicago-feds-goolsbee-says-on-cnbc-the-fed-needs-to-guard-against-demand-overheating/articleshow/135807011.cms
+- AI rockets to top of worries about financial system in latest Fed survey
+  87% of respondents cited AI as a key risk. There’s been a dramatic increase in debt tied to AI infrastructure investments.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey/articleshow/135821841.cms
 
-- US Treasury chief says Fed should not hike rates over energy shock tied to Iran war
-  US Treasury Secretary Scott Bessent advocated for the Federal Reserve to keep an open mind about interest rate adjustments. He pointed out that the current economic indicators could be skewed due to the ongoing conflict in Iran.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war/articleshow/135806960.cms
+- Fed's Jefferson says he is taking his policy cues from inflation
+  Federal Reserve Vice Chair Philip Jefferson emphasized inflation as the main factor in determining monetary policy. Jefferson indicated that upcoming adjustments to policy should rely on data trends and the evolving economic outlook.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-jefferson-says-he-is-taking-his-policy-cues-from-inflation/articleshow/135821792.cms
+
+- Wall St Week Ahead: Nvidia results, Anthropic IPO pose tests for tumultuous AI trade
+  Investors are wary as Anthropic prepares for a significant initial public offering. Retail sales data will also provide insight into consumer health and inflation pressures.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade/articleshow/135821735.cms
+
+- US Supreme Court to consider lawsuit over Robinhood's 2021 IPO
+  Robinhood Markets has filed an appeal with the US Supreme Court. The lawsuit claims the company misled investors ahead of its IPO in July 2021.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-supreme-court-to-consider-lawsuit-over-robinhoods-2021-ipo/articleshow/135821666.cms
 
 - In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors - The Hindu
   In major breakthrough, U.S. assures India of comparative
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5
 
-- PM Modi will discuss various ways to further strengthen INDIA-ASEAN ties during Manila visit: MEA - News On AIR
-  PM Modi will discuss various ways to further strengthen INDIA-ASEAN ties
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNam40VTR2el9DS25heUdWcGxxQk5uMDRfSEphbXZuMU05Y0pPYTQ0SmdfQy1vcERxdDFLTzl2VTFrdzR6RGVjQUdfaGxQbVBQMjVGZ180ZnZlbXF0eWJ4emdTckU3V3NYMnk3OXYtU05IbGJyQnp0djdOR0hNYWoycG5KX0xVaFhiY0pTRlJMT2dFRzNFX1BfN1A4UmwwdXZ6c1ZVU2JHa2U5blJMSE5HQU04QUdoMUlXLUZVZEhJNA?oc=5
+- Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh | Explained - The Hindu
+  The Indian government has sanctioned fresh infrastructure along the China border in Arun
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdVFGWGV6bURteHFOd3Q1M05sQV9KWmdLaGZZelo3bk5EMl9Cc3BkY2hJUmkxdkhRREpnWW15bXBfRzRpSENmS25NUjBkZHZOQUJzZXNERmhsZHVtRWpSTThKOTBvM2pXcFEwMXVCZEpXU1hjaEZOaU8xZ0haMXBWbWZ3eHJwaHk2NU9HYTNTLTZ2NmtwcHY2RjUwdEpEbFVtUEo4VkNXa19LcHFpWmp3NTQ3aTNQYlBrSXJNWGRiQ1hwaFNtSWdfa0VlQ0lpejlSSE5ka3A1WVF3eWozei1kc2pqbHFfOHhZRjFvZS1Wc2zSAfcBQVVfeXFMT3lnekFrRllUcEs1VWVpMnk2VzVaWnl4SUtBUWJvS0NWOUJQZGN6WGpnUHUwUDVQTnZzUWxyTDNoQXZsOUVWa1Y4LUlmOHpHNmRCcS1oeGxaN2NzUmdpRmdMN2JOQXRROW4xNVh2UmFCVWg2WE05M2Z0Q3JhaTlaQ3JGcUhrTFZ1VmxEWTh4RGlNZXIzR0pKS3A1Z0FQNHRoRE9HVDF6dGdCSnVEY3RuejJkRm1zaGNaRU5yQzUzNUJzTXFXYkgySU1lUHpQakFXQ0hhUEU0M290X0pBcGpkLU5RdS1kcFFfWndQSkx4R2VUbjdDZzlnVQ?oc=5
 
-- 24 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga - NDTV
-  24 killed, several Injured In Truck
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzVFd3YzTHRIdVNJYW11QVFnV0JOVUZib1FLNFRiNmhrX0Uya3h1SERlZ1lEWXBHMTFrVUNTc0ptWWFob3JKdlNGSjRrMGFFSDVGUUVWTEttMnhNX2lySVNDSlpRMU41U0pvVFU5RnhMVVY5Tmt3UzhXMjZoWlFyWmE1MVI4T0szcnFDejZNMXJ6VE1UN1RKaFJISVlKUmVDUk9hSkZXdmdnU2dVUDFETU5YMEtQZ9IBvgFBVV95cUxORnUyX1lBelQtMktKMHoybElyU1NVTEFqZ0FIb3hRNEd1X2txeTAwRmx0UWtzQUgyN3l0NHRISTdwZXlsVjQ3R0xpLWx5YjFnQm5menRfNllBLVVuSHNZcXpEUXFlT0N3dGpUbXB2WU9RX2wySk5JaTVQUENoQkpEbW1DdVd5LTl1SG1OblB4WDZaTm5oaml5c1VyOF9kb3Q4LW5ESW1XUEZnOG9RUnV6eTVoUGs1YUxqcjZfU2NR?oc=5
+- Pak Operative Sent Nudes, Air Force Officer Replied With Secret War Plans - NDTV
+  Pak Operative Sent Nudes, Air Force Officer
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dlVi1DOG0xanEwZl9Zcy03SmdxN0FtLW5KNUdoaG5VWmtXejloM0M2ekUxT1JPVF9iRVdzRlB5UWlWanpldnROUF9ib2MwRmhacG92TTgwRDhWVkRnQ2hYMnF1N2hYSzNjZ1dCUzdGWW44WDlnYVFLdkMtcDVlMFQya0liTmdDeTVOekthazZJby15dmllanQtTjlCZ1E5cXQ4UWMtWW04ZnUzY1poSGR5b9IBuwFBVV95cUxORDc4M2Q4VlJSa3h4WjJVRl9yMjFraGdrdjh3bDJmRzNXeHNGVU5malhoa0tKbVlLeS1wV3VzcHZXZkVQajVxdGZDTVhiWWVfbTNEb3E2eFhOQ19qZkk5V0tqTVAzX0hQX1daM2pkOUhsVUY4aVBKM1FsYlNwMEU4elBIOHM4THluMXNQSEpaWkRUODFheFA2X1ZZdUlITkN3N1JxSjBNVWFrVWNaWDVKczlTR3diTW1uXzlj?oc=5
 
-- Assam Accident Highlights: 24 Killed, Bus Was Running At "Very High Speed" - NDTV
-  Assam Accident Highlights: 24 Killed, Bus
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXJ2M0k1WG1xNUQtelRXSnRpdFk5WUFYRjVfaUFiR3FfX2Q3TGYtVi1FX2hMaHlPYm5NYjdad01iT3BvQ25fZEpzYWlKTDM5R1BPeXp3Y1BPMER1X21mNXZPX2EyZWtvSHc5UU41U1ROSnJoQWNTV0xOVU9zbEY4S1FQaVl2eHQtV0RQRVc4THN4VlFtSkllMjF3cDRTRlNyWmNnU1RwSlVDbzg0T1B5NE8yNi1KNU0xRmgwUGxoYm91dVdkdVR1TndNOUJfSlp2YVdsQXRlRkJJaEFl0gHkAUFVX3lxTE9mZ1RacW1oN1dBM0tCZVNkUC1DOURWNmRzY0F5d3N0WDZjQWoxcVBmNkFqTXdGMk5ZWHFFRnhGZldfeEN6SDhsNWhvNHl4MHh4eGpOcVo1S1l2YzZHQmhPcnhxSWFXMVV2Q2Z5VkRNOTViME5faHNiT3NRLUM2dWZCa2ZkbXBiUGpIYVhUMTlFODVMRUkwUjdzcE1LeTFaQUc2ZzJnOElzZm5SN1NMNGtmbzBsck1NSEpfYUZXQk42d1V5a3ZUUDRoSmNILWZXX2JyREVWNnphSGM5TkZPQ0Y0cDk4NA?oc=5
+- CJP: India’s protesters face government crackdown after summer victory - BBC
+  The BBC reports that India's
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVk1LYzgzWGhoeW5Pa28xTi0xbHlfS2tJbmhzVVBXMHpZWldIYUdhelplUVQzZXY2SjRjTTZLNndFOUJreEk1STJlQmticG1uUFNWY2pFb283MjQ?oc=5
 
-- Truck and bus collision in India's Assam kills at least 23 people - Reuters
-  Truck and bus collision in India's Assam
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjllVmVCdTJhVUpRVDg3N09uYmhXLU40ZVozbHRLY1hRQkNpakZ4NVZjWVVObnEtcmpCbXZlYmIzdTV5dTlQN2Eyb0Y4UVM4RXZkc1BiU2hfY2FFVm1aTy1IVmtBRDZwTm1Eb2dvS3dEaDBvS0ZGcGY0TGNsYV9hZ1RMY19Ncy1zbWNyQ3NLVmdWMlN3cnBiQkI0cmJaZ3pkWUUxeA?oc=5
+- India news : Modi government approves $340 million museum in Delhi - DW.com
+  India news : Modi government approves $340 million
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2JGRlgxMFl1dGFFWTBxZTZsQkNxWGo0c3ZfcllQNUtSS2t2bWdkZmQwM0lDYlhlLWYtWnh5SGVWRWVzb0VNOGdCMmFFNXJOLWVQWXhkUUYyYTl0V1Q0X21CWk52LTg5a0haRW5ZMndiaWc2RDZUSzktUDgwcmpmd0x5dzlXZDRhSGd4UjJWUkstM3YzY29oR2tnNS10N1df?oc=5
+
+- From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week
+  Post-festive cheer appears to have done little to lift India&#8217;s startup ecosystem.
+  🔗 https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/
 
 - SoftBank Offloads Meesho Shares Worth ₹1,855 Cr
   Japanese tech investor SoftBank yesterday offloaded 7.6 Cr shares of listed ecommerce giant Meesho in a block deal.
@@ -176,49 +180,45 @@
   Zelio E-Mobility’s consolidated net profit surged 164.3% to ₹31.4 Cr in the first half.
   🔗 https://inc42.com/buzz/zelio-e-mobilitys-net-profit-zooms-2-6x-yoy-to-%e2%82%b931-cr-in-h1/
 
-- Microsoft’s Outlook Outage Drags On: Indian Enterprises Are Feeling The Heat
-  For Kriti, a Gurugram-based marketing professional, Thursday&#8217;s workday came to an abrupt halt even
-  🔗 https://inc42.com/features/microsofts-outlook-outage-drags-on-indian-enterprises-are-feeling-the-heat/
+- In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors - The Hindu
+  In major breakthrough, U.S. assures India of comparative
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5
+
+- Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh | Explained - The Hindu
+  The Indian government has sanctioned fresh infrastructure along the China border in Arun
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdVFGWGV6bURteHFOd3Q1M05sQV9KWmdLaGZZelo3bk5EMl9Cc3BkY2hJUmkxdkhRREpnWW15bXBfRzRpSENmS25NUjBkZHZOQUJzZXNERmhsZHVtRWpSTThKOTBvM2pXcFEwMXVCZEpXU1hjaEZOaU8xZ0haMXBWbWZ3eHJwaHk2NU9HYTNTLTZ2NmtwcHY2RjUwdEpEbFVtUEo4VkNXa19LcHFpWmp3NTQ3aTNQYlBrSXJNWGRiQ1hwaFNtSWdfa0VlQ0lpejlSSE5ka3A1WVF3eWozei1kc2pqbHFfOHhZRjFvZS1Wc2zSAfcBQVVfeXFMT3lnekFrRllUcEs1VWVpMnk2VzVaWnl4SUtBUWJvS0NWOUJQZGN6WGpnUHUwUDVQTnZzUWxyTDNoQXZsOUVWa1Y4LUlmOHpHNmRCcS1oeGxaN2NzUmdpRmdMN2JOQXRROW4xNVh2UmFCVWg2WE05M2Z0Q3JhaTlaQ3JGcUhrTFZ1VmxEWTh4RGlNZXIzR0pKS3A1Z0FQNHRoRE9HVDF6dGdCSnVEY3RuejJkRm1zaGNaRU5yQzUzNUJzTXFXYkgySU1lUHpQakFXQ0hhUEU0M290X0pBcGpkLU5RdS1kcFFfWndQSkx4R2VUbjdDZzlnVQ?oc=5
+
+- Pak Operative Sent Nudes, Air Force Officer Replied With Secret War Plans - NDTV
+  Pak Operative Sent Nudes, Air Force Officer
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dlVi1DOG0xanEwZl9Zcy03SmdxN0FtLW5KNUdoaG5VWmtXejloM0M2ekUxT1JPVF9iRVdzRlB5UWlWanpldnROUF9ib2MwRmhacG92TTgwRDhWVkRnQ2hYMnF1N2hYSzNjZ1dCUzdGWW44WDlnYVFLdkMtcDVlMFQya0liTmdDeTVOekthazZJby15dmllanQtTjlCZ1E5cXQ4UWMtWW04ZnUzY1poSGR5b9IBuwFBVV95cUxORDc4M2Q4VlJSa3h4WjJVRl9yMjFraGdrdjh3bDJmRzNXeHNGVU5malhoa0tKbVlLeS1wV3VzcHZXZkVQajVxdGZDTVhiWWVfbTNEb3E2eFhOQ19qZkk5V0tqTVAzX0hQX1daM2pkOUhsVUY4aVBKM1FsYlNwMEU4elBIOHM4THluMXNQSEpaWkRUODFheFA2X1ZZdUlITkN3N1JxSjBNVWFrVWNaWDVKczlTR3diTW1uXzlj?oc=5
+
+- CJP: India’s protesters face government crackdown after summer victory - BBC
+  The BBC reports that India's
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVk1LYzgzWGhoeW5Pa28xTi0xbHlfS2tJbmhzVVBXMHpZWldIYUdhelplUVQzZXY2SjRjTTZLNndFOUJreEk1STJlQmticG1uUFNWY2pFb283MjQ?oc=5
+
+- India news : Modi government approves $340 million museum in Delhi - DW.com
+  India news : Modi government approves $340 million
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2JGRlgxMFl1dGFFWTBxZTZsQkNxWGo0c3ZfcllQNUtSS2t2bWdkZmQwM0lDYlhlLWYtWnh5SGVWRWVzb0VNOGdCMmFFNXJOLWVQWXhkUUYyYTl0V1Q0X21CWk52LTg5a0haRW5ZMndiaWc2RDZUSzktUDgwcmpmd0x5dzlXZDRhSGd4UjJWUkstM3YzY29oR2tnNS10N1df?oc=5
 
 - In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors - The Hindu
   In major breakthrough, U.S. assures India of comparative
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5
 
-- PM Modi will discuss various ways to further strengthen INDIA-ASEAN ties during Manila visit: MEA - News On AIR
-  PM Modi will discuss various ways to further strengthen INDIA-ASEAN ties
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNam40VTR2el9DS25heUdWcGxxQk5uMDRfSEphbXZuMU05Y0pPYTQ0SmdfQy1vcERxdDFLTzl2VTFrdzR6RGVjQUdfaGxQbVBQMjVGZ180ZnZlbXF0eWJ4emdTckU3V3NYMnk3OXYtU05IbGJyQnp0djdOR0hNYWoycG5KX0xVaFhiY0pTRlJMT2dFRzNFX1BfN1A4UmwwdXZ6c1ZVU2JHa2U5blJMSE5HQU04QUdoMUlXLUZVZEhJNA?oc=5
+- Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh | Explained - The Hindu
+  The Indian government has sanctioned fresh infrastructure along the China border in Arun
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdVFGWGV6bURteHFOd3Q1M05sQV9KWmdLaGZZelo3bk5EMl9Cc3BkY2hJUmkxdkhRREpnWW15bXBfRzRpSENmS25NUjBkZHZOQUJzZXNERmhsZHVtRWpSTThKOTBvM2pXcFEwMXVCZEpXU1hjaEZOaU8xZ0haMXBWbWZ3eHJwaHk2NU9HYTNTLTZ2NmtwcHY2RjUwdEpEbFVtUEo4VkNXa19LcHFpWmp3NTQ3aTNQYlBrSXJNWGRiQ1hwaFNtSWdfa0VlQ0lpejlSSE5ka3A1WVF3eWozei1kc2pqbHFfOHhZRjFvZS1Wc2zSAfcBQVVfeXFMT3lnekFrRllUcEs1VWVpMnk2VzVaWnl4SUtBUWJvS0NWOUJQZGN6WGpnUHUwUDVQTnZzUWxyTDNoQXZsOUVWa1Y4LUlmOHpHNmRCcS1oeGxaN2NzUmdpRmdMN2JOQXRROW4xNVh2UmFCVWg2WE05M2Z0Q3JhaTlaQ3JGcUhrTFZ1VmxEWTh4RGlNZXIzR0pKS3A1Z0FQNHRoRE9HVDF6dGdCSnVEY3RuejJkRm1zaGNaRU5yQzUzNUJzTXFXYkgySU1lUHpQakFXQ0hhUEU0M290X0pBcGpkLU5RdS1kcFFfWndQSkx4R2VUbjdDZzlnVQ?oc=5
 
-- 24 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga - NDTV
-  24 killed, several Injured In Truck
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzVFd3YzTHRIdVNJYW11QVFnV0JOVUZib1FLNFRiNmhrX0Uya3h1SERlZ1lEWXBHMTFrVUNTc0ptWWFob3JKdlNGSjRrMGFFSDVGUUVWTEttMnhNX2lySVNDSlpRMU41U0pvVFU5RnhMVVY5Tmt3UzhXMjZoWlFyWmE1MVI4T0szcnFDejZNMXJ6VE1UN1RKaFJISVlKUmVDUk9hSkZXdmdnU2dVUDFETU5YMEtQZ9IBvgFBVV95cUxORnUyX1lBelQtMktKMHoybElyU1NVTEFqZ0FIb3hRNEd1X2txeTAwRmx0UWtzQUgyN3l0NHRISTdwZXlsVjQ3R0xpLWx5YjFnQm5menRfNllBLVVuSHNZcXpEUXFlT0N3dGpUbXB2WU9RX2wySk5JaTVQUENoQkpEbW1DdVd5LTl1SG1OblB4WDZaTm5oaml5c1VyOF9kb3Q4LW5ESW1XUEZnOG9RUnV6eTVoUGs1YUxqcjZfU2NR?oc=5
+- Pak Operative Sent Nudes, Air Force Officer Replied With Secret War Plans - NDTV
+  Pak Operative Sent Nudes, Air Force Officer
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dlVi1DOG0xanEwZl9Zcy03SmdxN0FtLW5KNUdoaG5VWmtXejloM0M2ekUxT1JPVF9iRVdzRlB5UWlWanpldnROUF9ib2MwRmhacG92TTgwRDhWVkRnQ2hYMnF1N2hYSzNjZ1dCUzdGWW44WDlnYVFLdkMtcDVlMFQya0liTmdDeTVOekthazZJby15dmllanQtTjlCZ1E5cXQ4UWMtWW04ZnUzY1poSGR5b9IBuwFBVV95cUxORDc4M2Q4VlJSa3h4WjJVRl9yMjFraGdrdjh3bDJmRzNXeHNGVU5malhoa0tKbVlLeS1wV3VzcHZXZkVQajVxdGZDTVhiWWVfbTNEb3E2eFhOQ19qZkk5V0tqTVAzX0hQX1daM2pkOUhsVUY4aVBKM1FsYlNwMEU4elBIOHM4THluMXNQSEpaWkRUODFheFA2X1ZZdUlITkN3N1JxSjBNVWFrVWNaWDVKczlTR3diTW1uXzlj?oc=5
 
-- Assam Accident Highlights: 24 Killed, Bus Was Running At "Very High Speed" - NDTV
-  Assam Accident Highlights: 24 Killed, Bus
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXJ2M0k1WG1xNUQtelRXSnRpdFk5WUFYRjVfaUFiR3FfX2Q3TGYtVi1FX2hMaHlPYm5NYjdad01iT3BvQ25fZEpzYWlKTDM5R1BPeXp3Y1BPMER1X21mNXZPX2EyZWtvSHc5UU41U1ROSnJoQWNTV0xOVU9zbEY4S1FQaVl2eHQtV0RQRVc4THN4VlFtSkllMjF3cDRTRlNyWmNnU1RwSlVDbzg0T1B5NE8yNi1KNU0xRmgwUGxoYm91dVdkdVR1TndNOUJfSlp2YVdsQXRlRkJJaEFl0gHkAUFVX3lxTE9mZ1RacW1oN1dBM0tCZVNkUC1DOURWNmRzY0F5d3N0WDZjQWoxcVBmNkFqTXdGMk5ZWHFFRnhGZldfeEN6SDhsNWhvNHl4MHh4eGpOcVo1S1l2YzZHQmhPcnhxSWFXMVV2Q2Z5VkRNOTViME5faHNiT3NRLUM2dWZCa2ZkbXBiUGpIYVhUMTlFODVMRUkwUjdzcE1LeTFaQUc2ZzJnOElzZm5SN1NMNGtmbzBsck1NSEpfYUZXQk42d1V5a3ZUUDRoSmNILWZXX2JyREVWNnphSGM5TkZPQ0Y0cDk4NA?oc=5
+- CJP: India’s protesters face government crackdown after summer victory - BBC
+  The BBC reports that India's
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVk1LYzgzWGhoeW5Pa28xTi0xbHlfS2tJbmhzVVBXMHpZWldIYUdhelplUVQzZXY2SjRjTTZLNndFOUJreEk1STJlQmticG1uUFNWY2pFb283MjQ?oc=5
 
-- Truck and bus collision in India's Assam kills at least 23 people - Reuters
-  Truck and bus collision in India's Assam
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjllVmVCdTJhVUpRVDg3N09uYmhXLU40ZVozbHRLY1hRQkNpakZ4NVZjWVVObnEtcmpCbXZlYmIzdTV5dTlQN2Eyb0Y4UVM4RXZkc1BiU2hfY2FFVm1aTy1IVmtBRDZwTm1Eb2dvS3dEaDBvS0ZGcGY0TGNsYV9hZ1RMY19Ncy1zbWNyQ3NLVmdWMlN3cnBiQkI0cmJaZ3pkWUUxeA?oc=5
-
-- In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors - The Hindu
-  In major breakthrough, U.S. assures India of comparative
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5
-
-- PM Modi will discuss various ways to further strengthen INDIA-ASEAN ties during Manila visit: MEA - News On AIR
-  PM Modi will discuss various ways to further strengthen INDIA-ASEAN ties
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNam40VTR2el9DS25heUdWcGxxQk5uMDRfSEphbXZuMU05Y0pPYTQ0SmdfQy1vcERxdDFLTzl2VTFrdzR6RGVjQUdfaGxQbVBQMjVGZ180ZnZlbXF0eWJ4emdTckU3V3NYMnk3OXYtU05IbGJyQnp0djdOR0hNYWoycG5KX0xVaFhiY0pTRlJMT2dFRzNFX1BfN1A4UmwwdXZ6c1ZVU2JHa2U5blJMSE5HQU04QUdoMUlXLUZVZEhJNA?oc=5
-
-- 24 Killed, Several Injured In Truck-Bus Collision In Assam's Kaziranga - NDTV
-  24 killed, several Injured In Truck
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzVFd3YzTHRIdVNJYW11QVFnV0JOVUZib1FLNFRiNmhrX0Uya3h1SERlZ1lEWXBHMTFrVUNTc0ptWWFob3JKdlNGSjRrMGFFSDVGUUVWTEttMnhNX2lySVNDSlpRMU41U0pvVFU5RnhMVVY5Tmt3UzhXMjZoWlFyWmE1MVI4T0szcnFDejZNMXJ6VE1UN1RKaFJISVlKUmVDUk9hSkZXdmdnU2dVUDFETU5YMEtQZ9IBvgFBVV95cUxORnUyX1lBelQtMktKMHoybElyU1NVTEFqZ0FIb3hRNEd1X2txeTAwRmx0UWtzQUgyN3l0NHRISTdwZXlsVjQ3R0xpLWx5YjFnQm5menRfNllBLVVuSHNZcXpEUXFlT0N3dGpUbXB2WU9RX2wySk5JaTVQUENoQkpEbW1DdVd5LTl1SG1OblB4WDZaTm5oaml5c1VyOF9kb3Q4LW5ESW1XUEZnOG9RUnV6eTVoUGs1YUxqcjZfU2NR?oc=5
-
-- Assam Accident Highlights: 24 Killed, Bus Was Running At "Very High Speed" - NDTV
-  Assam Accident Highlights: 24 Killed, Bus
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXJ2M0k1WG1xNUQtelRXSnRpdFk5WUFYRjVfaUFiR3FfX2Q3TGYtVi1FX2hMaHlPYm5NYjdad01iT3BvQ25fZEpzYWlKTDM5R1BPeXp3Y1BPMER1X21mNXZPX2EyZWtvSHc5UU41U1ROSnJoQWNTV0xOVU9zbEY4S1FQaVl2eHQtV0RQRVc4THN4VlFtSkllMjF3cDRTRlNyWmNnU1RwSlVDbzg0T1B5NE8yNi1KNU0xRmgwUGxoYm91dVdkdVR1TndNOUJfSlp2YVdsQXRlRkJJaEFl0gHkAUFVX3lxTE9mZ1RacW1oN1dBM0tCZVNkUC1DOURWNmRzY0F5d3N0WDZjQWoxcVBmNkFqTXdGMk5ZWHFFRnhGZldfeEN6SDhsNWhvNHl4MHh4eGpOcVo1S1l2YzZHQmhPcnhxSWFXMVV2Q2Z5VkRNOTViME5faHNiT3NRLUM2dWZCa2ZkbXBiUGpIYVhUMTlFODVMRUkwUjdzcE1LeTFaQUc2ZzJnOElzZm5SN1NMNGtmbzBsck1NSEpfYUZXQk42d1V5a3ZUUDRoSmNILWZXX2JyREVWNnphSGM5TkZPQ0Y0cDk4NA?oc=5
-
-- Truck and bus collision in India's Assam kills at least 23 people - Reuters
-  Truck and bus collision in India's Assam
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjllVmVCdTJhVUpRVDg3N09uYmhXLU40ZVozbHRLY1hRQkNpakZ4NVZjWVVObnEtcmpCbXZlYmIzdTV5dTlQN2Eyb0Y4UVM4RXZkc1BiU2hfY2FFVm1aTy1IVmtBRDZwTm1Eb2dvS3dEaDBvS0ZGcGY0TGNsYV9hZ1RMY19Ncy1zbWNyQ3NLVmdWMlN3cnBiQkI0cmJaZ3pkWUUxeA?oc=5
+- India news : Modi government approves $340 million museum in Delhi - DW.com
+  India news : Modi government approves $340 million
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2JGRlgxMFl1dGFFWTBxZTZsQkNxWGo0c3ZfcllQNUtSS2t2bWdkZmQwM0lDYlhlLWYtWnh5SGVWRWVzb0VNOGdCMmFFNXJOLWVQWXhkUUYyYTl0V1Q0X21CWk52LTg5a0haRW5ZMndiaWc2RDZUSzktUDgwcmpmd0x5dzlXZDRhSGd4UjJWUkstM3YzY29oR2tnNS10N1df?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-13 23:11:56 UTC_
+_Last updated: 2026-11-14 04:37:23 UTC_
