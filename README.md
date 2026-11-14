@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors - The Hindu
-  In major breakthrough, U.S. assures India of comparative
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5
+- Pakistani Minister to visit India for the first time in three years, as SCO meets - The Hindu
+  Pakistani Minister to visit India for the first time in three years.
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjJGU1hzUDJZZVVwM3JULUc2U1NCNVZCSVBZU0xtYVQwRm5TZGRxVGt1cTl3Z3BGelRieHlxWDB1eEEyN3RETVk5VGxVNWtBRHFnRTNGRW9qVGlxb3BYMFJlLThWMTE3SU5uazFBaGFKdzJLS1Bnek81S3RpWC1tT2dGd1JBRlJUZ3BrSmppdGdTMVYtTWVSY050UkU1MmxJb3gyZGxmY191emhpeXdUTDNMNTFaZzc5MF9vbl9uY9IBxgFBVV95cUxPQXQ3T0ZlS0dHRktiZVFjN3JNSk01Ui1ZWlpvZ1o0UWVGRFdqMnlVV09GUmJkcndQZk9fODE2YVdNelhqREU0YVdSZnBhRFAxX2oya2pieUJFLU1CWVpjeTdlOE11cWFoT1g3Q1I5RkZHYzBlMjNrTHpVemxkdHNYN0l6Q3lVMGJjUzlTUkdTYUxaRXBOWFlIbHViTmx2N1VZeWpJbWlCTWRwaG9VWEY0ZGdXbjFJb0p4LWQwZThXdEhpazVUWkE?oc=5
 
-- Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh | Explained - The Hindu
-  The Indian government has sanctioned fresh infrastructure along the China border in Arun
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdVFGWGV6bURteHFOd3Q1M05sQV9KWmdLaGZZelo3bk5EMl9Cc3BkY2hJUmkxdkhRREpnWW15bXBfRzRpSENmS25NUjBkZHZOQUJzZXNERmhsZHVtRWpSTThKOTBvM2pXcFEwMXVCZEpXU1hjaEZOaU8xZ0haMXBWbWZ3eHJwaHk2NU9HYTNTLTZ2NmtwcHY2RjUwdEpEbFVtUEo4VkNXa19LcHFpWmp3NTQ3aTNQYlBrSXJNWGRiQ1hwaFNtSWdfa0VlQ0lpejlSSE5ka3A1WVF3eWozei1kc2pqbHFfOHhZRjFvZS1Wc2zSAfcBQVVfeXFMT3lnekFrRllUcEs1VWVpMnk2VzVaWnl4SUtBUWJvS0NWOUJQZGN6WGpnUHUwUDVQTnZzUWxyTDNoQXZsOUVWa1Y4LUlmOHpHNmRCcS1oeGxaN2NzUmdpRmdMN2JOQXRROW4xNVh2UmFCVWg2WE05M2Z0Q3JhaTlaQ3JGcUhrTFZ1VmxEWTh4RGlNZXIzR0pKS3A1Z0FQNHRoRE9HVDF6dGdCSnVEY3RuejJkRm1zaGNaRU5yQzUzNUJzTXFXYkgySU1lUHpQakFXQ0hhUEU0M290X0pBcGpkLU5RdS1kcFFfWndQSkx4R2VUbjdDZzlnVQ?oc=5
+- Pakistani Minister To Make Rare India Visit, First Visit Since Op Sindoor - NDTV
+  Pakistani Minister To Make Rare India Visit, First
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXNYOG00NklTd0xaMWdhaE80RklNSjItLW1FRU1WYVNKMEdYZFU2VG41ajNlejdYOVRWa3FnSGZSb3E0Y1VlQnhETUx1WHREUmtFNUJPai1GUDhSU2F2cVZJdXFqRVZJNUFrTjBwX3ZZR3N2dkQweDVqZklvQmU1V3JxbWtpdnFlbmQtSzFPVEdFSUZQRl9OTGRkR1hKSDFtTi1INlUyRkItOVB0RTYyOWdUWdIBuwFBVV95cUxQX0VmMGRLVDFodzV2UTlXem5RLTJIaG5laHlrTWVTS09TM252TzIxdzhZbTZDN1JleHdEQTVqR3NqaDU4UEhtXzM3ZjE3d19FTndkQS04VVVta2ZKQUxnOGpLQUJIV1VCQzFGRUpuX0hLbGxCNDZRNk5FcG5oZUg5NUZiWEY5Ql8tdWpfaTh3VUhYakJESmh5S1dqZU50b1pQdjYxZk9xb0dodm5TcXVkdHNGdHl1RDB2bkhV?oc=5
 
-- Pak Operative Sent Nudes, Air Force Officer Replied With Secret War Plans - NDTV
-  Pak Operative Sent Nudes, Air Force Officer
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dlVi1DOG0xanEwZl9Zcy03SmdxN0FtLW5KNUdoaG5VWmtXejloM0M2ekUxT1JPVF9iRVdzRlB5UWlWanpldnROUF9ib2MwRmhacG92TTgwRDhWVkRnQ2hYMnF1N2hYSzNjZ1dCUzdGWW44WDlnYVFLdkMtcDVlMFQya0liTmdDeTVOekthazZJby15dmllanQtTjlCZ1E5cXQ4UWMtWW04ZnUzY1poSGR5b9IBuwFBVV95cUxORDc4M2Q4VlJSa3h4WjJVRl9yMjFraGdrdjh3bDJmRzNXeHNGVU5malhoa0tKbVlLeS1wV3VzcHZXZkVQajVxdGZDTVhiWWVfbTNEb3E2eFhOQ19qZkk5V0tqTVAzX0hQX1daM2pkOUhsVUY4aVBKM1FsYlNwMEU4elBIOHM4THluMXNQSEpaWkRUODFheFA2X1ZZdUlITkN3N1JxSjBNVWFrVWNaWDVKczlTR3diTW1uXzlj?oc=5
+- Pakistan minister to attend Delhi SCO meet, Islamabad announces - The Indian Express
+  Pakistan minister to attend Delhi SCO meet,
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGJoYUROTEVfa2lRWGRvcmNqZ2xaZzdfMTNBMTYwRWF2TGtaZHVwdHJTRkphaUNPaHBrUFExRG05Zm1uNjItUWtnYTgySi1LcjVvcUk1eTRQa0E0c0hrSUZtUW5nSjVRbzV5Nld2bFk1LTlmWVpHT1JDN3dtRkVLRE5YQngtQzBENUdXX0pPSlBHWU1BRDB2M3VrMDIwR2MyQ0syMHFPOEl4WlJ2WnfSAbQBQVVfeXFMT2tMNHppcjU3UWFvSnRXcVI2SHhMdkhmUEhaa1V5TEhFLWNzYUs0aEdsTy16M1VmQ3NHWnBvWUJreWtrOFhjM050V2twVG5aUjFKeGJLU1Z5V2NRdjRDRmZZbm1FSHpobVhJSno0UjVoQlFEVzZoby1hdEdIS1lTQlN3dUNDQTVHcEdyOUFfbEJoa2JpeFFrQzRleTJyaVN3T1l6Y1ZNMEh0Um04UFJDbjIzSjJH?oc=5
 
-- CJP: India’s protesters face government crackdown after summer victory - BBC
-  The BBC reports that India's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVk1LYzgzWGhoeW5Pa28xTi0xbHlfS2tJbmhzVVBXMHpZWldIYUdhelplUVQzZXY2SjRjTTZLNndFOUJreEk1STJlQmticG1uUFNWY2pFb283MjQ?oc=5
+- Railways approve weekly train service between Nepal and India for convenience of pilgrims & tourists - News On AIR
+  Railways approve weekly train service between Nepal and India for convenience of pilgrims &
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ05DakhVZkUycnRkQXRMdTlYWUZMQUR4VDFKNzBwR1paa0lVaG56U1BNSzBZams3cXRSeU9nbmw0dERPMV8tU01CQ01BV2NZS1V5U1JoWFRuSnBYX2hWXzFDMEk4TVljMElqbDZuOUo1N2hmUTJ6dlA0SERObUFjR003WEdFV29DMGxyWndPT0lJNVBJREpYYXEtMUY0d09WRVhDUEM2ZlJoRF9LTmh5WHdZMXZtMVpkcmZfOHJtVXdfQQ?oc=5
 
-- India news : Modi government approves $340 million museum in Delhi - DW.com
-  India news : Modi government approves $340 million
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2JGRlgxMFl1dGFFWTBxZTZsQkNxWGo0c3ZfcllQNUtSS2t2bWdkZmQwM0lDYlhlLWYtWnh5SGVWRWVzb0VNOGdCMmFFNXJOLWVQWXhkUUYyYTl0V1Q0X21CWk52LTg5a0haRW5ZMndiaWc2RDZUSzktUDgwcmpmd0x5dzlXZDRhSGd4UjJWUkstM3YzY29oR2tnNS10N1df?oc=5
+- Sooryavanshi becomes youngest captain in men's T20 history - Cricinfo
+  Sooryavanshi becomes
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0UySHVNQ1Q0alBkM0dlenBwLWZrSmtGamF5TThLQjhkSGpKdHphQXRTcmw1YlpLZWswZk85Z3VxOTNOYWFKSnJULTJpczZGdEpTNVJYR3QyUUVrcWIzd29sTHlfUWg5QWc5YnJXS3pjenhPUTNLdFJKTHJrR3FCdm5HTWdzV0NyQmUzcXRwY2dVa2syQjR4SnRQYXoxUElnRWprbEU3WGViZzRUeEZaVUI2OHByUjNlOGs5Um5NVkhTZFpJZEUxQWdWT2NXU3M0aGVCeGYySi1SQ3VKMjJWQjhjMNIB9AFBVV95cUxOeE15NWlQRjFSYzg0OWNaNF9tQktVNEMyQ2lUWmU2UWpHak9KaTU0ZGxYcWswRkFDWlhtUWNFN19nWDhwNi1nOHNvSGpNUTVjR1ZsQ1JNM0NjYWF5OEpuMEg4ZTd5dGpCRlJjMzl3bGhibDlYeUpGbUJqelNKWUwtSHhKWUJuSFZMQVFiV2JUblNVZklQTkJPLVh2Yk5KWlRkQXV1S0lUeWt0TzlBZ09GUnlKbUdJSFdDU2FNLUl2aWd3eTU0UEdjWEFESC1nZ2p1eEwwYjFqa09ZVmljQ1p0REtnZ3NYeGFVZ05XVmYtOHJ3VElG?oc=5
 
 - FAA investigating whether new AI technology contributed to nationwide ground stop - Click2Houston
   FAA investigating whether new AI technology contributed to
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWtSN25JZ3FqRk1BTEdGZDR2SHc2RkdsTEhBMmdQUThHcVYwTUhseVFxSG44TVlCZ2xVLUtyejFFbkJWTlZCMm92QzZIb2p1aU5hQVVmakIxZjZNZy1jaDNUbWxVQ2kwZ2NiR2tjeW4ydmYxazZlM3dBRFcyQ1pDSnliSmRFVGk1WUt3czBuTWFlRlZiTG5NSXBRSldyQVFJazFUVXdlOXdsV3ZqSk9ZVUI0V2NxRVc0TkEtRjFDLXU4Vm9WUEVFZDVBUktEREk?oc=5
 
-- Microsoft hit by global outages: What happened and why? - Al Jazeera
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQWjVxekloSTY2Vk40dklXNGxvOEZTRHVzQkhVR09RSmpNZGh2N1VlVUNZWExEMHFST1NNaFNMcG5EcGdaUFpWOThUTWVIeUREZEM5SnlKSVhWdkhpSmZOVVJMZ29ZUFg4XzhMTnZwMlN0TnJHYjRCY09nWkRNeGtaejVwcmdmeVZsRmZVcWoycXpaekw2RTE3MjhrMNIBoAFBVV95cUxQM0VPbjVzS3FnNy1MQzZFRXRQSGRuSEFKQkFoTjVtR3JoN081aDhIdy1YVVl2VlZQbFVQNGw2NGFPUzY1bEdIaks2WXNZbk45Y2hrdXhFaXBIQzFGbF9fdkJTOHRIaE1MbUg4S2FHOWpQQmhpTzk5dnlvbG0ySXZaTTNzV1ZheUFlR1cwX05wM21DN2xUWllZVTczZ3M0cTI4?oc=5
+- Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems - The Hindu
+  The Hindu reports that Microsoft has restored services across all affected systems.
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVGZkLU9MYkhicXVFMHdaejZkTmVhLXpUVFVicURrM014NEQ0OTZITDVwaFFYeXA4S2xKTU1Xdy1QUkZSdVYtenRHcW5oOTR5ZVVveF90R05BTEFHanNSMFBIMlFCR3JHSkVDSnVIalJLZEFwakVsWHdibHZ3czNaZ2I3YlgyWndBaHRxak1EY0RjSlEteUZSMW9mcHZCZDZkbF9nc3JsTlo4bVR0WXhvc2hHNDJiU2JwODBtbHdPc2dlV2FhRGwzcUNHQ2R6akFQWndYdzQxeFlCel9abzVybDRKTQ?oc=5
 
 - Microsoft outage 'stark reminder' of how much we rely on tech - BBC
   Microsoft outage 'stark reminder' of how
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zYnBpVjNrcnhaTFU5TzNwSUc4UEw0TTRwS2ttcDVIM2hnTy1tcmQ5RlZvZ1ZCSkhCUlR1cFM3TVJNbGJxOGUzN2d4V3RRSTI5bTFWY2x6VVRZcmc?oc=5
 
-- Microsoft Outage Shows The Risks Of Relying On A Single Technology Provider For Essential Services - HuffPost
-  Microsoft Outage Shows The Risks Of Relying On A Single
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE01d0p5eHYxZURfWDZqNUZIZW9qOTZZUGtPOVlmM0lxWkRxLVF1VDU0ajdjMnhfbjQ5V1RRSEhtYzZ6dVlPU3RnQkhvT0lJR0Vkc0owNHhOcW9ScnpDY1lnSk5oTXNicEpUVEY4Wi03M25GcHUzbS0ydGc3eUtxcknSAYQBQVVfeXFMTzE0bjVpYVFZWnVlNDRPTFRhYVpCNktwNl9CME5xVFBoS2IxbDhYQW9TQmJQNDNaQ1NzdjVQTG1oOEw1d1pKM245a01adkpRLWUxRU9UR05LS252NlV3UHEwWk45R0NpYVdwUzlidWM2S3FOSG5xWkd3LWwtSHVVbEJQZmRr?oc=5
+- Microsoft says affected services fully recovered following worldwide outage - Al Jazeera
+  Microsoft says affected services fully recovered following worldwide
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNUkkzQUdNMERlTGtQbHRtanQ2U1hqT1RaMzljTEtiZXc3d0tTaVI0QkZ0aHdzcTRvc1hrTkZWUDhtblllVXB0eVBNemFKVFNUb1l1QnF1bFd6NVBKdzNMNkYxNmh6dW5QY0FJTWpWemJzRUFYeEFacnlxeDRmcV8xSkVyN0UxWUpPSWJrWEVGR0FsQXEwazZBSTdjSDRoaDQxWXVzem1Pb9IBrAFBVV95cUxNOWhmdXA5czZYZkRsbjVJc1FOVkNiU2hCZVU5ak9QX29WQ2Z1ODRuMkRNdnlCTm54Q1FLYUpZblY1ekJmRzhYU3Y0amcwenJnQzdCajBOcGNxR2NNOHBVRDNFMnYyM2c5dGJkSHN2MUxTTzVjY1JGemdHRHJlNm1oalU3NDNOUjZIeGEwbEJNQkd4T29XOEFnbnhrbzkxTndyWjZfVjBaaFU2blVT?oc=5
 
-- Nvidia scandal: What’s next for the US tech company? - Al Jazeera
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPMW1FaTlaLXMwLUFWN2lxU202ZW9veTlQd1dCbF9KYlBnMWlTT0Y3Zi1BaFowMU9YT1h0M2JGd0xxM1l3dm9rS2otT1hpa0pwR0xjY1AxMTBld1pXcmFsMTl6UFJVV0VtYWk4bmNva3E1dlVLcVhlOWVlUy1aR3lKVUwwZm1LS0h3aEtEc1dHX3RxRERzaHfSAZsBQVVfeXFMTUdEVDRnMzVUQi1YdWl5V0MxcHVlM2pldTZrVTA2X2xzX2hhNEpaVnVlWlE0M29fSHU2Wm1EMjVBZ01LdlhJaThHV0JPcTVldEd5UFg2c1AtdlhIVVBCNF9ZVEpqaEhsOFc0cE80c216Yk9UWFVmbDFCV3ZiRURGUnFvOC10T21iZFhMS2dvc3BDVFE0Vl9fRGsxb2M?oc=5
+- PM Modi says India moving towards global leadership in emerging technologies - News On AIR
+  PM Modi says India moving towards global leadership in emerging technologies
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3pXUHJDcEFLZEJoc2ZFSjRNTGpLQmJqZHVmdDFYT3pjQzZXS3VjNm1BaThzWmk2R1M3TkZ2bk1zVi1wSWkwd3NDZDVlOHhNcEZIYkNHSTA4SGltT3pnWXZjQmFoV2NmY2NkOERLTGg4a2ZhY2tBcm9tc3NmUlBLbjhiQXp6OXJhUlZGYm5RbzlwaTBuZGp1c2trV3dnS2lsWnpDSw?oc=5
 
-- Reliance plans  ₹43,000-crore coal-to-gas plant in Andhra Pradesh, could generate 40,000 jobs: What we know
-  Reliance Industries plans to invest  ₹43,000 crore in a coal-to-gas plant in Andhra Pradesh. The
-  🔗 https://www.livemint.com/companies/news/reliance-plans-rs-43-000-crore-coal-to-gas-plant-in-andhra-pradesh-could-generate-40-000-jobs-what-we-know-11794627790422.html
+- Astrotalk removed from Apple App Store? Company clarifies reason, updates on when app can be back
+  Astrotalk application has been delisted from Apple App Store since November 4. The company has
+  🔗 https://www.livemint.com/companies/astrotalk-removed-from-apple-app-store-company-clarifies-reason-updates-on-when-app-can-be-back-11794657031626.html
 
-- Swiggy, Zepto, Eternal rivals on same board: What govt's new gig worker welfare panel means
-  Swiggy, Zepto and Eternal will come together on a government panel to recommend welfare measures for gig workers. The move could also add to aggregator costs under
-  🔗 https://www.livemint.com/companies/news/swiggy-zepto-eternal-rivals-on-same-board-what-govts-new-gig-worker-welfare-panel-means-11794626752228.html
+- Tata Sons listing row: Why Tata Trusts vice-chairmen are defending their RBI outreach
+  Tata Sons is a publicly-held Indian conglomerate. Tata Sons is one of
+  🔗 https://www.livemint.com/companies/news/tata-sons-listing-row-why-tata-trusts-vice-chairmen-are-defending-their-rbi-outreach-11794654193889.html
 
-- China's BYD clears import hurdle, looks to accelerate India push
-  Homologation removes the 2,500-unit import restriction on three models. Chinese carmaker more room to scale
-  🔗 https://www.livemint.com/companies/news/chinas-byd-clears-import-hurdle-looks-to-accelerate-india-push-11794562283540.html
+- Who is Y Suresh Kumar? Indian Army veteran joins CoSarathi.ai as co-founder; what will his role be?
+  Y. Suresh Kumar, a former Indian Army officer with 21 years of service, has joined AI startup CoSarathi.ai as co-founder and Chief Marketing and Operating Officer
+  🔗 https://www.livemint.com/companies/people/who-is-y-suresh-kumar-indian-army-veteran-joins-cosarathi-ai-as-co-founder-what-will-his-role-be-11794656342662.html
 
-- Mars bets on India as a top-five growth market, targets $1.2 billion-plus revenue by 2030
-  The pet-care and snacking giant is expanding manufacturing and investing in technology capabilities. It looks to tap India's
-  🔗 https://www.livemint.com/companies/news/mars-bets-on-india-as-top-five-growth-market-targets-1-2-billion-plus-revenue-dog-cat-food-vet-services-snacks-11794548363309.html
+- Who is Rene Haas? Arm CEO emerges as potential Nvidia chief after Jensen Huang’s exit; what makes him a frontrunner?
+  N Nvidia reportedly approaches Arm CEO Rene Haas as potential successor. Haas is a former Nvidia executive and brings deep knowledge of the chipmaker.
+  🔗 https://www.livemint.com/companies/people/who-is-rene-haas-arm-ceo-emerges-as-potential-nvidia-chief-after-jensen-huang-s-exit-what-makes-him-a-frontrunner-11794652190506.html
 
-- SpaceX aims for first double catch of Starship in its most ambitious test flight yet
-  SpaceX aims for first double catch of Starship in
-  🔗 https://www.livemint.com/companies/spacex-aims-for-first-double-catch-of-starship-in-its-most-ambitious-test-flight-yet-11794598250576.html
+- Nvidia CEO race: Could Jensen Huang's children succeed him? Full list of potential contenders
+  Several names have emerged as possible contenders. Nvidia's Chief Financial Officer Colette Kress, data centre head Ian Buck and leaders
+  🔗 https://www.livemint.com/companies/news/nvidia-ceo-race-could-jensen-huangs-children-succeed-him-full-list-of-potential-contenders-11794652643571.html
 
-- ₹150 Dividend Alert! Record date next week of Jockey firm for biggest payout declared in Q2 - check key dates, history
-  Page Industries declared a second FY27 interim dividend of  ₹150 per share. November 18, 2026, is the record date, with payment due by December 11. Q2 net profit rose 4% to 
-  🔗 https://www.livemint.com/market/stock-market-news/rs-150-dividend-alert-record-date-next-week-of-jockey-firm-for-biggest-payout-declared-in-q2-check-key-dates-history-11794628701443.html
+- NVIDIA shareholder Leo KoGuan backs Jensen Huang! Explains why he will not add more stake in flagship AI stock
+  Leo KoGuan plans to reduce his Nvidia investment while continuing to support Jensen Huang, whom he hopes to back in a future superintelligence venture.KoGuan says
+  🔗 https://www.livemint.com/market/stock-market-news/nvidia-shareholder-leo-koguan-backs-jensen-huang-explains-why-he-will-not-add-more-stake-in-flagship-ai-stock-11794652278596.html
 
-- Ramayana effect? Prime Focus Q2 results: Revenue rises to  ₹1,410.17 crore; PAT climbs to  ₹91.04 crore from  ₹5.8 crore
-  Prime Focus reported Q2 FY27 net profit of  ⁹58.27 crore, up from  ₹4.06 crore a year earlier. Revenue rose 35.2% to   �
-  🔗 https://www.livemint.com/market/ramayana-effect-prime-focus-q2-results-revenue-rises-to-1-410-17-crore-pat-climbs-to-91-04-crore-from-5-8-crore-11794627104139.html
+- Microsoft shares defy massive global outage, close higher on Friday; Outlook, Teams services recover - Things to know
+  Microsoft restored Outlook, Teams, Copilot and other Microsoft 365 services after a global outage lasting more than 24 hours. Microsoft ruled out a cyberattack; its
+  🔗 https://www.livemint.com/market/stock-market-news/microsoft-shares-defy-massive-global-outage-close-higher-on-friday-outlook-teams-services-recover-things-to-know-11794647299206.html
 
-- Top 3 stocks to buy: Bharti Airtel, Bajaj Finance, Nestle by Sumeet Bagadia | Targets, stop-loss, market prediction
-  The Nifty 50 index may witness further consolidation after its sharp rally
-  🔗 https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-bharti-airtel-bajaj-finance-nestle-by-sumeet-bagadia-targets-stop-loss-market-prediction-11794622858676.html
+- Tata Sons Listing: Noel Tata decodes why there should be no tinkering; what he said at Hindustan Times Leadership Summit
+  Noel Tata warned that listing Tata Sons could shift the group’s priorities toward shareholder returns and away from philanthropy. He said Tata Trusts would work with regulators and stakeholders to
+  🔗 https://www.livemint.com/market/stock-market-news/tata-sons-listing-noel-tata-decodes-why-there-should-be-no-tinkering-what-he-said-at-hindustan-times-leadership-summit-11794643211510.html
 
-- Three fast-growing water infra stocks
-  India's growing demand for water treatment and wastewater management is creating opportunities for infrastructure companies. Here are three stocks to
-  🔗 https://www.livemint.com/market/stock-market-news/three-fast-growing-water-infra-stocks-11794577248207.html
+- Dividend stock to buy: TD Power shares rally 369% in 3 years, more upside ahead? Check target price before record date
+   TD Power Systems will be in focus ahead of its November 18 dividend record date. Strong Q2 results, a robust order book and upgraded guidance have supported the stock. SBI Securities rates Buy with a  �
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-stock-to-buy-td-power-shares-rally-369-in-3-years-more-upside-ahead-check-target-price-before-record-date-11794648803654.html
 
-- Wall St slides as Nvidia uncertainty drags tech shares lower
-  Wall St slides as Nvidia uncertainty drags tech
-  🔗 https://www.livemint.com/market/wall-st-slides-as-nvidia-uncertainty-drags-tech-shares-lower-11794599915160.html
+- Upcoming dividend, stock split, buyback record date next week, 16-20 Nov: MRF, SCI, PFC, Power Grid, Venus Pipes, more
+  The Nifty 50 and Sensex gained nearly 0.70%–1.30% for the week. Investors will track several corporate actions next week, including BN Agrochem’s
+  🔗 https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-buyback-record-date-next-week-16-20-nov-mrf-sci-pfc-power-grid-venus-pipes-more-11794644624084.html
 
 - Microsoft says services recovering gradually; here's how companies are resorting to traditional methods amid disruption
   Microsoft acknowledged the disruption and said it was working to restore normal operations. Microsoft says more than 430 million
@@ -100,125 +100,125 @@
   A global outage has disrupted Outlook, Teams, OneDrive, Copilot and several other services.
   🔗 https://www.livemint.com/technology/tech-news/microsoft-outage-affects-businesses-government-agencies-and-ai-platforms-full-list-of-services-impacted-11794569033153.html
 
-- Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump - CNBC
-  Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE00cTdQYjhOUVlzVEZnQndNN1NKNzBJSjIta1lDWVlVXzhDcXkwWWpVRnE3c1VMTVF2bkZ5WnhHU2NSd2ZRZlI4RVRjREJvbG9xWDZJRF9QMG1MNE40ZGdESkpmZXhsOUhCTUcyZGZiOGhfTjdiSUk40gF8QVVfeXFMTWN0NjJIZlNoTmVNdFV3NUVBOXBZTVdvWWJYU2ZteENJN0ZvVDE1d3BlaGV2NWhLZHVoWnhtaEVIWDJjWWx0LU9rbm5qMWh4RUV3amJrMG93Q3RfVFVNa0p5WEl1emJ1NDJPSXZCekt0Mk5LdEtQZ3hWWG0wTQ?oc=5
-
 - Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates - CNBC
   Nasdaq falls on Friday as Nvidia sells off, but index notches
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5
 
-- Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal - WSJ
-  The WSJ reports that Nvidia shares dropped again on Tuesday. The company is
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5
-
-- Stock Market on Nov. 13, 2026: Dow ends slightly higher, S&P 500 and Nasdaq fall as tech stocks struggle after Nvidia turmoil; U.S. equities market books weekly gain — live updates - MarketWatch
-  The Dow Jones Industrial Average closed slightly higher on Friday. The S&amp;P 500 and Nasdaq fell as tech stocks struggle after Nvidia turmoil
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmg4NHJ5V24yXzQ2TFZvRlVSeEJJSGFhUm5uYUUxTXhMVWhLdzlkOFhfUktLVDBrV2VkTnVwZnUxN3MzZlhYbUdCY3JhRkJWTEd2MW9IZDVJc0xOVjVsN2ppZS1vX3Zia2pYd0xablc5YnZhTnZvUE95eVdKY0Y4Sm9jZ1JyRE1RTHI5Nk92SDgtQjE3c0Z6LU9WdEVEVzFfUUQzZUNUd0h1MDcyQ1YxalFfOGxFNkx5VEdKcDR4eWc3OW41dmN6aQ?oc=5
+- Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens - Yahoo Finance
+  &nbsp;&ngt;<font color="#6f6f 6
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxORHNBdWVhWllRY0IzSV9JUGtmWVdfQk5EaGVSVVNNXzVtUWtITW1xRUhYRDA3SVdSbWFaWjExbkI0VXA1ZjVuWXNWWkI2M3hUTVpxeUxvekxyZmhLOGdBMFZXdktzTWdvT0tOdnVIenp6UFQtdWt5bkJtNWlMSGpGdDZ2WEZmbTlidlQ2QVhSREdGdXNDb0F0ZzNJUGNSejZwSXE4Y2NCdHRHQWxKNkZrTWNQbUtVYXFGU3k4Tw?oc=5
 
 - Stock markets snap three-day rally on rate hike fears; Sensex drops 318 points - The Hindu
   Stock markets snap three-day rally on rate hike fears;
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQWk5hc3RoLTFzV2hiZ1Z1TGpUUWlDcUQxRTBTTVBfajdlTnJ5SFZYRlU2VjVvXzFMTTNqdFpCS0pXczF5bWVDSjdXdllZYll0Q25RT2U1TTN3RXZhVUZKazhIRkZZcHBueVBEa1pucl9IdlBwZkNJMEZ5WkZNeEl6RHAtZGk3LTNEMW9LeUxoZnJmZUx2NERaLWR2dWN0WXo5M3lGc21LdjFTNEFPZ1RNTUlDZHNDcnhIeXJWWER6a25fd1FqWlRKQmx0Y9IB0gFBVV95cUxNTEtqSzFvbEFnZFNqQWx2VkE0QmtMbktHMFdNRmlmcWpKMjk0NXl3cUdNUjdfUkN1R09lRW9YOFJBb3dFUEt2M3ZHTWgtQWJPRlh0eHM4UFpkYzNaaGpzMEVCR2lzbHFYd0RzT2pFUERyT3pIWUFNQU5SMkliYzlUN1hEUHlweHRlUnJMR084VWxRelJLZUVSYktaZ0hDNWE2YkxmOF9GX2MxQ3FuelFKNEhxX0FMUkZvZF9SSjFRX3o3MWFnMHhpckt4ZF9tSUVyTEE?oc=5
 
-- 5 world market themes for the week ahead
-  US-China relations are set for discussions as Trump and Xi meet. Oil prices remain volatile due to Middle East tensions and supply changes. UK and EU summit aims to advance post-Brexit cooperation on trade and regulations.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/135822113.cms
+- Exclusive | Meta Testing New Prediction-Market App With Employees - WSJ
+  The WSJ is testing a new
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmU1MnY0TnI4RG9jaVN4eXVDb2IwOFYtTWp3Q0tIUGtqRUMwcGM2UTh5cVdNSjNnYTZWZS1Tc001dzdpMklNRFVjYnVXckplODIxN092NnFnLVdtbG8tenZJM3dwM3p3M3Jhd2NVX0RyU19CcXJsRHZRaDRnN0ZfX09YTFQzamRvTlk1MFQ1ZFY?oc=5
 
-- AI rockets to top of worries about financial system in latest Fed survey
-  87% of respondents cited AI as a key risk. There’s been a dramatic increase in debt tied to AI infrastructure investments.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey/articleshow/135821841.cms
+- How US tech pain is European stock markets' gain - Reuters
+  How US tech pain is European stock
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5
 
-- Fed's Jefferson says he is taking his policy cues from inflation
-  Federal Reserve Vice Chair Philip Jefferson emphasized inflation as the main factor in determining monetary policy. Jefferson indicated that upcoming adjustments to policy should rely on data trends and the evolving economic outlook.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-jefferson-says-he-is-taking-his-policy-cues-from-inflation/articleshow/135821792.cms
+- Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds
+  Yes Bank has filed a petition with the Supreme Court to review an order from October 15. This order upheld a Bombay High Court ruling that quashed the bank's decision to write off AT-1 bonds. These bonds, worth Rs 8
+  🔗 https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms
 
-- Wall St Week Ahead: Nvidia results, Anthropic IPO pose tests for tumultuous AI trade
-  Investors are wary as Anthropic prepares for a significant initial public offering. Retail sales data will also provide insight into consumer health and inflation pressures.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade/articleshow/135821735.cms
+- RHI Magnesita Q2 net profit jumps 62 pc to over Rs 62 cr
+  RHI Magnesita has reported a remarkable surge in net profit, soaring to Rs 62.09 crore. The consolidated revenues experienced a modest increase, hitting Rs 1,038.26 crore this period.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/rhi-magnesita-q2-net-profit-jumps-62-pc-to-over-rs-62-cr/articleshow/135830890.cms
 
-- US Supreme Court to consider lawsuit over Robinhood's 2021 IPO
-  Robinhood Markets has filed an appeal with the US Supreme Court. The lawsuit claims the company misled investors ahead of its IPO in July 2021.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-supreme-court-to-consider-lawsuit-over-robinhoods-2021-ipo/articleshow/135821666.cms
+- Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore
+  Mahanadi Coalfields Ltd has filed its Red Herring Prospectus for an initial public offering. This IPO features an offer for sale of roughly 66.18 crore equity shares from Coal India.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms
 
-- In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors - The Hindu
-  In major breakthrough, U.S. assures India of comparative
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5
+- Dalal Street Week Ahead: Can Nifty bulls overcome key resistance levels?
+  The Nifty's current technical structure remains positive. Although a sharp rebound from the vicinity of the 200-week moving average has significantly improved the near
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms
 
-- Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh | Explained - The Hindu
-  The Indian government has sanctioned fresh infrastructure along the China border in Arun
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdVFGWGV6bURteHFOd3Q1M05sQV9KWmdLaGZZelo3bk5EMl9Cc3BkY2hJUmkxdkhRREpnWW15bXBfRzRpSENmS25NUjBkZHZOQUJzZXNERmhsZHVtRWpSTThKOTBvM2pXcFEwMXVCZEpXU1hjaEZOaU8xZ0haMXBWbWZ3eHJwaHk2NU9HYTNTLTZ2NmtwcHY2RjUwdEpEbFVtUEo4VkNXa19LcHFpWmp3NTQ3aTNQYlBrSXJNWGRiQ1hwaFNtSWdfa0VlQ0lpejlSSE5ka3A1WVF3eWozei1kc2pqbHFfOHhZRjFvZS1Wc2zSAfcBQVVfeXFMT3lnekFrRllUcEs1VWVpMnk2VzVaWnl4SUtBUWJvS0NWOUJQZGN6WGpnUHUwUDVQTnZzUWxyTDNoQXZsOUVWa1Y4LUlmOHpHNmRCcS1oeGxaN2NzUmdpRmdMN2JOQXRROW4xNVh2UmFCVWg2WE05M2Z0Q3JhaTlaQ3JGcUhrTFZ1VmxEWTh4RGlNZXIzR0pKS3A1Z0FQNHRoRE9HVDF6dGdCSnVEY3RuejJkRm1zaGNaRU5yQzUzNUJzTXFXYkgySU1lUHpQakFXQ0hhUEU0M290X0pBcGpkLU5RdS1kcFFfWndQSkx4R2VUbjdDZzlnVQ?oc=5
+- Concurrent Gainers: 8 stocks gain for 5 days in a row
+  We shortlisted 8 stocks that consistently gained throughout the period, delivering cumulative returns
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-stocks-gain-for-5-days-in-a-row/slideshow/135828499.cms
 
-- Pak Operative Sent Nudes, Air Force Officer Replied With Secret War Plans - NDTV
-  Pak Operative Sent Nudes, Air Force Officer
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dlVi1DOG0xanEwZl9Zcy03SmdxN0FtLW5KNUdoaG5VWmtXejloM0M2ekUxT1JPVF9iRVdzRlB5UWlWanpldnROUF9ib2MwRmhacG92TTgwRDhWVkRnQ2hYMnF1N2hYSzNjZ1dCUzdGWW44WDlnYVFLdkMtcDVlMFQya0liTmdDeTVOekthazZJby15dmllanQtTjlCZ1E5cXQ4UWMtWW04ZnUzY1poSGR5b9IBuwFBVV95cUxORDc4M2Q4VlJSa3h4WjJVRl9yMjFraGdrdjh3bDJmRzNXeHNGVU5malhoa0tKbVlLeS1wV3VzcHZXZkVQajVxdGZDTVhiWWVfbTNEb3E2eFhOQ19qZkk5V0tqTVAzX0hQX1daM2pkOUhsVUY4aVBKM1FsYlNwMEU4elBIOHM4THluMXNQSEpaWkRUODFheFA2X1ZZdUlITkN3N1JxSjBNVWFrVWNaWDVKczlTR3diTW1uXzlj?oc=5
+- Pakistani Minister to visit India for the first time in three years, as SCO meets - The Hindu
+  Pakistani Minister to visit India for the first time in three years.
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjJGU1hzUDJZZVVwM3JULUc2U1NCNVZCSVBZU0xtYVQwRm5TZGRxVGt1cTl3Z3BGelRieHlxWDB1eEEyN3RETVk5VGxVNWtBRHFnRTNGRW9qVGlxb3BYMFJlLThWMTE3SU5uazFBaGFKdzJLS1Bnek81S3RpWC1tT2dGd1JBRlJUZ3BrSmppdGdTMVYtTWVSY050UkU1MmxJb3gyZGxmY191emhpeXdUTDNMNTFaZzc5MF9vbl9uY9IBxgFBVV95cUxPQXQ3T0ZlS0dHRktiZVFjN3JNSk01Ui1ZWlpvZ1o0UWVGRFdqMnlVV09GUmJkcndQZk9fODE2YVdNelhqREU0YVdSZnBhRFAxX2oya2pieUJFLU1CWVpjeTdlOE11cWFoT1g3Q1I5RkZHYzBlMjNrTHpVemxkdHNYN0l6Q3lVMGJjUzlTUkdTYUxaRXBOWFlIbHViTmx2N1VZeWpJbWlCTWRwaG9VWEY0ZGdXbjFJb0p4LWQwZThXdEhpazVUWkE?oc=5
 
-- CJP: India’s protesters face government crackdown after summer victory - BBC
-  The BBC reports that India's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVk1LYzgzWGhoeW5Pa28xTi0xbHlfS2tJbmhzVVBXMHpZWldIYUdhelplUVQzZXY2SjRjTTZLNndFOUJreEk1STJlQmticG1uUFNWY2pFb283MjQ?oc=5
+- Pakistani Minister To Make Rare India Visit, First Visit Since Op Sindoor - NDTV
+  Pakistani Minister To Make Rare India Visit, First
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXNYOG00NklTd0xaMWdhaE80RklNSjItLW1FRU1WYVNKMEdYZFU2VG41ajNlejdYOVRWa3FnSGZSb3E0Y1VlQnhETUx1WHREUmtFNUJPai1GUDhSU2F2cVZJdXFqRVZJNUFrTjBwX3ZZR3N2dkQweDVqZklvQmU1V3JxbWtpdnFlbmQtSzFPVEdFSUZQRl9OTGRkR1hKSDFtTi1INlUyRkItOVB0RTYyOWdUWdIBuwFBVV95cUxQX0VmMGRLVDFodzV2UTlXem5RLTJIaG5laHlrTWVTS09TM252TzIxdzhZbTZDN1JleHdEQTVqR3NqaDU4UEhtXzM3ZjE3d19FTndkQS04VVVta2ZKQUxnOGpLQUJIV1VCQzFGRUpuX0hLbGxCNDZRNk5FcG5oZUg5NUZiWEY5Ql8tdWpfaTh3VUhYakJESmh5S1dqZU50b1pQdjYxZk9xb0dodm5TcXVkdHNGdHl1RDB2bkhV?oc=5
 
-- India news : Modi government approves $340 million museum in Delhi - DW.com
-  India news : Modi government approves $340 million
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2JGRlgxMFl1dGFFWTBxZTZsQkNxWGo0c3ZfcllQNUtSS2t2bWdkZmQwM0lDYlhlLWYtWnh5SGVWRWVzb0VNOGdCMmFFNXJOLWVQWXhkUUYyYTl0V1Q0X21CWk52LTg5a0haRW5ZMndiaWc2RDZUSzktUDgwcmpmd0x5dzlXZDRhSGd4UjJWUkstM3YzY29oR2tnNS10N1df?oc=5
+- Pakistan minister to attend Delhi SCO meet, Islamabad announces - The Indian Express
+  Pakistan minister to attend Delhi SCO meet,
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGJoYUROTEVfa2lRWGRvcmNqZ2xaZzdfMTNBMTYwRWF2TGtaZHVwdHJTRkphaUNPaHBrUFExRG05Zm1uNjItUWtnYTgySi1LcjVvcUk1eTRQa0E0c0hrSUZtUW5nSjVRbzV5Nld2bFk1LTlmWVpHT1JDN3dtRkVLRE5YQngtQzBENUdXX0pPSlBHWU1BRDB2M3VrMDIwR2MyQ0syMHFPOEl4WlJ2WnfSAbQBQVVfeXFMT2tMNHppcjU3UWFvSnRXcVI2SHhMdkhmUEhaa1V5TEhFLWNzYUs0aEdsTy16M1VmQ3NHWnBvWUJreWtrOFhjM050V2twVG5aUjFKeGJLU1Z5V2NRdjRDRmZZbm1FSHpobVhJSno0UjVoQlFEVzZoby1hdEdIS1lTQlN3dUNDQTVHcEdyOUFfbEJoa2JpeFFrQzRleTJyaVN3T1l6Y1ZNMEh0Um04UFJDbjIzSjJH?oc=5
+
+- Railways approve weekly train service between Nepal and India for convenience of pilgrims & tourists - News On AIR
+  Railways approve weekly train service between Nepal and India for convenience of pilgrims &
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ05DakhVZkUycnRkQXRMdTlYWUZMQUR4VDFKNzBwR1paa0lVaG56U1BNSzBZams3cXRSeU9nbmw0dERPMV8tU01CQ01BV2NZS1V5U1JoWFRuSnBYX2hWXzFDMEk4TVljMElqbDZuOUo1N2hmUTJ6dlA0SERObUFjR003WEdFV29DMGxyWndPT0lJNVBJREpYYXEtMUY0d09WRVhDUEM2ZlJoRF9LTmh5WHdZMXZtMVpkcmZfOHJtVXdfQQ?oc=5
+
+- Sooryavanshi becomes youngest captain in men's T20 history - Cricinfo
+  Sooryavanshi becomes
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0UySHVNQ1Q0alBkM0dlenBwLWZrSmtGamF5TThLQjhkSGpKdHphQXRTcmw1YlpLZWswZk85Z3VxOTNOYWFKSnJULTJpczZGdEpTNVJYR3QyUUVrcWIzd29sTHlfUWg5QWc5YnJXS3pjenhPUTNLdFJKTHJrR3FCdm5HTWdzV0NyQmUzcXRwY2dVa2syQjR4SnRQYXoxUElnRWprbEU3WGViZzRUeEZaVUI2OHByUjNlOGs5Um5NVkhTZFpJZEUxQWdWT2NXU3M0aGVCeGYySi1SQ3VKMjJWQjhjMNIB9AFBVV95cUxOeE15NWlQRjFSYzg0OWNaNF9tQktVNEMyQ2lUWmU2UWpHak9KaTU0ZGxYcWswRkFDWlhtUWNFN19nWDhwNi1nOHNvSGpNUTVjR1ZsQ1JNM0NjYWF5OEpuMEg4ZTd5dGpCRlJjMzl3bGhibDlYeUpGbUJqelNKWUwtSHhKWUJuSFZMQVFiV2JUblNVZklQTkJPLVh2Yk5KWlRkQXV1S0lUeWt0TzlBZ09GUnlKbUdJSFdDU2FNLUl2aWd3eTU0UEdjWEFESC1nZ2p1eEwwYjFqa09ZVmljQ1p0REtnZ3NYeGFVZ05XVmYtOHJ3VElG?oc=5
+
+- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
+  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to a billion dollar company.
+  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
+
+- FirstCry Q2 Net Loss Narrows 75% YoY To ₹12.6 Cr, Revenue Up 14%
+  Brainbees Solutions, the parent company of omnichannel baby and kids&#8217; products retailer FirstCry, managed to narrow its September quarter.
+  🔗 https://inc42.com/buzz/firstcry-q2-net-loss-narrows-75-yoy-to-%e2%82%b912-6-cr-revenue-up-14/
+
+- New-Age Tech Stocks Continue Rally; E2E Network, Turtlemint Lead Gains
+  New-age tech stocks extended their rally this week, gaining about $8 Bn in cumulative market cap. E2E Network, Turtlemint Lead Gains.
+  🔗 https://inc42.com/buzz/new-age-tech-stocks-continue-rally-e2e-network-turtlemint-lead-gains/
+
+- Mahadev Betting App: CBI Searches Multiple Locations, ED Arrests Saurabh Chandrakar
+  The government&#8217;s noose around the online betting scam case, Mahadev app, has tightened further. The Central Bureau of Investigation (CBI) and the Enforcement
+  🔗 https://inc42.com/buzz/mahadev-betting-app-cbi-searches-multiple-locations-ed-arrests-saurabh-chandrakar/
 
 - From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week
   Post-festive cheer appears to have done little to lift India&#8217;s startup ecosystem.
   🔗 https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/
 
-- SoftBank Offloads Meesho Shares Worth ₹1,855 Cr
-  Japanese tech investor SoftBank yesterday offloaded 7.6 Cr shares of listed ecommerce giant Meesho in a block deal.
-  🔗 https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/
+- Pakistani Minister to visit India for the first time in three years, as SCO meets - The Hindu
+  Pakistani Minister to visit India for the first time in three years.
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjJGU1hzUDJZZVVwM3JULUc2U1NCNVZCSVBZU0xtYVQwRm5TZGRxVGt1cTl3Z3BGelRieHlxWDB1eEEyN3RETVk5VGxVNWtBRHFnRTNGRW9qVGlxb3BYMFJlLThWMTE3SU5uazFBaGFKdzJLS1Bnek81S3RpWC1tT2dGd1JBRlJUZ3BrSmppdGdTMVYtTWVSY050UkU1MmxJb3gyZGxmY191emhpeXdUTDNMNTFaZzc5MF9vbl9uY9IBxgFBVV95cUxPQXQ3T0ZlS0dHRktiZVFjN3JNSk01Ui1ZWlpvZ1o0UWVGRFdqMnlVV09GUmJkcndQZk9fODE2YVdNelhqREU0YVdSZnBhRFAxX2oya2pieUJFLU1CWVpjeTdlOE11cWFoT1g3Q1I5RkZHYzBlMjNrTHpVemxkdHNYN0l6Q3lVMGJjUzlTUkdTYUxaRXBOWFlIbHViTmx2N1VZeWpJbWlCTWRwaG9VWEY0ZGdXbjFJb0p4LWQwZThXdEhpazVUWkE?oc=5
 
-- Sachin Tendulkar Backs Waste Management Startup Recykal
-  Former Indian cricketer Sachin Tendulkar has joined the cap table of Hyderabad-based cleantech startup Recykal.
-  🔗 https://inc42.com/buzz/sachin-tendulkar-backs-waste-management-startup-recykal/
+- Pakistani Minister To Make Rare India Visit, First Visit Since Op Sindoor - NDTV
+  Pakistani Minister To Make Rare India Visit, First
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXNYOG00NklTd0xaMWdhaE80RklNSjItLW1FRU1WYVNKMEdYZFU2VG41ajNlejdYOVRWa3FnSGZSb3E0Y1VlQnhETUx1WHREUmtFNUJPai1GUDhSU2F2cVZJdXFqRVZJNUFrTjBwX3ZZR3N2dkQweDVqZklvQmU1V3JxbWtpdnFlbmQtSzFPVEdFSUZQRl9OTGRkR1hKSDFtTi1INlUyRkItOVB0RTYyOWdUWdIBuwFBVV95cUxQX0VmMGRLVDFodzV2UTlXem5RLTJIaG5laHlrTWVTS09TM252TzIxdzhZbTZDN1JleHdEQTVqR3NqaDU4UEhtXzM3ZjE3d19FTndkQS04VVVta2ZKQUxnOGpLQUJIV1VCQzFGRUpuX0hLbGxCNDZRNk5FcG5oZUg5NUZiWEY5Ql8tdWpfaTh3VUhYakJESmh5S1dqZU50b1pQdjYxZk9xb0dodm5TcXVkdHNGdHl1RDB2bkhV?oc=5
 
-- [Update] Razorpay Gets SEBI Nod For ₹6,000 Cr IPO
-  Karnataka HC Rejects Razorpay Cofounders’ Plea To Quash SFIO Case. Fintech major Razorpay has received Securities and Exchange Board of
-  🔗 https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/
+- Pakistan minister to attend Delhi SCO meet, Islamabad announces - The Indian Express
+  Pakistan minister to attend Delhi SCO meet,
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGJoYUROTEVfa2lRWGRvcmNqZ2xaZzdfMTNBMTYwRWF2TGtaZHVwdHJTRkphaUNPaHBrUFExRG05Zm1uNjItUWtnYTgySi1LcjVvcUk1eTRQa0E0c0hrSUZtUW5nSjVRbzV5Nld2bFk1LTlmWVpHT1JDN3dtRkVLRE5YQngtQzBENUdXX0pPSlBHWU1BRDB2M3VrMDIwR2MyQ0syMHFPOEl4WlJ2WnfSAbQBQVVfeXFMT2tMNHppcjU3UWFvSnRXcVI2SHhMdkhmUEhaa1V5TEhFLWNzYUs0aEdsTy16M1VmQ3NHWnBvWUJreWtrOFhjM050V2twVG5aUjFKeGJLU1Z5V2NRdjRDRmZZbm1FSHpobVhJSno0UjVoQlFEVzZoby1hdEdIS1lTQlN3dUNDQTVHcEdyOUFfbEJoa2JpeFFrQzRleTJyaVN3T1l6Y1ZNMEh0Um04UFJDbjIzSjJH?oc=5
 
-- Zelio E-Mobility’s Net Profit Zooms 2.6X YoY To ₹31 Cr In H1
-  Zelio E-Mobility’s consolidated net profit surged 164.3% to ₹31.4 Cr in the first half.
-  🔗 https://inc42.com/buzz/zelio-e-mobilitys-net-profit-zooms-2-6x-yoy-to-%e2%82%b931-cr-in-h1/
+- Railways approve weekly train service between Nepal and India for convenience of pilgrims & tourists - News On AIR
+  Railways approve weekly train service between Nepal and India for convenience of pilgrims &
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ05DakhVZkUycnRkQXRMdTlYWUZMQUR4VDFKNzBwR1paa0lVaG56U1BNSzBZams3cXRSeU9nbmw0dERPMV8tU01CQ01BV2NZS1V5U1JoWFRuSnBYX2hWXzFDMEk4TVljMElqbDZuOUo1N2hmUTJ6dlA0SERObUFjR003WEdFV29DMGxyWndPT0lJNVBJREpYYXEtMUY0d09WRVhDUEM2ZlJoRF9LTmh5WHdZMXZtMVpkcmZfOHJtVXdfQQ?oc=5
 
-- In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors - The Hindu
-  In major breakthrough, U.S. assures India of comparative
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5
+- Sooryavanshi becomes youngest captain in men's T20 history - Cricinfo
+  Sooryavanshi becomes
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0UySHVNQ1Q0alBkM0dlenBwLWZrSmtGamF5TThLQjhkSGpKdHphQXRTcmw1YlpLZWswZk85Z3VxOTNOYWFKSnJULTJpczZGdEpTNVJYR3QyUUVrcWIzd29sTHlfUWg5QWc5YnJXS3pjenhPUTNLdFJKTHJrR3FCdm5HTWdzV0NyQmUzcXRwY2dVa2syQjR4SnRQYXoxUElnRWprbEU3WGViZzRUeEZaVUI2OHByUjNlOGs5Um5NVkhTZFpJZEUxQWdWT2NXU3M0aGVCeGYySi1SQ3VKMjJWQjhjMNIB9AFBVV95cUxOeE15NWlQRjFSYzg0OWNaNF9tQktVNEMyQ2lUWmU2UWpHak9KaTU0ZGxYcWswRkFDWlhtUWNFN19nWDhwNi1nOHNvSGpNUTVjR1ZsQ1JNM0NjYWF5OEpuMEg4ZTd5dGpCRlJjMzl3bGhibDlYeUpGbUJqelNKWUwtSHhKWUJuSFZMQVFiV2JUblNVZklQTkJPLVh2Yk5KWlRkQXV1S0lUeWt0TzlBZ09GUnlKbUdJSFdDU2FNLUl2aWd3eTU0UEdjWEFESC1nZ2p1eEwwYjFqa09ZVmljQ1p0REtnZ3NYeGFVZ05XVmYtOHJ3VElG?oc=5
 
-- Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh | Explained - The Hindu
-  The Indian government has sanctioned fresh infrastructure along the China border in Arun
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdVFGWGV6bURteHFOd3Q1M05sQV9KWmdLaGZZelo3bk5EMl9Cc3BkY2hJUmkxdkhRREpnWW15bXBfRzRpSENmS25NUjBkZHZOQUJzZXNERmhsZHVtRWpSTThKOTBvM2pXcFEwMXVCZEpXU1hjaEZOaU8xZ0haMXBWbWZ3eHJwaHk2NU9HYTNTLTZ2NmtwcHY2RjUwdEpEbFVtUEo4VkNXa19LcHFpWmp3NTQ3aTNQYlBrSXJNWGRiQ1hwaFNtSWdfa0VlQ0lpejlSSE5ka3A1WVF3eWozei1kc2pqbHFfOHhZRjFvZS1Wc2zSAfcBQVVfeXFMT3lnekFrRllUcEs1VWVpMnk2VzVaWnl4SUtBUWJvS0NWOUJQZGN6WGpnUHUwUDVQTnZzUWxyTDNoQXZsOUVWa1Y4LUlmOHpHNmRCcS1oeGxaN2NzUmdpRmdMN2JOQXRROW4xNVh2UmFCVWg2WE05M2Z0Q3JhaTlaQ3JGcUhrTFZ1VmxEWTh4RGlNZXIzR0pKS3A1Z0FQNHRoRE9HVDF6dGdCSnVEY3RuejJkRm1zaGNaRU5yQzUzNUJzTXFXYkgySU1lUHpQakFXQ0hhUEU0M290X0pBcGpkLU5RdS1kcFFfWndQSkx4R2VUbjdDZzlnVQ?oc=5
+- Pakistani Minister to visit India for the first time in three years, as SCO meets - The Hindu
+  Pakistani Minister to visit India for the first time in three years.
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjJGU1hzUDJZZVVwM3JULUc2U1NCNVZCSVBZU0xtYVQwRm5TZGRxVGt1cTl3Z3BGelRieHlxWDB1eEEyN3RETVk5VGxVNWtBRHFnRTNGRW9qVGlxb3BYMFJlLThWMTE3SU5uazFBaGFKdzJLS1Bnek81S3RpWC1tT2dGd1JBRlJUZ3BrSmppdGdTMVYtTWVSY050UkU1MmxJb3gyZGxmY191emhpeXdUTDNMNTFaZzc5MF9vbl9uY9IBxgFBVV95cUxPQXQ3T0ZlS0dHRktiZVFjN3JNSk01Ui1ZWlpvZ1o0UWVGRFdqMnlVV09GUmJkcndQZk9fODE2YVdNelhqREU0YVdSZnBhRFAxX2oya2pieUJFLU1CWVpjeTdlOE11cWFoT1g3Q1I5RkZHYzBlMjNrTHpVemxkdHNYN0l6Q3lVMGJjUzlTUkdTYUxaRXBOWFlIbHViTmx2N1VZeWpJbWlCTWRwaG9VWEY0ZGdXbjFJb0p4LWQwZThXdEhpazVUWkE?oc=5
 
-- Pak Operative Sent Nudes, Air Force Officer Replied With Secret War Plans - NDTV
-  Pak Operative Sent Nudes, Air Force Officer
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dlVi1DOG0xanEwZl9Zcy03SmdxN0FtLW5KNUdoaG5VWmtXejloM0M2ekUxT1JPVF9iRVdzRlB5UWlWanpldnROUF9ib2MwRmhacG92TTgwRDhWVkRnQ2hYMnF1N2hYSzNjZ1dCUzdGWW44WDlnYVFLdkMtcDVlMFQya0liTmdDeTVOekthazZJby15dmllanQtTjlCZ1E5cXQ4UWMtWW04ZnUzY1poSGR5b9IBuwFBVV95cUxORDc4M2Q4VlJSa3h4WjJVRl9yMjFraGdrdjh3bDJmRzNXeHNGVU5malhoa0tKbVlLeS1wV3VzcHZXZkVQajVxdGZDTVhiWWVfbTNEb3E2eFhOQ19qZkk5V0tqTVAzX0hQX1daM2pkOUhsVUY4aVBKM1FsYlNwMEU4elBIOHM4THluMXNQSEpaWkRUODFheFA2X1ZZdUlITkN3N1JxSjBNVWFrVWNaWDVKczlTR3diTW1uXzlj?oc=5
+- Pakistani Minister To Make Rare India Visit, First Visit Since Op Sindoor - NDTV
+  Pakistani Minister To Make Rare India Visit, First
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXNYOG00NklTd0xaMWdhaE80RklNSjItLW1FRU1WYVNKMEdYZFU2VG41ajNlejdYOVRWa3FnSGZSb3E0Y1VlQnhETUx1WHREUmtFNUJPai1GUDhSU2F2cVZJdXFqRVZJNUFrTjBwX3ZZR3N2dkQweDVqZklvQmU1V3JxbWtpdnFlbmQtSzFPVEdFSUZQRl9OTGRkR1hKSDFtTi1INlUyRkItOVB0RTYyOWdUWdIBuwFBVV95cUxQX0VmMGRLVDFodzV2UTlXem5RLTJIaG5laHlrTWVTS09TM252TzIxdzhZbTZDN1JleHdEQTVqR3NqaDU4UEhtXzM3ZjE3d19FTndkQS04VVVta2ZKQUxnOGpLQUJIV1VCQzFGRUpuX0hLbGxCNDZRNk5FcG5oZUg5NUZiWEY5Ql8tdWpfaTh3VUhYakJESmh5S1dqZU50b1pQdjYxZk9xb0dodm5TcXVkdHNGdHl1RDB2bkhV?oc=5
 
-- CJP: India’s protesters face government crackdown after summer victory - BBC
-  The BBC reports that India's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVk1LYzgzWGhoeW5Pa28xTi0xbHlfS2tJbmhzVVBXMHpZWldIYUdhelplUVQzZXY2SjRjTTZLNndFOUJreEk1STJlQmticG1uUFNWY2pFb283MjQ?oc=5
+- Pakistan minister to attend Delhi SCO meet, Islamabad announces - The Indian Express
+  Pakistan minister to attend Delhi SCO meet,
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGJoYUROTEVfa2lRWGRvcmNqZ2xaZzdfMTNBMTYwRWF2TGtaZHVwdHJTRkphaUNPaHBrUFExRG05Zm1uNjItUWtnYTgySi1LcjVvcUk1eTRQa0E0c0hrSUZtUW5nSjVRbzV5Nld2bFk1LTlmWVpHT1JDN3dtRkVLRE5YQngtQzBENUdXX0pPSlBHWU1BRDB2M3VrMDIwR2MyQ0syMHFPOEl4WlJ2WnfSAbQBQVVfeXFMT2tMNHppcjU3UWFvSnRXcVI2SHhMdkhmUEhaa1V5TEhFLWNzYUs0aEdsTy16M1VmQ3NHWnBvWUJreWtrOFhjM050V2twVG5aUjFKeGJLU1Z5V2NRdjRDRmZZbm1FSHpobVhJSno0UjVoQlFEVzZoby1hdEdIS1lTQlN3dUNDQTVHcEdyOUFfbEJoa2JpeFFrQzRleTJyaVN3T1l6Y1ZNMEh0Um04UFJDbjIzSjJH?oc=5
 
-- India news : Modi government approves $340 million museum in Delhi - DW.com
-  India news : Modi government approves $340 million
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2JGRlgxMFl1dGFFWTBxZTZsQkNxWGo0c3ZfcllQNUtSS2t2bWdkZmQwM0lDYlhlLWYtWnh5SGVWRWVzb0VNOGdCMmFFNXJOLWVQWXhkUUYyYTl0V1Q0X21CWk52LTg5a0haRW5ZMndiaWc2RDZUSzktUDgwcmpmd0x5dzlXZDRhSGd4UjJWUkstM3YzY29oR2tnNS10N1df?oc=5
+- Railways approve weekly train service between Nepal and India for convenience of pilgrims & tourists - News On AIR
+  Railways approve weekly train service between Nepal and India for convenience of pilgrims &
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ05DakhVZkUycnRkQXRMdTlYWUZMQUR4VDFKNzBwR1paa0lVaG56U1BNSzBZams3cXRSeU9nbmw0dERPMV8tU01CQ01BV2NZS1V5U1JoWFRuSnBYX2hWXzFDMEk4TVljMElqbDZuOUo1N2hmUTJ6dlA0SERObUFjR003WEdFV29DMGxyWndPT0lJNVBJREpYYXEtMUY0d09WRVhDUEM2ZlJoRF9LTmh5WHdZMXZtMVpkcmZfOHJtVXdfQQ?oc=5
 
-- In major breakthrough, U.S. assures India of comparative tariff advantage over its competitors - The Hindu
-  In major breakthrough, U.S. assures India of comparative
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5
-
-- Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh | Explained - The Hindu
-  The Indian government has sanctioned fresh infrastructure along the China border in Arun
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdVFGWGV6bURteHFOd3Q1M05sQV9KWmdLaGZZelo3bk5EMl9Cc3BkY2hJUmkxdkhRREpnWW15bXBfRzRpSENmS25NUjBkZHZOQUJzZXNERmhsZHVtRWpSTThKOTBvM2pXcFEwMXVCZEpXU1hjaEZOaU8xZ0haMXBWbWZ3eHJwaHk2NU9HYTNTLTZ2NmtwcHY2RjUwdEpEbFVtUEo4VkNXa19LcHFpWmp3NTQ3aTNQYlBrSXJNWGRiQ1hwaFNtSWdfa0VlQ0lpejlSSE5ka3A1WVF3eWozei1kc2pqbHFfOHhZRjFvZS1Wc2zSAfcBQVVfeXFMT3lnekFrRllUcEs1VWVpMnk2VzVaWnl4SUtBUWJvS0NWOUJQZGN6WGpnUHUwUDVQTnZzUWxyTDNoQXZsOUVWa1Y4LUlmOHpHNmRCcS1oeGxaN2NzUmdpRmdMN2JOQXRROW4xNVh2UmFCVWg2WE05M2Z0Q3JhaTlaQ3JGcUhrTFZ1VmxEWTh4RGlNZXIzR0pKS3A1Z0FQNHRoRE9HVDF6dGdCSnVEY3RuejJkRm1zaGNaRU5yQzUzNUJzTXFXYkgySU1lUHpQakFXQ0hhUEU0M290X0pBcGpkLU5RdS1kcFFfWndQSkx4R2VUbjdDZzlnVQ?oc=5
-
-- Pak Operative Sent Nudes, Air Force Officer Replied With Secret War Plans - NDTV
-  Pak Operative Sent Nudes, Air Force Officer
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dlVi1DOG0xanEwZl9Zcy03SmdxN0FtLW5KNUdoaG5VWmtXejloM0M2ekUxT1JPVF9iRVdzRlB5UWlWanpldnROUF9ib2MwRmhacG92TTgwRDhWVkRnQ2hYMnF1N2hYSzNjZ1dCUzdGWW44WDlnYVFLdkMtcDVlMFQya0liTmdDeTVOekthazZJby15dmllanQtTjlCZ1E5cXQ4UWMtWW04ZnUzY1poSGR5b9IBuwFBVV95cUxORDc4M2Q4VlJSa3h4WjJVRl9yMjFraGdrdjh3bDJmRzNXeHNGVU5malhoa0tKbVlLeS1wV3VzcHZXZkVQajVxdGZDTVhiWWVfbTNEb3E2eFhOQ19qZkk5V0tqTVAzX0hQX1daM2pkOUhsVUY4aVBKM1FsYlNwMEU4elBIOHM4THluMXNQSEpaWkRUODFheFA2X1ZZdUlITkN3N1JxSjBNVWFrVWNaWDVKczlTR3diTW1uXzlj?oc=5
-
-- CJP: India’s protesters face government crackdown after summer victory - BBC
-  The BBC reports that India's
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVk1LYzgzWGhoeW5Pa28xTi0xbHlfS2tJbmhzVVBXMHpZWldIYUdhelplUVQzZXY2SjRjTTZLNndFOUJreEk1STJlQmticG1uUFNWY2pFb283MjQ?oc=5
-
-- India news : Modi government approves $340 million museum in Delhi - DW.com
-  India news : Modi government approves $340 million
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2JGRlgxMFl1dGFFWTBxZTZsQkNxWGo0c3ZfcllQNUtSS2t2bWdkZmQwM0lDYlhlLWYtWnh5SGVWRWVzb0VNOGdCMmFFNXJOLWVQWXhkUUYyYTl0V1Q0X21CWk52LTg5a0haRW5ZMndiaWc2RDZUSzktUDgwcmpmd0x5dzlXZDRhSGd4UjJWUkstM3YzY29oR2tnNS10N1df?oc=5
+- Sooryavanshi becomes youngest captain in men's T20 history - Cricinfo
+  Sooryavanshi becomes
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0UySHVNQ1Q0alBkM0dlenBwLWZrSmtGamF5TThLQjhkSGpKdHphQXRTcmw1YlpLZWswZk85Z3VxOTNOYWFKSnJULTJpczZGdEpTNVJYR3QyUUVrcWIzd29sTHlfUWg5QWc5YnJXS3pjenhPUTNLdFJKTHJrR3FCdm5HTWdzV0NyQmUzcXRwY2dVa2syQjR4SnRQYXoxUElnRWprbEU3WGViZzRUeEZaVUI2OHByUjNlOGs5Um5NVkhTZFpJZEUxQWdWT2NXU3M0aGVCeGYySi1SQ3VKMjJWQjhjMNIB9AFBVV95cUxOeE15NWlQRjFSYzg0OWNaNF9tQktVNEMyQ2lUWmU2UWpHak9KaTU0ZGxYcWswRkFDWlhtUWNFN19nWDhwNi1nOHNvSGpNUTVjR1ZsQ1JNM0NjYWF5OEpuMEg4ZTd5dGpCRlJjMzl3bGhibDlYeUpGbUJqelNKWUwtSHhKWUJuSFZMQVFiV2JUblNVZklQTkJPLVh2Yk5KWlRkQXV1S0lUeWt0TzlBZ09GUnlKbUdJSFdDU2FNLUl2aWd3eTU0UEdjWEFESC1nZ2p1eEwwYjFqa09ZVmljQ1p0REtnZ3NYeGFVZ05XVmYtOHJ3VElG?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-14 04:37:23 UTC_
+_Last updated: 2026-11-14 12:56:27 UTC_
