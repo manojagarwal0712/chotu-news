@@ -1,224 +1,204 @@
 # 📰 Daily News Summaries
 
-- CAHOTECH 2026 launches new accelerator to propel Indian health tech - The Hindu
-  The Hindu has published an article on India's
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQmJ2Mlh2S2NLX0hUMWthVk9PM3FhaW95Z2lLTF91NmFwcmtGZDcxWTYtbmVXWVBpRGxEWTFBbXhaOTlMU2w4QmVUMFRZeXlJcVAzT1k4M29HdmFsT3BLREM4MkJBWVdZQjgxVS1mUkVSbG5xOGZ0dFg1Tm41XzY2dFFEZVVIRUNTY00yWUJaaVJVS1lGOHN4T0R4bm9wcHJSaVVBVVhYX1ZpNFAxZDlKV0NjZ1BjREg0eS1OY3B4YzVaVktTS2lkMHdpOV9vQ0JLNXcxWlRLbDbSAd8BQVVfeXFMTjEzQ3lwMmhaYjhsRzFVVTVUVkM2SVg2anc0OTZBcmlSMW9yVFZzZ05jN3dmRV9tM3ZvUy1jV2dZb25xbWQzazF3U20tRlNrcFhwZmR0bkpvUTV4LVdSRWN5UnhaZ05OT1p6RlVXTFlBVnNfbFl4VWlSTXhRQUJSSlB5ZU13ZG0tdTVVTTRBYkZrYVJrZFVwMXNBNFdQRW5HSEl3Si1tY3FuT3RrUDlvUEQ2UXo4bjFQS1pESHlTSUcwUnF4eDFrUUxQT3JNVnBhdzFaMUlqOHJMcDAySVQ5NA?oc=5
+- Indo-ASEAN ties at the heart of India’s Act East Policy, PM says ahead of ASEAN summit in Manila - The Hindu
+  Indian PM Narendra Modi is in Manila for the ASEAN summit.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVVLckN4WEFuaDBBd0FUQXlRWmczRWVLUjBLUWNxVU1jMVVBMTd5TFB0U0tod1A4RzBOemZXa0RpcUZiZHFFMWNkcFVaSHU3RkVIWUtuaThielBYTElMZFIyZEc1YmVrSEdNeDdUdzQ0S3ZEeFhwZno3YzUwSlVIVFNjTjR3ZzViSVA2YVZWODRXMV84bC1jd0J4YWFVSUk3c2ZRNUdIcC1GbUJTVHV2ZHdSNmtIRGsyV3ZyOHoxNnp6VUI3cHR0VlRn0gHQAUFVX3lxTE5ETjN6ZEhEMFNUN2tYMWZnNnlwWnlhNE1LWm11NVhhVWozSURvQkFITFZqSmJWZGRKUDBHajZXTWl1dFRJeXlzdUY3eHNmdXJoeXZTWTdVZ1ItbmhILVRHYkg3WE9ORjRKRnZjTGZWSFF5WWNBcHR1MllRcTQ1NVZHQXRrZWM4SkxlVGtJVjF6Zk90OXVKU29aM1h0bWZNdDJzZ0l5dFZNZ19Rcm5WQ2FLUGd6ODNuTXhoQTV0TTZHekszd2RwU1NLUFJJTkllNkU?oc=5
 
-- 'Abusive language': Yashveer Goud reveals why India celebrated fiercely after U19 Asia Cup final win over - The Times of India
-  'Abusive language': Yashveer Goud reveals why India celebrated fiercely after
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxOcmJSc0M0dTNUZkMyOHZlVzRseUgybE5tMFdDWl9hQngxQ3p5Y0h2ejVpTGFQREVpbmFuS0dEVHVwZHFCYXVWbDhCeW95S3Q4eEpPUm1pMWlKQTNVaGotckd2UFNFOUZJcVhOQTc1MmJ1dGc2UkZYbnpjaUQzaFkxWDc4MUVwRjREZ0h1aUUzWlpYaU1XUzdZVG1ZQVBnZTdBMGxzWlUwLXJnWTNQbzZCUUx6X3REaDBTakE1b2NudHN1U0ZDVGE5eVBjeWV2djh0S1ByRFdsWHBaX0psd3RZdGhHcDNSQ1RCUUxIMzIzbGtIR1FLV1hTbmhxaWR3UjZTeG1fc0tsUE96d3M1VlctRGpLbWk4VElKM2dsR0VR0gGjAkFVX3lxTE1JNXNiVWtMajBDNDRvOHJhU0hDRlA1cncyelJrb1hTem8wRnpLd1pQaXg1ckdGbDdsazEyNzMtX25VSmNjSmFfX1FPNU9DZll5RUR3ZGJEQ3pzczRNSXhwUm00MGkwWjBRYkY0ai1paFBwV2NOaEJtMm1fNkRqVnpqejhhQVBfY2JlZFVjZHQ0YjNWZ3ZnTEQ1N2lKSjlERUlIRGZnbnowMEtWbXpQdEZYSUJreDF4S1NDN3Y0VVp1NVFQX25YY0ZueUxHVU52cW1IS2Q3STgzSXRWekdmbExxWk5GejNkZjRHVzhQYWFlSE1ZYXdscHEzTE9Ud05IMW5Dc2JyLXNWM0k1cVVDNC1sRjBRQjdpOHlFN0I2RTdpMmgyTQ?oc=5
+- Ties with Asean crucial for India's Act East Policy: PM - The Times of India
+  Ties with Asean crucial for India's Act
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVRzT3ZSR1ZaeVg3OXdheXNQWWNvMER4QWVMcXNZWDgzeU5XdXVoMjBtWTdTLW9VYXNfLWRKSTYwMXpZZmFQWkMzaFhpVWlyQlg2c0pkd3NWQVBnUm05SnB5WmwxakFvTlRhY3BFaXJaQXZUeFJTZnB0LWNIN3o4X21JRHhWdEZWbGZId1A1X0t0clY1ZG9nS1dqM09NbWV6THRUV3QteEFJQm9ZZjJ0TmZ5OHZ3U1ZycUFBVk5B0gHDAUFVX3lxTE5SQ1JHRjNid2x4WmFaZVRSUG5sZnJyR09aOXlaZGFjaW1ocktvcVhSWTBIWm85NjlYeE1OT0tmcEY1MW5yRGljWm0tSVVERlJ2NzlPdU5MNXlJVFBtVnlkNzNsVEdJQXhPZ3AwaHVSOV9Sdl9Gd3ZnUE1scVBIWVUzcE5EX04yRVZfT2N0SHNRT3lLOUg3aWVpUWIxNmVjY2xrMFdrXzd5RTZuOERtM2dGeFRNeTl2RnA1enA1amtLTjBzcw?oc=5
+
+- PM Modi Embraces Filipino Formal Wear At ASEAN Gala Dinner In Manila - NDTV
+  PM Modi Embraces Filipino Formal Wear At
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGdJQUp1ZUtoMkp1dnhTMzZaNUpjZGVSUTEtcy14Q01idUE1OXdrQk44cjc0eTVqSWtVaXRwUW9vSEE4R3Nlcm96SVFtTkN0QXFFZ0toZTF1MDFvcUs1TENPN05Ndm1xWVZ5NUFnUUxvWHM2dndCT1N5NHd4LXdIQUlscE9Uc2ZWNFhkM0pvLWthZzU3ZkR4TlFIRjh6NTVmcGN3TGhQeDRNVWNrOWM40gG3AUFVX3lxTE1PTHRmSDFXVmJrMHI5NUI4OVZ5ZkhBWGpsbmhLTjdEU0lTR3JCdXBYSFZwaHBPTjVOOHgwLWdQYkFhdVA0LUcwbnRZbTFRUXM4ZWFEdGZPR2Z3TWxvRlN5ZmQ0cW50OFpxajQzNUJpcVVtbFZ5OU9yWEN2elhqcXpyRDU5Y0UxdC1kNjJXYTJtUXFDUTVGQlZpMXFGS3piYllfbG5ZZGh1RnhmeF9ZMUc1bzk5MzhEWQ?oc=5
 
 - What Shields India's Military Against Honey Traps? Air Force Chief Shares Insights - NDTV
   India's Air Force Chief Shares Insights on Honey
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRi12ZV9ZVFYzUFJzUk4yR2FhYmZ5eV8tRFRFUVpCSnRYV1oyX3BXdVRQWkowaDN0WDZFMVRYa3VEMElMMURHOURCQUJPTTliLUwyTlNGTm9Cam5IQmNQNS14WldpZkc4M3BrTGdtNzFMWW1PdWp1NWdwM0E3TS1kSm1LRjhTMjZTVlV1RERkcFpxR0ZOUkQxbk1tbXNOR3RTc2QzUVdtbUxXRzRsanVQOEx3RElyc1hKZU52M3NGOHVURFBZX2tielpvZmpadnhLaVBmbtIB3AFBVV95cUxQQmZud3VRb1RmblFRc3RvWU5JTTZZVnYyUVZKMjRteWlqa2hzQlE1WmM0UlhsbG5CMHJxRFJtb0hXcXpxeEhyQXdDd1ZMMzZWTDJRbUFzaDRGeWF5R0hBVHgtTVpRVmZsdEtTclhha1Q0bmZVLU5sVS1yQ1ZDd21Qb1BiYWRBTVlVbXE4ZFNHT1BxLTg4TFFYVURadU5KRjlrbDc2djdxMVZ6VmtkcmJRemdGa3lWNUdINUhPalVicjkydVZTTjhJaDZzQ0hYS2ZfZXc1MTA1dlhNcXJZ?oc=5
 
-- Prince and Princess of Wales in India ahead of meeting with Modi - BBC
-  Prince and Princess of Wales in India ahead of meeting
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VWHp1bV9CSDE3eDFHRFlQWlJ0aGg1Z2k2ZjJoaHJ4QWR5bHB3T0ViTXZyV01qSl9FY0xKdXFsMmwwUlUzdnVJV2w0RXo4Wi1Cd1pPWmZPY2kzSUU?oc=5
+- India shows us a picture full of colour, complexity and possibilities, says Prince William - The Hindu
+  India shows us a picture full of colour, complexity and possibilities,
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR3hvRTFiTTVXUUY0Q20wSldtdnltWmw0ZWYzVHVQdjRmbzhKYzY4djNMdXRfR3JBZTgyWXJKcXpLaElWOURFWjkzZk1RVFVXZ2VYTmlFdGJoOEwyRmVGWXlZY19lNzhFUzc0V3F6YU41NGpZZ3lvVHBVYmRMU2pFdEFEeVY0eXcyZzJVNG5HU1ZxajVmcmtpUTFnLW5yb284VWJGdk1nWW56NWJCSDNUSW5uRWtvbEFYYmJ5TXlDN3FUSFhhR0ZvSWI1WVlnYTNVQWdjeHZzVU91NFRpOXBCZtIB5wFBVV95cUxNeE9PeEZzUWY4T0hHbzBBZUIxdmNpOTdLYmtiSTJNVVlJNW5ZU2dMdEpoeFY2Q1ZwNVpkTXhsdGpXYktsbDV3LVBoRTdENmprNzZEd2pLMkprTmRrNWxQcy01TmlIV0RuZVFaVmhoN280STlxaE5kWjNEaXIteW13REp5ZDBvdDVyVW95Vm1GUnJ2UUM0bFI4QzExTzZ6Mm1hVndJaEY3LXhmaGtTanJNaEhyNWxqSkRTRjY2ZDJ3Y2tLOTFuQl9WT1ZXY3FrWlVZbFZBZElXTjhsTUlUc2pXSUU3bkUzN3M?oc=5
 
-- News & Editorials 16 November 2026 | UPSC Current Affairs - Drishti IAS
-  Drishti IAS is a nonprofit organization
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjRpNE1jRTR6OTFqUnZKZEUtSndTdHMzMnZzZWN2STRiMzNqNDMwbnZtUGVrejRlZE13ZW1rOHpBWGJYalZzeVRsUmVVMGpKQXJBc2pWOWdicFI0cDg2VHJCVGZyY1pfbnhTc1lmbW82WklFekFjc1JwWlVMWFdUVzlIdllLZTA0ZVhyeE1ObTVMQ2NYQnBoUnNB?oc=5
+- CAG focuses on technology, reforms to strengthen public accountability - The Hindu
+  CAG focuses on technology, reforms to
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObmx0dXBmLVg0TnlZeXV4QXBwNFhZb09FcTZMdi1zSmNPVUdxVGxGSEpYZGcwTWdpT1hjT1hkLTd4V3dlVTlUaHY5bGxxLTNIelJvYVZTb3A5cG5VZThGdFZOOEJIemJGSjZLaVhUQ3kwU2NHUW1pdGVfWUFiQlVuVGdXVXRLaVdtRDB1VXZLMjZrcHh5NC1vTjc0cG5tVjdVSG1RcDFyZ2dvWERsaFBQNmtubUdjejl5aFAweDRUOGtGQlNZMjh30gHOAUFVX3lxTE1Pb0Q2NnBDdUdYdXhPQ2tSaHQwWUV5MVlkNHJDazNwWEgtWDZFTmFWVG5QVFlUd3lnTlBJX2hjbUVaSERYLXRZVGxpUVI0d3BFYWFISl9LS0pnY1cyNEg4eUhiUmpJWVNCaktGUEN6bWZhRzliMk5NbG1TYWViR0Y4WWUySDB4UFdvTmJWRHEzdGlpb0s4aDRTMlA1MVNnQkQ4VHBXOW5fTEdEbEthM01TcTBpYVVxS3liRUN2ZzVkTWJfUS15MnRoTkNPN013?oc=5
 
-- 6 Technology Trends That Will Transform The World In The Next Decade - Forbes
-  6 Technology Trends That Will Transform The World In The
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjZRZ195ekFJSV9HQ2lrUl9aaDJaUUhYaHFfcDFFRE9TblNRNFFsZ183UWNjNHBtRkxDaUh6RENRQUdQd2k5V01rRExTLTR6Mm9rVDFiX1dPMDRrSW9NZ1dib2lOdXBVTHBQS1R2UHFCeW5yRElySk9nWDJWSjh1OVpzRUxNczl5S0FGNmdpTFVDTjlkaWVNQmRsWDlhMWdOOXBMcmNuRHFoQ21UZjVBVFo4X3VUNldsc1NXTmJR?oc=5
+- Qualcomm Promotes Pooja Upreti to Senior Director, Technology - https://hrtoday.in/
+  Qualcomm Promotes Pooja
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHAyTVVQQXBwaDZjcXNwOU51MHlkVXdWMTR3S014WmtwOFdDNzkxOHpXelowcU4xd2NfckVWYWdtdGFmVjFGRXRyY290dFJsWTZKN1lpWm5LVHQ1andaNWR1U0t4NU9iM0pIb2ZxMV9NZVJKaFVLQlJtQ3h4SVdiaWx5cHdQQ1k?oc=5
 
-- Six-day quantum technology programme commences at SITAMS in Chittoor - The Hindu
-  Six-day quantum technology programme commences
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV3JMcVRjNVo4SnlabkNpRmgtVG9tTXRJcTdMVGdyNkV1UWZqbFNtbWlMZm43b3JsdVdzeWw0Z3BrUG9uaG9IWThReUN1TjloeXZ4d2E3RE1zX0gyVXlPal9HQ1QzVmVSS0wxVllsNkpDMmNHLUYtOTM5UGdPc2tJZlJkMnFzQ05MckJ0TTVHc0hnMWVTQnUwdDJrdEQybzBkOE1VSVowc0dqV2RXMXl1QjREMW5TUzFraGdIRThxLWxMU01UVl9GR2hrRVF4OW1YWnJ4TXNn0gHcAUFVX3lxTE9rWFFDMkZTVFJKNmhob2FZajdLdVBBS2RWMFp3Y3M4NFNkbDBEM3luMjl6N0I1NmhXRDJRRHAtQ2kxTXJqN3dZSTVoRHRZd0xrdXp0dVl2MWdjbWNzVlZ6cXlMMzVMZmc2WTBsYk14dWJsQkJOLVdVNHNQTFB4cHdpU3l1a19NQVh4YnpZRFJXV05JM284Y0JwUGhudlNRdDJfYnlpeDE4T3FydXctajlBTVlVd2ZGbE5fWHg1NjNldzFPSDJlOHpuOTNHSGloS2trcWhUZjlQRER5bGY?oc=5
-
-- Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows | AI (artificial intelligence) - The Guardian
-  Reports of AI-related child sexual abuse material rise 8,400% in two years
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjB4X1BOTnFyWEdidVZIbzZnUjJqSFJvUjFUZkJ3TDFoZm9KNnViV3BKR0tvbTRwTFZWUUVsSHFfdjVzZVVCdEFuUkd5N3A1ZENveEMxYnlkTVNDRGdFakswTmhLX2h4MTdvcU5iaEVxSUFfZEE2Qi1UX1JfX1g1VWpUTWw5dTB4UTdud3BTUlFLblFaenlUb1QwN2F1cUhYaHFrT2JFUXRSUy1iSUZucGJxZ0FSSTI2?oc=5
+- Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks - Reuters
+  The Fed's Warsh says emerging technologies to have '
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5
 
 - Samsung’s Latest Products Recognised by Consumer Technology Association Ahead of CES 2027 - samsung.com
   Samsung’s Latest Products Recognised by Consumer
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTk1ZmlQU2NDVGNlNERtQzNYNFlyN29wOVdxbnlqOVNUNm9SVmE0eUhRVnA3bVltczRPbEhYaUxpNUdNYWZTemRUQUJYM3I4VVJiU0Q2blJ2YW5UaDZUaGZqWng0TF81c1QybjBDa0VNaEJtdUhONFVWS29SZThmSUQ1c1ZwZUlfZVBINHVtNC1WU1U2UW5nRjFvRkM1X3VPVHh0OXY5aVZDdnJsSEVMZk15X3ltOHc?oc=5
 
-- Maxposure Strengthens Technology and International Presence Amid Challenging H1 FY27 - ThePrint
-  "Maxposure Strengthens Technology and
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWpPeUtLY3R1ZHJ3WUh1SmxrWV9KMjNQTHVyOWdFNDFyYTJWcEVvcmNLTXEwQVZGVFZPYV9IM2JHRjNkbS1aVUpxSkxsbEJZekwxUTFfTjRUcER5X2s4WkVoQ0pBZkc4UmJPWVNYdTVlb004anJXdTVZN1BRWkpyQi1KZUJpdjNmTmJxOWtmb0dCampGS21SckdVUm14UG9pdHpwbzMxTmliY0ZyaTlPVUp5dkt3a19nekIyb3RCM3VicFNyb3Nkc3p0WXHSAdIBQVVfeXFMTjhSR2RRektzdTdxby1GVVc0a21pbkV2NTdGWHp1d0RqV3V6RVJZRVRSNlNaaEdiTmZtRnBiZGpydVJHMjZHWmI0Qi04dk9RLU5hcF9Db3BkRXBIQTNCRHQyaEt5SHdMaHoxeTJPcXVSMnlaSkdmQXh1dktSc1o4MVZDVExOUmdQZWduNnVhMGV6OGNQYmJrMWdDX0JBbnJMMk1HOEVnRURRTU5uSm13Nl90R0dXUFFxZGhZVjFzaGhfT1VDSGpYeXYyb1RKLW4ySU5n?oc=5
+- United Airlines Resolves Technology Issue After Widespread Outage - NDTV
+  United Airlines Resolves Technology Issue
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWDVkU0lYRDR4V2dxX3hoZVdnZWFuckdkdGNpWWpyaVVCdHY1bWVoZTIzaGFoSGFMdGlleE9YeEZyWWZBS0pOUm9leWVTb1NPQ29jNHJqRy1TcnU4MjZ0QTJ4UjlWNUlqRTczLWNkRkhmRUpnNEJsQzk2WGtFTTJIOWM1ZnNPMDNxQ3ZIUWFSN1RTMmNjVzJyVlg0VWpRQkNicHJNeWV3XzI5QdIBsgFBVV95cUxPaVEtN25JSDNHMkgxWGhpMjRvd180NjR3QWkwR3RnLVlSbTVBWEdRSTVPOUdWaF9rcXdIa3R1aVFtLUFsUmEyZFV3aGVXUDg3RE5ubi1qYW82VDV0SWZESnNlRGlvY1pyOTVDTmk3QldDR2VXOE0tXzIyVm8zbEJmckJ2MV9QVmNWWk05eS0ySmwxX2xvM2plbE80YWM0VVZVeVZaUEhxM1Q4Sl8ydWVpM2h3?oc=5
 
-- Who is Arun Nambiar? Former X India business head joins Uber Advertising to lead national agency strategy
-  Arun Nambiar will lead national agency strategy and partnerships. He previously held advertising and sales roles at X, Twitter, Httpool, Sony Pictures Networks India and Disney.
-  🔗 https://www.livemint.com/companies/people/who-is-arun-nambiar-former-x-india-business-head-joins-uber-advertising-to-lead-national-agency-strategy-11794835905872.html
+- Mahanadi Coalfields seeks  ₹90,000 crore valuation in  ₹8,981 crore IPO
+  The share sale will open to institutional and retail investors on 19 November and close on 23 November. The stock market
+  🔗 https://www.livemint.com/companies/mahanadi-coalfields-seeks-90-000-crore-valuation-in-8-981-crore-ipo-11794832350577.html
 
-- RBI moves review plea in Supreme Court against Yes Bank AT-1 bond ruling
-  Yes Bank had also filed a review petition on 13 November, making it the second party to seek a
-  🔗 https://www.livemint.com/companies/news/rbi-moves-review-plea-in-supreme-court-against-yes-bank-at-1-bond-ruling-11794833245144.html
+- US FMCG major Church &amp; Dwight plans India launch with premium products for online customers
+  The maker of Arm &amp;amp; Hammer home care goods and Trojan condoms is aiming for an early-2027 launch in
+  🔗 https://www.livemint.com/companies/news/church-dwight-india-launch-premium-products-online-customers-11794828579954.html
 
-- Hindustan Zinc’s  ₹80,000-crore expansion: The big bet to double its metal output and ride India’s infrastructure boom
-  The company's board of directors approved the HZL 2.0 Growth Programme, which will increase its
-  🔗 https://www.livemint.com/companies/news/hindustan-zinc-s-rs-80-000-crore-expansion-the-big-bet-to-double-its-metal-output-and-ride-india-s-infrastructure-boom-11794833054778.html
+- PB Balaji drove Tata Motors out of debt. JLR is dragging it back in
+  After a debt-free demerger, Tata Motors Passenger Vehicles is back in debt, burning cash, and facing mounting
+  🔗 https://www.livemint.com/companies/news/pb-balaji-drove-tata-motors-out-of-debt-jlr-is-dragging-it-back-in-11794823794702.html
 
-- BITS Pilani raises  ₹507 crore for endowment fund in 23 months, eyes  ₹939 crore target: Group VC V Ramgopal Rao
-  Annual alumni donations touched a record  ₹82 crore in the financial year 2025-26. The amount is nearly 90 times the annual contributions recorded when the Alumni Relations
-  🔗 https://www.livemint.com/companies/bits-pilani-raises-507-crore-for-endowment-fund-in-23-months-eyes-939-crore-target-group-vc-v-ramgopal-rao-11794834116735.html
+- Nvidia faces extraordinary push to restore Huang days after his exit
+  Nvidia faces extraordinary push to
+  🔗 https://www.livemint.com/companies/nvidia-faces-extraordinary-push-to-restore-huang-days-after-his-exit-11794855915717.html
 
-- Sri Lankan firm bags $75 million NTPC contract to set up 57 MW Andaman power plant: All you need to know
-  Sri Lankan firm Lakdhanavi has secured a $75 million contract from India's NTPC. The project aims to strengthen the islands' electricity infrastructure.
-  🔗 https://www.livemint.com/companies/news/sri-lankan-firm-bags-75-million-ntpc-contract-to-set-up-57-mw-andaman-power-plant-all-you-need-to-know-11794833915556.html
+- Amazon vows to fight the companys first North American union contract at a Canadian warehouse
+  Amazon vows to fight the company's first North American
+  🔗 https://www.livemint.com/companies/amazon-vows-to-fight-the-companys-first-north-american-union-contract-at-a-canadian-warehouse-11794855174755.html
 
-- AI disruption wipes out $206 billion in market value of 10 listed companies; which businesses are most at risk?
-  Ten publicly listed companies in exposed sectors have lost $206 billion in market value since 2021.
-  🔗 https://www.livemint.com/market/stock-market-news/ai-disruption-wipes-out-206-billion-in-market-value-of-10-listed-companies-which-businesses-are-most-at-risk-11794832988199.html
+- Stock market outlook today,17 Nov:Sensex, Nifty prediction-DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues
+  Sensex and Nifty rose on Monday, supported by financial, FMCG and energy stocks. Foreign inflows and lower crude prices helped.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-17-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cue-11794875550779.html
 
-- Sebi panel to review IPO, FPO and QIP rules, rationalise disclosure norms
-  The review aims to identify ways to facilitate access to capital markets for eligible issuers. It will also rationalise regulatory requirements, eliminating dupl
-  🔗 https://www.livemint.com/market/sebi-panel-to-review-ipo-fpo-and-qip-rules-rationalise-disclosure-norms-11794832119010.html
+- Stock recommendations for 17 November from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 17 November. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-17-november-from-marketsmith-india-11794834560676.html
 
-- Swiggy vs Zomato parent Eternal: Which stock has the stronger growth and better earnings outlook after Q2 results?
-  Eternal outperformed Swiggy in the September quarter, with revenue up 77.6% and profit rising 92%. Swigy’
-  🔗 https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-which-stock-has-the-stronger-growth-and-better-earnings-outlook-after-q2-results-11794829911764.html
+- Raja Venkatraman recommends three stocks for 17 November
+  Market expert Raja Venkatraman shares his top stock picks for
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-17-november-11794840884088.html
 
-- Nvidia stock plunge threatens US retirement savings: How a 30% decline could hit 401(k) investors
-  N Nvidia’s substantial weight in major stock market indices means that its
-  🔗 https://www.livemint.com/market/nvidia-stock-plunge-threatens-us-retirement-savings-how-a-30-decline-could-hit-401-k-investors-11794823457719.html
+- China’s Buyback Push Struggles to Put a Floor Under Stocks
+  Chinese companies are tapping only a fraction of loans provided by Beijing for stock buybacks. The latest effort to
+  🔗 https://www.livemint.com/market/chinas-buyback-push-struggles-to-put-a-floor-under-stocks-11794875338891.html
 
-- 13% rally in 2 weeks, but 67% upside still left? InCred bullish on this small cap stock - Do you own? Check target price
-  Techno Electric reported strong Q2 FY27 results, with revenue rising 31.4% and EBITDA 63% year on year.
-  🔗 https://www.livemint.com/market/stock-market-news/13-rally-in-2-weeks-but-67-upside-still-left-incred-bullish-on-this-small-cap-stock-do-you-own-check-target-price-11794826457836.html
+- Berkshire Boosts Delta Stake to Almost 10% of Outstanding Shares
+  Berkshire Hathaway Inc. boosted its holding in Delta Air Lines Inc. and continued whitt
+  🔗 https://www.livemint.com/market/berkshire-boosts-delta-stake-to-almost-10-of-outstanding-shares-11794867496247.html
 
-- Intel Core Ultra 7 260K arrives as a limited-edition CPU: Why is the new Arrow Lake processor hard to buy separately?
-  Intel has confirmed the Core Ultra 7 260K is a limited-availability desktop processor. The 20-core Arrow Lake chip is currently available through select Newegg ABS
-  🔗 https://www.livemint.com/technology/intel-core-ultra-7-260k-arrives-as-a-limited-edition-cpu-why-is-the-new-arrow-lake-processor-hard-to-buy-separately-11794833058686.html
+- From flipping its pages to sitting on it, the phone book infiltrated American life — then vanished
+  From flipping its pages to sitting on it, the phone book
+  🔗 https://www.livemint.com/technology/from-flipping-its-pages-to-sitting-on-it-the-phone-book-infiltrated-american-life-then-vanished-11794872631068.html
 
-- China flies 19-seater battery-powered aircraft for first time: How far can it travel?
-  The CE-25A electric passenger aircraft has completed its first piloted flight in Shandong. The 10-tonne aircraft offers a range of around 400 km
-  🔗 https://www.livemint.com/technology/china-flies-19-seater-battery-powered-aircraft-for-first-time-how-far-can-it-travel-11794824476909.html
+- A technical issue at JPMorgan Chase triggers online banking delays for major US banks
+  A technical issue at JPMorgan Chase triggers online banking
+  🔗 https://www.livemint.com/technology/a-technical-issue-at-jpmorgan-chase-triggers-online-banking-delays-for-major-us-banks-11794864334961.html
 
-- Mint Explainer | Why recent tech failures trigger concerns over digital resilience
-  A Microsoft outage and a FAA ground stop in the US unfolded within hours, prompting questions about the resilience of digital and AI-led automated systems. How vulnerable
-  🔗 https://www.livemint.com/technology/mint-explainer-why-recent-tech-failures-trigger-concerns-over-digital-resilience-11794816286946.html
+- Microsoft explains global outage: How a four-month-old software bug triggered disruption and delayed recovery
+  A software defect that remained dormant for months, a routine network failover and a temporary reduction in
+  🔗 https://www.livemint.com/technology/microsoft-explains-global-365-outage-how-a-four-month-old-software-bug-triggered-disruption-and-delayed-recovery-11794849255755.html
 
-- Goyal urges India, Egypt fintechs to co-create, co-build cross-border payment systems
-  Goyal urges India, Egypt
-  🔗 https://www.livemint.com/technology/goyal-urges-india-egypt-fintechs-to-co-create-co-build-cross-border-payment-systems-11794821117358.html
+- AI stocks face correction risk as US Fed flags Big Tech debt, rising data centre costs and stretched valuations
+  The US Federal Reserve has flagged rising debt, circular financing and stretched valuations in the AI sector as financial stability risks. A slowdown in AI returns could trigger a stock market
+  🔗 https://www.livemint.com/technology/ai-stocks-face-correction-risk-as-us-fed-flags-big-tech-debt-rising-data-centre-costs-and-stretched-valuations-11794848120670.html
 
-- UN-backed talks consider possible rules on lethal autonomous weapons
-  UN-backed talks
-  🔗 https://www.livemint.com/technology/unbacked-talks-consider-possible-rules-on-lethal-autonomous-weapons-11794818138954.html
+- Motorola Signature 27 battery controversy: Why could some buyers get a 5,500mAh battery instead of 7,000mAh?
+  Motorola Signature 27 is advertised with a 7,000mAh battery. EU regulatory records show another variant with a 5,500mAh unit.
+  🔗 https://www.livemint.com/technology/motorola-signature-27-battery-controversy-why-could-some-buyers-get-a-5-500mah-battery-instead-of-7000mah-11794837575397.html
 
-- Stock market today: Dow, S&P 500, Nasdaq futures little changed ahead of pivotal week for AI traders - Yahoo Finance
-  Tech stocks slide as Nvidia, Anthropic Tests Await. Dow, S&amp;P 500, Nasdaq futures little changed ahead of pivotal week for AI traders.
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1pRzVJd0lQc2F6aUtMUGIzUnVtazZTRFQtUndVeHZCSzhTTkVTSEJJRnIyN0JhVnN0eTVuZkFiVEN5a0xWbk54cjlXejFPTjlkb3JhTDdjQnNNMXFvblF0S3ZNUmtiTmFDdEd2NkdpZmtLSG01eldfYWZDT3lIcldSc2VlZnNQSGRkWmRmYmh3b195WDY1bnNoU25neEFTc3dwX21yTkRGdkRiSW5FMDZrdmpRZTdDZUpHaw?oc=5
+- Global Market Today: Asian stocks fall as Wall Street selloff deepens ahead of Nvidia earnings
+  The MSCI Asia Pacific Index dropped 0.7% in early trading. South Korea’s Kospi lost 1.4%. Futures for the S&amp;P 500 and Nasdaq 100 indexes were little changed
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-as-wall-street-selloff-deepens-ahead-of-nvidia-earnings/articleshow/135906533.cms
 
-- The Pre-Market Rundown 2: November 16, 2026 - CNBC
-  The Pre-Market R
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkdqMXlVNVU1RUhDVkRtc0RELUs5MkpWeGtPTHVjREdwYmtNTHRURnNLaVRtMEFTcjRES0NKY1EybFIwVDdZdm1uSU5RbWI4WEtSSlRZNUExZmhZc1djeTUzaXkyWWNOaXBzbmlCLXctc1JqNTRzSndzbjZfRXRrRUJYSlJfQjhVRHVWZQ?oc=5
+- Interest in Trump's meme coin dinner fades as $TRUMP sinks to record lows
+  President Donald Trump's third crypto gala dinner will be held on November 22 at his golf club. Interest in the event has dropped significantly with only 185 holders of the $TRUMP token participating.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/interest-in-trumps-meme-coin-dinner-fades-as-trump-sinks-to-record-lows/articleshow/135899741.cms
 
-- Stock markets end higher on foreign fund inflows, lower crude oil; Sensex up 512 points - The Hindu
-  Stock markets end higher on foreign fund inflows, lower crude oil;
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0w4R2YtNFJEeU53eDY1bnVDVFlSYmhMeUQwWmVOSlpxNXlUWkRhWk9oLXdLOXhQTWJVd2ZhZ25DYklZMDFLc25VQzRReV9aY18wMS1RcUtTakNtTXkzV1IzSXR3b2J2QWdmdkZMU3IzSTRncUFVQmlhUGx1YzUxRnl6REUxTkJFdHg0blpUUHdBdlZqWjBZWjFHUnBlODk3ODN4YmM0UTNwb2lCLW5VZm0wdUt6YlZEWjl2Zm1Rem9fczNzOUljTy1NUmNzVTJSckNJU3Bla1NTRnNIaERHMnJ30gHoAUFVX3lxTE03dldYWElaelY0X2N0V3c0Zmlkb3pPRzFCRlZvOGJYWFA2RVpRcVVZTmZjaGk5cmdqbUZDLVhDa2VJUlFfTGJNYk42YkFNOUgxc2h3ckc4MmVmOVkxbG5yRm5GRzI3c1gySTJiWXJKUERCVkV1bFdUOUU5ZjRKdDNGM0hNMERsM2x4SVdFWl8yR1RrbTByaWpBT196UHhRUGlrVEdCRDhJLWF4Q01DTk1nQWpQX0xEczZZOVBkN3ZXNGQ1bGtUUDJQQkZhTm1fV3ktcy1SVWlsb0tuNHVHMXgySVV1N0dTVUk?oc=5
+- Trump Media faces possible $1 billion debt repayment as stock nears record lows
+  Trump Media &amp; Technology Group faces a daunting challenge with a looming cash requirement of $1 billion stemming from convertible debt holders. This predicament has led to shares plummeting to near-record lows.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/trump-media-faces-possible-1-billion-debt-repayment-as-stock-nears-record-lows/articleshow/135898089.cms
 
-- Stock Market Highlights, Nov 16: Sensex gains 500 pts, Nifty ends at 25,291 led by financials - BusinessLine
-  Stock Market Highlights, Nov 16: Sensex gains 500 pts, N
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzU0QjI1bnlZV0ZiTmtlbmQ1dE91NzhjMXVaTVB1eW9HeU1zdzdpR0xlQnVqcThGbC1tbUh4ckFsUmlYRHI5RHpIaWk2ZHgyTnBPTU5rbThvVmJoTFdFMFd3cUJhVFZuRW5SdHVjSXJ1Q05XM3d1a3BacU5TZjJIbzlXX1hrS2hUUGY5ZjZsak5zVTg2cWdodXJzcVItNVVsWGU1VDVXb3BWS2h4S1dhb3pDeHJ6b3JWUFB3Y0VDLWV5VFJ3M3dR0gHOAUFVX3lxTE9raFU4OENIQmh1YWVaNlFzUlljMUd1dFI3Rjh5NDFwTzZxMkpmOHNkMFZ0M0JLeVhKTzQ4dFRXOUNVWUdRYl8xdVBwaFBEX2g0aVc5S0V4b0dLN3pKOEE2UmhKNVJ1M09FR3BUM2FBNWwtQ3pZbXZRS3Q4Sk1ucXBPYUdaSmhBcE1YUTdKcU1sT3lvWDVBeTAzWU5GR05xenlIYXpBM0xsY1QwZGpZMDV2dFdmVzBtRlExWjhlMUlScWtIMlRhQVU3dzZmQ0Rn?oc=5
+- Nvidia earnings spotlight shifts to leadership, AI financing after Huang exit
+  Investors are eager for clarity regarding revenue expectations and ongoing financing commitments in the upcoming earnings report. Key numbers to watch include contributions from the new Vera Rubin data center platform.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nvidia-set-to-deliver-first-life-after-huang-briefing/articleshow/135896160.cms
 
-- Markets recover, but broader weakness persists - The New Indian Express
-  The New Indian Express looks at the
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0xPX2EzdEpLdDNXbVhEX2ZxNkF5VkppaWhiN29RTVNzbV93Y3ZUNjlxME5iUkt0Y3BLSWVFalczSzNUTHlGR0ZSaWVqQ1BVU0NPa1ZIUGxHZWh2Vng1YXVzYmNxRUN4eE1FeElEYWRydUhuT0Y4SU9aQmRKbUxDNjJSN0piRWJ4cE1kMEE1UmpVMFpPOTZxbkd2cXZGeVRm0gGuAUFVX3lxTFBoV3dsWi1QOC1HbWktM3IyemFEc0VxbWhxYUtjSmFMRkZhX1NTWFhINlpBV2dwT1hFUWU0andoWFZDODhKekh3dkZPdzg5VHMzUUNPMFZVVUxwajhkWDR6a2ZKRUNPWFBpa0k1OG5vY0xRWFRtQ0RxVExpaUtMQS1UdGVhRUFzX1E1TmxyYWVNa04tT3FhbEtDR2JZa3ZQZGFiWkxYcGpvZ1ktWmhrdw?oc=5
+- Barclays lowers 2027 year-end target for S&amp;P 500 index to 8,700
+  Barclays revised its S&amp;P 500 index target for the 2027 year-end from 8,800 to 8,700. Analysts believe that tighter financial conditions may lead to increased valuation dips.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/barclays-lowers-2027-year-end-target-for-sp-500-index-to-8700/articleshow/135894874.cms
 
-- Dalal Street becomes best-performing stock market in a month. Can it rally more?
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/dalal-street-becomes-best-performing-stock-market-in-a-month-can-it-rally-more/videoshow/135891640.cms
+- Indo-ASEAN ties at the heart of India’s Act East Policy, PM says ahead of ASEAN summit in Manila - The Hindu
+  Indian PM Narendra Modi is in Manila for the ASEAN summit.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVVLckN4WEFuaDBBd0FUQXlRWmczRWVLUjBLUWNxVU1jMVVBMTd5TFB0U0tod1A4RzBOemZXa0RpcUZiZHFFMWNkcFVaSHU3RkVIWUtuaThielBYTElMZFIyZEc1YmVrSEdNeDdUdzQ0S3ZEeFhwZno3YzUwSlVIVFNjTjR3ZzViSVA2YVZWODRXMV84bC1jd0J4YWFVSUk3c2ZRNUdIcC1GbUJTVHV2ZHdSNmtIRGsyV3ZyOHoxNnp6VUI3cHR0VlRn0gHQAUFVX3lxTE5ETjN6ZEhEMFNUN2tYMWZnNnlwWnlhNE1LWm11NVhhVWozSURvQkFITFZqSmJWZGRKUDBHajZXTWl1dFRJeXlzdUY3eHNmdXJoeXZTWTdVZ1ItbmhILVRHYkg3WE9ORjRKRnZjTGZWSFF5WWNBcHR1MllRcTQ1NVZHQXRrZWM4SkxlVGtJVjF6Zk90OXVKU29aM1h0bWZNdDJzZ0l5dFZNZ19Rcm5WQ2FLUGd6ODNuTXhoQTV0TTZHekszd2RwU1NLUFJJTkllNkU?oc=5
 
-- S&amp;P 500, Nasdaq futures slip ahead of Nvidia results, Anthropic IPO: Stock Market Live Updates
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-coreweave-nebius-nvidia-earnings-anthropic-ipo-treasury-yield-news-16th-november-2026/liveblog/135890877.cms
+- Ties with Asean crucial for India's Act East Policy: PM - The Times of India
+  Ties with Asean crucial for India's Act
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVRzT3ZSR1ZaeVg3OXdheXNQWWNvMER4QWVMcXNZWDgzeU5XdXVoMjBtWTdTLW9VYXNfLWRKSTYwMXpZZmFQWkMzaFhpVWlyQlg2c0pkd3NWQVBnUm05SnB5WmwxakFvTlRhY3BFaXJaQXZUeFJTZnB0LWNIN3o4X21JRHhWdEZWbGZId1A1X0t0clY1ZG9nS1dqM09NbWV6THRUV3QteEFJQm9ZZjJ0TmZ5OHZ3U1ZycUFBVk5B0gHDAUFVX3lxTE5SQ1JHRjNid2x4WmFaZVRSUG5sZnJyR09aOXlaZGFjaW1ocktvcVhSWTBIWm85NjlYeE1OT0tmcEY1MW5yRGljWm0tSVVERlJ2NzlPdU5MNXlJVFBtVnlkNzNsVEdJQXhPZ3AwaHVSOV9Sdl9Gd3ZnUE1scVBIWVUzcE5EX04yRVZfT2N0SHNRT3lLOUg3aWVpUWIxNmVjY2xrMFdrXzd5RTZuOERtM2dGeFRNeTl2RnA1enA1amtLTjBzcw?oc=5
 
-- Sebi sets up sub-group under PMAC to review key IPO norms; NSE's Chauhan to head panel
-  Sebi has established a sub-group within its Primary Market Advisory Committee aimed at reassessing regulations related to IPOs and fundraising. Key focal points include promoter capital lock-in terms, pricing strategies, and due diligence obligations.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-sets-up-sub-group-under-pmac-to-review-key-ipo-norms-nses-chauhan-to-head-panel/articleshow/135890467.cms
-
-- Retain capital gains tax on equities, economists tell FM Sitharaman ahead of Budget 2027-28
-   Economists recently met with Finance Minister Nirmala Sitharaman to discuss the upcoming Union Budget for 2027-28. They recommended keeping the capital gains tax on equities, opposing industry requests for its abolition.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/retain-capital-gains-tax-on-equities-economists-tell-fm-sitharaman-ahead-of-budget-2027-28/articleshow/135890410.cms
-
-- Blackstone REIT to buy majority stake in $5 billion Amazon data center portfolio
-  Blackstone Digital Infrastructure Trust has officially announced its commitment to acquire a 75.1% stake in joint ventures alongside Amazon Web Services. This significant deal values the AWS data center portfolio at around $5 billion. The portfolio features 13 newly constructed
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/blackstone-reit-to-buy-majority-stake-in-5-billion-amazon-data-center-portfolio/articleshow/135890381.cms
-
-- CAHOTECH 2026 launches new accelerator to propel Indian health tech - The Hindu
-  The Hindu has published an article on India's
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQmJ2Mlh2S2NLX0hUMWthVk9PM3FhaW95Z2lLTF91NmFwcmtGZDcxWTYtbmVXWVBpRGxEWTFBbXhaOTlMU2w4QmVUMFRZeXlJcVAzT1k4M29HdmFsT3BLREM4MkJBWVdZQjgxVS1mUkVSbG5xOGZ0dFg1Tm41XzY2dFFEZVVIRUNTY00yWUJaaVJVS1lGOHN4T0R4bm9wcHJSaVVBVVhYX1ZpNFAxZDlKV0NjZ1BjREg0eS1OY3B4YzVaVktTS2lkMHdpOV9vQ0JLNXcxWlRLbDbSAd8BQVVfeXFMTjEzQ3lwMmhaYjhsRzFVVTVUVkM2SVg2anc0OTZBcmlSMW9yVFZzZ05jN3dmRV9tM3ZvUy1jV2dZb25xbWQzazF3U20tRlNrcFhwZmR0bkpvUTV4LVdSRWN5UnhaZ05OT1p6RlVXTFlBVnNfbFl4VWlSTXhRQUJSSlB5ZU13ZG0tdTVVTTRBYkZrYVJrZFVwMXNBNFdQRW5HSEl3Si1tY3FuT3RrUDlvUEQ2UXo4bjFQS1pESHlTSUcwUnF4eDFrUUxQT3JNVnBhdzFaMUlqOHJMcDAySVQ5NA?oc=5
-
-- 'Abusive language': Yashveer Goud reveals why India celebrated fiercely after U19 Asia Cup final win over - The Times of India
-  'Abusive language': Yashveer Goud reveals why India celebrated fiercely after
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxOcmJSc0M0dTNUZkMyOHZlVzRseUgybE5tMFdDWl9hQngxQ3p5Y0h2ejVpTGFQREVpbmFuS0dEVHVwZHFCYXVWbDhCeW95S3Q4eEpPUm1pMWlKQTNVaGotckd2UFNFOUZJcVhOQTc1MmJ1dGc2UkZYbnpjaUQzaFkxWDc4MUVwRjREZ0h1aUUzWlpYaU1XUzdZVG1ZQVBnZTdBMGxzWlUwLXJnWTNQbzZCUUx6X3REaDBTakE1b2NudHN1U0ZDVGE5eVBjeWV2djh0S1ByRFdsWHBaX0psd3RZdGhHcDNSQ1RCUUxIMzIzbGtIR1FLV1hTbmhxaWR3UjZTeG1fc0tsUE96d3M1VlctRGpLbWk4VElKM2dsR0VR0gGjAkFVX3lxTE1JNXNiVWtMajBDNDRvOHJhU0hDRlA1cncyelJrb1hTem8wRnpLd1pQaXg1ckdGbDdsazEyNzMtX25VSmNjSmFfX1FPNU9DZll5RUR3ZGJEQ3pzczRNSXhwUm00MGkwWjBRYkY0ai1paFBwV2NOaEJtMm1fNkRqVnpqejhhQVBfY2JlZFVjZHQ0YjNWZ3ZnTEQ1N2lKSjlERUlIRGZnbnowMEtWbXpQdEZYSUJreDF4S1NDN3Y0VVp1NVFQX25YY0ZueUxHVU52cW1IS2Q3STgzSXRWekdmbExxWk5GejNkZjRHVzhQYWFlSE1ZYXdscHEzTE9Ud05IMW5Dc2JyLXNWM0k1cVVDNC1sRjBRQjdpOHlFN0I2RTdpMmgyTQ?oc=5
+- PM Modi Embraces Filipino Formal Wear At ASEAN Gala Dinner In Manila - NDTV
+  PM Modi Embraces Filipino Formal Wear At
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGdJQUp1ZUtoMkp1dnhTMzZaNUpjZGVSUTEtcy14Q01idUE1OXdrQk44cjc0eTVqSWtVaXRwUW9vSEE4R3Nlcm96SVFtTkN0QXFFZ0toZTF1MDFvcUs1TENPN05Ndm1xWVZ5NUFnUUxvWHM2dndCT1N5NHd4LXdIQUlscE9Uc2ZWNFhkM0pvLWthZzU3ZkR4TlFIRjh6NTVmcGN3TGhQeDRNVWNrOWM40gG3AUFVX3lxTE1PTHRmSDFXVmJrMHI5NUI4OVZ5ZkhBWGpsbmhLTjdEU0lTR3JCdXBYSFZwaHBPTjVOOHgwLWdQYkFhdVA0LUcwbnRZbTFRUXM4ZWFEdGZPR2Z3TWxvRlN5ZmQ0cW50OFpxajQzNUJpcVVtbFZ5OU9yWEN2elhqcXpyRDU5Y0UxdC1kNjJXYTJtUXFDUTVGQlZpMXFGS3piYllfbG5ZZGh1RnhmeF9ZMUc1bzk5MzhEWQ?oc=5
 
 - What Shields India's Military Against Honey Traps? Air Force Chief Shares Insights - NDTV
   India's Air Force Chief Shares Insights on Honey
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRi12ZV9ZVFYzUFJzUk4yR2FhYmZ5eV8tRFRFUVpCSnRYV1oyX3BXdVRQWkowaDN0WDZFMVRYa3VEMElMMURHOURCQUJPTTliLUwyTlNGTm9Cam5IQmNQNS14WldpZkc4M3BrTGdtNzFMWW1PdWp1NWdwM0E3TS1kSm1LRjhTMjZTVlV1RERkcFpxR0ZOUkQxbk1tbXNOR3RTc2QzUVdtbUxXRzRsanVQOEx3RElyc1hKZU52M3NGOHVURFBZX2tielpvZmpadnhLaVBmbtIB3AFBVV95cUxQQmZud3VRb1RmblFRc3RvWU5JTTZZVnYyUVZKMjRteWlqa2hzQlE1WmM0UlhsbG5CMHJxRFJtb0hXcXpxeEhyQXdDd1ZMMzZWTDJRbUFzaDRGeWF5R0hBVHgtTVpRVmZsdEtTclhha1Q0bmZVLU5sVS1yQ1ZDd21Qb1BiYWRBTVlVbXE4ZFNHT1BxLTg4TFFYVURadU5KRjlrbDc2djdxMVZ6VmtkcmJRemdGa3lWNUdINUhPalVicjkydVZTTjhJaDZzQ0hYS2ZfZXc1MTA1dlhNcXJZ?oc=5
 
-- Prince and Princess of Wales in India ahead of meeting with Modi - BBC
-  Prince and Princess of Wales in India ahead of meeting
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VWHp1bV9CSDE3eDFHRFlQWlJ0aGg1Z2k2ZjJoaHJ4QWR5bHB3T0ViTXZyV01qSl9FY0xKdXFsMmwwUlUzdnVJV2w0RXo4Wi1Cd1pPWmZPY2kzSUU?oc=5
+- India shows us a picture full of colour, complexity and possibilities, says Prince William - The Hindu
+  India shows us a picture full of colour, complexity and possibilities,
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR3hvRTFiTTVXUUY0Q20wSldtdnltWmw0ZWYzVHVQdjRmbzhKYzY4djNMdXRfR3JBZTgyWXJKcXpLaElWOURFWjkzZk1RVFVXZ2VYTmlFdGJoOEwyRmVGWXlZY19lNzhFUzc0V3F6YU41NGpZZ3lvVHBVYmRMU2pFdEFEeVY0eXcyZzJVNG5HU1ZxajVmcmtpUTFnLW5yb284VWJGdk1nWW56NWJCSDNUSW5uRWtvbEFYYmJ5TXlDN3FUSFhhR0ZvSWI1WVlnYTNVQWdjeHZzVU91NFRpOXBCZtIB5wFBVV95cUxNeE9PeEZzUWY4T0hHbzBBZUIxdmNpOTdLYmtiSTJNVVlJNW5ZU2dMdEpoeFY2Q1ZwNVpkTXhsdGpXYktsbDV3LVBoRTdENmprNzZEd2pLMkprTmRrNWxQcy01TmlIV0RuZVFaVmhoN280STlxaE5kWjNEaXIteW13REp5ZDBvdDVyVW95Vm1GUnJ2UUM0bFI4QzExTzZ6Mm1hVndJaEY3LXhmaGtTanJNaEhyNWxqSkRTRjY2ZDJ3Y2tLOTFuQl9WT1ZXY3FrWlVZbFZBZElXTjhsTUlUc2pXSUU3bkUzN3M?oc=5
 
-- News & Editorials 16 November 2026 | UPSC Current Affairs - Drishti IAS
-  Drishti IAS is a nonprofit organization
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjRpNE1jRTR6OTFqUnZKZEUtSndTdHMzMnZzZWN2STRiMzNqNDMwbnZtUGVrejRlZE13ZW1rOHpBWGJYalZzeVRsUmVVMGpKQXJBc2pWOWdicFI0cDg2VHJCVGZyY1pfbnhTc1lmbW82WklFekFjc1JwWlVMWFdUVzlIdllLZTA0ZVhyeE1ObTVMQ2NYQnBoUnNB?oc=5
+- India & Nine Other Nations Sign Joint Declaration To Safeguard AI Supply Chains
+  India and nine other nations have signed a joint declaration to safeguard supply chains and infrastructure.
+  🔗 https://inc42.com/buzz/india-nine-other-nations-sign-declaration-to-secure-ai-supply-chains/
 
-- Fake Allahabad HC Order Row: DoT Orders Unblocking Of 95 Websites
-  Department of Telecommunications (DoT) has directed internet service providers (ISPs) to immediately unblock 95 websites.
-  🔗 https://inc42.com/buzz/fake-allahabad-hc-order-row-dot-orders-unblocking-of-95-websites/
+- Bombay Shaving Company’s Parent Forays Into Wellness With rE, Eyes Gym Launches
+  Visage Lines Personal Care Pvt Ltd, the parent entity of D2C grooming startup Bombay Shaving Company, has forayed into the
+  🔗 https://inc42.com/buzz/bombay-shaving-companys-parent-forays-into-wellness-with-re-eyes-gym-launches/
 
-- Jio Stops New Signups For Free Google AI Pro Subscription
-  Reliance Jio has stopped accepting new claims for its free Google AI Pro subscription, which gave eligible users up to&#8230;
-  🔗 https://inc42.com/buzz/jio-ends-new-sign-ups-for-free-google-ai-pro-subscription/
+- Dreamteam Bags $53 Mn To Disrupt The CRM Space With AI
+  AI-native customer relationship management (CRM) platform Dreamteam has emerged out of stealth mode. The startup was cofounded by former Freshworks executives.
+  🔗 https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/
 
-- Raj Shamani Becomes World’s Most-Subscribed YouTube Podcaster
-  Indian entrepreneur and podcaster Raj Shamani has overtaken global podcasting heavyweights Joe Rogan and Steven Bartlett to become the world’s most-subscribed
-  🔗 https://inc42.com/buzz/raj-shamani-becomes-worlds-most-subscribed-youtube-podcaster/
+- Oil Cools, But D2C Brands See No Way Out Of Price Hikes
+  Direct-to-consumer (D2C) startups have been facing mounting cost pressures since the US-Iran conflict drove up global crude prices
+  🔗 https://inc42.com/features/oil-cools-but-d2c-brands-see-no-way-out-of-price-hikes/
 
-- Eternal Rethinks 2030 Deadline For Fully Electric Delivery Fleet
-  Eternal and Blinkit parent Eternal is reconsidering its target of switching to a fully electric delivery fleet by 2030.
-  🔗 https://inc42.com/buzz/eternal-rethinks-2030-deadline-for-fully-electric-delivery-fleet/
+- Fractal Eyes AI Acquisitions Ahead Of Enterprise AI Scale-Up
+  Fractal Analytics is evaluating acquisitions across healthcare, agentic AI and AI engineering.
+  🔗 https://inc42.com/buzz/fractal-eyes-ai-acquisitions-ahead-of-enterprise-ai-scale-up/
 
-- Smartphone Price Hike: Samsung, Xiaomi Models Get Costlier By Up To ₹4,000 In India
-  Samsung and Xiaomi have increased smartphone prices by up to ₹4,000 across 48 variants in India.
-  🔗 https://inc42.com/buzz/samsung-xiaomi-models-get-costlier-by-up-to-%e2%82%b94000-in-india/
+- Indo-ASEAN ties at the heart of India’s Act East Policy, PM says ahead of ASEAN summit in Manila - The Hindu
+  Indian PM Narendra Modi is in Manila for the ASEAN summit.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVVLckN4WEFuaDBBd0FUQXlRWmczRWVLUjBLUWNxVU1jMVVBMTd5TFB0U0tod1A4RzBOemZXa0RpcUZiZHFFMWNkcFVaSHU3RkVIWUtuaThielBYTElMZFIyZEc1YmVrSEdNeDdUdzQ0S3ZEeFhwZno3YzUwSlVIVFNjTjR3ZzViSVA2YVZWODRXMV84bC1jd0J4YWFVSUk3c2ZRNUdIcC1GbUJTVHV2ZHdSNmtIRGsyV3ZyOHoxNnp6VUI3cHR0VlRn0gHQAUFVX3lxTE5ETjN6ZEhEMFNUN2tYMWZnNnlwWnlhNE1LWm11NVhhVWozSURvQkFITFZqSmJWZGRKUDBHajZXTWl1dFRJeXlzdUY3eHNmdXJoeXZTWTdVZ1ItbmhILVRHYkg3WE9ORjRKRnZjTGZWSFF5WWNBcHR1MllRcTQ1NVZHQXRrZWM4SkxlVGtJVjF6Zk90OXVKU29aM1h0bWZNdDJzZ0l5dFZNZ19Rcm5WQ2FLUGd6ODNuTXhoQTV0TTZHekszd2RwU1NLUFJJTkllNkU?oc=5
 
-- CAHOTECH 2026 launches new accelerator to propel Indian health tech - The Hindu
-  The Hindu has published an article on India's
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQmJ2Mlh2S2NLX0hUMWthVk9PM3FhaW95Z2lLTF91NmFwcmtGZDcxWTYtbmVXWVBpRGxEWTFBbXhaOTlMU2w4QmVUMFRZeXlJcVAzT1k4M29HdmFsT3BLREM4MkJBWVdZQjgxVS1mUkVSbG5xOGZ0dFg1Tm41XzY2dFFEZVVIRUNTY00yWUJaaVJVS1lGOHN4T0R4bm9wcHJSaVVBVVhYX1ZpNFAxZDlKV0NjZ1BjREg0eS1OY3B4YzVaVktTS2lkMHdpOV9vQ0JLNXcxWlRLbDbSAd8BQVVfeXFMTjEzQ3lwMmhaYjhsRzFVVTVUVkM2SVg2anc0OTZBcmlSMW9yVFZzZ05jN3dmRV9tM3ZvUy1jV2dZb25xbWQzazF3U20tRlNrcFhwZmR0bkpvUTV4LVdSRWN5UnhaZ05OT1p6RlVXTFlBVnNfbFl4VWlSTXhRQUJSSlB5ZU13ZG0tdTVVTTRBYkZrYVJrZFVwMXNBNFdQRW5HSEl3Si1tY3FuT3RrUDlvUEQ2UXo4bjFQS1pESHlTSUcwUnF4eDFrUUxQT3JNVnBhdzFaMUlqOHJMcDAySVQ5NA?oc=5
+- Ties with Asean crucial for India's Act East Policy: PM - The Times of India
+  Ties with Asean crucial for India's Act
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVRzT3ZSR1ZaeVg3OXdheXNQWWNvMER4QWVMcXNZWDgzeU5XdXVoMjBtWTdTLW9VYXNfLWRKSTYwMXpZZmFQWkMzaFhpVWlyQlg2c0pkd3NWQVBnUm05SnB5WmwxakFvTlRhY3BFaXJaQXZUeFJTZnB0LWNIN3o4X21JRHhWdEZWbGZId1A1X0t0clY1ZG9nS1dqM09NbWV6THRUV3QteEFJQm9ZZjJ0TmZ5OHZ3U1ZycUFBVk5B0gHDAUFVX3lxTE5SQ1JHRjNid2x4WmFaZVRSUG5sZnJyR09aOXlaZGFjaW1ocktvcVhSWTBIWm85NjlYeE1OT0tmcEY1MW5yRGljWm0tSVVERlJ2NzlPdU5MNXlJVFBtVnlkNzNsVEdJQXhPZ3AwaHVSOV9Sdl9Gd3ZnUE1scVBIWVUzcE5EX04yRVZfT2N0SHNRT3lLOUg3aWVpUWIxNmVjY2xrMFdrXzd5RTZuOERtM2dGeFRNeTl2RnA1enA1amtLTjBzcw?oc=5
 
-- 'Abusive language': Yashveer Goud reveals why India celebrated fiercely after U19 Asia Cup final win over - The Times of India
-  'Abusive language': Yashveer Goud reveals why India celebrated fiercely after
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxOcmJSc0M0dTNUZkMyOHZlVzRseUgybE5tMFdDWl9hQngxQ3p5Y0h2ejVpTGFQREVpbmFuS0dEVHVwZHFCYXVWbDhCeW95S3Q4eEpPUm1pMWlKQTNVaGotckd2UFNFOUZJcVhOQTc1MmJ1dGc2UkZYbnpjaUQzaFkxWDc4MUVwRjREZ0h1aUUzWlpYaU1XUzdZVG1ZQVBnZTdBMGxzWlUwLXJnWTNQbzZCUUx6X3REaDBTakE1b2NudHN1U0ZDVGE5eVBjeWV2djh0S1ByRFdsWHBaX0psd3RZdGhHcDNSQ1RCUUxIMzIzbGtIR1FLV1hTbmhxaWR3UjZTeG1fc0tsUE96d3M1VlctRGpLbWk4VElKM2dsR0VR0gGjAkFVX3lxTE1JNXNiVWtMajBDNDRvOHJhU0hDRlA1cncyelJrb1hTem8wRnpLd1pQaXg1ckdGbDdsazEyNzMtX25VSmNjSmFfX1FPNU9DZll5RUR3ZGJEQ3pzczRNSXhwUm00MGkwWjBRYkY0ai1paFBwV2NOaEJtMm1fNkRqVnpqejhhQVBfY2JlZFVjZHQ0YjNWZ3ZnTEQ1N2lKSjlERUlIRGZnbnowMEtWbXpQdEZYSUJreDF4S1NDN3Y0VVp1NVFQX25YY0ZueUxHVU52cW1IS2Q3STgzSXRWekdmbExxWk5GejNkZjRHVzhQYWFlSE1ZYXdscHEzTE9Ud05IMW5Dc2JyLXNWM0k1cVVDNC1sRjBRQjdpOHlFN0I2RTdpMmgyTQ?oc=5
-
-- What Shields India's Military Against Honey Traps? Air Force Chief Shares Insights - NDTV
-  India's Air Force Chief Shares Insights on Honey
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRi12ZV9ZVFYzUFJzUk4yR2FhYmZ5eV8tRFRFUVpCSnRYV1oyX3BXdVRQWkowaDN0WDZFMVRYa3VEMElMMURHOURCQUJPTTliLUwyTlNGTm9Cam5IQmNQNS14WldpZkc4M3BrTGdtNzFMWW1PdWp1NWdwM0E3TS1kSm1LRjhTMjZTVlV1RERkcFpxR0ZOUkQxbk1tbXNOR3RTc2QzUVdtbUxXRzRsanVQOEx3RElyc1hKZU52M3NGOHVURFBZX2tielpvZmpadnhLaVBmbtIB3AFBVV95cUxQQmZud3VRb1RmblFRc3RvWU5JTTZZVnYyUVZKMjRteWlqa2hzQlE1WmM0UlhsbG5CMHJxRFJtb0hXcXpxeEhyQXdDd1ZMMzZWTDJRbUFzaDRGeWF5R0hBVHgtTVpRVmZsdEtTclhha1Q0bmZVLU5sVS1yQ1ZDd21Qb1BiYWRBTVlVbXE4ZFNHT1BxLTg4TFFYVURadU5KRjlrbDc2djdxMVZ6VmtkcmJRemdGa3lWNUdINUhPalVicjkydVZTTjhJaDZzQ0hYS2ZfZXc1MTA1dlhNcXJZ?oc=5
-
-- Prince and Princess of Wales in India ahead of meeting with Modi - BBC
-  Prince and Princess of Wales in India ahead of meeting
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VWHp1bV9CSDE3eDFHRFlQWlJ0aGg1Z2k2ZjJoaHJ4QWR5bHB3T0ViTXZyV01qSl9FY0xKdXFsMmwwUlUzdnVJV2w0RXo4Wi1Cd1pPWmZPY2kzSUU?oc=5
-
-- News & Editorials 16 November 2026 | UPSC Current Affairs - Drishti IAS
-  Drishti IAS is a nonprofit organization
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjRpNE1jRTR6OTFqUnZKZEUtSndTdHMzMnZzZWN2STRiMzNqNDMwbnZtUGVrejRlZE13ZW1rOHpBWGJYalZzeVRsUmVVMGpKQXJBc2pWOWdicFI0cDg2VHJCVGZyY1pfbnhTc1lmbW82WklFekFjc1JwWlVMWFdUVzlIdllLZTA0ZVhyeE1ObTVMQ2NYQnBoUnNB?oc=5
-
-- CAHOTECH 2026 launches new accelerator to propel Indian health tech - The Hindu
-  The Hindu has published an article on India's
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQmJ2Mlh2S2NLX0hUMWthVk9PM3FhaW95Z2lLTF91NmFwcmtGZDcxWTYtbmVXWVBpRGxEWTFBbXhaOTlMU2w4QmVUMFRZeXlJcVAzT1k4M29HdmFsT3BLREM4MkJBWVdZQjgxVS1mUkVSbG5xOGZ0dFg1Tm41XzY2dFFEZVVIRUNTY00yWUJaaVJVS1lGOHN4T0R4bm9wcHJSaVVBVVhYX1ZpNFAxZDlKV0NjZ1BjREg0eS1OY3B4YzVaVktTS2lkMHdpOV9vQ0JLNXcxWlRLbDbSAd8BQVVfeXFMTjEzQ3lwMmhaYjhsRzFVVTVUVkM2SVg2anc0OTZBcmlSMW9yVFZzZ05jN3dmRV9tM3ZvUy1jV2dZb25xbWQzazF3U20tRlNrcFhwZmR0bkpvUTV4LVdSRWN5UnhaZ05OT1p6RlVXTFlBVnNfbFl4VWlSTXhRQUJSSlB5ZU13ZG0tdTVVTTRBYkZrYVJrZFVwMXNBNFdQRW5HSEl3Si1tY3FuT3RrUDlvUEQ2UXo4bjFQS1pESHlTSUcwUnF4eDFrUUxQT3JNVnBhdzFaMUlqOHJMcDAySVQ5NA?oc=5
-
-- 'Abusive language': Yashveer Goud reveals why India celebrated fiercely after U19 Asia Cup final win over - The Times of India
-  'Abusive language': Yashveer Goud reveals why India celebrated fiercely after
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxOcmJSc0M0dTNUZkMyOHZlVzRseUgybE5tMFdDWl9hQngxQ3p5Y0h2ejVpTGFQREVpbmFuS0dEVHVwZHFCYXVWbDhCeW95S3Q4eEpPUm1pMWlKQTNVaGotckd2UFNFOUZJcVhOQTc1MmJ1dGc2UkZYbnpjaUQzaFkxWDc4MUVwRjREZ0h1aUUzWlpYaU1XUzdZVG1ZQVBnZTdBMGxzWlUwLXJnWTNQbzZCUUx6X3REaDBTakE1b2NudHN1U0ZDVGE5eVBjeWV2djh0S1ByRFdsWHBaX0psd3RZdGhHcDNSQ1RCUUxIMzIzbGtIR1FLV1hTbmhxaWR3UjZTeG1fc0tsUE96d3M1VlctRGpLbWk4VElKM2dsR0VR0gGjAkFVX3lxTE1JNXNiVWtMajBDNDRvOHJhU0hDRlA1cncyelJrb1hTem8wRnpLd1pQaXg1ckdGbDdsazEyNzMtX25VSmNjSmFfX1FPNU9DZll5RUR3ZGJEQ3pzczRNSXhwUm00MGkwWjBRYkY0ai1paFBwV2NOaEJtMm1fNkRqVnpqejhhQVBfY2JlZFVjZHQ0YjNWZ3ZnTEQ1N2lKSjlERUlIRGZnbnowMEtWbXpQdEZYSUJreDF4S1NDN3Y0VVp1NVFQX25YY0ZueUxHVU52cW1IS2Q3STgzSXRWekdmbExxWk5GejNkZjRHVzhQYWFlSE1ZYXdscHEzTE9Ud05IMW5Dc2JyLXNWM0k1cVVDNC1sRjBRQjdpOHlFN0I2RTdpMmgyTQ?oc=5
+- PM Modi Embraces Filipino Formal Wear At ASEAN Gala Dinner In Manila - NDTV
+  PM Modi Embraces Filipino Formal Wear At
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGdJQUp1ZUtoMkp1dnhTMzZaNUpjZGVSUTEtcy14Q01idUE1OXdrQk44cjc0eTVqSWtVaXRwUW9vSEE4R3Nlcm96SVFtTkN0QXFFZ0toZTF1MDFvcUs1TENPN05Ndm1xWVZ5NUFnUUxvWHM2dndCT1N5NHd4LXdIQUlscE9Uc2ZWNFhkM0pvLWthZzU3ZkR4TlFIRjh6NTVmcGN3TGhQeDRNVWNrOWM40gG3AUFVX3lxTE1PTHRmSDFXVmJrMHI5NUI4OVZ5ZkhBWGpsbmhLTjdEU0lTR3JCdXBYSFZwaHBPTjVOOHgwLWdQYkFhdVA0LUcwbnRZbTFRUXM4ZWFEdGZPR2Z3TWxvRlN5ZmQ0cW50OFpxajQzNUJpcVVtbFZ5OU9yWEN2elhqcXpyRDU5Y0UxdC1kNjJXYTJtUXFDUTVGQlZpMXFGS3piYllfbG5ZZGh1RnhmeF9ZMUc1bzk5MzhEWQ?oc=5
 
 - What Shields India's Military Against Honey Traps? Air Force Chief Shares Insights - NDTV
   India's Air Force Chief Shares Insights on Honey
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRi12ZV9ZVFYzUFJzUk4yR2FhYmZ5eV8tRFRFUVpCSnRYV1oyX3BXdVRQWkowaDN0WDZFMVRYa3VEMElMMURHOURCQUJPTTliLUwyTlNGTm9Cam5IQmNQNS14WldpZkc4M3BrTGdtNzFMWW1PdWp1NWdwM0E3TS1kSm1LRjhTMjZTVlV1RERkcFpxR0ZOUkQxbk1tbXNOR3RTc2QzUVdtbUxXRzRsanVQOEx3RElyc1hKZU52M3NGOHVURFBZX2tielpvZmpadnhLaVBmbtIB3AFBVV95cUxQQmZud3VRb1RmblFRc3RvWU5JTTZZVnYyUVZKMjRteWlqa2hzQlE1WmM0UlhsbG5CMHJxRFJtb0hXcXpxeEhyQXdDd1ZMMzZWTDJRbUFzaDRGeWF5R0hBVHgtTVpRVmZsdEtTclhha1Q0bmZVLU5sVS1yQ1ZDd21Qb1BiYWRBTVlVbXE4ZFNHT1BxLTg4TFFYVURadU5KRjlrbDc2djdxMVZ6VmtkcmJRemdGa3lWNUdINUhPalVicjkydVZTTjhJaDZzQ0hYS2ZfZXc1MTA1dlhNcXJZ?oc=5
 
-- Prince and Princess of Wales in India ahead of meeting with Modi - BBC
-  Prince and Princess of Wales in India ahead of meeting
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VWHp1bV9CSDE3eDFHRFlQWlJ0aGg1Z2k2ZjJoaHJ4QWR5bHB3T0ViTXZyV01qSl9FY0xKdXFsMmwwUlUzdnVJV2w0RXo4Wi1Cd1pPWmZPY2kzSUU?oc=5
+- India shows us a picture full of colour, complexity and possibilities, says Prince William - The Hindu
+  India shows us a picture full of colour, complexity and possibilities,
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR3hvRTFiTTVXUUY0Q20wSldtdnltWmw0ZWYzVHVQdjRmbzhKYzY4djNMdXRfR3JBZTgyWXJKcXpLaElWOURFWjkzZk1RVFVXZ2VYTmlFdGJoOEwyRmVGWXlZY19lNzhFUzc0V3F6YU41NGpZZ3lvVHBVYmRMU2pFdEFEeVY0eXcyZzJVNG5HU1ZxajVmcmtpUTFnLW5yb284VWJGdk1nWW56NWJCSDNUSW5uRWtvbEFYYmJ5TXlDN3FUSFhhR0ZvSWI1WVlnYTNVQWdjeHZzVU91NFRpOXBCZtIB5wFBVV95cUxNeE9PeEZzUWY4T0hHbzBBZUIxdmNpOTdLYmtiSTJNVVlJNW5ZU2dMdEpoeFY2Q1ZwNVpkTXhsdGpXYktsbDV3LVBoRTdENmprNzZEd2pLMkprTmRrNWxQcy01TmlIV0RuZVFaVmhoN280STlxaE5kWjNEaXIteW13REp5ZDBvdDVyVW95Vm1GUnJ2UUM0bFI4QzExTzZ6Mm1hVndJaEY3LXhmaGtTanJNaEhyNWxqSkRTRjY2ZDJ3Y2tLOTFuQl9WT1ZXY3FrWlVZbFZBZElXTjhsTUlUc2pXSUU3bkUzN3M?oc=5
 
-- News & Editorials 16 November 2026 | UPSC Current Affairs - Drishti IAS
-  Drishti IAS is a nonprofit organization
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjRpNE1jRTR6OTFqUnZKZEUtSndTdHMzMnZzZWN2STRiMzNqNDMwbnZtUGVrejRlZE13ZW1rOHpBWGJYalZzeVRsUmVVMGpKQXJBc2pWOWdicFI0cDg2VHJCVGZyY1pfbnhTc1lmbW82WklFekFjc1JwWlVMWFdUVzlIdllLZTA0ZVhyeE1ObTVMQ2NYQnBoUnNB?oc=5
+- Indo-ASEAN ties at the heart of India’s Act East Policy, PM says ahead of ASEAN summit in Manila - The Hindu
+  Indian PM Narendra Modi is in Manila for the ASEAN summit.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVVLckN4WEFuaDBBd0FUQXlRWmczRWVLUjBLUWNxVU1jMVVBMTd5TFB0U0tod1A4RzBOemZXa0RpcUZiZHFFMWNkcFVaSHU3RkVIWUtuaThielBYTElMZFIyZEc1YmVrSEdNeDdUdzQ0S3ZEeFhwZno3YzUwSlVIVFNjTjR3ZzViSVA2YVZWODRXMV84bC1jd0J4YWFVSUk3c2ZRNUdIcC1GbUJTVHV2ZHdSNmtIRGsyV3ZyOHoxNnp6VUI3cHR0VlRn0gHQAUFVX3lxTE5ETjN6ZEhEMFNUN2tYMWZnNnlwWnlhNE1LWm11NVhhVWozSURvQkFITFZqSmJWZGRKUDBHajZXTWl1dFRJeXlzdUY3eHNmdXJoeXZTWTdVZ1ItbmhILVRHYkg3WE9ORjRKRnZjTGZWSFF5WWNBcHR1MllRcTQ1NVZHQXRrZWM4SkxlVGtJVjF6Zk90OXVKU29aM1h0bWZNdDJzZ0l5dFZNZ19Rcm5WQ2FLUGd6ODNuTXhoQTV0TTZHekszd2RwU1NLUFJJTkllNkU?oc=5
+
+- Ties with Asean crucial for India's Act East Policy: PM - The Times of India
+  Ties with Asean crucial for India's Act
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVRzT3ZSR1ZaeVg3OXdheXNQWWNvMER4QWVMcXNZWDgzeU5XdXVoMjBtWTdTLW9VYXNfLWRKSTYwMXpZZmFQWkMzaFhpVWlyQlg2c0pkd3NWQVBnUm05SnB5WmwxakFvTlRhY3BFaXJaQXZUeFJTZnB0LWNIN3o4X21JRHhWdEZWbGZId1A1X0t0clY1ZG9nS1dqM09NbWV6THRUV3QteEFJQm9ZZjJ0TmZ5OHZ3U1ZycUFBVk5B0gHDAUFVX3lxTE5SQ1JHRjNid2x4WmFaZVRSUG5sZnJyR09aOXlaZGFjaW1ocktvcVhSWTBIWm85NjlYeE1OT0tmcEY1MW5yRGljWm0tSVVERlJ2NzlPdU5MNXlJVFBtVnlkNzNsVEdJQXhPZ3AwaHVSOV9Sdl9Gd3ZnUE1scVBIWVUzcE5EX04yRVZfT2N0SHNRT3lLOUg3aWVpUWIxNmVjY2xrMFdrXzd5RTZuOERtM2dGeFRNeTl2RnA1enA1amtLTjBzcw?oc=5
+
+- PM Modi Embraces Filipino Formal Wear At ASEAN Gala Dinner In Manila - NDTV
+  PM Modi Embraces Filipino Formal Wear At
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGdJQUp1ZUtoMkp1dnhTMzZaNUpjZGVSUTEtcy14Q01idUE1OXdrQk44cjc0eTVqSWtVaXRwUW9vSEE4R3Nlcm96SVFtTkN0QXFFZ0toZTF1MDFvcUs1TENPN05Ndm1xWVZ5NUFnUUxvWHM2dndCT1N5NHd4LXdIQUlscE9Uc2ZWNFhkM0pvLWthZzU3ZkR4TlFIRjh6NTVmcGN3TGhQeDRNVWNrOWM40gG3AUFVX3lxTE1PTHRmSDFXVmJrMHI5NUI4OVZ5ZkhBWGpsbmhLTjdEU0lTR3JCdXBYSFZwaHBPTjVOOHgwLWdQYkFhdVA0LUcwbnRZbTFRUXM4ZWFEdGZPR2Z3TWxvRlN5ZmQ0cW50OFpxajQzNUJpcVVtbFZ5OU9yWEN2elhqcXpyRDU5Y0UxdC1kNjJXYTJtUXFDUTVGQlZpMXFGS3piYllfbG5ZZGh1RnhmeF9ZMUc1bzk5MzhEWQ?oc=5
+
+- What Shields India's Military Against Honey Traps? Air Force Chief Shares Insights - NDTV
+  India's Air Force Chief Shares Insights on Honey
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRi12ZV9ZVFYzUFJzUk4yR2FhYmZ5eV8tRFRFUVpCSnRYV1oyX3BXdVRQWkowaDN0WDZFMVRYa3VEMElMMURHOURCQUJPTTliLUwyTlNGTm9Cam5IQmNQNS14WldpZkc4M3BrTGdtNzFMWW1PdWp1NWdwM0E3TS1kSm1LRjhTMjZTVlV1RERkcFpxR0ZOUkQxbk1tbXNOR3RTc2QzUVdtbUxXRzRsanVQOEx3RElyc1hKZU52M3NGOHVURFBZX2tielpvZmpadnhLaVBmbtIB3AFBVV95cUxQQmZud3VRb1RmblFRc3RvWU5JTTZZVnYyUVZKMjRteWlqa2hzQlE1WmM0UlhsbG5CMHJxRFJtb0hXcXpxeEhyQXdDd1ZMMzZWTDJRbUFzaDRGeWF5R0hBVHgtTVpRVmZsdEtTclhha1Q0bmZVLU5sVS1yQ1ZDd21Qb1BiYWRBTVlVbXE4ZFNHT1BxLTg4TFFYVURadU5KRjlrbDc2djdxMVZ6VmtkcmJRemdGa3lWNUdINUhPalVicjkydVZTTjhJaDZzQ0hYS2ZfZXc1MTA1dlhNcXJZ?oc=5
+
+- India shows us a picture full of colour, complexity and possibilities, says Prince William - The Hindu
+  India shows us a picture full of colour, complexity and possibilities,
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR3hvRTFiTTVXUUY0Q20wSldtdnltWmw0ZWYzVHVQdjRmbzhKYzY4djNMdXRfR3JBZTgyWXJKcXpLaElWOURFWjkzZk1RVFVXZ2VYTmlFdGJoOEwyRmVGWXlZY19lNzhFUzc0V3F6YU41NGpZZ3lvVHBVYmRMU2pFdEFEeVY0eXcyZzJVNG5HU1ZxajVmcmtpUTFnLW5yb284VWJGdk1nWW56NWJCSDNUSW5uRWtvbEFYYmJ5TXlDN3FUSFhhR0ZvSWI1WVlnYTNVQWdjeHZzVU91NFRpOXBCZtIB5wFBVV95cUxNeE9PeEZzUWY4T0hHbzBBZUIxdmNpOTdLYmtiSTJNVVlJNW5ZU2dMdEpoeFY2Q1ZwNVpkTXhsdGpXYktsbDV3LVBoRTdENmprNzZEd2pLMkprTmRrNWxQcy01TmlIV0RuZVFaVmhoN280STlxaE5kWjNEaXIteW13REp5ZDBvdDVyVW95Vm1GUnJ2UUM0bFI4QzExTzZ6Mm1hVndJaEY3LXhmaGtTanJNaEhyNWxqSkRTRjY2ZDJ3Y2tLOTFuQl9WT1ZXY3FrWlVZbFZBZElXTjhsTUlUc2pXSUU3bkUzN3M?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +220,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- CAG focuses on technology, reforms to strengthen public accountability - The Hindu
+  CAG focuses on technology, reforms to
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObmx0dXBmLVg0TnlZeXV4QXBwNFhZb09FcTZMdi1zSmNPVUdxVGxGSEpYZGcwTWdpT1hjT1hkLTd4V3dlVTlUaHY5bGxxLTNIelJvYVZTb3A5cG5VZThGdFZOOEJIemJGSjZLaVhUQ3kwU2NHUW1pdGVfWUFiQlVuVGdXVXRLaVdtRDB1VXZLMjZrcHh5NC1vTjc0cG5tVjdVSG1RcDFyZ2dvWERsaFBQNmtubUdjejl5aFAweDRUOGtGQlNZMjh30gHOAUFVX3lxTE1Pb0Q2NnBDdUdYdXhPQ2tSaHQwWUV5MVlkNHJDazNwWEgtWDZFTmFWVG5QVFlUd3lnTlBJX2hjbUVaSERYLXRZVGxpUVI0d3BFYWFISl9LS0pnY1cyNEg4eUhiUmpJWVNCaktGUEN6bWZhRzliMk5NbG1TYWViR0Y4WWUySDB4UFdvTmJWRHEzdGlpb0s4aDRTMlA1MVNnQkQ4VHBXOW5fTEdEbEthM01TcTBpYVVxS3liRUN2ZzVkTWJfUS15MnRoTkNPN013?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Qualcomm Promotes Pooja Upreti to Senior Director, Technology - https://hrtoday.in/
+  Qualcomm Promotes Pooja
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHAyTVVQQXBwaDZjcXNwOU51MHlkVXdWMTR3S014WmtwOFdDNzkxOHpXelowcU4xd2NfckVWYWdtdGFmVjFGRXRyY290dFJsWTZKN1lpWm5LVHQ1andaNWR1U0t4NU9iM0pIb2ZxMV9NZVJKaFVLQlJtQ3h4SVdiaWx5cHdQQ1k?oc=5
+
+- Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks - Reuters
+  The Fed's Warsh says emerging technologies to have '
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5
+
+- Samsung’s Latest Products Recognised by Consumer Technology Association Ahead of CES 2027 - samsung.com
+  Samsung’s Latest Products Recognised by Consumer
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTk1ZmlQU2NDVGNlNERtQzNYNFlyN29wOVdxbnlqOVNUNm9SVmE0eUhRVnA3bVltczRPbEhYaUxpNUdNYWZTemRUQUJYM3I4VVJiU0Q2blJ2YW5UaDZUaGZqWng0TF81c1QybjBDa0VNaEJtdUhONFVWS29SZThmSUQ1c1ZwZUlfZVBINHVtNC1WU1U2UW5nRjFvRkM1X3VPVHh0OXY5aVZDdnJsSEVMZk15X3ltOHc?oc=5
+
+- United Airlines Resolves Technology Issue After Widespread Outage - NDTV
+  United Airlines Resolves Technology Issue
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWDVkU0lYRDR4V2dxX3hoZVdnZWFuckdkdGNpWWpyaVVCdHY1bWVoZTIzaGFoSGFMdGlleE9YeEZyWWZBS0pOUm9leWVTb1NPQ29jNHJqRy1TcnU4MjZ0QTJ4UjlWNUlqRTczLWNkRkhmRUpnNEJsQzk2WGtFTTJIOWM1ZnNPMDNxQ3ZIUWFSN1RTMmNjVzJyVlg0VWpRQkNicHJNeWV3XzI5QdIBsgFBVV95cUxPaVEtN25JSDNHMkgxWGhpMjRvd180NjR3QWkwR3RnLVlSbTVBWEdRSTVPOUdWaF9rcXdIa3R1aVFtLUFsUmEyZFV3aGVXUDg3RE5ubi1qYW82VDV0SWZESnNlRGlvY1pyOTVDTmk3QldDR2VXOE0tXzIyVm8zbEJmckJ2MV9QVmNWWk05eS0ySmwxX2xvM2plbE80YWM0VVZVeVZaUEhxM1Q4Sl8ydWVpM2h3?oc=5
 
 
-_Last updated: 2026-11-16 14:35:22 UTC_
+_Last updated: 2026-11-17 01:29:57 UTC_
