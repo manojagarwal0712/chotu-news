@@ -1,144 +1,8 @@
 # 📰 Daily News Summaries
 
-- National interest priority but helping partners deepens trust: Jaishankar in Tokyo
-  
-  🔗 https://indianexpress.com/article/india/national-interest-priority-jaishankar-japan-10968664/
-
-- 3 killed as conveyor belt structure collapses at NTPC project in Jharkhand
-  
-  🔗 https://indianexpress.com/article/india/workers-killed-conveyor-belt-collapses-ntpc-project-chatra-jharkhand-10968469/
-
-- Cyclone Akvan shifts track, puts North Andhra-South Odisha on alert
-  
-  🔗 https://indianexpress.com/article/india/cyclone-akvan-odisha-landslide-evacuation-preparations-10968463/
-
-- ‘Don’t humiliate us’: J&K CM Omar Abdullah attacks Centre on statehood delay
-  
-  🔗 https://indianexpress.com/article/india/omar-abdullah-attacks-bjp-centre-delaying-jammu-kashmir-statehood-poonch-rally-dont-humiliate-10968408/
-
-- Facing Left attack, Kerala cancels quiz by group with Sangh links. Now, BJP hits back
-  
-  🔗 https://indianexpress.com/article/india/kerala-cancels-balagokulam-school-quiz-left-bjp-row-10968316/
-
-- Why a new security flaw in Java has triggered urgent advisories worldwide
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/java4shell-critical-java-security-flaw-explained-10968343/
-
-- Google Play’s best apps of 2026: Adobe Premiere, Arknights: Endfield claim top spots
-  
-  🔗 https://indianexpress.com/article/technology/google-play-best-apps-2026-adobe-premiere-arknights-10968036/
-
-- Microsoft takes on OpenAI and Anthropic with cheaper AI models, flexible licensing
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-new-cheaper-ai-models-ignite-2026-10968004/
-
-- Apple updates Maps in India with enhanced 3D imagery, support for 11 languages
-  
-  🔗 https://indianexpress.com/article/technology/apple-new-maps-india-3d-images-11-languages-10967804/
-
-- Sony defeats £2 billion UK claim over PlayStation Store pricing
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-defeats-2-billion-uk-claim-over-playstation-store-pricing-10967750/
-
-- ACME takes final investment decision on $3.6 billion Odisha green ammonia project
-  Brookfield commits $600 million to ACME’s green molecule business. The 760,000-tonne facility
-  🔗 https://www.livemint.com/companies/news/acme-completes-final-investment-decision-for-its-3-6-bn-green-ammonia-project-11795009268502.html
-
-- How ONGC took over the Cambay block it co-owned with Vedanta; why Anil Agarwal is objecting? Explained
-   ONGC took over the Cambay offshore block from Vedanta. Here's how the dispute began, what An
-  🔗 https://www.livemint.com/companies/news/how-ongc-took-over-the-cambay-block-it-co-owned-with-vedanta-why-anil-agarwal-is-objecting-explained-11795003010589.html
-
-- Nvidia’s ‘selective’ funding: Could interim CEO Colette Kress’s 'disciplined' approach slow neocloud boom? Explained
-  N Nvidia's interim CEO Colette Kress has pledged selective funding for neocl
-  🔗 https://www.livemint.com/companies/news/will-nvidia-s-selective-funding-reshape-the-neocloud-boom-why-colette-kress-s-pledge-matters-11794998285339.html
-
-- Who is Pragya Misra? OpenAI elevates its first India employee to lead business development across South Asia
-  OpenAI’s head of Strategy and Global Affairs to lead commercial partnerships in India and South Asia.
-  🔗 https://www.livemint.com/companies/who-is-pragya-misra-openai-elevates-its-first-india-employee-to-lead-business-development-across-south-asia-11794999586627.html
-
-- Nvidia power shift: Colette Kress, Madison Huang and the battle over Jensen Huang's legacy
-  Interim CEO Colette Kress had questioned financing and investment deals linked to Madison and Nico Caprez, even before Huang stepped down. Nvidia's leadership transition has brought renewed attention to the
-  🔗 https://www.livemint.com/companies/people/nvidia-power-shift-colette-kress-madison-huang-and-the-battle-over-jensen-huangs-legacy-11795004372852.html
-
-- Multibagger penny stock: Kalind board approves fundraising plan, to raise up to  ₹500 crore via rights issue
-  Kalind’s board approved raising up to  ₹500 crore through a rights issue for eligible shareholders. The issue price, entitlement ratio, record date and
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-penny-stock-kalind-board-approves-fundraising-plan-to-raise-up-to-rs-500-crore-via-rights-issue-11795010763415.html
-
-- Nvidia shares gain 3% in premarket after Q3 results, upbeat forecast top estimates: Is the AI rally back on track?
-  Nvidia shares rose 3% in premarket trading after quarterly revenue and profit more than doubled year on year
-  🔗 https://www.livemint.com/market/stock-market-news/nvidia-shares-gain-3-in-premarket-after-q3-results-upbeat-forecast-top-estimates-is-the-ai-rally-back-on-track-11795005376675.html
-
-- Crystal Crop Protection IPO 1-lot profit calculator basis GMP: What will the listing gains be if you get an allotment
-  Crystal Crop Protection’s IPO was subscribed 1.15 times on its first day, led by demand from employees and retail investors. Its grey market premium of  ₹18 suggests a potential listing
-  🔗 https://www.livemint.com/market/stock-market-news/crystal-crop-protection-ipo-1-lot-profit-calculator-basis-gmp-what-will-the-listing-gains-be-if-you-get-an-allotment-11794994698224.html
-
-- Nifty Bank crosses 62,000, jumps 20% from 52-week low: What's driving rally? Check performance; best bank stock to buy?
-  Indian banking stocks surged in November, with the Nifty Bank rising more than 13% to a record high. Strong credit growth, stable asset quality and
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-bank-crosses-62-000-jumps-20-from-52-week-low-whats-driving-rally-check-performance-best-bank-stock-to-buy-11794997522430.html
-
-- Mahanadi Coalfields IPO: Should you bet on Coal India’s cash cow despite muted growth?
-  Coal India generates a third of Coal India’s profit. Debt-free and generating a
-  🔗 https://www.livemint.com/market/stock-market-news/mahanadi-coalfields-ipo-review-price-band-valuation-risks-11794989503971.html
-
-- BGMI 4.7 with Arctic Chronicles update: Giant serpent and frozen battlegrounds - Check new features
-   BGMI 4.7 is a major winter-themed update that changes the gameplay experience with a mythical serpent
-  🔗 https://www.livemint.com/technology/bgmi-4-7-with-arctic-chronicles-update-giant-serpent-and-frozen-battlegrounds-check-new-features-11795003580410.html
-
-- World’s first dual-console robotic heart bypass surgery performed in India using SSI Mantra system
-  India has performed the world’s first dual-console, five-arm robotic beating
-  🔗 https://www.livemint.com/technology/tech-news/worlds-first-dual-console-robotic-heart-bypass-surgery-performed-in-india-using-ssi-mantra-system-11795001751408.html
-
-- GTA VI gameplay release soon: Midnight launch, PS5 and Xbox availability, Vice City map, new characters and storyline
-  Players will soon get their first opportunity to explore Leonida and experience the next chapter of the Grand Theft Auto franchise.
-  🔗 https://www.livemint.com/technology/gta-vi-gameplay-release-soon-midnight-launch-ps5-and-xbox-availability-vice-city-map-new-characters-and-storyline-11794999799353.html
-
-- Google Play reveals India's best apps and games of 2026; Pronto, Wispr Flow and ScarFall 2.0 among winners
-  Google Play has announced its Best Apps and Games of 2026 in India. Homegrown apps Pronto and Zolio, along with Indian battle royale title ScarFall 2.0, also
-  🔗 https://www.livemint.com/technology/apps/google-play-reveals-indias-best-apps-and-games-of-2026-pronto-wispr-flow-and-scarfall-2-0-among-winners-11795000518691.html
-
-- GTA 6 now available on Blinkit in 11 Indian cities ahead of November 19 launch: Check price and details
-  GTA 6 is now available on Blinkit in 11 Indian cities ahead of its global launch on November 19. PS5 Standard Edition priced at  ₹5,999.
-  🔗 https://www.livemint.com/technology/tech-news/gta-6-now-available-on-blinkit-in-11-indian-cities-ahead-of-november-19-launch-check-price-and-details-11794998287099.html
-
-- Dow falls 300 points as Nvidia earnings bounce fizzles: Live updates - CNBC
-  The Dow falls 300 points as Nvidia
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5
-
-- Stock markets snap 2-day rally; Sensex drops 500 points amid profit booking, U.S. Fed rate hike fears - The Hindu
-  Stock markets snap 2-day rally; Sensex drops 500 points amid profit booking
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc3pjTHlmVWZZdURUc3l0alBLcnBYMTU4b0VlaVJpaDE2WDRORVNySExnNjRnQTItTWlZTWdsWDB6S1lueDBUNFZEd1FzdDcyenAwN1VUd0ZMY1dULXk4blhpb3l3OVFKMFl5YVljbDU1QzhpWXJMWEtCMm1ya3hHUGFnWEZCTU15eHpTR1BKTkN1RDBHRG82QlVERFdJN2ZLZzU4Yy1ULVdvc21XUGppdWxwVWNfM29YaVBkYjRpai1CNFZYdDVTWTZkcHRXZFczOHVkdVc1R0hHdXNYSThpZ2JHTjM2Qk5yLUFFdW84WE_SAfcBQVVfeXFMTlVJRmthZjFxYmxQbTVGZjZjSjNxeVhDdEo4a1V1d3pQaVVleVppUkJmdG1waWZoOFRlN1BQUmR2ay1KTDU5ODFEQ3NDSzl3Mll4ZVNsS2VBNDNIWnNHaWk4bzJRUjY2Q3RxYXZocEhjdGw3MVg1WlZma19kUW9SRWw5WDJIQkd4OVJMT21lQV95UjZkdDdZbEVpNTloSGN3aWJMN3pBMGRpc2JaTE9aLS1UZHVEN2tyeXBDZnd4MmZDZGs0VjFJTkp4MDNiSzZsQzN2aU9HdE9UQTJNaGhiY2paYWtfbUM5eXBDRHJ1SzlaRlhqcEx1MA?oc=5
-
-- Stock Market Close: Sensex sheds 500 pts, Nifty at 25,228; consumer durables top sectoral loser - Business Standard
-  Stock Market Close: Sensex sheds 500 pts, Nifty at 25
-  🔗 https://news.google.com/rss/articles/CBMiywJBVV95cUxPUnh6R1dKdzFXbTBqdEhoZW1LbDlZSmVRc2xsbzN5bnBTekozVkpqa21PblUxMDdsblFJRG1vcXlMbGRLWUJvTDlMVjd6bmI4OURlWDRiNXpWaFRMN3VVNXFkWGJpcDNubGd4a3BzOFFpOGpsTTNFTHdtZ0Q1bXFQYWYxMXlRWG9NdTMxLVdLVjVaOVE3aGZUOXJFcHZVT3FPbVhuMDNQZ3B5SXFIT2dCOHZrd29nd0xoMHg0U0dsT19YVUFkaDlpaHNwVjYtWnVvX1daMjA4MFJ6S1hzZG1NTlFGcWd3OVN2UmFuYnVrRFF0XzdXS2pxMHFlSUNqSHpyc0FZS1pfOVhEcmFJd1RWMHBCRVU1aWNDQ2JkZHprM1JUczk1dkJRWGNCNEJBR2plWktyT2VYR1BadUFJMnNyVC1MZFVzSE12TjNF0gHQAkFVX3lxTE4tU2hYT3pzOTdiTS02SEtYektJb2hBREtkLU5lS2I0Sk5ZOGJwWUZoQnlDTmh4M2J3eHpLaUZKUkRyN1ZDbUoxSlZZZUw3LTFqdVRBR2gzeFM1OEtOSVU0WkFNNUU3Mk9aX0RvSGxiRDd3S3BIcGhVNmRSTkh3bm5ZVkhBbVlVcm5xWTRvbWZ6Qlc5bEJ5SDRwMnpHSl92OFJYdlA0R0VCemZtWGMwVUJGVWRiMzc1TkJpZ1FjX0o4d19ydlBOa2tjZWwxN1d0cDBRWHA0czRLb2RyZE4zRk5pWFdsR3N1Y0lLZDlxNGlEN3QtNHYwTVpQeFR3NFhjZlNlNjhDU0JHdnc3WVI5cFdIdEtmMUo5WEF3MjFpRU8xR0ppYVpTVnRzX0NvQnJSMDl1d1hnNHZJeEF1Tno4X3dpd0NWdkRsWmRYYmNwendSZA?oc=5
-
-- Stock markets snap 2-day rally; Sensex drops 500 pts amid profit booking, US Fed rate hike fears - ThePrint
-  Stock markets snap 2-day rally; Sensex drops 500 pts amid profit
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxONWpRWjhjRlBJbmg3Nk5tVVBxNGpRWGlOUnFHZ09jS3h5V3Mwb21iT0l3cGxmaFpETVdhQjlWTzY0Y2ZKZVdHaEs2dFJEbnUzV19ibm4wYjdJU043SzhQempKemZnUmVJZFViUFF0d0xWcXIwQWE0ZUlZMWE5Tk9kQ19lc1FydWtRbXhWM2F2cHRrNlFzaWN1NFlZSXg0dnRiZ3AwQ2lGYnJjaHVkM1MyMjUyVThZMXh3YnFqLTVXZURWWDNtdG5oQlY1RdIB0AFBVV95cUxNMXB6Mk9HdmlPMFU2UlpEekp0QXdjaUJvWUlEcTlaM09SUTlkU2RzaGNIMUZZbENWcE13UDg4R1I2UnAzeDBzSFl4OXRQODVoVHl3dWpWUUsxUDFDNHdhRFA4ODJlM0s5VC0tbXBUd1pYLWJyUWN3RW1oY0xKbXB0cUVCWU9GbTBiRTdJa3Q2RmdWTXFCTjFEb1NmWHpCRmd2WlJWZlg2Qm1FbUNyeHNHMkhUcGV2bjF6ZlBzeGlhSWlsYVVac1FRWWZsc1hEZjNP?oc=5
-
-- Small onion prices continue to rule high in Tiruchi market amid supply crunch - The Hindu
-  Small onion prices continue to rule high in Tiruchi market amid
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQWtNMHJNUFFSLTItR0Ntbm5fdThmQUx6Y1VuTndoQjZKMlhIWEdxYVJ1MjdiQm43SUpha1FXN29Fa0FfN1M3cVNvY2JCUTJZUnpfTmdVcHM4LWVBQU1ZQnZSYmFVdDR1dzVXeGZ5RV9WZFFaZ0R6cURWa09Mbi1HRXpQbFpaVzgyX3Q2Q3dfT3pOXzNya2EzWXNILVY3UW05cWstRzVvd0p3aGUzOE9UR2NtWWgzaWhiSkRWcGhsU2dUelpWV3ZYT212R2s2Y3BNckM0X0VNMzRJOWJtT0kwdzV5TdIB6gFBVV95cUxONTZ5LUY5OFJReFFsSEJkTFRmajNPVlZLYy1uSDY0VTZHUVFaWTM3VXVTTk1yMlJhS3h1dWQzTkMzbFRncnluZi1sR2FfM0E1Qm5KM3cwTWVnUFhQd09kbEVIUmF5X2lremo3MmFTV09YeGZpcC0yTWJXVTFHZk1pdEpxZ2pNR01FTTRiRThPdmVhQzQ3MjdyY2E0XzNINzAzVVdtdXdRSTJlY0ZRakpCYUVfWkg1OGQtbWp6TlNqZ0hUSktDVnRSLVlVY2hvSWRpT0EwV0gtZDBWWnlKM3JFSGJRbGRaM0xGN0E?oc=5
-
-- PSBs' net profit rises 17% to Rs 1.10 lakh cr in H1 FY27; business crosses Rs 300 lakh crore
-  Public sector banks in India have reported a remarkable 16.9 percent rise in net profits during the first half of this fiscal year. Total business reaching Rs 301.6 lakh crore, and a notable drop in the gross non-performing assets
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/psbs-net-profit-rises-17-to-rs-1-10-lakh-cr-in-h1-fy27-business-crosses-rs-300-lakh-crore/articleshow/135965650.cms
-
-- Puravankara launches Purva Cityspire in Kochi with ₹2,000 crore GDV
-  Purva Cityspire is an ambitious new venture within the Purva City integrated township in Kochi. The project features 1,056 luxurious residences strategically designed to promote community living. Over half of the area will be dedicated to open
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/puravankara-launches-purva-cityspire-in-kochi-with-2000-crore-gdv/articleshow/135965572.cms
-
-- Prestige Group buys 50 pc stake in Advent Convention and Hotels International for Rs 500 cr
-  Prestige Estates Projects Ltd has successfully acquired a 50% stake in Advent Convention and Hotels International for an estimated Rs 500 crore. This partnership is set to develop a commercial project in Andheri, Mumbai, spanning 21,
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-group-buys-50-pc-stake-in-advent-convention-and-hotels-international-for-rs-500-cr/articleshow/135965554.cms
-
-- Prestige Group buys 50 pc stake in Advent Convention and Hotels International for Rs 500 cr
-  Prestige Estates Projects Ltd has successfully acquired a 50% stake in Advent Convention and Hotels International for an estimated Rs 500 crore. This partnership is set to develop a commercial project in Andheri, Mumbai, spanning 21,
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-group-buys-50-pc-stake-in-advent-convention-and-hotels-international-for-rs-500-cr/articleshow/135965381.cms
-
-- Prestige Group buys 50 pc stake in Advent Convention and Hotels International for Rs 500 cr
-  Prestige Estates Projects Ltd has successfully acquired a 50% stake in Advent Convention and Hotels International for an estimated Rs 500 crore. This partnership is set to develop a commercial project in Andheri, Mumbai, spanning 21,
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-group-buys-50-pc-stake-in-advent-convention-and-hotels-international-for-rs-500-cr/articleshow/135965185.cms
+- India’s CSR spending leaves gaps in health, water security, innovation: Report - The Hindu
+  India’s CSR spending leaves gaps in
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3pfRExiWW5CYnpzSlZLdVdpUWVEdlVhdFVCQXFhdFprQ1NkREZZVmprUzc0RG55eXVqUGR1d2NfbnRGTjBaM0l5YUx5b096YmFGR2VvZ1gyeW5WQ3pLdkU0ZzNoZW52LV9yUElrOXBPTDU4akQxNmhTMi1vV2ZDdmxSWU9tX2toUzNxSXpCQWFtYWI4X0tHekQ0ODFJTjVCaXM5Y3YtYy1ncDN0REs2S2dkTV8yMWFDckpsOGRpS2pYT3IxVVFTNFBjcUx2Z9IB1AFBVV95cUxOY0RnTUJwODZLT1VMc2tCVjltZ0J3RWpDeHpyTVNNYWtVX2FDV1VjWXNVRnpzM3hROExJRmMzZ3lQWmJUTjdIOE5RU1lnbnFBR3JoNV82QS1kQWFKWm5TYTdZSVpYQ2ZTLTNHYWZjSmtSM0M2OUtZZXBfck44b2VPWXhKcndVcGpsZW5mNW9oMUVKdnpwNlhFZFJ1bE11TE1ncnpSa0x0SmxueUxRRGZvN2dEWDFLOTUxNUFSdXl5UkhVeVk5M18tbG1GeUNLQmtZd3A2Rg?oc=5
 
 - Protesting Sonia Gandhi's Book, Sena Leader Tears Bal Thackeray's Photo, Triggers Row - NDTV
   " target="_blank">Protesting Sonia
@@ -148,17 +12,145 @@
   India defeat Pakistan 2-1 to win 10th
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWdrSVFOVkl6VV9xQm13NUNadTRlRUJDSEQwR3Nxc09DOXE5Tk1QZExqa18wZloxWG9QMjd4OUhySkFwaHhkQ3hfdFc5MGJzVE0wSHZzOVM0bjRrY25oNFFJY01vRlhfUEtyVWxwbUVtdXFzcHF4ZmVlQlZPeUluZl9rWkd4YkNJR2tSSkdreHA?oc=5
 
-- India sitting on 'economic disaster': Rahul Gandhi at Columbia University - The Hindu
-  India sitting on 'economic disaster': Rahul Gandhi
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmQ5aWY3cFpiSkF1bmJTWXN2RUlwSmRseFJ2dVBxRExHQ01XckItUDdmTE5zQnVBbnhCbUxHa3l3YkxJNW9wMldyTzFXVFpGRkRab1lYbkhoSG5Va0JFR3diSERLeVJWUnhmVjFaR1pPQk1mVzRtLVFYeTQyTU5ObG1TbU93aEdHanNDaTloTy1VYWM2UDRFc1FoT1Zpb0JQd3pkdzA5MWFaX1pvNlZ0T3FYMnpiSV81WjhiUUFhMzl1WmtyckpwOdIBzwFBVV95cUxQZ1BoelBBX1BhaEdFNFBTd2Ita2NHSE10MmI4WUoxMVFSZHNMWVdaaHRoc012eUFjVXI5S1RjWFEydTZuNzdfVU9RakVTaXozcWJvWWh1YXhPbHhLczJfbnk5ZWYzS2F4Ni1CLVZYNldZWVBzb2lOOGpDeEVibFpFMEJtQlExOEJTYVlLdmh4Y3JsQk9VR20xSnNIdzlNbU5pUW0xMXFlYm9RczFiWXMzWHZaaTZoN1dJSmdRb08wRTZ4VTlyMl9rX251c3QxT0E?oc=5
+- PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties - The Hindu
+  PM Modi meets Prince and Princess of Wales, discusses boosting
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqV2ViRWNJZzdrUlFMZ09FX1BJamwxUms0T0loUXlocXFnM09icDQ3RnB0VTdtVm1uVXp6TFZSdmI2YWRsZkItTVpyWDRTNC1zUi1fUXNiVjJEYlkzZy1xR09FQm1jcVdjMFQ1R2k1c3VIa05HbkpqeGRCTjZMYkdRWTlfRGtDSnJvOFQ4cDRyNlU2N0NyN0JyMWlmMnZ2VlFjMlFDT3JWVzN4SGxLdEJ5QmFxSEttWGdXNktrTEZLVlR3WWNyU0F0bXdvek3SAdYBQVVfeXFMUHNSRkZnZHVfWnZKVEV4dTlYMzlYLVlvWVdfLUs1dVg0Rkl4MEFERm95NjZWcTNNM2VkTEtsclNXWFd6WV9SUXM4MUg2RnBFbThmT3dqcmZYLVplalRRUzJDOEpQb3o1Tk00Rld5aThVUGxpUmRHZlZtZXc3VUljd3hnMjBHRXJ1NTBmYXA1TGZWYlROd05jVmpJSkdsOFJyV0dkRjlIQmYxSE4zeUIzSjdqMS1zVzhMd1lzZ2RRMDNXeWIzanNzYzEzaThjeWdfdl9SbVk2dw?oc=5
 
-- Rahul Gandhi Flags India's 'Economic Crisis' In US, BJP Calls Him Anti-India - NDTV
-  Rahul Gandhi Flags India's 'Economic Crisis'
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEc1V3Y4UVZuNnFnb2FXbjRLa3RqYWc1MGxlY1d6R0tHLWtOS0JsQlhDdW02eTl6LUxRN1lXamxuZVV2V0p0NTNpcnJUMnBOLXNTN1lOaTZGNkpRU3Q0VGJJdnR0VW1fMzFJNVpWQnVUY2hsVUJ0RDhwckp2YlBKb3d2MnZBRE4wang2dmZBaHZldlFZM2twNDZoYXp3d29Za2N3Qzk1VVRvOW95empVVjVoQXEwWEJUY2NoSGJ3d2JqTEF4NTRTS3JTNkNSZ9IB1gFBVV95cUxQUjE4YVlkRGEtWGhZZDhDZTJtY1RrQmt1eXhjeTFyMk5EQS1wUjhtcGpySkM0TlYweFdkZ2VXOXVYMHZDaTFYZ3dLNWpsSW5HX3VMb0dubV9EbV9iNlR6NWszOG5HV1dwRzdMelA3WC1WUlU0dnJVTDctVWhXU3k0WDVKN3czOHFsTUNhUUFzMGg3WjdBY2JMazRNaTliT3JPOU9WWk00MVk0MkNBTE9JUXNWM0dyTkpTOGdxeVgycFE3bTR5RDI2Y2NHNkFFQ19vNVNjOEhn?oc=5
+- Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace - NDTV
+  PM Modi calls for Ending Drug Menace at Cabinet
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHZ6SVhIc2ItanlhSG1pa2dmZmstUnN4bC1vcGRfdU1TLUo4bzl1UURhMU1hYkZKd01wb2RINERoVmt6UzFaUzk1NG9VUm50dWhkR3JTVVNYcFo2RUFHcFFHNjFuYnhnalMycjZCcUxjSDU1MDJBb0ZJS2dSZXRFOGFPZXV0UllITzZVcW5sY3RhNXJET3owcUlJWnhGYzVVYmJ1MWlZUy0tVFBVX2xZ0gG3AUFVX3lxTE9SRUxyeG90di1ZdFh6aVVJaUh5TTRjbWg5U2c2a2Frek1nUTJ3ZHRlR05IbjRhbm1HY29FZ2pXUS11UVJyUWIyYlVTLWl6YWR3Wl9fOGZOMWIzTjZPdG9sN3RMNHFPSnMtckdwNDNhWno2Z21CSktILXVONGY1TXp0OHI0bi1XNV91WExEd1Vpb3dpS2hKQmxKTE5LLTV6aExDMXhwemxKTUo1RjYweDJtV0FKam5QMA?oc=5
 
-- Rahul Gandhi tarnishing India’s image abroad; economic data contradicts his claims: JD(U) - The Hindu
-  Rahul Gandhi tarnishing India’s image abroad
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeUE2ejdTY1NPeENPV0xSUFBIbHkyMXJhTThIU0VVZWc2ZjIxNEQtamJNbjhYT0syVHBEb1RHTkJjMXpOMVM0X2RsVV9nOHlCcEtSbUc5NHJWUlRHaVp2cmdMeDFVZmtQYXd3cENUd0RPZWdMSGtMVW5ZclFMZnBSOWRqTlVGSWt3ODNlOWI3cG1QanZ2WjQ1Vkx3SE1MSXMyajlQR04zajdIbTNYdEJqdVhUVzJuYXpKUDN1eWZocF9Sd3hNMy1JU2FaYUhOYXpjODdkYnMwdWh6LUXSAeIBQVVfeXFMT0ZreXB1QUt1MVBHdktzZjByeGtmekg5bVRycEt6dmpzTG1EV2hDYXZtdnBlcUJNMlFWMHZlVVdITXktckdLVHZKbGoxTmV2UHFSTHRLaENlcEpNaXltUEE1MmNFLUM2V1luZkRtQlRJWmhMNVdYcVJ0NE9mLWJUOVRha3JPdHZ4ZWVicFE0Y3ZfWDY1YnlwSHhTV0xHclB5elBMSEk1Z3lvbV81QlhRODJWQ2ExTTdtamptU1N6N0o1cmRjTlRhdHJoUV9ZNDMxSzhnRnBCOUhaa0M1T2tqS3F2dw?oc=5
+- Hacks, AI or just overdue updates - why have there been so many outages? - BBC
+  Hacks, AI or just overdue updates - why have there
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XUVdJMTFGMzgwRkstWHdGZUFyNllaUmRjbnVWalFzN1lyenUyWGZORUEwVkhOX1B1WEFpOU5hc2VXcHhUaHd4MmhYWjNjMDdkSXh0YW9SYW40ZFU?oc=5
+
+- Tata Group draws interest from Honda, Hyundai for vehicle and technology sharing - Autocar India
+  Tata Group draws interest from Honda, Hyundai for vehicle
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdE8xRVd5bnRFay1yY21ib2RwZTVxbDV5UVpVSHNIS2w2bG9UTmJPS0JkQ0tfQlZCTmUzTDZSb1J2bEd6SXJqby1sOW44YS13MkF4Nmt2VWUzS25XRjZtWTZMdVlnSlhrR1hFcFFKNnpmZGpjYWVPVzBZcjBRTUFsZlJuVUhwV1J1NG5NbjZ3UW1DcTBIbzFtY1dnNl85NnlyWXl2QlRfQUJKTU53S2EtZWdZM2RjOVhPb1lqOXB4TkRaQdIBxwFBVV95cUxPQXpTYVFzZk5FcTJVT19SWm1JNkJ1M3ZpamREckVGN1JSTHE4M3J0WW1zVVZfSzVTckVUdGRqSGNVOTJwU0NQMDAtVTNSTnlRMER6Ykx2ZDVsZ0c2V29BcWVnUS1GUkpiZm5ZOTJOdTdNakhKYzRkVEVWVDg0aFJPbTU1WTZleHdTMl84bG5UWWtjbmhQVzF3TUdnUEpzOFNmaGVHMVZqSkZrb2N4ZUFfN05kUU9rNUNxelYxaE9wbGxjYl9uRjQ0?oc=5
+
+- Ford ships first battery cells using CATL technology - Reuters
+  Ford ships first battery cells using
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5
+
+- AI found more critical bugs in another widely used technology running 225M websites - The Register
+  AI found more critical bugs in another widely used technology running 225
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbG9ESDRJWlNQZmowQXhud2FJMlkyN1NzQ1F0UHRlSUZEVXZxelZzdHVYdDUzMWNqOHJkZUlyV0hxNkNCTV9wVGp5N3FBVWRXQ01BTkgyUEw0Wm9WVVFSaFR2UW4waDFKb2RVa2pPTFNUOXNPb2NJQ2dqbTFyQlphdFdSNm1WSDNCZ1hjNkloZWhJUEJUQXJ2YUZpbHZCdlBDQXExY191aVNwdk5SMW1MbmtqcHZHRDhvMFVzNnpOTDFnWGJLajl5cjdQUlR0VGltbFgxQkJB?oc=5
+
+- UN Sustainable Development Goals group for science, technology rejigged - The Hindu
+  The UN Sustainable Development Goals group for science
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOWE1KeXFnVDM5UjBON08zZ0wzZTdoT0NSLUo4d2RSejUyNnpDN21rTkhCbHFXX3dtQjJqVS03YTg1T0ZBZ1dSd1ZpNDAtbENhLWVDd05fZ1NJbTB1Q1FER29fOEFCLW03eDBDSFZSM09pY0gwUXpiTVBwNFJMbFVvU1J3bVhsQjVMaTRmcWdfaVpQdUFsMmRpLVVvYnVJWk5VNWlkUjFTN2hOZXZpdXJIY0tHWktDU2prdnRJQ2toa2pwM1Iza25Eci0xZ0nSAdMBQVVfeXFMTlZHODIxaktjekJ3VS1mUlFhUW5tVkhucWphdmRwZXZGV0JvbG9JcVo1TFREX2pGa2h4V0JBOWNBR2VtMkMwZ3ZJeEx5Yjg2Mm03dTMyc25EN0QtcE5Gd0JOQW01S1RNcUZhWTh5Tk9lZFRNeWtHUzRzaUFHWVFlTW11a1JUbVhsQmJlWl9PMkJWQ01DUjMyZXJ6RmVXZVlxRUxqOEhfNnktcmlGaGJwZEdZZ1UzOWJLd3ZGTlNYODR0SFJuRnRBZUszNUc5UERVaTB4RQ?oc=5
+
+- US judge rejects JPMorgan bid to dismiss lurid sexual harassment case
+  
+  🔗 https://www.livemint.com/companies/us-judge-rejects-jpmorgan-bid-to-dismiss-lurid-sexual-harassment-case-11795033594349.html
+
+- Sell-Side Analysts Rip Short-Seller Report on Retailer Dynamite
+  Short-seller Spruce Point Capital Management LLC shorted Groupe Dynamite
+  🔗 https://www.livemint.com/companies/sellside-analysts-rip-short-seller-report-on-retailer-dynamite-11795027352005.html
+
+- Explained | All about the Cambay offshore block at the centre of Vedanta chair Anil Agarwal's tiff with the govt
+  Vedanta chairman Anil Agarwal has criticised the Centre's decision to transfer its producing Cambay offshore oil
+  🔗 https://www.livemint.com/companies/news/explained-all-about-the-cambay-offshore-block-at-the-centre-of-vedanta-chair-anil-agarwals-tiff-with-the-govt-11795005361713.html
+
+- Intel layoffs: Fresh job cuts hit chipmaker, workforce falls to 81,100 as Lip-Bu Tan steps up restructuring
+  Intel has announced fresh job cuts as CEO Lip-Bu Tan pushes ahead with restructuring. The chipmaker
+  🔗 https://www.livemint.com/companies/news/intel-layoffs-fresh-job-cuts-hit-chipmaker-workforce-falls-to-81-100-as-lip-bu-tan-steps-up-restructuring-11795018413325.html
+
+- Meet Amruda Nair, granddaughter of The Leela founder Captain CP Krishnan Nair who launched Araiya Hotels &amp; Resorts
+  Amruda Nair founded Araiya Hotels &amp;amp; Resorts in 2018. The company aims to reach 40 hotels over the next five
+  🔗 https://www.livemint.com/companies/people/meet-amruda-nair-granddaughter-of-the-leela-founder-captain-cp-krishnan-nair-who-launched-araiya-hotels-resorts-11795016627692.html
+
+- Foreign Holdings of US Treasuries Decline by Most Since March
+  Foreign holdings of US Treasuries fell in September by the most in six months. China and
+  🔗 https://www.livemint.com/market/foreign-holdings-of-us-treasuries-decline-by-most-since-march-11795039752193.html
+
+- Gold Slumps 3% to Lowest in Over a Year on Hawkish Fed Signals
+  Gold tumbled over 3% to the lowest in over a year after Federal Reserve officials made the case for
+  🔗 https://www.livemint.com/market/gold-slumps-3-to-lowest-in-over-a-year-on-hawkish-fed-signals-11795036212650.html
+
+- Australian Wheat Hits Two-Year High as Buyers Flee Black Sea
+  Australian wheat prices climb to a two-year high as strong export demand overshadows the start of the harvest
+  🔗 https://www.livemint.com/market/australian-wheat-hits-two-year-high-as-buyers-flee-black-sea-11795035834767.html
+
+- Anthropic Leveraged ETF Race Heats Up Even Before Stock’s Debut
+  A slew of leveraged ETFs tied to SpaceX launched soon after its public debut, but only one managed to attract meaningful assets. That experience has raised the stakes for Anthropic.
+  🔗 https://www.livemint.com/market/anthropic-leveraged-etf-race-heats-up-even-before-stock-s-debut-11795033161402.html
+
+- Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric
+  Gold drops to 14-month low as
+  🔗 https://www.livemint.com/market/gold-drops-to-14-month-low-as-dollar-yields-rise-on-hawkish-fed-rhetoric-11795032242167.html
+
+- Hacks, AI or just overdue updates - why have there been so many outages? - BBC
+  Hacks, AI or just overdue updates - why have there
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XUVdJMTFGMzgwRkstWHdGZUFyNllaUmRjbnVWalFzN1lyenUyWGZORUEwVkhOX1B1WEFpOU5hc2VXcHhUaHd4MmhYWjNjMDdkSXh0YW9SYW40ZFU?oc=5
+
+- Tata Group draws interest from Honda, Hyundai for vehicle and technology sharing - Autocar India
+  Tata Group draws interest from Honda, Hyundai for vehicle
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdE8xRVd5bnRFay1yY21ib2RwZTVxbDV5UVpVSHNIS2w2bG9UTmJPS0JkQ0tfQlZCTmUzTDZSb1J2bEd6SXJqby1sOW44YS13MkF4Nmt2VWUzS25XRjZtWTZMdVlnSlhrR1hFcFFKNnpmZGpjYWVPVzBZcjBRTUFsZlJuVUhwV1J1NG5NbjZ3UW1DcTBIbzFtY1dnNl85NnlyWXl2QlRfQUJKTU53S2EtZWdZM2RjOVhPb1lqOXB4TkRaQdIBxwFBVV95cUxPQXpTYVFzZk5FcTJVT19SWm1JNkJ1M3ZpamREckVGN1JSTHE4M3J0WW1zVVZfSzVTckVUdGRqSGNVOTJwU0NQMDAtVTNSTnlRMER6Ykx2ZDVsZ0c2V29BcWVnUS1GUkpiZm5ZOTJOdTdNakhKYzRkVEVWVDg0aFJPbTU1WTZleHdTMl84bG5UWWtjbmhQVzF3TUdnUEpzOFNmaGVHMVZqSkZrb2N4ZUFfN05kUU9rNUNxelYxaE9wbGxjYl9uRjQ0?oc=5
+
+- Ford ships first battery cells using CATL technology - Reuters
+  Ford ships first battery cells using
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5
+
+- AI found more critical bugs in another widely used technology running 225M websites - The Register
+  AI found more critical bugs in another widely used technology running 225
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbG9ESDRJWlNQZmowQXhud2FJMlkyN1NzQ1F0UHRlSUZEVXZxelZzdHVYdDUzMWNqOHJkZUlyV0hxNkNCTV9wVGp5N3FBVWRXQ01BTkgyUEw0Wm9WVVFSaFR2UW4waDFKb2RVa2pPTFNUOXNPb2NJQ2dqbTFyQlphdFdSNm1WSDNCZ1hjNkloZWhJUEJUQXJ2YUZpbHZCdlBDQXExY191aVNwdk5SMW1MbmtqcHZHRDhvMFVzNnpOTDFnWGJLajl5cjdQUlR0VGltbFgxQkJB?oc=5
+
+- UN Sustainable Development Goals group for science, technology rejigged - The Hindu
+  The UN Sustainable Development Goals group for science
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOWE1KeXFnVDM5UjBON08zZ0wzZTdoT0NSLUo4d2RSejUyNnpDN21rTkhCbHFXX3dtQjJqVS03YTg1T0ZBZ1dSd1ZpNDAtbENhLWVDd05fZ1NJbTB1Q1FER29fOEFCLW03eDBDSFZSM09pY0gwUXpiTVBwNFJMbFVvU1J3bVhsQjVMaTRmcWdfaVpQdUFsMmRpLVVvYnVJWk5VNWlkUjFTN2hOZXZpdXJIY0tHWktDU2prdnRJQ2toa2pwM1Iza25Eci0xZ0nSAdMBQVVfeXFMTlZHODIxaktjekJ3VS1mUlFhUW5tVkhucWphdmRwZXZGV0JvbG9JcVo1TFREX2pGa2h4V0JBOWNBR2VtMkMwZ3ZJeEx5Yjg2Mm03dTMyc25EN0QtcE5Gd0JOQW01S1RNcUZhWTh5Tk9lZFRNeWtHUzRzaUFHWVFlTW11a1JUbVhsQmJlWl9PMkJWQ01DUjMyZXJ6RmVXZVlxRUxqOEhfNnktcmlGaGJwZEdZZ1UzOWJLd3ZGTlNYODR0SFJuRnRBZUszNUc5UERVaTB4RQ?oc=5
+
+- Dow slumps over 500 pts as Fed minutes revive rate-hike fears
+  The Nasdaq closed higher while the Dow declined significantly, reflecting market volatility. Overall market sentiment remains cautious as future economic indicators emerge.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms
+
+- Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike
+  Federal Reserve officials noted a greater risk of inflation requiring more action during their October meeting. The forthcoming December meeting could see intense debates on potential rate hikes.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-focused-on-inflation-risks-in-october-with-some-seeing-need-for-bigger-rate-hike/articleshow/135970652.cms
+
+- Market Trading Guide: Deepak Fertilisers among 3 stock recommendations for Thursday
+  The Nifty fell 0.63% and Sensex 0.61%. Choice Broking's Sachin Gupta recommended three stocks with bullish technical setups.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-deepak-fertilisers-among-3-stock-recommendations-for-thursday/slideshow/135967160.cms
+
+- Dalmia Bharat to consider share buyback at Nov 23 board meeting
+  Dalmia Bharat, India's fourth-largest cement manufacturer, will hold a board meeting on November 23. The meeting will focus on a proposal for a buyback of fully paid-up equity shares. Specific details regarding the buy
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalmia-bharat-to-consider-share-buyback-at-nov-23-board-meeting/articleshow/135966836.cms
+
+- Target reports strongest quarterly sales gain in five years heading into the holiday shopping season
+  Target reported a 7.1% increase in net sales for the third quarter, reaching $27.07 billion. CEO Michael Fiddelke indicated that the sales momentum was observed across various income groups.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/target-reports-strongest-quarterly-sales-gain-in-five-years-heading-into-the-holiday-shopping-season/articleshow/135966816.cms
+
+- India’s CSR spending leaves gaps in health, water security, innovation: Report - The Hindu
+  India’s CSR spending leaves gaps in
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3pfRExiWW5CYnpzSlZLdVdpUWVEdlVhdFVCQXFhdFprQ1NkREZZVmprUzc0RG55eXVqUGR1d2NfbnRGTjBaM0l5YUx5b096YmFGR2VvZ1gyeW5WQ3pLdkU0ZzNoZW52LV9yUElrOXBPTDU4akQxNmhTMi1vV2ZDdmxSWU9tX2toUzNxSXpCQWFtYWI4X0tHekQ0ODFJTjVCaXM5Y3YtYy1ncDN0REs2S2dkTV8yMWFDckpsOGRpS2pYT3IxVVFTNFBjcUx2Z9IB1AFBVV95cUxOY0RnTUJwODZLT1VMc2tCVjltZ0J3RWpDeHpyTVNNYWtVX2FDV1VjWXNVRnpzM3hROExJRmMzZ3lQWmJUTjdIOE5RU1lnbnFBR3JoNV82QS1kQWFKWm5TYTdZSVpYQ2ZTLTNHYWZjSmtSM0M2OUtZZXBfck44b2VPWXhKcndVcGpsZW5mNW9oMUVKdnpwNlhFZFJ1bE11TE1ncnpSa0x0SmxueUxRRGZvN2dEWDFLOTUxNUFSdXl5UkhVeVk5M18tbG1GeUNLQmtZd3A2Rg?oc=5
+
+- Protesting Sonia Gandhi's Book, Sena Leader Tears Bal Thackeray's Photo, Triggers Row - NDTV
+  " target="_blank">Protesting Sonia
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3puMWp2MFJDbFlnZUx1bGlFQVhsYWt6U0dRVXRmTGlockMxWV9ZaDBZVk1BTFRzbDFZRWphVE53UVRZaHlMYXJwd2pIWGRsNGpQRnFoNXdPRFBEZW5FQjQ1Q1dkZmpjVTFtV29TVUF0djBjSHpVNzJLd3JobVFwQWZlRE1CbUhWdmVvbFF2WExiTHNQUmpDVEJmV1dwdXZJbTBsekFyWVBOUGpmTjl4dDZpclJjTUpyVGdCWDhqZ2F3bHNGeDNzV2pNbWNIMzDSAdcBQVVfeXFMT3R1b3NqR01TdWlOZGtxdXVyUXljUHF1aFNwTjVVNEpyb3YtYnI4Yk84R0VSRmtmTnpiOWoxbHdyWThISE41QUMwajQzWGM1YktSUFp0bU1zME5YbzU2TEZYcGN0TnB1cnhaUlpNb0tKbTV0ZzlCQ0NRcmYwVlFkSWgwaDZkTE96eDlvYjRfYXN1VVRQeUZQcHpGRndac2xSS1pMelFJenRHeVpYSGgyVzlYQVlHT0F3X0xtNnhKQnJBN0d5enU0d2xrOS0zaklXMkxZZy00anc?oc=5
+
+- India defeat Pakistan 2-1 to win 10th SAFF Championship title - News On AIR
+  India defeat Pakistan 2-1 to win 10th
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWdrSVFOVkl6VV9xQm13NUNadTRlRUJDSEQwR3Nxc09DOXE5Tk1QZExqa18wZloxWG9QMjd4OUhySkFwaHhkQ3hfdFc5MGJzVE0wSHZzOVM0bjRrY25oNFFJY01vRlhfUEtyVWxwbUVtdXFzcHF4ZmVlQlZPeUluZl9rWkd4YkNJR2tSSkdreHA?oc=5
+
+- PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties - The Hindu
+  PM Modi meets Prince and Princess of Wales, discusses boosting
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqV2ViRWNJZzdrUlFMZ09FX1BJamwxUms0T0loUXlocXFnM09icDQ3RnB0VTdtVm1uVXp6TFZSdmI2YWRsZkItTVpyWDRTNC1zUi1fUXNiVjJEYlkzZy1xR09FQm1jcVdjMFQ1R2k1c3VIa05HbkpqeGRCTjZMYkdRWTlfRGtDSnJvOFQ4cDRyNlU2N0NyN0JyMWlmMnZ2VlFjMlFDT3JWVzN4SGxLdEJ5QmFxSEttWGdXNktrTEZLVlR3WWNyU0F0bXdvek3SAdYBQVVfeXFMUHNSRkZnZHVfWnZKVEV4dTlYMzlYLVlvWVdfLUs1dVg0Rkl4MEFERm95NjZWcTNNM2VkTEtsclNXWFd6WV9SUXM4MUg2RnBFbThmT3dqcmZYLVplalRRUzJDOEpQb3o1Tk00Rld5aThVUGxpUmRHZlZtZXc3VUljd3hnMjBHRXJ1NTBmYXA1TGZWYlROd05jVmpJSkdsOFJyV0dkRjlIQmYxSE4zeUIzSjdqMS1zVzhMd1lzZ2RRMDNXeWIzanNzYzEzaThjeWdfdl9SbVk2dw?oc=5
+
+- Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace - NDTV
+  PM Modi calls for Ending Drug Menace at Cabinet
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHZ6SVhIc2ItanlhSG1pa2dmZmstUnN4bC1vcGRfdU1TLUo4bzl1UURhMU1hYkZKd01wb2RINERoVmt6UzFaUzk1NG9VUm50dWhkR3JTVVNYcFo2RUFHcFFHNjFuYnhnalMycjZCcUxjSDU1MDJBb0ZJS2dSZXRFOGFPZXV0UllITzZVcW5sY3RhNXJET3owcUlJWnhGYzVVYmJ1MWlZUy0tVFBVX2xZ0gG3AUFVX3lxTE9SRUxyeG90di1ZdFh6aVVJaUh5TTRjbWg5U2c2a2Frek1nUTJ3ZHRlR05IbjRhbm1HY29FZ2pXUS11UVJyUWIyYlVTLWl6YWR3Wl9fOGZOMWIzTjZPdG9sN3RMNHFPSnMtckdwNDNhWno2Z21CSktILXVONGY1TXp0OHI0bi1XNV91WExEd1Vpb3dpS2hKQmxKTE5LLTV6aExDMXhwemxKTUo1RjYweDJtV0FKam5QMA?oc=5
+
+- AI Is Supercharging Cyberattacks, But Are Indian Enterprises Ready?
+  It has been a week of outages. From big tech giants like Microsoft and Apple to JPMorgan Chase and the&#8230;
+  🔗 https://inc42.com/buzz/ai-is-supercharging-cyberattacks-but-are-indian-enterprises-ready/
+
+- PB Fintech Cofounder Alok Bansal To Step Down From Executive Role
+  PB Fintech’s cofounder Alok Bansal is stepping down as the executive vice-chairman and whole-time director of the company.
+  🔗 https://inc42.com/buzz/pb-fintech-cofounder-alok-bansal-to-step-down-from-executive-role/
+
+- Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors
+  Singapore-based robotics startup Botsync has raised $11 Mn (about ₹103 Cr) in a funding round.
+  🔗 https://inc42.com/buzz/botsync-raises-11-mn-to-connect-robots-and-machines-on-factory-floors/
 
 - Humyn Labs Raises $47 Mn To Collect Training Data For Robots
   Humyn Labs has raised $47 Mn (about ₹439 Cr) to expand its data collection.
@@ -168,17 +160,9 @@
   Eternal-owned quick commerce platform Blinkit has started delivering download codes for Grand Theft Auto VI (GTA 6), the latest instalment.
   🔗 https://inc42.com/buzz/blinkit-brings-gta-6-to-11-cities-ahead-of-launch/
 
-- Xiaomi Faces Fresh Tax Scrutiny Over Royalty Payments
-  Chinese phone manufacturer Xiaomi is reportedly facing fresh scrutiny from Indian tax authorities.
-  🔗 https://inc42.com/buzz/xiaomi-faces-fresh-tax-scrutiny-over-royalty-payments/
-
-- Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon
-  Soket AI has raised $4 Mn (around ₹37 Cr) from Bajaj Finserv.
-  🔗 https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/
-
-- Deeptech Startup Enerzolve To Raise $20 Mn From Jungle Ventures, Others
-  Bengaluru-based deeptech startup Enerzolve Smart Technologies is in talks to raise around $16- 20 Mn (₹150-186 Cr)
-  🔗 https://inc42.com/buzz/deeptech-startup-enerzolve-to-raise-20-mn-from-jungle-ventures-others/
+- India’s CSR spending leaves gaps in health, water security, innovation: Report - The Hindu
+  India’s CSR spending leaves gaps in
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3pfRExiWW5CYnpzSlZLdVdpUWVEdlVhdFVCQXFhdFprQ1NkREZZVmprUzc0RG55eXVqUGR1d2NfbnRGTjBaM0l5YUx5b096YmFGR2VvZ1gyeW5WQ3pLdkU0ZzNoZW52LV9yUElrOXBPTDU4akQxNmhTMi1vV2ZDdmxSWU9tX2toUzNxSXpCQWFtYWI4X0tHekQ0ODFJTjVCaXM5Y3YtYy1ncDN0REs2S2dkTV8yMWFDckpsOGRpS2pYT3IxVVFTNFBjcUx2Z9IB1AFBVV95cUxOY0RnTUJwODZLT1VMc2tCVjltZ0J3RWpDeHpyTVNNYWtVX2FDV1VjWXNVRnpzM3hROExJRmMzZ3lQWmJUTjdIOE5RU1lnbnFBR3JoNV82QS1kQWFKWm5TYTdZSVpYQ2ZTLTNHYWZjSmtSM0M2OUtZZXBfck44b2VPWXhKcndVcGpsZW5mNW9oMUVKdnpwNlhFZFJ1bE11TE1ncnpSa0x0SmxueUxRRGZvN2dEWDFLOTUxNUFSdXl5UkhVeVk5M18tbG1GeUNLQmtZd3A2Rg?oc=5
 
 - Protesting Sonia Gandhi's Book, Sena Leader Tears Bal Thackeray's Photo, Triggers Row - NDTV
   " target="_blank">Protesting Sonia
@@ -188,17 +172,17 @@
   India defeat Pakistan 2-1 to win 10th
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWdrSVFOVkl6VV9xQm13NUNadTRlRUJDSEQwR3Nxc09DOXE5Tk1QZExqa18wZloxWG9QMjd4OUhySkFwaHhkQ3hfdFc5MGJzVE0wSHZzOVM0bjRrY25oNFFJY01vRlhfUEtyVWxwbUVtdXFzcHF4ZmVlQlZPeUluZl9rWkd4YkNJR2tSSkdreHA?oc=5
 
-- India sitting on 'economic disaster': Rahul Gandhi at Columbia University - The Hindu
-  India sitting on 'economic disaster': Rahul Gandhi
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmQ5aWY3cFpiSkF1bmJTWXN2RUlwSmRseFJ2dVBxRExHQ01XckItUDdmTE5zQnVBbnhCbUxHa3l3YkxJNW9wMldyTzFXVFpGRkRab1lYbkhoSG5Va0JFR3diSERLeVJWUnhmVjFaR1pPQk1mVzRtLVFYeTQyTU5ObG1TbU93aEdHanNDaTloTy1VYWM2UDRFc1FoT1Zpb0JQd3pkdzA5MWFaX1pvNlZ0T3FYMnpiSV81WjhiUUFhMzl1WmtyckpwOdIBzwFBVV95cUxQZ1BoelBBX1BhaEdFNFBTd2Ita2NHSE10MmI4WUoxMVFSZHNMWVdaaHRoc012eUFjVXI5S1RjWFEydTZuNzdfVU9RakVTaXozcWJvWWh1YXhPbHhLczJfbnk5ZWYzS2F4Ni1CLVZYNldZWVBzb2lOOGpDeEVibFpFMEJtQlExOEJTYVlLdmh4Y3JsQk9VR20xSnNIdzlNbU5pUW0xMXFlYm9RczFiWXMzWHZaaTZoN1dJSmdRb08wRTZ4VTlyMl9rX251c3QxT0E?oc=5
+- PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties - The Hindu
+  PM Modi meets Prince and Princess of Wales, discusses boosting
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqV2ViRWNJZzdrUlFMZ09FX1BJamwxUms0T0loUXlocXFnM09icDQ3RnB0VTdtVm1uVXp6TFZSdmI2YWRsZkItTVpyWDRTNC1zUi1fUXNiVjJEYlkzZy1xR09FQm1jcVdjMFQ1R2k1c3VIa05HbkpqeGRCTjZMYkdRWTlfRGtDSnJvOFQ4cDRyNlU2N0NyN0JyMWlmMnZ2VlFjMlFDT3JWVzN4SGxLdEJ5QmFxSEttWGdXNktrTEZLVlR3WWNyU0F0bXdvek3SAdYBQVVfeXFMUHNSRkZnZHVfWnZKVEV4dTlYMzlYLVlvWVdfLUs1dVg0Rkl4MEFERm95NjZWcTNNM2VkTEtsclNXWFd6WV9SUXM4MUg2RnBFbThmT3dqcmZYLVplalRRUzJDOEpQb3o1Tk00Rld5aThVUGxpUmRHZlZtZXc3VUljd3hnMjBHRXJ1NTBmYXA1TGZWYlROd05jVmpJSkdsOFJyV0dkRjlIQmYxSE4zeUIzSjdqMS1zVzhMd1lzZ2RRMDNXeWIzanNzYzEzaThjeWdfdl9SbVk2dw?oc=5
 
-- Rahul Gandhi Flags India's 'Economic Crisis' In US, BJP Calls Him Anti-India - NDTV
-  Rahul Gandhi Flags India's 'Economic Crisis'
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEc1V3Y4UVZuNnFnb2FXbjRLa3RqYWc1MGxlY1d6R0tHLWtOS0JsQlhDdW02eTl6LUxRN1lXamxuZVV2V0p0NTNpcnJUMnBOLXNTN1lOaTZGNkpRU3Q0VGJJdnR0VW1fMzFJNVpWQnVUY2hsVUJ0RDhwckp2YlBKb3d2MnZBRE4wang2dmZBaHZldlFZM2twNDZoYXp3d29Za2N3Qzk1VVRvOW95empVVjVoQXEwWEJUY2NoSGJ3d2JqTEF4NTRTS3JTNkNSZ9IB1gFBVV95cUxQUjE4YVlkRGEtWGhZZDhDZTJtY1RrQmt1eXhjeTFyMk5EQS1wUjhtcGpySkM0TlYweFdkZ2VXOXVYMHZDaTFYZ3dLNWpsSW5HX3VMb0dubV9EbV9iNlR6NWszOG5HV1dwRzdMelA3WC1WUlU0dnJVTDctVWhXU3k0WDVKN3czOHFsTUNhUUFzMGg3WjdBY2JMazRNaTliT3JPOU9WWk00MVk0MkNBTE9JUXNWM0dyTkpTOGdxeVgycFE3bTR5RDI2Y2NHNkFFQ19vNVNjOEhn?oc=5
+- Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace - NDTV
+  PM Modi calls for Ending Drug Menace at Cabinet
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHZ6SVhIc2ItanlhSG1pa2dmZmstUnN4bC1vcGRfdU1TLUo4bzl1UURhMU1hYkZKd01wb2RINERoVmt6UzFaUzk1NG9VUm50dWhkR3JTVVNYcFo2RUFHcFFHNjFuYnhnalMycjZCcUxjSDU1MDJBb0ZJS2dSZXRFOGFPZXV0UllITzZVcW5sY3RhNXJET3owcUlJWnhGYzVVYmJ1MWlZUy0tVFBVX2xZ0gG3AUFVX3lxTE9SRUxyeG90di1ZdFh6aVVJaUh5TTRjbWg5U2c2a2Frek1nUTJ3ZHRlR05IbjRhbm1HY29FZ2pXUS11UVJyUWIyYlVTLWl6YWR3Wl9fOGZOMWIzTjZPdG9sN3RMNHFPSnMtckdwNDNhWno2Z21CSktILXVONGY1TXp0OHI0bi1XNV91WExEd1Vpb3dpS2hKQmxKTE5LLTV6aExDMXhwemxKTUo1RjYweDJtV0FKam5QMA?oc=5
 
-- Rahul Gandhi tarnishing India’s image abroad; economic data contradicts his claims: JD(U) - The Hindu
-  Rahul Gandhi tarnishing India’s image abroad
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeUE2ejdTY1NPeENPV0xSUFBIbHkyMXJhTThIU0VVZWc2ZjIxNEQtamJNbjhYT0syVHBEb1RHTkJjMXpOMVM0X2RsVV9nOHlCcEtSbUc5NHJWUlRHaVp2cmdMeDFVZmtQYXd3cENUd0RPZWdMSGtMVW5ZclFMZnBSOWRqTlVGSWt3ODNlOWI3cG1QanZ2WjQ1Vkx3SE1MSXMyajlQR04zajdIbTNYdEJqdVhUVzJuYXpKUDN1eWZocF9Sd3hNMy1JU2FaYUhOYXpjODdkYnMwdWh6LUXSAeIBQVVfeXFMT0ZreXB1QUt1MVBHdktzZjByeGtmekg5bVRycEt6dmpzTG1EV2hDYXZtdnBlcUJNMlFWMHZlVVdITXktckdLVHZKbGoxTmV2UHFSTHRLaENlcEpNaXltUEE1MmNFLUM2V1luZkRtQlRJWmhMNVdYcVJ0NE9mLWJUOVRha3JPdHZ4ZWVicFE0Y3ZfWDY1YnlwSHhTV0xHclB5elBMSEk1Z3lvbV81QlhRODJWQ2ExTTdtamptU1N6N0o1cmRjTlRhdHJoUV9ZNDMxSzhnRnBCOUhaa0M1T2tqS3F2dw?oc=5
+- India’s CSR spending leaves gaps in health, water security, innovation: Report - The Hindu
+  India’s CSR spending leaves gaps in
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3pfRExiWW5CYnpzSlZLdVdpUWVEdlVhdFVCQXFhdFprQ1NkREZZVmprUzc0RG55eXVqUGR1d2NfbnRGTjBaM0l5YUx5b096YmFGR2VvZ1gyeW5WQ3pLdkU0ZzNoZW52LV9yUElrOXBPTDU4akQxNmhTMi1vV2ZDdmxSWU9tX2toUzNxSXpCQWFtYWI4X0tHekQ0ODFJTjVCaXM5Y3YtYy1ncDN0REs2S2dkTV8yMWFDckpsOGRpS2pYT3IxVVFTNFBjcUx2Z9IB1AFBVV95cUxOY0RnTUJwODZLT1VMc2tCVjltZ0J3RWpDeHpyTVNNYWtVX2FDV1VjWXNVRnpzM3hROExJRmMzZ3lQWmJUTjdIOE5RU1lnbnFBR3JoNV82QS1kQWFKWm5TYTdZSVpYQ2ZTLTNHYWZjSmtSM0M2OUtZZXBfck44b2VPWXhKcndVcGpsZW5mNW9oMUVKdnpwNlhFZFJ1bE11TE1ncnpSa0x0SmxueUxRRGZvN2dEWDFLOTUxNUFSdXl5UkhVeVk5M18tbG1GeUNLQmtZd3A2Rg?oc=5
 
 - Protesting Sonia Gandhi's Book, Sena Leader Tears Bal Thackeray's Photo, Triggers Row - NDTV
   " target="_blank">Protesting Sonia
@@ -208,45 +192,53 @@
   India defeat Pakistan 2-1 to win 10th
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWdrSVFOVkl6VV9xQm13NUNadTRlRUJDSEQwR3Nxc09DOXE5Tk1QZExqa18wZloxWG9QMjd4OUhySkFwaHhkQ3hfdFc5MGJzVE0wSHZzOVM0bjRrY25oNFFJY01vRlhfUEtyVWxwbUVtdXFzcHF4ZmVlQlZPeUluZl9rWkd4YkNJR2tSSkdreHA?oc=5
 
-- India sitting on 'economic disaster': Rahul Gandhi at Columbia University - The Hindu
-  India sitting on 'economic disaster': Rahul Gandhi
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmQ5aWY3cFpiSkF1bmJTWXN2RUlwSmRseFJ2dVBxRExHQ01XckItUDdmTE5zQnVBbnhCbUxHa3l3YkxJNW9wMldyTzFXVFpGRkRab1lYbkhoSG5Va0JFR3diSERLeVJWUnhmVjFaR1pPQk1mVzRtLVFYeTQyTU5ObG1TbU93aEdHanNDaTloTy1VYWM2UDRFc1FoT1Zpb0JQd3pkdzA5MWFaX1pvNlZ0T3FYMnpiSV81WjhiUUFhMzl1WmtyckpwOdIBzwFBVV95cUxQZ1BoelBBX1BhaEdFNFBTd2Ita2NHSE10MmI4WUoxMVFSZHNMWVdaaHRoc012eUFjVXI5S1RjWFEydTZuNzdfVU9RakVTaXozcWJvWWh1YXhPbHhLczJfbnk5ZWYzS2F4Ni1CLVZYNldZWVBzb2lOOGpDeEVibFpFMEJtQlExOEJTYVlLdmh4Y3JsQk9VR20xSnNIdzlNbU5pUW0xMXFlYm9RczFiWXMzWHZaaTZoN1dJSmdRb08wRTZ4VTlyMl9rX251c3QxT0E?oc=5
+- PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties - The Hindu
+  PM Modi meets Prince and Princess of Wales, discusses boosting
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqV2ViRWNJZzdrUlFMZ09FX1BJamwxUms0T0loUXlocXFnM09icDQ3RnB0VTdtVm1uVXp6TFZSdmI2YWRsZkItTVpyWDRTNC1zUi1fUXNiVjJEYlkzZy1xR09FQm1jcVdjMFQ1R2k1c3VIa05HbkpqeGRCTjZMYkdRWTlfRGtDSnJvOFQ4cDRyNlU2N0NyN0JyMWlmMnZ2VlFjMlFDT3JWVzN4SGxLdEJ5QmFxSEttWGdXNktrTEZLVlR3WWNyU0F0bXdvek3SAdYBQVVfeXFMUHNSRkZnZHVfWnZKVEV4dTlYMzlYLVlvWVdfLUs1dVg0Rkl4MEFERm95NjZWcTNNM2VkTEtsclNXWFd6WV9SUXM4MUg2RnBFbThmT3dqcmZYLVplalRRUzJDOEpQb3o1Tk00Rld5aThVUGxpUmRHZlZtZXc3VUljd3hnMjBHRXJ1NTBmYXA1TGZWYlROd05jVmpJSkdsOFJyV0dkRjlIQmYxSE4zeUIzSjdqMS1zVzhMd1lzZ2RRMDNXeWIzanNzYzEzaThjeWdfdl9SbVk2dw?oc=5
 
-- Rahul Gandhi Flags India's 'Economic Crisis' In US, BJP Calls Him Anti-India - NDTV
-  Rahul Gandhi Flags India's 'Economic Crisis'
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEc1V3Y4UVZuNnFnb2FXbjRLa3RqYWc1MGxlY1d6R0tHLWtOS0JsQlhDdW02eTl6LUxRN1lXamxuZVV2V0p0NTNpcnJUMnBOLXNTN1lOaTZGNkpRU3Q0VGJJdnR0VW1fMzFJNVpWQnVUY2hsVUJ0RDhwckp2YlBKb3d2MnZBRE4wang2dmZBaHZldlFZM2twNDZoYXp3d29Za2N3Qzk1VVRvOW95empVVjVoQXEwWEJUY2NoSGJ3d2JqTEF4NTRTS3JTNkNSZ9IB1gFBVV95cUxQUjE4YVlkRGEtWGhZZDhDZTJtY1RrQmt1eXhjeTFyMk5EQS1wUjhtcGpySkM0TlYweFdkZ2VXOXVYMHZDaTFYZ3dLNWpsSW5HX3VMb0dubV9EbV9iNlR6NWszOG5HV1dwRzdMelA3WC1WUlU0dnJVTDctVWhXU3k0WDVKN3czOHFsTUNhUUFzMGg3WjdBY2JMazRNaTliT3JPOU9WWk00MVk0MkNBTE9JUXNWM0dyTkpTOGdxeVgycFE3bTR5RDI2Y2NHNkFFQ19vNVNjOEhn?oc=5
+- Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace - NDTV
+  PM Modi calls for Ending Drug Menace at Cabinet
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHZ6SVhIc2ItanlhSG1pa2dmZmstUnN4bC1vcGRfdU1TLUo4bzl1UURhMU1hYkZKd01wb2RINERoVmt6UzFaUzk1NG9VUm50dWhkR3JTVVNYcFo2RUFHcFFHNjFuYnhnalMycjZCcUxjSDU1MDJBb0ZJS2dSZXRFOGFPZXV0UllITzZVcW5sY3RhNXJET3owcUlJWnhGYzVVYmJ1MWlZUy0tVFBVX2xZ0gG3AUFVX3lxTE9SRUxyeG90di1ZdFh6aVVJaUh5TTRjbWg5U2c2a2Frek1nUTJ3ZHRlR05IbjRhbm1HY29FZ2pXUS11UVJyUWIyYlVTLWl6YWR3Wl9fOGZOMWIzTjZPdG9sN3RMNHFPSnMtckdwNDNhWno2Z21CSktILXVONGY1TXp0OHI0bi1XNV91WExEd1Vpb3dpS2hKQmxKTE5LLTV6aExDMXhwemxKTUo1RjYweDJtV0FKam5QMA?oc=5
 
-- Rahul Gandhi tarnishing India’s image abroad; economic data contradicts his claims: JD(U) - The Hindu
-  Rahul Gandhi tarnishing India’s image abroad
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeUE2ejdTY1NPeENPV0xSUFBIbHkyMXJhTThIU0VVZWc2ZjIxNEQtamJNbjhYT0syVHBEb1RHTkJjMXpOMVM0X2RsVV9nOHlCcEtSbUc5NHJWUlRHaVp2cmdMeDFVZmtQYXd3cENUd0RPZWdMSGtMVW5ZclFMZnBSOWRqTlVGSWt3ODNlOWI3cG1QanZ2WjQ1Vkx3SE1MSXMyajlQR04zajdIbTNYdEJqdVhUVzJuYXpKUDN1eWZocF9Sd3hNMy1JU2FaYUhOYXpjODdkYnMwdWh6LUXSAeIBQVVfeXFMT0ZreXB1QUt1MVBHdktzZjByeGtmekg5bVRycEt6dmpzTG1EV2hDYXZtdnBlcUJNMlFWMHZlVVdITXktckdLVHZKbGoxTmV2UHFSTHRLaENlcEpNaXltUEE1MmNFLUM2V1luZkRtQlRJWmhMNVdYcVJ0NE9mLWJUOVRha3JPdHZ4ZWVicFE0Y3ZfWDY1YnlwSHhTV0xHclB5elBMSEk1Z3lvbV81QlhRODJWQ2ExTTdtamptU1N6N0o1cmRjTlRhdHJoUV9ZNDMxSzhnRnBCOUhaa0M1T2tqS3F2dw?oc=5
+- India’s CSR spending leaves gaps in health, water security, innovation: Report - The Hindu
+  India’s CSR spending leaves gaps in
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3pfRExiWW5CYnpzSlZLdVdpUWVEdlVhdFVCQXFhdFprQ1NkREZZVmprUzc0RG55eXVqUGR1d2NfbnRGTjBaM0l5YUx5b096YmFGR2VvZ1gyeW5WQ3pLdkU0ZzNoZW52LV9yUElrOXBPTDU4akQxNmhTMi1vV2ZDdmxSWU9tX2toUzNxSXpCQWFtYWI4X0tHekQ0ODFJTjVCaXM5Y3YtYy1ncDN0REs2S2dkTV8yMWFDckpsOGRpS2pYT3IxVVFTNFBjcUx2Z9IB1AFBVV95cUxOY0RnTUJwODZLT1VMc2tCVjltZ0J3RWpDeHpyTVNNYWtVX2FDV1VjWXNVRnpzM3hROExJRmMzZ3lQWmJUTjdIOE5RU1lnbnFBR3JoNV82QS1kQWFKWm5TYTdZSVpYQ2ZTLTNHYWZjSmtSM0M2OUtZZXBfck44b2VPWXhKcndVcGpsZW5mNW9oMUVKdnpwNlhFZFJ1bE11TE1ncnpSa0x0SmxueUxRRGZvN2dEWDFLOTUxNUFSdXl5UkhVeVk5M18tbG1GeUNLQmtZd3A2Rg?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Protesting Sonia Gandhi's Book, Sena Leader Tears Bal Thackeray's Photo, Triggers Row - NDTV
+  " target="_blank">Protesting Sonia
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3puMWp2MFJDbFlnZUx1bGlFQVhsYWt6U0dRVXRmTGlockMxWV9ZaDBZVk1BTFRzbDFZRWphVE53UVRZaHlMYXJwd2pIWGRsNGpQRnFoNXdPRFBEZW5FQjQ1Q1dkZmpjVTFtV29TVUF0djBjSHpVNzJLd3JobVFwQWZlRE1CbUhWdmVvbFF2WExiTHNQUmpDVEJmV1dwdXZJbTBsekFyWVBOUGpmTjl4dDZpclJjTUpyVGdCWDhqZ2F3bHNGeDNzV2pNbWNIMzDSAdcBQVVfeXFMT3R1b3NqR01TdWlOZGtxdXVyUXljUHF1aFNwTjVVNEpyb3YtYnI4Yk84R0VSRmtmTnpiOWoxbHdyWThISE41QUMwajQzWGM1YktSUFp0bU1zME5YbzU2TEZYcGN0TnB1cnhaUlpNb0tKbTV0ZzlCQ0NRcmYwVlFkSWgwaDZkTE96eDlvYjRfYXN1VVRQeUZQcHpGRndac2xSS1pMelFJenRHeVpYSGgyVzlYQVlHT0F3X0xtNnhKQnJBN0d5enU0d2xrOS0zaklXMkxZZy00anc?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- India defeat Pakistan 2-1 to win 10th SAFF Championship title - News On AIR
+  India defeat Pakistan 2-1 to win 10th
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWdrSVFOVkl6VV9xQm13NUNadTRlRUJDSEQwR3Nxc09DOXE5Tk1QZExqa18wZloxWG9QMjd4OUhySkFwaHhkQ3hfdFc5MGJzVE0wSHZzOVM0bjRrY25oNFFJY01vRlhfUEtyVWxwbUVtdXFzcHF4ZmVlQlZPeUluZl9rWkd4YkNJR2tSSkdreHA?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties - The Hindu
+  PM Modi meets Prince and Princess of Wales, discusses boosting
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqV2ViRWNJZzdrUlFMZ09FX1BJamwxUms0T0loUXlocXFnM09icDQ3RnB0VTdtVm1uVXp6TFZSdmI2YWRsZkItTVpyWDRTNC1zUi1fUXNiVjJEYlkzZy1xR09FQm1jcVdjMFQ1R2k1c3VIa05HbkpqeGRCTjZMYkdRWTlfRGtDSnJvOFQ4cDRyNlU2N0NyN0JyMWlmMnZ2VlFjMlFDT3JWVzN4SGxLdEJ5QmFxSEttWGdXNktrTEZLVlR3WWNyU0F0bXdvek3SAdYBQVVfeXFMUHNSRkZnZHVfWnZKVEV4dTlYMzlYLVlvWVdfLUs1dVg0Rkl4MEFERm95NjZWcTNNM2VkTEtsclNXWFd6WV9SUXM4MUg2RnBFbThmT3dqcmZYLVplalRRUzJDOEpQb3o1Tk00Rld5aThVUGxpUmRHZlZtZXc3VUljd3hnMjBHRXJ1NTBmYXA1TGZWYlROd05jVmpJSkdsOFJyV0dkRjlIQmYxSE4zeUIzSjdqMS1zVzhMd1lzZ2RRMDNXeWIzanNzYzEzaThjeWdfdl9SbVk2dw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace - NDTV
+  PM Modi calls for Ending Drug Menace at Cabinet
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHZ6SVhIc2ItanlhSG1pa2dmZmstUnN4bC1vcGRfdU1TLUo4bzl1UURhMU1hYkZKd01wb2RINERoVmt6UzFaUzk1NG9VUm50dWhkR3JTVVNYcFo2RUFHcFFHNjFuYnhnalMycjZCcUxjSDU1MDJBb0ZJS2dSZXRFOGFPZXV0UllITzZVcW5sY3RhNXJET3owcUlJWnhGYzVVYmJ1MWlZUy0tVFBVX2xZ0gG3AUFVX3lxTE9SRUxyeG90di1ZdFh6aVVJaUh5TTRjbWg5U2c2a2Frek1nUTJ3ZHRlR05IbjRhbm1HY29FZ2pXUS11UVJyUWIyYlVTLWl6YWR3Wl9fOGZOMWIzTjZPdG9sN3RMNHFPSnMtckdwNDNhWno2Z21CSktILXVONGY1TXp0OHI0bi1XNV91WExEd1Vpb3dpS2hKQmxKTE5LLTV6aExDMXhwemxKTUo1RjYweDJtV0FKam5QMA?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Hacks, AI or just overdue updates - why have there been so many outages? - BBC
+  Hacks, AI or just overdue updates - why have there
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XUVdJMTFGMzgwRkstWHdGZUFyNllaUmRjbnVWalFzN1lyenUyWGZORUEwVkhOX1B1WEFpOU5hc2VXcHhUaHd4MmhYWjNjMDdkSXh0YW9SYW40ZFU?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Tata Group draws interest from Honda, Hyundai for vehicle and technology sharing - Autocar India
+  Tata Group draws interest from Honda, Hyundai for vehicle
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdE8xRVd5bnRFay1yY21ib2RwZTVxbDV5UVpVSHNIS2w2bG9UTmJPS0JkQ0tfQlZCTmUzTDZSb1J2bEd6SXJqby1sOW44YS13MkF4Nmt2VWUzS25XRjZtWTZMdVlnSlhrR1hFcFFKNnpmZGpjYWVPVzBZcjBRTUFsZlJuVUhwV1J1NG5NbjZ3UW1DcTBIbzFtY1dnNl85NnlyWXl2QlRfQUJKTU53S2EtZWdZM2RjOVhPb1lqOXB4TkRaQdIBxwFBVV95cUxPQXpTYVFzZk5FcTJVT19SWm1JNkJ1M3ZpamREckVGN1JSTHE4M3J0WW1zVVZfSzVTckVUdGRqSGNVOTJwU0NQMDAtVTNSTnlRMER6Ykx2ZDVsZ0c2V29BcWVnUS1GUkpiZm5ZOTJOdTdNakhKYzRkVEVWVDg0aFJPbTU1WTZleHdTMl84bG5UWWtjbmhQVzF3TUdnUEpzOFNmaGVHMVZqSkZrb2N4ZUFfN05kUU9rNUNxelYxaE9wbGxjYl9uRjQ0?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Ford ships first battery cells using CATL technology - Reuters
+  Ford ships first battery cells using
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5
+
+- AI found more critical bugs in another widely used technology running 225M websites - The Register
+  AI found more critical bugs in another widely used technology running 225
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbG9ESDRJWlNQZmowQXhud2FJMlkyN1NzQ1F0UHRlSUZEVXZxelZzdHVYdDUzMWNqOHJkZUlyV0hxNkNCTV9wVGp5N3FBVWRXQ01BTkgyUEw0Wm9WVVFSaFR2UW4waDFKb2RVa2pPTFNUOXNPb2NJQ2dqbTFyQlphdFdSNm1WSDNCZ1hjNkloZWhJUEJUQXJ2YUZpbHZCdlBDQXExY191aVNwdk5SMW1MbmtqcHZHRDhvMFVzNnpOTDFnWGJLajl5cjdQUlR0VGltbFgxQkJB?oc=5
+
+- UN Sustainable Development Goals group for science, technology rejigged - The Hindu
+  The UN Sustainable Development Goals group for science
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOWE1KeXFnVDM5UjBON08zZ0wzZTdoT0NSLUo4d2RSejUyNnpDN21rTkhCbHFXX3dtQjJqVS03YTg1T0ZBZ1dSd1ZpNDAtbENhLWVDd05fZ1NJbTB1Q1FER29fOEFCLW03eDBDSFZSM09pY0gwUXpiTVBwNFJMbFVvU1J3bVhsQjVMaTRmcWdfaVpQdUFsMmRpLVVvYnVJWk5VNWlkUjFTN2hOZXZpdXJIY0tHWktDU2prdnRJQ2toa2pwM1Iza25Eci0xZ0nSAdMBQVVfeXFMTlZHODIxaktjekJ3VS1mUlFhUW5tVkhucWphdmRwZXZGV0JvbG9JcVo1TFREX2pGa2h4V0JBOWNBR2VtMkMwZ3ZJeEx5Yjg2Mm03dTMyc25EN0QtcE5Gd0JOQW01S1RNcUZhWTh5Tk9lZFRNeWtHUzRzaUFHWVFlTW11a1JUbVhsQmJlWl9PMkJWQ01DUjMyZXJ6RmVXZVlxRUxqOEhfNnktcmlGaGJwZEdZZ1UzOWJLd3ZGTlNYODR0SFJuRnRBZUszNUc5UERVaTB4RQ?oc=5
 
 
-_Last updated: 2026-11-18 15:00:04 UTC_
+_Last updated: 2026-11-18 23:52:32 UTC_
