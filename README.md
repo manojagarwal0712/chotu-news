@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- ASEAN Summit LIVE updates: Quad announces new maritime exercise, unveils major initiatives on AI, cyber security - The Hindu
-  The ASEAN Summit is being held in Doha, Qatar, from
+- ASEAN, Quad Summit updates on November 17, 2026 - The Hindu
+  The Hindu reports that ASEAN
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUI0eEc4ZGlHdHRTeG4yQUJzTTNFdmZWTWlIb1NVZmg0ZlMyQkJwaVFISm42NUw2YzZzNHhFLTVRZHBpU0hhUWtiZ3pJQ2NYTzRfTmNhWEM5SFVWcUhraUVZMGMyeGdaUklBT0NvQVhmb2pqSVdEdk1IcGgzMzJ0YjZqeFlLUkkzRU1Ydlc5SmViQlVGaS11c0hmYlJmUUxVRXVtT0V2aUZ2aWtoNDVrclVpTVYzdkdZQmotY3gxNWJHVFpLLWJNRmhyb2Q3UF9iTmpRSTZDOWFtMUEzR3dLdnM1aXljdFNiZ2hj0gHyAUFVX3lxTE9MUHU3MlZUTmxRbTRoSjJJOEJrOXBaX09BZ1hHWENsbXlsbE1FYjh4YUFCUXktVzFveDUxRWFNamtucXdSVHp0V3VfM05qQm1NRkc5YndIbU01OFZfSlQxLVI2eTVBUHVoWXY4Z3VNRWpobVBOcXJHREQ4STlGZkd6WXZpaWI4T1RTbHU2cVc0RmlWbHFXVmlNOFdESUJxaXRMZWVSZjJiZUZwTmZXWDJvd0lOM1VvMEs4T2M3ZW15NjJmZWV4SVJPS1FkS1ktYXBSemhsbjlHTUViaHdaMWJndVJmWkY1ZnFpVFZmaElGRnBn?oc=5
 
-- Quad Leaders Summit LIVE Updates: India To Host First Quad Business Forum Meet Next Year - NDTV
-  Quad Leaders Summit LIVE Updates: India To Host First Quad Business
+- Highlights: India To Host First Quad Business Forum Meet Next Year - NDTV
+  India To Host First Quad Business Forum Meet Next
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3JEb2JSNzBrZ0ZRYzRoOTdTQm9tZFpwZktnLWRscFZiZ3hmZ3djUFQ4NmZhWV9IeFRadjdJeHhhcGRPQkRYWW9Md1MtRVYxWmNzYVh5Z2lQamVMaGtSZ1NtbFN1THRhYjAwVEpxV3lRMzdDZmNWYWZxeG9oR1pLa2FGTUlCSFNnOFVSenJZVXdobnp6Y0VmeUJrcUVNYXBObVBNdXFjVFZfakJTNzFvc2c5MW1HTm54ZGhfQXBaaUsyVjlNcGVKNTFWTk8tWVYwZEZNdkJrYmNVNkkwbDdSOFJuc1ByT3PSAe8BQVVfeXFMT3pDd0d0YU51Rkk5a1pwaUlYeXdCQ1c1WE5WNkMwUmNEYkh3WXZLSWFiN1loWlhVazVoeW1rYWxYNGNDSTBBcHQxdUs3SVFXeHZpcHBoMW5zUHM4ZFF6M29PYzFBREdZRjlYN3R3bklMV1VMRy1fVWZUTjN4OFh4NUd0UDJ4cWtfS3JySElKM25YU2Z0M1hzMnJ3MzdXZUROVGljMjRtUUZkQUJ0Nzkya01jdVRabXRtTjdDS0QzMWZQVkpFd1g1Wk9TdHdSaTBiV1h6Wms5cWotbk5rT2pDNFBBQk90M29OaFppRzR6V3c?oc=5
 
-- India condemns attack on LPG tanker in Strait of Hormuz; 21 nationals rescued, 1 missin - News On AIR
-  India condemns attack on LPG tanker in Strait of Hormuz; 21
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOS29xTTNMbXFaOE5nMS1VRF96eFo2MWtSY1hKQmNEUTNkVnAxdFYtMlZETTBvMU9jQnM1ZnZIRktiNUNRbjNFeXNyZWM2STRlRzJKS1E3ZE1EVnNGTTZfSU5ldGNKLW40SkZLZ2RPRm1pb1k1RE52eGZsQlFOUGRycTJZZEhjNDNhdGl0TzNtZmVpMmdBcnNxQWdObGphR0lqa3JzRHpyN0xHRU5uN0N1RA?oc=5
+- From Manila, Quad signal to China: 'Peace by strength' - The Times of India
+  From Manila, Quad signal to China: 'Peace
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWZqZkw4TkNoWV9xcjRibnhKakVJMnNDREpUZDg5WklSSGo1MFdLaE9pWnpoTWx1RlptZVRjZFFHYXBLYVUxVWRYYjc0dmZQSGVxLURUOGhsNUZJRWJ4SnhzRld3TXdNMlV6M3hCMmdoaUNjYlhTQ3FzM2RmaXRfcTR6UFM5NDFTb0tqQ09WcEJuOWhsdDEzTXNzeWQ0bkNhZ1NSclZHcnpVdnBVREdpOWxpdHZ2R3ptcEHSAb8BQVVfeXFMT2hUZTJZdDB0NmduaWtCM25mQ2JpU3I2RGdlZGZaajkwUU9xZS1KS0JVN0tYZVhvYzR5OGZ6R3hWUFUxUkZDdkNucUZ2YTNXRzRzNjFvSGV3QmtyeFE4YnExaHdzdC1ROThHaDBMa24tVnhaWGdYWnJqRWREbWY5c0hOLXlkRGd3V1dGRnByOGNkUVFTLWhrajFlQ2EzZ2h5Y0NDTjdYVmNES3Eybk9GWHM1dldKVUFRQmx0UU1PWFk?oc=5
+
+- Yogi Adityanath Claims 1.27 Crore Hindu Voters Missing, Poll Officer Replies - NDTV
+  Yogi Adityanath claims 1.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGNEazhQUEp0ZTVTcmZub25US19ENDFJZGNDXzNZUEpsMVlVTFAtbnhEUklEMzR4T29INEdHdUlzd3ZKX05nbURHdHNwMUxyLWxya0JTSXlPbTBMbWZ1TkpkekpUdnR6S09La2cwVldZenZ6czNuYmNWcGk1WlhlbFU1U0VnMm5DdU5QX1FqQUFITE9GbFlYcTVhV2NjNmp4dS1YRzBHTDJhOU1TQXY2LUdUTERuRmVMSTQ0STFIWm9YYTZsY0VpazcxSmw2WUFMSm1iYzlqT3F1c25TQnpOQi1tbk9kako10gHwAUFVX3lxTE5hM1dpNjZrb3ZvYWRBRFdZQWtnM21CZHotZEVrUEhFbW1yeVJETFoyQklsNmxscnlUYkFuYk8wdEZIajFZWkhaT0RRZnpuOFNUYWtocC1rQVdEc1RGeUR3YUc5TE1aTWtaTmNzMTdZU2cwUTlYTm5NNjY2MzhPdDlXa3psU1ExcExra0xQUVlzVm13Sm42ZDR4Um56aDk3dktINGRUMUpkZnI5UGtZVGpOTm1uclBMTXdORkhDMEEyd1Y3T0hVOFpDeUVOeHdJSEdqTEhRRWxQSFhDU3JDNzVQbzJ6SUo5dG9fcm5zeURpYQ?oc=5
 
 - Landeed, Fractal Analytics: The AI start-ups fixing India's broken roads and messy land records - BBC
   The BBC has teamed up with Fractal Analytics to create a
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4Q09PeWc3VGhmdmZJQnY2VkgwOGtwM3lzclJERzk2bmJOM3lBSEU5YmVhQzkteElMR2dlem1UcWxHS2ZGSWYxTXQ1bnp2OFFldkt4MGdtck9lRDQ?oc=5
 
-- 'Must be taught how to behave': Vengsarkar criticises India players' conduct against Pakistan after U19 A - The Times of India
-  'Must be taught how to behave': Vengsarkar criticises India players
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxOWWc0MklqSUtwc3BKbjUxYUZwVmtPaVhSLWpiaGpxMDRIVDVldVdGSldnbFpycGRoSGhDcGFVY3VuM2MwOGJhUVA3ZnpIQWFaZUp2UWxLRW9ha3RoWmlobDRLYUszOEJFMTJySWlIM19JSldIS3UyVV94M2pMSHltWWlMcEQwX21lX09ScHM5dHAybWIwX1pkOFAzNlBYT1NHR1hweHAwMGkwaU5ESjk1TlhKbC1iWjdvVWlZc1RWc0ZFdkFhUFVlZjRXSU4xOGNzX1FjVTFUamo1QzE4amtsNHdjcjFmZ2tqOVJwZ3FxNVQ3RV9ETFQ1aUMyeUtsTXZnLXB3RGJoeHBYQUJSSHRaZzZzZjVIckJ4M1d1bHI3VdIBpAJBVV95cUxNeFhpTHNsSHBEajdNX3Z6WkZub1ZkTU1ReHAzNG9jTEdQQ3pILUxETjJjR0piS25CMlpuSEZUenFVTU9mMEh1UjVCc3ZVVmxPeUVTYktSa3VGZmZyYkNxMHZLNUUyNkZicUxvUDVNWXlWMFBWUEloZ3dLdFptY011a3ptZHdfbkVZT1ppUHlCam5xR1VDTjctLWo4blItR2tpOWRvLVRGYU1kdk1CcWFjckFfLWxhaEt6OW5XSkdxSHlfTkRJSjNQcERhdFQwU2NnR0lCbDI1bDRLMUVhNGJQNlNHRlhWUTVRTGRWczFzSHVQSnlzbTF3TUhqLVpkYUcwWFk3LUdWd1RnN2V5c3hqRDBQaG04cnBXcVpac0U2M3ROZS1I?oc=5
-
 - 6 Technology Trends That Will Transform The World In The Next Decade - Forbes
   6 Technology Trends That Will Transform The World In The
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjZRZ195ekFJSV9HQ2lrUl9aaDJaUUhYaHFfcDFFRE9TblNRNFFsZ183UWNjNHBtRkxDaUh6RENRQUdQd2k5V01rRExTLTR6Mm9rVDFiX1dPMDRrSW9NZ1dib2lOdXBVTHBQS1R2UHFCeW5yRElySk9nWDJWSjh1OVpzRUxNczl5S0FGNmdpTFVDTjlkaWVNQmRsWDlhMWdOOXBMcmNuRHFoQ21UZjVBVFo4X3VUNldsc1NXTmJR?oc=5
 
-- NIELIT Hyderabad trains over 200 students in quantum technology - ET Education
-  NIELIT Hyderabad trains over 200
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQX3czTzVleVdjUEVzSnRPUkFNUG9pa0JwNS1UdGctZ0FpTjUzZWxRaHppNDBvQ3RzN1pjRHhDeHI0VjNwOUVpNDdrM0dRZk1zbGVkQ3k0UkpVS2phcTRjYkdHYjRyT3A0MjZGckE3bmZQTlFUNE1yZzhtU1ZyaWtlb3VDdnhrRnB3anNxRHJZc3M2TTdJMi1qSEMwNEhtTURCeW9tbzFGOEdCZ2htR3ZGNjJmamJxZnh3NkxMTFhCd2ZjZGNkcGFmMzdLa3VuMTcybVBPZU40N19SM3Y0LWxhMF9lRDBpTHhmTnR1YlBEZkpxeGZ1XzdQdVAzZXI3Wkxpalo4aXVjeC1oOTDSAdMBQVVfeXFMTzFXM3Exa2J4S2FzUXJWTXcycGFFTjVjUV95V0FIRDBYQWJ5ZElQZ3Yzc3JNOHljU01tR2NRellEd2o2NDQtajFyZFpTUW51YkNpX09MM0YyYlpNNmhlN19QSlhqczk4S2MybFhTRTB0SHU2dzRjSWV3am9rWHZFQUFuUmRaLVRMVTV4aU0zQ3MzVkxvT0lSUWFHRzhZRDZUVFRKanBRT2lPVmNCdVBBUWstbWFrdHdPei05d3hha0RxSGxDeVYzT3NSblRvc1lGam9wdw?oc=5
+- Oracle CEO Mike Sicilia admits technology companies messaging on datacenters is wrong; says for communiti - The Times of India
+  Oracle CEO Mike Sicilia admits technology companies messaging on datacenters is wrong.
+  🔗 https://news.google.com/rss/articles/CBMixwJBVV95cUxPa2NYMWV1RjZYRlR6bF9nZnJyb09NUnBsZzBfVkJmczdQLXV6LU1SUlF4WFVMYjJ5SHVCM3ZZNVBMSEs4NUFWTDNwMTZLOE9IblFDRXQtQi1TNTN3NVhURVV3MTVxcmFCbVJfU2J3c2QtZFM2NTJyVlprWFMwWUZYRGY4dGNpa3JnVEdpN0huS0lRVFFrT2JyR0hTRWpJMXVSdEZwLU1KWTBsMFUwaElWLUJGSEJsTGVYTHJZOU9vTWJTRU1mLVMtVm5md3FsN05pZGFnVkFCdHRyNWtKM2tNWktBY1FWRzR2MXU1aExHNkpDazJxZjlLRi1kU05JOXA4SnJaMEhaa2NEUGVmaDl1ZjA3bTVXSEU1MXVBcXg3ejNKeFFWV3Vpa0tzUVhUb1dpUUNlRElGNTdaUHhQdHFfWWdHcFNiclXSAcwCQVVfeXFMT2dCX3pUdkstQzc5Vk9BRllQYmZORDF6UWQ3Rm05eTlwbVlfSVA0RnlIZ3pvTHdaY09SVHdyLTdvdUs4U01xMHY1NkVIWmczdm5RaE5MV29MUXFOaWNtM3pQaDBWaTJuUGNiSmJIZTJXNzlvQkQ1OEJvdXhfaXIwU205bnZNUWVXYjFueWtQWEVxcWJlRk9Md045OWhMTjdNSF8xTDJ3cFRUSVV5bjVaRlIwYUhyRjBfWk9zR1UwWDdhZGJLcEUxSHV1MDRXNkp3T2x2bl9xVkRrZ1QzdEMwSW9XbmwtdjRyd25GR2xNRDNzeGZqYWdBUTYxTnUtY1htRExIWF9LakY0Y0RUWjRUcm1hRVZ2Z2RoUHhIQ200OXVhWmoybnlDeHdrR1FCSXp0VDY1cEhXY3hlS0dhSkh3NWFQSTNCVER5OENuWU0?oc=5
 
-- Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks - Reuters
-  The Fed's Warsh says emerging technologies to have '
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5
+- Best books of 2026: Environment, Science and Technology - Financial Times
+  Best books of 2026: Environment
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPNG1CelBsQjdtRVZBc0ozNGJRQm8wd09ISUtZR2hSYW1zV05NVXNDYnBDaHF5RDJtZUp2WVlJOFpDOUZYbVZQZGpoSEJaMUIyMFpMRjZCaGtfWkJnRnZfQTFiVjlfZkJRaUcwbmlWalNjUnAzSi1vZDRweFk5RXVLbXRGUkc?oc=5
 
-- Trump administration moves to block China from indirect access to American AI technology - AP News
-  Trump administration moves to block China from indirect access to American AI
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5
+- Bunnings to slash 350 jobs as retailer moves technology roles to India and Philippines - Nine.com.au
+  Bunnings to slash 350 jobs as retailer moves technology roles
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkZGS09HVW13d0lYZ0xDS0lPR2pNUURlNUFfVDlWSENxMm1pTVk5M1pDR3ZDMGZ2YndmSENvTmJZVnJIVVRIX3FmTmpCX3ppaUFnNlhZenhJVDREbzBCODNwTW5SdnVRSkZPT3NQbEloalc1emRBSUItbV9xWTJCdXhoUFFNbVE?oc=5
 
-- Happiest Health Launches Happiest Health Digital Business Announces Roadmap of 11 Applications Commits Rs. 500 Crore to Technology Investment - TheWire.in
-  Happiest Health Digital Business Announces Roadmap of 11 Applications Commits Rs.
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNd0JnMXFNQ3VqS1ZTTHpDb29FWnlDU0tURTM5NlpJT3ZJNzU1ZUtaTGhYa1M0cDhneWJCalh4LWcxM1dwWGxZZ29mdVpuNVRoSDNjSkJQdDhVaXRKSUZaTXNhWi1Fa0F1amJ0NnYtbEZ6cEhCSGVIcXNhUlNScXVueHBNZ0ZrSmpkaFBKZHZXV2VfVDROeU1fX1pWTm1pT2ZHMWRyWVgyZ0tNOU5KOWhjUDNadEp4MFlLMFVSYjVZSU1wM1lQMnJzODkzMzA4d2VrdzVmU2pHbG1mckdQR3NUVFdocHVIeUdrNW1KN2dEUHhyMTlIRHVwNGpkaGJOUEcwYnRselBfVlRvdXfSAZACQVVfeXFMTmVwRzJkdmFNV29fOE10ZHFxbGFtLXlxeUZiSzRsRnU5MHN3YVVSeWd3QXpNUjBoZm96NXYyV2Q4c3ZoSkNfeTlPMW5oa3VCY3lSVGN1Ulp1X3hvMEUxZHY5aGtiUnMwQ0xvVi1NV25PU1Jvc0wxUVhpWFBlXzg3VFNWaFc5eUJsXzV5MnF6bXJGUHAxcXpYd3AxSERJUmJNWnhHTU00bDNmMW14d3k3OXlUWmx5TWl6cGMwSXFoZTZ5NFU1UjhUQ0RPcDU1by1fRjZwLVd2LThpeDdXZ1ZfVERFUmdOckZ1YVNJN05qWEJnVldHTGZ0WlRFdHpGemU2b2V4SFM3bGhwQ0RDclhiNm8?oc=5
+- US Army seeks faster access to emerging defense technology - Voice of America English News
+  US Army seeks faster access to emerging defense technology.
+  🔗 https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CWEd0anQweHJERXpyMnVfQjY3TmhWYjdjYVVEYldUQ0lLbWVCRnprZXhoT0VNdmtfX29GeWxCM2t5d25jRVpZTDVHZVNhZTDSAVJBVV95cUxNVUVMV3JORGlLSGQwQ0Y0Y28xOVM4bDVOWEFmcVFhY0VkelJvZ1Zkb3h3Q3BJcktwV1J0eTFEZnVtTmNySk1PbGFfaXFVMHJ6U0ln?oc=5
 
-- Gurugram-based Graviton trading firm puts two founders in billionaire club as Singapore unit profits soar 166%
-  Graviton was valued at $1.46 billion based on the financial statements of its Indian parent and Singapore
-  🔗 https://www.livemint.com/companies/news/gurugrambased-graviton-trading-firm-puts-two-founders-in-billionaire-club-as-singapore-unit-profits-soar-166-11794923547889.html
+- Apple joins a parade of technology hiccups in recent days
+  Apple joins a parade of
+  🔗 https://www.livemint.com/companies/apple-joins-a-parade-of-technology-hiccups-in-recent-days-11794945149704.html
 
-- Fairfax to put entire 13.25% stake in IIFL Finance on the block after IDBI acquisition
-  FIH Mauritius Investments Ltd, an affiliate of Fairfax India Holdings Corp, is offering up to 56.53 million shares of the shadow lender. The deal could fetch
-  🔗 https://www.livemint.com/companies/fairfax-puts-entire-370-mn-iifl-finance-stake-on-the-block-after-idbi-acquisition-11794920000664.html
+- Deutsche Bank leaks test CEO Sewings pledge to reform
+  Deutsche Bank leaks test CEO Sew
+  🔗 https://www.livemint.com/companies/deutsche-bank-leaks-test-ceo-sewings-pledge-to-reform-11794941652088.html
 
-- Who is Aman Gupta? Shark Tank India judge joins Ranveer Singh to launch men’s grooming brand HIM
-  Ranveer Singh has launched HIM, a men's grooming brand. Aman Gupta, best known as the co-founder of boAt and a judge on Shark Tank India,
-  🔗 https://www.livemint.com/companies/people/who-is-aman-gupta-shark-tank-india-judge-joins-ranveer-singh-to-launch-men-s-grooming-brand-him-11794919086129.html
+- OpenAI Unveils New Astra AI Model After Scrapping Prior Release
+  OpenAI is releasing a new version of its most advanced Astra artificial intelligence model. The company scrapped a prior update to establish stronger
+  🔗 https://www.livemint.com/companies/openai-unveils-new-astra-ai-model-after-scrapping-prior-release-11794940474665.html
 
-- New Zealand's new six-month graduate work visa: Who qualifies and how to apply? Key eligibility rules explained
-  The new visa creates an additional employment option for international graduates who do not qualify for New Zealand's existing Post-Study Work Visa. It gives them a limited
-  🔗 https://www.livemint.com/companies/news/new-zealands-new-six-month-graduate-work-visa-who-qualifies-and-how-to-apply-key-eligibility-rules-explained-11794921014885.html
+- Nvidia hires Heidrick &amp; Struggles to find next CEO after Jensen Huang's exit
+  Nvidia appoints executive search firm Heidrick &amp;amp; Struggles to lead its CEO hunt after
+  🔗 https://www.livemint.com/companies/news/nvidia-hires-heidrick-struggles-to-find-next-ceo-after-jensen-huangs-exit-11794938861014.html
 
-- Tata trustees had unanimously agreed to begin the hunt for Chandrasekaran’s successor in August, Khambata reveals
-  Former Tata Trusts trustee Darius Khambata says every trustee, including his critics Venu Srinivasan and Vijay Singh, agreed on 13 August to look for Chandrasekaran�
-  🔗 https://www.livemint.com/companies/news/tata-trustees-had-unanimously-agreed-to-begin-the-hunt-for-chandrasekaran-s-successor-in-august-khambata-reveals-11794917487383.html
+- ₹300 crore investment: T-Series and Hungama launch FastTV to bring micro-drama in India - Deal details
+  T-Series and Hungama's FastTV is now available on Apple App Store, Google Play Store and web
+  🔗 https://www.livemint.com/companies/rs-300-crore-investment-t-series-and-hungama-launch-fasttv-to-bring-micro-drama-in-india-deal-details-11794936271229.html
 
-- AI boom euphoria fades: Fund managers slash tech exposure at fastest pace since 2006, BofA survey shows
-  The share of fund managers overweight technology fell to its lowest level since 2006. Many expect AI companies to curb spending. Tech stocks have slumped, but recession fears remain low.
-  🔗 https://www.livemint.com/market/stock-market-news/ai-boom-euphoria-fades-fund-managers-slash-tech-exposure-at-fastest-pace-since-2006-bofa-survey-shows-11794926133056.html
+- Emerging-Market Currencies Halt Three-Day Slump, Stocks Slide
+   developing stocks retreated for a fourth straight session with Nvidia Corp.’s earnings in focus. Emerging
+  🔗 https://www.livemint.com/market/emergingmarket-currencies-halt-three-day-slump-stocks-slide-11794955884837.html
 
-- Sebi aligns margin requirements for agri, non-agri commodity derivatives
-  The regulator has aligned margins for agricultural and non-ag
-  🔗 https://www.livemint.com/market/commodities/sebi-aligns-margin-requirements-for-agri-non-agri-commodity-derivatives-11794920785221.html
+- JPMorgan Warns Leveraged-Loan Defaults Set to Double in 2027
+  Defaults in the leveraged-loan market are expected to more than double to 4.5% next year, reaching levels not seen since 2024.
+  🔗 https://www.livemint.com/market/jpmorgan-warns-leveraged-loan-defaults-set-to-double-in-2027-11794949833068.html
 
-- Urban Company's  ₹2,500-crore QIP oversubscribed 6 times, attracts  ₹15,300 crore in bids: Report
-  The fundraising comes amid intensifying competition in home services. Urban Company's  ₹2,500-crore QIP
-  🔗 https://www.livemint.com/market/stock-market-news/urban-companys-rs-2-500-crore-qip-oversubscribed-6-times-attracts-rs-15-300-crore-in-bids-report-11794923606837.html
+- Treasuries’ Big Short Sets Up ‘Pain Trade’ as Haven Bid Ramps Up
+  Bond traders risk facing a short squeeze after reloading bearish positions. renewed jitters around artificial intelligence and a
+  🔗 https://www.livemint.com/market/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up-11794949277259.html
 
-- After IDBI Bank stake buy, now Fairfax set to sell 13.25% stake in IIFL Finance via  ₹3,454-crore block deal: Report
-   Fairfax Financial plans to sell 13.25% stake in IIFL Finance through a block deal. The sale could help fund Fairfax’s proposed $5.56 billion acquisition of a 60% stake
-  🔗 https://www.livemint.com/market/stock-market-news/fairfax-likely-to-sell-13-25-stake-in-iifl-finance-via-rs-3-454-crore-block-deal-report-11794919349807.html
+- Maryland’s $81 Billion Pension Is Slashing Hedge Funds to Zero
+  Maryland’s state pension system is eliminating its $4 billion hedge fund portfolio after years of lackluster
+  🔗 https://www.livemint.com/market/marylands-81-billion-pension-is-slashing-hedge-funds-to-zero-11794949210087.html
 
-- Nifty 50 hits 9-month high, crosses 25,500: Can the rally extend towards 25,800? Here's what analysts say
-  The Nifty 50 rose 0.38% to a nine-month high on Tuesday. The index briefly crossed 25,500, as banking and realty shares gained. Analysts see further
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-hits-9-month-high-crosses-25-500-can-the-rally-extend-towards-25-800-heres-what-analysts-say-11794916441623.html
+- US yields ease as equities drop before Nvidia results
+  TREASURIES-
+  🔗 https://www.livemint.com/market/us-yields-ease-as-equities-drop-before-nvidia-results-11794948835861.html
+
+- Trump faces criticism as allies press the White House for answers on tech problems
+  Trump faces criticism as allies press the White House
+  🔗 https://www.livemint.com/technology/trump-faces-criticism-as-allies-press-the-white-house-for-answers-on-tech-problems-11794953754719.html
+
+- Apple outage hits thousands in US: iCloud, App Store, Apple Pay and Apple Music users report issues
+  Thousands of Apple users in the US reported problems with iCloud, App Store, Apple Pay and Apple Music on November 17.
+  🔗 https://www.livemint.com/technology/apple-outage-hits-thousands-in-us-icloud-app-store-apple-pay-and-apple-music-users-report-issues-11794939399803.html
+
+- eMudhra fixes emBridge security flaw after CERT-In warns of file-system metadata exposure
+  CERT-In flagged a low-severity vulnerability in eMudhra’s emBridge utility affecting certain computer OS versions. An unauthenticated attacker on the same network
+  🔗 https://www.livemint.com/technology/emudhra-fixes-embridge-security-flaw-after-cert-in-warns-of-file-system-metadata-exposure-11794937852269.html
 
 - What is iQOO 15's 4th-gen silicon anode battery technology and how does it promise longer gaming and streaming hours?
   The iQOO 15 uses fourth-generation silicon anode technology in its 7,000mAh battery. The company claims it can deliver up to 10.
@@ -88,37 +100,29 @@
   Assassin's Creed Shadows is priced differently across PC, PlayStation and Xbox in India. Its Premium Edition costs up to  ₹8,399.
   🔗 https://www.livemint.com/technology/how-do-pc-playstation-and-xbox-prices-compare-assassin-s-creed-shadows-costs-up-to-8-399-in-india-11794913032762.html
 
-- GTA 6 hacker Arion Kurtaj, who breached Rockstar with Amazon Fire Stick, pleads guilty: What happens next?
-  Arion Kurtaj, the hacker behind the 2022 Rockstar Games breach that leaked 90 clips of unfinished GTA 6 gameplay, has pleaded guilty
-  🔗 https://www.livemint.com/technology/tech-news/gta-6-hacker-arion-kurtaj-who-breached-rockstar-with-amazon-fire-stick-pleads-guilty-what-happens-next-11794913208662.html
-
-- AI advances coincide with sharp rise in cyber incidents, Marsh data shows
-  AI advances coincide with sharp rise in cyber
-  🔗 https://www.livemint.com/technology/ai-advances-coincide-with-sharp-rise-in-cyber-incidents-marsh-data-shows-11794911125030.html
-
-- Cyberattack hits 178 websites including CNN, BBC, Fox News and Zoom; iPhone users also targeted
-  A cyberattack exploited Optimizely to deliver malicious JavaScript across 178 websites. The malware targeted cryptocurrency wallets, payment card details and browser data. It also deployed iOS exploits to compromise vulnerable
-  🔗 https://www.livemint.com/technology/tech-news/cyberattack-hits-178-websites-including-cnn-bbc-fox-news-and-zoom-iphone-users-also-targeted-11794907274632.html
-
-- Tech Stocks Lose Further Ground Ahead of Nvidia: Markets Wrap - Bloomberg.com
-  Tech Stocks Lose Further Ground Ahead of
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHFoREFNUWJRYTJxR0pTRnpHM2Q1NlhjQ1pjN0w3U1FWM09sclNuMlVNLWx4YXF0TURpOEdtSk9sc3BXTEpBakhLd21neWhod2pvZ1hRNVAtZWxNTlZmUXl4TXNJQ0MyTTFqa0tpRGVmOVpQZlRidlZzYkFLYnlNSXduLUtPSXo3QUJ0aVhlM0xWVFNh?oc=5
+- Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap - Bloomberg.com
+  Asian Stocks to Fall, Nvidia Sales
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5
 
 - Stock markets rally second day on foreign fund inflows, moderate crude oil prices - The Hindu
   Stock markets rally second day on foreign fund inflows, moderate
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYlVPeVVNNHotcnh1RVNhZGoxWnotUVRqSEV0OVhWWFQtZU05cFJKS21oRnJHRXlNVThzQXdSMUx3QnZsMzhTaGNEcmctLV8tZzF0eFoxMDZ5azNNdXlyU0wxNGs3R213UG1BbGl3WFFlQ0ZicW9xU09rT1JSaWlCUDhnLUNlY1BZUWVoa1ZJNk0tSjNmTGhYeWtnNFFuRnVuWExHQ3hJOXNhSVFvcldiSGdTTmg0S2tRQ1AxMzhfblpkWWZOYjJXby1tRjJkU3FjVmgyUU9aSlYtd9IB4AFBVV95cUxQbGVzOVJNYlYxbENVYi1TZ09iY0lZLVFscjRsOTFxQnVwaS1vNUI4WG01dW16alZFN0U4aXJnOTlIQVVNUk54UExyNFFzNmJNVkFGWElRMVZPQXVBZHAtSFpsWS1WcEZiLTZscC1xN3p4TFNidVBnMWpZVHpISWFoY0p6cFpWc2Q2UHoxMk9EUG9BdGFCcDVvRnRYcC1DbmVEcjhTOC12ZlRfTGZFdzV4QVU1ZHJZRXdmTi1qUFN2eDZPdHB3ZVVyRmlXRmtDbHFqeHFaVEdSNHZMSDVGUUpfOQ?oc=5
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYlVPeVVNNHotcnh1RVNhZGoxWnotUVRqSEV0OVhWWFQtZU05cFJKS21oRnJHRXlNVThzQXdSMUx3QnZsMzhTaGNEcmctLV8tZzF0eFoxMDZ5azNNdXlyU0wxNGs3R213UG1BbGl3WFFlQ0ZicW9xU09rT1JSaWlCUDhnLUNlY1BZUWVoa1ZJNk0tSjNmTGhYeWtnNFFuRnVuWExHQ3hJOXNhSVFvcldiSGdTTmg0S2tRQ1AxMzhfblpkWWZOYjJXby1tRjJkU3FjVmgyUU9aSlYtdw?oc=5
+
+- Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows - BusinessLine
+  Stock Market Highlights, Nov 17: Sensex, Nifty close at
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVZabWpya243cEtndWEyQnc1TXhYYUhUVUZvRXA5cTcwU1ZtenJqVHhLajNxLWNLLWRVRXE2LWZrRGpCN3duOVNJY1RhSGZYT3c1aWFaalVMcVg2X1M1alNCN0M2VUl0dnV2MmJBZDBoZE5OZDVhY2FRaFZWdm85SFFNT1Zld1YxZk16YjJrV1JvbGhPMHFsekJ1RXZfendZZlF3Vm5rZUNYS2xBTTdzQ1VFRThTQWdvc29Jamd5aUIwbXMtTU1mVlVR0gHQAUFVX3lxTE5UQlZRUzBfYjliTF9iQnBHaXctU1luaEs5cWIyaUxhUWVPTGwtenN1c3BPelpUWGh1UTdFR2toOGNEOEozSVZRSnFsRDNVWS1YaVFYeGFnLTBwSXE4MlF1VkF4bzdHN0d5UmhxRVV5SkpDN2l6cHdjd3hiN0NwQzg1WlRIdGV6TXFwanQ1UV9taTlOU3FFRjVESW1fVldUbXlqMkFGQlRBSk1ac0lNQVBLN2hFZmFFS2h2RVl3dlVybXBfSXpaYVNReUFzODJUQ1k?oc=5
 
 - Stock Market Close: Sensex ends 427 pts up as rally extends to 2nd day, Nifty at 25,387; banks shine - Business Standard
   Stock Market Close: Sensex ends 427 pts up as rally extends to 2nd day.
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM0NPdUN2UkJhZHVjQ0l6OU1mMWNSbTNQT1d1YkZfQ2J5bDJpb3dKX0RBSXVTN2xmQm9tMUFPeVBUYmQwdGgtN2pTZlQxWDRST3pMMmdnTldRTFg3SHpzVDY0SHNMZUtwSWd6TF9pTVFhQThBSm9OVlNmY0RuWENyWUlxTjRnUFZ0RHRrdjJwc0U2NmVWbTBfTS1oZEtsaE8zcVFZSXhlQ0dEU3ZRaXoybG8yRVBUaENBMnYtVXRDbEpiYXNBNHFOQlRQRjVwOElLcU5obndFd3FhX1FnLWxCeU5XYmZ4YXNaTzFxX3dZOHZVVWdUTlF1QkFXdW9hZ9IBgwJBVV95cUxPWHktYVptWG0tQy1BVVZ0YXFJTkxYblVQWXZ5VWw4cWZVb1V5dGRiYnEtWnhLZTB0V2JINThiRXpPT2RpZnZWRG1GSmVoa19hVnlpWE1XSEFsTGdGQ3BDNWlHVW1YUWNtNmNWMHhxOENoMnhGUWh2ZnV6c0RKSnRpb3NhdmpFUW5kUGJwQld3SlZnZzhFb1dmd1hJQkMzc2M5aTlHUnIwSTd4ZGFXV2tIRkJiT3dHWEotN2p6R0IzZWp2WTNaTEg0NXJKeXZUWlM0QVNncC1mTEpwakw2cFRTMml6X0FTZzdVTHVDbFJmVVRmRWtWeXhsQ0JNZEN5Rkw0OFBR?oc=5
 
-- Stock markets rally for 2nd day on foreign fund inflows, moderate crude oil prices - ThePrint
-  Stock markets rally for 2nd day on foreign fund inflows
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXBRZkRHT0VidzEySGtfSzZOaWhweXc4Q25ZUmRjQ3J1bjJNQmNHSXZ6cTZIUVJOUWVCWWstTEloZ0VlQWw4bDMta2FqcGFnMHl3djVLemFFVjhrMGJCd19rYWN1OUxvNmp4cnhfNm5xZm5UTmpxXzlsY20zS0tOYUpUVFhmNWFabVdudktOYnFyRU5LLWhyNFN4dHB4NDNvQWhwcmZsWm1rV2ZuNTdpUEFaZWhQUHdWWXfSAb8BQVVfeXFMTXFyaWQ2bU9tNHJJRS01TkYxS1c1dWtpQVh5VGdFOVBUN21GdGFhX3dvUmIzYWdneDlNTWpPZDZfdHRHdEdOVHBRSldjSWR4OURWYXZPWmpPbXBmc0xZVldHYWFzV1Y5alNKbVR3YUp2SHJKWVZZUmxtSWVqWUtWV3B3QndRYTg0MTBmUVJkTmMyRlpoVU1QaUhMaHZTeWxmdHM5TVBsYzBpSHNqMjdFWm9iVjdPLW1WY0I2cTRtd0k?oc=5
+- Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened - The Guardian
+  Jensen Huang says he’d be ‘honoured’ to return as CEO
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT21wTnh1YVRsdExJNWJRNVRwUHA5WVZHV1BaQ3N0b1YzTkd1c1MtUWU3VTdmTTN1U0VLMzlCRjRwSmZVbl93cFpTVWpCMFdmaGtJUDFkamVXekJ3MHkxbGRTaW5WTGI2ck1WeVVBR1J5RFFNem9heUloVktXeXFPQ2c1M0l5WGc5SWQ2WjhzNjRlNWxlR3BjTDZZR3R3NnhjY1RaU0FWR3dEZ3M3MU5naDl0ZE9LRkhjaDZmWkZ3OEhIM2FZZVowXzNlRzZxSVNsZVBleGdJZEJ4RDdXSWc?oc=5
 
-- The Pre-Market Rundown 2: November 17, 2026 - CNBC
-  The Pre-Market R
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3VuZm9ZZzA5X3JSc2ZlMVRiaUMwSktPQ0tleVh3cHhGamhoUDBzZjZhWmU3Xy1ycjZkbW94d3o5aUdoRUQ0Q1BuMHhmOThXYlRlSXN0TkNER2hFSlFrcTN1V2c0Q0hyRlBrenozeTdZajYwM2s2bndDczNOMlo1RmpuMHJjS3kyYkZFVQ?oc=5
+- Nvidia earnings beat estimates; attention turns to call
+  Nvidia shares rose after the company unveiled solid quarterly results and projections for next quarter. It was the first major event since the
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-earnings-beat-estimates-attention-turns-to-call/articleshow/135944112.cms
 
 - Nike targets $5 billion more in revenue growth by 2031 in latest turnaround push
   Nike has announced a bold new initiative designed to generate an additional $5 billion in revenue growth by fiscal 2031. According to CEO Elliott Hill, prioritizing performance sports will play a pivotal role.
@@ -136,117 +140,105 @@
   BP is poised to execute a bond buyback strategy worth $6 billion. The bonds slated for repurchase are due from 2027 to 2034, primarily after 2030.
   🔗 https://economictimes.indiatimes.com/markets/bonds/bp-launches-offer-to-buy-back-up-to-6-billion-of-bonds/articleshow/135929675.cms
 
-- K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region
-  K Raheja Corp has partnered with landowners to develop a large township in the Mumbai Metropolitan Region. This joint development agreement covers a substantial 165-acre land parcel located at Panvel.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/k-raheja-corp-inks-joint-development-agreement-for-165-acre-township-in-mumbai-region/articleshow/135929507.cms
-
-- ASEAN Summit LIVE updates: Quad announces new maritime exercise, unveils major initiatives on AI, cyber security - The Hindu
-  The ASEAN Summit is being held in Doha, Qatar, from
+- ASEAN, Quad Summit updates on November 17, 2026 - The Hindu
+  The Hindu reports that ASEAN
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUI0eEc4ZGlHdHRTeG4yQUJzTTNFdmZWTWlIb1NVZmg0ZlMyQkJwaVFISm42NUw2YzZzNHhFLTVRZHBpU0hhUWtiZ3pJQ2NYTzRfTmNhWEM5SFVWcUhraUVZMGMyeGdaUklBT0NvQVhmb2pqSVdEdk1IcGgzMzJ0YjZqeFlLUkkzRU1Ydlc5SmViQlVGaS11c0hmYlJmUUxVRXVtT0V2aUZ2aWtoNDVrclVpTVYzdkdZQmotY3gxNWJHVFpLLWJNRmhyb2Q3UF9iTmpRSTZDOWFtMUEzR3dLdnM1aXljdFNiZ2hj0gHyAUFVX3lxTE9MUHU3MlZUTmxRbTRoSjJJOEJrOXBaX09BZ1hHWENsbXlsbE1FYjh4YUFCUXktVzFveDUxRWFNamtucXdSVHp0V3VfM05qQm1NRkc5YndIbU01OFZfSlQxLVI2eTVBUHVoWXY4Z3VNRWpobVBOcXJHREQ4STlGZkd6WXZpaWI4T1RTbHU2cVc0RmlWbHFXVmlNOFdESUJxaXRMZWVSZjJiZUZwTmZXWDJvd0lOM1VvMEs4T2M3ZW15NjJmZWV4SVJPS1FkS1ktYXBSemhsbjlHTUViaHdaMWJndVJmWkY1ZnFpVFZmaElGRnBn?oc=5
 
-- Quad Leaders Summit LIVE Updates: India To Host First Quad Business Forum Meet Next Year - NDTV
-  Quad Leaders Summit LIVE Updates: India To Host First Quad Business
+- Highlights: India To Host First Quad Business Forum Meet Next Year - NDTV
+  India To Host First Quad Business Forum Meet Next
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3JEb2JSNzBrZ0ZRYzRoOTdTQm9tZFpwZktnLWRscFZiZ3hmZ3djUFQ4NmZhWV9IeFRadjdJeHhhcGRPQkRYWW9Md1MtRVYxWmNzYVh5Z2lQamVMaGtSZ1NtbFN1THRhYjAwVEpxV3lRMzdDZmNWYWZxeG9oR1pLa2FGTUlCSFNnOFVSenJZVXdobnp6Y0VmeUJrcUVNYXBObVBNdXFjVFZfakJTNzFvc2c5MW1HTm54ZGhfQXBaaUsyVjlNcGVKNTFWTk8tWVYwZEZNdkJrYmNVNkkwbDdSOFJuc1ByT3PSAe8BQVVfeXFMT3pDd0d0YU51Rkk5a1pwaUlYeXdCQ1c1WE5WNkMwUmNEYkh3WXZLSWFiN1loWlhVazVoeW1rYWxYNGNDSTBBcHQxdUs3SVFXeHZpcHBoMW5zUHM4ZFF6M29PYzFBREdZRjlYN3R3bklMV1VMRy1fVWZUTjN4OFh4NUd0UDJ4cWtfS3JySElKM25YU2Z0M1hzMnJ3MzdXZUROVGljMjRtUUZkQUJ0Nzkya01jdVRabXRtTjdDS0QzMWZQVkpFd1g1Wk9TdHdSaTBiV1h6Wms5cWotbk5rT2pDNFBBQk90M29OaFppRzR6V3c?oc=5
 
-- India condemns attack on LPG tanker in Strait of Hormuz; 21 nationals rescued, 1 missin - News On AIR
-  India condemns attack on LPG tanker in Strait of Hormuz; 21
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOS29xTTNMbXFaOE5nMS1VRF96eFo2MWtSY1hKQmNEUTNkVnAxdFYtMlZETTBvMU9jQnM1ZnZIRktiNUNRbjNFeXNyZWM2STRlRzJKS1E3ZE1EVnNGTTZfSU5ldGNKLW40SkZLZ2RPRm1pb1k1RE52eGZsQlFOUGRycTJZZEhjNDNhdGl0TzNtZmVpMmdBcnNxQWdObGphR0lqa3JzRHpyN0xHRU5uN0N1RA?oc=5
+- From Manila, Quad signal to China: 'Peace by strength' - The Times of India
+  From Manila, Quad signal to China: 'Peace
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWZqZkw4TkNoWV9xcjRibnhKakVJMnNDREpUZDg5WklSSGo1MFdLaE9pWnpoTWx1RlptZVRjZFFHYXBLYVUxVWRYYjc0dmZQSGVxLURUOGhsNUZJRWJ4SnhzRld3TXdNMlV6M3hCMmdoaUNjYlhTQ3FzM2RmaXRfcTR6UFM5NDFTb0tqQ09WcEJuOWhsdDEzTXNzeWQ0bkNhZ1NSclZHcnpVdnBVREdpOWxpdHZ2R3ptcEHSAb8BQVVfeXFMT2hUZTJZdDB0NmduaWtCM25mQ2JpU3I2RGdlZGZaajkwUU9xZS1KS0JVN0tYZVhvYzR5OGZ6R3hWUFUxUkZDdkNucUZ2YTNXRzRzNjFvSGV3QmtyeFE4YnExaHdzdC1ROThHaDBMa24tVnhaWGdYWnJqRWREbWY5c0hOLXlkRGd3V1dGRnByOGNkUVFTLWhrajFlQ2EzZ2h5Y0NDTjdYVmNES3Eybk9GWHM1dldKVUFRQmx0UU1PWFk?oc=5
+
+- Yogi Adityanath Claims 1.27 Crore Hindu Voters Missing, Poll Officer Replies - NDTV
+  Yogi Adityanath claims 1.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGNEazhQUEp0ZTVTcmZub25US19ENDFJZGNDXzNZUEpsMVlVTFAtbnhEUklEMzR4T29INEdHdUlzd3ZKX05nbURHdHNwMUxyLWxya0JTSXlPbTBMbWZ1TkpkekpUdnR6S09La2cwVldZenZ6czNuYmNWcGk1WlhlbFU1U0VnMm5DdU5QX1FqQUFITE9GbFlYcTVhV2NjNmp4dS1YRzBHTDJhOU1TQXY2LUdUTERuRmVMSTQ0STFIWm9YYTZsY0VpazcxSmw2WUFMSm1iYzlqT3F1c25TQnpOQi1tbk9kako10gHwAUFVX3lxTE5hM1dpNjZrb3ZvYWRBRFdZQWtnM21CZHotZEVrUEhFbW1yeVJETFoyQklsNmxscnlUYkFuYk8wdEZIajFZWkhaT0RRZnpuOFNUYWtocC1rQVdEc1RGeUR3YUc5TE1aTWtaTmNzMTdZU2cwUTlYTm5NNjY2MzhPdDlXa3psU1ExcExra0xQUVlzVm13Sm42ZDR4Um56aDk3dktINGRUMUpkZnI5UGtZVGpOTm1uclBMTXdORkhDMEEyd1Y3T0hVOFpDeUVOeHdJSEdqTEhRRWxQSFhDU3JDNzVQbzJ6SUo5dG9fcm5zeURpYQ?oc=5
 
 - Landeed, Fractal Analytics: The AI start-ups fixing India's broken roads and messy land records - BBC
   The BBC has teamed up with Fractal Analytics to create a
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4Q09PeWc3VGhmdmZJQnY2VkgwOGtwM3lzclJERzk2bmJOM3lBSEU5YmVhQzkteElMR2dlem1UcWxHS2ZGSWYxTXQ1bnp2OFFldkt4MGdtck9lRDQ?oc=5
 
-- 'Must be taught how to behave': Vengsarkar criticises India players' conduct against Pakistan after U19 A - The Times of India
-  'Must be taught how to behave': Vengsarkar criticises India players
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxOWWc0MklqSUtwc3BKbjUxYUZwVmtPaVhSLWpiaGpxMDRIVDVldVdGSldnbFpycGRoSGhDcGFVY3VuM2MwOGJhUVA3ZnpIQWFaZUp2UWxLRW9ha3RoWmlobDRLYUszOEJFMTJySWlIM19JSldIS3UyVV94M2pMSHltWWlMcEQwX21lX09ScHM5dHAybWIwX1pkOFAzNlBYT1NHR1hweHAwMGkwaU5ESjk1TlhKbC1iWjdvVWlZc1RWc0ZFdkFhUFVlZjRXSU4xOGNzX1FjVTFUamo1QzE4amtsNHdjcjFmZ2tqOVJwZ3FxNVQ3RV9ETFQ1aUMyeUtsTXZnLXB3RGJoeHBYQUJSSHRaZzZzZjVIckJ4M1d1bHI3VdIBpAJBVV95cUxNeFhpTHNsSHBEajdNX3Z6WkZub1ZkTU1ReHAzNG9jTEdQQ3pILUxETjJjR0piS25CMlpuSEZUenFVTU9mMEh1UjVCc3ZVVmxPeUVTYktSa3VGZmZyYkNxMHZLNUUyNkZicUxvUDVNWXlWMFBWUEloZ3dLdFptY011a3ptZHdfbkVZT1ppUHlCam5xR1VDTjctLWo4blItR2tpOWRvLVRGYU1kdk1CcWFjckFfLWxhaEt6OW5XSkdxSHlfTkRJSjNQcERhdFQwU2NnR0lCbDI1bDRLMUVhNGJQNlNHRlhWUTVRTGRWczFzSHVQSnlzbTF3TUhqLVpkYUcwWFk3LUdWd1RnN2V5c3hqRDBQaG04cnBXcVpac0U2M3ROZS1I?oc=5
+- Google Begins Rolling Out Personal AI Assistant, Tasks, In India
+  Big tech giant Google has begun rolling out its new agentic AI assistant Tasks, formerly Gemini Sparks, to users in India.
+  🔗 https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/
 
-- D2C Brand Lumov Eyes ₹33 Cr In Peak XV Surge-Led Round
-  D2C orthopaedic products brand Lumov is in talks to raise around ₹33 Cr (about $3.5 Mn) in a funding round.
-  🔗 https://inc42.com/buzz/d2c-brand-lumov-eyes-%e2%82%b933-cr-in-peak-xv-surge-led-round/
+- Amazon To Invest $7 Bn In Indian Green Energy Projects By 2030
+  Ecommerce giant Amazon has announced plans to invest $7 Bn in renewable energy projects across India by 2030.
+  🔗 https://inc42.com/buzz/amazon-to-invest-7-bn-in-indian-renewable-energy-projects-by-2030/
 
-- Claude Outpaces ChatGPT, Gemini In India Adoption
-  Anthropic’s AI bot Claude is close on the heels of Indian AI market leader ChatGPT.
-  🔗 https://inc42.com/buzz/claude-outpaces-chatgpt-gemini-in-india-adoption/
+- Airtel Payments Bank’s Profit Zooms 139% YoY To ₹28 Cr In Q2
+  Airtel Payments Bank’s net profit zoomed 139% to ₹28.2 Cr in the second quarter (Q2) of the fiscal year 2026-27&
+  🔗 https://inc42.com/buzz/airtel-payments-banks-profit-zooms-139-yoy-to-%e2%82%b928-cr-in-q2/
 
-- Rediff Files Updated IPO Papers For ₹600 Cr Fresh Issue-Only IPO
-  AvenuesAI subsidiary Rediff has filed its updated draft IPO papers with the SEBI about two months after the regulator cleared.
-  🔗 https://inc42.com/buzz/rediff-files-updated-ipo-papers-for-%e2%82%b9600-cr-fresh-issue-only-ipo/
+- Coinbase India Partially Resumes INR Withdrawals After A Week Of Disruption
+  Coinbase India Partially Resumes INR Withdrawals Amid Disruption.
+  🔗 https://inc42.com/buzz/coinbase-india-partially-resumes-inr-withdrawals-after-a-week-of-disruption/
 
-- Urban Company To Use ₹600 Cr From QIP To Expand InstaHelp In ₹12,000 Cr Market
-  Urban Company is opening its ₹2,500 Cr qualified institutional placement (QIP) for subscription today. Urban Company has outlined a �
-  🔗 https://inc42.com/buzz/urban-company-to-use-%e2%82%b9600-cr-from-qip-to-expand-instahelp-in-%e2%82%b912000-cr-market/
+- Apple Pay & iCloud Report Outages, Company Blames Internal Update
+  A widespread outage at iPhone maker Apple has brought many of its services to a standstill. Apple Pay, Apple Music and iCloud Report Outages.
+  🔗 https://inc42.com/buzz/apple-pay-icloud-report-outages-company-blames-internal-update/
 
-- Sarvam AI Opens Token Factory To Run Global AI Models On Indian Servers
-  AI unicorn Sarvam AI has opened Token Factory to developers and enterprises, giving them access to its own and global AI models.
-  🔗 https://inc42.com/buzz/sarvam-ai-opens-token-factory-to-run-global-ai-models-on-indian-servers/
-
-- ASEAN Summit LIVE updates: Quad announces new maritime exercise, unveils major initiatives on AI, cyber security - The Hindu
-  The ASEAN Summit is being held in Doha, Qatar, from
+- ASEAN, Quad Summit updates on November 17, 2026 - The Hindu
+  The Hindu reports that ASEAN
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUI0eEc4ZGlHdHRTeG4yQUJzTTNFdmZWTWlIb1NVZmg0ZlMyQkJwaVFISm42NUw2YzZzNHhFLTVRZHBpU0hhUWtiZ3pJQ2NYTzRfTmNhWEM5SFVWcUhraUVZMGMyeGdaUklBT0NvQVhmb2pqSVdEdk1IcGgzMzJ0YjZqeFlLUkkzRU1Ydlc5SmViQlVGaS11c0hmYlJmUUxVRXVtT0V2aUZ2aWtoNDVrclVpTVYzdkdZQmotY3gxNWJHVFpLLWJNRmhyb2Q3UF9iTmpRSTZDOWFtMUEzR3dLdnM1aXljdFNiZ2hj0gHyAUFVX3lxTE9MUHU3MlZUTmxRbTRoSjJJOEJrOXBaX09BZ1hHWENsbXlsbE1FYjh4YUFCUXktVzFveDUxRWFNamtucXdSVHp0V3VfM05qQm1NRkc5YndIbU01OFZfSlQxLVI2eTVBUHVoWXY4Z3VNRWpobVBOcXJHREQ4STlGZkd6WXZpaWI4T1RTbHU2cVc0RmlWbHFXVmlNOFdESUJxaXRMZWVSZjJiZUZwTmZXWDJvd0lOM1VvMEs4T2M3ZW15NjJmZWV4SVJPS1FkS1ktYXBSemhsbjlHTUViaHdaMWJndVJmWkY1ZnFpVFZmaElGRnBn?oc=5
 
-- Quad Leaders Summit LIVE Updates: India To Host First Quad Business Forum Meet Next Year - NDTV
-  Quad Leaders Summit LIVE Updates: India To Host First Quad Business
+- Highlights: India To Host First Quad Business Forum Meet Next Year - NDTV
+  India To Host First Quad Business Forum Meet Next
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3JEb2JSNzBrZ0ZRYzRoOTdTQm9tZFpwZktnLWRscFZiZ3hmZ3djUFQ4NmZhWV9IeFRadjdJeHhhcGRPQkRYWW9Md1MtRVYxWmNzYVh5Z2lQamVMaGtSZ1NtbFN1THRhYjAwVEpxV3lRMzdDZmNWYWZxeG9oR1pLa2FGTUlCSFNnOFVSenJZVXdobnp6Y0VmeUJrcUVNYXBObVBNdXFjVFZfakJTNzFvc2c5MW1HTm54ZGhfQXBaaUsyVjlNcGVKNTFWTk8tWVYwZEZNdkJrYmNVNkkwbDdSOFJuc1ByT3PSAe8BQVVfeXFMT3pDd0d0YU51Rkk5a1pwaUlYeXdCQ1c1WE5WNkMwUmNEYkh3WXZLSWFiN1loWlhVazVoeW1rYWxYNGNDSTBBcHQxdUs3SVFXeHZpcHBoMW5zUHM4ZFF6M29PYzFBREdZRjlYN3R3bklMV1VMRy1fVWZUTjN4OFh4NUd0UDJ4cWtfS3JySElKM25YU2Z0M1hzMnJ3MzdXZUROVGljMjRtUUZkQUJ0Nzkya01jdVRabXRtTjdDS0QzMWZQVkpFd1g1Wk9TdHdSaTBiV1h6Wms5cWotbk5rT2pDNFBBQk90M29OaFppRzR6V3c?oc=5
 
-- India condemns attack on LPG tanker in Strait of Hormuz; 21 nationals rescued, 1 missin - News On AIR
-  India condemns attack on LPG tanker in Strait of Hormuz; 21
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOS29xTTNMbXFaOE5nMS1VRF96eFo2MWtSY1hKQmNEUTNkVnAxdFYtMlZETTBvMU9jQnM1ZnZIRktiNUNRbjNFeXNyZWM2STRlRzJKS1E3ZE1EVnNGTTZfSU5ldGNKLW40SkZLZ2RPRm1pb1k1RE52eGZsQlFOUGRycTJZZEhjNDNhdGl0TzNtZmVpMmdBcnNxQWdObGphR0lqa3JzRHpyN0xHRU5uN0N1RA?oc=5
+- From Manila, Quad signal to China: 'Peace by strength' - The Times of India
+  From Manila, Quad signal to China: 'Peace
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWZqZkw4TkNoWV9xcjRibnhKakVJMnNDREpUZDg5WklSSGo1MFdLaE9pWnpoTWx1RlptZVRjZFFHYXBLYVUxVWRYYjc0dmZQSGVxLURUOGhsNUZJRWJ4SnhzRld3TXdNMlV6M3hCMmdoaUNjYlhTQ3FzM2RmaXRfcTR6UFM5NDFTb0tqQ09WcEJuOWhsdDEzTXNzeWQ0bkNhZ1NSclZHcnpVdnBVREdpOWxpdHZ2R3ptcEHSAb8BQVVfeXFMT2hUZTJZdDB0NmduaWtCM25mQ2JpU3I2RGdlZGZaajkwUU9xZS1KS0JVN0tYZVhvYzR5OGZ6R3hWUFUxUkZDdkNucUZ2YTNXRzRzNjFvSGV3QmtyeFE4YnExaHdzdC1ROThHaDBMa24tVnhaWGdYWnJqRWREbWY5c0hOLXlkRGd3V1dGRnByOGNkUVFTLWhrajFlQ2EzZ2h5Y0NDTjdYVmNES3Eybk9GWHM1dldKVUFRQmx0UU1PWFk?oc=5
+
+- Yogi Adityanath Claims 1.27 Crore Hindu Voters Missing, Poll Officer Replies - NDTV
+  Yogi Adityanath claims 1.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGNEazhQUEp0ZTVTcmZub25US19ENDFJZGNDXzNZUEpsMVlVTFAtbnhEUklEMzR4T29INEdHdUlzd3ZKX05nbURHdHNwMUxyLWxya0JTSXlPbTBMbWZ1TkpkekpUdnR6S09La2cwVldZenZ6czNuYmNWcGk1WlhlbFU1U0VnMm5DdU5QX1FqQUFITE9GbFlYcTVhV2NjNmp4dS1YRzBHTDJhOU1TQXY2LUdUTERuRmVMSTQ0STFIWm9YYTZsY0VpazcxSmw2WUFMSm1iYzlqT3F1c25TQnpOQi1tbk9kako10gHwAUFVX3lxTE5hM1dpNjZrb3ZvYWRBRFdZQWtnM21CZHotZEVrUEhFbW1yeVJETFoyQklsNmxscnlUYkFuYk8wdEZIajFZWkhaT0RRZnpuOFNUYWtocC1rQVdEc1RGeUR3YUc5TE1aTWtaTmNzMTdZU2cwUTlYTm5NNjY2MzhPdDlXa3psU1ExcExra0xQUVlzVm13Sm42ZDR4Um56aDk3dktINGRUMUpkZnI5UGtZVGpOTm1uclBMTXdORkhDMEEyd1Y3T0hVOFpDeUVOeHdJSEdqTEhRRWxQSFhDU3JDNzVQbzJ6SUo5dG9fcm5zeURpYQ?oc=5
 
 - Landeed, Fractal Analytics: The AI start-ups fixing India's broken roads and messy land records - BBC
   The BBC has teamed up with Fractal Analytics to create a
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4Q09PeWc3VGhmdmZJQnY2VkgwOGtwM3lzclJERzk2bmJOM3lBSEU5YmVhQzkteElMR2dlem1UcWxHS2ZGSWYxTXQ1bnp2OFFldkt4MGdtck9lRDQ?oc=5
 
-- 'Must be taught how to behave': Vengsarkar criticises India players' conduct against Pakistan after U19 A - The Times of India
-  'Must be taught how to behave': Vengsarkar criticises India players
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxOWWc0MklqSUtwc3BKbjUxYUZwVmtPaVhSLWpiaGpxMDRIVDVldVdGSldnbFpycGRoSGhDcGFVY3VuM2MwOGJhUVA3ZnpIQWFaZUp2UWxLRW9ha3RoWmlobDRLYUszOEJFMTJySWlIM19JSldIS3UyVV94M2pMSHltWWlMcEQwX21lX09ScHM5dHAybWIwX1pkOFAzNlBYT1NHR1hweHAwMGkwaU5ESjk1TlhKbC1iWjdvVWlZc1RWc0ZFdkFhUFVlZjRXSU4xOGNzX1FjVTFUamo1QzE4amtsNHdjcjFmZ2tqOVJwZ3FxNVQ3RV9ETFQ1aUMyeUtsTXZnLXB3RGJoeHBYQUJSSHRaZzZzZjVIckJ4M1d1bHI3VdIBpAJBVV95cUxNeFhpTHNsSHBEajdNX3Z6WkZub1ZkTU1ReHAzNG9jTEdQQ3pILUxETjJjR0piS25CMlpuSEZUenFVTU9mMEh1UjVCc3ZVVmxPeUVTYktSa3VGZmZyYkNxMHZLNUUyNkZicUxvUDVNWXlWMFBWUEloZ3dLdFptY011a3ptZHdfbkVZT1ppUHlCam5xR1VDTjctLWo4blItR2tpOWRvLVRGYU1kdk1CcWFjckFfLWxhaEt6OW5XSkdxSHlfTkRJSjNQcERhdFQwU2NnR0lCbDI1bDRLMUVhNGJQNlNHRlhWUTVRTGRWczFzSHVQSnlzbTF3TUhqLVpkYUcwWFk3LUdWd1RnN2V5c3hqRDBQaG04cnBXcVpac0U2M3ROZS1I?oc=5
-
-- ASEAN Summit LIVE updates: Quad announces new maritime exercise, unveils major initiatives on AI, cyber security - The Hindu
-  The ASEAN Summit is being held in Doha, Qatar, from
+- ASEAN, Quad Summit updates on November 17, 2026 - The Hindu
+  The Hindu reports that ASEAN
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUI0eEc4ZGlHdHRTeG4yQUJzTTNFdmZWTWlIb1NVZmg0ZlMyQkJwaVFISm42NUw2YzZzNHhFLTVRZHBpU0hhUWtiZ3pJQ2NYTzRfTmNhWEM5SFVWcUhraUVZMGMyeGdaUklBT0NvQVhmb2pqSVdEdk1IcGgzMzJ0YjZqeFlLUkkzRU1Ydlc5SmViQlVGaS11c0hmYlJmUUxVRXVtT0V2aUZ2aWtoNDVrclVpTVYzdkdZQmotY3gxNWJHVFpLLWJNRmhyb2Q3UF9iTmpRSTZDOWFtMUEzR3dLdnM1aXljdFNiZ2hj0gHyAUFVX3lxTE9MUHU3MlZUTmxRbTRoSjJJOEJrOXBaX09BZ1hHWENsbXlsbE1FYjh4YUFCUXktVzFveDUxRWFNamtucXdSVHp0V3VfM05qQm1NRkc5YndIbU01OFZfSlQxLVI2eTVBUHVoWXY4Z3VNRWpobVBOcXJHREQ4STlGZkd6WXZpaWI4T1RTbHU2cVc0RmlWbHFXVmlNOFdESUJxaXRMZWVSZjJiZUZwTmZXWDJvd0lOM1VvMEs4T2M3ZW15NjJmZWV4SVJPS1FkS1ktYXBSemhsbjlHTUViaHdaMWJndVJmWkY1ZnFpVFZmaElGRnBn?oc=5
 
-- Quad Leaders Summit LIVE Updates: India To Host First Quad Business Forum Meet Next Year - NDTV
-  Quad Leaders Summit LIVE Updates: India To Host First Quad Business
+- Highlights: India To Host First Quad Business Forum Meet Next Year - NDTV
+  India To Host First Quad Business Forum Meet Next
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3JEb2JSNzBrZ0ZRYzRoOTdTQm9tZFpwZktnLWRscFZiZ3hmZ3djUFQ4NmZhWV9IeFRadjdJeHhhcGRPQkRYWW9Md1MtRVYxWmNzYVh5Z2lQamVMaGtSZ1NtbFN1THRhYjAwVEpxV3lRMzdDZmNWYWZxeG9oR1pLa2FGTUlCSFNnOFVSenJZVXdobnp6Y0VmeUJrcUVNYXBObVBNdXFjVFZfakJTNzFvc2c5MW1HTm54ZGhfQXBaaUsyVjlNcGVKNTFWTk8tWVYwZEZNdkJrYmNVNkkwbDdSOFJuc1ByT3PSAe8BQVVfeXFMT3pDd0d0YU51Rkk5a1pwaUlYeXdCQ1c1WE5WNkMwUmNEYkh3WXZLSWFiN1loWlhVazVoeW1rYWxYNGNDSTBBcHQxdUs3SVFXeHZpcHBoMW5zUHM4ZFF6M29PYzFBREdZRjlYN3R3bklMV1VMRy1fVWZUTjN4OFh4NUd0UDJ4cWtfS3JySElKM25YU2Z0M1hzMnJ3MzdXZUROVGljMjRtUUZkQUJ0Nzkya01jdVRabXRtTjdDS0QzMWZQVkpFd1g1Wk9TdHdSaTBiV1h6Wms5cWotbk5rT2pDNFBBQk90M29OaFppRzR6V3c?oc=5
 
-- India condemns attack on LPG tanker in Strait of Hormuz; 21 nationals rescued, 1 missin - News On AIR
-  India condemns attack on LPG tanker in Strait of Hormuz; 21
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOS29xTTNMbXFaOE5nMS1VRF96eFo2MWtSY1hKQmNEUTNkVnAxdFYtMlZETTBvMU9jQnM1ZnZIRktiNUNRbjNFeXNyZWM2STRlRzJKS1E3ZE1EVnNGTTZfSU5ldGNKLW40SkZLZ2RPRm1pb1k1RE52eGZsQlFOUGRycTJZZEhjNDNhdGl0TzNtZmVpMmdBcnNxQWdObGphR0lqa3JzRHpyN0xHRU5uN0N1RA?oc=5
+- From Manila, Quad signal to China: 'Peace by strength' - The Times of India
+  From Manila, Quad signal to China: 'Peace
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWZqZkw4TkNoWV9xcjRibnhKakVJMnNDREpUZDg5WklSSGo1MFdLaE9pWnpoTWx1RlptZVRjZFFHYXBLYVUxVWRYYjc0dmZQSGVxLURUOGhsNUZJRWJ4SnhzRld3TXdNMlV6M3hCMmdoaUNjYlhTQ3FzM2RmaXRfcTR6UFM5NDFTb0tqQ09WcEJuOWhsdDEzTXNzeWQ0bkNhZ1NSclZHcnpVdnBVREdpOWxpdHZ2R3ptcEHSAb8BQVVfeXFMT2hUZTJZdDB0NmduaWtCM25mQ2JpU3I2RGdlZGZaajkwUU9xZS1KS0JVN0tYZVhvYzR5OGZ6R3hWUFUxUkZDdkNucUZ2YTNXRzRzNjFvSGV3QmtyeFE4YnExaHdzdC1ROThHaDBMa24tVnhaWGdYWnJqRWREbWY5c0hOLXlkRGd3V1dGRnByOGNkUVFTLWhrajFlQ2EzZ2h5Y0NDTjdYVmNES3Eybk9GWHM1dldKVUFRQmx0UU1PWFk?oc=5
+
+- Yogi Adityanath Claims 1.27 Crore Hindu Voters Missing, Poll Officer Replies - NDTV
+  Yogi Adityanath claims 1.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGNEazhQUEp0ZTVTcmZub25US19ENDFJZGNDXzNZUEpsMVlVTFAtbnhEUklEMzR4T29INEdHdUlzd3ZKX05nbURHdHNwMUxyLWxya0JTSXlPbTBMbWZ1TkpkekpUdnR6S09La2cwVldZenZ6czNuYmNWcGk1WlhlbFU1U0VnMm5DdU5QX1FqQUFITE9GbFlYcTVhV2NjNmp4dS1YRzBHTDJhOU1TQXY2LUdUTERuRmVMSTQ0STFIWm9YYTZsY0VpazcxSmw2WUFMSm1iYzlqT3F1c25TQnpOQi1tbk9kako10gHwAUFVX3lxTE5hM1dpNjZrb3ZvYWRBRFdZQWtnM21CZHotZEVrUEhFbW1yeVJETFoyQklsNmxscnlUYkFuYk8wdEZIajFZWkhaT0RRZnpuOFNUYWtocC1rQVdEc1RGeUR3YUc5TE1aTWtaTmNzMTdZU2cwUTlYTm5NNjY2MzhPdDlXa3psU1ExcExra0xQUVlzVm13Sm42ZDR4Um56aDk3dktINGRUMUpkZnI5UGtZVGpOTm1uclBMTXdORkhDMEEyd1Y3T0hVOFpDeUVOeHdJSEdqTEhRRWxQSFhDU3JDNzVQbzJ6SUo5dG9fcm5zeURpYQ?oc=5
 
 - Landeed, Fractal Analytics: The AI start-ups fixing India's broken roads and messy land records - BBC
   The BBC has teamed up with Fractal Analytics to create a
   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4Q09PeWc3VGhmdmZJQnY2VkgwOGtwM3lzclJERzk2bmJOM3lBSEU5YmVhQzkteElMR2dlem1UcWxHS2ZGSWYxTXQ1bnp2OFFldkt4MGdtck9lRDQ?oc=5
 
-- 'Must be taught how to behave': Vengsarkar criticises India players' conduct against Pakistan after U19 A - The Times of India
-  'Must be taught how to behave': Vengsarkar criticises India players
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxOWWc0MklqSUtwc3BKbjUxYUZwVmtPaVhSLWpiaGpxMDRIVDVldVdGSldnbFpycGRoSGhDcGFVY3VuM2MwOGJhUVA3ZnpIQWFaZUp2UWxLRW9ha3RoWmlobDRLYUszOEJFMTJySWlIM19JSldIS3UyVV94M2pMSHltWWlMcEQwX21lX09ScHM5dHAybWIwX1pkOFAzNlBYT1NHR1hweHAwMGkwaU5ESjk1TlhKbC1iWjdvVWlZc1RWc0ZFdkFhUFVlZjRXSU4xOGNzX1FjVTFUamo1QzE4amtsNHdjcjFmZ2tqOVJwZ3FxNVQ3RV9ETFQ1aUMyeUtsTXZnLXB3RGJoeHBYQUJSSHRaZzZzZjVIckJ4M1d1bHI3VdIBpAJBVV95cUxNeFhpTHNsSHBEajdNX3Z6WkZub1ZkTU1ReHAzNG9jTEdQQ3pILUxETjJjR0piS25CMlpuSEZUenFVTU9mMEh1UjVCc3ZVVmxPeUVTYktSa3VGZmZyYkNxMHZLNUUyNkZicUxvUDVNWXlWMFBWUEloZ3dLdFptY011a3ptZHdfbkVZT1ppUHlCam5xR1VDTjctLWo4blItR2tpOWRvLVRGYU1kdk1CcWFjckFfLWxhaEt6OW5XSkdxSHlfTkRJSjNQcERhdFQwU2NnR0lCbDI1bDRLMUVhNGJQNlNHRlhWUTVRTGRWczFzSHVQSnlzbTF3TUhqLVpkYUcwWFk3LUdWd1RnN2V5c3hqRDBQaG04cnBXcVpac0U2M3ROZS1I?oc=5
+- ASEAN, Quad Summit updates on November 17, 2026 - The Hindu
+  The Hindu reports that ASEAN
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUI0eEc4ZGlHdHRTeG4yQUJzTTNFdmZWTWlIb1NVZmg0ZlMyQkJwaVFISm42NUw2YzZzNHhFLTVRZHBpU0hhUWtiZ3pJQ2NYTzRfTmNhWEM5SFVWcUhraUVZMGMyeGdaUklBT0NvQVhmb2pqSVdEdk1IcGgzMzJ0YjZqeFlLUkkzRU1Ydlc5SmViQlVGaS11c0hmYlJmUUxVRXVtT0V2aUZ2aWtoNDVrclVpTVYzdkdZQmotY3gxNWJHVFpLLWJNRmhyb2Q3UF9iTmpRSTZDOWFtMUEzR3dLdnM1aXljdFNiZ2hj0gHyAUFVX3lxTE9MUHU3MlZUTmxRbTRoSjJJOEJrOXBaX09BZ1hHWENsbXlsbE1FYjh4YUFCUXktVzFveDUxRWFNamtucXdSVHp0V3VfM05qQm1NRkc5YndIbU01OFZfSlQxLVI2eTVBUHVoWXY4Z3VNRWpobVBOcXJHREQ4STlGZkd6WXZpaWI4T1RTbHU2cVc0RmlWbHFXVmlNOFdESUJxaXRMZWVSZjJiZUZwTmZXWDJvd0lOM1VvMEs4T2M3ZW15NjJmZWV4SVJPS1FkS1ktYXBSemhsbjlHTUViaHdaMWJndVJmWkY1ZnFpVFZmaElGRnBn?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Highlights: India To Host First Quad Business Forum Meet Next Year - NDTV
+  India To Host First Quad Business Forum Meet Next
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3JEb2JSNzBrZ0ZRYzRoOTdTQm9tZFpwZktnLWRscFZiZ3hmZ3djUFQ4NmZhWV9IeFRadjdJeHhhcGRPQkRYWW9Md1MtRVYxWmNzYVh5Z2lQamVMaGtSZ1NtbFN1THRhYjAwVEpxV3lRMzdDZmNWYWZxeG9oR1pLa2FGTUlCSFNnOFVSenJZVXdobnp6Y0VmeUJrcUVNYXBObVBNdXFjVFZfakJTNzFvc2c5MW1HTm54ZGhfQXBaaUsyVjlNcGVKNTFWTk8tWVYwZEZNdkJrYmNVNkkwbDdSOFJuc1ByT3PSAe8BQVVfeXFMT3pDd0d0YU51Rkk5a1pwaUlYeXdCQ1c1WE5WNkMwUmNEYkh3WXZLSWFiN1loWlhVazVoeW1rYWxYNGNDSTBBcHQxdUs3SVFXeHZpcHBoMW5zUHM4ZFF6M29PYzFBREdZRjlYN3R3bklMV1VMRy1fVWZUTjN4OFh4NUd0UDJ4cWtfS3JySElKM25YU2Z0M1hzMnJ3MzdXZUROVGljMjRtUUZkQUJ0Nzkya01jdVRabXRtTjdDS0QzMWZQVkpFd1g1Wk9TdHdSaTBiV1h6Wms5cWotbk5rT2pDNFBBQk90M29OaFppRzR6V3c?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- From Manila, Quad signal to China: 'Peace by strength' - The Times of India
+  From Manila, Quad signal to China: 'Peace
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWZqZkw4TkNoWV9xcjRibnhKakVJMnNDREpUZDg5WklSSGo1MFdLaE9pWnpoTWx1RlptZVRjZFFHYXBLYVUxVWRYYjc0dmZQSGVxLURUOGhsNUZJRWJ4SnhzRld3TXdNMlV6M3hCMmdoaUNjYlhTQ3FzM2RmaXRfcTR6UFM5NDFTb0tqQ09WcEJuOWhsdDEzTXNzeWQ0bkNhZ1NSclZHcnpVdnBVREdpOWxpdHZ2R3ptcEHSAb8BQVVfeXFMT2hUZTJZdDB0NmduaWtCM25mQ2JpU3I2RGdlZGZaajkwUU9xZS1KS0JVN0tYZVhvYzR5OGZ6R3hWUFUxUkZDdkNucUZ2YTNXRzRzNjFvSGV3QmtyeFE4YnExaHdzdC1ROThHaDBMa24tVnhaWGdYWnJqRWREbWY5c0hOLXlkRGd3V1dGRnByOGNkUVFTLWhrajFlQ2EzZ2h5Y0NDTjdYVmNES3Eybk9GWHM1dldKVUFRQmx0UU1PWFk?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Yogi Adityanath Claims 1.27 Crore Hindu Voters Missing, Poll Officer Replies - NDTV
+  Yogi Adityanath claims 1.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGNEazhQUEp0ZTVTcmZub25US19ENDFJZGNDXzNZUEpsMVlVTFAtbnhEUklEMzR4T29INEdHdUlzd3ZKX05nbURHdHNwMUxyLWxya0JTSXlPbTBMbWZ1TkpkekpUdnR6S09La2cwVldZenZ6czNuYmNWcGk1WlhlbFU1U0VnMm5DdU5QX1FqQUFITE9GbFlYcTVhV2NjNmp4dS1YRzBHTDJhOU1TQXY2LUdUTERuRmVMSTQ0STFIWm9YYTZsY0VpazcxSmw2WUFMSm1iYzlqT3F1c25TQnpOQi1tbk9kako10gHwAUFVX3lxTE5hM1dpNjZrb3ZvYWRBRFdZQWtnM21CZHotZEVrUEhFbW1yeVJETFoyQklsNmxscnlUYkFuYk8wdEZIajFZWkhaT0RRZnpuOFNUYWtocC1rQVdEc1RGeUR3YUc5TE1aTWtaTmNzMTdZU2cwUTlYTm5NNjY2MzhPdDlXa3psU1ExcExra0xQUVlzVm13Sm42ZDR4Um56aDk3dktINGRUMUpkZnI5UGtZVGpOTm1uclBMTXdORkhDMEEyd1Y3T0hVOFpDeUVOeHdJSEdqTEhRRWxQSFhDU3JDNzVQbzJ6SUo5dG9fcm5zeURpYQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Landeed, Fractal Analytics: The AI start-ups fixing India's broken roads and messy land records - BBC
+  The BBC has teamed up with Fractal Analytics to create a
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4Q09PeWc3VGhmdmZJQnY2VkgwOGtwM3lzclJERzk2bmJOM3lBSEU5YmVhQzkteElMR2dlem1UcWxHS2ZGSWYxTXQ1bnp2OFFldkt4MGdtck9lRDQ?oc=5
 
 
-_Last updated: 2026-11-17 15:26:52 UTC_
+_Last updated: 2026-11-18 00:27:15 UTC_
