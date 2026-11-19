@@ -1,184 +1,224 @@
 # 📰 Daily News Summaries
 
-- PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in New Delhi - News On AIR
-  PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGxCZDZKMXBPcF91TDdDS29MZkplbmxVRkpvWUJZbjB4NjhkZnJqXzZ4Z1d1azhyaHZLM0VTY1JyM3hpTjJSLW9Ud3RTQkFDS1Z6dnMtN0h4NGVrYWluZ2Rxd2pJUy1BRmdPWGlEUUxtR0tNOVBHUmJnVk1xSlI3OVFpSUxremlnYU9uNHhTWllUWFczZTBuU1l4YjZxVEZtdjRmcnZpdWJKcEtvR09sN25fcXFaVHhFdDNvU1I0ZUxfOU9WMUhMN3had3RpOGlqN3o1VmliNA?oc=5
+- India and Japan unequivocally condemn terrorism; call for action against all UN-listed terrorist groups - News On AIR
+  India and Japan unequivocally condemn terrorism; call for action against all UN-
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOZERKVHQ3eF9pMXdMSXJ0OFU2QVgzdzNOclJmOUtKTVFJaWNkVGN1cW4waFEyVmpseUtodWVBNWVsMUc3RFFHaWluc1hLcV9ZRVEtaWdmVnFtZFJXNjZ3ZjNNM2ZLY0ZHeWlGdmtwTzc3RWUta1VxZk02ekNadFRDbk51R1Y1bmN1UEs5RWZMaG4xdG91VkFGX3NLSGVNVi1GdlBlZEhoUkpBdGhQd25VSWgwaVlMeTVlUllJTHM2alBWUDNxemdF?oc=5
 
-- "India Playing Whole New Game": PM Modi's GTA-Style Dig At Opposition - NDTV
-  "India Playing Whole New Game": PM Modi
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTVIYUdDUXhRYkVSbXdfbjA1LXhVdzFyT0tqUlZSRi1ETjRVZkZDVEZJT3BsNnlqaTJTYVJZTDNBLUlqVVNYVjhVc0c2czdqZzdWZWJfaTU5eEVSeE4wVV9tZUlPVDB2aWk5QzJLSGhiaXFPNlotTmNieHBmczc4RklCZWhJVzh4TTlCWmVnOXQ1VHpyblVEclROdkcwNWZXTEdCN21KQW81Zw?oc=5
+- U.S. court orders delivery of summonses to Doval, Goel through Delhi courts - The Hindu
+  U.S. court orders delivery of summonses to
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWpFRDZOQXpXSHdGMW1pY1BObjU3UkdTTEY5cV9sXzZhbXZ6U1VFWGVJcGJaY1ZiM2RjcTNubFg5blBzb051cFZYV1hVa1VCQlJsWUpRU0RFeTFLVkNDU2NIazFBTk1oVnpwOVFQRlMwWG04YjVyTEs4SFV1aGtEN0JpRXJaM0VJQXp2eFBxT2N2N3VFV1VTcklTeGhKdWNySEtoOTZ3aE1DUm9jU1ltVUVkaHN2RlpwcTR0by1kS29Xdl9tU2NydmhuQ0VKTkZXaEHSAdgBQVVfeXFMTWotNDJNa0g5d2xoX19wbEpYSk9kbkYycnEwei1JamNjNlRSN0xKWjg3cG55eUQtbjdHbjlJM0luM0Q0ZUpxYVFMN1JTSEJzc1d1dTRQWjBuWTFaU3ZWZ0plZVZoczlyUG51U3FpQnBPTExaakVTNWxrMk44MHo0cVNoYnFyUzB4OW5NZ3NNSDNjVE52R3l5bUM0bjR0eXlmLWZ6Sl94WnFkR1NqTTUwNjRiNFVsV2RoQVd5TlAyRlR2Wm5DaVlRVTFNUmw2Uy1zMmlYM3N1MlJL?oc=5
 
-- PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties - The Hindu
-  PM Modi meets Prince and Princess of Wales, discusses boosting
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqV2ViRWNJZzdrUlFMZ09FX1BJamwxUms0T0loUXlocXFnM09icDQ3RnB0VTdtVm1uVXp6TFZSdmI2YWRsZkItTVpyWDRTNC1zUi1fUXNiVjJEYlkzZy1xR09FQm1jcVdjMFQ1R2k1c3VIa05HbkpqeGRCTjZMYkdRWTlfRGtDSnJvOFQ4cDRyNlU2N0NyN0JyMWlmMnZ2VlFjMlFDT3JWVzN4SGxLdEJ5QmFxSEttWGdXNktrTEZLVlR3WWNyU0F0bXdvek3SAdYBQVVfeXFMUHNSRkZnZHVfWnZKVEV4dTlYMzlYLVlvWVdfLUs1dVg0Rkl4MEFERm95NjZWcTNNM2VkTEtsclNXWFd6WV9SUXM4MUg2RnBFbThmT3dqcmZYLVplalRRUzJDOEpQb3o1Tk00Rld5aThVUGxpUmRHZlZtZXc3VUljd3hnMjBHRXJ1NTBmYXA1TGZWYlROd05jVmpJSkdsOFJyV0dkRjlIQmYxSE4zeUIzSjdqMS1zVzhMd1lzZ2RRMDNXeWIzanNzYzEzaThjeWdfdl9SbVk2dw?oc=5
+- Can China Build Its AI Future Without Nvidia? Opportunity For India As US Tightens Chip Curbs - NDTV
+  .com: Can China Build Its AI Future Without Nvidia?
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEhneFVQRjJBR3BqVGk5T2xqdjB4TmFfd2pxSVBvSU5vQnBhUlltdkRHYkU5NC11a2R6RGdUMjdEUm1VdVlBcGgxaktkUlUycG8tUDZnUnAtdVBSd1hLb09GdTdiT3JTb2pvRVpTTFFhVWtDbHpRcWtjaDNlYmFSRl9pQ25NemxTbExOQzFKN3RpZDhTVWI1Ym9PT2pCNkRiYkxOcUgxemxqVFd1aUxlRE5mUGZKcWN6dTVuSDhyckQtY0h0NTA5eXRPdTYxUdIB1gFBVV95cUxNTUhsT3JDMlJGVnpqQXZuZ0dJMGlRaU1OX2g2M0pIek54cE5OV1ctWjJSZXJCNnR5cXVMeWhGVzFRdVFFS0luVkVvVTlLdkdNZzFoTGtCcjFSd1UxcWpUU2R0bkgxUHFEb1VSODFaeDFQMUpiQWIzVkZIeFFEMXlFa3laeW1UT2FIcmpaVjh6eXRxYUV5VjZFNE9tSUw5S1A0Vm9PRi00US11LU4xSlBWcy03WmpQVXFaeHRibHFHb09OOUNtS3lSYTZPZ3JwYTltWFg2MWJn?oc=5
 
-- UP BJP Leader's Son Dies As Bulldozer Hits Him During Akhilesh Yadav's Rally - NDTV
-  UP BJP Leader's Son Dies As Bulldozer
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdk1ucDNjUTdMcFl4cVFQRjNiNXRYRGJfYXg3WXZqbXZIaTUtWkZjNnNrb3RVUDQ2UEk1dEcwMzJiaEVELXFzZHI3YzNISUhPZDRZaUVRUmtmY212UzBTd3BwUHh6M1l0MHVxOEZxX1EtTkdKaHBMQzlFUmZTem1NRHRpWTZSSGZNVjRXVVlUdG1tclBpd0Vtd1I4dk5la2ZZZGpFTGRoUzdxeFRxNVlSTFYxc0ZmRkZBcjBFWURxZ0dVdW95OG15NFV3MW1wZ2s4OFZ1cmJjeEhxb0JTNWJJcmxpN2VmMmxpRUE?oc=5
+- Pew survey: What India's changing Hindu and Muslim populations tell us - BBC
+  Pew survey: What India's changing Hindu
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NLU1sQXIyMEZQbTZtQWdlQTk4aWZsYjN3bElRNTMwWjJMLTVlbXRVUVJfLUFyWWdMZHhaaUZSZU5FSVlZSDlNTzdibkFxN3I5T2pKTEFqSzFvLTQ?oc=5
 
-- CJI averts 'potential religious row', pulls cases from SC judge - The Times of India
-  CJI averts 'potential religious row',
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkJGUkd6TUo1Si1ZbE1lNFZPak03TXVaU1dReUk1N3k4TEVBbWprdFdDel9OUnRQVUtwc1lpclNUMXA2SWpWeUdyYmpDREJTUGVFVXhhUHdMNG8zcUVCVFBKeS1JazRQNjhfdVhoN2F2NTRjTWxCZ3NVYlJaUXlPXzVVc18wd2JyN01sWFhTR2VnWWo2cEFabjVlWkFhNkMxc3JaM1lBTy1sZWZ1ZTQtODR6Z0hwdjRsdi1Wdll3MzM0WkI5YnJz0gHMAUFVX3lxTE5tVDdNdWFuSnJDendlc0hFYXM0c3VZY3YtRkFmazl2MUdVU01RTmRibzZ2MDlYbjg1eXhKVlZnV1ZjT1N3MVVJcWJxOVNka29tQUZMS2pDVmVDbEhpZkFzWm5MUW93YjZlejk1V3FTeHFHMDBMS2tXU3c5aGZDOWQ5VHVydTNIbXp4dXZiSWg1aUZadTVuQzQ4OFVfSWZOUUxQX3pvb3NDT0wtWVc2UW1CU3pyZmUxZVdKU3VmWWkyUVhMa3ViZmRfY2JuNg?oc=5
-
-- Young founders hold key to India’s elusive shift from IT services to products, say industry leaders - The Hindu
-  Young founders hold key to India’s elusive shift from IT services to
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY3hvcW84U01QOHExOUswQWVXNTBUdHRhcHNVclByTnRNNl83NFRXbmlOaHZWdnR0bTlDYlJ0dFRJTndfSWhjeXVSc1VHTVNmS3Y5bVVLRURZa2haZEFwVlZjVzFlcF9LR1Z6UDVJVWRDcGl5VFM4Tl9iblE1OHZ3MlBXQVA1d014NzFWTlNpOEc1QlNWMm1EUGFoV19YR25YbFgwREE4LTdLM1o2YXBKUXJ1TkxEWHdkQ21wQ3VId2w3VndIeWV5MzJNbGpsdkZQRFFWRXJjbkpFajVRYnppY3B0X0JPM0tMWGs3ZWhIRGVtbVQx0gH7AUFVX3lxTE53NFQxcmhnazVzUHFZX2JlYmRCam9GSXBIalFfSjl1YmktX3lOaXlGVzgtMW92ZXJpWmJOOEttZFFWNlZ1RnR1NUNVLWI3M1hGWWVWUWxXMENERUp2d25VdzRRcFlKbG1nRFo0SC10VE5ZZlVfRy00SG9WYXFaSk45eHEzcUFaVEVqT0Q3bUE2VXNDQmZiQmsxYzJLSVF6cmpjVlpDQUoxTVNLdkE0enJhNTc5VXZCcldLVEo4M2lKYjlzZ2VvZDhqYzhpVjdKS1JROV9SSUJpNkZ5aUNTMHBWb3ZYMko1VXdTUWxJN2swTy1jX1VESU56VnQ0?oc=5
+- Record! Yuzvendra Chahal becomes first Indian bowler to cross historic milestone - The Times of India
+  Yuzvendra Chahal becomes first Indian bowler
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDBMdlp5V1k1SlZpd2dsUTI0Sm1IN0lxYmNmVXl6VElVeW9yTlhsNnhoT2lDVFRZaTI5NDR1U2ZWbnpzZW5QajFjNUgxWG9qaEpfSnJQTy1aNFdNOUhkRjFTOTdLajZpcXY0bWwzLTZoQ1U3TDVUYWtPTXdhY3cxZlpPMHgzbGlTTUdzeUJaNmwzZmtma0FpdWR4Q3dpcDdBdWhhS1hiOW5SbWxtMFNMMUt0c0ttM2owM2lySzJKN2JMTGdaeWZCbDNxRjhicUVHVGFBS280c3UyZGJhaWZRQ3dQTkdNZVVuU05zT20zenFYNG_SAfgBQVVfeXFMTzNkTzdhZHB0R1pRU3dhd3FtS3pSOEV6TkpCWENVTFQ5YmFoQnR0RmVGVl9kakRjTTM3WHJnc24taDNwRkpQWmd1ak9faEl2U2ZCSVh6ZHJwMzN0R3R5MXZXQVRwRF9nV2xKYl9hS2x4b1lwd1VVV0dSc1lGeFpvZTBfZ1kzX1h2Vkp5OWJxeGJfTGZyd0Vjc2tmMXNjc1BOVWZNRzJuUTl4dlMzOG9jUktUUVBUY1JCeU9OeVFya01fcy1aUnlMd2l5dGNXczh0U2N6S2xURkE2NG51eUpWZ2RISUs0OW1UanpCWW9jNjc2MkxYWUtmems?oc=5
 
 - How Nvidia Chips Ended Up Within Reach of China’s Military - The New York Times
   How Nvidia Chips Ended Up Within Reach of China’
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVc5N1B2V0VEaE01RDFyU3NaYTNiV3pmb2dqRDVMMWpjenVCbGUwNTh6aHhKX3hLNnBEU3dFZWxFU3I2SkJqQUVEUC1TY0IzNkNnRHc5OUU3SEY3R0RGRFE5M0UwOThfQktjVHgtSUhyeW9XNjJlQm1qdnFMcGtJNVBLNzZtX00?oc=5
 
-- Ford ships first battery cells using CATL technology - Reuters
-  Ford ships first battery cells using
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5
+- Baskaran Balasubramanian Appointed Executive Director – HR Technologies at Wells Fargo - https://hrtoday.in/
+  Baskaran Balasubramanian App
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnFTWXVTVnFsa1pYRmk0bE51cXZGSXM5dFlaNDRRS3Zmb1lzaHVIdjZGazQtbXFRbTdPb0hNMC1ValByUTBWWVVTM3pXOW9uSFhVeHJtSmVnYS0xU29zMy0zLW9kYlkzY0dXc2tUcVNsYndRcjVrRGkzWXA4SFRJLWd2dGwybm02LUVuNjJDaGF4eXV5SlJFWU5HaUZLbzI3RklIS2FRNA?oc=5
+
+- Google ex-CEO Eric Schmidt blames technology companies for AI fears in America; says: Millions have exper - The Times of India
+  Google ex-CEO Eric Schmidt blames technology companies for AI fears in America.
+  🔗 https://news.google.com/rss/articles/CBMi8wJBVV95cUxPbUJGODlCQXNQNDJfUEtmeTN2Nm15azFfdmpLaHpjMEozUnhSd0dqa1BQV1FjdUJOZmF4R3p5R0VyNUtrTkZQRXB1LU5kdzNNbXlfaG12TEZjQ1FPZ0MtU3hZR1M2Ynd1RkRZUWpWLTI5TUlpa2V0MmVCSFloR0k0SlRpUWJXcDJEcjkyTTRmU1Q1cHo0bHFnOGFjOXRkaHFxX1drRXJoMk1PazV4ZXF1SE9CcVJPUTJGSGU5aTFZWEg5bnFncmU3SnNpenRWejR5OUlGdXBsUjhqY1dfNG44ZTNtV2wxMUdvVEtsbFF2MjZvaFdneDZRM3pzcGpaaE8yN0JESlJjbjB5VEhwUHVIQnRMTGJnTy1qcUxwMENXWGxoTjR5MjBKUFNyQ3AwaU5adVBzdWk5aHdzNlQtNTdNLWVnaGZBVUNkdEJGUGoyNnpMaU9ZaWZZcGNLd3FqNm1DbTdQaS0yRjFaNFlHblhZVFJlONIB-AJBVV95cUxOWHVKcnQ5Z3hJTml4eVJYSkpDTEJPX0NSY3I1enpBeFkyYXJhRW44ajBWbDdXX1ozLU5Udks0dFZJQmxMOG1KR2hlNEFKZmYydllUMFppYWYyM0FIbEIwbzBZZXhhY1dxVmdaaVB3S1ZwTHR2WGdSM3FZTVluLTBoNWZLRlA3MUw1ZE9WOUQwdzFmV0YxX19lQ0tCeEFsZVJ2ak5MVzZ3YXdxWlhUU0RvbllsNnFiUGFtNUpwYWlfMW42ckM1WWpIUlMyR002SHJwX2VYSEhtSk16LWdOTThfSlJrTnhpWTRHZ1pDU2UzaTNPM193amtjM3Y0VG4zdnJiTG5sX2haYkgyYnh3R3JDM1ZYY0FaemI5MmJBSnBpaTJ5MUlLX1RGVzktM2s1WEJhRlBvWkRVU0RvVjBrTFlGem8xVHNLUXE4eXluRDBoSjl1RDZucTZ6bjdnS1Zyd1hFdjF6NVRpekVBWGVQTTBaWVlUSHh6NHlZ?oc=5
 
 - AI found more critical bugs in another widely used technology running 225M websites - The Register
   AI found more critical bugs in another widely used technology running 225
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbG9ESDRJWlNQZmowQXhud2FJMlkyN1NzQ1F0UHRlSUZEVXZxelZzdHVYdDUzMWNqOHJkZUlyV0hxNkNCTV9wVGp5N3FBVWRXQ01BTkgyUEw0Wm9WVVFSaFR2UW4waDFKb2RVa2pPTFNUOXNPb2NJQ2dqbTFyQlphdFdSNm1WSDNCZ1hjNkloZWhJUEJUQXJ2YUZpbHZCdlBDQXExY191aVNwdk5SMW1MbmtqcHZHRDhvMFVzNnpOTDFnWGJLajl5cjdQUlR0VGltbFgxQkJB?oc=5
 
-- Tata Group draws interest from Honda, Hyundai for vehicle and technology sharing - Autocar India
-  Tata Group draws interest from Honda, Hyundai for vehicle
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdE8xRVd5bnRFay1yY21ib2RwZTVxbDV5UVpVSHNIS2w2bG9UTmJPS0JkQ0tfQlZCTmUzTDZSb1J2bEd6SXJqby1sOW44YS13MkF4Nmt2VWUzS25XRjZtWTZMdVlnSlhrR1hFcFFKNnpmZGpjYWVPVzBZcjBRTUFsZlJuVUhwV1J1NG5NbjZ3UW1DcTBIbzFtY1dnNl85NnlyWXl2QlRfQUJKTU53S2EtZWdZM2RjOVhPb1lqOXB4TkRaQdIBxwFBVV95cUxPQXpTYVFzZk5FcTJVT19SWm1JNkJ1M3ZpamREckVGN1JSTHE4M3J0WW1zVVZfSzVTckVUdGRqSGNVOTJwU0NQMDAtVTNSTnlRMER6Ykx2ZDVsZ0c2V29BcWVnUS1GUkpiZm5ZOTJOdTdNakhKYzRkVEVWVDg0aFJPbTU1WTZleHdTMl84bG5UWWtjbmhQVzF3TUdnUEpzOFNmaGVHMVZqSkZrb2N4ZUFfN05kUU9rNUNxelYxaE9wbGxjYl9uRjQ0?oc=5
+- Newcastle centre gets £6m for brain implant technology - BBC
+  Newcastle centre gets £6
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qTmRITXZ4NHVoQ3A0VFZVTmY5bHRkREZaZ0VDQU41Tkgxd2FUdlRmcUhNNExOR1pid1BId0YyMkwtY0RxVUo1V19XNkZBX2tEY3hSMXpwRzdpdGc?oc=5
 
-- Paytm share price crash: Payment stock slides 7% on UPI MDR rollout delay; Pine Labs, One Mobikwik Systems also tumble
-  Paytm shares fell nearly 7% on Thursday as reports of another delay to UPI merchant charges raised concerns about payment companies
-  🔗 https://www.livemint.com/market/stock-market-news/paytm-share-price-crash-payment-stock-slides-7-on-upi-mdr-rollout-delay-pine-labs-one-mobikwik-systems-also-tumble-11795062771594.html
+- Who is Alok Bansal? Here’s why the PB Fintech co-founder is stepping down as executive vice-chairman
+  Alok Bansal will step down as PB Fintech's executive vice-chairman in
+  🔗 https://www.livemint.com/companies/news/alok-bansal-to-step-down-from-pb-fintech-who-is-the-policybazaar-co-founder-and-what-next-11795095116358.html
 
-- Tanla Platforms share price falls 5%: Stock up 30% in 2026; should investors buy the dip? Key levels to watch
-  Tanla Platforms shares fell 5% on Thursday, despite gaining about 30% in 2026. The co reported strong Q2 FY27 growth, including a 17.1% rise
-  🔗 https://www.livemint.com/market/stock-market-news/tanla-platforms-share-price-falls-5-stock-up-30-in-2026-should-investors-buy-the-dip-key-levels-to-watch-11795062211094.html
+- India biodiesel blending target: Why actual levels remain at just 0.08% despite 2030 goal
+  The availability of sufficient raw materials remains a key factor in determining how quickly India can expand its biodiesel blending programme.
+  🔗 https://www.livemint.com/companies/news/india-biodiesel-blending-target-why-actual-levels-remain-at-just-0-08-despite-2030-goal-11795096354156.html
 
-- BLS Polymers shares hit record high! Up 106% from IPO price, recently-listed multibagger stock soars 8% today | Buy?
-  BLS Polymers reported strong Q2FY27 results, with revenue up 28.92% year on year. Shares climbed to a record high after already gaining about 103%
-  🔗 https://www.livemint.com/market/stock-market-news/bls-polymers-shares-hit-record-high-up-106-from-ipo-price-recently-listed-multibagger-stock-soars-8-today-buy-11795023009361.html
+- Anthropic IPO windfall: More than 400 employees could be worth over  ₹935 crore each
+  Anthropic's $1.5 trillion IPO could make the average employee
+  🔗 https://www.livemint.com/companies/news/anthropic-ipo-windfall-more-than-400-employees-could-be-worth-over-935-crore-each-11795095476490.html
 
-- 227% rally in 6 months: Smallcap hits 4th upper circuit on business update - Stock split, bonus ahead - Do you own it?
-  SC Agrotech shares hit their fourth consecutive upper circuit on November 19. The company’s EGM will consider a stock split
-  🔗 https://www.livemint.com/market/stock-market-news/190-rally-in-6-months-smallcap-hits-4th-upper-circuit-on-business-update-stock-split-bonus-ahead-do-you-own-it-11795060471139.html
+- Disney plans $3 billion cost cuts by 2029, warns of more layoffs despite strong quarterly results
+  Disney CFO Hugh Johnston indicated “we do expect more layoffs” as the company pursues its cost-reduction target. The company has not disclosed how many employees
+  🔗 https://www.livemint.com/companies/news/disney-plans-3-billion-cost-cuts-by-2029-warns-of-more-layoffs-despite-strong-quarterly-results-11795094214232.html
 
-- Dividend record date, Nov 19: Last day to buy today to qualify- Oil India, Ashok Leyland, more - Who pays the highest?
-  15 companies have set Friday, November 20, as their dividend record date. Under India’s T+1
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-record-date-nov-19-last-day-to-buy-today-to-qualify-oil-india-ashok-leyland-more-who-pays-the-highest-11795056567542.html
+- Anthropic is not a safe AI company? Nobel laureates accuse Claude maker of abandoning promises ahead of IPO
+  Nobel laureates and leading AI experts accuse Anthropic of putting its race for AI dominance ahead of safety
+  🔗 https://www.livemint.com/companies/news/anthropic-is-not-a-safe-ai-company-nobel-laureates-accuse-claude-maker-of-abandoning-promises-ahead-of-ipo-11795091158478.html
 
-- Nasdaq-100 futures gain as traders gear up for Anthropic’s highly anticipated debut: Live updates - CNBC
-  Nasdaq-100 futures gain as traders gear up for
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9haDBGN05NTm5JVm5PcFdVQ3hJV3Q3N1BQeUJfaGhhbkluOGpOWW1sU2dWb2ZtY3dEX2VTWHN5S2RaSkhWQTgxZFJ0UEZFTkVnaTRoZFQtZV9DelB0SkdBdUhSckR2VWFmWmw4R2tWejJNMEhSaVpn0gF8QVVfeXFMTkFhZVJoMnczYWE3UFBMLTAzcmhienFUYjlqUmNXWURGd3dsamhpbkVhSmpheXBmdDVvYk11ellHMEtGcG1ZOXBUYmxBandtMTVWOVl5M1hGZUZMSERKb1lDR1IzZVN4eC1qWklncjZTc2tzVUJod1F3Uk83dw?oc=5
+- Goldman Sachs turns bullish on India stock market, upgrades rating to Overweight; sets Nifty target of 28,500
+  Goldman Sachs upgraded Indian equities to Overweight and set a December 2027 Nifty 50 target of 28
+  🔗 https://www.livemint.com/market/stock-market-news/goldman-sachs-turns-bullish-on-india-stock-market-upgrades-rating-to-overweight-sets-nifty-target-of-28500-11795099232497.html
 
-- Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg
-  Asian Stocks Set to Fall Ahead of Anthrop
+- Beyond BEL and HAL: L&amp;T, Bharat Forge, BEML among 5 defence stocks that could benefit from proposed 20% capex boost
+  The Defence Ministry has sought a 20% increase in capital spending for 2027–28. HAL and BEL are expected to benefit most, while L&amp;amp;T
+  🔗 https://www.livemint.com/market/stock-market-news/beyond-bel-and-hal-l-t-bharat-forge-beml-bel-among-6-defence-stocks-to-benefit-from-centres-proposed-20-capex-11795089244463.html
+
+- Anthropic shares set for Nasdaq debut today; Wall Street brokerages see up to 87% upside from IPO price: Report
+  Four brokerages issued bullish ratings, with price targets implying potential gains of 51% to
+  🔗 https://www.livemint.com/market/stock-market-news/anthropic-shares-set-for-nasdaq-debut-today-wall-street-brokerages-see-up-to-87-upside-from-ipo-price-report-11795092766156.html
+
+- Paytm, Pine Labs, MobiKwik shares tumble up to 9% on MDR delay concerns: Should investors stay away from fintech stocks?
+  India may delay a planned fee on select high-value UPI payments. Fintech stocks fell as much as 9% on the news.
+  🔗 https://www.livemint.com/market/stock-market-news/paytm-pine-labs-mobikwik-shares-tumble-up-to-9-on-mdr-delay-concerns-should-investors-stay-away-from-fintech-stocks-11795088843361.html
+
+- Anthropic IPO listing today: How much listing gains can investors expect from the AI giant? Check details
+  Anthropic is preparing to debut on Nasdaq under the ticker ANT. Grey-market trading suggests shares could gain nearly 24% on listing.
+  🔗 https://www.livemint.com/market/stock-market-news/anthropic-ipo-listing-today-how-much-listing-gains-can-investors-expect-from-the-ai-giant-check-details-11795084304396.html
+
+- AI shouldnt deny credit to small borrowers, fin inclusion should be central to tech: Setty
+   AI shouldn't deny credit to small borrowers, says
+  🔗 https://www.livemint.com/technology/ai-shouldnt-deny-credit-to-small-borrowers-fin-inclusion-should-be-central-to-tech-setty-11795098956146.html
+
+- Digital India BHASHINI Division, NIELIT sign MoU to advance multilingual AI and technology education
+  Digital India BHASHINI Division and National Institute of Electronics and Information Technology sign MoU. MoU to promote multilingual AI applications, technology education, research and skill development.
+  🔗 https://www.livemint.com/technology/digital-india-bhashini-division-nielit-sign-mou-to-advance-multilingual-ai-and-technology-education-11795091862564.html
+
+- Asus ExpertBook P5 review: Can this lightweight laptop handle the demands of modern professionals?
+  The Asus ExpertBook P5 combines Intel Core Ultra 7 performance, a lightweight aluminium design, a sharp 2.5K
+  🔗 https://www.livemint.com/technology/tech-reviews/asus-expertbook-p5-review-can-this-lightweight-laptop-handle-the-demands-of-modern-professionals-11795079431647.html
+
+- Cyient Semiconductors secures $10 million investment from GlobalFoundries
+  Getting GlobalFoundries as a partner acceler
+  🔗 https://www.livemint.com/technology/tech-news/cyient-semiconductors-globalfoundries-10-million-investment-510-million-valuation-11795063480891.html
+
+- Global securities watchdog urges immediate action on quantum risks to finance
+  Global securities watchdog urges immediate action on
+  🔗 https://www.livemint.com/technology/global-securities-watchdog-urges-immediate-action-on-quantum-risks-to-finance-11795071708223.html
+
+- US Futures Rally as Anthropic Fuels AI Enthusiasm: Markets Wrap - Bloomberg.com
+  US Futures Rally as Anthropic Fu
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Sensex Opens 100 Points Lower, Asian Markets Decline - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGo4ZXNvTFlmUnNrS1R0Z2V1dV9tU2JJaC1SVXJFdWJ4TWtNRHdVNkNqUlhod0dGby1zZ3ZaazFKbi1QMVM5QmZ5a2R0WjNBc051MGlZT1Y1MVlRa1Zjdk5sN2NyS0tSRm
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGo4ZXNvTFlmUnNrS1R0Z2V1dV9tU2JJaC1SVXJFdWJ4TWtNRHdVNkNqUlhod0dGby1zZ3ZaazFKbi1QMVM5QmZ5a2R0WjNBc051MGlZT1Y1MVlRa1Zjdk5sN2NyS0tSRmZzNFg3SnRUVmRwU21jMTRDV3E5QUJjTVpDbVM2bUlYdml5a0ZWNGJRNDdLU0hlWjNUY3I2RHVYV0paSFM5c3VxdVFhNnZkbldyX0QyX1VmZUVvV0VaNHFJbmROR3ZBR1Q3TG1JaWxq0gHYAUFVX3lxTFAtWU5MSTBnc0pueEg2cjBHUTlyS2lIZjhzU2VRQ1duVTAycGh3cTg0NW5yTWo1RF8taWs3c25CNFFhZHZRdFdLblUyTDlLWVotX0Q4V0xsY1FEeEJHYWg0SjBnUTFEbERRbDhJSmRZTDJNQ1hCYlQybzdqbjVwQmd5ZHg3TVlmRjRoVTdnNnUtbzBCeEo3QnVod2N6bDZ5SGVlaGlpcXpad21LREJxb0NBUkF6NHhvbUpITDZObHU5ZExDZlhFMTZyQkRyakZfMFpRS1Z0a0g4aw?oc=5
+- Gold recoups from 14-month low, tighter Fed outlook caps gains - Reuters
+  Gold recoups from 14-month
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5
 
-- Anthropic Shares Indicated More Than 20% Higher on Gray Markets - Bloomberg
-  Anthropic Shares Indicated More Than
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDFGNWFPNzlyZllvRnktWk54QndaMUgtTlFmUV9kZHVwWXpJM2Ztc0N5TUJabkFHMjlVTzVmSHpQcndMT2FWQXVlMVBGdExGRlhBYW0xZU1QSlNldjB1ekR3X1NOQVlvVDl5UlVibmdEdnBCUHFTbnFiSXAybUNFRmlJUmo5UUNKZ2I2cnl3ZXMwQkE1SHozcldvYW85cmN1WWFQaDdmRVJtWmZZODRFZG9kbw?oc=5
+- Markets bounce back led by auto, bank stocks; Sensex surges nearly 1,000 pts, Nifty reclaims 25,500 - The Hindu
+  The Sensex surges nearly 1,000 pts, Nifty reclaims 25
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUWx1NDdYSjhqYVFBTkZmN0hPaGk3U1JhemQ2cDFDR0FqTDZvczVDU0ExS0tZZ2o1RTJRR1NMQkdCTzZuSWx3d2cwSzNrUFdrekJWWjh3MDJ6Ym5KMlVkVzEtekdTc2dGOVRKNWdSZGxJcDFlTG1xNkRHUVNsSHNwN1RJa0NCSURpU0NLa3BoTUJEekl1MnhKLUE5MXhNczk2dTFFYkZGbGRlN0FvaWFFMXJjajVmYTBRUkdxeGVaN3FvM3lELTM5Vkh0MHZ3SmFhS2NScUY5WmJ4UC1qODFNa1dCX0R5M0FLeWpiRtIB8wFBVV95cUxNUVdXRUJRY1hOeDNoYnFyOXcxMkNMME50WnJSSlZzU0VFUHlWREVVcUh4LWJUbllYaDJFWkZ3aFpwcUlEM29HbDRkYUsweGxmUVdvQzBGdWMxVHFXZEhkbHJURmltU2Y2U1JqcWgtc3Z1Q0tkSEt3bmhOMWg1dXpxN1FuQWdwajl6YUpTekhyeTc0Q1J6THRkUFVuOUlTMTJWVlBIZnhOSGRxZkgyVS1jaUY4U2lUU1NpQ29uVFhIaUp1ZU50Ym1xa1lLSHhqNjE3c1JTNW9uSDZPd29oR2R4VmJrMldCQXhmekZIeUZvUk5rZ2M?oc=5
 
-- Markets News, Nov. 18, 2026: Dow Plunges 560 Points, S&P 500 Extends Losing Streak as Nvidia Stock Falls After Earnings; Nasdaq Snaps Skid - Investopedia
-  The Dow Jones Industrial Average fell 560 points on Tuesday. The S&P 500 and the Nasdaq
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNSVUxeDdRem5Zb0VyQ01uYl9PZTY1dnJTS2I2dmNSdW5nNG1QN0dLUGJyUkh0dGJvcU5XeHFyYlBsdGQ4eG84ckFlT1pHcDhGNS1rWURPVFJSNnd6TWs3TzllbjZvQ01uUjBYaWZVOEhUcWtFNWdWWl8zLWFrWlVLaUNpSV9ZZE5RVHpxcUlxTnRrOHYwdUszM01B?oc=5
+- Stock Market Close: Sensex rebounds 990 pts, Nifty settles at 25,514; Nifty Bank ends near new high - Business Standard
+  Stock Market Close: Sensex rebounds 990 pts, Nifty settles at 25
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNQ3Fsd0daU2ZpVzNUTVRpM3BPLWhSMlBKX2F5M2F3N0hJcHRnX1lCN2QwMWhkcmlJNjRlUDFtNnl2QktVdjczVnlyWVBOQ0Q2anIydkxSRXlxNkY0aTROQWhlY2p2N2xBeGJSa0hVMlZ6TzFDWVdRLUJra3FPZ2RlTnJlMU5fa2FISjd5SVZkTk5EOWM4VGctaVNoZHRJNzA0YWRWOE1mSmJXZXY3aVFkMWQ5TnlyemNlczNSZG1zd1pKZGVZS1h5VjNuZWUxMnpvMFFnTHlNSV9YUVBkSUx1RHItUF9MSHNFTW1IWktIQjF6aEoyXzNIcmNxRjZ5MTFoUmt6b0tjcktiVnY2M3IyV9IBlgJBVV95cUxQNk5Wb1J1X0swX0JJQ2hFNkttXy10WEt2MEVSSW9nTDE5SkFWSGxHSGF3QTVvZ3YtWUdXa3NCRlVFNUtmV2NCaWxCc0dRekdMbmE2S3pQdXZVZmlvRmROdHAwemIyWTNzRGxTbjB5RTR2Q21RTnlYV0U4OWR6c3Itbm5TZlBpZWppb3dLSGRIV3Q0MHBZTUdoMjFmaTJ5Z3hXRXJQcENhckhRYmNuaGFZSUlEcUVfQ25pMGhLeTNjNFZFMGozblVpSXdaY3dvNWl5ZzJfMkdybkZVZzJnR1gyOWVZc2c3NHkxYXdIWjFJU1M0TUJlTkRTSm9KRWszR21Md2dma0pkV21VcWtKY181WWZDMExnQQ?oc=5
 
-- India bonds hold on to opening gains; moves in crude, Treasuries to stay main trigger
-  Indian government bonds have seen an uptick, supported by international buying activity. US Treasury yields stabilized after recent volatility. Crude oil prices held firm, shaped by global supply and demand trends.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-hold-on-to-opening-gains-moves-in-crude-treasuries-to-stay-main-trigger/articleshow/135978286.cms
+- Markets bounce back: Sensex jumps nearly 1,000 pts, Nifty reclaims 25,500 - Deccan Herald
+  Markets bounce back: Sensex jumps nearly 1
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTG5VZXNZQm5PYWlZUjg4dndSM0twX0hTWFpJaDh2TDF5UER4NlpsXzNyZDJfNkY2RnVQT0xPRXc5cWxHS0szMkc5U0FuSE8xcGtPRjdNd0tDYmxkRDFOOXdtSDk5ekpnbFNjSnRkNW9QczFRREc2N2ViWUVZbkdtWWFfVUdrUk5Xd1Y5UVVDOEo5VDJVaEJ6Ynd0SnRWWmVfdlV6RHNxQkF6eHZXTmluZHJjZ0pCbkl6Z1lxZzVZY0HSAc4BQVVfeXFMUFBRSkZ0cDlvbGFUNzRqWEdZWXh0Nzl3RnZjS1p3VVRRQXpwaWJZVlFBTHhWcmRIMDFpVVc0dG5tX3RTLWt3TUVKTTkzaHRNVnV5NTZtYVNkTU1LYmRDZ2ZKQ1ZlSDBPd0h3bFNncTMyWUpHMThPaU9hVUZiNVQxdVZGejRYV2l0bDU1Z0p1TXNOWk4wNzNNa3JMLUY4Y2dnWlFOZE5sbVZGaWRremxTQ0hnTXlrSDROU2U1Nm0yR1ZlazBleGNNMDNSV21ieXc?oc=5
 
-- Star Health among 3 stocks showing RSI trending up
-  Three Nifty500 stocks that gained over 5% on November 18 featured in StockEdge’s RSI Trending Up scan.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/star-health-among-3-stocks-showing-rsi-trending-up/slideshow/135977535.cms
+- Investors vs Economists: Should Govt Cut LTCG Tax?
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/investors-vs-economists-should-govt-cut-ltcg-tax/videoshow/135993683.cms
 
-- Morgan Stanley is ‘overweight’ on these 9 largecap stocks. How many do you own?
-  Morgan Stanley has given an overweight rating to nine major largecap stocks in India. Several stocks faced downturns over the past year, some others experienced increases. For India to excel on a global scale, earnings growth is vital.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-is-overweight-on-these-9-largecap-stocks-how-many-do-you-own/slideshow/135977398.cms
+- Anthropic IPO Live Updates: S&amp;P 500, Nasdaq rise over 1% at open as Anthropic IPO pricing bolsters AI trade
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms
 
-- Sterlite Technologies among 3 stocks showing White Marubozu pattern
-  Three Nifty500 stocks featured in StockEdge’s White Marubozu
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sterlite-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/135976918.cms
+- India bonds end choppy session little changed as fresh cues on interest rates eyed
+  The benchmark bond yield dropped from the previous day's closing level, reflecting market uncertainties. Expectations of rate hikes from the Reserve Bank of India and the Federal Reserve contributed to investor caution.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-choppy-session-little-changed-as-fresh-cues-on-interest-rates-eyed/articleshow/135991621.cms
 
-- CreditAccess Grameen among 7 stocks closing below VWAP
-  Seven Nifty 500 stocks closed more than 1% below their respective Volume Weighted Average Prices (VWAPs) on November 18. CreditAccess Grameen, Swan Corp, Black Box and Torrent Pharmaceuticals were
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-grameen-among-7-stocks-closing-below-vwap/slideshow/135976841.cms
+- NSE among 5 stocks hitting 52-week highs; stock rallies up to 27% in a month
+  Five BSE 200 stocks, including NSE, GAIL and PNB, hit fresh 52-week highs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-27-in-a-month/slideshow/135991598.cms
 
-- PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in New Delhi - News On AIR
-  PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGxCZDZKMXBPcF91TDdDS29MZkplbmxVRkpvWUJZbjB4NjhkZnJqXzZ4Z1d1azhyaHZLM0VTY1JyM3hpTjJSLW9Ud3RTQkFDS1Z6dnMtN0h4NGVrYWluZ2Rxd2pJUy1BRmdPWGlEUUxtR0tNOVBHUmJnVk1xSlI3OVFpSUxremlnYU9uNHhTWllUWFczZTBuU1l4YjZxVEZtdjRmcnZpdWJKcEtvR09sN25fcXFaVHhFdDNvU1I0ZUxfOU9WMUhMN3had3RpOGlqN3o1VmliNA?oc=5
+- Stock rally keeps rupee upbeat, traders eye exporters for fresh fuel
+  The Indian rupee has surged to its highest value in seven months. A 1% rise in the Nifty 50 index has fostered optimism among traders and analysts alike.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-stock-rally-keeps-rupee-upbeat-traders-eye-exporters-for-fresh-fuel/articleshow/135986825.cms
 
-- "India Playing Whole New Game": PM Modi's GTA-Style Dig At Opposition - NDTV
-  "India Playing Whole New Game": PM Modi
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTVIYUdDUXhRYkVSbXdfbjA1LXhVdzFyT0tqUlZSRi1ETjRVZkZDVEZJT3BsNnlqaTJTYVJZTDNBLUlqVVNYVjhVc0c2czdqZzdWZWJfaTU5eEVSeE4wVV9tZUlPVDB2aWk5QzJLSGhiaXFPNlotTmNieHBmczc4RklCZWhJVzh4TTlCWmVnOXQ1VHpyblVEclROdkcwNWZXTEdCN21KQW81Zw?oc=5
+- India and Japan unequivocally condemn terrorism; call for action against all UN-listed terrorist groups - News On AIR
+  India and Japan unequivocally condemn terrorism; call for action against all UN-
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOZERKVHQ3eF9pMXdMSXJ0OFU2QVgzdzNOclJmOUtKTVFJaWNkVGN1cW4waFEyVmpseUtodWVBNWVsMUc3RFFHaWluc1hLcV9ZRVEtaWdmVnFtZFJXNjZ3ZjNNM2ZLY0ZHeWlGdmtwTzc3RWUta1VxZk02ekNadFRDbk51R1Y1bmN1UEs5RWZMaG4xdG91VkFGX3NLSGVNVi1GdlBlZEhoUkpBdGhQd25VSWgwaVlMeTVlUllJTHM2alBWUDNxemdF?oc=5
 
-- PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties - The Hindu
-  PM Modi meets Prince and Princess of Wales, discusses boosting
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqV2ViRWNJZzdrUlFMZ09FX1BJamwxUms0T0loUXlocXFnM09icDQ3RnB0VTdtVm1uVXp6TFZSdmI2YWRsZkItTVpyWDRTNC1zUi1fUXNiVjJEYlkzZy1xR09FQm1jcVdjMFQ1R2k1c3VIa05HbkpqeGRCTjZMYkdRWTlfRGtDSnJvOFQ4cDRyNlU2N0NyN0JyMWlmMnZ2VlFjMlFDT3JWVzN4SGxLdEJ5QmFxSEttWGdXNktrTEZLVlR3WWNyU0F0bXdvek3SAdYBQVVfeXFMUHNSRkZnZHVfWnZKVEV4dTlYMzlYLVlvWVdfLUs1dVg0Rkl4MEFERm95NjZWcTNNM2VkTEtsclNXWFd6WV9SUXM4MUg2RnBFbThmT3dqcmZYLVplalRRUzJDOEpQb3o1Tk00Rld5aThVUGxpUmRHZlZtZXc3VUljd3hnMjBHRXJ1NTBmYXA1TGZWYlROd05jVmpJSkdsOFJyV0dkRjlIQmYxSE4zeUIzSjdqMS1zVzhMd1lzZ2RRMDNXeWIzanNzYzEzaThjeWdfdl9SbVk2dw?oc=5
+- U.S. court orders delivery of summonses to Doval, Goel through Delhi courts - The Hindu
+  U.S. court orders delivery of summonses to
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWpFRDZOQXpXSHdGMW1pY1BObjU3UkdTTEY5cV9sXzZhbXZ6U1VFWGVJcGJaY1ZiM2RjcTNubFg5blBzb051cFZYV1hVa1VCQlJsWUpRU0RFeTFLVkNDU2NIazFBTk1oVnpwOVFQRlMwWG04YjVyTEs4SFV1aGtEN0JpRXJaM0VJQXp2eFBxT2N2N3VFV1VTcklTeGhKdWNySEtoOTZ3aE1DUm9jU1ltVUVkaHN2RlpwcTR0by1kS29Xdl9tU2NydmhuQ0VKTkZXaEHSAdgBQVVfeXFMTWotNDJNa0g5d2xoX19wbEpYSk9kbkYycnEwei1JamNjNlRSN0xKWjg3cG55eUQtbjdHbjlJM0luM0Q0ZUpxYVFMN1JTSEJzc1d1dTRQWjBuWTFaU3ZWZ0plZVZoczlyUG51U3FpQnBPTExaakVTNWxrMk44MHo0cVNoYnFyUzB4OW5NZ3NNSDNjVE52R3l5bUM0bjR0eXlmLWZ6Sl94WnFkR1NqTTUwNjRiNFVsV2RoQVd5TlAyRlR2Wm5DaVlRVTFNUmw2Uy1zMmlYM3N1MlJL?oc=5
 
-- UP BJP Leader's Son Dies As Bulldozer Hits Him During Akhilesh Yadav's Rally - NDTV
-  UP BJP Leader's Son Dies As Bulldozer
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdk1ucDNjUTdMcFl4cVFQRjNiNXRYRGJfYXg3WXZqbXZIaTUtWkZjNnNrb3RVUDQ2UEk1dEcwMzJiaEVELXFzZHI3YzNISUhPZDRZaUVRUmtmY212UzBTd3BwUHh6M1l0MHVxOEZxX1EtTkdKaHBMQzlFUmZTem1NRHRpWTZSSGZNVjRXVVlUdG1tclBpd0Vtd1I4dk5la2ZZZGpFTGRoUzdxeFRxNVlSTFYxc0ZmRkZBcjBFWURxZ0dVdW95OG15NFV3MW1wZ2s4OFZ1cmJjeEhxb0JTNWJJcmxpN2VmMmxpRUE?oc=5
+- Can China Build Its AI Future Without Nvidia? Opportunity For India As US Tightens Chip Curbs - NDTV
+  .com: Can China Build Its AI Future Without Nvidia?
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEhneFVQRjJBR3BqVGk5T2xqdjB4TmFfd2pxSVBvSU5vQnBhUlltdkRHYkU5NC11a2R6RGdUMjdEUm1VdVlBcGgxaktkUlUycG8tUDZnUnAtdVBSd1hLb09GdTdiT3JTb2pvRVpTTFFhVWtDbHpRcWtjaDNlYmFSRl9pQ25NemxTbExOQzFKN3RpZDhTVWI1Ym9PT2pCNkRiYkxOcUgxemxqVFd1aUxlRE5mUGZKcWN6dTVuSDhyckQtY0h0NTA5eXRPdTYxUdIB1gFBVV95cUxNTUhsT3JDMlJGVnpqQXZuZ0dJMGlRaU1OX2g2M0pIek54cE5OV1ctWjJSZXJCNnR5cXVMeWhGVzFRdVFFS0luVkVvVTlLdkdNZzFoTGtCcjFSd1UxcWpUU2R0bkgxUHFEb1VSODFaeDFQMUpiQWIzVkZIeFFEMXlFa3laeW1UT2FIcmpaVjh6eXRxYUV5VjZFNE9tSUw5S1A0Vm9PRi00US11LU4xSlBWcy03WmpQVXFaeHRibHFHb09OOUNtS3lSYTZPZ3JwYTltWFg2MWJn?oc=5
 
-- CJI averts 'potential religious row', pulls cases from SC judge - The Times of India
-  CJI averts 'potential religious row',
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkJGUkd6TUo1Si1ZbE1lNFZPak03TXVaU1dReUk1N3k4TEVBbWprdFdDel9OUnRQVUtwc1lpclNUMXA2SWpWeUdyYmpDREJTUGVFVXhhUHdMNG8zcUVCVFBKeS1JazRQNjhfdVhoN2F2NTRjTWxCZ3NVYlJaUXlPXzVVc18wd2JyN01sWFhTR2VnWWo2cEFabjVlWkFhNkMxc3JaM1lBTy1sZWZ1ZTQtODR6Z0hwdjRsdi1Wdll3MzM0WkI5YnJz0gHMAUFVX3lxTE5tVDdNdWFuSnJDendlc0hFYXM0c3VZY3YtRkFmazl2MUdVU01RTmRibzZ2MDlYbjg1eXhKVlZnV1ZjT1N3MVVJcWJxOVNka29tQUZMS2pDVmVDbEhpZkFzWm5MUW93YjZlejk1V3FTeHFHMDBMS2tXU3c5aGZDOWQ5VHVydTNIbXp4dXZiSWg1aUZadTVuQzQ4OFVfSWZOUUxQX3pvb3NDT0wtWVc2UW1CU3pyZmUxZVdKU3VmWWkyUVhMa3ViZmRfY2JuNg?oc=5
+- Pew survey: What India's changing Hindu and Muslim populations tell us - BBC
+  Pew survey: What India's changing Hindu
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NLU1sQXIyMEZQbTZtQWdlQTk4aWZsYjN3bElRNTMwWjJMLTVlbXRVUVJfLUFyWWdMZHhaaUZSZU5FSVlZSDlNTzdibkFxN3I5T2pKTEFqSzFvLTQ?oc=5
 
-- Humyn Labs’ $47 Mn Round, From Blinkit To Vice City & More
-  Humyn Labs is capitalising on the physical AI gold rush. The startup has raised $47 million in funding.
-  🔗 https://inc42.com/buzz/humyn-labs-47-mn-round-from-blinkit-to-vice-city-more/
+- Record! Yuzvendra Chahal becomes first Indian bowler to cross historic milestone - The Times of India
+  Yuzvendra Chahal becomes first Indian bowler
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDBMdlp5V1k1SlZpd2dsUTI0Sm1IN0lxYmNmVXl6VElVeW9yTlhsNnhoT2lDVFRZaTI5NDR1U2ZWbnpzZW5QajFjNUgxWG9qaEpfSnJQTy1aNFdNOUhkRjFTOTdLajZpcXY0bWwzLTZoQ1U3TDVUYWtPTXdhY3cxZlpPMHgzbGlTTUdzeUJaNmwzZmtma0FpdWR4Q3dpcDdBdWhhS1hiOW5SbWxtMFNMMUt0c0ttM2owM2lySzJKN2JMTGdaeWZCbDNxRjhicUVHVGFBS280c3UyZGJhaWZRQ3dQTkdNZVVuU05zT20zenFYNG_SAfgBQVVfeXFMTzNkTzdhZHB0R1pRU3dhd3FtS3pSOEV6TkpCWENVTFQ5YmFoQnR0RmVGVl9kakRjTTM3WHJnc24taDNwRkpQWmd1ak9faEl2U2ZCSVh6ZHJwMzN0R3R5MXZXQVRwRF9nV2xKYl9hS2x4b1lwd1VVV0dSc1lGeFpvZTBfZ1kzX1h2Vkp5OWJxeGJfTGZyd0Vjc2tmMXNjc1BOVWZNRzJuUTl4dlMzOG9jUktUUVBUY1JCeU9OeVFya01fcy1aUnlMd2l5dGNXczh0U2N6S2xURkE2NG51eUpWZ2RISUs0OW1UanpCWW9jNjc2MkxYWUtmems?oc=5
 
-- Mufin Green Finance To Acquire 23% Stake In BimaPay For ₹66 Cr
-  Listed non-banking financial company (NBFC) Mufin Green Finance’s board has approved the acquisition of a 23
-  🔗 https://inc42.com/buzz/mufin-green-finance-to-acquire-23-stake-in-bimapay-for-%e2%82%b966-cr/
+- NEPRA Raises ₹110 Cr To Expand Plastic Recycling Capacity
+  Ahmedabad-based waste management startup NEPRA has raised ₹110 Cr (about $11.7 Mn) in an equity funding round.
+  🔗 https://inc42.com/buzz/nepra-raises-%e2%82%b9110-cr-to-expand-plastic-recycling-capacity/
 
-- PW To Set Up Digital University To Offer UG & PG Courses
-  PhysicsWallah (PW) has now said that it is establishing a “greenfield digital” university.
-  🔗 https://inc42.com/buzz/pw-to-set-up-digital-university-to-offer-ug-pg-courses/
+- InPrime Finserv Raises ₹101 Cr To Expand Lending, Enter Micro-Mortgages
+  Bengaluru-based NBFC InPrime Finserv has raised ₹101 Cr (about $10.7 Mn) in a Series B
+  🔗 https://inc42.com/buzz/inprime-finserv-raises-%e2%82%b9101-cr-to-expand-lending-enter-micro-mortgages/
 
-- Omnichannel Fashion Brand Style Union Bags ₹485 Cr To Expand Store Network
-  Omnichannel fast fashion brand Style Union’s parent Nexon Omniverse Ltd has raised ₹485 Cr (nearly
-  🔗 https://inc42.com/buzz/omnichannel-fashion-brand-style-union-bags-%e2%82%b9485-cr-to-expand-store-network/
+- Nitin Gadkari Urges States To Adopt Aggregator Guidelines Amid Bike Taxi Crackdowns
+  Union minister for road transport and highways Nitin Gadkari has urged states to adopt the Motor Vehicle Aggregator Guidelines.
+  🔗 https://inc42.com/buzz/nitin-gadkari-urges-states-to-adopt-aggregator-guidelines-amid-bike-taxi-crackdowns/
 
-- Boba Bhai Bags $18 Mn To Build A Multi-Brand QSR Chain
-  Quick service restaurant (QSR) chain Boba Bhai has raised $18 Mn (about ₹168 Cr) in its Series
-  🔗 https://inc42.com/buzz/boba-bhai-bags-18-mn-to-build-a-multi-brand-qsr-chain/
+- August AI Raises $12 Mn To Expand AI Healthcare Assistant In The US
+  AI healthtech startup August AI has raised $12 Mn from Accel, Peak XV Partners, and Claypond Capital to expand its service.
+  🔗 https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/
 
-- PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in New Delhi - News On AIR
-  PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGxCZDZKMXBPcF91TDdDS29MZkplbmxVRkpvWUJZbjB4NjhkZnJqXzZ4Z1d1azhyaHZLM0VTY1JyM3hpTjJSLW9Ud3RTQkFDS1Z6dnMtN0h4NGVrYWluZ2Rxd2pJUy1BRmdPWGlEUUxtR0tNOVBHUmJnVk1xSlI3OVFpSUxremlnYU9uNHhTWllUWFczZTBuU1l4YjZxVEZtdjRmcnZpdWJKcEtvR09sN25fcXFaVHhFdDNvU1I0ZUxfOU9WMUhMN3had3RpOGlqN3o1VmliNA?oc=5
+- UPI MDR Rollout May Be Pushed Beyond 2027 State Polls: Report
+  The introduction of a merchant discount rate (MDR) on select UPI transactions could be delayed until after the 2027 state.
+  🔗 https://inc42.com/buzz/upi-mdr-rollout-may-be-pushed-beyond-2027-state-polls-report/
 
-- "India Playing Whole New Game": PM Modi's GTA-Style Dig At Opposition - NDTV
-  "India Playing Whole New Game": PM Modi
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTVIYUdDUXhRYkVSbXdfbjA1LXhVdzFyT0tqUlZSRi1ETjRVZkZDVEZJT3BsNnlqaTJTYVJZTDNBLUlqVVNYVjhVc0c2czdqZzdWZWJfaTU5eEVSeE4wVV9tZUlPVDB2aWk5QzJLSGhiaXFPNlotTmNieHBmczc4RklCZWhJVzh4TTlCWmVnOXQ1VHpyblVEclROdkcwNWZXTEdCN21KQW81Zw?oc=5
+- India and Japan unequivocally condemn terrorism; call for action against all UN-listed terrorist groups - News On AIR
+  India and Japan unequivocally condemn terrorism; call for action against all UN-
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOZERKVHQ3eF9pMXdMSXJ0OFU2QVgzdzNOclJmOUtKTVFJaWNkVGN1cW4waFEyVmpseUtodWVBNWVsMUc3RFFHaWluc1hLcV9ZRVEtaWdmVnFtZFJXNjZ3ZjNNM2ZLY0ZHeWlGdmtwTzc3RWUta1VxZk02ekNadFRDbk51R1Y1bmN1UEs5RWZMaG4xdG91VkFGX3NLSGVNVi1GdlBlZEhoUkpBdGhQd25VSWgwaVlMeTVlUllJTHM2alBWUDNxemdF?oc=5
 
-- PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties - The Hindu
-  PM Modi meets Prince and Princess of Wales, discusses boosting
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqV2ViRWNJZzdrUlFMZ09FX1BJamwxUms0T0loUXlocXFnM09icDQ3RnB0VTdtVm1uVXp6TFZSdmI2YWRsZkItTVpyWDRTNC1zUi1fUXNiVjJEYlkzZy1xR09FQm1jcVdjMFQ1R2k1c3VIa05HbkpqeGRCTjZMYkdRWTlfRGtDSnJvOFQ4cDRyNlU2N0NyN0JyMWlmMnZ2VlFjMlFDT3JWVzN4SGxLdEJ5QmFxSEttWGdXNktrTEZLVlR3WWNyU0F0bXdvek3SAdYBQVVfeXFMUHNSRkZnZHVfWnZKVEV4dTlYMzlYLVlvWVdfLUs1dVg0Rkl4MEFERm95NjZWcTNNM2VkTEtsclNXWFd6WV9SUXM4MUg2RnBFbThmT3dqcmZYLVplalRRUzJDOEpQb3o1Tk00Rld5aThVUGxpUmRHZlZtZXc3VUljd3hnMjBHRXJ1NTBmYXA1TGZWYlROd05jVmpJSkdsOFJyV0dkRjlIQmYxSE4zeUIzSjdqMS1zVzhMd1lzZ2RRMDNXeWIzanNzYzEzaThjeWdfdl9SbVk2dw?oc=5
+- U.S. court orders delivery of summonses to Doval, Goel through Delhi courts - The Hindu
+  U.S. court orders delivery of summonses to
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWpFRDZOQXpXSHdGMW1pY1BObjU3UkdTTEY5cV9sXzZhbXZ6U1VFWGVJcGJaY1ZiM2RjcTNubFg5blBzb051cFZYV1hVa1VCQlJsWUpRU0RFeTFLVkNDU2NIazFBTk1oVnpwOVFQRlMwWG04YjVyTEs4SFV1aGtEN0JpRXJaM0VJQXp2eFBxT2N2N3VFV1VTcklTeGhKdWNySEtoOTZ3aE1DUm9jU1ltVUVkaHN2RlpwcTR0by1kS29Xdl9tU2NydmhuQ0VKTkZXaEHSAdgBQVVfeXFMTWotNDJNa0g5d2xoX19wbEpYSk9kbkYycnEwei1JamNjNlRSN0xKWjg3cG55eUQtbjdHbjlJM0luM0Q0ZUpxYVFMN1JTSEJzc1d1dTRQWjBuWTFaU3ZWZ0plZVZoczlyUG51U3FpQnBPTExaakVTNWxrMk44MHo0cVNoYnFyUzB4OW5NZ3NNSDNjVE52R3l5bUM0bjR0eXlmLWZ6Sl94WnFkR1NqTTUwNjRiNFVsV2RoQVd5TlAyRlR2Wm5DaVlRVTFNUmw2Uy1zMmlYM3N1MlJL?oc=5
 
-- UP BJP Leader's Son Dies As Bulldozer Hits Him During Akhilesh Yadav's Rally - NDTV
-  UP BJP Leader's Son Dies As Bulldozer
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdk1ucDNjUTdMcFl4cVFQRjNiNXRYRGJfYXg3WXZqbXZIaTUtWkZjNnNrb3RVUDQ2UEk1dEcwMzJiaEVELXFzZHI3YzNISUhPZDRZaUVRUmtmY212UzBTd3BwUHh6M1l0MHVxOEZxX1EtTkdKaHBMQzlFUmZTem1NRHRpWTZSSGZNVjRXVVlUdG1tclBpd0Vtd1I4dk5la2ZZZGpFTGRoUzdxeFRxNVlSTFYxc0ZmRkZBcjBFWURxZ0dVdW95OG15NFV3MW1wZ2s4OFZ1cmJjeEhxb0JTNWJJcmxpN2VmMmxpRUE?oc=5
+- Can China Build Its AI Future Without Nvidia? Opportunity For India As US Tightens Chip Curbs - NDTV
+  .com: Can China Build Its AI Future Without Nvidia?
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEhneFVQRjJBR3BqVGk5T2xqdjB4TmFfd2pxSVBvSU5vQnBhUlltdkRHYkU5NC11a2R6RGdUMjdEUm1VdVlBcGgxaktkUlUycG8tUDZnUnAtdVBSd1hLb09GdTdiT3JTb2pvRVpTTFFhVWtDbHpRcWtjaDNlYmFSRl9pQ25NemxTbExOQzFKN3RpZDhTVWI1Ym9PT2pCNkRiYkxOcUgxemxqVFd1aUxlRE5mUGZKcWN6dTVuSDhyckQtY0h0NTA5eXRPdTYxUdIB1gFBVV95cUxNTUhsT3JDMlJGVnpqQXZuZ0dJMGlRaU1OX2g2M0pIek54cE5OV1ctWjJSZXJCNnR5cXVMeWhGVzFRdVFFS0luVkVvVTlLdkdNZzFoTGtCcjFSd1UxcWpUU2R0bkgxUHFEb1VSODFaeDFQMUpiQWIzVkZIeFFEMXlFa3laeW1UT2FIcmpaVjh6eXRxYUV5VjZFNE9tSUw5S1A0Vm9PRi00US11LU4xSlBWcy03WmpQVXFaeHRibHFHb09OOUNtS3lSYTZPZ3JwYTltWFg2MWJn?oc=5
 
-- CJI averts 'potential religious row', pulls cases from SC judge - The Times of India
-  CJI averts 'potential religious row',
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkJGUkd6TUo1Si1ZbE1lNFZPak03TXVaU1dReUk1N3k4TEVBbWprdFdDel9OUnRQVUtwc1lpclNUMXA2SWpWeUdyYmpDREJTUGVFVXhhUHdMNG8zcUVCVFBKeS1JazRQNjhfdVhoN2F2NTRjTWxCZ3NVYlJaUXlPXzVVc18wd2JyN01sWFhTR2VnWWo2cEFabjVlWkFhNkMxc3JaM1lBTy1sZWZ1ZTQtODR6Z0hwdjRsdi1Wdll3MzM0WkI5YnJz0gHMAUFVX3lxTE5tVDdNdWFuSnJDendlc0hFYXM0c3VZY3YtRkFmazl2MUdVU01RTmRibzZ2MDlYbjg1eXhKVlZnV1ZjT1N3MVVJcWJxOVNka29tQUZMS2pDVmVDbEhpZkFzWm5MUW93YjZlejk1V3FTeHFHMDBMS2tXU3c5aGZDOWQ5VHVydTNIbXp4dXZiSWg1aUZadTVuQzQ4OFVfSWZOUUxQX3pvb3NDT0wtWVc2UW1CU3pyZmUxZVdKU3VmWWkyUVhMa3ViZmRfY2JuNg?oc=5
+- Pew survey: What India's changing Hindu and Muslim populations tell us - BBC
+  Pew survey: What India's changing Hindu
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NLU1sQXIyMEZQbTZtQWdlQTk4aWZsYjN3bElRNTMwWjJMLTVlbXRVUVJfLUFyWWdMZHhaaUZSZU5FSVlZSDlNTzdibkFxN3I5T2pKTEFqSzFvLTQ?oc=5
 
-- PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in New Delhi - News On AIR
-  PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGxCZDZKMXBPcF91TDdDS29MZkplbmxVRkpvWUJZbjB4NjhkZnJqXzZ4Z1d1azhyaHZLM0VTY1JyM3hpTjJSLW9Ud3RTQkFDS1Z6dnMtN0h4NGVrYWluZ2Rxd2pJUy1BRmdPWGlEUUxtR0tNOVBHUmJnVk1xSlI3OVFpSUxremlnYU9uNHhTWllUWFczZTBuU1l4YjZxVEZtdjRmcnZpdWJKcEtvR09sN25fcXFaVHhFdDNvU1I0ZUxfOU9WMUhMN3had3RpOGlqN3o1VmliNA?oc=5
+- Record! Yuzvendra Chahal becomes first Indian bowler to cross historic milestone - The Times of India
+  Yuzvendra Chahal becomes first Indian bowler
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDBMdlp5V1k1SlZpd2dsUTI0Sm1IN0lxYmNmVXl6VElVeW9yTlhsNnhoT2lDVFRZaTI5NDR1U2ZWbnpzZW5QajFjNUgxWG9qaEpfSnJQTy1aNFdNOUhkRjFTOTdLajZpcXY0bWwzLTZoQ1U3TDVUYWtPTXdhY3cxZlpPMHgzbGlTTUdzeUJaNmwzZmtma0FpdWR4Q3dpcDdBdWhhS1hiOW5SbWxtMFNMMUt0c0ttM2owM2lySzJKN2JMTGdaeWZCbDNxRjhicUVHVGFBS280c3UyZGJhaWZRQ3dQTkdNZVVuU05zT20zenFYNG_SAfgBQVVfeXFMTzNkTzdhZHB0R1pRU3dhd3FtS3pSOEV6TkpCWENVTFQ5YmFoQnR0RmVGVl9kakRjTTM3WHJnc24taDNwRkpQWmd1ak9faEl2U2ZCSVh6ZHJwMzN0R3R5MXZXQVRwRF9nV2xKYl9hS2x4b1lwd1VVV0dSc1lGeFpvZTBfZ1kzX1h2Vkp5OWJxeGJfTGZyd0Vjc2tmMXNjc1BOVWZNRzJuUTl4dlMzOG9jUktUUVBUY1JCeU9OeVFya01fcy1aUnlMd2l5dGNXczh0U2N6S2xURkE2NG51eUpWZ2RISUs0OW1UanpCWW9jNjc2MkxYWUtmems?oc=5
 
-- "India Playing Whole New Game": PM Modi's GTA-Style Dig At Opposition - NDTV
-  "India Playing Whole New Game": PM Modi
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTVIYUdDUXhRYkVSbXdfbjA1LXhVdzFyT0tqUlZSRi1ETjRVZkZDVEZJT3BsNnlqaTJTYVJZTDNBLUlqVVNYVjhVc0c2czdqZzdWZWJfaTU5eEVSeE4wVV9tZUlPVDB2aWk5QzJLSGhiaXFPNlotTmNieHBmczc4RklCZWhJVzh4TTlCWmVnOXQ1VHpyblVEclROdkcwNWZXTEdCN21KQW81Zw?oc=5
+- India and Japan unequivocally condemn terrorism; call for action against all UN-listed terrorist groups - News On AIR
+  India and Japan unequivocally condemn terrorism; call for action against all UN-
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOZERKVHQ3eF9pMXdMSXJ0OFU2QVgzdzNOclJmOUtKTVFJaWNkVGN1cW4waFEyVmpseUtodWVBNWVsMUc3RFFHaWluc1hLcV9ZRVEtaWdmVnFtZFJXNjZ3ZjNNM2ZLY0ZHeWlGdmtwTzc3RWUta1VxZk02ekNadFRDbk51R1Y1bmN1UEs5RWZMaG4xdG91VkFGX3NLSGVNVi1GdlBlZEhoUkpBdGhQd25VSWgwaVlMeTVlUllJTHM2alBWUDNxemdF?oc=5
 
-- PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties - The Hindu
-  PM Modi meets Prince and Princess of Wales, discusses boosting
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqV2ViRWNJZzdrUlFMZ09FX1BJamwxUms0T0loUXlocXFnM09icDQ3RnB0VTdtVm1uVXp6TFZSdmI2YWRsZkItTVpyWDRTNC1zUi1fUXNiVjJEYlkzZy1xR09FQm1jcVdjMFQ1R2k1c3VIa05HbkpqeGRCTjZMYkdRWTlfRGtDSnJvOFQ4cDRyNlU2N0NyN0JyMWlmMnZ2VlFjMlFDT3JWVzN4SGxLdEJ5QmFxSEttWGdXNktrTEZLVlR3WWNyU0F0bXdvek3SAdYBQVVfeXFMUHNSRkZnZHVfWnZKVEV4dTlYMzlYLVlvWVdfLUs1dVg0Rkl4MEFERm95NjZWcTNNM2VkTEtsclNXWFd6WV9SUXM4MUg2RnBFbThmT3dqcmZYLVplalRRUzJDOEpQb3o1Tk00Rld5aThVUGxpUmRHZlZtZXc3VUljd3hnMjBHRXJ1NTBmYXA1TGZWYlROd05jVmpJSkdsOFJyV0dkRjlIQmYxSE4zeUIzSjdqMS1zVzhMd1lzZ2RRMDNXeWIzanNzYzEzaThjeWdfdl9SbVk2dw?oc=5
+- U.S. court orders delivery of summonses to Doval, Goel through Delhi courts - The Hindu
+  U.S. court orders delivery of summonses to
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWpFRDZOQXpXSHdGMW1pY1BObjU3UkdTTEY5cV9sXzZhbXZ6U1VFWGVJcGJaY1ZiM2RjcTNubFg5blBzb051cFZYV1hVa1VCQlJsWUpRU0RFeTFLVkNDU2NIazFBTk1oVnpwOVFQRlMwWG04YjVyTEs4SFV1aGtEN0JpRXJaM0VJQXp2eFBxT2N2N3VFV1VTcklTeGhKdWNySEtoOTZ3aE1DUm9jU1ltVUVkaHN2RlpwcTR0by1kS29Xdl9tU2NydmhuQ0VKTkZXaEHSAdgBQVVfeXFMTWotNDJNa0g5d2xoX19wbEpYSk9kbkYycnEwei1JamNjNlRSN0xKWjg3cG55eUQtbjdHbjlJM0luM0Q0ZUpxYVFMN1JTSEJzc1d1dTRQWjBuWTFaU3ZWZ0plZVZoczlyUG51U3FpQnBPTExaakVTNWxrMk44MHo0cVNoYnFyUzB4OW5NZ3NNSDNjVE52R3l5bUM0bjR0eXlmLWZ6Sl94WnFkR1NqTTUwNjRiNFVsV2RoQVd5TlAyRlR2Wm5DaVlRVTFNUmw2Uy1zMmlYM3N1MlJL?oc=5
 
-- UP BJP Leader's Son Dies As Bulldozer Hits Him During Akhilesh Yadav's Rally - NDTV
-  UP BJP Leader's Son Dies As Bulldozer
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdk1ucDNjUTdMcFl4cVFQRjNiNXRYRGJfYXg3WXZqbXZIaTUtWkZjNnNrb3RVUDQ2UEk1dEcwMzJiaEVELXFzZHI3YzNISUhPZDRZaUVRUmtmY212UzBTd3BwUHh6M1l0MHVxOEZxX1EtTkdKaHBMQzlFUmZTem1NRHRpWTZSSGZNVjRXVVlUdG1tclBpd0Vtd1I4dk5la2ZZZGpFTGRoUzdxeFRxNVlSTFYxc0ZmRkZBcjBFWURxZ0dVdW95OG15NFV3MW1wZ2s4OFZ1cmJjeEhxb0JTNWJJcmxpN2VmMmxpRUE?oc=5
+- Can China Build Its AI Future Without Nvidia? Opportunity For India As US Tightens Chip Curbs - NDTV
+  .com: Can China Build Its AI Future Without Nvidia?
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEhneFVQRjJBR3BqVGk5T2xqdjB4TmFfd2pxSVBvSU5vQnBhUlltdkRHYkU5NC11a2R6RGdUMjdEUm1VdVlBcGgxaktkUlUycG8tUDZnUnAtdVBSd1hLb09GdTdiT3JTb2pvRVpTTFFhVWtDbHpRcWtjaDNlYmFSRl9pQ25NemxTbExOQzFKN3RpZDhTVWI1Ym9PT2pCNkRiYkxOcUgxemxqVFd1aUxlRE5mUGZKcWN6dTVuSDhyckQtY0h0NTA5eXRPdTYxUdIB1gFBVV95cUxNTUhsT3JDMlJGVnpqQXZuZ0dJMGlRaU1OX2g2M0pIek54cE5OV1ctWjJSZXJCNnR5cXVMeWhGVzFRdVFFS0luVkVvVTlLdkdNZzFoTGtCcjFSd1UxcWpUU2R0bkgxUHFEb1VSODFaeDFQMUpiQWIzVkZIeFFEMXlFa3laeW1UT2FIcmpaVjh6eXRxYUV5VjZFNE9tSUw5S1A0Vm9PRi00US11LU4xSlBWcy03WmpQVXFaeHRibHFHb09OOUNtS3lSYTZPZ3JwYTltWFg2MWJn?oc=5
 
-- CJI averts 'potential religious row', pulls cases from SC judge - The Times of India
-  CJI averts 'potential religious row',
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkJGUkd6TUo1Si1ZbE1lNFZPak03TXVaU1dReUk1N3k4TEVBbWprdFdDel9OUnRQVUtwc1lpclNUMXA2SWpWeUdyYmpDREJTUGVFVXhhUHdMNG8zcUVCVFBKeS1JazRQNjhfdVhoN2F2NTRjTWxCZ3NVYlJaUXlPXzVVc18wd2JyN01sWFhTR2VnWWo2cEFabjVlWkFhNkMxc3JaM1lBTy1sZWZ1ZTQtODR6Z0hwdjRsdi1Wdll3MzM0WkI5YnJz0gHMAUFVX3lxTE5tVDdNdWFuSnJDendlc0hFYXM0c3VZY3YtRkFmazl2MUdVU01RTmRibzZ2MDlYbjg1eXhKVlZnV1ZjT1N3MVVJcWJxOVNka29tQUZMS2pDVmVDbEhpZkFzWm5MUW93YjZlejk1V3FTeHFHMDBMS2tXU3c5aGZDOWQ5VHVydTNIbXp4dXZiSWg1aUZadTVuQzQ4OFVfSWZOUUxQX3pvb3NDT0wtWVc2UW1CU3pyZmUxZVdKU3VmWWkyUVhMa3ViZmRfY2JuNg?oc=5
+- Pew survey: What India's changing Hindu and Muslim populations tell us - BBC
+  Pew survey: What India's changing Hindu
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NLU1sQXIyMEZQbTZtQWdlQTk4aWZsYjN3bElRNTMwWjJMLTVlbXRVUVJfLUFyWWdMZHhaaUZSZU5FSVlZSDlNTzdibkFxN3I5T2pKTEFqSzFvLTQ?oc=5
+
+- Record! Yuzvendra Chahal becomes first Indian bowler to cross historic milestone - The Times of India
+  Yuzvendra Chahal becomes first Indian bowler
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDBMdlp5V1k1SlZpd2dsUTI0Sm1IN0lxYmNmVXl6VElVeW9yTlhsNnhoT2lDVFRZaTI5NDR1U2ZWbnpzZW5QajFjNUgxWG9qaEpfSnJQTy1aNFdNOUhkRjFTOTdLajZpcXY0bWwzLTZoQ1U3TDVUYWtPTXdhY3cxZlpPMHgzbGlTTUdzeUJaNmwzZmtma0FpdWR4Q3dpcDdBdWhhS1hiOW5SbWxtMFNMMUt0c0ttM2owM2lySzJKN2JMTGdaeWZCbDNxRjhicUVHVGFBS280c3UyZGJhaWZRQ3dQTkdNZVVuU05zT20zenFYNG_SAfgBQVVfeXFMTzNkTzdhZHB0R1pRU3dhd3FtS3pSOEV6TkpCWENVTFQ5YmFoQnR0RmVGVl9kakRjTTM3WHJnc24taDNwRkpQWmd1ak9faEl2U2ZCSVh6ZHJwMzN0R3R5MXZXQVRwRF9nV2xKYl9hS2x4b1lwd1VVV0dSc1lGeFpvZTBfZ1kzX1h2Vkp5OWJxeGJfTGZyd0Vjc2tmMXNjc1BOVWZNRzJuUTl4dlMzOG9jUktUUVBUY1JCeU9OeVFya01fcy1aUnlMd2l5dGNXczh0U2N6S2xURkE2NG51eUpWZ2RISUs0OW1UanpCWW9jNjc2MkxYWUtmems?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -200,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Young founders hold key to India’s elusive shift from IT services to products, say industry leaders - The Hindu
-  Young founders hold key to India’s elusive shift from IT services to
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY3hvcW84U01QOHExOUswQWVXNTBUdHRhcHNVclByTnRNNl83NFRXbmlOaHZWdnR0bTlDYlJ0dFRJTndfSWhjeXVSc1VHTVNmS3Y5bVVLRURZa2haZEFwVlZjVzFlcF9LR1Z6UDVJVWRDcGl5VFM4Tl9iblE1OHZ3MlBXQVA1d014NzFWTlNpOEc1QlNWMm1EUGFoV19YR25YbFgwREE4LTdLM1o2YXBKUXJ1TkxEWHdkQ21wQ3VId2w3VndIeWV5MzJNbGpsdkZQRFFWRXJjbkpFajVRYnppY3B0X0JPM0tMWGs3ZWhIRGVtbVQx0gH7AUFVX3lxTE53NFQxcmhnazVzUHFZX2JlYmRCam9GSXBIalFfSjl1YmktX3lOaXlGVzgtMW92ZXJpWmJOOEttZFFWNlZ1RnR1NUNVLWI3M1hGWWVWUWxXMENERUp2d25VdzRRcFlKbG1nRFo0SC10VE5ZZlVfRy00SG9WYXFaSk45eHEzcUFaVEVqT0Q3bUE2VXNDQmZiQmsxYzJLSVF6cmpjVlpDQUoxTVNLdkE0enJhNTc5VXZCcldLVEo4M2lKYjlzZ2VvZDhqYzhpVjdKS1JROV9SSUJpNkZ5aUNTMHBWb3ZYMko1VXdTUWxJN2swTy1jX1VESU56VnQ0?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- How Nvidia Chips Ended Up Within Reach of China’s Military - The New York Times
-  How Nvidia Chips Ended Up Within Reach of China’
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVc5N1B2V0VEaE01RDFyU3NaYTNiV3pmb2dqRDVMMWpjenVCbGUwNTh6aHhKX3hLNnBEU3dFZWxFU3I2SkJqQUVEUC1TY0IzNkNnRHc5OUU3SEY3R0RGRFE5M0UwOThfQktjVHgtSUhyeW9XNjJlQm1qdnFMcGtJNVBLNzZtX00?oc=5
-
-- Ford ships first battery cells using CATL technology - Reuters
-  Ford ships first battery cells using
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5
-
-- AI found more critical bugs in another widely used technology running 225M websites - The Register
-  AI found more critical bugs in another widely used technology running 225
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbG9ESDRJWlNQZmowQXhud2FJMlkyN1NzQ1F0UHRlSUZEVXZxelZzdHVYdDUzMWNqOHJkZUlyV0hxNkNCTV9wVGp5N3FBVWRXQ01BTkgyUEw0Wm9WVVFSaFR2UW4waDFKb2RVa2pPTFNUOXNPb2NJQ2dqbTFyQlphdFdSNm1WSDNCZ1hjNkloZWhJUEJUQXJ2YUZpbHZCdlBDQXExY191aVNwdk5SMW1MbmtqcHZHRDhvMFVzNnpOTDFnWGJLajl5cjdQUlR0VGltbFgxQkJB?oc=5
-
-- Tata Group draws interest from Honda, Hyundai for vehicle and technology sharing - Autocar India
-  Tata Group draws interest from Honda, Hyundai for vehicle
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdE8xRVd5bnRFay1yY21ib2RwZTVxbDV5UVpVSHNIS2w2bG9UTmJPS0JkQ0tfQlZCTmUzTDZSb1J2bEd6SXJqby1sOW44YS13MkF4Nmt2VWUzS25XRjZtWTZMdVlnSlhrR1hFcFFKNnpmZGpjYWVPVzBZcjBRTUFsZlJuVUhwV1J1NG5NbjZ3UW1DcTBIbzFtY1dnNl85NnlyWXl2QlRfQUJKTU53S2EtZWdZM2RjOVhPb1lqOXB4TkRaQdIBxwFBVV95cUxPQXpTYVFzZk5FcTJVT19SWm1JNkJ1M3ZpamREckVGN1JSTHE4M3J0WW1zVVZfSzVTckVUdGRqSGNVOTJwU0NQMDAtVTNSTnlRMER6Ykx2ZDVsZ0c2V29BcWVnUS1GUkpiZm5ZOTJOdTdNakhKYzRkVEVWVDg0aFJPbTU1WTZleHdTMl84bG5UWWtjbmhQVzF3TUdnUEpzOFNmaGVHMVZqSkZrb2N4ZUFfN05kUU9rNUNxelYxaE9wbGxjYl9uRjQ0?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-19 05:36:06 UTC_
+_Last updated: 2026-11-19 15:08:15 UTC_
