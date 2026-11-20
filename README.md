@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- India and Japan unequivocally condemn terrorism; call for action against all UN-listed terrorist groups - News On AIR
-  India and Japan unequivocally condemn terrorism; call for action against all UN-
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOZERKVHQ3eF9pMXdMSXJ0OFU2QVgzdzNOclJmOUtKTVFJaWNkVGN1cW4waFEyVmpseUtodWVBNWVsMUc3RFFHaWluc1hLcV9ZRVEtaWdmVnFtZFJXNjZ3ZjNNM2ZLY0ZHeWlGdmtwTzc3RWUta1VxZk02ekNadFRDbk51R1Y1bmN1UEs5RWZMaG4xdG91VkFGX3NLSGVNVi1GdlBlZEhoUkpBdGhQd25VSWgwaVlMeTVlUllJTHM2alBWUDNxemdF?oc=5
+- 'Affair', Hitmen And Body In Forest: Woman Plots Murder Of Husband's Friend - NDTV
+  'Affair', Hitmen And Body In Forest
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRmRSYmcwQ2dQNDVTSnRqY3ZOSEdSUk4weDNKZ3JOckZ0eXhSWnhwMktBbFFiRWVFajZiR1lRS3IwMXotZTNoRTRXdDVOMlFLMlcyYWJOejBOTmtXbi1OV1B5bVpXbUVORFBuQVZGN2tLcVdfQUFaNi02RV9hR1c2cVpDVWZ3am9RVi1HcDNwbF91N3NRa2xBejAxUlgzVG90RXFGSS1QM0RPMXdQcnBaUXJ0YmM4UUVfNUlTSUd1T254M21kakduRFdyZEN0dzRuQVF4NEZmQ2h5M0nSAeMBQVVfeXFMTVFZbm1QM2hROEpOU1B6cDBVR2pjTTRJZGMwdWhBWld5VXdSeFlwaTVBb3ppMVp1U0dkb0pTNjRPbi1zb2JoU1VMazBON1B1cGV5djI1S2xKc3h1XzVTOWxNcjFGWm5pekQtbWZlYWYzemdtVU13Umtza1VHck52RDJJWmMyT2MwN0RIckFpOW9fYlhaQnpJS3FlcmR0QlhBUTQzSWRVWDJVV202LS1JdjdnZVB0YmpIbzlreUpVVThpdjBteVNlZll6WGRCZXhGZ2x1WjRMWC1XRllaMjRKbnRISlk?oc=5
 
-- U.S. court orders delivery of summonses to Doval, Goel through Delhi courts - The Hindu
-  U.S. court orders delivery of summonses to
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWpFRDZOQXpXSHdGMW1pY1BObjU3UkdTTEY5cV9sXzZhbXZ6U1VFWGVJcGJaY1ZiM2RjcTNubFg5blBzb051cFZYV1hVa1VCQlJsWUpRU0RFeTFLVkNDU2NIazFBTk1oVnpwOVFQRlMwWG04YjVyTEs4SFV1aGtEN0JpRXJaM0VJQXp2eFBxT2N2N3VFV1VTcklTeGhKdWNySEtoOTZ3aE1DUm9jU1ltVUVkaHN2RlpwcTR0by1kS29Xdl9tU2NydmhuQ0VKTkZXaEHSAdgBQVVfeXFMTWotNDJNa0g5d2xoX19wbEpYSk9kbkYycnEwei1JamNjNlRSN0xKWjg3cG55eUQtbjdHbjlJM0luM0Q0ZUpxYVFMN1JTSEJzc1d1dTRQWjBuWTFaU3ZWZ0plZVZoczlyUG51U3FpQnBPTExaakVTNWxrMk44MHo0cVNoYnFyUzB4OW5NZ3NNSDNjVE52R3l5bUM0bjR0eXlmLWZ6Sl94WnFkR1NqTTUwNjRiNFVsV2RoQVd5TlAyRlR2Wm5DaVlRVTFNUmw2Uy1zMmlYM3N1MlJL?oc=5
+- Nine Indian sporting stars shine in TIME100 Next India list - News On AIR
+  Nine Indian sporting stars shine in TIME100 Next India
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOM19idlM5VUNwTWF2NXc3WkUtaVU3cTBZd0NPN3FUaWlTYzlyY3VfaTRIRnA1ajNVcmZBaXNXSEFmYVdOZzZXX1ludUUxa3pDSm5qS1I4Um1IbUtPSU16WHpMblg5YWRfQzkxRldRTHN6QlIzU05qUnRyY1RTZUJXeVVXZDdVUmpUNF9udDB3?oc=5
 
-- Can China Build Its AI Future Without Nvidia? Opportunity For India As US Tightens Chip Curbs - NDTV
-  .com: Can China Build Its AI Future Without Nvidia?
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEhneFVQRjJBR3BqVGk5T2xqdjB4TmFfd2pxSVBvSU5vQnBhUlltdkRHYkU5NC11a2R6RGdUMjdEUm1VdVlBcGgxaktkUlUycG8tUDZnUnAtdVBSd1hLb09GdTdiT3JTb2pvRVpTTFFhVWtDbHpRcWtjaDNlYmFSRl9pQ25NemxTbExOQzFKN3RpZDhTVWI1Ym9PT2pCNkRiYkxOcUgxemxqVFd1aUxlRE5mUGZKcWN6dTVuSDhyckQtY0h0NTA5eXRPdTYxUdIB1gFBVV95cUxNTUhsT3JDMlJGVnpqQXZuZ0dJMGlRaU1OX2g2M0pIek54cE5OV1ctWjJSZXJCNnR5cXVMeWhGVzFRdVFFS0luVkVvVTlLdkdNZzFoTGtCcjFSd1UxcWpUU2R0bkgxUHFEb1VSODFaeDFQMUpiQWIzVkZIeFFEMXlFa3laeW1UT2FIcmpaVjh6eXRxYUV5VjZFNE9tSUw5S1A0Vm9PRi00US11LU4xSlBWcy03WmpQVXFaeHRibHFHb09OOUNtS3lSYTZPZ3JwYTltWFg2MWJn?oc=5
+- Karnataka to open India’s first government Sports Technology CoE - The Hindu
+  Karnataka to open India’
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUd3dXhUdG5jRGs4cEx1SzJEZVdKQW8yU3BiWElwRVpub0YtVThFcW1tZkltUHFpY3JwVTl6RjQtWHBsNFhNVkxiNzM1T2EwRURtU0xkaEs4bzNrTldHRUctZ3Vrc1BsN0gzU1QwM3J1UDBGTHNaMjJ2ci00MjRnUU9JbmViS3ZxODRuT0pDZ1pnVkFBTWFtbDBveWJyZ2VyUEZTbGcySGw0elNISXVLTkNKN1lYUnFBbHNDcW9oZS1sa1ByWjBmZmRfdU7SAdMBQVVfeXFMTjAzeldpbk1ScVFhS3Q4NHdvUllJSW1rdjlvUnRxN1NZLWExTmRBemVaNXFkLW9BVzJqc0h6VUx6TVZSRFUwUE43b09iY3JBMk90ZjF3UTdydFRpSjNJLV9IaUVEcVhsMHo1YzlPTXBsMlFodnFSZ2Y1bm1hMVhmalZ1SEtwUnJqSzQtZk9pS01FTDQ4Tjk5bG1oOTVGY09YcDViTnAzNGRRN2U4UUpha21HSnZOczlBQ1NxajFncTJqLXpXdG1FeXM3NTJjMC03NnpYOA?oc=5
 
-- Pew survey: What India's changing Hindu and Muslim populations tell us - BBC
-  Pew survey: What India's changing Hindu
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NLU1sQXIyMEZQbTZtQWdlQTk4aWZsYjN3bElRNTMwWjJMLTVlbXRVUVJfLUFyWWdMZHhaaUZSZU5FSVlZSDlNTzdibkFxN3I5T2pKTEFqSzFvLTQ?oc=5
+- Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace - NDTV
+  PM Modi calls for Ending Drug Menace at Cabinet
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHZ6SVhIc2ItanlhSG1pa2dmZmstUnN4bC1vcGRfdU1TLUo4bzl1UURhMU1hYkZKd01wb2RINERoVmt6UzFaUzk1NG9VUm50dWhkR3JTVVNYcFo2RUFHcFFHNjFuYnhnalMycjZCcUxjSDU1MDJBb0ZJS2dSZXRFOGFPZXV0UllITzZVcW5sY3RhNXJET3owcUlJWnhGYzVVYmJ1MWlZUy0tVFBVX2xZ0gG3AUFVX3lxTE9SRUxyeG90di1ZdFh6aVVJaUh5TTRjbWg5U2c2a2Frek1nUTJ3ZHRlR05IbjRhbm1HY29FZ2pXUS11UVJyUWIyYlVTLWl6YWR3Wl9fOGZOMWIzTjZPdG9sN3RMNHFPSnMtckdwNDNhWno2Z21CSktILXVONGY1TXp0OHI0bi1XNV91WExEd1Vpb3dpS2hKQmxKTE5LLTV6aExDMXhwemxKTUo1RjYweDJtV0FKam5QMA?oc=5
 
-- Record! Yuzvendra Chahal becomes first Indian bowler to cross historic milestone - The Times of India
-  Yuzvendra Chahal becomes first Indian bowler
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDBMdlp5V1k1SlZpd2dsUTI0Sm1IN0lxYmNmVXl6VElVeW9yTlhsNnhoT2lDVFRZaTI5NDR1U2ZWbnpzZW5QajFjNUgxWG9qaEpfSnJQTy1aNFdNOUhkRjFTOTdLajZpcXY0bWwzLTZoQ1U3TDVUYWtPTXdhY3cxZlpPMHgzbGlTTUdzeUJaNmwzZmtma0FpdWR4Q3dpcDdBdWhhS1hiOW5SbWxtMFNMMUt0c0ttM2owM2lySzJKN2JMTGdaeWZCbDNxRjhicUVHVGFBS280c3UyZGJhaWZRQ3dQTkdNZVVuU05zT20zenFYNG_SAfgBQVVfeXFMTzNkTzdhZHB0R1pRU3dhd3FtS3pSOEV6TkpCWENVTFQ5YmFoQnR0RmVGVl9kakRjTTM3WHJnc24taDNwRkpQWmd1ak9faEl2U2ZCSVh6ZHJwMzN0R3R5MXZXQVRwRF9nV2xKYl9hS2x4b1lwd1VVV0dSc1lGeFpvZTBfZ1kzX1h2Vkp5OWJxeGJfTGZyd0Vjc2tmMXNjc1BOVWZNRzJuUTl4dlMzOG9jUktUUVBUY1JCeU9OeVFya01fcy1aUnlMd2l5dGNXczh0U2N6S2xURkE2NG51eUpWZ2RISUs0OW1UanpCWW9jNjc2MkxYWUtmems?oc=5
+- PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in New Delhi - News On AIR
+  PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGxCZDZKMXBPcF91TDdDS29MZkplbmxVRkpvWUJZbjB4NjhkZnJqXzZ4Z1d1azhyaHZLM0VTY1JyM3hpTjJSLW9Ud3RTQkFDS1Z6dnMtN0h4NGVrYWluZ2Rxd2pJUy1BRmdPWGlEUUxtR0tNOVBHUmJnVk1xSlI3OVFpSUxremlnYU9uNHhTWllUWFczZTBuU1l4YjZxVEZtdjRmcnZpdWJKcEtvR09sN25fcXFaVHhFdDNvU1I0ZUxfOU9WMUhMN3had3RpOGlqN3o1VmliNA?oc=5
 
-- How Nvidia Chips Ended Up Within Reach of China’s Military - The New York Times
-  How Nvidia Chips Ended Up Within Reach of China’
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVc5N1B2V0VEaE01RDFyU3NaYTNiV3pmb2dqRDVMMWpjenVCbGUwNTh6aHhKX3hLNnBEU3dFZWxFU3I2SkJqQUVEUC1TY0IzNkNnRHc5OUU3SEY3R0RGRFE5M0UwOThfQktjVHgtSUhyeW9XNjJlQm1qdnFMcGtJNVBLNzZtX00?oc=5
+- California probing whether China improperly got Nvidia technology - BBC
+  California probing whether China improperly got
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LcjVzcGZXYnU1NGFZcXhHTkpaeHVCbkFtZ2JWd2VidTVYSTdrZVl5VGRCMzE5WldSU0xLajIyN1ljYWdmWWtmbWw5OXpBYnIwNUVuU0xGX1k5WFE?oc=5
 
-- Baskaran Balasubramanian Appointed Executive Director – HR Technologies at Wells Fargo - https://hrtoday.in/
-  Baskaran Balasubramanian App
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnFTWXVTVnFsa1pYRmk0bE51cXZGSXM5dFlaNDRRS3Zmb1lzaHVIdjZGazQtbXFRbTdPb0hNMC1ValByUTBWWVVTM3pXOW9uSFhVeHJtSmVnYS0xU29zMy0zLW9kYlkzY0dXc2tUcVNsYndRcjVrRGkzWXA4SFRJLWd2dGwybm02LUVuNjJDaGF4eXV5SlJFWU5HaUZLbzI3RklIS2FRNA?oc=5
+- Karnataka to open India’s first government Sports Technology CoE - The Hindu
+  Karnataka to open India’
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUd3dXhUdG5jRGs4cEx1SzJEZVdKQW8yU3BiWElwRVpub0YtVThFcW1tZkltUHFpY3JwVTl6RjQtWHBsNFhNVkxiNzM1T2EwRURtU0xkaEs4bzNrTldHRUctZ3Vrc1BsN0gzU1QwM3J1UDBGTHNaMjJ2ci00MjRnUU9JbmViS3ZxODRuT0pDZ1pnVkFBTWFtbDBveWJyZ2VyUEZTbGcySGw0elNISXVLTkNKN1lYUnFBbHNDcW9oZS1sa1ByWjBmZmRfdU7SAdMBQVVfeXFMTjAzeldpbk1ScVFhS3Q4NHdvUllJSW1rdjlvUnRxN1NZLWExTmRBemVaNXFkLW9BVzJqc0h6VUx6TVZSRFUwUE43b09iY3JBMk90ZjF3UTdydFRpSjNJLV9IaUVEcVhsMHo1YzlPTXBsMlFodnFSZ2Y1bm1hMVhmalZ1SEtwUnJqSzQtZk9pS01FTDQ4Tjk5bG1oOTVGY09YcDViTnAzNGRRN2U4UUpha21HSnZOczlBQ1NxajFncTJqLXpXdG1FeXM3NTJjMC03NnpYOA?oc=5
 
-- Google ex-CEO Eric Schmidt blames technology companies for AI fears in America; says: Millions have exper - The Times of India
-  Google ex-CEO Eric Schmidt blames technology companies for AI fears in America.
-  🔗 https://news.google.com/rss/articles/CBMi8wJBVV95cUxPbUJGODlCQXNQNDJfUEtmeTN2Nm15azFfdmpLaHpjMEozUnhSd0dqa1BQV1FjdUJOZmF4R3p5R0VyNUtrTkZQRXB1LU5kdzNNbXlfaG12TEZjQ1FPZ0MtU3hZR1M2Ynd1RkRZUWpWLTI5TUlpa2V0MmVCSFloR0k0SlRpUWJXcDJEcjkyTTRmU1Q1cHo0bHFnOGFjOXRkaHFxX1drRXJoMk1PazV4ZXF1SE9CcVJPUTJGSGU5aTFZWEg5bnFncmU3SnNpenRWejR5OUlGdXBsUjhqY1dfNG44ZTNtV2wxMUdvVEtsbFF2MjZvaFdneDZRM3pzcGpaaE8yN0JESlJjbjB5VEhwUHVIQnRMTGJnTy1qcUxwMENXWGxoTjR5MjBKUFNyQ3AwaU5adVBzdWk5aHdzNlQtNTdNLWVnaGZBVUNkdEJGUGoyNnpMaU9ZaWZZcGNLd3FqNm1DbTdQaS0yRjFaNFlHblhZVFJlONIB-AJBVV95cUxOWHVKcnQ5Z3hJTml4eVJYSkpDTEJPX0NSY3I1enpBeFkyYXJhRW44ajBWbDdXX1ozLU5Udks0dFZJQmxMOG1KR2hlNEFKZmYydllUMFppYWYyM0FIbEIwbzBZZXhhY1dxVmdaaVB3S1ZwTHR2WGdSM3FZTVluLTBoNWZLRlA3MUw1ZE9WOUQwdzFmV0YxX19lQ0tCeEFsZVJ2ak5MVzZ3YXdxWlhUU0RvbllsNnFiUGFtNUpwYWlfMW42ckM1WWpIUlMyR002SHJwX2VYSEhtSk16LWdOTThfSlJrTnhpWTRHZ1pDU2UzaTNPM193amtjM3Y0VG4zdnJiTG5sX2haYkgyYnh3R3JDM1ZYY0FaemI5MmJBSnBpaTJ5MUlLX1RGVzktM2s1WEJhRlBvWkRVU0RvVjBrTFlGem8xVHNLUXE4eXluRDBoSjl1RDZucTZ6bjdnS1Zyd1hFdjF6NVRpekVBWGVQTTBaWVlUSHh6NHlZ?oc=5
+- Exclusive | Google Embraces Geothermal Technology to Vaporize Rock for Clean Power - WSJ
+  Google is using geothermal technology to vaporize
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3lGM1hMLTFrTzJXYW5hcmxZSFc0ZWh2QXUwN1lteUpoY2RNbXNLVk95YUp3M1QtUnNuRVdvNmlhc2F4VnZLWHU1WUtaQ2N5dm91UVNmMTVuTm9DYlVIakNFZnZsRGJsc3NBZGdmemtjQ1puLWRfQklaSkp4VXczazhreGkxMUtZVThwbm1ON21mXzRjVnU0Z1lSdjNKdHZEQWtfZ1ZfQnNQbXlVeEVrSV92V1VxRlhZMXVn?oc=5
 
 - AI found more critical bugs in another widely used technology running 225M websites - The Register
   AI found more critical bugs in another widely used technology running 225
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbG9ESDRJWlNQZmowQXhud2FJMlkyN1NzQ1F0UHRlSUZEVXZxelZzdHVYdDUzMWNqOHJkZUlyV0hxNkNCTV9wVGp5N3FBVWRXQ01BTkgyUEw0Wm9WVVFSaFR2UW4waDFKb2RVa2pPTFNUOXNPb2NJQ2dqbTFyQlphdFdSNm1WSDNCZ1hjNkloZWhJUEJUQXJ2YUZpbHZCdlBDQXExY191aVNwdk5SMW1MbmtqcHZHRDhvMFVzNnpOTDFnWGJLajl5cjdQUlR0VGltbFgxQkJB?oc=5
 
-- Newcastle centre gets £6m for brain implant technology - BBC
-  Newcastle centre gets £6
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qTmRITXZ4NHVoQ3A0VFZVTmY5bHRkREZaZ0VDQU41Tkgxd2FUdlRmcUhNNExOR1pid1BId0YyMkwtY0RxVUo1V19XNkZBX2tEY3hSMXpwRzdpdGc?oc=5
+- ICMR Crosses 100 Technology Transfers, Signs 20 Licensing Agreements at Health Research Summit - DD News
+  ICMR Crosses 100 Technology Transfers, Signs 20
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWkE2NG9zdmlKNG1TQl9sUVFlVVV3ZklHdmhoMFZhWGNIVk5pdll5SDh4ZXhFQ240RVRCLVNNUmR0UVVSS1NwWDlTV3NiMjN6NXEtS0k3ZWVSOC1hb2pId2d4eDA3REIwR0R1WmdRREF5QVhQaW4xUVNJS2x1azhxZGo2TUEwcjdLdDFsdVRxR2cxYW5rMXJQSE5lZXBxWk5tZDVfbV80TUZENXRadGZITmpPMEtXVzRQa2dZ?oc=5
+
+- Canadas BMO returning to US oil and gas investment banking, sources say
+  Canada's BMO returning to US oil and
+  🔗 https://www.livemint.com/companies/canadas-bmo-returning-to-us-oil-and-gas-investment-banking-sources-say-11795114233832.html
+
+- Skydance, ESPN Opt Out of Bidding for FIFA World Cup Rights
+  Skydance Corp. and Walt Disney Co.’s ESPN have declined to bid for the US media rights for the next FIFA Men's World Cup.
+  🔗 https://www.livemint.com/companies/skydance-espn-opt-out-of-bidding-for-fifa-world-cup-rights-11795113852106.html
+
+- Anthropic IPO jackpot! CEO Dario Amodei's 237.3 million shares at $83 apiece now carry a $19.7 billion valuation
+  The surge in Anthropic's share price also highlights the wealth created for its early investors and founders. The company completed what became the largest
+  🔗 https://www.livemint.com/companies/people/anthropic-ipo-jackpot-ceo-dario-amodeis-237-3-million-shares-at-83-apiece-now-carry-a-19-7-billion-valuation-11795112083821.html
+
+- As Anthropic IPO debuts, founders see AI accelerating medical breakthroughs, transforming lives
+  As Anthropic makes its stock market debut, co-founders Dario and Daniela Amodei highlight how AI could accelerate medical
+  🔗 https://www.livemint.com/companies/people/anthropic-founders-see-ai-speeding-up-medical-breakthroughs-transforming-daily-life-11795106593779.html
 
 - Who is Alok Bansal? Here’s why the PB Fintech co-founder is stepping down as executive vice-chairman
   Alok Bansal will step down as PB Fintech's executive vice-chairman in
   🔗 https://www.livemint.com/companies/news/alok-bansal-to-step-down-from-pb-fintech-who-is-the-policybazaar-co-founder-and-what-next-11795095116358.html
 
-- India biodiesel blending target: Why actual levels remain at just 0.08% despite 2030 goal
-  The availability of sufficient raw materials remains a key factor in determining how quickly India can expand its biodiesel blending programme.
-  🔗 https://www.livemint.com/companies/news/india-biodiesel-blending-target-why-actual-levels-remain-at-just-0-08-despite-2030-goal-11795096354156.html
+- Retail Investors Dive Into Both Sides of the Anthropic Trade
+  Anthropic PBC shares make one of the busiest market debuts on record.
+  🔗 https://www.livemint.com/market/retail-investors-dive-into-both-sides-of-the-anthropic-trade-11795123326586.html
 
-- Anthropic IPO windfall: More than 400 employees could be worth over  ₹935 crore each
-  Anthropic's $1.5 trillion IPO could make the average employee
-  🔗 https://www.livemint.com/companies/news/anthropic-ipo-windfall-more-than-400-employees-could-be-worth-over-935-crore-each-11795095476490.html
+- US Sour Crude’s War Premium Vanishes as Supply Surges
+  The price of US sour oil has plunged, as a surge of oil from Venezuela, Canada and the Middle East
+  🔗 https://www.livemint.com/market/us-sour-crude-s-war-premium-vanishes-as-supply-surges-11795121544365.html
 
-- Disney plans $3 billion cost cuts by 2029, warns of more layoffs despite strong quarterly results
-  Disney CFO Hugh Johnston indicated “we do expect more layoffs” as the company pursues its cost-reduction target. The company has not disclosed how many employees
-  🔗 https://www.livemint.com/companies/news/disney-plans-3-billion-cost-cuts-by-2029-warns-of-more-layoffs-despite-strong-quarterly-results-11795094214232.html
+- Latin America Currencies Sink on Rate Worries; Brazil Intervenes
+  A sell-off in Latin American currencies deepened Thursday. The Mexican peso to its lowest since June 2025. Brazil’s central bank to step in to prop up the real
+  🔗 https://www.livemint.com/market/latin-america-currencies-sink-on-rate-worries-brazil-intervenes-11795119814041.html
 
-- Anthropic is not a safe AI company? Nobel laureates accuse Claude maker of abandoning promises ahead of IPO
-  Nobel laureates and leading AI experts accuse Anthropic of putting its race for AI dominance ahead of safety
-  🔗 https://www.livemint.com/companies/news/anthropic-is-not-a-safe-ai-company-nobel-laureates-accuse-claude-maker-of-abandoning-promises-ahead-of-ipo-11795091158478.html
+- Japanese investors sought $9.4 billion of shares in Anthropic IPO, sources say
+  Japanese investors sought $9.4
+  🔗 https://www.livemint.com/market/japanese-investors-sought-9-4-billion-of-shares-in-anthropic-ipo-sources-say-11795118526140.html
 
-- Goldman Sachs turns bullish on India stock market, upgrades rating to Overweight; sets Nifty target of 28,500
-  Goldman Sachs upgraded Indian equities to Overweight and set a December 2027 Nifty 50 target of 28
-  🔗 https://www.livemint.com/market/stock-market-news/goldman-sachs-turns-bullish-on-india-stock-market-upgrades-rating-to-overweight-sets-nifty-target-of-28500-11795099232497.html
+- Canadian dollar steadies near 19-month low as stocks slide
+  Canadian dollar steadies near 19
+  🔗 https://www.livemint.com/market/canadian-dollar-steadies-near-19-month-low-as-stocks-slide-11795117459008.html
 
-- Beyond BEL and HAL: L&amp;T, Bharat Forge, BEML among 5 defence stocks that could benefit from proposed 20% capex boost
-  The Defence Ministry has sought a 20% increase in capital spending for 2027–28. HAL and BEL are expected to benefit most, while L&amp;amp;T
-  🔗 https://www.livemint.com/market/stock-market-news/beyond-bel-and-hal-l-t-bharat-forge-beml-bel-among-6-defence-stocks-to-benefit-from-centres-proposed-20-capex-11795089244463.html
-
-- Anthropic shares set for Nasdaq debut today; Wall Street brokerages see up to 87% upside from IPO price: Report
-  Four brokerages issued bullish ratings, with price targets implying potential gains of 51% to
-  🔗 https://www.livemint.com/market/stock-market-news/anthropic-shares-set-for-nasdaq-debut-today-wall-street-brokerages-see-up-to-87-upside-from-ipo-price-report-11795092766156.html
-
-- Paytm, Pine Labs, MobiKwik shares tumble up to 9% on MDR delay concerns: Should investors stay away from fintech stocks?
-  India may delay a planned fee on select high-value UPI payments. Fintech stocks fell as much as 9% on the news.
-  🔗 https://www.livemint.com/market/stock-market-news/paytm-pine-labs-mobikwik-shares-tumble-up-to-9-on-mdr-delay-concerns-should-investors-stay-away-from-fintech-stocks-11795088843361.html
-
-- Anthropic IPO listing today: How much listing gains can investors expect from the AI giant? Check details
-  Anthropic is preparing to debut on Nasdaq under the ticker ANT. Grey-market trading suggests shares could gain nearly 24% on listing.
-  🔗 https://www.livemint.com/market/stock-market-news/anthropic-ipo-listing-today-how-much-listing-gains-can-investors-expect-from-the-ai-giant-check-details-11795084304396.html
+- GTA 6 launch: 6 moves to build strength during missions while playing, from squats to deadlifts and more
+  GTA 6 introduces an interactive fitness system where Jason and Lucia can lift weights, perform cardio and track their progress through an in-game app. Workouts improve strength,
+  🔗 https://www.livemint.com/technology/gta-6-launch-6-moves-to-build-strength-during-missions-while-playing-from-squats-to-deadlifts-and-more-11795104109239.html
 
 - AI shouldnt deny credit to small borrowers, fin inclusion should be central to tech: Setty
    AI shouldn't deny credit to small borrowers, says
@@ -96,129 +100,125 @@
   Getting GlobalFoundries as a partner acceler
   🔗 https://www.livemint.com/technology/tech-news/cyient-semiconductors-globalfoundries-10-million-investment-510-million-valuation-11795063480891.html
 
-- Global securities watchdog urges immediate action on quantum risks to finance
-  Global securities watchdog urges immediate action on
-  🔗 https://www.livemint.com/technology/global-securities-watchdog-urges-immediate-action-on-quantum-risks-to-finance-11795071708223.html
+- Stock futures tick lower after Dow closes below 50,000 for first time since June: Live updates - CNBC
+  Stock futures tick lower after Dow closes below 50,000 for first time
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ?oc=5
 
-- US Futures Rally as Anthropic Fuels AI Enthusiasm: Markets Wrap - Bloomberg.com
-  US Futures Rally as Anthropic Fu
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHJMMGxuVjE0QlBiMjdlLVg4Snd2RjdIVmxmMlFGX3E1cEpBS3BHaEQ0YnpUb19jc2lXMG9RQk9nSk8xSVFmN2d4VFRoSC1nQkJUdk5DTF9MWlVqRklPelgyUGpNREtJQUpEd3BTZ3A0VmVZdGRZZ21mT0x5bEdhUkd1OVVKZHNLUkRqdWY3M3VxOHBu?oc=5
-
-- Gold recoups from 14-month low, tighter Fed outlook caps gains - Reuters
-  Gold recoups from 14-month
+- Gold hits 14-month low as strong dollar, rate bets weigh - Reuters
+  Gold hits 14-month low as strong
   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5
 
-- Markets bounce back led by auto, bank stocks; Sensex surges nearly 1,000 pts, Nifty reclaims 25,500 - The Hindu
-  The Sensex surges nearly 1,000 pts, Nifty reclaims 25
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUWx1NDdYSjhqYVFBTkZmN0hPaGk3U1JhemQ2cDFDR0FqTDZvczVDU0ExS0tZZ2o1RTJRR1NMQkdCTzZuSWx3d2cwSzNrUFdrekJWWjh3MDJ6Ym5KMlVkVzEtekdTc2dGOVRKNWdSZGxJcDFlTG1xNkRHUVNsSHNwN1RJa0NCSURpU0NLa3BoTUJEekl1MnhKLUE5MXhNczk2dTFFYkZGbGRlN0FvaWFFMXJjajVmYTBRUkdxeGVaN3FvM3lELTM5Vkh0MHZ3SmFhS2NScUY5WmJ4UC1qODFNa1dCX0R5M0FLeWpiRtIB8wFBVV95cUxNUVdXRUJRY1hOeDNoYnFyOXcxMkNMME50WnJSSlZzU0VFUHlWREVVcUh4LWJUbllYaDJFWkZ3aFpwcUlEM29HbDRkYUsweGxmUVdvQzBGdWMxVHFXZEhkbHJURmltU2Y2U1JqcWgtc3Z1Q0tkSEt3bmhOMWg1dXpxN1FuQWdwajl6YUpTekhyeTc0Q1J6THRkUFVuOUlTMTJWVlBIZnhOSGRxZkgyVS1jaUY4U2lUU1NpQ29uVFhIaUp1ZU50Ym1xa1lLSHhqNjE3c1JTNW9uSDZPd29oR2R4VmJrMldCQXhmekZIeUZvUk5rZ2M?oc=5
+- SEBI, PFRDA call for deeper capital markets to fund Viksit Bharat 2047 - The Hindu
+  The Hindu reports that the government is planning to raise $
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb1dLU2xYSkxVU205ZVVrVXV0R2NIY2JTSExDNUEyNnJRQ0dUTkQ1VTJxS0xMSWtWLXNrWm9SSnF4WmdJeGZ1WlhKVnNGcmJvbV9aN1NxZFBBaDZfVWJjVHl6VF8wTjVvQ2hQYjdHcm4xSEIySlM4a2JWY25fZ28xUUh1a0Qxc1JTaVlSUDlDNnZWU3FxRjJoVkY0V3U4bE5pMlhyc3NQWjFGM1I4MzdPTlkzZHlEdTlMSDh1bEN6S2lJRDJuNHBNcC00bjZRZEtiUzB2ejdIQdIB3gFBVV95cUxNVmNTTDhZZEQ5b3l2UlpSQV8wLWQ3UEF6ZFltek1wMFcwd3BPRjN4YmhjS3FZTEVoc1lGQmZlS2U1eHVLTG85QkVHRm1aSWROTTNtUjE4RDlMeUF1amlGZ1lVU3V4VHBNelRSbzRJb2hVWjdBdjBONGlMZ2c3ekZfVlhSWFFTZEU4VUl3QW5lYTE0RzhBOGtxZURwZXY5Ymp2U2JmcEozc3RpU3pfWWF2bXFxOFNxM2YwMjdPdDZpSllaZDluS3JoOFdCZHdnZXA3QWxaUnNMeTY5Q205aVE?oc=5
 
-- Stock Market Close: Sensex rebounds 990 pts, Nifty settles at 25,514; Nifty Bank ends near new high - Business Standard
-  Stock Market Close: Sensex rebounds 990 pts, Nifty settles at 25
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNQ3Fsd0daU2ZpVzNUTVRpM3BPLWhSMlBKX2F5M2F3N0hJcHRnX1lCN2QwMWhkcmlJNjRlUDFtNnl2QktVdjczVnlyWVBOQ0Q2anIydkxSRXlxNkY0aTROQWhlY2p2N2xBeGJSa0hVMlZ6TzFDWVdRLUJra3FPZ2RlTnJlMU5fa2FISjd5SVZkTk5EOWM4VGctaVNoZHRJNzA0YWRWOE1mSmJXZXY3aVFkMWQ5TnlyemNlczNSZG1zd1pKZGVZS1h5VjNuZWUxMnpvMFFnTHlNSV9YUVBkSUx1RHItUF9MSHNFTW1IWktIQjF6aEoyXzNIcmNxRjZ5MTFoUmt6b0tjcktiVnY2M3IyV9IBlgJBVV95cUxQNk5Wb1J1X0swX0JJQ2hFNkttXy10WEt2MEVSSW9nTDE5SkFWSGxHSGF3QTVvZ3YtWUdXa3NCRlVFNUtmV2NCaWxCc0dRekdMbmE2S3pQdXZVZmlvRmROdHAwemIyWTNzRGxTbjB5RTR2Q21RTnlYV0U4OWR6c3Itbm5TZlBpZWppb3dLSGRIV3Q0MHBZTUdoMjFmaTJ5Z3hXRXJQcENhckhRYmNuaGFZSUlEcUVfQ25pMGhLeTNjNFZFMGozblVpSXdaY3dvNWl5ZzJfMkdybkZVZzJnR1gyOWVZc2c3NHkxYXdIWjFJU1M0TUJlTkRTSm9KRWszR21Md2dma0pkV21VcWtKY181WWZDMExnQQ?oc=5
+- Basic Materials Roundup: Market Talk - WSJ
+  The WSJ
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOcXd3NnhsYlZmV1Q1T0tBTTVSX1pPWDQzckdhekZLaXE5TmZxdW1CQ05mdXR5b3lRVzh5eGl2QWtqbjhMUFBfcXdWNXk3R2xXcDNfbDN0LWpHLUxZdGNrMzBVQW9yRVBjckFXUHdJcXFidktoUGhQdng3bFVaUEpoX3p6S2c3Y3R5SGk3QXZBdXNoN0VjcUhv?oc=5
 
-- Markets bounce back: Sensex jumps nearly 1,000 pts, Nifty reclaims 25,500 - Deccan Herald
-  Markets bounce back: Sensex jumps nearly 1
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTG5VZXNZQm5PYWlZUjg4dndSM0twX0hTWFpJaDh2TDF5UER4NlpsXzNyZDJfNkY2RnVQT0xPRXc5cWxHS0szMkc5U0FuSE8xcGtPRjdNd0tDYmxkRDFOOXdtSDk5ekpnbFNjSnRkNW9QczFRREc2N2ViWUVZbkdtWWFfVUdrUk5Xd1Y5UVVDOEo5VDJVaEJ6Ynd0SnRWWmVfdlV6RHNxQkF6eHZXTmluZHJjZ0pCbkl6Z1lxZzVZY0HSAc4BQVVfeXFMUFBRSkZ0cDlvbGFUNzRqWEdZWXh0Nzl3RnZjS1p3VVRRQXpwaWJZVlFBTHhWcmRIMDFpVVc0dG5tX3RTLWt3TUVKTTkzaHRNVnV5NTZtYVNkTU1LYmRDZ2ZKQ1ZlSDBPd0h3bFNncTMyWUpHMThPaU9hVUZiNVQxdVZGejRYV2l0bDU1Z0p1TXNOWk4wNzNNa3JMLUY4Y2dnWlFOZE5sbVZGaWRremxTQ0hnTXlrSDROU2U1Nm0yR1ZlazBleGNNMDNSV21ieXc?oc=5
+- Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises - Reuters
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVlNYZ0xucjVqQUMzV3BSemlBQ2ZPcmxTejY2bXF6bzUyZTR3OEhOc3FoQW5JS095Uzl2LWhJcDdpVXpoeWF3c245cllBNFRjeks3eTdta3kxU3BiWm1IcG1ScWIweFVBdTk0eFpURlFDZi1kUmVIQ0dVTQ?oc=5
 
-- Investors vs Economists: Should Govt Cut LTCG Tax?
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/investors-vs-economists-should-govt-cut-ltcg-tax/videoshow/135993683.cms
+- AMD shares slide 8% as report says China links could invite US scrutiny
+  Shares of AMD plunged by 8% after a report surfaced linking the company to certain Chinese firms. The report indicates that AMD's firmware is being used by a Chinese server manufacturer, which poses potential regulatory issues.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms
 
-- Anthropic IPO Live Updates: S&amp;P 500, Nasdaq rise over 1% at open as Anthropic IPO pricing bolsters AI trade
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms
+- Amundi CIO says not bearish on France bonds, AI at the start of repricing
+  Chief Investment Officer Vincent Mortier expressed a preference for bonds from nations with lower debt-to-GDP ratios. He also highlighted a potential future interest in Japanese government bonds, as local investors may re-enter the market.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/amundi-cio-says-not-bearish-on-france-bonds-ai-at-the-start-of-repricing/articleshow/135998168.cms
 
-- India bonds end choppy session little changed as fresh cues on interest rates eyed
-  The benchmark bond yield dropped from the previous day's closing level, reflecting market uncertainties. Expectations of rate hikes from the Reserve Bank of India and the Federal Reserve contributed to investor caution.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-choppy-session-little-changed-as-fresh-cues-on-interest-rates-eyed/articleshow/135991621.cms
+- Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official
+  Sebi is focusing on streamlining IPO and rights issue timelines to improve market efficiency. The regulator aims to reduce friction across the capital-raising lifecycle for economic expansion.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-roadmap-focuses-on-faster-ipos-easier-foreign-investor-access-official/articleshow/135998128.cms
 
-- NSE among 5 stocks hitting 52-week highs; stock rallies up to 27% in a month
-  Five BSE 200 stocks, including NSE, GAIL and PNB, hit fresh 52-week highs
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-27-in-a-month/slideshow/135991598.cms
+- Six listed REIT firms distribute Rs 3,234 cr in Q2 to over 5.25 lakh unitholders
+  India's six listed Real Estate Investment Trusts distributed Rs 3,234 crore to over 5.25 lakh unitholders. Since their inception, these REITs have distributed over Rs 38,000 crore collectively to investors.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/six-listed-reit-firms-distribute-rs-3234-cr-in-q2-to-over-5-25-lakh-unitholders/articleshow/135998101.cms
 
-- Stock rally keeps rupee upbeat, traders eye exporters for fresh fuel
-  The Indian rupee has surged to its highest value in seven months. A 1% rise in the Nifty 50 index has fostered optimism among traders and analysts alike.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-stock-rally-keeps-rupee-upbeat-traders-eye-exporters-for-fresh-fuel/articleshow/135986825.cms
+- Keystone Realtors to launch Rs 5,000 cr worth housing properties in MMR by Mar: CMD
+  Keystone Realtors is set to unveil residential developments valued at Rs 5,000 crore across the Mumbai Metropolitan Region by next March. The company is optimistic about achieving targets, particularly with anticipated festive demand boosting sales. Their robust project pipeline
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keystone-realtors-to-launch-rs-5000-cr-worth-housing-properties-in-mmr-by-mar-cmd/articleshow/135997982.cms
 
-- India and Japan unequivocally condemn terrorism; call for action against all UN-listed terrorist groups - News On AIR
-  India and Japan unequivocally condemn terrorism; call for action against all UN-
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOZERKVHQ3eF9pMXdMSXJ0OFU2QVgzdzNOclJmOUtKTVFJaWNkVGN1cW4waFEyVmpseUtodWVBNWVsMUc3RFFHaWluc1hLcV9ZRVEtaWdmVnFtZFJXNjZ3ZjNNM2ZLY0ZHeWlGdmtwTzc3RWUta1VxZk02ekNadFRDbk51R1Y1bmN1UEs5RWZMaG4xdG91VkFGX3NLSGVNVi1GdlBlZEhoUkpBdGhQd25VSWgwaVlMeTVlUllJTHM2alBWUDNxemdF?oc=5
+- 'Affair', Hitmen And Body In Forest: Woman Plots Murder Of Husband's Friend - NDTV
+  'Affair', Hitmen And Body In Forest
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRmRSYmcwQ2dQNDVTSnRqY3ZOSEdSUk4weDNKZ3JOckZ0eXhSWnhwMktBbFFiRWVFajZiR1lRS3IwMXotZTNoRTRXdDVOMlFLMlcyYWJOejBOTmtXbi1OV1B5bVpXbUVORFBuQVZGN2tLcVdfQUFaNi02RV9hR1c2cVpDVWZ3am9RVi1HcDNwbF91N3NRa2xBejAxUlgzVG90RXFGSS1QM0RPMXdQcnBaUXJ0YmM4UUVfNUlTSUd1T254M21kakduRFdyZEN0dzRuQVF4NEZmQ2h5M0nSAeMBQVVfeXFMTVFZbm1QM2hROEpOU1B6cDBVR2pjTTRJZGMwdWhBWld5VXdSeFlwaTVBb3ppMVp1U0dkb0pTNjRPbi1zb2JoU1VMazBON1B1cGV5djI1S2xKc3h1XzVTOWxNcjFGWm5pekQtbWZlYWYzemdtVU13Umtza1VHck52RDJJWmMyT2MwN0RIckFpOW9fYlhaQnpJS3FlcmR0QlhBUTQzSWRVWDJVV202LS1JdjdnZVB0YmpIbzlreUpVVThpdjBteVNlZll6WGRCZXhGZ2x1WjRMWC1XRllaMjRKbnRISlk?oc=5
 
-- U.S. court orders delivery of summonses to Doval, Goel through Delhi courts - The Hindu
-  U.S. court orders delivery of summonses to
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWpFRDZOQXpXSHdGMW1pY1BObjU3UkdTTEY5cV9sXzZhbXZ6U1VFWGVJcGJaY1ZiM2RjcTNubFg5blBzb051cFZYV1hVa1VCQlJsWUpRU0RFeTFLVkNDU2NIazFBTk1oVnpwOVFQRlMwWG04YjVyTEs4SFV1aGtEN0JpRXJaM0VJQXp2eFBxT2N2N3VFV1VTcklTeGhKdWNySEtoOTZ3aE1DUm9jU1ltVUVkaHN2RlpwcTR0by1kS29Xdl9tU2NydmhuQ0VKTkZXaEHSAdgBQVVfeXFMTWotNDJNa0g5d2xoX19wbEpYSk9kbkYycnEwei1JamNjNlRSN0xKWjg3cG55eUQtbjdHbjlJM0luM0Q0ZUpxYVFMN1JTSEJzc1d1dTRQWjBuWTFaU3ZWZ0plZVZoczlyUG51U3FpQnBPTExaakVTNWxrMk44MHo0cVNoYnFyUzB4OW5NZ3NNSDNjVE52R3l5bUM0bjR0eXlmLWZ6Sl94WnFkR1NqTTUwNjRiNFVsV2RoQVd5TlAyRlR2Wm5DaVlRVTFNUmw2Uy1zMmlYM3N1MlJL?oc=5
+- Nine Indian sporting stars shine in TIME100 Next India list - News On AIR
+  Nine Indian sporting stars shine in TIME100 Next India
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOM19idlM5VUNwTWF2NXc3WkUtaVU3cTBZd0NPN3FUaWlTYzlyY3VfaTRIRnA1ajNVcmZBaXNXSEFmYVdOZzZXX1ludUUxa3pDSm5qS1I4Um1IbUtPSU16WHpMblg5YWRfQzkxRldRTHN6QlIzU05qUnRyY1RTZUJXeVVXZDdVUmpUNF9udDB3?oc=5
 
-- Can China Build Its AI Future Without Nvidia? Opportunity For India As US Tightens Chip Curbs - NDTV
-  .com: Can China Build Its AI Future Without Nvidia?
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEhneFVQRjJBR3BqVGk5T2xqdjB4TmFfd2pxSVBvSU5vQnBhUlltdkRHYkU5NC11a2R6RGdUMjdEUm1VdVlBcGgxaktkUlUycG8tUDZnUnAtdVBSd1hLb09GdTdiT3JTb2pvRVpTTFFhVWtDbHpRcWtjaDNlYmFSRl9pQ25NemxTbExOQzFKN3RpZDhTVWI1Ym9PT2pCNkRiYkxOcUgxemxqVFd1aUxlRE5mUGZKcWN6dTVuSDhyckQtY0h0NTA5eXRPdTYxUdIB1gFBVV95cUxNTUhsT3JDMlJGVnpqQXZuZ0dJMGlRaU1OX2g2M0pIek54cE5OV1ctWjJSZXJCNnR5cXVMeWhGVzFRdVFFS0luVkVvVTlLdkdNZzFoTGtCcjFSd1UxcWpUU2R0bkgxUHFEb1VSODFaeDFQMUpiQWIzVkZIeFFEMXlFa3laeW1UT2FIcmpaVjh6eXRxYUV5VjZFNE9tSUw5S1A0Vm9PRi00US11LU4xSlBWcy03WmpQVXFaeHRibHFHb09OOUNtS3lSYTZPZ3JwYTltWFg2MWJn?oc=5
+- Karnataka to open India’s first government Sports Technology CoE - The Hindu
+  Karnataka to open India’
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUd3dXhUdG5jRGs4cEx1SzJEZVdKQW8yU3BiWElwRVpub0YtVThFcW1tZkltUHFpY3JwVTl6RjQtWHBsNFhNVkxiNzM1T2EwRURtU0xkaEs4bzNrTldHRUctZ3Vrc1BsN0gzU1QwM3J1UDBGTHNaMjJ2ci00MjRnUU9JbmViS3ZxODRuT0pDZ1pnVkFBTWFtbDBveWJyZ2VyUEZTbGcySGw0elNISXVLTkNKN1lYUnFBbHNDcW9oZS1sa1ByWjBmZmRfdU7SAdMBQVVfeXFMTjAzeldpbk1ScVFhS3Q4NHdvUllJSW1rdjlvUnRxN1NZLWExTmRBemVaNXFkLW9BVzJqc0h6VUx6TVZSRFUwUE43b09iY3JBMk90ZjF3UTdydFRpSjNJLV9IaUVEcVhsMHo1YzlPTXBsMlFodnFSZ2Y1bm1hMVhmalZ1SEtwUnJqSzQtZk9pS01FTDQ4Tjk5bG1oOTVGY09YcDViTnAzNGRRN2U4UUpha21HSnZOczlBQ1NxajFncTJqLXpXdG1FeXM3NTJjMC03NnpYOA?oc=5
 
-- Pew survey: What India's changing Hindu and Muslim populations tell us - BBC
-  Pew survey: What India's changing Hindu
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NLU1sQXIyMEZQbTZtQWdlQTk4aWZsYjN3bElRNTMwWjJMLTVlbXRVUVJfLUFyWWdMZHhaaUZSZU5FSVlZSDlNTzdibkFxN3I5T2pKTEFqSzFvLTQ?oc=5
+- Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace - NDTV
+  PM Modi calls for Ending Drug Menace at Cabinet
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHZ6SVhIc2ItanlhSG1pa2dmZmstUnN4bC1vcGRfdU1TLUo4bzl1UURhMU1hYkZKd01wb2RINERoVmt6UzFaUzk1NG9VUm50dWhkR3JTVVNYcFo2RUFHcFFHNjFuYnhnalMycjZCcUxjSDU1MDJBb0ZJS2dSZXRFOGFPZXV0UllITzZVcW5sY3RhNXJET3owcUlJWnhGYzVVYmJ1MWlZUy0tVFBVX2xZ0gG3AUFVX3lxTE9SRUxyeG90di1ZdFh6aVVJaUh5TTRjbWg5U2c2a2Frek1nUTJ3ZHRlR05IbjRhbm1HY29FZ2pXUS11UVJyUWIyYlVTLWl6YWR3Wl9fOGZOMWIzTjZPdG9sN3RMNHFPSnMtckdwNDNhWno2Z21CSktILXVONGY1TXp0OHI0bi1XNV91WExEd1Vpb3dpS2hKQmxKTE5LLTV6aExDMXhwemxKTUo1RjYweDJtV0FKam5QMA?oc=5
 
-- Record! Yuzvendra Chahal becomes first Indian bowler to cross historic milestone - The Times of India
-  Yuzvendra Chahal becomes first Indian bowler
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDBMdlp5V1k1SlZpd2dsUTI0Sm1IN0lxYmNmVXl6VElVeW9yTlhsNnhoT2lDVFRZaTI5NDR1U2ZWbnpzZW5QajFjNUgxWG9qaEpfSnJQTy1aNFdNOUhkRjFTOTdLajZpcXY0bWwzLTZoQ1U3TDVUYWtPTXdhY3cxZlpPMHgzbGlTTUdzeUJaNmwzZmtma0FpdWR4Q3dpcDdBdWhhS1hiOW5SbWxtMFNMMUt0c0ttM2owM2lySzJKN2JMTGdaeWZCbDNxRjhicUVHVGFBS280c3UyZGJhaWZRQ3dQTkdNZVVuU05zT20zenFYNG_SAfgBQVVfeXFMTzNkTzdhZHB0R1pRU3dhd3FtS3pSOEV6TkpCWENVTFQ5YmFoQnR0RmVGVl9kakRjTTM3WHJnc24taDNwRkpQWmd1ak9faEl2U2ZCSVh6ZHJwMzN0R3R5MXZXQVRwRF9nV2xKYl9hS2x4b1lwd1VVV0dSc1lGeFpvZTBfZ1kzX1h2Vkp5OWJxeGJfTGZyd0Vjc2tmMXNjc1BOVWZNRzJuUTl4dlMzOG9jUktUUVBUY1JCeU9OeVFya01fcy1aUnlMd2l5dGNXczh0U2N6S2xURkE2NG51eUpWZ2RISUs0OW1UanpCWW9jNjc2MkxYWUtmems?oc=5
+- PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in New Delhi - News On AIR
+  PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGxCZDZKMXBPcF91TDdDS29MZkplbmxVRkpvWUJZbjB4NjhkZnJqXzZ4Z1d1azhyaHZLM0VTY1JyM3hpTjJSLW9Ud3RTQkFDS1Z6dnMtN0h4NGVrYWluZ2Rxd2pJUy1BRmdPWGlEUUxtR0tNOVBHUmJnVk1xSlI3OVFpSUxremlnYU9uNHhTWllUWFczZTBuU1l4YjZxVEZtdjRmcnZpdWJKcEtvR09sN25fcXFaVHhFdDNvU1I0ZUxfOU9WMUhMN3had3RpOGlqN3o1VmliNA?oc=5
 
-- NEPRA Raises ₹110 Cr To Expand Plastic Recycling Capacity
-  Ahmedabad-based waste management startup NEPRA has raised ₹110 Cr (about $11.7 Mn) in an equity funding round.
-  🔗 https://inc42.com/buzz/nepra-raises-%e2%82%b9110-cr-to-expand-plastic-recycling-capacity/
+- Paytm Lines Up ₹200 Cr Investment in Singapore’s Funding Societies
+  Fintech major Paytm's board has approved an investment of up to ₹200 Cr in Singapore.
+  🔗 https://inc42.com/buzz/paytm-lines-up-%e2%82%b9200-cr-investment-in-singapores-funding-societies/
 
-- InPrime Finserv Raises ₹101 Cr To Expand Lending, Enter Micro-Mortgages
-  Bengaluru-based NBFC InPrime Finserv has raised ₹101 Cr (about $10.7 Mn) in a Series B
-  🔗 https://inc42.com/buzz/inprime-finserv-raises-%e2%82%b9101-cr-to-expand-lending-enter-micro-mortgages/
+- Can ShareChat’s Microdrama-Fuelled Revival Keep Going?
+  A thousand crores in annual revenue is a significant milestone for any Indian consumer internet company. And yet, crossing that is a big step for ShareChat.
+  🔗 https://inc42.com/features/can-sharechats-microdrama-fuelled-revival-keep-going/
 
-- Nitin Gadkari Urges States To Adopt Aggregator Guidelines Amid Bike Taxi Crackdowns
-  Union minister for road transport and highways Nitin Gadkari has urged states to adopt the Motor Vehicle Aggregator Guidelines.
-  🔗 https://inc42.com/buzz/nitin-gadkari-urges-states-to-adopt-aggregator-guidelines-amid-bike-taxi-crackdowns/
+- AI Startup Disseqt AI Raises $8 Mn To Scale International Operations
+  Disseqt AI, which builds AI agents for AI governance and testing, has raised $8 Mn (about ₹75 Cr)
+  🔗 https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/
 
-- August AI Raises $12 Mn To Expand AI Healthcare Assistant In The US
-  AI healthtech startup August AI has raised $12 Mn from Accel, Peak XV Partners, and Claypond Capital to expand its service.
-  🔗 https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/
+- Razorpay To File UDRHP By Next Week, Eyes IPO By February 2027: Report
+  Fintech major Razorpay is reportedly looking to file its updated DRHP as early as next week.
+  🔗 https://inc42.com/buzz/razorpay-to-file-udrhp-by-next-week-eyes-ipo-by-february-2027-report/
 
-- UPI MDR Rollout May Be Pushed Beyond 2027 State Polls: Report
-  The introduction of a merchant discount rate (MDR) on select UPI transactions could be delayed until after the 2027 state.
-  🔗 https://inc42.com/buzz/upi-mdr-rollout-may-be-pushed-beyond-2027-state-polls-report/
+- Anthropic IPO Rekindles Debate Over India’s AI Ambitions
+  Anthropic’s record-breaking IPO has triggered a debate among Indian business leaders on the country's ability to build globally competitive AI
+  🔗 https://inc42.com/buzz/anthropic-ipo-rekindles-debate-over-indias-ai-ambitions/
 
-- India and Japan unequivocally condemn terrorism; call for action against all UN-listed terrorist groups - News On AIR
-  India and Japan unequivocally condemn terrorism; call for action against all UN-
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOZERKVHQ3eF9pMXdMSXJ0OFU2QVgzdzNOclJmOUtKTVFJaWNkVGN1cW4waFEyVmpseUtodWVBNWVsMUc3RFFHaWluc1hLcV9ZRVEtaWdmVnFtZFJXNjZ3ZjNNM2ZLY0ZHeWlGdmtwTzc3RWUta1VxZk02ekNadFRDbk51R1Y1bmN1UEs5RWZMaG4xdG91VkFGX3NLSGVNVi1GdlBlZEhoUkpBdGhQd25VSWgwaVlMeTVlUllJTHM2alBWUDNxemdF?oc=5
+- 'Affair', Hitmen And Body In Forest: Woman Plots Murder Of Husband's Friend - NDTV
+  'Affair', Hitmen And Body In Forest
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRmRSYmcwQ2dQNDVTSnRqY3ZOSEdSUk4weDNKZ3JOckZ0eXhSWnhwMktBbFFiRWVFajZiR1lRS3IwMXotZTNoRTRXdDVOMlFLMlcyYWJOejBOTmtXbi1OV1B5bVpXbUVORFBuQVZGN2tLcVdfQUFaNi02RV9hR1c2cVpDVWZ3am9RVi1HcDNwbF91N3NRa2xBejAxUlgzVG90RXFGSS1QM0RPMXdQcnBaUXJ0YmM4UUVfNUlTSUd1T254M21kakduRFdyZEN0dzRuQVF4NEZmQ2h5M0nSAeMBQVVfeXFMTVFZbm1QM2hROEpOU1B6cDBVR2pjTTRJZGMwdWhBWld5VXdSeFlwaTVBb3ppMVp1U0dkb0pTNjRPbi1zb2JoU1VMazBON1B1cGV5djI1S2xKc3h1XzVTOWxNcjFGWm5pekQtbWZlYWYzemdtVU13Umtza1VHck52RDJJWmMyT2MwN0RIckFpOW9fYlhaQnpJS3FlcmR0QlhBUTQzSWRVWDJVV202LS1JdjdnZVB0YmpIbzlreUpVVThpdjBteVNlZll6WGRCZXhGZ2x1WjRMWC1XRllaMjRKbnRISlk?oc=5
 
-- U.S. court orders delivery of summonses to Doval, Goel through Delhi courts - The Hindu
-  U.S. court orders delivery of summonses to
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWpFRDZOQXpXSHdGMW1pY1BObjU3UkdTTEY5cV9sXzZhbXZ6U1VFWGVJcGJaY1ZiM2RjcTNubFg5blBzb051cFZYV1hVa1VCQlJsWUpRU0RFeTFLVkNDU2NIazFBTk1oVnpwOVFQRlMwWG04YjVyTEs4SFV1aGtEN0JpRXJaM0VJQXp2eFBxT2N2N3VFV1VTcklTeGhKdWNySEtoOTZ3aE1DUm9jU1ltVUVkaHN2RlpwcTR0by1kS29Xdl9tU2NydmhuQ0VKTkZXaEHSAdgBQVVfeXFMTWotNDJNa0g5d2xoX19wbEpYSk9kbkYycnEwei1JamNjNlRSN0xKWjg3cG55eUQtbjdHbjlJM0luM0Q0ZUpxYVFMN1JTSEJzc1d1dTRQWjBuWTFaU3ZWZ0plZVZoczlyUG51U3FpQnBPTExaakVTNWxrMk44MHo0cVNoYnFyUzB4OW5NZ3NNSDNjVE52R3l5bUM0bjR0eXlmLWZ6Sl94WnFkR1NqTTUwNjRiNFVsV2RoQVd5TlAyRlR2Wm5DaVlRVTFNUmw2Uy1zMmlYM3N1MlJL?oc=5
+- Nine Indian sporting stars shine in TIME100 Next India list - News On AIR
+  Nine Indian sporting stars shine in TIME100 Next India
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOM19idlM5VUNwTWF2NXc3WkUtaVU3cTBZd0NPN3FUaWlTYzlyY3VfaTRIRnA1ajNVcmZBaXNXSEFmYVdOZzZXX1ludUUxa3pDSm5qS1I4Um1IbUtPSU16WHpMblg5YWRfQzkxRldRTHN6QlIzU05qUnRyY1RTZUJXeVVXZDdVUmpUNF9udDB3?oc=5
 
-- Can China Build Its AI Future Without Nvidia? Opportunity For India As US Tightens Chip Curbs - NDTV
-  .com: Can China Build Its AI Future Without Nvidia?
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEhneFVQRjJBR3BqVGk5T2xqdjB4TmFfd2pxSVBvSU5vQnBhUlltdkRHYkU5NC11a2R6RGdUMjdEUm1VdVlBcGgxaktkUlUycG8tUDZnUnAtdVBSd1hLb09GdTdiT3JTb2pvRVpTTFFhVWtDbHpRcWtjaDNlYmFSRl9pQ25NemxTbExOQzFKN3RpZDhTVWI1Ym9PT2pCNkRiYkxOcUgxemxqVFd1aUxlRE5mUGZKcWN6dTVuSDhyckQtY0h0NTA5eXRPdTYxUdIB1gFBVV95cUxNTUhsT3JDMlJGVnpqQXZuZ0dJMGlRaU1OX2g2M0pIek54cE5OV1ctWjJSZXJCNnR5cXVMeWhGVzFRdVFFS0luVkVvVTlLdkdNZzFoTGtCcjFSd1UxcWpUU2R0bkgxUHFEb1VSODFaeDFQMUpiQWIzVkZIeFFEMXlFa3laeW1UT2FIcmpaVjh6eXRxYUV5VjZFNE9tSUw5S1A0Vm9PRi00US11LU4xSlBWcy03WmpQVXFaeHRibHFHb09OOUNtS3lSYTZPZ3JwYTltWFg2MWJn?oc=5
+- Karnataka to open India’s first government Sports Technology CoE - The Hindu
+  Karnataka to open India’
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUd3dXhUdG5jRGs4cEx1SzJEZVdKQW8yU3BiWElwRVpub0YtVThFcW1tZkltUHFpY3JwVTl6RjQtWHBsNFhNVkxiNzM1T2EwRURtU0xkaEs4bzNrTldHRUctZ3Vrc1BsN0gzU1QwM3J1UDBGTHNaMjJ2ci00MjRnUU9JbmViS3ZxODRuT0pDZ1pnVkFBTWFtbDBveWJyZ2VyUEZTbGcySGw0elNISXVLTkNKN1lYUnFBbHNDcW9oZS1sa1ByWjBmZmRfdU7SAdMBQVVfeXFMTjAzeldpbk1ScVFhS3Q4NHdvUllJSW1rdjlvUnRxN1NZLWExTmRBemVaNXFkLW9BVzJqc0h6VUx6TVZSRFUwUE43b09iY3JBMk90ZjF3UTdydFRpSjNJLV9IaUVEcVhsMHo1YzlPTXBsMlFodnFSZ2Y1bm1hMVhmalZ1SEtwUnJqSzQtZk9pS01FTDQ4Tjk5bG1oOTVGY09YcDViTnAzNGRRN2U4UUpha21HSnZOczlBQ1NxajFncTJqLXpXdG1FeXM3NTJjMC03NnpYOA?oc=5
 
-- Pew survey: What India's changing Hindu and Muslim populations tell us - BBC
-  Pew survey: What India's changing Hindu
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NLU1sQXIyMEZQbTZtQWdlQTk4aWZsYjN3bElRNTMwWjJMLTVlbXRVUVJfLUFyWWdMZHhaaUZSZU5FSVlZSDlNTzdibkFxN3I5T2pKTEFqSzFvLTQ?oc=5
+- Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace - NDTV
+  PM Modi calls for Ending Drug Menace at Cabinet
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHZ6SVhIc2ItanlhSG1pa2dmZmstUnN4bC1vcGRfdU1TLUo4bzl1UURhMU1hYkZKd01wb2RINERoVmt6UzFaUzk1NG9VUm50dWhkR3JTVVNYcFo2RUFHcFFHNjFuYnhnalMycjZCcUxjSDU1MDJBb0ZJS2dSZXRFOGFPZXV0UllITzZVcW5sY3RhNXJET3owcUlJWnhGYzVVYmJ1MWlZUy0tVFBVX2xZ0gG3AUFVX3lxTE9SRUxyeG90di1ZdFh6aVVJaUh5TTRjbWg5U2c2a2Frek1nUTJ3ZHRlR05IbjRhbm1HY29FZ2pXUS11UVJyUWIyYlVTLWl6YWR3Wl9fOGZOMWIzTjZPdG9sN3RMNHFPSnMtckdwNDNhWno2Z21CSktILXVONGY1TXp0OHI0bi1XNV91WExEd1Vpb3dpS2hKQmxKTE5LLTV6aExDMXhwemxKTUo1RjYweDJtV0FKam5QMA?oc=5
 
-- Record! Yuzvendra Chahal becomes first Indian bowler to cross historic milestone - The Times of India
-  Yuzvendra Chahal becomes first Indian bowler
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDBMdlp5V1k1SlZpd2dsUTI0Sm1IN0lxYmNmVXl6VElVeW9yTlhsNnhoT2lDVFRZaTI5NDR1U2ZWbnpzZW5QajFjNUgxWG9qaEpfSnJQTy1aNFdNOUhkRjFTOTdLajZpcXY0bWwzLTZoQ1U3TDVUYWtPTXdhY3cxZlpPMHgzbGlTTUdzeUJaNmwzZmtma0FpdWR4Q3dpcDdBdWhhS1hiOW5SbWxtMFNMMUt0c0ttM2owM2lySzJKN2JMTGdaeWZCbDNxRjhicUVHVGFBS280c3UyZGJhaWZRQ3dQTkdNZVVuU05zT20zenFYNG_SAfgBQVVfeXFMTzNkTzdhZHB0R1pRU3dhd3FtS3pSOEV6TkpCWENVTFQ5YmFoQnR0RmVGVl9kakRjTTM3WHJnc24taDNwRkpQWmd1ak9faEl2U2ZCSVh6ZHJwMzN0R3R5MXZXQVRwRF9nV2xKYl9hS2x4b1lwd1VVV0dSc1lGeFpvZTBfZ1kzX1h2Vkp5OWJxeGJfTGZyd0Vjc2tmMXNjc1BOVWZNRzJuUTl4dlMzOG9jUktUUVBUY1JCeU9OeVFya01fcy1aUnlMd2l5dGNXczh0U2N6S2xURkE2NG51eUpWZ2RISUs0OW1UanpCWW9jNjc2MkxYWUtmems?oc=5
+- PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in New Delhi - News On AIR
+  PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGxCZDZKMXBPcF91TDdDS29MZkplbmxVRkpvWUJZbjB4NjhkZnJqXzZ4Z1d1azhyaHZLM0VTY1JyM3hpTjJSLW9Ud3RTQkFDS1Z6dnMtN0h4NGVrYWluZ2Rxd2pJUy1BRmdPWGlEUUxtR0tNOVBHUmJnVk1xSlI3OVFpSUxremlnYU9uNHhTWllUWFczZTBuU1l4YjZxVEZtdjRmcnZpdWJKcEtvR09sN25fcXFaVHhFdDNvU1I0ZUxfOU9WMUhMN3had3RpOGlqN3o1VmliNA?oc=5
 
-- India and Japan unequivocally condemn terrorism; call for action against all UN-listed terrorist groups - News On AIR
-  India and Japan unequivocally condemn terrorism; call for action against all UN-
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOZERKVHQ3eF9pMXdMSXJ0OFU2QVgzdzNOclJmOUtKTVFJaWNkVGN1cW4waFEyVmpseUtodWVBNWVsMUc3RFFHaWluc1hLcV9ZRVEtaWdmVnFtZFJXNjZ3ZjNNM2ZLY0ZHeWlGdmtwTzc3RWUta1VxZk02ekNadFRDbk51R1Y1bmN1UEs5RWZMaG4xdG91VkFGX3NLSGVNVi1GdlBlZEhoUkpBdGhQd25VSWgwaVlMeTVlUllJTHM2alBWUDNxemdF?oc=5
+- 'Affair', Hitmen And Body In Forest: Woman Plots Murder Of Husband's Friend - NDTV
+  'Affair', Hitmen And Body In Forest
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRmRSYmcwQ2dQNDVTSnRqY3ZOSEdSUk4weDNKZ3JOckZ0eXhSWnhwMktBbFFiRWVFajZiR1lRS3IwMXotZTNoRTRXdDVOMlFLMlcyYWJOejBOTmtXbi1OV1B5bVpXbUVORFBuQVZGN2tLcVdfQUFaNi02RV9hR1c2cVpDVWZ3am9RVi1HcDNwbF91N3NRa2xBejAxUlgzVG90RXFGSS1QM0RPMXdQcnBaUXJ0YmM4UUVfNUlTSUd1T254M21kakduRFdyZEN0dzRuQVF4NEZmQ2h5M0nSAeMBQVVfeXFMTVFZbm1QM2hROEpOU1B6cDBVR2pjTTRJZGMwdWhBWld5VXdSeFlwaTVBb3ppMVp1U0dkb0pTNjRPbi1zb2JoU1VMazBON1B1cGV5djI1S2xKc3h1XzVTOWxNcjFGWm5pekQtbWZlYWYzemdtVU13Umtza1VHck52RDJJWmMyT2MwN0RIckFpOW9fYlhaQnpJS3FlcmR0QlhBUTQzSWRVWDJVV202LS1JdjdnZVB0YmpIbzlreUpVVThpdjBteVNlZll6WGRCZXhGZ2x1WjRMWC1XRllaMjRKbnRISlk?oc=5
 
-- U.S. court orders delivery of summonses to Doval, Goel through Delhi courts - The Hindu
-  U.S. court orders delivery of summonses to
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWpFRDZOQXpXSHdGMW1pY1BObjU3UkdTTEY5cV9sXzZhbXZ6U1VFWGVJcGJaY1ZiM2RjcTNubFg5blBzb051cFZYV1hVa1VCQlJsWUpRU0RFeTFLVkNDU2NIazFBTk1oVnpwOVFQRlMwWG04YjVyTEs4SFV1aGtEN0JpRXJaM0VJQXp2eFBxT2N2N3VFV1VTcklTeGhKdWNySEtoOTZ3aE1DUm9jU1ltVUVkaHN2RlpwcTR0by1kS29Xdl9tU2NydmhuQ0VKTkZXaEHSAdgBQVVfeXFMTWotNDJNa0g5d2xoX19wbEpYSk9kbkYycnEwei1JamNjNlRSN0xKWjg3cG55eUQtbjdHbjlJM0luM0Q0ZUpxYVFMN1JTSEJzc1d1dTRQWjBuWTFaU3ZWZ0plZVZoczlyUG51U3FpQnBPTExaakVTNWxrMk44MHo0cVNoYnFyUzB4OW5NZ3NNSDNjVE52R3l5bUM0bjR0eXlmLWZ6Sl94WnFkR1NqTTUwNjRiNFVsV2RoQVd5TlAyRlR2Wm5DaVlRVTFNUmw2Uy1zMmlYM3N1MlJL?oc=5
+- Nine Indian sporting stars shine in TIME100 Next India list - News On AIR
+  Nine Indian sporting stars shine in TIME100 Next India
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOM19idlM5VUNwTWF2NXc3WkUtaVU3cTBZd0NPN3FUaWlTYzlyY3VfaTRIRnA1ajNVcmZBaXNXSEFmYVdOZzZXX1ludUUxa3pDSm5qS1I4Um1IbUtPSU16WHpMblg5YWRfQzkxRldRTHN6QlIzU05qUnRyY1RTZUJXeVVXZDdVUmpUNF9udDB3?oc=5
 
-- Can China Build Its AI Future Without Nvidia? Opportunity For India As US Tightens Chip Curbs - NDTV
-  .com: Can China Build Its AI Future Without Nvidia?
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEhneFVQRjJBR3BqVGk5T2xqdjB4TmFfd2pxSVBvSU5vQnBhUlltdkRHYkU5NC11a2R6RGdUMjdEUm1VdVlBcGgxaktkUlUycG8tUDZnUnAtdVBSd1hLb09GdTdiT3JTb2pvRVpTTFFhVWtDbHpRcWtjaDNlYmFSRl9pQ25NemxTbExOQzFKN3RpZDhTVWI1Ym9PT2pCNkRiYkxOcUgxemxqVFd1aUxlRE5mUGZKcWN6dTVuSDhyckQtY0h0NTA5eXRPdTYxUdIB1gFBVV95cUxNTUhsT3JDMlJGVnpqQXZuZ0dJMGlRaU1OX2g2M0pIek54cE5OV1ctWjJSZXJCNnR5cXVMeWhGVzFRdVFFS0luVkVvVTlLdkdNZzFoTGtCcjFSd1UxcWpUU2R0bkgxUHFEb1VSODFaeDFQMUpiQWIzVkZIeFFEMXlFa3laeW1UT2FIcmpaVjh6eXRxYUV5VjZFNE9tSUw5S1A0Vm9PRi00US11LU4xSlBWcy03WmpQVXFaeHRibHFHb09OOUNtS3lSYTZPZ3JwYTltWFg2MWJn?oc=5
+- Karnataka to open India’s first government Sports Technology CoE - The Hindu
+  Karnataka to open India’
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUd3dXhUdG5jRGs4cEx1SzJEZVdKQW8yU3BiWElwRVpub0YtVThFcW1tZkltUHFpY3JwVTl6RjQtWHBsNFhNVkxiNzM1T2EwRURtU0xkaEs4bzNrTldHRUctZ3Vrc1BsN0gzU1QwM3J1UDBGTHNaMjJ2ci00MjRnUU9JbmViS3ZxODRuT0pDZ1pnVkFBTWFtbDBveWJyZ2VyUEZTbGcySGw0elNISXVLTkNKN1lYUnFBbHNDcW9oZS1sa1ByWjBmZmRfdU7SAdMBQVVfeXFMTjAzeldpbk1ScVFhS3Q4NHdvUllJSW1rdjlvUnRxN1NZLWExTmRBemVaNXFkLW9BVzJqc0h6VUx6TVZSRFUwUE43b09iY3JBMk90ZjF3UTdydFRpSjNJLV9IaUVEcVhsMHo1YzlPTXBsMlFodnFSZ2Y1bm1hMVhmalZ1SEtwUnJqSzQtZk9pS01FTDQ4Tjk5bG1oOTVGY09YcDViTnAzNGRRN2U4UUpha21HSnZOczlBQ1NxajFncTJqLXpXdG1FeXM3NTJjMC03NnpYOA?oc=5
 
-- Pew survey: What India's changing Hindu and Muslim populations tell us - BBC
-  Pew survey: What India's changing Hindu
-  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NLU1sQXIyMEZQbTZtQWdlQTk4aWZsYjN3bElRNTMwWjJMLTVlbXRVUVJfLUFyWWdMZHhaaUZSZU5FSVlZSDlNTzdibkFxN3I5T2pKTEFqSzFvLTQ?oc=5
+- Voice Choking At Cabinet Meeting, PM Modi Calls For Ending Drug Menace - NDTV
+  PM Modi calls for Ending Drug Menace at Cabinet
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHZ6SVhIc2ItanlhSG1pa2dmZmstUnN4bC1vcGRfdU1TLUo4bzl1UURhMU1hYkZKd01wb2RINERoVmt6UzFaUzk1NG9VUm50dWhkR3JTVVNYcFo2RUFHcFFHNjFuYnhnalMycjZCcUxjSDU1MDJBb0ZJS2dSZXRFOGFPZXV0UllITzZVcW5sY3RhNXJET3owcUlJWnhGYzVVYmJ1MWlZUy0tVFBVX2xZ0gG3AUFVX3lxTE9SRUxyeG90di1ZdFh6aVVJaUh5TTRjbWg5U2c2a2Frek1nUTJ3ZHRlR05IbjRhbm1HY29FZ2pXUS11UVJyUWIyYlVTLWl6YWR3Wl9fOGZOMWIzTjZPdG9sN3RMNHFPSnMtckdwNDNhWno2Z21CSktILXVONGY1TXp0OHI0bi1XNV91WExEd1Vpb3dpS2hKQmxKTE5LLTV6aExDMXhwemxKTUo1RjYweDJtV0FKam5QMA?oc=5
 
-- Record! Yuzvendra Chahal becomes first Indian bowler to cross historic milestone - The Times of India
-  Yuzvendra Chahal becomes first Indian bowler
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDBMdlp5V1k1SlZpd2dsUTI0Sm1IN0lxYmNmVXl6VElVeW9yTlhsNnhoT2lDVFRZaTI5NDR1U2ZWbnpzZW5QajFjNUgxWG9qaEpfSnJQTy1aNFdNOUhkRjFTOTdLajZpcXY0bWwzLTZoQ1U3TDVUYWtPTXdhY3cxZlpPMHgzbGlTTUdzeUJaNmwzZmtma0FpdWR4Q3dpcDdBdWhhS1hiOW5SbWxtMFNMMUt0c0ttM2owM2lySzJKN2JMTGdaeWZCbDNxRjhicUVHVGFBS280c3UyZGJhaWZRQ3dQTkdNZVVuU05zT20zenFYNG_SAfgBQVVfeXFMTzNkTzdhZHB0R1pRU3dhd3FtS3pSOEV6TkpCWENVTFQ5YmFoQnR0RmVGVl9kakRjTTM3WHJnc24taDNwRkpQWmd1ak9faEl2U2ZCSVh6ZHJwMzN0R3R5MXZXQVRwRF9nV2xKYl9hS2x4b1lwd1VVV0dSc1lGeFpvZTBfZ1kzX1h2Vkp5OWJxeGJfTGZyd0Vjc2tmMXNjc1BOVWZNRzJuUTl4dlMzOG9jUktUUVBUY1JCeU9OeVFya01fcy1aUnlMd2l5dGNXczh0U2N6S2xURkE2NG51eUpWZ2RISUs0OW1UanpCWW9jNjc2MkxYWUtmems?oc=5
+- PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in New Delhi - News On AIR
+  PM Modi discusses ways to strengthen India-UK strategic partnership with Prince and Princess of Wales in
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGxCZDZKMXBPcF91TDdDS29MZkplbmxVRkpvWUJZbjB4NjhkZnJqXzZ4Z1d1azhyaHZLM0VTY1JyM3hpTjJSLW9Ud3RTQkFDS1Z6dnMtN0h4NGVrYWluZ2Rxd2pJUy1BRmdPWGlEUUxtR0tNOVBHUmJnVk1xSlI3OVFpSUxremlnYU9uNHhTWllUWFczZTBuU1l4YjZxVEZtdjRmcnZpdWJKcEtvR09sN25fcXFaVHhFdDNvU1I0ZUxfOU9WMUhMN3had3RpOGlqN3o1VmliNA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-19 15:08:15 UTC_
+_Last updated: 2026-11-20 00:14:52 UTC_
