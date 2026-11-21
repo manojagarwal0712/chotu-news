@@ -1,64 +1,76 @@
 # 📰 Daily News Summaries
 
-- India-Nepal rail connectivity: PM Modi, Balendra Shah to flag off Ayodhya-Janakpur Express on Nov 23
-  
-  🔗 https://indianexpress.com/article/india/india-nepal-rail-connectivity-pm-modi-balendra-shah-to-flag-off-ayodhya-janakpur-express-on-nov-23-10972853/
+- US President praises India’s economic growth & low interest rates - News On AIR
+  US President praises India’s economic growth &
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxORmFLSkZkaUdadk5zT0t0NkhqSDZPTXM3a1Q4UGpCb1RrLTlIZEdCVEVXcXNkVWxLeHRuYm9FS2NNb1JUSzNXcGJjMERkRUVHZzQwXy1BanUySUd5VTBxZFF3YWsyUGt3WDByT1RYYTBLTm9vVVVjM1FwQm5jOXNhSU1NaTBYQVE3ZkpmLXJGY25wUQ?oc=5
 
-- India crosses 1 crore HPV vaccinations in 9 months, 6 states hit 100% mark
-  
-  🔗 https://indianexpress.com/article/india/india-hpv-vaccination-drive-one-crore-doses-87-percent-coverage-10972825/
+- ‘Look at India, they have low interest rates’: Trump says U.S. could achieve 14–15% economic growth - The Hindu
+  ‘Look at India, they have low interest rates’: Trump
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzB4OUVERUVFY081YkVlOGdkenBWeTYxdFYzY2ExVlhXTW1QbmhLNGt6MkNOTEN3Skh2UUFYVmU5YVdLV2pabzJDSURSXzh5c0JJM05ZUkVvWjBsQW5zVEhYUVpnSTNVaDlxOW14YWFuWkE2RzBEN0M3bnJQMHVhVXhtc1dZVG1RNmY0ekRHZXdELTNkQUZHQUxkb1d2NEpvSzRraWg5bXFHbENwM3VmdnZHb3VqbVpETEVsMm93cmZjVXRqYWt5MlpDbXhpdzgwcVBkTk5kTHJxcEh6R0ctLS02UFlMU3ZnZXNr0gHyAUFVX3lxTE82NzVUb0dpd2xrbmRXRTVlLS1ETUs1bVFNV0xMWU5sLXkzMmNQVUxLcmxHUTh1c3ZaUVJkcmlvV29LcVh4b2w1cG9fcDFybmNPcWpjRjhzNmJoTWptMWtDS0h6VHRCalBsc0V2WmpBQXIwUk14c1BfVFVjNWlLVTN0bVJ1elhDR0pXRHl5azV1bHplbjRhMEF1Mno4QjBGb192UldMdWFBU3VzaXl5Y2pXUTh4Qk54SFlFc2dPdkNSZHhRbGNMYmhDSkRmVEZlakdHU3pELVdFNm13N0lSSGZSZDJVRGFpZXJYMVBmNmhJMzBR?oc=5
 
-- Heritage networks to youth exchanges, SCO members outline cultural roadmap
-  
-  🔗 https://indianexpress.com/article/india/sco-civilisational-dialogue-forum-india-iran-cultural-proposals-10972798/
+- 'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV
+  'Look At India': Trump Targets US Central
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5
 
-- India’s first bullet train project: 50-km Surat-Bilimora section gets overhead power supply
-  
-  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-surat-bilimora-section-overhead-power-supply-10972710/
+- A new Nepal, an old neighbour - Balendra Shah's India test on first visit - BBC
+  A new Nepal, an old neighbour - Balendra Shah's
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1acTNfOWpLRVJwczVXZ3EwdkFrZk9wS29FMHd3bTVPUzk3eHZiQTh0UnlQZENOUV9iems3dlpvclk1cWhsV3FGdFhhNm83YlV1cDlNVG1rZGZtUWs?oc=5
 
-- In first remarks since Siang clashes, Amit Shah calls dam a national project, offers talks
-  
-  🔗 https://indianexpress.com/article/india/amit-shah-siang-upper-multipurpose-project-arunachal-pradesh-protests-10972634/
+- India’s opposition stages protests against Meta over account removals - Al Jazeera
+  India’s opposition stages protests against
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTFJdFBxbXVIb2U3Vm83Z3RncVQ1cHhLWG40Y2lyTW42RDNlNzl6alJDLUR5R0R1TG1rQzJEV0x6QUNaUVJnQUotR2phTXFmSFdvRzJ4d1lKSWxPM2ZPTDIzTms2SGpBQjl6MUJRQk9jRmtWUlFxSXpFb2RTQ1ZGNmhCbmQ1ckpXY2dhMThUUjc1X3lGWG1oYU1rc3lqVFBJTW1HSmdRWWd2OS1YNEpj0gG0AUFVX3lxTE8yTWtEMU1EZ2tFMEp1YS1mZDBfMGV0blFENTllZ0p5NkpjRjdtTTlWUFVTQWdZdVVhX045TzJQMnl3VXh3UmU5d00wMEJLN192ZWtPYTNISmNoUlRMZ2dpclk0OGIwVlBmQ1Z5SzIxQ2JCd3dTN0VaRnA4aGFaNHRMOG1zRlNBT3A3UXBGS0hWcVN1a1RFTXk5TDEwdXhQYTNPYzJqOU9oMm1EdEdkbXhuZDV0MA?oc=5
 
-- I tried the new iPad mini with OLED. Why there’s no going back now
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/ipad-mini-2026-oled-review-10972818/
+- Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions. - The New York Times
+  Tech Outages Are Only the Beginning. A.I.
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5
 
-- Fooled by AI: How cybercriminals use deepfakes to lure people into investment scams
-  
-  🔗 https://indianexpress.com/article/technology/cybercriminals-deepfakes-investment-scams-cyber-fraud-10972682/
+- Warner Music Group to develop Bengaluru as global technology hub - The Hindu
+  Warner Music Group to develop Bengaluru as
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQbTFfV3BLNVhDQXR1R2oyNHMxNEdPLUJjYkhsd1hPTUZhSUE5OWpkbTQ1UmJOS21wZTdVWjdyUEJWMVZsOFRDaFNITE9vdUM1QzFaSUJfTVNpMUEzM1BoMTdpazZ5UHQwdTNyM05OblhvdTFZdXBWNlFjNnVfWUZRSUN2R1pIcWQ4eWxPUW9FSjktN05mZ0VGb3pJMWRFYVdMUUowQUg1RVUzMTB2ME1PcHZHMTBDMEhFZkt3UnFCV2pIYWlWMDRpU0tsU0o1Z9IB1AFBVV95cUxPekN1QlF6T0oyTzdxMWtiZEZ3X3c0VXAwQWVFaDBSMF9nUzFOQzRjR2Z5blRGb2ZEc3pHRWVOa1I5X0h3NG1aeUlwVVhIOEk1SlB5TFlPSmxhZ29OY2FjZGh0Wk9WT3J2TWZPMko4b250THVINjRlM25SR09XMnJsejA2S3pEV2NUZEU3YXVVTjZrMHNJX1V4bGFQSG1EdmFqMWItaUFfZ2hjTWVtZmZyRk5ubUE4Y2FBMUVrRnN4aDV3ZzlXeDdxVHBiU3Q0MUdBcHJMVA?oc=5
 
-- Ultraprolink Travel Mate Pro33 review: One device that replaces your travel adapter, extension cord
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/ultraprolink-travel-mate-pro33-review-10972377/
+- International UN talks on controlling use of autonomous weapons collapse | Weapons technology - The Guardian
+  The Guardian reports on UN talks on controlling use of autonomous
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUNMSUo1X2dYS3gzSVJxMmttOF95YXNZSHVxdkVqcVNocWdsSzdqMVROd0hjdWZWM3ZDbFB3UVFiNVZtZjQtTjhvUVBIMDF1eXAzdXRhRGcwTmVHajZyS09KU2hZdFRfam5GZlZSNng4emstWlNWakpZUW91dU05aTVZcjdXMmRMX2VZYlEyUWZHbTFTcm1ueklldGNia0IzeG4yVW92RmJISUVIVlE?oc=5
 
-- Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ai-riemann-hypothesis-proof-claim-10972258/
+- AI and social media allows memories of the lost to be preserved - BBC
+  AI and social media allows memories of the lost to
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wNEh1bW1CeHo2VjhDZGlhQUpNRkc4TExDQkFhaW05dmpqcWNNQTZhcUtGMV9fWG1uYTdXOEoxc3E5bWRIY1R6ZmJ1NlBpbWMzSVlWOThYS21QRGc?oc=5
 
-- Tech to tackle urban traffic exists, what we need is faster action: Pawan Mulukutla, WRI India
-  
-  🔗 https://indianexpress.com/article/technology/urban-mobility-indian-cities-ai-public-transport-wri-india-10971738/
+- Tech outages are fueling a new doomsday economy - CNBC
+  Tech outages are fueling a
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFBmVDdkdkhjMVlqc3c0Q21Tb0I0bi1TTHdvYVhDWm11X2t6eTBoUzlTWGlYLXpNTlp2bGNnQ3MzSVc0WnBQbkY3MHVzRVpRRHFQQWlEUXlOcE5yQUV2T2ZnVWxlQkt2andiXy1rSm5VTG9VamtvRUpLdjN6U2M3UdIBgwFBVV95cUxQZ1c5SEFMOURPekZKQURlaG9aTTdEVjZFRi1BMnBBUkl5Skh1d2JKY3d1bndKLUpXYVdtNWRHWEM5SHpEOVI4cnBheS1tZTl5cXpNRk53WXktSUlJcnRkTG9BMExxOXJ1QlpoMjdzblZJeTdWcXJ0c0p1MFdQR1VzQXhObw?oc=5
 
-- MoEngage cyberattack: SaaS startup confirms breach via third-party vendor – what it said and how many customers affected
-  MoEngage disclosed a cybersecurity breach in late October. The company says fewer than 1% of customer accounts were affected and the incident was contained.
-  🔗 https://www.livemint.com/companies/news/moengage-cyberattack-saas-startup-confirms-breach-via-third-party-vendor-what-it-said-and-how-many-customers-affected-11795265588243.html
+- CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation
+  A wave of multibillion-dollar takeovers is reshaping the cybersecurity industry. The biggest companies race to
+  🔗 https://www.livemint.com/companies/crowdstrikes-talks-with-zscaler-show-ai-led-cyber-consolidation-11795289624175.html
 
-- Shah Rukh Khan, Aryan Khan's D’YAVOL X enters physical retail with Golden Goose partnership
-  SRK and Aryan Khan's D’YAVOL X is making its physical retail debut through a partnership with Golden Goose. The first collection, featuring exclusive sneakers and streetwear, launches
-  🔗 https://www.livemint.com/companies/news/shah-rukh-khan-aryan-khans-d-yavol-x-enters-physical-retail-with-golden-goose-partnership-11795265933833.html
+- Bloom raises $75 million from Kedaara Capital to accelerate expansion, invest in AI technology
+  Tech-driven hospitality brand plans to expand portfolio to
+  🔗 https://www.livemint.com/companies/news/bloom-raises-75-million-from-kedaara-capital-to-accelerate-expansion-invest-in-ai-technology-11795284401832.html
 
-- YouTube faces $3 billion payout to US schools over claims of harming students' mental health
-  Google's Chromebook is also the most widely used laptop among students in the country. The platform has become deeply integrated into students
-  🔗 https://www.livemint.com/companies/news/youtube-faces-3-billion-payout-to-us-schools-over-claims-of-harming-students-mental-health-11795258515140.html
+- Who is Priya Timori? Orbit8 Media appoints marketing and technology professional as growth director
+  Priya Timori will lead business development, strategic partnerships and client relationships at Orbit8 Media.
+  🔗 https://www.livemint.com/companies/people/who-is-priya-timori-orbit8-media-appoints-marketing-and-technology-professional-as-growth-director-11795281410760.html
 
-- Voltas signs joint venture agreement with Atomberg Innovation, to hold 50% stake in entity — All we know
-  Voltas has executed a joint venture agreement with Atomberg Innovation for the development, manufacture and commercialisation of
-  🔗 https://www.livemint.com/companies/news/voltas-signs-joint-venture-agreement-with-atomberg-innovation-to-hold-50-stake-in-entity-all-we-know-11795248836596.html
+- IHCL marks 400-hotel milestone with Taj Yelahanka, deepens Krishna GVK partnership
+  IHCL has opened its 400th operating hotel with the launch of the 256-key Taj Yelahanka in Bengaluru. The property marks the seventh hotel under its 25-year
+  🔗 https://www.livemint.com/companies/news/ihcl-marks-400-hotel-milestone-with-taj-yelahanka-deepens-krishna-gvk-partnership-11795277914880.html
 
-- Ashoka Buildcon loses Saudi Arabia contract worth  ₹846 crore: What happened and what it means
-   Diriyah Company cancelled the project, citing internal reasons. The cancellation comes amid a 73% decline in the company's Q2 standalone net profit.
-  🔗 https://www.livemint.com/companies/news/ashoka-buildcon-loses-saudi-arabia-contract-worth-rs-846-crore-what-happened-and-what-it-means-11795249520850.html
+- What is Bagheera AT1? Adani Defence &amp; Aerospace tests ATGM system in Rajasthan: Check capabilities, specifications
+  Adani Defence &amp;amp; Aerospace demonstrated its vehicle-mounted Bagheera AT1 anti-tank missile system at Rajasthan’s
+  🔗 https://www.livemint.com/companies/news/what-is-bagheera-at1-adani-defence-aerospace-tests-atgm-system-in-rajasthan-check-capabilities-specifications-11795269956004.html
+
+- Dividend jackpot in chemicals: Indo Borax, GOCL and Bayer CropScience offer yields of up to 10% | Check details
+   Indo Borax &amp;amp; Chemicals led the three specialty chemical stocks with a 10.3% FY26 dividend yield. GOCL Corporation at 9.
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-jackpot-in-chemicals-indo-borax-gocl-and-bayer-cropscience-offer-yields-of-up-to-10-check-details-11795277367660.html
+
+- Max Healthcare, Fortis, Apollo, Aster: Hospital stocks steal show on D-Street with up to 14% rally - Buy now or wait?
+  Apollo Hospitals, Fortis, Max Healthcare and Aster DM Quality Care all advanced on Friday. Hospital stocks rallied up to 14% over five trading sessions.
+  🔗 https://www.livemint.com/market/stock-market-news/max-healthcare-fortis-apollo-aster-hospital-stocks-steal-show-on-d-street-with-up-to-14-rally-buy-now-or-wait-11795262811423.html
+
+- Bitcoin price crash: ​Falls to lowest level in two years - What’s behind plunge of world’s largest cryptocurrency
+  Analysts say the cryptocurrency market is experiencing a sharp deterioration in investor confidence. Market participants
+  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html
 
 - Stock split reset: SanDisk stock crashes 87.5% overnight? Here's what investors need to know about its 8-for-1 split
   SanDisk completed an eight-for-one stock split. The adjustment lowered the per-share price from $755.16 to about $94.40
@@ -68,57 +80,45 @@
   Nifty Bank rose around 16% month-to-date to a record intraday high of 64,485 on November 20. PSU and private bank indexes also advanced sharply, while
   🔗 https://www.livemint.com/market/stock-market-news/psu-vs-private-banks-who-is-powering-nifty-banks-record-high-rally-after-5-surge-sbi-hdfc-au-canara-target-price-11795255387777.html
 
-- Gold, silver price crash: DSP Mutual Fund turns bullish on bullion, reveals new buying strategy; check price levels
-  Gold prices plunged to a 14-month low, recording their steepest weekly decline in eight months. DSP Mutual Fund is gradually buying gold and silver as prices fall, using predefined price levels.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-price-crash-dsp-mutual-fund-turns-bullish-on-bullion-reveals-new-buying-strategy-check-price-levels-11795252615511.html
+- Meet Ishita Jain, the Google AI GTM leader driving business growth and working with enterprises across Southeast Asia
+  Ishita Jain has joined Google in an AI Go-to-Market role. She will work with enterprises across Southeast Asia to
+  🔗 https://www.livemint.com/technology/tech-news/meet-ishita-jain-the-google-ai-gtm-leader-driving-business-growth-and-working-with-enterprises-across-southeast-asia-11795282632488.html
 
-- Mahanadi CoalFields IPO GMP Check: Down 92% from  ₹9.25 to  ₹0.7, issue struggles to attract bids- Subscribe or avoid?
-  Mahanadi Coalfields’ IPO remained undersubscribed after two days. Its grey-market premium plunged 92% to  ₹0.70, implying
-  🔗 https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html
+- GTA 6-inspired luxury collection unveiled: Caviar launches gold-plated iPhones, Samsung Fold8 and Ray-Ban smart glasses
+  Luxury brand Caviar has unveiled its Most Wanted collection of customised smartphones and Ray-Ban smart glasses. The designs draw on the game’
+  🔗 https://www.livemint.com/technology/gta-6-inspired-luxury-collection-unveiled-caviar-launches-gold-plated-iphones-samsung-fold8-and-ray-ban-smart-glasses-11795280482124.html
 
-- Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern
-  Taiwan has widened curbs on short sales of local stocks and said it has been buying shares. The island's benchmark index had its worst weekly fall
-  🔗 https://www.livemint.com/market/taiwan-widens-short-sale-curbs-after-shares-plunge-on-ai-concern-11795255471195.html
+- GTA 6 console comparison: PS5 Pro takes the lead – why is it the best option? How do PS5 and Xbox stack up?
+  A omparison finds the PS5 Pro delivers the best GTA 6 experience. The standard PS5 and Xbox Series X are broadly similar. Xbox Series S makes the biggest visual &amp;amp; performance compromises.
+  🔗 https://www.livemint.com/technology/gta-6-console-comparison-ps5-pro-takes-the-lead-why-is-it-the-best-option-how-do-ps5-and-xbox-stack-up-11795274283470.html
 
-- Motorola Android 17 eligible phones list India: Check Edge, Razr, Moto G, and 29 other models set to get the update
-  Motorola has named 29 smartphones eligible for Android 17. The phones include models from its Edge, Razr and Moto G series. Nine phones are already receiving the stable update
-  🔗 https://www.livemint.com/technology/tech-news/motorola-android-17-eligible-phones-list-india-check-edge-razr-moto-g-and-29-other-models-set-to-get-the-update-11795265416930.html
+- GTA 6 reportedly cost over $1 billion: How many copies does Rockstar need to sell to recover its budget?
+  GTA 6’s development budget is reportedly above $1 billion. At its $79.99 standard price, the game would need to sell millions of copies
+  🔗 https://www.livemint.com/technology/gta-6-reportedly-cost-over-1-billion-how-many-copies-does-rockstar-need-to-sell-to-recover-its-budget-11795272941341.html
 
-- CERT-In flags unauthorised payments beyond financial sector
-  The Indian Computer Emergency Response Team (CERT-In) has flagged unauthorised payments beyond the financial sector. The reported cases affect technology service providers that
-  🔗 https://www.livemint.com/technology/certin-flags-unauthorised-payments-beyond-financial-sector-11795255909358.html
+- Nations agree to extend talks on AI killer robots but no firm commitment to rein them in
+  Nations agree to extend talks on AI killer robots but no
+  🔗 https://www.livemint.com/technology/nations-agree-to-extend-talks-on-ai-killer-robots-but-no-firm-commitment-to-rein-them-in-11795274385521.html
 
-- Huawei reveals ultra-thin Watch Air ahead of November 24 launch: Check design, features, colours, and what to expect
-   Huawei said this ultra-slim build is engineered to deliver
-  🔗 https://www.livemint.com/technology/tech-news/huawei-reveals-ultra-thin-watch-air-ahead-of-november-24-launch-check-design-features-colours-and-what-to-expect-11795251197886.html
-
-- GTA 6 beats Avengers Endgame, GTA 5 to become fastest-selling entertainment release with $3.79 billion Day 1 sales
-  Time-off requests for the day GTA 6 launched were roughly 20% higher than in comparable pre
-  🔗 https://www.livemint.com/technology/tech-news/gta-6-beats-avengers-endgame-gta-5-to-become-fastest-selling-entertainment-release-with-3-79-billion-day-1-sales-11795247104726.html
-
-- South Koreas Lee says speed is vital in AI race on data centre visit
-  South Korea's Lee says speed is vital in AI
-  🔗 https://www.livemint.com/technology/south-koreas-lee-says-speed-is-vital-in-ai-race-on-data-centre-visit-11795239138273.html
-
-- Market Has Worst Week Since 2020. Look For These Absolute Losers. - Investor's Business Daily
-  Market Has Worst Week Since 2020. Look For These Absolute
+- Dow Jones Futures: After Nvidia, Anthropic Fuel Worst Week Since Covid, Look For These 'Absolute Losers' - Investor's Business Daily
+  Dow Jones Futures: After Nvidia, Anthropic Fuel Worst Week Since Cov
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGZqY3FoUjhCTGtSbnJQMmlMMlNQWGxuQ1UyR09vYVpCY2xHcU5la0pPb0FGbnkzZ3AwRThVNXdMcXk4cEZ4elRxd1VKVHRqTEdxUGtHeUZNS1RPQkVKdUpXeVJscjg1Qm1zUHpjMDlzYUQ5UUE0X3FVTzRqRC1FWVRGU0NXWUI0Rk1FWERnVWxkWEtRbTJNc3Nldms4emVsSF9yMU4xaDU4SWh6TDgydjJWa3ZYQ2pFaUp2TFhmdUh6cFU?oc=5
 
-- US markets lose $6 trillion in a week as S&P 500 suffers longest losing streak since 2020 - Moneycontrol.com
-  US markets lose $6 trillion in a week as S&amp;P
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaW96R1QtQ3BWUng5NE5ncUxtWWlMVHBIUGYwVHJhMXBLVVpsMHQwTVFMT1JQLXZhaVdUZ2xScU9mREZHT29YN1NNb3ZmbHRsNkJHT3N4dXZ3MmVYT2hzRGVnTDREdWxUN0dseHNjbkR2Y29Obk5XRm5lQWtDd3ItY0lSdVgxTzdzcElld0p5QW5uWDkxdFFKNk1OV1M1VmdkSGlYdnowNzVhbnViWnpUTHQtVEp1TG1nRVBBZWF2ZkhtUE1RZ00tOG5xa1FCYm5YZTd2RV9QWWU0YkdMZHB1NWVTNm1QWllp0gHuAUFVX3lxTE03emN4c2JOT1o3OUtoVHFzWUpGQUd2NGc5M2dDYnhtYUNqZmxKSFA5YUZQVWFrUHNNZG5BSGVpZUxwQlhsTWx1NDg4NFFQdXFxanJOYVdCRHFmek83R1pXUzFfNlRYdWU4dDBWZmFYdjZmZ2t2dFgzQUZTZGtHVmljNWR3elJZbG5Oa2ZkdWVUS1Z1bnllbF9rWElyUEs4UVE0VFAyZHd5c1hpT2k4SFRmSlpwSU5KNzlIbV9ZM3FkZ2MxdzlZOFh4UFJocE9zWkJSWm9TWEg3YmRZaFNvNXQ1X3AxTTktTV9xTFNYelE?oc=5
+- 5 Things Investors Need to Know About Friday’s Markets - Investopedia
+  5 Things Investors Need to Know About
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEszeXl2SW5xX19TZnhpNEh0bUNjYlpUTGxkcjlBM25SZXFBeFVnSVZiUEc4cURVMkp4c1hPaklITnlGeFJaS1lSOU9QaUFHcndmbm9OT3JadGYzZDBKVHJFUXFPMzZfanhIZXh6eGswall3YzZBTkJYQTRsRmhGTXJxeHE0enVLMTdud2Y1ekZiYU5BeERF?oc=5
 
-- Nasdaq Index: Nvidia Leads Tech Stock Rout as Nasdaq Nears Bear Market - FXEmpire
-  Nasdaq Index: Nvidia Leads Tech Stock
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmUwVWx0V3V0VDFfSTVMSHIzTElCY2tFWGVJWkZKR1B2d1VGLXJHTlNGTnZBUTk4MnpXVmF2MGg1VXNkUFF2NDJhNGxFTXZIdmFzTmhTZ0RhVVNhT0x5eHZBempkOUNybE9ySDZqX1VFZ0Z3YXpCcmpKc0hPc0dKZUV1Q2tIOEpuWmNEa2k0aEg2b2lIdjFTM3VuSVJsemU4OFlwZnZEQnpEcmRyOUpMWElucEljTG0wc1BQTQ?oc=5
+- US Market Outlook: Indices plunge deeply - BusinessLine
+  " target="
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb2ZyVWtUbVJyYl8zajVubW5VSk0wUF9CN01UdTl6YWczOVkwZmR3OTlqck1lcmtma0EzU1NQZXhkeC1ua0NGcW84d0g5MDFrVDI4djllQmI3TXF6eURHcjNDMWtYMVdpSWtOdmdCQ0xseUxTbHRVelJRU2xhbFBJU3ppM0h1NUtFWHBmMXJ4RFJFQUNzUFp5WHFRX1VnZWtXMUxkQTBad2tMV1pQN21JZWxUdWt6Z0pCWXd1N3pPZmVBWmfSAcoBQVVfeXFMTVpLSnJjYVRVN2FsQWN6VXdXT3BzWHlGeS1iVUMxLUZGRlR5M0lYc0N6QjBCZ09mTFZ6SFMxM1VlMm1YQW9DUk5BMmQ2WmY0M2VCRG1ORXRrYzVlZFZTdmU0MDVGYzlHRVVzd3lRdmZfSkgxQ1VTWEtVNE85ay14dDFlRXJyWndtRnd4S2F3Y3hZcUU3ajBXNjZkQW5Bb081TGk0T0w2dTUxLWxIMm5ab05KWlBab3hMNnk2X2k1TEpVNjJtSm5TbWRCZw?oc=5
 
-- Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum - Bloomberg.com
-  Goldman says Stock Selloff Has Legs as
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU1jaG5wWHRDVVE3anRoZWtQUlpsTDhnbHVfRDNMSWVidGlNS0RNY2o4QmV4NnNSVThSRnc0VkVfcmx3SVhUMVF2RWtKalBYWERvUDdLd29yT0VXMEx3enNzeGNUTk1uVkhoaDVMZ25URDd4ZVkyVVhnZjhJMlI4UlBGOFV0UGc4NGN0Ulp0UnlXT0dUMk5XV01DYTEzMlBNaHRPX0Z5bnIyeGk0cktoYmxObE1WUQ?oc=5
+- Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report - Kitco
+  Gold falls toward $3,500, silver slides as stock markets enter
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWVLN2w5UTZadnN4a2JLYzRka3dZUlB2U3pzdm1SQTJQOHZmZU9KaVhyMjNKQTdnTm1yOUFIT2RHU0dpN19mYkJGYmVqZVhWNXctLTZ5MEhyempMTWFwZm1Yang3TlZMR1dPa2pPNGwwa0dqQlY0S2VpM0RqSEV4Y243VVZxTXJrZFByN1pva0M1T2FjSzlNOFpNdkdLQi1kOWVzSmwzM2xrV0p3VlV1NXBodw?oc=5
 
-- BRICS+ markets offer Indian startups room to expand, says BRICS CCI chairman - ETLegalWorld.com
-  BRICS+ markets offer Indian startups room to expand
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdlF4WUVucEVteTgtdllOREpGa09UTHVPbXVtWElHT3l2WjR4N1NOUVhhaDF5c2lKRmF0eFJMVmFBQ1RlXzRIMDJQVFBBV2JMTUJhSEk1MGpmaXh5TnIxNlo0dDQzZGQ3QWNJZXJUTjE2c0gwUmRmVnMta0RnU3lIcjdlUVppdmwxMWg2QTl1YVlmOUl3YlBXenhUMlZLNExMdjZPUGVTdFBTY0hnMDhoc3YtWjlEblBLWXBfUGNPQXpSQ0M4QjBNclFQZlJjSlg2OWUwRjFhLTJ0c1pQdkx4R0Q0QTjSAeoBQVVfeXFMUHpQLTZoTmwzUDZ2OW5jYWMyQlkyajBnNkYzRjJwUnpDdGV3UXFhekZPamVidWRraXdMeHF2SzE3d2V1NW5VQjU1RzA2bU02TzJyVkMySWFCSUxkVzZqbi1nNUdrMllqNTF4QV9TekJoMkpCZ0FKel9jOHkzZ0EwcXlxWnhreGhpM1N3YkVCMDVLQ2FNLVBTOXJQWWZWa3FVYldYVThqNGd2bkVhMjVwS2RXdkcxNVlZVUZCSWZRdGZMcUNNTml3NW1NaHh2SEpfSEltTVJDcXdDZlRYLWVGX2d5MndRcjdyNktB?oc=5
+- Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open - CoinDesk
+  Bitcoin bounces 9% from two-year low to retake $60
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPazQwdWlpUGFEeW94QjNwc09ZYzFHblczcTFvUEI3SzdwMTE4cWw4T0RlcFhJcE50cWhhcWVaWnVxekgzVWJDWjNpWTJoZnEwcDBmVHA4NUZyVi1rNUU0dkRFZkpOMkZrYlBseEN4WWFFenlSbFJZVXp3REFlaUZ1UjNGTjdELVhDalhvd1lFNGJMUHktUlpDOWtCajF3TmZKYy1XOURObVAySU9yRS1Oclc2QTZaR2J5WGhpcXpoRWowaFJEUnpwUEFXYXNtYWs?oc=5
 
 - Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance
   Nifty surged 2.61% last week, gaining 656 points amid strong FII inflows. Resistance lies at 25,950–26,200,
@@ -152,53 +152,33 @@
   'Look At India': Trump Targets US Central
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5
 
-- IFFI pays tribute to seven Indian cinema stalwarts on birth centenaries - News On AIR
-  IFFI pays tribute to seven Indian cinema stalwarts on
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNEt0RUY3VXNCZEFja3JtTHpRV0ZpeGx6M3Uzby05TjVOVlFPTUZIckJ2Wklhcks2Q0FvTnZzQUh1ZzV1MTdKQ0t5alBfSUFVV25fVWU0a2VST1drTDZDaDU1ZzViaHJhVEdiWEh0bkpzU19LMHJPNTRxQWtuQ3hRQnA2SndQM1hkX3dXX2pKUmhUTEdEZ29uZzE2eWtzZw?oc=5
+- A new Nepal, an old neighbour - Balendra Shah's India test on first visit - BBC
+  A new Nepal, an old neighbour - Balendra Shah's
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1acTNfOWpLRVJwczVXZ3EwdkFrZk9wS29FMHd3bTVPUzk3eHZiQTh0UnlQZENOUV9iems3dlpvclk1cWhsV3FGdFhhNm83YlV1cDlNVG1rZGZtUWs?oc=5
 
-- 'China Backed Pakistan During Operation Sindoor To Curb India's Rise': US Panel - NDTV
-  'China Backed Pakistan During Operation Sindoor To
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1lYUWtHNk5UYW1JV3hZWFRUcGtJdnFDSzBtWWdVcG03SHFIN2UtMWtmOXBhZVhoM19ocDE5eWpWWkJDYU92VXNiY3MyZjVESHBKblRWRkxVd2JPX3RfUXZnYzk0cHBYVUZIMEczZDNPRmZfRzNfUVpNYS1wbEFUQnFmYmFqRGpNc1pUblk2VkNjMm9RbHR3SnUzZzgtSnRSZGk1cHdranE2X0h6dkxqRDFpa1RQRUXSAb8BQVVfeXFMUHpXVldkRzBwMUFTUnllUGlhR0FLenZvX1JSWUdScnBiazhxWmREYVpIR2xHMnJhdVlycVIyYW53Z0Q2UmtuSVR0RS1QZmFVOUNXNXhJcV9YLTRVeVZUQUlmYTR0QmZnbUZ5Q2k0eWZzRkRZWGkzN241SXdwbmhNVks2SVpycjdMVEVybjhZT2N6ZG9nUHVfUy1vcFF4RzFZMUViSGF0ZFR5S05jOGJ4LUVrWWlEQjZwakVRNFVaZUE?oc=5
+- India’s opposition stages protests against Meta over account removals - Al Jazeera
+  India’s opposition stages protests against
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTFJdFBxbXVIb2U3Vm83Z3RncVQ1cHhLWG40Y2lyTW42RDNlNzl6alJDLUR5R0R1TG1rQzJEV0x6QUNaUVJnQUotR2phTXFmSFdvRzJ4d1lKSWxPM2ZPTDIzTms2SGpBQjl6MUJRQk9jRmtWUlFxSXpFb2RTQ1ZGNmhCbmQ1ckpXY2dhMThUUjc1X3lGWG1oYU1rc3lqVFBJTW1HSmdRWWd2OS1YNEpj0gG0AUFVX3lxTE8yTWtEMU1EZ2tFMEp1YS1mZDBfMGV0blFENTllZ0p5NkpjRjdtTTlWUFVTQWdZdVVhX045TzJQMnl3VXh3UmU5d00wMEJLN192ZWtPYTNISmNoUlRMZ2dpclk0OGIwVlBmQ1Z5SzIxQ2JCd3dTN0VaRnA4aGFaNHRMOG1zRlNBT3A3UXBGS0hWcVN1a1RFTXk5TDEwdXhQYTNPYzJqOU9oMm1EdEdkbXhuZDV0MA?oc=5
 
-- Sarvam’s Token Factory Raises India’s AI Inference Stakes
-  Sarvam AI's Token Factory is a new layer of India&#8217;s artificial intelligence ecosystem.
-  🔗 https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/
+- Budget 2027: Industry Body BWA Seeks Tax Relief For Crypto Startups
+  Industry body Bharat Web3 Association (BWA) has submitted its recommendations to the finance ministry ahead of the upcoming Union Budget.
+  🔗 https://inc42.com/buzz/budget-2027-industry-body-bwa-seeks-tax-relief-for-crypto-startups/
 
-- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
-  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to a billion dollar company.
-  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
+- Atomberg & Voltas Execute JV Agreement To Build AC Compressors
+  IPO-bound consumer appliances startup Atomberg has executed a joint venture (JV) agreement with Tata-owned Voltas.
+  🔗 https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/
 
-- Fi Money Manages To Cut FY26 Loss By 25%To ₹153.3 Cr, Revenue Sinks 21%
-  Following an extended period of turbulence, fintech startup Fi Money managed to narrow its consolidated net loss.
-  🔗 https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/
+- Stalled Withdrawals, Millions Stolen: Inside India’s Crypto Exchange Troubles
+  India&#8217;s cryptocurrency exchanges are facing turbulence on multiple fronts, with banking disruptions, regulatory scrutiny, and cybersecurity incidents exposing vulnerabilities.
+  🔗 https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/
 
-- Traya’s FY26 Revenue Jumps 73% YoY To ₹585 Cr, Loss Up 23%
-  Haircare brand Traya’s top line zoomed significantly in the fiscal year FY26. The Fireside-backed startup’
-  🔗 https://inc42.com/buzz/trayas-fy26-revenue-jumps-73-yoy-to-%e2%82%b9585-cr-loss-up-23/
+- Swish FY26: Revenue Surges Close To ₹50 Cr While Loss Widens To ₹91 Cr
+  Quick food delivery startup Swish clocked in a revenue of over ₹50 Cr in the fiscal year 2025-26 (FY26)
+  🔗 https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/
 
-- Google Commits $5 Mn To Sundar Pichai’s Alma Mater IIT Kharagpur
-  Scaler Cofounder Anshuman Singh Unveils AI Training Data Venture Arcfront. Google announced a commitment of  $5 Mn in funding to IIT Kharagpur
-  🔗 https://inc42.com/buzz/google-commits-5-mn-to-sundar-pichais-alma-mater-iit-kharagpur/
-
-- US President praises India’s economic growth & low interest rates - News On AIR
-  US President praises India’s economic growth &
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxORmFLSkZkaUdadk5zT0t0NkhqSDZPTXM3a1Q4UGpCb1RrLTlIZEdCVEVXcXNkVWxLeHRuYm9FS2NNb1JUSzNXcGJjMERkRUVHZzQwXy1BanUySUd5VTBxZFF3YWsyUGt3WDByT1RYYTBLTm9vVVVjM1FwQm5jOXNhSU1NaTBYQVE3ZkpmLXJGY25wUQ?oc=5
-
-- ‘Look at India, they have low interest rates’: Trump says U.S. could achieve 14–15% economic growth - The Hindu
-  ‘Look at India, they have low interest rates’: Trump
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzB4OUVERUVFY081YkVlOGdkenBWeTYxdFYzY2ExVlhXTW1QbmhLNGt6MkNOTEN3Skh2UUFYVmU5YVdLV2pabzJDSURSXzh5c0JJM05ZUkVvWjBsQW5zVEhYUVpnSTNVaDlxOW14YWFuWkE2RzBEN0M3bnJQMHVhVXhtc1dZVG1RNmY0ekRHZXdELTNkQUZHQUxkb1d2NEpvSzRraWg5bXFHbENwM3VmdnZHb3VqbVpETEVsMm93cmZjVXRqYWt5MlpDbXhpdzgwcVBkTk5kTHJxcEh6R0ctLS02UFlMU3ZnZXNr0gHyAUFVX3lxTE82NzVUb0dpd2xrbmRXRTVlLS1ETUs1bVFNV0xMWU5sLXkzMmNQVUxLcmxHUTh1c3ZaUVJkcmlvV29LcVh4b2w1cG9fcDFybmNPcWpjRjhzNmJoTWptMWtDS0h6VHRCalBsc0V2WmpBQXIwUk14c1BfVFVjNWlLVTN0bVJ1elhDR0pXRHl5azV1bHplbjRhMEF1Mno4QjBGb192UldMdWFBU3VzaXl5Y2pXUTh4Qk54SFlFc2dPdkNSZHhRbGNMYmhDSkRmVEZlakdHU3pELVdFNm13N0lSSGZSZDJVRGFpZXJYMVBmNmhJMzBR?oc=5
-
-- 'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV
-  'Look At India': Trump Targets US Central
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5
-
-- IFFI pays tribute to seven Indian cinema stalwarts on birth centenaries - News On AIR
-  IFFI pays tribute to seven Indian cinema stalwarts on
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNEt0RUY3VXNCZEFja3JtTHpRV0ZpeGx6M3Uzby05TjVOVlFPTUZIckJ2Wklhcks2Q0FvTnZzQUh1ZzV1MTdKQ0t5alBfSUFVV25fVWU0a2VST1drTDZDaDU1ZzViaHJhVEdiWEh0bkpzU19LMHJPNTRxQWtuQ3hRQnA2SndQM1hkX3dXX2pKUmhUTEdEZ29uZzE2eWtzZw?oc=5
-
-- 'China Backed Pakistan During Operation Sindoor To Curb India's Rise': US Panel - NDTV
-  'China Backed Pakistan During Operation Sindoor To
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1lYUWtHNk5UYW1JV3hZWFRUcGtJdnFDSzBtWWdVcG03SHFIN2UtMWtmOXBhZVhoM19ocDE5eWpWWkJDYU92VXNiY3MyZjVESHBKblRWRkxVd2JPX3RfUXZnYzk0cHBYVUZIMEczZDNPRmZfRzNfUVpNYS1wbEFUQnFmYmFqRGpNc1pUblk2VkNjMm9RbHR3SnUzZzgtSnRSZGk1cHdranE2X0h6dkxqRDFpa1RQRUXSAb8BQVVfeXFMUHpXVldkRzBwMUFTUnllUGlhR0FLenZvX1JSWUdScnBiazhxWmREYVpIR2xHMnJhdVlycVIyYW53Z0Q2UmtuSVR0RS1QZmFVOUNXNXhJcV9YLTRVeVZUQUlmYTR0QmZnbUZ5Q2k0eWZzRkRZWGkzN241SXdwbmhNVks2SVpycjdMVEVybjhZT2N6ZG9nUHVfUy1vcFF4RzFZMUViSGF0ZFR5S05jOGJ4LUVrWWlEQjZwakVRNFVaZUE?oc=5
+- DGGI Probes ₹1 Lakh Cr China-Linked Gaming Transactions
+  The Directorate General of GST Intelligence (DGGI) conducted searches across Vijayawada and Hyderabad’s Banjara Hills.
+  🔗 https://inc42.com/buzz/dggi-probes-%e2%82%b91-lakh-cr-china-linked-gaming-transactions/
 
 - US President praises India’s economic growth & low interest rates - News On AIR
   US President praises India’s economic growth &
@@ -212,13 +192,33 @@
   'Look At India': Trump Targets US Central
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5
 
-- IFFI pays tribute to seven Indian cinema stalwarts on birth centenaries - News On AIR
-  IFFI pays tribute to seven Indian cinema stalwarts on
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNEt0RUY3VXNCZEFja3JtTHpRV0ZpeGx6M3Uzby05TjVOVlFPTUZIckJ2Wklhcks2Q0FvTnZzQUh1ZzV1MTdKQ0t5alBfSUFVV25fVWU0a2VST1drTDZDaDU1ZzViaHJhVEdiWEh0bkpzU19LMHJPNTRxQWtuQ3hRQnA2SndQM1hkX3dXX2pKUmhUTEdEZ29uZzE2eWtzZw?oc=5
+- A new Nepal, an old neighbour - Balendra Shah's India test on first visit - BBC
+  A new Nepal, an old neighbour - Balendra Shah's
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1acTNfOWpLRVJwczVXZ3EwdkFrZk9wS29FMHd3bTVPUzk3eHZiQTh0UnlQZENOUV9iems3dlpvclk1cWhsV3FGdFhhNm83YlV1cDlNVG1rZGZtUWs?oc=5
 
-- 'China Backed Pakistan During Operation Sindoor To Curb India's Rise': US Panel - NDTV
-  'China Backed Pakistan During Operation Sindoor To
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1lYUWtHNk5UYW1JV3hZWFRUcGtJdnFDSzBtWWdVcG03SHFIN2UtMWtmOXBhZVhoM19ocDE5eWpWWkJDYU92VXNiY3MyZjVESHBKblRWRkxVd2JPX3RfUXZnYzk0cHBYVUZIMEczZDNPRmZfRzNfUVpNYS1wbEFUQnFmYmFqRGpNc1pUblk2VkNjMm9RbHR3SnUzZzgtSnRSZGk1cHdranE2X0h6dkxqRDFpa1RQRUXSAb8BQVVfeXFMUHpXVldkRzBwMUFTUnllUGlhR0FLenZvX1JSWUdScnBiazhxWmREYVpIR2xHMnJhdVlycVIyYW53Z0Q2UmtuSVR0RS1QZmFVOUNXNXhJcV9YLTRVeVZUQUlmYTR0QmZnbUZ5Q2k0eWZzRkRZWGkzN241SXdwbmhNVks2SVpycjdMVEVybjhZT2N6ZG9nUHVfUy1vcFF4RzFZMUViSGF0ZFR5S05jOGJ4LUVrWWlEQjZwakVRNFVaZUE?oc=5
+- India’s opposition stages protests against Meta over account removals - Al Jazeera
+  India’s opposition stages protests against
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTFJdFBxbXVIb2U3Vm83Z3RncVQ1cHhLWG40Y2lyTW42RDNlNzl6alJDLUR5R0R1TG1rQzJEV0x6QUNaUVJnQUotR2phTXFmSFdvRzJ4d1lKSWxPM2ZPTDIzTms2SGpBQjl6MUJRQk9jRmtWUlFxSXpFb2RTQ1ZGNmhCbmQ1ckpXY2dhMThUUjc1X3lGWG1oYU1rc3lqVFBJTW1HSmdRWWd2OS1YNEpj0gG0AUFVX3lxTE8yTWtEMU1EZ2tFMEp1YS1mZDBfMGV0blFENTllZ0p5NkpjRjdtTTlWUFVTQWdZdVVhX045TzJQMnl3VXh3UmU5d00wMEJLN192ZWtPYTNISmNoUlRMZ2dpclk0OGIwVlBmQ1Z5SzIxQ2JCd3dTN0VaRnA4aGFaNHRMOG1zRlNBT3A3UXBGS0hWcVN1a1RFTXk5TDEwdXhQYTNPYzJqOU9oMm1EdEdkbXhuZDV0MA?oc=5
+
+- US President praises India’s economic growth & low interest rates - News On AIR
+  US President praises India’s economic growth &
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxORmFLSkZkaUdadk5zT0t0NkhqSDZPTXM3a1Q4UGpCb1RrLTlIZEdCVEVXcXNkVWxLeHRuYm9FS2NNb1JUSzNXcGJjMERkRUVHZzQwXy1BanUySUd5VTBxZFF3YWsyUGt3WDByT1RYYTBLTm9vVVVjM1FwQm5jOXNhSU1NaTBYQVE3ZkpmLXJGY25wUQ?oc=5
+
+- ‘Look at India, they have low interest rates’: Trump says U.S. could achieve 14–15% economic growth - The Hindu
+  ‘Look at India, they have low interest rates’: Trump
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzB4OUVERUVFY081YkVlOGdkenBWeTYxdFYzY2ExVlhXTW1QbmhLNGt6MkNOTEN3Skh2UUFYVmU5YVdLV2pabzJDSURSXzh5c0JJM05ZUkVvWjBsQW5zVEhYUVpnSTNVaDlxOW14YWFuWkE2RzBEN0M3bnJQMHVhVXhtc1dZVG1RNmY0ekRHZXdELTNkQUZHQUxkb1d2NEpvSzRraWg5bXFHbENwM3VmdnZHb3VqbVpETEVsMm93cmZjVXRqYWt5MlpDbXhpdzgwcVBkTk5kTHJxcEh6R0ctLS02UFlMU3ZnZXNr0gHyAUFVX3lxTE82NzVUb0dpd2xrbmRXRTVlLS1ETUs1bVFNV0xMWU5sLXkzMmNQVUxLcmxHUTh1c3ZaUVJkcmlvV29LcVh4b2w1cG9fcDFybmNPcWpjRjhzNmJoTWptMWtDS0h6VHRCalBsc0V2WmpBQXIwUk14c1BfVFVjNWlLVTN0bVJ1elhDR0pXRHl5azV1bHplbjRhMEF1Mno4QjBGb192UldMdWFBU3VzaXl5Y2pXUTh4Qk54SFlFc2dPdkNSZHhRbGNMYmhDSkRmVEZlakdHU3pELVdFNm13N0lSSGZSZDJVRGFpZXJYMVBmNmhJMzBR?oc=5
+
+- 'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV
+  'Look At India': Trump Targets US Central
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5
+
+- A new Nepal, an old neighbour - Balendra Shah's India test on first visit - BBC
+  A new Nepal, an old neighbour - Balendra Shah's
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1acTNfOWpLRVJwczVXZ3EwdkFrZk9wS29FMHd3bTVPUzk3eHZiQTh0UnlQZENOUV9iems3dlpvclk1cWhsV3FGdFhhNm83YlV1cDlNVG1rZGZtUWs?oc=5
+
+- India’s opposition stages protests against Meta over account removals - Al Jazeera
+  India’s opposition stages protests against
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTFJdFBxbXVIb2U3Vm83Z3RncVQ1cHhLWG40Y2lyTW42RDNlNzl6alJDLUR5R0R1TG1rQzJEV0x6QUNaUVJnQUotR2phTXFmSFdvRzJ4d1lKSWxPM2ZPTDIzTms2SGpBQjl6MUJRQk9jRmtWUlFxSXpFb2RTQ1ZGNmhCbmQ1ckpXY2dhMThUUjc1X3lGWG1oYU1rc3lqVFBJTW1HSmdRWWd2OS1YNEpj0gG0AUFVX3lxTE8yTWtEMU1EZ2tFMEp1YS1mZDBfMGV0blFENTllZ0p5NkpjRjdtTTlWUFVTQWdZdVVhX045TzJQMnl3VXh3UmU5d00wMEJLN192ZWtPYTNISmNoUlRMZ2dpclk0OGIwVlBmQ1Z5SzIxQ2JCd3dTN0VaRnA4aGFaNHRMOG1zRlNBT3A3UXBGS0hWcVN1a1RFTXk5TDEwdXhQYTNPYzJqOU9oMm1EdEdkbXhuZDV0MA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-21 14:04:00 UTC_
+_Last updated: 2026-11-21 22:49:28 UTC_
