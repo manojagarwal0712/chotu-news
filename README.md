@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- 'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RH
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5
-
-- Christian Organisations from Northeast India Oppose FCRA Amendment Bill, Seek Withdrawal of Controversial Provisions - Catholic Connect
-  Christian Organisations from Northeast India Oppose FCRA Amendment Bill,
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZnAzYU9QOWd5Sm5wY19aUHdGWG1QajV4Z0t0c1VNWEc2Zkx5ak1JdzZTeWVXWldSOVVGR2hzSXIzTXlYZE90TEx2dnMtcXhabjlxS3ZOQzVUcGFvTnJTLUtuRUxYanF3eTF6ekFJdU5SN2p2cXI0RW1EeXZIU09rbWpnblV6YVJqQ3duQmEtbjdldkhndXNaRV9HWFY0SVBENktPNnhjVFRjQkplNjFfaE5HandhMFh3cnpjMjlOeXM2SVp5ZXNSQlc4MU1sRU1VdFQ3WHZyRklFN1h6YjREMA?oc=5
-
-- The Hindu Morning Digest: November 21, 2026 - The Hindu
-  The Hindu Morning Digest: November
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHdZb1BoUnBTQ1hWLXMtaVVWaFp0R0d0ZUFmQlBYUmEwVG9TQVZvblM3aUhpejdHaTNWODlSMUFaMVI0eGlDN21hbWxGY1ViZWswMkdEV2VJejhGbkgxRmt2M3hnblJIZ2FTUzZaZkZmN3Nhd25pRFhJZS1LOXE1anptS19EWDNy0gGPAUFVX3lxTE5HTC1jZEtlWEdnZmFBMWNNSlZOaDBBRG5pR0hPVDVDdTE2ZTNVcjNwMDZ6ZFdJRTdhTlRJWlJXYnl1MmFNWXBhbGRUWERJOVgxeC1FRUw4eTQweXR6SUhNb3U0OEJWb0ZlckJhN2VVeDRRbGVXN0JuYWRaVW1GTXVhZGVhMWZweFZhZ0tEYmV3?oc=5
-
-- PM Modi’s remark on jobs & wages a confession: Congress - The Times of India
-  PM Modi’s remark on jobs & wages a
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUU9mbVB1NExrTlJ0ZUhfTXBPaV9pOVpQUm9xSmdaeHFtVDdJMlp0TFlueWtrRVJydHFITDBDdTNmc0tYSVdVUFd0MHRfMnFZaTRhQkt0UWx4dWNrVFJ6Z2sxaXRNcVV5MDJyaEU0blllbEtNT0xUUFlvZ3ZwNUxfdllyeXNVNEFiMVBzNUtLM3pRcFVUSzVhdmZUcE1nd0xtOFQ1czhYM2xfR3ZqeDBpQUs5a0t6dHgzOTBn0gHAAUFVX3lxTE0zRF8zUHRjTkdQWmFER1dIMlM2eGRNbHhBRFZHbWxlVldxX19adFl6WFpFOENrN191aXBkVmZXdFhyNFZDdlZzbmVFcHh1YXBIcUt4Ry1sX2V1ZlJja0F6LWVvZEtTT2R2Z2Z3SUNSRlNjdk1IOVRVSllzeGRsSE5EVU9ZVkdBX3d0Uk1CZm5JZGZfdFRYcXZwdnN2M2NxWTcwODZyUGNrYS1sVXh2bUNuX0FBSFpaM01TZnRrOG1GaA?oc=5
-
-- PM Modi In Bengal, Bihar, UP Today To Unveil Projects Worth Rs 34,000 Crore - NDTV
-  PM Modi In Bengal, Bihar, UP Today To Unve
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xMUHBFeTBsX2pfcnA0OXZsSVM5RVVSMExxQjlHOVR0bzFDQkJUM2o2MUtuY2F6bXdFSHEzMzQ1WUc2NjZFT3FwNU5UTlZXdGNtbGpiWGpZV19uWkl3REtfX2hOOUZkRUtBRlpkc3podzc3T21SVktacGhEQjd5MHBLUHlESUlRNk9nZEEzMHRxcFF4ZUJDbmR3WE9JQ0J0VmhTSlJEcnQyVy1aV1JsbG91SVFtM0dYX2VnOWY3M2fSAcgBQVVfeXFMTzlQNHk3WGZUZ2xpMzdrd0NMVGRFMXZVZVhrblNPdjlINlhEQVZvanZvTXhjWkh4SmxUSE1mdTN0amJSY3N4OUhEQXZqNXh6eVV3ME9Ma1NZUHhEYjBRUTVCSXlZY2t3UWhjQi1EQ2NGUnlEUkd4dU51UjR6Y1ZnR0pfNEVsT3hDekwtQzlPa25XUnNSdlNuak1hTjJjbVVtR042dHdGVm1zZ0JsYWxvdDBXbVJ4NUNBOUtxNGJiTVJZRHpDS3FfV0U?oc=5
-
-- Technology Promised Ease. Outages Are Making Many Americans Uneasy. - The New York Times
-  Technology Promised Ease. Outages Are Making
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE5zbmlJX0hZMk9YOGp5MjI5Y1hRR0lYVG5TWVcwWk5lLU1fUlNzc1BVdzEyQ2RXc0Z4a1FpMzItQVNsWXhVTEFqbC1JazdvOV9yTEk5cGZvMnI1aVpCdHZLck5FaVhGM1FKWThfMHI5SC15d3F5Y1p6NC1IQ0dUZw?oc=5
-
-- AI may have solved the most important problem in mathematics - The Economist
-  AI may have solved the most important problem in
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOY256NUZxVFdCVEZCamFBLV90OXFrMGJaZTJWcDBtaGFyMGxjUjExSko2bUU0VzZKeFBZazJQblBrUS1VdkJOWEl1MG1idkFVSkV3S3lFSTJQMXVJaWpnZF9oZFQ3d0dVcjJmU0F0eXV1VzUzYXdOUUZVX09xcEE1eGE3VWpqeWR5WnduVEx6MUw5bzBfYlFyLU1nQWZ5LW0zMHFRNTFEQzlCUGU3SXpRUVY1eDR2M0N6bHF6ZA?oc=5
-
-- ECI Group's proprietary autoclave technology proves viable at commercial scale - Indiatimes
-  ECI Group's proprietary autoclave
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQdFAyeWxPRWhYRHFPQTZuWm9FbU84QXVzakdSYWk2VE53djQ3YTktZnBZMlRPSHl2ckVCeTl5bkI1THhpbkdEU0ZzZ1JBSFMzRGtKM1NZQjFENHNfekZLTlc4aUNERlJQMnlVai03RkI4ZWhKQjAzSk8zYl9vQjFrb3BGTGpBWUJWdnVLZnlaY1RTQnpwclM5dHNOaWdWVUhXdmROSUZMVk1DNy1FSmZJVEdRZFpSejczQUJqVlM0Vk1ydXVudlJLVTZuT25zVTVSZ2FmcWEwejRTams5MHcyOTlZcDRyd3I0V1dIN2pEbkotQzJObUxnRmdUZE5SWklPQ09sYlhDUmZxd3BvcXhROVRaWklzdkVPb3FLR3hRb9IB7gFBVV95cUxNV3UweV9Ud1ctQ213R2xieS0xZmtNM1N5eXR4Sy1rS0xkQWZLR1hjMFY1ejZfak1mZTFrenhaNWJCTnpLQjUtSm5Ga2NFZk9YUDk1MEF5clRBX0tVMlJSZ2dhZUZENENKeVVYMGZPeGxScnRfRG83T3dJZnlMZjdtWENyZUZVZlRTUnoyS2pwRHJJOUVMbkp2X2stYmstUnJFUGVUTWRCSm9maXdjby1NMkJ3R3pyZE51UnAwaVZiRHZnbXAzbmYxM01nNzNYZTdaMWJweVhiZEF6ajBUaXJac2kwVmFGTEpqaWlIQTBB?oc=5
-
-- KPMG 2026 Technology and Telecommunications CEO Outlook - kpmg.com
-  KPMG 2026
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTduaElXclVtRVRKYkh6bktyMXZnVEtxUjM1Z2hLaWUwS0dKT1oyUDdWVHAtQ2NxUE96TGtRTFRRbVUwNGpSTHdsTmFkMVZMX1RLRmlmU2phMkNfRVk0Q3lCRC14amEycGRVRzJtUTJiOGxLSlRXNF8xNkxDMUVvakRLSkFpckI4eGhzZ202VF96dkh1MFhLSFlWMUZaT19ELUJySlFaZURRSFA0N3JxUEVBalFKWVJwdVJ4M2ZDSQ?oc=5
-
-- Technology services: Deal insights series Q3 CY26 - EY
-  Technology services: Deal insights
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0R5WEtSV01zR1pRVjE0c3BTMlpBUU0tMkJMWWtYREtUR1ZoRVB3TFlfSGJQTGlpWWQ4RHh2dVBFdTdkNnl4YWpieFdiTmJvZzRuV0VjbGFlc3hpNjFrdFdtOGdocG1wZThmMzBDU0xJTF92YmxwRXlJZUJ0LW9hYW9HcUNmcWlYeVByb0I0ZVgxZ0ZxZDk1NXpGYWdJNnJ4Z3M5TnR3?oc=5
-
-- How much is Jensen Huang's value in the market? $1 trillion, it seems: Nvidia loses 25% capitalisation after CEO's exit
-  Nvidia’s market value fell about $1.04 trillion in the nine days
-  🔗 https://www.livemint.com/companies/people/how-much-is-jensen-huangs-value-in-the-market-1-trillion-it-seems-nvidia-loses-25-capitalisation-after-ceos-exit-11795232305554.html
-
-- Nvidia Employees Complained About Huang’s Behavior Years Ago
-  Two Nvidia Corp. employees complained about how then-Chief Executive Officer Jensen Huang treated his staff. Allegations included allegations that he threatened them and made sexually explicit remarks.
-  🔗 https://www.livemint.com/companies/nvidia-employees-complained-about-huang-s-behavior-years-ago-11795200230275.html
-
-- Who is Jay Mehta? Meet Juhi Chawla’s husband selling half of his 45% KKR stake for $400 million
-  Jay Mehta is reportedly set to sell half of his 45% stake in Kolkata Knight Riders to US-based Ares Management for $400 million. The deal would value the IPL franchise at around $1.
-  🔗 https://www.livemint.com/companies/people/who-is-jay-mehta-meet-juhi-chawla-s-husband-selling-half-of-his-45-kkr-stake-for-400-million-11795193603052.html
-
-- Amazon Prime India Head Abhinav Agarwal quits after 16 years: Why he left and what’s next for him
-  Agarwal moved from supply chain operations to advertising before taking charge
-  🔗 https://www.livemint.com/companies/people/amazon-prime-india-head-abhinav-agarwal-quits-after-16-years-why-he-left-and-what-s-next-for-him-11795189332842.html
-
-- Tukaram Mundhe's FDA suspends licences of Blinkit, Chaayos, 5 Spice among 6 Mumbai establishments: What inspection found
-  Mumbai FDA suspended licences of six establishments. Inspections uncovered serious hygiene violations, including cockroaches, flies, uncovered dustbins, unsafe food storage and faulty equipment
-  🔗 https://www.livemint.com/companies/news/tukaram-mundhes-fda-suspends-licences-of-blinkit-chaayos-5-spice-among-6-mumbai-establishments-what-inspection-found-11795188506556.html
-
-- Missed 50% rally in Samvardhana Motherson? Choice's Sumeet Bagadia spots another buying opportunity | Target, stop loss
-  Choice Broking recommended a one-month positional buy in Samvardhana Motherson International. The brokerage cited a bullish breakout retest, improving momentum and support
-  🔗 https://www.livemint.com/market/stock-market-news/missed-50-rally-in-samvardhana-motherson-choices-sumeet-bagadia-spots-another-buying-opportunity-target-stop-loss-11795233784659.html
-
-- Nasdaq 100 sinks 5.6% in worst week since Covid, S&amp;P 500 corrects to 3.7% as investors sell off AI, tech stocks
-  AI investment concerns triggered a broad selloff, pushing the S&amp;amp;P 500 into correction territory. Nasdaq 100 to its worst week since March 2020.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-markets-nasdaq-100-5-6-pc-worst-week-since-covid-2020-s-p-500-3-7-pc-correction-investors-sell-off-ai-tech-11795223650589.html
-
-- Five pharma CDMO stocks with robust revenue growth in Q2FY27
-  Discover five CDMO stocks demonstrating strong growth momentum in Q2
-  🔗 https://www.livemint.com/market/stock-market-news/best-pharma-cdmo-stocks-china-plus-one-pharma-stocks-india-pharma-stocks-top-pharma-cdmo-stocks-11795178604521.html
-
-- Best 3 stocks to buy under  ₹200: Jammu and Kashmir Bank, Canara Bank, Bank of India by Mehul Kothari of Anand Rathi
-  Mehul Kothari of Anand Rathi believes Dalal Street
-  🔗 https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-under-rs-200-jammu-and-kashmir-bank-canara-bank-bank-of-india-by-mehul-kothari-of-anand-rathi-11795191036501.html
-
-- Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff
-  Gold slides for a fifth day as a hawkish Federal Reserve signaled more interest-rate hikes. A rout in AI stocks spurred selling across metals markets.
-  🔗 https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html
-
-- Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI
-  Anthropic worker claims to have solved a Holy Grail of
-  🔗 https://www.livemint.com/technology/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai-11795235868960.html
-
-- How many endings does GTA 6 have? Which four factors influence the way your story wraps while playing? What we know
-  Grand Theft Auto 6 reportedly features multiple endings shaped by decisions throughout the campaign. Mission choices, Jason and Lucia’s relationship, players’ criminal behavior, and
-  🔗 https://www.livemint.com/technology/how-many-endings-does-gta-6-have-which-four-factors-influence-the-way-your-story-wraps-while-playing-what-we-know-11795194604050.html
-
-- Apple starts selling iPhone Duo parts for DIY repairs; inner screen priced at $499: What will it cost in India?
-  Apple has begun selling genuine iPhone Duo replacement parts for DIY repairs in the US, Canada and Europe. The inner display is priced at $499. The Self Service Repair Store is unavailable in
-  🔗 https://www.livemint.com/technology/apple-starts-selling-iphone-duo-parts-for-diy-repairs-inner-screen-priced-at-499-what-will-it-cost-in-india-11795185537700.html
-
-- Indias smartphone sales during festive season drop by 22 pc, Apple faces a double-digit dip
-  India's smartphone sales during festive season drop by 22
-  🔗 https://www.livemint.com/technology/indias-smartphone-sales-during-festive-season-drop-by-22-pc-apple-faces-a-double-digit-dip-11795185642625.html
-
-- Samsung Galaxy S25 Ultra gets  ₹42,000 price cut on Flipkart: Check new price, bank offers and exchange deals
-  Samsung Galaxy S25 Ultra's 256GB variant is now listed at around  ₹88,388 on Flipkart. Bank discounts and exchange offers
-  🔗 https://www.livemint.com/technology/samsung-galaxy-s25-ultra-gets-rs-42-000-price-cut-on-flipkart-check-new-price-bank-offers-and-exchange-deals-11795179668734.html
-
-- Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide - WSJ
-  The WSJ reports that Nvidia, an Nvidia
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxObDJaNXRFdFZIWkwxWDRYUVg1U0N3MmpzMHN5aFlMd0ZJTGdBN3lhamZQSGpqbUY2UERnTGhKeVhzYUtsY0Q4V280cDR3WU9qNGtTVm0tdFIzZ0xXTFFxM0NFUjNhSkJLeHhfMG96Wi0xYVBxT2wzQVJPNXdCUEx3MF91QU5ZT2s?oc=5
-
-- Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves - CNN
-  Nasdaq wipes out gains for the year as Anthropic IPO
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdllsNUVFYnVqeDVsNWpGX1U5ckw2RURWWUc0ZDdaWksyYzF0c3JJUjAxaHRCbFR2a3F6R1RsLVhSRjBoTngtZWNSRHVybWd4cUN0STB2VWhQSDVtZTBIVG9jMFp0WHBrSGpydlhNTWI?oc=5
-
-- Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory - Fox Business
-  Wall Street suffers historic losses as Dow, S&amp;
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGo2a2JDeFFQWXZZSUFuc1hYVkctMXBGZzVJWjhCSU4tV21qenB4bVNuLUJFTG1hakVYdGNlQ2tuRXFnOXlnSzFJVjZHWVg3V09EWVVhb1o5NVY3YWJpcHZ4MGFyYm9faWdPOGVsRERlakFST214NC1RZDA4UTBjdUZmYmZtOUdUOWZNNFE1M3dVdGVneWtKeWl4Sll0aFZFcW1qUUtFM2RfVUhkTGNJ0gG0AUFVX3lxTFBlZXlISGdZNkJyblRJX1V4NW9OQTFrYkNHWFZoazJzTDZZUHI4US1sT01jSkhtWVFxeUVqYkdJdzIwYmxjWFFsRTNMYWhUdk9wVWl3aVpUTmhvZi1IQ1ZJcFdKODc1TDdJb2tLZzZ0RzB6d3o4WERicXJ5OGNvcFZpTTl5RmhQRTRkWERGeUFPTmVUeU56dl9ObDNPcTgxeDU2bHlCaDFiSVdQaXlQMlozdzZ1Tw?oc=5
-
-- Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections - NBC News
-  Nasdaq erases 2026 gains, S
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTk1MEVuRzZfdUVPMG9Mc3c4VFlvRUJRTGl0WUxTWVFOUG41LWJwWTFsbnNwcnktNjh5VE9IMUdLbHRuRnlEbUFZNlUyZGgxMG5admdobWx6R3VBU2VCb3BBczlUZU9sdmctenh6c2laaUpWSzYzWTBHaUh6UWhSWmVmOTRnRWdoVDM2MjRoWkM0LXU4cmc?oc=5
-
-- U.S. stocks slump into correction territory amid tech and AI worries - The Washington Post
-  U.S. stocks slump into correction territory amid tech
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmlPb2NNTTRIVWI5NXJFQUd2MXNkdkFtNzIxODZMZjdEbVFsUWQyWjRQT1AxMUE5YS1nRnZ6U21mN0J1V21IVFFRZEthZms4bkM0MDRNQlR6RkRtcUp2aUJqTnQ2YlloTU9ObkpmLUs1NWgyUXpubUxndklKTElFbExrY3ZtamdWNEpRUG5lNGd2VVZZdHVIUHp3eU1Wc0RzenQ0YQ?oc=5
-
-- Wall Street Week Ahead: 'Black Friday' brings consumer spending into focus for AI-rocked market
-  US retail sales expected to show a modest uptick, this hints at consumer strength. Major retailers express optimism about this year's holiday shopping. High gasoline and energy costs may pose challenges for spending.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market/articleshow/136044202.cms
-
-- Sebi proposes limiting tenure of chief executives, independent directors at exchanges
-  SEBI is seeking public feedback on these recommendations by December 11. Key suggestions include lowering the age threshold for public interest directors from 75 to 70 years. Current executives can finish their ongoing terms despite these proposed changes.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-limiting-tenure-of-chief-executives-independent-directors-at-exchanges/articleshow/136031465.cms
-
-- Nasdaq tumbles 2% as Anthropic retreat deepens AI trade concerns
-   AI sector faces growing skepticism amidst high valuations and investment risks. Despite some companies reporting strong earnings, investor anxiety persists over potential interest rate hikes.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-anthropic-fails-to-steady-ai-trade/articleshow/136030779.cms
-
-- Nasdaq crashes 5% at close, erasing 2026 gains; S&amp;P 500, Dow in correction: Stock Market Highlights
+- India-Nepal rail connectivity: PM Modi, Balendra Shah to flag off Ayodhya-Janakpur Express on Nov 23
   
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms
+  🔗 https://indianexpress.com/article/india/india-nepal-rail-connectivity-pm-modi-balendra-shah-to-flag-off-ayodhya-janakpur-express-on-nov-23-10972853/
 
-- Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind
-  The Indian rupee has strengthened past the 93-per-dollar mark for the first time since April. This recovery is attributed to over $12 billion of foreign investments in Indian equities in November. Hedge funds have unwound bearish
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-climbs-past-93/usd-as-investors-seek-shelter-in-indian-stocks-shorts-unwind/articleshow/136023536.cms
+- India crosses 1 crore HPV vaccinations in 9 months, 6 states hit 100% mark
+  
+  🔗 https://indianexpress.com/article/india/india-hpv-vaccination-drive-one-crore-doses-87-percent-coverage-10972825/
+
+- Heritage networks to youth exchanges, SCO members outline cultural roadmap
+  
+  🔗 https://indianexpress.com/article/india/sco-civilisational-dialogue-forum-india-iran-cultural-proposals-10972798/
+
+- India’s first bullet train project: 50-km Surat-Bilimora section gets overhead power supply
+  
+  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-surat-bilimora-section-overhead-power-supply-10972710/
+
+- In first remarks since Siang clashes, Amit Shah calls dam a national project, offers talks
+  
+  🔗 https://indianexpress.com/article/india/amit-shah-siang-upper-multipurpose-project-arunachal-pradesh-protests-10972634/
+
+- I tried the new iPad mini with OLED. Why there’s no going back now
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/ipad-mini-2026-oled-review-10972818/
+
+- Fooled by AI: How cybercriminals use deepfakes to lure people into investment scams
+  
+  🔗 https://indianexpress.com/article/technology/cybercriminals-deepfakes-investment-scams-cyber-fraud-10972682/
+
+- Ultraprolink Travel Mate Pro33 review: One device that replaces your travel adapter, extension cord
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/ultraprolink-travel-mate-pro33-review-10972377/
+
+- Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ai-riemann-hypothesis-proof-claim-10972258/
+
+- Tech to tackle urban traffic exists, what we need is faster action: Pawan Mulukutla, WRI India
+  
+  🔗 https://indianexpress.com/article/technology/urban-mobility-indian-cities-ai-public-transport-wri-india-10971738/
+
+- MoEngage cyberattack: SaaS startup confirms breach via third-party vendor – what it said and how many customers affected
+  MoEngage disclosed a cybersecurity breach in late October. The company says fewer than 1% of customer accounts were affected and the incident was contained.
+  🔗 https://www.livemint.com/companies/news/moengage-cyberattack-saas-startup-confirms-breach-via-third-party-vendor-what-it-said-and-how-many-customers-affected-11795265588243.html
+
+- Shah Rukh Khan, Aryan Khan's D’YAVOL X enters physical retail with Golden Goose partnership
+  SRK and Aryan Khan's D’YAVOL X is making its physical retail debut through a partnership with Golden Goose. The first collection, featuring exclusive sneakers and streetwear, launches
+  🔗 https://www.livemint.com/companies/news/shah-rukh-khan-aryan-khans-d-yavol-x-enters-physical-retail-with-golden-goose-partnership-11795265933833.html
+
+- YouTube faces $3 billion payout to US schools over claims of harming students' mental health
+  Google's Chromebook is also the most widely used laptop among students in the country. The platform has become deeply integrated into students
+  🔗 https://www.livemint.com/companies/news/youtube-faces-3-billion-payout-to-us-schools-over-claims-of-harming-students-mental-health-11795258515140.html
+
+- Voltas signs joint venture agreement with Atomberg Innovation, to hold 50% stake in entity — All we know
+  Voltas has executed a joint venture agreement with Atomberg Innovation for the development, manufacture and commercialisation of
+  🔗 https://www.livemint.com/companies/news/voltas-signs-joint-venture-agreement-with-atomberg-innovation-to-hold-50-stake-in-entity-all-we-know-11795248836596.html
+
+- Ashoka Buildcon loses Saudi Arabia contract worth  ₹846 crore: What happened and what it means
+   Diriyah Company cancelled the project, citing internal reasons. The cancellation comes amid a 73% decline in the company's Q2 standalone net profit.
+  🔗 https://www.livemint.com/companies/news/ashoka-buildcon-loses-saudi-arabia-contract-worth-rs-846-crore-what-happened-and-what-it-means-11795249520850.html
+
+- Stock split reset: SanDisk stock crashes 87.5% overnight? Here's what investors need to know about its 8-for-1 split
+  SanDisk completed an eight-for-one stock split. The adjustment lowered the per-share price from $755.16 to about $94.40
+  🔗 https://www.livemint.com/market/stock-market-news/stock-split-reset-sandisk-stock-crashes-87-5-overnight-heres-what-investors-need-to-know-about-its-8-for-1-split-11795267376660.html
+
+- PSU vs Private banks: Who is powering Nifty Bank's record-high rally after 5% surge? SBI, HDFC, AU, Canara target price
+  Nifty Bank rose around 16% month-to-date to a record intraday high of 64,485 on November 20. PSU and private bank indexes also advanced sharply, while
+  🔗 https://www.livemint.com/market/stock-market-news/psu-vs-private-banks-who-is-powering-nifty-banks-record-high-rally-after-5-surge-sbi-hdfc-au-canara-target-price-11795255387777.html
+
+- Gold, silver price crash: DSP Mutual Fund turns bullish on bullion, reveals new buying strategy; check price levels
+  Gold prices plunged to a 14-month low, recording their steepest weekly decline in eight months. DSP Mutual Fund is gradually buying gold and silver as prices fall, using predefined price levels.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-price-crash-dsp-mutual-fund-turns-bullish-on-bullion-reveals-new-buying-strategy-check-price-levels-11795252615511.html
+
+- Mahanadi CoalFields IPO GMP Check: Down 92% from  ₹9.25 to  ₹0.7, issue struggles to attract bids- Subscribe or avoid?
+  Mahanadi Coalfields’ IPO remained undersubscribed after two days. Its grey-market premium plunged 92% to  ₹0.70, implying
+  🔗 https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html
+
+- Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern
+  Taiwan has widened curbs on short sales of local stocks and said it has been buying shares. The island's benchmark index had its worst weekly fall
+  🔗 https://www.livemint.com/market/taiwan-widens-short-sale-curbs-after-shares-plunge-on-ai-concern-11795255471195.html
+
+- Motorola Android 17 eligible phones list India: Check Edge, Razr, Moto G, and 29 other models set to get the update
+  Motorola has named 29 smartphones eligible for Android 17. The phones include models from its Edge, Razr and Moto G series. Nine phones are already receiving the stable update
+  🔗 https://www.livemint.com/technology/tech-news/motorola-android-17-eligible-phones-list-india-check-edge-razr-moto-g-and-29-other-models-set-to-get-the-update-11795265416930.html
+
+- CERT-In flags unauthorised payments beyond financial sector
+  The Indian Computer Emergency Response Team (CERT-In) has flagged unauthorised payments beyond the financial sector. The reported cases affect technology service providers that
+  🔗 https://www.livemint.com/technology/certin-flags-unauthorised-payments-beyond-financial-sector-11795255909358.html
+
+- Huawei reveals ultra-thin Watch Air ahead of November 24 launch: Check design, features, colours, and what to expect
+   Huawei said this ultra-slim build is engineered to deliver
+  🔗 https://www.livemint.com/technology/tech-news/huawei-reveals-ultra-thin-watch-air-ahead-of-november-24-launch-check-design-features-colours-and-what-to-expect-11795251197886.html
+
+- GTA 6 beats Avengers Endgame, GTA 5 to become fastest-selling entertainment release with $3.79 billion Day 1 sales
+  Time-off requests for the day GTA 6 launched were roughly 20% higher than in comparable pre
+  🔗 https://www.livemint.com/technology/tech-news/gta-6-beats-avengers-endgame-gta-5-to-become-fastest-selling-entertainment-release-with-3-79-billion-day-1-sales-11795247104726.html
+
+- South Koreas Lee says speed is vital in AI race on data centre visit
+  South Korea's Lee says speed is vital in AI
+  🔗 https://www.livemint.com/technology/south-koreas-lee-says-speed-is-vital-in-ai-race-on-data-centre-visit-11795239138273.html
+
+- Market Has Worst Week Since 2020. Look For These Absolute Losers. - Investor's Business Daily
+  Market Has Worst Week Since 2020. Look For These Absolute
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGZqY3FoUjhCTGtSbnJQMmlMMlNQWGxuQ1UyR09vYVpCY2xHcU5la0pPb0FGbnkzZ3AwRThVNXdMcXk4cEZ4elRxd1VKVHRqTEdxUGtHeUZNS1RPQkVKdUpXeVJscjg1Qm1zUHpjMDlzYUQ5UUE0X3FVTzRqRC1FWVRGU0NXWUI0Rk1FWERnVWxkWEtRbTJNc3Nldms4emVsSF9yMU4xaDU4SWh6TDgydjJWa3ZYQ2pFaUp2TFhmdUh6cFU?oc=5
+
+- US markets lose $6 trillion in a week as S&P 500 suffers longest losing streak since 2020 - Moneycontrol.com
+  US markets lose $6 trillion in a week as S&amp;P
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaW96R1QtQ3BWUng5NE5ncUxtWWlMVHBIUGYwVHJhMXBLVVpsMHQwTVFMT1JQLXZhaVdUZ2xScU9mREZHT29YN1NNb3ZmbHRsNkJHT3N4dXZ3MmVYT2hzRGVnTDREdWxUN0dseHNjbkR2Y29Obk5XRm5lQWtDd3ItY0lSdVgxTzdzcElld0p5QW5uWDkxdFFKNk1OV1M1VmdkSGlYdnowNzVhbnViWnpUTHQtVEp1TG1nRVBBZWF2ZkhtUE1RZ00tOG5xa1FCYm5YZTd2RV9QWWU0YkdMZHB1NWVTNm1QWllp0gHuAUFVX3lxTE03emN4c2JOT1o3OUtoVHFzWUpGQUd2NGc5M2dDYnhtYUNqZmxKSFA5YUZQVWFrUHNNZG5BSGVpZUxwQlhsTWx1NDg4NFFQdXFxanJOYVdCRHFmek83R1pXUzFfNlRYdWU4dDBWZmFYdjZmZ2t2dFgzQUZTZGtHVmljNWR3elJZbG5Oa2ZkdWVUS1Z1bnllbF9rWElyUEs4UVE0VFAyZHd5c1hpT2k4SFRmSlpwSU5KNzlIbV9ZM3FkZ2MxdzlZOFh4UFJocE9zWkJSWm9TWEg3YmRZaFNvNXQ1X3AxTTktTV9xTFNYelE?oc=5
+
+- Nasdaq Index: Nvidia Leads Tech Stock Rout as Nasdaq Nears Bear Market - FXEmpire
+  Nasdaq Index: Nvidia Leads Tech Stock
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmUwVWx0V3V0VDFfSTVMSHIzTElCY2tFWGVJWkZKR1B2d1VGLXJHTlNGTnZBUTk4MnpXVmF2MGg1VXNkUFF2NDJhNGxFTXZIdmFzTmhTZ0RhVVNhT0x5eHZBempkOUNybE9ySDZqX1VFZ0Z3YXpCcmpKc0hPc0dKZUV1Q2tIOEpuWmNEa2k0aEg2b2lIdjFTM3VuSVJsemU4OFlwZnZEQnpEcmRyOUpMWElucEljTG0wc1BQTQ?oc=5
+
+- Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum - Bloomberg.com
+  Goldman says Stock Selloff Has Legs as
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU1jaG5wWHRDVVE3anRoZWtQUlpsTDhnbHVfRDNMSWVidGlNS0RNY2o4QmV4NnNSVThSRnc0VkVfcmx3SVhUMVF2RWtKalBYWERvUDdLd29yT0VXMEx3enNzeGNUTk1uVkhoaDVMZ25URDd4ZVkyVVhnZjhJMlI4UlBGOFV0UGc4NGN0Ulp0UnlXT0dUMk5XV01DYTEzMlBNaHRPX0Z5bnIyeGk0cktoYmxObE1WUQ?oc=5
+
+- BRICS+ markets offer Indian startups room to expand, says BRICS CCI chairman - ETLegalWorld.com
+  BRICS+ markets offer Indian startups room to expand
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdlF4WUVucEVteTgtdllOREpGa09UTHVPbXVtWElHT3l2WjR4N1NOUVhhaDF5c2lKRmF0eFJMVmFBQ1RlXzRIMDJQVFBBV2JMTUJhSEk1MGpmaXh5TnIxNlo0dDQzZGQ3QWNJZXJUTjE2c0gwUmRmVnMta0RnU3lIcjdlUVppdmwxMWg2QTl1YVlmOUl3YlBXenhUMlZLNExMdjZPUGVTdFBTY0hnMDhoc3YtWjlEblBLWXBfUGNPQXpSQ0M4QjBNclFQZlJjSlg2OWUwRjFhLTJ0c1pQdkx4R0Q0QTjSAeoBQVVfeXFMUHpQLTZoTmwzUDZ2OW5jYWMyQlkyajBnNkYzRjJwUnpDdGV3UXFhekZPamVidWRraXdMeHF2SzE3d2V1NW5VQjU1RzA2bU02TzJyVkMySWFCSUxkVzZqbi1nNUdrMllqNTF4QV9TekJoMkpCZ0FKel9jOHkzZ0EwcXlxWnhreGhpM1N3YkVCMDVLQ2FNLVBTOXJQWWZWa3FVYldYVThqNGd2bkVhMjVwS2RXdkcxNVlZVUZCSWZRdGZMcUNNTml3NW1NaHh2SEpfSEltTVJDcXdDZlRYLWVGX2d5MndRcjdyNktB?oc=5
+
+- Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance
+  Nifty surged 2.61% last week, gaining 656 points amid strong FII inflows. Resistance lies at 25,950–26,200,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms
+
+- Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices
+  HSBC identified 19 Indian stocks with Buy ratings that received FY27 earnings upgrades after Q2 results. Ather Energy, GAIL and IIFL Finance led revisions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-hsbc-lists-19-indian-stocks-that-saw-fy27-earnings-upgrades-check-target-prices/slideshow/136048231.cms
+
+- Concurrent Gainers: These 13 stocks gained for 5 days in a row, all rose over 27%
+  The Sensex gained 1.08% during the five sessions ending November 20. 99 BSE 200 stocks advanced consecutively. Thirteen shortlisted stocks delivered impressive
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-these-13-stocks-gained-for-5-days-in-a-row-all-rose-over-27/slideshow/136047969.cms
+
+- AI to lead investment strategy in 2027; Energy and borrowing costs shape macro outlook: Barclays
+  Barclays Private Bank report calls for a stronger investment focus on artificial intelligence in 2027. The report warns of potential computing demand outpacing supply, which may hinder technology scalability.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays/articleshow/136046648.cms
+
+- Market winners: Max Healthcare, Deepak Fertilisers among 10 stocks that surged up to 14% in last week
+  Max Healthcare, Deepak Fertilisers and Blue Star led Nifty 500 weekly gainers. Ten stocks outperformed the broader index, which gained 1.5
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-winners-max-healthcare-deepak-fertilisers-among-10-stocks-that-surged-up-to-14-in-last-week/slideshow/136046616.cms
+
+- US President praises India’s economic growth & low interest rates - News On AIR
+  US President praises India’s economic growth &
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxORmFLSkZkaUdadk5zT0t0NkhqSDZPTXM3a1Q4UGpCb1RrLTlIZEdCVEVXcXNkVWxLeHRuYm9FS2NNb1JUSzNXcGJjMERkRUVHZzQwXy1BanUySUd5VTBxZFF3YWsyUGt3WDByT1RYYTBLTm9vVVVjM1FwQm5jOXNhSU1NaTBYQVE3ZkpmLXJGY25wUQ?oc=5
+
+- ‘Look at India, they have low interest rates’: Trump says U.S. could achieve 14–15% economic growth - The Hindu
+  ‘Look at India, they have low interest rates’: Trump
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzB4OUVERUVFY081YkVlOGdkenBWeTYxdFYzY2ExVlhXTW1QbmhLNGt6MkNOTEN3Skh2UUFYVmU5YVdLV2pabzJDSURSXzh5c0JJM05ZUkVvWjBsQW5zVEhYUVpnSTNVaDlxOW14YWFuWkE2RzBEN0M3bnJQMHVhVXhtc1dZVG1RNmY0ekRHZXdELTNkQUZHQUxkb1d2NEpvSzRraWg5bXFHbENwM3VmdnZHb3VqbVpETEVsMm93cmZjVXRqYWt5MlpDbXhpdzgwcVBkTk5kTHJxcEh6R0ctLS02UFlMU3ZnZXNr0gHyAUFVX3lxTE82NzVUb0dpd2xrbmRXRTVlLS1ETUs1bVFNV0xMWU5sLXkzMmNQVUxLcmxHUTh1c3ZaUVJkcmlvV29LcVh4b2w1cG9fcDFybmNPcWpjRjhzNmJoTWptMWtDS0h6VHRCalBsc0V2WmpBQXIwUk14c1BfVFVjNWlLVTN0bVJ1elhDR0pXRHl5azV1bHplbjRhMEF1Mno4QjBGb192UldMdWFBU3VzaXl5Y2pXUTh4Qk54SFlFc2dPdkNSZHhRbGNMYmhDSkRmVEZlakdHU3pELVdFNm13N0lSSGZSZDJVRGFpZXJYMVBmNmhJMzBR?oc=5
 
 - 'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RH
+  'Look At India': Trump Targets US Central
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5
 
-- Christian Organisations from Northeast India Oppose FCRA Amendment Bill, Seek Withdrawal of Controversial Provisions - Catholic Connect
-  Christian Organisations from Northeast India Oppose FCRA Amendment Bill,
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZnAzYU9QOWd5Sm5wY19aUHdGWG1QajV4Z0t0c1VNWEc2Zkx5ak1JdzZTeWVXWldSOVVGR2hzSXIzTXlYZE90TEx2dnMtcXhabjlxS3ZOQzVUcGFvTnJTLUtuRUxYanF3eTF6ekFJdU5SN2p2cXI0RW1EeXZIU09rbWpnblV6YVJqQ3duQmEtbjdldkhndXNaRV9HWFY0SVBENktPNnhjVFRjQkplNjFfaE5HandhMFh3cnpjMjlOeXM2SVp5ZXNSQlc4MU1sRU1VdFQ3WHZyRklFN1h6YjREMA?oc=5
+- IFFI pays tribute to seven Indian cinema stalwarts on birth centenaries - News On AIR
+  IFFI pays tribute to seven Indian cinema stalwarts on
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNEt0RUY3VXNCZEFja3JtTHpRV0ZpeGx6M3Uzby05TjVOVlFPTUZIckJ2Wklhcks2Q0FvTnZzQUh1ZzV1MTdKQ0t5alBfSUFVV25fVWU0a2VST1drTDZDaDU1ZzViaHJhVEdiWEh0bkpzU19LMHJPNTRxQWtuQ3hRQnA2SndQM1hkX3dXX2pKUmhUTEdEZ29uZzE2eWtzZw?oc=5
 
-- The Hindu Morning Digest: November 21, 2026 - The Hindu
-  The Hindu Morning Digest: November
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHdZb1BoUnBTQ1hWLXMtaVVWaFp0R0d0ZUFmQlBYUmEwVG9TQVZvblM3aUhpejdHaTNWODlSMUFaMVI0eGlDN21hbWxGY1ViZWswMkdEV2VJejhGbkgxRmt2M3hnblJIZ2FTUzZaZkZmN3Nhd25pRFhJZS1LOXE1anptS19EWDNy0gGPAUFVX3lxTE5HTC1jZEtlWEdnZmFBMWNNSlZOaDBBRG5pR0hPVDVDdTE2ZTNVcjNwMDZ6ZFdJRTdhTlRJWlJXYnl1MmFNWXBhbGRUWERJOVgxeC1FRUw4eTQweXR6SUhNb3U0OEJWb0ZlckJhN2VVeDRRbGVXN0JuYWRaVW1GTXVhZGVhMWZweFZhZ0tEYmV3?oc=5
+- 'China Backed Pakistan During Operation Sindoor To Curb India's Rise': US Panel - NDTV
+  'China Backed Pakistan During Operation Sindoor To
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1lYUWtHNk5UYW1JV3hZWFRUcGtJdnFDSzBtWWdVcG03SHFIN2UtMWtmOXBhZVhoM19ocDE5eWpWWkJDYU92VXNiY3MyZjVESHBKblRWRkxVd2JPX3RfUXZnYzk0cHBYVUZIMEczZDNPRmZfRzNfUVpNYS1wbEFUQnFmYmFqRGpNc1pUblk2VkNjMm9RbHR3SnUzZzgtSnRSZGk1cHdranE2X0h6dkxqRDFpa1RQRUXSAb8BQVVfeXFMUHpXVldkRzBwMUFTUnllUGlhR0FLenZvX1JSWUdScnBiazhxWmREYVpIR2xHMnJhdVlycVIyYW53Z0Q2UmtuSVR0RS1QZmFVOUNXNXhJcV9YLTRVeVZUQUlmYTR0QmZnbUZ5Q2k0eWZzRkRZWGkzN241SXdwbmhNVks2SVpycjdMVEVybjhZT2N6ZG9nUHVfUy1vcFF4RzFZMUViSGF0ZFR5S05jOGJ4LUVrWWlEQjZwakVRNFVaZUE?oc=5
 
-- PM Modi’s remark on jobs & wages a confession: Congress - The Times of India
-  PM Modi’s remark on jobs & wages a
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUU9mbVB1NExrTlJ0ZUhfTXBPaV9pOVpQUm9xSmdaeHFtVDdJMlp0TFlueWtrRVJydHFITDBDdTNmc0tYSVdVUFd0MHRfMnFZaTRhQkt0UWx4dWNrVFJ6Z2sxaXRNcVV5MDJyaEU0blllbEtNT0xUUFlvZ3ZwNUxfdllyeXNVNEFiMVBzNUtLM3pRcFVUSzVhdmZUcE1nd0xtOFQ1czhYM2xfR3ZqeDBpQUs5a0t6dHgzOTBn0gHAAUFVX3lxTE0zRF8zUHRjTkdQWmFER1dIMlM2eGRNbHhBRFZHbWxlVldxX19adFl6WFpFOENrN191aXBkVmZXdFhyNFZDdlZzbmVFcHh1YXBIcUt4Ry1sX2V1ZlJja0F6LWVvZEtTT2R2Z2Z3SUNSRlNjdk1IOVRVSllzeGRsSE5EVU9ZVkdBX3d0Uk1CZm5JZGZfdFRYcXZwdnN2M2NxWTcwODZyUGNrYS1sVXh2bUNuX0FBSFpaM01TZnRrOG1GaA?oc=5
+- Sarvam’s Token Factory Raises India’s AI Inference Stakes
+  Sarvam AI's Token Factory is a new layer of India&#8217;s artificial intelligence ecosystem.
+  🔗 https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/
 
-- PM Modi In Bengal, Bihar, UP Today To Unveil Projects Worth Rs 34,000 Crore - NDTV
-  PM Modi In Bengal, Bihar, UP Today To Unve
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xMUHBFeTBsX2pfcnA0OXZsSVM5RVVSMExxQjlHOVR0bzFDQkJUM2o2MUtuY2F6bXdFSHEzMzQ1WUc2NjZFT3FwNU5UTlZXdGNtbGpiWGpZV19uWkl3REtfX2hOOUZkRUtBRlpkc3podzc3T21SVktacGhEQjd5MHBLUHlESUlRNk9nZEEzMHRxcFF4ZUJDbmR3WE9JQ0J0VmhTSlJEcnQyVy1aV1JsbG91SVFtM0dYX2VnOWY3M2fSAcgBQVVfeXFMTzlQNHk3WGZUZ2xpMzdrd0NMVGRFMXZVZVhrblNPdjlINlhEQVZvanZvTXhjWkh4SmxUSE1mdTN0amJSY3N4OUhEQXZqNXh6eVV3ME9Ma1NZUHhEYjBRUTVCSXlZY2t3UWhjQi1EQ2NGUnlEUkd4dU51UjR6Y1ZnR0pfNEVsT3hDekwtQzlPa25XUnNSdlNuak1hTjJjbVVtR042dHdGVm1zZ0JsYWxvdDBXbVJ4NUNBOUtxNGJiTVJZRHpDS3FfV0U?oc=5
+- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
+  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to a billion dollar company.
+  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
 
-- From Dreamteam To Boba Bhai — Indian Startups Raised Over $291 Mn This Week
-  Homegrown new-age tech ventures cumulatively raised $291.3 Mn between November 16 and November&#8230;.
-  🔗 https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/
+- Fi Money Manages To Cut FY26 Loss By 25%To ₹153.3 Cr, Revenue Sinks 21%
+  Following an extended period of turbulence, fintech startup Fi Money managed to narrow its consolidated net loss.
+  🔗 https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/
 
-- EV Startup River Mobility’s FY26 Revenue Jumps 4.2X To ₹432 Cr
-  Electric two-wheeler maker River Mobility’s operating revenue jumped 4.2X to ₹432.3 Cr in the financial year ended March 31.
-  🔗 https://inc42.com/buzz/ev-startup-river-mobilitys-fy26-revenue-jumps-4-2x-to-%e2%82%b9432-cr/
+- Traya’s FY26 Revenue Jumps 73% YoY To ₹585 Cr, Loss Up 23%
+  Haircare brand Traya’s top line zoomed significantly in the fiscal year FY26. The Fireside-backed startup’
+  🔗 https://inc42.com/buzz/trayas-fy26-revenue-jumps-73-yoy-to-%e2%82%b9585-cr-loss-up-23/
 
-- Fintechs Bear The Brunt As Yes Bank Upgrades AI Safeguards
-  Fintech platforms have emerged as an unlikely collateral damage as Yes Bank strengthens its defences against AI-driven cyberattacks.
-  🔗 https://inc42.com/buzz/fintechs-bear-the-brunt-as-yes-bank-upgrades-ai-safeguards/
+- Google Commits $5 Mn To Sundar Pichai’s Alma Mater IIT Kharagpur
+  Scaler Cofounder Anshuman Singh Unveils AI Training Data Venture Arcfront. Google announced a commitment of  $5 Mn in funding to IIT Kharagpur
+  🔗 https://inc42.com/buzz/google-commits-5-mn-to-sundar-pichais-alma-mater-iit-kharagpur/
 
-- System Upgrades At Banks Resulting In Withdrawal Delays: CoinDCX
-  CoinDCX has blamed the ongoing system upgrade at most of its partner banks for delays in processing INR&#8230.
-  🔗 https://inc42.com/buzz/system-upgrades-at-banks-resulting-in-withdrawal-delays-coindcx/
+- US President praises India’s economic growth & low interest rates - News On AIR
+  US President praises India’s economic growth &
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxORmFLSkZkaUdadk5zT0t0NkhqSDZPTXM3a1Q4UGpCb1RrLTlIZEdCVEVXcXNkVWxLeHRuYm9FS2NNb1JUSzNXcGJjMERkRUVHZzQwXy1BanUySUd5VTBxZFF3YWsyUGt3WDByT1RYYTBLTm9vVVVjM1FwQm5jOXNhSU1NaTBYQVE3ZkpmLXJGY25wUQ?oc=5
 
-- Polygon Expands Cross-Border Payments Push, Onboards Nuvera
-  Nuvera has joined Polygon’s Open Money Stack (OMS) With this, the US-based payments infrastructure provider will leverage the L2 blockchain
-  🔗 https://inc42.com/buzz/polygon-expands-cross-border-payments-push-onboards-nuvera/
+- ‘Look at India, they have low interest rates’: Trump says U.S. could achieve 14–15% economic growth - The Hindu
+  ‘Look at India, they have low interest rates’: Trump
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzB4OUVERUVFY081YkVlOGdkenBWeTYxdFYzY2ExVlhXTW1QbmhLNGt6MkNOTEN3Skh2UUFYVmU5YVdLV2pabzJDSURSXzh5c0JJM05ZUkVvWjBsQW5zVEhYUVpnSTNVaDlxOW14YWFuWkE2RzBEN0M3bnJQMHVhVXhtc1dZVG1RNmY0ekRHZXdELTNkQUZHQUxkb1d2NEpvSzRraWg5bXFHbENwM3VmdnZHb3VqbVpETEVsMm93cmZjVXRqYWt5MlpDbXhpdzgwcVBkTk5kTHJxcEh6R0ctLS02UFlMU3ZnZXNr0gHyAUFVX3lxTE82NzVUb0dpd2xrbmRXRTVlLS1ETUs1bVFNV0xMWU5sLXkzMmNQVUxLcmxHUTh1c3ZaUVJkcmlvV29LcVh4b2w1cG9fcDFybmNPcWpjRjhzNmJoTWptMWtDS0h6VHRCalBsc0V2WmpBQXIwUk14c1BfVFVjNWlLVTN0bVJ1elhDR0pXRHl5azV1bHplbjRhMEF1Mno4QjBGb192UldMdWFBU3VzaXl5Y2pXUTh4Qk54SFlFc2dPdkNSZHhRbGNMYmhDSkRmVEZlakdHU3pELVdFNm13N0lSSGZSZDJVRGFpZXJYMVBmNmhJMzBR?oc=5
 
 - 'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RH
+  'Look At India': Trump Targets US Central
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5
 
-- Christian Organisations from Northeast India Oppose FCRA Amendment Bill, Seek Withdrawal of Controversial Provisions - Catholic Connect
-  Christian Organisations from Northeast India Oppose FCRA Amendment Bill,
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZnAzYU9QOWd5Sm5wY19aUHdGWG1QajV4Z0t0c1VNWEc2Zkx5ak1JdzZTeWVXWldSOVVGR2hzSXIzTXlYZE90TEx2dnMtcXhabjlxS3ZOQzVUcGFvTnJTLUtuRUxYanF3eTF6ekFJdU5SN2p2cXI0RW1EeXZIU09rbWpnblV6YVJqQ3duQmEtbjdldkhndXNaRV9HWFY0SVBENktPNnhjVFRjQkplNjFfaE5HandhMFh3cnpjMjlOeXM2SVp5ZXNSQlc4MU1sRU1VdFQ3WHZyRklFN1h6YjREMA?oc=5
+- IFFI pays tribute to seven Indian cinema stalwarts on birth centenaries - News On AIR
+  IFFI pays tribute to seven Indian cinema stalwarts on
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNEt0RUY3VXNCZEFja3JtTHpRV0ZpeGx6M3Uzby05TjVOVlFPTUZIckJ2Wklhcks2Q0FvTnZzQUh1ZzV1MTdKQ0t5alBfSUFVV25fVWU0a2VST1drTDZDaDU1ZzViaHJhVEdiWEh0bkpzU19LMHJPNTRxQWtuQ3hRQnA2SndQM1hkX3dXX2pKUmhUTEdEZ29uZzE2eWtzZw?oc=5
 
-- The Hindu Morning Digest: November 21, 2026 - The Hindu
-  The Hindu Morning Digest: November
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHdZb1BoUnBTQ1hWLXMtaVVWaFp0R0d0ZUFmQlBYUmEwVG9TQVZvblM3aUhpejdHaTNWODlSMUFaMVI0eGlDN21hbWxGY1ViZWswMkdEV2VJejhGbkgxRmt2M3hnblJIZ2FTUzZaZkZmN3Nhd25pRFhJZS1LOXE1anptS19EWDNy0gGPAUFVX3lxTE5HTC1jZEtlWEdnZmFBMWNNSlZOaDBBRG5pR0hPVDVDdTE2ZTNVcjNwMDZ6ZFdJRTdhTlRJWlJXYnl1MmFNWXBhbGRUWERJOVgxeC1FRUw4eTQweXR6SUhNb3U0OEJWb0ZlckJhN2VVeDRRbGVXN0JuYWRaVW1GTXVhZGVhMWZweFZhZ0tEYmV3?oc=5
+- 'China Backed Pakistan During Operation Sindoor To Curb India's Rise': US Panel - NDTV
+  'China Backed Pakistan During Operation Sindoor To
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1lYUWtHNk5UYW1JV3hZWFRUcGtJdnFDSzBtWWdVcG03SHFIN2UtMWtmOXBhZVhoM19ocDE5eWpWWkJDYU92VXNiY3MyZjVESHBKblRWRkxVd2JPX3RfUXZnYzk0cHBYVUZIMEczZDNPRmZfRzNfUVpNYS1wbEFUQnFmYmFqRGpNc1pUblk2VkNjMm9RbHR3SnUzZzgtSnRSZGk1cHdranE2X0h6dkxqRDFpa1RQRUXSAb8BQVVfeXFMUHpXVldkRzBwMUFTUnllUGlhR0FLenZvX1JSWUdScnBiazhxWmREYVpIR2xHMnJhdVlycVIyYW53Z0Q2UmtuSVR0RS1QZmFVOUNXNXhJcV9YLTRVeVZUQUlmYTR0QmZnbUZ5Q2k0eWZzRkRZWGkzN241SXdwbmhNVks2SVpycjdMVEVybjhZT2N6ZG9nUHVfUy1vcFF4RzFZMUViSGF0ZFR5S05jOGJ4LUVrWWlEQjZwakVRNFVaZUE?oc=5
 
-- PM Modi’s remark on jobs & wages a confession: Congress - The Times of India
-  PM Modi’s remark on jobs & wages a
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUU9mbVB1NExrTlJ0ZUhfTXBPaV9pOVpQUm9xSmdaeHFtVDdJMlp0TFlueWtrRVJydHFITDBDdTNmc0tYSVdVUFd0MHRfMnFZaTRhQkt0UWx4dWNrVFJ6Z2sxaXRNcVV5MDJyaEU0blllbEtNT0xUUFlvZ3ZwNUxfdllyeXNVNEFiMVBzNUtLM3pRcFVUSzVhdmZUcE1nd0xtOFQ1czhYM2xfR3ZqeDBpQUs5a0t6dHgzOTBn0gHAAUFVX3lxTE0zRF8zUHRjTkdQWmFER1dIMlM2eGRNbHhBRFZHbWxlVldxX19adFl6WFpFOENrN191aXBkVmZXdFhyNFZDdlZzbmVFcHh1YXBIcUt4Ry1sX2V1ZlJja0F6LWVvZEtTT2R2Z2Z3SUNSRlNjdk1IOVRVSllzeGRsSE5EVU9ZVkdBX3d0Uk1CZm5JZGZfdFRYcXZwdnN2M2NxWTcwODZyUGNrYS1sVXh2bUNuX0FBSFpaM01TZnRrOG1GaA?oc=5
+- US President praises India’s economic growth & low interest rates - News On AIR
+  US President praises India’s economic growth &
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxORmFLSkZkaUdadk5zT0t0NkhqSDZPTXM3a1Q4UGpCb1RrLTlIZEdCVEVXcXNkVWxLeHRuYm9FS2NNb1JUSzNXcGJjMERkRUVHZzQwXy1BanUySUd5VTBxZFF3YWsyUGt3WDByT1RYYTBLTm9vVVVjM1FwQm5jOXNhSU1NaTBYQVE3ZkpmLXJGY25wUQ?oc=5
 
-- PM Modi In Bengal, Bihar, UP Today To Unveil Projects Worth Rs 34,000 Crore - NDTV
-  PM Modi In Bengal, Bihar, UP Today To Unve
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xMUHBFeTBsX2pfcnA0OXZsSVM5RVVSMExxQjlHOVR0bzFDQkJUM2o2MUtuY2F6bXdFSHEzMzQ1WUc2NjZFT3FwNU5UTlZXdGNtbGpiWGpZV19uWkl3REtfX2hOOUZkRUtBRlpkc3podzc3T21SVktacGhEQjd5MHBLUHlESUlRNk9nZEEzMHRxcFF4ZUJDbmR3WE9JQ0J0VmhTSlJEcnQyVy1aV1JsbG91SVFtM0dYX2VnOWY3M2fSAcgBQVVfeXFMTzlQNHk3WGZUZ2xpMzdrd0NMVGRFMXZVZVhrblNPdjlINlhEQVZvanZvTXhjWkh4SmxUSE1mdTN0amJSY3N4OUhEQXZqNXh6eVV3ME9Ma1NZUHhEYjBRUTVCSXlZY2t3UWhjQi1EQ2NGUnlEUkd4dU51UjR6Y1ZnR0pfNEVsT3hDekwtQzlPa25XUnNSdlNuak1hTjJjbVVtR042dHdGVm1zZ0JsYWxvdDBXbVJ4NUNBOUtxNGJiTVJZRHpDS3FfV0U?oc=5
+- ‘Look at India, they have low interest rates’: Trump says U.S. could achieve 14–15% economic growth - The Hindu
+  ‘Look at India, they have low interest rates’: Trump
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzB4OUVERUVFY081YkVlOGdkenBWeTYxdFYzY2ExVlhXTW1QbmhLNGt6MkNOTEN3Skh2UUFYVmU5YVdLV2pabzJDSURSXzh5c0JJM05ZUkVvWjBsQW5zVEhYUVpnSTNVaDlxOW14YWFuWkE2RzBEN0M3bnJQMHVhVXhtc1dZVG1RNmY0ekRHZXdELTNkQUZHQUxkb1d2NEpvSzRraWg5bXFHbENwM3VmdnZHb3VqbVpETEVsMm93cmZjVXRqYWt5MlpDbXhpdzgwcVBkTk5kTHJxcEh6R0ctLS02UFlMU3ZnZXNr0gHyAUFVX3lxTE82NzVUb0dpd2xrbmRXRTVlLS1ETUs1bVFNV0xMWU5sLXkzMmNQVUxLcmxHUTh1c3ZaUVJkcmlvV29LcVh4b2w1cG9fcDFybmNPcWpjRjhzNmJoTWptMWtDS0h6VHRCalBsc0V2WmpBQXIwUk14c1BfVFVjNWlLVTN0bVJ1elhDR0pXRHl5azV1bHplbjRhMEF1Mno4QjBGb192UldMdWFBU3VzaXl5Y2pXUTh4Qk54SFlFc2dPdkNSZHhRbGNMYmhDSkRmVEZlakdHU3pELVdFNm13N0lSSGZSZDJVRGFpZXJYMVBmNmhJMzBR?oc=5
 
 - 'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RH
+  'Look At India': Trump Targets US Central
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5
 
-- Christian Organisations from Northeast India Oppose FCRA Amendment Bill, Seek Withdrawal of Controversial Provisions - Catholic Connect
-  Christian Organisations from Northeast India Oppose FCRA Amendment Bill,
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZnAzYU9QOWd5Sm5wY19aUHdGWG1QajV4Z0t0c1VNWEc2Zkx5ak1JdzZTeWVXWldSOVVGR2hzSXIzTXlYZE90TEx2dnMtcXhabjlxS3ZOQzVUcGFvTnJTLUtuRUxYanF3eTF6ekFJdU5SN2p2cXI0RW1EeXZIU09rbWpnblV6YVJqQ3duQmEtbjdldkhndXNaRV9HWFY0SVBENktPNnhjVFRjQkplNjFfaE5HandhMFh3cnpjMjlOeXM2SVp5ZXNSQlc4MU1sRU1VdFQ3WHZyRklFN1h6YjREMA?oc=5
+- IFFI pays tribute to seven Indian cinema stalwarts on birth centenaries - News On AIR
+  IFFI pays tribute to seven Indian cinema stalwarts on
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQNEt0RUY3VXNCZEFja3JtTHpRV0ZpeGx6M3Uzby05TjVOVlFPTUZIckJ2Wklhcks2Q0FvTnZzQUh1ZzV1MTdKQ0t5alBfSUFVV25fVWU0a2VST1drTDZDaDU1ZzViaHJhVEdiWEh0bkpzU19LMHJPNTRxQWtuQ3hRQnA2SndQM1hkX3dXX2pKUmhUTEdEZ29uZzE2eWtzZw?oc=5
 
-- The Hindu Morning Digest: November 21, 2026 - The Hindu
-  The Hindu Morning Digest: November
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHdZb1BoUnBTQ1hWLXMtaVVWaFp0R0d0ZUFmQlBYUmEwVG9TQVZvblM3aUhpejdHaTNWODlSMUFaMVI0eGlDN21hbWxGY1ViZWswMkdEV2VJejhGbkgxRmt2M3hnblJIZ2FTUzZaZkZmN3Nhd25pRFhJZS1LOXE1anptS19EWDNy0gGPAUFVX3lxTE5HTC1jZEtlWEdnZmFBMWNNSlZOaDBBRG5pR0hPVDVDdTE2ZTNVcjNwMDZ6ZFdJRTdhTlRJWlJXYnl1MmFNWXBhbGRUWERJOVgxeC1FRUw4eTQweXR6SUhNb3U0OEJWb0ZlckJhN2VVeDRRbGVXN0JuYWRaVW1GTXVhZGVhMWZweFZhZ0tEYmV3?oc=5
-
-- PM Modi’s remark on jobs & wages a confession: Congress - The Times of India
-  PM Modi’s remark on jobs & wages a
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUU9mbVB1NExrTlJ0ZUhfTXBPaV9pOVpQUm9xSmdaeHFtVDdJMlp0TFlueWtrRVJydHFITDBDdTNmc0tYSVdVUFd0MHRfMnFZaTRhQkt0UWx4dWNrVFJ6Z2sxaXRNcVV5MDJyaEU0blllbEtNT0xUUFlvZ3ZwNUxfdllyeXNVNEFiMVBzNUtLM3pRcFVUSzVhdmZUcE1nd0xtOFQ1czhYM2xfR3ZqeDBpQUs5a0t6dHgzOTBn0gHAAUFVX3lxTE0zRF8zUHRjTkdQWmFER1dIMlM2eGRNbHhBRFZHbWxlVldxX19adFl6WFpFOENrN191aXBkVmZXdFhyNFZDdlZzbmVFcHh1YXBIcUt4Ry1sX2V1ZlJja0F6LWVvZEtTT2R2Z2Z3SUNSRlNjdk1IOVRVSllzeGRsSE5EVU9ZVkdBX3d0Uk1CZm5JZGZfdFRYcXZwdnN2M2NxWTcwODZyUGNrYS1sVXh2bUNuX0FBSFpaM01TZnRrOG1GaA?oc=5
-
-- PM Modi In Bengal, Bihar, UP Today To Unveil Projects Worth Rs 34,000 Crore - NDTV
-  PM Modi In Bengal, Bihar, UP Today To Unve
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xMUHBFeTBsX2pfcnA0OXZsSVM5RVVSMExxQjlHOVR0bzFDQkJUM2o2MUtuY2F6bXdFSHEzMzQ1WUc2NjZFT3FwNU5UTlZXdGNtbGpiWGpZV19uWkl3REtfX2hOOUZkRUtBRlpkc3podzc3T21SVktacGhEQjd5MHBLUHlESUlRNk9nZEEzMHRxcFF4ZUJDbmR3WE9JQ0J0VmhTSlJEcnQyVy1aV1JsbG91SVFtM0dYX2VnOWY3M2fSAcgBQVVfeXFMTzlQNHk3WGZUZ2xpMzdrd0NMVGRFMXZVZVhrblNPdjlINlhEQVZvanZvTXhjWkh4SmxUSE1mdTN0amJSY3N4OUhEQXZqNXh6eVV3ME9Ma1NZUHhEYjBRUTVCSXlZY2t3UWhjQi1EQ2NGUnlEUkd4dU51UjR6Y1ZnR0pfNEVsT3hDekwtQzlPa25XUnNSdlNuak1hTjJjbVVtR042dHdGVm1zZ0JsYWxvdDBXbVJ4NUNBOUtxNGJiTVJZRHpDS3FfV0U?oc=5
+- 'China Backed Pakistan During Operation Sindoor To Curb India's Rise': US Panel - NDTV
+  'China Backed Pakistan During Operation Sindoor To
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1lYUWtHNk5UYW1JV3hZWFRUcGtJdnFDSzBtWWdVcG03SHFIN2UtMWtmOXBhZVhoM19ocDE5eWpWWkJDYU92VXNiY3MyZjVESHBKblRWRkxVd2JPX3RfUXZnYzk0cHBYVUZIMEczZDNPRmZfRzNfUVpNYS1wbEFUQnFmYmFqRGpNc1pUblk2VkNjMm9RbHR3SnUzZzgtSnRSZGk1cHdranE2X0h6dkxqRDFpa1RQRUXSAb8BQVVfeXFMUHpXVldkRzBwMUFTUnllUGlhR0FLenZvX1JSWUdScnBiazhxWmREYVpIR2xHMnJhdVlycVIyYW53Z0Q2UmtuSVR0RS1QZmFVOUNXNXhJcV9YLTRVeVZUQUlmYTR0QmZnbUZ5Q2k0eWZzRkRZWGkzN241SXdwbmhNVks2SVpycjdMVEVybjhZT2N6ZG9nUHVfUy1vcFF4RzFZMUViSGF0ZFR5S05jOGJ4LUVrWWlEQjZwakVRNFVaZUE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-21 05:15:49 UTC_
+_Last updated: 2026-11-21 14:04:00 UTC_
