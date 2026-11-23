@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- Nepal PM Balendra Shah arrives in New Delhi on two-day visit to India - News On AIR
-  Nepal PM Balendra Shah arrives in New Delhi on two
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHAxQ0pGeTVRejVMNGNibS1aMndJdUZ1Q2UxeFlGd1c5VmFHZS1FZkhLVnZOMnY5M2VvSnBiQmRYSWxnbnhUZFJmZ3Z6QWJoTTlIZXRPb3JWN2IyRWw0ejdzZGFwN0ZQd1oxVW02Rk5zZ3NuSXdYVUFoOXNheklNQnQ5UGRpMGpOSldhNjBvRWxnZ0dKa0E?oc=5
+- 'Edicts coming from above': MCC reacts to India's handshake boycott against Pakistan - The Times of India
+  'Edicts coming from above': MCC reacts to India's
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNHFTS2RiM3VhWGFqcU0xSmJKT0NmeTR3b191cFdXZDZyMGkwN2JKTVZEYzJFeS02eFBnOVFvOWlMWWx0Ti1Ud243RXBBTHBULUFCQ09WRExKbEYyNmxWZWlDOUQ2dzUtYmJGYVFhLTl3WnJnQmlaRVZyTno4WXVBMG5pZldCQUF5cy0wbFVnMk9xcW5xV1QzMHVYOHNlVFQ5bUNHSkEzWEdhZHh4SDRWc3FyWkU2OW1vOTBHUVN6Y3haX0FQcW43eldCUkg5QjFBY1NBOGFWQ0N5b0dMb0xISmRia1YwdDdTcW9YdTMwUjVpV3pS0gH6AUFVX3lxTFBoU0N3b1N6bl9CbzJ5ellVRFRGMTFsbC0tUUJPWmRYdndXMVlRNjdXWHJNZ2dyczFrTTIwbzBXaXJzUHZ1aTNYeEtTSjF4Vng4bXcwalRyNEEyekZnM3FHcjl3QVFibW1yTERVT0Vnd09yajJubDhaTjJoak1aWWxmZ3dWMFdtLVkyakNHZ2lWaDNGaHIydDdRWVRvX2FTanhUSFp4andyd0ZfcFNsd0pCOVVJSnR0aEpxTTRrZm10dHpfbHpHZlJST0lKU3c1am9FVWZkVThLYWpFZTNZVXUycGNjTmtMMlVfLXZTMURlNk5VbXVxN21pcnc?oc=5
 
-- 'India Cherishes Special Friendship': S Jaishankar Meets Nepal PM Balen Shah - NDTV
-  'India Cherishes Special Friendship': S Ja
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFdIalN6bmxBX3JLUEtzNGJCNlBwRlVTQmh1Y0t2QXRJU3VNZ3ZfbnBxX2dyc0RTM1BaNFgwZkFHRmo5cThDd29INnRhWUlCekdWOWdyWl9vN0pienVZcXlWVDRrSzNGUVFlRWh4bDlDNE9HTnZEZHIwZWhRNGFmZjNzSzAwVUNzaUloZ3RvMjlFVHlzUUNOYm9hcjh4UmM3ZjNGVGNLQVExdGxnbVU3Mng3UF_SAbwBQVVfeXFMUFRrUEQybWxKMlE3cE5QdnkzLTA3cktjQW9YQjh3cERGT3hSMHdSZWdHYlpiZGNUcENuWUY3clVwVGhNVGUzNXF2V1RocTZ2cXNBb2hVNFVPNTBsU1ZjcjZXLVFvRUstWVdZazE2RGw1eEdTb1Fyc1l6azhzZEV4QkJYUVMyUUhsSTBtTlFCMlFCVWMzVXhSWlVWajExUkc0V015bzRWTlg5NHJXVzdmZGJtWWNQczdjOGZNb3c?oc=5
-
-- 'India cherishes special friendship': Jaishankar meets Nepal PM Balen Shah - The Times of India
-  'India cherishes special friendship': Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUVOUGpYN1VEUzc0clBqVW5vUkFKdVdsLVI2N0hVbVhKZlc5MExyS0x2TVJoV0ZvbW1RLWwtNHhfaXYzM2xJcWdLdlk2aTNCd1JLTXVWSG1JSHA1SmFkTHIyRGJZQTNRS3dFSDhHSVdKQjNhUndqZkI2X041bEJDaS1aSDB0SkctVWNNc1JMSzVJV002bkhoNWQ5R3dYZ1RpLXVndkxtMFZQV2U0b28wQXU2SmZFMzlKSy02WV9kNmdjVXRybzVoOG54ZzVpSllFT3RrVdIB2gFBVV95cUxQOG9lZF9YTnI4Z2lXYjBtMldabFBIUDJMR2YwekREUGlaTEtncnpMU25vblpPdVBNeEF1cDRsQi1RRm1uekxBQ3hhSFlUWlFNTGI4SEdIXzc5QXJMcWZLMm5FS0ZLSHNxOXlucWYxeF9ZSVR4Ni04azdveE53bGFHZlNncU85M3ZsME9hbFhZUHI2VlpNQWhibHFJRFh3b0t5elF3dmtwN0ZNVEJ0TTU5WHJqS19UWDhsYWxkd1RJVG9QUVVFai1aTmlEOF9qbllXc0d4ckRRUDZXQQ?oc=5
+- India, China hold 10-day talks to ease LAC tensions in Arunachal Pradesh - The Hindu
+  India, China hold 10-day talks to ease L
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOcjYxc2l0MEpXN1FicE8wTDktVFUyX0NGbFpNMHhrSWktZURqZjgxZDhzZFFjeEJabWtGTzZjU3JabXFTUXFZQmFvekRSQ1VhcHRyWlY4c0JrajBCQUhjSXZ6NlpvcGZYTzM5Z01lREg5dG1tcFJSWV9LTW0tQjg1WFhyWW9PMGo5OG1UaE1fZklkZG16ZXJMa3psYWJpR1lWdTN4eWlCeG83SkdJQVhMSHVrWG9mNEVRWThNYU9qenZaY001dEhkTUFaQdIB0gFBVV95cUxOQkJ6U2FKQ1NxMVRXdm0zT1d6WGg2OWZVV3ViOV95dEk1VjduZFJrTzJyT2sxN09VQlZYenlyQnY1bWNIZVZQc2FCeGtQR2pPSDFoRHI0aXd2VnNla1g3MXllREUyZWk2b0dNaTM5emJMOGNrSFA4MV8zaWNIZnY0XzRTYnAzeFhMYU15ZFJXTV9LYlRfN3M0aExMNmJFdk1SUzNMaDM4V21RajJGM2NVTEdoYjJvR19RRXJpc3pEenJvUnpZZmN2VzhVVFhNdEFOZEE?oc=5
 
 - Delhi Cop Gets Rs 9-Lakh Aura Instead Of Rs 13-Lakh Brezza. He Cancels Wedding - NDTV
   &nbsp;&ngt;<font color
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXRQSUlxc21tcjdqSTN5SG9za1pzTnI2X2ktSm9XN1lQYm9UQUJDekhtUTR4WFVxcWc1aDBZSzJ1cy1sclotcEp3clg0ZERkUUdvcF82eHRPLXYxekJBMkxNQUdkQ2FJT2plNlg0QU94dkY1VWpFVkc5LVdRSUVRNDhOczN6Y0xscUNZMFdmWU56QWxhMklxOGRwb0tfRTdqLXRDRHlrcUNvZ2owOGRDQXc0em1reEpBS0HSAcIBQVVfeXFMT2FzTDJIREZxWW1DeVYyNWRMTzFaX3BKMDhSc29VbTVYektMdzNzLTdQN1d2cjlRRFZ5Vm9aTE9abzJjOEZKWTJUMmRwVzN3R20zQ3JzMGVyaXNTVndvdVdGaURUNjVzcmRkd2lwanhpY29OcmhpbUNIaDg1czNBNkZaaDZMOEVqcDBSZFpaUnRkNjdmSmhIUlM3MFAteV9LcnZkNFc4a29BeUEwVW9Hb1AtRFkzWTVoak1ubU4yeXI2dWc?oc=5
 
+- Indian opposition party’s youth wing warns of more Meta protests after police clashes - The Guardian
+  Indian opposition party’s youth wing warns of more protests
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUJRdUNRRXhnbERmUzJMcjMwOWZqOUl1RmZYLXRMTTZmMzJhUW50clpub2M1OVpDcW0tOVEyUGljcHcxanVYUk9yYnRNQWpJYXozVlFTaFozODdSSEp5VzVySUFLamQxZlZQR1RiSVdSdEc2dVRDNExEQ09zbG82VGg1ckJBNTkzckJZX0ZVeTFtdXhpd0E?oc=5
+
 - Conway keeps New Zealand afloat after Pant's ton powers India to record 720 - Cricbuzz
   Conway keeps New Zealand afloat after Pant's ton powers
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPcnpwd3l2Y2Exc1FDLS1IZV9ZRUxzM0YzX1FFTC1nMEQyMHhtTEtmUUZmOXRJMERVanFZTmZjWHdzRV9jbF9HZm85eUlBTnktblE1eWo2ZnFFc2VfU2xVWmVRLUxkZk5BZ0tPQlZ0SGE5ak1MRkZ5aHVoaVVxRmc2WGxZcUxaMVJ5NFpLTVdsUWI3QjRGSWRlMndlcEpReVRoZnNtTGhmM3BmZEFMTDBKMFJ6SThBZzhqWFB6MjJSa1FMYkVJT3liRTFGNA?oc=5
+
+- U.S. intelligence chief predicts more tech outages as systems undergo upgrades - The Hindu
+  U.S. intelligence chief predicts more tech out
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWDhibzJjTXBvRnN2c0xTS21HU1gyazR6Q0lWLUFIZmg5VFVYTFFXTzlQN3FzZ0tlSHlXa0RfbzZtTk5yX0ZqODNxaklzZW9UNml3UmtnZGw0TzJibjNXXzVPWURkcXZqTVFoYlRHRXI5R0djMWV3MGpTSHZObWtYQnU4QVhGd0tXV21XTmE5bWVkRzFzM2tFRkR6R0ZONWZxeHlvekVJWE9Pc0lNVG9pbjBmdFBXbm54WUhkNHo0ZnRHU0hTSHFrSjltcFRtdUUwYU1sZWNCN2TSAd8BQVVfeXFMTjFITmFocVl6VjZNLVVkX3pySkE0ZFB6YWtBXzc3a1BZUXRjWmRNeWZDd0JVRXk4MmFaUElnel9tTVVDRW00dXlHTDhMTXNjMlNzZklONWhrX1lOMW1kSUlJQ0pORXE1ZmJzZjZIaTJnWmo2S1M2UWJHY3ZzRkllbmJKbktSYTFHM0pJTWF2LUxUVXFPOVd5TFBpcHZhNmViT2RHMk91c1BSOG1EbFlJeS1BMnpkOXpEN0ZyMFN4QmpOTmZMUW50MmRrb0hITWRNNHlRZDFGblpPRy1oNlVpSQ?oc=5
+
+- New imaging technology reveals previously unseen immune cell patterns in tissue - Medical Xpress
+  New imaging technology reveals previously unseen immune cell patterns in
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVZDRS01YXNORUJRbmNTS2JoWU82bWc3d0NaWUxGSEZoQl94anNEZkRyOHRYQkZzTGp3YktLQ25seVpyY1B2ZlFFQVBGNDlJQnpGTlRTcXNnRkNNYWJhLW1ZYjA3RmFuX0xJeFdZRVZCR2I3am95NnZVNXM5dUp4dFk5RUNSdnVLdXRuT3B4aURZUQ?oc=5
+
+- Senthil Krishnasamy Takes on Vice President of Technology Role at Qualcomm - https://hrtoday.in/
+  Senthil Krishnasamy Takes on Vice
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQU1pJZFJ6NkFjZUl5NEtHVnVkZWRuMWtaeDlmTkkwdDJJVTBLZTdBTGh1TUZ0VnVITmxoaXZNSXFabllYS0Z6QkJmMndwUTR2S2FjcThhVEctdWtLcVpocTVvX1NmX3YydzFvT3cwVXU3WEdCRnFmZzNoZkF2TG5NY0tsS1ROMWZmWEY4eGI1R3dMX1VFWElCdzd3?oc=5
 
 - Hacks, AI and conspiracy theories: why are we having so many outages? | Technology - The Guardian
   &nbsp;&ngt;<font color="#6
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnpqZEFCdFN6ajFQM0JERXJuOE12Yk5TZ29QTlRLdWVnNzRRRE9ZQmlWWXh5dE1fcGhKS2J4VWhSTlBjRUVweTJrVkI0SWZCeGltUFF6UzN5bDJOWlkzb1B5eUhrSnJEUUxaNXdwTDZvUGZLNm8zbnNLSDAtb3FFNGkzNjRPTVF6VXlSMlB2eFJqeWszRFNuSGJFSUVrMjlEQ0gwdW5wX1lQMHM?oc=5
 
-- A.P. Governor urges SSSIHL students to use technology responsibly to achieve India’s 2047 goals - The Hindu
-  A.P. Governor urges SSSIHL students to use
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWUFYOUxzaEdrUzVBOW5UdnpRXzk5RTY0Mi1kbGFJZ1FLU0JGZFo0OWs1Ukszb2FmUVRPT3hJWV80Rk9HZ0FxYXFCbnY3N2ljdksxSXJRLURvYUVqaHZkRXZfeFAxRlR2TjlKT1JFT192WDNNZ3ZOWFZ3dlp3anptcnd2aWFPV19XTnFEQ3NQLUdYcGNNRkpZUmRLdGFxRktzZkZrRWNPVEJGaUJmY09TbU5BWmVYMEt6N2JwbzNYM3lNc1JrMW9JZzBrUlcwWm9jamFqNm0xZEZPbzhhYWhQWkx2VDE0SFotUHZhd0p3bXFHSTJ4ZVloX2Jn0gGAAkFVX3lxTFBtR2hmVmRneko0ZVlxOFM0MTRlT0gzNlJFUzN3amNQVDdOVUJqLXJnd04ycmNIa0lJYzdDNGcwb2k0T3ZMU19Wd2lOSmM4XzdSa1N5bU1rY1JpZk1sSld6eWxkNDJWOHU0MndpWV9sVHhkcjFrcVQtVk1JVnI0aWtUeThfZkh1M0JoWGdvdmVaNWx6MjJGaXNvbUFBWmE1N3ROSFhLaVN4RjNQZU1UOUNwNFRGVzIyTW1qbnpOZTZLQlU1ZS15eDhHTG8wV2VUU0FyaVJwT2tYRlU3VE85S3RQOFFkSV9RcHUtdzUzOEdQVlFFc3VYNW12aS14R3B5YnQ?oc=5
+- Unlocking AI ROI in the technology industry - EY
+  Unlocking AI ROI
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5DWkNZTGxsb2FLbTllbmZ5STNleEFma3VYR2Rhb3NCeXltdEw0b2Y1OWE1cmtXaHllc2JFUE84V0RuVlowYnBzSGU4TDY0cUE2WWN0aWw4YlpURU9weVFTLXFhTG92cFVUZElNX0I5ZTRMTnF1RlVR?oc=5
 
-- SUV boom in India puts pressure on parking infrastructure, drives demand for bigger bays and technology - ET Auto
-  SUV boom in India puts pressure on parking infrastructure, drives demand for bigger
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcHdLLVZCSU83aTVJUEN2SUhzV0tNU05QbW9nbXA1VmFqSVFkQ0JiZHFjZkoycmI5c21JbTRRN2UzZWo4c3d4VFktOHZFZEMyOTRJMjd6MU5qUEdxYnM2cUFVbTltOEVQT3RXVFBUZ29rSjV2ajdqTXk1SDF2dTNmMXY0MUFQYTdUQjZLYndxU0dpTVlIRXZhWndaSWhhZk5UWHJzcU1hLV9QYWRyODhaaW1oLXlUU1dTajRXX1RPVEhucXpqZ29GbHZ3OTBmU0JSZWNqc3NmV2RPTFhmelNoeTFWYmozYWhDSkQ1MDdmUHBwOVRvU09Fa2JONlhUaWlCV2ZPUjFieC3SAYwCQVVfeXFMTWZac2tCbXZ3WlZjNVBEYU8wbzlYRGZ5djVpTl8tSGVLdW42TElkejdGNm42azJQaGw5dUVqRHVBbGFFVF9MM2FtNENvaE1DWDdpaEIxLXV3MmM5S0tDLWVrZmxqYlNRZGZ5TW9IRnUxTUNFRnZCU2U4bXVUcE1UbzRlZmtfTFJONS0zLTE2YmtCLWc4dGhHOGdOb0Q0bUtRNDlFeG1LYnVQaktHNW9ZckpINlQyNWFKeUN0aW1mdzNKRnRXSTBGZDBXM1hYblNLczRUYUVhQmpma1o4dUhRWW5HRGZFeHpicmtpRUhvRXNNM1pSaUI2eUZLc213ZHoyMl9aZ3NBcTRwS3BEYQ?oc=5
+- Tata Sons postpones November 26 board meeting as question of going public continues to remain unsolved
+  Tata Sons postponed its November 26 board meeting after Noel Tata objected to directors receiving the agenda less than seven days beforehand. Noel also sought recordings of meetings related to Chandrasek
+  🔗 https://www.livemint.com/companies/news/tata-sons-postpones-november-26-board-meeting-as-question-of-going-public-continues-to-remain-unsolved-11795409768053.html
 
-- Frontier technology regulatory updates in financial services, quarter three 2026 - Deloitte
-  The report was published by Deloitte
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTVZXVFJYcnBiNUFCVi1qNmV6Qkh5ZEFNdGI5X09vNDNzSDZiYlVCNUlaUVFoOEgweXRTUGxWUEVKLXBMTUN1cGk3RlNlRlVUaVFhNjN6b2tkMlVpVkdzVEg4NVg5c2xrWW9idEtfUU4tUGRpUUdXSnlpSHpDZW1hWmFXVkdRM1QxeFVKLTNGbjEwMm5DNHFNVWJxRWhHczhjODQtcDhWX2tiOHp2SFZyOVljYm1RSGtBQndGRm44V1JEbUxzamptbXNvcDR1c0pDaF9fV1dUR1AwOXk2YlpTamZSSFdyZTRFb0lTOQ?oc=5
+- Tata Steel to acquire 26.6% stake in APL Apollo for  ₹15,510 crore, makes open offer
+  The proposed transaction is in line with Tata Steel’s strategy of increasing
+  🔗 https://www.livemint.com/companies/news/tata-steel-acquire-stake-apl-apollo-rs-15510-crore-open-offer-11795404824089.html
 
-- Startups lead Technology Development Board's second funding cohort - Business Standard
-  Startups lead Technology Development Board's
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTnBvVkVYUnQtRHR4MDRocXEtV0tsNl9BWVJKakJYYTVNZXBaeHM4M3RvSW1ja2NDcmRwMHROY0NCVXR5SEVoakV3TkhwaWh3VHBlTkoxLWlMWlc1OUh1WVU4UUs2MzdJRFd3RUZiblBkbU5aTUE2ZXZzb3BXeU9mWDA3SDFNa3ZvZ1E0bWpITExTYmJWTlBJUFVXV25CaTZiS1o5M2lYOFhGM0RneFkxOTU2VWtYWjNUcFVpUUhXdlo4d1gxUUl3TjF0T3NqNUIzS0FPSGI5SUXSAd4BQVVfeXFMTkFPNlcta3FKV0hxd0ZhOXpvd1czczNJSzJuQWZleVV2VnZRV2d2QXU5bFlSWmJFTGNSSFBmQ0NEZWw2ZXM2WHB4QjFaaVBEeHJxeHgtTEVpbEd3TFlvUEp6MVd1dnBSbS05U2lIMDFzOE5tRzRncGpKOHZQZ0t4bDZNaURibnJHWm91Q2h6RWtaRlZKcXBxV3JabDhydHlsUmQ2U2JUYWhLTVNNYnNmZkdKM3FBVkJsdlZVclZRMjZ6dTlYMDJENlJiQ2VyeTQ2Y3BvNHFrUUV5ai1TNEtR?oc=5
+- Tata Steel signs $1.7 billion share purchase agreement to acquire 26.4% stake in APL Apollo Tubes — All we know
+  Tata Steel agreed to buy a 26.4% stake in APL Apollo Tubes for up to $1.7 billion. The move follows a  ₹280 billion deal to sell its tubes business
+  🔗 https://www.livemint.com/companies/news/tata-steel-signs-1-7-billion-share-purchase-agreement-acquire-26-4-pc-stake-apl-apollo-tubes-business-market-all-we-know-11795403549614.html
 
-- Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving
-  Automation system problem at Delta causes flight
-  🔗 https://www.livemint.com/companies/automation-system-problem-at-delta-causes-flight-delays-as-americans-travel-for-thanksgiving-11795386576077.html
+- After missing salary, employees at Indian-origin CEO's robotic soldier startup backed by Eric Trump lose health benefits
+  Foundation Future terminated employees' health benefits amid cash-flow concerns. CEO Sankaet Pathak has attributed the crisis to delayed funding from the South Korean investor Base Group.
+  🔗 https://www.livemint.com/companies/news/after-missing-salary-employees-at-indian-origin-ceos-robotic-soldier-startup-backed-by-eric-trump-lose-health-benefits-11795396927193.html
 
-- Compass Plans to Move Main Listing to New York From London
-   Compass Group Plc plans to move its primary listing from London to New York.
-  🔗 https://www.livemint.com/companies/compass-plans-to-move-main-listing-to-new-york-from-london-11795383159966.html
+- Tata Sons lists EGM on board agenda amid vexed quorum issue
+  The meeting will also take up Tata Trusts chairman Noel Tata’s repeated objections to proceedings of the board
+  🔗 https://www.livemint.com/companies/news/tata-sons-board-meeting-agenda-listing-egm-11795355045284.html
 
-- Tata Steel’s  ₹28,000 crore deal with APL Apollo is part of a two-stage takeover transaction
-  Tata Steel has agreed to transfer its tubes business for up to  ₹11,700 crore and its 100% stake in Tata Steel Colors for  ⁹16,
-  🔗 https://www.livemint.com/companies/news/tata-steel-s-28-000-crore-deal-with-apl-apollo-is-part-of-a-two-stage-transaction-11795360468769.html
+- 98% up in 5 years! APL Apollo shares crash 15% today; here's why | Check stock returns, target price
+  APL Apollo Tubes share price crashed over 15% in Monday's trading session. Tata Steel's board approved the acquisition of
+  🔗 https://www.livemint.com/market/stock-market-news/107-up-in-5-years-apl-apollo-shares-crash-10-today-heres-why-check-stock-returns-target-price-11795406789837.html
 
-- Who is Prerna Jha? Former Zee5 executive returns to Jio Studios as AVP – Marketing; what did she say?
-  Jio Studios appoints Prerna Jha as Associate Vice President of Marketing. Jha returns with experience in film marketing, streaming, media and consumer research.
-  🔗 https://www.livemint.com/companies/people/who-is-prerna-jha-former-zee5-executive-returns-to-jio-studios-as-avp-marketing-what-did-she-say-11795360074422.html
+- Gold, silver, bitcoin rates crash: Rich Dad Poor Dad author Robert Kiyosaki has this wealth creation tip for investors
+  The American businessman and entrepreneur has said that weak hands are selling but strong hands are waiting to buy
+  🔗 https://www.livemint.com/market/stock-market-news/gold-silver-bitcoin-rates-crash-rich-dad-poor-dad-author-robert-kiyosaki-has-this-wealth-creation-tip-for-investors-11795404307920.html
 
-- JK Urbanscapes plans six hotels beyond metros to tap rising demand
-  India’s hospitality opportunity is becoming increasingly diverse, with growth extending beyond traditional hotel markets and formats. As business, leisure and experience-led travel
-  🔗 https://www.livemint.com/companies/news/jk-urbanscapes-plans-six-hotels-beyond-metros-to-tap-rising-demand-hospitality-real-estate-11795328598109.html
+- Tata Steel shares fall 5% as investors weigh  ₹32,000 cr APL Apollo acquisition plan | Should you buy? Check key levels
+  Tata Steel shares fell nearly 5% after it agreed to acquire up to 26.38% of APL Apollo Tubes for about  ₹15,511 crore. If both transactions are completed, Tata Steel
+  🔗 https://www.livemint.com/market/stock-market-news/tata-steel-shares-fall-5-as-investors-weigh-rs-32-000-cr-apl-apollo-acquisition-plan-should-you-buy-check-key-levels-11795406091656.html
 
-- Taiwan Mulls Lowering Margin Requirement to Support Stock Market
-  Taiwan is considering lowering the margin requirement ratio for stock investors using borrowed funds. It is trying to stem a selloff after the
-  🔗 https://www.livemint.com/market/taiwan-mulls-lowering-margin-requirement-to-support-stock-market-11795359097624.html
+- South Korea Says Market Measures Will Ease Investor Jitters
+  South Korea's finance minister said the government’s latest market-stabilization measures should help restore investor confidence.
+  🔗 https://www.livemint.com/market/south-korea-says-market-measures-will-ease-investor-jitters-11795404903558.html
 
-- Gold, silver, copper, aluminium, platinum to zinc: Why are metal prices crashing to multi-month lows? Key reasons
-  Gold near a 14-month low and silver at its lowest since September 2025. Inflation concerns, stronger US yields and the dollar, Fed rate-hike expectations, and
-  🔗 https://www.livemint.com/market/commodities/gold-silver-copper-aluminium-platinum-to-zinc-why-are-metal-prices-crashing-to-multi-month-lows-key-reasons-11795357679178.html
+- Tata Steel share price in focus on announcement to acquire 26.38% stake in APL Apollo Tubes for  ₹15,511 crore
+  Tata Steel plans to buy a 26.38% stake in APL Apollo Tubes. It will also transfer its tubes and pipes business and sell Tata Steel Colors.
+  🔗 https://www.livemint.com/market/stock-market-news/tata-steel-share-price-in-focus-on-announcement-to-acquire-26-38-stake-in-apl-apollo-tubes-for-rs-15-511-crore-11795400975932.html
 
-- Wall St Week Ahead-Black Friday brings consumer spending into focus for AI-rocked market
-  
-  🔗 https://www.livemint.com/market/wall-st-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market-11795356076825.html
+- Europes cloud sovereignty push gains ground, but US hyperscalers remain dominant
+  Europe's cloud sovereignty push gains ground,
+  🔗 https://www.livemint.com/technology/europes-cloud-sovereignty-push-gains-ground-but-us-hyperscalers-remain-dominant-11795410085060.html
 
-- Markets with Bertie | Have high crude prices sown the seeds of their own destruction?
-   Trader Sam explains that wars are reshaping energy policy, prompting investment in renewables, domestic production and electric vehicles. Bertie’s enthusiasm for children�
-  🔗 https://www.livemint.com/market/have-high-crude-prices-sown-the-seeds-of-their-own-destruction-11795351295441.html
-
-- 52% rally in six months! Mukul Agrawal portfolio’s defence stock has 19% upside, says ICICI Direct - Do you own it?
-  PTC Industries shares rose 1.01% on Friday, while the stock gained about 23% in three months and 53% in six. ICICI Securities retained its Buy rating and
-  🔗 https://www.livemint.com/market/stock-market-news/52-rally-in-six-months-mukul-agrawal-portfolio-s-defence-stock-has-19-upside-says-icici-direct-do-you-own-it-11795353943967.html
+- GTA 6 developers add emotional in-game memorials for late family members: ‘Miss you Mum’
+  The tribute commemorates one developer's late mother and another's father and daughter. Players can discover the memorial as they explore the game world.
+  🔗 https://www.livemint.com/technology/tech-news/gta-6-developers-add-emotional-in-game-memorials-for-late-family-members-miss-you-mum-11795402411664.html
 
 - OpenAI scientist proposes industry AI limits tied to model intelligence metric
   
@@ -92,73 +100,73 @@
   Samsung's Galaxy S27 series could bring a redesigned Now Bar inspired by Apple's Dynamic Island. Early software also offers clues about the expected launch and new models.
   🔗 https://www.livemint.com/technology/samsung-galaxy-s27-leak-5-new-features-leaked-so-far-from-an-iphone-like-now-bar-to-ai-video-creation-11795344813020.html
 
-- AI investment to rise to USD 1.4 trillion in 2027, but returns remain key test: UBS
-  Global investment in artificial intelligence is expected to continue expanding in 2027. Technology companies could face increasing pressure to demonstrate that the massive spending is translating into
-  🔗 https://www.livemint.com/technology/ai-investment-to-rise-to-usd-1-4-trillion-in-2027-but-returns-remain-key-test-ubs-11795319991174.html
+- S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates - CNBC
+  S&amp;P 500 futures rebound sharply to rise 2%, kick
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5
 
-- Meet Ishita Jain, the Google AI GTM leader driving business growth and working with enterprises across Southeast Asia
-  Ishita Jain has joined Google in an AI Go-to-Market role. She will work with enterprises across Southeast Asia to
-  🔗 https://www.livemint.com/technology/tech-news/meet-ishita-jain-the-google-ai-gtm-leader-driving-business-growth-and-working-with-enterprises-across-southeast-asia-11795282632488.html
+- US futures bounce as AI rout rattles Asian stocks - Reuters
+  US futures bounce as AI rout ratt
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCTHFmMEhvbHFDeExTNUdTeDF3WkxJZ2RSdmZ2cHBxWlFjTXdoa1hXdlZQRWtyTFFKVlJjMA?oc=5
 
-- Investors Brave Stock Market ‘Fragility’ as AI Trade Falters - Bloomberg.com
-  Investors Brave Stock Market ‘
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnVJSXZOc19yY1dPSG12MGpNT29BU3g1X1c2TjliWWE4V0tGejk1cWdlRUJaZUI5bmhyT0RFTVZlWDNidmEwX01XYU1kT3ZVdFlVX2YzTGZqQnJEdlBVeEhZQTJXT2JmNkdWZ1J3b3FQeTh2N3VvWmJQNFMweEJpV3NhbEkxWGVQWUN4NmZsOXNHOHJWZE1VUUFXNHlRUHliakRwakRKbTl4ZDZYUUE?oc=5
-
-- Asia Braces for More Volatility After US Selloff: Markets Wrap - Bloomberg.com
-  Asia Braces for More Volatility After
+- US Stock Futures Rally After AI Rout, Havens Fall: Markets Wrap - Bloomberg.com
+  US Stock Futures Rally After AI Rout,
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5
 
-- Asia-Pacific Stocks Brace for Selloff After Wall Street Rout - Bloomberg.com
-  Asia-Pacific Stocks Brace
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBrdHY0eGFYTndiTE8wckMweDJHSUx5Q19qNjJEUUlFSDd2anZ3b3JYd2ZtQXZNTFZnU0xMOFZxR003NjVZNkdPc1BqMktjelhWeFZnUE5UemVmQTlVSU9uZDVYakh0ZDBFakJKOHp0SFUwYXN5SEVN?oc=5
+- Asian stock markets tumble as AI bubble fears mount - Al Jazeera
+  Asian stock markets tumble as AI bubble fears
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5
 
-- Gold, silver, and India’s coming of age as a bullion market - BusinessLine
-  Gold, silver, and India’s
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ24xelFwaU1rc1JCRlRHTG4zbldSQ3kwUDl4dE9QM1d3TFdWM0txek84YWl6anFmcXA0bkxKWUVkdWlWLWt5bnNHS3FBdElBLW1kRkw3aHpQb0VvbEp4Ylo4aGVPeUZQZDkySURBaGRfUWNmclJadHBMYjNDRVJxWmR0Vl9TMmVjaC1VRmhzbTNvTkQ0a25sYWJOUXRRdXVUeUc2SFJCSnMxekVSZDJxX3VWdzFuSGM5SUNHUDZ1YTJmVnBE0gHLAUFVX3lxTFBWM0o5QTh2LThjN0VtVjJ1SGtiaHoyaVhielY2VnZYbVhBVG1PNVMwbjI1OWljRGlIcXFnSFZXMFA4ZHZCMkFzN1Njdld3bVpfS0d0ZTdxRElPWkhlcUlVQzRlaGd3YjJKZ2x1M0JWU2loWTVrVnEwak5HNnUyTVZ3aHI4MGFKRXJqNmN1SmF1NEZkYWhWcHVJZ0JpYk04TUNSVGZEN3lpR2FCSXlfT0xZWTJDM3lCYnFZQWFsd0hwRmNKdTRHZ0EzWS1n?oc=5
+- China Lowers Margin Requirement to 80% to Boost Stock Liquidity - Bloomberg.com
+  China Lowers Margin Requirement to
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0lsWGMtQzFaN3pHeFA3ZFVNLWdHN0lDcVZESDA4UFZUVlVpXzhTdllpOHhTZDBzX2pvT3dEdDNZS1laUnh0bzVWZS16WXZyYlVvTW5qU3VVOXVzSzFVTlRWbzB2eFhoS0VVVk14WGU0aGQxLUxaOG1Gb01lTURmMERJaDhEVkVoNXdxdFNLTVZLdXFGWjZ4WWJWajV4NmZaTEhuUmFLY1BzVHQxQTRoZ1l4WQ?oc=5
 
-- What is 'Black Monday', which traders speculate may hit markets tomorrow? | 5 of 10 worst drops of S&P 500 were on Monday | Inshorts - Inshorts
-  'Black Monday' is expected to hit the markets on Monday.
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQcEg5VGlSbmozSm5zYzZzakpCRENsb2JibHNzUjlfMHRaNUI5YUtpX1FwTVJ6b0xRR28yc1EycThrXzVVZlBHUzNCblZhU1JQOW5XaUNiTFp4bWs5aTRuRVR4bXBqRG1jdmVweXFPdTNvMEVpQTNKLVAwUXhTNm1FMXVLdjFtdXpBdzl5YW01R1RjUXRyMDA3YTNBS2c4bUg1YVoyWG5seVBJRmpOUDYxbzYtaDJzQzTSAbwBQVVfeXFMTWFjUzdlMVpCTVdmUkN4cTVsZVlEcjR0Z0lJX0pJcnV5VGY4Tm9lZ0N0ZnNoeFhLRFgyN2xfRjlwUm04S0prSEVCNVphc1JfMTg1dzdVRHRwZTJmaUJBYmw1X3lmVWdWaGQ4SVZxakVyaWVPR0lqZGQ3THRReHBBbGgtWEpCWEF5c0hLVVFoaU1qM0FJbExFQXBkNmxqWloyTXRYaHVzemNYeDRfSWNDNGlJSmVISUdVYWdBNW8?oc=5
+- Gold Silver Rates Live Updates: Gold rebounds from 14-month low as US inflation data, Fed rate outlook take centre stage
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136088467.cms
 
-- South Korea prepares market stabilisation funds after KOSPI hits 10-month low
-  South Korea's finance ministry is poised to activate market stabilisation funds. KOSPI index has plummeted, marking its lowest point in the last ten months.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/articleshow/136073016.cms
+- APL Apollo Tubes among 3 stocks that rose above VWAP
+  The VWAP gives greater weight to prices at which higher trading volumes occurred. When the closing price is above the VWAP, it means the stock closed at a price higher
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/apl-apollo-tubes-among-3-stocks-that-rose-above-vwap/slideshow/136088216.cms
 
-- Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts
-  Next week promises to be a rollercoaster for crude oil futures as the OPEC+ meeting approaches. Traders are keeping a close eye on supply insights from the American Petroleum Institute and Energy Information Administration.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/crude-oil-futures-brace-for-opec-output-decision-amid-supply-glut-concerns-analysts/articleshow/136072428.cms
+- Rupee could rise to 91.50/$ on equity inflows, says HDFC Bank's treasury head
+  Experts foresee further strengthening, potentially reaching 91.50 against the US dollar. A rate hike by the Reserve Bank of India is on the horizon. Bond yields are likewise projected to increase moderately due to tighter liquidity.
+  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms
 
-- Why gold’s five-year winning streak is under threat after dramatic selloff
-  Gold has fallen to around $3,510 an ounce after hitting a record $5,594.82 earlier in 2026. A stronger dollar, elevated bond yields, profit-booking
-  🔗 https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms
+- HDFC Bank among 5 stocks showing White Marubozu pattern
+  Five Nifty200 stocks featured in StockEdge’s White Marubozu bullish scanner on November 23, indicating strong buying
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-among-5-stocks-showing-white-marubozu-pattern/slideshow/136087788.cms
 
-- InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027
-  Four to five Infrastructure Investment Trusts are expected to launch public offerings to raise Rs 17,000 crore by 2027. Notable companies like Brookfield and Investcorp are preparing to shift to public InvITs.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms
+- Persistent Systems among 4 stocks showing RSI trending up
+  Four Nifty500 stocks that gained over 4% on November 23 featured in StockEdge’s RSI Trending Up scan.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-among-4-stocks-showing-rsi-trending-up/slideshow/136087624.cms
 
-- 5 penny stocks plunge up to 68% in six months. Do you own any?
-  Five BSE Smallcap penny stocks have fallen between 21% and 68% in recent months. Kalind
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms
+- 'Edicts coming from above': MCC reacts to India's handshake boycott against Pakistan - The Times of India
+  'Edicts coming from above': MCC reacts to India's
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNHFTS2RiM3VhWGFqcU0xSmJKT0NmeTR3b191cFdXZDZyMGkwN2JKTVZEYzJFeS02eFBnOVFvOWlMWWx0Ti1Ud243RXBBTHBULUFCQ09WRExKbEYyNmxWZWlDOUQ2dzUtYmJGYVFhLTl3WnJnQmlaRVZyTno4WXVBMG5pZldCQUF5cy0wbFVnMk9xcW5xV1QzMHVYOHNlVFQ5bUNHSkEzWEdhZHh4SDRWc3FyWkU2OW1vOTBHUVN6Y3haX0FQcW43eldCUkg5QjFBY1NBOGFWQ0N5b0dMb0xISmRia1YwdDdTcW9YdTMwUjVpV3pS0gH6AUFVX3lxTFBoU0N3b1N6bl9CbzJ5ellVRFRGMTFsbC0tUUJPWmRYdndXMVlRNjdXWHJNZ2dyczFrTTIwbzBXaXJzUHZ1aTNYeEtTSjF4Vng4bXcwalRyNEEyekZnM3FHcjl3QVFibW1yTERVT0Vnd09yajJubDhaTjJoak1aWWxmZ3dWMFdtLVkyakNHZ2lWaDNGaHIydDdRWVRvX2FTanhUSFp4andyd0ZfcFNsd0pCOVVJSnR0aEpxTTRrZm10dHpfbHpHZlJST0lKU3c1am9FVWZkVThLYWpFZTNZVXUycGNjTmtMMlVfLXZTMURlNk5VbXVxN21pcnc?oc=5
 
-- Nepal PM Balendra Shah arrives in New Delhi on two-day visit to India - News On AIR
-  Nepal PM Balendra Shah arrives in New Delhi on two
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHAxQ0pGeTVRejVMNGNibS1aMndJdUZ1Q2UxeFlGd1c5VmFHZS1FZkhLVnZOMnY5M2VvSnBiQmRYSWxnbnhUZFJmZ3Z6QWJoTTlIZXRPb3JWN2IyRWw0ejdzZGFwN0ZQd1oxVW02Rk5zZ3NuSXdYVUFoOXNheklNQnQ5UGRpMGpOSldhNjBvRWxnZ0dKa0E?oc=5
-
-- 'India Cherishes Special Friendship': S Jaishankar Meets Nepal PM Balen Shah - NDTV
-  'India Cherishes Special Friendship': S Ja
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFdIalN6bmxBX3JLUEtzNGJCNlBwRlVTQmh1Y0t2QXRJU3VNZ3ZfbnBxX2dyc0RTM1BaNFgwZkFHRmo5cThDd29INnRhWUlCekdWOWdyWl9vN0pienVZcXlWVDRrSzNGUVFlRWh4bDlDNE9HTnZEZHIwZWhRNGFmZjNzSzAwVUNzaUloZ3RvMjlFVHlzUUNOYm9hcjh4UmM3ZjNGVGNLQVExdGxnbVU3Mng3UF_SAbwBQVVfeXFMUFRrUEQybWxKMlE3cE5QdnkzLTA3cktjQW9YQjh3cERGT3hSMHdSZWdHYlpiZGNUcENuWUY3clVwVGhNVGUzNXF2V1RocTZ2cXNBb2hVNFVPNTBsU1ZjcjZXLVFvRUstWVdZazE2RGw1eEdTb1Fyc1l6azhzZEV4QkJYUVMyUUhsSTBtTlFCMlFCVWMzVXhSWlVWajExUkc0V015bzRWTlg5NHJXVzdmZGJtWWNQczdjOGZNb3c?oc=5
-
-- 'India cherishes special friendship': Jaishankar meets Nepal PM Balen Shah - The Times of India
-  'India cherishes special friendship': Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUVOUGpYN1VEUzc0clBqVW5vUkFKdVdsLVI2N0hVbVhKZlc5MExyS0x2TVJoV0ZvbW1RLWwtNHhfaXYzM2xJcWdLdlk2aTNCd1JLTXVWSG1JSHA1SmFkTHIyRGJZQTNRS3dFSDhHSVdKQjNhUndqZkI2X041bEJDaS1aSDB0SkctVWNNc1JMSzVJV002bkhoNWQ5R3dYZ1RpLXVndkxtMFZQV2U0b28wQXU2SmZFMzlKSy02WV9kNmdjVXRybzVoOG54ZzVpSllFT3RrVdIB2gFBVV95cUxQOG9lZF9YTnI4Z2lXYjBtMldabFBIUDJMR2YwekREUGlaTEtncnpMU25vblpPdVBNeEF1cDRsQi1RRm1uekxBQ3hhSFlUWlFNTGI4SEdIXzc5QXJMcWZLMm5FS0ZLSHNxOXlucWYxeF9ZSVR4Ni04azdveE53bGFHZlNncU85M3ZsME9hbFhZUHI2VlpNQWhibHFJRFh3b0t5elF3dmtwN0ZNVEJ0TTU5WHJqS19UWDhsYWxkd1RJVG9QUVVFai1aTmlEOF9qbllXc0d4ckRRUDZXQQ?oc=5
+- India, China hold 10-day talks to ease LAC tensions in Arunachal Pradesh - The Hindu
+  India, China hold 10-day talks to ease L
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOcjYxc2l0MEpXN1FicE8wTDktVFUyX0NGbFpNMHhrSWktZURqZjgxZDhzZFFjeEJabWtGTzZjU3JabXFTUXFZQmFvekRSQ1VhcHRyWlY4c0JrajBCQUhjSXZ6NlpvcGZYTzM5Z01lREg5dG1tcFJSWV9LTW0tQjg1WFhyWW9PMGo5OG1UaE1fZklkZG16ZXJMa3psYWJpR1lWdTN4eWlCeG83SkdJQVhMSHVrWG9mNEVRWThNYU9qenZaY001dEhkTUFaQdIB0gFBVV95cUxOQkJ6U2FKQ1NxMVRXdm0zT1d6WGg2OWZVV3ViOV95dEk1VjduZFJrTzJyT2sxN09VQlZYenlyQnY1bWNIZVZQc2FCeGtQR2pPSDFoRHI0aXd2VnNla1g3MXllREUyZWk2b0dNaTM5emJMOGNrSFA4MV8zaWNIZnY0XzRTYnAzeFhMYU15ZFJXTV9LYlRfN3M0aExMNmJFdk1SUzNMaDM4V21RajJGM2NVTEdoYjJvR19RRXJpc3pEenJvUnpZZmN2VzhVVFhNdEFOZEE?oc=5
 
 - Delhi Cop Gets Rs 9-Lakh Aura Instead Of Rs 13-Lakh Brezza. He Cancels Wedding - NDTV
   &nbsp;&ngt;<font color
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXRQSUlxc21tcjdqSTN5SG9za1pzTnI2X2ktSm9XN1lQYm9UQUJDekhtUTR4WFVxcWc1aDBZSzJ1cy1sclotcEp3clg0ZERkUUdvcF82eHRPLXYxekJBMkxNQUdkQ2FJT2plNlg0QU94dkY1VWpFVkc5LVdRSUVRNDhOczN6Y0xscUNZMFdmWU56QWxhMklxOGRwb0tfRTdqLXRDRHlrcUNvZ2owOGRDQXc0em1reEpBS0HSAcIBQVVfeXFMT2FzTDJIREZxWW1DeVYyNWRMTzFaX3BKMDhSc29VbTVYektMdzNzLTdQN1d2cjlRRFZ5Vm9aTE9abzJjOEZKWTJUMmRwVzN3R20zQ3JzMGVyaXNTVndvdVdGaURUNjVzcmRkd2lwanhpY29OcmhpbUNIaDg1czNBNkZaaDZMOEVqcDBSZFpaUnRkNjdmSmhIUlM3MFAteV9LcnZkNFc4a29BeUEwVW9Hb1AtRFkzWTVoak1ubU4yeXI2dWc?oc=5
 
+- Indian opposition party’s youth wing warns of more Meta protests after police clashes - The Guardian
+  Indian opposition party’s youth wing warns of more protests
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUJRdUNRRXhnbERmUzJMcjMwOWZqOUl1RmZYLXRMTTZmMzJhUW50clpub2M1OVpDcW0tOVEyUGljcHcxanVYUk9yYnRNQWpJYXozVlFTaFozODdSSEp5VzVySUFLamQxZlZQR1RiSVdSdEc2dVRDNExEQ09zbG82VGg1ckJBNTkzckJZX0ZVeTFtdXhpd0E?oc=5
+
 - Conway keeps New Zealand afloat after Pant's ton powers India to record 720 - Cricbuzz
   Conway keeps New Zealand afloat after Pant's ton powers
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPcnpwd3l2Y2Exc1FDLS1IZV9ZRUxzM0YzX1FFTC1nMEQyMHhtTEtmUUZmOXRJMERVanFZTmZjWHdzRV9jbF9HZm85eUlBTnktblE1eWo2ZnFFc2VfU2xVWmVRLUxkZk5BZ0tPQlZ0SGE5ak1MRkZ5aHVoaVVxRmc2WGxZcUxaMVJ5NFpLTVdsUWI3QjRGSWRlMndlcEpReVRoZnNtTGhmM3BmZEFMTDBKMFJ6SThBZzhqWFB6MjJSa1FMYkVJT3liRTFGNA?oc=5
+
+- India’s Inference Test, Scaler Founder’s New AI Bet & More
+  Inside The Business Of Inference Platforms Sarvam is entering its commercial era with Token Factory. By serving global AI models.
+  🔗 https://inc42.com/buzz/indias-inference-test-scaler-founders-new-ai-bet-more/
+
+- Fintech Stocks Put MDR Dreams On Hold
+  India&#8217;s fintech investors may have counted their chickens too early.
+  🔗 https://inc42.com/features/fintech-stocks-put-mdr-dreams-on-hold/
 
 - VinFast To Build Dedicated E-Scooter Assembly Line At TN Plant
   VinFast is building a dedicated electric two-wheeler production line at its Thoothukudi manufacturing facility in Tamil.
@@ -172,49 +180,41 @@
   Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
   🔗 https://inc42.com/features/indian-startup-ipo-tracker-2026/
 
-- Budget 2027: Industry Body BWA Seeks Tax Relief For Crypto Startups
-  Industry body Bharat Web3 Association (BWA) has submitted its recommendations to the finance ministry ahead of the upcoming Union Budget.
-  🔗 https://inc42.com/buzz/budget-2027-industry-body-bwa-seeks-tax-relief-for-crypto-startups/
+- 'Edicts coming from above': MCC reacts to India's handshake boycott against Pakistan - The Times of India
+  'Edicts coming from above': MCC reacts to India's
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNHFTS2RiM3VhWGFqcU0xSmJKT0NmeTR3b191cFdXZDZyMGkwN2JKTVZEYzJFeS02eFBnOVFvOWlMWWx0Ti1Ud243RXBBTHBULUFCQ09WRExKbEYyNmxWZWlDOUQ2dzUtYmJGYVFhLTl3WnJnQmlaRVZyTno4WXVBMG5pZldCQUF5cy0wbFVnMk9xcW5xV1QzMHVYOHNlVFQ5bUNHSkEzWEdhZHh4SDRWc3FyWkU2OW1vOTBHUVN6Y3haX0FQcW43eldCUkg5QjFBY1NBOGFWQ0N5b0dMb0xISmRia1YwdDdTcW9YdTMwUjVpV3pS0gH6AUFVX3lxTFBoU0N3b1N6bl9CbzJ5ellVRFRGMTFsbC0tUUJPWmRYdndXMVlRNjdXWHJNZ2dyczFrTTIwbzBXaXJzUHZ1aTNYeEtTSjF4Vng4bXcwalRyNEEyekZnM3FHcjl3QVFibW1yTERVT0Vnd09yajJubDhaTjJoak1aWWxmZ3dWMFdtLVkyakNHZ2lWaDNGaHIydDdRWVRvX2FTanhUSFp4andyd0ZfcFNsd0pCOVVJSnR0aEpxTTRrZm10dHpfbHpHZlJST0lKU3c1am9FVWZkVThLYWpFZTNZVXUycGNjTmtMMlVfLXZTMURlNk5VbXVxN21pcnc?oc=5
 
-- Atomberg & Voltas Execute JV Agreement To Build AC Compressors
-  IPO-bound consumer appliances startup Atomberg has executed a joint venture (JV) agreement with Tata-owned Voltas.
-  🔗 https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/
-
-- Nepal PM Balendra Shah arrives in New Delhi on two-day visit to India - News On AIR
-  Nepal PM Balendra Shah arrives in New Delhi on two
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHAxQ0pGeTVRejVMNGNibS1aMndJdUZ1Q2UxeFlGd1c5VmFHZS1FZkhLVnZOMnY5M2VvSnBiQmRYSWxnbnhUZFJmZ3Z6QWJoTTlIZXRPb3JWN2IyRWw0ejdzZGFwN0ZQd1oxVW02Rk5zZ3NuSXdYVUFoOXNheklNQnQ5UGRpMGpOSldhNjBvRWxnZ0dKa0E?oc=5
-
-- 'India Cherishes Special Friendship': S Jaishankar Meets Nepal PM Balen Shah - NDTV
-  'India Cherishes Special Friendship': S Ja
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFdIalN6bmxBX3JLUEtzNGJCNlBwRlVTQmh1Y0t2QXRJU3VNZ3ZfbnBxX2dyc0RTM1BaNFgwZkFHRmo5cThDd29INnRhWUlCekdWOWdyWl9vN0pienVZcXlWVDRrSzNGUVFlRWh4bDlDNE9HTnZEZHIwZWhRNGFmZjNzSzAwVUNzaUloZ3RvMjlFVHlzUUNOYm9hcjh4UmM3ZjNGVGNLQVExdGxnbVU3Mng3UF_SAbwBQVVfeXFMUFRrUEQybWxKMlE3cE5QdnkzLTA3cktjQW9YQjh3cERGT3hSMHdSZWdHYlpiZGNUcENuWUY3clVwVGhNVGUzNXF2V1RocTZ2cXNBb2hVNFVPNTBsU1ZjcjZXLVFvRUstWVdZazE2RGw1eEdTb1Fyc1l6azhzZEV4QkJYUVMyUUhsSTBtTlFCMlFCVWMzVXhSWlVWajExUkc0V015bzRWTlg5NHJXVzdmZGJtWWNQczdjOGZNb3c?oc=5
-
-- 'India cherishes special friendship': Jaishankar meets Nepal PM Balen Shah - The Times of India
-  'India cherishes special friendship': Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUVOUGpYN1VEUzc0clBqVW5vUkFKdVdsLVI2N0hVbVhKZlc5MExyS0x2TVJoV0ZvbW1RLWwtNHhfaXYzM2xJcWdLdlk2aTNCd1JLTXVWSG1JSHA1SmFkTHIyRGJZQTNRS3dFSDhHSVdKQjNhUndqZkI2X041bEJDaS1aSDB0SkctVWNNc1JMSzVJV002bkhoNWQ5R3dYZ1RpLXVndkxtMFZQV2U0b28wQXU2SmZFMzlKSy02WV9kNmdjVXRybzVoOG54ZzVpSllFT3RrVdIB2gFBVV95cUxQOG9lZF9YTnI4Z2lXYjBtMldabFBIUDJMR2YwekREUGlaTEtncnpMU25vblpPdVBNeEF1cDRsQi1RRm1uekxBQ3hhSFlUWlFNTGI4SEdIXzc5QXJMcWZLMm5FS0ZLSHNxOXlucWYxeF9ZSVR4Ni04azdveE53bGFHZlNncU85M3ZsME9hbFhZUHI2VlpNQWhibHFJRFh3b0t5elF3dmtwN0ZNVEJ0TTU5WHJqS19UWDhsYWxkd1RJVG9QUVVFai1aTmlEOF9qbllXc0d4ckRRUDZXQQ?oc=5
+- India, China hold 10-day talks to ease LAC tensions in Arunachal Pradesh - The Hindu
+  India, China hold 10-day talks to ease L
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOcjYxc2l0MEpXN1FicE8wTDktVFUyX0NGbFpNMHhrSWktZURqZjgxZDhzZFFjeEJabWtGTzZjU3JabXFTUXFZQmFvekRSQ1VhcHRyWlY4c0JrajBCQUhjSXZ6NlpvcGZYTzM5Z01lREg5dG1tcFJSWV9LTW0tQjg1WFhyWW9PMGo5OG1UaE1fZklkZG16ZXJMa3psYWJpR1lWdTN4eWlCeG83SkdJQVhMSHVrWG9mNEVRWThNYU9qenZaY001dEhkTUFaQdIB0gFBVV95cUxOQkJ6U2FKQ1NxMVRXdm0zT1d6WGg2OWZVV3ViOV95dEk1VjduZFJrTzJyT2sxN09VQlZYenlyQnY1bWNIZVZQc2FCeGtQR2pPSDFoRHI0aXd2VnNla1g3MXllREUyZWk2b0dNaTM5emJMOGNrSFA4MV8zaWNIZnY0XzRTYnAzeFhMYU15ZFJXTV9LYlRfN3M0aExMNmJFdk1SUzNMaDM4V21RajJGM2NVTEdoYjJvR19RRXJpc3pEenJvUnpZZmN2VzhVVFhNdEFOZEE?oc=5
 
 - Delhi Cop Gets Rs 9-Lakh Aura Instead Of Rs 13-Lakh Brezza. He Cancels Wedding - NDTV
   &nbsp;&ngt;<font color
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXRQSUlxc21tcjdqSTN5SG9za1pzTnI2X2ktSm9XN1lQYm9UQUJDekhtUTR4WFVxcWc1aDBZSzJ1cy1sclotcEp3clg0ZERkUUdvcF82eHRPLXYxekJBMkxNQUdkQ2FJT2plNlg0QU94dkY1VWpFVkc5LVdRSUVRNDhOczN6Y0xscUNZMFdmWU56QWxhMklxOGRwb0tfRTdqLXRDRHlrcUNvZ2owOGRDQXc0em1reEpBS0HSAcIBQVVfeXFMT2FzTDJIREZxWW1DeVYyNWRMTzFaX3BKMDhSc29VbTVYektMdzNzLTdQN1d2cjlRRFZ5Vm9aTE9abzJjOEZKWTJUMmRwVzN3R20zQ3JzMGVyaXNTVndvdVdGaURUNjVzcmRkd2lwanhpY29OcmhpbUNIaDg1czNBNkZaaDZMOEVqcDBSZFpaUnRkNjdmSmhIUlM3MFAteV9LcnZkNFc4a29BeUEwVW9Hb1AtRFkzWTVoak1ubU4yeXI2dWc?oc=5
+
+- Indian opposition party’s youth wing warns of more Meta protests after police clashes - The Guardian
+  Indian opposition party’s youth wing warns of more protests
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUJRdUNRRXhnbERmUzJMcjMwOWZqOUl1RmZYLXRMTTZmMzJhUW50clpub2M1OVpDcW0tOVEyUGljcHcxanVYUk9yYnRNQWpJYXozVlFTaFozODdSSEp5VzVySUFLamQxZlZQR1RiSVdSdEc2dVRDNExEQ09zbG82VGg1ckJBNTkzckJZX0ZVeTFtdXhpd0E?oc=5
 
 - Conway keeps New Zealand afloat after Pant's ton powers India to record 720 - Cricbuzz
   Conway keeps New Zealand afloat after Pant's ton powers
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPcnpwd3l2Y2Exc1FDLS1IZV9ZRUxzM0YzX1FFTC1nMEQyMHhtTEtmUUZmOXRJMERVanFZTmZjWHdzRV9jbF9HZm85eUlBTnktblE1eWo2ZnFFc2VfU2xVWmVRLUxkZk5BZ0tPQlZ0SGE5ak1MRkZ5aHVoaVVxRmc2WGxZcUxaMVJ5NFpLTVdsUWI3QjRGSWRlMndlcEpReVRoZnNtTGhmM3BmZEFMTDBKMFJ6SThBZzhqWFB6MjJSa1FMYkVJT3liRTFGNA?oc=5
 
-- Nepal PM Balendra Shah arrives in New Delhi on two-day visit to India - News On AIR
-  Nepal PM Balendra Shah arrives in New Delhi on two
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHAxQ0pGeTVRejVMNGNibS1aMndJdUZ1Q2UxeFlGd1c5VmFHZS1FZkhLVnZOMnY5M2VvSnBiQmRYSWxnbnhUZFJmZ3Z6QWJoTTlIZXRPb3JWN2IyRWw0ejdzZGFwN0ZQd1oxVW02Rk5zZ3NuSXdYVUFoOXNheklNQnQ5UGRpMGpOSldhNjBvRWxnZ0dKa0E?oc=5
+- 'Edicts coming from above': MCC reacts to India's handshake boycott against Pakistan - The Times of India
+  'Edicts coming from above': MCC reacts to India's
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNHFTS2RiM3VhWGFqcU0xSmJKT0NmeTR3b191cFdXZDZyMGkwN2JKTVZEYzJFeS02eFBnOVFvOWlMWWx0Ti1Ud243RXBBTHBULUFCQ09WRExKbEYyNmxWZWlDOUQ2dzUtYmJGYVFhLTl3WnJnQmlaRVZyTno4WXVBMG5pZldCQUF5cy0wbFVnMk9xcW5xV1QzMHVYOHNlVFQ5bUNHSkEzWEdhZHh4SDRWc3FyWkU2OW1vOTBHUVN6Y3haX0FQcW43eldCUkg5QjFBY1NBOGFWQ0N5b0dMb0xISmRia1YwdDdTcW9YdTMwUjVpV3pS0gH6AUFVX3lxTFBoU0N3b1N6bl9CbzJ5ellVRFRGMTFsbC0tUUJPWmRYdndXMVlRNjdXWHJNZ2dyczFrTTIwbzBXaXJzUHZ1aTNYeEtTSjF4Vng4bXcwalRyNEEyekZnM3FHcjl3QVFibW1yTERVT0Vnd09yajJubDhaTjJoak1aWWxmZ3dWMFdtLVkyakNHZ2lWaDNGaHIydDdRWVRvX2FTanhUSFp4andyd0ZfcFNsd0pCOVVJSnR0aEpxTTRrZm10dHpfbHpHZlJST0lKU3c1am9FVWZkVThLYWpFZTNZVXUycGNjTmtMMlVfLXZTMURlNk5VbXVxN21pcnc?oc=5
 
-- 'India Cherishes Special Friendship': S Jaishankar Meets Nepal PM Balen Shah - NDTV
-  'India Cherishes Special Friendship': S Ja
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFdIalN6bmxBX3JLUEtzNGJCNlBwRlVTQmh1Y0t2QXRJU3VNZ3ZfbnBxX2dyc0RTM1BaNFgwZkFHRmo5cThDd29INnRhWUlCekdWOWdyWl9vN0pienVZcXlWVDRrSzNGUVFlRWh4bDlDNE9HTnZEZHIwZWhRNGFmZjNzSzAwVUNzaUloZ3RvMjlFVHlzUUNOYm9hcjh4UmM3ZjNGVGNLQVExdGxnbVU3Mng3UF_SAbwBQVVfeXFMUFRrUEQybWxKMlE3cE5QdnkzLTA3cktjQW9YQjh3cERGT3hSMHdSZWdHYlpiZGNUcENuWUY3clVwVGhNVGUzNXF2V1RocTZ2cXNBb2hVNFVPNTBsU1ZjcjZXLVFvRUstWVdZazE2RGw1eEdTb1Fyc1l6azhzZEV4QkJYUVMyUUhsSTBtTlFCMlFCVWMzVXhSWlVWajExUkc0V015bzRWTlg5NHJXVzdmZGJtWWNQczdjOGZNb3c?oc=5
-
-- 'India cherishes special friendship': Jaishankar meets Nepal PM Balen Shah - The Times of India
-  'India cherishes special friendship': Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUVOUGpYN1VEUzc0clBqVW5vUkFKdVdsLVI2N0hVbVhKZlc5MExyS0x2TVJoV0ZvbW1RLWwtNHhfaXYzM2xJcWdLdlk2aTNCd1JLTXVWSG1JSHA1SmFkTHIyRGJZQTNRS3dFSDhHSVdKQjNhUndqZkI2X041bEJDaS1aSDB0SkctVWNNc1JMSzVJV002bkhoNWQ5R3dYZ1RpLXVndkxtMFZQV2U0b28wQXU2SmZFMzlKSy02WV9kNmdjVXRybzVoOG54ZzVpSllFT3RrVdIB2gFBVV95cUxQOG9lZF9YTnI4Z2lXYjBtMldabFBIUDJMR2YwekREUGlaTEtncnpMU25vblpPdVBNeEF1cDRsQi1RRm1uekxBQ3hhSFlUWlFNTGI4SEdIXzc5QXJMcWZLMm5FS0ZLSHNxOXlucWYxeF9ZSVR4Ni04azdveE53bGFHZlNncU85M3ZsME9hbFhZUHI2VlpNQWhibHFJRFh3b0t5elF3dmtwN0ZNVEJ0TTU5WHJqS19UWDhsYWxkd1RJVG9QUVVFai1aTmlEOF9qbllXc0d4ckRRUDZXQQ?oc=5
+- India, China hold 10-day talks to ease LAC tensions in Arunachal Pradesh - The Hindu
+  India, China hold 10-day talks to ease L
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOcjYxc2l0MEpXN1FicE8wTDktVFUyX0NGbFpNMHhrSWktZURqZjgxZDhzZFFjeEJabWtGTzZjU3JabXFTUXFZQmFvekRSQ1VhcHRyWlY4c0JrajBCQUhjSXZ6NlpvcGZYTzM5Z01lREg5dG1tcFJSWV9LTW0tQjg1WFhyWW9PMGo5OG1UaE1fZklkZG16ZXJMa3psYWJpR1lWdTN4eWlCeG83SkdJQVhMSHVrWG9mNEVRWThNYU9qenZaY001dEhkTUFaQdIB0gFBVV95cUxOQkJ6U2FKQ1NxMVRXdm0zT1d6WGg2OWZVV3ViOV95dEk1VjduZFJrTzJyT2sxN09VQlZYenlyQnY1bWNIZVZQc2FCeGtQR2pPSDFoRHI0aXd2VnNla1g3MXllREUyZWk2b0dNaTM5emJMOGNrSFA4MV8zaWNIZnY0XzRTYnAzeFhMYU15ZFJXTV9LYlRfN3M0aExMNmJFdk1SUzNMaDM4V21RajJGM2NVTEdoYjJvR19RRXJpc3pEenJvUnpZZmN2VzhVVFhNdEFOZEE?oc=5
 
 - Delhi Cop Gets Rs 9-Lakh Aura Instead Of Rs 13-Lakh Brezza. He Cancels Wedding - NDTV
   &nbsp;&ngt;<font color
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXRQSUlxc21tcjdqSTN5SG9za1pzTnI2X2ktSm9XN1lQYm9UQUJDekhtUTR4WFVxcWc1aDBZSzJ1cy1sclotcEp3clg0ZERkUUdvcF82eHRPLXYxekJBMkxNQUdkQ2FJT2plNlg0QU94dkY1VWpFVkc5LVdRSUVRNDhOczN6Y0xscUNZMFdmWU56QWxhMklxOGRwb0tfRTdqLXRDRHlrcUNvZ2owOGRDQXc0em1reEpBS0HSAcIBQVVfeXFMT2FzTDJIREZxWW1DeVYyNWRMTzFaX3BKMDhSc29VbTVYektMdzNzLTdQN1d2cjlRRFZ5Vm9aTE9abzJjOEZKWTJUMmRwVzN3R20zQ3JzMGVyaXNTVndvdVdGaURUNjVzcmRkd2lwanhpY29OcmhpbUNIaDg1czNBNkZaaDZMOEVqcDBSZFpaUnRkNjdmSmhIUlM3MFAteV9LcnZkNFc4a29BeUEwVW9Hb1AtRFkzWTVoak1ubU4yeXI2dWc?oc=5
+
+- Indian opposition party’s youth wing warns of more Meta protests after police clashes - The Guardian
+  Indian opposition party’s youth wing warns of more protests
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUJRdUNRRXhnbERmUzJMcjMwOWZqOUl1RmZYLXRMTTZmMzJhUW50clpub2M1OVpDcW0tOVEyUGljcHcxanVYUk9yYnRNQWpJYXozVlFTaFozODdSSEp5VzVySUFLamQxZlZQR1RiSVdSdEc2dVRDNExEQ09zbG82VGg1ckJBNTkzckJZX0ZVeTFtdXhpd0E?oc=5
 
 - Conway keeps New Zealand afloat after Pant's ton powers India to record 720 - Cricbuzz
   Conway keeps New Zealand afloat after Pant's ton powers
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-22 23:10:20 UTC_
+_Last updated: 2026-11-23 05:19:19 UTC_
