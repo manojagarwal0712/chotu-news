@@ -1,252 +1,264 @@
 # 📰 Daily News Summaries
 
-- Nepal PM India visit highlights: PM Modi announces offshore campus of IIT in Nepal - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdIND
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdINDJiWGwwQ2tTNVM3WFI0aU9xRUpZX3N1bDEyc1EzZURESHBUck84ajROajJmcC03R1JGbnpRd3haU3NYTWl6LVRISmtDT2NtQVpzSXBUaVBmWTFRUTdFSnVlRkFxdkZXXzZZQnlJYk9hdkVsMVB6ZHF4QWhhbUtIZ2VuQno2RlpkTlQ5dGRsdWdfcUVNRXQ4eDdSMFQ5RWVjdVHSAYgCQVVfeXFMT0c5UjlUaVBqN3IwcUhBQnhjTTk0OXJxakNEc3pDVEdkQ0RBVVlYQm9RMkhUQmZCYVlHVUMwSkRiZldxMC0zejJLNXA0aUh1bHdWdFlOSmRaZ2ZxNE9RanBrbFRZVGZkNTVkNWFwcEJfU1RPcllLWlB2d0s5T2pMcmdCbFpKSDRKd0hjTGVDZGxUdEFwTk9aeExhV3I1YU0zalZiSjd6VFJtTVlGcGFfcG9QMkhCNnlCRnpJYWVNQ2ZSLXd1cUV5eUZCeGlRRUExYlhmaDlncDBoRUN3WHFPR0x2SndYRXBZUm5hZzllZGt4Zzg5eUtKTmk5QzRvYmFpNTRZVUZLTjRa?oc=5
+- India 3rd Biggest Asian Power, PM Modi 2nd Most Effective Leader: Report - NDTV
+  India 3rd Biggest Asian Power, PM Modi
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3l0RFo2RjRfaDgwX3QtVnR0el9BR1p1MjFrUmljd2EzY0RUdjZqWS16S3BBaU1uWGlPcWNTRy1sQU84ejUwS0dqM3ZqU0FvM0gzNzNmWE9uMHRZb2xIUzdkYzFUTzVWV0NPanJESGNrUlFUMVctU2g5dlRCMUg4NEFjYlRiNGJzQVJzeDNPMUY5dTR2N2ZrRUlHZVpTVnJOYzJPZHBWNGFXZzJVWG43QdIBuAFBVV95cUxPZ2FnUVp3cFBBanFKdWNiSHZJOExfTnR1LXh3eG5aRzF0ZGZMVTVjQzc4cDNjUmRKWjZnS3hRMkxqMEhsSk91VlV6VTNjTXE4bUZETW85bnNya3RpanFWVndEeHhBT3Z2SXF0a294WE9OUDA3dVljaWtzX29ZZHJrbG9rWndHeUlKUkhaLUpNUkRpZW1wdHllLXdta0dlSGVHczFkeVo4STFYd1ZhN0VCLU8tT0l5WlJ0?oc=5
 
-- View From India Newsletter: India and Israel: Cut from different cloths - The Hindu
-  The Hindu: India and Israel: Cut from different
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQdW04dndoNjQ3OWpTLTd6NEdzTjh4Y1Etc3d4RERXS05Cek5aQlBkRm13TE45dWREQm0zdkJKUjRlNGVMN1NGYUVVVWsxc1ZMNV9pY3VYZ2czclZNNktfdEpqMnNPNEQzQW5FSGlsUHNNdDlRTDFrRVlORy1SMFNyWnM1czlFenpnOExkdVg1dVpXTUFRcXVvRHJhb3ZoTzhmS0Q2SzdQdWZnRTFZSXA5RW9CeUVSNHhmSnVqZW81UEZZNG9SRHdGckpKcU1KUdIB1AFBVV95cUxQQmpJWDZ2QkJXNVNIUVRVaWhoWkk3YlRYOWtpVmphZjVTdFEyZ2NEX3Q5YzktT01JRVV3NmhqMnU5Zi1oWGdydE1kb3lYWk5ZdkV2MFRjNE9sWE1TNkk1QWRucFpsanlIZXBRTzdJWExVZ3NHdVhBUG5ob1JWc200eklldGtKYUdTanBCU0JNMVpaN1ZueXprbFo4aFpoTjZUQy1kcXNUOWM0a2dFb21RSktNcExVcUVma3hsR3FEZ09VeFNTdk8wQ0QzRG5aR3FIczRJNg?oc=5
+- India thrash China 6-2 in Women’s Asian Champions Trophy - News On AIR
+  India thrash China 6-2 in Women
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGRZbVpKN0dpQ0ZOb0JUMFpvQnZCZEszR05TVXBPNjlyUHRkdzZZanNQSDBiTmo1dHd4RFMycDZzYk5KOTUwUUljYXBmQkZJZlVGQlJ5OXpHUEN1UWo2eENnSjZ5ZTJhbXBIc1BoRHNnSWxyU3M2LVF0cGg1UDZ5RXVxZVlzU3pB?oc=5
 
-- From English to understanding: How AI is changing digital learning for India's students - ET Education
-  " target="_blank">From English to understanding: How
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ2RISmp1Y3B3VWNubVJSdVppcGFJMENpMWM4ejVDYndlUzl6bVFwTUE3TDh3QVpTLUhvelYtLXVSSlZwdGw4aGduUWZUM01yQWxoa1JfSFdZSnNrblNXOUxIRWMzckxuNktENklhNzRyVVpPTWVRZEdXTnhWM0dYZW1EeXhDMmVpcE8xcG4yOW1JUG5IbmExT25VWGFBX2tfbUNjTHBiQ3NDV1A3aFViSkJiQTM4ajhralA0MXU1N21yb2RjMGtzSGhLSlhZVS1FdHYxVGpzNHQ3cVRhTG1Fa2NSRGdKZHdPejVvSNIB8gFBVV95cUxOZDlXcTF3ajNNNGRxNmJWX2ZaYnBkOVpIeGlDMnpaRzF1Nkp3ZUVHSjhLVTZsalBHYUxuWXh5Z0cyTEFJaTNTbHRZbXV4Vi1NZEp2VWtFeVJSamtLa21XQm5mUWVHNUY5T2ZDWkdMZ1UtMFVNNFNFU09GQi04ZmhpLVZQdTFSVTNPUW9FUTliYjU5elI5MmUzQUJZUTJTLTM4eE1PaUkwQnppem1yVGllTVFON1FialdMeUQ2TFNtMk9INWkydjR1YWp1UTRGUUdxU0w0T0ltY2hNc2d1bFdUWi1TSnZkT3JiemhJZi1zSGY1Zw?oc=5
+- India’s space economy to reach 40 to 45 billion dollars in under decade as private sector drives growth, says Union Minister Jitendra Singh | Akashvani News - News On AIR
+  India’s space economy to reach 40 to 45 billion dollars in under decade as private sector drives growth, says Union Minister J
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV2JGUGJaOFFCdjRPbGI2aWVhTDZYdmNpWGducGNvWUN5YVVrMjJYSncweWVpMGhRNHdPY2RGVmVnUi1hWV9BbWlTQUprbng2bldvdVdaa1Flcm9zeDdnV1BIMDRFMzhDeXFfbTlDQ0dJVXpheEY1Uk4xdUs4TkxnTDQyOXRDcTNlMF9KQ0Fpc2xmUkVOcU8wX2gwWHhLQlJ6LXVQQ05VMWdKczNPYVFJY3djcHcyMWJtNzV1NU1uREE0UlNkQUlEV1drSTZSWDFHQUVsUm5MS1JtUElUS1BHTFJ5WVBkVFV5NDNCRkp2cTBUMjdlVlE?oc=5
 
-- India’s First Dedicated Human Metabolic Chamber Inaugurated at CMC Vellore - DD News
-  India's First Dedicated Human Metabolic Chamber
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmQyWVhFWWZoSzdMZGMtOGZKQm9aekJ5VVRnbjRJUlhYOG5GY09VcU5lbUxYZk5Ubnc1TlVxanVKZ096WHRZbF9hLV9lZEJBQnkxSndOTEpDVlM4eGVWWjd1NGd5b0MzNm9zWHhoTHdBWXlVQjl3Z1VjdjFaWV94R2l4ZFFsMnFYMk43aWZSekJzOWR0SjYtZ1RoRGFrZmhj?oc=5
+- President Murmu says India’s steady progress reflects indicator of Viksit Bharat - News On AIR
+  President Murmu says India’s steady progress reflects
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlBjQkFDRFJqN1pHZkd2UlhtR2c4alMyaGthaUNHbVNtNHRhaE9MYkxzMW55MTFnVTdBQ0xESGhJcUEwS1Zla1ZydkE5LV9oRXkzcEp2NUNwWDE4MWlZU0pNbm8tVXh2QVM0dWRGVTY3cmoyc05Bak9DQkd3MVZGNTBrTExfUldvWUtkeTV4SHJrbGUtT3lsZTF5WWRwOFIzblpQd3ZsbDU?oc=5
 
-- India protest updates: ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera
-  India protest updates: ‘Cockroach
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFh3OXM2ZTFtXzA3b1U5OTc2cmZXb1hsaTVtcndObVliQUZHaWxHZ3NNeWhzb2VjVVF5TlJfSmhuYjd6UW1UcUxyYUVneC1WVDBFaUZJRHhMaGhpSWdBelRmR01JUngtbk96Mi00WXZIbW5EQjN5OG5jWksyRkcxZ25JQ0txUFh5cGFWQ1A2WE4yS3JWX3lVbnlWSWJwT0l0SFlJY283ejJ6Vlk2WEg5Q1B0TllMVklzZ2Q3MGo1M2LSAcYBQVVfeXFMTjB1UGViQjJCQm14S19HaEpfR1h1NV80OVhLUjhrVkVjWnBiMW50Q0xta2VYQXZ2bVotangzS3RsMWtBcXRGMEhhTUlqS01Sd1cwaHZkNlBvZG9sczE4emEteHhuNlZoNWVsNkFrR0l2YlZacGdYTVJESTNjOXRPTlVtdGdOeXFHZ25BQm5QTW4zampLQkRUQ3V5cU5XNk1STVBydmlDZUsydTJRcm9QUnp0STBHS0RBY0RlWG5FYy1yQ2ZKaDNR?oc=5
+- India news: Nation deepens authoritarian slide under Modi — report - DW.com
+  India news: Nation deepens authoritarian slide
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0t3TUtYQ1E1MWVfOVZZeUtidGFFQnl2UlZBSXhtRm5UeW14bU9fdjRrZDFNRUpBeFJ2Y0hhUFZPUVJYa2poX2FDdEpxa0RQQW9hOEpaeVBoYUxNQ0FFNWEzLTdKYWxkWF85cWNWX3BkNlNzaEc2aWZLRDloSVdhUGlnalpKU0xJY1ZybGptbl9ydFVDa1NPTUc1dw?oc=5
 
-- What does it mean when humans and technology become indistinguishable? - Aeon
-  What does it mean when humans and technology
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0lUQjVSanJia2o2bWpRWlIxMm54VGVkTTJRWnpSNlp3UnY1YVNMZjJjcklMUlBFclBqeWVCaHp3Zlg3dS1CdFo2Q1FSdHA4czQxYkRLc214dkZuajhSY211LVU2RW9rYkJkYnFmSUtoU2d5aTc2RGRwT2pvZEtCRl9EN3pjWVp2Um5sOXZQR2pRSmJDY1Zj?oc=5
+- IIT-Hyderabad director urges graduates to develop indigenous technologies - The Hindu
+  IIT-Hyderabad director
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTUxyOFBVY1NCaGpCRzFmTkgzaWdqNE1SVUxNaTBfRjNUSlRsQXozZUVBU0w4VHNKbW9CRDRxdEVqdWo5WmdVUk8wT2JQRVBQcVljVEg1Mm1IQTBLNThnOFRpMm54ZTRQTWpqYnZOeUdfYms4ZWQtZmtwTDNzQ1JiTXlibF9pQ1dMcG9vX3FIdjVnOV95cXQ1bnpBUkdPZWhQcmRYR1FZZGJIRDkxTS0tZmNXQ3NTNWQwQ3paT0phTnZZMEZobXJMQU5ZcG9wNERZMHNEWWs1WTl3QdIB4AFBVV95cUxPZUF2aTNiZzl6X3RmemIyX0VjOWtpdXlDRmc1ZmRsRzBvTWZOWDRkMEFKZUFETjBfaF9pZmxiVktieUV0TW9HZC1KRUlNMm1oZjM3Qm96MnRvMzY3eVZranJtMFpLeVZpZUd6UVpNM1JsZUpqbkJyZmhLeEZGLTVkbjBhOTIzb2l1VmlReXdwZ1MyaTFpODdyTFlXRHc1UnhrQ1hSOERoNVBSazVTUURTVUZLV0dWSjZGQzZmTC05aXVFNjl2b0pLRUdYSllDY1dEMHY1dHVrdHdLQmlNQldhSw?oc=5
 
-- MeitY's procurement reforms: Can domestic value addition drive technological self-reliance? - ET Government
-  MeitY's procurement reforms: Can domestic
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0hkeTl1T3J5OWptanQwSm94alo1cjdHdDdCcUZreWhyRWZSN0JVaUtneGxPNEFobDBoWGdmUmdMcF9ITFRCbkIxUVNDSGNhd2hJM1plNXdMeE1DMlhhcmpFeTJmVVRYOFNkZ0hoSnlzenFqOUxPc0ZZYjZ5OVJlTW9zaldzVHZDQnp1bWQ5WHFqTnhiT2Mta20xM3FPczlpNFBiZjEyNDFqNGdfRlZfOTVaVVY1Z2o5RDRadVpkM21yYWtoZVR4V01vcnlzck1Bdjl3STI3NF9SWDVJTWprczBmT2UwcjR1VTc4a2dyeGhCaDlnWVprdtIB_gFBVV95cUxPWno5aEVKbHE2aDdmZTE1eXh0R192MlpqUDkzd1hWRkhLNXJhYTRqaV9SRkVMbExzcGJNSlVjUkc0dUozWGtTaV9QVjJEVnNPM085eUdoUWN4cmxJZ0xXT3ViNk54Q2tsenVzaHVocE5KbHJQd0xENjZEWWxGZkN6WC02YXVvcXlqY2lLOHZRYW1nd0N1ODFKZjhMdTBsRE8yMXBzZ0JLdUgzRS1wbkIxcC1PTmNYaGF6WDM0dHh3SWNwcHhPcElMMGVNMnF5STJDdm5wUkVmSnF2VkFXcXRsNmdSVUQyZHFySF9RRVFYYW5JWVphQjg0YmNYMy1uZw?oc=5
+- Meta's Muse has launched in the UK. I found it helpful but awkward - BBC
+  Meta's Muse has launched in the UK. I found
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpdU54NklYaC1NWnVoUlpoMHpnX1hSRC00SHRTdzFtOGtxSGNYdE1KdWZOSzJHTU9EZmNWekEzNDA1aVZKMXllMHBMUkMxWlRJQTBGU0NSTktDcEE?oc=5
 
-- Technology can undermine justice if poorly designed: Delhi High Court Justice Tejas Karia - Bar and Bench
-  Technology can undermine justice if poorly designed: Delhi High Court Justice Te
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPSExwUVp3eXB2WUtsZk96MDR1UFlsMUFHc0dqM2NiME9vZFVEak03V09KYmNuX1M4bnRYWEFpdXpyTzZKVm0zZU0yU3puVzRqR3RWN3NONEhMT0J3TTM3alp1TVhLQTZ6X0x0aGdBY0EyR2VIOEhYbmI3QjY5MUJyVFpPT0xGOW9XQlk4VWMxZEQ0LXl5aHFDaE9mUE0wSEY5U2RKVG1BQkNNNWxnbFdkTy1Dd0VSWVZHTkNmUHBR0gHLAUFVX3lxTFAwaDN4SWhNak9yLU9YVDVOSUIzZ0V6cTFjRUFRdzl5TDAxOW4wZE5adWpqMFNWRGIxTlhqMlJhcUE5TnRoSEo1MHFmVzVRQU1VWmwxb2IyMmpSN1NadVJWRFc3NXdLVkRGeGdtd2JLU25QcHBrVzhjdU1lckZBZWVQZVVvdUlkVUs1M29RdEdGdnlab2dwaTdlNFM1V0JnTXVtRU1TNjhoTWNoTnl6RzhBYkRZQ0lkcFUzMkZtSjZFZUg2YmE4a041dVVB?oc=5
+- A legendary philosopher isn’t buying Anthropic’s consciousness argument - MIT Technology Review
+  A legendary philosopher isn't buying Anthropic
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVJjY0Z0eXltTjlvZFE1YkNJNGFPYUhjY3k3QUExczJNbkc0dGZzeHVndVZwQ1VzRmYyY2hjX0pqdWtfTTEyS0ZqVVYzajlMSVViZGppWFlqRThpbW5BNGdsemJOQk9kcVc5VmFEcnFsandWUy1hM2JkNWIwOTN2RzBRbWVwNWN5MTZCaEdsQVB4OEpUSDNiZDIzaHlQdnd0Yzg5blhhUHFHcnBaQmViaEhjQ2JxdnkwWnNSdVNOONIBxAFBVV95cUxNa1ZNcWxfTVFmYnpIWGh0Q21UaE9KbnBydERsMDZINEJuTHktSldwdXFmaXhJXzNoUnRQWkxsNHk4WHlacWdyMU9NMHM0M2tOQ1VZbDJ3NGlrRTI2ekFrajgyclVFeUlzZ3NqREV3clM4R2UycDlleW1uMmtMSmdaUVlOdjl2S1VvSGM0ZmEzaGRNZjlXTzVCN1RqblhwbndacGJMdVU1NFZLUzM3M01oM2RZY0pzZXZFOHBFME5FQ25tSlNx?oc=5
 
-- Speed, Scale and Disregard: How new technology and changing tactics are driving civilian harm - ReliefWeb
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2g4RVJKNmdSOFJSTFh2enlOWFUyZjNzR2RHYmtEbTFjU00yNUtWM09rb2Y0X0l6ZUFSMjA4X1Y3U25oenQ2dzZKWjk5LV9ZSjhMWGtMXzZ6OS1qeG9EdmdmVVBTN2tJbllQSXpxSUp0S2NZeHQ0RXNubXZtVnBKUkxGdWZ6dHUtVGVNTk9Dc2o5a2M3eW81WTVieW12QmY0SUVkYmkyS1JzNldia0FHMnB2U0xiR0ZPYXZiRmpOUkNTcVZW?oc=5
+- Security Council 10278th Meeting (AM & PM) Conflict Resolution in Rapid Technological Change - UN Meetings Coverage and Press Releases
+  Security Council 10278th Meeting (AM & PM) Conflict Resolution in Rapid Techn
+  🔗 https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FRW9EQVh5bUpoU0lzMnlON1lmcm1JcGJiRHVsNGtVOHdfaHBRMkZ5Z3AwVnpTdFBHaHRrNDdjNlhpdEZlWDEtbEVlcko?oc=5
 
-- Technology for ‘printing’ steel could help extend the life of ageing bridges and buildings - The Conversation
-  Technology for ‘printing’ steel could help extend the
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3ZyTmRpU01iYVFFNnNfdEp6ZWRJbmtUSHVTZUpaeF91bkNJOGZ0NG5pRUNOelYxc251aV9nV1BFcUJCUm9lVTFiSndNNFpDaExSLW1oRi1FZUdHVjVQMFdEb0Y3LVAzeWk3ZEhSMm5YZlBFYnpiUHBnd2l5OFRMOW9xNndwU0JTT09ITHNpMUs1b2hUU2Y3ekdXei1BTzVoNDluekxteEJKQ0RlSkNaLUhQeGh5WXBnTkdnMGNlQ1Q?oc=5
+- dxFeed Wins Best AI Trading Technology Award for dxScript at 2026 Sell-Side Technology Awards - PR Newswire
+  dxFeed Wins Best AI Trading Technology Award for dxScript at 20
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPazFVZUJrY0FtQlVscHpEWktYSmI4b3V4UVhyNWRrMjlIWXFTdzVLOWQ4eG50X1poWU5YS1hPTnh6eF9yUjhkRkF6VzNKNk04RUcwMmNJbHlYZ1lqclA2OFRLblBiNksxMlpTRkRSd1NPWF82UUdLSEt6dnFudTVac1JIYmNvZi1lWi1Pd3RQaVQ4MmRYQjRxR3hjQ1lpaXZSSkJMOW1Rd3plLVRKdF94T1VoanA1V0lGcUx3MzRFc0x6NjVrdVA1S3BGWTNuUXdmTTI0dUZoeXdlLTh1WGliem1Raw?oc=5
 
-- Nepal PM India visit highlights: PM Modi announces offshore campus of IIT in Nepal - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdIND
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdINDJiWGwwQ2tTNVM3WFI0aU9xRUpZX3N1bDEyc1EzZURESHBUck84ajROajJmcC03R1JGbnpRd3haU3NYTWl6LVRISmtDT2NtQVpzSXBUaVBmWTFRUTdFSnVlRkFxdkZXXzZZQnlJYk9hdkVsMVB6ZHF4QWhhbUtIZ2VuQno2RlpkTlQ5dGRsdWdfcUVNRXQ4eDdSMFQ5RWVjdVHSAYgCQVVfeXFMT0c5UjlUaVBqN3IwcUhBQnhjTTk0OXJxakNEc3pDVEdkQ0RBVVlYQm9RMkhUQmZCYVlHVUMwSkRiZldxMC0zejJLNXA0aUh1bHdWdFlOSmRaZ2ZxNE9RanBrbFRZVGZkNTVkNWFwcEJfU1RPcllLWlB2d0s5T2pMcmdCbFpKSDRKd0hjTGVDZGxUdEFwTk9aeExhV3I1YU0zalZiSjd6VFJtTVlGcGFfcG9QMkhCNnlCRnpJYWVNQ2ZSLXd1cUV5eUZCeGlRRUExYlhmaDlncDBoRUN3WHFPR0x2SndYRXBZUm5hZzllZGt4Zzg5eUtKTmk5QzRvYmFpNTRZVUZLTjRa?oc=5
+- Why Karnataka drivers' unions oppose Nitin Gadkari's push for private two-wheelers as Rapido, Uber, Ola bike taxis
+  Karnataka drivers' unions have opposed Nitin Gadkari's proposal to allow private two-wheelers as Rapido, Uber, and Ola bike taxis. They argue
+  🔗 https://www.livemint.com/companies/news/why-karnataka-drivers-unions-oppose-nitin-gadkaris-push-for-private-two-wheelers-as-rapido-uber-ola-bike-taxis-11795536723259.html
 
-- View From India Newsletter: India and Israel: Cut from different cloths - The Hindu
-  The Hindu: India and Israel: Cut from different
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQdW04dndoNjQ3OWpTLTd6NEdzTjh4Y1Etc3d4RERXS05Cek5aQlBkRm13TE45dWREQm0zdkJKUjRlNGVMN1NGYUVVVWsxc1ZMNV9pY3VYZ2czclZNNktfdEpqMnNPNEQzQW5FSGlsUHNNdDlRTDFrRVlORy1SMFNyWnM1czlFenpnOExkdVg1dVpXTUFRcXVvRHJhb3ZoTzhmS0Q2SzdQdWZnRTFZSXA5RW9CeUVSNHhmSnVqZW81UEZZNG9SRHdGckpKcU1KUdIB1AFBVV95cUxQQmpJWDZ2QkJXNVNIUVRVaWhoWkk3YlRYOWtpVmphZjVTdFEyZ2NEX3Q5YzktT01JRVV3NmhqMnU5Zi1oWGdydE1kb3lYWk5ZdkV2MFRjNE9sWE1TNkk1QWRucFpsanlIZXBRTzdJWExVZ3NHdVhBUG5ob1JWc200eklldGtKYUdTanBCU0JNMVpaN1ZueXprbFo4aFpoTjZUQy1kcXNUOWM0a2dFb21RSktNcExVcUVma3hsR3FEZ09VeFNTdk8wQ0QzRG5aR3FIczRJNg?oc=5
+- Jensen Huang back as Nvidia CEO: What his return means for Colette Kress after her 11-day stint as interim CEO
+  Jensen Huang is reinstated as CEO and board president. CFO Colette Kress is expected to resume her CFO duties. The board said his return posed no national security risk
+  🔗 https://www.livemint.com/companies/people/jensen-huang-back-as-nvidia-ceo-what-his-return-means-for-colette-kress-after-her-11-day-stint-as-interim-ceo-11795533795850.html
 
-- From English to understanding: How AI is changing digital learning for India's students - ET Education
-  " target="_blank">From English to understanding: How
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ2RISmp1Y3B3VWNubVJSdVppcGFJMENpMWM4ejVDYndlUzl6bVFwTUE3TDh3QVpTLUhvelYtLXVSSlZwdGw4aGduUWZUM01yQWxoa1JfSFdZSnNrblNXOUxIRWMzckxuNktENklhNzRyVVpPTWVRZEdXTnhWM0dYZW1EeXhDMmVpcE8xcG4yOW1JUG5IbmExT25VWGFBX2tfbUNjTHBiQ3NDV1A3aFViSkJiQTM4ajhralA0MXU1N21yb2RjMGtzSGhLSlhZVS1FdHYxVGpzNHQ3cVRhTG1Fa2NSRGdKZHdPejVvSNIB8gFBVV95cUxOZDlXcTF3ajNNNGRxNmJWX2ZaYnBkOVpIeGlDMnpaRzF1Nkp3ZUVHSjhLVTZsalBHYUxuWXh5Z0cyTEFJaTNTbHRZbXV4Vi1NZEp2VWtFeVJSamtLa21XQm5mUWVHNUY5T2ZDWkdMZ1UtMFVNNFNFU09GQi04ZmhpLVZQdTFSVTNPUW9FUTliYjU5elI5MmUzQUJZUTJTLTM4eE1PaUkwQnppem1yVGllTVFON1FialdMeUQ2TFNtMk9INWkydjR1YWp1UTRGUUdxU0w0T0ltY2hNc2d1bFdUWi1TSnZkT3JiemhJZi1zSGY1Zw?oc=5
+- Shadowfax buys WeFast for  ₹23 crore to enter intra-city logistics
+  Shadowfax will have access to a market valued at $15 billion. Nearly 70% of
+  🔗 https://www.livemint.com/companies/news/shadowfax-buys-wefast-enters-intracity-logistics-incrin-borzo-parcel-hyperlocal-deliveries-redseer-peakxv-11795534209210.html
 
-- India’s First Dedicated Human Metabolic Chamber Inaugurated at CMC Vellore - DD News
-  India's First Dedicated Human Metabolic Chamber
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmQyWVhFWWZoSzdMZGMtOGZKQm9aekJ5VVRnbjRJUlhYOG5GY09VcU5lbUxYZk5Ubnc1TlVxanVKZ096WHRZbF9hLV9lZEJBQnkxSndOTEpDVlM4eGVWWjd1NGd5b0MzNm9zWHhoTHdBWXlVQjl3Z1VjdjFaWV94R2l4ZFFsMnFYMk43aWZSekJzOWR0SjYtZ1RoRGFrZmhj?oc=5
+- Pixxel’s big Bengaluru bet: Inside the startup’s plan to build 2.5 lakh sq ft satellite factory near Kempegowda airport
+  Pixxel will set up a 2.5 lakh sq ft satellite manufacturing facility near Bengaluru’s Kempegowda airport. The G
+  🔗 https://www.livemint.com/companies/news/pixxels-big-bengaluru-bet-inside-the-startup-s-plan-to-build-2-5-lakh-sq-ft-satellite-factory-near-kempegowda-airport-11795530432336.html
 
-- India protest updates: ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera
-  India protest updates: ‘Cockroach
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFh3OXM2ZTFtXzA3b1U5OTc2cmZXb1hsaTVtcndObVliQUZHaWxHZ3NNeWhzb2VjVVF5TlJfSmhuYjd6UW1UcUxyYUVneC1WVDBFaUZJRHhMaGhpSWdBelRmR01JUngtbk96Mi00WXZIbW5EQjN5OG5jWksyRkcxZ25JQ0txUFh5cGFWQ1A2WE4yS3JWX3lVbnlWSWJwT0l0SFlJY283ejJ6Vlk2WEg5Q1B0TllMVklzZ2Q3MGo1M2LSAcYBQVVfeXFMTjB1UGViQjJCQm14S19HaEpfR1h1NV80OVhLUjhrVkVjWnBiMW50Q0xta2VYQXZ2bVotangzS3RsMWtBcXRGMEhhTUlqS01Sd1cwaHZkNlBvZG9sczE4emEteHhuNlZoNWVsNkFrR0l2YlZacGdYTVJESTNjOXRPTlVtdGdOeXFHZ25BQm5QTW4zampLQkRUQ3V5cU5XNk1STVBydmlDZUsydTJRcm9QUnp0STBHS0RBY0RlWG5FYy1yQ2ZKaDNR?oc=5
+- Tata Sons wins ITAT backing for  ₹1,498 crore interest deduction on group investments
+  The ITAT ruled that Tata Sons may deduct interest on loans used to invest in group companies, subject to limits for expenses linked to tax-exempt income.
+  🔗 https://www.livemint.com/companies/news/tata-sons-wins-itat-backing-for-1-498-crore-interest-deduction-on-group-investments-11795529522443.html
 
-- Dividend vs fixed deposits: 5 high yield stocks generating better income than FDs - CyberTech, Majestic Auto, to Premco
-  CyberTech Systems, Majestic Auto, Jagran Prakashan, IL&amp;amp;FS Investment Managers, and Prem
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-vs-fixed-deposits-5-high-yield-stocks-generating-better-income-than-fds-cybertech-majestic-auto-to-premco-11795463444218.html
+- Beware! Fraudsters impersonating as Sebi-registered intermediaries: How can investors avoid traps - Experts explain
+  Fraudsters impersonating Sebi-registered intermediaries luring investors into unauthorised trading platforms and siphoning off money.
+  🔗 https://www.livemint.com/market/stock-market-news/beware-fraudsters-impersonating-as-sebi-registered-intermediaries-how-can-investors-avoid-traps-experts-explain-11795535116795.html
 
-- Persistent Systems, Ather Energy shares: Top 2 stocks to buy on 25 Nov; check expected returns, stop loss, target price
-  Indian stock market will be closed on Tuesday, 24 November, for Prakash Gurpurb Sri Guru Nanak Dev. The closure follows steep losses on Monday, as the Sensex fell 1.77
-  🔗 https://www.livemint.com/market/stock-market-news/persistent-systems-ather-energy-shares-top-2-stocks-to-buy-on-25-nov-check-expected-returns-stop-loss-target-price-11795486721247.html
+- Anthropic shares crash below IPO price of $83 after record Nasdaq debut, down 31% from peak. What is spooking investors?
+  Anthropic shares fell below their $83 IPO price, dropping to $79.42. The reversal has renewed concerns about AI
+  🔗 https://www.livemint.com/market/stock-market-news/anthropic-shares-crash-below-ipo-price-of-83-after-record-nasdaq-debut-down-31-from-peak-what-is-spooking-investors-11795533362689.html
 
-- SEBI issues upcoming IPOs GMP advisory - ‘publication of such pre-listing premium figures may be detrimental’
-  SEBI urged intermediaries and market participants to stop publishing grey market premium (GMP) figures for IPOs. Investors should avoid GMP-linked transactions and use authorised platforms
-  🔗 https://www.livemint.com/market/ipo/sebi-issues-upcoming-ipos-gmp-advisory-publication-of-such-pre-listing-premium-figures-may-be-detrimental-11795482712234.html
+- Who is Lori Huang? How Jensen Huang’s wife holds the keys to Nvidia founder’s $109 billion fortune through family trusts
+  Jensen Huang and his wife, Lori, jointly control about 870 million Nvidia shares worth more than $109 billion. Lori is a co-trustee of several trusts and leads the couple's foundation.
+  🔗 https://www.livemint.com/market/stock-market-news/who-is-lori-huang-how-jensen-huang-s-wife-holds-the-keys-to-nvidia-founder-s-109-billion-fortune-through-family-trusts-11795533775799.html
 
-- Asian markets follow Wall Street: Nikkei, Kospi jump up to 8% as Jensen Huang’s return sparks rally in AI stocks
-  South Korea's KOSPI rose 7.5%, Taiwan's benchmark gained 9.1% and Japan's Nikkei climbed 4.5%. Investors remain cautious about AI spending, earnings growth and
-  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-follow-wall-street-nikkei-kospi-jump-up-to-8-as-jensen-huang-s-return-sparks-rally-in-ai-stocks-11795485047635.html
+- South Indian Bank shares in focus as RBI approves SBI Mutual Fund to acquire up to 9.99% stake; stock up 612% in 5 years
+  RBI approves SBI Mutual Fund’s proposal to acquire up to a 9.99% stake in South Indian Bank, subject to regulatory conditions. The approval comes as the bank’
+  🔗 https://www.livemint.com/market/stock-market-news/south-indian-bank-shares-in-focus-as-rbi-approves-sbi-mutual-fund-to-acquire-up-to-9-99-stake-stock-up-612-in-5-years-11795526894476.html
 
-- AI Trade Resurgence Drives 9% Rally in Taiwanese Stock Index
-  Asian semiconductor-related stocks climbed after Nvidia Corp.’s
-  🔗 https://www.livemint.com/market/ai-trade-resurgence-drives-9-rally-in-taiwanese-stock-index-11795484279756.html
+- 830% jump in five years! RMC Switchgears receives  ₹522 crore LoI, 3 times its market cap; will shares rebound?
+  RMC Switchgears received a Letter of Intent for an estimated  ₹522 crore
+  🔗 https://www.livemint.com/market/stock-market-news/830-jump-in-five-years-rmc-switchgears-receives-rs-522-crore-loi-3-times-its-market-cap-will-shares-rebound-11795524825577.html
 
-- What does it mean when humans and technology become indistinguishable? - Aeon
-  What does it mean when humans and technology
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0lUQjVSanJia2o2bWpRWlIxMm54VGVkTTJRWnpSNlp3UnY1YVNMZjJjcklMUlBFclBqeWVCaHp3Zlg3dS1CdFo2Q1FSdHA4czQxYkRLc214dkZuajhSY211LVU2RW9rYkJkYnFmSUtoU2d5aTc2RGRwT2pvZEtCRl9EN3pjWVp2Um5sOXZQR2pRSmJDY1Zj?oc=5
+- Apple iPhone 18e to MacBook Neo 2: 3 upcoming devices that could be easier on Indian buyers’ pockets
+  Apple is reportedly preparing three more affordable devices for early 2027. These include the iPhone 18e, MacBook Neo 2 and a new entry-level iPad.
+  🔗 https://www.livemint.com/technology/apple-iphone-18e-to-macbook-neo-2-3-upcoming-devices-that-could-be-easier-on-indian-buyers-pockets-11795531878359.html
 
-- MeitY's procurement reforms: Can domestic value addition drive technological self-reliance? - ET Government
-  MeitY's procurement reforms: Can domestic
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0hkeTl1T3J5OWptanQwSm94alo1cjdHdDdCcUZreWhyRWZSN0JVaUtneGxPNEFobDBoWGdmUmdMcF9ITFRCbkIxUVNDSGNhd2hJM1plNXdMeE1DMlhhcmpFeTJmVVRYOFNkZ0hoSnlzenFqOUxPc0ZZYjZ5OVJlTW9zaldzVHZDQnp1bWQ5WHFqTnhiT2Mta20xM3FPczlpNFBiZjEyNDFqNGdfRlZfOTVaVVY1Z2o5RDRadVpkM21yYWtoZVR4V01vcnlzck1Bdjl3STI3NF9SWDVJTWprczBmT2UwcjR1VTc4a2dyeGhCaDlnWVprdtIB_gFBVV95cUxPWno5aEVKbHE2aDdmZTE1eXh0R192MlpqUDkzd1hWRkhLNXJhYTRqaV9SRkVMbExzcGJNSlVjUkc0dUozWGtTaV9QVjJEVnNPM085eUdoUWN4cmxJZ0xXT3ViNk54Q2tsenVzaHVocE5KbHJQd0xENjZEWWxGZkN6WC02YXVvcXlqY2lLOHZRYW1nd0N1ODFKZjhMdTBsRE8yMXBzZ0JLdUgzRS1wbkIxcC1PTmNYaGF6WDM0dHh3SWNwcHhPcElMMGVNMnF5STJDdm5wUkVmSnF2VkFXcXRsNmdSVUQyZHFySF9RRVFYYW5JWVphQjg0YmNYMy1uZw?oc=5
+- GTA 6 Easter egg takes players back to original Vice City with PS2 graphics: How to unlock it
+  GTA 6 players have discovered a hidden Easter egg that transports Jason to a recreation of the original 2002 Vice City, complete with PS
+  🔗 https://www.livemint.com/technology/tech-news/gta-6-easter-egg-takes-players-back-to-original-vice-city-with-ps2-graphics-how-to-unlock-it-11795517690584.html
 
-- Technology can undermine justice if poorly designed: Delhi High Court Justice Tejas Karia - Bar and Bench
-  Technology can undermine justice if poorly designed: Delhi High Court Justice Te
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPSExwUVp3eXB2WUtsZk96MDR1UFlsMUFHc0dqM2NiME9vZFVEak03V09KYmNuX1M4bnRYWEFpdXpyTzZKVm0zZU0yU3puVzRqR3RWN3NONEhMT0J3TTM3alp1TVhLQTZ6X0x0aGdBY0EyR2VIOEhYbmI3QjY5MUJyVFpPT0xGOW9XQlk4VWMxZEQ0LXl5aHFDaE9mUE0wSEY5U2RKVG1BQkNNNWxnbFdkTy1Dd0VSWVZHTkNmUHBR0gHLAUFVX3lxTFAwaDN4SWhNak9yLU9YVDVOSUIzZ0V6cTFjRUFRdzl5TDAxOW4wZE5adWpqMFNWRGIxTlhqMlJhcUE5TnRoSEo1MHFmVzVRQU1VWmwxb2IyMmpSN1NadVJWRFc3NXdLVkRGeGdtd2JLU25QcHBrVzhjdU1lckZBZWVQZVVvdUlkVUs1M29RdEdGdnlab2dwaTdlNFM1V0JnTXVtRU1TNjhoTWNoTnl6RzhBYkRZQ0lkcFUzMkZtSjZFZUg2YmE4a041dVVB?oc=5
+- India tops APAC in AI use at work, 96 pc of employees use it regularly: BCG
+  India tops APAC in AI use at work, 96
+  🔗 https://www.livemint.com/technology/india-tops-apac-in-ai-use-at-work-96-pc-of-employees-use-it-regularly-bcg-11795516863876.html
 
-- Speed, Scale and Disregard: How new technology and changing tactics are driving civilian harm - ReliefWeb
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2g4RVJKNmdSOFJSTFh2enlOWFUyZjNzR2RHYmtEbTFjU00yNUtWM09rb2Y0X0l6ZUFSMjA4X1Y3U25oenQ2dzZKWjk5LV9ZSjhMWGtMXzZ6OS1qeG9EdmdmVVBTN2tJbllQSXpxSUp0S2NZeHQ0RXNubXZtVnBKUkxGdWZ6dHUtVGVNTk9Dc2o5a2M3eW81WTVieW12QmY0SUVkYmkyS1JzNldia0FHMnB2U0xiR0ZPYXZiRmpOUkNTcVZW?oc=5
+- AI agents emerge as new consumer gatekeepers, businesses urged to optimise for Bot-driven purchases: Report
+  Artificial intelligence (AI) agents are emerging as influential players in consumer purchasing decisions, according to a new report by venture capital firm Andreessen Horowitz (a16
+  🔗 https://www.livemint.com/technology/ai-agents-emerge-as-new-consumer-gatekeepers-businesses-urged-to-optimise-for-bot-driven-purchases-report-11795513314869.html
 
-- Technology for ‘printing’ steel could help extend the life of ageing bridges and buildings - The Conversation
-  Technology for ‘printing’ steel could help extend the
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3ZyTmRpU01iYVFFNnNfdEp6ZWRJbmtUSHVTZUpaeF91bkNJOGZ0NG5pRUNOelYxc251aV9nV1BFcUJCUm9lVTFiSndNNFpDaExSLW1oRi1FZUdHVjVQMFdEb0Y3LVAzeWk3ZEhSMm5YZlBFYnpiUHBnd2l5OFRMOW9xNndwU0JTT09ITHNpMUs1b2hUU2Y3ekdXei1BTzVoNDluekxteEJKQ0RlSkNaLUhQeGh5WXBnTkdnMGNlQ1Q?oc=5
+- Motorola Edge 70 Neo gets  ₹6,000 launch offers in India: Check price, specifications and sale date
+  The Edge 70 Neo has a 50MP Sony LYTIA camera, Android 16 and launch offers worth up to  ₹6,000 ahead of its December 1 sale.
+  🔗 https://www.livemint.com/technology/gadgets/motorola-edge-70-neo-gets-rs-6-000-launch-offers-in-india-check-price-specifications-and-sale-date-11795509230489.html
 
-- Asia markets jump as Nvidia boss Jensen Huang reinstated after spy scandal - BBC
-  Jensen Huang reinstated as CEO of Nvidia after spy scandal. Dow Jones soars 1,400 points; Nasdaq surges 6% in its best day since April 2025.
-  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SeXJDYXotaGotTjIxUGJLUUtpcWFwbkhISVpNQ0MxYzFmRmF3ZDVfSFdtWW1XVjI3QUtjeC1qVnhhRmFmU2NmVDlhcmNURjR0VVVPcEp3?oc=5
+- Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia - CNBC
+  The Nasdaq surges 6% in its best day since April 2025 as Jensen Huang
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5
 
-- Asian stock markets tumble as AI bubble fears mount - Al Jazeera
-  Asian stock markets tumble as AI bubble fears
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5
+- US stocks set to slide as Nvidia rally fizzles out - Reuters
+  US stocks set to slide as Nvidia rally
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5
 
-- Gold Futures Rebound as Nvidia News Lifts Markets - WSJ
-  Gold Futures Rebound as
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1lDUDJKYnppMTFtNDdCYUoyWkVjdTBJYWpOaWY3OHFRUTMxT0VSUTR0UWN4SEFQVVZJUlhqNjU4OFlDeXdHZkh4ZUFFSTNzWXhEcWpRQ0h0eVk3Q1ZmU2I5OURqdnhEc1hlQmRDcGVVLXZ5YW8yTWQ4dWYwRHE4V0dLTGZhd0p2S3A1V0l6MUs4M3RXaFh0TlJDZUdQYkdPRWNoclFEMl9sY2JTQzNZcDJn?oc=5
+- J&K govt approves land for modern fruit and vegetable markets in three districts of Kashmir - ET Government
+  J&amp;K govt approves land for modern fruit and vegetable
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQk9IaW1wYTRRblBCaUR3c284TUI1THlDdFc4Ny1yWlR0VnFhcWZkQmV1cXlKaDhITDc2YnR1bjEySDk0Z3VHOEhaclEweDdtWU11Tng5T0FvQTBCQjF6ME1GNjB5U1hyZ1ROZFZCTFZYUGpaTWxMaW9TbC15dTFmOXBMYTRFYlVNY1hLM0pkWDR0TG40S01XeTRYVXFqallLeUpxNmFBTDlDTHRFdzJXUHVwN3pGTk9NRW9ULUhlaGs5ZGREZXRZRmNicUE5eUZhSG9WZUgwOTFxei1UWTkwZUZOc1ZNUlRQM1drMkcxclNYLXd6cExLb9IB_gFBVV95cUxOV3laV2ZxeEd2Tm9nVzlWZmdVOV9mekdyZVBGLVdVWk9fUElQV1pReHIyRmNhQ3lCaW81ME12cnRxR2YwVVljQlJocFQ2MzNlNWMyVkFkUFRXTGpUajBKM2hlX3dfcFlZU2hDSThlTjZyZ0lyNmdpRFpvMk93ak1qeWlLQS1nWWR5eWw2cTFXb1kxT1p2c1NGcFRmNHFzSjE5cWl5Rnh2M2duYnNHakVocW1zT01xbFVKM1pkdzFLWlphaXY2aWlDUjAwOWQ3RkpOeVNaeWV6VG1FTnIzOVZBVWJNQ041aTdha2g4V2JjTlctSzNZcE1McndqeFFYZw?oc=5
 
-- Investors Lose Over Rs 5 Lakh Crore. Here's Why Stock Markets Crashed Today - NDTV
-  Investors Lose Over Rs 5 Lakh Crore.
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsNGM0elJITGZsSk9DSE8wOFZNVzhLTzFKMjVRYm1hX2FCNkRSZFhVNm1rNTNCaDBnbUxyVmE4NnI0T0xJNHlKaFFXLUhqbGMzLV9TY29paE5ScWNibFVGMmJrdnEzWDRIUEh0aEV1ZFBlMVhtWkR1MWpIQm5PbEsyOEFzeGlBaHFFcUxvdnFTY0FUQTZVeEktQThMVl9lTkFHSTFwWndKWVhtanZBVjhvbzVESlFxa2FUMGM2UzZWN0kyOE0wRjlmNjEybWRsUnQxQ0pNSUlTcDJncmtxONIB6AFBVV95cUxOYVpyS1YxcFdMaEFzREhzZUQ5c3VtNnMyWEV2eUdQcHIzTWZFTVdiUEZWbEtFNUo0TnJXcW9rR0xQaG9tMWJ4dUdnRlBxcjJqTENDOTZKaThyejZ0TUxIVFVMc2lKV3liOWducWRjTUJVcVNlVDZVMHItWnRTRURSaXNUakFtd0d6MGJiSXRMaWkwNm4yYktPNExTQ0RkOEVRa2ZhemhMNkRrSlQ0aWxnSVo3SVA2Si1sc0JhVkRtU0s4SXNrUXlUQXVtS2JvdUkydFAzQU9ZaFVYUHRyeVo0TnlhNFdXeFp5?oc=5
+- Stock Market Today: Nasdaq, S&P 500 Tumble After Monday’s Massive Gains as Nvidia Leads AI Stock Sell-Off - Investopedia
+  The Nasdaq, S&amp;P 500 Tumble After Monday�
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkNhX201Z2FXd01iTjcxMmVvVkhXOFFlaGNtUWJaUm9UYnJMY214LWplakU4OUtqWlk0UEVmWGVOZGc1NVdsTG1UcU9hQlYtSDZHWl80VjVEUDlCV0E5TENKU0t0R0pnOGlodnZZSnpmb2xYTGVBMmlYNUk2dURreWh4V0hqWHZIQjFrYmNnU1I1dVJOOFJhVm13?oc=5
 
-- Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet - Crude Oil Prices Today | OilPrice.com
-  Oil Markets Are Betting on a Surplus That Hasn't Arri
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQOVp2dGdrck4zdEVLVGNQaUFSUHpuT0NxdUFKdzRob0JQQXZHRTcyYTVIdjd1b216cTBocDJDb0JhVVhSY3RGXzQtNVFqWlRpU3BGUVg4NGhaM1lnN0ZoNXowbXZpTzF5ME9PeWxrVkpORGpIOWViYWpIOXNBZUVLc1ZCSFg3U1hVd3Jya2Fmdm02Z3E1cFNfX0tkSElRbkVJcjI3bnJn0gGrAUFVX3lxTFAxZ2xzZmJBY19mbUFwMUpFenRfUmFGZEF3SHJNZFo2MFdyZEpsckVhMnBsSGY2eHMzTk1UVVZpVU9PdkVzbXpLSUhzV2F6bGxzdTJVX1RKdkh4Y2pzR3ZMYVA4Wi1sSUh3WlFvZmpxQk9vWnZuX0lvY010V0dQZ2dMVDg0UGNBOXhTa1FwamtFcFZRS3JvLWxla2VBVThTWUhiVkpVaUYwdDI5RQ?oc=5
+- Nvidia updates: Jensen Huang reinstatement reverberates through markets - Al Jazeera
+  Nvidia CEO Jensen Huang
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVDNEdHdxa3ZRdl80ZDFCcUg0WkE4Wm9nZ2hqUVdPT2VZYl9lVXNudGFHYW91cERHUXg1am84TGlITXNDT0JaSmdJTGFJdzh4MnlEOGI4SW9kVWoyMTFkM3FGSUVqZ0FnTXo2SFptdTFDTWZKc2s0bjE4OXllSFR6RWM4ZVU1b1ZVNnluMVRfTTlMbVdiNUg1NWVkTDdhclFIaUZlY1I1aFpMMlHSAbABQVVfeXFMTXJqS2pTTTBvYzJ4LXhUbUIycGE5NVR0TF9KX05CdDdLZVhVYk1EdF9wa05MbTNqOEE1OTNzMkhQMVI3czRWSEZIYm91WV96QnMxVEJsdjhOaHh1QW5Nc0JPT0NSbndDYUtsMGQ2LXBadFB5SVJrNEUyN0E0TE1sRzJpM0JqaEV4QldpZ2FnbHl4Sy10S1E4S0s1Wlp3RXZ5czJEWkdGS3VNMVFpc253RmM?oc=5
 
-- South Korean shares rebound as Huang's Nvidia return lifts AI stocks
-  South Korean shares have bounced back sharply after previously hitting a ten-month low. This surge was largely driven by a rebound in technology stocks, particularly following Nvidia CEO Jensen Huang's return to leadership.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-rebound-as-huangs-nvidia-return-lifts-ai-stocks/articleshow/136118071.cms
+- PE/VC investments in India surge to USD 8.7 billion in October, highest monthly level in five years: EY-IVCA report
+  Private equity and venture capital investments in India surged to USD 8.7 billion in October 2026. Financial services attracted the majority of investments, amounting to USD 5.9 billion. Despite the increase in investments, exit activity declined,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pe/vc-investments-in-india-surge-to-usd-8-7-billion-in-october-highest-monthly-level-in-five-years-ey-ivca-report/articleshow/136132831.cms
 
-- Japanese bond yields fall as lower oil prices ease inflation concerns
-  Japanese government bond yields declined due to falling oil prices that eased inflation concerns. The 10-year JGB yield reached a two-week low of 2.715%. Meanwhile, Japan's benchmark Nikkei 225 index experienced a brief
-  🔗 https://economictimes.indiatimes.com/markets/bonds/japanese-bond-yields-fall-as-lower-oil-prices-ease-inflation-concerns/articleshow/136118046.cms
+- Nasdaq drops over 2% as Nvidia-fueled AI rally fades, Anthropic tanks 11%: US Stock Market Live Updates
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms
 
-- Dollar climbs as renewed AI euphoria fuels Fed hike bets
-  The dollar is approaching a 20-month peak, thanks to the reinstatement of Nvidia's CEO. The euro and sterling struggle against the strong dollar, with the euro hovering near an 18-month low.
-  🔗 https://economictimes.indiatimes.com/markets/forex/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets/articleshow/136118031.cms
+- Shift in pension and insurance money to equities dampens long-term G-sec demand: RBI DG
+  The demand for long-term government securities has seen a marginal decline recently. Insurance companies and pension funds are increasingly focusing on equities instead of sovereign debt.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/shift-in-pension-and-insurance-money-to-equities-dampens-long-term-g-sec-demand-rbi-dg/articleshow/136130860.cms
 
-- Asian stocks rally as Huang's Nvidia return revives AI trade
-  MSCI Asia-Pacific index rose by 4.6%, while Japan's Nikkei gained 4.5%. This movement followed a 31.5% surge in Nvidia shares, revealing optimism in the beleaguered AI sector.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-rally-as-huangs-nvidia-return-revives-ai-trade/articleshow/136117829.cms
+- A 50 bps jumbo rate hike can lead to financial stability concerns, hurt growth: Report
+  SBI economists have lowered their rate hike expectations for the upcoming RBI policy review. They now anticipate a 0.25 per cent increase rather than the previously expected 0.50 per cent. This adjustment stems from concerns regarding financial stability and potential
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/a-50-bps-jumbo-rate-hike-can-lead-to-financial-stability-concerns-hurt-growth-report/articleshow/136130764.cms
 
-- India’s rupee has become an accidental carry star
-  India's interest rate advantage has significantly diminished since 2011, raising concerns. Policymakers face challenges in ensuring sustained interest in the rupee amid historical depreciation.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-rupee-has-become-an-accidental-carry-star/articleshow/136117132.cms
+- AI boom looms over Warsh's Fed as inflation worries grow
+  Kevin Warsh of the Federal Reserve underscores the transformative impact of artificial intelligence on the economic landscape. While he conveys measured optimism about AI's benefits, he also warns of inflationary risks associated with its advancement.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow/articleshow/136129160.cms
 
-- Nepal PM India visit highlights: PM Modi announces offshore campus of IIT in Nepal - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdIND
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdINDJiWGwwQ2tTNVM3WFI0aU9xRUpZX3N1bDEyc1EzZURESHBUck84ajROajJmcC03R1JGbnpRd3haU3NYTWl6LVRISmtDT2NtQVpzSXBUaVBmWTFRUTdFSnVlRkFxdkZXXzZZQnlJYk9hdkVsMVB6ZHF4QWhhbUtIZ2VuQno2RlpkTlQ5dGRsdWdfcUVNRXQ4eDdSMFQ5RWVjdVHSAYgCQVVfeXFMT0c5UjlUaVBqN3IwcUhBQnhjTTk0OXJxakNEc3pDVEdkQ0RBVVlYQm9RMkhUQmZCYVlHVUMwSkRiZldxMC0zejJLNXA0aUh1bHdWdFlOSmRaZ2ZxNE9RanBrbFRZVGZkNTVkNWFwcEJfU1RPcllLWlB2d0s5T2pMcmdCbFpKSDRKd0hjTGVDZGxUdEFwTk9aeExhV3I1YU0zalZiSjd6VFJtTVlGcGFfcG9QMkhCNnlCRnpJYWVNQ2ZSLXd1cUV5eUZCeGlRRUExYlhmaDlncDBoRUN3WHFPR0x2SndYRXBZUm5hZzllZGt4Zzg5eUtKTmk5QzRvYmFpNTRZVUZLTjRa?oc=5
+- India 3rd Biggest Asian Power, PM Modi 2nd Most Effective Leader: Report - NDTV
+  India 3rd Biggest Asian Power, PM Modi
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3l0RFo2RjRfaDgwX3QtVnR0el9BR1p1MjFrUmljd2EzY0RUdjZqWS16S3BBaU1uWGlPcWNTRy1sQU84ejUwS0dqM3ZqU0FvM0gzNzNmWE9uMHRZb2xIUzdkYzFUTzVWV0NPanJESGNrUlFUMVctU2g5dlRCMUg4NEFjYlRiNGJzQVJzeDNPMUY5dTR2N2ZrRUlHZVpTVnJOYzJPZHBWNGFXZzJVWG43QdIBuAFBVV95cUxPZ2FnUVp3cFBBanFKdWNiSHZJOExfTnR1LXh3eG5aRzF0ZGZMVTVjQzc4cDNjUmRKWjZnS3hRMkxqMEhsSk91VlV6VTNjTXE4bUZETW85bnNya3RpanFWVndEeHhBT3Z2SXF0a294WE9OUDA3dVljaWtzX29ZZHJrbG9rWndHeUlKUkhaLUpNUkRpZW1wdHllLXdta0dlSGVHczFkeVo4STFYd1ZhN0VCLU8tT0l5WlJ0?oc=5
 
-- View From India Newsletter: India and Israel: Cut from different cloths - The Hindu
-  The Hindu: India and Israel: Cut from different
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQdW04dndoNjQ3OWpTLTd6NEdzTjh4Y1Etc3d4RERXS05Cek5aQlBkRm13TE45dWREQm0zdkJKUjRlNGVMN1NGYUVVVWsxc1ZMNV9pY3VYZ2czclZNNktfdEpqMnNPNEQzQW5FSGlsUHNNdDlRTDFrRVlORy1SMFNyWnM1czlFenpnOExkdVg1dVpXTUFRcXVvRHJhb3ZoTzhmS0Q2SzdQdWZnRTFZSXA5RW9CeUVSNHhmSnVqZW81UEZZNG9SRHdGckpKcU1KUdIB1AFBVV95cUxQQmpJWDZ2QkJXNVNIUVRVaWhoWkk3YlRYOWtpVmphZjVTdFEyZ2NEX3Q5YzktT01JRVV3NmhqMnU5Zi1oWGdydE1kb3lYWk5ZdkV2MFRjNE9sWE1TNkk1QWRucFpsanlIZXBRTzdJWExVZ3NHdVhBUG5ob1JWc200eklldGtKYUdTanBCU0JNMVpaN1ZueXprbFo4aFpoTjZUQy1kcXNUOWM0a2dFb21RSktNcExVcUVma3hsR3FEZ09VeFNTdk8wQ0QzRG5aR3FIczRJNg?oc=5
+- India thrash China 6-2 in Women’s Asian Champions Trophy - News On AIR
+  India thrash China 6-2 in Women
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGRZbVpKN0dpQ0ZOb0JUMFpvQnZCZEszR05TVXBPNjlyUHRkdzZZanNQSDBiTmo1dHd4RFMycDZzYk5KOTUwUUljYXBmQkZJZlVGQlJ5OXpHUEN1UWo2eENnSjZ5ZTJhbXBIc1BoRHNnSWxyU3M2LVF0cGg1UDZ5RXVxZVlzU3pB?oc=5
 
-- From English to understanding: How AI is changing digital learning for India's students - ET Education
-  " target="_blank">From English to understanding: How
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ2RISmp1Y3B3VWNubVJSdVppcGFJMENpMWM4ejVDYndlUzl6bVFwTUE3TDh3QVpTLUhvelYtLXVSSlZwdGw4aGduUWZUM01yQWxoa1JfSFdZSnNrblNXOUxIRWMzckxuNktENklhNzRyVVpPTWVRZEdXTnhWM0dYZW1EeXhDMmVpcE8xcG4yOW1JUG5IbmExT25VWGFBX2tfbUNjTHBiQ3NDV1A3aFViSkJiQTM4ajhralA0MXU1N21yb2RjMGtzSGhLSlhZVS1FdHYxVGpzNHQ3cVRhTG1Fa2NSRGdKZHdPejVvSNIB8gFBVV95cUxOZDlXcTF3ajNNNGRxNmJWX2ZaYnBkOVpIeGlDMnpaRzF1Nkp3ZUVHSjhLVTZsalBHYUxuWXh5Z0cyTEFJaTNTbHRZbXV4Vi1NZEp2VWtFeVJSamtLa21XQm5mUWVHNUY5T2ZDWkdMZ1UtMFVNNFNFU09GQi04ZmhpLVZQdTFSVTNPUW9FUTliYjU5elI5MmUzQUJZUTJTLTM4eE1PaUkwQnppem1yVGllTVFON1FialdMeUQ2TFNtMk9INWkydjR1YWp1UTRGUUdxU0w0T0ltY2hNc2d1bFdUWi1TSnZkT3JiemhJZi1zSGY1Zw?oc=5
+- India’s space economy to reach 40 to 45 billion dollars in under decade as private sector drives growth, says Union Minister Jitendra Singh | Akashvani News - News On AIR
+  India’s space economy to reach 40 to 45 billion dollars in under decade as private sector drives growth, says Union Minister J
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV2JGUGJaOFFCdjRPbGI2aWVhTDZYdmNpWGducGNvWUN5YVVrMjJYSncweWVpMGhRNHdPY2RGVmVnUi1hWV9BbWlTQUprbng2bldvdVdaa1Flcm9zeDdnV1BIMDRFMzhDeXFfbTlDQ0dJVXpheEY1Uk4xdUs4TkxnTDQyOXRDcTNlMF9KQ0Fpc2xmUkVOcU8wX2gwWHhLQlJ6LXVQQ05VMWdKczNPYVFJY3djcHcyMWJtNzV1NU1uREE0UlNkQUlEV1drSTZSWDFHQUVsUm5MS1JtUElUS1BHTFJ5WVBkVFV5NDNCRkp2cTBUMjdlVlE?oc=5
 
-- India’s First Dedicated Human Metabolic Chamber Inaugurated at CMC Vellore - DD News
-  India's First Dedicated Human Metabolic Chamber
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmQyWVhFWWZoSzdMZGMtOGZKQm9aekJ5VVRnbjRJUlhYOG5GY09VcU5lbUxYZk5Ubnc1TlVxanVKZ096WHRZbF9hLV9lZEJBQnkxSndOTEpDVlM4eGVWWjd1NGd5b0MzNm9zWHhoTHdBWXlVQjl3Z1VjdjFaWV94R2l4ZFFsMnFYMk43aWZSekJzOWR0SjYtZ1RoRGFrZmhj?oc=5
+- President Murmu says India’s steady progress reflects indicator of Viksit Bharat - News On AIR
+  President Murmu says India’s steady progress reflects
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlBjQkFDRFJqN1pHZkd2UlhtR2c4alMyaGthaUNHbVNtNHRhaE9MYkxzMW55MTFnVTdBQ0xESGhJcUEwS1Zla1ZydkE5LV9oRXkzcEp2NUNwWDE4MWlZU0pNbm8tVXh2QVM0dWRGVTY3cmoyc05Bak9DQkd3MVZGNTBrTExfUldvWUtkeTV4SHJrbGUtT3lsZTF5WWRwOFIzblpQd3ZsbDU?oc=5
 
-- India protest updates: ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera
-  India protest updates: ‘Cockroach
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFh3OXM2ZTFtXzA3b1U5OTc2cmZXb1hsaTVtcndObVliQUZHaWxHZ3NNeWhzb2VjVVF5TlJfSmhuYjd6UW1UcUxyYUVneC1WVDBFaUZJRHhMaGhpSWdBelRmR01JUngtbk96Mi00WXZIbW5EQjN5OG5jWksyRkcxZ25JQ0txUFh5cGFWQ1A2WE4yS3JWX3lVbnlWSWJwT0l0SFlJY283ejJ6Vlk2WEg5Q1B0TllMVklzZ2Q3MGo1M2LSAcYBQVVfeXFMTjB1UGViQjJCQm14S19HaEpfR1h1NV80OVhLUjhrVkVjWnBiMW50Q0xta2VYQXZ2bVotangzS3RsMWtBcXRGMEhhTUlqS01Sd1cwaHZkNlBvZG9sczE4emEteHhuNlZoNWVsNkFrR0l2YlZacGdYTVJESTNjOXRPTlVtdGdOeXFHZ25BQm5QTW4zampLQkRUQ3V5cU5XNk1STVBydmlDZUsydTJRcm9QUnp0STBHS0RBY0RlWG5FYy1yQ2ZKaDNR?oc=5
+- India news: Nation deepens authoritarian slide under Modi — report - DW.com
+  India news: Nation deepens authoritarian slide
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0t3TUtYQ1E1MWVfOVZZeUtidGFFQnl2UlZBSXhtRm5UeW14bU9fdjRrZDFNRUpBeFJ2Y0hhUFZPUVJYa2poX2FDdEpxa0RQQW9hOEpaeVBoYUxNQ0FFNWEzLTdKYWxkWF85cWNWX3BkNlNzaEc2aWZLRDloSVdhUGlnalpKU0xJY1ZybGptbl9ydFVDa1NPTUc1dw?oc=5
 
-- Sarvam Vs Critics, Jensen Huang Returns & More
-  Sarvam under fire for hosting Chinese AI models on its inference service. Sarvam is standing its ground.
-  🔗 https://inc42.com/buzz/sarvam-vs-critics-jensen-huang-returns-more/
+- Maharashtra GST Authorities Search Turtlemint’s Insurance Broking Arm
+  GST authorities have initiated inspection, search and seizure proceedings against Turtlemint Insurance Broking Services.
+  🔗 https://inc42.com/buzz/maharashtra-gst-authorities-search-turtlemints-insurance-broking-arm/
 
-- Steadview Capital Sells Lenskart Shares Worth ₹921 Cr
-  Steadview Capital has sold 1.27 Cr shares of omnichannel eyewear giant Lenskart.
-  🔗 https://inc42.com/buzz/steadview-capital-sells-lenskart-shares-worth-%e2%82%b9921-cr/
+- GMP Not Indicator Of Expected Returns: SEBI Seeks To Curb IPO GMP Circulation
+  SEBI has moved to curb the publication and circulation of grey market premium (GMP) figures for upcoming IPOs.
+  🔗 https://inc42.com/buzz/gmp-not-indicator-of-expected-returns-sebi-seeks-to-curb-ipo-gmp-circulation/
 
-- RBI Proposes ‘Stop Switch’ To Block Digital Payment Frauds
-  The Reserve Bank of India (RBI) has proposed a set of safeguards against electronic payment frauds, including an account-wide ‘
-  🔗 https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/
+- GalaxEye Awards Bellatrix Propulsion Contract For 30 Satellites
+  Bengaluru-based spacetech startup GalaxEye has awarded Bellatrix Aerospace a multi-year contract to supply propulsion systems.
+  🔗 https://inc42.com/buzz/galaxeye-awards-bellatrix-propulsion-contract-for-30-satellites/
 
-- NVIDIA Reinstates Jensen Huang As President & CEO
-  Jensen Huang has been reinstated as NVIDIA's president and chief executive officer (CEO) The reappointment comes within 11 days.
-  🔗 https://inc42.com/buzz/nvidia-reinstates-jensen-huang-as-president-ceo/
+- JioStar To Cut 150 Jobs To Control Costs
+  Jio’s media arm, JioStar is reportedly looking to hand out the pink slip to about 150 employees.
+  🔗 https://inc42.com/buzz/jiostar-to-cut-150-jobs-to-control-costs/
 
-- Home Ministry Warns Of WhatsApp Web Misuse, Advises Against Sensitive Work
-  The Indian Cyber Crime Coordination Centre (I4C) has advised users to avoid exchanging official information.
-  🔗 https://inc42.com/buzz/home-ministry-warns-of-whatsapp-web-misuse-advises-against-sensitive-work/
+- AidenAI Nets $32 Mn To Scale Enterprise AI Workflows
+  Enterprise AI startup AidenAI has raised $32 Mn in a Series A funding round led by growth investment.
+  🔗 https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/
 
-- Nepal PM India visit highlights: PM Modi announces offshore campus of IIT in Nepal - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdIND
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdINDJiWGwwQ2tTNVM3WFI0aU9xRUpZX3N1bDEyc1EzZURESHBUck84ajROajJmcC03R1JGbnpRd3haU3NYTWl6LVRISmtDT2NtQVpzSXBUaVBmWTFRUTdFSnVlRkFxdkZXXzZZQnlJYk9hdkVsMVB6ZHF4QWhhbUtIZ2VuQno2RlpkTlQ5dGRsdWdfcUVNRXQ4eDdSMFQ5RWVjdVHSAYgCQVVfeXFMT0c5UjlUaVBqN3IwcUhBQnhjTTk0OXJxakNEc3pDVEdkQ0RBVVlYQm9RMkhUQmZCYVlHVUMwSkRiZldxMC0zejJLNXA0aUh1bHdWdFlOSmRaZ2ZxNE9RanBrbFRZVGZkNTVkNWFwcEJfU1RPcllLWlB2d0s5T2pMcmdCbFpKSDRKd0hjTGVDZGxUdEFwTk9aeExhV3I1YU0zalZiSjd6VFJtTVlGcGFfcG9QMkhCNnlCRnpJYWVNQ2ZSLXd1cUV5eUZCeGlRRUExYlhmaDlncDBoRUN3WHFPR0x2SndYRXBZUm5hZzllZGt4Zzg5eUtKTmk5QzRvYmFpNTRZVUZLTjRa?oc=5
+- India 3rd Biggest Asian Power, PM Modi 2nd Most Effective Leader: Report - NDTV
+  India 3rd Biggest Asian Power, PM Modi
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3l0RFo2RjRfaDgwX3QtVnR0el9BR1p1MjFrUmljd2EzY0RUdjZqWS16S3BBaU1uWGlPcWNTRy1sQU84ejUwS0dqM3ZqU0FvM0gzNzNmWE9uMHRZb2xIUzdkYzFUTzVWV0NPanJESGNrUlFUMVctU2g5dlRCMUg4NEFjYlRiNGJzQVJzeDNPMUY5dTR2N2ZrRUlHZVpTVnJOYzJPZHBWNGFXZzJVWG43QdIBuAFBVV95cUxPZ2FnUVp3cFBBanFKdWNiSHZJOExfTnR1LXh3eG5aRzF0ZGZMVTVjQzc4cDNjUmRKWjZnS3hRMkxqMEhsSk91VlV6VTNjTXE4bUZETW85bnNya3RpanFWVndEeHhBT3Z2SXF0a294WE9OUDA3dVljaWtzX29ZZHJrbG9rWndHeUlKUkhaLUpNUkRpZW1wdHllLXdta0dlSGVHczFkeVo4STFYd1ZhN0VCLU8tT0l5WlJ0?oc=5
 
-- View From India Newsletter: India and Israel: Cut from different cloths - The Hindu
-  The Hindu: India and Israel: Cut from different
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQdW04dndoNjQ3OWpTLTd6NEdzTjh4Y1Etc3d4RERXS05Cek5aQlBkRm13TE45dWREQm0zdkJKUjRlNGVMN1NGYUVVVWsxc1ZMNV9pY3VYZ2czclZNNktfdEpqMnNPNEQzQW5FSGlsUHNNdDlRTDFrRVlORy1SMFNyWnM1czlFenpnOExkdVg1dVpXTUFRcXVvRHJhb3ZoTzhmS0Q2SzdQdWZnRTFZSXA5RW9CeUVSNHhmSnVqZW81UEZZNG9SRHdGckpKcU1KUdIB1AFBVV95cUxQQmpJWDZ2QkJXNVNIUVRVaWhoWkk3YlRYOWtpVmphZjVTdFEyZ2NEX3Q5YzktT01JRVV3NmhqMnU5Zi1oWGdydE1kb3lYWk5ZdkV2MFRjNE9sWE1TNkk1QWRucFpsanlIZXBRTzdJWExVZ3NHdVhBUG5ob1JWc200eklldGtKYUdTanBCU0JNMVpaN1ZueXprbFo4aFpoTjZUQy1kcXNUOWM0a2dFb21RSktNcExVcUVma3hsR3FEZ09VeFNTdk8wQ0QzRG5aR3FIczRJNg?oc=5
+- India thrash China 6-2 in Women’s Asian Champions Trophy - News On AIR
+  India thrash China 6-2 in Women
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGRZbVpKN0dpQ0ZOb0JUMFpvQnZCZEszR05TVXBPNjlyUHRkdzZZanNQSDBiTmo1dHd4RFMycDZzYk5KOTUwUUljYXBmQkZJZlVGQlJ5OXpHUEN1UWo2eENnSjZ5ZTJhbXBIc1BoRHNnSWxyU3M2LVF0cGg1UDZ5RXVxZVlzU3pB?oc=5
 
-- From English to understanding: How AI is changing digital learning for India's students - ET Education
-  " target="_blank">From English to understanding: How
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ2RISmp1Y3B3VWNubVJSdVppcGFJMENpMWM4ejVDYndlUzl6bVFwTUE3TDh3QVpTLUhvelYtLXVSSlZwdGw4aGduUWZUM01yQWxoa1JfSFdZSnNrblNXOUxIRWMzckxuNktENklhNzRyVVpPTWVRZEdXTnhWM0dYZW1EeXhDMmVpcE8xcG4yOW1JUG5IbmExT25VWGFBX2tfbUNjTHBiQ3NDV1A3aFViSkJiQTM4ajhralA0MXU1N21yb2RjMGtzSGhLSlhZVS1FdHYxVGpzNHQ3cVRhTG1Fa2NSRGdKZHdPejVvSNIB8gFBVV95cUxOZDlXcTF3ajNNNGRxNmJWX2ZaYnBkOVpIeGlDMnpaRzF1Nkp3ZUVHSjhLVTZsalBHYUxuWXh5Z0cyTEFJaTNTbHRZbXV4Vi1NZEp2VWtFeVJSamtLa21XQm5mUWVHNUY5T2ZDWkdMZ1UtMFVNNFNFU09GQi04ZmhpLVZQdTFSVTNPUW9FUTliYjU5elI5MmUzQUJZUTJTLTM4eE1PaUkwQnppem1yVGllTVFON1FialdMeUQ2TFNtMk9INWkydjR1YWp1UTRGUUdxU0w0T0ltY2hNc2d1bFdUWi1TSnZkT3JiemhJZi1zSGY1Zw?oc=5
+- India’s space economy to reach 40 to 45 billion dollars in under decade as private sector drives growth, says Union Minister Jitendra Singh | Akashvani News - News On AIR
+  India’s space economy to reach 40 to 45 billion dollars in under decade as private sector drives growth, says Union Minister J
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV2JGUGJaOFFCdjRPbGI2aWVhTDZYdmNpWGducGNvWUN5YVVrMjJYSncweWVpMGhRNHdPY2RGVmVnUi1hWV9BbWlTQUprbng2bldvdVdaa1Flcm9zeDdnV1BIMDRFMzhDeXFfbTlDQ0dJVXpheEY1Uk4xdUs4TkxnTDQyOXRDcTNlMF9KQ0Fpc2xmUkVOcU8wX2gwWHhLQlJ6LXVQQ05VMWdKczNPYVFJY3djcHcyMWJtNzV1NU1uREE0UlNkQUlEV1drSTZSWDFHQUVsUm5MS1JtUElUS1BHTFJ5WVBkVFV5NDNCRkp2cTBUMjdlVlE?oc=5
 
-- India’s First Dedicated Human Metabolic Chamber Inaugurated at CMC Vellore - DD News
-  India's First Dedicated Human Metabolic Chamber
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmQyWVhFWWZoSzdMZGMtOGZKQm9aekJ5VVRnbjRJUlhYOG5GY09VcU5lbUxYZk5Ubnc1TlVxanVKZ096WHRZbF9hLV9lZEJBQnkxSndOTEpDVlM4eGVWWjd1NGd5b0MzNm9zWHhoTHdBWXlVQjl3Z1VjdjFaWV94R2l4ZFFsMnFYMk43aWZSekJzOWR0SjYtZ1RoRGFrZmhj?oc=5
+- President Murmu says India’s steady progress reflects indicator of Viksit Bharat - News On AIR
+  President Murmu says India’s steady progress reflects
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlBjQkFDRFJqN1pHZkd2UlhtR2c4alMyaGthaUNHbVNtNHRhaE9MYkxzMW55MTFnVTdBQ0xESGhJcUEwS1Zla1ZydkE5LV9oRXkzcEp2NUNwWDE4MWlZU0pNbm8tVXh2QVM0dWRGVTY3cmoyc05Bak9DQkd3MVZGNTBrTExfUldvWUtkeTV4SHJrbGUtT3lsZTF5WWRwOFIzblpQd3ZsbDU?oc=5
 
-- India protest updates: ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera
-  India protest updates: ‘Cockroach
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFh3OXM2ZTFtXzA3b1U5OTc2cmZXb1hsaTVtcndObVliQUZHaWxHZ3NNeWhzb2VjVVF5TlJfSmhuYjd6UW1UcUxyYUVneC1WVDBFaUZJRHhMaGhpSWdBelRmR01JUngtbk96Mi00WXZIbW5EQjN5OG5jWksyRkcxZ25JQ0txUFh5cGFWQ1A2WE4yS3JWX3lVbnlWSWJwT0l0SFlJY283ejJ6Vlk2WEg5Q1B0TllMVklzZ2Q3MGo1M2LSAcYBQVVfeXFMTjB1UGViQjJCQm14S19HaEpfR1h1NV80OVhLUjhrVkVjWnBiMW50Q0xta2VYQXZ2bVotangzS3RsMWtBcXRGMEhhTUlqS01Sd1cwaHZkNlBvZG9sczE4emEteHhuNlZoNWVsNkFrR0l2YlZacGdYTVJESTNjOXRPTlVtdGdOeXFHZ25BQm5QTW4zampLQkRUQ3V5cU5XNk1STVBydmlDZUsydTJRcm9QUnp0STBHS0RBY0RlWG5FYy1yQ2ZKaDNR?oc=5
+- India news: Nation deepens authoritarian slide under Modi — report - DW.com
+  India news: Nation deepens authoritarian slide
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0t3TUtYQ1E1MWVfOVZZeUtidGFFQnl2UlZBSXhtRm5UeW14bU9fdjRrZDFNRUpBeFJ2Y0hhUFZPUVJYa2poX2FDdEpxa0RQQW9hOEpaeVBoYUxNQ0FFNWEzLTdKYWxkWF85cWNWX3BkNlNzaEc2aWZLRDloSVdhUGlnalpKU0xJY1ZybGptbl9ydFVDa1NPTUc1dw?oc=5
 
-- Nepal PM India visit highlights: PM Modi announces offshore campus of IIT in Nepal - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdIND
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdINDJiWGwwQ2tTNVM3WFI0aU9xRUpZX3N1bDEyc1EzZURESHBUck84ajROajJmcC03R1JGbnpRd3haU3NYTWl6LVRISmtDT2NtQVpzSXBUaVBmWTFRUTdFSnVlRkFxdkZXXzZZQnlJYk9hdkVsMVB6ZHF4QWhhbUtIZ2VuQno2RlpkTlQ5dGRsdWdfcUVNRXQ4eDdSMFQ5RWVjdVHSAYgCQVVfeXFMT0c5UjlUaVBqN3IwcUhBQnhjTTk0OXJxakNEc3pDVEdkQ0RBVVlYQm9RMkhUQmZCYVlHVUMwSkRiZldxMC0zejJLNXA0aUh1bHdWdFlOSmRaZ2ZxNE9RanBrbFRZVGZkNTVkNWFwcEJfU1RPcllLWlB2d0s5T2pMcmdCbFpKSDRKd0hjTGVDZGxUdEFwTk9aeExhV3I1YU0zalZiSjd6VFJtTVlGcGFfcG9QMkhCNnlCRnpJYWVNQ2ZSLXd1cUV5eUZCeGlRRUExYlhmaDlncDBoRUN3WHFPR0x2SndYRXBZUm5hZzllZGt4Zzg5eUtKTmk5QzRvYmFpNTRZVUZLTjRa?oc=5
+- India 3rd Biggest Asian Power, PM Modi 2nd Most Effective Leader: Report - NDTV
+  India 3rd Biggest Asian Power, PM Modi
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3l0RFo2RjRfaDgwX3QtVnR0el9BR1p1MjFrUmljd2EzY0RUdjZqWS16S3BBaU1uWGlPcWNTRy1sQU84ejUwS0dqM3ZqU0FvM0gzNzNmWE9uMHRZb2xIUzdkYzFUTzVWV0NPanJESGNrUlFUMVctU2g5dlRCMUg4NEFjYlRiNGJzQVJzeDNPMUY5dTR2N2ZrRUlHZVpTVnJOYzJPZHBWNGFXZzJVWG43QdIBuAFBVV95cUxPZ2FnUVp3cFBBanFKdWNiSHZJOExfTnR1LXh3eG5aRzF0ZGZMVTVjQzc4cDNjUmRKWjZnS3hRMkxqMEhsSk91VlV6VTNjTXE4bUZETW85bnNya3RpanFWVndEeHhBT3Z2SXF0a294WE9OUDA3dVljaWtzX29ZZHJrbG9rWndHeUlKUkhaLUpNUkRpZW1wdHllLXdta0dlSGVHczFkeVo4STFYd1ZhN0VCLU8tT0l5WlJ0?oc=5
 
-- View From India Newsletter: India and Israel: Cut from different cloths - The Hindu
-  The Hindu: India and Israel: Cut from different
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQdW04dndoNjQ3OWpTLTd6NEdzTjh4Y1Etc3d4RERXS05Cek5aQlBkRm13TE45dWREQm0zdkJKUjRlNGVMN1NGYUVVVWsxc1ZMNV9pY3VYZ2czclZNNktfdEpqMnNPNEQzQW5FSGlsUHNNdDlRTDFrRVlORy1SMFNyWnM1czlFenpnOExkdVg1dVpXTUFRcXVvRHJhb3ZoTzhmS0Q2SzdQdWZnRTFZSXA5RW9CeUVSNHhmSnVqZW81UEZZNG9SRHdGckpKcU1KUdIB1AFBVV95cUxQQmpJWDZ2QkJXNVNIUVRVaWhoWkk3YlRYOWtpVmphZjVTdFEyZ2NEX3Q5YzktT01JRVV3NmhqMnU5Zi1oWGdydE1kb3lYWk5ZdkV2MFRjNE9sWE1TNkk1QWRucFpsanlIZXBRTzdJWExVZ3NHdVhBUG5ob1JWc200eklldGtKYUdTanBCU0JNMVpaN1ZueXprbFo4aFpoTjZUQy1kcXNUOWM0a2dFb21RSktNcExVcUVma3hsR3FEZ09VeFNTdk8wQ0QzRG5aR3FIczRJNg?oc=5
+- India thrash China 6-2 in Women’s Asian Champions Trophy - News On AIR
+  India thrash China 6-2 in Women
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGRZbVpKN0dpQ0ZOb0JUMFpvQnZCZEszR05TVXBPNjlyUHRkdzZZanNQSDBiTmo1dHd4RFMycDZzYk5KOTUwUUljYXBmQkZJZlVGQlJ5OXpHUEN1UWo2eENnSjZ5ZTJhbXBIc1BoRHNnSWxyU3M2LVF0cGg1UDZ5RXVxZVlzU3pB?oc=5
 
-- From English to understanding: How AI is changing digital learning for India's students - ET Education
-  " target="_blank">From English to understanding: How
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ2RISmp1Y3B3VWNubVJSdVppcGFJMENpMWM4ejVDYndlUzl6bVFwTUE3TDh3QVpTLUhvelYtLXVSSlZwdGw4aGduUWZUM01yQWxoa1JfSFdZSnNrblNXOUxIRWMzckxuNktENklhNzRyVVpPTWVRZEdXTnhWM0dYZW1EeXhDMmVpcE8xcG4yOW1JUG5IbmExT25VWGFBX2tfbUNjTHBiQ3NDV1A3aFViSkJiQTM4ajhralA0MXU1N21yb2RjMGtzSGhLSlhZVS1FdHYxVGpzNHQ3cVRhTG1Fa2NSRGdKZHdPejVvSNIB8gFBVV95cUxOZDlXcTF3ajNNNGRxNmJWX2ZaYnBkOVpIeGlDMnpaRzF1Nkp3ZUVHSjhLVTZsalBHYUxuWXh5Z0cyTEFJaTNTbHRZbXV4Vi1NZEp2VWtFeVJSamtLa21XQm5mUWVHNUY5T2ZDWkdMZ1UtMFVNNFNFU09GQi04ZmhpLVZQdTFSVTNPUW9FUTliYjU5elI5MmUzQUJZUTJTLTM4eE1PaUkwQnppem1yVGllTVFON1FialdMeUQ2TFNtMk9INWkydjR1YWp1UTRGUUdxU0w0T0ltY2hNc2d1bFdUWi1TSnZkT3JiemhJZi1zSGY1Zw?oc=5
+- India’s space economy to reach 40 to 45 billion dollars in under decade as private sector drives growth, says Union Minister Jitendra Singh | Akashvani News - News On AIR
+  India’s space economy to reach 40 to 45 billion dollars in under decade as private sector drives growth, says Union Minister J
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV2JGUGJaOFFCdjRPbGI2aWVhTDZYdmNpWGducGNvWUN5YVVrMjJYSncweWVpMGhRNHdPY2RGVmVnUi1hWV9BbWlTQUprbng2bldvdVdaa1Flcm9zeDdnV1BIMDRFMzhDeXFfbTlDQ0dJVXpheEY1Uk4xdUs4TkxnTDQyOXRDcTNlMF9KQ0Fpc2xmUkVOcU8wX2gwWHhLQlJ6LXVQQ05VMWdKczNPYVFJY3djcHcyMWJtNzV1NU1uREE0UlNkQUlEV1drSTZSWDFHQUVsUm5MS1JtUElUS1BHTFJ5WVBkVFV5NDNCRkp2cTBUMjdlVlE?oc=5
 
-- India’s First Dedicated Human Metabolic Chamber Inaugurated at CMC Vellore - DD News
-  India's First Dedicated Human Metabolic Chamber
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmQyWVhFWWZoSzdMZGMtOGZKQm9aekJ5VVRnbjRJUlhYOG5GY09VcU5lbUxYZk5Ubnc1TlVxanVKZ096WHRZbF9hLV9lZEJBQnkxSndOTEpDVlM4eGVWWjd1NGd5b0MzNm9zWHhoTHdBWXlVQjl3Z1VjdjFaWV94R2l4ZFFsMnFYMk43aWZSekJzOWR0SjYtZ1RoRGFrZmhj?oc=5
+- President Murmu says India’s steady progress reflects indicator of Viksit Bharat - News On AIR
+  President Murmu says India’s steady progress reflects
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlBjQkFDRFJqN1pHZkd2UlhtR2c4alMyaGthaUNHbVNtNHRhaE9MYkxzMW55MTFnVTdBQ0xESGhJcUEwS1Zla1ZydkE5LV9oRXkzcEp2NUNwWDE4MWlZU0pNbm8tVXh2QVM0dWRGVTY3cmoyc05Bak9DQkd3MVZGNTBrTExfUldvWUtkeTV4SHJrbGUtT3lsZTF5WWRwOFIzblpQd3ZsbDU?oc=5
 
-- India protest updates: ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera
-  India protest updates: ‘Cockroach
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFh3OXM2ZTFtXzA3b1U5OTc2cmZXb1hsaTVtcndObVliQUZHaWxHZ3NNeWhzb2VjVVF5TlJfSmhuYjd6UW1UcUxyYUVneC1WVDBFaUZJRHhMaGhpSWdBelRmR01JUngtbk96Mi00WXZIbW5EQjN5OG5jWksyRkcxZ25JQ0txUFh5cGFWQ1A2WE4yS3JWX3lVbnlWSWJwT0l0SFlJY283ejJ6Vlk2WEg5Q1B0TllMVklzZ2Q3MGo1M2LSAcYBQVVfeXFMTjB1UGViQjJCQm14S19HaEpfR1h1NV80OVhLUjhrVkVjWnBiMW50Q0xta2VYQXZ2bVotangzS3RsMWtBcXRGMEhhTUlqS01Sd1cwaHZkNlBvZG9sczE4emEteHhuNlZoNWVsNkFrR0l2YlZacGdYTVJESTNjOXRPTlVtdGdOeXFHZ25BQm5QTW4zampLQkRUQ3V5cU5XNk1STVBydmlDZUsydTJRcm9QUnp0STBHS0RBY0RlWG5FYy1yQ2ZKaDNR?oc=5
+- India news: Nation deepens authoritarian slide under Modi — report - DW.com
+  India news: Nation deepens authoritarian slide
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0t3TUtYQ1E1MWVfOVZZeUtidGFFQnl2UlZBSXhtRm5UeW14bU9fdjRrZDFNRUpBeFJ2Y0hhUFZPUVJYa2poX2FDdEpxa0RQQW9hOEpaeVBoYUxNQ0FFNWEzLTdKYWxkWF85cWNWX3BkNlNzaEc2aWZLRDloSVdhUGlnalpKU0xJY1ZybGptbl9ydFVDa1NPTUc1dw?oc=5
 
-- Nepal PM India visit highlights: PM Modi announces offshore campus of IIT in Nepal - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdIND
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdINDJiWGwwQ2tTNVM3WFI0aU9xRUpZX3N1bDEyc1EzZURESHBUck84ajROajJmcC03R1JGbnpRd3haU3NYTWl6LVRISmtDT2NtQVpzSXBUaVBmWTFRUTdFSnVlRkFxdkZXXzZZQnlJYk9hdkVsMVB6ZHF4QWhhbUtIZ2VuQno2RlpkTlQ5dGRsdWdfcUVNRXQ4eDdSMFQ5RWVjdVHSAYgCQVVfeXFMT0c5UjlUaVBqN3IwcUhBQnhjTTk0OXJxakNEc3pDVEdkQ0RBVVlYQm9RMkhUQmZCYVlHVUMwSkRiZldxMC0zejJLNXA0aUh1bHdWdFlOSmRaZ2ZxNE9RanBrbFRZVGZkNTVkNWFwcEJfU1RPcllLWlB2d0s5T2pMcmdCbFpKSDRKd0hjTGVDZGxUdEFwTk9aeExhV3I1YU0zalZiSjd6VFJtTVlGcGFfcG9QMkhCNnlCRnpJYWVNQ2ZSLXd1cUV5eUZCeGlRRUExYlhmaDlncDBoRUN3WHFPR0x2SndYRXBZUm5hZzllZGt4Zzg5eUtKTmk5QzRvYmFpNTRZVUZLTjRa?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- View From India Newsletter: India and Israel: Cut from different cloths - The Hindu
-  The Hindu: India and Israel: Cut from different
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQdW04dndoNjQ3OWpTLTd6NEdzTjh4Y1Etc3d4RERXS05Cek5aQlBkRm13TE45dWREQm0zdkJKUjRlNGVMN1NGYUVVVWsxc1ZMNV9pY3VYZ2czclZNNktfdEpqMnNPNEQzQW5FSGlsUHNNdDlRTDFrRVlORy1SMFNyWnM1czlFenpnOExkdVg1dVpXTUFRcXVvRHJhb3ZoTzhmS0Q2SzdQdWZnRTFZSXA5RW9CeUVSNHhmSnVqZW81UEZZNG9SRHdGckpKcU1KUdIB1AFBVV95cUxQQmpJWDZ2QkJXNVNIUVRVaWhoWkk3YlRYOWtpVmphZjVTdFEyZ2NEX3Q5YzktT01JRVV3NmhqMnU5Zi1oWGdydE1kb3lYWk5ZdkV2MFRjNE9sWE1TNkk1QWRucFpsanlIZXBRTzdJWExVZ3NHdVhBUG5ob1JWc200eklldGtKYUdTanBCU0JNMVpaN1ZueXprbFo4aFpoTjZUQy1kcXNUOWM0a2dFb21RSktNcExVcUVma3hsR3FEZ09VeFNTdk8wQ0QzRG5aR3FIczRJNg?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- From English to understanding: How AI is changing digital learning for India's students - ET Education
-  " target="_blank">From English to understanding: How
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ2RISmp1Y3B3VWNubVJSdVppcGFJMENpMWM4ejVDYndlUzl6bVFwTUE3TDh3QVpTLUhvelYtLXVSSlZwdGw4aGduUWZUM01yQWxoa1JfSFdZSnNrblNXOUxIRWMzckxuNktENklhNzRyVVpPTWVRZEdXTnhWM0dYZW1EeXhDMmVpcE8xcG4yOW1JUG5IbmExT25VWGFBX2tfbUNjTHBiQ3NDV1A3aFViSkJiQTM4ajhralA0MXU1N21yb2RjMGtzSGhLSlhZVS1FdHYxVGpzNHQ3cVRhTG1Fa2NSRGdKZHdPejVvSNIB8gFBVV95cUxOZDlXcTF3ajNNNGRxNmJWX2ZaYnBkOVpIeGlDMnpaRzF1Nkp3ZUVHSjhLVTZsalBHYUxuWXh5Z0cyTEFJaTNTbHRZbXV4Vi1NZEp2VWtFeVJSamtLa21XQm5mUWVHNUY5T2ZDWkdMZ1UtMFVNNFNFU09GQi04ZmhpLVZQdTFSVTNPUW9FUTliYjU5elI5MmUzQUJZUTJTLTM4eE1PaUkwQnppem1yVGllTVFON1FialdMeUQ2TFNtMk9INWkydjR1YWp1UTRGUUdxU0w0T0ltY2hNc2d1bFdUWi1TSnZkT3JiemhJZi1zSGY1Zw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- India’s First Dedicated Human Metabolic Chamber Inaugurated at CMC Vellore - DD News
-  India's First Dedicated Human Metabolic Chamber
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmQyWVhFWWZoSzdMZGMtOGZKQm9aekJ5VVRnbjRJUlhYOG5GY09VcU5lbUxYZk5Ubnc1TlVxanVKZ096WHRZbF9hLV9lZEJBQnkxSndOTEpDVlM4eGVWWjd1NGd5b0MzNm9zWHhoTHdBWXlVQjl3Z1VjdjFaWV94R2l4ZFFsMnFYMk43aWZSekJzOWR0SjYtZ1RoRGFrZmhj?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- India protest updates: ‘Cockroach’ leaders detained; New Delhi in lockdown - Al Jazeera
-  India protest updates: ‘Cockroach
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFh3OXM2ZTFtXzA3b1U5OTc2cmZXb1hsaTVtcndObVliQUZHaWxHZ3NNeWhzb2VjVVF5TlJfSmhuYjd6UW1UcUxyYUVneC1WVDBFaUZJRHhMaGhpSWdBelRmR01JUngtbk96Mi00WXZIbW5EQjN5OG5jWksyRkcxZ25JQ0txUFh5cGFWQ1A2WE4yS3JWX3lVbnlWSWJwT0l0SFlJY283ejJ6Vlk2WEg5Q1B0TllMVklzZ2Q3MGo1M2LSAcYBQVVfeXFMTjB1UGViQjJCQm14S19HaEpfR1h1NV80OVhLUjhrVkVjWnBiMW50Q0xta2VYQXZ2bVotangzS3RsMWtBcXRGMEhhTUlqS01Sd1cwaHZkNlBvZG9sczE4emEteHhuNlZoNWVsNkFrR0l2YlZacGdYTVJESTNjOXRPTlVtdGdOeXFHZ25BQm5QTW4zampLQkRUQ3V5cU5XNk1STVBydmlDZUsydTJRcm9QUnp0STBHS0RBY0RlWG5FYy1yQ2ZKaDNR?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- IIT-Hyderabad director urges graduates to develop indigenous technologies - The Hindu
+  IIT-Hyderabad director
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTUxyOFBVY1NCaGpCRzFmTkgzaWdqNE1SVUxNaTBfRjNUSlRsQXozZUVBU0w4VHNKbW9CRDRxdEVqdWo5WmdVUk8wT2JQRVBQcVljVEg1Mm1IQTBLNThnOFRpMm54ZTRQTWpqYnZOeUdfYms4ZWQtZmtwTDNzQ1JiTXlibF9pQ1dMcG9vX3FIdjVnOV95cXQ1bnpBUkdPZWhQcmRYR1FZZGJIRDkxTS0tZmNXQ3NTNWQwQ3paT0phTnZZMEZobXJMQU5ZcG9wNERZMHNEWWs1WTl3QdIB4AFBVV95cUxPZUF2aTNiZzl6X3RmemIyX0VjOWtpdXlDRmc1ZmRsRzBvTWZOWDRkMEFKZUFETjBfaF9pZmxiVktieUV0TW9HZC1KRUlNMm1oZjM3Qm96MnRvMzY3eVZranJtMFpLeVZpZUd6UVpNM1JsZUpqbkJyZmhLeEZGLTVkbjBhOTIzb2l1VmlReXdwZ1MyaTFpODdyTFlXRHc1UnhrQ1hSOERoNVBSazVTUURTVUZLV0dWSjZGQzZmTC05aXVFNjl2b0pLRUdYSllDY1dEMHY1dHVrdHdLQmlNQldhSw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Meta's Muse has launched in the UK. I found it helpful but awkward - BBC
+  Meta's Muse has launched in the UK. I found
+  🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpdU54NklYaC1NWnVoUlpoMHpnX1hSRC00SHRTdzFtOGtxSGNYdE1KdWZOSzJHTU9EZmNWekEzNDA1aVZKMXllMHBMUkMxWlRJQTBGU0NSTktDcEE?oc=5
+
+- A legendary philosopher isn’t buying Anthropic’s consciousness argument - MIT Technology Review
+  A legendary philosopher isn't buying Anthropic
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVJjY0Z0eXltTjlvZFE1YkNJNGFPYUhjY3k3QUExczJNbkc0dGZzeHVndVZwQ1VzRmYyY2hjX0pqdWtfTTEyS0ZqVVYzajlMSVViZGppWFlqRThpbW5BNGdsemJOQk9kcVc5VmFEcnFsandWUy1hM2JkNWIwOTN2RzBRbWVwNWN5MTZCaEdsQVB4OEpUSDNiZDIzaHlQdnd0Yzg5blhhUHFHcnBaQmViaEhjQ2JxdnkwWnNSdVNOONIBxAFBVV95cUxNa1ZNcWxfTVFmYnpIWGh0Q21UaE9KbnBydERsMDZINEJuTHktSldwdXFmaXhJXzNoUnRQWkxsNHk4WHlacWdyMU9NMHM0M2tOQ1VZbDJ3NGlrRTI2ekFrajgyclVFeUlzZ3NqREV3clM4R2UycDlleW1uMmtMSmdaUVlOdjl2S1VvSGM0ZmEzaGRNZjlXTzVCN1RqblhwbndacGJMdVU1NFZLUzM3M01oM2RZY0pzZXZFOHBFME5FQ25tSlNx?oc=5
+
+- Security Council 10278th Meeting (AM & PM) Conflict Resolution in Rapid Technological Change - UN Meetings Coverage and Press Releases
+  Security Council 10278th Meeting (AM & PM) Conflict Resolution in Rapid Techn
+  🔗 https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FRW9EQVh5bUpoU0lzMnlON1lmcm1JcGJiRHVsNGtVOHdfaHBRMkZ5Z3AwVnpTdFBHaHRrNDdjNlhpdEZlWDEtbEVlcko?oc=5
+
+- dxFeed Wins Best AI Trading Technology Award for dxScript at 2026 Sell-Side Technology Awards - PR Newswire
+  dxFeed Wins Best AI Trading Technology Award for dxScript at 20
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPazFVZUJrY0FtQlVscHpEWktYSmI4b3V4UVhyNWRrMjlIWXFTdzVLOWQ4eG50X1poWU5YS1hPTnh6eF9yUjhkRkF6VzNKNk04RUcwMmNJbHlYZ1lqclA2OFRLblBiNksxMlpTRkRSd1NPWF82UUdLSEt6dnFudTVac1JIYmNvZi1lWi1Pd3RQaVQ4MmRYQjRxR3hjQ1lpaXZSSkJMOW1Rd3plLVRKdF94T1VoanA1V0lGcUx3MzRFc0x6NjVrdVA1S3BGWTNuUXdmTTI0dUZoeXdlLTh1WGliem1Raw?oc=5
 
 
-_Last updated: 2026-11-24 03:47:38 UTC_
+_Last updated: 2026-11-24 16:55:27 UTC_
