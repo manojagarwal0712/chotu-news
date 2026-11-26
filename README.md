@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0TH
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5
+- ‘Here I am’: Lookout circular issued, CJP’s Abhijit Dipke rallies in Nagpur anyway
+  
+  🔗 https://indianexpress.com/article/india/abhijit-dipke-lookout-circular-cjp-nagpur-rally-10980041/
 
-- India wins Best National Pavilion – Visitors’ Lion award at Venice Art Biennale - News On AIR
-  India wins Best National Pavilion – Visitors’ Lion award at Venice
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3ZMNktRcDVTYWhQaU85U2VXVlFjYjQ5MndnTjdFcU4zQ2ZfYmx2Ukk2aEVvRXBOcFpZTHJvVk0zS0NGbXpDZmpiVU9IckdOMUlkcVlXd2lnU05EZ25qNU9CVXQ2VXJnOFhfN0dUZGJxSDdISWJISzlWZkk2czZ3bmVEVFlEWjBjZU9jWmVzd1k1MnNEVGltcmx6UzI3X1BXN2xPYQ?oc=5
+- G’Day Namaste: Australia’s fest in six Indian cities from December 7
+  
+  🔗 https://indianexpress.com/article/india/gday-namaste-australia-six-city-festival-india-bbl-opener-chennai-december-10980055/
 
-- US proposes fresh tariffs on imports from 14 economies, including India - News On AIR
-  US proposes fresh tariffs on imports from 14 economies, including
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFFUOE9zd2dLRUFScVlYUUZmeGNURnRhRjRnRy1QakZVcFVHbUZWZEhlVjdRMFpYd2c2RkZhRjdpa2pqZXJTeVROZ2s1SnI3NGVITjJxZWhtZkJxdDBmMlNEYjhyU255Sm1QZnVOVm45a0RnX19rYnFlLXlSZUdZb19CR0Z6b1lZck03bk9aYm5RVmZzTHF6RnVxRzE?oc=5
+- Missing for decades, 30 from Jammu joined Hizbul. Now, police move to attach their properties
+  
+  🔗 https://indianexpress.com/article/india/jammu-30-missing-men-hizbul-property-attachment-10979973/
 
-- Phone spying to missiles: Why India-Israel strategic ties go beyond Modi - Al Jazeera
-  The two countries have a long history of
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHFibkwxUzhQcTVJYjFVTl9SS3lnT1dFdlFOcGhNMnhRdnRiZ284UnhHSkhsS01jRDQ4ZnJZbEstRjAwVFFqUXN1NXY2cWpOaFNxWHEtSkpSeFVKZ0xsT0FEMnhnMGZhcVRxenlEQ0w0YVpaM2hiOFpvNHNTQ2VxLTVvVTZBYThzbXhLOHdzWXNBR3Y4MFNySGRxZjltZ0EzT0VLVEo1Yk1LYlpYZ1NUcUVSRdIBuAFBVV95cUxNVWFKTmNEcXByb0I3NXAxbFZORG5walcwRGlMcm1UcFZVUk5iOUhvSjltOVRENGFfdTZSQWxIM2F2RFppRUlqOFlVREpsbWROdHVFa3BTWHlUMTRqNlNVVFFjZWkwQUJob3lRckVVWGZ1WEFfR0I0TXhBZ2E1a2xXVHVRZmdmTkRGZ0dvdG56X1VkMFJSMmZGamtBQWdOMHZxYzdmbUxSYTYxUzdIMWkwWFNkQWpFcFlh?oc=5
+- Special Parliament session from next week amid delimitation, quota buzz
+  
+  🔗 https://indianexpress.com/article/india/parliament-session-2026-lok-sabha-rajya-sabha-reconvene-10979976/
 
-- On CJP's Saurav Das Being Stopped At Airport, Centre Cites Last-Minute Notice Over Passport - NDTV
-  CJP's Saurav Das was stopped at airport, Centre
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQdk0tUjBqRTN4M0Q3SnNLOHZBbEtkZS1NaUhYOHhFSkxLTU5VWEt4QXVWSko2dWZxY2VFdG1vb2JkUXNPelJQYmpqNEdPZzVBYWZJRVEtSEZPNndKbzdMbndZTFM5Uk02ZDhsbXlxazg4YWp4TUN1R0VTQVBiaExaOXFrd0N6anBORXpBV2tjaDd5dmxBRW8xUXZKUkRKQVYxVWlQSzcxQ2lURFJ5bHlnR1dNZXhUa0lyb0hUMDhOU25SazRQenpfM1JiVE5uWGPSAdcBQVVfeXFMTVQyekJmTHU0ZElSb1VickdDU2REWE53anY4QWk0d085eFpENllBbl9TZUo4NFZoU3pOeFVOMWZhcWpDT1pMRUJDMEhtY0pyVi1DczBUSjlMemk0cGpEUTRBOGNtOUVLSXBUODlXcHo2ODdJMXBCMFljT1ZvVXA1TFZXZ2tISV9rZ0liMXBPQTB0Y0NZX0k3WjNHME9zRlRlMzhkTlBBYjhoeExUUi1RcnhHU2RkRVNTUEtOS2VRaWlnb1Iwdjl5NjJqMWRXd3BncWR0Y2xsUWc?oc=5
+- Nehru dismissed calls to change Constitution date over astrology, 1949 letter reveals
+  
+  🔗 https://indianexpress.com/article/india/jawaharlal-nehru-change-constitution-date-astrology-1949-letter-10979803/
 
-- Nine tech problems to solve for your parents this Thanksgiving - BBC
-  Nine tech problems to solve for your parents
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamFSUWR5SENLeHpQN3JndlkzS2gwTmlIWkxOdkRDT1FOSzViVUlEOUpfZjEzYmVGbkxyVDRrZjNVSTY3YlRoRHdXWmViaWdNMVF4Y0IyYmFCejFMdzgtdmJ4Q2kwYzZxTGdoVEw0QkhfWnBFbGtuQm9kREpwVXd1ZjRjSlltNDUyUGZZSDJhZWlvUmRiSmRHNkpwNm5vM2l0eTN0SU9rWDREUQ?oc=5
+- iPhone 17 Pro Max under Rs 97,000, iPhone 16 under Rs 46,000: Croma Black Friday deals
+  
+  🔗 https://indianexpress.com/article/technology/croma-black-friday-deals-iphone-17-pro-max-iphone-16-10979934/
 
-- Europe plans €50 billion sovereign tech equity fund to boost quantum technology - Reuters
-  Europe plans €50 billion sovereign tech equity fund to
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXB4bkpfdVM2Rkh0NTZKZmIxOHJkOEZGMnNkdy1mVHl5T2NTSmxzQVUzUHd4eHBKeFFKQU5DUnFmTG9neTRHakJCSkF2aTk3eUlPdEVZMWI2YUVGZjBoTTVjQkJqc3hmUW9ua2JQR3BsTHVKSDdoWU5oOE1qUC1hdkhYZVZRdFNMbEc2WWtQaXJHYkNxMmxPU2ZLU0EyQ0hxb2JEZjZUWEtRYXFSUUVKSm56MlZRdkMzWmlvRnBNbkc?oc=5
+- Vivo X500 series with 200MP camera, WATCH GT 2 launched in India: Price, features
+  
+  🔗 https://indianexpress.com/article/technology/vivo-x500-series-watch-gt-2-launched-in-india-10979681/
 
-- What to watch, read and wear as technology melts down - CNN
-  What to watch, read and wear as
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUHkwaVRvWWdkYlc4dDRRNllPNmkzZ1IxZnROS1pQWVcycVRncVAwWVJNZWRHYnhxNllyNzJMZTFfSlBPMkhEdGpUYlA3YzdzSWNlRmp4TDFFMHF5emdHYkZQaEx6alBNLTVxZTQ5S0FNa25WNzBEODhNTlM4Rkd5MUU3MHFON1F3NXc?oc=5
+- Dario Amodei hits back at claims Anthropic wants humanity to ‘surrender control’ to AI
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-dario-amodei-rejects-claims-humanity-ai-control-10979503/
 
-- China's YMTC boosted by Samsung and SK Hynix adopting its memory technology - Nikkei Asia
-  China's YMTC boosted by Samsung and SK H
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmxHTGR2bmVFQ1dEWG1ONkllUlZxbmkyUFVHTEhONFZGdldrYTBCMzA0S1J0N2x5dHpTcVFfTG1YcEpGN1NPNzdwdkZNOHJySUZjenBhRkxSTmtpRnhvYTdlNkZlQUczNC1VdEdWUlhrd3ExVVF6c3RremhxajU4VE5GVlE1SjV5WHdJVndQMUxrNjVqNlBhRS12SndlSEk1aFh3UTZ6dHl6Rjk5T1lRbVBfeGJNbFQySmViZXRGeG9CTEZZTU5J?oc=5
+- Apple pulls MiniMax AI chatbot from App Store over child safety concerns
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-10979117/
 
-- Billions in Data Center Deals Grind to Halt After AI Chip Curbs - Bloomberg
-  Billions in Data Center Deals Grind to Halt
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNZzNtOUdnTHJCQ2FCUGIyOXp4STRoQ2p4NTduYVNjYzF6eGFTUTE4LUFTRUZUUjlFZ0cyWVV0enBBNDNHazJIWTdiZUs3VHg3ckw3bjhhYndIN1g2Q21vcUh2RkFKcHp1TW1NQmpPS0VfQy1uMnBRZ1FTMzg1akN2UlVZUkVqRnh5OHFfWElYNWVnazFfSXV0WTlPclFNOUdEcU9Dbmg3c2xacldjNHpZZjFJYWM?oc=5
+- Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/retailers-face-rising-ai-cyberattack-threat-ahead-of-black-friday-many-uninsured-10979088/
 
-- Mizuho, Avendus commence partnership a year after takeover announcement
-  Mizuho Securities and Avendus Capital have combined their operations
-  🔗 https://www.livemint.com/companies/news/mizuho-avendus-commence-partnership-a-year-after-takeover-announcement-11795605307049.html
+- JioStar faces fresh workforce changes as seven TV channel sales gather pace; what happens to employees? Report reveals
+  JioStar is negotiating the sale of seven television channels by March 2027. Employees associated with these television businesses will reportedly move to the acquiring companies.
+  🔗 https://www.livemint.com/companies/news/jiostar-faces-fresh-workforce-changes-as-seven-tv-channel-sales-gather-pace-what-happens-to-employees-report-reveals-11795699201104.html
 
-- BNP Paribas moves up global systemic bank list, capital buffer rises
-  BNP Paribas moves up
-  🔗 https://www.livemint.com/companies/bnp-paribas-moves-up-global-systemic-bank-list-capital-buffer-rises-11795635991423.html
+- Raymond taps Jaideep Ahlawat as ‘Friend of the Brand’ to revive retro Bollywood fashion: All you need to know
+  Jaideep Ahlawat has joined Raymond Lifestyle's Chairman’s Collection as ‘Friend of Brand’ Unveiled on Nov 25 in Mumbai, the
+  🔗 https://www.livemint.com/companies/people/raymond-taps-jaideep-ahlawat-as-friend-of-the-brand-to-revive-retro-bollywood-fashion-all-you-need-to-know-11795703077416.html
 
-- SpaceX Receives Government Approval to Launch Space Data Centers
-  The US Federal Communications Commission approved SpaceX’s request to launch as many as 1 million satellites. SpaceX is building a network of data centers in
-  🔗 https://www.livemint.com/companies/spacex-receives-government-approval-to-launch-space-data-centers-11795632238029.html
+- Singh, Srinivasan ask charity commissioner to rein in Tata suit
+  Two Tata trusts have challenged N Chandrasekaran’s reappointment as Tata Sons chairman. Vice-chairman Venu Srin
+  🔗 https://www.livemint.com/companies/singh-srinivasan-ask-charity-commissioner-to-rein-in-tata-suit-11795701927969.html
 
-- IPO on agenda: Tata Sons board to discuss listing plan at Monday's meeting
-  Tata Sons’ board agenda now includes an IPO plan, with a draft prospectus due within 90 days
-  🔗 https://www.livemint.com/companies/news/tata-sons-listing-board-meeting-agenda-noel-tata-trusts-11795623321841.html
+- Flipkart’s incoming CEO faces a multi-front battle
+  A stalled IPO, disgruntled employees and rising competition will test the new CEO. He must also
+  🔗 https://www.livemint.com/companies/news/flipkarts-incoming-ceo-faces-a-multi-front-battle-11795691496329.html
 
-- Why Huawei convicted in US? How its Iran business triggered 7-yr legal battle - what it means for China’s tech goals
-  Huawei and three subsidiaries have been convicted in the US of 10 criminal counts, including bank fraud, money laundering and sanctions violations. A jury found the
-  🔗 https://www.livemint.com/companies/why-huawei-convicted-in-us-how-its-iran-business-triggered-7-yr-legal-battle-what-it-means-for-china-s-tech-goals-11795627748235.html
+- US-based GEF Capital prepares to ramp up India climate-tech investments
+  The PE firm will invest in 3-4 mid-market companies every year with cheques ranging from $30 million to $60 million. The investments will be in companies across energy transition,
+  🔗 https://www.livemint.com/companies/news/usbased-gef-capital-prepares-to-ramp-up-india-climate-tech-investments-pe-firm-11795687202336.html
 
-- Stock market outlook today,26 Nov:Sensex, Nifty prediction-DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues
-  Sensex and Nifty surged Wednesday on foreign inflows, softer oil prices and bank-stock gains. Analysts see a bullish outlook but advise buying on dips. Key resistance near 26,000.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-26-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795653478079.html
+- What will happen to gold rates? Crash or surge after the US Fed FOMC meeting outcome - Scenarios explained
+  Investors are watching the Federal Reserve’s December meeting for clues about gold and silver prices after a sharp 2026 correction. Persistent inflation may prompt further rate hikes
+  🔗 https://www.livemint.com/market/commodities/what-will-happen-to-gold-rates-crash-or-surge-after-the-us-fed-fomc-meeting-outcome-scenarios-explained-11795701687070.html
 
-- Raja Venkatraman recommends three stocks for 26 November
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-26-november-11795653478298.html
+- Turned Nvidia CEO affair saga into a money machine? From $500 to $1 million: How a trader rode Huang's roller coaster
+  Reddit user claims to have turned $500 into more than $1 million in about two weeks through high-risk Nvidia options trades. The bets capitalised on sharp share-price swings following Jensen Huang
+  🔗 https://www.livemint.com/market/stock-market-news/turned-nvidia-ceo-affair-saga-into-a-money-machine-from-500-to-1-million-how-a-trader-rode-huangs-roller-coaster-11795700006715.html
 
-- Devyani Intl, DOMS Industries shares: Top 2 stocks to buy in near term; check target price, stop loss by Nagaraj Shetti
-  Indian stocks rebounded on Wednesday, with the Sensex rising 1.82% and Nifty 1.85%. Nagaraj Shetti recommended Devyani Intl and DOMS Industries for a
-  🔗 https://www.livemint.com/market/stock-market-news/devyani-intl-doms-industries-shares-top-2-stocks-to-buy-in-near-term-check-target-price-stop-loss-by-nagaraj-shetti-11795622752268.html
+- A big shift for gold trading? JPMorgan, HSBC and StoneX complete first digital gold deals- What to know
+  JPMorgan and HSBC complete first-of-their-kind trades using
+  🔗 https://www.livemint.com/market/a-big-shift-for-gold-trading-jpmorgan-hsbc-and-stonex-complete-first-digital-gold-deals-what-to-know-11795699216476.html
 
-- Stock recommendations for 26 November from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 26 November. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-26-november-from-marketsmith-india-11795605050085.html
+- NSE is now world's third-largest listed exchange by market cap, overtakes Nasdaq, LSE: Which two exchanges are ahead?
+  NSE's market capitalisation stood at approximately $64.1 billion, placing it ahead of Deutsche Boerse, valued at $63.4 billion. London Stock Exchange Group at
+  🔗 https://www.livemint.com/market/stock-market-news/nse-is-now-worlds-third-largest-listed-exchange-by-market-cap-overtakes-nasdaq-lse-which-two-exchanges-are-ahead-11795697484423.html
 
-- Would-Be RadioShack Revivers Settle SEC Fraud Suit Allegations
-  Three entrepreneurs accused of misleading investors about pandemic-era plans to revive distressed retailers. US regulator’s lawsuit claimed they were running a Ponzi-like scam
-  🔗 https://www.livemint.com/market/wouldbe-radioshack-revivers-settle-sec-fraud-suit-allegations-11795651880950.html
+- Circuit-to-circuit stock finds no seller for 21 days in a row | Bonus, stock split, dividend record date awaited
+  The stock hit a fresh all-time high of  ₹92.
+  🔗 https://www.livemint.com/market/stock-market-news/circuittocircuit-stock-sc-agrotech-finds-no-seller-for-21-days-in-a-row-bonus-stock-split-dividend-record-date-11795694308081.html
 
-- FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical
-  FCC says SpaceX can deploy 1 million satellites for data
-  🔗 https://www.livemint.com/technology/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical-11795650335512.html
+- 1Password data breach: How hackers accessed its systems, what data was exposed and are passwords safe?
+  1Password disclosed a security breach in which hackers accessed backend systems. The company said stored passwords, Secret Keys and encrypted vaults remain safe.
+  🔗 https://www.livemint.com/technology/1password-data-breach-how-hackers-accessed-its-systems-what-data-was-exposed-and-are-passwords-safe-11795690196474.html
 
-- HONOR Magic 9 Pro Max debuts in Malaysia with dual 200MP cameras and cinematic ARRI video technology
-  The HONOR Magic 9 Pro Max is positioned as a flagship device targeting photography enthusiasts and content creators. The company highlights its low-light imaging capabilities
-  🔗 https://www.livemint.com/technology/tech-news/honor-magic-9-pro-max-debuts-in-malaysia-with-dual-200mp-cameras-and-cinematic-arri-video-technology-11795616757320.html
+- Vivo X500 series launched in India with 200MP ZEISS camera, 7,800mAh battery: Check price and specifications
+  Vivo has launched the X500, X500 Pro and X500pro Max in India. Prices start at  ₹1,19,999, with sales beginning on December 3. Vivo Watch GT 2 smartwatch
+  🔗 https://www.livemint.com/technology/gadgets/vivo-x500-series-launched-in-india-with-200mp-zeiss-camera-7-800mah-battery-check-price-and-specifications-11795685233675.html
 
-- Motorola Edge 70 Neo vs Vivo S2 vs Nothing Phone 4a: Which offers more for  ₹40,000?
-  Motorola Edge 70 Neo takes on Vivo S2 and Nothing Phone 4a in
-  🔗 https://www.livemint.com/technology/motorola-edge-70-neo-vs-vivo-s2-vs-nothing-phone-4a-which-offers-more-for-rs-40000-11795617836922.html
+- Want to turn Apple's iPhone Duo into a mini laptop? New keyboard case adds trackpad and MagSafe support
+  Nøord has unveiled a $249 keyboard case for Apple's iPhone Duo. It features a built-in trackpad, five-row keyboard and MagSafe connectivity. Available in Black
+  🔗 https://www.livemint.com/technology/gadgets/want-to-turn-apples-iphone-duo-into-a-mini-laptop-new-keyboard-case-adds-trackpad-and-magsafe-support-11795680264021.html
 
-- Apple iOS 27 vs Samsung One UI 9: Which smartphone software offers better performance, AI and multitasking?
-  Apple's iOS 27 focuses on faster performance, improved Siri and ecosystem integration. Samsung's One UI 9 offers greater customisation, multitasking and Galaxy AI features.
-  🔗 https://www.livemint.com/technology/ios-27-vs-samsung-one-ui-9-which-smartphone-software-offers-better-performance-ai-and-multitasking-11795616734203.html
+- Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
+  US chip curbs, distillation
+  🔗 https://www.livemint.com/technology/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-11795677671352.html
 
-- Google, Meta risk fines up to 5% of global revenue: Inside Australia’s new law to curb harmful online content
-  Australia has passed the Digital Duty of Care law. It requires Google, Meta and other major platforms to proactively tackle harmful online content or face
-  🔗 https://www.livemint.com/technology/google-meta-risk-fines-up-to-5-of-global-revenue-inside-australia-s-new-law-to-curb-harmful-online-content-11795603758199.html
+- US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
+   NVIDIA-CEO/CHINA-AI (
+  🔗 https://www.livemint.com/technology/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-11795677620277.html
 
 - Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates - CNBC
   Dow closes higher Wednesday, wiping out 1,100
   🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5Jd2QwOVppNGtIY3I5ZXgyVmZKQzJ3SzZvVnVydTJHQnliRXBCR2RiQTBMeXExQU16TnpPQzkwWVl2Q0FKV055NzJBNE4tMGQ0UmlFMFdnQ3o1OG9tR2JNd1Z6Ymk5cGtDVFBxZjJPT19jblIxZ2lwRdIBfkFVX3lxTE5qZGNISDFwMjNGQUoxc3ZlT1JFR1A5Zk1oTmJSX1kxWVFOWUZscTZGTWh2cHdfMW92SzVCbXdBR2o3YWJUVzN2TXhfOUdhSUZpdFNyNXBaUjdseWpuQklwaVgzaUlGdkJqNm54TWEyVTluWVFYVTZVMVptNV9xQQ?oc=5
 
+- Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap - Bloomberg
+  Stocks, Nasdaq Futures Cl
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5
+
 - Markets News, Nov. 25, 2026: Nasdaq, S&P 500 Close Lower as AI Trade Remains Under Pressure; Nvidia Falls 4% - Investopedia
   The Nasdaq, S&amp;P 500 Close Lower as AI Trade
   🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR?oc=5
 
-- Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap - Bloomberg
-  Stocks Swoon as AI Fears Spur
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5
+- Stock markets climb in early trade on foreign fund inflows, buying in IT shares - The Hindu
+  Stock markets climb in early trade on foreign fund inflows, buying
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNdVk0RVltRC1hUGdORGlIWmRfRkd4VEVIcGhkTkJDa1dhUXI2ajVFTlJoNHROM1ZTa3NfQkNieThIRmdyU0NlZmEtd1hmN3hpalhtbUp1c19YbnRvcDBsXzFjRFRNQ3JuS2xSUjNSd3RZb1VPaVViWHAxM3FhS05DS1ZuNVVRVnJyX2RXd1hRb2hZU2R2b2NhNkRuaVc5VS1EYlHSAagBQVVfeXFMT0VKUm8wUDRjdXRMQUlvYWpRVDZWMzZuSlQ4aVVtTEtZUjRFUkNZZE5QZHZCaEtYX1VrZ1BWaVFXQV8wdXRmM21vMTNQd2dEVGVwV2FoclF1WlhhejRBNVVEamVNLVAzTjJVeHdZU3AwX1BiLWEzTktNRlVybnNiNHZzSFh1ZlNId1BlQ0pIVGh3NDROb0xsZ1kyVHVTZHhzZ2RxYkUyTmpy?oc=5
 
-- Asia’s markets dive as return of Nvidia’s Huang fails to quell AI doubts - Al Jazeera
-  Nvidia CEO's return fails to quell AI
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTBONWVtRGk1YWduRmRYM3RaZ0ZIVFNqTWRQRG5fTGZ2SWF4elVlSFJkdWpoUHNUcFdjQ2o3ZDFLeUFPVkJYaVRjWnRDWDdfLWdackM4LU1WM1M3Yy05X3pvMVR0dnU0UzJ0R296YWNWaVdJUU5KZ21DU2pOeUpUTVhGOUNadjVPbTZCS1lpaUNjWTJvZklNY2U1dnRWb0HSAaQBQVVfeXFMTlJpRmJuUU82c0pTdnFPOENwTF9GZ1g1d3hDaExGTUhDbWJMT1VvNmp3ZEtGVmlxbTl4T2d3SFI1VnFndlZVYnVzYXRnMUdRSUxTemo4NERuNVo5OUpqVWhyOEMwQXlMM0NOSjBZTEFQX0x0bFZ6RDl0czhqbWMyMjg2ZmtHMHZWY0h3NW1BeHlpTHRFNHNScklvYms5OXVJcWU3dnc?oc=5
+- Stock Market Close: Sensex ends volatile session 390 pts up, Nifty at 25,885; realty, IT shine - Business Standard
+  Stock Market Close: Sensex ends volatile session 390 pts up, Nifty
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY3U5SkU5Zzl4TG5SeXVlbUZuS1NBZWhxd1o4ZDZNOTNybHo3SzBmRUoycVc1c2xOVVFtamE5R0xVd2V0SjRINTVHVWRaTy1NZFFnUXRvRjJkT1JqQ2lhWDBjMjRzMG92QjBmLWFxa1M2VkkxY1Z3SzNXOGJodEtUSkFtSEhHR3RqbERnUjg5WFJGVE1OWmNJdldaZzduT0FxTjlVUlNseDF4YnZUMFhsUUNpa29Ta2gyck5JdGU1QUhtRVNFRk9iNzBqb0lpQU9MWWhzM1h1cldmeFljMzh0VVdaeF9pcFJPd3VTU1dxRjN3Z0FYR2fSAfsBQVVfeXFMT2I0TUFlSUo2UmFrMGMwSDBSTndSbEZJSktPbW5XWnRjVXVoRTNDaFhOSlZJUTcwcE9LZ3RhWDViWXBETlplTmgwVzhMUHA2VVZ3RWxOd3VoczlLSkwtbFUyeEkxdGFJOFY0TXFQdkJNOFIzUHZsQ3FaUm9mUVZqTzk0N0I5bjd5bkJuTk5qaGZPQmF0dlRweXNTOS01UFAtUV9vSGphWUx3cV9TZkxTQUJIT20tRnVWV0VmZFZNOWxObm1ZME5GZW52a2hEcnM0QWtBcEo4c2hfb2d4UlRsRU5VSXdUeUNheXR5NEhUOWlCYU5MSU9mVXhPcEU?oc=5
 
-- AI debt markets shudder as Nvidia's top 'banker' returns - CNBC
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE5nS1FDUS1xNTd6cWFBUE9JbUxkUnZUSnJFck82RHlqeEZOVTBUenpqYWJHbjd0VldkNEI4b3NFalZXTXhRTVFpQ042V2FVQ0g2SXNHeUlYOU1yQnVDWE5FaDFFUWNIUXB3UFpzbm9PcDNNb0Vrc19wV0RKZ2ZwWjjSAYQBQVVfeXFMUERIbXJUSm81dUY0YV9wRlo2YkpfNTBtY3JCOGFsSFM1ODBzU1ltLVFnaHZyRkhmZURkY3dCX1RKVjc3MUd0RVZGR0dtZFZFZjc0LTczZmIwVm1sTjBsaUNZSEo5MEhTWXdMcXU2aHVXTHNRWXJLZnd6VUU0cmxEUHdHZGRp?oc=5
+- Ashiana Housing JV buys 10-acre land in Chennai for senior living project, eyes Rs 1,100 cr revenue
+  Ashiana Housing Ltd recently revealed its acquisition of nearly 10 acres in Chennai aimed at a senior living initiative. The project estimates a saleable area of around 9 lakh square feet. The land purchase cost remains undisclosed.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ashiana-housing-jv-buys-10-acre-land-in-chennai-for-senior-living-project-eyes-rs-1100-cr-revenue/articleshow/136197134.cms
 
-- Volatility-weary US investors side swiped as tariff mayhem adds to tech pain
-  The US proposed a series of country-specific tariffs on goods from 14 major trading partners, including India, Japan and the European Union. The US
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/volatility-weary-us-investors-side-swiped-as-tariff-mayhem-adds-to-tech-pain/articleshow/136175666.cms
+- Market Trading Guide: Tech Mahindra, Angel One among 5 stock recommendations for Friday
+  Market experts recommend five stocks for Friday, including Tech Mahindra, Angel One, Tata Consumer, Kans
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tech-mahindra-angel-one-among-5-stock-recommendations-for-friday/slideshow/136196068.cms
 
-- S&amp;P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch
-  The move comes amid a turbulent period for Nvidia's leadership. The company's board reinstated CEO Jensen Huang earlier this week. He resigned following revelations of extramarital affairs with his direct reports.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sp-warns-nvidias-board-may-be-compromised-puts-chipmakers-rating-on-downgrade-watch/articleshow/136175537.cms
+- India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks
+  Indian government bonds experienced a decline as oil prices increased due to geopolitical tensions in the Middle East. The Reserve Bank of India emphasized broad-based food inflation pressures, complicating the economic landscape. Retail inflation had already surpassed the RBI's threshold
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136193320.cms
 
-- Global Market Today: Asian equities advance after late rebound in US stocks
-  MSCI Inc.’s Asia Pacific equities gauge advanced 0
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-equities-advance-after-late-rebound-in-us-stocks/articleshow/136175415.cms
+- NSE among 6 stocks hitting 52-week highs; stock rallies up to 35% in a month
+  Six BSE 100 stocks, including NSE, DLF and Prestige Estates, hit fresh 52-week
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-among-6-stocks-hitting-52-week-highs-stock-rallies-up-to-35-in-a-month/slideshow/136192775.cms
 
-- Fed survey shows continued growth and sticky inflation in recent weeks
-  Inflation continues to be a significant concern. This has prompted the Federal Reserve to contemplate potential interest rate adjustments. Businesses are facing rising expenses across multiple sectors.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks/articleshow/136172166.cms
+- Spike in oil prices partly reverses rupee rally, forward premiums surge
+  The Indian rupee has faced depreciation as a result of escalating oil prices combined with pressures from surrounding currencies. Recent days have seen heightened hedging activity among importers, leading analysts to forecast potential testing of the rupee's support levels.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge/articleshow/136188127.cms
 
-- Copper slumps to lowest in 11 months as investors flee
-  Copper prices on the London Metal Exchange have plummeted to their lowest point in over 11 months. The fall is fueled by a shift away from technology and AI stocks, causing widespread market anxiety.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/copper-slumps-to-lowest-in-11-months-as-investors-flee/articleshow/136172100.cms
+- Constitution Day updates on November 26, 2026 - The Hindu
+  The Hindu has published an article
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUzJ5QnJDRURwRDF5VnpTRmlBaTJCUVRNVi1HMGhvNXIwRFliQkFuZk1rN3UyZkV5UjJKZzVGM1hla1B6N2tIUjNOZEYtOUU0aTUxNUU1ai1NbklPdGtsTEkxQWtpSUlQSVpzQzJLbW5tVlVXaVpua3B3OGhnYi1hYUpPbHVnaTk1aTlhV1p6Q0JTcnpKNlNqY3d3Vkc4WDdLckVScC1vRlctTktKSW9yb2VkaWhEUzMwM1RERXJNUllkVG5aREhiUzhxaWNrczVwMl80YnBQdGtUTE1FR0FRVnc3NlJ4LVlYUnFyNVVEUjRZXzFr0gH7AUFVX3lxTE5XYktkMGhQanRZWk45REZmNy1uc0xNTUVCdFN2bWp4UzRfX09CbXQwUUtDUnd2ZVV4aVljMEpaa1duZ0VpQ0gyVU15SzlPUWEwb0F3N3NXaVVjYkxfc2xHbVRJOHFwMVNOMHdRNnpiU0EzTjRaS19TMjIyaFF1azdrN08wY2xWME1MTUdDT1J5NE45dU1hamtrOEIxNXcyWDFrNHNPQ05hZmcwbUZLNnhKNWg4M19VQzh0RXVSTnVGVmtRRG9mSnJsRWhOMC1uakpCV2JOU1dpSGxDc3JxbWVHYmpWVkJsMVVvckZfdGpFS2xRN3NYdXBBcTdv?oc=5
 
-- U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0TH
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5
+- Asian Champions Trophy: India beat South Korea 8-0 in goal-fest - ESPN India
+  India beat South Korea 8-0 in goal
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3J1eEJFSGpvY3R6b1NTemN3TGlWaElUY1BqSl9RYkR1N3lkQ25ydlhXMVd0S0RseG0tWWRRODMyTHRRd3Nzal9xVnE4cjNZcVY2dGY1aTItTHhGY0pFalNyUlktNHFrVWtmaW5GU2FtUTVQbUxYNDgtd0g2c2lBNUhMTXZsR0NhMVhnN0t2YW1kdU9pYXB1T01JTG9jUFd2ZC1LNi1LendiRjBWMzhRREpxbUtPakUwaEZNdzh3NXVNWDNSTVN1a0s3U3VDVHBOa0dfdGNnWXcxdTFIdUdxTHd3?oc=5
 
-- India wins Best National Pavilion – Visitors’ Lion award at Venice Art Biennale - News On AIR
-  India wins Best National Pavilion – Visitors’ Lion award at Venice
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3ZMNktRcDVTYWhQaU85U2VXVlFjYjQ5MndnTjdFcU4zQ2ZfYmx2Ukk2aEVvRXBOcFpZTHJvVk0zS0NGbXpDZmpiVU9IckdOMUlkcVlXd2lnU05EZ25qNU9CVXQ2VXJnOFhfN0dUZGJxSDdISWJISzlWZkk2czZ3bmVEVFlEWjBjZU9jWmVzd1k1MnNEVGltcmx6UzI3X1BXN2xPYQ?oc=5
-
-- US proposes fresh tariffs on imports from 14 economies, including India - News On AIR
-  US proposes fresh tariffs on imports from 14 economies, including
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFFUOE9zd2dLRUFScVlYUUZmeGNURnRhRjRnRy1QakZVcFVHbUZWZEhlVjdRMFpYd2c2RkZhRjdpa2pqZXJTeVROZ2s1SnI3NGVITjJxZWhtZkJxdDBmMlNEYjhyU255Sm1QZnVOVm45a0RnX19rYnFlLXlSZUdZb19CR0Z6b1lZck03bk9aYm5RVmZzTHF6RnVxRzE?oc=5
-
-- Phone spying to missiles: Why India-Israel strategic ties go beyond Modi - Al Jazeera
-  The two countries have a long history of
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHFibkwxUzhQcTVJYjFVTl9SS3lnT1dFdlFOcGhNMnhRdnRiZ284UnhHSkhsS01jRDQ4ZnJZbEstRjAwVFFqUXN1NXY2cWpOaFNxWHEtSkpSeFVKZ0xsT0FEMnhnMGZhcVRxenlEQ0w0YVpaM2hiOFpvNHNTQ2VxLTVvVTZBYThzbXhLOHdzWXNBR3Y4MFNySGRxZjltZ0EzT0VLVEo1Yk1LYlpYZ1NUcUVSRdIBuAFBVV95cUxNVWFKTmNEcXByb0I3NXAxbFZORG5walcwRGlMcm1UcFZVUk5iOUhvSjltOVRENGFfdTZSQWxIM2F2RFppRUlqOFlVREpsbWROdHVFa3BTWHlUMTRqNlNVVFFjZWkwQUJob3lRckVVWGZ1WEFfR0I0TXhBZ2E1a2xXVHVRZmdmTkRGZ0dvdG56X1VkMFJSMmZGamtBQWdOMHZxYzdmbUxSYTYxUzdIMWkwWFNkQWpFcFlh?oc=5
-
-- On CJP's Saurav Das Being Stopped At Airport, Centre Cites Last-Minute Notice Over Passport - NDTV
-  CJP's Saurav Das was stopped at airport, Centre
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQdk0tUjBqRTN4M0Q3SnNLOHZBbEtkZS1NaUhYOHhFSkxLTU5VWEt4QXVWSko2dWZxY2VFdG1vb2JkUXNPelJQYmpqNEdPZzVBYWZJRVEtSEZPNndKbzdMbndZTFM5Uk02ZDhsbXlxazg4YWp4TUN1R0VTQVBiaExaOXFrd0N6anBORXpBV2tjaDd5dmxBRW8xUXZKUkRKQVYxVWlQSzcxQ2lURFJ5bHlnR1dNZXhUa0lyb0hUMDhOU25SazRQenpfM1JiVE5uWGPSAdcBQVVfeXFMTVQyekJmTHU0ZElSb1VickdDU2REWE53anY4QWk0d085eFpENllBbl9TZUo4NFZoU3pOeFVOMWZhcWpDT1pMRUJDMEhtY0pyVi1DczBUSjlMemk0cGpEUTRBOGNtOUVLSXBUODlXcHo2ODdJMXBCMFljT1ZvVXA1TFZXZ2tISV9rZ0liMXBPQTB0Y0NZX0k3WjNHME9zRlRlMzhkTlBBYjhoeExUUi1RcnhHU2RkRVNTUEtOS2VRaWlnb1Iwdjl5NjJqMWRXd3BncWR0Y2xsUWc?oc=5
-
-- Vegapay Bags $10 Mn To Scale Credit Line On UPI Infrastructure
-  Mumbai-based fintech startup Vegapay has raised $10 Mn (₹92.3 Cr) in a Series A
-  🔗 https://inc42.com/buzz/vegapay-bags-10-mn-to-scale-credit-line-on-upi-infrastructure/
-
-- IT Secy Defends Sarvam’s Token Factory Over Chinese LLM Debate
-  Reacting to the ongoing controversy around Sarvam AI hosting Chinese AI models on its new inference service Token Factory.
-  🔗 https://inc42.com/buzz/it-secy-defends-sarvams-token-factory-over-chinese-llm-debate/
-
-- Delhi Police Arrests Four Suspects In Crypto Fraud Case
-  Delhi Police Arrests Four Suspects In Crypto Fraud Case.
-  🔗 https://inc42.com/buzz/delhi-police-arrests-four-suspects-in-crypto-fraud-case/
-
-- Kalyan Krishnamurthy’s Exit: How Walmart’s Kickback Probe, IPO Delay Shook Up Flipkart
-  Walmart has asked Flipkart Group CEO Kalyan Krishnamurthy to step down, three sources tell Inc42.
-  🔗 https://inc42.com/features/kalyan-krishnamurthy-exit-how-walmarts-kickback-probe-ipo-delay-shook-up-flipkart/
-
-- Navi Crosses 5% UPI Market Share As PhonePe, Google Pay Slip In October
-  Sachin Bansal-led Navi continued to strengthen its position in the UPI ecosystem in October 2026. The fintech
-  🔗 https://inc42.com/buzz/navi-crosses-5-upi-market-share-as-phonepe-google-pay-slip-in-october/
+- INDIA Bloc Rally, BJP Protest March Highlights: "2024 Election Was Illegal," Claims Rahul Gandhi At INDIA Bloc Rally - NDTV
+  Indian Prime Minister Rahul Gandhi speaks at a rally in New Delhi. He
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxPN0dSUEc5c0xGcjN2WmZWemlrVV9XZkFUd19lQWU5NnAtQm16UHc1QXdfT0F4ek1CcVNIZDZsakNSOFEwUHZ1cFVRMDhpMk9aZ1U0MTI3UWFvUGQwZVZpdGp5d1YxNGRGSDJ6OGUtWjVJU2R0OHU5ZFl1OVFXWkFUMlR0Ujhtb2M2LVY5ZkZrNnlSa2JsMlF6bzRkVHhfTEhzMUpiSUdXRXdlN1EwVlI2ek1UaWxFeG8zNE1rb1dUZFc3bnBXeUhMNkVoOWxvYWRFYVV2S3doSldGR3pyN0M3WXlkTk9ySjRyWDNHZl9Gc2l6V1RaMk9Id3VQYmFrUWQxR2NnUVRXbTBHczU0ZlZDc3JVY0JPZ3dWaC1j0gGjAkFVX3lxTE13OUw1TmliS3hsc2QwLWloc183a3dVU1AtYnZ5dmdKQmhUUnhIUkg3XzJrQ0RQNHZRVUJBcnl0MFlJUW5FQ29LYXZqbDFfRG5WYVFoNHhqWXUzQ2ZZdVVBTDU2eDI0aTBKUm5hYkZEeDJNdzRzeWNfck1hSU1IbkZaWU5XU2wyWkRRb04zS2lQUzhiWXNRYjFZeUNuT21WS0haazdrUjZEUWdhcGU5SklxYjhZSDRVTXVVMU42ckFzMjdwTldNREZVdE9xcGpLV2E5X0VOZUtyNkVYT0QzUDVFY1ZVN1RfeENubnRQalNLaXBXT0tzY3dpZ2drbEhnR2dLZ0lNUFNSaUQxLURYVzY1SDFZMktoaGNYRDFmbGRwZkFkTQ?oc=5
 
 - U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0TH
+  U.S. announces new 25% tariffs on India, second-highest in the
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5
 
-- India wins Best National Pavilion – Visitors’ Lion award at Venice Art Biennale - News On AIR
-  India wins Best National Pavilion – Visitors’ Lion award at Venice
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3ZMNktRcDVTYWhQaU85U2VXVlFjYjQ5MndnTjdFcU4zQ2ZfYmx2Ukk2aEVvRXBOcFpZTHJvVk0zS0NGbXpDZmpiVU9IckdOMUlkcVlXd2lnU05EZ25qNU9CVXQ2VXJnOFhfN0dUZGJxSDdISWJISzlWZkk2czZ3bmVEVFlEWjBjZU9jWmVzd1k1MnNEVGltcmx6UzI3X1BXN2xPYQ?oc=5
+- Trump slaps new tariffs on 14 nations; India faces additional 17% - The Times of India
+  The Times of India reported that India faces additional 17% tariffs
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbE9aYUh4Zkd5REJfZ3ExLTdUNFJjeHVMTE5Fa1EwclZzY3c0ZkFrdjlNMXYzX2lXRzJLY0dydXVSNFgzaS1FSllhckVfWG5aR00tcWhDNkstd0tYTUdzR2JfbDVfMUVnTVNleEpEYUNqUFRfUk1tOEZFX0xNcUxZenVrdWpnbDdkMkxyQWF5VG5maW5ic1c4eVBYQzlYVkVBdnZPMlRpSUVCb2RGRVYwVHFJREtXSHBvaDlMeNIBwgFBVV95cUxOdG9WZDRiSzdtd2VTVldNamJuRVQzbHdXQWYtUmpMWlVMR1ZJd1k5WkhkWVpvWUlYbUhua213ajBjZmZ3d2NiR2lwQVNkc0l4bVV5elg0N1hMbVRNZFk5MGxQekhWdWJfWWpSUFN4Ym5NTThwRERHYWhNTDUtR2F3UXA3ZzZfd1FySHJQbTYwQXNnQkRLMkRsdXYxX1N3RTlnaXlQZmNkQmJWbC1Ma3RuR1B6UHZtdzBIX1htT2hQc2xadw?oc=5
 
-- US proposes fresh tariffs on imports from 14 economies, including India - News On AIR
-  US proposes fresh tariffs on imports from 14 economies, including
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFFUOE9zd2dLRUFScVlYUUZmeGNURnRhRjRnRy1QakZVcFVHbUZWZEhlVjdRMFpYd2c2RkZhRjdpa2pqZXJTeVROZ2s1SnI3NGVITjJxZWhtZkJxdDBmMlNEYjhyU255Sm1QZnVOVm45a0RnX19rYnFlLXlSZUdZb19CR0Z6b1lZck03bk9aYm5RVmZzTHF6RnVxRzE?oc=5
+- [Update] Jio Takes JioAstro Offline, Says It Was A ‘Demo Survey’
+  Jio Platforms’ astrology platform JioAstro became publicly accessible. Hours later, the company appears to have removed it.
+  🔗 https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/
 
-- Phone spying to missiles: Why India-Israel strategic ties go beyond Modi - Al Jazeera
-  The two countries have a long history of
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHFibkwxUzhQcTVJYjFVTl9SS3lnT1dFdlFOcGhNMnhRdnRiZ284UnhHSkhsS01jRDQ4ZnJZbEstRjAwVFFqUXN1NXY2cWpOaFNxWHEtSkpSeFVKZ0xsT0FEMnhnMGZhcVRxenlEQ0w0YVpaM2hiOFpvNHNTQ2VxLTVvVTZBYThzbXhLOHdzWXNBR3Y4MFNySGRxZjltZ0EzT0VLVEo1Yk1LYlpYZ1NUcUVSRdIBuAFBVV95cUxNVWFKTmNEcXByb0I3NXAxbFZORG5walcwRGlMcm1UcFZVUk5iOUhvSjltOVRENGFfdTZSQWxIM2F2RFppRUlqOFlVREpsbWROdHVFa3BTWHlUMTRqNlNVVFFjZWkwQUJob3lRckVVWGZ1WEFfR0I0TXhBZ2E1a2xXVHVRZmdmTkRGZ0dvdG56X1VkMFJSMmZGamtBQWdOMHZxYzdmbUxSYTYxUzdIMWkwWFNkQWpFcFlh?oc=5
+- Memory Costs Become A Headache. How Are Indian Startups Coping?
+  Samsung’s entry-level Galaxy A07 5G now costs ₹22,999, up ⁹2,000
+  🔗 https://inc42.com/features/memory-costs-become-a-headache-how-are-indian-startups-coping/
 
-- On CJP's Saurav Das Being Stopped At Airport, Centre Cites Last-Minute Notice Over Passport - NDTV
-  CJP's Saurav Das was stopped at airport, Centre
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQdk0tUjBqRTN4M0Q3SnNLOHZBbEtkZS1NaUhYOHhFSkxLTU5VWEt4QXVWSko2dWZxY2VFdG1vb2JkUXNPelJQYmpqNEdPZzVBYWZJRVEtSEZPNndKbzdMbndZTFM5Uk02ZDhsbXlxazg4YWp4TUN1R0VTQVBiaExaOXFrd0N6anBORXpBV2tjaDd5dmxBRW8xUXZKUkRKQVYxVWlQSzcxQ2lURFJ5bHlnR1dNZXhUa0lyb0hUMDhOU25SazRQenpfM1JiVE5uWGPSAdcBQVVfeXFMTVQyekJmTHU0ZElSb1VickdDU2REWE53anY4QWk0d085eFpENllBbl9TZUo4NFZoU3pOeFVOMWZhcWpDT1pMRUJDMEhtY0pyVi1DczBUSjlMemk0cGpEUTRBOGNtOUVLSXBUODlXcHo2ODdJMXBCMFljT1ZvVXA1TFZXZ2tISV9rZ0liMXBPQTB0Y0NZX0k3WjNHME9zRlRlMzhkTlBBYjhoeExUUi1RcnhHU2RkRVNTUEtOS2VRaWlnb1Iwdjl5NjJqMWRXd3BncWR0Y2xsUWc?oc=5
+- IndiaAI Mission-Backed Chariot AI Unveils 11 Bn Parameter LLM, Speech Models
+  Chariot AI, a startup developing sovereign foundation model under IndiaAI Mission, has unveiled its Chariot-1 model suite.
+  🔗 https://inc42.com/buzz/indiaai-mission-backed-chariot-ai-unveils-11-bn-parameter-llm-speech-models/
+
+- BharatGen Launches Patram 1.5 To Target Enterprise Document Processing
+  BharatGen has launched Patram 1.5, a vision-language model aimed at automating document processing across banking, financial services
+  🔗 https://inc42.com/buzz/bharatgen-launches-patram-1-5-to-target-enterprise-document-processing/
+
+- India Leads YouTube Take Downs Globally In June Quarter
+  YouTube India Took Down Over 34 Lakh Videos Between Apr-Jun 2026. Google-owned social media platform disclosed that it received the highest number of takedowns.
+  🔗 https://inc42.com/buzz/youtube-india-took-down-over-34-lakh-videos-between-apr-jun-2026/
+
+- Constitution Day updates on November 26, 2026 - The Hindu
+  The Hindu has published an article
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUzJ5QnJDRURwRDF5VnpTRmlBaTJCUVRNVi1HMGhvNXIwRFliQkFuZk1rN3UyZkV5UjJKZzVGM1hla1B6N2tIUjNOZEYtOUU0aTUxNUU1ai1NbklPdGtsTEkxQWtpSUlQSVpzQzJLbW5tVlVXaVpua3B3OGhnYi1hYUpPbHVnaTk1aTlhV1p6Q0JTcnpKNlNqY3d3Vkc4WDdLckVScC1vRlctTktKSW9yb2VkaWhEUzMwM1RERXJNUllkVG5aREhiUzhxaWNrczVwMl80YnBQdGtUTE1FR0FRVnc3NlJ4LVlYUnFyNVVEUjRZXzFr0gH7AUFVX3lxTE5XYktkMGhQanRZWk45REZmNy1uc0xNTUVCdFN2bWp4UzRfX09CbXQwUUtDUnd2ZVV4aVljMEpaa1duZ0VpQ0gyVU15SzlPUWEwb0F3N3NXaVVjYkxfc2xHbVRJOHFwMVNOMHdRNnpiU0EzTjRaS19TMjIyaFF1azdrN08wY2xWME1MTUdDT1J5NE45dU1hamtrOEIxNXcyWDFrNHNPQ05hZmcwbUZLNnhKNWg4M19VQzh0RXVSTnVGVmtRRG9mSnJsRWhOMC1uakpCV2JOU1dpSGxDc3JxbWVHYmpWVkJsMVVvckZfdGpFS2xRN3NYdXBBcTdv?oc=5
+
+- Asian Champions Trophy: India beat South Korea 8-0 in goal-fest - ESPN India
+  India beat South Korea 8-0 in goal
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3J1eEJFSGpvY3R6b1NTemN3TGlWaElUY1BqSl9RYkR1N3lkQ25ydlhXMVd0S0RseG0tWWRRODMyTHRRd3Nzal9xVnE4cjNZcVY2dGY1aTItTHhGY0pFalNyUlktNHFrVWtmaW5GU2FtUTVQbUxYNDgtd0g2c2lBNUhMTXZsR0NhMVhnN0t2YW1kdU9pYXB1T01JTG9jUFd2ZC1LNi1LendiRjBWMzhRREpxbUtPakUwaEZNdzh3NXVNWDNSTVN1a0s3U3VDVHBOa0dfdGNnWXcxdTFIdUdxTHd3?oc=5
+
+- INDIA Bloc Rally, BJP Protest March Highlights: "2024 Election Was Illegal," Claims Rahul Gandhi At INDIA Bloc Rally - NDTV
+  Indian Prime Minister Rahul Gandhi speaks at a rally in New Delhi. He
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxPN0dSUEc5c0xGcjN2WmZWemlrVV9XZkFUd19lQWU5NnAtQm16UHc1QXdfT0F4ek1CcVNIZDZsakNSOFEwUHZ1cFVRMDhpMk9aZ1U0MTI3UWFvUGQwZVZpdGp5d1YxNGRGSDJ6OGUtWjVJU2R0OHU5ZFl1OVFXWkFUMlR0Ujhtb2M2LVY5ZkZrNnlSa2JsMlF6bzRkVHhfTEhzMUpiSUdXRXdlN1EwVlI2ek1UaWxFeG8zNE1rb1dUZFc3bnBXeUhMNkVoOWxvYWRFYVV2S3doSldGR3pyN0M3WXlkTk9ySjRyWDNHZl9Gc2l6V1RaMk9Id3VQYmFrUWQxR2NnUVRXbTBHczU0ZlZDc3JVY0JPZ3dWaC1j0gGjAkFVX3lxTE13OUw1TmliS3hsc2QwLWloc183a3dVU1AtYnZ5dmdKQmhUUnhIUkg3XzJrQ0RQNHZRVUJBcnl0MFlJUW5FQ29LYXZqbDFfRG5WYVFoNHhqWXUzQ2ZZdVVBTDU2eDI0aTBKUm5hYkZEeDJNdzRzeWNfck1hSU1IbkZaWU5XU2wyWkRRb04zS2lQUzhiWXNRYjFZeUNuT21WS0haazdrUjZEUWdhcGU5SklxYjhZSDRVTXVVMU42ckFzMjdwTldNREZVdE9xcGpLV2E5X0VOZUtyNkVYT0QzUDVFY1ZVN1RfeENubnRQalNLaXBXT0tzY3dpZ2drbEhnR2dLZ0lNUFNSaUQxLURYVzY1SDFZMktoaGNYRDFmbGRwZkFkTQ?oc=5
 
 - U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0TH
+  U.S. announces new 25% tariffs on India, second-highest in the
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5
 
-- India wins Best National Pavilion – Visitors’ Lion award at Venice Art Biennale - News On AIR
-  India wins Best National Pavilion – Visitors’ Lion award at Venice
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3ZMNktRcDVTYWhQaU85U2VXVlFjYjQ5MndnTjdFcU4zQ2ZfYmx2Ukk2aEVvRXBOcFpZTHJvVk0zS0NGbXpDZmpiVU9IckdOMUlkcVlXd2lnU05EZ25qNU9CVXQ2VXJnOFhfN0dUZGJxSDdISWJISzlWZkk2czZ3bmVEVFlEWjBjZU9jWmVzd1k1MnNEVGltcmx6UzI3X1BXN2xPYQ?oc=5
+- Trump slaps new tariffs on 14 nations; India faces additional 17% - The Times of India
+  The Times of India reported that India faces additional 17% tariffs
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbE9aYUh4Zkd5REJfZ3ExLTdUNFJjeHVMTE5Fa1EwclZzY3c0ZkFrdjlNMXYzX2lXRzJLY0dydXVSNFgzaS1FSllhckVfWG5aR00tcWhDNkstd0tYTUdzR2JfbDVfMUVnTVNleEpEYUNqUFRfUk1tOEZFX0xNcUxZenVrdWpnbDdkMkxyQWF5VG5maW5ic1c4eVBYQzlYVkVBdnZPMlRpSUVCb2RGRVYwVHFJREtXSHBvaDlMeNIBwgFBVV95cUxOdG9WZDRiSzdtd2VTVldNamJuRVQzbHdXQWYtUmpMWlVMR1ZJd1k5WkhkWVpvWUlYbUhua213ajBjZmZ3d2NiR2lwQVNkc0l4bVV5elg0N1hMbVRNZFk5MGxQekhWdWJfWWpSUFN4Ym5NTThwRERHYWhNTDUtR2F3UXA3ZzZfd1FySHJQbTYwQXNnQkRLMkRsdXYxX1N3RTlnaXlQZmNkQmJWbC1Ma3RuR1B6UHZtdzBIX1htT2hQc2xadw?oc=5
 
-- US proposes fresh tariffs on imports from 14 economies, including India - News On AIR
-  US proposes fresh tariffs on imports from 14 economies, including
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFFUOE9zd2dLRUFScVlYUUZmeGNURnRhRjRnRy1QakZVcFVHbUZWZEhlVjdRMFpYd2c2RkZhRjdpa2pqZXJTeVROZ2s1SnI3NGVITjJxZWhtZkJxdDBmMlNEYjhyU255Sm1QZnVOVm45a0RnX19rYnFlLXlSZUdZb19CR0Z6b1lZck03bk9aYm5RVmZzTHF6RnVxRzE?oc=5
+- Constitution Day updates on November 26, 2026 - The Hindu
+  The Hindu has published an article
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUzJ5QnJDRURwRDF5VnpTRmlBaTJCUVRNVi1HMGhvNXIwRFliQkFuZk1rN3UyZkV5UjJKZzVGM1hla1B6N2tIUjNOZEYtOUU0aTUxNUU1ai1NbklPdGtsTEkxQWtpSUlQSVpzQzJLbW5tVlVXaVpua3B3OGhnYi1hYUpPbHVnaTk1aTlhV1p6Q0JTcnpKNlNqY3d3Vkc4WDdLckVScC1vRlctTktKSW9yb2VkaWhEUzMwM1RERXJNUllkVG5aREhiUzhxaWNrczVwMl80YnBQdGtUTE1FR0FRVnc3NlJ4LVlYUnFyNVVEUjRZXzFr0gH7AUFVX3lxTE5XYktkMGhQanRZWk45REZmNy1uc0xNTUVCdFN2bWp4UzRfX09CbXQwUUtDUnd2ZVV4aVljMEpaa1duZ0VpQ0gyVU15SzlPUWEwb0F3N3NXaVVjYkxfc2xHbVRJOHFwMVNOMHdRNnpiU0EzTjRaS19TMjIyaFF1azdrN08wY2xWME1MTUdDT1J5NE45dU1hamtrOEIxNXcyWDFrNHNPQ05hZmcwbUZLNnhKNWg4M19VQzh0RXVSTnVGVmtRRG9mSnJsRWhOMC1uakpCV2JOU1dpSGxDc3JxbWVHYmpWVkJsMVVvckZfdGpFS2xRN3NYdXBBcTdv?oc=5
 
-- Phone spying to missiles: Why India-Israel strategic ties go beyond Modi - Al Jazeera
-  The two countries have a long history of
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHFibkwxUzhQcTVJYjFVTl9SS3lnT1dFdlFOcGhNMnhRdnRiZ284UnhHSkhsS01jRDQ4ZnJZbEstRjAwVFFqUXN1NXY2cWpOaFNxWHEtSkpSeFVKZ0xsT0FEMnhnMGZhcVRxenlEQ0w0YVpaM2hiOFpvNHNTQ2VxLTVvVTZBYThzbXhLOHdzWXNBR3Y4MFNySGRxZjltZ0EzT0VLVEo1Yk1LYlpYZ1NUcUVSRdIBuAFBVV95cUxNVWFKTmNEcXByb0I3NXAxbFZORG5walcwRGlMcm1UcFZVUk5iOUhvSjltOVRENGFfdTZSQWxIM2F2RFppRUlqOFlVREpsbWROdHVFa3BTWHlUMTRqNlNVVFFjZWkwQUJob3lRckVVWGZ1WEFfR0I0TXhBZ2E1a2xXVHVRZmdmTkRGZ0dvdG56X1VkMFJSMmZGamtBQWdOMHZxYzdmbUxSYTYxUzdIMWkwWFNkQWpFcFlh?oc=5
+- Asian Champions Trophy: India beat South Korea 8-0 in goal-fest - ESPN India
+  India beat South Korea 8-0 in goal
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ3J1eEJFSGpvY3R6b1NTemN3TGlWaElUY1BqSl9RYkR1N3lkQ25ydlhXMVd0S0RseG0tWWRRODMyTHRRd3Nzal9xVnE4cjNZcVY2dGY1aTItTHhGY0pFalNyUlktNHFrVWtmaW5GU2FtUTVQbUxYNDgtd0g2c2lBNUhMTXZsR0NhMVhnN0t2YW1kdU9pYXB1T01JTG9jUFd2ZC1LNi1LendiRjBWMzhRREpxbUtPakUwaEZNdzh3NXVNWDNSTVN1a0s3U3VDVHBOa0dfdGNnWXcxdTFIdUdxTHd3?oc=5
 
-- On CJP's Saurav Das Being Stopped At Airport, Centre Cites Last-Minute Notice Over Passport - NDTV
-  CJP's Saurav Das was stopped at airport, Centre
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQdk0tUjBqRTN4M0Q3SnNLOHZBbEtkZS1NaUhYOHhFSkxLTU5VWEt4QXVWSko2dWZxY2VFdG1vb2JkUXNPelJQYmpqNEdPZzVBYWZJRVEtSEZPNndKbzdMbndZTFM5Uk02ZDhsbXlxazg4YWp4TUN1R0VTQVBiaExaOXFrd0N6anBORXpBV2tjaDd5dmxBRW8xUXZKUkRKQVYxVWlQSzcxQ2lURFJ5bHlnR1dNZXhUa0lyb0hUMDhOU25SazRQenpfM1JiVE5uWGPSAdcBQVVfeXFMTVQyekJmTHU0ZElSb1VickdDU2REWE53anY4QWk0d085eFpENllBbl9TZUo4NFZoU3pOeFVOMWZhcWpDT1pMRUJDMEhtY0pyVi1DczBUSjlMemk0cGpEUTRBOGNtOUVLSXBUODlXcHo2ODdJMXBCMFljT1ZvVXA1TFZXZ2tISV9rZ0liMXBPQTB0Y0NZX0k3WjNHME9zRlRlMzhkTlBBYjhoeExUUi1RcnhHU2RkRVNTUEtOS2VRaWlnb1Iwdjl5NjJqMWRXd3BncWR0Y2xsUWc?oc=5
+- INDIA Bloc Rally, BJP Protest March Highlights: "2024 Election Was Illegal," Claims Rahul Gandhi At INDIA Bloc Rally - NDTV
+  Indian Prime Minister Rahul Gandhi speaks at a rally in New Delhi. He
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxPN0dSUEc5c0xGcjN2WmZWemlrVV9XZkFUd19lQWU5NnAtQm16UHc1QXdfT0F4ek1CcVNIZDZsakNSOFEwUHZ1cFVRMDhpMk9aZ1U0MTI3UWFvUGQwZVZpdGp5d1YxNGRGSDJ6OGUtWjVJU2R0OHU5ZFl1OVFXWkFUMlR0Ujhtb2M2LVY5ZkZrNnlSa2JsMlF6bzRkVHhfTEhzMUpiSUdXRXdlN1EwVlI2ek1UaWxFeG8zNE1rb1dUZFc3bnBXeUhMNkVoOWxvYWRFYVV2S3doSldGR3pyN0M3WXlkTk9ySjRyWDNHZl9Gc2l6V1RaMk9Id3VQYmFrUWQxR2NnUVRXbTBHczU0ZlZDc3JVY0JPZ3dWaC1j0gGjAkFVX3lxTE13OUw1TmliS3hsc2QwLWloc183a3dVU1AtYnZ5dmdKQmhUUnhIUkg3XzJrQ0RQNHZRVUJBcnl0MFlJUW5FQ29LYXZqbDFfRG5WYVFoNHhqWXUzQ2ZZdVVBTDU2eDI0aTBKUm5hYkZEeDJNdzRzeWNfck1hSU1IbkZaWU5XU2wyWkRRb04zS2lQUzhiWXNRYjFZeUNuT21WS0haazdrUjZEUWdhcGU5SklxYjhZSDRVTXVVMU42ckFzMjdwTldNREZVdE9xcGpLV2E5X0VOZUtyNkVYT0QzUDVFY1ZVN1RfeENubnRQalNLaXBXT0tzY3dpZ2drbEhnR2dLZ0lNUFNSaUQxLURYVzY1SDFZMktoaGNYRDFmbGRwZkFkTQ?oc=5
+
+- U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken - The Hindu
+  U.S. announces new 25% tariffs on India, second-highest in the
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5
+
+- Trump slaps new tariffs on 14 nations; India faces additional 17% - The Times of India
+  The Times of India reported that India faces additional 17% tariffs
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbE9aYUh4Zkd5REJfZ3ExLTdUNFJjeHVMTE5Fa1EwclZzY3c0ZkFrdjlNMXYzX2lXRzJLY0dydXVSNFgzaS1FSllhckVfWG5aR00tcWhDNkstd0tYTUdzR2JfbDVfMUVnTVNleEpEYUNqUFRfUk1tOEZFX0xNcUxZenVrdWpnbDdkMkxyQWF5VG5maW5ic1c4eVBYQzlYVkVBdnZPMlRpSUVCb2RGRVYwVHFJREtXSHBvaDlMeNIBwgFBVV95cUxOdG9WZDRiSzdtd2VTVldNamJuRVQzbHdXQWYtUmpMWlVMR1ZJd1k5WkhkWVpvWUlYbUhua213ajBjZmZ3d2NiR2lwQVNkc0l4bVV5elg0N1hMbVRNZFk5MGxQekhWdWJfWWpSUFN4Ym5NTThwRERHYWhNTDUtR2F3UXA3ZzZfd1FySHJQbTYwQXNnQkRLMkRsdXYxX1N3RTlnaXlQZmNkQmJWbC1Ma3RuR1B6UHZtdzBIX1htT2hQc2xadw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-26 01:31:46 UTC_
+_Last updated: 2026-11-26 16:15:19 UTC_
