@@ -1,224 +1,204 @@
 # 📰 Daily News Summaries
 
-- Big, fat Bihar wedding makes global headlines - The Times of India
-  Big, fat Bihar wedding makes global headlines
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUlfQjRoMWNDZWJrb1ZSMU9Ec0l1VXlpbGZUVnhwS1dMZUVXQ2pxUTYtQXhlbjlISDdMdlNQOEdzc2RUcHFMLWxaU0hMcGQ2OVlJby1nUVVFN056dW02WERyUGhTclppbWRPUHdpWVd5S1BvODkzeGZNbHllWjgxMXV4V2oyUlNxLVNEQ1J4c1N4dldXZHBKT0k4SkxJY0h1d1dkRE9wX3gxV3RkWUZMVzZn0gG3AUFVX3lxTE5FRFFUTUU1NlI4QzZneEN0TFBEWTM5WTg2VmtKakg1ZmJvN1g2YWx1TzM2UFFnWHJ1MGl3V0lEbXkxWjYzcTN5b2JORU5pUmx4QUlNYi03WENWMDVORy1sajc3b285dHZjclZkVlZyMVRHYVBNTEF2UVIzWnR4SXdxQXlsRjVYVVlaajBqYkdiR0k4VnlCdFJ0RFROdnZ6UHNZaXFtT2Z5WHpNSmpBU2VMamNPcGtKMA?oc=5
+- Hasina has become a ‘thorn’ in Bangladesh-India ties: Minister Humaiun Kobir - The Hindu
+  Hasina has become a ‘thorn�
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUxBVkpwbk5YMHhoMGx0c2Q1X3FQWWhEVW9tQlFtZng1b1RRZ2JKYjV1QmJmOERvU3Q0akxWdWo5M0VGRjdSU29DUU5kakhsY1MtTXBfUkVndzlqanhKZ29EbXluYnp2QTBiYlg3c2swdmlpRm5mSlNDdEtSdHUtVFFGQ3NEa2ctbV91VnNCb0djX1hRRHBUSnVEeHhnNDg3dHVGRkJHNzE0SHpTUGxqSUdVcUtacFAtdEhoX3laUWlYa0V2ckMzMjRHYVAxOEkwRWc40gHaAUFVX3lxTE5Ib04wMzFKSXpVUFFXV09ybUw2bWU5eV9KX2ppN1ljd0ROajJCT1BHQm5RZ2MwMFUyX09RaXVQTUtZU1VkblR2NXVMNkpucnotRmxuTHlud1gtN2MwTlJKTlQxZmFRYnB0RFNfcC1GNjZlNlZlMHJmYXg5NzY4SzBjUEo4Qjl1WWVDUDBoeGZRYklmcFJLYl9neDFDM3phT1VWRUg5SG1fNWtmUElEbS1CR2pTTGVPdnNzUFhoR0VtTnU2dFcyOXlyU0FrTXIwYUw0aDFKX0ttd2pR?oc=5
 
-- Glasses For Plates, Cartons For Food At Anant Singh's Daughter's Wedding - NDTV
-  Anant Singh's daughter is getting married.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2w3STdFZFo5a29raEtob2xsaHVpTmxOTW9Rb092aXdUYVZFY1NWSzZmWFhHdjQzc3JWeWhYYnlSRTJDQXlFUlNjemh0OWktSVM5ekZqa3ZlQTBwNVRUWTZYNHhVRzlRRlhNVkNjUzJtNUdCNUN0ZHY4VzdtUm1OeG1OZ3NROXhFTDZxNVc3dDYyTHlXQkNGVmJuVGpxWk5pTXd1NERndWxnY2pfRF9B0gG3AUFVX3lxTFBmNW5ubjFrNm5mQ0FuYXNaa0tTVzNOUl9OUlE3aUlyMWRQM2h5ellOVzNRcUpvdGJuRVR0SHhCSGlVcVZobnBiVlVXSU5BdUNtajRoZHVGbV9XWTBNbUVMQzhCOXJfYWR2aXZJT21xUjlscTQtREgyMGVZWi1nWm5NNXpEMVh0Ulh0Z0tiUVhUcmdhS2RULTFMSlNYdkpxYzlZZFVwSUtRQUFNZUdCdWRzVGdsejJUdw?oc=5
+- Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
+  Ganga Water Treaty About To Lapse, Dh
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
 
-- 'Koi Cinema Thodi Hai': Anant Singh Turns Daughter's Wedding Into Fair - NDTV
-  'Koi Cinema Thodi Hai': An
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNbkloYjZoN0VCd3g1MmUwX3lFcFZBNFprTXNMUndtek9hQWFSMFhQekJRTDBXQUVoQzlDY0tTckViLXdwVGR2OTJUWldKVV8xbFZQWlVrWWVhb2RSYkJqYzJGeVdzdElIVl9LcWw3NTZTUExLYlUyQTNPbE9ZNGoyeEtJV2FlUzdTNWRFVUxYck5Vcnhqc1BjVjBELWJkTko4SllpX0JQY2wybDFTXzZ0TdIBuAFBVV95cUxQUkNCTnB5NnhTM05tMzNrUXlYT2Z4anVSNlgtZlA0Q1ZoVGVFal95VTZ0SE5oT1hhQkxkU0J3ZFhDcmdnaTZnTVB0T3owaTJqcUVrQWNJbS1PS2F0UGRIdldEalFwa01QUzR4endOTkFFbl9nUjNGcG5SZkxPLUVXWU9md0RnLUVjX2JtVElTWVlVQmlmVXE5el9rbGk0eFV3Y3VTcGVUSlFtNk54R0pscF85bkNlOGVo?oc=5
+- Global brands shift hundreds of millions in orders from Bangladesh to India amid worker protests - BusinessLine
+  Global brands shift hundreds of millions in orders from Bangladesh to India amid
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOck1BOGF4SkczTHFjMFJjRTBKdnRxUWZoempsdk1XdmJiY3UxS2RHRnk5RzA3LVhpSzBSUy1tZHBwQlBoSUhXNHlsTnNOcjNkS1FQeHZJMUVaS1k3aXZIRVR3b2VyUU1sTE00NGdCaGRGdkdKcXY4OWV4ZFVrc2JIWjN5b3VPWmNBRTJSWDZVS0wzX2JGT0NyWGRwODZMUUJTZWF2V0U2Tk9NU3I5MWIxanNVeHVtZnNjTFRDazNySWVST29hSWhKd1pfRTY0WnRFcWpvTmM1NEJyUm5ORWVtMjNKV0ZIaUk0MFo3UkkwONIB9gFBVV95cUxQeUJ4SUNDak5zQjVDLXhzSUdHc2NFcmdGSjFwSG5fTWI5RVQ3cURWZFUyQnRVemUxblZhUXhzb1pyT3hZWlJPT1dmdm11WllPa0hCZW9rMjhSQm90SVc0RW1udzdPbXZ1YTFlLXJ2Qklzcm52RDJRRTc4alNuYmRTOHloTGFMcUswbjR4RFRlSml6Q1EtM2pXN0RmNXVvbjltMW4xQWhsa19DX2hsbV9XdlVCSVVCazFTUkllUFIxSFUxWUVoR2JfNTA1VDJhdjlFUHVwd2hBaVY2T3FxUGZkbjVpWGdyVC0yRjhrdDlHVC1LeUZvTmc?oc=5
 
-- US Proposes 25% Tariffs On India. Centre Says "Notice Under Examination" - NDTV
-  US Proposes 25% Tariffs On India
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEl4NmJfcDRGbXBWRm5IUlNFN1dUS2R2RnMtaUptcWdFcEh3QlZOcHE4V2FnMnZPWXV6MzZZSERwdW5HdXBnWmRuX3c4RUFUYlNFQkt2VHhnOHBjeWtUTmJ6RlJBNjJNdVBVbmFyb1dHMjRWXzZDdFVZeGtLV1R1RFRUaFpHc0NPMG8zSGhnSlZjalJCcTNLT0pPaWNOVzhUTjAtUnlUYi1xU2FlQ3fSAbYBQVVfeXFMTWpZZGViWGktczlhODhISXIzR0gzbVRTd0NrTTd1TjE4SmdwZ25HSlRJRFBXTnNjTUNMd3BoLXdEQ2hTZ2NjRDYyNUV0UG0xbjcxNFJNTVc1bVJZTEJpM3QxZ24wUG1kbjFuX0JEanNQanEzcHBiTXlKQjlzMnpiMUZSTXB1X05WS3BkdW8xZUJYZGUwa0RHNkRzcHdRUVVEeFhkZE5icVVkMFYwM1NEbjhmV2pJVWc?oc=5
+- Gandikota set to emerge as major adventure tourism hub in South India - The Hindu
+  Gandikota set to emerge as major adventure tourism
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUWt0NFc2dW5hcTNKZE5HRHMtRkhIRUhUMExIY0JpZzVWV1U3VlFsTEs5M3I0VFhHa3lrTGllS1c0M1lJVUZoVktXRHpFYms5MklUMGx3dUFzTGxJb2RBQXdUa0JiUEF6N0RCTmtFUGZqWjNPb1FqZmtRREFlZkRKTEhHNEM2bUJ6Y0NlUFI4SWEza2t6bVltd2c5aF81MkZHbEdEazB1NW5DemIzeU5NdXJGRy1NRm8zNFRyUmF5cHBJaTVQVjJEYjlER2FBVXZJbXY3LU03eWZyTmvSAeIBQVVfeXFMUG0zZlFoalRINzRIYkRsci1TNkt5OWwtSTVaVlI5dDlnRkp3cjJCU2dmNm9oOVlBQ3A3dGV2bGJnSXBxaEM1WkJ1REJZZFlmYi1zZ2Y3Y3V5X3lYMGlpTlVDMzNGM1JVc2dMdmVyQmcyMXRXV0lpTFBSa1Rwamg2Q1JpNFZoak9pYzRIdk5MSDRTU3pQVk54cW82YkdwM053dmhhXzI5OURZb0RhaFM3M3UwTGJpa2NPMDN3WEhIaWRRNFF1UC1KZmg0U3NtdG5aM3lsdDhhbUZfMk5lc3kyQ2lqQQ?oc=5
 
-- U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken - The Hindu
-  U.S. announces new 25% tariffs on India, second-highest in the
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5
+- '50% Increase In Seats, 25-Year Freeze': Centre's Delimitation Push - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1hxYWMyWHVHRGJlVUJvanFMQWtRTThyV0gxX2dPcFVPbUFCSF9wVmhzR085ZzBYaE1QbkhpWkhseFFaNDJ6M0dxazhOaFA2cDVnSzM0R3FIcGw2U2xmeG50dHFNeHoyZDI0QkFreUNWQ2JvajBPQWtha2J6ZnROeU5pSXFuUGtnN19lUkthSzdzd9IB-gFBVV95cUxPQ2xaU1JQSDJmOTRXQmh3cmV1My1tZDg3SHMtZjlaQlM1SVllQTF6OE96WHROQkRRMmwxQk1NSHN3NTBaeFZ6ZnZsdnhzQVJLa0ozTlVyOURILUREQTVQX3IyaFQ2VXNmQ0ozTlpuam10bVZDNER1akF0em92QXFWTXNkMGtYMEVCLW1SRmZuUlEwMUdMVndCdTc2MS1VdVpuNXI5b00zWXh3UDJCTloyekNkRnJHY0RheGRfeV9HenJPR0ZlTUdFLVE1ckowQThXdFJEbG9zenZBb2g2czdVT3dZVmtBeTNCX0dIOW1MM0poTG5NOVlfUmhR?oc=5
 
-- Air cargo’s squeeze makes the case for AI-driven cargo technology - FreightWaves
-  Air cargo’s squeeze makes the
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVV3cEZFakZoZTNKdkl2WU1UMzh3SVpvVVREcF9PREptVkFfU18wMzkzaTdMdm1FU0JOenVXU2FMZnVTeGVraDFGeHlodkxkR0tzcW9aclRoanZ1eEUyQ0VLOFpGNk5qSkZ3M3NIbXQ1aDNkcU5ETDU5UXlqWWQxRGpDLTUxTlBOSjRBclJ5cEE3ejBtNjc0ckJ6dTVfU0k?oc=5
+- Pizza history: AI agent’s cardless purchase is a first for UK - The Guardian
+  Pizza history: AI agent’s card
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQeG05enNvR29yXzZYN1FpcEZ3a0sxZFlvSTdieDA3cjE2Vm80TjJDcGVDdVRnYkp6RHN1a2N0N3ByaDRjb3ZoNHh0cUJHRHlKRTZRVVY4dVM3OGRWMjRjaUtSV1NwQ2h0UVZsNVBqZTlENV9xckpJLVdGbE1seVJadE8wR1lnZUxGUkd3RDhqeDBoX2FNY281cmJydmxPU0MtZFRNMzZGVmRIMTVHODh2OQ?oc=5
 
-- EU Lays out Plan to Boost Quantum Technology - WSJ
-  EU Lays out Plan to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUFTdGZHNlZJc21qdVRUeGtRTzJGSmlQSF9JQmRfQmVNaWt4VGxSY1NsQXVRVjlNMUxOZ08tRV92ZHVxNnV1c2FvNEdZTXZKbDVEUG4tb1V2WE5wTFNSanpudmdlMldtU1ZaUWJHcnRyZXdOaHRILVJKRi1nc29CZ1gwZDB0NHpTTndJakZlbw?oc=5
+- Law students should harness benefits of modern technology, says judge - The Hindu
+  Law students should harness benefits of modern technology,
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVpSMnE2LUdOQzE4N2w2elh4VlB6QjFrRVRWdjJGVVl5enJ3cGdIWXZSWUNUVW1xWWx2ZFFsSC11LXI4dDJIcnZfTEt4UWwxenR4WHllTUtCVE5jQnBsZmxxY2EwRUhNVVZfLTl2MW1LVE5QX05vRHVoWDBlSFZpcDlic1ZCUjhlZF9Kd29fQW1ZaVRTLTJWbE53TU5vUEFMcHBDclZBZzdnYkZ2MlJiUzJ6aXhoXzhyZk9RVWNmYW1KcGhCWklzNlZsNllPc1h3aFhZ0gHaAUFVX3lxTE5pWm95eG14S3dwbHl3aXoxNEMtMExnUS02a01ZNnE3aFp6TmY4Qy05Rzk3MW9DMmx2Y0Jxc3JNUEdyNnNDQ0RzNWRnM3RBTGdyUmJMNHV5dHY1bzZDQWdWcG1BM25iNldOTFZOdVczRWpyUnluU0VNZFhEdGg2bGpsZW1OazBUNFNPR0FMMm13WkRaYS1lUEhyNVlTS0JZTERsYU5nbkJZc3V3a3F3bHlYdWYyVHVEbDhGQ3l4X3JBbEpaQ0gydjJDWmMwNEhPcE9WVmpNTVU5VzB3?oc=5
 
-- Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters
-  Huang returns as Nvidia CEO after Trump intervention in
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5
+- Europe's biggest technology company SAP is planning to cut 10,000 jobs, as it prepares for ... - The Times of India
+  Europe's biggest technology company SAP is planning to cut 10,000 jobs, as it
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQN25teS1WVWQ2NEVhZ0RteENXMDVMWFVUSXRQZ1o4Rlh2LTFQSTFWbmR4WXZpV3RCdWNkbHBLbTYwSk9DbnZXLVhGRU1LSklWZURnVEFpSk4tRFFMSkZKcTVaek85VkY1bkFDRGVsLVdzeno0aTQtSlJPNHptTEZDc3l2dEFLYkJpbWxVSWFuWG1KSFVkMTlFT0dVUVZjSWpidFUtSnBLdTMzUG9MSEFyY1A1ZkZzUVRjNGZ2X0R5b3JRaU9iRTRzUjBDbUZmYm9zamVpcU5KNDVfZXBmcnlSUTdjcnpBQXYxY0RaQ3JWVXl2SHp6TV9BZGVmWUdtVi1K0gGGAkFVX3lxTE9nTzJzZXp2SnZpMlY4aTB1YlhQWkxvR29JNzJtclpTd2JaM0VELWNUVFYzQWo5Y3JJbmVNTkVyNTBkSlVTaUt3WWNPN3l4RWsza0VVbnU1LTdhTGY2bkRuUXBNQ3dmeHpFRWtZNWdOVThqQUVpYVVvUFVYVFRwZ3RkLXFWczlIOWg3RUQyakNwdnlEdEI4T2RaUXpmcFp6Mlh1YVB2LVVxMVloUnlXOHRaTkJiWmxhVEdxVlhIUEpqSlQya21VeEM4LXhFMHg4WVg3X2haMFpmMWpnemxFOHFTUWRDRWN2SFUtMF9pNFdKUUxvdlJPUWttMnB3S1ROdVlKOFF1Y2c?oc=5
 
-- Grand Theft Auto 6: how gaming technology is helping everyone from scientists to filmmakers - The Conversation
-  The Conversation looks at how gaming technology is helping everyone from scientists to
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2hrZ24xR09kNURmVFYyWUZ5TDJvWEtCUTBOdHRuNFh4Y0l0UGNFWk82Nl9FZlpOZVR0emdZWUJiNjBYVlNsOGRLeWF3b1FPVlAtYUZoZ1J5Wld3YjFrOG1fMDFEanJwY2U2aUpnWjBMM3Jxa2lXbTRkRG5mY1ozcGdBNDkxaDV6emtiQ0I5T0lRRmxUZTNaQk80aTZnMjVraThCd2o1SU5ROVNpNkt6MjYtVHdhM01DdzF3MXhGLUQ5dGM?oc=5
+- CEO Outlook Technology, Media & Telecommunications - kpmg.com
+  CEO Outlook Technology,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlUtSEhqRjA1d3dvQ3ZScEhoa05CenFXYS1Zc0k4R2hlcVdDVDFET01CUENZTUROWDJfRzZWQlBKOXlSX1lhYmNIS2VxSDNDRmp0Y1RXSGZVazloWW5OZFZ3RWh1MFo5ckhTYTNaRFowTG56N2sza1VfVTM1b2pYQ2VnSi1zT3NPbTdQLTBFOVBwYV9zN21tMlZsVGktY2tJaEx5bzIzQkl4bUhaZjNzU3QwVVg?oc=5
 
-- The staggering technology that helped Marc Marquez to historic eighth MotoGP title - Crash.net
-  The staggering technology that helped Marc Marquez to historic
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQbEZwSnpqVEFFckNLZmFHM0U1bVdJMkRzYjVQakVxYk05ZlBldFBVS0dkWFZYaDRrMHNUTFV5SlVDV1ZhR0xEV20xTmloVG9kSDllcmtQTEtfSFFfdm5DaUczWDRQWXBULTBzcUhZcEZPMXJGYzM1WmRzTFloVmNRSXphc09iMG1DVFZ6bUZWWnRVS09NOW1POS01TjM1LTJ2eUpSaWlWZVFOTWViUHFPbEFlb1Q?oc=5
+- How to become a technology managing director in a bank - eFinancialCareers
+  How to become a technology managing director in
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGpxekE0b1NsaTU1R0ZEcFlnbGhRazl4WE9mLXJfdlpHMWhyZERoRlBuQzlxRTVBWnlIQXNTQUsxU3FReGllVS1ya0hkSEVGR1FCRE50cnVjVTBPdlpYOVhtdlA0a244QjFlZlRzYWRRc1BobHVkSUt4dVFVZUNGQUJrOXNyUWxrM0FlcDI0Q2xUVk9pbE9TZg?oc=5
 
-- Kalyan Silks promoters eye minority stake sale at up to  ₹3,000 cr valuation
-  Kalyan Silks has hired Mumbai-based investment bank O3 Capital to arrange the transaction. The deal may involve a 20% stake sale,
-  🔗 https://www.livemint.com/companies/news/kalyan-silks-promoters-explore-minority-stake-sale-at-upto-rs-3-000-cr-valn-11795687123191.html
+- Hasina has become a ‘thorn’ in Bangladesh-India ties: Minister Humaiun Kobir - The Hindu
+  Hasina has become a ‘thorn�
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUxBVkpwbk5YMHhoMGx0c2Q1X3FQWWhEVW9tQlFtZng1b1RRZ2JKYjV1QmJmOERvU3Q0akxWdWo5M0VGRjdSU29DUU5kakhsY1MtTXBfUkVndzlqanhKZ29EbXluYnp2QTBiYlg3c2swdmlpRm5mSlNDdEtSdHUtVFFGQ3NEa2ctbV91VnNCb0djX1hRRHBUSnVEeHhnNDg3dHVGRkJHNzE0SHpTUGxqSUdVcUtacFAtdEhoX3laUWlYa0V2ckMzMjRHYVAxOEkwRWc40gHaAUFVX3lxTE5Ib04wMzFKSXpVUFFXV09ybUw2bWU5eV9KX2ppN1ljd0ROajJCT1BHQm5RZ2MwMFUyX09RaXVQTUtZU1VkblR2NXVMNkpucnotRmxuTHlud1gtN2MwTlJKTlQxZmFRYnB0RFNfcC1GNjZlNlZlMHJmYXg5NzY4SzBjUEo4Qjl1WWVDUDBoeGZRYklmcFJLYl9neDFDM3phT1VWRUg5SG1fNWtmUElEbS1CR2pTTGVPdnNzUFhoR0VtTnU2dFcyOXlyU0FrTXIwYUw0aDFKX0ttd2pR?oc=5
 
-- GSK spinoff Haleon eyes billion-dollar Healthkart bet
-  GSK spinoff Haleon is looking to tap India’s fast-growing health and wellness market. The deal, still in its early stages, could value the company at $1
-  🔗 https://www.livemint.com/companies/gsk-consumer-healthkart-acquisition-deal-11795688783370.html
+- Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
+  Ganga Water Treaty About To Lapse, Dh
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
 
-- Sleeping With a Subordinate Gets CEOs Fired. Except for Jensen Huang.
-  Across corporate America, lying to the board about a relationship with a subordinate has reliably ended
-  🔗 https://www.livemint.com/companies/sleeping-with-a-subordinate-gets-ceos-fired-except-for-jensen-huang-11795719825116.html
+- Global brands shift hundreds of millions in orders from Bangladesh to India amid worker protests - BusinessLine
+  Global brands shift hundreds of millions in orders from Bangladesh to India amid
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOck1BOGF4SkczTHFjMFJjRTBKdnRxUWZoempsdk1XdmJiY3UxS2RHRnk5RzA3LVhpSzBSUy1tZHBwQlBoSUhXNHlsTnNOcjNkS1FQeHZJMUVaS1k3aXZIRVR3b2VyUU1sTE00NGdCaGRGdkdKcXY4OWV4ZFVrc2JIWjN5b3VPWmNBRTJSWDZVS0wzX2JGT0NyWGRwODZMUUJTZWF2V0U2Tk9NU3I5MWIxanNVeHVtZnNjTFRDazNySWVST29hSWhKd1pfRTY0WnRFcWpvTmM1NEJyUm5ORWVtMjNKV0ZIaUk0MFo3UkkwONIB9gFBVV95cUxQeUJ4SUNDak5zQjVDLXhzSUdHc2NFcmdGSjFwSG5fTWI5RVQ3cURWZFUyQnRVemUxblZhUXhzb1pyT3hZWlJPT1dmdm11WllPa0hCZW9rMjhSQm90SVc0RW1udzdPbXZ1YTFlLXJ2Qklzcm52RDJRRTc4alNuYmRTOHloTGFMcUswbjR4RFRlSml6Q1EtM2pXN0RmNXVvbjltMW4xQWhsa19DX2hsbV9XdlVCSVVCazFTUkllUFIxSFUxWUVoR2JfNTA1VDJhdjlFUHVwd2hBaVY2T3FxUGZkbjVpWGdyVC0yRjhrdDlHVC1LeUZvTmc?oc=5
 
-- JioStar enters US streaming market with 7 Indian channels on Fubo; here’s how much it costs for Hindi entertainment
-  JioStar is bringing popular Indian TV channels, including Star Plus, Colors, MTV India and more in the US.
-  🔗 https://www.livemint.com/companies/news/jiostar-enters-us-streaming-market-with-7-indian-channels-on-fubo-here-s-how-much-it-costs-for-hindi-entertainment-11795712140816.html
+- Gandikota set to emerge as major adventure tourism hub in South India - The Hindu
+  Gandikota set to emerge as major adventure tourism
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUWt0NFc2dW5hcTNKZE5HRHMtRkhIRUhUMExIY0JpZzVWV1U3VlFsTEs5M3I0VFhHa3lrTGllS1c0M1lJVUZoVktXRHpFYms5MklUMGx3dUFzTGxJb2RBQXdUa0JiUEF6N0RCTmtFUGZqWjNPb1FqZmtRREFlZkRKTEhHNEM2bUJ6Y0NlUFI4SWEza2t6bVltd2c5aF81MkZHbEdEazB1NW5DemIzeU5NdXJGRy1NRm8zNFRyUmF5cHBJaTVQVjJEYjlER2FBVXZJbXY3LU03eWZyTmvSAeIBQVVfeXFMUG0zZlFoalRINzRIYkRsci1TNkt5OWwtSTVaVlI5dDlnRkp3cjJCU2dmNm9oOVlBQ3A3dGV2bGJnSXBxaEM1WkJ1REJZZFlmYi1zZ2Y3Y3V5X3lYMGlpTlVDMzNGM1JVc2dMdmVyQmcyMXRXV0lpTFBSa1Rwamg2Q1JpNFZoak9pYzRIdk5MSDRTU3pQVk54cW82YkdwM053dmhhXzI5OURZb0RhaFM3M3UwTGJpa2NPMDN3WEhIaWRRNFF1UC1KZmg0U3NtdG5aM3lsdDhhbUZfMk5lc3kyQ2lqQQ?oc=5
 
-- Can charity money be used to fight Tata Sons listing? Vijay Singh seeks urgent probe
-  Tata Trusts trustee Vijay Singh has approached the Charity Commissioner. Singh is questioning the use of charitable
-  🔗 https://www.livemint.com/companies/news/can-charity-money-be-used-to-fight-tata-sons-listing-vijay-singh-seeks-urgent-probe-11795705578505.html
+- '50% Increase In Seats, 25-Year Freeze': Centre's Delimitation Push - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1hxYWMyWHVHRGJlVUJvanFMQWtRTThyV0gxX2dPcFVPbUFCSF9wVmhzR085ZzBYaE1QbkhpWkhseFFaNDJ6M0dxazhOaFA2cDVnSzM0R3FIcGw2U2xmeG50dHFNeHoyZDI0QkFreUNWQ2JvajBPQWtha2J6ZnROeU5pSXFuUGtnN19lUkthSzdzd9IB-gFBVV95cUxPQ2xaU1JQSDJmOTRXQmh3cmV1My1tZDg3SHMtZjlaQlM1SVllQTF6OE96WHROQkRRMmwxQk1NSHN3NTBaeFZ6ZnZsdnhzQVJLa0ozTlVyOURILUREQTVQX3IyaFQ2VXNmQ0ozTlpuam10bVZDNER1akF0em92QXFWTXNkMGtYMEVCLW1SRmZuUlEwMUdMVndCdTc2MS1VdVpuNXI5b00zWXh3UDJCTloyekNkRnJHY0RheGRfeV9HenJPR0ZlTUdFLVE1ckowQThXdFJEbG9zenZBb2g2czdVT3dZVmtBeTNCX0dIOW1MM0poTG5NOVlfUmhR?oc=5
 
-- Stock market outlook today, 27 Nov: Sensex, Nifty prediction-DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues
-  At 6:39 AM, the Gift Nifty was trading around the 25,995 level, down over 37 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-16-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cue-11795740282564.html
+- Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates - CNBC
+  Dow rallies 500 points as benchmark heads for best week since April
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcmRfRzk2ZGwtRmpwS3RZYlhaTHdzQUFsOUFMeWlmdUJoQjlSb2FDUFJyaWtFUGw3VmdQVVJRZTFzbHBybHV0T0xyQlFNUVB4SDlmbWk1V0pEQXcyVmwtenNJWE82dV9VUkVKVGJ3QVRCOXNpSEpr0gF8QVVfeXFMTjFBd1l1a2dUcEE1SjBNRGpXVkJBcVBLdjM3M04zVGJxUnNmVk1qejMxZm1WV0xYdi0tNW4tQ2xHSkpzNjhxZkZ0amRPeldHT2RRai11VlNxUXhWTHhQa3pianhxX0hoWnNMRzVKYXBrR2wwMW16UGc0dlpVbQ?oc=5
 
-- Japan Bank Shares Risk Further Unwind as Funding Cost Bites
-  Japanese banking shares face increasing risk of an unwind. Higher interest rates provide less of a boost to profits
-  🔗 https://www.livemint.com/market/japan-bank-shares-risk-further-unwind-as-funding-cost-bites-11795741729928.html
+- US Futures Rally as Tech Rebound Gains Momentum: Markets Wrap - Bloomberg.com
+  US Futures Rally as Tech Rebound
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2ZFa0FGcTRjb19HbGxhWGxZc05LTXQ2WUJDTTQzc2hYNGVrbE5GQWtlcERpWGdVZmptNEFUM0ltY0ZobVhoaVo1Qzl4ZTFuNlBDSXFNaG9ETXFDOGdYSGppVVh1cW10TFJ5RG9sVVNYZmUzMHk2VlROMG9yVDM3UzRtM1VSbXlaYWlSN01McUlncVljREZvOGY5UzZaSjc3R3MzdWJUOF9oS3ZLU2c3bmV0MA?oc=5
 
-- Dollar lingers near 22-month peak as AI worries simmer
-  Dollar lingers
-  🔗 https://www.livemint.com/market/dollar-lingers-near-22-month-peak-as-ai-worries-simmer-11795741427005.html
+- Asian Markets Rise as AI Sentiment Stabilizes - WSJ
+  Asian Markets Rise as AI
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOcnRDczhFTDhaVXp4YmhscHNzZ3M3Z2JIVkNtdXJoQlJxai1BYnVtczd2Z3B6LThnRUVaWUxtVllXZnZWY0gzWVdTUlJSOFNMVXZfSWEwX2wyUVRnWUVtcVJlY1E4eXdaSk5wNDV2Z0lMSlBuUm13dy1saXp6ZlhLTTdBNHVLT1huOGpjYXNFbWtVdw?oc=5
 
-- Australian shares set for best week since August as financials, WiseTech rally
-  Australian shares set for best week since August
-  🔗 https://www.livemint.com/market/australian-shares-set-for-best-week-since-august-as-financials-wisetech-rally-11795741118736.html
+- Stock Market Highlights, Sensex Today: Sensex Closes 990 Points Lower Amid Mixed Global Cues - NDTV
+  Stock Market Highlights, Sensex Today: Sensex Closes
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDl6MlpsZWZjQ0pYSE5QSjdveVJzYnJ6UUFPQmJOTk9wMWNES3EzMGJubWpIUU5kZEVicnVNVzVfNmlUejBTaXF1Vkt5ZzRjWmZCd0pFc1pKcTE5cWVNSG9NLUtqMXZCN1lBN0pPc3pZeEVmMXpQR3FVb0ptOWI0dGhzbUdUSFlWNV84MjV1MzNBWVRkbkhwZThWVTVWOUgyc2piVkNfb01QbFVCSElxU3pGNUVKZENwbVdxSXVvRnlSbVdjV0g0WkNwMHBtN2ps0gHYAUFVX3lxTE0wVWdNUlVMWC1WNllySjMtT09fUTJ6Wk4tenBDMXkwbXUyMDJqVlJ6WVdHOGxKVFV6YmU0Um9lZlY5TUZfTml2UzNfTU5ZamZqQ0VKUDJVQlJ4NTZtcjJOOTFEWDRUbjc2RUVHV29fR2RGaUp4SmVmRVJQZDZHZWdCb1dLd1FjTmw5RmtWSFByU2NkNFJVTjBkdVNZRkJlLVc0R25qM2RXaU43ZTJEODR1UkR2U2VTZFVOZ3lVZmM0LS1KZVNMQXAxcFRzd284STJDUlJ5c2hrSQ?oc=5
 
-- AI Risk Sets Dollar for Longest Winning Run Since 2024
-  The dollar is poised for its longest monthly winning streak in two years. A rupture in the artificial intelligence trade and rising interest rates
-  🔗 https://www.livemint.com/market/ai-risk-sets-dollar-for-longest-winning-run-since-2024-11795741053164.html
+- Asian stock markets rise after earlier tech rout - Al Jazeera
+  Asian stock markets rise after earlier tech
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGVRWWVjMXZERWVTSkhGRDFoSTFXVE1NeGY4cVdYSmQ0MkQwUFNnSXU2enI2ckEzREZrTmFVWFhMVVNKbnhuc3dQSjB1X3JTN2dNeWNwNGhFcDJmWUYzSnAzeUQyWHlBU21sY1VWWHl6a2RuRWRwdmZ1Y1NtSFpkcGs0RHR0T1RuUVJZREtCMm44RWNra3FyNtIBngFBVV95cUxNZUR4RVgzSXFQeEp5WktydzV5NjF4eU1XblVwdVRnUEh6MEZ5a1hvZmI1QmVuM0VaQkd2dVpQRGhIZ09IeEp4ZTl2WHpfNVIybjJ5X1Z2SElYUzl3UndYNkYyME5rNHoxeUt5Tmd2QVJud3FDb3p5Vk1MRnJRc3l3bkZ0eng3ZzUtVVZuSlVmNUdZMzVGWDZEYmlYWVFaUQ?oc=5
 
-- Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips
-  Kazakhstan boosts AI cooperation with Russia.
-  🔗 https://www.livemint.com/technology/kazakhstan-boosts-ai-cooperation-with-russia-which-is-hungry-for-advanced-us-chips-11795718842030.html
+- Pizza history: AI agent’s cardless purchase is a first for UK - The Guardian
+  Pizza history: AI agent’s card
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQeG05enNvR29yXzZYN1FpcEZ3a0sxZFlvSTdieDA3cjE2Vm80TjJDcGVDdVRnYkp6RHN1a2N0N3ByaDRjb3ZoNHh0cUJHRHlKRTZRVVY4dVM3OGRWMjRjaUtSV1NwQ2h0UVZsNVBqZTlENV9xckpJLVdGbE1seVJadE8wR1lnZUxGUkd3RDhqeDBoX2FNY281cmJydmxPU0MtZFRNMzZGVmRIMTVHODh2OQ?oc=5
 
-- 1Password data breach: How hackers accessed its systems, what data was exposed and are passwords safe?
-  1Password disclosed a security breach in which hackers accessed backend systems. The company said stored passwords, Secret Keys and encrypted vaults remain safe.
-  🔗 https://www.livemint.com/technology/1password-data-breach-how-hackers-accessed-its-systems-what-data-was-exposed-and-are-passwords-safe-11795690196474.html
+- Law students should harness benefits of modern technology, says judge - The Hindu
+  Law students should harness benefits of modern technology,
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVpSMnE2LUdOQzE4N2w2elh4VlB6QjFrRVRWdjJGVVl5enJ3cGdIWXZSWUNUVW1xWWx2ZFFsSC11LXI4dDJIcnZfTEt4UWwxenR4WHllTUtCVE5jQnBsZmxxY2EwRUhNVVZfLTl2MW1LVE5QX05vRHVoWDBlSFZpcDlic1ZCUjhlZF9Kd29fQW1ZaVRTLTJWbE53TU5vUEFMcHBDclZBZzdnYkZ2MlJiUzJ6aXhoXzhyZk9RVWNmYW1KcGhCWklzNlZsNllPc1h3aFhZ0gHaAUFVX3lxTE5pWm95eG14S3dwbHl3aXoxNEMtMExnUS02a01ZNnE3aFp6TmY4Qy05Rzk3MW9DMmx2Y0Jxc3JNUEdyNnNDQ0RzNWRnM3RBTGdyUmJMNHV5dHY1bzZDQWdWcG1BM25iNldOTFZOdVczRWpyUnluU0VNZFhEdGg2bGpsZW1OazBUNFNPR0FMMm13WkRaYS1lUEhyNVlTS0JZTERsYU5nbkJZc3V3a3F3bHlYdWYyVHVEbDhGQ3l4X3JBbEpaQ0gydjJDWmMwNEhPcE9WVmpNTVU5VzB3?oc=5
 
-- Vivo X500 series launched in India with 200MP ZEISS camera, 7,800mAh battery: Check price and specifications
-  Vivo has launched the X500, X500 Pro and X500pro Max in India. Prices start at  ₹1,19,999, with sales beginning on December 3. Vivo Watch GT 2 smartwatch
-  🔗 https://www.livemint.com/technology/gadgets/vivo-x500-series-launched-in-india-with-200mp-zeiss-camera-7-800mah-battery-check-price-and-specifications-11795685233675.html
+- Europe's biggest technology company SAP is planning to cut 10,000 jobs, as it prepares for ... - The Times of India
+  Europe's biggest technology company SAP is planning to cut 10,000 jobs, as it
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQN25teS1WVWQ2NEVhZ0RteENXMDVMWFVUSXRQZ1o4Rlh2LTFQSTFWbmR4WXZpV3RCdWNkbHBLbTYwSk9DbnZXLVhGRU1LSklWZURnVEFpSk4tRFFMSkZKcTVaek85VkY1bkFDRGVsLVdzeno0aTQtSlJPNHptTEZDc3l2dEFLYkJpbWxVSWFuWG1KSFVkMTlFT0dVUVZjSWpidFUtSnBLdTMzUG9MSEFyY1A1ZkZzUVRjNGZ2X0R5b3JRaU9iRTRzUjBDbUZmYm9zamVpcU5KNDVfZXBmcnlSUTdjcnpBQXYxY0RaQ3JWVXl2SHp6TV9BZGVmWUdtVi1K0gGGAkFVX3lxTE9nTzJzZXp2SnZpMlY4aTB1YlhQWkxvR29JNzJtclpTd2JaM0VELWNUVFYzQWo5Y3JJbmVNTkVyNTBkSlVTaUt3WWNPN3l4RWsza0VVbnU1LTdhTGY2bkRuUXBNQ3dmeHpFRWtZNWdOVThqQUVpYVVvUFVYVFRwZ3RkLXFWczlIOWg3RUQyakNwdnlEdEI4T2RaUXpmcFp6Mlh1YVB2LVVxMVloUnlXOHRaTkJiWmxhVEdxVlhIUEpqSlQya21VeEM4LXhFMHg4WVg3X2haMFpmMWpnemxFOHFTUWRDRWN2SFUtMF9pNFdKUUxvdlJPUWttMnB3S1ROdVlKOFF1Y2c?oc=5
 
-- Want to turn Apple's iPhone Duo into a mini laptop? New keyboard case adds trackpad and MagSafe support
-  Nøord has unveiled a $249 keyboard case for Apple's iPhone Duo. It features a built-in trackpad, five-row keyboard and MagSafe connectivity. Available in Black
-  🔗 https://www.livemint.com/technology/gadgets/want-to-turn-apples-iphone-duo-into-a-mini-laptop-new-keyboard-case-adds-trackpad-and-magsafe-support-11795680264021.html
+- CEO Outlook Technology, Media & Telecommunications - kpmg.com
+  CEO Outlook Technology,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlUtSEhqRjA1d3dvQ3ZScEhoa05CenFXYS1Zc0k4R2hlcVdDVDFET01CUENZTUROWDJfRzZWQlBKOXlSX1lhYmNIS2VxSDNDRmp0Y1RXSGZVazloWW5OZFZ3RWh1MFo5ckhTYTNaRFowTG56N2sza1VfVTM1b2pYQ2VnSi1zT3NPbTdQLTBFOVBwYV9zN21tMlZsVGktY2tJaEx5bzIzQkl4bUhaZjNzU3QwVVg?oc=5
 
-- Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
-  US chip curbs, distillation
-  🔗 https://www.livemint.com/technology/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-11795677671352.html
+- How to become a technology managing director in a bank - eFinancialCareers
+  How to become a technology managing director in
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGpxekE0b1NsaTU1R0ZEcFlnbGhRazl4WE9mLXJfdlpHMWhyZERoRlBuQzlxRTVBWnlIQXNTQUsxU3FReGllVS1ya0hkSEVGR1FCRE50cnVjVTBPdlpYOVhtdlA0a244QjFlZlRzYWRRc1BobHVkSUt4dVFVZUNGQUJrOXNyUWxrM0FlcDI0Q2xUVk9pbE9TZg?oc=5
 
-- Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap - Bloomberg
-  Stocks, Nasdaq Futures Cl
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5
+- Capital market industry hopes for relief in capital gains taxation in Budget 2027-28: Axis Capital MD
+  Capital market industry is hoping for some relief in capital gains taxation. A possible reduction in short-term capital gains tax, said Lakha Nair, Managing Director and Head of Corporate
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/capital-market-industry-hopes-for-relief-in-capital-gains-taxation-in-budget-2027-28-axis-capital-md/articleshow/136224186.cms
 
-- Markets News, Nov. 25, 2026: Nasdaq, S&P 500 Close Lower as AI Trade Remains Under Pressure; Nvidia Falls 4% - Investopedia
-  The Nasdaq, S&amp;P 500 Close Lower as AI Trade
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR?oc=5
+- US stocks edge higher as battered AI shares claw back losses: Stock Market Live Updates
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-gold-silver-price-coreqeave-nebius-meta-nvidia-ai-stocks-fed-rate-hike-treasury-yield-news-27th-november-2026/liveblog/136223511.cms
 
-- Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates - CNBC
-  Dow closes higher Wednesday, wiping out 1,100
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5Jd2QwOVppNGtIY3I5ZXgyVmZKQzJ3SzZvVnVydTJHQnliRXBCR2RiQTBMeXExQU16TnpPQzkwWVl2Q0FKV055NzJBNE4tMGQ0UmlFMFdnQ3o1OG9tR2JNd1Z6Ymk5cGtDVFBxZjJPT19jblIxZ2lwRdIBfkFVX3lxTE5qZGNISDFwMjNGQUoxc3ZlT1JFR1A5Zk1oTmJSX1kxWVFOWUZscTZGTWh2cHdfMW92SzVCbXdBR2o3YWJUVzN2TXhfOUdhSUZpdFNyNXBaUjdseWpuQklwaVgzaUlGdkJqNm54TWEyVTluWVFYVTZVMVptNV9xQQ?oc=5
+- India bonds slump as oil spike adds to RBI hike bets
+  Indian government bonds experienced a decline this week. The benchmark bond yield reached its highest point in a week at 7.2650% on Friday. Analysts are anticipating a potential increase in interest rates from the Reserve Bank of India.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-as-oil-spike-adds-to-rbi-hike-bets/articleshow/136221243.cms
 
-- Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia - CNBC
-  The Nasdaq surges 6% in its best day since April 2025 as Jensen Huang
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5
+- Ion Exchange India among 6 stocks hitting 52-week low; shares slipped up to 20% in a month
+  Six BSE 1000 stocks, including Dishman Carbogen Amcis, Happiest Minds and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ion-exchange-india-among-6-stocks-hitting-52-week-low-shares-slipped-up-to-20-in-a-month/slideshow/136219516.cms
 
-- Copper shows how AI is messing with markets - The Economist
-  Copper shows how AI is messing
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkNJR0dsTmd6dEd5S0RHa01YZVpFV3EzcXA5d1V0MGJFOWJRSVpQeVZncWVTRmJ1VjBSTFRCeEgybFMzS3JZcHhVZUo3NFVxTUxfV2NvNnEwR1ZIQXI3dXc1eWs1Y0Z0VGpETE9OTkM4T2Z6b2pURGhYWF9ud1pTMGhtRjFaR0NjMXNoV01kOVlYazg3bVJ2N3V3aXdtbTZUbUtoLQ?oc=5
+- Eurozone bond yields rise as investors return to riskier assets, oil prices rebound
+  Eurozone government bond yields edged higher as investors shifted back towards riskier assets. Money markets pricing in two 25-bps rate hikes by June 2027, despite expectations of a weekly decline in yields.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-investors-return-to-riskier-assets-oil-prices-rebound/articleshow/136218279.cms
 
-- Global Market Today: Asian stocks rise for second day, crude oil gains
-  The regional MSCI Asia Pacific equities gauge rose 0.6% on Friday. Gauges
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-for-second-day-crude-oil-gains/articleshow/136206178.cms
+- Hasina has become a ‘thorn’ in Bangladesh-India ties: Minister Humaiun Kobir - The Hindu
+  Hasina has become a ‘thorn�
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUxBVkpwbk5YMHhoMGx0c2Q1X3FQWWhEVW9tQlFtZng1b1RRZ2JKYjV1QmJmOERvU3Q0akxWdWo5M0VGRjdSU29DUU5kakhsY1MtTXBfUkVndzlqanhKZ29EbXluYnp2QTBiYlg3c2swdmlpRm5mSlNDdEtSdHUtVFFGQ3NEa2ctbV91VnNCb0djX1hRRHBUSnVEeHhnNDg3dHVGRkJHNzE0SHpTUGxqSUdVcUtacFAtdEhoX3laUWlYa0V2ckMzMjRHYVAxOEkwRWc40gHaAUFVX3lxTE5Ib04wMzFKSXpVUFFXV09ybUw2bWU5eV9KX2ppN1ljd0ROajJCT1BHQm5RZ2MwMFUyX09RaXVQTUtZU1VkblR2NXVMNkpucnotRmxuTHlud1gtN2MwTlJKTlQxZmFRYnB0RFNfcC1GNjZlNlZlMHJmYXg5NzY4SzBjUEo4Qjl1WWVDUDBoeGZRYklmcFJLYl9neDFDM3phT1VWRUg5SG1fNWtmUElEbS1CR2pTTGVPdnNzUFhoR0VtTnU2dFcyOXlyU0FrTXIwYUw0aDFKX0ttd2pR?oc=5
 
-- Ashiana Housing JV buys 10-acre land in Chennai for senior living project, eyes Rs 1,100 cr revenue
-  Ashiana Housing Ltd recently revealed its acquisition of nearly 10 acres in Chennai aimed at a senior living initiative. The project estimates a saleable area of around 9 lakh square feet. The land purchase cost remains undisclosed.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ashiana-housing-jv-buys-10-acre-land-in-chennai-for-senior-living-project-eyes-rs-1100-cr-revenue/articleshow/136197134.cms
+- Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
+  Ganga Water Treaty About To Lapse, Dh
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
 
-- Market Trading Guide: Tech Mahindra, Angel One among 5 stock recommendations for Friday
-  Market experts recommend five stocks for Friday, including Tech Mahindra, Angel One, Tata Consumer, Kans
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tech-mahindra-angel-one-among-5-stock-recommendations-for-friday/slideshow/136196068.cms
+- Global brands shift hundreds of millions in orders from Bangladesh to India amid worker protests - BusinessLine
+  Global brands shift hundreds of millions in orders from Bangladesh to India amid
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOck1BOGF4SkczTHFjMFJjRTBKdnRxUWZoempsdk1XdmJiY3UxS2RHRnk5RzA3LVhpSzBSUy1tZHBwQlBoSUhXNHlsTnNOcjNkS1FQeHZJMUVaS1k3aXZIRVR3b2VyUU1sTE00NGdCaGRGdkdKcXY4OWV4ZFVrc2JIWjN5b3VPWmNBRTJSWDZVS0wzX2JGT0NyWGRwODZMUUJTZWF2V0U2Tk9NU3I5MWIxanNVeHVtZnNjTFRDazNySWVST29hSWhKd1pfRTY0WnRFcWpvTmM1NEJyUm5ORWVtMjNKV0ZIaUk0MFo3UkkwONIB9gFBVV95cUxQeUJ4SUNDak5zQjVDLXhzSUdHc2NFcmdGSjFwSG5fTWI5RVQ3cURWZFUyQnRVemUxblZhUXhzb1pyT3hZWlJPT1dmdm11WllPa0hCZW9rMjhSQm90SVc0RW1udzdPbXZ1YTFlLXJ2Qklzcm52RDJRRTc4alNuYmRTOHloTGFMcUswbjR4RFRlSml6Q1EtM2pXN0RmNXVvbjltMW4xQWhsa19DX2hsbV9XdlVCSVVCazFTUkllUFIxSFUxWUVoR2JfNTA1VDJhdjlFUHVwd2hBaVY2T3FxUGZkbjVpWGdyVC0yRjhrdDlHVC1LeUZvTmc?oc=5
 
-- India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks
-  Indian government bonds experienced a decline as oil prices increased due to geopolitical tensions in the Middle East. The Reserve Bank of India emphasized broad-based food inflation pressures, complicating the economic landscape. Retail inflation had already surpassed the RBI's threshold
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136193320.cms
+- Gandikota set to emerge as major adventure tourism hub in South India - The Hindu
+  Gandikota set to emerge as major adventure tourism
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUWt0NFc2dW5hcTNKZE5HRHMtRkhIRUhUMExIY0JpZzVWV1U3VlFsTEs5M3I0VFhHa3lrTGllS1c0M1lJVUZoVktXRHpFYms5MklUMGx3dUFzTGxJb2RBQXdUa0JiUEF6N0RCTmtFUGZqWjNPb1FqZmtRREFlZkRKTEhHNEM2bUJ6Y0NlUFI4SWEza2t6bVltd2c5aF81MkZHbEdEazB1NW5DemIzeU5NdXJGRy1NRm8zNFRyUmF5cHBJaTVQVjJEYjlER2FBVXZJbXY3LU03eWZyTmvSAeIBQVVfeXFMUG0zZlFoalRINzRIYkRsci1TNkt5OWwtSTVaVlI5dDlnRkp3cjJCU2dmNm9oOVlBQ3A3dGV2bGJnSXBxaEM1WkJ1REJZZFlmYi1zZ2Y3Y3V5X3lYMGlpTlVDMzNGM1JVc2dMdmVyQmcyMXRXV0lpTFBSa1Rwamg2Q1JpNFZoak9pYzRIdk5MSDRTU3pQVk54cW82YkdwM053dmhhXzI5OURZb0RhaFM3M3UwTGJpa2NPMDN3WEhIaWRRNFF1UC1KZmg0U3NtdG5aM3lsdDhhbUZfMk5lc3kyQ2lqQQ?oc=5
 
-- NSE among 6 stocks hitting 52-week highs; stock rallies up to 35% in a month
-  Six BSE 100 stocks, including NSE, DLF and Prestige Estates, hit fresh 52-week
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-among-6-stocks-hitting-52-week-highs-stock-rallies-up-to-35-in-a-month/slideshow/136192775.cms
+- '50% Increase In Seats, 25-Year Freeze': Centre's Delimitation Push - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1hxYWMyWHVHRGJlVUJvanFMQWtRTThyV0gxX2dPcFVPbUFCSF9wVmhzR085ZzBYaE1QbkhpWkhseFFaNDJ6M0dxazhOaFA2cDVnSzM0R3FIcGw2U2xmeG50dHFNeHoyZDI0QkFreUNWQ2JvajBPQWtha2J6ZnROeU5pSXFuUGtnN19lUkthSzdzd9IB-gFBVV95cUxPQ2xaU1JQSDJmOTRXQmh3cmV1My1tZDg3SHMtZjlaQlM1SVllQTF6OE96WHROQkRRMmwxQk1NSHN3NTBaeFZ6ZnZsdnhzQVJLa0ozTlVyOURILUREQTVQX3IyaFQ2VXNmQ0ozTlpuam10bVZDNER1akF0em92QXFWTXNkMGtYMEVCLW1SRmZuUlEwMUdMVndCdTc2MS1VdVpuNXI5b00zWXh3UDJCTloyekNkRnJHY0RheGRfeV9HenJPR0ZlTUdFLVE1ckowQThXdFJEbG9zenZBb2g2czdVT3dZVmtBeTNCX0dIOW1MM0poTG5NOVlfUmhR?oc=5
 
-- Big, fat Bihar wedding makes global headlines - The Times of India
-  Big, fat Bihar wedding makes global headlines
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUlfQjRoMWNDZWJrb1ZSMU9Ec0l1VXlpbGZUVnhwS1dMZUVXQ2pxUTYtQXhlbjlISDdMdlNQOEdzc2RUcHFMLWxaU0hMcGQ2OVlJby1nUVVFN056dW02WERyUGhTclppbWRPUHdpWVd5S1BvODkzeGZNbHllWjgxMXV4V2oyUlNxLVNEQ1J4c1N4dldXZHBKT0k4SkxJY0h1d1dkRE9wX3gxV3RkWUZMVzZn0gG3AUFVX3lxTE5FRFFUTUU1NlI4QzZneEN0TFBEWTM5WTg2VmtKakg1ZmJvN1g2YWx1TzM2UFFnWHJ1MGl3V0lEbXkxWjYzcTN5b2JORU5pUmx4QUlNYi03WENWMDVORy1sajc3b285dHZjclZkVlZyMVRHYVBNTEF2UVIzWnR4SXdxQXlsRjVYVVlaajBqYkdiR0k4VnlCdFJ0RFROdnZ6UHNZaXFtT2Z5WHpNSmpBU2VMamNPcGtKMA?oc=5
+- Rapido’s Ownly To Charge Customers For Deliveries Soon
+  Rapido’s food delivery platform Ownly is set to introduce distance-based delivery charges for customers in Bengaluru from November 30.
+  🔗 https://inc42.com/buzz/rapidos-ownly-to-charge-customers-for-deliveries-soon/
 
-- Glasses For Plates, Cartons For Food At Anant Singh's Daughter's Wedding - NDTV
-  Anant Singh's daughter is getting married.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2w3STdFZFo5a29raEtob2xsaHVpTmxOTW9Rb092aXdUYVZFY1NWSzZmWFhHdjQzc3JWeWhYYnlSRTJDQXlFUlNjemh0OWktSVM5ekZqa3ZlQTBwNVRUWTZYNHhVRzlRRlhNVkNjUzJtNUdCNUN0ZHY4VzdtUm1OeG1OZ3NROXhFTDZxNVc3dDYyTHlXQkNGVmJuVGpxWk5pTXd1NERndWxnY2pfRF9B0gG3AUFVX3lxTFBmNW5ubjFrNm5mQ0FuYXNaa0tTVzNOUl9OUlE3aUlyMWRQM2h5ellOVzNRcUpvdGJuRVR0SHhCSGlVcVZobnBiVlVXSU5BdUNtajRoZHVGbV9XWTBNbUVMQzhCOXJfYWR2aXZJT21xUjlscTQtREgyMGVZWi1nWm5NNXpEMVh0Ulh0Z0tiUVhUcmdhS2RULTFMSlNYdkpxYzlZZFVwSUtRQUFNZUdCdWRzVGdsejJUdw?oc=5
+- CERT-In Flags Five Cybersecurity Vulnerabilities In WhatsApp, Warns Of Data Exposure
+  India&#8217;s nodal cybersecurity agency  CERT-In has flagged five vulnerabilities in WhatsApp which can be exploited by attackers.
+  🔗 https://inc42.com/buzz/cert-in-flags-five-cybersecurity-vulnerabilities-in-whatsapp-warns-of-data-exposure/
 
-- 'Koi Cinema Thodi Hai': Anant Singh Turns Daughter's Wedding Into Fair - NDTV
-  'Koi Cinema Thodi Hai': An
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNbkloYjZoN0VCd3g1MmUwX3lFcFZBNFprTXNMUndtek9hQWFSMFhQekJRTDBXQUVoQzlDY0tTckViLXdwVGR2OTJUWldKVV8xbFZQWlVrWWVhb2RSYkJqYzJGeVdzdElIVl9LcWw3NTZTUExLYlUyQTNPbE9ZNGoyeEtJV2FlUzdTNWRFVUxYck5Vcnhqc1BjVjBELWJkTko4SllpX0JQY2wybDFTXzZ0TdIBuAFBVV95cUxQUkNCTnB5NnhTM05tMzNrUXlYT2Z4anVSNlgtZlA0Q1ZoVGVFal95VTZ0SE5oT1hhQkxkU0J3ZFhDcmdnaTZnTVB0T3owaTJqcUVrQWNJbS1PS2F0UGRIdldEalFwa01QUzR4endOTkFFbl9nUjNGcG5SZkxPLUVXWU9md0RnLUVjX2JtVElTWVlVQmlmVXE5el9rbGk0eFV3Y3VTcGVUSlFtNk54R0pscF85bkNlOGVo?oc=5
+- Delhi HC Denies TikTok Interim Relief In ‘TIKTOK’ Trademark Dispute
+  The Delhi High Court (HC) has refused to grant TikTok an interim injunction in its dispute with a Ludhiana-based businessman.
+  🔗 https://inc42.com/buzz/delhi-hc-denies-tiktok-interim-relief-in-tiktok-trademark-dispute/
 
-- US Proposes 25% Tariffs On India. Centre Says "Notice Under Examination" - NDTV
-  US Proposes 25% Tariffs On India
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEl4NmJfcDRGbXBWRm5IUlNFN1dUS2R2RnMtaUptcWdFcEh3QlZOcHE4V2FnMnZPWXV6MzZZSERwdW5HdXBnWmRuX3c4RUFUYlNFQkt2VHhnOHBjeWtUTmJ6RlJBNjJNdVBVbmFyb1dHMjRWXzZDdFVZeGtLV1R1RFRUaFpHc0NPMG8zSGhnSlZjalJCcTNLT0pPaWNOVzhUTjAtUnlUYi1xU2FlQ3fSAbYBQVVfeXFMTWpZZGViWGktczlhODhISXIzR0gzbVRTd0NrTTd1TjE4SmdwZ25HSlRJRFBXTnNjTUNMd3BoLXdEQ2hTZ2NjRDYyNUV0UG0xbjcxNFJNTVc1bVJZTEJpM3QxZ24wUG1kbjFuX0JEanNQanEzcHBiTXlKQjlzMnpiMUZSTXB1X05WS3BkdW8xZUJYZGUwa0RHNkRzcHdRUVVEeFhkZE5icVVkMFYwM1NEbjhmV2pJVWc?oc=5
+- Can Black Friday Sales Unlock Fresh Demand For D2C Brands After Diwali?
+  Black Friday gives India’s ecommerce and D2C brands another opportunity to reach shoppers who held back during Diwali.
+  🔗 https://inc42.com/buzz/can-black-friday-sales-unlock-fresh-demand-for-d2c-brands-after-diwali/
 
-- U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken - The Hindu
-  U.S. announces new 25% tariffs on India, second-highest in the
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5
+- Samay Raina Becomes First YouTube Creator Globally To Cross 10 Lakh Paid Channel Members
+  Stand-up comedian Samay Raina has become the first YouTube creator, globally, to cross 10 Lakh paid channel memberships.
+  🔗 https://inc42.com/buzz/samay-raina-becomes-first-youtube-creator-globally-to-cross-10-lakh-paid-channel-members/
 
-- Apple To Open Seventh India Store In Hyderabad’s Kukatpally
-  Apple to open seventh India store in Hyderabad’s Kukatpally. The iPhone maker is all set to launch its seventh official store.
-  🔗 https://inc42.com/buzz/apple-to-open-seventh-india-store-in-hyderabads-kukatpally/
+- Hasina has become a ‘thorn’ in Bangladesh-India ties: Minister Humaiun Kobir - The Hindu
+  Hasina has become a ‘thorn�
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUxBVkpwbk5YMHhoMGx0c2Q1X3FQWWhEVW9tQlFtZng1b1RRZ2JKYjV1QmJmOERvU3Q0akxWdWo5M0VGRjdSU29DUU5kakhsY1MtTXBfUkVndzlqanhKZ29EbXluYnp2QTBiYlg3c2swdmlpRm5mSlNDdEtSdHUtVFFGQ3NEa2ctbV91VnNCb0djX1hRRHBUSnVEeHhnNDg3dHVGRkJHNzE0SHpTUGxqSUdVcUtacFAtdEhoX3laUWlYa0V2ckMzMjRHYVAxOEkwRWc40gHaAUFVX3lxTE5Ib04wMzFKSXpVUFFXV09ybUw2bWU5eV9KX2ppN1ljd0ROajJCT1BHQm5RZ2MwMFUyX09RaXVQTUtZU1VkblR2NXVMNkpucnotRmxuTHlud1gtN2MwTlJKTlQxZmFRYnB0RFNfcC1GNjZlNlZlMHJmYXg5NzY4SzBjUEo4Qjl1WWVDUDBoeGZRYklmcFJLYl9neDFDM3phT1VWRUg5SG1fNWtmUElEbS1CR2pTTGVPdnNzUFhoR0VtTnU2dFcyOXlyU0FrTXIwYUw0aDFKX0ttd2pR?oc=5
 
-- WhatsApp To Partner Jio To Launch Int’l Data eSIM Feature In India
-  WhatsApp India To Partner Jio To Launch Int’l Data eSIM Feature.
-  🔗 https://inc42.com/buzz/whatsapp-to-partner-jio-to-launch-intl-data-esim-feature-in-india/
+- Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
+  Ganga Water Treaty About To Lapse, Dh
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
 
-- CERT-In Flags High-Severity Vulnerability In e-Governance Platform DIGIT
-  The Indian Computer Emergency Response Team (CERT-In) has issued a high-severity vulnerability note, warning about a SQL injection flaw in DIGIT.
-  🔗 https://inc42.com/buzz/cert-in-flags-high-severity-vulnerability-in-e-governance-platform-digit/
+- Global brands shift hundreds of millions in orders from Bangladesh to India amid worker protests - BusinessLine
+  Global brands shift hundreds of millions in orders from Bangladesh to India amid
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOck1BOGF4SkczTHFjMFJjRTBKdnRxUWZoempsdk1XdmJiY3UxS2RHRnk5RzA3LVhpSzBSUy1tZHBwQlBoSUhXNHlsTnNOcjNkS1FQeHZJMUVaS1k3aXZIRVR3b2VyUU1sTE00NGdCaGRGdkdKcXY4OWV4ZFVrc2JIWjN5b3VPWmNBRTJSWDZVS0wzX2JGT0NyWGRwODZMUUJTZWF2V0U2Tk9NU3I5MWIxanNVeHVtZnNjTFRDazNySWVST29hSWhKd1pfRTY0WnRFcWpvTmM1NEJyUm5ORWVtMjNKV0ZIaUk0MFo3UkkwONIB9gFBVV95cUxQeUJ4SUNDak5zQjVDLXhzSUdHc2NFcmdGSjFwSG5fTWI5RVQ3cURWZFUyQnRVemUxblZhUXhzb1pyT3hZWlJPT1dmdm11WllPa0hCZW9rMjhSQm90SVc0RW1udzdPbXZ1YTFlLXJ2Qklzcm52RDJRRTc4alNuYmRTOHloTGFMcUswbjR4RFRlSml6Q1EtM2pXN0RmNXVvbjltMW4xQWhsa19DX2hsbV9XdlVCSVVCazFTUkllUFIxSFUxWUVoR2JfNTA1VDJhdjlFUHVwd2hBaVY2T3FxUGZkbjVpWGdyVC0yRjhrdDlHVC1LeUZvTmc?oc=5
 
-- GEF Capital Partners Announces First Close Of India Climate Fund IV At $615 Mn
-  GEF Capital Partners Announces First Close Of India Climate Fund IV At $615 Mn.
-  🔗 https://inc42.com/buzz/gef-capital-partners-announces-first-close-of-india-climate-fund-iv-at-615-mn/
+- Gandikota set to emerge as major adventure tourism hub in South India - The Hindu
+  Gandikota set to emerge as major adventure tourism
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUWt0NFc2dW5hcTNKZE5HRHMtRkhIRUhUMExIY0JpZzVWV1U3VlFsTEs5M3I0VFhHa3lrTGllS1c0M1lJVUZoVktXRHpFYms5MklUMGx3dUFzTGxJb2RBQXdUa0JiUEF6N0RCTmtFUGZqWjNPb1FqZmtRREFlZkRKTEhHNEM2bUJ6Y0NlUFI4SWEza2t6bVltd2c5aF81MkZHbEdEazB1NW5DemIzeU5NdXJGRy1NRm8zNFRyUmF5cHBJaTVQVjJEYjlER2FBVXZJbXY3LU03eWZyTmvSAeIBQVVfeXFMUG0zZlFoalRINzRIYkRsci1TNkt5OWwtSTVaVlI5dDlnRkp3cjJCU2dmNm9oOVlBQ3A3dGV2bGJnSXBxaEM1WkJ1REJZZFlmYi1zZ2Y3Y3V5X3lYMGlpTlVDMzNGM1JVc2dMdmVyQmcyMXRXV0lpTFBSa1Rwamg2Q1JpNFZoak9pYzRIdk5MSDRTU3pQVk54cW82YkdwM053dmhhXzI5OURZb0RhaFM3M3UwTGJpa2NPMDN3WEhIaWRRNFF1UC1KZmg0U3NtdG5aM3lsdDhhbUZfMk5lc3kyQ2lqQQ?oc=5
 
-- [Update] Jio Takes JioAstro Offline, Says It Was A ‘Demo Survey’
-  Jio Platforms’ astrology platform JioAstro became publicly accessible. Hours later, the company appears to have removed it.
-  🔗 https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/
+- '50% Increase In Seats, 25-Year Freeze': Centre's Delimitation Push - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1hxYWMyWHVHRGJlVUJvanFMQWtRTThyV0gxX2dPcFVPbUFCSF9wVmhzR085ZzBYaE1QbkhpWkhseFFaNDJ6M0dxazhOaFA2cDVnSzM0R3FIcGw2U2xmeG50dHFNeHoyZDI0QkFreUNWQ2JvajBPQWtha2J6ZnROeU5pSXFuUGtnN19lUkthSzdzd9IB-gFBVV95cUxPQ2xaU1JQSDJmOTRXQmh3cmV1My1tZDg3SHMtZjlaQlM1SVllQTF6OE96WHROQkRRMmwxQk1NSHN3NTBaeFZ6ZnZsdnhzQVJLa0ozTlVyOURILUREQTVQX3IyaFQ2VXNmQ0ozTlpuam10bVZDNER1akF0em92QXFWTXNkMGtYMEVCLW1SRmZuUlEwMUdMVndCdTc2MS1VdVpuNXI5b00zWXh3UDJCTloyekNkRnJHY0RheGRfeV9HenJPR0ZlTUdFLVE1ckowQThXdFJEbG9zenZBb2g2czdVT3dZVmtBeTNCX0dIOW1MM0poTG5NOVlfUmhR?oc=5
 
-- Big, fat Bihar wedding makes global headlines - The Times of India
-  Big, fat Bihar wedding makes global headlines
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUlfQjRoMWNDZWJrb1ZSMU9Ec0l1VXlpbGZUVnhwS1dMZUVXQ2pxUTYtQXhlbjlISDdMdlNQOEdzc2RUcHFMLWxaU0hMcGQ2OVlJby1nUVVFN056dW02WERyUGhTclppbWRPUHdpWVd5S1BvODkzeGZNbHllWjgxMXV4V2oyUlNxLVNEQ1J4c1N4dldXZHBKT0k4SkxJY0h1d1dkRE9wX3gxV3RkWUZMVzZn0gG3AUFVX3lxTE5FRFFUTUU1NlI4QzZneEN0TFBEWTM5WTg2VmtKakg1ZmJvN1g2YWx1TzM2UFFnWHJ1MGl3V0lEbXkxWjYzcTN5b2JORU5pUmx4QUlNYi03WENWMDVORy1sajc3b285dHZjclZkVlZyMVRHYVBNTEF2UVIzWnR4SXdxQXlsRjVYVVlaajBqYkdiR0k4VnlCdFJ0RFROdnZ6UHNZaXFtT2Z5WHpNSmpBU2VMamNPcGtKMA?oc=5
+- Hasina has become a ‘thorn’ in Bangladesh-India ties: Minister Humaiun Kobir - The Hindu
+  Hasina has become a ‘thorn�
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQUxBVkpwbk5YMHhoMGx0c2Q1X3FQWWhEVW9tQlFtZng1b1RRZ2JKYjV1QmJmOERvU3Q0akxWdWo5M0VGRjdSU29DUU5kakhsY1MtTXBfUkVndzlqanhKZ29EbXluYnp2QTBiYlg3c2swdmlpRm5mSlNDdEtSdHUtVFFGQ3NEa2ctbV91VnNCb0djX1hRRHBUSnVEeHhnNDg3dHVGRkJHNzE0SHpTUGxqSUdVcUtacFAtdEhoX3laUWlYa0V2ckMzMjRHYVAxOEkwRWc40gHaAUFVX3lxTE5Ib04wMzFKSXpVUFFXV09ybUw2bWU5eV9KX2ppN1ljd0ROajJCT1BHQm5RZ2MwMFUyX09RaXVQTUtZU1VkblR2NXVMNkpucnotRmxuTHlud1gtN2MwTlJKTlQxZmFRYnB0RFNfcC1GNjZlNlZlMHJmYXg5NzY4SzBjUEo4Qjl1WWVDUDBoeGZRYklmcFJLYl9neDFDM3phT1VWRUg5SG1fNWtmUElEbS1CR2pTTGVPdnNzUFhoR0VtTnU2dFcyOXlyU0FrTXIwYUw0aDFKX0ttd2pR?oc=5
 
-- Glasses For Plates, Cartons For Food At Anant Singh's Daughter's Wedding - NDTV
-  Anant Singh's daughter is getting married.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2w3STdFZFo5a29raEtob2xsaHVpTmxOTW9Rb092aXdUYVZFY1NWSzZmWFhHdjQzc3JWeWhYYnlSRTJDQXlFUlNjemh0OWktSVM5ekZqa3ZlQTBwNVRUWTZYNHhVRzlRRlhNVkNjUzJtNUdCNUN0ZHY4VzdtUm1OeG1OZ3NROXhFTDZxNVc3dDYyTHlXQkNGVmJuVGpxWk5pTXd1NERndWxnY2pfRF9B0gG3AUFVX3lxTFBmNW5ubjFrNm5mQ0FuYXNaa0tTVzNOUl9OUlE3aUlyMWRQM2h5ellOVzNRcUpvdGJuRVR0SHhCSGlVcVZobnBiVlVXSU5BdUNtajRoZHVGbV9XWTBNbUVMQzhCOXJfYWR2aXZJT21xUjlscTQtREgyMGVZWi1nWm5NNXpEMVh0Ulh0Z0tiUVhUcmdhS2RULTFMSlNYdkpxYzlZZFVwSUtRQUFNZUdCdWRzVGdsejJUdw?oc=5
+- Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
+  Ganga Water Treaty About To Lapse, Dh
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
 
-- 'Koi Cinema Thodi Hai': Anant Singh Turns Daughter's Wedding Into Fair - NDTV
-  'Koi Cinema Thodi Hai': An
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNbkloYjZoN0VCd3g1MmUwX3lFcFZBNFprTXNMUndtek9hQWFSMFhQekJRTDBXQUVoQzlDY0tTckViLXdwVGR2OTJUWldKVV8xbFZQWlVrWWVhb2RSYkJqYzJGeVdzdElIVl9LcWw3NTZTUExLYlUyQTNPbE9ZNGoyeEtJV2FlUzdTNWRFVUxYck5Vcnhqc1BjVjBELWJkTko4SllpX0JQY2wybDFTXzZ0TdIBuAFBVV95cUxQUkNCTnB5NnhTM05tMzNrUXlYT2Z4anVSNlgtZlA0Q1ZoVGVFal95VTZ0SE5oT1hhQkxkU0J3ZFhDcmdnaTZnTVB0T3owaTJqcUVrQWNJbS1PS2F0UGRIdldEalFwa01QUzR4endOTkFFbl9nUjNGcG5SZkxPLUVXWU9md0RnLUVjX2JtVElTWVlVQmlmVXE5el9rbGk0eFV3Y3VTcGVUSlFtNk54R0pscF85bkNlOGVo?oc=5
+- Global brands shift hundreds of millions in orders from Bangladesh to India amid worker protests - BusinessLine
+  Global brands shift hundreds of millions in orders from Bangladesh to India amid
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOck1BOGF4SkczTHFjMFJjRTBKdnRxUWZoempsdk1XdmJiY3UxS2RHRnk5RzA3LVhpSzBSUy1tZHBwQlBoSUhXNHlsTnNOcjNkS1FQeHZJMUVaS1k3aXZIRVR3b2VyUU1sTE00NGdCaGRGdkdKcXY4OWV4ZFVrc2JIWjN5b3VPWmNBRTJSWDZVS0wzX2JGT0NyWGRwODZMUUJTZWF2V0U2Tk9NU3I5MWIxanNVeHVtZnNjTFRDazNySWVST29hSWhKd1pfRTY0WnRFcWpvTmM1NEJyUm5ORWVtMjNKV0ZIaUk0MFo3UkkwONIB9gFBVV95cUxQeUJ4SUNDak5zQjVDLXhzSUdHc2NFcmdGSjFwSG5fTWI5RVQ3cURWZFUyQnRVemUxblZhUXhzb1pyT3hZWlJPT1dmdm11WllPa0hCZW9rMjhSQm90SVc0RW1udzdPbXZ1YTFlLXJ2Qklzcm52RDJRRTc4alNuYmRTOHloTGFMcUswbjR4RFRlSml6Q1EtM2pXN0RmNXVvbjltMW4xQWhsa19DX2hsbV9XdlVCSVVCazFTUkllUFIxSFUxWUVoR2JfNTA1VDJhdjlFUHVwd2hBaVY2T3FxUGZkbjVpWGdyVC0yRjhrdDlHVC1LeUZvTmc?oc=5
 
-- US Proposes 25% Tariffs On India. Centre Says "Notice Under Examination" - NDTV
-  US Proposes 25% Tariffs On India
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEl4NmJfcDRGbXBWRm5IUlNFN1dUS2R2RnMtaUptcWdFcEh3QlZOcHE4V2FnMnZPWXV6MzZZSERwdW5HdXBnWmRuX3c4RUFUYlNFQkt2VHhnOHBjeWtUTmJ6RlJBNjJNdVBVbmFyb1dHMjRWXzZDdFVZeGtLV1R1RFRUaFpHc0NPMG8zSGhnSlZjalJCcTNLT0pPaWNOVzhUTjAtUnlUYi1xU2FlQ3fSAbYBQVVfeXFMTWpZZGViWGktczlhODhISXIzR0gzbVRTd0NrTTd1TjE4SmdwZ25HSlRJRFBXTnNjTUNMd3BoLXdEQ2hTZ2NjRDYyNUV0UG0xbjcxNFJNTVc1bVJZTEJpM3QxZ24wUG1kbjFuX0JEanNQanEzcHBiTXlKQjlzMnpiMUZSTXB1X05WS3BkdW8xZUJYZGUwa0RHNkRzcHdRUVVEeFhkZE5icVVkMFYwM1NEbjhmV2pJVWc?oc=5
+- Gandikota set to emerge as major adventure tourism hub in South India - The Hindu
+  Gandikota set to emerge as major adventure tourism
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUWt0NFc2dW5hcTNKZE5HRHMtRkhIRUhUMExIY0JpZzVWV1U3VlFsTEs5M3I0VFhHa3lrTGllS1c0M1lJVUZoVktXRHpFYms5MklUMGx3dUFzTGxJb2RBQXdUa0JiUEF6N0RCTmtFUGZqWjNPb1FqZmtRREFlZkRKTEhHNEM2bUJ6Y0NlUFI4SWEza2t6bVltd2c5aF81MkZHbEdEazB1NW5DemIzeU5NdXJGRy1NRm8zNFRyUmF5cHBJaTVQVjJEYjlER2FBVXZJbXY3LU03eWZyTmvSAeIBQVVfeXFMUG0zZlFoalRINzRIYkRsci1TNkt5OWwtSTVaVlI5dDlnRkp3cjJCU2dmNm9oOVlBQ3A3dGV2bGJnSXBxaEM1WkJ1REJZZFlmYi1zZ2Y3Y3V5X3lYMGlpTlVDMzNGM1JVc2dMdmVyQmcyMXRXV0lpTFBSa1Rwamg2Q1JpNFZoak9pYzRIdk5MSDRTU3pQVk54cW82YkdwM053dmhhXzI5OURZb0RhaFM3M3UwTGJpa2NPMDN3WEhIaWRRNFF1UC1KZmg0U3NtdG5aM3lsdDhhbUZfMk5lc3kyQ2lqQQ?oc=5
 
-- U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken - The Hindu
-  U.S. announces new 25% tariffs on India, second-highest in the
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5
-
-- Big, fat Bihar wedding makes global headlines - The Times of India
-  Big, fat Bihar wedding makes global headlines
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUlfQjRoMWNDZWJrb1ZSMU9Ec0l1VXlpbGZUVnhwS1dMZUVXQ2pxUTYtQXhlbjlISDdMdlNQOEdzc2RUcHFMLWxaU0hMcGQ2OVlJby1nUVVFN056dW02WERyUGhTclppbWRPUHdpWVd5S1BvODkzeGZNbHllWjgxMXV4V2oyUlNxLVNEQ1J4c1N4dldXZHBKT0k4SkxJY0h1d1dkRE9wX3gxV3RkWUZMVzZn0gG3AUFVX3lxTE5FRFFUTUU1NlI4QzZneEN0TFBEWTM5WTg2VmtKakg1ZmJvN1g2YWx1TzM2UFFnWHJ1MGl3V0lEbXkxWjYzcTN5b2JORU5pUmx4QUlNYi03WENWMDVORy1sajc3b285dHZjclZkVlZyMVRHYVBNTEF2UVIzWnR4SXdxQXlsRjVYVVlaajBqYkdiR0k4VnlCdFJ0RFROdnZ6UHNZaXFtT2Z5WHpNSmpBU2VMamNPcGtKMA?oc=5
-
-- Glasses For Plates, Cartons For Food At Anant Singh's Daughter's Wedding - NDTV
-  Anant Singh's daughter is getting married.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2w3STdFZFo5a29raEtob2xsaHVpTmxOTW9Rb092aXdUYVZFY1NWSzZmWFhHdjQzc3JWeWhYYnlSRTJDQXlFUlNjemh0OWktSVM5ekZqa3ZlQTBwNVRUWTZYNHhVRzlRRlhNVkNjUzJtNUdCNUN0ZHY4VzdtUm1OeG1OZ3NROXhFTDZxNVc3dDYyTHlXQkNGVmJuVGpxWk5pTXd1NERndWxnY2pfRF9B0gG3AUFVX3lxTFBmNW5ubjFrNm5mQ0FuYXNaa0tTVzNOUl9OUlE3aUlyMWRQM2h5ellOVzNRcUpvdGJuRVR0SHhCSGlVcVZobnBiVlVXSU5BdUNtajRoZHVGbV9XWTBNbUVMQzhCOXJfYWR2aXZJT21xUjlscTQtREgyMGVZWi1nWm5NNXpEMVh0Ulh0Z0tiUVhUcmdhS2RULTFMSlNYdkpxYzlZZFVwSUtRQUFNZUdCdWRzVGdsejJUdw?oc=5
-
-- 'Koi Cinema Thodi Hai': Anant Singh Turns Daughter's Wedding Into Fair - NDTV
-  'Koi Cinema Thodi Hai': An
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNbkloYjZoN0VCd3g1MmUwX3lFcFZBNFprTXNMUndtek9hQWFSMFhQekJRTDBXQUVoQzlDY0tTckViLXdwVGR2OTJUWldKVV8xbFZQWlVrWWVhb2RSYkJqYzJGeVdzdElIVl9LcWw3NTZTUExLYlUyQTNPbE9ZNGoyeEtJV2FlUzdTNWRFVUxYck5Vcnhqc1BjVjBELWJkTko4SllpX0JQY2wybDFTXzZ0TdIBuAFBVV95cUxQUkNCTnB5NnhTM05tMzNrUXlYT2Z4anVSNlgtZlA0Q1ZoVGVFal95VTZ0SE5oT1hhQkxkU0J3ZFhDcmdnaTZnTVB0T3owaTJqcUVrQWNJbS1PS2F0UGRIdldEalFwa01QUzR4endOTkFFbl9nUjNGcG5SZkxPLUVXWU9md0RnLUVjX2JtVElTWVlVQmlmVXE5el9rbGk0eFV3Y3VTcGVUSlFtNk54R0pscF85bkNlOGVo?oc=5
-
-- US Proposes 25% Tariffs On India. Centre Says "Notice Under Examination" - NDTV
-  US Proposes 25% Tariffs On India
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEl4NmJfcDRGbXBWRm5IUlNFN1dUS2R2RnMtaUptcWdFcEh3QlZOcHE4V2FnMnZPWXV6MzZZSERwdW5HdXBnWmRuX3c4RUFUYlNFQkt2VHhnOHBjeWtUTmJ6RlJBNjJNdVBVbmFyb1dHMjRWXzZDdFVZeGtLV1R1RFRUaFpHc0NPMG8zSGhnSlZjalJCcTNLT0pPaWNOVzhUTjAtUnlUYi1xU2FlQ3fSAbYBQVVfeXFMTWpZZGViWGktczlhODhISXIzR0gzbVRTd0NrTTd1TjE4SmdwZ25HSlRJRFBXTnNjTUNMd3BoLXdEQ2hTZ2NjRDYyNUV0UG0xbjcxNFJNTVc1bVJZTEJpM3QxZ24wUG1kbjFuX0JEanNQanEzcHBiTXlKQjlzMnpiMUZSTXB1X05WS3BkdW8xZUJYZGUwa0RHNkRzcHdRUVVEeFhkZE5icVVkMFYwM1NEbjhmV2pJVWc?oc=5
-
-- U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken - The Hindu
-  U.S. announces new 25% tariffs on India, second-highest in the
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5
+- '50% Increase In Seats, 25-Year Freeze': Centre's Delimitation Push - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1hxYWMyWHVHRGJlVUJvanFMQWtRTThyV0gxX2dPcFVPbUFCSF9wVmhzR085ZzBYaE1QbkhpWkhseFFaNDJ6M0dxazhOaFA2cDVnSzM0R3FIcGw2U2xmeG50dHFNeHoyZDI0QkFreUNWQ2JvajBPQWtha2J6ZnROeU5pSXFuUGtnN19lUkthSzdzd9IB-gFBVV95cUxPQ2xaU1JQSDJmOTRXQmh3cmV1My1tZDg3SHMtZjlaQlM1SVllQTF6OE96WHROQkRRMmwxQk1NSHN3NTBaeFZ6ZnZsdnhzQVJLa0ozTlVyOURILUREQTVQX3IyaFQ2VXNmQ0ozTlpuam10bVZDNER1akF0em92QXFWTXNkMGtYMEVCLW1SRmZuUlEwMUdMVndCdTc2MS1VdVpuNXI5b00zWXh3UDJCTloyekNkRnJHY0RheGRfeV9HenJPR0ZlTUdFLVE1ckowQThXdFJEbG9zenZBb2g2czdVT3dZVmtBeTNCX0dIOW1MM0poTG5NOVlfUmhR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +220,5 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2026-11-27 01:27:55 UTC_
+_Last updated: 2026-11-27 16:02:55 UTC_
