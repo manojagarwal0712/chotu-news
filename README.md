@@ -1,204 +1,224 @@
 # 📰 Daily News Summaries
 
-- '50% Increase In Seats, 25-Year Freeze': Centre's Delimitation Push - NDTV
-  '50% Increase In Seats
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1hxYWMyWHVHRGJlVUJvanFMQWtRTThyV0gxX2dPcFVPbUFCSF9wVmhzR085ZzBYaE1QbkhpWkhseFFaNDJ6M0dxazhOaFA2cDVnSzM0R3FIcGw2U2xmeG50dHFNeHoyZDI0QkFreUNWQ2JvajBPQWtha2J6ZnROeU5pSXFuUGtnN19lUkthSzdzd9IB-gFBVV95cUxPQ2xaU1JQSDJmOTRXQmh3cmV1My1tZDg3SHMtZjlaQlM1SVllQTF6OE96WHROQkRRMmwxQk1NSHN3NTBaeFZ6ZnZsdnhzQVJLa0ozTlVyOURILUREQTVQX3IyaFQ2VXNmQ0ozTlpuam10bVZDNER1akF0em92QXFWTXNkMGtYMEVCLW1SRmZuUlEwMUdMVndCdTc2MS1VdVpuNXI5b00zWXh3UDJCTloyekNkRnJHY0RheGRfeV9HenJPR0ZlTUdFLVE1ckowQThXdFJEbG9zenZBb2g2czdVT3dZVmtBeTNCX0dIOW1MM0poTG5NOVlfUmhR?oc=5
-
-- Opposition worried, feels government won’t risk another defeat - The Times of India
-  The Times of India reports that the Indian government
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmVKSlZNcElILVNZUWdDVEI2Y3dNR3Q4T3MzejhkYnZwOHhFN0dhWk5LMURKNzc5Qk91WE91NFY0U09vNEdyRjdLSjFUNEJpSWFvRlYwNVdodHVqWTNDRmhuRS1IOXhpMk5HU1dJTkhPX0gwUExTSGxKUDdWNjcxMko0TmhDQVNfbnVkUFJ1SVRsanJ0ZTViZ2FvVkxlN1FkZURhdl9ka25XZ2Excm82aVFwUmppejV5RDg1ai1ETU84UV9DbTBv0gHMAUFVX3lxTE9WUnBLN3NGNGVzSF9mNm1GdGR4LWVsUS14SHIwT19OSm0yeTMyV0p3MnZWaHU0aEs4TWlqelEyVnV0MnF6NkxXSXd0NjBHOV9LMWxmWHpVWWx4TndKOHA0N1RYNWo0ZkdfT18wbU5iaVlCdVZHX0lmNk1tY3lZenExQnhoUUZGUmhOV3NTVUY0ZVNjVmpXdVJiS2xzckM3NG9ZZDVTRHdFQWs4VlFlNi1fZ2tHbFROY0RFZm9qSEF2aDZuYWJJNVBWenJEWQ?oc=5
-
-- Special Parliament session from next week amid delimitation, quota buzz - The Indian Express
-  Special Parliament session from next week amid delimitation,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2xmUWFNS09nMGxkdFk1M2JOVVJtc3hnTEpMNDV5c18zZXNIUkdnN1Q5cS11dFdtYlRIajEyRVhsMGJyY1VnUkxMMEEySElmeEVmYVN6YmRqM2ZPaUMwWFVKNW56cmFJMkhScWhFUmJ1TVBJMFFEdTRnc2RSVWRrLWJtSFRZbUZUTGZ4YjRCSTMxRklSZHljUExIQ1A1NVE4dTJrWVpSQTTSAa8BQVVfeXFMT2xuVkFvTlFHUUE2X29mdFk0akhkNk9CNHdKcUh5NWZEQnBNdjNrN1JFLW5Za3RRVVgwVmUxZ19NSWNYQTBVVjVDQklreE16bkE4a3R5SDJ0MXBWQXo3TXVhX3l4aG1jS1FiTmtnSk45Y01iV2piNEtqLTZ5d1pFcGw2QV9SWjd5NkFhVEJOYWpwNmdBeW5EakxieTlmZHlUcXE1S0FmdjFsOW02ZXBMaw?oc=5
+- Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal - The Hindu
+  Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObnluZ1FjVjVnYVlqVlBjWERqdFc0YmVYb2dWYk1ZWTVESmFwTXN4WlVXWHU1UHFodlFkYzB6blBhODFLeHN0T1R4ZS12RE5zaWR2OEt0eTF6ekk1U2hwS091VUdkOURYdWVPdlVzcVJaNUw4Mi1DOG5Tbko0cmp6cm5VRWlHeXZ2Q1FBT0g5RFphOEFxNF9RT2I2ODJxRGRXWERueUp0NU1qWWpkWENVVnhpRVVkYUg4OTB3ZXduR0RaOGxwNFVoRnBxeFU3RzNoemIwOHBqaXhsWWljRXNIcmZIUTMyZTFIRnlWQmJuS0Z1VEZHM080WkRVdw?oc=5
 
 - Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
   Ganga Water Treaty About To Lapse, Dh
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
 
-- War and peace distinction blurring, India faces continuous state of contestation: CDS - The Hindu
-  India faces continuous state of contestation: CDS.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSU9rR0o2SzdubURKaEhMaU1VUU5ZQUpUTEw3bzY1dEdpVzR0N013Y2RROERTUm1OT1lMSjBEV2JrNHN3cGt5Sms0Yk04bjN6X3p6Y3RSOG5kSUdlOHJ4VFJ5Q1pvdjFXMVFEdXdjazFhNzNhYXFqbGdnbmgyc0dzUldRcGZCNGtkZmpIX29rOU90d3VpZEw5ODJRay0xS2ZBOURzUzVrS3pyXzQ3emZjZk9heHJzXzBlOVI5NDZkWUFwUEQ2cWNmLWZjTFRKT0lNNS1hbnZOY3I0d9IB4AFBVV95cUxORkctd1VfVENzMWVJODNZZFM0cXk4aW9nd3hWdEFWQ0VXLUcwamtKa1I3ZXI0MDBTT0Q3XzRIQlVYaFpISTdXc3VRMzNoLTJZRnM2WHZMTm9CTEVjcW9MWEFDUkpnemY4MTdJY1R4MU1VYXZWdDVYOTR2aWx1c2ZfN21FSXFsSzZmZmhJQ1JEbkxRbHExZHdVdHJXOS15cjV2UjRCSndQRm9GQ1g5aGh6Y0VFVGJMcXF1NC1CcEVsdW1KWWNZdkR6cW1ieHg4VU4yQm1nRVBsODE0V3lNUUNkUw?oc=5
+- Ethan Vaz and B. Savitha make India sweep both U20 World Chess Championship Titles - News On AIR
+  Ethan Vaz and B. Savitha make India sweep both
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzZRODFpc0ItR3ZQSU9LY2lkaU1aMzlRcEpJOGF0cHJ6eDBoNlp2enBnSXJMNk5WUFd3NnhDaWlNN2xtejNmUkZBRmpzZW9lSm51U2toeWozYU9Hdmswa2d4OVBYM3c1a1Qwb3NsYS13MFoxbFN6cHl3ME1vXzRqSjJQel8tQVlLdXpMVlFaUDJUSnlRek5xcnp4NTNoUUNNRUxXanRBRWYxNUU?oc=5
 
-- Nobian’s 85% energy-saving technology sets new benchmark for energy-efficient chem manufacturing, offering.. - ET Chemicals
-  Nobian’s 85% energy-saving technology
-  🔗 https://news.google.com/rss/articles/CBMi4AJBVV95cUxPSTdvbjhiV3djZkVzcW5xMFhiejNPWkFzQlFLVy1XQkNjU1g3RUtqR0hWT2haN1NXY2NOMFNscXMtcVI1YzN0eG1fQUQ0VlVVWEIxNzk3LS1sZ0pfUV9QT1FScVoxZVQ5NFFPaDlIczUzYXhRMUtLd1NmTDN4NTNzbkpwS0ZfVlFMVWRhSnB6anBPbkRMU1pxUENOM3dtRFJfVkFBcXZZZXp1XzJHQXE0cFNjd2wwWVQzOVdLOTcwSDhDRlZmcTg0YXZpS0dUVEUyWi1WUG13UWFBNXFvY2JKdFNodkhRQTcwazFmeC1ZZjFEd3pWREVDUzJ5MFVvZHlwMnBENklQQWFaYzVYR2V6cHpWN2M1YmVNb25IXy0wQWN2NWJOSDQ4NDhhQU00YndHcEtMRUZpdXMzRnd3cTdGbk50STFVZWY0cHp2OWZBT0ZWNmxiNlg1aHo1RGM0UWpk0gGwAkFVX3lxTE9tVWtmQ0ZBT0JQWEdpd2psaHZMQk1ia3FuTHp1LVY4TWNUaUxqVXhtdUhFT2JidWt0dE41NGVoNlJlOVRndUNBaE1UTHB0UGxUbkZVMlpHdHJmbnV4SkJqeWhwZ1JmRS1ZT01RSjk3NlV4N182RDdVa0lYbXRUd1JndFk3U3drUmFXazlzZGVQaXNIQWJ4TzRodjZaaXk4bk9fVy1FLUItcDlzTi0yblFRTzhYUWtFY090Q1dFVUdBdXVCVHJpdFktVW9BUk8wY2Z4T2d2bHVqM3phR0s2Ti04OXBGRGxnRmlhZ2Z0S244VVpRc1BEOVpEWHVZNXQwamlEMGNSb1N1QmxUeGtiVU5YY21LSWF6UzZidFNFdWFrTkl6bDJsdHd3LTItdnU1dVk?oc=5
+- Pension funds should enter India’s VC markets to unlock domestic capital: Rajan Anandan - The Hindu
+  Pension funds should enter India’s VC markets to
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSWY3UENkOEFzTzdnTlZfSzN2ZnBOZkJZMXZGUExKZXNwZC03RGowdDc1Ui1MMWtYcE9OaFRhVlZJMnZtMVdueEJab2RqVEFvcmRpQUlpSzhGczViWjVST3dQSG1YdFBrOXUtWE5kT0VfalNTTzgyY2ZtSTlkNnd1cU9WdHdZQ2MwZUhSRjk1VXNaWlh2dERUeDAtbmVoM2lNNkloNmdrZENOSkFCSVR0VHNlVFlWUWI3WXZyY0FwYy1rd2JoSTZOZ2FBSVpNN1JrWDdFMklmeXpiYTVnNXY1cXFDSzI5a0p1bXfSAfABQVVfeXFMTXUzd2dIa0x0YnkzZllRUmpTSEw1czVsWkF6UFFFSmRaYUxfUVRGMjIwZ2NBcEwtYVJqQTdPam5jTmhtZjlTenpGZDZCVkdTUDdNSGJSYkIyMm92ZWpKRTVfUURqMkY3XzdBdlVBUzU5UTVVbklKWlVXSmJaNVBZUkEwM1hQTHo4LWd3aDhWaGZvMkl4c2RwWUNZalJicERhZV9SMG9JcjROckRQU0FhUG0xOTY2MnRCbjNtbjhTaFF2eV9MT1E0ZHVILUVRMmxYemN1OW0xUWNEaUw4LVVMbVh6cWtxZG9wb1RCN3hwaWV3?oc=5
 
-- Law students should harness benefits of modern technology, says judge - The Hindu
-  Law students should harness benefits of modern technology,
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVpSMnE2LUdOQzE4N2w2elh4VlB6QjFrRVRWdjJGVVl5enJ3cGdIWXZSWUNUVW1xWWx2ZFFsSC11LXI4dDJIcnZfTEt4UWwxenR4WHllTUtCVE5jQnBsZmxxY2EwRUhNVVZfLTl2MW1LVE5QX05vRHVoWDBlSFZpcDlic1ZCUjhlZF9Kd29fQW1ZaVRTLTJWbE53TU5vUEFMcHBDclZBZzdnYkZ2MlJiUzJ6aXhoXzhyZk9RVWNmYW1KcGhCWklzNlZsNllPc1h3aFhZ0gHaAUFVX3lxTE5pWm95eG14S3dwbHl3aXoxNEMtMExnUS02a01ZNnE3aFp6TmY4Qy05Rzk3MW9DMmx2Y0Jxc3JNUEdyNnNDQ0RzNWRnM3RBTGdyUmJMNHV5dHY1bzZDQWdWcG1BM25iNldOTFZOdVczRWpyUnluU0VNZFhEdGg2bGpsZW1OazBUNFNPR0FMMm13WkRaYS1lUEhyNVlTS0JZTERsYU5nbkJZc3V3a3F3bHlYdWYyVHVEbDhGQ3l4X3JBbEpaQ0gydjJDWmMwNEhPcE9WVmpNTVU5VzB3?oc=5
+- Behind India’s IIT dream: Student suicides and gaps in support - Al Jazeera
+  Al Jazeera reports on IIT suicides in India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmRkTkZaWmt6eUptcWtLQ1A4LXdaME5Tc0xseWk3TVBzN1hoRld1M1ppSWJHZ05TU0JWY2hUZnpGejVKeVVHaTNmQl9rUmNQVEx6d21TR2NRUWhGMnNwdWJrWmROU2FqVDNnMzhHMHhsX2hXVGFidmdDNjJlWXBzZjJXTm5ObEJ6SDNIeVYtTmprZmRNVWVaYzRhNTRyS2NRQW5vSG0zOVdXeV9tdmtrQXZR0gG3AUFVX3lxTE50SFgycGNsdTdnZHljQ3pTRWc4SlRPeGFENVY4YlpJLXNZRmFFTUE4X29lMXJjdGpFd2xtRExyYlVWVzRSZUYxZ1IzR3BYbFNKM2pYbEhVaGhHYzVrQm1xRkdZRG4wV0FxYnFjM29vQUVEQU9KMmJaRTZ6bmk3Z1VlUGRIQVRGU3g3N0VlNDlndFRfWEhtU1RXbTNqTVlHQXZWd25IUXFRZEwwcWpqWVpKSDRSQmQ2Yw?oc=5
 
-- Pizza history: AI agent’s cardless purchase is a first for UK - The Guardian
-  Pizza history: AI agent’s card
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQeG05enNvR29yXzZYN1FpcEZ3a0sxZFlvSTdieDA3cjE2Vm80TjJDcGVDdVRnYkp6RHN1a2N0N3ByaDRjb3ZoNHh0cUJHRHlKRTZRVVY4dVM3OGRWMjRjaUtSV1NwQ2h0UVZsNVBqZTlENV9xckpJLVdGbE1seVJadE8wR1lnZUxGUkd3RDhqeDBoX2FNY281cmJydmxPU0MtZFRNMzZGVmRIMTVHODh2OQ?oc=5
+- AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn - The Guardian
+  The Guardian reports that AI labs are sitting on ‘b
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk5mQnJsSjlGQ1JxaHhFRWI2a0xYVTZQUEVQdWxpNWxFNUVRN1FFYXlhSkwxM2JDNzdQSXdwSTc1TlQzNE9IeV8zd1YzcVVhNXJVSUNTakFTRVNKdmI3M28yUFZmU3hTWXlZcG1SQU81dkdrWjNaRVA3ZEJPazVJQ19ZSlFsdzh2Q3J2LXNuZHNYZHFHWEQ4UFBnWlRzVTBnb2Zr?oc=5
+
+- Just a day after reports of Europe's largest technology company SAP planning to cut 10,000 jobs, company - The Times of India
+  Just a day after reports of Europe's largest technology company SAP planning to cut 10,000
+  🔗 https://news.google.com/rss/articles/CBMi9wJBVV95cUxNeHlsRU5UMmk2ek1BeHdzbjlkRG80QXp4cDI2bDNPOWVFTFFMZlZOa2UxWDNZV05nUlZyNV9IWW1US3p5djQ2Y2hSUW1yZ3FNUkJBV3hKa25IX0dUUjhscFdNa1FlUkNtNjlnRHJfelRzRXVvdnpZVGU2ODdOX0ljOHhabW0xU0hfbVF0TEg3OTFsUFY2a1NkODVYcTY2TFcxc2FjTFVfdVI2elBUTnZ1VXJENXU3QThSamZKVDFLclluRFctVmdkTWJEeWUwbXJnUUt3bFBsdkhZM2syUFJOcGJtSGN3WnpzN1czc1N0WkgtREoxdUZpU1RkZEtJenNIejRKaTNaUFJIMU5XaVpTMksyNllUVkJRemhocjUwR0UwWl85UzJXMDN4aFAzbzZTRUUyREdXOXFjNHlRbjEtNUg0OGlLN3c4RWdHNHpMdmhmUVNJZHlodGVCRUhyQUs0UW11di1rZjdiNUpkd3dKcmtIMGlQQ0nSAfwCQVVfeXFMTV84NE5RT0Yzb2NhMzlIM19YUm5BMkwzMGdEQWJpZS1CVXFPTHdSclBCUlotNzR4dTZwZ3V1Nm9uV2JnVGwyMF9CUzRtbjRsdDZaYnVFSnYzbVhidXhwcUxXTGNlUF9pcF9aOE1FWFo5a0pLT0p5LVVhTU5vWEdPNEl3RTJVaFdTRDF6YlM5NnZqa1NCaHp5TjB6ZU9XT3pKeVVPaktqblFzdUY3UUZ1RkZCLU1ESFZ4RFp0UmsteGowakhYVUlfTko2RjctY2xwR2pJYTg3c3BuSWtDYWxhVEZESXZyOENRbkRsdHZkOGdTSlFoM1R0RnpKS2JFbUcwZHRmQnhKNmc5Z3JYYjFCdHl2SElxcGI0aEJNR1ZNaVRlbXd5bTJ6Q3lqVTRqZVp1SGc4ekxYLXA4cnlnRTJGNmU3RjZfR3pPNWxQeGtMWU5yUklrT2JERWp6M2hIcWdlWHRaZkZLSkVZak52TGl2emZCU3laR0hOd28tSU0?oc=5
+
+- Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War - The New York Times
+  Russia’s Big Ambitions for A.I.
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxORi1McEY4Z0s0WFpoM1JMenFlX1hiejdjbExuMkwyNlI4cWljR0V2V2pkcEV0NDRZYXM4Rzd2TFJjRnBJLW8tcWI5S0ZSX3lUcEpkaWs3X2J0MFpCd3BXZ2FZSm03WGV0WVlOdE8xSDhhR3R1Wk4ySGhaRkRPMk9mdm5XSV85QklC?oc=5
 
 - "Technology, Rapid Decision-Making": Defence Chief On Readiness For Wars - NDTV
   "Technology, Rapid Decision-Making
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalNMYkx6cjM5S3BDeWVZVGY2TTlMb2w1c3ZZYURoZTJfazhfS09UTzhkRGVKc3JhdlFDNlpCTWhuR1AtT1dNS2Jrc3FQZWVsNENlZmpnWV90S1B1YTZmV1lqMDR4LWRvT2FZMEg5Z2txdXl6S0RLX0FDZ05kWkNmXzBDNjl3UG1keVpuOGlEanI1UXFTQ3NscEZOQ3oybmVmZEpHN0RCM1RoVXJRRV9PVDltb1dZRnlmRUctV0d0MDFrQdIBygFBVV95cUxPTVRCd0RneGpRTmpKbG8weUFZNW1Gb0MwdVkxUTFwSGF5dE1OclJtRUdIUnc1SExWQ0F5akM1c0tlb3hxZG5qZ3hMLThEOFFFR0lNdDFKeXI3dzFPdDFrVmNueXJibVJtZUlENWVTZk1LTzljYmZhTTBiZUFsX3puOEN2bFJQY2t6OHdQdFZ6NWtpNjRkT1M1YV83dUdhLTFmQnlOTUtDdGlSLTdHV2kyLW1JdTRHcTRyT1pYeWZzeE9yRFp6ejF4WlBn?oc=5
 
-- CEO Outlook Technology, Media & Telecommunications - kpmg.com
-  CEO Outlook Technology,
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlUtSEhqRjA1d3dvQ3ZScEhoa05CenFXYS1Zc0k4R2hlcVdDVDFET01CUENZTUROWDJfRzZWQlBKOXlSX1lhYmNIS2VxSDNDRmp0Y1RXSGZVazloWW5OZFZ3RWh1MFo5ckhTYTNaRFowTG56N2sza1VfVTM1b2pYQ2VnSi1zT3NPbTdQLTBFOVBwYV9zN21tMlZsVGktY2tJaEx5bzIzQkl4bUhaZjNzU3QwVVg?oc=5
+- KOKUYO India Bags Two Honours at Orgatec India Excellence Awards 2026, Recognised for Best Technology and Peoples Choice - TheWire.in
+  KOKUYO India Bags Two Honours at Orgatec India
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV1V2Umk4RUtrTFNkZTEyVkotbFI0X2tXOHY3RHVfOUIzbEpmZFZhakIyd25JSGpfSEhWUWVVei1TSzBxeTczYzdWMVFfNVRkcWVQX21pa2ctZXdibWdOWjJ3OVZKSldZYzhRTXlsX3ZCS2l0MVhGTEk4U0Z1TTVEenhwbGhQeFV3U0Iwb2prTWNPai01X3g3R0N3Tm5ZNDVRTEpQRE9vaDU0aWRUWm8taEc2QlM1OTNmWWpQWnFTeWhYUjFRN0k4NjZKb051QmJkMmk3bVFjX0pmRE1UWWVyQ2Fnd0xRRUpId0NqcUFuQdIB9AFBVV95cUxOYUJVMGtwaEZneDJmcFJ6SXJkdXo3dU9ZdnNqZnVGWlBkNDlCNVM3QnMyQU90TGVTM2FlSGhwOEd4YWlIQS1KSTlGaUdPNkQybEZRMnBOZzBlT2UydTZYQ0J2YW51MGlNeV9RcUNQamVSd1dyVGFYY1ZqWDM4a240QVQxVE1lcXg1R19Scm5NR3hBU1cta21FZDZFT3FTTTV1VElNbG9FLWZpYVotVzZISTZ1aUVnYTJYajRSM0dwek5lakJvMW84dFViOXVoUFNUTnhWTGRETWtxeFpyTmNOOHpTWk5hYy00UzdmYzBvYnZVdVhH?oc=5
 
-- '50% Increase In Seats, 25-Year Freeze': Centre's Delimitation Push - NDTV
-  '50% Increase In Seats
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1hxYWMyWHVHRGJlVUJvanFMQWtRTThyV0gxX2dPcFVPbUFCSF9wVmhzR085ZzBYaE1QbkhpWkhseFFaNDJ6M0dxazhOaFA2cDVnSzM0R3FIcGw2U2xmeG50dHFNeHoyZDI0QkFreUNWQ2JvajBPQWtha2J6ZnROeU5pSXFuUGtnN19lUkthSzdzd9IB-gFBVV95cUxPQ2xaU1JQSDJmOTRXQmh3cmV1My1tZDg3SHMtZjlaQlM1SVllQTF6OE96WHROQkRRMmwxQk1NSHN3NTBaeFZ6ZnZsdnhzQVJLa0ozTlVyOURILUREQTVQX3IyaFQ2VXNmQ0ozTlpuam10bVZDNER1akF0em92QXFWTXNkMGtYMEVCLW1SRmZuUlEwMUdMVndCdTc2MS1VdVpuNXI5b00zWXh3UDJCTloyekNkRnJHY0RheGRfeV9HenJPR0ZlTUdFLVE1ckowQThXdFJEbG9zenZBb2g2czdVT3dZVmtBeTNCX0dIOW1MM0poTG5NOVlfUmhR?oc=5
+- Bisleri contradicts coliform bacteria findings in West Bengal water sample, seeks FSSAI review: What did company say?
+  Bisleri says two independent laboratories found its West Bengal packaged water sample compliant. The company withdrew the affected batch and asked the regulator to investigate the
+  🔗 https://www.livemint.com/companies/news/bisleri-contradicts-coliform-bacteria-findings-in-west-bengal-water-sample-seeks-fssai-review-what-did-company-say-11795858958639.html
 
-- Opposition worried, feels government won’t risk another defeat - The Times of India
-  The Times of India reports that the Indian government
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmVKSlZNcElILVNZUWdDVEI2Y3dNR3Q4T3MzejhkYnZwOHhFN0dhWk5LMURKNzc5Qk91WE91NFY0U09vNEdyRjdLSjFUNEJpSWFvRlYwNVdodHVqWTNDRmhuRS1IOXhpMk5HU1dJTkhPX0gwUExTSGxKUDdWNjcxMko0TmhDQVNfbnVkUFJ1SVRsanJ0ZTViZ2FvVkxlN1FkZURhdl9ka25XZ2Excm82aVFwUmppejV5RDg1ai1ETU84UV9DbTBv0gHMAUFVX3lxTE9WUnBLN3NGNGVzSF9mNm1GdGR4LWVsUS14SHIwT19OSm0yeTMyV0p3MnZWaHU0aEs4TWlqelEyVnV0MnF6NkxXSXd0NjBHOV9LMWxmWHpVWWx4TndKOHA0N1RYNWo0ZkdfT18wbU5iaVlCdVZHX0lmNk1tY3lZenExQnhoUUZGUmhOV3NTVUY0ZVNjVmpXdVJiS2xzckM3NG9ZZDVTRHdFQWs4VlFlNi1fZ2tHbFROY0RFZm9qSEF2aDZuYWJJNVBWenJEWQ?oc=5
+- FanCode wins FICCI’s Sports Broadcaster of the Year 2026, named India's Best App for Sports fans by Google Play
+  FanCode will be home to marquee global properties including Formula 1, LA LIGA, AFC competitions, MotoGP, ATP
+  🔗 https://www.livemint.com/companies/news/fancode-wins-ficci-s-sports-broadcaster-of-the-year-2026-named-indias-best-app-for-sports-fans-by-google-play-11795856880824.html
 
-- Special Parliament session from next week amid delimitation, quota buzz - The Indian Express
-  Special Parliament session from next week amid delimitation,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2xmUWFNS09nMGxkdFk1M2JOVVJtc3hnTEpMNDV5c18zZXNIUkdnN1Q5cS11dFdtYlRIajEyRVhsMGJyY1VnUkxMMEEySElmeEVmYVN6YmRqM2ZPaUMwWFVKNW56cmFJMkhScWhFUmJ1TVBJMFFEdTRnc2RSVWRrLWJtSFRZbUZUTGZ4YjRCSTMxRklSZHljUExIQ1A1NVE4dTJrWVpSQTTSAa8BQVVfeXFMT2xuVkFvTlFHUUE2X29mdFk0akhkNk9CNHdKcUh5NWZEQnBNdjNrN1JFLW5Za3RRVVgwVmUxZ19NSWNYQTBVVjVDQklreE16bkE4a3R5SDJ0MXBWQXo3TXVhX3l4aG1jS1FiTmtnSk45Y01iV2piNEtqLTZ5d1pFcGw2QV9SWjd5NkFhVEJOYWpwNmdBeW5EakxieTlmZHlUcXE1S0FmdjFsOW02ZXBMaw?oc=5
+- IndiGo drops 10 international destinations in 2026: India's largest airline is cutting overseas flights; here’s why
+  IndiGo has withdrawn from 10 international destinations due to airspace restrictions, aircraft leasing issues
+  🔗 https://www.livemint.com/companies/news/indigo-drops-10-international-destinations-in-2026-indias-largest-airline-is-cutting-overseas-flights-here-s-why-11795856134529.html
 
-- Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
-  Ganga Water Treaty About To Lapse, Dh
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
+- UK bank capital rule changes: Why UBS sees Lloyds and NatWest gaining the most
+  UBS expects proposed UK bank capital rule changes to benefit Lloyds and NatWest most.
+  🔗 https://www.livemint.com/companies/news/uk-bank-capital-rule-changes-why-ubs-sees-lloyds-and-natwest-gaining-the-most-11795855835293.html
 
-- War and peace distinction blurring, India faces continuous state of contestation: CDS - The Hindu
-  India faces continuous state of contestation: CDS.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSU9rR0o2SzdubURKaEhMaU1VUU5ZQUpUTEw3bzY1dEdpVzR0N013Y2RROERTUm1OT1lMSjBEV2JrNHN3cGt5Sms0Yk04bjN6X3p6Y3RSOG5kSUdlOHJ4VFJ5Q1pvdjFXMVFEdXdjazFhNzNhYXFqbGdnbmgyc0dzUldRcGZCNGtkZmpIX29rOU90d3VpZEw5ODJRay0xS2ZBOURzUzVrS3pyXzQ3emZjZk9heHJzXzBlOVI5NDZkWUFwUEQ2cWNmLWZjTFRKT0lNNS1hbnZOY3I0d9IB4AFBVV95cUxORkctd1VfVENzMWVJODNZZFM0cXk4aW9nd3hWdEFWQ0VXLUcwamtKa1I3ZXI0MDBTT0Q3XzRIQlVYaFpISTdXc3VRMzNoLTJZRnM2WHZMTm9CTEVjcW9MWEFDUkpnemY4MTdJY1R4MU1VYXZWdDVYOTR2aWx1c2ZfN21FSXFsSzZmZmhJQ1JEbkxRbHExZHdVdHJXOS15cjV2UjRCSndQRm9GQ1g5aGh6Y0VFVGJMcXF1NC1CcEVsdW1KWWNZdkR6cW1ieHg4VU4yQm1nRVBsODE0V3lNUUNkUw?oc=5
+- Banned Nvidia chips surface in China despite Trump’s ‘2–3 year’ wait remark; here’s how it's linked to Alice Huang
+  Trump suggested Beijing would not be allowed to purchase Blackwell semiconductors for another ‘two or
+  🔗 https://www.livemint.com/companies/news/banned-nvidia-chips-surface-in-china-despite-trump-s-2-3-year-wait-remark-here-s-how-its-linked-to-alice-huang-11795852454950.html
+
+- Gold price forecast: Can precious metal fall below  ₹1,00,000 per 10 grams in the near-term? Experts' views
+  Gold prices have faced pressure from expectations of a more hawkish US Federal Reserve, elevated bond yields and
+  🔗 https://www.livemint.com/market/commodities/gold-price-forecast-can-precious-metal-fall-below-1-00-000-per-10-grams-in-the-near-term-experts-views-11795874325765.html
+
+- Mint Money Festival | Vijay Kedia outlines 10 investing rules for younger investors
+  Vijay Kedia recast time-tested market wisdom in Gen Z language. From doing your own research and avoiding borrowed money to staying invested
+  🔗 https://www.livemint.com/market/mint-money-festival-vijay-kedia-10-investing-rules-younger-investors-11795872055485.html
+
+- Why Tata Steel and APL Apollo Tubes shares will remain in focus on Monday? Check targets, key levels
+  Tata Steel shares edged up to close at  ₹163.94 apiece on the NSE on Friday.
+  🔗 https://www.livemint.com/market/stock-market-news/why-tata-steel-and-apl-apollo-tubes-shares-will-remain-in-focus-on-monday-check-targets-key-levels-11795868983933.html
+
+- Why your gold loan terms may get tougher: Lenders demand extra collateral as bullion prices fall and repayments slip
+  When gold prices fall, a loan can slip above its permitted LTV limit. To bring it back in line, lenders are asking borrowers to pledge
+  🔗 https://www.livemint.com/market/commodities/why-your-gold-loan-terms-may-get-tougher-lenders-demand-extra-collateral-as-bullion-prices-fall-and-repayments-slip-11795867754945.html
+
+- SEBI planning new exchange for pre-IPO shares; consultation paper soon? What we know from SEBI chief statement
+  Pandey further said the proposal is among several initiatives being examined in response to the rapid growth of India's IPO market
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-planning-a-new-exchange-for-pre-ipo-shares-consultation-paper-to-be-released-soon-says-chairman-tuhin-kanta-11795865814182.html
+
+- AI may shrink traditional IT maintenance, call centre markets: Nasscom
+  Artificial intelligence (AI) could shrink traditional markets for software maintenance, infrastructure services and call centre operations.
+  🔗 https://www.livemint.com/technology/ai-may-shrink-traditional-it-maintenance-call-centre-markets-nasscom-11795871264677.html
+
+- HP OmniBook Ultra 16 with Nvidia RTX Spark N1X platform launched in India at  ₹5,49,999: Price, specs and features
+  HP is betting on a niche segment of high-performance personal computing geared specifically toward
+  🔗 https://www.livemint.com/technology/tech-news/hp-omnibook-ultra-16-with-nvidia-rtx-spark-n1x-platform-launched-in-india-at-5-49-999-price-specs-and-features-11795845254850.html
+
+- iPhone 18 Pro Max vs Vivo X500 Pro Max vs Oppo Find X10 Pro Max: Here's which premium segment smartphone you should buy
+  Vivo X500 Pro Max takes on Apple's iPhone 18 Pro Max and Oppo Find X10 Pro Max. From displays and cameras to processors, battery capacity and pricing
+  🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-max-vs-vivo-x500-pro-max-vs-oppo-find-x10-pro-max-heres-which-premium-segment-smartphone-you-should-buy-11795845207592.html
+
+- Microsoft faces AI challenge: Windows 12 release date remains elusive amid user frustration over artificial intelligence
+  Microsoft has not set a release date for Windows 12. The company is focusing on improving Windows 11
+  🔗 https://www.livemint.com/technology/tech-news/microsoft-faces-ai-challenge-windows-12-release-date-remains-elusive-amid-user-frustration-over-artificial-intelligence-11795844211604.html
 
 - Cloud One cyberattack: US Air Force platform backed by tech giants Microsoft, Amazon, Oracle, Alphabet reportedly hacked
   A cyberattack on the US Air Force’s Cloud One platform disrupted operations. Investigators are assessing a possible breach of its control plane, which oversees cloud infrastructure.
   🔗 https://www.livemint.com/technology/cloud-one-cyberattack-us-air-force-platform-backed-by-tech-giants-microsoft-amazon-oracle-alphabet-reportedly-hacked-11795798278354.html
 
-- Instagram for TV launches in India: Here's how to watch Reels on Apple TV, Fire TV, Google TV
-  The app will support Apple TV, Amazon Fire TV and Google TV. Features include personalised video channels and smartphone casting.
-  🔗 https://www.livemint.com/technology/tech-news/instagram-for-tv-launches-in-india-heres-how-to-watch-reels-on-apple-tv-fire-tv-google-tv-11795797072312.html
+- Dow rallies nearly 600 points to close out best week since 2022: Live updates - CNBC
+  Dow rallies nearly 600 points to close out best week since
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcmRfRzk2ZGwtRmpwS3RZYlhaTHdzQUFsOUFMeWlmdUJoQjlSb2FDUFJyaWtFUGw3VmdQVVJRZTFzbHBybHV0T0xyQlFNUVB4SDlmbWk1V0pEQXcyVmwtenNJWE82dV9VUkVKVGJ3QVRCOXNpSEpr0gF8QVVfeXFMTjFBd1l1a2dUcEE1SjBNRGpXVkJBcVBLdjM3M04zVGJxUnNmVk1qejMxZm1WV0xYdi0tNW4tQ2xHSkpzNjhxZkZ0amRPeldHT2RRai11VlNxUXhWTHhQa3pianhxX0hoWnNMRzVKYXBrR2wwMW16UGc0dlpVbQ?oc=5
 
-- GTA 6 drives nearly 290% surge in franchise’s mobile game downloads, hits 2.3 million in first week
-  GTA 6 craze has boosted overall app downloads and player activity. PlayStation saw 1.3 million downloads between November 16 to 22.
-  🔗 https://www.livemint.com/technology/gta-6-drives-nearly-290-surge-in-franchise-s-mobile-game-downloads-hits-2-3-million-in-first-week-11795781907406.html
+- Markets News, Nov. 25, 2026: Nasdaq, S&P 500 Close Lower as AI Trade Remains Under Pressure; Nvidia Falls 4% - Investopedia
+  The Nasdaq, S&amp;P 500 Close Lower as AI Trade
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR?oc=5
 
-- AI reshaping role mix, not triggering hiring freeze: Experts
-   AI reshaping role
-  🔗 https://www.livemint.com/technology/ai-reshaping-role-mix-not-triggering-hiring-freeze-experts-11795781439893.html
+- Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap - Bloomberg.com
+  Stocks, Nasdaq Futures Cl
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5
 
-- Paying high roaming charges abroad? WhatsApp's upcoming eSIM feature could offer an alternative
-   WhatsApp is developing an in-app travel eSIM service with partners including Jio, Verizon and others. It will allow users
-  🔗 https://www.livemint.com/technology/apps/paying-high-roaming-charges-abroad-whatsapps-upcoming-esim-feature-could-offer-an-alternative-11795772406422.html
+- US Futures Rally as Tech Rebound Gains Momentum: Markets Wrap - Bloomberg.com
+  US Futures Rally as Tech Rebound
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2ZFa0FGcTRjb19HbGxhWGxZc05LTXQ2WUJDTTQzc2hYNGVrbE5GQWtlcERpWGdVZmptNEFUM0ltY0ZobVhoaVo1Qzl4ZTFuNlBDSXFNaG9ETXFDOGdYSGppVVh1cW10TFJ5RG9sVVNYZmUzMHk2VlROMG9yVDM3UzRtM1VSbXlaYWlSN01McUlncVljREZvOGY5UzZaSjc3R3MzdWJUOF9oS3ZLU2c3bmV0MA?oc=5
 
-- Is the Stock Market Open Today? Here Are the Trading Hours for Black Friday. - Barron's
-  Is the Stock Market Open Today? Here Are the Trading Hours
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOdE1vOU1PTGJIaVYycVc3blFIMkdWbGY5VzZhcTkwWGl0QTJ0Y0xLVVc4dXBGVzVaclhhLXE3LWlDeGxLN2cwUVhRNEUwMS16cWxXcU9xSEF6THhnNEFJeHFwVUlVcEE1cjNJZk9nX2JfeWc2bXgtMlFOU2FyX3RHbF81c0xKeWxlek8xaF9udFlGdEdpTkpXaXNxSXZNX05rbWlkaTUxb0RMekhfRHc?oc=5
+- Pension funds should enter India’s VC markets to unlock domestic capital: Rajan Anandan - The Hindu
+  Pension funds should enter India’s VC markets to
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSWY3UENkOEFzTzdnTlZfSzN2ZnBOZkJZMXZGUExKZXNwZC03RGowdDc1Ui1MMWtYcE9OaFRhVlZJMnZtMVdueEJab2RqVEFvcmRpQUlpSzhGczViWjVST3dQSG1YdFBrOXUtWE5kT0VfalNTTzgyY2ZtSTlkNnd1cU9WdHdZQ2MwZUhSRjk1VXNaWlh2dERUeDAtbmVoM2lNNkloNmdrZENOSkFCSVR0VHNlVFlWUWI3WXZyY0FwYy1rd2JoSTZOZ2FBSVpNN1JrWDdFMklmeXpiYTVnNXY1cXFDSzI5a0p1bXfSAfABQVVfeXFMTXUzd2dIa0x0YnkzZllRUmpTSEw1czVsWkF6UFFFSmRaYUxfUVRGMjIwZ2NBcEwtYVJqQTdPam5jTmhtZjlTenpGZDZCVkdTUDdNSGJSYkIyMm92ZWpKRTVfUURqMkY3XzdBdlVBUzU5UTVVbklKWlVXSmJaNVBZUkEwM1hQTHo4LWd3aDhWaGZvMkl4c2RwWUNZalJicERhZV9SMG9JcjROckRQU0FhUG0xOTY2MnRCbjNtbjhTaFF2eV9MT1E0ZHVILUVRMmxYemN1OW0xUWNEaUw4LVVMbVh6cWtxZG9wb1RCN3hwaWV3?oc=5
 
-- Asian Markets Rise as AI Sentiment Stabilizes - WSJ
-  Asian Markets Rise as AI
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOcnRDczhFTDhaVXp4YmhscHNzZ3M3Z2JIVkNtdXJoQlJxai1BYnVtczd2Z3B6LThnRUVaWUxtVllXZnZWY0gzWVdTUlJSOFNMVXZfSWEwX2wyUVRnWUVtcVJlY1E4eXdaSk5wNDV2Z0lMSlBuUm13dy1saXp6ZlhLTTdBNHVLT1huOGpjYXNFbWtVdw?oc=5
+- Dalal Street Week Ahead: Nifty faces crucial 26,000–26,300 hurdle; eyes further consolidation
+  The Nifty declined 0.75% last week, facing resistance near 26,000. Analysts expect continued consolidation, with 26,300 emerging as a crucial resistance zone. IT, banking and financial services remain
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-faces-crucial-2600026300-hurdle-eyes-further-consolidation/articleshow/136244642.cms
 
-- Stock Market Highlights, Sensex Today: Sensex Closes 990 Points Lower Amid Mixed Global Cues - NDTV
-  Stock Market Highlights, Sensex Today: Sensex Closes
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDl6MlpsZWZjQ0pYSE5QSjdveVJzYnJ6UUFPQmJOTk9wMWNES3EzMGJubWpIUU5kZEVicnVNVzVfNmlUejBTaXF1Vkt5ZzRjWmZCd0pFc1pKcTE5cWVNSG9NLUtqMXZCN1lBN0pPc3pZeEVmMXpQR3FVb0ptOWI0dGhzbUdUSFlWNV84MjV1MzNBWVRkbkhwZThWVTVWOUgyc2piVkNfb01QbFVCSElxU3pGNUVKZENwbVdxSXVvRnlSbVdjV0g0WkNwMHBtN2ps0gHYAUFVX3lxTE0wVWdNUlVMWC1WNllySjMtT09fUTJ6Wk4tenBDMXkwbXUyMDJqVlJ6WVdHOGxKVFV6YmU0Um9lZlY5TUZfTml2UzNfTU5ZamZqQ0VKUDJVQlJ4NTZtcjJOOTFEWDRUbjc2RUVHV29fR2RGaUp4SmVmRVJQZDZHZWdCb1dLd1FjTmw5RmtWSFByU2NkNFJVTjBkdVNZRkJlLVc0R25qM2RXaU43ZTJEODR1UkR2U2VTZFVOZ3lVZmM0LS1KZVNMQXAxcFRzd284STJDUlJ5c2hrSQ?oc=5
+- Jaiprakash Power Ventures, CarTrade Tech among 11 smallcap stocks that plunged the most in a year, but mutual funds raised stakes
+  Mutual funds increased stakes in 16 Nifty Smallcap 250 companies despite significant share price declines. Explore 11 major laggards where institutional investors
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jaiprakash-power-ventures-cartrade-tech-among-11-smallcap-stocks-that-plunged-the-most-in-a-year-but-mutual-funds-raised-stakes/slideshow/136242594.cms
 
-- China’s Cabinet Stresses Market Support in Rare Midday Statement - Bloomberg.com
-  China’s Cabinet Stresses
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQak5CQ2hzYk9WT0pEN2JpTjdqdU81V2pWSkxEVmdVcy11NDhqX0RfRngwU3ZXczl6dXFkZXg3aEpPakM2ZTY4QXNJVlpiVEJ2MUs0bUF0MzVJUXd3dWtvWFJna2U2aVhYbTNmM3o1UmZBaGxZRzVCS0JwS1FMYVlUSmltWE1GTkkwdmhxMG5xYi1sNDBDLURIVExoODFYVVhHZkdaa1VyUnFTLTNw?oc=5
+- Concurrent Gainers: 9 stocks that gain for 5 days in a row
+  Nine BSE 500 stocks delivered gains in each of the five trading sessions between November 19 and 27. PB Fint
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-that-gain-for-5-days-in-a-row/slideshow/136241215.cms
 
-- Europe joins global stock market rally as AI trade rebounds - as it happened - The Guardian
-  Europe joins global stock market rally as AI trade rebounds - as it
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTVJ6em5seEtrb1dnM2RzUzlmTmFWVDRjUC03b2V0bjh4c05jZzMxRVlNektCM0xfZ2k0UEFzWjl6bHpTWmxvc0hsQWYyTlhpQVFUbmpzMmZQby1TUFNSRUw0dFQxN19SQ0YwUi1yaVZPYW0ybnNLN25JbW9OejI0SU05NUVqSXJCcTc4b2Vzbk1hcHc3bldFSXF3aEsxbzc1M2Q0RmFwclVVOHd2allNY1dDRU1KMl9rQmhpeFZSTFJ3cWZteHlualkxX3FpcWdjSUxkLWhFbmhsMlQ2MEE?oc=5
+- LIC portfolio stocks! 10 stocks where LIC had the highest stake in Q2. How many do you own?
+  LIC held its highest stakes in 10 listed companies as of September 2026. IDBI Bank, LIC Housing Finance and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-portfolio-stocks-10-stocks-where-lic-had-the-highest-stake-in-q2-how-many-do-you-own/slideshow/136241053.cms
 
-- OPEC+ set to keep oil production targets steady: Report
-   OPEC+ is expected to maintain its production targets for Q1 2027. Some members voice their concerns over the initial findings. Analysts foresee a potential global oil surplus next year.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/opec-set-to-keep-oil-production-targets-steady-report/articleshow/136232084.cms
+- Bond market to stay cautious ahead of RBI policy: Equirus
+  The bond market is expected to remain cautious due to persistent inflationary pressures and anticipated rate hikes. Analysts predict a 25 basis points hike in the RBI's upcoming monetary policy review.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/bond-market-to-stay-cautious-ahead-of-rbi-policy-equirus/articleshow/136240295.cms
 
-- Copper sweeps higher as China offers stock market support
-  Copper prices experienced a notable increase after China's cabinet announced its support for the stock market. This rise follows a significant drop in copper prices earlier this month. China's industrial profits recorded their highest growth in five months during October.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/copper-sweeps-higher-as-china-offers-stock-market-support/articleshow/136232015.cms
-
-- Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks
-  Gold prices have recently experienced a modest uptick after bottoming out at a 15-month low. Despite the robustness of the US dollar, surging Treasury yields are making investors wary.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136231951.cms
-
-- Blackstone sells 1.55% stake in IGI for Rs 280 crore to meet public shareholding norms
-  Blackstone completed the sale of a 1.5 percent stake in International Gemological Institute through block deals. The transaction involved selling over 67.16 lakh shares at an average of Rs 417 each. As a result, Blackstone's holding
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/blackstone-sells-1-55-stake-in-igi-for-rs-280-crore-to-meet-public-shareholding-norms/articleshow/136228297.cms
-
-- Capital market industry hopes for relief in capital gains taxation in Budget 2027-28: Axis Capital MD
-  Capital market industry is hoping for some relief in capital gains taxation. A possible reduction in short-term capital gains tax, said Lakha Nair, Managing Director and Head of Corporate
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/capital-market-industry-hopes-for-relief-in-capital-gains-taxation-in-budget-2027-28-axis-capital-md/articleshow/136224186.cms
-
-- '50% Increase In Seats, 25-Year Freeze': Centre's Delimitation Push - NDTV
-  '50% Increase In Seats
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1hxYWMyWHVHRGJlVUJvanFMQWtRTThyV0gxX2dPcFVPbUFCSF9wVmhzR085ZzBYaE1QbkhpWkhseFFaNDJ6M0dxazhOaFA2cDVnSzM0R3FIcGw2U2xmeG50dHFNeHoyZDI0QkFreUNWQ2JvajBPQWtha2J6ZnROeU5pSXFuUGtnN19lUkthSzdzd9IB-gFBVV95cUxPQ2xaU1JQSDJmOTRXQmh3cmV1My1tZDg3SHMtZjlaQlM1SVllQTF6OE96WHROQkRRMmwxQk1NSHN3NTBaeFZ6ZnZsdnhzQVJLa0ozTlVyOURILUREQTVQX3IyaFQ2VXNmQ0ozTlpuam10bVZDNER1akF0em92QXFWTXNkMGtYMEVCLW1SRmZuUlEwMUdMVndCdTc2MS1VdVpuNXI5b00zWXh3UDJCTloyekNkRnJHY0RheGRfeV9HenJPR0ZlTUdFLVE1ckowQThXdFJEbG9zenZBb2g2czdVT3dZVmtBeTNCX0dIOW1MM0poTG5NOVlfUmhR?oc=5
-
-- Opposition worried, feels government won’t risk another defeat - The Times of India
-  The Times of India reports that the Indian government
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmVKSlZNcElILVNZUWdDVEI2Y3dNR3Q4T3MzejhkYnZwOHhFN0dhWk5LMURKNzc5Qk91WE91NFY0U09vNEdyRjdLSjFUNEJpSWFvRlYwNVdodHVqWTNDRmhuRS1IOXhpMk5HU1dJTkhPX0gwUExTSGxKUDdWNjcxMko0TmhDQVNfbnVkUFJ1SVRsanJ0ZTViZ2FvVkxlN1FkZURhdl9ka25XZ2Excm82aVFwUmppejV5RDg1ai1ETU84UV9DbTBv0gHMAUFVX3lxTE9WUnBLN3NGNGVzSF9mNm1GdGR4LWVsUS14SHIwT19OSm0yeTMyV0p3MnZWaHU0aEs4TWlqelEyVnV0MnF6NkxXSXd0NjBHOV9LMWxmWHpVWWx4TndKOHA0N1RYNWo0ZkdfT18wbU5iaVlCdVZHX0lmNk1tY3lZenExQnhoUUZGUmhOV3NTVUY0ZVNjVmpXdVJiS2xzckM3NG9ZZDVTRHdFQWs4VlFlNi1fZ2tHbFROY0RFZm9qSEF2aDZuYWJJNVBWenJEWQ?oc=5
-
-- Special Parliament session from next week amid delimitation, quota buzz - The Indian Express
-  Special Parliament session from next week amid delimitation,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2xmUWFNS09nMGxkdFk1M2JOVVJtc3hnTEpMNDV5c18zZXNIUkdnN1Q5cS11dFdtYlRIajEyRVhsMGJyY1VnUkxMMEEySElmeEVmYVN6YmRqM2ZPaUMwWFVKNW56cmFJMkhScWhFUmJ1TVBJMFFEdTRnc2RSVWRrLWJtSFRZbUZUTGZ4YjRCSTMxRklSZHljUExIQ1A1NVE4dTJrWVpSQTTSAa8BQVVfeXFMT2xuVkFvTlFHUUE2X29mdFk0akhkNk9CNHdKcUh5NWZEQnBNdjNrN1JFLW5Za3RRVVgwVmUxZ19NSWNYQTBVVjVDQklreE16bkE4a3R5SDJ0MXBWQXo3TXVhX3l4aG1jS1FiTmtnSk45Y01iV2piNEtqLTZ5d1pFcGw2QV9SWjd5NkFhVEJOYWpwNmdBeW5EakxieTlmZHlUcXE1S0FmdjFsOW02ZXBMaw?oc=5
+- Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal - The Hindu
+  Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObnluZ1FjVjVnYVlqVlBjWERqdFc0YmVYb2dWYk1ZWTVESmFwTXN4WlVXWHU1UHFodlFkYzB6blBhODFLeHN0T1R4ZS12RE5zaWR2OEt0eTF6ekk1U2hwS091VUdkOURYdWVPdlVzcVJaNUw4Mi1DOG5Tbko0cmp6cm5VRWlHeXZ2Q1FBT0g5RFphOEFxNF9RT2I2ODJxRGRXWERueUp0NU1qWWpkWENVVnhpRVVkYUg4OTB3ZXduR0RaOGxwNFVoRnBxeFU3RzNoemIwOHBqaXhsWWljRXNIcmZIUTMyZTFIRnlWQmJuS0Z1VEZHM080WkRVdw?oc=5
 
 - Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
   Ganga Water Treaty About To Lapse, Dh
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
 
-- War and peace distinction blurring, India faces continuous state of contestation: CDS - The Hindu
-  India faces continuous state of contestation: CDS.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSU9rR0o2SzdubURKaEhMaU1VUU5ZQUpUTEw3bzY1dEdpVzR0N013Y2RROERTUm1OT1lMSjBEV2JrNHN3cGt5Sms0Yk04bjN6X3p6Y3RSOG5kSUdlOHJ4VFJ5Q1pvdjFXMVFEdXdjazFhNzNhYXFqbGdnbmgyc0dzUldRcGZCNGtkZmpIX29rOU90d3VpZEw5ODJRay0xS2ZBOURzUzVrS3pyXzQ3emZjZk9heHJzXzBlOVI5NDZkWUFwUEQ2cWNmLWZjTFRKT0lNNS1hbnZOY3I0d9IB4AFBVV95cUxORkctd1VfVENzMWVJODNZZFM0cXk4aW9nd3hWdEFWQ0VXLUcwamtKa1I3ZXI0MDBTT0Q3XzRIQlVYaFpISTdXc3VRMzNoLTJZRnM2WHZMTm9CTEVjcW9MWEFDUkpnemY4MTdJY1R4MU1VYXZWdDVYOTR2aWx1c2ZfN21FSXFsSzZmZmhJQ1JEbkxRbHExZHdVdHJXOS15cjV2UjRCSndQRm9GQ1g5aGh6Y0VFVGJMcXF1NC1CcEVsdW1KWWNZdkR6cW1ieHg4VU4yQm1nRVBsODE0V3lNUUNkUw?oc=5
+- Ethan Vaz and B. Savitha make India sweep both U20 World Chess Championship Titles - News On AIR
+  Ethan Vaz and B. Savitha make India sweep both
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzZRODFpc0ItR3ZQSU9LY2lkaU1aMzlRcEpJOGF0cHJ6eDBoNlp2enBnSXJMNk5WUFd3NnhDaWlNN2xtejNmUkZBRmpzZW9lSm51U2toeWozYU9Hdmswa2d4OVBYM3c1a1Qwb3NsYS13MFoxbFN6cHl3ME1vXzRqSjJQel8tQVlLdXpMVlFaUDJUSnlRek5xcnp4NTNoUUNNRUxXanRBRWYxNUU?oc=5
 
-- RBI Clubs 25 Card Payment Circulars Into A Single Framework
-  RBI has clubbed 25 existing circulars, governing debit, credit and prepaid card transactions, under a single framework.
-  🔗 https://inc42.com/buzz/rbi-clubs-25-card-payment-circulars-into-a-single-framework/
+- Pension funds should enter India’s VC markets to unlock domestic capital: Rajan Anandan - The Hindu
+  Pension funds should enter India’s VC markets to
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSWY3UENkOEFzTzdnTlZfSzN2ZnBOZkJZMXZGUExKZXNwZC03RGowdDc1Ui1MMWtYcE9OaFRhVlZJMnZtMVdueEJab2RqVEFvcmRpQUlpSzhGczViWjVST3dQSG1YdFBrOXUtWE5kT0VfalNTTzgyY2ZtSTlkNnd1cU9WdHdZQ2MwZUhSRjk1VXNaWlh2dERUeDAtbmVoM2lNNkloNmdrZENOSkFCSVR0VHNlVFlWUWI3WXZyY0FwYy1rd2JoSTZOZ2FBSVpNN1JrWDdFMklmeXpiYTVnNXY1cXFDSzI5a0p1bXfSAfABQVVfeXFMTXUzd2dIa0x0YnkzZllRUmpTSEw1czVsWkF6UFFFSmRaYUxfUVRGMjIwZ2NBcEwtYVJqQTdPam5jTmhtZjlTenpGZDZCVkdTUDdNSGJSYkIyMm92ZWpKRTVfUURqMkY3XzdBdlVBUzU5UTVVbklKWlVXSmJaNVBZUkEwM1hQTHo4LWd3aDhWaGZvMkl4c2RwWUNZalJicERhZV9SMG9JcjROckRQU0FhUG0xOTY2MnRCbjNtbjhTaFF2eV9MT1E0ZHVILUVRMmxYemN1OW0xUWNEaUw4LVVMbVh6cWtxZG9wb1RCN3hwaWV3?oc=5
 
-- Rapido’s Ownly To Charge Customers For Deliveries Soon
-  Rapido’s food delivery platform Ownly is set to introduce distance-based delivery charges for customers in Bengaluru from November 30.
-  🔗 https://inc42.com/buzz/rapidos-ownly-to-charge-customers-for-deliveries-soon/
+- Behind India’s IIT dream: Student suicides and gaps in support - Al Jazeera
+  Al Jazeera reports on IIT suicides in India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmRkTkZaWmt6eUptcWtLQ1A4LXdaME5Tc0xseWk3TVBzN1hoRld1M1ppSWJHZ05TU0JWY2hUZnpGejVKeVVHaTNmQl9rUmNQVEx6d21TR2NRUWhGMnNwdWJrWmROU2FqVDNnMzhHMHhsX2hXVGFidmdDNjJlWXBzZjJXTm5ObEJ6SDNIeVYtTmprZmRNVWVaYzRhNTRyS2NRQW5vSG0zOVdXeV9tdmtrQXZR0gG3AUFVX3lxTE50SFgycGNsdTdnZHljQ3pTRWc4SlRPeGFENVY4YlpJLXNZRmFFTUE4X29lMXJjdGpFd2xtRExyYlVWVzRSZUYxZ1IzR3BYbFNKM2pYbEhVaGhHYzVrQm1xRkdZRG4wV0FxYnFjM29vQUVEQU9KMmJaRTZ6bmk3Z1VlUGRIQVRGU3g3N0VlNDlndFRfWEhtU1RXbTNqTVlHQXZWd25IUXFRZEwwcWpqWVpKSDRSQmQ2Yw?oc=5
 
-- CERT-In Flags Five Cybersecurity Vulnerabilities In WhatsApp, Warns Of Data Exposure
-  India&#8217;s nodal cybersecurity agency  CERT-In has flagged five vulnerabilities in WhatsApp which can be exploited by attackers.
-  🔗 https://inc42.com/buzz/cert-in-flags-five-cybersecurity-vulnerabilities-in-whatsapp-warns-of-data-exposure/
+- PB Fintech Leads Weekly New-Age Tech Stock Gains, Nazara Falls The Most
+  New-age tech stocks ended November’s final trading week on a mixed note. PB Fintech led the gainers, while Nazara fell the most.
+  🔗 https://inc42.com/buzz/pb-fintech-leads-weekly-new-age-tech-stock-gains-nazara-falls-the-most/
 
-- Delhi HC Denies TikTok Interim Relief In ‘TIKTOK’ Trademark Dispute
-  The Delhi High Court (HC) has refused to grant TikTok an interim injunction in its dispute with a Ludhiana-based businessman.
-  🔗 https://inc42.com/buzz/delhi-hc-denies-tiktok-interim-relief-in-tiktok-trademark-dispute/
+- Last Rites, Booked in Advance: India’s New Funeral Business
+  “No time for relationships, no company for parents. After hospitals, even ‘final farewells’ have now become a business
+  🔗 https://inc42.com/buzz/last-rites-booked-in-advance-indias-new-funeral-business/
 
-- Can Black Friday Sales Unlock Fresh Demand For D2C Brands After Diwali?
-  Black Friday gives India’s ecommerce and D2C brands another opportunity to reach shoppers who held back during Diwali.
-  🔗 https://inc42.com/buzz/can-black-friday-sales-unlock-fresh-demand-for-d2c-brands-after-diwali/
+- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
+  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to a billion dollar company.
+  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
 
-- '50% Increase In Seats, 25-Year Freeze': Centre's Delimitation Push - NDTV
-  '50% Increase In Seats
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1hxYWMyWHVHRGJlVUJvanFMQWtRTThyV0gxX2dPcFVPbUFCSF9wVmhzR085ZzBYaE1QbkhpWkhseFFaNDJ6M0dxazhOaFA2cDVnSzM0R3FIcGw2U2xmeG50dHFNeHoyZDI0QkFreUNWQ2JvajBPQWtha2J6ZnROeU5pSXFuUGtnN19lUkthSzdzd9IB-gFBVV95cUxPQ2xaU1JQSDJmOTRXQmh3cmV1My1tZDg3SHMtZjlaQlM1SVllQTF6OE96WHROQkRRMmwxQk1NSHN3NTBaeFZ6ZnZsdnhzQVJLa0ozTlVyOURILUREQTVQX3IyaFQ2VXNmQ0ozTlpuam10bVZDNER1akF0em92QXFWTXNkMGtYMEVCLW1SRmZuUlEwMUdMVndCdTc2MS1VdVpuNXI5b00zWXh3UDJCTloyekNkRnJHY0RheGRfeV9HenJPR0ZlTUdFLVE1ckowQThXdFJEbG9zenZBb2g2czdVT3dZVmtBeTNCX0dIOW1MM0poTG5NOVlfUmhR?oc=5
+- Fintech Startups To Watch: Startups That Caught Our Eye In November
+  It was a stormy November for the Indian fintech sector. Even as the Diwali season brought a surge in digital.
+  🔗 https://inc42.com/startups/fintech-startups-to-watch-startups-that-caught-our-eye-in-november/
 
-- Opposition worried, feels government won’t risk another defeat - The Times of India
-  The Times of India reports that the Indian government
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmVKSlZNcElILVNZUWdDVEI2Y3dNR3Q4T3MzejhkYnZwOHhFN0dhWk5LMURKNzc5Qk91WE91NFY0U09vNEdyRjdLSjFUNEJpSWFvRlYwNVdodHVqWTNDRmhuRS1IOXhpMk5HU1dJTkhPX0gwUExTSGxKUDdWNjcxMko0TmhDQVNfbnVkUFJ1SVRsanJ0ZTViZ2FvVkxlN1FkZURhdl9ka25XZ2Excm82aVFwUmppejV5RDg1ai1ETU84UV9DbTBv0gHMAUFVX3lxTE9WUnBLN3NGNGVzSF9mNm1GdGR4LWVsUS14SHIwT19OSm0yeTMyV0p3MnZWaHU0aEs4TWlqelEyVnV0MnF6NkxXSXd0NjBHOV9LMWxmWHpVWWx4TndKOHA0N1RYNWo0ZkdfT18wbU5iaVlCdVZHX0lmNk1tY3lZenExQnhoUUZGUmhOV3NTVUY0ZVNjVmpXdVJiS2xzckM3NG9ZZDVTRHdFQWs4VlFlNi1fZ2tHbFROY0RFZm9qSEF2aDZuYWJJNVBWenJEWQ?oc=5
+- Personal AI Agents Are Coming: Who Owns The Customer Now?
+  Next time you want to order groceries, book a restaurant, or check your bank balance, you may not have to.
+  🔗 https://inc42.com/features/personal-ai-agents-are-coming-who-owns-the-customer-now/
 
-- Special Parliament session from next week amid delimitation, quota buzz - The Indian Express
-  Special Parliament session from next week amid delimitation,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2xmUWFNS09nMGxkdFk1M2JOVVJtc3hnTEpMNDV5c18zZXNIUkdnN1Q5cS11dFdtYlRIajEyRVhsMGJyY1VnUkxMMEEySElmeEVmYVN6YmRqM2ZPaUMwWFVKNW56cmFJMkhScWhFUmJ1TVBJMFFEdTRnc2RSVWRrLWJtSFRZbUZUTGZ4YjRCSTMxRklSZHljUExIQ1A1NVE4dTJrWVpSQTTSAa8BQVVfeXFMT2xuVkFvTlFHUUE2X29mdFk0akhkNk9CNHdKcUh5NWZEQnBNdjNrN1JFLW5Za3RRVVgwVmUxZ19NSWNYQTBVVjVDQklreE16bkE4a3R5SDJ0MXBWQXo3TXVhX3l4aG1jS1FiTmtnSk45Y01iV2piNEtqLTZ5d1pFcGw2QV9SWjd5NkFhVEJOYWpwNmdBeW5EakxieTlmZHlUcXE1S0FmdjFsOW02ZXBMaw?oc=5
-
-- Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
-  Ganga Water Treaty About To Lapse, Dh
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
-
-- War and peace distinction blurring, India faces continuous state of contestation: CDS - The Hindu
-  India faces continuous state of contestation: CDS.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSU9rR0o2SzdubURKaEhMaU1VUU5ZQUpUTEw3bzY1dEdpVzR0N013Y2RROERTUm1OT1lMSjBEV2JrNHN3cGt5Sms0Yk04bjN6X3p6Y3RSOG5kSUdlOHJ4VFJ5Q1pvdjFXMVFEdXdjazFhNzNhYXFqbGdnbmgyc0dzUldRcGZCNGtkZmpIX29rOU90d3VpZEw5ODJRay0xS2ZBOURzUzVrS3pyXzQ3emZjZk9heHJzXzBlOVI5NDZkWUFwUEQ2cWNmLWZjTFRKT0lNNS1hbnZOY3I0d9IB4AFBVV95cUxORkctd1VfVENzMWVJODNZZFM0cXk4aW9nd3hWdEFWQ0VXLUcwamtKa1I3ZXI0MDBTT0Q3XzRIQlVYaFpISTdXc3VRMzNoLTJZRnM2WHZMTm9CTEVjcW9MWEFDUkpnemY4MTdJY1R4MU1VYXZWdDVYOTR2aWx1c2ZfN21FSXFsSzZmZmhJQ1JEbkxRbHExZHdVdHJXOS15cjV2UjRCSndQRm9GQ1g5aGh6Y0VFVGJMcXF1NC1CcEVsdW1KWWNZdkR6cW1ieHg4VU4yQm1nRVBsODE0V3lNUUNkUw?oc=5
-
-- '50% Increase In Seats, 25-Year Freeze': Centre's Delimitation Push - NDTV
-  '50% Increase In Seats
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMi03Mnp2N1BLQndDRXVXVUlMRXdRcUkwSXdwaGV6dFE1ajR1bGNtMV9kRE9sMU5SMEY0MGhndG5UVV82ckQxVFY3VEF6emRRbExtVldQTk5SU2dyZ0xEY3N4dWZBdnlyS1hxYWMyWHVHRGJlVUJvanFMQWtRTThyV0gxX2dPcFVPbUFCSF9wVmhzR085ZzBYaE1QbkhpWkhseFFaNDJ6M0dxazhOaFA2cDVnSzM0R3FIcGw2U2xmeG50dHFNeHoyZDI0QkFreUNWQ2JvajBPQWtha2J6ZnROeU5pSXFuUGtnN19lUkthSzdzd9IB-gFBVV95cUxPQ2xaU1JQSDJmOTRXQmh3cmV1My1tZDg3SHMtZjlaQlM1SVllQTF6OE96WHROQkRRMmwxQk1NSHN3NTBaeFZ6ZnZsdnhzQVJLa0ozTlVyOURILUREQTVQX3IyaFQ2VXNmQ0ozTlpuam10bVZDNER1akF0em92QXFWTXNkMGtYMEVCLW1SRmZuUlEwMUdMVndCdTc2MS1VdVpuNXI5b00zWXh3UDJCTloyekNkRnJHY0RheGRfeV9HenJPR0ZlTUdFLVE1ckowQThXdFJEbG9zenZBb2g2czdVT3dZVmtBeTNCX0dIOW1MM0poTG5NOVlfUmhR?oc=5
-
-- Opposition worried, feels government won’t risk another defeat - The Times of India
-  The Times of India reports that the Indian government
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmVKSlZNcElILVNZUWdDVEI2Y3dNR3Q4T3MzejhkYnZwOHhFN0dhWk5LMURKNzc5Qk91WE91NFY0U09vNEdyRjdLSjFUNEJpSWFvRlYwNVdodHVqWTNDRmhuRS1IOXhpMk5HU1dJTkhPX0gwUExTSGxKUDdWNjcxMko0TmhDQVNfbnVkUFJ1SVRsanJ0ZTViZ2FvVkxlN1FkZURhdl9ka25XZ2Excm82aVFwUmppejV5RDg1ai1ETU84UV9DbTBv0gHMAUFVX3lxTE9WUnBLN3NGNGVzSF9mNm1GdGR4LWVsUS14SHIwT19OSm0yeTMyV0p3MnZWaHU0aEs4TWlqelEyVnV0MnF6NkxXSXd0NjBHOV9LMWxmWHpVWWx4TndKOHA0N1RYNWo0ZkdfT18wbU5iaVlCdVZHX0lmNk1tY3lZenExQnhoUUZGUmhOV3NTVUY0ZVNjVmpXdVJiS2xzckM3NG9ZZDVTRHdFQWs4VlFlNi1fZ2tHbFROY0RFZm9qSEF2aDZuYWJJNVBWenJEWQ?oc=5
-
-- Special Parliament session from next week amid delimitation, quota buzz - The Indian Express
-  Special Parliament session from next week amid delimitation,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2xmUWFNS09nMGxkdFk1M2JOVVJtc3hnTEpMNDV5c18zZXNIUkdnN1Q5cS11dFdtYlRIajEyRVhsMGJyY1VnUkxMMEEySElmeEVmYVN6YmRqM2ZPaUMwWFVKNW56cmFJMkhScWhFUmJ1TVBJMFFEdTRnc2RSVWRrLWJtSFRZbUZUTGZ4YjRCSTMxRklSZHljUExIQ1A1NVE4dTJrWVpSQTTSAa8BQVVfeXFMT2xuVkFvTlFHUUE2X29mdFk0akhkNk9CNHdKcUh5NWZEQnBNdjNrN1JFLW5Za3RRVVgwVmUxZ19NSWNYQTBVVjVDQklreE16bkE4a3R5SDJ0MXBWQXo3TXVhX3l4aG1jS1FiTmtnSk45Y01iV2piNEtqLTZ5d1pFcGw2QV9SWjd5NkFhVEJOYWpwNmdBeW5EakxieTlmZHlUcXE1S0FmdjFsOW02ZXBMaw?oc=5
+- Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal - The Hindu
+  Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObnluZ1FjVjVnYVlqVlBjWERqdFc0YmVYb2dWYk1ZWTVESmFwTXN4WlVXWHU1UHFodlFkYzB6blBhODFLeHN0T1R4ZS12RE5zaWR2OEt0eTF6ekk1U2hwS091VUdkOURYdWVPdlVzcVJaNUw4Mi1DOG5Tbko0cmp6cm5VRWlHeXZ2Q1FBT0g5RFphOEFxNF9RT2I2ODJxRGRXWERueUp0NU1qWWpkWENVVnhpRVVkYUg4OTB3ZXduR0RaOGxwNFVoRnBxeFU3RzNoemIwOHBqaXhsWWljRXNIcmZIUTMyZTFIRnlWQmJuS0Z1VEZHM080WkRVdw?oc=5
 
 - Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
   Ganga Water Treaty About To Lapse, Dh
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
 
-- War and peace distinction blurring, India faces continuous state of contestation: CDS - The Hindu
-  India faces continuous state of contestation: CDS.
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSU9rR0o2SzdubURKaEhMaU1VUU5ZQUpUTEw3bzY1dEdpVzR0N013Y2RROERTUm1OT1lMSjBEV2JrNHN3cGt5Sms0Yk04bjN6X3p6Y3RSOG5kSUdlOHJ4VFJ5Q1pvdjFXMVFEdXdjazFhNzNhYXFqbGdnbmgyc0dzUldRcGZCNGtkZmpIX29rOU90d3VpZEw5ODJRay0xS2ZBOURzUzVrS3pyXzQ3emZjZk9heHJzXzBlOVI5NDZkWUFwUEQ2cWNmLWZjTFRKT0lNNS1hbnZOY3I0d9IB4AFBVV95cUxORkctd1VfVENzMWVJODNZZFM0cXk4aW9nd3hWdEFWQ0VXLUcwamtKa1I3ZXI0MDBTT0Q3XzRIQlVYaFpISTdXc3VRMzNoLTJZRnM2WHZMTm9CTEVjcW9MWEFDUkpnemY4MTdJY1R4MU1VYXZWdDVYOTR2aWx1c2ZfN21FSXFsSzZmZmhJQ1JEbkxRbHExZHdVdHJXOS15cjV2UjRCSndQRm9GQ1g5aGh6Y0VFVGJMcXF1NC1CcEVsdW1KWWNZdkR6cW1ieHg4VU4yQm1nRVBsODE0V3lNUUNkUw?oc=5
+- Ethan Vaz and B. Savitha make India sweep both U20 World Chess Championship Titles - News On AIR
+  Ethan Vaz and B. Savitha make India sweep both
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzZRODFpc0ItR3ZQSU9LY2lkaU1aMzlRcEpJOGF0cHJ6eDBoNlp2enBnSXJMNk5WUFd3NnhDaWlNN2xtejNmUkZBRmpzZW9lSm51U2toeWozYU9Hdmswa2d4OVBYM3c1a1Qwb3NsYS13MFoxbFN6cHl3ME1vXzRqSjJQel8tQVlLdXpMVlFaUDJUSnlRek5xcnp4NTNoUUNNRUxXanRBRWYxNUU?oc=5
+
+- Pension funds should enter India’s VC markets to unlock domestic capital: Rajan Anandan - The Hindu
+  Pension funds should enter India’s VC markets to
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSWY3UENkOEFzTzdnTlZfSzN2ZnBOZkJZMXZGUExKZXNwZC03RGowdDc1Ui1MMWtYcE9OaFRhVlZJMnZtMVdueEJab2RqVEFvcmRpQUlpSzhGczViWjVST3dQSG1YdFBrOXUtWE5kT0VfalNTTzgyY2ZtSTlkNnd1cU9WdHdZQ2MwZUhSRjk1VXNaWlh2dERUeDAtbmVoM2lNNkloNmdrZENOSkFCSVR0VHNlVFlWUWI3WXZyY0FwYy1rd2JoSTZOZ2FBSVpNN1JrWDdFMklmeXpiYTVnNXY1cXFDSzI5a0p1bXfSAfABQVVfeXFMTXUzd2dIa0x0YnkzZllRUmpTSEw1czVsWkF6UFFFSmRaYUxfUVRGMjIwZ2NBcEwtYVJqQTdPam5jTmhtZjlTenpGZDZCVkdTUDdNSGJSYkIyMm92ZWpKRTVfUURqMkY3XzdBdlVBUzU5UTVVbklKWlVXSmJaNVBZUkEwM1hQTHo4LWd3aDhWaGZvMkl4c2RwWUNZalJicERhZV9SMG9JcjROckRQU0FhUG0xOTY2MnRCbjNtbjhTaFF2eV9MT1E0ZHVILUVRMmxYemN1OW0xUWNEaUw4LVVMbVh6cWtxZG9wb1RCN3hwaWV3?oc=5
+
+- Behind India’s IIT dream: Student suicides and gaps in support - Al Jazeera
+  Al Jazeera reports on IIT suicides in India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmRkTkZaWmt6eUptcWtLQ1A4LXdaME5Tc0xseWk3TVBzN1hoRld1M1ppSWJHZ05TU0JWY2hUZnpGejVKeVVHaTNmQl9rUmNQVEx6d21TR2NRUWhGMnNwdWJrWmROU2FqVDNnMzhHMHhsX2hXVGFidmdDNjJlWXBzZjJXTm5ObEJ6SDNIeVYtTmprZmRNVWVaYzRhNTRyS2NRQW5vSG0zOVdXeV9tdmtrQXZR0gG3AUFVX3lxTE50SFgycGNsdTdnZHljQ3pTRWc4SlRPeGFENVY4YlpJLXNZRmFFTUE4X29lMXJjdGpFd2xtRExyYlVWVzRSZUYxZ1IzR3BYbFNKM2pYbEhVaGhHYzVrQm1xRkdZRG4wV0FxYnFjM29vQUVEQU9KMmJaRTZ6bmk3Z1VlUGRIQVRGU3g3N0VlNDlndFRfWEhtU1RXbTNqTVlHQXZWd25IUXFRZEwwcWpqWVpKSDRSQmQ2Yw?oc=5
+
+- Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal - The Hindu
+  Delimitation Bill LIVE: 'The number 850 represents murder of democracy,' says Rahul; DMK announces support for Centre's proposal.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObnluZ1FjVjVnYVlqVlBjWERqdFc0YmVYb2dWYk1ZWTVESmFwTXN4WlVXWHU1UHFodlFkYzB6blBhODFLeHN0T1R4ZS12RE5zaWR2OEt0eTF6ekk1U2hwS091VUdkOURYdWVPdlVzcVJaNUw4Mi1DOG5Tbko0cmp6cm5VRWlHeXZ2Q1FBT0g5RFphOEFxNF9RT2I2ODJxRGRXWERueUp0NU1qWWpkWENVVnhpRVVkYUg4OTB3ZXduR0RaOGxwNFVoRnBxeFU3RzNoemIwOHBqaXhsWWljRXNIcmZIUTMyZTFIRnlWQmJuS0Z1VEZHM080WkRVdw?oc=5
+
+- Ganga Water Treaty About To Lapse, Dhaka Makes Tough Demand From India - NDTV
+  Ganga Water Treaty About To Lapse, Dh
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFZdm5pVk0zVm1CWTl5SlJBcklYVlpQaXBwbFRlMk5kdGhHazhmd3NleEozV21BSVlYdUo3aHF2T3BDNTRadHNnS29ZOWdMVWxQd3hrZGVBOUFEaW03c01MOC1sNG0wVkk2VHl0SzdOTG1mSVVnZWUxNUNmYWVOQ3pPTDNsRnltbHVlQmhsU0ZlNGhFTVBQTHo4UFVVbDhhZFBfXzJSdEs1YUREdmpn0gG3AUFVX3lxTE9vdzdUVS1TcExuakhEc0p1Q2ZGYzJaOEswZUJwVkZ1cC1sQWlBc1Qwem12ZzVnRUtZVHJ5MVNTMVFrUWR6THd6eXFQRXExVjlHMTBkSDZpZWV6bjlmbEMyVEdWeHBHcXljSVhsSTBwc3UyRUNZRGZORlFoeUhGMWVXbkI3eTVfT3hhd1hNYlZ3dDcyX3NuejRpY3FwSVRsZ2JQb1RBbnpaYWhMa25UN3VuZ05xOEJTZw?oc=5
+
+- Ethan Vaz and B. Savitha make India sweep both U20 World Chess Championship Titles - News On AIR
+  Ethan Vaz and B. Savitha make India sweep both
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzZRODFpc0ItR3ZQSU9LY2lkaU1aMzlRcEpJOGF0cHJ6eDBoNlp2enBnSXJMNk5WUFd3NnhDaWlNN2xtejNmUkZBRmpzZW9lSm51U2toeWozYU9Hdmswa2d4OVBYM3c1a1Qwb3NsYS13MFoxbFN6cHl3ME1vXzRqSjJQel8tQVlLdXpMVlFaUDJUSnlRek5xcnp4NTNoUUNNRUxXanRBRWYxNUU?oc=5
+
+- Pension funds should enter India’s VC markets to unlock domestic capital: Rajan Anandan - The Hindu
+  Pension funds should enter India’s VC markets to
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSWY3UENkOEFzTzdnTlZfSzN2ZnBOZkJZMXZGUExKZXNwZC03RGowdDc1Ui1MMWtYcE9OaFRhVlZJMnZtMVdueEJab2RqVEFvcmRpQUlpSzhGczViWjVST3dQSG1YdFBrOXUtWE5kT0VfalNTTzgyY2ZtSTlkNnd1cU9WdHdZQ2MwZUhSRjk1VXNaWlh2dERUeDAtbmVoM2lNNkloNmdrZENOSkFCSVR0VHNlVFlWUWI3WXZyY0FwYy1rd2JoSTZOZ2FBSVpNN1JrWDdFMklmeXpiYTVnNXY1cXFDSzI5a0p1bXfSAfABQVVfeXFMTXUzd2dIa0x0YnkzZllRUmpTSEw1czVsWkF6UFFFSmRaYUxfUVRGMjIwZ2NBcEwtYVJqQTdPam5jTmhtZjlTenpGZDZCVkdTUDdNSGJSYkIyMm92ZWpKRTVfUURqMkY3XzdBdlVBUzU5UTVVbklKWlVXSmJaNVBZUkEwM1hQTHo4LWd3aDhWaGZvMkl4c2RwWUNZalJicERhZV9SMG9JcjROckRQU0FhUG0xOTY2MnRCbjNtbjhTaFF2eV9MT1E0ZHVILUVRMmxYemN1OW0xUWNEaUw4LVVMbVh6cWtxZG9wb1RCN3hwaWV3?oc=5
+
+- Behind India’s IIT dream: Student suicides and gaps in support - Al Jazeera
+  Al Jazeera reports on IIT suicides in India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmRkTkZaWmt6eUptcWtLQ1A4LXdaME5Tc0xseWk3TVBzN1hoRld1M1ppSWJHZ05TU0JWY2hUZnpGejVKeVVHaTNmQl9rUmNQVEx6d21TR2NRUWhGMnNwdWJrWmROU2FqVDNnMzhHMHhsX2hXVGFidmdDNjJlWXBzZjJXTm5ObEJ6SDNIeVYtTmprZmRNVWVaYzRhNTRyS2NRQW5vSG0zOVdXeV9tdmtrQXZR0gG3AUFVX3lxTE50SFgycGNsdTdnZHljQ3pTRWc4SlRPeGFENVY4YlpJLXNZRmFFTUE4X29lMXJjdGpFd2xtRExyYlVWVzRSZUYxZ1IzR3BYbFNKM2pYbEhVaGhHYzVrQm1xRkdZRG4wV0FxYnFjM29vQUVEQU9KMmJaRTZ6bmk3Z1VlUGRIQVRGU3g3N0VlNDlndFRfWEhtU1RXbTNqTVlHQXZWd25IUXFRZEwwcWpqWVpKSDRSQmQ2Yw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-11-28 01:02:28 UTC_
+_Last updated: 2026-11-28 14:58:55 UTC_
